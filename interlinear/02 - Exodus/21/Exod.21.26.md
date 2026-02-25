@@ -1,8 +1,68 @@
+---
+title: Exodus 21:26
+type: Verse
+kjv: "And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake."
+bsb: "If a man strikes and blinds the eye of his manservant or maidservant, he must let the servant go free as compensation for the eye."
+hebrew: "וְכִֽי־ יַכֶּ֨ה אִ֜ישׁ אֶת־ עֵ֥ין עַבְדּ֛וֹ אֽוֹ־ אֶת־ עֵ֥ין אֲמָת֖וֹ וְשִֽׁחֲתָ֑הּ לַֽחָפְשִׁ֥י יְשַׁלְּחֶ֖נּוּ תַּ֥חַת עֵינֽוֹ׃ ס"
+pericope: "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H5869A]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H0176A]]"
+- "[[H0519]]"
+- "[[H9001]]"
+- "[[H7843]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H2670]]"
+- "[[H7971H]]"
+- "[[H9033]]"
+- "[[H8478J]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 21:26**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man smite the eye of his servant, or the eye of his maid, that it perish; he shall let him go free for his eye’s sake.
 <small><sub>**BSB:**</sub></small>
 If a man strikes and blinds the eye of his manservant or maidservant, he must let the servant go free as compensation for the eye.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H5221\|יַכֶּ֨ה]] [[H0376I\|אִ֜ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵ֥ין]] [[H5650\|עַבְדּ֛]][[H9023\|וֹ]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵ֥ין]] [[H0519\|אֲמָת֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H7843\|שִֽׁחֲתָ֑]][[H9034\|הּ]] [[H9005\|לַֽ]][[H2670\|חָפְשִׁ֥י]] [[H7971H\|יְשַׁלְּחֶ֖]][[H9033\|נּוּ]] [[H8478J\|תַּ֥חַת]] [[H5869A\|עֵינֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.25|<< Exodus 21:25]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.27|Exodus 21:27 >>]]</td></tr></table>
 
@@ -22,7 +82,7 @@ If a man strikes and blinds the eye of his manservant or maidservant, he must le
 | to \<the> free [person]  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H2670\|חָפְשִׁ֥י]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> cha.fe.Shi<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will set free him  |**<big>&#8207;[[H7971H\|יְשַׁלְּחֶ֖]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| ye.shal.le.Che.<small><sup>[[HVpi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in place of  |**<big>&#8207;[[H8478J\|תַּ֥חַת]]&#8207; </big>**| Ta.chat<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| eye his  |**<big>&#8207;[[H5869A\|עֵינֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ei.N<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| eye his  |**<big>&#8207;[[H5869A\|עֵינֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ei.N<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.25|<< Exodus 21:25]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.27|Exodus 21:27 >>]]</td></tr></table>
 
 

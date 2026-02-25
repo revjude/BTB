@@ -1,10 +1,65 @@
+---
+title: Mark 12:24
+type: Verse
+kjv: "And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?"
+bsb: "Jesus said to them, “Aren’t you mistaken, because you do not know the Scriptures or the power of God?"
+jesus_said: "Do ye not therefore err, because ye know not the scriptures, neither the power of God?"
+greek: "Καὶ ἔφη αὐτοῖς ὁ Ἰησοῦς εἶπεν· οὐ διὰ τοῦτο πλανᾶσθε μὴ εἰδότες τὰς γραφὰς μηδὲ τὴν δύναμιν τοῦ θεοῦ;"
+pericope: "[[Mark.12.18 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G5346]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G4105]]"
+- "[[G3361]]"
+- "[[G6063]]"
+- "[[G1124]]"
+- "[[G3366]]"
+- "[[G1411]]"
+- "[[G2316]]"
+texts:
+- k
+- N(k)O
+- NKO
+---
+
 **Mark 12:24**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “Aren’t you mistaken, because you do not know the Scriptures or the power of God?
-<small><sub>**Literal:**</sub></small>
-and Was saying to them <the> Jesus said: Surely because of this do you err not knowing the Scriptures nor [knowing] the power <the> of God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.23|<< Mark 12:23]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.25|Mark 12:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G5346\|ἔφη]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G3756\|οὐ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G4105\|πλανᾶσθε]]  [[G3361\|μὴ]]  [[G6063\|εἰδότες]]  [[G3588\|τὰς]]  [[G1124\|γραφὰς]]  [[G3366\|μηδὲ]]  [[G3588\|τὴν]]  [[G1411\|δύναμιν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic SATIRE|SATIRE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.23|<< Mark 12:23]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.25|Mark 12:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

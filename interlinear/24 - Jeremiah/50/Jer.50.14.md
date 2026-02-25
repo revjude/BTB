@@ -1,8 +1,58 @@
+---
+title: Jeremiah 50:14
+type: Verse
+kjv: "Put yourselves in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the LORD."
+bsb: "Line up in formation around Babylon, all you who draw the bow! Shoot at her! Spare no arrows! For she has sinned against the LORD."
+hebrew: "עִרְכ֨וּ עַל־ בָּבֶ֤ל׀ סָבִיב֙ כָּל־ דֹּ֣רְכֵי קֶ֔שֶׁת יְד֣וּ אֵלֶ֔יהָ אַֽל־ תַּחְמְל֖וּ אֶל־ חֵ֑ץ כִּ֥י לַֽיהוָ֖ה חָטָֽאָה׃"
+pericope: "[[Jer.50.11 Babylon’s Fall Is Certain|Babylon’s Fall Is Certain]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H6186A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H9015]]"
+- "[[H5439G]]"
+- "[[H3605]]"
+- "[[H1869]]"
+- "[[H7198]]"
+- "[[H3034]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H0408]]"
+- "[[H2550]]"
+- "[[H2671]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:14**<big><big>[[Jer.50.11 Babylon’s Fall Is Certain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Put yourselves in array against Babylon round about: all ye that bend the bow, shoot at her, spare no arrows: for she hath sinned against the LORD.
 <small><sub>**BSB:**</sub></small>
 Line up in formation around Babylon, all you who draw the bow! Shoot at her! Spare no arrows! For she has sinned against the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H6186A\|עִרְכ֨וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H0894\|בָּבֶ֤ל]][[H9015\|׀]] [[H5439G\|סָבִיב֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1869\|דֹּ֣רְכֵי]] [[H7198\|קֶ֔שֶׁת]] [[H3034\|יְד֣וּ]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H0408\|אַֽל]][[H9014\|־]] [[H2550\|תַּחְמְל֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H2671\|חֵ֑ץ]] [[H3588A\|כִּ֥י]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H2398\|חָטָֽאָה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.13|<< Jeremiah 50:13]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.15|Jeremiah 50:15 >>]]</td></tr></table>
 

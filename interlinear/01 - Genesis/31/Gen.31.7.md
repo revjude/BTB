@@ -1,8 +1,72 @@
+---
+title: Genesis 31:7
+type: Verse
+kjv: "And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me."
+bsb: "And although he has cheated me and changed my wages ten times, God has not allowed him to harm me."
+hebrew: "וַאֲבִיכֶן֙ הֵ֣תֶל בִּ֔י וְהֶחֱלִ֥ף אֶת־ מַשְׂכֻּרְתִּ֖י עֲשֶׂ֣רֶת מֹנִ֑ים וְלֹֽא־ נְתָנ֣וֹ אֱלֹהִ֔ים לְהָרַ֖ע עִמָּדִֽי׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FATHER-IN-LAW|FATHER-IN-LAW]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TEN|TEN]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9027]]"
+- "[[H2048B]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H2498]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4909]]"
+- "[[H9020]]"
+- "[[H6235]]"
+- "[[H4489]]"
+- "[[H3808]]"
+- "[[H5414K]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H7489A]]"
+- "[[H5978]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:7**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.
 <small><sub>**BSB:**</sub></small>
 And although he has cheated me and changed my wages ten times, God has not allowed him to harm me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0001G\|אֲבִי]][[H9027\|כֶן֙]] [[H2048B\|הֵ֣תֶל]] [[H9003\|בִּ֔]][[H9030\|י]] [[H9001\|וְ]][[H2498\|הֶחֱלִ֥ף]] [[H0853\|אֶת]][[H9014\|־]] [[H4909\|מַשְׂכֻּרְתִּ֖]][[H9020\|י]] [[H6235\|עֲשֶׂ֣רֶת]] [[H4489\|מֹנִ֑ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5414K\|נְתָנ֣]][[H9033\|וֹ]] [[H0430G\|אֱלֹהִ֔ים]] [[H9005\|לְ]][[H7489A\|הָרַ֖ע]] [[H5978\|עִמָּדִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FATHER-IN-LAW|FATHER-IN-LAW]] • [[topic LABAN|LABAN]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic TEN|TEN]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.6|<< Genesis 31:6]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.8|Genesis 31:8 >>]]</td></tr></table>
 

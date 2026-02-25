@@ -1,10 +1,57 @@
+---
+title: Mark 10:11
+type: Verse
+kjv: "And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her."
+bsb: "So He told them, “Whoever divorces his wife and marries another woman commits adultery against her."
+jesus_said: "Whosoever shall put away his wife, and marry another, committeth adultery against her."
+greek: "καὶ λέγει αὐτοῖς· ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὐτοῦ καὶ γαμήσῃ ἄλλην, μοιχᾶται ἐπ᾽ αὐτήν."
+pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G0630H]]"
+- "[[G3588]]"
+- "[[G1135H]]"
+- "[[G1060]]"
+- "[[G0243]]"
+- "[[G3429]]"
+- "[[G1909]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 10:11**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.
 <small><sub>**BSB:**</sub></small>
 So He told them, “Whoever divorces his wife and marries another woman commits adultery against her.
-<small><sub>**Literal:**</sub></small>
-And He says to them; Who[ever] maybe shall divorce the wife of him and shall marry another, commits adultery against her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.10|<< Mark 10:10]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.12|Mark 10:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G0630H\|ἀπολύσῃ]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1060\|γαμήσῃ]]  [[G0243\|ἄλλην,]]  [[G3429\|μοιχᾶται]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.10|<< Mark 10:10]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.12|Mark 10:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,63 @@
+---
+title: Colossians 2:1
+type: Verse
+kjv: "For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;"
+bsb: "For I want you to know how much I am struggling for you and for those at Laodicea, and for all who have not met me face to face,"
+greek: "Θέλω γὰρ ὑμᾶς εἰδέναι ἡλίκον ἀγῶνα ἔχω ὑπὲρ ὑμῶν καὶ τῶν ἐν Λαοδικείᾳ καὶ ὅσοι οὐχ ἑόρακαν τὸ πρόσωπόν μου ἐν σαρκί,"
+pericope: "[[Col.2.1 Absent in Body, Present in Spirit|Absent in Body, Present in Spirit]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2309]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G6063]]"
+- "[[G2245]]"
+- "[[G0073]]"
+- "[[G2192]]"
+- "[[G5228]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G2993]]"
+- "[[G3745]]"
+- "[[G3756]]"
+- "[[G3708]]"
+- "[[G4383]]"
+- "[[G3165]]"
+- "[[G4561]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Colossians 2:1**<big><big>[[Col.2.1 Absent in Body, Present in Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I would that ye knew what great conflict I have for you, and [for] them at Laodicea, and [for] as many as have not seen my face in the flesh;
 <small><sub>**BSB:**</sub></small>
 For I want you to know how much I am struggling for you and for those at Laodicea, and for all who have not met me face to face,
-<small><sub>**Literal:**</sub></small>
-I want for you to know how great a struggle I am having for you and those in Laodicea and as many as not have seen the face of me in [the] flesh,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.29|<< Colossians 1:29]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.2|Colossians 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2309\|Θέλω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμᾶς]]  [[G6063\|εἰδέναι]]  [[G2245\|ἡλίκον]]  [[G0073\|ἀγῶνα]]  [[G2192\|ἔχω]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G1722\|ἐν]]  [[G2993\|Λαοδικείᾳ]]  [[G2532\|καὶ]]  [[G3745\|ὅσοι]]  [[G3756\|οὐχ]]  [[G3708\|ἑόρακαν]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπόν]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G4561\|σαρκί,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic LAODICEA|LAODICEA]] • [[topic LOVE|LOVE]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.29|<< Colossians 1:29]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.2|Colossians 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

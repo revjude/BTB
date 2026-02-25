@@ -1,8 +1,58 @@
+---
+title: Jeremiah 31:4
+type: Verse
+kjv: "Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry."
+bsb: "Again I will build you, and you will be rebuilt, O Virgin Israel. Again you will take up your tambourines and go out in joyful dancing."
+hebrew: "ע֤וֹד אֶבְנֵךְ֙ וְֽנִבְנֵ֔ית בְּתוּלַ֖ת יִשְׂרָאֵ֑ל ע֚וֹד תַּעְדִּ֣י תֻפַּ֔יִךְ וְיָצָ֖את בִּמְח֥וֹל מְשַׂחֲקִֽים׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DANCING|DANCING]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic VIRGIN|VIRGIN]]"
+strongs:
+- "[[H5750]]"
+- "[[H1129]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H1330]]"
+- "[[H3478]]"
+- "[[H5710B]]"
+- "[[H8596]]"
+- "[[H9022]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H4234]]"
+- "[[H7832]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:4**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again I will build thee, and thou shalt be built, O virgin of Israel: thou shalt again be adorned with thy tabrets, and shalt go forth in the dances of them that make merry.
 <small><sub>**BSB:**</sub></small>
 Again I will build you, and you will be rebuilt, O Virgin Israel. Again you will take up your tambourines and go out in joyful dancing.
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|ע֤וֹד]] [[H1129\|אֶבְנֵ]][[H9032\|ךְ֙]] [[H9001\|וְֽ]][[H1129\|נִבְנֵ֔ית]] [[H1330\|בְּתוּלַ֖ת]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5750\|ע֚וֹד]] [[H5710B\|תַּעְדִּ֣י]] [[H8596\|תֻפַּ֔יִ]][[H9022\|ךְ]] [[H9001\|וְ]][[H3318G\|יָצָ֖את]] [[H9003\|בִּ]][[H4234\|מְח֥וֹל]] [[H7832\|מְשַׂחֲקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANCING|DANCING]] • [[topic MUSIC|MUSIC]] • [[topic VIRGIN|VIRGIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.3|<< Jeremiah 31:3]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.5|Jeremiah 31:5 >>]]</td></tr></table>
 

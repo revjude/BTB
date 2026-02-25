@@ -1,10 +1,63 @@
+---
+title: Matthew 21:2
+type: Verse
+kjv: "Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me."
+bsb: "saying to them, “Go into the village ahead of you, and at once you will find a donkey tied there, with her colt beside her. Untie them and bring them to Me."
+jesus_said: "Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose them, and bring them unto me."
+greek: "λέγων αὐτοῖς· πορεύεσθε εἰς τὴν κώμην τὴν κατέναντι ὑμῶν. καὶ εὐθέως εὑρήσετε ὄνον δεδεμένην καὶ πῶλον μετ᾽ αὐτῆς· λύσαντες ἀγάγετέ μοι."
+pericope: "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic COLT|COLT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2968]]"
+- "[[G2713]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G2147]]"
+- "[[G3688]]"
+- "[[G1210]]"
+- "[[G4454]]"
+- "[[G3326]]"
+- "[[G3089]]"
+- "[[G0071]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Matthew 21:2**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying unto them, Go into the village over against you, and straightway ye shall find an ass tied, and a colt with her: loose [them], and bring [them] unto me.
 <small><sub>**BSB:**</sub></small>
 saying to them, “Go into the village ahead of you, and at once you will find a donkey tied there, with her colt beside her. Untie them and bring them to Me.
-<small><sub>**Literal:**</sub></small>
-saying to them; do go into the village which [is] in front of you. and immediately you will find a donkey tied and a colt with her; having untied [them] do bring [them] to Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.1|<< Matthew 21:1]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.3|Matthew 21:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων]]  [[G0846\|αὐτοῖς·]]  [[G4198\|πορεύεσθε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2968\|κώμην]]  [[G3588\|τὴν]]  [[G2713\|κατέναντι]]  [[G4771\|ὑμῶν.]]  [[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G2147\|εὑρήσετε]]  [[G3688\|ὄνον]]  [[G1210\|δεδεμένην]]  [[G2532\|καὶ]]  [[G4454\|πῶλον]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῆς·]]  [[G3089\|λύσαντες]]  [[G0071\|ἀγάγετέ]]  [[G3165\|μοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic COLT|COLT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.1|<< Matthew 21:1]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.3|Matthew 21:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

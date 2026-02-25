@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Arrives in Italy
+type: Pericope
 pericope: "[[Acts.28.11 Paul Arrives in Italy|Paul Arrives in Italy]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 28
 book/chapter: "[[Acts.28|Acts 28]]"
-genre:
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.28.11]]"
 - "[[Acts.28.12]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.28.15]]"
 ---
 
-[[Acts.28|Acts 28:11 - Acts 28:15]]
+<small>[[Acts.28|Acts 28:11-15]]</small>
 *Paul Arrives in Italy*
 
 [[Acts.28.11|11]] And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.

@@ -1,8 +1,65 @@
+---
+title: Exodus 36:36
+type: Verse
+kjv: "And he made thereunto four pillars of shittim wood, and overlaid them with gold: their hooks were of gold; and he cast for them four sockets of silver."
+bsb: "He also made four posts of acacia wood for it and overlaid them with gold, along with gold hooks; and he cast four silver bases for the posts."
+hebrew: "וַיַּ֣עַשׂ לָ֗הּ אַרְבָּעָה֙ עַמּוּדֵ֣י שִׁטִּ֔ים וַיְצַפֵּ֣ם זָהָ֔ב וָוֵיהֶ֖ם זָהָ֑ב וַיִּצֹ֣ק לָהֶ֔ם אַרְבָּעָ֖ה אַדְנֵי־ כָֽסֶף׃"
+pericope: "[[Exod.36.35 The Veil|The Veil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HOOKS|HOOKS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0702]]"
+- "[[H5982G]]"
+- "[[H7848]]"
+- "[[H6823]]"
+- "[[H9038]]"
+- "[[H2091]]"
+- "[[H2053]]"
+- "[[H9028]]"
+- "[[H3332H]]"
+- "[[H0134]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:36**<big><big>[[Exod.36.35 The Veil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made thereunto four pillars [of] shittim [wood], and overlaid them with gold: their hooks [were of] gold; and he cast for them four sockets of silver.
 <small><sub>**BSB:**</sub></small>
 He also made four posts of acacia wood for it and overlaid them with gold, along with gold hooks; and he cast four silver bases for the posts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֣עַשׂ]] [[H9005\|לָ֗]][[H9034\|הּ]] [[H0702\|אַרְבָּעָה֙]] [[H5982G\|עַמּוּדֵ֣י]] [[H7848\|שִׁטִּ֔ים]] [[H9001\|וַ]][[H6823\|יְצַפֵּ֣]][[H9038\|ם]] [[H2091\|זָהָ֔ב]] [[H2053\|וָוֵי]][[H9028\|הֶ֖ם]] [[H2091\|זָהָ֑ב]] [[H9001\|וַ]][[H3332H\|יִּצֹ֣ק]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H0702\|אַרְבָּעָ֖ה]] [[H0134\|אַדְנֵי]][[H9014\|־]] [[H3701G\|כָֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOOKS|HOOKS]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]] • [[topic VAIL|VAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.35|<< Exodus 36:35]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.37|Exodus 36:37 >>]]</td></tr></table>
 

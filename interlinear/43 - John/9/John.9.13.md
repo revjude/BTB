@@ -1,10 +1,49 @@
+---
+title: John 9:13
+type: Verse
+kjv: "They brought to the Pharisees him that aforetime was blind."
+bsb: "They brought to the Pharisees the man who had been blind."
+greek: "Ἄγουσιν αὐτὸν πρὸς τοὺς Φαρισαίους, τόν ποτε τυφλόν·"
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G0071]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G4218]]"
+- "[[G5185]]"
+texts:
+- NKO
+---
+
 **John 9:13**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They brought to the Pharisees him that aforetime was blind.
 <small><sub>**BSB:**</sub></small>
 They brought to the Pharisees the man who had been blind.
-<small><sub>**Literal:**</sub></small>
-They bring him to the Pharisees who once [was] blind;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.12|<< John 9:12]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.14|John 9:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0071\|Ἄγουσιν]]  [[G0846\|αὐτὸν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G5330\|Φαρισαίους,]]  [[G3588\|τόν]]  [[G4218\|ποτε]]  [[G5185\|τυφλόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.12|<< John 9:12]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.14|John 9:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

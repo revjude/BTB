@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Redemption of the Firstborn
+type: Pericope
 pericope: "[[Num.3.40 The Redemption of the Firstborn|The Redemption of the Firstborn]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 3
 book/chapter: "[[Num.3|Numbers 3]]"
-genre:
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 12
 verses:
 - "[[Num.3.40]]"
 - "[[Num.3.41]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Num.3.51]]"
 ---
 
-[[Num.3|Numbers 3:40 - Numbers 3:51]]
+<small>[[Num.3|Numbers 3:40-51]]</small>
 *The Redemption of the Firstborn*
 
 [[Num.3.40|40]] And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names.

@@ -1,10 +1,71 @@
+---
+title: Luke 5:12
+type: Verse
+kjv: "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean."
+bsb: "While Jesus was in one of the towns, a man came along who was covered with leprosy. When he saw Jesus, he fell facedown and begged Him, “Lord, if You are willing, You can make me clean.”"
+greek: "Καὶ ἐγένετο ἐν τῷ εἶναι αὐτὸν ἐν μιᾷ τῶν πόλεων καὶ ἰδοὺ ἀνὴρ πλήρης λέπρας· καὶ ἰδὼν δὲ τὸν Ἰησοῦν, πεσὼν ἐπὶ πρόσωπον ἐδεήθη αὐτοῦ λέγων· κύριε, ἐὰν θέλῃς, δύνασαί με καθαρίσαι."
+pericope: "[[Luke.5.12 The Leper’s Prayer|The Leper’s Prayer]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1511]]"
+- "[[G0846]]"
+- "[[G1520]]"
+- "[[G4172]]"
+- "[[G2400]]"
+- "[[G0435G]]"
+- "[[G4134]]"
+- "[[G3014]]"
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G4383]]"
+- "[[G1189]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G1437]]"
+- "[[G2309]]"
+- "[[G1410]]"
+- "[[G3165]]"
+- "[[G2511]]"
+texts:
+- NKO
+- ko
+- no
+---
+
 **Luke 5:12**<big><big>[[Luke.5.12 The Leper’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on [his] face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.
 <small><sub>**BSB:**</sub></small>
 While Jesus was in one of the towns, a man came along who was covered with leprosy. When he saw Jesus, he fell facedown and begged Him, “Lord, if You are willing, You can make me clean.”
-<small><sub>**Literal:**</sub></small>
-And it came to pass in <the> being Him in one of the cities that behold a man full of leprosy; and having seen then <the> Jesus, having fallen upon [his] face begged Him saying; Lord, if You shall be willing, You are able me to cleanse.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.11|<< Luke 5:11]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.13|Luke 5:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1511\|εἶναι]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G1520\|μιᾷ]]  [[G3588\|τῶν]]  [[G4172\|πόλεων]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0435G\|ἀνὴρ]]  [[G4134\|πλήρης]]  [[G3014\|λέπρας·]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν,]]  [[G4098\|πεσὼν]]  [[G1909\|ἐπὶ]]  [[G4383\|πρόσωπον]]  [[G1189\|ἐδεήθη]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγων·]]  [[G2962G\|κύριε,]]  [[G1437\|ἐὰν]]  [[G2309\|θέλῃς,]]  [[G1410\|δύνασαί]]  [[G3165\|με]]  [[G2511\|καθαρίσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.11|<< Luke 5:11]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.13|Luke 5:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

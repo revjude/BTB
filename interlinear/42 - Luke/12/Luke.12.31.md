@@ -1,10 +1,58 @@
+---
+title: Luke 12:31
+type: Verse
+kjv: "But rather seek ye the kingdom of God; and all these things shall be added unto you."
+bsb: "But seek His kingdom, and these things will be added unto you."
+jesus_said: "But rather seek ye the kingdom of God; and all these things shall be added unto you."
+greek: "πλὴν ζητεῖτε τὴν βασιλείαν τοῦ αὐτοῦ καὶ ταῦτα πάντα προστεθήσεται ὑμῖν.¶"
+pericope: "[[Luke.12.22 Do Not Worry|Do Not Worry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CARE|CARE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4133]]"
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3956]]"
+- "[[G4369]]"
+- "[[G4771]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Luke 12:31**<big><big>[[Luke.12.22 Do Not Worry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But rather seek ye the kingdom of God; and all these things shall be added unto you.
 <small><sub>**BSB:**</sub></small>
 But seek His kingdom, and these things will be added unto you.
-<small><sub>**Literal:**</sub></small>
-But do seek the kingdom <the> of Him and these things all things will be added to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.30|<< Luke 12:30]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.32|Luke 12:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4133\|πλὴν]]  [[G2212\|ζητεῖτε]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G3956\|πάντα]]  [[G4369\|προστεθήσεται]]  [[G4771\|ὑμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CARE|CARE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.30|<< Luke 12:30]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.32|Luke 12:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

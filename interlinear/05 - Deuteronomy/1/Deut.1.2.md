@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 1:2
+type: Verse
+kjv: "(There are eleven days’ journey from Horeb by the way of mount Seir unto Kadeshbarnea.)"
+bsb: "It is an eleven-day journey from Horeb to Kadesh-barnea by way of Mount Seir."
+hebrew: "אַחַ֨ד עָשָׂ֥ר יוֹם֙ מֵֽחֹרֵ֔ב דֶּ֖רֶךְ הַר־ שֵׂעִ֑יר עַ֖ד קָדֵ֥שׁ בַּרְנֵֽעַ׃"
+pericope: "[[Deut.1.1 The Command to Leave Horeb|The Command to Leave Horeb]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HOREB|HOREB]]"
+- "[[topic SEIR|SEIR]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H0259]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9006]]"
+- "[[H2722]]"
+- "[[H1870K]]"
+- "[[H2022G]]"
+- "[[H9014]]"
+- "[[H8165G]]"
+- "[[H5704]]"
+- "[[H6947]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:2**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 ([There are] eleven days’ [journey] from Horeb by the way of mount Seir unto Kadeshbarnea.)
 <small><sub>**BSB:**</sub></small>
 It is an eleven-day journey from Horeb to Kadesh-barnea by way of Mount Seir.
+<small><sub>**Hebrew:**</sub></small>
+[[H0259\|אַחַ֨ד]] [[H6240\|עָשָׂ֥ר]] [[H3117G\|יוֹם֙]] [[H9006\|מֵֽ]][[H2722\|חֹרֵ֔ב]] [[H1870K\|דֶּ֖רֶךְ]] [[H2022G\|הַר]][[H9014\|־]] [[H8165G\|שֵׂעִ֑יר]] [[H5704\|עַ֖ד]] [[H6947\|קָדֵ֥שׁ]] [[H6947\|בַּרְנֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOREB|HOREB]] • [[topic SEIR|SEIR]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.1|<< Deuteronomy 1:1]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.3|Deuteronomy 1:3 >>]]</td></tr></table>
 

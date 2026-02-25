@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Request of James and John
+type: Pericope
 pericope: "[[Mark.10.35 The Request of James and John|The Request of James and John]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Mark
 chapter: 10
 book/chapter: "[[Mark.10|Mark 10]]"
-genre:
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Mark.10.35]]"
 - "[[Mark.10.36]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Mark.10.45]]"
 ---
 
-[[Mark.10|Mark 10:35 - Mark 10:45]]
+<small>[[Mark.10|Mark 10:35-45]]</small>
 *The Request of James and John*
 
 [[Mark.10.35|35]] And James and John, the sons of Zebedee, come unto him, saying, Master, we would that thou shouldest do for us whatsoever we shall desire.

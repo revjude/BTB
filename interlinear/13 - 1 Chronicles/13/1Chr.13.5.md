@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 13:5
+type: Verse
+kjv: "So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim."
+bsb: "So David assembled all Israel, from the River Shihor in Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim."
+hebrew: "וַיַּקְהֵ֤ל דָּוִיד֙ אֶת־ כָּל־ יִשְׂרָאֵ֔ל מִן־ שִׁיח֥וֹר מִצְרַ֖יִם וְעַד־ לְב֣וֹא חֲמָ֑ת לְהָבִיא֙ אֶת־ אֲר֣וֹן הָאֱלֹהִ֔ים מִקִּרְיַ֖ת יְעָרִֽים׃"
+pericope: "[[1Chr.13.1 David Fetches the Ark|David Fetches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 13
+book/chapter: "[[1Chr.13|1 Chronicles 13]]"
+chronological_order: 394
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic SIHOR|SIHOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6950]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H7883H]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0935H]]"
+- "[[H2574G]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9006]]"
+- "[[H7157]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 13:5**<big><big>[[1Chr.13.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjathjearim.
 <small><sub>**BSB:**</sub></small>
 So David assembled all Israel, from the River Shihor in Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6950\|יַּקְהֵ֤ל]] [[H1732\|דָּוִיד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H4480A\|מִן]][[H9014\|־]] [[H7883H\|שִׁיח֥וֹר]] [[H4714G\|מִצְרַ֖יִם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0935H\|לְב֣וֹא]] [[H2574G\|חֲמָ֑ת]] [[H9005\|לְ]][[H0935P\|הָבִיא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9006\|מִ]][[H7157\|קִּרְיַ֖ת]] [[H7157\|יְעָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic SIHOR|SIHOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.4|<< 1 Chronicles 13:4]]</td><td align="center" style="border:none;">[[1Chr.13|1 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.13.6|1 Chronicles 13:6 >>]]</td></tr></table>
 

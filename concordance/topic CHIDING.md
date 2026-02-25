@@ -9,7 +9,7 @@
 
 → Abimelech chides Isaac for similar conduct [[Gen.26.9|Ge 26:9]],[[Gen.26.10|10]]
 
-→ Isaac and Laban chide each other [[Gen.31.26|Ge 31:26]]-[[Gen.31.42|42]]
+→ Isaac and Laban chide each other [[Gen.31.26|Ge 31:26-42]]
 
 → Jacob chides Simeon and Levi for killing Hamor and Shechem  [[Gen.34.30|Ge 34:30]]
 
@@ -17,15 +17,15 @@
 
 → Israelites chide Moses and tempt God [[Exod.17.7|Ex 17:7]]
 
-→ Deborah chides Israel in her epic [[Judg.5.16|Jud 5:16]]-[[Judg.5.23|23]]
+→ Deborah chides Israel in her epic [[Judg.5.16|Jud 5:16-23]]
 
-→ David chides Joab for killing Abner [[2Sam.3.28|2Sa 3:28]]-[[2Sam.3.31|31]]
+→ David chides Joab for killing Abner [[2Sam.3.28|2Sa 3:28-31]]
 
-→ Joab chides David for lamenting the death of Absalom  [[2Sam.19.5|2Sa 19:5]]-[[2Sam.19.7|7]]
+→ Joab chides David for lamenting the death of Absalom  [[2Sam.19.5|2Sa 19:5-7]]
 
 → Jesus chides his disciples
 
-- On account of their unbelief [[Matt.8.26|Mt 8:26]]; [[Matt.14.31|14:31]]; [[Matt.16.8|16:8]]-[[Matt.16.11|11]];  [[Matt.17.17|17:17]]; [[Mark.4.40|Mr 4:40]]; [[Luke.8.25|Lu 8:25]]
+- On account of their unbelief [[Matt.8.26|Mt 8:26]]; [[Matt.14.31|14:31]]; [[Matt.16.8|16:8-11]];  [[Matt.17.17|17:17]]; [[Mark.4.40|Mr 4:40]]; [[Luke.8.25|Lu 8:25]]
 
 - For slowness of heart [[Matt.15.16|Mt 15:16]]; [[Matt.16.8|16:8]],[[Matt.16.9|9]],[[Matt.16.11|11]]; [[Mark.7.18|Mr 7:18]];  [[Luke.24.25|Lu 24:25]]; [[John.14.9|Joh 14:9]]
 

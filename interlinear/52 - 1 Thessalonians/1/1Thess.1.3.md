@@ -1,10 +1,65 @@
+---
+title: 1 Thessalonians 1:3
+type: Verse
+kjv: "Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;"
+bsb: "and continually recalling before our God and Father your work of faith, your labor of love, and your enduring hope in our Lord Jesus Christ."
+greek: "μνημονεύοντες ὑμῶν τοῦ ἔργου τῆς πίστεως καὶ τοῦ κόπου τῆς ἀγάπης καὶ τῆς ὑπομονῆς τῆς ἐλπίδος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἔμπροσθεν τοῦ θεοῦ καὶ πατρὸς ἡμῶν·"
+pericope: "[[1Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 1
+book/chapter: "[[1Thess.1|1 Thessalonians 1]]"
+chronological_order: 1048
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3421]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G4102G]]"
+- "[[G2532]]"
+- "[[G2873]]"
+- "[[G0026]]"
+- "[[G5281]]"
+- "[[G1680]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1715]]"
+- "[[G2316]]"
+- "[[G3962]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 1:3**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;
 <small><sub>**BSB:**</sub></small>
 and continually recalling before our God and Father your work of faith, your labor of love, and your enduring hope in our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-remembering your <the> work <the> of faith and <the> labor <the> of love and the endurance of the hope of the Lord of us Jesus Christ before the God and Father of us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.2|<< 1 Thessalonians 1:2]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.4|1 Thessalonians 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3421\|μνημονεύοντες]]  [[G4771\|ὑμῶν]]  [[G3588\|τοῦ]]  [[G2041\|ἔργου]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G2873\|κόπου]]  [[G3588\|τῆς]]  [[G0026\|ἀγάπης]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G5281\|ὑπομονῆς]]  [[G3588\|τῆς]]  [[G1680\|ἐλπίδος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.2|<< 1 Thessalonians 1:2]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.4|1 Thessalonians 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

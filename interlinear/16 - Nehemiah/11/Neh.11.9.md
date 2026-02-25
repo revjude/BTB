@@ -1,8 +1,59 @@
+---
+title: Nehemiah 11:9
+type: Verse
+kjv: "And Joel the son of Zichri was their overseer: and Judah the son of Senuah was second over the city."
+bsb: "Joel son of Zichri was the officer over them, and Judah son of Hassenuah was over the Second District of the city."
+hebrew: "וְיוֹאֵ֥ל בֶּן־ זִכְרִ֖י פָּקִ֣יד עֲלֵיהֶ֑ם וִיהוּדָ֧ה בֶן־ הַסְּנוּאָ֛ה עַל־ הָעִ֖יר מִשְׁנֶֽה׃ פ"
+pericope: "[[Neh.11.1 Jerusalem’s New Settlers|Jerusalem’s New Settlers]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic JOEL|JOEL]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic SENUAH|SENUAH]]"
+- "[[topic ZICHRI|ZICHRI]]"
+strongs:
+- "[[H9002]]"
+- "[[H3100S]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2147Q]]"
+- "[[H6496]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3063I]]"
+- "[[H9009]]"
+- "[[H5574]]"
+- "[[H5892B]]"
+- "[[H4932H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 11:9**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joel the son of Zichri [was] their overseer: and Judah the son of Senuah [was] second over the city.
 <small><sub>**BSB:**</sub></small>
 Joel son of Zichri was the officer over them, and Judah son of Hassenuah was over the Second District of the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3100S\|יוֹאֵ֥ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2147Q\|זִכְרִ֖י]] [[H6496\|פָּקִ֣יד]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9002\|וִ]][[H3063I\|יהוּדָ֧ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H9009\|הַ]][[H5574\|סְּנוּאָ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H4932H\|מִשְׁנֶֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOEL|JOEL]] • [[topic JUDAH|JUDAH]] • [[topic SENUAH|SENUAH]] • [[topic ZICHRI|ZICHRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.8|<< Nehemiah 11:8]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.10|Nehemiah 11:10 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ Joel son of Zichri was the officer over them, and Judah son of Hassenuah was ove
 | \<the> Senaah  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5574\|סְּנוּאָ֛ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> se.nu.'Ah<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the city  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5892B\|עִ֖יר]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Ir<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was] second in command  |**<big>&#8207;[[H4932H\|מִשְׁנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mish.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was] second in command  |**<big>&#8207;[[H4932H\|מִשְׁנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mish.Neh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.8|<< Nehemiah 11:8]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.10|Nehemiah 11:10 >>]]</td></tr></table>
 
 

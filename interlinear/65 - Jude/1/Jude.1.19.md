@@ -1,10 +1,43 @@
+---
+title: Jude 1:19
+type: Verse
+kjv: "These be they who separate themselves, sensual, having not the Spirit."
+bsb: "These are the ones who cause divisions, who are worldly and devoid of the Spirit."
+greek: "οὗτοί εἰσιν οἱ ἀποδιορίζοντες, ψυχικοί, πνεῦμα μὴ ἔχοντες."
+pericope: "[[Jude.1.17 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0592]]"
+- "[[G5591]]"
+- "[[G4151G]]"
+- "[[G3361]]"
+- "[[G2192]]"
+texts:
+- NKO
+---
+
 **Jude 1:19**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These be they who separate themselves, sensual, having not the Spirit.
 <small><sub>**BSB:**</sub></small>
 These are the ones who cause divisions, who are worldly and devoid of the Spirit.
-<small><sub>**Literal:**</sub></small>
-These are those causing divisions, worldly-minded, [the] Spirit not having.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.18|<< Jude 1:18]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.20|Jude 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοί]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G0592\|ἀποδιορίζοντες,]]  [[G5591\|ψυχικοί,]]  [[G4151G\|πνεῦμα]]  [[G3361\|μὴ]]  [[G2192\|ἔχοντες.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.18|<< Jude 1:18]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.20|Jude 1:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

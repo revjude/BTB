@@ -1,10 +1,62 @@
+---
+title: 2 Timothy 4:1
+type: Verse
+kjv: "I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;"
+bsb: "I charge you in the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of His appearing and His kingdom:"
+greek: "Διαμαρτύρομαι οὖν ἐγὼ ἐνώπιον τοῦ θεοῦ καὶ τοῦ κυρίου Χριστοῦ Ἰησοῦ τοῦ μέλλοντος κρίνειν ζῶντας καὶ νεκρούς, καὶ τὴν ἐπιφάνειαν αὐτοῦ καὶ τὴν βασιλείαν αὐτοῦ,"
+pericope: "[[2Tim.4.1 Preach the Word|Preach the Word]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G1263]]"
+- "[[G3767]]"
+- "[[G1473]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G2962G]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3195]]"
+- "[[G2919]]"
+- "[[G2198]]"
+- "[[G3498]]"
+- "[[G2015]]"
+- "[[G0846]]"
+- "[[G0932]]"
+texts:
+- NKO
+- K
+- N(K)O
+---
+
 **2 Timothy 4:1**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I charge [thee] therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;
 <small><sub>**BSB:**</sub></small>
 I charge you in the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of His appearing and His kingdom:
-<small><sub>**Literal:**</sub></small>
-I earnestly declare therefore I myself before <the> God and <the> Lord Christ Jesus who is being about to judge [the] living and [the] dead, and by the appearing of Him and the kingdom of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.17|<< 2 Timothy 3:17]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.2|2 Timothy 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1263\|Διαμαρτύρομαι]]  [[G3767\|οὖν]]  [[G1473\|ἐγὼ]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τοῦ]]  [[G3195\|μέλλοντος]]  [[G2919\|κρίνειν]]  [[G2198\|ζῶντας]]  [[G2532\|καὶ]]  [[G3498\|νεκρούς,]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2015\|ἐπιφάνειαν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.3.17|<< 2 Timothy 3:17]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.2|2 Timothy 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

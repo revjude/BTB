@@ -1,10 +1,61 @@
+---
+title: John 13:37
+type: Verse
+kjv: "Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake."
+bsb: "“Lord,” said Peter, “why can’t I follow You now? I will lay down my life for You.”"
+greek: "λέγει αὐτῷ ὁ Πέτρος· κύριε, διὰ τί οὐ δύναμαί σοι ἀκολουθῆσαι ἄρτι; τὴν ψυχήν μου ὑπὲρ σοῦ θήσω."
+pericope: "[[John.13.36 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2962G]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G4771]]"
+- "[[G0190]]"
+- "[[G0737]]"
+- "[[G5590H]]"
+- "[[G3165]]"
+- "[[G5228]]"
+- "[[G5087]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 13:37**<big><big>[[John.13.36 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Peter said unto him, Lord, why cannot I follow thee now? I will lay down my life for thy sake.
 <small><sub>**BSB:**</sub></small>
 “Lord,” said Peter, “why can’t I follow You now? I will lay down my life for You.”
-<small><sub>**Literal:**</sub></small>
-Says to Him <the> Peter; Lord, because of why not am I able You to follow presently? The life of mine for You I will lay down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.36|<< John 13:36]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.38|John 13:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος·]]  [[G2962G\|κύριε,]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3756\|οὐ]]  [[G1410\|δύναμαί]]  [[G4771\|σοι]]  [[G0190\|ἀκολουθῆσαι]]  [[G0737\|ἄρτι;]]  [[G3588\|τὴν]]  [[G5590H\|ψυχήν]]  [[G3165\|μου]]  [[G5228\|ὑπὲρ]]  [[G4771\|σοῦ]]  [[G5087\|θήσω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.36|<< John 13:36]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.38|John 13:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

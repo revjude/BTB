@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 14:22
+type: Verse
+kjv: "Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying serveth not for them that believe not, but for them which believe."
+bsb: "Tongues, then, are a sign, not for believers, but for unbelievers. Prophecy, however, is for believers, not for unbelievers."
+greek: "ὥστε αἱ γλῶσσαι εἰς σημεῖόν εἰσιν οὐ τοῖς πιστεύουσιν ἀλλὰ τοῖς ἀπίστοις, ἡ δὲ προφητεία οὐ τοῖς ἀπίστοις ἀλλὰ τοῖς πιστεύουσιν."
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G5620]]"
+- "[[G3588]]"
+- "[[G1100]]"
+- "[[G1519]]"
+- "[[G4592]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G0235]]"
+- "[[G0571]]"
+- "[[G1161]]"
+- "[[G4394]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 14:22**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying [serveth] not for them that believe not, but for them which believe.
 <small><sub>**BSB:**</sub></small>
 Tongues, then, are a sign, not for believers, but for unbelievers. Prophecy, however, is for believers, not for unbelievers.
-<small><sub>**Literal:**</sub></small>
-So then <the> tongues for a sign are not to those believing but to the unbelieving, <the> but prophecy [is] not to the unbelieving but to the believing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.21|<< 1 Corinthians 14:21]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.23|1 Corinthians 14:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G3588\|αἱ]]  [[G1100\|γλῶσσαι]]  [[G1519\|εἰς]]  [[G4592\|σημεῖόν]]  [[G1510\|εἰσιν]]  [[G3756\|οὐ]]  [[G3588\|τοῖς]]  [[G4100\|πιστεύουσιν]]  [[G0235\|ἀλλὰ]]  [[G3588\|τοῖς]]  [[G0571\|ἀπίστοις,]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G4394\|προφητεία]]  [[G3756\|οὐ]]  [[G3588\|τοῖς]]  [[G0571\|ἀπίστοις]]  [[G0235\|ἀλλὰ]]  [[G3588\|τοῖς]]  [[G4100\|πιστεύουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LANGUAGE|LANGUAGE]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.21|<< 1 Corinthians 14:21]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.23|1 Corinthians 14:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,46 @@
+---
+title: Job 16:1
+type: Verse
+kjv: "Then Job answered and said,"
+bsb: "Then Job answered:"
+hebrew: "וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0347]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:1**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Job answered and said,
 <small><sub>**BSB:**</sub></small>
 Then Job answered:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֥עַן]] [[H0347\|אִיּ֗וֹב]] [[H9001\|וַ]][[H0559\|יֹּאמַֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.35|<< Job 15:35]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.2|Job 16:2 >>]]</td></tr></table>
 

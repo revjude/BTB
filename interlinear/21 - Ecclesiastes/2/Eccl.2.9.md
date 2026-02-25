@@ -1,8 +1,63 @@
+---
+title: Ecclesiastes 2:9
+type: Verse
+kjv: "So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me."
+bsb: "So I became great and surpassed all in Jerusalem who had preceded me; and my wisdom remained with me."
+hebrew: "וְגָדַ֣לְתִּי וְהוֹסַ֔פְתִּי מִכֹּ֛ל שֶׁהָיָ֥ה לְפָנַ֖י בִּירוּשָׁלִָ֑ם אַ֥ף חָכְמָתִ֖י עָ֥מְדָה לִּֽי׃"
+pericope: "[[Eccl.2.1 The Futility of Pleasure|The Futility of Pleasure]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic EPICUREANS|EPICUREANS]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H3254H]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9007]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H0637]]"
+- "[[H2451]]"
+- "[[H5975G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:9**<big><big>[[Eccl.2.1 The Futility of Pleasure|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I was great, and increased more than all that were before me in Jerusalem: also my wisdom remained with me.
 <small><sub>**BSB:**</sub></small>
 So I became great and surpassed all in Jerusalem who had preceded me; and my wisdom remained with me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1431\|גָדַ֣לְתִּי]] [[H9001\|וְ]][[H3254H\|הוֹסַ֔פְתִּי]] [[H9006\|מִ]][[H3605\|כֹּ֛ל]] [[H9007\|שֶׁ]][[H1961\|הָיָ֥ה]] [[H9005\|לְ]][[H6440G\|פָנַ֖]][[H9020\|י]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H0637\|אַ֥ף]] [[H2451\|חָכְמָתִ֖]][[H9020\|י]] [[H5975G\|עָ֥מְדָה]] [[H9005\|לִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPICUREANS|EPICUREANS]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic PLEASURE|PLEASURE]] • [[topic SOLOMON|SOLOMON]] • [[topic VANITY|VANITY]] • [[topic WISDOM|WISDOM]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.8|<< Ecclesiastes 2:8]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.10|Ecclesiastes 2:10 >>]]</td></tr></table>
 

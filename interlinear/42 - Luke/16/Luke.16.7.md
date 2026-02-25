@@ -1,10 +1,72 @@
+---
+title: Luke 16:7
+type: Verse
+kjv: "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore."
+bsb: "Then he asked another, ‘And how much do you owe?’ ‘A hundred measures of wheat,’ he replied. ‘Take your bill and write eighty,’ he told him."
+jesus_said: "Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore."
+greek: "ἔπειτα ἑτέρῳ εἶπεν· σὺ δὲ πόσον ὀφείλεις; ὁ δὲ εἶπεν· ἑκατὸν κόρους σίτου. καὶ λέγει αὐτῷ· δέξαι σου τὰ γράμματα καὶ γράψον ὀγδοήκοντα."
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COR|COR]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMBEZZLEMENT|EMBEZZLEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic WHEAT|WHEAT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G1899]]"
+- "[[G2087]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G4214]]"
+- "[[G3784]]"
+- "[[G3588]]"
+- "[[G1540]]"
+- "[[G2884]]"
+- "[[G4621]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1209]]"
+- "[[G1121]]"
+- "[[G1125]]"
+- "[[G3589]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 16:7**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore.
 <small><sub>**BSB:**</sub></small>
 Then he asked another, ‘And how much do you owe?’ ‘A hundred measures of wheat,’ he replied. ‘Take your bill and write eighty,’ he told him.
-<small><sub>**Literal:**</sub></small>
-Then to another he said; You yourself now how much owe? <the> And he said; A hundred cors of wheat. and He says to him; do take your <the> bills and do write eighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.6|<< Luke 16:6]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.8|Luke 16:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1899\|ἔπειτα]]  [[G2087\|ἑτέρῳ]]  [[G2036\|εἶπεν·]]  [[G4771\|σὺ]]  [[G1161\|δὲ]]  [[G4214\|πόσον]]  [[G3784\|ὀφείλεις;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G1540\|ἑκατὸν]]  [[G2884\|κόρους]]  [[G4621\|σίτου.]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G1209\|δέξαι]]  [[G4771\|σου]]  [[G3588\|τὰ]]  [[G1121\|γράμματα]]  [[G2532\|καὶ]]  [[G1125\|γράψον]]  [[G3589\|ὀγδοήκοντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COR|COR]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EMBEZZLEMENT|EMBEZZLEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic PROBATION|PROBATION]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic WHEAT|WHEAT]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.6|<< Luke 16:6]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.8|Luke 16:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

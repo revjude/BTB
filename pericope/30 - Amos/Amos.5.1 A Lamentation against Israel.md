@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Lamentation against Israel
+type: Pericope
 pericope: "[[Amos.5.1 A Lamentation against Israel|A Lamentation against Israel]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 5
 book/chapter: "[[Amos.5|Amos 5]]"
-genre:
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 3
 verses:
 - "[[Amos.5.1]]"
 - "[[Amos.5.2]]"
 - "[[Amos.5.3]]"
 ---
 
-[[Amos.5|Amos 5:1 - Amos 5:3]]
+<small>[[Amos.5|Amos 5:1-3]]</small>
 *A Lamentation against Israel*
 
 [[Amos.5.1|1]] Hear ye this word which I take up against you, \[even\] a lamentation, O house of Israel.

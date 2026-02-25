@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 18:21
+type: Verse
+kjv: "And if thou say in thine heart, How shall we know the word which the LORD hath not spoken?"
+bsb: "You may ask in your heart, “How can we recognize a message that the LORD has not spoken?”"
+hebrew: "וְכִ֥י תֹאמַ֖ר בִּלְבָבֶ֑ךָ אֵיכָה֙ נֵדַ֣ע אֶת־ הַדָּבָ֔ר אֲשֶׁ֥ר לֹא־ דִבְּר֖וֹ יְהוָֽה׃"
+pericope: "[[Deut.18.15 A Prophet Like Moses|A Prophet Like Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H0349B]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H1696G]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:21**<big><big>[[Deut.18.15 A Prophet Like Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou say in thine heart, How shall we know the word which the LORD hath not spoken?
 <small><sub>**BSB:**</sub></small>
 You may ask in your heart, “How can we recognize a message that the LORD has not spoken?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֥י]] [[H0559\|תֹאמַ֖ר]] [[H9003\|בִּ]][[H3824\|לְבָבֶ֑]][[H9021\|ךָ]] [[H0349B\|אֵיכָה֙]] [[H3045\|נֵדַ֣ע]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֔ר]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H1696G\|דִבְּר֖]][[H9033\|וֹ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.20|<< Deuteronomy 18:20]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.22|Deuteronomy 18:22 >>]]</td></tr></table>
 

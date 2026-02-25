@@ -1,8 +1,50 @@
+---
+title: Ezra 8:32
+type: Verse
+kjv: "And we came to Jerusalem, and abode there three days."
+bsb: "So we arrived at Jerusalem and rested there for three days."
+hebrew: "וַנָּב֖וֹא יְרוּשָׁלִָ֑ם וַנֵּ֥שֶׁב שָׁ֖ם יָמִ֥ים שְׁלֹשָֽׁה׃"
+pericope: "[[Ezra.8.32 Arrival in Jerusalem|Arrival in Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3389]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H3117G]]"
+- "[[H7969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 8:32**<big><big>[[Ezra.8.32 Arrival in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we came to Jerusalem, and abode there three days.
 <small><sub>**BSB:**</sub></small>
 So we arrived at Jerusalem and rested there for three days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|נָּב֖וֹא]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9001\|וַ]][[H3427\|נֵּ֥שֶׁב]] [[H8033G\|שָׁ֖ם]] [[H3117G\|יָמִ֥ים]] [[H7969\|שְׁלֹשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.31|<< Ezra 8:31]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.33|Ezra 8:33 >>]]</td></tr></table>
 

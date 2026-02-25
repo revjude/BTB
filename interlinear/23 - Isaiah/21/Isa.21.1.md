@@ -1,8 +1,59 @@
+---
+title: Isaiah 21:1
+type: Verse
+kjv: "The burden of the desert of the sea. As whirlwinds in the south pass through; so it cometh from the desert, from a terrible land."
+bsb: "This is the burden against the Desert by the Sea: Like whirlwinds sweeping through the Negev, an invader comes from the desert, from a land of terror."
+hebrew: "מַשָּׂ֖א מִדְבַּר־ יָ֑ם כְּסוּפ֤וֹת בַּנֶּ֙גֶב֙ לַֽחֲלֹ֔ף מִמִּדְבָּ֣ר בָּ֔א מֵאֶ֖רֶץ נוֹרָאָֽה׃"
+pericope: "[[Isa.21.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 21
+book/chapter: "[[Isa.21|Isaiah 21]]"
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WHIRLWIND|WHIRLWIND]]"
+strongs:
+- "[[H4853B]]"
+- "[[H4057B]]"
+- "[[H9014]]"
+- "[[H3220G]]"
+- "[[H9004]]"
+- "[[H5492A]]"
+- "[[H9003]]"
+- "[[H5045G]]"
+- "[[H9005]]"
+- "[[H2498]]"
+- "[[H9006]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H3372G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 21:1**<big><big>[[Isa.21.1 Babylon Is Fallen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of the desert of the sea. As whirlwinds in the south pass through; [so] it cometh from the desert, from a terrible land.
 <small><sub>**BSB:**</sub></small>
 This is the burden against the Desert by the Sea: Like whirlwinds sweeping through the Negev, an invader comes from the desert, from a land of terror.
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֖א]] [[H4057B\|מִדְבַּר]][[H9014\|־]] [[H3220G\|יָ֑ם]] [[H9004\|כְּ]][[H5492A\|סוּפ֤וֹת]] [[H9003\|בַּ]][[H5045G\|נֶּ֙גֶב֙]] [[H9005\|לַֽ]][[H2498\|חֲלֹ֔ף]] [[H9006\|מִ]][[H4057B\|מִּדְבָּ֣ר]] [[H0935G\|בָּ֔א]] [[H9006\|מֵ]][[H0776G\|אֶ֖רֶץ]] [[H3372G\|נוֹרָאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic PERSIA|PERSIA]] • [[topic WHIRLWIND|WHIRLWIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.6|<< Isaiah 20:6]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.2|Isaiah 21:2 >>]]</td></tr></table>
 

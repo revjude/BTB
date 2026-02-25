@@ -1,8 +1,64 @@
+---
+title: Leviticus 7:10
+type: Verse
+kjv: "And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one as much as another."
+bsb: "and every grain offering, whether dry or mixed with oil, belongs equally to all the sons of Aaron."
+hebrew: "וְכָל־ מִנְחָ֥ה בְלוּלָֽה־ בַשֶּׁ֖מֶן וַחֲרֵבָ֑ה לְכָל־ בְּנֵ֧י אַהֲרֹ֛ן תִּהְיֶ֖ה אִ֥ישׁ כְּאָחִֽיו׃ פ"
+pericope: "[[Lev.7.1 The Guilt Offering|The Guilt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4503G]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H2720A]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H1961]]"
+- "[[H0376I]]"
+- "[[H9004]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 7:10**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one [as much] as another.
 <small><sub>**BSB:**</sub></small>
 and every grain offering, whether dry or mixed with oil, belongs equally to all the sons of Aaron.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4503G\|מִנְחָ֥ה]] [[H1101A\|בְלוּלָֽה]][[H9014\|־]] [[H9003\|בַ]][[H8081\|שֶּׁ֖מֶן]] [[H9002\|וַ]][[H2720A\|חֲרֵבָ֑ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1121A\|בְּנֵ֧י]] [[H0175\|אַהֲרֹ֛ן]] [[H1961\|תִּהְיֶ֖ה]] [[H0376I\|אִ֥ישׁ]] [[H9004\|כְּ]][[H0251I\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.9|<< Leviticus 7:9]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.11|Leviticus 7:11 >>]]</td></tr></table>
 
@@ -18,7 +74,7 @@ and every grain offering, whether dry or mixed with oil, belongs equally to all 
 | Aaron  |**<big>&#8207;[[H0175\|אַהֲרֹ֛ן]]&#8207; </big>**| 'a.ha.Ron<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|תִּהְיֶ֖ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | each  |**<big>&#8207;[[H0376I\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like brother his  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0251I\|אָחִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'a.Chi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like brother his  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H0251I\|אָחִֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> 'a.Chi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.9|<< Leviticus 7:9]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.11|Leviticus 7:11 >>]]</td></tr></table>
 
 

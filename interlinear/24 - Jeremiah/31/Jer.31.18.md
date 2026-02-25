@@ -1,8 +1,67 @@
+---
+title: Jeremiah 31:18
+type: Verse
+kjv: "I have surely heard Ephraim bemoaning himself thus; Thou hast chastised me, and I was chastised, as a bullock unaccustomed to the yoke: turn thou me, and I shall be turned; for thou art the LORD my God."
+bsb: "I have surely heard Ephraim’s moaning: ‘You disciplined me severely, like an untrained calf. Restore me, that I may return, for You are the LORD my God."
+hebrew: "שָׁמ֣וֹעַ שָׁמַ֗עְתִּי אֶפְרַ֙יִם֙ מִתְנוֹדֵ֔ד יִסַּרְתַּ֙נִי֙ וָֽאִוָּסֵ֔ר כְּעֵ֖גֶל לֹ֣א לֻמָּ֑ד הֲשִׁיבֵ֣נִי וְאָשׁ֔וּבָה כִּ֥י אַתָּ֖ה יְהוָ֥ה אֱלֹהָֽי׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H8085G]]"
+- "[[H0669G]]"
+- "[[H5110]]"
+- "[[H3256]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H9004]]"
+- "[[H5695]]"
+- "[[H3808]]"
+- "[[H3925G]]"
+- "[[H7725G]]"
+- "[[H9002]]"
+- "[[H7725H]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:18**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have surely heard Ephraim bemoaning himself [thus]; Thou hast chastised me, and I was chastised, as a bullock unaccustomed [to the yoke]: turn thou me, and I shall be turned; for thou [art] the LORD my God.
 <small><sub>**BSB:**</sub></small>
 I have surely heard Ephraim’s moaning: ‘You disciplined me severely, like an untrained calf. Restore me, that I may return, for You are the LORD my God.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָׁמ֣וֹעַ]] [[H8085G\|שָׁמַ֗עְתִּי]] [[H0669G\|אֶפְרַ֙יִם֙]] [[H5110\|מִתְנוֹדֵ֔ד]] [[H3256\|יִסַּרְתַּ֙]][[H9030\|נִי֙]] [[H9001\|וָֽ]][[H3256\|אִוָּסֵ֔ר]] [[H9004\|כְּ]][[H5695\|עֵ֖גֶל]] [[H3808\|לֹ֣א]] [[H3925G\|לֻמָּ֑ד]] [[H7725G\|הֲשִׁיבֵ֣]][[H9030\|נִי]] [[H9002\|וְ]][[H7725H\|אָשׁ֔וּבָה]] [[H3588A\|כִּ֥י]] [[H0859A\|אַתָּ֖ה]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BULLOCK|BULLOCK]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic EPHRAIM|EPHRAIM]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-WILL|SELF-WILL]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.17|<< Jeremiah 31:17]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.19|Jeremiah 31:19 >>]]</td></tr></table>
 

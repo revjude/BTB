@@ -1,8 +1,59 @@
+---
+title: Zechariah 8:20
+type: Verse
+kjv: "Thus saith the LORD of hosts; It shall yet come to pass, that there shall come people, and the inhabitants of many cities:"
+bsb: "This is what the LORD of Hosts says: “Peoples will yet come—the residents of many cities—"
+hebrew: "כֹּ֥ה אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת עֹ֚ד אֲשֶׁ֣ר יָבֹ֣אוּ עַמִּ֔ים וְיֹשְׁבֵ֖י עָרִ֥ים רַבּֽוֹת׃"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5750]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H5892B]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 8:20**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts; [It shall] yet [come to pass], that there shall come people, and the inhabitants of many cities:
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “Peoples will yet come—the residents of many cities—
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H5750\|עֹ֚ד]] [[H0834A\|אֲשֶׁ֣ר]] [[H0935G\|יָבֹ֣אוּ]] [[H5971A\|עַמִּ֔ים]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֖י]] [[H5892B\|עָרִ֥ים]] [[H7227A\|רַבּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVIVALS|REVIVALS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.19|<< Zechariah 8:19]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.21|Zechariah 8:21 >>]]</td></tr></table>
 

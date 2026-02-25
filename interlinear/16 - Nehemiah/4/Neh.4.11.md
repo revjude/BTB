@@ -1,8 +1,59 @@
+---
+title: Nehemiah 4:11
+type: Verse
+kjv: "And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease."
+bsb: "And our enemies said, “Before they know or see a thing, we will come into their midst, kill them, and put an end to the work.”"
+hebrew: "וַיֹּאמְר֣וּ צָרֵ֗ינוּ לֹ֤א יֵדְעוּ֙ וְלֹ֣א יִרְא֔וּ עַ֛ד אֲשֶׁר־ נָב֥וֹא אֶל־ תּוֹכָ֖ם וַהֲרַגְנ֑וּם וְהִשְׁבַּ֖תְנוּ אֶת־ הַמְּלָאכָֽה׃"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6862C]]"
+- "[[H9025]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H2026]]"
+- "[[H9038]]"
+- "[[H7673A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 4:11**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease.
 <small><sub>**BSB:**</sub></small>
 And our enemies said, “Before they know or see a thing, we will come into their midst, kill them, and put an end to the work.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H6862C\|צָרֵ֗י]][[H9025\|נוּ]] [[H3808\|לֹ֤א]] [[H3045\|יֵדְעוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7200G\|יִרְא֔וּ]] [[H5704\|עַ֛ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|נָב֥וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּוֹכָ֖]][[H9028\|ם]] [[H9001\|וַ]][[H2026\|הֲרַגְנ֑וּ]][[H9038\|ם]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּ֖תְנוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4399\|מְּלָאכָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.10|<< Nehemiah 4:10]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.12|Nehemiah 4:12 >>]]</td></tr></table>
 

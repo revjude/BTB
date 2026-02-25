@@ -1,10 +1,63 @@
+---
+title: Luke 6:31
+type: Verse
+kjv: "And as ye would that men should do to you, do ye also to them likewise."
+bsb: "Do to others as you would have them do to you."
+jesus_said: "And as ye would that men should do to you, do ye also to them likewise."
+greek: "καὶ καθὼς θέλετε ἵνα ποιῶσιν ὑμῖν οἱ ἄνθρωποι, καὶ ὑμεῖς ποιεῖτε αὐτοῖς ὁμοίως."
+pericope: "[[Luke.6.27 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOLDEN RULE|GOLDEN RULE]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G2532]]"
+- "[[G2531]]"
+- "[[G2309]]"
+- "[[G2443]]"
+- "[[G4160G]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G0846]]"
+- "[[G3668]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 6:31**<big><big>[[Luke.6.27 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as ye would that men should do to you, do ye also to them likewise.
 <small><sub>**BSB:**</sub></small>
 Do to others as you would have them do to you.
-<small><sub>**Literal:**</sub></small>
-And even as you desire that they may perform to you <the> men, and you yourselves do perform to them likewise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.30|<< Luke 6:30]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.32|Luke 6:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2531\|καθὼς]]  [[G2309\|θέλετε]]  [[G2443\|ἵνα]]  [[G4160G\|ποιῶσιν]]  [[G4771\|ὑμῖν]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι,]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G4160G\|ποιεῖτε]]  [[G0846\|αὐτοῖς]]  [[G3668\|ὁμοίως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOLDEN RULE|GOLDEN RULE]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic POOR|POOR]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.30|<< Luke 6:30]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.32|Luke 6:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 6:28
+type: Verse
+kjv: "If there be dearth in the land, if there be pestilence, if there be blasting, or mildew, locusts, or caterpillers; if their enemies besiege them in the cities of their land; whatsoever sore or whatsoever sickness there be:"
+bsb: "When famine or plague comes upon the land, or blight or mildew or locusts or grasshoppers, or when their enemies besiege them in their cities, whatever plague or sickness may come,"
+hebrew: "רָעָ֞ב כִּֽי־ יִהְיֶ֣ה בָאָ֗רֶץ דֶּ֣בֶר כִּֽי־ יִֽ֠הְיֶה שִׁדָּפ֨וֹן וְיֵרָק֜וֹן אַרְבֶּ֤ה וְחָסִיל֙ כִּ֣י יִהְיֶ֔ה כִּ֧י יָֽצַר־ ל֛וֹ אוֹיְבָ֖יו בְּאֶ֣רֶץ שְׁעָרָ֑יו כָּל־ נֶ֖גַע וְכָֽל־ מַחֲלָֽה׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+strongs:
+- "[[H7458]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H1698]]"
+- "[[H7711B]]"
+- "[[H9002]]"
+- "[[H3420]]"
+- "[[H0697]]"
+- "[[H2625]]"
+- "[[H6696A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H8179G]]"
+- "[[H3605]]"
+- "[[H5061]]"
+- "[[H4245B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:28**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If there be dearth in the land, if there be pestilence, if there be blasting, or mildew, locusts, or caterpillers; if their enemies besiege them in the cities of their land; whatsoever sore or whatsoever sickness [there be]:
 <small><sub>**BSB:**</sub></small>
 When famine or plague comes upon the land, or blight or mildew or locusts or grasshoppers, or when their enemies besiege them in their cities, whatever plague or sickness may come,
+<small><sub>**Hebrew:**</sub></small>
+[[H7458\|רָעָ֞ב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]] [[H9003\|בָ]][[H0776G\|אָ֗רֶץ]] [[H1698\|דֶּ֣בֶר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִֽ֠הְיֶה]] [[H7711B\|שִׁדָּפ֨וֹן]] [[H9002\|וְ]][[H3420\|יֵרָק֜וֹן]] [[H0697\|אַרְבֶּ֤ה]] [[H9002\|וְ]][[H2625\|חָסִיל֙]] [[H3588A\|כִּ֣י]] [[H1961\|יִהְיֶ֔ה]] [[H3588A\|כִּ֧י]] [[H6696A\|יָֽצַר]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H0341\|אוֹיְבָ֖י]][[H9023\|ו]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H8179G\|שְׁעָרָ֑י]][[H9023\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H5061\|נֶ֖גַע]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H4245B\|מַחֲלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.27|<< 2 Chronicles 6:27]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.29|2 Chronicles 6:29 >>]]</td></tr></table>
 

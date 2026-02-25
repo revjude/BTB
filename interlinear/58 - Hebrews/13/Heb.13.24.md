@@ -1,10 +1,50 @@
+---
+title: Hebrews 13:24
+type: Verse
+kjv: "Salute all them that have the rule over you, and all the saints. They of Italy salute you."
+bsb: "Greet all your leaders and all the saints. Those from Italy send you greetings."
+greek: "Ἀσπάσασθε πάντας τοὺς ἡγουμένους ὑμῶν καὶ πάντας τοὺς ἁγίους.¶ Ἀσπάζονται ὑμᾶς οἱ ἀπὸ τῆς Ἰταλίας."
+pericope: "[[Heb.13.20 Benediction and Farewell|Benediction and Farewell]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ITALY|ITALY]]"
+strongs:
+- "[[G0782]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2233]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G0040H]]"
+- "[[G0575]]"
+- "[[G2482]]"
+texts:
+- NKO
+---
+
 **Hebrews 13:24**<big><big>[[Heb.13.20 Benediction and Farewell|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Salute all them that have the rule over you, and all the saints. They of Italy salute you.
 <small><sub>**BSB:**</sub></small>
 Greet all your leaders and all the saints. Those from Italy send you greetings.
-<small><sub>**Literal:**</sub></small>
-do greet all those leading you and all the saints. Greet you those from <the> Italy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.23|<< Hebrews 13:23]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.25|Hebrews 13:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάσασθε]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G2233\|ἡγουμένους]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G0040H\|ἁγίους.¶]]  [[G0782\|Ἀσπάζονται]]  [[G4771\|ὑμᾶς]]  [[G3588\|οἱ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2482\|Ἰταλίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ITALY|ITALY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.23|<< Hebrews 13:23]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.25|Hebrews 13:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

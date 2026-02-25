@@ -1,8 +1,71 @@
+---
+title: Exodus 17:4
+type: Verse
+kjv: "And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me."
+bsb: "Then Moses cried out to the LORD, “What should I do with these people? A little more and they will stone me!”"
+hebrew: "וַיִּצְעַ֤ק מֹשֶׁה֙ אֶל־ יְהוָ֣ה לֵאמֹ֔ר מָ֥ה אֶעֱשֶׂ֖ה לָעָ֣ם הַזֶּ֑ה ע֥וֹד מְעַ֖ט וּסְקָלֻֽנִי׃"
+pericope: "[[Exod.17.1 Water from the Rock|Water from the Rock]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MERIBAH|MERIBAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H6817]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H5750]]"
+- "[[H4592]]"
+- "[[H5619]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 17:4**<big><big>[[Exod.17.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.
 <small><sub>**BSB:**</sub></small>
 Then Moses cried out to the LORD, “What should I do with these people? A little more and they will stone me!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6817\|יִּצְעַ֤ק]] [[H4872\|מֹשֶׁה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4100\|מָ֥ה]] [[H6213A\|אֶעֱשֶׂ֖ה]] [[H9005\|לָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H5750\|ע֥וֹד]] [[H4592\|מְעַ֖ט]] [[H9001\|וּ]][[H5619\|סְקָלֻֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]] • [[topic MERIBAH|MERIBAH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.3|<< Exodus 17:3]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.5|Exodus 17:5 >>]]</td></tr></table>
 

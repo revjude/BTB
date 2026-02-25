@@ -1,8 +1,50 @@
+---
+title: Joshua 15:55
+type: Verse
+kjv: "Maon, Carmel, and Ziph, and Juttah,"
+bsb: "Maon, Carmel, Ziph, Juttah,"
+hebrew: "מָע֥וֹן׀ כַּרְמֶ֖ל וָזִ֥יף וְיוּטָּֽה׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic JUTTAH|JUTTAH]]"
+- "[[topic MAON|MAON]]"
+- "[[topic ZIPH|ZIPH]]"
+strongs:
+- "[[H4584G]]"
+- "[[H9015]]"
+- "[[H3760G]]"
+- "[[H9002]]"
+- "[[H2128H]]"
+- "[[H3194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:55**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Maon, Carmel, and Ziph, and Juttah,
 <small><sub>**BSB:**</sub></small>
 Maon, Carmel, Ziph, Juttah,
+<small><sub>**Hebrew:**</sub></small>
+[[H4584G\|מָע֥וֹן]][[H9015\|׀]] [[H3760G\|כַּרְמֶ֖ל]] [[H9002\|וָ]][[H2128H\|זִ֥יף]] [[H9002\|וְ]][[H3194\|יוּטָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARMEL|CARMEL]] • [[topic JUTTAH|JUTTAH]] • [[topic MAON|MAON]] • [[topic ZIPH|ZIPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.54|<< Joshua 15:54]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.56|Joshua 15:56 >>]]</td></tr></table>
 

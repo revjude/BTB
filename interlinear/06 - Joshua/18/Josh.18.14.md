@@ -1,8 +1,71 @@
+---
+title: Joshua 18:14
+type: Verse
+kjv: "And the border was drawn thence, and compassed the corner of the sea southward, from the hill that lieth before Bethhoron southward; and the goings out thereof were at Kirjathbaal, which is Kirjathjearim, a city of the children of Judah: this was the west quarter."
+bsb: "On the west side the border curved southward from the hill facing Beth-horon on the south and came out at Kiriath-baal (that is, Kiriath-jearim), a city of the sons of Judah. This was the western side."
+hebrew: "וְתָאַ֣ר הַגְּבוּל֩ וְנָסַ֨ב לִפְאַת־ יָ֜ם נֶ֗גְבָּה מִן־ הָהָר֙ אֲשֶׁ֨ר עַל־ פְּנֵ֥י בֵית־ חֹרוֹן֮ נֶגְבָּה֒ וְהָי֣וּ תֹֽצְאֹתָ֗יו אֶל־ קִרְיַת־ בַּ֙עַל֙ הִ֚יא קִרְיַ֣ת יְעָרִ֔ים עִ֖יר בְּנֵ֣י יְהוּדָ֑ה זֹ֖את פְּאַת־ יָֽם׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H8388A]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H5437G]]"
+- "[[H9005]]"
+- "[[H6285]]"
+- "[[H9014]]"
+- "[[H3220H]]"
+- "[[H5045H]]"
+- "[[H9011]]"
+- "[[H4480A]]"
+- "[[H2022G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H1032G]]"
+- "[[H1961]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H7154]]"
+- "[[H1931]]"
+- "[[H7157]]"
+- "[[H5892B]]"
+- "[[H1121G]]"
+- "[[H3063G]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 18:14**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border was drawn [thence], and compassed the corner of the sea southward, from the hill that [lieth] before Bethhoron southward; and the goings out thereof were at Kirjathbaal, which [is] Kirjathjearim, a city of the children of Judah: this [was] the west quarter.
 <small><sub>**BSB:**</sub></small>
 On the west side the border curved southward from the hill facing Beth-horon on the south and came out at Kiriath-baal (that is, Kiriath-jearim), a city of the sons of Judah. This was the western side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8388A\|תָאַ֣ר]] [[H9009\|הַ]][[H1366G\|גְּבוּל֩]] [[H9001\|וְ]][[H5437G\|נָסַ֨ב]] [[H9005\|לִ]][[H6285\|פְאַת]][[H9014\|־]] [[H3220H\|יָ֜ם]] [[H5045H\|נֶ֗גְבָּ]][[H9011\|ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H2022G\|הָר֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H1032G\|בֵית]][[H9014\|־]] [[H1032G\|חֹרוֹן֮]] [[H5045H\|נֶגְבָּ]][[H9011\|ה֒]] [[H9001\|וְ]][[H1961\|הָי֣וּ]] [[H8444\|תֹֽצְאֹתָ֗י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H7154\|קִרְיַת]][[H9014\|־]] [[H7154\|בַּ֙עַל֙]] [[H1931\|הִ֚יא]] [[H7157\|קִרְיַ֣ת]] [[H7157\|יְעָרִ֔ים]] [[H5892B\|עִ֖יר]] [[H1121G\|בְּנֵ֣י]] [[H3063G\|יְהוּדָ֑ה]] [[H2063\|זֹ֖את]] [[H6285\|פְּאַת]][[H9014\|־]] [[H3220H\|יָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.13|<< Joshua 18:13]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.15|Joshua 18:15 >>]]</td></tr></table>
 
@@ -38,7 +101,7 @@ On the west side the border curved southward from the hill facing Beth-horon on 
 | [the] west  |**<big>&#8207;[[H3220H\|יָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.13|<< Joshua 18:13]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.15|Joshua 18:15 >>]]</td></tr></table>
 
-[^1]: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
-[^2]: and it is  | **<big>[[H1961|הָיָה]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^1]: and it is  | **<big>[[H9001|וְ]]</big><big>[[H1961|הָיָה]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
+[^2]: and it is  | **<big>[[H9001|וְ]]</big><big>[[H1961|הָיָה]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ha.yah<small><sup>[[HVqq3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְהָיֻ֣ה</big></span>**
 

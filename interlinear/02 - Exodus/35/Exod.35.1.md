@@ -1,8 +1,62 @@
+---
+title: Exodus 35:1
+type: Verse
+kjv: "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them."
+bsb: "Then Moses assembled the whole congregation of Israel and said to them, “These are the things that the LORD has commanded you to do:"
+hebrew: "וַיַּקְהֵ֣ל מֹשֶׁ֗ה אֶֽת־ כָּל־ עֲדַ֛ת בְּנֵ֥י יִשְׂרָאֵ֖ל וַיֹּ֣אמֶר אֲלֵהֶ֑ם אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁר־ צִוָּ֥ה יְהוָ֖ה לַעֲשֹׂ֥ת אֹתָֽם׃"
+pericope: "[[Exod.35.1 The Sabbath|The Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H9001]]"
+- "[[H6950]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:1**<big><big>[[Exod.35.1 The Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses gathered all the congregation of the children of Israel together, and said unto them, These [are] the words which the LORD hath commanded, that [ye] should do them.
 <small><sub>**BSB:**</sub></small>
 Then Moses assembled the whole congregation of Israel and said to them, “These are the things that the LORD has commanded you to do:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6950\|יַּקְהֵ֣ל]] [[H4872\|מֹשֶׁ֗ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדַ֛ת]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H0428\|אֵ֚לֶּה]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לַ]][[H6213A\|עֲשֹׂ֥ת]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.35|<< Exodus 34:35]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.2|Exodus 35:2 >>]]</td></tr></table>
 

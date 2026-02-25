@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 30:26
+type: Verse
+kjv: "And when David came to Ziklag, he sent of the spoil unto the elders of Judah, even to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD;"
+bsb: "When David arrived in Ziklag, he sent some of the plunder to his friends, the elders of Judah, saying, “Here is a gift for you from the plunder of the LORD’s enemies.”"
+hebrew: "וַיָּבֹ֤א דָוִד֙ אֶל־ צִ֣קְלַ֔ג וַיְשַׁלַּ֧ח מֵֽהַשָּׁלָ֛ל לְזִקְנֵ֥י יְהוּדָ֖ה לְרֵעֵ֣הוּ לֵאמֹ֑ר הִנֵּ֤ה לָכֶם֙ בְּרָכָ֔ה מִשְּׁלַ֖ל אֹיְבֵ֥י יְהוָֽה׃"
+pericope: "[[1Sam.30.21 The Spoils Are Divided|The Spoils Are Divided]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6860]]"
+- "[[H7971G]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H7998]]"
+- "[[H9005]]"
+- "[[H2205G]]"
+- "[[H3063G]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H9036]]"
+- "[[H1293]]"
+- "[[H0341]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:26**<big><big>[[1Sam.30.21 The Spoils Are Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when David came to Ziklag, he sent of the spoil unto the elders of Judah, [even] to his friends, saying, Behold a present for you of the spoil of the enemies of the LORD;
 <small><sub>**BSB:**</sub></small>
 When David arrived in Ziklag, he sent some of the plunder to his friends, the elders of Judah, saying, “Here is a gift for you from the plunder of the LORD’s enemies.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H1732\|דָוִד֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6860\|צִ֣קְלַ֔ג]] [[H9001\|וַ]][[H7971G\|יְשַׁלַּ֧ח]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H7998\|שָּׁלָ֛ל]] [[H9005\|לְ]][[H2205G\|זִקְנֵ֥י]] [[H3063G\|יְהוּדָ֖ה]] [[H9005\|לְ]][[H7453\|רֵעֵ֣]][[H9023\|הוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2009\|הִנֵּ֤ה]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H1293\|בְּרָכָ֔ה]] [[H9006\|מִ]][[H7998\|שְּׁלַ֖ל]] [[H0341\|אֹיְבֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.25|<< 1 Samuel 30:25]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.27|1 Samuel 30:27 >>]]</td></tr></table>
 

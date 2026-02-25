@@ -5,7 +5,7 @@
 
 → Transfiguring of
 
-- Moses [[Exod.34.29|Ex 34:29]]-[[Exod.34.35|35]]
+- Moses [[Exod.34.29|Ex 34:29-35]]
 
 - Jesus [[Matt.17.2|Mt 17:2]]; [[Luke.9.29|Lu 9:29]]
 

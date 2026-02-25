@@ -1,6 +1,83 @@
+---
+title: LXX 2 Kings 5:15
+type: Verse
+lxx: "And he returned to the man  of God, he and  his camp. And he came, and stood before him, and said, Behold, now I know that there is not a God in all the earth,  but only in  Israel. And now, receive a blessing from  your servant!"
+greek: "και επέστρεψε προς τον ανθρώπου του θεού αυτός και η παρεμβολή αυτού και ήλθε και έστη ενώπιον αυτού και είπεν ιδού δη έγνωκα ότι ουκ έστι θεός εν πάση τη γη ότι αλλ΄ η εν τω Ισραήλ και νυν λάβε ευλογίαν παρά του δούλου σου"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAAMAN|NAAMAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1994]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3925]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G1799]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2400]]"
+- "[[G1211]]"
+- "[[G1097]]"
+- "[[G3754]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3754]]"
+- "[[G6227]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G2983]]"
+- "[[G2129]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Kings 5:15** 
 <small><sub>**LXX:**</sub></small>
 And he returned to the man  of God, he and  his camp. And he came, and stood before him, and said, Behold, now I know that there is not a God in all the earth,  but only in  Israel. And now, receive a blessing from  your servant! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1994\|επέστρεψε]] [[G4314\|προς]] [[G3588\|τον]] [[G0444\|ανθρώπου]] [[G3588\|του]] [[G2316\|θεού]] [[G1473\|αυτός]] [[G2532\|και]] [[G3588\|η]] [[G3925\|παρεμβολή]] [[G1473\|αυτού]] [[G2532\|και]] [[G2064\|ήλθε]] [[G2532\|και]] [[G2476\|έστη]] [[G1799\|ενώπιον]] [[G1473\|αυτού]] [[G2532\|και]] [[G2036\|είπεν]] [[G2400\|ιδού]] [[G1211\|δη]] [[G1097\|έγνωκα]] [[G3754\|ότι]] [[G3756\|ουκ]] [[G1510\|έστι]] [[G2316\|θεός]] [[G1722\|εν]] [[G3956\|πάση]] [[G3588\|τη]] [[G1093\|γη]] [[G3754\|ότι]] [[G6227\|αλλ΄ η]] [[G1722\|εν]] [[G3588\|τω]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G3568\|νυν]] [[G2983\|λάβε]] [[G2129\|ευλογίαν]] [[G3844\|παρά]] [[G3588\|του]] [[G1401\|δούλου]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic ELISHA|ELISHA]] • [[topic JORAM|JORAM]] • [[topic MIRACLES|MIRACLES]] • [[topic NAAMAN|NAAMAN]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.14|<< 2 Kings 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.16|2 Kings 5:16 >>]]</td></tr></table>
 
@@ -47,6 +124,6 @@ And he returned to the man  of God, he and  his camp. And he came, and stood bef
 | from | **<big>[[G3844\|παρά]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | your servant! | **<big>[[G1401\|δούλου]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[2Kgs.5.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.14|<< 2 Kings 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.16|2 Kings 5:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.5.14|<< 2 Kings 5:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.5.16|2 Kings 5:16 >>]]</td></tr></table>
 
 

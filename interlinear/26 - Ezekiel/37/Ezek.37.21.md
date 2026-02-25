@@ -1,8 +1,74 @@
+---
+title: Ezekiel 37:21
+type: Verse
+kjv: "And say unto them, Thus saith the Lord GOD; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:"
+bsb: "you are to tell them that this is what the Lord GOD says: ‘I will take the Israelites out of the nations to which they have gone, and I will gather them from all around and bring them into their own land."
+hebrew: "וְדַבֵּ֣ר אֲלֵיהֶ֗ם כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ הִנֵּ֨ה אֲנִ֤י לֹקֵ֙חַ֙ אֶת־ בְּנֵ֣י יִשְׂרָאֵ֔ל מִבֵּ֥ין הַגּוֹיִ֖ם אֲשֶׁ֣ר הָֽלְכוּ־ שָׁ֑ם וְקִבַּצְתִּ֤י אֹתָם֙ מִסָּבִ֔יב וְהֵבֵאתִ֥י אוֹתָ֖ם אֶל־ אַדְמָתָֽם׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2009]]"
+- "[[H0589]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0996H]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H8033G]]"
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H5439G]]"
+- "[[H0935P]]"
+- "[[H0127G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:21**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say unto them, Thus saith the Lord GOD; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
 <small><sub>**BSB:**</sub></small>
 you are to tell them that this is what the Lord GOD says: ‘I will take the Israelites out of the nations to which they have gone, and I will gather them from all around and bring them into their own land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1696G\|דַבֵּ֣ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H2009\|הִנֵּ֨ה]] [[H0589\|אֲנִ֤י]] [[H3947G\|לֹקֵ֙חַ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H0996H\|בֵּ֥ין]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H1980G\|הָֽלְכוּ]][[H9014\|־]] [[H8033G\|שָׁ֑ם]] [[H9001\|וְ]][[H6908\|קִבַּצְתִּ֤י]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9006\|מִ]][[H5439G\|סָּבִ֔יב]] [[H9001\|וְ]][[H0935P\|הֵבֵאתִ֥י]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0127G\|אַדְמָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.20|<< Ezekiel 37:20]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.22|Ezekiel 37:22 >>]]</td></tr></table>
 

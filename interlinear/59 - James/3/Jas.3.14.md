@@ -1,10 +1,58 @@
+---
+title: James 3:14
+type: Verse
+kjv: "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth."
+bsb: "But if you harbor bitter jealousy and selfish ambition in your hearts, do not boast in it or deny the truth."
+greek: "εἰ δὲ ζῆλον πικρὸν ἔχετε καὶ ἐριθείαν ἐν τῇ καρδίᾳ ὑμῶν, μὴ κατακαυχᾶσθε καὶ ψεύδεσθε κατὰ τῆς ἀληθείας."
+pericope: "[[Jas.3.13 The Wisdom from Above|The Wisdom from Above]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G2205]]"
+- "[[G4089]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G2052]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G2620]]"
+- "[[G5574]]"
+- "[[G2596]]"
+- "[[G0225]]"
+texts:
+- NKO
+---
+
 **James 3:14**<big><big>[[Jas.3.13 The Wisdom from Above|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth.
 <small><sub>**BSB:**</sub></small>
 But if you harbor bitter jealousy and selfish ambition in your hearts, do not boast in it or deny the truth.
-<small><sub>**Literal:**</sub></small>
-If however jealousy bitter you have and self-interest in the heart of you, not do boast [of it] and do lie against the truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.13|<< James 3:13]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.15|James 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G2205\|ζῆλον]]  [[G4089\|πικρὸν]]  [[G2192\|ἔχετε]]  [[G2532\|καὶ]]  [[G2052\|ἐριθείαν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G4771\|ὑμῶν,]]  [[G3361\|μὴ]]  [[G2620\|κατακαυχᾶσθε]]  [[G2532\|καὶ]]  [[G5574\|ψεύδεσθε]]  [[G2596\|κατὰ]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.13|<< James 3:13]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.15|James 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

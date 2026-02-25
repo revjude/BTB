@@ -1,8 +1,63 @@
+---
+title: Jeremiah 23:20
+type: Verse
+kjv: "The anger of the LORD shall not return, until he have executed, and till he have performed the thoughts of his heart: in the latter days ye shall consider it perfectly."
+bsb: "The anger of the LORD will not turn back until He has fully accomplished the purposes of His heart. In the days to come you will understand this clearly."
+hebrew: "לֹ֤א יָשׁוּב֙ אַף־ יְהוָ֔ה עַד־ עֲשֹׂת֥וֹ וְעַד־ הֲקִימ֖וֹ מְזִמּ֣וֹת לִבּ֑וֹ בְּאַֽחֲרִית֙ הַיָּמִ֔ים תִּתְבּ֥וֹנְנוּ בָ֖הּ בִּינָֽה׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANGER|ANGER]]"
+strongs:
+- "[[H3808]]"
+- "[[H7725I]]"
+- "[[H0639G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5704]]"
+- "[[H6213A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H6965I]]"
+- "[[H4209]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0319]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0995]]"
+- "[[H9034]]"
+- "[[H0998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:20**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The anger of the LORD shall not return, until he have executed, and till he have performed the thoughts of his heart: in the latter days ye shall consider it perfectly.
 <small><sub>**BSB:**</sub></small>
 The anger of the LORD will not turn back until He has fully accomplished the purposes of His heart. In the days to come you will understand this clearly.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֤א]] [[H7725I\|יָשׁוּב֙]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H6213A\|עֲשֹׂת֥]][[H9043\|וֹ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6965I\|הֲקִימ֖]][[H9043\|וֹ]] [[H4209\|מְזִמּ֣וֹת]] [[H3820A\|לִבּ֑]][[H9023\|וֹ]] [[H9003\|בְּ]][[H0319\|אַֽחֲרִית֙]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H0995\|תִּתְבּ֥וֹנְנוּ]] [[H9003\|בָ֖]][[H9034\|הּ]] [[H0998\|בִּינָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.19|<< Jeremiah 23:19]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.21|Jeremiah 23:21 >>]]</td></tr></table>
 

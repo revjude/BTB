@@ -1,8 +1,64 @@
+---
+title: 1 Kings 8:7
+type: Verse
+kjv: "For the cherubims spread forth their two wings over the place of the ark, and the cherubims covered the ark and the staves thereof above."
+bsb: "For the cherubim spread their wings over the place of the ark and overshadowed the ark and its poles."
+hebrew: "כִּ֤י הַכְּרוּבִים֙ פֹּרְשִׂ֣ים כְּנָפַ֔יִם אֶל־ מְק֖וֹם הָֽאָר֑וֹן וַיָּסֹ֧כּוּ הַכְּרֻבִ֛ים עַל־ הָאָר֥וֹן וְעַל־ בַּדָּ֖יו מִלְמָֽעְלָה׃"
+pericope: "[[1Kgs.8.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H6566]]"
+- "[[H3671]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H0727]]"
+- "[[H9001]]"
+- "[[H5526B]]"
+- "[[H5921A]]"
+- "[[H9002]]"
+- "[[H0905G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:7**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the cherubims spread forth [their] two wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
 <small><sub>**BSB:**</sub></small>
 For the cherubim spread their wings over the place of the ark and overshadowed the ark and its poles.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H9009\|הַ]][[H3742\|כְּרוּבִים֙]] [[H6566\|פֹּרְשִׂ֣ים]] [[H3671\|כְּנָפַ֔יִם]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְק֖וֹם]] [[H9009\|הָֽ]][[H0727\|אָר֑וֹן]] [[H9001\|וַ]][[H5526B\|יָּסֹ֧כּוּ]] [[H9009\|הַ]][[H3742\|כְּרֻבִ֛ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָר֥וֹן]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0905G\|בַּדָּ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CHERUBIM|CHERUBIM]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.6|<< 1 Kings 8:6]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.8|1 Kings 8:8 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Ezekiel 32:29
+type: Verse
+kjv: "There is Edom, her kings, and all her princes, which with their might are laid by them that were slain by the sword: they shall lie with the uncircumcised, and with them that go down to the pit."
+bsb: "Edom is there, and all her kings and princes, who despite their might are laid among those slain by the sword. They lie down with the uncircumcised, with those who descend to the Pit."
+hebrew: "שָׁ֣מָּה אֱד֗וֹם מְלָכֶ֙יהָ֙ וְכָל־ נְשִׂיאֶ֔יהָ אֲשֶׁר־ נִתְּנ֥וּ בִגְבוּרָתָ֖ם אֶת־ חַלְלֵי־ חָ֑רֶב הֵ֛מָּה אֶת־ עֲרֵלִ֥ים יִשְׁכָּ֖בוּ וְאֶת־ יֹ֥רְדֵי בֽוֹר׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H0123G]]"
+- "[[H4428G]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5387A]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H1369]]"
+- "[[H9028]]"
+- "[[H0854]]"
+- "[[H2491A]]"
+- "[[H2719]]"
+- "[[H1992]]"
+- "[[H6189]]"
+- "[[H7901J]]"
+- "[[H3381]]"
+- "[[H0953A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:29**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There [is] Edom, her kings, and all her princes, which with their might are laid by [them that were] slain by the sword: they shall lie with the uncircumcised, and with them that go down to the pit.
 <small><sub>**BSB:**</sub></small>
 Edom is there, and all her kings and princes, who despite their might are laid among those slain by the sword. They lie down with the uncircumcised, with those who descend to the Pit.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֣מָּ]][[H9011\|ה]] [[H0123G\|אֱד֗וֹם]] [[H4428G\|מְלָכֶ֙י]][[H9024\|הָ֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5387A\|נְשִׂיאֶ֔י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414H\|נִתְּנ֥וּ]] [[H9003\|בִ]][[H1369\|גְבוּרָתָ֖]][[H9028\|ם]] [[H0854\|אֶת]][[H9014\|־]] [[H2491A\|חַלְלֵי]][[H9014\|־]] [[H2719\|חָ֑רֶב]] [[H1992\|הֵ֛מָּה]] [[H0854\|אֶת]][[H9014\|־]] [[H6189\|עֲרֵלִ֥ים]] [[H7901J\|יִשְׁכָּ֖בוּ]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H3381\|יֹ֥רְדֵי]] [[H0953A\|בֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.28|<< Ezekiel 32:28]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.30|Ezekiel 32:30 >>]]</td></tr></table>
 

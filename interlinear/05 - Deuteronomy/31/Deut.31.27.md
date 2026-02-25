@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 31:27
+type: Verse
+kjv: "For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against the LORD; and how much more after my death?"
+bsb: "For I know how rebellious and stiff-necked you are. If you are already rebelling against the LORD while I am still alive, how much more will you rebel after my death!"
+hebrew: "כִּ֣י אָנֹכִ֤י יָדַ֙עְתִּי֙ אֶֽת־ מֶרְיְךָ֔ וְאֶֽת־ עָרְפְּךָ֖ הַקָּשֶׁ֑ה הֵ֣ן בְּעוֹדֶנִּי֩ חַ֨י עִמָּכֶ֜ם הַיּ֗וֹם מַמְרִ֤ים הֱיִתֶם֙ עִם־ יְהֹוָ֔ה וְאַ֖ף כִּי־ אַחֲרֵ֥י מוֹתִֽי׃"
+pericope: "[[Deut.31.24 The Law Placed in the Ark|The Law Placed in the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0595]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4805H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6203]]"
+- "[[H9009]]"
+- "[[H7186]]"
+- "[[H2005]]"
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H9040]]"
+- "[[H2416A]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H3117G]]"
+- "[[H4784]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H0637]]"
+- "[[H0310A]]"
+- "[[H4194]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:27**<big><big>[[Deut.31.24 The Law Placed in the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I know thy rebellion, and thy stiff neck: behold, while I am yet alive with you this day, ye have been rebellious against the LORD; and how much more after my death?
 <small><sub>**BSB:**</sub></small>
 For I know how rebellious and stiff-necked you are. If you are already rebelling against the LORD while I am still alive, how much more will you rebel after my death!
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0595\|אָנֹכִ֤י]] [[H3045\|יָדַ֙עְתִּי֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4805H\|מֶרְיְ]][[H9021\|ךָ֔]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H6203\|עָרְפְּ]][[H9021\|ךָ֖]] [[H9009\|הַ]][[H7186\|קָּשֶׁ֑ה]] [[H2005\|הֵ֣ן]] [[H9003\|בְּ]][[H5750\|עוֹדֶ]][[H9040\|נִּי֩]] [[H2416A\|חַ֨י]] [[H5973A\|עִמָּ]][[H9036\|כֶ֜ם]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H4784\|מַמְרִ֤ים]] [[H1961\|הֱיִתֶם֙]] [[H5973A\|עִם]][[H9014\|־]] [[H3068G\|יְהֹוָ֔ה]] [[H9002\|וְ]][[H0637\|אַ֖ף]] [[H3588A\|כִּי]][[H9014\|־]] [[H0310A\|אַחֲרֵ֥י]] [[H4194\|מוֹתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic REPROOF|REPROOF]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.26|<< Deuteronomy 31:26]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.28|Deuteronomy 31:28 >>]]</td></tr></table>
 

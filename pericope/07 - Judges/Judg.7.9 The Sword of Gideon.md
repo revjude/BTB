@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sword of Gideon
+type: Pericope
 pericope: "[[Judg.7.9 The Sword of Gideon|The Sword of Gideon]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 7
 book/chapter: "[[Judg.7|Judges 7]]"
-genre:
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 6
 verses:
 - "[[Judg.7.9]]"
 - "[[Judg.7.10]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Judg.7.14]]"
 ---
 
-[[Judg.7|Judges 7:9 - Judges 7:14]]
+<small>[[Judg.7|Judges 7:9-14]]</small>
 *The Sword of Gideon*
 
 [[Judg.7.9|9]] And it came to pass the same night, that the LORD said unto him, Arise, get thee down unto the host; for I have delivered it into thine hand.

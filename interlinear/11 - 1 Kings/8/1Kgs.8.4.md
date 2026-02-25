@@ -1,8 +1,62 @@
+---
+title: 1 Kings 8:4
+type: Verse
+kjv: "And they brought up the ark of the LORD, and the tabernacle of the congregation, and all the holy vessels that were in the tabernacle, even those did the priests and the Levites bring up."
+bsb: "and they brought up the ark of the LORD and the Tent of Meeting with all its sacred furnishings. So the priests and Levites carried them up."
+hebrew: "וַֽיַּעֲל֞וּ אֶת־ אֲר֤וֹן יְהוָה֙ וְאֶת־ אֹ֣הֶל מוֹעֵ֔ד וְאֶֽת־ כָּל־ כְּלֵ֥י הַקֹּ֖דֶשׁ אֲשֶׁ֣ר בָּאֹ֑הֶל וַיַּעֲל֣וּ אֹתָ֔ם הַכֹּהֲנִ֖ים וְהַלְוִיִּֽם׃"
+pericope: "[[1Kgs.8.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:4**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought up the ark of the LORD, and the tabernacle of the congregation, and all the holy vessels that [were] in the tabernacle, even those did the priests and the Levites bring up.
 <small><sub>**BSB:**</sub></small>
 and they brought up the ark of the LORD and the Tent of Meeting with all its sacred furnishings. So the priests and Levites carried them up.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5927H\|יַּעֲל֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֤וֹן]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֥י]] [[H9009\|הַ]][[H6944G\|קֹּ֖דֶשׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בָּ]][[H0168G\|אֹ֑הֶל]] [[H9001\|וַ]][[H5927H\|יַּעֲל֣וּ]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.3|<< 1 Kings 8:3]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.5|1 Kings 8:5 >>]]</td></tr></table>
 

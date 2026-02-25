@@ -1,10 +1,65 @@
+---
+title: Revelation 12:17
+type: Verse
+kjv: "And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ."
+bsb: "And the dragon was enraged at the woman and went to make war with the rest of her children, who keep the commandments of God and hold to the testimony of Jesus. And the dragon stood on the shore of the sea."
+greek: "καὶ ὠργίσθη ὁ δράκων ἐπὶ τῇ γυναικὶ καὶ ἀπῆλθεν ποιῆσαι πόλεμον μετὰ τῶν λοιπῶν τοῦ σπέρματος αὐτῆς τῶν τηρούντων τὰς ἐντολὰς τοῦ θεοῦ καὶ ἐχόντων τὴν μαρτυρίαν τοῦ Ἰησοῦ Χριστοῦ."
+pericope: "[[Rev.12.13 The Woman Persecuted|The Woman Persecuted]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G3710]]"
+- "[[G3588]]"
+- "[[G1404]]"
+- "[[G1909]]"
+- "[[G1135G]]"
+- "[[G0565]]"
+- "[[G4160G]]"
+- "[[G4171]]"
+- "[[G3326]]"
+- "[[G3062]]"
+- "[[G4690G]]"
+- "[[G0846]]"
+- "[[G5083G]]"
+- "[[G1785]]"
+- "[[G2316]]"
+- "[[G2192]]"
+- "[[G3141]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 12:17**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the dragon was wroth with the woman, and went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 And the dragon was enraged at the woman and went to make war with the rest of her children, who keep the commandments of God and hold to the testimony of Jesus. And the dragon stood on the shore of the sea.
-<small><sub>**Literal:**</sub></small>
-And was angry the dragon with the woman and went to make war with the rest of the children of her who are keeping the commandments <the> of God and holding the testimony <the> of Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.16|<< Revelation 12:16]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.18|Revelation 12:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3710\|ὠργίσθη]]  [[G3588\|ὁ]]  [[G1404\|δράκων]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G1135G\|γυναικὶ]]  [[G2532\|καὶ]]  [[G0565\|ἀπῆλθεν]]  [[G4160G\|ποιῆσαι]]  [[G4171\|πόλεμον]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G3062\|λοιπῶν]]  [[G3588\|τοῦ]]  [[G4690G\|σπέρματος]]  [[G0846\|αὐτῆς]]  [[G3588\|τῶν]]  [[G5083G\|τηρούντων]]  [[G3588\|τὰς]]  [[G1785\|ἐντολὰς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G2192\|ἐχόντων]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic VISION|VISION]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.16|<< Revelation 12:16]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.18|Revelation 12:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,72 @@
+---
+title: Exodus 12:6
+type: Verse
+kjv: "And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening."
+bsb: "You must keep it until the fourteenth day of the month, when the whole assembly of the congregation of Israel will slaughter the animals at twilight."
+hebrew: "וְהָיָ֤ה לָכֶם֙ לְמִשְׁמֶ֔רֶת עַ֣ד אַרְבָּעָ֥ה עָשָׂ֛ר י֖וֹם לַחֹ֣דֶשׁ הַזֶּ֑ה וְשָׁחֲט֣וּ אֹת֗וֹ כֹּ֛ל קְהַ֥ל עֲדַֽת־ יִשְׂרָאֵ֖ל בֵּ֥ין הָעַרְבָּֽיִם׃"
+pericope: "[[Exod.12.1 The First Passover|The First Passover]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H4931]]"
+- "[[H5704]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H7819A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H6951]]"
+- "[[H5712]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0996G]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:6**<big><big>[[Exod.12.1 The First Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall keep it up until the fourteenth day of the same month: and the whole assembly of the congregation of Israel shall kill it in the evening.
 <small><sub>**BSB:**</sub></small>
 You must keep it until the fourteenth day of the month, when the whole assembly of the congregation of Israel will slaughter the animals at twilight.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9005\|לְ]][[H4931\|מִשְׁמֶ֔רֶת]] [[H5704\|עַ֣ד]] [[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֛ר]] [[H3117G\|י֖וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וְ]][[H7819A\|שָׁחֲט֣וּ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H3605\|כֹּ֛ל]] [[H6951\|קְהַ֥ל]] [[H5712\|עֲדַֽת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0996G\|בֵּ֥ין]] [[H9009\|הָ]][[H6153\|עַרְבָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.5|<< Exodus 12:5]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.7|Exodus 12:7 >>]]</td></tr></table>
 

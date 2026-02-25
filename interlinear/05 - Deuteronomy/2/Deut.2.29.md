@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 2:29
+type: Verse
+kjv: "(As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the LORD our God giveth us."
+bsb: "just as the descendants of Esau who live in Seir and the Moabites who live in Ar did for us, until we cross the Jordan into the land that the LORD our God is giving us.”"
+hebrew: "כַּאֲשֶׁ֨ר עָֽשׂוּ־ לִ֜י בְּנֵ֣י עֵשָׂ֗ו הַיֹּֽשְׁבִים֙ בְּשֵׂעִ֔יר וְהַמּ֣וֹאָבִ֔ים הַיֹּשְׁבִ֖ים בְּעָ֑ר עַ֤ד אֲשֶֽׁר־ אֶֽעֱבֹר֙ אֶת־ הַיַּרְדֵּ֔ן אֶל־ הָאָ֕רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֵ֖ינוּ נֹתֵ֥ן לָֽנוּ׃"
+pericope: "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic AR|AR]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1121G]]"
+- "[[H6215H]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8165A]]"
+- "[[H9002]]"
+- "[[H4125]]"
+- "[[H6144]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H3383]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5414G]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:29**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (As the children of Esau which dwell in Seir, and the Moabites which dwell in Ar, did unto me;) until I shall pass over Jordan into the land which the LORD our God giveth us.
 <small><sub>**BSB:**</sub></small>
 just as the descendants of Esau who live in Seir and the Moabites who live in Ar did for us, until we cross the Jordan into the land that the LORD our God is giving us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H6213A\|עָֽשׂוּ]][[H9014\|־]] [[H9005\|לִ֜]][[H9030\|י]] [[H1121G\|בְּנֵ֣י]] [[H6215H\|עֵשָׂ֗ו]] [[H9009\|הַ]][[H3427\|יֹּֽשְׁבִים֙]] [[H9003\|בְּ]][[H8165A\|שֵׂעִ֔יר]] [[H9002\|וְ]][[H9009\|הַ]][[H4125\|מּ֣וֹאָבִ֔ים]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֖ים]] [[H9003\|בְּ]][[H6144\|עָ֑ר]] [[H5704\|עַ֤ד]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H5674A\|אֶֽעֱבֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic AR|AR]] • [[topic ISRAEL|ISRAEL]] • [[topic MOABITES|MOABITES]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.28|<< Deuteronomy 2:28]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.30|Deuteronomy 2:30 >>]]</td></tr></table>
 

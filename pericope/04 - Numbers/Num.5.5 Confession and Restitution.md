@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Confession and Restitution
+type: Pericope
 pericope: "[[Num.5.5 Confession and Restitution|Confession and Restitution]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 5
 book/chapter: "[[Num.5|Numbers 5]]"
-genre:
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.5.5]]"
 - "[[Num.5.6]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.5.10]]"
 ---
 
-[[Num.5|Numbers 5:5 - Numbers 5:10]]
+<small>[[Num.5|Numbers 5:5-10]]</small>
 *Confession and Restitution*
 
 [[Num.5.5|5]] And the LORD spake unto Moses, saying,

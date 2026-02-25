@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 21:10
+type: Verse
+kjv: "So the Edomites revolted from under the hand of Judah unto this day. The same time also did Libnah revolt from under his hand; because he had forsaken the LORD God of his fathers."
+bsb: "So to this day Edom has been in rebellion against the hand of Judah. Likewise, Libnah rebelled against his hand at the same time, because Jehoram had forsaken the LORD, the God of his fathers."
+hebrew: "וַיִּפְשַׁ֨ע אֱד֜וֹם מִתַּ֣חַת יַד־ יְהוּדָ֗ה עַ֚ד הַיּ֣וֹם הַזֶּ֔ה אָ֣ז תִּפְשַׁ֥ע לִבְנָ֛ה בָּעֵ֥ת הַהִ֖יא מִתַּ֣חַת יָד֑וֹ כִּ֣י עָזַ֔ב אֶת־ יְהוָ֖ה אֱלֹהֵ֥י אֲבֹתָֽיו׃"
+pericope: "[[2Chr.21.8 Edom and Libnah Rebel|Edom and Libnah Rebel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic JEHORAM|JEHORAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6586]]"
+- "[[H0123G]]"
+- "[[H9006]]"
+- "[[H8478K]]"
+- "[[H3027W]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H0227A]]"
+- "[[H3841H]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 21:10**<big><big>[[2Chr.21.8 Edom and Libnah Rebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the Edomites revolted from under the hand of Judah unto this day. The same time [also] did Libnah revolt from under his hand; because he had forsaken the LORD God of his fathers.
 <small><sub>**BSB:**</sub></small>
 So to this day Edom has been in rebellion against the hand of Judah. Likewise, Libnah rebelled against his hand at the same time, because Jehoram had forsaken the LORD, the God of his fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6586\|יִּפְשַׁ֨ע]] [[H0123G\|אֱד֜וֹם]] [[H9006\|מִ]][[H8478K\|תַּ֣חַת]] [[H3027W\|יַד]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H5704\|עַ֚ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0227A\|אָ֣ז]] [[H6586\|תִּפְשַׁ֥ע]] [[H3841H\|לִבְנָ֛ה]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִ֖יא]] [[H9006\|מִ]][[H8478K\|תַּ֣חַת]] [[H3027W\|יָד֑]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]] [[H5800A\|עָזַ֔ב]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H0001G\|אֲבֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic JEHORAM|JEHORAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.9|<< 2 Chronicles 21:9]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.11|2 Chronicles 21:11 >>]]</td></tr></table>
 

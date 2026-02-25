@@ -1,10 +1,59 @@
+---
+title: Acts 10:48
+type: Verse
+kjv: "And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days."
+bsb: "So he ordered that they be baptized in the name of Jesus Christ. Then they asked him to stay for a few days."
+greek: "προσέταξεν δὲ αὐτοὺς ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ βαπτισθῆναι τοῦ κυρίου. τότε ἠρώτησαν αὐτὸν ἐπιμεῖναι ἡμέρας τινάς.¶"
+pericope: "[[Acts.10.44 The Gentiles Receive the Holy Spirit|The Gentiles Receive the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAMILY|FAMILY]]"
+strongs:
+- "[[G4367]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G0907]]"
+- "[[G2962G]]"
+- "[[G5119]]"
+- "[[G2065]]"
+- "[[G1961]]"
+- "[[G2250]]"
+- "[[G5100]]"
+texts:
+- NKO
+- N(k)O
+- NO
+- K
+---
+
 **Acts 10:48**<big><big>[[Acts.10.44 The Gentiles Receive the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.
 <small><sub>**BSB:**</sub></small>
 So he ordered that they be baptized in the name of Jesus Christ. Then they asked him to stay for a few days.
-<small><sub>**Literal:**</sub></small>
-He commanded now them in the name of Jesus Christ to be baptized of the Lord. Then they asked him to remain days some.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.47|<< Acts 10:47]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.1|Acts 11:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4367\|προσέταξεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G0907\|βαπτισθῆναι]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου.]]  [[G5119\|τότε]]  [[G2065\|ἠρώτησαν]]  [[G0846\|αὐτὸν]]  [[G1961\|ἐπιμεῖναι]]  [[G2250\|ἡμέρας]]  [[G5100\|τινάς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAMILY|FAMILY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.47|<< Acts 10:47]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.1|Acts 11:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

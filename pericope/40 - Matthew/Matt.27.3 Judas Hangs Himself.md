@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judas Hangs Himself
+type: Pericope
 pericope: "[[Matt.27.3 Judas Hangs Himself|Judas Hangs Himself]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 27
 book/chapter: "[[Matt.27|Matthew 27]]"
-genre:
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.27.3]]"
 - "[[Matt.27.4]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.27.10]]"
 ---
 
-[[Matt.27|Matthew 27:3 - Matthew 27:10]]
+<small>[[Matt.27|Matthew 27:3-10]]</small>
 *Judas Hangs Himself*
 
 [[Matt.27.3|3]] Then Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,

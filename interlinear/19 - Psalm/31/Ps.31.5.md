@@ -1,8 +1,63 @@
+---
+title: Psalm 31:5
+type: Verse
+kjv: "Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth."
+bsb: "Into Your hands I commit my spirit; You have redeemed me, O LORD, God of truth."
+hebrew: "בְּיָדְךָ֮ אַפְקִ֪יד ר֫וּחִ֥י פָּדִ֖יתָה אוֹתִ֥י יְהוָ֗ה אֵ֣ל אֱמֶֽת׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H6485J]]"
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H6299]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H0410G]]"
+- "[[H0571G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:5**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth.
 <small><sub>**BSB:**</sub></small>
 Into Your hands I commit my spirit; You have redeemed me, O LORD, God of truth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3027G\|יָדְ]][[H9021\|ךָ֮]] [[H6485J\|אַפְקִ֪יד]] [[H7307G\|ר֫וּחִ֥]][[H9020\|י]] [[H6299\|פָּדִ֖יתָה]] [[H0853\|אוֹתִ֥]][[H9030\|י]] [[H3068G\|יְהוָ֗ה]] [[H0410G\|אֵ֣ל]] [[H0571G\|אֱמֶֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic MAN|MAN]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.4|<< Psalms 31:4]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.6|Psalms 31:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

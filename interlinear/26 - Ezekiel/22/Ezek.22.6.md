@@ -1,8 +1,59 @@
+---
+title: Ezekiel 22:6
+type: Verse
+kjv: "Behold, the princes of Israel, every one were in thee to their power to shed blood."
+bsb: "See how every prince of Israel within you has used his power to shed blood."
+hebrew: "הִנֵּה֙ נְשִׂיאֵ֣י יִשְׂרָאֵ֔ל אִ֥ישׁ לִזְרֹע֖וֹ הָ֣יוּ בָ֑ךְ לְמַ֖עַן שְׁפָךְ־ דָּֽם׃"
+pericope: "[[Ezek.22.1 The Sins of Jerusalem|The Sins of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H2009]]"
+- "[[H5387A]]"
+- "[[H3478]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H2220]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H4616]]"
+- "[[H8210H]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:6**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the princes of Israel, every one were in thee to their power to shed blood.
 <small><sub>**BSB:**</sub></small>
 See how every prince of Israel within you has used his power to shed blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה֙]] [[H5387A\|נְשִׂיאֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לִ]][[H2220\|זְרֹע֖]][[H9023\|וֹ]] [[H1961\|הָ֣יוּ]] [[H9003\|בָ֑]][[H9032\|ךְ]] [[H4616\|לְמַ֖עַן]] [[H8210H\|שְׁפָךְ]][[H9014\|־]] [[H1818\|דָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.5|<< Ezekiel 22:5]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.7|Ezekiel 22:7 >>]]</td></tr></table>
 

@@ -1,10 +1,53 @@
+---
+title: John 6:28
+type: Verse
+kjv: "Then said they unto him, What shall we do, that we might work the works of God?"
+bsb: "Then they inquired, “What must we do to perform the works of God?”"
+greek: "εἶπον οὖν πρὸς αὐτόν· τί ποιῶμεν ἵνα ἐργαζώμεθα τὰ ἔργα τοῦ θεοῦ;¶"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G2443]]"
+- "[[G2038]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 6:28**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said they unto him, What shall we do, that we might work the works of God?
 <small><sub>**BSB:**</sub></small>
 Then they inquired, “What must we do to perform the works of God?”
-<small><sub>**Literal:**</sub></small>
-They said therefore to Him; What shall we do that we may be doing the works <the> of God?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.27|<< John 6:27]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.29|John 6:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπον]]  [[G3767\|οὖν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G5101\|τί]]  [[G4160G\|ποιῶμεν]]  [[G2443\|ἵνα]]  [[G2038\|ἐργαζώμεθα]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.27|<< John 6:27]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.29|John 6:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

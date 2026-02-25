@@ -1,8 +1,61 @@
+---
+title: Ezekiel 48:22
+type: Verse
+kjv: "Moreover from the possession of the Levites, and from the possession of the city, being in the midst of that which is the prince’s, between the border of Judah and the border of Benjamin, shall be for the prince."
+bsb: "So the Levitical property and the city property will lie in the center of the area belonging to the prince—the area between the borders of Judah and Benjamin."
+hebrew: "וּמֵאֲחֻזַּ֤ת הַלְוִיִּם֙ וּמֵאֲחֻזַּ֣ת הָעִ֔יר בְּת֛וֹךְ אֲשֶׁ֥ר לַנָּשִׂ֖יא יִֽהְיֶ֑ה בֵּ֣ין׀ גְּב֣וּל יְהוּדָ֗ה וּבֵין֙ גְּב֣וּל בִּנְיָמִ֔ן לַנָּשִׂ֖יא יִהְיֶֽה׃"
+pericope: "[[Ezek.48.21 The Portion for the Prince|The Portion for the Prince]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H0272]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H5387A]]"
+- "[[H1961]]"
+- "[[H0996G]]"
+- "[[H9015]]"
+- "[[H1366H]]"
+- "[[H3063G]]"
+- "[[H1144G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:22**<big><big>[[Ezek.48.21 The Portion for the Prince|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover from the possession of the Levites, and from the possession of the city, [being] in the midst [of that] which is the prince’s, between the border of Judah and the border of Benjamin, shall be for the prince.
 <small><sub>**BSB:**</sub></small>
 So the Levitical property and the city property will lie in the center of the area belonging to the prince—the area between the borders of Judah and Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מֵ]][[H0272\|אֲחֻזַּ֤ת]] [[H9009\|הַ]][[H3881\|לְוִיִּם֙]] [[H9002\|וּ]][[H9006\|מֵ]][[H0272\|אֲחֻזַּ֣ת]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9003\|בְּ]][[H8432\|ת֛וֹךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לַ]][[H5387A\|נָּשִׂ֖יא]] [[H1961\|יִֽהְיֶ֑ה]] [[H0996G\|בֵּ֣ין]][[H9015\|׀]] [[H1366H\|גְּב֣וּל]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וּ]][[H0996G\|בֵין֙]] [[H1366H\|גְּב֣וּל]] [[H1144G\|בִּנְיָמִ֔ן]] [[H9005\|לַ]][[H5387A\|נָּשִׂ֖יא]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.21|<< Ezekiel 48:21]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.23|Ezekiel 48:23 >>]]</td></tr></table>
 

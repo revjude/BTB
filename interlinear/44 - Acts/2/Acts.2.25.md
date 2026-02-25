@@ -1,10 +1,66 @@
+---
+title: Acts 2:25
+type: Verse
+kjv: "For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:"
+bsb: "David says about Him: ‘I saw the Lord always before me; because He is at my right hand, I will not be shaken."
+greek: "Δαυὶδ γὰρ λέγει εἰς αὐτόν· προορώμην τὸν κύριον ἐνώπιόν μου διὰ παντός, ὅτι ἐκ δεξιῶν μού ἐστιν ἵνα μὴ σαλευθῶ·"
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1138]]"
+- "[[G1063]]"
+- "[[G3004G]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G4308]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1799]]"
+- "[[G3165]]"
+- "[[G1223]]"
+- "[[G3956]]"
+- "[[G3754H]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G1510]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G4531]]"
+texts:
+- NKO
+---
+
 **Acts 2:25**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
 <small><sub>**BSB:**</sub></small>
 David says about Him: ‘I saw the Lord always before me; because He is at my right hand, I will not be shaken.
-<small><sub>**Literal:**</sub></small>
-David for says about Him: I was foresseeing the Lord before me through all [times], because at [the] right hand of me He is that not I may be shaken;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.24|<< Acts 2:24]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.26|Acts 2:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1138\|Δαυὶδ]]  [[G1063\|γὰρ]]  [[G3004G\|λέγει]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν·]]  [[G4308\|προορώμην]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G1799\|ἐνώπιόν]]  [[G3165\|μου]]  [[G1223\|διὰ]]  [[G3956\|παντός,]]  [[G3754H\|ὅτι]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3165\|μού]]  [[G1510\|ἐστιν]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G4531\|σαλευθῶ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.24|<< Acts 2:24]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.26|Acts 2:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 2:25** is...
 > $\quad$ referencing: [[LXX.Ps.16.8|Ps 16:8-11]]

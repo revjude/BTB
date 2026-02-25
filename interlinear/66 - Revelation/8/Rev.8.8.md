@@ -1,10 +1,60 @@
+---
+title: Revelation 8:8
+type: Verse
+kjv: "And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;"
+bsb: "Then the second angel sounded his trumpet, and something like a great mountain burning with fire was thrown into the sea. A third of the sea turned to blood,"
+greek: "Καὶ ὁ δεύτερος ἄγγελος ἐσάλπισεν, καὶ ὡς ὄρος μέγα πυρὶ καιόμενον ἐβλήθη εἰς τὴν θάλασσαν· καὶ ἐγένετο τὸ τρίτον τῆς θαλάσσης αἷμα."
+pericope: "[[Rev.8.6 The First Four Trumpets|The First Four Trumpets]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 8
+book/chapter: "[[Rev.8|Revelation 8]]"
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SEA|SEA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1208]]"
+- "[[G0032G]]"
+- "[[G4537]]"
+- "[[G5613]]"
+- "[[G3735]]"
+- "[[G3173]]"
+- "[[G4442]]"
+- "[[G2545]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G2281]]"
+- "[[G1096]]"
+- "[[G5154]]"
+- "[[G0129G]]"
+texts:
+- NKO
+---
+
 **Revelation 8:8**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;
 <small><sub>**BSB:**</sub></small>
 Then the second angel sounded his trumpet, and something like a great mountain burning with fire was thrown into the sea. A third of the sea turned to blood,
-<small><sub>**Literal:**</sub></small>
-And the second angel sounded [his] trumpet, and [something] like a mountain great with fire burning was cast into the sea; And became <the> a third of the sea blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.7|<< Revelation 8:7]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.9|Revelation 8:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|ὁ]]  [[G1208\|δεύτερος]]  [[G0032G\|ἄγγελος]]  [[G4537\|ἐσάλπισεν,]]  [[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G3735\|ὄρος]]  [[G3173\|μέγα]]  [[G4442\|πυρὶ]]  [[G2545\|καιόμενον]]  [[G0906G\|ἐβλήθη]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν·]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G3588\|τὸ]]  [[G5154\|τρίτον]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G0129G\|αἷμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SEA|SEA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.7|<< Revelation 8:7]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.9|Revelation 8:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 8:8** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.7.20|Exod 7:20]]

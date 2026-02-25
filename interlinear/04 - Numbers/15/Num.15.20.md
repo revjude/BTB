@@ -1,8 +1,58 @@
+---
+title: Numbers 15:20
+type: Verse
+kjv: "Ye shall offer up a cake of the first of your dough for an heave offering: as ye do the heave offering of the threshingfloor, so shall ye heave it."
+bsb: "From the first of your dough, you are to lift up a cake as a contribution; offer it just like an offering from the threshing floor."
+hebrew: "רֵאשִׁית֙ עֲרִסֹ֣תֵכֶ֔ם חַלָּ֖ה תָּרִ֣ימוּ תְרוּמָ֑ה כִּתְרוּמַ֣ת גֹּ֔רֶן כֵּ֖ן תָּרִ֥ימוּ אֹתָֽהּ׃"
+pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DOUGH|DOUGH]]"
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H7225G]]"
+- "[[H6182]]"
+- "[[H9026]]"
+- "[[H2471]]"
+- "[[H7311A]]"
+- "[[H8641]]"
+- "[[H9004]]"
+- "[[H1637]]"
+- "[[H3651C]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:20**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall offer up a cake of the first of your dough [for] an heave offering: as [ye do] the heave offering of the threshingfloor, so shall ye heave it.
 <small><sub>**BSB:**</sub></small>
 From the first of your dough, you are to lift up a cake as a contribution; offer it just like an offering from the threshing floor.
+<small><sub>**Hebrew:**</sub></small>
+[[H7225G\|רֵאשִׁית֙]] [[H6182\|עֲרִסֹ֣תֵ]][[H9026\|כֶ֔ם]] [[H2471\|חַלָּ֖ה]] [[H7311A\|תָּרִ֣ימוּ]] [[H8641\|תְרוּמָ֑ה]] [[H9004\|כִּ]][[H8641\|תְרוּמַ֣ת]] [[H1637\|גֹּ֔רֶן]] [[H3651C\|כֵּ֖ן]] [[H7311A\|תָּרִ֥ימוּ]] [[H0853\|אֹתָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUGH|DOUGH]] • [[topic FIRST FRUITS|FIRST FRUITS]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.19|<< Numbers 15:19]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.21|Numbers 15:21 >>]]</td></tr></table>
 

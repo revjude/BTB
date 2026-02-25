@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Psalms of Thanksgiving
+type: Pericope
 pericope: "[[1Chr.16.7 David’s Psalms of Thanksgiving|David’s Psalms of Thanksgiving]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 16
 book/chapter: "[[1Chr.16|1 Chronicles 16]]"
-genre:
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 16
 verses:
 - "[[1Chr.16.7]]"
 - "[[1Chr.16.8]]"
@@ -34,7 +41,7 @@ verses:
 - "[[1Chr.16.22]]"
 ---
 
-[[1Chr.16|1 Chronicles 16:7 - 1 Chronicles 16:22]]
+<small>[[1Chr.16|1 Chronicles 16:7-22]]</small>
 *David’s Psalms of Thanksgiving*
 
 [[1Chr.16.7|7]] Then on that day David delivered first \[this psalm\] to thank the LORD into the hand of Asaph and his brethren.

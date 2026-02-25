@@ -1,8 +1,64 @@
+---
+title: Leviticus 25:3
+type: Verse
+kjv: "Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;"
+bsb: "For six years you may sow your field and prune your vineyard and gather its crops."
+hebrew: "שֵׁ֤שׁ שָׁנִים֙ תִּזְרַ֣ע שָׂדֶ֔ךָ וְשֵׁ֥שׁ שָׁנִ֖ים תִּזְמֹ֣ר כַּרְמֶ֑ךָ וְאָסַפְתָּ֖ אֶת־ תְּבוּאָתָֽהּ׃"
+pericope: "[[Lev.25.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic HOLIDAY|HOLIDAY]]"
+- "[[topic PRUNING|PRUNING]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H8337]]"
+- "[[H8141]]"
+- "[[H2232]]"
+- "[[H7704G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2168]]"
+- "[[H3754]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8393]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:3**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;
 <small><sub>**BSB:**</sub></small>
 For six years you may sow your field and prune your vineyard and gather its crops.
+<small><sub>**Hebrew:**</sub></small>
+[[H8337\|שֵׁ֤שׁ]] [[H8141\|שָׁנִים֙]] [[H2232\|תִּזְרַ֣ע]] [[H7704G\|שָׂדֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H8337\|שֵׁ֥שׁ]] [[H8141\|שָׁנִ֖ים]] [[H2168\|תִּזְמֹ֣ר]] [[H3754\|כַּרְמֶ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H0622\|אָסַפְתָּ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H8393\|תְּבוּאָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic GRAPE|GRAPE]] • [[topic HOLIDAY|HOLIDAY]] • [[topic PRUNING|PRUNING]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.2|<< Leviticus 25:2]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.4|Leviticus 25:4 >>]]</td></tr></table>
 

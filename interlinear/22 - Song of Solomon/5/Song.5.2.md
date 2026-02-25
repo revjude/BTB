@@ -1,8 +1,65 @@
+---
+title: Song of Solomon 5:2
+type: Verse
+kjv: "I sleep, but my heart waketh: it is the voice of my beloved that knocketh, saying, Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, and my locks with the drops of the night."
+bsb: "I sleep, but my heart is awake. A sound! My beloved is knocking: “Open to me, my sister, my darling, my dove, my flawless one. My head is drenched with dew, my hair with the dampness of the night.”"
+hebrew: "אֲנִ֥י יְשֵׁנָ֖ה וְלִבִּ֣י עֵ֑ר ק֣וֹל׀ דּוֹדִ֣י דוֹפֵ֗ק פִּתְחִי־ לִ֞י אֲחֹתִ֤י רַעְיָתִי֙ יוֹנָתִ֣י תַמָּתִ֔י שֶׁרֹּאשִׁי֙ נִמְלָא־ טָ֔ל קְוֻּצּוֹתַ֖י רְסִ֥יסֵי לָֽיְלָה׃"
+pericope: "[[Song.5.2 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 5
+book/chapter: "[[Song.5|Song of Solomon 5]]"
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H0589]]"
+- "[[H3463]]"
+- "[[H9002]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H5782]]"
+- "[[H6963H]]"
+- "[[H9015]]"
+- "[[H1730G]]"
+- "[[H1849]]"
+- "[[H6605A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0269]]"
+- "[[H7474]]"
+- "[[H3123]]"
+- "[[H8535]]"
+- "[[H9007]]"
+- "[[H7218A]]"
+- "[[H4390]]"
+- "[[H2919]]"
+- "[[H6977]]"
+- "[[H7447A]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 5:2**<big><big>[[Song.5.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I sleep, but my heart waketh: [it is] the voice of my beloved that knocketh, [saying], Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, [and] my locks with the drops of the night.
 <small><sub>**BSB:**</sub></small>
 I sleep, but my heart is awake. A sound! My beloved is knocking: “Open to me, my sister, my darling, my dove, my flawless one. My head is drenched with dew, my hair with the dampness of the night.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֥י]] [[H3463\|יְשֵׁנָ֖ה]] [[H9002\|וְ]][[H3820A\|לִבִּ֣]][[H9020\|י]] [[H5782\|עֵ֑ר]] [[H6963H\|ק֣וֹל]][[H9015\|׀]] [[H1730G\|דּוֹדִ֣]][[H9020\|י]] [[H1849\|דוֹפֵ֗ק]] [[H6605A\|פִּתְחִי]][[H9014\|־]] [[H9005\|לִ֞]][[H9030\|י]] [[H0269\|אֲחֹתִ֤]][[H9020\|י]] [[H7474\|רַעְיָתִ]][[H9020\|י֙]] [[H3123\|יוֹנָתִ֣]][[H9020\|י]] [[H8535\|תַמָּתִ֔]][[H9020\|י]] [[H9007\|שֶׁ]][[H7218A\|רֹּאשִׁ]][[H9020\|י֙]] [[H4390\|נִמְלָא]][[H9014\|־]] [[H2919\|טָ֔ל]] [[H6977\|קְוֻּצּוֹתַ֖]][[H9020\|י]] [[H7447A\|רְסִ֥יסֵי]] [[H3915\|לָֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.1|<< Song of Solomon 5:1]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.3|Song of Solomon 5:3 >>]]</td></tr></table>
 

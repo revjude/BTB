@@ -1,8 +1,83 @@
+---
+title: 1 Kings 2:32
+type: Verse
+kjv: "And the LORD shall return his blood upon his own head, who fell upon two men more righteous and better than he, and slew them with the sword, my father David not knowing thereof, to wit, Abner the son of Ner, captain of the host of Israel, and Amasa the son of Jether, captain of the host of Judah."
+bsb: "The LORD will bring his bloodshed back upon his own head, for without the knowledge of my father David he struck down two men more righteous and better than he when he put to the sword Abner son of Ner, commander of Israel’s army, and Amasa son of Jether, commander of Judah’s army."
+hebrew: "וְהֵשִׁיב֩ יְהוָ֨ה אֶת־ דָּמ֜וֹ עַל־ רֹאשׁ֗וֹ אֲשֶׁ֣ר פָּגַ֣ע בִּשְׁנֵֽי־ אֲ֠נָשִׁים צַדִּקִ֨ים וְטֹבִ֤ים מִמֶּ֙נּוּ֙ וַיַּהַרְגֵ֣ם בַּחֶ֔רֶב וְאָבִ֥י דָוִ֖ד לֹ֣א יָדָ֑ע אֶת־ אַבְנֵ֤ר בֶּן־ נֵר֙ שַׂר־ צְבָ֣א יִשְׂרָאֵ֔ל וְאֶת־ עֲמָשָׂ֥א בֶן־ יֶ֖תֶר שַׂר־ צְבָ֥א יְהוּדָֽה׃"
+pericope: "[[1Kgs.2.28 The Execution of Joab|The Execution of Joab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AMASA|AMASA]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JETHER|JETHER]]"
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H0834A]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H8147]]"
+- "[[H0582]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H2026]]"
+- "[[H9038]]"
+- "[[H2719]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H1732]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0074]]"
+- "[[H1121A]]"
+- "[[H5369G]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H3478]]"
+- "[[H6021G]]"
+- "[[H3500H]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:32**<big><big>[[1Kgs.2.28 The Execution of Joab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall return his blood upon his own head, who fell upon two men more righteous and better than he, and slew them with the sword, my father David not knowing [thereof, to wit], Abner the son of Ner, captain of the host of Israel, and Amasa the son of Jether, captain of the host of Judah.
 <small><sub>**BSB:**</sub></small>
 The LORD will bring his bloodshed back upon his own head, for without the knowledge of my father David he struck down two men more righteous and better than he when he put to the sword Abner son of Ner, commander of Israel’s army, and Amasa son of Jether, commander of Judah’s army.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725G\|הֵשִׁיב֩]] [[H3068G\|יְהוָ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמ֜]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֗]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H6293\|פָּגַ֣ע]] [[H9003\|בִּ]][[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H0582\|אֲ֠נָשִׁים]] [[H6662\|צַדִּקִ֨ים]] [[H9002\|וְ]][[H2896A\|טֹבִ֤ים]] [[H4480A\|מִמֶּ֙]][[H9033\|נּוּ֙]] [[H9001\|וַ]][[H2026\|יַּהַרְגֵ֣]][[H9038\|ם]] [[H9003\|בַּ]][[H2719\|חֶ֔רֶב]] [[H9002\|וְ]][[H0001G\|אָבִ֥]][[H9020\|י]] [[H1732\|דָוִ֖ד]] [[H3808\|לֹ֣א]] [[H3045\|יָדָ֑ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0074\|אַבְנֵ֤ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5369G\|נֵר֙]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָ֣א]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6021G\|עֲמָשָׂ֥א]] [[H1121A\|בֶן]][[H9014\|־]] [[H3500H\|יֶ֖תֶר]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָ֥א]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMASA|AMASA]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JETHER|JETHER]] • [[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.31|<< 1 Kings 2:31]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.33|1 Kings 2:33 >>]]</td></tr></table>
 

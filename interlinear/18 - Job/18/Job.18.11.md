@@ -1,8 +1,53 @@
+---
+title: Job 18:11
+type: Verse
+kjv: "Terrors shall make him afraid on every side, and shall drive him to his feet."
+bsb: "Terrors frighten him on every side and harass his every step."
+hebrew: "סָ֭בִיב בִּֽעֲתֻ֣הוּ בַלָּה֑וֹת וֶהֱפִיצֻ֥הוּ לְרַגְלָֽיו׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5439H]]"
+- "[[H1204]]"
+- "[[H9033]]"
+- "[[H1091]]"
+- "[[H9001]]"
+- "[[H6327A]]"
+- "[[H9005]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:11**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Terrors shall make him afraid on every side, and shall drive him to his feet.
 <small><sub>**BSB:**</sub></small>
 Terrors frighten him on every side and harass his every step.
+<small><sub>**Hebrew:**</sub></small>
+[[H5439H\|סָ֭בִיב]] [[H1204\|בִּֽעֲתֻ֣]][[H9033\|הוּ]] [[H1091\|בַלָּה֑וֹת]] [[H9001\|וֶ]][[H6327A\|הֱפִיצֻ֥]][[H9033\|הוּ]] [[H9005\|לְ]][[H7272\|רַגְלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic REVERENCE|REVERENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.10|<< Job 18:10]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.12|Job 18:12 >>]]</td></tr></table>
 

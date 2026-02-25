@@ -1,8 +1,67 @@
+---
+title: Hosea 13:15
+type: Verse
+kjv: "Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels."
+bsb: "Although he flourishes among his brothers, an east wind will come—a wind from the LORD rising up from the desert. His fountain will fail, and his spring will run dry. The wind will plunder his treasury of every precious article."
+hebrew: "כִּ֣י ה֔וּא בֵּ֥ן אַחִ֖ים יַפְרִ֑יא יָב֣וֹא קָדִים֩ ר֨וּחַ יְהוָ֜ה מִמִּדְבָּ֣ר עֹלֶ֗ה וְיֵב֤וֹשׁ מְקוֹרוֹ֙ וְיֶחֱרַ֣ב מַעְיָנ֔וֹ ה֣וּא יִשְׁסֶ֔ה אוֹצַ֖ר כָּל־ כְּלִ֥י חֶמְדָּֽה׃"
+pericope: "[[Hos.13.15 Judgment on Samaria|Judgment on Samaria]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic DROUGHT|DROUGHT]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic WIND|WIND]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H1121G]]"
+- "[[H0251G]]"
+- "[[H6500]]"
+- "[[H0935G]]"
+- "[[H6921]]"
+- "[[H7307H]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H4057B]]"
+- "[[H5927G]]"
+- "[[H9002]]"
+- "[[H3001]]"
+- "[[H4726]]"
+- "[[H9023]]"
+- "[[H2717A]]"
+- "[[H4599]]"
+- "[[H8154]]"
+- "[[H0214]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H2532A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 13:15**<big><big>[[Hos.13.15 Judgment on Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though he be fruitful among [his] brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.
 <small><sub>**BSB:**</sub></small>
 Although he flourishes among his brothers, an east wind will come—a wind from the LORD rising up from the desert. His fountain will fail, and his spring will run dry. The wind will plunder his treasury of every precious article.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H1931\|ה֔וּא]] [[H1121G\|בֵּ֥ן]] [[H0251G\|אַחִ֖ים]] [[H6500\|יַפְרִ֑יא]] [[H0935G\|יָב֣וֹא]] [[H6921\|קָדִים֩]] [[H7307H\|ר֨וּחַ]] [[H3068G\|יְהוָ֜ה]] [[H9006\|מִ]][[H4057B\|מִּדְבָּ֣ר]] [[H5927G\|עֹלֶ֗ה]] [[H9002\|וְ]][[H3001\|יֵב֤וֹשׁ]] [[H4726\|מְקוֹר]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H2717A\|יֶחֱרַ֣ב]] [[H4599\|מַעְיָנ֔]][[H9023\|וֹ]] [[H1931\|ה֣וּא]] [[H8154\|יִשְׁסֶ֔ה]] [[H0214\|אוֹצַ֖ר]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלִ֥י]] [[H2532A\|חֶמְדָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DROUGHT|DROUGHT]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic WIND|WIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.14|<< Hosea 13:14]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.16|Hosea 13:16 >>]]</td></tr></table>
 

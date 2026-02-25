@@ -7,7 +7,7 @@
 
 3. A high priest, father of Ahitub [[1Chr.6.11|1Ch 6:11]]; [[Ezra.7.3|Ezr 7:3]]
 
-4. A Levite, who assisted in distributing temple gifts  [[2Chr.31.15|2Ch 31:15]]-[[2Chr.31.19|19]]
+4. A Levite, who assisted in distributing temple gifts  [[2Chr.31.15|2Ch 31:15-19]]
 
 5. Son of Hizkiah [[Zeph.1.1|Zep 1:1]]
 

@@ -1,6 +1,48 @@
+---
+title: LXX Exodus 1:4
+type: Verse
+lxx: "Dan, and Naphtali, Gad, and Asher."
+greek: "Δαν και Νεφθαλί Γαδ και Ασήρ"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ASHER|ASHER]]"
+- "[[topic GAD|GAD]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H1835]]"
+- "[[G2532]]"
+- "[[G3508]]"
+- "[[G1045]]"
+- "[[G2532]]"
+- "[[G0768]]"
+---
+
 **LXX Exodus 1:4** 
 <small><sub>**LXX:**</sub></small>
 Dan, and Naphtali, Gad, and Asher. 
+<small><sub>**Greek:**</sub></small>
+[[H1835\|Δαν]] [[G2532\|και]] [[G3508\|Νεφθαλί]] [[G1045\|Γαδ]] [[G2532\|και]] [[G0768\|Ασήρ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHER|ASHER]] • [[topic GAD|GAD]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.3|<< Exodus 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.5|Exodus 1:5 >>]]</td></tr></table>
 
@@ -12,6 +54,6 @@ Dan, and Naphtali, Gad, and Asher.
 | Gad, | **<big>[[G1045\|Γαδ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | Asher. | **<big>[[G0768\|Ασήρ]]</big>** |
-[[Exod.1.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.3|<< Exodus 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.5|Exodus 1:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.1.3|<< Exodus 1:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.1.5|Exodus 1:5 >>]]</td></tr></table>
 
 

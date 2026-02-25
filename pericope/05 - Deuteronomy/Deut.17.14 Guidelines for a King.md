@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Guidelines for a King
+type: Pericope
 pericope: "[[Deut.17.14 Guidelines for a King|Guidelines for a King]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 17
 book/chapter: "[[Deut.17|Deuteronomy 17]]"
-genre:
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 7
 verses:
 - "[[Deut.17.14]]"
 - "[[Deut.17.15]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Deut.17.20]]"
 ---
 
-[[Deut.17|Deuteronomy 17:14 - Deuteronomy 17:20]]
+<small>[[Deut.17|Deuteronomy 17:14-20]]</small>
 *Guidelines for a King*
 
 [[Deut.17.14|14]] When thou art come unto the land which the LORD thy God giveth thee, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like as all the nations that \[are\] about me;

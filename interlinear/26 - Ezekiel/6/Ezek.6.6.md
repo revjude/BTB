@@ -1,8 +1,65 @@
+---
+title: Ezekiel 6:6
+type: Verse
+kjv: "In all your dwellingplaces the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished."
+bsb: "Wherever you live, the cities will be laid waste and the high places will be demolished, so that your altars will be laid waste and desecrated, your idols smashed and obliterated, your incense altars cut down, and your works blotted out."
+hebrew: "בְּכֹל֙ מוֹשְׁב֣וֹתֵיכֶ֔ם הֶעָרִ֣ים תֶּחֱרַ֔בְנָה וְהַבָּמ֖וֹת תִּישָׁ֑מְנָה לְמַעַן֩ יֶחֶרְב֨וּ וְיֶאְשְׁמ֜וּ מִזְבְּחֽוֹתֵיכֶ֗ם וְנִשְׁבְּר֤וּ וְנִשְׁבְּתוּ֙ גִּלּ֣וּלֵיכֶ֔ם וְנִגְדְּעוּ֙ חַמָּ֣נֵיכֶ֔ם וְנִמְח֖וּ מַעֲשֵׂיכֶֽם׃"
+pericope: "[[Ezek.6.1 Judgment against Idolatry|Judgment against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H4186]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2717B]]"
+- "[[H9002]]"
+- "[[H1116]]"
+- "[[H3456]]"
+- "[[H4616]]"
+- "[[H0816]]"
+- "[[H4196]]"
+- "[[H9001]]"
+- "[[H7665]]"
+- "[[H7673A]]"
+- "[[H1544]]"
+- "[[H1438]]"
+- "[[H2553]]"
+- "[[H4229A]]"
+- "[[H4639G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 6:6**<big><big>[[Ezek.6.1 Judgment against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In all your dwellingplaces the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished.
 <small><sub>**BSB:**</sub></small>
 Wherever you live, the cities will be laid waste and the high places will be demolished, so that your altars will be laid waste and desecrated, your idols smashed and obliterated, your incense altars cut down, and your works blotted out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כֹל֙]] [[H4186\|מוֹשְׁב֣וֹתֵי]][[H9026\|כֶ֔ם]] [[H9009\|הֶ]][[H5892B\|עָרִ֣ים]] [[H2717B\|תֶּחֱרַ֔בְנָה]] [[H9002\|וְ]][[H9009\|הַ]][[H1116\|בָּמ֖וֹת]] [[H3456\|תִּישָׁ֑מְנָה]] [[H4616\|לְמַעַן֩]] [[H2717B\|יֶחֶרְב֨וּ]] [[H9002\|וְ]][[H0816\|יֶאְשְׁמ֜וּ]] [[H4196\|מִזְבְּחֽוֹתֵי]][[H9026\|כֶ֗ם]] [[H9001\|וְ]][[H7665\|נִשְׁבְּר֤וּ]] [[H9001\|וְ]][[H7673A\|נִשְׁבְּתוּ֙]] [[H1544\|גִּלּ֣וּלֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H1438\|נִגְדְּעוּ֙]] [[H2553\|חַמָּ֣נֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H4229A\|נִמְח֖וּ]] [[H4639G\|מַעֲשֵׂי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.5|<< Ezekiel 6:5]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.7|Ezekiel 6:7 >>]]</td></tr></table>
 

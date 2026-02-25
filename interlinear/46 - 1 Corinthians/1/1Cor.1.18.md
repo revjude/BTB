@@ -1,10 +1,66 @@
+---
+title: 1 Corinthians 1:18
+type: Verse
+kjv: "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."
+bsb: "For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God."
+greek: "Ὁ λόγος γὰρ ὁ τοῦ σταυροῦ τοῖς μὲν ἀπολλυμένοις μωρία ἐστίν, τοῖς δὲ σῳζομένοις ἡμῖν δύναμις θεοῦ ἐστιν."
+pericope: "[[1Cor.1.18 The Message of the Cross|The Message of the Cross]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1063]]"
+- "[[G4716]]"
+- "[[G3303]]"
+- "[[G0622]]"
+- "[[G3472]]"
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G4982]]"
+- "[[G3165]]"
+- "[[G1411]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:18**<big><big>[[1Cor.1.18 The Message of the Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.
 <small><sub>**BSB:**</sub></small>
 For the message of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.
-<small><sub>**Literal:**</sub></small>
-The message for <the> of the cross to those indeed perishing foolishness is, to those however being saved to us power of God it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.17|<< 1 Corinthians 1:17]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.19|1 Corinthians 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3056\|λόγος]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G3588\|τοῦ]]  [[G4716\|σταυροῦ]]  [[G3588\|τοῖς]]  [[G3303\|μὲν]]  [[G0622\|ἀπολλυμένοις]]  [[G3472\|μωρία]]  [[G1510\|ἐστίν,]]  [[G3588\|τοῖς]]  [[G1161\|δὲ]]  [[G4982\|σῳζομένοις]]  [[G3165\|ἡμῖν]]  [[G1411\|δύναμις]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLINDNESS|BLINDNESS]] • [[topic BOASTING|BOASTING]] • [[topic CROSS|CROSS]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic PREACHING|PREACHING]] • [[topic REASONING|REASONING]] • [[topic SALVATION|SALVATION]] • [[topic SUFFERING|SUFFERING]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.17|<< 1 Corinthians 1:17]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.19|1 Corinthians 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

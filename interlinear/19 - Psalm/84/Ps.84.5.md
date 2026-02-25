@@ -1,8 +1,57 @@
+---
+title: Psalm 84:5
+type: Verse
+kjv: "Blessed is the man whose strength is in thee; in whose heart are the ways of them."
+bsb: "Blessed are those whose strength is in You, whose hearts are set on pilgrimage."
+hebrew: "אַשְׁרֵ֣י אָ֭דָם עֽוֹז־ ל֥וֹ בָ֑ךְ מְ֝סִלּ֗וֹת בִּלְבָבָֽם׃"
+pericope: "[[Ps.84.1 Better Is One Day in Your Courts|Better Is One Day in Your Courts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 84
+book/chapter: "[[Ps.84|Psalm 84]]"
+chronological_order: 514
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H0835]]"
+- "[[H0120G]]"
+- "[[H5797]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H4546]]"
+- "[[H3824]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 84:5**<big><big>[[Ps.84.1 Better Is One Day in Your Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the man whose strength [is] in thee; in whose heart [are] the ways [of them].
 <small><sub>**BSB:**</sub></small>
 Blessed are those whose strength is in You, whose hearts are set on pilgrimage.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַשְׁרֵ֣י]] [[H0120G\|אָ֭דָם]] [[H5797\|עֽוֹז]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H9003\|בָ֑]][[H9031\|ךְ]] [[H4546\|מְ֝סִלּ֗וֹת]] [[H9003\|בִּ]][[H3824\|לְבָבָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.84.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.84.4|<< Psalms 84:4]]</td><td align="center" style="border:none;">[[Ps.84|Psalms 84]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.84.6|Psalms 84:6 >>]]</td></tr></table>
 

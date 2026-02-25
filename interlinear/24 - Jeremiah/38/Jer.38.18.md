@@ -1,8 +1,70 @@
+---
+title: Jeremiah 38:18
+type: Verse
+kjv: "But if thou wilt not go forth to the king of Babylon’s princes, then shall this city be given into the hand of the Chaldeans, and they shall burn it with fire, and thou shalt not escape out of their hand."
+bsb: "But if you do not surrender to the officers of the king of Babylon, then this city will be delivered into the hands of the Chaldeans. They will burn it down, and you yourself will not escape their grasp.’”"
+hebrew: "וְאִ֣ם לֹֽא־ תֵצֵ֗א אֶל־ שָׂרֵי֙ מֶ֣לֶךְ בָּבֶ֔ל וְנִתְּנָ֞ה הָעִ֤יר הַזֹּאת֙ בְּיַ֣ד הַכַּשְׂדִּ֔ים וּשְׂרָפ֖וּהָ בָּאֵ֑שׁ וְאַתָּ֖ה לֹֽא־ תִמָּלֵ֥ט מִיָּדָֽם׃ ס"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3318P]]"
+- "[[H0413]]"
+- "[[H8269]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3778]]"
+- "[[H8313]]"
+- "[[H9034]]"
+- "[[H0784]]"
+- "[[H0859A]]"
+- "[[H4422]]"
+- "[[H9006]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 38:18**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou wilt not go forth to the king of Babylon’s princes, then shall this city be given into the hand of the Chaldeans, and they shall burn it with fire, and thou shalt not escape out of their hand.
 <small><sub>**BSB:**</sub></small>
 But if you do not surrender to the officers of the king of Babylon, then this city will be delivered into the hands of the Chaldeans. They will burn it down, and you yourself will not escape their grasp.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִ֣ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3318P\|תֵצֵ֗א]] [[H0413\|אֶל]][[H9014\|־]] [[H8269\|שָׂרֵי֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H9001\|וְ]][[H5414G\|נִתְּנָ֞ה]] [[H9009\|הָ]][[H5892B\|עִ֤יר]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֔ים]] [[H9001\|וּ]][[H8313\|שְׂרָפ֖וּ]][[H9034\|הָ]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4422\|תִמָּלֵ֥ט]] [[H9006\|מִ]][[H3027H\|יָּדָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.17|<< Jeremiah 38:17]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.19|Jeremiah 38:19 >>]]</td></tr></table>
 
@@ -25,7 +87,7 @@ But if you do not surrender to the officers of the king of Babylon, then this ci
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will escape  |**<big>&#8207;[[H4422\|תִמָּלֵ֥ט]]&#8207; </big>**| ti.ma.Let<small><sup>[[HVNi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from hand their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027H\|יָּדָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from hand their  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027H\|יָּדָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ya.Da<small><sup>[[HNcbsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.17|<< Jeremiah 38:17]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.19|Jeremiah 38:19 >>]]</td></tr></table>
 
 

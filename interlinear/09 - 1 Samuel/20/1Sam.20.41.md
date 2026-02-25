@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 20:41
+type: Verse
+kjv: "And as soon as the lad was gone, David arose out of a place toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded."
+bsb: "When the young man had gone, David got up from the south side of the stone, fell facedown, and bowed three times. Then he and Jonathan kissed each other and wept together—though David wept more."
+hebrew: "הַנַּעַר֮ בָּא֒ וְדָוִ֗ד קָ֚ם מֵאֵ֣צֶל הַנֶּ֔גֶב וַיִּפֹּ֨ל לְאַפָּ֥יו אַ֛רְצָה וַיִּשְׁתַּ֖חוּ שָׁלֹ֣שׁ פְּעָמִ֑ים וַֽיִּשְּׁק֣וּ׀ אִ֣ישׁ אֶת־ רֵעֵ֗הוּ וַיִּבְכּוּ֙ אִ֣ישׁ אֶת־ רֵעֵ֔הוּ עַד־ דָּוִ֖ד הִגְדִּֽיל׃"
+pericope: "[[1Sam.20.30 Saul Seeks to Kill Jonathan|Saul Seeks to Kill Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H0681]]"
+- "[[H5045H]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H9005]]"
+- "[[H0639I]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H7812]]"
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H5401A]]"
+- "[[H9015]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H1058]]"
+- "[[H5704]]"
+- "[[H1431]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:41**<big><big>[[1Sam.20.30 Saul Seeks to Kill Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] as soon as the lad was gone, David arose out of [a place] toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.
 <small><sub>**BSB:**</sub></small>
 When the young man had gone, David got up from the south side of the stone, fell facedown, and bowed three times. Then he and Jonathan kissed each other and wept together—though David wept more.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5288\|נַּעַר֮]] [[H0935G\|בָּא֒]] [[H9002\|וְ]][[H1732\|דָוִ֗ד]] [[H6965B\|קָ֚ם]] [[H9006\|מֵ]][[H0681\|אֵ֣צֶל]] [[H9009\|הַ]][[H5045H\|נֶּ֔גֶב]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֨ל]] [[H9005\|לְ]][[H0639I\|אַפָּ֥י]][[H9023\|ו]] [[H0776H\|אַ֛רְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּ֖חוּ]] [[H7969\|שָׁלֹ֣שׁ]] [[H6471\|פְּעָמִ֑ים]] [[H9001\|וַֽ]][[H5401A\|יִּשְּׁק֣וּ]][[H9015\|׀]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֗]][[H9023\|הוּ]] [[H9001\|וַ]][[H1058\|יִּבְכּוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H1431\|הִגְדִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.40|<< 1 Samuel 20:40]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.42|1 Samuel 20:42 >>]]</td></tr></table>
 

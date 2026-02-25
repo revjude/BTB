@@ -1,9 +1,55 @@
+---
+title: LXX Haggai 2:1
+type: Verse
+lxx: "In the seventh month, one and twentieth day of the month, came to pass the word of the lord by the hand of Haggai the prophet, saying,"
+greek: "τω εβδόμω μηνί μία και εικάδι του μηνός εγένετο λόγος κυρίου εν χειρί Αγγαίου του προφήτου λέγων"
+original_language: Greek
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1442]]"
+- "[[G3376]]"
+- "[[G1520]]"
+- "[[G2532]]"
+- "[[G7051]]"
+- "[[G3588]]"
+- "[[G3376]]"
+- "[[G1096]]"
+- "[[G3056]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G5495]]"
+- "[[H2292b]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G3004]]"
+---
+
 **LXX Haggai 2:1** 
 
 ***The Glory of the House***
 
 <small><sub>**LXX:**</sub></small>
 In the seventh month, one and twentieth day of the month, came to pass \[the\] word of \[the\] <span class="smallcaps">lord</span> by \[the\] hand of Haggai the prophet, saying, 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τω]] [[G1442\|εβδόμω]] [[G3376\|μηνί]] [[G1520\|μία]] [[G2532\|και]] [[G7051\|εικάδι]] [[G3588\|του]] [[G3376\|μηνός]] [[G1096\|εγένετο]] [[G3056\|λόγος]] [[G2962\|κυρίου]] [[G1722\|εν]] [[G5495\|χειρί]] [[H2292b\|Αγγαίου]] [[G3588\|του]] [[G4396\|προφήτου]] [[G3004\|λέγων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Hag.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.15|<< Haggai 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.2|Haggai 2:2 >>]]</td></tr></table>
 
@@ -26,6 +72,6 @@ In the seventh month, one and twentieth day of the month, came to pass \[the\] w
 | the | **<big>[[G3588\|του]]</big>** |
 | prophet, | **<big>[[G4396\|προφήτου]]</big>** |
 | saying, | **<big>[[G3004\|λέγων]]</big>** |
-[[Hag.2.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.15|<< Haggai 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.2|Haggai 2:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hag.1.15|<< Haggai 1:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hag.2.2|Haggai 2:2 >>]]</td></tr></table>
 
 

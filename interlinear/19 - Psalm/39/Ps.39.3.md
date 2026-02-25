@@ -1,8 +1,57 @@
+---
+title: Psalm 39:3
+type: Verse
+kjv: "My heart was hot within me, while I was musing the fire burned: then spake I with my tongue,"
+bsb: "My heart grew hot within me; as I mused, the fire burned. Then I spoke with my tongue:"
+hebrew: "חַם־ לִבִּ֨י׀ בְּקִרְבִּ֗י בַּהֲגִיגִ֥י תִבְעַר־ אֵ֑שׁ דִּ֝בַּ֗רְתִּי בִּלְשֽׁוֹנִי׃"
+pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MEDITATION|MEDITATION]]"
+strongs:
+- "[[H2552]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H1901]]"
+- "[[H1197A]]"
+- "[[H0784]]"
+- "[[H1696G]]"
+- "[[H3956G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 39:3**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My heart was hot within me, while I was musing the fire burned: [then] spake I with my tongue,
 <small><sub>**BSB:**</sub></small>
 My heart grew hot within me; as I mused, the fire burned. Then I spoke with my tongue:
+<small><sub>**Hebrew:**</sub></small>
+[[H2552\|חַם]][[H9014\|־]] [[H3820A\|לִבִּ֨]][[H9020\|י]][[H9015\|׀]] [[H9003\|בְּ]][[H7130G\|קִרְבִּ֗]][[H9020\|י]] [[H9003\|בַּ]][[H1901\|הֲגִיגִ֥]][[H9020\|י]] [[H1197A\|תִבְעַר]][[H9014\|־]] [[H0784\|אֵ֑שׁ]] [[H1696G\|דִּ֝בַּ֗רְתִּי]] [[H9003\|בִּ]][[H3956G\|לְשֽׁוֹנִ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MEDITATION|MEDITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.2|<< Psalms 39:2]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.4|Psalms 39:4 >>]]</td></tr></table>
 

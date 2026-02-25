@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rahab Welcomes the Spies
+type: Pericope
 pericope: "[[Josh.2.1 Rahab Welcomes the Spies|Rahab Welcomes the Spies]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 2
 book/chapter: "[[Josh.2|Joshua 2]]"
-genre:
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 7
 verses:
 - "[[Josh.2.1]]"
 - "[[Josh.2.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Josh.2.7]]"
 ---
 
-[[Josh.2|Joshua 2:1 - Joshua 2:7]]
+<small>[[Josh.2|Joshua 2:1-7]]</small>
 *Rahab Welcomes the Spies*
 
 [[Josh.2.1|1]] And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot’s house, named Rahab, and lodged there.

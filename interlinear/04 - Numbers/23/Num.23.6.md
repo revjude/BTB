@@ -1,8 +1,60 @@
+---
+title: Numbers 23:6
+type: Verse
+kjv: "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab."
+bsb: "So he returned to Balak, who was standing there beside his burnt offering, with all the princes of Moab."
+hebrew: "וַיָּ֣שָׁב אֵלָ֔יו וְהִנֵּ֥ה נִצָּ֖ב עַל־ עֹלָת֑וֹ ה֖וּא וְכָל־ שָׂרֵ֥י מוֹאָֽב׃"
+pericope: "[[Num.23.1 Balaam’s First Oracle|Balaam’s First Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5324]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5930A]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H3605]]"
+- "[[H8269]]"
+- "[[H4124G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:6**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab.
 <small><sub>**BSB:**</sub></small>
 So he returned to Balak, who was standing there beside his burnt offering, with all the princes of Moab.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֣שָׁב]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H5324\|נִצָּ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H5930A\|עֹלָת֑]][[H9023\|וֹ]] [[H1931\|ה֖וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8269\|שָׂרֵ֥י]] [[H4124G\|מוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.5|<< Numbers 23:5]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.7|Numbers 23:7 >>]]</td></tr></table>
 

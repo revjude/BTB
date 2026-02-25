@@ -1,10 +1,59 @@
+---
+title: Luke 22:49
+type: Verse
+kjv: "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?"
+bsb: "Those around Jesus saw what was about to happen and said, “Lord, should we strike with our swords?”"
+greek: "ἰδόντες δὲ οἱ περὶ αὐτὸν τὸ ἐσόμενον εἶπαν αὐτῷ· κύριε, εἰ πατάξομεν ἐν μαχαίρῃ;"
+pericope: "[[Luke.22.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G2036]]"
+- "[[G2962G]]"
+- "[[G1487I]]"
+- "[[G3960]]"
+- "[[G1722]]"
+- "[[G3162]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 22:49**<big><big>[[Luke.22.47 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?
 <small><sub>**BSB:**</sub></small>
 Those around Jesus saw what was about to happen and said, “Lord, should we strike with our swords?”
-<small><sub>**Literal:**</sub></small>
-Having seen then those around Him what will be they said to him: Lord, if will we strike with [the] sword?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.48|<< Luke 22:48]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.50|Luke 22:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G4012\|περὶ]]  [[G0846\|αὐτὸν]]  [[G3588\|τὸ]]  [[G1510\|ἐσόμενον]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G1487I\|εἰ]]  [[G3960\|πατάξομεν]]  [[G1722\|ἐν]]  [[G3162\|μαχαίρῃ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MIRACLES|MIRACLES]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.48|<< Luke 22:48]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.50|Luke 22:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

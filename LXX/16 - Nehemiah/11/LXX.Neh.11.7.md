@@ -1,6 +1,63 @@
+---
+title: LXX Nehemiah 11:7
+type: Verse
+lxx: "And these are the sons of Benjamin; Sallu son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Masseiah, son of Ithiel, son of Jesaiah."
+greek: "και ούτοι οι υιοί Βενιαμίν Σηλώμ υιός Μεσουλάμ υιός Ιωάδ υιός Φαδαϊα υιός Κωλεία υιός Μαασίου υιός Εθιήλ υιός Ιεσσεία"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ITHIEL|ITHIEL]]"
+- "[[topic JESAIAH|JESAIAH]]"
+- "[[topic JOED|JOED]]"
+- "[[topic KOLAIAH|KOLAIAH]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic MESHULLAM|MESHULLAM]]"
+- "[[topic PEDAIAH|PEDAIAH]]"
+- "[[topic SALLU|SALLU]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0958]]"
+- "[[H7975b]]"
+- "[[G5207]]"
+- "[[H4918]]"
+- "[[G5207]]"
+- "[[H3133]]"
+- "[[G5207]]"
+- "[[H6305]]"
+- "[[G5207]]"
+- "[[H6964]]"
+- "[[G5207]]"
+- "[[H4641]]"
+- "[[G5207]]"
+- "[[H0384]]"
+- "[[G5207]]"
+- "[[H3470]]"
+---
+
 **LXX Nehemiah 11:7** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the sons of Benjamin; Sallu son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Masseiah, son of Ithiel, son of Jesaiah. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3778\|ούτοι]] [[G3588\|οι]] [[G5207\|υιοί]] [[G0958\|Βενιαμίν]] [[H7975b\|Σηλώμ]] [[G5207\|υιός]] [[H4918\|Μεσουλάμ]] [[G5207\|υιός]] [[H3133\|Ιωάδ]] [[G5207\|υιός]] [[H6305\|Φαδαϊα]] [[G5207\|υιός]] [[H6964\|Κωλεία]] [[G5207\|υιός]] [[H4641\|Μαασίου]] [[G5207\|υιός]] [[H0384\|Εθιήλ]] [[G5207\|υιός]] [[H3470\|Ιεσσεία]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ITHIEL|ITHIEL]] • [[topic JESAIAH|JESAIAH]] • [[topic JOED|JOED]] • [[topic KOLAIAH|KOLAIAH]] • [[topic MAASEIAH|MAASEIAH]] • [[topic MESHULLAM|MESHULLAM]] • [[topic PEDAIAH|PEDAIAH]] • [[topic SALLU|SALLU]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.6|<< Nehemiah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.8|Nehemiah 11:8 >>]]</td></tr></table>
 
@@ -26,6 +83,6 @@ And these \[are\] the sons of Benjamin; Sallu son of Meshullam, son of Joed, son
 | of Ithiel, | **<big>[[H0384\|Εθιήλ]]</big>** |
 | son | **<big>[[G5207\|υιός]]</big>** |
 | of Jesaiah. | **<big>[[H3470\|Ιεσσεία]]</big>** |
-[[Neh.11.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.6|<< Nehemiah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.8|Nehemiah 11:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.6|<< Nehemiah 11:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.8|Nehemiah 11:8 >>]]</td></tr></table>
 
 

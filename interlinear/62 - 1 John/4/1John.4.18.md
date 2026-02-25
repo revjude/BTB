@@ -1,10 +1,61 @@
+---
+title: 1 John 4:18
+type: Verse
+kjv: "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love."
+bsb: "There is no fear in love, but perfect love drives out fear, because fear involves punishment. The one who fears has not been perfected in love."
+greek: "φόβος οὐκ ἔστιν ἐν τῇ ἀγάπῃ, ἀλλ᾽ ἡ τελεία ἀγάπη ἔξω βάλλει τὸν φόβον, ὅτι ὁ φόβος κόλασιν ἔχει· ὁ δὲ φοβούμενος οὐ τετελείωται ἐν τῇ ἀγάπῃ."
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G5401]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G0235]]"
+- "[[G5046]]"
+- "[[G1854]]"
+- "[[G0906G]]"
+- "[[G3754H]]"
+- "[[G2851]]"
+- "[[G2192]]"
+- "[[G1161]]"
+- "[[G5399]]"
+- "[[G5048]]"
+texts:
+- NKO
+---
+
 **1 John 4:18**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.
 <small><sub>**BSB:**</sub></small>
 There is no fear in love, but perfect love drives out fear, because fear involves punishment. The one who fears has not been perfected in love.
-<small><sub>**Literal:**</sub></small>
-Fear no there is in <the> love, but <the> perfect love out casts <the> fear, because the fear punishment has; the [one] now fearing not has been perfected in <the> love.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.17|<< 1 John 4:17]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.19|1 John 4:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5401\|φόβος]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0026\|ἀγάπῃ,]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ἡ]]  [[G5046\|τελεία]]  [[G0026\|ἀγάπη]]  [[G1854\|ἔξω]]  [[G0906G\|βάλλει]]  [[G3588\|τὸν]]  [[G5401\|φόβον,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G5401\|φόβος]]  [[G2851\|κόλασιν]]  [[G2192\|ἔχει·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5399\|φοβούμενος]]  [[G3756\|οὐ]]  [[G5048\|τετελείωται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0026\|ἀγάπῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic GOD|GOD]] • [[topic LOVE|LOVE]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.17|<< 1 John 4:17]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.19|1 John 4:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

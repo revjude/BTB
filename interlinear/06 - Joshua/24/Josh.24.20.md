@@ -1,8 +1,60 @@
+---
+title: Joshua 24:20
+type: Verse
+kjv: "If ye forsake the LORD, and serve strange gods, then he will turn and do you hurt, and consume you, after that he hath done you good."
+bsb: "If you forsake the LORD and serve foreign gods, He will turn and bring disaster on you and consume you, even after He has been good to you.”"
+hebrew: "כִּ֤י תַֽעַזְבוּ֙ אֶת־ יְהוָ֔ה וַעֲבַדְתֶּ֖ם אֱלֹהֵ֣י נֵכָ֑ר וְשָׁ֨ב וְהֵרַ֤ע לָכֶם֙ וְכִלָּ֣ה אֶתְכֶ֔ם אַחֲרֵ֖י אֲשֶׁר־ הֵיטִ֥יב לָכֶֽם׃"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5647H]]"
+- "[[H0430]]"
+- "[[H5236]]"
+- "[[H7725I]]"
+- "[[H7489A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3615H]]"
+- "[[H0310A]]"
+- "[[H0834A]]"
+- "[[H3190]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:20**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye forsake the LORD, and serve strange gods, then he will turn and do you hurt, and consume you, after that he hath done you good.
 <small><sub>**BSB:**</sub></small>
 If you forsake the LORD and serve foreign gods, He will turn and bring disaster on you and consume you, even after He has been good to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H5800A\|תַֽעַזְבוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H5647H\|עֲבַדְתֶּ֖ם]] [[H0430\|אֱלֹהֵ֣י]] [[H5236\|נֵכָ֑ר]] [[H9001\|וְ]][[H7725I\|שָׁ֨ב]] [[H9001\|וְ]][[H7489A\|הֵרַ֤ע]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9001\|וְ]][[H3615H\|כִלָּ֣ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H0310A\|אַחֲרֵ֖י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3190\|הֵיטִ֥יב]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DECISION|DECISION]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.19|<< Joshua 24:19]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.21|Joshua 24:21 >>]]</td></tr></table>
 

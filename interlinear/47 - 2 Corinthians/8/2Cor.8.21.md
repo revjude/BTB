@@ -1,10 +1,54 @@
+---
+title: 2 Corinthians 8:21
+type: Verse
+kjv: "Providing for honest things, not only in the sight of the Lord, but also in the sight of men."
+bsb: "For we are taking great care to do what is right, not only in the eyes of the Lord, but also in the eyes of men."
+greek: "προνοοῦμεν γὰρ καλὰ οὐ μόνον ἐνώπιον κυρίου ἀλλὰ καὶ ἐνώπιον ἀνθρώπων."
+pericope: "[[2Cor.8.16 Titus Commended|Titus Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G4306]]"
+- "[[G1063]]"
+- "[[G2570G]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G1799]]"
+- "[[G2962G]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G0444]]"
+texts:
+- N(k)O
+- no
+- NKO
+---
+
 **2 Corinthians 8:21**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Providing for honest things, not only in the sight of the Lord, but also in the sight of men.
 <small><sub>**BSB:**</sub></small>
 For we are taking great care to do what is right, not only in the eyes of the Lord, but also in the eyes of men.
-<small><sub>**Literal:**</sub></small>
-We plan for what is right not only before [the] Lord but also before men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.20|<< 2 Corinthians 8:20]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.22|2 Corinthians 8:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4306\|προνοοῦμεν]]  [[G1063\|γὰρ]]  [[G2570G\|καλὰ]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G1799\|ἐνώπιον]]  [[G2962G\|κυρίου]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G1799\|ἐνώπιον]]  [[G0444\|ἀνθρώπων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.20|<< 2 Corinthians 8:20]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.22|2 Corinthians 8:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 8:21** is...
 > $\quad$ referencing: [[LXX.Prov.3.4|Prov 3:4]]

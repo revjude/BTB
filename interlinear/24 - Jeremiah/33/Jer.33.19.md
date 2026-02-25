@@ -1,8 +1,53 @@
+---
+title: Jeremiah 33:19
+type: Verse
+kjv: "And the word of the LORD came unto Jeremiah, saying,"
+bsb: "And the word of the LORD came to Jeremiah:"
+hebrew: "וַֽיְהִי֙ דְּבַר־ יְהוָ֔ה אֶֽל־ יִרְמְיָ֖הוּ לֵאמֽוֹר׃"
+pericope: "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 33:19**<big><big>[[Jer.33.14 The Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the word of the LORD came unto Jeremiah, saying,
 <small><sub>**BSB:**</sub></small>
 And the word of the LORD came to Jeremiah:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H9005\|לֵ]][[H0559\|אמֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.18|<< Jeremiah 33:18]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.20|Jeremiah 33:20 >>]]</td></tr></table>
 

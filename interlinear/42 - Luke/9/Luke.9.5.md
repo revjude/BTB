@@ -1,10 +1,67 @@
+---
+title: Luke 9:5
+type: Verse
+kjv: "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them."
+bsb: "If anyone does not welcome you, shake the dust off your feet when you leave that town, as a testimony against them.”"
+jesus_said: "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them."
+greek: "καὶ ὅσοι ἂν μὴ δέχωνται ὑμᾶς, ἐξερχόμενοι ἀπὸ τῆς πόλεως ἐκείνης καὶ τὸν κονιορτὸν ἀπὸ τῶν ποδῶν ὑμῶν ἀποτινάσσετε εἰς μαρτύριον ἐπ᾽ αὐτούς."
+pericope: "[[Luke.9.1 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3745]]"
+- "[[G0302]]"
+- "[[G3361]]"
+- "[[G1209]]"
+- "[[G4771]]"
+- "[[G1831]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1565]]"
+- "[[G2868]]"
+- "[[G4228]]"
+- "[[G0660]]"
+- "[[G1519]]"
+- "[[G3142]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+- k
+---
+
 **Luke 9:5**<big><big>[[Luke.9.1 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.
 <small><sub>**BSB:**</sub></small>
 If anyone does not welcome you, shake the dust off your feet when you leave that town, as a testimony against them.”
-<small><sub>**Literal:**</sub></small>
-And as many as maybe not shall receive you, going forth from the city that and the dust from the feet of you do shake off as a testimony against them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.4|<< Luke 9:4]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.6|Luke 9:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3745\|ὅσοι]]  [[G0302\|ἂν]]  [[G3361\|μὴ]]  [[G1209\|δέχωνται]]  [[G4771\|ὑμᾶς,]]  [[G1831\|ἐξερχόμενοι]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G1565\|ἐκείνης]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2868\|κονιορτὸν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G4771\|ὑμῶν]]  [[G0660\|ἀποτινάσσετε]]  [[G1519\|εἰς]]  [[G3142\|μαρτύριον]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.4|<< Luke 9:4]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.6|Luke 9:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

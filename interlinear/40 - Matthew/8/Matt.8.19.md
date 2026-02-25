@@ -1,10 +1,58 @@
+---
+title: Matthew 8:19
+type: Verse
+kjv: "And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest."
+bsb: "And one of the scribes came to Him and said, “Teacher, I will follow You wherever You go.”"
+greek: "καὶ προσελθὼν εἷς γραμματεὺς εἶπεν αὐτῷ· διδάσκαλε, ἀκολουθήσω σοι ὅπου ἐὰν ἀπέρχῃ."
+pericope: "[[Matt.8.18 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DOCTOR|DOCTOR]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G1520]]"
+- "[[G1122]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1320]]"
+- "[[G0190]]"
+- "[[G4771]]"
+- "[[G3699]]"
+- "[[G1437]]"
+- "[[G0565]]"
+texts:
+- NKO
+---
+
 **Matthew 8:19**<big><big>[[Matt.8.18 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a certain scribe came, and said unto him, Master, I will follow thee whithersoever thou goest.
 <small><sub>**BSB:**</sub></small>
 And one of the scribes came to Him and said, “Teacher, I will follow You wherever You go.”
-<small><sub>**Literal:**</sub></small>
-And having come to [Him] one scribe said to Him; Teacher, I will follow You wherever if You shall go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.18|<< Matthew 8:18]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.20|Matthew 8:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4334\|προσελθὼν]]  [[G1520\|εἷς]]  [[G1122\|γραμματεὺς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G1320\|διδάσκαλε,]]  [[G0190\|ἀκολουθήσω]]  [[G4771\|σοι]]  [[G3699\|ὅπου]]  [[G1437\|ἐὰν]]  [[G0565\|ἀπέρχῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DOCTOR|DOCTOR]] • [[topic INSTABILITY|INSTABILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MASTER|MASTER]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.18|<< Matthew 8:18]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.20|Matthew 8:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

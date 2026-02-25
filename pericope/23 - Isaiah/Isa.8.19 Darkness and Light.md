@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Darkness and Light
+type: Pericope
 pericope: "[[Isa.8.19 Darkness and Light|Darkness and Light]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 8
 book/chapter: "[[Isa.8|Isaiah 8]]"
-genre:
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 4
 verses:
 - "[[Isa.8.19]]"
 - "[[Isa.8.20]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Isa.8.22]]"
 ---
 
-[[Isa.8|Isaiah 8:19 - Isaiah 8:22]]
+<small>[[Isa.8|Isaiah 8:19-22]]</small>
 *Darkness and Light*
 
 [[Isa.8.19|19]] And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?

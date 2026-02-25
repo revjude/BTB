@@ -1,10 +1,65 @@
+---
+title: Mark 3:5
+type: Verse
+kjv: "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other."
+bsb: "Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, “Stretch out your hand.” So he stretched it out, and it was restored."
+jesus_said: "Stretch forth thine hand."
+greek: "καὶ περιβλεψάμενος αὐτοὺς μετ᾽ ὀργῆς, συλλυπούμενος ἐπὶ τῇ πωρώσει τῆς καρδίας αὐτῶν, λέγει τῷ ἀνθρώπῳ· ἔκτεινον τὴν χεῖρα σου. καὶ ἐξέτεινεν, καὶ ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ ὑγιὴς ὡς ἡ ἄλλη.¶"
+pericope: "[[Mark.3.1 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4017]]"
+- "[[G0846]]"
+- "[[G3326]]"
+- "[[G3709]]"
+- "[[G4818]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4457]]"
+- "[[G2588]]"
+- "[[G3004G]]"
+- "[[G0444]]"
+- "[[G1614]]"
+- "[[G5495]]"
+- "[[G4771]]"
+- "[[G0600]]"
+- "[[G5199]]"
+- "[[G5613]]"
+- "[[G0243]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **Mark 3:5**<big><big>[[Mark.3.1 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched [it] out: and his hand was restored whole as the other.
 <small><sub>**BSB:**</sub></small>
 Jesus looked around at them with anger and sorrow at their hardness of heart. Then He said to the man, “Stretch out your hand.” So he stretched it out, and it was restored.
-<small><sub>**Literal:**</sub></small>
-And having looked around on them with anger, being grieved at the hardness of the heart of them, He says to the man; do stretch out the hand of you. And he stretched [it] out, and was restored the hand of him sound as <the> another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.4|<< Mark 3:4]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.6|Mark 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4017\|περιβλεψάμενος]]  [[G0846\|αὐτοὺς]]  [[G3326\|μετ᾽]]  [[G3709\|ὀργῆς,]]  [[G4818\|συλλυπούμενος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G4457\|πωρώσει]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G0846\|αὐτῶν,]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G0444\|ἀνθρώπῳ·]]  [[G1614\|ἔκτεινον]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G4771\|σου.]]  [[G2532\|καὶ]]  [[G1614\|ἐξέτεινεν,]]  [[G2532\|καὶ]]  [[G0600\|ἀπεκατεστάθη]]  [[G3588\|ἡ]]  [[G5495\|χεὶρ]]  [[G0846\|αὐτοῦ]]  [[G5199\|ὑγιὴς]]  [[G5613\|ὡς]]  [[G3588\|ἡ]]  [[G0243\|ἄλλη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.4|<< Mark 3:4]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.6|Mark 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

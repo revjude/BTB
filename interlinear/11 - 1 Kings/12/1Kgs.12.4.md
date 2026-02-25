@@ -1,8 +1,73 @@
+---
+title: 1 Kings 12:4
+type: Verse
+kjv: "Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee."
+bsb: "“Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”"
+hebrew: "אָבִ֖יךָ הִקְשָׁ֣ה אֶת־ עֻלֵּ֑נוּ וְאַתָּ֡ה עַתָּ֣ה הָקֵל֩ מֵעֲבֹדַ֨ת אָבִ֜יךָ הַקָּשָׁ֗ה וּמֵעֻלּ֧וֹ הַכָּבֵ֛ד אֲשֶׁר־ נָתַ֥ן עָלֵ֖ינוּ וְנַעַבְדֶֽךָּ׃"
+pericope: "[[1Kgs.12.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REVOLT|REVOLT]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H7185]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5923]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H6258]]"
+- "[[H7043]]"
+- "[[H9006]]"
+- "[[H5656G]]"
+- "[[H9009]]"
+- "[[H7186]]"
+- "[[H9023]]"
+- "[[H3515]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H5647G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 12:4**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.
 <small><sub>**BSB:**</sub></small>
 “Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0001G\|אָבִ֖י]][[H9021\|ךָ]] [[H7185\|הִקְשָׁ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5923\|עֻלֵּ֑]][[H9025\|נוּ]] [[H9002\|וְ]][[H0859A\|אַתָּ֡ה]] [[H6258\|עַתָּ֣ה]] [[H7043\|הָקֵל֩]] [[H9006\|מֵ]][[H5656G\|עֲבֹדַ֨ת]] [[H0001G\|אָבִ֜י]][[H9021\|ךָ]] [[H9009\|הַ]][[H7186\|קָּשָׁ֗ה]] [[H9002\|וּ]][[H9006\|מֵ]][[H5923\|עֻלּ֧]][[H9023\|וֹ]] [[H9009\|הַ]][[H3515\|כָּבֵ֛ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414H\|נָתַ֥ן]] [[H5921A\|עָלֵ֖י]][[H9035\|נוּ]] [[H9002\|וְ]][[H5647G\|נַעַבְדֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PETITION|PETITION]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REVOLT|REVOLT]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.3|<< 1 Kings 12:3]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.5|1 Kings 12:5 >>]]</td></tr></table>
 

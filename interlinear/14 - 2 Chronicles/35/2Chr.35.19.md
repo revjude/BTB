@@ -1,8 +1,53 @@
+---
+title: 2 Chronicles 35:19
+type: Verse
+kjv: "In the eighteenth year of the reign of Josiah was this passover kept."
+bsb: "In the eighteenth year of Josiah’s reign, this Passover was observed."
+hebrew: "בִּשְׁמוֹנֶ֤ה עֶשְׂרֵה֙ שָׁנָ֔ה לְמַלְכ֖וּת יֹאשִׁיָּ֑הוּ נַעֲשָׂ֖ה הַפֶּ֥סַח הַזֶּֽה׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9003]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H4438]]"
+- "[[H2977G]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:19**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the eighteenth year of the reign of Josiah was this passover kept.
 <small><sub>**BSB:**</sub></small>
 In the eighteenth year of Josiah’s reign, this Passover was observed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8083\|שְׁמוֹנֶ֤ה]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לְ]][[H4438\|מַלְכ֖וּת]] [[H2977G\|יֹאשִׁיָּ֑הוּ]] [[H6213A\|נַעֲשָׂ֖ה]] [[H9009\|הַ]][[H6453\|פֶּ֥סַח]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.18|<< 2 Chronicles 35:18]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.20|2 Chronicles 35:20 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Isaiah 22:17
+type: Verse
+kjv: "Behold, the LORD will carry thee away with a mighty captivity, and will surely cover thee."
+bsb: "Look, O mighty man! The LORD is about to shake you violently. He will take hold of you,"
+hebrew: "הִנֵּ֤ה יְהוָה֙ מְטַלְטֶלְךָ֔ טַלְטֵלָ֖ה גָּ֑בֶר וְעֹטְךָ֖ עָטֹֽה׃"
+pericope: "[[Isa.22.15 A Message for Shebna|A Message for Shebna]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[H2009]]"
+- "[[H3068G]]"
+- "[[H2904]]"
+- "[[H9031]]"
+- "[[H2925]]"
+- "[[H1397]]"
+- "[[H9002]]"
+- "[[H5844B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:17**<big><big>[[Isa.22.15 A Message for Shebna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the LORD will carry thee away with a mighty captivity, and will surely cover thee.
 <small><sub>**BSB:**</sub></small>
 Look, O mighty man! The LORD is about to shake you violently. He will take hold of you,
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]] [[H3068G\|יְהוָה֙]] [[H2904\|מְטַלְטֶלְ]][[H9031\|ךָ֔]] [[H2925\|טַלְטֵלָ֖ה]] [[H1397\|גָּ֑בֶר]] [[H9002\|וְ]][[H5844B\|עֹטְ]][[H9031\|ךָ֖]] [[H5844B\|עָטֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.16|<< Isaiah 22:16]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.18|Isaiah 22:18 >>]]</td></tr></table>
 

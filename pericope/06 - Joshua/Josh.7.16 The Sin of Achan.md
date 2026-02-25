@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sin of Achan
+type: Pericope
 pericope: "[[Josh.7.16 The Sin of Achan|The Sin of Achan]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 7
 book/chapter: "[[Josh.7|Joshua 7]]"
-genre:
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 11
 verses:
 - "[[Josh.7.16]]"
 - "[[Josh.7.17]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Josh.7.26]]"
 ---
 
-[[Josh.7|Joshua 7:16 - Joshua 7:26]]
+<small>[[Josh.7|Joshua 7:16-26]]</small>
 *The Sin of Achan*
 
 [[Josh.7.16|16]] So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:

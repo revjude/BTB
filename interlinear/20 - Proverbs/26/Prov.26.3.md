@@ -1,8 +1,54 @@
+---
+title: Proverbs 26:3
+type: Verse
+kjv: "A whip for the horse, a bridle for the ass, and a rod for the fool’s back."
+bsb: "A whip for the horse, a bridle for the donkey, and a rod for the backs of fools!"
+hebrew: "שׁ֣וֹט לַ֭סּוּס מֶ֣תֶג לַחֲמ֑וֹר וְ֝שֵׁ֗בֶט לְגֵ֣ו כְּסִילִֽים׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BRIDLE|BRIDLE]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic WHIP|WHIP]]"
+strongs:
+- "[[H7752]]"
+- "[[H9005]]"
+- "[[H5483M]]"
+- "[[H4964]]"
+- "[[H2543]]"
+- "[[H9002]]"
+- "[[H7626G]]"
+- "[[H1460A]]"
+- "[[H3684]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:3**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A whip for the horse, a bridle for the ass, and a rod for the fool’s back.
 <small><sub>**BSB:**</sub></small>
 A whip for the horse, a bridle for the donkey, and a rod for the backs of fools!
+<small><sub>**Hebrew:**</sub></small>
+[[H7752\|שׁ֣וֹט]] [[H9005\|לַ֭]][[H5483M\|סּוּס]] [[H4964\|מֶ֣תֶג]] [[H9005\|לַ]][[H2543\|חֲמ֑וֹר]] [[H9002\|וְ֝]][[H7626G\|שֵׁ֗בֶט]] [[H9005\|לְ]][[H1460A\|גֵ֣ו]] [[H3684\|כְּסִילִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BRIDLE|BRIDLE]] • [[topic FOOL|FOOL]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic WHIP|WHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.2|<< Proverbs 26:2]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.4|Proverbs 26:4 >>]]</td></tr></table>
 

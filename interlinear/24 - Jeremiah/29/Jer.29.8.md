@@ -1,8 +1,69 @@
+---
+title: Jeremiah 29:8
+type: Verse
+kjv: "For thus saith the LORD of hosts, the God of Israel; Let not your prophets and your diviners, that be in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed."
+bsb: "For this is what the LORD of Hosts, the God of Israel, says: “Do not be deceived by the prophets and diviners among you, and do not listen to the dreams you elicit from them."
+hebrew: "כִּי֩ כֹ֨ה אָמַ֜ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אַל־ יַשִּׁ֧יאוּ לָכֶ֛ם נְבִֽיאֵיכֶ֥ם אֲשֶׁר־ בְּקִרְבְּכֶ֖ם וְקֹֽסְמֵיכֶ֑ם וְאַֽל־ תִּשְׁמְעוּ֙ אֶל־ חֲלֹמֹ֣תֵיכֶ֔ם אֲשֶׁ֥ר אַתֶּ֖ם מַחְלְמִֽים׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5377]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H5030]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9002]]"
+- "[[H7080]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H2472]]"
+- "[[H0859D]]"
+- "[[H2492B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:8**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts, the God of Israel; Let not your prophets and your diviners, that [be] in the midst of you, deceive you, neither hearken to your dreams which ye cause to be dreamed.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts, the God of Israel, says: “Do not be deceived by the prophets and diviners among you, and do not listen to the dreams you elicit from them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3541\|כֹ֨ה]] [[H0559\|אָמַ֜ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0408\|אַל]][[H9014\|־]] [[H5377\|יַשִּׁ֧יאוּ]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H5030\|נְבִֽיאֵי]][[H9026\|כֶ֥ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H7080\|קֹֽסְמֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H0408\|אַֽל]][[H9014\|־]] [[H8085G\|תִּשְׁמְעוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H2472\|חֲלֹמֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֖ם]] [[H2492B\|מַחְלְמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.7|<< Jeremiah 29:7]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.9|Jeremiah 29:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

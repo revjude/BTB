@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ascension
+type: Pericope
 pericope: "[[Luke.24.50 The Ascension|The Ascension]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 24
 book/chapter: "[[Luke.24|Luke 24]]"
-genre:
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.24.50]]"
 - "[[Luke.24.51]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.24.53]]"
 ---
 
-[[Luke.24|Luke 24:50 - Luke 24:53]]
+<small>[[Luke.24|Luke 24:50-53]]</small>
 *The Ascension*
 
 [[Luke.24.50|50]] And he led them out as far as to Bethany, and he lifted up his hands, and blessed them.

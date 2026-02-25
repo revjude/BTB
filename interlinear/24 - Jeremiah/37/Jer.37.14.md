@@ -1,8 +1,67 @@
+---
+title: Jeremiah 37:14
+type: Verse
+kjv: "Then said Jeremiah, It is false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes."
+bsb: "“That is a lie,” Jeremiah replied. “I am not deserting to the Chaldeans!” But Irijah would not listen to him; instead, he arrested Jeremiah and took him to the officials."
+hebrew: "וַיֹּ֨אמֶר יִרְמְיָ֜הוּ שֶׁ֗קֶר אֵינֶ֤נִּי נֹפֵל֙ עַל־ הַכַּשְׂדִּ֔ים וְלֹ֥א שָׁמַ֖ע אֵלָ֑יו וַיִּתְפֹּ֤שׂ יִרְאִיָּיה֙ בְּיִרְמְיָ֔הוּ וַיְבִאֵ֖הוּ אֶל־ הַשָּׂרִֽים׃"
+pericope: "[[Jer.37.11 Jeremiah Imprisoned|Jeremiah Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic IRIJAH|IRIJAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3414L]]"
+- "[[H8267]]"
+- "[[H0369]]"
+- "[[H9040]]"
+- "[[H5307H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3778]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H8610]]"
+- "[[H3376]]"
+- "[[H9003]]"
+- "[[H0935P]]"
+- "[[H8269]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 37:14**<big><big>[[Jer.37.11 Jeremiah Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Jeremiah, [It is] false; I fall not away to the Chaldeans. But he hearkened not to him: so Irijah took Jeremiah, and brought him to the princes.
 <small><sub>**BSB:**</sub></small>
 “That is a lie,” Jeremiah replied. “I am not deserting to the Chaldeans!” But Irijah would not listen to him; instead, he arrested Jeremiah and took him to the officials.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3414L\|יִרְמְיָ֜הוּ]] [[H8267\|שֶׁ֗קֶר]] [[H0369\|אֵינֶ֤]][[H9040\|נִּי]] [[H5307H\|נֹפֵל֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֔ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שָׁמַ֖ע]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H8610\|יִּתְפֹּ֤שׂ]] [[H3376\|יִרְאִיָּיה֙]] [[H9003\|בְּ]][[H3414L\|יִרְמְיָ֔הוּ]] [[H9001\|וַ]][[H0935P\|יְבִאֵ֖]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic IRIJAH|IRIJAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.13|<< Jeremiah 37:13]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.15|Jeremiah 37:15 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 2:16
+type: Verse
+kjv: "For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ."
+bsb: "“For who has known the mind of the Lord, so as to instruct Him?” But we have the mind of Christ."
+greek: "τίς γὰρ ἔγνω νοῦν κυρίου, ὃς συμβιβάσει αὐτόν; ἡμεῖς δὲ νοῦν Χριστοῦ ἔχομεν.¶"
+pericope: "[[1Cor.2.6 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G1097]]"
+- "[[G3563]]"
+- "[[G2962G]]"
+- "[[G3739]]"
+- "[[G4822]]"
+- "[[G0846]]"
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G5547]]"
+- "[[G2192]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 2:16**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.
 <small><sub>**BSB:**</sub></small>
 “For who has known the mind of the Lord, so as to instruct Him?” But we have the mind of Christ.
-<small><sub>**Literal:**</sub></small>
-Who for has known [the] mind of [the] Lord? Who will instruct Him? We ourselves however [the] mind of Christ have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.15|<< 1 Corinthians 2:15]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.1|1 Corinthians 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G1063\|γὰρ]]  [[G1097\|ἔγνω]]  [[G3563\|νοῦν]]  [[G2962G\|κυρίου,]]  [[G3739\|ὃς]]  [[G4822\|συμβιβάσει]]  [[G0846\|αὐτόν;]]  [[G3165\|ἡμεῖς]]  [[G1161\|δὲ]]  [[G3563\|νοῦν]]  [[G5547\|Χριστοῦ]]  [[G2192\|ἔχομεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.15|<< 1 Corinthians 2:15]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.1|1 Corinthians 3:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 2:16** is...
 > $\quad$ referencing: [[LXX.Isa.40.13|Isa 40:13]]

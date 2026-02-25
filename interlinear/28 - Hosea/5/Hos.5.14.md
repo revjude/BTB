@@ -1,8 +1,59 @@
+---
+title: Hosea 5:14
+type: Verse
+kjv: "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him."
+bsb: "For I am like a lion to Ephraim and like a young lion to the house of Judah. I, even I, will tear them to pieces and then go away. I will carry them off where no one can rescue them."
+hebrew: "כִּ֣י אָנֹכִ֤י כַשַּׁ֙חַל֙ לְאֶפְרַ֔יִם וְכַכְּפִ֖יר לְבֵ֣ית יְהוּדָ֑ה אֲנִ֨י אֲנִ֤י אֶטְרֹף֙ וְאֵלֵ֔ךְ אֶשָּׂ֖א וְאֵ֥ין מַצִּֽיל׃"
+pericope: "[[Hos.5.1 Judgment on Israel and Judah|Judgment on Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 5
+book/chapter: "[[Hos.5|Hosea 5]]"
+chronological_order: 646
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic LION|LION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0595]]"
+- "[[H9004]]"
+- "[[H7826]]"
+- "[[H9005]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H3715A]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H0589]]"
+- "[[H2963]]"
+- "[[H1980G]]"
+- "[[H5375H]]"
+- "[[H0369]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 5:14**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [will be] unto Ephraim as a lion, and as a young lion to the house of Judah: I, [even] I, will tear and go away; I will take away, and none shall rescue [him].
 <small><sub>**BSB:**</sub></small>
 For I am like a lion to Ephraim and like a young lion to the house of Judah. I, even I, will tear them to pieces and then go away. I will carry them off where no one can rescue them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0595\|אָנֹכִ֤י]] [[H9004\|כַ]][[H7826\|שַּׁ֙חַל֙]] [[H9005\|לְ]][[H0669G\|אֶפְרַ֔יִם]] [[H9002\|וְ]][[H9004\|כַ]][[H3715A\|כְּפִ֖יר]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H3063G\|יְהוּדָ֑ה]] [[H0589\|אֲנִ֨י]] [[H0589\|אֲנִ֤י]] [[H2963\|אֶטְרֹף֙]] [[H9002\|וְ]][[H1980G\|אֵלֵ֔ךְ]] [[H5375H\|אֶשָּׂ֖א]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H5337\|מַצִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic EPHRAIM|EPHRAIM]] • [[topic LION|LION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.13|<< Hosea 5:13]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.15|Hosea 5:15 >>]]</td></tr></table>
 

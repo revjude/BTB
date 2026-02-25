@@ -1,8 +1,52 @@
+---
+title: Proverbs 13:4
+type: Verse
+kjv: "The soul of the sluggard desireth, and hath nothing: but the soul of the diligent shall be made fat."
+bsb: "The slacker craves yet has nothing, but the soul of the diligent is fully satisfied."
+hebrew: "מִתְאַוָּ֣ה וָ֭אַיִן נַפְשׁ֣וֹ עָצֵ֑ל וְנֶ֖פֶשׁ חָרֻצִ֣ים תְּדֻשָּֽׁן׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H0183]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H6102]]"
+- "[[H2742A]]"
+- "[[H1878]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:4**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The soul of the sluggard desireth, and [hath] nothing: but the soul of the diligent shall be made fat.
 <small><sub>**BSB:**</sub></small>
 The slacker craves yet has nothing, but the soul of the diligent is fully satisfied.
+<small><sub>**Hebrew:**</sub></small>
+[[H0183\|מִתְאַוָּ֣ה]] [[H9002\|וָ֭]][[H0369\|אַיִן]] [[H5315G\|נַפְשׁ֣]][[H9023\|וֹ]] [[H6102\|עָצֵ֑ל]] [[H9002\|וְ]][[H5315G\|נֶ֖פֶשׁ]] [[H2742A\|חָרֻצִ֣ים]] [[H1878\|תְּדֻשָּֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DILIGENCE|DILIGENCE]] • [[topic IDLENESS|IDLENESS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.3|<< Proverbs 13:3]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.5|Proverbs 13:5 >>]]</td></tr></table>
 

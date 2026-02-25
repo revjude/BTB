@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judging Others
+type: Pericope
 pericope: "[[Matt.7.1 Judging Others|Judging Others]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 7
 book/chapter: "[[Matt.7|Matthew 7]]"
-genre:
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.7.1]]"
 - "[[Matt.7.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.7.6]]"
 ---
 
-[[Matt.7|Matthew 7:1 - Matthew 7:6]]
+<small>[[Matt.7|Matthew 7:1-6]]</small>
 *Judging Others*
 
 [[Matt.7.1|1]] Judge not, that ye be not judged.

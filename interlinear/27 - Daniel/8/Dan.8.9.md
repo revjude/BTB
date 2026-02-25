@@ -1,8 +1,59 @@
+---
+title: Daniel 8:9
+type: Verse
+kjv: "And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant land."
+bsb: "From one of these horns a little horn emerged and grew extensively toward the south and the east and toward the Beautiful Land."
+hebrew: "וּמִן־ הָאַחַ֣ת מֵהֶ֔ם יָצָ֥א קֶֽרֶן־ אַחַ֖ת מִצְּעִירָ֑ה וַתִּגְדַּל־ יֶ֛תֶר אֶל־ הַנֶּ֥גֶב וְאֶל־ הַמִּזְרָ֖ח וְאֶל־ הַצֶּֽבִי׃"
+pericope: "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H3318G]]"
+- "[[H7161A]]"
+- "[[H6810]]"
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H3499A]]"
+- "[[H0413]]"
+- "[[H5045H]]"
+- "[[H4217H]]"
+- "[[H6643A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:9**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of one of them came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant [land].
 <small><sub>**BSB:**</sub></small>
 From one of these horns a little horn emerged and grew extensively toward the south and the east and toward the Beautiful Land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0259\|אַחַ֣ת]] [[H9006\|מֵ]][[H9038\|הֶ֔ם]] [[H3318G\|יָצָ֥א]] [[H7161A\|קֶֽרֶן]][[H9014\|־]] [[H0259\|אַחַ֖ת]] [[H9006\|מִ]][[H6810\|צְּעִירָ֑ה]] [[H9001\|וַ]][[H1431\|תִּגְדַּל]][[H9014\|־]] [[H3499A\|יֶ֛תֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5045H\|נֶּ֥גֶב]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4217H\|מִּזְרָ֖ח]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6643A\|צֶּֽבִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.8|<< Daniel 8:8]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.10|Daniel 8:10 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 7:5
+type: Verse
+kjv: "And their brethren among all the families of Issachar were valiant men of might, reckoned in all by their genealogies fourscore and seven thousand."
+bsb: "Their kinsmen belonging to all the families of Issachar who were mighty men of valor totaled 87,000, as listed in their genealogies."
+hebrew: "וַאֲחֵיהֶ֗ם לְכֹל֙ מִשְׁפְּח֣וֹת יִשָׂשכָ֔ר גִּבּוֹרֵ֖י חֲיָלִ֑ים שְׁמוֹנִ֤ים וְשִׁבְעָה֙ אֶ֔לֶף הִתְיַחְשָׂ֖ם לַכֹּֽל׃ פ"
+pericope: "[[1Chr.7.1 The Descendants of Issachar|The Descendants of Issachar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ISSACHAR|ISSACHAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H4940]]"
+- "[[H3485G]]"
+- "[[H1368]]"
+- "[[H2428A]]"
+- "[[H8084]]"
+- "[[H7651]]"
+- "[[H0505G]]"
+- "[[H3187]]"
+- "[[H9048]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:5**<big><big>[[1Chr.7.1 The Descendants of Issachar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their brethren among all the families of Issachar [were] valiant men of might, reckoned in all by their genealogies fourscore and seven thousand.
 <small><sub>**BSB:**</sub></small>
 Their kinsmen belonging to all the families of Issachar who were mighty men of valor totaled 87,000, as listed in their genealogies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0251H\|אֲחֵי]][[H9028\|הֶ֗ם]] [[H9005\|לְ]][[H3605\|כֹל֙]] [[H4940\|מִשְׁפְּח֣וֹת]] [[H3485G\|יִשָׂשכָ֔ר]] [[H1368\|גִּבּוֹרֵ֖י]] [[H2428A\|חֲיָלִ֑ים]] [[H8084\|שְׁמוֹנִ֤ים]] [[H9002\|וְ]][[H7651\|שִׁבְעָה֙]] [[H0505G\|אֶ֔לֶף]] [[H3187\|הִתְיַחְשָׂ֖]][[H9048\|ם]] [[H9005\|לַ]][[H3605\|כֹּֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISSACHAR|ISSACHAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.4|<< 1 Chronicles 7:4]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.6|1 Chronicles 7:6 >>]]</td></tr></table>
 
@@ -18,7 +66,7 @@ Their kinsmen belonging to all the families of Issachar who were mighty men of v
 | and seven  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7651\|שִׁבְעָה֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> shiv.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֔לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | recording genealogy they  |**<big>&#8207;[[H3187\|הִתְיַחְשָׂ֖]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| hit.yach.Sa<small><sup>[[HVtcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of \<the> everyone  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3605\|כֹּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> everyone  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3605\|כֹּֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.4|<< 1 Chronicles 7:4]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.6|1 Chronicles 7:6 >>]]</td></tr></table>
 
 

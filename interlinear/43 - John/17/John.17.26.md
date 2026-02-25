@@ -1,10 +1,61 @@
+---
+title: John 17:26
+type: Verse
+kjv: "And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them."
+bsb: "And I have made Your name known to them and will continue to make it known, so that the love You have for Me may be in them, and I in them.”"
+jesus_said: "And I have declared unto them thy name, and will declare it: that the love wherewith thou hast loved me may be in them, and I in them."
+greek: "καὶ ἐγνώρισα αὐτοῖς τὸ ὄνομά σου καὶ γνωρίσω, ἵνα ἡ ἀγάπη ἣν ἠγάπησάς με ἐν αὐτοῖς ᾖ κἀγὼ κἀγὼ ἐν αὐτοῖς.¶"
+pericope: "[[John.17.20 Prayer for All Believers|Prayer for All Believers]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G1107]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G0026]]"
+- "[[G3739]]"
+- "[[G0025]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G1510]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **John 17:26**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I have declared unto them thy name, and will declare [it]: that the love wherewith thou hast loved me may be in them, and I in them.
 <small><sub>**BSB:**</sub></small>
 And I have made Your name known to them and will continue to make it known, so that the love You have for Me may be in them, and I in them.”
-<small><sub>**Literal:**</sub></small>
-And I made known to them the name of You and will make [it] known, so that the love with which You loved Me in them may be and I myself in them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.25|<< John 17:25]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.1|John 18:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1107\|ἐγνώρισα]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G1107\|γνωρίσω,]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G3739\|ἣν]]  [[G0025\|ἠγάπησάς]]  [[G3165\|με]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς]]  [[G1510\|ᾖ]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.25|<< John 17:25]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.1|John 18:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

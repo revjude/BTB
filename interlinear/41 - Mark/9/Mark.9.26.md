@@ -1,10 +1,64 @@
+---
+title: Mark 9:26
+type: Verse
+kjv: "And the spirit cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead."
+bsb: "After shrieking and convulsing him violently, the spirit came out. The boy became like a corpse, so that many said, “He is dead.”"
+greek: "καὶ κράξας καὶ πολλὰ σπαράξας αὐτόν ἐξῆλθεν, καὶ ἐγένετο ὡσεὶ νεκρὸς ὥστε τοὺς πολλοὺς λέγειν ὅτι ἀπέθανεν."
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G4183]]"
+- "[[G4682]]"
+- "[[G0846]]"
+- "[[G1831]]"
+- "[[G1096]]"
+- "[[G5616]]"
+- "[[G3498]]"
+- "[[G5620]]"
+- "[[G3588]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G0599]]"
+texts:
+- NKO
+- N(k)O
+- k
+- no
+---
+
 **Mark 9:26**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And [the spirit] cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead.
 <small><sub>**BSB:**</sub></small>
 After shrieking and convulsing him violently, the spirit came out. The boy became like a corpse, so that many said, “He is dead.”
-<small><sub>**Literal:**</sub></small>
-And having cried out and much throwing into convulsions him it came out, and he became as if dead in order for <the> many to say that he was dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.25|<< Mark 9:25]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.27|Mark 9:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2896\|κράξας]]  [[G2532\|καὶ]]  [[G4183\|πολλὰ]]  [[G4682\|σπαράξας]]  [[G0846\|αὐτόν]]  [[G1831\|ἐξῆλθεν,]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G5616\|ὡσεὶ]]  [[G3498\|νεκρὸς]]  [[G5620\|ὥστε]]  [[G3588\|τοὺς]]  [[G4183\|πολλοὺς]]  [[G3004G\|λέγειν]]  [[G3754G\|ὅτι]]  [[G0599\|ἀπέθανεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.25|<< Mark 9:25]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.27|Mark 9:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

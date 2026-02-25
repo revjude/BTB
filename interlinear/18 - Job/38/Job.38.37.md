@@ -1,8 +1,55 @@
+---
+title: Job 38:37
+type: Verse
+kjv: "Who can number the clouds in wisdom? or who can stay the bottles of heaven,"
+bsb: "Who has the wisdom to count the clouds? Or who can tilt the water jars of the heavens"
+hebrew: "מִֽי־ יְסַפֵּ֣ר שְׁחָקִ֣ים בְּחָכְמָ֑ה וְנִבְלֵ֥י שָׁ֝מַ֗יִם מִ֣י יַשְׁכִּֽיב׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5608A]]"
+- "[[H7834]]"
+- "[[H9003]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H5035A]]"
+- "[[H8064]]"
+- "[[H7901G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:37**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who can number the clouds in wisdom? or who can stay the bottles of heaven,
 <small><sub>**BSB:**</sub></small>
 Who has the wisdom to count the clouds? Or who can tilt the water jars of the heavens
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5608A\|יְסַפֵּ֣ר]] [[H7834\|שְׁחָקִ֣ים]] [[H9003\|בְּ]][[H2451\|חָכְמָ֑ה]] [[H9002\|וְ]][[H5035A\|נִבְלֵ֥י]] [[H8064\|שָׁ֝מַ֗יִם]] [[H4310\|מִ֣י]] [[H7901G\|יַשְׁכִּֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.36|<< Job 38:36]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.38|Job 38:38 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Psalm 145:2
+type: Verse
+kjv: "Every day will I bless thee; and I will praise thy name for ever and ever."
+bsb: "Every day I will bless You, and I will praise Your name forever and ever."
+hebrew: "בְּכָל־ י֥וֹם אֲבָרֲכֶ֑ךָּ וַאֲהַלְלָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃"
+pericope: "[[Ps.145.1 I Will Exalt You, My God and King|I Will Exalt You, My God and King]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 145
+book/chapter: "[[Ps.145|Psalm 145]]"
+chronological_order: 391
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H1984B]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 145:2**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every day will I bless thee; and I will praise thy name for ever and ever.
 <small><sub>**BSB:**</sub></small>
 Every day I will bless You, and I will praise Your name forever and ever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3117G\|י֥וֹם]] [[H1288\|אֲבָרֲכֶ֑]][[H9031\|ךָּ]] [[H9002\|וַ]][[H1984B\|אֲהַלְלָ֥ה]] [[H8034\|שִׁ֝מְ]][[H9021\|ךָ֗]] [[H9005\|לְ]][[H5769G\|עוֹלָ֥ם]] [[H9002\|וָ]][[H5703\|עֶֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.1|<< Psalms 145:1]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.3|Psalms 145:3 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Anger against Solomon
+type: Pericope
 pericope: "[[1Kgs.11.9 God’s Anger against Solomon|God’s Anger against Solomon]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 11
 book/chapter: "[[1Kgs.11|1 Kings 11]]"
-genre:
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 5
 verses:
 - "[[1Kgs.11.9]]"
 - "[[1Kgs.11.10]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Kgs.11.13]]"
 ---
 
-[[1Kgs.11|1 Kings 11:9 - 1 Kings 11:13]]
+<small>[[1Kgs.11|1 Kings 11:9-13]]</small>
 *God’s Anger against Solomon*
 
 [[1Kgs.11.9|9]] And the LORD was angry with Solomon, because his heart was turned from the LORD God of Israel, which had appeared unto him twice,

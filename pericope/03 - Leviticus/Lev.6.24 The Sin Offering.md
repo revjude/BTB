@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sin Offering
+type: Pericope
 pericope: "[[Lev.6.24 The Sin Offering|The Sin Offering]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 6
 book/chapter: "[[Lev.6|Leviticus 6]]"
-genre:
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 7
 verses:
 - "[[Lev.6.24]]"
 - "[[Lev.6.25]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Lev.6.30]]"
 ---
 
-[[Lev.6|Leviticus 6:24 - Leviticus 6:30]]
+<small>[[Lev.6|Leviticus 6:24-30]]</small>
 *The Sin Offering*
 
 [[Lev.6.24|24]] And the LORD spake unto Moses, saying,

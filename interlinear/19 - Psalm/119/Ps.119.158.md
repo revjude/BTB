@@ -1,8 +1,55 @@
+---
+title: Psalm 119:158
+type: Verse
+kjv: "I beheld the transgressors, and was grieved; because they kept not thy word."
+bsb: "I look on the faithless with loathing because they do not keep Your word."
+hebrew: "רָאִ֣יתִי בֹ֭גְדִים וָֽאֶתְקוֹטָ֑טָה אֲשֶׁ֥ר אִ֝מְרָתְךָ֗ לֹ֣א שָׁמָֽרוּ׃"
+pericope: "[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|Your Word Is a Lamp to My Feet - RESH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H7200G]]"
+- "[[H0898]]"
+- "[[H9001]]"
+- "[[H6962]]"
+- "[[H9012]]"
+- "[[H0834A]]"
+- "[[H0565A]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:158**<big><big>[[Ps.119.153 Your Word Is a Lamp to My Feet - RESH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld the transgressors, and was grieved; because they kept not thy word.
 <small><sub>**BSB:**</sub></small>
 I look on the faithless with loathing because they do not keep Your word.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָאִ֣יתִי]] [[H0898\|בֹ֭גְדִים]] [[H9001\|וָֽ]][[H6962\|אֶתְקוֹטָ֑טָ]][[H9012\|ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0565A\|אִ֝מְרָתְ]][[H9021\|ךָ֗]] [[H3808\|לֹ֣א]] [[H8104G\|שָׁמָֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.158|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.157|<< Psalms 119:157]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.159|Psalms 119:159 >>]]</td></tr></table>
 

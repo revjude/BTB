@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Contend with My Opponents, O LORD
+type: Pericope
 pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 35
 book/chapter: "[[Ps.35|Psalm 35]]"
-genre:
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 29
 verses:
 - "[[Ps.35.0]]"
 - "[[Ps.35.1]]"
@@ -50,7 +57,7 @@ verses:
 - "[[Ps.35.28]]"
 ---
 
-[[Ps.35|Psalm 35:1 - Psalm 35:28]]
+<small>[[Ps.35|Psalm 35:1-28]]</small>
 *Contend with My Opponents, O LORD*
 
 [[Ps.35.0|0]] \[A Psalm\] of David.

@@ -1,10 +1,69 @@
+---
+title: 2 Corinthians 12:21
+type: Verse
+kjv: "And lest, when I come again, my God will humble me among you, and that I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed."
+bsb: "I am afraid that when I come again, my God will humble me before you, and I will be grieved over many who have sinned earlier and have not repented of their acts of impurity, sexual immorality, and debauchery."
+greek: "μὴ πάλιν ἐλθόντος μου ταπεινώσῃ με ὁ θεός μου πρὸς ὑμᾶς, καὶ πενθήσω πολλοὺς τῶν προημαρτηκότων καὶ μὴ μετανοησάντων ἐπὶ τῇ ἀκαθαρσίᾳ καὶ πορνείᾳ καὶ ἀσελγείᾳ ᾗ ἔπραξαν.¶"
+pericope: "[[2Cor.12.11 Paul’s Concern for the Corinthians|Paul’s Concern for the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 12
+book/chapter: "[[2Cor.12|2 Corinthians 12]]"
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3361]]"
+- "[[G3825]]"
+- "[[G2064]]"
+- "[[G3165]]"
+- "[[G5013]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3996]]"
+- "[[G4183]]"
+- "[[G4258]]"
+- "[[G3340]]"
+- "[[G1909]]"
+- "[[G0167]]"
+- "[[G4202]]"
+- "[[G0766]]"
+- "[[G3739]]"
+- "[[G4238]]"
+texts:
+- NKO
+- N(k)O
+- no
+- NK(o)
+---
+
 **2 Corinthians 12:21**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [And] lest, when I come again, my God will humble me among you, and [that] I shall bewail many which have sinned already, and have not repented of the uncleanness and fornication and lasciviousness which they have committed.
 <small><sub>**BSB:**</sub></small>
 I am afraid that when I come again, my God will humble me before you, and I will be grieved over many who have sinned earlier and have not repented of their acts of impurity, sexual immorality, and debauchery.
-<small><sub>**Literal:**</sub></small>
-lest again when was coming I he may humble me the God, of mine before you, and I may mourn over many of those having sinned before and not having repented of the impurity and of sexual immorality and of sensuality that they have practiced.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.20|<< 2 Corinthians 12:20]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.1|2 Corinthians 13:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G3825\|πάλιν]]  [[G2064\|ἐλθόντος]]  [[G3165\|μου]]  [[G5013\|ταπεινώσῃ]]  [[G3165\|με]]  [[G3588\|ὁ]]  [[G2316\|θεός]]  [[G3165\|μου]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς,]]  [[G2532\|καὶ]]  [[G3996\|πενθήσω]]  [[G4183\|πολλοὺς]]  [[G3588\|τῶν]]  [[G4258\|προημαρτηκότων]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3340\|μετανοησάντων]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G0167\|ἀκαθαρσίᾳ]]  [[G2532\|καὶ]]  [[G4202\|πορνείᾳ]]  [[G2532\|καὶ]]  [[G0766\|ἀσελγείᾳ]]  [[G3739\|ᾗ]]  [[G4238\|ἔπραξαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LOVE|LOVE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.20|<< 2 Corinthians 12:20]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.1|2 Corinthians 13:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

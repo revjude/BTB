@@ -1,8 +1,68 @@
+---
+title: Judges 18:9
+type: Verse
+kjv: "And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it is very good: and are ye still? be not slothful to go, and to enter to possess the land."
+bsb: "They answered, “Come on, let us go up against them, for we have seen the land, and it is very good. Why would you fail to act? Do not hesitate to go there and take possession of the land!"
+hebrew: "וַיֹּאמְר֗וּ ק֚וּמָה וְנַעֲלֶ֣ה עֲלֵיהֶ֔ם כִּ֤י רָאִ֙ינוּ֙ אֶת־ הָאָ֔רֶץ וְהִנֵּ֥ה טוֹבָ֖ה מְאֹ֑ד וְאַתֶּ֣ם מַחְשִׁ֔ים אַל־ תֵּעָ֣צְל֔וּ לָלֶ֥כֶת לָבֹ֖א לָרֶ֥שֶׁת אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2009]]"
+- "[[H2896A]]"
+- "[[H3966]]"
+- "[[H0859D]]"
+- "[[H2814]]"
+- "[[H0408]]"
+- "[[H6101]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:9**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it [is] very good: and [are] ye still? be not slothful to go, [and] to enter to possess the land.
 <small><sub>**BSB:**</sub></small>
 They answered, “Come on, let us go up against them, for we have seen the land, and it is very good. Why would you fail to act? Do not hesitate to go there and take possession of the land!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H6965B\|ק֚וּמָ]][[H9012\|ה]] [[H9002\|וְ]][[H5927G\|נַעֲלֶ֣ה]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H3588A\|כִּ֤י]] [[H7200G\|רָאִ֙ינוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H2896A\|טוֹבָ֖ה]] [[H3966\|מְאֹ֑ד]] [[H9002\|וְ]][[H0859D\|אַתֶּ֣ם]] [[H2814\|מַחְשִׁ֔ים]] [[H0408\|אַל]][[H9014\|־]] [[H6101\|תֵּעָ֣צְל֔וּ]] [[H9005\|לָ]][[H1980G\|לֶ֥כֶת]] [[H9005\|לָ]][[H0935G\|בֹ֖א]] [[H9005\|לָ]][[H3423H\|רֶ֥שֶׁת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JONATHAN|JONATHAN]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.8|<< Judges 18:8]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.10|Judges 18:10 >>]]</td></tr></table>
 

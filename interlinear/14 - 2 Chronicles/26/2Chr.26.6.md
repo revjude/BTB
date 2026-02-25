@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 26:6
+type: Verse
+kjv: "And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines."
+bsb: "Uzziah went out to wage war against the Philistines, and he tore down the walls of Gath, Jabneh, and Ashdod. Then he built cities near Ashdod and among the Philistines."
+hebrew: "וַיֵּצֵא֙ וַיִּלָּ֣חֶם בַּפְּלִשְׁתִּ֔ים וַיִּפְרֹ֞ץ אֶת־ ח֣וֹמַת גַּ֗ת וְאֵת֙ חוֹמַ֣ת יַבְנֵ֔ה וְאֵ֖ת חוֹמַ֣ת אַשְׁדּ֑וֹד וַיִּבְנֶ֣ה עָרִ֔ים בְּאַשְׁדּ֖וֹד וּבַפְּלִשְׁתִּֽים׃"
+pericope: "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASHDOD|ASHDOD]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GATH|GATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JABNEH|JABNEH]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H6430G]]"
+- "[[H6555]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2346G]]"
+- "[[H1661]]"
+- "[[H9002]]"
+- "[[H2996]]"
+- "[[H0795]]"
+- "[[H1129]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 26:6**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines.
 <small><sub>**BSB:**</sub></small>
 Uzziah went out to wage war against the Philistines, and he tore down the walls of Gath, Jabneh, and Ashdod. Then he built cities near Ashdod and among the Philistines.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H9001\|וַ]][[H3898A\|יִּלָּ֣חֶם]] [[H9003\|בַּ]][[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9001\|וַ]][[H6555\|יִּפְרֹ֞ץ]] [[H0853\|אֶת]][[H9014\|־]] [[H2346G\|ח֣וֹמַת]] [[H1661\|גַּ֗ת]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H2346G\|חוֹמַ֣ת]] [[H2996\|יַבְנֵ֔ה]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H2346G\|חוֹמַ֣ת]] [[H0795\|אַשְׁדּ֑וֹד]] [[H9001\|וַ]][[H1129\|יִּבְנֶ֣ה]] [[H5892B\|עָרִ֔ים]] [[H9003\|בְּ]][[H0795\|אַשְׁדּ֖וֹד]] [[H9002\|וּ]][[H9003\|בַ]][[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHDOD|ASHDOD]] • [[topic BLESSING|BLESSING]] • [[topic GATH|GATH]] • [[topic GOD|GOD]] • [[topic JABNEH|JABNEH]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.5|<< 2 Chronicles 26:5]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.7|2 Chronicles 26:7 >>]]</td></tr></table>
 

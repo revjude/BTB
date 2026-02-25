@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 21:19
+type: Verse
+kjv: "And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no burning for him, like the burning of his fathers."
+bsb: "This continued day after day until two full years had passed. Finally, his intestines came out because of his disease, and he died in severe pain. And his people did not make a fire in his honor as they had done for his fathers."
+hebrew: "וַיְהִ֣י לְיָמִ֣ים׀ מִיָּמִ֡ים וּכְעֵת֩ צֵ֨את הַקֵּ֜ץ לְיָמִ֣ים שְׁנַ֗יִם יָצְא֤וּ מֵעָיו֙ עִם־ חָלְי֔וֹ וַיָּ֖מָת בְּתַחֲלֻאִ֣ים רָעִ֑ים וְלֹא־ עָ֨שׂוּ ל֥וֹ עַמּ֛וֹ שְׂרֵפָ֖ה כִּשְׂרֵפַ֥ת אֲבֹתָֽיו׃"
+pericope: "[[2Chr.21.16 Jehoram’s Disease and Death|Jehoram’s Disease and Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic JEHORAM|JEHORAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H3318I]]"
+- "[[H9009]]"
+- "[[H7093]]"
+- "[[H3117I]]"
+- "[[H8147]]"
+- "[[H3318G]]"
+- "[[H4578]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H2483]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H8463]]"
+- "[[H7451A]]"
+- "[[H3808]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H5971A]]"
+- "[[H8316]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 21:19**<big><big>[[2Chr.21.16 Jehoram’s Disease and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no burning for him, like the burning of his fathers.
 <small><sub>**BSB:**</sub></small>
 This continued day after day until two full years had passed. Finally, his intestines came out because of his disease, and he died in severe pain. And his people did not make a fire in his honor as they had done for his fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9005\|לְ]][[H3117G\|יָמִ֣ים]][[H9015\|׀]] [[H9006\|מִ]][[H3117G\|יָּמִ֡ים]] [[H9002\|וּ]][[H9004\|כְ]][[H6256\|עֵת֩]] [[H3318I\|צֵ֨את]] [[H9009\|הַ]][[H7093\|קֵּ֜ץ]] [[H9005\|לְ]][[H3117I\|יָמִ֣ים]] [[H8147\|שְׁנַ֗יִם]] [[H3318G\|יָצְא֤וּ]] [[H4578\|מֵעָי]][[H9023\|ו֙]] [[H5973A\|עִם]][[H9014\|־]] [[H2483\|חָלְי֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H4191\|יָּ֖מָת]] [[H9003\|בְּ]][[H8463\|תַחֲלֻאִ֣ים]] [[H7451A\|רָעִ֑ים]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6213H\|עָ֨שׂוּ]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H5971A\|עַמּ֛]][[H9023\|וֹ]] [[H8316\|שְׂרֵפָ֖ה]] [[H9004\|כִּ]][[H8316\|שְׂרֵפַ֥ת]] [[H0001G\|אֲבֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BOWELS|BOWELS]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DISEASE|DISEASE]] • [[topic JEHORAM|JEHORAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.18|<< 2 Chronicles 21:18]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.20|2 Chronicles 21:20 >>]]</td></tr></table>
 

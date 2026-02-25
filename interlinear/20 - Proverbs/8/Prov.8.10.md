@@ -1,8 +1,55 @@
+---
+title: Proverbs 8:10
+type: Verse
+kjv: "Receive my instruction, and not silver; and knowledge rather than choice gold."
+bsb: "Receive my instruction instead of silver, and knowledge rather than pure gold."
+hebrew: "קְחֽוּ־ מוּסָרִ֥י וְאַל־ כָּ֑סֶף וְ֝דַ֗עַת מֵחָר֥וּץ נִבְחָֽר׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H4148H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H3701G]]"
+- "[[H1847]]"
+- "[[H9006]]"
+- "[[H2742D]]"
+- "[[H0977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:10**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Receive my instruction, and not silver; and knowledge rather than choice gold.
 <small><sub>**BSB:**</sub></small>
 Receive my instruction instead of silver, and knowledge rather than pure gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H3947G\|קְחֽוּ]][[H9014\|־]] [[H4148H\|מוּסָרִ֥]][[H9020\|י]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H3701G\|כָּ֑סֶף]] [[H9002\|וְ֝]][[H1847\|דַ֗עַת]] [[H9006\|מֵ]][[H2742D\|חָר֥וּץ]] [[H0977\|נִבְחָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.9|<< Proverbs 8:9]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.11|Proverbs 8:11 >>]]</td></tr></table>
 

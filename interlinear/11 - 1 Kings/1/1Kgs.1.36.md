@@ -1,8 +1,67 @@
+---
+title: 1 Kings 1:36
+type: Verse
+kjv: "And Benaiah the son of Jehoiada answered the king, and said, Amen: the LORD God of my lord the king say so too."
+bsb: "“Amen,” replied Benaiah son of Jehoiada. “May the LORD, the God of my lord the king, so declare it."
+hebrew: "וַיַּ֨עַן בְּנָיָ֧הוּ בֶן־ יְהֽוֹיָדָ֛ע אֶת־ הַמֶּ֖לֶךְ וַיֹּ֣אמֶר׀ אָמֵ֑ן כֵּ֚ן יֹאמַ֣ר יְהוָ֔ה אֱלֹהֵ֖י אֲדֹנִ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.1.32 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H1141G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3077G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0543]]"
+- "[[H3651C]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:36**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Benaiah the son of Jehoiada answered the king, and said, Amen: the LORD God of my lord the king say so [too].
 <small><sub>**BSB:**</sub></small>
 “Amen,” replied Benaiah son of Jehoiada. “May the LORD, the God of my lord the king, so declare it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H1141G\|בְּנָיָ֧הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3077G\|יְהֽוֹיָדָ֛ע]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]][[H9015\|׀]] [[H0543\|אָמֵ֑ן]] [[H3651C\|כֵּ֚ן]] [[H0559\|יֹאמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0430G\|אֱלֹהֵ֖י]] [[H0113\|אֲדֹנִ֥]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic ISRAEL|ISRAEL]] • [[topic NATHAN|NATHAN]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]] • [[topic THRONE|THRONE]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.35|<< 1 Kings 1:35]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.37|1 Kings 1:37 >>]]</td></tr></table>
 

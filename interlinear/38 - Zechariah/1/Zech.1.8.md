@@ -1,8 +1,69 @@
+---
+title: Zechariah 1:8
+type: Verse
+kjv: "I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white."
+bsb: "I looked out into the night and saw a man riding on a red horse. He was standing among the myrtle trees in the hollow, and behind him were red, sorrel, and white horses."
+hebrew: "רָאִ֣יתִי׀ הַלַּ֗יְלָה וְהִנֵּה־ אִישׁ֙ רֹכֵב֙ עַל־ ס֣וּס אָדֹ֔ם וְה֣וּא עֹמֵ֔ד בֵּ֥ין הַהֲדַסִּ֖ים אֲשֶׁ֣ר בַּמְּצֻלָ֑ה וְאַחֲרָיו֙ סוּסִ֣ים אֲדֻמִּ֔ים שְׂרֻקִּ֖ים וּלְבָנִֽים׃"
+pericope: "[[Zech.1.7 The Vision of the Horses|The Vision of the Horses]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 1
+book/chapter: "[[Zech.1|Zechariah 1]]"
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic HORSE|HORSE]]"
+- "[[topic MYRTLE|MYRTLE]]"
+- "[[topic SORREL|SORREL]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H7200L]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H5483M]]"
+- "[[H0122A]]"
+- "[[H1931]]"
+- "[[H5975G]]"
+- "[[H0996G]]"
+- "[[H1918]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4699]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H8320]]"
+- "[[H3836]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 1:8**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that [were] in the bottom; and behind him [were there] red horses, speckled, and white.
 <small><sub>**BSB:**</sub></small>
 I looked out into the night and saw a man riding on a red horse. He was standing among the myrtle trees in the hollow, and behind him were red, sorrel, and white horses.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200L\|רָאִ֣יתִי]][[H9015\|׀]] [[H9009\|הַ]][[H3915\|לַּ֗יְלָה]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H0376G\|אִישׁ֙]] [[H7392\|רֹכֵב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5483M\|ס֣וּס]] [[H0122A\|אָדֹ֔ם]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H5975G\|עֹמֵ֔ד]] [[H0996G\|בֵּ֥ין]] [[H9009\|הַ]][[H1918\|הֲדַסִּ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H4699\|מְּצֻלָ֑ה]] [[H9002\|וְ]][[H0310A\|אַחֲרָי]][[H9033\|ו֙]] [[H5483M\|סוּסִ֣ים]] [[H0122A\|אֲדֻמִּ֔ים]] [[H8320\|שְׂרֻקִּ֖ים]] [[H9002\|וּ]][[H3836\|לְבָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORSE|HORSE]] • [[topic MYRTLE|MYRTLE]] • [[topic SORREL|SORREL]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.7|<< Zechariah 1:7]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.9|Zechariah 1:9 >>]]</td></tr></table>
 

@@ -1,6 +1,64 @@
+---
+title: LXX 1 Kings 6:8
+type: Verse
+lxx: "And the vestibule of the side of the one from beneath was by the protrusion of the house on the right side, and there was a winding ascent into the middle, and from the middle unto the third story."
+greek: "και ο πυλών της πλευράς της υποκάτωθεν υπό την ωμίαν του οίκου την δεξιάν και ελικτή ανάβασις εις το μέσον και εκ της μέσης επί τα τριώροφα"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4440]]"
+- "[[G3588]]"
+- "[[G4125]]"
+- "[[G3588]]"
+- "[[G9575]]"
+- "[[G5259]]"
+- "[[G3588]]"
+- "[[G9810]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G1188]]"
+- "[[G2532]]"
+- "[[G7182]]"
+- "[[G6273]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3319]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3319]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G9500]]"
+---
+
 **LXX 1 Kings 6:8** 
 <small><sub>**LXX:**</sub></small>
 And the vestibule of the side of the one from beneath \[was\] by the protrusion of the house on the right \[side\], and \[there was\] a winding ascent into the middle, and from the middle unto the third story. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|ο]] [[G4440\|πυλών]] [[G3588\|της]] [[G4125\|πλευράς]] [[G3588\|της]] [[G9575\|υποκάτωθεν]] [[G5259\|υπό]] [[G3588\|την]] [[G9810\|ωμίαν]] [[G3588\|του]] [[G3624\|οίκου]] [[G3588\|την]] [[G1188\|δεξιάν]] [[G2532\|και]] [[G7182\|ελικτή]] [[G6273\|ανάβασις]] [[G1519\|εις]] [[G3588\|το]] [[G3319\|μέσον]] [[G2532\|και]] [[G1537\|εκ]] [[G3588\|της]] [[G3319\|μέσης]] [[G1909\|επί]] [[G3588\|τα]] [[G9500\|τριώροφα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.7|<< 1 Kings 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.9|1 Kings 6:9 >>]]</td></tr></table>
 
@@ -33,6 +91,6 @@ And the vestibule of the side of the one from beneath \[was\] by the protrusion 
 | unto | **<big>[[G1909\|επί]]</big>** |
 | the | **<big>[[G3588\|τα]]</big>** |
 | third story. | **<big>[[G9500\|τριώροφα]]</big>** |
-[[1Kgs.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.7|<< 1 Kings 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.9|1 Kings 6:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.7|<< 1 Kings 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.6.9|1 Kings 6:9 >>]]</td></tr></table>
 
 

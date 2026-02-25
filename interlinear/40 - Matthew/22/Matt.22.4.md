@@ -1,10 +1,69 @@
+---
+title: Matthew 22:4
+type: Verse
+kjv: "Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come unto the marriage."
+bsb: "Again, he sent other servants and said, ‘Tell those who have been invited that I have prepared my dinner. My oxen and fattened cattle have been killed, and everything is ready. Come to the wedding banquet.’"
+jesus_said: "Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and my fatlings are killed, and all things are ready: come unto the marriage."
+greek: "πάλιν ἀπέστειλεν ἄλλους δούλους λέγων· εἴπατε τοῖς κεκλημένοις· ἰδοὺ τὸ ἄριστόν μου ἡτοίμακα, οἱ ταῦροί μου καὶ τὰ σιτιστὰ τεθυμένα, καὶ πάντα ἕτοιμα· δεῦτε εἰς τοὺς γάμους."
+pericope: "[[Matt.22.1 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3825]]"
+- "[[G0649]]"
+- "[[G0243]]"
+- "[[G1401]]"
+- "[[G3004G]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2564G]]"
+- "[[G2400]]"
+- "[[G0712]]"
+- "[[G3165]]"
+- "[[G2090]]"
+- "[[G5022]]"
+- "[[G2532]]"
+- "[[G4619]]"
+- "[[G2380]]"
+- "[[G3956]]"
+- "[[G2092]]"
+- "[[G1205]]"
+- "[[G1519]]"
+- "[[G1062]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 22:4**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Again, he sent forth other servants, saying, Tell them which are bidden, Behold, I have prepared my dinner: my oxen and [my] fatlings [are] killed, and all things [are] ready: come unto the marriage.
 <small><sub>**BSB:**</sub></small>
 Again, he sent other servants and said, ‘Tell those who have been invited that I have prepared my dinner. My oxen and fattened cattle have been killed, and everything is ready. Come to the wedding banquet.’
-<small><sub>**Literal:**</sub></small>
-Again he sent other servants saying; do say to those invited; Behold the dinner of mine I have prepared, the oxen of Mine and the fatlings killed, and all things [are] ready; come to the wedding feast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.3|<< Matthew 22:3]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.5|Matthew 22:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|πάλιν]]  [[G0649\|ἀπέστειλεν]]  [[G0243\|ἄλλους]]  [[G1401\|δούλους]]  [[G3004G\|λέγων·]]  [[G2036\|εἴπατε]]  [[G3588\|τοῖς]]  [[G2564G\|κεκλημένοις·]]  [[G2400\|ἰδοὺ]]  [[G3588\|τὸ]]  [[G0712\|ἄριστόν]]  [[G3165\|μου]]  [[G2090\|ἡτοίμακα,]]  [[G3588\|οἱ]]  [[G5022\|ταῦροί]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4619\|σιτιστὰ]]  [[G2380\|τεθυμένα,]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G2092\|ἕτοιμα·]]  [[G1205\|δεῦτε]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G1062\|γάμους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.3|<< Matthew 22:3]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.5|Matthew 22:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

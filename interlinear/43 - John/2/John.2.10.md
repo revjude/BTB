@@ -1,10 +1,65 @@
+---
+title: John 2:10
+type: Verse
+kjv: "And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now."
+bsb: "and said, “Everyone serves the fine wine first, and then the cheap wine after the guests are drunk. But you have saved the fine wine until now!”"
+greek: "καὶ λέγει αὐτῷ· πᾶς ἄνθρωπος πρῶτον τὸν καλὸν οἶνον τίθησιν, καὶ ὅταν μεθυσθῶσιν τότε, τὸν ἐλάσσω· σὺ τετήρηκας τὸν καλὸν οἶνον ἕως ἄρτι."
+pericope: "[[John.2.1 The Wedding at Cana|The Wedding at Cana]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CANA|CANA]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WATER|WATER]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G0444]]"
+- "[[G4413G]]"
+- "[[G3588]]"
+- "[[G2570G]]"
+- "[[G3631]]"
+- "[[G5087]]"
+- "[[G3752]]"
+- "[[G3184]]"
+- "[[G5119]]"
+- "[[G1640]]"
+- "[[G4771]]"
+- "[[G5083I]]"
+- "[[G2193]]"
+- "[[G0737]]"
+texts:
+- NKO
+- ko
+---
+
 **John 2:10**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: [but] thou hast kept the good wine until now.
 <small><sub>**BSB:**</sub></small>
 and said, “Everyone serves the fine wine first, and then the cheap wine after the guests are drunk. But you have saved the fine wine until now!”
-<small><sub>**Literal:**</sub></small>
-and says to him; Every man first the good wine sets out, and when they may have drunk freely then the inferior; you yourself have kept the good wine until now.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.9|<< John 2:9]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.11|John 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G3956\|πᾶς]]  [[G0444\|ἄνθρωπος]]  [[G4413G\|πρῶτον]]  [[G3588\|τὸν]]  [[G2570G\|καλὸν]]  [[G3631\|οἶνον]]  [[G5087\|τίθησιν,]]  [[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G3184\|μεθυσθῶσιν]]  [[G5119\|τότε,]]  [[G3588\|τὸν]]  [[G1640\|ἐλάσσω·]]  [[G4771\|σὺ]]  [[G5083I\|τετήρηκας]]  [[G3588\|τὸν]]  [[G2570G\|καλὸν]]  [[G3631\|οἶνον]]  [[G2193\|ἕως]]  [[G0737\|ἄρτι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANA|CANA]] • [[topic FOOD|FOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WATER|WATER]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.9|<< John 2:9]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.11|John 2:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

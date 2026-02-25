@@ -1,8 +1,71 @@
+---
+title: Jeremiah 29:25
+type: Verse
+kjv: "Thus speaketh the LORD of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that are at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,"
+bsb: "this is what the LORD of Hosts, the God of Israel, says: “In your own name you have sent out letters to all the people of Jerusalem, to the priest Zephaniah son of Maaseiah, and to all the priests. You said to Zephaniah:"
+hebrew: "כֹּֽה־ אָמַ֞ר יְהוָ֧ה צְבָא֛וֹת אֱלֹהֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר יַ֡עַן אֲשֶׁ֣ר אַתָּה֩ שָׁלַ֨חְתָּ בְשִׁמְכָ֜ה סְפָרִ֗ים אֶל־ כָּל־ הָעָם֙ אֲשֶׁ֣ר בִּירוּשָׁלִַ֔ם וְאֶל־ צְפַנְיָ֤ה בֶן־ מַֽעֲשֵׂיָה֙ הַכֹּהֵ֔ן וְאֶ֥ל כָּל־ הַכֹּהֲנִ֖ים לֵאמֹֽר׃"
+pericope: "[[Jer.29.24 The Message to Shemaiah|The Message to Shemaiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5612A]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H6846G]]"
+- "[[H1121A]]"
+- "[[H4641X]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:25**<big><big>[[Jer.29.24 The Message to Shemaiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus speaketh the LORD of hosts, the God of Israel, saying, Because thou hast sent letters in thy name unto all the people that [are] at Jerusalem, and to Zephaniah the son of Maaseiah the priest, and to all the priests, saying,
 <small><sub>**BSB:**</sub></small>
 this is what the LORD of Hosts, the God of Israel, says: “In your own name you have sent out letters to all the people of Jerusalem, to the priest Zephaniah son of Maaseiah, and to all the priests. You said to Zephaniah:
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֧ה]] [[H6635B\|צְבָא֛וֹת]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3282\|יַ֡עַן]] [[H0834A\|אֲשֶׁ֣ר]] [[H0859A\|אַתָּה֩]] [[H7971G\|שָׁלַ֨חְתָּ]] [[H9003\|בְ]][[H8034\|שִׁמְ]][[H9021\|כָ֜ה]] [[H5612A\|סְפָרִ֗ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִַ֔ם]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H6846G\|צְפַנְיָ֤ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H4641X\|מַֽעֲשֵׂיָה֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H0413\|אֶ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAASEIAH|MAASEIAH]] • [[topic SHEMAIAH|SHEMAIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.24|<< Jeremiah 29:24]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.26|Jeremiah 29:26 >>]]</td></tr></table>
 

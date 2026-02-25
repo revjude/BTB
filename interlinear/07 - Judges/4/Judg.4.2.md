@@ -1,8 +1,68 @@
+---
+title: Judges 4:2
+type: Verse
+kjv: "And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles."
+bsb: "So the LORD sold them into the hand of Jabin king of Canaan, who reigned in Hazor. The commander of his forces was Sisera, who lived in Harosheth-hagoyim."
+hebrew: "וַיִּמְכְּרֵ֣ם יְהוָ֗ה בְּיַד֙ יָבִ֣ין מֶֽלֶךְ־ כְּנַ֔עַן אֲשֶׁ֥ר מָלַ֖ךְ בְּחָצ֑וֹר וְשַׂר־ צְבָאוֹ֙ סִֽיסְרָ֔א וְה֥וּא יוֹשֵׁ֖ב בַּחֲרֹ֥שֶׁת הַגּוֹיִֽם׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic HAROSHETH|HAROSHETH]]"
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JABIN|JABIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H4376]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H2985H]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3667A]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H2674G]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H9023]]"
+- "[[H5516G]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H2800]]"
+- "[[H1471H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:2**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host [was] Sisera, which dwelt in Harosheth of the Gentiles.
 <small><sub>**BSB:**</sub></small>
 So the LORD sold them into the hand of Jabin king of Canaan, who reigned in Hazor. The commander of his forces was Sisera, who lived in Harosheth-hagoyim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4376\|יִּמְכְּרֵ֣]][[H9038\|ם]] [[H3068G\|יְהוָ֗ה]] [[H9003\|בְּ]][[H3027H\|יַד֙]] [[H2985H\|יָבִ֣ין]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3667A\|כְּנַ֔עַן]] [[H0834A\|אֲשֶׁ֥ר]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בְּ]][[H2674G\|חָצ֑וֹר]] [[H9002\|וְ]][[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָא]][[H9023\|וֹ֙]] [[H5516G\|סִֽיסְרָ֔א]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H3427\|יוֹשֵׁ֖ב]] [[H9003\|בַּ]][[H2800\|חֲרֹ֥שֶׁת]] [[H1471H\|הַגּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic CAPTAIN|CAPTAIN]] • [[topic HAROSHETH|HAROSHETH]] • [[topic HAZOR|HAZOR]] • [[topic ISRAEL|ISRAEL]] • [[topic JABIN|JABIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.1|<< Judges 4:1]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.3|Judges 4:3 >>]]</td></tr></table>
 

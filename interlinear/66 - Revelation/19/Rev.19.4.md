@@ -1,10 +1,63 @@
+---
+title: Revelation 19:4
+type: Verse
+kjv: "And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia."
+bsb: "And the twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne, saying: “Amen, Hallelujah!”"
+greek: "καὶ ἔπεσαν οἱ πρεσβύτεροι οἱ εἴκοσι καὶ τέσσαρες καὶ τὰ τέσσαρα ζῷα, καὶ προσεκύνησαν τῷ θεῷ τῷ καθημένῳ ἐπὶ τῷ θρόνῳ λέγοντες· ἀμὴν ἁλληλουϊά.¶"
+pericope: "[[Rev.19.1 Rejoicing in Heaven|Rejoicing in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4098]]"
+- "[[G3588]]"
+- "[[G4245G]]"
+- "[[G1501]]"
+- "[[G5064]]"
+- "[[G2226]]"
+- "[[G4352]]"
+- "[[G2316]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G2362]]"
+- "[[G3004G]]"
+- "[[G0281]]"
+- "[[G0239]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Revelation 19:4**<big><big>[[Rev.19.1 Rejoicing in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.
 <small><sub>**BSB:**</sub></small>
 And the twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne, saying: “Amen, Hallelujah!”
-<small><sub>**Literal:**</sub></small>
-And fell down the elders <the> twenty and four and the four living creatures, and they worshiped <the> God who is sitting on the throne saying: Amen Hallelujah!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.3|<< Revelation 19:3]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.5|Revelation 19:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4098\|ἔπεσαν]]  [[G3588\|οἱ]]  [[G4245G\|πρεσβύτεροι]]  [[G3588\|οἱ]]  [[G1501\|εἴκοσι]]  [[G2532\|καὶ]]  [[G5064\|τέσσαρες]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G5064\|τέσσαρα]]  [[G2226\|ζῷα,]]  [[G2532\|καὶ]]  [[G4352\|προσεκύνησαν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3588\|τῷ]]  [[G2521\|καθημένῳ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G2362\|θρόνῳ]]  [[G3004G\|λέγοντες·]]  [[G0281\|ἀμὴν]]  [[G0239\|ἁλληλουϊά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic ANIMALS|ANIMALS]] • [[topic ELDER|ELDER]] • [[topic PRAISE|PRAISE]] • [[topic THRONE|THRONE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.3|<< Revelation 19:3]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.5|Revelation 19:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,63 @@
+---
+title: Galatians 3:16
+type: Verse
+kjv: "Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ."
+bsb: "The promises were spoken to Abraham and to his seed. The Scripture does not say, “and to seeds,” meaning many, but “and to your seed,” meaning One, who is Christ."
+greek: "τῷ δὲ Ἀβραὰμ ἐρρέθησαν αἱ ἐπαγγελίαι καὶ τῷ σπέρματι αὐτοῦ. οὐ λέγει· καὶ τοῖς σπέρμασιν ὡς ἐπὶ πολλῶν ἀλλ᾽ ὡς ἐφ᾽ ἑνός· καὶ τῷ σπέρματί σου ὅς ἐστιν Χριστός."
+pericope: "[[Gal.3.15 The Purpose of the Law|The Purpose of the Law]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0011]]"
+- "[[G2046]]"
+- "[[G1860]]"
+- "[[G2532]]"
+- "[[G4690G]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G3004G]]"
+- "[[G5613]]"
+- "[[G1909]]"
+- "[[G4183]]"
+- "[[G0235]]"
+- "[[G1520]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Galatians 3:16**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ.
 <small><sub>**BSB:**</sub></small>
 The promises were spoken to Abraham and to his seed. The Scripture does not say, “and to seeds,” meaning many, but “and to your seed,” meaning One, who is Christ.
-<small><sub>**Literal:**</sub></small>
-<the> And to Abraham were spoken the promises and to the seed of him. Not it does say; and <the> to seeds as of many but as of One; and to the seed of you who is Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.15|<< Galatians 3:15]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.17|Galatians 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῷ]]  [[G1161\|δὲ]]  [[G0011\|Ἀβραὰμ]]  [[G2046\|ἐρρέθησαν]]  [[G3588\|αἱ]]  [[G1860\|ἐπαγγελίαι]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G4690G\|σπέρματι]]  [[G0846\|αὐτοῦ.]]  [[G3756\|οὐ]]  [[G3004G\|λέγει·]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4690G\|σπέρμασιν]]  [[G5613\|ὡς]]  [[G1909\|ἐπὶ]]  [[G4183\|πολλῶν]]  [[G0235\|ἀλλ᾽]]  [[G5613\|ὡς]]  [[G1909\|ἐφ᾽]]  [[G1520\|ἑνός·]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G4690G\|σπέρματί]]  [[G4771\|σου]]  [[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G5547\|Χριστός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.15|<< Galatians 3:15]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.17|Galatians 3:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Galatians 3:16** is...
 > $\quad$ referencing: [[LXX.Gen.12.7|Gen 12:7]] ☩ [[LXX.Gen.13.15|Gen 13:15]] ☩ [[LXX.Gen.22.18|Gen 22:18]]

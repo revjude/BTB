@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 7:15
+type: Verse
+kjv: "And the LORD will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all them that hate thee."
+bsb: "And the LORD will remove from you all sickness. He will not lay upon you any of the terrible diseases you knew in Egypt, but He will inflict them on all who hate you."
+hebrew: "וְהֵסִ֧יר יְהוָ֛ה מִמְּךָ֖ כָּל־ חֹ֑לִי וְכָל־ מַדְוֵי֩ מִצְרַ֨יִם הָרָעִ֜ים אֲשֶׁ֣ר יָדַ֗עְתָּ לֹ֤א יְשִׂימָם֙ בָּ֔ךְ וּנְתָנָ֖ם בְּכָל־ שֹׂנְאֶֽיךָ׃"
+pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H3068G]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2483]]"
+- "[[H9002]]"
+- "[[H4064]]"
+- "[[H4714G]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H0834A]]"
+- "[[H3045]]"
+- "[[H3808]]"
+- "[[H7760H]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H5414H]]"
+- "[[H8130]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:15**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD will take away from thee all sickness, and will put none of the evil diseases of Egypt, which thou knowest, upon thee; but will lay them upon all [them] that hate thee.
 <small><sub>**BSB:**</sub></small>
 And the LORD will remove from you all sickness. He will not lay upon you any of the terrible diseases you knew in Egypt, but He will inflict them on all who hate you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5493G\|הֵסִ֧יר]] [[H3068G\|יְהוָ֛ה]] [[H4480A\|מִמְּ]][[H9031\|ךָ֖]] [[H3605\|כָּל]][[H9014\|־]] [[H2483\|חֹ֑לִי]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4064\|מַדְוֵי֩]] [[H4714G\|מִצְרַ֨יִם]] [[H9009\|הָ]][[H7451H\|רָעִ֜ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H3045\|יָדַ֗עְתָּ]] [[H3808\|לֹ֤א]] [[H7760H\|יְשִׂימָ]][[H9038\|ם֙]] [[H9003\|בָּ֔]][[H9031\|ךְ]] [[H9001\|וּ]][[H5414H\|נְתָנָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H8130\|שֹׂנְאֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DISEASE|DISEASE]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.14|<< Deuteronomy 7:14]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.16|Deuteronomy 7:16 >>]]</td></tr></table>
 

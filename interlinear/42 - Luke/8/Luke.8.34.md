@@ -1,10 +1,56 @@
+---
+title: Luke 8:34
+type: Verse
+kjv: "When they that fed them saw what was done, they fled, and went and told it in the city and in the country."
+bsb: "When those tending the pigs saw what had happened, they ran off and reported this in the town and countryside."
+greek: "Ἰδόντες δὲ οἱ βόσκοντες τὸ γεγονὸς ἔφυγον καὶ ἀπελθόντες ἀπήγγειλαν εἰς τὴν πόλιν καὶ εἰς τοὺς ἀγρούς."
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1006]]"
+- "[[G1096]]"
+- "[[G5343]]"
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G0518]]"
+- "[[G1519]]"
+- "[[G4172]]"
+- "[[G0068G]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Luke 8:34**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When they that fed [them] saw what was done, they fled, and went and told [it] in the city and in the country.
 <small><sub>**BSB:**</sub></small>
 When those tending the pigs saw what had happened, they ran off and reported this in the town and countryside.
-<small><sub>**Literal:**</sub></small>
-Having seen then those feeding [them] what already happening they fled and having gone they reported [it] to the city and to the country.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.33|<< Luke 8:33]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.35|Luke 8:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|Ἰδόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G1006\|βόσκοντες]]  [[G3588\|τὸ]]  [[G1096\|γεγονὸς]]  [[G5343\|ἔφυγον]]  [[G2532\|καὶ]]  [[G0565\|ἀπελθόντες]]  [[G0518\|ἀπήγγειλαν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0068G\|ἀγρούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.33|<< Luke 8:33]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.35|Luke 8:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

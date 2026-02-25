@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Tattenai’s Letter to Darius
+type: Pericope
 pericope: "[[Ezra.5.6 Tattenai’s Letter to Darius|Tattenai’s Letter to Darius]]"
-verse_count: 12
+original_language: Aramaic
 testament: Old
 book: Ezra
 chapter: 5
 book/chapter: "[[Ezra.5|Ezra 5]]"
-genre:
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 12
 verses:
 - "[[Ezra.5.6]]"
 - "[[Ezra.5.7]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezra.5.17]]"
 ---
 
-[[Ezra.5|Ezra 5:6 - Ezra 5:17]]
+<small>[[Ezra.5|Ezra 5:6-17]]</small>
 *Tattenai’s Letter to Darius*
 
 [[Ezra.5.6|6]] The copy of the letter that Tatnai, governor on this side the river, and Shetharboznai, and his companions the Apharsachites, which \[were\] on this side the river, sent unto Darius the king:

@@ -1,8 +1,51 @@
+---
+title: Psalm 18:26
+type: Verse
+kjv: "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward."
+bsb: "to the pure You show Yourself pure, but to the crooked You show Yourself shrewd."
+hebrew: "עִם־ נָבָ֥ר תִּתְבָּרָ֑ר וְעִם־ עִ֝קֵּ֗שׁ תִּתְפַּתָּֽל׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1305]]"
+- "[[H9002]]"
+- "[[H6141]]"
+- "[[H6617]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:26**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself froward.
 <small><sub>**BSB:**</sub></small>
 to the pure You show Yourself pure, but to the crooked You show Yourself shrewd.
+<small><sub>**Hebrew:**</sub></small>
+[[H5973A\|עִם]][[H9014\|־]] [[H1305\|נָבָ֥ר]] [[H1305\|תִּתְבָּרָ֑ר]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H6141\|עִ֝קֵּ֗שׁ]] [[H6617\|תִּתְפַּתָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.25|<< Psalms 18:25]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.27|Psalms 18:27 >>]]</td></tr></table>
 

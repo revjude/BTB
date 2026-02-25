@@ -25,11 +25,11 @@
 
 - By Paul, in circumcising Timothy [[Acts.16.3|Ac 16:3]]
 
-- James and the Christian elders, who required Paul to observe certain rites [[Acts.21.18|Ac 21:18]]-[[Acts.21.26|26]]
+- James and the Christian elders, who required Paul to observe certain rites [[Acts.21.18|Ac 21:18-26]]
 
 - Disciples, who urged circumcision [[Gal.6.12|Ga 6:12]]
 
-- Peter and Barnabas with others [[Gal.2.11|Ga 2:11]]-[[Gal.2.14|14]]
+- Peter and Barnabas with others [[Gal.2.11|Ga 2:11-14]]
 
 - See [[topic PRUDENCE|PRUDENCE]]
 
@@ -39,9 +39,9 @@
 
 - Of Peter [[Acts.12.3|Ac 12:3]]
 
-- By Peter, concerning Jesus [[Matt.26.69|Mt 26:69]]-[[Matt.26.75|75]]
+- By Peter, concerning Jesus [[Matt.26.69|Mt 26:69-75]]
 
-- By Pilate [[Matt.27.23|Mt 27:23]]-[[Matt.27.27|27]]; [[Mark.15.15|Mr 15:15]]; [[Luke.23.13|Lu 23:13]]-[[Luke.23.25|25]]; [[John.18.38|Joh 18:38]],[[John.18.39|39]]; [[John.19.4|19:4]]-[[John.19.14|14]]
+- By Pilate [[Matt.27.23|Mt 27:23-27]]; [[Mark.15.15|Mr 15:15]]; [[Luke.23.13|Lu 23:13-25]]; [[John.18.38|Joh 18:38]],[[John.18.39|39]]; [[John.19.4|19:4-14]]
 
 - By Felix and Festus, concerning Paul [[Acts.24.27|Ac 24:27]]; [[Acts.25.9|25:9]]
 

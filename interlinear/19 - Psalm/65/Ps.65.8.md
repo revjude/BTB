@@ -1,8 +1,59 @@
+---
+title: Psalm 65:8
+type: Verse
+kjv: "They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice."
+bsb: "Those who live far away fear Your wonders; You make the dawn and sunset shout for joy."
+hebrew: "וַיִּ֤ירְא֨וּ׀ יֹשְׁבֵ֣י קְ֭צָוֹת מֵאוֹתֹתֶ֑יךָ מ֤וֹצָֽאֵי־ בֹ֖קֶר וָעֶ֣רֶב תַּרְנִֽין׃"
+pericope: "[[Ps.65.1 Praise Awaits God in Zion|Praise Awaits God in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 65
+book/chapter: "[[Ps.65|Psalm 65]]"
+chronological_order: 375
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H9001]]"
+- "[[H3372H]]"
+- "[[H9015]]"
+- "[[H3427]]"
+- "[[H7117]]"
+- "[[H9006]]"
+- "[[H0226G]]"
+- "[[H9021]]"
+- "[[H4161]]"
+- "[[H9014]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H6153]]"
+- "[[H7442B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 65:8**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They also that dwell in the uttermost parts are afraid at thy tokens: thou makest the outgoings of the morning and evening to rejoice.
 <small><sub>**BSB:**</sub></small>
 Those who live far away fear Your wonders; You make the dawn and sunset shout for joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3372H\|יִּ֤ירְא֨וּ]][[H9015\|׀]] [[H3427\|יֹשְׁבֵ֣י]] [[H7117\|קְ֭צָוֹת]] [[H9006\|מֵ]][[H0226G\|אוֹתֹתֶ֑י]][[H9021\|ךָ]] [[H4161\|מ֤וֹצָֽאֵי]][[H9014\|־]] [[H1242\|בֹ֖קֶר]] [[H9002\|וָ]][[H6153\|עֶ֣רֶב]] [[H7442B\|תַּרְנִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.7|<< Psalms 65:7]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.9|Psalms 65:9 >>]]</td></tr></table>
 

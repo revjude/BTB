@@ -1,8 +1,79 @@
+---
+title: Daniel 7:7
+type: Verse
+kjv: "After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it was diverse from all the beasts that were before it; and it had ten horns."
+bsb: "After this, as I watched in my vision in the night, suddenly a fourth beast appeared, and it was terrifying—dreadful and extremely strong—with large iron teeth. It devoured and crushed; then it trampled underfoot whatever was left. It was different from all the beasts before it, and it had ten horns."
+aramaic: "בָּאתַ֣ר דְּנָה֩ חָזֵ֨ה הֲוֵ֜ית בְּחֶזְוֵ֣י לֵֽילְיָ֗א וַאֲר֣וּ חֵיוָ֣ה רְֽבִיעָאָ֡ה דְּחִילָה֩ וְאֵֽימְתָנִ֨י וְתַקִּיפָ֜א יַתִּ֗ירָא וְשִׁנַּ֨יִן דִּֽי־ פַרְזֶ֥ל לַהּ֙ רַבְרְבָ֔ן אָֽכְלָ֣ה וּמַדֱּקָ֔ה וּשְׁאָרָ֖א בְּרַגְלַ֣הּ רָפְסָ֑ה וְהִ֣יא מְשַׁנְּיָ֗ה מִן־ כָּל־ חֵֽיוָתָא֙ דִּ֣י קָֽדָמַ֔יהּ וְקַרְנַ֥יִן עֲשַׂ֖ר לַֽהּ׃"
+pericope: "[[Dan.7.1 Daniel’s Vision of the Four Beasts|Daniel’s Vision of the Four Beasts]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+strongs:
+- "[[H0870]]"
+- "[[H1836]]"
+- "[[H2370]]"
+- "[[H1934]]"
+- "[[H9003]]"
+- "[[H2376]]"
+- "[[H3916]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H0718]]"
+- "[[H2423]]"
+- "[[H7244]]"
+- "[[H1763]]"
+- "[[H0574]]"
+- "[[H8624]]"
+- "[[H3493]]"
+- "[[H8128]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H6523]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H7260]]"
+- "[[H0399]]"
+- "[[H1855]]"
+- "[[H7606]]"
+- "[[H7271]]"
+- "[[H9024]]"
+- "[[H7512]]"
+- "[[H1932]]"
+- "[[H8133]]"
+- "[[H4481]]"
+- "[[H3606]]"
+- "[[H6925]]"
+- "[[H7162]]"
+- "[[H6236]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 7:7**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this I saw in the night visions, and behold a fourth beast, dreadful and terrible, and strong exceedingly; and it had great iron teeth: it devoured and brake in pieces, and stamped the residue with the feet of it: and it [was] diverse from all the beasts that [were] before it; and it had ten horns.
 <small><sub>**BSB:**</sub></small>
 After this, as I watched in my vision in the night, suddenly a fourth beast appeared, and it was terrifying—dreadful and extremely strong—with large iron teeth. It devoured and crushed; then it trampled underfoot whatever was left. It was different from all the beasts before it, and it had ten horns.
+<small><sub>**Aramaic:**</sub></small>
+[[H0870\|בָּאתַ֣ר]] [[H1836\|דְּנָה֩]] [[H2370\|חָזֵ֨ה]] [[H1934\|הֲוֵ֜ית]] [[H9003\|בְּ]][[H2376\|חֶזְוֵ֣י]] [[H3916\|לֵֽילְיָ֗]][[H9010\|א]] [[H9002\|וַ]][[H0718\|אֲר֣וּ]] [[H2423\|חֵיוָ֣ה]] [[H7244\|רְֽבִיעָאָ֡ה]] [[H1763\|דְּחִילָה֩]] [[H9002\|וְ]][[H0574\|אֵֽימְתָנִ֨י]] [[H9002\|וְ]][[H8624\|תַקִּיפָ֜א]] [[H3493\|יַתִּ֗ירָא]] [[H9002\|וְ]][[H8128\|שִׁנַּ֨יִן]] [[H1768\|דִּֽי]][[H9014\|־]] [[H6523\|פַרְזֶ֥ל]] [[H9005\|לַ]][[H9034\|הּ֙]] [[H7260\|רַבְרְבָ֔ן]] [[H0399\|אָֽכְלָ֣ה]] [[H9002\|וּ]][[H1855\|מַדֱּקָ֔ה]] [[H9002\|וּ]][[H7606\|שְׁאָרָ֖]][[H9010\|א]] [[H9003\|בְּ]][[H7271\|רַגְלַ֣]][[H9024\|הּ]] [[H7512\|רָפְסָ֑ה]] [[H9002\|וְ]][[H1932\|הִ֣יא]] [[H8133\|מְשַׁנְּיָ֗ה]] [[H4481\|מִן]][[H9014\|־]] [[H3606\|כָּל]][[H9014\|־]] [[H2423\|חֵֽיוָתָ]][[H9010\|א֙]] [[H1768\|דִּ֣י]] [[H6925\|קָֽדָמַ֔י]][[H9034\|הּ]] [[H9002\|וְ]][[H7162\|קַרְנַ֥יִן]] [[H6236\|עֲשַׂ֖ר]] [[H9005\|לַֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.6|<< Daniel 7:6]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.8|Daniel 7:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -49,8 +120,8 @@ After this, as I watched in my vision in the night, suddenly a fourth beast appe
 
 [^1]: L spelled: **<span class="asaramaic"><big>רְֽבִיעָיָ֡ה</big></span>**
 [^2]: K spelled: **<span class="asaramaic"><big>רְבִיעָיָה</big></span>**
-[^3]: with feet its  | **<big>[[H9024|הּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
-[^4]: with feet its  | **<big>[[H9024|הּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
-[^5]: with feet its  | **<big>[[H9024|הּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^3]: with feet its  | **<big>[[H9003|בְּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9024|הּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^4]: with feet its  | **<big>[[H9003|בְּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9024|הּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
+[^5]: with feet its  | **<big>[[H9003|בְּ]]</big><big>[[H7271|רַגְלַיַּ]]</big><big>[[H9024|הּ]]</big> ** | be.<small><sup>[[AR]]</sup></small> rag.lai.ya<small><sup>[[ANcmpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | K
 [^6]: L spelled: **<span class="asaramaic"><big>בְּרַגְלַ֣י/הּ</big></span>**
 

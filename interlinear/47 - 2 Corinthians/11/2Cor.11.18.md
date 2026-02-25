@@ -1,10 +1,49 @@
+---
+title: 2 Corinthians 11:18
+type: Verse
+kjv: "Seeing that many glory after the flesh, I will glory also."
+bsb: "Since many are boasting according to the flesh, I too will boast."
+greek: "ἐπεὶ πολλοὶ καυχῶνται κατὰ τὴν σάρκα, κἀγὼ κἀγὼ καυχήσομαι."
+pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1893]]"
+- "[[G4183]]"
+- "[[G2744]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G4561]]"
+- "[[G1473]]"
+- "[[G2532]]"
+texts:
+- NKO
+- ko
+---
+
 **2 Corinthians 11:18**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Seeing that many glory after the flesh, I will glory also.
 <small><sub>**BSB:**</sub></small>
 Since many are boasting according to the flesh, I too will boast.
-<small><sub>**Literal:**</sub></small>
-Since many boast according to the flesh, I myself also will boast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.17|<< 2 Corinthians 11:17]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.19|2 Corinthians 11:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1893\|ἐπεὶ]]  [[G4183\|πολλοὶ]]  [[G2744\|καυχῶνται]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G4561\|σάρκα,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2744\|καυχήσομαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.17|<< 2 Corinthians 11:17]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.19|2 Corinthians 11:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

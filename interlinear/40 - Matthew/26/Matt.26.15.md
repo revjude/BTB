@@ -1,10 +1,68 @@
+---
+title: Matthew 26:15
+type: Verse
+kjv: "And said unto them, What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver."
+bsb: "and asked, “What are you willing to give me if I hand Him over to you?” And they set out for him thirty pieces of silver."
+greek: "εἶπεν· τί θέλετέ μοι δοῦναι, κἀγὼ κἀγὼ ὑμῖν παραδώσω αὐτόν;¶ Οἱ δὲ ἔστησαν αὐτῷ τριάκοντα ἀργύρια."
+pericope: "[[Matt.26.14 Judas Agrees to Betray Jesus|Judas Agrees to Betray Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BETRAYAL|BETRAYAL]]"
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G2309]]"
+- "[[G3165]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2476]]"
+- "[[G5144]]"
+- "[[G0694]]"
+texts:
+- NKO
+---
+
 **Matthew 26:15**<big><big>[[Matt.26.14 Judas Agrees to Betray Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said [unto them], What will ye give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.
 <small><sub>**BSB:**</sub></small>
 and asked, “What are you willing to give me if I hand Him over to you?” And they set out for him thirty pieces of silver.
-<small><sub>**Literal:**</sub></small>
-he said; What are you willing me to give, and I myself to you will betray Him? <the> And they appointed to him thirty pieces of silver.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.14|<< Matthew 26:14]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.16|Matthew 26:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν·]]  [[G5101\|τί]]  [[G2309\|θέλετέ]]  [[G3165\|μοι]]  [[G1325\|δοῦναι,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G4771\|ὑμῖν]]  [[G3860\|παραδώσω]]  [[G0846\|αὐτόν;¶]]  [[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G2476\|ἔστησαν]]  [[G0846\|αὐτῷ]]  [[G5144\|τριάκοντα]]  [[G0694\|ἀργύρια.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BETRAYAL|BETRAYAL]] • [[topic BRIBERY|BRIBERY]] • [[topic CHURCH|CHURCH]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic SILVER|SILVER]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.14|<< Matthew 26:14]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.16|Matthew 26:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 26:15** is...
 > $\quad$ referencing: [[LXX.Zech.11.12|Zech 11:12-13]]

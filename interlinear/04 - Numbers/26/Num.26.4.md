@@ -1,8 +1,61 @@
+---
+title: Numbers 26:4
+type: Verse
+kjv: "Take the sum of the people, from twenty years old and upward; as the LORD commanded Moses and the children of Israel, which went forth out of the land of Egypt."
+bsb: "“Take a census of the men twenty years of age or older, as the LORD has commanded Moses.” And these were the Israelites who came out of the land of Egypt:"
+hebrew: "מִבֶּ֛ן עֶשְׂרִ֥ים שָׁנָ֖ה וָמָ֑עְלָה כַּאֲשֶׁר֩ צִוָּ֨ה יְהוָ֤ה אֶת־ מֹשֶׁה֙ וּבְנֵ֣י יִשְׂרָאֵ֔ל הַיֹּצְאִ֖ים מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Num.26.1 The Second Census of Israel|The Second Census of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H3318G]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:4**<big><big>[[Num.26.1 The Second Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Take the sum of the people], from twenty years old and upward; as the LORD commanded Moses and the children of Israel, which went forth out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 “Take a census of the men twenty years of age or older, as the LORD has commanded Moses.” And these were the Israelites who came out of the land of Egypt:
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H1121L\|בֶּ֛ן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H9002\|וָ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H6680\|צִוָּ֨ה]] [[H3068G\|יְהוָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9009\|הַ]][[H3318G\|יֹּצְאִ֖ים]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.3|<< Numbers 26:3]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.5|Numbers 26:5 >>]]</td></tr></table>
 

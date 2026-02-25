@@ -1,10 +1,62 @@
+---
+title: Matthew 26:51
+type: Verse
+kjv: "And, behold, one of them which were with Jesus stretched out his hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear."
+bsb: "At this, one of Jesus’ companions drew his sword and struck the servant of the high priest, cutting off his ear."
+greek: "καὶ ἰδοὺ εἷς τῶν μετὰ Ἰησοῦ ἐκτείνας τὴν χεῖρα ἀπέσπασεν τὴν μάχαιραν αὐτοῦ, καὶ πατάξας τὸν δοῦλον τοῦ ἀρχιερέως ἀφεῖλεν αὐτοῦ τὸ ὠτίον.¶"
+pericope: "[[Matt.26.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALCHUS|MALCHUS]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SWORD|SWORD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3326]]"
+- "[[G2424G]]"
+- "[[G1614]]"
+- "[[G5495]]"
+- "[[G0645]]"
+- "[[G3162]]"
+- "[[G0846]]"
+- "[[G3960]]"
+- "[[G1401]]"
+- "[[G0749]]"
+- "[[G0851]]"
+- "[[G5621]]"
+texts:
+- NKO
+---
+
 **Matthew 26:51**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, one of them which were with Jesus stretched out [his] hand, and drew his sword, and struck a servant of the high priest’s, and smote off his ear.
 <small><sub>**BSB:**</sub></small>
 At this, one of Jesus’ companions drew his sword and struck the servant of the high priest, cutting off his ear.
-<small><sub>**Literal:**</sub></small>
-And behold one of those with Jesus having stretched out the hand drew the sword of him, and having struck the servant of the high priest cut off of him the ear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.50|<< Matthew 26:50]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.52|Matthew 26:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1520\|εἷς]]  [[G3588\|τῶν]]  [[G3326\|μετὰ]]  [[G2424G\|Ἰησοῦ]]  [[G1614\|ἐκτείνας]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G0645\|ἀπέσπασεν]]  [[G3588\|τὴν]]  [[G3162\|μάχαιραν]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G3960\|πατάξας]]  [[G3588\|τὸν]]  [[G1401\|δοῦλον]]  [[G3588\|τοῦ]]  [[G0749\|ἀρχιερέως]]  [[G0851\|ἀφεῖλεν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G5621\|ὠτίον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALCHUS|MALCHUS]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SWORD|SWORD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.50|<< Matthew 26:50]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.52|Matthew 26:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

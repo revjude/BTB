@@ -1,10 +1,61 @@
+---
+title: Revelation 19:5
+type: Verse
+kjv: "And a voice came out of the throne, saying, Praise our God, all ye his servants, and ye that fear him, both small and great."
+bsb: "Then a voice came from the throne, saying: “Praise our God, all you who serve Him, and those who fear Him, small and great alike!”"
+greek: "Καὶ φωνὴ ἀπὸ τοῦ θρόνου ἐξῆλθεν λέγουσα· αἰνεῖτε τῷ θεῷ ἡμῶν πάντες οἱ δοῦλοι αὐτοῦ καὶ οἱ φοβούμενοι αὐτόν, καὶ οἱ μικροὶ καὶ οἱ μεγάλοι."
+pericope: "[[Rev.19.1 Rejoicing in Heaven|Rejoicing in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G5456G]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G1831]]"
+- "[[G3004G]]"
+- "[[G0134]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G1401]]"
+- "[[G0846]]"
+- "[[G5399]]"
+- "[[G3398]]"
+- "[[G3173]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 19:5**<big><big>[[Rev.19.1 Rejoicing in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a voice came out of the throne, saying, Praise our God, all ye his servants, and ye that fear him, both small and great.
 <small><sub>**BSB:**</sub></small>
 Then a voice came from the throne, saying: “Praise our God, all you who serve Him, and those who fear Him, small and great alike!”
-<small><sub>**Literal:**</sub></small>
-And a voice from the throne came forth saying: do praise to the God of us all you who [are] servants of Him and you who [are] fearing Him, and you small and you great!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.4|<< Revelation 19:4]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.6|Revelation 19:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G5456G\|φωνὴ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G1831\|ἐξῆλθεν]]  [[G3004G\|λέγουσα·]]  [[G0134\|αἰνεῖτε]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3165\|ἡμῶν]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G1401\|δοῦλοι]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5399\|φοβούμενοι]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3398\|μικροὶ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3173\|μεγάλοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]] • [[topic REVERENCE|REVERENCE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.4|<< Revelation 19:4]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.6|Revelation 19:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 19:5** is...
 > $\quad$ alluding to: [[LXX.Ps.115.13|Ps 115:13]] ☩ [[LXX.Ps.135.1|Ps 135:1]] ☩ [[LXX.Ps.135.20|Ps 135:20]]

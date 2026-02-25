@@ -1,10 +1,71 @@
+---
+title: Acts 17:26
+type: Verse
+kjv: "And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;"
+bsb: "From one man He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands."
+greek: "ἐποίησέν τε ἐξ ἑνὸς αἵματος πᾶν ἔθνος ἀνθρώπων κατοικεῖν ἐπὶ παντὸς προσώπου τῆς γῆς, ὁρίσας προστεταγμένους καιροὺς καὶ τὰς ὁροθεσίας τῆς κατοικίας αὐτῶν"
+pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4160G]]"
+- "[[G5037]]"
+- "[[G1537]]"
+- "[[G1520]]"
+- "[[G0129G]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G0444]]"
+- "[[G2730]]"
+- "[[G1909]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G1093G]]"
+- "[[G3724]]"
+- "[[G4367]]"
+- "[[G2540]]"
+- "[[G2532]]"
+- "[[G3734]]"
+- "[[G2733]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Acts 17:26**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;
 <small><sub>**BSB:**</sub></small>
 From one man He made every nation of men, that they should inhabit the whole earth; and He determined their appointed times and the boundaries of their lands.
-<small><sub>**Literal:**</sub></small>
-He made then of one blood every nation of men to dwell upon all [the] face of the earth, determining ordered times and the boundaries of the habitation of them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.25|<< Acts 17:25]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.27|Acts 17:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4160G\|ἐποίησέν]]  [[G5037\|τε]]  [[G1537\|ἐξ]]  [[G1520\|ἑνὸς]]  [[G0129G\|αἵματος]]  [[G3956\|πᾶν]]  [[G1484\|ἔθνος]]  [[G0444\|ἀνθρώπων]]  [[G2730\|κατοικεῖν]]  [[G1909\|ἐπὶ]]  [[G3956\|παντὸς]]  [[G4383\|προσώπου]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G3724\|ὁρίσας]]  [[G4367\|προστεταγμένους]]  [[G2540\|καιροὺς]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G3734\|ὁροθεσίας]]  [[G3588\|τῆς]]  [[G2733\|κατοικίας]]  [[G0846\|αὐτῶν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic LIFE|LIFE]] • [[topic MAN|MAN]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.25|<< Acts 17:25]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.27|Acts 17:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Ezekiel 30:2
+type: Verse
+kjv: "Son of man, prophesy and say, Thus saith the Lord GOD; Howl ye, Woe worth the day!"
+bsb: "“Son of man, prophesy and declare that this is what the Lord GOD says: Wail, ‘Alas for that day!’"
+hebrew: "בֶּן־ אָדָ֕ם הִנָּבֵא֙ וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הֵילִ֖ילוּ הָ֥הּ לַיּֽוֹם׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5012]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3213]]"
+- "[[H1929]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:2**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, prophesy and say, Thus saith the Lord GOD; Howl ye, Woe worth the day!
 <small><sub>**BSB:**</sub></small>
 “Son of man, prophesy and declare that this is what the Lord GOD says: Wail, ‘Alas for that day!’
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H5012\|הִנָּבֵא֙]] [[H9001\|וְ]][[H0559\|אָ֣מַרְתָּ֔]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H3213\|הֵילִ֖ילוּ]] [[H1929\|הָ֥הּ]] [[H9005\|לַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.1|<< Ezekiel 30:1]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.3|Ezekiel 30:3 >>]]</td></tr></table>
 

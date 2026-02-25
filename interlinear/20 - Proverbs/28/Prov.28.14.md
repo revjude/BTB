@@ -1,8 +1,56 @@
+---
+title: Proverbs 28:14
+type: Verse
+kjv: "Happy is the man that feareth alway: but he that hardeneth his heart shall fall into mischief."
+bsb: "Blessed is the man who is always reverent, but he who hardens his heart falls into trouble."
+hebrew: "אַשְׁרֵ֣י אָ֭דָם מְפַחֵ֣ד תָּמִ֑יד וּמַקְשֶׁ֥ה לִ֝בּ֗וֹ יִפּ֥וֹל בְּרָעָֽה׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0835]]"
+- "[[H0120G]]"
+- "[[H6342]]"
+- "[[H8548]]"
+- "[[H9002]]"
+- "[[H7185]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H5307G]]"
+- "[[H9003]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:14**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Happy [is] the man that feareth alway: but he that hardeneth his heart shall fall into mischief.
 <small><sub>**BSB:**</sub></small>
 Blessed is the man who is always reverent, but he who hardens his heart falls into trouble.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַשְׁרֵ֣י]] [[H0120G\|אָ֭דָם]] [[H6342\|מְפַחֵ֣ד]] [[H8548\|תָּמִ֑יד]] [[H9002\|וּ]][[H7185\|מַקְשֶׁ֥ה]] [[H3820A\|לִ֝בּ֗]][[H9023\|וֹ]] [[H5307G\|יִפּ֥וֹל]] [[H9003\|בְּ]][[H7451C\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]] • [[topic HEART|HEART]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic REVERENCE|REVERENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.13|<< Proverbs 28:13]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.15|Proverbs 28:15 >>]]</td></tr></table>
 

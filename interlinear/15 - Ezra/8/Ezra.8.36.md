@@ -1,8 +1,61 @@
+---
+title: Ezra 8:36
+type: Verse
+kjv: "And they delivered the king’s commissions unto the king’s lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God."
+bsb: "They also delivered the king’s edicts to the royal satraps and governors of the region west of the Euphrates, who proceeded to assist the people and the house of God."
+hebrew: "וַֽיִּתְּנ֣וּ׀ אֶת־ דָּתֵ֣י הַמֶּ֗לֶךְ לַאֲחַשְׁדַּרְפְּנֵי֙ הַמֶּ֔לֶךְ וּפַחֲו֖וֹת עֵ֣בֶר הַנָּהָ֑ר וְנִשְּׂא֥וּ אֶת־ הָעָ֖ם וְאֶת־ בֵּֽית־ הָאֱלֹהִֽים׃ ס"
+pericope: "[[Ezra.8.32 Arrival in Jerusalem|Arrival in Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1881]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H0323]]"
+- "[[H9002]]"
+- "[[H6346]]"
+- "[[H5676G]]"
+- "[[H5104G]]"
+- "[[H5375K]]"
+- "[[H5971A]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 8:36**<big><big>[[Ezra.8.32 Arrival in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they delivered the king’s commissions unto the king’s lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God.
 <small><sub>**BSB:**</sub></small>
 They also delivered the king’s edicts to the royal satraps and governors of the region west of the Euphrates, who proceeded to assist the people and the house of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5414G\|יִּתְּנ֣וּ]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H1881\|דָּתֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9005\|לַ]][[H0323\|אֲחַשְׁדַּרְפְּנֵי֙]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וּ]][[H6346\|פַחֲו֖וֹת]] [[H5676G\|עֵ֣בֶר]] [[H9009\|הַ]][[H5104G\|נָּהָ֑ר]] [[H9001\|וְ]][[H5375K\|נִשְּׂא֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּֽית]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.35|<< Ezra 8:35]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.1|Ezra 9:1 >>]]</td></tr></table>
 
@@ -22,7 +75,7 @@ They also delivered the king’s edicts to the royal satraps and governors of th
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.35|<< Ezra 8:35]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.1|Ezra 9:1 >>]]</td></tr></table>
 
 

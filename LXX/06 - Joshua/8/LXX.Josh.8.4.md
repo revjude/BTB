@@ -1,6 +1,55 @@
+---
+title: LXX Joshua 8:4
+type: Verse
+lxx: "And he gave charge to them, saying, See that you lie in wait the city, behind the city greatly! and you shall all be prepared."
+greek: "και ενετείλατο αυτοίς λέγων ίδετε ότι υμείς ενεδρεύσατε την πόλιν οπίσω της πόλεως σφόδρα και έσεσθε πάντες έτοιμοι"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1781]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G1492]]"
+- "[[G3754]]"
+- "[[G1473]]"
+- "[[G1748]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3694]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G4970]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G2092]]"
+---
+
 **LXX Joshua 8:4** 
 <small><sub>**LXX:**</sub></small>
 And he gave charge to them, saying, See that you lie in wait the city, behind the city greatly! and you shall all be prepared. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1781\|ενετείλατο]] [[G1473\|αυτοίς]] [[G3004\|λέγων]] [[G1492\|ίδετε]] [[G3754\|ότι]] [[G1473\|υμείς]] [[G1748\|ενεδρεύσατε]] [[G3588\|την]] [[G4172\|πόλιν]] [[G3694\|οπίσω]] [[G3588\|της]] [[G4172\|πόλεως]] [[G4970\|σφόδρα]] [[G2532\|και]] [[G1510\|έσεσθε]] [[G3956\|πάντες]] [[G2092\|έτοιμοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.3|<< Joshua 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.5|Joshua 8:5 >>]]</td></tr></table>
 
@@ -24,6 +73,6 @@ And he gave charge to them, saying, See that you lie in wait the city, behind th
 | you shall | **<big>[[G1510\|έσεσθε]]</big>** |
 | all | **<big>[[G3956\|πάντες]]</big>** |
 | be prepared. | **<big>[[G2092\|έτοιμοι]]</big>** |
-[[Josh.8.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.3|<< Joshua 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.5|Joshua 8:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.8.3|<< Joshua 8:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.8.5|Joshua 8:5 >>]]</td></tr></table>
 
 

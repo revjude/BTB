@@ -1,8 +1,65 @@
+---
+title: Isaiah 52:15
+type: Verse
+kjv: "So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider."
+bsb: "so He will sprinkle many nations. Kings will shut their mouths because of Him. For they will see what they have not been told, and they will understand what they have not heard."
+hebrew: "כֵּ֤ן יַזֶּה֙ גּוֹיִ֣ם רַבִּ֔ים עָלָ֛יו יִקְפְּצ֥וּ מְלָכִ֖ים פִּיהֶ֑ם כִּ֠י אֲשֶׁ֨ר לֹֽא־ סֻפַּ֤ר לָהֶם֙ רָא֔וּ וַאֲשֶׁ֥ר לֹֽא־ שָׁמְע֖וּ הִתְבּוֹנָֽנוּ׃"
+pericope: "[[Isa.52.13 The Servant Exalted|The Servant Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H3651C]]"
+- "[[H5137B]]"
+- "[[H1471A]]"
+- "[[H7227A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7092]]"
+- "[[H4428G]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5608A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H0995]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 52:15**<big><big>[[Isa.52.13 The Servant Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall he sprinkle many nations; the kings shall shut their mouths at him: for [that] which had not been told them shall they see; and [that] which they had not heard shall they consider.
 <small><sub>**BSB:**</sub></small>
 so He will sprinkle many nations. Kings will shut their mouths because of Him. For they will see what they have not been told, and they will understand what they have not heard.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֤ן]] [[H5137B\|יַזֶּה֙]] [[H1471A\|גּוֹיִ֣ם]] [[H7227A\|רַבִּ֔ים]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H7092\|יִקְפְּצ֥וּ]] [[H4428G\|מְלָכִ֖ים]] [[H6310G\|פִּי]][[H9028\|הֶ֑ם]] [[H3588A\|כִּ֠י]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5608A\|סֻפַּ֤ר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H7200G\|רָא֔וּ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|שָׁמְע֖וּ]] [[H0995\|הִתְבּוֹנָֽנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.14|<< Isaiah 52:14]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.1|Isaiah 53:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

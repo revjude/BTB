@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD’s Love for Israel
+type: Pericope
 pericope: "[[Mal.1.1 The LORD’s Love for Israel|The LORD’s Love for Israel]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Malachi
 chapter: 1
 book/chapter: "[[Mal.1|Malachi 1]]"
-genre:
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
 - dialogue
+verse_count: 5
 verses:
 - "[[Mal.1.1]]"
 - "[[Mal.1.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mal.1.5]]"
 ---
 
-[[Mal.1|Malachi 1:1 - Malachi 1:5]]
+<small>[[Mal.1|Malachi 1:1-5]]</small>
 *The LORD’s Love for Israel*
 
 [[Mal.1.1|1]] The burden of the word of the LORD to Israel by Malachi.

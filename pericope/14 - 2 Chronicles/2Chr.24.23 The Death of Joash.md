@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Joash
+type: Pericope
 pericope: "[[2Chr.24.23 The Death of Joash|The Death of Joash]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 24
 book/chapter: "[[2Chr.24|2 Chronicles 24]]"
-genre:
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 5
 verses:
 - "[[2Chr.24.23]]"
 - "[[2Chr.24.24]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Chr.24.27]]"
 ---
 
-[[2Chr.24|2 Chronicles 24:23 - 2 Chronicles 24:27]]
+<small>[[2Chr.24|2 Chronicles 24:23-27]]</small>
 *The Death of Joash*
 
 [[2Chr.24.23|23]] And it came to pass at the end of the year, \[that\] the host of Syria came up against him: and they came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all the spoil of them unto the king of Damascus.

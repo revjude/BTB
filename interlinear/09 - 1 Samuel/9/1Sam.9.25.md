@@ -1,8 +1,53 @@
+---
+title: 1 Samuel 9:25
+type: Verse
+kjv: "And when they were come down from the high place into the city, Samuel communed with Saul upon the top of the house."
+bsb: "And after they had come down from the high place into the city, Samuel spoke with Saul on the roof of his house."
+hebrew: "וַיֵּרְד֥וּ מֵהַבָּמָ֖ה הָעִ֑יר וַיְדַבֵּ֥ר עִם־ שָׁא֖וּל עַל־ הַגָּֽג׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HOUSE|HOUSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H5892B]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H5921A]]"
+- "[[H1406]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:25**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they were come down from the high place into the city, [Samuel] communed with Saul upon the top of the house.
 <small><sub>**BSB:**</sub></small>
 And after they had come down from the high place into the city, Samuel spoke with Saul on the roof of his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּרְד֥וּ]] [[H9006\|מֵ]][[H9009\|הַ]][[H1116\|בָּמָ֖ה]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H5973A\|עִם]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1406\|גָּֽג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.24|<< 1 Samuel 9:24]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.26|1 Samuel 9:26 >>]]</td></tr></table>
 

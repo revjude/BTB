@@ -1,8 +1,61 @@
+---
+title: Exodus 10:27
+type: Verse
+kjv: "But the LORD hardened Pharaoh’s heart, and he would not let them go."
+bsb: "But the LORD hardened Pharaoh’s heart, and he was unwilling to let them go."
+hebrew: "וַיְחַזֵּ֥ק יְהוָ֖ה אֶת־ לֵ֣ב פַּרְעֹ֑ה וְלֹ֥א אָבָ֖ה לְשַׁלְּחָֽם׃"
+pericope: "[[Exod.10.21 The Ninth Plague：Darkness|The Ninth Plague：Darkness]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H7971H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:27**<big><big>[[Exod.10.21 The Ninth Plague：Darkness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD hardened Pharaoh’s heart, and he would not let them go.
 <small><sub>**BSB:**</sub></small>
 But the LORD hardened Pharaoh’s heart, and he was unwilling to let them go.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2388G\|יְחַזֵּ֥ק]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לֵ֣ב]] [[H6547J\|פַּרְעֹ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָבָ֖ה]] [[H9005\|לְ]][[H7971H\|שַׁלְּחָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.26|<< Exodus 10:26]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.28|Exodus 10:28 >>]]</td></tr></table>
 

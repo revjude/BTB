@@ -1,10 +1,57 @@
+---
+title: Revelation 1:15
+type: Verse
+kjv: "And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters."
+bsb: "His feet were like polished bronze refined in a furnace, and His voice was like the roar of many waters."
+greek: "καὶ οἱ πόδες αὐτοῦ ὅμοιοι χαλκολιβάνῳ ὡς ἐν καμίνῳ πεπυρωμένης καὶ ἡ φωνὴ αὐτοῦ ὡς φωνὴ ὑδάτων πολλῶν"
+pericope: "[[Rev.1.9 John’s Vision on Patmos|John’s Vision on Patmos]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G0846]]"
+- "[[G3664]]"
+- "[[G5474]]"
+- "[[G5613]]"
+- "[[G1722]]"
+- "[[G2575]]"
+- "[[G4448]]"
+- "[[G5456G]]"
+- "[[G5204]]"
+- "[[G4183]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 1:15**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.
 <small><sub>**BSB:**</sub></small>
 His feet were like polished bronze refined in a furnace, and His voice was like the roar of many waters.
-<small><sub>**Literal:**</sub></small>
-and the feet of Him [are] like as fine bronze as in a furnace refined and the voice of Him [is] like [the] voice of waters many<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.14|<< Revelation 1:14]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.16|Revelation 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4228\|πόδες]]  [[G0846\|αὐτοῦ]]  [[G3664\|ὅμοιοι]]  [[G5474\|χαλκολιβάνῳ]]  [[G5613\|ὡς]]  [[G1722\|ἐν]]  [[G2575\|καμίνῳ]]  [[G4448\|πεπυρωμένης]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5456G\|φωνὴ]]  [[G0846\|αὐτοῦ]]  [[G5613\|ὡς]]  [[G5456G\|φωνὴ]]  [[G5204\|ὑδάτων]]  [[G4183\|πολλῶν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.14|<< Revelation 1:14]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.1.16|Revelation 1:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 1:15** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.7.9|Dan 7:9]] ☩ [[LXX.Dan.10.5|Dan 10:5-6]] ☩ [[LXX.Ezek.1.27|Ezek 1:27]] ☩ [[LXX.Ezek.8.2|Ezek 8:2]] ☩ [[LXX.Ezek.43.2|Ezek 43:2]]

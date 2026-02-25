@@ -1,8 +1,61 @@
+---
+title: Ezekiel 28:6
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Because thou hast set thine heart as the heart of God;"
+bsb: "Therefore this is what the Lord GOD says: Because you regard your heart as the heart of a god,"
+hebrew: "לָכֵ֕ן כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה יַ֛עַן תִּתְּךָ֥ אֶת־ לְבָבְךָ֖ כְּלֵ֥ב אֱלֹהִֽים׃"
+pericope: "[[Ezek.28.1 A Prophecy against the Ruler of Tyre|A Prophecy against the Ruler of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H5414I]]"
+- "[[H9041]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H3820A]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:6**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Because thou hast set thine heart as the heart of God;
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: Because you regard your heart as the heart of a god,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֕ן]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H3282\|יַ֛עַן]] [[H5414I\|תִּתְּ]][[H9041\|ךָ֥]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H9004\|כְּ]][[H3820A\|לֵ֥ב]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.5|<< Ezekiel 28:5]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.7|Ezekiel 28:7 >>]]</td></tr></table>
 

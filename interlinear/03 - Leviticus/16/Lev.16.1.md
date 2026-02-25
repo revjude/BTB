@@ -1,8 +1,59 @@
+---
+title: Leviticus 16:1
+type: Verse
+kjv: "And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;"
+bsb: "Now the LORD spoke to Moses after the death of two of Aaron’s sons when they approached the presence of the LORD."
+hebrew: "וַיְדַבֵּ֤ר יְהוָה֙ אֶל־ מֹשֶׁ֔ה אַחֲרֵ֣י מ֔וֹת שְׁנֵ֖י בְּנֵ֣י אַהֲרֹ֑ן בְּקָרְבָתָ֥ם לִפְנֵי־ יְהוָ֖ה וַיָּמֻֽתוּ׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0310A]]"
+- "[[H4194]]"
+- "[[H8147]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H9003]]"
+- "[[H7126G]]"
+- "[[H9048]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:1**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;
 <small><sub>**BSB:**</sub></small>
 Now the LORD spoke to Moses after the death of two of Aaron’s sons when they approached the presence of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֤ר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H0310A\|אַחֲרֵ֣י]] [[H4194\|מ֔וֹת]] [[H8147\|שְׁנֵ֖י]] [[H1121A\|בְּנֵ֣י]] [[H0175\|אַהֲרֹ֑ן]] [[H9003\|בְּ]][[H7126G\|קָרְבָתָ֥]][[H9048\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H4191\|יָּמֻֽתוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.33|<< Leviticus 15:33]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.2|Leviticus 16:2 >>]]</td></tr></table>
 

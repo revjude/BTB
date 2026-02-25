@@ -1,8 +1,53 @@
+---
+title: Job 14:9
+type: Verse
+kjv: "Yet through the scent of water it will bud, and bring forth boughs like a plant."
+bsb: "at the scent of water it will bud and put forth twigs like a sapling."
+hebrew: "מֵרֵ֣יחַ מַ֣יִם יַפְרִ֑חַ וְעָשָׂ֖ה קָצִ֣יר כְּמוֹ־ נָֽטַע׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9006]]"
+- "[[H7381]]"
+- "[[H4325G]]"
+- "[[H6524A]]"
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H7105B]]"
+- "[[H3644G]]"
+- "[[H9014]]"
+- "[[H5194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:9**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Yet] through the scent of water it will bud, and bring forth boughs like a plant.
 <small><sub>**BSB:**</sub></small>
 at the scent of water it will bud and put forth twigs like a sapling.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H7381\|רֵ֣יחַ]] [[H4325G\|מַ֣יִם]] [[H6524A\|יַפְרִ֑חַ]] [[H9001\|וְ]][[H6213H\|עָשָׂ֖ה]] [[H7105B\|קָצִ֣יר]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H5194\|נָֽטַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.8|<< Job 14:8]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.10|Job 14:10 >>]]</td></tr></table>
 

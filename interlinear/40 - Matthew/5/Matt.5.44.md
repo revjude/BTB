@@ -1,10 +1,73 @@
+---
+title: Matthew 5:44
+type: Verse
+kjv: "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;"
+bsb: "But I tell you, love your enemies and pray for those who persecute you,"
+jesus_said: "But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;"
+greek: "ἐγὼ δὲ λέγω ὑμῖν· ἀγαπᾶτε τοὺς ἐχθροὺς ὑμῶν εὐλογεῖτε τοὺς καταρωμένους ὑμᾶς καλῶς ποιεῖτε τοὺς μισοῦντας ὑμᾶς καὶ προσεύχεσθε ὑπὲρ τῶν ἐπηρεαζόντων ὑμᾶς καὶ διωκόντων ὑμᾶς,"
+pericope: "[[Matt.5.38 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CURSING|CURSING]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G0025]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G2127]]"
+- "[[G2672]]"
+- "[[G2573]]"
+- "[[G4160G]]"
+- "[[G3404]]"
+- "[[G2532]]"
+- "[[G4336]]"
+- "[[G5228]]"
+- "[[G1908]]"
+- "[[G1377]]"
+texts:
+- NKO
+- K
+- K(o)
+---
+
 **Matthew 5:44**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
 <small><sub>**BSB:**</sub></small>
 But I tell you, love your enemies and pray for those who persecute you,
-<small><sub>**Literal:**</sub></small>
-I myself however say to you; do love the enemies of you do bless those cursing you well do  to those hating you and do pray for those mistreating you and persecuting you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.43|<< Matthew 5:43]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.45|Matthew 5:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G0025\|ἀγαπᾶτε]]  [[G3588\|τοὺς]]  [[G2190\|ἐχθροὺς]]  [[G4771\|ὑμῶν]]  [[G2127\|εὐλογεῖτε]]  [[G3588\|τοὺς]]  [[G2672\|καταρωμένους]]  [[G4771\|ὑμᾶς]]  [[G2573\|καλῶς]]  [[G4160G\|ποιεῖτε]]  [[G3588\|τοὺς]]  [[G3404\|μισοῦντας]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G4336\|προσεύχεσθε]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῶν]]  [[G1908\|ἐπηρεαζόντων]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G1377\|διωκόντων]]  [[G4771\|ὑμᾶς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CURSING|CURSING]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic HATRED|HATRED]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic LOVE|LOVE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RELIGION|RELIGION]] • [[topic RETALIATION|RETALIATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.43|<< Matthew 5:43]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.45|Matthew 5:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

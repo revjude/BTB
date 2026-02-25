@@ -1,6 +1,71 @@
+---
+title: LXX Isaiah 30:29
+type: Verse
+lxx: "Must you always be glad and enter into  my holy places always, as the ones solemnizing a holiday? and as ones being glad to enter with a pipe, into the mountain of the lord, to the God  of Israel?"
+greek: "μη διαπαντός δει υμάς ευφραίνεσθαι και εισπορεύεσθαι εις τα άγιά μου διαπαντός ωσεί εορτάζοντας και ωσεί ευφραινομένους εισελθείν μετά αυλού εις το όρος κυρίου προς τον θεόν του Ισραήλ"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PIPE|PIPE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G3361]]"
+- "[[G1275]]"
+- "[[G1163]]"
+- "[[G1473]]"
+- "[[G2165]]"
+- "[[G2532]]"
+- "[[G1531]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G1473]]"
+- "[[G1275]]"
+- "[[G5616]]"
+- "[[G1858]]"
+- "[[G2532]]"
+- "[[G5616]]"
+- "[[G2165]]"
+- "[[G1525]]"
+- "[[G3326]]"
+- "[[G0836]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G2962]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G2474]]"
+---
+
 **LXX Isaiah 30:29** 
 <small><sub>**LXX:**</sub></small>
  Must you always be glad and enter into  my holy places always, as \[the\] ones solemnizing a holiday? and as ones being glad to enter with a pipe, into the mountain of \[the\] <span class="smallcaps">lord</span>, to the God  of Israel? 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G1275\|διαπαντός]] [[G1163\|δει]] [[G1473\|υμάς]] [[G2165\|ευφραίνεσθαι]] [[G2532\|και]] [[G1531\|εισπορεύεσθαι]] [[G1519\|εις]] [[G3588\|τα]] [[G0039\|άγιά]] [[G1473\|μου]] [[G1275\|διαπαντός]] [[G5616\|ωσεί]] [[G1858\|εορτάζοντας]] [[G2532\|και]] [[G5616\|ωσεί]] [[G2165\|ευφραινομένους]] [[G1525\|εισελθείν]] [[G3326\|μετά]] [[G0836\|αυλού]] [[G1519\|εις]] [[G3588\|το]] [[G3735\|όρος]] [[G2962\|κυρίου]] [[G4314\|προς]] [[G3588\|τον]] [[G2316\|θεόν]] [[G3588\|του]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic FEASTS|FEASTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MUSIC|MUSIC]] • [[topic PIPE|PIPE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.30.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.28|<< Isaiah 30:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.30|Isaiah 30:30 >>]]</td></tr></table>
 
@@ -34,6 +99,6 @@
 | God | **<big>[[G2316\|θεόν]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | of Israel? | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Isa.30.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.28|<< Isaiah 30:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.30|Isaiah 30:30 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.30.28|<< Isaiah 30:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.30.30|Isaiah 30:30 >>]]</td></tr></table>
 
 

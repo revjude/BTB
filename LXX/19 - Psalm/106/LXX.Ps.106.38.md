@@ -1,6 +1,60 @@
+---
+title: LXX Psalm 106:38
+type: Verse
+lxx: "and they poured out innocent blood -- the blood of their sons and daughters whom they sacrificed to the carvings of Canaan. And the land was polluted with murder by their blood,"
+greek: "και εξέχεαν αίμα αθώον αίμα υιών αυτών και θυγατέρων ων έθυσαν τοις γλυπτοίς Χαναάν και εφονοκτονήθη η γη εν τοις αίμασι"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1632]]"
+- "[[G0129]]"
+- "[[G0121]]"
+- "[[G0129]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2364]]"
+- "[[G3739]]"
+- "[[G2380]]"
+- "[[G3588]]"
+- "[[G6745]]"
+- "[[H3668]]"
+- "[[G2532]]"
+- "[[G9656]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0129]]"
+---
+
 **LXX Psalm 106:38** 
 <small><sub>**LXX:**</sub></small>
 and they poured out innocent blood -- \[the\] blood of their sons and daughters whom they sacrificed to the carvings of Canaan. And the land was polluted with murder by \[their\] blood, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1632\|εξέχεαν]] [[G0129\|αίμα]] [[G0121\|αθώον]] [[G0129\|αίμα]] [[G5207\|υιών]] [[G1473\|αυτών]] [[G2532\|και]] [[G2364\|θυγατέρων]] [[G3739\|ων]] [[G2380\|έθυσαν]] [[G3588\|τοις]] [[G6745\|γλυπτοίς]] [[H3668\|Χαναάν]] [[G2532\|και]] [[G9656\|εφονοκτονήθη]] [[G3588\|η]] [[G1093\|γη]] [[G1722\|εν]] [[G3588\|τοις]] [[G0129\|αίμασι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.106.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.37|<< Psalm 106:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.39|Psalm 106:39 >>]]</td></tr></table>
 
@@ -26,6 +80,6 @@ and they poured out innocent blood -- \[the\] blood of their sons and daughters 
 | by | **<big>[[G1722\|εν]]</big>** |
 | \[their\]\<obj.> | **<big>[[G3588\|τοις]]</big>** |
 | blood, | **<big>[[G0129\|αίμασι]]</big>** |
-[[Ps.106.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.37|<< Psalm 106:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.39|Psalm 106:39 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.37|<< Psalm 106:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.39|Psalm 106:39 >>]]</td></tr></table>
 
 

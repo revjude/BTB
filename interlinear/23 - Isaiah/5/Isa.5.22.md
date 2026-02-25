@@ -1,8 +1,61 @@
+---
+title: Isaiah 5:22
+type: Verse
+kjv: "Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink:"
+bsb: "Woe to those who are heroes in drinking wine and champions in mixing strong drink,"
+hebrew: "ה֕וֹי גִּבּוֹרִ֖ים לִשְׁתּ֣וֹת יָ֑יִן וְאַנְשֵׁי־ חַ֖יִל לִמְסֹ֥ךְ שֵׁכָֽר׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H1945]]"
+- "[[H1368]]"
+- "[[H9005]]"
+- "[[H8354]]"
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9014]]"
+- "[[H2428G]]"
+- "[[H4537]]"
+- "[[H7941]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:22**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto [them that are] mighty to drink wine, and men of strength to mingle strong drink:
 <small><sub>**BSB:**</sub></small>
 Woe to those who are heroes in drinking wine and champions in mixing strong drink,
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֕וֹי]] [[H1368\|גִּבּוֹרִ֖ים]] [[H9005\|לִ]][[H8354\|שְׁתּ֣וֹת]] [[H3196\|יָ֑יִן]] [[H9002\|וְ]][[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H2428G\|חַ֖יִל]] [[H9005\|לִ]][[H4537\|מְסֹ֥ךְ]] [[H7941\|שֵׁכָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BRIBERY|BRIBERY]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGE|JUDGE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RULERS|RULERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.21|<< Isaiah 5:21]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.23|Isaiah 5:23 >>]]</td></tr></table>
 

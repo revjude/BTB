@@ -1,8 +1,53 @@
+---
+title: Esther 7:1
+type: Verse
+kjv: "So the king and Haman came to banquet with Esther the queen."
+bsb: "So the king and Haman went to dine with Esther the queen,"
+hebrew: "וַיָּבֹ֤א הַמֶּ֙לֶךְ֙ וְהָמָ֔ן לִשְׁתּ֖וֹת עִם־ אֶסְתֵּ֥ר הַמַּלְכָּֽה׃"
+pericope: "[[Esth.7.1 Esther Pleads for Her People|Esther Pleads for Her People]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 7
+book/chapter: "[[Esth.7|Esther 7]]"
+chronological_order: 905
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H2001]]"
+- "[[H9005]]"
+- "[[H8354]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0635]]"
+- "[[H4436H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 7:1**<big><big>[[Esth.7.1 Esther Pleads for Her People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the king and Haman came to banquet with Esther the queen.
 <small><sub>**BSB:**</sub></small>
 So the king and Haman went to dine with Esther the queen,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9002\|וְ]][[H2001\|הָמָ֔ן]] [[H9005\|לִ]][[H8354\|שְׁתּ֖וֹת]] [[H5973A\|עִם]][[H9014\|־]] [[H0635\|אֶסְתֵּ֥ר]] [[H9009\|הַ]][[H4436H\|מַּלְכָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.14|<< Esther 6:14]]</td><td align="center" style="border:none;">[[Esth.7|Esther 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.7.2|Esther 7:2 >>]]</td></tr></table>
 

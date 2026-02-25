@@ -1,8 +1,56 @@
+---
+title: Leviticus 2:15
+type: Verse
+kjv: "And thou shalt put oil upon it, and lay frankincense thereon: it is a meat offering."
+bsb: "And you are to put oil and frankincense on it; it is a grain offering."
+hebrew: "וְנָתַתָּ֤ עָלֶ֙יהָ֙ שֶׁ֔מֶן וְשַׂמְתָּ֥ עָלֶ֖יהָ לְבֹנָ֑ה מִנְחָ֖ה הִֽוא׃"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H8081]]"
+- "[[H7760H]]"
+- "[[H3828]]"
+- "[[H4503G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 2:15**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put oil upon it, and lay frankincense thereon: it [is] a meat offering.
 <small><sub>**BSB:**</sub></small>
 And you are to put oil and frankincense on it; it is a grain offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֤]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H8081\|שֶׁ֔מֶן]] [[H9001\|וְ]][[H7760H\|שַׂמְתָּ֥]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H3828\|לְבֹנָ֑ה]] [[H4503G\|מִנְחָ֖ה]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic FRANKINCENSE|FRANKINCENSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.14|<< Leviticus 2:14]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.16|Leviticus 2:16 >>]]</td></tr></table>
 

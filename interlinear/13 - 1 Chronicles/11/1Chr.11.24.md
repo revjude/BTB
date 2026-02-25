@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 11:24
+type: Verse
+kjv: "These things did Benaiah the son of Jehoiada, and had the name among the three mighties."
+bsb: "These were the exploits of Benaiah son of Jehoiada, who won a name along with the three mighty men."
+hebrew: "אֵ֣לֶּה עָשָׂ֔ה בְּנָיָ֖הוּ בֶּן־ יְהוֹיָדָ֑ע וְלוֹ־ שֵׁ֖ם בִּשְׁלוֹשָׁ֥ה הַגִּבֹּרִֽים׃"
+pericope: "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BENAIAH|BENAIAH]]"
+strongs:
+- "[[H0428]]"
+- "[[H6213A]]"
+- "[[H1141G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3077G]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8034]]"
+- "[[H9003]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H1368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:24**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [things] did Benaiah the son of Jehoiada, and had the name among the three mighties.
 <small><sub>**BSB:**</sub></small>
 These were the exploits of Benaiah son of Jehoiada, who won a name along with the three mighty men.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H6213A\|עָשָׂ֔ה]] [[H1141G\|בְּנָיָ֖הוּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3077G\|יְהוֹיָדָ֑ע]] [[H9002\|וְ]][[H9005\|ל]][[H9033\|וֹ]][[H9014\|־]] [[H8034\|שֵׁ֖ם]] [[H9003\|בִּ]][[H7969\|שְׁלוֹשָׁ֥ה]] [[H9009\|הַ]][[H1368\|גִּבֹּרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BENAIAH|BENAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.23|<< 1 Chronicles 11:23]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.25|1 Chronicles 11:25 >>]]</td></tr></table>
 

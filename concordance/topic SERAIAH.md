@@ -9,7 +9,7 @@
 
 - Father of Ezra [[Ezra.7.1|Ezr 7:1]]
 
-- Killed by Nebuchadnezzar [[2Kgs.25.18|2Ki 25:18]]-[[2Kgs.25.21|21]]; [[Jer.52.24|Jer 52:24]]-[[Jer.52.27|27]]
+- Killed by Nebuchadnezzar [[2Kgs.25.18|2Ki 25:18-21]]; [[Jer.52.24|Jer 52:24-27]]
 
 3. An Israelite captain who surrendered to Gedaliah [[2Kgs.25.23|2Ki 25:23]]; [[Jer.40.8|Jer 40:8]]
 

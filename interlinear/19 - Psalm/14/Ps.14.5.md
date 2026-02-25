@@ -1,8 +1,54 @@
+---
+title: Psalm 14:5
+type: Verse
+kjv: "There were they in great fear: for God is in the generation of the righteous."
+bsb: "There they are, overwhelmed with dread, for God is in the company of the righteous."
+hebrew: "שָׁ֤ם׀ פָּ֣חֲדוּ פָ֑חַד כִּֽי־ אֱ֝לֹהִ֗ים בְּד֣וֹר צַדִּֽיק׃"
+pericope: "[[Ps.14.1 The Fool Says There Is No God|The Fool Says There Is No God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 14
+book/chapter: "[[Ps.14|Psalm 14]]"
+chronological_order: 348
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8033G]]"
+- "[[H9015]]"
+- "[[H6342]]"
+- "[[H6343]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H1755]]"
+- "[[H6662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 14:5**<big><big>[[Ps.14.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There were they in great fear: for God [is] in the generation of the righteous.
 <small><sub>**BSB:**</sub></small>
 There they are, overwhelmed with dread, for God is in the company of the righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֤ם]][[H9015\|׀]] [[H6342\|פָּ֣חֲדוּ]] [[H6343\|פָ֑חַד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0430G\|אֱ֝לֹהִ֗ים]] [[H9003\|בְּ]][[H1755\|ד֣וֹר]] [[H6662\|צַדִּֽיק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.14.4|<< Psalms 14:4]]</td><td align="center" style="border:none;">[[Ps.14|Psalms 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14.6|Psalms 14:6 >>]]</td></tr></table>
 

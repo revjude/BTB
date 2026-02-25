@@ -1,8 +1,55 @@
+---
+title: Ezekiel 44:26
+type: Verse
+kjv: "And after he is cleansed, they shall reckon unto him seven days."
+bsb: "and after he is cleansed, he must count off seven days for himself."
+hebrew: "וְאַחֲרֵ֖י טָֽהֳרָת֑וֹ שִׁבְעַ֥ת יָמִ֖ים יִסְפְּרוּ־ לֽוֹ׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H2893]]"
+- "[[H9023]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H5608A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:26**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after he is cleansed, they shall reckon unto him seven days.
 <small><sub>**BSB:**</sub></small>
 and after he is cleansed, he must count off seven days for himself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרֵ֖י]] [[H2893\|טָֽהֳרָת֑]][[H9023\|וֹ]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H5608A\|יִסְפְּרוּ]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.25|<< Ezekiel 44:25]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.27|Ezekiel 44:27 >>]]</td></tr></table>
 

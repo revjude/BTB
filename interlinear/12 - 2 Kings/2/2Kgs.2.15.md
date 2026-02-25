@@ -1,8 +1,71 @@
+---
+title: 2 Kings 2:15
+type: Verse
+kjv: "And when the sons of the prophets which were to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him."
+bsb: "When the sons of the prophets who were watching him from Jericho saw what had happened, they said, “The spirit of Elijah rests on Elisha.” And they went to meet him and bowed down to the ground before him."
+hebrew: "וַיִּרְאֻ֨הוּ בְנֵֽי־ הַנְּבִיאִ֤ים אֲשֶׁר־ בִּֽירִיחוֹ֙ מִנֶּ֔גֶד וַיֹּ֣אמְר֔וּ נָ֛חָה ר֥וּחַ אֵלִיָּ֖הוּ עַל־ אֱלִישָׁ֑ע וַיָּבֹ֙אוּ֙ לִקְרָאת֔וֹ וַיִּשְׁתַּחֲווּ־ ל֖וֹ אָֽרְצָה׃"
+pericope: "[[2Kgs.2.15 Elisha Succeeds Elijah|Elisha Succeeds Elijah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 2
+book/chapter: "[[2Kgs.2|2 Kings 2]]"
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASCENSION|ASCENSION]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic STUDENTS|STUDENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3405G]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H0559]]"
+- "[[H5117]]"
+- "[[H7307G]]"
+- "[[H0452G]]"
+- "[[H5921A]]"
+- "[[H0477]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H7812]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 2:15**<big><big>[[2Kgs.2.15 Elisha Succeeds Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the sons of the prophets which [were] to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.
 <small><sub>**BSB:**</sub></small>
 When the sons of the prophets who were watching him from Jericho saw what had happened, they said, “The spirit of Elijah rests on Elisha.” And they went to meet him and bowed down to the ground before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יִּרְאֻ֨]][[H9033\|הוּ]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֤ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בִּֽ]][[H3405G\|ירִיחוֹ֙]] [[H9006\|מִ]][[H5048\|נֶּ֔גֶד]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H5117\|נָ֛חָה]] [[H7307G\|ר֥וּחַ]] [[H0452G\|אֵלִיָּ֖הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H0477\|אֱלִישָׁ֑ע]] [[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H9005\|לִ]][[H7122G\|קְרָאת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּחֲווּ]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCENSION|ASCENSION]] • [[topic ELISHA|ELISHA]] • [[topic JERICHO|JERICHO]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic SCHOOL|SCHOOL]] • [[topic STUDENTS|STUDENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.14|<< 2 Kings 2:14]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.16|2 Kings 2:16 >>]]</td></tr></table>
 

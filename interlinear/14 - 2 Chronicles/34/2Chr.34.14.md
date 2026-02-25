@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 34:14
+type: Verse
+kjv: "And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses."
+bsb: "While they were bringing out the money that had been taken into the house of the LORD, Hilkiah the priest found the Book of the Law of the LORD given by Moses."
+hebrew: "וּבְהוֹצִיאָ֣ם אֶת־ הַכֶּ֔סֶף הַמּוּבָ֖א בֵּ֣ית יְהוָ֑ה מָצָא֙ חִלְקִיָּ֣הוּ הַכֹּהֵ֔ן אֶת־ סֵ֥פֶר תּֽוֹרַת־ יְהוָ֖ה בְּיַד־ מֹשֶֽׁה׃"
+pericope: "[[2Chr.34.14 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3318H]]"
+- "[[H9048]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H0935P]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H4672]]"
+- "[[H2518H]]"
+- "[[H3548]]"
+- "[[H5612H]]"
+- "[[H8451]]"
+- "[[H3027J]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:14**<big><big>[[2Chr.34.14 Hilkiah Finds the Book of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD [given] by Moses.
 <small><sub>**BSB:**</sub></small>
 While they were bringing out the money that had been taken into the house of the LORD, Hilkiah the priest found the Book of the Law of the LORD given by Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3318H\|הוֹצִיאָ֣]][[H9048\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֔סֶף]] [[H9009\|הַ]][[H0935P\|מּוּבָ֖א]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H4672\|מָצָא֙]] [[H2518H\|חִלְקִיָּ֣הוּ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H0853\|אֶת]][[H9014\|־]] [[H5612H\|סֵ֥פֶר]] [[H8451\|תּֽוֹרַת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HILKIAH|HILKIAH]] • [[topic JOSIAH|JOSIAH]] • [[topic LAW|LAW]] • [[topic MONEY|MONEY]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.13|<< 2 Chronicles 34:13]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.15|2 Chronicles 34:15 >>]]</td></tr></table>
 

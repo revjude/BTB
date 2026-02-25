@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Jesus
+type: Pericope
 pericope: "[[Luke.23.44 The Death of Jesus|The Death of Jesus]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 23
 book/chapter: "[[Luke.23|Luke 23]]"
-genre:
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.23.44]]"
 - "[[Luke.23.45]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.23.49]]"
 ---
 
-[[Luke.23|Luke 23:44 - Luke 23:49]]
+<small>[[Luke.23|Luke 23:44-49]]</small>
 *The Death of Jesus*
 
 [[Luke.23.44|44]] And it was about the sixth hour, and there was a darkness over all the earth until the ninth hour.

@@ -1,10 +1,70 @@
+---
+title: Acts 16:27
+type: Verse
+kjv: "And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled."
+bsb: "When the jailer woke up and saw the prison doors open, he drew his sword and was about to kill himself, presuming that the prisoners had escaped."
+greek: "ἔξυπνος δὲ γενόμενος ὁ δεσμοφύλαξ καὶ ἰδὼν ἀνεῳγμένας τὰς θύρας τῆς φυλακῆς, σπασάμενος τὴν μάχαιραν ἤμελλεν ἑαυτὸν ἀναιρεῖν νομίζων ἐκπεφευγέναι τοὺς δεσμίους.¶"
+pericope: "[[Acts.16.25 The Conversion of the Jailer|The Conversion of the Jailer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JAILER (JAILOR)|JAILER (JAILOR)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic SUICIDE|SUICIDE]]"
+strongs:
+- "[[G1853]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G1200]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0455]]"
+- "[[G2374]]"
+- "[[G5438G]]"
+- "[[G4685]]"
+- "[[G3162]]"
+- "[[G3195]]"
+- "[[G1438]]"
+- "[[G0337]]"
+- "[[G3543]]"
+- "[[G1628]]"
+- "[[G1198]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 16:27**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the keeper of the prison awaking out of his sleep, and seeing the prison doors open, he drew out his sword, and would have killed himself, supposing that the prisoners had been fled.
 <small><sub>**BSB:**</sub></small>
 When the jailer woke up and saw the prison doors open, he drew his sword and was about to kill himself, presuming that the prisoners had escaped.
-<small><sub>**Literal:**</sub></small>
-Awoken then having been the jailer and was seeing having opened the doors of the prison, having drawn <the> [his] sword he was about himself to execute supposing to have escaped the prisoners.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.26|<< Acts 16:26]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.28|Acts 16:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1853\|ἔξυπνος]]  [[G1161\|δὲ]]  [[G1096\|γενόμενος]]  [[G3588\|ὁ]]  [[G1200\|δεσμοφύλαξ]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G0455\|ἀνεῳγμένας]]  [[G3588\|τὰς]]  [[G2374\|θύρας]]  [[G3588\|τῆς]]  [[G5438G\|φυλακῆς,]]  [[G4685\|σπασάμενος]]  [[G3588\|τὴν]]  [[G3162\|μάχαιραν]]  [[G3195\|ἤμελλεν]]  [[G1438\|ἑαυτὸν]]  [[G0337\|ἀναιρεῖν]]  [[G3543\|νομίζων]]  [[G1628\|ἐκπεφευγέναι]]  [[G3588\|τοὺς]]  [[G1198\|δεσμίους.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic COWARDICE|COWARDICE]] • [[topic CRIMINALS|CRIMINALS]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic JAILER (JAILOR)|JAILER (JAILOR)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SILAS|SILAS]] • [[topic SUICIDE|SUICIDE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.26|<< Acts 16:26]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.28|Acts 16:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

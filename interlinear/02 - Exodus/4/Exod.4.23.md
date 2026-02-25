@@ -1,8 +1,67 @@
+---
+title: Exodus 4:23
+type: Verse
+kjv: "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn."
+bsb: "and I told you to let My son go so that he may worship Me. But since you have refused to let him go, behold, I will kill your firstborn son!’”"
+hebrew: "וָאֹמַ֣ר אֵלֶ֗יךָ שַׁלַּ֤ח אֶת־ בְּנִי֙ וְיַֽעַבְדֵ֔נִי וַתְּמָאֵ֖ן לְשַׁלְּח֑וֹ הִנֵּה֙ אָנֹכִ֣י הֹרֵ֔ג אֶת־ בִּנְךָ֖ בְּכֹרֶֽךָ׃"
+pericope: "[[Exod.4.18 Moses Leaves for Egypt|Moses Leaves for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5647H]]"
+- "[[H9030]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H2026]]"
+- "[[H9021]]"
+- "[[H1060]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:23**<big><big>[[Exod.4.18 Moses Leaves for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, [even] thy firstborn.
 <small><sub>**BSB:**</sub></small>
 and I told you to let My son go so that he may worship Me. But since you have refused to let him go, behold, I will kill your firstborn son!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H7971H\|שַׁלַּ֤ח]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנִ]][[H9020\|י֙]] [[H9002\|וְ]][[H5647H\|יַֽעַבְדֵ֔]][[H9030\|נִי]] [[H9001\|וַ]][[H3985\|תְּמָאֵ֖ן]] [[H9005\|לְ]][[H7971H\|שַׁלְּח֑]][[H9033\|וֹ]] [[H2009\|הִנֵּה֙]] [[H0595\|אָנֹכִ֣י]] [[H2026\|הֹרֵ֔ג]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בִּנְ]][[H9021\|ךָ֖]] [[H1060\|בְּכֹרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.22|<< Exodus 4:22]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.24|Exodus 4:24 >>]]</td></tr></table>
 

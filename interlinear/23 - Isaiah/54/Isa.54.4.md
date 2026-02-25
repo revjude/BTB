@@ -1,8 +1,62 @@
+---
+title: Isaiah 54:4
+type: Verse
+kjv: "Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more."
+bsb: "Do not be afraid, for you will not be put to shame; do not be intimidated, for you will not be humiliated. For you will forget the shame of your youth and will remember no more the reproach of your widowhood."
+hebrew: "אַל־ תִּֽירְאִי֙ כִּי־ לֹ֣א תֵב֔וֹשִׁי וְאַל־ תִּכָּלְמִ֖י כִּ֣י לֹ֣א תַחְפִּ֑ירִי כִּ֣י בֹ֤שֶׁת עֲלוּמַ֙יִךְ֙ תִּשְׁכָּ֔חִי וְחֶרְפַּ֥ת אַלְמְנוּתַ֖יִךְ לֹ֥א תִזְכְּרִי־ עֽוֹד׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H0954]]"
+- "[[H9002]]"
+- "[[H3637]]"
+- "[[H2659]]"
+- "[[H1322]]"
+- "[[H5934]]"
+- "[[H9022]]"
+- "[[H7911]]"
+- "[[H2781]]"
+- "[[H0491]]"
+- "[[H2142]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 54:4**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear not; for thou shalt not be ashamed: neither be thou confounded; for thou shalt not be put to shame: for thou shalt forget the shame of thy youth, and shalt not remember the reproach of thy widowhood any more.
 <small><sub>**BSB:**</sub></small>
 Do not be afraid, for you will not be put to shame; do not be intimidated, for you will not be humiliated. For you will forget the shame of your youth and will remember no more the reproach of your widowhood.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְאִי֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H0954\|תֵב֔וֹשִׁי]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H3637\|תִּכָּלְמִ֖י]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֣א]] [[H2659\|תַחְפִּ֑ירִי]] [[H3588A\|כִּ֣י]] [[H1322\|בֹ֤שֶׁת]] [[H5934\|עֲלוּמַ֙יִ]][[H9022\|ךְ֙]] [[H7911\|תִּשְׁכָּ֔חִי]] [[H9002\|וְ]][[H2781\|חֶרְפַּ֥ת]] [[H0491\|אַלְמְנוּתַ֖יִ]][[H9022\|ךְ]] [[H3808\|לֹ֥א]] [[H2142\|תִזְכְּרִי]][[H9014\|־]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic DIVORCE|DIVORCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.3|<< Isaiah 54:3]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.5|Isaiah 54:5 >>]]</td></tr></table>
 

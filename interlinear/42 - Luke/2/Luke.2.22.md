@@ -1,10 +1,61 @@
+---
+title: Luke 2:22
+type: Verse
+kjv: "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;"
+bsb: "And when the time of purification according to the Law of Moses was complete, His parents brought Him to Jerusalem to present Him to the Lord"
+greek: "καὶ ὅτε ἐπλήσθησαν αἱ ἡμέραι τοῦ καθαρισμοῦ αὐτῶν κατὰ τὸν νόμον Μωϋσέως, ἀνήγαγον αὐτὸν εἰς Ἱεροσόλυμα παραστῆσαι τῷ κυρίῳ"
+pericope: "[[Luke.2.21 Jesus Presented at the Temple|Jesus Presented at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G4130]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2512]]"
+- "[[G0846]]"
+- "[[G2596]]"
+- "[[G3551]]"
+- "[[G3475]]"
+- "[[G0321]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G3936]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Luke 2:22**<big><big>[[Luke.2.21 Jesus Presented at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present [him] to the Lord;
 <small><sub>**BSB:**</sub></small>
 And when the time of purification according to the Law of Moses was complete, His parents brought Him to Jerusalem to present Him to the Lord
-<small><sub>**Literal:**</sub></small>
-And when were fulfilled the days of the purification of them according to the law of Moses, they brought Him to Jerusalem to present to the Lord<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.21|<< Luke 2:21]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.23|Luke 2:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3753\|ὅτε]]  [[G4130\|ἐπλήσθησαν]]  [[G3588\|αἱ]]  [[G2250\|ἡμέραι]]  [[G3588\|τοῦ]]  [[G2512\|καθαρισμοῦ]]  [[G0846\|αὐτῶν]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G3475\|Μωϋσέως,]]  [[G0321\|ἀνήγαγον]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G3936\|παραστῆσαι]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PURIFICATION|PURIFICATION]] • [[topic TEMPLE|TEMPLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.21|<< Luke 2:21]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.23|Luke 2:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 2:22** is...
 > $\quad$ alluding to: [[LXX.Lev.12.3|Lev 12:3-4]]

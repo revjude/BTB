@@ -1,8 +1,66 @@
+---
+title: Ruth 4:15
+type: Verse
+kjv: "And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him."
+bsb: "He will renew your life and sustain you in your old age. For your daughter-in-law, who loves you and is better to you than seven sons, has given him birth.”"
+hebrew: "וְהָ֤יָה לָךְ֙ לְמֵשִׁ֣יב נֶ֔פֶשׁ וּלְכַלְכֵּ֖ל אֶת־ שֵׂיבָתֵ֑ךְ כִּ֣י כַלָּתֵ֤ךְ אֲֽשֶׁר־ אֲהֵבַ֙תֶךְ֙ יְלָדַ֔תּוּ אֲשֶׁר־ הִיא֙ ט֣וֹבָה לָ֔ךְ מִשִּׁבְעָ֖ה בָּנִֽים׃"
+pericope: "[[Ruth.4.13 Boaz Marries Ruth|Boaz Marries Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H7725H]]"
+- "[[H5315H]]"
+- "[[H9002]]"
+- "[[H3557]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7872]]"
+- "[[H9022]]"
+- "[[H3588A]]"
+- "[[H3618H]]"
+- "[[H0834A]]"
+- "[[H0157G]]"
+- "[[H3205]]"
+- "[[H9033]]"
+- "[[H1931]]"
+- "[[H2896A]]"
+- "[[H9006]]"
+- "[[H7651]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 4:15**<big><big>[[Ruth.4.13 Boaz Marries Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall be unto thee a restorer of [thy] life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.
 <small><sub>**BSB:**</sub></small>
 He will renew your life and sustain you in your old age. For your daughter-in-law, who loves you and is better to you than seven sons, has given him birth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָ֤יָה]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H9005\|לְ]][[H7725H\|מֵשִׁ֣יב]] [[H5315H\|נֶ֔פֶשׁ]] [[H9002\|וּ]][[H9005\|לְ]][[H3557\|כַלְכֵּ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H7872\|שֵׂיבָתֵ֑]][[H9022\|ךְ]] [[H3588A\|כִּ֣י]] [[H3618H\|כַלָּתֵ֤]][[H9022\|ךְ]] [[H0834A\|אֲֽשֶׁר]][[H9014\|־]] [[H0157G\|אֲהֵבַ֙תֶ]][[H9032\|ךְ֙]] [[H3205\|יְלָדַ֔תּ]][[H9033\|וּ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|הִיא֙]] [[H2896A\|ט֣וֹבָה]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9006\|מִ]][[H7651\|שִּׁבְעָ֖ה]] [[H1121A\|בָּנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]] • [[topic INHERITANCE|INHERITANCE]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.14|<< Ruth 4:14]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.16|Ruth 4:16 >>]]</td></tr></table>
 

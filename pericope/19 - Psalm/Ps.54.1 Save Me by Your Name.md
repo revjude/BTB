@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Save Me by Your Name
+type: Pericope
 pericope: "[[Ps.54.1 Save Me by Your Name|Save Me by Your Name]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 54
 book/chapter: "[[Ps.54|Psalm 54]]"
-genre:
+chronological_order: 314
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.54.0]]"
 - "[[Ps.54.1]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.54.7]]"
 ---
 
-[[Ps.54|Psalm 54:1 - Psalm 54:7]]
+<small>[[Ps.54|Psalm 54:1-7]]</small>
 *Save Me by Your Name*
 
 [[Ps.54.0|0]] To the chief Musician on Neginoth, Maschil, \[A Psalm\] of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?

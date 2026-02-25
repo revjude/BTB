@@ -1,8 +1,60 @@
+---
+title: Psalm 17:3
+type: Verse
+kjv: "Thou hast proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress."
+bsb: "You have tried my heart; You have visited me in the night. You have tested me and found no evil; I have resolved not to sin with my mouth."
+hebrew: "בָּ֘חַ֤נְתָּ לִבִּ֨י׀ פָּ֘קַ֤דְתָּ לַּ֗יְלָה צְרַפְתַּ֥נִי בַל־ תִּמְצָ֑א זַ֝מֹּתִ֗י בַּל־ יַעֲבָר־ פִּֽי׃"
+pericope: "[[Ps.17.1 Hear My Righteous Plea|Hear My Righteous Plea]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 17
+book/chapter: "[[Ps.17|Psalm 17]]"
+chronological_order: 351
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H0974]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H6485I]]"
+- "[[H3915]]"
+- "[[H6884]]"
+- "[[H9030]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H2161]]"
+- "[[H5674D]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 17:3**<big><big>[[Ps.17.1 Hear My Righteous Plea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast proved mine heart; thou hast visited [me] in the night; thou hast tried me, [and] shalt find nothing; I am purposed [that] my mouth shall not transgress.
 <small><sub>**BSB:**</sub></small>
 You have tried my heart; You have visited me in the night. You have tested me and found no evil; I have resolved not to sin with my mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0974\|בָּ֘חַ֤נְתָּ]] [[H3820A\|לִבִּ֨]][[H9020\|י]][[H9015\|׀]] [[H6485I\|פָּ֘קַ֤דְתָּ]] [[H3915\|לַּ֗יְלָה]] [[H6884\|צְרַפְתַּ֥]][[H9030\|נִי]] [[H1077\|בַל]][[H9014\|־]] [[H4672\|תִּמְצָ֑א]] [[H2161\|זַ֝מֹּתִ֗י]] [[H1077\|בַּל]][[H9014\|־]] [[H5674D\|יַעֲבָר]][[H9014\|־]] [[H6310G\|פִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.17.2|<< Psalms 17:2]]</td><td align="center" style="border:none;">[[Ps.17|Psalms 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.17.4|Psalms 17:4 >>]]</td></tr></table>
 

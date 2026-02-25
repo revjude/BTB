@@ -1,8 +1,78 @@
+---
+title: Malachi 1:6
+type: Verse
+kjv: "A son honoureth his father, and a servant his master: if then I be a father, where is mine honour? and if I be a master, where is my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?"
+bsb: "“A son honors his father, and a servant his master. But if I am a father, where is My honor? And if I am a master, where is your fear of Me?” says the LORD of Hosts to you priests who despise My name. “But you ask, ‘How have we despised Your name?’"
+hebrew: "בֵּ֛ן יְכַבֵּ֥ד אָ֖ב וְעֶ֣בֶד אֲדֹנָ֑יו וְאִם־ אָ֣ב אָ֣נִי אַיֵּ֣ה כְבוֹדִ֡י וְאִם־ אֲדוֹנִ֣ים אָנִי֩ אַיֵּ֨ה מוֹרָאִ֜י אָמַ֣ר׀ יְהוָ֣ה צְבָא֗וֹת לָכֶם֙ הַכֹּֽהֲנִים֙ בּוֹזֵ֣י שְׁמִ֔י וַאֲמַרְתֶּ֕ם בַּמֶּ֥ה בָזִ֖ינוּ אֶת־ שְׁמֶֽךָ׃"
+pericope: "[[Mal.1.6 The Polluted Offerings|The Polluted Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H1121A]]"
+- "[[H3513G]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H0346]]"
+- "[[H3519]]"
+- "[[H9020]]"
+- "[[H4172A]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0959]]"
+- "[[H8034]]"
+- "[[H9001]]"
+- "[[H9003]]"
+- "[[H4100]]"
+- "[[H0853]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 1:6**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A son honoureth [his] father, and a servant his master: if then I [be] a father, where [is] mine honour? and if I [be] a master, where [is] my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?
 <small><sub>**BSB:**</sub></small>
 “A son honors his father, and a servant his master. But if I am a father, where is My honor? And if I am a master, where is your fear of Me?” says the LORD of Hosts to you priests who despise My name. “But you ask, ‘How have we despised Your name?’
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֵּ֛ן]] [[H3513G\|יְכַבֵּ֥ד]] [[H0001G\|אָ֖ב]] [[H9002\|וְ]][[H5650\|עֶ֣בֶד]] [[H0113\|אֲדֹנָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0001G\|אָ֣ב]] [[H0589\|אָ֣נִי]] [[H0346\|אַיֵּ֣ה]] [[H3519\|כְבוֹדִ֡]][[H9020\|י]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0113\|אֲדוֹנִ֣ים]] [[H0589\|אָנִי֩]] [[H0346\|אַיֵּ֨ה]] [[H4172A\|מוֹרָאִ֜]][[H9020\|י]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H0959\|בּוֹזֵ֣י]] [[H8034\|שְׁמִ֔]][[H9020\|י]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֕ם]] [[H9003\|בַּ]][[H4100\|מֶּ֥ה]] [[H0959\|בָזִ֖ינוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHILDREN|CHILDREN]] • [[topic FORMALISM|FORMALISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REVERENCE|REVERENCE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.5|<< Malachi 1:5]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.7|Malachi 1:7 >>]]</td></tr></table>
 

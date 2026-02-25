@@ -1,8 +1,61 @@
+---
+title: Genesis 49:31
+type: Verse
+kjv: "There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah."
+bsb: "There Abraham and his wife Sarah are buried, there Isaac and his wife Rebekah are buried, and there I buried Leah."
+hebrew: "שָׁ֣מָּה קָֽבְר֞וּ אֶת־ אַבְרָהָ֗ם וְאֵת֙ שָׂרָ֣ה אִשְׁתּ֔וֹ שָׁ֚מָּה קָבְר֣וּ אֶת־ יִצְחָ֔ק וְאֵ֖ת רִבְקָ֣ה אִשְׁתּ֑וֹ וְשָׁ֥מָּה קָבַ֖רְתִּי אֶת־ לֵאָֽה׃"
+pericope: "[[Gen.49.29 The Death of Jacob|The Death of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAVE|CAVE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MACHPELAH|MACHPELAH]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0085]]"
+- "[[H9002]]"
+- "[[H8283]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H3327]]"
+- "[[H7259]]"
+- "[[H3812]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 49:31**<big><big>[[Gen.49.29 The Death of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.
 <small><sub>**BSB:**</sub></small>
 There Abraham and his wife Sarah are buried, there Isaac and his wife Rebekah are buried, and there I buried Leah.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֣מָּ]][[H9011\|ה]] [[H6912\|קָֽבְר֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0085\|אַבְרָהָ֗ם]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H8283\|שָׂרָ֣ה]] [[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H8033G\|שָׁ֚מָּ]][[H9011\|ה]] [[H6912\|קָבְר֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3327\|יִצְחָ֔ק]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H7259\|רִבְקָ֣ה]] [[H0802H\|אִשְׁתּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H8033G\|שָׁ֥מָּ]][[H9011\|ה]] [[H6912\|קָבַ֖רְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H3812\|לֵאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVE|CAVE]] • [[topic DEATH|DEATH]] • [[topic ISAAC|ISAAC]] • [[topic MACHPELAH|MACHPELAH]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.30|<< Genesis 49:30]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.32|Genesis 49:32 >>]]</td></tr></table>
 

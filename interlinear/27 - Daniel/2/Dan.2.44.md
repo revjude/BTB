@@ -1,8 +1,71 @@
+---
+title: Daniel 2:44
+type: Verse
+kjv: "And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever."
+bsb: "In the days of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will shatter all these kingdoms and bring them to an end, but will itself stand forever."
+aramaic: "וּֽבְיוֹמֵיה֞וֹן דִּ֧י מַלְכַיָּ֣א אִנּ֗וּן יְקִים֩ אֱלָ֨הּ שְׁמַיָּ֤א מַלְכוּ֙ דִּ֤י לְעָלְמִין֙ לָ֣א תִתְחַבַּ֔ל וּמַ֨לְכוּתָ֔ה לְעַ֥ם אָחֳרָ֖ן לָ֣א תִשְׁתְּבִ֑ק תַּדִּ֤ק וְתָסֵיף֙ כָּל־ אִלֵּ֣ין מַלְכְוָתָ֔א וְהִ֖יא תְּק֥וּם לְעָלְמַיָּֽא׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3118]]"
+- "[[H9028]]"
+- "[[H1768]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H0581A]]"
+- "[[H6966I]]"
+- "[[H0426]]"
+- "[[H8065]]"
+- "[[H4437]]"
+- "[[H9005]]"
+- "[[H5957]]"
+- "[[H3809]]"
+- "[[H2255]]"
+- "[[H5972]]"
+- "[[H0321]]"
+- "[[H7662]]"
+- "[[H1855]]"
+- "[[H5487]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H0459]]"
+- "[[H1932]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:44**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, [but] it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
 <small><sub>**BSB:**</sub></small>
 In the days of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will shatter all these kingdoms and bring them to an end, but will itself stand forever.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּֽ]][[H9003\|בְ]][[H3118\|יוֹמֵי]][[H9028\|ה֞וֹן]] [[H1768\|דִּ֧י]] [[H4430\|מַלְכַיָּ֣]][[H9010\|א]] [[H0581A\|אִנּ֗וּן]] [[H6966I\|יְקִים֩]] [[H0426\|אֱלָ֨הּ]] [[H8065\|שְׁמַיָּ֤]][[H9010\|א]] [[H4437\|מַלְכוּ֙]] [[H1768\|דִּ֤י]] [[H9005\|לְ]][[H5957\|עָלְמִין֙]] [[H3809\|לָ֣א]] [[H2255\|תִתְחַבַּ֔ל]] [[H9002\|וּ]][[H4437\|מַ֨לְכוּתָ֔]][[H9010\|ה]] [[H9005\|לְ]][[H5972\|עַ֥ם]] [[H0321\|אָחֳרָ֖ן]] [[H3809\|לָ֣א]] [[H7662\|תִשְׁתְּבִ֑ק]] [[H1855\|תַּדִּ֤ק]] [[H9002\|וְ]][[H5487\|תָסֵיף֙]] [[H3606\|כָּל]][[H9014\|־]] [[H0459\|אִלֵּ֣ין]] [[H4437\|מַלְכְוָתָ֔]][[H9010\|א]] [[H9002\|וְ]][[H1932\|הִ֖יא]] [[H6966I\|תְּק֥וּם]] [[H9005\|לְ]][[H5957\|עָלְמַיָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOLD|GOLD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.43|<< Daniel 2:43]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.45|Daniel 2:45 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

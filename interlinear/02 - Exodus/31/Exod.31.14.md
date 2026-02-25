@@ -1,8 +1,72 @@
+---
+title: Exodus 31:14
+type: Verse
+kjv: "Ye shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth any work therein, that soul shall be cut off from among his people."
+bsb: "Keep the Sabbath, for it is holy to you. Anyone who profanes it must surely be put to death. Whoever does any work on that day must be cut off from among his people."
+hebrew: "וּשְׁמַרְתֶּם֙ אֶת־ הַשַּׁבָּ֔ת כִּ֛י קֹ֥דֶשׁ הִ֖וא לָכֶ֑ם מְחַֽלְלֶ֙יהָ֙ מ֣וֹת יוּמָ֔ת כִּ֗י כָּל־ הָעֹשֶׂ֥ה בָהּ֙ מְלָאכָ֔ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מִקֶּ֥רֶב עַמֶּֽיהָ׃"
+pericope: "[[Exod.31.12 The Sign of the Sabbath|The Sign of the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 31
+book/chapter: "[[Exod.31|Exodus 31]]"
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H3588A]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H2490H]]"
+- "[[H9034]]"
+- "[[H4191]]"
+- "[[H3605]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H4399]]"
+- "[[H3772I]]"
+- "[[H5315J]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H5971B]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 31:14**<big><big>[[Exod.31.12 The Sign of the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall keep the sabbath therefore; for it [is] holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth [any] work therein, that soul shall be cut off from among his people.
 <small><sub>**BSB:**</sub></small>
 Keep the Sabbath, for it is holy to you. Anyone who profanes it must surely be put to death. Whoever does any work on that day must be cut off from among his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H8104G\|שְׁמַרְתֶּם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֔ת]] [[H3588A\|כִּ֛י]] [[H6944G\|קֹ֥דֶשׁ]] [[H1931\|הִ֖וא]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H2490H\|מְחַֽלְלֶ֙י]][[H9034\|הָ֙]] [[H4191\|מ֣וֹת]] [[H4191\|יוּמָ֔ת]] [[H3588A\|כִּ֗י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H6213A\|עֹשֶׂ֥ה]] [[H9003\|בָ]][[H9034\|הּ֙]] [[H4399\|מְלָאכָ֔ה]] [[H9001\|וְ]][[H3772I\|נִכְרְתָ֛ה]] [[H9009\|הַ]][[H5315J\|נֶּ֥פֶשׁ]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H5971B\|עַמֶּֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.13|<< Exodus 31:13]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.15|Exodus 31:15 >>]]</td></tr></table>
 

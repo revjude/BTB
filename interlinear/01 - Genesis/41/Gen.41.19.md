@@ -1,8 +1,74 @@
+---
+title: Genesis 41:19
+type: Verse
+kjv: "And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:"
+bsb: "After them, seven other cows—sickly, ugly, and thin—came up. I have never seen such ugly cows in all the land of Egypt!"
+hebrew: "וְהִנֵּ֞ה שֶֽׁבַע־ פָּר֤וֹת אֲחֵרוֹת֙ עֹל֣וֹת אַחֲרֵיהֶ֔ן דַּלּ֨וֹת וְרָע֥וֹת תֹּ֛אַר מְאֹ֖ד וְרַקּ֣וֹת בָּשָׂ֑ר לֹֽא־ רָאִ֧יתִי כָהֵ֛נָּה בְּכָל־ אֶ֥רֶץ מִצְרַ֖יִם לָרֹֽעַ׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7651]]"
+- "[[H9014]]"
+- "[[H6510]]"
+- "[[H0312]]"
+- "[[H5927G]]"
+- "[[H0310A]]"
+- "[[H9039]]"
+- "[[H1803B]]"
+- "[[H7451H]]"
+- "[[H8389]]"
+- "[[H3966]]"
+- "[[H7534]]"
+- "[[H1320]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9004]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H7455]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:19**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, seven other kine came up after them, poor and very ill favoured and leanfleshed, such as I never saw in all the land of Egypt for badness:
 <small><sub>**BSB:**</sub></small>
 After them, seven other cows—sickly, ugly, and thin—came up. I have never seen such ugly cows in all the land of Egypt!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֞ה]] [[H7651\|שֶֽׁבַע]][[H9014\|־]] [[H6510\|פָּר֤וֹת]] [[H0312\|אֲחֵרוֹת֙]] [[H5927G\|עֹל֣וֹת]] [[H0310A\|אַחֲרֵי]][[H9039\|הֶ֔ן]] [[H1803B\|דַּלּ֨וֹת]] [[H9002\|וְ]][[H7451H\|רָע֥וֹת]] [[H8389\|תֹּ֛אַר]] [[H3966\|מְאֹ֖ד]] [[H9002\|וְ]][[H7534\|רַקּ֣וֹת]] [[H1320\|בָּשָׂ֑ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|רָאִ֧יתִי]] [[H9004\|כָ]][[H9039\|הֵ֛נָּה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H9005\|לָ]][[H7455\|רֹֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.18|<< Genesis 41:18]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.20|Genesis 41:20 >>]]</td></tr></table>
 

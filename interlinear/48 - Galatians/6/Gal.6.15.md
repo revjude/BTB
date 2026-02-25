@@ -1,10 +1,57 @@
+---
+title: Galatians 6:15
+type: Verse
+kjv: "For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature."
+bsb: "For neither circumcision nor uncircumcision means anything. What counts is a new creation."
+greek: "ἐν Χριστῷ Ἰησοῦ οὔτε γὰρ περιτομή τί ἐστιν οὔτε ἀκροβυστία ἀλλὰ καινὴ κτίσις."
+pericope: "[[Gal.6.11 Final Warnings and Blessings|Final Warnings and Blessings]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CREATURE|CREATURE]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3777]]"
+- "[[G1063]]"
+- "[[G4061]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G0203]]"
+- "[[G0235]]"
+- "[[G2537]]"
+- "[[G2937]]"
+texts:
+- K
+- NKO
+- N(K)O
+---
+
 **Galatians 6:15**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.
 <small><sub>**BSB:**</sub></small>
 For neither circumcision nor uncircumcision means anything. What counts is a new creation.
-<small><sub>**Literal:**</sub></small>
-in Christ Jesus Neither for circumcision anything is nor uncircumcision instead a new creation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.14|<< Galatians 6:14]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.16|Galatians 6:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3777\|οὔτε]]  [[G1063\|γὰρ]]  [[G4061\|περιτομή]]  [[G5101\|τί]]  [[G1510\|ἐστιν]]  [[G3777\|οὔτε]]  [[G0203\|ἀκροβυστία]]  [[G0235\|ἀλλὰ]]  [[G2537\|καινὴ]]  [[G2937\|κτίσις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREATURE|CREATURE]] • [[topic HOLINESS|HOLINESS]] • [[topic ORDINANCE|ORDINANCE]] • [[topic REGENERATION|REGENERATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.14|<< Galatians 6:14]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.16|Galatians 6:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

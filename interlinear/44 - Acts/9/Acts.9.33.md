@@ -1,10 +1,61 @@
+---
+title: Acts 9:33
+type: Verse
+kjv: "And there he found a certain man named AEneas, which had kept his bed eight years, and was sick of the palsy."
+bsb: "There he found a man named Aeneas who had been paralyzed and bedridden for eight years."
+greek: "εὗρεν δὲ ἐκεῖ ἄνθρωπόν τινα ὀνόματι Αἰνέαν ἐξ ἐτῶν ὀκτὼ κατακείμενον ἐπὶ κραβάττου ὃς ἦν παραλελυμένος."
+pericope: "[[Acts.9.31 The Healing of Aeneas|The Healing of Aeneas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AENEAS|AENEAS]]"
+- "[[topic LYDDA|LYDDA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PARALYSIS|PARALYSIS]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2147]]"
+- "[[G1161]]"
+- "[[G1563]]"
+- "[[G0444]]"
+- "[[G5100]]"
+- "[[G3686]]"
+- "[[G0132]]"
+- "[[G1537]]"
+- "[[G2094]]"
+- "[[G3638]]"
+- "[[G2621]]"
+- "[[G1909]]"
+- "[[G2895]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3886]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 9:33**<big><big>[[Acts.9.31 The Healing of Aeneas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there he found a certain man named AEneas, which had kept his bed eight years, and was sick of the palsy.
 <small><sub>**BSB:**</sub></small>
 There he found a man named Aeneas who had been paralyzed and bedridden for eight years.
-<small><sub>**Literal:**</sub></small>
-He found then there a man certain named Aeneas for years eight lying on a bed who was paralyzed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.32|<< Acts 9:32]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.34|Acts 9:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2147\|εὗρεν]]  [[G1161\|δὲ]]  [[G1563\|ἐκεῖ]]  [[G0444\|ἄνθρωπόν]]  [[G5100\|τινα]]  [[G3686\|ὀνόματι]]  [[G0132\|Αἰνέαν]]  [[G1537\|ἐξ]]  [[G2094\|ἐτῶν]]  [[G3638\|ὀκτὼ]]  [[G2621\|κατακείμενον]]  [[G1909\|ἐπὶ]]  [[G2895\|κραβάττου]]  [[G3739\|ὃς]]  [[G1510\|ἦν]]  [[G3886\|παραλελυμένος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AENEAS|AENEAS]] • [[topic LYDDA|LYDDA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PARALYSIS|PARALYSIS]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.32|<< Acts 9:32]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.34|Acts 9:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: Hebrews 13:17
+type: Verse
+kjv: "Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you."
+bsb: "Obey your leaders and submit to them, for they watch over your souls as those who must give an account. To this end, allow them to lead with joy and not with grief, for that would be of no advantage to you."
+greek: "Πείθεσθε τοῖς ἡγουμένοις ὑμῶν καὶ ὑπείκετε· αὐτοὶ γὰρ ἀγρυπνοῦσιν ὑπὲρ τῶν ψυχῶν ὑμῶν ὡς λόγον ἀποδώσοντες, ἵνα μετὰ χαρᾶς τοῦτο ποιῶσιν καὶ μὴ στενάζοντες· ἀλυσιτελὲς γὰρ ὑμῖν τοῦτο.¶"
+pericope: "[[Heb.13.15 Sacrifice, Obedience, and Prayer|Sacrifice, Obedience, and Prayer]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G3982]]"
+- "[[G3588]]"
+- "[[G2233]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G5226]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G0069]]"
+- "[[G5228]]"
+- "[[G5590G]]"
+- "[[G5613]]"
+- "[[G3056]]"
+- "[[G0591]]"
+- "[[G2443]]"
+- "[[G3326]]"
+- "[[G5479]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G3361]]"
+- "[[G4727]]"
+- "[[G0255]]"
+texts:
+- NKO
+---
+
 **Hebrews 13:17**<big><big>[[Heb.13.15 Sacrifice, Obedience, and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that [is] unprofitable for you.
 <small><sub>**BSB:**</sub></small>
 Obey your leaders and submit to them, for they watch over your souls as those who must give an account. To this end, allow them to lead with joy and not with grief, for that would be of no advantage to you.
-<small><sub>**Literal:**</sub></small>
-do obey to those leading you and do be submissive; they themselves for watch over the souls of you as an account to be giving that with joy this they may do and not groaning; unprofitable indeed for you [is] this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.16|<< Hebrews 13:16]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.18|Hebrews 13:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3982\|Πείθεσθε]]  [[G3588\|τοῖς]]  [[G2233\|ἡγουμένοις]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G5226\|ὑπείκετε·]]  [[G0846\|αὐτοὶ]]  [[G1063\|γὰρ]]  [[G0069\|ἀγρυπνοῦσιν]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῶν]]  [[G5590G\|ψυχῶν]]  [[G4771\|ὑμῶν]]  [[G5613\|ὡς]]  [[G3056\|λόγον]]  [[G0591\|ἀποδώσοντες,]]  [[G2443\|ἵνα]]  [[G3326\|μετὰ]]  [[G5479\|χαρᾶς]]  [[G3778\|τοῦτο]]  [[G4160G\|ποιῶσιν]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G4727\|στενάζοντες·]]  [[G0255\|ἀλυσιτελὲς]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3778\|τοῦτο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.16|<< Hebrews 13:16]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.18|Hebrews 13:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

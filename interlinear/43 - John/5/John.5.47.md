@@ -1,10 +1,52 @@
+---
+title: John 5:47
+type: Verse
+kjv: "But if ye believe not his writings, how shall ye believe my words?"
+bsb: "But since you do not believe what he wrote, how will you believe what I say?”"
+jesus_said: "But if ye believe not his writings, how shall ye believe my words?"
+greek: "εἰ δὲ τοῖς ἐκείνου γράμμασιν οὐ πιστεύετε, πῶς τοῖς ἐμοῖς ῥήμασιν πιστεύσετε;¶"
+pericope: "[[John.5.39 The Witness of Scripture|The Witness of Scripture]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1565]]"
+- "[[G1121]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G4459]]"
+- "[[G1473]]"
+- "[[G4487]]"
+texts:
+- NKO
+---
+
 **John 5:47**<big><big>[[John.5.39 The Witness of Scripture|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if ye believe not his writings, how shall ye believe my words?
 <small><sub>**BSB:**</sub></small>
 But since you do not believe what he wrote, how will you believe what I say?”
-<small><sub>**Literal:**</sub></small>
-If now <the> in his writings not you believe, how <the> in My declarations will you believe?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.46|<< John 5:46]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.1|John 6:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3588\|τοῖς]]  [[G1565\|ἐκείνου]]  [[G1121\|γράμμασιν]]  [[G3756\|οὐ]]  [[G4100\|πιστεύετε,]]  [[G4459\|πῶς]]  [[G3588\|τοῖς]]  [[G1473\|ἐμοῖς]]  [[G4487\|ῥήμασιν]]  [[G4100\|πιστεύσετε;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic UNBELIEF|UNBELIEF]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.46|<< John 5:46]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.1|John 6:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

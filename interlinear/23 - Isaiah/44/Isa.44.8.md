@@ -1,8 +1,67 @@
+---
+title: Isaiah 44:8
+type: Verse
+kjv: "Fear ye not, neither be afraid: have not I told thee from that time, and have declared it? ye are even my witnesses. Is there a God beside me? yea, there is no God; I know not any."
+bsb: "Do not tremble or fear. Have I not told you and declared it long ago? You are My witnesses! Is there any God but Me? There is no other Rock; I know not one.”"
+hebrew: "אַֽל־ תִּפְחֲדוּ֙ וְאַל־ תִּרְה֔וּ הֲלֹ֥א מֵאָ֛ז הִשְׁמַעְתִּ֥יךָ וְהִגַּ֖דְתִּי וְאַתֶּ֣ם עֵדָ֑י הֲיֵ֤שׁ אֱל֙וֹהַּ֙ מִבַּלְעָדַ֔י וְאֵ֥ין צ֖וּר בַּל־ יָדָֽעְתִּי׃"
+pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H6342]]"
+- "[[H9002]]"
+- "[[H7297]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H0227B]]"
+- "[[H8085I]]"
+- "[[H9031]]"
+- "[[H5046]]"
+- "[[H0859D]]"
+- "[[H5707]]"
+- "[[H9020]]"
+- "[[H3426]]"
+- "[[H0433]]"
+- "[[H1107]]"
+- "[[H9030]]"
+- "[[H0369]]"
+- "[[H6697H]]"
+- "[[H1077]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:8**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear ye not, neither be afraid: have not I told thee from that time, and have declared [it]? ye [are] even my witnesses. Is there a God beside me? yea, [there is] no God; I know not [any].
 <small><sub>**BSB:**</sub></small>
 Do not tremble or fear. Have I not told you and declared it long ago? You are My witnesses! Is there any God but Me? There is no other Rock; I know not one.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַֽל]][[H9014\|־]] [[H6342\|תִּפְחֲדוּ֙]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H7297\|תִּרְה֔וּ]] [[H9008\|הֲ]][[H3808\|לֹ֥א]] [[H9006\|מֵ]][[H0227B\|אָ֛ז]] [[H8085I\|הִשְׁמַעְתִּ֥י]][[H9031\|ךָ]] [[H9002\|וְ]][[H5046\|הִגַּ֖דְתִּי]] [[H9002\|וְ]][[H0859D\|אַתֶּ֣ם]] [[H5707\|עֵדָ֑]][[H9020\|י]] [[H9008\|הֲ]][[H3426\|יֵ֤שׁ]] [[H0433\|אֱל֙וֹהַּ֙]] [[H9006\|מִ]][[H1107\|בַּלְעָדַ֔]][[H9030\|י]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H6697H\|צ֖וּר]] [[H1077\|בַּל]][[H9014\|־]] [[H3045\|יָדָֽעְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.7|<< Isaiah 44:7]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.9|Isaiah 44:9 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Is My Rock
+type: Pericope
 pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
-verse_count: 51
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 18
 book/chapter: "[[Ps.18|Psalm 18]]"
-genre:
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 51
 verses:
 - "[[Ps.18.0]]"
 - "[[Ps.18.1]]"
@@ -72,7 +79,7 @@ verses:
 - "[[Ps.18.50]]"
 ---
 
-[[Ps.18|Psalm 18:1 - Psalm 18:50]]
+<small>[[Ps.18|Psalm 18:1-50]]</small>
 *The LORD Is My Rock*
 
 [[Ps.18.0|0]] To the chief Musician, \[A Psalm\] of David, the servant of the LORD, who spake unto the LORD the words of this song in the day \[that\] the LORD delivered him from the hand of all his enemies, and from the hand of Saul: And he said,

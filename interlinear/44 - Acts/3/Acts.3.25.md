@@ -1,10 +1,66 @@
+---
+title: Acts 3:25
+type: Verse
+kjv: "Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed."
+bsb: "And you are sons of the prophets and of the covenant God made with your fathers when He said to Abraham, ‘Through your offspring all the families of the earth will be blessed.’"
+greek: "ὑμεῖς ἐστε οἱ υἱοὶ τῶν προφητῶν καὶ τῆς διαθήκης ἧς διέθετο ὁ θεὸς πρὸς τοὺς πατέρας ὑμῶν λέγων πρὸς Ἀβραάμ· καὶ ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς."
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G4396]]"
+- "[[G2532]]"
+- "[[G1242]]"
+- "[[G3739]]"
+- "[[G1303]]"
+- "[[G2316]]"
+- "[[G4314]]"
+- "[[G3962]]"
+- "[[G3004G]]"
+- "[[G0011]]"
+- "[[G1722]]"
+- "[[G4690G]]"
+- "[[G1757]]"
+- "[[G3956]]"
+- "[[G3965]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- no
+- N(K)O
+- NK(o)
+---
+
 **Acts 3:25**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye are the children of the prophets, and of the covenant which God made with our fathers, saying unto Abraham, And in thy seed shall all the kindreds of the earth be blessed.
 <small><sub>**BSB:**</sub></small>
 And you are sons of the prophets and of the covenant God made with your fathers when He said to Abraham, ‘Through your offspring all the families of the earth will be blessed.’
-<small><sub>**Literal:**</sub></small>
-You yourselves are the sons of the prophets and of the covenant that made <the> God with the fathers of you saying to Abraham; And in the seed of you will be blessed all the families of the earth.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.24|<< Acts 3:24]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.26|Acts 3:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1510\|ἐστε]]  [[G3588\|οἱ]]  [[G5207\|υἱοὶ]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G1242\|διαθήκης]]  [[G3739\|ἧς]]  [[G1303\|διέθετο]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3962\|πατέρας]]  [[G4771\|ὑμῶν]]  [[G3004G\|λέγων]]  [[G4314\|πρὸς]]  [[G0011\|Ἀβραάμ·]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4690G\|σπέρματί]]  [[G4771\|σου]]  [[G1757\|ἐνευλογηθήσονται]]  [[G3956\|πᾶσαι]]  [[G3588\|αἱ]]  [[G3965\|πατριαὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.24|<< Acts 3:24]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.26|Acts 3:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 3:25** is...
 > $\quad$ alluding to: [[LXX.Gen.12.3|Gen 12:3]] ☩ [[LXX.Gen.28.14|Gen 28:14]]

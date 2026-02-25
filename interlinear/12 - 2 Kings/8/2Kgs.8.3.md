@@ -1,8 +1,67 @@
+---
+title: 2 Kings 8:3
+type: Verse
+kjv: "And it came to pass at the seven years’ end, that the woman returned out of the land of the Philistines: and she went forth to cry unto the king for her house and for her land."
+bsb: "At the end of seven years, when the woman returned from the land of the Philistines, she went to the king to appeal for her house and her land."
+hebrew: "וַיְהִ֗י מִקְצֵה֙ שֶׁ֣בַע שָׁנִ֔ים וַתָּ֥שָׁב הָאִשָּׁ֖ה מֵאֶ֣רֶץ פְּלִשְׁתִּ֑ים וַתֵּצֵא֙ לִצְעֹ֣ק אֶל־ הַמֶּ֔לֶךְ אֶל־ בֵּיתָ֖הּ וְאֶל־ שָׂדָֽהּ׃"
+pericope: "[[2Kgs.8.1 The Shunammite’s Land Restored|The Shunammite’s Land Restored]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H7725G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0776G]]"
+- "[[H6430G]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H1004B]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:3**<big><big>[[2Kgs.8.1 The Shunammite’s Land Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the seven years’ end, that the woman returned out of the land of the Philistines: and she went forth to cry unto the king for her house and for her land.
 <small><sub>**BSB:**</sub></small>
 At the end of seven years, when the woman returned from the land of the Philistines, she went to the king to appeal for her house and her land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9006\|מִ]][[H7097A\|קְצֵה֙]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֔ים]] [[H9001\|וַ]][[H7725G\|תָּ֥שָׁב]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֖ה]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H3318G\|תֵּצֵא֙]] [[H9005\|לִ]][[H6817\|צְעֹ֣ק]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּיתָ֖]][[H9024\|הּ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H7704G\|שָׂדָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic LAND|LAND]] • [[topic PETITION|PETITION]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.2|<< 2 Kings 8:2]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.4|2 Kings 8:4 >>]]</td></tr></table>
 

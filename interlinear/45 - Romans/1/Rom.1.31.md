@@ -1,10 +1,51 @@
+---
+title: Romans 1:31
+type: Verse
+kjv: "Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:"
+bsb: "They are senseless, faithless, heartless, merciless."
+greek: "ἀσυνέτους, ἀσυνθέτους, ἀστόργους ἀσπόνδους, ἀνελεήμονας,"
+pericope: "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CRIME|CRIME]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic ROME|ROME]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0801]]"
+- "[[G0802]]"
+- "[[G0794]]"
+- "[[G0786]]"
+- "[[G0415]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 1:31**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:
 <small><sub>**BSB:**</sub></small>
 They are senseless, faithless, heartless, merciless.
-<small><sub>**Literal:**</sub></small>
-foolish, untrustworthy, heartless implacable, unmerciful,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.30|<< Romans 1:30]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.32|Romans 1:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0801\|ἀσυνέτους,]]  [[G0802\|ἀσυνθέτους,]]  [[G0794\|ἀστόργους]]  [[G0786\|ἀσπόνδους,]]  [[G0415\|ἀνελεήμονας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic CHARACTER|CHARACTER]] • [[topic CRIME|CRIME]] • [[topic GENTILES|GENTILES]] • [[topic MALICE|MALICE]] • [[topic ROME|ROME]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.30|<< Romans 1:30]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.32|Romans 1:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

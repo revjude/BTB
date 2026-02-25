@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 25:20
+type: Verse
+kjv: "But Amaziah would not hear; for it came of God, that he might deliver them into the hand of their enemies, because they sought after the gods of Edom."
+bsb: "But Amaziah would not listen, for this had come from God in order to deliver them into the hand of Jehoash, because they had sought the gods of Edom."
+hebrew: "וְלֹא־ שָׁמַ֣ע אֲמַצְיָ֔הוּ כִּ֤י מֵהָֽאֱלֹהִים֙ הִ֔יא לְמַ֖עַן תִּתָּ֣ם בְּיָ֑ד כִּ֣י דָֽרְשׁ֔וּ אֵ֖ת אֱלֹהֵ֥י אֱדֽוֹם׃"
+pericope: "[[2Chr.25.17 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0558G]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H1931]]"
+- "[[H4616]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H0430]]"
+- "[[H0123G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:20**<big><big>[[2Chr.25.17 Jehoash Defeats Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Amaziah would not hear; for it [came] of God, that he might deliver them into the hand [of their enemies], because they sought after the gods of Edom.
 <small><sub>**BSB:**</sub></small>
 But Amaziah would not listen, for this had come from God in order to deliver them into the hand of Jehoash, because they had sought the gods of Edom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שָׁמַ֣ע]] [[H0558G\|אֲמַצְיָ֔הוּ]] [[H3588A\|כִּ֤י]] [[H9006\|מֵ]][[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H1931\|הִ֔יא]] [[H4616\|לְמַ֖עַן]] [[H5414G\|תִּתָּ֣]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יָ֑ד]] [[H3588A\|כִּ֣י]] [[H1875\|דָֽרְשׁ֔וּ]] [[H0853\|אֵ֖ת]] [[H0430\|אֱלֹהֵ֥י]] [[H0123G\|אֱדֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOASH|JEHOASH]] • [[topic PREDESTINATION|PREDESTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.19|<< 2 Chronicles 25:19]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.21|2 Chronicles 25:21 >>]]</td></tr></table>
 

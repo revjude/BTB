@@ -1,8 +1,59 @@
+---
+title: Psalm 9:16
+type: Verse
+kjv: "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah."
+bsb: "The LORD is known by the justice He brings; the wicked are ensnared by the work of their hands. Higgaion Selah"
+hebrew: "נ֤וֹדַ֨ע׀ יְהוָה֮ מִשְׁפָּ֪ט עָ֫שָׂ֥ה בְּפֹ֣עַל כַּ֭פָּיו נוֹקֵ֣שׁ רָשָׁ֑ע הִגָּי֥וֹן סֶֽלָה׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3045]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H4941G]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H6467]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H5367]]"
+- "[[H7563]]"
+- "[[H1902G]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:16**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD is known [by] the judgment [which] he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.
 <small><sub>**BSB:**</sub></small>
 The LORD is known by the justice He brings; the wicked are ensnared by the work of their hands. Higgaion Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|נ֤וֹדַ֨ע]][[H9015\|׀]] [[H3068G\|יְהוָה֮]] [[H4941G\|מִשְׁפָּ֪ט]] [[H6213A\|עָ֫שָׂ֥ה]] [[H9003\|בְּ]][[H6467\|פֹ֣עַל]] [[H3709G\|כַּ֭פָּי]][[H9023\|ו]] [[H5367\|נוֹקֵ֣שׁ]] [[H7563\|רָשָׁ֑ע]] [[H1902G\|הִגָּי֥וֹן]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic MUSIC|MUSIC]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.15|<< Psalms 9:15]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.17|Psalms 9:17 >>]]</td></tr></table>
 

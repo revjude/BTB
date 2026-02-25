@@ -1,10 +1,61 @@
+---
+title: Matthew 6:7
+type: Verse
+kjv: "But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking."
+bsb: "And when you pray, do not babble on like pagans, for they think that by their many words they will be heard."
+jesus_said: "But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking."
+greek: "προσευχόμενοι δὲ μὴ βατταλογήσητε ὥσπερ οἱ ἐθνικοί· δοκοῦσιν γὰρ ὅτι ἐν τῇ πολυλογίᾳ αὐτῶν εἰσακουσθήσονται."
+pericope: "[[Matt.6.5 The Lord’s Prayer|The Lord’s Prayer]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[G4336]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G0945]]"
+- "[[G5618]]"
+- "[[G3588]]"
+- "[[G1482]]"
+- "[[G1380]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G4180]]"
+- "[[G0846]]"
+- "[[G1522]]"
+texts:
+- NKO
+---
+
 **Matthew 6:7**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when ye pray, use not vain repetitions, as the heathen [do]: for they think that they shall be heard for their much speaking.
 <small><sub>**BSB:**</sub></small>
 And when you pray, do not babble on like pagans, for they think that by their many words they will be heard.
-<small><sub>**Literal:**</sub></small>
-Praying now not may use vain repetitions like the pagans; they think for that in the many words of them they will be heard.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.6|<< Matthew 6:6]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.8|Matthew 6:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4336\|προσευχόμενοι]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G0945\|βατταλογήσητε]]  [[G5618\|ὥσπερ]]  [[G3588\|οἱ]]  [[G1482\|ἐθνικοί·]]  [[G1380\|δοκοῦσιν]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4180\|πολυλογίᾳ]]  [[G0846\|αὐτῶν]]  [[G1522\|εἰσακουσθήσονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GENTILES|GENTILES]] • [[topic MOTIVE|MOTIVE]] • [[topic PHARISEES|PHARISEES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic VANITY|VANITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.6|<< Matthew 6:6]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.8|Matthew 6:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

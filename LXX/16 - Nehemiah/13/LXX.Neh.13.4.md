@@ -1,6 +1,53 @@
+---
+title: LXX Nehemiah 13:4
+type: Verse
+lxx: "And before this Eliashib the priest lived in the treasury of the house of our God, near Tobiah."
+greek: "και προ τούτου Ελιασίβ ο ιερεύς οίκων εν γαζοφυλακίω οίκου θεού ημων εγγιών Τωβία"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ELIASHIB|ELIASHIB]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G4253]]"
+- "[[G3778]]"
+- "[[H0475]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G3611]]"
+- "[[G1722]]"
+- "[[G1049]]"
+- "[[G3624]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1448]]"
+- "[[H2900]]"
+---
+
 **LXX Nehemiah 13:4** 
 <small><sub>**LXX:**</sub></small>
 And before this Eliashib the priest lived in \[the\] treasury of \[the\] house of our God, near Tobiah. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4253\|προ]] [[G3778\|τούτου]] [[H0475\|Ελιασίβ]] [[G3588\|ο]] [[G2409\|ιερεύς]] [[G3611\|οίκων]] [[G1722\|εν]] [[G1049\|γαζοφυλακίω]] [[G3624\|οίκου]] [[G2316\|θεού]] [[G1473\|ημων]] [[G1448\|εγγιών]] [[H2900\|Τωβία]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIASHIB|ELIASHIB]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.3|<< Nehemiah 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.5|Nehemiah 13:5 >>]]</td></tr></table>
 
@@ -19,6 +66,6 @@ And before this Eliashib the priest lived in \[the\] treasury of \[the\] house o
 | of our God, | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|ημων]]</big>** |
 | near | **<big>[[G1448\|εγγιών]]</big>** |
 | Tobiah. | **<big>[[H2900\|Τωβία]]</big>** |
-[[Neh.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.3|<< Nehemiah 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.5|Nehemiah 13:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.13.3|<< Nehemiah 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.13.5|Nehemiah 13:5 >>]]</td></tr></table>
 
 

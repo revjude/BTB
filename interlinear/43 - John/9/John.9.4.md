@@ -1,10 +1,64 @@
+---
+title: John 9:4
+type: Verse
+kjv: "I must work the works of him that sent me, while it is day: the night cometh, when no man can work."
+bsb: "While it is daytime, we must do the works of Him who sent Me. Night is coming, when no one can work."
+jesus_said: "I must work the works of him that sent me, while it is day: the night cometh, when no man can work."
+greek: "ἡμᾶς δεῖ ἐργάζεσθαι τὰ ἔργα τοῦ πέμψαντός με ἕως ἡμέρα ἐστίν· ἔρχεται νύξ, ὅτε οὐδεὶς δύναται ἐργάζεσθαι."
+pericope: "[[John.9.1 Jesus Heals the Man Born Blind|Jesus Heals the Man Born Blind]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SILOAM|SILOAM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3165]]"
+- "[[G1163]]"
+- "[[G2038]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G3992]]"
+- "[[G2193]]"
+- "[[G2250]]"
+- "[[G1510]]"
+- "[[G2064]]"
+- "[[G3571]]"
+- "[[G3753]]"
+- "[[G3762]]"
+- "[[G1410]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **John 9:4**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I must work the works of him that sent me, while it is day: the night cometh, when no man can work.
 <small><sub>**BSB:**</sub></small>
 While it is daytime, we must do the works of Him who sent Me. Night is coming, when no one can work.
-<small><sub>**Literal:**</sub></small>
-Us it behooves to work the works of the [One who] having sent Me while day it is; is coming night, when no [one] is able to work.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.3|<< John 9:3]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.5|John 9:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμᾶς]]  [[G1163\|δεῖ]]  [[G2038\|ἐργάζεσθαι]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3588\|τοῦ]]  [[G3992\|πέμψαντός]]  [[G3165\|με]]  [[G2193\|ἕως]]  [[G2250\|ἡμέρα]]  [[G1510\|ἐστίν·]]  [[G2064\|ἔρχεται]]  [[G3571\|νύξ,]]  [[G3753\|ὅτε]]  [[G3762\|οὐδεὶς]]  [[G1410\|δύναται]]  [[G2038\|ἐργάζεσθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DEATH|DEATH]] • [[topic DILIGENCE|DILIGENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NIGHT|NIGHT]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SABBATH|SABBATH]] • [[topic SILOAM|SILOAM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.3|<< John 9:3]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.5|John 9:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

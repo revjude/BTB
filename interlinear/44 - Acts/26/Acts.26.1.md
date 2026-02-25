@@ -1,10 +1,57 @@
+---
+title: Acts 26:1
+type: Verse
+kjv: "Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:"
+bsb: "Agrippa said to Paul, “You have permission to speak for yourself.” Then Paul stretched out his hand and began his defense:"
+greek: "Ἀγρίππας δὲ πρὸς τὸν Παῦλον ἔφη· ἐπιτρέπεταί σοι περὶ σεαυτοῦ λέγειν. τότε ὁ Παῦλος ἐκτείνας τὴν χεῖρα ἀπελογεῖτο·"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0067]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G5346]]"
+- "[[G2010]]"
+- "[[G4771]]"
+- "[[G4012]]"
+- "[[G3004G]]"
+- "[[G5119]]"
+- "[[G1614]]"
+- "[[G5495]]"
+- "[[G0626]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 26:1**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:
 <small><sub>**BSB:**</sub></small>
 Agrippa said to Paul, “You have permission to speak for yourself.” Then Paul stretched out his hand and began his defense:
-<small><sub>**Literal:**</sub></small>
-Agrippa then to <the> Paul was saying; It is permitted you for yourself to speak. Then <the> Paul having stretched out the hand was presenting a defense:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.27|<< Acts 25:27]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.2|Acts 26:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0067\|Ἀγρίππας]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G5346\|ἔφη·]]  [[G2010\|ἐπιτρέπεταί]]  [[G4771\|σοι]]  [[G4012\|περὶ]]  [[G4771\|σεαυτοῦ]]  [[G3004G\|λέγειν.]]  [[G5119\|τότε]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G1614\|ἐκτείνας]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G0626\|ἀπελογεῖτο·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.27|<< Acts 25:27]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.2|Acts 26:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

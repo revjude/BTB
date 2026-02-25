@@ -1,10 +1,72 @@
+---
+title: Acts 15:17
+type: Verse
+kjv: "That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things."
+bsb: "so that the remnant of men may seek the Lord, and all the Gentiles who are called by My name, says the Lord who does these things"
+greek: "ὅπως ἂν ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον καὶ πάντα τὰ ἔθνη, ἐφ᾽ οὓς ἐπικέκληται τὸ ὄνομά μου ἐπ᾽ αὐτούς, λέγει κύριος ὁ ποιῶν ταῦτα πάντα"
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G3704]]"
+- "[[G0302]]"
+- "[[G1567]]"
+- "[[G3588]]"
+- "[[G2645]]"
+- "[[G0444]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G1941]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G4160G]]"
+- "[[G3778]]"
+texts:
+- NKO
+- ko
+- K
+---
+
 **Acts 15:17**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things.
 <small><sub>**BSB:**</sub></small>
 so that the remnant of men may seek the Lord, and all the Gentiles who are called by My name, says the Lord who does these things
-<small><sub>**Literal:**</sub></small>
-so that when may seek out the remnant <the> of men the Lord and all the Gentiles, upon whom has been called the name of Me upon them, says [the] Lord who is doing these things all<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.16|<< Acts 15:16]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.18|Acts 15:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3704\|ὅπως]]  [[G0302\|ἂν]]  [[G1567\|ἐκζητήσωσιν]]  [[G3588\|οἱ]]  [[G2645\|κατάλοιποι]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη,]]  [[G1909\|ἐφ᾽]]  [[G3739\|οὓς]]  [[G1941\|ἐπικέκληται]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G3165\|μου]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτούς,]]  [[G3004G\|λέγει]]  [[G2962G\|κύριος]]  [[G3588\|ὁ]]  [[G4160G\|ποιῶν]]  [[G3778\|ταῦτα]]  [[G3956\|πάντα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic GENTILES|GENTILES]] • [[topic JAMES|JAMES]] • [[topic LAW|LAW]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.16|<< Acts 15:16]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.18|Acts 15:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 15:17** is...
 > $\quad$ referencing: [[LXX.Amos.9.11|Amos 9:11-12]]

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elijah Denounces Ahab and Jezebel
+type: Pericope
 pericope: "[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|Elijah Denounces Ahab and Jezebel]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 21
 book/chapter: "[[1Kgs.21|1 Kings 21]]"
-genre:
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.21.17]]"
 - "[[1Kgs.21.18]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.21.24]]"
 ---
 
-[[1Kgs.21|1 Kings 21:17 - 1 Kings 21:24]]
+<small>[[1Kgs.21|1 Kings 21:17-24]]</small>
 *Elijah Denounces Ahab and Jezebel*
 
 [[1Kgs.21.17|17]] And the word of the LORD came to Elijah the Tishbite, saying,

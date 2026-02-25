@@ -1,8 +1,78 @@
+---
+title: 2 Chronicles 20:37
+type: Verse
+kjv: "Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the LORD hath broken thy works. And the ships were broken, that they were not able to go to Tarshish."
+bsb: "Then Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have allied yourself with Ahaziah, the LORD has destroyed your works.” So the ships were wrecked and were unable to sail to Tarshish."
+hebrew: "וַיִּתְנַבֵּ֞א אֱלִיעֶ֤זֶר בֶּן־ דֹּדָוָ֙הוּ֙ מִמָּ֣רֵשָׁ֔ה עַל־ יְהוֹשָׁפָ֖ט לֵאמֹ֑ר כְּהִֽתְחַבֶּרְךָ֣ עִם־ אֲחַזְיָ֗הוּ פָּרַ֤ץ יְהוָה֙ אֶֽת־ מַעֲשֶׂ֔יךָ וַיִּשָּׁבְר֣וּ אֳנִיּ֔וֹת וְלֹ֥א עָצְר֖וּ לָלֶ֥כֶת אֶל־ תַּרְשִֽׁישׁ׃"
+pericope: "[[2Chr.20.35 Jehoshaphat’s Fleet Is Wrecked|Jehoshaphat’s Fleet Is Wrecked]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic DODAVAH|DODAVAH]]"
+- "[[topic ELIEZER|ELIEZER]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic MARESHAH|MARESHAH]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H5012]]"
+- "[[H0461L]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1735]]"
+- "[[H9006]]"
+- "[[H4762G]]"
+- "[[H5921A]]"
+- "[[H3092I]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9004]]"
+- "[[H2266]]"
+- "[[H9041]]"
+- "[[H5973A]]"
+- "[[H0274G]]"
+- "[[H6555]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H4639G]]"
+- "[[H9021]]"
+- "[[H7665]]"
+- "[[H0591]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6113]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H8659H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:37**<big><big>[[2Chr.20.35 Jehoshaphat’s Fleet Is Wrecked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the LORD hath broken thy works. And the ships were broken, that they were not able to go to Tarshish.
 <small><sub>**BSB:**</sub></small>
 Then Eliezer son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have allied yourself with Ahaziah, the LORD has destroyed your works.” So the ships were wrecked and were unable to sail to Tarshish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5012\|יִּתְנַבֵּ֞א]] [[H0461L\|אֱלִיעֶ֤זֶר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1735\|דֹּדָוָ֙הוּ֙]] [[H9006\|מִ]][[H4762G\|מָּ֣רֵשָׁ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָ֖ט]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9004\|כְּ]][[H2266\|הִֽתְחַבֶּרְ]][[H9041\|ךָ֣]] [[H5973A\|עִם]][[H9014\|־]] [[H0274G\|אֲחַזְיָ֗הוּ]] [[H6555\|פָּרַ֤ץ]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4639G\|מַעֲשֶׂ֔י]][[H9021\|ךָ]] [[H9001\|וַ]][[H7665\|יִּשָּׁבְר֣וּ]] [[H0591\|אֳנִיּ֔וֹת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6113\|עָצְר֖וּ]] [[H9005\|לָ]][[H1980G\|לֶ֥כֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H8659H\|תַּרְשִֽׁישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic ALLIANCES|ALLIANCES]] • [[topic DODAVAH|DODAVAH]] • [[topic ELIEZER|ELIEZER]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic MARESHAH|MARESHAH]] • [[topic SHIP|SHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.36|<< 2 Chronicles 20:36]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.1|2 Chronicles 21:1 >>]]</td></tr></table>
 

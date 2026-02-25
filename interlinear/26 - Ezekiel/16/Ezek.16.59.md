@@ -1,8 +1,67 @@
+---
+title: Ezekiel 16:59
+type: Verse
+kjv: "For thus saith the Lord GOD; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant."
+bsb: "For this is what the Lord GOD says: I will deal with you according to your deeds, since you have despised the oath by breaking the covenant."
+hebrew: "כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה וְעָשִׂ֥יתִי אוֹתָ֖ךְ כַּאֲשֶׁ֣ר עָשִׂ֑ית אֲשֶׁר־ בָּזִ֥ית אָלָ֖ה לְהָפֵ֥ר בְּרִֽית׃"
+pericope: "[[Ezek.16.59 The Covenant Remembered|The Covenant Remembered]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H0854]]"
+- "[[H9032]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0959]]"
+- "[[H0423]]"
+- "[[H9005]]"
+- "[[H6565A]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 16:59**<big><big>[[Ezek.16.59 The Covenant Remembered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the Lord GOD; I will even deal with thee as thou hast done, which hast despised the oath in breaking the covenant.
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord GOD says: I will deal with you according to your deeds, since you have despised the oath by breaking the covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9001\|וְ]][[H6213A\|עָשִׂ֥יתִי]] [[H0854\|אוֹתָ֖]][[H9032\|ךְ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6213A\|עָשִׂ֑ית]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0959\|בָּזִ֥ית]] [[H0423\|אָלָ֖ה]] [[H9005\|לְ]][[H6565A\|הָפֵ֥ר]] [[H1285\|בְּרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic PUNISHMENT|PUNISHMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.58|<< Ezekiel 16:58]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.60|Ezekiel 16:60 >>]]</td></tr></table>
 
@@ -24,7 +83,7 @@ For this is what the Lord GOD says: I will deal with you according to your deeds
 | a covenant  |**<big>&#8207;[[H1285\|בְּרִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.58|<< Ezekiel 16:58]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.60|Ezekiel 16:60 >>]]</td></tr></table>
 
-[^1]: and you will do  | **<big>[[H6213A|עָשִׂית]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> | K
-[^2]: and you will do  | **<big>[[H6213A|עָשִׂית]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> | K
+[^1]: and you will do  | **<big>[[H9001|וְ]]</big><big>[[H6213A|עָשִׂית]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> | K
+[^2]: and you will do  | **<big>[[H9001|וְ]]</big><big>[[H6213A|עָשִׂית]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> 'a.sit<small><sup>[[HVqq2fs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְעָשִׂ֥יתִ</big></span>**
 

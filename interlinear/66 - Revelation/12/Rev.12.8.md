@@ -1,10 +1,57 @@
+---
+title: Revelation 12:8
+type: Verse
+kjv: "And prevailed not; neither was their place found any more in heaven."
+bsb: "But the dragon was not strong enough, and no longer was any place found in heaven for him and his angels."
+greek: "καὶ οὐκ ἴσχυσεν, οὐδὲ τόπος εὑρέθη αὐτῶν ἔτι ἐν τῷ οὐρανῷ."
+pericope: "[[Rev.12.7 The War in Heaven|The War in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2480]]"
+- "[[G3761]]"
+- "[[G5117]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G2089]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **Revelation 12:8**<big><big>[[Rev.12.7 The War in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And prevailed not; neither was their place found any more in heaven.
 <small><sub>**BSB:**</sub></small>
 But the dragon was not strong enough, and no longer was any place found in heaven for him and his angels.
-<small><sub>**Literal:**</sub></small>
-And not he had [enough] strength, nor a place was found for them any longer in <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.7|<< Revelation 12:7]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.9|Revelation 12:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2480\|ἴσχυσεν,]]  [[G3761\|οὐδὲ]]  [[G5117\|τόπος]]  [[G2147\|εὑρέθη]]  [[G0846\|αὐτῶν]]  [[G2089\|ἔτι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic HEAVEN|HEAVEN]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.7|<< Revelation 12:7]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.9|Revelation 12:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

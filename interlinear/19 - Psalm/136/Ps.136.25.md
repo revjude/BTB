@@ -1,8 +1,59 @@
+---
+title: Psalm 136:25
+type: Verse
+kjv: "Who giveth food to all flesh: for his mercy endureth for ever."
+bsb: "He gives food to every creature. His loving devotion endures forever."
+hebrew: "נֹתֵ֣ן לֶ֭חֶם לְכָל־ בָּשָׂ֑ר כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃"
+pericope: "[[Ps.136.1 His Loving Devotion Endures Forever|His Loving Devotion Endures Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 136
+book/chapter: "[[Ps.136|Psalm 136]]"
+chronological_order: 533
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H5414G]]"
+- "[[H3899G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H3588A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 136:25**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who giveth food to all flesh: for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
 He gives food to every creature. His loving devotion endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|נֹתֵ֣ן]] [[H3899G\|לֶ֭חֶם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1320\|בָּשָׂ֑ר]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FOOD|FOOD]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.24|<< Psalms 136:24]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.26|Psalms 136:26 >>]]</td></tr></table>
 

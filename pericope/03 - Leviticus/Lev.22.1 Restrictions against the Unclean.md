@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Restrictions against the Unclean
+type: Pericope
 pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 22
 book/chapter: "[[Lev.22|Leviticus 22]]"
-genre:
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 16
 verses:
 - "[[Lev.22.1]]"
 - "[[Lev.22.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Lev.22.16]]"
 ---
 
-[[Lev.22|Leviticus 22:1 - Leviticus 22:16]]
+<small>[[Lev.22|Leviticus 22:1-16]]</small>
 *Restrictions against the Unclean*
 
 [[Lev.22.1|1]] And the LORD spake unto Moses, saying,

@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 6:19
+type: Verse
+kjv: "The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers."
+bsb: "The sons of Merari: Mahli and Mushi. These are the clans of the Levites listed according to their fathers:"
+hebrew: "בְּנֵ֥י מְרָרִ֖י מַחְלִ֣י וּמֻשִׁ֑י וְאֵ֛לֶּה מִשְׁפְּח֥וֹת הַלֵּוִ֖י לַאֲבוֹתֵיהֶֽם׃"
+pericope: "[[1Chr.6.1 The Descendants of Levi|The Descendants of Levi]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MAHLI|MAHLI]]"
+- "[[topic MUSHI|MUSHI]]"
+strongs:
+- "[[H1121A]]"
+- "[[H4847]]"
+- "[[H4249G]]"
+- "[[H9002]]"
+- "[[H4187]]"
+- "[[H0428]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:19**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Merari; Mahli, and Mushi. And these [are] the families of the Levites according to their fathers.
 <small><sub>**BSB:**</sub></small>
 The sons of Merari: Mahli and Mushi. These are the clans of the Levites listed according to their fathers:
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵ֥י]] [[H4847\|מְרָרִ֖י]] [[H4249G\|מַחְלִ֣י]] [[H9002\|וּ]][[H4187\|מֻשִׁ֑י]] [[H9002\|וְ]][[H0428\|אֵ֛לֶּה]] [[H4940\|מִשְׁפְּח֥וֹת]] [[H9009\|הַ]][[H3881\|לֵּוִ֖י]] [[H9005\|לַ]][[H0001G\|אֲבוֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MAHLI|MAHLI]] • [[topic MUSHI|MUSHI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.18|<< 1 Chronicles 6:18]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.20|1 Chronicles 6:20 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Nehemiah 13:25
+type: Verse
+kjv: "And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, saying, Ye shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves."
+bsb: "I rebuked them and called down curses on them. I beat some of these men and pulled out their hair. Then I made them take an oath before God and said, “You must not give your daughters in marriage to their sons or take their daughters as wives for your sons or for yourselves!"
+hebrew: "וָאָרִ֤יב עִמָּם֙ וָאֲקַֽלְלֵ֔ם וָאַכֶּ֥ה מֵהֶ֛ם אֲנָשִׁ֖ים וָֽאֶמְרְטֵ֑ם וָאַשְׁבִּיעֵ֣ם בֵּֽאלֹהִ֗ים אִם־ תִּתְּנ֤וּ בְנֹֽתֵיכֶם֙ לִבְנֵיהֶ֔ם וְאִם־ תִּשְׂאוּ֙ מִבְּנֹ֣תֵיהֶ֔ם לִבְנֵיכֶ֖ם וְלָכֶֽם׃"
+pericope: "[[Neh.13.23 Intermarriage Forbidden|Intermarriage Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7378]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H7043]]"
+- "[[H5221]]"
+- "[[H9006]]"
+- "[[H0582]]"
+- "[[H4803]]"
+- "[[H7650]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H5414O]]"
+- "[[H1323G]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5375U]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:25**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, [saying], Ye shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves.
 <small><sub>**BSB:**</sub></small>
 I rebuked them and called down curses on them. I beat some of these men and pulled out their hair. Then I made them take an oath before God and said, “You must not give your daughters in marriage to their sons or take their daughters as wives for your sons or for yourselves!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7378\|אָרִ֤יב]] [[H5973A\|עִמָּ]][[H9038\|ם֙]] [[H9001\|וָ]][[H7043\|אֲקַֽלְלֵ֔]][[H9038\|ם]] [[H9001\|וָ]][[H5221\|אַכֶּ֥ה]] [[H9006\|מֵ]][[H9038\|הֶ֛ם]] [[H0582\|אֲנָשִׁ֖ים]] [[H9001\|וָֽ]][[H4803\|אֶמְרְטֵ֑]][[H9038\|ם]] [[H9001\|וָ]][[H7650\|אַשְׁבִּיעֵ֣]][[H9038\|ם]] [[H9003\|בֵּֽ]][[H0430G\|אלֹהִ֗ים]] [[H0518H\|אִם]][[H9014\|־]] [[H5414O\|תִּתְּנ֤וּ]] [[H1323G\|בְנֹֽתֵי]][[H9026\|כֶם֙]] [[H9005\|לִ]][[H1121A\|בְנֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H5375U\|תִּשְׂאוּ֙]] [[H9006\|מִ]][[H1323G\|בְּנֹ֣תֵי]][[H9028\|הֶ֔ם]] [[H9005\|לִ]][[H1121A\|בְנֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.24|<< Nehemiah 13:24]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.26|Nehemiah 13:26 >>]]</td></tr></table>
 

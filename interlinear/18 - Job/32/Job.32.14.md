@@ -1,8 +1,50 @@
+---
+title: Job 32:14
+type: Verse
+kjv: "Now he hath not directed his words against me: neither will I answer him with your speeches."
+bsb: "But Job has not directed his words against me, and I will not answer him with your arguments."
+hebrew: "וְלֹא־ עָרַ֣ךְ אֵלַ֣י מִלִּ֑ין וּ֝בְאִמְרֵיכֶ֗ם לֹ֣א אֲשִׁיבֶֽנּוּ׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6186A]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H4405]]"
+- "[[H9003]]"
+- "[[H0561]]"
+- "[[H9026]]"
+- "[[H7725M]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:14**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now he hath not directed [his] words against me: neither will I answer him with your speeches.
 <small><sub>**BSB:**</sub></small>
 But Job has not directed his words against me, and I will not answer him with your arguments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6186A\|עָרַ֣ךְ]] [[H0413\|אֵלַ֣]][[H9030\|י]] [[H4405\|מִלִּ֑ין]] [[H9002\|וּ֝]][[H9003\|בְ]][[H0561\|אִמְרֵי]][[H9026\|כֶ֗ם]] [[H3808\|לֹ֣א]] [[H7725M\|אֲשִׁיבֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.13|<< Job 32:13]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.15|Job 32:15 >>]]</td></tr></table>
 

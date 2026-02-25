@@ -1,8 +1,74 @@
+---
+title: Joel 2:2
+type: Verse
+kjv: "A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, even to the years of many generations."
+bsb: "a day of darkness and gloom, a day of clouds and blackness. Like the dawn overspreading the mountains a great and strong army appears, such as never was of old, nor will ever be in ages to come."
+hebrew: "י֧וֹם חֹ֣שֶׁךְ וַאֲפֵלָ֗ה י֤וֹם עָנָן֙ וַעֲרָפֶ֔ל כְּשַׁ֖חַר פָּרֻ֣שׂ עַל־ הֶֽהָרִ֑ים עַ֚ם רַ֣ב וְעָצ֔וּם כָּמֹ֗הוּ לֹ֤א נִֽהְיָה֙ מִן־ הָ֣עוֹלָ֔ם וְאַֽחֲרָיו֙ לֹ֣א יוֹסֵ֔ף עַד־ שְׁנֵ֖י דּ֥וֹר וָדֽוֹר׃"
+pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3117G]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H0653]]"
+- "[[H6051]]"
+- "[[H6205]]"
+- "[[H9004]]"
+- "[[H7837]]"
+- "[[H6566]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H6099]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H4480A]]"
+- "[[H5769J]]"
+- "[[H0310A]]"
+- "[[H3254G]]"
+- "[[H5704]]"
+- "[[H8141]]"
+- "[[H1755]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:2**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A day of darkness and of gloominess, a day of clouds and of thick darkness, as the morning spread upon the mountains: a great people and a strong; there hath not been ever the like, neither shall be any more after it, [even] to the years of many generations.
 <small><sub>**BSB:**</sub></small>
 a day of darkness and gloom, a day of clouds and blackness. Like the dawn overspreading the mountains a great and strong army appears, such as never was of old, nor will ever be in ages to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H3117G\|י֧וֹם]] [[H2822\|חֹ֣שֶׁךְ]] [[H9002\|וַ]][[H0653\|אֲפֵלָ֗ה]] [[H3117G\|י֤וֹם]] [[H6051\|עָנָן֙]] [[H9002\|וַ]][[H6205\|עֲרָפֶ֔ל]] [[H9004\|כְּ]][[H7837\|שַׁ֖חַר]] [[H6566\|פָּרֻ֣שׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2022G\|הָרִ֑ים]] [[H5971A\|עַ֚ם]] [[H7227A\|רַ֣ב]] [[H9002\|וְ]][[H6099\|עָצ֔וּם]] [[H3644G\|כָּמֹ֗]][[H9033\|הוּ]] [[H3808\|לֹ֤א]] [[H1961\|נִֽהְיָה֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H5769J\|עוֹלָ֔ם]] [[H9002\|וְ]][[H0310A\|אַֽחֲרָי]][[H9033\|ו֙]] [[H3808\|לֹ֣א]] [[H3254G\|יוֹסֵ֔ף]] [[H5704\|עַד]][[H9014\|־]] [[H8141\|שְׁנֵ֖י]] [[H1755\|דּ֥וֹר]] [[H9002\|וָ]][[H1755\|דֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]] • [[topic LOCUST|LOCUST]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.1|<< Joel 2:1]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.3|Joel 2:3 >>]]</td></tr></table>
 

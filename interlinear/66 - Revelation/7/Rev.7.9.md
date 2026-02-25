@@ -1,10 +1,83 @@
+---
+title: Revelation 7:9
+type: Verse
+kjv: "After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;"
+bsb: "After this I looked and saw a multitude too large to count, from every nation and tribe and people and tongue, standing before the throne and before the Lamb. They were wearing white robes and holding palm branches in their hands."
+greek: "Μετὰ ταῦτα εἶδον καὶ ἰδοὺ ὄχλος πολὺς ὃν ἀριθμῆσαι αὐτὸν οὐδεὶς ἐδύνατο ἐκ παντὸς ἔθνους καὶ φυλῶν καὶ λαῶν καὶ γλωσσῶν ἑστῶτες ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τοῦ ἀρνίου, περιβεβλημένους στολὰς λευκὰς καὶ φοίνικες ἐν ταῖς χερσὶν αὐτῶν."
+pericope: "[[Rev.7.9 Praise from the Great Multitude|Praise from the Great Multitude]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic PALM TREE|PALM TREE]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ROBE|ROBE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G3739]]"
+- "[[G0705]]"
+- "[[G0846]]"
+- "[[G3762]]"
+- "[[G1410]]"
+- "[[G1537]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G5443]]"
+- "[[G2992]]"
+- "[[G1100]]"
+- "[[G2476]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G0721]]"
+- "[[G4016]]"
+- "[[G4749]]"
+- "[[G3022]]"
+- "[[G5404]]"
+- "[[G1722]]"
+- "[[G5495]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Revelation 7:9**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;
 <small><sub>**BSB:**</sub></small>
 After this I looked and saw a multitude too large to count, from every nation and tribe and people and tongue, standing before the throne and before the Lamb. They were wearing white robes and holding palm branches in their hands.
-<small><sub>**Literal:**</sub></small>
-After these things I looked and behold a multitude great which to number it no [one] was able out of every nation and tribes and peoples and tongues standing before the throne and before the Lamb, having clothed themselves with robes white and palm branches in the hands of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.8|<< Revelation 7:8]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.10|Revelation 7:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G3778\|ταῦτα]]  [[G1492H\|εἶδον]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3793\|ὄχλος]]  [[G4183\|πολὺς]]  [[G3739\|ὃν]]  [[G0705\|ἀριθμῆσαι]]  [[G0846\|αὐτὸν]]  [[G3762\|οὐδεὶς]]  [[G1410\|ἐδύνατο]]  [[G1537\|ἐκ]]  [[G3956\|παντὸς]]  [[G1484\|ἔθνους]]  [[G2532\|καὶ]]  [[G5443\|φυλῶν]]  [[G2532\|καὶ]]  [[G2992\|λαῶν]]  [[G2532\|καὶ]]  [[G1100\|γλωσσῶν]]  [[G2476\|ἑστῶτες]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G2532\|καὶ]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου,]]  [[G4016\|περιβεβλημένους]]  [[G4749\|στολὰς]]  [[G3022\|λευκὰς]]  [[G2532\|καὶ]]  [[G5404\|φοίνικες]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G5495\|χερσὶν]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COLORS|COLORS]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic PALM TREE|PALM TREE]] • [[topic PRAISE|PRAISE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ROBE|ROBE]] • [[topic SALVATION|SALVATION]] • [[topic THRONE|THRONE]] • [[topic TONGUE|TONGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.8|<< Revelation 7:8]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.10|Revelation 7:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

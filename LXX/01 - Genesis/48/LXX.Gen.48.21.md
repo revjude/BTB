@@ -1,6 +1,63 @@
+---
+title: LXX Genesis 48:21
+type: Verse
+lxx: "And Israel said  to Joseph, Behold, I die, and God will be with you, and he will return you to the land  of your fathers."
+greek: "είπε δε Ισραήλ τω Ιωσήφ ιδού εγώ αποθνήσκω και έσται ο θεός μεθ΄ υμών και αποστρέψει υμάς εις την γην των πατέρων υμών"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G2474]]"
+- "[[G3588]]"
+- "[[G2501]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G0599]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0654]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+---
+
 **LXX Genesis 48:21** 
 <small><sub>**LXX:**</sub></small>
 And Israel said  to Joseph, Behold, I die, and God will be with you, and he will return you to the land  of your fathers. 
+<small><sub>**Greek:**</sub></small>
+[[G2036\|είπε]] [[G1161\|δε]] [[G2474\|Ισραήλ]] [[G3588\|τω]] [[G2501\|Ιωσήφ]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G0599\|αποθνήσκω]] [[G2532\|και]] [[G1510\|έσται]] [[G3588\|ο]] [[G2316\|θεός]] [[G3326\|μεθ΄]] [[G1473\|υμών]] [[G2532\|και]] [[G0654\|αποστρέψει]] [[G1473\|υμάς]] [[G1519\|εις]] [[G3588\|την]] [[G1093\|γην]] [[G3588\|των]] [[G3962\|πατέρων]] [[G1473\|υμών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.48.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.20|<< Genesis 48:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.22|Genesis 48:22 >>]]</td></tr></table>
 
@@ -26,6 +83,6 @@ And Israel said  to Joseph, Behold, I die, and God will be with you, and he will
 | land | **<big>[[G1093\|γην]]</big>** |
 | \<obj.> | **<big>[[G3588\|των]]</big>** |
 | of your fathers. | **<big>[[G3962\|πατέρων]]</big>** **<big>[[G1473\|υμών]]</big>** |
-[[Gen.48.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.20|<< Genesis 48:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.22|Genesis 48:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.48.20|<< Genesis 48:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.48.22|Genesis 48:22 >>]]</td></tr></table>
 
 

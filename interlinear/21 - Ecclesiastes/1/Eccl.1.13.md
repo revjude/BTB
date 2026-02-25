@@ -1,8 +1,71 @@
+---
+title: Ecclesiastes 1:13
+type: Verse
+kjv: "And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith."
+bsb: "And I set my mind to seek and explore by wisdom all that is done under heaven. What a miserable task God has laid upon the sons of men to occupy them!"
+hebrew: "וְנָתַ֣תִּי אֶת־ לִבִּ֗י לִדְר֤וֹשׁ וְלָתוּר֙ בַּֽחָכְמָ֔ה עַ֛ל כָּל־ אֲשֶׁ֥ר נַעֲשָׂ֖ה תַּ֣חַת הַשָּׁמָ֑יִם ה֣וּא׀ עִנְיַ֣ן רָ֗ע נָתַ֧ן אֱלֹהִ֛ים לִבְנֵ֥י הָאָדָ֖ם לַעֲנ֥וֹת בּֽוֹ׃"
+pericope: "[[Eccl.1.12 With Wisdom Comes Sorrow|With Wisdom Comes Sorrow]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 1
+book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic INVESTIGATION|INVESTIGATION]]"
+- "[[topic SCIENCE|SCIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H9002]]"
+- "[[H8446]]"
+- "[[H9003]]"
+- "[[H2451]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H1931]]"
+- "[[H9015]]"
+- "[[H6045]]"
+- "[[H7451A]]"
+- "[[H0430G]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H6031A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 1:13**<big><big>[[Eccl.1.12 With Wisdom Comes Sorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I gave my heart to seek and search out by wisdom concerning all [things] that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.
 <small><sub>**BSB:**</sub></small>
 And I set my mind to seek and explore by wisdom all that is done under heaven. What a miserable task God has laid upon the sons of men to occupy them!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַ֣תִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבִּ֗]][[H9020\|י]] [[H9005\|לִ]][[H1875\|דְר֤וֹשׁ]] [[H9002\|וְ]][[H9005\|לָ]][[H8446\|תוּר֙]] [[H9003\|בַּֽ]][[H2451\|חָכְמָ֔ה]] [[H5921A\|עַ֛ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|נַעֲשָׂ֖ה]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H1931\|ה֣וּא]][[H9015\|׀]] [[H6045\|עִנְיַ֣ן]] [[H7451A\|רָ֗ע]] [[H5414H\|נָתַ֧ן]] [[H0430G\|אֱלֹהִ֛ים]] [[H9005\|לִ]][[H1121A\|בְנֵ֥י]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H9005\|לַ]][[H6031A\|עֲנ֥וֹת]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic INVESTIGATION|INVESTIGATION]] • [[topic SCIENCE|SCIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.12|<< Ecclesiastes 1:12]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.14|Ecclesiastes 1:14 >>]]</td></tr></table>
 

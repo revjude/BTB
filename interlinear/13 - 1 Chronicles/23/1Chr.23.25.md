@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 23:25
+type: Verse
+kjv: "For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:"
+bsb: "For David had said, “The LORD, the God of Israel, has given rest to His people and has come to dwell in Jerusalem forever."
+hebrew: "כִּ֚י אָמַ֣ר דָּוִ֔יד הֵנִ֛יחַ יְהוָ֥ה אֱלֹהֵֽי־ יִשְׂרָאֵ֖ל לְעַמּ֑וֹ וַיִּשְׁכֹּ֥ן בִּירוּשָׁלִַ֖ם עַד־ לְעוֹלָֽם׃"
+pericope: "[[1Chr.23.24 Levite Duties Revised|Levite Duties Revised]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:25**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:
 <small><sub>**BSB:**</sub></small>
 For David had said, “The LORD, the God of Israel, has given rest to His people and has come to dwell in Jerusalem forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H0559\|אָמַ֣ר]] [[H1732\|דָּוִ֔יד]] [[H5117\|הֵנִ֛יחַ]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H7931\|יִּשְׁכֹּ֥ן]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.24|<< 1 Chronicles 23:24]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.26|1 Chronicles 23:26 >>]]</td></tr></table>
 

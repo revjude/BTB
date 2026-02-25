@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Cast into the Cistern
+type: Pericope
 pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 38
 book/chapter: "[[Jer.38|Jeremiah 38]]"
-genre:
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 28
 verses:
 - "[[Jer.38.1]]"
 - "[[Jer.38.2]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Jer.38.28]]"
 ---
 
-[[Jer.38|Jeremiah 38:1 - Jeremiah 38:28]]
+<small>[[Jer.38|Jeremiah 38:1-28]]</small>
 *Jeremiah Cast into the Cistern*
 
 [[Jer.38.1|1]] Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah, heard the words that Jeremiah had spoken unto all the people, saying,

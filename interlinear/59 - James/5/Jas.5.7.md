@@ -1,10 +1,67 @@
+---
+title: James 5:7
+type: Verse
+kjv: "Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain."
+bsb: "Be patient, then, brothers, until the Lord’s coming. See how the farmer awaits the precious fruit of the soil—how patient he is for the fall and spring rains."
+greek: "Μακροθυμήσατε οὖν, ἀδελφοί, ἕως τῆς παρουσίας τοῦ κυρίου. ἰδοὺ ὁ γεωργὸς ἐκδέχεται τὸν τίμιον καρπὸν τῆς γῆς μακροθυμῶν ἐπ᾽ αὐτῷ ἕως ἂν λάβῃ ὑετὸν πρόϊμον καὶ ὄψιμον·"
+pericope: "[[Jas.5.7 Patience in Suffering|Patience in Suffering]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[G3114]]"
+- "[[G3767]]"
+- "[[G0080]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G3952]]"
+- "[[G2962G]]"
+- "[[G2400]]"
+- "[[G1092]]"
+- "[[G1551]]"
+- "[[G5093]]"
+- "[[G2590]]"
+- "[[G1093G]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G0302]]"
+- "[[G2983]]"
+- "[[G5205]]"
+- "[[G4406]]"
+- "[[G2532]]"
+- "[[G3797]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **James 5:7**<big><big>[[Jas.5.7 Patience in Suffering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be patient therefore, brethren, unto the coming of the Lord. Behold, the husbandman waiteth for the precious fruit of the earth, and hath long patience for it, until he receive the early and latter rain.
 <small><sub>**BSB:**</sub></small>
 Be patient, then, brothers, until the Lord’s coming. See how the farmer awaits the precious fruit of the soil—how patient he is for the fall and spring rains.
-<small><sub>**Literal:**</sub></small>
-do be patient therefore, brothers, until the coming of the Lord. Behold the farmer awaits the precious fruit of the earth being patient for it until when it may receive rain [the] early and latter [rains];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.6|<< James 5:6]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.8|James 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3114\|Μακροθυμήσατε]]  [[G3767\|οὖν,]]  [[G0080\|ἀδελφοί,]]  [[G2193\|ἕως]]  [[G3588\|τῆς]]  [[G3952\|παρουσίας]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου.]]  [[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G1092\|γεωργὸς]]  [[G1551\|ἐκδέχεται]]  [[G3588\|τὸν]]  [[G5093\|τίμιον]]  [[G2590\|καρπὸν]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G3114\|μακροθυμῶν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῷ]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G2983\|λάβῃ]]  [[G5205\|ὑετὸν]]  [[G4406\|πρόϊμον]]  [[G2532\|καὶ]]  [[G3797\|ὄψιμον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PATIENCE|PATIENCE]] • [[topic WAITING|WAITING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.6|<< James 5:6]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.8|James 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

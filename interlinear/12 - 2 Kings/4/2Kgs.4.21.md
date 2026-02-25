@@ -1,8 +1,59 @@
+---
+title: 2 Kings 4:21
+type: Verse
+kjv: "And she went up, and laid him on the bed of the man of God, and shut the door upon him, and went out."
+bsb: "And she went up and laid him on the bed of the man of God. Then she shut the door and went out."
+hebrew: "וַתַּ֙עַל֙ וַתַּשְׁכִּבֵ֔הוּ עַל־ מִטַּ֖ת אִ֣ישׁ הָאֱלֹהִ֑ים וַתִּסְגֹּ֥ר בַּעֲד֖וֹ וַתֵּצֵֽא׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H7901G]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4296]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5462]]"
+- "[[H1157]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:21**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she went up, and laid him on the bed of the man of God, and shut [the door] upon him, and went out.
 <small><sub>**BSB:**</sub></small>
 And she went up and laid him on the bed of the man of God. Then she shut the door and went out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|תַּ֙עַל֙]] [[H9001\|וַ]][[H7901G\|תַּשְׁכִּבֵ֔]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4296\|מִטַּ֖ת]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H5462\|תִּסְגֹּ֥ר]] [[H1157\|בַּעֲד֖]][[H9033\|וֹ]] [[H9001\|וַ]][[H3318G\|תֵּצֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.20|<< 2 Kings 4:20]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.22|2 Kings 4:22 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 6:78
+type: Verse
+kjv: "And on the other side Jordan by Jericho, on the east side of Jordan, were given them out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,"
+bsb: "From the tribe of Reuben east of the Jordan opposite Jericho they were given Bezer in the wilderness, Jahzah,"
+hebrew: "וּמֵעֵ֜בֶר לְיַרְדֵּ֣ן יְרֵחוֹ֮ לְמִזְרַ֣ח הַיַּרְדֵּן֒ מִמַּטֵּ֣ה רְאוּבֵ֔ן אֶת־ בֶּ֥צֶר בַּמִּדְבָּ֖ר וְאֶת־ מִגְרָשֶׁ֑יהָ וְאֶת־ יַ֖הְצָה וְאֶת־ מִגְרָשֶֽׁיהָ׃"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BEZER|BEZER]]"
+- "[[topic JAHZAH|JAHZAH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H9005]]"
+- "[[H3383]]"
+- "[[H3405G]]"
+- "[[H4217H]]"
+- "[[H9009]]"
+- "[[H4294H]]"
+- "[[H7205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1221G]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4054]]"
+- "[[H9024]]"
+- "[[H3096]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:78**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the other side Jordan by Jericho, on the east side of Jordan, [were given them] out of the tribe of Reuben, Bezer in the wilderness with her suburbs, and Jahzah with her suburbs,
 <small><sub>**BSB:**</sub></small>
 From the tribe of Reuben east of the Jordan opposite Jericho they were given Bezer in the wilderness, Jahzah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מֵ]][[H5676H\|עֵ֜בֶר]] [[H9005\|לְ]][[H3383\|יַרְדֵּ֣ן]] [[H3405G\|יְרֵחוֹ֮]] [[H9005\|לְ]][[H4217H\|מִזְרַ֣ח]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֒]] [[H9006\|מִ]][[H4294H\|מַּטֵּ֣ה]] [[H7205\|רְאוּבֵ֔ן]] [[H0853\|אֶת]][[H9014\|־]] [[H1221G\|בֶּ֥צֶר]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֖ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶׁ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3096\|יַ֖הְצָ]][[H9011\|ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶֽׁי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEZER|BEZER]] • [[topic JAHZAH|JAHZAH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.78|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.77|<< 1 Chronicles 6:77]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.79|1 Chronicles 6:79 >>]]</td></tr></table>
 

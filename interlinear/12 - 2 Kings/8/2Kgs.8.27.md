@@ -1,8 +1,59 @@
+---
+title: 2 Kings 8:27
+type: Verse
+kjv: "And he walked in the way of the house of Ahab, and did evil in the sight of the LORD, as did the house of Ahab: for he was the son in law of the house of Ahab."
+bsb: "And Ahaziah walked in the ways of the house of Ahab and did evil in the sight of the LORD like the house of Ahab, for he was a son-in-law of the house of Ahab."
+hebrew: "וַיֵּ֗לֶךְ בְּדֶ֙רֶךְ֙ בֵּ֣ית אַחְאָ֔ב וַיַּ֧עַשׂ הָרַ֛ע בְּעֵינֵ֥י יְהוָ֖ה כְּבֵ֣ית אַחְאָ֑ב כִּ֛י חֲתַ֥ן בֵּית־ אַחְאָ֖ב הֽוּא׃"
+pericope: "[[2Kgs.8.25 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H1004M]]"
+- "[[H0256G]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H3588A]]"
+- "[[H2860]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:27**<big><big>[[2Kgs.8.25 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he walked in the way of the house of Ahab, and did evil in the sight of the LORD, as [did] the house of Ahab: for he [was] the son in law of the house of Ahab.
 <small><sub>**BSB:**</sub></small>
 And Ahaziah walked in the ways of the house of Ahab and did evil in the sight of the LORD like the house of Ahab, for he was a son-in-law of the house of Ahab.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980I\|יֵּ֗לֶךְ]] [[H9003\|בְּ]][[H1870G\|דֶ֙רֶךְ֙]] [[H1004M\|בֵּ֣ית]] [[H0256G\|אַחְאָ֔ב]] [[H9001\|וַ]][[H6213A\|יַּ֧עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9004\|כְּ]][[H1004M\|בֵ֣ית]] [[H0256G\|אַחְאָ֑ב]] [[H3588A\|כִּ֛י]] [[H2860\|חֲתַ֥ן]] [[H1004M\|בֵּית]][[H9014\|־]] [[H0256G\|אַחְאָ֖ב]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.26|<< 2 Kings 8:26]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.28|2 Kings 8:28 >>]]</td></tr></table>
 

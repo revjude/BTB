@@ -1,10 +1,56 @@
+---
+title: Romans 11:3
+type: Verse
+kjv: "Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life."
+bsb: "“Lord, they have killed Your prophets and torn down Your altars. I am the only one left, and they are seeking my life as well”?"
+greek: "κύριε, τοὺς προφήτας σου ἀπέκτειναν, καὶ τὰ θυσιαστήριά σου κατέσκαψαν, κἀγὼ κἀγὼ ὑπελείφθην μόνος, καὶ ζητοῦσιν τὴν ψυχήν μου."
+pericope: "[[Rom.11.1 A Remnant Chosen by Grace|A Remnant Chosen by Grace]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2962G]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G4771]]"
+- "[[G0615]]"
+- "[[G2532]]"
+- "[[G2379]]"
+- "[[G2679]]"
+- "[[G1473]]"
+- "[[G5275]]"
+- "[[G3441]]"
+- "[[G2212]]"
+- "[[G5590H]]"
+- "[[G3165]]"
+texts:
+- NKO
+- k
+---
+
 **Romans 11:3**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Lord, they have killed thy prophets, and digged down thine altars; and I am left alone, and they seek my life.
 <small><sub>**BSB:**</sub></small>
 “Lord, they have killed Your prophets and torn down Your altars. I am the only one left, and they are seeking my life as well”?
-<small><sub>**Literal:**</sub></small>
-Lord, the prophets of You they have killed, and the altars of You they have torn down, and I myself were left alone, and they are seeking the life of me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.2|<< Romans 11:2]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.4|Romans 11:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2962G\|κύριε,]]  [[G3588\|τοὺς]]  [[G4396\|προφήτας]]  [[G4771\|σου]]  [[G0615\|ἀπέκτειναν,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2379\|θυσιαστήριά]]  [[G4771\|σου]]  [[G2679\|κατέσκαψαν,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G5275\|ὑπελείφθην]]  [[G3441\|μόνος,]]  [[G2532\|καὶ]]  [[G2212\|ζητοῦσιν]]  [[G3588\|τὴν]]  [[G5590H\|ψυχήν]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARTYRDOM|MARTYRDOM]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.2|<< Romans 11:2]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.4|Romans 11:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 11:3** is...
 > $\quad$ referencing: [[LXX.1Kgs.19.10|1Kgs 19:10]] ☩ [[LXX.1Kgs.19.14|1Kgs 19:14]]

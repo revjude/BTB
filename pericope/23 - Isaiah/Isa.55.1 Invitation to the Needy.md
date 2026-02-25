@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Invitation to the Needy
+type: Pericope
 pericope: "[[Isa.55.1 Invitation to the Needy|Invitation to the Needy]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 55
 book/chapter: "[[Isa.55|Isaiah 55]]"
-genre:
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 13
 verses:
 - "[[Isa.55.1]]"
 - "[[Isa.55.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Isa.55.13]]"
 ---
 
-[[Isa.55|Isaiah 55:1 - Isaiah 55:13]]
+<small>[[Isa.55|Isaiah 55:1-13]]</small>
 *Invitation to the Needy*
 
 [[Isa.55.1|1]] Ho, every one that thirsteth, come ye to the waters, and he that hath no money; come ye, buy, and eat; yea, come, buy wine and milk without money and without price.

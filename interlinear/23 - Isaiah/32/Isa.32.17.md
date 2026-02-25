@@ -1,8 +1,62 @@
+---
+title: Isaiah 32:17
+type: Verse
+kjv: "And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever."
+bsb: "The work of righteousness will be peace; the service of righteousness will be quiet confidence forever."
+hebrew: "וְהָיָ֛ה מַעֲשֵׂ֥ה הַצְּדָקָ֖ה שָׁל֑וֹם וַֽעֲבֹדַת֙ הַצְּדָקָ֔ה הַשְׁקֵ֥ט וָבֶ֖טַח עַד־ עוֹלָֽם׃"
+pericope: "[[Isa.32.9 The Women of Jerusalem|The Women of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4639K]]"
+- "[[H9009]]"
+- "[[H6666]]"
+- "[[H7965G]]"
+- "[[H9002]]"
+- "[[H5656I]]"
+- "[[H8252]]"
+- "[[H0983]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 32:17**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the work of righteousness shall be peace; and the effect of righteousness quietness and assurance for ever.
 <small><sub>**BSB:**</sub></small>
 The work of righteousness will be peace; the service of righteousness will be quiet confidence forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֛ה]] [[H4639K\|מַעֲשֵׂ֥ה]] [[H9009\|הַ]][[H6666\|צְּדָקָ֖ה]] [[H7965G\|שָׁל֑וֹם]] [[H9002\|וַֽ]][[H5656I\|עֲבֹדַת֙]] [[H9009\|הַ]][[H6666\|צְּדָקָ֔ה]] [[H8252\|הַשְׁקֵ֥ט]] [[H9002\|וָ]][[H0983\|בֶ֖טַח]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic CHURCH|CHURCH]] • [[topic HOLINESS|HOLINESS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.16|<< Isaiah 32:16]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.18|Isaiah 32:18 >>]]</td></tr></table>
 

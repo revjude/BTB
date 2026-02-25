@@ -1,10 +1,69 @@
+---
+title: Mark 9:42
+type: Verse
+kjv: "And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea."
+bsb: "But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be thrown into the sea."
+jesus_said: "And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea."
+greek: "καὶ ὃς ἂν σκανδαλίσῃ ἕνα τῶν μικρῶν τούτων τῶν πιστευόντων εἰς ἐμέ, καλόν ἐστιν αὐτῷ μᾶλλον εἰ περίκειται μύλος ὀνικὸς περὶ τὸν τράχηλον αὐτοῦ καὶ βέβληται εἰς τὴν θάλασσαν."
+pericope: "[[Mark.9.42 Temptations and Trespasses|Temptations and Trespasses]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLSTONE|MILLSTONE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G4624]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3398]]"
+- "[[G3778]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G1473]]"
+- "[[G2570G]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G3123H]]"
+- "[[G1487G]]"
+- "[[G4029]]"
+- "[[G3458]]"
+- "[[G3684]]"
+- "[[G4012]]"
+- "[[G5137]]"
+- "[[G0906G]]"
+- "[[G2281]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Mark 9:42**<big><big>[[Mark.9.42 Temptations and Trespasses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever shall offend one of [these] little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
 <small><sub>**BSB:**</sub></small>
 But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be thrown into the sea.
-<small><sub>**Literal:**</sub></small>
-And who[ever] maybe shall cause to stumble one of the little ones these who are believing in Me myself, better it is for him rather if is put a millstone heavy around the neck of him and he has been cast into the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.41|<< Mark 9:41]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.43|Mark 9:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G4624\|σκανδαλίσῃ]]  [[G1520\|ἕνα]]  [[G3588\|τῶν]]  [[G3398\|μικρῶν]]  [[G3778\|τούτων]]  [[G3588\|τῶν]]  [[G4100\|πιστευόντων]]  [[G1519\|εἰς]]  [[G1473\|ἐμέ,]]  [[G2570G\|καλόν]]  [[G1510\|ἐστιν]]  [[G0846\|αὐτῷ]]  [[G3123H\|μᾶλλον]]  [[G1487G\|εἰ]]  [[G4029\|περίκειται]]  [[G3458\|μύλος]]  [[G3684\|ὀνικὸς]]  [[G4012\|περὶ]]  [[G3588\|τὸν]]  [[G5137\|τράχηλον]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0906G\|βέβληται]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLSTONE|MILLSTONE]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.41|<< Mark 9:41]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.43|Mark 9:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

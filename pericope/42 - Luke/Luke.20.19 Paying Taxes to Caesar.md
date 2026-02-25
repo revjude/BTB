@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paying Taxes to Caesar
+type: Pericope
 pericope: "[[Luke.20.19 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Luke
 chapter: 20
 book/chapter: "[[Luke.20|Luke 20]]"
-genre:
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 8
 verses:
 - "[[Luke.20.19]]"
 - "[[Luke.20.20]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Luke.20.26]]"
 ---
 
-[[Luke.20|Luke 20:19 - Luke 20:26]]
+<small>[[Luke.20|Luke 20:19-26]]</small>
 *Paying Taxes to Caesar*
 
 [[Luke.20.19|19]] And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.

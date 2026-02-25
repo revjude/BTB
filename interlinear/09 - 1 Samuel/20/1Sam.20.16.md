@@ -1,8 +1,56 @@
+---
+title: 1 Samuel 20:16
+type: Verse
+kjv: "So Jonathan made a covenant with the house of David, saying, Let the LORD even require it at the hand of David’s enemies."
+bsb: "So Jonathan made a covenant with the house of David, saying, “May the LORD hold David’s enemies accountable.”"
+hebrew: "וַיִּכְרֹ֥ת יְהוֹנָתָ֖ן עִם־ בֵּ֣ית דָּוִ֑ד וּבִקֵּ֣שׁ יְהוָ֔ה מִיַּ֖ד אֹיְבֵ֥י דָוִֽד׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772H]]"
+- "[[H3083H]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H1245]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H3027K]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:16**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jonathan made [a covenant] with the house of David, [saying], Let the LORD even require [it] at the hand of David’s enemies.
 <small><sub>**BSB:**</sub></small>
 So Jonathan made a covenant with the house of David, saying, “May the LORD hold David’s enemies accountable.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3772H\|יִּכְרֹ֥ת]] [[H3083H\|יְהוֹנָתָ֖ן]] [[H5973A\|עִם]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H1732\|דָּוִ֑ד]] [[H9001\|וּ]][[H1245\|בִקֵּ֣שׁ]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מִ]][[H3027K\|יַּ֖ד]] [[H0341\|אֹיְבֵ֥י]] [[H1732\|דָוִֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic CONSTANCY|CONSTANCY]] • [[topic COVENANT|COVENANT]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.15|<< 1 Samuel 20:15]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.17|1 Samuel 20:17 >>]]</td></tr></table>
 

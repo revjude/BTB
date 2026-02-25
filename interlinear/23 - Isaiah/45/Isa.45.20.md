@@ -1,8 +1,64 @@
+---
+title: Isaiah 45:20
+type: Verse
+kjv: "Assemble yourselves and come; draw near together, ye that are escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray unto a god that cannot save."
+bsb: "Come, gather together, and draw near, you fugitives from the nations. Ignorant are those who carry idols of wood and pray to a god that cannot save."
+hebrew: "הִקָּבְצ֥וּ וָבֹ֛אוּ הִֽתְנַגְּשׁ֥וּ יַחְדָּ֖ו פְּלִיטֵ֣י הַגּוֹיִ֑ם לֹ֣א יָדְע֗וּ הַנֹּֽשְׂאִים֙ אֶת־ עֵ֣ץ פִּסְלָ֔ם וּמִתְפַּלְלִ֔ים אֶל־ אֵ֖ל לֹ֥א יוֹשִֽׁיעַ׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CARVING|CARVING]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H6908]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H5066G]]"
+- "[[H3162B]]"
+- "[[H6412A]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H5375H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6086G]]"
+- "[[H6459]]"
+- "[[H9028]]"
+- "[[H6419]]"
+- "[[H0413]]"
+- "[[H0410K]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:20**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Assemble yourselves and come; draw near together, ye [that are] escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray unto a god [that] cannot save.
 <small><sub>**BSB:**</sub></small>
 Come, gather together, and draw near, you fugitives from the nations. Ignorant are those who carry idols of wood and pray to a god that cannot save.
+<small><sub>**Hebrew:**</sub></small>
+[[H6908\|הִקָּבְצ֥וּ]] [[H9002\|וָ]][[H0935G\|בֹ֛אוּ]] [[H5066G\|הִֽתְנַגְּשׁ֥וּ]] [[H3162B\|יַחְדָּ֖ו]] [[H6412A\|פְּלִיטֵ֣י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H3808\|לֹ֣א]] [[H3045\|יָדְע֗וּ]] [[H9009\|הַ]][[H5375H\|נֹּֽשְׂאִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6086G\|עֵ֣ץ]] [[H6459\|פִּסְלָ֔]][[H9028\|ם]] [[H9002\|וּ]][[H6419\|מִתְפַּלְלִ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0410K\|אֵ֖ל]] [[H3808\|לֹ֥א]] [[H3467\|יוֹשִֽׁיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARVING|CARVING]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.19|<< Isaiah 45:19]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.21|Isaiah 45:21 >>]]</td></tr></table>
 

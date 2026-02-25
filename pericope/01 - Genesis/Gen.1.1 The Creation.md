@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Creation
+type: Pericope
 pericope: "[[Gen.1.1 The Creation|The Creation]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 1
 book/chapter: "[[Gen.1|Genesis 1]]"
-genre:
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,12 +24,13 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 2
 verses:
 - "[[Gen.1.1]]"
 - "[[Gen.1.2]]"
 ---
 
-[[Gen.1|Genesis 1:1 - Genesis 1:2]]
+<small>[[Gen.1|Genesis 1:1-2]]</small>
 *The Creation*
 
 [[Gen.1.1|1]] In the beginning God created the heaven and the earth.

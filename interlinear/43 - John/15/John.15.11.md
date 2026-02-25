@@ -1,10 +1,55 @@
+---
+title: John 15:11
+type: Verse
+kjv: "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full."
+bsb: "I have told you these things so that My joy may be in you and your joy may be complete."
+jesus_said: "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full."
+greek: "Ταῦτα λελάληκα ὑμῖν ἵνα ἡ χαρὰ ἡ ἐμὴ ἐν ὑμῖν ᾖ καὶ ἡ χαρὰ ὑμῶν πληρωθῇ."
+pericope: "[[John.15.9 No Greater Love|No Greater Love]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G2980]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G5479]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G4137]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 15:11**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These things have I spoken unto you, that my joy might remain in you, and [that] your joy might be full.
 <small><sub>**BSB:**</sub></small>
 I have told you these things so that My joy may be in you and your joy may be complete.
-<small><sub>**Literal:**</sub></small>
-These things I have spoken to you that <the> joy <the> of Mine in you may be and the joy of you may be full.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.10|<< John 15:10]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.12|John 15:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G2980\|λελάληκα]]  [[G4771\|ὑμῖν]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G5479\|χαρὰ]]  [[G3588\|ἡ]]  [[G1473\|ἐμὴ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1510\|ᾖ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5479\|χαρὰ]]  [[G4771\|ὑμῶν]]  [[G4137\|πληρωθῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.10|<< John 15:10]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.12|John 15:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

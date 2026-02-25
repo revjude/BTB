@@ -1,8 +1,54 @@
+---
+title: Obadiah 1:14
+type: Verse
+kjv: "Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress."
+bsb: "Nor should you stand at the crossroads to cut off their fugitives, nor deliver up their survivors in the day of their distress."
+hebrew: "וְאַֽל־ תַּעֲמֹד֙ עַל־ הַפֶּ֔רֶק לְהַכְרִ֖ית אֶת־ פְּלִיטָ֑יו וְאַל־ תַּסְגֵּ֥ר שְׂרִידָ֖יו בְּי֥וֹם צָרָֽה׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H6563]]"
+- "[[H9005]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H6412A]]"
+- "[[H9023]]"
+- "[[H5462]]"
+- "[[H8300]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6869B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:14**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
 <small><sub>**BSB:**</sub></small>
 Nor should you stand at the crossroads to cut off their fugitives, nor deliver up their survivors in the day of their distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0408\|אַֽל]][[H9014\|־]] [[H5975G\|תַּעֲמֹד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6563\|פֶּ֔רֶק]] [[H9005\|לְ]][[H3772I\|הַכְרִ֖ית]] [[H0853\|אֶת]][[H9014\|־]] [[H6412A\|פְּלִיטָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5462\|תַּסְגֵּ֥ר]] [[H8300\|שְׂרִידָ֖י]][[H9023\|ו]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H6869B\|צָרָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.13|<< Obadiah 1:13]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.15|Obadiah 1:15 >>]]</td></tr></table>
 

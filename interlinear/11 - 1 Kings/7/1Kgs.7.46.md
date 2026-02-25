@@ -1,8 +1,65 @@
+---
+title: 1 Kings 7:46
+type: Verse
+kjv: "In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan."
+bsb: "The king had them cast in clay molds in the plain of the Jordan between Succoth and Zarethan."
+hebrew: "בְּכִכַּ֤ר הַיַּרְדֵּן֙ יְצָקָ֣ם הַמֶּ֔לֶךְ בְּמַעֲבֵ֖ה הָאֲדָמָ֑ה בֵּ֥ין סֻכּ֖וֹת וּבֵ֥ין צָרְתָֽן׃"
+pericope: "[[1Kgs.7.40 Completion of the Bronze Works|Completion of the Bronze Works]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic MOLDING|MOLDING]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZARETAN|ZARETAN]]"
+strongs:
+- "[[H9003]]"
+- "[[H3603H]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H3332H]]"
+- "[[H9038]]"
+- "[[H4428G]]"
+- "[[H4568]]"
+- "[[H0127G]]"
+- "[[H0996G]]"
+- "[[H5523G]]"
+- "[[H9002]]"
+- "[[H6891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:46**<big><big>[[1Kgs.7.40 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zarthan.
 <small><sub>**BSB:**</sub></small>
 The king had them cast in clay molds in the plain of the Jordan between Succoth and Zarethan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3603H\|כִכַּ֤ר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֙]] [[H3332H\|יְצָקָ֣]][[H9038\|ם]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9003\|בְּ]][[H4568\|מַעֲבֵ֖ה]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֑ה]] [[H0996G\|בֵּ֥ין]] [[H5523G\|סֻכּ֖וֹת]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H6891\|צָרְתָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic JORDAN|JORDAN]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic MOLDING|MOLDING]] • [[topic SUCCOTH|SUCCOTH]] • [[topic TEMPLE|TEMPLE]] • [[topic ZARETAN|ZARETAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.45|<< 1 Kings 7:45]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.47|1 Kings 7:47 >>]]</td></tr></table>
 

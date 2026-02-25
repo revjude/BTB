@@ -1,8 +1,76 @@
+---
+title: 1 Samuel 25:39
+type: Verse
+kjv: "And when David heard that Nabal was dead, he said, Blessed be the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife."
+bsb: "On hearing that Nabal was dead, David said, “Blessed be the LORD, who has upheld my cause against the reproach of Nabal and has restrained His servant from evil. For the LORD has brought the wickedness of Nabal down upon his own head.” Then David sent word to Abigail, asking her to become his wife."
+hebrew: "וַיִּשְׁמַ֣ע דָּוִד֮ כִּ֣י מֵ֣ת נָבָל֒ וַיֹּ֡אמֶר בָּר֣וּךְ יְהוָ֡ה אֲשֶׁ֣ר רָב֩ אֶת־ רִ֨יב חֶרְפָּתִ֜י מִיַּ֣ד נָבָ֗ל וְאֶת־ עַבְדּוֹ֙ חָשַׂ֣ךְ מֵֽרָעָ֔ה וְאֵת֙ רָעַ֣ת נָבָ֔ל הֵשִׁ֥יב יְהוָ֖ה בְּרֹאשׁ֑וֹ וַיִּשְׁלַ֤ח דָּוִד֙ וַיְדַבֵּ֣ר בַּאֲבִיגַ֔יִל לְקַחְתָּ֥הּ ל֖וֹ לְאִשָּֽׁה׃"
+pericope: "[[1Sam.25.39 David Marries Abigail|David Marries Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H1732]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H5037]]"
+- "[[H0559]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H7378]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7379]]"
+- "[[H2781]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H2820]]"
+- "[[H7451I]]"
+- "[[H7725G]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H7971G]]"
+- "[[H1696G]]"
+- "[[H0026G]]"
+- "[[H9005]]"
+- "[[H3947I]]"
+- "[[H9034]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:39**<big><big>[[1Sam.25.39 David Marries Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when David heard that Nabal was dead, he said, Blessed [be] the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife.
 <small><sub>**BSB:**</sub></small>
 On hearing that Nabal was dead, David said, “Blessed be the LORD, who has upheld my cause against the reproach of Nabal and has restrained His servant from evil. For the LORD has brought the wickedness of Nabal down upon his own head.” Then David sent word to Abigail, asking her to become his wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H1732\|דָּוִד֮]] [[H3588A\|כִּ֣י]] [[H4191\|מֵ֣ת]] [[H5037\|נָבָל֒]] [[H9001\|וַ]][[H0559\|יֹּ֡אמֶר]] [[H1288\|בָּר֣וּךְ]] [[H3068G\|יְהוָ֡ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H7378\|רָב֩]] [[H0853\|אֶת]][[H9014\|־]] [[H7379\|רִ֨יב]] [[H2781\|חֶרְפָּתִ֜]][[H9020\|י]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H5037\|נָבָ֗ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדּ]][[H9023\|וֹ֙]] [[H2820\|חָשַׂ֣ךְ]] [[H9006\|מֵֽ]][[H7451I\|רָעָ֔ה]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H7451I\|רָעַ֣ת]] [[H5037\|נָבָ֔ל]] [[H7725G\|הֵשִׁ֥יב]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H1732\|דָּוִד֙]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H9003\|בַּ]][[H0026G\|אֲבִיגַ֔יִל]] [[H9005\|לְ]][[H3947I\|קַחְתָּ֥]][[H9034\|הּ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POLYGAMY|POLYGAMY]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.38|<< 1 Samuel 25:38]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.40|1 Samuel 25:40 >>]]</td></tr></table>
 

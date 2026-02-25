@@ -1,10 +1,60 @@
+---
+title: Luke 9:39
+type: Verse
+kjv: "And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him."
+bsb: "A spirit keeps seizing him, and he screams abruptly. It throws him into convulsions so that he foams at the mouth. It keeps mauling him and rarely departs from him."
+greek: "καὶ ἰδοὺ πνεῦμα λαμβάνει αὐτὸν καὶ ἐξαίφνης κράζει καὶ σπαράσσει αὐτὸν μετὰ ἀφροῦ καὶ μόγις ἀποχωρεῖ ἀπ᾽ αὐτοῦ συντρῖβον αὐτόν."
+pericope: "[[Luke.9.37 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G4151G]]"
+- "[[G2983]]"
+- "[[G0846]]"
+- "[[G1810]]"
+- "[[G2896]]"
+- "[[G4682]]"
+- "[[G3326]]"
+- "[[G0876]]"
+- "[[G3425]]"
+- "[[G0672]]"
+- "[[G0575]]"
+- "[[G4937]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 9:39**<big><big>[[Luke.9.37 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him.
 <small><sub>**BSB:**</sub></small>
 A spirit keeps seizing him, and he screams abruptly. It throws him into convulsions so that he foams at the mouth. It keeps mauling him and rarely departs from him.
-<small><sub>**Literal:**</sub></small>
-And behold a spirit takes him and suddenly he cries out and it throws into convulsions him with foaming and with difficulty it departs from him bruising him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.38|<< Luke 9:38]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.40|Luke 9:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G4151G\|πνεῦμα]]  [[G2983\|λαμβάνει]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G1810\|ἐξαίφνης]]  [[G2896\|κράζει]]  [[G2532\|καὶ]]  [[G4682\|σπαράσσει]]  [[G0846\|αὐτὸν]]  [[G3326\|μετὰ]]  [[G0876\|ἀφροῦ]]  [[G2532\|καὶ]]  [[G3425\|μόγις]]  [[G0672\|ἀποχωρεῖ]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G4937\|συντρῖβον]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.38|<< Luke 9:38]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.40|Luke 9:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

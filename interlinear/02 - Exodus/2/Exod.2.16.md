@@ -1,8 +1,69 @@
+---
+title: Exodus 2:16
+type: Verse
+kjv: "Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father’s flock."
+bsb: "Now the priest of Midian had seven daughters, and they came to draw water and fill the troughs to water their father’s flock."
+hebrew: "וּלְכֹהֵ֥ן מִדְיָ֖ן שֶׁ֣בַע בָּנ֑וֹת וַתָּבֹ֣אנָה וַתִּדְלֶ֗נָה וַתְּמַלֶּ֙אנָה֙ אֶת־ הָ֣רְהָטִ֔ים לְהַשְׁק֖וֹת צֹ֥אן אֲבִיהֶֽן׃"
+pericope: "[[Exod.2.11 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic JETHRO|JETHRO]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZIPPORAH|ZIPPORAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H4080H]]"
+- "[[H7651]]"
+- "[[H1323G]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1802]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7298A]]"
+- "[[H8248G]]"
+- "[[H6629G]]"
+- "[[H0001G]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:16**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the priest of Midian had seven daughters: and they came and drew [water], and filled the troughs to water their father’s flock.
 <small><sub>**BSB:**</sub></small>
 Now the priest of Midian had seven daughters, and they came to draw water and fill the troughs to water their father’s flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H3548\|כֹהֵ֥ן]] [[H4080H\|מִדְיָ֖ן]] [[H7651\|שֶׁ֣בַע]] [[H1323G\|בָּנ֑וֹת]] [[H9001\|וַ]][[H0935G\|תָּבֹ֣אנָה]] [[H9001\|וַ]][[H1802\|תִּדְלֶ֗נָה]] [[H9001\|וַ]][[H4390\|תְּמַלֶּ֙אנָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H7298A\|רְהָטִ֔ים]] [[H9005\|לְ]][[H8248G\|הַשְׁק֖וֹת]] [[H6629G\|צֹ֥אן]] [[H0001G\|אֲבִי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JETHRO|JETHRO]] • [[topic MOSES|MOSES]] • [[topic PRIEST|PRIEST]] • [[topic SHEPHERD|SHEPHERD]] • [[topic WOMEN|WOMEN]] • [[topic ZIPPORAH|ZIPPORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.15|<< Exodus 2:15]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.17|Exodus 2:17 >>]]</td></tr></table>
 

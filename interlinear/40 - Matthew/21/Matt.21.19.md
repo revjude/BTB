@@ -1,10 +1,75 @@
+---
+title: Matthew 21:19
+type: Verse
+kjv: "And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away."
+bsb: "Seeing a fig tree by the road, He went up to it but found nothing on it except leaves. “May you never bear fruit again!” He said. And immediately the tree withered."
+jesus_said: "Let no fruit grow on thee henceforward for ever."
+greek: "καὶ ἰδὼν συκῆν μίαν ἐπὶ τῆς ὁδοῦ ἦλθεν ἐπ᾽ αὐτὴν καὶ οὐδὲν εὗρεν ἐν αὐτῇ εἰ μὴ φύλλα μόνον καὶ λέγει αὐτῇ· οὐ μηκέτι ἐκ σοῦ καρπὸς γένηται εἰς τὸν αἰῶνα. καὶ ἐξηράνθη παραχρῆμα ἡ συκῆ."
+pericope: "[[Matt.21.18 The Barren Fig Tree|The Barren Fig Tree]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic UNFRUITFULNESS|UNFRUITFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G4808]]"
+- "[[G1520]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G2064]]"
+- "[[G0846]]"
+- "[[G3762]]"
+- "[[G2147]]"
+- "[[G1722]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G5444]]"
+- "[[G3441]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G3371]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G2590]]"
+- "[[G1096]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G3583]]"
+- "[[G3916]]"
+texts:
+- NKO
+- o
+---
+
 **Matthew 21:19**<big><big>[[Matt.21.18 The Barren Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away.
 <small><sub>**BSB:**</sub></small>
 Seeing a fig tree by the road, He went up to it but found nothing on it except leaves. “May you never bear fruit again!” He said. And immediately the tree withered.
-<small><sub>**Literal:**</sub></small>
-And having seen fig tree one along the road He came to it and no [thing] found on it only except leaves alone And He says to it; certainly no more from you fruit there may be to the age. And withered immediately the fig tree.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.18|<< Matthew 21:18]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.20|Matthew 21:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G4808\|συκῆν]]  [[G1520\|μίαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G3598\|ὁδοῦ]]  [[G2064\|ἦλθεν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὴν]]  [[G2532\|καὶ]]  [[G3762\|οὐδὲν]]  [[G2147\|εὗρεν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G5444\|φύλλα]]  [[G3441\|μόνον]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῇ·]]  [[G3756\|οὐ]]  [[G3371\|μηκέτι]]  [[G1537\|ἐκ]]  [[G4771\|σοῦ]]  [[G2590\|καρπὸς]]  [[G1096\|γένηται]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα.]]  [[G2532\|καὶ]]  [[G3583\|ἐξηράνθη]]  [[G3916\|παραχρῆμα]]  [[G3588\|ἡ]]  [[G4808\|συκῆ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic REPROOF|REPROOF]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic UNFRUITFULNESS|UNFRUITFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.18|<< Matthew 21:18]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.20|Matthew 21:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

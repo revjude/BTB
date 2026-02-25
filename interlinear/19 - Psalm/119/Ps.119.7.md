@@ -1,8 +1,56 @@
+---
+title: Psalm 119:7
+type: Verse
+kjv: "I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments."
+bsb: "I will praise You with an upright heart when I learn Your righteous judgments."
+hebrew: "א֭וֹדְךָ בְּיֹ֣שֶׁר לֵבָ֑ב בְּ֝לָמְדִ֗י מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃"
+pericope: "[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|Your Word Is a Lamp to My Feet - ALEPH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H3034]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3476]]"
+- "[[H3824]]"
+- "[[H3925H]]"
+- "[[H9040]]"
+- "[[H4941G]]"
+- "[[H6664G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:7**<big><big>[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will praise thee with uprightness of heart, when I shall have learned thy righteous judgments.
 <small><sub>**BSB:**</sub></small>
 I will praise You with an upright heart when I learn Your righteous judgments.
+<small><sub>**Hebrew:**</sub></small>
+[[H3034\|א֭וֹדְ]][[H9031\|ךָ]] [[H9003\|בְּ]][[H3476\|יֹ֣שֶׁר]] [[H3824\|לֵבָ֑ב]] [[H9003\|בְּ֝]][[H3925H\|לָמְדִ֗]][[H9040\|י]] [[H4941G\|מִשְׁפְּטֵ֥י]] [[H6664G\|צִדְקֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.6|<< Psalms 119:6]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.8|Psalms 119:8 >>]]</td></tr></table>
 

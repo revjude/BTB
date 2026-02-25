@@ -1,10 +1,73 @@
+---
+title: Mark 7:4
+type: Verse
+kjv: "And when they come from the market, except they wash, they eat not. And many other things there be, which they have received to hold, as the washing of cups, and pots, brasen vessels, and of tables."
+bsb: "And on returning from the market, they do not eat unless they wash. And there are many other traditions for them to observe, including the washing of cups, pitchers, kettles, and couches for dining."
+greek: "καὶ ἀπ᾽ ἀγορᾶς δὲ ὅταν ἔλθωσιν ἐὰν μὴ βαπτίσωνται, οὐκ ἐσθίουσιν· καὶ ἄλλα πολλά ἐστιν ἃ παρέλαβον κρατεῖν, βαπτισμοὺς ποτηρίων καὶ ξεστῶν καὶ χαλκίων καὶ κλινῶν.¶"
+pericope: "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HAND|HAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G0058]]"
+- "[[G1161]]"
+- "[[G3752]]"
+- "[[G2064]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G0907]]"
+- "[[G3756]]"
+- "[[G2068]]"
+- "[[G0243]]"
+- "[[G4183]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G3880]]"
+- "[[G2902]]"
+- "[[G0909]]"
+- "[[G4221]]"
+- "[[G3582]]"
+- "[[G5473]]"
+- "[[G2825]]"
+texts:
+- NKO
+- o
+- ko
+- NK(o)
+---
+
 **Mark 7:4**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And [when they come] from the market, except they wash, they eat not. And many other things there be, which they have received to hold, [as] the washing of cups, and pots, brasen vessels, and of tables.
 <small><sub>**BSB:**</sub></small>
 And on returning from the market, they do not eat unless they wash. And there are many other traditions for them to observe, including the washing of cups, pitchers, kettles, and couches for dining.
-<small><sub>**Literal:**</sub></small>
-and [on coming] from [the] market now when may come only unless they shall wash not they eat; and other things many there are which they received to keep washings of cups and vessels and utensils and couches for dining.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.3|<< Mark 7:3]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.5|Mark 7:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0575\|ἀπ᾽]]  [[G0058\|ἀγορᾶς]]  [[G1161\|δὲ]]  [[G3752\|ὅταν]]  [[G2064\|ἔλθωσιν]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G0907\|βαπτίσωνται,]]  [[G3756\|οὐκ]]  [[G2068\|ἐσθίουσιν·]]  [[G2532\|καὶ]]  [[G0243\|ἄλλα]]  [[G4183\|πολλά]]  [[G1510\|ἐστιν]]  [[G3739\|ἃ]]  [[G3880\|παρέλαβον]]  [[G2902\|κρατεῖν,]]  [[G0909\|βαπτισμοὺς]]  [[G4221\|ποτηρίων]]  [[G2532\|καὶ]]  [[G3582\|ξεστῶν]]  [[G2532\|καὶ]]  [[G5473\|χαλκίων]]  [[G2532\|καὶ]]  [[G2825\|κλινῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic BRASS|BRASS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HAND|HAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic PURIFICATION|PURIFICATION]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.3|<< Mark 7:3]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.5|Mark 7:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

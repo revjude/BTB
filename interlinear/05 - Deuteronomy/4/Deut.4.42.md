@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 4:42
+type: Verse
+kjv: "That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:"
+bsb: "to which a manslayer could flee after killing his neighbor unintentionally without prior malice. To save one’s own life, he could flee to one of these cities:"
+hebrew: "לָנֻ֨ס שָׁ֜מָּה רוֹצֵ֗חַ אֲשֶׁ֨ר יִרְצַ֤ח אֶת־ רֵעֵ֙הוּ֙ בִּבְלִי־ דַ֔עַת וְה֛וּא לֹא־ שֹׂנֵ֥א ל֖וֹ מִתְּמ֣וֹל שִׁלְשׁ֑וֹם וְנָ֗ס אֶל־ אַחַ֛ת מִן־ הֶעָרִ֥ים הָאֵ֖ל וָחָֽי׃"
+pericope: "[[Deut.4.41 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9005]]"
+- "[[H5127]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H7523]]"
+- "[[H0834A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H1097]]"
+- "[[H1847]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H8130]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H9001]]"
+- "[[H0413]]"
+- "[[H0259]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0411]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:42**<big><big>[[Deut.4.41 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:
 <small><sub>**BSB:**</sub></small>
 to which a manslayer could flee after killing his neighbor unintentionally without prior malice. To save one’s own life, he could flee to one of these cities:
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H5127\|נֻ֨ס]] [[H8033G\|שָׁ֜מָּ]][[H9011\|ה]] [[H7523\|רוֹצֵ֗חַ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7523\|יִרְצַ֤ח]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֙]][[H9023\|הוּ֙]] [[H9003\|בִּ]][[H1097\|בְלִי]][[H9014\|־]] [[H1847\|דַ֔עַת]] [[H9002\|וְ]][[H1931\|ה֛וּא]] [[H3808\|לֹא]][[H9014\|־]] [[H8130\|שֹׂנֵ֥א]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H8543\|תְּמ֣וֹל]] [[H8032\|שִׁלְשׁ֑וֹם]] [[H9001\|וְ]][[H5127\|נָ֗ס]] [[H0413\|אֶל]][[H9014\|־]] [[H0259\|אַחַ֛ת]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הֶ]][[H5892B\|עָרִ֥ים]] [[H9009\|הָ]][[H0411\|אֵ֖ל]] [[H9001\|וָ]][[H2421\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.41|<< Deuteronomy 4:41]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.43|Deuteronomy 4:43 >>]]</td></tr></table>
 

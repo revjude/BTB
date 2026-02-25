@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 32:11
+type: Verse
+kjv: "Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The LORD our God shall deliver us out of the hand of the king of Assyria?"
+bsb: "Is not Hezekiah misleading you to give you over to death by famine and thirst when he says, ‘The LORD our God will deliver us from the hand of the king of Assyria?’"
+hebrew: "הֲלֹ֤א יְחִזְקִיָּ֙הוּ֙ מַסִּ֣ית אֶתְכֶ֔ם לָתֵ֣ת אֶתְכֶ֔ם לָמ֛וּת בְּרָעָ֥ב וּבְצָמָ֖א לֵאמֹ֑ר יְהוָ֣ה אֱלֹהֵ֔ינוּ יַצִּילֵ֕נוּ מִכַּ֖ף מֶ֥לֶךְ אַשּֽׁוּר׃"
+pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H2396G]]"
+- "[[H5496]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H7458]]"
+- "[[H9002]]"
+- "[[H6772]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5337]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H3709G]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:11**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The LORD our God shall deliver us out of the hand of the king of Assyria?
 <small><sub>**BSB:**</sub></small>
 Is not Hezekiah misleading you to give you over to death by famine and thirst when he says, ‘The LORD our God will deliver us from the hand of the king of Assyria?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹ֤א]] [[H2396G\|יְחִזְקִיָּ֙הוּ֙]] [[H5496\|מַסִּ֣ית]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9005\|לָ]][[H5414G\|תֵ֣ת]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9005\|לָ]][[H4191\|מ֛וּת]] [[H9003\|בְּ]][[H7458\|רָעָ֥ב]] [[H9002\|וּ]][[H9003\|בְ]][[H6772\|צָמָ֖א]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H5337\|יַצִּילֵ֕]][[H9035\|נוּ]] [[H9006\|מִ]][[H3709G\|כַּ֖ף]] [[H4428G\|מֶ֥לֶךְ]] [[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.10|<< 2 Chronicles 32:10]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.12|2 Chronicles 32:12 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Zechariah 1:16
+type: Verse
+kjv: "Therefore thus saith the LORD; I am returned to Jerusalem with mercies: my house shall be built in it, saith the LORD of hosts, and a line shall be stretched forth upon Jerusalem."
+bsb: "Therefore this is what the LORD says: ‘I will return to Jerusalem with mercy, and there My house will be rebuilt, declares the LORD of Hosts, and a measuring line will be stretched out over Jerusalem.’"
+hebrew: "לָכֵ֞ן כֹּֽה־ אָמַ֣ר יְהוָ֗ה שַׁ֤בְתִּי לִירוּשָׁלִַ֙ם֙ בְּֽרַחֲמִ֔ים בֵּיתִי֙ יִבָּ֣נֶה בָּ֔הּ נְאֻ֖ם יְהוָ֣ה צְבָא֑וֹת וְקָ֥ו יִנָּטֶ֖ה עַל־ יְרוּשָׁלִָֽם׃"
+pericope: "[[Zech.1.7 The Vision of the Horses|The Vision of the Horses]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 1
+book/chapter: "[[Zech.1|Zechariah 1]]"
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H7725G]]"
+- "[[H3389]]"
+- "[[H9003]]"
+- "[[H7356B]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H1129]]"
+- "[[H9034]]"
+- "[[H5002]]"
+- "[[H6635B]]"
+- "[[H9002]]"
+- "[[H6961]]"
+- "[[H6957B]]"
+- "[[H5186]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Zechariah 1:16**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD; I am returned to Jerusalem with mercies: my house shall be built in it, saith the LORD of hosts, and a line shall be stretched forth upon Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says: ‘I will return to Jerusalem with mercy, and there My house will be rebuilt, declares the LORD of Hosts, and a measuring line will be stretched out over Jerusalem.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H7725G\|שַׁ֤בְתִּי]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H9003\|בְּֽ]][[H7356B\|רַחֲמִ֔ים]] [[H1004B\|בֵּיתִ]][[H9020\|י֙]] [[H1129\|יִבָּ֣נֶה]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H9002\|וְ]][[H6957B\|קָ֥ו]] [[H5186\|יִנָּטֶ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.15|<< Zechariah 1:15]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.17|Zechariah 1:17 >>]]</td></tr></table>
 
@@ -27,7 +86,7 @@ Therefore this is what the LORD says: ‘I will return to Jerusalem with mercy, 
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.15|<< Zechariah 1:15]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.17|Zechariah 1:17 >>]]</td></tr></table>
 
-[^1]: and a measuring-line  | **<big>[[H6961|קָוָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.vah<small><sup>[[HNcbsa]]</sup></small> | K
-[^2]: and a measuring-line  | **<big>[[H6961|קָוָה]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.vah<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: and a measuring-line  | **<big>[[H9002|וְ]]</big><big>[[H6961|קָוָה]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.vah<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: and a measuring-line  | **<big>[[H9002|וְ]]</big><big>[[H6961|קָוָה]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.vah<small><sup>[[HNcbsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְקָ֥וה</big></span>**
 

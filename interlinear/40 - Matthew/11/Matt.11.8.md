@@ -1,10 +1,59 @@
+---
+title: Matthew 11:8
+type: Verse
+kjv: "But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings’ houses."
+bsb: "Otherwise, what did you go out to see? A man dressed in fine clothes? Look, those who wear fine clothing are found in kings’ palaces."
+jesus_said: "But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft clothing are in kings’ houses."
+greek: "ἀλλὰ τί ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἱματίοις ἠμφιεσμένον; ἰδοὺ οἱ τὰ μαλακὰ φοροῦντες ἐν τοῖς οἴκοις τῶν βασιλέων εἰσίν·"
+pericope: "[[Matt.11.7 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G0235]]"
+- "[[G5101]]"
+- "[[G1831]]"
+- "[[G1492H]]"
+- "[[G0444]]"
+- "[[G1722]]"
+- "[[G3120]]"
+- "[[G2440]]"
+- "[[G0294]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G5409]]"
+- "[[G3624G]]"
+- "[[G0935]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Matthew 11:8**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But what went ye out for to see? A man clothed in soft raiment? behold, they that wear soft [clothing] are in kings’ houses.
 <small><sub>**BSB:**</sub></small>
 Otherwise, what did you go out to see? A man dressed in fine clothes? Look, those who wear fine clothing are found in kings’ palaces.
-<small><sub>**Literal:**</sub></small>
-But what did you go out to see? A man in delicate garments dressed? Behold those <the> delicate [clothing] wearing in the houses <the> of kings are;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.7|<< Matthew 11:7]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.9|Matthew 11:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G5101\|τί]]  [[G1831\|ἐξήλθατε]]  [[G1492H\|ἰδεῖν;]]  [[G0444\|ἄνθρωπον]]  [[G1722\|ἐν]]  [[G3120\|μαλακοῖς]]  [[G2440\|ἱματίοις]]  [[G0294\|ἠμφιεσμένον;]]  [[G2400\|ἰδοὺ]]  [[G3588\|οἱ]]  [[G3588\|τὰ]]  [[G3120\|μαλακὰ]]  [[G5409\|φοροῦντες]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3624G\|οἴκοις]]  [[G3588\|τῶν]]  [[G0935\|βασιλέων]]  [[G1510\|εἰσίν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.7|<< Matthew 11:7]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.9|Matthew 11:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 6:24
+type: Verse
+kjv: "And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as it is at this day."
+bsb: "And the LORD commanded us to observe all these statutes and to fear the LORD our God, that we may always be prosperous and preserved, as we are to this day."
+hebrew: "וַיְצַוֵּ֣נוּ יְהוָ֗ה לַעֲשׂוֹת֙ אֶת־ כָּל־ הַחֻקִּ֣ים הָאֵ֔לֶּה לְיִרְאָ֖ה אֶת־ יְהוָ֣ה אֱלֹהֵ֑ינוּ לְט֥וֹב לָ֙נוּ֙ כָּל־ הַיָּמִ֔ים לְחַיֹּתֵ֖נוּ כְּהַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Deut.6.20 Teach Your Children|Teach Your Children]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H2706G]]"
+- "[[H0428]]"
+- "[[H3372H]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H2896B]]"
+- "[[H3117K]]"
+- "[[H2421]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:24**<big><big>[[Deut.6.20 Teach Your Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as [it is] at this day.
 <small><sub>**BSB:**</sub></small>
 And the LORD commanded us to observe all these statutes and to fear the LORD our God, that we may always be prosperous and preserved, as we are to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַוֵּ֣]][[H9035\|נוּ]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2706G\|חֻקִּ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9005\|לְ]][[H3372H\|יִרְאָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9005\|לְ]][[H2896B\|ט֥וֹב]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִ֔ים]] [[H9005\|לְ]][[H2421\|חַיֹּתֵ֖]][[H9035\|נוּ]] [[H9004\|כְּ]][[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.23|<< Deuteronomy 6:23]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.25|Deuteronomy 6:25 >>]]</td></tr></table>
 

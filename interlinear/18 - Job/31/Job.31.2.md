@@ -1,8 +1,53 @@
+---
+title: Job 31:2
+type: Verse
+kjv: "For what portion of God is there from above? and what inheritance of the Almighty from on high?"
+bsb: "For what is the allotment of God from above, or the heritage from the Almighty on high?"
+hebrew: "וּמֶ֤ה׀ חֵ֣לֶק אֱל֣וֹהַּ מִמָּ֑עַל וְֽנַחֲלַ֥ת שַׁ֝דַּ֗י מִמְּרֹמִֽים׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H9015]]"
+- "[[H2506A]]"
+- "[[H0433]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H5159]]"
+- "[[H7706]]"
+- "[[H4791]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:2**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For what portion of God [is there] from above? and [what] inheritance of the Almighty from on high?
 <small><sub>**BSB:**</sub></small>
 For what is the allotment of God from above, or the heritage from the Almighty on high?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4100\|מֶ֤ה]][[H9015\|׀]] [[H2506A\|חֵ֣לֶק]] [[H0433\|אֱל֣וֹהַּ]] [[H9006\|מִ]][[H4605\|מָּ֑עַל]] [[H9002\|וְֽ]][[H5159\|נַחֲלַ֥ת]] [[H7706\|שַׁ֝דַּ֗י]] [[H9006\|מִ]][[H4791\|מְּרֹמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.1|<< Job 31:1]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.3|Job 31:3 >>]]</td></tr></table>
 

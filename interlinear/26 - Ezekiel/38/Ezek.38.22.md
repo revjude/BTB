@@ -1,8 +1,68 @@
+---
+title: Ezekiel 38:22
+type: Verse
+kjv: "And I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that are with him, an overflowing rain, and great hailstones, fire, and brimstone."
+bsb: "I will execute judgment upon him with plague and bloodshed. I will pour out torrents of rain, hailstones, fire, and sulfur on him and on his troops and on the many nations with him."
+hebrew: "וְנִשְׁפַּטְתִּ֥י אִתּ֖וֹ בְּדֶ֣בֶר וּבְדָ֑ם וְגֶ֣שֶׁם שׁוֹטֵף֩ וְאַבְנֵ֨י אֶלְגָּבִ֜ישׁ אֵ֣שׁ וְגָפְרִ֗ית אַמְטִ֤יר עָלָיו֙ וְעַל־ אֲגַפָּ֔יו וְעַל־ עַמִּ֥ים רַבִּ֖ים אֲשֶׁ֥ר אִתּֽוֹ׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1698]]"
+- "[[H9002]]"
+- "[[H1818]]"
+- "[[H1653]]"
+- "[[H7857]]"
+- "[[H0068G]]"
+- "[[H0417]]"
+- "[[H0784]]"
+- "[[H1614]]"
+- "[[H4305]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0102]]"
+- "[[H9023]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H0834A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:22**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that [are] with him, an overflowing rain, and great hailstones, fire, and brimstone.
 <small><sub>**BSB:**</sub></small>
 I will execute judgment upon him with plague and bloodshed. I will pour out torrents of rain, hailstones, fire, and sulfur on him and on his troops and on the many nations with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8199\|נִשְׁפַּטְתִּ֥י]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H1698\|דֶ֣בֶר]] [[H9002\|וּ]][[H9003\|בְ]][[H1818\|דָ֑ם]] [[H9002\|וְ]][[H1653\|גֶ֣שֶׁם]] [[H7857\|שׁוֹטֵף֩]] [[H9002\|וְ]][[H0068G\|אַבְנֵ֨י]] [[H0417\|אֶלְגָּבִ֜ישׁ]] [[H0784\|אֵ֣שׁ]] [[H9002\|וְ]][[H1614\|גָפְרִ֗ית]] [[H4305\|אַמְטִ֤יר]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0102\|אֲגַפָּ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמִּ֥ים]] [[H7227A\|רַבִּ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BRIMSTONE|BRIMSTONE]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.21|<< Ezekiel 38:21]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.23|Ezekiel 38:23 >>]]</td></tr></table>
 

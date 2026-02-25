@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals a Disabled Woman
+type: Pericope
 pericope: "[[Luke.13.10 Jesus Heals a Disabled Woman|Jesus Heals a Disabled Woman]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Luke
 chapter: 13
 book/chapter: "[[Luke.13|Luke 13]]"
-genre:
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 8
 verses:
 - "[[Luke.13.10]]"
 - "[[Luke.13.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Luke.13.17]]"
 ---
 
-[[Luke.13|Luke 13:10 - Luke 13:17]]
+<small>[[Luke.13|Luke 13:10-17]]</small>
 *Jesus Heals a Disabled Woman*
 
 [[Luke.13.10|10]] And he was teaching in one of the synagogues on the sabbath.

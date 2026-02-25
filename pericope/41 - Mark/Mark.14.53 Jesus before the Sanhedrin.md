@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus before the Sanhedrin
+type: Pericope
 pericope: "[[Mark.14.53 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Mark
 chapter: 14
 book/chapter: "[[Mark.14|Mark 14]]"
-genre:
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 13
 verses:
 - "[[Mark.14.53]]"
 - "[[Mark.14.54]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Mark.14.65]]"
 ---
 
-[[Mark.14|Mark 14:53 - Mark 14:65]]
+<small>[[Mark.14|Mark 14:53-65]]</small>
 *Jesus before the Sanhedrin*
 
 [[Mark.14.53|53]] And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes.

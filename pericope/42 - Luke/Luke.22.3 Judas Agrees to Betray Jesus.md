@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judas Agrees to Betray Jesus
+type: Pericope
 pericope: "[[Luke.22.3 Judas Agrees to Betray Jesus|Judas Agrees to Betray Jesus]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 22
 book/chapter: "[[Luke.22|Luke 22]]"
-genre:
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.22.3]]"
 - "[[Luke.22.4]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.22.6]]"
 ---
 
-[[Luke.22|Luke 22:3 - Luke 22:6]]
+<small>[[Luke.22|Luke 22:3-6]]</small>
 *Judas Agrees to Betray Jesus*
 
 [[Luke.22.3|3]] Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.

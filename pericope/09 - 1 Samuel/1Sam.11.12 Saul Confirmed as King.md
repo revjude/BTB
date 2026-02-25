@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Confirmed as King
+type: Pericope
 pericope: "[[1Sam.11.12 Saul Confirmed as King|Saul Confirmed as King]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 11
 book/chapter: "[[1Sam.11|1 Samuel 11]]"
-genre:
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[1Sam.11.12]]"
 - "[[1Sam.11.13]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Sam.11.15]]"
 ---
 
-[[1Sam.11|1 Samuel 11:12 - 1 Samuel 11:15]]
+<small>[[1Sam.11|1 Samuel 11:12-15]]</small>
 *Saul Confirmed as King*
 
 [[1Sam.11.12|12]] And the people said unto Samuel, Who \[is\] he that said, Shall Saul reign over us? bring the men, that we may put them to death.

@@ -1,10 +1,55 @@
+---
+title: 2 Timothy 2:23
+type: Verse
+kjv: "But foolish and unlearned questions avoid, knowing that they do gender strifes."
+bsb: "But reject foolish and ignorant speculation, for you know that it breeds quarreling."
+greek: "τὰς δὲ μωρὰς καὶ ἀπαιδεύτους ζητήσεις παραιτοῦ εἰδὼς ὅτι γεννῶσιν μάχας·"
+pericope: "[[2Tim.2.14 The Lord’s Approved Workman|The Lord’s Approved Workman]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3474]]"
+- "[[G2532]]"
+- "[[G0521]]"
+- "[[G2214]]"
+- "[[G3868]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G1080]]"
+- "[[G3163]]"
+texts:
+- NKO
+---
+
 **2 Timothy 2:23**<big><big>[[2Tim.2.14 The Lord’s Approved Workman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But foolish and unlearned questions avoid, knowing that they do gender strifes.
 <small><sub>**BSB:**</sub></small>
 But reject foolish and ignorant speculation, for you know that it breeds quarreling.
-<small><sub>**Literal:**</sub></small>
-<the> And foolish and ignorant speculations do refuse knowing that they breed quarrels;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.22|<< 2 Timothy 2:22]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.24|2 Timothy 2:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰς]]  [[G1161\|δὲ]]  [[G3474\|μωρὰς]]  [[G2532\|καὶ]]  [[G0521\|ἀπαιδεύτους]]  [[G2214\|ζητήσεις]]  [[G3868\|παραιτοῦ]]  [[G6063\|εἰδὼς]]  [[G3754G\|ὅτι]]  [[G1080\|γεννῶσιν]]  [[G3163\|μάχας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic STRIFE|STRIFE]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.22|<< 2 Timothy 2:22]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.24|2 Timothy 2:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

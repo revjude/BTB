@@ -1,8 +1,72 @@
+---
+title: Jeremiah 32:3
+type: Verse
+kjv: "For Zedekiah king of Judah had shut him up, saying, Wherefore dost thou prophesy, and say, Thus saith the LORD, Behold, I will give this city into the hand of the king of Babylon, and he shall take it;"
+bsb: "For Zedekiah king of Judah had imprisoned him, saying: “Why are you prophesying like this? You claim that the LORD says, ‘Behold, I am about to deliver this city into the hand of the king of Babylon, and he will capture it."
+hebrew: "אֲשֶׁ֣ר כְּלָא֔וֹ צִדְקִיָּ֥הוּ מֶֽלֶךְ־ יְהוּדָ֖ה לֵאמֹ֑ר מַדּוּעַ֩ אַתָּ֨ה נִבָּ֜א לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִ֨י נֹתֵ֜ן אֶת־ הָעִ֥יר הַזֹּ֛את בְּיַ֥ד מֶֽלֶךְ־ בָּבֶ֖ל וּלְכָדָֽהּ׃"
+pericope: "[[Jer.32.1 Jeremiah Buys Hanamel’s Field|Jeremiah Buys Hanamel’s Field]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H0834A]]"
+- "[[H3607]]"
+- "[[H9033]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4069]]"
+- "[[H0859A]]"
+- "[[H5012]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:3**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Zedekiah king of Judah had shut him up, saying, Wherefore dost thou prophesy, and say, Thus saith the LORD, Behold, I will give this city into the hand of the king of Babylon, and he shall take it;
 <small><sub>**BSB:**</sub></small>
 For Zedekiah king of Judah had imprisoned him, saying: “Why are you prophesying like this? You claim that the LORD says, ‘Behold, I am about to deliver this city into the hand of the king of Babylon, and he will capture it.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֣ר]] [[H3607\|כְּלָא֔]][[H9033\|וֹ]] [[H6667H\|צִדְקִיָּ֥הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4069\|מַדּוּעַ֩]] [[H0859A\|אַתָּ֨ה]] [[H5012\|נִבָּ֜א]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H5414G\|נֹתֵ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9001\|וּ]][[H3920\|לְכָדָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.2|<< Jeremiah 32:2]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.4|Jeremiah 32:4 >>]]</td></tr></table>
 

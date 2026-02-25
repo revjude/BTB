@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Holding to Sound Teaching
+type: Pericope
 pericope: "[[2Tim.1.13 Holding to Sound Teaching|Holding to Sound Teaching]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 1
 book/chapter: "[[2Tim.1|2 Timothy 1]]"
-genre:
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 6
 verses:
 - "[[2Tim.1.13]]"
 - "[[2Tim.1.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Tim.1.18]]"
 ---
 
-[[2Tim.1|2 Timothy 1:13 - 2 Timothy 1:18]]
+<small>[[2Tim.1|2 Timothy 1:13-18]]</small>
 *Holding to Sound Teaching*
 
 [[2Tim.1.13|13]] Hold fast the form of sound words, which thou hast heard of me, in faith and love which is in Christ Jesus.

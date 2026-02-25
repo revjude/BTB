@@ -1,8 +1,62 @@
+---
+title: Job 1:14
+type: Verse
+kjv: "And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:"
+bsb: "a messenger came and reported to Job: “While the oxen were plowing and the donkeys were grazing nearby,"
+hebrew: "וּמַלְאָ֛ךְ בָּ֥א אֶל־ אִיּ֖וֹב וַיֹּאמַ֑ר הַבָּקָר֙ הָי֣וּ חֹֽרְשׁ֔וֹת וְהָאֲתֹנ֖וֹת רֹע֥וֹת עַל־ יְדֵיהֶֽם׃"
+pericope: "[[Job.1.13 Job Loses His Children and Possessions|Job Loses His Children and Possessions]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JOB|JOB]]"
+- "[[topic PLOW|PLOW]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H4397G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0347]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H1241]]"
+- "[[H1961]]"
+- "[[H2790A]]"
+- "[[H0860]]"
+- "[[H7462B]]"
+- "[[H5921A]]"
+- "[[H3027K]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 1:14**<big><big>[[Job.1.13 Job Loses His Children and Possessions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:
 <small><sub>**BSB:**</sub></small>
 a messenger came and reported to Job: “While the oxen were plowing and the donkeys were grazing nearby,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4397G\|מַלְאָ֛ךְ]] [[H0935G\|בָּ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H0347\|אִיּ֖וֹב]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H9009\|הַ]][[H1241\|בָּקָר֙]] [[H1961\|הָי֣וּ]] [[H2790A\|חֹֽרְשׁ֔וֹת]] [[H9002\|וְ]][[H9009\|הָ]][[H0860\|אֲתֹנ֖וֹת]] [[H7462B\|רֹע֥וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H3027K\|יְדֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOB|JOB]] • [[topic PLOW|PLOW]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.13|<< Job 1:13]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.15|Job 1:15 >>]]</td></tr></table>
 

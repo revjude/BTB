@@ -1,10 +1,65 @@
+---
+title: Luke 2:27
+type: Verse
+kjv: "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,"
+bsb: "Led by the Spirit, he went into the temple courts. And when the parents brought in the child Jesus to do for Him what was customary under the Law,"
+greek: "καὶ ἦλθεν ἐν τῷ πνεύματι εἰς τὸ ἱερόν· καὶ ἐν τῷ εἰσαγαγεῖν τοὺς γονεῖς τὸ παιδίον Ἰησοῦν τοῦ ποιῆσαι αὐτοὺς κατὰ τὸ εἰθισμένον τοῦ νόμου περὶ αὐτοῦ,"
+pericope: "[[Luke.2.25 The Prophecy of Simeon|The Prophecy of Simeon]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G1519]]"
+- "[[G2411]]"
+- "[[G1521]]"
+- "[[G1118]]"
+- "[[G3813]]"
+- "[[G2424G]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G2596]]"
+- "[[G1480]]"
+- "[[G3551]]"
+- "[[G4012]]"
+texts:
+- NKO
+---
+
 **Luke 2:27**<big><big>[[Luke.2.25 The Prophecy of Simeon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,
 <small><sub>**BSB:**</sub></small>
 Led by the Spirit, he went into the temple courts. And when the parents brought in the child Jesus to do for Him what was customary under the Law,
-<small><sub>**Literal:**</sub></small>
-And he came in the Spirit into the temple; and in the [time when] bringing in the parents the child Jesus for the [thing] [were] doing they according to that accustomed by the law for Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.26|<< Luke 2:26]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.28|Luke 2:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερόν·]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G1521\|εἰσαγαγεῖν]]  [[G3588\|τοὺς]]  [[G1118\|γονεῖς]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G2424G\|Ἰησοῦν]]  [[G3588\|τοῦ]]  [[G4160G\|ποιῆσαι]]  [[G0846\|αὐτοὺς]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G1480\|εἰθισμένον]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PROPHETS|PROPHETS]] • [[topic RELIGION|RELIGION]] • [[topic SIMEON|SIMEON]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.26|<< Luke 2:26]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.28|Luke 2:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

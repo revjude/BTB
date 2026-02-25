@@ -1,10 +1,51 @@
+---
+title: 1 Corinthians 11:13
+type: Verse
+kjv: "Judge in yourselves: is it comely that a woman pray unto God uncovered?"
+bsb: "Judge for yourselves: Is it proper for a woman to pray to God with her head uncovered?"
+greek: "ἐν ὑμῖν αὐτοῖς κρίνατε· πρέπον ἐστὶν γυναῖκα ἀκατακάλυπτον τῷ θεῷ προσεύχεσθαι;"
+pericope: "[[1Cor.11.1 Roles in Worship|Roles in Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G0846]]"
+- "[[G2919]]"
+- "[[G4241]]"
+- "[[G1510]]"
+- "[[G1135H]]"
+- "[[G0177]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4336]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 11:13**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Judge in yourselves: is it comely that a woman pray unto God uncovered?
 <small><sub>**BSB:**</sub></small>
 Judge for yourselves: Is it proper for a woman to pray to God with her head uncovered?
-<small><sub>**Literal:**</sub></small>
-In you yourselves do judge: Becoming is it for a woman revealed <the> to God to pray?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.12|<< 1 Corinthians 11:12]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.14|1 Corinthians 11:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G0846\|αὐτοῖς]]  [[G2919\|κρίνατε·]]  [[G4241\|πρέπον]]  [[G1510\|ἐστὶν]]  [[G1135H\|γυναῖκα]]  [[G0177\|ἀκατακάλυπτον]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G4336\|προσεύχεσθαι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.12|<< 1 Corinthians 11:12]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.14|1 Corinthians 11:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

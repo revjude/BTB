@@ -1,8 +1,60 @@
+---
+title: Judges 9:40
+type: Verse
+kjv: "And Abimelech chased him, and he fled before him, and many were overthrown and wounded, even unto the entering of the gate."
+bsb: "but Abimelech pursued him, and Gaal fled before him. And many Shechemites fell wounded all the way to the entrance of the gate."
+hebrew: "וַיִּרְדְּפֵ֣הוּ אֲבִימֶ֔לֶךְ וַיָּ֖נָס מִפָּנָ֑יו וַֽיִּפְּל֛וּ חֲלָלִ֥ים רַבִּ֖ים עַד־ פֶּ֥תַח הַשָּֽׁעַר׃"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ZEBUL|ZEBUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H9033]]"
+- "[[H0040H]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H5307J]]"
+- "[[H2491A]]"
+- "[[H7227A]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:40**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech chased him, and he fled before him, and many were overthrown [and] wounded, [even] unto the entering of the gate.
 <small><sub>**BSB:**</sub></small>
 but Abimelech pursued him, and Gaal fled before him. And many Shechemites fell wounded all the way to the entrance of the gate.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7291\|יִּרְדְּפֵ֣]][[H9033\|הוּ]] [[H0040H\|אֲבִימֶ֔לֶךְ]] [[H9001\|וַ]][[H5127\|יָּ֖נָס]] [[H9006\|מִ]][[H6440G\|פָּנָ֑י]][[H9023\|ו]] [[H9001\|וַֽ]][[H5307J\|יִּפְּל֛וּ]] [[H2491A\|חֲלָלִ֥ים]] [[H7227A\|רַבִּ֖ים]] [[H5704\|עַד]][[H9014\|־]] [[H6607\|פֶּ֥תַח]] [[H9009\|הַ]][[H8179G\|שָּֽׁעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic GAAL|GAAL]] • [[topic JUDGE|JUDGE]] • [[topic ZEBUL|ZEBUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.39|<< Judges 9:39]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.41|Judges 9:41 >>]]</td></tr></table>
 

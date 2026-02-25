@@ -1,8 +1,51 @@
+---
+title: Isaiah 25:5
+type: Verse
+kjv: "Thou shalt bring down the noise of strangers, as the heat in a dry place; even the heat with the shadow of a cloud: the branch of the terrible ones shall be brought low."
+bsb: "like heat in a dry land. You subdue the uproar of foreigners. As the shade of a cloud cools the heat, so the song of the ruthless is silenced."
+hebrew: "כְּחֹ֣רֶב בְּצָי֔וֹן שְׁא֥וֹן זָרִ֖ים תַּכְנִ֑יעַ חֹ֚רֶב בְּצֵ֣ל עָ֔ב זְמִ֥יר עָֽרִיצִ֖ים יַעֲנֶֽה׃ פ"
+pericope: "[[Isa.25.1 Praise to the Victorious God|Praise to the Victorious God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 25
+book/chapter: "[[Isa.25|Isaiah 25]]"
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H9004]]"
+- "[[H2721A]]"
+- "[[H9003]]"
+- "[[H6724]]"
+- "[[H7588]]"
+- "[[H2114A]]"
+- "[[H3665]]"
+- "[[H6738]]"
+- "[[H5645]]"
+- "[[H2158]]"
+- "[[H6184]]"
+- "[[H6031B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 25:5**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt bring down the noise of strangers, as the heat in a dry place; [even] the heat with the shadow of a cloud: the branch of the terrible ones shall be brought low.
 <small><sub>**BSB:**</sub></small>
 like heat in a dry land. You subdue the uproar of foreigners. As the shade of a cloud cools the heat, so the song of the ruthless is silenced.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H2721A\|חֹ֣רֶב]] [[H9003\|בְּ]][[H6724\|צָי֔וֹן]] [[H7588\|שְׁא֥וֹן]] [[H2114A\|זָרִ֖ים]] [[H3665\|תַּכְנִ֑יעַ]] [[H2721A\|חֹ֚רֶב]] [[H9003\|בְּ]][[H6738\|צֵ֣ל]] [[H5645\|עָ֔ב]] [[H2158\|זְמִ֥יר]] [[H6184\|עָֽרִיצִ֖ים]] [[H6031B\|יַעֲנֶֽה]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.4|<< Isaiah 25:4]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.6|Isaiah 25:6 >>]]</td></tr></table>
 
@@ -18,7 +61,7 @@ like heat in a dry land. You subdue the uproar of foreigners. As the shade of a 
 | a cloud  |**<big>&#8207;[[H5645\|עָ֔ב]]&#8207; </big>**| 'Av<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] song of  |**<big>&#8207;[[H2158\|זְמִ֥יר]]&#8207; </big>**| ze.Mir<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ruthless [people]  |**<big>&#8207;[[H6184\|עָֽרִיצִ֖ים]]&#8207; </big>**| 'a.ri.Tzim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will quieten  |**<big>&#8207;[[H6031B\|יַעֲנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.'a.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will quieten  |**<big>&#8207;[[H6031B\|יַעֲנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.'a.Neh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.4|<< Isaiah 25:4]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.6|Isaiah 25:6 >>]]</td></tr></table>
 
 

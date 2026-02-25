@@ -1,8 +1,60 @@
+---
+title: Genesis 25:27
+type: Verse
+kjv: "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents."
+bsb: "When the boys grew up, Esau became a skillful hunter, a man of the field, while Jacob was a quiet man who stayed at home."
+hebrew: "וַֽיִּגְדְּלוּ֙ הַנְּעָרִ֔ים וַיְהִ֣י עֵשָׂ֗ו אִ֛ישׁ יֹדֵ֥עַ צַ֖יִד אִ֣ישׁ שָׂדֶ֑ה וְיַעֲקֹב֙ אִ֣ישׁ תָּ֔ם יֹשֵׁ֖ב אֹהָלִֽים׃"
+pericope: "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ESAU|ESAU]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H1961]]"
+- "[[H6215G]]"
+- "[[H0376G]]"
+- "[[H3045]]"
+- "[[H6718A]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H8535]]"
+- "[[H3427]]"
+- "[[H0168G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:27**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob [was] a plain man, dwelling in tents.
 <small><sub>**BSB:**</sub></small>
 When the boys grew up, Esau became a skillful hunter, a man of the field, while Jacob was a quiet man who stayed at home.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1431\|יִּגְדְּלוּ֙]] [[H9009\|הַ]][[H5288\|נְּעָרִ֔ים]] [[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H6215G\|עֵשָׂ֗ו]] [[H0376G\|אִ֛ישׁ]] [[H3045\|יֹדֵ֥עַ]] [[H6718A\|צַ֖יִד]] [[H0376G\|אִ֣ישׁ]] [[H7704G\|שָׂדֶ֑ה]] [[H9002\|וְ]][[H3290\|יַעֲקֹב֙]] [[H0376G\|אִ֣ישׁ]] [[H8535\|תָּ֔ם]] [[H3427\|יֹשֵׁ֖ב]] [[H0168G\|אֹהָלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESAU|ESAU]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.26|<< Genesis 25:26]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.28|Genesis 25:28 >>]]</td></tr></table>
 

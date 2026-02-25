@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 3:9
+type: Verse
+kjv: "So do God to Abner, and more also, except, as the LORD hath sworn to David, even so I do to him;"
+bsb: "May God punish Abner, and ever so severely, if I do not do for David what the LORD has sworn to him:"
+hebrew: "כֹּֽה־ יַעֲשֶׂ֤ה אֱלֹהִים֙ לְאַבְנֵ֔ר וְכֹ֖ה יֹסִ֣יף ל֑וֹ כִּ֗י כַּאֲשֶׁ֨ר נִשְׁבַּ֤ע יְהוָה֙ לְדָוִ֔ד כִּֽי־ כֵ֖ן אֶֽעֱשֶׂה־ לּֽוֹ׃"
+pericope: "[[2Sam.3.6 Abner Joins David|Abner Joins David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic ISH-BOSHETH|ISH-BOSHETH]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H0074]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7650]]"
+- "[[H3068G]]"
+- "[[H1732]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:9**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So do God to Abner, and more also, except, as the LORD hath sworn to David, even so I do to him;
 <small><sub>**BSB:**</sub></small>
 May God punish Abner, and ever so severely, if I do not do for David what the LORD has sworn to him:
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֤ה]] [[H0430G\|אֱלֹהִים֙]] [[H9005\|לְ]][[H0074\|אַבְנֵ֔ר]] [[H9002\|וְ]][[H3541\|כֹ֖ה]] [[H3254H\|יֹסִ֣יף]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H3588A\|כִּ֗י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֤ע]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H1732\|דָוִ֔ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3651C\|כֵ֖ן]] [[H6213A\|אֶֽעֱשֶׂה]][[H9014\|־]] [[H9005\|לּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic ISH-BOSHETH|ISH-BOSHETH]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.8|<< 2 Samuel 3:8]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.10|2 Samuel 3:10 >>]]</td></tr></table>
 

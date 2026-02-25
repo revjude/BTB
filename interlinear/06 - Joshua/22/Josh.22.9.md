@@ -1,8 +1,75 @@
+---
+title: Joshua 22:9
+type: Verse
+kjv: "And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go unto the country of Gilead, to the land of their possession, whereof they were possessed, according to the word of the LORD by the hand of Moses."
+bsb: "So the Reubenites, the Gadites, and the half-tribe of Manasseh left the Israelites at Shiloh in the land of Canaan to return to their own land of Gilead, which they had acquired according to the command of the LORD through Moses."
+hebrew: "וַיָּשֻׁ֣בוּ וַיֵּלְכ֡וּ בְּנֵי־ רְאוּבֵ֨ן וּבְנֵי־ גָ֜ד וַחֲצִ֣י׀ שֵׁ֣בֶט הַֽמְנַשֶּׁ֗ה מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל מִשִּׁלֹ֖ה אֲשֶׁ֣ר בְּאֶֽרֶץ־ כְּנָ֑עַן לָלֶ֜כֶת אֶל־ אֶ֣רֶץ הַגִּלְעָ֗ד אֶל־ אֶ֤רֶץ אֲחֻזָּתָם֙ אֲשֶׁ֣ר נֹֽאחֲזוּ־ בָ֔הּ עַל־ פִּ֥י יְהוָ֖ה בְּיַד־ מֹשֶֽׁה׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H1980G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H7205]]"
+- "[[H9002]]"
+- "[[H1410G]]"
+- "[[H2677]]"
+- "[[H9015]]"
+- "[[H7626H]]"
+- "[[H9009]]"
+- "[[H4519G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3478]]"
+- "[[H7887]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9005]]"
+- "[[H0413]]"
+- "[[H1568G]]"
+- "[[H0272]]"
+- "[[H9028]]"
+- "[[H0270]]"
+- "[[H9034]]"
+- "[[H5921A]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H3027J]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:9**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which [is] in the land of Canaan, to go unto the country of Gilead, to the land of their possession, whereof they were possessed, according to the word of the LORD by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
 So the Reubenites, the Gadites, and the half-tribe of Manasseh left the Israelites at Shiloh in the land of Canaan to return to their own land of Gilead, which they had acquired according to the command of the LORD through Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשֻׁ֣בוּ]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֡וּ]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H7205\|רְאוּבֵ֨ן]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H1410G\|גָ֜ד]] [[H9002\|וַ]][[H2677\|חֲצִ֣י]][[H9015\|׀]] [[H7626H\|שֵׁ֣בֶט]] [[H9009\|הַֽ]][[H4519G\|מְנַשֶּׁ֗ה]] [[H9006\|מֵ]][[H0854\|אֵת֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H7887\|שִּׁלֹ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H3667A\|כְּנָ֑עַן]] [[H9005\|לָ]][[H1980G\|לֶ֜כֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֗ד]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֤רֶץ]] [[H0272\|אֲחֻזָּתָ]][[H9028\|ם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0270\|נֹֽאחֲזוּ]][[H9014\|־]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOTIVE|MOTIVE]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.8|<< Joshua 22:8]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.10|Joshua 22:10 >>]]</td></tr></table>
 

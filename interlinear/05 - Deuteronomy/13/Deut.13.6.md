@@ -1,8 +1,80 @@
+---
+title: Deuteronomy 13:6
+type: Verse
+kjv: "If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;"
+bsb: "If your very own brother, or your son or daughter, or the wife you embrace, or your closest friend secretly entices you, saying, “Let us go and worship other gods” (which neither you nor your fathers have known,"
+hebrew: "כִּ֣י יְסִֽיתְךָ֡ אָחִ֣יךָ בֶן־ אִ֠מֶּךָ אֽוֹ־ בִנְךָ֨ אֽוֹ־ בִתְּךָ֜ א֣וֹ׀ אֵ֣שֶׁת חֵיקֶ֗ךָ א֧וֹ רֵֽעֲךָ֛ אֲשֶׁ֥ר כְּנַפְשְׁךָ֖ בַּסֵּ֣תֶר לֵאמֹ֑ר נֵֽלְכָ֗ה וְנַֽעַבְדָה֙ אֱלֹהִ֣ים אֲחֵרִ֔ים אֲשֶׁר֙ לֹ֣א יָדַ֔עְתָּ אַתָּ֖ה וַאֲבֹתֶֽיךָ׃"
+pericope: "[[Deut.13.1 Idolaters to Be Put to Death|Idolaters to Be Put to Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5496]]"
+- "[[H9031]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0517]]"
+- "[[H0176A]]"
+- "[[H1323G]]"
+- "[[H9015]]"
+- "[[H0802H]]"
+- "[[H2436G]]"
+- "[[H7453]]"
+- "[[H0834A]]"
+- "[[H9004]]"
+- "[[H5315G]]"
+- "[[H9003]]"
+- "[[H5643A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H5647H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0859A]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:6**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which [is] as thine own soul, entice thee secretly, saying, Let us go and serve other gods, which thou hast not known, thou, nor thy fathers;
 <small><sub>**BSB:**</sub></small>
 If your very own brother, or your son or daughter, or the wife you embrace, or your closest friend secretly entices you, saying, “Let us go and worship other gods” (which neither you nor your fathers have known,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H5496\|יְסִֽיתְ]][[H9031\|ךָ֡]] [[H0251G\|אָחִ֣י]][[H9021\|ךָ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0517\|אִ֠מֶּ]][[H9021\|ךָ]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H1121A\|בִנְ]][[H9021\|ךָ֨]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H1323G\|בִתְּ]][[H9021\|ךָ֜]] [[H0176A\|א֣וֹ]][[H9015\|׀]] [[H0802H\|אֵ֣שֶׁת]] [[H2436G\|חֵיקֶ֗]][[H9021\|ךָ]] [[H0176A\|א֧וֹ]] [[H7453\|רֵֽעֲ]][[H9021\|ךָ֛]] [[H0834A\|אֲשֶׁ֥ר]] [[H9004\|כְּ]][[H5315G\|נַפְשְׁ]][[H9021\|ךָ֖]] [[H9003\|בַּ]][[H5643A\|סֵּ֣תֶר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1980G\|נֵֽלְכָ֗ה]] [[H9002\|וְ]][[H5647H\|נַֽעַבְדָה֙]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H0834A\|אֲשֶׁר֙]] [[H3808\|לֹ֣א]] [[H3045\|יָדַ֔עְתָּ]] [[H0859A\|אַתָּ֖ה]] [[H9002\|וַ]][[H0001G\|אֲבֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic MARRIAGE|MARRIAGE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.5|<< Deuteronomy 13:5]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.7|Deuteronomy 13:7 >>]]</td></tr></table>
 

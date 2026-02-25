@@ -1,8 +1,81 @@
+---
+title: Leviticus 4:35
+type: Verse
+kjv: "And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him."
+bsb: "And he shall remove all the fat, just as the fat of the lamb is removed from the peace offerings, and he shall burn it on the altar along with the food offerings to the LORD. In this way the priest will make atonement for him for the sin he has committed, and he will be forgiven."
+hebrew: "וְאֶת־ כָּל־ חֶלְבָּ֣ה יָסִ֗יר כַּאֲשֶׁ֨ר יוּסַ֥ר חֵֽלֶב־ הַכֶּשֶׂב֮ מִזֶּ֣בַח הַשְּׁלָמִים֒ וְהִקְטִ֨יר הַכֹּהֵ֤ן אֹתָם֙ הַמִּזְבֵּ֔חָה עַ֖ל אִשֵּׁ֣י יְהוָ֑ה וְכִפֶּ֨ר עָלָ֧יו הַכֹּהֵ֛ן עַל־ חַטָּאת֥וֹ אֲשֶׁר־ חָטָ֖א וְנִסְלַ֥ח לֽוֹ׃ פ"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H2459]]"
+- "[[H9024]]"
+- "[[H5493G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9009]]"
+- "[[H3775]]"
+- "[[H9006]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H3548]]"
+- "[[H9038]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H5921A]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H3722A]]"
+- "[[H9033]]"
+- "[[H2403B]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H5545]]"
+- "[[H9005]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 4:35**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall take away all the fat thereof, as the fat of the lamb is taken away from the sacrifice of the peace offerings; and the priest shall burn them upon the altar, according to the offerings made by fire unto the LORD: and the priest shall make an atonement for his sin that he hath committed, and it shall be forgiven him.
 <small><sub>**BSB:**</sub></small>
 And he shall remove all the fat, just as the fat of the lamb is removed from the peace offerings, and he shall burn it on the altar along with the food offerings to the LORD. In this way the priest will make atonement for him for the sin he has committed, and he will be forgiven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2459\|חֶלְבָּ֣]][[H9024\|ה]] [[H5493G\|יָסִ֗יר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H5493G\|יוּסַ֥ר]] [[H2459\|חֵֽלֶב]][[H9014\|־]] [[H9009\|הַ]][[H3775\|כֶּשֶׂב֮]] [[H9006\|מִ]][[H2077\|זֶּ֣בַח]] [[H9009\|הַ]][[H8002\|שְּׁלָמִים֒]] [[H9001\|וְ]][[H6999A\|הִקְטִ֨יר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֤ן]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חָ]][[H9011\|ה]] [[H5921A\|עַ֖ל]] [[H0801\|אִשֵּׁ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H3722A\|כִפֶּ֨ר]] [[H5921A\|עָלָ֧י]][[H9033\|ו]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H5921A\|עַל]][[H9014\|־]] [[H2403B\|חַטָּאת֥]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2398\|חָטָ֖א]] [[H9001\|וְ]][[H5545\|נִסְלַ֥ח]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PRIEST|PRIEST]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.34|<< Leviticus 4:34]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.1|Leviticus 5:1 >>]]</td></tr></table>
 
@@ -33,7 +106,7 @@ And he shall remove all the fat, just as the fat of the lamb is removed from the
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has sinned  |**<big>&#8207;[[H2398\|חָטָ֖א]]&#8207; </big>**| cha.Ta'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it will be forgiven  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5545\|נִסְלַ֥ח]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nis.Lach<small><sup>[[HVNq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> him  |**<big>&#8207;[[H9005\|לֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.34|<< Leviticus 4:34]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.1|Leviticus 5:1 >>]]</td></tr></table>
 
 

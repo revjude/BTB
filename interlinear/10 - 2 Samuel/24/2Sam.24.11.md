@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 24:11
+type: Verse
+kjv: "For when David was up in the morning, the word of the LORD came unto the prophet Gad, David’s seer, saying,"
+bsb: "When David got up in the morning, the word of the LORD had come to Gad the prophet, David’s seer:"
+hebrew: "וַיָּ֥קָם דָּוִ֖ד בַּבֹּ֑קֶר פ וּדְבַר־ יְהוָ֗ה הָיָה֙ אֶל־ גָּ֣ד הַנָּבִ֔יא חֹזֵ֥ה דָוִ֖ד לֵאמֹֽר׃"
+pericope: "[[2Sam.24.10 Judgment for David’s Sin|Judgment for David’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9017]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H1410H]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H2374]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 24:11**<big><big>[[2Sam.24.10 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For when David was up in the morning, the word of the LORD came unto the prophet Gad, David’s seer, saying,
 <small><sub>**BSB:**</sub></small>
 When David got up in the morning, the word of the LORD had come to Gad the prophet, David’s seer:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֥קָם]] [[H1732\|דָּוִ֖ד]] [[H9003\|בַּ]][[H1242\|בֹּ֑קֶר]] [[H9017\|פ]] [[H9002\|וּ]][[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H1961\|הָיָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1410H\|גָּ֣ד]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H2374\|חֹזֵ֥ה]] [[H1732\|דָוִ֖ד]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic NATION|NATION]] • [[topic PLAGUE|PLAGUE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.10|<< 2 Samuel 24:10]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.12|2 Samuel 24:12 >>]]</td></tr></table>
 
@@ -10,7 +66,7 @@ When David got up in the morning, the word of the LORD had come to Gad the proph
 | - | - | - | - |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֥קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֖ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in the morning  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1242\|בֹּ֑קֶר]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in the morning  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1242\|בֹּ֑קֶר]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Bo.ker<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] word of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1697G\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֗ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it came  |**<big>&#8207;[[H1961\|הָיָה֙]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

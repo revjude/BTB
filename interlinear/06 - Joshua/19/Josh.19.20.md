@@ -1,8 +1,49 @@
+---
+title: Joshua 19:20
+type: Verse
+kjv: "And Rabbith, and Kishion, and Abez,"
+bsb: "Rabbith, Kishion, Ebez,"
+hebrew: "וְהָֽרַבִּ֥ית וְקִשְׁי֖וֹן וָאָֽבֶץ׃"
+pericope: "[[Josh.19.17 Issachar’s Inheritance|Issachar’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ABEZ|ABEZ]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic KEDESH|KEDESH]]"
+- "[[topic RABBITH|RABBITH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7245]]"
+- "[[H7191]]"
+- "[[H0077]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:20**<big><big>[[Josh.19.17 Issachar’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rabbith, and Kishion, and Abez,
 <small><sub>**BSB:**</sub></small>
 Rabbith, Kishion, Ebez,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָֽ]][[H7245\|רַבִּ֥ית]] [[H9002\|וְ]][[H7191\|קִשְׁי֖וֹן]] [[H9002\|וָ]][[H0077\|אָֽבֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEZ|ABEZ]] • [[topic ISSACHAR|ISSACHAR]] • [[topic KEDESH|KEDESH]] • [[topic RABBITH|RABBITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.19|<< Joshua 19:19]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.21|Joshua 19:21 >>]]</td></tr></table>
 

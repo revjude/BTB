@@ -1,10 +1,52 @@
+---
+title: Matthew 27:52
+type: Verse
+kjv: "And the graves were opened; and many bodies of the saints which slept arose,"
+bsb: "The tombs broke open, and the bodies of many saints who had fallen asleep were raised."
+greek: "καὶ τὰ μνημεῖα ἀνεῴχθησαν, καὶ πολλὰ σώματα τῶν κεκοιμημένων ἁγίων ἠγέρθησαν,"
+pericope: "[[Matt.27.45 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3419]]"
+- "[[G0455]]"
+- "[[G4183]]"
+- "[[G4983]]"
+- "[[G2837]]"
+- "[[G0040H]]"
+- "[[G1453]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 27:52**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the graves were opened; and many bodies of the saints which slept arose,
 <small><sub>**BSB:**</sub></small>
 The tombs broke open, and the bodies of many saints who had fallen asleep were raised.
-<small><sub>**Literal:**</sub></small>
-and the tombs were opened, and many bodies of the having fallen asleep saints were raised,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.51|<< Matthew 27:51]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.53|Matthew 27:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3419\|μνημεῖα]]  [[G0455\|ἀνεῴχθησαν,]]  [[G2532\|καὶ]]  [[G4183\|πολλὰ]]  [[G4983\|σώματα]]  [[G3588\|τῶν]]  [[G2837\|κεκοιμημένων]]  [[G0040H\|ἁγίων]]  [[G1453\|ἠγέρθησαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.51|<< Matthew 27:51]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.53|Matthew 27:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

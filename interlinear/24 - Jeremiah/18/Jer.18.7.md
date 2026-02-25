@@ -1,8 +1,56 @@
+---
+title: Jeremiah 18:7
+type: Verse
+kjv: "At what instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy it;"
+bsb: "At any time I might announce that a nation or kingdom will be uprooted, torn down, and destroyed."
+hebrew: "רֶ֣גַע אֲדַבֵּ֔ר עַל־ גּ֖וֹי וְעַל־ מַמְלָכָ֑ה לִנְת֥וֹשׁ וְלִנְת֖וֹץ וּֽלְהַאֲבִֽיד׃"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H7281]]"
+- "[[H1696I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H4467]]"
+- "[[H9005]]"
+- "[[H5428]]"
+- "[[H5422]]"
+- "[[H0006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 18:7**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [At what] instant I shall speak concerning a nation, and concerning a kingdom, to pluck up, and to pull down, and to destroy [it];
 <small><sub>**BSB:**</sub></small>
 At any time I might announce that a nation or kingdom will be uprooted, torn down, and destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H7281\|רֶ֣גַע]] [[H1696I\|אֲדַבֵּ֔ר]] [[H5921A\|עַל]][[H9014\|־]] [[H1471A\|גּ֖וֹי]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4467\|מַמְלָכָ֑ה]] [[H9005\|לִ]][[H5428\|נְת֥וֹשׁ]] [[H9002\|וְ]][[H9005\|לִ]][[H5422\|נְת֖וֹץ]] [[H9002\|וּֽ]][[H9005\|לְ]][[H0006\|הַאֲבִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.6|<< Jeremiah 18:6]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.8|Jeremiah 18:8 >>]]</td></tr></table>
 

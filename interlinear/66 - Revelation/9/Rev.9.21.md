@@ -1,10 +1,59 @@
+---
+title: Revelation 9:21
+type: Verse
+kjv: "Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts."
+bsb: "Furthermore, they did not repent of their murder, sorcery, sexual immorality, and theft."
+greek: "καὶ οὐ μετενόησαν ἐκ τῶν φόνων αὐτῶν οὔτε ἐκ τῶν φαρμάκων αὐτῶν οὔτε ἐκ τῆς πορνείας αὐτῶν οὔτε ἐκ τῶν κλεμμάτων αὐτῶν.¶"
+pericope: "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3340]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5408]]"
+- "[[G0846]]"
+- "[[G3777]]"
+- "[[G5333]]"
+- "[[G4202]]"
+- "[[G2809]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 9:21**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
 <small><sub>**BSB:**</sub></small>
 Furthermore, they did not repent of their murder, sorcery, sexual immorality, and theft.
-<small><sub>**Literal:**</sub></small>
-And not they repented of the murders of them nor of the sorceries of them nor of the sexual immorality of them nor of the thefts of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.20|<< Revelation 9:20]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.1|Revelation 10:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3340\|μετενόησαν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5408\|φόνων]]  [[G0846\|αὐτῶν]]  [[G3777\|οὔτε]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5333\|φαρμάκων]]  [[G0846\|αὐτῶν]]  [[G3777\|οὔτε]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4202\|πορνείας]]  [[G0846\|αὐτῶν]]  [[G3777\|οὔτε]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2809\|κλεμμάτων]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HOMICIDE|HOMICIDE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.20|<< Revelation 9:20]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.1|Revelation 10:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Nehemiah 9:22
+type: Verse
+kjv: "Moreover thou gavest them kingdoms and nations, and didst divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan."
+bsb: "You gave them kingdoms and peoples and allotted to them every corner of the land. So they took the land of Sihon king of Heshbon and of Og king of Bashan."
+hebrew: "וַתִּתֵּ֨ן לָהֶ֤ם מַמְלָכוֹת֙ וַעֲמָמִ֔ים וַֽתַּחְלְקֵ֖ם לְפֵאָ֑ה וַיִּֽירְשׁ֞וּ אֶת־ אֶ֣רֶץ סִיח֗וֹן וְאֶת־ אֶ֙רֶץ֙ מֶ֣לֶךְ חֶשְׁבּ֔וֹן וְאֶת־ אֶ֖רֶץ ע֥וֹג מֶֽלֶךְ־ הַבָּשָֽׁן׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic OG|OG]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4467]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H2505A]]"
+- "[[H6285]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H2809]]"
+- "[[H5747]]"
+- "[[H9009]]"
+- "[[H1316]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:22**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover thou gavest them kingdoms and nations, and didst divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.
 <small><sub>**BSB:**</sub></small>
 You gave them kingdoms and peoples and allotted to them every corner of the land. So they took the land of Sihon king of Heshbon and of Og king of Bashan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|תִּתֵּ֨ן]] [[H9005\|לָ]][[H9038\|הֶ֤ם]] [[H4467\|מַמְלָכוֹת֙]] [[H9002\|וַ]][[H5971A\|עֲמָמִ֔ים]] [[H9001\|וַֽ]][[H2505A\|תַּחְלְקֵ֖]][[H9038\|ם]] [[H9005\|לְ]][[H6285\|פֵאָ֑ה]] [[H9001\|וַ]][[H3423H\|יִּֽירְשׁ֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H5511\|סִיח֗וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֙רֶץ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H2809\|חֶשְׁבּ֔וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֖רֶץ]] [[H5747\|ע֥וֹג]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H9009\|הַ]][[H1316\|בָּשָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic OG|OG]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.21|<< Nehemiah 9:21]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.23|Nehemiah 9:23 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: Galatians 1:4
+type: Verse
+kjv: "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:"
+bsb: "who gave Himself for our sins to rescue us from the present evil age, according to the will of our God and Father,"
+greek: "τοῦ δόντος ἑαυτὸν ὑπὲρ τῶν ἁμαρτιῶν ἡμῶν, ὅπως ἐξέληται ἡμᾶς ἐκ τοῦ αἰῶνος τοῦ ἐνεστῶτος πονηροῦ κατὰ τὸ θέλημα τοῦ θεοῦ καὶ πατρὸς ἡμῶν,"
+pericope: "[[Gal.1.1 Paul’s Greeting to the Galatians|Paul’s Greeting to the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G3588]]"
+- "[[G1325]]"
+- "[[G1438]]"
+- "[[G5228]]"
+- "[[G0266]]"
+- "[[G3165]]"
+- "[[G3704]]"
+- "[[G1807]]"
+- "[[G1537]]"
+- "[[G0165G]]"
+- "[[G1764]]"
+- "[[G4190]]"
+- "[[G2596]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Galatians 1:4**<big><big>[[Gal.1.1 Paul’s Greeting to the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:
 <small><sub>**BSB:**</sub></small>
 who gave Himself for our sins to rescue us from the present evil age, according to the will of our God and Father,
-<small><sub>**Literal:**</sub></small>
-the [One who] having given Himself for the sins of us, so that He may deliver us out of the age of which having come presently evil according to the will of the God and Father of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.3|<< Galatians 1:3]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.5|Galatians 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G1325\|δόντος]]  [[G1438\|ἑαυτὸν]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῶν]]  [[G0266\|ἁμαρτιῶν]]  [[G3165\|ἡμῶν,]]  [[G3704\|ὅπως]]  [[G1807\|ἐξέληται]]  [[G3165\|ἡμᾶς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G0165G\|αἰῶνος]]  [[G3588\|τοῦ]]  [[G1764\|ἐνεστῶτος]]  [[G4190\|πονηροῦ]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REDEMPTION|REDEMPTION]] • [[topic SALVATION|SALVATION]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.3|<< Galatians 1:3]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.5|Galatians 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

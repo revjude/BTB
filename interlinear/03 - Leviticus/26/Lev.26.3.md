@@ -1,8 +1,63 @@
+---
+title: Leviticus 26:3
+type: Verse
+kjv: "If ye walk in my statutes, and keep my commandments, and do them;"
+bsb: "If you follow My statutes and carefully keep My commandments,"
+hebrew: "אִם־ בְּחֻקֹּתַ֖י תֵּלֵ֑כוּ וְאֶת־ מִצְוֹתַ֣י תִּשְׁמְר֔וּ וַעֲשִׂיתֶ֖ם אֹתָֽם׃"
+pericope: "[[Lev.26.1 Additional Blessings of Obedience|Additional Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2708]]"
+- "[[H9020]]"
+- "[[H1980I]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H4687]]"
+- "[[H8104G]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:3**<big><big>[[Lev.26.1 Additional Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye walk in my statutes, and keep my commandments, and do them;
 <small><sub>**BSB:**</sub></small>
 If you follow My statutes and carefully keep My commandments,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H2708\|חֻקֹּתַ֖]][[H9020\|י]] [[H1980I\|תֵּלֵ֑כוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹתַ֣]][[H9020\|י]] [[H8104G\|תִּשְׁמְר֔וּ]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתֶ֖ם]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RAIN|RAIN]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.2|<< Leviticus 26:2]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.4|Leviticus 26:4 >>]]</td></tr></table>
 

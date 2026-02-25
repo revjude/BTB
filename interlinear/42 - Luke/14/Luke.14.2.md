@@ -1,10 +1,52 @@
+---
+title: Luke 14:2
+type: Verse
+kjv: "And, behold, there was a certain man before him which had the dropsy."
+bsb: "Right there before Him was a man with dropsy."
+greek: "καὶ ἰδοὺ ἄνθρωπός τις ἦν ὑδρωπικὸς ἔμπροσθεν αὐτοῦ.¶"
+pericope: "[[Luke.14.1 Jesus Heals a Man with Dropsy|Jesus Heals a Man with Dropsy]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DROPSY|DROPSY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0444]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G5203]]"
+- "[[G1715]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 14:2**<big><big>[[Luke.14.1 Jesus Heals a Man with Dropsy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, there was a certain man before him which had the dropsy.
 <small><sub>**BSB:**</sub></small>
 Right there before Him was a man with dropsy.
-<small><sub>**Literal:**</sub></small>
-And behold a man certain there was with dropsy before Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.1|<< Luke 14:1]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.3|Luke 14:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0444\|ἄνθρωπός]]  [[G5100\|τις]]  [[G1510\|ἦν]]  [[G5203\|ὑδρωπικὸς]]  [[G1715\|ἔμπροσθεν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DROPSY|DROPSY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.1|<< Luke 14:1]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.3|Luke 14:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

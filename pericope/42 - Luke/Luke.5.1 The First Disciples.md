@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Disciples
+type: Pericope
 pericope: "[[Luke.5.1 The First Disciples|The First Disciples]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Luke
 chapter: 5
 book/chapter: "[[Luke.5|Luke 5]]"
-genre:
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 11
 verses:
 - "[[Luke.5.1]]"
 - "[[Luke.5.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Luke.5.11]]"
 ---
 
-[[Luke.5|Luke 5:1 - Luke 5:11]]
+<small>[[Luke.5|Luke 5:1-11]]</small>
 *The First Disciples*
 
 [[Luke.5.1|1]] And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,

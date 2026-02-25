@@ -1,6 +1,47 @@
+---
+title: LXX Ezekiel 41:14
+type: Verse
+lxx: "And the breadth in front of the temple, and the spaces left over opposite -- a hundred cubits."
+greek: "και το εύρος κατά πρόσωπον του ναού και τα απόλοιπα κατέναντι πηχών εκατόν"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G7563]]"
+- "[[G2596]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G3485]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G6458]]"
+- "[[G2713]]"
+- "[[G4083]]"
+- "[[G1540]]"
+---
+
 **LXX Ezekiel 41:14** 
 <small><sub>**LXX:**</sub></small>
 And the breadth in front of the temple, and the \[spaces\] left over opposite -- a hundred cubits. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|το]] [[G7563\|εύρος]] [[G2596\|κατά]] [[G4383\|πρόσωπον]] [[G3588\|του]] [[G3485\|ναού]] [[G2532\|και]] [[G3588\|τα]] [[G6458\|απόλοιπα]] [[G2713\|κατέναντι]] [[G4083\|πηχών]] [[G1540\|εκατόν]]
 <small><sub>**MT:**</sub></small>
 [[Ezek.41.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.13|<< Ezekiel 41:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.15|Ezekiel 41:15 >>]]</td></tr></table>
 
@@ -19,6 +60,6 @@ And the breadth in front of the temple, and the \[spaces\] left over opposite --
 | opposite -- | **<big>[[G2713\|κατέναντι]]</big>** |
 | cubits | **<big>[[G4083\|πηχών]]</big>** |
 | a hundred | **<big>[[G1540\|εκατόν]]</big>** |
-[[Ezek.41.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.13|<< Ezekiel 41:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.15|Ezekiel 41:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.41.13|<< Ezekiel 41:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.41.15|Ezekiel 41:15 >>]]</td></tr></table>
 
 

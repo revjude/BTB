@@ -1,10 +1,57 @@
+---
+title: Mark 7:33
+type: Verse
+kjv: "And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;"
+bsb: "So Jesus took him aside privately, away from the crowd, and put His fingers into the man’s ears. Then He spit and touched the man’s tongue."
+greek: "καὶ ἀπολαβόμενος αὐτὸν ἀπὸ τοῦ ὄχλου κατ᾽ ἰδίαν ἔβαλεν τοὺς δακτύλους αὐτοῦ εἰς τὰ ὦτα αὐτοῦ, καὶ πτύσας ἥψατο τῆς γλώσσης αὐτοῦ,"
+pericope: "[[Mark.7.31 The Deaf and Mute Man|The Deaf and Mute Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SPITTING|SPITTING]]"
+strongs:
+- "[[G2532]]"
+- "[[G0618]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G0906H]]"
+- "[[G1147]]"
+- "[[G1519]]"
+- "[[G3775]]"
+- "[[G4429]]"
+- "[[G0681]]"
+- "[[G1100]]"
+texts:
+- NKO
+---
+
 **Mark 7:33**<big><big>[[Mark.7.31 The Deaf and Mute Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;
 <small><sub>**BSB:**</sub></small>
 So Jesus took him aside privately, away from the crowd, and put His fingers into the man’s ears. Then He spit and touched the man’s tongue.
-<small><sub>**Literal:**</sub></small>
-And having taken away him from the crowd aside privately He put the fingers of Him to the ears of him, and having spit He touched the tongue of him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.32|<< Mark 7:32]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.34|Mark 7:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0618\|ἀπολαβόμενος]]  [[G0846\|αὐτὸν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G0906H\|ἔβαλεν]]  [[G3588\|τοὺς]]  [[G1147\|δακτύλους]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3775\|ὦτα]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G4429\|πτύσας]]  [[G0681\|ἥψατο]]  [[G3588\|τῆς]]  [[G1100\|γλώσσης]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SPITTING|SPITTING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.32|<< Mark 7:32]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.34|Mark 7:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

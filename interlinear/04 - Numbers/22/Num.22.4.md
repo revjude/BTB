@@ -1,8 +1,76 @@
+---
+title: Numbers 22:4
+type: Verse
+kjv: "And Moab said unto the elders of Midian, Now shall this company lick up all that are round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor was king of the Moabites at that time."
+bsb: "So the Moabites said to the elders of Midian, “This horde will devour everything around us, as an ox licks up the grass of the field.” Since Balak son of Zippor was king of Moab at that time,"
+hebrew: "וַיֹּ֨אמֶר מוֹאָ֜ב אֶל־ זִקְנֵ֣י מִדְיָ֗ן עַתָּ֞ה יְלַחֲכ֤וּ הַקָּהָל֙ אֶת־ כָּל־ סְבִ֣יבֹתֵ֔ינוּ כִּלְחֹ֣ךְ הַשּׁ֔וֹר אֵ֖ת יֶ֣רֶק הַשָּׂדֶ֑ה וּבָלָ֧ק בֶּן־ צִפּ֛וֹר מֶ֥לֶךְ לְמוֹאָ֖ב בָּעֵ֥ת הַהִֽוא׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAK|BALAK]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic ZIPPOR|ZIPPOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4124G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2205G]]"
+- "[[H4080H]]"
+- "[[H6258]]"
+- "[[H3897]]"
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H5439G]]"
+- "[[H9035]]"
+- "[[H9004]]"
+- "[[H7794]]"
+- "[[H3418]]"
+- "[[H7704G]]"
+- "[[H9002]]"
+- "[[H1111]]"
+- "[[H1121A]]"
+- "[[H6834]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:4**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moab said unto the elders of Midian, Now shall this company lick up all [that are] round about us, as the ox licketh up the grass of the field. And Balak the son of Zippor [was] king of the Moabites at that time.
 <small><sub>**BSB:**</sub></small>
 So the Moabites said to the elders of Midian, “This horde will devour everything around us, as an ox licks up the grass of the field.” Since Balak son of Zippor was king of Moab at that time,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H4124G\|מוֹאָ֜ב]] [[H0413\|אֶל]][[H9014\|־]] [[H2205G\|זִקְנֵ֣י]] [[H4080H\|מִדְיָ֗ן]] [[H6258\|עַתָּ֞ה]] [[H3897\|יְלַחֲכ֤וּ]] [[H9009\|הַ]][[H6951\|קָּהָל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5439G\|סְבִ֣יבֹתֵ֔י]][[H9035\|נוּ]] [[H9004\|כִּ]][[H3897\|לְחֹ֣ךְ]] [[H9009\|הַ]][[H7794\|שּׁ֔וֹר]] [[H0853\|אֵ֖ת]] [[H3418\|יֶ֣רֶק]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֑ה]] [[H9002\|וּ]][[H1111\|בָלָ֧ק]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6834\|צִפּ֛וֹר]] [[H4428G\|מֶ֥לֶךְ]] [[H9005\|לְ]][[H4124G\|מוֹאָ֖ב]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAK|BALAK]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MOABITES|MOABITES]] • [[topic ZIPPOR|ZIPPOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.3|<< Numbers 22:3]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.5|Numbers 22:5 >>]]</td></tr></table>
 

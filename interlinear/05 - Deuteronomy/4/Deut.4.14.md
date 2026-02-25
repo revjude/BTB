@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 4:14
+type: Verse
+kjv: "And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it."
+bsb: "At that time the LORD commanded me to teach you the statutes and ordinances you are to follow in the land that you are crossing the Jordan to possess."
+hebrew: "וְאֹתִ֞י צִוָּ֤ה יְהוָה֙ בָּעֵ֣ת הַהִ֔וא לְלַמֵּ֣ד אֶתְכֶ֔ם חֻקִּ֖ים וּמִשְׁפָּטִ֑ים לַעֲשֹׂתְכֶ֣ם אֹתָ֔ם בָּאָ֕רֶץ אֲשֶׁ֥ר אַתֶּ֛ם עֹבְרִ֥ים שָׁ֖מָּה לְרִשְׁתָּֽהּ׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3925G]]"
+- "[[H9036]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H5674A]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:14**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD commanded me at that time to teach you statutes and judgments, that ye might do them in the land whither ye go over to possess it.
 <small><sub>**BSB:**</sub></small>
 At that time the LORD commanded me to teach you the statutes and ordinances you are to follow in the land that you are crossing the Jordan to possess.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֹתִ֞]][[H9030\|י]] [[H6680\|צִוָּ֤ה]] [[H3068G\|יְהוָה֙]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔וא]] [[H9005\|לְ]][[H3925G\|לַמֵּ֣ד]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H2706G\|חֻקִּ֖ים]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטִ֑ים]] [[H9005\|לַ]][[H6213A\|עֲשֹׂתְ]][[H9036\|כֶ֣ם]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9003\|בָּ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֛ם]] [[H5674A\|עֹבְרִ֥ים]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.13|<< Deuteronomy 4:13]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.15|Deuteronomy 4:15 >>]]</td></tr></table>
 

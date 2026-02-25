@@ -1,10 +1,61 @@
+---
+title: Revelation 19:19
+type: Verse
+kjv: "And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army."
+bsb: "Then I saw the beast and the kings of the earth with their armies assembled to wage war against the One seated on the horse, and against His army."
+greek: "Καὶ εἶδον τὸ θηρίον καὶ τοὺς βασιλεῖς τῆς γῆς καὶ τὰ στρατεύματα αὐτῶν συνηγμένα ποιῆσαι τὸν πόλεμον μετὰ τοῦ καθημένου ἐπὶ τοῦ ἵππου καὶ μετὰ τοῦ στρατεύματος αὐτοῦ."
+pericope: "[[Rev.19.17 Defeat of the Beast and False Prophet|Defeat of the Beast and False Prophet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G2342]]"
+- "[[G0935]]"
+- "[[G1093G]]"
+- "[[G4753]]"
+- "[[G0846]]"
+- "[[G4863]]"
+- "[[G4160G]]"
+- "[[G4171]]"
+- "[[G3326]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G2462]]"
+texts:
+- NKO
+- no
+---
+
 **Revelation 19:19**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
 <small><sub>**BSB:**</sub></small>
 Then I saw the beast and the kings of the earth with their armies assembled to wage war against the One seated on the horse, and against His army.
-<small><sub>**Literal:**</sub></small>
-And I saw the beast and the kings of the earth and the armies of them gathered together to make <the> war with the [One] sitting on the horse and with the army of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.18|<< Revelation 19:18]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.20|Revelation 19:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G3588\|τὸ]]  [[G2342\|θηρίον]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0935\|βασιλεῖς]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4753\|στρατεύματα]]  [[G0846\|αὐτῶν]]  [[G4863\|συνηγμένα]]  [[G4160G\|ποιῆσαι]]  [[G3588\|τὸν]]  [[G4171\|πόλεμον]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G2521\|καθημένου]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G2462\|ἵππου]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G4753\|στρατεύματος]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HORSE|HORSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.18|<< Revelation 19:18]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.20|Revelation 19:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 19:19** is...
 > $\quad$ alluding to: [[LXX.Ps.2.2|Ps 2:2]]

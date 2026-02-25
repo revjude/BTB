@@ -1,8 +1,70 @@
+---
+title: Jeremiah 52:7
+type: Verse
+kjv: "Then the city was broken up, and all the men of war fled, and went forth out of the city by night by the way of the gate between the two walls, which was by the king’s garden; (now the Chaldeans were by the city round about:) and they went by the way of the plain."
+bsb: "Then the city was breached; and though the Chaldeans had surrounded the city, all the men of war fled the city by night by way of the gate between the two walls near the king’s garden. They headed toward the Arabah,"
+hebrew: "וַתִּבָּקַ֣ע הָעִ֗יר וְכָל־ אַנְשֵׁ֣י הַמִּלְחָמָ֡ה יִבְרְחוּ֩ וַיֵּצְא֨וּ מֵהָעִ֜יר לַ֗יְלָה דֶּ֜רֶךְ שַׁ֤עַר בֵּין־ הַחֹמֹתַ֙יִם֙ אֲשֶׁר֙ עַל־ גַּ֣ן הַמֶּ֔לֶךְ וְכַשְׂדִּ֥ים עַל־ הָעִ֖יר סָבִ֑יב וַיֵּלְכ֖וּ דֶּ֥רֶךְ הָעֲרָבָֽה׃"
+pericope: "[[Jer.52.1 The Fall of Jerusalem Recounted|The Fall of Jerusalem Recounted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1234]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H1272]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H3915]]"
+- "[[H1870J]]"
+- "[[H8179G]]"
+- "[[H0996G]]"
+- "[[H2346G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H1588M]]"
+- "[[H4428G]]"
+- "[[H3778]]"
+- "[[H5439G]]"
+- "[[H1980G]]"
+- "[[H6160G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:7**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the city was broken up, and all the men of war fled, and went forth out of the city by night by the way of the gate between the two walls, which [was] by the king’s garden; (now the Chaldeans [were] by the city round about:) and they went by the way of the plain.
 <small><sub>**BSB:**</sub></small>
 Then the city was breached; and though the Chaldeans had surrounded the city, all the men of war fled the city by night by way of the gate between the two walls near the king’s garden. They headed toward the Arabah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1234\|תִּבָּקַ֣ע]] [[H9009\|הָ]][[H5892B\|עִ֗יר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֡ה]] [[H1272\|יִבְרְחוּ֩]] [[H9001\|וַ]][[H3318G\|יֵּצְא֨וּ]] [[H9006\|מֵ]][[H9009\|הָ]][[H5892B\|עִ֜יר]] [[H3915\|לַ֗יְלָה]] [[H1870J\|דֶּ֜רֶךְ]] [[H8179G\|שַׁ֤עַר]] [[H0996G\|בֵּין]][[H9014\|־]] [[H9009\|הַ]][[H2346G\|חֹמֹתַ֙יִם֙]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1588M\|גַּ֣ן]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H3778\|כַשְׂדִּ֥ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H5439G\|סָבִ֑יב]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֖וּ]] [[H1870J\|דֶּ֥רֶךְ]] [[H9009\|הָ]][[H6160G\|עֲרָבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.6|<< Jeremiah 52:6]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.8|Jeremiah 52:8 >>]]</td></tr></table>
 

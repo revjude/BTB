@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 27:1
+type: Verse
+kjv: "And David said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand."
+bsb: "David, however, said to himself, “One of these days now I will be swept away by the hand of Saul. There is nothing better for me than to escape to the land of the Philistines. Then Saul will stop searching for me all over Israel, and I will slip out of his hand.”"
+hebrew: "וַיֹּ֤אמֶר דָּוִד֙ אֶל־ לִבּ֔וֹ עַתָּ֛ה אֶסָּפֶ֥ה יוֹם־ אֶחָ֖ד בְּיַד־ שָׁא֑וּל אֵֽין־ לִ֨י ט֜וֹב כִּ֣י הִמָּלֵ֥ט אִמָּלֵ֣ט׀ אֶל־ אֶ֣רֶץ פְּלִשְׁתִּ֗ים וְנוֹאַ֨שׁ מִמֶּ֤נִּי שָׁאוּל֙ לְבַקְשֵׁ֤נִי עוֹד֙ בְּכָל־ גְּב֣וּל יִשְׂרָאֵ֔ל וְנִמְלַטְתִּ֖י מִיָּדֽוֹ׃"
+pericope: "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H6258]]"
+- "[[H5595]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H7586G]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H2896A]]"
+- "[[H3588A]]"
+- "[[H4422]]"
+- "[[H9015]]"
+- "[[H0776G]]"
+- "[[H6430G]]"
+- "[[H2976]]"
+- "[[H4480A]]"
+- "[[H1245]]"
+- "[[H5750]]"
+- "[[H3605]]"
+- "[[H1366G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 27:1**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said in his heart, I shall now perish one day by the hand of Saul: [there is] nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand.
 <small><sub>**BSB:**</sub></small>
 David, however, said to himself, “One of these days now I will be swept away by the hand of Saul. There is nothing better for me than to escape to the land of the Philistines. Then Saul will stop searching for me all over Israel, and I will slip out of his hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1732\|דָּוִד֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H6258\|עַתָּ֛ה]] [[H5595\|אֶסָּפֶ֥ה]] [[H3117G\|יוֹם]][[H9014\|־]] [[H0259\|אֶחָ֖ד]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H7586G\|שָׁא֑וּל]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|לִ֨]][[H9030\|י]] [[H2896A\|ט֜וֹב]] [[H3588A\|כִּ֣י]] [[H4422\|הִמָּלֵ֥ט]] [[H4422\|אִמָּלֵ֣ט]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H6430G\|פְּלִשְׁתִּ֗ים]] [[H9001\|וְ]][[H2976\|נוֹאַ֨שׁ]] [[H4480A\|מִמֶּ֤]][[H9030\|נִּי]] [[H7586G\|שָׁאוּל֙]] [[H9005\|לְ]][[H1245\|בַקְשֵׁ֤]][[H9030\|נִי]] [[H5750\|עוֹד֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1366G\|גְּב֣וּל]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H4422\|נִמְלַטְתִּ֖י]] [[H9006\|מִ]][[H3027H\|יָּדֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.25|<< 1 Samuel 26:25]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.2|1 Samuel 27:2 >>]]</td></tr></table>
 

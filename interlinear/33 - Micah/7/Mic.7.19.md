@@ -1,8 +1,57 @@
+---
+title: Micah 7:19
+type: Verse
+kjv: "He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea."
+bsb: "He will again have compassion on us; He will vanquish our iniquities. You will cast out all our sins into the depths of the sea."
+hebrew: "יָשׁ֣וּב יְרַֽחֲמֵ֔נוּ יִכְבֹּ֖שׁ עֲוֹֽנֹתֵ֑ינוּ וְתַשְׁלִ֛יךְ בִּמְצֻל֥וֹת יָ֖ם כָּל־ חַטֹּאותָֽם׃"
+pericope: "[[Mic.7.14 God’s Compassion on Israel|God’s Compassion on Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7725J]]"
+- "[[H7355]]"
+- "[[H9035]]"
+- "[[H3533]]"
+- "[[H5771G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H7993]]"
+- "[[H9003]]"
+- "[[H4688]]"
+- "[[H3220G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2403B]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:19**<big><big>[[Mic.7.14 God’s Compassion on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.
 <small><sub>**BSB:**</sub></small>
 He will again have compassion on us; He will vanquish our iniquities. You will cast out all our sins into the depths of the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725J\|יָשׁ֣וּב]] [[H7355\|יְרַֽחֲמֵ֔]][[H9035\|נוּ]] [[H3533\|יִכְבֹּ֖שׁ]] [[H5771G\|עֲוֹֽנֹתֵ֑י]][[H9025\|נוּ]] [[H9002\|וְ]][[H7993\|תַשְׁלִ֛יךְ]] [[H9003\|בִּ]][[H4688\|מְצֻל֥וֹת]] [[H3220G\|יָ֖ם]] [[H3605\|כָּל]][[H9014\|־]] [[H2403B\|חַטֹּאותָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.18|<< Micah 7:18]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.20|Micah 7:20 >>]]</td></tr></table>
 

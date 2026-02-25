@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Presides in the Divine Assembly
+type: Pericope
 pericope: "[[Ps.82.1 God Presides in the Divine Assembly|God Presides in the Divine Assembly]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 82
 book/chapter: "[[Ps.82|Psalm 82]]"
-genre:
+chronological_order: 512
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.82.0]]"
 - "[[Ps.82.1]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.82.8]]"
 ---
 
-[[Ps.82|Psalm 82:1 - Psalm 82:8]]
+<small>[[Ps.82|Psalm 82:1-8]]</small>
 *God Presides in the Divine Assembly*
 
 [[Ps.82.0|0]] A Psalm of Asaph.

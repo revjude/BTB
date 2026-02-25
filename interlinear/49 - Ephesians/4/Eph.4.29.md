@@ -1,10 +1,64 @@
+---
+title: Ephesians 4:29
+type: Verse
+kjv: "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
+bsb: "Let no unwholesome talk come out of your mouths, but only what is helpful for building up the one in need and bringing grace to those who listen."
+greek: "Πᾶς λόγος σαπρὸς ἐκ τοῦ στόματος ὑμῶν μὴ ἐκπορευέσθω ἀλλ᾽ εἴ τις ἀγαθὸς πρὸς οἰκοδομὴν τῆς χρείας, ἵνα δῷ χάριν τοῖς ἀκούουσιν."
+pericope: "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONVERSATION|CONVERSATION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G3956]]"
+- "[[G3056]]"
+- "[[G4550]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G1607]]"
+- "[[G0235]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G0018]]"
+- "[[G4314]]"
+- "[[G3619]]"
+- "[[G5532]]"
+- "[[G2443]]"
+- "[[G1325]]"
+- "[[G5485]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:29**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.
 <small><sub>**BSB:**</sub></small>
 Let no unwholesome talk come out of your mouths, but only what is helpful for building up the one in need and bringing grace to those who listen.
-<small><sub>**Literal:**</sub></small>
-Any word unwholesome out of the mouth of you not should go forth but if any good for edification of the need, so that it shall give grace to those hearing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.28|<< Ephesians 4:28]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.30|Ephesians 4:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πᾶς]]  [[G3056\|λόγος]]  [[G4550\|σαπρὸς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G4771\|ὑμῶν]]  [[G3361\|μὴ]]  [[G1607\|ἐκπορευέσθω]]  [[G0235\|ἀλλ᾽]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G0018\|ἀγαθὸς]]  [[G4314\|πρὸς]]  [[G3619\|οἰκοδομὴν]]  [[G3588\|τῆς]]  [[G5532\|χρείας,]]  [[G2443\|ἵνα]]  [[G1325\|δῷ]]  [[G5485\|χάριν]]  [[G3588\|τοῖς]]  [[G0191\|ἀκούουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONVERSATION|CONVERSATION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.28|<< Ephesians 4:28]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.30|Ephesians 4:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

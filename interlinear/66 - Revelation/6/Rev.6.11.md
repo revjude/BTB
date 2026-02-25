@@ -1,10 +1,69 @@
+---
+title: Revelation 6:11
+type: Verse
+kjv: "And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled."
+bsb: "Then each of them was given a white robe and told to rest a little while longer until the full number of their fellow servants, their brothers, were killed, just as they had been killed."
+greek: "καὶ ἐδόθη αὐτοῖς ἑκάστῳ στολὴ λευκὴ καὶ ἐρρέθη αὐτοῖς ἵνα ἀναπαύσονται ἔτι χρόνον μικρὸν ἕως οὗ πληρωθῶσιν καὶ οἱ σύνδουλοι αὐτῶν καὶ οἱ ἀδελφοὶ αὐτῶν, καὶ οἱ μέλλοντες ἀποκτέννεσθαι ὡς καὶ αὐτοί.¶"
+pericope: "[[Rev.6.9 The Fifth Seal：The Martyrs|The Fifth Seal：The Martyrs]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ROBE|ROBE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G1538]]"
+- "[[G4749]]"
+- "[[G3022]]"
+- "[[G2046]]"
+- "[[G2443]]"
+- "[[G0373]]"
+- "[[G2089]]"
+- "[[G5550]]"
+- "[[G3398]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G4889]]"
+- "[[G0080]]"
+- "[[G3195]]"
+- "[[G0615]]"
+- "[[G5613]]"
+texts:
+- NKO
+- N(k)O
+- k
+- N(k)(o)
+- O
+---
+
 **Revelation 6:11**<big><big>[[Rev.6.9 The Fifth Seal：The Martyrs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they [were], should be fulfilled.
 <small><sub>**BSB:**</sub></small>
 Then each of them was given a white robe and told to rest a little while longer until the full number of their fellow servants, their brothers, were killed, just as they had been killed.
-<small><sub>**Literal:**</sub></small>
-And were given to them each a robe white and it was said to them that they will rest yet a time little until when may be fulfilled also the fellow servants of them and the brothers of them, and those being about to be killed as also [had been] they.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.10|<< Revelation 6:10]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.12|Revelation 6:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτοῖς]]  [[G1538\|ἑκάστῳ]]  [[G4749\|στολὴ]]  [[G3022\|λευκὴ]]  [[G2532\|καὶ]]  [[G2046\|ἐρρέθη]]  [[G0846\|αὐτοῖς]]  [[G2443\|ἵνα]]  [[G0373\|ἀναπαύσονται]]  [[G2089\|ἔτι]]  [[G5550\|χρόνον]]  [[G3398\|μικρὸν]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G4137\|πληρωθῶσιν]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4889\|σύνδουλοι]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3195\|μέλλοντες]]  [[G0615\|ἀποκτέννεσθαι]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G0846\|αὐτοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ROBE|ROBE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.10|<< Revelation 6:10]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.12|Revelation 6:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

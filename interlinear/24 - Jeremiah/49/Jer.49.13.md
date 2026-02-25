@@ -1,8 +1,65 @@
+---
+title: Jeremiah 49:13
+type: Verse
+kjv: "For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be perpetual wastes."
+bsb: "For by Myself I have sworn, declares the LORD, that Bozrah will become a desolation, a disgrace, a ruin, and a curse, and all her cities will be in ruins forever.”"
+hebrew: "כִּ֣י בִ֤י נִשְׁבַּ֙עְתִּי֙ נְאֻם־ יְהוָ֔ה כִּֽי־ לְשַׁמָּ֧ה לְחֶרְפָּ֛ה לְחֹ֥רֶב וְלִקְלָלָ֖ה תִּֽהְיֶ֣ה בָצְרָ֑ה וְכָל־ עָרֶ֥יהָ תִהְיֶ֖ינָה לְחָרְב֥וֹת עוֹלָֽם׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BOZRAH|BOZRAH]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H7650]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H8047H]]"
+- "[[H2781]]"
+- "[[H2721B]]"
+- "[[H9002]]"
+- "[[H7045]]"
+- "[[H1961]]"
+- "[[H1224G]]"
+- "[[H3605]]"
+- "[[H5892B]]"
+- "[[H9024]]"
+- "[[H2723]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:13**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have sworn by myself, saith the LORD, that Bozrah shall become a desolation, a reproach, a waste, and a curse; and all the cities thereof shall be perpetual wastes.
 <small><sub>**BSB:**</sub></small>
 For by Myself I have sworn, declares the LORD, that Bozrah will become a desolation, a disgrace, a ruin, and a curse, and all her cities will be in ruins forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9003\|בִ֤]][[H9030\|י]] [[H7650\|נִשְׁבַּ֙עְתִּי֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H8047H\|שַׁמָּ֧ה]] [[H9005\|לְ]][[H2781\|חֶרְפָּ֛ה]] [[H9005\|לְ]][[H2721B\|חֹ֥רֶב]] [[H9002\|וְ]][[H9005\|לִ]][[H7045\|קְלָלָ֖ה]] [[H1961\|תִּֽהְיֶ֣ה]] [[H1224G\|בָצְרָ֑ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5892B\|עָרֶ֥י]][[H9024\|הָ]] [[H1961\|תִהְיֶ֖ינָה]] [[H9005\|לְ]][[H2723\|חָרְב֥וֹת]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOZRAH|BOZRAH]] • [[topic EDOMITES|EDOMITES]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.12|<< Jeremiah 49:12]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.14|Jeremiah 49:14 >>]]</td></tr></table>
 

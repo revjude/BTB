@@ -1,10 +1,62 @@
+---
+title: John 4:6
+type: Verse
+kjv: "Now Jacob’s well was there. Jesus therefore, being wearied with his journey, sat thus on the well: and it was about the sixth hour."
+bsb: "Since Jacob’s well was there, Jesus, weary from His journey, sat down by the well. It was about the sixth hour."
+greek: "ἦν δὲ ἐκεῖ πηγὴ τοῦ Ἰακώβ.¶ Ὁ οὖν Ἰησοῦς κεκοπιακὼς ἐκ τῆς ὁδοιπορίας ἐκαθέζετο οὕτως ἐπὶ τῇ πηγῇ· ὥρα ἦν ὡς ἕκτη.¶"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic WELLS|WELLS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1563]]"
+- "[[G4077]]"
+- "[[G3588]]"
+- "[[G2384G]]"
+- "[[G3767]]"
+- "[[G2424G]]"
+- "[[G2872]]"
+- "[[G1537]]"
+- "[[G3597]]"
+- "[[G2516]]"
+- "[[G3779]]"
+- "[[G1909]]"
+- "[[G5610]]"
+- "[[G5613]]"
+- "[[G1623]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 4:6**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now Jacob’s well was there. Jesus therefore, being wearied with [his] journey, sat thus on the well: [and] it was about the sixth hour.
 <small><sub>**BSB:**</sub></small>
 Since Jacob’s well was there, Jesus, weary from His journey, sat down by the well. It was about the sixth hour.
-<small><sub>**Literal:**</sub></small>
-Was now there [the] well <the> of Jacob. <the> Therefore Jesus already wearying from the journey was sitting thus at the well; [The] hour was about [the] sixth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.5|<< John 4:5]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.7|John 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G1563\|ἐκεῖ]]  [[G4077\|πηγὴ]]  [[G3588\|τοῦ]]  [[G2384G\|Ἰακώβ.¶]]  [[G3588\|Ὁ]]  [[G3767\|οὖν]]  [[G2424G\|Ἰησοῦς]]  [[G2872\|κεκοπιακὼς]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3597\|ὁδοιπορίας]]  [[G2516\|ἐκαθέζετο]]  [[G3779\|οὕτως]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G4077\|πηγῇ·]]  [[G5610\|ὥρα]]  [[G1510\|ἦν]]  [[G5613\|ὡς]]  [[G1623\|ἕκτη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic WELLS|WELLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.5|<< John 4:5]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.7|John 4:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: Job 29:19
+type: Verse
+kjv: "My root was spread out by the waters, and the dew lay all night upon my branch."
+bsb: "My roots will spread out to the waters, and the dew will rest nightly on my branches."
+hebrew: "שָׁרְשִׁ֣י פָת֣וּחַ אֱלֵי־ מָ֑יִם וְ֝טַ֗ל יָלִ֥ין בִּקְצִירִֽי׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEW|DEW]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H8328]]"
+- "[[H9020]]"
+- "[[H6605A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H2919]]"
+- "[[H3885A]]"
+- "[[H9003]]"
+- "[[H7105B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:19**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My root [was] spread out by the waters, and the dew lay all night upon my branch.
 <small><sub>**BSB:**</sub></small>
 My roots will spread out to the waters, and the dew will rest nightly on my branches.
+<small><sub>**Hebrew:**</sub></small>
+[[H8328\|שָׁרְשִׁ֣]][[H9020\|י]] [[H6605A\|פָת֣וּחַ]] [[H0413\|אֱלֵי]][[H9014\|־]] [[H4325G\|מָ֑יִם]] [[H9002\|וְ֝]][[H2919\|טַ֗ל]] [[H3885A\|יָלִ֥ין]] [[H9003\|בִּ]][[H7105B\|קְצִירִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEW|DEW]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.18|<< Job 29:18]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.20|Job 29:20 >>]]</td></tr></table>
 

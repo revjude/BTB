@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 11:31
+type: Verse
+kjv: "For ye shall pass over Jordan to go in to possess the land which the LORD your God giveth you, and ye shall possess it, and dwell therein."
+bsb: "For you are about to cross the Jordan to enter and possess the land that the LORD your God is giving you. When you take possession of it and settle in it,"
+hebrew: "כִּ֤י אַתֶּם֙ עֹבְרִ֣ים אֶת־ הַיַּרְדֵּ֔ן לָבֹא֙ לָרֶ֣שֶׁת אֶת־ הָאָ֔רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֵיכֶ֖ם נֹתֵ֣ן לָכֶ֑ם וִֽירִשְׁתֶּ֥ם אֹתָ֖הּ וִֽישַׁבְתֶּם־ בָּֽהּ׃"
+pericope: "[[Deut.11.26 A Blessing and a Curse|A Blessing and a Curse]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+strongs:
+- "[[H3588A]]"
+- "[[H0859D]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H5414G]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H9034]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:31**<big><big>[[Deut.11.26 A Blessing and a Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ye shall pass over Jordan to go in to possess the land which the LORD your God giveth you, and ye shall possess it, and dwell therein.
 <small><sub>**BSB:**</sub></small>
 For you are about to cross the Jordan to enter and possess the land that the LORD your God is giving you. When you take possession of it and settle in it,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0859D\|אַתֶּם֙]] [[H5674A\|עֹבְרִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9005\|לָ]][[H0935G\|בֹא֙]] [[H9005\|לָ]][[H3423H\|רֶ֣שֶׁת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H5414G\|נֹתֵ֣ן]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתֶּ֥ם]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9001\|וִֽ]][[H3427\|ישַׁבְתֶּם]][[H9014\|־]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.30|<< Deuteronomy 11:30]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.32|Deuteronomy 11:32 >>]]</td></tr></table>
 

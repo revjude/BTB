@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 15:28
+type: Verse
+kjv: "And Samuel said unto him, The LORD hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, that is better than thou."
+bsb: "So Samuel said to him, “The LORD has torn the kingdom of Israel from you today and has given it to your neighbor who is better than you."
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ שְׁמוּאֵ֔ל קָרַ֨ע יְהוָ֜ה אֶֽת־ מַמְלְכ֧וּת יִשְׂרָאֵ֛ל מֵעָלֶ֖יךָ הַיּ֑וֹם וּנְתָנָ֕הּ לְרֵעֲךָ֖ הַטּ֥וֹב מִמֶּֽךָּ׃"
+pericope: "[[1Sam.15.24 Saul’s Confession|Saul’s Confession]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H8050G]]"
+- "[[H7167]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4468]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H9021]]"
+- "[[H2896A]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:28**<big><big>[[1Sam.15.24 Saul’s Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel said unto him, The LORD hath rent the kingdom of Israel from thee this day, and hath given it to a neighbour of thine, [that is] better than thou.
 <small><sub>**BSB:**</sub></small>
 So Samuel said to him, “The LORD has torn the kingdom of Israel from you today and has given it to your neighbor who is better than you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H7167\|קָרַ֨ע]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4468\|מַמְלְכ֧וּת]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9006\|מֵ]][[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H9009\|הַ]][[H3117L\|יּ֑וֹם]] [[H9001\|וּ]][[H5414G\|נְתָנָ֕]][[H9034\|הּ]] [[H9005\|לְ]][[H7453\|רֵעֲ]][[H9021\|ךָ֖]] [[H9009\|הַ]][[H2896A\|טּ֥וֹב]] [[H4480A\|מִמֶּֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RENDING|RENDING]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.27|<< 1 Samuel 15:27]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.29|1 Samuel 15:29 >>]]</td></tr></table>
 

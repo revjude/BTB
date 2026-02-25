@@ -1,10 +1,54 @@
+---
+title: Mark 5:10
+type: Verse
+kjv: "And he besought him much that he would not send them away out of the country."
+bsb: "And he begged Jesus repeatedly not to send them out of that region."
+greek: "καὶ παρεκάλει αὐτὸν πολλὰ ἵνα μὴ αὐτὰ ἀποστείλῃ ἔξω τῆς χώρας."
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G4183]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G0649]]"
+- "[[G1854]]"
+- "[[G3588]]"
+- "[[G5561]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 5:10**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he besought him much that he would not send them away out of the country.
 <small><sub>**BSB:**</sub></small>
 And he begged Jesus repeatedly not to send them out of that region.
-<small><sub>**Literal:**</sub></small>
-And he was begging Him numerous times that not them He may send out of the country.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.9|<< Mark 5:9]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.11|Mark 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3870\|παρεκάλει]]  [[G0846\|αὐτὸν]]  [[G4183\|πολλὰ]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G0846\|αὐτὰ]]  [[G0649\|ἀποστείλῃ]]  [[G1854\|ἔξω]]  [[G3588\|τῆς]]  [[G5561\|χώρας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.9|<< Mark 5:9]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.11|Mark 5:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

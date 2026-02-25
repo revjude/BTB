@@ -1,10 +1,55 @@
+---
+title: Revelation 9:8
+type: Verse
+kjv: "And they had hair as the hair of women, and their teeth were as the teeth of lions."
+bsb: "They had hair like that of women, and teeth like those of lions."
+greek: "καὶ εἶχον τρίχας ὡς τρίχας γυναικῶν, καὶ οἱ ὀδόντες αὐτῶν ὡς λεόντων ἦσαν."
+pericope: "[[Rev.9.1 The Fifth Trumpet|The Fifth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HAIR|HAIR]]"
+- "[[topic LION|LION]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G2359]]"
+- "[[G5613]]"
+- "[[G1135G]]"
+- "[[G3588]]"
+- "[[G3599]]"
+- "[[G0846]]"
+- "[[G3023]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Revelation 9:8**<big><big>[[Rev.9.1 The Fifth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they had hair as the hair of women, and their teeth were as [the teeth] of lions.
 <small><sub>**BSB:**</sub></small>
 They had hair like that of women, and teeth like those of lions.
-<small><sub>**Literal:**</sub></small>
-And they had hair like hair of women, and the teeth of them like [those] of lions were.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.7|<< Revelation 9:7]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.9|Revelation 9:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2192\|εἶχον]]  [[G2359\|τρίχας]]  [[G5613\|ὡς]]  [[G2359\|τρίχας]]  [[G1135G\|γυναικῶν,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3599\|ὀδόντες]]  [[G0846\|αὐτῶν]]  [[G5613\|ὡς]]  [[G3023\|λεόντων]]  [[G1510\|ἦσαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAIR|HAIR]] • [[topic LION|LION]] • [[topic LOCUST|LOCUST]] • [[topic TRUMPET|TRUMPET]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.7|<< Revelation 9:7]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.9|Revelation 9:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 9:8** is...
 > $\quad$ alluding to: [[LXX.Joel.1.6|Joel 1:6]] ☩ [[LXX.Joel.2.4|Joel 2:4]] ☩ [[LXX.Joel.2.5|Joel 2:5]]

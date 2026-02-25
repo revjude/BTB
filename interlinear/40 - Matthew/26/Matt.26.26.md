@@ -1,10 +1,67 @@
+---
+title: Matthew 26:26
+type: Verse
+kjv: "And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body."
+bsb: "While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take and eat; this is My body.”"
+jesus_said: "Take, eat; this is my body."
+greek: "Ἐσθιόντων δὲ αὐτῶν λαβὼν ὁ Ἰησοῦς τὸν ἄρτον καὶ εὐλογήσας ἔκλασεν, καὶ δοὺς τοῖς μαθηταῖς καὶ εἶπεν· λάβετε φάγετε· τοῦτό ἐστιν τὸ σῶμά μου."
+pericope: "[[Matt.26.20 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2068]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0740]]"
+- "[[G2532]]"
+- "[[G2127]]"
+- "[[G2806]]"
+- "[[G1325]]"
+- "[[G3101]]"
+- "[[G2036]]"
+- "[[G5315]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G4983]]"
+- "[[G3165]]"
+texts:
+- NKO
+- k
+- NK(O)
+- N(k)O
+---
+
 **Matthew 26:26**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they were eating, Jesus took bread, and blessed [it], and brake [it], and gave [it] to the disciples, and said, Take, eat; this is my body.
 <small><sub>**BSB:**</sub></small>
 While they were eating, Jesus took bread, spoke a blessing and broke it, and gave it to the disciples, saying, “Take and eat; this is My body.”
-<small><sub>**Literal:**</sub></small>
-When were eating now they having taken <the> Jesus <the> bread and having blessed broke [it], and giving to the disciples and He said; do take do eat; this is the body of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.25|<< Matthew 26:25]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.27|Matthew 26:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2068\|Ἐσθιόντων]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G2983\|λαβὼν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G2532\|καὶ]]  [[G2127\|εὐλογήσας]]  [[G2806\|ἔκλασεν,]]  [[G2532\|καὶ]]  [[G1325\|δοὺς]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G2983\|λάβετε]]  [[G5315\|φάγετε·]]  [[G3778\|τοῦτό]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]] • [[topic PRAYER|PRAYER]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.25|<< Matthew 26:25]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.27|Matthew 26:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,70 @@
+---
+title: Ezekiel 28:24
+type: Verse
+kjv: "And there shall be no more a pricking brier unto the house of Israel, nor any grieving thorn of all that are round about them, that despised them; and they shall know that I am the Lord GOD."
+bsb: "For the people of Israel will no longer face a pricking brier or a painful thorn from all around them who treat them with contempt. Then they will know that I am the Lord GOD.’"
+hebrew: "וְלֹֽא־ יִהְיֶ֨ה ע֜וֹד לְבֵ֣ית יִשְׂרָאֵ֗ל סִלּ֤וֹן מַמְאִיר֙ וְק֣וֹץ מַכְאִ֔ב מִכֹּל֙ סְבִ֣יבֹתָ֔ם הַשָּׁאטִ֖ים אוֹתָ֑ם וְיָ֣דְע֔וּ כִּ֥י אֲנִ֖י אֲדֹנָ֥י יְהוִֽה׃ ס"
+pericope: "[[Ezek.28.20 A Prophecy against Sidon|A Prophecy against Sidon]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BRIER|BRIER]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H5544]]"
+- "[[H3992]]"
+- "[[H6975]]"
+- "[[H3510]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H5439J]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H7590]]"
+- "[[H0853]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 28:24**<big><big>[[Ezek.28.20 A Prophecy against Sidon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be no more a pricking brier unto the house of Israel, nor [any] grieving thorn of all [that are] round about them, that despised them; and they shall know that I [am] the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 For the people of Israel will no longer face a pricking brier or a painful thorn from all around them who treat them with contempt. Then they will know that I am the Lord GOD.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֨ה]] [[H5750\|ע֜וֹד]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H5544\|סִלּ֤וֹן]] [[H3992\|מַמְאִיר֙]] [[H9002\|וְ]][[H6975\|ק֣וֹץ]] [[H3510\|מַכְאִ֔ב]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H5439J\|סְבִ֣יבֹתָ֔]][[H9038\|ם]] [[H9009\|הַ]][[H7590\|שָּׁאטִ֖ים]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9001\|וְ]][[H3045\|יָ֣דְע֔וּ]] [[H3588A\|כִּ֥י]] [[H0589\|אֲנִ֖י]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIER|BRIER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.23|<< Ezekiel 28:23]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.25|Ezekiel 28:25 >>]]</td></tr></table>
 
@@ -25,7 +87,7 @@ For the people of Israel will no longer face a pricking brier or a painful thorn
 | that  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.23|<< Ezekiel 28:23]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.25|Ezekiel 28:25 >>]]</td></tr></table>
 
 

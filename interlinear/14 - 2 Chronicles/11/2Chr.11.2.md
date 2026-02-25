@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 11:2
+type: Verse
+kjv: "But the word of the LORD came to Shemaiah the man of God, saying,"
+bsb: "But the word of the LORD came to Shemaiah the man of God:"
+hebrew: "וַיְהִי֙ דְּבַר־ יְהוָ֔ה אֶל־ שְׁמַֽעְיָ֥הוּ אִישׁ־ הָאֱלֹהִ֖ים לֵאמֹֽר׃"
+pericope: "[[2Chr.11.1 Shemaiah’s Prophecy|Shemaiah’s Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 11
+book/chapter: "[[2Chr.11|2 Chronicles 11]]"
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H8098A]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 11:2**<big><big>[[2Chr.11.1 Shemaiah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the word of the LORD came to Shemaiah the man of God, saying,
 <small><sub>**BSB:**</sub></small>
 But the word of the LORD came to Shemaiah the man of God:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H8098A\|שְׁמַֽעְיָ֥הוּ]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEROBOAM|JEROBOAM]] • [[topic REHOBOAM|REHOBOAM]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.11.1|<< 2 Chronicles 11:1]]</td><td align="center" style="border:none;">[[2Chr.11|2 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.11.3|2 Chronicles 11:3 >>]]</td></tr></table>
 

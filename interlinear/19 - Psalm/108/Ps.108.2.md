@@ -1,8 +1,53 @@
+---
+title: Psalm 108:2
+type: Verse
+kjv: "Awake, psaltery and harp: I myself will awake early."
+bsb: "Awake, O harp and lyre! I will awaken the dawn."
+hebrew: "ע֭וּרָֽה הַנֵּ֥בֶל וְכִנּ֗וֹר אָעִ֥ירָה שָּֽׁחַר׃"
+pericope: "[[Ps.108.1 Israel’s Kingdom Blessing|Israel’s Kingdom Blessing]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 108
+book/chapter: "[[Ps.108|Psalm 108]]"
+chronological_order: 382
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HARP|HARP]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALTERY|PSALTERY]]"
+strongs:
+- "[[H5782]]"
+- "[[H9012]]"
+- "[[H9009]]"
+- "[[H5035B]]"
+- "[[H9002]]"
+- "[[H3658]]"
+- "[[H7837]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 108:2**<big><big>[[Ps.108.1 Israel’s Kingdom Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, psaltery and harp: I [myself] will awake early.
 <small><sub>**BSB:**</sub></small>
 Awake, O harp and lyre! I will awaken the dawn.
+<small><sub>**Hebrew:**</sub></small>
+[[H5782\|ע֭וּרָֽ]][[H9012\|ה]] [[H9009\|הַ]][[H5035B\|נֵּ֥בֶל]] [[H9002\|וְ]][[H3658\|כִנּ֗וֹר]] [[H5782\|אָעִ֥ירָה]] [[H7837\|שָּֽׁחַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]] • [[topic PRAISE|PRAISE]] • [[topic PSALTERY|PSALTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.108.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.1|<< Psalms 108:1]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.3|Psalms 108:3 >>]]</td></tr></table>
 

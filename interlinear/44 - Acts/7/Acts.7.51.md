@@ -1,10 +1,62 @@
+---
+title: Acts 7:51
+type: Verse
+kjv: "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye."
+bsb: "You stiff-necked people with uncircumcised hearts and ears! You always resist the Holy Spirit, just as your fathers did."
+greek: "σκληροτράχηλοι καὶ ἀπερίτμητοι τῇ καρδίαις ὑμῶν καὶ τοῖς ὠσίν, ὑμεῖς ἀεὶ τῷ πνεύματι τῷ ἁγίῳ ἀντιπίπτετε, ὡς οἱ πατέρες ὑμῶν καὶ ὑμεῖς·"
+pericope: "[[Acts.7.44 The Tabernacle of the Testimony|The Tabernacle of the Testimony]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[G4644]]"
+- "[[G2532]]"
+- "[[G0564]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G3775]]"
+- "[[G0104]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G0496]]"
+- "[[G5613]]"
+- "[[G3962]]"
+texts:
+- NKO
+- k(o)
+- N(k)O
+- o
+---
+
 **Acts 7:51**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers [did], so [do] ye.
 <small><sub>**BSB:**</sub></small>
 You stiff-necked people with uncircumcised hearts and ears! You always resist the Holy Spirit, just as your fathers did.
-<small><sub>**Literal:**</sub></small>
-Stiff-necked and uncircumcised in the hearts of you and <the> in ears, you yourselves always the Spirit <the> Holy resist, as the fathers of you also you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.50|<< Acts 7:50]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.52|Acts 7:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4644\|σκληροτράχηλοι]]  [[G2532\|καὶ]]  [[G0564\|ἀπερίτμητοι]]  [[G3588\|τῇ]]  [[G2588\|καρδίαις]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G3775\|ὠσίν,]]  [[G4771\|ὑμεῖς]]  [[G0104\|ἀεὶ]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G3588\|τῷ]]  [[G0040G\|ἁγίῳ]]  [[G0496\|ἀντιπίπτετε,]]  [[G5613\|ὡς]]  [[G3588\|οἱ]]  [[G3962\|πατέρες]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPROOF|REPROOF]] • [[topic SELF-WILL|SELF-WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.50|<< Acts 7:50]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.52|Acts 7:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

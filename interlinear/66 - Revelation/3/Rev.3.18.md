@@ -1,10 +1,81 @@
+---
+title: Revelation 3:18
+type: Verse
+kjv: "I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see."
+bsb: "I counsel you to buy from Me gold refined by fire so that you may become rich, white garments so that you may be clothed and your shameful nakedness not exposed, and salve to anoint your eyes so that you may see."
+jesus_said: "I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and that the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see."
+greek: "συμβουλεύω σοι ἀγοράσαι παρ᾽ ἐμοῦ χρυσίον πεπυρωμένον ἐκ πυρὸς ἵνα πλουτήσῃς, καὶ ἱμάτια λευκὰ ἵνα περιβάλῃ, καὶ μὴ φανερωθῇ ἡ αἰσχύνη τῆς γυμνότητός σου, καὶ κολλούριον ἵνα ἐγχρῖσαι τοὺς ὀφθαλμούς σου ἵνα βλέπῃς."
+pericope: "[[Rev.3.14 To the Church in Laodicea|To the Church in Laodicea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GARMENT|GARMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAODICEA|LAODICEA]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4823]]"
+- "[[G4771]]"
+- "[[G0059]]"
+- "[[G3844]]"
+- "[[G1473]]"
+- "[[G5553]]"
+- "[[G4448]]"
+- "[[G1537]]"
+- "[[G4442]]"
+- "[[G2443]]"
+- "[[G4147]]"
+- "[[G2532]]"
+- "[[G2440]]"
+- "[[G3022]]"
+- "[[G4016]]"
+- "[[G3361]]"
+- "[[G5319]]"
+- "[[G3588]]"
+- "[[G0152]]"
+- "[[G1132]]"
+- "[[G2854]]"
+- "[[G1472]]"
+- "[[G3788]]"
+- "[[G0991]]"
+texts:
+- NKO
+- o
+- N(k)(O)
+---
+
 **Revelation 3:18**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I counsel thee to buy of me gold tried in the fire, that thou mayest be rich; and white raiment, that thou mayest be clothed, and [that] the shame of thy nakedness do not appear; and anoint thine eyes with eyesalve, that thou mayest see.
 <small><sub>**BSB:**</sub></small>
 I counsel you to buy from Me gold refined by fire so that you may become rich, white garments so that you may be clothed and your shameful nakedness not exposed, and salve to anoint your eyes so that you may see.
-<small><sub>**Literal:**</sub></small>
-I counsel you to buy from Me gold refined by fire so that you may be rich, and garments white so that you may be clothed and not may be made manifest the shame of the nakedness of you, and eye-salve so that to anoint the eyes of you so that you may see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.17|<< Revelation 3:17]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.19|Revelation 3:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4823\|συμβουλεύω]]  [[G4771\|σοι]]  [[G0059\|ἀγοράσαι]]  [[G3844\|παρ᾽]]  [[G1473\|ἐμοῦ]]  [[G5553\|χρυσίον]]  [[G4448\|πεπυρωμένον]]  [[G1537\|ἐκ]]  [[G4442\|πυρὸς]]  [[G2443\|ἵνα]]  [[G4147\|πλουτήσῃς,]]  [[G2532\|καὶ]]  [[G2440\|ἱμάτια]]  [[G3022\|λευκὰ]]  [[G2443\|ἵνα]]  [[G4016\|περιβάλῃ,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G5319\|φανερωθῇ]]  [[G3588\|ἡ]]  [[G0152\|αἰσχύνη]]  [[G3588\|τῆς]]  [[G1132\|γυμνότητός]]  [[G4771\|σου,]]  [[G2532\|καὶ]]  [[G2854\|κολλούριον]]  [[G2443\|ἵνα]]  [[G1472\|ἐγχρῖσαι]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμούς]]  [[G4771\|σου]]  [[G2443\|ἵνα]]  [[G0991\|βλέπῃς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic COLORS|COLORS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic GARMENT|GARMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAODICEA|LAODICEA]] • [[topic PRIDE|PRIDE]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.17|<< Revelation 3:17]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.19|Revelation 3:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

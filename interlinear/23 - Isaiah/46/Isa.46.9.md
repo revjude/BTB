@@ -1,8 +1,56 @@
+---
+title: Isaiah 46:9
+type: Verse
+kjv: "Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,"
+bsb: "Remember what happened long ago, for I am God, and there is no other; I am God, and there is none like Me."
+hebrew: "זִכְר֥וּ רִאשֹׁנ֖וֹת מֵעוֹלָ֑ם כִּ֣י אָנֹכִ֥י אֵל֙ וְאֵ֣ין ע֔וֹד אֱלֹהִ֖ים וְאֶ֥פֶס כָּמֽוֹנִי׃"
+pericope: "[[Isa.46.1 Babylon’s Idols|Babylon’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 46
+book/chapter: "[[Isa.46|Isaiah 46]]"
+chronological_order: 685
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2142]]"
+- "[[H7223H]]"
+- "[[H9006]]"
+- "[[H5769J]]"
+- "[[H3588A]]"
+- "[[H0595]]"
+- "[[H0410G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5750]]"
+- "[[H0430G]]"
+- "[[H0657A]]"
+- "[[H3644G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 46:9**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember the former things of old: for I [am] God, and [there is] none else; [I am] God, and [there is] none like me,
 <small><sub>**BSB:**</sub></small>
 Remember what happened long ago, for I am God, and there is no other; I am God, and there is none like Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זִכְר֥וּ]] [[H7223H\|רִאשֹׁנ֖וֹת]] [[H9006\|מֵ]][[H5769J\|עוֹלָ֑ם]] [[H3588A\|כִּ֣י]] [[H0595\|אָנֹכִ֥י]] [[H0410G\|אֵל֙]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H5750\|ע֔וֹד]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וְ]][[H0657A\|אֶ֥פֶס]] [[H3644G\|כָּמֽוֹ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.8|<< Isaiah 46:8]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.10|Isaiah 46:10 >>]]</td></tr></table>
 

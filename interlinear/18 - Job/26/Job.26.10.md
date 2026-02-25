@@ -1,8 +1,56 @@
+---
+title: Job 26:10
+type: Verse
+kjv: "He hath compassed the waters with bounds, until the day and night come to an end."
+bsb: "He has inscribed a horizon on the face of the waters at the boundary between light and darkness."
+hebrew: "חֹֽק־ חָ֭ג עַל־ פְּנֵי־ מָ֑יִם עַד־ תַּכְלִ֖ית א֣וֹר עִם־ חֹֽשֶׁךְ׃"
+pericope: "[[Job.26.1 Job：Who Can Understand God’s Majesty？|Job：Who Can Understand God’s Majesty？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 26
+book/chapter: "[[Job.26|Job 26]]"
+chronological_order: 37
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SCIENCE|SCIENCE]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[H2706I]]"
+- "[[H9014]]"
+- "[[H2328]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H4325G]]"
+- "[[H5704]]"
+- "[[H8503]]"
+- "[[H0216]]"
+- "[[H5973A]]"
+- "[[H2822]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 26:10**<big><big>[[Job.26.1 Job：Who Can Understand God’s Majesty？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath compassed the waters with bounds, until the day and night come to an end.
 <small><sub>**BSB:**</sub></small>
 He has inscribed a horizon on the face of the waters at the boundary between light and darkness.
+<small><sub>**Hebrew:**</sub></small>
+[[H2706I\|חֹֽק]][[H9014\|־]] [[H2328\|חָ֭ג]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵי]][[H9014\|־]] [[H4325G\|מָ֑יִם]] [[H5704\|עַד]][[H9014\|־]] [[H8503\|תַּכְלִ֖ית]] [[H0216\|א֣וֹר]] [[H5973A\|עִם]][[H9014\|־]] [[H2822\|חֹֽשֶׁךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENTS|CONTINENTS]] • [[topic GOD|GOD]] • [[topic SCIENCE|SCIENCE]] • [[topic TIME|TIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.9|<< Job 26:9]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.11|Job 26:11 >>]]</td></tr></table>
 

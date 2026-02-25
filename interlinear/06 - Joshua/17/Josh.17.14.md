@@ -1,8 +1,70 @@
+---
+title: Joshua 17:14
+type: Verse
+kjv: "And the children of Joseph spake unto Joshua, saying, Why hast thou given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the LORD hath blessed me hitherto?"
+bsb: "Then the sons of Joseph said to Joshua, “Why have you given us only one portion as an inheritance? We have many people, because the LORD has blessed us abundantly.”"
+hebrew: "וַֽיְדַבְּרוּ֙ בְּנֵ֣י יוֹסֵ֔ף אֶת־ יְהוֹשֻׁ֖עַ לֵאמֹ֑ר מַדּוּעַ֩ נָתַ֨תָּה לִּ֜י נַחֲלָ֗ה גּוֹרָ֤ל אֶחָד֙ וְחֶ֣בֶל אֶחָ֔ד וַֽאֲנִ֣י עַם־ רָ֔ב עַ֥ד אֲשֶׁר־ עַד־ כֹּ֖ה בֵּֽרְכַ֥נִי יְהוָֽה׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AVARICE|AVARICE]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CORD|CORD]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic PETITION|PETITION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H1121G]]"
+- "[[H3130G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4069]]"
+- "[[H5414G]]"
+- "[[H9030]]"
+- "[[H5159]]"
+- "[[H1486]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H2256M]]"
+- "[[H0589]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H3541]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:14**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Joseph spake unto Joshua, saying, Why hast thou given me [but] one lot and one portion to inherit, seeing I [am] a great people, forasmuch as the LORD hath blessed me hitherto?
 <small><sub>**BSB:**</sub></small>
 Then the sons of Joseph said to Joshua, “Why have you given us only one portion as an inheritance? We have many people, because the LORD has blessed us abundantly.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1696G\|יְדַבְּרוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3130G\|יוֹסֵ֔ף]] [[H0854\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4069\|מַדּוּעַ֩]] [[H5414G\|נָתַ֨תָּה]] [[H9005\|לִּ֜]][[H9030\|י]] [[H5159\|נַחֲלָ֗ה]] [[H1486\|גּוֹרָ֤ל]] [[H0259\|אֶחָד֙]] [[H9002\|וְ]][[H2256M\|חֶ֣בֶל]] [[H0259\|אֶחָ֔ד]] [[H9002\|וַֽ]][[H0589\|אֲנִ֣י]] [[H5971A\|עַם]][[H9014\|־]] [[H7227A\|רָ֔ב]] [[H5704\|עַ֥ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5704\|עַד]][[H9014\|־]] [[H3541\|כֹּ֖ה]] [[H1288\|בֵּֽרְכַ֥]][[H9030\|נִי]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVARICE|AVARICE]] • [[topic CANAANITES|CANAANITES]] • [[topic CORD|CORD]] • [[topic COWARDICE|COWARDICE]] • [[topic PETITION|PETITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.13|<< Joshua 17:13]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.15|Joshua 17:15 >>]]</td></tr></table>
 

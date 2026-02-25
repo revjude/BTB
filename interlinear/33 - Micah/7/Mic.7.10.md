@@ -1,8 +1,67 @@
+---
+title: Micah 7:10
+type: Verse
+kjv: "Then she that is mine enemy shall see it, and shame shall cover her which said unto me, Where is the LORD thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets."
+bsb: "Then my enemy will see and will be covered with shame—she who said to me, “Where is the LORD your God?” My eyes will see her; at that time she will be trampled like mud in the streets."
+hebrew: "וְתֵרֶ֤א אֹיַ֙בְתִּי֙ וּתְכַסֶּ֣הָ בוּשָׁ֔ה הָאֹמְרָ֣ה אֵלַ֔י אַיּ֖וֹ יְהוָ֣ה אֱלֹהָ֑יִךְ עֵינַי֙ תִּרְאֶ֣ינָּה בָּ֔הּ עַתָּ֛ה תִּֽהְיֶ֥ה לְמִרְמָ֖ס כְּטִ֥יט חוּצֽוֹת׃"
+pericope: "[[Mic.7.7 Israel’s Confession and Comfort|Israel’s Confession and Comfort]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H3680]]"
+- "[[H9034]]"
+- "[[H0955]]"
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0335]]"
+- "[[H9043]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9022]]"
+- "[[H5869A]]"
+- "[[H9003]]"
+- "[[H6258]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H4823]]"
+- "[[H9004]]"
+- "[[H2916]]"
+- "[[H2351]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:10**<big><big>[[Mic.7.7 Israel’s Confession and Comfort|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then [she that is] mine enemy shall see [it], and shame shall cover her which said unto me, Where is the LORD thy God? mine eyes shall behold her: now shall she be trodden down as the mire of the streets.
 <small><sub>**BSB:**</sub></small>
 Then my enemy will see and will be covered with shame—she who said to me, “Where is the LORD your God?” My eyes will see her; at that time she will be trampled like mud in the streets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7200G\|תֵרֶ֤א]] [[H0341\|אֹיַ֙בְתִּ]][[H9020\|י֙]] [[H9002\|וּ]][[H3680\|תְכַסֶּ֣]][[H9034\|הָ]] [[H0955\|בוּשָׁ֔ה]] [[H9009\|הָ]][[H0559\|אֹמְרָ֣ה]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H0335\|אַיּ֖]][[H9043\|וֹ]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑יִ]][[H9022\|ךְ]] [[H5869A\|עֵינַ]][[H9020\|י֙]] [[H7200G\|תִּרְאֶ֣ינָּה]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H6258\|עַתָּ֛ה]] [[H1961\|תִּֽהְיֶ֥ה]] [[H9005\|לְ]][[H4823\|מִרְמָ֖ס]] [[H9004\|כְּ]][[H2916\|טִ֥יט]] [[H2351\|חוּצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.9|<< Micah 7:9]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.11|Micah 7:11 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Luke 2:52
+type: Verse
+kjv: "And Jesus increased in wisdom and stature, and in favour with God and man."
+bsb: "And Jesus grew in wisdom and stature, and in favor with God and man."
+greek: "Καὶ Ἰησοῦς προέκοπτεν ἐν τῇ σοφίᾳ καὶ ἡλικίᾳ καὶ χάριτι παρὰ θεῷ καὶ ἀνθρώποις.¶"
+pericope: "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2424G]]"
+- "[[G4298]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4678]]"
+- "[[G2244]]"
+- "[[G5485]]"
+- "[[G3844]]"
+- "[[G2316]]"
+- "[[G0444]]"
+texts:
+- NKO
+- n
+- no
+---
+
 **Luke 2:52**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus increased in wisdom and stature, and in favour with God and man.
 <small><sub>**BSB:**</sub></small>
 And Jesus grew in wisdom and stature, and in favor with God and man.
-<small><sub>**Literal:**</sub></small>
-And Jesus was continuing to advance in <the> wisdom and stature and in favor with God and men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.51|<< Luke 2:51]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.1|Luke 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2424G\|Ἰησοῦς]]  [[G4298\|προέκοπτεν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4678\|σοφίᾳ]]  [[G2532\|καὶ]]  [[G2244\|ἡλικίᾳ]]  [[G2532\|καὶ]]  [[G5485\|χάριτι]]  [[G3844\|παρὰ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G0444\|ἀνθρώποις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.51|<< Luke 2:51]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.1|Luke 3:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 2:52** is...
 > $\quad$ alluding to: [[LXX.1Sam.2.26|1Sam 2:26]]

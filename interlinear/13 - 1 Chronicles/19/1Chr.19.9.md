@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 19:9
+type: Verse
+kjv: "And the children of Ammon came out, and put the battle in array before the gate of the city: and the kings that were come were by themselves in the field."
+bsb: "The Ammonites marched out and arrayed themselves for battle at the entrance to the city, while the kings who had come stayed by themselves in the open country."
+hebrew: "וַיֵּצְאוּ֙ בְּנֵ֣י עַמּ֔וֹן וַיַּֽעַרְכ֥וּ מִלְחָמָ֖ה פֶּ֣תַח הָעִ֑יר וְהַמְּלָכִ֣ים אֲשֶׁר־ בָּ֔אוּ לְבַדָּ֖ם בַּשָּׂדֶֽה׃"
+pericope: "[[1Chr.19.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H6186A]]"
+- "[[H4421]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:9**<big><big>[[1Chr.19.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Ammon came out, and put the battle in array before the gate of the city: and the kings that were come [were] by themselves in the field.
 <small><sub>**BSB:**</sub></small>
 The Ammonites marched out and arrayed themselves for battle at the entrance to the city, while the kings who had come stayed by themselves in the open country.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצְאוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֔וֹן]] [[H9001\|וַ]][[H6186A\|יַּֽעַרְכ֥וּ]] [[H4421\|מִלְחָמָ֖ה]] [[H6607\|פֶּ֣תַח]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מְּלָכִ֣ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֔אוּ]] [[H9005\|לְ]][[H0905H\|בַדָּ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic JOAB|JOAB]] • [[topic MEDEBA|MEDEBA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.8|<< 1 Chronicles 19:8]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.10|1 Chronicles 19:10 >>]]</td></tr></table>
 

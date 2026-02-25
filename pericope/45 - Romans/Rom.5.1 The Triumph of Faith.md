@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Triumph of Faith
+type: Pericope
 pericope: "[[Rom.5.1 The Triumph of Faith|The Triumph of Faith]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Romans
 chapter: 5
 book/chapter: "[[Rom.5|Romans 5]]"
-genre:
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 5
 verses:
 - "[[Rom.5.1]]"
 - "[[Rom.5.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Rom.5.5]]"
 ---
 
-[[Rom.5|Romans 5:1 - Romans 5:5]]
+<small>[[Rom.5|Romans 5:1-5]]</small>
 *The Triumph of Faith*
 
 [[Rom.5.1|1]] Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:

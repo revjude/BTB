@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 24:15
+type: Verse
+kjv: "But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old was he when he died."
+bsb: "When Jehoiada was old and full of years, he died at the age of 130."
+hebrew: "וַיִּזְקַ֧ן יְהוֹיָדָ֛ע וַיִּשְׂבַּ֥ע יָמִ֖ים וַיָּמֹ֑ת בֶּן־ מֵאָ֧ה וּשְׁלֹשִׁ֛ים שָׁנָ֖ה בְּמוֹתֽוֹ׃"
+pericope: "[[2Chr.24.15 Jehoiada’s Death and Burial|Jehoiada’s Death and Burial]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2204]]"
+- "[[H3077H]]"
+- "[[H7646]]"
+- "[[H3117G]]"
+- "[[H4191]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H7970]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H4194]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:15**<big><big>[[2Chr.24.15 Jehoiada’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old [was he] when he died.
 <small><sub>**BSB:**</sub></small>
 When Jehoiada was old and full of years, he died at the age of 130.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2204\|יִּזְקַ֧ן]] [[H3077H\|יְהוֹיָדָ֛ע]] [[H9001\|וַ]][[H7646\|יִּשְׂבַּ֥ע]] [[H3117G\|יָמִ֖ים]] [[H9001\|וַ]][[H4191\|יָּמֹ֑ת]] [[H1121L\|בֶּן]][[H9014\|־]] [[H3967\|מֵאָ֧ה]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֛ים]] [[H8141\|שָׁנָ֖ה]] [[H9003\|בְּ]][[H4194\|מוֹתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOIADA|JEHOIADA]] • [[topic LONGEVITY|LONGEVITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.14|<< 2 Chronicles 24:14]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.16|2 Chronicles 24:16 >>]]</td></tr></table>
 

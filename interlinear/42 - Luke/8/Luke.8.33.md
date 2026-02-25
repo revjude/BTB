@@ -1,10 +1,61 @@
+---
+title: Luke 8:33
+type: Verse
+kjv: "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked."
+bsb: "Then the demons came out of the man and went into the pigs, and the herd rushed down the steep bank into the lake and was drowned."
+greek: "ἐξελθόντα δὲ τὰ δαιμόνια ἀπὸ τοῦ ἀνθρώπου εἰσῆλθον εἰς τοὺς χοίρους, καὶ ὥρμησεν ἡ ἀγέλη κατὰ τοῦ κρημνοῦ εἰς τὴν λίμνην καὶ ἀπεπνίγη.¶"
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G1831]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1140]]"
+- "[[G0575]]"
+- "[[G0444]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G5519]]"
+- "[[G2532]]"
+- "[[G3729]]"
+- "[[G0034]]"
+- "[[G2596]]"
+- "[[G2911]]"
+- "[[G3041]]"
+- "[[G0638]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 8:33**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.
 <small><sub>**BSB:**</sub></small>
 Then the demons came out of the man and went into the pigs, and the herd rushed down the steep bank into the lake and was drowned.
-<small><sub>**Literal:**</sub></small>
-Having gone out then the demons from the man they entered into the pigs, and rushed the herd down the steep bank into the lake and was drowned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.32|<< Luke 8:32]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.34|Luke 8:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|ἐξελθόντα]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1525\|εἰσῆλθον]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G5519\|χοίρους,]]  [[G2532\|καὶ]]  [[G3729\|ὥρμησεν]]  [[G3588\|ἡ]]  [[G0034\|ἀγέλη]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G2911\|κρημνοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3041\|λίμνην]]  [[G2532\|καὶ]]  [[G0638\|ἀπεπνίγη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.32|<< Luke 8:32]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.34|Luke 8:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

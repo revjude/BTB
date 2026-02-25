@@ -1,8 +1,55 @@
+---
+title: Psalm 18:10
+type: Verse
+kjv: "And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind."
+bsb: "He mounted a cherub and flew; He soared on the wings of the wind."
+hebrew: "וַיִּרְכַּ֣ב עַל־ כְּ֭רוּב וַיָּעֹ֑ף וַ֝יֵּ֗דֶא עַל־ כַּנְפֵי־ רֽוּחַ׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3742]]"
+- "[[H5774A]]"
+- "[[H1675]]"
+- "[[H3671]]"
+- "[[H7307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:10**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he rode upon a cherub, and did fly: yea, he did fly upon the wings of the wind.
 <small><sub>**BSB:**</sub></small>
 He mounted a cherub and flew; He soared on the wings of the wind.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7392\|יִּרְכַּ֣ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3742\|כְּ֭רוּב]] [[H9001\|וַ]][[H5774A\|יָּעֹ֑ף]] [[H9001\|וַ֝]][[H1675\|יֵּ֗דֶא]] [[H5921A\|עַל]][[H9014\|־]] [[H3671\|כַּנְפֵי]][[H9014\|־]] [[H7307H\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.9|<< Psalms 18:9]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.11|Psalms 18:11 >>]]</td></tr></table>
 

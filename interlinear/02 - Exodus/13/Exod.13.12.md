@@ -1,8 +1,69 @@
+---
+title: Exodus 13:12
+type: Verse
+kjv: "That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the LORD’S."
+bsb: "you are to present to the LORD the firstborn male of every womb. All the firstborn males of your livestock belong to the LORD."
+hebrew: "וְהַעֲבַרְתָּ֥ כָל־ פֶּֽטֶר־ רֶ֖חֶם לַֽיהֹוָ֑ה וְכָל־ פֶּ֣טֶר׀ שֶׁ֣גֶר בְּהֵמָ֗ה אֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ הַזְּכָרִ֖ים לַיהוָֽה׃"
+pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic FRONTLETS|FRONTLETS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MEMORIAL|MEMORIAL]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674C]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6363A]]"
+- "[[H7358]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H7698]]"
+- "[[H0929]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H2145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:12**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males [shall be] the LORD’S.
 <small><sub>**BSB:**</sub></small>
 you are to present to the LORD the firstborn male of every womb. All the firstborn males of your livestock belong to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674C\|הַעֲבַרְתָּ֥]] [[H3605\|כָל]][[H9014\|־]] [[H6363A\|פֶּֽטֶר]][[H9014\|־]] [[H7358\|רֶ֖חֶם]] [[H9005\|לַֽ]][[H3068G\|יהֹוָ֑ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6363A\|פֶּ֣טֶר]][[H9015\|׀]] [[H7698\|שֶׁ֣גֶר]] [[H0929\|בְּהֵמָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H9009\|הַ]][[H2145\|זְּכָרִ֖ים]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic FRONTLETS|FRONTLETS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL|ISRAEL]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MEMORIAL|MEMORIAL]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.11|<< Exodus 13:11]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.13|Exodus 13:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

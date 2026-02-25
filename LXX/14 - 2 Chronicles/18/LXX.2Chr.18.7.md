@@ -1,6 +1,85 @@
+---
+title: LXX 2 Chronicles 18:7
+type: Verse
+lxx: "And the the king of Israel said to Jehoshaphat, There is one man  to seek the lord through him, and I detest him; for he is not prophesying for good things concerning me, for all  his days are for bad things. He is Michaiah son of Imla. And Jehoshaphat said, Let not the king speak thus!"
+greek: "και είπε ο βασιλεύς Ισραήλ προς Ιωσαφάτ έστιν ανήρ εις του ζητήσαι τον κύριον δι΄ αυτού και εγώ εμίσησα αυτόν ότι ουκ έστι προφητεύων περί εμού εις αγαθά ότι πάσαι αι ημέραι αυτού εις κακά αυτός Μιχαίας υιός Ιεμλά και είπεν Ιωσαφάτ μη λαλείτω ο βασιλεύς ούτως"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic IMLA|IMLA]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2474]]"
+- "[[G4314]]"
+- "[[G2498]]"
+- "[[G1510]]"
+- "[[G0435]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1223]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G3404]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G4395]]"
+- "[[G4012]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G0018]]"
+- "[[G3754]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G2556]]"
+- "[[G1473]]"
+- "[[H4318]]"
+- "[[G5207]]"
+- "[[H3229]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2498]]"
+- "[[G3361]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G3779]]"
+---
+
 **LXX 2 Chronicles 18:7** 
 <small><sub>**LXX:**</sub></small>
 And the \[the\] king of Israel said to Jehoshaphat, There is one man  to seek the <span class="smallcaps">lord</span> through him, and I detest him; for he is not prophesying for good \[things\] concerning me, for all  his days \[are\] for bad \[things\]. He is Michaiah son of Imla. And Jehoshaphat said, Let not the king speak thus! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G2474\|Ισραήλ]] [[G4314\|προς]] [[G2498\|Ιωσαφάτ]] [[G1510\|έστιν]] [[G0435\|ανήρ]] [[G1520\|εις]] [[G3588\|του]] [[G2212\|ζητήσαι]] [[G3588\|τον]] [[G2962\|κύριον]] [[G1223\|δι΄]] [[G1473\|αυτού]] [[G2532\|και]] [[G1473\|εγώ]] [[G3404\|εμίσησα]] [[G1473\|αυτόν]] [[G3754\|ότι]] [[G3756\|ουκ]] [[G1510\|έστι]] [[G4395\|προφητεύων]] [[G4012\|περί]] [[G1473\|εμού]] [[G1519\|εις]] [[G0018\|αγαθά]] [[G3754\|ότι]] [[G3956\|πάσαι]] [[G3588\|αι]] [[G2250\|ημέραι]] [[G1473\|αυτού]] [[G1519\|εις]] [[G2556\|κακά]] [[G1473\|αυτός]] [[H4318\|Μιχαίας]] [[G5207\|υιός]] [[H3229\|Ιεμλά]] [[G2532\|και]] [[G2036\|είπεν]] [[G2498\|Ιωσαφάτ]] [[G3361\|μη]] [[G2980\|λαλείτω]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G3779\|ούτως]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMLA|IMLA]] • [[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.6|<< 2 Chronicles 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.8|2 Chronicles 18:8 >>]]</td></tr></table>
 
@@ -50,6 +129,6 @@ And the \[the\] king of Israel said to Jehoshaphat, There is one man  to seek th
 | the | **<big>[[G3588\|ο]]</big>** |
 | king | **<big>[[G0935\|βασιλεύς]]</big>** |
 | thus! | **<big>[[G3779\|ούτως]]</big>** |
-[[2Chr.18.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.6|<< 2 Chronicles 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.8|2 Chronicles 18:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.18.6|<< 2 Chronicles 18:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.18.8|2 Chronicles 18:8 >>]]</td></tr></table>
 
 

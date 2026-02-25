@@ -1,10 +1,73 @@
+---
+title: Acts 13:33
+type: Verse
+kjv: "God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee."
+bsb: "He has fulfilled for us, their children, by raising up Jesus. As it is written in the second Psalm: ‘You are My Son; today I have become Your Father.’"
+greek: "ὅτι ταύτην ὁ θεὸς ἐκπεπλήρωκεν τοῖς τέκνοις αὐτῶν ἡμῖν ἀναστήσας Ἰησοῦν, ὡς καὶ ἐν τῷ ψαλμῷ γέγραπται τῷ δευτέρῳ· υἱός μου εἶ σύ, ἐγὼ σήμερον γεγέννηκά σε."
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1603]]"
+- "[[G5043]]"
+- "[[G0846]]"
+- "[[G3165]]"
+- "[[G0450]]"
+- "[[G2424G]]"
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G5568]]"
+- "[[G1125]]"
+- "[[G1208]]"
+- "[[G5207]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G4594]]"
+- "[[G1080]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Acts 13:33**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, Thou art my Son, this day have I begotten thee.
 <small><sub>**BSB:**</sub></small>
 He has fulfilled for us, their children, by raising up Jesus. As it is written in the second Psalm: ‘You are My Son; today I have become Your Father.’
-<small><sub>**Literal:**</sub></small>
-that this <the> God has fulfilled to the children of them to us having raised up Jesus, as also in the psalm it has been written in the second Son of Mine are You yourself, I myself today have begotten you.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.32|<< Acts 13:32]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.34|Acts 13:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754G\|ὅτι]]  [[G3778\|ταύτην]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1603\|ἐκπεπλήρωκεν]]  [[G3588\|τοῖς]]  [[G5043\|τέκνοις]]  [[G0846\|αὐτῶν]]  [[G3165\|ἡμῖν]]  [[G0450\|ἀναστήσας]]  [[G2424G\|Ἰησοῦν,]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5568\|ψαλμῷ]]  [[G1125\|γέγραπται]]  [[G3588\|τῷ]]  [[G1208\|δευτέρῳ·]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G1510\|εἶ]]  [[G4771\|σύ,]]  [[G1473\|ἐγὼ]]  [[G4594\|σήμερον]]  [[G1080\|γεγέννηκά]]  [[G4771\|σε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.32|<< Acts 13:32]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.34|Acts 13:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 13:33** is...
 > $\quad$ referencing: [[LXX.Ps.2.7|Ps 2:7]]

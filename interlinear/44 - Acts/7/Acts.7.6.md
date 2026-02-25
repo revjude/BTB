@@ -1,10 +1,63 @@
+---
+title: Acts 7:6
+type: Verse
+kjv: "And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years."
+bsb: "God told him that his descendants would be foreigners in a strange land, and that they would be enslaved and mistreated four hundred years."
+greek: "ἐλάλησεν δὲ οὕτως ὁ θεός, ὅτι ἔσται τὸ σπέρμα αὐτοῦ πάροικον ἐν γῇ ἀλλοτρίᾳ καὶ δουλώσουσιν αὐτὸ καὶ κακώσουσιν ἔτη τετρακόσια."
+pericope: "[[Acts.7.1 Stephen’s Address：The Call of Abraham|Stephen’s Address：The Call of Abraham]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2980]]"
+- "[[G1161]]"
+- "[[G3779]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G4690G]]"
+- "[[G0846]]"
+- "[[G3941]]"
+- "[[G1722]]"
+- "[[G1093H]]"
+- "[[G0245]]"
+- "[[G2532]]"
+- "[[G1402]]"
+- "[[G2559]]"
+- "[[G2094]]"
+- "[[G5071]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Acts 7:6**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat [them] evil four hundred years.
 <small><sub>**BSB:**</sub></small>
 God told him that his descendants would be foreigners in a strange land, and that they would be enslaved and mistreated four hundred years.
-<small><sub>**Literal:**</sub></small>
-Spoke however thus <the> God that will be the seed of him a sojourner in a land strange and they will enslave it and they will mistreat [it] years four hundred.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.5|<< Acts 7:5]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.7|Acts 7:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2980\|ἐλάλησεν]]  [[G1161\|δὲ]]  [[G3779\|οὕτως]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3754G\|ὅτι]]  [[G1510\|ἔσται]]  [[G3588\|τὸ]]  [[G4690G\|σπέρμα]]  [[G0846\|αὐτοῦ]]  [[G3941\|πάροικον]]  [[G1722\|ἐν]]  [[G1093H\|γῇ]]  [[G0245\|ἀλλοτρίᾳ]]  [[G2532\|καὶ]]  [[G1402\|δουλώσουσιν]]  [[G0846\|αὐτὸ]]  [[G2532\|καὶ]]  [[G2559\|κακώσουσιν]]  [[G2094\|ἔτη]]  [[G5071\|τετρακόσια.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.5|<< Acts 7:5]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.7|Acts 7:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:6** is...
 > $\quad$ referencing: [[LXX.Gen.15.13|Gen 15:13-14]] ☩ [[LXX.Exod.2.22|Exod 2:22]]

@@ -1,8 +1,57 @@
+---
+title: Psalm 118:23
+type: Verse
+kjv: "This is the LORD’S doing; it is marvellous in our eyes."
+bsb: "This is from the LORD, and it is marvelous in our eyes."
+hebrew: "מֵאֵ֣ת יְ֭הוָה הָ֣יְתָה זֹּ֑את הִ֖יא נִפְלָ֣את בְּעֵינֵֽינוּ׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H2063]]"
+- "[[H1931]]"
+- "[[H6381]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:23**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This is the LORD’S doing; it [is] marvellous in our eyes.
 <small><sub>**BSB:**</sub></small>
 This is from the LORD, and it is marvelous in our eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְ֭הוָה]] [[H1961\|הָ֣יְתָה]] [[H2063\|זֹּ֑את]] [[H1931\|הִ֖יא]] [[H6381\|נִפְלָ֣את]] [[H9003\|בְּ]][[H5869A\|עֵינֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.22|<< Psalms 118:22]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.24|Psalms 118:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

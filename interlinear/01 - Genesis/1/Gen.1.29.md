@@ -1,8 +1,77 @@
+---
+title: Genesis 1:29
+type: Verse
+kjv: "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat."
+bsb: "Then God said, “Behold, I have given you every seed-bearing plant on the face of all the earth, and every tree whose fruit contains seed. They will be yours for food."
+hebrew: "וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת־ כָּל־ עֵ֣שֶׂב׀ זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל־ פְּנֵ֣י כָל־ הָאָ֔רֶץ וְאֶת־ כָּל־ הָעֵ֛ץ אֲשֶׁר־ בּ֥וֹ פְרִי־ עֵ֖ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאָכְלָֽה׃"
+pericope: "[[Gen.1.24 The Sixth Day|The Sixth Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic FRUITS|FRUITS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HERBS|HERBS]]"
+- "[[topic SEED|SEED]]"
+- "[[topic VEGETATION|VEGETATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H2009]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H6212]]"
+- "[[H9015]]"
+- "[[H2232]]"
+- "[[H2233G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H6086H]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H6529]]"
+- "[[H1961]]"
+- "[[H0402]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:29**<big><big>[[Gen.1.24 The Sixth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Behold, I have given you every herb bearing seed, which [is] upon the face of all the earth, and every tree, in the which [is] the fruit of a tree yielding seed; to you it shall be for meat.
 <small><sub>**BSB:**</sub></small>
 Then God said, “Behold, I have given you every seed-bearing plant on the face of all the earth, and every tree whose fruit contains seed. They will be yours for food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0430G\|אֱלֹהִ֗ים]] [[H2009\|הִנֵּה֩]] [[H5414G\|נָתַ֨תִּי]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6212\|עֵ֣שֶׂב]][[H9015\|׀]] [[H2232\|זֹרֵ֣עַ]] [[H2233G\|זֶ֗רַע]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H6086H\|עֵ֛ץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בּ֥]][[H9033\|וֹ]] [[H6529\|פְרִי]][[H9014\|־]] [[H6086H\|עֵ֖ץ]] [[H2232\|זֹרֵ֣עַ]] [[H2233G\|זָ֑רַע]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H1961\|יִֽהְיֶ֖ה]] [[H9005\|לְ]][[H0402\|אָכְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic BIRDS|BIRDS]] • [[topic FOOD|FOOD]] • [[topic FRUITS|FRUITS]] • [[topic GOD|GOD]] • [[topic HERBS|HERBS]] • [[topic SEED|SEED]] • [[topic VEGETATION|VEGETATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.28|<< Genesis 1:28]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.30|Genesis 1:30 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Ezekiel 12:3
+type: Verse
+kjv: "Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they be a rebellious house."
+bsb: "Therefore, son of man, pack your bags for exile. In broad daylight, set out from your place and go to another as they watch. Perhaps they will understand, though they are a rebellious house."
+hebrew: "וְאַתָּ֣ה בֶן־ אָדָ֗ם עֲשֵׂ֤ה לְךָ֙ כְּלֵ֣י גוֹלָ֔ה וּגְלֵ֥ה יוֹמָ֖ם לְעֵֽינֵיהֶ֑ם וְגָלִ֨יתָ מִמְּקוֹמְךָ֜ אֶל־ מָק֤וֹם אַחֵר֙ לְעֵ֣ינֵיהֶ֔ם אוּלַ֣י יִרְא֔וּ כִּ֛י בֵּ֥ית מְרִ֖י הֵֽמָּה׃"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3627]]"
+- "[[H1473]]"
+- "[[H1540K]]"
+- "[[H3119]]"
+- "[[H5869H]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H0312]]"
+- "[[H0194]]"
+- "[[H7200H]]"
+- "[[H3588A]]"
+- "[[H1004M]]"
+- "[[H4805H]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:3**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they [be] a rebellious house.
 <small><sub>**BSB:**</sub></small>
 Therefore, son of man, pack your bags for exile. In broad daylight, set out from your place and go to another as they watch. Perhaps they will understand, though they are a rebellious house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H6213H\|עֲשֵׂ֤ה]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H3627\|כְּלֵ֣י]] [[H1473\|גוֹלָ֔ה]] [[H9002\|וּ]][[H1540K\|גְלֵ֥ה]] [[H3119\|יוֹמָ֖ם]] [[H9005\|לְ]][[H5869H\|עֵֽינֵי]][[H9028\|הֶ֑ם]] [[H9001\|וְ]][[H1540K\|גָלִ֨יתָ]] [[H9006\|מִ]][[H4725\|מְּקוֹמְ]][[H9021\|ךָ֜]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מָק֤וֹם]] [[H0312\|אַחֵר֙]] [[H9005\|לְ]][[H5869H\|עֵ֣ינֵי]][[H9028\|הֶ֔ם]] [[H0194\|אוּלַ֣י]] [[H7200H\|יִרְא֔וּ]] [[H3588A\|כִּ֛י]] [[H1004M\|בֵּ֥ית]] [[H4805H\|מְרִ֖י]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.2|<< Ezekiel 12:2]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.4|Ezekiel 12:4 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Exodus 7:6
+type: Verse
+kjv: "And Moses and Aaron did as the LORD commanded them, so did they."
+bsb: "So Moses and Aaron did just as the LORD had commanded them."
+hebrew: "וַיַּ֥עַשׂ מֹשֶׁ֖ה וְאַהֲרֹ֑ן כַּאֲשֶׁ֨ר צִוָּ֧ה יְהוָ֛ה אֹתָ֖ם כֵּ֥ן עָשֽׂוּ׃"
+pericope: "[[Exod.7.1 God Commands Moses and Aaron|God Commands Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:6**<big><big>[[Exod.7.1 God Commands Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron did as the LORD commanded them, so did they.
 <small><sub>**BSB:**</sub></small>
 So Moses and Aaron did just as the LORD had commanded them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H4872\|מֹשֶׁ֖ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֑ן]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H3651C\|כֵּ֥ן]] [[H6213A\|עָשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.5|<< Exodus 7:5]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.7|Exodus 7:7 >>]]</td></tr></table>
 

@@ -1,10 +1,53 @@
+---
+title: John 4:43
+type: Verse
+kjv: "Now after two days he departed thence, and went into Galilee."
+bsb: "After two days, Jesus left for Galilee."
+greek: "Μετὰ δὲ τὰς δύο ἡμέρας ἐξῆλθεν ἐκεῖθεν καὶ ἀπῆλθεν εἰς τὴν Γαλιλαίαν."
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ROADS|ROADS]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G2250]]"
+- "[[G1831]]"
+- "[[G1564]]"
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G1056G]]"
+texts:
+- NKO
+- K
+---
+
 **John 4:43**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now after two days he departed thence, and went into Galilee.
 <small><sub>**BSB:**</sub></small>
 After two days, Jesus left for Galilee.
-<small><sub>**Literal:**</sub></small>
-After then the two days He went forth from there and went away into <the> Galilee.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.42|<< John 4:42]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.44|John 4:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G1161\|δὲ]]  [[G3588\|τὰς]]  [[G1417\|δύο]]  [[G2250\|ἡμέρας]]  [[G1831\|ἐξῆλθεν]]  [[G1564\|ἐκεῖθεν]]  [[G2532\|καὶ]]  [[G0565\|ἀπῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1056G\|Γαλιλαίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ROADS|ROADS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.42|<< John 4:42]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.44|John 4:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

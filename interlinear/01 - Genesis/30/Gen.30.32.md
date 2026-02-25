@@ -1,8 +1,75 @@
+---
+title: Genesis 30:32
+type: Verse
+kjv: "I will pass through all thy flock to day, removing from thence all the speckled and spotted cattle, and all the brown cattle among the sheep, and the spotted and speckled among the goats: and of such shall be my hire."
+bsb: "Let me go through all your flocks today and remove from them every speckled or spotted sheep, every dark-colored lamb, and every spotted or speckled goat. These will be my wages."
+hebrew: "אֶֽעֱבֹ֨ר בְּכָל־ צֹֽאנְךָ֜ הַיּ֗וֹם הָסֵ֨ר מִשָּׁ֜ם כָּל־ שֶׂ֣ה׀ נָקֹ֣ד וְטָל֗וּא וְכָל־ שֶׂה־ חוּם֙ בַּכְּשָׂבִ֔ים וְטָל֥וּא וְנָקֹ֖ד בָּעִזִּ֑ים וְהָיָ֖ה שְׂכָרִֽי׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H7716]]"
+- "[[H9015]]"
+- "[[H5348]]"
+- "[[H9002]]"
+- "[[H2921]]"
+- "[[H2345]]"
+- "[[H3775]]"
+- "[[H5795]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7939]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:32**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will pass through all thy flock to day, removing from thence all the speckled and spotted cattle, and all the brown cattle among the sheep, and the spotted and speckled among the goats: and [of such] shall be my hire.
 <small><sub>**BSB:**</sub></small>
 Let me go through all your flocks today and remove from them every speckled or spotted sheep, every dark-colored lamb, and every spotted or speckled goat. These will be my wages.
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|אֶֽעֱבֹ֨ר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6629G\|צֹֽאנְ]][[H9021\|ךָ֜]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H5493G\|הָסֵ֨ר]] [[H9006\|מִ]][[H8033G\|שָּׁ֜ם]] [[H3605\|כָּל]][[H9014\|־]] [[H7716\|שֶׂ֣ה]][[H9015\|׀]] [[H5348\|נָקֹ֣ד]] [[H9002\|וְ]][[H2921\|טָל֗וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7716\|שֶׂה]][[H9014\|־]] [[H2345\|חוּם֙]] [[H9003\|בַּ]][[H3775\|כְּשָׂבִ֔ים]] [[H9002\|וְ]][[H2921\|טָל֥וּא]] [[H9002\|וְ]][[H5348\|נָקֹ֖ד]] [[H9003\|בָּ]][[H5795\|עִזִּ֑ים]] [[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H7939\|שְׂכָרִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic RACHEL|RACHEL]] • [[topic SERVANT|SERVANT]] • [[topic SHEEP|SHEEP]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.31|<< Genesis 30:31]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.33|Genesis 30:33 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Isaiah 29:5
+type: Verse
+kjv: "Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly."
+bsb: "But your many foes will be like fine dust, the multitude of the ruthless like blowing chaff. Then suddenly, in an instant,"
+hebrew: "וְהָיָ֛ה כְּאָבָ֥ק דַּ֖ק הֲמ֣וֹן זָרָ֑יִךְ וּכְמֹ֤ץ עֹבֵר֙ הֲמ֣וֹן עָֽרִיצִ֔ים וְהָיָ֖ה לְפֶ֥תַע פִּתְאֹֽם׃"
+pericope: "[[Isa.29.1 Woe to David’s City|Woe to David’s City]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 29
+book/chapter: "[[Isa.29|Isaiah 29]]"
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0080]]"
+- "[[H1851]]"
+- "[[H1995A]]"
+- "[[H2114A]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H4671]]"
+- "[[H5674A]]"
+- "[[H6184]]"
+- "[[H9005]]"
+- "[[H6621]]"
+- "[[H6597]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 29:5**<big><big>[[Isa.29.1 Woe to David’s City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones [shall be] as chaff that passeth away: yea, it shall be at an instant suddenly.
 <small><sub>**BSB:**</sub></small>
 But your many foes will be like fine dust, the multitude of the ruthless like blowing chaff. Then suddenly, in an instant,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֛ה]] [[H9004\|כְּ]][[H0080\|אָבָ֥ק]] [[H1851\|דַּ֖ק]] [[H1995A\|הֲמ֣וֹן]] [[H2114A\|זָרָ֑יִ]][[H9022\|ךְ]] [[H9002\|וּ]][[H9004\|כְ]][[H4671\|מֹ֤ץ]] [[H5674A\|עֹבֵר֙]] [[H1995A\|הֲמ֣וֹן]] [[H6184\|עָֽרִיצִ֔ים]] [[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9005\|לְ]][[H6621\|פֶ֥תַע]] [[H6597\|פִּתְאֹֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.4|<< Isaiah 29:4]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.6|Isaiah 29:6 >>]]</td></tr></table>
 

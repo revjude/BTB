@@ -1,8 +1,55 @@
+---
+title: Psalm 147:7
+type: Verse
+kjv: "Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:"
+bsb: "Sing to the LORD with thanksgiving; make music on the harp to our God,"
+hebrew: "עֱנ֣וּ לַיהוָ֣ה בְּתוֹדָ֑ה זַמְּר֖וּ לֵאלֹהֵ֣ינוּ בְכִנּֽוֹר׃"
+pericope: "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HARP|HARP]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H6030C]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H8426]]"
+- "[[H2167]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3658]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 147:7**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:
 <small><sub>**BSB:**</sub></small>
 Sing to the LORD with thanksgiving; make music on the harp to our God,
+<small><sub>**Hebrew:**</sub></small>
+[[H6030C\|עֱנ֣וּ]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H9003\|בְּ]][[H8426\|תוֹדָ֑ה]] [[H2167\|זַמְּר֖וּ]] [[H9005\|לֵ]][[H0430G\|אלֹהֵ֣י]][[H9025\|נוּ]] [[H9003\|בְ]][[H3658\|כִנּֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.6|<< Psalms 147:6]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.8|Psalms 147:8 >>]]</td></tr></table>
 

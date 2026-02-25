@@ -1,8 +1,56 @@
+---
+title: Hosea 11:7
+type: Verse
+kjv: "And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him."
+bsb: "My people are bent on turning from Me. Though they call to the Most High, He will by no means exalt them."
+hebrew: "וְעַמִּ֥י תְלוּאִ֖ים לִמְשֽׁוּבָתִ֑י וְאֶל־ עַל֙ יִקְרָאֻ֔הוּ יַ֖חַד לֹ֥א יְרוֹמֵם׃"
+pericope: "[[Hos.11.1 Out of Egypt I Called My Son|Out of Egypt I Called My Son]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H8511]]"
+- "[[H9005]]"
+- "[[H4878]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5920H]]"
+- "[[H7121G]]"
+- "[[H9033]]"
+- "[[H3162A]]"
+- "[[H3808]]"
+- "[[H7311A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 11:7**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt [him].
 <small><sub>**BSB:**</sub></small>
 My people are bent on turning from Me. Though they call to the Most High, He will by no means exalt them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5971A\|עַמִּ֥]][[H9020\|י]] [[H8511\|תְלוּאִ֖ים]] [[H9005\|לִ]][[H4878\|מְשֽׁוּבָתִ֑]][[H9020\|י]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H5920H\|עַל֙]] [[H7121G\|יִקְרָאֻ֔]][[H9033\|הוּ]] [[H3162A\|יַ֖חַד]] [[H3808\|לֹ֥א]] [[H7311A\|יְרוֹמֵם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.6|<< Hosea 11:6]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.8|Hosea 11:8 >>]]</td></tr></table>
 

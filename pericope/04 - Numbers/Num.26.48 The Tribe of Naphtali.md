@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Naphtali
+type: Pericope
 pericope: "[[Num.26.48 The Tribe of Naphtali|The Tribe of Naphtali]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.26.48]]"
 - "[[Num.26.49]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.26.51]]"
 ---
 
-[[Num.26|Numbers 26:48 - Numbers 26:51]]
+<small>[[Num.26|Numbers 26:48-51]]</small>
 *The Tribe of Naphtali*
 
 [[Num.26.48|48]] \[Of\] the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites:

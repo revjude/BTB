@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 19:6
+type: Verse
+kjv: "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past."
+bsb: "Otherwise, the avenger of blood might pursue the manslayer in a rage, overtake him if the distance is great, and strike him dead though he did not deserve to die, since he did not intend any harm."
+hebrew: "פֶּן־ יִרְדֹּף֩ גֹּאֵ֨ל הַדָּ֜ם אַחֲרֵ֣י הָרֹצֵ֗חַ כִּי־ יֵחַם֮ לְבָבוֹ֒ וְהִשִּׂיג֛וֹ כִּֽי־ יִרְבֶּ֥ה הַדֶּ֖רֶךְ וְהִכָּ֣הוּ נָ֑פֶשׁ וְלוֹ֙ אֵ֣ין מִשְׁפַּט־ מָ֔וֶת כִּ֠י לֹ֣א שֹׂנֵ֥א ה֛וּא ל֖וֹ מִתְּמ֥וֹל שִׁלְשֽׁוֹם׃"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H7291]]"
+- "[[H1350H]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H0310A]]"
+- "[[H7523]]"
+- "[[H3588A]]"
+- "[[H2552]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5381]]"
+- "[[H9033]]"
+- "[[H7235A]]"
+- "[[H1870L]]"
+- "[[H5221]]"
+- "[[H5315I]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0369]]"
+- "[[H4941G]]"
+- "[[H4194]]"
+- "[[H3808]]"
+- "[[H8130]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:6**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he [was] not worthy of death, inasmuch as he hated him not in time past.
 <small><sub>**BSB:**</sub></small>
 Otherwise, the avenger of blood might pursue the manslayer in a rage, overtake him if the distance is great, and strike him dead though he did not deserve to die, since he did not intend any harm.
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּן]][[H9014\|־]] [[H7291\|יִרְדֹּף֩]] [[H1350H\|גֹּאֵ֨ל]] [[H9009\|הַ]][[H1818\|דָּ֜ם]] [[H0310A\|אַחֲרֵ֣י]] [[H9009\|הָ]][[H7523\|רֹצֵ֗חַ]] [[H3588A\|כִּי]][[H9014\|־]] [[H2552\|יֵחַם֮]] [[H3824\|לְבָב]][[H9023\|וֹ֒]] [[H9001\|וְ]][[H5381\|הִשִּׂיג֛]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7235A\|יִרְבֶּ֥ה]] [[H9009\|הַ]][[H1870L\|דֶּ֖רֶךְ]] [[H9001\|וְ]][[H5221\|הִכָּ֣ה]][[H9033\|וּ]] [[H5315I\|נָ֑פֶשׁ]] [[H9002\|וְ]][[H9005\|ל]][[H9033\|וֹ֙]] [[H0369\|אֵ֣ין]] [[H4941G\|מִשְׁפַּט]][[H9014\|־]] [[H4194\|מָ֔וֶת]] [[H3588A\|כִּ֠י]] [[H3808\|לֹ֣א]] [[H8130\|שֹׂנֵ֥א]] [[H1931\|ה֛וּא]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H8543\|תְּמ֥וֹל]] [[H8032\|שִׁלְשֽׁוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.5|<< Deuteronomy 19:5]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.7|Deuteronomy 19:7 >>]]</td></tr></table>
 

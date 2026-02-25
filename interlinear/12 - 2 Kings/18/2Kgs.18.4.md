@@ -1,8 +1,80 @@
+---
+title: 2 Kings 18:4
+type: Verse
+kjv: "He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan."
+bsb: "He removed the high places, shattered the sacred pillars, and cut down the Asherah poles. He also demolished the bronze snake called Nehushtan that Moses had made, for up to that time the Israelites had burned incense to it."
+hebrew: "ה֣וּא׀ הֵסִ֣יר אֶת־ הַבָּמ֗וֹת וְשִׁבַּר֙ אֶת־ הַמַּצֵּבֹ֔ת וְכָרַ֖ת אֶת־ הָֽאֲשֵׁרָ֑ה וְכִתַּת֩ נְחַ֨שׁ הַנְּחֹ֜שֶׁת אֲשֶׁר־ עָשָׂ֣ה מֹשֶׁ֗ה כִּ֣י עַד־ הַיָּמִ֤ים הָהֵ֙מָּה֙ הָי֤וּ בְנֵֽי־ יִשְׂרָאֵל֙ מְקַטְּרִ֣ים ל֔וֹ וַיִּקְרָא־ ל֖וֹ נְחֻשְׁתָּֽן׃"
+pericope: "[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|Hezekiah Destroys Idolatry in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BRAZEN SERPENT|BRAZEN SERPENT]]"
+- "[[topic GROVES|GROVES]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NEHUSHTAN|NEHUSHTAN]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H1931]]"
+- "[[H9015]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H9001]]"
+- "[[H7665]]"
+- "[[H4676]]"
+- "[[H3772G]]"
+- "[[H0842]]"
+- "[[H3807]]"
+- "[[H5175]]"
+- "[[H5178A]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H4872]]"
+- "[[H3588A]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H1992]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H6999H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7121H]]"
+- "[[H5180]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:4**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He removed the high places, and brake the images, and cut down the groves, and brake in pieces the brasen serpent that Moses had made: for unto those days the children of Israel did burn incense to it: and he called it Nehushtan.
 <small><sub>**BSB:**</sub></small>
 He removed the high places, shattered the sacred pillars, and cut down the Asherah poles. He also demolished the bronze snake called Nehushtan that Moses had made, for up to that time the Israelites had burned incense to it.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֣וּא]][[H9015\|׀]] [[H5493G\|הֵסִ֣יר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1116\|בָּמ֗וֹת]] [[H9001\|וְ]][[H7665\|שִׁבַּר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4676\|מַּצֵּבֹ֔ת]] [[H9001\|וְ]][[H3772G\|כָרַ֖ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0842\|אֲשֵׁרָ֑ה]] [[H9001\|וְ]][[H3807\|כִתַּת֩]] [[H5175\|נְחַ֨שׁ]] [[H9009\|הַ]][[H5178A\|נְּחֹ֜שֶׁת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשָׂ֣ה]] [[H4872\|מֹשֶׁ֗ה]] [[H3588A\|כִּ֣י]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יָּמִ֤ים]] [[H9009\|הָ]][[H1992\|הֵ֙מָּה֙]] [[H1961\|הָי֤וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H6999H\|מְקַטְּרִ֣ים]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H7121H\|יִּקְרָא]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H5180\|נְחֻשְׁתָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRAZEN SERPENT|BRAZEN SERPENT]] • [[topic GROVES|GROVES]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NEHUSHTAN|NEHUSHTAN]] • [[topic RELIGION|RELIGION]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.3|<< 2 Kings 18:3]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.5|2 Kings 18:5 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Ezekiel 43:11
+type: Verse
+kjv: "And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them."
+bsb: "and if they are ashamed of all they have done, then make known to them the design of the temple—its arrangement and its exits and entrances—its whole design along with all its statutes, forms, and laws. Write it down in their sight, so that they may keep its complete design and all its statutes and may carry them out."
+hebrew: "וְאִֽם־ נִכְלְמ֞וּ מִכֹּ֣ל אֲשֶׁר־ עָשׂ֗וּ צוּרַ֣ת הַבַּ֡יִת וּתְכוּנָת֡וֹ וּמוֹצָאָ֡יו וּמוֹבָאָ֣יו וְֽכָל־ צֽוּרֹתָ֡יו וְאֵ֣ת כָּל־ חֻקֹּתָיו֩ וְכָל־ צ֨וּרֹתָ֤יו וְכָל־ תּוֹרֹתָיו֙ הוֹדַ֣ע אוֹתָ֔ם וּכְתֹ֖ב לְעֵֽינֵיהֶ֑ם וְיִשְׁמְר֞וּ אֶת־ כָּל־ צוּרָת֛וֹ וְאֶת־ כָּל־ חֻקֹּתָ֖יו וְעָשׂ֥וּ אוֹתָֽם׃"
+pericope: "[[Ezek.43.1 The Glory of the LORD Returns to the Temple|The Glory of the LORD Returns to the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3637]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H6699]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H8498]]"
+- "[[H9023]]"
+- "[[H4161]]"
+- "[[H4126]]"
+- "[[H0853]]"
+- "[[H2708]]"
+- "[[H9020]]"
+- "[[H8451]]"
+- "[[H3045]]"
+- "[[H9038]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H9028]]"
+- "[[H8104G]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 43:11**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write [it] in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
 <small><sub>**BSB:**</sub></small>
 and if they are ashamed of all they have done, then make known to them the design of the temple—its arrangement and its exits and entrances—its whole design along with all its statutes, forms, and laws. Write it down in their sight, so that they may keep its complete design and all its statutes and may carry them out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִֽם]][[H9014\|־]] [[H3637\|נִכְלְמ֞וּ]] [[H9006\|מִ]][[H3605\|כֹּ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשׂ֗וּ]] [[H6699\|צוּרַ֣ת]] [[H9009\|הַ]][[H1004B\|בַּ֡יִת]] [[H9002\|וּ]][[H8498\|תְכוּנָת֡]][[H9023\|וֹ]] [[H9002\|וּ]][[H4161\|מוֹצָאָ֡י]][[H9023\|ו]] [[H9002\|וּ]][[H4126\|מוֹבָאָ֣י]][[H9023\|ו]] [[H9002\|וְֽ]][[H3605\|כָל]][[H9014\|־]] [[H6699\|צֽוּרֹתָ֡י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H2708\|חֻקֹּתָי]][[H9023\|ו֩]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6699\|צ֨וּרֹתָ֤י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8451\|תּוֹרֹתָי]][[H9023\|ו֙]] [[H3045\|הוֹדַ֣ע]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9002\|וּ]][[H3789\|כְתֹ֖ב]] [[H9005\|לְ]][[H5869H\|עֵֽינֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H8104G\|יִשְׁמְר֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6699\|צוּרָת֛]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2708\|חֻקֹּתָ֖י]][[H9023\|ו]] [[H9001\|וְ]][[H6213A\|עָשׂ֥וּ]] [[H0853\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.10|<< Ezekiel 43:10]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.12|Ezekiel 43:12 >>]]</td></tr></table>
 
@@ -42,13 +102,13 @@ and if they are ashamed of all they have done, then make known to them the desig
 | \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.10|<< Ezekiel 43:10]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.12|Ezekiel 43:12 >>]]</td></tr></table>
 
-[^1]: design its  | **<big>[[H9023|וֹ]]</big><big>[[H6699|צוּרָת]]</big> ** | tzu.ro.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: design its  | **<big>[[H9023|וֹ]]</big><big>[[H6699|צוּרָת]]</big> ** | tzu.ro.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: design its  | **<big>[[H6699|צוּרָת]]</big><big>[[H9023|וֹ]]</big> ** | tzu.ro.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: design its  | **<big>[[H6699|צוּרָת]]</big><big>[[H9023|וֹ]]</big> ** | tzu.ro.Ta<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>צֽוּרֹתָ֡ו</big></span>**
-[^4]: designs my  | **<big>[[H9020|י]]</big><big>[[H6699|צוֹרָתִ]]</big> ** | tzu.ro.ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
-[^5]: designs my  | **<big>[[H9020|י]]</big><big>[[H6699|צוֹרָתִ]]</big> ** | tzu.ro.ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^4]: designs my  | **<big>[[H6699|צוֹרָתִ]]</big><big>[[H9020|י]]</big> ** | tzu.ro.ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
+[^5]: designs my  | **<big>[[H6699|צוֹרָתִ]]</big><big>[[H9020|י]]</big> ** | tzu.ro.ta<small><sup>[[HNcfpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | K
 [^6]: L spelled: **<span class="ashebrew"><big>צ֨וּרֹתָ֤י</big></span>**
-[^7]: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^8]: law its  | **<big>[[H9023|וֹ]]</big><big>[[H8451|תּוֹרֹת]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^7]: law its  | **<big>[[H8451|תּוֹרֹת]]</big><big>[[H9023|וֹ]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^8]: law its  | **<big>[[H8451|תּוֹרֹת]]</big><big>[[H9023|וֹ]]</big> ** | to.ro.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^9]: L spelled: **<span class="ashebrew"><big>תּוֹרֹתוֹ</big></span>**
 

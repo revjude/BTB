@@ -1,8 +1,67 @@
+---
+title: Judges 20:39
+type: Verse
+kjv: "And when the men of Israel retired in the battle, Benjamin began to smite and kill of the men of Israel about thirty persons: for they said, Surely they are smitten down before us, as in the first battle."
+bsb: "the men of Israel would turn in the battle. When the Benjamites had begun to strike them down, killing about thirty men of Israel, they said, “They are defeated before us as in the first battle.”"
+hebrew: "וַיַּהֲפֹ֥ךְ אִֽישׁ־ יִשְׂרָאֵ֖ל בַּמִּלְחָמָ֑ה וּבִנְיָמִ֡ן הֵחֵל֩ לְהַכּ֨וֹת חֲלָלִ֤ים בְּאִֽישׁ־ יִשְׂרָאֵל֙ כִּשְׁלֹשִׁ֣ים אִ֔ישׁ כִּ֣י אָמְר֔וּ אַךְ֩ נִגּ֨וֹף נִגָּ֥ף הוּא֙ לְפָנֵ֔ינוּ כַּמִּלְחָמָ֖ה הָרִאשֹׁנָֽה׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H4421]]"
+- "[[H9002]]"
+- "[[H1144G]]"
+- "[[H2490C]]"
+- "[[H9005]]"
+- "[[H5221]]"
+- "[[H2491A]]"
+- "[[H9004]]"
+- "[[H7970]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H0389]]"
+- "[[H5062]]"
+- "[[H1931]]"
+- "[[H6440G]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:39**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the men of Israel retired in the battle, Benjamin began to smite [and] kill of the men of Israel about thirty persons: for they said, Surely they are smitten down before us, as [in] the first battle.
 <small><sub>**BSB:**</sub></small>
 the men of Israel would turn in the battle. When the Benjamites had begun to strike them down, killing about thirty men of Israel, they said, “They are defeated before us as in the first battle.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2015\|יַּהֲפֹ֥ךְ]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֑ה]] [[H9002\|וּ]][[H1144G\|בִנְיָמִ֡ן]] [[H2490C\|הֵחֵל֩]] [[H9005\|לְ]][[H5221\|הַכּ֨וֹת]] [[H2491A\|חֲלָלִ֤ים]] [[H9003\|בְּ]][[H0376G\|אִֽישׁ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9004\|כִּ]][[H7970\|שְׁלֹשִׁ֣ים]] [[H0376G\|אִ֔ישׁ]] [[H3588A\|כִּ֣י]] [[H0559\|אָמְר֔וּ]] [[H0389\|אַךְ֩]] [[H5062\|נִגּ֨וֹף]] [[H5062\|נִגָּ֥ף]] [[H1931\|הוּא֙]] [[H9005\|לְ]][[H6440G\|פָנֵ֔י]][[H9025\|נוּ]] [[H9004\|כַּ]][[H4421\|מִּלְחָמָ֖ה]] [[H9009\|הָ]][[H7223G\|רִאשֹׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.38|<< Judges 20:38]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.40|Judges 20:40 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: Acts 28:13
+type: Verse
+kjv: "And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:"
+bsb: "From there we weighed anchor and came to Rhegium. After one day, a south wind came up, and on the second day we arrived at Puteoli."
+greek: "ὅθεν περιελόντες κατηντήσαμεν εἰς Ῥήγιον καὶ μετὰ μίαν ἡμέραν ἐπιγενομένου νότου δευτεραῖοι ἤλθομεν εἰς Ποτιόλους·"
+pericope: "[[Acts.28.11 Paul Arrives in Italy|Paul Arrives in Italy]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+- "[[topic PUTEOLI|PUTEOLI]]"
+- "[[topic RHEGIUM|RHEGIUM]]"
+strongs:
+- "[[G3606]]"
+- "[[G4014]]"
+- "[[G2658]]"
+- "[[G1519]]"
+- "[[G4484]]"
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G1520]]"
+- "[[G2250]]"
+- "[[G1920]]"
+- "[[G3558G]]"
+- "[[G1206]]"
+- "[[G2064]]"
+- "[[G4223]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 28:13**<big><big>[[Acts.28.11 Paul Arrives in Italy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:
 <small><sub>**BSB:**</sub></small>
 From there we weighed anchor and came to Rhegium. After one day, a south wind came up, and on the second day we arrived at Puteoli.
-<small><sub>**Literal:**</sub></small>
-from where having taken off we arrived at Rhegium And after one day when was comong on a south wind on the second day we came to Puteoli;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.12|<< Acts 28:12]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.14|Acts 28:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3606\|ὅθεν]]  [[G4014\|περιελόντες]]  [[G2658\|κατηντήσαμεν]]  [[G1519\|εἰς]]  [[G4484\|Ῥήγιον]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G1520\|μίαν]]  [[G2250\|ἡμέραν]]  [[G1920\|ἐπιγενομένου]]  [[G3558G\|νότου]]  [[G1206\|δευτεραῖοι]]  [[G2064\|ἤλθομεν]]  [[G1519\|εἰς]]  [[G4223\|Ποτιόλους·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]] • [[topic PUTEOLI|PUTEOLI]] • [[topic RHEGIUM|RHEGIUM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.12|<< Acts 28:12]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.14|Acts 28:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

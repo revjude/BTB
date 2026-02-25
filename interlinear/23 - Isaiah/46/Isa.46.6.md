@@ -1,8 +1,63 @@
+---
+title: Isaiah 46:6
+type: Verse
+kjv: "They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship."
+bsb: "They pour out their bags of gold and weigh out silver on scales; they hire a goldsmith to fashion it into a god, so they can bow down and worship."
+hebrew: "הַזָּלִ֤ים זָהָב֙ מִכִּ֔יס וְכֶ֖סֶף בַּקָּנֶ֣ה יִשְׁקֹ֑לוּ יִשְׂכְּר֤וּ צוֹרֵף֙ וְיַעֲשֵׂ֣הוּ אֵ֔ל יִסְגְּד֖וּ אַף־ יִֽשְׁתַּחֲוּֽוּ׃"
+pericope: "[[Isa.46.1 Babylon’s Idols|Babylon’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 46
+book/chapter: "[[Isa.46|Isaiah 46]]"
+chronological_order: 685
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BALANCES|BALANCES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H9009]]"
+- "[[H2107]]"
+- "[[H2091]]"
+- "[[H9006]]"
+- "[[H3599]]"
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H9003]]"
+- "[[H7070K]]"
+- "[[H8254]]"
+- "[[H7936B]]"
+- "[[H6884]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H0410K]]"
+- "[[H5456]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H7812]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 46:6**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They lavish gold out of the bag, and weigh silver in the balance, [and] hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.
 <small><sub>**BSB:**</sub></small>
 They pour out their bags of gold and weigh out silver on scales; they hire a goldsmith to fashion it into a god, so they can bow down and worship.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H2107\|זָּלִ֤ים]] [[H2091\|זָהָב֙]] [[H9006\|מִ]][[H3599\|כִּ֔יס]] [[H9002\|וְ]][[H3701G\|כֶ֖סֶף]] [[H9003\|בַּ]][[H7070K\|קָּנֶ֣ה]] [[H8254\|יִשְׁקֹ֑לוּ]] [[H7936B\|יִשְׂכְּר֤וּ]] [[H6884\|צוֹרֵף֙]] [[H9002\|וְ]][[H6213H\|יַעֲשֵׂ֣]][[H9033\|הוּ]] [[H0410K\|אֵ֔ל]] [[H5456\|יִסְגְּד֖וּ]] [[H0637\|אַף]][[H9014\|־]] [[H7812\|יִֽשְׁתַּחֲוּֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALANCES|BALANCES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.5|<< Isaiah 46:5]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.7|Isaiah 46:7 >>]]</td></tr></table>
 

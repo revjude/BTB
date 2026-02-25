@@ -1,10 +1,57 @@
+---
+title: Mark 10:33
+type: Verse
+kjv: "Saying, Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:"
+bsb: "“Look, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and scribes. They will condemn Him to death and will deliver Him over to the Gentiles,"
+jesus_said: "Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:"
+greek: "ὅτι ἰδοὺ ἀναβαίνομεν εἰς Ἱεροσόλυμα, καὶ ὁ υἱὸς τοῦ ἀνθρώπου παραδοθήσεται τοῖς ἀρχιερεῦσιν καὶ τοῖς γραμματεῦσιν, καὶ κατακρινοῦσιν αὐτὸν θανάτῳ καὶ παραδώσουσιν αὐτὸν τοῖς ἔθνεσιν"
+pericope: "[[Mark.10.32 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3754G]]"
+- "[[G2400]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3860]]"
+- "[[G0749]]"
+- "[[G1122]]"
+- "[[G2632]]"
+- "[[G0846]]"
+- "[[G2288]]"
+- "[[G1484]]"
+texts:
+- NKO
+---
+
 **Mark 10:33**<big><big>[[Mark.10.32 The Third Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Saying], Behold, we go up to Jerusalem; and the Son of man shall be delivered unto the chief priests, and unto the scribes; and they shall condemn him to death, and shall deliver him to the Gentiles:
 <small><sub>**BSB:**</sub></small>
 “Look, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and scribes. They will condemn Him to death and will deliver Him over to the Gentiles,
-<small><sub>**Literal:**</sub></small>
-that Behold we go up to Jerusalem, and the Son <the> of Man will be betrayed to the chief priests and to the scribes, and they will condemn Him to death and will betray Him to the Gentiles<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.32|<< Mark 10:32]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.34|Mark 10:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754G\|ὅτι]]  [[G2400\|ἰδοὺ]]  [[G0305\|ἀναβαίνομεν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3860\|παραδοθήσεται]]  [[G3588\|τοῖς]]  [[G0749\|ἀρχιερεῦσιν]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G1122\|γραμματεῦσιν,]]  [[G2532\|καὶ]]  [[G2632\|κατακρινοῦσιν]]  [[G0846\|αὐτὸν]]  [[G2288\|θανάτῳ]]  [[G2532\|καὶ]]  [[G3860\|παραδώσουσιν]]  [[G0846\|αὐτὸν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.32|<< Mark 10:32]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.34|Mark 10:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

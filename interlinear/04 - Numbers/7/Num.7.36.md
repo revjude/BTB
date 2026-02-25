@@ -1,8 +1,59 @@
+---
+title: Numbers 7:36
+type: Verse
+kjv: "On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, did offer:"
+bsb: "On the fifth day Shelumiel son of Zurishaddai, the leader of the Simeonites, drew near."
+hebrew: "בַּיּוֹם֙ הַחֲמִישִׁ֔י נָשִׂ֖יא לִבְנֵ֣י שִׁמְע֑וֹן שְׁלֻֽמִיאֵ֖ל בֶּן־ צוּרִֽישַׁדָּֽי׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic SHELUMIEL|SHELUMIEL]]"
+- "[[topic ZURISHADDAI|ZURISHADDAI]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H5387A]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H8095G]]"
+- "[[H8017]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H6701]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:36**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the fifth day Shelumiel the son of Zurishaddai, prince of the children of Simeon, [did offer]:
 <small><sub>**BSB:**</sub></small>
 On the fifth day Shelumiel son of Zurishaddai, the leader of the Simeonites, drew near.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּוֹם֙]] [[H9009\|הַ]][[H2549\|חֲמִישִׁ֔י]] [[H5387A\|נָשִׂ֖יא]] [[H9005\|לִ]][[H1121A\|בְנֵ֣י]] [[H8095G\|שִׁמְע֑וֹן]] [[H8017\|שְׁלֻֽמִיאֵ֖ל]] [[H1121G\|בֶּן]][[H9014\|־]] [[H6701\|צוּרִֽישַׁדָּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEKEL|SHEKEL]] • [[topic SHELUMIEL|SHELUMIEL]] • [[topic ZURISHADDAI|ZURISHADDAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.35|<< Numbers 7:35]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.37|Numbers 7:37 >>]]</td></tr></table>
 

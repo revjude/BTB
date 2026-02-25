@@ -1,8 +1,62 @@
+---
+title: Isaiah 1:5
+type: Verse
+kjv: "Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint."
+bsb: "Why do you want more beatings? Why do you keep rebelling? Your head has a massive wound, and your whole heart is afflicted."
+hebrew: "עַ֣ל מֶ֥ה תֻכּ֛וּ ע֖וֹד תּוֹסִ֣יפוּ סָרָ֑ה כָּל־ רֹ֣אשׁ לָחֳלִ֔י וְכָל־ לֵבָ֖ב דַּוָּֽי׃"
+pericope: "[[Isa.1.1 Judah’s Rebellion|Judah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SICK, THE|SICK, THE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5921A]]"
+- "[[H4100]]"
+- "[[H5221]]"
+- "[[H5750]]"
+- "[[H3254G]]"
+- "[[H5627]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9005]]"
+- "[[H2483]]"
+- "[[H9002]]"
+- "[[H3824]]"
+- "[[H1742]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:5**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
 <small><sub>**BSB:**</sub></small>
 Why do you want more beatings? Why do you keep rebelling? Your head has a massive wound, and your whole heart is afflicted.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַ֣ל]] [[H4100\|מֶ֥ה]] [[H5221\|תֻכּ֛וּ]] [[H5750\|ע֖וֹד]] [[H3254G\|תּוֹסִ֣יפוּ]] [[H5627\|סָרָ֑ה]] [[H3605\|כָּל]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]] [[H9005\|לָ]][[H2483\|חֳלִ֔י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לֵבָ֖ב]] [[H1742\|דַּוָּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SICK, THE|SICK, THE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.4|<< Isaiah 1:4]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.6|Isaiah 1:6 >>]]</td></tr></table>
 

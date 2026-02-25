@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Commissions Joshua
+type: Pericope
 pericope: "[[Deut.31.14 God Commissions Joshua|God Commissions Joshua]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 31
 book/chapter: "[[Deut.31|Deuteronomy 31]]"
-genre:
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 10
 verses:
 - "[[Deut.31.14]]"
 - "[[Deut.31.15]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Deut.31.23]]"
 ---
 
-[[Deut.31|Deuteronomy 31:14 - Deuteronomy 31:23]]
+<small>[[Deut.31|Deuteronomy 31:14-23]]</small>
 *God Commissions Joshua*
 
 [[Deut.31.14|14]] And the LORD said unto Moses, Behold, thy days approach that thou must die: call Joshua, and present yourselves in the tabernacle of the congregation, that I may give him a charge. And Moses and Joshua went, and presented themselves in the tabernacle of the congregation.

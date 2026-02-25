@@ -1,8 +1,54 @@
+---
+title: Proverbs 1:13
+type: Verse
+kjv: "We shall find all precious substance, we shall fill our houses with spoil:"
+bsb: "We will find all manner of precious goods; we will fill our houses with plunder."
+hebrew: "כָּל־ ה֣וֹן יָקָ֣ר נִמְצָ֑א נְמַלֵּ֖א בָתֵּ֣ינוּ שָׁלָֽל׃"
+pericope: "[[Prov.1.8 The Enticement of Sin|The Enticement of Sin]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic ROBBERS|ROBBERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1952]]"
+- "[[H3368]]"
+- "[[H4672]]"
+- "[[H4390]]"
+- "[[H1004B]]"
+- "[[H9025]]"
+- "[[H7998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:13**<big><big>[[Prov.1.8 The Enticement of Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We shall find all precious substance, we shall fill our houses with spoil:
 <small><sub>**BSB:**</sub></small>
 We will find all manner of precious goods; we will fill our houses with plunder.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H1952\|ה֣וֹן]] [[H3368\|יָקָ֣ר]] [[H4672\|נִמְצָ֑א]] [[H4390\|נְמַלֵּ֖א]] [[H1004B\|בָתֵּ֣י]][[H9025\|נוּ]] [[H7998\|שָׁלָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic ROBBERS|ROBBERS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.12|<< Proverbs 1:12]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.14|Proverbs 1:14 >>]]</td></tr></table>
 

@@ -1,10 +1,52 @@
+---
+title: Hebrews 2:16
+type: Verse
+kjv: "For verily he took not on him the nature of angels; but he took on him the seed of Abraham."
+bsb: "For surely it is not the angels He helps, but the descendants of Abraham."
+greek: "οὐ γὰρ δήπου δήπου ἀγγέλων ἐπιλαμβάνεται, ἀλλὰ σπέρματος Ἀβραὰμ ἐπιλαμβάνεται."
+pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1211]]"
+- "[[G4225]]"
+- "[[G0032G]]"
+- "[[G1949]]"
+- "[[G0235]]"
+- "[[G4690G]]"
+- "[[G0011]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:16**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For verily he took not on [him the nature of] angels; but he took on [him] the seed of Abraham.
 <small><sub>**BSB:**</sub></small>
 For surely it is not the angels He helps, but the descendants of Abraham.
-<small><sub>**Literal:**</sub></small>
-Not for surely somewhere [the] angels He helps, but [the] seed of Abraham He helps.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.15|<< Hebrews 2:15]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.17|Hebrews 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G1211\|δήπου]]  <sup><small>[[G4225\| [ • ] ]]</small></sup>  [[G0032G\|ἀγγέλων]]  [[G1949\|ἐπιλαμβάνεται,]]  [[G0235\|ἀλλὰ]]  [[G4690G\|σπέρματος]]  [[G0011\|Ἀβραὰμ]]  [[G1949\|ἐπιλαμβάνεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.15|<< Hebrews 2:15]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.17|Hebrews 2:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 2:16** is...
 > $\quad$ alluding to: [[LXX.Isa.41.8|Isa 41:8-9]]

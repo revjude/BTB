@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Loss and Repentance
+type: Pericope
 pericope: "[[2Sam.12.13 David’s Loss and Repentance|David’s Loss and Repentance]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 12
 book/chapter: "[[2Sam.12|2 Samuel 12]]"
-genre:
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 11
 verses:
 - "[[2Sam.12.13]]"
 - "[[2Sam.12.14]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Sam.12.23]]"
 ---
 
-[[2Sam.12|2 Samuel 12:13 - 2 Samuel 12:23]]
+<small>[[2Sam.12|2 Samuel 12:13-23]]</small>
 *David’s Loss and Repentance*
 
 [[2Sam.12.13|13]] And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die.

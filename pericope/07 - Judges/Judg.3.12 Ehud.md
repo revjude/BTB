@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ehud
+type: Pericope
 pericope: "[[Judg.3.12 Ehud|Ehud]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 3
 book/chapter: "[[Judg.3|Judges 3]]"
-genre:
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 19
 verses:
 - "[[Judg.3.12]]"
 - "[[Judg.3.13]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Judg.3.30]]"
 ---
 
-[[Judg.3|Judges 3:12 - Judges 3:30]]
+<small>[[Judg.3|Judges 3:12-30]]</small>
 *Ehud*
 
 [[Judg.3.12|12]] And the children of Israel did evil again in the sight of the LORD: and the LORD strengthened Eglon the king of Moab against Israel, because they had done evil in the sight of the LORD.

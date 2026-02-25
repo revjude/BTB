@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Joseph
+type: Pericope
 pericope: "[[Gen.50.22 The Death of Joseph|The Death of Joseph]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 50
 book/chapter: "[[Gen.50|Genesis 50]]"
-genre:
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.50.22]]"
 - "[[Gen.50.23]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.50.26]]"
 ---
 
-[[Gen.50|Genesis 50:22 - Genesis 50:26]]
+<small>[[Gen.50|Genesis 50:22-26]]</small>
 *The Death of Joseph*
 
 [[Gen.50.22|22]] And Joseph dwelt in Egypt, he, and his father’s house: and Joseph lived an hundred and ten years.

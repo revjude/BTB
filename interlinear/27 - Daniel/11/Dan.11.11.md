@@ -1,8 +1,57 @@
+---
+title: Daniel 11:11
+type: Verse
+kjv: "And the king of the south shall be moved with choler, and shall come forth and fight with him, even with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand."
+bsb: "In a rage, the king of the South will march out to fight the king of the North, who will raise a large army, but it will be delivered into the hand of his enemy."
+hebrew: "וְיִתְמַרְמַר֙ מֶ֣לֶךְ הַנֶּ֔גֶב וְיָצָ֕א וְנִלְחַ֥ם עִמּ֖וֹ עִם־ מֶ֣לֶךְ הַצָּפ֑וֹן וְהֶעֱמִיד֙ הָמ֣וֹן רָ֔ב וְנִתַּ֥ן הֶהָמ֖וֹן בְּיָדֽוֹ׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9002]]"
+- "[[H4843]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H5045H]]"
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H6828G]]"
+- "[[H5975I]]"
+- "[[H1995A]]"
+- "[[H7227A]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:11**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of the south shall be moved with choler, and shall come forth and fight with him, [even] with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.
 <small><sub>**BSB:**</sub></small>
 In a rage, the king of the South will march out to fight the king of the North, who will raise a large army, but it will be delivered into the hand of his enemy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H4843\|יִתְמַרְמַר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H5045H\|נֶּ֔גֶב]] [[H9001\|וְ]][[H3318G\|יָצָ֕א]] [[H9001\|וְ]][[H3898A\|נִלְחַ֥ם]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H5973A\|עִם]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H6828G\|צָּפ֑וֹן]] [[H9001\|וְ]][[H5975I\|הֶעֱמִיד֙]] [[H1995A\|הָמ֣וֹן]] [[H7227A\|רָ֔ב]] [[H9001\|וְ]][[H5414G\|נִתַּ֥ן]] [[H9009\|הֶ]][[H1995A\|הָמ֖וֹן]] [[H9003\|בְּ]][[H3027H\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.10|<< Daniel 11:10]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.12|Daniel 11:12 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: 1 Chronicles 2:3
+type: Verse
+kjv: "The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him."
+bsb: "The sons of Judah: Er, Onan, and Shelah. These three were born to him by Bath-shua the Canaanite. Er, Judah’s firstborn, was wicked in the sight of the LORD. So the LORD put him to death."
+hebrew: "בְּנֵ֣י יְהוּדָ֗ה עֵ֤ר וְאוֹנָן֙ וְשֵׁלָ֔ה שְׁלוֹשָׁה֙ נ֣וֹלַד ל֔וֹ מִבַּת־ שׁ֖וּעַ הַֽכְּנַעֲנִ֑ית וַיְהִ֞י עֵ֣ר׀ בְּכ֣וֹר יְהוּדָ֗ה רַ֛ע בְּעֵינֵ֥י יְהוָ֖ה וַיְמִיתֵֽהוּ׃ ס"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ER|ER]]"
+- "[[topic ONAN|ONAN]]"
+- "[[topic SHELAH|SHELAH]]"
+- "[[topic SHUA|SHUA]]"
+strongs:
+- "[[H1121A]]"
+- "[[H3063G]]"
+- "[[H6147G]]"
+- "[[H9002]]"
+- "[[H0209]]"
+- "[[H7956]]"
+- "[[H7969]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1323I]]"
+- "[[H9014]]"
+- "[[H7770]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H1060]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:3**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Judah; Er, and Onan, and Shelah: [which] three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him.
 <small><sub>**BSB:**</sub></small>
 The sons of Judah: Er, Onan, and Shelah. These three were born to him by Bath-shua the Canaanite. Er, Judah’s firstborn, was wicked in the sight of the LORD. So the LORD put him to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵ֣י]] [[H3063G\|יְהוּדָ֗ה]] [[H6147G\|עֵ֤ר]] [[H9002\|וְ]][[H0209\|אוֹנָן֙]] [[H9002\|וְ]][[H7956\|שֵׁלָ֔ה]] [[H7969\|שְׁלוֹשָׁה֙]] [[H3205\|נ֣וֹלַד]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9006\|מִ]][[H1323I\|בַּת]][[H9014\|־]] [[H7770\|שׁ֖וּעַ]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֑ית]] [[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H6147G\|עֵ֣ר]][[H9015\|׀]] [[H1060\|בְּכ֣וֹר]] [[H3063G\|יְהוּדָ֗ה]] [[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H4191\|יְמִיתֵֽ]][[H9033\|הוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DAVID|DAVID]] • [[topic ER|ER]] • [[topic ONAN|ONAN]] • [[topic SHELAH|SHELAH]] • [[topic SHUA|SHUA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.2|<< 1 Chronicles 2:2]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.4|1 Chronicles 2:4 >>]]</td></tr></table>
 
@@ -26,7 +90,7 @@ The sons of Judah: Er, Onan, and Shelah. These three were born to him by Bath-sh
 | evil  |**<big>&#8207;[[H7451H\|רַ֛ע]]&#8207; </big>**| ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] eyes of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869H\|עֵינֵ֥י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he put to death him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יְמִיתֵֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.mi.Te.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he put to death him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יְמִיתֵֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.mi.Te.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.2|<< 1 Chronicles 2:2]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.4|1 Chronicles 2:4 >>]]</td></tr></table>
 
 

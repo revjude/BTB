@@ -1,10 +1,51 @@
+---
+title: Revelation 18:15
+type: Verse
+kjv: "The merchants of these things, which were made rich by her, shall stand afar off for the fear of her torment, weeping and wailing,"
+bsb: "The merchants who sold these things and gained their wealth from her will stand at a distance, in fear of her torment. They will weep and mourn,"
+greek: "οἱ ἔμποροι τούτων οἱ πλουτήσαντες ἀπ᾽ αὐτῆς ἀπὸ μακρόθεν στήσονται διὰ τὸν φόβον τοῦ βασανισμοῦ αὐτῆς κλαίοντες καὶ πενθοῦντες,"
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+strongs:
+- "[[G3588]]"
+- "[[G1713]]"
+- "[[G3778]]"
+- "[[G4147]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G3113]]"
+- "[[G2476]]"
+- "[[G1223]]"
+- "[[G5401]]"
+- "[[G0929]]"
+- "[[G2799]]"
+- "[[G2532]]"
+- "[[G3996]]"
+texts:
+- NKO
+---
+
 **Revelation 18:15**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The merchants of these things, which were made rich by her, shall stand afar off for the fear of her torment, weeping and wailing,
 <small><sub>**BSB:**</sub></small>
 The merchants who sold these things and gained their wealth from her will stand at a distance, in fear of her torment. They will weep and mourn,
-<small><sub>**Literal:**</sub></small>
-The merchants of these things which having been enriched from her from afar will stand because of the fear of the torment of her weeping and mourning,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.14|<< Revelation 18:14]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.16|Revelation 18:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1713\|ἔμποροι]]  [[G3778\|τούτων]]  [[G3588\|οἱ]]  [[G4147\|πλουτήσαντες]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῆς]]  [[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G2476\|στήσονται]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G5401\|φόβον]]  [[G3588\|τοῦ]]  [[G0929\|βασανισμοῦ]]  [[G0846\|αὐτῆς]]  [[G2799\|κλαίοντες]]  [[G2532\|καὶ]]  [[G3996\|πενθοῦντες,]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.14|<< Revelation 18:14]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.16|Revelation 18:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

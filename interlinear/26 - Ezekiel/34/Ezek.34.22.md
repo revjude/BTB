@@ -1,8 +1,60 @@
+---
+title: Ezekiel 34:22
+type: Verse
+kjv: "Therefore will I save my flock, and they shall no more be a prey; and I will judge between cattle and cattle."
+bsb: "I will save My flock, and they will no longer be prey. I will judge between one sheep and another."
+hebrew: "וְהוֹשַׁעְתִּ֣י לְצֹאנִ֔י וְלֹֽא־ תִהְיֶ֥ינָה ע֖וֹד לָבַ֑ז וְשָׁ֣פַטְתִּ֔י בֵּ֥ין שֶׂ֖ה לָשֶֽׂה׃"
+pericope: "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3467]]"
+- "[[H9005]]"
+- "[[H6629G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H0957]]"
+- "[[H8199]]"
+- "[[H0996G]]"
+- "[[H7716]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:22**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I save my flock, and they shall no more be a prey; and I will judge between cattle and cattle.
 <small><sub>**BSB:**</sub></small>
 I will save My flock, and they will no longer be prey. I will judge between one sheep and another.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3467\|הוֹשַׁעְתִּ֣י]] [[H9005\|לְ]][[H6629G\|צֹאנִ֔]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|תִהְיֶ֥ינָה]] [[H5750\|ע֖וֹד]] [[H9005\|לָ]][[H0957\|בַ֑ז]] [[H9001\|וְ]][[H8199\|שָׁ֣פַטְתִּ֔י]] [[H0996G\|בֵּ֥ין]] [[H7716\|שֶׂ֖ה]] [[H9005\|לָ]][[H7716\|שֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.21|<< Ezekiel 34:21]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.23|Ezekiel 34:23 >>]]</td></tr></table>
 

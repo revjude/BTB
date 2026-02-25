@@ -1,6 +1,60 @@
+---
+title: LXX Numbers 2:25
+type: Verse
+lxx: "The order of the camp of Dan towards the north with their force, and the ruler of the sons of Dan was Ahiezer son of Ammishaddai."
+greek: "τάγμα παρεμβολής Δαν προς βορράν συν δυνάμει αυτών και ο άρχων των υιών Δαν Αχιέζερ υιός Αμισαδαϊ"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AHIEZER|AHIEZER]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ASHER|ASHER]]"
+- "[[topic DAN|DAN]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+strongs:
+- "[[G5001]]"
+- "[[G3925]]"
+- "[[H1835]]"
+- "[[G4314]]"
+- "[[G1005]]"
+- "[[G4862]]"
+- "[[G1411]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[H1835]]"
+- "[[H0295]]"
+- "[[G5207]]"
+- "[[H5996]]"
+---
+
 **LXX Numbers 2:25** 
 <small><sub>**LXX:**</sub></small>
 \[The\] order of \[the\] camp of Dan towards \[the\] north with their force, and the ruler of the sons of Dan \[was\] Ahiezer son of Ammishaddai. 
+<small><sub>**Greek:**</sub></small>
+[[G5001\|τάγμα]] [[G3925\|παρεμβολής]] [[H1835\|Δαν]] [[G4314\|προς]] [[G1005\|βορράν]] [[G4862\|συν]] [[G1411\|δυνάμει]] [[G1473\|αυτών]] [[G2532\|και]] [[G3588\|ο]] [[G0758\|άρχων]] [[G3588\|των]] [[G5207\|υιών]] [[H1835\|Δαν]] [[H0295\|Αχιέζερ]] [[G5207\|υιός]] [[H5996\|Αμισαδαϊ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIEZER|AHIEZER]] • [[topic ARMIES|ARMIES]] • [[topic ASHER|ASHER]] • [[topic DAN|DAN]] • [[topic NAPHTALI|NAPHTALI]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.24|<< Numbers 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.26|Numbers 2:26 >>]]</td></tr></table>
 
@@ -22,6 +76,6 @@
 | \[was\] Ahiezer | **<big>[[H0295\|Αχιέζερ]]</big>** |
 | son | **<big>[[G5207\|υιός]]</big>** |
 | of Ammishaddai. | **<big>[[H5996\|Αμισαδαϊ]]</big>** |
-[[Num.2.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.24|<< Numbers 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.26|Numbers 2:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.2.24|<< Numbers 2:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.2.26|Numbers 2:26 >>]]</td></tr></table>
 
 

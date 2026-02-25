@@ -1,8 +1,62 @@
+---
+title: Esther 3:2
+type: Verse
+kjv: "And all the king’s servants, that were in the king’s gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did him reverence."
+bsb: "All the royal servants at the king’s gate bowed down and paid homage to Haman, because the king had commanded that this be done for him. But Mordecai would not bow down or pay homage."
+hebrew: "וְכָל־ עַבְדֵ֨י הַמֶּ֜לֶךְ אֲשֶׁר־ בְּשַׁ֣עַר הַמֶּ֗לֶךְ כֹּרְעִ֤ים וּמִֽשְׁתַּחֲוִים֙ לְהָמָ֔ן כִּי־ כֵ֖ן צִוָּה־ ל֣וֹ הַמֶּ֑לֶךְ וּמָ֨רְדֳּכַ֔י לֹ֥א יִכְרַ֖ע וְלֹ֥א יִֽשְׁתַּחֲוֶֽה׃"
+pericope: "[[Esth.3.1 Haman’s Plot against the Jews|Haman’s Plot against the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 3
+book/chapter: "[[Esth.3|Esther 3]]"
+chronological_order: 901
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H3766]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H2001]]"
+- "[[H3588A]]"
+- "[[H3651C]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H4782H]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 3:2**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the king’s servants, that [were] in the king’s gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did [him] reverence.
 <small><sub>**BSB:**</sub></small>
 All the royal servants at the king’s gate bowed down and paid homage to Haman, because the king had commanded that this be done for him. But Mordecai would not bow down or pay homage.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עַבְדֵ֨י]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H3766\|כֹּרְעִ֤ים]] [[H9002\|וּ]][[H7812\|מִֽשְׁתַּחֲוִים֙]] [[H9005\|לְ]][[H2001\|הָמָ֔ן]] [[H3588A\|כִּי]][[H9014\|־]] [[H3651C\|כֵ֖ן]] [[H6680\|צִוָּה]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וּ]][[H4782H\|מָ֨רְדֳּכַ֔י]] [[H3808\|לֹ֥א]] [[H3766\|יִכְרַ֖ע]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7812\|יִֽשְׁתַּחֲוֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic HOMAGE|HOMAGE]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.1|<< Esther 3:1]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.3|Esther 3:3 >>]]</td></tr></table>
 

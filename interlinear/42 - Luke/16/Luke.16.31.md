@@ -1,10 +1,65 @@
+---
+title: Luke 16:31
+type: Verse
+kjv: "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead."
+bsb: "Then Abraham said to him, ‘If they do not listen to Moses and the Prophets, they will not be persuaded even if someone rises from the dead.’”"
+jesus_said: "And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead."
+greek: "εἶπεν δὲ αὐτῷ· εἰ Μωϋσέως καὶ τῶν προφητῶν οὐκ ἀκούουσιν, οὐδ᾽ ἐάν τις ἐκ νεκρῶν ἀναστῇ πεισθήσονται.¶"
+pericope: "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G3475]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G3756]]"
+- "[[G0191]]"
+- "[[G3761]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G0450]]"
+- "[[G3982]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 16:31**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.
 <small><sub>**BSB:**</sub></small>
 Then Abraham said to him, ‘If they do not listen to Moses and the Prophets, they will not be persuaded even if someone rises from the dead.’”
-<small><sub>**Literal:**</sub></small>
-He said however to him; If to Moses and the prophets not they listen, not even if one out from [the] dead shall rise will they be persuaded.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.30|<< Luke 16:30]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.1|Luke 17:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ·]]  [[G1487G\|εἰ]]  [[G3475\|Μωϋσέως]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G3756\|οὐκ]]  [[G0191\|ἀκούουσιν,]]  [[G3761\|οὐδ᾽]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G0450\|ἀναστῇ]]  [[G3982\|πεισθήσονται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.30|<< Luke 16:30]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.1|Luke 17:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

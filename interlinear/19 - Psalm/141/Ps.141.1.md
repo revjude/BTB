@@ -1,8 +1,59 @@
+---
+title: Psalm 141:1
+type: Verse
+kjv: "LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee."
+bsb: "A Psalm of David. I call upon You, O LORD; come quickly to me. Hear my voice when I call to You."
+hebrew: "יְהוָ֣ה קְ֭רָאתִיךָ ח֣וּשָׁה לִּ֑י הַאֲזִ֥ינָה ק֝וֹלִ֗י בְּקָרְאִי־ לָֽךְ׃"
+pericope: "[[Ps.141.1 Come Quickly to Me|Come Quickly to Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 141
+book/chapter: "[[Ps.141|Psalm 141]]"
+chronological_order: 388
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3068G]]"
+- "[[H7121G]]"
+- "[[H9031]]"
+- "[[H2363A]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0238]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9040]]"
+- "[[H9014]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 141:1**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, I cry unto thee: make haste unto me; give ear unto my voice, when I cry unto thee.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David. I call upon You, O LORD; come quickly to me. Hear my voice when I call to You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֣ה]] [[H7121G\|קְ֭רָאתִי]][[H9031\|ךָ]] [[H2363A\|ח֣וּשָׁ]][[H9012\|ה]] [[H9005\|לִּ֑]][[H9030\|י]] [[H0238\|הַאֲזִ֥ינָ]][[H9012\|ה]] [[H6963A\|ק֝וֹלִ֗]][[H9020\|י]] [[H9003\|בְּ]][[H7121G\|קָרְאִ]][[H9040\|י]][[H9014\|־]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.0|<< Psalms 141:0]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.2|Psalms 141:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

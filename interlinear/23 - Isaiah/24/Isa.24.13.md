@@ -1,8 +1,60 @@
+---
+title: Isaiah 24:13
+type: Verse
+kjv: "When thus it shall be in the midst of the land among the people, there shall be as the shaking of an olive tree, and as the gleaning grapes when the vintage is done."
+bsb: "So will it be on the earth and among the nations, like a harvested olive tree, like a gleaning after a grape harvest."
+hebrew: "כִּ֣י כֹ֥ה יִהְיֶ֛ה בְּקֶ֥רֶב הָאָ֖רֶץ בְּת֣וֹךְ הָֽעַמִּ֑ים כְּנֹ֣קֶף זַ֔יִת כְּעוֹלֵלֹ֖ת אִם־ כָּלָ֥ה בָצִֽיר׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8432]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H5363]]"
+- "[[H2132H]]"
+- "[[H5955]]"
+- "[[H0518J]]"
+- "[[H9014]]"
+- "[[H3615G]]"
+- "[[H1210]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:13**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thus it shall be in the midst of the land among the people, [there shall be] as the shaking of an olive tree, [and] as the gleaning grapes when the vintage is done.
 <small><sub>**BSB:**</sub></small>
 So will it be on the earth and among the nations, like a harvested olive tree, like a gleaning after a grape harvest.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֥ה]] [[H1961\|יִהְיֶ֛ה]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֑ים]] [[H9004\|כְּ]][[H5363\|נֹ֣קֶף]] [[H2132H\|זַ֔יִת]] [[H9004\|כְּ]][[H5955\|עוֹלֵלֹ֖ת]] [[H0518J\|אִם]][[H9014\|־]] [[H3615G\|כָּלָ֥ה]] [[H1210\|בָצִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.12|<< Isaiah 24:12]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.14|Isaiah 24:14 >>]]</td></tr></table>
 

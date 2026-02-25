@@ -1,8 +1,62 @@
+---
+title: 2 Kings 6:1
+type: Verse
+kjv: "And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us."
+bsb: "Now the sons of the prophets said to Elisha, “Please take note that the place where we meet with you is too small for us."
+hebrew: "וַיֹּאמְר֥וּ בְנֵֽי־ הַנְּבִיאִ֖ים אֶל־ אֱלִישָׁ֑ע הִנֵּֽה־ נָ֣א הַמָּק֗וֹם אֲשֶׁ֨ר אֲנַ֜חְנוּ יֹשְׁבִ֥ים שָׁ֛ם לְפָנֶ֖יךָ צַ֥ר מִמֶּֽנּוּ׃"
+pericope: "[[2Kgs.6.1 The Axe Head Floats|The Axe Head Floats]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SCHOOL|SCHOOL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0413]]"
+- "[[H0477]]"
+- "[[H2009]]"
+- "[[H4994]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0587]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H6862A]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:1**<big><big>[[2Kgs.6.1 The Axe Head Floats|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.
 <small><sub>**BSB:**</sub></small>
 Now the sons of the prophets said to Elisha, “Please take note that the place where we meet with you is too small for us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֥וּ]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0477\|אֱלִישָׁ֑ע]] [[H2009\|הִנֵּֽה]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9009\|הַ]][[H4725\|מָּק֗וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H0587\|אֲנַ֜חְנוּ]] [[H3427\|יֹשְׁבִ֥ים]] [[H8033G\|שָׁ֛ם]] [[H9005\|לְ]][[H6440H\|פָנֶ֖י]][[H9021\|ךָ]] [[H6862A\|צַ֥ר]] [[H4480A\|מִמֶּֽ]][[H9035\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SCHOOL|SCHOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.27|<< 2 Kings 5:27]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.2|2 Kings 6:2 >>]]</td></tr></table>
 

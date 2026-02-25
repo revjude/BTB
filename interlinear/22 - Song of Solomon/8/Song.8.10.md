@@ -1,8 +1,51 @@
+---
+title: Song of Solomon 8:10
+type: Verse
+kjv: "I am a wall, and my breasts like towers: then was I in his eyes as one that found favour."
+bsb: "I am a wall, and my breasts are like towers. So I have become in his eyes like one who brings peace."
+hebrew: "אֲנִ֣י חוֹמָ֔ה וְשָׁדַ֖י כַּמִּגְדָּל֑וֹת אָ֛ז הָיִ֥יתִי בְעֵינָ֖יו כְּמוֹצְאֵ֥ת שָׁלֽוֹם׃ פ"
+pericope: "[[Song.8.10 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H0589]]"
+- "[[H2346G]]"
+- "[[H9002]]"
+- "[[H7699A]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H4026M]]"
+- "[[H0227A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H4672]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Song of Solomon 8:10**<big><big>[[Song.8.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] a wall, and my breasts like towers: then was I in his eyes as one that found favour.
 <small><sub>**BSB:**</sub></small>
 I am a wall, and my breasts are like towers. So I have become in his eyes like one who brings peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֣י]] [[H2346G\|חוֹמָ֔ה]] [[H9002\|וְ]][[H7699A\|שָׁדַ֖]][[H9020\|י]] [[H9004\|כַּ]][[H4026M\|מִּגְדָּל֑וֹת]] [[H0227A\|אָ֛ז]] [[H1961\|הָיִ֥יתִי]] [[H9003\|בְ]][[H5869A\|עֵינָ֖י]][[H9023\|ו]] [[H9004\|כְּ]][[H4672\|מוֹצְאֵ֥ת]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.9|<< Song of Solomon 8:9]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.11|Song of Solomon 8:11 >>]]</td></tr></table>
 
@@ -16,7 +59,7 @@ I am a wall, and my breasts are like towers. So I have become in his eyes like o
 | I was  |**<big>&#8207;[[H1961\|הָיִ֥יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in view his  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5869A\|עֵינָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like [one who] finds  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H4672\|מוֹצְאֵ֥ת]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> motz.'Et<small><sup>[[HVhrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| peace  |**<big>&#8207;[[H7965G\|שָׁלֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| peace  |**<big>&#8207;[[H7965G\|שָׁלֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.9|<< Song of Solomon 8:9]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.11|Song of Solomon 8:11 >>]]</td></tr></table>
 
 

@@ -1,10 +1,72 @@
+---
+title: Revelation 2:13
+type: Verse
+kjv: "I know thy works, and where thou dwellest, even where Satan’s seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth."
+bsb: "I know where you live, where the throne of Satan sits, yet you hold fast to My name. You did not deny your faith in Me, even in the days of My faithful witness Antipas, who was killed among you where Satan dwells."
+jesus_said: "I know thy works, and where thou dwellest, even where Satan’s seat is: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas was my faithful martyr, who was slain among you, where Satan dwelleth."
+greek: "οἶδα τὰ ἔργα σου, καὶ ποῦ κατοικεῖς, ὅπου ὁ θρόνος τοῦ σατανᾶ, καὶ κρατεῖς τὸ ὄνομά μου καὶ οὐκ ἠρνήσω τὴν πίστιν μου καὶ ἐν ταῖς ἡμέραις ἐν αἷς Ἀντιπᾶς ὁ μάρτυς μου ὁ πιστός μου, ὃς ἀπεκτάνθη παρ᾽ ὑμῖν ὅπου ὁ σατανᾶς κατοικεῖ."
+pericope: "[[Rev.2.12 To the Church in Pergamum|To the Church in Pergamum]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANTIPAS|ANTIPAS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PERGAMOS|PERGAMOS]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G4226]]"
+- "[[G2730]]"
+- "[[G3699]]"
+- "[[G2362]]"
+- "[[G4567]]"
+- "[[G2902]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G0720]]"
+- "[[G4102G]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G3739]]"
+- "[[G0493]]"
+- "[[G3144]]"
+- "[[G4103]]"
+- "[[G0615]]"
+- "[[G3844]]"
+texts:
+- NKO
+- K
+- no
+---
+
 **Revelation 2:13**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I know thy works, and where thou dwellest, [even] where Satan’s seat [is]: and thou holdest fast my name, and hast not denied my faith, even in those days wherein Antipas [was] my faithful martyr, who was slain among you, where Satan dwelleth.
 <small><sub>**BSB:**</sub></small>
 I know where you live, where the throne of Satan sits, yet you hold fast to My name. You did not deny your faith in Me, even in the days of My faithful witness Antipas, who was killed among you where Satan dwells.
-<small><sub>**Literal:**</sub></small>
-I know the works of you and where you dwell, where the throne <the> of Satan [is], and you hold fast to the name of Me and not you have denied the faith of Mine even in the days in which of Antipas the witness of Mine the faithful [one] of Mine who was killed among you where <the> Satan dwells.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.12|<< Revelation 2:12]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.14|Revelation 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδα]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G4771\|σου,]]  [[G2532\|καὶ]]  [[G4226\|ποῦ]]  [[G2730\|κατοικεῖς,]]  [[G3699\|ὅπου]]  [[G3588\|ὁ]]  [[G2362\|θρόνος]]  [[G3588\|τοῦ]]  [[G4567\|σατανᾶ,]]  [[G2532\|καὶ]]  [[G2902\|κρατεῖς]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0720\|ἠρνήσω]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G0493\|Ἀντιπᾶς]]  [[G3588\|ὁ]]  [[G3144\|μάρτυς]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G4103\|πιστός]]  [[G3165\|μου,]]  [[G3739\|ὃς]]  [[G0615\|ἀπεκτάνθη]]  [[G3844\|παρ᾽]]  [[G4771\|ὑμῖν]]  [[G3699\|ὅπου]]  [[G3588\|ὁ]]  [[G4567\|σατανᾶς]]  [[G2730\|κατοικεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIPAS|ANTIPAS]] • [[topic CHURCH|CHURCH]] • [[topic PERGAMOS|PERGAMOS]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.12|<< Revelation 2:12]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.14|Revelation 2:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

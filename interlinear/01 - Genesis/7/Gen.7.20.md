@@ -1,8 +1,57 @@
+---
+title: Genesis 7:20
+type: Verse
+kjv: "Fifteen cubits upward did the waters prevail; and the mountains were covered."
+bsb: "The waters rose and covered the mountaintops to a depth of fifteen cubits."
+hebrew: "חֲמֵ֨שׁ עֶשְׂרֵ֤ה אַמָּה֙ מִלְמַ֔עְלָה גָּבְר֖וּ הַמָּ֑יִם וַיְכֻסּ֖וּ הֶהָרִֽים׃"
+pericope: "[[Gen.7.1 The Great Flood|The Great Flood]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 7
+book/chapter: "[[Gen.7|Genesis 7]]"
+chronological_order: 7
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H0520A]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H1396]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H9001]]"
+- "[[H3680]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 7:20**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fifteen cubits upward did the waters prevail; and the mountains were covered.
 <small><sub>**BSB:**</sub></small>
 The waters rose and covered the mountaintops to a depth of fifteen cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H2568\|חֲמֵ֨שׁ]] [[H6240\|עֶשְׂרֵ֤ה]] [[H0520A\|אַמָּה֙]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H1396\|גָּבְר֖וּ]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H9001\|וַ]][[H3680\|יְכֻסּ֖וּ]] [[H9009\|הֶ]][[H2022G\|הָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.19|<< Genesis 7:19]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.21|Genesis 7:21 >>]]</td></tr></table>
 

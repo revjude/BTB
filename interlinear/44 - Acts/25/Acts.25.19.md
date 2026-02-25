@@ -1,10 +1,57 @@
+---
+title: Acts 25:19
+type: Verse
+kjv: "But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive."
+bsb: "They only had some contentions with him regarding their own religion and a certain Jesus who had died, but whom Paul affirmed to be alive."
+greek: "ζητήματα δέ τινα περὶ τῆς ἰδίας δεισιδαιμονίας εἶχον πρὸς αὐτὸν καὶ περί τινος Ἰησοῦ τεθνηκότος, ὃν ἔφασκεν ὁ Παῦλος ζῆν."
+pericope: "[[Acts.25.13 Festus Consults Agrippa|Festus Consults Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G2213]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G1175]]"
+- "[[G2192]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2424G]]"
+- "[[G2348]]"
+- "[[G3739]]"
+- "[[G5335]]"
+- "[[G3972G]]"
+- "[[G2198]]"
+texts:
+- NKO
+---
+
 **Acts 25:19**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive.
 <small><sub>**BSB:**</sub></small>
 They only had some contentions with him regarding their own religion and a certain Jesus who had died, but whom Paul affirmed to be alive.
-<small><sub>**Literal:**</sub></small>
-Questions however certain concerning the own religion they had against him and concerning a certain Jesus having died whom was affirming <the> Paul to be alive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.18|<< Acts 25:18]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.20|Acts 25:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2213\|ζητήματα]]  [[G1161\|δέ]]  [[G5100\|τινα]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G2398\|ἰδίας]]  [[G1175\|δεισιδαιμονίας]]  [[G2192\|εἶχον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G4012\|περί]]  [[G5100\|τινος]]  [[G2424G\|Ἰησοῦ]]  [[G2348\|τεθνηκότος,]]  [[G3739\|ὃν]]  [[G5335\|ἔφασκεν]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G2198\|ζῆν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDICTMENTS|INDICTMENTS]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.18|<< Acts 25:18]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.20|Acts 25:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

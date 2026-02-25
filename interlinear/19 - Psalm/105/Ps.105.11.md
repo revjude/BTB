@@ -1,8 +1,58 @@
+---
+title: Psalm 105:11
+type: Verse
+kjv: "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:"
+bsb: "“I will give you the land of Canaan as the portion of your inheritance.”"
+hebrew: "לֵאמֹ֗ר לְךָ֗ אֶתֵּ֥ן אֶת־ אֶֽרֶץ־ כְּנָ֑עַן חֶ֝֗בֶל נַחֲלַתְכֶֽם׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9031]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H2256M]]"
+- "[[H5159]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:11**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:
 <small><sub>**BSB:**</sub></small>
 “I will give you the land of Canaan as the portion of your inheritance.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H5414G\|אֶתֵּ֥ן]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H3667A\|כְּנָ֑עַן]] [[H2256M\|חֶ֝֗בֶל]] [[H5159\|נַחֲלַתְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic COVENANT|COVENANT]] • [[topic JACOB|JACOB]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.10|<< Psalms 105:10]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.12|Psalms 105:12 >>]]</td></tr></table>
 

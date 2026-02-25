@@ -1,8 +1,60 @@
+---
+title: Psalm 2:7
+type: Verse
+kjv: "I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee."
+bsb: "I will proclaim the decree spoken to Me by the LORD: “You are My Son; today I have become Your Father."
+hebrew: "אֲסַפְּרָ֗ה אֶֽ֫ל חֹ֥ק יְֽהוָ֗ה אָמַ֘ר אֵלַ֥י בְּנִ֥י אַ֑תָּה אֲ֝נִ֗י הַיּ֥וֹם יְלִדְתִּֽיךָ׃"
+pericope: "[[Ps.2.1 The Triumphant Messiah|The Triumphant Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 2
+book/chapter: "[[Ps.2|Psalm 2]]"
+chronological_order: 338
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H5608A]]"
+- "[[H0413]]"
+- "[[H2706G]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H0589]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3205]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 2:7**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will declare the decree: the LORD hath said unto me, Thou [art] my Son; this day have I begotten thee.
 <small><sub>**BSB:**</sub></small>
 I will proclaim the decree spoken to Me by the LORD: “You are My Son; today I have become Your Father.
+<small><sub>**Hebrew:**</sub></small>
+[[H5608A\|אֲסַפְּרָ֗ה]] [[H0413\|אֶֽ֫ל]] [[H2706G\|חֹ֥ק]] [[H3068G\|יְֽהוָ֗ה]] [[H0559\|אָמַ֘ר]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H1121A\|בְּנִ֥]][[H9020\|י]] [[H0859A\|אַ֑תָּה]] [[H0589\|אֲ֝נִ֗י]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H3205\|יְלִדְתִּֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.6|<< Psalms 2:6]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.8|Psalms 2:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,70 @@
+---
+title: Matthew 13:32
+type: Verse
+kjv: "Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof."
+bsb: "Although it is the smallest of all seeds, yet it grows into the largest of garden plants and becomes a tree, so that the birds of the air come and nest in its branches.”"
+jesus_said: "Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof."
+greek: "ὃ μικρότερον μέν ἐστιν πάντων τῶν σπερμάτων, ὅταν δὲ αὐξηθῇ, μεῖζον τῶν λαχάνων ἐστὶν καὶ γίνεται δένδρον ὥστε ἐλθεῖν τὰ πετεινὰ τοῦ οὐρανοῦ καὶ κατασκηνοῦν ἐν τοῖς κλάδοις αὐτοῦ.¶"
+pericope: "[[Matt.13.31 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MUSTARD|MUSTARD]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G3739]]"
+- "[[G3398]]"
+- "[[G3303]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4690H]]"
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G0837]]"
+- "[[G3173]]"
+- "[[G3001]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1186]]"
+- "[[G5620]]"
+- "[[G2064]]"
+- "[[G4071]]"
+- "[[G3772]]"
+- "[[G2681]]"
+- "[[G1722]]"
+- "[[G2798]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 13:32**<big><big>[[Matt.13.31 The Parable of the Mustard Seed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which indeed is the least of all seeds: but when it is grown, it is the greatest among herbs, and becometh a tree, so that the birds of the air come and lodge in the branches thereof.
 <small><sub>**BSB:**</sub></small>
 Although it is the smallest of all seeds, yet it grows into the largest of garden plants and becomes a tree, so that the birds of the air come and nest in its branches.”
-<small><sub>**Literal:**</sub></small>
-which smallest indeed is of all the seeds, when however it may be grown, greater than the garden plants it is and becomes a tree so that to come the birds of the air and perching in the branches of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.31|<< Matthew 13:31]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.33|Matthew 13:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G3398\|μικρότερον]]  [[G3303\|μέν]]  [[G1510\|ἐστιν]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G4690H\|σπερμάτων,]]  [[G3752\|ὅταν]]  [[G1161\|δὲ]]  [[G0837\|αὐξηθῇ,]]  [[G3173\|μεῖζον]]  [[G3588\|τῶν]]  [[G3001\|λαχάνων]]  [[G1510\|ἐστὶν]]  [[G2532\|καὶ]]  [[G1096\|γίνεται]]  [[G1186\|δένδρον]]  [[G5620\|ὥστε]]  [[G2064\|ἐλθεῖν]]  [[G3588\|τὰ]]  [[G4071\|πετεινὰ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2532\|καὶ]]  [[G2681\|κατασκηνοῦν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2798\|κλάδοις]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MUSTARD|MUSTARD]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.31|<< Matthew 13:31]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.33|Matthew 13:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 13:32** is...
 > $\quad$ referencing: [[LXX.Ps.104.12|Ps 104:12]]

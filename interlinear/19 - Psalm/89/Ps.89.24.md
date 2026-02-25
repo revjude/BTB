@@ -1,8 +1,61 @@
+---
+title: Psalm 89:24
+type: Verse
+kjv: "But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted."
+bsb: "My faithfulness and loving devotion will be with him, and through My name his horn will be exalted."
+hebrew: "וֶֽאֶֽמוּנָתִ֣י וְחַסְדִּ֣י עִמּ֑וֹ וּ֝בִשְׁמִ֗י תָּר֥וּם קַרְנֽוֹ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HORN|HORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0530]]"
+- "[[H9020]]"
+- "[[H2617A]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H7311A]]"
+- "[[H7161A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:24**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But my faithfulness and my mercy [shall be] with him: and in my name shall his horn be exalted.
 <small><sub>**BSB:**</sub></small>
 My faithfulness and loving devotion will be with him, and through My name his horn will be exalted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וֶֽ]][[H0530\|אֶֽמוּנָתִ֣]][[H9020\|י]] [[H9002\|וְ]][[H2617A\|חַסְדִּ֣]][[H9020\|י]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9002\|וּ֝]][[H9003\|בִ]][[H8034\|שְׁמִ֗]][[H9020\|י]] [[H7311A\|תָּר֥וּם]] [[H7161A\|קַרְנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HORN|HORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.23|<< Psalms 89:23]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.25|Psalms 89:25 >>]]</td></tr></table>
 

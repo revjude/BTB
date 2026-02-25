@@ -1,8 +1,54 @@
+---
+title: Ezekiel 41:26
+type: Verse
+kjv: "And there were narrow windows and palm trees on the one side and on the other side, on the sides of the porch, and upon the side chambers of the house, and thick planks."
+bsb: "There were beveled windows and palm trees on the sidewalls of the portico. The side rooms of the temple also had canopies."
+hebrew: "וְחַלּוֹנִ֨ים אֲטֻמ֤וֹת וְתִֽמֹרִים֙ מִפּ֣וֹ וּמִפּ֔וֹ אֶל־ כִּתְפ֖וֹת הָֽאוּלָ֑ם וְצַלְע֥וֹת הַבַּ֖יִת וְהָעֻבִּֽים׃"
+pericope: "[[Ezek.41.15 The Interior Structures|The Interior Structures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H2474]]"
+- "[[H0331]]"
+- "[[H8561]]"
+- "[[H9006]]"
+- "[[H6311]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3802]]"
+- "[[H9009]]"
+- "[[H0197J]]"
+- "[[H6763]]"
+- "[[H1004B]]"
+- "[[H5646]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:26**<big><big>[[Ezek.41.15 The Interior Structures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] narrow windows and palm trees on the one side and on the other side, on the sides of the porch, and [upon] the side chambers of the house, and thick planks.
 <small><sub>**BSB:**</sub></small>
 There were beveled windows and palm trees on the sidewalls of the portico. The side rooms of the temple also had canopies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2474\|חַלּוֹנִ֨ים]] [[H0331\|אֲטֻמ֤וֹת]] [[H9002\|וְ]][[H8561\|תִֽמֹרִים֙]] [[H9006\|מִ]][[H6311\|פּ֣וֹ]] [[H9002\|וּ]][[H9006\|מִ]][[H6311\|פּ֔וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H3802\|כִּתְפ֖וֹת]] [[H9009\|הָֽ]][[H0197J\|אוּלָ֑ם]] [[H9002\|וְ]][[H6763\|צַלְע֥וֹת]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H9002\|וְ]][[H9009\|הָ]][[H5646\|עֻבִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.25|<< Ezekiel 41:25]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.1|Ezekiel 42:1 >>]]</td></tr></table>
 

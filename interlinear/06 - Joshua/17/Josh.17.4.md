@@ -1,8 +1,81 @@
+---
+title: Joshua 17:4
+type: Verse
+kjv: "And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The LORD commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the LORD he gave them an inheritance among the brethren of their father."
+bsb: "They approached Eleazar the priest, Joshua son of Nun, and the leaders, and said, “The LORD commanded Moses to give us an inheritance among our brothers.” So Joshua gave them an inheritance among their father’s brothers, in keeping with the command of the LORD."
+hebrew: "וַתִּקְרַ֡בְנָה לִפְנֵי֩ אֶלְעָזָ֨ר הַכֹּהֵ֜ן וְלִפְנֵ֣י׀ יְהוֹשֻׁ֣עַ בִּן־ נ֗וּן וְלִפְנֵ֤י הַנְּשִׂיאִים֙ לֵאמֹ֔ר יְהוָה֙ צִוָּ֣ה אֶת־ מֹשֶׁ֔ה לָֽתֶת־ לָ֥נוּ נַחֲלָ֖ה בְּת֣וֹךְ אַחֵ֑ינוּ וַיִּתֵּ֨ן לָהֶ֜ם אֶל־ פִּ֤י יְהוָה֙ נַֽחֲלָ֔ה בְּת֖וֹךְ אֲחֵ֥י אֲבִיהֶֽן׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic TIRZAH|TIRZAH]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZELOPHEHAD|ZELOPHEHAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5126]]"
+- "[[H5387A]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H4872]]"
+- "[[H5414G]]"
+- "[[H9035]]"
+- "[[H5159]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H0251G]]"
+- "[[H9025]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H6310G]]"
+- "[[H0001G]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:4**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The LORD commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the LORD he gave them an inheritance among the brethren of their father.
 <small><sub>**BSB:**</sub></small>
 They approached Eleazar the priest, Joshua son of Nun, and the leaders, and said, “The LORD commanded Moses to give us an inheritance among our brothers.” So Joshua gave them an inheritance among their father’s brothers, in keeping with the command of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126G\|תִּקְרַ֡בְנָה]] [[H9005\|לִ]][[H6440G\|פְנֵי֩]] [[H0499G\|אֶלְעָזָ֨ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֣י]][[H9015\|׀]] [[H3091G\|יְהוֹשֻׁ֣עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֗וּן]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H9009\|הַ]][[H5387A\|נְּשִׂיאִים֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3068G\|יְהוָה֙]] [[H6680\|צִוָּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לָֽ]][[H5414G\|תֶת]][[H9014\|־]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H5159\|נַחֲלָ֖ה]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H0251G\|אַחֵ֑י]][[H9025\|נוּ]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֨ן]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H0413\|אֶל]][[H9014\|־]] [[H6310G\|פִּ֤י]] [[H3068G\|יְהוָה֙]] [[H5159\|נַֽחֲלָ֔ה]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H0251G\|אֲחֵ֥י]] [[H0001G\|אֲבִי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER|DAUGHTER]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic ISRAEL|ISRAEL]] • [[topic MILCAH|MILCAH]] • [[topic NOAH|NOAH]] • [[topic PETITION|PETITION]] • [[topic TIRZAH|TIRZAH]] • [[topic WOMEN|WOMEN]] • [[topic ZELOPHEHAD|ZELOPHEHAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.3|<< Joshua 17:3]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.5|Joshua 17:5 >>]]</td></tr></table>
 

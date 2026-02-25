@@ -1,10 +1,64 @@
+---
+title: Acts 18:25
+type: Verse
+kjv: "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John."
+bsb: "He had been instructed in the way of the Lord and was fervent in spirit. He spoke and taught accurately about Jesus, though he knew only the baptism of John."
+greek: "οὗτος ἦν κατηχημένος τὴν ὁδὸν τοῦ κυρίου, καὶ ζέων τῷ πνεύματι ἐλάλει καὶ ἐδίδασκεν ἀκριβῶς τὰ περὶ τοῦ Ἰησοῦ ἐπιστάμενος μόνον τὸ βάπτισμα Ἰωάννου·"
+pericope: "[[Acts.18.23 Paul’s Third Missionary Journey Begins|Paul’s Third Missionary Journey Begins]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOLLOS|APOLLOS]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2727]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G2204]]"
+- "[[G4151G]]"
+- "[[G2980]]"
+- "[[G1321]]"
+- "[[G0199]]"
+- "[[G4012]]"
+- "[[G2424G]]"
+- "[[G1987]]"
+- "[[G3441]]"
+- "[[G0908]]"
+- "[[G2491G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 18:25**<big><big>[[Acts.18.23 Paul’s Third Missionary Journey Begins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John.
 <small><sub>**BSB:**</sub></small>
 He had been instructed in the way of the Lord and was fervent in spirit. He spoke and taught accurately about Jesus, though he knew only the baptism of John.
-<small><sub>**Literal:**</sub></small>
-He was instructed [in] the way of the Lord, And being fervent <the> in spirit he was speaking and he was teaching earnestly the [things] concerning <the> Jesus knowing only the baptism of John;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.24|<< Acts 18:24]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.26|Acts 18:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G1510\|ἦν]]  [[G2727\|κατηχημένος]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου,]]  [[G2532\|καὶ]]  [[G2204\|ζέων]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G2980\|ἐλάλει]]  [[G2532\|καὶ]]  [[G1321\|ἐδίδασκεν]]  [[G0199\|ἀκριβῶς]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G1987\|ἐπιστάμενος]]  [[G3441\|μόνον]]  [[G3588\|τὸ]]  [[G0908\|βάπτισμα]]  [[G2491G\|Ἰωάννου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOLLOS|APOLLOS]] • [[topic BAPTISM|BAPTISM]] • [[topic DILIGENCE|DILIGENCE]] • [[topic EPHESUS|EPHESUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ORATOR|ORATOR]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.24|<< Acts 18:24]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.26|Acts 18:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

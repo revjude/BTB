@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah Restores Temple Worship
+type: Pericope
 pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 29
 book/chapter: "[[2Chr.29|2 Chronicles 29]]"
-genre:
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 17
 verses:
 - "[[2Chr.29.20]]"
 - "[[2Chr.29.21]]"
@@ -35,7 +42,7 @@ verses:
 - "[[2Chr.29.36]]"
 ---
 
-[[2Chr.29|2 Chronicles 29:20 - 2 Chronicles 29:36]]
+<small>[[2Chr.29|2 Chronicles 29:20-36]]</small>
 *Hezekiah Restores Temple Worship*
 
 [[2Chr.29.20|20]] Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD.

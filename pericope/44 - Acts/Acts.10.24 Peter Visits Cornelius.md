@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter Visits Cornelius
+type: Pericope
 pericope: "[[Acts.10.24 Peter Visits Cornelius|Peter Visits Cornelius]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 10
 book/chapter: "[[Acts.10|Acts 10]]"
-genre:
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.10.24]]"
 - "[[Acts.10.25]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.10.33]]"
 ---
 
-[[Acts.10|Acts 10:24 - Acts 10:33]]
+<small>[[Acts.10|Acts 10:24-33]]</small>
 *Peter Visits Cornelius*
 
 [[Acts.10.24|24]] And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends.

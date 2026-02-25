@@ -1,8 +1,55 @@
+---
+title: Job 17:10
+type: Verse
+kjv: "But as for you all, do ye return, and come now: for I cannot find one wise man among you."
+bsb: "But come back and try again, all of you. For I will not find a wise man among you."
+hebrew: "וְֽאוּלָ֗ם כֻּלָּ֣ם תָּ֭שֻׁבוּ וּבֹ֣אוּ נָ֑א וְלֹֽא־ אֶמְצָ֖א בָכֶ֣ם חָכָֽם׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0199]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H7725G]]"
+- "[[H0935G]]"
+- "[[H4994]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H2450]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:10**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But as for you all, do ye return, and come now: for I cannot find [one] wise [man] among you.
 <small><sub>**BSB:**</sub></small>
 But come back and try again, all of you. For I will not find a wise man among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0199\|אוּלָ֗ם]] [[H3605\|כֻּלָּ֣]][[H9028\|ם]] [[H7725G\|תָּ֭שֻׁבוּ]] [[H9002\|וּ]][[H0935G\|בֹ֣אוּ]] [[H4994\|נָ֑א]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4672\|אֶמְצָ֖א]] [[H9003\|בָ]][[H9036\|כֶ֣ם]] [[H2450\|חָכָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.9|<< Job 17:9]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.11|Job 17:11 >>]]</td></tr></table>
 

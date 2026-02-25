@@ -1,10 +1,57 @@
+---
+title: Colossians 1:29
+type: Verse
+kjv: "Whereunto I also labour, striving according to his working, which worketh in me mightily."
+bsb: "To this end I also labor, striving with all His energy working powerfully within me."
+greek: "εἰς ὃ καὶ κοπιῶ ἀγωνιζόμενος κατὰ τὴν ἐνέργειαν αὐτοῦ τὴν ἐνεργουμένην ἐν ἐμοὶ ἐν δυνάμει.¶"
+pericope: "[[Col.1.24 Paul’s Suffering for the Church|Paul’s Suffering for the Church]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G2872]]"
+- "[[G0075]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1753]]"
+- "[[G0846]]"
+- "[[G1754]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G1411]]"
+texts:
+- NKO
+---
+
 **Colossians 1:29**<big><big>[[Col.1.24 Paul’s Suffering for the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereunto I also labour, striving according to his working, which worketh in me mightily.
 <small><sub>**BSB:**</sub></small>
 To this end I also labor, striving with all His energy working powerfully within me.
-<small><sub>**Literal:**</sub></small>
-Unto this also I toil striving according to the energy of Him who is working in me myself in power.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.28|<< Colossians 1:28]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.1|Colossians 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3739\|ὃ]]  [[G2532\|καὶ]]  [[G2872\|κοπιῶ]]  [[G0075\|ἀγωνιζόμενος]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G1753\|ἐνέργειαν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G1754\|ἐνεργουμένην]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G1722\|ἐν]]  [[G1411\|δυνάμει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.28|<< Colossians 1:28]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.1|Colossians 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

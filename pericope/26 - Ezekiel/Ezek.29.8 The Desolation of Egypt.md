@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Desolation of Egypt
+type: Pericope
 pericope: "[[Ezek.29.8 The Desolation of Egypt|The Desolation of Egypt]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 29
 book/chapter: "[[Ezek.29|Ezekiel 29]]"
-genre:
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 9
 verses:
 - "[[Ezek.29.8]]"
 - "[[Ezek.29.9]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezek.29.16]]"
 ---
 
-[[Ezek.29|Ezekiel 29:8 - Ezekiel 29:16]]
+<small>[[Ezek.29|Ezekiel 29:8-16]]</small>
 *The Desolation of Egypt*
 
 [[Ezek.29.8|8]] Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee.

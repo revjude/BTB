@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Correcting False Teachers
+type: Pericope
 pericope: "[[Titus.1.10 Correcting False Teachers|Correcting False Teachers]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Titus
 chapter: 1
 book/chapter: "[[Titus.1|Titus 1]]"
-genre:
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 7
 verses:
 - "[[Titus.1.10]]"
 - "[[Titus.1.11]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Titus.1.16]]"
 ---
 
-[[Titus.1|Titus 1:10 - Titus 1:16]]
+<small>[[Titus.1|Titus 1:10-16]]</small>
 *Correcting False Teachers*
 
 [[Titus.1.10|10]] For there are many unruly and vain talkers and deceivers, specially they of the circumcision:

@@ -1,8 +1,66 @@
+---
+title: Ezekiel 24:13
+type: Verse
+kjv: "In thy filthiness is lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee."
+bsb: "Because of the indecency of your uncleanness I tried to cleanse you, but you would not be purified from your filthiness. You will not be pure again until My wrath against you has subsided."
+hebrew: "בְּטֻמְאָתֵ֖ךְ זִמָּ֑ה יַ֤עַן טִֽהַרְתִּיךְ֙ וְלֹ֣א טָהַ֔רְתְּ מִטֻּמְאָתֵךְ֙ לֹ֣א תִטְהֲרִי־ ע֔וֹד עַד־ הֲנִיחִ֥י אֶת־ חֲמָתִ֖י בָּֽךְ׃"
+pericope: "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H2932]]"
+- "[[H9022]]"
+- "[[H2154]]"
+- "[[H3282]]"
+- "[[H2891]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H5704]]"
+- "[[H5117]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:13**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In thy filthiness [is] lewdness: because I have purged thee, and thou wast not purged, thou shalt not be purged from thy filthiness any more, till I have caused my fury to rest upon thee.
 <small><sub>**BSB:**</sub></small>
 Because of the indecency of your uncleanness I tried to cleanse you, but you would not be purified from your filthiness. You will not be pure again until My wrath against you has subsided.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2932\|טֻמְאָתֵ֖]][[H9022\|ךְ]] [[H2154\|זִמָּ֑ה]] [[H3282\|יַ֤עַן]] [[H2891\|טִֽהַרְתִּי]][[H9032\|ךְ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2891\|טָהַ֔רְתְּ]] [[H9006\|מִ]][[H2932\|טֻּמְאָתֵ]][[H9022\|ךְ֙]] [[H3808\|לֹ֣א]] [[H2891\|תִטְהֲרִי]][[H9014\|־]] [[H5750\|ע֔וֹד]] [[H5704\|עַד]][[H9014\|־]] [[H5117\|הֲנִיחִ֥]][[H9040\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H2534\|חֲמָתִ֖]][[H9020\|י]] [[H9003\|בָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.12|<< Ezekiel 24:12]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.14|Ezekiel 24:14 >>]]</td></tr></table>
 

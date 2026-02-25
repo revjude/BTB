@@ -1,8 +1,80 @@
+---
+title: Joshua 10:13
+type: Verse
+kjv: "And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. Is not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day."
+bsb: "So the sun stood still and the moon stopped until the nation took vengeance upon its enemies. Is this not written in the Book of Jashar? “So the sun stopped in the middle of the sky and delayed going down about a full day.”"
+hebrew: "וַיִּדֹּ֨ם הַשֶּׁ֜מֶשׁ וְיָרֵ֣חַ עָמָ֗ד עַד־ יִקֹּ֥ם גּוֹי֙ אֹֽיְבָ֔יו הֲלֹא־ הִ֥יא כְתוּבָ֖ה עַל־ סֵ֣פֶר הַיָּשָׁ֑ר וַיַּעֲמֹ֤ד הַשֶּׁ֙מֶשׁ֙ בַּחֲצִ֣י הַשָּׁמַ֔יִם וְלֹא־ אָ֥ץ לָב֖וֹא כְּי֥וֹם תָּמִֽים׃"
+pericope: "[[Josh.10.1 The Day the Sun Stood Still|The Day the Sun Stood Still]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SUN|SUN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1826A]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H9002]]"
+- "[[H3394]]"
+- "[[H5975G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5358]]"
+- "[[H1471A]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1931]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H3477H]]"
+- "[[H9003]]"
+- "[[H2677]]"
+- "[[H8064]]"
+- "[[H0213]]"
+- "[[H9005]]"
+- "[[H0935K]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H8549I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:13**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies. [Is] not this written in the book of Jasher? So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
 <small><sub>**BSB:**</sub></small>
 So the sun stood still and the moon stopped until the nation took vengeance upon its enemies. Is this not written in the Book of Jashar? “So the sun stopped in the middle of the sky and delayed going down about a full day.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1826A\|יִּדֹּ֨ם]] [[H9009\|הַ]][[H8121\|שֶּׁ֜מֶשׁ]] [[H9002\|וְ]][[H3394\|יָרֵ֣חַ]] [[H5975G\|עָמָ֗ד]] [[H5704\|עַד]][[H9014\|־]] [[H5358\|יִקֹּ֥ם]] [[H1471A\|גּוֹי֙]] [[H0341\|אֹֽיְבָ֔י]][[H9023\|ו]] [[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H1931\|הִ֥יא]] [[H3789\|כְתוּבָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֣פֶר]] [[H9009\|הַ]][[H3477H\|יָּשָׁ֑ר]] [[H9001\|וַ]][[H5975G\|יַּעֲמֹ֤ד]] [[H9009\|הַ]][[H8121\|שֶּׁ֙מֶשׁ֙]] [[H9003\|בַּ]][[H2677\|חֲצִ֣י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0213\|אָ֥ץ]] [[H9005\|לָ]][[H0935K\|ב֖וֹא]] [[H9004\|כְּ]][[H3117G\|י֥וֹם]] [[H8549I\|תָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic ARMIES|ARMIES]] • [[topic ASTRONOMY|ASTRONOMY]] • [[topic DEBIR|DEBIR]] • [[topic GIBEON|GIBEON]] • [[topic HEBRON|HEBRON]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic SUN|SUN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.12|<< Joshua 10:12]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.14|Joshua 10:14 >>]]</td></tr></table>
 

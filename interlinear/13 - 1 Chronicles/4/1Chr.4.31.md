@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 4:31
+type: Verse
+kjv: "And at Bethmarcaboth, and Hazarsusim, and at Bethbirei, and at Shaaraim. These were their cities unto the reign of David."
+bsb: "Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities until the reign of David."
+hebrew: "וּבְבֵ֤ית מַרְכָּבוֹת֙ וּבַחֲצַ֣ר סוּסִ֔ים וּבְבֵ֥ית בִּרְאִ֖י וּֽבְשַׁעֲרָ֑יִם אֵ֥לֶּה עָרֵיהֶ֖ם עַד־ מְלֹ֥ךְ דָּוִֽיד׃"
+pericope: "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BETH-BIREI|BETH-BIREI]]"
+- "[[topic BETH-LEBAOTH|BETH-LEBAOTH]]"
+- "[[topic BETH-MARCABOTH|BETH-MARCABOTH]]"
+- "[[topic HAZAR-SUSAH|HAZAR-SUSAH]]"
+- "[[topic SHAARAIM|SHAARAIM]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1024]]"
+- "[[H2702]]"
+- "[[H1011]]"
+- "[[H8189H]]"
+- "[[H0428]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4427A]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:31**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at Bethmarcaboth, and Hazarsusim, and at Bethbirei, and at Shaaraim. These [were] their cities unto the reign of David.
 <small><sub>**BSB:**</sub></small>
 Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities until the reign of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H1024\|בֵ֤ית]] [[H1024\|מַרְכָּבוֹת֙]] [[H9002\|וּ]][[H9003\|בַ]][[H2702\|חֲצַ֣ר]] [[H2702\|סוּסִ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H1011\|בֵ֥ית]] [[H1011\|בִּרְאִ֖י]] [[H9002\|וּֽ]][[H9003\|בְ]][[H8189H\|שַׁעֲרָ֑יִם]] [[H0428\|אֵ֥לֶּה]] [[H5892B\|עָרֵי]][[H9028\|הֶ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H4427A\|מְלֹ֥ךְ]] [[H1732\|דָּוִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-BIREI|BETH-BIREI]] • [[topic BETH-LEBAOTH|BETH-LEBAOTH]] • [[topic BETH-MARCABOTH|BETH-MARCABOTH]] • [[topic HAZAR-SUSAH|HAZAR-SUSAH]] • [[topic SHAARAIM|SHAARAIM]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.30|<< 1 Chronicles 4:30]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.32|1 Chronicles 4:32 >>]]</td></tr></table>
 

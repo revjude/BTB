@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 3:24
+type: Verse
+kjv: "O Lord GOD, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God is there in heaven or in earth, that can do according to thy works, and according to thy might?"
+bsb: "“O Lord GOD, You have begun to show Your greatness and power to Your servant. For what god in heaven or on earth can perform such works and mighty acts as Yours?"
+hebrew: "אֲדֹנָ֣י יְהוִ֗ה אַתָּ֤ה הַֽחִלּ֙וֹתָ֙ לְהַרְא֣וֹת אֶֽת־ עַבְדְּךָ֔ אֶ֨ת־ גָּדְלְךָ֔ וְאֶת־ יָדְךָ֖ הַחֲזָקָ֑ה אֲשֶׁ֤ר מִי־ אֵל֙ בַּשָּׁמַ֣יִם וּבָאָ֔רֶץ אֲשֶׁר־ יַעֲשֶׂ֥ה כְמַעֲשֶׂ֖יךָ וְכִגְבוּרֹתֶֽךָ׃"
+pericope: "[[Deut.3.23 Moses Forbidden to Cross the Jordan|Moses Forbidden to Cross the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0859A]]"
+- "[[H2490C]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1433]]"
+- "[[H9002]]"
+- "[[H3027H]]"
+- "[[H9009]]"
+- "[[H2389]]"
+- "[[H0834A]]"
+- "[[H4310]]"
+- "[[H0410G]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H0776G]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H4639G]]"
+- "[[H1369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:24**<big><big>[[Deut.3.23 Moses Forbidden to Cross the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord GOD, thou hast begun to shew thy servant thy greatness, and thy mighty hand: for what God [is there] in heaven or in earth, that can do according to thy works, and according to thy might?
 <small><sub>**BSB:**</sub></small>
 “O Lord GOD, You have begun to show Your greatness and power to Your servant. For what god in heaven or on earth can perform such works and mighty acts as Yours?
+<small><sub>**Hebrew:**</sub></small>
+[[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H0859A\|אַתָּ֤ה]] [[H2490C\|הַֽחִלּ֙וֹתָ֙]] [[H9005\|לְ]][[H7200G\|הַרְא֣וֹת]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H0853\|אֶ֨ת]][[H9014\|־]] [[H1433\|גָּדְלְ]][[H9021\|ךָ֔]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3027H\|יָדְ]][[H9021\|ךָ֖]] [[H9009\|הַ]][[H2389\|חֲזָקָ֑ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H4310\|מִי]][[H9014\|־]] [[H0410G\|אֵל֙]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֣יִם]] [[H9002\|וּ]][[H9003\|בָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֥ה]] [[H9004\|כְ]][[H4639G\|מַעֲשֶׂ֖י]][[H9021\|ךָ]] [[H9002\|וְ]][[H9004\|כִ]][[H1369\|גְבוּרֹתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MOSES|MOSES]] • [[topic POWER|POWER]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.23|<< Deuteronomy 3:23]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.25|Deuteronomy 3:25 >>]]</td></tr></table>
 

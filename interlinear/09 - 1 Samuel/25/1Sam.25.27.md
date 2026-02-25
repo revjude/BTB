@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 25:27
+type: Verse
+kjv: "And now this blessing which thine handmaid hath brought unto my lord, let it even be given unto the young men that follow my lord."
+bsb: "Now let this gift your servant has brought to my lord be given to the young men who follow you."
+hebrew: "וְעַתָּה֙ הַבְּרָכָ֣ה הַזֹּ֔את אֲשֶׁר־ הֵבִ֥יא שִׁפְחָתְךָ֖ לַֽאדֹנִ֑י וְנִתְּנָה֙ לַנְּעָרִ֔ים הַמִּֽתְהַלְּכִ֖ים בְּרַגְלֵ֥י אֲדֹנִֽי׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FIG|FIG]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9009]]"
+- "[[H1293]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H8198]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H5288]]"
+- "[[H1980N]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:27**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now this blessing which thine handmaid hath brought unto my lord, let it even be given unto the young men that follow my lord.
 <small><sub>**BSB:**</sub></small>
 Now let this gift your servant has brought to my lord be given to the young men who follow you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H9009\|הַ]][[H1293\|בְּרָכָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935P\|הֵבִ֥יא]] [[H8198\|שִׁפְחָתְ]][[H9021\|ךָ֖]] [[H9005\|לַֽ]][[H0113\|אדֹנִ֑]][[H9020\|י]] [[H9001\|וְ]][[H5414G\|נִתְּנָה֙]] [[H9005\|לַ]][[H5288\|נְּעָרִ֔ים]] [[H9009\|הַ]][[H1980N\|מִּֽתְהַלְּכִ֖ים]] [[H9003\|בְּ]][[H7272\|רַגְלֵ֥י]] [[H0113\|אֲדֹנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FIG|FIG]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NABAL|NABAL]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.26|<< 1 Samuel 25:26]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.28|1 Samuel 25:28 >>]]</td></tr></table>
 

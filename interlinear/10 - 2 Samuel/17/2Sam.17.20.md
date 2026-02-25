@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 17:20
+type: Verse
+kjv: "And when Absalom’s servants came to the woman to the house, they said, Where is Ahimaaz and Jonathan? And the woman said unto them, They be gone over the brook of water. And when they had sought and could not find them, they returned to Jerusalem."
+bsb: "When Absalom’s servants came to the woman at the house, they asked, “Where are Ahimaaz and Jonathan?” “They have crossed over the brook,” she replied. The men searched but did not find them, so they returned to Jerusalem."
+hebrew: "וַיָּבֹ֣אוּ עַבְדֵי֩ אַבְשָׁל֨וֹם אֶֽל־ הָאִשָּׁ֜ה הַבַּ֗יְתָה וַיֹּֽאמְרוּ֙ אַיֵּ֗ה אֲחִימַ֙עַץ֙ וִיה֣וֹנָתָ֔ן וַתֹּ֤אמֶר לָהֶם֙ הָֽאִשָּׁ֔ה עָבְר֖וּ מִיכַ֣ל הַמָּ֑יִם וַיְבַקְשׁוּ֙ וְלֹ֣א מָצָ֔אוּ וַיָּשֻׁ֖בוּ יְרוּשָׁלִָֽם׃ ס"
+pericope: "[[2Sam.17.15 Hushai’s Warning Saves David|Hushai’s Warning Saves David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5650]]"
+- "[[H0053]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H0559]]"
+- "[[H0346]]"
+- "[[H0290H]]"
+- "[[H9002]]"
+- "[[H3083I]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5674A]]"
+- "[[H4323]]"
+- "[[H4325G]]"
+- "[[H1245]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H7725G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 17:20**<big><big>[[2Sam.17.15 Hushai’s Warning Saves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Absalom’s servants came to the woman to the house, they said, Where [is] Ahimaaz and Jonathan? And the woman said unto them, They be gone over the brook of water. And when they had sought and could not find [them], they returned to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 When Absalom’s servants came to the woman at the house, they asked, “Where are Ahimaaz and Jonathan?” “They have crossed over the brook,” she replied. The men searched but did not find them, so they returned to Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H5650\|עַבְדֵי֩]] [[H0053\|אַבְשָׁל֨וֹם]] [[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֜ה]] [[H9009\|הַ]][[H1004B\|בַּ֗יְתָ]][[H9011\|ה]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H0346\|אַיֵּ֗ה]] [[H0290H\|אֲחִימַ֙עַץ֙]] [[H9002\|וִ]][[H3083I\|יה֣וֹנָתָ֔ן]] [[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁ֔ה]] [[H5674A\|עָבְר֖וּ]] [[H4323\|מִיכַ֣ל]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H9001\|וַ]][[H1245\|יְבַקְשׁוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4672\|מָצָ֔אוּ]] [[H9001\|וַ]][[H7725G\|יָּשֻׁ֖בוּ]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AHIMAAZ|AHIMAAZ]] • [[topic AHITHOPHEL|AHITHOPHEL]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.19|<< 2 Samuel 17:19]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.21|2 Samuel 17:21 >>]]</td></tr></table>
 
@@ -28,7 +94,7 @@ When Absalom’s servants came to the woman at the house, they asked, “Where a
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֣א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they found [them]  |**<big>&#8207;[[H4672\|מָצָ֔אוּ]]&#8207; </big>**| ma.Tza.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they returned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7725G\|יָּשֻׁ֖בוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Shu.vu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.19|<< 2 Samuel 17:19]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.21|2 Samuel 17:21 >>]]</td></tr></table>
 
 

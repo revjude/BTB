@@ -1,8 +1,56 @@
+---
+title: Exodus 26:16
+type: Verse
+kjv: "Ten cubits shall be the length of a board, and a cubit and a half shall be the breadth of one board."
+bsb: "Each frame is to be ten cubits long and a cubit and a half wide."
+hebrew: "עֶ֥שֶׂר אַמּ֖וֹת אֹ֣רֶךְ הַקָּ֑רֶשׁ וְאַמָּה֙ וַחֲצִ֣י הָֽאַמָּ֔ה רֹ֖חַב הַקֶּ֥רֶשׁ הָאֶחָֽד׃"
+pericope: "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H6235]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H9009]]"
+- "[[H7175]]"
+- "[[H9002]]"
+- "[[H2677]]"
+- "[[H7341]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:16**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ten cubits [shall be] the length of a board, and a cubit and a half [shall be] the breadth of one board.
 <small><sub>**BSB:**</sub></small>
 Each frame is to be ten cubits long and a cubit and a half wide.
+<small><sub>**Hebrew:**</sub></small>
+[[H6235\|עֶ֥שֶׂר]] [[H0520A\|אַמּ֖וֹת]] [[H0753\|אֹ֣רֶךְ]] [[H9009\|הַ]][[H7175\|קָּ֑רֶשׁ]] [[H9002\|וְ]][[H0520A\|אַמָּה֙]] [[H9002\|וַ]][[H2677\|חֲצִ֣י]] [[H9009\|הָֽ]][[H0520A\|אַמָּ֔ה]] [[H7341\|רֹ֖חַב]] [[H9009\|הַ]][[H7175\|קֶּ֥רֶשׁ]] [[H9009\|הָ]][[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.15|<< Exodus 26:15]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.17|Exodus 26:17 >>]]</td></tr></table>
 

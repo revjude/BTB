@@ -1,8 +1,56 @@
+---
+title: Job 18:17
+type: Verse
+kjv: "His remembrance shall perish from the earth, and he shall have no name in the street."
+bsb: "The memory of him perishes from the earth, and he has no name in the land."
+hebrew: "זִֽכְרוֹ־ אָ֭בַד מִנִּי־ אָ֑רֶץ וְלֹא־ שֵׁ֥ם ל֝֗וֹ עַל־ פְּנֵי־ חֽוּץ׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2143]]"
+- "[[H9023]]"
+- "[[H9014]]"
+- "[[H0006]]"
+- "[[H4480A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8034]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H2351]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:17**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His remembrance shall perish from the earth, and he shall have no name in the street.
 <small><sub>**BSB:**</sub></small>
 The memory of him perishes from the earth, and he has no name in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H2143\|זִֽכְר]][[H9023\|וֹ]][[H9014\|־]] [[H0006\|אָ֭בַד]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8034\|שֵׁ֥ם]] [[H9005\|ל֝֗]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵי]][[H9014\|־]] [[H2351\|חֽוּץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.16|<< Job 18:16]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.18|Job 18:18 >>]]</td></tr></table>
 

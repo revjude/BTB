@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judah’s Inheritance
+type: Pericope
 pericope: "[[Josh.15.1 Judah’s Inheritance|Judah’s Inheritance]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 15
 book/chapter: "[[Josh.15|Joshua 15]]"
-genre:
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 12
 verses:
 - "[[Josh.15.1]]"
 - "[[Josh.15.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Josh.15.12]]"
 ---
 
-[[Josh.15|Joshua 15:1 - Joshua 15:12]]
+<small>[[Josh.15|Joshua 15:1-12]]</small>
 *Judah’s Inheritance*
 
 [[Josh.15.1|1]] \[This\] then was the lot of the tribe of the children of Judah by their families; \[even\] to the border of Edom the wilderness of Zin southward \[was\] the uttermost part of the south coast.

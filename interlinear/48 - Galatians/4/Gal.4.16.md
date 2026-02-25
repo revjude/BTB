@@ -1,10 +1,46 @@
+---
+title: Galatians 4:16
+type: Verse
+kjv: "Am I therefore become your enemy, because I tell you the truth?"
+bsb: "Have I now become your enemy by telling you the truth?"
+greek: "ὥστε ἐχθρὸς ὑμῶν γέγονα ἀληθεύων ὑμῖν;"
+pericope: "[[Gal.4.8 Paul’s Concern for the Galatians|Paul’s Concern for the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G5620]]"
+- "[[G2190]]"
+- "[[G4771]]"
+- "[[G1096]]"
+- "[[G0226]]"
+texts:
+- NKO
+---
+
 **Galatians 4:16**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Am I therefore become your enemy, because I tell you the truth?
 <small><sub>**BSB:**</sub></small>
 Have I now become your enemy by telling you the truth?
-<small><sub>**Literal:**</sub></small>
-So enemy of you have I become speaking truth to you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.15|<< Galatians 4:15]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.17|Galatians 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G2190\|ἐχθρὸς]]  [[G4771\|ὑμῶν]]  [[G1096\|γέγονα]]  [[G0226\|ἀληθεύων]]  [[G4771\|ὑμῖν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic REPROOF|REPROOF]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.15|<< Galatians 4:15]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.17|Galatians 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

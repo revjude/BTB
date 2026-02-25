@@ -1,8 +1,68 @@
+---
+title: 2 Kings 7:8
+type: Verse
+kjv: "And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid it; and came again, and entered into another tent, and carried thence also, and went and hid it."
+bsb: "When the lepers reached the edge of the camp, they went into a tent to eat and drink. Then they carried off the silver, gold, and clothing, and went and hid them. On returning, they entered another tent, carried off some items from there, and hid them."
+hebrew: "וַיָּבֹאוּ֩ הַֽמְצֹרָעִ֨ים הָאֵ֜לֶּה עַד־ קְצֵ֣ה הַֽמַּחֲנֶ֗ה וַיָּבֹ֜אוּ אֶל־ אֹ֤הֶל אֶחָד֙ וַיֹּאכְל֣וּ וַיִּשְׁתּ֔וּ וַיִּשְׂא֣וּ מִשָּׁ֗ם כֶּ֤סֶף וְזָהָב֙ וּבְגָדִ֔ים וַיֵּלְכ֖וּ וַיַּטְמִ֑נוּ וַיָּשֻׁ֗בוּ וַיָּבֹ֙אוּ֙ אֶל־ אֹ֣הֶל אַחֵ֔ר וַיִּשְׂא֣וּ מִשָּׁ֔ם וַיֵּלְכ֖וּ וַיַּטְמִֽנוּ׃"
+pericope: "[[2Kgs.7.3 The Syrians Flee|The Syrians Flee]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H6879]]"
+- "[[H0428]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7097A]]"
+- "[[H4264]]"
+- "[[H0413]]"
+- "[[H0168G]]"
+- "[[H0259]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H5375H]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H0899B]]"
+- "[[H1980G]]"
+- "[[H2934]]"
+- "[[H7725G]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:8**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid [it]; and came again, and entered into another tent, and carried thence [also], and went and hid [it].
 <small><sub>**BSB:**</sub></small>
 When the lepers reached the edge of the camp, they went into a tent to eat and drink. Then they carried off the silver, gold, and clothing, and went and hid them. On returning, they entered another tent, carried off some items from there, and hid them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹאוּ֩]] [[H9009\|הַֽ]][[H6879\|מְצֹרָעִ֨ים]] [[H9009\|הָ]][[H0428\|אֵ֜לֶּה]] [[H5704\|עַד]][[H9014\|־]] [[H7097A\|קְצֵ֣ה]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֗ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֤הֶל]] [[H0259\|אֶחָד֙]] [[H9001\|וַ]][[H0398\|יֹּאכְל֣וּ]] [[H9001\|וַ]][[H8354\|יִּשְׁתּ֔וּ]] [[H9001\|וַ]][[H5375H\|יִּשְׂא֣וּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֗ם]] [[H3701G\|כֶּ֤סֶף]] [[H9002\|וְ]][[H2091\|זָהָב֙]] [[H9002\|וּ]][[H0899B\|בְגָדִ֔ים]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֖וּ]] [[H9001\|וַ]][[H2934\|יַּטְמִ֑נוּ]] [[H9001\|וַ]][[H7725G\|יָּשֻׁ֗בוּ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H0312\|אַחֵ֔ר]] [[H9001\|וַ]][[H5375H\|יִּשְׂא֣וּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֔ם]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֖וּ]] [[H9001\|וַ]][[H2934\|יַּטְמִֽנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.7|<< 2 Kings 7:7]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.9|2 Kings 7:9 >>]]</td></tr></table>
 

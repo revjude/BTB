@@ -1,6 +1,65 @@
+---
+title: LXX Isaiah 37:17
+type: Verse
+lxx: "Lean, O lord,  your ear! Hearken, O lord! Open, O lord,  your eyes! Look in, O lord, and know and hear all the words of Sennacherib! which he sent to berate the living God."
+greek: "κλίνον κύριε το ους σου εισάκουσον κύριε άνοιξον κύριε τους οφθαλμούς σου είσβλεψον κύριε και ίδε και άκουσον πάντας τους λόγους Σενναχηρείμ ους απέστειλεν ονειδίζειν θεόν ζώντα"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2827]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G3775]]"
+- "[[G1473]]"
+- "[[G1522]]"
+- "[[G2962]]"
+- "[[G0455]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G7066]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1492]]"
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[H5576]]"
+- "[[G3739]]"
+- "[[G0649]]"
+- "[[G3679]]"
+- "[[G2316]]"
+- "[[G2198]]"
+---
+
 **LXX Isaiah 37:17** 
 <small><sub>**LXX:**</sub></small>
 Lean, O <span class="smallcaps">lord</span>,  your ear! Hearken, O <span class="smallcaps">lord</span>! Open, O <span class="smallcaps">lord</span>,  your eyes! Look in, O <span class="smallcaps">lord</span>, and know and hear all the words of Sennacherib! which he sent to berate \[the\] living God. 
+<small><sub>**Greek:**</sub></small>
+[[G2827\|κλίνον]] [[G2962\|κύριε]] [[G3588\|το]] [[G3775\|ους]] [[G1473\|σου]] [[G1522\|εισάκουσον]] [[G2962\|κύριε]] [[G0455\|άνοιξον]] [[G2962\|κύριε]] [[G3588\|τους]] [[G3788\|οφθαλμούς]] [[G1473\|σου]] [[G7066\|είσβλεψον]] [[G2962\|κύριε]] [[G2532\|και]] [[G1492\|ίδε]] [[G2532\|και]] [[G0191\|άκουσον]] [[G3956\|πάντας]] [[G3588\|τους]] [[G3056\|λόγους]] [[H5576\|Σενναχηρείμ]] [[G3739\|ους]] [[G0649\|απέστειλεν]] [[G3679\|ονειδίζειν]] [[G2316\|θεόν]] [[G2198\|ζώντα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic LIBNAH|LIBNAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.37.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.16|<< Isaiah 37:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.18|Isaiah 37:18 >>]]</td></tr></table>
 
@@ -31,6 +90,6 @@ Lean, O <span class="smallcaps">lord</span>,  your ear! Hearken, O <span class="
 | to berate | **<big>[[G3679\|ονειδίζειν]]</big>** |
 | God | **<big>[[G2316\|θεόν]]</big>** |
 | \[the\] living | **<big>[[G2198\|ζώντα]]</big>** |
-[[Isa.37.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.16|<< Isaiah 37:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.18|Isaiah 37:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.37.16|<< Isaiah 37:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.37.18|Isaiah 37:18 >>]]</td></tr></table>
 
 

@@ -1,8 +1,84 @@
+---
+title: Joshua 5:6
+type: Verse
+kjv: "For the children of Israel walked forty years in the wilderness, till all the people that were men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the LORD: unto whom the LORD sware that he would not shew them the land, which the LORD sware unto their fathers that he would give us, a land that floweth with milk and honey."
+bsb: "For the Israelites had wandered in the wilderness forty years, until all the nation’s men of war who had come out of Egypt had died, since they did not obey the LORD. So the LORD vowed never to let them see the land He had sworn to their fathers to give us, a land flowing with milk and honey."
+hebrew: "כִּ֣י׀ אַרְבָּעִ֣ים שָׁנָ֗ה הָלְכ֣וּ בְנֵֽי־ יִשְׂרָאֵל֮ בַּמִּדְבָּר֒ עַד־ תֹּ֨ם כָּל־ הַגּ֜וֹי אַנְשֵׁ֤י הַמִּלְחָמָה֙ הַיֹּצְאִ֣ים מִמִּצְרַ֔יִם אֲשֶׁ֥ר לֹֽא־ שָׁמְע֖וּ בְּק֣וֹל יְהוָ֑ה אֲשֶׁ֨ר נִשְׁבַּ֤ע יְהוָה֙ לָהֶ֔ם לְבִלְתִּ֞י הַרְאוֹתָ֣ם אֶת־ הָאָ֗רֶץ אֲשֶׁר֩ נִשְׁבַּ֨ע יְהוָ֤ה לַֽאֲבוֹתָם֙ לָ֣תֶת לָ֔נוּ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃"
+pericope: "[[Josh.5.1 The Circumcision and Passover at Gilgal|The Circumcision and Passover at Gilgal]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 5
+book/chapter: "[[Josh.5|Joshua 5]]"
+chronological_order: 235
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H1980I]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1115]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H5414G]]"
+- "[[H9035]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 5:6**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the children of Israel walked forty years in the wilderness, till all the people [that were] men of war, which came out of Egypt, were consumed, because they obeyed not the voice of the LORD: unto whom the LORD sware that he would not shew them the land, which the LORD sware unto their fathers that he would give us, a land that floweth with milk and honey.
 <small><sub>**BSB:**</sub></small>
 For the Israelites had wandered in the wilderness forty years, until all the nation’s men of war who had come out of Egypt had died, since they did not obey the LORD. So the LORD vowed never to let them see the land He had sworn to their fathers to give us, a land flowing with milk and honey.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H0705\|אַרְבָּעִ֣ים]] [[H8141\|שָׁנָ֗ה]] [[H1980I\|הָלְכ֣וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֮]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּר֒]] [[H5704\|עַד]][[H9014\|־]] [[H8552\|תֹּ֨ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּ֜וֹי]] [[H0582\|אַנְשֵׁ֤י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָה֙]] [[H9009\|הַ]][[H3318G\|יֹּצְאִ֣ים]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085H\|שָׁמְע֖וּ]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֤ע]] [[H3068G\|יְהוָה֙]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9005\|לְ]][[H1115\|בִלְתִּ֞י]] [[H7200G\|הַרְאוֹתָ֣]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁר֩]] [[H7650\|נִשְׁבַּ֨ע]] [[H3068G\|יְהוָ֤ה]] [[H9005\|לַֽ]][[H0001G\|אֲבוֹתָ]][[H9028\|ם֙]] [[H9005\|לָ֣]][[H5414G\|תֶת]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H0776G\|אֶ֛רֶץ]] [[H2100G\|זָבַ֥ת]] [[H2461\|חָלָ֖ב]] [[H9002\|וּ]][[H1706\|דְבָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GILGAL|GILGAL]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.5|<< Joshua 5:5]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.7|Joshua 5:7 >>]]</td></tr></table>
 

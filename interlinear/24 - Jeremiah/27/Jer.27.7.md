@@ -1,8 +1,73 @@
+---
+title: Jeremiah 27:7
+type: Verse
+kjv: "And all nations shall serve him, and his son, and his son’s son, until the very time of his land come: and then many nations and great kings shall serve themselves of him."
+bsb: "All nations will serve him and his son and grandson, until the time of his own land comes; then many nations and great kings will enslave him."
+hebrew: "וְעָבְד֤וּ אֹתוֹ֙ כָּל־ הַגּוֹיִ֔ם וְאֶת־ בְּנ֖וֹ וְאֶֽת־ בֶּן־ בְּנ֑וֹ עַ֣ד בֹּא־ עֵ֤ת אַרְצוֹ֙ גַּם־ ה֔וּא וְעָ֤בְדוּ בוֹ֙ גּוֹיִ֣ם רַבִּ֔ים וּמְלָכִ֖ים גְּדֹלִֽים׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H1121G]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H6256]]"
+- "[[H0776G]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H7227A]]"
+- "[[H4428G]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:7**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all nations shall serve him, and his son, and his son’s son, until the very time of his land come: and then many nations and great kings shall serve themselves of him.
 <small><sub>**BSB:**</sub></small>
 All nations will serve him and his son and grandson, until the time of his own land comes; then many nations and great kings will enslave him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5647G\|עָבְד֤וּ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H1121G\|בֶּן]][[H9014\|־]] [[H1121G\|בְּנ֑]][[H9023\|וֹ]] [[H5704\|עַ֣ד]] [[H0935G\|בֹּא]][[H9014\|־]] [[H6256\|עֵ֤ת]] [[H0776G\|אַרְצ]][[H9023\|וֹ֙]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֔וּא]] [[H9001\|וְ]][[H5647G\|עָ֤בְדוּ]] [[H9003\|ב]][[H9033\|וֹ֙]] [[H1471A\|גּוֹיִ֣ם]] [[H7227A\|רַבִּ֔ים]] [[H9002\|וּ]][[H4428G\|מְלָכִ֖ים]] [[H1419A\|גְּדֹלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic BABYLON|BABYLON]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic SIDON|SIDON]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.6|<< Jeremiah 27:6]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.8|Jeremiah 27:8 >>]]</td></tr></table>
 

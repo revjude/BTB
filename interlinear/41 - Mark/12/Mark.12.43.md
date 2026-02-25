@@ -1,10 +1,65 @@
+---
+title: Mark 12:43
+type: Verse
+kjv: "And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:"
+bsb: "Jesus called His disciples to Him and said, “Truly I tell you, this poor widow has put more than all the others into the treasury."
+jesus_said: "Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:"
+greek: "καὶ προσκαλεσάμενος τοὺς μαθητὰς αὐτοῦ εἶπεν αὐτοῖς· ἀμὴν λέγω ὑμῖν ὅτι ἡ χήρα αὕτη ἡ πτωχὴ πλεῖον πάντων ἔβαλεν τῶν βαλλόντων εἰς τὸ γαζοφυλάκιον·"
+pericope: "[[Mark.12.41 The Widow’s Offering|The Widow’s Offering]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic POOR|POOR]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+- "[[topic WIDOW|WIDOW]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4341]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G5503]]"
+- "[[G3778]]"
+- "[[G4434]]"
+- "[[G4119]]"
+- "[[G3956]]"
+- "[[G0906H]]"
+- "[[G1519]]"
+- "[[G1049]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 12:43**<big><big>[[Mark.12.41 The Widow’s Offering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he called [unto him] his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:
 <small><sub>**BSB:**</sub></small>
 Jesus called His disciples to Him and said, “Truly I tell you, this poor widow has put more than all the others into the treasury.
-<small><sub>**Literal:**</sub></small>
-And having called to [Him] the disciples of Him He says to them; Amen I say to you that <the> widow this <the> poor more than all has cast [in] of those casting into the treasury;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.42|<< Mark 12:42]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.44|Mark 12:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4341\|προσκαλεσάμενος]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3588\|ἡ]]  [[G5503\|χήρα]]  [[G3778\|αὕτη]]  [[G3588\|ἡ]]  [[G4434\|πτωχὴ]]  [[G4119\|πλεῖον]]  [[G3956\|πάντων]]  [[G0906H\|ἔβαλεν]]  [[G3588\|τῶν]]  [[G0906H\|βαλλόντων]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1049\|γαζοφυλάκιον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]] • [[topic WIDOW|WIDOW]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.42|<< Mark 12:42]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.44|Mark 12:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

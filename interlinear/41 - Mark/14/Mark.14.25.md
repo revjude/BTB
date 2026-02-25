@@ -1,10 +1,66 @@
+---
+title: Mark 14:25
+type: Verse
+kjv: "Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God."
+bsb: "Truly I tell you, I will no longer drink of the fruit of the vine until that day when I drink it anew in the kingdom of God.”"
+jesus_said: "Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God."
+greek: "ἀμὴν λέγω ὑμῖν ὅτι οὐκέτι οὐκέτι οὐ μὴ πίω ἐκ τοῦ γενήματος τῆς ἀμπέλου ἕως τῆς ἡμέρας ἐκείνης ὅταν αὐτὸ πίνω καινὸν ἐν τῇ βασιλείᾳ τοῦ θεοῦ.¶"
+pericope: "[[Mark.14.17 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3361]]"
+- "[[G4095]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G6013]]"
+- "[[G0288]]"
+- "[[G2193]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G3752]]"
+- "[[G0846]]"
+- "[[G2537]]"
+- "[[G1722]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 14:25**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, I will drink no more of the fruit of the vine, until that day that I drink it new in the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, I will no longer drink of the fruit of the vine until that day when I drink it anew in the kingdom of God.”
-<small><sub>**Literal:**</sub></small>
-Amen I say to you that no longer certainly not shall I drink of the fruit of the vine until the day that [one] when it I may drink anew in the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.24|<< Mark 14:24]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.26|Mark 14:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G4095\|πίω]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G6013\|γενήματος]]  [[G3588\|τῆς]]  [[G0288\|ἀμπέλου]]  [[G2193\|ἕως]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G1565\|ἐκείνης]]  [[G3752\|ὅταν]]  [[G0846\|αὐτὸ]]  [[G4095\|πίνω]]  [[G2537\|καινὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.24|<< Mark 14:24]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.26|Mark 14:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

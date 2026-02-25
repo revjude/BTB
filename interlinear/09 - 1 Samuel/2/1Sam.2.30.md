@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 2:30
+type: Verse
+kjv: "Wherefore the LORD God of Israel saith, I said indeed that thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed."
+bsb: "Therefore, the LORD, the God of Israel, declares: ‘I did indeed say that your house and the house of your father would walk before Me forever. But now the LORD declares: Far be it from Me! For I will honor those who honor Me, but those who despise Me will be disdained."
+hebrew: "לָכֵ֗ן נְאֻם־ יְהוָה֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ אָמ֣וֹר אָמַ֔רְתִּי בֵּֽיתְךָ֙ וּבֵ֣ית אָבִ֔יךָ יִתְהַלְּכ֥וּ לְפָנַ֖י עַד־ עוֹלָ֑ם וְעַתָּ֤ה נְאֻם־ יְהוָה֙ חָלִ֣ילָה לִּ֔י כִּֽי־ מְכַבְּדַ֥י אֲכַבֵּ֖ד וּבֹזַ֥י יֵקָֽלּוּ׃"
+pericope: "[[1Sam.2.27 A Prophecy against the House of Eli|A Prophecy against the House of Eli]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELI|ELI]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H1980I]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H6258]]"
+- "[[H2486]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H3513G]]"
+- "[[H0959]]"
+- "[[H7043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:30**<big><big>[[1Sam.2.27 A Prophecy against the House of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the LORD God of Israel saith, I said indeed [that] thy house, and the house of thy father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honour me I will honour, and they that despise me shall be lightly esteemed.
 <small><sub>**BSB:**</sub></small>
 Therefore, the LORD, the God of Israel, declares: ‘I did indeed say that your house and the house of your father would walk before Me forever. But now the LORD declares: Far be it from Me! For I will honor those who honor Me, but those who despise Me will be disdained.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָה֮]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H0559\|אָמ֣וֹר]] [[H0559\|אָמַ֔רְתִּי]] [[H1004M\|בֵּֽיתְ]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H1004M\|בֵ֣ית]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H1980I\|יִתְהַלְּכ֥וּ]] [[H9005\|לְ]][[H6440G\|פָנַ֖]][[H9020\|י]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֑ם]] [[H9002\|וְ]][[H6258\|עַתָּ֤ה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H2486\|חָלִ֣ילָה]] [[H9005\|לִּ֔]][[H9030\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3513G\|מְכַבְּדַ֥]][[H9030\|י]] [[H3513G\|אֲכַבֵּ֖ד]] [[H9002\|וּ]][[H0959\|בֹזַ֥]][[H9030\|י]] [[H7043\|יֵקָֽלּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELI|ELI]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HOPHNI|HOPHNI]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PARENTS|PARENTS]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.29|<< 1 Samuel 2:29]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.31|1 Samuel 2:31 >>]]</td></tr></table>
 

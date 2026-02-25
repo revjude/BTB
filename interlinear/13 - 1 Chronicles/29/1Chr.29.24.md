@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 29:24
+type: Verse
+kjv: "And all the princes, and the mighty men, and all the sons likewise of king David, submitted themselves unto Solomon the king."
+bsb: "All the officials and mighty men, as well as all of King David’s sons, pledged their allegiance to King Solomon."
+hebrew: "וְכָל־ הַשָּׂרִים֙ וְהַגִּבֹּרִ֔ים וְגַ֕ם כָּל־ בְּנֵ֖י הַמֶּ֣לֶךְ דָּוִ֑יד נָ֣תְנוּ יָ֔ד תַּ֖חַת שְׁלֹמֹ֥ה הַמֶּֽלֶךְ׃"
+pericope: "[[1Chr.29.21 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8269]]"
+- "[[H1368]]"
+- "[[H1571]]"
+- "[[H1121A]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H5414G]]"
+- "[[H3027X]]"
+- "[[H8478L]]"
+- "[[H8010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:24**<big><big>[[1Chr.29.21 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the princes, and the mighty men, and all the sons likewise of king David, submitted themselves unto Solomon the king.
 <small><sub>**BSB:**</sub></small>
 All the officials and mighty men, as well as all of King David’s sons, pledged their allegiance to King Solomon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8269\|שָּׂרִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H1368\|גִּבֹּרִ֔ים]] [[H9002\|וְ]][[H1571\|גַ֕ם]] [[H3605\|כָּל]][[H9014\|־]] [[H1121A\|בְּנֵ֖י]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1732\|דָּוִ֑יד]] [[H5414G\|נָ֣תְנוּ]] [[H3027X\|יָ֔ד]] [[H8478L\|תַּ֖חַת]] [[H8010\|שְׁלֹמֹ֥ה]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.23|<< 1 Chronicles 29:23]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.25|1 Chronicles 29:25 >>]]</td></tr></table>
 

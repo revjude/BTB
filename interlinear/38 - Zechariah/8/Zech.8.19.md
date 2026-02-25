@@ -1,8 +1,71 @@
+---
+title: Zechariah 8:19
+type: Verse
+kjv: "Thus saith the LORD of hosts; The fast of the fourth month, and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace."
+bsb: "“This is what the LORD of Hosts says: The fasts of the fourth, the fifth, the seventh, and the tenth months will become times of joy and gladness, cheerful feasts for the house of Judah. Therefore you are to love both truth and peace.”"
+hebrew: "כֹּֽה־ אָמַ֞ר יְהוָ֣ה צְבָא֗וֹת צ֣וֹם הָרְבִיעִ֡י וְצ֣וֹם הַחֲמִישִׁי֩ וְצ֨וֹם הַשְּׁבִיעִ֜י וְצ֣וֹם הָעֲשִׂירִ֗י יִהְיֶ֤ה לְבֵית־ יְהוּדָה֙ לְשָׂשׂ֣וֹן וּלְשִׂמְחָ֔ה וּֽלְמֹעֲדִ֖ים טוֹבִ֑ים וְהָאֱמֶ֥ת וְהַשָּׁל֖וֹם אֱהָֽבוּ׃ פ"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H6685]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H9002]]"
+- "[[H2549]]"
+- "[[H7637]]"
+- "[[H6224]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H8342]]"
+- "[[H8057]]"
+- "[[H4150H]]"
+- "[[H2896A]]"
+- "[[H0571H]]"
+- "[[H7965G]]"
+- "[[H0157G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Zechariah 8:19**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts; The fast of the fourth [month], and the fast of the fifth, and the fast of the seventh, and the fast of the tenth, shall be to the house of Judah joy and gladness, and cheerful feasts; therefore love the truth and peace.
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD of Hosts says: The fasts of the fourth, the fifth, the seventh, and the tenth months will become times of joy and gladness, cheerful feasts for the house of Judah. Therefore you are to love both truth and peace.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H6685\|צ֣וֹם]] [[H9009\|הָ]][[H7243\|רְבִיעִ֡י]] [[H9002\|וְ]][[H6685\|צ֣וֹם]] [[H9009\|הַ]][[H2549\|חֲמִישִׁי֩]] [[H9002\|וְ]][[H6685\|צ֨וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֜י]] [[H9002\|וְ]][[H6685\|צ֣וֹם]] [[H9009\|הָ]][[H6224\|עֲשִׂירִ֗י]] [[H1961\|יִהְיֶ֤ה]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9005\|לְ]][[H8342\|שָׂשׂ֣וֹן]] [[H9002\|וּ]][[H9005\|לְ]][[H8057\|שִׂמְחָ֔ה]] [[H9002\|וּֽ]][[H9005\|לְ]][[H4150H\|מֹעֲדִ֖ים]] [[H2896A\|טוֹבִ֑ים]] [[H9002\|וְ]][[H9009\|הָ]][[H0571H\|אֱמֶ֥ת]] [[H9002\|וְ]][[H9009\|הַ]][[H7965G\|שָּׁל֖וֹם]] [[H0157G\|אֱהָֽבוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic FEASTS|FEASTS]] • [[topic GENTILES|GENTILES]] • [[topic PEACE|PEACE]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.18|<< Zechariah 8:18]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.20|Zechariah 8:20 >>]]</td></tr></table>
 
@@ -29,7 +92,7 @@ Thus saith the LORD of hosts; The fast of the fourth [month], and the fast of th
 | good  |**<big>&#8207;[[H2896A\|טוֹבִ֑ים]]&#8207; </big>**| to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<the> truth  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0571H\|אֱמֶ֥ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'e.Met<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<the> peace  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7965G\|שָּׁל֖וֹם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| love  |**<big>&#8207;[[H0157G\|אֱהָֽבוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.Ha.vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| love  |**<big>&#8207;[[H0157G\|אֱהָֽבוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.Ha.vu<small><sup>[[HVqv2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.18|<< Zechariah 8:18]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.20|Zechariah 8:20 >>]]</td></tr></table>
 
 

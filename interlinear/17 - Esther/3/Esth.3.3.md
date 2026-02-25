@@ -1,8 +1,57 @@
+---
+title: Esther 3:3
+type: Verse
+kjv: "Then the king’s servants, which were in the king’s gate, said unto Mordecai, Why transgressest thou the king’s commandment?"
+bsb: "Then the royal servants at the king’s gate asked Mordecai, “Why do you disobey the command of the king?”"
+hebrew: "וַיֹּ֨אמְר֜וּ עַבְדֵ֥י הַמֶּ֛לֶךְ אֲשֶׁר־ בְּשַׁ֥עַר הַמֶּ֖לֶךְ לְמָרְדֳּכָ֑י מַדּ֙וּעַ֙ אַתָּ֣ה עוֹבֵ֔ר אֵ֖ת מִצְוַ֥ת הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.3.1 Haman’s Plot against the Jews|Haman’s Plot against the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 3
+book/chapter: "[[Esth.3|Esther 3]]"
+chronological_order: 901
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic DECISION|DECISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5650]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9005]]"
+- "[[H4782H]]"
+- "[[H4069]]"
+- "[[H0859A]]"
+- "[[H5674D]]"
+- "[[H0853]]"
+- "[[H4687]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 3:3**<big><big>[[Esth.3.1 Haman’s Plot against the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king’s servants, which [were] in the king’s gate, said unto Mordecai, Why transgressest thou the king’s commandment?
 <small><sub>**BSB:**</sub></small>
 Then the royal servants at the king’s gate asked Mordecai, “Why do you disobey the command of the king?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמְר֜וּ]] [[H5650\|עַבְדֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H8179G\|שַׁ֥עַר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9005\|לְ]][[H4782H\|מָרְדֳּכָ֑י]] [[H4069\|מַדּ֙וּעַ֙]] [[H0859A\|אַתָּ֣ה]] [[H5674D\|עוֹבֵ֔ר]] [[H0853\|אֵ֖ת]] [[H4687\|מִצְוַ֥ת]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.3.2|<< Esther 3:2]]</td><td align="center" style="border:none;">[[Esth.3|Esther 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.3.4|Esther 3:4 >>]]</td></tr></table>
 

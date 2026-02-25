@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 29:12
+type: Verse
+kjv: "Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:"
+bsb: "Then the Levites set to work: Mahath son of Amasai and Joel son of Azariah from the Kohathites; Kish son of Abdi and Azariah son of Jehallelel from the Merarites; Joah son of Zimmah and Eden son of Joah from the Gershonites;"
+hebrew: "וַיָּקֻ֣מוּ הַ֠לְוִיִּם מַ֣חַת בֶּן־ עֲמָשַׂ֞י וְיוֹאֵ֣ל בֶּן־ עֲזַרְיָהוּ֮ מִן־ בְּנֵ֣י הַקְּהָתִי֒ וּמִן־ בְּנֵ֣י מְרָרִ֔י קִ֚ישׁ בֶּן־ עַבְדִּ֔י וַעֲזַרְיָ֖הוּ בֶּן־ יְהַלֶּלְאֵ֑ל וּמִן־ הַגֵּ֣רְשֻׁנִּ֔י יוֹאָח֙ בֶּן־ זִמָּ֔ה וְעֵ֖דֶן בֶּן־ יוֹאָֽח׃"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ABDI|ABDI]]"
+- "[[topic AMASAI|AMASAI]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic JEHALELEL|JEHALELEL]]"
+- "[[topic JOAH|JOAH]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic KISH|KISH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MAHATH|MAHATH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic ZIMMAH|ZIMMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H4287G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6022J]]"
+- "[[H9002]]"
+- "[[H3100Q]]"
+- "[[H5838U]]"
+- "[[H4480A]]"
+- "[[H6956]]"
+- "[[H4847]]"
+- "[[H7027I]]"
+- "[[H5660H]]"
+- "[[H5838V]]"
+- "[[H3094H]]"
+- "[[H1649]]"
+- "[[H3098K]]"
+- "[[H2155H]]"
+- "[[H5731A]]"
+- "[[H3098L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:12**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah:
 <small><sub>**BSB:**</sub></small>
 Then the Levites set to work: Mahath son of Amasai and Joel son of Azariah from the Kohathites; Kish son of Abdi and Azariah son of Jehallelel from the Merarites; Joah son of Zimmah and Eden son of Joah from the Gershonites;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקֻ֣מוּ]] [[H9009\|הַ֠]][[H3881\|לְוִיִּם]] [[H4287G\|מַ֣חַת]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6022J\|עֲמָשַׂ֞י]] [[H9002\|וְ]][[H3100Q\|יוֹאֵ֣ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5838U\|עֲזַרְיָהוּ֮]] [[H4480A\|מִן]][[H9014\|־]] [[H1121A\|בְּנֵ֣י]] [[H9009\|הַ]][[H6956\|קְּהָתִי֒]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H1121A\|בְּנֵ֣י]] [[H4847\|מְרָרִ֔י]] [[H7027I\|קִ֚ישׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5660H\|עַבְדִּ֔י]] [[H9002\|וַ]][[H5838V\|עֲזַרְיָ֖הוּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3094H\|יְהַלֶּלְאֵ֑ל]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1649\|גֵּ֣רְשֻׁנִּ֔י]] [[H3098K\|יוֹאָח֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2155H\|זִמָּ֔ה]] [[H9002\|וְ]][[H5731A\|עֵ֖דֶן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3098L\|יוֹאָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABDI|ABDI]] • [[topic AMASAI|AMASAI]] • [[topic EDEN|EDEN]] • [[topic JEHALELEL|JEHALELEL]] • [[topic JOAH|JOAH]] • [[topic JOEL|JOEL]] • [[topic KISH|KISH]] • [[topic LEVITES|LEVITES]] • [[topic MAHATH|MAHATH]] • [[topic PRIEST|PRIEST]] • [[topic ZIMMAH|ZIMMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.11|<< 2 Chronicles 29:11]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.13|2 Chronicles 29:13 >>]]</td></tr></table>
 

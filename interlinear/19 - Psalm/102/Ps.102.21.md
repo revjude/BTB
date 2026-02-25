@@ -1,8 +1,55 @@
+---
+title: Psalm 102:21
+type: Verse
+kjv: "To declare the name of the LORD in Zion, and his praise in Jerusalem;"
+bsb: "that they may proclaim the name of the LORD in Zion and praise Him in Jerusalem,"
+hebrew: "לְסַפֵּ֣ר בְּ֭צִיּוֹן שֵׁ֣ם יְהוָ֑ה וּ֝תְהִלָּת֗וֹ בִּירוּשָׁלִָֽם׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+strongs:
+- "[[H9005]]"
+- "[[H5608A]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H8416]]"
+- "[[H9023]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:21**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To declare the name of the LORD in Zion, and his praise in Jerusalem;
 <small><sub>**BSB:**</sub></small>
 that they may proclaim the name of the LORD in Zion and praise Him in Jerusalem,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5608A\|סַפֵּ֣ר]] [[H9003\|בְּ֭]][[H6726\|צִיּוֹן]] [[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּ֝]][[H8416\|תְהִלָּת֗]][[H9023\|וֹ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.20|<< Psalms 102:20]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.22|Psalms 102:22 >>]]</td></tr></table>
 

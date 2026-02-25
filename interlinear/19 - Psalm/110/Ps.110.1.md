@@ -1,8 +1,63 @@
+---
+title: Psalm 110:1
+type: Verse
+kjv: "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
+bsb: "A Psalm of David. The LORD said to my Lord: “Sit at My right hand until I make Your enemies a footstool for Your feet.”"
+hebrew: "נְאֻ֤ם יְהוָ֨ה׀ לַֽאדֹנִ֗י שֵׁ֥ב לִֽימִינִ֑י עַד־ אָשִׁ֥ית אֹ֝יְבֶ֗יךָ הֲדֹ֣ם לְרַגְלֶֽיךָ׃"
+pericope: "[[Ps.110.1 God’s Faithful Messiah|God’s Faithful Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 110
+book/chapter: "[[Ps.110|Psalm 110]]"
+chronological_order: 384
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STOOL|STOOL]]"
+strongs:
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H3427]]"
+- "[[H3225G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7896G]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H1916]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 110:1**<big><big>[[Ps.110.1 God’s Faithful Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
 <small><sub>**BSB:**</sub></small>
 A Psalm of David. The LORD said to my Lord: “Sit at My right hand until I make Your enemies a footstool for Your feet.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5002\|נְאֻ֤ם]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H9005\|לַֽ]][[H0113\|אדֹנִ֗]][[H9020\|י]] [[H3427\|שֵׁ֥ב]] [[H9005\|לִֽ]][[H3225G\|ימִינִ֑]][[H9020\|י]] [[H5704\|עַד]][[H9014\|־]] [[H7896G\|אָשִׁ֥ית]] [[H0341\|אֹ֝יְבֶ֗י]][[H9021\|ךָ]] [[H1916\|הֲדֹ֣ם]] [[H9005\|לְ]][[H7272\|רַגְלֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STOOL|STOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.110.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.0|<< Psalms 110:0]]</td><td align="center" style="border:none;">[[Ps.110|Psalms 110]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110.2|Psalms 110:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

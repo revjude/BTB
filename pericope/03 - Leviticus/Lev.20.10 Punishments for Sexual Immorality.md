@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Punishments for Sexual Immorality
+type: Pericope
 pericope: "[[Lev.20.10 Punishments for Sexual Immorality|Punishments for Sexual Immorality]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 20
 book/chapter: "[[Lev.20|Leviticus 20]]"
-genre:
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 12
 verses:
 - "[[Lev.20.10]]"
 - "[[Lev.20.11]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Lev.20.21]]"
 ---
 
-[[Lev.20|Leviticus 20:10 - Leviticus 20:21]]
+<small>[[Lev.20|Leviticus 20:10-21]]</small>
 *Punishments for Sexual Immorality*
 
 [[Lev.20.10|10]] And the man that committeth adultery with \[another\] man’s wife, \[even he\] that committeth adultery with his neighbour’s wife, the adulterer and the adulteress shall surely be put to death.

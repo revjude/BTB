@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Oath to Saul
+type: Pericope
 pericope: "[[1Sam.24.16 David’s Oath to Saul|David’s Oath to Saul]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 24
 book/chapter: "[[1Sam.24|1 Samuel 24]]"
-genre:
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[1Sam.24.16]]"
 - "[[1Sam.24.17]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Sam.24.22]]"
 ---
 
-[[1Sam.24|1 Samuel 24:16 - 1 Samuel 24:22]]
+<small>[[1Sam.24|1 Samuel 24:16-22]]</small>
 *David’s Oath to Saul*
 
 [[1Sam.24.16|16]] And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, \[Is\] this thy voice, my son David? And Saul lifted up his voice, and wept.

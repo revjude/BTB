@@ -1,8 +1,55 @@
+---
+title: 1 Samuel 20:20
+type: Verse
+kjv: "And I will shoot three arrows on the side thereof, as though I shot at a mark."
+bsb: "I will shoot three arrows to the side of it, as if I were aiming at a target."
+hebrew: "וַאֲנִ֕י שְׁלֹ֥שֶׁת הַחִצִּ֖ים צִדָּ֣ה אוֹרֶ֑ה לְשַֽׁלַּֽח־ לִ֖י לְמַטָּרָֽה׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic ARROW|ARROW]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H2671]]"
+- "[[H6654]]"
+- "[[H9011]]"
+- "[[H3384A]]"
+- "[[H9005]]"
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H4307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:20**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will shoot three arrows on the side [thereof], as though I shot at a mark.
 <small><sub>**BSB:**</sub></small>
 I will shoot three arrows to the side of it, as if I were aiming at a target.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֕י]] [[H7969\|שְׁלֹ֥שֶׁת]] [[H9009\|הַ]][[H2671\|חִצִּ֖ים]] [[H6654\|צִדָּ֣]][[H9011\|ה]] [[H3384A\|אוֹרֶ֑ה]] [[H9005\|לְ]][[H7971G\|שַֽׁלַּֽח]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לְ]][[H4307H\|מַטָּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic ARROW|ARROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.19|<< 1 Samuel 20:19]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.21|1 Samuel 20:21 >>]]</td></tr></table>
 

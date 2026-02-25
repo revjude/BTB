@@ -1,8 +1,65 @@
+---
+title: Isaiah 6:2
+type: Verse
+kjv: "Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly."
+bsb: "Above Him stood seraphim, each having six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying."
+hebrew: "שְׂרָפִ֨ים עֹמְדִ֤ים׀ מִמַּ֙עַל֙ ל֔וֹ שֵׁ֧שׁ כְּנָפַ֛יִם שֵׁ֥שׁ כְּנָפַ֖יִם לְאֶחָ֑ד בִּשְׁתַּ֣יִם׀ יְכַסֶּ֣ה פָנָ֗יו וּבִשְׁתַּ֛יִם יְכַסֶּ֥ה רַגְלָ֖יו וּבִשְׁתַּ֥יִם יְעוֹפֵֽף׃"
+pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FACE|FACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SERAPHIM (SERAPHS)|SERAPHIM (SERAPHS)]]"
+strongs:
+- "[[H8314B]]"
+- "[[H5975G]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8337]]"
+- "[[H3671]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H8147]]"
+- "[[H3680]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7272]]"
+- "[[H5774A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 6:2**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
 <small><sub>**BSB:**</sub></small>
 Above Him stood seraphim, each having six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying.
+<small><sub>**Hebrew:**</sub></small>
+[[H8314B\|שְׂרָפִ֨ים]] [[H5975G\|עֹמְדִ֤ים]][[H9015\|׀]] [[H9006\|מִ]][[H4605\|מַּ֙עַל֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H8337\|שֵׁ֧שׁ]] [[H3671\|כְּנָפַ֛יִם]] [[H8337\|שֵׁ֥שׁ]] [[H3671\|כְּנָפַ֖יִם]] [[H9005\|לְ]][[H0259\|אֶחָ֑ד]] [[H9003\|בִּ]][[H8147\|שְׁתַּ֣יִם]][[H9015\|׀]] [[H3680\|יְכַסֶּ֣ה]] [[H6440H\|פָנָ֗י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בִ]][[H8147\|שְׁתַּ֛יִם]] [[H3680\|יְכַסֶּ֥ה]] [[H7272\|רַגְלָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בִ]][[H8147\|שְׁתַּ֥יִם]] [[H5774A\|יְעוֹפֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FACE|FACE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHETS|PROPHETS]] • [[topic SERAPHIM (SERAPHS)|SERAPHIM (SERAPHS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.1|<< Isaiah 6:1]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.3|Isaiah 6:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

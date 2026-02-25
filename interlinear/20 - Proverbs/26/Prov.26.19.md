@@ -1,8 +1,55 @@
+---
+title: Proverbs 26:19
+type: Verse
+kjv: "So is the man that deceiveth his neighbour, and saith, Am not I in sport?"
+bsb: "so is the man who deceives his neighbor and says, “I was only joking!”"
+hebrew: "כֵּֽן־ אִ֭ישׁ רִמָּ֣ה אֶת־ רֵעֵ֑הוּ וְ֝אָמַ֗ר הֲֽלֹא־ מְשַׂחֵ֥ק אָֽנִי׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H3651C]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H7411B]]"
+- "[[H0853]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H7832]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:19**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So [is] the man [that] deceiveth his neighbour, and saith, Am not I in sport?
 <small><sub>**BSB:**</sub></small>
 so is the man who deceives his neighbor and says, “I was only joking!”
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּֽן]][[H9014\|־]] [[H0376G\|אִ֭ישׁ]] [[H7411B\|רִמָּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9001\|וְ֝]][[H0559\|אָמַ֗ר]] [[H9008\|הֲֽ]][[H3808\|לֹא]][[H9014\|־]] [[H7832\|מְשַׂחֵ֥ק]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.18|<< Proverbs 26:18]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.20|Proverbs 26:20 >>]]</td></tr></table>
 

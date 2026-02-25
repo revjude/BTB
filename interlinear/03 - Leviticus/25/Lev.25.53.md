@@ -1,8 +1,62 @@
+---
+title: Leviticus 25:53
+type: Verse
+kjv: "And as a yearly hired servant shall he be with him: and the other shall not rule with rigour over him in thy sight."
+bsb: "He shall be treated like a man hired from year to year, but a foreign owner must not rule over him harshly in your sight."
+hebrew: "כִּשְׂכִ֥יר שָׁנָ֛ה בְּשָׁנָ֖ה יִהְיֶ֣ה עִמּ֑וֹ לֹֽא־ יִרְדֶּ֥נּֽוּ בְּפֶ֖רֶךְ לְעֵינֶֽיךָ׃"
+pericope: "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9004]]"
+- "[[H7916]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7287A]]"
+- "[[H6531]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:53**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] as a yearly hired servant shall he be with him: [and the other] shall not rule with rigour over him in thy sight.
 <small><sub>**BSB:**</sub></small>
 He shall be treated like a man hired from year to year, but a foreign owner must not rule over him harshly in your sight.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H7916\|שְׂכִ֥יר]] [[H8141\|שָׁנָ֛ה]] [[H9003\|בְּ]][[H8141\|שָׁנָ֖ה]] [[H1961\|יִהְיֶ֣ה]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7287A\|יִרְדֶּ֥]][[H9033\|נּֽוּ]] [[H9003\|בְּ]][[H6531\|פֶ֖רֶךְ]] [[H9005\|לְ]][[H5869H\|עֵינֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.52|<< Leviticus 25:52]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.54|Leviticus 25:54 >>]]</td></tr></table>
 

@@ -1,10 +1,53 @@
+---
+title: Acts 25:2
+type: Verse
+kjv: "Then the high priest and the chief of the Jews informed him against Paul, and besought him,"
+bsb: "where the chief priests and Jewish leaders presented their case against Paul. They urged Festus"
+greek: "ἐνεφάνισάν τε αὐτῷ οἱ ἀρχιερεῖς καὶ οἱ πρῶτοι τῶν Ἰουδαίων κατὰ τοῦ Παύλου καὶ παρεκάλουν αὐτὸν"
+pericope: "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1718]]"
+- "[[G5037]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G4413J]]"
+- "[[G2453]]"
+- "[[G2596]]"
+- "[[G3972G]]"
+- "[[G3870]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 25:2**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the high priest and the chief of the Jews informed him against Paul, and besought him,
 <small><sub>**BSB:**</sub></small>
 where the chief priests and Jewish leaders presented their case against Paul. They urged Festus
-<small><sub>**Literal:**</sub></small>
-Made a presentation then before him the chief priests and the chiefs of the Jews against <the> Paul and they were begging him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.1|<< Acts 25:1]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.3|Acts 25:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1718\|ἐνεφάνισάν]]  [[G5037\|τε]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4413J\|πρῶτοι]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G2532\|καὶ]]  [[G3870\|παρεκάλουν]]  [[G0846\|αὐτὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ANANIAS|ANANIAS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.1|<< Acts 25:1]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.3|Acts 25:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

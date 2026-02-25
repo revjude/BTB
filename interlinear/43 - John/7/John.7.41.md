@@ -1,10 +1,53 @@
+---
+title: John 7:41
+type: Verse
+kjv: "Others said, This is the Christ. But some said, Shall Christ come out of Galilee?"
+bsb: "Others declared, “This is the Christ.” But still others asked, “How can the Christ come from Galilee?"
+greek: "ἄλλοι ἔλεγον· οὗτός ἐστιν ὁ χριστός· οἱ δὲ ἔλεγον· μὴ γὰρ ἐκ τῆς Γαλιλαίας ὁ χριστὸς ἔρχεται;"
+pericope: "[[John.7.40 Division over Jesus|Division over Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0243]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1063]]"
+- "[[G1537]]"
+- "[[G1056G]]"
+- "[[G2064]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 7:41**<big><big>[[John.7.40 Division over Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Others said, This is the Christ. But some said, Shall Christ come out of Galilee?
 <small><sub>**BSB:**</sub></small>
 Others declared, “This is the Christ.” But still others asked, “How can the Christ come from Galilee?
-<small><sub>**Literal:**</sub></small>
-Others were saying; This is the Christ; Those however were saying; Surely not for out of <the> Galilee the Christ comes?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.40|<< John 7:40]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.42|John 7:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0243\|ἄλλοι]]  [[G3004G\|ἔλεγον·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5547\|χριστός·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγον·]]  [[G3361\|μὴ]]  [[G1063\|γὰρ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G2064\|ἔρχεται;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.40|<< John 7:40]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.42|John 7:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

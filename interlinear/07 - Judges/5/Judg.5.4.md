@@ -1,8 +1,59 @@
+---
+title: Judges 5:4
+type: Verse
+kjv: "LORD, when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water."
+bsb: "O LORD, when You went out from Seir, when You marched from the land of Edom, the earth trembled, the heavens poured out rain, and the clouds poured down water."
+hebrew: "יְהוָ֗ה בְּצֵאתְךָ֤ מִשֵּׂעִיר֙ בְּצַעְדְּךָ֙ מִשְּׂדֵ֣ה אֱד֔וֹם אֶ֣רֶץ רָעָ֔שָׁה גַּם־ שָׁמַ֖יִם נָטָ֑פוּ גַּם־ עָבִ֖ים נָ֥טְפוּ מָֽיִם׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H9041]]"
+- "[[H9006]]"
+- "[[H8165A]]"
+- "[[H6805]]"
+- "[[H7704G]]"
+- "[[H0123G]]"
+- "[[H0776G]]"
+- "[[H7493]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H8064]]"
+- "[[H5197]]"
+- "[[H5645]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:4**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 LORD, when thou wentest out of Seir, when thou marchedst out of the field of Edom, the earth trembled, and the heavens dropped, the clouds also dropped water.
 <small><sub>**BSB:**</sub></small>
 O LORD, when You went out from Seir, when You marched from the land of Edom, the earth trembled, the heavens poured out rain, and the clouds poured down water.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֗ה]] [[H9003\|בְּ]][[H3318G\|צֵאתְ]][[H9041\|ךָ֤]] [[H9006\|מִ]][[H8165A\|שֵּׂעִיר֙]] [[H9003\|בְּ]][[H6805\|צַעְדְּ]][[H9041\|ךָ֙]] [[H9006\|מִ]][[H7704G\|שְּׂדֵ֣ה]] [[H0123G\|אֱד֔וֹם]] [[H0776G\|אֶ֣רֶץ]] [[H7493\|רָעָ֔שָׁה]] [[H1571\|גַּם]][[H9014\|־]] [[H8064\|שָׁמַ֖יִם]] [[H5197\|נָטָ֑פוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H5645\|עָבִ֖ים]] [[H5197\|נָ֥טְפוּ]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.3|<< Judges 5:3]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.5|Judges 5:5 >>]]</td></tr></table>
 

@@ -1,8 +1,50 @@
+---
+title: Job 4:3
+type: Verse
+kjv: "Behold, thou hast instructed many, and thou hast strengthened the weak hands."
+bsb: "Surely you have instructed many, and have strengthened their feeble hands."
+hebrew: "הִ֭נֵּה יִסַּ֣רְתָּ רַבִּ֑ים וְיָדַ֖יִם רָפ֣וֹת תְּחַזֵּֽק׃"
+pericope: "[[Job.4.1 Eliphaz：The Innocent Prosper|Eliphaz：The Innocent Prosper]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 4
+book/chapter: "[[Job.4|Job 4]]"
+chronological_order: 15
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2009]]"
+- "[[H3256]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H3027G]]"
+- "[[H7504]]"
+- "[[H2388G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 4:3**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou hast instructed many, and thou hast strengthened the weak hands.
 <small><sub>**BSB:**</sub></small>
 Surely you have instructed many, and have strengthened their feeble hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִ֭נֵּה]] [[H3256\|יִסַּ֣רְתָּ]] [[H7227A\|רַבִּ֑ים]] [[H9002\|וְ]][[H3027G\|יָדַ֖יִם]] [[H7504\|רָפ֣וֹת]] [[H2388G\|תְּחַזֵּֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.2|<< Job 4:2]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.4|Job 4:4 >>]]</td></tr></table>
 

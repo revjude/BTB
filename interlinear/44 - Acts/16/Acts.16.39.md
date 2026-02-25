@@ -1,10 +1,60 @@
+---
+title: Acts 16:39
+type: Verse
+kjv: "And they came and besought them, and brought them out, and desired them to depart out of the city."
+bsb: "They came to appease them and led them out, requesting that they leave the city."
+greek: "καὶ ἐλθόντες παρεκάλεσαν αὐτούς, καὶ ἐξαγαγόντες ἠρώτων ἀπελθεῖν ἀπὸ τῆς πόλεως.¶"
+pericope: "[[Acts.16.35 An Official Apology|An Official Apology]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TRIAL|TRIAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G1806]]"
+- "[[G2065]]"
+- "[[G0565]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4172]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Acts 16:39**<big><big>[[Acts.16.35 An Official Apology|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they came and besought them, and brought [them] out, and desired [them] to depart out of the city.
 <small><sub>**BSB:**</sub></small>
 They came to appease them and led them out, requesting that they leave the city.
-<small><sub>**Literal:**</sub></small>
-And having come they appealed to them and having brought [them] out they were asking [them] to go out of the city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.38|<< Acts 16:38]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.40|Acts 16:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθόντες]]  [[G3870\|παρεκάλεσαν]]  [[G0846\|αὐτούς,]]  [[G2532\|καὶ]]  [[G1806\|ἐξαγαγόντες]]  [[G2065\|ἠρώτων]]  [[G0565\|ἀπελθεῖν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G4172\|πόλεως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPROOF|REPROOF]] • [[topic SILAS|SILAS]] • [[topic TRIAL|TRIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.38|<< Acts 16:38]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.40|Acts 16:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

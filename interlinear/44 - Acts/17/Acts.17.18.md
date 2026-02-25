@@ -1,10 +1,72 @@
+---
+title: Acts 17:18
+type: Verse
+kjv: "Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection."
+bsb: "Some Epicurean and Stoic philosophers also began to debate with him. Some of them asked, “What is this babbler trying to say?” Others said, “He seems to be advocating foreign gods.” They said this because Paul was proclaiming the good news of Jesus and the resurrection."
+greek: "τινὲς δὲ καὶ τῶν Ἐπικουρείων καὶ τῶν Στοϊκῶν φιλοσόφων συνέβαλλον αὐτῷ· καί τινες ἔλεγον· τί ἂν θέλοι ὁ σπερμολόγος οὗτος λέγειν; οἱ δέ· ξένων δαιμονίων δοκεῖ καταγγελεὺς εἶναι· ὅτι τὸν Ἰησοῦν καὶ τὴν ἀνάστασιν αὐτοῖς εὐηγγελίζετο.¶"
+pericope: "[[Acts.17.16 Paul in Athens|Paul in Athens]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic BABBLER|BABBLER]]"
+- "[[topic EPICUREANS|EPICUREANS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic STOICISM|STOICISM]]"
+strongs:
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1946]]"
+- "[[G4770]]"
+- "[[G5386]]"
+- "[[G4820]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G0302]]"
+- "[[G2309]]"
+- "[[G4691]]"
+- "[[G3778]]"
+- "[[G3581]]"
+- "[[G1140]]"
+- "[[G1380]]"
+- "[[G2604]]"
+- "[[G1511]]"
+- "[[G3754H]]"
+- "[[G2424G]]"
+- "[[G0386]]"
+- "[[G2097]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 17:18**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection.
 <small><sub>**BSB:**</sub></small>
 Some Epicurean and Stoic philosophers also began to debate with him. Some of them asked, “What is this babbler trying to say?” Others said, “He seems to be advocating foreign gods.” They said this because Paul was proclaiming the good news of Jesus and the resurrection.
-<small><sub>**Literal:**</sub></small>
-Some then also of the Epicureans and of the Stoics philosophers were encountering him; And some were saying; What maybe would intend <the> babbler this to say? Others however; Of foreign gods he seems a proclaimer to be; because <the> Jesus and the resurrection to them he was evangelising.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.17|<< Acts 17:17]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.19|Acts 17:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τινὲς]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G1946\|Ἐπικουρείων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4770\|Στοϊκῶν]]  [[G5386\|φιλοσόφων]]  [[G4820\|συνέβαλλον]]  [[G0846\|αὐτῷ·]]  [[G2532\|καί]]  [[G5100\|τινες]]  [[G3004G\|ἔλεγον·]]  [[G5101\|τί]]  [[G0302\|ἂν]]  [[G2309\|θέλοι]]  [[G3588\|ὁ]]  [[G4691\|σπερμολόγος]]  [[G3778\|οὗτος]]  [[G3004G\|λέγειν;]]  [[G3588\|οἱ]]  [[G1161\|δέ·]]  [[G3581\|ξένων]]  [[G1140\|δαιμονίων]]  [[G1380\|δοκεῖ]]  [[G2604\|καταγγελεὺς]]  [[G1511\|εἶναι·]]  [[G3754H\|ὅτι]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0386\|ἀνάστασιν]]  [[G0846\|αὐτοῖς]]  [[G2097\|εὐηγγελίζετο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic BABBLER|BABBLER]] • [[topic EPICUREANS|EPICUREANS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic PAUL|PAUL]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SCOFFING|SCOFFING]] • [[topic STOICISM|STOICISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.17|<< Acts 17:17]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.19|Acts 17:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

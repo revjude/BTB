@@ -1,10 +1,54 @@
+---
+title: Acts 19:39
+type: Verse
+kjv: "But if ye inquire any thing concerning other matters, it shall be determined in a lawful assembly."
+bsb: "But if you are seeking anything beyond this, it must be settled in a legal assembly."
+greek: "εἰ δέ τι περαιτέρω ἐπιζητεῖτε, ἐν τῇ ἐννόμῳ ἐκκλησίᾳ ἐπιλυθήσεται."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G6071]]"
+- "[[G1934]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1772]]"
+- "[[G1577]]"
+- "[[G1956]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 19:39**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if ye inquire any thing concerning other matters, it shall be determined in a lawful assembly.
 <small><sub>**BSB:**</sub></small>
 But if you are seeking anything beyond this, it must be settled in a legal assembly.
-<small><sub>**Literal:**</sub></small>
-If however anything beyond this you inquire, in the lawful assembly it will be solved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.38|<< Acts 19:38]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.40|Acts 19:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δέ]]  [[G5100\|τι]]  [[G6071\|περαιτέρω]]  [[G1934\|ἐπιζητεῖτε,]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1772\|ἐννόμῳ]]  [[G1577\|ἐκκλησίᾳ]]  [[G1956\|ἐπιλυθήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.38|<< Acts 19:38]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.40|Acts 19:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,56 @@
+---
+title: Matthew 11:1
+type: Verse
+kjv: "And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities."
+bsb: "After Jesus had finished instructing His twelve disciples, He went on from there to teach and preach in their cities."
+greek: "Καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς διατάσσων τοῖς δώδεκα μαθηταῖς αὐτοῦ, μετέβη ἐκεῖθεν τοῦ διδάσκειν καὶ κηρύσσειν ἐν ταῖς πόλεσιν αὐτῶν.¶"
+pericope: "[[Matt.11.1 John’s Inquiry|John’s Inquiry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3753]]"
+- "[[G5055]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1299]]"
+- "[[G1427]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G3327]]"
+- "[[G1564]]"
+- "[[G1321]]"
+- "[[G2784]]"
+- "[[G1722]]"
+- "[[G4172]]"
+texts:
+- NKO
+---
+
 **Matthew 11:1**<big><big>[[Matt.11.1 John’s Inquiry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.
 <small><sub>**BSB:**</sub></small>
 After Jesus had finished instructing His twelve disciples, He went on from there to teach and preach in their cities.
-<small><sub>**Literal:**</sub></small>
-And it came to pass when finished <the> Jesus commanding the twelve disciples of Him, He departed from there <the> to teach and to preach in the cities of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.42|<< Matthew 10:42]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.2|Matthew 11:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G3753\|ὅτε]]  [[G5055\|ἐτέλεσεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1299\|διατάσσων]]  [[G3588\|τοῖς]]  [[G1427\|δώδεκα]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ,]]  [[G3327\|μετέβη]]  [[G1564\|ἐκεῖθεν]]  [[G3588\|τοῦ]]  [[G1321\|διδάσκειν]]  [[G2532\|καὶ]]  [[G2784\|κηρύσσειν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4172\|πόλεσιν]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.42|<< Matthew 10:42]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.2|Matthew 11:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

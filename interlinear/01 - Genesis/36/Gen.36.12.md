@@ -1,8 +1,66 @@
+---
+title: Genesis 36:12
+type: Verse
+kjv: "And Timna was concubine to Eliphaz Esau’s son; and she bare to Eliphaz Amalek: these were the sons of Adah Esau’s wife."
+bsb: "Additionally, Timna, a concubine of Esau’s son Eliphaz, gave birth to Amalek. These are the grandsons of Esau’s wife Adah."
+hebrew: "וְתִמְנַ֣ע׀ הָיְתָ֣ה פִילֶ֗גֶשׁ לֶֽאֱלִיפַז֙ בֶּן־ עֵשָׂ֔ו וַתֵּ֥לֶד לֶאֱלִיפַ֖ז אֶת־ עֲמָלֵ֑ק אֵ֕לֶּה בְּנֵ֥י עָדָ֖ה אֵ֥שֶׁת עֵשָֽׂו׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAH|ADAH]]"
+- "[[topic AMALEK|AMALEK]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ELIPHAZ|ELIPHAZ]]"
+- "[[topic TIMNA|TIMNA]]"
+strongs:
+- "[[H9002]]"
+- "[[H8555]]"
+- "[[H9015]]"
+- "[[H1961]]"
+- "[[H6370]]"
+- "[[H9005]]"
+- "[[H0464G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6215G]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H6002H]]"
+- "[[H0428]]"
+- "[[H5711H]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:12**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Timna was concubine to Eliphaz Esau’s son; and she bare to Eliphaz Amalek: these [were] the sons of Adah Esau’s wife.
 <small><sub>**BSB:**</sub></small>
 Additionally, Timna, a concubine of Esau’s son Eliphaz, gave birth to Amalek. These are the grandsons of Esau’s wife Adah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8555\|תִמְנַ֣ע]][[H9015\|׀]] [[H1961\|הָיְתָ֣ה]] [[H6370\|פִילֶ֗גֶשׁ]] [[H9005\|לֶֽ]][[H0464G\|אֱלִיפַז֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6215G\|עֵשָׂ֔ו]] [[H9001\|וַ]][[H3205\|תֵּ֥לֶד]] [[H9005\|לֶ]][[H0464G\|אֱלִיפַ֖ז]] [[H0853\|אֶת]][[H9014\|־]] [[H6002H\|עֲמָלֵ֑ק]] [[H0428\|אֵ֕לֶּה]] [[H1121A\|בְּנֵ֥י]] [[H5711H\|עָדָ֖ה]] [[H0802H\|אֵ֥שֶׁת]] [[H6215G\|עֵשָֽׂו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAH|ADAH]] • [[topic AMALEK|AMALEK]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic EDOMITES|EDOMITES]] • [[topic ELIPHAZ|ELIPHAZ]] • [[topic TIMNA|TIMNA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.11|<< Genesis 36:11]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.13|Genesis 36:13 >>]]</td></tr></table>
 

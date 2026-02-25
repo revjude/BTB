@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Division of the Spoils
+type: Pericope
 pericope: "[[Num.31.25 Division of the Spoils|Division of the Spoils]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 31
 book/chapter: "[[Num.31|Numbers 31]]"
-genre:
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 23
 verses:
 - "[[Num.31.25]]"
 - "[[Num.31.26]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Num.31.47]]"
 ---
 
-[[Num.31|Numbers 31:25 - Numbers 31:47]]
+<small>[[Num.31|Numbers 31:25-47]]</small>
 *Division of the Spoils*
 
 [[Num.31.25|25]] And the LORD spake unto Moses, saying,

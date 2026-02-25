@@ -1,8 +1,57 @@
+---
+title: Zephaniah 3:12
+type: Verse
+kjv: "I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the LORD."
+bsb: "But I will leave within you a meek and humble people, and they will trust in the name of the LORD."
+hebrew: "וְהִשְׁאַרְתִּ֣י בְקִרְבֵּ֔ךְ עַ֥ם עָנִ֖י וָדָ֑ל וְחָס֖וּ בְּשֵׁ֥ם יְהוָֽה׃"
+pericope: "[[Zeph.3.9 A Faithful Remnant|A Faithful Remnant]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9022]]"
+- "[[H5971A]]"
+- "[[H6041]]"
+- "[[H9002]]"
+- "[[H1800]]"
+- "[[H2620]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 3:12**<big><big>[[Zeph.3.9 A Faithful Remnant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the LORD.
 <small><sub>**BSB:**</sub></small>
 But I will leave within you a meek and humble people, and they will trust in the name of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7604\|הִשְׁאַרְתִּ֣י]] [[H9003\|בְ]][[H7130G\|קִרְבֵּ֔]][[H9022\|ךְ]] [[H5971A\|עַ֥ם]] [[H6041\|עָנִ֖י]] [[H9002\|וָ]][[H1800\|דָ֑ל]] [[H9001\|וְ]][[H2620\|חָס֖וּ]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic HUMILITY|HUMILITY]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.11|<< Zephaniah 3:11]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.13|Zephaniah 3:13 >>]]</td></tr></table>
 

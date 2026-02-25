@@ -1,10 +1,70 @@
+---
+title: Matthew 25:35
+type: Verse
+kjv: "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
+bsb: "For I was hungry and you gave Me something to eat, I was thirsty and you gave Me something to drink, I was a stranger and you took Me in,"
+jesus_said: "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
+greek: "ἐπείνασα γὰρ καὶ ἐδώκατέ μοι φαγεῖν, ἐδίψησα καὶ ἐποτίσατέ με, ξένος ἤμην καὶ συνηγάγετέ με,"
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3983]]"
+- "[[G1063]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G5315]]"
+- "[[G1372]]"
+- "[[G4222]]"
+- "[[G3581]]"
+- "[[G1510]]"
+- "[[G4863]]"
+texts:
+- NKO
+---
+
 **Matthew 25:35**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:
 <small><sub>**BSB:**</sub></small>
 For I was hungry and you gave Me something to eat, I was thirsty and you gave Me something to drink, I was a stranger and you took Me in,
-<small><sub>**Literal:**</sub></small>
-I hungered for and you gave Me to eat, I thirsted and you gave to drink me, a stranger I was and you took in Me,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.34|<< Matthew 25:34]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.36|Matthew 25:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3983\|ἐπείνασα]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G1325\|ἐδώκατέ]]  [[G3165\|μοι]]  [[G5315\|φαγεῖν,]]  [[G1372\|ἐδίψησα]]  [[G2532\|καὶ]]  [[G4222\|ἐποτίσατέ]]  [[G3165\|με,]]  [[G3581\|ξένος]]  [[G1510\|ἤμην]]  [[G2532\|καὶ]]  [[G4863\|συνηγάγετέ]]  [[G3165\|με,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ALIENS|ALIENS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINDNESS|KINDNESS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic POOR|POOR]] • [[topic PRISONERS|PRISONERS]] • [[topic REWARD|REWARD]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.34|<< Matthew 25:34]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.36|Matthew 25:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

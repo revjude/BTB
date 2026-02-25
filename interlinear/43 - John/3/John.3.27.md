@@ -1,10 +1,61 @@
+---
+title: John 3:27
+type: Verse
+kjv: "John answered and said, A man can receive nothing, except it be given him from heaven."
+bsb: "John replied, “A man can receive only what is given him from heaven."
+greek: "ἀπεκρίθη Ἰωάννης καὶ εἶπεν· οὐ δύναται ἄνθρωπος λαμβάνειν οὐδὲ ἓν ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ οὐρανοῦ."
+pericope: "[[John.3.22 John’s Testimony about Jesus|John’s Testimony about Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G0611]]"
+- "[[G2491G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G0444]]"
+- "[[G2983]]"
+- "[[G3761]]"
+- "[[G1520]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **John 3:27**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 John answered and said, A man can receive nothing, except it be given him from heaven.
 <small><sub>**BSB:**</sub></small>
 John replied, “A man can receive only what is given him from heaven.
-<small><sub>**Literal:**</sub></small>
-Answered John and said; Nothing is able a man to receive and not one only unless it shall be given to him from <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.26|<< John 3:26]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.28|John 3:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G2491G\|Ἰωάννης]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G0444\|ἄνθρωπος]]  [[G2983\|λαμβάνειν]]  [[G3761\|οὐδὲ]]  [[G1520\|ἓν]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G1510\|ᾖ]]  [[G1325\|δεδομένον]]  [[G0846\|αὐτῷ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.26|<< John 3:26]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.28|John 3:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

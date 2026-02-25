@@ -1,8 +1,59 @@
+---
+title: Psalm 119:87
+type: Verse
+kjv: "They had almost consumed me upon earth; but I forsook not thy precepts."
+bsb: "They almost wiped me from the earth, but I have not forsaken Your precepts."
+hebrew: "כִּ֭מְעַט כִּלּ֣וּנִי בָאָ֑רֶץ וַ֝אֲנִ֗י לֹא־ עָזַ֥בְתִּי פִקֻּודֶֽיךָ׃"
+pericope: "[[Ps.119.81 Your Word Is a Lamp to My Feet - CAPH|Your Word Is a Lamp to My Feet - CAPH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H9004]]"
+- "[[H4592]]"
+- "[[H3615G]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H6490]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:87**<big><big>[[Ps.119.81 Your Word Is a Lamp to My Feet - CAPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They had almost consumed me upon earth; but I forsook not thy precepts.
 <small><sub>**BSB:**</sub></small>
 They almost wiped me from the earth, but I have not forsaken Your precepts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ֭]][[H4592\|מְעַט]] [[H3615G\|כִּלּ֣וּ]][[H9030\|נִי]] [[H9003\|בָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וַ֝]][[H0589\|אֲנִ֗י]] [[H3808\|לֹא]][[H9014\|־]] [[H5800A\|עָזַ֥בְתִּי]] [[H6490\|פִקֻּודֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.87|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.86|<< Psalms 119:86]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.88|Psalms 119:88 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: Matthew 18:31
+type: Verse
+kjv: "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done."
+bsb: "When his fellow servants saw what had happened, they were greatly distressed, and they went and recounted all of this to their master."
+jesus_said: "So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done."
+greek: "Ἰδόντες οὖν οἱ σύνδουλοι αὐτοῦ τὰ γενόμενα ἐλυπήθησαν σφόδρα, καὶ ἐλθόντες διεσάφησαν τῷ κυρίῳ ἑαυτῶν πάντα τὰ γενόμενα.¶"
+pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[G1492H]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G4889]]"
+- "[[G0846]]"
+- "[[G1096]]"
+- "[[G3076]]"
+- "[[G4970]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1285]]"
+- "[[G2962H]]"
+- "[[G1438]]"
+- "[[G3956]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 18:31**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.
 <small><sub>**BSB:**</sub></small>
 When his fellow servants saw what had happened, they were greatly distressed, and they went and recounted all of this to their master.
-<small><sub>**Literal:**</sub></small>
-Having seen therefore the fellow servants of him the [things] having taken place they were grieved deeply, and having gone they narrated to the master of themselves all that having taken place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.30|<< Matthew 18:30]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.32|Matthew 18:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|Ἰδόντες]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G4889\|σύνδουλοι]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὰ]]  [[G1096\|γενόμενα]]  [[G3076\|ἐλυπήθησαν]]  [[G4970\|σφόδρα,]]  [[G2532\|καὶ]]  [[G2064\|ἐλθόντες]]  [[G1285\|διεσάφησαν]]  [[G3588\|τῷ]]  [[G2962H\|κυρίῳ]]  [[G1438\|ἑαυτῶν]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1096\|γενόμενα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MALICE|MALICE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.30|<< Matthew 18:30]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.32|Matthew 18:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

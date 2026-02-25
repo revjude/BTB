@@ -1,10 +1,58 @@
+---
+title: Acts 24:8
+type: Verse
+kjv: "Commanding his accusers to come unto thee: by examining of whom thyself mayest take knowledge of all these things, whereof we accuse him."
+bsb: "By examining him yourself, you will be able to learn the truth about all our charges against him.”"
+greek: "κελεύσας τοὺς κατηγόρους αὐτοῦ ἔρχεσθαι ἐπὶ σέ· παρ᾽ οὗ δυνήσῃ αὐτὸς ἀνακρίνας περὶ πάντων τούτων ἐπιγνῶναι ὧν ἡμεῖς κατηγοροῦμεν αὐτοῦ."
+pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADVOCATE|ADVOCATE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2753]]"
+- "[[G3588]]"
+- "[[G2725]]"
+- "[[G0846]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G3844]]"
+- "[[G3739]]"
+- "[[G1410]]"
+- "[[G0350]]"
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G3778]]"
+- "[[G1921]]"
+- "[[G3165]]"
+- "[[G2723]]"
+texts:
+- K
+- NKO
+---
+
 **Acts 24:8**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Commanding his accusers to come unto thee: by examining of whom thyself mayest take knowledge of all these things, whereof we accuse him.
 <small><sub>**BSB:**</sub></small>
 By examining him yourself, you will be able to learn the truth about all our charges against him.”
-<small><sub>**Literal:**</sub></small>
-having commanded the accusers of him to come upon you; From him you will be able yourself having examined [him] concerning all these things to know of which we ourselves accuse him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.7|<< Acts 24:7]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.9|Acts 24:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2753\|κελεύσας]]  [[G3588\|τοὺς]]  [[G2725\|κατηγόρους]]  [[G0846\|αὐτοῦ]]  [[G2064\|ἔρχεσθαι]]  [[G1909\|ἐπὶ]]  [[G4771\|σέ·]]  [[G3844\|παρ᾽]]  [[G3739\|οὗ]]  [[G1410\|δυνήσῃ]]  [[G0846\|αὐτὸς]]  [[G0350\|ἀνακρίνας]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G3778\|τούτων]]  [[G1921\|ἐπιγνῶναι]]  [[G3739\|ὧν]]  [[G3165\|ἡμεῖς]]  [[G2723\|κατηγοροῦμεν]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADVOCATE|ADVOCATE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.7|<< Acts 24:7]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.9|Acts 24:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

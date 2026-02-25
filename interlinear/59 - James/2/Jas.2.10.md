@@ -1,10 +1,59 @@
+---
+title: James 2:10
+type: Verse
+kjv: "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all."
+bsb: "Whoever keeps the whole law but stumbles at just one point is guilty of breaking all of it."
+greek: "ὅστις γὰρ ὅλον τὸν νόμον τηρήσῃ, πταίσῃ δὲ ἐν ἑνί, γέγονεν πάντων ἔνοχος."
+pericope: "[[Jas.2.1 A Warning against Favoritism|A Warning against Favoritism]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3748]]"
+- "[[G1063]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G5083G]]"
+- "[[G4417]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G1096]]"
+- "[[G3956]]"
+- "[[G1777]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **James 2:10**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For whosoever shall keep the whole law, and yet offend in one [point], he is guilty of all.
 <small><sub>**BSB:**</sub></small>
 Whoever keeps the whole law but stumbles at just one point is guilty of breaking all of it.
-<small><sub>**Literal:**</sub></small>
-Whoever for all the law may keep, may stumble but in one [point], he has become of all guilty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.9|<< James 2:9]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.11|James 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|ὅστις]]  [[G1063\|γὰρ]]  [[G3650\|ὅλον]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G5083G\|τηρήσῃ,]]  [[G4417\|πταίσῃ]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G1520\|ἑνί,]]  [[G1096\|γέγονεν]]  [[G3956\|πάντων]]  [[G1777\|ἔνοχος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RELIGION|RELIGION]] • [[topic SIN|SIN]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.9|<< James 2:9]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.11|James 2:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

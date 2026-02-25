@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Sower Explained
+type: Pericope
 pericope: "[[Matt.13.18 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 13
 book/chapter: "[[Matt.13|Matthew 13]]"
-genre:
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.13.18]]"
 - "[[Matt.13.19]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.13.23]]"
 ---
 
-[[Matt.13|Matthew 13:18 - Matthew 13:23]]
+<small>[[Matt.13|Matthew 13:18-23]]</small>
 *The Parable of the Sower Explained*
 
 [[Matt.13.18|18]] Hear ye therefore the parable of the sower.

@@ -1,8 +1,70 @@
+---
+title: Isaiah 9:19
+type: Verse
+kjv: "Through the wrath of the LORD of hosts is the land darkened, and the people shall be as the fuel of the fire: no man shall spare his brother."
+bsb: "By the wrath of the LORD of Hosts the land is scorched, and the people are fuel for the fire. No man even spares his brother."
+hebrew: "בְּעֶבְרַ֛ת יְהוָ֥ה צְבָא֖וֹת נֶעְתַּ֣ם אָ֑רֶץ וַיְהִ֤י הָעָם֙ כְּמַאֲכֹ֣לֶת אֵ֔שׁ אִ֥ישׁ אֶל־ אָחִ֖יו לֹ֥א יַחְמֹֽלוּ׃"
+pericope: "[[Isa.9.18 Judgment against Israel’s Unrepentance|Judgment against Israel’s Unrepentance]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 9
+book/chapter: "[[Isa.9|Isaiah 9]]"
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H5678]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H6272]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H3980]]"
+- "[[H0784]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H2550]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 9:19**<big><big>[[Isa.9.18 Judgment against Israel’s Unrepentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Through the wrath of the LORD of hosts is the land darkened, and the people shall be as the fuel of the fire: no man shall spare his brother.
 <small><sub>**BSB:**</sub></small>
 By the wrath of the LORD of Hosts the land is scorched, and the people are fuel for the fire. No man even spares his brother.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5678\|עֶבְרַ֛ת]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H6272\|נֶעְתַּ֣ם]] [[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9004\|כְּ]][[H3980\|מַאֲכֹ֣לֶת]] [[H0784\|אֵ֔שׁ]] [[H0376I\|אִ֥ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0251I\|אָחִ֖י]][[H9023\|ו]] [[H3808\|לֹ֥א]] [[H2550\|יַחְמֹֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COLORS|COLORS]] • [[topic EPHRAIM|EPHRAIM]] • [[topic FAMINE|FAMINE]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.18|<< Isaiah 9:18]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.20|Isaiah 9:20 >>]]</td></tr></table>
 

@@ -1,10 +1,67 @@
+---
+title: 1 Corinthians 16:2
+type: Verse
+kjv: "Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come."
+bsb: "On the first day of every week, each of you should set aside a portion of his income, saving it up, so that when I come no collections will be needed."
+greek: "κατὰ μίαν σαββάτου ἕκαστος ὑμῶν παρ᾽ ἑαυτῷ τιθέτω θησαυρίζων ὅ τι ἐὰν εὐοδῶται, ἵνα μὴ ὅταν ἔλθω τότε λογεῖαι γίνωνται."
+pericope: "[[1Cor.16.1 The Collection for the Saints|The Collection for the Saints]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GIVING|GIVING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[G2596]]"
+- "[[G1520]]"
+- "[[G4521]]"
+- "[[G1538]]"
+- "[[G4771]]"
+- "[[G3844]]"
+- "[[G1438]]"
+- "[[G5087]]"
+- "[[G2343]]"
+- "[[G3739]]"
+- "[[G5100]]"
+- "[[G1437]]"
+- "[[G2137]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3752]]"
+- "[[G2064]]"
+- "[[G5119]]"
+- "[[G3048]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **1 Corinthians 16:2**<big><big>[[1Cor.16.1 The Collection for the Saints|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Upon the first [day] of the week let every one of you lay by him in store, as [God] hath prospered him, that there be no gatherings when I come.
 <small><sub>**BSB:**</sub></small>
 On the first day of every week, each of you should set aside a portion of his income, saving it up, so that when I come no collections will be needed.
-<small><sub>**Literal:**</sub></small>
-Every first Sabbath each of you aside of his own  should put treasuring up which one maybe he shall be successful, so that not when I may come then collections there may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.1|<< 1 Corinthians 16:1]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.3|1 Corinthians 16:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατὰ]]  [[G1520\|μίαν]]  [[G4521\|σαββάτου]]  [[G1538\|ἕκαστος]]  [[G4771\|ὑμῶν]]  [[G3844\|παρ᾽]]  [[G1438\|ἑαυτῷ]]  [[G5087\|τιθέτω]]  [[G2343\|θησαυρίζων]]  [[G3739\|ὅ]]  [[G5100\|τι]]  [[G1437\|ἐὰν]]  [[G2137\|εὐοδῶται,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3752\|ὅταν]]  [[G2064\|ἔλθω]]  [[G5119\|τότε]]  [[G3048\|λογεῖαι]]  [[G1096\|γίνωνται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic BLESSING|BLESSING]] • [[topic GIVING|GIVING]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.1|<< 1 Corinthians 16:1]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.3|1 Corinthians 16:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

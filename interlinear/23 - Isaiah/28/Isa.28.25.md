@@ -1,8 +1,71 @@
+---
+title: Isaiah 28:25
+type: Verse
+kjv: "When he hath made plain the face thereof, doth he not cast abroad the fitches, and scatter the cummin, and cast in the principal wheat and the appointed barley and the rie in their place?"
+bsb: "When he has leveled its surface, does he not sow caraway and scatter cumin? He plants wheat in rows and barley in plots, and rye within its border."
+hebrew: "הֲלוֹא֙ אִם־ שִׁוָּ֣ה פָנֶ֔יהָ וְהֵפִ֥יץ קֶ֖צַח וְכַמֹּ֣ן יִזְרֹ֑ק וְשָׂ֨ם חִטָּ֤ה שׂוֹרָה֙ וּשְׂעֹרָ֣ה נִסְמָ֔ן וְכֻסֶּ֖מֶת גְּבֻלָתֽוֹ׃"
+pericope: "[[Isa.28.23 Listen and Hear|Listen and Hear]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CUMMIN|CUMMIN]]"
+- "[[topic FITCH|FITCH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic RYE (SPELT, R. V.)|RYE (SPELT, R. V.)]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7737A]]"
+- "[[H6440J]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H6327A]]"
+- "[[H7100]]"
+- "[[H9002]]"
+- "[[H3646]]"
+- "[[H2236]]"
+- "[[H7760H]]"
+- "[[H2406]]"
+- "[[H7795]]"
+- "[[H8184]]"
+- "[[H5567]]"
+- "[[H3698]]"
+- "[[H1367]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:25**<big><big>[[Isa.28.23 Listen and Hear|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he hath made plain the face thereof, doth he not cast abroad the fitches, and scatter the cummin, and cast in the principal wheat and the appointed barley and the rie in their place?
 <small><sub>**BSB:**</sub></small>
 When he has leveled its surface, does he not sow caraway and scatter cumin? He plants wheat in rows and barley in plots, and rye within its border.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לוֹא֙]] [[H0518A\|אִם]][[H9014\|־]] [[H7737A\|שִׁוָּ֣ה]] [[H6440J\|פָנֶ֔י]][[H9024\|הָ]] [[H9001\|וְ]][[H6327A\|הֵפִ֥יץ]] [[H7100\|קֶ֖צַח]] [[H9002\|וְ]][[H3646\|כַמֹּ֣ן]] [[H2236\|יִזְרֹ֑ק]] [[H9001\|וְ]][[H7760H\|שָׂ֨ם]] [[H2406\|חִטָּ֤ה]] [[H7795\|שׂוֹרָה֙]] [[H9002\|וּ]][[H8184\|שְׂעֹרָ֣ה]] [[H5567\|נִסְמָ֔ן]] [[H9002\|וְ]][[H3698\|כֻסֶּ֖מֶת]] [[H1367\|גְּבֻלָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CUMMIN|CUMMIN]] • [[topic FITCH|FITCH]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PARABLES|PARABLES]] • [[topic RYE (SPELT, R. V.)|RYE (SPELT, R. V.)]] • [[topic SOWER|SOWER]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.24|<< Isaiah 28:24]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.26|Isaiah 28:26 >>]]</td></tr></table>
 

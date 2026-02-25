@@ -1,10 +1,63 @@
+---
+title: Matthew 16:4
+type: Verse
+kjv: "A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed."
+bsb: "A wicked and adulterous generation demands a sign, but none will be given it except the sign of Jonah.” Then He left them and went away."
+jesus_said: "A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas."
+greek: "γενεὰ πονηρὰ καὶ μοιχαλὶς σημεῖον ἐπιζητεῖ· καὶ σημεῖον οὐ δοθήσεται αὐτῇ εἰ μὴ τὸ σημεῖον Ἰωνᾶ τοῦ προφήτου. καὶ καταλιπὼν αὐτοὺς ἀπῆλθεν.¶"
+pericope: "[[Matt.16.1 The Demand for a Sign|The Demand for a Sign]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JONAH|JONAH]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G1074]]"
+- "[[G4190]]"
+- "[[G2532]]"
+- "[[G3428]]"
+- "[[G4592]]"
+- "[[G1934]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G2495H]]"
+- "[[G4396]]"
+- "[[G2641]]"
+- "[[G0565]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 16:4**<big><big>[[Matt.16.1 The Demand for a Sign|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed.
 <small><sub>**BSB:**</sub></small>
 A wicked and adulterous generation demands a sign, but none will be given it except the sign of Jonah.” Then He left them and went away.
-<small><sub>**Literal:**</sub></small>
-A generation evil and adulterous a sign seeks; and a sign not will be given to it only except the sign of Jonah <the> prophet. And having left them He went away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.3|<< Matthew 16:3]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.5|Matthew 16:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1074\|γενεὰ]]  [[G4190\|πονηρὰ]]  [[G2532\|καὶ]]  [[G3428\|μοιχαλὶς]]  [[G4592\|σημεῖον]]  [[G1934\|ἐπιζητεῖ·]]  [[G2532\|καὶ]]  [[G4592\|σημεῖον]]  [[G3756\|οὐ]]  [[G1325\|δοθήσεται]]  [[G0846\|αὐτῇ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τὸ]]  [[G4592\|σημεῖον]]  [[G2495H\|Ἰωνᾶ]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου.]]  [[G2532\|καὶ]]  [[G2641\|καταλιπὼν]]  [[G0846\|αὐτοὺς]]  [[G0565\|ἀπῆλθεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JONAH|JONAH]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic SIGN|SIGN]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.3|<< Matthew 16:3]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.5|Matthew 16:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 16:4** is...
 > $\quad$ alluding to: [[LXX.Jonah.1.17|Jonah 1:17]]

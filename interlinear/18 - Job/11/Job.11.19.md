@@ -1,8 +1,53 @@
+---
+title: Job 11:19
+type: Verse
+kjv: "Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee."
+bsb: "You will lie down without fear, and many will court your favor."
+hebrew: "וְֽ֭רָבַצְתָּ וְאֵ֣ין מַחֲרִ֑יד וְחִלּ֖וּ פָנֶ֣יךָ רַבִּֽים׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7257]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H2729]]"
+- "[[H2470B]]"
+- "[[H6440L]]"
+- "[[H9021]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:19**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also thou shalt lie down, and none shall make [thee] afraid; yea, many shall make suit unto thee.
 <small><sub>**BSB:**</sub></small>
 You will lie down without fear, and many will court your favor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ֭]][[H7257\|רָבַצְתָּ]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H2729\|מַחֲרִ֑יד]] [[H9001\|וְ]][[H2470B\|חִלּ֖וּ]] [[H6440L\|פָנֶ֣י]][[H9021\|ךָ]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.18|<< Job 11:18]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.20|Job 11:20 >>]]</td></tr></table>
 

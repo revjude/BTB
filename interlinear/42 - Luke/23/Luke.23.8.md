@@ -1,10 +1,71 @@
+---
+title: Luke 23:8
+type: Verse
+kjv: "And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long season, because he had heard many things of him; and he hoped to have seen some miracle done by him."
+bsb: "When Herod saw Jesus, he was greatly pleased. He had wanted to see Him for a long time, because he had heard about Him and was hoping to see Him perform a miracle."
+greek: "Ὁ δὲ Ἡρῴδης ἰδὼν τὸν Ἰησοῦν ἐχάρη λίαν· ἦν γὰρ ἐξ ἱκανῶν χρόνων θέλων ἰδεῖν αὐτὸν διὰ τὸ ἀκούειν πολλὰ περὶ αὐτοῦ καὶ ἤλπιζέν τι σημεῖον ἰδεῖν ὑπ᾽ αὐτοῦ γινόμενον."
+pericope: "[[Luke.23.6 Jesus before Herod|Jesus before Herod]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2264H]]"
+- "[[G1492H]]"
+- "[[G2424G]]"
+- "[[G5463]]"
+- "[[G3029]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G1537]]"
+- "[[G2425]]"
+- "[[G5550]]"
+- "[[G2309]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G0191]]"
+- "[[G4183]]"
+- "[[G4012]]"
+- "[[G2532]]"
+- "[[G1679]]"
+- "[[G5100]]"
+- "[[G4592]]"
+- "[[G5259G]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Luke 23:8**<big><big>[[Luke.23.6 Jesus before Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Herod saw Jesus, he was exceeding glad: for he was desirous to see him of a long [season], because he had heard many things of him; and he hoped to have seen some miracle done by him.
 <small><sub>**BSB:**</sub></small>
 When Herod saw Jesus, he was greatly pleased. He had wanted to see Him for a long time, because he had heard about Him and was hoping to see Him perform a miracle.
-<small><sub>**Literal:**</sub></small>
-<the> And Herod having seen <the> Jesus [was] glad exceedingly; he was for of long time wishing to see Him because of <the> hearing many things concerning Him and he was hoping some sign to see by Him done.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.7|<< Luke 23:7]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.9|Luke 23:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2264H\|Ἡρῴδης]]  [[G1492H\|ἰδὼν]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G5463\|ἐχάρη]]  [[G3029\|λίαν·]]  [[G1510\|ἦν]]  [[G1063\|γὰρ]]  [[G1537\|ἐξ]]  [[G2425\|ἱκανῶν]]  [[G5550\|χρόνων]]  [[G2309\|θέλων]]  [[G1492H\|ἰδεῖν]]  [[G0846\|αὐτὸν]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G0191\|ἀκούειν]]  [[G4183\|πολλὰ]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1679\|ἤλπιζέν]]  [[G5100\|τι]]  [[G4592\|σημεῖον]]  [[G1492H\|ἰδεῖν]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτοῦ]]  [[G1096\|γινόμενον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURIOSITY|CURIOSITY]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.7|<< Luke 23:7]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.9|Luke 23:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: John’s Testimony about Jesus
+type: Pericope
 pericope: "[[John.3.22 John’s Testimony about Jesus|John’s Testimony about Jesus]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: John
 chapter: 3
 book/chapter: "[[John.3|John 3]]"
-genre:
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 15
 verses:
 - "[[John.3.22]]"
 - "[[John.3.23]]"
@@ -33,7 +40,7 @@ verses:
 - "[[John.3.36]]"
 ---
 
-[[John.3|John 3:22 - John 3:36]]
+<small>[[John.3|John 3:22-36]]</small>
 *John’s Testimony about Jesus*
 
 [[John.3.22|22]] After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.

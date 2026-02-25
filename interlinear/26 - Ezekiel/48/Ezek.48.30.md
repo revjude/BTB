@@ -1,8 +1,53 @@
+---
+title: Ezekiel 48:30
+type: Verse
+kjv: "And these are the goings out of the city on the north side, four thousand and five hundred measures."
+bsb: "“These will be the exits of the city: Beginning on the north side, which will be 4,500 cubits long,"
+hebrew: "וְאֵ֖לֶּה תּוֹצְאֹ֣ת הָעִ֑יר מִפְּאַ֣ת צָפ֔וֹן חֲמֵ֥שׁ מֵא֛וֹת וְאַרְבַּ֥עַת אֲלָפִ֖ים מִדָּֽה׃"
+pericope: "[[Ezek.48.30 The City Gates and Dimensions|The City Gates and Dimensions]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8444]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9006]]"
+- "[[H6285]]"
+- "[[H6828G]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H4060A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:30**<big><big>[[Ezek.48.30 The City Gates and Dimensions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the goings out of the city on the north side, four thousand and five hundred measures.
 <small><sub>**BSB:**</sub></small>
 “These will be the exits of the city: Beginning on the north side, which will be 4,500 cubits long,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֖לֶּה]] [[H8444\|תּוֹצְאֹ֣ת]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9006\|מִ]][[H6285\|פְּאַ֣ת]] [[H6828G\|צָפ֔וֹן]] [[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵא֛וֹת]] [[H9002\|וְ]][[H0702\|אַרְבַּ֥עַת]] [[H0505G\|אֲלָפִ֖ים]] [[H4060A\|מִדָּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.29|<< Ezekiel 48:29]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.31|Ezekiel 48:31 >>]]</td></tr></table>
 

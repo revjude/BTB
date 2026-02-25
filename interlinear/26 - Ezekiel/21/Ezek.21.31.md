@@ -1,8 +1,60 @@
+---
+title: Ezekiel 21:31
+type: Verse
+kjv: "And I will pour out mine indignation upon thee, I will blow against thee in the fire of my wrath, and deliver thee into the hand of brutish men, and skilful to destroy."
+bsb: "I will pour out My anger upon you; I will breathe the fire of My fury against you; I will hand you over to brutal men, skilled in destruction."
+hebrew: "וְשָׁפַכְתִּ֤י עָלַ֙יִךְ֙ זַעְמִ֔י בְּאֵ֥שׁ עֶבְרָתִ֖י אָפִ֣יחַ עָלָ֑יִךְ וּנְתַתִּ֗יךְ בְּיַד֙ אֲנָשִׁ֣ים בֹּֽעֲרִ֔ים חָרָשֵׁ֖י מַשְׁחִֽית׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H2195]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H5678]]"
+- "[[H6315]]"
+- "[[H5414N]]"
+- "[[H3027H]]"
+- "[[H0582]]"
+- "[[H1197B]]"
+- "[[H2796]]"
+- "[[H4889]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:31**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will pour out mine indignation upon thee, I will blow against thee in the fire of my wrath, and deliver thee into the hand of brutish men, [and] skilful to destroy.
 <small><sub>**BSB:**</sub></small>
 I will pour out My anger upon you; I will breathe the fire of My fury against you; I will hand you over to brutal men, skilled in destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8210G\|שָׁפַכְתִּ֤י]] [[H5921A\|עָלַ֙יִ]][[H9032\|ךְ֙]] [[H2195\|זַעְמִ֔]][[H9020\|י]] [[H9003\|בְּ]][[H0784\|אֵ֥שׁ]] [[H5678\|עֶבְרָתִ֖]][[H9020\|י]] [[H6315\|אָפִ֣יחַ]] [[H5921A\|עָלָ֑יִ]][[H9032\|ךְ]] [[H9001\|וּ]][[H5414N\|נְתַתִּ֗י]][[H9032\|ךְ]] [[H9003\|בְּ]][[H3027H\|יַד֙]] [[H0582\|אֲנָשִׁ֣ים]] [[H1197B\|בֹּֽעֲרִ֔ים]] [[H2796\|חָרָשֵׁ֖י]] [[H4889\|מַשְׁחִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.30|<< Ezekiel 21:30]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.32|Ezekiel 21:32 >>]]</td></tr></table>
 

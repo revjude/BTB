@@ -1,8 +1,54 @@
+---
+title: Psalm 44:5
+type: Verse
+kjv: "Through thee will we push down our enemies: through thy name will we tread them under that rise up against us."
+bsb: "Through You we repel our foes; through Your name we trample our enemies."
+hebrew: "בְּ֭ךָ צָרֵ֣ינוּ נְנַגֵּ֑חַ בְּ֝שִׁמְךָ֗ נָב֥וּס קָמֵֽינוּ׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H6862C]]"
+- "[[H9025]]"
+- "[[H5055]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H0947]]"
+- "[[H6965B]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:5**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Through thee will we push down our enemies: through thy name will we tread them under that rise up against us.
 <small><sub>**BSB:**</sub></small>
 Through You we repel our foes; through Your name we trample our enemies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ֭]][[H9031\|ךָ]] [[H6862C\|צָרֵ֣י]][[H9025\|נוּ]] [[H5055\|נְנַגֵּ֑חַ]] [[H9003\|בְּ֝]][[H8034\|שִׁמְ]][[H9021\|ךָ֗]] [[H0947\|נָב֥וּס]] [[H6965B\|קָמֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.4|<< Psalms 44:4]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.6|Psalms 44:6 >>]]</td></tr></table>
 

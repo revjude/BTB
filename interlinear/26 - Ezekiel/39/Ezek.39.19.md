@@ -1,8 +1,59 @@
+---
+title: Ezekiel 39:19
+type: Verse
+kjv: "And ye shall eat fat till ye be full, and drink blood till ye be drunken, of my sacrifice which I have sacrificed for you."
+bsb: "At the sacrifice I am preparing, you will eat fat until you are gorged and drink blood until you are drunk."
+hebrew: "וַאֲכַלְתֶּם־ חֵ֣לֶב לְשָׂבְעָ֔ה וּשְׁתִ֥יתֶם דָּ֖ם לְשִׁכָּר֑וֹן מִזִּבְחִ֖י אֲשֶׁר־ זָבַ֥חְתִּי לָכֶֽם׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9014]]"
+- "[[H2459]]"
+- "[[H9005]]"
+- "[[H7654]]"
+- "[[H8354]]"
+- "[[H1818]]"
+- "[[H7943]]"
+- "[[H9006]]"
+- "[[H2077]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H2076]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:19**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall eat fat till ye be full, and drink blood till ye be drunken, of my sacrifice which I have sacrificed for you.
 <small><sub>**BSB:**</sub></small>
 At the sacrifice I am preparing, you will eat fat until you are gorged and drink blood until you are drunk.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0398\|אֲכַלְתֶּם]][[H9014\|־]] [[H2459\|חֵ֣לֶב]] [[H9005\|לְ]][[H7654\|שָׂבְעָ֔ה]] [[H9001\|וּ]][[H8354\|שְׁתִ֥יתֶם]] [[H1818\|דָּ֖ם]] [[H9005\|לְ]][[H7943\|שִׁכָּר֑וֹן]] [[H9006\|מִ]][[H2077\|זִּבְחִ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2076\|זָבַ֥חְתִּי]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.18|<< Ezekiel 39:18]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.20|Ezekiel 39:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

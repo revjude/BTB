@@ -1,10 +1,67 @@
+---
+title: Acts 14:17
+type: Verse
+kjv: "Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness."
+bsb: "Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”"
+greek: "καίτοι καίτοι οὐκ ἀμάρτυρον αὐτὸν ἀφῆκεν ἀγαθουργῶν, οὐρανόθεν ὑμῖν ὑετοὺς διδοὺς καὶ καιροὺς καρποφόρους, ἐμπιπλῶν τροφῆς καὶ εὐφροσύνης τὰς καρδίας ὑμῶν."
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5104]]"
+- "[[G3756]]"
+- "[[G0267]]"
+- "[[G0846]]"
+- "[[G0863G]]"
+- "[[G0014]]"
+- "[[G3771]]"
+- "[[G4771]]"
+- "[[G5205]]"
+- "[[G1325]]"
+- "[[G2540]]"
+- "[[G2593]]"
+- "[[G1705]]"
+- "[[G5160]]"
+- "[[G2167]]"
+- "[[G3588]]"
+- "[[G2588]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Acts 14:17**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless he left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food and gladness.
 <small><sub>**BSB:**</sub></small>
 Yet He has not left Himself without testimony to His goodness: He gives you rain from heaven and fruitful seasons, filling your hearts with food and gladness.”
-<small><sub>**Literal:**</sub></small>
-and yet not without witness Himself He has left doing good, from heaven to you rains giving and seasons fruitful, filling with food and gladness the hearts of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.16|<< Acts 14:16]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.18|Acts 14:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καίτοι]]  <sup><small>[[G5104\| [ • ] ]]</small></sup>  [[G3756\|οὐκ]]  [[G0267\|ἀμάρτυρον]]  [[G0846\|αὐτὸν]]  [[G0863G\|ἀφῆκεν]]  [[G0014\|ἀγαθουργῶν,]]  [[G3771\|οὐρανόθεν]]  [[G4771\|ὑμῖν]]  [[G5205\|ὑετοὺς]]  [[G1325\|διδοὺς]]  [[G2532\|καὶ]]  [[G2540\|καιροὺς]]  [[G2593\|καρποφόρους,]]  [[G1705\|ἐμπιπλῶν]]  [[G5160\|τροφῆς]]  [[G2532\|καὶ]]  [[G2167\|εὐφροσύνης]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic HOMAGE|HOMAGE]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic RELIGION|RELIGION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.16|<< Acts 14:16]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.18|Acts 14:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

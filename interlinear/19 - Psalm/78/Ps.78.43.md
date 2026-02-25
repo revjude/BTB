@@ -1,8 +1,58 @@
+---
+title: Psalm 78:43
+type: Verse
+kjv: "How he had wrought his signs in Egypt, and his wonders in the field of Zoan:"
+bsb: "when He performed His signs in Egypt and His wonders in the fields of Zoan."
+hebrew: "אֲשֶׁר־ שָׂ֣ם בְּ֭מִצְרַיִם אֹֽתוֹתָ֑יו וּ֝מוֹפְתָ֗יו בִּשְׂדֵה־ צֹֽעַן׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H0226G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H7704G]]"
+- "[[H6814]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:43**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How he had wrought his signs in Egypt, and his wonders in the field of Zoan:
 <small><sub>**BSB:**</sub></small>
 when He performed His signs in Egypt and His wonders in the fields of Zoan.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760H\|שָׂ֣ם]] [[H9003\|בְּ֭]][[H4714G\|מִצְרַיִם]] [[H0226G\|אֹֽתוֹתָ֑י]][[H9023\|ו]] [[H9002\|וּ֝]][[H4159\|מוֹפְתָ֗י]][[H9023\|ו]] [[H9003\|בִּ]][[H7704G\|שְׂדֵה]][[H9014\|־]] [[H6814\|צֹֽעַן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.42|<< Psalms 78:42]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.44|Psalms 78:44 >>]]</td></tr></table>
 

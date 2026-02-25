@@ -1,10 +1,56 @@
+---
+title: 1 John 5:8
+type: Verse
+kjv: "And there are three that bear witness in earth, the spirit, and the water, and the blood: and these three agree in one."
+bsb: "the Spirit, the water, and the blood—and these three are in agreement."
+greek: "καὶ τρεῖς εἰσιν οἱ μαρτυροῦντες ἕν τῇ γῇ, τὸ πνεῦμα καὶ τὸ ὕδωρ καὶ τὸ αἷμα, καὶ οἱ τρεῖς εἰς τὸ ἕν εἰσιν."
+pericope: "[[1John.5.1 Overcoming the World|Overcoming the World]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G5140]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3140]]"
+- "[[G1722]]"
+- "[[G1093G]]"
+- "[[G4151G]]"
+- "[[G5204]]"
+- "[[G0129G]]"
+- "[[G1519]]"
+- "[[G1520]]"
+texts:
+- K
+- NKO
+---
+
 **1 John 5:8**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there are three that bear witness in earth, the spirit, and the water, and the blood: and these three agree in one.
 <small><sub>**BSB:**</sub></small>
 the Spirit, the water, and the blood—and these three are in agreement.
-<small><sub>**Literal:**</sub></small>
-and three are those bearing testimony in the earth:  the Spirit and the water and the blood — and these three in <the> one are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.7|<< 1 John 5:7]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.9|1 John 5:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5140\|τρεῖς]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G3140\|μαρτυροῦντες]]  [[G1722\|ἕν]]  [[G3588\|τῇ]]  [[G1093G\|γῇ,]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5140\|τρεῖς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1520\|ἕν]]  [[G1510\|εἰσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.7|<< 1 John 5:7]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.9|1 John 5:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

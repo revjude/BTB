@@ -1,8 +1,58 @@
+---
+title: Jeremiah 23:11
+type: Verse
+kjv: "For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the LORD."
+bsb: "“For both prophet and priest are ungodly; even in My house I have found their wickedness,” declares the LORD."
+hebrew: "כִּֽי־ גַם־ נָבִ֥יא גַם־ כֹּהֵ֖ן חָנֵ֑פוּ גַּם־ בְּבֵיתִ֛י מָצָ֥אתִי רָעָתָ֖ם נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1571]]"
+- "[[H5030]]"
+- "[[H3548]]"
+- "[[H2610]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H9020]]"
+- "[[H4672]]"
+- "[[H7451I]]"
+- "[[H9028]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:11**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “For both prophet and priest are ungodly; even in My house I have found their wickedness,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1571\|גַם]][[H9014\|־]] [[H5030\|נָבִ֥יא]] [[H1571\|גַם]][[H9014\|־]] [[H3548\|כֹּהֵ֖ן]] [[H2610\|חָנֵ֑פוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H9003\|בְּ]][[H1004Q\|בֵיתִ֛]][[H9020\|י]] [[H4672\|מָצָ֥אתִי]] [[H7451I\|רָעָתָ֖]][[H9028\|ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.10|<< Jeremiah 23:10]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.12|Jeremiah 23:12 >>]]</td></tr></table>
 

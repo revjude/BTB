@@ -1,10 +1,59 @@
+---
+title: John 16:26
+type: Verse
+kjv: "At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:"
+bsb: "In that day you will ask in My name. I am not saying that I will ask the Father on your behalf."
+jesus_said: "At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:"
+greek: "ἐν ἐκείνῃ τῇ ἡμέρᾳ ἐν τῷ ὀνόματί μου αἰτήσεσθε· καὶ οὐ λέγω ὑμῖν ὅτι ἐγὼ ἐρωτήσω τὸν πατέρα περὶ ὑμῶν·"
+pericope: "[[John.16.23 Ask in My Name|Ask in My Name]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G0154]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G2065]]"
+- "[[G3962]]"
+- "[[G4012]]"
+texts:
+- NKO
+---
+
 **John 16:26**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:
 <small><sub>**BSB:**</sub></small>
 In that day you will ask in My name. I am not saying that I will ask the Father on your behalf.
-<small><sub>**Literal:**</sub></small>
-In that [very] <the> day in the name of Me you will ask; and not I say to you that I myself will implore the Father for you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.25|<< John 16:25]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.27|John 16:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου]]  [[G0154\|αἰτήσεσθε·]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G2065\|ἐρωτήσω]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.25|<< John 16:25]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.27|John 16:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

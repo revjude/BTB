@@ -1,6 +1,65 @@
+---
+title: LXX Psalm 35:10
+type: Verse
+lxx: "All  my bones shall say, O lord, O lord, who is likened to you? rescuing the poor from the hand of the one more solid than he, and the poor and needy one from the ones tearing him in pieces."
+greek: "πάντα τα οστά μου ερούσι κύριε κύριε τις όμοιός σοι ρυόμενος πτωχόν εκ χειρός στερεωτέρων αυτού και πτωχόν και πένητα από των διαρπαζόντων αυτόν"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic POOR|POOR]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3747]]"
+- "[[G1473]]"
+- "[[G2046]]"
+- "[[G2962]]"
+- "[[G2962]]"
+- "[[G5100]]"
+- "[[G3664]]"
+- "[[G1473]]"
+- "[[G4506]]"
+- "[[G4434]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G4731]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4434]]"
+- "[[G2532]]"
+- "[[G3993]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1283]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 35:10** 
 <small><sub>**LXX:**</sub></small>
 All  my bones shall say, O <span class="smallcaps">lord</span>, O <span class="smallcaps">lord</span>, who \[is\] likened to you? rescuing \[the\] poor from \[the\] hand \[of the one\] more solid than he, and \[the\] poor and needy one from the ones tearing him in pieces. 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]] [[G3588\|τα]] [[G3747\|οστά]] [[G1473\|μου]] [[G2046\|ερούσι]] [[G2962\|κύριε]] [[G2962\|κύριε]] [[G5100\|τις]] [[G3664\|όμοιός]] [[G1473\|σοι]] [[G4506\|ρυόμενος]] [[G4434\|πτωχόν]] [[G1537\|εκ]] [[G5495\|χειρός]] [[G4731\|στερεωτέρων]] [[G1473\|αυτού]] [[G2532\|και]] [[G4434\|πτωχόν]] [[G2532\|και]] [[G3993\|πένητα]] [[G0575\|από]] [[G3588\|των]] [[G1283\|διαρπαζόντων]] [[G1473\|αυτόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic FAITH|FAITH]] • [[topic POOR|POOR]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.35.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.9|<< Psalm 35:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.11|Psalm 35:11 >>]]</td></tr></table>
 
@@ -28,6 +87,6 @@ All  my bones shall say, O <span class="smallcaps">lord</span>, O <span class="s
 | from | **<big>[[G0575\|από]]</big>** |
 | the ones | **<big>[[G3588\|των]]</big>** |
 | tearing him in pieces. | **<big>[[G1283\|διαρπαζόντων]]</big>** **<big>[[G1473\|αυτόν]]</big>** |
-[[Ps.35.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.9|<< Psalm 35:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.11|Psalm 35:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.9|<< Psalm 35:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.11|Psalm 35:11 >>]]</td></tr></table>
 
 

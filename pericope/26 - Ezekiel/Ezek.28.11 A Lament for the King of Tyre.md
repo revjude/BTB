@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Lament for the King of Tyre
+type: Pericope
 pericope: "[[Ezek.28.11 A Lament for the King of Tyre|A Lament for the King of Tyre]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 28
 book/chapter: "[[Ezek.28|Ezekiel 28]]"
-genre:
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 9
 verses:
 - "[[Ezek.28.11]]"
 - "[[Ezek.28.12]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezek.28.19]]"
 ---
 
-[[Ezek.28|Ezekiel 28:11 - Ezekiel 28:19]]
+<small>[[Ezek.28|Ezekiel 28:11-19]]</small>
 *A Lament for the King of Tyre*
 
 [[Ezek.28.11|11]] Moreover the word of the LORD came unto me, saying,

@@ -1,10 +1,52 @@
+---
+title: 1 Corinthians 9:8
+type: Verse
+kjv: "Say I these things as a man? or saith not the law the same also?"
+bsb: "Do I say this from a human perspective? Doesn’t the Law say the same thing?"
+greek: "μὴ κατὰ ἄνθρωπον ταῦτα λαλῶ; ἢ καὶ ὁ νόμος ταῦτα οὐ λέγει;"
+pericope: "[[1Cor.9.1 The Rights of an Apostle|The Rights of an Apostle]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EVIL|EVIL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3361]]"
+- "[[G2596]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G2980]]"
+- "[[G2228]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3756]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 9:8**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Say I these things as a man? or saith not the law the same also?
 <small><sub>**BSB:**</sub></small>
 Do I say this from a human perspective? Doesn’t the Law say the same thing?
-<small><sub>**Literal:**</sub></small>
-Not according to man these things do I speak? Or also the law these things not says?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.7|<< 1 Corinthians 9:7]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.9|1 Corinthians 9:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G2596\|κατὰ]]  [[G0444\|ἄνθρωπον]]  [[G3778\|ταῦτα]]  [[G2980\|λαλῶ;]]  [[G2228\|ἢ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G3778\|ταῦτα]]  [[G3756\|οὐ]]  [[G3004G\|λέγει;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL|EVIL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.7|<< 1 Corinthians 9:7]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.9|1 Corinthians 9:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

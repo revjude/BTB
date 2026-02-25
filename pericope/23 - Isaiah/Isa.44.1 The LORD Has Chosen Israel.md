@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Has Chosen Israel
+type: Pericope
 pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 44
 book/chapter: "[[Isa.44|Isaiah 44]]"
-genre:
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 20
 verses:
 - "[[Isa.44.1]]"
 - "[[Isa.44.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Isa.44.20]]"
 ---
 
-[[Isa.44|Isaiah 44:1 - Isaiah 44:20]]
+<small>[[Isa.44|Isaiah 44:1-20]]</small>
 *The LORD Has Chosen Israel*
 
 [[Isa.44.1|1]] Yet now hear, O Jacob my servant; and Israel, whom I have chosen:

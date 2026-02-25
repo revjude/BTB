@@ -1,8 +1,56 @@
+---
+title: Job 35:6
+type: Verse
+kjv: "If thou sinnest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?"
+bsb: "If you sin, what do you accomplish against Him? If you multiply your transgressions, what do you do to Him?"
+hebrew: "אִם־ חָ֭טָאתָ מַה־ תִּפְעָל־ בּ֑וֹ וְרַבּ֥וּ פְ֝שָׁעֶ֗יךָ מַה־ תַּעֲשֶׂה־ לּֽוֹ׃"
+pericope: "[[Job.35.1 Elihu Recalls God’s Justice|Elihu Recalls God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 35
+book/chapter: "[[Job.35|Job 35]]"
+chronological_order: 46
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2398]]"
+- "[[H4100]]"
+- "[[H6466]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H7231]]"
+- "[[H6588]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 35:6**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou sinnest, what doest thou against him? or [if] thy transgressions be multiplied, what doest thou unto him?
 <small><sub>**BSB:**</sub></small>
 If you sin, what do you accomplish against Him? If you multiply your transgressions, what do you do to Him?
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2398\|חָ֭טָאתָ]] [[H4100\|מַה]][[H9014\|־]] [[H6466\|תִּפְעָל]][[H9014\|־]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H7231\|רַבּ֥וּ]] [[H6588\|פְ֝שָׁעֶ֗י]][[H9021\|ךָ]] [[H4100\|מַה]][[H9014\|־]] [[H6213A\|תַּעֲשֶׂה]][[H9014\|־]] [[H9005\|לּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.5|<< Job 35:5]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.7|Job 35:7 >>]]</td></tr></table>
 

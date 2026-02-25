@@ -1,8 +1,83 @@
+---
+title: 1 Chronicles 5:26
+type: Verse
+kjv: "And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day."
+bsb: "So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tiglath-pileser king of Assyria) to take the Reubenites, the Gadites, and the half-tribe of Manasseh into exile. And he brought them to Halah, Habor, Hara, and the river of Gozan, where they remain to this day."
+hebrew: "וַיָּעַר֩ אֱלֹהֵ֨י יִשְׂרָאֵ֜ל אֶת־ ר֣וּחַ׀ פּ֣וּל מֶֽלֶךְ־ אַשּׁ֗וּר וְאֶת־ ר֙וּחַ֙ תִּלְּגַ֤ת פִּלְנֶ֙סֶר֙ מֶ֣לֶךְ אַשּׁ֔וּר וַיַּגְלֵם֙ לָראוּבֵנִ֣י וְלַגָּדִ֔י וְלַחֲצִ֖י שֵׁ֣בֶט מְנַשֶּׁ֑ה וַ֠יְבִיאֵם לַחְלַ֨ח וְחָב֤וֹר וְהָרָא֙ וּנְהַ֣ר גּוֹזָ֔ן עַ֖ד הַיּ֥וֹם הַזֶּֽה׃ פ"
+pericope: "[[1Chr.5.23 The Half-Tribe of Manasseh|The Half-Tribe of Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic GAD|GAD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOZAN|GOZAN]]"
+- "[[topic HABOR|HABOR]]"
+- "[[topic HALAH|HALAH]]"
+- "[[topic HARA|HARA]]"
+- "[[topic PUL|PUL]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic TIGLATH-PILESER|TIGLATH-PILESER]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5782]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H9015]]"
+- "[[H6322G]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9002]]"
+- "[[H8407]]"
+- "[[H1540K]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H7206]]"
+- "[[H1425]]"
+- "[[H2677]]"
+- "[[H7626G]]"
+- "[[H4519G]]"
+- "[[H0935P]]"
+- "[[H2477]]"
+- "[[H2249]]"
+- "[[H2024]]"
+- "[[H5104H]]"
+- "[[H1470]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:26**<big><big>[[1Chr.5.23 The Half-Tribe of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgathpilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day.
 <small><sub>**BSB:**</sub></small>
 So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tiglath-pileser king of Assyria) to take the Reubenites, the Gadites, and the half-tribe of Manasseh into exile. And he brought them to Halah, Habor, Hara, and the river of Gozan, where they remain to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5782\|יָּעַר֩]] [[H0430G\|אֱלֹהֵ֨י]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֣וּחַ]][[H9015\|׀]] [[H6322G\|פּ֣וּל]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֗וּר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֙וּחַ֙]] [[H8407\|תִּלְּגַ֤ת]] [[H8407\|פִּלְנֶ֙סֶר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֔וּר]] [[H9001\|וַ]][[H1540K\|יַּגְלֵ]][[H9038\|ם֙]] [[H9005\|לָ]][[H7206\|ראוּבֵנִ֣י]] [[H9002\|וְ]][[H9005\|לַ]][[H1425\|גָּדִ֔י]] [[H9002\|וְ]][[H9005\|לַ]][[H2677\|חֲצִ֖י]] [[H7626G\|שֵׁ֣בֶט]] [[H4519G\|מְנַשֶּׁ֑ה]] [[H9001\|וַ֠]][[H0935P\|יְבִיאֵ]][[H9038\|ם]] [[H9005\|לַ]][[H2477\|חְלַ֨ח]] [[H9002\|וְ]][[H2249\|חָב֤וֹר]] [[H9002\|וְ]][[H2024\|הָרָא֙]] [[H9002\|וּ]][[H5104H\|נְהַ֣ר]] [[H1470\|גּוֹזָ֔ן]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic GAD|GAD]] • [[topic GOD|GOD]] • [[topic GOZAN|GOZAN]] • [[topic HABOR|HABOR]] • [[topic HALAH|HALAH]] • [[topic HARA|HARA]] • [[topic PUL|PUL]] • [[topic REUBENITES|REUBENITES]] • [[topic TIGLATH-PILESER|TIGLATH-PILESER]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.25|<< 1 Chronicles 5:25]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.1|1 Chronicles 6:1 >>]]</td></tr></table>
 
@@ -36,7 +111,7 @@ So the God of Israel stirred up the spirit of Pul king of Assyria (that is, Tigl
 | Gozan  |**<big>&#8207;[[H1470\|גּוֹזָ֔ן]]&#8207; </big>**| go.Zan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | until  |**<big>&#8207;[[H5704\|עַ֖ד]]&#8207; </big>**| 'ad<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117L\|יּ֥וֹם]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.25|<< 1 Chronicles 5:25]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.1|1 Chronicles 6:1 >>]]</td></tr></table>
 
 

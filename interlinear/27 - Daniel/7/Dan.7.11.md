@@ -1,8 +1,70 @@
+---
+title: Daniel 7:11
+type: Verse
+kjv: "I beheld then because of the voice of the great words which the horn spake: I beheld even till the beast was slain, and his body destroyed, and given to the burning flame."
+bsb: "Then I kept watching because of the arrogant words the horn was speaking. As I continued to watch, the beast was slain, and its body was destroyed and thrown into the blazing fire."
+aramaic: "חָזֵ֣ה הֲוֵ֔ית בֵּאדַ֗יִן מִן־ קָל֙ מִלַּיָּ֣א רַבְרְבָתָ֔א דִּ֥י קַרְנָ֖א מְמַלֱּלָ֑ה חָזֵ֣ה הֲוֵ֡ית עַד֩ דִּ֨י קְטִילַ֤ת חֵֽיוְתָא֙ וְהוּבַ֣ד גִּשְׁמַ֔הּ וִיהִיבַ֖ת לִיקֵדַ֥ת אֶשָּֽׁא׃"
+pericope: "[[Dan.7.9 Daniel’s Vision of the Ancient of Days|Daniel’s Vision of the Ancient of Days]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HORN|HORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NATION|NATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H2370]]"
+- "[[H1934]]"
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H7032G]]"
+- "[[H4406]]"
+- "[[H9010]]"
+- "[[H7260]]"
+- "[[H1768]]"
+- "[[H7162]]"
+- "[[H4449]]"
+- "[[H5705]]"
+- "[[H6992]]"
+- "[[H2423]]"
+- "[[H9002]]"
+- "[[H0007]]"
+- "[[H1655]]"
+- "[[H9024]]"
+- "[[H3052]]"
+- "[[H9005]]"
+- "[[H3346]]"
+- "[[H0785]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:11**<big><big>[[Dan.7.9 Daniel’s Vision of the Ancient of Days|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beheld then because of the voice of the great words which the horn spake: I beheld [even] till the beast was slain, and his body destroyed, and given to the burning flame.
 <small><sub>**BSB:**</sub></small>
 Then I kept watching because of the arrogant words the horn was speaking. As I continued to watch, the beast was slain, and its body was destroyed and thrown into the blazing fire.
+<small><sub>**Aramaic:**</sub></small>
+[[H2370\|חָזֵ֣ה]] [[H1934\|הֲוֵ֔ית]] [[H9003\|בֵּ]][[H0116\|אדַ֗יִן]] [[H4481\|מִן]][[H9014\|־]] [[H7032G\|קָל֙]] [[H4406\|מִלַּיָּ֣]][[H9010\|א]] [[H7260\|רַבְרְבָתָ֔]][[H9010\|א]] [[H1768\|דִּ֥י]] [[H7162\|קַרְנָ֖]][[H9010\|א]] [[H4449\|מְמַלֱּלָ֑ה]] [[H2370\|חָזֵ֣ה]] [[H1934\|הֲוֵ֡ית]] [[H5705\|עַד֩]] [[H1768\|דִּ֨י]] [[H6992\|קְטִילַ֤ת]] [[H2423\|חֵֽיוְתָ]][[H9010\|א֙]] [[H9002\|וְ]][[H0007\|הוּבַ֣ד]] [[H1655\|גִּשְׁמַ֔]][[H9024\|הּ]] [[H9002\|וִ]][[H3052\|יהִיבַ֖ת]] [[H9005\|לִ]][[H3346\|יקֵדַ֥ת]] [[H0785\|אֶשָּֽׁא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HORN|HORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NATION|NATION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.10|<< Daniel 7:10]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.12|Daniel 7:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

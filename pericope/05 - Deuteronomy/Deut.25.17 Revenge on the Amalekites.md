@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Revenge on the Amalekites
+type: Pericope
 pericope: "[[Deut.25.17 Revenge on the Amalekites|Revenge on the Amalekites]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 25
 book/chapter: "[[Deut.25|Deuteronomy 25]]"
-genre:
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,13 +26,14 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 3
 verses:
 - "[[Deut.25.17]]"
 - "[[Deut.25.18]]"
 - "[[Deut.25.19]]"
 ---
 
-[[Deut.25|Deuteronomy 25:17 - Deuteronomy 25:19]]
+<small>[[Deut.25|Deuteronomy 25:17-19]]</small>
 *Revenge on the Amalekites*
 
 [[Deut.25.17|17]] Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;

@@ -1,8 +1,71 @@
+---
+title: 1 Kings 1:19
+type: Verse
+kjv: "And he hath slain oxen and fat cattle and sheep in abundance, and hath called all the sons of the king, and Abiathar the priest, and Joab the captain of the host: but Solomon thy servant hath he not called."
+bsb: "And he has sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the other sons of the king, as well as Abiathar the priest and Joab the commander of the army. But he has not invited your servant Solomon."
+hebrew: "וַ֠יִּזְבַּח שׁ֥וֹר וּֽמְרִיא־ וְצֹאן֮ לָרֹב֒ וַיִּקְרָא֙ לְכָל־ בְּנֵ֣י הַמֶּ֔לֶךְ וּלְאֶבְיָתָר֙ הַכֹּהֵ֔ן וּלְיֹאָ֖ב שַׂ֣ר הַצָּבָ֑א וְלִשְׁלֹמֹ֥ה עַבְדְּךָ֖ לֹ֥א קָרָֽא׃"
+pericope: "[[1Kgs.1.11 Nathan and Bathsheba before David|Nathan and Bathsheba before David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H7794]]"
+- "[[H9002]]"
+- "[[H4806]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H7121G]]"
+- "[[H3605]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0054]]"
+- "[[H3548]]"
+- "[[H3097G]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H8010]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:19**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hath slain oxen and fat cattle and sheep in abundance, and hath called all the sons of the king, and Abiathar the priest, and Joab the captain of the host: but Solomon thy servant hath he not called.
 <small><sub>**BSB:**</sub></small>
 And he has sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the other sons of the king, as well as Abiathar the priest and Joab the commander of the army. But he has not invited your servant Solomon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H2076\|יִּזְבַּח]] [[H7794\|שׁ֥וֹר]] [[H9002\|וּֽ]][[H4806\|מְרִיא]][[H9014\|־]] [[H9002\|וְ]][[H6629G\|צֹאן֮]] [[H9005\|לָ]][[H7230\|רֹב֒]] [[H9001\|וַ]][[H7121G\|יִּקְרָא֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1121A\|בְּנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וּ]][[H9005\|לְ]][[H0054\|אֶבְיָתָר֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וּ]][[H9005\|לְ]][[H3097G\|יֹאָ֖ב]] [[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H6635A\|צָּבָ֑א]] [[H9002\|וְ]][[H9005\|לִ]][[H8010\|שְׁלֹמֹ֥ה]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H3808\|לֹ֥א]] [[H7121G\|קָרָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PETITION|PETITION]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.18|<< 1 Kings 1:18]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.20|1 Kings 1:20 >>]]</td></tr></table>
 

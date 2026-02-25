@@ -1,8 +1,85 @@
+---
+title: Deuteronomy 22:19
+type: Verse
+kjv: "And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days."
+bsb: "They are also to fine him a hundred shekels of silver and give them to the young woman’s father, because this man has given a virgin of Israel a bad name. And she shall remain his wife; he must not divorce her as long as he lives."
+hebrew: "וְעָנְשׁ֨וּ אֹת֜וֹ מֵ֣אָה כֶ֗סֶף וְנָתְנוּ֙ לַאֲבִ֣י הַֽנַּעֲרָ֔ה כִּ֤י הוֹצִיא֙ שֵׁ֣ם רָ֔ע עַ֖ל בְּתוּלַ֣ת יִשְׂרָאֵ֑ל וְלֽוֹ־ תִהְיֶ֣ה לְאִשָּׁ֔ה לֹא־ יוּכַ֥ל לְשַּׁלְּחָ֖הּ כָּל־ יָמָֽיו׃ ס"
+pericope: "[[Deut.22.13 Marriage Violations|Marriage Violations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic VIRGIN|VIRGIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6064]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3967]]"
+- "[[H3701G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H3588A]]"
+- "[[H3318H]]"
+- "[[H8034]]"
+- "[[H7451A]]"
+- "[[H5921A]]"
+- "[[H1330]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0802H]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H7971I]]"
+- "[[H9034]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- L(abh)
+---
+
 **Deuteronomy 22:19**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall amerce him in an hundred [shekels] of silver, and give [them] unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.
 <small><sub>**BSB:**</sub></small>
 They are also to fine him a hundred shekels of silver and give them to the young woman’s father, because this man has given a virgin of Israel a bad name. And she shall remain his wife; he must not divorce her as long as he lives.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6064\|עָנְשׁ֨וּ]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H3967\|מֵ֣אָה]] [[H3701G\|כֶ֗סֶף]] [[H9001\|וְ]][[H5414G\|נָתְנוּ֙]] [[H9005\|לַ]][[H0001G\|אֲבִ֣י]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָ֔ה]] [[H3588A\|כִּ֤י]] [[H3318H\|הוֹצִיא֙]] [[H8034\|שֵׁ֣ם]] [[H7451A\|רָ֔ע]] [[H5921A\|עַ֖ל]] [[H1330\|בְּתוּלַ֣ת]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H9005\|לֽ]][[H9033\|וֹ]][[H9014\|־]] [[H1961\|תִהְיֶ֣ה]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֔ה]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|יוּכַ֥ל]] [[H9005\|לְ]][[H7971I\|שַּׁלְּחָ֖]][[H9034\|הּ]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יָמָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic CHURCH|CHURCH]] • [[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HUSBAND|HUSBAND]] • [[topic SHEKEL|SHEKEL]] • [[topic SLANDER|SLANDER]] • [[topic VIRGIN|VIRGIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.18|<< Deuteronomy 22:18]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.20|Deuteronomy 22:20 >>]]</td></tr></table>
 
@@ -29,7 +106,7 @@ They are also to fine him a hundred shekels of silver and give them to the young
 | he will be able  |**<big>&#8207;[[H3201\|יוּכַ֥ל]]&#8207; </big>**| yu.Khal<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to send away her  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7971I\|שַּׁלְּחָ֖]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**[^1] | le.<small><sup>[[HR]]</sup></small> sha.le.Cha<small><sup>[[HVpcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad (allepo biblia benchayim)">L(abh)</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| days his  |**<big>&#8207;[[H3117G\|יָמָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| days his  |**<big>&#8207;[[H3117G\|יָמָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.Ma<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.18|<< Deuteronomy 22:18]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.20|Deuteronomy 22:20 >>]]</td></tr></table>
 
 [^1]: ABH spelled: **<span class="ashebrew"><big>לְשַׁלְּחָ֖/הּ</big></span>**

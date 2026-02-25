@@ -1,8 +1,50 @@
+---
+title: Proverbs 22:4
+type: Verse
+kjv: "By humility and the fear of the LORD are riches, and honour, and life."
+bsb: "The rewards of humility and the fear of the LORD are wealth and honor and life."
+hebrew: "עֵ֣קֶב עֲ֭נָוָה יִרְאַ֣ת יְהוָ֑ה עֹ֖שֶׁר וְכָב֣וֹד וְחַיִּֽים׃"
+pericope: "[[Prov.22.1 A Good Name|A Good Name]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H6118]]"
+- "[[H6038]]"
+- "[[H3374]]"
+- "[[H3068G]]"
+- "[[H6239]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 22:4**<big><big>[[Prov.22.1 A Good Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By humility [and] the fear of the LORD [are] riches, and honour, and life.
 <small><sub>**BSB:**</sub></small>
 The rewards of humility and the fear of the LORD are wealth and honor and life.
+<small><sub>**Hebrew:**</sub></small>
+[[H6118\|עֵ֣קֶב]] [[H6038\|עֲ֭נָוָה]] [[H3374\|יִרְאַ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H6239\|עֹ֖שֶׁר]] [[H9002\|וְ]][[H3519\|כָב֣וֹד]] [[H9002\|וְ]][[H2416E\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.3|<< Proverbs 22:3]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.5|Proverbs 22:5 >>]]</td></tr></table>
 

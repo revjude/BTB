@@ -1,8 +1,77 @@
+---
+title: Numbers 31:50
+type: Verse
+kjv: "We have therefore brought an oblation for the LORD, what every man hath gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the LORD."
+bsb: "So we have brought to the LORD an offering of the gold articles each man acquired—armlets, bracelets, rings, earrings, and necklaces—to make atonement for ourselves before the LORD.”"
+hebrew: "וַנַּקְרֵ֞ב אֶת־ קָרְבַּ֣ן יְהוָ֗ה אִישׁ֩ אֲשֶׁ֨ר מָצָ֤א כְלִֽי־ זָהָב֙ אֶצְעָדָ֣ה וְצָמִ֔יד טַבַּ֖עַת עָגִ֣יל וְכוּמָ֑ז לְכַפֵּ֥ר עַל־ נַפְשֹׁתֵ֖ינוּ לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Num.31.48 The Voluntary Offering|The Voluntary Offering]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BRACELET|BRACELET]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic JEWELS|JEWELS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic NECKLACE|NECKLACE]]"
+- "[[topic RING|RING]]"
+- "[[topic SPOILS|SPOILS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7133A]]"
+- "[[H3068G]]"
+- "[[H0376I]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H3627]]"
+- "[[H2091]]"
+- "[[H0685]]"
+- "[[H9002]]"
+- "[[H6781A]]"
+- "[[H2885]]"
+- "[[H5694]]"
+- "[[H3558]]"
+- "[[H9005]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H5315I]]"
+- "[[H9025]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:50**<big><big>[[Num.31.48 The Voluntary Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have therefore brought an oblation for the LORD, what every man hath gotten, of jewels of gold, chains, and bracelets, rings, earrings, and tablets, to make an atonement for our souls before the LORD.
 <small><sub>**BSB:**</sub></small>
 So we have brought to the LORD an offering of the gold articles each man acquired—armlets, bracelets, rings, earrings, and necklaces—to make atonement for ourselves before the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126H\|נַּקְרֵ֞ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבַּ֣ן]] [[H3068G\|יְהוָ֗ה]] [[H0376I\|אִישׁ֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H4672\|מָצָ֤א]] [[H3627\|כְלִֽי]][[H9014\|־]] [[H2091\|זָהָב֙]] [[H0685\|אֶצְעָדָ֣ה]] [[H9002\|וְ]][[H6781A\|צָמִ֔יד]] [[H2885\|טַבַּ֖עַת]] [[H5694\|עָגִ֣יל]] [[H9002\|וְ]][[H3558\|כוּמָ֑ז]] [[H9005\|לְ]][[H3722A\|כַפֵּ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H5315I\|נַפְשֹׁתֵ֖י]][[H9025\|נוּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BRACELET|BRACELET]] • [[topic CHAINS|CHAINS]] • [[topic GOLD|GOLD]] • [[topic JEWELS|JEWELS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic NECKLACE|NECKLACE]] • [[topic RING|RING]] • [[topic SPOILS|SPOILS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.49|<< Numbers 31:49]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.51|Numbers 31:51 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Ezra 10:44
+type: Verse
+kjv: "All these had taken strange wives: and some of them had wives by whom they had children."
+bsb: "All these men had married foreign women, and some of them had children by these wives."
+hebrew: "כָּל־ אֵ֕לֶּה נָשְׂאוּ נָשִׁ֣ים נָכְרִיּ֑וֹת וְיֵ֣שׁ מֵהֶ֣ם נָשִׁ֔ים וַיָּשִׂ֖ימוּ בָּנִֽים׃ פ"
+pericope: "[[Ezra.10.18 Those Guilty of Intermarriage|Those Guilty of Intermarriage]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 10
+book/chapter: "[[Ezra.10|Ezra 10]]"
+chronological_order: 912
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H5375U]]"
+- "[[H0802G]]"
+- "[[H5237]]"
+- "[[H9002]]"
+- "[[H3426]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H7760I]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezra 10:44**<big><big>[[Ezra.10.18 Those Guilty of Intermarriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these had taken strange wives: and [some] of them had wives by whom they had children.
 <small><sub>**BSB:**</sub></small>
 All these men had married foreign women, and some of them had children by these wives.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֕לֶּה]] [[H5375U\|נָשְׂאוּ]] [[H0802G\|נָשִׁ֣ים]] [[H5237\|נָכְרִיּ֑וֹת]] [[H9002\|וְ]][[H3426\|יֵ֣שׁ]] [[H9006\|מֵ]][[H9038\|הֶ֣ם]] [[H0802G\|נָשִׁ֔ים]] [[H9001\|וַ]][[H7760I\|יָּשִׂ֖ימוּ]] [[H1121A\|בָּנִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic AMORITES|AMORITES]] • [[topic CHURCH|CHURCH]] • [[topic DECISION|DECISION]] • [[topic JEBUSITES|JEBUSITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.10.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.43|<< Ezra 10:43]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.1|Nehemiah 1:1 >>]]</td></tr></table>
 
@@ -17,7 +69,7 @@ All these men had married foreign women, and some of them had children by these 
 | [were] some of \<the> them  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H9038\|הֶ֣ם]]&#8207; </big>**| me.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wives  |**<big>&#8207;[[H0802G\|נָשִׁ֔ים]]&#8207; </big>**| na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they [masc] had made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7760I\|יָּשִׂ֖ימוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Si.mu<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| children  |**<big>&#8207;[[H1121A\|בָּנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| children  |**<big>&#8207;[[H1121A\|בָּנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.10.43|<< Ezra 10:43]]</td><td align="center" style="border:none;">[[Ezra.10|Ezra 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.1|Nehemiah 1:1 >>]]</td></tr></table>
 
 [^1]: [the] takers  | **<big>[[H5375U|נֹשְׂאֵי]]</big> ** | na.se.'u<small><sup>[[HVqrmpc]]</sup></small> | K

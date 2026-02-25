@@ -1,10 +1,53 @@
+---
+title: Luke 24:45
+type: Verse
+kjv: "Then opened he their understanding, that they might understand the scriptures,"
+bsb: "Then He opened their minds to understand the Scriptures."
+greek: "τότε διήνοιξεν αὐτῶν τὸν νοῦν τοῦ συνιέναι τὰς γραφὰς"
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G5119]]"
+- "[[G1272]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3563]]"
+- "[[G4920]]"
+- "[[G1124]]"
+texts:
+- NKO
+---
+
 **Luke 24:45**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then opened he their understanding, that they might understand the scriptures,
 <small><sub>**BSB:**</sub></small>
 Then He opened their minds to understand the Scriptures.
-<small><sub>**Literal:**</sub></small>
-Then He opened their <the> mind <the> to understand the Scriptures<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.44|<< Luke 24:44]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.46|Luke 24:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G1272\|διήνοιξεν]]  [[G0846\|αὐτῶν]]  [[G3588\|τὸν]]  [[G3563\|νοῦν]]  [[G3588\|τοῦ]]  [[G4920\|συνιέναι]]  [[G3588\|τὰς]]  [[G1124\|γραφὰς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TYPES|TYPES]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.44|<< Luke 24:44]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.46|Luke 24:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

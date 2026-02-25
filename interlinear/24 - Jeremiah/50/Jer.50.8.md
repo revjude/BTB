@@ -1,8 +1,55 @@
+---
+title: Jeremiah 50:8
+type: Verse
+kjv: "Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks."
+bsb: "Flee from the midst of Babylon; depart from the land of the Chaldeans; be like the he-goats that lead the flock."
+hebrew: "נֻ֚דוּ מִתּ֣וֹךְ בָּבֶ֔ל וּמֵאֶ֥רֶץ כַּשְׂדִּ֖ים צֵ֑אוּ וִהְי֕וּ כְּעַתּוּדִ֖ים לִפְנֵי־ צֹֽאן׃"
+pericope: "[[Jer.50.4 Hope for Israel and Judah|Hope for Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H5110]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H3778]]"
+- "[[H3318G]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H6260]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 50:8**<big><big>[[Jer.50.4 Hope for Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove out of the midst of Babylon, and go forth out of the land of the Chaldeans, and be as the he goats before the flocks.
 <small><sub>**BSB:**</sub></small>
 Flee from the midst of Babylon; depart from the land of the Chaldeans; be like the he-goats that lead the flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H5110\|נֻ֚דוּ]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וּ]][[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H3778\|כַּשְׂדִּ֖ים]] [[H3318G\|צֵ֑אוּ]] [[H9002\|וִ]][[H1961\|הְי֕וּ]] [[H9004\|כְּ]][[H6260\|עַתּוּדִ֖ים]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H6629G\|צֹֽאן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.7|<< Jeremiah 50:7]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.9|Jeremiah 50:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

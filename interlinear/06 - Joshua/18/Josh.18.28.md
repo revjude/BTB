@@ -1,8 +1,69 @@
+---
+title: Joshua 18:28
+type: Verse
+kjv: "And Zelah, Eleph, and Jebusi, which is Jerusalem, Gibeath, and Kirjath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families."
+bsb: "Zelah, Haeleph, Jebus (that is, Jerusalem), Gibeah, and Kiriath-jearim—fourteen cities, along with their villages. This was the inheritance of the clans of the tribe of Benjamin."
+hebrew: "וְצֵלַ֡ע הָאֶ֜לֶף וְהַיְבוּסִ֨י הִ֤יא יְרֽוּשָׁלִַ֙ם֙ גִּבְעַ֣ת קִרְיַ֔ת עָרִ֥ים אַרְבַּֽע־ עֶשְׂרֵ֖ה וְחַצְרֵיהֶ֑ן זֹ֛את נַֽחֲלַ֥ת בְּנֵֽי־ בִנְיָמִ֖ן לְמִשְׁפְּחֹתָֽם׃ פ"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic ELEPH|ELEPH]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic ZELAH|ZELAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6762]]"
+- "[[H0507]]"
+- "[[H9009]]"
+- "[[H2983H]]"
+- "[[H1931]]"
+- "[[H3389]]"
+- "[[H1394]]"
+- "[[H7157]]"
+- "[[H5892B]]"
+- "[[H0702]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H2691B]]"
+- "[[H9029]]"
+- "[[H2063]]"
+- "[[H5159]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 18:28**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zelah, Eleph, and Jebusi, which [is] Jerusalem, Gibeath, [and] Kirjath; fourteen cities with their villages. This [is] the inheritance of the children of Benjamin according to their families.
 <small><sub>**BSB:**</sub></small>
 Zelah, Haeleph, Jebus (that is, Jerusalem), Gibeah, and Kiriath-jearim—fourteen cities, along with their villages. This was the inheritance of the clans of the tribe of Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6762\|צֵלַ֡ע]] [[H0507\|הָאֶ֜לֶף]] [[H9002\|וְ]][[H9009\|הַ]][[H2983H\|יְבוּסִ֨י]] [[H1931\|הִ֤יא]] [[H3389\|יְרֽוּשָׁלִַ֙ם֙]] [[H1394\|גִּבְעַ֣ת]] [[H7157\|קִרְיַ֔ת]] [[H5892B\|עָרִ֥ים]] [[H0702\|אַרְבַּֽע]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֖ה]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9029\|הֶ֑ן]] [[H2063\|זֹ֛את]] [[H5159\|נַֽחֲלַ֥ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H1144G\|בִנְיָמִ֖ן]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic ELEPH|ELEPH]] • [[topic GIBEAH|GIBEAH]] • [[topic JEBUSITES|JEBUSITES]] • [[topic JERUSALEM|JERUSALEM]] • [[topic ZELAH|ZELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.27|<< Joshua 18:27]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.1|Joshua 19:1 >>]]</td></tr></table>
 
@@ -23,7 +84,7 @@ Zelah, Haeleph, Jebus (that is, Jerusalem), Gibeah, and Kiriath-jearim—fourtee
 | [was] [the] inheritance of  |**<big>&#8207;[[H5159\|נַֽחֲלַ֥ת]]&#8207; </big>**| na.cha.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Benjamin  |**<big>&#8207;[[H1144G\|בִנְיָמִ֖ן]]&#8207; </big>**| vin.ya.Min<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to clans their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4940\|מִשְׁפְּחֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to clans their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4940\|מִשְׁפְּחֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.27|<< Joshua 18:27]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.1|Joshua 19:1 >>]]</td></tr></table>
 
 

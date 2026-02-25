@@ -1,8 +1,69 @@
+---
+title: Zechariah 10:2
+type: Verse
+kjv: "For the idols have spoken vanity, and the diviners have seen a lie, and have told false dreams; they comfort in vain: therefore they went their way as a flock, they were troubled, because there was no shepherd."
+bsb: "For idols speak deceit and diviners see illusions; they tell false dreams and offer empty comfort. Therefore the people wander like sheep, oppressed for lack of a shepherd."
+hebrew: "כִּ֧י הַתְּרָפִ֣ים דִּבְּרוּ־ אָ֗וֶן וְהַקּֽוֹסְמִים֙ חָ֣זוּ שֶׁ֔קֶר וַֽחֲלֹמוֹת֙ הַשָּׁ֣וא יְדַבֵּ֔רוּ הֶ֖בֶל יְנַֽחֵמ֑וּן עַל־ כֵּן֙ נָסְע֣וּ כְמוֹ־ צֹ֔אן יַעֲנ֖וּ כִּֽי־ אֵ֥ין רֹעֶֽה׃ פ"
+pericope: "[[Zech.10.1 Judah and Israel Will Be Restored|Judah and Israel Will Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 10
+book/chapter: "[[Zech.10|Zechariah 10]]"
+chronological_order: 866
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H8655]]"
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H0205G]]"
+- "[[H9002]]"
+- "[[H7080]]"
+- "[[H2372]]"
+- "[[H8267]]"
+- "[[H2472]]"
+- "[[H7723G]]"
+- "[[H1892]]"
+- "[[H5162G]]"
+- "[[H9013]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H5265]]"
+- "[[H3644G]]"
+- "[[H6629G]]"
+- "[[H6031B]]"
+- "[[H0369]]"
+- "[[H7462B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Zechariah 10:2**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the idols have spoken vanity, and the diviners have seen a lie, and have told false dreams; they comfort in vain: therefore they went their way as a flock, they were troubled, because [there was] no shepherd.
 <small><sub>**BSB:**</sub></small>
 For idols speak deceit and diviners see illusions; they tell false dreams and offer empty comfort. Therefore the people wander like sheep, oppressed for lack of a shepherd.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֧י]] [[H9009\|הַ]][[H8655\|תְּרָפִ֣ים]] [[H1696G\|דִּבְּרוּ]][[H9014\|־]] [[H0205G\|אָ֗וֶן]] [[H9002\|וְ]][[H9009\|הַ]][[H7080\|קּֽוֹסְמִים֙]] [[H2372\|חָ֣זוּ]] [[H8267\|שֶׁ֔קֶר]] [[H9002\|וַֽ]][[H2472\|חֲלֹמוֹת֙]] [[H9009\|הַ]][[H7723G\|שָּׁ֣וא]] [[H1696G\|יְדַבֵּ֔רוּ]] [[H1892\|הֶ֖בֶל]] [[H5162G\|יְנַֽחֵמ֑וּ]][[H9013\|ן]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H5265\|נָסְע֣וּ]] [[H3644G\|כְמוֹ]][[H9014\|־]] [[H6629G\|צֹ֔אן]] [[H6031B\|יַעֲנ֖וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵ֥ין]] [[H7462B\|רֹעֶֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.1|<< Zechariah 10:1]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.3|Zechariah 10:3 >>]]</td></tr></table>
 
@@ -28,7 +89,7 @@ For idols speak deceit and diviners see illusions; they tell false dreams and of
 | they are afflicted  |**<big>&#8207;[[H6031B\|יַעֲנ֖וּ]]&#8207; </big>**| ya.'a.Nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] a shepherd  |**<big>&#8207;[[H7462B\|רֹעֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] a shepherd  |**<big>&#8207;[[H7462B\|רֹעֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.1|<< Zechariah 10:1]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.3|Zechariah 10:3 >>]]</td></tr></table>
 
 

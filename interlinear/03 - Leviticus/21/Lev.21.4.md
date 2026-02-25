@@ -1,8 +1,57 @@
+---
+title: Leviticus 21:4
+type: Verse
+kjv: "But he shall not defile himself, being a chief man among his people, to profane himself."
+bsb: "He is not to defile himself for those related to him by marriage, and so profane himself."
+hebrew: "לֹ֥א יִטַּמָּ֖א בַּ֣עַל בְּעַמָּ֑יו לְהֵ֖חַלּֽוֹ׃"
+pericope: "[[Lev.21.1 Holiness Required of Priests|Holiness Required of Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H1167H]]"
+- "[[H9003]]"
+- "[[H5971B]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2490H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 21:4**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] he shall not defile himself, [being] a chief man among his people, to profane himself.
 <small><sub>**BSB:**</sub></small>
 He is not to defile himself for those related to him by marriage, and so profane himself.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֥א]] [[H2930A\|יִטַּמָּ֖א]] [[H1167H\|בַּ֣עַל]] [[H9003\|בְּ]][[H5971B\|עַמָּ֑י]][[H9023\|ו]] [[H9005\|לְ]][[H2490H\|הֵ֖חַלּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOURNING|MOURNING]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.3|<< Leviticus 21:3]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.5|Leviticus 21:5 >>]]</td></tr></table>
 

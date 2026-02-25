@@ -1,8 +1,56 @@
+---
+title: Isaiah 66:21
+type: Verse
+kjv: "And I will also take of them for priests and for Levites, saith the LORD."
+bsb: "“And I will select some of them as priests and Levites,” says the LORD."
+hebrew: "וְגַם־ מֵהֶ֥ם אֶקַּ֛ח לַכֹּהֲנִ֥ים לַלְוִיִּ֖ם אָמַ֥ר יְהוָֽה׃"
+pericope: "[[Isa.66.15 Final Judgments against the Wicked|Final Judgments against the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 66:21**<big><big>[[Isa.66.15 Final Judgments against the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will also take of them for priests [and] for Levites, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “And I will select some of them as priests and Levites,” says the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9006\|מֵ]][[H9038\|הֶ֥ם]] [[H3947G\|אֶקַּ֛ח]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֥ים]] [[H9005\|לַ]][[H3881\|לְוִיִּ֖ם]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.20|<< Isaiah 66:20]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.22|Isaiah 66:22 >>]]</td></tr></table>
 

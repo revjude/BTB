@@ -31,9 +31,9 @@
 
 → 13. One of the twelve minor prophets, probably lived in the days  of Uzziah [[Joel.1.1|Joe 1:1]]; [[Acts.2.16|Ac 2:16]]
 
-- Declares the terribleness of God's judgments [[Joel.1|Joe 1]]; [[Joel.2.1|2:1]]-[[Joel.2.11|11]]
+- Declares the terribleness of God's judgments [[Joel.1|Joe 1]]; [[Joel.2.1|2:1-11]]
 
-- Denounces judgments against the enemies of God [[Joel.3.1|Joe  3:1]]-[[Joel.3.17|17]]
+- Denounces judgments against the enemies of God [[Joel.3.1|Joe  3:1-17]]
 
-- Sets forth the blessings of the church [[Joel.3.18|Joe 3:18]]-[[Joel.3.21|21]]
+- Sets forth the blessings of the church [[Joel.3.18|Joe 3:18-21]]
 

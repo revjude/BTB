@@ -1,8 +1,51 @@
+---
+title: Isaiah 47:3
+type: Verse
+kjv: "Thy nakedness shall be uncovered, yea, thy shame shall be seen: I will take vengeance, and I will not meet thee as a man."
+bsb: "Your nakedness will be uncovered and your shame will be exposed. I will take vengeance; I will spare no one.”"
+hebrew: "תִּגָּל֙ עֶרְוָתֵ֔ךְ גַּ֥ם תֵּרָאֶ֖ה חֶרְפָּתֵ֑ךְ נָקָ֣ם אֶקָּ֔ח וְלֹ֥א אֶפְגַּ֖ע אָדָֽם׃ ס"
+pericope: "[[Isa.47.1 The Humiliation of Babylon|The Humiliation of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 47
+book/chapter: "[[Isa.47|Isaiah 47]]"
+chronological_order: 686
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H1540I]]"
+- "[[H6172]]"
+- "[[H9022]]"
+- "[[H1571]]"
+- "[[H7200G]]"
+- "[[H2781]]"
+- "[[H5359]]"
+- "[[H3947G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6293]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 47:3**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy nakedness shall be uncovered, yea, thy shame shall be seen: I will take vengeance, and I will not meet [thee as] a man.
 <small><sub>**BSB:**</sub></small>
 Your nakedness will be uncovered and your shame will be exposed. I will take vengeance; I will spare no one.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1540I\|תִּגָּל֙]] [[H6172\|עֶרְוָתֵ֔]][[H9022\|ךְ]] [[H1571\|גַּ֥ם]] [[H7200G\|תֵּרָאֶ֖ה]] [[H2781\|חֶרְפָּתֵ֑]][[H9022\|ךְ]] [[H5359\|נָקָ֣ם]] [[H3947G\|אֶקָּ֔ח]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6293\|אֶפְגַּ֖ע]] [[H0120G\|אָדָֽם]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.2|<< Isaiah 47:2]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.4|Isaiah 47:4 >>]]</td></tr></table>
 
@@ -17,7 +60,7 @@ Your nakedness will be uncovered and your shame will be exposed. I will take ven
 | I will take  |**<big>&#8207;[[H3947G\|אֶקָּ֔ח]]&#8207; </big>**| 'e.Kach<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will meet  |**<big>&#8207;[[H6293\|אֶפְגַּ֖ע]]&#8207; </big>**| 'ef.Ga'<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anyone  |**<big>&#8207;[[H0120G\|אָדָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anyone  |**<big>&#8207;[[H0120G\|אָדָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Dam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.2|<< Isaiah 47:2]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.4|Isaiah 47:4 >>]]</td></tr></table>
 
 

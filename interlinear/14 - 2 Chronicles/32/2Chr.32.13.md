@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 32:13
+type: Verse
+kjv: "Know ye not what I and my fathers have done unto all the people of other lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?"
+bsb: "Do you not know what I and my fathers have done to all the peoples of the lands? Have the gods of these nations ever been able to deliver their land from my hand?"
+hebrew: "הֲלֹ֣א תֵדְע֗וּ מֶ֤ה עָשִׂ֙יתִי֙ אֲנִ֣י וַאֲבוֹתַ֔י לְכֹ֖ל עַמֵּ֣י הָאֲרָצ֑וֹת הֲיָכ֣וֹל יָֽכְל֗וּ אֱלֹהֵי֙ גּוֹיֵ֣ הָאֲרָצ֔וֹת לְהַצִּ֥יל אֶת־ אַרְצָ֖ם מִיָּדִֽי׃"
+pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3201]]"
+- "[[H0430]]"
+- "[[H1471A]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:13**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know ye not what I and my fathers have done unto all the people of [other] lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?
 <small><sub>**BSB:**</sub></small>
 Do you not know what I and my fathers have done to all the peoples of the lands? Have the gods of these nations ever been able to deliver their land from my hand?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹ֣א]] [[H3045\|תֵדְע֗וּ]] [[H4100\|מֶ֤ה]] [[H6213A\|עָשִׂ֙יתִי֙]] [[H0589\|אֲנִ֣י]] [[H9002\|וַ]][[H0001G\|אֲבוֹתַ֔]][[H9020\|י]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H5971A\|עַמֵּ֣י]] [[H9009\|הָ]][[H0776G\|אֲרָצ֑וֹת]] [[H9008\|הֲ]][[H3201\|יָכ֣וֹל]] [[H3201\|יָֽכְל֗וּ]] [[H0430\|אֱלֹהֵי֙]] [[H1471A\|גּוֹיֵ֣]] [[H9009\|הָ]][[H0776G\|אֲרָצ֔וֹת]] [[H9005\|לְ]][[H5337\|הַצִּ֥יל]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ֖]][[H9028\|ם]] [[H9006\|מִ]][[H3027H\|יָּדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRESUMPTION|PRESUMPTION]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.12|<< 2 Chronicles 32:12]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.14|2 Chronicles 32:14 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 13:17
+type: Verse
+kjv: "Then he called his servant that ministered unto him, and said, Put now this woman out from me, and bolt the door after her."
+bsb: "Instead, he called to his attendant and said, “Throw this woman out and bolt the door behind her!”"
+hebrew: "וַיִּקְרָ֗א אֶֽת־ נַעֲרוֹ֙ מְשָׁ֣רְת֔וֹ וַיֹּ֕אמֶר שִׁלְחוּ־ נָ֥א אֶת־ זֹ֛את מֵעָלַ֖י הַח֑וּצָה וּנְעֹ֥ל הַדֶּ֖לֶת אַחֲרֶֽיהָ׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H8334]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H7971H]]"
+- "[[H4994]]"
+- "[[H2063]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H5274A]]"
+- "[[H1817C]]"
+- "[[H0310A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:17**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he called his servant that ministered unto him, and said, Put now this [woman] out from me, and bolt the door after her.
 <small><sub>**BSB:**</sub></small>
 Instead, he called to his attendant and said, “Throw this woman out and bolt the door behind her!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֗א]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5288\|נַעֲר]][[H9023\|וֹ֙]] [[H8334\|מְשָׁ֣רְת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H7971H\|שִׁלְחוּ]][[H9014\|־]] [[H4994\|נָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H2063\|זֹ֛את]] [[H9006\|מֵ]][[H5921A\|עָלַ֖]][[H9030\|י]] [[H9009\|הַ]][[H2351\|ח֑וּצָ]][[H9011\|ה]] [[H9002\|וּ]][[H5274A\|נְעֹ֥ל]] [[H9009\|הַ]][[H1817C\|דֶּ֖לֶת]] [[H0310A\|אַחֲרֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic RAPE|RAPE]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.16|<< 2 Samuel 13:16]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.18|2 Samuel 13:18 >>]]</td></tr></table>
 

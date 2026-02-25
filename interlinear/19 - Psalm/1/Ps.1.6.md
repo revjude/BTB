@@ -1,8 +1,55 @@
+---
+title: Psalm 1:6
+type: Verse
+kjv: "For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish."
+bsb: "For the LORD guards the path of the righteous, but the way of the wicked will perish."
+hebrew: "כִּֽי־ יוֹדֵ֣עַ יְ֭הוָה דֶּ֣רֶךְ צַדִּיקִ֑ים וְדֶ֖רֶךְ רְשָׁעִ֣ים תֹּאבֵֽד׃"
+pericope: "[[Ps.1.1 The Two Paths|The Two Paths]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 1
+book/chapter: "[[Ps.1|Psalm 1]]"
+chronological_order: 337
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H3068G]]"
+- "[[H1870L]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H0006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 1:6**<big><big>[[Ps.1.1 The Two Paths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD knoweth the way of the righteous: but the way of the ungodly shall perish.
 <small><sub>**BSB:**</sub></small>
 For the LORD guards the path of the righteous, but the way of the wicked will perish.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3045\|יוֹדֵ֣עַ]] [[H3068G\|יְ֭הוָה]] [[H1870L\|דֶּ֣רֶךְ]] [[H6662\|צַדִּיקִ֑ים]] [[H9002\|וְ]][[H1870L\|דֶ֖רֶךְ]] [[H7563\|רְשָׁעִ֣ים]] [[H0006\|תֹּאבֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.1.5|<< Psalms 1:5]]</td><td align="center" style="border:none;">[[Ps.1|Psalms 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.1|Psalms 2:1 >>]]</td></tr></table>
 

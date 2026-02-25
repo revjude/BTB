@@ -1,8 +1,56 @@
+---
+title: Jeremiah 2:9
+type: Verse
+kjv: "Wherefore I will yet plead with you, saith the LORD, and with your children’s children will I plead."
+bsb: "Therefore, I will contend with you again, declares the LORD, and I will bring a case against your children’s children."
+hebrew: "לָכֵ֗ן עֹ֛ד אָרִ֥יב אִתְּכֶ֖ם נְאֻם־ יְהוָ֑ה וְאֶת־ בְּנֵ֥י בְנֵיכֶ֖ם אָרִֽיב׃"
+pericope: "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5750]]"
+- "[[H7378]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:9**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I will yet plead with you, saith the LORD, and with your children’s children will I plead.
 <small><sub>**BSB:**</sub></small>
 Therefore, I will contend with you again, declares the LORD, and I will bring a case against your children’s children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H5750\|עֹ֛ד]] [[H7378\|אָרִ֥יב]] [[H0854\|אִתְּ]][[H9036\|כֶ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵ֥י]] [[H1121A\|בְנֵי]][[H9026\|כֶ֖ם]] [[H7378\|אָרִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.8|<< Jeremiah 2:8]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.10|Jeremiah 2:10 >>]]</td></tr></table>
 

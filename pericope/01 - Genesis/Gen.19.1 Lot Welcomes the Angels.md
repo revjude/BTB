@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lot Welcomes the Angels
+type: Pericope
 pericope: "[[Gen.19.1 Lot Welcomes the Angels|Lot Welcomes the Angels]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 19
 book/chapter: "[[Gen.19|Genesis 19]]"
-genre:
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 11
 verses:
 - "[[Gen.19.1]]"
 - "[[Gen.19.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Gen.19.11]]"
 ---
 
-[[Gen.19|Genesis 19:1 - Genesis 19:11]]
+<small>[[Gen.19|Genesis 19:1-11]]</small>
 *Lot Welcomes the Angels*
 
 [[Gen.19.1|1]] And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing \[them\] rose up to meet them; and he bowed himself with his face toward the ground;

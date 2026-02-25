@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Expels an Unclean Spirit
+type: Pericope
 pericope: "[[Mark.1.21 Jesus Expels an Unclean Spirit|Jesus Expels an Unclean Spirit]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Mark
 chapter: 1
 book/chapter: "[[Mark.1|Mark 1]]"
-genre:
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Mark.1.21]]"
 - "[[Mark.1.22]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mark.1.28]]"
 ---
 
-[[Mark.1|Mark 1:21 - Mark 1:28]]
+<small>[[Mark.1|Mark 1:21-28]]</small>
 *Jesus Expels an Unclean Spirit*
 
 [[Mark.1.21|21]] And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.

@@ -1,10 +1,60 @@
+---
+title: Luke 20:12
+type: Verse
+kjv: "And again he sent a third: and they wounded him also, and cast him out."
+bsb: "Then he sent a third, but they wounded him and threw him out."
+jesus_said: "And again he sent a third: and they wounded him also, and cast him out."
+greek: "καὶ προσέθετο τρίτον πέμψαι· οἱ δὲ καὶ τοῦτον τραυματίσαντες ἐξέβαλον.¶"
+pericope: "[[Luke.20.9 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic RENTING|RENTING]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G2532]]"
+- "[[G4369]]"
+- "[[G5154]]"
+- "[[G3992]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G5135]]"
+- "[[G1544]]"
+texts:
+- NKO
+---
+
 **Luke 20:12**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again he sent a third: and they wounded him also, and cast [him] out.
 <small><sub>**BSB:**</sub></small>
 Then he sent a third, but they wounded him and threw him out.
-<small><sub>**Literal:**</sub></small>
-And he proceeded a third to send; They then also him having wounded they cast out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.11|<< Luke 20:11]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.13|Luke 20:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4369\|προσέθετο]]  [[G5154\|τρίτον]]  [[G3992\|πέμψαι·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3778\|τοῦτον]]  [[G5135\|τραυματίσαντες]]  [[G1544\|ἐξέβαλον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic DEBTOR|DEBTOR]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAND|LAND]] • [[topic LEASE|LEASE]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic RENTING|RENTING]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.11|<< Luke 20:11]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.13|Luke 20:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

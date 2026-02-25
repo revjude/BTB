@@ -1,8 +1,77 @@
+---
+title: 2 Samuel 10:2
+type: Verse
+kjv: "Then said David, I will shew kindness unto Hanun the son of Nahash, as his father shewed kindness unto me. And David sent to comfort him by the hand of his servants for his father. And David’s servants came into the land of the children of Ammon."
+bsb: "And David said, “I will show kindness to Hanun son of Nahash, just as his father showed kindness to me.” So David sent some of his servants to console Hanun concerning his father. But when they arrived in the land of the Ammonites,"
+hebrew: "וַיֹּ֨אמֶר דָּוִ֜ד אֶעֱשֶׂה־ חֶ֣סֶד׀ עִם־ חָנ֣וּן בֶּן־ נָחָ֗שׁ כַּאֲשֶׁר֩ עָשָׂ֨ה אָבִ֤יו עִמָּדִי֙ חֶ֔סֶד וַיִּשְׁלַ֨ח דָּוִ֧ד לְנַחֲמ֛וֹ בְּיַד־ עֲבָדָ֖יו אֶל־ אָבִ֑יו וַיָּבֹ֙אוּ֙ עַבְדֵ֣י דָוִ֔ד אֶ֖רֶץ בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[2Sam.10.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic MORTIFICATION|MORTIFICATION]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic NAHASH|NAHASH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H2617A]]"
+- "[[H9015]]"
+- "[[H5973A]]"
+- "[[H2586G]]"
+- "[[H1121A]]"
+- "[[H5176H]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H5162G]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H5650]]"
+- "[[H0413]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:2**<big><big>[[2Sam.10.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said David, I will shew kindness unto Hanun the son of Nahash, as his father shewed kindness unto me. And David sent to comfort him by the hand of his servants for his father. And David’s servants came into the land of the children of Ammon.
 <small><sub>**BSB:**</sub></small>
 And David said, “I will show kindness to Hanun son of Nahash, just as his father showed kindness to me.” So David sent some of his servants to console Hanun concerning his father. But when they arrived in the land of the Ammonites,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֜ד]] [[H6213A\|אֶעֱשֶׂה]][[H9014\|־]] [[H2617A\|חֶ֣סֶד]][[H9015\|׀]] [[H5973A\|עִם]][[H9014\|־]] [[H2586G\|חָנ֣וּן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5176H\|נָחָ֗שׁ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H6213A\|עָשָׂ֨ה]] [[H0001G\|אָבִ֤י]][[H9023\|ו]] [[H5978\|עִמָּדִ]][[H9030\|י֙]] [[H2617A\|חֶ֔סֶד]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H1732\|דָּוִ֧ד]] [[H9005\|לְ]][[H5162G\|נַחֲמ֛]][[H9033\|וֹ]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H5650\|עַבְדֵ֣י]] [[H1732\|דָוִ֔ד]] [[H0776G\|אֶ֖רֶץ]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CONDOLENCE|CONDOLENCE]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic MORTIFICATION|MORTIFICATION]] • [[topic MOTIVE|MOTIVE]] • [[topic NAHASH|NAHASH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.1|<< 2 Samuel 10:1]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.3|2 Samuel 10:3 >>]]</td></tr></table>
 

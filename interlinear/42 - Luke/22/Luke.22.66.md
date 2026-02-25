@@ -1,10 +1,62 @@
+---
+title: Luke 22:66
+type: Verse
+kjv: "And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,"
+bsb: "At daybreak the council of the elders of the people, both the chief priests and scribes, met together. They led Jesus into their Sanhedrin and said,"
+greek: "Καὶ ὡς ἐγένετο ἡμέρα, συνήχθη τὸ πρεσβυτέριον τοῦ λαοῦ, ἀρχιερεῖς τε καὶ γραμματεῖς, καὶ ἀπήγαγον αὐτὸν εἰς τὸ συνέδριον αὐτῶν"
+pericope: "[[Luke.22.66 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+strongs:
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[G1096]]"
+- "[[G2250]]"
+- "[[G4863]]"
+- "[[G3588]]"
+- "[[G4244]]"
+- "[[G2992]]"
+- "[[G0749]]"
+- "[[G5037]]"
+- "[[G1122]]"
+- "[[G0520]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G4892]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 22:66**<big><big>[[Luke.22.66 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,
 <small><sub>**BSB:**</sub></small>
 At daybreak the council of the elders of the people, both the chief priests and scribes, met together. They led Jesus into their Sanhedrin and said,
-<small><sub>**Literal:**</sub></small>
-And when it became day, were gathered together the elderhood of the people, chief priests both and scribes, and they led away Him into the council of them<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.65|<< Luke 22:65]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.67|Luke 22:67 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G5613\|ὡς]]  [[G1096\|ἐγένετο]]  [[G2250\|ἡμέρα,]]  [[G4863\|συνήχθη]]  [[G3588\|τὸ]]  [[G4244\|πρεσβυτέριον]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ,]]  [[G0749\|ἀρχιερεῖς]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1122\|γραμματεῖς,]]  [[G2532\|καὶ]]  [[G0520\|ἀπήγαγον]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4892\|συνέδριον]]  [[G0846\|αὐτῶν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SCRIBE (S)|SCRIBE (S)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.65|<< Luke 22:65]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.67|Luke 22:67 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

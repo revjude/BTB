@@ -1,8 +1,61 @@
+---
+title: Genesis 37:31
+type: Verse
+kjv: "And they took Joseph’s coat, and killed a kid of the goats, and dipped the coat in the blood;"
+bsb: "Then they took Joseph’s robe, slaughtered a young goat, and dipped the robe in its blood."
+hebrew: "וַיִּקְח֖וּ אֶת־ כְּתֹ֣נֶת יוֹסֵ֑ף וַֽיִּשְׁחֲטוּ֙ שְׂעִ֣יר עִזִּ֔ים וַיִּטְבְּל֥וּ אֶת־ הַכֻּתֹּ֖נֶת בַּדָּֽם׃"
+pericope: "[[Gen.37.31 Jacob Mourns Joseph|Jacob Mourns Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3801]]"
+- "[[H3130G]]"
+- "[[H7819A]]"
+- "[[H8163B]]"
+- "[[H5795]]"
+- "[[H2881]]"
+- "[[H9009]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:31**<big><big>[[Gen.37.31 Jacob Mourns Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took Joseph’s coat, and killed a kid of the goats, and dipped the coat in the blood;
 <small><sub>**BSB:**</sub></small>
 Then they took Joseph’s robe, slaughtered a young goat, and dipped the robe in its blood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְח֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3801\|כְּתֹ֣נֶת]] [[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַֽ]][[H7819A\|יִּשְׁחֲטוּ֙]] [[H8163B\|שְׂעִ֣יר]] [[H5795\|עִזִּ֔ים]] [[H9001\|וַ]][[H2881\|יִּטְבְּל֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3801\|כֻּתֹּ֖נֶת]] [[H9003\|בַּ]][[H1818\|דָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.30|<< Genesis 37:30]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.32|Genesis 37:32 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Colossians 1:7
+type: Verse
+kjv: "As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;"
+bsb: "You learned it from Epaphras, our beloved fellow servant, who is a faithful minister of Christ on our behalf,"
+greek: "καθὼς καὶ ἐμάθετε ἀπὸ Ἐπαφρᾶ τοῦ ἀγαπητοῦ συνδούλου ἡμῶν, ὅς ἐστιν πιστὸς ὑπὲρ ὑμῶν διάκονος τοῦ Χριστοῦ,"
+pericope: "[[Col.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic COLOSSE (COLOSSAE)|COLOSSE (COLOSSAE)]]"
+- "[[topic EPAPHRAS|EPAPHRAS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2531]]"
+- "[[G2532]]"
+- "[[G3129]]"
+- "[[G0575]]"
+- "[[G1889]]"
+- "[[G3588]]"
+- "[[G0027]]"
+- "[[G4889]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4103]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G1249]]"
+- "[[G5547]]"
+texts:
+- NKO
+- k
+- NK(O)
+---
+
 **Colossians 1:7**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
 <small><sub>**BSB:**</sub></small>
 You learned it from Epaphras, our beloved fellow servant, who is a faithful minister of Christ on our behalf,
-<small><sub>**Literal:**</sub></small>
-even as and you learned from Epaphras the beloved fellow bond-servant of us, who is faithful on behalf of of you a servant <the> of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.6|<< Colossians 1:6]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.8|Colossians 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3129\|ἐμάθετε]]  [[G0575\|ἀπὸ]]  [[G1889\|Ἐπαφρᾶ]]  [[G3588\|τοῦ]]  [[G0027\|ἀγαπητοῦ]]  [[G4889\|συνδούλου]]  [[G3165\|ἡμῶν,]]  [[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G4103\|πιστὸς]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G1249\|διάκονος]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLOSSE (COLOSSAE)|COLOSSE (COLOSSAE)]] • [[topic EPAPHRAS|EPAPHRAS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.6|<< Colossians 1:6]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.8|Colossians 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

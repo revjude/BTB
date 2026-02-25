@@ -1,8 +1,58 @@
+---
+title: Ezekiel 44:8
+type: Verse
+kjv: "And ye have not kept the charge of mine holy things: but ye have set keepers of my charge in my sanctuary for yourselves."
+bsb: "And you have not kept charge of My holy things, but have appointed others to keep charge of My sanctuary for you.’"
+hebrew: "וְלֹ֥א שְׁמַרְתֶּ֖ם מִשְׁמֶ֣רֶת קָדָשָׁ֑י וַתְּשִׂימ֗וּן לְשֹׁמְרֵ֧י מִשְׁמַרְתִּ֛י בְּמִקְדָּשִׁ֖י לָכֶֽם׃"
+pericope: "[[Ezek.44.6 Reproof of the Levites|Reproof of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H4931]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9013]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H4720]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:8**<big><big>[[Ezek.44.6 Reproof of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye have not kept the charge of mine holy things: but ye have set keepers of my charge in my sanctuary for yourselves.
 <small><sub>**BSB:**</sub></small>
 And you have not kept charge of My holy things, but have appointed others to keep charge of My sanctuary for you.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8104G\|שְׁמַרְתֶּ֖ם]] [[H4931\|מִשְׁמֶ֣רֶת]] [[H6944G\|קָדָשָׁ֑]][[H9020\|י]] [[H9001\|וַ]][[H7760A\|תְּשִׂימ֗וּ]][[H9013\|ן]] [[H9005\|לְ]][[H8104G\|שֹׁמְרֵ֧י]] [[H4931\|מִשְׁמַרְתִּ֛]][[H9020\|י]] [[H9003\|בְּ]][[H4720\|מִקְדָּשִׁ֖]][[H9020\|י]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.7|<< Ezekiel 44:7]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.9|Ezekiel 44:9 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Job 34:25
+type: Verse
+kjv: "Therefore he knoweth their works, and he overturneth them in the night, so that they are destroyed."
+bsb: "Therefore, He recognizes their deeds; He overthrows them in the night and they are crushed."
+hebrew: "לָכֵ֗ן יַ֭כִּיר מַעְבָּֽדֵיהֶ֑ם וְהָ֥פַךְ לַ֝֗יְלָה וְיִדַּכָּֽאוּ׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5234A]]"
+- "[[H4566]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H1792]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:25**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore he knoweth their works, and he overturneth [them] in the night, so that they are destroyed.
 <small><sub>**BSB:**</sub></small>
 Therefore, He recognizes their deeds; He overthrows them in the night and they are crushed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H5234A\|יַ֭כִּיר]] [[H4566\|מַעְבָּֽדֵי]][[H9028\|הֶ֑ם]] [[H9001\|וְ]][[H2015\|הָ֥פַךְ]] [[H3915\|לַ֝֗יְלָה]] [[H9002\|וְ]][[H1792\|יִדַּכָּֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.24|<< Job 34:24]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.26|Job 34:26 >>]]</td></tr></table>
 

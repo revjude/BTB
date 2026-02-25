@@ -1,8 +1,55 @@
+---
+title: Psalm 104:10
+type: Verse
+kjv: "He sendeth the springs into the valleys, which run among the hills."
+bsb: "He sends forth springs in the valleys; they flow between the mountains."
+hebrew: "הַֽמְשַׁלֵּ֣חַ מַ֭עְיָנִים בַּנְּחָלִ֑ים בֵּ֥ין הָ֝רִ֗ים יְהַלֵּכֽוּן׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9009]]"
+- "[[H7971G]]"
+- "[[H4599]]"
+- "[[H9003]]"
+- "[[H5158N]]"
+- "[[H0996G]]"
+- "[[H2022G]]"
+- "[[H1980I]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:10**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sendeth the springs into the valleys, [which] run among the hills.
 <small><sub>**BSB:**</sub></small>
 He sends forth springs in the valleys; they flow between the mountains.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַֽ]][[H7971G\|מְשַׁלֵּ֣חַ]] [[H4599\|מַ֭עְיָנִים]] [[H9003\|בַּ]][[H5158N\|נְּחָלִ֑ים]] [[H0996G\|בֵּ֥ין]] [[H2022G\|הָ֝רִ֗ים]] [[H1980I\|יְהַלֵּכֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.9|<< Psalms 104:9]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.11|Psalms 104:11 >>]]</td></tr></table>
 

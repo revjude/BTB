@@ -1,8 +1,69 @@
+---
+title: Psalm 41:9
+type: Verse
+kjv: "Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up his heel against me."
+bsb: "Even my close friend whom I trusted, the one who shared my bread, has lifted up his heel against me."
+hebrew: "גַּם־ אִ֤ישׁ שְׁלוֹמִ֨י׀ אֲשֶׁר־ בָּטַ֣חְתִּי ב֭וֹ אוֹכֵ֣ל לַחְמִ֑י הִגְדִּ֖יל עָלַ֣י עָקֵֽב׃"
+pericope: "[[Ps.41.1 Victory over Betrayal|Victory over Betrayal]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 41
+book/chapter: "[[Ps.41|Psalm 41]]"
+chronological_order: 368
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H7965J]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H1431]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H6119]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 41:9**<big><big>[[Ps.41.1 Victory over Betrayal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up [his] heel against me.
 <small><sub>**BSB:**</sub></small>
 Even my close friend whom I trusted, the one who shared my bread, has lifted up his heel against me.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H0376G\|אִ֤ישׁ]] [[H7965J\|שְׁלוֹמִ֨]][[H9020\|י]][[H9015\|׀]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0982\|בָּטַ֣חְתִּי]] [[H9003\|ב֭]][[H9033\|וֹ]] [[H0398\|אוֹכֵ֣ל]] [[H3899H\|לַחְמִ֑]][[H9020\|י]] [[H1431\|הִגְדִּ֖יל]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H6119\|עָקֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDS|FRIENDS]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.41.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.41.8|<< Psalms 41:8]]</td><td align="center" style="border:none;">[[Ps.41|Psalms 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.41.10|Psalms 41:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

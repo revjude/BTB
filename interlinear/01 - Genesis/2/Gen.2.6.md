@@ -1,8 +1,59 @@
+---
+title: Genesis 2:6
+type: Verse
+kjv: "But there went up a mist from the earth, and watered the whole face of the ground."
+bsb: "But springs welled up from the earth and watered the whole surface of the ground."
+hebrew: "וְאֵ֖ד יַֽעֲלֶ֣ה מִן־ הָאָ֑רֶץ וְהִשְׁקָ֖ה אֶֽת־ כָּל־ פְּנֵֽי־ הָֽאֲדָמָֽה׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIST|MIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0108]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H8248G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H6440J]]"
+- "[[H0127G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:6**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there went up a mist from the earth, and watered the whole face of the ground.
 <small><sub>**BSB:**</sub></small>
 But springs welled up from the earth and watered the whole surface of the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0108\|אֵ֖ד]] [[H5927G\|יַֽעֲלֶ֣ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H8248G\|הִשְׁקָ֖ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6440J\|פְּנֵֽי]][[H9014\|־]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIST|MIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.5|<< Genesis 2:5]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.7|Genesis 2:7 >>]]</td></tr></table>
 

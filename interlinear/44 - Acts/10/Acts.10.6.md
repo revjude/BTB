@@ -1,10 +1,64 @@
+---
+title: Acts 10:6
+type: Verse
+kjv: "He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do."
+bsb: "He is staying with Simon the tanner, whose house is by the sea.”"
+greek: "οὗτος ξενίζεται παρά τινι Σίμωνι βυρσεῖ, ᾧ ἐστιν οἰκία παρὰ θάλασσαν οὗτος λαλήσει σοι τί σε δεῖ ποιεῖν.¶"
+pericope: "[[Acts.10.1 Cornelius Sends for Peter|Cornelius Sends for Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ART|ART]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic LEATHER|LEATHER]]"
+- "[[topic SIMON|SIMON]]"
+- "[[topic TANNING|TANNING]]"
+strongs:
+- "[[G3778]]"
+- "[[G3579]]"
+- "[[G3844]]"
+- "[[G5100]]"
+- "[[G4613N]]"
+- "[[G1038]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3614G]]"
+- "[[G2281]]"
+- "[[G2980]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G1163]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 10:6**<big><big>[[Acts.10.1 Cornelius Sends for Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He lodgeth with one Simon a tanner, whose house is by the sea side: he shall tell thee what thou oughtest to do.
 <small><sub>**BSB:**</sub></small>
 He is staying with Simon the tanner, whose house is by the sea.”
-<small><sub>**Literal:**</sub></small>
-He lodges with a certain Simon a tanner, whose is [the] house by [the] sea this [one] will tell you what you it behooves to do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.5|<< Acts 10:5]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.7|Acts 10:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G3579\|ξενίζεται]]  [[G3844\|παρά]]  [[G5100\|τινι]]  [[G4613N\|Σίμωνι]]  [[G1038\|βυρσεῖ,]]  [[G3739\|ᾧ]]  [[G1510\|ἐστιν]]  [[G3614G\|οἰκία]]  [[G3844\|παρὰ]]  [[G2281\|θάλασσαν]]  [[G3778\|οὗτος]]  [[G2980\|λαλήσει]]  [[G4771\|σοι]]  [[G5101\|τί]]  [[G4771\|σε]]  [[G1163\|δεῖ]]  [[G4160G\|ποιεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ART|ART]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic DREAM|DREAM]] • [[topic FAMILY|FAMILY]] • [[topic HEATHEN|HEATHEN]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic LEATHER|LEATHER]] • [[topic SIMON|SIMON]] • [[topic TANNING|TANNING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.5|<< Acts 10:5]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.7|Acts 10:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

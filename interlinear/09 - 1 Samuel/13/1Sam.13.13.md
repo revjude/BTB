@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 13:13
+type: Verse
+kjv: "And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel for ever."
+bsb: "“You have acted foolishly,” Samuel declared. “You have not kept the command that the LORD your God gave you; if you had, the LORD would have established your kingdom over Israel for all time."
+hebrew: "וַיֹּ֧אמֶר שְׁמוּאֵ֛ל אֶל־ שָׁא֖וּל נִסְכָּ֑לְתָּ לֹ֣א שָׁמַ֗רְתָּ אֶת־ מִצְוַ֞ת יְהוָ֤ה אֱלֹהֶ֙יךָ֙ אֲשֶׁ֣ר צִוָּ֔ךְ כִּ֣י עַתָּ֗ה הֵכִ֨ין יְהוָ֧ה אֶת־ מַֽמְלַכְתְּךָ֛ אֶל־ יִשְׂרָאֵ֖ל עַד־ עוֹלָֽם׃"
+pericope: "[[1Sam.13.8 Saul’s Unlawful Sacrifice|Saul’s Unlawful Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H5528]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H3559H]]"
+- "[[H4467]]"
+- "[[H3478]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:13**<big><big>[[1Sam.13.8 Saul’s Unlawful Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel for ever.
 <small><sub>**BSB:**</sub></small>
 “You have acted foolishly,” Samuel declared. “You have not kept the command that the LORD your God gave you; if you had, the LORD would have established your kingdom over Israel for all time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H8050G\|שְׁמוּאֵ֛ל]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H5528\|נִסְכָּ֑לְתָּ]] [[H3808\|לֹ֣א]] [[H8104G\|שָׁמַ֗רְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוַ֞ת]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֔]][[H9031\|ךְ]] [[H3588A\|כִּ֣י]] [[H6258\|עַתָּ֗ה]] [[H3559H\|הֵכִ֨ין]] [[H3068G\|יְהוָ֧ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4467\|מַֽמְלַכְתְּ]][[H9021\|ךָ֛]] [[H0413\|אֶל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.12|<< 1 Samuel 13:12]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.14|1 Samuel 13:14 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Psalm 95:2
+type: Verse
+kjv: "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms."
+bsb: "Let us enter His presence with thanksgiving; let us make a joyful noise to Him in song."
+hebrew: "נְקַדְּמָ֣ה פָנָ֣יו בְּתוֹדָ֑ה בִּ֝זְמִר֗וֹת נָרִ֥יעַֽ לֽוֹ׃"
+pericope: "[[Ps.95.1 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 95
+book/chapter: "[[Ps.95|Psalm 95]]"
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H6923]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H8426]]"
+- "[[H2158]]"
+- "[[H7321]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 95:2**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms.
 <small><sub>**BSB:**</sub></small>
 Let us enter His presence with thanksgiving; let us make a joyful noise to Him in song.
+<small><sub>**Hebrew:**</sub></small>
+[[H6923\|נְקַדְּמָ֣ה]] [[H6440G\|פָנָ֣י]][[H9023\|ו]] [[H9003\|בְּ]][[H8426\|תוֹדָ֑ה]] [[H9003\|בִּ֝]][[H2158\|זְמִר֗וֹת]] [[H7321\|נָרִ֥יעַֽ]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.1|<< Psalms 95:1]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.3|Psalms 95:3 >>]]</td></tr></table>
 

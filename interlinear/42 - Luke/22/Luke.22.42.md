@@ -1,10 +1,70 @@
+---
+title: Luke 22:42
+type: Verse
+kjv: "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done."
+bsb: "“Father, if You are willing, take this cup from Me. Yet not My will, but Yours be done.”"
+jesus_said: "Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done."
+greek: "λέγων· πάτερ, εἰ βούλει παρένεγκε τοῦτο τὸ ποτήριον ἀπ᾽ ἐμοῦ· πλὴν μὴ τὸ θέλημά μου ἀλλὰ τὸ σὸν γινέσθω."
+pericope: "[[Luke.22.39 Jesus Prays on the Mount of Olives|Jesus Prays on the Mount of Olives]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CUP|CUP]]"
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic SUBMISSION|SUBMISSION]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3962]]"
+- "[[G1487G]]"
+- "[[G1014]]"
+- "[[G3911]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4221]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G4133]]"
+- "[[G3361]]"
+- "[[G2307]]"
+- "[[G3165]]"
+- "[[G0235]]"
+- "[[G4771]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 22:42**<big><big>[[Luke.22.39 Jesus Prays on the Mount of Olives|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done.
 <small><sub>**BSB:**</sub></small>
 “Father, if You are willing, take this cup from Me. Yet not My will, but Yours be done.”
-<small><sub>**Literal:**</sub></small>
-saying; Father, if You are willing do take away this <the> cup from Me; Yet not [be done] the will of Me but <the> of You should be [done].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.41|<< Luke 22:41]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.43|Luke 22:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων·]]  [[G3962\|πάτερ,]]  [[G1487G\|εἰ]]  [[G1014\|βούλει]]  [[G3911\|παρένεγκε]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμοῦ·]]  [[G4133\|πλὴν]]  [[G3361\|μὴ]]  [[G3588\|τὸ]]  [[G2307\|θέλημά]]  [[G3165\|μου]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸ]]  [[G4771\|σὸν]]  [[G1096\|γινέσθω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CUP|CUP]] • [[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic RESIGNATION|RESIGNATION]] • [[topic SORROW|SORROW]] • [[topic SUBMISSION|SUBMISSION]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.41|<< Luke 22:41]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.43|Luke 22:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

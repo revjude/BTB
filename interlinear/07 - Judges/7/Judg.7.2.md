@@ -1,8 +1,65 @@
+---
+title: Judges 7:2
+type: Verse
+kjv: "And the LORD said unto Gideon, The people that are with thee are too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me."
+bsb: "Then the LORD said to Gideon, “You have too many men for Me to deliver Midian into their hands, lest Israel glorify themselves over Me, saying, ‘My own hand has saved me.’"
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ גִּדְע֔וֹן רַ֗ב הָעָם֙ אֲשֶׁ֣ר אִתָּ֔ךְ מִתִּתִּ֥י אֶת־ מִדְיָ֖ן בְּיָדָ֑ם פֶּן־ יִתְפָּאֵ֨ר עָלַ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר יָדִ֖י הוֹשִׁ֥יעָה לִּֽי׃"
+pericope: "[[Judg.7.1 Gideon’s Army of Three Hundred|Gideon’s Army of Three Hundred]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1439]]"
+- "[[H7227A]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H5414G]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H4080H]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9028]]"
+- "[[H6435]]"
+- "[[H6286A]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H9020]]"
+- "[[H3467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:2**<big><big>[[Judg.7.1 Gideon’s Army of Three Hundred|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Gideon, The people that [are] with thee [are] too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Gideon, “You have too many men for Me to deliver Midian into their hands, lest Israel glorify themselves over Me, saying, ‘My own hand has saved me.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1439\|גִּדְע֔וֹן]] [[H7227A\|רַ֗ב]] [[H9009\|הָ]][[H5971K\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתָּ֔]][[H9031\|ךְ]] [[H9006\|מִ]][[H5414G\|תִּתִּ֥]][[H9040\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H4080H\|מִדְיָ֖ן]] [[H9003\|בְּ]][[H3027H\|יָדָ֑]][[H9028\|ם]] [[H6435\|פֶּן]][[H9014\|־]] [[H6286A\|יִתְפָּאֵ֨ר]] [[H5921A\|עָלַ֤]][[H9030\|י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3027H\|יָדִ֖]][[H9020\|י]] [[H3467\|הוֹשִׁ֥יעָה]] [[H9005\|לִּֽ]][[H9030\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.1|<< Judges 7:1]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.3|Judges 7:3 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: John 8:48
+type: Verse
+kjv: "Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?"
+bsb: "The Jews answered Him, “Are we not right to say that You are a Samaritan and You have a demon?”"
+greek: "Ἀπεκρίθησαν οὖν οἱ Ἰουδαῖοι καὶ εἶπαν αὐτῷ· οὐ καλῶς λέγομεν ἡμεῖς ὅτι Σαμαρίτης εἶ σὺ καὶ δαιμόνιον ἔχεις;¶"
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G2573]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G3754G]]"
+- "[[G4541]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G1140]]"
+- "[[G2192]]"
+texts:
+- NKO
+- K
+---
+
 **John 8:48**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?
 <small><sub>**BSB:**</sub></small>
 The Jews answered Him, “Are we not right to say that You are a Samaritan and You have a demon?”
-<small><sub>**Literal:**</sub></small>
-Answered therefore the Jews and said to Him; Surely rightly say we ourselves that a Samaritan are You yourself and a demon have?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.47|<< John 8:47]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.49|John 8:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθησαν]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G3756\|οὐ]]  [[G2573\|καλῶς]]  [[G3004G\|λέγομεν]]  [[G3165\|ἡμεῖς]]  [[G3754G\|ὅτι]]  [[G4541\|Σαμαρίτης]]  [[G1510\|εἶ]]  [[G4771\|σὺ]]  [[G2532\|καὶ]]  [[G1140\|δαιμόνιον]]  [[G2192\|ἔχεις;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SLANDER|SLANDER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.47|<< John 8:47]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.49|John 8:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

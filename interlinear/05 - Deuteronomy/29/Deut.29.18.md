@@ -1,8 +1,85 @@
+---
+title: Deuteronomy 29:18
+type: Verse
+kjv: "Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the LORD our God, to go and serve the gods of these nations; lest there should be among you a root that beareth gall and wormwood;"
+bsb: "Make sure there is no man or woman, clan or tribe among you today whose heart turns away from the LORD our God to go and worship the gods of those nations. Make sure there is no root among you that bears such poisonous and bitter fruit,"
+hebrew: "פֶּן־ יֵ֣שׁ בָּ֠כֶם אִ֣ישׁ אוֹ־ אִשָּׁ֞ה א֧וֹ מִשְׁפָּחָ֣ה אוֹ־ שֵׁ֗בֶט אֲשֶׁר֩ לְבָב֨וֹ פֹנֶ֤ה הַיּוֹם֙ מֵעִם֙ יְהוָ֣ה אֱלֹהֵ֔ינוּ לָלֶ֣כֶת לַעֲבֹ֔ד אֶת־ אֱלֹהֵ֖י הַגּוֹיִ֣ם הָהֵ֑ם פֶּן־ יֵ֣שׁ בָּכֶ֗ם שֹׁ֛רֶשׁ פֹּרֶ֥ה רֹ֖אשׁ וְלַעֲנָֽה׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GALL|GALL]]"
+- "[[topic HEART|HEART]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WORMWOOD|WORMWOOD]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H0376G]]"
+- "[[H0176A]]"
+- "[[H0802G]]"
+- "[[H4940]]"
+- "[[H7626H]]"
+- "[[H0834A]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H6437G]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H0430]]"
+- "[[H1471A]]"
+- "[[H1992]]"
+- "[[H8328]]"
+- "[[H6509]]"
+- "[[H7219]]"
+- "[[H9002]]"
+- "[[H3939]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:18**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the LORD our God, to go [and] serve the gods of these nations; lest there should be among you a root that beareth gall and wormwood;
 <small><sub>**BSB:**</sub></small>
 Make sure there is no man or woman, clan or tribe among you today whose heart turns away from the LORD our God to go and worship the gods of those nations. Make sure there is no root among you that bears such poisonous and bitter fruit,
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּן]][[H9014\|־]] [[H3426\|יֵ֣שׁ]] [[H9003\|בָּ֠]][[H9036\|כֶם]] [[H0376G\|אִ֣ישׁ]] [[H0176A\|אוֹ]][[H9014\|־]] [[H0802G\|אִשָּׁ֞ה]] [[H0176A\|א֧וֹ]] [[H4940\|מִשְׁפָּחָ֣ה]] [[H0176A\|אוֹ]][[H9014\|־]] [[H7626H\|שֵׁ֗בֶט]] [[H0834A\|אֲשֶׁר֩]] [[H3824\|לְבָב֨]][[H9023\|וֹ]] [[H6437G\|פֹנֶ֤ה]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H9006\|מֵ]][[H5973B\|עִם֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H9005\|לָ]][[H1980G\|לֶ֣כֶת]] [[H9005\|לַ]][[H5647H\|עֲבֹ֔ד]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵ֖י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֣ם]] [[H9009\|הָ]][[H1992\|הֵ֑ם]] [[H6435\|פֶּן]][[H9014\|־]] [[H3426\|יֵ֣שׁ]] [[H9003\|בָּ]][[H9036\|כֶ֗ם]] [[H8328\|שֹׁ֛רֶשׁ]] [[H6509\|פֹּרֶ֥ה]] [[H7219\|רֹ֖אשׁ]] [[H9002\|וְ]][[H3939\|לַעֲנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FAMILY|FAMILY]] • [[topic GALL|GALL]] • [[topic HEART|HEART]] • [[topic SIN|SIN]] • [[topic WORMWOOD|WORMWOOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.17|<< Deuteronomy 29:17]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.19|Deuteronomy 29:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

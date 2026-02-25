@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 9:8
+type: Verse
+kjv: "Also in Horeb ye provoked the LORD to wrath, so that the LORD was angry with you to have destroyed you."
+bsb: "At Horeb you provoked the LORD, and He was angry enough to destroy you."
+hebrew: "וּבְחֹרֵ֥ב הִקְצַפְתֶּ֖ם אֶת־ יְהוָ֑ה וַיִּתְאַנַּ֧ף יְהוָ֛ה בָּכֶ֖ם לְהַשְׁמִ֥יד אֶתְכֶֽם׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HOREB|HOREB]]"
+- "[[topic HUMILITY|HUMILITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2722]]"
+- "[[H7107]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H0599]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H8045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:8**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in Horeb ye provoked the LORD to wrath, so that the LORD was angry with you to have destroyed you.
 <small><sub>**BSB:**</sub></small>
 At Horeb you provoked the LORD, and He was angry enough to destroy you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H2722\|חֹרֵ֥ב]] [[H7107\|הִקְצַפְתֶּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H0599\|יִּתְאַנַּ֧ף]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בָּ]][[H9036\|כֶ֖ם]] [[H9005\|לְ]][[H8045\|הַשְׁמִ֥יד]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOREB|HOREB]] • [[topic HUMILITY|HUMILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.7|<< Deuteronomy 9:7]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.9|Deuteronomy 9:9 >>]]</td></tr></table>
 

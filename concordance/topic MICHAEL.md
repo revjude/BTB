@@ -17,7 +17,7 @@
 
 8. Son of Jehoshaphat
 
-- Killed by his brother, Jehoram [[2Chr.21.2|2Ch 21:2]]-[[2Chr.21.4|4]]
+- Killed by his brother, Jehoram [[2Chr.21.2|2Ch 21:2-4]]
 
 9. Father of Zebadiah [[Ezra.8.8|Ezr 8:8]]
 

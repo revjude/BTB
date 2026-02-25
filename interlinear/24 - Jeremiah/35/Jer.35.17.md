@@ -1,8 +1,77 @@
+---
+title: Jeremiah 35:17
+type: Verse
+kjv: "Therefore thus saith the LORD God of hosts, the God of Israel; Behold, I will bring upon Judah and upon all the inhabitants of Jerusalem all the evil that I have pronounced against them: because I have spoken unto them, but they have not heard; and I have called unto them, but they have not answered."
+bsb: "Therefore this is what the LORD God of Hosts, the God of Israel, says: ‘Behold, I will bring to Judah and to all the residents of Jerusalem all the disaster I have pronounced against them, because I have spoken to them but they have not obeyed, and I have called to them but they have not answered.’”"
+hebrew: "לָ֠כֵן כֹּֽה־ אָמַ֨ר יְהוָ֜ה אֱלֹהֵ֤י צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֧י מֵבִ֣יא אֶל־ יְהוּדָ֗ה וְאֶ֤ל כָּל־ יֽוֹשְׁבֵי֙ יְר֣וּשָׁלִַ֔ם אֵ֚ת כָּל־ הָ֣רָעָ֔ה אֲשֶׁ֥ר דִּבַּ֖רְתִּי עֲלֵיהֶ֑ם יַ֣עַן דִּבַּ֤רְתִּי אֲלֵיהֶם֙ וְלֹ֣א שָׁמֵ֔עוּ וָאֶקְרָ֥א לָהֶ֖ם וְלֹ֥א עָנֽוּ׃"
+pericope: "[[Jer.35.12 Judah Rebuked|Judah Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JONADAB|JONADAB]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H6635B]]"
+- "[[H3478]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3282]]"
+- "[[H1696G]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H6030B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:17**<big><big>[[Jer.35.12 Judah Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD God of hosts, the God of Israel; Behold, I will bring upon Judah and upon all the inhabitants of Jerusalem all the evil that I have pronounced against them: because I have spoken unto them, but they have not heard; and I have called unto them, but they have not answered.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD God of Hosts, the God of Israel, says: ‘Behold, I will bring to Judah and to all the residents of Jerusalem all the disaster I have pronounced against them, because I have spoken to them but they have not obeyed, and I have called to them but they have not answered.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֠]][[H3651C\|כֵן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H2005\|הִנְ]][[H9040\|נִ֧י]] [[H0935P\|מֵבִ֣יא]] [[H0413\|אֶל]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וְ]][[H0413\|אֶ֤ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֽוֹשְׁבֵי֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H7451C\|רָעָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696I\|דִּבַּ֖רְתִּי]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H3282\|יַ֣עַן]] [[H1696G\|דִּבַּ֤רְתִּי]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8085G\|שָׁמֵ֔עוּ]] [[H9001\|וָ]][[H7121G\|אֶקְרָ֥א]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6030B\|עָנֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JONADAB|JONADAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.16|<< Jeremiah 35:16]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.18|Jeremiah 35:18 >>]]</td></tr></table>
 

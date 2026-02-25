@@ -1,8 +1,69 @@
+---
+title: Genesis 6:19
+type: Verse
+kjv: "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female."
+bsb: "And you are to bring two of every living creature into the ark—male and female—to keep them alive with you."
+hebrew: "וּמִכָּל־ הָ֠חַי מִֽכָּל־ בָּשָׂ֞ר שְׁנַ֧יִם מִכֹּ֛ל תָּבִ֥יא אֶל־ הַתֵּבָ֖ה לְהַחֲיֹ֣ת אִתָּ֑ךְ זָכָ֥ר וּנְקֵבָ֖ה יִֽהְיֽוּ׃"
+pericope: "[[Gen.6.13 Preparing the Ark|Preparing the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ARK|ARK]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2416A]]"
+- "[[H1320]]"
+- "[[H8147]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H8392]]"
+- "[[H9005]]"
+- "[[H2421]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H2145]]"
+- "[[H5347]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:19**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of every living thing of all flesh, two of every [sort] shalt thou bring into the ark, to keep [them] alive with thee; they shall be male and female.
 <small><sub>**BSB:**</sub></small>
 And you are to bring two of every living creature into the ark—male and female—to keep them alive with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֠]][[H2416A\|חַי]] [[H9006\|מִֽ]][[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֞ר]] [[H8147\|שְׁנַ֧יִם]] [[H9006\|מִ]][[H3605\|כֹּ֛ל]] [[H0935G\|תָּבִ֥יא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8392\|תֵּבָ֖ה]] [[H9005\|לְ]][[H2421\|הַחֲיֹ֣ת]] [[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H2145\|זָכָ֥ר]] [[H9002\|וּ]][[H5347\|נְקֵבָ֖ה]] [[H1961\|יִֽהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ARK|ARK]] • [[topic COMMUNION|COMMUNION]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic NOAH|NOAH]] • [[topic SHIP|SHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.18|<< Genesis 6:18]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.20|Genesis 6:20 >>]]</td></tr></table>
 

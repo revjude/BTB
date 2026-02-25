@@ -1,8 +1,61 @@
+---
+title: Ezra 8:20
+type: Verse
+kjv: "Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name."
+bsb: "They also brought 220 of the temple servants, all designated by name. David and the officials had appointed them to assist the Levites."
+hebrew: "וּמִן־ הַנְּתִינִ֗ים שֶׁנָּתַ֨ן דָּוִ֤יד וְהַשָּׂרִים֙ לַעֲבֹדַ֣ת הַלְוִיִּ֔ם נְתִינִ֖ים מָאתַ֣יִם וְעֶשְׂרִ֑ים כֻּלָּ֖ם נִקְּב֥וּ בְשֵׁמֽוֹת׃"
+pericope: "[[Ezra.8.15 Ezra Sends for the Levites|Ezra Sends for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic NETHINIMS|NETHINIMS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5411]]"
+- "[[H9007]]"
+- "[[H5414H]]"
+- "[[H1732]]"
+- "[[H8269]]"
+- "[[H9005]]"
+- "[[H5656H]]"
+- "[[H3881]]"
+- "[[H3967]]"
+- "[[H6242]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H5344A]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 8:20**<big><big>[[Ezra.8.15 Ezra Sends for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name.
 <small><sub>**BSB:**</sub></small>
 They also brought 220 of the temple servants, all designated by name. David and the officials had appointed them to assist the Levites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5411\|נְּתִינִ֗ים]] [[H9007\|שֶׁ]][[H5414H\|נָּתַ֨ן]] [[H1732\|דָּוִ֤יד]] [[H9002\|וְ]][[H9009\|הַ]][[H8269\|שָּׂרִים֙]] [[H9005\|לַ]][[H5656H\|עֲבֹדַ֣ת]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H5411\|נְתִינִ֖ים]] [[H3967\|מָאתַ֣יִם]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֑ים]] [[H3605\|כֻּלָּ֖]][[H9028\|ם]] [[H5344A\|נִקְּב֥וּ]] [[H9003\|בְ]][[H8034\|שֵׁמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic NETHINIMS|NETHINIMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.19|<< Ezra 8:19]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.21|Ezra 8:21 >>]]</td></tr></table>
 

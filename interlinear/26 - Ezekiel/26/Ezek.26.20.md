@@ -1,8 +1,61 @@
+---
+title: Ezekiel 26:20
+type: Verse
+kjv: "When I shall bring thee down with them that descend into the pit, with the people of old time, and shall set thee in the low parts of the earth, in places desolate of old, with them that go down to the pit, that thou be not inhabited; and I shall set glory in the land of the living;"
+bsb: "then I will bring you down with those who descend to the Pit, to the people of antiquity. I will make you dwell in the earth below like the ancient ruins, with those who descend to the Pit, so that you will no longer be inhabited or set in splendor in the land of the living."
+hebrew: "וְהוֹרַדְתִּיךְ֩ אֶת־ י֨וֹרְדֵי ב֜וֹר אֶל־ עַ֣ם עוֹלָ֗ם וְ֠הוֹשַׁבְתִּיךְ בְּאֶ֨רֶץ תַּחְתִּיּ֜וֹת כָּחֳרָב֤וֹת מֵֽעוֹלָם֙ אֶת־ י֣וֹרְדֵי ב֔וֹר לְמַ֖עַן לֹ֣א תֵשֵׁ֑בִי וְנָתַתִּ֥י צְבִ֖י בְּאֶ֥רֶץ חַיִּֽים׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9032]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0953A]]"
+- "[[H0413]]"
+- "[[H5971A]]"
+- "[[H5769J]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H8482]]"
+- "[[H9004]]"
+- "[[H2723]]"
+- "[[H9006]]"
+- "[[H4616]]"
+- "[[H3808]]"
+- "[[H5414H]]"
+- "[[H6643A]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:20**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I shall bring thee down with them that descend into the pit, with the people of old time, and shall set thee in the low parts of the earth, in places desolate of old, with them that go down to the pit, that thou be not inhabited; and I shall set glory in the land of the living;
 <small><sub>**BSB:**</sub></small>
 then I will bring you down with those who descend to the Pit, to the people of antiquity. I will make you dwell in the earth below like the ancient ruins, with those who descend to the Pit, so that you will no longer be inhabited or set in splendor in the land of the living.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3381\|הוֹרַדְתִּי]][[H9032\|ךְ֩]] [[H0854\|אֶת]][[H9014\|־]] [[H3381\|י֨וֹרְדֵי]] [[H0953A\|ב֜וֹר]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H5769J\|עוֹלָ֗ם]] [[H9001\|וְ֠]][[H3427\|הוֹשַׁבְתִּי]][[H9032\|ךְ]] [[H9003\|בְּ]][[H0776G\|אֶ֨רֶץ]] [[H8482\|תַּחְתִּיּ֜וֹת]] [[H9004\|כָּ]][[H2723\|חֳרָב֤וֹת]] [[H9006\|מֵֽ]][[H5769J\|עוֹלָם֙]] [[H0854\|אֶת]][[H9014\|־]] [[H3381\|י֣וֹרְדֵי]] [[H0953A\|ב֔וֹר]] [[H4616\|לְמַ֖עַן]] [[H3808\|לֹ֣א]] [[H3427\|תֵשֵׁ֑בִי]] [[H9001\|וְ]][[H5414H\|נָתַתִּ֥י]] [[H6643A\|צְבִ֖י]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H2416A\|חַיִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.19|<< Ezekiel 26:19]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.21|Ezekiel 26:21 >>]]</td></tr></table>
 

@@ -1,10 +1,66 @@
+---
+title: Acts 20:6
+type: Verse
+kjv: "And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days."
+bsb: "And after the Feast of Unleavened Bread, we sailed from Philippi, and five days later we rejoined them in Troas, where we stayed seven days."
+greek: "ἡμεῖς δὲ ἐξεπλεύσαμεν μετὰ τὰς ἡμέρας τῶν ἀζύμων ἀπὸ Φιλίππων καὶ ἤλθομεν πρὸς αὐτοὺς εἰς τὴν Τρῳάδα ἄχρι ἡμερῶν πέντε ὅπου διετρίψαμεν ἡμέρας ἑπτά.¶"
+pericope: "[[Acts.20.1 Paul in Macedonia and Greece|Paul in Macedonia and Greece]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic LUKE|LUKE]]"
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic SECUNDUS|SECUNDUS]]"
+- "[[topic TROAS|TROAS]]"
+strongs:
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G1602]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G0106]]"
+- "[[G0575]]"
+- "[[G5375]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G5174]]"
+- "[[G0891]]"
+- "[[G4002]]"
+- "[[G3699]]"
+- "[[G1304]]"
+- "[[G2033]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 20:6**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days.
 <small><sub>**BSB:**</sub></small>
 And after the Feast of Unleavened Bread, we sailed from Philippi, and five days later we rejoined them in Troas, where we stayed seven days.
-<small><sub>**Literal:**</sub></small>
-We ourselves then sailed away after the days of the Unleavened Bread from Philippi and we came to them at <the> Troas within days five where we stayed days seven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.5|<< Acts 20:5]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.7|Acts 20:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμεῖς]]  [[G1161\|δὲ]]  [[G1602\|ἐξεπλεύσαμεν]]  [[G3326\|μετὰ]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας]]  [[G3588\|τῶν]]  [[G0106\|ἀζύμων]]  [[G0575\|ἀπὸ]]  [[G5375\|Φιλίππων]]  [[G2532\|καὶ]]  [[G2064\|ἤλθομεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5174\|Τρῳάδα]]  [[G0891\|ἄχρι]]  [[G2250\|ἡμερῶν]]  [[G4002\|πέντε]]  [[G3699\|ὅπου]]  [[G1304\|διετρίψαμεν]]  [[G2250\|ἡμέρας]]  [[G2033\|ἑπτά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic LUKE|LUKE]] • [[topic MACEDONIA|MACEDONIA]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic SECUNDUS|SECUNDUS]] • [[topic TROAS|TROAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.5|<< Acts 20:5]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.7|Acts 20:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

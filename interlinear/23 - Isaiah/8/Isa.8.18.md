@@ -1,8 +1,69 @@
+---
+title: Isaiah 8:18
+type: Verse
+kjv: "Behold, I and the children whom the LORD hath given me are for signs and for wonders in Israel from the LORD of hosts, which dwelleth in mount Zion."
+bsb: "Here am I, and the children the LORD has given me as signs and symbols in Israel from the LORD of Hosts, who dwells on Mount Zion."
+hebrew: "הִנֵּ֣ה אָנֹכִ֗י וְהַיְלָדִים֙ אֲשֶׁ֣ר נָֽתַן־ לִ֣י יְהוָ֔ה לְאֹת֥וֹת וּלְמוֹפְתִ֖ים בְּיִשְׂרָאֵ֑ל מֵעִם֙ יְהוָ֣ה צְבָא֔וֹת הַשֹּׁכֵ֖ן בְּהַ֥ר צִיּֽוֹן׃ ס"
+pericope: "[[Isa.8.11 A Call to Fear God|A Call to Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H0226G]]"
+- "[[H4159]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H6635B]]"
+- "[[H7931]]"
+- "[[H2022G]]"
+- "[[H6726]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 8:18**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I and the children whom the LORD hath given me [are] for signs and for wonders in Israel from the LORD of hosts, which dwelleth in mount Zion.
 <small><sub>**BSB:**</sub></small>
 Here am I, and the children the LORD has given me as signs and symbols in Israel from the LORD of Hosts, who dwells on Mount Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֣ה]] [[H0595\|אָנֹכִ֗י]] [[H9002\|וְ]][[H9009\|הַ]][[H3206\|יְלָדִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָֽתַן]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H0226G\|אֹת֥וֹת]] [[H9002\|וּ]][[H9005\|לְ]][[H4159\|מוֹפְתִ֖ים]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9006\|מֵ]][[H5973B\|עִם֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9009\|הַ]][[H7931\|שֹּׁכֵ֖ן]] [[H9003\|בְּ]][[H2022G\|הַ֥ר]] [[H6726\|צִיּֽוֹן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.17|<< Isaiah 8:17]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.19|Isaiah 8:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -27,7 +88,7 @@ Here am I, and the children the LORD has given me as signs and symbols in Israel
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָא֔וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who dwells  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7931\|שֹּׁכֵ֖ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sho.Khen<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on [the] mountain of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2022G\|הַ֥ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  |**<big>&#8207;[[H6726\|צִיּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.17|<< Isaiah 8:17]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.19|Isaiah 8:19 >>]]</td></tr></table>
 
 

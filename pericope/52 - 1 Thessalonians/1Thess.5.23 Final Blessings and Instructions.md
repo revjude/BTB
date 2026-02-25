@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Final Blessings and Instructions
+type: Pericope
 pericope: "[[1Thess.5.23 Final Blessings and Instructions|Final Blessings and Instructions]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 Thessalonians
 chapter: 5
 book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
-genre:
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 6
 verses:
 - "[[1Thess.5.23]]"
 - "[[1Thess.5.24]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Thess.5.28]]"
 ---
 
-[[1Thess.5|1 Thessalonians 5:23 - 1 Thessalonians 5:28]]
+<small>[[1Thess.5|1 Thessalonians 5:23-28]]</small>
 *Final Blessings and Instructions*
 
 [[1Thess.5.23|23]] And the very God of peace sanctify you wholly; and \[I pray God\] your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ.

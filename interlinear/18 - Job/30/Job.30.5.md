@@ -1,8 +1,51 @@
+---
+title: Job 30:5
+type: Verse
+kjv: "They were driven forth from among men, (they cried after them as after a thief;)"
+bsb: "They were banished from among men, shouted at like thieves,"
+hebrew: "מִן־ גֵּ֥ו יְגֹרָ֑שׁוּ יָרִ֥יעוּ עָ֝לֵ֗ימוֹ כַּגַּנָּֽב׃"
+pericope: "[[Job.30.1 Job’s Honor Turned to Contempt|Job’s Honor Turned to Contempt]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1460B]]"
+- "[[H1644G]]"
+- "[[H7321]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H1590]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:5**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They were driven forth from among [men], (they cried after them as [after] a thief;)
 <small><sub>**BSB:**</sub></small>
 They were banished from among men, shouted at like thieves,
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H1460B\|גֵּ֥ו]] [[H1644G\|יְגֹרָ֑שׁוּ]] [[H7321\|יָרִ֥יעוּ]] [[H5921A\|עָ֝לֵ֗י]][[H9038\|מוֹ]] [[H9004\|כַּ]][[H1590\|גַּנָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.4|<< Job 30:4]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.6|Job 30:6 >>]]</td></tr></table>
 

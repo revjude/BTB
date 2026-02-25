@@ -1,8 +1,60 @@
+---
+title: Leviticus 13:33
+type: Verse
+kjv: "He shall be shaven, but the scall shall he not shave; and the priest shall shut up him that hath the scall seven days more:"
+bsb: "then the person must shave himself except for the scaly area. Then the priest shall isolate him for another seven days."
+hebrew: "וְהִ֨תְגַּלָּ֔ח וְאֶת־ הַנֶּ֖תֶק לֹ֣א יְגַלֵּ֑חַ וְהִסְגִּ֨יר הַכֹּהֵ֧ן אֶת־ הַנֶּ֛תֶק שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BEARD|BEARD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1548]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5424]]"
+- "[[H3808]]"
+- "[[H5462]]"
+- "[[H3548]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:33**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall be shaven, but the scall shall he not shave; and the priest shall shut up [him that hath] the scall seven days more:
 <small><sub>**BSB:**</sub></small>
 then the person must shave himself except for the scaly area. Then the priest shall isolate him for another seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1548\|הִ֨תְגַּלָּ֔ח]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5424\|נֶּ֖תֶק]] [[H3808\|לֹ֣א]] [[H1548\|יְגַלֵּ֑חַ]] [[H9001\|וְ]][[H5462\|הִסְגִּ֨יר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֧ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5424\|נֶּ֛תֶק]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H8145\|שֵׁנִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEARD|BEARD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.32|<< Leviticus 13:32]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.34|Leviticus 13:34 >>]]</td></tr></table>
 

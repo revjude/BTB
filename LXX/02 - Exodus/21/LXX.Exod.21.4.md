@@ -1,6 +1,72 @@
+---
+title: LXX Exodus 21:4
+type: Verse
+lxx: "And if the master should give to him a wife, and she should bear to him, sons and daughters, the wife and the children shall be  his masters, and he alone shall go forth by himself."
+greek: "εάν δε ο κύριος δω αυτώ γυναίκα και τέκη αυτώ υιούς και θυγατέρας η γυνή και τα παιδία έσται τω κυρίω αυτού αυτός δε μόνος εξελεύσεται μετ΄ αυτού"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G1135]]"
+- "[[G2532]]"
+- "[[G5088]]"
+- "[[G1473]]"
+- "[[G5207]]"
+- "[[G2532]]"
+- "[[G2364]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3813]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3441]]"
+- "[[G1831]]"
+- "[[G3326]]"
+- "[[G1473]]"
+---
+
 **LXX Exodus 21:4** 
 <small><sub>**LXX:**</sub></small>
 And if the master should give to him a wife, and she should bear to him, sons and daughters, the wife and the children shall be  his masters, and he alone shall go forth by himself. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1161\|δε]] [[G3588\|ο]] [[G2962\|κύριος]] [[G1325\|δω]] [[G1473\|αυτώ]] [[G1135\|γυναίκα]] [[G2532\|και]] [[G5088\|τέκη]] [[G1473\|αυτώ]] [[G5207\|υιούς]] [[G2532\|και]] [[G2364\|θυγατέρας]] [[G3588\|η]] [[G1135\|γυνή]] [[G2532\|και]] [[G3588\|τα]] [[G3813\|παιδία]] [[G1510\|έσται]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G1473\|αυτού]] [[G1473\|αυτός]] [[G1161\|δε]] [[G3441\|μόνος]] [[G1831\|εξελεύσεται]] [[G3326\|μετ΄]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic PROPERTY|PROPERTY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.3|<< Exodus 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.5|Exodus 21:5 >>]]</td></tr></table>
 
@@ -31,6 +97,6 @@ And if the master should give to him a wife, and she should bear to him, sons an
 | shall go forth | **<big>[[G1831\|εξελεύσεται]]</big>** |
 | by | **<big>[[G3326\|μετ΄]]</big>** |
 | himself. | **<big>[[G1473\|αυτού]]</big>** |
-[[Exod.21.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.3|<< Exodus 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.5|Exodus 21:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.21.3|<< Exodus 21:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.21.5|Exodus 21:5 >>]]</td></tr></table>
 
 

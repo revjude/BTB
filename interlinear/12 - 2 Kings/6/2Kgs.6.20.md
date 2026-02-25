@@ -1,8 +1,65 @@
+---
+title: 2 Kings 6:20
+type: Verse
+kjv: "And it came to pass, when they were come into Samaria, that Elisha said, LORD, open the eyes of these men, that they may see. And the LORD opened their eyes, and they saw; and, behold, they were in the midst of Samaria."
+bsb: "When they had entered Samaria, Elisha said, “O LORD, open the eyes of these men that they may see.” Then the LORD opened their eyes, and they looked around and discovered that they were in Samaria."
+hebrew: "וַיְהִי֮ כְּבֹאָ֣ם שֹׁמְרוֹן֒ וַיֹּ֣אמֶר אֱלִישָׁ֔ע יְהוָ֕ה פְּקַ֥ח אֶת־ עֵינֵֽי־ אֵ֖לֶּה וְיִרְא֑וּ וַיִּפְקַ֤ח יְהוָה֙ אֶת־ עֵ֣ינֵיהֶ֔ם וַיִּרְא֕וּ וְהִנֵּ֖ה בְּת֥וֹךְ שֹׁמְרֽוֹן׃"
+pericope: "[[2Kgs.6.8 Elisha Captures the Blinded Arameans|Elisha Captures the Blinded Arameans]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0935G]]"
+- "[[H9048]]"
+- "[[H8111]]"
+- "[[H0559]]"
+- "[[H0477]]"
+- "[[H3068G]]"
+- "[[H6491]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9028]]"
+- "[[H2009]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:20**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when they were come into Samaria, that Elisha said, LORD, open the eyes of these [men], that they may see. And the LORD opened their eyes, and they saw; and, behold, [they were] in the midst of Samaria.
 <small><sub>**BSB:**</sub></small>
 When they had entered Samaria, Elisha said, “O LORD, open the eyes of these men that they may see.” Then the LORD opened their eyes, and they looked around and discovered that they were in Samaria.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֮]] [[H9004\|כְּ]][[H0935G\|בֹאָ֣]][[H9048\|ם]] [[H8111\|שֹׁמְרוֹן֒]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0477\|אֱלִישָׁ֔ע]] [[H3068G\|יְהוָ֕ה]] [[H6491\|פְּקַ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינֵֽי]][[H9014\|־]] [[H0428\|אֵ֖לֶּה]] [[H9002\|וְ]][[H7200G\|יִרְא֑וּ]] [[H9001\|וַ]][[H6491\|יִּפְקַ֤ח]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵ֣ינֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H7200G\|יִּרְא֕וּ]] [[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic ISRAEL|ISRAEL]] • [[topic JORAM|JORAM]] • [[topic PRAYER|PRAYER]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.19|<< 2 Kings 6:19]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.21|2 Kings 6:21 >>]]</td></tr></table>
 

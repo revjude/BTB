@@ -1,8 +1,58 @@
+---
+title: Judges 21:9
+type: Verse
+kjv: "For the people were numbered, and, behold, there were none of the inhabitants of Jabeshgilead there."
+bsb: "For when the people were counted, none of the residents of Jabesh-gilead were there."
+hebrew: "וַיִּתְפָּקֵ֖ד הָעָ֑ם וְהִנֵּ֤ה אֵֽין־ שָׁם֙ אִ֔ישׁ מִיּוֹשְׁבֵ֖י יָבֵ֥שׁ גִּלְעָֽד׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485A]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H3427]]"
+- "[[H3003I]]"
+- "[[H1568L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:9**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the people were numbered, and, behold, [there were] none of the inhabitants of Jabeshgilead there.
 <small><sub>**BSB:**</sub></small>
 For when the people were counted, none of the residents of Jabesh-gilead were there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6485A\|יִּתְפָּקֵ֖ד]] [[H9009\|הָ]][[H5971K\|עָ֑ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H0369\|אֵֽין]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H0376I\|אִ֔ישׁ]] [[H9006\|מִ]][[H3427\|יּוֹשְׁבֵ֖י]] [[H3003I\|יָבֵ֥שׁ]] [[H1568L\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.8|<< Judges 21:8]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.10|Judges 21:10 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Psalm 55:3
+type: Verse
+kjv: "Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me."
+bsb: "at the voice of the enemy, at the pressure of the wicked. For they bring down disaster upon me and resent me in their anger."
+hebrew: "מִקּ֤וֹל אוֹיֵ֗ב מִפְּנֵ֣י עָקַ֣ת רָשָׁ֑ע כִּי־ יָמִ֥יטוּ עָלַ֥י אָ֝֗וֶן וּבְאַ֥ף יִשְׂטְמֽוּנִי׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H0341]]"
+- "[[H6440I]]"
+- "[[H6125]]"
+- "[[H7563]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4131]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H0205G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H7852]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:3**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.
 <small><sub>**BSB:**</sub></small>
 at the voice of the enemy, at the pressure of the wicked. For they bring down disaster upon me and resent me in their anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6963H\|קּ֤וֹל]] [[H0341\|אוֹיֵ֗ב]] [[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H6125\|עָקַ֣ת]] [[H7563\|רָשָׁ֑ע]] [[H3588A\|כִּי]][[H9014\|־]] [[H4131\|יָמִ֥יטוּ]] [[H5921A\|עָלַ֥]][[H9030\|י]] [[H0205G\|אָ֝֗וֶן]] [[H9002\|וּ]][[H9003\|בְ]][[H0639G\|אַ֥ף]] [[H7852\|יִשְׂטְמֽוּ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGER|ANGER]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.2|<< Psalms 55:2]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.4|Psalms 55:4 >>]]</td></tr></table>
 

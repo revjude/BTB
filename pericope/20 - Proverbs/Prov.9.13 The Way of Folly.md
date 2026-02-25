@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Way of Folly
+type: Pericope
 pericope: "[[Prov.9.13 The Way of Folly|The Way of Folly]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 9
 book/chapter: "[[Prov.9|Proverbs 9]]"
-genre:
+chronological_order: 464
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 6
 verses:
 - "[[Prov.9.13]]"
 - "[[Prov.9.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Prov.9.18]]"
 ---
 
-[[Prov.9|Proverbs 9:13 - Proverbs 9:18]]
+<small>[[Prov.9|Proverbs 9:13-18]]</small>
 *The Way of Folly*
 
 [[Prov.9.13|13]] A foolish woman \[is\] clamorous: \[she is\] simple, and knoweth nothing.

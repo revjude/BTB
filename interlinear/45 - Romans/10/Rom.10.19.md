@@ -1,10 +1,57 @@
+---
+title: Romans 10:19
+type: Verse
+kjv: "But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you."
+bsb: "I ask instead, did Israel not understand? First, Moses says: “I will make you jealous by those who are not a nation; I will make you angry by a nation without understanding.”"
+greek: "ἀλλὰ λέγω· μὴ Ἰσραὴλ οὐκ ἔγνω; πρῶτος Μωϋσῆς λέγει· ἐγὼ παραζηλώσω ὑμᾶς ἐπ᾽ οὐκ ἔθνει ἐπ᾽ ἔθνει ἀσυνέτῳ παροργιῶ ὑμᾶς."
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G0235]]"
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G2474]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G4413G]]"
+- "[[G3475]]"
+- "[[G1473]]"
+- "[[G3863]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G1484]]"
+- "[[G0801]]"
+- "[[G3949]]"
+texts:
+- NKO
+---
+
 **Romans 10:19**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by [them that are] no people, [and] by a foolish nation I will anger you.
 <small><sub>**BSB:**</sub></small>
 I ask instead, did Israel not understand? First, Moses says: “I will make you jealous by those who are not a nation; I will make you angry by a nation without understanding.”
-<small><sub>**Literal:**</sub></small>
-But I ask; surely not Israel not did know First Moses says: I myself will provoke to jealousy you by [those] not a nation by a nation without understanding I will anger you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.18|<< Romans 10:18]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.20|Romans 10:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G3004G\|λέγω·]]  [[G3361\|μὴ]]  [[G2474\|Ἰσραὴλ]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνω;]]  [[G4413G\|πρῶτος]]  [[G3475\|Μωϋσῆς]]  [[G3004G\|λέγει·]]  [[G1473\|ἐγὼ]]  [[G3863\|παραζηλώσω]]  [[G4771\|ὑμᾶς]]  [[G1909\|ἐπ᾽]]  [[G3756\|οὐκ]]  [[G1484\|ἔθνει]]  [[G1909\|ἐπ᾽]]  [[G1484\|ἔθνει]]  [[G0801\|ἀσυνέτῳ]]  [[G3949\|παροργιῶ]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.18|<< Romans 10:18]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.20|Romans 10:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:19** is...
 > $\quad$ referencing: [[LXX.Deut.32.21|Deut 32:21]]

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Both Sisters
+type: Pericope
 pericope: "[[Ezek.23.36 Judgment on Both Sisters|Judgment on Both Sisters]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 23
 book/chapter: "[[Ezek.23|Ezekiel 23]]"
-genre:
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 14
 verses:
 - "[[Ezek.23.36]]"
 - "[[Ezek.23.37]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ezek.23.49]]"
 ---
 
-[[Ezek.23|Ezekiel 23:36 - Ezekiel 23:49]]
+<small>[[Ezek.23|Ezekiel 23:36-49]]</small>
 *Judgment on Both Sisters*
 
 [[Ezek.23.36|36]] The LORD said moreover unto me; Son of man, wilt thou judge Aholah and Aholibah? yea, declare unto them their abominations;

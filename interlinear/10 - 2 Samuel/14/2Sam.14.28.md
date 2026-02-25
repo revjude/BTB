@@ -1,8 +1,51 @@
+---
+title: 2 Samuel 14:28
+type: Verse
+kjv: "So Absalom dwelt two full years in Jerusalem, and saw not the king’s face."
+bsb: "Now Absalom lived in Jerusalem two years without seeing the face of the king."
+hebrew: "וַיֵּ֧שֶׁב אַבְשָׁל֛וֹם בִּירוּשָׁלִַ֖ם שְׁנָתַ֣יִם יָמִ֑ים וּפְנֵ֥י הַמֶּ֖לֶךְ לֹ֥א רָאָֽה׃"
+pericope: "[[2Sam.14.28 Absalom Reconciled to David|Absalom Reconciled to David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H0053]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H8141]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:28**<big><big>[[2Sam.14.28 Absalom Reconciled to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Absalom dwelt two full years in Jerusalem, and saw not the king’s face.
 <small><sub>**BSB:**</sub></small>
 Now Absalom lived in Jerusalem two years without seeing the face of the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּ֧שֶׁב]] [[H0053\|אַבְשָׁל֛וֹם]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H8141\|שְׁנָתַ֣יִם]] [[H3117G\|יָמִ֑ים]] [[H9002\|וּ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H3808\|לֹ֥א]] [[H7200G\|רָאָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.27|<< 2 Samuel 14:27]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.29|2 Samuel 14:29 >>]]</td></tr></table>
 

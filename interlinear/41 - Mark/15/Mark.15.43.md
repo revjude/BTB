@@ -1,10 +1,70 @@
+---
+title: Mark 15:43
+type: Verse
+kjv: "Joseph of Arimathaea, an honourable counseller, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus."
+bsb: "Joseph of Arimathea, a prominent Council member who himself was waiting for the kingdom of God, boldly went to Pilate to ask for the body of Jesus."
+greek: "ἐλθὼν Ἰωσὴφ ὁ ἀπὸ Ἁριμαθαίας, εὐσχήμων βουλευτὴς ὃς καὶ αὐτὸς ἦν προσδεχόμενος τὴν βασιλείαν τοῦ θεοῦ, τολμήσας εἰσῆλθεν πρὸς τὸν Πιλᾶτον καὶ ᾐτήσατο τὸ σῶμα τοῦ Ἰησοῦ."
+pericope: "[[Mark.15.42 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ARIMATHEA|ARIMATHEA]]"
+- "[[topic COUNSELLOR|COUNSELLOR]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[G2064]]"
+- "[[G2501I]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G0707]]"
+- "[[G2158]]"
+- "[[G1010]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G4327]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G5111]]"
+- "[[G1525]]"
+- "[[G4314]]"
+- "[[G4091]]"
+- "[[G0154]]"
+- "[[G4983]]"
+- "[[G2424G]]"
+texts:
+- N(k)O
+- NKO
+- no
+---
+
 **Mark 15:43**<big><big>[[Mark.15.42 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Joseph of Arimathaea, an honourable counseller, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus.
 <small><sub>**BSB:**</sub></small>
 Joseph of Arimathea, a prominent Council member who himself was waiting for the kingdom of God, boldly went to Pilate to ask for the body of Jesus.
-<small><sub>**Literal:**</sub></small>
-coming Joseph <the> from Arimathea, a prominent Council member who also himself was waiting for the kingdom <the> of God, having boldness he went in to <the> Pilate and asked for the body <the> of Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.42|<< Mark 15:42]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.44|Mark 15:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλθὼν]]  [[G2501I\|Ἰωσὴφ]]  [[G3588\|ὁ]]  [[G0575\|ἀπὸ]]  [[G0707\|Ἁριμαθαίας,]]  [[G2158\|εὐσχήμων]]  [[G1010\|βουλευτὴς]]  [[G3739\|ὃς]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1510\|ἦν]]  [[G4327\|προσδεχόμενος]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G5111\|τολμήσας]]  [[G1525\|εἰσῆλθεν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G4091\|Πιλᾶτον]]  [[G2532\|καὶ]]  [[G0154\|ᾐτήσατο]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARIMATHEA|ARIMATHEA]] • [[topic COUNSELLOR|COUNSELLOR]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic WAITING|WAITING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.42|<< Mark 15:42]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.44|Mark 15:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

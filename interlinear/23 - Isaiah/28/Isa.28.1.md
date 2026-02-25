@@ -1,8 +1,66 @@
+---
+title: Isaiah 28:1
+type: Verse
+kjv: "Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty is a fading flower, which are on the head of the fat valleys of them that are overcome with wine!"
+bsb: "Woe to the majestic crown of Ephraim’s drunkards, to the fading flower of his glorious splendor, set on the summit above the fertile valley, the pride of those overcome by wine."
+hebrew: "ה֗וֹי עֲטֶ֤רֶת גֵּאוּת֙ שִׁכֹּרֵ֣י אֶפְרַ֔יִם וְצִ֥יץ נֹבֵ֖ל צְבִ֣י תִפְאַרְתּ֑וֹ אֲשֶׁ֛ר עַל־ רֹ֥אשׁ גֵּֽיא־ שְׁמָנִ֖ים הֲל֥וּמֵי יָֽיִן׃"
+pericope: "[[Isa.28.1 The Captivity of Ephraim|The Captivity of Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DRUNKARD|DRUNKARD]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H1945]]"
+- "[[H5850]]"
+- "[[H1348]]"
+- "[[H7910]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H6731A]]"
+- "[[H5034B]]"
+- "[[H6643A]]"
+- "[[H8597]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H1516R]]"
+- "[[H8081]]"
+- "[[H1986]]"
+- "[[H3196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:1**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to the crown of pride, to the drunkards of Ephraim, whose glorious beauty [is] a fading flower, which [are] on the head of the fat valleys of them that are overcome with wine!
 <small><sub>**BSB:**</sub></small>
 Woe to the majestic crown of Ephraim’s drunkards, to the fading flower of his glorious splendor, set on the summit above the fertile valley, the pride of those overcome by wine.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֗וֹי]] [[H5850\|עֲטֶ֤רֶת]] [[H1348\|גֵּאוּת֙]] [[H7910\|שִׁכֹּרֵ֣י]] [[H0669G\|אֶפְרַ֔יִם]] [[H9002\|וְ]][[H6731A\|צִ֥יץ]] [[H5034B\|נֹבֵ֖ל]] [[H6643A\|צְבִ֣י]] [[H8597\|תִפְאַרְתּ֑]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֛ר]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֥אשׁ]] [[H1516R\|גֵּֽיא]][[H9014\|־]] [[H8081\|שְׁמָנִ֖ים]] [[H1986\|הֲל֥וּמֵי]] [[H3196\|יָֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKARD|DRUNKARD]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic EPHRAIM|EPHRAIM]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.13|<< Isaiah 27:13]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.2|Isaiah 28:2 >>]]</td></tr></table>
 

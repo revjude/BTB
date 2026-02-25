@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 10:18
+type: Verse
+kjv: "He doth execute the judgment of the fatherless and widow, and loveth the stranger, in giving him food and raiment."
+bsb: "He executes justice for the fatherless and widow, and He loves the foreigner, giving him food and clothing."
+hebrew: "עֹשֶׂ֛ה מִשְׁפַּ֥ט יָת֖וֹם וְאַלְמָנָ֑ה וְאֹהֵ֣ב גֵּ֔ר לָ֥תֶת ל֖וֹ לֶ֥חֶם וְשִׂמְלָֽה׃"
+pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H0157G]]"
+- "[[H1616]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H3899G]]"
+- "[[H8071]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:18**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He doth execute the judgment of the fatherless and widow, and loveth the stranger, in giving him food and raiment.
 <small><sub>**BSB:**</sub></small>
 He executes justice for the fatherless and widow, and He loves the foreigner, giving him food and clothing.
+<small><sub>**Hebrew:**</sub></small>
+[[H6213A\|עֹשֶׂ֛ה]] [[H4941H\|מִשְׁפַּ֥ט]] [[H3490\|יָת֖וֹם]] [[H9002\|וְ]][[H0490\|אַלְמָנָ֑ה]] [[H9002\|וְ]][[H0157G\|אֹהֵ֣ב]] [[H1616\|גֵּ֔ר]] [[H9005\|לָ֥]][[H5414G\|תֶת]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H3899G\|לֶ֥חֶם]] [[H9002\|וְ]][[H8071\|שִׂמְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic ORPHAN|ORPHAN]] • [[topic STRANGERS|STRANGERS]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.17|<< Deuteronomy 10:17]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.19|Deuteronomy 10:19 >>]]</td></tr></table>
 

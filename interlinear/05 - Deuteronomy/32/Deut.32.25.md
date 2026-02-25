@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 32:25
+type: Verse
+kjv: "The sword without, and terror within, shall destroy both the young man and the virgin, the suckling also with the man of gray hairs."
+bsb: "Outside, the sword will take their children, and inside, terror will strike the young man and the young woman, the infant and the gray-haired man."
+hebrew: "מִחוּץ֙ תְּשַׁכֶּל־ חֶ֔רֶב וּמֵחֲדָרִ֖ים אֵימָ֑ה גַּם־ בָּחוּר֙ גַּם־ בְּתוּלָ֔ה יוֹנֵ֖ק עִם־ אִ֥ישׁ שֵׂיבָֽה׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H7921A]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H2315]]"
+- "[[H0367]]"
+- "[[H1571]]"
+- "[[H0970]]"
+- "[[H1330]]"
+- "[[H3243]]"
+- "[[H5973A]]"
+- "[[H0376G]]"
+- "[[H7872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:25**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sword without, and terror within, shall destroy both the young man and the virgin, the suckling [also] with the man of gray hairs.
 <small><sub>**BSB:**</sub></small>
 Outside, the sword will take their children, and inside, terror will strike the young man and the young woman, the infant and the gray-haired man.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H2351\|חוּץ֙]] [[H7921A\|תְּשַׁכֶּל]][[H9014\|־]] [[H2719\|חֶ֔רֶב]] [[H9002\|וּ]][[H9006\|מֵ]][[H2315\|חֲדָרִ֖ים]] [[H0367\|אֵימָ֑ה]] [[H1571\|גַּם]][[H9014\|־]] [[H0970\|בָּחוּר֙]] [[H1571\|גַּם]][[H9014\|־]] [[H1330\|בְּתוּלָ֔ה]] [[H3243\|יוֹנֵ֖ק]] [[H5973A\|עִם]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H7872\|שֵׂיבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]] • [[topic WAR|WAR]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.24|<< Deuteronomy 32:24]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.26|Deuteronomy 32:26 >>]]</td></tr></table>
 

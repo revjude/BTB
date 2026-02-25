@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 18:22
+type: Verse
+kjv: "Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?"
+bsb: "Ahimaaz son of Zadok, however, persisted and said to Joab, “No matter what, please let me also run behind the Cushite!” “My son,” Joab replied, “why do you want to run, since you will not receive a reward?”"
+hebrew: "וַיֹּ֨סֶף ע֜וֹד אֲחִימַ֤עַץ בֶּן־ צָדוֹק֙ וַיֹּ֣אמֶר אֶל־ יוֹאָ֔ב וִ֣יהִי מָ֔ה אָרֻֽצָה־ נָּ֥א גַם־ אָ֖נִי אַחֲרֵ֣י הַכּוּשִׁ֑י וַיֹּ֣אמֶר יוֹאָ֗ב לָֽמָּה־ זֶּ֞ה אַתָּ֥ה רָץ֙ בְּנִ֔י וּלְכָ֖ה אֵין־ בְּשׂוֹרָ֥ה מֹצֵֽאת׃"
+pericope: "[[2Sam.18.19 David Mourns for Absalom|David Mourns for Absalom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic CUSHI|CUSHI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H0290H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6659G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H4100]]"
+- "[[H7323G]]"
+- "[[H4994]]"
+- "[[H1571]]"
+- "[[H0589]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H3569G]]"
+- "[[H9005]]"
+- "[[H2088]]"
+- "[[H0859A]]"
+- "[[H9020]]"
+- "[[H9031]]"
+- "[[H0369]]"
+- "[[H1309]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 18:22**<big><big>[[2Sam.18.19 David Mourns for Absalom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?
 <small><sub>**BSB:**</sub></small>
 Ahimaaz son of Zadok, however, persisted and said to Joab, “No matter what, please let me also run behind the Cushite!” “My son,” Joab replied, “why do you want to run, since you will not receive a reward?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּ֨סֶף]] [[H5750\|ע֜וֹד]] [[H0290H\|אֲחִימַ֤עַץ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6659G\|צָדוֹק֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H3097G\|יוֹאָ֔ב]] [[H9002\|וִ֣]][[H1961\|יהִי]] [[H4100\|מָ֔ה]] [[H7323G\|אָרֻֽצָה]][[H9014\|־]] [[H4994\|נָּ֥א]] [[H1571\|גַם]][[H9014\|־]] [[H0589\|אָ֖נִי]] [[H0310A\|אַחֲרֵ֣י]] [[H9009\|הַ]][[H3569G\|כּוּשִׁ֑י]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3097G\|יוֹאָ֗ב]] [[H9005\|לָֽ]][[H4100\|מָּה]][[H9014\|־]] [[H2088\|זֶּ֞ה]] [[H0859A\|אַתָּ֥ה]] [[H7323G\|רָץ֙]] [[H1121A\|בְּנִ֔]][[H9020\|י]] [[H9002\|וּ]][[H9005\|לְ]][[H9031\|כָ֖ה]] [[H0369\|אֵין]][[H9014\|־]] [[H1309\|בְּשׂוֹרָ֥ה]] [[H4672\|מֹצֵֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAAZ|AHIMAAZ]] • [[topic CUSHI|CUSHI]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.21|<< 2 Samuel 18:21]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.23|2 Samuel 18:23 >>]]</td></tr></table>
 

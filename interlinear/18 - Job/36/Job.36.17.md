@@ -1,8 +1,50 @@
+---
+title: Job 36:17
+type: Verse
+kjv: "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee."
+bsb: "But now you are laden with the judgment due the wicked; judgment and justice have seized you."
+hebrew: "וְדִין־ רָשָׁ֥ע מָלֵ֑אתָ דִּ֖ין וּמִשְׁפָּ֣ט יִתְמֹֽכוּ׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H1779]]"
+- "[[H9014]]"
+- "[[H7563]]"
+- "[[H4390]]"
+- "[[H4941H]]"
+- "[[H8551]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:17**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou hast fulfilled the judgment of the wicked: judgment and justice take hold [on thee].
 <small><sub>**BSB:**</sub></small>
 But now you are laden with the judgment due the wicked; judgment and justice have seized you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1779\|דִין]][[H9014\|־]] [[H7563\|רָשָׁ֥ע]] [[H4390\|מָלֵ֑אתָ]] [[H1779\|דִּ֖ין]] [[H9002\|וּ]][[H4941H\|מִשְׁפָּ֣ט]] [[H8551\|יִתְמֹֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.16|<< Job 36:16]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.18|Job 36:18 >>]]</td></tr></table>
 

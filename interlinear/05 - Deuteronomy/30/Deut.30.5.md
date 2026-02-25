@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 30:5
+type: Verse
+kjv: "And the LORD thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers."
+bsb: "And the LORD your God will bring you into the land your fathers possessed, and you will take possession of it. He will cause you to prosper and multiply more than your fathers."
+hebrew: "וֶהֱבִֽיאֲךָ֞ יְהוָ֣ה אֱלֹהֶ֗יךָ אֶל־ הָאָ֛רֶץ אֲשֶׁר־ יָרְשׁ֥וּ אֲבֹתֶ֖יךָ וִֽירִשְׁתָּ֑הּ וְהֵיטִֽבְךָ֥ וְהִרְבְּךָ֖ מֵאֲבֹתֶֽיךָ׃"
+pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic PENITENT|PENITENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3423H]]"
+- "[[H0001G]]"
+- "[[H9034]]"
+- "[[H3190]]"
+- "[[H7235A]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:5**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.
 <small><sub>**BSB:**</sub></small>
 And the LORD your God will bring you into the land your fathers possessed, and you will take possession of it. He will cause you to prosper and multiply more than your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וֶ]][[H0935P\|הֱבִֽיאֲ]][[H9031\|ךָ֞]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3423H\|יָרְשׁ֥וּ]] [[H0001G\|אֲבֹתֶ֖י]][[H9021\|ךָ]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתָּ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H3190\|הֵיטִֽבְ]][[H9031\|ךָ֥]] [[H9001\|וְ]][[H7235A\|הִרְבְּ]][[H9031\|ךָ֖]] [[H9006\|מֵ]][[H0001G\|אֲבֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic PENITENT|PENITENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.4|<< Deuteronomy 30:4]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.6|Deuteronomy 30:6 >>]]</td></tr></table>
 

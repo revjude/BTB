@@ -1,8 +1,56 @@
+---
+title: Proverbs 27:14
+type: Verse
+kjv: "He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him."
+bsb: "If one blesses his neighbor with a loud voice early in the morning, it will be counted to him as a curse."
+hebrew: "מְבָ֘רֵ֤ךְ רֵעֵ֨הוּ׀ בְּק֣וֹל גָּ֭דוֹל בַּבֹּ֣קֶר הַשְׁכֵּ֑ים קְ֝לָלָ֗ה תֵּחָ֥שֶׁב לֽוֹ׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic RISING|RISING]]"
+strongs:
+- "[[H1288]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H1242]]"
+- "[[H7925]]"
+- "[[H7045]]"
+- "[[H2803H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:14**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.
 <small><sub>**BSB:**</sub></small>
 If one blesses his neighbor with a loud voice early in the morning, it will be counted to him as a curse.
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|מְבָ֘רֵ֤ךְ]] [[H7453\|רֵעֵ֨]][[H9023\|הוּ]][[H9015\|׀]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H1419A\|גָּ֭דוֹל]] [[H9003\|בַּ]][[H1242\|בֹּ֣קֶר]] [[H7925\|הַשְׁכֵּ֑ים]] [[H7045\|קְ֝לָלָ֗ה]] [[H2803H\|תֵּחָ֥שֶׁב]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic RISING|RISING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.13|<< Proverbs 27:13]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.15|Proverbs 27:15 >>]]</td></tr></table>
 

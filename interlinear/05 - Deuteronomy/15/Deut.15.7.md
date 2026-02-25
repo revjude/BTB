@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 15:7
+type: Verse
+kjv: "If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the LORD thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:"
+bsb: "If there is a poor man among your brothers within any of the gates in the land that the LORD your God is giving you, then you are not to harden your heart or shut your hand from your poor brother."
+hebrew: "כִּֽי־ יִהְיֶה֩ בְךָ֨ אֶבְי֜וֹן מֵאַחַ֤ד אַחֶ֙יךָ֙ בְּאַחַ֣ד שְׁעָרֶ֔יךָ בְּאַ֨רְצְךָ֔ אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֣ן לָ֑ךְ לֹ֧א תְאַמֵּ֣ץ אֶת־ לְבָבְךָ֗ וְלֹ֤א תִקְפֹּץ֙ אֶת־ יָ֣דְךָ֔ מֵאָחִ֖יךָ הָאֶבְיֽוֹן׃"
+pericope: "[[Deut.15.7 Generosity in Lending and Giving|Generosity in Lending and Giving]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H0034]]"
+- "[[H9006]]"
+- "[[H0259]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H8179H]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H0553]]"
+- "[[H0853]]"
+- "[[H3824]]"
+- "[[H9002]]"
+- "[[H7092]]"
+- "[[H3027G]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:7**<big><big>[[Deut.15.7 Generosity in Lending and Giving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the LORD thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:
 <small><sub>**BSB:**</sub></small>
 If there is a poor man among your brothers within any of the gates in the land that the LORD your God is giving you, then you are not to harden your heart or shut your hand from your poor brother.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶה֩]] [[H9003\|בְ]][[H9031\|ךָ֨]] [[H0034\|אֶבְי֜וֹן]] [[H9006\|מֵ]][[H0259\|אַחַ֤ד]] [[H0251I\|אַחֶ֙י]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H0259\|אַחַ֣ד]] [[H8179H\|שְׁעָרֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H0776G\|אַ֨רְצְ]][[H9021\|ךָ֔]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֣ן]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H3808\|לֹ֧א]] [[H0553\|תְאַמֵּ֣ץ]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֗]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H7092\|תִקְפֹּץ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָ֣דְ]][[H9021\|ךָ֔]] [[H9006\|מֵ]][[H0251I\|אָחִ֖י]][[H9021\|ךָ]] [[H9009\|הָ]][[H0034\|אֶבְיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic LENDING|LENDING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.6|<< Deuteronomy 15:6]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.8|Deuteronomy 15:8 >>]]</td></tr></table>
 

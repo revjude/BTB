@@ -1,10 +1,51 @@
+---
+title: John 11:53
+type: Verse
+kjv: "Then from that day forth they took counsel together for to put him to death."
+bsb: "So from that day on they plotted to kill Him."
+greek: "ἀπ᾽ ἐκείνης οὖν τῆς ἡμέρας ἐβουλεύσαντο ἵνα ἀποκτείνωσιν αὐτόν.¶"
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G0575]]"
+- "[[G1565]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1011]]"
+- "[[G2443]]"
+- "[[G0615]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 11:53**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then from that day forth they took counsel together for to put him to death.
 <small><sub>**BSB:**</sub></small>
 So from that day on they plotted to kill Him.
-<small><sub>**Literal:**</sub></small>
-From that [very] therefore <the> day they plotted that they may kill Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.52|<< John 11:52]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.54|John 11:54 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|ἀπ᾽]]  [[G1565\|ἐκείνης]]  [[G3767\|οὖν]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G1011\|ἐβουλεύσαντο]]  [[G2443\|ἵνα]]  [[G0615\|ἀποκτείνωσιν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.52|<< John 11:52]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.54|John 11:54 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

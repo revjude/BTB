@@ -1,8 +1,65 @@
+---
+title: Ezekiel 24:7
+type: Verse
+kjv: "For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;"
+bsb: "For the blood she shed is still within her; she poured it out on the bare rock; she did not pour it on the ground to cover it with dust."
+hebrew: "כִּ֤י דָמָהּ֙ בְּתוֹכָ֣הּ הָיָ֔ה עַל־ צְחִ֥יחַ סֶ֖לַע שָׂמָ֑תְהוּ לֹ֤א שְׁפָכַ֙תְהוּ֙ עַל־ הָאָ֔רֶץ לְכַסּ֥וֹת עָלָ֖יו עָפָֽר׃"
+pericope: "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1818]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6706]]"
+- "[[H5553H]]"
+- "[[H7760H]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H8210G]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H9005]]"
+- "[[H3680]]"
+- "[[H6083]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:7**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;
 <small><sub>**BSB:**</sub></small>
 For the blood she shed is still within her; she poured it out on the bare rock; she did not pour it on the ground to cover it with dust.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H1818\|דָמָ]][[H9024\|הּ֙]] [[H9003\|בְּ]][[H8432\|תוֹכָ֣]][[H9024\|הּ]] [[H1961\|הָיָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6706\|צְחִ֥יחַ]] [[H5553H\|סֶ֖לַע]] [[H7760H\|שָׂמָ֑תְ]][[H9033\|הוּ]] [[H3808\|לֹ֤א]] [[H8210G\|שְׁפָכַ֙תְ]][[H9033\|הוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָ֔רֶץ]] [[H9005\|לְ]][[H3680\|כַסּ֥וֹת]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H6083\|עָפָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.6|<< Ezekiel 24:6]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.8|Ezekiel 24:8 >>]]</td></tr></table>
 

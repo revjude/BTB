@@ -1,10 +1,71 @@
+---
+title: 2 Corinthians 4:2
+type: Verse
+kjv: "But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God."
+bsb: "Instead, we have renounced secret and shameful ways. We do not practice deceit, nor do we distort the word of God. On the contrary, by open proclamation of the truth, we commend ourselves to every man’s conscience in the sight of God."
+greek: "ἀλλ᾽ ἀπειπάμεθα τὰ κρυπτὰ τῆς αἰσχύνης μὴ περιπατοῦντες ἐν πανουργίᾳ, μηδὲ δολοῦντες τὸν λόγον τοῦ θεοῦ, ἀλλὰ τῇ φανερώσει τῆς ἀληθείας συνιστάνοντες ἑαυτοὺς πρὸς πᾶσαν συνείδησιν ἀνθρώπων ἐνώπιον τοῦ θεοῦ."
+pericope: "[[2Cor.4.1 The Light of the Gospel|The Light of the Gospel]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 4
+book/chapter: "[[2Cor.4|2 Corinthians 4]]"
+chronological_order: 1077
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G0550]]"
+- "[[G3588]]"
+- "[[G2927]]"
+- "[[G0152]]"
+- "[[G3361]]"
+- "[[G4043]]"
+- "[[G1722]]"
+- "[[G3834]]"
+- "[[G3366]]"
+- "[[G1389]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G5321]]"
+- "[[G0225]]"
+- "[[G4921]]"
+- "[[G1438]]"
+- "[[G4314]]"
+- "[[G3956]]"
+- "[[G4893]]"
+- "[[G0444]]"
+- "[[G1799]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 4:2**<big><big>[[2Cor.4.1 The Light of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But have renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
 <small><sub>**BSB:**</sub></small>
 Instead, we have renounced secret and shameful ways. We do not practice deceit, nor do we distort the word of God. On the contrary, by open proclamation of the truth, we commend ourselves to every man’s conscience in the sight of God.
-<small><sub>**Literal:**</sub></small>
-But we have renounced the hidden things <the> of shame not walking in craftiness nor falsifying the word <the> of God, but by the manifestation of the truth commending ourselves to every conscience of men before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.1|<< 2 Corinthians 4:1]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.3|2 Corinthians 4:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G0550\|ἀπειπάμεθα]]  [[G3588\|τὰ]]  [[G2927\|κρυπτὰ]]  [[G3588\|τῆς]]  [[G0152\|αἰσχύνης]]  [[G3361\|μὴ]]  [[G4043\|περιπατοῦντες]]  [[G1722\|ἐν]]  [[G3834\|πανουργίᾳ,]]  [[G3366\|μηδὲ]]  [[G1389\|δολοῦντες]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῇ]]  [[G5321\|φανερώσει]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G4921\|συνιστάνοντες]]  [[G1438\|ἑαυτοὺς]]  [[G4314\|πρὸς]]  [[G3956\|πᾶσαν]]  [[G4893\|συνείδησιν]]  [[G0444\|ἀνθρώπων]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic DECEIT|DECEIT]] • [[topic HONESTY|HONESTY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TRUTH|TRUTH]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.1|<< 2 Corinthians 4:1]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.3|2 Corinthians 4:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

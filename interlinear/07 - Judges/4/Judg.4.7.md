@@ -1,8 +1,65 @@
+---
+title: Judges 4:7
+type: Verse
+kjv: "And I will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thine hand."
+bsb: "And I will draw out Sisera the commander of Jabin’s army, his chariots, and his troops to the River Kishon, and I will deliver him into your hand.’”"
+hebrew: "וּמָשַׁכְתִּ֨י אֵלֶ֜יךָ אֶל־ נַ֣חַל קִישׁ֗וֹן אֶת־ סִֽיסְרָא֙ שַׂר־ צְבָ֣א יָבִ֔ין וְאֶת־ רִכְבּ֖וֹ וְאֶת־ הֲמוֹנ֑וֹ וּנְתַתִּ֖יהוּ בְּיָדֶֽךָ׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic JABIN|JABIN]]"
+- "[[topic KISHON|KISHON]]"
+strongs:
+- "[[H9001]]"
+- "[[H4900]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9014]]"
+- "[[H5158A]]"
+- "[[H7028]]"
+- "[[H0853]]"
+- "[[H5516G]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H2985H]]"
+- "[[H9002]]"
+- "[[H7393G]]"
+- "[[H9023]]"
+- "[[H1995A]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:7**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thine hand.
 <small><sub>**BSB:**</sub></small>
 And I will draw out Sisera the commander of Jabin’s army, his chariots, and his troops to the River Kishon, and I will deliver him into your hand.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4900\|מָשַׁכְתִּ֨י]] [[H0413\|אֵלֶ֜י]][[H9031\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H5158A\|נַ֣חַל]] [[H7028\|קִישׁ֗וֹן]] [[H0853\|אֶת]][[H9014\|־]] [[H5516G\|סִֽיסְרָא֙]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָ֣א]] [[H2985H\|יָבִ֔ין]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7393G\|רִכְבּ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1995A\|הֲמוֹנ֑]][[H9023\|וֹ]] [[H9001\|וּ]][[H5414G\|נְתַתִּ֖י]][[H9033\|הוּ]] [[H9003\|בְּ]][[H3027H\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic JABIN|JABIN]] • [[topic KISHON|KISHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.6|<< Judges 4:6]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.8|Judges 4:8 >>]]</td></tr></table>
 

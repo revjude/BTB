@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rider on the White Horse
+type: Pericope
 pericope: "[[Rev.19.11 The Rider on the White Horse|The Rider on the White Horse]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 19
 book/chapter: "[[Rev.19|Revelation 19]]"
-genre:
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 6
 verses:
 - "[[Rev.19.11]]"
 - "[[Rev.19.12]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rev.19.16]]"
 ---
 
-[[Rev.19|Revelation 19:11 - Revelation 19:16]]
+<small>[[Rev.19|Revelation 19:11-16]]</small>
 *The Rider on the White Horse*
 
 [[Rev.19.11|11]] And I saw heaven opened, and behold a white horse; and he that sat upon him \[was\] called Faithful and True, and in righteousness he doth judge and make war.

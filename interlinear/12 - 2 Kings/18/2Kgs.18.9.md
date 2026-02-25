@@ -1,8 +1,70 @@
+---
+title: 2 Kings 18:9
+type: Verse
+kjv: "And it came to pass in the fourth year of king Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, that Shalmaneser king of Assyria came up against Samaria, and besieged it."
+bsb: "In the fourth year of Hezekiah’s reign, which was the seventh year of the reign of Hoshea son of Elah over Israel, Shalmaneser king of Assyria marched against Samaria and besieged it."
+hebrew: "וַֽיְהִ֞י בַּשָּׁנָ֤ה הָֽרְבִיעִית֙ לַמֶּ֣לֶךְ חִזְקִיָּ֔הוּ הִ֚יא הַשָּׁנָ֣ה הַשְּׁבִיעִ֔ית לְהוֹשֵׁ֥עַ בֶּן־ אֵלָ֖ה מֶ֣לֶךְ יִשְׂרָאֵ֑ל עָלָ֞ה שַׁלְמַנְאֶ֧סֶר מֶֽלֶךְ־ אַשּׁ֛וּר עַל־ שֹׁמְר֖וֹן וַיָּ֥צַר עָלֶֽיהָ׃"
+pericope: "[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|Hezekiah Destroys Idolatry in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic HOSHEA|HOSHEA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHALMANESER|SHALMANESER]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H2396G]]"
+- "[[H1931]]"
+- "[[H7637]]"
+- "[[H1954G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0425I]]"
+- "[[H3478]]"
+- "[[H5927G]]"
+- "[[H8022]]"
+- "[[H0804G]]"
+- "[[H5921A]]"
+- "[[H8111]]"
+- "[[H6696A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:9**<big><big>[[2Kgs.18.1 Hezekiah Destroys Idolatry in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the fourth year of king Hezekiah, which [was] the seventh year of Hoshea son of Elah king of Israel, [that] Shalmaneser king of Assyria came up against Samaria, and besieged it.
 <small><sub>**BSB:**</sub></small>
 In the fourth year of Hezekiah’s reign, which was the seventh year of the reign of Hoshea son of Elah over Israel, Shalmaneser king of Assyria marched against Samaria and besieged it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִ֞י]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֤ה]] [[H9009\|הָֽ]][[H7243\|רְבִיעִית֙]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H2396G\|חִזְקִיָּ֔הוּ]] [[H1931\|הִ֚יא]] [[H9009\|הַ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔ית]] [[H9005\|לְ]][[H1954G\|הוֹשֵׁ֥עַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0425I\|אֵלָ֖ה]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5927G\|עָלָ֞ה]] [[H8022\|שַׁלְמַנְאֶ֧סֶר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֛וּר]] [[H5921A\|עַל]][[H9014\|־]] [[H8111\|שֹׁמְר֖וֹן]] [[H9001\|וַ]][[H6696A\|יָּ֥צַר]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic HOSHEA|HOSHEA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SAMARIA|SAMARIA]] • [[topic SHALMANESER|SHALMANESER]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.8|<< 2 Kings 18:8]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.10|2 Kings 18:10 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 5:4
+type: Verse
+kjv: "In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ,"
+bsb: "When you are assembled in the name of our Lord Jesus and I am with you in spirit, along with the power of the Lord Jesus,"
+greek: "ἐν τῷ ὀνόματι τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ συναχθέντων ὑμῶν καὶ τοῦ ἐμοῦ πνεύματος σὺν τῇ δυνάμει τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ"
+pericope: "[[1Cor.5.1 Immorality Rebuked|Immorality Rebuked]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 5
+book/chapter: "[[1Cor.5|1 Corinthians 5]]"
+chronological_order: 1062
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G4863]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G4151G]]"
+- "[[G4862]]"
+- "[[G1411]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **1 Corinthians 5:4**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ,
 <small><sub>**BSB:**</sub></small>
 When you are assembled in the name of our Lord Jesus and I am with you in spirit, along with the power of the Lord Jesus,
-<small><sub>**Literal:**</sub></small>
-in the name of the Lord our Jesus Christ having been gathered together you and <the> me in spirit with the power of the Lord of us Jesus Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.3|<< 1 Corinthians 5:3]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.5|1 Corinthians 5:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G4863\|συναχθέντων]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G1473\|ἐμοῦ]]  [[G4151G\|πνεύματος]]  [[G4862\|σὺν]]  [[G3588\|τῇ]]  [[G1411\|δυνάμει]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.3|<< 1 Corinthians 5:3]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.5|1 Corinthians 5:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua’s Death and Burial
+type: Pericope
 pericope: "[[Josh.24.29 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 24
 book/chapter: "[[Josh.24|Joshua 24]]"
-genre:
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 5
 verses:
 - "[[Josh.24.29]]"
 - "[[Josh.24.30]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Josh.24.33]]"
 ---
 
-[[Josh.24|Joshua 24:29 - Joshua 24:33]]
+<small>[[Josh.24|Joshua 24:29-33]]</small>
 *Joshua’s Death and Burial*
 
 [[Josh.24.29|29]] And it came to pass after these things, that Joshua the son of Nun, the servant of the LORD, died, \[being\] an hundred and ten years old.

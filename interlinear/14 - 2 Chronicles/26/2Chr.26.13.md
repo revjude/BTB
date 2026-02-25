@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 26:13
+type: Verse
+kjv: "And under their hand was an army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy."
+bsb: "Under their authority was an army of 307,500 trained for war, a powerful force to support the king against his enemies."
+hebrew: "וְעַל־ יָדָם֩ חֵ֨יל צָבָ֜א שְׁלֹ֧שׁ מֵא֣וֹת אֶ֗לֶף וְשִׁבְעַ֤ת אֲלָפִים֙ וַחֲמֵ֣שׁ מֵא֔וֹת עוֹשֵׂ֥י מִלְחָמָ֖ה בְּכֹ֣חַ חָ֑יִל לַעְזֹ֥ר לַמֶּ֖לֶךְ עַל־ הָאוֹיֵֽב׃"
+pericope: "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027H]]"
+- "[[H9028]]"
+- "[[H2428A]]"
+- "[[H6635H]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H7651]]"
+- "[[H2568]]"
+- "[[H6213H]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H2428G]]"
+- "[[H9005]]"
+- "[[H5826]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 26:13**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And under their hand [was] an army, three hundred thousand and seven thousand and five hundred, that made war with mighty power, to help the king against the enemy.
 <small><sub>**BSB:**</sub></small>
 Under their authority was an army of 307,500 trained for war, a powerful force to support the king against his enemies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3027H\|יָדָ]][[H9028\|ם֩]] [[H2428A\|חֵ֨יל]] [[H6635H\|צָבָ֜א]] [[H7969\|שְׁלֹ֧שׁ]] [[H3967\|מֵא֣וֹת]] [[H0505G\|אֶ֗לֶף]] [[H9002\|וְ]][[H7651\|שִׁבְעַ֤ת]] [[H0505G\|אֲלָפִים֙]] [[H9002\|וַ]][[H2568\|חֲמֵ֣שׁ]] [[H3967\|מֵא֔וֹת]] [[H6213H\|עוֹשֵׂ֥י]] [[H4421\|מִלְחָמָ֖ה]] [[H9003\|בְּ]][[H3581B\|כֹ֣חַ]] [[H2428G\|חָ֑יִל]] [[H9005\|לַ]][[H5826\|עְזֹ֥ר]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0341\|אוֹיֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.12|<< 2 Chronicles 26:12]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.14|2 Chronicles 26:14 >>]]</td></tr></table>
 

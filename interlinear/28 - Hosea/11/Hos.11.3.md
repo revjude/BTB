@@ -1,8 +1,59 @@
+---
+title: Hosea 11:3
+type: Verse
+kjv: "I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them."
+bsb: "It was I who taught Ephraim to walk, taking them by the arms, but they never realized that it was I who healed them."
+hebrew: "וְאָנֹכִ֤י תִרְגַּ֙לְתִּי֙ לְאֶפְרַ֔יִם קָחָ֖ם עַל־ זְרֽוֹעֹתָ֑יו וְלֹ֥א יָדְע֖וּ כִּ֥י רְפָאתִֽים׃"
+pericope: "[[Hos.11.1 Out of Egypt I Called My Son|Out of Egypt I Called My Son]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H8637]]"
+- "[[H9005]]"
+- "[[H0669G]]"
+- "[[H3947G]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2220]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H7495]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 11:3**<big><big>[[Hos.11.1 Out of Egypt I Called My Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.
 <small><sub>**BSB:**</sub></small>
 It was I who taught Ephraim to walk, taking them by the arms, but they never realized that it was I who healed them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0595\|אָנֹכִ֤י]] [[H8637\|תִרְגַּ֙לְתִּי֙]] [[H9005\|לְ]][[H0669G\|אֶפְרַ֔יִם]] [[H3947G\|קָחָ֖]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H2220\|זְרֽוֹעֹתָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3045\|יָדְע֖וּ]] [[H3588A\|כִּ֥י]] [[H7495\|רְפָאתִֽי]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic INGRATITUDE|INGRATITUDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.2|<< Hosea 11:2]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.4|Hosea 11:4 >>]]</td></tr></table>
 

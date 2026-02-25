@@ -1,10 +1,57 @@
+---
+title: Matthew 15:20
+type: Verse
+kjv: "These are the things which defile a man: but to eat with unwashen hands defileth not a man."
+bsb: "These are what defile a man, but eating with unwashed hands does not defile him.”"
+jesus_said: "These are the things which defile a man: but to eat with unwashen hands defileth not a man."
+greek: "ταῦτά ἐστιν τὰ κοινοῦντα τὸν ἄνθρωπον· τὸ δὲ ἀνίπτοις χερσὶν φαγεῖν οὐ κοινοῖ τὸν ἄνθρωπον.¶"
+pericope: "[[Matt.15.10 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2840]]"
+- "[[G0444]]"
+- "[[G1161]]"
+- "[[G0449]]"
+- "[[G5495]]"
+- "[[G5315]]"
+- "[[G3756]]"
+texts:
+- NKO
+---
+
 **Matthew 15:20**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These are [the things] which defile a man: but to eat with unwashen hands defileth not a man.
 <small><sub>**BSB:**</sub></small>
 These are what defile a man, but eating with unwashed hands does not defile him.”
-<small><sub>**Literal:**</sub></small>
-These are those defiling the man; that which but with unwashed hands to eat not it defiles the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.19|<< Matthew 15:19]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.21|Matthew 15:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτά]]  [[G1510\|ἐστιν]]  [[G3588\|τὰ]]  [[G2840\|κοινοῦντα]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον·]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G0449\|ἀνίπτοις]]  [[G5495\|χερσὶν]]  [[G5315\|φαγεῖν]]  [[G3756\|οὐ]]  [[G2840\|κοινοῖ]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIN|SIN]] • [[topic TEACHERS|TEACHERS]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.19|<< Matthew 15:19]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.21|Matthew 15:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Psalm 68:27
+type: Verse
+kjv: "There is little Benjamin with their ruler, the princes of Judah and their council, the princes of Zebulun, and the princes of Naphtali."
+bsb: "There is Benjamin, the youngest, ruling them, the princes of Judah in their company, the princes of Zebulun and of Naphtali."
+hebrew: "שָׁ֤ם בִּנְיָמִ֨ן׀ צָעִ֡יר רֹדֵ֗ם שָׂרֵ֣י יְ֭הוּדָה רִגְמָתָ֑ם שָׂרֵ֥י זְ֝בֻל֗וּן שָׂרֵ֥י נַפְתָּלִֽי׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic NAPHTALI|NAPHTALI]]"
+strongs:
+- "[[H8033G]]"
+- "[[H1144G]]"
+- "[[H9015]]"
+- "[[H6810]]"
+- "[[H7287A]]"
+- "[[H9038]]"
+- "[[H8269]]"
+- "[[H3063G]]"
+- "[[H7277]]"
+- "[[H9028]]"
+- "[[H2074]]"
+- "[[H5321G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:27**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There [is] little Benjamin [with] their ruler, the princes of Judah [and] their council, the princes of Zebulun, [and] the princes of Naphtali.
 <small><sub>**BSB:**</sub></small>
 There is Benjamin, the youngest, ruling them, the princes of Judah in their company, the princes of Zebulun and of Naphtali.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֤ם]] [[H1144G\|בִּנְיָמִ֨ן]][[H9015\|׀]] [[H6810\|צָעִ֡יר]] [[H7287A\|רֹדֵ֗]][[H9038\|ם]] [[H8269\|שָׂרֵ֣י]] [[H3063G\|יְ֭הוּדָה]] [[H7277\|רִגְמָתָ֑]][[H9028\|ם]] [[H8269\|שָׂרֵ֥י]] [[H2074\|זְ֝בֻל֗וּן]] [[H8269\|שָׂרֵ֥י]] [[H5321G\|נַפְתָּלִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NAPHTALI|NAPHTALI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.26|<< Psalms 68:26]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.28|Psalms 68:28 >>]]</td></tr></table>
 

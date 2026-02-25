@@ -1,8 +1,73 @@
+---
+title: Genesis 41:12
+type: Verse
+kjv: "And there was there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret."
+bsb: "Now a young Hebrew was there with us, a servant of the captain of the guard. We told him our dreams and he interpreted them for us individually."
+hebrew: "וְשָׁ֨ם אִתָּ֜נוּ נַ֣עַר עִבְרִ֗י עֶ֚בֶד לְשַׂ֣ר הַטַּבָּחִ֔ים וַנְּ֨סַפֶּר־ ל֔וֹ וַיִּפְתָּר־ לָ֖נוּ אֶת־ חֲלֹמֹתֵ֑ינוּ אִ֥ישׁ כַּחֲלֹמ֖וֹ פָּתָֽר׃"
+pericope: "[[Gen.41.1 The Dreams of Pharaoh|The Dreams of Pharaoh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H5288]]"
+- "[[H5680]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2876]]"
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H6622]]"
+- "[[H0853]]"
+- "[[H2472]]"
+- "[[H9025]]"
+- "[[H0376I]]"
+- "[[H9004]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:12**<big><big>[[Gen.41.1 The Dreams of Pharaoh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.
 <small><sub>**BSB:**</sub></small>
 Now a young Hebrew was there with us, a servant of the captain of the guard. We told him our dreams and he interpreted them for us individually.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8033G\|שָׁ֨ם]] [[H0854\|אִתָּ֜]][[H9035\|נוּ]] [[H5288\|נַ֣עַר]] [[H5680\|עִבְרִ֗י]] [[H5650\|עֶ֚בֶד]] [[H9005\|לְ]][[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H2876\|טַּבָּחִ֔ים]] [[H9001\|וַ]][[H5608A\|נְּ֨סַפֶּר]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H6622\|יִּפְתָּר]][[H9014\|־]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H2472\|חֲלֹמֹתֵ֑י]][[H9025\|נוּ]] [[H0376I\|אִ֥ישׁ]] [[H9004\|כַּ]][[H2472\|חֲלֹמ֖]][[H9023\|וֹ]] [[H6622\|פָּתָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.11|<< Genesis 41:11]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.13|Genesis 41:13 >>]]</td></tr></table>
 

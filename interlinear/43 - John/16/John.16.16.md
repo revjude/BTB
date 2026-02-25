@@ -1,10 +1,57 @@
+---
+title: John 16:16
+type: Verse
+kjv: "A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father."
+bsb: "In a little while you will see Me no more, and then after a little while you will see Me.”"
+jesus_said: "A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father."
+greek: "μικρὸν καὶ οὐκέτι οὐκέτι θεωρεῖτέ με, καὶ πάλιν μικρὸν καὶ ὄψεσθέ με ὅτι ἐγὼ ὑπάγω πρὸς τὸν πατέρα.¶"
+pericope: "[[John.16.5 The Promise of the Holy Spirit|The Promise of the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3398]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G2334]]"
+- "[[G3165]]"
+- "[[G3825]]"
+- "[[G3700]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G5217]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3962]]"
+texts:
+- NKO
+- N(K)O
+- K
+---
+
 **John 16:16**<big><big>[[John.16.5 The Promise of the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 A little while, and ye shall not see me: and again, a little while, and ye shall see me, because I go to the Father.
 <small><sub>**BSB:**</sub></small>
 In a little while you will see Me no more, and then after a little while you will see Me.”
-<small><sub>**Literal:**</sub></small>
-A little [while] and no longer you do behold Me, and again a little [while] and you will behold Me that I myself I am going to <the> Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.15|<< John 16:15]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.17|John 16:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3398\|μικρὸν]]  [[G2532\|καὶ]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G2334\|θεωρεῖτέ]]  [[G3165\|με,]]  [[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G3398\|μικρὸν]]  [[G2532\|καὶ]]  [[G3700\|ὄψεσθέ]]  [[G3165\|με]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G5217\|ὑπάγω]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.15|<< John 16:15]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.17|John 16:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,52 @@
+---
+title: Mark 15:45
+type: Verse
+kjv: "And when he knew it of the centurion, he gave the body to Joseph."
+bsb: "When Pilate had confirmed it with the centurion, he granted the body to Joseph."
+greek: "καὶ γνοὺς ἀπὸ τοῦ κεντυρίωνος ἐδωρήσατο τὸ πτῶμα τῷ Ἰωσήφ."
+pericope: "[[Mark.15.42 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2760]]"
+- "[[G1433]]"
+- "[[G4430]]"
+- "[[G2501I]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 15:45**<big><big>[[Mark.15.42 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he knew [it] of the centurion, he gave the body to Joseph.
 <small><sub>**BSB:**</sub></small>
 When Pilate had confirmed it with the centurion, he granted the body to Joseph.
-<small><sub>**Literal:**</sub></small>
-And having known [it] from the centurion He granted the body <the> to Joseph.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.44|<< Mark 15:44]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.46|Mark 15:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1097\|γνοὺς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2760\|κεντυρίωνος]]  [[G1433\|ἐδωρήσατο]]  [[G3588\|τὸ]]  [[G4430\|πτῶμα]]  [[G3588\|τῷ]]  [[G2501I\|Ἰωσήφ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENTURION|CENTURION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.44|<< Mark 15:44]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.46|Mark 15:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: John 12:7
+type: Verse
+kjv: "Then said Jesus, Let her alone: against the day of my burying hath she kept this."
+bsb: "“Leave her alone,” Jesus replied. “She has kept this perfume in preparation for the day of My burial."
+jesus_said: "Let her alone: against the day of my burying hath she kept this."
+greek: "Εἶπεν οὖν ὁ Ἰησοῦς· ἄφες αὐτήν, ἵνα εἰς τὴν ἡμέραν τοῦ ἐνταφιασμοῦ μου τηρήσῃ αὐτό·"
+pericope: "[[John.12.1 Mary Anoints Jesus|Mary Anoints Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0863G]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G1519]]"
+- "[[G2250]]"
+- "[[G1780]]"
+- "[[G3165]]"
+- "[[G5083I]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **John 12:7**<big><big>[[John.12.1 Mary Anoints Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus, Let her alone: against the day of my burying hath she kept this.
 <small><sub>**BSB:**</sub></small>
 “Leave her alone,” Jesus replied. “She has kept this perfume in preparation for the day of My burial.
-<small><sub>**Literal:**</sub></small>
-Said therefore <the> Jesus; do leave alone her, so that for the day of the burial of Mine she may keep it;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.6|<< John 12:6]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.8|John 12:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0863G\|ἄφες]]  [[G0846\|αὐτήν,]]  [[G2443\|ἵνα]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν]]  [[G3588\|τοῦ]]  [[G1780\|ἐνταφιασμοῦ]]  [[G3165\|μου]]  [[G5083I\|τηρήσῃ]]  [[G0846\|αὐτό·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.6|<< John 12:6]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.8|John 12:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

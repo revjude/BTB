@@ -1,15 +1,15 @@
 
 **JOHANAN**
 
-1. A Jewish captain [[2Kgs.25.22|2Ki 25:22]]-[[2Kgs.25.24|24]]
+1. A Jewish captain [[2Kgs.25.22|2Ki 25:22-24]]
 
-- Warns Gedaliah against Ishmael [[Jer.40.13|Jer 40:13]]-[[Jer.40.16|16]]
+- Warns Gedaliah against Ishmael [[Jer.40.13|Jer 40:13-16]]
 
-- Ishmael defeated by [[Jer.41.11|Jer 41:11]]-[[Jer.41.15|15]]
+- Ishmael defeated by [[Jer.41.11|Jer 41:11-15]]
 
 - Sought prayers of Jeremiah [[Jer.42.2|Jer 42:2]],[[Jer.42.3|3]]
 
-- Disobeyed Jeremiah and took him to Egypt [[Jer.43.1|Jer 43:1]]-[[Jer.43.7|7]]
+- Disobeyed Jeremiah and took him to Egypt [[Jer.43.1|Jer 43:1-7]]
 
 2. Son of Josiah [[1Chr.3.15|1Ch 3:15]]
 

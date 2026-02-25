@@ -1,10 +1,49 @@
+---
+title: John 8:27
+type: Verse
+kjv: "They understood not that he spake to them of the Father."
+bsb: "They did not understand that He was telling them about the Father."
+greek: "οὐκ ἔγνωσαν ὅτι τὸν πατέρα αὐτοῖς ἔλεγεν."
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **John 8:27**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They understood not that he spake to them of the Father.
 <small><sub>**BSB:**</sub></small>
 They did not understand that He was telling them about the Father.
-<small><sub>**Literal:**</sub></small>
-Not they understood that [about] the Father to them He was speaking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.26|<< John 8:26]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.28|John 8:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G1097\|ἔγνωσαν]]  [[G3754G\|ὅτι]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G0846\|αὐτοῖς]]  [[G3004G\|ἔλεγεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.26|<< John 8:26]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.28|John 8:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

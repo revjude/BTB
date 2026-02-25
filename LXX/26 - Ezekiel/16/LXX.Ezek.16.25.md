@@ -1,6 +1,65 @@
+---
+title: LXX Ezekiel 16:25
+type: Verse
+lxx: "And upon every corner of the way you built  your places of harlotry, and laid waste  your beauty. And every one passing by led through your legs, and you multiplied  your harlotry."
+greek: "και επ΄ αρχής πάσης οδού ωκοδόμησας τας πορνείας σου και ελυμήνω το κάλλος σου και διήγαγες τα σκέλη σου παντί παρόδω και επλήθυνας την πορνείαν σου"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G0746]]"
+- "[[G3956]]"
+- "[[G3598]]"
+- "[[G3618]]"
+- "[[G3588]]"
+- "[[G8866]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3075]]"
+- "[[G3588]]"
+- "[[G7782]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1236]]"
+- "[[G3588]]"
+- "[[G4628]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3938]]"
+- "[[G2532]]"
+- "[[G4129]]"
+- "[[G3588]]"
+- "[[G4202]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 16:25** 
 <small><sub>**LXX:**</sub></small>
 And upon every corner of \[the\] way you built  your places of harlotry, and laid waste  your beauty. And every one passing by led through your legs, and you multiplied  your harlotry. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1909\|επ΄]] [[G0746\|αρχής]] [[G3956\|πάσης]] [[G3598\|οδού]] [[G3618\|ωκοδόμησας]] [[G3588\|τας]] [[G8866\|πορνείας]] [[G1473\|σου]] [[G2532\|και]] [[G3075\|ελυμήνω]] [[G3588\|το]] [[G7782\|κάλλος]] [[G1473\|σου]] [[G2532\|και]] [[G1236\|διήγαγες]] [[G3588\|τα]] [[G4628\|σκέλη]] [[G1473\|σου]] [[G3956\|παντί]] [[G3938\|παρόδω]] [[G2532\|και]] [[G4129\|επλήθυνας]] [[G3588\|την]] [[G4202\|πορνείαν]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.16.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.24|<< Ezekiel 16:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.26|Ezekiel 16:26 >>]]</td></tr></table>
 
@@ -27,6 +86,6 @@ And upon every corner of \[the\] way you built  your places of harlotry, and lai
 | you multiplied | **<big>[[G4129\|επλήθυνας]]</big>** |
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
 | your harlotry. | **<big>[[G4202\|πορνείαν]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Ezek.16.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.24|<< Ezekiel 16:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.26|Ezekiel 16:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.24|<< Ezekiel 16:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.26|Ezekiel 16:26 >>]]</td></tr></table>
 
 

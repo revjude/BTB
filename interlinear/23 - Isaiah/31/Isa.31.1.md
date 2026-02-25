@@ -1,8 +1,80 @@
+---
+title: Isaiah 31:1
+type: Verse
+kjv: "Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because they are many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!"
+bsb: "Woe to those who go down to Egypt for help, who rely on horses, who trust in their abundance of chariots and in their multitude of horsemen. They do not look to the Holy One of Israel; they do not seek the LORD."
+hebrew: "ה֣וֹי הַיֹּרְדִ֤ים מִצְרַ֙יִם֙ לְעֶזְרָ֔ה עַל־ סוּסִ֖ים יִשָּׁעֵ֑נוּ וַיִּבְטְח֨וּ עַל־ רֶ֜כֶב כִּ֣י רָ֗ב וְעַ֤ל פָּֽרָשִׁים֙ כִּֽי־ עָצְמ֣וּ מְאֹ֔ד וְלֹ֤א שָׁעוּ֙ עַל־ קְד֣וֹשׁ יִשְׂרָאֵ֔ל וְאֶת־ יְהוָ֖ה לֹ֥א דָרָֽשׁוּ׃"
+pericope: "[[Isa.31.1 Woe to Those Who Rely on Egypt|Woe to Those Who Rely on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 31
+book/chapter: "[[Isa.31|Isaiah 31]]"
+chronological_order: 674
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H1945]]"
+- "[[H9009]]"
+- "[[H3381]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H5833]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5483M]]"
+- "[[H8172]]"
+- "[[H9001]]"
+- "[[H0982]]"
+- "[[H7393G]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H6571B]]"
+- "[[H6105A]]"
+- "[[H3966]]"
+- "[[H3808]]"
+- "[[H8159]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H1875]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 31:1**<big><big>[[Isa.31.1 Woe to Those Who Rely on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because [they are] many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!
 <small><sub>**BSB:**</sub></small>
 Woe to those who go down to Egypt for help, who rely on horses, who trust in their abundance of chariots and in their multitude of horsemen. They do not look to the Holy One of Israel; they do not seek the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֣וֹי]] [[H9009\|הַ]][[H3381\|יֹּרְדִ֤ים]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9005\|לְ]][[H5833\|עֶזְרָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5483M\|סוּסִ֖ים]] [[H8172\|יִשָּׁעֵ֑נוּ]] [[H9001\|וַ]][[H0982\|יִּבְטְח֨וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H7393G\|רֶ֜כֶב]] [[H3588A\|כִּ֣י]] [[H7227A\|רָ֗ב]] [[H9002\|וְ]][[H5921A\|עַ֤ל]] [[H6571B\|פָּֽרָשִׁים֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6105A\|עָצְמ֣וּ]] [[H3966\|מְאֹ֔ד]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8159\|שָׁעוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6918G\|קְד֣וֹשׁ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H3808\|לֹ֥א]] [[H1875\|דָרָֽשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic BLESSING|BLESSING]] • [[topic CAVALRY|CAVALRY]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic GOD|GOD]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HORSE|HORSE]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.31.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.33|<< Isaiah 30:33]]</td><td align="center" style="border:none;">[[Isa.31|Isaiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.2|Isaiah 31:2 >>]]</td></tr></table>
 

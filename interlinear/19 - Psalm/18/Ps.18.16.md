@@ -1,8 +1,52 @@
+---
+title: Psalm 18:16
+type: Verse
+kjv: "He sent from above, he took me, he drew me out of many waters."
+bsb: "He reached down from on high and took hold of me; He drew me out of deep waters."
+hebrew: "יִשְׁלַ֣ח מִ֭מָּרוֹם יִקָּחֵ֑נִי יַֽ֝מְשֵׁ֗נִי מִמַּ֥יִם רַבִּֽים׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H7971G]]"
+- "[[H9006]]"
+- "[[H4791]]"
+- "[[H3947G]]"
+- "[[H9030]]"
+- "[[H4871]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:16**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sent from above, he took me, he drew me out of many waters.
 <small><sub>**BSB:**</sub></small>
 He reached down from on high and took hold of me; He drew me out of deep waters.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|יִשְׁלַ֣ח]] [[H9006\|מִ֭]][[H4791\|מָּרוֹם]] [[H3947G\|יִקָּחֵ֑]][[H9030\|נִי]] [[H4871\|יַֽ֝מְשֵׁ֗]][[H9030\|נִי]] [[H9006\|מִ]][[H4325G\|מַּ֥יִם]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.15|<< Psalms 18:15]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.17|Psalms 18:17 >>]]</td></tr></table>
 

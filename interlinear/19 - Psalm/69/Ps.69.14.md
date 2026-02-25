@@ -1,8 +1,57 @@
+---
+title: Psalm 69:14
+type: Verse
+kjv: "Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters."
+bsb: "Rescue me from the mire and do not let me sink; deliver me from my foes and out of the deep waters."
+hebrew: "הַצִּילֵ֣נִי מִ֭טִּיט וְאַל־ אֶטְבָּ֑עָה אִנָּצְלָ֥ה מִ֝שֹּֽׂנְאַ֗י וּמִמַּֽעֲמַקֵּי־ מָֽיִם׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H2916]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2883]]"
+- "[[H8130]]"
+- "[[H4615]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:14**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.
 <small><sub>**BSB:**</sub></small>
 Rescue me from the mire and do not let me sink; deliver me from my foes and out of the deep waters.
+<small><sub>**Hebrew:**</sub></small>
+[[H5337\|הַצִּילֵ֣]][[H9030\|נִי]] [[H9006\|מִ֭]][[H2916\|טִּיט]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2883\|אֶטְבָּ֑עָה]] [[H5337\|אִנָּצְלָ֥ה]] [[H9006\|מִ֝]][[H8130\|שֹּֽׂנְאַ֗]][[H9030\|י]] [[H9002\|וּ]][[H9006\|מִ]][[H4615\|מַּֽעֲמַקֵּי]][[H9014\|־]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.13|<< Psalms 69:13]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.15|Psalms 69:15 >>]]</td></tr></table>
 

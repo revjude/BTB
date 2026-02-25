@@ -1,8 +1,74 @@
+---
+title: 2 Kings 16:10
+type: Verse
+kjv: "And king Ahaz went to Damascus to meet Tiglathpileser king of Assyria, and saw an altar that was at Damascus: and king Ahaz sent to Urijah the priest the fashion of the altar, and the pattern of it, according to all the workmanship thereof."
+bsb: "Then King Ahaz went to Damascus to meet Tiglath-pileser king of Assyria. On seeing the altar in Damascus, King Ahaz sent Uriah the priest a model of the altar and complete plans for its construction."
+hebrew: "וַיֵּ֣לֶךְ הַמֶּ֣לֶךְ אָחָ֡ז לִ֠קְרַאת תִּגְלַ֨ת פִּלְאֶ֤סֶר מֶֽלֶךְ־ אַשּׁוּר֙ דּוּמֶּ֔שֶׂק וַיַּ֥רְא אֶת־ הַמִּזְבֵּ֖חַ אֲשֶׁ֣ר בְּדַמָּ֑שֶׂק וַיִּשְׁלַח֩ הַמֶּ֨לֶךְ אָחָ֜ז אֶל־ אוּרִיָּ֣ה הַכֹּהֵ֗ן אֶת־ דְּמ֧וּת הַמִּזְבֵּ֛חַ וְאֶת־ תַּבְנִית֖וֹ לְכָֽל־ מַעֲשֵֽׂהוּ׃"
+pericope: "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TIGLATH-PILESER|TIGLATH-PILESER]]"
+- "[[topic URIAH|URIAH]]"
+- "[[topic URIJAH|URIJAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0271G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H8407]]"
+- "[[H9014]]"
+- "[[H0804G]]"
+- "[[H1834]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H4196]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H0223G]]"
+- "[[H3548]]"
+- "[[H1823]]"
+- "[[H9002]]"
+- "[[H8403]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H4639G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:10**<big><big>[[2Kgs.16.10 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Ahaz went to Damascus to meet Tiglathpileser king of Assyria, and saw an altar that [was] at Damascus: and king Ahaz sent to Urijah the priest the fashion of the altar, and the pattern of it, according to all the workmanship thereof.
 <small><sub>**BSB:**</sub></small>
 Then King Ahaz went to Damascus to meet Tiglath-pileser king of Assyria. On seeing the altar in Damascus, King Ahaz sent Uriah the priest a model of the altar and complete plans for its construction.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0271G\|אָחָ֡ז]] [[H9005\|לִ֠]][[H7122G\|קְרַאת]] [[H8407\|תִּגְלַ֨ת]] [[H8407\|פִּלְאֶ֤סֶר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁוּר֙]] [[H1834\|דּוּמֶּ֔שֶׂק]] [[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H1834\|דַמָּ֑שֶׂק]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַח֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H0271G\|אָחָ֜ז]] [[H0413\|אֶל]][[H9014\|־]] [[H0223G\|אוּרִיָּ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H0853\|אֶת]][[H9014\|־]] [[H1823\|דְּמ֧וּת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֛חַ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8403\|תַּבְנִית֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H3605\|כָֽל]][[H9014\|־]] [[H4639G\|מַעֲשֵֽׂ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ALTAR|ALTAR]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]] • [[topic TIGLATH-PILESER|TIGLATH-PILESER]] • [[topic URIAH|URIAH]] • [[topic URIJAH|URIJAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.9|<< 2 Kings 16:9]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.11|2 Kings 16:11 >>]]</td></tr></table>
 

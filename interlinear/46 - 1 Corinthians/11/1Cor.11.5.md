@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 11:5
+type: Verse
+kjv: "But every woman that prayeth or prophesieth with her head uncovered dishonoureth her head: for that is even all one as if she were shaven."
+bsb: "And every woman who prays or prophesies with her head uncovered dishonors her head, for it is just as if her head were shaved."
+greek: "πᾶσα δὲ γυνὴ προσευχομένη ἢ προφητεύουσα ἀκατακαλύπτῳ τῇ κεφαλῇ καταισχύνει τὴν κεφαλὴν αὐτῆς· ἓν γάρ ἐστιν καὶ τὸ αὐτὸ τῇ ἐξυρημένῃ."
+pericope: "[[1Cor.11.1 Roles in Worship|Roles in Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic HAIR|HAIR]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G1135H]]"
+- "[[G4336]]"
+- "[[G2228]]"
+- "[[G4395]]"
+- "[[G0177]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G2617]]"
+- "[[G0846]]"
+- "[[G1520]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3587]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 11:5**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But every woman that prayeth or prophesieth with [her] head uncovered dishonoureth her head: for that is even all one as if she were shaven.
 <small><sub>**BSB:**</sub></small>
 And every woman who prays or prophesies with her head uncovered dishonors her head, for it is just as if her head were shaved.
-<small><sub>**Literal:**</sub></small>
-Every now woman praying or prophesying uncovered with the head dishonors the head of her; one for it is and the same with which shaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.4|<< 1 Corinthians 11:4]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.6|1 Corinthians 11:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶσα]]  [[G1161\|δὲ]]  [[G1135H\|γυνὴ]]  [[G4336\|προσευχομένη]]  [[G2228\|ἢ]]  [[G4395\|προφητεύουσα]]  [[G0177\|ἀκατακαλύπτῳ]]  [[G3588\|τῇ]]  [[G2776\|κεφαλῇ]]  [[G2617\|καταισχύνει]]  [[G3588\|τὴν]]  [[G2776\|κεφαλὴν]]  [[G0846\|αὐτῆς·]]  [[G1520\|ἓν]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G3588\|τῇ]]  [[G3587\|ἐξυρημένῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAIR|HAIR]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.4|<< 1 Corinthians 11:4]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.6|1 Corinthians 11:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,72 @@
+---
+title: Luke 15:17
+type: Verse
+kjv: "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!"
+bsb: "Finally he came to his senses and said, ‘How many of my father’s hired servants have plenty of food, but here I am, starving to death!"
+jesus_said: "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!"
+greek: "εἰς ἑαυτὸν δὲ ἐλθὼν ἔφη· πόσοι μίσθιοι τοῦ πατρός μου περισσεύονται ἄρτων, ἐγὼ δὲ λιμῷ ὧδε ἀπόλλυμαι."
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G1519]]"
+- "[[G1438]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G5346]]"
+- "[[G4214]]"
+- "[[G3407]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G4052]]"
+- "[[G0740]]"
+- "[[G1473]]"
+- "[[G3042]]"
+- "[[G5602]]"
+- "[[G0622]]"
+texts:
+- NKO
+- N(k)O
+- NO
+---
+
 **Luke 15:17**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!
 <small><sub>**BSB:**</sub></small>
 Finally he came to his senses and said, ‘How many of my father’s hired servants have plenty of food, but here I am, starving to death!
-<small><sub>**Literal:**</sub></small>
-To himself however having come he was saying; How many hired servants of the father of mine have abundance of bread, I myself however with hunger here am perishing!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.16|<< Luke 15:16]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.18|Luke 15:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G1438\|ἑαυτὸν]]  [[G1161\|δὲ]]  [[G2064\|ἐλθὼν]]  [[G5346\|ἔφη·]]  [[G4214\|πόσοι]]  [[G3407\|μίσθιοι]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G4052\|περισσεύονται]]  [[G0740\|ἄρτων,]]  [[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G3042\|λιμῷ]]  [[G5602\|ὧδε]]  [[G0622\|ἀπόλλυμαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SERVANT|SERVANT]] • [[topic SIN|SIN]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.16|<< Luke 15:16]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.18|Luke 15:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

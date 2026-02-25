@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 28:43
+type: Verse
+kjv: "The stranger that is within thee shall get up above thee very high; and thou shalt come down very low."
+bsb: "The foreigner living among you will rise higher and higher above you, while you sink down lower and lower."
+hebrew: "הַגֵּר֙ אֲשֶׁ֣ר בְּקִרְבְּךָ֔ יַעֲלֶ֥ה עָלֶ֖יךָ מַ֣עְלָה מָּ֑עְלָה וְאַתָּ֥ה תֵרֵ֖ד מַ֥טָּה מָּֽטָּה׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9009]]"
+- "[[H1616]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9021]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3381]]"
+- "[[H4295]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:43**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The stranger that [is] within thee shall get up above thee very high; and thou shalt come down very low.
 <small><sub>**BSB:**</sub></small>
 The foreigner living among you will rise higher and higher above you, while you sink down lower and lower.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1616\|גֵּר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9021\|ךָ֔]] [[H5927G\|יַעֲלֶ֥ה]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H4605\|מַ֣עְלָ]][[H9011\|ה]] [[H4605\|מָּ֑עְלָ]][[H9011\|ה]] [[H9002\|וְ]][[H0859A\|אַתָּ֥ה]] [[H3381\|תֵרֵ֖ד]] [[H4295\|מַ֥טָּה]] [[H4295\|מָּֽטָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.42|<< Deuteronomy 28:42]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.44|Deuteronomy 28:44 >>]]</td></tr></table>
 

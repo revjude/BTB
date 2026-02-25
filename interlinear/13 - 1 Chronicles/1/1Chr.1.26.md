@@ -1,8 +1,47 @@
+---
+title: 1 Chronicles 1:26
+type: Verse
+kjv: "Serug, Nahor, Terah,"
+bsb: "Serug, Nahor, Terah,"
+hebrew: "שְׂר֥וּג נָח֖וֹר תָּֽרַח׃"
+pericope: "[[1Chr.1.1 From Adam to Abraham|From Adam to Abraham]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic NAHOR|NAHOR]]"
+- "[[topic SERUG|SERUG]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H8286]]"
+- "[[H5152G]]"
+- "[[H8646G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:26**<big><big>[[1Chr.1.1 From Adam to Abraham|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Serug, Nahor, Terah,
 <small><sub>**BSB:**</sub></small>
 Serug, Nahor, Terah,
+<small><sub>**Hebrew:**</sub></small>
+[[H8286\|שְׂר֥וּג]] [[H5152G\|נָח֖וֹר]] [[H8646G\|תָּֽרַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic NAHOR|NAHOR]] • [[topic SERUG|SERUG]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.25|<< 1 Chronicles 1:25]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.27|1 Chronicles 1:27 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: 1 Peter 1:15
+type: Verse
+kjv: "But as he which hath called you is holy, so be ye holy in all manner of conversation;"
+bsb: "But just as He who called you is holy, so be holy in all you do,"
+greek: "ἀλλὰ κατὰ τὸν καλέσαντα ὑμᾶς ἅγιον καὶ αὐτοὶ ἅγιοι ἐν πάσῃ ἀναστροφῇ γενήθητε,"
+pericope: "[[1Pet.1.13 A Call to Holiness|A Call to Holiness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0235]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G2564G]]"
+- "[[G4771]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G0391]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **1 Peter 1:15**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But as he which hath called you is holy, so be ye holy in all manner of conversation;
 <small><sub>**BSB:**</sub></small>
 But just as He who called you is holy, so be holy in all you do,
-<small><sub>**Literal:**</sub></small>
-But as the [One] having called you [is] holy also yourselves holy in all [your] conduct do be,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.14|<< 1 Peter 1:14]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.16|1 Peter 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G2564G\|καλέσαντα]]  [[G4771\|ὑμᾶς]]  [[G0040G\|ἅγιον]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G0040G\|ἅγιοι]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G0391\|ἀναστροφῇ]]  [[G1096\|γενήθητε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.14|<< 1 Peter 1:14]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.16|1 Peter 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

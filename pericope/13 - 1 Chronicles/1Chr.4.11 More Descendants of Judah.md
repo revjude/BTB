@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: More Descendants of Judah
+type: Pericope
 pericope: "[[1Chr.4.11 More Descendants of Judah|More Descendants of Judah]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 4
 book/chapter: "[[1Chr.4|1 Chronicles 4]]"
-genre:
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 13
 verses:
 - "[[1Chr.4.11]]"
 - "[[1Chr.4.12]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Chr.4.23]]"
 ---
 
-[[1Chr.4|1 Chronicles 4:11 - 1 Chronicles 4:23]]
+<small>[[1Chr.4|1 Chronicles 4:11-23]]</small>
 *More Descendants of Judah*
 
 [[1Chr.4.11|11]] And Chelub the brother of Shuah begat Mehir, which \[was\] the father of Eshton.

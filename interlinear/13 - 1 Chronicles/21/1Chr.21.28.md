@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 21:28
+type: Verse
+kjv: "At that time when David saw that the LORD had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there."
+bsb: "At that time, when David saw that the LORD had answered him at the threshing floor of Ornan the Jebusite, he offered sacrifices there."
+hebrew: "בָּעֵ֣ת הַהִ֔יא בִּרְא֤וֹת דָּוִיד֙ כִּי־ עָנָ֣הוּ יְהוָ֔ה בְּגֹ֖רֶן אָרְנָ֣ן הַיְבוּסִ֑י וַיִּזְבַּ֖ח שָֽׁם׃"
+pericope: "[[1Chr.21.18 David Builds an Altar|David Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ORNAN|ORNAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7200G]]"
+- "[[H1732]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6030B]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H1637]]"
+- "[[H0771]]"
+- "[[H2983G]]"
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:28**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At that time when David saw that the LORD had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there.
 <small><sub>**BSB:**</sub></small>
 At that time, when David saw that the LORD had answered him at the threshing floor of Ornan the Jebusite, he offered sacrifices there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֔יא]] [[H9003\|בִּ]][[H7200G\|רְא֤וֹת]] [[H1732\|דָּוִיד֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H6030B\|עָנָ֣]][[H9033\|הוּ]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H1637\|גֹ֖רֶן]] [[H0771\|אָרְנָ֣ן]] [[H9009\|הַ]][[H2983G\|יְבוּסִ֑י]] [[H9001\|וַ]][[H2076\|יִּזְבַּ֖ח]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ORNAN|ORNAN]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.27|<< 1 Chronicles 21:27]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.29|1 Chronicles 21:29 >>]]</td></tr></table>
 

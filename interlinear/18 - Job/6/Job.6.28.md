@@ -1,8 +1,54 @@
+---
+title: Job 6:28
+type: Verse
+kjv: "Now therefore be content, look upon me; for it is evident unto you if I lie."
+bsb: "But now, please look at me. Would I lie to your face?"
+hebrew: "וְ֭עַתָּה הוֹאִ֣ילוּ פְנוּ־ בִ֑י וְעַל־ פְּ֝נֵיכֶ֗ם אִם־ אֲכַזֵּֽב׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2974]]"
+- "[[H6437G]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H9026]]"
+- "[[H0518H]]"
+- "[[H3576]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:28**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore be content, look upon me; for [it is] evident unto you if I lie.
 <small><sub>**BSB:**</sub></small>
 But now, please look at me. Would I lie to your face?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H6258\|עַתָּה]] [[H2974\|הוֹאִ֣ילוּ]] [[H6437G\|פְנוּ]][[H9014\|־]] [[H9003\|בִ֑]][[H9030\|י]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּ֝נֵי]][[H9026\|כֶ֗ם]] [[H0518H\|אִם]][[H9014\|־]] [[H3576\|אֲכַזֵּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.27|<< Job 6:27]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.29|Job 6:29 >>]]</td></tr></table>
 

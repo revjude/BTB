@@ -1,10 +1,66 @@
+---
+title: 2 Corinthians 4:4
+type: Verse
+kjv: "In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them."
+bsb: "The god of this age has blinded the minds of unbelievers, so they cannot see the light of the gospel of the glory of Christ, who is the image of God."
+greek: "ἐν οἷς ὁ θεὸς τοῦ αἰῶνος τούτου ἐτύφλωσεν τὰ νοήματα τῶν ἀπίστων εἰς τὸ μὴ αὐγάσαι αὐτοῖς τὸν φωτισμὸν τοῦ εὐαγγελίου τῆς δόξης τοῦ Χριστοῦ, ὅς ἐστιν εἰκὼν τοῦ θεοῦ.¶"
+pericope: "[[2Cor.4.1 The Light of the Gospel|The Light of the Gospel]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 4
+book/chapter: "[[2Cor.4|2 Corinthians 4]]"
+chronological_order: 1077
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0165G]]"
+- "[[G3778]]"
+- "[[G5186]]"
+- "[[G3540]]"
+- "[[G0571]]"
+- "[[G1519]]"
+- "[[G3361]]"
+- "[[G0826]]"
+- "[[G0846]]"
+- "[[G5462]]"
+- "[[G2098]]"
+- "[[G1391]]"
+- "[[G5547]]"
+- "[[G1510]]"
+- "[[G1504]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 4:4**<big><big>[[2Cor.4.1 The Light of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In whom the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.
 <small><sub>**BSB:**</sub></small>
 The god of this age has blinded the minds of unbelievers, so they cannot see the light of the gospel of the glory of Christ, who is the image of God.
-<small><sub>**Literal:**</sub></small>
-in whom the god of the age this has blinded the minds of the unbelieving so as for <the> not to beam forth to them the illumination of the gospel of the glory <the> of Christ, who is [the] image <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.3|<< 2 Corinthians 4:3]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.5|2 Corinthians 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τοῦ]]  [[G0165G\|αἰῶνος]]  [[G3778\|τούτου]]  [[G5186\|ἐτύφλωσεν]]  [[G3588\|τὰ]]  [[G3540\|νοήματα]]  [[G3588\|τῶν]]  [[G0571\|ἀπίστων]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G0826\|αὐγάσαι]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸν]]  [[G5462\|φωτισμὸν]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G1504\|εἰκὼν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHARACTER|CHARACTER]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.4.3|<< 2 Corinthians 4:3]]</td><td align="center" style="border:none;">[[2Cor.4|2 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.4.5|2 Corinthians 4:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 4:4** is...
 > $\quad$ referencing: [[LXX.Gen.1.26|Gen 1:26]]

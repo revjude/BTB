@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 10:9
+type: Verse
+kjv: "When Joab saw that the front of the battle was against him before and behind, he chose of all the choice men of Israel, and put them in array against the Syrians:"
+bsb: "When Joab saw the battle lines before him and behind him, he selected some of the best men of Israel and arrayed them against the Arameans."
+hebrew: "וַיַּ֣רְא יוֹאָ֗ב כִּֽי־ הָיְתָ֤ה אֵלָיו֙ פְּנֵ֣י הַמִּלְחָמָ֔ה מִפָּנִ֖ים וּמֵֽאָח֑וֹר וַיִּבְחַ֗ר מִכֹּל֙ בְּחוּרֵ֣י יִשְׂרָאֵ֔ל וַֽיַּעֲרֹ֖ךְ לִקְרַ֥את אֲרָֽם׃"
+pericope: "[[2Sam.10.9 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic JOAB|JOAB]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3097G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H9006]]"
+- "[[H9002]]"
+- "[[H0268]]"
+- "[[H0977]]"
+- "[[H3605]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H0758I]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 10:9**<big><big>[[2Sam.10.9 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Joab saw that the front of the battle was against him before and behind, he chose of all the choice [men] of Israel, and put [them] in array against the Syrians:
 <small><sub>**BSB:**</sub></small>
 When Joab saw the battle lines before him and behind him, he selected some of the best men of Israel and arrayed them against the Arameans.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H3097G\|יוֹאָ֗ב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיְתָ֤ה]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H6440G\|פְּנֵ֣י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9006\|מִ]][[H6440G\|פָּנִ֖ים]] [[H9002\|וּ]][[H9006\|מֵֽ]][[H0268\|אָח֑וֹר]] [[H9001\|וַ]][[H0977\|יִּבְחַ֗ר]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H0977\|בְּחוּרֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַֽ]][[H6186A\|יַּעֲרֹ֖ךְ]] [[H9005\|לִ]][[H7122H\|קְרַ֥את]] [[H0758I\|אֲרָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOAB|JOAB]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.8|<< 2 Samuel 10:8]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.10|2 Samuel 10:10 >>]]</td></tr></table>
 
@@ -26,6 +84,6 @@ When Joab saw the battle lines before him and behind him, he selected some of th
 | Aram  |**<big>&#8207;[[H0758I\|אֲרָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.Ram<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.8|<< 2 Samuel 10:8]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.10|2 Samuel 10:10 >>]]</td></tr></table>
 
-[^1]: in Israel  | **<big>[[H3478|יִשְׂרָאֵל]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> yis.ra.'el<small><sup>[[HNpl]]</sup></small> | K
+[^1]: in Israel  | **<big>[[H9003|בְּ]]</big><big>[[H3478|יִשְׂרָאֵל]]</big> ** | be.<small><sup>[[HR]]</sup></small> yis.ra.'el<small><sup>[[HNpl]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>ביִשְׂרָאֵ֔ל</big></span>**
 

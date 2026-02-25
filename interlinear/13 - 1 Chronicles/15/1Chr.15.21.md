@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 15:21
+type: Verse
+kjv: "And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel."
+bsb: "And Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead the music with lyres according to Sheminith."
+hebrew: "וּמַתִּתְיָ֣הוּ וֶאֱלִֽיפְלֵ֗הוּ וּמִקְנֵיָ֙הוּ֙ וְעֹבֵ֣ד אֱדֹ֔ם וִֽיעִיאֵ֖ל וַעֲזַזְיָ֑הוּ בְּכִנֹּר֥וֹת עַל־ הַשְּׁמִינִ֖ית לְנַצֵּֽחַ׃"
+pericope: "[[1Chr.15.14 The Priests and Levites Carry the Ark|The Priests and Levites Carry the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AZAZIAH|AZAZIAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELIPHELEH|ELIPHELEH]]"
+- "[[topic JEIEL|JEIEL]]"
+- "[[topic MATTITHIAH|MATTITHIAH]]"
+- "[[topic MIKNEIAH|MIKNEIAH]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9002]]"
+- "[[H4993H]]"
+- "[[H0466]]"
+- "[[H4737]]"
+- "[[H5654]]"
+- "[[H3273I]]"
+- "[[H5812G]]"
+- "[[H9003]]"
+- "[[H3658]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8067]]"
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:21**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel.
 <small><sub>**BSB:**</sub></small>
 And Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead the music with lyres according to Sheminith.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4993H\|מַתִּתְיָ֣הוּ]] [[H9002\|וֶ]][[H0466\|אֱלִֽיפְלֵ֗הוּ]] [[H9002\|וּ]][[H4737\|מִקְנֵיָ֙הוּ֙]] [[H9002\|וְ]][[H5654\|עֹבֵ֣ד]] [[H5654\|אֱדֹ֔ם]] [[H9002\|וִֽ]][[H3273I\|יעִיאֵ֖ל]] [[H9002\|וַ]][[H5812G\|עֲזַזְיָ֑הוּ]] [[H9003\|בְּ]][[H3658\|כִנֹּר֥וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8067\|שְּׁמִינִ֖ית]] [[H9005\|לְ]][[H5329\|נַצֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZAZIAH|AZAZIAH]] • [[topic DAVID|DAVID]] • [[topic ELIPHELEH|ELIPHELEH]] • [[topic JEIEL|JEIEL]] • [[topic MATTITHIAH|MATTITHIAH]] • [[topic MIKNEIAH|MIKNEIAH]] • [[topic MUSIC|MUSIC]] • [[topic OBED-EDOM|OBED-EDOM]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.20|<< 1 Chronicles 15:20]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.22|1 Chronicles 15:22 >>]]</td></tr></table>
 

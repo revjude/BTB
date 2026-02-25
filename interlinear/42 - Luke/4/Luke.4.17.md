@@ -1,10 +1,60 @@
+---
+title: Luke 4:17
+type: Verse
+kjv: "And there was delivered unto him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written,"
+bsb: "the scroll of the prophet Isaiah was handed to Him. Unrolling it, He found the place where it was written:"
+greek: "καὶ ἐπεδόθη αὐτῷ βιβλίον τοῦ προφήτου Ἠσαΐου· καὶ ἀναπτύξας τὸ βιβλίον εὗρεν τὸν τόπον οὗ ἦν γεγραμμένον"
+pericope: "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G1929]]"
+- "[[G0846]]"
+- "[[G0975]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G2268]]"
+- "[[G0380]]"
+- "[[G2147]]"
+- "[[G5117]]"
+- "[[G3757]]"
+- "[[G1510]]"
+- "[[G1125]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 4:17**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was delivered unto him the book of the prophet Esaias. And when he had opened the book, he found the place where it was written,
 <small><sub>**BSB:**</sub></small>
 the scroll of the prophet Isaiah was handed to Him. Unrolling it, He found the place where it was written:
-<small><sub>**Literal:**</sub></small>
-And there was given to Him [the] scroll of the prophet Isaiah; and having unrolled the scroll He found the place where it was written<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.16|<< Luke 4:16]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.18|Luke 4:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1929\|ἐπεδόθη]]  [[G0846\|αὐτῷ]]  [[G0975\|βιβλίον]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G2268\|Ἠσαΐου·]]  [[G2532\|καὶ]]  [[G0380\|ἀναπτύξας]]  [[G3588\|τὸ]]  [[G0975\|βιβλίον]]  [[G2147\|εὗρεν]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G3757\|οὗ]]  [[G1510\|ἦν]]  [[G1125\|γεγραμμένον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NAZARETH|NAZARETH]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.16|<< Luke 4:16]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.18|Luke 4:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

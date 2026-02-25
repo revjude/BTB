@@ -1,10 +1,53 @@
+---
+title: Acts 25:3
+type: Verse
+kjv: "And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him."
+bsb: "to grant them a concession against Paul by summoning him to Jerusalem, because they were preparing an ambush to kill him along the way."
+greek: "αἰτούμενοι χάριν κατ᾽ αὐτοῦ, ὅπως μεταπέμψηται αὐτὸν εἰς Ἰερουσαλήμ, ἐνέδραν ποιοῦντες ἀνελεῖν αὐτὸν κατὰ τὴν ὁδόν.¶"
+pericope: "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G0154]]"
+- "[[G5485]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G3704]]"
+- "[[G3343]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G1747]]"
+- "[[G4160G]]"
+- "[[G0337]]"
+- "[[G3588]]"
+- "[[G3598]]"
+texts:
+- NKO
+---
+
 **Acts 25:3**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.
 <small><sub>**BSB:**</sub></small>
 to grant them a concession against Paul by summoning him to Jerusalem, because they were preparing an ambush to kill him along the way.
-<small><sub>**Literal:**</sub></small>
-asking a favor against him, that he may summon him to Jerusalem, an ambush forming to execute him on the way.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.2|<< Acts 25:2]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.4|Acts 25:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0154\|αἰτούμενοι]]  [[G5485\|χάριν]]  [[G2596\|κατ᾽]]  [[G0846\|αὐτοῦ,]]  [[G3704\|ὅπως]]  [[G3343\|μεταπέμψηται]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ,]]  [[G1747\|ἐνέδραν]]  [[G4160G\|ποιοῦντες]]  [[G0337\|ἀνελεῖν]]  [[G0846\|αὐτὸν]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G3598\|ὁδόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.2|<< Acts 25:2]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.4|Acts 25:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: John 7:10
+type: Verse
+kjv: "But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret."
+bsb: "But after His brothers had gone up to the feast, He also went—not publicly, but in secret."
+greek: "Ὡς δὲ ἀνέβησαν οἱ ἀδελφοὶ αὐτοῦ εἰς τὴν ἑορτήν, τότε καὶ αὐτὸς ἀνέβη οὐ φανερῶς ἀλλ᾽ ὡς ἐν κρυπτῷ."
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1859]]"
+- "[[G5119]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G5320]]"
+- "[[G0235]]"
+- "[[G1722]]"
+- "[[G2927]]"
+texts:
+- NKO
+---
+
 **John 7:10**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.
 <small><sub>**BSB:**</sub></small>
 But after His brothers had gone up to the feast, He also went—not publicly, but in secret.
-<small><sub>**Literal:**</sub></small>
-When however had gone up the brothers of Him to the feast, then also He himself went up not openly but as in secret.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.9|<< John 7:9]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.11|John 7:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G0305\|ἀνέβησαν]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1859\|ἑορτήν,]]  [[G5119\|τότε]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G0305\|ἀνέβη]]  [[G3756\|οὐ]]  [[G5320\|φανερῶς]]  [[G0235\|ἀλλ᾽]]  [[G5613\|ὡς]]  [[G1722\|ἐν]]  [[G2927\|κρυπτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.9|<< John 7:9]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.11|John 7:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

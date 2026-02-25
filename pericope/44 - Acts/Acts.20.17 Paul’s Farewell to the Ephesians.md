@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Farewell to the Ephesians
+type: Pericope
 pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
-verse_count: 22
+original_language: Greek
 testament: New
 book: Acts
 chapter: 20
 book/chapter: "[[Acts.20|Acts 20]]"
-genre:
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 22
 verses:
 - "[[Acts.20.17]]"
 - "[[Acts.20.18]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Acts.20.38]]"
 ---
 
-[[Acts.20|Acts 20:17 - Acts 20:38]]
+<small>[[Acts.20|Acts 20:17-38]]</small>
 *Paul’s Farewell to the Ephesians*
 
 [[Acts.20.17|17]] And from Miletus he sent to Ephesus, and called the elders of the church.

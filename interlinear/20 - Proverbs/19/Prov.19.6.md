@@ -1,8 +1,55 @@
+---
+title: Proverbs 19:6
+type: Verse
+kjv: "Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts."
+bsb: "Many seek the favor of the prince, and everyone is a friend of the gift giver."
+hebrew: "רַ֭בִּים יְחַלּ֣וּ פְנֵֽי־ נָדִ֑יב וְכָל־ הָ֝רֵ֗עַ לְאִ֣ישׁ מַתָּֽן׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H7227A]]"
+- "[[H2470B]]"
+- "[[H6440L]]"
+- "[[H9014]]"
+- "[[H5081H]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7453]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H4976]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:6**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many will intreat the favour of the prince: and every man [is] a friend to him that giveth gifts.
 <small><sub>**BSB:**</sub></small>
 Many seek the favor of the prince, and everyone is a friend of the gift giver.
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַ֭בִּים]] [[H2470B\|יְחַלּ֣וּ]] [[H6440L\|פְנֵֽי]][[H9014\|־]] [[H5081H\|נָדִ֑יב]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֝]][[H7453\|רֵ֗עַ]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H4976\|מַתָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]] • [[topic INFLUENCE|INFLUENCE]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.5|<< Proverbs 19:5]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.7|Proverbs 19:7 >>]]</td></tr></table>
 

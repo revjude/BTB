@@ -1,8 +1,51 @@
+---
+title: Lamentations 5:20
+type: Verse
+kjv: "Wherefore dost thou forget us for ever, and forsake us so long time?"
+bsb: "Why have You forgotten us forever? Why have You forsaken us for so long?"
+hebrew: "לָ֤מָּה לָנֶ֙צַח֙ תִּשְׁכָּחֵ֔נוּ תַּֽעַזְבֵ֖נוּ לְאֹ֥רֶךְ יָמִֽים׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H5331]]"
+- "[[H7911]]"
+- "[[H9035]]"
+- "[[H5800A]]"
+- "[[H0753]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 5:20**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore dost thou forget us for ever, [and] forsake us so long time?
 <small><sub>**BSB:**</sub></small>
 Why have You forgotten us forever? Why have You forsaken us for so long?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֤]][[H4100\|מָּה]] [[H9005\|לָ]][[H5331\|נֶ֙צַח֙]] [[H7911\|תִּשְׁכָּחֵ֔]][[H9035\|נוּ]] [[H5800A\|תַּֽעַזְבֵ֖]][[H9035\|נוּ]] [[H9005\|לְ]][[H0753\|אֹ֥רֶךְ]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.19|<< Lamentations 5:19]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.21|Lamentations 5:21 >>]]</td></tr></table>
 

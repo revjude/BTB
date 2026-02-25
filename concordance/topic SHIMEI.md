@@ -7,7 +7,7 @@
 
 2. A Benjamite
 
-- Curses David; David' s magnanimity toward [[2Sam.16.5|2Sa 16:5]]-[[2Sam.16.13|13]];  [[2Sam.19.16|19:16]]; [[2Sam.23|23]]; with [[1Kgs.2.36|1Ki 2:36]]-[[1Kgs.2.46|46]]
+- Curses David; David' s magnanimity toward [[2Sam.16.5|2Sa 16:5-13]];  [[2Sam.19.16|19:16]]; [[2Sam.23|23]]; with [[1Kgs.2.36|1Ki 2:36-46]]
 
 3. An officer of David [[1Kgs.1.8|1Ki 1:8]]
 

@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 13:8
+type: Verse
+kjv: "Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him:"
+bsb: "you must not yield to him or listen to him. Show him no pity, and do not spare him or shield him."
+hebrew: "לֹא־ תֹאבֶ֣ה ל֔וֹ וְלֹ֥א תִשְׁמַ֖ע אֵלָ֑יו וְלֹא־ תָח֤וֹס עֵֽינְךָ֙ עָלָ֔יו וְלֹֽא־ תַחְמֹ֥ל וְלֹֽא־ תְכַסֶּ֖ה עָלָֽיו׃"
+pericope: "[[Deut.13.1 Idolaters to Be Put to Death|Idolaters to Be Put to Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic PITY|PITY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H2347]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H2550]]"
+- "[[H3680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:8**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not consent unto him, nor hearken unto him; neither shall thine eye pity him, neither shalt thou spare, neither shalt thou conceal him:
 <small><sub>**BSB:**</sub></small>
 you must not yield to him or listen to him. Show him no pity, and do not spare him or shield him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H0014\|תֹאבֶ֣ה]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|תִשְׁמַ֖ע]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2347\|תָח֤וֹס]] [[H5869A\|עֵֽינְ]][[H9021\|ךָ֙]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H2550\|תַחְמֹ֥ל]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3680\|תְכַסֶּ֖ה]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic MARRIAGE|MARRIAGE]] • [[topic PITY|PITY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.7|<< Deuteronomy 13:7]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.9|Deuteronomy 13:9 >>]]</td></tr></table>
 

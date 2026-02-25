@@ -1,6 +1,81 @@
+---
+title: LXX Jeremiah 39:10
+type: Verse
+lxx: "And the rest of the people, and the ones being left behind Nabuzar-adan the chief guard removed unto Babylon. And of the poor of the people, the ones who were not anything, Nabuzar-adan the chief guard left behind in the land of Judah. And he gave to them vineyards and fields in  that day."
+greek: "και το λοιπόν του λαού και τους καταλειφθέντας μετήρεν Ναβουζαρδάν ο αρχιμάγειρος εις Βαβυλώνα και εκ των πτωχών του λαού οις ουκ ην ουθέν κατέλειπεν Ναβουζαρδάν ο αρχιμάγειρος εν γη Ιούδα και έδωκεν αυτοίς αμπελώνας και αγρούς εν τη ημέρα εκείνη"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 39
+book/chapter: "[[Jer.39|Jeremiah 39]]"
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic POOR|POOR]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2641]]"
+- "[[G3332]]"
+- "[[H5018]]"
+- "[[G3588]]"
+- "[[G6554]]"
+- "[[G1519]]"
+- "[[G0897]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4434]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3762]]"
+- "[[G2641]]"
+- "[[H5018]]"
+- "[[G3588]]"
+- "[[G6554]]"
+- "[[G1722]]"
+- "[[G1093]]"
+- "[[G2448]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G0290]]"
+- "[[G2532]]"
+- "[[G0068]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+---
+
 **LXX Jeremiah 39:10** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the people, and the ones being left behind Nabuzar-adan the chief guard removed unto Babylon. And of the poor of the people, the ones who were not anything, Nabuzar-adan the chief guard left behind in \[the\] land of Judah. And he gave to them vineyards and fields in  that day. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|το]] [[G3062\|λοιπόν]] [[G3588\|του]] [[G2992\|λαού]] [[G2532\|και]] [[G3588\|τους]] [[G2641\|καταλειφθέντας]] [[G3332\|μετήρεν]] [[H5018\|Ναβουζαρδάν]] [[G3588\|ο]] [[G6554\|αρχιμάγειρος]] [[G1519\|εις]] [[G0897\|Βαβυλώνα]] [[G2532\|και]] [[G1537\|εκ]] [[G3588\|των]] [[G4434\|πτωχών]] [[G3588\|του]] [[G2992\|λαού]] [[G3739\|οις]] [[G3756\|ουκ]] [[G1510\|ην]] [[G3762\|ουθέν]] [[G2641\|κατέλειπεν]] [[H5018\|Ναβουζαρδάν]] [[G3588\|ο]] [[G6554\|αρχιμάγειρος]] [[G1722\|εν]] [[G1093\|γη]] [[G2448\|Ιούδα]] [[G2532\|και]] [[G1325\|έδωκεν]] [[G1473\|αυτοίς]] [[G0290\|αμπελώνας]] [[G2532\|και]] [[G0068\|αγρούς]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G1565\|εκείνη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic POOR|POOR]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.9|<< Jeremiah 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.11|Jeremiah 39:11 >>]]</td></tr></table>
 
@@ -45,6 +120,6 @@ And the rest of the people, and the ones being left behind Nabuzar-adan the chie
 | in | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τη]]</big>** |
 | that day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
-[[Jer.39.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.9|<< Jeremiah 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.11|Jeremiah 39:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.9|<< Jeremiah 39:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.11|Jeremiah 39:11 >>]]</td></tr></table>
 
 

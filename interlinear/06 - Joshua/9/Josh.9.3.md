@@ -1,8 +1,61 @@
+---
+title: Joshua 9:3
+type: Verse
+kjv: "And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,"
+bsb: "But the people of Gibeon, having heard what Joshua had done to Jericho and Ai,"
+hebrew: "וְיֹשְׁבֵ֨י גִבְע֜וֹן שָׁמְע֗וּ אֵת֩ אֲשֶׁ֨ר עָשָׂ֧ה יְהוֹשֻׁ֛עַ לִֽירִיח֖וֹ וְלָעָֽי׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H1391]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H3091G]]"
+- "[[H9005]]"
+- "[[H3405G]]"
+- "[[H5857G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:3**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the inhabitants of Gibeon heard what Joshua had done unto Jericho and to Ai,
 <small><sub>**BSB:**</sub></small>
 But the people of Gibeon, having heard what Joshua had done to Jericho and Ai,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3427\|יֹשְׁבֵ֨י]] [[H1391\|גִבְע֜וֹן]] [[H8085G\|שָׁמְע֗וּ]] [[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשָׂ֧ה]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H9005\|לִֽ]][[H3405G\|ירִיח֖וֹ]] [[H9002\|וְ]][[H9005\|לָ]][[H5857G\|עָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic CONTRACTS|CONTRACTS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic GIBEON|GIBEON]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.2|<< Joshua 9:2]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.4|Joshua 9:4 >>]]</td></tr></table>
 

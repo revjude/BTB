@@ -1,8 +1,52 @@
+---
+title: Esther 4:10
+type: Verse
+kjv: "Again Esther spake unto Hatach, and gave him commandment unto Mordecai;"
+bsb: "Then Esther spoke to Hathach and instructed him to tell Mordecai,"
+hebrew: "וַתֹּ֤אמֶר אֶסְתֵּר֙ לַהֲתָ֔ךְ וַתְּצַוֵּ֖הוּ אֶֽל־ מָרְדֳּכָֽי׃"
+pericope: "[[Esth.4.1 Mordecai Appeals to Esther|Mordecai Appeals to Esther]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 4
+book/chapter: "[[Esth.4|Esther 4]]"
+chronological_order: 902
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic HATACH|HATACH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0635]]"
+- "[[H9005]]"
+- "[[H2047]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4782H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 4:10**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again Esther spake unto Hatach, and gave him commandment unto Mordecai;
 <small><sub>**BSB:**</sub></small>
 Then Esther spoke to Hathach and instructed him to tell Mordecai,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H0635\|אֶסְתֵּר֙]] [[H9005\|לַ]][[H2047\|הֲתָ֔ךְ]] [[H9001\|וַ]][[H6680\|תְּצַוֵּ֖]][[H9033\|הוּ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H4782H\|מָרְדֳּכָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HATACH|HATACH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.9|<< Esther 4:9]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.11|Esther 4:11 >>]]</td></tr></table>
 

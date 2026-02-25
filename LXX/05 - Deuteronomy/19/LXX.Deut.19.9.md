@@ -1,6 +1,78 @@
+---
+title: LXX Deuteronomy 19:9
+type: Verse
+lxx: "if you should listen to do all  these commandments which I give charge to you today, to love the lord  your God, to go in all  his ways all the days; then you shall add to yourself again three cities to  these three."
+greek: "εάν εισακούσης ποιείν πάσας τας εντολάς ταύτας ας εγώ εντέλλομαί σοι σήμερον αγαπάν κύριον τον θεόν σου πορεύεσθαι εν πάσαις ταις οδοίς αυτού πάσας τας ημέρας και προσθήσεις σεαυτώ έτι τρεις πόλεις προς τας τρεις ταύτας"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[G1437]]"
+- "[[G1522]]"
+- "[[G4160]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G1781]]"
+- "[[G1473]]"
+- "[[G4594]]"
+- "[[G0025]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G4198]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G4369]]"
+- "[[G4572]]"
+- "[[G2089]]"
+- "[[G5140]]"
+- "[[G4172]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G5140]]"
+- "[[G3778]]"
+---
+
 **LXX Deuteronomy 19:9** 
 <small><sub>**LXX:**</sub></small>
 if you should listen to do all  these commandments which I give charge to you today, to love \[the\] <span class="smallcaps">lord</span>  your God, to go in all  his ways all the days; then you shall add to yourself again three cities to  these three. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1522\|εισακούσης]] [[G4160\|ποιείν]] [[G3956\|πάσας]] [[G3588\|τας]] [[G1785\|εντολάς]] [[G3778\|ταύτας]] [[G3739\|ας]] [[G1473\|εγώ]] [[G1781\|εντέλλομαί]] [[G1473\|σοι]] [[G4594\|σήμερον]] [[G0025\|αγαπάν]] [[G2962\|κύριον]] [[G3588\|τον]] [[G2316\|θεόν]] [[G1473\|σου]] [[G4198\|πορεύεσθαι]] [[G1722\|εν]] [[G3956\|πάσαις]] [[G3588\|ταις]] [[G3598\|οδοίς]] [[G1473\|αυτού]] [[G3956\|πάσας]] [[G3588\|τας]] [[G2250\|ημέρας]] [[G2532\|και]] [[G4369\|προσθήσεις]] [[G4572\|σεαυτώ]] [[G2089\|έτι]] [[G5140\|τρεις]] [[G4172\|πόλεις]] [[G4314\|προς]] [[G3588\|τας]] [[G5140\|τρεις]] [[G3778\|ταύτας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.8|<< Deuteronomy 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.10|Deuteronomy 19:10 >>]]</td></tr></table>
 
@@ -38,6 +110,6 @@ if you should listen to do all  these commandments which I give charge to you to
 | to | **<big>[[G4314\|προς]]</big>** |
 | \<obj.> | **<big>[[G3588\|τας]]</big>** |
 | these three. | **<big>[[G5140\|τρεις]]</big>** **<big>[[G3778\|ταύτας]]</big>** |
-[[Deut.19.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.8|<< Deuteronomy 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.10|Deuteronomy 19:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.8|<< Deuteronomy 19:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.10|Deuteronomy 19:10 >>]]</td></tr></table>
 
 

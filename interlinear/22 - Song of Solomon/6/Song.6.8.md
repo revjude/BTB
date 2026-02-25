@@ -1,8 +1,45 @@
+---
+title: Song of Solomon 6:8
+type: Verse
+kjv: "There are threescore queens, and fourscore concubines, and virgins without number."
+bsb: "There are sixty queens and eighty concubines, and maidens without number,"
+hebrew: "שִׁשִּׁ֥ים הֵ֙מָּה֙ מְּלָכ֔וֹת וּשְׁמֹנִ֖ים פִּֽילַגְשִׁ֑ים וַעֲלָמ֖וֹת אֵ֥ין מִסְפָּֽר׃"
+pericope: "[[Song.6.4 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 6
+book/chapter: "[[Song.6|Song of Solomon 6]]"
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H8346]]"
+- "[[H1992]]"
+- "[[H4436H]]"
+- "[[H9002]]"
+- "[[H8084]]"
+- "[[H6370]]"
+- "[[H5959]]"
+- "[[H0369]]"
+- "[[H4557]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 6:8**<big><big>[[Song.6.4 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There are threescore queens, and fourscore concubines, and virgins without number.
 <small><sub>**BSB:**</sub></small>
 There are sixty queens and eighty concubines, and maidens without number,
+<small><sub>**Hebrew:**</sub></small>
+[[H8346\|שִׁשִּׁ֥ים]] [[H1992\|הֵ֙מָּה֙]] [[H4436H\|מְּלָכ֔וֹת]] [[H9002\|וּ]][[H8084\|שְׁמֹנִ֖ים]] [[H6370\|פִּֽילַגְשִׁ֑ים]] [[H9002\|וַ]][[H5959\|עֲלָמ֖וֹת]] [[H0369\|אֵ֥ין]] [[H4557\|מִסְפָּֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.7|<< Song of Solomon 6:7]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.9|Song of Solomon 6:9 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Judges 20:45
+type: Verse
+kjv: "And they turned and fled toward the wilderness unto the rock of Rimmon: and they gleaned of them in the highways five thousand men; and pursued hard after them unto Gidom, and slew two thousand men of them."
+bsb: "Then the Benjamites turned and fled toward the wilderness to the rock of Rimmon, and Israel cut down 5,000 men on the roads. And they overtook them at Gidom and struck down 2,000 more."
+hebrew: "וַיִּפְנ֞וּ וַיָּנֻ֤סוּ הַמִּדְבָּ֙רָה֙ אֶל־ סֶ֣לַע הָֽרִמּ֔וֹן וַיְעֹֽלְלֻ֙הוּ֙ בַּֽמְסִלּ֔וֹת חֲמֵ֥שֶׁת אֲלָפִ֖ים אִ֑ישׁ וַיַּדְבִּ֤יקוּ אַחֲרָיו֙ עַד־ גִּדְעֹ֔ם וַיַּכּ֥וּ מִמֶּ֖נּוּ אַלְפַּ֥יִם אִֽישׁ׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDOM|GIDOM]]"
+- "[[topic RIMMON|RIMMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H5127]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5553H]]"
+- "[[H7417C]]"
+- "[[H5953B]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4546]]"
+- "[[H2568]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H1692]]"
+- "[[H0310A]]"
+- "[[H5704]]"
+- "[[H1440]]"
+- "[[H5221]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:45**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they turned and fled toward the wilderness unto the rock of Rimmon: and they gleaned of them in the highways five thousand men; and pursued hard after them unto Gidom, and slew two thousand men of them.
 <small><sub>**BSB:**</sub></small>
 Then the Benjamites turned and fled toward the wilderness to the rock of Rimmon, and Israel cut down 5,000 men on the roads. And they overtook them at Gidom and struck down 2,000 more.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּפְנ֞וּ]] [[H9001\|וַ]][[H5127\|יָּנֻ֤סוּ]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֙רָ]][[H9011\|ה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5553H\|סֶ֣לַע]] [[H9009\|הָֽ]][[H7417C\|רִמּ֔וֹן]] [[H9001\|וַ]][[H5953B\|יְעֹֽלְלֻ֙]][[H9033\|הוּ֙]] [[H9003\|בַּֽ]][[H4546\|מְסִלּ֔וֹת]] [[H2568\|חֲמֵ֥שֶׁת]] [[H0505G\|אֲלָפִ֖ים]] [[H0376G\|אִ֑ישׁ]] [[H9001\|וַ]][[H1692\|יַּדְבִּ֤יקוּ]] [[H0310A\|אַחֲרָי]][[H9033\|ו֙]] [[H5704\|עַד]][[H9014\|־]] [[H1440\|גִּדְעֹ֔ם]] [[H9001\|וַ]][[H5221\|יַּכּ֥וּ]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H0505G\|אַלְפַּ֥יִם]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDOM|GIDOM]] • [[topic RIMMON|RIMMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.44|<< Judges 20:44]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.46|Judges 20:46 >>]]</td></tr></table>
 

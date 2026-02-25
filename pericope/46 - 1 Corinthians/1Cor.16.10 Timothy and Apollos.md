@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Timothy and Apollos
+type: Pericope
 pericope: "[[1Cor.16.10 Timothy and Apollos|Timothy and Apollos]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 16
 book/chapter: "[[1Cor.16|1 Corinthians 16]]"
-genre:
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 3
 verses:
 - "[[1Cor.16.10]]"
 - "[[1Cor.16.11]]"
 - "[[1Cor.16.12]]"
 ---
 
-[[1Cor.16|1 Corinthians 16:10 - 1 Corinthians 16:12]]
+<small>[[1Cor.16|1 Corinthians 16:10-12]]</small>
 *Timothy and Apollos*
 
 [[1Cor.16.10|10]] Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also \[do\].

@@ -1,10 +1,64 @@
+---
+title: Acts 17:24
+type: Verse
+kjv: "God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;"
+bsb: "The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands."
+greek: "ὁ θεὸς ὁ ποιήσας τὸν κόσμον καὶ πάντα τὰ ἐν αὐτῷ, οὗτος οὐρανοῦ καὶ γῆς ὑπάρχων κύριος οὐκ ἐν χειροποιήτοις ναοῖς κατοικεῖ,"
+pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4160G]]"
+- "[[G2889]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G3772]]"
+- "[[G1093G]]"
+- "[[G5225]]"
+- "[[G2962G]]"
+- "[[G3756]]"
+- "[[G5499]]"
+- "[[G3485]]"
+- "[[G2730]]"
+texts:
+- NKO
+---
+
 **Acts 17:24**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;
 <small><sub>**BSB:**</sub></small>
 The God who made the world and everything in it is the Lord of heaven and earth and does not live in temples made by human hands.
-<small><sub>**Literal:**</sub></small>
-The God who having made the world and all things that [are] in it, He of heaven and earth being Lord not in hand-made temples dwells,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.23|<< Acts 17:23]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.25|Acts 17:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G4160G\|ποιήσας]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ,]]  [[G3778\|οὗτος]]  [[G3772\|οὐρανοῦ]]  [[G2532\|καὶ]]  [[G1093G\|γῆς]]  [[G5225\|ὑπάρχων]]  [[G2962G\|κύριος]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G5499\|χειροποιήτοις]]  [[G3485\|ναοῖς]]  [[G2730\|κατοικεῖ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic WORSHIP|WORSHIP]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.23|<< Acts 17:23]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.25|Acts 17:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

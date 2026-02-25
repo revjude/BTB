@@ -1,8 +1,51 @@
+---
+title: Jeremiah 48:30
+type: Verse
+kjv: "I know his wrath, saith the LORD; but it shall not be so; his lies shall not so effect it."
+bsb: "I know his insolence,” declares the LORD, “but it is futile. His boasting is as empty as his deeds."
+hebrew: "אֲנִ֤י יָדַ֙עְתִּי֙ נְאֻם־ יְהוָ֔ה עֶבְרָת֖וֹ וְלֹא־ כֵ֑ן בַּדָּ֖יו לֹא־ כֵ֥ן עָשֽׂוּ׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H0589]]"
+- "[[H3045]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5678]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3651A]]"
+- "[[H0907]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:30**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know his wrath, saith the LORD; but [it shall] not [be] so; his lies shall not so effect [it].
 <small><sub>**BSB:**</sub></small>
 I know his insolence,” declares the LORD, “but it is futile. His boasting is as empty as his deeds.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֤י]] [[H3045\|יָדַ֙עְתִּי֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5678\|עֶבְרָת֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3651A\|כֵ֑ן]] [[H0907\|בַּדָּ֖י]][[H9023\|ו]] [[H3808\|לֹא]][[H9014\|־]] [[H3651A\|כֵ֥ן]] [[H6213A\|עָשֽׂוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.29|<< Jeremiah 48:29]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.31|Jeremiah 48:31 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Exodus 38:31
+type: Verse
+kjv: "And the sockets of the court round about, and the sockets of the court gate, and all the pins of the tabernacle, and all the pins of the court round about."
+bsb: "the bases for the surrounding courtyard and its gate, and all the tent pegs for the tabernacle and its surrounding courtyard."
+hebrew: "וְאֶת־ אַדְנֵ֤י הֶֽחָצֵר֙ סָבִ֔יב וְאֶת־ אַדְנֵ֖י שַׁ֣עַר הֶחָצֵ֑ר וְאֵ֨ת כָּל־ יִתְדֹ֧ת הַמִּשְׁכָּ֛ן וְאֶת־ כָּל־ יִתְדֹ֥ת הֶחָצֵ֖ר סָבִֽיב׃"
+pericope: "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0134]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H5439G]]"
+- "[[H8179G]]"
+- "[[H3605]]"
+- "[[H3489]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:31**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sockets of the court round about, and the sockets of the court gate, and all the pins of the tabernacle, and all the pins of the court round about.
 <small><sub>**BSB:**</sub></small>
 the bases for the surrounding courtyard and its gate, and all the tent pegs for the tabernacle and its surrounding courtyard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0134\|אַדְנֵ֤י]] [[H9009\|הֶֽ]][[H2691A\|חָצֵר֙]] [[H5439G\|סָבִ֔יב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0134\|אַדְנֵ֖י]] [[H8179G\|שַׁ֣עַר]] [[H9009\|הֶ]][[H2691A\|חָצֵ֑ר]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H3605\|כָּל]][[H9014\|־]] [[H3489\|יִתְדֹ֧ת]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֛ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3489\|יִתְדֹ֥ת]] [[H9009\|הֶ]][[H2691A\|חָצֵ֖ר]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.30|<< Exodus 38:30]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.1|Exodus 39:1 >>]]</td></tr></table>
 

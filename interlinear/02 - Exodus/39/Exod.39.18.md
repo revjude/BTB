@@ -1,8 +1,65 @@
+---
+title: Exodus 39:18
+type: Verse
+kjv: "And the two ends of the two wreathen chains they fastened in the two ouches, and put them on the shoulderpieces of the ephod, before it."
+bsb: "and they fastened the other ends of the two chains to the two filigree settings, attaching them to the shoulder pieces of the ephod at the front."
+hebrew: "וְאֵ֨ת שְׁתֵּ֤י קְצוֹת֙ שְׁתֵּ֣י הָֽעֲבֹתֹ֔ת נָתְנ֖וּ עַל־ שְׁתֵּ֣י הַֽמִּשְׁבְּצֹ֑ת וַֽיִּתְּנֻ֛ם עַל־ כִּתְפֹ֥ת הָאֵפֹ֖ד אֶל־ מ֥וּל פָּנָֽיו׃"
+pericope: "[[Exod.39.8 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H8147]]"
+- "[[H7098]]"
+- "[[H9009]]"
+- "[[H5688]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4865]]"
+- "[[H9001]]"
+- "[[H9038]]"
+- "[[H3802]]"
+- "[[H0646]]"
+- "[[H0413]]"
+- "[[H4136]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:18**<big><big>[[Exod.39.8 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the two ends of the two wreathen chains they fastened in the two ouches, and put them on the shoulderpieces of the ephod, before it.
 <small><sub>**BSB:**</sub></small>
 and they fastened the other ends of the two chains to the two filigree settings, attaching them to the shoulder pieces of the ephod at the front.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H8147\|שְׁתֵּ֤י]] [[H7098\|קְצוֹת֙]] [[H8147\|שְׁתֵּ֣י]] [[H9009\|הָֽ]][[H5688\|עֲבֹתֹ֔ת]] [[H5414H\|נָתְנ֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁתֵּ֣י]] [[H9009\|הַֽ]][[H4865\|מִּשְׁבְּצֹ֑ת]] [[H9001\|וַֽ]][[H5414H\|יִּתְּנֻ֛]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3802\|כִּתְפֹ֥ת]] [[H9009\|הָ]][[H0646\|אֵפֹ֖ד]] [[H0413\|אֶל]][[H9014\|־]] [[H4136\|מ֥וּל]] [[H6440G\|פָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHOD|EPHOD]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.17|<< Exodus 39:17]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.19|Exodus 39:19 >>]]</td></tr></table>
 

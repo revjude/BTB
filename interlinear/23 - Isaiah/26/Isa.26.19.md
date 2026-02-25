@@ -1,8 +1,66 @@
+---
+title: Isaiah 26:19
+type: Verse
+kjv: "Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth shall cast out the dead."
+bsb: "Your dead will live; their bodies will rise. Awake and sing, you who dwell in the dust! For your dew is like the dew of the morning, and the earth will bring forth her dead."
+hebrew: "יִֽחְי֣וּ מֵתֶ֔יךָ נְבֵלָתִ֖י יְקוּמ֑וּן הָקִ֨יצוּ וְרַנְּנ֜וּ שֹׁכְנֵ֣י עָפָ֗ר כִּ֣י טַ֤ל אוֹרֹת֙ טַלֶּ֔ךָ וָאָ֖רֶץ רְפָאִ֥ים תַּפִּֽיל׃ ס"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DEW|DEW]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H2421]]"
+- "[[H4191]]"
+- "[[H9021]]"
+- "[[H5038]]"
+- "[[H9020]]"
+- "[[H6965B]]"
+- "[[H9013]]"
+- "[[H6974]]"
+- "[[H9002]]"
+- "[[H7442B]]"
+- "[[H7931]]"
+- "[[H6083]]"
+- "[[H3588A]]"
+- "[[H2919]]"
+- "[[H0219A]]"
+- "[[H0776G]]"
+- "[[H7496]]"
+- "[[H5307H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 26:19**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy dead [men] shall live, [together with] my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew [is as] the dew of herbs, and the earth shall cast out the dead.
 <small><sub>**BSB:**</sub></small>
 Your dead will live; their bodies will rise. Awake and sing, you who dwell in the dust! For your dew is like the dew of the morning, and the earth will bring forth her dead.
+<small><sub>**Hebrew:**</sub></small>
+[[H2421\|יִֽחְי֣וּ]] [[H4191\|מֵתֶ֔י]][[H9021\|ךָ]] [[H5038\|נְבֵלָתִ֖]][[H9020\|י]] [[H6965B\|יְקוּמ֑וּ]][[H9013\|ן]] [[H6974\|הָקִ֨יצוּ]] [[H9002\|וְ]][[H7442B\|רַנְּנ֜וּ]] [[H7931\|שֹׁכְנֵ֣י]] [[H6083\|עָפָ֗ר]] [[H3588A\|כִּ֣י]] [[H2919\|טַ֤ל]] [[H0219A\|אוֹרֹת֙]] [[H2919\|טַלֶּ֔]][[H9021\|ךָ]] [[H9002\|וָ]][[H0776G\|אָ֖רֶץ]] [[H7496\|רְפָאִ֥ים]] [[H5307H\|תַּפִּֽיל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEW|DEW]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.18|<< Isaiah 26:18]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.20|Isaiah 26:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -26,7 +84,7 @@ Your dead will live; their bodies will rise. Awake and sing, you who dwell in th
 | dew your  |**<big>&#8207;[[H2919\|טַלֶּ֔]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| ta.Le.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] earth  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] shades  |**<big>&#8207;[[H7496\|רְפָאִ֥ים]]&#8207; </big>**| re.fa.'Im<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will make fall  |**<big>&#8207;[[H5307H\|תַּפִּֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ta.Pil<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will make fall  |**<big>&#8207;[[H5307H\|תַּפִּֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ta.Pil<small><sup>[[HVhi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.18|<< Isaiah 26:18]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.20|Isaiah 26:20 >>]]</td></tr></table>
 
 

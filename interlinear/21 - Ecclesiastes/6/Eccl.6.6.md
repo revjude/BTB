@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 6:6
+type: Verse
+kjv: "Yea, though he live a thousand years twice told, yet hath he seen no good: do not all go to one place?"
+bsb: "even if he lives a thousand years twice over but fails to enjoy his prosperity. Do not all go to the same place?"
+hebrew: "וְאִלּ֣וּ חָיָ֗ה אֶ֤לֶף שָׁנִים֙ פַּעֲמַ֔יִם וְטוֹבָ֖ה לֹ֣א רָאָ֑ה הֲלֹ֛א אֶל־ מָק֥וֹם אֶחָ֖ד הַכֹּ֥ל הוֹלֵֽךְ׃"
+pericope: "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0432]]"
+- "[[H2421]]"
+- "[[H0505G]]"
+- "[[H8141]]"
+- "[[H6471]]"
+- "[[H2896C]]"
+- "[[H3808]]"
+- "[[H7200K]]"
+- "[[H9008]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H3605]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 6:6**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, though he live a thousand years twice [told], yet hath he seen no good: do not all go to one place?
 <small><sub>**BSB:**</sub></small>
 even if he lives a thousand years twice over but fails to enjoy his prosperity. Do not all go to the same place?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0432\|אִלּ֣וּ]] [[H2421\|חָיָ֗ה]] [[H0505G\|אֶ֤לֶף]] [[H8141\|שָׁנִים֙]] [[H6471\|פַּעֲמַ֔יִם]] [[H9002\|וְ]][[H2896C\|טוֹבָ֖ה]] [[H3808\|לֹ֣א]] [[H7200K\|רָאָ֑ה]] [[H9008\|הֲ]][[H3808\|לֹ֛א]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מָק֥וֹם]] [[H0259\|אֶחָ֖ד]] [[H9009\|הַ]][[H3605\|כֹּ֥ל]] [[H1980G\|הוֹלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.5|<< Ecclesiastes 6:5]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.7|Ecclesiastes 6:7 >>]]</td></tr></table>
 

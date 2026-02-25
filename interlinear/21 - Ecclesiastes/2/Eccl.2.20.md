@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 2:20
+type: Verse
+kjv: "Therefore I went about to cause my heart to despair of all the labour which I took under the sun."
+bsb: "So my heart began to despair over all the labor that I had done under the sun."
+hebrew: "וְסַבּ֥וֹתִֽי אֲנִ֖י לְיַאֵ֣שׁ אֶת־ לִבִּ֑י עַ֚ל כָּל־ הֶ֣עָמָ֔ל שֶׁעָמַ֖לְתִּי תַּ֥חַת הַשָּֽׁמֶשׁ׃"
+pericope: "[[Eccl.2.18 The Futility of Work|The Futility of Work]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5437G]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H2976]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5999]]"
+- "[[H9007]]"
+- "[[H5998]]"
+- "[[H8478G]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:20**<big><big>[[Eccl.2.18 The Futility of Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I went about to cause my heart to despair of all the labour which I took under the sun.
 <small><sub>**BSB:**</sub></small>
 So my heart began to despair over all the labor that I had done under the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5437G\|סַבּ֥וֹתִֽי]] [[H0589\|אֲנִ֖י]] [[H9005\|לְ]][[H2976\|יַאֵ֣שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבִּ֑]][[H9020\|י]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הֶ֣]][[H5999\|עָמָ֔ל]] [[H9007\|שֶׁ]][[H5998\|עָמַ֖לְתִּי]] [[H8478G\|תַּ֥חַת]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDUSTRY|INDUSTRY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.19|<< Ecclesiastes 2:19]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.21|Ecclesiastes 2:21 >>]]</td></tr></table>
 

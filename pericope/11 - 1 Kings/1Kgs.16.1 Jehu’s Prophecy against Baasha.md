@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehu’s Prophecy against Baasha
+type: Pericope
 pericope: "[[1Kgs.16.1 Jehu’s Prophecy against Baasha|Jehu’s Prophecy against Baasha]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 16
 book/chapter: "[[1Kgs.16|1 Kings 16]]"
-genre:
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 7
 verses:
 - "[[1Kgs.16.1]]"
 - "[[1Kgs.16.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Kgs.16.7]]"
 ---
 
-[[1Kgs.16|1 Kings 16:1 - 1 Kings 16:7]]
+<small>[[1Kgs.16|1 Kings 16:1-7]]</small>
 *Jehu’s Prophecy against Baasha*
 
 [[1Kgs.16.1|1]] Then the word of the LORD came to Jehu the son of Hanani against Baasha, saying,

@@ -1,10 +1,59 @@
+---
+title: Luke 18:1
+type: Verse
+kjv: "And he spake a parable unto them to this end, that men ought always to pray, and not to faint;"
+bsb: "Then Jesus told them a parable about their need to pray at all times and not lose heart:"
+greek: "Ἔλεγεν δὲ καὶ παραβολὴν αὐτοῖς πρὸς τὸ δεῖν πάντοτε προσεύχεσθαι αὐτοὺς καὶ μὴ ἐγκακεῖν"
+pericope: "[[Luke.18.1 The Parable of the Persistent Widow|The Parable of the Persistent Widow]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3850]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G1163]]"
+- "[[G3842]]"
+- "[[G4336]]"
+- "[[G3361]]"
+- "[[G1573]]"
+texts:
+- NKO
+- ko
+- no
+---
+
 **Luke 18:1**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he spake a parable unto them [to this end], that men ought always to pray, and not to faint;
 <small><sub>**BSB:**</sub></small>
 Then Jesus told them a parable about their need to pray at all times and not lose heart:
-<small><sub>**Literal:**</sub></small>
-He was speaking then and a parable to them about it needing always to pray they and not to lose heart<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.37|<< Luke 17:37]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.2|Luke 18:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Ἔλεγεν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3850\|παραβολὴν]]  [[G0846\|αὐτοῖς]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G1163\|δεῖν]]  [[G3842\|πάντοτε]]  [[G4336\|προσεύχεσθαι]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1573\|ἐγκακεῖν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONSTANCY|CONSTANCY]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.37|<< Luke 17:37]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.2|Luke 18:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

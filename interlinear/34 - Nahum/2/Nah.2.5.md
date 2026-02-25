@@ -1,8 +1,52 @@
+---
+title: Nahum 2:5
+type: Verse
+kjv: "He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared."
+bsb: "He summons his nobles; they stumble as they advance. They race to its wall; the protective shield is set in place."
+hebrew: "יִזְכֹּר֙ אַדִּירָ֔יו יִכָּשְׁל֖וּ בַּהֲלִֽיכָתָ֑ם יְמַֽהֲרוּ֙ חֽוֹמָתָ֔הּ וְהֻכַ֖ן הַסֹּכֵֽךְ׃"
+pericope: "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H2142]]"
+- "[[H0117]]"
+- "[[H9023]]"
+- "[[H3782]]"
+- "[[H9003]]"
+- "[[H1979]]"
+- "[[H9028]]"
+- "[[H4116A]]"
+- "[[H2346G]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H3559H]]"
+- "[[H9009]]"
+- "[[H5526D]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Nahum 2:5**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.
 <small><sub>**BSB:**</sub></small>
 He summons his nobles; they stumble as they advance. They race to its wall; the protective shield is set in place.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|יִזְכֹּר֙]] [[H0117\|אַדִּירָ֔י]][[H9023\|ו]] [[H3782\|יִכָּשְׁל֖וּ]] [[H9003\|בַּ]][[H1979\|הֲלִֽיכָתָ֑]][[H9028\|ם]] [[H4116A\|יְמַֽהֲרוּ֙]] [[H2346G\|חֽוֹמָתָ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H3559H\|הֻכַ֖ן]] [[H9009\|הַ]][[H5526D\|סֹּכֵֽךְ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.4|<< Nahum 2:4]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.6|Nahum 2:6 >>]]</td></tr></table>
 
@@ -18,8 +62,8 @@ He summons his nobles; they stumble as they advance. They race to its wall; the 
 | the cover  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5526D\|סֹּכֵֽךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> so.Khekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.4|<< Nahum 2:4]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.6|Nahum 2:6 >>]]</td></tr></table>
 
-[^1]: on journeys their  | **<big>[[H9028|ם]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
-[^2]: on journeys their  | **<big>[[H9028|ם]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
-[^3]: on journeys their  | **<big>[[H9028|ם]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9003|בַ]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^1]: on journeys their  | **<big>[[H9003|בַ]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9028|ם]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: on journeys their  | **<big>[[H9003|בַ]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9028|ם]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: on journeys their  | **<big>[[H9003|בַ]]</big><big>[[H1979|הֲלִכוֹתָ]]</big><big>[[H9028|ם]]</big> ** | va.<small><sup>[[HR]]</sup></small> ha.li.kho.ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>בַּהֲלִֽכָותָ֑/ם</big></span>**
 

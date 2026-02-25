@@ -1,10 +1,54 @@
+---
+title: Galatians 2:5
+type: Verse
+kjv: "To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you."
+bsb: "We did not give in to them for a moment, so that the truth of the gospel would remain with you."
+greek: "οἷς οὐδὲ πρὸς ὥραν εἴξαμεν τῇ ὑποταγῇ, ἵνα ἡ ἀλήθεια τοῦ εὐαγγελίου διαμείνῃ πρὸς ὑμᾶς."
+pericope: "[[Gal.2.1 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3739]]"
+- "[[G3761]]"
+- "[[G4314]]"
+- "[[G5610]]"
+- "[[G1502]]"
+- "[[G3588]]"
+- "[[G5292]]"
+- "[[G2443]]"
+- "[[G0225]]"
+- "[[G2098]]"
+- "[[G1265]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Galatians 2:5**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
 <small><sub>**BSB:**</sub></small>
 We did not give in to them for a moment, so that the truth of the gospel would remain with you.
-<small><sub>**Literal:**</sub></small>
-to whom not even for an hour did we yield <the> in subjection, so that the truth of the gospel may continue with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.4|<< Galatians 2:4]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.6|Galatians 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἷς]]  [[G3761\|οὐδὲ]]  [[G4314\|πρὸς]]  [[G5610\|ὥραν]]  [[G1502\|εἴξαμεν]]  [[G3588\|τῇ]]  [[G5292\|ὑποταγῇ,]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G0225\|ἀλήθεια]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]  [[G1265\|διαμείνῃ]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic BIGOTRY|BIGOTRY]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.4|<< Galatians 2:4]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.6|Galatians 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

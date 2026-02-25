@@ -1,8 +1,58 @@
+---
+title: 1 Kings 6:24
+type: Verse
+kjv: "And five cubits was the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other were ten cubits."
+bsb: "One wing of the first cherub was five cubits long, and the other wing was five cubits long as well. So the full wingspan was ten cubits."
+hebrew: "וְחָמֵ֣שׁ אַמּ֗וֹת כְּנַ֤ף הַכְּרוּב֙ הָֽאֶחָ֔ת וְחָמֵ֣שׁ אַמּ֔וֹת כְּנַ֥ף הַכְּר֖וּב הַשֵּׁנִ֑ית עֶ֣שֶׂר אַמּ֔וֹת מִקְצ֥וֹת כְּנָפָ֖יו וְעַד־ קְצ֥וֹת כְּנָפָֽיו׃"
+pericope: "[[1Kgs.6.23 The Cherubim|The Cherubim]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H0520A]]"
+- "[[H3671]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H0259]]"
+- "[[H8145]]"
+- "[[H6235]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:24**<big><big>[[1Kgs.6.23 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And five cubits [was] the one wing of the cherub, and five cubits the other wing of the cherub: from the uttermost part of the one wing unto the uttermost part of the other [were] ten cubits.
 <small><sub>**BSB:**</sub></small>
 One wing of the first cherub was five cubits long, and the other wing was five cubits long as well. So the full wingspan was ten cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2568\|חָמֵ֣שׁ]] [[H0520A\|אַמּ֗וֹת]] [[H3671\|כְּנַ֤ף]] [[H9009\|הַ]][[H3742\|כְּרוּב֙]] [[H9009\|הָֽ]][[H0259\|אֶחָ֔ת]] [[H9002\|וְ]][[H2568\|חָמֵ֣שׁ]] [[H0520A\|אַמּ֔וֹת]] [[H3671\|כְּנַ֥ף]] [[H9009\|הַ]][[H3742\|כְּר֖וּב]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֑ית]] [[H6235\|עֶ֣שֶׂר]] [[H0520A\|אַמּ֔וֹת]] [[H9006\|מִ]][[H7098\|קְצ֥וֹת]] [[H3671\|כְּנָפָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H7098\|קְצ֥וֹת]] [[H3671\|כְּנָפָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.23|<< 1 Kings 6:23]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.25|1 Kings 6:25 >>]]</td></tr></table>
 

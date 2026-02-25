@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Reports of the Spies
+type: Pericope
 pericope: "[[Num.13.25 The Reports of the Spies|The Reports of the Spies]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 13
 book/chapter: "[[Num.13|Numbers 13]]"
-genre:
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 9
 verses:
 - "[[Num.13.25]]"
 - "[[Num.13.26]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Num.13.33]]"
 ---
 
-[[Num.13|Numbers 13:25 - Numbers 13:33]]
+<small>[[Num.13|Numbers 13:25-33]]</small>
 *The Reports of the Spies*
 
 [[Num.13.25|25]] And they returned from searching of the land after forty days.

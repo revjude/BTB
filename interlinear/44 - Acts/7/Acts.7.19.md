@@ -1,10 +1,58 @@
+---
+title: Acts 7:19
+type: Verse
+kjv: "The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live."
+bsb: "He exploited our people and oppressed our fathers, forcing them to abandon their infants so they would die."
+greek: "οὗτος κατασοφισάμενος τὸ γένος ἡμῶν ἐκάκωσεν τοὺς πατέρας ἡμῶν τοῦ ποιεῖν τὰ βρέφη ἔκθετα αὐτῶν εἰς τὸ μὴ ζῳογονεῖσθαι."
+pericope: "[[Acts.7.15 Israel Oppressed in Egypt|Israel Oppressed in Egypt]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INFANTICIDE|INFANTICIDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G3778]]"
+- "[[G2686]]"
+- "[[G3588]]"
+- "[[G1085G]]"
+- "[[G3165]]"
+- "[[G2559]]"
+- "[[G3962]]"
+- "[[G4160G]]"
+- "[[G1025]]"
+- "[[G1570]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3361]]"
+- "[[G2225]]"
+texts:
+- NKO
+---
+
 **Acts 7:19**<big><big>[[Acts.7.15 Israel Oppressed in Egypt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The same dealt subtilly with our kindred, and evil entreated our fathers, so that they cast out their young children, to the end they might not live.
 <small><sub>**BSB:**</sub></small>
 He exploited our people and oppressed our fathers, forcing them to abandon their infants so they would die.
-<small><sub>**Literal:**</sub></small>
-He having dealt treacherously with the race of us he mistreated the fathers of us <the> making [them] the infants abandon of them unto the not to be given life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.18|<< Acts 7:18]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.20|Acts 7:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G2686\|κατασοφισάμενος]]  [[G3588\|τὸ]]  [[G1085G\|γένος]]  [[G3165\|ἡμῶν]]  [[G2559\|ἐκάκωσεν]]  [[G3588\|τοὺς]]  [[G3962\|πατέρας]]  [[G3165\|ἡμῶν]]  [[G3588\|τοῦ]]  [[G4160G\|ποιεῖν]]  [[G3588\|τὰ]]  [[G1025\|βρέφη]]  [[G1570\|ἔκθετα]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G2225\|ζῳογονεῖσθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INFANTICIDE|INFANTICIDE]] • [[topic ISRAEL|ISRAEL]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.18|<< Acts 7:18]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.20|Acts 7:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:19** is...
 > $\quad$ alluding to: [[LXX.Exod.1.10|Exod 1:10]] ☩ [[LXX.Exod.1.22|Exod 1:22]]

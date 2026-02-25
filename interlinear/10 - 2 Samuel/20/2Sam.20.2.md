@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 20:2
+type: Verse
+kjv: "So every man of Israel went up from after David, and followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem."
+bsb: "So all the men of Israel deserted David to follow Sheba son of Bichri. But the men of Judah stayed by their king all the way from the Jordan to Jerusalem."
+hebrew: "וַיַּ֜עַל כָּל־ אִ֤ישׁ יִשְׂרָאֵל֙ מֵאַחֲרֵ֣י דָוִ֔ד אַחֲרֵ֖י שֶׁ֣בַע בֶּן־ בִּכְרִ֑י וְאִ֤ישׁ יְהוּדָה֙ דָּבְק֣וּ בְמַלְכָּ֔ם מִן־ הַיַּרְדֵּ֖ן וְעַד־ יְרוּשָׁלִָֽם׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H1732]]"
+- "[[H7652A]]"
+- "[[H1121A]]"
+- "[[H1075]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H1692]]"
+- "[[H9003]]"
+- "[[H4428G]]"
+- "[[H9028]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H5704]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:2**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So every man of Israel went up from after David, [and] followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 So all the men of Israel deserted David to follow Sheba son of Bichri. But the men of Judah stayed by their king all the way from the Jordan to Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֜עַל]] [[H3605\|כָּל]][[H9014\|־]] [[H0376G\|אִ֤ישׁ]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵ֣י]] [[H1732\|דָוִ֔ד]] [[H0310A\|אַחֲרֵ֖י]] [[H7652A\|שֶׁ֣בַע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1075\|בִּכְרִ֑י]] [[H9002\|וְ]][[H0376G\|אִ֤ישׁ]] [[H3063G\|יְהוּדָה֙]] [[H1692\|דָּבְק֣וּ]] [[H9003\|בְ]][[H4428G\|מַלְכָּ֔]][[H9028\|ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic CITIZENS|CITIZENS]] • [[topic DAVID|DAVID]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.1|<< 2 Samuel 20:1]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.3|2 Samuel 20:3 >>]]</td></tr></table>
 

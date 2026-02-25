@@ -1,8 +1,64 @@
+---
+title: Ezekiel 27:24
+type: Verse
+kjv: "These were thy merchants in all sorts of things, in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise."
+bsb: "In your marketplace they traded with you fine garments of blue, embroidered work, and multicolored rugs with cords tightly twisted and knotted."
+hebrew: "הֵ֤מָּה רֹכְלַ֙יִךְ֙ בְּמַכְלֻלִ֔ים בִּגְלוֹמֵי֙ תְּכֵ֣לֶת וְרִקְמָ֔ה וּבְגִנְזֵ֖י בְּרֹמִ֑ים בַּחֲבָלִ֧ים חֲבֻשִׁ֛ים וַאֲרֻזִ֖ים בְּמַרְכֻלְתֵּֽךְ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic COFFER|COFFER]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic MARKET|MARKET]]"
+- "[[topic MERCHANT|MERCHANT]]"
+strongs:
+- "[[H1992]]"
+- "[[H7402]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H4360]]"
+- "[[H1545]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H7553]]"
+- "[[H1595]]"
+- "[[H1264]]"
+- "[[H2256M]]"
+- "[[H2280]]"
+- "[[H0729]]"
+- "[[H4819]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **Ezekiel 27:24**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] thy merchants in all sorts [of things], in blue clothes, and broidered work, and in chests of rich apparel, bound with cords, and made of cedar, among thy merchandise.
 <small><sub>**BSB:**</sub></small>
 In your marketplace they traded with you fine garments of blue, embroidered work, and multicolored rugs with cords tightly twisted and knotted.
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵ֤מָּה]] [[H7402\|רֹכְלַ֙יִ]][[H9022\|ךְ֙]] [[H9003\|בְּ]][[H4360\|מַכְלֻלִ֔ים]] [[H9003\|בִּ]][[H1545\|גְלוֹמֵי֙]] [[H8504\|תְּכֵ֣לֶת]] [[H9002\|וְ]][[H7553\|רִקְמָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H1595\|גִנְזֵ֖י]] [[H1264\|בְּרֹמִ֑ים]] [[H9003\|בַּ]][[H2256M\|חֲבָלִ֧ים]] [[H2280\|חֲבֻשִׁ֛ים]] [[H9002\|וַ]][[H0729\|אֲרֻזִ֖ים]] [[H9003\|בְּ]][[H4819\|מַרְכֻלְתֵּֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COFFER|COFFER]] • [[topic COMMERCE|COMMERCE]] • [[topic IMPORTS|IMPORTS]] • [[topic MARKET|MARKET]] • [[topic MERCHANT|MERCHANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.23|<< Ezekiel 27:23]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.25|Ezekiel 27:25 >>]]</td></tr></table>
 

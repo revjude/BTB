@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 26:7
+type: Verse
+kjv: "So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him."
+bsb: "That night David and Abishai came to the troops, and Saul was lying there asleep in the inner circle of the camp, with his spear stuck in the ground by his head. And Abner and the troops were lying around him."
+hebrew: "וַיָּבֹא֩ דָוִ֨ד וַאֲבִישַׁ֥י׀ אֶל־ הָעָם֮ לַיְלָה֒ וְהִנֵּ֣ה שָׁא֗וּל שֹׁכֵ֤ב יָשֵׁן֙ בַּמַּעְגָּ֔ל וַחֲנִית֥וֹ מְעוּכָֽה־ בָאָ֖רֶץ מְרַאֲשֹׁתָ֑יו וְאַבְנֵ֣ר וְהָעָ֔ם שֹׁכְבִ֖ים סְבִיבֹתָֽיו׃ ס"
+pericope: "[[1Sam.26.1 David Again Spares Saul|David Again Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic PILLOW|PILLOW]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H0052]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H3915]]"
+- "[[H2009]]"
+- "[[H7586G]]"
+- "[[H7901G]]"
+- "[[H3463]]"
+- "[[H9003]]"
+- "[[H4570]]"
+- "[[H2595]]"
+- "[[H9023]]"
+- "[[H4600]]"
+- "[[H0776H]]"
+- "[[H4763]]"
+- "[[H0074]]"
+- "[[H5439G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 26:7**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him.
 <small><sub>**BSB:**</sub></small>
 That night David and Abishai came to the troops, and Saul was lying there asleep in the inner circle of the camp, with his spear stuck in the ground by his head. And Abner and the troops were lying around him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא֩]] [[H1732\|דָוִ֨ד]] [[H9002\|וַ]][[H0052\|אֲבִישַׁ֥י]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָם֮]] [[H3915\|לַיְלָה֒]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H7586G\|שָׁא֗וּל]] [[H7901G\|שֹׁכֵ֤ב]] [[H3463\|יָשֵׁן֙]] [[H9003\|בַּ]][[H4570\|מַּעְגָּ֔ל]] [[H9002\|וַ]][[H2595\|חֲנִית֥]][[H9023\|וֹ]] [[H4600\|מְעוּכָֽה]][[H9014\|־]] [[H9003\|בָ]][[H0776H\|אָ֖רֶץ]] [[H4763\|מְרַאֲשֹׁתָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0074\|אַבְנֵ֣ר]] [[H9002\|וְ]][[H9009\|הָ]][[H5971K\|עָ֔ם]] [[H7901G\|שֹׁכְבִ֖ים]] [[H5439G\|סְבִיבֹתָֽי]][[H9033\|ו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic CITIZENS|CITIZENS]] • [[topic COURAGE|COURAGE]] • [[topic LOYALTY|LOYALTY]] • [[topic PILLOW|PILLOW]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.6|<< 1 Samuel 26:6]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.8|1 Samuel 26:8 >>]]</td></tr></table>
 
@@ -26,13 +91,13 @@ That night David and Abishai came to the troops, and Saul was lying there asleep
 | and Abner  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0074\|אַבְנֵ֣ר]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'av.Ner<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and the people  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971K\|עָ֔ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] lying  |**<big>&#8207;[[H7901G\|שֹׁכְבִ֖ים]]&#8207; </big>**| sho.khe.Vim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| around him  [^5]|**<big>&#8207;[[H5439G\|סְבִיבֹתָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^6] | se.vi.vo.to<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| around him  [^5]|**<big>&#8207;[[H5439G\|סְבִיבֹתָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**[^6] | se.vi.vo.to<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.6|<< 1 Samuel 26:6]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.8|1 Samuel 26:8 >>]]</td></tr></table>
 
-[^1]: [the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: [the] place of head his  | **<big>[[H9023|וֹ]]</big><big>[[H4763|מְרַאֲשֹׁת]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: [the] place of head his  | **<big>[[H4763|מְרַאֲשֹׁת]]</big><big>[[H9023|וֹ]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: [the] place of head his  | **<big>[[H4763|מְרַאֲשֹׁת]]</big><big>[[H9023|וֹ]]</big> ** | me.ra.'a.sho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>מְרַאֲשֹׁתָ֑ו</big></span>**
-[^4]: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
-[^5]: around him  | **<big>[[H9018|ס]]</big><big>[[ | ]]</big><big>[[H9016|׃]]</big><big>[[H9033|וֹ]]</big><big>[[H5439G|סְבִיבֹת]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^4]: around him  | **<big>[[H5439G|סְבִיבֹת]]</big><big>[[H9033|וֹ]]</big><big>[[H9016|׃]]</big><big>[[H9018|ס]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
+[^5]: around him  | **<big>[[H5439G|סְבִיבֹת]]</big><big>[[H9033|וֹ]]</big><big>[[H9016|׃]]</big><big>[[H9018|ס]]</big> ** | se.vi.vo.to<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3bs]]</sup></small> | K
 [^6]: L spelled: **<span class="ashebrew"><big>סְבִיבֹתָֽו\׃\ \ס</big></span>**
 

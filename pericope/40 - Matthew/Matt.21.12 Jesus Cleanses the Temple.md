@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Cleanses the Temple
+type: Pericope
 pericope: "[[Matt.21.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 21
 book/chapter: "[[Matt.21|Matthew 21]]"
-genre:
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.21.12]]"
 - "[[Matt.21.13]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.21.17]]"
 ---
 
-[[Matt.21|Matthew 21:12 - Matthew 21:17]]
+<small>[[Matt.21|Matthew 21:12-17]]</small>
 *Jesus Cleanses the Temple*
 
 [[Matt.21.12|12]] And Jesus went into the temple of God, and cast out all them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves,

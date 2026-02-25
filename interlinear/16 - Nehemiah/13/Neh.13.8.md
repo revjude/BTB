@@ -1,8 +1,63 @@
+---
+title: Nehemiah 13:8
+type: Verse
+kjv: "And it grieved me sore: therefore I cast forth all the household stuff of Tobiah out of the chamber."
+bsb: "And I was greatly displeased and threw all of Tobiah’s household goods out of the room."
+hebrew: "וַיֵּ֥רַֽע לִ֖י מְאֹ֑ד וָֽאַשְׁלִ֜יכָה אֶֽת־ כָּל־ כְּלֵ֧י בֵית־ טוֹבִיָּ֛ה הַח֖וּץ מִן־ הַלִּשְׁכָּֽה׃"
+pericope: "[[Neh.13.4 The Temple Cleansed|The Temple Cleansed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ELIASHIB|ELIASHIB]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TOBIAH|TOBIAH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7489A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3966]]"
+- "[[H7993]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H1004B]]"
+- "[[H2900I]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H4480A]]"
+- "[[H3957]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:8**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it grieved me sore: therefore I cast forth all the household stuff of Tobiah out of the chamber.
 <small><sub>**BSB:**</sub></small>
 And I was greatly displeased and threw all of Tobiah’s household goods out of the room.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7489A\|יֵּ֥רַֽע]] [[H9005\|לִ֖]][[H9030\|י]] [[H3966\|מְאֹ֑ד]] [[H9001\|וָֽ]][[H7993\|אַשְׁלִ֜יכָ]][[H9012\|ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֧י]] [[H1004B\|בֵית]][[H9014\|־]] [[H2900I\|טוֹבִיָּ֛ה]] [[H9009\|הַ]][[H2351\|ח֖וּץ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3957\|לִּשְׁכָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIASHIB|ELIASHIB]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic TOBIAH|TOBIAH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.7|<< Nehemiah 13:7]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.9|Nehemiah 13:9 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: John 7:22
+type: Verse
+kjv: "Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man."
+bsb: "But because Moses gave you circumcision, you circumcise a boy on the Sabbath (not that it is from Moses, but from the patriarchs.)"
+jesus_said: "Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man."
+greek: "διὰ τοῦτο Μωϋσῆς δέδωκεν ὑμῖν τὴν περιτομήν, οὐχ ὅτι ἐκ τοῦ Μωϋσέως ἐστὶν ἀλλ᾽ ἐκ τῶν πατέρων, καὶ ἐν σαββάτῳ περιτέμνετε ἄνθρωπον."
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3475]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G4061]]"
+- "[[G3756]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G1510]]"
+- "[[G0235]]"
+- "[[G3962]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G4521]]"
+- "[[G4059]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **John 7:22**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.
 <small><sub>**BSB:**</sub></small>
 But because Moses gave you circumcision, you circumcise a boy on the Sabbath (not that it is from Moses, but from the patriarchs.)
-<small><sub>**Literal:**</sub></small>
-Because of this:  Moses has given you <the> circumcision — not that of <the> Moses it is but of the fathers — also on Sabbath you circumcise a man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.21|<< John 7:21]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.23|John 7:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3475\|Μωϋσῆς]]  [[G1325\|δέδωκεν]]  [[G4771\|ὑμῖν]]  [[G3588\|τὴν]]  [[G4061\|περιτομήν,]]  [[G3756\|οὐχ]]  [[G3754G\|ὅτι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3475\|Μωϋσέως]]  [[G1510\|ἐστὶν]]  [[G0235\|ἀλλ᾽]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3962\|πατέρων,]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4521\|σαββάτῳ]]  [[G4059\|περιτέμνετε]]  [[G0444\|ἄνθρωπον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.21|<< John 7:21]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.23|John 7:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 7:22** is...
 > $\quad$ alluding to: [[LXX.Lev.12.3|Lev 12:3]]

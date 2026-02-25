@@ -7,7 +7,7 @@
 
 → From Beth-el to Shechem [[Judg.21.19|Jud 21:19]]
 
-→ From Judaea to Galilee, by way of Samaria [[John.4.3|Joh 4:3]]-[[John.4.5|5]],[[John.4.43|43]]
+→ From Judaea to Galilee, by way of Samaria [[John.4.3|Joh 4:3-5]],[[John.4.43|43]]
 
 → To the house of God [[Judg.20.31|Jud 20:31]]
 

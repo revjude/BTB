@@ -1,8 +1,60 @@
+---
+title: Isaiah 42:11
+type: Verse
+kjv: "Let the wilderness and the cities thereof lift up their voice, the villages that Kedar doth inhabit: let the inhabitants of the rock sing, let them shout from the top of the mountains."
+bsb: "Let the desert and its cities raise their voices; let the villages of Kedar cry aloud. Let the people of Sela sing for joy; let them cry out from the mountaintops."
+hebrew: "יִשְׂא֤וּ מִדְבָּר֙ וְעָרָ֔יו חֲצֵרִ֖ים תֵּשֵׁ֣ב קֵדָ֑ר יָרֹ֙נּוּ֙ יֹ֣שְׁבֵי סֶ֔לַע מֵרֹ֥אשׁ הָרִ֖ים יִצְוָֽחוּ׃"
+pericope: "[[Isa.42.10 A New Song of Praise|A New Song of Praise]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic KEDAR|KEDAR]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H5375N]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H2691B]]"
+- "[[H3427]]"
+- "[[H6938]]"
+- "[[H7442B]]"
+- "[[H5554]]"
+- "[[H9006]]"
+- "[[H7218I]]"
+- "[[H2022G]]"
+- "[[H6681]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:11**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the wilderness and the cities thereof lift up [their voice], the villages [that] Kedar doth inhabit: let the inhabitants of the rock sing, let them shout from the top of the mountains.
 <small><sub>**BSB:**</sub></small>
 Let the desert and its cities raise their voices; let the villages of Kedar cry aloud. Let the people of Sela sing for joy; let them cry out from the mountaintops.
+<small><sub>**Hebrew:**</sub></small>
+[[H5375N\|יִשְׂא֤וּ]] [[H4057B\|מִדְבָּר֙]] [[H9002\|וְ]][[H5892B\|עָרָ֔י]][[H9023\|ו]] [[H2691B\|חֲצֵרִ֖ים]] [[H3427\|תֵּשֵׁ֣ב]] [[H6938\|קֵדָ֑ר]] [[H7442B\|יָרֹ֙נּוּ֙]] [[H3427\|יֹ֣שְׁבֵי]] [[H5554\|סֶ֔לַע]] [[H9006\|מֵ]][[H7218I\|רֹ֥אשׁ]] [[H2022G\|הָרִ֖ים]] [[H6681\|יִצְוָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIANS|ARABIANS]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic KEDAR|KEDAR]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.10|<< Isaiah 42:10]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.12|Isaiah 42:12 >>]]</td></tr></table>
 

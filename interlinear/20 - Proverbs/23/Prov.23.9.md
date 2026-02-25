@@ -1,8 +1,53 @@
+---
+title: Proverbs 23:9
+type: Verse
+kjv: "Speak not in the ears of a fool: for he will despise the wisdom of thy words."
+bsb: "Do not speak to a fool, for he will despise the wisdom of your words."
+hebrew: "בְּאָזְנֵ֣י כְ֭סִיל אַל־ תְּדַבֵּ֑ר כִּֽי־ יָ֝ב֗וּז לְשֵׂ֣כֶל מִלֶּֽיךָ׃"
+pericope: "[[Prov.23.9 Saying 10|Saying 10]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H3684]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H3588A]]"
+- "[[H0936]]"
+- "[[H9005]]"
+- "[[H7922]]"
+- "[[H4405]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:9**<big><big>[[Prov.23.9 Saying 10|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak not in the ears of a fool: for he will despise the wisdom of thy words.
 <small><sub>**BSB:**</sub></small>
 Do not speak to a fool, for he will despise the wisdom of your words.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0241H\|אָזְנֵ֣י]] [[H3684\|כְ֭סִיל]] [[H0408\|אַל]][[H9014\|־]] [[H1696G\|תְּדַבֵּ֑ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0936\|יָ֝ב֗וּז]] [[H9005\|לְ]][[H7922\|שֵׂ֣כֶל]] [[H4405\|מִלֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.8|<< Proverbs 23:8]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.10|Proverbs 23:10 >>]]</td></tr></table>
 

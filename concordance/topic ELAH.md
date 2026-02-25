@@ -9,7 +9,7 @@
 
 4. Father of Shimei [[1Kgs.4.18|1Ki 4:18]]
 
-5. Son and successor of Baasha, king of Israel [[1Kgs.16.6|1Ki  16:6]]-[[1Kgs.16.14|14]]
+5. Son and successor of Baasha, king of Israel [[1Kgs.16.6|1Ki  16:6-14]]
 
 6. Father of Hoshea [[2Kgs.15.30|2Ki 15:30]]; [[2Kgs.17.1|17:1]]
 

@@ -1,8 +1,53 @@
+---
+title: Job 40:16
+type: Verse
+kjv: "Lo now, his strength is in his loins, and his force is in the navel of his belly."
+bsb: "See the strength of his loins and the power in the muscles of his belly."
+hebrew: "הִנֵּה־ נָ֣א כֹח֣וֹ בְמָתְנָ֑יו וְ֝אֹנ֗וֹ בִּשְׁרִירֵ֥י בִטְנֽוֹ׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4975]]"
+- "[[H9002]]"
+- "[[H0202]]"
+- "[[H8306]]"
+- "[[H0990G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:16**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo now, his strength [is] in his loins, and his force [is] in the navel of his belly.
 <small><sub>**BSB:**</sub></small>
 See the strength of his loins and the power in the muscles of his belly.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֣א]] [[H3581B\|כֹח֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H4975\|מָתְנָ֑י]][[H9023\|ו]] [[H9002\|וְ֝]][[H0202\|אֹנ֗]][[H9023\|וֹ]] [[H9003\|בִּ]][[H8306\|שְׁרִירֵ֥י]] [[H0990G\|בִטְנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.15|<< Job 40:15]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.17|Job 40:17 >>]]</td></tr></table>
 

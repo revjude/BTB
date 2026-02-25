@@ -1,8 +1,62 @@
+---
+title: Genesis 10:7
+type: Verse
+kjv: "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan."
+bsb: "The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. And the sons of Raamah: Sheba and Dedan."
+hebrew: "וּבְנֵ֣י כ֔וּשׁ סְבָא֙ וַֽחֲוִילָ֔ה וְסַבְתָּ֥ה וְרַעְמָ֖ה וְסַבְתְּכָ֑א וּבְנֵ֥י רַעְמָ֖ה שְׁבָ֥א וּדְדָֽן׃"
+pericope: "[[Gen.10.6 The Hamites|The Hamites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CUSH|CUSH]]"
+- "[[topic DEDAN|DEDAN]]"
+- "[[topic HAM|HAM]]"
+- "[[topic HAVILAH|HAVILAH]]"
+- "[[topic RAAMAH|RAAMAH]]"
+- "[[topic SABTA|SABTA]]"
+- "[[topic SABTECHA|SABTECHA]]"
+- "[[topic SEBA|SEBA]]"
+- "[[topic SHEBA|SHEBA]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H3568G]]"
+- "[[H5434G]]"
+- "[[H2341H]]"
+- "[[H5454]]"
+- "[[H7484G]]"
+- "[[H5455]]"
+- "[[H7614G]]"
+- "[[H1719B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:7**<big><big>[[Gen.10.6 The Hamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.
 <small><sub>**BSB:**</sub></small>
 The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. And the sons of Raamah: Sheba and Dedan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H3568G\|כ֔וּשׁ]] [[H5434G\|סְבָא֙]] [[H9002\|וַֽ]][[H2341H\|חֲוִילָ֔ה]] [[H9002\|וְ]][[H5454\|סַבְתָּ֥ה]] [[H9002\|וְ]][[H7484G\|רַעְמָ֖ה]] [[H9002\|וְ]][[H5455\|סַבְתְּכָ֑א]] [[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H7484G\|רַעְמָ֖ה]] [[H7614G\|שְׁבָ֥א]] [[H9002\|וּ]][[H1719B\|דְדָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUSH|CUSH]] • [[topic DEDAN|DEDAN]] • [[topic HAM|HAM]] • [[topic HAVILAH|HAVILAH]] • [[topic RAAMAH|RAAMAH]] • [[topic SABTA|SABTA]] • [[topic SABTECHA|SABTECHA]] • [[topic SEBA|SEBA]] • [[topic SHEBA|SHEBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.6|<< Genesis 10:6]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.8|Genesis 10:8 >>]]</td></tr></table>
 

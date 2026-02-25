@@ -1,10 +1,64 @@
+---
+title: Luke 23:51
+type: Verse
+kjv: "(The same had not consented to the counsel and deed of them;) he was of Arimathaea, a city of the Jews: who also himself waited for the kingdom of God."
+bsb: "who had not consented to their decision or action. He was from the Judean town of Arimathea and was waiting for the kingdom of God."
+greek: "οὗτος οὐκ ἦν συγκατατεθειμένος τῇ βουλῇ καὶ τῇ πράξει αὐτῶν· ἀπὸ Ἁριμαθαίας πόλεως τῶν Ἰουδαίων, ὃς καὶ προσεδέχετο καὶ αὐτὸς τὴν βασιλείαν τοῦ θεοῦ,"
+pericope: "[[Luke.23.50 The Burial of Jesus|The Burial of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ARIMATHEA|ARIMATHEA]]"
+- "[[topic COUNSELLOR|COUNSELLOR]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G4784]]"
+- "[[G3588]]"
+- "[[G1012]]"
+- "[[G2532]]"
+- "[[G4234]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G0707]]"
+- "[[G4172]]"
+- "[[G2453]]"
+- "[[G3739]]"
+- "[[G4327]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 23:51**<big><big>[[Luke.23.50 The Burial of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (The same had not consented to the counsel and deed of them;) [he was] of Arimathaea, a city of the Jews: who also himself waited for the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 who had not consented to their decision or action. He was from the Judean town of Arimathea and was waiting for the kingdom of God.
-<small><sub>**Literal:**</sub></small>
-he not was having consented to the counsel and to the deed of them; from Arimathea a city of the Jews, who and he was waiting for and himself the kingdom <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.50|<< Luke 23:50]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.52|Luke 23:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτος]]  [[G3756\|οὐκ]]  [[G1510\|ἦν]]  [[G4784\|συγκατατεθειμένος]]  [[G3588\|τῇ]]  [[G1012\|βουλῇ]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G4234\|πράξει]]  [[G0846\|αὐτῶν·]]  [[G0575\|ἀπὸ]]  [[G0707\|Ἁριμαθαίας]]  [[G4172\|πόλεως]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων,]]  [[G3739\|ὃς]]  [[G2532\|καὶ]]  [[G4327\|προσεδέχετο]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARIMATHEA|ARIMATHEA]] • [[topic COUNSELLOR|COUNSELLOR]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.50|<< Luke 23:50]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.52|Luke 23:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

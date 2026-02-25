@@ -1,8 +1,67 @@
+---
+title: Hosea 1:6
+type: Verse
+kjv: "And she conceived again, and bare a daughter. And God said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away."
+bsb: "Gomer again conceived and gave birth to a daughter, and the LORD said to Hosea, “Name her Lo-ruhamah, for I will no longer have compassion on the house of Israel, that I should ever forgive them."
+hebrew: "וַתַּ֤הַר עוֹד֙ וַתֵּ֣לֶד בַּ֔ת וַיֹּ֣אמֶר ל֔וֹ קְרָ֥א שְׁמָ֖הּ לֹ֣א רֻחָ֑מָה כִּי֩ לֹ֨א אוֹסִ֜יף ע֗וֹד אֲרַחֵם֙ אֶת־ בֵּ֣ית יִשְׂרָאֵ֔ל כִּֽי־ נָשֹׂ֥א אֶשָּׂ֖א לָהֶֽם׃"
+pericope: "[[Hos.1.1 Hosea’s Wife and Children|Hosea’s Wife and Children]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 1
+book/chapter: "[[Hos.1|Hosea 1]]"
+chronological_order: 642
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LO-RUHAMAH|LO-RUHAMAH]]"
+- "[[topic NAME|NAME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2029]]"
+- "[[H5750]]"
+- "[[H3205]]"
+- "[[H1323G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9024]]"
+- "[[H3819]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H7355]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H5375I]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 1:6**<big><big>[[Hos.1.1 Hosea’s Wife and Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she conceived again, and bare a daughter. And [God] said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
 <small><sub>**BSB:**</sub></small>
 Gomer again conceived and gave birth to a daughter, and the LORD said to Hosea, “Name her Lo-ruhamah, for I will no longer have compassion on the house of Israel, that I should ever forgive them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2029\|תַּ֤הַר]] [[H5750\|עוֹד֙]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H1323G\|בַּ֔ת]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H7121H\|קְרָ֥א]] [[H8034\|שְׁמָ֖]][[H9024\|הּ]] [[H3819\|לֹ֣א]] [[H3819\|רֻחָ֑מָה]] [[H3588A\|כִּי֩]] [[H3808\|לֹ֨א]] [[H3254G\|אוֹסִ֜יף]] [[H5750\|ע֗וֹד]] [[H7355\|אֲרַחֵם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5375I\|נָשֹׂ֥א]] [[H5375I\|אֶשָּׂ֖א]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LO-RUHAMAH|LO-RUHAMAH]] • [[topic NAME|NAME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.1.5|<< Hosea 1:5]]</td><td align="center" style="border:none;">[[Hos.1|Hosea 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.1.7|Hosea 1:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

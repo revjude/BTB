@@ -1,8 +1,60 @@
+---
+title: Isaiah 14:22
+type: Verse
+kjv: "For I will rise up against them, saith the LORD of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the LORD."
+bsb: "“I will rise up against them,” declares the LORD of Hosts. “I will cut off from Babylon her name and her remnant, her offspring and her posterity,” declares the LORD."
+hebrew: "וְקַמְתִּ֣י עֲלֵיהֶ֔ם נְאֻ֖ם יְהוָ֣ה צְבָא֑וֹת וְהִכְרַתִּ֨י לְבָבֶ֜ל שֵׁ֥ם וּשְׁאָ֛ר וְנִ֥ין וָנֶ֖כֶד נְאֻם־ יְהוָֽה׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H3772I]]"
+- "[[H9005]]"
+- "[[H0894]]"
+- "[[H8034]]"
+- "[[H9002]]"
+- "[[H7605]]"
+- "[[H5209]]"
+- "[[H5220]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:22**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will rise up against them, saith the LORD of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “I will rise up against them,” declares the LORD of Hosts. “I will cut off from Babylon her name and her remnant, her offspring and her posterity,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6965B\|קַמְתִּ֣י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֨י]] [[H9005\|לְ]][[H0894\|בָבֶ֜ל]] [[H8034\|שֵׁ֥ם]] [[H9002\|וּ]][[H7605\|שְׁאָ֛ר]] [[H9002\|וְ]][[H5209\|נִ֥ין]] [[H9002\|וָ]][[H5220\|נֶ֖כֶד]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.21|<< Isaiah 14:21]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.23|Isaiah 14:23 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Gershonites
+type: Pericope
 pericope: "[[1Chr.23.7 The Gershonites|The Gershonites]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 23
 book/chapter: "[[1Chr.23|1 Chronicles 23]]"
-genre:
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 5
 verses:
 - "[[1Chr.23.7]]"
 - "[[1Chr.23.8]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Chr.23.11]]"
 ---
 
-[[1Chr.23|1 Chronicles 23:7 - 1 Chronicles 23:11]]
+<small>[[1Chr.23|1 Chronicles 23:7-11]]</small>
 *The Gershonites*
 
 [[1Chr.23.7|7]] Of the Gershonites \[were\], Laadan, and Shimei.

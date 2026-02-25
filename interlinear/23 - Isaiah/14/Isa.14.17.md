@@ -1,8 +1,58 @@
+---
+title: Isaiah 14:17
+type: Verse
+kjv: "That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?"
+bsb: "who turned the world into a desert and destroyed its cities, who refused to let the captives return to their homes?”"
+hebrew: "שָׂ֥ם תֵּבֵ֛ל כַּמִּדְבָּ֖ר וְעָרָ֣יו הָרָ֑ס אֲסִירָ֖יו לֹא־ פָ֥תַח בָּֽיְתָה׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H7760A]]"
+- "[[H8398]]"
+- "[[H9004]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H2040]]"
+- "[[H0615]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6605A]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:17**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] made the world as a wilderness, and destroyed the cities thereof; [that] opened not the house of his prisoners?
 <small><sub>**BSB:**</sub></small>
 who turned the world into a desert and destroyed its cities, who refused to let the captives return to their homes?”
+<small><sub>**Hebrew:**</sub></small>
+[[H7760A\|שָׂ֥ם]] [[H8398\|תֵּבֵ֛ל]] [[H9004\|כַּ]][[H4057B\|מִּדְבָּ֖ר]] [[H9002\|וְ]][[H5892B\|עָרָ֣י]][[H9023\|ו]] [[H2040\|הָרָ֑ס]] [[H0615\|אֲסִירָ֖י]][[H9023\|ו]] [[H3808\|לֹא]][[H9014\|־]] [[H6605A\|פָ֥תַח]] [[H1004B\|בָּֽיְתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.16|<< Isaiah 14:16]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.18|Isaiah 14:18 >>]]</td></tr></table>
 

@@ -1,10 +1,71 @@
+---
+title: Matthew 12:32
+type: Verse
+kjv: "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come."
+bsb: "Whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the one to come."
+jesus_said: "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come."
+greek: "καὶ ὃς ἐὰν εἴπῃ λόγον κατὰ τοῦ υἱοῦ τοῦ ἀνθρώπου, ἀφεθήσεται αὐτῷ· ὃς δ᾽ ἂν εἴπῃ κατὰ τοῦ πνεύματος τοῦ ἁγίου, οὐκ ἀφεθήσεται αὐτῷ οὔτε ἐν τούτῳ τῷ νῦν αἰῶνι οὔτε ἐν τῷ μέλλοντι.¶"
+pericope: "[[Matt.12.31 The Unpardonable Sin|The Unpardonable Sin]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G3056]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G0863H]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G3756]]"
+- "[[G3777]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G3568]]"
+- "[[G0165G]]"
+- "[[G3195]]"
+texts:
+- NKO
+- N(k)O
+- O
+---
+
 **Matthew 12:32**<big><big>[[Matt.12.31 The Unpardonable Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the [world] to come.
 <small><sub>**BSB:**</sub></small>
 Whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the one to come.
-<small><sub>**Literal:**</sub></small>
-And who[ever] if shall speak a word against the Son <the> of Man, it will be forgiven to him; who[ever] now maybe shall speak against <the> Spirit the Holy, not it will be forgiven to him neither in this <the> present age nor in the [one] coming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.31|<< Matthew 12:31]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.33|Matthew 12:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3739\|ὃς]]  [[G1437\|ἐὰν]]  [[G2036\|εἴπῃ]]  [[G3056\|λόγον]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου,]]  [[G0863H\|ἀφεθήσεται]]  [[G0846\|αὐτῷ·]]  [[G3739\|ὃς]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G2036\|εἴπῃ]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου,]]  [[G3756\|οὐκ]]  [[G0863H\|ἀφεθήσεται]]  [[G0846\|αὐτῷ]]  [[G3777\|οὔτε]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G3588\|τῷ]]  [[G3568\|νῦν]]  [[G0165G\|αἰῶνι]]  [[G3777\|οὔτε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3195\|μέλλοντι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PROBATION|PROBATION]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.31|<< Matthew 12:31]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.33|Matthew 12:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

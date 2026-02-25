@@ -1,10 +1,67 @@
+---
+title: Ephesians 2:15
+type: Verse
+kjv: "Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;"
+bsb: "by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace"
+greek: "τὸν νόμον τῶν ἐντολῶν ἐν δόγμασιν καταργήσας, ἵνα τοὺς δύο κτίσῃ ἐν αὐτῷ εἰς ἕνα καινὸν ἄνθρωπον ποιῶν εἰρήνην,"
+pericope: "[[Eph.2.11 One in Christ|One in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1785]]"
+- "[[G1722]]"
+- "[[G1378]]"
+- "[[G2673]]"
+- "[[G2443]]"
+- "[[G1417]]"
+- "[[G2936]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1520]]"
+- "[[G2537]]"
+- "[[G0444]]"
+- "[[G4160G]]"
+- "[[G1515]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Ephesians 2:15**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having abolished in his flesh the enmity, [even] the law of commandments [contained] in ordinances; for to make in himself of twain one new man, [so] making peace;
 <small><sub>**BSB:**</sub></small>
 by abolishing in His flesh the law of commandments and decrees. He did this to create in Himself one new man out of the two, thus making peace
-<small><sub>**Literal:**</sub></small>
-the law <the> of commandments in ordinances having annulled, so that the two He may create in Him into one new man making peace,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.14|<< Ephesians 2:14]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.16|Ephesians 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G3588\|τῶν]]  [[G1785\|ἐντολῶν]]  [[G1722\|ἐν]]  [[G1378\|δόγμασιν]]  [[G2673\|καταργήσας,]]  [[G2443\|ἵνα]]  [[G3588\|τοὺς]]  [[G1417\|δύο]]  [[G2936\|κτίσῃ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G1519\|εἰς]]  [[G1520\|ἕνα]]  [[G2537\|καινὸν]]  [[G0444\|ἄνθρωπον]]  [[G4160G\|ποιῶν]]  [[G1515\|εἰρήνην,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic ORDINANCE|ORDINANCE]] • [[topic PEACE|PEACE]] • [[topic RECONCILIATION|RECONCILIATION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.14|<< Ephesians 2:14]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.16|Ephesians 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

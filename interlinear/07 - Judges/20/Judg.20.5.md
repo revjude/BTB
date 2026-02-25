@@ -1,8 +1,57 @@
+---
+title: Judges 20:5
+type: Verse
+kjv: "And the men of Gibeah rose against me, and beset the house round about upon me by night, and thought to have slain me: and my concubine have they forced, that she is dead."
+bsb: "And during the night, the men of Gibeah rose up against me and surrounded the house. They intended to kill me, but they abused my concubine, and she died."
+hebrew: "וַיָּקֻ֤מוּ עָלַי֙ בַּעֲלֵ֣י הַגִּבְעָ֔ה וַיָּסֹ֧בּוּ עָלַ֛י אֶת־ הַבַּ֖יִת לָ֑יְלָה אוֹתִי֙ דִּמּ֣וּ לַהֲרֹ֔ג וְאֶת־ פִּילַגְשִׁ֥י עִנּ֖וּ וַתָּמֹֽת׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H1167G]]"
+- "[[H9009]]"
+- "[[H1390H]]"
+- "[[H5437H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H3915]]"
+- "[[H1819]]"
+- "[[H9005]]"
+- "[[H2026]]"
+- "[[H9002]]"
+- "[[H6370]]"
+- "[[H9020]]"
+- "[[H6031B]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:5**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Gibeah rose against me, and beset the house round about upon me by night, [and] thought to have slain me: and my concubine have they forced, that she is dead.
 <small><sub>**BSB:**</sub></small>
 And during the night, the men of Gibeah rose up against me and surrounded the house. They intended to kill me, but they abused my concubine, and she died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקֻ֤מוּ]] [[H5921A\|עָלַ]][[H9030\|י֙]] [[H1167G\|בַּעֲלֵ֣י]] [[H9009\|הַ]][[H1390H\|גִּבְעָ֔ה]] [[H9001\|וַ]][[H5437H\|יָּסֹ֧בּוּ]] [[H5921A\|עָלַ֛]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H3915\|לָ֑יְלָה]] [[H0853\|אוֹתִ]][[H9030\|י֙]] [[H1819\|דִּמּ֣וּ]] [[H9005\|לַ]][[H2026\|הֲרֹ֔ג]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6370\|פִּילַגְשִׁ֥]][[H9020\|י]] [[H6031B\|עִנּ֖וּ]] [[H9001\|וַ]][[H4191\|תָּמֹֽת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.4|<< Judges 20:4]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.6|Judges 20:6 >>]]</td></tr></table>
 

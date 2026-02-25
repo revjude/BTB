@@ -1,8 +1,67 @@
+---
+title: Jeremiah 52:18
+type: Verse
+kjv: "The caldrons also, and the shovels, and the snuffers, and the bowls, and the spoons, and all the vessels of brass wherewith they ministered, took they away."
+bsb: "They also took away the pots, shovels, wick trimmers, sprinkling bowls, dishes, and all the articles of bronze used in the temple service."
+hebrew: "וְאֶת־ הַ֠סִּרוֹת וְאֶת־ הַיָּעִ֨ים וְאֶת־ הַֽמְזַמְּר֜וֹת וְאֶת־ הַמִּזְרָקֹ֣ת וְאֶת־ הַכַּפּ֗וֹת וְאֵ֨ת כָּל־ כְּלֵ֧י הַנְּחֹ֛שֶׁת אֲשֶׁר־ יְשָׁרְת֥וּ בָהֶ֖ם לָקָֽחוּ׃"
+pericope: "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CALDRON|CALDRON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic SHOVEL|SHOVEL]]"
+- "[[topic SNUFFERS|SNUFFERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5518A]]"
+- "[[H3257]]"
+- "[[H4212]]"
+- "[[H4219]]"
+- "[[H3709I]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H5178A]]"
+- "[[H0834A]]"
+- "[[H8334]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3947G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:18**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The caldrons also, and the shovels, and the snuffers, and the bowls, and the spoons, and all the vessels of brass wherewith they ministered, took they away.
 <small><sub>**BSB:**</sub></small>
 They also took away the pots, shovels, wick trimmers, sprinkling bowls, dishes, and all the articles of bronze used in the temple service.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֠]][[H5518A\|סִּרוֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3257\|יָּעִ֨ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H4212\|מְזַמְּר֜וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4219\|מִּזְרָקֹ֣ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3709I\|כַּפּ֗וֹת]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֧י]] [[H9009\|הַ]][[H5178A\|נְּחֹ֛שֶׁת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8334\|יְשָׁרְת֥וּ]] [[H9003\|בָ]][[H9038\|הֶ֖ם]] [[H3947G\|לָקָֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALDRON|CALDRON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic SHOVEL|SHOVEL]] • [[topic SNUFFERS|SNUFFERS]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.17|<< Jeremiah 52:17]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.19|Jeremiah 52:19 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Psalm 79:3
+type: Verse
+kjv: "Their blood have they shed like water round about Jerusalem; and there was none to bury them."
+bsb: "They have poured out their blood like water all around Jerusalem, and there is no one to bury the dead."
+hebrew: "שָׁפְכ֬וּ דָמָ֨ם׀ כַּמַּ֗יִם סְֽבִ֘יב֤וֹת יְֽרוּשָׁלִָ֗ם וְאֵ֣ין קוֹבֵֽר׃"
+pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 79
+book/chapter: "[[Ps.79|Psalm 79]]"
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H8210G]]"
+- "[[H1818]]"
+- "[[H9028]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H5439G]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H6912]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 79:3**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their blood have they shed like water round about Jerusalem; and [there was] none to bury [them].
 <small><sub>**BSB:**</sub></small>
 They have poured out their blood like water all around Jerusalem, and there is no one to bury the dead.
+<small><sub>**Hebrew:**</sub></small>
+[[H8210G\|שָׁפְכ֬וּ]] [[H1818\|דָמָ֨]][[H9028\|ם]][[H9015\|׀]] [[H9004\|כַּ]][[H4325G\|מַּ֗יִם]] [[H5439G\|סְֽבִ֘יב֤וֹת]] [[H3389\|יְֽרוּשָׁלִָ֗ם]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H6912\|קוֹבֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.2|<< Psalms 79:2]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.4|Psalms 79:4 >>]]</td></tr></table>
 

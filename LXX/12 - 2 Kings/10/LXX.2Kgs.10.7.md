@@ -1,6 +1,73 @@
+---
+title: LXX 2 Kings 10:7
+type: Verse
+lxx: "And it came to pass as the scroll came to them, that they took the sons of the king, and they slew them -- seventy men. And they put  their heads in baskets, and they sent to him in Jezreel."
+greek: "και εγένετο ως ήλθε το βιβλίον προς αυτούς και έλαβον τους υιούς του βασιλέως και έσφαξαν αυτούς εβδομήκοντα άνδρας και έθηκαν τας κεφαλάς αυτών εις καρτάλλους και απέστειλαν αυτώ εις Ιεζραήλ"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic BASKET|BASKET]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MASSACRE|MASSACRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G0975]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G4969]]"
+- "[[G1473]]"
+- "[[G1440]]"
+- "[[G0435]]"
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G7809]]"
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[H3157]]"
+---
+
 **LXX 2 Kings 10:7** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as the scroll came to them, that they took the sons of the king, and they slew them -- seventy men. And they put  their heads in baskets, and they sent to him in Jezreel. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G5613\|ως]] [[G2064\|ήλθε]] [[G3588\|το]] [[G0975\|βιβλίον]] [[G4314\|προς]] [[G1473\|αυτούς]] [[G2532\|και]] [[G2983\|έλαβον]] [[G3588\|τους]] [[G5207\|υιούς]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2532\|και]] [[G4969\|έσφαξαν]] [[G1473\|αυτούς]] [[G1440\|εβδομήκοντα]] [[G0435\|άνδρας]] [[G2532\|και]] [[G5087\|έθηκαν]] [[G3588\|τας]] [[G2776\|κεφαλάς]] [[G1473\|αυτών]] [[G1722\|εις]] [[G7809\|καρτάλλους]] [[G2532\|και]] [[G0649\|απέστειλαν]] [[G1473\|αυτώ]] [[G1519\|εις]] [[H3157\|Ιεζραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic BASKET|BASKET]] • [[topic CHILDREN|CHILDREN]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic MASSACRE|MASSACRE]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.6|<< 2 Kings 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.8|2 Kings 10:8 >>]]</td></tr></table>
 
@@ -36,6 +103,6 @@ And it came to pass as the scroll came to them, that they took the sons of the k
 | to him | **<big>[[G1473\|αυτώ]]</big>** |
 | in | **<big>[[G1519\|εις]]</big>** |
 | Jezreel. | **<big>[[H3157\|Ιεζραήλ]]</big>** |
-[[2Kgs.10.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.6|<< 2 Kings 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.8|2 Kings 10:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.6|<< 2 Kings 10:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.8|2 Kings 10:8 >>]]</td></tr></table>
 
 

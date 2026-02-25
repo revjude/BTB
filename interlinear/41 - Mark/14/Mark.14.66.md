@@ -1,10 +1,56 @@
+---
+title: Mark 14:66
+type: Verse
+kjv: "And as Peter was beneath in the palace, there cometh one of the maids of the high priest:"
+bsb: "While Peter was in the courtyard below, one of the servant girls of the high priest came down"
+greek: "Καὶ ὄντος τοῦ Πέτρου κάτω ἐν τῇ αὐλῇ ἔρχεται μία τῶν παιδισκῶν τοῦ ἀρχιερέως."
+pericope: "[[Mark.14.66 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2736]]"
+- "[[G1722]]"
+- "[[G0833]]"
+- "[[G2064]]"
+- "[[G1520]]"
+- "[[G3814]]"
+- "[[G0749]]"
+texts:
+- NKO
+---
+
 **Mark 14:66**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as Peter was beneath in the palace, there cometh one of the maids of the high priest:
 <small><sub>**BSB:**</sub></small>
 While Peter was in the courtyard below, one of the servant girls of the high priest came down
-<small><sub>**Literal:**</sub></small>
-And when is being <the> Peter below in the courtyard comes one of the servant girls of the high priest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.65|<< Mark 14:65]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.67|Mark 14:67 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1510\|ὄντος]]  [[G3588\|τοῦ]]  [[G4074G\|Πέτρου]]  [[G2736\|κάτω]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0833\|αὐλῇ]]  [[G2064\|ἔρχεται]]  [[G1520\|μία]]  [[G3588\|τῶν]]  [[G3814\|παιδισκῶν]]  [[G3588\|τοῦ]]  [[G0749\|ἀρχιερέως.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.65|<< Mark 14:65]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.67|Mark 14:67 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

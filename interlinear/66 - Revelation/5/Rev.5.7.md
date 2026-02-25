@@ -1,10 +1,54 @@
+---
+title: Revelation 5:7
+type: Verse
+kjv: "And he came and took the book out of the right hand of him that sat upon the throne."
+bsb: "And He came and took the scroll from the right hand of the One seated on the throne."
+greek: "καὶ ἦλθεν καὶ εἴληφεν τὸ βιβλίον ἐκ τῆς δεξιᾶς τοῦ καθημένου ἐπὶ τοῦ θρόνου."
+pericope: "[[Rev.5.1 The Lamb Takes the Scroll|The Lamb Takes the Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 5
+book/chapter: "[[Rev.5|Revelation 5]]"
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G0975]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G2362]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 5:7**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he came and took the book out of the right hand of him that sat upon the throne.
 <small><sub>**BSB:**</sub></small>
 And He came and took the scroll from the right hand of the One seated on the throne.
-<small><sub>**Literal:**</sub></small>
-And He came and He has taken <the> scroll out of the right hand of the [One] sitting on the throne.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.6|<< Revelation 5:6]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.8|Revelation 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G2532\|καὶ]]  [[G2983\|εἴληφεν]]  [[G3588\|τὸ]]  [[G0975\|βιβλίον]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1188\|δεξιᾶς]]  [[G3588\|τοῦ]]  [[G2521\|καθημένου]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANIMALS|ANIMALS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.6|<< Revelation 5:6]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.8|Revelation 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 30:14
+type: Verse
+kjv: "We made an invasion upon the south of the Cherethites, and upon the coast which belongeth to Judah, and upon the south of Caleb; and we burned Ziklag with fire."
+bsb: "We raided the Negev of the Cherethites, the territory of Judah, and the Negev of Caleb, and we burned down Ziklag.”"
+hebrew: "אֲנַ֡חְנוּ פָּשַׁ֜טְנוּ נֶ֧גֶב הַכְּרֵתִ֛י וְעַל־ אֲשֶׁ֥ר לִֽיהוּדָ֖ה וְעַל־ נֶ֣גֶב כָּלֵ֑ב וְאֶת־ צִקְלַ֖ג שָׂרַ֥פְנוּ בָאֵֽשׁ׃"
+pericope: "[[1Sam.30.7 David Destroys the Amalekites|David Destroys the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHERETHITES|CHERETHITES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H0587]]"
+- "[[H6584]]"
+- "[[H5045G]]"
+- "[[H9009]]"
+- "[[H3774G]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H3612G]]"
+- "[[H0853]]"
+- "[[H6860]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:14**<big><big>[[1Sam.30.7 David Destroys the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We made an invasion [upon] the south of the Cherethites, and upon [the coast] which [belongeth] to Judah, and upon the south of Caleb; and we burned Ziklag with fire.
 <small><sub>**BSB:**</sub></small>
 We raided the Negev of the Cherethites, the territory of Judah, and the Negev of Caleb, and we burned down Ziklag.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0587\|אֲנַ֡חְנוּ]] [[H6584\|פָּשַׁ֜טְנוּ]] [[H5045G\|נֶ֧גֶב]] [[H9009\|הַ]][[H3774G\|כְּרֵתִ֛י]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לִֽ]][[H3063G\|יהוּדָ֖ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H5045G\|נֶ֣גֶב]] [[H3612G\|כָּלֵ֑ב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6860\|צִקְלַ֖ג]] [[H8313\|שָׂרַ֥פְנוּ]] [[H9003\|בָ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CHERETHITES|CHERETHITES]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.13|<< 1 Samuel 30:13]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.15|1 Samuel 30:15 >>]]</td></tr></table>
 

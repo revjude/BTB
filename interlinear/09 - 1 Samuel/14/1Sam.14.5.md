@@ -1,8 +1,53 @@
+---
+title: 1 Samuel 14:5
+type: Verse
+kjv: "The forefront of the one was situate northward over against Michmash, and the other southward over against Gibeah."
+bsb: "One cliff stood to the north toward Michmash, and the other to the south toward Geba."
+hebrew: "הַשֵּׁ֧ן הָאֶחָ֛ד מָצ֥וּק מִצָּפ֖וֹן מ֣וּל מִכְמָ֑שׂ וְהָאֶחָ֥ד מִנֶּ֖גֶב מ֥וּל גָּֽבַע׃ ס"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9009]]"
+- "[[H8127I]]"
+- "[[H0259]]"
+- "[[H4690]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H4136]]"
+- "[[H4363]]"
+- "[[H9002]]"
+- "[[H5045H]]"
+- "[[H1387G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 14:5**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The forefront of the one [was] situate northward over against Michmash, and the other southward over against Gibeah.
 <small><sub>**BSB:**</sub></small>
 One cliff stood to the north toward Michmash, and the other to the south toward Geba.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H8127I\|שֵּׁ֧ן]] [[H9009\|הָ]][[H0259\|אֶחָ֛ד]] [[H4690\|מָצ֥וּק]] [[H9006\|מִ]][[H6828G\|צָּפ֖וֹן]] [[H4136\|מ֣וּל]] [[H4363\|מִכְמָ֑שׂ]] [[H9002\|וְ]][[H9009\|הָ]][[H0259\|אֶחָ֥ד]] [[H9006\|מִ]][[H5045H\|נֶּ֖גֶב]] [[H4136\|מ֥וּל]] [[H1387G\|גָּֽבַע]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.4|<< 1 Samuel 14:4]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.6|1 Samuel 14:6 >>]]</td></tr></table>
 
@@ -17,7 +62,7 @@ One cliff stood to the north toward Michmash, and the other to the south toward 
 | and the one [tooth]  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0259\|אֶחָ֥ד]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> 'e.Chad<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] from [the] south  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5045H\|נֶּ֖גֶב]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Ne.gev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | opposite to  |**<big>&#8207;[[H4136\|מ֥וּל]]&#8207; </big>**| mul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Geba  |**<big>&#8207;[[H1387G\|גָּֽבַע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ga.va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Geba  |**<big>&#8207;[[H1387G\|גָּֽבַע]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ga.va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.4|<< 1 Samuel 14:4]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.6|1 Samuel 14:6 >>]]</td></tr></table>
 
 

@@ -1,10 +1,71 @@
+---
+title: Revelation 3:8
+type: Verse
+kjv: "I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name."
+bsb: "I know your deeds. Behold, I have placed before you an open door, which no one can shut. I know that you have only a little strength, yet you have kept My word and have not denied My name."
+jesus_said: "I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name."
+greek: "οἶδά σου τὰ ἔργα. ἰδοὺ δέδωκα ἐνώπιόν σου θύραν ἠνεῳγμένην ἣν οὐδεὶς δύναται κλεῖσαι αὐτήν· ὅτι μικρὰν ἔχεις δύναμιν καὶ ἐτήρησάς μου τὸν λόγον καὶ οὐκ ἠρνήσω τὸ ὄνομά μου."
+pericope: "[[Rev.3.7 To the Church in Philadelphia|To the Church in Philadelphia]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DOOR|DOOR]]"
+- "[[topic PHILADELPHIA|PHILADELPHIA]]"
+strongs:
+- "[[G6063]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G2400]]"
+- "[[G1325]]"
+- "[[G1799]]"
+- "[[G2374]]"
+- "[[G0455]]"
+- "[[G3739]]"
+- "[[G3762]]"
+- "[[G1410]]"
+- "[[G2808]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3398]]"
+- "[[G2192]]"
+- "[[G1411]]"
+- "[[G2532]]"
+- "[[G5083G]]"
+- "[[G3165]]"
+- "[[G3056]]"
+- "[[G3756]]"
+- "[[G0720]]"
+- "[[G3686]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Revelation 3:8**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I know thy works: behold, I have set before thee an open door, and no man can shut it: for thou hast a little strength, and hast kept my word, and hast not denied my name.
 <small><sub>**BSB:**</sub></small>
 I know your deeds. Behold, I have placed before you an open door, which no one can shut. I know that you have only a little strength, yet you have kept My word and have not denied My name.
-<small><sub>**Literal:**</sub></small>
-I know your <the> deeds. Behold I have set before you a door opened which no [one] is able to shut it; because little you have power and yet you have kept My <the> word and not denied the name of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.7|<< Revelation 3:7]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.9|Revelation 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδά]]  [[G4771\|σου]]  [[G3588\|τὰ]]  [[G2041\|ἔργα.]]  [[G2400\|ἰδοὺ]]  [[G1325\|δέδωκα]]  [[G1799\|ἐνώπιόν]]  [[G4771\|σου]]  [[G2374\|θύραν]]  [[G0455\|ἠνεῳγμένην]]  [[G3739\|ἣν]]  [[G3762\|οὐδεὶς]]  [[G1410\|δύναται]]  [[G2808\|κλεῖσαι]]  [[G0846\|αὐτήν·]]  [[G3754H\|ὅτι]]  [[G3398\|μικρὰν]]  [[G2192\|ἔχεις]]  [[G1411\|δύναμιν]]  [[G2532\|καὶ]]  [[G5083G\|ἐτήρησάς]]  [[G3165\|μου]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0720\|ἠρνήσω]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DECISION|DECISION]] • [[topic DOOR|DOOR]] • [[topic PHILADELPHIA|PHILADELPHIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.7|<< Revelation 3:7]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.9|Revelation 3:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: 2 Peter 1:14
+type: Verse
+kjv: "Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me."
+bsb: "because I know that this tent will soon be laid aside, as our Lord Jesus Christ has made clear to me."
+greek: "εἰδὼς ὅτι ταχινή ἐστιν ἡ ἀπόθεσις τοῦ σκηνώματός μου, καθὼς καὶ ὁ κύριος ἡμῶν Ἰησοῦς Χριστὸς ἐδήλωσέν μοι."
+pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G5031]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0595]]"
+- "[[G4638]]"
+- "[[G3165]]"
+- "[[G2531]]"
+- "[[G2532]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1213]]"
+texts:
+- NKO
+---
+
 **2 Peter 1:14**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Knowing that shortly I must put off [this] my tabernacle, even as our Lord Jesus Christ hath shewed me.
 <small><sub>**BSB:**</sub></small>
 because I know that this tent will soon be laid aside, as our Lord Jesus Christ has made clear to me.
-<small><sub>**Literal:**</sub></small>
-knowing that imminent is the putting off of the tabernacle of mine, even as also the Lord of us Jesus Christ has made clear to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.13|<< 2 Peter 1:13]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.15|2 Peter 1:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|εἰδὼς]]  [[G3754G\|ὅτι]]  [[G5031\|ταχινή]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G0595\|ἀπόθεσις]]  [[G3588\|τοῦ]]  [[G4638\|σκηνώματός]]  [[G3165\|μου,]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦς]]  [[G5547\|Χριστὸς]]  [[G1213\|ἐδήλωσέν]]  [[G3165\|μοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.13|<< 2 Peter 1:13]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.15|2 Peter 1:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

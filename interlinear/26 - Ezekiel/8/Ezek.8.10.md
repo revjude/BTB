@@ -1,8 +1,66 @@
+---
+title: Ezekiel 8:10
+type: Verse
+kjv: "So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about."
+bsb: "So I went in and looked, and engraved all around the wall was every kind of crawling creature and detestable beast, along with all the idols of the house of Israel."
+hebrew: "וָאָבוֹא֮ וָֽאֶרְאֶה֒ וְהִנֵּ֨ה כָל־ תַּבְנִ֜ית רֶ֤מֶשׂ וּבְהֵמָה֙ שֶׁ֔קֶץ וְכָל־ גִּלּוּלֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל מְחֻקֶּ֥ה עַל־ הַקִּ֖יר סָבִ֥יב׀ סָבִֽיב׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8403]]"
+- "[[H7431]]"
+- "[[H0929]]"
+- "[[H8263]]"
+- "[[H1544]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H2707]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H7023]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:10**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about.
 <small><sub>**BSB:**</sub></small>
 So I went in and looked, and engraved all around the wall was every kind of crawling creature and detestable beast, along with all the idols of the house of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0935G\|אָבוֹא֮]] [[H9001\|וָֽ]][[H7200G\|אֶרְאֶה֒]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H3605\|כָל]][[H9014\|־]] [[H8403\|תַּבְנִ֜ית]] [[H7431\|רֶ֤מֶשׂ]] [[H9002\|וּ]][[H0929\|בְהֵמָה֙]] [[H8263\|שֶׁ֔קֶץ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1544\|גִּלּוּלֵ֖י]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H2707\|מְחֻקֶּ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7023\|קִּ֖יר]] [[H5439G\|סָבִ֥יב]][[H9015\|׀]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREEPING THINGS|CREEPING THINGS]] • [[topic HOUSE|HOUSE]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.9|<< Ezekiel 8:9]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.11|Ezekiel 8:11 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribes East of the Jordan
+type: Pericope
 pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
-verse_count: 42
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 32
 book/chapter: "[[Num.32|Numbers 32]]"
-genre:
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 42
 verses:
 - "[[Num.32.1]]"
 - "[[Num.32.2]]"
@@ -64,7 +71,7 @@ verses:
 - "[[Num.32.42]]"
 ---
 
-[[Num.32|Numbers 32:1 - Numbers 32:42]]
+<small>[[Num.32|Numbers 32:1-42]]</small>
 *The Tribes East of the Jordan*
 
 [[Num.32.1|1]] Now the children of Reuben and the children of Gad had a very great multitude of cattle: and when they saw the land of Jazer, and the land of Gilead, that, behold, the place \[was\] a place for cattle;

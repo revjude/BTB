@@ -1,8 +1,79 @@
+---
+title: 2 Kings 5:22
+type: Verse
+kjv: "And he said, All is well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments."
+bsb: "“Everything is all right,” Gehazi replied. “My master has sent me to say, ‘Look, two young men from the sons of the prophets have just now come to me from the hill country of Ephraim. Please give them a talent of silver and two sets of clothing.’”"
+hebrew: "וַיֹּ֣אמֶר׀ שָׁל֗וֹם אֲדֹנִי֮ שְׁלָחַ֣נִי לֵאמֹר֒ הִנֵּ֣ה עַתָּ֡ה זֶ֠ה בָּ֣אוּ אֵלַ֧י שְׁנֵֽי־ נְעָרִ֛ים מֵהַ֥ר אֶפְרַ֖יִם מִבְּנֵ֣י הַנְּבִיאִ֑ים תְּנָה־ נָּ֤א לָהֶם֙ כִּכַּר־ כֶּ֔סֶף וּשְׁתֵּ֖י חֲלִפ֥וֹת בְּגָדִֽים׃"
+pericope: "[[2Kgs.5.15 Gehazi’s Greed and Leprosy|Gehazi’s Greed and Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GEHAZI|GEHAZI]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H7965I]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H2009]]"
+- "[[H6258]]"
+- "[[H2088]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H9006]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H4994]]"
+- "[[H9038]]"
+- "[[H3603H]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2487]]"
+- "[[H0899B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:22**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, All [is] well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments.
 <small><sub>**BSB:**</sub></small>
 “Everything is all right,” Gehazi replied. “My master has sent me to say, ‘Look, two young men from the sons of the prophets have just now come to me from the hill country of Ephraim. Please give them a talent of silver and two sets of clothing.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]][[H9015\|׀]] [[H7965I\|שָׁל֗וֹם]] [[H0113\|אֲדֹנִ]][[H9020\|י֮]] [[H7971G\|שְׁלָחַ֣]][[H9030\|נִי]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H2009\|הִנֵּ֣ה]] [[H6258\|עַתָּ֡ה]] [[H2088\|זֶ֠ה]] [[H0935G\|בָּ֣אוּ]] [[H0413\|אֵלַ֧]][[H9030\|י]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H5288\|נְעָרִ֛ים]] [[H9006\|מֵ]][[H2022H\|הַ֥ר]] [[H0669G\|אֶפְרַ֖יִם]] [[H9006\|מִ]][[H1121A\|בְּנֵ֣י]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֑ים]] [[H5414G\|תְּנָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֤א]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3603H\|כִּכַּר]][[H9014\|־]] [[H3701G\|כֶּ֔סֶף]] [[H9002\|וּ]][[H8147\|שְׁתֵּ֖י]] [[H2487\|חֲלִפ֥וֹת]] [[H0899B\|בְּגָדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GEHAZI|GEHAZI]] • [[topic JORAM|JORAM]] • [[topic NAAMAN|NAAMAN]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.21|<< 2 Kings 5:21]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.23|2 Kings 5:23 >>]]</td></tr></table>
 

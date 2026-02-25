@@ -1,8 +1,75 @@
+---
+title: Joshua 14:9
+type: Verse
+kjv: "And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children’s for ever, because thou hast wholly followed the LORD my God."
+bsb: "On that day Moses swore to me, saying, ‘Surely the land on which you have set foot will be an inheritance to you and your children forever, because you have wholly followed the LORD my God.’"
+hebrew: "וַיִּשָּׁבַ֣ע מֹשֶׁ֗ה בַּיּ֣וֹם הַהוּא֮ לֵאמֹר֒ אִם־ לֹ֗א הָאָ֙רֶץ֙ אֲשֶׁ֨ר דָּרְכָ֤ה רַגְלְךָ֙ בָּ֔הּ לְךָ֨ תִֽהְיֶ֧ה לְנַחֲלָ֛ה וּלְבָנֶ֖יךָ עַד־ עוֹלָ֑ם כִּ֣י מִלֵּ֔אתָ אַחֲרֵ֖י יְהוָ֥ה אֱלֹהָֽי׃"
+pericope: "[[Josh.14.6 Caleb Requests Hebron|Caleb Requests Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic OATH|OATH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7650]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H1869]]"
+- "[[H7272]]"
+- "[[H9021]]"
+- "[[H9034]]"
+- "[[H9031]]"
+- "[[H1961]]"
+- "[[H5159]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H3588A]]"
+- "[[H4390]]"
+- "[[H0310A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 14:9**<big><big>[[Josh.14.6 Caleb Requests Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children’s for ever, because thou hast wholly followed the LORD my God.
 <small><sub>**BSB:**</sub></small>
 On that day Moses swore to me, saying, ‘Surely the land on which you have set foot will be an inheritance to you and your children forever, because you have wholly followed the LORD my God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7650\|יִּשָּׁבַ֣ע]] [[H4872\|מֹשֶׁ֗ה]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|הוּא֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֗א]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H1869\|דָּרְכָ֤ה]] [[H7272\|רַגְלְ]][[H9021\|ךָ֙]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H9005\|לְ]][[H9031\|ךָ֨]] [[H1961\|תִֽהְיֶ֧ה]] [[H9005\|לְ]][[H5159\|נַחֲלָ֛ה]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנֶ֖י]][[H9021\|ךָ]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֑ם]] [[H3588A\|כִּ֣י]] [[H4390\|מִלֵּ֔אתָ]] [[H0310A\|אַחֲרֵ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic HEBRON|HEBRON]] • [[topic OATH|OATH]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.8|<< Joshua 14:8]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.10|Joshua 14:10 >>]]</td></tr></table>
 

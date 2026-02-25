@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals Bartimaeus
+type: Pericope
 pericope: "[[Mark.10.46 Jesus Heals Bartimaeus|Jesus Heals Bartimaeus]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Mark
 chapter: 10
 book/chapter: "[[Mark.10|Mark 10]]"
-genre:
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Mark.10.46]]"
 - "[[Mark.10.47]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mark.10.52]]"
 ---
 
-[[Mark.10|Mark 10:46 - Mark 10:52]]
+<small>[[Mark.10|Mark 10:46-52]]</small>
 *Jesus Heals Bartimaeus*
 
 [[Mark.10.46|46]] And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging.

@@ -1,8 +1,72 @@
+---
+title: Jeremiah 16:4
+type: Verse
+kjv: "They shall die of grievous deaths; they shall not be lamented; neither shall they be buried; but they shall be as dung upon the face of the earth: and they shall be consumed by the sword, and by famine; and their carcases shall be meat for the fowls of heaven, and for the beasts of the earth."
+bsb: "“They will die from deadly diseases. They will not be mourned or buried, but will lie like dung on the ground. They will be finished off by sword and famine, and their corpses will become food for the birds of the air and beasts of the earth.”"
+hebrew: "מְמוֹתֵ֨י תַחֲלֻאִ֜ים יָמֻ֗תוּ לֹ֤א יִסָּֽפְדוּ֙ וְלֹ֣א יִקָּבֵ֔רוּ לְדֹ֛מֶן עַל־ פְּנֵ֥י הָאֲדָמָ֖ה יִֽהְי֑וּ וּבַחֶ֤רֶב וּבָֽרָעָב֙ יִכְל֔וּ וְהָיְתָ֤ה נִבְלָתָם֙ לְמַאֲכָ֔ל לְע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֥ת הָאָֽרֶץ׃ ס"
+pericope: "[[Jer.16.1 Disaster Predicted|Disaster Predicted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H4463]]"
+- "[[H8463]]"
+- "[[H4191]]"
+- "[[H3808]]"
+- "[[H5594]]"
+- "[[H9002]]"
+- "[[H6912]]"
+- "[[H9005]]"
+- "[[H1828]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H3615H]]"
+- "[[H9001]]"
+- "[[H5038]]"
+- "[[H9028]]"
+- "[[H3978]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H0929]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 16:4**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall die of grievous deaths; they shall not be lamented; neither shall they be buried; [but] they shall be as dung upon the face of the earth: and they shall be consumed by the sword, and by famine; and their carcases shall be meat for the fowls of heaven, and for the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
 “They will die from deadly diseases. They will not be mourned or buried, but will lie like dung on the ground. They will be finished off by sword and famine, and their corpses will become food for the birds of the air and beasts of the earth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4463\|מְמוֹתֵ֨י]] [[H8463\|תַחֲלֻאִ֜ים]] [[H4191\|יָמֻ֗תוּ]] [[H3808\|לֹ֤א]] [[H5594\|יִסָּֽפְדוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6912\|יִקָּבֵ֔רוּ]] [[H9005\|לְ]][[H1828\|דֹ֛מֶן]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֖ה]] [[H1961\|יִֽהְי֑וּ]] [[H9002\|וּ]][[H9003\|בַ]][[H2719\|חֶ֤רֶב]] [[H9002\|וּ]][[H9003\|בָֽ]][[H7458\|רָעָב֙]] [[H3615H\|יִכְל֔וּ]] [[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H5038\|נִבְלָתָ]][[H9028\|ם֙]] [[H9005\|לְ]][[H3978\|מַאֲכָ֔ל]] [[H9005\|לְ]][[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H0929\|בֶהֱמַ֥ת]] [[H9009\|הָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.3|<< Jeremiah 16:3]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.5|Jeremiah 16:5 >>]]</td></tr></table>
 
@@ -29,7 +93,7 @@ They shall die of grievous deaths; they shall not be lamented; neither shall the
 | for [the] bird[s] of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5775\|ע֥וֹף]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'of<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֖יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and for [the] animal[s] of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0929\|בֶהֱמַ֥ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ve.he.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776H\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776H\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.3|<< Jeremiah 16:3]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.5|Jeremiah 16:5 >>]]</td></tr></table>
 
 

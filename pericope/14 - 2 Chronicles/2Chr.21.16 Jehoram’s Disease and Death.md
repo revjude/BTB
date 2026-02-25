@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoram’s Disease and Death
+type: Pericope
 pericope: "[[2Chr.21.16 Jehoram’s Disease and Death|Jehoram’s Disease and Death]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 21
 book/chapter: "[[2Chr.21|2 Chronicles 21]]"
-genre:
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 5
 verses:
 - "[[2Chr.21.16]]"
 - "[[2Chr.21.17]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Chr.21.20]]"
 ---
 
-[[2Chr.21|2 Chronicles 21:16 - 2 Chronicles 21:20]]
+<small>[[2Chr.21|2 Chronicles 21:16-20]]</small>
 *Jehoram’s Disease and Death*
 
 [[2Chr.21.16|16]] Moreover the LORD stirred up against Jehoram the spirit of the Philistines, and of the Arabians, that \[were\] near the Ethiopians:

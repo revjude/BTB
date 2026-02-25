@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 5:29
+type: Verse
+kjv: "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!"
+bsb: "If only they had such a heart to fear Me and keep all My commandments always, so that it might be well with them and with their children forever."
+hebrew: "מִֽי־ יִתֵּ֡ן וְהָיָה֩ לְבָבָ֨ם זֶ֜ה לָהֶ֗ם לְיִרְאָ֥ה אֹתִ֛י וְלִשְׁמֹ֥ר אֶת־ כָּל־ מִצְוֹתַ֖י כָּל־ הַיָּמִ֑ים לְמַ֨עַן יִיטַ֥ב לָהֶ֛ם וְלִבְנֵיהֶ֖ם לְעֹלָֽם׃"
+pericope: "[[Deut.5.22 Moses Intercedes for the People|Moses Intercedes for the People]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5414Q]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3824]]"
+- "[[H9028]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H8104G]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H3117K]]"
+- "[[H4616]]"
+- "[[H3190]]"
+- "[[H1121G]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 5:29**<big><big>[[Deut.5.22 Moses Intercedes for the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!
 <small><sub>**BSB:**</sub></small>
 If only they had such a heart to fear Me and keep all My commandments always, so that it might be well with them and with their children forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5414Q\|יִתֵּ֡ן]] [[H9001\|וְ]][[H1961\|הָיָה֩]] [[H3824\|לְבָבָ֨]][[H9028\|ם]] [[H2088\|זֶ֜ה]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H9005\|לְ]][[H3372H\|יִרְאָ֥ה]] [[H0853\|אֹתִ֛]][[H9030\|י]] [[H9002\|וְ]][[H9005\|לִ]][[H8104G\|שְׁמֹ֥ר]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹתַ֖]][[H9020\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִ֑ים]] [[H4616\|לְמַ֨עַן]] [[H3190\|יִיטַ֥ב]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H5769G\|עֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PENITENT|PENITENT]] • [[topic REVERENCE|REVERENCE]] • [[topic THEOCRACY|THEOCRACY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WILL|WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.28|<< Deuteronomy 5:28]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.30|Deuteronomy 5:30 >>]]</td></tr></table>
 

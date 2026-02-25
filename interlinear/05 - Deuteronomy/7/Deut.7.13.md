@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 7:13
+type: Verse
+kjv: "And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee."
+bsb: "He will love you and bless you and multiply you. He will bless the fruit of your womb and the produce of your land—your grain, new wine, and oil, the young of your herds and the lambs of your flocks—in the land that He swore to your fathers to give you."
+hebrew: "וַאֲהֵ֣בְךָ֔ וּבֵרַכְךָ֖ וְהִרְבֶּ֑ךָ וּבֵרַ֣ךְ פְּרִֽי־ בִטְנְךָ֣ וּפְרִֽי־ אַ֠דְמָתֶךָ דְּגָ֨נְךָ֜ וְתִֽירֹשְׁךָ֣ וְיִצְהָרֶ֗ךָ שְׁגַר־ אֲלָפֶ֙יךָ֙ וְעַשְׁתְּרֹ֣ת צֹאנֶ֔ךָ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר־ נִשְׁבַּ֥ע לַאֲבֹתֶ֖יךָ לָ֥תֶת לָֽךְ׃"
+pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0157G]]"
+- "[[H9031]]"
+- "[[H1288]]"
+- "[[H7235A]]"
+- "[[H6529]]"
+- "[[H9014]]"
+- "[[H0990H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0127G]]"
+- "[[H1715]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H7698]]"
+- "[[H0504]]"
+- "[[H6251]]"
+- "[[H6629G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:13**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee.
 <small><sub>**BSB:**</sub></small>
 He will love you and bless you and multiply you. He will bless the fruit of your womb and the produce of your land—your grain, new wine, and oil, the young of your herds and the lambs of your flocks—in the land that He swore to your fathers to give you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0157G\|אֲהֵ֣בְ]][[H9031\|ךָ֔]] [[H9001\|וּ]][[H1288\|בֵרַכְ]][[H9031\|ךָ֖]] [[H9001\|וְ]][[H7235A\|הִרְבֶּ֑]][[H9031\|ךָ]] [[H9001\|וּ]][[H1288\|בֵרַ֣ךְ]] [[H6529\|פְּרִֽי]][[H9014\|־]] [[H0990H\|בִטְנְ]][[H9021\|ךָ֣]] [[H9002\|וּ]][[H6529\|פְרִֽי]][[H9014\|־]] [[H0127G\|אַ֠דְמָתֶ]][[H9021\|ךָ]] [[H1715\|דְּגָ֨נְ]][[H9021\|ךָ֜]] [[H9002\|וְ]][[H8492\|תִֽירֹשְׁ]][[H9021\|ךָ֣]] [[H9002\|וְ]][[H3323\|יִצְהָרֶ֗]][[H9021\|ךָ]] [[H7698\|שְׁגַר]][[H9014\|־]] [[H0504\|אֲלָפֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H6251\|עַשְׁתְּרֹ֣ת]] [[H6629G\|צֹאנֶ֔]][[H9021\|ךָ]] [[H5921A\|עַ֚ל]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֥ע]] [[H9005\|לַ]][[H0001G\|אֲבֹתֶ֖י]][[H9021\|ךָ]] [[H9005\|לָ֥]][[H5414G\|תֶת]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.12|<< Deuteronomy 7:12]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.14|Deuteronomy 7:14 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Psalm 73:17
+type: Verse
+kjv: "Until I went into the sanctuary of God; then understood I their end."
+bsb: "until I entered God’s sanctuary; then I discerned their end."
+hebrew: "עַד־ אָ֭בוֹא אֶל־ מִקְדְּשֵׁי־ אֵ֑ל אָ֝בִ֗ינָה לְאַחֲרִיתָֽם׃"
+pericope: "[[Ps.73.1 Surely God Is Good to Israel|Surely God Is Good to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 73
+book/chapter: "[[Ps.73|Psalm 73]]"
+chronological_order: 506
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4720]]"
+- "[[H0410G]]"
+- "[[H0995]]"
+- "[[H9005]]"
+- "[[H0319]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 73:17**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until I went into the sanctuary of God; [then] understood I their end.
 <small><sub>**BSB:**</sub></small>
 until I entered God’s sanctuary; then I discerned their end.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H0935G\|אָ֭בוֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H4720\|מִקְדְּשֵׁי]][[H9014\|־]] [[H0410G\|אֵ֑ל]] [[H0995\|אָ֝בִ֗ינָה]] [[H9005\|לְ]][[H0319\|אַחֲרִיתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic DEATH|DEATH]] • [[topic DOUBTING|DOUBTING]] • [[topic ENVY|ENVY]] • [[topic GOD|GOD]] • [[topic HAPPINESS|HAPPINESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MEDITATION|MEDITATION]] • [[topic MURMURING|MURMURING]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.16|<< Psalms 73:16]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.18|Psalms 73:18 >>]]</td></tr></table>
 

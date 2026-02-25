@@ -1,8 +1,52 @@
+---
+title: Ecclesiastes 7:8
+type: Verse
+kjv: "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit."
+bsb: "The end of a matter is better than the beginning, and a patient spirit is better than a proud one."
+hebrew: "ט֛וֹב אַחֲרִ֥ית דָּבָ֖ר מֵֽרֵאשִׁית֑וֹ ט֥וֹב אֶֽרֶךְ־ ר֖וּחַ מִגְּבַהּ־ רֽוּחַ׃"
+pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+strongs:
+- "[[H2896A]]"
+- "[[H0319]]"
+- "[[H1697I]]"
+- "[[H9006]]"
+- "[[H7225G]]"
+- "[[H9023]]"
+- "[[H0750]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H1364]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:8**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] the end of a thing than the beginning thereof: [and] the patient in spirit [is] better than the proud in spirit.
 <small><sub>**BSB:**</sub></small>
 The end of a matter is better than the beginning, and a patient spirit is better than a proud one.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֛וֹב]] [[H0319\|אַחֲרִ֥ית]] [[H1697I\|דָּבָ֖ר]] [[H9006\|מֵֽ]][[H7225G\|רֵאשִׁית֑]][[H9023\|וֹ]] [[H2896A\|ט֥וֹב]] [[H0750\|אֶֽרֶךְ]][[H9014\|־]] [[H7307G\|ר֖וּחַ]] [[H9006\|מִ]][[H1364\|גְּבַהּ]][[H9014\|־]] [[H7307G\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.7|<< Ecclesiastes 7:7]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.9|Ecclesiastes 7:9 >>]]</td></tr></table>
 

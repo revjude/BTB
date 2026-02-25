@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 35:2
+type: Verse
+kjv: "And he set the priests in their charges, and encouraged them to the service of the house of the LORD,"
+bsb: "He appointed the priests to their duties and encouraged them in the service of the house of the LORD."
+hebrew: "וַיַּעֲמֵ֥ד הַכֹּהֲנִ֖ים עַל־ מִשְׁמְרוֹתָ֑ם וַֽיְחַזְּקֵ֔ם לַעֲבוֹדַ֖ת בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975H]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4931]]"
+- "[[H9028]]"
+- "[[H2388G]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H5656H]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:2**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set the priests in their charges, and encouraged them to the service of the house of the LORD,
 <small><sub>**BSB:**</sub></small>
 He appointed the priests to their duties and encouraged them in the service of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975H\|יַּעֲמֵ֥ד]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H4931\|מִשְׁמְרוֹתָ֑]][[H9028\|ם]] [[H9001\|וַֽ]][[H2388G\|יְחַזְּקֵ֔]][[H9038\|ם]] [[H9005\|לַ]][[H5656H\|עֲבוֹדַ֖ת]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.1|<< 2 Chronicles 35:1]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.3|2 Chronicles 35:3 >>]]</td></tr></table>
 

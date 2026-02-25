@@ -1,8 +1,63 @@
+---
+title: Judges 20:40
+type: Verse
+kjv: "But when the flame began to arise up out of the city with a pillar of smoke, the Benjamites looked behind them, and, behold, the flame of the city ascended up to heaven."
+bsb: "But when the column of smoke began to go up from the city, the Benjamites looked behind them and saw the whole city going up in smoke."
+hebrew: "וְהַמַּשְׂאֵ֗ת הֵחֵ֛לָּה לַעֲל֥וֹת מִן־ הָעִ֖יר עַמּ֣וּד עָשָׁ֑ן וַיִּ֤פֶן בִּנְיָמִן֙ אַחֲרָ֔יו וְהִנֵּ֛ה עָלָ֥ה כְלִיל־ הָעִ֖יר הַשָּׁמָֽיְמָה׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4864]]"
+- "[[H2490C]]"
+- "[[H9005]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H5982G]]"
+- "[[H6227]]"
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H1144G]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H3632]]"
+- "[[H8064]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:40**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when the flame began to arise up out of the city with a pillar of smoke, the Benjamites looked behind them, and, behold, the flame of the city ascended up to heaven.
 <small><sub>**BSB:**</sub></small>
 But when the column of smoke began to go up from the city, the Benjamites looked behind them and saw the whole city going up in smoke.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4864\|מַּשְׂאֵ֗ת]] [[H2490C\|הֵחֵ֛לָּה]] [[H9005\|לַ]][[H5927G\|עֲל֥וֹת]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H5982G\|עַמּ֣וּד]] [[H6227\|עָשָׁ֑ן]] [[H9001\|וַ]][[H6437G\|יִּ֤פֶן]] [[H1144G\|בִּנְיָמִן֙]] [[H0310A\|אַחֲרָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H5927G\|עָלָ֥ה]] [[H3632\|כְלִיל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיְמָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.39|<< Judges 20:39]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.41|Judges 20:41 >>]]</td></tr></table>
 

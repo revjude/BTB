@@ -1,8 +1,60 @@
+---
+title: Nehemiah 7:67
+type: Verse
+kjv: "Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women."
+bsb: "in addition to their 7,337 menservants and maidservants, as well as their 245 male and female singers."
+hebrew: "מִ֠לְּבַד עַבְדֵיהֶ֤ם וְאַמְהֹֽתֵיהֶם֙ אֵ֔לֶּה שִׁבְעַ֣ת אֲלָפִ֔ים שְׁלֹ֥שׁ מֵא֖וֹת שְׁלֹשִׁ֣ים וְשִׁבְעָ֑ה וְלָהֶ֗ם מְשֹֽׁרֲרִים֙ וּמְשֹׁ֣רֲר֔וֹת מָאתַ֖יִם"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H5650]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H0519]]"
+- "[[H0428]]"
+- "[[H7651]]"
+- "[[H0505G]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H7970]]"
+- "[[H9038]]"
+- "[[H7891]]"
+texts:
+- L
+---
+
 **Nehemiah 7:67**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside their manservants and their maidservants, of whom [there were] seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.
 <small><sub>**BSB:**</sub></small>
 in addition to their 7,337 menservants and maidservants, as well as their 245 male and female singers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ֠]][[H9005\|לְּ]][[H0905J\|בַד]] [[H5650\|עַבְדֵי]][[H9028\|הֶ֤ם]] [[H9002\|וְ]][[H0519\|אַמְהֹֽתֵי]][[H9028\|הֶם֙]] [[H0428\|אֵ֔לֶּה]] [[H7651\|שִׁבְעַ֣ת]] [[H0505G\|אֲלָפִ֔ים]] [[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֑ה]] [[H9002\|וְ]][[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H7891\|מְשֹֽׁרֲרִים֙]] [[H9002\|וּ]][[H7891\|מְשֹׁ֣רֲר֔וֹת]] [[H3967\|מָאתַ֖יִם]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.67|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.66|<< Nehemiah 7:66]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.68|Nehemiah 7:68 >>]]</td></tr></table>
 

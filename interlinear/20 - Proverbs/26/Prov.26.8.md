@@ -1,8 +1,53 @@
+---
+title: Proverbs 26:8
+type: Verse
+kjv: "As he that bindeth a stone in a sling, so is he that giveth honour to a fool."
+bsb: "Like binding a stone into a sling is the giving of honor to a fool."
+hebrew: "כִּצְר֣וֹר אֶ֭בֶן בְּמַרְגֵּמָ֑ה כֵּן־ נוֹתֵ֖ן לִכְסִ֣יל כָּבֽוֹד׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic SLING|SLING]]"
+strongs:
+- "[[H9004]]"
+- "[[H6887B]]"
+- "[[H0068G]]"
+- "[[H9003]]"
+- "[[H4773]]"
+- "[[H3651C]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3684]]"
+- "[[H3519]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:8**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As he that bindeth a stone in a sling, so [is] he that giveth honour to a fool.
 <small><sub>**BSB:**</sub></small>
 Like binding a stone into a sling is the giving of honor to a fool.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H6887B\|צְר֣וֹר]] [[H0068G\|אֶ֭בֶן]] [[H9003\|בְּ]][[H4773\|מַרְגֵּמָ֑ה]] [[H3651C\|כֵּן]][[H9014\|־]] [[H5414G\|נוֹתֵ֖ן]] [[H9005\|לִ]][[H3684\|כְסִ֣יל]] [[H3519\|כָּבֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic SLING|SLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.7|<< Proverbs 26:7]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.9|Proverbs 26:9 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Job 21:13
+type: Verse
+kjv: "They spend their days in wealth, and in a moment go down to the grave."
+bsb: "They spend their days in prosperity and go down to Sheol in peace."
+hebrew: "יְכַלּ֣וּ בַטּ֣וֹב יְמֵיהֶ֑ם וּ֝בְרֶ֗גַע שְׁא֣וֹל יֵחָֽתּוּ׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic HELL|HELL]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H1086]]"
+- "[[H3615G]]"
+- "[[H9003]]"
+- "[[H2896B]]"
+- "[[H3117G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H7281]]"
+- "[[H7585]]"
+- "[[H5181]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Job 21:13**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They spend their days in wealth, and in a moment go down to the grave.
 <small><sub>**BSB:**</sub></small>
 They spend their days in prosperity and go down to Sheol in peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H3615G\|יְכַלּ֣וּ]] [[H9003\|בַ]][[H2896B\|טּ֣וֹב]] [[H3117G\|יְמֵי]][[H9028\|הֶ֑ם]] [[H9002\|וּ֝]][[H9003\|בְ]][[H7281\|רֶ֗גַע]] [[H7585\|שְׁא֣וֹל]] [[H5181\|יֵחָֽתּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic DEATH|DEATH]] • [[topic HAPPINESS|HAPPINESS]] • [[topic HELL|HELL]] • [[topic PLEASURE|PLEASURE]] • [[topic RICH, THE|RICH, THE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.12|<< Job 21:12]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.14|Job 21:14 >>]]</td></tr></table>
 

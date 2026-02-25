@@ -5,7 +5,7 @@
 
 → The swift flight of [[Deut.28.49|De 28:49]]; [[Job.9.26|Job 9:26]]; [[Prov.30.19|Pr 30:19]]; [[Jer.4.13|Jer  4:13]]; [[Jer.49.22|49:22]]; [[Lam.4.19|La 4:19]]
 
-→ The nest of [[Deut.32.11|De 32:11]]; [[Job.39.27|Job 39:27]]-[[Job.39.30|30]]; [[Jer.49.16|Jer 49:16]]
+→ The nest of [[Deut.32.11|De 32:11]]; [[Job.39.27|Job 39:27-30]]; [[Jer.49.16|Jer 49:16]]
 
 → Carries her young upon her wings [[Exod.19.4|Ex 19:4]]; [[Deut.32.11|De 32:11]]
 

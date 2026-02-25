@@ -1,6 +1,90 @@
+---
+title: LXX 1 Kings 2:8
+type: Verse
+lxx: "And behold, there is with you Shimei son of Gera, son of the Benjamite from Bahurim. And he cursed me a grievous curse in the day in which I went into Camps. And he went down for meeting me at the Jordan, and I swore by an oath to him by the lord, saying, you to death by the broadsword."
+greek: "και ιδού μετά σου Σεμεϊ υιός Γηρά υιός του Ιεμενί εκ Βαουρίν και αυτός κατηράσατό με κατάραν οδυνηράν εν τη ημέρα η επορευόμην εις παρεμβολάς και αυτός κατέβη εις απάντησίν μου επί τον Ιορδάνην και ώμοσα αυτώ εν κυρίω λέγων ει θανατώσω σε εν ρομφαία"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BAHURIM|BAHURIM]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GERA|GERA]]"
+- "[[topic MAHANAIM|MAHANAIM]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[H8096]]"
+- "[[G5207]]"
+- "[[H1617]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G0958]]"
+- "[[G1537]]"
+- "[[H0980]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G2672]]"
+- "[[G1473]]"
+- "[[G2671]]"
+- "[[G8446]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3739]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3925]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G0529]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2446]]"
+- "[[G2532]]"
+- "[[G3660]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G2962]]"
+- "[[G3004]]"
+- "[[G1487]]"
+- "[[G2289]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G4501]]"
+---
+
 **LXX 1 Kings 2:8** 
 <small><sub>**LXX:**</sub></small>
 And behold, \[there is\] with you Shimei son of Gera, son of the Benjamite from Bahurim. And he cursed me a grievous curse in the day in which I went into Camps. And he went down for meeting me at the Jordan, and I swore by an oath to him by \[the\] <span class="smallcaps">lord</span>, saying, you to death by \[the\] broadsword. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2400\|ιδού]] [[G3326\|μετά]] [[G1473\|σου]] [[H8096\|Σεμεϊ]] [[G5207\|υιός]] [[H1617\|Γηρά]] [[G5207\|υιός]] [[G3588\|του]] [[G0958\|Ιεμενί]] [[G1537\|εκ]] [[H0980\|Βαουρίν]] [[G2532\|και]] [[G1473\|αυτός]] [[G2672\|κατηράσατό]] [[G1473\|με]] [[G2671\|κατάραν]] [[G8446\|οδυνηράν]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3739\|η]] [[G4198\|επορευόμην]] [[G1519\|εις]] [[G3925\|παρεμβολάς]] [[G2532\|και]] [[G1473\|αυτός]] [[G2597\|κατέβη]] [[G1519\|εις]] [[G0529\|απάντησίν]] [[G1473\|μου]] [[G1909\|επί]] [[G3588\|τον]] [[G2446\|Ιορδάνην]] [[G2532\|και]] [[G3660\|ώμοσα]] [[G1473\|αυτώ]] [[G1722\|εν]] [[G2962\|κυρίω]] [[G3004\|λέγων]] [[G1487\|ει]] [[G2289\|θανατώσω]] [[G1473\|σε]] [[G1722\|εν]] [[G4501\|ρομφαία]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAHURIM|BAHURIM]] • [[topic DAVID|DAVID]] • [[topic DEATH|DEATH]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GERA|GERA]] • [[topic MAHANAIM|MAHANAIM]] • [[topic MALICE|MALICE]] • [[topic RETALIATION|RETALIATION]] • [[topic WILL|WILL]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.7|<< 1 Kings 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.9|1 Kings 2:9 >>]]</td></tr></table>
 
@@ -50,6 +134,6 @@ And behold, \[there is\] with you Shimei son of Gera, son of the Benjamite from 
 | you | **<big>[[G1473\|σε]]</big>** |
 | by | **<big>[[G1722\|εν]]</big>** |
 | \[the\] broadsword. | **<big>[[G4501\|ρομφαία]]</big>** |
-[[1Kgs.2.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.7|<< 1 Kings 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.9|1 Kings 2:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.2.7|<< 1 Kings 2:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.2.9|1 Kings 2:9 >>]]</td></tr></table>
 
 

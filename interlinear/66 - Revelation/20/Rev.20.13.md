@@ -1,10 +1,60 @@
+---
+title: Revelation 20:13
+type: Verse
+kjv: "And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works."
+bsb: "The sea gave up its dead, and Death and Hades gave up their dead, and each one was judged according to his deeds."
+greek: "καὶ ἔδωκεν ἡ θάλασσα τοὺς νεκροὺς τοὺς ἐν αὐτῇ, καὶ ὁ θάνατος καὶ ὁ ᾅδης ἔδωκαν τοὺς νεκροὺς τοὺς ἐν αὐτοῖς, καὶ ἐκρίθησαν ἕκαστος κατὰ τὰ ἔργα αὐτῶν."
+pericope: "[[Rev.20.11 Judgment before the Great White Throne|Judgment before the Great White Throne]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SEA|SEA]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G3498]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2288]]"
+- "[[G0086]]"
+- "[[G2919]]"
+- "[[G1538]]"
+- "[[G2596]]"
+- "[[G2041]]"
+texts:
+- NKO
+---
+
 **Revelation 20:13**<big><big>[[Rev.20.11 Judgment before the Great White Throne|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
 <small><sub>**BSB:**</sub></small>
 The sea gave up its dead, and Death and Hades gave up their dead, and each one was judged according to his deeds.
-<small><sub>**Literal:**</sub></small>
-And gave up the sea the dead who were in her, and <the> Death and <the> Hades gave up the dead who were in them, and they were judged each [of them] according to the works of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.12|<< Revelation 20:12]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.14|Revelation 20:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἔδωκεν]]  [[G3588\|ἡ]]  [[G2281\|θάλασσα]]  [[G3588\|τοὺς]]  [[G3498\|νεκροὺς]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2288\|θάνατος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0086\|ᾅδης]]  [[G1325\|ἔδωκαν]]  [[G3588\|τοὺς]]  [[G3498\|νεκροὺς]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς,]]  [[G2532\|καὶ]]  [[G2919\|ἐκρίθησαν]]  [[G1538\|ἕκαστος]]  [[G2596\|κατὰ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SEA|SEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.12|<< Revelation 20:12]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.14|Revelation 20:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

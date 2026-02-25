@@ -1,8 +1,57 @@
+---
+title: Job 15:30
+type: Verse
+kjv: "He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away."
+bsb: "He will not escape from the darkness; the flame will wither his shoots, and the breath of God’s mouth will carry him away."
+hebrew: "לֹֽא־ יָס֨וּר׀ מִנִּי־ חֹ֗שֶׁךְ יֹֽ֭נַקְתּוֹ תְּיַבֵּ֣שׁ שַׁלְהָ֑בֶת וְ֝יָס֗וּר בְּר֣וּחַ פִּֽיו׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BREATH|BREATH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5493H]]"
+- "[[H9015]]"
+- "[[H4480A]]"
+- "[[H2822]]"
+- "[[H3127]]"
+- "[[H9023]]"
+- "[[H3001]]"
+- "[[H7957]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7307H]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:30**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not depart out of darkness; the flame shall dry up his branches, and by the breath of his mouth shall he go away.
 <small><sub>**BSB:**</sub></small>
 He will not escape from the darkness; the flame will wither his shoots, and the breath of God’s mouth will carry him away.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H5493H\|יָס֨וּר]][[H9015\|׀]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H2822\|חֹ֗שֶׁךְ]] [[H3127\|יֹֽ֭נַקְתּ]][[H9023\|וֹ]] [[H3001\|תְּיַבֵּ֣שׁ]] [[H7957\|שַׁלְהָ֑בֶת]] [[H9002\|וְ֝]][[H5493H\|יָס֗וּר]] [[H9003\|בְּ]][[H7307H\|ר֣וּחַ]] [[H6310G\|פִּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREATH|BREATH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.29|<< Job 15:29]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.31|Job 15:31 >>]]</td></tr></table>
 

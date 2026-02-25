@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahijah’s Prophecy against Jeroboam
+type: Pericope
 pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 14
 book/chapter: "[[1Kgs.14|1 Kings 14]]"
-genre:
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 18
 verses:
 - "[[1Kgs.14.1]]"
 - "[[1Kgs.14.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[1Kgs.14.18]]"
 ---
 
-[[1Kgs.14|1 Kings 14:1 - 1 Kings 14:18]]
+<small>[[1Kgs.14|1 Kings 14:1-18]]</small>
 *Ahijah’s Prophecy against Jeroboam*
 
 [[1Kgs.14.1|1]] At that time Abijah the son of Jeroboam fell sick.

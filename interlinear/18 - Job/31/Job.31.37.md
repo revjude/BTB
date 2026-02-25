@@ -1,8 +1,51 @@
+---
+title: Job 31:37
+type: Verse
+kjv: "I would declare unto him the number of my steps; as a prince would I go near unto him."
+bsb: "I would give account of all my steps; I would approach Him like a prince.)—"
+hebrew: "מִסְפַּ֣ר צְ֭עָדַי אַגִּידֶ֑נּוּ כְּמוֹ־ נָ֝גִ֗יד אֲקָרֲבֶֽנּוּ׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H4557]]"
+- "[[H6806]]"
+- "[[H9020]]"
+- "[[H5046]]"
+- "[[H9033]]"
+- "[[H3644G]]"
+- "[[H9014]]"
+- "[[H5057]]"
+- "[[H7126G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:37**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I would declare unto him the number of my steps; as a prince would I go near unto him.
 <small><sub>**BSB:**</sub></small>
 I would give account of all my steps; I would approach Him like a prince.)—
+<small><sub>**Hebrew:**</sub></small>
+[[H4557\|מִסְפַּ֣ר]] [[H6806\|צְ֭עָדַ]][[H9020\|י]] [[H5046\|אַגִּידֶ֑]][[H9033\|נּוּ]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H5057\|נָ֝גִ֗יד]] [[H7126G\|אֲקָרֲבֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.36|<< Job 31:36]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.38|Job 31:38 >>]]</td></tr></table>
 

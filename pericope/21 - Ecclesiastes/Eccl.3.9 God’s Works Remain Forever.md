@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Works Remain Forever
+type: Pericope
 pericope: "[[Eccl.3.9 God’s Works Remain Forever|God’s Works Remain Forever]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 3
 book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
-genre:
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 7
 verses:
 - "[[Eccl.3.9]]"
 - "[[Eccl.3.10]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Eccl.3.15]]"
 ---
 
-[[Eccl.3|Ecclesiastes 3:9 - Ecclesiastes 3:15]]
+<small>[[Eccl.3|Ecclesiastes 3:9-15]]</small>
 *God’s Works Remain Forever*
 
 [[Eccl.3.9|9]] What profit hath he that worketh in that wherein he laboureth?

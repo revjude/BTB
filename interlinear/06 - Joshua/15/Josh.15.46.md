@@ -1,8 +1,50 @@
+---
+title: Joshua 15:46
+type: Verse
+kjv: "From Ekron even unto the sea, all that lay near Ashdod, with their villages:"
+bsb: "from Ekron to the sea, all the cities near Ashdod, along with their villages;"
+hebrew: "מֵעֶקְר֖וֹן וָיָ֑מָּה כֹּ֛ל אֲשֶׁר־ עַל־ יַ֥ד אַשְׁדּ֖וֹד וְחַצְרֵיהֶֽן׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9006]]"
+- "[[H6138]]"
+- "[[H9002]]"
+- "[[H3220G]]"
+- "[[H9011]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H3027K]]"
+- "[[H0795]]"
+- "[[H2691B]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:46**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From Ekron even unto the sea, all that [lay] near Ashdod, with their villages:
 <small><sub>**BSB:**</sub></small>
 from Ekron to the sea, all the cities near Ashdod, along with their villages;
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H6138\|עֶקְר֖וֹן]] [[H9002\|וָ]][[H3220G\|יָ֑מָּ]][[H9011\|ה]] [[H3605\|כֹּ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H3027K\|יַ֥ד]] [[H0795\|אַשְׁדּ֖וֹד]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.45|<< Joshua 15:45]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.47|Joshua 15:47 >>]]</td></tr></table>
 

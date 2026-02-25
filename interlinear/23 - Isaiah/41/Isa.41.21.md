@@ -1,8 +1,51 @@
+---
+title: Isaiah 41:21
+type: Verse
+kjv: "Produce your cause, saith the LORD; bring forth your strong reasons, saith the King of Jacob."
+bsb: "“Present your case,” says the LORD. “Submit your arguments,” says the King of Jacob."
+hebrew: "קָרְב֥וּ רִֽיבְכֶ֖ם יֹאמַ֣ר יְהוָ֑ה הַגִּ֙ישׁוּ֙ עֲצֻמ֣וֹתֵיכֶ֔ם יֹאמַ֖ר מֶ֥לֶךְ יַעֲקֹֽב׃"
+pericope: "[[Isa.41.21 Meaningless Idols|Meaningless Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+strongs:
+- "[[H7126G]]"
+- "[[H7379]]"
+- "[[H9026]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5066H]]"
+- "[[H6110]]"
+- "[[H4428G]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:21**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Produce your cause, saith the LORD; bring forth your strong [reasons], saith the King of Jacob.
 <small><sub>**BSB:**</sub></small>
 “Present your case,” says the LORD. “Submit your arguments,” says the King of Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H7126G\|קָרְב֥וּ]] [[H7379\|רִֽיבְ]][[H9026\|כֶ֖ם]] [[H0559\|יֹאמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H5066H\|הַגִּ֙ישׁוּ֙]] [[H6110\|עֲצֻמ֣וֹתֵי]][[H9026\|כֶ֔ם]] [[H0559\|יֹאמַ֖ר]] [[H4428G\|מֶ֥לֶךְ]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.20|<< Isaiah 41:20]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.22|Isaiah 41:22 >>]]</td></tr></table>
 

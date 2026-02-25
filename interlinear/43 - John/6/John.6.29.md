@@ -1,10 +1,60 @@
+---
+title: John 6:29
+type: Verse
+kjv: "Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent."
+bsb: "Jesus replied, “The work of God is this: to believe in the One He has sent.”"
+jesus_said: "This is the work of God, that ye believe on him whom he hath sent."
+greek: "Ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν αὐτοῖς· τοῦτό ἐστιν τὸ ἔργον τοῦ θεοῦ ἵνα πιστεύητε εἰς ὃν ἀπέστειλεν ἐκεῖνος.¶"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2041]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G0649]]"
+- "[[G1565]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 6:29**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “The work of God is this: to believe in the One He has sent.”
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus and said to them; This is the work <the> of God that you may believe in Him whom has sent He.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.28|<< John 6:28]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.30|John 6:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3778\|τοῦτό]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G2041\|ἔργον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2443\|ἵνα]]  [[G4100\|πιστεύητε]]  [[G1519\|εἰς]]  [[G3739\|ὃν]]  [[G0649\|ἀπέστειλεν]]  [[G1565\|ἐκεῖνος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.28|<< John 6:28]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.30|John 6:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,51 @@
+---
+title: 1 Kings 22:47
+type: Verse
+kjv: "There was then no king in Edom: a deputy was king."
+bsb: "And there was no king in Edom; a deputy served as king."
+hebrew: "וּמֶ֥לֶךְ אֵ֛ין בֶּאֱד֖וֹם נִצָּ֥ב מֶֽלֶךְ׃"
+pericope: "[[1Kgs.22.41 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DEPUTY|DEPUTY]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic REGENCY|REGENCY]]"
+strongs:
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H0123G]]"
+- "[[H5324]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:47**<big><big>[[1Kgs.22.41 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There was] then no king in Edom: a deputy [was] king.
 <small><sub>**BSB:**</sub></small>
 And there was no king in Edom; a deputy served as king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4428G\|מֶ֥לֶךְ]] [[H0369\|אֵ֛ין]] [[H9003\|בֶּ]][[H0123G\|אֱד֖וֹם]] [[H5324\|נִצָּ֥ב]] [[H4428G\|מֶֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPUTY|DEPUTY]] • [[topic EDOMITES|EDOMITES]] • [[topic REGENCY|REGENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.46|<< 1 Kings 22:46]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.48|1 Kings 22:48 >>]]</td></tr></table>
 

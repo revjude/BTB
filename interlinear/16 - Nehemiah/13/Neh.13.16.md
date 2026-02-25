@@ -1,8 +1,63 @@
+---
+title: Nehemiah 13:16
+type: Verse
+kjv: "There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath unto the children of Judah, and in Jerusalem."
+bsb: "Additionally, men of Tyre who lived there were importing fish and all kinds of merchandise and selling them on the Sabbath to the people of Judah in Jerusalem."
+hebrew: "וְהַצֹּרִים֙ יָ֣שְׁבוּ בָ֔הּ מְבִיאִ֥ים דָּ֖אג וְכָל־ מֶ֑כֶר וּמֹכְרִ֧ים בַּשַּׁבָּ֛ת לִבְנֵ֥י יְהוּדָ֖ה וּבִירוּשָׁלִָֽם׃"
+pericope: "[[Neh.13.15 The Sabbath Restored|The Sabbath Restored]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRAFFIC|TRAFFIC]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6876]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H0935P]]"
+- "[[H1709H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4377]]"
+- "[[H4376]]"
+- "[[H7676]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:16**<big><big>[[Neh.13.15 The Sabbath Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There dwelt men of Tyre also therein, which brought fish, and all manner of ware, and sold on the sabbath unto the children of Judah, and in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Additionally, men of Tyre who lived there were importing fish and all kinds of merchandise and selling them on the Sabbath to the people of Judah in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H6876\|צֹּרִים֙]] [[H3427\|יָ֣שְׁבוּ]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H0935P\|מְבִיאִ֥ים]] [[H1709H\|דָּ֖אג]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4377\|מֶ֑כֶר]] [[H9002\|וּ]][[H4376\|מֹכְרִ֧ים]] [[H9003\|בַּ]][[H7676\|שַּׁבָּ֛ת]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וּ]][[H9003\|בִ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic HARVEST|HARVEST]] • [[topic SABBATH|SABBATH]] • [[topic TRAFFIC|TRAFFIC]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.15|<< Nehemiah 13:15]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.17|Nehemiah 13:17 >>]]</td></tr></table>
 

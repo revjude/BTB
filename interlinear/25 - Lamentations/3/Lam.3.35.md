@@ -1,8 +1,51 @@
+---
+title: Lamentations 3:35
+type: Verse
+kjv: "To turn aside the right of a man before the face of the most High,"
+bsb: "to deny a man justice before the Most High,"
+hebrew: "לְהַטּוֹת֙ מִשְׁפַּט־ גָּ֔בֶר נֶ֖גֶד פְּנֵ֥י עֶלְיֽוֹן׃"
+pericope: "[[Lam.3.19 The Prophet’s Hope|The Prophet’s Hope]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+strongs:
+- "[[H9005]]"
+- "[[H5186]]"
+- "[[H4941H]]"
+- "[[H9014]]"
+- "[[H1397]]"
+- "[[H5048]]"
+- "[[H6440H]]"
+- "[[H5945B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:35**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To turn aside the right of a man before the face of the most High,
 <small><sub>**BSB:**</sub></small>
 to deny a man justice before the Most High,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5186\|הַטּוֹת֙]] [[H4941H\|מִשְׁפַּט]][[H9014\|־]] [[H1397\|גָּ֔בֶר]] [[H5048\|נֶ֖גֶד]] [[H6440H\|פְּנֵ֥י]] [[H5945B\|עֶלְיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.34|<< Lamentations 3:34]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.36|Lamentations 3:36 >>]]</td></tr></table>
 

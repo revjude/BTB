@@ -1,8 +1,63 @@
+---
+title: Joshua 22:2
+type: Verse
+kjv: "And said unto them, Ye have kept all that Moses the servant of the LORD commanded you, and have obeyed my voice in all that I commanded you:"
+bsb: "and told them, “You have done all that Moses the servant of the LORD commanded you, and you have obeyed my voice in all that I commanded you."
+hebrew: "וַיֹּ֣אמֶר אֲלֵיהֶ֔ם אַתֶּ֣ם שְׁמַרְתֶּ֔ם אֵ֚ת כָּל־ אֲשֶׁ֣ר צִוָּ֣ה אֶתְכֶ֔ם מֹשֶׁ֖ה עֶ֣בֶד יְהוָ֑ה וַתִּשְׁמְע֣וּ בְקוֹלִ֔י לְכֹ֥ל אֲשֶׁר־ צִוִּ֖יתִי אֶתְכֶֽם׃"
+pericope: "[[Josh.22.1 The Eastern Tribes Return Home|The Eastern Tribes Return Home]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0859D]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9036]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:2**<big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto them, Ye have kept all that Moses the servant of the LORD commanded you, and have obeyed my voice in all that I commanded you:
 <small><sub>**BSB:**</sub></small>
 and told them, “You have done all that Moses the servant of the LORD commanded you, and you have obeyed my voice in all that I commanded you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H0859D\|אַתֶּ֣ם]] [[H8104G\|שְׁמַרְתֶּ֔ם]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֣ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H4872\|מֹשֶׁ֖ה]] [[H5650\|עֶ֣בֶד]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H8085H\|תִּשְׁמְע֣וּ]] [[H9003\|בְ]][[H6963A\|קוֹלִ֔]][[H9020\|י]] [[H9005\|לְ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוִּ֖יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.1|<< Joshua 22:1]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.3|Joshua 22:3 >>]]</td></tr></table>
 

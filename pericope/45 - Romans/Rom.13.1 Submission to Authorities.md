@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Submission to Authorities
+type: Pericope
 pericope: "[[Rom.13.1 Submission to Authorities|Submission to Authorities]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Romans
 chapter: 13
 book/chapter: "[[Rom.13|Romans 13]]"
-genre:
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 7
 verses:
 - "[[Rom.13.1]]"
 - "[[Rom.13.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rom.13.7]]"
 ---
 
-[[Rom.13|Romans 13:1 - Romans 13:7]]
+<small>[[Rom.13|Romans 13:1-7]]</small>
 *Submission to Authorities*
 
 [[Rom.13.1|1]] Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.

@@ -1,8 +1,54 @@
+---
+title: Genesis 25:19
+type: Verse
+kjv: "And these are the generations of Isaac, Abraham’s son: Abraham begat Isaac:"
+bsb: "This is the account of Abraham’s son Isaac. Abraham became the father of Isaac,"
+hebrew: "וְאֵ֛לֶּה תּוֹלְדֹ֥ת יִצְחָ֖ק בֶּן־ אַבְרָהָ֑ם אַבְרָהָ֖ם הוֹלִ֥יד אֶת־ יִצְחָֽק׃"
+pericope: "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ESAU|ESAU]]"
+- "[[topic ISAAC|ISAAC]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8435]]"
+- "[[H3327]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0085]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:19**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the generations of Isaac, Abraham’s son: Abraham begat Isaac:
 <small><sub>**BSB:**</sub></small>
 This is the account of Abraham’s son Isaac. Abraham became the father of Isaac,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֛לֶּה]] [[H8435\|תּוֹלְדֹ֥ת]] [[H3327\|יִצְחָ֖ק]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0085\|אַבְרָהָ֑ם]] [[H0085\|אַבְרָהָ֖ם]] [[H3205\|הוֹלִ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H3327\|יִצְחָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESAU|ESAU]] • [[topic ISAAC|ISAAC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.18|<< Genesis 25:18]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.20|Genesis 25:20 >>]]</td></tr></table>
 

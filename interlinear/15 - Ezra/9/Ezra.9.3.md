@@ -1,8 +1,67 @@
+---
+title: Ezra 9:3
+type: Verse
+kjv: "And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied."
+bsb: "When I heard this report, I tore my tunic and cloak, pulled out some hair from my head and beard, and sat down in horror."
+hebrew: "וּכְשָׁמְעִי֙ אֶת־ הַדָּבָ֣ר הַזֶּ֔ה קָרַ֥עְתִּי אֶת־ בִּגְדִ֖י וּמְעִילִ֑י וָאֶמְרְטָ֞ה מִשְּׂעַ֤ר רֹאשִׁי֙ וּזְקָנִ֔י וָאֵשְׁבָ֖ה מְשׁוֹמֵֽם׃"
+pericope: "[[Ezra.9.1 Intermarriage with Neighboring Peoples|Intermarriage with Neighboring Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 9
+book/chapter: "[[Ezra.9|Ezra 9]]"
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic BEARD|BEARD]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic MANTLE|MANTLE]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RENDING|RENDING]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H7167]]"
+- "[[H0899B]]"
+- "[[H9020]]"
+- "[[H4598]]"
+- "[[H9001]]"
+- "[[H4803]]"
+- "[[H9012]]"
+- "[[H9006]]"
+- "[[H8181]]"
+- "[[H7218A]]"
+- "[[H2206]]"
+- "[[H3427]]"
+- "[[H8074H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 9:3**<big><big>[[Ezra.9.1 Intermarriage with Neighboring Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied.
 <small><sub>**BSB:**</sub></small>
 When I heard this report, I tore my tunic and cloak, pulled out some hair from my head and beard, and sat down in horror.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H8085G\|שָׁמְעִ]][[H9040\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H7167\|קָרַ֥עְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בִּגְדִ֖]][[H9020\|י]] [[H9002\|וּ]][[H4598\|מְעִילִ֑]][[H9020\|י]] [[H9001\|וָ]][[H4803\|אֶמְרְטָ֞]][[H9012\|ה]] [[H9006\|מִ]][[H8181\|שְּׂעַ֤ר]] [[H7218A\|רֹאשִׁ]][[H9020\|י֙]] [[H9002\|וּ]][[H2206\|זְקָנִ֔]][[H9020\|י]] [[H9001\|וָ]][[H3427\|אֵשְׁבָ֖]][[H9012\|ה]] [[H8074H\|מְשׁוֹמֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEARD|BEARD]] • [[topic DRESS|DRESS]] • [[topic MANTLE|MANTLE]] • [[topic MOURNING|MOURNING]] • [[topic RENDING|RENDING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.9.2|<< Ezra 9:2]]</td><td align="center" style="border:none;">[[Ezra.9|Ezra 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.9.4|Ezra 9:4 >>]]</td></tr></table>
 

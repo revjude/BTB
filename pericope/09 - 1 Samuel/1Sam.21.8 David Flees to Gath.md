@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Flees to Gath
+type: Pericope
 pericope: "[[1Sam.21.8 David Flees to Gath|David Flees to Gath]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 21
 book/chapter: "[[1Sam.21|1 Samuel 21]]"
-genre:
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[1Sam.21.8]]"
 - "[[1Sam.21.9]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Sam.21.15]]"
 ---
 
-[[1Sam.21|1 Samuel 21:8 - 1 Samuel 21:15]]
+<small>[[1Sam.21|1 Samuel 21:8-15]]</small>
 *David Flees to Gath*
 
 [[1Sam.21.8|8]] And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste.

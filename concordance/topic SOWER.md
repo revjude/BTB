@@ -1,7 +1,7 @@
 
 **SOWER**
 
-→ Parable of the [[Matt.13.3|Mt 13:3]]-[[Matt.13.8|8]]; [[Mark.4.3|Mr 4:3]]-[[Mark.4.20|20]]; [[Luke.8.5|Lu 8:5]]-[[Luke.8.8|8]]
+→ Parable of the [[Matt.13.3|Mt 13:3-8]]; [[Mark.4.3|Mr 4:3-20]]; [[Luke.8.5|Lu 8:5-8]]
 
 → Sowing  [[Eccl.11.4|Ec 11:4]]; [[Isa.28.25|Isa 28:25]]
 

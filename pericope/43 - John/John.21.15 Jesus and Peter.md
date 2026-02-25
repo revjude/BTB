@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus and Peter
+type: Pericope
 pericope: "[[John.21.15 Jesus and Peter|Jesus and Peter]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: John
 chapter: 21
 book/chapter: "[[John.21|John 21]]"
-genre:
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 5
 verses:
 - "[[John.21.15]]"
 - "[[John.21.16]]"
@@ -23,7 +30,7 @@ verses:
 - "[[John.21.19]]"
 ---
 
-[[John.21|John 21:15 - John 21:19]]
+<small>[[John.21|John 21:15-19]]</small>
 *Jesus and Peter*
 
 [[John.21.15|15]] So when they had dined, Jesus saith to Simon Peter, Simon, \[son\] of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs.

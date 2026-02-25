@@ -1,6 +1,78 @@
+---
+title: LXX Ezekiel 5:11
+type: Verse
+lxx: "On account of this, as I live, says Adonai the lord; Assuredly, because  you defiled my holy things in all  your loathsome things, and in all  your abominations, I also thrust you away; my eye will not spare, and I shall not show mercy."
+greek: "διά τούτο ζω εγώ λέγει Αδωναϊ κύριος ημήν ημήν ανθ΄ ων τα άγιά μου εμίανας εν πάσι τοις προσοχθίσμασί σου και εν πάσι τοις βδελύγμασί σου καγώ απώσομαί σε ου φείσεταί μου ο οφθαλμός καγώ ουκ ελεήσω"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2198]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G2228]]"
+- "[[G3361]]"
+- "[[G6339]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G1473]]"
+- "[[G3392]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G8938]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0946]]"
+- "[[G1473]]"
+- "[[G2504]]"
+- "[[G0683]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G5339]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G2504]]"
+- "[[G3756]]"
+- "[[G1653]]"
+---
+
 **LXX Ezekiel 5:11** 
 <small><sub>**LXX:**</sub></small>
 On account of this, as I live, says Adonai \[the\] <span class="smallcaps">lord</span>; Assuredly, because  you defiled my holy \[things\] in all  your loathsome things, and in all  your abominations, I also thrust you away; my eye will not spare, and I shall not show mercy. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G2198\|ζω]] [[G1473\|εγώ]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G2228\|ημήν]] <sup><small>[[G3361\| [ • ] ]]</small></sup> [[G6339\|ανθ΄ ων]] [[G3588\|τα]] [[G0039\|άγιά]] [[G1473\|μου]] [[G3392\|εμίανας]] [[G1722\|εν]] [[G3956\|πάσι]] [[G3588\|τοις]] [[G8938\|προσοχθίσμασί]] [[G1473\|σου]] [[G2532\|και]] [[G1722\|εν]] [[G3956\|πάσι]] [[G3588\|τοις]] [[G0946\|βδελύγμασί]] [[G1473\|σου]] [[G2504\|καγώ]] [[G0683\|απώσομαί]] [[G1473\|σε]] [[G3756\|ου]] [[G5339\|φείσεταί]] [[G1473\|μου]] [[G3588\|ο]] [[G3788\|οφθαλμός]] [[G2504\|καγώ]] [[G3756\|ουκ]] [[G1653\|ελεήσω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.10|<< Ezekiel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.12|Ezekiel 5:12 >>]]</td></tr></table>
 
@@ -36,6 +108,6 @@ On account of this, as I live, says Adonai \[the\] <span class="smallcaps">lord<
 | and I | **<big>[[G2504\|καγώ]]</big>** |
 | shall not | **<big>[[G3756\|ουκ]]</big>** |
 | show mercy. | **<big>[[G1653\|ελεήσω]]</big>** |
-[[Ezek.5.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.10|<< Ezekiel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.12|Ezekiel 5:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.5.10|<< Ezekiel 5:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.5.12|Ezekiel 5:12 >>]]</td></tr></table>
 
 

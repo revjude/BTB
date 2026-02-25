@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Asa Reigns in Judah
+type: Pericope
 pericope: "[[1Kgs.15.9 Asa Reigns in Judah|Asa Reigns in Judah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 15
 book/chapter: "[[1Kgs.15|1 Kings 15]]"
-genre:
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 7
 verses:
 - "[[1Kgs.15.9]]"
 - "[[1Kgs.15.10]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Kgs.15.15]]"
 ---
 
-[[1Kgs.15|1 Kings 15:9 - 1 Kings 15:15]]
+<small>[[1Kgs.15|1 Kings 15:9-15]]</small>
 *Asa Reigns in Judah*
 
 [[1Kgs.15.9|9]] And in the twentieth year of Jeroboam king of Israel reigned Asa over Judah.

@@ -1,8 +1,53 @@
+---
+title: Proverbs 28:4
+type: Verse
+kjv: "They that forsake the law praise the wicked: but such as keep the law contend with them."
+bsb: "Those who forsake the law praise the wicked, but those who keep the law resist them."
+hebrew: "עֹזְבֵ֣י ת֭וֹרָה יְהַֽלְל֣וּ רָשָׁ֑ע וְשֹׁמְרֵ֥י ת֝וֹרָ֗ה יִתְגָּ֥רוּ בָֽם׃ פ"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H5800A]]"
+- "[[H8451]]"
+- "[[H1984B]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H8104G]]"
+- "[[H1624]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 28:4**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that forsake the law praise the wicked: but such as keep the law contend with them.
 <small><sub>**BSB:**</sub></small>
 Those who forsake the law praise the wicked, but those who keep the law resist them.
+<small><sub>**Hebrew:**</sub></small>
+[[H5800A\|עֹזְבֵ֣י]] [[H8451\|ת֭וֹרָה]] [[H1984B\|יְהַֽלְל֣וּ]] [[H7563\|רָשָׁ֑ע]] [[H9002\|וְ]][[H8104G\|שֹׁמְרֵ֥י]] [[H8451\|ת֝וֹרָ֗ה]] [[H1624\|יִתְגָּ֥רוּ]] [[H9003\|בָֽ]][[H9038\|ם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.3|<< Proverbs 28:3]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.5|Proverbs 28:5 >>]]</td></tr></table>
 
@@ -15,7 +60,7 @@ Those who forsake the law praise the wicked, but those who keep the law resist t
 | and [those who] keep  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8104G\|שֹׁמְרֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sho.me.Rei<small><sup>[[HVqrmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<of> [the] law  |**<big>&#8207;[[H8451\|ת֝וֹרָ֗ה]]&#8207; </big>**| to.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they engage in strife  |**<big>&#8207;[[H1624\|יִתְגָּ֥רוּ]]&#8207; </big>**| yit.Ga.ru<small><sup>[[HVti3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with them  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with them  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Va<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.3|<< Proverbs 28:3]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.5|Proverbs 28:5 >>]]</td></tr></table>
 
 

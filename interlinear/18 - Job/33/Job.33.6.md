@@ -1,8 +1,56 @@
+---
+title: Job 33:6
+type: Verse
+kjv: "Behold, I am according to thy wish in God’s stead: I also am formed out of the clay."
+bsb: "I am just like you before God; I was also formed from clay."
+hebrew: "הֵן־ אֲנִ֣י כְפִ֣יךָ לָאֵ֑ל מֵ֝חֹ֗מֶר קֹרַ֥צְתִּי גַם־ אָֽנִי׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CLAY|CLAY]]"
+- "[[topic GROUND|GROUND]]"
+- "[[topic HUMILITY|HUMILITY]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H9004]]"
+- "[[H6310K]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H0410G]]"
+- "[[H9006]]"
+- "[[H2563A]]"
+- "[[H7169]]"
+- "[[H1571]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:6**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I [am] according to thy wish in God’s stead: I also am formed out of the clay.
 <small><sub>**BSB:**</sub></small>
 I am just like you before God; I was also formed from clay.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵן]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H9004\|כְ]][[H6310K\|פִ֣י]][[H9021\|ךָ]] [[H9005\|לָ]][[H0410G\|אֵ֑ל]] [[H9006\|מֵ֝]][[H2563A\|חֹ֗מֶר]] [[H7169\|קֹרַ֥צְתִּי]] [[H1571\|גַם]][[H9014\|־]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAY|CLAY]] • [[topic GROUND|GROUND]] • [[topic HUMILITY|HUMILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.5|<< Job 33:5]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.7|Job 33:7 >>]]</td></tr></table>
 

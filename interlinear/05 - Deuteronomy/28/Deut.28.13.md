@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 28:13
+type: Verse
+kjv: "And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do them:"
+bsb: "The LORD will make you the head and not the tail; you will only move upward and never downward, if you hear and carefully follow the commandments of the LORD your God, which I am giving you today."
+hebrew: "וּנְתָֽנְךָ֨ יְהוָ֤ה לְרֹאשׁ֙ וְלֹ֣א לְזָנָ֔ב וְהָיִ֙יתָ֙ רַ֣ק לְמַ֔עְלָה וְלֹ֥א תִהְיֶ֖ה לְמָ֑טָּה כִּֽי־ תִשְׁמַ֞ע אֶל־ מִצְוֹ֣ת׀ יְהוָ֣ה אֱלֹהֶ֗יךָ אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם לִשְׁמֹ֥ר וְלַעֲשֽׂוֹת׃"
+pericope: "[[Deut.28.1 The Blessings of Obedience|The Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7218A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2180]]"
+- "[[H1961]]"
+- "[[H7535]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H4295]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H4687]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H8104J]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:13**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if that thou hearken unto the commandments of the LORD thy God, which I command thee this day, to observe and to do [them]:
 <small><sub>**BSB:**</sub></small>
 The LORD will make you the head and not the tail; you will only move upward and never downward, if you hear and carefully follow the commandments of the LORD your God, which I am giving you today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5414I\|נְתָֽנְ]][[H9031\|ךָ֨]] [[H3068G\|יְהוָ֤ה]] [[H9005\|לְ]][[H7218A\|רֹאשׁ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9005\|לְ]][[H2180\|זָנָ֔ב]] [[H9001\|וְ]][[H1961\|הָיִ֙יתָ֙]] [[H7535\|רַ֣ק]] [[H9005\|לְ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1961\|תִהְיֶ֖ה]] [[H9005\|לְ]][[H4295\|מָ֑טָּה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8085H\|תִשְׁמַ֞ע]] [[H0413\|אֶל]][[H9014\|־]] [[H4687\|מִצְוֹ֣ת]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֨ר]] [[H0595\|אָנֹכִ֧י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֛]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9005\|לִ]][[H8104J\|שְׁמֹ֥ר]] [[H9002\|וְ]][[H9005\|לַ]][[H6213A\|עֲשֽׂוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.12|<< Deuteronomy 28:12]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.14|Deuteronomy 28:14 >>]]</td></tr></table>
 

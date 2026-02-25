@@ -1,8 +1,60 @@
+---
+title: Numbers 26:57
+type: Verse
+kjv: "And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites."
+bsb: "Now these were the Levites numbered by their clans: The Gershonite clan from Gershon, the Kohathite clan from Kohath, and the Merarite clan from Merari."
+hebrew: "וְאֵ֨לֶּה פְקוּדֵ֣י הַלֵּוִי֮ לְמִשְׁפְּחֹתָם֒ לְגֵרְשׁ֗וֹן מִשְׁפַּ֙חַת֙ הַגֵּ֣רְשֻׁנִּ֔י לִקְהָ֕ת מִשְׁפַּ֖חַת הַקְּהָתִ֑י לִמְרָרִ֕י מִשְׁפַּ֖חַת הַמְּרָרִֽי׃"
+pericope: "[[Num.26.57 The Levites Numbered|The Levites Numbered]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H6485A]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H1648]]"
+- "[[H1649]]"
+- "[[H6955]]"
+- "[[H6956]]"
+- "[[H4847]]"
+- "[[H4848]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:57**<big><big>[[Num.26.57 The Levites Numbered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.
 <small><sub>**BSB:**</sub></small>
 Now these were the Levites numbered by their clans: The Gershonite clan from Gershon, the Kohathite clan from Kohath, and the Merarite clan from Merari.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֨לֶּה]] [[H6485A\|פְקוּדֵ֣י]] [[H9009\|הַ]][[H3881\|לֵּוִי֮]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ]][[H9028\|ם֒]] [[H9005\|לְ]][[H1648\|גֵרְשׁ֗וֹן]] [[H4940\|מִשְׁפַּ֙חַת֙]] [[H9009\|הַ]][[H1649\|גֵּ֣רְשֻׁנִּ֔י]] [[H9005\|לִ]][[H6955\|קְהָ֕ת]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H6956\|קְּהָתִ֑י]] [[H9005\|לִ]][[H4847\|מְרָרִ֕י]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H4848\|מְּרָרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHON|GERSHON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.56|<< Numbers 26:56]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.58|Numbers 26:58 >>]]</td></tr></table>
 

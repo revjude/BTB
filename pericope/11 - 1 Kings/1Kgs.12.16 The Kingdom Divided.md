@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Kingdom Divided
+type: Pericope
 pericope: "[[1Kgs.12.16 The Kingdom Divided|The Kingdom Divided]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 12
 book/chapter: "[[1Kgs.12|1 Kings 12]]"
-genre:
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 4
 verses:
 - "[[1Kgs.12.16]]"
 - "[[1Kgs.12.17]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Kgs.12.19]]"
 ---
 
-[[1Kgs.12|1 Kings 12:16 - 1 Kings 12:19]]
+<small>[[1Kgs.12|1 Kings 12:16-19]]</small>
 *The Kingdom Divided*
 
 [[1Kgs.12.16|16]] So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither \[have we\] inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.

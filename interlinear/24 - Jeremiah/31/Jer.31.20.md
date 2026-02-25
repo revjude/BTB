@@ -1,8 +1,75 @@
+---
+title: Jeremiah 31:20
+type: Verse
+kjv: "Is Ephraim my dear son? is he a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the LORD."
+bsb: "Is not Ephraim a precious son to Me, a delightful child? Though I often speak against him, I still remember him. Therefore My heart yearns for him; I have great compassion for him,” declares the LORD."
+hebrew: "הֲבֵן֩ יַקִּ֨יר לִ֜י אֶפְרַ֗יִם אִ֚ם יֶ֣לֶד שַׁעֲשֻׁעִ֔ים כִּֽי־ מִדֵּ֤י דַבְּרִי֙ בּ֔וֹ זָכֹ֥ר אֶזְכְּרֶ֖נּוּ ע֑וֹד עַל־ כֵּ֗ן הָמ֤וּ מֵעַי֙ ל֔וֹ רַחֵ֥ם אֲֽרַחֲמֶ֖נּוּ נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9008]]"
+- "[[H1121A]]"
+- "[[H3357]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0669G]]"
+- "[[H0518I]]"
+- "[[H3206]]"
+- "[[H8191]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H1767]]"
+- "[[H1696G]]"
+- "[[H9040]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H2142]]"
+- "[[H5750]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H1993]]"
+- "[[H4578]]"
+- "[[H9020]]"
+- "[[H7355]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 31:20**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] Ephraim my dear son? [is he] a pleasant child? for since I spake against him, I do earnestly remember him still: therefore my bowels are troubled for him; I will surely have mercy upon him, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Is not Ephraim a precious son to Me, a delightful child? Though I often speak against him, I still remember him. Therefore My heart yearns for him; I have great compassion for him,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H1121A\|בֵן֩]] [[H3357\|יַקִּ֨יר]] [[H9005\|לִ֜]][[H9030\|י]] [[H0669G\|אֶפְרַ֗יִם]] [[H0518I\|אִ֚ם]] [[H3206\|יֶ֣לֶד]] [[H8191\|שַׁעֲשֻׁעִ֔ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9006\|מִ]][[H1767\|דֵּ֤י]] [[H1696G\|דַבְּרִ]][[H9040\|י֙]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H2142\|זָכֹ֥ר]] [[H2142\|אֶזְכְּרֶ֖]][[H9033\|נּוּ]] [[H5750\|ע֑וֹד]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H1993\|הָמ֤וּ]] [[H4578\|מֵעַ]][[H9020\|י֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H7355\|רַחֵ֥ם]] [[H7355\|אֲֽרַחֲמֶ֖]][[H9033\|נּוּ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic BOWELS|BOWELS]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic EPHRAIM|EPHRAIM]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.19|<< Jeremiah 31:19]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.21|Jeremiah 31:21 >>]]</td></tr></table>
 
@@ -30,7 +97,7 @@ Is not Ephraim a precious son to Me, a delightful child? Though I often speak ag
 | surely \<have compassion>  |**<big>&#8207;[[H7355\|רַחֵ֥ם]]&#8207; </big>**| ra.Chem<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will have compassion on him  |**<big>&#8207;[[H7355\|אֲֽרַחֲמֶ֖]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| 'ara.cha.Me.<small><sup>[[HVpi1cs]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.19|<< Jeremiah 31:19]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.21|Jeremiah 31:21 >>]]</td></tr></table>
 
 

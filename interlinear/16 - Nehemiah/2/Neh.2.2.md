@@ -1,8 +1,69 @@
+---
+title: Nehemiah 2:2
+type: Verse
+kjv: "Wherefore the king said unto me, Why is thy countenance sad, seeing thou art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,"
+bsb: "so the king said to me, “Why is your face sad, though you are not ill? This could only be sadness of the heart.” I was overwhelmed with fear"
+hebrew: "וַיֹּאמֶר֩ לִ֨י הַמֶּ֜לֶךְ מַדּ֣וּעַ׀ פָּנֶ֣יךָ רָעִ֗ים וְאַתָּה֙ אֵֽינְךָ֣ חוֹלֶ֔ה אֵ֣ין זֶ֔ה כִּי־ אִ֖ם רֹ֣עַֽ לֵ֑ב וָאִירָ֖א הַרְבֵּ֥ה מְאֹֽד׃"
+pericope: "[[Neh.2.1 Nehemiah Sent to Jerusalem|Nehemiah Sent to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4069]]"
+- "[[H9015]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H7451A]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0369]]"
+- "[[H9041]]"
+- "[[H2470H]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0518B]]"
+- "[[H7455]]"
+- "[[H3820A]]"
+- "[[H3372G]]"
+- "[[H7235A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:2**<big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the king said unto me, Why [is] thy countenance sad, seeing thou [art] not sick? this [is] nothing [else] but sorrow of heart. Then I was very sore afraid,
 <small><sub>**BSB:**</sub></small>
 so the king said to me, “Why is your face sad, though you are not ill? This could only be sadness of the heart.” I was overwhelmed with fear
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H9005\|לִ֨]][[H9030\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H4069\|מַדּ֣וּעַ]][[H9015\|׀]] [[H6440H\|פָּנֶ֣י]][[H9021\|ךָ]] [[H7451A\|רָעִ֗ים]] [[H9002\|וְ]][[H0859A\|אַתָּה֙]] [[H0369\|אֵֽינְ]][[H9041\|ךָ֣]] [[H2470H\|חוֹלֶ֔ה]] [[H0369\|אֵ֣ין]] [[H2088\|זֶ֔ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H0518B\|אִ֖ם]] [[H7455\|רֹ֣עַֽ]] [[H3820A\|לֵ֑ב]] [[H9001\|וָ]][[H3372G\|אִירָ֖א]] [[H7235A\|הַרְבֵּ֥ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic COUNTRY|COUNTRY]] • [[topic NEHEMIAH|NEHEMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.1|<< Nehemiah 2:1]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.3|Nehemiah 2:3 >>]]</td></tr></table>
 

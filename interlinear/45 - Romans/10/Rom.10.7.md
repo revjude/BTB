@@ -1,10 +1,56 @@
+---
+title: Romans 10:7
+type: Verse
+kjv: "Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)"
+bsb: "or, ‘Who will descend into the Abyss?’ (that is, to bring Christ up from the dead).”"
+greek: "ἢ τίς καταβήσεται εἰς τὴν ἄβυσσον; τοῦτ᾽ ἔστιν Χριστὸν ἐκ νεκρῶν ἀναγαγεῖν."
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2228]]"
+- "[[G5101]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0012]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G0321]]"
+texts:
+- NKO
+---
+
 **Romans 10:7**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)
 <small><sub>**BSB:**</sub></small>
 or, ‘Who will descend into the Abyss?’ (that is, to bring Christ up from the dead).”
-<small><sub>**Literal:**</sub></small>
-or Who will descend into the abyss?’ That is Christ out from [the] dead to bring up.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.6|<< Romans 10:6]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.8|Romans 10:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G5101\|τίς]]  [[G2597\|καταβήσεται]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0012\|ἄβυσσον;]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G5547\|Χριστὸν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G0321\|ἀναγαγεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.6|<< Romans 10:6]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.8|Romans 10:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:7** is...
 > $\quad$ referencing: [[LXX.Deut.30.13|Deut 30:13]] ☩ [[LXX.Ps.107.26|Ps 107:26]]

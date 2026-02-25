@@ -1,10 +1,61 @@
+---
+title: John 16:20
+type: Verse
+kjv: "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy."
+bsb: "Truly, truly, I tell you, you will weep and wail while the world rejoices. You will grieve, but your grief will turn to joy."
+jesus_said: "Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy."
+greek: "Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι κλαύσετε καὶ θρηνήσετε ὑμεῖς, ὁ δὲ κόσμος χαρήσεται· ὑμεῖς δὲ λυπηθήσεσθε, ἀλλ᾽ ἡ λύπη ὑμῶν εἰς χαρὰν γενήσεται."
+pericope: "[[John.16.17 Grief Will Turn to Joy|Grief Will Turn to Joy]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2799]]"
+- "[[G2532]]"
+- "[[G2354]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2889]]"
+- "[[G5463]]"
+- "[[G3076]]"
+- "[[G0235]]"
+- "[[G3077]]"
+- "[[G1519]]"
+- "[[G5479]]"
+- "[[G1096]]"
+texts:
+- NKO
+- k
+---
+
 **John 16:20**<big><big>[[John.16.17 Grief Will Turn to Joy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, you will weep and wail while the world rejoices. You will grieve, but your grief will turn to joy.
-<small><sub>**Literal:**</sub></small>
-Amen Amen I say to you that you will weep and will lament you yourselves, <the> but the world will rejoice; You yourselves now will be grieved, but the grief of you to joy will turn.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.19|<< John 16:19]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.21|John 16:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G2799\|κλαύσετε]]  [[G2532\|καὶ]]  [[G2354\|θρηνήσετε]]  [[G4771\|ὑμεῖς,]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2889\|κόσμος]]  [[G5463\|χαρήσεται·]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G3076\|λυπηθήσεσθε,]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ἡ]]  [[G3077\|λύπη]]  [[G4771\|ὑμῶν]]  [[G1519\|εἰς]]  [[G5479\|χαρὰν]]  [[G1096\|γενήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.19|<< John 16:19]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.21|John 16:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

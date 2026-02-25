@@ -1,8 +1,68 @@
+---
+title: Jeremiah 7:7
+type: Verse
+kjv: "Then will I cause you to dwell in this place, in the land that I gave to your fathers, for ever and ever."
+bsb: "then I will let you live in this place, in the land that I gave to your fathers forever and ever."
+hebrew: "וְשִׁכַּנְתִּ֤י אֶתְכֶם֙ בַּמָּק֣וֹם הַזֶּ֔ה בָּאָ֕רֶץ אֲשֶׁ֥ר נָתַ֖תִּי לַאֲבֽוֹתֵיכֶ֑ם לְמִן־ עוֹלָ֖ם וְעַד־ עוֹלָֽם׃"
+pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H7931]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5769J]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:7**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I cause you to dwell in this place, in the land that I gave to your fathers, for ever and ever.
 <small><sub>**BSB:**</sub></small>
 then I will let you live in this place, in the land that I gave to your fathers forever and ever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7931\|שִׁכַּנְתִּ֤י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9003\|בַּ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9003\|בָּ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לַ]][[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H5769J\|עוֹלָ֖ם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ORPHAN|ORPHAN]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.6|<< Jeremiah 7:6]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.8|Jeremiah 7:8 >>]]</td></tr></table>
 

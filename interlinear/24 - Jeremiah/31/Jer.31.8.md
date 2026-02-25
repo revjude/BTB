@@ -1,8 +1,67 @@
+---
+title: Jeremiah 31:8
+type: Verse
+kjv: "Behold, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither."
+bsb: "Behold, I will bring them from the land of the north and gather them from the farthest parts of the earth, including the blind and the lame, expectant mothers and women in labor. They will return as a great assembly!"
+hebrew: "הִנְנִי֩ מֵבִ֨יא אוֹתָ֜ם מֵאֶ֣רֶץ צָפ֗וֹן וְקִבַּצְתִּים֮ מִיַּרְכְּתֵי־ אָרֶץ֒ בָּ֚ם עִוֵּ֣ר וּפִסֵּ֔חַ הָרָ֥ה וְיֹלֶ֖דֶת יַחְדָּ֑ו קָהָ֥ל גָּד֖וֹל יָשׁ֥וּבוּ הֵֽנָּה׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BIRTH|BIRTH]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H6828G]]"
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H3411]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H5787]]"
+- "[[H9002]]"
+- "[[H6455]]"
+- "[[H2030A]]"
+- "[[H3205]]"
+- "[[H3162B]]"
+- "[[H6951]]"
+- "[[H1419A]]"
+- "[[H7725G]]"
+- "[[H2008]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:8**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will bring them from the north country, and gather them from the coasts of the earth, [and] with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.
 <small><sub>**BSB:**</sub></small>
 Behold, I will bring them from the land of the north and gather them from the farthest parts of the earth, including the blind and the lame, expectant mothers and women in labor. They will return as a great assembly!
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִי֩]] [[H0935P\|מֵבִ֨יא]] [[H0853\|אוֹתָ֜]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H6828G\|צָפ֗וֹן]] [[H9001\|וְ]][[H6908\|קִבַּצְתִּי]][[H9038\|ם֮]] [[H9006\|מִ]][[H3411\|יַּרְכְּתֵי]][[H9014\|־]] [[H0776G\|אָרֶץ֒]] [[H9003\|בָּ֚]][[H9038\|ם]] [[H5787\|עִוֵּ֣ר]] [[H9002\|וּ]][[H6455\|פִסֵּ֔חַ]] [[H2030A\|הָרָ֥ה]] [[H9002\|וְ]][[H3205\|יֹלֶ֖דֶת]] [[H3162B\|יַחְדָּ֑ו]] [[H6951\|קָהָ֥ל]] [[H1419A\|גָּד֖וֹל]] [[H7725G\|יָשׁ֥וּבוּ]] [[H2008\|הֵֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTH|BIRTH]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.7|<< Jeremiah 31:7]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.9|Jeremiah 31:9 >>]]</td></tr></table>
 

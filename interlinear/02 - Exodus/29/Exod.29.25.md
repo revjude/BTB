@@ -1,8 +1,68 @@
+---
+title: Exodus 29:25
+type: Verse
+kjv: "And thou shalt receive them of their hands, and burn them upon the altar for a burnt offering, for a sweet savour before the LORD: it is an offering made by fire unto the LORD."
+bsb: "Then take them from their hands and burn them on the altar atop the burnt offering as a pleasing aroma before the LORD; it is a food offering to the LORD."
+hebrew: "וְלָקַחְתָּ֤ אֹתָם֙ מִיָּדָ֔ם וְהִקְטַרְתָּ֥ הַמִּזְבֵּ֖חָה עַל־ הָעֹלָ֑ה לְרֵ֤יחַ נִיח֙וֹחַ֙ לִפְנֵ֣י יְהוָ֔ה אִשֶּׁ֥ה ה֖וּא לַיהוָֽה׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H6999A]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0801]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:25**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt receive them of their hands, and burn [them] upon the altar for a burnt offering, for a sweet savour before the LORD: it [is] an offering made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Then take them from their hands and burn them on the altar atop the burnt offering as a pleasing aroma before the LORD; it is a food offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֤]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9006\|מִ]][[H3027G\|יָּדָ֔]][[H9028\|ם]] [[H9001\|וְ]][[H6999A\|הִקְטַרְתָּ֥]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חָ]][[H9011\|ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָ֑ה]] [[H9005\|לְ]][[H7381\|רֵ֤יחַ]] [[H5207\|נִיח֙וֹחַ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H0801\|אִשֶּׁ֥ה]] [[H1931\|ה֖וּא]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.24|<< Exodus 29:24]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.26|Exodus 29:26 >>]]</td></tr></table>
 

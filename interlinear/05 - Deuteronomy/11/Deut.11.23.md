@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 11:23
+type: Verse
+kjv: "Then will the LORD drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves."
+bsb: "then the LORD will drive out all these nations before you, and you will dispossess nations greater and stronger than you."
+hebrew: "וְהוֹרִ֧ישׁ יְהוָ֛ה אֶת־ כָּל־ הַגּוֹיִ֥ם הָאֵ֖לֶּה מִלִּפְנֵיכֶ֑ם וִֽירִשְׁתֶּ֣ם גּוֹיִ֔ם גְּדֹלִ֥ים וַעֲצֻמִ֖ים מִכֶּֽם׃"
+pericope: "[[Deut.11.18 Remember God’s Words|Remember God’s Words]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H6099]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:23**<big><big>[[Deut.11.18 Remember God’s Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will the LORD drive out all these nations from before you, and ye shall possess greater nations and mightier than yourselves.
 <small><sub>**BSB:**</sub></small>
 then the LORD will drive out all these nations before you, and you will dispossess nations greater and stronger than you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3423H\|הוֹרִ֧ישׁ]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֥ם]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵי]][[H9026\|כֶ֑ם]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתֶּ֣ם]] [[H1471A\|גּוֹיִ֔ם]] [[H1419A\|גְּדֹלִ֥ים]] [[H9002\|וַ]][[H6099\|עֲצֻמִ֖ים]] [[H9006\|מִ]][[H9036\|כֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.22|<< Deuteronomy 11:22]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.24|Deuteronomy 11:24 >>]]</td></tr></table>
 

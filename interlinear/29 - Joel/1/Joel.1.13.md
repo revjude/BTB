@@ -1,8 +1,64 @@
+---
+title: Joel 1:13
+type: Verse
+kjv: "Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God."
+bsb: "Put on sackcloth and lament, O priests; wail, O ministers of the altar. Come, spend the night in sackcloth, O ministers of my God, because the grain and drink offerings are withheld from the house of your God."
+hebrew: "חִגְר֨וּ וְסִפְד֜וּ הַכֹּהֲנִ֗ים הֵילִ֙ילוּ֙ מְשָׁרְתֵ֣י מִזְבֵּ֔חַ בֹּ֚אוּ לִ֣ינוּ בַשַּׂקִּ֔ים מְשָׁרְתֵ֖י אֱלֹהָ֑י כִּ֥י נִמְנַ֛ע מִבֵּ֥ית אֱלֹהֵיכֶ֖ם מִנְחָ֥ה וָנָֽסֶךְ׃"
+pericope: "[[Joel.1.13 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H2296]]"
+- "[[H9002]]"
+- "[[H5594]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3213]]"
+- "[[H8334]]"
+- "[[H4196]]"
+- "[[H0935G]]"
+- "[[H3885A]]"
+- "[[H9003]]"
+- "[[H8242]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H4513]]"
+- "[[H9006]]"
+- "[[H1004Q]]"
+- "[[H9026]]"
+- "[[H4503G]]"
+- "[[H5262]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:13**<big><big>[[Joel.1.13 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.
 <small><sub>**BSB:**</sub></small>
 Put on sackcloth and lament, O priests; wail, O ministers of the altar. Come, spend the night in sackcloth, O ministers of my God, because the grain and drink offerings are withheld from the house of your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H2296\|חִגְר֨וּ]] [[H9002\|וְ]][[H5594\|סִפְד֜וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֗ים]] [[H3213\|הֵילִ֙ילוּ֙]] [[H8334\|מְשָׁרְתֵ֣י]] [[H4196\|מִזְבֵּ֔חַ]] [[H0935G\|בֹּ֚אוּ]] [[H3885A\|לִ֣ינוּ]] [[H9003\|בַ]][[H8242\|שַּׂקִּ֔ים]] [[H8334\|מְשָׁרְתֵ֖י]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H4513\|נִמְנַ֛ע]] [[H9006\|מִ]][[H1004Q\|בֵּ֥ית]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H4503G\|מִנְחָ֥ה]] [[H9002\|וָ]][[H5262\|נָֽסֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.12|<< Joel 1:12]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.14|Joel 1:14 >>]]</td></tr></table>
 

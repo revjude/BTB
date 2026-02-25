@@ -1,8 +1,69 @@
+---
+title: Exodus 18:1
+type: Verse
+kjv: "When Jethro, the priest of Midian, Moses’ father in law, heard of all that God had done for Moses, and for Israel his people, and that the LORD had brought Israel out of Egypt;"
+bsb: "Now Moses’ father-in-law Jethro, the priest of Midian, heard about all that God had done for Moses and His people Israel, and how the LORD had brought Israel out of Egypt."
+hebrew: "וַיִּשְׁמַ֞ע יִתְר֨וֹ כֹהֵ֤ן מִדְיָן֙ חֹתֵ֣ן מֹשֶׁ֔ה אֵת֩ כָּל־ אֲשֶׁ֨ר עָשָׂ֤ה אֱלֹהִים֙ לְמֹשֶׁ֔ה וּלְיִשְׂרָאֵ֖ל עַמּ֑וֹ כִּֽי־ הוֹצִ֧יא יְהוָ֛ה אֶת־ יִשְׂרָאֵ֖ל מִמִּצְרָֽיִם׃"
+pericope: "[[Exod.18.1 The Visit of Jethro|The Visit of Jethro]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3503]]"
+- "[[H3548]]"
+- "[[H4080H]]"
+- "[[H2859A]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H3318H]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:1**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Jethro, the priest of Midian, Moses’ father in law, heard of all that God had done for Moses, and for Israel his people, [and] that the LORD had brought Israel out of Egypt;
 <small><sub>**BSB:**</sub></small>
 Now Moses’ father-in-law Jethro, the priest of Midian, heard about all that God had done for Moses and His people Israel, and how the LORD had brought Israel out of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֞ע]] [[H3503\|יִתְר֨וֹ]] [[H3548\|כֹהֵ֤ן]] [[H4080H\|מִדְיָן֙]] [[H2859A\|חֹתֵ֣ן]] [[H4872\|מֹשֶׁ֔ה]] [[H0853\|אֵת֩]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשָׂ֤ה]] [[H0430G\|אֱלֹהִים֙]] [[H9005\|לְ]][[H4872\|מֹשֶׁ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3318H\|הוֹצִ֧יא]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.16|<< Exodus 17:16]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.2|Exodus 18:2 >>]]</td></tr></table>
 

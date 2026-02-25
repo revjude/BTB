@@ -1,10 +1,70 @@
+---
+title: Acts 23:15
+type: Verse
+kjv: "Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would inquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him."
+bsb: "Now then, you and the Sanhedrin petition the commander to bring him down to you on the pretext of examining his case more carefully. We are ready to kill him on the way.”"
+greek: "νῦν οὖν ὑμεῖς ἐμφανίσατε τῷ χιλιάρχῳ σὺν τῷ συνεδρίῳ, ὅπως αὔριον καταγάγῃ αὐτὸν εἰς ὑμᾶς ὡς μέλλοντας διαγινώσκειν ἀκριβέστερον τὰ περὶ αὐτοῦ· ἡμεῖς δὲ πρὸ τοῦ ἐγγίσαι αὐτὸν ἕτοιμοί ἐσμεν τοῦ ἀνελεῖν αὐτόν.¶"
+pericope: "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[G3568]]"
+- "[[G3767]]"
+- "[[G4771]]"
+- "[[G1718]]"
+- "[[G3588]]"
+- "[[G5506]]"
+- "[[G4862]]"
+- "[[G4892]]"
+- "[[G3704]]"
+- "[[G0839]]"
+- "[[G2609]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G5613]]"
+- "[[G3195]]"
+- "[[G1231]]"
+- "[[G0197]]"
+- "[[G4012]]"
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G4253]]"
+- "[[G1448]]"
+- "[[G2092]]"
+- "[[G1510]]"
+- "[[G0337]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Acts 23:15**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would inquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him.
 <small><sub>**BSB:**</sub></small>
 Now then, you and the Sanhedrin petition the commander to bring him down to you on the pretext of examining his case more carefully. We are ready to kill him on the way.”
-<small><sub>**Literal:**</sub></small>
-Now therefore you yourselves do make a report to the commander along with the Council, so that tomorrow he may bring down him to you as being about to examine more earnestly the [things] about him; we ourselves then before <the> drawing near of him ready we are <the> to execute him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.14|<< Acts 23:14]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.16|Acts 23:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3568\|νῦν]]  [[G3767\|οὖν]]  [[G4771\|ὑμεῖς]]  [[G1718\|ἐμφανίσατε]]  [[G3588\|τῷ]]  [[G5506\|χιλιάρχῳ]]  [[G4862\|σὺν]]  [[G3588\|τῷ]]  [[G4892\|συνεδρίῳ,]]  [[G3704\|ὅπως]]  [[G0839\|αὔριον]]  [[G2609\|καταγάγῃ]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G5613\|ὡς]]  [[G3195\|μέλλοντας]]  [[G1231\|διαγινώσκειν]]  [[G0197\|ἀκριβέστερον]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ·]]  [[G3165\|ἡμεῖς]]  [[G1161\|δὲ]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G1448\|ἐγγίσαι]]  [[G0846\|αὐτὸν]]  [[G2092\|ἕτοιμοί]]  [[G1510\|ἐσμεν]]  [[G3588\|τοῦ]]  [[G0337\|ἀνελεῖν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic VOWS|VOWS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.14|<< Acts 23:14]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.16|Acts 23:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

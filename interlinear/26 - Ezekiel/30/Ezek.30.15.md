@@ -1,8 +1,59 @@
+---
+title: Ezekiel 30:15
+type: Verse
+kjv: "And I will pour my fury upon Sin, the strength of Egypt; and I will cut off the multitude of No."
+bsb: "I will pour out My wrath on Pelusium, the stronghold of Egypt, and cut off the crowds of Thebes."
+hebrew: "וְשָׁפַכְתִּ֣י חֲמָתִ֔י עַל־ סִ֖ין מָע֣וֹז מִצְרָ֑יִם וְהִכְרַתִּ֖י אֶת־ הֲמ֥וֹן נֹֽא׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic NO|NO]]"
+- "[[topic NOPH|NOPH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5512A]]"
+- "[[H4581]]"
+- "[[H4714G]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H1995A]]"
+- "[[H4996]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:15**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will pour my fury upon Sin, the strength of Egypt; and I will cut off the multitude of No.
 <small><sub>**BSB:**</sub></small>
 I will pour out My wrath on Pelusium, the stronghold of Egypt, and cut off the crowds of Thebes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8210G\|שָׁפַכְתִּ֣י]] [[H2534\|חֲמָתִ֔]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H5512A\|סִ֖ין]] [[H4581\|מָע֣וֹז]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H1995A\|הֲמ֥וֹן]] [[H4996\|נֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NO|NO]] • [[topic NOPH|NOPH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.14|<< Ezekiel 30:14]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.16|Ezekiel 30:16 >>]]</td></tr></table>
 

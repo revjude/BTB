@@ -1,8 +1,55 @@
+---
+title: Job 8:8
+type: Verse
+kjv: "For inquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:"
+bsb: "Please inquire of past generations and consider the discoveries of their fathers."
+hebrew: "כִּֽי־ שְׁאַל־ נָ֭א לְדֹ֣ר רִישׁ֑וֹן וְ֝כוֹנֵ֗ן לְחֵ֣קֶר אֲבוֹתָֽם׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HISTORY|HISTORY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7592]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H7223H]]"
+- "[[H9002]]"
+- "[[H3559K]]"
+- "[[H2714]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:8**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For inquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
 <small><sub>**BSB:**</sub></small>
 Please inquire of past generations and consider the discoveries of their fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7592\|שְׁאַל]][[H9014\|־]] [[H4994\|נָ֭א]] [[H9005\|לְ]][[H1755\|דֹ֣ר]] [[H7223H\|רִישׁ֑וֹן]] [[H9002\|וְ֝]][[H3559K\|כוֹנֵ֗ן]] [[H9005\|לְ]][[H2714\|חֵ֣קֶר]] [[H0001G\|אֲבוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HISTORY|HISTORY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.7|<< Job 8:7]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.9|Job 8:9 >>]]</td></tr></table>
 

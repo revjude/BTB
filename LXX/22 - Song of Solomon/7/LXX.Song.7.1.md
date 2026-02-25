@@ -1,9 +1,61 @@
+---
+title: LXX Song of Solomon 7:1
+type: Verse
+lxx: "What shall you see in the Shulamite? She comes as a company of the camps. How you do beautify your footsteps in sandals, O daughter of Nabad. The proportions of your thighs are likened to pendants -- works of the hands of a craftsman."
+greek: "τι όψεσθε εν τη Σουλαμίτιδι η ερχομένη ως χορός των παρεμβολών τι ωραιώθησαν διαβήματά σου εν υποδήμασι υποδήμασι θύγατερ Ναβάδ ρυθμοί μηρών σου όμοιοι ορμίσκοις έργων χειρών τεχνίτου"
+original_language: Greek
+testament: Old
+book: Song of Solomon
+chapter: 7
+book/chapter: "[[Song.7|Song of Solomon 7]]"
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- septuagint
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[G5100]]"
+- "[[G3708]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[H7759]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G5613]]"
+- "[[G5525]]"
+- "[[G3588]]"
+- "[[G3925]]"
+- "[[G5100]]"
+- "[[G9813]]"
+- "[[G6811]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G5266]]"
+- "[[G1473]]"
+- "[[G2364]]"
+- "[[H5070]]"
+- "[[G9038]]"
+- "[[G3382]]"
+- "[[G1473]]"
+- "[[G3664]]"
+- "[[G8549]]"
+- "[[G2041]]"
+- "[[G5495]]"
+- "[[G5079]]"
+---
+
 **LXX Song of Solomon 7:1** 
 
 ***The Shulamite***
 
 <small><sub>**LXX:**</sub></small>
 What shall you see in the Shulamite? She comes as a company of the camps. How you do beautify your footsteps in sandals, O daughter of Nabad. \[The\] proportions of your thighs \[are\] likened to pendants -- works of \[the\] hands of a craftsman. 
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τι]] [[G3708\|όψεσθε]] [[G1722\|εν]] [[G3588\|τη]] [[H7759\|Σουλαμίτιδι]] [[G3588\|η]] [[G2064\|ερχομένη]] [[G5613\|ως]] [[G5525\|χορός]] [[G3588\|των]] [[G3925\|παρεμβολών]] [[G5100\|τι]] [[G9813\|ωραιώθησαν]] [[G6811\|διαβήματά]] [[G1473\|σου]] [[G1722\|εν]] [[G5266\|υποδήμασι]] <sup><small>[[G1473\| [ • ] ]]</small></sup> [[G2364\|θύγατερ]] [[H5070\|Ναβάδ]] [[G9038\|ρυθμοί]] [[G3382\|μηρών]] [[G1473\|σου]] [[G3664\|όμοιοι]] [[G8549\|ορμίσκοις]] [[G2041\|έργων]] [[G5495\|χειρών]] [[G5079\|τεχνίτου]]
 <small><sub>**MT:**</sub></small>
 [[Song.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.13|<< Song of Solomon 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.2|Song of Solomon 7:2 >>]]</td></tr></table>
 
@@ -34,6 +86,6 @@ What shall you see in the Shulamite? She comes as a company of the camps. How yo
 | works | **<big>[[G2041\|έργων]]</big>** |
 | of \[the\] hands | **<big>[[G5495\|χειρών]]</big>** |
 | of a craftsman. | **<big>[[G5079\|τεχνίτου]]</big>** |
-[[Song.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.13|<< Song of Solomon 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.2|Song of Solomon 7:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.6.13|<< Song of Solomon 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.7.2|Song of Solomon 7:2 >>]]</td></tr></table>
 
 

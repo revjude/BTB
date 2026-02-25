@@ -1,8 +1,79 @@
+---
+title: Exodus 22:9
+type: Verse
+kjv: "For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour."
+bsb: "In all cases of illegal possession of an ox, a donkey, a sheep, a garment, or any lost item that someone claims, ‘This is mine,’ both parties shall bring their cases before the judges. The one whom the judges find guilty must pay back double to his neighbor."
+hebrew: "עַֽל־ כָּל־ דְּבַר־ פֶּ֡שַׁע עַל־ שׁ֡וֹר עַל־ חֲ֠מוֹר עַל־ שֶׂ֨ה עַל־ שַׂלְמָ֜ה עַל־ כָּל־ אֲבֵדָ֗ה אֲשֶׁ֤ר יֹאמַר֙ כִּי־ ה֣וּא זֶ֔ה עַ֚ד הָֽאֱלֹהִ֔ים יָבֹ֖א דְּבַר־ שְׁנֵיהֶ֑ם אֲשֶׁ֤ר יַרְשִׁיעֻן֙ אֱלֹהִ֔ים יְשַׁלֵּ֥ם שְׁנַ֖יִם לְרֵעֵֽהוּ׃ ס"
+pericope: "[[Exod.22.1 Property Laws|Property Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic FINE|FINE]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic TRESPASS|TRESPASS]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1697L]]"
+- "[[H6588]]"
+- "[[H7794]]"
+- "[[H2543]]"
+- "[[H7716]]"
+- "[[H8008]]"
+- "[[H0009]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H2088]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0935G]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H7561]]"
+- "[[H9013]]"
+- "[[H7999A]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 22:9**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For all manner of trespass, [whether it be] for ox, for ass, for sheep, for raiment, [or] for any manner of lost thing, which [another] challengeth to be his, the cause of both parties shall come before the judges; [and] whom the judges shall condemn, he shall pay double unto his neighbour.
 <small><sub>**BSB:**</sub></small>
 In all cases of illegal possession of an ox, a donkey, a sheep, a garment, or any lost item that someone claims, ‘This is mine,’ both parties shall bring their cases before the judges. The one whom the judges find guilty must pay back double to his neighbor.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697L\|דְּבַר]][[H9014\|־]] [[H6588\|פֶּ֡שַׁע]] [[H5921A\|עַל]][[H9014\|־]] [[H7794\|שׁ֡וֹר]] [[H5921A\|עַל]][[H9014\|־]] [[H2543\|חֲ֠מוֹר]] [[H5921A\|עַל]][[H9014\|־]] [[H7716\|שֶׂ֨ה]] [[H5921A\|עַל]][[H9014\|־]] [[H8008\|שַׂלְמָ֜ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0009\|אֲבֵדָ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H0559\|יֹאמַר֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H2088\|זֶ֔ה]] [[H5704\|עַ֚ד]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H0935G\|יָבֹ֖א]] [[H1697L\|דְּבַר]][[H9014\|־]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֑ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H7561\|יַרְשִׁיעֻ]][[H9013\|ן֙]] [[H0430G\|אֱלֹהִ֔ים]] [[H7999A\|יְשַׁלֵּ֥ם]] [[H8147\|שְׁנַ֖יִם]] [[H9005\|לְ]][[H7453\|רֵעֵֽ]][[H9023\|הוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic FINE|FINE]] • [[topic JUDGE|JUDGE]] • [[topic PROPERTY|PROPERTY]] • [[topic TRESPASS|TRESPASS]] • [[topic TRUSTEE|TRUSTEE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.8|<< Exodus 22:8]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.10|Exodus 22:10 >>]]</td></tr></table>
 
@@ -38,7 +109,7 @@ In all cases of illegal possession of an ox, a donkey, a sheep, a garment, or an
 | [the] judges  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will make restitution  |**<big>&#8207;[[H7999A\|יְשַׁלֵּ֥ם]]&#8207; </big>**| ye.sha.Lem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twofold  |**<big>&#8207;[[H8147\|שְׁנַ֖יִם]]&#8207; </big>**| she.Na.yim<small><sup>[[HAcbda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to neighbor his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7453\|רֵעֵֽ]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to neighbor his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7453\|רֵעֵֽ]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.8|<< Exodus 22:8]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.10|Exodus 22:10 >>]]</td></tr></table>
 
 

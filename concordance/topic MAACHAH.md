@@ -13,7 +13,7 @@
 
 4. Also called MICHAIAH
 
-- Mother of Abijam and grandmother of Asa [[1Kgs.15.2|1Ki 15:2]],[[1Kgs.15.10|10]]-[[1Kgs.15.13|13]]; [[2Chr.11.20|2Ch 11:20]]-[[2Chr.11.23|23]]; [[2Chr.13.2|13:2]]; [[2Chr.15.16|15:16]]
+- Mother of Abijam and grandmother of Asa [[1Kgs.15.2|1Ki 15:2]],[[1Kgs.15.10|10-13]]; [[2Chr.11.20|2Ch 11:20-23]]; [[2Chr.13.2|13:2]]; [[2Chr.15.16|15:16]]
 
 5. Wife of Machir [[1Chr.7.15|1Ch 7:15]],[[1Chr.7.16|16]]
 

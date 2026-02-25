@@ -1,10 +1,55 @@
+---
+title: Matthew 8:18
+type: Verse
+kjv: "Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side."
+bsb: "When Jesus saw a large crowd around Him, He gave orders to cross to the other side of the sea."
+greek: "Ἰδὼν δὲ ὁ Ἰησοῦς πολλοὺς ὄχλον περὶ αὐτὸν ἐκέλευσεν ἀπελθεῖν εἰς τὸ πέραν."
+pericope: "[[Matt.8.18 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REST|REST]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4183]]"
+- "[[G3793]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G2753]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G4008]]"
+texts:
+- NKO
+- KO
+- N(k)O
+---
+
 **Matthew 8:18**<big><big>[[Matt.8.18 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when Jesus saw great multitudes about him, he gave commandment to depart unto the other side.
 <small><sub>**BSB:**</sub></small>
 When Jesus saw a large crowd around Him, He gave orders to cross to the other side of the sea.
-<small><sub>**Literal:**</sub></small>
-Having seen now <the> Jesus great crowd around Him He commanded to depart to the other side.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.17|<< Matthew 8:17]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.19|Matthew 8:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|Ἰδὼν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G4183\|πολλοὺς]]  [[G3793\|ὄχλον]]  [[G4012\|περὶ]]  [[G0846\|αὐτὸν]]  [[G2753\|ἐκέλευσεν]]  [[G0565\|ἀπελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4008\|πέραν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REST|REST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.17|<< Matthew 8:17]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.19|Matthew 8:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

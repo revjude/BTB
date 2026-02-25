@@ -1,8 +1,53 @@
+---
+title: Proverbs 17:12
+type: Verse
+kjv: "Let a bear robbed of her whelps meet a man, rather than a fool in his folly."
+bsb: "It is better to meet a bear robbed of her cubs than a fool in his folly."
+hebrew: "פָּג֬וֹשׁ דֹּ֣ב שַׁכּ֣וּל בְּאִ֑ישׁ וְאַל־ כְּ֝סִ֗יל בְּאִוַּלְתּֽוֹ׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BEAR|BEAR]]"
+- "[[topic COMPANY|COMPANY]]"
+strongs:
+- "[[H6298]]"
+- "[[H1677]]"
+- "[[H7909]]"
+- "[[H9003]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3684]]"
+- "[[H0200]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 17:12**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let a bear robbed of her whelps meet a man, rather than a fool in his folly.
 <small><sub>**BSB:**</sub></small>
 It is better to meet a bear robbed of her cubs than a fool in his folly.
+<small><sub>**Hebrew:**</sub></small>
+[[H6298\|פָּג֬וֹשׁ]] [[H1677\|דֹּ֣ב]] [[H7909\|שַׁכּ֣וּל]] [[H9003\|בְּ]][[H0376G\|אִ֑ישׁ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H3684\|כְּ֝סִ֗יל]] [[H9003\|בְּ]][[H0200\|אִוַּלְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAR|BEAR]] • [[topic COMPANY|COMPANY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.11|<< Proverbs 17:11]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.13|Proverbs 17:13 >>]]</td></tr></table>
 

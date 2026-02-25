@@ -1,10 +1,60 @@
+---
+title: Matthew 22:25
+type: Verse
+kjv: "Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:"
+bsb: "Now there were seven brothers among us. The first one married and died without having children. So he left his wife to his brother."
+greek: "ἦσαν δὲ παρ᾽ ἡμῖν ἑπτὰ ἀδελφοί. καὶ ὁ πρῶτος γήμας ἐτελεύτησεν, καὶ μὴ ἔχων σπέρμα ἀφῆκεν τὴν γυναῖκα αὐτοῦ τῷ ἀδελφῷ αὐτοῦ·"
+pericope: "[[Matt.22.23 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3844]]"
+- "[[G3165]]"
+- "[[G2033]]"
+- "[[G0080]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4413G]]"
+- "[[G1060]]"
+- "[[G5053]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G4690G]]"
+- "[[G0863G]]"
+- "[[G1135H]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 22:25**<big><big>[[Matt.22.23 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:
 <small><sub>**BSB:**</sub></small>
 Now there were seven brothers among us. The first one married and died without having children. So he left his wife to his brother.
-<small><sub>**Literal:**</sub></small>
-There were now among us seven brothers. and the first having married died, and not having seed he left the wife of him to the brother of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.24|<< Matthew 22:24]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.26|Matthew 22:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1161\|δὲ]]  [[G3844\|παρ᾽]]  [[G3165\|ἡμῖν]]  [[G2033\|ἑπτὰ]]  [[G0080\|ἀδελφοί.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4413G\|πρῶτος]]  [[G1060\|γήμας]]  [[G5053\|ἐτελεύτησεν,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2192\|ἔχων]]  [[G4690G\|σπέρμα]]  [[G0863G\|ἀφῆκεν]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ]]  [[G3588\|τῷ]]  [[G0080\|ἀδελφῷ]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.24|<< Matthew 22:24]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.26|Matthew 22:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

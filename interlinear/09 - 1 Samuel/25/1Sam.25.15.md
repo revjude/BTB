@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 25:15
+type: Verse
+kjv: "But the men were very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields:"
+bsb: "Yet these men were very good to us. When we were in the field, we were not harassed, and nothing of ours went missing the whole time we lived among them."
+hebrew: "וְהָ֣אֲנָשִׁ֔ים טֹבִ֥ים לָ֖נוּ מְאֹ֑ד וְלֹ֤א הָכְלַ֙מְנוּ֙ וְלֹֽא־ פָקַ֣דְנוּ מְא֔וּמָה כָּל־ יְמֵי֙ הִתְהַלַּ֣כְנוּ אִתָּ֔ם בִּֽהְיוֹתֵ֖נוּ בַּשָּׂדֶֽה׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H3966]]"
+- "[[H3808]]"
+- "[[H3637]]"
+- "[[H9014]]"
+- "[[H6485K]]"
+- "[[H3972]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H1980G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H9045]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:15**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the men [were] very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields:
 <small><sub>**BSB:**</sub></small>
 Yet these men were very good to us. When we were in the field, we were not harassed, and nothing of ours went missing the whole time we lived among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ֣]][[H0582\|אֲנָשִׁ֔ים]] [[H2896A\|טֹבִ֥ים]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H3966\|מְאֹ֑ד]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H3637\|הָכְלַ֙מְנוּ֙]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6485K\|פָקַ֣דְנוּ]] [[H3972\|מְא֔וּמָה]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵי֙]] [[H1980G\|הִתְהַלַּ֣כְנוּ]] [[H0854\|אִתָּ֔]][[H9038\|ם]] [[H9003\|בִּֽ]][[H1961\|הְיוֹתֵ֖]][[H9045\|נוּ]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic NABAL|NABAL]] • [[topic SERVANT|SERVANT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.14|<< 1 Samuel 25:14]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.16|1 Samuel 25:16 >>]]</td></tr></table>
 

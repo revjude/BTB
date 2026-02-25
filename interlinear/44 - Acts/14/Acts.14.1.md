@@ -1,10 +1,64 @@
+---
+title: Acts 14:1
+type: Verse
+kjv: "And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed."
+bsb: "At Iconium, Paul and Barnabas went as usual into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed."
+greek: "Ἐγένετο δὲ ἐν Ἰκονίῳ κατὰ τὸ αὐτὸ εἰσελθεῖν αὐτοὺς εἰς τὴν συναγωγὴν τῶν Ἰουδαίων καὶ λαλῆσαι οὕτως ὥστε πιστεῦσαι Ἰουδαίων τε καὶ Ἑλλήνων πολὺ πλῆθος."
+pericope: "[[Acts.14.1 Paul and Barnabas at Iconium|Paul and Barnabas at Iconium]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic ICONIUM|ICONIUM]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G2430]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G4864]]"
+- "[[G2453]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G3779]]"
+- "[[G5620]]"
+- "[[G4100]]"
+- "[[G5037]]"
+- "[[G1672]]"
+- "[[G4183]]"
+- "[[G4128]]"
+texts:
+- NKO
+---
+
 **Acts 14:1**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass in Iconium, that they went both together into the synagogue of the Jews, and so spake, that a great multitude both of the Jews and also of the Greeks believed.
 <small><sub>**BSB:**</sub></small>
 At Iconium, Paul and Barnabas went as usual into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed.
-<small><sub>**Literal:**</sub></small>
-It came to pass now in Iconium according to the same entering they into the synagogue of the Jews and speaking so that to believe of Jews both and Greeks a great number.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.52|<< Acts 13:52]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.2|Acts 14:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G2430\|Ἰκονίῳ]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G1525\|εἰσελθεῖν]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4864\|συναγωγὴν]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G2532\|καὶ]]  [[G2980\|λαλῆσαι]]  [[G3779\|οὕτως]]  [[G5620\|ὥστε]]  [[G4100\|πιστεῦσαι]]  [[G2453\|Ἰουδαίων]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1672\|Ἑλλήνων]]  [[G4183\|πολὺ]]  [[G4128\|πλῆθος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic ICONIUM|ICONIUM]] • [[topic PAUL|PAUL]] • [[topic REVIVALS|REVIVALS]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.52|<< Acts 13:52]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.2|Acts 14:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

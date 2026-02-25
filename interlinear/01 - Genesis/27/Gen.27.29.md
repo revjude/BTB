@@ -1,8 +1,74 @@
+---
+title: Genesis 27:29
+type: Verse
+kjv: "Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother’s sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee."
+bsb: "May peoples serve you and nations bow down to you. May you be the master of your brothers, and may the sons of your mother bow down to you. May those who curse you be cursed, and those who bless you be blessed.”"
+hebrew: "יַֽעַבְד֣וּךָ עַמִּ֗ים וְיִֽשְׁתַּחֲו֤וּ לְךָ֙ לְאֻמִּ֔ים הֱוֵ֤ה גְבִיר֙ לְאַחֶ֔יךָ וְיִשְׁתַּחֲוּ֥וּ לְךָ֖ בְּנֵ֣י אִמֶּ֑ךָ אֹרְרֶ֣יךָ אָר֔וּר וּֽמְבָרֲכֶ֖יךָ בָּרֽוּךְ׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SALUTATIONS|SALUTATIONS]]"
+strongs:
+- "[[H5647G]]"
+- "[[H9031]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H3816]]"
+- "[[H1933B]]"
+- "[[H1376]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H1121A]]"
+- "[[H0517]]"
+- "[[H0779]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Genesis 27:29**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother’s sons bow down to thee: cursed [be] every one that curseth thee, and blessed [be] he that blesseth thee.
 <small><sub>**BSB:**</sub></small>
 May peoples serve you and nations bow down to you. May you be the master of your brothers, and may the sons of your mother bow down to you. May those who curse you be cursed, and those who bless you be blessed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5647G\|יַֽעַבְד֣וּ]][[H9031\|ךָ]] [[H5971A\|עַמִּ֗ים]] [[H9002\|וְ]][[H7812\|יִֽשְׁתַּחֲו֤וּ]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H3816\|לְאֻמִּ֔ים]] [[H1933B\|הֱוֵ֤ה]] [[H1376\|גְבִיר֙]] [[H9005\|לְ]][[H0251G\|אַחֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H7812\|יִשְׁתַּחֲוּ֥וּ]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H1121A\|בְּנֵ֣י]] [[H0517\|אִמֶּ֑]][[H9021\|ךָ]] [[H0779\|אֹרְרֶ֣י]][[H9031\|ךָ]] [[H0779\|אָר֔וּר]] [[H9002\|וּֽ]][[H1288\|מְבָרֲכֶ֖י]][[H9031\|ךָ]] [[H1288\|בָּרֽוּךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic BLESSING|BLESSING]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DEATH|DEATH]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EDOMITES|EDOMITES]] • [[topic FAMILY|FAMILY]] • [[topic ISAAC|ISAAC]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic RULERS|RULERS]] • [[topic SALUTATIONS|SALUTATIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.28|<< Genesis 27:28]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.30|Genesis 27:30 >>]]</td></tr></table>
 
@@ -26,7 +92,7 @@ May peoples serve you and nations bow down to you. May you be the master of your
 | [be] blessed  |**<big>&#8207;[[H1288\|בָּרֽוּךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.Rukh<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.28|<< Genesis 27:28]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.30|Genesis 27:30 >>]]</td></tr></table>
 
-[^1]: and may it bow down  | **<big>[[H7812|יִשְׁתַּחוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yish.ta.chu<small><sup>[[HVvu3ms]]</sup></small> | K
-[^2]: and may it bow down  | **<big>[[H7812|יִשְׁתַּחוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yish.ta.chu<small><sup>[[HVvu3ms]]</sup></small> | K
+[^1]: and may it bow down  | **<big>[[H9002|וְ]]</big><big>[[H7812|יִשְׁתַּחוּ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yish.ta.chu<small><sup>[[HVvu3ms]]</sup></small> | K
+[^2]: and may it bow down  | **<big>[[H9002|וְ]]</big><big>[[H7812|יִשְׁתַּחוּ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yish.ta.chu<small><sup>[[HVvu3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְיִֽשְׁתַּחֲוֻ֤</big></span>**
 

@@ -1,8 +1,76 @@
+---
+title: Isaiah 30:6
+type: Verse
+kjv: "The burden of the beasts of the south: into the land of trouble and anguish, from whence come the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people that shall not profit them."
+bsb: "This is the burden against the beasts of the Negev: Through a land of hardship and distress, of lioness and lion, of viper and flying serpent, they carry their wealth on the backs of donkeys and their treasures on the humps of camels, to a people of no profit to them."
+hebrew: "מַשָּׂ֖א בַּהֲמ֣וֹת נֶ֑גֶב בְּאֶרֶץ֩ צָרָ֨ה וְצוּקָ֜ה לָבִ֧יא וָלַ֣יִשׁ מֵהֶ֗ם אֶפְעֶה֙ וְשָׂרָ֣ף מְעוֹפֵ֔ף יִשְׂאוּ֩ עַל־ כֶּ֨תֶף עֲיָרִ֜ים חֵֽילֵהֶ֗ם וְעַל־ דַּבֶּ֤שֶׁת גְּמַלִּים֙ אֽוֹצְרֹתָ֔ם עַל־ עַ֖ם לֹ֥א יוֹעִֽילוּ׃"
+pericope: "[[Isa.30.1 The Worthless Treaty with Egypt|The Worthless Treaty with Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic VIPER|VIPER]]"
+strongs:
+- "[[H4853B]]"
+- "[[H0929]]"
+- "[[H5045G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H6869B]]"
+- "[[H9002]]"
+- "[[H6695B]]"
+- "[[H3833C]]"
+- "[[H3918]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H0660]]"
+- "[[H8314A]]"
+- "[[H5774A]]"
+- "[[H5375H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3802]]"
+- "[[H5895]]"
+- "[[H2428H]]"
+- "[[H9028]]"
+- "[[H1707]]"
+- "[[H1581]]"
+- "[[H0214]]"
+- "[[H5971A]]"
+- "[[H3808]]"
+- "[[H3276]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 30:6**<big><big>[[Isa.30.1 The Worthless Treaty with Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of the beasts of the south: into the land of trouble and anguish, from whence [come] the young and old lion, the viper and fiery flying serpent, they will carry their riches upon the shoulders of young asses, and their treasures upon the bunches of camels, to a people [that] shall not profit [them].
 <small><sub>**BSB:**</sub></small>
 This is the burden against the beasts of the Negev: Through a land of hardship and distress, of lioness and lion, of viper and flying serpent, they carry their wealth on the backs of donkeys and their treasures on the humps of camels, to a people of no profit to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֖א]] [[H0929\|בַּהֲמ֣וֹת]] [[H5045G\|נֶ֑גֶב]] [[H9003\|בְּ]][[H0776G\|אֶרֶץ֩]] [[H6869B\|צָרָ֨ה]] [[H9002\|וְ]][[H6695B\|צוּקָ֜ה]] [[H3833C\|לָבִ֧יא]] [[H9002\|וָ]][[H3918\|לַ֣יִשׁ]] [[H9006\|מֵ]][[H9038\|הֶ֗ם]] [[H0660\|אֶפְעֶה֙]] [[H9002\|וְ]][[H8314A\|שָׂרָ֣ף]] [[H5774A\|מְעוֹפֵ֔ף]] [[H5375H\|יִשְׂאוּ֩]] [[H5921A\|עַל]][[H9014\|־]] [[H3802\|כֶּ֨תֶף]] [[H5895\|עֲיָרִ֜ים]] [[H2428H\|חֵֽילֵ]][[H9028\|הֶ֗ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1707\|דַּבֶּ֤שֶׁת]] [[H1581\|גְּמַלִּים֙]] [[H0214\|אֽוֹצְרֹתָ֔]][[H9028\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַ֖ם]] [[H3808\|לֹ֥א]] [[H3276\|יוֹעִֽילוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic CAMEL|CAMEL]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SERPENT|SERPENT]] • [[topic VIPER|VIPER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.5|<< Isaiah 30:5]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.7|Isaiah 30:7 >>]]</td></tr></table>
 

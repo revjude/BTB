@@ -1,8 +1,67 @@
+---
+title: 2 Kings 13:12
+type: Verse
+kjv: "And the rest of the acts of Joash, and all that he did, and his might wherewith he fought against Amaziah king of Judah, are they not written in the book of the chronicles of the kings of Israel?"
+bsb: "As for the rest of the acts of Jehoash, along with all his accomplishments and his might, including his war against Amaziah king of Judah, are they not written in the Book of the Chronicles of the Kings of Israel?"
+hebrew: "וְיֶ֨תֶר דִּבְרֵ֤י יוֹאָשׁ֙ וְכָל־ אֲשֶׁ֣ר עָשָׂ֔ה וּגְב֣וּרָת֔וֹ אֲשֶׁ֣ר נִלְחַ֔ם עִ֖ם אֲמַצְיָ֣ה מֶֽלֶךְ־ יְהוּדָ֑ה הֲלֽוֹא־ הֵ֣ם כְּתוּבִ֗ים עַל־ סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.13.10 Jehoash Reigns in Israel|Jehoash Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JEHOASH|JEHOASH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H3101J]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H1369]]"
+- "[[H9023]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H0558G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 13:12**<big><big>[[2Kgs.13.10 Jehoash Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the acts of Joash, and all that he did, and his might wherewith he fought against Amaziah king of Judah, [are] they not written in the book of the chronicles of the kings of Israel?
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Jehoash, along with all his accomplishments and his might, including his war against Amaziah king of Judah, are they not written in the Book of the Chronicles of the Kings of Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֨תֶר]] [[H1697K\|דִּבְרֵ֤י]] [[H3101J\|יוֹאָשׁ֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֔ה]] [[H9002\|וּ]][[H1369\|גְב֣וּרָת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H3898A\|נִלְחַ֔ם]] [[H5973A\|עִ֖ם]] [[H0558G\|אֲמַצְיָ֣ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H9008\|הֲ]][[H3808\|לֽוֹא]][[H9014\|־]] [[H1992\|הֵ֣ם]] [[H3789\|כְּתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֛פֶר]] [[H1697O\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOASH|JEHOASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.11|<< 2 Kings 13:11]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.13|2 Kings 13:13 >>]]</td></tr></table>
 

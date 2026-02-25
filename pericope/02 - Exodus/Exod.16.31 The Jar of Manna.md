@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Jar of Manna
+type: Pericope
 pericope: "[[Exod.16.31 The Jar of Manna|The Jar of Manna]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 16
 book/chapter: "[[Exod.16|Exodus 16]]"
-genre:
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.16.31]]"
 - "[[Exod.16.32]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.16.36]]"
 ---
 
-[[Exod.16|Exodus 16:31 - Exodus 16:36]]
+<small>[[Exod.16|Exodus 16:31-36]]</small>
 *The Jar of Manna*
 
 [[Exod.16.31|31]] And the house of Israel called the name thereof Manna: and it \[was\] like coriander seed, white; and the taste of it \[was\] like wafers \[made\] with honey.

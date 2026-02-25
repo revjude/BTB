@@ -1,8 +1,65 @@
+---
+title: Judges 9:1
+type: Verse
+kjv: "And Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and communed with them, and with all the family of the house of his mother’s father, saying,"
+bsb: "Now Abimelech son of Jerubbaal went to his mother’s brothers at Shechem and said to them and to all the clan of his mother,"
+hebrew: "וַיֵּ֨לֶךְ אֲבִימֶ֤לֶךְ בֶּן־ יְרֻבַּ֙עַל֙ שְׁכֶ֔מָה אֶל־ אֲחֵ֖י אִמּ֑וֹ וַיְדַבֵּ֣ר אֲלֵיהֶ֔ם וְאֶל־ כָּל־ מִשְׁפַּ֛חַת בֵּית־ אֲבִ֥י אִמּ֖וֹ לֵאמֹֽר׃"
+pericope: "[[Judg.9.1 Abimelech’s Conspiracy|Abimelech’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0040H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3378]]"
+- "[[H7927G]]"
+- "[[H9011]]"
+- "[[H0413]]"
+- "[[H0251H]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H1696G]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H4940]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:1**<big><big>[[Judg.9.1 Abimelech’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech the son of Jerubbaal went to Shechem unto his mother’s brethren, and communed with them, and with all the family of the house of his mother’s father, saying,
 <small><sub>**BSB:**</sub></small>
 Now Abimelech son of Jerubbaal went to his mother’s brothers at Shechem and said to them and to all the clan of his mother,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H0040H\|אֲבִימֶ֤לֶךְ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3378\|יְרֻבַּ֙עַל֙]] [[H7927G\|שְׁכֶ֔מָ]][[H9011\|ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0251H\|אֲחֵ֖י]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4940\|מִשְׁפַּ֛חַת]] [[H1004M\|בֵּית]][[H9014\|־]] [[H0001G\|אֲבִ֥י]] [[H0517\|אִמּ֖]][[H9023\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.35|<< Judges 8:35]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.2|Judges 9:2 >>]]</td></tr></table>
 

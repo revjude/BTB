@@ -1,8 +1,55 @@
+---
+title: Judges 21:17
+type: Verse
+kjv: "And they said, There must be an inheritance for them that be escaped of Benjamin, that a tribe be not destroyed out of Israel."
+bsb: "They added, “There must be heirs for the survivors of Benjamin, so that a tribe of Israel will not be wiped out."
+hebrew: "וַיֹּ֣אמְר֔וּ יְרֻשַּׁ֥ת פְּלֵיטָ֖ה לְבִנְיָמִ֑ן וְלֹֽא־ יִמָּחֶ֥ה שֵׁ֖בֶט מִיִּשְׂרָאֵֽל׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3425]]"
+- "[[H6413]]"
+- "[[H9005]]"
+- "[[H1144G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4229A]]"
+- "[[H7626H]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:17**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, [There must be] an inheritance for them that be escaped of Benjamin, that a tribe be not destroyed out of Israel.
 <small><sub>**BSB:**</sub></small>
 They added, “There must be heirs for the survivors of Benjamin, so that a tribe of Israel will not be wiped out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H3425\|יְרֻשַּׁ֥ת]] [[H6413\|פְּלֵיטָ֖ה]] [[H9005\|לְ]][[H1144G\|בִנְיָמִ֑ן]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4229A\|יִמָּחֶ֥ה]] [[H7626H\|שֵׁ֖בֶט]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.16|<< Judges 21:16]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.18|Judges 21:18 >>]]</td></tr></table>
 

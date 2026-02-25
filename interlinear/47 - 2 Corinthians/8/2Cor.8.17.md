@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 8:17
+type: Verse
+kjv: "For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you."
+bsb: "For not only did he welcome our appeal, but he is eagerly coming to you of his own volition."
+greek: "ὅτι τὴν μὲν παράκλησιν ἐδέξατο, σπουδαιότερος δὲ ὑπάρχων αὐθαίρετος ἐξῆλθεν πρὸς ὑμᾶς."
+pericope: "[[2Cor.8.16 Titus Commended|Titus Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3874]]"
+- "[[G1209]]"
+- "[[G4705]]"
+- "[[G1161]]"
+- "[[G5225]]"
+- "[[G0830]]"
+- "[[G1831]]"
+- "[[G4314]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 8:17**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.
 <small><sub>**BSB:**</sub></small>
 For not only did he welcome our appeal, but he is eagerly coming to you of his own volition.
-<small><sub>**Literal:**</sub></small>
-For <the> indeed [our] appeal he accepted, very earnest however being of his own accord he has gone out to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.16|<< 2 Corinthians 8:16]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.18|2 Corinthians 8:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|τὴν]]  [[G3303\|μὲν]]  [[G3874\|παράκλησιν]]  [[G1209\|ἐδέξατο,]]  [[G4705\|σπουδαιότερος]]  [[G1161\|δὲ]]  [[G5225\|ὑπάρχων]]  [[G0830\|αὐθαίρετος]]  [[G1831\|ἐξῆλθεν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORINTH|CORINTH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.16|<< 2 Corinthians 8:16]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.18|2 Corinthians 8:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

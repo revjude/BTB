@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Drought, Famine, Sword, and Plague
+type: Pericope
 pericope: "[[Jer.14.1 Drought, Famine, Sword, and Plague|Drought, Famine, Sword, and Plague]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 14
 book/chapter: "[[Jer.14|Jeremiah 14]]"
-genre:
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 18
 verses:
 - "[[Jer.14.1]]"
 - "[[Jer.14.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Jer.14.18]]"
 ---
 
-[[Jer.14|Jeremiah 14:1 - Jeremiah 14:18]]
+<small>[[Jer.14|Jeremiah 14:1-18]]</small>
 *Drought, Famine, Sword, and Plague*
 
 [[Jer.14.1|1]] The word of the LORD that came to Jeremiah concerning the dearth.

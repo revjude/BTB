@@ -1,10 +1,61 @@
+---
+title: 1 Thessalonians 4:14
+type: Verse
+kjv: "For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him."
+bsb: "For since we believe that Jesus died and rose again, we also believe that God will bring with Jesus those who have fallen asleep in Him."
+greek: "εἰ γὰρ πιστεύομεν ὅτι Ἰησοῦς ἀπέθανεν καὶ ἀνέστη, οὕτως καὶ ὁ θεὸς τοὺς κοιμηθέντας διὰ τοῦ Ἰησοῦ ἄξει σὺν αὐτῷ.¶"
+pericope: "[[1Thess.4.13 The Return of the Lord|The Return of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SLEEP|SLEEP]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G0599]]"
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G3779]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2837]]"
+- "[[G1223]]"
+- "[[G0071]]"
+- "[[G4862]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 4:14**<big><big>[[1Thess.4.13 The Return of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if we believe that Jesus died and rose again, even so them also which sleep in Jesus will God bring with him.
 <small><sub>**BSB:**</sub></small>
 For since we believe that Jesus died and rose again, we also believe that God will bring with Jesus those who have fallen asleep in Him.
-<small><sub>**Literal:**</sub></small>
-If for we believe that Jesus died and rose again, so also <the> God those having fallen asleep through <the> Jesus will bring with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.13|<< 1 Thessalonians 4:13]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.15|1 Thessalonians 4:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G4100\|πιστεύομεν]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G0599\|ἀπέθανεν]]  [[G2532\|καὶ]]  [[G0450\|ἀνέστη,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τοὺς]]  [[G2837\|κοιμηθέντας]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G0071\|ἄξει]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SLEEP|SLEEP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.13|<< 1 Thessalonians 4:13]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.15|1 Thessalonians 4:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

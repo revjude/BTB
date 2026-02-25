@@ -1,8 +1,64 @@
+---
+title: Joshua 17:6
+type: Verse
+kjv: "Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh’s sons had the land of Gilead."
+bsb: "because the daughters of Manasseh received an inheritance among his sons. And the land of Gilead belonged to the rest of the sons of Manasseh."
+hebrew: "כִּ֚י בְּנ֣וֹת מְנַשֶּׁ֔ה נָחֲל֥וּ נַחֲלָ֖ה בְּת֣וֹךְ בָּנָ֑יו וְאֶ֙רֶץ֙ הַגִּלְעָ֔ד הָיְתָ֥ה לִבְנֵֽי־ מְנַשֶּׁ֖ה הַנּֽוֹתָרִֽים׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZELOPHEHAD|ZELOPHEHAD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1323G]]"
+- "[[H4519G]]"
+- "[[H5157]]"
+- "[[H5159]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H1568G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H3498]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:6**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh’s sons had the land of Gilead.
 <small><sub>**BSB:**</sub></small>
 because the daughters of Manasseh received an inheritance among his sons. And the land of Gilead belonged to the rest of the sons of Manasseh.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H1323G\|בְּנ֣וֹת]] [[H4519G\|מְנַשֶּׁ֔ה]] [[H5157\|נָחֲל֥וּ]] [[H5159\|נַחֲלָ֖ה]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H1121A\|בָּנָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0776G\|אֶ֙רֶץ֙]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֔ד]] [[H1961\|הָיְתָ֥ה]] [[H9005\|לִ]][[H1121A\|בְנֵֽי]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֖ה]] [[H9009\|הַ]][[H3498\|נּֽוֹתָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER|DAUGHTER]] • [[topic HEIR|HEIR]] • [[topic ISRAEL|ISRAEL]] • [[topic MANASSEH|MANASSEH]] • [[topic NOAH|NOAH]] • [[topic WOMEN|WOMEN]] • [[topic ZELOPHEHAD|ZELOPHEHAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.5|<< Joshua 17:5]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.7|Joshua 17:7 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Judges 19:2
+type: Verse
+kjv: "And his concubine played the whore against him, and went away from him unto her father’s house to Bethlehemjudah, and was there four whole months."
+bsb: "But she was unfaithful to him and left him to return to her father’s house in Bethlehem in Judah. After she had been there four months,"
+hebrew: "וַתִּזְנֶ֤ה עָלָיו֙ פִּֽילַגְשׁ֔וֹ וַתֵּ֤לֶךְ מֵֽאִתּוֹ֙ אֶל־ בֵּ֣ית אָבִ֔יהָ אֶל־ בֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַתְּהִי־ שָׁ֕ם יָמִ֖ים אַרְבָּעָ֥ה חֳדָשִֽׁים׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic FRIENDS|FRIENDS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2181]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6370]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H0001G]]"
+- "[[H9024]]"
+- "[[H1035G]]"
+- "[[H3063G]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H3117G]]"
+- "[[H0702]]"
+- "[[H2320G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:2**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his concubine played the whore against him, and went away from him unto her father’s house to Bethlehemjudah, and was there four whole months.
 <small><sub>**BSB:**</sub></small>
 But she was unfaithful to him and left him to return to her father’s house in Bethlehem in Judah. After she had been there four months,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2181\|תִּזְנֶ֤ה]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H6370\|פִּֽילַגְשׁ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H1980G\|תֵּ֤לֶךְ]] [[H9006\|מֵֽ]][[H0854\|אִתּ]][[H9033\|וֹ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H0001G\|אָבִ֔י]][[H9024\|הָ]] [[H0413\|אֶל]][[H9014\|־]] [[H1035G\|בֵּ֥ית]] [[H1035G\|לֶ֖חֶם]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H1961\|תְּהִי]][[H9014\|־]] [[H8033G\|שָׁ֕ם]] [[H3117G\|יָמִ֖ים]] [[H0702\|אַרְבָּעָ֥ה]] [[H2320G\|חֳדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic FRIENDS|FRIENDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.1|<< Judges 19:1]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.3|Judges 19:3 >>]]</td></tr></table>
 

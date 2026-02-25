@@ -1,8 +1,57 @@
+---
+title: Job 20:12
+type: Verse
+kjv: "Though wickedness be sweet in his mouth, though he hide it under his tongue;"
+bsb: "Though evil is sweet in his mouth and he conceals it under his tongue,"
+hebrew: "אִם־ תַּמְתִּ֣יק בְּפִ֣יו רָעָ֑ה יַ֝כְחִידֶ֗נָּה תַּ֣חַת לְשׁוֹנֽוֹ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4985]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H7451I]]"
+- "[[H3582]]"
+- "[[H9034]]"
+- "[[H8478G]]"
+- "[[H3956G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:12**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though wickedness be sweet in his mouth, [though] he hide it under his tongue;
 <small><sub>**BSB:**</sub></small>
 Though evil is sweet in his mouth and he conceals it under his tongue,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H4985\|תַּמְתִּ֣יק]] [[H9003\|בְּ]][[H6310G\|פִ֣י]][[H9023\|ו]] [[H7451I\|רָעָ֑ה]] [[H3582\|יַ֝כְחִידֶ֗]][[H9034\|נָּה]] [[H8478G\|תַּ֣חַת]] [[H3956G\|לְשׁוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic PLEASURE|PLEASURE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.11|<< Job 20:11]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.13|Job 20:13 >>]]</td></tr></table>
 

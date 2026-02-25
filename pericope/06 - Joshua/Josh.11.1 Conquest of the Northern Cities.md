@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Conquest of the Northern Cities
+type: Pericope
 pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 11
 book/chapter: "[[Josh.11|Joshua 11]]"
-genre:
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 15
 verses:
 - "[[Josh.11.1]]"
 - "[[Josh.11.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Josh.11.15]]"
 ---
 
-[[Josh.11|Joshua 11:1 - Joshua 11:15]]
+<small>[[Josh.11|Joshua 11:1-15]]</small>
 *Conquest of the Northern Cities*
 
 [[Josh.11.1|1]] And it came to pass, when Jabin king of Hazor had heard \[those things\], that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,

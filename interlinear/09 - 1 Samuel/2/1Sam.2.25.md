@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 2:25
+type: Verse
+kjv: "If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them."
+bsb: "If a man sins against another man, God can intercede for him; but if a man sins against the LORD, who can intercede for him?” But they would not listen to their father, since the LORD intended to put them to death."
+hebrew: "אִם־ יֶחֱטָ֨א אִ֤ישׁ לְאִישׁ֙ וּפִֽלְל֣וֹ אֱלֹהִ֔ים וְאִ֤ם לַֽיהוָה֙ יֶֽחֱטָא־ אִ֔ישׁ מִ֖י יִתְפַּלֶּל־ ל֑וֹ וְלֹ֤א יִשְׁמְעוּ֙ לְק֣וֹל אֲבִיהֶ֔ם כִּֽי־ חָפֵ֥ץ יְהוָ֖ה לַהֲמִיתָֽם׃"
+pericope: "[[1Sam.2.12 Eli’s Wicked Sons|Eli’s Wicked Sons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2398]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H9001]]"
+- "[[H6419]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H4310]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H2654A]]"
+- "[[H4191]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:25**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall intreat for him? Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them.
 <small><sub>**BSB:**</sub></small>
 If a man sins against another man, God can intercede for him; but if a man sins against the LORD, who can intercede for him?” But they would not listen to their father, since the LORD intended to put them to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2398\|יֶחֱטָ֨א]] [[H0376G\|אִ֤ישׁ]] [[H9005\|לְ]][[H0376G\|אִישׁ֙]] [[H9001\|וּ]][[H6419\|פִֽלְל֣]][[H9033\|וֹ]] [[H0430G\|אֱלֹהִ֔ים]] [[H9002\|וְ]][[H0518A\|אִ֤ם]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H2398\|יֶֽחֱטָא]][[H9014\|־]] [[H0376G\|אִ֔ישׁ]] [[H4310\|מִ֖י]] [[H6419\|יִתְפַּלֶּל]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8085G\|יִשְׁמְעוּ֙]] [[H9005\|לְ]][[H6963A\|ק֣וֹל]] [[H0001G\|אֲבִי]][[H9028\|הֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2654A\|חָפֵ֥ץ]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לַ]][[H4191\|הֲמִיתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic ELI|ELI]] • [[topic HOPHNI|HOPHNI]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JUDGE|JUDGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic PREDESTINATION|PREDESTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.24|<< 1 Samuel 2:24]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.26|1 Samuel 2:26 >>]]</td></tr></table>
 

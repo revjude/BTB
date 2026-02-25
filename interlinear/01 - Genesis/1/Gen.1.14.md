@@ -1,8 +1,69 @@
+---
+title: Genesis 1:14
+type: Verse
+kjv: "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:"
+bsb: "And God said, “Let there be lights in the expanse of the sky to distinguish between the day and the night, and let them be signs to mark the seasons and days and years."
+hebrew: "וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים וּלְיָמִ֖ים וְשָׁנִֽים׃"
+pericope: "[[Gen.1.14 The Fourth Day|The Fourth Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FIRMAMENT|FIRMAMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SEASONS|SEASONS]]"
+- "[[topic SUN|SUN]]"
+- "[[topic TIME|TIME]]"
+- "[[topic TOKEN|TOKEN]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H1961]]"
+- "[[H3974]]"
+- "[[H9003]]"
+- "[[H7549]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9005]]"
+- "[[H0914]]"
+- "[[H0996G]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H0226H]]"
+- "[[H4150G]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:14**<big><big>[[Gen.1.14 The Fourth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:
 <small><sub>**BSB:**</sub></small>
 And God said, “Let there be lights in the expanse of the sky to distinguish between the day and the night, and let them be signs to mark the seasons and days and years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0430G\|אֱלֹהִ֗ים]] [[H1961\|יְהִ֤י]] [[H3974\|מְאֹרֹת֙]] [[H9003\|בִּ]][[H7549\|רְקִ֣יעַ]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9005\|לְ]][[H0914\|הַבְדִּ֕יל]] [[H0996G\|בֵּ֥ין]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H3915\|לָּ֑יְלָה]] [[H9001\|וְ]][[H1961\|הָי֤וּ]] [[H9005\|לְ]][[H0226H\|אֹתֹת֙]] [[H9002\|וּ]][[H9005\|לְ]][[H4150G\|מ֣וֹעֲדִ֔ים]] [[H9002\|וּ]][[H9005\|לְ]][[H3117G\|יָמִ֖ים]] [[H9002\|וְ]][[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRMAMENT|FIRMAMENT]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SEASONS|SEASONS]] • [[topic SUN|SUN]] • [[topic TIME|TIME]] • [[topic TOKEN|TOKEN]] • [[topic YEAR|YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.13|<< Genesis 1:13]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.15|Genesis 1:15 >>]]</td></tr></table>
 

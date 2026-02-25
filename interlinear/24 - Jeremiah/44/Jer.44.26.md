@@ -1,8 +1,73 @@
+---
+title: Jeremiah 44:26
+type: Verse
+kjv: "Therefore hear ye the word of the LORD, all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the LORD, that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord GOD liveth."
+bsb: "Nevertheless, hear the word of the LORD, all you people of Judah living in Egypt: Behold, I have sworn by My great name, says the LORD, that never again will any man of Judah living in the land of Egypt invoke My name or say, ‘As surely as the Lord GOD lives.’"
+hebrew: "לָכֵן֙ שִׁמְע֣וּ דְבַר־ יְהוָ֔ה כָּל־ יְהוּדָ֕ה הַיֹּשְׁבִ֖ים בְּאֶ֣רֶץ מִצְרָ֑יִם הִנְנִ֨י נִשְׁבַּ֜עְתִּי בִּשְׁמִ֤י הַגָּדוֹל֙ אָמַ֣ר יְהוָ֔ה אִם־ יִהְיֶה֩ ע֨וֹד שְׁמִ֜י נִקְרָ֣א׀ בְּפִ֣י׀ כָּל־ אִ֣ישׁ יְהוּדָ֗ה אֹמֵ֛ר חַי־ אֲדֹנָ֥י יְהוִ֖ה בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Jer.44.20 Calamity for the Jews|Calamity for the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7650]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H1419A]]"
+- "[[H0559]]"
+- "[[H0518H]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H7121G]]"
+- "[[H9015]]"
+- "[[H6310G]]"
+- "[[H0376G]]"
+- "[[H2416A]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:26**<big><big>[[Jer.44.20 Calamity for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hear ye the word of the LORD, all Judah that dwell in the land of Egypt; Behold, I have sworn by my great name, saith the LORD, that my name shall no more be named in the mouth of any man of Judah in all the land of Egypt, saying, The Lord GOD liveth.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, hear the word of the LORD, all you people of Judah living in Egypt: Behold, I have sworn by My great name, says the LORD, that never again will any man of Judah living in the land of Egypt invoke My name or say, ‘As surely as the Lord GOD lives.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֙]] [[H8085G\|שִׁמְע֣וּ]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H3063G\|יְהוּדָ֕ה]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֖ים]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H7650\|נִשְׁבַּ֜עְתִּי]] [[H9003\|בִּ]][[H8034\|שְׁמִ֤]][[H9020\|י]] [[H9009\|הַ]][[H1419A\|גָּדוֹל֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0518H\|אִם]][[H9014\|־]] [[H1961\|יִהְיֶה֩]] [[H5750\|ע֨וֹד]] [[H8034\|שְׁמִ֜]][[H9020\|י]] [[H7121G\|נִקְרָ֣א]][[H9015\|׀]] [[H9003\|בְּ]][[H6310G\|פִ֣י]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֗ה]] [[H0559\|אֹמֵ֛ר]] [[H2416A\|חַי]][[H9014\|־]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִ֖ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.25|<< Jeremiah 44:25]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.27|Jeremiah 44:27 >>]]</td></tr></table>
 

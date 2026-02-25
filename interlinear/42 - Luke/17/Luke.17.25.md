@@ -1,10 +1,54 @@
+---
+title: Luke 17:25
+type: Verse
+kjv: "But first must he suffer many things, and be rejected of this generation."
+bsb: "But first He must suffer many things and be rejected by this generation."
+jesus_said: "But first must he suffer many things, and be rejected of this generation."
+greek: "Πρῶτον δὲ δεῖ αὐτὸν πολλὰ παθεῖν καὶ ἀποδοκιμασθῆναι ἀπὸ τῆς γενεᾶς ταύτης.¶"
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4413G]]"
+- "[[G1161]]"
+- "[[G1163]]"
+- "[[G0846]]"
+- "[[G4183]]"
+- "[[G3958]]"
+- "[[G2532]]"
+- "[[G0593]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1074]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Luke 17:25**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But first must he suffer many things, and be rejected of this generation.
 <small><sub>**BSB:**</sub></small>
 But first He must suffer many things and be rejected by this generation.
-<small><sub>**Literal:**</sub></small>
-First however it behooves Him many things to suffer and to be rejected by <the> generation this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.24|<< Luke 17:24]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.26|Luke 17:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4413G\|Πρῶτον]]  [[G1161\|δὲ]]  [[G1163\|δεῖ]]  [[G0846\|αὐτὸν]]  [[G4183\|πολλὰ]]  [[G3958\|παθεῖν]]  [[G2532\|καὶ]]  [[G0593\|ἀποδοκιμασθῆναι]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1074\|γενεᾶς]]  [[G3778\|ταύτης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.24|<< Luke 17:24]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.26|Luke 17:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

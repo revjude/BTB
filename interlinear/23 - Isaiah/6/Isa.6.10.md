@@ -1,8 +1,73 @@
+---
+title: Isaiah 6:10
+type: Verse
+kjv: "Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed."
+bsb: "Make the hearts of this people calloused; deafen their ears and close their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn and be healed.”"
+hebrew: "הַשְׁמֵן֙ לֵב־ הָעָ֣ם הַזֶּ֔ה וְאָזְנָ֥יו הַכְבֵּ֖ד וְעֵינָ֣יו הָשַׁ֑ע פֶּן־ יִרְאֶ֨ה בְעֵינָ֜יו וּבְאָזְנָ֣יו יִשְׁמָ֗ע וּלְבָב֥וֹ יָבִ֛ין וָשָׁ֖ב וְרָ֥פָא לֽוֹ׃"
+pericope: "[[Isa.6.1 Isaiah’s Commission|Isaiah’s Commission]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 6
+book/chapter: "[[Isa.6|Isaiah 6]]"
+chronological_order: 614
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEAFNESS|DEAFNESS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H8080]]"
+- "[[H3820A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H0241G]]"
+- "[[H9023]]"
+- "[[H3513H]]"
+- "[[H5869A]]"
+- "[[H8173A]]"
+- "[[H6435]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H8085G]]"
+- "[[H3824]]"
+- "[[H0995]]"
+- "[[H9001]]"
+- "[[H7725O]]"
+- "[[H7495]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 6:10**<big><big>[[Isa.6.1 Isaiah’s Commission|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed.
 <small><sub>**BSB:**</sub></small>
 Make the hearts of this people calloused; deafen their ears and close their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn and be healed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H8080\|הַשְׁמֵן֙]] [[H3820A\|לֵב]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9002\|וְ]][[H0241G\|אָזְנָ֥י]][[H9023\|ו]] [[H3513H\|הַכְבֵּ֖ד]] [[H9002\|וְ]][[H5869A\|עֵינָ֣י]][[H9023\|ו]] [[H8173A\|הָשַׁ֑ע]] [[H6435\|פֶּן]][[H9014\|־]] [[H7200G\|יִרְאֶ֨ה]] [[H9003\|בְ]][[H5869A\|עֵינָ֜י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בְ]][[H0241G\|אָזְנָ֣י]][[H9023\|ו]] [[H8085G\|יִשְׁמָ֗ע]] [[H9002\|וּ]][[H3824\|לְבָב֥]][[H9023\|וֹ]] [[H0995\|יָבִ֛ין]] [[H9001\|וָ]][[H7725O\|שָׁ֖ב]] [[H9001\|וְ]][[H7495\|רָ֥פָא]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DEAFNESS|DEAFNESS]] • [[topic HEART|HEART]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPROBACY|REPROBACY]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.6.9|<< Isaiah 6:9]]</td><td align="center" style="border:none;">[[Isa.6|Isaiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.6.11|Isaiah 6:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

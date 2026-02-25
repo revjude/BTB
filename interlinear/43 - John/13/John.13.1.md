@@ -1,10 +1,65 @@
+---
+title: John 13:1
+type: Verse
+kjv: "Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end."
+bsb: "It was now just before the Passover Feast, and Jesus knew that His hour had come to leave this world and return to the Father. Having loved His own who were in the world, He loved them to the very end."
+greek: "Πρὸ δὲ τῆς ἑορτῆς τοῦ πάσχα εἰδὼς ὁ Ἰησοῦς ὅτι ἦλθεν αὐτοῦ ἡ ὥρα ἵνα μεταβῇ ἐκ τοῦ κόσμου τούτου πρὸς τὸν πατέρα, ἀγαπήσας τοὺς ἰδίους τοὺς ἐν τῷ κόσμῳ εἰς τέλος ἠγάπησεν αὐτούς."
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4253]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1859]]"
+- "[[G3957]]"
+- "[[G6063]]"
+- "[[G2424G]]"
+- "[[G3754G]]"
+- "[[G2064]]"
+- "[[G0846]]"
+- "[[G5610]]"
+- "[[G2443]]"
+- "[[G3327]]"
+- "[[G1537]]"
+- "[[G2889]]"
+- "[[G3778]]"
+- "[[G4314]]"
+- "[[G3962]]"
+- "[[G0025]]"
+- "[[G2398]]"
+- "[[G1722]]"
+- "[[G1519]]"
+- "[[G5056]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 13:1**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now before the feast of the passover, when Jesus knew that his hour was come that he should depart out of this world unto the Father, having loved his own which were in the world, he loved them unto the end.
 <small><sub>**BSB:**</sub></small>
 It was now just before the Passover Feast, and Jesus knew that His hour had come to leave this world and return to the Father. Having loved His own who were in the world, He loved them to the very end.
-<small><sub>**Literal:**</sub></small>
-Before now the feast of the Passover knowing <the> Jesus that came to him <the> hour that He may depart out of <the> world this to the Father, having loved <the> [his] own who [were] in the world to [the] end He loved them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.50|<< John 12:50]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.2|John 13:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4253\|Πρὸ]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G1859\|ἑορτῆς]]  [[G3588\|τοῦ]]  [[G3957\|πάσχα]]  [[G6063\|εἰδὼς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3754G\|ὅτι]]  [[G2064\|ἦλθεν]]  [[G0846\|αὐτοῦ]]  [[G3588\|ἡ]]  [[G5610\|ὥρα]]  [[G2443\|ἵνα]]  [[G3327\|μεταβῇ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3778\|τούτου]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα,]]  [[G0025\|ἀγαπήσας]]  [[G3588\|τοὺς]]  [[G2398\|ἰδίους]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G1519\|εἰς]]  [[G5056\|τέλος]]  [[G0025\|ἠγάπησεν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.50|<< John 12:50]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.2|John 13:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

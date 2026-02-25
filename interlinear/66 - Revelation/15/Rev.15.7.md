@@ -1,10 +1,62 @@
+---
+title: Revelation 15:7
+type: Verse
+kjv: "And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever."
+bsb: "Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever."
+greek: "καὶ ἓν ἐκ τῶν τεσσάρων ζῴων ἔδωκεν τοῖς ἑπτὰ ἀγγέλοις ἑπτὰ φιάλας χρυσᾶς γεμούσας τοῦ θυμοῦ τοῦ θεοῦ τοῦ ζῶντος εἰς τοὺς αἰῶνας τῶν αἰώνων."
+pericope: "[[Rev.15.5 Preparation for Judgment|Preparation for Judgment]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 15
+book/chapter: "[[Rev.15|Revelation 15]]"
+chronological_order: 1182
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G2226]]"
+- "[[G1325]]"
+- "[[G2033]]"
+- "[[G0032G]]"
+- "[[G5357]]"
+- "[[G5552]]"
+- "[[G1073]]"
+- "[[G2372]]"
+- "[[G2316]]"
+- "[[G2198]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+texts:
+- NKO
+---
+
 **Revelation 15:7**<big><big>[[Rev.15.5 Preparation for Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And one of the four beasts gave unto the seven angels seven golden vials full of the wrath of God, who liveth for ever and ever.
 <small><sub>**BSB:**</sub></small>
 Then one of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.
-<small><sub>**Literal:**</sub></small>
-And one of the four living creatures gave to the seven angels seven bowls golden full of the wrath <the> of God who is living to the ages of the ages.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.6|<< Revelation 15:6]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.8|Revelation 15:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1520\|ἓν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5064\|τεσσάρων]]  [[G2226\|ζῴων]]  [[G1325\|ἔδωκεν]]  [[G3588\|τοῖς]]  [[G2033\|ἑπτὰ]]  [[G0032G\|ἀγγέλοις]]  [[G2033\|ἑπτὰ]]  [[G5357\|φιάλας]]  [[G5552\|χρυσᾶς]]  [[G1073\|γεμούσας]]  [[G3588\|τοῦ]]  [[G2372\|θυμοῦ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G2198\|ζῶντος]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic PLAGUE|PLAGUE]] • [[topic SEVEN|SEVEN]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.6|<< Revelation 15:6]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.8|Revelation 15:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 15:7** is...
 > $\quad$ alluding to: [[LXX.Ezek.10.7|Ezek 10:7]]

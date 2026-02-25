@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Unleavened Bread
+type: Pericope
 pericope: "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 12
 book/chapter: "[[Exod.12|Exodus 12]]"
-genre:
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 15
 verses:
 - "[[Exod.12.14]]"
 - "[[Exod.12.15]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Exod.12.28]]"
 ---
 
-[[Exod.12|Exodus 12:14 - Exodus 12:28]]
+<small>[[Exod.12|Exodus 12:14-28]]</small>
 *The Feast of Unleavened Bread*
 
 [[Exod.12.14|14]] And this day shall be unto you for a memorial; and ye shall keep it a feast to the LORD throughout your generations; ye shall keep it a feast by an ordinance for ever.

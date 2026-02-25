@@ -1,10 +1,63 @@
+---
+title: Acts 19:12
+type: Verse
+kjv: "So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them."
+bsb: "so that even handkerchiefs and aprons that had touched him were taken to the sick, and the diseases and evil spirits left them."
+greek: "ὥστε καὶ ἐπὶ τοὺς ἀσθενοῦντας ἀποφέρεσθαι ἀπὸ τοῦ χρωτὸς αὐτοῦ σουδάρια ἢ σιμικίνθια καὶ ἀπαλλάσσεσθαι ἀπ᾽ αὐτῶν τὰς νόσους τά τε πνεύματα τὰ πονηρὰ ἐκπορεύεσθαι ἀπ᾽ αὐτῶν.¶"
+pericope: "[[Acts.19.8 Paul Ministers in Ephesus|Paul Ministers in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic HANDKERCHIEF|HANDKERCHIEF]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G5620]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0770H]]"
+- "[[G0667]]"
+- "[[G0575]]"
+- "[[G5559]]"
+- "[[G0846]]"
+- "[[G4676]]"
+- "[[G2228]]"
+- "[[G4612]]"
+- "[[G0525]]"
+- "[[G3554]]"
+- "[[G5037]]"
+- "[[G4151G]]"
+- "[[G4190]]"
+- "[[G1607]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+- k
+---
+
 **Acts 19:12**<big><big>[[Acts.19.8 Paul Ministers in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.
 <small><sub>**BSB:**</sub></small>
 so that even handkerchiefs and aprons that had touched him were taken to the sick, and the diseases and evil spirits left them.
-<small><sub>**Literal:**</sub></small>
-so that even to the ailing carrying from the skin of him handkerchiefs or aprons and departing from them the diseases the also spirits <the> evil coming out from of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.11|<< Acts 19:11]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.13|Acts 19:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G0770H\|ἀσθενοῦντας]]  [[G0667\|ἀποφέρεσθαι]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G5559\|χρωτὸς]]  [[G0846\|αὐτοῦ]]  [[G4676\|σουδάρια]]  [[G2228\|ἢ]]  [[G4612\|σιμικίνθια]]  [[G2532\|καὶ]]  [[G0525\|ἀπαλλάσσεσθαι]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν]]  [[G3588\|τὰς]]  [[G3554\|νόσους]]  [[G3588\|τά]]  [[G5037\|τε]]  [[G4151G\|πνεύματα]]  [[G3588\|τὰ]]  [[G4190\|πονηρὰ]]  [[G1607\|ἐκπορεύεσθαι]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic HANDKERCHIEF|HANDKERCHIEF]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.11|<< Acts 19:11]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.13|Acts 19:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

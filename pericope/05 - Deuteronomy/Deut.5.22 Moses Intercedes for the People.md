@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Intercedes for the People
+type: Pericope
 pericope: "[[Deut.5.22 Moses Intercedes for the People|Moses Intercedes for the People]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 5
 book/chapter: "[[Deut.5|Deuteronomy 5]]"
-genre:
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 12
 verses:
 - "[[Deut.5.22]]"
 - "[[Deut.5.23]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Deut.5.33]]"
 ---
 
-[[Deut.5|Deuteronomy 5:22 - Deuteronomy 5:33]]
+<small>[[Deut.5|Deuteronomy 5:22-33]]</small>
 *Moses Intercedes for the People*
 
 [[Deut.5.22|22]] These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me.

@@ -1,10 +1,62 @@
+---
+title: John 1:15
+type: Verse
+kjv: "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me."
+bsb: "John testified concerning Him. He cried out, saying, “This is He of whom I said, ‘He who comes after me has surpassed me because He was before me.’”"
+greek: "Ἰωάννης μαρτυρεῖ περὶ αὐτοῦ καὶ κέκραγεν λέγων· οὗτος ἦν ὃν εἶπον· ὁ ὀπίσω μου ἐρχόμενος ἔμπροσθέν μου γέγονεν, ὅτι πρῶτός μου ἦν."
+pericope: "[[John.1.14 The Word Became Flesh|The Word Became Flesh]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G2491G]]"
+- "[[G3140]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G2064]]"
+- "[[G1715]]"
+- "[[G1096]]"
+- "[[G3754H]]"
+- "[[G4413H]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 1:15**<big><big>[[John.1.14 The Word Became Flesh|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.
 <small><sub>**BSB:**</sub></small>
 John testified concerning Him. He cried out, saying, “This is He of whom I said, ‘He who comes after me has surpassed me because He was before me.’”
-<small><sub>**Literal:**</sub></small>
-John witnesses concerning Him and he has cried out saying; This was He of whom I was saying; The [One] after me coming precedence over me has, because before me He was.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.14|<< John 1:14]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.16|John 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2491G\|Ἰωάννης]]  [[G3140\|μαρτυρεῖ]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2896\|κέκραγεν]]  [[G3004G\|λέγων·]]  [[G3778\|οὗτος]]  [[G1510\|ἦν]]  [[G3739\|ὃν]]  [[G2036\|εἶπον·]]  [[G3588\|ὁ]]  [[G3694\|ὀπίσω]]  [[G3165\|μου]]  [[G2064\|ἐρχόμενος]]  [[G1715\|ἔμπροσθέν]]  [[G3165\|μου]]  [[G1096\|γέγονεν,]]  [[G3754H\|ὅτι]]  [[G4413H\|πρῶτός]]  [[G3165\|μου]]  [[G1510\|ἦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.14|<< John 1:14]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.16|John 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

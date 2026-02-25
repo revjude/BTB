@@ -1,6 +1,59 @@
+---
+title: LXX 1 Samuel 22:23
+type: Verse
+lxx: "You sit down with me! Do not fear! for where ever I seek  for my life, I shall seek also  a place for your life; for you are guarded by me."
+greek: "κάθου μετ΄ εμού μη φοβού ότι ου εάν ζητώ τη ψυχή μου ζητήσω και τη ψυχή σου τόπον ότι πεφύλαξαι συ παρ΄ εμοί"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[G2521]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G3754]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+- "[[G2212]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+- "[[G5117]]"
+- "[[G3754]]"
+- "[[G5442]]"
+- "[[G1473]]"
+- "[[G3844]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Samuel 22:23** 
 <small><sub>**LXX:**</sub></small>
 You sit down with me! Do not fear! for where ever I seek  for my life, I shall seek also  a place for your life; for you are guarded by me. 
+<small><sub>**Greek:**</sub></small>
+[[G2521\|κάθου]] [[G3326\|μετ΄]] [[G1473\|εμού]] [[G3361\|μη]] [[G5399\|φοβού]] [[G3754\|ότι]] [[G3739\|ου]] [[G1437\|εάν]] [[G2212\|ζητώ]] [[G3588\|τη]] [[G5590\|ψυχή]] [[G1473\|μου]] [[G2212\|ζητήσω]] [[G2532\|και]] [[G3588\|τη]] [[G5590\|ψυχή]] [[G1473\|σου]] [[G5117\|τόπον]] [[G3754\|ότι]] [[G5442\|πεφύλαξαι]] [[G1473\|συ]] [[G3844\|παρ΄]] [[G1473\|εμοί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.22|<< 1 Samuel 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.1|1 Samuel 23:1 >>]]</td></tr></table>
 
@@ -26,6 +79,6 @@ You sit down with me! Do not fear! for where ever I seek  for my life, I shall s
 | you are guarded | **<big>[[G5442\|πεφύλαξαι]]</big>** **<big>[[G1473\|συ]]</big>** |
 | by | **<big>[[G3844\|παρ΄]]</big>** |
 | me. | **<big>[[G1473\|εμοί]]</big>** |
-[[1Sam.22.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.22|<< 1 Samuel 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.1|1 Samuel 23:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.22.22|<< 1 Samuel 22:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.23.1|1 Samuel 23:1 >>]]</td></tr></table>
 
 

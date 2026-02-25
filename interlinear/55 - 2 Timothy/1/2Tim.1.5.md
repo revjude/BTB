@@ -1,10 +1,68 @@
+---
+title: 2 Timothy 1:5
+type: Verse
+kjv: "When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also."
+bsb: "I am reminded of your sincere faith, which first dwelt in your grandmother Lois and your mother Eunice, and I am convinced is in you as well."
+greek: "ὑπόμνησιν λαβὼν τῆς ἐν σοὶ ἀνυποκρίτου πίστεως, ἥτις ἐνῴκησεν πρῶτον ἐν τῇ μάμμῃ σου Λωΐδι καὶ τῇ μητρί σου Εὐνίκῃ, πέπεισμαι δὲ ὅτι καὶ ἐν σοί.¶"
+pericope: "[[2Tim.1.3 Faithfulness under Persecution|Faithfulness under Persecution]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EUNICE|EUNICE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic LOIS|LOIS]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G5280]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G0505]]"
+- "[[G4102G]]"
+- "[[G3748]]"
+- "[[G1774]]"
+- "[[G4413G]]"
+- "[[G3125]]"
+- "[[G3090]]"
+- "[[G2532]]"
+- "[[G3384]]"
+- "[[G2131]]"
+- "[[G3982]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Timothy 1:5**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When I call to remembrance the unfeigned faith that is in thee, which dwelt first in thy grandmother Lois, and thy mother Eunice; and I am persuaded that in thee also.
 <small><sub>**BSB:**</sub></small>
 I am reminded of your sincere faith, which first dwelt in your grandmother Lois and your mother Eunice, and I am convinced is in you as well.
-<small><sub>**Literal:**</sub></small>
-remembrance having taken of the within you sincere faith, which dwelt first in the grandmother of you Lois and in the mother of you Eunice, I have been persuaded now that also [it is] in you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.4|<< 2 Timothy 1:4]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.6|2 Timothy 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5280\|ὑπόμνησιν]]  [[G2983\|λαβὼν]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G0505\|ἀνυποκρίτου]]  [[G4102G\|πίστεως,]]  [[G3748\|ἥτις]]  [[G1774\|ἐνῴκησεν]]  [[G4413G\|πρῶτον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3125\|μάμμῃ]]  [[G4771\|σου]]  [[G3090\|Λωΐδι]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G3384\|μητρί]]  [[G4771\|σου]]  [[G2131\|Εὐνίκῃ,]]  [[G3982\|πέπεισμαι]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4771\|σοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EUNICE|EUNICE]] • [[topic FAITH|FAITH]] • [[topic FAMILY|FAMILY]] • [[topic LOIS|LOIS]] • [[topic MOTHER|MOTHER]] • [[topic RELIGION|RELIGION]] • [[topic SINCERITY|SINCERITY]] • [[topic TIMOTHY|TIMOTHY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.4|<< 2 Timothy 1:4]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.6|2 Timothy 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

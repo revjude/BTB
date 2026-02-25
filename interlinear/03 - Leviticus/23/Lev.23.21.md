@@ -1,8 +1,71 @@
+---
+title: Leviticus 23:21
+type: Verse
+kjv: "And ye shall proclaim on the selfsame day, that it may be an holy convocation unto you: ye shall do no servile work therein: it shall be a statute for ever in all your dwellings throughout your generations."
+bsb: "On that same day you are to proclaim a sacred assembly, and you must not do any regular work. This is to be a permanent statute wherever you live for the generations to come."
+hebrew: "וּקְרָאתֶ֞ם בְּעֶ֣צֶם׀ הַיּ֣וֹם הַזֶּ֗ה מִֽקְרָא־ קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם כָּל־ מְלֶ֥אכֶת עֲבֹדָ֖ה לֹ֣א תַעֲשׂ֑וּ חֻקַּ֥ת עוֹלָ֛ם בְּכָל־ מוֹשְׁבֹ֥תֵיכֶ֖ם לְדֹרֹֽתֵיכֶֽם׃"
+pericope: "[[Lev.23.15 The Feast of Weeks|The Feast of Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PENTECOST|PENTECOST]]"
+- "[[topic REST|REST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H9003]]"
+- "[[H6106H]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H5656I]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H2708]]"
+- "[[H5769G]]"
+- "[[H4186]]"
+- "[[H9026]]"
+- "[[H1755]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:21**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall proclaim on the selfsame day, [that] it may be an holy convocation unto you: ye shall do no servile work [therein: it shall be] a statute for ever in all your dwellings throughout your generations.
 <small><sub>**BSB:**</sub></small>
 On that same day you are to proclaim a sacred assembly, and you must not do any regular work. This is to be a permanent statute wherever you live for the generations to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H7121I\|קְרָאתֶ֞ם]] [[H9003\|בְּ]][[H6106H\|עֶ֣צֶם]][[H9015\|׀]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H4744\|מִֽקְרָא]][[H9014\|־]] [[H6944G\|קֹ֙דֶשׁ֙]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֥אכֶת]] [[H5656I\|עֲבֹדָ֖ה]] [[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֑וּ]] [[H2708\|חֻקַּ֥ת]] [[H5769G\|עוֹלָ֛ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4186\|מוֹשְׁבֹ֥תֵי]][[H9026\|כֶ֖ם]] [[H9005\|לְ]][[H1755\|דֹרֹֽתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PENTECOST|PENTECOST]] • [[topic REST|REST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.20|<< Leviticus 23:20]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.22|Leviticus 23:22 >>]]</td></tr></table>
 

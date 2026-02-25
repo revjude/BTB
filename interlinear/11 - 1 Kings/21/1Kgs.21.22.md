@@ -1,8 +1,70 @@
+---
+title: 1 Kings 21:22
+type: Verse
+kjv: "And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked me to anger, and made Israel to sin."
+bsb: "I will make your house like that of Jeroboam son of Nebat and like that of Baasha son of Ahijah, because you have provoked My anger and caused Israel to sin.’"
+hebrew: "וְנָתַתִּ֣י אֶת־ בֵּיתְךָ֗ כְּבֵית֙ יָרָבְעָ֣ם בֶּן־ נְבָ֔ט וּכְבֵ֖ית בַּעְשָׁ֣א בֶן־ אֲחִיָּ֑ה אֶל־ הַכַּ֙עַס֙ אֲשֶׁ֣ר הִכְעַ֔סְתָּ וַֽתַּחֲטִ֖א אֶת־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|Elijah Denounces Ahab and Jezebel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H5028]]"
+- "[[H9002]]"
+- "[[H1201]]"
+- "[[H0281I]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H3708A]]"
+- "[[H0834A]]"
+- "[[H3707]]"
+- "[[H2398]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:22**<big><big>[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And will make thine house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah, for the provocation wherewith thou hast provoked [me] to anger, and made Israel to sin.
 <small><sub>**BSB:**</sub></small>
 I will make your house like that of Jeroboam son of Nebat and like that of Baasha son of Ahijah, because you have provoked My anger and caused Israel to sin.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414I\|נָתַתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּיתְ]][[H9021\|ךָ֗]] [[H9004\|כְּ]][[H1004M\|בֵית֙]] [[H3379G\|יָרָבְעָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָ֔ט]] [[H9002\|וּ]][[H9004\|כְ]][[H1004M\|בֵ֖ית]] [[H1201\|בַּעְשָׁ֣א]] [[H1121A\|בֶן]][[H9014\|־]] [[H0281I\|אֲחִיָּ֑ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3708A\|כַּ֙עַס֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3707\|הִכְעַ֔סְתָּ]] [[H9001\|וַֽ]][[H2398\|תַּחֲטִ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic BAASHA|BAASHA]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHECY|PROPHECY]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.21|<< 1 Kings 21:21]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.23|1 Kings 21:23 >>]]</td></tr></table>
 

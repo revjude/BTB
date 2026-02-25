@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Greatest in the Kingdom
+type: Pericope
 pericope: "[[Luke.9.46 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 9
 book/chapter: "[[Luke.9|Luke 9]]"
-genre:
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.9.46]]"
 - "[[Luke.9.47]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.9.50]]"
 ---
 
-[[Luke.9|Luke 9:46 - Luke 9:50]]
+<small>[[Luke.9|Luke 9:46-50]]</small>
 *The Greatest in the Kingdom*
 
 [[Luke.9.46|46]] Then there arose a reasoning among them, which of them should be greatest.

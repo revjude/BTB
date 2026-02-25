@@ -1,8 +1,58 @@
+---
+title: Psalm 25:11
+type: Verse
+kjv: "For thy name’s sake, O LORD, pardon mine iniquity; for it is great."
+bsb: "For the sake of Your name, O LORD, forgive my iniquity, for it is great."
+hebrew: "לְמַֽעַן־ שִׁמְךָ֥ יְהוָ֑ה וְֽסָלַחְתָּ֥ לַ֝עֲוֹנִ֗י כִּ֣י רַב־ הֽוּא׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H4616]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5545]]"
+- "[[H9005]]"
+- "[[H5771G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:11**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy name’s sake, O LORD, pardon mine iniquity; for it [is] great.
 <small><sub>**BSB:**</sub></small>
 For the sake of Your name, O LORD, forgive my iniquity, for it is great.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַֽעַן]][[H9014\|־]] [[H8034\|שִׁמְ]][[H9021\|ךָ֥]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְֽ]][[H5545\|סָלַחְתָּ֥]] [[H9005\|לַ֝]][[H5771G\|עֲוֹנִ֗]][[H9020\|י]] [[H3588A\|כִּ֣י]] [[H7227A\|רַב]][[H9014\|־]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.10|<< Psalms 25:10]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.12|Psalms 25:12 >>]]</td></tr></table>
 

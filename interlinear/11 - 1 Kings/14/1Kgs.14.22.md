@@ -1,8 +1,63 @@
+---
+title: 1 Kings 14:22
+type: Verse
+kjv: "And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done."
+bsb: "And Judah did evil in the sight of the LORD, and by the sins they committed they provoked Him to jealous anger more than all their fathers had done."
+hebrew: "וַיַּ֧עַשׂ יְהוּדָ֛ה הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיְקַנְא֣וּ אֹת֗וֹ מִכֹּל֙ אֲשֶׁ֣ר עָשׂ֣וּ אֲבֹתָ֔ם בְּחַטֹּאתָ֖ם אֲשֶׁ֥ר חָטָֽאוּ׃"
+pericope: "[[1Kgs.14.21 Rehoboam Reigns in Judah|Rehoboam Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3063G]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H7065]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H2403B]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:22**<big><big>[[1Kgs.14.21 Rehoboam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah did evil in the sight of the LORD, and they provoked him to jealousy with their sins which they had committed, above all that their fathers had done.
 <small><sub>**BSB:**</sub></small>
 And Judah did evil in the sight of the LORD, and by the sins they committed they provoked Him to jealous anger more than all their fathers had done.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֧עַשׂ]] [[H3063G\|יְהוּדָ֛ה]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H7065\|יְקַנְא֣וּ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשׂ֣וּ]] [[H0001G\|אֲבֹתָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H2403B\|חַטֹּאתָ֖]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H2398\|חָטָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.21|<< 1 Kings 14:21]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.23|1 Kings 14:23 >>]]</td></tr></table>
 

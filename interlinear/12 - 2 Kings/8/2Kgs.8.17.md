@@ -1,8 +1,55 @@
+---
+title: 2 Kings 8:17
+type: Verse
+kjv: "Thirty and two years old was he when he began to reign; and he reigned eight years in Jerusalem."
+bsb: "Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years."
+hebrew: "בֶּן־ שְׁלֹשִׁ֥ים וּשְׁתַּ֛יִם שָׁנָ֖ה הָיָ֣ה בְמָלְכ֑וֹ וּשְׁמֹנֶ֣ה שָׁנִ֔ים מָלַ֖ךְ בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Kgs.8.16 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H8141]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H8083]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 8:17**<big><big>[[2Kgs.8.16 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thirty and two years old was he when he began to reign; and he reigned eight years in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Jehoram was thirty-two years old when he became king, and he reigned in Jerusalem eight years.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֛יִם]] [[H8141\|שָׁנָ֖ה]] [[H1961\|הָיָ֣ה]] [[H9003\|בְ]][[H4427A\|מָלְכ֑]][[H9043\|וֹ]] [[H9002\|וּ]][[H8083\|שְׁמֹנֶ֣ה]] [[H8141\|שָׁנִ֔ים]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.16|<< 2 Kings 8:16]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.18|2 Kings 8:18 >>]]</td></tr></table>
 

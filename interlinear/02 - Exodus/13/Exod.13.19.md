@@ -1,8 +1,70 @@
+---
+title: Exodus 13:19
+type: Verse
+kjv: "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you."
+bsb: "Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, “God will surely attend to you, and then you must carry my bones with you from this place.”"
+hebrew: "וַיִּקַּ֥ח מֹשֶׁ֛ה אֶת־ עַצְמ֥וֹת יוֹסֵ֖ף עִמּ֑וֹ כִּי֩ הַשְׁבֵּ֨עַ הִשְׁבִּ֜יעַ אֶת־ בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר פָּקֹ֨ד יִפְקֹ֤ד אֱלֹהִים֙ אֶתְכֶ֔ם וְהַעֲלִיתֶ֧ם אֶת־ עַצְמֹתַ֛י מִזֶּ֖ה אִתְּכֶֽם׃"
+pericope: "[[Exod.13.17 The Pillars of Cloud and Fire|The Pillars of Cloud and Fire]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6106G]]"
+- "[[H3130G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H7650]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H6485I]]"
+- "[[H0430G]]"
+- "[[H9036]]"
+- "[[H5927H]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:19**<big><big>[[Exod.13.17 The Pillars of Cloud and Fire|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.
 <small><sub>**BSB:**</sub></small>
 Moses took the bones of Joseph with him because Joseph had made the sons of Israel swear a solemn oath when he said, “God will surely attend to you, and then you must carry my bones with you from this place.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֥ח]] [[H4872\|מֹשֶׁ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6106G\|עַצְמ֥וֹת]] [[H3130G\|יוֹסֵ֖ף]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H3588A\|כִּי֩]] [[H7650\|הַשְׁבֵּ֨עַ]] [[H7650\|הִשְׁבִּ֜יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H6485I\|פָּקֹ֨ד]] [[H6485I\|יִפְקֹ֤ד]] [[H0430G\|אֱלֹהִים֙]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H5927H\|הַעֲלִיתֶ֧ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6106G\|עַצְמֹתַ֛]][[H9020\|י]] [[H9006\|מִ]][[H2088\|זֶּ֖ה]] [[H0854\|אִתְּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.18|<< Exodus 13:18]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.20|Exodus 13:20 >>]]</td></tr></table>
 

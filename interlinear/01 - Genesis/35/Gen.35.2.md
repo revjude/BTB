@@ -1,8 +1,77 @@
+---
+title: Genesis 35:2
+type: Verse
+kjv: "Then Jacob said unto his household, and to all that were with him, Put away the strange gods that are among you, and be clean, and change your garments:"
+bsb: "So Jacob told his household and all who were with him, “Get rid of the foreign gods that are among you. Purify yourselves and change your garments."
+hebrew: "וַיֹּ֤אמֶר יַעֲקֹב֙ אֶל־ בֵּית֔וֹ וְאֶ֖ל כָּל־ אֲשֶׁ֣ר עִמּ֑וֹ הָסִ֜רוּ אֶת־ אֱלֹהֵ֤י הַנֵּכָר֙ אֲשֶׁ֣ר בְּתֹכְכֶ֔ם וְהִֽטַּהֲר֔וּ וְהַחֲלִ֖יפוּ שִׂמְלֹתֵיכֶֽם׃"
+pericope: "[[Gen.35.1 Jacob Returns to Bethel|Jacob Returns to Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic POLYTHEISM|POLYTHEISM]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H5236]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9026]]"
+- "[[H2891]]"
+- "[[H2498]]"
+- "[[H8071]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:2**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jacob said unto his household, and to all that [were] with him, Put away the strange gods that [are] among you, and be clean, and change your garments:
 <small><sub>**BSB:**</sub></small>
 So Jacob told his household and all who were with him, “Get rid of the foreign gods that are among you. Purify yourselves and change your garments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3290\|יַעֲקֹב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0413\|אֶ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H5493G\|הָסִ֜רוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵ֤י]] [[H9009\|הַ]][[H5236\|נֵּכָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H8432\|תֹכְ]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H2891\|הִֽטַּהֲר֔וּ]] [[H9002\|וְ]][[H2498\|הַחֲלִ֖יפוּ]] [[H8071\|שִׂמְלֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BETH-EL|BETH-EL]] • [[topic FAMILY|FAMILY]] • [[topic HOLINESS|HOLINESS]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JACOB|JACOB]] • [[topic POLYTHEISM|POLYTHEISM]] • [[topic PURIFICATION|PURIFICATION]] • [[topic TERAPHIM|TERAPHIM]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.1|<< Genesis 35:1]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.3|Genesis 35:3 >>]]</td></tr></table>
 

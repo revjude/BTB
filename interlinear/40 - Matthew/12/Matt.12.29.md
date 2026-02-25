@@ -1,10 +1,64 @@
+---
+title: Matthew 12:29
+type: Verse
+kjv: "Or else how can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house."
+bsb: "Or again, how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house."
+jesus_said: "Or else how can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house."
+greek: "ἢ πῶς δύναταί τις εἰσελθεῖν εἰς τὴν οἰκίαν τοῦ ἰσχυροῦ καὶ τὰ σκεύη αὐτοῦ ἁρπάσαι, ἐὰν μὴ πρῶτον δήσῃ τὸν ἰσχυρόν; καὶ τότε τὴν οἰκίαν αὐτοῦ διαρπάσει.¶"
+pericope: "[[Matt.12.22 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G2228]]"
+- "[[G4459]]"
+- "[[G1410]]"
+- "[[G5100]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G2478]]"
+- "[[G2532]]"
+- "[[G4632]]"
+- "[[G0846]]"
+- "[[G0726]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G4413G]]"
+- "[[G1210]]"
+- "[[G5119]]"
+- "[[G1283]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **Matthew 12:29**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Or else how can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house.
 <small><sub>**BSB:**</sub></small>
 Or again, how can anyone enter a strong man’s house and steal his possessions, unless he first ties up the strong man? Then he can plunder his house.
-<small><sub>**Literal:**</sub></small>
-Or how is able anyone to enter into the house of the strong [man] and the goods of him to plunder, only unless first he shall bind the strong [man]? And then the house of him he will rob.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.28|<< Matthew 12:28]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.30|Matthew 12:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G4459\|πῶς]]  [[G1410\|δύναταί]]  [[G5100\|τις]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G3588\|τοῦ]]  [[G2478\|ἰσχυροῦ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4632\|σκεύη]]  [[G0846\|αὐτοῦ]]  [[G0726\|ἁρπάσαι,]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G4413G\|πρῶτον]]  [[G1210\|δήσῃ]]  [[G3588\|τὸν]]  [[G2478\|ἰσχυρόν;]]  [[G2532\|καὶ]]  [[G5119\|τότε]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G0846\|αὐτοῦ]]  [[G1283\|διαρπάσει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.28|<< Matthew 12:28]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.30|Matthew 12:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

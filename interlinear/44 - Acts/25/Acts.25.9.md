@@ -1,10 +1,61 @@
+---
+title: Acts 25:9
+type: Verse
+kjv: "But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?"
+bsb: "But Festus, wishing to do the Jews a favor, said to Paul, “Are you willing to go up to Jerusalem to stand trial before me on these charges?”"
+greek: "Ὁ Φῆστος δὲ θέλων τοῖς Ἰουδαίοις χάριν καταθέσθαι, ἀποκριθεὶς τῷ Παύλῳ εἶπεν· θέλεις εἰς Ἱεροσόλυμα ἀναβὰς ἐκεῖ περὶ τούτων κριθῆναι ἐπ᾽ ἐμοῦ;"
+pericope: "[[Acts.25.1 Paul’s Trial before Festus|Paul’s Trial before Festus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3588]]"
+- "[[G5347]]"
+- "[[G1161]]"
+- "[[G2309]]"
+- "[[G2453]]"
+- "[[G5485]]"
+- "[[G2698]]"
+- "[[G0611]]"
+- "[[G3972G]]"
+- "[[G2036]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G0305]]"
+- "[[G1563]]"
+- "[[G4012]]"
+- "[[G3778]]"
+- "[[G2919]]"
+- "[[G1909]]"
+- "[[G1473]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 25:9**<big><big>[[Acts.25.1 Paul’s Trial before Festus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?
 <small><sub>**BSB:**</sub></small>
 But Festus, wishing to do the Jews a favor, said to Paul, “Are you willing to go up to Jerusalem to stand trial before me on these charges?”
-<small><sub>**Literal:**</sub></small>
-<the> Festus however wishing from the Jews a favor to lay, answering <the> Paul said; Are you willing to Jerusalem having gone up there concerning these things to be judged before me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.8|<< Acts 25:8]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.10|Acts 25:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G5347\|Φῆστος]]  [[G1161\|δὲ]]  [[G2309\|θέλων]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις]]  [[G5485\|χάριν]]  [[G2698\|καταθέσθαι,]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ]]  [[G2036\|εἶπεν·]]  [[G2309\|θέλεις]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G0305\|ἀναβὰς]]  [[G1563\|ἐκεῖ]]  [[G4012\|περὶ]]  [[G3778\|τούτων]]  [[G2919\|κριθῆναι]]  [[G1909\|ἐπ᾽]]  [[G1473\|ἐμοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.8|<< Acts 25:8]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.10|Acts 25:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

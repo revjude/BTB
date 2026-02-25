@@ -1,8 +1,64 @@
+---
+title: Nehemiah 5:1
+type: Verse
+kjv: "And there was a great cry of the people and of their wives against their brethren the Jews."
+bsb: "About that time there was a great outcry from the people and their wives against their fellow Jews."
+hebrew: "וַתְּהִ֨י צַעֲקַ֥ת הָעָ֛ם וּנְשֵׁיהֶ֖ם גְּדוֹלָ֑ה אֶל־ אֲחֵיהֶ֖ם הַיְּהוּדִֽים׃"
+pericope: "[[Neh.5.1 Nehemiah Defends the Oppressed|Nehemiah Defends the Oppressed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 5
+book/chapter: "[[Neh.5|Nehemiah 5]]"
+chronological_order: 917
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6818]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H9028]]"
+- "[[H1419A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0251I]]"
+- "[[H3064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 5:1**<big><big>[[Neh.5.1 Nehemiah Defends the Oppressed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was a great cry of the people and of their wives against their brethren the Jews.
 <small><sub>**BSB:**</sub></small>
 About that time there was a great outcry from the people and their wives against their fellow Jews.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִ֨י]] [[H6818\|צַעֲקַ֥ת]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H9002\|וּ]][[H0802H\|נְשֵׁי]][[H9028\|הֶ֖ם]] [[H1419A\|גְּדוֹלָ֑ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0251I\|אֲחֵי]][[H9028\|הֶ֖ם]] [[H9009\|הַ]][[H3064\|יְּהוּדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BORROWING|BORROWING]] • [[topic COUNTRY|COUNTRY]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CREDITOR|CREDITOR]] • [[topic INTEREST|INTEREST]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RICH, THE|RICH, THE]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.23|<< Nehemiah 4:23]]</td><td align="center" style="border:none;">[[Neh.5|Nehemiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.5.2|Nehemiah 5:2 >>]]</td></tr></table>
 

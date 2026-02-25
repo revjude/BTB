@@ -1,8 +1,67 @@
+---
+title: Isaiah 62:1
+type: Verse
+kjv: "For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp that burneth."
+bsb: "For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not keep still, until her righteousness shines like a bright light, her salvation like a blazing torch."
+hebrew: "לְמַ֤עַן צִיּוֹן֙ לֹ֣א אֶחֱשֶׁ֔ה וּלְמַ֥עַן יְרוּשָׁלִַ֖ם לֹ֣א אֶשְׁק֑וֹט עַד־ יֵצֵ֤א כַנֹּ֙גַהּ֙ צִדְקָ֔הּ וִישׁוּעָתָ֖הּ כְּלַפִּ֥יד יִבְעָֽר׃"
+pericope: "[[Isa.62.1 Zion’s Salvation and New Name|Zion’s Salvation and New Name]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 62
+book/chapter: "[[Isa.62|Isaiah 62]]"
+chronological_order: 701
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LAMP|LAMP]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H4616]]"
+- "[[H6726]]"
+- "[[H3808]]"
+- "[[H2814]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H8252]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H9004]]"
+- "[[H5051]]"
+- "[[H6664G]]"
+- "[[H9024]]"
+- "[[H3444]]"
+- "[[H3940]]"
+- "[[H1197A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 62:1**<big><big>[[Isa.62.1 Zion’s Salvation and New Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Zion’s sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until the righteousness thereof go forth as brightness, and the salvation thereof as a lamp [that] burneth.
 <small><sub>**BSB:**</sub></small>
 For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not keep still, until her righteousness shines like a bright light, her salvation like a blazing torch.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֤עַן]] [[H6726\|צִיּוֹן֙]] [[H3808\|לֹ֣א]] [[H2814\|אֶחֱשֶׁ֔ה]] [[H9002\|וּ]][[H4616\|לְמַ֥עַן]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H3808\|לֹ֣א]] [[H8252\|אֶשְׁק֑וֹט]] [[H5704\|עַד]][[H9014\|־]] [[H3318G\|יֵצֵ֤א]] [[H9004\|כַ]][[H5051\|נֹּ֙גַהּ֙]] [[H6664G\|צִדְקָ֔]][[H9024\|הּ]] [[H9002\|וִ]][[H3444\|ישׁוּעָתָ֖]][[H9024\|הּ]] [[H9004\|כְּ]][[H3940\|לַפִּ֥יד]] [[H1197A\|יִבְעָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LAMP|LAMP]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.62.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.11|<< Isaiah 61:11]]</td><td align="center" style="border:none;">[[Isa.62|Isaiah 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.2|Isaiah 62:2 >>]]</td></tr></table>
 

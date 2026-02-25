@@ -1,6 +1,78 @@
+---
+title: LXX Ezra 6:8
+type: Verse
+lxx: "And by me was rendered a decree  to do through the elders  of those Jews  to build that house of God, and from the subsistence of the king, of the tribute on the other side of the river, that carefully an expense be given  to those men  to not cease work!"
+greek: "και δι΄ εμού ετέθη δόγμα του ποιήσαι διά των πρεσβυτέρων των Ιουδαίων εκείνων του οικοδομηθήναι οίκον του θεού εκείνον και από των υπαρχόντων του βασιλέως των φόρων πέραν του ποταμού επιμελώς δαπάνη έστω διδομένη τοις ανδράσιν εκείνοις του μη καταργηθήναι"
+original_language: Greek
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G1473]]"
+- "[[G5087]]"
+- "[[G1378]]"
+- "[[G3588]]"
+- "[[G4160]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4245]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G3618]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5225]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[G5411]]"
+- "[[G4008]]"
+- "[[G3588]]"
+- "[[G4215]]"
+- "[[G1960]]"
+- "[[G1160]]"
+- "[[G1510]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G2673]]"
+---
+
 **LXX Ezra 6:8** 
 <small><sub>**LXX:**</sub></small>
 And by me was rendered a decree  to do through the elders  of those Jews  to build that house of God, and from the subsistence of the king, of the tribute on the other side of the river, \[that\] carefully an expense be given  to those men  to not cease work! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1223\|δι΄]] [[G1473\|εμού]] [[G5087\|ετέθη]] [[G1378\|δόγμα]] [[G3588\|του]] [[G4160\|ποιήσαι]] [[G1223\|διά]] [[G3588\|των]] [[G4245\|πρεσβυτέρων]] [[G3588\|των]] [[G2453\|Ιουδαίων]] [[G1565\|εκείνων]] [[G3588\|του]] [[G3618\|οικοδομηθήναι]] [[G3624\|οίκον]] [[G3588\|του]] [[G2316\|θεού]] [[G1565\|εκείνον]] [[G2532\|και]] [[G0575\|από]] [[G3588\|των]] [[G5225\|υπαρχόντων]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G3588\|των]] [[G5411\|φόρων]] [[G4008\|πέραν]] [[G3588\|του]] [[G4215\|ποταμού]] [[G1960\|επιμελώς]] [[G1160\|δαπάνη]] [[G1510\|έστω]] [[G1325\|διδομένη]] [[G3588\|τοις]] [[G0435\|ανδράσιν]] [[G1565\|εκείνοις]] [[G3588\|του]] [[G3361\|μη]] [[G2673\|καταργηθήναι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezra.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.7|<< Ezra 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.9|Ezra 6:9 >>]]</td></tr></table>
 
@@ -44,6 +116,6 @@ And by me was rendered a decree  to do through the elders  of those Jews  to bui
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | to not | **<big>[[G3361\|μη]]</big>** |
 | cease work! | **<big>[[G2673\|καταργηθήναι]]</big>** |
-[[Ezra.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.7|<< Ezra 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.9|Ezra 6:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezra.6.7|<< Ezra 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezra.6.9|Ezra 6:9 >>]]</td></tr></table>
 
 

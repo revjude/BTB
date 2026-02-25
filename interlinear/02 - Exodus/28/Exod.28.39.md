@@ -1,8 +1,61 @@
+---
+title: Exodus 28:39
+type: Verse
+kjv: "And thou shalt embroider the coat of fine linen, and thou shalt make the mitre of fine linen, and thou shalt make the girdle of needlework."
+bsb: "You are to weave the tunic with fine linen, make the turban of fine linen, and fashion an embroidered sash."
+hebrew: "וְשִׁבַּצְתָּ֙ הַכְּתֹ֣נֶת שֵׁ֔שׁ וְעָשִׂ֖יתָ מִצְנֶ֣פֶת שֵׁ֑שׁ וְאַבְנֵ֥ט תַּעֲשֶׂ֖ה מַעֲשֵׂ֥ה רֹקֵֽם׃"
+pericope: "[[Exod.28.31 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic MITER|MITER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7660]]"
+- "[[H9009]]"
+- "[[H3801]]"
+- "[[H8336B]]"
+- "[[H6213H]]"
+- "[[H4701]]"
+- "[[H9002]]"
+- "[[H0073]]"
+- "[[H4639G]]"
+- "[[H7551]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:39**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt embroider the coat of fine linen, and thou shalt make the mitre [of] fine linen, and thou shalt make the girdle [of] needlework.
 <small><sub>**BSB:**</sub></small>
 You are to weave the tunic with fine linen, make the turban of fine linen, and fashion an embroidered sash.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7660\|שִׁבַּצְתָּ֙]] [[H9009\|הַ]][[H3801\|כְּתֹ֣נֶת]] [[H8336B\|שֵׁ֔שׁ]] [[H9001\|וְ]][[H6213H\|עָשִׂ֖יתָ]] [[H4701\|מִצְנֶ֣פֶת]] [[H8336B\|שֵׁ֑שׁ]] [[H9002\|וְ]][[H0073\|אַבְנֵ֥ט]] [[H6213H\|תַּעֲשֶׂ֖ה]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H7551\|רֹקֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMBROIDERY|EMBROIDERY]] • [[topic GIRDLE|GIRDLE]] • [[topic LINEN|LINEN]] • [[topic MITER|MITER]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.38|<< Exodus 28:38]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.40|Exodus 28:40 >>]]</td></tr></table>
 

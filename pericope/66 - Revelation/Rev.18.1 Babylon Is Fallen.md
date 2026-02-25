@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Babylon Is Fallen
+type: Pericope
 pericope: "[[Rev.18.1 Babylon Is Fallen|Babylon Is Fallen]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 18
 book/chapter: "[[Rev.18|Revelation 18]]"
-genre:
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 8
 verses:
 - "[[Rev.18.1]]"
 - "[[Rev.18.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rev.18.8]]"
 ---
 
-[[Rev.18|Revelation 18:1 - Revelation 18:8]]
+<small>[[Rev.18|Revelation 18:1-8]]</small>
 *Babylon Is Fallen*
 
 [[Rev.18.1|1]] And after these things I saw another angel come down from heaven, having great power; and the earth was lightened with his glory.

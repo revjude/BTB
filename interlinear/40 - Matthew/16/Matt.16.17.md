@@ -1,10 +1,74 @@
+---
+title: Matthew 16:17
+type: Verse
+kjv: "And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven."
+bsb: "Jesus replied, “Blessed are you, Simon son of Jonah! For this was not revealed to you by flesh and blood, but by My Father in heaven."
+jesus_said: "Blessed art thou, Simon Bar–jona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven."
+greek: "Καὶ Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν αὐτῷ· μακάριος εἶ, Σίμων Βαριωνᾶ, ὅτι σὰρξ καὶ αἷμα οὐκ ἀπεκάλυψέν σοι ἀλλ᾽ ὁ πατήρ μου ὁ ἐν τοῖς οὐρανοῖς."
+pericope: "[[Matt.16.13 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic BAR-JONA|BAR-JONA]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic REVELATION|REVELATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3107]]"
+- "[[G1510]]"
+- "[[G4613O]]"
+- "[[G0920]]"
+- "[[G3754H]]"
+- "[[G4561]]"
+- "[[G0129G]]"
+- "[[G3756]]"
+- "[[G0601]]"
+- "[[G4771]]"
+- "[[G0235]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G3772]]"
+texts:
+- k
+- NKO
+- no
+---
+
 **Matthew 16:17**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed [it] unto thee, but my Father which is in heaven.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Blessed are you, Simon son of Jonah! For this was not revealed to you by flesh and blood, but by My Father in heaven.
-<small><sub>**Literal:**</sub></small>
-and Answering now <the> Jesus said to him; Blessed are you, Simon Barjona! For flesh and blood not revealed [it] to you but the Father of Mine who [is] in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.16|<< Matthew 16:16]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.18|Matthew 16:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G3107\|μακάριος]]  [[G1510\|εἶ,]]  [[G4613O\|Σίμων]]  [[G0920\|Βαριωνᾶ,]]  [[G3754H\|ὅτι]]  [[G4561\|σὰρξ]]  [[G2532\|καὶ]]  [[G0129G\|αἷμα]]  [[G3756\|οὐκ]]  [[G0601\|ἀπεκάλυψέν]]  [[G4771\|σοι]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic BAR-JONA|BAR-JONA]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic REVELATION|REVELATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.16|<< Matthew 16:16]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.18|Matthew 16:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

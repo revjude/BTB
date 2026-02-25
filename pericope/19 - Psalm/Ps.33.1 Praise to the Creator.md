@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Praise to the Creator
+type: Pericope
 pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 33
 book/chapter: "[[Ps.33|Psalm 33]]"
-genre:
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 22
 verses:
 - "[[Ps.33.1]]"
 - "[[Ps.33.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Ps.33.22]]"
 ---
 
-[[Ps.33|Psalm 33:1 - Psalm 33:22]]
+<small>[[Ps.33|Psalm 33:1-22]]</small>
 *Praise to the Creator*
 
 [[Ps.33.1|1]] Rejoice in the LORD, O ye righteous: \[for\] praise is comely for the upright.

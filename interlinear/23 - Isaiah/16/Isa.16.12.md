@@ -1,8 +1,63 @@
+---
+title: Isaiah 16:12
+type: Verse
+kjv: "And it shall come to pass, when it is seen that Moab is weary on the high place, that he shall come to his sanctuary to pray; but he shall not prevail."
+bsb: "When Moab appears on the high place, when he wearies himself and enters his sanctuary to pray, it will do him no good."
+hebrew: "וְהָיָ֧ה כִֽי־ נִרְאָ֛ה כִּֽי־ נִלְאָ֥ה מוֹאָ֖ב עַל־ הַבָּמָ֑ה וּבָ֧א אֶל־ מִקְדָּשׁ֛וֹ לְהִתְפַּלֵּ֖ל וְלֹ֥א יוּכָֽל׃"
+pericope: "[[Isa.16.1 Moab’s Destruction|Moab’s Destruction]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 16
+book/chapter: "[[Isa.16|Isaiah 16]]"
+chronological_order: 633
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H3811]]"
+- "[[H4124G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4720]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6419]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 16:12**<big><big>[[Isa.16.1 Moab’s Destruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when it is seen that Moab is weary on the high place, that he shall come to his sanctuary to pray; but he shall not prevail.
 <small><sub>**BSB:**</sub></small>
 When Moab appears on the high place, when he wearies himself and enters his sanctuary to pray, it will do him no good.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֧ה]] [[H3588A\|כִֽי]][[H9014\|־]] [[H7200G\|נִרְאָ֛ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3811\|נִלְאָ֥ה]] [[H4124G\|מוֹאָ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1116\|בָּמָ֑ה]] [[H9001\|וּ]][[H0935G\|בָ֧א]] [[H0413\|אֶל]][[H9014\|־]] [[H4720\|מִקְדָּשׁ֛]][[H9023\|וֹ]] [[H9005\|לְ]][[H6419\|הִתְפַּלֵּ֖ל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|יוּכָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.11|<< Isaiah 16:11]]</td><td align="center" style="border:none;">[[Isa.16|Isaiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.16.13|Isaiah 16:13 >>]]</td></tr></table>
 

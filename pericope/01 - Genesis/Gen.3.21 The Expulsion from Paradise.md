@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Expulsion from Paradise
+type: Pericope
 pericope: "[[Gen.3.21 The Expulsion from Paradise|The Expulsion from Paradise]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 3
 book/chapter: "[[Gen.3|Genesis 3]]"
-genre:
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 4
 verses:
 - "[[Gen.3.21]]"
 - "[[Gen.3.22]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gen.3.24]]"
 ---
 
-[[Gen.3|Genesis 3:21 - Genesis 3:24]]
+<small>[[Gen.3|Genesis 3:21-24]]</small>
 *The Expulsion from Paradise*
 
 [[Gen.3.21|21]] Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.

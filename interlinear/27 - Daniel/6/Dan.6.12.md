@@ -1,8 +1,88 @@
+---
+title: Daniel 6:12
+type: Verse
+kjv: "Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which altereth not."
+bsb: "So they approached the king and asked about his royal decree: “Did you not sign a decree that for thirty days any man who petitions any god or man except you, O king, will be thrown into the den of lions?” The king replied, “According to the law of the Medes and Persians the order stands, and it cannot be repealed.”"
+aramaic: "בֵּ֠אדַיִן קְרִ֨יבוּ וְאָמְרִ֥ין קֳדָם־ מַלְכָּא֮ עַל־ אֱסָ֣ר מַלְכָּא֒ הֲלָ֧א אֱסָ֣ר רְשַׁ֗מְתָּ דִּ֣י כָל־ אֱנָ֡שׁ דִּֽי־ יִבְעֵה֩ מִן־ כָּל־ אֱלָ֨הּ וֶֽאֱנָ֜שׁ עַד־ יוֹמִ֣ין תְּלָתִ֗ין לָהֵן֙ מִנָּ֣ךְ מַלְכָּ֔א יִתְרְמֵ֕א לְג֖וֹב אַרְיָותָ֑א עָנֵ֨ה מַלְכָּ֜א וְאָמַ֗ר יַצִּיבָ֧א מִלְּתָ֛א כְּדָת־ מָדַ֥י וּפָרַ֖ס דִּי־ לָ֥א תֶעְדֵּֽא׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic KING|KING]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H7127]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H6925]]"
+- "[[H9014]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H5922]]"
+- "[[H0633]]"
+- "[[H9008]]"
+- "[[H3809]]"
+- "[[H7560]]"
+- "[[H1768]]"
+- "[[H3606]]"
+- "[[H0606]]"
+- "[[H1156]]"
+- "[[H4481]]"
+- "[[H0426]]"
+- "[[H5705]]"
+- "[[H3118]]"
+- "[[H8533]]"
+- "[[H3861]]"
+- "[[H9031]]"
+- "[[H7412]]"
+- "[[H9005]]"
+- "[[H1358]]"
+- "[[H0744]]"
+- "[[H6032]]"
+- "[[H3330]]"
+- "[[H4406]]"
+- "[[H9004]]"
+- "[[H1882]]"
+- "[[H4076G]]"
+- "[[H6540]]"
+- "[[H5709]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:12**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, that every man that shall ask [a petition] of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing [is] true, according to the law of the Medes and Persians, which altereth not.
 <small><sub>**BSB:**</sub></small>
 So they approached the king and asked about his royal decree: “Did you not sign a decree that for thirty days any man who petitions any god or man except you, O king, will be thrown into the den of lions?” The king replied, “According to the law of the Medes and Persians the order stands, and it cannot be repealed.”
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ֠]][[H0116\|אדַיִן]] [[H7127\|קְרִ֨יבוּ]] [[H9002\|וְ]][[H0560\|אָמְרִ֥ין]] [[H6925\|קֳדָם]][[H9014\|־]] [[H4430\|מַלְכָּ]][[H9010\|א֮]] [[H5922\|עַל]][[H9014\|־]] [[H0633\|אֱסָ֣ר]] [[H4430\|מַלְכָּ]][[H9010\|א֒]] [[H9008\|הֲ]][[H3809\|לָ֧א]] [[H0633\|אֱסָ֣ר]] [[H7560\|רְשַׁ֗מְתָּ]] [[H1768\|דִּ֣י]] [[H3606\|כָל]][[H9014\|־]] [[H0606\|אֱנָ֡שׁ]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1156\|יִבְעֵה֩]] [[H4481\|מִן]][[H9014\|־]] [[H3606\|כָּל]][[H9014\|־]] [[H0426\|אֱלָ֨הּ]] [[H9002\|וֶֽ]][[H0606\|אֱנָ֜שׁ]] [[H5705\|עַד]][[H9014\|־]] [[H3118\|יוֹמִ֣ין]] [[H8533\|תְּלָתִ֗ין]] [[H3861\|לָהֵן֙]] [[H4481\|מִנָּ֣]][[H9031\|ךְ]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H7412\|יִתְרְמֵ֕א]] [[H9005\|לְ]][[H1358\|ג֖וֹב]] [[H0744\|אַרְיָותָ֑]][[H9010\|א]] [[H6032\|עָנֵ֨ה]] [[H4430\|מַלְכָּ֜]][[H9010\|א]] [[H9002\|וְ]][[H0560\|אָמַ֗ר]] [[H3330\|יַצִּיבָ֧א]] [[H4406\|מִלְּתָ֛]][[H9010\|א]] [[H9004\|כְּ]][[H1882\|דָת]][[H9014\|־]] [[H4076G\|מָדַ֥י]] [[H9002\|וּ]][[H6540\|פָרַ֖ס]] [[H1768\|דִּי]][[H9014\|־]] [[H3809\|לָ֥א]] [[H5709\|תֶעְדֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic CONSTITUTION|CONSTITUTION]] • [[topic DANIEL|DANIEL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic KING|KING]] • [[topic PERSIA|PERSIA]] • [[topic POLITICS|POLITICS]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.11|<< Daniel 6:11]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.13|Daniel 6:13 >>]]</td></tr></table>
 

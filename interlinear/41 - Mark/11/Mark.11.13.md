@@ -1,10 +1,68 @@
+---
+title: Mark 11:13
+type: Verse
+kjv: "And seeing a fig tree afar off having leaves, he came, if haply he might find any thing thereon: and when he came to it, he found nothing but leaves; for the time of figs was not yet."
+bsb: "Seeing in the distance a fig tree in leaf, He went to see if there was any fruit on it. But when He reached it, He found nothing on it except leaves, since it was not the season for figs."
+greek: "καὶ ἰδὼν συκῆν ἀπὸ μακρόθεν ἔχουσαν φύλλα ἦλθεν εἰ ἄρα τι εὑρήσει ἐν αὐτῇ. καὶ ἐλθὼν ἐπ᾽ αὐτὴν οὐδὲν εὗρεν εἰ μὴ φύλλα· ὁ γὰρ καιρὸς οὐκ ἦν σύκων."
+pericope: "[[Mark.11.12 Jesus Curses the Fig Tree|Jesus Curses the Fig Tree]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic UNFRUITFULNESS|UNFRUITFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G4808]]"
+- "[[G0575]]"
+- "[[G3113]]"
+- "[[G2192]]"
+- "[[G5444]]"
+- "[[G2064]]"
+- "[[G1487G]]"
+- "[[G0686]]"
+- "[[G5100]]"
+- "[[G2147]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G3762]]"
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2540]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G4810]]"
+texts:
+- NKO
+- no
+---
+
 **Mark 11:13**<big><big>[[Mark.11.12 Jesus Curses the Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And seeing a fig tree afar off having leaves, he came, if haply he might find any thing thereon: and when he came to it, he found nothing but leaves; for the time of figs was not [yet].
 <small><sub>**BSB:**</sub></small>
 Seeing in the distance a fig tree in leaf, He went to see if there was any fruit on it. But when He reached it, He found nothing on it except leaves, since it was not the season for figs.
-<small><sub>**Literal:**</sub></small>
-And having seen a fig tree from afar having leaves He went if perhaps anything He will find on it. And having come to it no [thing] He found only except leaves; the for season not it was of figs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.12|<< Mark 11:12]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.14|Mark 11:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G4808\|συκῆν]]  [[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G2192\|ἔχουσαν]]  [[G5444\|φύλλα]]  [[G2064\|ἦλθεν]]  [[G1487G\|εἰ]]  [[G0686\|ἄρα]]  [[G5100\|τι]]  [[G2147\|εὑρήσει]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ.]]  [[G2532\|καὶ]]  [[G2064\|ἐλθὼν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὴν]]  [[G3762\|οὐδὲν]]  [[G2147\|εὗρεν]]  [[G1487G\|εἰ]]  [[G3361\|μὴ]]  [[G5444\|φύλλα·]]  [[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G2540\|καιρὸς]]  [[G3756\|οὐκ]]  [[G1510\|ἦν]]  [[G4810\|σύκων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic REPROOF|REPROOF]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic UNFRUITFULNESS|UNFRUITFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.12|<< Mark 11:12]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.14|Mark 11:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

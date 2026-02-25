@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 15:15
+type: Verse
+kjv: "And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee: therefore I command thee this thing to day."
+bsb: "Remember that you were slaves in the land of Egypt, and the LORD your God redeemed you; that is why I am giving you this command today."
+hebrew: "וְזָכַרְתָּ֗ כִּ֣י עֶ֤בֶד הָיִ֙יתָ֙ בְּאֶ֣רֶץ מִצְרַ֔יִם וַֽיִּפְדְּךָ֖ יְהוָ֣ה אֱלֹהֶ֑יךָ עַל־ כֵּ֞ן אָנֹכִ֧י מְצַוְּךָ֛ אֶת־ הַדָּבָ֥ר הַזֶּ֖ה הַיּֽוֹם׃"
+pericope: "[[Deut.15.12 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H3588A]]"
+- "[[H5650]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H6299]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:15**<big><big>[[Deut.15.12 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee: therefore I command thee this thing to day.
 <small><sub>**BSB:**</sub></small>
 Remember that you were slaves in the land of Egypt, and the LORD your God redeemed you; that is why I am giving you this command today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2142\|זָכַרְתָּ֗]] [[H3588A\|כִּ֣י]] [[H5650\|עֶ֤בֶד]] [[H1961\|הָיִ֙יתָ֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וַֽ]][[H6299\|יִּפְדְּ]][[H9031\|ךָ֖]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֞ן]] [[H0595\|אָנֹכִ֧י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HUMILITY|HUMILITY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.14|<< Deuteronomy 15:14]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.16|Deuteronomy 15:16 >>]]</td></tr></table>
 

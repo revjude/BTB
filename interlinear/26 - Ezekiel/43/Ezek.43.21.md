@@ -1,8 +1,59 @@
+---
+title: Ezekiel 43:21
+type: Verse
+kjv: "Thou shalt take the bullock also of the sin offering, and he shall burn it in the appointed place of the house, without the sanctuary."
+bsb: "Then you are to take away the bull for the sin offering and burn it in the appointed part of the temple area outside the sanctuary."
+hebrew: "וְלָ֣קַחְתָּ֔ אֵ֖ת הַפָּ֣ר הַֽחַטָּ֑את וּשְׂרָפוֹ֙ בְּמִפְקַ֣ד הַבַּ֔יִת מִח֖וּץ לַמִּקְדָּֽשׁ׃"
+pericope: "[[Ezek.43.13 The Altar of Sacrifice|The Altar of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H6499]]"
+- "[[H2403H]]"
+- "[[H8313]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4662H]]"
+- "[[H1004B]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H4720]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:21**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt take the bullock also of the sin offering, and he shall burn it in the appointed place of the house, without the sanctuary.
 <small><sub>**BSB:**</sub></small>
 Then you are to take away the bull for the sin offering and burn it in the appointed part of the temple area outside the sanctuary.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָ֣קַחְתָּ֔]] [[H0853\|אֵ֖ת]] [[H9009\|הַ]][[H6499\|פָּ֣ר]] [[H9009\|הַֽ]][[H2403H\|חַטָּ֑את]] [[H9001\|וּ]][[H8313\|שְׂרָפ]][[H9033\|וֹ֙]] [[H9003\|בְּ]][[H4662H\|מִפְקַ֣ד]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H9005\|לַ]][[H4720\|מִּקְדָּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.20|<< Ezekiel 43:20]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.22|Ezekiel 43:22 >>]]</td></tr></table>
 

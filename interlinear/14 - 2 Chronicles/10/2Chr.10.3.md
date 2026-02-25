@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 10:3
+type: Verse
+kjv: "And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,"
+bsb: "So they sent for Jeroboam, and he and all Israel came to Rehoboam and said,"
+hebrew: "וַֽיִּשְׁלְחוּ֙ וַיִּקְרְאוּ־ ל֔וֹ וַיָּבֹ֥א יָרָבְעָ֖ם וְכָל־ יִשְׂרָאֵ֑ל וַֽיְדַבְּר֔וּ אֶל־ רְחַבְעָ֖ם לֵאמֹֽר׃"
+pericope: "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H7121G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0935G]]"
+- "[[H3379G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H7346]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 10:3**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,
 <small><sub>**BSB:**</sub></small>
 So they sent for Jeroboam, and he and all Israel came to Rehoboam and said,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7971G\|יִּשְׁלְחוּ֙]] [[H9001\|וַ]][[H7121G\|יִּקְרְאוּ]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H3379G\|יָרָבְעָ֖ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַֽ]][[H1696G\|יְדַבְּר֔וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H7346\|רְחַבְעָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDIDATE|CANDIDATE]] • [[topic REHOBOAM|REHOBOAM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.2|<< 2 Chronicles 10:2]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.4|2 Chronicles 10:4 >>]]</td></tr></table>
 

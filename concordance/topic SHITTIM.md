@@ -19,7 +19,7 @@
 
 - The staves (long poles) of the ark of the covenant made of [[Exod.25.13|Ex 25:13]]; [[Exod.38.6|38:6]]
 
-- The boards in the tabernacle made of [[Exod.26.15|Ex 26:15]]-[[Exod.26.37|37]]
+- The boards in the tabernacle made of [[Exod.26.15|Ex 26:15-37]]
 
 - The altar of burnt offering made of [[Exod.38.1|Ex 38:1]],[[Exod.38.6|6]]
 

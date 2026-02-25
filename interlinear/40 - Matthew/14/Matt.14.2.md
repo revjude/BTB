@@ -1,10 +1,60 @@
+---
+title: Matthew 14:2
+type: Verse
+kjv: "And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him."
+bsb: "and said to his servants, “This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him.”"
+greek: "καὶ εἶπεν τοῖς παισὶν αὐτοῦ· οὗτός ἐστιν Ἰωάννης ὁ βαπτιστής· αὐτὸς ἠγέρθη ἀπὸ τῶν νεκρῶν, καὶ διὰ τοῦτο αἱ δυνάμεις ἐνεργοῦσιν ἐν αὐτῷ."
+pericope: "[[Matt.14.1 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2491G]]"
+- "[[G0910]]"
+- "[[G1453]]"
+- "[[G0575]]"
+- "[[G3498]]"
+- "[[G1223]]"
+- "[[G1411]]"
+- "[[G1754]]"
+- "[[G1722]]"
+texts:
+- NKO
+---
+
 **Matthew 14:2**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him.
 <small><sub>**BSB:**</sub></small>
 and said to his servants, “This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him.”
-<small><sub>**Literal:**</sub></small>
-and he said to the servants of him; This is John the Baptist; he himself is risen from the dead, and because of this the miraculous powers are working in him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.1|<< Matthew 14:1]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.3|Matthew 14:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|τοῖς]]  [[G3816\|παισὶν]]  [[G0846\|αὐτοῦ·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G2491G\|Ἰωάννης]]  [[G3588\|ὁ]]  [[G0910\|βαπτιστής·]]  [[G0846\|αὐτὸς]]  [[G1453\|ἠγέρθη]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν,]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3588\|αἱ]]  [[G1411\|δυνάμεις]]  [[G1754\|ἐνεργοῦσιν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.1|<< Matthew 14:1]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.3|Matthew 14:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

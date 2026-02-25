@@ -1,8 +1,65 @@
+---
+title: Leviticus 14:24
+type: Verse
+kjv: "And the priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them for a wave offering before the LORD:"
+bsb: "The priest shall take the lamb for the guilt offering, along with the log of olive oil, and wave them as a wave offering before the LORD."
+hebrew: "וְלָקַ֧ח הַכֹּהֵ֛ן אֶת־ כֶּ֥בֶשׂ הָאָשָׁ֖ם וְאֶת־ לֹ֣ג הַשָּׁ֑מֶן וְהֵנִ֨יף אֹתָ֧ם הַכֹּהֵ֛ן תְּנוּפָ֖ה לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic LOG|LOG]]"
+- "[[topic MEASURE|MEASURE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3532]]"
+- "[[H0817]]"
+- "[[H9002]]"
+- "[[H3849]]"
+- "[[H8081]]"
+- "[[H5130B]]"
+- "[[H9038]]"
+- "[[H8573]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:24**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them [for] a wave offering before the LORD:
 <small><sub>**BSB:**</sub></small>
 The priest shall take the lamb for the guilt offering, along with the log of olive oil, and wave them as a wave offering before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֧ח]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3532\|כֶּ֥בֶשׂ]] [[H9009\|הָ]][[H0817\|אָשָׁ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3849\|לֹ֣ג]] [[H9009\|הַ]][[H8081\|שָּׁ֑מֶן]] [[H9001\|וְ]][[H5130B\|הֵנִ֨יף]] [[H0853\|אֹתָ֧]][[H9038\|ם]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H8573\|תְּנוּפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic LOG|LOG]] • [[topic MEASURE|MEASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.23|<< Leviticus 14:23]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.25|Leviticus 14:25 >>]]</td></tr></table>
 

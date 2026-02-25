@@ -1,8 +1,70 @@
+---
+title: Leviticus 3:2
+type: Verse
+kjv: "And he shall lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron’s sons the priests shall sprinkle the blood upon the altar round about."
+bsb: "He is to lay his hand on the head of the offering and slaughter it at the entrance to the Tent of Meeting. Then Aaron’s sons the priests shall splatter the blood on all sides of the altar."
+hebrew: "וְסָמַ֤ךְ יָדוֹ֙ עַל־ רֹ֣אשׁ קָרְבָּנ֔וֹ וּשְׁחָט֕וֹ פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד וְזָרְק֡וּ בְּנֵי֩ אַהֲרֹ֨ן הַכֹּהֲנִ֧ים אֶת־ הַדָּ֛ם עַל־ הַמִּזְבֵּ֖חַ סָבִֽיב׃"
+pericope: "[[Lev.3.1 Laws for Peace Offerings|Laws for Peace Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 3
+book/chapter: "[[Lev.3|Leviticus 3]]"
+chronological_order: 135
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic HAND|HAND]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5564]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H7133A]]"
+- "[[H7819A]]"
+- "[[H9033]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H2236]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H1818]]"
+- "[[H4196]]"
+- "[[H5439H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 3:2**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall lay his hand upon the head of his offering, and kill it [at] the door of the tabernacle of the congregation: and Aaron’s sons the priests shall sprinkle the blood upon the altar round about.
 <small><sub>**BSB:**</sub></small>
 He is to lay his hand on the head of the offering and slaughter it at the entrance to the Tent of Meeting. Then Aaron’s sons the priests shall splatter the blood on all sides of the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5564\|סָמַ֤ךְ]] [[H3027G\|יָד]][[H9023\|וֹ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]] [[H7133A\|קָרְבָּנ֔]][[H9023\|וֹ]] [[H9001\|וּ]][[H7819A\|שְׁחָט֕]][[H9033\|וֹ]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וְ]][[H2236\|זָרְק֡וּ]] [[H1121A\|בְּנֵי֩]] [[H0175\|אַהֲרֹ֨ן]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֧ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֛ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H5439H\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic HAND|HAND]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.1|<< Leviticus 3:1]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.3|Leviticus 3:3 >>]]</td></tr></table>
 

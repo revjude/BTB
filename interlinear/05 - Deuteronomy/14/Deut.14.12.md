@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 14:12
+type: Verse
+kjv: "But these are they of which ye shall not eat: the eagle, and the ossifrage, and the ospray,"
+bsb: "but these you may not eat: the eagle, the bearded vulture, the black vulture,"
+hebrew: "וְזֶ֕ה אֲשֶׁ֥ר לֹֽא־ תֹאכְל֖וּ מֵהֶ֑ם הַנֶּ֥שֶׁר וְהַפֶּ֖רֶס וְהָֽעָזְנִיָּֽה׃"
+pericope: "[[Deut.14.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic OSPREY|OSPREY]]"
+- "[[topic OSSIFRAGE|OSSIFRAGE]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H5404]]"
+- "[[H6538]]"
+- "[[H5822]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:12**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But these [are they] of which ye shall not eat: the eagle, and the ossifrage, and the ospray,
 <small><sub>**BSB:**</sub></small>
 but these you may not eat: the eagle, the bearded vulture, the black vulture,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֕ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|תֹאכְל֖וּ]] [[H9006\|מֵ]][[H9038\|הֶ֑ם]] [[H9009\|הַ]][[H5404\|נֶּ֥שֶׁר]] [[H9002\|וְ]][[H9009\|הַ]][[H6538\|פֶּ֖רֶס]] [[H9002\|וְ]][[H9009\|הָֽ]][[H5822\|עָזְנִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BIRDS|BIRDS]] • [[topic EAGLE|EAGLE]] • [[topic OSPREY|OSPREY]] • [[topic OSSIFRAGE|OSSIFRAGE]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.11|<< Deuteronomy 14:11]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.13|Deuteronomy 14:13 >>]]</td></tr></table>
 

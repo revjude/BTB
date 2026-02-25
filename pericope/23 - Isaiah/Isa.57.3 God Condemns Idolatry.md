@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Condemns Idolatry
+type: Pericope
 pericope: "[[Isa.57.3 God Condemns Idolatry|God Condemns Idolatry]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 57
 book/chapter: "[[Isa.57|Isaiah 57]]"
-genre:
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 11
 verses:
 - "[[Isa.57.3]]"
 - "[[Isa.57.4]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Isa.57.13]]"
 ---
 
-[[Isa.57|Isaiah 57:3 - Isaiah 57:13]]
+<small>[[Isa.57|Isaiah 57:3-13]]</small>
 *God Condemns Idolatry*
 
 [[Isa.57.3|3]] But draw near hither, ye sons of the sorceress, the seed of the adulterer and the whore.

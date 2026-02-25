@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 27:7
+type: Verse
+kjv: "And thou shalt offer peace offerings, and shalt eat there, and rejoice before the LORD thy God."
+bsb: "There you are to sacrifice your peace offerings, eating them and rejoicing in the presence of the LORD your God."
+hebrew: "וְזָבַחְתָּ֥ שְׁלָמִ֖ים וְאָכַ֣לְתָּ שָּׁ֑ם וְשָׂ֣מַחְתָּ֔ לִפְנֵ֖י יְהוָ֥ה אֱלֹהֶֽיךָ׃"
+pericope: "[[Deut.27.1 The Altar on Mount Ebal|The Altar on Mount Ebal]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 27
+book/chapter: "[[Deut.27|Deuteronomy 27]]"
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H8002]]"
+- "[[H0398]]"
+- "[[H8033G]]"
+- "[[H8055]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 27:7**<big><big>[[Deut.27.1 The Altar on Mount Ebal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt offer peace offerings, and shalt eat there, and rejoice before the LORD thy God.
 <small><sub>**BSB:**</sub></small>
 There you are to sacrifice your peace offerings, eating them and rejoicing in the presence of the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2076\|זָבַחְתָּ֥]] [[H8002\|שְׁלָמִ֖ים]] [[H9001\|וְ]][[H0398\|אָכַ֣לְתָּ]] [[H8033G\|שָּׁ֑ם]] [[H9001\|וְ]][[H8055\|שָׂ֣מַחְתָּ֔]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CURSE|CURSE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.27.6|<< Deuteronomy 27:6]]</td><td align="center" style="border:none;">[[Deut.27|Deuteronomy 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.27.8|Deuteronomy 27:8 >>]]</td></tr></table>
 

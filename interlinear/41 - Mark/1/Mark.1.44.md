@@ -1,10 +1,65 @@
+---
+title: Mark 1:44
+type: Verse
+kjv: "And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them."
+bsb: "“See that you don’t tell anyone. But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”"
+jesus_said: "See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them."
+greek: "καὶ λέγει αὐτῷ· ὅρα, μηδενὶ μηδὲν εἴπῃς· ἀλλ᾽ ὕπαγε, σεαυτὸν δεῖξον τῷ ἱερεῖ καὶ προσένεγκε περὶ τοῦ καθαρισμοῦ σου ἃ προσέταξεν Μωϋσῆς εἰς μαρτύριον αὐτοῖς."
+pericope: "[[Mark.1.40 The Leper’s Prayer|The Leper’s Prayer]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WORSHIP|WORSHIP]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3708]]"
+- "[[G3367]]"
+- "[[G2036]]"
+- "[[G0235]]"
+- "[[G5217]]"
+- "[[G4771]]"
+- "[[G1166]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G4374]]"
+- "[[G4012]]"
+- "[[G2512]]"
+- "[[G3739]]"
+- "[[G4367]]"
+- "[[G3475]]"
+- "[[G1519]]"
+- "[[G3142]]"
+texts:
+- NKO
+---
+
 **Mark 1:44**<big><big>[[Mark.1.40 The Leper’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saith unto him, See thou say nothing to any man: but go thy way, shew thyself to the priest, and offer for thy cleansing those things which Moses commanded, for a testimony unto them.
 <small><sub>**BSB:**</sub></small>
 “See that you don’t tell anyone. But go, show yourself to the priest and present the offering Moses prescribed for your cleansing, as a testimony to them.”
-<small><sub>**Literal:**</sub></small>
-And He says to him; do see [that] nothing to none may you speak; But do go, yourself do show to the priest and do offer for the cleansing of you what commanded Moses for a testimony to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.43|<< Mark 1:43]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.45|Mark 1:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G3708\|ὅρα,]]  [[G3367\|μηδενὶ]]  [[G3367\|μηδὲν]]  [[G2036\|εἴπῃς·]]  [[G0235\|ἀλλ᾽]]  [[G5217\|ὕπαγε,]]  [[G4771\|σεαυτὸν]]  [[G1166\|δεῖξον]]  [[G3588\|τῷ]]  [[G2409\|ἱερεῖ]]  [[G2532\|καὶ]]  [[G4374\|προσένεγκε]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2512\|καθαρισμοῦ]]  [[G4771\|σου]]  [[G3739\|ἃ]]  [[G4367\|προσέταξεν]]  [[G3475\|Μωϋσῆς]]  [[G1519\|εἰς]]  [[G3142\|μαρτύριον]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic WORSHIP|WORSHIP]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.43|<< Mark 1:43]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.45|Mark 1:45 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 1:44** is...
 > $\quad$ alluding to: [[LXX.Lev.14.2|Lev 14:2]]

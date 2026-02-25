@@ -1,8 +1,59 @@
+---
+title: Jeremiah 42:19
+type: Verse
+kjv: "The LORD hath said concerning you, O ye remnant of Judah; Go ye not into Egypt: know certainly that I have admonished you this day."
+bsb: "The LORD has told you, O remnant of Judah, ‘Do not go to Egypt.’ Know for sure that I have warned you today!"
+hebrew: "דִּבֶּ֨ר יְהוָ֤ה עֲלֵיכֶם֙ שְׁאֵרִ֣ית יְהוּדָ֔ה אַל־ תָּבֹ֖אוּ מִצְרָ֑יִם יָדֹ֙עַ֙ תֵּֽדְע֔וּ כִּי־ הַעִידֹ֥תִי בָכֶ֖ם הַיּֽוֹם׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H7611]]"
+- "[[H3063G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H5749B]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:19**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath said concerning you, O ye remnant of Judah; Go ye not into Egypt: know certainly that I have admonished you this day.
 <small><sub>**BSB:**</sub></small>
 The LORD has told you, O remnant of Judah, ‘Do not go to Egypt.’ Know for sure that I have warned you today!
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דִּבֶּ֨ר]] [[H3068G\|יְהוָ֤ה]] [[H5921A\|עֲלֵי]][[H9036\|כֶם֙]] [[H7611\|שְׁאֵרִ֣ית]] [[H3063G\|יְהוּדָ֔ה]] [[H0408\|אַל]][[H9014\|־]] [[H0935G\|תָּבֹ֖אוּ]] [[H4714G\|מִצְרָ֑יִם]] [[H3045\|יָדֹ֙עַ֙]] [[H3045\|תֵּֽדְע֔וּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H5749B\|הַעִידֹ֥תִי]] [[H9003\|בָ]][[H9036\|כֶ֖ם]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.18|<< Jeremiah 42:18]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.20|Jeremiah 42:20 >>]]</td></tr></table>
 

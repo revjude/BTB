@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Teaches at the Feast
+type: Pericope
 pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
-verse_count: 24
+original_language: Greek
 testament: New
 book: John
 chapter: 7
 book/chapter: "[[John.7|John 7]]"
-genre:
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 24
 verses:
 - "[[John.7.1]]"
 - "[[John.7.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[John.7.24]]"
 ---
 
-[[John.7|John 7:1 - John 7:24]]
+<small>[[John.7|John 7:1-24]]</small>
 *Jesus Teaches at the Feast*
 
 [[John.7.1|1]] After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.

@@ -1,10 +1,56 @@
+---
+title: Mark 4:25
+type: Verse
+kjv: "For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath."
+bsb: "For whoever has will be given more. But whoever does not have, even what he has will be taken away from him.”"
+jesus_said: "For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath."
+greek: "ὃς γὰρ ἂν ἔχει, δοθήσεται αὐτῷ· καὶ ὃς οὐκ ἔχει, καὶ ὃ ἔχει ἀρθήσεται ἀπ᾽ αὐτοῦ.¶"
+pericope: "[[Mark.4.21 The Lesson of the Lamp|The Lesson of the Lamp]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G0302]]"
+- "[[G2192]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0142]]"
+- "[[G0575]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 4:25**<big><big>[[Mark.4.21 The Lesson of the Lamp|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath.
 <small><sub>**BSB:**</sub></small>
 For whoever has will be given more. But whoever does not have, even what he has will be taken away from him.”
-<small><sub>**Literal:**</sub></small>
-Who[ever] for maybe has, it will be given to him; and he who not has, even what he has will be taken away from him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.24|<< Mark 4:24]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.26|Mark 4:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1063\|γὰρ]]  [[G0302\|ἂν]]  [[G2192\|ἔχει,]]  [[G1325\|δοθήσεται]]  [[G0846\|αὐτῷ·]]  [[G2532\|καὶ]]  [[G3739\|ὃς]]  [[G3756\|οὐκ]]  [[G2192\|ἔχει,]]  [[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G2192\|ἔχει]]  [[G0142\|ἀρθήσεται]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERMON|SERMON]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.24|<< Mark 4:24]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.26|Mark 4:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

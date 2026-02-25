@@ -1,8 +1,56 @@
+---
+title: Job 20:21
+type: Verse
+kjv: "There shall none of his meat be left; therefore shall no man look for his goods."
+bsb: "Nothing is left for him to consume; thus his prosperity will not endure."
+hebrew: "אֵין־ שָׂרִ֥יד לְאָכְל֑וֹ עַל־ כֵּ֝֗ן לֹא־ יָחִ֥יל טוּבֽוֹ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic POOR|POOR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H8300]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H9043]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H2342B]]"
+- "[[H2898]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:21**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall none of his meat be left; therefore shall no man look for his goods.
 <small><sub>**BSB:**</sub></small>
 Nothing is left for him to consume; thus his prosperity will not endure.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵין]][[H9014\|־]] [[H8300\|שָׂרִ֥יד]] [[H9005\|לְ]][[H0398\|אָכְל֑]][[H9043\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֝֗ן]] [[H3808\|לֹא]][[H9014\|־]] [[H2342B\|יָחִ֥יל]] [[H2898\|טוּבֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.20|<< Job 20:20]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.22|Job 20:22 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Genesis 23:2
+type: Verse
+kjv: "And Sarah died in Kirjatharba; the same is Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her."
+bsb: "She died in Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went out to mourn and to weep for her."
+hebrew: "וַתָּ֣מָת שָׂרָ֗ה בְּקִרְיַ֥ת אַרְבַּ֛ע הִ֥וא חֶבְר֖וֹן בְּאֶ֣רֶץ כְּנָ֑עַן וַיָּבֹא֙ אַבְרָהָ֔ם לִסְפֹּ֥ד לְשָׂרָ֖ה וְלִבְכֹּתָֽהּ׃"
+pericope: "[[Gen.23.1 The Death and Burial of Sarah|The Death and Burial of Sarah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 23
+book/chapter: "[[Gen.23|Genesis 23]]"
+chronological_order: 65
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic KIRJATH-ARBA|KIRJATH-ARBA]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H8283]]"
+- "[[H9003]]"
+- "[[H7153]]"
+- "[[H1931]]"
+- "[[H2275A]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H0935G]]"
+- "[[H0085]]"
+- "[[H9005]]"
+- "[[H5594]]"
+- "[[H9002]]"
+- "[[H1058]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 23:2**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sarah died in Kirjatharba; the same [is] Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.
 <small><sub>**BSB:**</sub></small>
 She died in Kiriath-arba (that is, Hebron) in the land of Canaan, and Abraham went out to mourn and to weep for her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|תָּ֣מָת]] [[H8283\|שָׂרָ֗ה]] [[H9003\|בְּ]][[H7153\|קִרְיַ֥ת]] [[H7153\|אַרְבַּ֛ע]] [[H1931\|הִ֥וא]] [[H2275A\|חֶבְר֖וֹן]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H0085\|אַבְרָהָ֔ם]] [[H9005\|לִ]][[H5594\|סְפֹּ֥ד]] [[H9005\|לְ]][[H8283\|שָׂרָ֖ה]] [[H9002\|וְ]][[H9005\|לִ]][[H1058\|בְכֹּתָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic CANAAN|CANAAN]] • [[topic HEBRON|HEBRON]] • [[topic KIRJATH-ARBA|KIRJATH-ARBA]] • [[topic MOURNING|MOURNING]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.1|<< Genesis 23:1]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.3|Genesis 23:3 >>]]</td></tr></table>
 

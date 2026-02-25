@@ -1,8 +1,63 @@
+---
+title: Exodus 2:17
+type: Verse
+kjv: "And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock."
+bsb: "And when some shepherds came along and drove them away, Moses rose up to help them and watered their flock."
+hebrew: "וַיָּבֹ֥אוּ הָרֹעִ֖ים וַיְגָרְשׁ֑וּם וַיָּ֤קָם מֹשֶׁה֙ וַיּ֣וֹשִׁעָ֔ן וַיַּ֖שְׁקְ אֶת־ צֹאנָֽם׃"
+pericope: "[[Exod.2.11 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic JETHRO|JETHRO]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic ZIPPORAH|ZIPPORAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H1644G]]"
+- "[[H9038]]"
+- "[[H6965B]]"
+- "[[H4872]]"
+- "[[H3467]]"
+- "[[H9039]]"
+- "[[H8248G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:17**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock.
 <small><sub>**BSB:**</sub></small>
 And when some shepherds came along and drove them away, Moses rose up to help them and watered their flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥אוּ]] [[H9009\|הָ]][[H7462B\|רֹעִ֖ים]] [[H9001\|וַ]][[H1644G\|יְגָרְשׁ֑וּ]][[H9038\|ם]] [[H9001\|וַ]][[H6965B\|יָּ֤קָם]] [[H4872\|מֹשֶׁה֙]] [[H9001\|וַ]][[H3467\|יּ֣וֹשִׁעָ֔]][[H9039\|ן]] [[H9001\|וַ]][[H8248G\|יַּ֖שְׁקְ]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹאנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JETHRO|JETHRO]] • [[topic MOSES|MOSES]] • [[topic ZIPPORAH|ZIPPORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.16|<< Exodus 2:16]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.18|Exodus 2:18 >>]]</td></tr></table>
 

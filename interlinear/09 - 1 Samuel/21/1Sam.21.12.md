@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 21:12
+type: Verse
+kjv: "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath."
+bsb: "Now David took these words to heart and was very much afraid of Achish the king of Gath."
+hebrew: "וַיָּ֧שֶׂם דָּוִ֛ד אֶת־ הַדְּבָרִ֥ים הָאֵ֖לֶּה בִּלְבָב֑וֹ וַיִּרָ֣א מְאֹ֔ד מִפְּנֵ֖י אָכִ֥ישׁ מֶֽלֶךְ־ גַּֽת׃"
+pericope: "[[1Sam.21.8 David Flees to Gath|David Flees to Gath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 21
+book/chapter: "[[1Sam.21|1 Samuel 21]]"
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ACHISH|ACHISH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic GATH|GATH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760K]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H3372G]]"
+- "[[H3966]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H0397]]"
+- "[[H4428G]]"
+- "[[H1661]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 21:12**<big><big>[[1Sam.21.8 David Flees to Gath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David laid up these words in his heart, and was sore afraid of Achish the king of Gath.
 <small><sub>**BSB:**</sub></small>
 Now David took these words to heart and was very much afraid of Achish the king of Gath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760K\|יָּ֧שֶׂם]] [[H1732\|דָּוִ֛ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9003\|בִּ]][[H3824\|לְבָב֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3372G\|יִּרָ֣א]] [[H3966\|מְאֹ֔ד]] [[H9006\|מִ]][[H6440L\|פְּנֵ֖י]] [[H0397\|אָכִ֥ישׁ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H1661\|גַּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHISH|ACHISH]] • [[topic DAVID|DAVID]] • [[topic DECEPTION|DECEPTION]] • [[topic GATH|GATH]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.11|<< 1 Samuel 21:11]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.13|1 Samuel 21:13 >>]]</td></tr></table>
 

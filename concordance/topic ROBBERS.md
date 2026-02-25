@@ -1,7 +1,7 @@
 
 **ROBBERS**
 
-→ General scriptures concerning [[Prov.1.11|Pr 1:11]]-[[Prov.1.16|16]]
+→ General scriptures concerning [[Prov.1.11|Pr 1:11-16]]
 
 → Dens of [[Jer.7.11|Jer 7:11]]
 

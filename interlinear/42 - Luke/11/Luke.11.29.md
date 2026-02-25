@@ -1,10 +1,69 @@
+---
+title: Luke 11:29
+type: Verse
+kjv: "And when the people were gathered thick together, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet."
+bsb: "As the crowds were increasing, Jesus said, “This is a wicked generation. It demands a sign, but none will be given it except the sign of Jonah."
+jesus_said: "This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet."
+greek: "Τῶν δὲ ὄχλων ἐπαθροιζομένων ἤρξατο λέγειν· ἡ γενεὰ αὕτη γενεὰ πονηρά ἐστιν. σημεῖον ζητεῖ, καὶ σημεῖον οὐ δοθήσεται αὐτῇ εἰ μὴ τὸ σημεῖον Ἰωνᾶ τοῦ προφήτου."
+pericope: "[[Luke.11.29 The Sign of Jonah|The Sign of Jonah]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JONAH|JONAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3793]]"
+- "[[G1865]]"
+- "[[G0757]]"
+- "[[G3004G]]"
+- "[[G1074]]"
+- "[[G3778]]"
+- "[[G4190]]"
+- "[[G1510]]"
+- "[[G4592]]"
+- "[[G2212]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2495H]]"
+- "[[G4396]]"
+texts:
+- NKO
+- no
+- N(k)O
+- K
+---
+
 **Luke 11:29**<big><big>[[Luke.11.29 The Sign of Jonah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the people were gathered thick together, he began to say, This is an evil generation: they seek a sign; and there shall no sign be given it, but the sign of Jonas the prophet.
 <small><sub>**BSB:**</sub></small>
 As the crowds were increasing, Jesus said, “This is a wicked generation. It demands a sign, but none will be given it except the sign of Jonah.
-<small><sub>**Literal:**</sub></small>
-Of the now crowds being pressed around together He began to say; <the> generation this generation an evil is. a sign it seeks after, and a sign not will be given to it only except the sign of Jonah the prophet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.28|<< Luke 11:28]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.30|Luke 11:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῶν]]  [[G1161\|δὲ]]  [[G3793\|ὄχλων]]  [[G1865\|ἐπαθροιζομένων]]  [[G0757\|ἤρξατο]]  [[G3004G\|λέγειν·]]  [[G3588\|ἡ]]  [[G1074\|γενεὰ]]  [[G3778\|αὕτη]]  [[G1074\|γενεὰ]]  [[G4190\|πονηρά]]  [[G1510\|ἐστιν.]]  [[G4592\|σημεῖον]]  [[G2212\|ζητεῖ,]]  [[G2532\|καὶ]]  [[G4592\|σημεῖον]]  [[G3756\|οὐ]]  [[G1325\|δοθήσεται]]  [[G0846\|αὐτῇ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τὸ]]  [[G4592\|σημεῖον]]  [[G2495H\|Ἰωνᾶ]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JONAH|JONAH]] • [[topic MIRACLES|MIRACLES]] • [[topic PHARISEES|PHARISEES]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.28|<< Luke 11:28]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.30|Luke 11:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Syrians Flee
+type: Pericope
 pericope: "[[2Kgs.7.3 The Syrians Flee|The Syrians Flee]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 7
 book/chapter: "[[2Kgs.7|2 Kings 7]]"
-genre:
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 13
 verses:
 - "[[2Kgs.7.3]]"
 - "[[2Kgs.7.4]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Kgs.7.15]]"
 ---
 
-[[2Kgs.7|2 Kings 7:3 - 2 Kings 7:15]]
+<small>[[2Kgs.7|2 Kings 7:3-15]]</small>
 *The Syrians Flee*
 
 [[2Kgs.7.3|3]] And there were four leprous men at the entering in of the gate: and they said one to another, Why sit we here until we die?

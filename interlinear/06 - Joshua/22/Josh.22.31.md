@@ -1,8 +1,83 @@
+---
+title: Joshua 22:31
+type: Verse
+kjv: "And Phinehas the son of Eleazar the priest said unto the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceive that the LORD is among us, because ye have not committed this trespass against the LORD: now ye have delivered the children of Israel out of the hand of the LORD."
+bsb: "Phinehas son of Eleazar the priest said to the descendants of Reuben, Gad, and Manasseh, “Today we know that the LORD is among us, because you have not committed this breach of faith against Him. Consequently, you have delivered the Israelites from the hand of the LORD.”"
+hebrew: "וַיֹּ֣אמֶר פִּֽינְחָ֣ס בֶּן־ אֶלְעָזָ֣ר הַכֹּהֵ֡ן אֶל־ בְּנֵי־ רְאוּבֵ֨ן וְאֶל־ בְּנֵי־ גָ֜ד וְאֶל־ בְּנֵ֣י מְנַשֶּׁ֗ה הַיּ֤וֹם׀ יָדַ֙עְנוּ֙ כִּֽי־ בְתוֹכֵ֣נוּ יְהוָ֔ה אֲשֶׁ֛ר לֹֽא־ מְעַלְתֶּ֥ם בַּֽיהוָ֖ה הַמַּ֣עַל הַזֶּ֑ה אָ֗ז הִצַּלְתֶּ֛ם אֶת־ בְּנֵ֥י יִשְׂרָאֵ֖ל מִיַּ֥ד יְהוָֽה׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6372G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H7205]]"
+- "[[H9002]]"
+- "[[H1410G]]"
+- "[[H4519G]]"
+- "[[H3117G]]"
+- "[[H9015]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9025]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H4603]]"
+- "[[H4604]]"
+- "[[H2088]]"
+- "[[H0227A]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:31**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Phinehas the son of Eleazar the priest said unto the children of Reuben, and to the children of Gad, and to the children of Manasseh, This day we perceive that the LORD [is] among us, because ye have not committed this trespass against the LORD: now ye have delivered the children of Israel out of the hand of the LORD.
 <small><sub>**BSB:**</sub></small>
 Phinehas son of Eleazar the priest said to the descendants of Reuben, Gad, and Manasseh, “Today we know that the LORD is among us, because you have not committed this breach of faith against Him. Consequently, you have delivered the Israelites from the hand of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H6372G\|פִּֽינְחָ֣ס]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֡ן]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H7205\|רְאוּבֵ֨ן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H1410G\|גָ֜ד]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H4519G\|מְנַשֶּׁ֗ה]] [[H9009\|הַ]][[H3117G\|יּ֤וֹם]][[H9015\|׀]] [[H3045\|יָדַ֙עְנוּ֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בְ]][[H8432\|תוֹכֵ֣]][[H9025\|נוּ]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4603\|מְעַלְתֶּ֥ם]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֖ה]] [[H9009\|הַ]][[H4604\|מַּ֣עַל]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H0227A\|אָ֗ז]] [[H5337\|הִצַּלְתֶּ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.30|<< Joshua 22:30]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.32|Joshua 22:32 >>]]</td></tr></table>
 

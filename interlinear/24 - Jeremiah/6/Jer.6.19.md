@@ -1,8 +1,69 @@
+---
+title: Jeremiah 6:19
+type: Verse
+kjv: "Hear, O earth: behold, I will bring evil upon this people, even the fruit of their thoughts, because they have not hearkened unto my words, nor to my law, but rejected it."
+bsb: "Hear, O earth! I am bringing disaster on this people, the fruit of their own schemes, because they have paid no attention to My word and have rejected My instruction."
+hebrew: "שִׁמְעִ֣י הָאָ֔רֶץ הִנֵּ֨ה אָנֹכִ֜י מֵבִ֥יא רָעָ֛ה אֶל־ הָעָ֥ם הַזֶּ֖ה פְּרִ֣י מַחְשְׁבוֹתָ֑ם כִּ֤י עַל־ דְּבָרַי֙ לֹ֣א הִקְשִׁ֔יבוּ וְתוֹרָתִ֖י וַיִּמְאֲסוּ־ בָֽהּ׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H0935P]]"
+- "[[H7451C]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H6529]]"
+- "[[H4284]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H7181]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H9001]]"
+- "[[H3988A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:19**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, O earth: behold, I will bring evil upon this people, [even] the fruit of their thoughts, because they have not hearkened unto my words, nor to my law, but rejected it.
 <small><sub>**BSB:**</sub></small>
 Hear, O earth! I am bringing disaster on this people, the fruit of their own schemes, because they have paid no attention to My word and have rejected My instruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְעִ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֜י]] [[H0935P\|מֵבִ֥יא]] [[H7451C\|רָעָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H6529\|פְּרִ֣י]] [[H4284\|מַחְשְׁבוֹתָ֑]][[H9028\|ם]] [[H3588A\|כִּ֤י]] [[H5921A\|עַל]][[H9014\|־]] [[H1697G\|דְּבָרַ]][[H9020\|י֙]] [[H3808\|לֹ֣א]] [[H7181\|הִקְשִׁ֔יבוּ]] [[H9002\|וְ]][[H8451\|תוֹרָתִ֖]][[H9020\|י]] [[H9001\|וַ]][[H3988A\|יִּמְאֲסוּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.18|<< Jeremiah 6:18]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.20|Jeremiah 6:20 >>]]</td></tr></table>
 

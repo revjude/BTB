@@ -1,8 +1,56 @@
+---
+title: Ezekiel 1:7
+type: Verse
+kjv: "And their feet were straight feet; and the sole of their feet was like the sole of a calf’s foot: and they sparkled like the colour of burnished brass."
+bsb: "Their legs were straight, and the soles of their feet were like the hooves of a calf, gleaming like polished bronze."
+hebrew: "וְרַגְלֵיהֶ֖ם רֶ֣גֶל יְשָׁרָ֑ה וְכַ֣ף רַגְלֵיהֶ֗ם כְּכַף֙ רֶ֣גֶל עֵ֔גֶל וְנֹ֣צְצִ֔ים כְּעֵ֖ין נְחֹ֥שֶׁת קָלָֽל׃"
+pericope: "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BRASS|BRASS]]"
+strongs:
+- "[[H9002]]"
+- "[[H7272]]"
+- "[[H9028]]"
+- "[[H3477G]]"
+- "[[H3709H]]"
+- "[[H9004]]"
+- "[[H5695]]"
+- "[[H5340]]"
+- "[[H5869I]]"
+- "[[H5178A]]"
+- "[[H7044]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:7**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their feet [were] straight feet; and the sole of their feet [was] like the sole of a calf’s foot: and they sparkled like the colour of burnished brass.
 <small><sub>**BSB:**</sub></small>
 Their legs were straight, and the soles of their feet were like the hooves of a calf, gleaming like polished bronze.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7272\|רַגְלֵי]][[H9028\|הֶ֖ם]] [[H7272\|רֶ֣גֶל]] [[H3477G\|יְשָׁרָ֑ה]] [[H9002\|וְ]][[H3709H\|כַ֣ף]] [[H7272\|רַגְלֵי]][[H9028\|הֶ֗ם]] [[H9004\|כְּ]][[H3709H\|כַף֙]] [[H7272\|רֶ֣גֶל]] [[H5695\|עֵ֔גֶל]] [[H9002\|וְ]][[H5340\|נֹ֣צְצִ֔ים]] [[H9004\|כְּ]][[H5869I\|עֵ֖ין]] [[H5178A\|נְחֹ֥שֶׁת]] [[H7044\|קָלָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BRASS|BRASS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.6|<< Ezekiel 1:6]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.8|Ezekiel 1:8 >>]]</td></tr></table>
 

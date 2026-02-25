@@ -1,10 +1,65 @@
+---
+title: Acts 28:8
+type: Verse
+kjv: "And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him."
+bsb: "The father of Publius was sick in bed, suffering from fever and dysentery. Paul went in to see him, and after praying and placing his hands on him, he healed the man."
+greek: "Ἐγένετο δὲ τὸν πατέρα τοῦ Ποπλίου πυρετοῖς καὶ δυσεντερίῳ συνεχόμενον κατακεῖσθαι· πρὸς ὃν ὁ Παῦλος εἰσελθὼν καὶ προσευξάμενος, ἐπιθεὶς τὰς χεῖρας αὐτῷ, ἰάσατο αὐτόν.¶"
+pericope: "[[Acts.28.1 Ashore on Malta|Ashore on Malta]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DYSENTERY|DYSENTERY]]"
+- "[[topic FEVER|FEVER]]"
+- "[[topic MELITA (MALTA)|MELITA (MALTA)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PUBLIUS|PUBLIUS]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4196]]"
+- "[[G4446]]"
+- "[[G2532]]"
+- "[[G1420]]"
+- "[[G4912]]"
+- "[[G2621]]"
+- "[[G4314]]"
+- "[[G3739]]"
+- "[[G3972G]]"
+- "[[G1525]]"
+- "[[G4336]]"
+- "[[G2007]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G2390]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 28:8**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that the father of Publius lay sick of a fever and of a bloody flux: to whom Paul entered in, and prayed, and laid his hands on him, and healed him.
 <small><sub>**BSB:**</sub></small>
 The father of Publius was sick in bed, suffering from fever and dysentery. Paul went in to see him, and after praying and placing his hands on him, he healed the man.
-<small><sub>**Literal:**</sub></small>
-It came to pass then the father <the> of Publius with fevers and with dysentery oppressed [was] lying; to whom <the> Paul having entered and having prayed, having laid the hands on him, healed him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.7|<< Acts 28:7]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.9|Acts 28:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3588\|τοῦ]]  [[G4196\|Ποπλίου]]  [[G4446\|πυρετοῖς]]  [[G2532\|καὶ]]  [[G1420\|δυσεντερίῳ]]  [[G4912\|συνεχόμενον]]  [[G2621\|κατακεῖσθαι·]]  [[G4314\|πρὸς]]  [[G3739\|ὃν]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G1525\|εἰσελθὼν]]  [[G2532\|καὶ]]  [[G4336\|προσευξάμενος,]]  [[G2007\|ἐπιθεὶς]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G0846\|αὐτῷ,]]  [[G2390\|ἰάσατο]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DYSENTERY|DYSENTERY]] • [[topic FEVER|FEVER]] • [[topic MELITA (MALTA)|MELITA (MALTA)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic PUBLIUS|PUBLIUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.7|<< Acts 28:7]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.9|Acts 28:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

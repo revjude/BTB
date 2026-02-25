@@ -1,10 +1,51 @@
+---
+title: Mark 6:9
+type: Verse
+kjv: "But be shod with sandals; and not put on two coats."
+bsb: "and to wear sandals, but not a second tunic."
+greek: "ἀλλ᾽ ὑποδεδεμένους σανδάλια, καὶ μὴ ἐνδύσησθε δύο χιτῶνας."
+pericope: "[[Mark.6.7 The Ministry of the Twelve|The Ministry of the Twelve]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0235]]"
+- "[[G5265]]"
+- "[[G4547]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1746]]"
+- "[[G1417]]"
+- "[[G5509]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Mark 6:9**<big><big>[[Mark.6.7 The Ministry of the Twelve|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But [be] shod with sandals; and not put on two coats.
 <small><sub>**BSB:**</sub></small>
 and to wear sandals, but not a second tunic.
-<small><sub>**Literal:**</sub></small>
-but having put on yourselves sandals, and not may put on two tunics.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.8|<< Mark 6:8]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.10|Mark 6:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G5265\|ὑποδεδεμένους]]  [[G4547\|σανδάλια,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1746\|ἐνδύσησθε]]  [[G1417\|δύο]]  [[G5509\|χιτῶνας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.8|<< Mark 6:8]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.10|Mark 6:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

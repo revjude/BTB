@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Reign and Death
+type: Pericope
 pericope: "[[1Chr.29.26 David’s Reign and Death|David’s Reign and Death]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 29
 book/chapter: "[[1Chr.29|1 Chronicles 29]]"
-genre:
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 5
 verses:
 - "[[1Chr.29.26]]"
 - "[[1Chr.29.27]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Chr.29.30]]"
 ---
 
-[[1Chr.29|1 Chronicles 29:26 - 1 Chronicles 29:30]]
+<small>[[1Chr.29|1 Chronicles 29:26-30]]</small>
 *David’s Reign and Death*
 
 [[1Chr.29.26|26]] Thus David the son of Jesse reigned over all Israel.

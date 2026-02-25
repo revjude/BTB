@@ -1,10 +1,57 @@
+---
+title: Hebrews 1:14
+type: Verse
+kjv: "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?"
+bsb: "Are not the angels ministering spirits sent to serve those who will inherit salvation?"
+greek: "οὐχὶ πάντες εἰσὶν λειτουργικὰ πνεύματα εἰς διακονίαν ἀποστελλόμενα διὰ τοὺς μέλλοντας κληρονομεῖν σωτηρίαν;¶"
+pericope: "[[Heb.1.1 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 1
+book/chapter: "[[Heb.1|Hebrews 1]]"
+chronological_order: 1140
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3780]]"
+- "[[G3956]]"
+- "[[G1510]]"
+- "[[G3010]]"
+- "[[G4151G]]"
+- "[[G1519]]"
+- "[[G1248]]"
+- "[[G0649]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3195]]"
+- "[[G2816]]"
+- "[[G4991]]"
+texts:
+- NKO
+---
+
 **Hebrews 1:14**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?
 <small><sub>**BSB:**</sub></small>
 Are not the angels ministering spirits sent to serve those who will inherit salvation?
-<small><sub>**Literal:**</sub></small>
-Surely all they are ministering spirits for service being sent forth for the sake of those being about to inherit salvation?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.13|<< Hebrews 1:13]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.1|Hebrews 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3780\|οὐχὶ]]  [[G3956\|πάντες]]  [[G1510\|εἰσὶν]]  [[G3010\|λειτουργικὰ]]  [[G4151G\|πνεύματα]]  [[G1519\|εἰς]]  [[G1248\|διακονίαν]]  [[G0649\|ἀποστελλόμενα]]  [[G1223\|διὰ]]  [[G3588\|τοὺς]]  [[G3195\|μέλλοντας]]  [[G2816\|κληρονομεῖν]]  [[G4991\|σωτηρίαν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic INHERITANCE|INHERITANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.13|<< Hebrews 1:13]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.1|Hebrews 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,72 @@
+---
+title: Revelation 3:2
+type: Verse
+kjv: "Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God."
+bsb: "Wake up and strengthen what remains, which is about to die; for I have found your deeds incomplete in the sight of My God."
+jesus_said: "Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God."
+greek: "γίνου γρηγορῶν καὶ στήρισον τὰ λοιπὰ ἃ ἔμελλον ἀποθανεῖν· οὐ γὰρ εὕρηκά σου τὰ ἔργα πεπληρωμένα ἐνώπιον τοῦ θεοῦ μου."
+pericope: "[[Rev.3.1 To the Church in Sardis|To the Church in Sardis]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SARDIS|SARDIS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1096]]"
+- "[[G1127]]"
+- "[[G2532]]"
+- "[[G4741]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G3739]]"
+- "[[G3195]]"
+- "[[G0599]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G2147]]"
+- "[[G4771]]"
+- "[[G2041]]"
+- "[[G4137]]"
+- "[[G1799]]"
+- "[[G2316]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)(O)
+- NK(O)
+- NO
+---
+
 **Revelation 3:2**<big><big>[[Rev.3.1 To the Church in Sardis|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.
 <small><sub>**BSB:**</sub></small>
 Wake up and strengthen what remains, which is about to die; for I have found your deeds incomplete in the sight of My God.
-<small><sub>**Literal:**</sub></small>
-do be watching and do strengthen the [things] that remain which <they> were about to die; not for I have found your <the> works completed in the sight of the God of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.1|<< Revelation 3:1]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.3|Revelation 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|γίνου]]  [[G1127\|γρηγορῶν]]  [[G2532\|καὶ]]  [[G4741\|στήρισον]]  [[G3588\|τὰ]]  [[G3062\|λοιπὰ]]  [[G3739\|ἃ]]  [[G3195\|ἔμελλον]]  [[G0599\|ἀποθανεῖν·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2147\|εὕρηκά]]  [[G4771\|σου]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G4137\|πεπληρωμένα]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SARDIS|SARDIS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.1|<< Revelation 3:1]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.3|Revelation 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

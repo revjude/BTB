@@ -1,8 +1,57 @@
+---
+title: Psalm 9:1
+type: Verse
+kjv: "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works."
+bsb: "For the choirmaster. To the tune of “The Death of the Son.” A Psalm of David. I will give thanks to the LORD with all my heart; I will recount all Your wonders."
+hebrew: "אוֹדֶ֣ה יְ֭הוָה בְּכָל־ לִבִּ֑י אֲ֝סַפְּרָ֗ה כָּל־ נִפְלְאוֹתֶֽיךָ׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H3034]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H5608A]]"
+- "[[H6381]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:1**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will praise [thee], O LORD, with my whole heart; I will shew forth all thy marvellous works.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “The Death of the Son.” A Psalm of David. I will give thanks to the LORD with all my heart; I will recount all Your wonders.
+<small><sub>**Hebrew:**</sub></small>
+[[H3034\|אוֹדֶ֣ה]] [[H3068G\|יְ֭הוָה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3820A\|לִבִּ֑]][[H9020\|י]] [[H5608A\|אֲ֝סַפְּרָ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H6381\|נִפְלְאוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic HEART|HEART]] • [[topic MUSIC|MUSIC]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.0|<< Psalms 9:0]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.2|Psalms 9:2 >>]]</td></tr></table>
 

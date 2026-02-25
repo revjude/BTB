@@ -1,8 +1,58 @@
+---
+title: Jeremiah 2:11
+type: Verse
+kjv: "Hath a nation changed their gods, which are yet no gods? but my people have changed their glory for that which doth not profit."
+bsb: "Has a nation ever changed its gods? (Yet they are not gods at all.) But My people have exchanged their Glory for useless idols."
+hebrew: "הַהֵימִ֥יר גּוֹי֙ אֱלֹהִ֔ים וְהֵ֖מָּה לֹ֣א אֱלֹהִ֑ים וְעַמִּ֛י הֵמִ֥יר כְּבוֹד֖וֹ בְּל֥וֹא יוֹעִֽיל׃"
+pericope: "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9008]]"
+- "[[H3235]]"
+- "[[H1471A]]"
+- "[[H0430]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H3808]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H4171]]"
+- "[[H3519]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3276]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:11**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hath a nation changed [their] gods, which [are] yet no gods? but my people have changed their glory for [that which] doth not profit.
 <small><sub>**BSB:**</sub></small>
 Has a nation ever changed its gods? (Yet they are not gods at all.) But My people have exchanged their Glory for useless idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H3235\|הֵימִ֥יר]] [[H1471A\|גּוֹי֙]] [[H0430\|אֱלֹהִ֔ים]] [[H9002\|וְ]][[H1992\|הֵ֖מָּה]] [[H3808\|לֹ֣א]] [[H0430\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H5971A\|עַמִּ֛]][[H9020\|י]] [[H4171\|הֵמִ֥יר]] [[H3519\|כְּבוֹד֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3808\|ל֥וֹא]] [[H3276\|יוֹעִֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.10|<< Jeremiah 2:10]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.12|Jeremiah 2:12 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Joel 2:5
+type: Verse
+kjv: "Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array."
+bsb: "With a sound like that of chariots they bound over the mountaintops, like the crackling of fire consuming stubble, like a mighty army deployed for battle."
+hebrew: "כְּק֣וֹל מַרְכָּב֗וֹת עַל־ רָאשֵׁ֤י הֶֽהָרִים֙ יְרַקֵּד֔וּן כְּקוֹל֙ לַ֣הַב אֵ֔שׁ אֹכְלָ֖ה קָ֑שׁ כְּעַ֣ם עָצ֔וּם עֱר֖וּךְ מִלְחָמָֽה׃"
+pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic STUBBLE|STUBBLE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9004]]"
+- "[[H6963H]]"
+- "[[H4818]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H7540]]"
+- "[[H9013]]"
+- "[[H3851]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H7179]]"
+- "[[H5971K]]"
+- "[[H6099]]"
+- "[[H6186A]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:5**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Like the noise of chariots on the tops of mountains shall they leap, like the noise of a flame of fire that devoureth the stubble, as a strong people set in battle array.
 <small><sub>**BSB:**</sub></small>
 With a sound like that of chariots they bound over the mountaintops, like the crackling of fire consuming stubble, like a mighty army deployed for battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H6963H\|ק֣וֹל]] [[H4818\|מַרְכָּב֗וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H7218I\|רָאשֵׁ֤י]] [[H9009\|הֶֽ]][[H2022G\|הָרִים֙]] [[H7540\|יְרַקֵּד֔וּ]][[H9013\|ן]] [[H9004\|כְּ]][[H6963H\|קוֹל֙]] [[H3851\|לַ֣הַב]] [[H0784\|אֵ֔שׁ]] [[H0398\|אֹכְלָ֖ה]] [[H7179\|קָ֑שׁ]] [[H9004\|כְּ]][[H5971K\|עַ֣ם]] [[H6099\|עָצ֔וּם]] [[H6186A\|עֱר֖וּךְ]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]] • [[topic STUBBLE|STUBBLE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.4|<< Joel 2:4]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.6|Joel 2:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

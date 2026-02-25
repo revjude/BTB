@@ -1,8 +1,53 @@
+---
+title: Job 15:10
+type: Verse
+kjv: "With us are both the grayheaded and very aged men, much elder than thy father."
+bsb: "Both the gray-haired and the aged are on our side—men much older than your father."
+hebrew: "גַּם־ שָׂ֣ב גַּם־ יָשִׁ֣ישׁ בָּ֑נוּ כַּבִּ֖יר מֵאָבִ֣יךָ יָמִֽים׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H7867]]"
+- "[[H3453]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H3524]]"
+- "[[H9006]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H3117H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:10**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With us [are] both the grayheaded and very aged men, much elder than thy father.
 <small><sub>**BSB:**</sub></small>
 Both the gray-haired and the aged are on our side—men much older than your father.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H7867\|שָׂ֣ב]] [[H1571\|גַּם]][[H9014\|־]] [[H3453\|יָשִׁ֣ישׁ]] [[H9003\|בָּ֑]][[H9035\|נוּ]] [[H3524\|כַּבִּ֖יר]] [[H9006\|מֵ]][[H0001G\|אָבִ֣י]][[H9021\|ךָ]] [[H3117H\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.9|<< Job 15:9]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.11|Job 15:11 >>]]</td></tr></table>
 

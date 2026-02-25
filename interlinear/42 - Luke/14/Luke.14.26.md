@@ -1,10 +1,74 @@
+---
+title: Luke 14:26
+type: Verse
+kjv: "If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple."
+bsb: "“If anyone comes to Me and does not hate his father and mother and wife and children and brothers and sisters—yes, even his own life—he cannot be My disciple."
+jesus_said: "If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple."
+greek: "εἴ τις ἔρχεται πρός με καὶ οὐ μισεῖ τὸν πατέρα ἑαυτοῦ καὶ τὴν μητέρα καὶ τὴν γυναῖκα καὶ τὰ τέκνα καὶ τοὺς ἀδελφοὺς καὶ τὰς ἀδελφάς, ἔτι τε καὶ τὴν ψυχὴν ἑαυτοῦ, οὐ δύναται εἶναί μου μαθητής."
+pericope: "[[Luke.14.25 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic DISCIPLESHIP|DISCIPLESHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STOICISM|STOICISM]]"
+strongs:
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3404]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1438]]"
+- "[[G3384]]"
+- "[[G1135H]]"
+- "[[G5043]]"
+- "[[G0080]]"
+- "[[G0079]]"
+- "[[G2089]]"
+- "[[G5037]]"
+- "[[G5590H]]"
+- "[[G1410]]"
+- "[[G1511]]"
+- "[[G3101]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Luke 14:26**<big><big>[[Luke.14.25 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If any [man] come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
 <small><sub>**BSB:**</sub></small>
 “If anyone comes to Me and does not hate his father and mother and wife and children and brothers and sisters—yes, even his own life—he cannot be My disciple.
-<small><sub>**Literal:**</sub></small>
-If anyone comes to Me and not he hates the father of himself and the mother and the wife and the children and the brothers and the sisters yes and even the life his own not he is able to be My disciple.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.25|<< Luke 14:25]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.27|Luke 14:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G5100\|τις]]  [[G2064\|ἔρχεται]]  [[G4314\|πρός]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3404\|μισεῖ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G1438\|ἑαυτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G5043\|τέκνα]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G0079\|ἀδελφάς,]]  [[G2089\|ἔτι]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5590H\|ψυχὴν]]  [[G1438\|ἑαυτοῦ,]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G1511\|εἶναί]]  [[G3165\|μου]]  [[G3101\|μαθητής.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic DISCIPLESHIP|DISCIPLESHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STOICISM|STOICISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.25|<< Luke 14:25]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.27|Luke 14:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 14:26** is...
 > $\quad$ alluding to: [[LXX.Mic.7.6|Mic 7:6]]

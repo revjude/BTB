@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elisha Heals the Waters of Jericho
+type: Pericope
 pericope: "[[2Kgs.2.19 Elisha Heals the Waters of Jericho|Elisha Heals the Waters of Jericho]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 2
 book/chapter: "[[2Kgs.2|2 Kings 2]]"
-genre:
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.2.19]]"
 - "[[2Kgs.2.20]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.2.22]]"
 ---
 
-[[2Kgs.2|2 Kings 2:19 - 2 Kings 2:22]]
+<small>[[2Kgs.2|2 Kings 2:19-22]]</small>
 *Elisha Heals the Waters of Jericho*
 
 [[2Kgs.2.19|19]] And the men of the city said unto Elisha, Behold, I pray thee, the situation of this city \[is\] pleasant, as my lord seeth: but the water \[is\] naught, and the ground barren.

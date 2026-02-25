@@ -1,8 +1,70 @@
+---
+title: Exodus 4:7
+type: Verse
+kjv: "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh."
+bsb: "“Put your hand back inside your cloak,” said the LORD. So Moses put his hand back inside his cloak, and when he took it out, it was restored, like the rest of his skin."
+hebrew: "וַיֹּ֗אמֶר הָשֵׁ֤ב יָֽדְךָ֙ אֶל־ חֵיקֶ֔ךָ וַיָּ֥שֶׁב יָד֖וֹ אֶל־ חֵיק֑וֹ וַיּֽוֹצִאָהּ֙ מֵֽחֵיק֔וֹ וְהִנֵּה־ שָׁ֖בָה כִּבְשָׂרֽוֹ׃"
+pericope: "[[Exod.4.6 Moses’ Hand|Moses’ Hand]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7725G]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2436H]]"
+- "[[H9023]]"
+- "[[H3318H]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7725H]]"
+- "[[H9004]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:7**<big><big>[[Exod.4.6 Moses’ Hand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his [other] flesh.
 <small><sub>**BSB:**</sub></small>
 “Put your hand back inside your cloak,” said the LORD. So Moses put his hand back inside his cloak, and when he took it out, it was restored, like the rest of his skin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H7725G\|הָשֵׁ֤ב]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H2436H\|חֵיקֶ֔]][[H9021\|ךָ]] [[H9001\|וַ]][[H7725G\|יָּ֥שֶׁב]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H2436H\|חֵיק֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3318H\|יּֽוֹצִאָ]][[H9034\|הּ֙]] [[H9006\|מֵֽ]][[H2436H\|חֵיק֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H7725H\|שָׁ֖בָה]] [[H9004\|כִּ]][[H1320\|בְשָׂרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic SIGN|SIGN]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.6|<< Exodus 4:6]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.8|Exodus 4:8 >>]]</td></tr></table>
 

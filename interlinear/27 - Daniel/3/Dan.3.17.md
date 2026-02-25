@@ -1,8 +1,75 @@
+---
+title: Daniel 3:17
+type: Verse
+kjv: "If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O king."
+bsb: "If the God whom we serve exists, then He is able to deliver us from the blazing fiery furnace and from your hand, O king."
+aramaic: "הֵ֣ן אִיתַ֗י אֱלָהַ֙נָא֙ דִּֽי־ אֲנַ֣חְנָא פָֽלְחִ֔ין יָכִ֖ל לְשֵׁיזָבוּתַ֑נָא מִן־ אַתּ֨וּן נוּרָ֧א יָקִֽדְתָּ֛א וּמִן־ יְדָ֥ךְ מַלְכָּ֖א יְשֵׁיזִֽב׃"
+pericope: "[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|Shadrach, Meshach, and Abednego Accused]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H2006A]]"
+- "[[H0383]]"
+- "[[H0426]]"
+- "[[H9025]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H0586]]"
+- "[[H6399]]"
+- "[[H3202]]"
+- "[[H9005]]"
+- "[[H7804]]"
+- "[[H9035]]"
+- "[[H4481]]"
+- "[[H0861]]"
+- "[[H5135]]"
+- "[[H9010]]"
+- "[[H3345]]"
+- "[[H9002]]"
+- "[[H3028]]"
+- "[[H9021]]"
+- "[[H4430]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 3:17**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If it be [so], our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver [us] out of thine hand, O king.
 <small><sub>**BSB:**</sub></small>
 If the God whom we serve exists, then He is able to deliver us from the blazing fiery furnace and from your hand, O king.
+<small><sub>**Aramaic:**</sub></small>
+[[H2006A\|הֵ֣ן]] [[H0383\|אִיתַ֗י]] [[H0426\|אֱלָהַ֙]][[H9025\|נָא֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H0586\|אֲנַ֣חְנָא]] [[H6399\|פָֽלְחִ֔ין]] [[H3202\|יָכִ֖ל]] [[H9005\|לְ]][[H7804\|שֵׁיזָבוּתַ֑]][[H9035\|נָא]] [[H4481\|מִן]][[H9014\|־]] [[H0861\|אַתּ֨וּן]] [[H5135\|נוּרָ֧]][[H9010\|א]] [[H3345\|יָקִֽדְתָּ֛]][[H9010\|א]] [[H9002\|וּ]][[H4481\|מִן]][[H9014\|־]] [[H3028\|יְדָ֥]][[H9021\|ךְ]] [[H4430\|מַלְכָּ֖]][[H9010\|א]] [[H7804\|יְשֵׁיזִֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic COERCION|COERCION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic FURNACE|FURNACE]] • [[topic GOD|GOD]] • [[topic MESHACH|MESHACH]] • [[topic MISHAEL|MISHAEL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POWER|POWER]] • [[topic RULERS|RULERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.16|<< Daniel 3:16]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.18|Daniel 3:18 >>]]</td></tr></table>
 

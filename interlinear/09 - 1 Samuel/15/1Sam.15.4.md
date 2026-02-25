@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 15:4
+type: Verse
+kjv: "And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah."
+bsb: "So Saul summoned the troops and numbered them at Telaim—200,000 foot soldiers and 10,000 men of Judah."
+hebrew: "וַיְשַׁמַּ֤ע שָׁאוּל֙ אֶת־ הָעָ֔ם וַֽיִּפְקְדֵם֙ בַּטְּלָאִ֔ים מָאתַ֥יִם אֶ֖לֶף רַגְלִ֑י וַעֲשֶׂ֥רֶת אֲלָפִ֖ים אֶת־ אִ֥ישׁ יְהוּדָֽה׃"
+pericope: "[[1Sam.15.1 Saul’s Disobedience|Saul’s Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic TELAIM|TELAIM]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085I]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H6485A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H2923]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H7273]]"
+- "[[H9002]]"
+- "[[H6235]]"
+- "[[H0854]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:4**<big><big>[[1Sam.15.1 Saul’s Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah.
 <small><sub>**BSB:**</sub></small>
 So Saul summoned the troops and numbered them at Telaim—200,000 foot soldiers and 10,000 men of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085I\|יְשַׁמַּ֤ע]] [[H7586G\|שָׁאוּל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וַֽ]][[H6485A\|יִּפְקְדֵ]][[H9038\|ם֙]] [[H9003\|בַּ]][[H2923\|טְּלָאִ֔ים]] [[H3967\|מָאתַ֥יִם]] [[H0505G\|אֶ֖לֶף]] [[H7273\|רַגְלִ֑י]] [[H9002\|וַ]][[H6235\|עֲשֶׂ֥רֶת]] [[H0505G\|אֲלָפִ֖ים]] [[H0854\|אֶת]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic RETALIATION|RETALIATION]] • [[topic TELAIM|TELAIM]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.3|<< 1 Samuel 15:3]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.5|1 Samuel 15:5 >>]]</td></tr></table>
 

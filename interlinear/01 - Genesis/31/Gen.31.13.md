@@ -1,8 +1,73 @@
+---
+title: Genesis 31:13
+type: Verse
+kjv: "I am the God of Bethel, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred."
+bsb: "I am the God of Bethel, where you anointed the pillar and made a solemn vow to Me. Now get up, leave this land at once, and return to your native land.’”"
+hebrew: "אָנֹכִ֤י הָאֵל֙ בֵּֽית־ אֵ֔ל אֲשֶׁ֨ר מָשַׁ֤חְתָּ שָּׁם֙ מַצֵּבָ֔ה אֲשֶׁ֨ר נָדַ֥רְתָּ לִּ֛י שָׁ֖ם נֶ֑דֶר עַתָּ֗ה ק֥וּם צֵא֙ מִן־ הָאָ֣רֶץ הַזֹּ֔את וְשׁ֖וּב אֶל־ אֶ֥רֶץ מוֹלַדְתֶּֽךָ׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H0595]]"
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H4886]]"
+- "[[H8033G]]"
+- "[[H4676]]"
+- "[[H5087]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5088]]"
+- "[[H6258]]"
+- "[[H6965B]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H4138]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:13**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] the God of Bethel, where thou anointedst the pillar, [and] where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.
 <small><sub>**BSB:**</sub></small>
 I am the God of Bethel, where you anointed the pillar and made a solemn vow to Me. Now get up, leave this land at once, and return to your native land.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H0595\|אָנֹכִ֤י]] [[H9009\|הָ]][[H0410G\|אֵל֙]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֔ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H4886\|מָשַׁ֤חְתָּ]] [[H8033G\|שָּׁם֙]] [[H4676\|מַצֵּבָ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5087\|נָדַ֥רְתָּ]] [[H9005\|לִּ֛]][[H9030\|י]] [[H8033G\|שָׁ֖ם]] [[H5088\|נֶ֑דֶר]] [[H6258\|עַתָּ֗ה]] [[H6965B\|ק֥וּם]] [[H3318G\|צֵא֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9002\|וְ]][[H7725G\|שׁ֖וּב]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4138\|מוֹלַדְתֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BETH-EL|BETH-EL]] • [[topic DREAM|DREAM]] • [[topic GOD|GOD]] • [[topic LABAN|LABAN]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.12|<< Genesis 31:12]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.14|Genesis 31:14 >>]]</td></tr></table>
 

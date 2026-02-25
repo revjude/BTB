@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 23:19
+type: Verse
+kjv: "Was he not most honourable of three? therefore he was their captain: howbeit he attained not unto the first three."
+bsb: "Was he not more honored than the Three? And he became their commander, even though he was not included among the Three."
+hebrew: "מִן־ הַשְּׁלֹשָׁה֙ הֲכִ֣י נִכְבָּ֔ד וַיְהִ֥י לָהֶ֖ם לְשָׂ֑ר וְעַד־ הַשְּׁלֹשָׁ֖ה לֹא־ בָֽא׃ ס"
+pericope: "[[2Sam.23.8 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7969]]"
+- "[[H9008]]"
+- "[[H3588A]]"
+- "[[H3513G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 23:19**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Was he not most honourable of three? therefore he was their captain: howbeit he attained not unto the [first] three.
 <small><sub>**BSB:**</sub></small>
 Was he not more honored than the Three? And he became their commander, even though he was not included among the Three.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7969\|שְּׁלֹשָׁה֙]] [[H9008\|הֲ]][[H3588A\|כִ֣י]] [[H3513G\|נִכְבָּ֔ד]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H8269\|שָׂ֑ר]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H7969\|שְּׁלֹשָׁ֖ה]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|בָֽא]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.18|<< 2 Samuel 23:18]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.20|2 Samuel 23:20 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ Was he not more honored than the Three? And he became their commander, even thou
 | and to  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the three  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7969\|שְּׁלֹשָׁ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> she.lo.Shah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he came  |**<big>&#8207;[[H0935G\|בָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he came  |**<big>&#8207;[[H0935G\|בָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.18|<< 2 Samuel 23:18]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.20|2 Samuel 23:20 >>]]</td></tr></table>
 
 

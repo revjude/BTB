@@ -1,10 +1,56 @@
+---
+title: Mark 5:38
+type: Verse
+kjv: "And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly."
+bsb: "When they arrived at the house of the synagogue leader, Jesus saw the commotion and the people weeping and wailing loudly."
+greek: "Καὶ ἔρχονται εἰς τὸν οἶκον τοῦ ἀρχισυναγώγου. καὶ θεωρεῖ θόρυβον καὶ κλαίοντας καὶ ἀλαλάζοντας πολλά,"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G0752]]"
+- "[[G2334]]"
+- "[[G2351]]"
+- "[[G2799]]"
+- "[[G0214]]"
+- "[[G4183]]"
+texts:
+- NKO
+- N(K)O
+- no
+---
+
 **Mark 5:38**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.
 <small><sub>**BSB:**</sub></small>
 When they arrived at the house of the synagogue leader, Jesus saw the commotion and the people weeping and wailing loudly.
-<small><sub>**Literal:**</sub></small>
-And they come to the house of the ruler of the synagogue. and He beholds a commotion and weeping and wailing much,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.37|<< Mark 5:37]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.39|Mark 5:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἔρχονται]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3588\|τοῦ]]  [[G0752\|ἀρχισυναγώγου.]]  [[G2532\|καὶ]]  [[G2334\|θεωρεῖ]]  [[G2351\|θόρυβον]]  [[G2532\|καὶ]]  [[G2799\|κλαίοντας]]  [[G2532\|καὶ]]  [[G0214\|ἀλαλάζοντας]]  [[G4183\|πολλά,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.37|<< Mark 5:37]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.39|Mark 5:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

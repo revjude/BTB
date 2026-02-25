@@ -1,8 +1,61 @@
+---
+title: 1 Kings 20:12
+type: Verse
+kjv: "And it came to pass, when Benhadad heard this message, as he was drinking, he and the kings in the pavilions, that he said unto his servants, Set yourselves in array. And they set themselves in array against the city."
+bsb: "Ben-hadad received this message while he and the kings were drinking in their tents, and he said to his servants, “Take your positions.” So they stationed themselves against the city."
+hebrew: "וַיְהִ֗י כִּשְׁמֹ֙עַ֙ אֶת־ הַדָּבָ֣ר הַזֶּ֔ה וְה֥וּא שֹׁתֶ֛ה ה֥וּא וְהַמְּלָכִ֖ים בַּסֻּכּ֑וֹת וַיֹּ֤אמֶר אֶל־ עֲבָדָיו֙ שִׂ֔ימוּ וַיָּשִׂ֖ימוּ עַל־ הָעִֽיר׃"
+pericope: "[[1Kgs.20.1 Ben-hadad Attacks Samaria|Ben-hadad Attacks Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H8354]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H5521]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H7760I]]"
+- "[[H5921A]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:12**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when [Benhadad] heard this message, as he [was] drinking, he and the kings in the pavilions, that he said unto his servants, Set [yourselves in array]. And they set [themselves in array] against the city.
 <small><sub>**BSB:**</sub></small>
 Ben-hadad received this message while he and the kings were drinking in their tents, and he said to his servants, “Take your positions.” So they stationed themselves against the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֙עַ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H8354\|שֹׁתֶ֛ה]] [[H1931\|ה֥וּא]] [[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מְּלָכִ֖ים]] [[H9003\|בַּ]][[H5521\|סֻּכּ֑וֹת]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עֲבָדָי]][[H9023\|ו֙]] [[H7760I\|שִׂ֔ימוּ]] [[H9001\|וַ]][[H7760I\|יָּשִׂ֖ימוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.11|<< 1 Kings 20:11]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.13|1 Kings 20:13 >>]]</td></tr></table>
 

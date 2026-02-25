@@ -1,8 +1,44 @@
+---
+title: Zephaniah 3:1
+type: Verse
+kjv: "Woe to her that is filthy and polluted, to the oppressing city!"
+bsb: "Woe to the city of oppressors, rebellious and defiled!"
+hebrew: "ה֥וֹי מֹרְאָ֖ה וְנִגְאָלָ֑ה הָעִ֖יר הַיּוֹנָֽה׃"
+pericope: "[[Zeph.3.1 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H1945]]"
+- "[[H4754]]"
+- "[[H9002]]"
+- "[[H1351]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3238]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 3:1**<big><big>[[Zeph.3.1 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to her that is filthy and polluted, to the oppressing city!
 <small><sub>**BSB:**</sub></small>
 Woe to the city of oppressors, rebellious and defiled!
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֥וֹי]] [[H4754\|מֹרְאָ֖ה]] [[H9002\|וְ]][[H1351\|נִגְאָלָ֑ה]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9009\|הַ]][[H3238\|יּוֹנָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.15|<< Zephaniah 2:15]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.2|Zephaniah 3:2 >>]]</td></tr></table>
 

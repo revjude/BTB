@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Return to Nazareth
+type: Pericope
 pericope: "[[Matt.2.19 The Return to Nazareth|The Return to Nazareth]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 2
 book/chapter: "[[Matt.2|Matthew 2]]"
-genre:
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.2.19]]"
 - "[[Matt.2.20]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.2.23]]"
 ---
 
-[[Matt.2|Matthew 2:19 - Matthew 2:23]]
+<small>[[Matt.2|Matthew 2:19-23]]</small>
 *The Return to Nazareth*
 
 [[Matt.2.19|19]] But when Herod was dead, behold, an angel of the Lord appeareth in a dream to Joseph in Egypt,

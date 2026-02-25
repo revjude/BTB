@@ -1,8 +1,57 @@
+---
+title: Psalm 78:63
+type: Verse
+kjv: "The fire consumed their young men; and their maidens were not given to marriage."
+bsb: "Fire consumed His young men, and their maidens were left without wedding songs."
+hebrew: "בַּחוּרָ֥יו אָֽכְלָה־ אֵ֑שׁ וּ֝בְתוּלֹתָ֗יו לֹ֣א הוּלָּֽלוּ׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0970]]"
+- "[[H9023]]"
+- "[[H0398]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H1330]]"
+- "[[H3808]]"
+- "[[H1984B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:63**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fire consumed their young men; and their maidens were not given to marriage.
 <small><sub>**BSB:**</sub></small>
 Fire consumed His young men, and their maidens were left without wedding songs.
+<small><sub>**Hebrew:**</sub></small>
+[[H0970\|בַּחוּרָ֥י]][[H9023\|ו]] [[H0398\|אָֽכְלָה]][[H9014\|־]] [[H0784\|אֵ֑שׁ]] [[H9002\|וּ֝]][[H1330\|בְתוּלֹתָ֗י]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H1984B\|הוּלָּֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.62|<< Psalms 78:62]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.64|Psalms 78:64 >>]]</td></tr></table>
 

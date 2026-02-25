@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Road to Damascus
+type: Pericope
 pericope: "[[Acts.9.1 The Road to Damascus|The Road to Damascus]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Acts
 chapter: 9
 book/chapter: "[[Acts.9|Acts 9]]"
-genre:
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 9
 verses:
 - "[[Acts.9.1]]"
 - "[[Acts.9.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Acts.9.9]]"
 ---
 
-[[Acts.9|Acts 9:1 - Acts 9:9]]
+<small>[[Acts.9|Acts 9:1-9]]</small>
 *The Road to Damascus*
 
 [[Acts.9.1|1]] And Saul, yet breathing out threatenings and slaughter against the disciples of the Lord, went unto the high priest,

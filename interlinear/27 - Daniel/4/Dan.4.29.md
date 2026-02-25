@@ -1,8 +1,59 @@
+---
+title: Daniel 4:29
+type: Verse
+kjv: "At the end of twelve months he walked in the palace of the kingdom of Babylon."
+bsb: "Twelve months later, as he was walking on the roof of the royal palace of Babylon,"
+aramaic: "לִקְצָ֥ת יַרְחִ֖ין תְּרֵֽי־ עֲשַׂ֑ר עַל־ הֵיכַ֧ל מַלְכוּתָ֛א דִּ֥י בָבֶ֖ל מְהַלֵּ֥ךְ הֲוָֽה׃"
+pericope: "[[Dan.4.28 The Second Dream Fulfilled|The Second Dream Fulfilled]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H9005]]"
+- "[[H7118]]"
+- "[[H3393]]"
+- "[[H8648]]"
+- "[[H9014]]"
+- "[[H6236]]"
+- "[[H5922]]"
+- "[[H1965H]]"
+- "[[H4437]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H0895]]"
+- "[[H1981]]"
+- "[[H1934]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:29**<big><big>[[Dan.4.28 The Second Dream Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the end of twelve months he walked in the palace of the kingdom of Babylon.
 <small><sub>**BSB:**</sub></small>
 Twelve months later, as he was walking on the roof of the royal palace of Babylon,
+<small><sub>**Aramaic:**</sub></small>
+[[H9005\|לִ]][[H7118\|קְצָ֥ת]] [[H3393\|יַרְחִ֖ין]] [[H8648\|תְּרֵֽי]][[H9014\|־]] [[H6236\|עֲשַׂ֑ר]] [[H5922\|עַל]][[H9014\|־]] [[H1965H\|הֵיכַ֧ל]] [[H4437\|מַלְכוּתָ֛]][[H9010\|א]] [[H1768\|דִּ֥י]] [[H0895\|בָבֶ֖ל]] [[H1981\|מְהַלֵּ֥ךְ]] [[H1934\|הֲוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVERTS|CONVERTS]] • [[topic PALACE|PALACE]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.28|<< Daniel 4:28]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.30|Daniel 4:30 >>]]</td></tr></table>
 

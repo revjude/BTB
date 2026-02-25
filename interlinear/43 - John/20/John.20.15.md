@@ -1,10 +1,72 @@
+---
+title: John 20:15
+type: Verse
+kjv: "Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away."
+bsb: "“Woman, why are you weeping?” Jesus asked. “Whom are you seeking?” Thinking He was the gardener, she said, “Sir, if you have carried Him off, tell me where you have put Him, and I will get Him.”"
+jesus_said: "Woman, why weepest thou? whom seekest thou?"
+greek: "λέγει αὐτῇ ὁ Ἰησοῦς· γύναι, τί κλαίεις; τίνα ζητεῖς; ἐκείνη δοκοῦσα ὅτι ὁ κηπουρός ἐστιν λέγει αὐτῷ· κύριε, εἰ σὺ ἐβάστασας αὐτόν, εἰπέ μοι ποῦ ἔθηκας αὐτόν, κἀγὼ κἀγὼ αὐτὸν ἀρῶ."
+pericope: "[[John.20.10 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ART|ART]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1135G]]"
+- "[[G5101]]"
+- "[[G2799]]"
+- "[[G2212]]"
+- "[[G1565]]"
+- "[[G1380]]"
+- "[[G3754G]]"
+- "[[G2780]]"
+- "[[G1510]]"
+- "[[G2962H]]"
+- "[[G1487G]]"
+- "[[G4771]]"
+- "[[G0941]]"
+- "[[G2036]]"
+- "[[G3165]]"
+- "[[G4226]]"
+- "[[G5087]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0142]]"
+texts:
+- NKO
+- k
+---
+
 **John 20:15**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away.
 <small><sub>**BSB:**</sub></small>
 “Woman, why are you weeping?” Jesus asked. “Whom are you seeking?” Thinking He was the gardener, she said, “Sir, if you have carried Him off, tell me where you have put Him, and I will get Him.”
-<small><sub>**Literal:**</sub></small>
-Says to her <the> Jesus; Woman, why do you weep? Whom do you seek? She thinking that the gardener He is she says to Him; Sir, if you yourself carried off him, do tell me where you have laid Him, and I myself him will take away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.14|<< John 20:14]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.16|John 20:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῇ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1135G\|γύναι,]]  [[G5101\|τί]]  [[G2799\|κλαίεις;]]  [[G5101\|τίνα]]  [[G2212\|ζητεῖς;]]  [[G1565\|ἐκείνη]]  [[G1380\|δοκοῦσα]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2780\|κηπουρός]]  [[G1510\|ἐστιν]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G2962H\|κύριε,]]  [[G1487G\|εἰ]]  [[G4771\|σὺ]]  [[G0941\|ἐβάστασας]]  [[G0846\|αὐτόν,]]  [[G2036\|εἰπέ]]  [[G3165\|μοι]]  [[G4226\|ποῦ]]  [[G5087\|ἔθηκας]]  [[G0846\|αὐτόν,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G0846\|αὐτὸν]]  [[G0142\|ἀρῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic TROUBLE|TROUBLE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.14|<< John 20:14]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.16|John 20:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

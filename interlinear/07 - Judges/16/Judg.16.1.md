@@ -1,8 +1,56 @@
+---
+title: Judges 16:1
+type: Verse
+kjv: "Then went Samson to Gaza, and saw there an harlot, and went in unto her."
+bsb: "One day Samson went to Gaza, where he saw a prostitute and went in to spend the night with her."
+hebrew: "וַיֵּ֥לֶךְ שִׁמְשׁ֖וֹן עַזָּ֑תָה וַיַּרְא־ שָׁם֙ אִשָּׁ֣ה זוֹנָ֔ה וַיָּבֹ֖א אֵלֶֽיהָ׃"
+pericope: "[[Judg.16.1 Samson Escapes Gaza|Samson Escapes Gaza]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H8123]]"
+- "[[H5804]]"
+- "[[H9011]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H0802G]]"
+- "[[H2181]]"
+- "[[H0935L]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:1**<big><big>[[Judg.16.1 Samson Escapes Gaza|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went Samson to Gaza, and saw there an harlot, and went in unto her.
 <small><sub>**BSB:**</sub></small>
 One day Samson went to Gaza, where he saw a prostitute and went in to spend the night with her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H8123\|שִׁמְשׁ֖וֹן]] [[H5804\|עַזָּ֑תָ]][[H9011\|ה]] [[H9001\|וַ]][[H7200G\|יַּרְא]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H0802G\|אִשָּׁ֣ה]] [[H2181\|זוֹנָ֔ה]] [[H9001\|וַ]][[H0935L\|יָּבֹ֖א]] [[H0413\|אֵלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.20|<< Judges 15:20]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.2|Judges 16:2 >>]]</td></tr></table>
 

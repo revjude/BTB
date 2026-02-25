@@ -1,8 +1,60 @@
+---
+title: Psalm 62:10
+type: Verse
+kjv: "Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart upon them."
+bsb: "Place no trust in extortion or false hope in stolen goods. If your riches increase, do not set your heart upon them."
+hebrew: "אַל־ תִּבְטְח֣וּ בְעֹשֶׁק֮ וּבְגָזֵ֪ל אַל־ תֶּ֫הְבָּ֥לוּ חַ֤יִל׀ כִּֽי־ יָנ֑וּב אַל־ תָּשִׁ֥יתוּ לֵֽב׃"
+pericope: "[[Ps.62.1 Waiting on God|Waiting on God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 62
+book/chapter: "[[Ps.62|Psalm 62]]"
+chronological_order: 373
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H6233]]"
+- "[[H9002]]"
+- "[[H1498]]"
+- "[[H1891]]"
+- "[[H2428H]]"
+- "[[H9015]]"
+- "[[H3588A]]"
+- "[[H5107]]"
+- "[[H7896G]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 62:10**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Trust not in oppression, and become not vain in robbery: if riches increase, set not your heart [upon them].
 <small><sub>**BSB:**</sub></small>
 Place no trust in extortion or false hope in stolen goods. If your riches increase, do not set your heart upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0982\|תִּבְטְח֣וּ]] [[H9003\|בְ]][[H6233\|עֹשֶׁק֮]] [[H9002\|וּ]][[H9003\|בְ]][[H1498\|גָזֵ֪ל]] [[H0408\|אַל]][[H9014\|־]] [[H1891\|תֶּ֫הְבָּ֥לוּ]] [[H2428H\|חַ֤יִל]][[H9015\|׀]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5107\|יָנ֑וּב]] [[H0408\|אַל]][[H9014\|־]] [[H7896G\|תָּשִׁ֥יתוּ]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic OPPRESSION|OPPRESSION]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.9|<< Psalms 62:9]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.11|Psalms 62:11 >>]]</td></tr></table>
 

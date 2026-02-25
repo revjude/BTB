@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Restrictions against Those with Blemishes
+type: Pericope
 pericope: "[[Lev.21.16 Restrictions against Those with Blemishes|Restrictions against Those with Blemishes]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 21
 book/chapter: "[[Lev.21|Leviticus 21]]"
-genre:
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 9
 verses:
 - "[[Lev.21.16]]"
 - "[[Lev.21.17]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Lev.21.24]]"
 ---
 
-[[Lev.21|Leviticus 21:16 - Leviticus 21:24]]
+<small>[[Lev.21|Leviticus 21:16-24]]</small>
 *Restrictions against Those with Blemishes*
 
 [[Lev.21.16|16]] And the LORD spake unto Moses, saying,

@@ -1,8 +1,62 @@
+---
+title: Joel 1:5
+type: Verse
+kjv: "Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth."
+bsb: "Wake up, you drunkards, and weep; wail, all you drinkers of wine, because of the sweet wine, for it has been cut off from your mouth."
+hebrew: "הָקִ֤יצוּ שִׁכּוֹרִים֙ וּבְכ֔וּ וְהֵילִ֖לוּ כָּל־ שֹׁ֣תֵי יָ֑יִן עַל־ עָסִ֕יס כִּ֥י נִכְרַ֖ת מִפִּיכֶֽם׃"
+pericope: "[[Joel.1.1 The Invasion of Locusts|The Invasion of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DRUNKARD|DRUNKARD]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic NATION|NATION]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H6974]]"
+- "[[H7910]]"
+- "[[H9002]]"
+- "[[H1058]]"
+- "[[H3213]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8354]]"
+- "[[H3196]]"
+- "[[H5921A]]"
+- "[[H6071]]"
+- "[[H3588A]]"
+- "[[H3772I]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:5**<big><big>[[Joel.1.1 The Invasion of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.
 <small><sub>**BSB:**</sub></small>
 Wake up, you drunkards, and weep; wail, all you drinkers of wine, because of the sweet wine, for it has been cut off from your mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H6974\|הָקִ֤יצוּ]] [[H7910\|שִׁכּוֹרִים֙]] [[H9002\|וּ]][[H1058\|בְכ֔וּ]] [[H9002\|וְ]][[H3213\|הֵילִ֖לוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H8354\|שֹׁ֣תֵי]] [[H3196\|יָ֑יִן]] [[H5921A\|עַל]][[H9014\|־]] [[H6071\|עָסִ֕יס]] [[H3588A\|כִּ֥י]] [[H3772I\|נִכְרַ֖ת]] [[H9006\|מִ]][[H6310G\|פִּי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKARD|DRUNKARD]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic LOCUST|LOCUST]] • [[topic NATION|NATION]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.4|<< Joel 1:4]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.6|Joel 1:6 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Luke 21:27
+type: Verse
+kjv: "And then shall they see the Son of man coming in a cloud with power and great glory."
+bsb: "At that time they will see the Son of Man coming in a cloud with power and great glory."
+jesus_said: "And then shall they see the Son of man coming in a cloud with power and great glory."
+greek: "καὶ τότε ὄψονται τὸν υἱὸν τοῦ ἀνθρώπου ἐρχόμενον ἐν νεφέλῃ μετὰ δυνάμεως καὶ δόξης πολλῆς.¶"
+pericope: "[[Luke.21.25 The Return of the Son of Man|The Return of the Son of Man]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5119]]"
+- "[[G3700]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G3507]]"
+- "[[G3326]]"
+- "[[G1411]]"
+- "[[G1391]]"
+- "[[G4183]]"
+texts:
+- NKO
+---
+
 **Luke 21:27**<big><big>[[Luke.21.25 The Return of the Son of Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And then shall they see the Son of man coming in a cloud with power and great glory.
 <small><sub>**BSB:**</sub></small>
 At that time they will see the Son of Man coming in a cloud with power and great glory.
-<small><sub>**Literal:**</sub></small>
-And then will they behold the Son <the> of Man coming in a cloud with power and glory great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.26|<< Luke 21:26]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.28|Luke 21:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5119\|τότε]]  [[G3700\|ὄψονται]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2064\|ἐρχόμενον]]  [[G1722\|ἐν]]  [[G3507\|νεφέλῃ]]  [[G3326\|μετὰ]]  [[G1411\|δυνάμεως]]  [[G2532\|καὶ]]  [[G1391\|δόξης]]  [[G4183\|πολλῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.26|<< Luke 21:26]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.28|Luke 21:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 21:27** is...
 > $\quad$ referencing: [[LXX.Dan.7.13|Dan 7:13]]

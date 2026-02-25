@@ -1,8 +1,66 @@
+---
+title: Genesis 34:22
+type: Verse
+kjv: "Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they are circumcised."
+bsb: "But only on this condition will the men agree to dwell with us and be one people: if all our men are circumcised as they are."
+hebrew: "אַךְ־ בְּ֠זֹאת יֵאֹ֨תוּ לָ֤נוּ הָאֲנָשִׁים֙ לָשֶׁ֣בֶת אִתָּ֔נוּ לִהְי֖וֹת לְעַ֣ם אֶחָ֑ד בְּהִמּ֥וֹל לָ֙נוּ֙ כָּל־ זָכָ֔ר כַּאֲשֶׁ֖ר הֵ֥ם נִמֹּלִֽים׃"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic VENGEANCE|VENGEANCE]]"
+strongs:
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2063]]"
+- "[[H0225]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H3427]]"
+- "[[H0854]]"
+- "[[H1961]]"
+- "[[H5971A]]"
+- "[[H0259]]"
+- "[[H4135A]]"
+- "[[H3605]]"
+- "[[H2145]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:22**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they [are] circumcised.
 <small><sub>**BSB:**</sub></small>
 But only on this condition will the men agree to dwell with us and be one people: if all our men are circumcised as they are.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַךְ]][[H9014\|־]] [[H9003\|בְּ֠]][[H2063\|זֹאת]] [[H0225\|יֵאֹ֨תוּ]] [[H9005\|לָ֤]][[H9035\|נוּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁים֙]] [[H9005\|לָ]][[H3427\|שֶׁ֣בֶת]] [[H0854\|אִתָּ֔]][[H9035\|נוּ]] [[H9005\|לִ]][[H1961\|הְי֖וֹת]] [[H9005\|לְ]][[H5971A\|עַ֣ם]] [[H0259\|אֶחָ֑ד]] [[H9003\|בְּ]][[H4135A\|הִמּ֥וֹל]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֔ר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1992\|הֵ֥ם]] [[H4135A\|נִמֹּלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic VENGEANCE|VENGEANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.21|<< Genesis 34:21]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.23|Genesis 34:23 >>]]</td></tr></table>
 

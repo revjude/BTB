@@ -1,10 +1,58 @@
+---
+title: Matthew 27:44
+type: Verse
+kjv: "The thieves also, which were crucified with him, cast the same in his teeth."
+bsb: "In the same way, even the robbers who were crucified with Him berated Him."
+greek: "Τὸ δ᾽ αὐτὸ καὶ οἱ λῃσταὶ οἱ συσταυρωθέντες σὺν αὐτῷ ὠνείδιζον αὐτόν.¶"
+pericope: "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REVILING|REVILING]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3027]]"
+- "[[G4957]]"
+- "[[G4862]]"
+- "[[G3679]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Matthew 27:44**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The thieves also, which were crucified with him, cast the same in his teeth.
 <small><sub>**BSB:**</sub></small>
 In the same way, even the robbers who were crucified with Him berated Him.
-<small><sub>**Literal:**</sub></small>
-<the> And likewise even the robbers those having been crucified with Him were upbraiding Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.43|<< Matthew 27:43]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.45|Matthew 27:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὸ]]  [[G1161\|δ᾽]]  [[G0846\|αὐτὸ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3027\|λῃσταὶ]]  [[G3588\|οἱ]]  [[G4957\|συσταυρωθέντες]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G3679\|ὠνείδιζον]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic DEATH|DEATH]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]] • [[topic MOCKING|MOCKING]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REVILING|REVILING]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.43|<< Matthew 27:43]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.45|Matthew 27:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

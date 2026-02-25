@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 8:2
+type: Verse
+kjv: "And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know."
+bsb: "The one who thinks he knows something does not yet know as he ought to know."
+greek: "εἴ δέ τις δοκεῖ ἐγνωκέναι τι, οὔπω οὐδὲν ἔγνω καθὼς δεῖ γνῶναι·"
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1380]]"
+- "[[G1097]]"
+- "[[G3768]]"
+- "[[G3762]]"
+- "[[G2531]]"
+- "[[G1163]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **1 Corinthians 8:2**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if any man think that he knoweth any thing, he knoweth nothing yet as he ought to know.
 <small><sub>**BSB:**</sub></small>
 The one who thinks he knows something does not yet know as he ought to know.
-<small><sub>**Literal:**</sub></small>
-If now anyone thinks to have known anything, not yet no [thing] he knew even as it is necessary to know;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.1|<< 1 Corinthians 8:1]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.3|1 Corinthians 8:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G1380\|δοκεῖ]]  [[G1097\|ἐγνωκέναι]]  [[G5100\|τι,]]  [[G3768\|οὔπω]]  [[G3762\|οὐδὲν]]  [[G1097\|ἔγνω]]  [[G2531\|καθὼς]]  [[G1163\|δεῖ]]  [[G1097\|γνῶναι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PRIDE|PRIDE]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.1|<< 1 Corinthians 8:1]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.3|1 Corinthians 8:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

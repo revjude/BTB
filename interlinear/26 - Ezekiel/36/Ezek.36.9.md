@@ -1,8 +1,54 @@
+---
+title: Ezekiel 36:9
+type: Verse
+kjv: "For, behold, I am for you, and I will turn unto you, and ye shall be tilled and sown:"
+bsb: "For behold, I am on your side; I will turn toward you, and you will be tilled and sown."
+hebrew: "כִּ֖י הִנְנִ֣י אֲלֵיכֶ֑ם וּפָנִ֣יתִי אֲלֵיכֶ֔ם וְנֶעֱבַדְתֶּ֖ם וְנִזְרַעְתֶּֽם׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H5647I]]"
+- "[[H2232]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:9**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, I [am] for you, and I will turn unto you, and ye shall be tilled and sown:
 <small><sub>**BSB:**</sub></small>
 For behold, I am on your side; I will turn toward you, and you will be tilled and sown.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֖י]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H0413\|אֲלֵי]][[H9036\|כֶ֑ם]] [[H9001\|וּ]][[H6437G\|פָנִ֣יתִי]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H5647I\|נֶעֱבַדְתֶּ֖ם]] [[H9001\|וְ]][[H2232\|נִזְרַעְתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.8|<< Ezekiel 36:8]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.10|Ezekiel 36:10 >>]]</td></tr></table>
 

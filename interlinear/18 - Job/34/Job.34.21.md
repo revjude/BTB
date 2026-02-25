@@ -1,8 +1,55 @@
+---
+title: Job 34:21
+type: Verse
+kjv: "For his eyes are upon the ways of man, and he seeth all his goings."
+bsb: "For His eyes are on the ways of a man, and He sees his every step."
+hebrew: "כִּי־ עֵ֭ינָיו עַל־ דַּרְכֵי־ אִ֑ישׁ וְֽכָל־ צְעָדָ֥יו יִרְאֶֽה׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H1870G]]"
+- "[[H0376I]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H6806]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:21**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For his eyes [are] upon the ways of man, and he seeth all his goings.
 <small><sub>**BSB:**</sub></small>
 For His eyes are on the ways of a man, and He sees his every step.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H5869A\|עֵ֭ינָי]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H1870G\|דַּרְכֵי]][[H9014\|־]] [[H0376I\|אִ֑ישׁ]] [[H9002\|וְֽ]][[H3605\|כָל]][[H9014\|־]] [[H6806\|צְעָדָ֥י]][[H9023\|ו]] [[H7200G\|יִרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESCAPE|ESCAPE]] • [[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.20|<< Job 34:20]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.22|Job 34:22 >>]]</td></tr></table>
 

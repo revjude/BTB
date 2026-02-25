@@ -1,8 +1,67 @@
+---
+title: Judges 11:27
+type: Verse
+kjv: "Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the LORD the Judge be judge this day between the children of Israel and the children of Ammon."
+bsb: "I have not sinned against you, but you have done me wrong by waging war against me. May the LORD, the Judge, decide today between the Israelites and the Ammonites.”"
+hebrew: "וְאָֽנֹכִי֙ לֹֽא־ חָטָ֣אתִי לָ֔ךְ וְאַתָּ֞ה עֹשֶׂ֥ה אִתִּ֛י רָעָ֖ה לְהִלָּ֣חֶם בִּ֑י יִשְׁפֹּ֨ט יְהוָ֤ה הַשֹּׁפֵט֙ הַיּ֔וֹם בֵּ֚ין בְּנֵ֣י יִשְׂרָאֵ֔ל וּבֵ֖ין בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H0859A]]"
+- "[[H6213A]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H7451I]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H8199]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H0996G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:27**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I have not sinned against thee, but thou doest me wrong to war against me: the LORD the Judge be judge this day between the children of Israel and the children of Ammon.
 <small><sub>**BSB:**</sub></small>
 I have not sinned against you, but you have done me wrong by waging war against me. May the LORD, the Judge, decide today between the Israelites and the Ammonites.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0595\|אָֽנֹכִי֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2398\|חָטָ֣אתִי]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9002\|וְ]][[H0859A\|אַתָּ֞ה]] [[H6213A\|עֹשֶׂ֥ה]] [[H0854\|אִתִּ֛]][[H9030\|י]] [[H7451I\|רָעָ֖ה]] [[H9005\|לְ]][[H3898A\|הִלָּ֣חֶם]] [[H9003\|בִּ֑]][[H9030\|י]] [[H8199\|יִשְׁפֹּ֨ט]] [[H3068G\|יְהוָ֤ה]] [[H9009\|הַ]][[H8199\|שֹּׁפֵט֙]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H0996G\|בֵּ֚ין]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וּ]][[H0996G\|בֵ֖ין]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic GOD|GOD]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.26|<< Judges 11:26]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.28|Judges 11:28 >>]]</td></tr></table>
 

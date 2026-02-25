@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Doors
+type: Pericope
 pericope: "[[1Kgs.6.31 The Doors|The Doors]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 6
 book/chapter: "[[1Kgs.6|1 Kings 6]]"
-genre:
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 5
 verses:
 - "[[1Kgs.6.31]]"
 - "[[1Kgs.6.32]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Kgs.6.35]]"
 ---
 
-[[1Kgs.6|1 Kings 6:31 - 1 Kings 6:35]]
+<small>[[1Kgs.6|1 Kings 6:31-35]]</small>
 *The Doors*
 
 [[1Kgs.6.31|31]] And for the entering of the oracle he made doors \[of\] olive tree: the lintel \[and\] side posts \[were\] a fifth part \[of the wall\].

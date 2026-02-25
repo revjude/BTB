@@ -1,10 +1,56 @@
+---
+title: Romans 9:5
+type: Verse
+kjv: "Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen."
+bsb: "Theirs are the patriarchs, and from them proceeds the human descent of Christ, who is God over all, forever worthy of praise! Amen."
+greek: "ὧν οἱ πατέρες καὶ ἐξ ὧν ὁ Χριστὸς τὸ κατὰ σάρκα, ὁ ὢν ἐπὶ πάντων θεὸς εὐλογητὸς εἰς τοὺς αἰῶνας, ἀμήν.¶"
+pericope: "[[Rom.9.1 Paul’s Concern for the Jews|Paul’s Concern for the Jews]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G5547]]"
+- "[[G2596]]"
+- "[[G4561]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G2316]]"
+- "[[G2128]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+texts:
+- NKO
+---
+
 **Romans 9:5**<big><big>[[Rom.9.1 Paul’s Concern for the Jews|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whose [are] the fathers, and of whom as concerning the flesh Christ [came], who is over all, God blessed for ever. Amen.
 <small><sub>**BSB:**</sub></small>
 Theirs are the patriarchs, and from them proceeds the human descent of Christ, who is God over all, forever worthy of praise! Amen.
-<small><sub>**Literal:**</sub></small>
-whose [are] the patriarchs and from whom [is] <the> Christ <the> according to the flesh, who is being over all God blessed to the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.4|<< Romans 9:4]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.6|Romans 9:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὧν]]  [[G3588\|οἱ]]  [[G3962\|πατέρες]]  [[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G3739\|ὧν]]  [[G3588\|ὁ]]  [[G5547\|Χριστὸς]]  [[G3588\|τὸ]]  [[G2596\|κατὰ]]  [[G4561\|σάρκα,]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G1909\|ἐπὶ]]  [[G3956\|πάντων]]  [[G2316\|θεὸς]]  [[G2128\|εὐλογητὸς]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας,]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.4|<< Romans 9:4]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.6|Romans 9:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

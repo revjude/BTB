@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Shallum Reigns in Israel
+type: Pericope
 pericope: "[[2Kgs.15.13 Shallum Reigns in Israel|Shallum Reigns in Israel]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 15
 book/chapter: "[[2Kgs.15|2 Kings 15]]"
-genre:
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.15.13]]"
 - "[[2Kgs.15.14]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.15.16]]"
 ---
 
-[[2Kgs.15|2 Kings 15:13 - 2 Kings 15:16]]
+<small>[[2Kgs.15|2 Kings 15:13-16]]</small>
 *Shallum Reigns in Israel*
 
 [[2Kgs.15.13|13]] Shallum the son of Jabesh began to reign in the nine and thirtieth year of Uzziah king of Judah; and he reigned a full month in Samaria.

@@ -1,6 +1,78 @@
+---
+title: LXX Jeremiah 39:16
+type: Verse
+lxx: "Go and speak to Ebed-melech the Ethiopian! saying, Thus said the lord  God of Israel, Behold, I bring  my words upon  this city for bad things, and not for good things. And they shall be before you in  that day."
+greek: "πορεύου και είπε προς Αβδεμέλεχ τον Αιθίοπα λέγων ούτως είπε κύριος ο θεός Ισραήλ ιδού εγώ φέρω τους λόγους μου επί την πόλιν ταύτην εις κακά και ουκ εις αγαθά και έσονται ενώπιόν σου εν τη ημέρα εκείνη"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 39
+book/chapter: "[[Jer.39|Jeremiah 39]]"
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EBED-MELECH|EBED-MELECH]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[H5663]]"
+- "[[G3588]]"
+- "[[G0128]]"
+- "[[G3004]]"
+- "[[G3779]]"
+- "[[G2036]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2474]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G5342]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3778]]"
+- "[[G1519]]"
+- "[[G2556]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1519]]"
+- "[[G0018]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1799]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+---
+
 **LXX Jeremiah 39:16** 
 <small><sub>**LXX:**</sub></small>
 Go and speak to Ebed-melech the Ethiopian! saying, Thus said \[the\] <span class="smallcaps">lord</span>  God of Israel, Behold, I bring  my words upon  this city for bad \[things\], and not for good \[things\]. And they shall be before you in  that day. 
+<small><sub>**Greek:**</sub></small>
+[[G4198\|πορεύου]] [[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[H5663\|Αβδεμέλεχ]] [[G3588\|τον]] [[G0128\|Αιθίοπα]] [[G3004\|λέγων]] [[G3779\|ούτως]] [[G2036\|είπε]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G2474\|Ισραήλ]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G5342\|φέρω]] [[G3588\|τους]] [[G3056\|λόγους]] [[G1473\|μου]] [[G1909\|επί]] [[G3588\|την]] [[G4172\|πόλιν]] [[G3778\|ταύτην]] [[G1519\|εις]] [[G2556\|κακά]] [[G2532\|και]] [[G3756\|ουκ]] [[G1519\|εις]] [[G0018\|αγαθά]] [[G2532\|και]] [[G1510\|έσονται]] [[G1799\|ενώπιόν]] [[G1473\|σου]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G1565\|εκείνη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EBED-MELECH|EBED-MELECH]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.39.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.15|<< Jeremiah 39:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.17|Jeremiah 39:17 >>]]</td></tr></table>
 
@@ -41,6 +113,6 @@ Go and speak to Ebed-melech the Ethiopian! saying, Thus said \[the\] <span class
 | in | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τη]]</big>** |
 | that day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G1565\|εκείνη]]</big>** |
-[[Jer.39.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.15|<< Jeremiah 39:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.17|Jeremiah 39:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.39.15|<< Jeremiah 39:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.39.17|Jeremiah 39:17 >>]]</td></tr></table>
 
 

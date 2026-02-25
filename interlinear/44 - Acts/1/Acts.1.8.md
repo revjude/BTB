@@ -1,10 +1,68 @@
+---
+title: Acts 1:8
+type: Verse
+kjv: "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth."
+bsb: "But you will receive power when the Holy Spirit comes upon you, and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”"
+jesus_said: "But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judea, and in Samaria, and unto the uttermost part of the earth."
+greek: "ἀλλὰ λήμψεσθε δύναμιν ἐπελθόντος τοῦ ἁγίου πνεύματος ἐφ᾽ ὑμᾶς καὶ ἔσεσθέ μου μάρτυρες ἔν τε Ἰερουσαλὴμ καὶ ἐν πάσῃ τῇ Ἰουδαίᾳ καὶ Σαμαρείᾳ καὶ ἕως ἐσχάτου τῆς γῆς."
+pericope: "[[Acts.1.6 The Ascension|The Ascension]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POWER|POWER]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G0235]]"
+- "[[G2983]]"
+- "[[G1411]]"
+- "[[G1904]]"
+- "[[G3588]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G3144]]"
+- "[[G1722]]"
+- "[[G5037]]"
+- "[[G2419]]"
+- "[[G3956]]"
+- "[[G2449]]"
+- "[[G4540]]"
+- "[[G2193]]"
+- "[[G2078]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 1:8**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
 <small><sub>**BSB:**</sub></small>
 But you will receive power when the Holy Spirit comes upon you, and you will be My witnesses in Jerusalem, and in all Judea and Samaria, and to the ends of the earth.”
-<small><sub>**Literal:**</sub></small>
-But you will receive power when was coming the Holy Spirit upon you and you will be My witnesses in both Jerusalem and in all <the> Judea and Samaria and until [the] uttermost part of the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.7|<< Acts 1:7]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.9|Acts 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G2983\|λήμψεσθε]]  [[G1411\|δύναμιν]]  [[G1904\|ἐπελθόντος]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G4151G\|πνεύματος]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G1510\|ἔσεσθέ]]  [[G3165\|μου]]  [[G3144\|μάρτυρες]]  [[G1722\|ἔν]]  [[G5037\|τε]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G3588\|τῇ]]  [[G2449\|Ἰουδαίᾳ]]  [[G2532\|καὶ]]  [[G4540\|Σαμαρείᾳ]]  [[G2532\|καὶ]]  [[G2193\|ἕως]]  [[G2078\|ἐσχάτου]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POWER|POWER]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.7|<< Acts 1:7]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.9|Acts 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

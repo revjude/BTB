@@ -1,8 +1,62 @@
+---
+title: Leviticus 13:24
+type: Verse
+kjv: "Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;"
+bsb: "When there is a burn on someone’s skin and the raw area of the burn becomes reddish-white or white,"
+hebrew: "א֣וֹ בָשָׂ֔ר כִּֽי־ יִהְיֶ֥ה בְעֹר֖וֹ מִכְוַת־ אֵ֑שׁ וְֽהָיְתָ֞ה מִֽחְיַ֣ת הַמִּכְוָ֗ה בַּהֶ֛רֶת לְבָנָ֥ה אֲדַמְדֶּ֖מֶת א֥וֹ לְבָנָֽה׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H0176A]]"
+- "[[H1320]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H9023]]"
+- "[[H4348]]"
+- "[[H0784]]"
+- "[[H9001]]"
+- "[[H4241]]"
+- "[[H9009]]"
+- "[[H0934]]"
+- "[[H3836]]"
+- "[[H0125]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:24**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or if there be [any] flesh, in the skin whereof [there is] a hot burning, and the quick [flesh] that burneth have a white bright spot, somewhat reddish, or white;
 <small><sub>**BSB:**</sub></small>
 When there is a burn on someone’s skin and the raw area of the burn becomes reddish-white or white,
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֣וֹ]] [[H1320\|בָשָׂ֔ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|בְ]][[H5785\|עֹר֖]][[H9023\|וֹ]] [[H4348\|מִכְוַת]][[H9014\|־]] [[H0784\|אֵ֑שׁ]] [[H9001\|וְֽ]][[H1961\|הָיְתָ֞ה]] [[H4241\|מִֽחְיַ֣ת]] [[H9009\|הַ]][[H4348\|מִּכְוָ֗ה]] [[H0934\|בַּהֶ֛רֶת]] [[H3836\|לְבָנָ֥ה]] [[H0125\|אֲדַמְדֶּ֖מֶת]] [[H0176A\|א֥וֹ]] [[H3836\|לְבָנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.23|<< Leviticus 13:23]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.25|Leviticus 13:25 >>]]</td></tr></table>
 

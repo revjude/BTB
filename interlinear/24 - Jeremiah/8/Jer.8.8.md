@@ -1,8 +1,65 @@
+---
+title: Jeremiah 8:8
+type: Verse
+kjv: "How do ye say, We are wise, and the law of the LORD is with us? Lo, certainly in vain made he it; the pen of the scribes is in vain."
+bsb: "How can you say, ‘We are wise, and the Law of the LORD is with us,’ when in fact the lying pen of the scribes has produced a deception?"
+hebrew: "אֵיכָ֤ה תֹֽאמְרוּ֙ חֲכָמִ֣ים אֲנַ֔חְנוּ וְתוֹרַ֥ת יְהוָ֖ה אִתָּ֑נוּ אָכֵן֙ הִנֵּ֣ה לַשֶּׁ֣קֶר עָשָׂ֔ה עֵ֖ט שֶׁ֥קֶר סֹפְרִֽים׃"
+pericope: "[[Jer.8.1 Judah’s Sin and Punishment|Judah’s Sin and Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 8
+book/chapter: "[[Jer.8|Jeremiah 8]]"
+chronological_order: 725
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic PEN|PEN]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0349B]]"
+- "[[H0559]]"
+- "[[H2450]]"
+- "[[H0587]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H0403]]"
+- "[[H2009]]"
+- "[[H9005]]"
+- "[[H8267]]"
+- "[[H6213H]]"
+- "[[H5842]]"
+- "[[H5608B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 8:8**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How do ye say, We [are] wise, and the law of the LORD [is] with us? Lo, certainly in vain made he [it]; the pen of the scribes [is] in vain.
 <small><sub>**BSB:**</sub></small>
 How can you say, ‘We are wise, and the Law of the LORD is with us,’ when in fact the lying pen of the scribes has produced a deception?
+<small><sub>**Hebrew:**</sub></small>
+[[H0349B\|אֵיכָ֤ה]] [[H0559\|תֹֽאמְרוּ֙]] [[H2450\|חֲכָמִ֣ים]] [[H0587\|אֲנַ֔חְנוּ]] [[H9002\|וְ]][[H8451\|תוֹרַ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H0854\|אִתָּ֑]][[H9035\|נוּ]] [[H0403\|אָכֵן֙]] [[H2009\|הִנֵּ֣ה]] [[H9005\|לַ]][[H8267\|שֶּׁ֣קֶר]] [[H6213H\|עָשָׂ֔ה]] [[H5842\|עֵ֖ט]] [[H8267\|שֶׁ֥קֶר]] [[H5608B\|סֹפְרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic PEN|PEN]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.7|<< Jeremiah 8:7]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.9|Jeremiah 8:9 >>]]</td></tr></table>
 

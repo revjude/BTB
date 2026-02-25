@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Sails for Rome
+type: Pericope
 pericope: "[[Acts.27.1 Paul Sails for Rome|Paul Sails for Rome]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Acts
 chapter: 27
 book/chapter: "[[Acts.27|Acts 27]]"
-genre:
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 12
 verses:
 - "[[Acts.27.1]]"
 - "[[Acts.27.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Acts.27.12]]"
 ---
 
-[[Acts.27|Acts 27:1 - Acts 27:12]]
+<small>[[Acts.27|Acts 27:1-12]]</small>
 *Paul Sails for Rome*
 
 [[Acts.27.1|1]] And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto \[one\] named Julius, a centurion of Augustus’ band.

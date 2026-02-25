@@ -1,10 +1,57 @@
+---
+title: Mark 6:49
+type: Verse
+kjv: "But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out:"
+bsb: "but when they saw Him walking on the sea, they cried out, thinking He was a ghost—"
+greek: "Οἱ δὲ ἰδόντες αὐτὸν ἐπὶ τῆς θαλάσσης περιπατοῦντα ἔδοξαν ὅτι φάντασμά ἐστιν, καὶ ἀνέκραξαν·"
+pericope: "[[Mark.6.45 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G2281]]"
+- "[[G4043]]"
+- "[[G1380]]"
+- "[[G3754G]]"
+- "[[G5326]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G0349]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Mark 6:49**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when they saw him walking upon the sea, they supposed it had been a spirit, and cried out:
 <small><sub>**BSB:**</sub></small>
 but when they saw Him walking on the sea, they cried out, thinking He was a ghost—
-<small><sub>**Literal:**</sub></small>
-<the> And having seen Him on the sea walking they thought that a ghost [it] is, and cried out;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.48|<< Mark 6:48]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.50|Mark 6:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G1492H\|ἰδόντες]]  [[G0846\|αὐτὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης]]  [[G4043\|περιπατοῦντα]]  [[G1380\|ἔδοξαν]]  [[G3754G\|ὅτι]]  [[G5326\|φάντασμά]]  [[G1510\|ἐστιν,]]  [[G2532\|καὶ]]  [[G0349\|ἀνέκραξαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.48|<< Mark 6:48]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.50|Mark 6:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

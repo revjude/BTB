@@ -1,10 +1,60 @@
+---
+title: 1 Timothy 1:20
+type: Verse
+kjv: "Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme."
+bsb: "Among them are Hymenaeus and Alexander, whom I have handed over to Satan to be taught not to blaspheme."
+greek: "ὧν ἐστιν Ὑμέναιος καὶ Ἀλέξανδρος οὓς παρέδωκα τῷ σατανᾷ ἵνα παιδευθῶσιν μὴ βλασφημεῖν.¶"
+pericope: "[[1Tim.1.12 God’s Grace to Paul|God’s Grace to Paul]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 1
+book/chapter: "[[1Tim.1|1 Timothy 1]]"
+chronological_order: 1126
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic ALEXANDER|ALEXANDER]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HYMENAEUS|HYMENAEUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G5211]]"
+- "[[G2532]]"
+- "[[G0223J]]"
+- "[[G3860]]"
+- "[[G3588]]"
+- "[[G4567]]"
+- "[[G2443]]"
+- "[[G3811]]"
+- "[[G3361]]"
+- "[[G0987]]"
+texts:
+- NKO
+---
+
 **1 Timothy 1:20**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.
 <small><sub>**BSB:**</sub></small>
 Among them are Hymenaeus and Alexander, whom I have handed over to Satan to be taught not to blaspheme.
-<small><sub>**Literal:**</sub></small>
-among whom are Hymenaeus and Alexander whom I have handed over <the> to Satan that they may be disciplined not to blaspheme.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.19|<< 1 Timothy 1:19]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.1|1 Timothy 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὧν]]  [[G1510\|ἐστιν]]  [[G5211\|Ὑμέναιος]]  [[G2532\|καὶ]]  [[G0223J\|Ἀλέξανδρος]]  [[G3739\|οὓς]]  [[G3860\|παρέδωκα]]  [[G3588\|τῷ]]  [[G4567\|σατανᾷ]]  [[G2443\|ἵνα]]  [[G3811\|παιδευθῶσιν]]  [[G3361\|μὴ]]  [[G0987\|βλασφημεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALEXANDER|ALEXANDER]] • [[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic CHURCH|CHURCH]] • [[topic HYMENAEUS|HYMENAEUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SATAN|SATAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.19|<< 1 Timothy 1:19]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.1|1 Timothy 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

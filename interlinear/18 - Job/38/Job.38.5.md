@@ -1,8 +1,56 @@
+---
+title: Job 38:5
+type: Verse
+kjv: "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?"
+bsb: "Who fixed its measurements? Surely you know! Or who stretched a measuring line across it?"
+hebrew: "מִי־ שָׂ֣ם מְ֭מַדֶּיהָ כִּ֣י תֵדָ֑ע א֤וֹ מִֽי־ נָטָ֖ה עָלֶ֣יהָ קָּֽו׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H7760A]]"
+- "[[H4461]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H0176A]]"
+- "[[H5186]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H6957B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:5**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?
 <small><sub>**BSB:**</sub></small>
 Who fixed its measurements? Surely you know! Or who stretched a measuring line across it?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִי]][[H9014\|־]] [[H7760A\|שָׂ֣ם]] [[H4461\|מְ֭מַדֶּי]][[H9024\|הָ]] [[H3588A\|כִּ֣י]] [[H3045\|תֵדָ֑ע]] [[H0176A\|א֤וֹ]] [[H4310\|מִֽי]][[H9014\|־]] [[H5186\|נָטָ֖ה]] [[H5921A\|עָלֶ֣י]][[H9034\|הָ]] [[H6957B\|קָּֽו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINENTS|CONTINENTS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.4|<< Job 38:4]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.6|Job 38:6 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Genesis 35:20
+type: Verse
+kjv: "And Jacob set a pillar upon her grave: that is the pillar of Rachel’s grave unto this day."
+bsb: "Jacob set up a pillar on her grave; it marks Rachel’s tomb to this day."
+hebrew: "וַיַּצֵּ֧ב יַעֲקֹ֛ב מַצֵּבָ֖ה עַל־ קְבֻרָתָ֑הּ הִ֛וא מַצֶּ֥בֶת קְבֻֽרַת־ רָחֵ֖ל עַד־ הַיּֽוֹם׃"
+pericope: "[[Gen.35.16 Benjamin Born, Rachel Dies|Benjamin Born, Rachel Dies]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic TOMBSTONE|TOMBSTONE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5324]]"
+- "[[H3290]]"
+- "[[H4676]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6900]]"
+- "[[H9024]]"
+- "[[H1931]]"
+- "[[H4678]]"
+- "[[H7354]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:20**<big><big>[[Gen.35.16 Benjamin Born, Rachel Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob set a pillar upon her grave: that [is] the pillar of Rachel’s grave unto this day.
 <small><sub>**BSB:**</sub></small>
 Jacob set up a pillar on her grave; it marks Rachel’s tomb to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5324\|יַּצֵּ֧ב]] [[H3290\|יַעֲקֹ֛ב]] [[H4676\|מַצֵּבָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6900\|קְבֻרָתָ֑]][[H9024\|הּ]] [[H1931\|הִ֛וא]] [[H4678\|מַצֶּ֥בֶת]] [[H6900\|קְבֻֽרַת]][[H9014\|־]] [[H7354\|רָחֵ֖ל]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic JACOB|JACOB]] • [[topic RACHEL|RACHEL]] • [[topic TOMBSTONE|TOMBSTONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.19|<< Genesis 35:19]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.21|Genesis 35:21 >>]]</td></tr></table>
 

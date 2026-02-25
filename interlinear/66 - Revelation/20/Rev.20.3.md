@@ -1,10 +1,72 @@
+---
+title: Revelation 20:3
+type: Verse
+kjv: "And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season."
+bsb: "And he threw him into the Abyss, shut it, and sealed it over him, so that he could not deceive the nations until the thousand years were complete. After that, he must be released for a brief period of time."
+greek: "καὶ ἔβαλεν αὐτὸν εἰς τὴν ἄβυσσον καὶ ἔκλεισεν αὐτὸν καὶ ἐσφράγισεν ἐπάνω αὐτοῦ, ἵνα μὴ πλανήσῃ ἔτι τὰ ἔθνη ἄχρι τελεσθῇ τὰ χίλια ἔτη. καὶ μετὰ ταῦτα δεῖ λυθῆναι αὐτὸν μικρὸν χρόνον.¶"
+pericope: "[[Rev.20.1 Satan Bound|Satan Bound]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic PIT|PIT]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic VISION|VISION]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G0906G]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0012]]"
+- "[[G2808]]"
+- "[[G4972]]"
+- "[[G1883]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G4105]]"
+- "[[G2089]]"
+- "[[G1484]]"
+- "[[G0891]]"
+- "[[G5055]]"
+- "[[G5507]]"
+- "[[G2094]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G1163]]"
+- "[[G3089]]"
+- "[[G3398]]"
+- "[[G5550]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Revelation 20:3**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And cast him into the bottomless pit, and shut him up, and set a seal upon him, that he should deceive the nations no more, till the thousand years should be fulfilled: and after that he must be loosed a little season.
 <small><sub>**BSB:**</sub></small>
 And he threw him into the Abyss, shut it, and sealed it over him, so that he could not deceive the nations until the thousand years were complete. After that, he must be released for a brief period of time.
-<small><sub>**Literal:**</sub></small>
-And he cast him into the Abyss and shut him and sealed [it] over him, so that not he may deceive any longer the nations until may be completed the thousand years. and After these things it is necessary for to be released him for a little time.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.2|<< Revelation 20:2]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.4|Revelation 20:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0906G\|ἔβαλεν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0012\|ἄβυσσον]]  [[G2532\|καὶ]]  [[G2808\|ἔκλεισεν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G4972\|ἐσφράγισεν]]  [[G1883\|ἐπάνω]]  [[G0846\|αὐτοῦ,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G4105\|πλανήσῃ]]  [[G2089\|ἔτι]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G0891\|ἄχρι]]  [[G5055\|τελεσθῇ]]  [[G3588\|τὰ]]  [[G5507\|χίλια]]  [[G2094\|ἔτη.]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G3778\|ταῦτα]]  [[G1163\|δεῖ]]  [[G3089\|λυθῆναι]]  [[G0846\|αὐτὸν]]  [[G3398\|μικρὸν]]  [[G5550\|χρόνον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic PIT|PIT]] • [[topic SATAN|SATAN]] • [[topic VISION|VISION]] • [[topic YEAR|YEAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.2|<< Revelation 20:2]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.4|Revelation 20:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

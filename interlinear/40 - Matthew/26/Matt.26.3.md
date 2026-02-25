@@ -1,10 +1,59 @@
+---
+title: Matthew 26:3
+type: Verse
+kjv: "Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,"
+bsb: "At that time the chief priests and elders of the people assembled in the courtyard of the high priest, whose name was Caiaphas,"
+greek: "Τότε συνήχθησαν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς καὶ οἱ πρεσβύτεροι τοῦ λαοῦ εἰς τὴν αὐλὴν τοῦ ἀρχιερέως τοῦ λεγομένου Καϊάφα"
+pericope: "[[Matt.26.1 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+strongs:
+- "[[G5119]]"
+- "[[G4863]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G2532]]"
+- "[[G1122]]"
+- "[[G4245G]]"
+- "[[G2992]]"
+- "[[G1519]]"
+- "[[G0833]]"
+- "[[G3004H]]"
+- "[[G2533G]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 26:3**<big><big>[[Matt.26.1 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then assembled together the chief priests, and the scribes, and the elders of the people, unto the palace of the high priest, who was called Caiaphas,
 <small><sub>**BSB:**</sub></small>
 At that time the chief priests and elders of the people assembled in the courtyard of the high priest, whose name was Caiaphas,
-<small><sub>**Literal:**</sub></small>
-Then were gathered together the chief priests and <the> scribes and the elders of the people in the courtyard of the high priest who is being named Caiaphas<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.2|<< Matthew 26:2]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.4|Matthew 26:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4863\|συνήχθησαν]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4245G\|πρεσβύτεροι]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0833\|αὐλὴν]]  [[G3588\|τοῦ]]  [[G0749\|ἀρχιερέως]]  [[G3588\|τοῦ]]  [[G3004H\|λεγομένου]]  [[G2533G\|Καϊάφα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic SCRIBE (S)|SCRIBE (S)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.2|<< Matthew 26:2]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.4|Matthew 26:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: Revelation 10:9
+type: Verse
+kjv: "And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take it, and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey."
+bsb: "And I went to the angel and said, “Give me the small scroll.” “Take it and eat it,” he said. “It will make your stomach bitter, but in your mouth it will be as sweet as honey.”"
+greek: "καὶ ἀπῆλθα πρὸς τὸν ἄγγελον λέγων αὐτῷ δοῦναί μοι τὸ βιβλαρίδιον. καὶ λέγει μοι· λάβε καὶ κατάφαγε αὐτό. καὶ πικρανεῖ σου τὴν κοιλίαν, ἀλλ᾽ ἐν τῷ στόματί σου ἔσται γλυκὺ ὡς μέλι.¶"
+pericope: "[[Rev.10.1 The Angel and the Small Scroll|The Angel and the Small Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 10
+book/chapter: "[[Rev.10|Revelation 10]]"
+chronological_order: 1177
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G0974]]"
+- "[[G2983]]"
+- "[[G2719]]"
+- "[[G4087]]"
+- "[[G4771]]"
+- "[[G2836]]"
+- "[[G0235]]"
+- "[[G1722]]"
+- "[[G4750]]"
+- "[[G1510]]"
+- "[[G1099]]"
+- "[[G5613]]"
+- "[[G3192]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 10:9**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I went unto the angel, and said unto him, Give me the little book. And he said unto me, Take [it], and eat it up; and it shall make thy belly bitter, but it shall be in thy mouth sweet as honey.
 <small><sub>**BSB:**</sub></small>
 And I went to the angel and said, “Give me the small scroll.” “Take it and eat it,” he said. “It will make your stomach bitter, but in your mouth it will be as sweet as honey.”
-<small><sub>**Literal:**</sub></small>
-And I went to the angel saying to him to give me the little scroll. And he says to me; do take and do eat it. and it will make bitter your <the> stomach, but in the mouth of you it will be sweet as honey.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.8|<< Revelation 10:8]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.10|Revelation 10:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0565\|ἀπῆλθα]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G0032G\|ἄγγελον]]  [[G3004G\|λέγων]]  [[G0846\|αὐτῷ]]  [[G1325\|δοῦναί]]  [[G3165\|μοι]]  [[G3588\|τὸ]]  [[G0974\|βιβλαρίδιον.]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3165\|μοι·]]  [[G2983\|λάβε]]  [[G2532\|καὶ]]  [[G2719\|κατάφαγε]]  [[G0846\|αὐτό.]]  [[G2532\|καὶ]]  [[G4087\|πικρανεῖ]]  [[G4771\|σου]]  [[G3588\|τὴν]]  [[G2836\|κοιλίαν,]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4750\|στόματί]]  [[G4771\|σου]]  [[G1510\|ἔσται]]  [[G1099\|γλυκὺ]]  [[G5613\|ὡς]]  [[G3192\|μέλι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.8|<< Revelation 10:8]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.10|Revelation 10:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 10:9** is...
 > $\quad$ alluding to: [[LXX.Ezek.2.8|Ezek 2:8]]

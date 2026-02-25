@@ -1,8 +1,60 @@
+---
+title: Jeremiah 51:37
+type: Verse
+kjv: "And Babylon shall become heaps, a dwellingplace for dragons, an astonishment, and an hissing, without an inhabitant."
+bsb: "Babylon will become a heap of rubble, a haunt for jackals, an object of horror and scorn, without inhabitant."
+hebrew: "וְהָיְתָה֩ בָבֶ֨ל׀ לְגַלִּ֧ים׀ מְעוֹן־ תַּנִּ֛ים שַׁמָּ֥ה וּשְׁרֵקָ֖ה מֵאֵ֥ין יוֹשֵֽׁב׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DRAGON|DRAGON]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0894]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H1530G]]"
+- "[[H4583]]"
+- "[[H9014]]"
+- "[[H8577A]]"
+- "[[H8047H]]"
+- "[[H9002]]"
+- "[[H8322]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:37**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Babylon shall become heaps, a dwellingplace for dragons, an astonishment, and an hissing, without an inhabitant.
 <small><sub>**BSB:**</sub></small>
 Babylon will become a heap of rubble, a haunt for jackals, an object of horror and scorn, without inhabitant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָה֩]] [[H0894\|בָבֶ֨ל]][[H9015\|׀]] [[H9005\|לְ]][[H1530G\|גַלִּ֧ים]][[H9015\|׀]] [[H4583\|מְעוֹן]][[H9014\|־]] [[H8577A\|תַּנִּ֛ים]] [[H8047H\|שַׁמָּ֥ה]] [[H9002\|וּ]][[H8322\|שְׁרֵקָ֖ה]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H3427\|יוֹשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAGON|DRAGON]] • [[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.36|<< Jeremiah 51:36]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.38|Jeremiah 51:38 >>]]</td></tr></table>
 

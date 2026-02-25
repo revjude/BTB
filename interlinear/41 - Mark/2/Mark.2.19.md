@@ -1,10 +1,62 @@
+---
+title: Mark 2:19
+type: Verse
+kjv: "And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast."
+bsb: "Jesus replied, “How can the guests of the bridegroom fast while He is with them? As long as He is with them, they cannot fast."
+jesus_said: "Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast."
+greek: "Καὶ εἶπεν αὐτοῖς ὁ Ἰησοῦς· μὴ δύνανται οἱ υἱοὶ τοῦ νυμφῶνος ἐν ᾧ ὁ νυμφίος μετ᾽ αὐτῶν ἐστιν νηστεύειν; ὅσον χρόνον ἔχουσιν τὸν νυμφίον μετ᾽ αὐτῶν οὐ δύνανται νηστεύειν."
+pericope: "[[Mark.2.18 Questions about Fasting|Questions about Fasting]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G5207]]"
+- "[[G3567]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G3566]]"
+- "[[G3326]]"
+- "[[G1510]]"
+- "[[G3522]]"
+- "[[G3745]]"
+- "[[G5550]]"
+- "[[G2192]]"
+- "[[G3756]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 2:19**<big><big>[[Mark.2.18 Questions about Fasting|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto them, Can the children of the bridechamber fast, while the bridegroom is with them? as long as they have the bridegroom with them, they cannot fast.
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “How can the guests of the bridegroom fast while He is with them? As long as He is with them, they cannot fast.
-<small><sub>**Literal:**</sub></small>
-And said to them <the> Jesus; Not are able the sons of the bridechamber in which the bridegroom with them is to fast? As long as time they have the bridegroom with them not they are able to fast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.18|<< Mark 2:18]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.20|Mark 2:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3361\|μὴ]]  [[G1410\|δύνανται]]  [[G3588\|οἱ]]  [[G5207\|υἱοὶ]]  [[G3588\|τοῦ]]  [[G3567\|νυμφῶνος]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G3588\|ὁ]]  [[G3566\|νυμφίος]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G1510\|ἐστιν]]  [[G3522\|νηστεύειν;]]  [[G3745\|ὅσον]]  [[G5550\|χρόνον]]  [[G2192\|ἔχουσιν]]  [[G3588\|τὸν]]  [[G3566\|νυμφίον]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G3756\|οὐ]]  [[G1410\|δύνανται]]  [[G3522\|νηστεύειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.18|<< Mark 2:18]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.20|Mark 2:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

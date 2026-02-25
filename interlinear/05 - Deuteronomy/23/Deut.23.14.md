@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 23:14
+type: Verse
+kjv: "For the LORD thy God walketh in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy: that he see no unclean thing in thee, and turn away from thee."
+bsb: "For the LORD your God walks throughout your camp to protect you and deliver your enemies to you. Your camp must be holy, lest He see anything unclean among you and turn away from you."
+hebrew: "כִּי֩ יְהוָ֨ה אֱלֹהֶ֜יךָ מִתְהַלֵּ֣ךְ׀ בְּקֶ֣רֶב מַחֲנֶ֗ךָ לְהַצִּֽילְךָ֙ וְלָתֵ֤ת אֹיְבֶ֙יךָ֙ לְפָנֶ֔יךָ וְהָיָ֥ה מַחֲנֶ֖יךָ קָד֑וֹשׁ וְלֹֽא־ יִרְאֶ֤ה בְךָ֙ עֶרְוַ֣ת דָּבָ֔ר וְשָׁ֖ב מֵאַחֲרֶֽיךָ׃ ס"
+pericope: "[[Deut.23.9 Uncleanness in the Camp|Uncleanness in the Camp]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 23
+book/chapter: "[[Deut.23|Deuteronomy 23]]"
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic CLEANLINESS|CLEANLINESS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1980I]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H4264]]"
+- "[[H9005]]"
+- "[[H5337]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H0341]]"
+- "[[H6440G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6918G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H6172]]"
+- "[[H1697M]]"
+- "[[H7725I]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 23:14**<big><big>[[Deut.23.9 Uncleanness in the Camp|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD thy God walketh in the midst of thy camp, to deliver thee, and to give up thine enemies before thee; therefore shall thy camp be holy: that he see no unclean thing in thee, and turn away from thee.
 <small><sub>**BSB:**</sub></small>
 For the LORD your God walks throughout your camp to protect you and deliver your enemies to you. Your camp must be holy, lest He see anything unclean among you and turn away from you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H1980I\|מִתְהַלֵּ֣ךְ]][[H9015\|׀]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H4264\|מַחֲנֶ֗]][[H9021\|ךָ]] [[H9005\|לְ]][[H5337\|הַצִּֽילְ]][[H9031\|ךָ֙]] [[H9002\|וְ]][[H9005\|לָ]][[H5414G\|תֵ֤ת]] [[H0341\|אֹיְבֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H4264\|מַחֲנֶ֖י]][[H9021\|ךָ]] [[H6918G\|קָד֑וֹשׁ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|יִרְאֶ֤ה]] [[H9003\|בְ]][[H9031\|ךָ֙]] [[H6172\|עֶרְוַ֣ת]] [[H1697M\|דָּבָ֔ר]] [[H9001\|וְ]][[H7725I\|שָׁ֖ב]] [[H9006\|מֵ]][[H0310A\|אַחֲרֶֽי]][[H9031\|ךָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic CLEANLINESS|CLEANLINESS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.13|<< Deuteronomy 23:13]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.15|Deuteronomy 23:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -31,7 +99,7 @@ For the LORD your God walks throughout your camp to protect you and deliver your
 | [the] nakedness of  |**<big>&#8207;[[H6172\|עֶרְוַ֣ת]]&#8207; </big>**| 'er.Vat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a thing  |**<big>&#8207;[[H1697M\|דָּבָ֔ר]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he will turn away  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7725I\|שָׁ֖ב]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> Shav<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from after you  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0310A\|אַחֲרֶֽי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.cha.Rei.<small><sup>[[HAcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from after you  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0310A\|אַחֲרֶֽי]]&#8207;&#8207;[[H9031\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.cha.Rei.<small><sup>[[HAcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.23.13|<< Deuteronomy 23:13]]</td><td align="center" style="border:none;">[[Deut.23|Deuteronomy 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.23.15|Deuteronomy 23:15 >>]]</td></tr></table>
 
 

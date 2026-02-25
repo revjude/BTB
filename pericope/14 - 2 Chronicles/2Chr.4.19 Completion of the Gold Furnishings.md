@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Completion of the Gold Furnishings
+type: Pericope
 pericope: "[[2Chr.4.19 Completion of the Gold Furnishings|Completion of the Gold Furnishings]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 4
 book/chapter: "[[2Chr.4|2 Chronicles 4]]"
-genre:
+chronological_order: 493
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.4.19]]"
 - "[[2Chr.4.20]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.4.22]]"
 ---
 
-[[2Chr.4|2 Chronicles 4:19 - 2 Chronicles 4:22]]
+<small>[[2Chr.4|2 Chronicles 4:19-22]]</small>
 *Completion of the Gold Furnishings*
 
 [[2Chr.4.19|19]] And Solomon made all the vessels that \[were for\] the house of God, the golden altar also, and the tables whereon the shewbread \[was set\];

@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 29:21
+type: Verse
+kjv: "And the LORD shall separate him unto evil out of all the tribes of Israel, according to all the curses of the covenant that are written in this book of the law:"
+bsb: "and single him out from all the tribes of Israel for disaster, according to all the curses of the covenant written in this Book of the Law."
+hebrew: "וְהִבְדִּיל֤וֹ יְהוָה֙ לְרָעָ֔ה מִכֹּ֖ל שִׁבְטֵ֣י יִשְׂרָאֵ֑ל כְּכֹל֙ אָל֣וֹת הַבְּרִ֔ית הַכְּתוּבָ֕ה בְּסֵ֥פֶר הַתּוֹרָ֖ה הַזֶּֽה׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0914]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7451C]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H0423]]"
+- "[[H9009]]"
+- "[[H1285]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H5612H]]"
+- "[[H8451]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:21**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall separate him unto evil out of all the tribes of Israel, according to all the curses of the covenant that are written in this book of the law:
 <small><sub>**BSB:**</sub></small>
 and single him out from all the tribes of Israel for disaster, according to all the curses of the covenant written in this Book of the Law.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0914\|הִבְדִּיל֤]][[H9033\|וֹ]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H7451C\|רָעָ֔ה]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H7626H\|שִׁבְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9004\|כְּ]][[H3605\|כֹל֙]] [[H0423\|אָל֣וֹת]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H9009\|הַ]][[H3789\|כְּתוּבָ֕ה]] [[H9003\|בְּ]][[H5612H\|סֵ֥פֶר]] [[H9009\|הַ]][[H8451\|תּוֹרָ֖ה]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.20|<< Deuteronomy 29:20]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.22|Deuteronomy 29:22 >>]]</td></tr></table>
 

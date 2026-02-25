@@ -1,10 +1,60 @@
+---
+title: John 7:52
+type: Verse
+kjv: "They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet."
+bsb: "“Aren’t you also from Galilee?” they replied. “Look into it, and you will see that no prophet comes out of Galilee.”"
+greek: "ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· μὴ καὶ σὺ ἐκ τῆς Γαλιλαίας εἶ; ἐραύνησον καὶ ἴδε ὅτι ἐκ τῆς Γαλιλαίας προφήτης οὐκ ἐγείρεται.¶"
+pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NICODEMUS|NICODEMUS]]"
+- "[[topic SCRIPTURES|SCRIPTURES]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0611]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G1056G]]"
+- "[[G1510]]"
+- "[[G2045]]"
+- "[[G1492H]]"
+- "[[G3754G]]"
+- "[[G4396]]"
+- "[[G3756]]"
+- "[[G1453]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 7:52**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet.
 <small><sub>**BSB:**</sub></small>
 “Aren’t you also from Galilee?” they replied. “Look into it, and you will see that no prophet comes out of Galilee.”
-<small><sub>**Literal:**</sub></small>
-They answered and they said to him; Surely not also you yourself from <the> Galilee are? do search and do see that out of <the> Galilee a prophet not is raised.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.51|<< John 7:51]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.53|John 7:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G3361\|μὴ]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G1510\|εἶ;]]  [[G2045\|ἐραύνησον]]  [[G2532\|καὶ]]  [[G1492H\|ἴδε]]  [[G3754G\|ὅτι]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G4396\|προφήτης]]  [[G3756\|οὐκ]]  [[G1453\|ἐγείρεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NICODEMUS|NICODEMUS]] • [[topic SCRIPTURES|SCRIPTURES]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.51|<< John 7:51]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.53|John 7:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

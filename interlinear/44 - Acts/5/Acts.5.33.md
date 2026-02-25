@@ -1,10 +1,57 @@
+---
+title: Acts 5:33
+type: Verse
+kjv: "When they heard that, they were cut to the heart, and took counsel to slay them."
+bsb: "When the Council members heard this, they were enraged, and they resolved to put the apostles to death."
+greek: "οἱ δὲ ἀκούσαντες διεπρίοντο καὶ ἐβούλοντο ἀνελεῖν αὐτούς.¶"
+pericope: "[[Acts.5.33 Gamaliel’s Advice|Gamaliel’s Advice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GAMALIEL|GAMALIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0191]]"
+- "[[G1282]]"
+- "[[G2532]]"
+- "[[G1014]]"
+- "[[G0337]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Acts 5:33**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When they heard [that], they were cut [to the heart], and took counsel to slay them.
 <small><sub>**BSB:**</sub></small>
 When the Council members heard this, they were enraged, and they resolved to put the apostles to death.
-<small><sub>**Literal:**</sub></small>
-<the> And having heard they felt cut up and they were desiring to execute them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.32|<< Acts 5:32]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.34|Acts 5:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0191\|ἀκούσαντες]]  [[G1282\|διεπρίοντο]]  [[G2532\|καὶ]]  [[G1014\|ἐβούλοντο]]  [[G0337\|ἀνελεῖν]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAMALIEL|GAMALIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic REPROOF|REPROOF]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.32|<< Acts 5:32]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.34|Acts 5:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

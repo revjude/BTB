@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Calms the Storm
+type: Pericope
 pericope: "[[Luke.8.22 Jesus Calms the Storm|Jesus Calms the Storm]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 8
 book/chapter: "[[Luke.8|Luke 8]]"
-genre:
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.8.22]]"
 - "[[Luke.8.23]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.8.25]]"
 ---
 
-[[Luke.8|Luke 8:22 - Luke 8:25]]
+<small>[[Luke.8|Luke 8:22-25]]</small>
 *Jesus Calms the Storm*
 
 [[Luke.8.22|22]] Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.

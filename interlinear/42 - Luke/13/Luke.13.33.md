@@ -1,10 +1,59 @@
+---
+title: Luke 13:33
+type: Verse
+kjv: "Nevertheless I must walk to day, and to morrow, and the day following: for it cannot be that a prophet perish out of Jerusalem."
+bsb: "Nevertheless, I must keep going today and tomorrow and the next day, for it is not admissible for a prophet to perish outside of Jerusalem."
+jesus_said: "Nevertheless I must walk to day, and to morrow, and the day following: for it cannot be that a prophet perish out of Jerusalem."
+greek: "πλὴν δεῖ με σήμερον καὶ αὔριον καὶ τῇ ἐχομένῃ πορεύεσθαι, ὅτι οὐκ ἐνδέχεται προφήτην ἀπολέσθαι ἔξω Ἰερουσαλήμ.¶"
+pericope: "[[Luke.13.31 Lament over Jerusalem|Lament over Jerusalem]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4133]]"
+- "[[G1163]]"
+- "[[G3165]]"
+- "[[G4594]]"
+- "[[G2532]]"
+- "[[G0839]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G4198]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G1735]]"
+- "[[G4396]]"
+- "[[G0622]]"
+- "[[G1854]]"
+- "[[G2419]]"
+texts:
+- NKO
+---
+
 **Luke 13:33**<big><big>[[Luke.13.31 Lament over Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless I must walk to day, and to morrow, and the [day] following: for it cannot be that a prophet perish out of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, I must keep going today and tomorrow and the next day, for it is not admissible for a prophet to perish outside of Jerusalem.
-<small><sub>**Literal:**</sub></small>
-But it behooves Me today and tomorrow and to the [day] following to proceed, for not it is possible [for] a prophet to perish outside of Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.32|<< Luke 13:32]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.34|Luke 13:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4133\|πλὴν]]  [[G1163\|δεῖ]]  [[G3165\|με]]  [[G4594\|σήμερον]]  [[G2532\|καὶ]]  [[G0839\|αὔριον]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G2192\|ἐχομένῃ]]  [[G4198\|πορεύεσθαι,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G1735\|ἐνδέχεται]]  [[G4396\|προφήτην]]  [[G0622\|ἀπολέσθαι]]  [[G1854\|ἔξω]]  [[G2419\|Ἰερουσαλήμ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.32|<< Luke 13:32]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.34|Luke 13:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

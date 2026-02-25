@@ -1,8 +1,56 @@
+---
+title: Psalm 123:1
+type: Verse
+kjv: "Unto thee lift I up mine eyes, O thou that dwellest in the heavens."
+bsb: "A song of ascents. I lift up my eyes to You, the One enthroned in heaven."
+hebrew: "אֵ֭לֶיךָ נָשָׂ֣אתִי אֶת־ עֵינַ֑י הַ֝יֹּשְׁבִ֗י בַּשָּׁמָֽיִם׃"
+pericope: "[[Ps.123.1 I Lift Up My Eyes to You|I Lift Up My Eyes to You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 123
+book/chapter: "[[Ps.123|Psalm 123]]"
+chronological_order: 885
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H5375M]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 123:1**<big><big>[[Ps.123.1 I Lift Up My Eyes to You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto thee lift I up mine eyes, O thou that dwellest in the heavens.
 <small><sub>**BSB:**</sub></small>
 A song of ascents. I lift up my eyes to You, the One enthroned in heaven.
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֵ֭לֶי]][[H9031\|ךָ]] [[H5375M\|נָשָׂ֣אתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינַ֑]][[H9020\|י]] [[H9009\|הַ֝]][[H3427\|יֹּשְׁבִ֗י]] [[H9003\|בַּ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.123.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.123.0|<< Psalms 123:0]]</td><td align="center" style="border:none;">[[Ps.123|Psalms 123]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.123.2|Psalms 123:2 >>]]</td></tr></table>
 

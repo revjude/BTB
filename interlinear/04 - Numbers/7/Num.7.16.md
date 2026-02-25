@@ -1,8 +1,47 @@
+---
+title: Numbers 7:16
+type: Verse
+kjv: "One kid of the goats for a sin offering:"
+bsb: "one male goat for a sin offering;"
+hebrew: "שְׂעִיר־ עִזִּ֥ים אֶחָ֖ד לְחַטָּֽאת׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H8163B]]"
+- "[[H9014]]"
+- "[[H5795]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2403H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:16**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One kid of the goats for a sin offering:
 <small><sub>**BSB:**</sub></small>
 one male goat for a sin offering;
+<small><sub>**Hebrew:**</sub></small>
+[[H8163B\|שְׂעִיר]][[H9014\|־]] [[H5795\|עִזִּ֥ים]] [[H0259\|אֶחָ֖ד]] [[H9005\|לְ]][[H2403H\|חַטָּֽאת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.15|<< Numbers 7:15]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.17|Numbers 7:17 >>]]</td></tr></table>
 

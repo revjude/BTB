@@ -1,10 +1,60 @@
+---
+title: Matthew 5:43
+type: Verse
+kjv: "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy."
+bsb: "You have heard that it was said, ‘Love your neighbor’ and ‘Hate your enemy.’"
+jesus_said: "Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy."
+greek: "Ἠκούσατε ὅτι ἐρρέθη· ἀγαπήσεις τὸν πλησίον σου καὶ μισήσεις τὸν ἐχθρόν σου."
+pericope: "[[Matt.5.38 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G2046]]"
+- "[[G0025]]"
+- "[[G3588]]"
+- "[[G4139]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3404]]"
+- "[[G2190]]"
+texts:
+- NKO
+---
+
 **Matthew 5:43**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye have heard that it hath been said, Thou shalt love thy neighbour, and hate thine enemy.
 <small><sub>**BSB:**</sub></small>
 You have heard that it was said, ‘Love your neighbor’ and ‘Hate your enemy.’
-<small><sub>**Literal:**</sub></small>
-You have heard that it was said; You will love the neighbour of you and will hate the enemy of you.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.42|<< Matthew 5:42]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.44|Matthew 5:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἠκούσατε]]  [[G3754G\|ὅτι]]  [[G2046\|ἐρρέθη·]]  [[G0025\|ἀγαπήσεις]]  [[G3588\|τὸν]]  [[G4139\|πλησίον]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3404\|μισήσεις]]  [[G3588\|τὸν]]  [[G2190\|ἐχθρόν]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic HATRED|HATRED]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic LOVE|LOVE]] • [[topic RELIGION|RELIGION]] • [[topic RETALIATION|RETALIATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.42|<< Matthew 5:42]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.44|Matthew 5:44 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 5:43** is...
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]

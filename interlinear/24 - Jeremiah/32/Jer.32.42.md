@@ -1,8 +1,67 @@
+---
+title: Jeremiah 32:42
+type: Verse
+kjv: "For thus saith the LORD; Like as I have brought all this great evil upon this people, so will I bring upon them all the good that I have promised them."
+bsb: "For this is what the LORD says: Just as I have brought all this great disaster on this people, so I will bring on them all the good I have promised them."
+hebrew: "כִּֽי־ כֹה֙ אָמַ֣ר יְהוָ֔ה כַּאֲשֶׁ֤ר הֵבֵ֙אתִי֙ אֶל־ הָעָ֣ם הַזֶּ֔ה אֵ֛ת כָּל־ הָרָעָ֥ה הַגְּדוֹלָ֖ה הַזֹּ֑את כֵּ֣ן אָנֹכִ֞י מֵבִ֤יא עֲלֵיהֶם֙ אֶת־ כָּל־ הַטּוֹבָ֔ה אֲשֶׁ֥ר אָנֹכִ֖י דֹּבֵ֥ר עֲלֵיהֶֽם׃"
+pericope: "[[Jer.32.36 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H7451C]]"
+- "[[H1419A]]"
+- "[[H2063]]"
+- "[[H3651C]]"
+- "[[H0595]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H2896C]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:42**<big><big>[[Jer.32.36 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD; Like as I have brought all this great evil upon this people, so will I bring upon them all the good that I have promised them.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: Just as I have brought all this great disaster on this people, so I will bring on them all the good I have promised them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3541\|כֹה֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H0935P\|הֵבֵ֙אתִי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָ֥ה]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H3651C\|כֵּ֣ן]] [[H0595\|אָנֹכִ֞י]] [[H0935P\|מֵבִ֤יא]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2896C\|טּוֹבָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0595\|אָנֹכִ֖י]] [[H1696I\|דֹּבֵ֥ר]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.41|<< Jeremiah 32:41]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.43|Jeremiah 32:43 >>]]</td></tr></table>
 

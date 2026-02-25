@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 13:2
+type: Verse
+kjv: "He reigned three years in Jerusalem. His mother’s name also was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam."
+bsb: "and he reigned in Jerusalem three years. His mother’s name was Micaiah daughter of Uriel; she was from Gibeah. And there was war between Abijah and Jeroboam."
+hebrew: "שָׁל֣וֹשׁ שָׁנִ֗ים מָלַךְ֙ בִּיר֣וּשָׁלִַ֔ם וְשֵׁ֣ם אִמּ֔וֹ מִיכָיָ֥הוּ בַת־ אוּרִיאֵ֖ל מִן־ גִּבְעָ֑ה וּמִלְחָמָ֥ה הָיְתָ֛ה בֵּ֥ין אֲבִיָּ֖ה וּבֵ֥ין יָרָבְעָֽם׃"
+pericope: "[[2Chr.13.1 Abijah Reigns in Judah|Abijah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic URIEL|URIEL]]"
+strongs:
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H4427A]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H4322H]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H0222I]]"
+- "[[H4480A]]"
+- "[[H1390G]]"
+- "[[H4421]]"
+- "[[H1961]]"
+- "[[H0996G]]"
+- "[[H0029I]]"
+- "[[H3379G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 13:2**<big><big>[[2Chr.13.1 Abijah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He reigned three years in Jerusalem. His mother’s name also [was] Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam.
 <small><sub>**BSB:**</sub></small>
 and he reigned in Jerusalem three years. His mother’s name was Micaiah daughter of Uriel; she was from Gibeah. And there was war between Abijah and Jeroboam.
+<small><sub>**Hebrew:**</sub></small>
+[[H7969\|שָׁל֣וֹשׁ]] [[H8141\|שָׁנִ֗ים]] [[H4427A\|מָלַךְ֙]] [[H9003\|בִּ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H4322H\|מִיכָיָ֥הוּ]] [[H1323G\|בַת]][[H9014\|־]] [[H0222I\|אוּרִיאֵ֖ל]] [[H4480A\|מִן]][[H9014\|־]] [[H1390G\|גִּבְעָ֑ה]] [[H9002\|וּ]][[H4421\|מִלְחָמָ֥ה]] [[H1961\|הָיְתָ֛ה]] [[H0996G\|בֵּ֥ין]] [[H0029I\|אֲבִיָּ֖ה]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H3379G\|יָרָבְעָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MAACHAH|MAACHAH]] • [[topic URIEL|URIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.1|<< 2 Chronicles 13:1]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.3|2 Chronicles 13:3 >>]]</td></tr></table>
 

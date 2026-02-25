@@ -1,10 +1,71 @@
+---
+title: Acts 18:21
+type: Verse
+kjv: "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus."
+bsb: "But as he left, he said, “I will come back to you if God is willing.” And he set sail from Ephesus."
+greek: "ἀλλ᾽ ἀποταξάμενος καὶ αὐτοῖς εἰπών δεῖ με πάντως τὴν ἑορτὴν τὴν ἐρχομένην ποιῆσαι εἰς Ἱεροσόλυμα· πάλιν δὲ ἀνακάμψω πρὸς ὑμᾶς τοῦ θεοῦ θέλοντος, καὶ ἀνήχθη ἀπὸ τῆς Ἐφέσου."
+pericope: "[[Acts.18.18 Paul Returns to Antioch|Paul Returns to Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 18
+book/chapter: "[[Acts.18|Acts 18]]"
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G0235]]"
+- "[[G0657]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G1163]]"
+- "[[G3165]]"
+- "[[G3843]]"
+- "[[G3588]]"
+- "[[G1859]]"
+- "[[G2064]]"
+- "[[G4160G]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G3825]]"
+- "[[G1161]]"
+- "[[G0344]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2316]]"
+- "[[G2309]]"
+- "[[G0321]]"
+- "[[G0575]]"
+- "[[G2181]]"
+texts:
+- NKO
+- N(k)O
+- no
+- k
+- KO
+---
+
 **Acts 18:21**<big><big>[[Acts.18.18 Paul Returns to Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.
 <small><sub>**BSB:**</sub></small>
 But as he left, he said, “I will come back to you if God is willing.” And he set sail from Ephesus.
-<small><sub>**Literal:**</sub></small>
-but having taken leave and to them having said necessary me by all means the feast which is coming to do into Jerusalem; Again now I will return to you <the> God willing, and he sailed from <the> Ephesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.20|<< Acts 18:20]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.22|Acts 18:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G0657\|ἀποταξάμενος]]  [[G2532\|καὶ]]  [[G0846\|αὐτοῖς]]  [[G2036\|εἰπών]]  [[G1163\|δεῖ]]  [[G3165\|με]]  [[G3843\|πάντως]]  [[G3588\|τὴν]]  [[G1859\|ἑορτὴν]]  [[G3588\|τὴν]]  [[G2064\|ἐρχομένην]]  [[G4160G\|ποιῆσαι]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα·]]  [[G3825\|πάλιν]]  [[G1161\|δὲ]]  [[G0344\|ἀνακάμψω]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2309\|θέλοντος,]]  [[G2532\|καὶ]]  [[G0321\|ἀνήχθη]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2181\|Ἐφέσου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic FEASTS|FEASTS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PAUL|PAUL]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.18.20|<< Acts 18:20]]</td><td align="center" style="border:none;">[[Acts.18|Acts 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.18.22|Acts 18:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

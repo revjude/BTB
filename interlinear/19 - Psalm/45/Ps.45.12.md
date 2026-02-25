@@ -1,8 +1,61 @@
+---
+title: Psalm 45:12
+type: Verse
+kjv: "And the daughter of Tyre shall be there with a gift; even the rich among the people shall intreat thy favour."
+bsb: "The Daughter of Tyre will come with a gift; men of wealth will seek your favor."
+hebrew: "וּבַֽת־ צֹ֨ר׀ בְּ֭מִנְחָה פָּנַ֥יִךְ יְחַלּ֗וּ עֲשִׁ֣ירֵי עָֽם׃"
+pericope: "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TYRE|TYRE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6865]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H4503H]]"
+- "[[H6440L]]"
+- "[[H9022]]"
+- "[[H2470B]]"
+- "[[H6223]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 45:12**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the daughter of Tyre [shall be there] with a gift; [even] the rich among the people shall intreat thy favour.
 <small><sub>**BSB:**</sub></small>
 The Daughter of Tyre will come with a gift; men of wealth will seek your favor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1323G\|בַֽת]][[H9014\|־]] [[H6865\|צֹ֨ר]][[H9015\|׀]] [[H9003\|בְּ֭]][[H4503H\|מִנְחָה]] [[H6440L\|פָּנַ֥יִ]][[H9022\|ךְ]] [[H2470B\|יְחַלּ֗וּ]] [[H6223\|עֲשִׁ֣ירֵי]] [[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SOLOMON|SOLOMON]] • [[topic TYRE|TYRE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.11|<< Psalms 45:11]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.13|Psalms 45:13 >>]]</td></tr></table>
 

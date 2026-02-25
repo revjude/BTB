@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cities of Judah
+type: Pericope
 pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
-verse_count: 44
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 15
 book/chapter: "[[Josh.15|Joshua 15]]"
-genre:
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 44
 verses:
 - "[[Josh.15.20]]"
 - "[[Josh.15.21]]"
@@ -62,7 +69,7 @@ verses:
 - "[[Josh.15.63]]"
 ---
 
-[[Josh.15|Joshua 15:20 - Joshua 15:63]]
+<small>[[Josh.15|Joshua 15:20-63]]</small>
 *The Cities of Judah*
 
 [[Josh.15.20|20]] This \[is\] the inheritance of the tribe of the children of Judah according to their families.

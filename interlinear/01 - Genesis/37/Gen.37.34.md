@@ -1,8 +1,69 @@
+---
+title: Genesis 37:34
+type: Verse
+kjv: "And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days."
+bsb: "Then Jacob tore his clothes, put sackcloth around his waist, and mourned for his son many days."
+hebrew: "וַיִּקְרַ֤ע יַעֲקֹב֙ שִׂמְלֹתָ֔יו וַיָּ֥שֶׂם שַׂ֖ק בְּמָתְנָ֑יו וַיִּתְאַבֵּ֥ל עַל־ בְּנ֖וֹ יָמִ֥ים רַבִּֽים׃"
+pericope: "[[Gen.37.31 Jacob Mourns Joseph|Jacob Mourns Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[H9001]]"
+- "[[H7167]]"
+- "[[H3290]]"
+- "[[H8071]]"
+- "[[H9023]]"
+- "[[H7760H]]"
+- "[[H8242]]"
+- "[[H9003]]"
+- "[[H4975]]"
+- "[[H0056]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:34**<big><big>[[Gen.37.31 Jacob Mourns Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.
 <small><sub>**BSB:**</sub></small>
 Then Jacob tore his clothes, put sackcloth around his waist, and mourned for his son many days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7167\|יִּקְרַ֤ע]] [[H3290\|יַעֲקֹב֙]] [[H8071\|שִׂמְלֹתָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H7760H\|יָּ֥שֶׂם]] [[H8242\|שַׂ֖ק]] [[H9003\|בְּ]][[H4975\|מָתְנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0056\|יִּתְאַבֵּ֥ל]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H3117G\|יָמִ֥ים]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic MOURNING|MOURNING]] • [[topic RENDING|RENDING]] • [[topic SACKCLOTH|SACKCLOTH]] • [[topic SORROW|SORROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.33|<< Genesis 37:33]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.35|Genesis 37:35 >>]]</td></tr></table>
 

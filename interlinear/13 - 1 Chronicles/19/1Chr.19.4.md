@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 19:4
+type: Verse
+kjv: "Wherefore Hanun took David’s servants, and shaved them, and cut off their garments in the midst hard by their buttocks, and sent them away."
+bsb: "So Hanun took David’s servants, shaved their beards, cut off their garments at the hips, and sent them away."
+hebrew: "וַיִּקַּ֨ח חָנ֜וּן אֶת־ עַבְדֵ֤י דָוִיד֙ וַֽיְגַלְּחֵ֔ם וַיִּכְרֹ֧ת אֶת־ מַדְוֵיהֶ֛ם בַּחֵ֖צִי עַד־ הַמִּפְשָׂעָ֑ה וַֽיְשַׁלְּחֵֽם׃"
+pericope: "[[1Chr.19.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H2586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H1732]]"
+- "[[H1548]]"
+- "[[H9038]]"
+- "[[H3772G]]"
+- "[[H4063]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H2677]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H4667]]"
+- "[[H7971G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:4**<big><big>[[1Chr.19.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore Hanun took David’s servants, and shaved them, and cut off their garments in the midst hard by their buttocks, and sent them away.
 <small><sub>**BSB:**</sub></small>
 So Hanun took David’s servants, shaved their beards, cut off their garments at the hips, and sent them away.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H2586G\|חָנ֜וּן]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדֵ֤י]] [[H1732\|דָוִיד֙]] [[H9001\|וַֽ]][[H1548\|יְגַלְּחֵ֔]][[H9038\|ם]] [[H9001\|וַ]][[H3772G\|יִּכְרֹ֧ת]] [[H0853\|אֶת]][[H9014\|־]] [[H4063\|מַדְוֵי]][[H9028\|הֶ֛ם]] [[H9003\|בַּ]][[H2677\|חֵ֖צִי]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H4667\|מִּפְשָׂעָ֑ה]] [[H9001\|וַֽ]][[H7971G\|יְשַׁלְּחֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOTIVE|MOTIVE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.3|<< 1 Chronicles 19:3]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.5|1 Chronicles 19:5 >>]]</td></tr></table>
 

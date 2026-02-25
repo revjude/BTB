@@ -1,8 +1,44 @@
+---
+title: 1 Samuel 10:13
+type: Verse
+kjv: "And when he had made an end of prophesying, he came to the high place."
+bsb: "And when Saul had finished prophesying, he went up to the high place."
+hebrew: "וַיְכַל֙ מֵֽהִתְנַבּ֔וֹת וַיָּבֹ֖א הַבָּמָֽה׃"
+pericope: "[[1Sam.10.9 Samuel’s Signs Fulfilled|Samuel’s Signs Fulfilled]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H9006]]"
+- "[[H5012]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 10:13**<big><big>[[1Sam.10.9 Samuel’s Signs Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he had made an end of prophesying, he came to the high place.
 <small><sub>**BSB:**</sub></small>
 And when Saul had finished prophesying, he went up to the high place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615G\|יְכַל֙]] [[H9006\|מֵֽ]][[H5012\|הִתְנַבּ֔וֹת]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H9009\|הַ]][[H1116\|בָּמָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.12|<< 1 Samuel 10:12]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.14|1 Samuel 10:14 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 28:33
+type: Verse
+kjv: "The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:"
+bsb: "A people you do not know will eat the produce of your land and of all your toil. All your days you will be oppressed and crushed."
+hebrew: "פְּרִ֤י אַדְמָֽתְךָ֙ וְכָל־ יְגִ֣יעֲךָ֔ יֹאכַ֥ל עַ֖ם אֲשֶׁ֣ר לֹא־ יָדָ֑עְתָּ וְהָיִ֗יתָ רַ֛ק עָשׁ֥וּק וְרָצ֖וּץ כָּל־ הַיָּמִֽים׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6529]]"
+- "[[H0127G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3018]]"
+- "[[H0398]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7535]]"
+- "[[H6231]]"
+- "[[H7533]]"
+- "[[H9009]]"
+- "[[H3117J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:33**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fruit of thy land, and all thy labours, shall a nation which thou knowest not eat up; and thou shalt be only oppressed and crushed alway:
 <small><sub>**BSB:**</sub></small>
 A people you do not know will eat the produce of your land and of all your toil. All your days you will be oppressed and crushed.
+<small><sub>**Hebrew:**</sub></small>
+[[H6529\|פְּרִ֤י]] [[H0127G\|אַדְמָֽתְ]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3018\|יְגִ֣יעֲ]][[H9021\|ךָ֔]] [[H0398\|יֹאכַ֥ל]] [[H5971A\|עַ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדָ֑עְתָּ]] [[H9001\|וְ]][[H1961\|הָיִ֗יתָ]] [[H7535\|רַ֛ק]] [[H6231\|עָשׁ֥וּק]] [[H9002\|וְ]][[H7533\|רָצ֖וּץ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117J\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.32|<< Deuteronomy 28:32]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.34|Deuteronomy 28:34 >>]]</td></tr></table>
 

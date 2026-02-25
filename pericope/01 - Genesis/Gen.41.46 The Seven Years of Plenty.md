@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Seven Years of Plenty
+type: Pericope
 pericope: "[[Gen.41.46 The Seven Years of Plenty|The Seven Years of Plenty]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 41
 book/chapter: "[[Gen.41|Genesis 41]]"
-genre:
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.41.46]]"
 - "[[Gen.41.47]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.41.52]]"
 ---
 
-[[Gen.41|Genesis 41:46 - Genesis 41:52]]
+<small>[[Gen.41|Genesis 41:46-52]]</small>
 *The Seven Years of Plenty*
 
 [[Gen.41.46|46]] And Joseph \[was\] thirty years old when he stood before Pharaoh king of Egypt. And Joseph went out from the presence of Pharaoh, and went throughout all the land of Egypt.

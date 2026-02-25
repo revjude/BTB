@@ -1,10 +1,63 @@
+---
+title: Mark 6:20
+type: Verse
+kjv: "For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly."
+bsb: "because Herod feared John and protected him, knowing that he was a righteous and holy man. When he heard John’s words, he was greatly perplexed; yet he listened to him gladly."
+greek: "ὁ γὰρ Ἡρῴδης ἐφοβεῖτο τὸν Ἰωάννην εἰδὼς αὐτὸν ἄνδρα δίκαιον καὶ ἅγιον καὶ συνετήρει αὐτόν. καὶ ἀκούσας αὐτοῦ πολλὰ ἠπόρει, καὶ ἡδέως αὐτοῦ ἤκουεν.¶"
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEROD|HEROD]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2264H]]"
+- "[[G5399]]"
+- "[[G2491G]]"
+- "[[G6063]]"
+- "[[G0846]]"
+- "[[G0435G]]"
+- "[[G1342]]"
+- "[[G2532]]"
+- "[[G0040G]]"
+- "[[G4933]]"
+- "[[G0191]]"
+- "[[G4183]]"
+- "[[G0639]]"
+- "[[G2234]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 6:20**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly.
 <small><sub>**BSB:**</sub></small>
 because Herod feared John and protected him, knowing that he was a righteous and holy man. When he heard John’s words, he was greatly perplexed; yet he listened to him gladly.
-<small><sub>**Literal:**</sub></small>
-<the> for Herod was afraid of <the> John knowing him [to be] a man righteous and holy and he was keeping safe him. And when having heard him much he was perplexed and gladly him was hearing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.19|<< Mark 6:19]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.21|Mark 6:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G2264H\|Ἡρῴδης]]  [[G5399\|ἐφοβεῖτο]]  [[G3588\|τὸν]]  [[G2491G\|Ἰωάννην]]  [[G6063\|εἰδὼς]]  [[G0846\|αὐτὸν]]  [[G0435G\|ἄνδρα]]  [[G1342\|δίκαιον]]  [[G2532\|καὶ]]  [[G0040G\|ἅγιον]]  [[G2532\|καὶ]]  [[G4933\|συνετήρει]]  [[G0846\|αὐτόν.]]  [[G2532\|καὶ]]  [[G0191\|ἀκούσας]]  [[G0846\|αὐτοῦ]]  [[G4183\|πολλὰ]]  [[G0639\|ἠπόρει,]]  [[G2532\|καὶ]]  [[G2234\|ἡδέως]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἤκουεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEROD|HEROD]] • [[topic JOHN|JOHN]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic REVENGE|REVENGE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.19|<< Mark 6:19]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.21|Mark 6:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

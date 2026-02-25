@@ -1,8 +1,53 @@
+---
+title: 2 Samuel 22:20
+type: Verse
+kjv: "He brought me forth also into a large place: he delivered me, because he delighted in me."
+bsb: "He brought me out into the open; He rescued me because He delighted in me."
+hebrew: "וַיֹּצֵ֥א לַמֶּרְחָ֖ב אֹתִ֑י יְחַלְּצֵ֖נִי כִּי־ חָ֥פֵֽץ בִּֽי׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9005]]"
+- "[[H4800]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H2502A]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:20**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He brought me forth also into a large place: he delivered me, because he delighted in me.
 <small><sub>**BSB:**</sub></small>
 He brought me out into the open; He rescued me because He delighted in me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יֹּצֵ֥א]] [[H9005\|לַ]][[H4800\|מֶּרְחָ֖ב]] [[H0853\|אֹתִ֑]][[H9030\|י]] [[H2502A\|יְחַלְּצֵ֖]][[H9030\|נִי]] [[H3588A\|כִּי]][[H9014\|־]] [[H2654A\|חָ֥פֵֽץ]] [[H9003\|בִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.19|<< 2 Samuel 22:19]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.21|2 Samuel 22:21 >>]]</td></tr></table>
 

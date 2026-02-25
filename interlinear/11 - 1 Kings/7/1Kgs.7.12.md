@@ -1,8 +1,64 @@
+---
+title: 1 Kings 7:12
+type: Verse
+kjv: "And the great court round about was with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the LORD, and for the porch of the house."
+bsb: "The great courtyard was surrounded by three rows of dressed stone and a row of trimmed cedar beams, as were the inner courtyard and portico of the house of the LORD."
+hebrew: "וְחָצֵ֨ר הַגְּדוֹלָ֜ה סָבִ֗יב שְׁלֹשָׁה֙ טוּרִ֣ים גָּזִ֔ית וְט֖וּר כְּרֻתֹ֣ת אֲרָזִ֑ים וְלַחֲצַ֧ר בֵּית־ יְהוָ֛ה הַפְּנִימִ֖ית וּלְאֻלָ֥ם הַבָּֽיִת׃ פ"
+pericope: "[[1Kgs.7.1 Solomon’s Palace Complex|Solomon’s Palace Complex]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic PALACE|PALACE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2691A]]"
+- "[[H9009]]"
+- "[[H1419A]]"
+- "[[H5439G]]"
+- "[[H7969]]"
+- "[[H2905]]"
+- "[[H1496]]"
+- "[[H3773]]"
+- "[[H0730]]"
+- "[[H9005]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6442]]"
+- "[[H0197G]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 7:12**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the great court round about [was] with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the LORD, and for the porch of the house.
 <small><sub>**BSB:**</sub></small>
 The great courtyard was surrounded by three rows of dressed stone and a row of trimmed cedar beams, as were the inner courtyard and portico of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2691A\|חָצֵ֨ר]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֜ה]] [[H5439G\|סָבִ֗יב]] [[H7969\|שְׁלֹשָׁה֙]] [[H2905\|טוּרִ֣ים]] [[H1496\|גָּזִ֔ית]] [[H9002\|וְ]][[H2905\|ט֖וּר]] [[H3773\|כְּרֻתֹ֣ת]] [[H0730\|אֲרָזִ֑ים]] [[H9002\|וְ]][[H9005\|לַ]][[H2691A\|חֲצַ֧ר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9009\|הַ]][[H6442\|פְּנִימִ֖ית]] [[H9002\|וּ]][[H9005\|לְ]][[H0197G\|אֻלָ֥ם]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PALACE|PALACE]] • [[topic SOLOMON|SOLOMON]] • [[topic STONES|STONES]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.11|<< 1 Kings 7:11]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.13|1 Kings 7:13 >>]]</td></tr></table>
 
@@ -22,7 +78,7 @@ The great courtyard was surrounded by three rows of dressed stone and a row of t
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> inner  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6442\|פְּנִימִ֖ית]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.ni.Mit<small><sup>[[HAafsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to [the] porch of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0197G\|אֻלָ֥ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> 'u.Lam<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בָּֽיִת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the house  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1004B\|בָּֽיִת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.11|<< 1 Kings 7:11]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.13|1 Kings 7:13 >>]]</td></tr></table>
 
 

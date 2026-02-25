@@ -1,8 +1,58 @@
+---
+title: Isaiah 38:10
+type: Verse
+kjv: "I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years."
+bsb: "I said, “In the prime of my life I must go through the gates of Sheol and be deprived of the remainder of my years.”"
+hebrew: "אֲנִ֣י אָמַ֗רְתִּי בִּדְמִ֥י יָמַ֛י אֵלֵ֖כָה בְּשַׁעֲרֵ֣י שְׁא֑וֹל פֻּקַּ֖דְתִּי יֶ֥תֶר שְׁנוֹתָֽי׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GATES|GATES]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H0589]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H1824]]"
+- "[[H3117G]]"
+- "[[H9020]]"
+- "[[H1980G]]"
+- "[[H8179G]]"
+- "[[H7585]]"
+- "[[H6485L]]"
+- "[[H3499A]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:10**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years.
 <small><sub>**BSB:**</sub></small>
 I said, “In the prime of my life I must go through the gates of Sheol and be deprived of the remainder of my years.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֣י]] [[H0559\|אָמַ֗רְתִּי]] [[H9003\|בִּ]][[H1824\|דְמִ֥י]] [[H3117G\|יָמַ֛]][[H9020\|י]] [[H1980G\|אֵלֵ֖כָה]] [[H9003\|בְּ]][[H8179G\|שַׁעֲרֵ֣י]] [[H7585\|שְׁא֑וֹל]] [[H6485L\|פֻּקַּ֖דְתִּי]] [[H3499A\|יֶ֥תֶר]] [[H8141\|שְׁנוֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GATES|GATES]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic MURMURING|MURMURING]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.9|<< Isaiah 38:9]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.11|Isaiah 38:11 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Psalm 146:1
+type: Verse
+kjv: "Praise ye the LORD. Praise the LORD, O my soul."
+bsb: "Hallelujah! Praise the LORD, O my soul."
+hebrew: "הַֽלְלוּ־ יָ֡הּ הַלְלִ֥י נַ֝פְשִׁ֗י אֶת־ יְהוָֽה׃"
+pericope: "[[Ps.146.1 Praise the LORD, O My Soul|Praise the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 146
+book/chapter: "[[Ps.146|Psalm 146]]"
+chronological_order: 894
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HALLELUJAH|HALLELUJAH]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1984B]]"
+- "[[H9014]]"
+- "[[H3050]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 146:1**<big><big>[[Ps.146.1 Praise the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise ye the LORD. Praise the LORD, O my soul.
 <small><sub>**BSB:**</sub></small>
 Hallelujah! Praise the LORD, O my soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|הַֽלְלוּ]][[H9014\|־]] [[H3050\|יָ֡הּ]] [[H1984B\|הַלְלִ֥י]] [[H5315G\|נַ֝פְשִׁ֗]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HALLELUJAH|HALLELUJAH]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.146.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.21|<< Psalms 145:21]]</td><td align="center" style="border:none;">[[Ps.146|Psalms 146]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.146.2|Psalms 146:2 >>]]</td></tr></table>
 

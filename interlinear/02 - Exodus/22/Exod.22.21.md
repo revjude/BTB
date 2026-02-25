@@ -1,8 +1,61 @@
+---
+title: Exodus 22:21
+type: Verse
+kjv: "Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt."
+bsb: "You must not exploit or oppress a foreign resident, for you yourselves were foreigners in the land of Egypt."
+hebrew: "וְגֵ֥ר לֹא־ תוֹנֶ֖ה וְלֹ֣א תִלְחָצֶ֑נּוּ כִּֽי־ גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Exod.22.16 Laws of Social Responsibility|Laws of Social Responsibility]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+strongs:
+- "[[H9002]]"
+- "[[H1616]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3238]]"
+- "[[H3905]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:21**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 You must not exploit or oppress a foreign resident, for you yourselves were foreigners in the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1616\|גֵ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3238\|תוֹנֶ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3905\|תִלְחָצֶ֑]][[H9033\|נּוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1616\|גֵרִ֥ים]] [[H1961\|הֱיִיתֶ֖ם]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic INJUSTICE|INJUSTICE]] • [[topic OPPRESSION|OPPRESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.20|<< Exodus 22:20]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.22|Exodus 22:22 >>]]</td></tr></table>
 

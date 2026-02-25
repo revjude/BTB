@@ -1,8 +1,49 @@
+---
+title: Psalm 49:2
+type: Verse
+kjv: "Both low and high, rich and poor, together."
+bsb: "both low and high, rich and poor alike."
+hebrew: "גַּם־ בְּנֵ֣י אָ֭דָם גַּם־ בְּנֵי־ אִ֑ישׁ יַ֝֗חַד עָשִׁ֥יר וְאֶבְיֽוֹן׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H0120G]]"
+- "[[H0376G]]"
+- "[[H3162A]]"
+- "[[H6223]]"
+- "[[H9002]]"
+- "[[H0034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:2**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both low and high, rich and poor, together.
 <small><sub>**BSB:**</sub></small>
 both low and high, rich and poor alike.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H0120G\|אָ֭דָם]] [[H1571\|גַּם]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H0376G\|אִ֑ישׁ]] [[H3162A\|יַ֝֗חַד]] [[H6223\|עָשִׁ֥יר]] [[H9002\|וְ]][[H0034\|אֶבְיֽוֹן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.1|<< Psalms 49:1]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.3|Psalms 49:3 >>]]</td></tr></table>
 

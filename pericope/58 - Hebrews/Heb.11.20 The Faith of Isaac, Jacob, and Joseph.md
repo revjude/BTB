@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Faith of Isaac, Jacob, and Joseph
+type: Pericope
 pericope: "[[Heb.11.20 The Faith of Isaac, Jacob, and Joseph|The Faith of Isaac, Jacob, and Joseph]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 11
 book/chapter: "[[Heb.11|Hebrews 11]]"
-genre:
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 3
 verses:
 - "[[Heb.11.20]]"
 - "[[Heb.11.21]]"
 - "[[Heb.11.22]]"
 ---
 
-[[Heb.11|Hebrews 11:20 - Hebrews 11:22]]
+<small>[[Heb.11|Hebrews 11:20-22]]</small>
 *The Faith of Isaac, Jacob, and Joseph*
 
 [[Heb.11.20|20]] By faith Isaac blessed Jacob and Esau concerning things to come.

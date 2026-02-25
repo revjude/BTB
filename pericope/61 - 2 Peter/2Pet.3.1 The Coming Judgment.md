@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Coming Judgment
+type: Pericope
 pericope: "[[2Pet.3.1 The Coming Judgment|The Coming Judgment]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: 2 Peter
 chapter: 3
 book/chapter: "[[2Pet.3|2 Peter 3]]"
-genre:
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
 - epistle
 - general epistle
 - testament letter
 - polemical
+verse_count: 7
 verses:
 - "[[2Pet.3.1]]"
 - "[[2Pet.3.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Pet.3.7]]"
 ---
 
-[[2Pet.3|2 Peter 3:1 - 2 Peter 3:7]]
+<small>[[2Pet.3|2 Peter 3:1-7]]</small>
 *The Coming Judgment*
 
 [[2Pet.3.1|1]] This second epistle, beloved, I now write unto you; in \[both\] which I stir up your pure minds by way of remembrance:

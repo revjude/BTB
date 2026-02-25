@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 17:10
+type: Verse
+kjv: "And the Philistine said, I defy the armies of Israel this day; give me a man, that we may fight together."
+bsb: "Then the Philistine said, “I defy the ranks of Israel this day! Give me a man to fight!”"
+hebrew: "וַיֹּ֙אמֶר֙ הַפְּלִשְׁתִּ֔י אֲנִ֗י חֵרַ֛פְתִּי אֶת־ מַעַרְכ֥וֹת יִשְׂרָאֵ֖ל הַיּ֣וֹם הַזֶּ֑ה תְּנוּ־ לִ֣י אִ֔ישׁ וְנִֽלָּחֲמָ֖ה יָֽחַד׃"
+pericope: "[[1Sam.17.1 Goliath’s Challenge|Goliath’s Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H0589]]"
+- "[[H2778A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4634]]"
+- "[[H3478]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H3898A]]"
+- "[[H3162A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:10**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistine said, I defy the armies of Israel this day; give me a man, that we may fight together.
 <small><sub>**BSB:**</sub></small>
 Then the Philistine said, “I defy the ranks of Israel this day! Give me a man to fight!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֔י]] [[H0589\|אֲנִ֗י]] [[H2778A\|חֵרַ֛פְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H4634\|מַעַרְכ֥וֹת]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H5414G\|תְּנוּ]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H0376G\|אִ֔ישׁ]] [[H9002\|וְ]][[H3898A\|נִֽלָּחֲמָ֖ה]] [[H3162A\|יָֽחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.9|<< 1 Samuel 17:9]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.11|1 Samuel 17:11 >>]]</td></tr></table>
 

@@ -1,10 +1,70 @@
+---
+title: Acts 9:39
+type: Verse
+kjv: "Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them."
+bsb: "So Peter got up and went with them. On his arrival, they took him to the upper room. All the widows stood around him, weeping and showing him the tunics and other clothing that Dorcas had made while she was still with them."
+greek: "ἀναστὰς δὲ Πέτρος συνῆλθεν αὐτοῖς· ὃν παραγενόμενον ἀνήγαγον εἰς τὸ ὑπερῷον, καὶ παρέστησαν αὐτῷ πᾶσαι αἱ χῆραι κλαίουσαι καὶ ἐπιδεικνύμεναι χιτῶνας καὶ ἱμάτια ὅσα ἐποίει μετ᾽ αὐτῶν οὖσα ἡ Δορκάς."
+pericope: "[[Acts.9.36 The Raising of Tabitha|The Raising of Tabitha]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DORCAS|DORCAS]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic TABITHA|TABITHA]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0450]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G4905]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G3854]]"
+- "[[G0321]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5253]]"
+- "[[G2532]]"
+- "[[G3936]]"
+- "[[G3956]]"
+- "[[G5503]]"
+- "[[G2799]]"
+- "[[G1925]]"
+- "[[G5509]]"
+- "[[G2440]]"
+- "[[G3745]]"
+- "[[G4160G]]"
+- "[[G3326]]"
+- "[[G1510]]"
+- "[[G1393]]"
+texts:
+- NKO
+---
+
 **Acts 9:39**<big><big>[[Acts.9.36 The Raising of Tabitha|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.
 <small><sub>**BSB:**</sub></small>
 So Peter got up and went with them. On his arrival, they took him to the upper room. All the widows stood around him, weeping and showing him the tunics and other clothing that Dorcas had made while she was still with them.
-<small><sub>**Literal:**</sub></small>
-Having risen up then Peter went with them; who having arrived they brought [him] into the upper room, And stood by him all the widows weeping and showing [the] tunics and garments how much was making with them being <the> Dorcas.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.38|<< Acts 9:38]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.40|Acts 9:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0450\|ἀναστὰς]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G4905\|συνῆλθεν]]  [[G0846\|αὐτοῖς·]]  [[G3739\|ὃν]]  [[G3854\|παραγενόμενον]]  [[G0321\|ἀνήγαγον]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G5253\|ὑπερῷον,]]  [[G2532\|καὶ]]  [[G3936\|παρέστησαν]]  [[G0846\|αὐτῷ]]  [[G3956\|πᾶσαι]]  [[G3588\|αἱ]]  [[G5503\|χῆραι]]  [[G2799\|κλαίουσαι]]  [[G2532\|καὶ]]  [[G1925\|ἐπιδεικνύμεναι]]  [[G5509\|χιτῶνας]]  [[G2532\|καὶ]]  [[G2440\|ἱμάτια]]  [[G3745\|ὅσα]]  [[G4160G\|ἐποίει]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G1510\|οὖσα]]  [[G3588\|ἡ]]  [[G1393\|Δορκάς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DORCAS|DORCAS]] • [[topic DRESS|DRESS]] • [[topic JOPPA|JOPPA]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic TABITHA|TABITHA]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.38|<< Acts 9:38]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.40|Acts 9:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

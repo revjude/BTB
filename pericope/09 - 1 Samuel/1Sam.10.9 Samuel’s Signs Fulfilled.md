@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samuel’s Signs Fulfilled
+type: Pericope
 pericope: "[[1Sam.10.9 Samuel’s Signs Fulfilled|Samuel’s Signs Fulfilled]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 10
 book/chapter: "[[1Sam.10|1 Samuel 10]]"
-genre:
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[1Sam.10.9]]"
 - "[[1Sam.10.10]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Sam.10.16]]"
 ---
 
-[[1Sam.10|1 Samuel 10:9 - 1 Samuel 10:16]]
+<small>[[1Sam.10|1 Samuel 10:9-16]]</small>
 *Samuel’s Signs Fulfilled*
 
 [[1Sam.10.9|9]] And it was \[so\], that when he had turned his back to go from Samuel, God gave him another heart: and all those signs came to pass that day.

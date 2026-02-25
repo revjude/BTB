@@ -1,10 +1,65 @@
+---
+title: Matthew 20:28
+type: Verse
+kjv: "Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."
+bsb: "just as the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”"
+jesus_said: "Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many."
+greek: "ὥσπερ ὁ υἱὸς τοῦ ἀνθρώπου οὐκ ἦλθεν διακονηθῆναι ἀλλὰ διακονῆσαι καὶ δοῦναι τὴν ψυχὴν αὐτοῦ λύτρον ἀντὶ πολλῶν.¶"
+pericope: "[[Matt.20.20 A Mother’s Request|A Mother’s Request]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RANSOM|RANSOM]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+strongs:
+- "[[G5618]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3756]]"
+- "[[G2064]]"
+- "[[G1247]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G5590H]]"
+- "[[G0846]]"
+- "[[G3083]]"
+- "[[G0473]]"
+- "[[G4183]]"
+texts:
+- NKO
+---
+
 **Matthew 20:28**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even as the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
 <small><sub>**BSB:**</sub></small>
 just as the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”
-<small><sub>**Literal:**</sub></small>
-even as the Son <the> of Man not came to be served but to serve and to give the life of Him [as] a ransom for many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.27|<< Matthew 20:27]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.29|Matthew 20:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5618\|ὥσπερ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3756\|οὐκ]]  [[G2064\|ἦλθεν]]  [[G1247\|διακονηθῆναι]]  [[G0235\|ἀλλὰ]]  [[G1247\|διακονῆσαι]]  [[G2532\|καὶ]]  [[G1325\|δοῦναι]]  [[G3588\|τὴν]]  [[G5590H\|ψυχὴν]]  [[G0846\|αὐτοῦ]]  [[G3083\|λύτρον]]  [[G0473\|ἀντὶ]]  [[G4183\|πολλῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MAN|MAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RANSOM|RANSOM]] • [[topic REDEMPTION|REDEMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.27|<< Matthew 20:27]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.29|Matthew 20:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

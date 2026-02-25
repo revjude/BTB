@@ -1,8 +1,47 @@
+---
+title: Joshua 1:10
+type: Verse
+kjv: "Then Joshua commanded the officers of the people, saying,"
+bsb: "Then Joshua commanded the officers of the people:"
+hebrew: "וַיְצַ֣ו יְהוֹשֻׁ֔עַ אֶת־ שֹׁטְרֵ֥י הָעָ֖ם לֵאמֹֽר׃"
+pericope: "[[Josh.1.10 Joshua Takes Charge|Joshua Takes Charge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7860]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:10**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joshua commanded the officers of the people, saying,
 <small><sub>**BSB:**</sub></small>
 Then Joshua commanded the officers of the people:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H7860\|שֹׁטְרֵ֥י]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.9|<< Joshua 1:9]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.11|Joshua 1:11 >>]]</td></tr></table>
 

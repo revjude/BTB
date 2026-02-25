@@ -1,10 +1,47 @@
+---
+title: James 5:6
+type: Verse
+kjv: "Ye have condemned and killed the just; and he doth not resist you."
+bsb: "You have condemned and murdered the righteous, who did not resist you."
+greek: "κατεδικάσατε, ἐφονεύσατε τὸν δίκαιον· οὐκ ἀντιτάσσεται ὑμῖν.¶"
+pericope: "[[Jas.5.1 A Warning to the Rich|A Warning to the Rich]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G2613]]"
+- "[[G5407]]"
+- "[[G3588]]"
+- "[[G1342]]"
+- "[[G3756]]"
+- "[[G0498]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **James 5:6**<big><big>[[Jas.5.1 A Warning to the Rich|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye have condemned [and] killed the just; [and] he doth not resist you.
 <small><sub>**BSB:**</sub></small>
 You have condemned and murdered the righteous, who did not resist you.
-<small><sub>**Literal:**</sub></small>
-You have condemned [and] have put to death the righteous; not does he resist you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.5|<< James 5:5]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.7|James 5:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2613\|κατεδικάσατε,]]  [[G5407\|ἐφονεύσατε]]  [[G3588\|τὸν]]  [[G1342\|δίκαιον·]]  [[G3756\|οὐκ]]  [[G0498\|ἀντιτάσσεται]]  [[G4771\|ὑμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.5|<< James 5:5]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.7|James 5:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

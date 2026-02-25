@@ -1,10 +1,57 @@
+---
+title: Matthew 15:11
+type: Verse
+kjv: "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man."
+bsb: "A man is not defiled by what enters his mouth, but by what comes out of it.”"
+jesus_said: "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man."
+greek: "οὐ τὸ εἰσερχόμενον εἰς τὸ στόμα κοινοῖ τὸν ἄνθρωπον, ἀλλὰ τὸ ἐκπορευόμενον ἐκ τοῦ στόματος, τοῦτο κοινοῖ τὸν ἄνθρωπον.¶"
+pericope: "[[Matt.15.10 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G4750]]"
+- "[[G2840]]"
+- "[[G0444]]"
+- "[[G0235]]"
+- "[[G1607]]"
+- "[[G1537]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Matthew 15:11**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man.
 <small><sub>**BSB:**</sub></small>
 A man is not defiled by what enters his mouth, but by what comes out of it.”
-<small><sub>**Literal:**</sub></small>
-Not what is entering into the mouth defiles the man, but that going forth out of the mouth, this defiles the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.10|<< Matthew 15:10]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.12|Matthew 15:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G3588\|τὸ]]  [[G1525\|εἰσερχόμενον]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4750\|στόμα]]  [[G2840\|κοινοῖ]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον,]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸ]]  [[G1607\|ἐκπορευόμενον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος,]]  [[G3778\|τοῦτο]]  [[G2840\|κοινοῖ]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIN|SIN]] • [[topic TEACHERS|TEACHERS]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.10|<< Matthew 15:10]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.12|Matthew 15:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

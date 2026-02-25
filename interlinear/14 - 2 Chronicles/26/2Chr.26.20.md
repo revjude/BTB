@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 26:20
+type: Verse
+kjv: "And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him."
+bsb: "When Azariah the chief priest and all the priests turned to him and saw his leprous forehead, they rushed him out. Indeed, he himself hurried to get out, because the LORD had afflicted him."
+hebrew: "וַיִּ֣פֶן אֵלָ֡יו עֲזַרְיָהוּ֩ כֹהֵ֨ן הָרֹ֜אשׁ וְכָל־ הַכֹּהֲנִ֗ים וְהִנֵּה־ ה֤וּא מְצֹרָע֙ בְּמִצְח֔וֹ וַיַּבְהִל֖וּהוּ מִשָּׁ֑ם וְגַם־ הוּא֙ נִדְחַ֣ף לָצֵ֔את כִּ֥י נִגְּע֖וֹ יְהוָֽה׃"
+pericope: "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5838N]]"
+- "[[H3548]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H1931]]"
+- "[[H6879]]"
+- "[[H9003]]"
+- "[[H4696]]"
+- "[[H9023]]"
+- "[[H0926]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H1571]]"
+- "[[H1765]]"
+- "[[H9005]]"
+- "[[H3318G]]"
+- "[[H3588A]]"
+- "[[H5060]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 26:20**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Azariah the chief priest, and all the priests, looked upon him, and, behold, he [was] leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him.
 <small><sub>**BSB:**</sub></small>
 When Azariah the chief priest and all the priests turned to him and saw his leprous forehead, they rushed him out. Indeed, he himself hurried to get out, because the LORD had afflicted him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּ֣פֶן]] [[H0413\|אֵלָ֡י]][[H9033\|ו]] [[H5838N\|עֲזַרְיָהוּ֩]] [[H3548\|כֹהֵ֨ן]] [[H9009\|הָ]][[H7218H\|רֹ֜אשׁ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֗ים]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H1931\|ה֤וּא]] [[H6879\|מְצֹרָע֙]] [[H9003\|בְּ]][[H4696\|מִצְח֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H0926\|יַּבְהִל֖וּ]][[H9033\|הוּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֑ם]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1931\|הוּא֙]] [[H1765\|נִדְחַ֣ף]] [[H9005\|לָ]][[H3318G\|צֵ֔את]] [[H3588A\|כִּ֥י]] [[H5060\|נִגְּע֖]][[H9033\|וֹ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic DISEASE|DISEASE]] • [[topic INCENSE|INCENSE]] • [[topic LEPROSY|LEPROSY]] • [[topic SACRILEGE|SACRILEGE]] • [[topic USURPATION|USURPATION]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.19|<< 2 Chronicles 26:19]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.21|2 Chronicles 26:21 >>]]</td></tr></table>
 

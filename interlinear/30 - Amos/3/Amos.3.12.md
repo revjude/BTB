@@ -1,8 +1,71 @@
+---
+title: Amos 3:12
+type: Verse
+kjv: "Thus saith the LORD; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch."
+bsb: "This is what the LORD says: “As the shepherd snatches from the mouth of the lion two legs or a piece of an ear, so the Israelites dwelling in Samaria will be rescued having just the corner of a bed or the cushion of a couch."
+hebrew: "כֹּה֮ אָמַ֣ר יְהוָה֒ כַּאֲשֶׁר֩ יַצִּ֨יל הָרֹעֶ֜ה מִפִּ֧י הָאֲרִ֛י שְׁתֵּ֥י כְרָעַ֖יִם א֣וֹ בְדַל־ אֹ֑זֶן כֵּ֣ן יִנָּצְל֞וּ בְּנֵ֣י יִשְׂרָאֵ֗ל הַיֹּֽשְׁבִים֙ בְּשֹׁ֣מְר֔וֹן בִּפְאַ֥ת מִטָּ֖ה וּבִדְמֶ֥שֶׁק עָֽרֶשׂ׃"
+pericope: "[[Amos.3.1 Witnesses against Israel|Witnesses against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 3
+book/chapter: "[[Amos.3|Amos 3]]"
+chronological_order: 600
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5337]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H0738A]]"
+- "[[H8147]]"
+- "[[H3767]]"
+- "[[H0176A]]"
+- "[[H0915]]"
+- "[[H9014]]"
+- "[[H0241G]]"
+- "[[H3651C]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8111]]"
+- "[[H6285]]"
+- "[[H4296]]"
+- "[[H9002]]"
+- "[[H1833]]"
+- "[[H6210]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 3:12**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus [in] a couch.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “As the shepherd snatches from the mouth of the lion two legs or a piece of an ear, so the Israelites dwelling in Samaria will be rescued having just the corner of a bed or the cushion of a couch.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה֮]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָה֒]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H5337\|יַצִּ֨יל]] [[H9009\|הָ]][[H7462B\|רֹעֶ֜ה]] [[H9006\|מִ]][[H6310G\|פִּ֧י]] [[H9009\|הָ]][[H0738A\|אֲרִ֛י]] [[H8147\|שְׁתֵּ֥י]] [[H3767\|כְרָעַ֖יִם]] [[H0176A\|א֣וֹ]] [[H0915\|בְדַל]][[H9014\|־]] [[H0241G\|אֹ֑זֶן]] [[H3651C\|כֵּ֣ן]] [[H5337\|יִנָּצְל֞וּ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9009\|הַ]][[H3427\|יֹּֽשְׁבִים֙]] [[H9003\|בְּ]][[H8111\|שֹׁ֣מְר֔וֹן]] [[H9003\|בִּ]][[H6285\|פְאַ֥ת]] [[H4296\|מִטָּ֖ה]] [[H9002\|וּ]][[H9003\|בִ]][[H1833\|דְמֶ֥שֶׁק]] [[H6210\|עָֽרֶשׂ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMASCUS|DAMASCUS]] • [[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.11|<< Amos 3:11]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.13|Amos 3:13 >>]]</td></tr></table>
 

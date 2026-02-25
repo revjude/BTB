@@ -1,8 +1,52 @@
+---
+title: 1 Samuel 6:1
+type: Verse
+kjv: "And the ark of the LORD was in the country of the Philistines seven months."
+bsb: "When the ark of the LORD had been in the land of the Philistines seven months,"
+hebrew: "וַיְהִ֧י אֲרוֹן־ יְהוָ֛ה בִּשְׂדֵ֥ה פְלִשְׁתִּ֖ים שִׁבְעָ֥ה חֳדָשִֽׁים׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0727]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H6430G]]"
+- "[[H7651]]"
+- "[[H2320G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 6:1**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ark of the LORD was in the country of the Philistines seven months.
 <small><sub>**BSB:**</sub></small>
 When the ark of the LORD had been in the land of the Philistines seven months,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֧י]] [[H0727\|אֲרוֹן]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֥ה]] [[H6430G\|פְלִשְׁתִּ֖ים]] [[H7651\|שִׁבְעָ֥ה]] [[H2320G\|חֳדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.12|<< 1 Samuel 5:12]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.2|1 Samuel 6:2 >>]]</td></tr></table>
 

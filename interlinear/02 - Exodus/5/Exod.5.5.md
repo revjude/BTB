@@ -1,8 +1,58 @@
+---
+title: Exodus 5:5
+type: Verse
+kjv: "And Pharaoh said, Behold, the people of the land now are many, and ye make them rest from their burdens."
+bsb: "Pharaoh also said, “Look, the people of the land are now numerous, and you would be stopping them from their labor.”"
+hebrew: "וַיֹּ֣אמֶר פַּרְעֹ֔ה הֵן־ רַבִּ֥ים עַתָּ֖ה עַ֣ם הָאָ֑רֶץ וְהִשְׁבַּתֶּ֥ם אֹתָ֖ם מִסִּבְלֹתָֽם׃"
+pericope: "[[Exod.5.1 Pharaoh’s First Refusal|Pharaoh’s First Refusal]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6547J]]"
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H7227A]]"
+- "[[H6258]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7673A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H5450]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:5**<big><big>[[Exod.5.1 Pharaoh’s First Refusal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh said, Behold, the people of the land now [are] many, and ye make them rest from their burdens.
 <small><sub>**BSB:**</sub></small>
 Pharaoh also said, “Look, the people of the land are now numerous, and you would be stopping them from their labor.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H6547J\|פַּרְעֹ֔ה]] [[H2005\|הֵן]][[H9014\|־]] [[H7227A\|רַבִּ֥ים]] [[H6258\|עַתָּ֖ה]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּתֶּ֥ם]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9006\|מִ]][[H5450\|סִּבְלֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.4|<< Exodus 5:4]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.6|Exodus 5:6 >>]]</td></tr></table>
 

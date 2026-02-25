@@ -1,8 +1,71 @@
+---
+title: 2 Kings 5:23
+type: Verse
+kjv: "And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid them upon two of his servants; and they bare them before him."
+bsb: "But Naaman insisted, “Please, take two talents.” And he urged Gehazi to accept them. Then he tied up two talents of silver in two bags along with two sets of clothing and gave them to two of his servants, who carried them ahead of Gehazi."
+hebrew: "וַיֹּ֣אמֶר נַעֲמָ֔ן הוֹאֵ֖ל קַ֣ח כִּכָּרָ֑יִם וַיִּפְרָץ־ בּ֗וֹ וַיָּצַר֩ כִּכְּרַ֨יִם כֶּ֜סֶף בִּשְׁנֵ֣י חֲרִטִ֗ים וּשְׁתֵּי֙ חֲלִפ֣וֹת בְּגָדִ֔ים וַיִּתֵּן֙ אֶל־ שְׁנֵ֣י נְעָרָ֔יו וַיִּשְׂא֖וּ לְפָנָֽיו׃"
+pericope: "[[2Kgs.5.15 Gehazi’s Greed and Leprosy|Gehazi’s Greed and Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GEHAZI|GEHAZI]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5283I]]"
+- "[[H2974]]"
+- "[[H3947H]]"
+- "[[H3603H]]"
+- "[[H6555]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H6696A]]"
+- "[[H3701G]]"
+- "[[H8147]]"
+- "[[H2754]]"
+- "[[H9002]]"
+- "[[H2487]]"
+- "[[H0899B]]"
+- "[[H5414H]]"
+- "[[H0413]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H5375H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:23**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid [them] upon two of his servants; and they bare [them] before him.
 <small><sub>**BSB:**</sub></small>
 But Naaman insisted, “Please, take two talents.” And he urged Gehazi to accept them. Then he tied up two talents of silver in two bags along with two sets of clothing and gave them to two of his servants, who carried them ahead of Gehazi.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H5283I\|נַעֲמָ֔ן]] [[H2974\|הוֹאֵ֖ל]] [[H3947H\|קַ֣ח]] [[H3603H\|כִּכָּרָ֑יִם]] [[H9001\|וַ]][[H6555\|יִּפְרָץ]][[H9014\|־]] [[H9003\|בּ֗]][[H9033\|וֹ]] [[H9001\|וַ]][[H6696A\|יָּצַר֩]] [[H3603H\|כִּכְּרַ֨יִם]] [[H3701G\|כֶּ֜סֶף]] [[H9003\|בִּ]][[H8147\|שְׁנֵ֣י]] [[H2754\|חֲרִטִ֗ים]] [[H9002\|וּ]][[H8147\|שְׁתֵּי֙]] [[H2487\|חֲלִפ֣וֹת]] [[H0899B\|בְּגָדִ֔ים]] [[H9001\|וַ]][[H5414H\|יִּתֵּן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8147\|שְׁנֵ֣י]] [[H5288\|נְעָרָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H5375H\|יִּשְׂא֖וּ]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GEHAZI|GEHAZI]] • [[topic JORAM|JORAM]] • [[topic NAAMAN|NAAMAN]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.22|<< 2 Kings 5:22]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.24|2 Kings 5:24 >>]]</td></tr></table>
 

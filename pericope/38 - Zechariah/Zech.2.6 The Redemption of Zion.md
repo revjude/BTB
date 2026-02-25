@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Redemption of Zion
+type: Pericope
 pericope: "[[Zech.2.6 The Redemption of Zion|The Redemption of Zion]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 2
 book/chapter: "[[Zech.2|Zechariah 2]]"
-genre:
+chronological_order: 858
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 8
 verses:
 - "[[Zech.2.6]]"
 - "[[Zech.2.7]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Zech.2.13]]"
 ---
 
-[[Zech.2|Zechariah 2:6 - Zechariah 2:13]]
+<small>[[Zech.2|Zechariah 2:6-13]]</small>
 *The Redemption of Zion*
 
 [[Zech.2.6|6]] Ho, ho, \[come forth\], and flee from the land of the north, saith the LORD: for I have spread you abroad as the four winds of the heaven, saith the LORD.

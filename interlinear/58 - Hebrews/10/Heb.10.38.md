@@ -1,10 +1,58 @@
+---
+title: Hebrews 10:38
+type: Verse
+kjv: "Now the just shall live by faith: but if any man draw back, my soul shall have no pleasure in him."
+bsb: "But My righteous one will live by faith; and if he shrinks back, I will take no pleasure in him.”"
+greek: "ὁ δὲ δίκαιός μου ἐκ πίστεως ζήσεται· καὶ ἐὰν ὑποστείληται, οὐκ εὐδοκεῖ ἡ ψυχή μου ἐν αὐτῷ."
+pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1342]]"
+- "[[G3165]]"
+- "[[G1537]]"
+- "[[G4102G]]"
+- "[[G2198]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G5288]]"
+- "[[G3756]]"
+- "[[G2106]]"
+- "[[G5590I]]"
+- "[[G1722]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NO
+---
+
 **Hebrews 10:38**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the just shall live by faith: but if [any man] draw back, my soul shall have no pleasure in him.
 <small><sub>**BSB:**</sub></small>
 But My righteous one will live by faith; and if he shrinks back, I will take no pleasure in him.”
-<small><sub>**Literal:**</sub></small>
-The one however righteous of Mine by faith will live; and if he shall shrink back, not takes pleasure the soul of Mine in him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.37|<< Hebrews 10:37]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.39|Hebrews 10:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1342\|δίκαιός]]  [[G3165\|μου]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως]]  [[G2198\|ζήσεται·]]  [[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G5288\|ὑποστείληται,]]  [[G3756\|οὐκ]]  [[G2106\|εὐδοκεῖ]]  [[G3588\|ἡ]]  [[G5590I\|ψυχή]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FAITH|FAITH]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.37|<< Hebrews 10:37]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.39|Hebrews 10:39 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 10:38** is...
 > $\quad$ referencing: [[LXX.Hab.2.3|Hab 2:3-4]]

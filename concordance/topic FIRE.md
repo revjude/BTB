@@ -23,11 +23,11 @@
 
 → Consumes the conspirators with Korah, Dathan, and Abiram [[Num.16.35|Nu 16:35]]
 
-→ The captains of fifties [[2Kgs.1.9|2Ki 1:9]]-[[2Kgs.1.12|12]]
+→ The captains of fifties [[2Kgs.1.9|2Ki 1:9-12]]
 
 → Torture by [[Lev.21.9|Le 21:9]]; [[Jer.29.22|Jer 29:22]]; [[Ezek.23.25|Eze 23:25]],[[Ezek.23.47|47]]; [[Dan.3|Da 3]]
 
-→ Pillar of fire [[Exod.13.21|Ex 13:21]],[[Exod.13.22|22]]; [[Exod.14.19|14:19]],[[Exod.14.24|24]]; [[Exod.40.38|40:38]]; [[Num.9.15|Nu 9:15]]-[[Num.9.23|23]]
+→ Pillar of fire [[Exod.13.21|Ex 13:21]],[[Exod.13.22|22]]; [[Exod.14.19|14:19]],[[Exod.14.24|24]]; [[Exod.40.38|40:38]]; [[Num.9.15|Nu 9:15-23]]
 
 → See [[topic CLOUD|CLOUD, PILLAR OF]]
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The War in Heaven
+type: Pericope
 pericope: "[[Rev.12.7 The War in Heaven|The War in Heaven]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 12
 book/chapter: "[[Rev.12|Revelation 12]]"
-genre:
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 6
 verses:
 - "[[Rev.12.7]]"
 - "[[Rev.12.8]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rev.12.12]]"
 ---
 
-[[Rev.12|Revelation 12:7 - Revelation 12:12]]
+<small>[[Rev.12|Revelation 12:7-12]]</small>
 *The War in Heaven*
 
 [[Rev.12.7|7]] And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,

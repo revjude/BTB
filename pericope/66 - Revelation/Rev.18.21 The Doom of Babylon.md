@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Doom of Babylon
+type: Pericope
 pericope: "[[Rev.18.21 The Doom of Babylon|The Doom of Babylon]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 18
 book/chapter: "[[Rev.18|Revelation 18]]"
-genre:
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 4
 verses:
 - "[[Rev.18.21]]"
 - "[[Rev.18.22]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rev.18.24]]"
 ---
 
-[[Rev.18|Revelation 18:21 - Revelation 18:24]]
+<small>[[Rev.18|Revelation 18:21-24]]</small>
 *The Doom of Babylon*
 
 [[Rev.18.21|21]] And a mighty angel took up a stone like a great millstone, and cast \[it\] into the sea, saying, Thus with violence shall that great city Babylon be thrown down, and shall be found no more at all.

@@ -1,8 +1,69 @@
+---
+title: Judges 8:18
+type: Verse
+kjv: "Then said he unto Zebah and Zalmunna, What manner of men were they whom ye slew at Tabor? And they answered, As thou art, so were they; each one resembled the children of a king."
+bsb: "Next, Gideon asked Zebah and Zalmunna, “What kind of men did you kill at Tabor?” “Men like you,” they answered, “each one resembling the son of a king.”"
+hebrew: "וַיֹּ֗אמֶר אֶל־ זֶ֙בַח֙ וְאֶל־ צַלְמֻנָּ֔ע אֵיפֹה֙ הָאֲנָשִׁ֔ים אֲשֶׁ֥ר הֲרַגְתֶּ֖ם בְּתָב֑וֹר וַֽיֹּאמרוּ֙ כָּמ֣וֹךָ כְמוֹהֶ֔ם אֶחָ֕ד כְּתֹ֖אַר בְּנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic TABOR|TABOR]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2078]]"
+- "[[H9002]]"
+- "[[H6759]]"
+- "[[H0375]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H2026]]"
+- "[[H9003]]"
+- "[[H8396G]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9038]]"
+- "[[H0259]]"
+- "[[H9004]]"
+- "[[H8389]]"
+- "[[H1121A]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 8:18**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto Zebah and Zalmunna, What manner of men [were they] whom ye slew at Tabor? And they answered, As thou [art], so [were] they; each one resembled the children of a king.
 <small><sub>**BSB:**</sub></small>
 Next, Gideon asked Zebah and Zalmunna, “What kind of men did you kill at Tabor?” “Men like you,” they answered, “each one resembling the son of a king.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H2078\|זֶ֙בַח֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H6759\|צַלְמֻנָּ֔ע]] [[H0375\|אֵיפֹה֙]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H2026\|הֲרַגְתֶּ֖ם]] [[H9003\|בְּ]][[H8396G\|תָב֑וֹר]] [[H9001\|וַֽ]][[H0559\|יֹּאמרוּ֙]] [[H3644G\|כָּמ֣וֹ]][[H9031\|ךָ]] [[H3644G\|כְמוֹ]][[H9038\|הֶ֔ם]] [[H0259\|אֶחָ֕ד]] [[H9004\|כְּ]][[H8389\|תֹ֖אַר]] [[H1121A\|בְּנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic RETALIATION|RETALIATION]] • [[topic TABOR|TABOR]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.17|<< Judges 8:17]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.19|Judges 8:19 >>]]</td></tr></table>
 

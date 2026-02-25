@@ -1,10 +1,54 @@
+---
+title: Hebrews 6:9
+type: Verse
+kjv: "But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak."
+bsb: "Even though we speak like this, beloved, we are convinced of better things in your case—things that accompany salvation."
+greek: "Πεπείσμεθα δὲ περὶ ὑμῶν, ἀγαπητοί, τὰ κρείσσονα καὶ ἐχόμενα σωτηρίας, εἰ καὶ οὕτως λαλοῦμεν."
+pericope: "[[Heb.6.1 A Call to Maturity|A Call to Maturity]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3982]]"
+- "[[G1161]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G0027]]"
+- "[[G3588]]"
+- "[[G2908]]"
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G4991]]"
+- "[[G1487M]]"
+- "[[G3779]]"
+- "[[G2980]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:9**<big><big>[[Heb.6.1 A Call to Maturity|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.
 <small><sub>**BSB:**</sub></small>
 Even though we speak like this, beloved, we are convinced of better things in your case—things that accompany salvation.
-<small><sub>**Literal:**</sub></small>
-We have been persuaded however concerning you, beloved, [of] <the> [things] better and [things] accompanying salvation, if even like this we speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.8|<< Hebrews 6:8]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.10|Hebrews 6:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3982\|Πεπείσμεθα]]  [[G1161\|δὲ]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν,]]  [[G0027\|ἀγαπητοί,]]  [[G3588\|τὰ]]  [[G2908\|κρείσσονα]]  [[G2532\|καὶ]]  [[G2192\|ἐχόμενα]]  [[G4991\|σωτηρίας,]]  [[G1487M\|εἰ]]  [[G2532\|καὶ]]  [[G3779\|οὕτως]]  [[G2980\|λαλοῦμεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.8|<< Hebrews 6:8]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.10|Hebrews 6:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

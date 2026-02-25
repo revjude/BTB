@@ -1,8 +1,55 @@
+---
+title: Zechariah 6:7
+type: Verse
+kjv: "And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth."
+bsb: "As the strong horses went out, they were eager to go and patrol the earth; and the LORD said, “Go and patrol the earth.” So they patrolled the earth."
+hebrew: "וְהָאֲמֻצִּ֣ים יָצְא֗וּ וַיְבַקְשׁוּ֙ לָלֶ֙כֶת֙ לְהִתְהַלֵּ֣ך בָּאָ֔רֶץ וַיֹּ֕אמֶר לְכ֖וּ הִתְהַלְּכ֣וּ בָאָ֑רֶץ וַתִּתְהַלַּ֖כְנָה בָּאָֽרֶץ׃"
+pericope: "[[Zech.6.1 The Vision of the Four Chariots|The Vision of the Four Chariots]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 6
+book/chapter: "[[Zech.6|Zechariah 6]]"
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0554]]"
+- "[[H3318G]]"
+- "[[H9001]]"
+- "[[H1245]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 6:7**<big><big>[[Zech.6.1 The Vision of the Four Chariots|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.
 <small><sub>**BSB:**</sub></small>
 As the strong horses went out, they were eager to go and patrol the earth; and the LORD said, “Go and patrol the earth.” So they patrolled the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0554\|אֲמֻצִּ֣ים]] [[H3318G\|יָצְא֗וּ]] [[H9001\|וַ]][[H1245\|יְבַקְשׁוּ֙]] [[H9005\|לָ]][[H1980G\|לֶ֙כֶת֙]] [[H9005\|לְ]][[H1980I\|הִתְהַלֵּ֣ך]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H1980G\|לְכ֖וּ]] [[H1980I\|הִתְהַלְּכ֣וּ]] [[H9003\|בָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H1980I\|תִּתְהַלַּ֖כְנָה]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.6|<< Zechariah 6:6]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.8|Zechariah 6:8 >>]]</td></tr></table>
 

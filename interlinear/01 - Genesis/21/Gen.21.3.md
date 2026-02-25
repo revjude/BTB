@@ -1,8 +1,62 @@
+---
+title: Genesis 21:3
+type: Verse
+kjv: "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac."
+bsb: "And Abraham gave the name Isaac to the son Sarah bore to him."
+hebrew: "וַיִּקְרָ֨א אַבְרָהָ֜ם אֶֽת־ שֶׁם־ בְּנ֧וֹ הַנּֽוֹלַד־ ל֛וֹ אֲשֶׁר־ יָלְדָה־ לּ֥וֹ שָׂרָ֖ה יִצְחָֽק׃"
+pericope: "[[Gen.21.1 The Birth of Isaac|The Birth of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0085]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0834A]]"
+- "[[H8283]]"
+- "[[H3327]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:3**<big><big>[[Gen.21.1 The Birth of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac.
 <small><sub>**BSB:**</sub></small>
 And Abraham gave the name Isaac to the son Sarah bore to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֨א]] [[H0085\|אַבְרָהָ֜ם]] [[H0853\|אֶֽת]][[H9014\|־]] [[H8034\|שֶׁם]][[H9014\|־]] [[H1121A\|בְּנ֧]][[H9023\|וֹ]] [[H9009\|הַ]][[H3205\|נּֽוֹלַד]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3205\|יָלְדָה]][[H9014\|־]] [[H9005\|לּ֥]][[H9033\|וֹ]] [[H8283\|שָׂרָ֖ה]] [[H3327\|יִצְחָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic ISAAC|ISAAC]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.2|<< Genesis 21:2]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.4|Genesis 21:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 4:29
+type: Verse
+kjv: "The whole city shall flee for the noise of the horsemen and bowmen; they shall go into thickets, and climb up upon the rocks: every city shall be forsaken, and not a man dwell therein."
+bsb: "Every city flees at the sound of the horseman and archer. They enter the thickets and climb among the rocks. Every city is abandoned; no inhabitant is left."
+hebrew: "מִקּ֨וֹל פָּרָ֜שׁ וְרֹ֣מֵה קֶ֗שֶׁת בֹּרַ֙חַת֙ כָּל־ הָעִ֔יר בָּ֚אוּ בֶּעָבִ֔ים וּבַכֵּפִ֖ים עָל֑וּ כָּל־ הָעִ֣יר עֲזוּבָ֔ה וְאֵין־ יוֹשֵׁ֥ב בָּהֵ֖ן אִֽישׁ׃"
+pericope: "[[Jer.4.19 Lamentation for Judah|Lamentation for Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H6571B]]"
+- "[[H9002]]"
+- "[[H7411A]]"
+- "[[H7198]]"
+- "[[H1272]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H5645]]"
+- "[[H3710]]"
+- "[[H5927G]]"
+- "[[H5800A]]"
+- "[[H0369]]"
+- "[[H3427]]"
+- "[[H9039]]"
+- "[[H0376I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:29**<big><big>[[Jer.4.19 Lamentation for Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The whole city shall flee for the noise of the horsemen and bowmen; they shall go into thickets, and climb up upon the rocks: every city [shall be] forsaken, and not a man dwell therein.
 <small><sub>**BSB:**</sub></small>
 Every city flees at the sound of the horseman and archer. They enter the thickets and climb among the rocks. Every city is abandoned; no inhabitant is left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6963H\|קּ֨וֹל]] [[H6571B\|פָּרָ֜שׁ]] [[H9002\|וְ]][[H7411A\|רֹ֣מֵה]] [[H7198\|קֶ֗שֶׁת]] [[H1272\|בֹּרַ֙חַת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H0935G\|בָּ֚אוּ]] [[H9003\|בֶּ]][[H5645\|עָבִ֔ים]] [[H9002\|וּ]][[H9003\|בַ]][[H3710\|כֵּפִ֖ים]] [[H5927G\|עָל֑וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H5800A\|עֲזוּבָ֔ה]] [[H9002\|וְ]][[H0369\|אֵין]][[H9014\|־]] [[H3427\|יוֹשֵׁ֥ב]] [[H9003\|בָּ]][[H9039\|הֵ֖ן]] [[H0376I\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic CAVALRY|CAVALRY]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.28|<< Jeremiah 4:28]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.30|Jeremiah 4:30 >>]]</td></tr></table>
 

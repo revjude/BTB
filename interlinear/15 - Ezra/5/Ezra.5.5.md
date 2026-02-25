@@ -1,8 +1,66 @@
+---
+title: Ezra 5:5
+type: Verse
+kjv: "But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter."
+bsb: "But the eye of their God was on the elders of the Jews, so that they were not stopped until a report was sent to Darius and written instructions about this matter were returned."
+aramaic: "וְעֵ֣ין אֱלָהֲהֹ֗ם הֲוָת֙ עַל־ שָׂבֵ֣י יְהוּדָיֵ֔א וְלָא־ בַטִּ֣לוּ הִמּ֔וֹ עַד־ טַעְמָ֖א לְדָרְיָ֣וֶשׁ יְהָ֑ךְ וֶאֱדַ֛יִן יְתִיב֥וּן נִשְׁתְּוָנָ֖א עַל־ דְּנָֽה׃ פ"
+pericope: "[[Ezra.5.1 Temple Rebuilding Resumes|Temple Rebuilding Resumes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 5
+book/chapter: "[[Ezra.5|Ezra 5]]"
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5870]]"
+- "[[H0426]]"
+- "[[H9028]]"
+- "[[H1934]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H7868]]"
+- "[[H3062]]"
+- "[[H9010]]"
+- "[[H3809]]"
+- "[[H0989]]"
+- "[[H1994]]"
+- "[[H5705]]"
+- "[[H2941]]"
+- "[[H9005]]"
+- "[[H1868G]]"
+- "[[H1946]]"
+- "[[H0116]]"
+- "[[H8421I]]"
+- "[[H5407]]"
+- "[[H1836]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 5:5**<big><big>[[Ezra.5.1 Temple Rebuilding Resumes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this [matter].
 <small><sub>**BSB:**</sub></small>
 But the eye of their God was on the elders of the Jews, so that they were not stopped until a report was sent to Darius and written instructions about this matter were returned.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H5870\|עֵ֣ין]] [[H0426\|אֱלָהֲ]][[H9028\|הֹ֗ם]] [[H1934\|הֲוָת֙]] [[H5922\|עַל]][[H9014\|־]] [[H7868\|שָׂבֵ֣י]] [[H3062\|יְהוּדָיֵ֔]][[H9010\|א]] [[H9002\|וְ]][[H3809\|לָא]][[H9014\|־]] [[H0989\|בַטִּ֣לוּ]] [[H1994\|הִמּ֔וֹ]] [[H5705\|עַד]][[H9014\|־]] [[H2941\|טַעְמָ֖]][[H9010\|א]] [[H9005\|לְ]][[H1868G\|דָרְיָ֣וֶשׁ]] [[H1946\|יְהָ֑ךְ]] [[H9002\|וֶ]][[H0116\|אֱדַ֛יִן]] [[H8421I\|יְתִיב֥וּן]] [[H5407\|נִשְׁתְּוָנָ֖]][[H9010\|א]] [[H5922\|עַל]][[H9014\|־]] [[H1836\|דְּנָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.4|<< Ezra 5:4]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.6|Ezra 5:6 >>]]</td></tr></table>
 
@@ -25,7 +83,7 @@ But the eye of their God was on the elders of the Jews, so that they were not st
 | they will send back  |**<big>&#8207;[[H8421I\|יְתִיב֥וּן]]&#8207; </big>**| ye.ti.Vun<small><sup>[[AVhi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | letter the  |**<big>&#8207;[[H5407\|נִשְׁתְּוָנָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| nish.te.va.Na<small><sup>[[ANcbsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | concerning  |**<big>&#8207;[[H5922\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  |**<big>&#8207;[[H1836\|דְּנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H1836\|דְּנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.4|<< Ezra 5:4]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.6|Ezra 5:6 >>]]</td></tr></table>
 
 

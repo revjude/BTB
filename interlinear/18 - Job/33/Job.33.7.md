@@ -1,8 +1,49 @@
+---
+title: Job 33:7
+type: Verse
+kjv: "Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee."
+bsb: "Surely no fear of me should terrify you; nor will my hand be heavy upon you."
+hebrew: "הִנֵּ֣ה אֵ֭מָתִי לֹ֣א תְבַעֲתֶ֑ךָּ וְ֝אַכְפִּ֗י עָלֶ֥יךָ לֹא־ יִכְבָּֽד׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H2009]]"
+- "[[H0367]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H1204]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H0405]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3513H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:7**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.
 <small><sub>**BSB:**</sub></small>
 Surely no fear of me should terrify you; nor will my hand be heavy upon you.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֣ה]] [[H0367\|אֵ֭מָתִ]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H1204\|תְבַעֲתֶ֑]][[H9031\|ךָּ]] [[H9002\|וְ֝]][[H0405\|אַכְפִּ֗]][[H9020\|י]] [[H5921A\|עָלֶ֥י]][[H9031\|ךָ]] [[H3808\|לֹא]][[H9014\|־]] [[H3513H\|יִכְבָּֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.6|<< Job 33:6]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.8|Job 33:8 >>]]</td></tr></table>
 

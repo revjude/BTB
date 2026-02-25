@@ -1,10 +1,72 @@
+---
+title: Revelation 21:20
+type: Verse
+kjv: "The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst."
+bsb: "the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, and the twelfth amethyst."
+greek: "ὁ πέμπτος σαρδόνυξ, ὁ ἕκτος σάρδιον, ὁ ἕβδομος χρυσόλιθος, ὁ ὄγδοος βήρυλλος, ὁ ἔνατος τοπάζιον, ὁ δέκατος χρυσόπρασος, ὁ ἑνδέκατος ὑάκινθος, ὁ δωδέκατος ἀμέθυστος."
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AMETHYST|AMETHYST]]"
+- "[[topic BERYL|BERYL]]"
+- "[[topic CHRYSOLYTE|CHRYSOLYTE]]"
+- "[[topic CHRYSOPRASUS|CHRYSOPRASUS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JACINTH|JACINTH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic ONYX|ONYX]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SARDIUS|SARDIUS]]"
+- "[[topic SARDONYX|SARDONYX]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOPAZ|TOPAZ]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+strongs:
+- "[[G3588]]"
+- "[[G3991]]"
+- "[[G4557]]"
+- "[[G1623]]"
+- "[[G4556]]"
+- "[[G1442]]"
+- "[[G5555]]"
+- "[[G3590]]"
+- "[[G0969]]"
+- "[[G1766]]"
+- "[[G5116]]"
+- "[[G1182]]"
+- "[[G5556]]"
+- "[[G1734]]"
+- "[[G5192]]"
+- "[[G1428]]"
+- "[[G0271]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 21:20**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
 <small><sub>**BSB:**</sub></small>
 the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, and the twelfth amethyst.
-<small><sub>**Literal:**</sub></small>
-the fifth sardonyx, the sixth sardius, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.19|<< Revelation 21:19]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.21|Revelation 21:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3991\|πέμπτος]]  [[G4557\|σαρδόνυξ,]]  [[G3588\|ὁ]]  [[G1623\|ἕκτος]]  [[G4556\|σάρδιον,]]  [[G3588\|ὁ]]  [[G1442\|ἕβδομος]]  [[G5555\|χρυσόλιθος,]]  [[G3588\|ὁ]]  [[G3590\|ὄγδοος]]  [[G0969\|βήρυλλος,]]  [[G3588\|ὁ]]  [[G1766\|ἔνατος]]  [[G5116\|τοπάζιον,]]  [[G3588\|ὁ]]  [[G1182\|δέκατος]]  [[G5556\|χρυσόπρασος,]]  [[G3588\|ὁ]]  [[G1734\|ἑνδέκατος]]  [[G5192\|ὑάκινθος,]]  [[G3588\|ὁ]]  [[G1428\|δωδέκατος]]  [[G0271\|ἀμέθυστος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMETHYST|AMETHYST]] • [[topic BERYL|BERYL]] • [[topic CHRYSOLYTE|CHRYSOLYTE]] • [[topic CHRYSOPRASUS|CHRYSOPRASUS]] • [[topic CHURCH|CHURCH]] • [[topic JACINTH|JACINTH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic ONYX|ONYX]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SARDIUS|SARDIUS]] • [[topic SARDONYX|SARDONYX]] • [[topic STONES|STONES]] • [[topic TOPAZ|TOPAZ]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.19|<< Revelation 21:19]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.21|Revelation 21:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

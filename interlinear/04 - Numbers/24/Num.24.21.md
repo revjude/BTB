@@ -1,8 +1,64 @@
+---
+title: Numbers 24:21
+type: Verse
+kjv: "And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock."
+bsb: "Next he saw the Kenites and lifted up an oracle, saying: “Your dwelling place is secure, and your nest is set in a cliff."
+hebrew: "וַיַּרְא֙ אֶת־ הַקֵּינִ֔י וַיִּשָּׂ֥א מְשָׁל֖וֹ וַיֹּאמַ֑ר אֵיתָן֙ מֽוֹשָׁבֶ֔ךָ וְשִׂ֥ים בַּסֶּ֖לַע קִנֶּֽךָ׃"
+pericope: "[[Num.24.20 Balaam’s Final Three Oracles|Balaam’s Final Three Oracles]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic KENITES|KENITES]]"
+- "[[topic NEST|NEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7017]]"
+- "[[H5375N]]"
+- "[[H4912]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H0386]]"
+- "[[H4186]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7760A]]"
+- "[[H9003]]"
+- "[[H5553H]]"
+- "[[H7064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:21**<big><big>[[Num.24.20 Balaam’s Final Three Oracles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he looked on the Kenites, and took up his parable, and said, Strong is thy dwellingplace, and thou puttest thy nest in a rock.
 <small><sub>**BSB:**</sub></small>
 Next he saw the Kenites and lifted up an oracle, saying: “Your dwelling place is secure, and your nest is set in a cliff.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּרְא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7017\|קֵּינִ֔י]] [[H9001\|וַ]][[H5375N\|יִּשָּׂ֥א]] [[H4912\|מְשָׁל֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H0386\|אֵיתָן֙]] [[H4186\|מֽוֹשָׁבֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H7760A\|שִׂ֥ים]] [[H9003\|בַּ]][[H5553H\|סֶּ֖לַע]] [[H7064\|קִנֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KENITES|KENITES]] • [[topic NEST|NEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.20|<< Numbers 24:20]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.22|Numbers 24:22 >>]]</td></tr></table>
 

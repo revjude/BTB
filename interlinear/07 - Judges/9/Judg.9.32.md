@@ -1,8 +1,59 @@
+---
+title: Judges 9:32
+type: Verse
+kjv: "Now therefore up by night, thou and the people that is with thee, and lie in wait in the field:"
+bsb: "Now then, tonight you and the people with you are to come and lie in wait in the fields."
+hebrew: "וְעַתָּה֙ ק֣וּם לַ֔יְלָה אַתָּ֖ה וְהָעָ֣ם אֲשֶׁר־ אִתָּ֑ךְ וֶאֱרֹ֖ב בַּשָּׂדֶֽה׃"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic EBED|EBED]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ZEBUL|ZEBUL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H6965B]]"
+- "[[H3915]]"
+- "[[H0859A]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H0693]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:32**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore up by night, thou and the people that [is] with thee, and lie in wait in the field:
 <small><sub>**BSB:**</sub></small>
 Now then, tonight you and the people with you are to come and lie in wait in the fields.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H6965B\|ק֣וּם]] [[H3915\|לַ֔יְלָה]] [[H0859A\|אַתָּ֖ה]] [[H9002\|וְ]][[H9009\|הָ]][[H5971K\|עָ֣ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H9002\|וֶ]][[H0693\|אֱרֹ֖ב]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic EBED|EBED]] • [[topic GAAL|GAAL]] • [[topic JUDGE|JUDGE]] • [[topic ZEBUL|ZEBUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.31|<< Judges 9:31]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.33|Judges 9:33 >>]]</td></tr></table>
 

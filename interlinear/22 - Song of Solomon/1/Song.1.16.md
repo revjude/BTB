@@ -1,8 +1,47 @@
+---
+title: Song of Solomon 1:16
+type: Verse
+kjv: "Behold, thou art fair, my beloved, yea, pleasant: also our bed is green."
+bsb: "How handsome you are, my beloved! Oh, how delightful! The soft grass is our bed."
+hebrew: "הִנְּךָ֨ יָפֶ֤ה דוֹדִי֙ אַ֣ף נָעִ֔ים אַף־ עַרְשֵׂ֖נוּ רַעֲנָנָֽה׃"
+pericope: "[[Song.1.16 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 1
+book/chapter: "[[Song.1|Song of Solomon 1]]"
+chronological_order: 448
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H2005]]"
+- "[[H9041]]"
+- "[[H3303]]"
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H0637]]"
+- "[[H5273A]]"
+- "[[H9014]]"
+- "[[H6210]]"
+- "[[H9025]]"
+- "[[H7488B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 1:16**<big><big>[[Song.1.16 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou [art] fair, my beloved, yea, pleasant: also our bed [is] green.
 <small><sub>**BSB:**</sub></small>
 How handsome you are, my beloved! Oh, how delightful! The soft grass is our bed.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְּ]][[H9041\|ךָ֨]] [[H3303\|יָפֶ֤ה]] [[H1730G\|דוֹדִ]][[H9020\|י֙]] [[H0637\|אַ֣ף]] [[H5273A\|נָעִ֔ים]] [[H0637\|אַף]][[H9014\|־]] [[H6210\|עַרְשֵׂ֖]][[H9025\|נוּ]] [[H7488B\|רַעֲנָנָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.15|<< Song of Solomon 1:15]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.17|Song of Solomon 1:17 >>]]</td></tr></table>
 

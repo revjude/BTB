@@ -1,8 +1,79 @@
+---
+title: Nehemiah 9:8
+type: Verse
+kjv: "And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and hast performed thy words; for thou art righteous:"
+bsb: "You found his heart faithful before You, and made a covenant with him to give the land of the Canaanites and Hittites, of the Amorites and Perizzites, of the Jebusites and Girgashites—to give it to his descendants. You have kept Your promise, because You are righteous."
+hebrew: "וּמָצָ֣אתָ אֶת־ לְבָבוֹ֮ נֶאֱמָ֣ן לְפָנֶיךָ֒ וְכָר֨וֹת עִמּ֜וֹ הַבְּרִ֗ית לָתֵ֡ת אֶת־ אֶרֶץ֩ הַכְּנַעֲנִ֨י הַחִתִּ֜י הָאֱמֹרִ֧י וְהַפְּרִזִּ֛י וְהַיְבוּסִ֥י וְהַגִּרְגָּשִׁ֖י לָתֵ֣ת לְזַרְע֑וֹ וַתָּ֙קֶם֙ אֶת־ דְּבָרֶ֔יךָ כִּ֥י צַדִּ֖יק אָֽתָּה׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic GIRGASHITES|GIRGASHITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H0539]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3772H]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H1285]]"
+- "[[H5414G]]"
+- "[[H0776G]]"
+- "[[H3669A]]"
+- "[[H2850]]"
+- "[[H0567]]"
+- "[[H6522]]"
+- "[[H2983G]]"
+- "[[H1622]]"
+- "[[H2233H]]"
+- "[[H6965I]]"
+- "[[H1697J]]"
+- "[[H3588A]]"
+- "[[H6662]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:8**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give [it, I say], to his seed, and hast performed thy words; for thou [art] righteous:
 <small><sub>**BSB:**</sub></small>
 You found his heart faithful before You, and made a covenant with him to give the land of the Canaanites and Hittites, of the Amorites and Perizzites, of the Jebusites and Girgashites—to give it to his descendants. You have kept Your promise, because You are righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4672\|מָצָ֣אתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבָב]][[H9023\|וֹ֮]] [[H0539\|נֶאֱמָ֣ן]] [[H9005\|לְ]][[H6440G\|פָנֶי]][[H9021\|ךָ֒]] [[H9002\|וְ]][[H3772H\|כָר֨וֹת]] [[H5973A\|עִמּ֜]][[H9033\|וֹ]] [[H9009\|הַ]][[H1285\|בְּרִ֗ית]] [[H9005\|לָ]][[H5414G\|תֵ֡ת]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶרֶץ֩]] [[H9009\|הַ]][[H3669A\|כְּנַעֲנִ֨י]] [[H9009\|הַ]][[H2850\|חִתִּ֜י]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֧י]] [[H9002\|וְ]][[H9009\|הַ]][[H6522\|פְּרִזִּ֛י]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִ֥י]] [[H9002\|וְ]][[H9009\|הַ]][[H1622\|גִּרְגָּשִׁ֖י]] [[H9005\|לָ]][[H5414G\|תֵ֣ת]] [[H9005\|לְ]][[H2233H\|זַרְע֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H6965I\|תָּ֙קֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697J\|דְּבָרֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּ֥י]] [[H6662\|צַדִּ֖יק]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic GIRGASHITES|GIRGASHITES]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.7|<< Nehemiah 9:7]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.9|Nehemiah 9:9 >>]]</td></tr></table>
 

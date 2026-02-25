@@ -1,8 +1,57 @@
+---
+title: Jeremiah 37:6
+type: Verse
+kjv: "Then came the word of the LORD unto the prophet Jeremiah, saying,"
+bsb: "Then the word of the LORD came to Jeremiah the prophet:"
+hebrew: "וַֽיְהִי֙ דְּבַר־ יְהוָ֔ה אֶל־ יִרְמְיָ֥הוּ הַנָּבִ֖יא לֵאמֹֽר׃"
+pericope: "[[Jer.37.1 Jeremiah Warns Zedekiah|Jeremiah Warns Zedekiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 37:6**<big><big>[[Jer.37.1 Jeremiah Warns Zedekiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came the word of the LORD unto the prophet Jeremiah, saying,
 <small><sub>**BSB:**</sub></small>
 Then the word of the LORD came to Jeremiah the prophet:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֥הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic PHARAOH|PHARAOH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.5|<< Jeremiah 37:5]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.7|Jeremiah 37:7 >>]]</td></tr></table>
 

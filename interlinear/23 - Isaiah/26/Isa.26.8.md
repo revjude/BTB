@@ -1,8 +1,60 @@
+---
+title: Isaiah 26:8
+type: Verse
+kjv: "Yea, in the way of thy judgments, O LORD, have we waited for thee; the desire of our soul is to thy name, and to the remembrance of thee."
+bsb: "Yes, we wait for You, O LORD; we walk in the path of Your judgments. Your name and renown are the desire of our souls."
+hebrew: "אַ֣ף אֹ֧רַח מִשְׁפָּטֶ֛יךָ יְהוָ֖ה קִוִּינ֑וּךָ לְשִׁמְךָ֥ וּֽלְזִכְרְךָ֖ תַּאֲוַת־ נָֽפֶשׁ׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H0637]]"
+- "[[H0734]]"
+- "[[H4941G]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H6960A]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H9002]]"
+- "[[H2143]]"
+- "[[H8378]]"
+- "[[H9014]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:8**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, in the way of thy judgments, O LORD, have we waited for thee; the desire of [our] soul [is] to thy name, and to the remembrance of thee.
 <small><sub>**BSB:**</sub></small>
 Yes, we wait for You, O LORD; we walk in the path of Your judgments. Your name and renown are the desire of our souls.
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַ֣ף]] [[H0734\|אֹ֧רַח]] [[H4941G\|מִשְׁפָּטֶ֛י]][[H9021\|ךָ]] [[H3068G\|יְהוָ֖ה]] [[H6960A\|קִוִּינ֑וּ]][[H9031\|ךָ]] [[H9005\|לְ]][[H8034\|שִׁמְ]][[H9021\|ךָ֥]] [[H9002\|וּֽ]][[H9005\|לְ]][[H2143\|זִכְרְ]][[H9021\|ךָ֖]] [[H8378\|תַּאֲוַת]][[H9014\|־]] [[H5315G\|נָֽפֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic FAITH|FAITH]] • [[topic HOLINESS|HOLINESS]] • [[topic SEEKERS|SEEKERS]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.7|<< Isaiah 26:7]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.9|Isaiah 26:9 >>]]</td></tr></table>
 

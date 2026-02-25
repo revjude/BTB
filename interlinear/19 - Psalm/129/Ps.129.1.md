@@ -1,8 +1,55 @@
+---
+title: Psalm 129:1
+type: Verse
+kjv: "Many a time have they afflicted me from my youth, may Israel now say:"
+bsb: "A song of ascents. Many a time they have persecuted me from my youth—let Israel now declare—"
+hebrew: "רַ֭בַּת צְרָר֣וּנִי מִנְּעוּרַ֑י יֹֽאמַר־ נָ֝א יִשְׂרָאֵֽל׃"
+pericope: "[[Ps.129.1 The Cords of the Wicked|The Cords of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 129
+book/chapter: "[[Ps.129|Psalm 129]]"
+chronological_order: 890
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H7227A]]"
+- "[[H6887D]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H5271A]]"
+- "[[H9020]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 129:1**<big><big>[[Ps.129.1 The Cords of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many a time have they afflicted me from my youth, may Israel now say:
 <small><sub>**BSB:**</sub></small>
 A song of ascents. Many a time they have persecuted me from my youth—let Israel now declare—
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַ֭בַּת]] [[H6887D\|צְרָר֣וּ]][[H9030\|נִי]] [[H9006\|מִ]][[H5271A\|נְּעוּרַ֑]][[H9020\|י]] [[H0559\|יֹֽאמַר]][[H9014\|־]] [[H4994\|נָ֝א]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.129.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.129.0|<< Psalms 129:0]]</td><td align="center" style="border:none;">[[Ps.129|Psalms 129]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.129.2|Psalms 129:2 >>]]</td></tr></table>
 

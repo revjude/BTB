@@ -1,8 +1,75 @@
+---
+title: Jeremiah 18:18
+type: Verse
+kjv: "Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words."
+bsb: "Then some said, “Come, let us make plans against Jeremiah, for the law will never be lost to the priest, nor counsel to the wise, nor an oracle to the prophet. Come, let us denounce him and pay no heed to any of his words.”"
+hebrew: "וַיֹּאמְר֗וּ לְכ֨וּ וְנַחְשְׁבָ֣ה עַֽל־ יִרְמְיָהוּ֮ מַחֲשָׁבוֹת֒ כִּי֩ לֹא־ תֹאבַ֨ד תּוֹרָ֜ה מִכֹּהֵ֗ן וְעֵצָה֙ מֵֽחָכָ֔ם וְדָבָ֖ר מִנָּבִ֑יא לְכוּ֙ וְנַכֵּ֣הוּ בַלָּשׁ֔וֹן וְאַל־ נַקְשִׁ֖יבָה אֶל־ כָּל־ דְּבָרָֽיו׃"
+pericope: "[[Jer.18.18 Another Plot against Jeremiah|Another Plot against Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1980K]]"
+- "[[H9002]]"
+- "[[H2803I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H4284]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H0006]]"
+- "[[H8451]]"
+- "[[H9006]]"
+- "[[H3548]]"
+- "[[H6098]]"
+- "[[H2450]]"
+- "[[H1697G]]"
+- "[[H5030]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3956G]]"
+- "[[H0408]]"
+- "[[H7181]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 18:18**<big><big>[[Jer.18.18 Another Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words.
 <small><sub>**BSB:**</sub></small>
 Then some said, “Come, let us make plans against Jeremiah, for the law will never be lost to the priest, nor counsel to the wise, nor an oracle to the prophet. Come, let us denounce him and pay no heed to any of his words.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H1980K\|לְכ֨וּ]] [[H9002\|וְ]][[H2803I\|נַחְשְׁבָ֣ה]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָהוּ֮]] [[H4284\|מַחֲשָׁבוֹת֒]] [[H3588A\|כִּי֩]] [[H3808\|לֹא]][[H9014\|־]] [[H0006\|תֹאבַ֨ד]] [[H8451\|תּוֹרָ֜ה]] [[H9006\|מִ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וְ]][[H6098\|עֵצָה֙]] [[H9006\|מֵֽ]][[H2450\|חָכָ֔ם]] [[H9002\|וְ]][[H1697G\|דָבָ֖ר]] [[H9006\|מִ]][[H5030\|נָּבִ֑יא]] [[H1980K\|לְכוּ֙]] [[H9002\|וְ]][[H5221\|נַכֵּ֣]][[H9033\|הוּ]] [[H9003\|בַ]][[H3956G\|לָּשׁ֔וֹן]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H7181\|נַקְשִׁ֖יבָה]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דְּבָרָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic GOD|GOD]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.17|<< Jeremiah 18:17]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.19|Jeremiah 18:19 >>]]</td></tr></table>
 

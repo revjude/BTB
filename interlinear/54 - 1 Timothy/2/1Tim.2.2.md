@@ -1,10 +1,62 @@
+---
+title: 1 Timothy 2:2
+type: Verse
+kjv: "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty."
+bsb: "for kings and all those in authority—so that we may lead tranquil and quiet lives in all godliness and dignity."
+greek: "ὑπὲρ βασιλέων καὶ πάντων τῶν ἐν ὑπεροχῇ ὄντων, ἵνα ἤρεμον καὶ ἡσύχιον βίον διάγωμεν ἐν πάσῃ εὐσεβείᾳ καὶ σεμνότητι."
+pericope: "[[1Tim.2.1 A Call to Prayer|A Call to Prayer]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 2
+book/chapter: "[[1Tim.2|1 Timothy 2]]"
+chronological_order: 1127
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G5228]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G5247]]"
+- "[[G1510]]"
+- "[[G2443]]"
+- "[[G2263]]"
+- "[[G2272]]"
+- "[[G0979]]"
+- "[[G1236]]"
+- "[[G2150]]"
+- "[[G4587]]"
+texts:
+- NKO
+---
+
 **1 Timothy 2:2**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For kings, and [for] all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.
 <small><sub>**BSB:**</sub></small>
 for kings and all those in authority—so that we may lead tranquil and quiet lives in all godliness and dignity.
-<small><sub>**Literal:**</sub></small>
-for kings and all those in authority being, so that a tranquil and quiet life we may lead in all godliness and in [all] dignity.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.1|<< 1 Timothy 2:1]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.3|1 Timothy 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5228\|ὑπὲρ]]  [[G0935\|βασιλέων]]  [[G2532\|καὶ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G1722\|ἐν]]  [[G5247\|ὑπεροχῇ]]  [[G1510\|ὄντων,]]  [[G2443\|ἵνα]]  [[G2263\|ἤρεμον]]  [[G2532\|καὶ]]  [[G2272\|ἡσύχιον]]  [[G0979\|βίον]]  [[G1236\|διάγωμεν]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G2150\|εὐσεβείᾳ]]  [[G2532\|καὶ]]  [[G4587\|σεμνότητι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic KING|KING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATION|NATION]] • [[topic PEACE|PEACE]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.1|<< 1 Timothy 2:1]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.3|1 Timothy 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

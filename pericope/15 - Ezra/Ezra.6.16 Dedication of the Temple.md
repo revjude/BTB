@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Dedication of the Temple
+type: Pericope
 pericope: "[[Ezra.6.16 Dedication of the Temple|Dedication of the Temple]]"
-verse_count: 3
+original_language: Aramaic
 testament: Old
 book: Ezra
 chapter: 6
 book/chapter: "[[Ezra.6|Ezra 6]]"
-genre:
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 3
 verses:
 - "[[Ezra.6.16]]"
 - "[[Ezra.6.17]]"
 - "[[Ezra.6.18]]"
 ---
 
-[[Ezra.6|Ezra 6:16 - Ezra 6:18]]
+<small>[[Ezra.6|Ezra 6:16-18]]</small>
 *Dedication of the Temple*
 
 [[Ezra.6.16|16]] And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy,

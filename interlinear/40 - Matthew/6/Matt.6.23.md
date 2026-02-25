@@ -1,10 +1,63 @@
+---
+title: Matthew 6:23
+type: Verse
+kjv: "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!"
+bsb: "But if your eyes are bad, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!"
+jesus_said: "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!"
+greek: "ἐὰν δὲ ὁ ὀφθαλμός σου πονηρὸς ᾖ, ὅλον τὸ σῶμά σου σκοτεινὸν ἔσται. εἰ οὖν τὸ φῶς τὸ ἐν σοὶ σκότος ἐστίν, τὸ σκότος πόσον.¶"
+pericope: "[[Matt.6.22 The Lamp of the Body|The Lamp of the Body]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G4771]]"
+- "[[G4190]]"
+- "[[G1510]]"
+- "[[G3650]]"
+- "[[G4983]]"
+- "[[G4652]]"
+- "[[G1487G]]"
+- "[[G3767]]"
+- "[[G5457]]"
+- "[[G1722]]"
+- "[[G4655]]"
+- "[[G4214]]"
+texts:
+- NKO
+---
+
 **Matthew 6:23**<big><big>[[Matt.6.22 The Lamp of the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great [is] that darkness!
 <small><sub>**BSB:**</sub></small>
 But if your eyes are bad, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!
-<small><sub>**Literal:**</sub></small>
-If however the eye of you evil shall be, all the body of you full of darkness will be. If then the light that [is] within you darkness is, that darkness how great!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.22|<< Matthew 6:22]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.24|Matthew 6:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3788\|ὀφθαλμός]]  [[G4771\|σου]]  [[G4190\|πονηρὸς]]  [[G1510\|ᾖ,]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G4771\|σου]]  [[G4652\|σκοτεινὸν]]  [[G1510\|ἔσται.]]  [[G1487G\|εἰ]]  [[G3767\|οὖν]]  [[G3588\|τὸ]]  [[G5457\|φῶς]]  [[G3588\|τὸ]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G4655\|σκότος]]  [[G1510\|ἐστίν,]]  [[G3588\|τὸ]]  [[G4655\|σκότος]]  [[G4214\|πόσον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic DARKNESS|DARKNESS]] • [[topic RELIGION|RELIGION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.22|<< Matthew 6:22]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.24|Matthew 6:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

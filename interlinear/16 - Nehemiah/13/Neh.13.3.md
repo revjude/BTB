@@ -1,8 +1,52 @@
+---
+title: Nehemiah 13:3
+type: Verse
+kjv: "Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude."
+bsb: "As soon as the people heard this law, they excluded from Israel all of foreign descent."
+hebrew: "וַיְהִ֖י כְּשָׁמְעָ֣ם אֶת־ הַתּוֹרָ֑ה וַיַּבְדִּ֥ילוּ כָל־ עֵ֖רֶב מִיִּשְׂרָאֵֽל׃"
+pericope: "[[Neh.13.1 Foreigners Excluded|Foreigners Excluded]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9048]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H0914]]"
+- "[[H3605]]"
+- "[[H6154M]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:3**<big><big>[[Neh.13.1 Foreigners Excluded|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, when they had heard the law, that they separated from Israel all the mixed multitude.
 <small><sub>**BSB:**</sub></small>
 As soon as the people heard this law, they excluded from Israel all of foreign descent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֖י]] [[H9004\|כְּ]][[H8085G\|שָׁמְעָ֣]][[H9048\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8451\|תּוֹרָ֑ה]] [[H9001\|וַ]][[H0914\|יַּבְדִּ֥ילוּ]] [[H3605\|כָל]][[H9014\|־]] [[H6154M\|עֵ֖רֶב]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.2|<< Nehemiah 13:2]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.4|Nehemiah 13:4 >>]]</td></tr></table>
 

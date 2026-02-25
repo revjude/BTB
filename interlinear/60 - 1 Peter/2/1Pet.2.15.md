@@ -1,10 +1,55 @@
+---
+title: 1 Peter 2:15
+type: Verse
+kjv: "For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men:"
+bsb: "For it is God’s will that by doing good you should silence the ignorance of foolish men."
+greek: "ὅτι οὕτως ἐστὶν τὸ θέλημα τοῦ θεοῦ ἀγαθοποιοῦντας φιμοῦν τὴν τῶν ἀφρόνων ἀνθρώπων ἀγνωσίαν·"
+pericope: "[[1Pet.2.13 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3779]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G0015]]"
+- "[[G5392]]"
+- "[[G0878]]"
+- "[[G0444]]"
+- "[[G0056]]"
+texts:
+- NKO
+---
+
 **1 Peter 2:15**<big><big>[[1Pet.2.13 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For so is the will of God, that with well doing ye may put to silence the ignorance of foolish men:
 <small><sub>**BSB:**</sub></small>
 For it is God’s will that by doing good you should silence the ignorance of foolish men.
-<small><sub>**Literal:**</sub></small>
-because this is the will <the> of God doing good to put to silence the <the> of foolish men ignorance;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.14|<< 1 Peter 2:14]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.16|1 Peter 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3779\|οὕτως]]  [[G1510\|ἐστὶν]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0015\|ἀγαθοποιοῦντας]]  [[G5392\|φιμοῦν]]  [[G3588\|τὴν]]  [[G3588\|τῶν]]  [[G0878\|ἀφρόνων]]  [[G0444\|ἀνθρώπων]]  [[G0056\|ἀγνωσίαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.14|<< 1 Peter 2:14]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.16|1 Peter 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

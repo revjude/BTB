@@ -1,8 +1,66 @@
+---
+title: Leviticus 25:20
+type: Verse
+kjv: "And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:"
+bsb: "Now you may wonder, ‘What will we eat in the seventh year if we do not sow or gather our produce?’"
+hebrew: "וְכִ֣י תֹאמְר֔וּ מַה־ נֹּאכַ֤֖ל בַּשָּׁנָ֣ה הַשְּׁבִיעִ֑ת הֵ֚ן לֹ֣א נִזְרָ֔ע וְלֹ֥א נֶאֱסֹ֖ף אֶת־ תְּבוּאָתֵֽנוּ׃"
+pericope: "[[Lev.25.18 The Blessing of Obedience|The Blessing of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUBILEE|JUBILEE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H2005]]"
+- "[[H3808]]"
+- "[[H2232]]"
+- "[[H0622]]"
+- "[[H0853]]"
+- "[[H8393]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:20**<big><big>[[Lev.25.18 The Blessing of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:
 <small><sub>**BSB:**</sub></small>
 Now you may wonder, ‘What will we eat in the seventh year if we do not sow or gather our produce?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֣י]] [[H0559\|תֹאמְר֔וּ]] [[H4100\|מַה]][[H9014\|־]] [[H0398\|נֹּאכַ֤֖ל]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֑ת]] [[H2005\|הֵ֚ן]] [[H3808\|לֹ֣א]] [[H2232\|נִזְרָ֔ע]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0622\|נֶאֱסֹ֖ף]] [[H0853\|אֶת]][[H9014\|־]] [[H8393\|תְּבוּאָתֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic JUBILEE|JUBILEE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.19|<< Leviticus 25:19]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.21|Leviticus 25:21 >>]]</td></tr></table>
 

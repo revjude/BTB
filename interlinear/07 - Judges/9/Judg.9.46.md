@@ -1,8 +1,56 @@
+---
+title: Judges 9:46
+type: Verse
+kjv: "And when all the men of the tower of Shechem heard that, they entered into an hold of the house of the god Berith."
+bsb: "On hearing of this, all the leaders in the tower of Shechem entered the inner chamber of the temple of El-berith."
+hebrew: "וַֽיִּשְׁמְע֔וּ כָּֽל־ בַּעֲלֵ֖י מִֽגְדַּל־ שְׁכֶ֑ם וַיָּבֹ֣אוּ אֶל־ צְרִ֔יחַ בֵּ֖ית אֵ֥ל בְּרִֽית׃"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL-BERITH|BAAL-BERITH]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1167G]]"
+- "[[H4026M]]"
+- "[[H7927G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H6877]]"
+- "[[H1004B]]"
+- "[[H0410H]]"
+- "[[H1286]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:46**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all the men of the tower of Shechem heard [that], they entered into an hold of the house of the god Berith.
 <small><sub>**BSB:**</sub></small>
 On hearing of this, all the leaders in the tower of Shechem entered the inner chamber of the temple of El-berith.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H8085G\|יִּשְׁמְע֔וּ]] [[H3605\|כָּֽל]][[H9014\|־]] [[H1167G\|בַּעֲלֵ֖י]] [[H4026M\|מִֽגְדַּל]][[H9014\|־]] [[H7927G\|שְׁכֶ֑ם]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6877\|צְרִ֔יחַ]] [[H1004B\|בֵּ֖ית]] [[H0410H\|אֵ֥ל]] [[H1286\|בְּרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-BERITH|BAAL-BERITH]] • [[topic JUDGE|JUDGE]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.45|<< Judges 9:45]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.47|Judges 9:47 >>]]</td></tr></table>
 

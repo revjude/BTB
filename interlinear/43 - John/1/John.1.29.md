@@ -1,10 +1,64 @@
+---
+title: John 1:29
+type: Verse
+kjv: "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world."
+bsb: "The next day John saw Jesus coming toward him and said, “Look, the Lamb of God, who takes away the sin of the world!"
+greek: "Τῇ ἐπαύριον βλέπει ὁ Ἰωάννης τὸν Ἰησοῦν ἐρχόμενον πρὸς αὐτὸν καὶ λέγει· ἴδε ὁ ἀμνὸς τοῦ θεοῦ, ὁ αἴρων τὴν ἁμαρτίαν τοῦ κόσμου."
+pericope: "[[John.1.29 Jesus the Lamb of God|Jesus the Lamb of God]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1887]]"
+- "[[G0991]]"
+- "[[G2491H]]"
+- "[[G2424G]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G2396]]"
+- "[[G0286]]"
+- "[[G2316]]"
+- "[[G0142]]"
+- "[[G0266]]"
+- "[[G2889]]"
+texts:
+- NKO
+- k
+---
+
 **John 1:29**<big><big>[[John.1.29 Jesus the Lamb of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.
 <small><sub>**BSB:**</sub></small>
 The next day John saw Jesus coming toward him and said, “Look, the Lamb of God, who takes away the sin of the world!
-<small><sub>**Literal:**</sub></small>
-On the next day he sees <the> John <the> Jesus coming to him and says; Behold the Lamb <the> of God, who is taking away the sin of the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.28|<< John 1:28]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.30|John 1:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῇ]]  [[G1887\|ἐπαύριον]]  [[G0991\|βλέπει]]  [[G3588\|ὁ]]  [[G2491H\|Ἰωάννης]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2064\|ἐρχόμενον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|λέγει·]]  [[G2396\|ἴδε]]  [[G3588\|ὁ]]  [[G0286\|ἀμνὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3588\|ὁ]]  [[G0142\|αἴρων]]  [[G3588\|τὴν]]  [[G0266\|ἁμαρτίαν]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DAILY OFFERING|DAILY OFFERING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.28|<< John 1:28]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.30|John 1:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

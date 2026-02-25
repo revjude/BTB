@@ -1,8 +1,54 @@
+---
+title: Numbers 6:1
+type: Verse
+kjv: "And the LORD spake unto Moses, saying,"
+bsb: "And the LORD said to Moses,"
+hebrew: "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:1**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses, saying,
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Moses,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H9005\|לֵּ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.31|<< Numbers 5:31]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.2|Numbers 6:2 >>]]</td></tr></table>
 

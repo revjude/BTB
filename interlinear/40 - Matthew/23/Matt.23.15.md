@@ -1,10 +1,67 @@
+---
+title: Matthew 23:15
+type: Verse
+kjv: "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves."
+bsb: "Woe to you, scribes and Pharisees, you hypocrites! You traverse land and sea to win a single convert, and when he becomes one, you make him twice as much a son of hell as you are."
+jesus_said: "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves."
+greek: "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι περιάγετε τὴν θάλασσαν καὶ τὴν ξηρὰν ποιῆσαι ἕνα προσήλυτον, καὶ ὅταν γένηται, ποιεῖτε αὐτὸν υἱὸν γεέννης διπλότερον ὑμῶν.¶"
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HELL|HELL]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G5273]]"
+- "[[G3754H]]"
+- "[[G4013]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G3584]]"
+- "[[G4160G]]"
+- "[[G1520]]"
+- "[[G4339]]"
+- "[[G3752]]"
+- "[[G1096]]"
+- "[[G0846]]"
+- "[[G5207]]"
+- "[[G1067]]"
+- "[[G1362]]"
+texts:
+- NKO
+---
+
 **Matthew 23:15**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves.
 <small><sub>**BSB:**</sub></small>
 Woe to you, scribes and Pharisees, you hypocrites! You traverse land and sea to win a single convert, and when he becomes one, you make him twice as much a son of hell as you are.
-<small><sub>**Literal:**</sub></small>
-Woe to you, scribes and Pharisees hypocrites! For you traverse the sea and the dry [land] to make one convert, and when he may become [so], you make him a son of hell twofold more than yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.14|<< Matthew 23:14]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.16|Matthew 23:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G4771\|ὑμῖν,]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαῖοι]]  [[G5273\|ὑποκριταί,]]  [[G3754H\|ὅτι]]  [[G4013\|περιάγετε]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3584\|ξηρὰν]]  [[G4160G\|ποιῆσαι]]  [[G1520\|ἕνα]]  [[G4339\|προσήλυτον,]]  [[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G1096\|γένηται,]]  [[G4160G\|ποιεῖτε]]  [[G0846\|αὐτὸν]]  [[G5207\|υἱὸν]]  [[G1067\|γεέννης]]  [[G1362\|διπλότερον]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HELL|HELL]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.14|<< Matthew 23:14]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.16|Matthew 23:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

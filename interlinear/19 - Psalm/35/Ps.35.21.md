@@ -1,8 +1,59 @@
+---
+title: Psalm 35:21
+type: Verse
+kjv: "Yea, they opened their mouth wide against me, and said, Aha, aha, our eye hath seen it."
+bsb: "They gape at me and say, “Aha, aha! Our eyes have seen!”"
+hebrew: "וַיַּרְחִ֥יבוּ עָלַ֗י פִּ֫יהֶ֥ם אָ֭מְרוּ הֶאָ֣ח׀ הֶאָ֑ח רָאֲתָ֥ה עֵינֵֽינוּ׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7337]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H1889]]"
+- "[[H9015]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:21**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, they opened their mouth wide against me, [and] said, Aha, aha, our eye hath seen [it].
 <small><sub>**BSB:**</sub></small>
 They gape at me and say, “Aha, aha! Our eyes have seen!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7337\|יַּרְחִ֥יבוּ]] [[H5921A\|עָלַ֗]][[H9030\|י]] [[H6310G\|פִּ֫י]][[H9028\|הֶ֥ם]] [[H0559\|אָ֭מְרוּ]] [[H1889\|הֶאָ֣ח]][[H9015\|׀]] [[H1889\|הֶאָ֑ח]] [[H7200G\|רָאֲתָ֥ה]] [[H5869A\|עֵינֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic MALICE|MALICE]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.20|<< Psalms 35:20]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.22|Psalms 35:22 >>]]</td></tr></table>
 

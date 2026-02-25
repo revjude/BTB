@@ -1,8 +1,54 @@
+---
+title: Proverbs 28:2
+type: Verse
+kjv: "For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged."
+bsb: "A land in rebellion has many rulers, but a man of understanding and knowledge maintains order."
+hebrew: "בְּפֶ֣שַֽׁע אֶ֭רֶץ רַבִּ֣ים שָׂרֶ֑יהָ וּבְאָדָ֥ם מֵבִ֥ין יֹ֝דֵ֗עַ כֵּ֣ן יַאֲרִֽיךְ׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic RULERS|RULERS]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+strongs:
+- "[[H9003]]"
+- "[[H6588]]"
+- "[[H0776G]]"
+- "[[H7227A]]"
+- "[[H8269]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0120G]]"
+- "[[H0995]]"
+- "[[H3045]]"
+- "[[H3651A]]"
+- "[[H0748]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:2**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the transgression of a land many [are] the princes thereof: but by a man of understanding [and] knowledge the state [thereof] shall be prolonged.
 <small><sub>**BSB:**</sub></small>
 A land in rebellion has many rulers, but a man of understanding and knowledge maintains order.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H6588\|פֶ֣שַֽׁע]] [[H0776G\|אֶ֭רֶץ]] [[H7227A\|רַבִּ֣ים]] [[H8269\|שָׂרֶ֑י]][[H9024\|הָ]] [[H9002\|וּ]][[H9003\|בְ]][[H0120G\|אָדָ֥ם]] [[H0995\|מֵבִ֥ין]] [[H3045\|יֹ֝דֵ֗עַ]] [[H3651A\|כֵּ֣ן]] [[H0748\|יַאֲרִֽיךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]] • [[topic STATECRAFT|STATECRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.1|<< Proverbs 28:1]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.3|Proverbs 28:3 >>]]</td></tr></table>
 

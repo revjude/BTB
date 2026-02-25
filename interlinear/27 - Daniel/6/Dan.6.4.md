@@ -1,8 +1,79 @@
+---
+title: Daniel 6:4
+type: Verse
+kjv: "Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him."
+bsb: "Thus the administrators and satraps sought a charge against Daniel concerning the kingdom, but they could find no charge or corruption, because he was trustworthy, and no negligence or corruption was found in him."
+aramaic: "אֱדַ֨יִן סָֽרְכַיָּ֜א וַאֲחַשְׁדַּרְפְּנַיָּ֗א הֲו֨וֹ בָעַ֧יִן עִלָּ֛ה לְהַשְׁכָּחָ֥ה לְדָנִיֵּ֖אל מִצַּ֣ד מַלְכוּתָ֑א וְכָל־ עִלָּ֨ה וּשְׁחִיתָ֜ה לָא־ יָכְלִ֣ין לְהַשְׁכָּחָ֗ה כָּל־ קֳבֵל֙ דִּֽי־ מְהֵימַ֣ן ה֔וּא וְכָל־ שָׁלוּ֙ וּשְׁחִיתָ֔ה לָ֥א הִשְׁתְּכַ֖חַת עֲלֽוֹהִי׃"
+pericope: "[[Dan.6.1 The Plot against Daniel|The Plot against Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0116]]"
+- "[[H5632]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H0324]]"
+- "[[H1934]]"
+- "[[H1156]]"
+- "[[H5931]]"
+- "[[H9005]]"
+- "[[H7912]]"
+- "[[H1841H]]"
+- "[[H9006]]"
+- "[[H6655]]"
+- "[[H4437]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H7844]]"
+- "[[H3809]]"
+- "[[H3202]]"
+- "[[H9004]]"
+- "[[H6903H]]"
+- "[[H1768]]"
+- "[[H0540]]"
+- "[[H1932]]"
+- "[[H7960]]"
+- "[[H5922]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:4**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he [was] faithful, neither was there any error or fault found in him.
 <small><sub>**BSB:**</sub></small>
 Thus the administrators and satraps sought a charge against Daniel concerning the kingdom, but they could find no charge or corruption, because he was trustworthy, and no negligence or corruption was found in him.
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱדַ֨יִן]] [[H5632\|סָֽרְכַיָּ֜]][[H9010\|א]] [[H9002\|וַ]][[H0324\|אֲחַשְׁדַּרְפְּנַיָּ֗]][[H9010\|א]] [[H1934\|הֲו֨וֹ]] [[H1156\|בָעַ֧יִן]] [[H5931\|עִלָּ֛ה]] [[H9005\|לְ]][[H7912\|הַשְׁכָּחָ֥ה]] [[H9005\|לְ]][[H1841H\|דָנִיֵּ֖אל]] [[H9006\|מִ]][[H6655\|צַּ֣ד]] [[H4437\|מַלְכוּתָ֑]][[H9010\|א]] [[H9002\|וְ]][[H3606\|כָל]][[H9014\|־]] [[H5931\|עִלָּ֨ה]] [[H9002\|וּ]][[H7844\|שְׁחִיתָ֜ה]] [[H3809\|לָא]][[H9014\|־]] [[H3202\|יָכְלִ֣ין]] [[H9005\|לְ]][[H7912\|הַשְׁכָּחָ֗ה]] [[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵל֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H0540\|מְהֵימַ֣ן]] [[H1932\|ה֔וּא]] [[H9002\|וְ]][[H3606\|כָל]][[H9014\|־]] [[H7960\|שָׁלוּ֙]] [[H9002\|וּ]][[H7844\|שְׁחִיתָ֔ה]] [[H3809\|לָ֥א]] [[H7912\|הִשְׁתְּכַ֖חַת]] [[H5922\|עֲלֽוֹ]][[H9033\|הִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ENVY|ENVY]] • [[topic FAITH|FAITH]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MALICE|MALICE]] • [[topic PERSIA|PERSIA]] • [[topic POLITICS|POLITICS]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.3|<< Daniel 6:3]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.5|Daniel 6:5 >>]]</td></tr></table>
 

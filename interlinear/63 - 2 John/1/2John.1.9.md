@@ -1,10 +1,54 @@
+---
+title: 2 John 1:9
+type: Verse
+kjv: "Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son."
+bsb: "Anyone who runs ahead without remaining in the teaching of Christ does not have God. Whoever remains in His teaching has both the Father and the Son."
+greek: "πᾶς ὁ προάγων καὶ μὴ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ θεὸν οὐκ ἔχει· ὁ μένων ἐν τῇ διδαχῇ τοῦ Χριστοῦ, οὗτος καὶ τὸν πατέρα καὶ τὸν υἱὸν ἔχει."
+pericope: "[[2John.1.7 Beware of Deceivers|Beware of Deceivers]]"
+original_language: Greek
+testament: New
+book: 2 John
+chapter: 1
+book/chapter: "[[2John.1|2 John 1]]"
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+- polemical
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4254]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G3306]]"
+- "[[G1722]]"
+- "[[G1322]]"
+- "[[G5547]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G3778]]"
+- "[[G3962]]"
+- "[[G5207]]"
+texts:
+- NKO
+- N(K)O
+- K
+---
+
 **2 John 1:9**<big><big>[[2John.1.7 Beware of Deceivers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son.
 <small><sub>**BSB:**</sub></small>
 Anyone who runs ahead without remaining in the teaching of Christ does not have God. Whoever remains in His teaching has both the Father and the Son.
-<small><sub>**Literal:**</sub></small>
-Anyone who is progressing and not abiding in the teaching <the> of Christ God not has; The [one] abiding in the teaching of the Christ this [one] both the Father and the Son has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.8|<< 2 John 1:8]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.10|2 John 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G4254\|προάγων]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3306\|μένων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1322\|διδαχῇ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G2316\|θεὸν]]  [[G3756\|οὐκ]]  [[G2192\|ἔχει·]]  [[G3588\|ὁ]]  [[G3306\|μένων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1322\|διδαχῇ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3778\|οὗτος]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G2192\|ἔχει.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.8|<< 2 John 1:8]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.10|2 John 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

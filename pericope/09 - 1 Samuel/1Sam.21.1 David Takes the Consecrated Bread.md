@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Takes the Consecrated Bread
+type: Pericope
 pericope: "[[1Sam.21.1 David Takes the Consecrated Bread|David Takes the Consecrated Bread]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 21
 book/chapter: "[[1Sam.21|1 Samuel 21]]"
-genre:
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[1Sam.21.1]]"
 - "[[1Sam.21.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Sam.21.7]]"
 ---
 
-[[1Sam.21|1 Samuel 21:1 - 1 Samuel 21:7]]
+<small>[[1Sam.21|1 Samuel 21:1-7]]</small>
 *David Takes the Consecrated Bread*
 
 [[1Sam.21.1|1]] Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why \[art\] thou alone, and no man with thee?

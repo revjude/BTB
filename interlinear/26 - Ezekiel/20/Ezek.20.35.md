@@ -1,8 +1,53 @@
+---
+title: Ezekiel 20:35
+type: Verse
+kjv: "And I will bring you into the wilderness of the people, and there will I plead with you face to face."
+bsb: "And I will bring you into the wilderness of the nations, where I will enter into judgment with you face to face."
+hebrew: "וְהֵבֵאתִ֣י אֶתְכֶ֔ם אֶל־ מִדְבַּ֖ר הָֽעַמִּ֑ים וְנִשְׁפַּטְתִּ֤י אִתְּכֶם֙ שָׁ֔ם פָּנִ֖ים אֶל־ פָּנִֽים׃"
+pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4057B]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H8199]]"
+- "[[H0854]]"
+- "[[H8033G]]"
+- "[[H6440H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:35**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring you into the wilderness of the people, and there will I plead with you face to face.
 <small><sub>**BSB:**</sub></small>
 And I will bring you into the wilderness of the nations, where I will enter into judgment with you face to face.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵבֵאתִ֣י]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4057B\|מִדְבַּ֖ר]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֑ים]] [[H9001\|וְ]][[H8199\|נִשְׁפַּטְתִּ֤י]] [[H0854\|אִתְּ]][[H9036\|כֶם֙]] [[H8033G\|שָׁ֔ם]] [[H6440H\|פָּנִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H6440H\|פָּנִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.34|<< Ezekiel 20:34]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.36|Ezekiel 20:36 >>]]</td></tr></table>
 

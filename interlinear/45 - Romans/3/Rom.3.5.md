@@ -1,10 +1,59 @@
+---
+title: Romans 3:5
+type: Verse
+kjv: "But if our unrighteousness commend the righteousness of God, what shall we say? Is God unrighteous who taketh vengeance? (I speak as a man)"
+bsb: "But if our unrighteousness highlights the righteousness of God, what shall we say? That God is unjust to inflict His wrath on us? I am speaking in human terms."
+greek: "Εἰ δὲ ἡ ἀδικία ἡμῶν θεοῦ δικαιοσύνην συνίστησιν, τί ἐροῦμεν; μὴ ἄδικος ὁ θεὸς ὁ ἐπιφέρων τὴν ὀργήν; κατὰ ἄνθρωπον λέγω·"
+pericope: "[[Rom.3.1 God Remains Faithful|God Remains Faithful]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0093]]"
+- "[[G3165]]"
+- "[[G2316]]"
+- "[[G1343]]"
+- "[[G4921]]"
+- "[[G5101]]"
+- "[[G4483]]"
+- "[[G3361]]"
+- "[[G0094]]"
+- "[[G2018]]"
+- "[[G3709]]"
+- "[[G2596]]"
+- "[[G0444]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **Romans 3:5**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if our unrighteousness commend the righteousness of God, what shall we say? [Is] God unrighteous who taketh vengeance? (I speak as a man)
 <small><sub>**BSB:**</sub></small>
 But if our unrighteousness highlights the righteousness of God, what shall we say? That God is unjust to inflict His wrath on us? I am speaking in human terms.
-<small><sub>**Literal:**</sub></small>
-If however the unrighteousness of us God’s righteousness shows, what will we say? Surely not [is] unrighteous <the> God who is inflicting the wrath? According to man I speak;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.4|<< Romans 3:4]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.6|Romans 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G0093\|ἀδικία]]  [[G3165\|ἡμῶν]]  [[G2316\|θεοῦ]]  [[G1343\|δικαιοσύνην]]  [[G4921\|συνίστησιν,]]  [[G5101\|τί]]  [[G4483\|ἐροῦμεν;]]  [[G3361\|μὴ]]  [[G0094\|ἄδικος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G2018\|ἐπιφέρων]]  [[G3588\|τὴν]]  [[G3709\|ὀργήν;]]  [[G2596\|κατὰ]]  [[G0444\|ἄνθρωπον]]  [[G3004G\|λέγω·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic BOASTING|BOASTING]] • [[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.4|<< Romans 3:4]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.6|Romans 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

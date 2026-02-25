@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: My Heart Is Stirred by a Noble Theme
+type: Pericope
 pericope: "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 45
 book/chapter: "[[Ps.45|Psalm 45]]"
-genre:
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 18
 verses:
 - "[[Ps.45.0]]"
 - "[[Ps.45.1]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ps.45.17]]"
 ---
 
-[[Ps.45|Psalm 45:1 - Psalm 45:17]]
+<small>[[Ps.45|Psalm 45:1-17]]</small>
 *My Heart Is Stirred by a Noble Theme*
 
 [[Ps.45.0|0]] To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves.

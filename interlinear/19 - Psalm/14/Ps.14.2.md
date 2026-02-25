@@ -1,8 +1,63 @@
+---
+title: Psalm 14:2
+type: Verse
+kjv: "The LORD looked down from heaven upon the children of men, to see if there were any that did understand, and seek God."
+bsb: "The LORD looks down from heaven upon the sons of men to see if any understand, if any seek God."
+hebrew: "יְֽהוָ֗ה מִשָּׁמַיִם֮ הִשְׁקִ֪יף עַֽל־ בְּנֵי־ אָ֫דָ֥ם לִ֭רְאוֹת הֲיֵ֣שׁ מַשְׂכִּ֑יל דֹּ֝רֵשׁ אֶת־ אֱלֹהִֽים׃"
+pericope: "[[Ps.14.1 The Fool Says There Is No God|The Fool Says There Is No God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 14
+book/chapter: "[[Ps.14|Psalm 14]]"
+chronological_order: 348
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H8064]]"
+- "[[H8259]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H7919A]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 14:2**<big><big>[[Ps.14.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD looked down from heaven upon the children of men, to see if there were any that did understand, [and] seek God.
 <small><sub>**BSB:**</sub></small>
 The LORD looks down from heaven upon the sons of men to see if any understand, if any seek God.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְֽהוָ֗ה]] [[H9006\|מִ]][[H8064\|שָּׁמַיִם֮]] [[H8259\|הִשְׁקִ֪יף]] [[H5921A\|עַֽל]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H0120G\|אָ֫דָ֥ם]] [[H9005\|לִ֭]][[H7200G\|רְאוֹת]] [[H9008\|הֲ]][[H3426\|יֵ֣שׁ]] [[H7919A\|מַשְׂכִּ֑יל]] [[H1875\|דֹּ֝רֵשׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.14.1|<< Psalms 14:1]]</td><td align="center" style="border:none;">[[Ps.14|Psalms 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14.3|Psalms 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

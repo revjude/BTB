@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Garments for the Priests
+type: Pericope
 pericope: "[[Exod.28.1 Garments for the Priests|Garments for the Priests]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 28
 book/chapter: "[[Exod.28|Exodus 28]]"
-genre:
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.28.1]]"
 - "[[Exod.28.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.28.5]]"
 ---
 
-[[Exod.28|Exodus 28:1 - Exodus 28:5]]
+<small>[[Exod.28|Exodus 28:1-5]]</small>
 *Garments for the Priests*
 
 [[Exod.28.1|1]] And take thou unto thee Aaron thy brother, and his sons with him, from among the children of Israel, that he may minister unto me in the priest’s office, \[even\] Aaron, Nadab and Abihu, Eleazar and Ithamar, Aaron’s sons.

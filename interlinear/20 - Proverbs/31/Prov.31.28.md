@@ -1,8 +1,53 @@
+---
+title: Proverbs 31:28
+type: Verse
+kjv: "Her children arise up, and call her blessed; her husband also, and he praiseth her."
+bsb: "Her children rise up and call her blessed; her husband praises her as well:"
+hebrew: "קָ֣מוּ בָ֭נֶיהָ וַֽיְאַשְּׁר֑וּהָ בַּ֝עְלָ֗הּ וַֽיְהַֽלְלָהּ׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H6965B]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H0833]]"
+- "[[H9034]]"
+- "[[H1167H]]"
+- "[[H1984B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:28**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her children arise up, and call her blessed; her husband [also], and he praiseth her.
 <small><sub>**BSB:**</sub></small>
 Her children rise up and call her blessed; her husband praises her as well:
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|קָ֣מוּ]] [[H1121A\|בָ֭נֶי]][[H9024\|הָ]] [[H9001\|וַֽ]][[H0833\|יְאַשְּׁר֑וּ]][[H9034\|הָ]] [[H1167H\|בַּ֝עְלָ֗]][[H9024\|הּ]] [[H9001\|וַֽ]][[H1984B\|יְהַֽלְלָ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic PARENTS|PARENTS]] • [[topic POETRY|POETRY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.27|<< Proverbs 31:27]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.29|Proverbs 31:29 >>]]</td></tr></table>
 

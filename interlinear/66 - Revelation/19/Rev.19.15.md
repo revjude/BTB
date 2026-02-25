@@ -1,10 +1,73 @@
+---
+title: Revelation 19:15
+type: Verse
+kjv: "And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God."
+bsb: "And from His mouth proceeds a sharp sword with which to strike down the nations, and He will rule them with an iron scepter. He treads the winepress of the fury of the wrath of God the Almighty."
+greek: "καὶ ἐκ τοῦ στόματος αὐτοῦ ἐκπορεύεται ῥομφαία δίστομος ὀξεῖα, ἵνα ἐν αὐτῇ πατάξῃ τὰ ἔθνη. καὶ αὐτὸς ποιμανεῖ αὐτοὺς ἐν ῥάβδῳ σιδηρᾷ καὶ αὐτὸς πατεῖ τὴν ληνὸν τοῦ οἴνου τοῦ θυμοῦ καὶ τῆς ὀργῆς τοῦ θεοῦ τοῦ παντοκράτορος."
+pericope: "[[Rev.19.11 The Rider on the White Horse|The Rider on the White Horse]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic IRON|IRON]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G0846]]"
+- "[[G1607]]"
+- "[[G4501]]"
+- "[[G1366]]"
+- "[[G3691]]"
+- "[[G2443]]"
+- "[[G1722]]"
+- "[[G3960]]"
+- "[[G1484]]"
+- "[[G4165]]"
+- "[[G4464]]"
+- "[[G4603]]"
+- "[[G3961]]"
+- "[[G3025]]"
+- "[[G3631]]"
+- "[[G2372]]"
+- "[[G3709]]"
+- "[[G2316]]"
+- "[[G3841]]"
+texts:
+- NKO
+- O
+- N(k)O
+- k
+---
+
 **Revelation 19:15**<big><big>[[Rev.19.11 The Rider on the White Horse|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And out of his mouth goeth a sharp sword, that with it he should smite the nations: and he shall rule them with a rod of iron: and he treadeth the winepress of the fierceness and wrath of Almighty God.
 <small><sub>**BSB:**</sub></small>
 And from His mouth proceeds a sharp sword with which to strike down the nations, and He will rule them with an iron scepter. He treads the winepress of the fury of the wrath of God the Almighty.
-<small><sub>**Literal:**</sub></small>
-And out of the mouth of Him goes forth a sword two-edged sharp, so that with it He may strike down the nations. and He himself will shepherd them with a rod of iron And He himself treads the press of the wine of the fury and of the wrath <the> of God the Almighty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.14|<< Revelation 19:14]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.16|Revelation 19:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G0846\|αὐτοῦ]]  [[G1607\|ἐκπορεύεται]]  [[G4501\|ῥομφαία]]  [[G1366\|δίστομος]]  [[G3691\|ὀξεῖα,]]  [[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G3960\|πατάξῃ]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη.]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G4165\|ποιμανεῖ]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G4464\|ῥάβδῳ]]  [[G4603\|σιδηρᾷ]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3961\|πατεῖ]]  [[G3588\|τὴν]]  [[G3025\|ληνὸν]]  [[G3588\|τοῦ]]  [[G3631\|οἴνου]]  [[G3588\|τοῦ]]  [[G2372\|θυμοῦ]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G3709\|ὀργῆς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G3841\|παντοκράτορος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic HORSE|HORSE]] • [[topic IRON|IRON]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.14|<< Revelation 19:14]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.16|Revelation 19:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 19:15** is...
 > $\quad$ alluding to: [[LXX.Ps.2.9|Ps 2:9]] ☩ [[LXX.Isa.63.3|Isa 63:3]] ☩ [[LXX.Lam.1.15|Lam 1:15]]

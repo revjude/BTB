@@ -1,8 +1,71 @@
+---
+title: Joel 2:19
+type: Verse
+kjv: "Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:"
+bsb: "And the LORD answered His people: “Behold, I will send you grain, new wine, and oil, and by them you will be satisfied. I will never again make you a reproach among the nations."
+hebrew: "וַיַּ֨עַן יְהוָ֜ה וַיֹּ֣אמֶר לְעַמּ֗וֹ הִנְנִ֨י שֹׁלֵ֤חַ לָכֶם֙ אֶת־ הַדָּגָן֙ וְהַתִּיר֣וֹשׁ וְהַיִּצְהָ֔ר וּשְׂבַעְתֶּ֖ם אֹת֑וֹ וְלֹא־ אֶתֵּ֨ן אֶתְכֶ֥ם ע֛וֹד חֶרְפָּ֖ה בַּגּוֹיִֽם׃"
+pericope: "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7971G]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1715]]"
+- "[[H9002]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H7646]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H5414I]]"
+- "[[H5750]]"
+- "[[H2781]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:19**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:
 <small><sub>**BSB:**</sub></small>
 And the LORD answered His people: “Behold, I will send you grain, new wine, and oil, and by them you will be satisfied. I will never again make you a reproach among the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H3068G\|יְהוָ֜ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H5971A\|עַמּ֗]][[H9023\|וֹ]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H7971G\|שֹׁלֵ֤חַ]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1715\|דָּגָן֙]] [[H9002\|וְ]][[H9009\|הַ]][[H8492\|תִּיר֣וֹשׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H3323\|יִּצְהָ֔ר]] [[H9001\|וּ]][[H7646\|שְׂבַעְתֶּ֖ם]] [[H0854\|אֹת֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5414I\|אֶתֵּ֨ן]] [[H0853\|אֶתְ]][[H9036\|כֶ֥ם]] [[H5750\|ע֛וֹד]] [[H2781\|חֶרְפָּ֖ה]] [[H9003\|בַּ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.18|<< Joel 2:18]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.20|Joel 2:20 >>]]</td></tr></table>
 

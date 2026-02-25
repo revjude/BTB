@@ -1,10 +1,50 @@
+---
+title: Romans 6:1
+type: Verse
+kjv: "What shall we say then? Shall we continue in sin, that grace may abound?"
+bsb: "What then shall we say? Shall we continue in sin so that grace may increase?"
+greek: "Τί οὖν ἐροῦμεν; ἐπιμένωμεν τῇ ἁμαρτίᾳ ἵνα ἡ χάρις πλεονάσῃ;"
+pericope: "[[Rom.6.1 Dead to Sin, Alive to God|Dead to Sin, Alive to God]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G4483]]"
+- "[[G1961]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G2443]]"
+- "[[G5485]]"
+- "[[G4121]]"
+texts:
+- NKO
+- N(k)(o)
+---
+
 **Romans 6:1**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What shall we say then? Shall we continue in sin, that grace may abound?
 <small><sub>**BSB:**</sub></small>
 What then shall we say? Shall we continue in sin so that grace may increase?
-<small><sub>**Literal:**</sub></small>
-What then will we say? Shall we continue <the> in sin that <the> grace may abound?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.21|<< Romans 5:21]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.2|Romans 6:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G3767\|οὖν]]  [[G4483\|ἐροῦμεν;]]  [[G1961\|ἐπιμένωμεν]]  [[G3588\|τῇ]]  [[G0266\|ἁμαρτίᾳ]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G5485\|χάρις]]  [[G4121\|πλεονάσῃ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.21|<< Romans 5:21]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.2|Romans 6:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

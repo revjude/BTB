@@ -1,11 +1,11 @@
 
 **EPHESUS**
 
-→ Paul visits and preaches in [[Acts.18.19|Ac 18:19]]-[[Acts.18.21|21]]; [[Acts.19|19]]; [[Acts.20.16|20:16]]-[[Acts.20.38|38]]
+→ Paul visits and preaches in [[Acts.18.19|Ac 18:19-21]]; [[Acts.19|19]]; [[Acts.20.16|20:16-38]]
 
-→ Apollos visits and preaches in [[Acts.18.18|Ac 18:18]]-[[Acts.18.28|28]]
+→ Apollos visits and preaches in [[Acts.18.18|Ac 18:18-28]]
 
-→ Sceva's sons attempt to expel a demon in [[Acts.19.13|Ac 19:13]]-[[Acts.19.16|16]]
+→ Sceva's sons attempt to expel a demon in [[Acts.19.13|Ac 19:13-16]]
 
 → Timothy directed by Paul to remain at [[1Tim.1.3|1Ti 1:3]]
 
@@ -15,7 +15,7 @@
 
 → The congregation at [[Rev.1.11|Re 1:11]]
 
-→ Apocalyptic message to [[Rev.2.1|Re 2:1]]-[[Rev.2.7|7]]
+→ Apocalyptic message to [[Rev.2.1|Re 2:1-7]]
 
 → See Paul's Epistle to the Ephesians [[Eph.1|Eph 1]]
 

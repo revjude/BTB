@@ -1,10 +1,78 @@
+---
+title: Acts 9:17
+type: Verse
+kjv: "And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, even Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost."
+bsb: "So Ananias went to the house, and when he arrived, he placed his hands on Saul. “Brother Saul,” he said, “the Lord Jesus, who appeared to you on the road as you were coming here, has sent me so that you may see again and be filled with the Holy Spirit.”"
+greek: "Ἀπῆλθεν δὲ Ἁνανίας καὶ εἰσῆλθεν εἰς τὴν οἰκίαν, καὶ ἐπιθεὶς ἐπ᾽ αὐτὸν τὰς χεῖρας εἶπεν· Σαοὺλ ἀδελφέ, ὁ κύριος ἀπέσταλκέν με, Ἰησοῦς ὁ ὀφθείς σοι ἐν τῇ ὁδῷ ᾗ ἤρχου, ὅπως ἀναβλέψῃς καὶ πλησθῇς πνεύματος ἁγίου."
+pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G0565]]"
+- "[[G1161]]"
+- "[[G0367H]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G2007]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G5495]]"
+- "[[G2036]]"
+- "[[G4549G]]"
+- "[[G0080]]"
+- "[[G2962G]]"
+- "[[G0649]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G3700]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3598]]"
+- "[[G3739]]"
+- "[[G2064]]"
+- "[[G3704]]"
+- "[[G0308]]"
+- "[[G4130]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **Acts 9:17**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Ananias went his way, and entered into the house; and putting his hands on him said, Brother Saul, the Lord, [even] Jesus, that appeared unto thee in the way as thou camest, hath sent me, that thou mightest receive thy sight, and be filled with the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 So Ananias went to the house, and when he arrived, he placed his hands on Saul. “Brother Saul,” he said, “the Lord Jesus, who appeared to you on the road as you were coming here, has sent me so that you may see again and be filled with the Holy Spirit.”
-<small><sub>**Literal:**</sub></small>
-Went away then Ananias and entered into the house, and having laid upon him the hands he said; Saul Brother, the Lord has sent me, Jesus the [One] having appeared to you on the road by which you were coming, that you may see again and you may be filled [of the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.16|<< Acts 9:16]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.18|Acts 9:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0565\|Ἀπῆλθεν]]  [[G1161\|δὲ]]  [[G0367H\|Ἁνανίας]]  [[G2532\|καὶ]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν,]]  [[G2532\|καὶ]]  [[G2007\|ἐπιθεὶς]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2036\|εἶπεν·]]  [[G4549G\|Σαοὺλ]]  [[G0080\|ἀδελφέ,]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G0649\|ἀπέσταλκέν]]  [[G3165\|με,]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G3700\|ὀφθείς]]  [[G4771\|σοι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ]]  [[G3739\|ᾗ]]  [[G2064\|ἤρχου,]]  [[G3704\|ὅπως]]  [[G0308\|ἀναβλέψῃς]]  [[G2532\|καὶ]]  [[G4130\|πλησθῇς]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic BROTHER|BROTHER]] • [[topic CONVERTS|CONVERTS]] • [[topic HEART|HEART]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic REGENERATION|REGENERATION]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.16|<< Acts 9:16]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.18|Acts 9:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

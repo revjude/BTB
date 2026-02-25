@@ -1,8 +1,47 @@
+---
+title: Zephaniah 2:1
+type: Verse
+kjv: "Gather yourselves together, yea, gather together, O nation not desired;"
+bsb: "Gather yourselves, gather together, O shameful nation,"
+hebrew: "הִֽתְקוֹשְׁשׁ֖וּ וָק֑וֹשּׁוּ הַגּ֖וֹי לֹ֥א נִכְסָֽף׃"
+pericope: "[[Zeph.2.1 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7197B]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H3808]]"
+- "[[H3700]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 2:1**<big><big>[[Zeph.2.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather yourselves together, yea, gather together, O nation not desired;
 <small><sub>**BSB:**</sub></small>
 Gather yourselves, gather together, O shameful nation,
+<small><sub>**Hebrew:**</sub></small>
+[[H7197B\|הִֽתְקוֹשְׁשׁ֖וּ]] [[H9002\|וָ]][[H7197B\|ק֑וֹשּׁוּ]] [[H9009\|הַ]][[H1471A\|גּ֖וֹי]] [[H3808\|לֹ֥א]] [[H3700\|נִכְסָֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.18|<< Zephaniah 1:18]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.2|Zephaniah 2:2 >>]]</td></tr></table>
 

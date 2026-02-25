@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 32:27
+type: Verse
+kjv: "Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, and lest they should say, Our hand is high, and the LORD hath not done all this."
+bsb: "if I had not dreaded the taunt of the enemy, lest their adversaries misunderstand and say: ‘Our own hand has prevailed; it was not the LORD who did all this.’”"
+hebrew: "לוּלֵ֗י כַּ֤עַס אוֹיֵב֙ אָג֔וּר פֶּֽן־ יְנַכְּר֖וּ צָרֵ֑ימוֹ פֶּן־ יֹֽאמְרוּ֙ יָדֵ֣ינוּ רָ֔מָה וְלֹ֥א יְהוָ֖ה פָּעַ֥ל כָּל־ זֹֽאת׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3884]]"
+- "[[H3708A]]"
+- "[[H0341]]"
+- "[[H1481C]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H5234B]]"
+- "[[H6862C]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H3027H]]"
+- "[[H9025]]"
+- "[[H7311A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3068G]]"
+- "[[H6466]]"
+- "[[H3605]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:27**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, [and] lest they should say, Our hand [is] high, and the LORD hath not done all this.
 <small><sub>**BSB:**</sub></small>
 if I had not dreaded the taunt of the enemy, lest their adversaries misunderstand and say: ‘Our own hand has prevailed; it was not the LORD who did all this.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3884\|לוּלֵ֗י]] [[H3708A\|כַּ֤עַס]] [[H0341\|אוֹיֵב֙]] [[H1481C\|אָג֔וּר]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H5234B\|יְנַכְּר֖וּ]] [[H6862C\|צָרֵ֑י]][[H9028\|מוֹ]] [[H6435\|פֶּן]][[H9014\|־]] [[H0559\|יֹֽאמְרוּ֙]] [[H3027H\|יָדֵ֣י]][[H9025\|נוּ]] [[H7311A\|רָ֔מָה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3068G\|יְהוָ֖ה]] [[H6466\|פָּעַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H2063\|זֹֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.26|<< Deuteronomy 32:26]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.28|Deuteronomy 32:28 >>]]</td></tr></table>
 

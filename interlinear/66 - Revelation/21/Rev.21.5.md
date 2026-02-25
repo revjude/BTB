@@ -1,10 +1,66 @@
+---
+title: Revelation 21:5
+type: Verse
+kjv: "And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful."
+bsb: "And the One seated on the throne said, “Behold, I make all things new.” Then He said, “Write this down, for these words are faithful and true.”"
+greek: "Καὶ εἶπεν ὁ καθήμενος ἐπὶ τῷ θρόνῳ· ἰδοὺ καινὰ ποιῶ πάντα. καὶ λέγει μοι· γράψον ὅτι οὗτοι οἱ λόγοι πιστοὶ καὶ ἀληθινοί εἰσιν."
+pericope: "[[Rev.21.1 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RESTORATION|RESTORATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G2362]]"
+- "[[G2400]]"
+- "[[G2537]]"
+- "[[G4160G]]"
+- "[[G3956]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G1125]]"
+- "[[G3754H]]"
+- "[[G3778]]"
+- "[[G3056]]"
+- "[[G4103]]"
+- "[[G0228]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+- KO
+---
+
 **Revelation 21:5**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.
 <small><sub>**BSB:**</sub></small>
 And the One seated on the throne said, “Behold, I make all things new.” Then He said, “Write this down, for these words are faithful and true.”
-<small><sub>**Literal:**</sub></small>
-And said the [One] sitting on the throne; Behold new I make all things. And He says to me: do write [this] because these the words faithful and true are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.4|<< Revelation 21:4]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.6|Revelation 21:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2521\|καθήμενος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G2362\|θρόνῳ·]]  [[G2400\|ἰδοὺ]]  [[G2537\|καινὰ]]  [[G4160G\|ποιῶ]]  [[G3956\|πάντα.]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3165\|μοι·]]  [[G1125\|γράψον]]  [[G3754H\|ὅτι]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G3056\|λόγοι]]  [[G4103\|πιστοὶ]]  [[G2532\|καὶ]]  [[G0228\|ἀληθινοί]]  [[G1510\|εἰσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RESTORATION|RESTORATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic THRONE|THRONE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.4|<< Revelation 21:4]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.6|Revelation 21:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:5** is...
 > $\quad$ alluding to: [[LXX.Isa.43.19|Isa 43:19]]

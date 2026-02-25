@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jonah’s Anger at the LORD’s Compassion
+type: Pericope
 pericope: "[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|Jonah’s Anger at the LORD’s Compassion]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Jonah
 chapter: 4
 book/chapter: "[[Jonah.4|Jonah 4]]"
-genre:
+chronological_order: 597
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
 - latter prophets
 - minor prophets
 - narrative
 - prophetic narrative
 - parable
+verse_count: 11
 verses:
 - "[[Jonah.4.1]]"
 - "[[Jonah.4.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Jonah.4.11]]"
 ---
 
-[[Jonah.4|Jonah 4:1 - Jonah 4:11]]
+<small>[[Jonah.4|Jonah 4:1-11]]</small>
 *Jonah’s Anger at the LORD’s Compassion*
 
 [[Jonah.4.1|1]] But it displeased Jonah exceedingly, and he was very angry.

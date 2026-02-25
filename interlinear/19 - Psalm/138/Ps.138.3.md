@@ -1,8 +1,57 @@
+---
+title: Psalm 138:3
+type: Verse
+kjv: "In the day when I cried thou answeredst me, and strengthenedst me with strength in my soul."
+bsb: "On the day I called, You answered me; You emboldened me and strengthened my soul."
+hebrew: "בְּי֣וֹם קָ֭רָֽאתִי וַֽתַּעֲנֵ֑נִי תַּרְהִבֵ֖נִי בְנַפְשִׁ֣י עֹֽז׃"
+pericope: "[[Ps.138.1 A Thankful Heart|A Thankful Heart]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 138
+book/chapter: "[[Ps.138|Psalm 138]]"
+chronological_order: 385
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7121G]]"
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H7292]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H5797]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 138:3**<big><big>[[Ps.138.1 A Thankful Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day when I cried thou answeredst me, [and] strengthenedst me [with] strength in my soul.
 <small><sub>**BSB:**</sub></small>
 On the day I called, You answered me; You emboldened me and strengthened my soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H7121G\|קָ֭רָֽאתִי]] [[H9001\|וַֽ]][[H6030B\|תַּעֲנֵ֑]][[H9030\|נִי]] [[H7292\|תַּרְהִבֵ֖]][[H9030\|נִי]] [[H9003\|בְ]][[H5315G\|נַפְשִׁ֣]][[H9020\|י]] [[H5797\|עֹֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.138.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.138.2|<< Psalms 138:2]]</td><td align="center" style="border:none;">[[Ps.138|Psalms 138]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.138.4|Psalms 138:4 >>]]</td></tr></table>
 

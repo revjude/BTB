@@ -1,8 +1,56 @@
+---
+title: Leviticus 13:1
+type: Verse
+kjv: "And the LORD spake unto Moses and Aaron, saying,"
+bsb: "Then the LORD said to Moses and Aaron,"
+hebrew: "וַיְדַבֵּ֣ר יְהוָ֔ה אֶל־ מֹשֶׁ֥ה וְאֶֽל־ אַהֲרֹ֖ן לֵאמֹֽר׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AARON|AARON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:1**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses and Aaron, saying,
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses and Aaron,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.8|<< Leviticus 12:8]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.2|Leviticus 13:2 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 8:6
+type: Verse
+kjv: "And these are the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba, and they removed them to Manahath:"
+bsb: "These were the descendants of Ehud who were the heads of the families living in Geba and were exiled to Manahath:"
+hebrew: "וְאֵ֖לֶּה בְּנֵ֣י אֵח֑וּד אֵ֣לֶּה הֵ֞ם רָאשֵׁ֤י אָבוֹת֙ לְי֣וֹשְׁבֵי גֶ֔בַע וַיַּגְל֖וּם אֶל־ מָנָֽחַת׃"
+pericope: "[[1Chr.8.1 Genealogy from Benjamin to Saul|Genealogy from Benjamin to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EHUD|EHUD]]"
+- "[[topic GEBA|GEBA]]"
+- "[[topic MANAHATH|MANAHATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H1121G]]"
+- "[[H0261]]"
+- "[[H1992]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H1387G]]"
+- "[[H9001]]"
+- "[[H1540K]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4506A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 8:6**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba, and they removed them to Manahath:
 <small><sub>**BSB:**</sub></small>
 These were the descendants of Ehud who were the heads of the families living in Geba and were exiled to Manahath:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֖לֶּה]] [[H1121G\|בְּנֵ֣י]] [[H0261\|אֵח֑וּד]] [[H0428\|אֵ֣לֶּה]] [[H1992\|הֵ֞ם]] [[H7218H\|רָאשֵׁ֤י]] [[H0001G\|אָבוֹת֙]] [[H9005\|לְ]][[H3427\|י֣וֹשְׁבֵי]] [[H1387G\|גֶ֔בַע]] [[H9001\|וַ]][[H1540K\|יַּגְל֖וּ]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4506A\|מָנָֽחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EHUD|EHUD]] • [[topic GEBA|GEBA]] • [[topic MANAHATH|MANAHATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.5|<< 1 Chronicles 8:5]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.7|1 Chronicles 8:7 >>]]</td></tr></table>
 

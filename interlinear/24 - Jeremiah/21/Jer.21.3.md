@@ -1,8 +1,52 @@
+---
+title: Jeremiah 21:3
+type: Verse
+kjv: "Then said Jeremiah unto them, Thus shall ye say to Zedekiah:"
+bsb: "But Jeremiah answered, “You are to tell Zedekiah that"
+hebrew: "וַיֹּ֥אמֶר יִרְמְיָ֖הוּ אֲלֵיהֶ֑ם כֹּ֥ה תֹאמְרֻ֖ן אֶל־ צִדְקִיָּֽהוּ׃"
+pericope: "[[Jer.21.1 Jerusalem Will Fall to Babylon|Jerusalem Will Fall to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3414L]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H9013]]"
+- "[[H9014]]"
+- "[[H6667H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 21:3**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Jeremiah unto them, Thus shall ye say to Zedekiah:
 <small><sub>**BSB:**</sub></small>
 But Jeremiah answered, “You are to tell Zedekiah that
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H0413\|אֲלֵי]][[H9038\|הֶ֑ם]] [[H3541\|כֹּ֥ה]] [[H0559\|תֹאמְרֻ֖]][[H9013\|ן]] [[H0413\|אֶל]][[H9014\|־]] [[H6667H\|צִדְקִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.2|<< Jeremiah 21:2]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.4|Jeremiah 21:4 >>]]</td></tr></table>
 

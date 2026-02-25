@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 9:9
+type: Verse
+kjv: "(Beforetime in Israel, when a man went to inquire of God, thus he spake, Come, and let us go to the seer: for he that is now called a Prophet was beforetime called a Seer.)"
+bsb: "(Formerly in Israel, a man on his way to inquire of God would say, “Come, let us go to the seer.” For the prophet of today was formerly called the seer.)"
+hebrew: "לְפָנִ֣ים׀ בְּיִשְׂרָאֵ֗ל כֹּֽה־ אָמַ֤ר הָאִישׁ֙ בְּלֶכְתּוֹ֙ לִדְר֣וֹשׁ אֱלֹהִ֔ים לְכ֥וּ וְנֵלְכָ֖ה עַד־ הָרֹאֶ֑ה כִּ֤י לַנָּבִיא֙ הַיּ֔וֹם יִקָּרֵ֥א לְפָנִ֖ים הָרֹאֶֽה׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H1980G]]"
+- "[[H9043]]"
+- "[[H1875]]"
+- "[[H0430G]]"
+- "[[H1980K]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H7203A]]"
+- "[[H3588A]]"
+- "[[H5030]]"
+- "[[H3117G]]"
+- "[[H7121H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:9**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (Beforetime in Israel, when a man went to inquire of God, thus he spake, Come, and let us go to the seer: for [he that is] now [called] a Prophet was beforetime called a Seer.)
 <small><sub>**BSB:**</sub></small>
 (Formerly in Israel, a man on his way to inquire of God would say, “Come, let us go to the seer.” For the prophet of today was formerly called the seer.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H6440G\|פָנִ֣ים]][[H9015\|׀]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֗ל]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H9003\|בְּ]][[H1980G\|לֶכְתּ]][[H9043\|וֹ֙]] [[H9005\|לִ]][[H1875\|דְר֣וֹשׁ]] [[H0430G\|אֱלֹהִ֔ים]] [[H1980K\|לְכ֥וּ]] [[H9002\|וְ]][[H1980G\|נֵלְכָ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H7203A\|רֹאֶ֑ה]] [[H3588A\|כִּ֤י]] [[H9005\|לַ]][[H5030\|נָּבִיא֙]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H7121H\|יִקָּרֵ֥א]] [[H9005\|לְ]][[H6440G\|פָנִ֖ים]] [[H9009\|הָ]][[H7203A\|רֹאֶֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.8|<< 1 Samuel 9:8]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.10|1 Samuel 9:10 >>]]</td></tr></table>
 

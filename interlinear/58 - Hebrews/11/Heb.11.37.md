@@ -1,10 +1,61 @@
+---
+title: Hebrews 11:37
+type: Verse
+kjv: "They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;"
+bsb: "They were stoned, they were sawed in two, they were put to death by the sword. They went around in sheepskins and goatskins, destitute, oppressed, and mistreated."
+greek: "ἐλιθάσθησαν, ἐπρίσθησαν, ἐπειράσθησαν, ἐν φόνῳ μαχαίρης ἀπέθανον· περιῆλθον ἐν μηλωταῖς, ἐν αἰγείοις δέρμασιν, ὑστερούμενοι, θλιβόμενοι, κακουχούμενοι,"
+pericope: "[[Heb.11.30 (Joshua–Malachi)|(Joshua–Malachi)]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SAW|SAW]]"
+- "[[topic STONING|STONING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3034]]"
+- "[[G4249]]"
+- "[[G3985H]]"
+- "[[G1722]]"
+- "[[G5408]]"
+- "[[G3162]]"
+- "[[G0599]]"
+- "[[G4022]]"
+- "[[G3374]]"
+- "[[G0122]]"
+- "[[G1192]]"
+- "[[G5302]]"
+- "[[G2346]]"
+- "[[G2558]]"
+texts:
+- NKO
+- KO
+---
+
 **Hebrews 11:37**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They were stoned, they were sawn asunder, were tempted, were slain with the sword: they wandered about in sheepskins and goatskins; being destitute, afflicted, tormented;
 <small><sub>**BSB:**</sub></small>
 They were stoned, they were sawed in two, they were put to death by the sword. They went around in sheepskins and goatskins, destitute, oppressed, and mistreated.
-<small><sub>**Literal:**</sub></small>
-They were stoned, they were sawed in two tested by slaughter of [the] sword they were killed; they wandered in sheepskins, in goats’ skins, being destitute, being oppressed, being mistreated,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.36|<< Hebrews 11:36]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.38|Hebrews 11:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3034\|ἐλιθάσθησαν,]]  [[G4249\|ἐπρίσθησαν,]]  [[G3985H\|ἐπειράσθησαν,]]  [[G1722\|ἐν]]  [[G5408\|φόνῳ]]  [[G3162\|μαχαίρης]]  [[G0599\|ἀπέθανον·]]  [[G4022\|περιῆλθον]]  [[G1722\|ἐν]]  [[G3374\|μηλωταῖς,]]  [[G1722\|ἐν]]  [[G0122\|αἰγείοις]]  [[G1192\|δέρμασιν,]]  [[G5302\|ὑστερούμενοι,]]  [[G2346\|θλιβόμενοι,]]  [[G2558\|κακουχούμενοι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PROPHETS|PROPHETS]] • [[topic SAW|SAW]] • [[topic STONING|STONING]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.36|<< Hebrews 11:36]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.38|Hebrews 11:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

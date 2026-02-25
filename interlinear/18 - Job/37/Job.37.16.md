@@ -1,8 +1,55 @@
+---
+title: Job 37:16
+type: Verse
+kjv: "Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?"
+bsb: "Do you understand how the clouds float, those wonders of Him who is perfect in knowledge?"
+hebrew: "הֲ֭תֵדַע עַל־ מִפְלְשֵׂי־ עָ֑ב מִ֝פְלְא֗וֹת תְּמִ֣ים דֵּעִֽים׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9008]]"
+- "[[H3045]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4657]]"
+- "[[H5645]]"
+- "[[H4652]]"
+- "[[H8549G]]"
+- "[[H1843]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:16**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?
 <small><sub>**BSB:**</sub></small>
 Do you understand how the clouds float, those wonders of Him who is perfect in knowledge?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ֭]][[H3045\|תֵדַע]] [[H5921A\|עַל]][[H9014\|־]] [[H4657\|מִפְלְשֵׂי]][[H9014\|־]] [[H5645\|עָ֑ב]] [[H4652\|מִ֝פְלְא֗וֹת]] [[H8549G\|תְּמִ֣ים]] [[H1843\|דֵּעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.15|<< Job 37:15]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.17|Job 37:17 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Proverbs 20:11
+type: Verse
+kjv: "Even a child is known by his doings, whether his work be pure, and whether it be right."
+bsb: "Even a young man is known by his actions—whether his conduct is pure and upright."
+hebrew: "גַּ֣ם בְּ֭מַעֲלָלָיו יִתְנַכֶּר־ נָ֑עַר אִם־ זַ֖ךְ וְאִם־ יָשָׁ֣ר פָּעֳלֽוֹ׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+strongs:
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H4611]]"
+- "[[H9023]]"
+- "[[H5234A]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H0518A]]"
+- "[[H2134]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H6467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:11**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even a child is known by his doings, whether his work [be] pure, and whether [it be] right.
 <small><sub>**BSB:**</sub></small>
 Even a young man is known by his actions—whether his conduct is pure and upright.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֣ם]] [[H9003\|בְּ֭]][[H4611\|מַעֲלָלָי]][[H9023\|ו]] [[H5234A\|יִתְנַכֶּר]][[H9014\|־]] [[H5288\|נָ֑עַר]] [[H0518A\|אִם]][[H9014\|־]] [[H2134\|זַ֖ךְ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3477G\|יָשָׁ֣ר]] [[H6467\|פָּעֳלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.10|<< Proverbs 20:10]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.12|Proverbs 20:12 >>]]</td></tr></table>
 

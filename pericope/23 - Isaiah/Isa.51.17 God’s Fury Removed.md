@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Fury Removed
+type: Pericope
 pericope: "[[Isa.51.17 God’s Fury Removed|God’s Fury Removed]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 51
 book/chapter: "[[Isa.51|Isaiah 51]]"
-genre:
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Isa.51.17]]"
 - "[[Isa.51.18]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Isa.51.23]]"
 ---
 
-[[Isa.51|Isaiah 51:17 - Isaiah 51:23]]
+<small>[[Isa.51|Isaiah 51:17-23]]</small>
 *God’s Fury Removed*
 
 [[Isa.51.17|17]] Awake, awake, stand up, O Jerusalem, which hast drunk at the hand of the LORD the cup of his fury; thou hast drunken the dregs of the cup of trembling, \[and\] wrung \[them\] out.

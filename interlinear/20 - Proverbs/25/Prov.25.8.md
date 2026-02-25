@@ -1,8 +1,63 @@
+---
+title: Proverbs 25:8
+type: Verse
+kjv: "Go not forth hastily to strive, lest thou know not what to do in the end thereof, when thy neighbour hath put thee to shame."
+bsb: "do not bring hastily to court. Otherwise, what will you do in the end when your neighbor puts you to shame?"
+hebrew: "אַל־ תֵּצֵ֥א לָרִ֗ב מַ֫הֵ֥ר פֶּ֣ן מַה־ תַּ֭עֲשֶׂה בְּאַחֲרִיתָ֑הּ בְּהַכְלִ֖ים אֹתְךָ֣ רֵעֶֽךָ׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADJUDICATION AT LAW|ADJUDICATION AT LAW]]"
+- "[[topic COMPROMISE|COMPROMISE]]"
+- "[[topic LAWSUITS|LAWSUITS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3318H]]"
+- "[[H9005]]"
+- "[[H7378]]"
+- "[[H4118B]]"
+- "[[H6435]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H0319]]"
+- "[[H9024]]"
+- "[[H3637]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H7453]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:8**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go not forth hastily to strive, lest [thou know not] what to do in the end thereof, when thy neighbour hath put thee to shame.
 <small><sub>**BSB:**</sub></small>
 do not bring hastily to court. Otherwise, what will you do in the end when your neighbor puts you to shame?
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3318H\|תֵּצֵ֥א]] [[H9005\|לָ]][[H7378\|רִ֗ב]] [[H4118B\|מַ֫הֵ֥ר]] [[H6435\|פֶּ֣ן]] [[H4100\|מַה]][[H9014\|־]] [[H6213A\|תַּ֭עֲשֶׂה]] [[H9003\|בְּ]][[H0319\|אַחֲרִיתָ֑]][[H9024\|הּ]] [[H9003\|בְּ]][[H3637\|הַכְלִ֖ים]] [[H0853\|אֹתְ]][[H9031\|ךָ֣]] [[H7453\|רֵעֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADJUDICATION AT LAW|ADJUDICATION AT LAW]] • [[topic COMPROMISE|COMPROMISE]] • [[topic LAWSUITS|LAWSUITS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RASHNESS|RASHNESS]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.7|<< Proverbs 25:7]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.9|Proverbs 25:9 >>]]</td></tr></table>
 

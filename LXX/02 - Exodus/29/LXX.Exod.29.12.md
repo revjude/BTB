@@ -1,6 +1,70 @@
+---
+title: LXX Exodus 29:12
+type: Verse
+lxx: "And you shall take from the blood of the calf, and put it upon the horns of the altar with your finger. And all the remaining blood you shall discharge by the base of the altar."
+greek: "και λήψη από του αίματος του μόσχου και θήσεις επί των κεράτων του θυσιαστηρίου τω δακτύλω σου το δε λοιπόν παν αίμα εκχεείς παρά την βάσιν του θυσιαστηρίου"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0129]]"
+- "[[G3588]]"
+- "[[G3448]]"
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2768]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G3588]]"
+- "[[G1147]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3062]]"
+- "[[G3956]]"
+- "[[G0129]]"
+- "[[G1632]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G0939]]"
+- "[[G3588]]"
+- "[[G2379]]"
+---
+
 **LXX Exodus 29:12** 
 <small><sub>**LXX:**</sub></small>
 And you shall take from the blood of the calf, and put \[it\] upon the horns of the altar with your finger. And all the remaining blood you shall discharge by the base of the altar. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2983\|λήψη]] [[G0575\|από]] [[G3588\|του]] [[G0129\|αίματος]] [[G3588\|του]] [[G3448\|μόσχου]] [[G2532\|και]] [[G5087\|θήσεις]] [[G1909\|επί]] [[G3588\|των]] [[G2768\|κεράτων]] [[G3588\|του]] [[G2379\|θυσιαστηρίου]] [[G3588\|τω]] [[G1147\|δακτύλω]] [[G1473\|σου]] [[G3588\|το]] [[G1161\|δε]] [[G3062\|λοιπόν]] [[G3956\|παν]] [[G0129\|αίμα]] [[G1632\|εκχεείς]] [[G3844\|παρά]] [[G3588\|την]] [[G0939\|βάσιν]] [[G3588\|του]] [[G2379\|θυσιαστηρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic BULLOCK|BULLOCK]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.11|<< Exodus 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.13|Exodus 29:13 >>]]</td></tr></table>
 
@@ -33,6 +97,6 @@ And you shall take from the blood of the calf, and put \[it\] upon the horns of 
 | base | **<big>[[G0939\|βάσιν]]</big>** |
 | of the | **<big>[[G3588\|του]]</big>** |
 | altar. | **<big>[[G2379\|θυσιαστηρίου]]</big>** |
-[[Exod.29.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.11|<< Exodus 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.13|Exodus 29:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.29.11|<< Exodus 29:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.29.13|Exodus 29:13 >>]]</td></tr></table>
 
 

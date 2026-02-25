@@ -1,10 +1,64 @@
+---
+title: Philippians 1:7
+type: Verse
+kjv: "Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace."
+bsb: "It is right for me to feel this way about all of you, since I have you in my heart. For in my chains and in my defense and confirmation of the gospel, you are all partners in grace with me."
+greek: "καθώς ἐστιν δίκαιον ἐμοὶ τοῦτο φρονεῖν ὑπὲρ πάντων ὑμῶν διὰ τὸ ἔχειν με ἐν τῇ καρδίᾳ ὑμᾶς, ἔν τε τοῖς δεσμοῖς μου καὶ ἐν τῇ ἀπολογίᾳ καὶ βεβαιώσει τοῦ εὐαγγελίου συγκοινωνούς μου τῆς χάριτος πάντας ὑμᾶς ὄντας.¶"
+pericope: "[[Phil.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2531]]"
+- "[[G1510]]"
+- "[[G1342]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G5426]]"
+- "[[G5228]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G5037]]"
+- "[[G1199]]"
+- "[[G2532]]"
+- "[[G0627]]"
+- "[[G0951]]"
+- "[[G2098]]"
+- "[[G4791]]"
+- "[[G5485]]"
+texts:
+- NKO
+---
+
 **Philippians 1:7**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace.
 <small><sub>**BSB:**</sub></small>
 It is right for me to feel this way about all of you, since I have you in my heart. For in my chains and in my defense and confirmation of the gospel, you are all partners in grace with me.
-<small><sub>**Literal:**</sub></small>
-Even as it is right for me myself this to feel about all of you since <the> having I in the heart you, in both the chains of mine and in the defense and in confirmation of the gospel fellow partakers with me <the> of grace all you are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.6|<< Philippians 1:6]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.8|Philippians 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθώς]]  [[G1510\|ἐστιν]]  [[G1342\|δίκαιον]]  [[G1473\|ἐμοὶ]]  [[G3778\|τοῦτο]]  [[G5426\|φρονεῖν]]  [[G5228\|ὑπὲρ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G2192\|ἔχειν]]  [[G3165\|με]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G4771\|ὑμᾶς,]]  [[G1722\|ἔν]]  [[G5037\|τε]]  [[G3588\|τοῖς]]  [[G1199\|δεσμοῖς]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0627\|ἀπολογίᾳ]]  [[G2532\|καὶ]]  [[G0951\|βεβαιώσει]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]  [[G4791\|συγκοινωνούς]]  [[G3165\|μου]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G3956\|πάντας]]  [[G4771\|ὑμᾶς]]  [[G1510\|ὄντας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.6|<< Philippians 1:6]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.8|Philippians 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

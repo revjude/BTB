@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 17:1
+type: Verse
+kjv: "Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which belongeth to Judah, and pitched between Shochoh and Azekah, in Ephesdammim."
+bsb: "Now the Philistines gathered their forces for war at Socoh in Judah, and they camped between Socoh and Azekah in Ephes-dammim."
+hebrew: "וַיַּאַסְפ֨וּ פְלִשְׁתִּ֤ים אֶת־ מַֽחֲנֵיהֶם֙ לַמִּלְחָמָ֔ה וַיֵּאָ֣סְפ֔וּ שֹׂכֹ֖ה אֲשֶׁ֣ר לִיהוּדָ֑ה וַֽיַּחֲנ֛וּ בֵּין־ שׂוֹכֹ֥ה וּבֵין־ עֲזֵקָ֖ה בְּאֶ֥פֶס דַּמִּֽים׃"
+pericope: "[[1Sam.17.1 Goliath’s Challenge|Goliath’s Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AZEKAH|AZEKAH]]"
+- "[[topic EPHES-DAMMIN|EPHES-DAMMIN]]"
+- "[[topic PAS-DAMMIM|PAS-DAMMIM]]"
+- "[[topic SOCOH|SOCOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H6430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H7755G]]"
+- "[[H0834A]]"
+- "[[H3063G]]"
+- "[[H2583]]"
+- "[[H0996G]]"
+- "[[H9002]]"
+- "[[H5825]]"
+- "[[H9003]]"
+- "[[H0658]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:1**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the Philistines gathered together their armies to battle, and were gathered together at Shochoh, which [belongeth] to Judah, and pitched between Shochoh and Azekah, in Ephesdammim.
 <small><sub>**BSB:**</sub></small>
 Now the Philistines gathered their forces for war at Socoh in Judah, and they camped between Socoh and Azekah in Ephes-dammim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יַּאַסְפ֨וּ]] [[H6430G\|פְלִשְׁתִּ֤ים]] [[H0853\|אֶת]][[H9014\|־]] [[H4264\|מַֽחֲנֵי]][[H9028\|הֶם֙]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H9001\|וַ]][[H0622\|יֵּאָ֣סְפ֔וּ]] [[H7755G\|שֹׂכֹ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לִ]][[H3063G\|יהוּדָ֑ה]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֛וּ]] [[H0996G\|בֵּין]][[H9014\|־]] [[H7755G\|שׂוֹכֹ֥ה]] [[H9002\|וּ]][[H0996G\|בֵין]][[H9014\|־]] [[H5825\|עֲזֵקָ֖ה]] [[H9003\|בְּ]][[H0658\|אֶ֥פֶס]] [[H0658\|דַּמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZEKAH|AZEKAH]] • [[topic EPHES-DAMMIN|EPHES-DAMMIN]] • [[topic PAS-DAMMIM|PAS-DAMMIM]] • [[topic SOCOH|SOCOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.23|<< 1 Samuel 16:23]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.2|1 Samuel 17:2 >>]]</td></tr></table>
 

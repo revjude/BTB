@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Inheritance East of the Jordan
+type: Pericope
 pericope: "[[Josh.13.8 The Inheritance East of the Jordan|The Inheritance East of the Jordan]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 13
 book/chapter: "[[Josh.13|Joshua 13]]"
-genre:
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 7
 verses:
 - "[[Josh.13.8]]"
 - "[[Josh.13.9]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Josh.13.14]]"
 ---
 
-[[Josh.13|Joshua 13:8 - Joshua 13:14]]
+<small>[[Josh.13|Joshua 13:8-14]]</small>
 *The Inheritance East of the Jordan*
 
 [[Josh.13.8|8]] With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, \[even\] as Moses the servant of the LORD gave them;

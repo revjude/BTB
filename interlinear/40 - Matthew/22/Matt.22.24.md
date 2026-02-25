@@ -1,10 +1,64 @@
+---
+title: Matthew 22:24
+type: Verse
+kjv: "Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother."
+bsb: "“Teacher,” they said, “Moses declared that if a man dies without having children, his brother is to marry the widow and raise up offspring for him."
+greek: "λέγοντες· διδάσκαλε, Μωϋσῆς εἶπεν· ἐάν τις ἀποθάνῃ μὴ ἔχων τέκνα, ἐπιγαμβρεύσει ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα αὐτοῦ καὶ ἀναστήσει σπέρμα τῷ ἀδελφῷ αὐτοῦ."
+pericope: "[[Matt.22.23 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G3475]]"
+- "[[G2036]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G0599]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G5043]]"
+- "[[G1918]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G1135H]]"
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G4690G]]"
+texts:
+- NKO
+---
+
 **Matthew 22:24**<big><big>[[Matt.22.23 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.
 <small><sub>**BSB:**</sub></small>
 “Teacher,” they said, “Moses declared that if a man dies without having children, his brother is to marry the widow and raise up offspring for him.
-<small><sub>**Literal:**</sub></small>
-saying; Teacher, Moses said; If anyone shall die not having children, will marry the brother of him the wife of him and he will raise up offspring for the brother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.23|<< Matthew 22:23]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.25|Matthew 22:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγοντες·]]  [[G1320\|διδάσκαλε,]]  [[G3475\|Μωϋσῆς]]  [[G2036\|εἶπεν·]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G0599\|ἀποθάνῃ]]  [[G3361\|μὴ]]  [[G2192\|ἔχων]]  [[G5043\|τέκνα,]]  [[G1918\|ἐπιγαμβρεύσει]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0450\|ἀναστήσει]]  [[G4690G\|σπέρμα]]  [[G3588\|τῷ]]  [[G0080\|ἀδελφῷ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.23|<< Matthew 22:23]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.25|Matthew 22:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 22:24** is...
 > $\quad$ referencing: [[LXX.Gen.38.8|Gen 38:8]]

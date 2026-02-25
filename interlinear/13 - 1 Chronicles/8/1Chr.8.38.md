@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 8:38
+type: Verse
+kjv: "And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these were the sons of Azel."
+bsb: "Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel."
+hebrew: "וּלְאָצֵל֮ שִׁשָּׁ֣ה בָנִים֒ וְאֵ֣לֶּה שְׁמוֹתָ֗ם עַזְרִיקָ֥ם׀ בֹּ֙כְרוּ֙ וְיִשְׁמָעֵ֣אל וּשְׁעַרְיָ֔ה וְעֹבַדְיָ֖ה וְחָנָ֑ן כָּל־ אֵ֖לֶּה בְּנֵ֥י אָצַֽל׃"
+pericope: "[[1Chr.8.33 The Family of Saul|The Family of Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AZEL|AZEL]]"
+- "[[topic AZRIKAM|AZRIKAM]]"
+- "[[topic BOCHERU|BOCHERU]]"
+- "[[topic HANAN|HANAN]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic OBADIAH|OBADIAH]]"
+- "[[topic SHEARIAH|SHEARIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0682A]]"
+- "[[H8337]]"
+- "[[H1121A]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H9028]]"
+- "[[H5840H]]"
+- "[[H9015]]"
+- "[[H1074]]"
+- "[[H3458I]]"
+- "[[H8187]]"
+- "[[H5662J]]"
+- "[[H2605H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 8:38**<big><big>[[1Chr.8.33 The Family of Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Azel had six sons, whose names [are] these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these [were] the sons of Azel.
 <small><sub>**BSB:**</sub></small>
 Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H0682A\|אָצֵל֮]] [[H8337\|שִׁשָּׁ֣ה]] [[H1121A\|בָנִים֒]] [[H9002\|וְ]][[H0428\|אֵ֣לֶּה]] [[H8034\|שְׁמוֹתָ֗]][[H9028\|ם]] [[H5840H\|עַזְרִיקָ֥ם]][[H9015\|׀]] [[H1074\|בֹּ֙כְרוּ֙]] [[H9002\|וְ]][[H3458I\|יִשְׁמָעֵ֣אל]] [[H9002\|וּ]][[H8187\|שְׁעַרְיָ֔ה]] [[H9002\|וְ]][[H5662J\|עֹבַדְיָ֖ה]] [[H9002\|וְ]][[H2605H\|חָנָ֑ן]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֖לֶּה]] [[H1121A\|בְּנֵ֥י]] [[H0682A\|אָצַֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZEL|AZEL]] • [[topic AZRIKAM|AZRIKAM]] • [[topic BOCHERU|BOCHERU]] • [[topic HANAN|HANAN]] • [[topic ISHMAEL|ISHMAEL]] • [[topic OBADIAH|OBADIAH]] • [[topic SHEARIAH|SHEARIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.37|<< 1 Chronicles 8:37]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.39|1 Chronicles 8:39 >>]]</td></tr></table>
 

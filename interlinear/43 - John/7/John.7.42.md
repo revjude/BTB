@@ -1,10 +1,58 @@
+---
+title: John 7:42
+type: Verse
+kjv: "Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?"
+bsb: "Doesn’t the Scripture say that the Christ will come from the line of David and from Bethlehem, the village where David lived?”"
+greek: "οὐχ ἡ γραφὴ εἶπεν ὅτι ἐκ τοῦ σπέρματος Δαυὶδ καὶ ἀπὸ Βηθλέεμ τῆς κώμης ὅπου ἦν Δαυὶδ ἔρχεται ὁ χριστός;¶"
+pericope: "[[John.7.40 Division over Jesus|Division over Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G4690G]]"
+- "[[G1138]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G0965]]"
+- "[[G2968]]"
+- "[[G3699]]"
+- "[[G1510]]"
+- "[[G2064]]"
+- "[[G5547]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **John 7:42**<big><big>[[John.7.40 Division over Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?
 <small><sub>**BSB:**</sub></small>
 Doesn’t the Scripture say that the Christ will come from the line of David and from Bethlehem, the village where David lived?”
-<small><sub>**Literal:**</sub></small>
-Surely the Scripture has said that out of the seed of David and from Bethlehem the village where was David comes the Christ<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.41|<< John 7:41]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.43|John 7:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐχ]]  [[G3588\|ἡ]]  [[G1124\|γραφὴ]]  [[G2036\|εἶπεν]]  [[G3754G\|ὅτι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4690G\|σπέρματος]]  [[G1138\|Δαυὶδ]]  [[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G0965\|Βηθλέεμ]]  [[G3588\|τῆς]]  [[G2968\|κώμης]]  [[G3699\|ὅπου]]  [[G1510\|ἦν]]  [[G1138\|Δαυὶδ]]  [[G2064\|ἔρχεται]]  [[G3588\|ὁ]]  [[G5547\|χριστός;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.41|<< John 7:41]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.43|John 7:43 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 7:42** is...
 > $\quad$ referencing: [[LXX.Ps.89.4|Ps 89:4]]

@@ -1,8 +1,71 @@
+---
+title: Isaiah 58:13
+type: Verse
+kjv: "If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the LORD, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking thine own words:"
+bsb: "If you turn your foot from breaking the Sabbath, from doing as you please on My holy day, if you call the Sabbath a delight, and the LORD’s holy day honorable, if you honor it by not going your own way or seeking your own pleasure or speaking idle words,"
+hebrew: "אִם־ תָּשִׁ֤יב מִשַּׁבָּת֙ רַגְלֶ֔ךָ עֲשׂ֥וֹת חֲפָצֶ֖יךָ בְּי֣וֹם קָדְשִׁ֑י וְקָרָ֨אתָ לַשַּׁבָּ֜ת עֹ֗נֶג לִקְד֤וֹשׁ יְהוָה֙ מְכֻבָּ֔ד וְכִבַּדְתּוֹ֙ מֵעֲשׂ֣וֹת דְּרָכֶ֔יךָ מִמְּצ֥וֹא חֶפְצְךָ֖ וְדַבֵּ֥ר דָּבָֽר׃"
+pericope: "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7725O]]"
+- "[[H9006]]"
+- "[[H7676]]"
+- "[[H7272]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H2656]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H6027]]"
+- "[[H6918G]]"
+- "[[H3068G]]"
+- "[[H3513G]]"
+- "[[H9033]]"
+- "[[H1870G]]"
+- "[[H4672]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 58:13**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou turn away thy foot from the sabbath, [from] doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the LORD, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking [thine own] words:
 <small><sub>**BSB:**</sub></small>
 If you turn your foot from breaking the Sabbath, from doing as you please on My holy day, if you call the Sabbath a delight, and the LORD’s holy day honorable, if you honor it by not going your own way or seeking your own pleasure or speaking idle words,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7725O\|תָּשִׁ֤יב]] [[H9006\|מִ]][[H7676\|שַּׁבָּת֙]] [[H7272\|רַגְלֶ֔]][[H9021\|ךָ]] [[H6213A\|עֲשׂ֥וֹת]] [[H2656\|חֲפָצֶ֖י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H6944G\|קָדְשִׁ֑]][[H9020\|י]] [[H9001\|וְ]][[H7121H\|קָרָ֨אתָ]] [[H9005\|לַ]][[H7676\|שַּׁבָּ֜ת]] [[H6027\|עֹ֗נֶג]] [[H9005\|לִ]][[H6918G\|קְד֤וֹשׁ]] [[H3068G\|יְהוָה֙]] [[H3513G\|מְכֻבָּ֔ד]] [[H9001\|וְ]][[H3513G\|כִבַּדְתּ]][[H9033\|וֹ֙]] [[H9006\|מֵ]][[H6213A\|עֲשׂ֣וֹת]] [[H1870G\|דְּרָכֶ֔י]][[H9021\|ךָ]] [[H9006\|מִ]][[H4672\|מְּצ֥וֹא]] [[H2656\|חֶפְצְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H1696G\|דַבֵּ֥ר]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NEIGHBOR|NEIGHBOR]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.12|<< Isaiah 58:12]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.14|Isaiah 58:14 >>]]</td></tr></table>
 

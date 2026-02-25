@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Wisdom Is Better than Strength
+type: Pericope
 pericope: "[[Eccl.9.13 Wisdom Is Better than Strength|Wisdom Is Better than Strength]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 9
 book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
-genre:
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 6
 verses:
 - "[[Eccl.9.13]]"
 - "[[Eccl.9.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Eccl.9.18]]"
 ---
 
-[[Eccl.9|Ecclesiastes 9:13 - Ecclesiastes 9:18]]
+<small>[[Eccl.9|Ecclesiastes 9:13-18]]</small>
 *Wisdom Is Better than Strength*
 
 [[Eccl.9.13|13]] This wisdom have I seen also under the sun, and it \[seemed\] great unto me:

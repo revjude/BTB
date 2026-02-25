@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 28:5
+type: Verse
+kjv: "And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel."
+bsb: "And of all my sons—for the LORD has given me many sons—He has chosen Solomon my son to sit on the throne of the kingdom of the LORD over Israel."
+hebrew: "וּמִכָּ֨ל־ בָּנַ֔י כִּ֚י רַבִּ֣ים בָּנִ֔ים נָ֥תַן לִ֖י יְהוָ֑ה וַיִּבְחַר֙ בִּשְׁלֹמֹ֣ה בְנִ֔י לָשֶׁ֗בֶת עַל־ כִּסֵּ֛א מַלְכ֥וּת יְהוָ֖ה עַל־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Chr.28.1 David Commissions Solomon|David Commissions Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H8010]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H4438]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:5**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel.
 <small><sub>**BSB:**</sub></small>
 And of all my sons—for the LORD has given me many sons—He has chosen Solomon my son to sit on the throne of the kingdom of the LORD over Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H3605\|כָּ֨ל]][[H9014\|־]] [[H1121A\|בָּנַ֔]][[H9020\|י]] [[H3588A\|כִּ֚י]] [[H7227A\|רַבִּ֣ים]] [[H1121A\|בָּנִ֔ים]] [[H5414G\|נָ֥תַן]] [[H9005\|לִ֖]][[H9030\|י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H0977\|יִּבְחַר֙]] [[H9003\|בִּ]][[H8010\|שְׁלֹמֹ֣ה]] [[H1121A\|בְנִ֔]][[H9020\|י]] [[H9005\|לָ]][[H3427\|שֶׁ֗בֶת]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֛א]] [[H4438\|מַלְכ֥וּת]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.4|<< 1 Chronicles 28:4]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.6|1 Chronicles 28:6 >>]]</td></tr></table>
 

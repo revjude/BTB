@@ -1,10 +1,66 @@
+---
+title: Acts 15:20
+type: Verse
+kjv: "But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood."
+bsb: "Instead, we should write and tell them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals, and from blood."
+greek: "ἀλλ᾽ ἐπιστεῖλαι αὐτοῖς τοῦ ἀπέχεσθαι ἀπὸ τῶν ἀλισγημάτων τῶν εἰδώλων καὶ τῆς πορνείας καὶ τοῦ πνικτοῦ καὶ τοῦ αἵματος."
+pericope: "[[Acts.15.5 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic LAW|LAW]]"
+- "[[topic STRANGLED|STRANGLED]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G1989]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0568]]"
+- "[[G0575]]"
+- "[[G0234]]"
+- "[[G1497]]"
+- "[[G2532]]"
+- "[[G4202]]"
+- "[[G4156]]"
+- "[[G0129G]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 15:20**<big><big>[[Acts.15.5 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But that we write unto them, that they abstain from pollutions of idols, and [from] fornication, and [from] things strangled, and [from] blood.
 <small><sub>**BSB:**</sub></small>
 Instead, we should write and tell them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals, and from blood.
-<small><sub>**Literal:**</sub></small>
-but to write to them <the> to abstain from from the pollutions of the idols and <the> sexual immorality and that which is strangled and <the> from blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.19|<< Acts 15:19]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.21|Acts 15:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G1989\|ἐπιστεῖλαι]]  [[G0846\|αὐτοῖς]]  [[G3588\|τοῦ]]  [[G0568\|ἀπέχεσθαι]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0234\|ἀλισγημάτων]]  [[G3588\|τῶν]]  [[G1497\|εἰδώλων]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G4202\|πορνείας]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G4156\|πνικτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G0129G\|αἵματος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BLOOD|BLOOD]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHASTITY|CHASTITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic GENTILES|GENTILES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JAMES|JAMES]] • [[topic LAW|LAW]] • [[topic STRANGLED|STRANGLED]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.19|<< Acts 15:19]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.21|Acts 15:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

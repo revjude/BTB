@@ -1,8 +1,66 @@
+---
+title: Jeremiah 51:39
+type: Verse
+kjv: "In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a perpetual sleep, and not wake, saith the LORD."
+bsb: "While they are flushed with heat, I will serve them a feast, and I will make them drunk so that they may revel; then they will fall asleep forever and never wake up, declares the LORD."
+hebrew: "בְּחֻמָּ֞ם אָשִׁ֣ית אֶת־ מִשְׁתֵּיהֶ֗ם וְהִשְׁכַּרְתִּים֙ לְמַ֣עַן יַעֲלֹ֔זוּ וְיָשְׁנ֥וּ שְׁנַת־ עוֹלָ֖ם וְלֹ֣א יָקִ֑יצוּ נְאֻ֖ם יְהוָֽה׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9003]]"
+- "[[H2552]]"
+- "[[H9048]]"
+- "[[H7896G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4960]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H7937]]"
+- "[[H9038]]"
+- "[[H4616]]"
+- "[[H5937]]"
+- "[[H3462]]"
+- "[[H8142]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6974]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:39**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a perpetual sleep, and not wake, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 While they are flushed with heat, I will serve them a feast, and I will make them drunk so that they may revel; then they will fall asleep forever and never wake up, declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2552\|חֻמָּ֞]][[H9048\|ם]] [[H7896G\|אָשִׁ֣ית]] [[H0853\|אֶת]][[H9014\|־]] [[H4960\|מִשְׁתֵּי]][[H9028\|הֶ֗ם]] [[H9001\|וְ]][[H7937\|הִשְׁכַּרְתִּי]][[H9038\|ם֙]] [[H4616\|לְמַ֣עַן]] [[H5937\|יַעֲלֹ֔זוּ]] [[H9001\|וְ]][[H3462\|יָשְׁנ֥וּ]] [[H8142\|שְׁנַת]][[H9014\|־]] [[H5769G\|עוֹלָ֖ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6974\|יָקִ֑יצוּ]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.38|<< Jeremiah 51:38]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.40|Jeremiah 51:40 >>]]</td></tr></table>
 

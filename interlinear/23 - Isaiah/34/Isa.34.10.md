@@ -1,8 +1,62 @@
+---
+title: Isaiah 34:10
+type: Verse
+kjv: "It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever."
+bsb: "It will not be quenched—day or night. Its smoke will ascend forever. From generation to generation it will lie desolate; no one will ever again pass through it."
+hebrew: "לַ֤יְלָה וְיוֹמָם֙ לֹ֣א תִכְבֶּ֔ה לְעוֹלָ֖ם יַעֲלֶ֣ה עֲשָׁנָ֑הּ מִדּ֤וֹר לָדוֹר֙ תֶּחֱרָ֔ב לְנֵ֣צַח נְצָחִ֔ים אֵ֥ין עֹבֵ֖ר בָּֽהּ׃"
+pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H3119]]"
+- "[[H3808]]"
+- "[[H3518]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H5927G]]"
+- "[[H6227]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H1755]]"
+- "[[H2717B]]"
+- "[[H5331]]"
+- "[[H0369]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 34:10**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It shall not be quenched night nor day; the smoke thereof shall go up for ever: from generation to generation it shall lie waste; none shall pass through it for ever and ever.
 <small><sub>**BSB:**</sub></small>
 It will not be quenched—day or night. Its smoke will ascend forever. From generation to generation it will lie desolate; no one will ever again pass through it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3915\|לַ֤יְלָה]] [[H9002\|וְ]][[H3119\|יוֹמָם֙]] [[H3808\|לֹ֣א]] [[H3518\|תִכְבֶּ֔ה]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H5927G\|יַעֲלֶ֣ה]] [[H6227\|עֲשָׁנָ֑]][[H9024\|הּ]] [[H9006\|מִ]][[H1755\|דּ֤וֹר]] [[H9005\|לָ]][[H1755\|דוֹר֙]] [[H2717B\|תֶּחֱרָ֔ב]] [[H9005\|לְ]][[H5331\|נֵ֣צַח]] [[H5331\|נְצָחִ֔ים]] [[H0369\|אֵ֥ין]] [[H5674A\|עֹבֵ֖ר]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PUNISHMENT|PUNISHMENT]] • [[topic VOLCANOES|VOLCANOES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.9|<< Isaiah 34:9]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.11|Isaiah 34:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

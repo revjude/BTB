@@ -1,8 +1,54 @@
+---
+title: Psalm 105:32
+type: Verse
+kjv: "He gave them hail for rain, and flaming fire in their land."
+bsb: "He gave them hail for rain, with lightning throughout their land."
+hebrew: "נָתַ֣ן גִּשְׁמֵיהֶ֣ם בָּרָ֑ד אֵ֖שׁ לֶהָב֣וֹת בְּאַרְצָֽם׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HAIL|HAIL]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H5414G]]"
+- "[[H1653]]"
+- "[[H9028]]"
+- "[[H1259]]"
+- "[[H0784]]"
+- "[[H3852]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:32**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He gave them hail for rain, [and] flaming fire in their land.
 <small><sub>**BSB:**</sub></small>
 He gave them hail for rain, with lightning throughout their land.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|נָתַ֣ן]] [[H1653\|גִּשְׁמֵי]][[H9028\|הֶ֣ם]] [[H1259\|בָּרָ֑ד]] [[H0784\|אֵ֖שׁ]] [[H3852\|לֶהָב֣וֹת]] [[H9003\|בְּ]][[H0776G\|אַרְצָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HAIL|HAIL]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.31|<< Psalms 105:31]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.33|Psalms 105:33 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Psalm 77:2
+type: Verse
+kjv: "In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted."
+bsb: "In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted."
+hebrew: "בְּי֥וֹם צָרָתִי֮ אֲדֹנָ֪י דָּ֫רָ֥שְׁתִּי יָדִ֤י׀ לַ֣יְלָה נִ֭גְּרָה וְלֹ֣א תָפ֑וּג מֵאֲנָ֖ה הִנָּחֵ֣ם נַפְשִֽׁי׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6869B]]"
+- "[[H9020]]"
+- "[[H0136]]"
+- "[[H1875]]"
+- "[[H3027G]]"
+- "[[H9015]]"
+- "[[H3915]]"
+- "[[H5064]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6313]]"
+- "[[H3985]]"
+- "[[H5162G]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 77:2**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the day of my trouble I sought the Lord: my sore ran in the night, and ceased not: my soul refused to be comforted.
 <small><sub>**BSB:**</sub></small>
 In the day of trouble I sought the Lord; through the night my outstretched hands did not grow weary; my soul refused to be comforted.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H6869B\|צָרָתִ]][[H9020\|י֮]] [[H0136\|אֲדֹנָ֪י]] [[H1875\|דָּ֫רָ֥שְׁתִּי]] [[H3027G\|יָדִ֤]][[H9020\|י]][[H9015\|׀]] [[H3915\|לַ֣יְלָה]] [[H5064\|נִ֭גְּרָה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6313\|תָפ֑וּג]] [[H3985\|מֵאֲנָ֖ה]] [[H5162G\|הִנָּחֵ֣ם]] [[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.1|<< Psalms 77:1]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.3|Psalms 77:3 >>]]</td></tr></table>
 

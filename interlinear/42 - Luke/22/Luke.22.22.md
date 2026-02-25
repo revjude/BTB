@@ -1,10 +1,61 @@
+---
+title: Luke 22:22
+type: Verse
+kjv: "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!"
+bsb: "Indeed, the Son of Man will go as it has been determined, but woe to that man who betrays Him.”"
+jesus_said: "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!"
+greek: "ὅτι ὁ υἱὸς μὲν τοῦ ἀνθρώπου κατὰ τὸ ὡρισμένον πορεύεται· πλὴν οὐαὶ τῷ ἀνθρώπῳ ἐκείνῳ δι᾽ οὗ παραδίδοται."
+pericope: "[[Luke.22.14 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic TRAITOR|TRAITOR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3303]]"
+- "[[G0444]]"
+- "[[G2596]]"
+- "[[G3724]]"
+- "[[G4198]]"
+- "[[G4133]]"
+- "[[G3759]]"
+- "[[G1565]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G3860]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Luke 22:22**<big><big>[[Luke.22.14 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!
 <small><sub>**BSB:**</sub></small>
 Indeed, the Son of Man will go as it has been determined, but woe to that man who betrays Him.”
-<small><sub>**Literal:**</sub></small>
-For the Son indeed <the> of man according to that determined goes; but woe to the man that [one] through whom He is betrayed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.21|<< Luke 22:21]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.23|Luke 22:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3303\|μὲν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G3724\|ὡρισμένον]]  [[G4198\|πορεύεται·]]  [[G4133\|πλὴν]]  [[G3759\|οὐαὶ]]  [[G3588\|τῷ]]  [[G0444\|ἀνθρώπῳ]]  [[G1565\|ἐκείνῳ]]  [[G1223\|δι᾽]]  [[G3739\|οὗ]]  [[G3860\|παραδίδοται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic TRAITOR|TRAITOR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.21|<< Luke 22:21]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.23|Luke 22:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

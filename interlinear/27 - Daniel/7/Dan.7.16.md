@@ -1,8 +1,63 @@
+---
+title: Daniel 7:16
+type: Verse
+kjv: "I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things."
+bsb: "I approached one of those who were standing there, and I asked him the true meaning of all this. So he told me the interpretation of these things:"
+aramaic: "קִרְבֵ֗ת עַל־ חַד֙ מִן־ קָ֣אֲמַיָּ֔א וְיַצִּיבָ֥א אֶבְעֵֽא־ מִנֵּ֖הּ עַֽל־ כָּל־ דְּנָ֑ה וַאֲמַר־ לִ֕י וּפְשַׁ֥ר מִלַּיָּ֖א יְהוֹדְעִנַּֽנִי׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H7127]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H2298]]"
+- "[[H4481]]"
+- "[[H6966I]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H3330]]"
+- "[[H1156]]"
+- "[[H9033]]"
+- "[[H3606]]"
+- "[[H1836]]"
+- "[[H0560]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6591]]"
+- "[[H4406]]"
+- "[[H3046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:16**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things.
 <small><sub>**BSB:**</sub></small>
 I approached one of those who were standing there, and I asked him the true meaning of all this. So he told me the interpretation of these things:
+<small><sub>**Aramaic:**</sub></small>
+[[H7127\|קִרְבֵ֗ת]] [[H5922\|עַל]][[H9014\|־]] [[H2298\|חַד֙]] [[H4481\|מִן]][[H9014\|־]] [[H6966I\|קָ֣אֲמַיָּ֔]][[H9010\|א]] [[H9002\|וְ]][[H3330\|יַצִּיבָ֥]][[H9010\|א]] [[H1156\|אֶבְעֵֽא]][[H9014\|־]] [[H4481\|מִנֵּ֖]][[H9033\|הּ]] [[H5922\|עַֽל]][[H9014\|־]] [[H3606\|כָּל]][[H9014\|־]] [[H1836\|דְּנָ֑ה]] [[H9002\|וַ]][[H0560\|אֲמַר]][[H9014\|־]] [[H9005\|לִ֕]][[H9030\|י]] [[H9002\|וּ]][[H6591\|פְשַׁ֥ר]] [[H4406\|מִלַּיָּ֖]][[H9010\|א]] [[H3046\|יְהוֹדְעִנַּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]] • [[topic PROPHETS|PROPHETS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.15|<< Daniel 7:15]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.17|Daniel 7:17 >>]]</td></tr></table>
 

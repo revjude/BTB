@@ -1,10 +1,57 @@
+---
+title: Acts 8:40
+type: Verse
+kjv: "But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea."
+bsb: "But Philip appeared at Azotus and traveled through that region, preaching the gospel in all the towns until he came to Caesarea."
+greek: "Φίλιππος δὲ εὑρέθη εἰς Ἄζωτον, καὶ διερχόμενος εὐηγγελίζετο τὰς πόλεις πάσας ἕως τοῦ ἐλθεῖν αὐτὸν εἰς Καισάρειαν.¶"
+pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ASHDOD|ASHDOD]]"
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5376J]]"
+- "[[G1161]]"
+- "[[G2147]]"
+- "[[G1519]]"
+- "[[G0108]]"
+- "[[G2532]]"
+- "[[G1330]]"
+- "[[G2097]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3956]]"
+- "[[G2193]]"
+- "[[G2064]]"
+- "[[G0846]]"
+- "[[G2542H]]"
+texts:
+- NKO
+---
+
 **Acts 8:40**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea.
 <small><sub>**BSB:**</sub></small>
 But Philip appeared at Azotus and traveled through that region, preaching the gospel in all the towns until he came to Caesarea.
-<small><sub>**Literal:**</sub></small>
-Philip however was found at Azotus, and passing through he was evangelising to the towns all until <the> coming of him to Caesarea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.39|<< Acts 8:39]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.1|Acts 9:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5376J\|Φίλιππος]]  [[G1161\|δὲ]]  [[G2147\|εὑρέθη]]  [[G1519\|εἰς]]  [[G0108\|Ἄζωτον,]]  [[G2532\|καὶ]]  [[G1330\|διερχόμενος]]  [[G2097\|εὐηγγελίζετο]]  [[G3588\|τὰς]]  [[G4172\|πόλεις]]  [[G3956\|πάσας]]  [[G2193\|ἕως]]  [[G3588\|τοῦ]]  [[G2064\|ἐλθεῖν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G2542H\|Καισάρειαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHDOD|ASHDOD]] • [[topic CAESAREA|CAESAREA]] • [[topic PHILIP|PHILIP]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.39|<< Acts 8:39]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.1|Acts 9:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

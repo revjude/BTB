@@ -1,8 +1,63 @@
+---
+title: Leviticus 25:43
+type: Verse
+kjv: "Thou shalt not rule over him with rigour; but shalt fear thy God."
+bsb: "You are not to rule over them harshly, but you shall fear your God."
+hebrew: "לֹא־ תִרְדֶּ֥ה ב֖וֹ בְּפָ֑רֶךְ וְיָרֵ֖אתָ מֵאֱלֹהֶֽיךָ׃"
+pericope: "[[Lev.25.39 Redemption of Bondmen|Redemption of Bondmen]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7287A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H6531]]"
+- "[[H9001]]"
+- "[[H3372H]]"
+- "[[H9006]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:43**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not rule over him with rigour; but shalt fear thy God.
 <small><sub>**BSB:**</sub></small>
 You are not to rule over them harshly, but you shall fear your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H7287A\|תִרְדֶּ֥ה]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H6531\|פָ֑רֶךְ]] [[H9001\|וְ]][[H3372H\|יָרֵ֖אתָ]] [[H9006\|מֵ]][[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic JUBILEE|JUBILEE]] • [[topic MASTER|MASTER]] • [[topic POOR|POOR]] • [[topic REVERENCE|REVERENCE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.42|<< Leviticus 25:42]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.44|Leviticus 25:44 >>]]</td></tr></table>
 

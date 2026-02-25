@@ -1,8 +1,70 @@
+---
+title: Joshua 17:11
+type: Verse
+kjv: "And Manasseh had in Issachar and in Asher Bethshean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of Endor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, even three countries."
+bsb: "Within Issachar and Asher, Manasseh was assigned Beth-shean, Ibleam, Dor (that is, Naphath), Endor, Taanach, and Megiddo, each with their surrounding settlements."
+hebrew: "וַיְהִ֨י לִמְנַשֶּׁ֜ה בְּיִשָּׂשכָ֣ר וּבְאָשֵׁ֗ר בֵּית־ שְׁאָ֣ן וּ֠בְנוֹתֶיהָ וְיִבְלְעָ֨ם וּבְנוֹתֶ֜יהָ וְֽאֶת־ יֹשְׁבֵ֧י דֹ֣אר וּבְנוֹתֶ֗יהָ וְיֹשְׁבֵ֤י עֵֽין־ דֹּר֙ וּבְנֹתֶ֔יהָ וְיֹשְׁבֵ֤י תַעְנַךְ֙ וּבְנֹתֶ֔יהָ וְיֹשְׁבֵ֥י מְגִדּ֖וֹ וּבְנוֹתֶ֑יהָ שְׁלֹ֖שֶׁת הַנָּֽפֶת׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BETH-SHEAN|BETH-SHEAN]]"
+- "[[topic BILEAM|BILEAM]]"
+- "[[topic DOR|DOR]]"
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic IBLEAM|IBLEAM]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic MEGIDDO|MEGIDDO]]"
+- "[[topic TAANACH|TAANACH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H4519G]]"
+- "[[H9003]]"
+- "[[H3485G]]"
+- "[[H9002]]"
+- "[[H0836]]"
+- "[[H1052]]"
+- "[[H9014]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H2991]]"
+- "[[H0853]]"
+- "[[H3427]]"
+- "[[H1756G]]"
+- "[[H5874]]"
+- "[[H8590]]"
+- "[[H4023]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H5316G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:11**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Manasseh had in Issachar and in Asher Bethshean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of Endor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, [even] three countries.
 <small><sub>**BSB:**</sub></small>
 Within Issachar and Asher, Manasseh was assigned Beth-shean, Ibleam, Dor (that is, Naphath), Endor, Taanach, and Megiddo, each with their surrounding settlements.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H9005\|לִ]][[H4519G\|מְנַשֶּׁ֜ה]] [[H9003\|בְּ]][[H3485G\|יִשָּׂשכָ֣ר]] [[H9002\|וּ]][[H9003\|בְ]][[H0836\|אָשֵׁ֗ר]] [[H1052\|בֵּית]][[H9014\|־]] [[H1052\|שְׁאָ֣ן]] [[H9002\|וּ֠]][[H1323H\|בְנוֹתֶי]][[H9024\|הָ]] [[H9002\|וְ]][[H2991\|יִבְלְעָ֨ם]] [[H9002\|וּ]][[H1323H\|בְנוֹתֶ֜י]][[H9024\|הָ]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֧י]] [[H1756G\|דֹ֣אר]] [[H9002\|וּ]][[H1323H\|בְנוֹתֶ֗י]][[H9024\|הָ]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֤י]] [[H5874\|עֵֽין]][[H9014\|־]] [[H5874\|דֹּר֙]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֤י]] [[H8590\|תַעְנַךְ֙]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֥י]] [[H4023\|מְגִדּ֖וֹ]] [[H9002\|וּ]][[H1323H\|בְנוֹתֶ֑י]][[H9024\|הָ]] [[H7969\|שְׁלֹ֖שֶׁת]] [[H9009\|הַ]][[H5316G\|נָּֽפֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-SHEAN|BETH-SHEAN]] • [[topic BILEAM|BILEAM]] • [[topic DOR|DOR]] • [[topic EN-DOR|EN-DOR]] • [[topic IBLEAM|IBLEAM]] • [[topic MANASSEH|MANASSEH]] • [[topic MEGIDDO|MEGIDDO]] • [[topic TAANACH|TAANACH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.10|<< Joshua 17:10]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.12|Joshua 17:12 >>]]</td></tr></table>
 

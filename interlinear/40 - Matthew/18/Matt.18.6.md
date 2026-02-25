@@ -1,10 +1,71 @@
+---
+title: Matthew 18:6
+type: Verse
+kjv: "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea."
+bsb: "But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be drowned in the depths of the sea."
+jesus_said: "But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and that he were drowned in the depth of the sea."
+greek: "ὃς δ᾽ ἂν σκανδαλίσῃ ἕνα τῶν μικρῶν τούτων τῶν πιστευόντων εἰς ἐμέ, συμφέρει αὐτῷ ἵνα κρεμασθῇ μύλος ὀνικὸς περὶ τὸν τράχηλον αὐτοῦ, καὶ καταποντισθῇ ἐν τῷ πελάγει τῆς θαλάσσης.¶"
+pericope: "[[Matt.18.6 Temptations and Trespasses|Temptations and Trespasses]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BABES|BABES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLSTONE|MILLSTONE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G4624]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3398]]"
+- "[[G3778]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G1473]]"
+- "[[G4851]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G2910]]"
+- "[[G3458]]"
+- "[[G3684]]"
+- "[[G4012]]"
+- "[[G5137]]"
+- "[[G2532]]"
+- "[[G2670]]"
+- "[[G1722]]"
+- "[[G3989]]"
+- "[[G2281]]"
+texts:
+- NKO
+- N(k)(o)
+---
+
 **Matthew 18:6**<big><big>[[Matt.18.6 Temptations and Trespasses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and [that] he were drowned in the depth of the sea.
 <small><sub>**BSB:**</sub></small>
 But if anyone causes one of these little ones who believe in Me to stumble, it would be better for him to have a large millstone hung around his neck and to be drowned in the depths of the sea.
-<small><sub>**Literal:**</sub></small>
-Who[ever] then maybe may cause to stumble one of the little ones of these who are believing in Me myself, it is better for him that may be hung a millstone heavy around the neck of him, and he may be sunk in the depth of the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.5|<< Matthew 18:5]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.7|Matthew 18:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G4624\|σκανδαλίσῃ]]  [[G1520\|ἕνα]]  [[G3588\|τῶν]]  [[G3398\|μικρῶν]]  [[G3778\|τούτων]]  [[G3588\|τῶν]]  [[G4100\|πιστευόντων]]  [[G1519\|εἰς]]  [[G1473\|ἐμέ,]]  [[G4851\|συμφέρει]]  [[G0846\|αὐτῷ]]  [[G2443\|ἵνα]]  [[G2910\|κρεμασθῇ]]  [[G3458\|μύλος]]  [[G3684\|ὀνικὸς]]  [[G4012\|περὶ]]  [[G3588\|τὸν]]  [[G5137\|τράχηλον]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G2670\|καταποντισθῇ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3989\|πελάγει]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABES|BABES]] • [[topic CHILDREN|CHILDREN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLSTONE|MILLSTONE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.5|<< Matthew 18:5]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.7|Matthew 18:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

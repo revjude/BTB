@@ -1,10 +1,59 @@
+---
+title: John 20:11
+type: Verse
+kjv: "But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre,"
+bsb: "But Mary stood outside the tomb weeping. And as she wept, she bent down to look into the tomb,"
+greek: "Μαρία δὲ εἱστήκει πρὸς τῷ μνημείῳ ἔξω κλαίουσα. ὡς οὖν ἔκλαιεν, παρέκυψεν εἰς τὸ μνημεῖον,"
+pericope: "[[John.20.10 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic WEEPING|WEEPING]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3137I]]"
+- "[[G1161]]"
+- "[[G2476]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3419]]"
+- "[[G1854]]"
+- "[[G2799]]"
+- "[[G5613]]"
+- "[[G3767]]"
+- "[[G3879]]"
+- "[[G1519]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 20:11**<big><big>[[John.20.10 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, [and looked] into the sepulchre,
 <small><sub>**BSB:**</sub></small>
 But Mary stood outside the tomb weeping. And as she wept, she bent down to look into the tomb,
-<small><sub>**Literal:**</sub></small>
-Mary however had stood at the tomb outside weeping. As therefore she was weeping, she stooped down into the tomb,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.10|<< John 20:10]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.12|John 20:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3137I\|Μαρία]]  [[G1161\|δὲ]]  [[G2476\|εἱστήκει]]  [[G4314\|πρὸς]]  [[G3588\|τῷ]]  [[G3419\|μνημείῳ]]  [[G1854\|ἔξω]]  [[G2799\|κλαίουσα.]]  [[G5613\|ὡς]]  [[G3767\|οὖν]]  [[G2799\|ἔκλαιεν,]]  [[G3879\|παρέκυψεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic TROUBLE|TROUBLE]] • [[topic WEEPING|WEEPING]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.10|<< John 20:10]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.12|John 20:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

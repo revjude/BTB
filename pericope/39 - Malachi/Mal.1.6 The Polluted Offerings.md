@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Polluted Offerings
+type: Pericope
 pericope: "[[Mal.1.6 The Polluted Offerings|The Polluted Offerings]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Malachi
 chapter: 1
 book/chapter: "[[Mal.1|Malachi 1]]"
-genre:
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
 - dialogue
+verse_count: 9
 verses:
 - "[[Mal.1.6]]"
 - "[[Mal.1.7]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Mal.1.14]]"
 ---
 
-[[Mal.1|Malachi 1:6 - Malachi 1:14]]
+<small>[[Mal.1|Malachi 1:6-14]]</small>
 *The Polluted Offerings*
 
 [[Mal.1.6|6]] A son honoureth \[his\] father, and a servant his master: if then I \[be\] a father, where \[is\] mine honour? and if I \[be\] a master, where \[is\] my fear? saith the LORD of hosts unto you, O priests, that despise my name. And ye say, Wherein have we despised thy name?

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Victory at Makkedah
+type: Pericope
 pericope: "[[Josh.10.16 The Victory at Makkedah|The Victory at Makkedah]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 10
 book/chapter: "[[Josh.10|Joshua 10]]"
-genre:
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 13
 verses:
 - "[[Josh.10.16]]"
 - "[[Josh.10.17]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Josh.10.28]]"
 ---
 
-[[Josh.10|Joshua 10:16 - Joshua 10:28]]
+<small>[[Josh.10|Joshua 10:16-28]]</small>
 *The Victory at Makkedah*
 
 [[Josh.10.16|16]] But these five kings fled, and hid themselves in a cave at Makkedah.

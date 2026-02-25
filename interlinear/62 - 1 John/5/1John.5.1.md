@@ -1,10 +1,57 @@
+---
+title: 1 John 5:1
+type: Verse
+kjv: "Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him."
+bsb: "Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves those born of Him."
+greek: "Πᾶς ὁ πιστεύων ὅτι Ἰησοῦς ἐστιν ὁ Χριστὸς ἐκ τοῦ θεοῦ γεγέννηται, καὶ πᾶς ὁ ἀγαπῶν τὸν γεννήσαντα ἀγαπᾷ καὶ τὸν γεγεννημένον ἐξ αὐτοῦ."
+pericope: "[[1John.5.1 Overcoming the World|Overcoming the World]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G1080]]"
+- "[[G2532]]"
+- "[[G0025]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **1 John 5:1**<big><big>[[1John.5.1 Overcoming the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.
 <small><sub>**BSB:**</sub></small>
 Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves those born of Him.
-<small><sub>**Literal:**</sub></small>
-Everyone who is believing that Jesus is the Christ of <the> God has been born, and everyone who is loving the [One] having begotten [Him] loves also the [one] begotten from Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.21|<< 1 John 4:21]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.2|1 John 5:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|Πᾶς]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5547\|Χριστὸς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1080\|γεγέννηται,]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G0025\|ἀγαπῶν]]  [[G3588\|τὸν]]  [[G1080\|γεννήσαντα]]  [[G0025\|ἀγαπᾷ]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G1080\|γεγεννημένον]]  [[G1537\|ἐξ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.21|<< 1 John 4:21]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.2|1 John 5:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

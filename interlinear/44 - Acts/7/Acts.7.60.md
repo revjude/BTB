@@ -1,10 +1,64 @@
+---
+title: Acts 7:60
+type: Verse
+kjv: "And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep."
+bsb: "Falling on his knees, he cried out in a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep."
+greek: "θεὶς δὲ τὰ γόνατα ἔκραξεν φωνῇ μεγάλῃ· κύριε, μὴ στήσῃς αὐτοῖς ταύτην τὴν ἁμαρτίαν. καὶ τοῦτο εἰπὼν ἐκοιμήθη."
+pericope: "[[Acts.7.54 The Stoning of Stephen|The Stoning of Stephen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic STEPHEN|STEPHEN]]"
+strongs:
+- "[[G5087]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1119]]"
+- "[[G2896]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G2962G]]"
+- "[[G3361]]"
+- "[[G2476]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G0266]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2837]]"
+texts:
+- NKO
+---
+
 **Acts 7:60**<big><big>[[Acts.7.54 The Stoning of Stephen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he kneeled down, and cried with a loud voice, Lord, lay not this sin to their charge. And when he had said this, he fell asleep.
 <small><sub>**BSB:**</sub></small>
 Falling on his knees, he cried out in a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep.
-<small><sub>**Literal:**</sub></small>
-Having fallen then <the> on [his] knees he cried in a voice loud; Lord, not may place to them this <the> sin. And this having said he fell asleep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.59|<< Acts 7:59]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.1|Acts 8:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5087\|θεὶς]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G1119\|γόνατα]]  [[G2896\|ἔκραξεν]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ·]]  [[G2962G\|κύριε,]]  [[G3361\|μὴ]]  [[G2476\|στήσῃς]]  [[G0846\|αὐτοῖς]]  [[G3778\|ταύτην]]  [[G3588\|τὴν]]  [[G0266\|ἁμαρτίαν.]]  [[G2532\|καὶ]]  [[G3778\|τοῦτο]]  [[G2036\|εἰπὼν]]  [[G2837\|ἐκοιμήθη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic ENEMY|ENEMY]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic RESIGNATION|RESIGNATION]] • [[topic STEPHEN|STEPHEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.59|<< Acts 7:59]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.1|Acts 8:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

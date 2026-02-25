@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Golden Calf
+type: Pericope
 pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
-verse_count: 35
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 32
 book/chapter: "[[Exod.32|Exodus 32]]"
-genre:
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 35
 verses:
 - "[[Exod.32.1]]"
 - "[[Exod.32.2]]"
@@ -58,7 +65,7 @@ verses:
 - "[[Exod.32.35]]"
 ---
 
-[[Exod.32|Exodus 32:1 - Exodus 32:35]]
+<small>[[Exod.32|Exodus 32:1-35]]</small>
 *The Golden Calf*
 
 [[Exod.32.1|1]] And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for \[as for\] this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.

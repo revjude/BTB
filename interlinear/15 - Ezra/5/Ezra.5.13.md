@@ -1,8 +1,61 @@
+---
+title: Ezra 5:13
+type: Verse
+kjv: "But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God."
+bsb: "In the first year of his reign, however, Cyrus king of Babylon issued a decree to rebuild this house of God."
+aramaic: "בְּרַם֙ בִּשְׁנַ֣ת חֲדָ֔ה לְכ֥וֹרֶשׁ מַלְכָּ֖א דִּ֣י בָבֶ֑ל כּ֤וֹרֶשׁ מַלְכָּא֙ שָׂ֣ם טְעֵ֔ם בֵּית־ אֱלָהָ֥א דְנָ֖ה לִבְּנֵֽא׃"
+pericope: "[[Ezra.5.6 Tattenai’s Letter to Darius|Tattenai’s Letter to Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 5
+book/chapter: "[[Ezra.5|Ezra 5]]"
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H1297]]"
+- "[[H9003]]"
+- "[[H8140]]"
+- "[[H2298]]"
+- "[[H9005]]"
+- "[[H3567]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H0895]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H1005]]"
+- "[[H9014]]"
+- "[[H0426]]"
+- "[[H1836]]"
+- "[[H1124]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 5:13**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in the first year of Cyrus the king of Babylon [the same] king Cyrus made a decree to build this house of God.
 <small><sub>**BSB:**</sub></small>
 In the first year of his reign, however, Cyrus king of Babylon issued a decree to rebuild this house of God.
+<small><sub>**Aramaic:**</sub></small>
+[[H1297\|בְּרַם֙]] [[H9003\|בִּ]][[H8140\|שְׁנַ֣ת]] [[H2298\|חֲדָ֔ה]] [[H9005\|לְ]][[H3567\|כ֥וֹרֶשׁ]] [[H4430\|מַלְכָּ֖]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H0895\|בָבֶ֑ל]] [[H3567\|כּ֤וֹרֶשׁ]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H7761G\|שָׂ֣ם]] [[H2942\|טְעֵ֔ם]] [[H1005\|בֵּית]][[H9014\|־]] [[H0426\|אֱלָהָ֥]][[H9010\|א]] [[H1836\|דְנָ֖ה]] [[H9005\|לִ]][[H1124\|בְּנֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYRUS|CYRUS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PERSIA|PERSIA]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.12|<< Ezra 5:12]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.14|Ezra 5:14 >>]]</td></tr></table>
 

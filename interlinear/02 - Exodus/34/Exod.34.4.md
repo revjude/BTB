@@ -1,8 +1,72 @@
+---
+title: Exodus 34:4
+type: Verse
+kjv: "And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone."
+bsb: "So Moses chiseled out two stone tablets like the originals. He rose early in the morning, and taking the two stone tablets in his hands, he went up Mount Sinai as the LORD had commanded him."
+hebrew: "וַיִּפְסֹ֡ל שְׁנֵֽי־ לֻחֹ֨ת אֲבָנִ֜ים כָּרִאשֹׁנִ֗ים וַיַּשְׁכֵּ֨ם מֹשֶׁ֤ה בַבֹּ֙קֶר֙ וַיַּ֙עַל֙ אֶל־ הַ֣ר סִינַ֔י כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֹת֑וֹ וַיִּקַּ֣ח בְּיָד֔וֹ שְׁנֵ֖י לֻחֹ֥ת אֲבָנִֽים׃"
+pericope: "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6458]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H3871]]"
+- "[[H0068G]]"
+- "[[H9004]]"
+- "[[H7223G]]"
+- "[[H7925]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3947G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:4**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone.
 <small><sub>**BSB:**</sub></small>
 So Moses chiseled out two stone tablets like the originals. He rose early in the morning, and taking the two stone tablets in his hands, he went up Mount Sinai as the LORD had commanded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6458\|יִּפְסֹ֡ל]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H3871\|לֻחֹ֨ת]] [[H0068G\|אֲבָנִ֜ים]] [[H9004\|כָּ]][[H7223G\|רִאשֹׁנִ֗ים]] [[H9001\|וַ]][[H7925\|יַּשְׁכֵּ֨ם]] [[H4872\|מֹשֶׁ֤ה]] [[H9003\|בַ]][[H1242\|בֹּ֙קֶר֙]] [[H9001\|וַ]][[H5927G\|יַּ֙עַל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַ֣ר]] [[H5514G\|סִינַ֔י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H9003\|בְּ]][[H3027G\|יָד֔]][[H9023\|וֹ]] [[H8147\|שְׁנֵ֖י]] [[H3871\|לֻחֹ֥ת]] [[H0068G\|אֲבָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic SINAI|SINAI]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.3|<< Exodus 34:3]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.5|Exodus 34:5 >>]]</td></tr></table>
 

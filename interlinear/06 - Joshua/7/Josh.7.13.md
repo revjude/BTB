@@ -1,8 +1,79 @@
+---
+title: Joshua 7:13
+type: Verse
+kjv: "Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the LORD God of Israel, There is an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among you."
+bsb: "Get up and consecrate the people, saying, ‘Consecrate yourselves for tomorrow, for this is what the LORD, the God of Israel, says: Among you, O Israel, there are things devoted to destruction. You cannot stand against your enemies until you remove them."
+hebrew: "קֻ֚ם קַדֵּ֣שׁ אֶת־ הָעָ֔ם וְאָמַרְתָּ֖ הִתְקַדְּשׁ֣וּ לְמָחָ֑ר כִּ֣י כֹה֩ אָמַ֨ר יְהוָ֜ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל חֵ֤רֶם בְּקִרְבְּךָ֙ יִשְׂרָאֵ֔ל לֹ֣א תוּכַ֗ל לָקוּם֙ לִפְנֵ֣י אֹיְבֶ֔יךָ עַד־ הֲסִירְכֶ֥ם הַחֵ֖רֶם מִֽקִּרְבְּכֶֽם׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMERGENCY|EMERGENCY]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H6965B]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4279]]"
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H2764A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H6965I]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H5704]]"
+- "[[H5493G]]"
+- "[[H9046]]"
+- "[[H9006]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:13**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the LORD God of Israel, [There is] an accursed thing in the midst of thee, O Israel: thou canst not stand before thine enemies, until ye take away the accursed thing from among you.
 <small><sub>**BSB:**</sub></small>
 Get up and consecrate the people, saying, ‘Consecrate yourselves for tomorrow, for this is what the LORD, the God of Israel, says: Among you, O Israel, there are things devoted to destruction. You cannot stand against your enemies until you remove them.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|קֻ֚ם]] [[H6942G\|קַדֵּ֣שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H6942G\|הִתְקַדְּשׁ֣וּ]] [[H9005\|לְ]][[H4279\|מָחָ֑ר]] [[H3588A\|כִּ֣י]] [[H3541\|כֹה֩]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H2764A\|חֵ֤רֶם]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9021\|ךָ֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3808\|לֹ֣א]] [[H3201\|תוּכַ֗ל]] [[H9005\|לָ]][[H6965I\|קוּם֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0341\|אֹיְבֶ֔י]][[H9021\|ךָ]] [[H5704\|עַד]][[H9014\|־]] [[H5493G\|הֲסִירְ]][[H9046\|כֶ֥ם]] [[H9009\|הַ]][[H2764A\|חֵ֖רֶם]] [[H9006\|מִֽ]][[H7130G\|קִּרְבְּ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic COMMUNION|COMMUNION]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EMERGENCY|EMERGENCY]] • [[topic HOLINESS|HOLINESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic SIN|SIN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.12|<< Joshua 7:12]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.14|Joshua 7:14 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Sower Explained
+type: Pericope
 pericope: "[[Mark.4.13 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Mark
 chapter: 4
 book/chapter: "[[Mark.4|Mark 4]]"
-genre:
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Mark.4.13]]"
 - "[[Mark.4.14]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mark.4.20]]"
 ---
 
-[[Mark.4|Mark 4:13 - Mark 4:20]]
+<small>[[Mark.4|Mark 4:13-20]]</small>
 *The Parable of the Sower Explained*
 
 [[Mark.4.13|13]] And he said unto them, Know ye not this parable? and how then will ye know all parables?

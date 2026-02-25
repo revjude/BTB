@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Restoration of Israel and Judah
+type: Pericope
 pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 30
 book/chapter: "[[Jer.30|Jeremiah 30]]"
-genre:
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 24
 verses:
 - "[[Jer.30.1]]"
 - "[[Jer.30.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Jer.30.24]]"
 ---
 
-[[Jer.30|Jeremiah 30:1 - Jeremiah 30:24]]
+<small>[[Jer.30|Jeremiah 30:1-24]]</small>
 *The Restoration of Israel and Judah*
 
 [[Jer.30.1|1]] The word that came to Jeremiah from the LORD, saying,

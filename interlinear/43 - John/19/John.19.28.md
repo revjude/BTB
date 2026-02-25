@@ -1,10 +1,59 @@
+---
+title: John 19:28
+type: Verse
+kjv: "After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst."
+bsb: "After this, knowing that everything had now been accomplished, and to fulfill the Scripture, Jesus said, “I am thirsty.”"
+jesus_said: "I thirst."
+greek: "Μετὰ τοῦτο εἰδὼς ὁ Ἰησοῦς ὅτι ἤδη πάντα τετέλεσται, ἵνα τελειωθῇ ἡ γραφή, λέγει· διψῶ."
+pericope: "[[John.19.28 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3754G]]"
+- "[[G2235]]"
+- "[[G3956]]"
+- "[[G5055]]"
+- "[[G2443]]"
+- "[[G5048]]"
+- "[[G1124]]"
+- "[[G3004G]]"
+- "[[G1372]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 19:28**<big><big>[[John.19.28 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.
 <small><sub>**BSB:**</sub></small>
 After this, knowing that everything had now been accomplished, and to fulfill the Scripture, Jesus said, “I am thirsty.”
-<small><sub>**Literal:**</sub></small>
-After this knowing <the> Jesus that now all things has been accomplished, so that may be fulfilled the Scripture, He says; I thirst.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.27|<< John 19:27]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.29|John 19:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G3778\|τοῦτο]]  [[G6063\|εἰδὼς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3754G\|ὅτι]]  [[G2235\|ἤδη]]  [[G3956\|πάντα]]  [[G5055\|τετέλεσται,]]  [[G2443\|ἵνα]]  [[G5048\|τελειωθῇ]]  [[G3588\|ἡ]]  [[G1124\|γραφή,]]  [[G3004G\|λέγει·]]  [[G1372\|διψῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.27|<< John 19:27]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.29|John 19:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 19:28** is...
 > $\quad$ alluding to: [[LXX.Ps.69.21|Ps 69:21]]

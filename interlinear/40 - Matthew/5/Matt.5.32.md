@@ -1,10 +1,70 @@
+---
+title: Matthew 5:32
+type: Verse
+kjv: "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery."
+bsb: "But I tell you that anyone who divorces his wife, except for sexual immorality, brings adultery upon her. And he who marries a divorced woman commits adultery."
+jesus_said: "But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery."
+greek: "ἐγὼ δὲ λέγω ὑμῖν ὅτι πᾶς ὁ ἀπολύων τὴν γυναῖκα αὐτοῦ παρεκτὸς λόγου πορνείας ποιεῖ αὐτὴν μοιχευθῆναι· καὶ ὃς ἐὰν ἀπολελυμένην γαμήσῃ, μοιχᾶται.¶"
+pericope: "[[Matt.5.31 Divorce|Divorce]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0630H]]"
+- "[[G1135H]]"
+- "[[G0846]]"
+- "[[G3924]]"
+- "[[G3056]]"
+- "[[G4202]]"
+- "[[G4160G]]"
+- "[[G3431]]"
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G0620]]"
+- "[[G1060]]"
+- "[[G3429]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 5:32**<big><big>[[Matt.5.31 Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery: and whosoever shall marry her that is divorced committeth adultery.
 <small><sub>**BSB:**</sub></small>
 But I tell you that anyone who divorces his wife, except for sexual immorality, brings adultery upon her. And he who marries a divorced woman commits adultery.
-<small><sub>**Literal:**</sub></small>
-I myself however say to you that everyone who is divorcing the wife of him except on account of sexual immorality causes her to be adulterated; And who[ever] if divorced shall marry, commits adultery.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.31|<< Matthew 5:31]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.33|Matthew 5:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G0630H\|ἀπολύων]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ]]  [[G3924\|παρεκτὸς]]  [[G3056\|λόγου]]  [[G4202\|πορνείας]]  [[G4160G\|ποιεῖ]]  [[G0846\|αὐτὴν]]  [[G3431\|μοιχευθῆναι·]]  [[G2532\|καὶ]]  [[G3739\|ὃς]]  [[G1437\|ἐὰν]]  [[G0620\|ἀπολελυμένην]]  [[G1060\|γαμήσῃ,]]  [[G3429\|μοιχᾶται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DIVORCE|DIVORCE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.31|<< Matthew 5:31]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.33|Matthew 5:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

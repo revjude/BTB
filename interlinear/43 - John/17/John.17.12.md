@@ -1,10 +1,75 @@
+---
+title: John 17:12
+type: Verse
+kjv: "While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled."
+bsb: "While I was with them, I protected and preserved them by Your name, the name You gave Me. Not one of them has been lost, except the son of destruction, so that the Scripture would be fulfilled."
+jesus_said: "While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled."
+greek: "ὅτε ἤμην μετ᾽ αὐτῶν ἐν τῷ κόσμῳ, ἐγὼ ἐτήρουν αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι καὶ ἐφύλαξα, καὶ οὐδεὶς ἐξ αὐτῶν ἀπώλετο εἰ μὴ ὁ υἱὸς τῆς ἀπωλείας, ἵνα ἡ γραφὴ πληρωθῇ."
+pericope: "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3753]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G1473]]"
+- "[[G5083I]]"
+- "[[G3686]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G5442I]]"
+- "[[G3762]]"
+- "[[G1537]]"
+- "[[G0622]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G5207]]"
+- "[[G0684]]"
+- "[[G2443]]"
+- "[[G1124]]"
+- "[[G4137]]"
+texts:
+- NKO
+- K
+- N(K)O
+- no
+---
+
 **John 17:12**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While I was with them in the world, I kept them in thy name: those that thou gavest me I have kept, and none of them is lost, but the son of perdition; that the scripture might be fulfilled.
 <small><sub>**BSB:**</sub></small>
 While I was with them, I protected and preserved them by Your name, the name You gave Me. Not one of them has been lost, except the son of destruction, so that the Scripture would be fulfilled.
-<small><sub>**Literal:**</sub></small>
-When I was with them in <the> world I myself was keeping them in the name of You which [name] You have given to Me And I guarded [them], and none of them has perished only except the son <the> of destruction, that the Scripture may be fulfilled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.11|<< John 17:11]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.13|John 17:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1510\|ἤμην]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ,]]  [[G1473\|ἐγὼ]]  [[G5083I\|ἐτήρουν]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G4771\|σου]]  [[G3739\|ᾧ]]  [[G1325\|δέδωκάς]]  [[G3165\|μοι]]  [[G2532\|καὶ]]  [[G5442I\|ἐφύλαξα,]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G0622\|ἀπώλετο]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τῆς]]  [[G0684\|ἀπωλείας,]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G1124\|γραφὴ]]  [[G4137\|πληρωθῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PRAYER|PRAYER]] • [[topic REPROBACY|REPROBACY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.11|<< John 17:11]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.13|John 17:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 17:12** is...
 > $\quad$ alluding to: [[LXX.Ps.41.10|Ps 41:10]] ☩ [[LXX.Ps.109.8|Ps 109:8]] ☩ [[LXX.Ps.109.17|Ps 109:17]]

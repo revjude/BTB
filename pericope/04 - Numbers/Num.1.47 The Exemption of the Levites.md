@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Exemption of the Levites
+type: Pericope
 pericope: "[[Num.1.47 The Exemption of the Levites|The Exemption of the Levites]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 1
 book/chapter: "[[Num.1|Numbers 1]]"
-genre:
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 8
 verses:
 - "[[Num.1.47]]"
 - "[[Num.1.48]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Num.1.54]]"
 ---
 
-[[Num.1|Numbers 1:47 - Numbers 1:54]]
+<small>[[Num.1|Numbers 1:47-54]]</small>
 *The Exemption of the Levites*
 
 [[Num.1.47|47]] But the Levites after the tribe of their fathers were not numbered among them.

@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 15:22
+type: Verse
+kjv: "And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams."
+bsb: "But Samuel declared: “Does the LORD delight in burnt offerings and sacrifices as much as in obedience to His voice? Behold, obedience is better than sacrifice, and attentiveness is better than the fat of rams."
+hebrew: "וַיֹּ֣אמֶר שְׁמוּאֵ֗ל הַחֵ֤פֶץ לַֽיהוָה֙ בְּעֹל֣וֹת וּזְבָחִ֔ים כִּשְׁמֹ֖עַ בְּק֣וֹל יְהוָ֑ה הִנֵּ֤ה שְׁמֹ֙עַ֙ מִזֶּ֣בַח ט֔וֹב לְהַקְשִׁ֖יב מֵחֵ֥לֶב אֵילִֽים׃"
+pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H9008]]"
+- "[[H2656]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H2077]]"
+- "[[H9004]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H2009]]"
+- "[[H9006]]"
+- "[[H2896A]]"
+- "[[H7181]]"
+- "[[H2459]]"
+- "[[H0352A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:22**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel said, Hath the LORD [as great] delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey [is] better than sacrifice, [and] to hearken than the fat of rams.
 <small><sub>**BSB:**</sub></small>
 But Samuel declared: “Does the LORD delight in burnt offerings and sacrifices as much as in obedience to His voice? Behold, obedience is better than sacrifice, and attentiveness is better than the fat of rams.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H8050G\|שְׁמוּאֵ֗ל]] [[H9008\|הַ]][[H2656\|חֵ֤פֶץ]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H9003\|בְּ]][[H5930A\|עֹל֣וֹת]] [[H9002\|וּ]][[H2077\|זְבָחִ֔ים]] [[H9004\|כִּ]][[H8085H\|שְׁמֹ֖עַ]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3068G\|יְהוָ֑ה]] [[H2009\|הִנֵּ֤ה]] [[H8085H\|שְׁמֹ֙עַ֙]] [[H9006\|מִ]][[H2077\|זֶּ֣בַח]] [[H2896A\|ט֔וֹב]] [[H9005\|לְ]][[H7181\|הַקְשִׁ֖יב]] [[H9006\|מֵ]][[H2459\|חֵ֥לֶב]] [[H0352A\|אֵילִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FORMALISM|FORMALISM]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SAUL|SAUL]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.21|<< 1 Samuel 15:21]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.23|1 Samuel 15:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

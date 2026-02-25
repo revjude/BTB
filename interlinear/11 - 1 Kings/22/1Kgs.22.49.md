@@ -1,8 +1,62 @@
+---
+title: 1 Kings 22:49
+type: Verse
+kjv: "Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not."
+bsb: "At that time Ahaziah son of Ahab said to Jehoshaphat, “Let my servants sail with your servants,” but Jehoshaphat refused."
+hebrew: "אָ֠ז אָמַ֞ר אֲחַזְיָ֤הוּ בֶן־ אַחְאָב֙ אֶל־ יְה֣וֹשָׁפָ֔ט יֵלְכ֧וּ עֲבָדַ֛י עִם־ עֲבָדֶ֖יךָ בָּאֳנִיּ֑וֹת וְלֹ֥א אָבָ֖ה יְהוֹשָׁפָֽט׃"
+pericope: "[[1Kgs.22.41 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+strongs:
+- "[[H0227A]]"
+- "[[H0559]]"
+- "[[H0274G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0256G]]"
+- "[[H0413]]"
+- "[[H3092I]]"
+- "[[H1980G]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H5973A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H0591]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:49**<big><big>[[1Kgs.22.41 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Ahaziah the son of Ahab unto Jehoshaphat, Let my servants go with thy servants in the ships. But Jehoshaphat would not.
 <small><sub>**BSB:**</sub></small>
 At that time Ahaziah son of Ahab said to Jehoshaphat, “Let my servants sail with your servants,” but Jehoshaphat refused.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֠ז]] [[H0559\|אָמַ֞ר]] [[H0274G\|אֲחַזְיָ֤הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0256G\|אַחְאָב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3092I\|יְה֣וֹשָׁפָ֔ט]] [[H1980G\|יֵלְכ֧וּ]] [[H5650\|עֲבָדַ֛]][[H9020\|י]] [[H5973A\|עִם]][[H9014\|־]] [[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H9003\|בָּ]][[H0591\|אֳנִיּ֑וֹת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָבָ֖ה]] [[H3092I\|יְהוֹשָׁפָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.48|<< 1 Kings 22:48]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.50|1 Kings 22:50 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Daniel 1:11
+type: Verse
+kjv: "Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,"
+bsb: "Then Daniel said to the steward whom the chief official had appointed over Daniel, Hananiah, Mishael, and Azariah,"
+hebrew: "וַיֹּ֥אמֶר דָּנִיֵּ֖אל אֶל־ הַמֶּלְצַ֑ר אֲשֶׁ֤ר מִנָּה֙ שַׂ֣ר הַסָּֽרִיסִ֔ים עַל־ דָּנִיֵּ֣אל חֲנַנְיָ֔ה מִֽישָׁאֵ֖ל וַעֲזַרְיָֽה׃"
+pericope: "[[Dan.1.8 Daniel’s Faithfulness|Daniel’s Faithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]]"
+- "[[topic APPETITE|APPETITE]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MELZAR|MELZAR]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SCHOOL|SCHOOL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1840G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4453]]"
+- "[[H0834A]]"
+- "[[H4487]]"
+- "[[H8269]]"
+- "[[H5631]]"
+- "[[H5921A]]"
+- "[[H2608T]]"
+- "[[H4332I]]"
+- "[[H9002]]"
+- "[[H5838Z]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:11**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
 <small><sub>**BSB:**</sub></small>
 Then Daniel said to the steward whom the chief official had appointed over Daniel, Hananiah, Mishael, and Azariah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H1840G\|דָּנִיֵּ֖אל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4453\|מֶּלְצַ֑ר]] [[H0834A\|אֲשֶׁ֤ר]] [[H4487\|מִנָּה֙]] [[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H5631\|סָּֽרִיסִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H1840G\|דָּנִיֵּ֣אל]] [[H2608T\|חֲנַנְיָ֔ה]] [[H4332I\|מִֽישָׁאֵ֖ל]] [[H9002\|וַ]][[H5838Z\|עֲזַרְיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]] • [[topic APPETITE|APPETITE]] • [[topic DANIEL|DANIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MELZAR|MELZAR]] • [[topic MISHAEL|MISHAEL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SCHOOL|SCHOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.10|<< Daniel 1:10]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.12|Daniel 1:12 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Judges 4:19
+type: Verse
+kjv: "And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him."
+bsb: "Sisera said to her, “Please give me a little water to drink, for I am thirsty.” So she opened a container of milk, gave him a drink, and covered him again."
+hebrew: "וַיֹּ֧אמֶר אֵלֶ֛יהָ הַשְׁקִינִי־ נָ֥א מְעַט־ מַ֖יִם כִּ֣י צָמֵ֑אתִי וַתִּפְתַּ֞ח אֶת־ נֹ֧אוד הֶחָלָ֛ב וַתַּשְׁקֵ֖הוּ וַתְּכַסֵּֽהוּ׃"
+pericope: "[[Judg.4.17 Jael Kills Sisera|Jael Kills Sisera]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JAEL|JAEL]]"
+- "[[topic KENITES|KENITES]]"
+- "[[topic MILK|MILK]]"
+- "[[topic TREACHERY|TREACHERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H8248H]]"
+- "[[H9030]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H4592]]"
+- "[[H4325G]]"
+- "[[H3588A]]"
+- "[[H6770]]"
+- "[[H6605A]]"
+- "[[H0853]]"
+- "[[H4997]]"
+- "[[H9009]]"
+- "[[H2461]]"
+- "[[H9033]]"
+- "[[H3680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:19**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him.
 <small><sub>**BSB:**</sub></small>
 Sisera said to her, “Please give me a little water to drink, for I am thirsty.” So she opened a container of milk, gave him a drink, and covered him again.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H0413\|אֵלֶ֛י]][[H9034\|הָ]] [[H8248H\|הַשְׁקִי]][[H9030\|נִי]][[H9014\|־]] [[H4994\|נָ֥א]] [[H4592\|מְעַט]][[H9014\|־]] [[H4325G\|מַ֖יִם]] [[H3588A\|כִּ֣י]] [[H6770\|צָמֵ֑אתִי]] [[H9001\|וַ]][[H6605A\|תִּפְתַּ֞ח]] [[H0853\|אֶת]][[H9014\|־]] [[H4997\|נֹ֧אוד]] [[H9009\|הֶ]][[H2461\|חָלָ֛ב]] [[H9001\|וַ]][[H8248H\|תַּשְׁקֵ֖]][[H9033\|הוּ]] [[H9001\|וַ]][[H3680\|תְּכַסֵּֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic COURAGE|COURAGE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JAEL|JAEL]] • [[topic KENITES|KENITES]] • [[topic MILK|MILK]] • [[topic TREACHERY|TREACHERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.18|<< Judges 4:18]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.20|Judges 4:20 >>]]</td></tr></table>
 

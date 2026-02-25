@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 12:18
+type: Verse
+kjv: "I desired Titus, and with him I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? walked we not in the same steps?"
+bsb: "I urged Titus to visit you, and I sent our brother with him. Did Titus exploit you in any way? Did we not walk in the same Spirit and follow in the same footsteps?"
+greek: "παρεκάλεσα Τίτον καὶ συναπέστειλα τὸν ἀδελφόν· μήτι ἐπλεονέκτησεν ὑμᾶς Τίτος; οὐ τῷ αὐτῷ πνεύματι περιεπατήσαμεν; οὐ τοῖς αὐτοῖς ἴχνεσιν;¶"
+pericope: "[[2Cor.12.11 Paul’s Concern for the Corinthians|Paul’s Concern for the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 12
+book/chapter: "[[2Cor.12|2 Corinthians 12]]"
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3870]]"
+- "[[G5103]]"
+- "[[G2532]]"
+- "[[G4882]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3385]]"
+- "[[G4122]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G0846]]"
+- "[[G4151G]]"
+- "[[G4043]]"
+- "[[G2487]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 12:18**<big><big>[[2Cor.12.11 Paul’s Concern for the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I desired Titus, and with [him] I sent a brother. Did Titus make a gain of you? walked we not in the same spirit? [walked we] not in the same steps?
 <small><sub>**BSB:**</sub></small>
 I urged Titus to visit you, and I sent our brother with him. Did Titus exploit you in any way? Did we not walk in the same Spirit and follow in the same footsteps?
-<small><sub>**Literal:**</sub></small>
-I urged Titus [to go] and sent with [him] the brother; surely not ever did exploit you Titus? Surely in the same spirit did we walk? Not in the same steps?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.17|<< 2 Corinthians 12:17]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.19|2 Corinthians 12:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|παρεκάλεσα]]  [[G5103\|Τίτον]]  [[G2532\|καὶ]]  [[G4882\|συναπέστειλα]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφόν·]]  [[G3385\|μήτι]]  [[G4122\|ἐπλεονέκτησεν]]  [[G4771\|ὑμᾶς]]  [[G5103\|Τίτος;]]  [[G3756\|οὐ]]  [[G3588\|τῷ]]  [[G0846\|αὐτῷ]]  [[G4151G\|πνεύματι]]  [[G4043\|περιεπατήσαμεν;]]  [[G3756\|οὐ]]  [[G3588\|τοῖς]]  [[G0846\|αὐτοῖς]]  [[G2487\|ἴχνεσιν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORINTH|CORINTH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.17|<< 2 Corinthians 12:17]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.19|2 Corinthians 12:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,57 @@
+---
+title: James 2:9
+type: Verse
+kjv: "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
+bsb: "But if you show favoritism, you sin and are convicted by the law as transgressors."
+greek: "εἰ δὲ προσωπολημπτεῖτε, ἁμαρτίαν ἐργάζεσθε ἐλεγχόμενοι ὑπὸ τοῦ νόμου ὡς παραβάται."
+pericope: "[[Jas.2.1 A Warning against Favoritism|A Warning against Favoritism]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G4380]]"
+- "[[G0266]]"
+- "[[G2038]]"
+- "[[G1651]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G5613]]"
+- "[[G3848]]"
+texts:
+- NKO
+---
+
 **James 2:9**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.
 <small><sub>**BSB:**</sub></small>
 But if you show favoritism, you sin and are convicted by the law as transgressors.
-<small><sub>**Literal:**</sub></small>
-If however you show partiality, sin you are committing being convicted by the law as transgressors.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.8|<< James 2:8]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.10|James 2:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G4380\|προσωπολημπτεῖτε,]]  [[G0266\|ἁμαρτίαν]]  [[G2038\|ἐργάζεσθε]]  [[G1651\|ἐλεγχόμενοι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G5613\|ὡς]]  [[G3848\|παραβάται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic POOR|POOR]] • [[topic RELIGION|RELIGION]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.8|<< James 2:8]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.10|James 2:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

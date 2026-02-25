@@ -1,10 +1,56 @@
+---
+title: John 11:48
+type: Verse
+kjv: "If we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation."
+bsb: "If we let Him go on like this, everyone will believe in Him, and then the Romans will come and take away both our place and our nation.”"
+greek: "ἐὰν ἀφῶμεν αὐτὸν οὕτως, πάντες πιστεύσουσιν εἰς αὐτόν, καὶ ἐλεύσονται οἱ Ῥωμαῖοι καὶ ἀροῦσιν ἡμῶν καὶ τὸν τόπον καὶ τὸ ἔθνος.¶"
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G1437]]"
+- "[[G0863G]]"
+- "[[G0846]]"
+- "[[G3779]]"
+- "[[G3956]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G4514]]"
+- "[[G0142]]"
+- "[[G3165]]"
+- "[[G5117]]"
+- "[[G1484]]"
+texts:
+- NKO
+---
+
 **John 11:48**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If we let him thus alone, all [men] will believe on him: and the Romans shall come and take away both our place and nation.
 <small><sub>**BSB:**</sub></small>
 If we let Him go on like this, everyone will believe in Him, and then the Romans will come and take away both our place and our nation.”
-<small><sub>**Literal:**</sub></small>
-If we shall let him alone Him like this, all will believe in Him, and will come the Romans and will take away of us both the place and the nation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.47|<< John 11:47]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.49|John 11:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G0863G\|ἀφῶμεν]]  [[G0846\|αὐτὸν]]  [[G3779\|οὕτως,]]  [[G3956\|πάντες]]  [[G4100\|πιστεύσουσιν]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G2064\|ἐλεύσονται]]  [[G3588\|οἱ]]  [[G4514\|Ῥωμαῖοι]]  [[G2532\|καὶ]]  [[G0142\|ἀροῦσιν]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1484\|ἔθνος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.47|<< John 11:47]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.49|John 11:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

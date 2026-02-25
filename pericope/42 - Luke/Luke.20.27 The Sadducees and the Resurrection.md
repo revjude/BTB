@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sadducees and the Resurrection
+type: Pericope
 pericope: "[[Luke.20.27 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Luke
 chapter: 20
 book/chapter: "[[Luke.20|Luke 20]]"
-genre:
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 14
 verses:
 - "[[Luke.20.27]]"
 - "[[Luke.20.28]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Luke.20.40]]"
 ---
 
-[[Luke.20|Luke 20:27 - Luke 20:40]]
+<small>[[Luke.20|Luke 20:27-40]]</small>
 *The Sadducees and the Resurrection*
 
 [[Luke.20.27|27]] Then came to \[him\] certain of the Sadducees, which deny that there is any resurrection; and they asked him,

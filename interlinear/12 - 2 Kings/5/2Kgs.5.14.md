@@ -1,8 +1,66 @@
+---
+title: 2 Kings 5:14
+type: Verse
+kjv: "Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean."
+bsb: "So Naaman went down and dipped himself in the Jordan seven times, according to the word of the man of God, and his flesh was restored and became like that of a little child, and he was clean."
+hebrew: "וַיֵּ֗רֶד וַיִּטְבֹּ֤ל בַּיַּרְדֵּן֙ שֶׁ֣בַע פְּעָמִ֔ים כִּדְבַ֖ר אִ֣ישׁ הָאֱלֹהִ֑ים וַיָּ֣שָׁב בְּשָׂר֗וֹ כִּבְשַׂ֛ר נַ֥עַר קָטֹ֖ן וַיִּטְהָֽר׃"
+pericope: "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H2881]]"
+- "[[H9003]]"
+- "[[H3383]]"
+- "[[H7651]]"
+- "[[H6471]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H7725H]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H5288]]"
+- "[[H6996B]]"
+- "[[H2891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:14**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean.
 <small><sub>**BSB:**</sub></small>
 So Naaman went down and dipped himself in the Jordan seven times, according to the word of the man of God, and his flesh was restored and became like that of a little child, and he was clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּ֗רֶד]] [[H9001\|וַ]][[H2881\|יִּטְבֹּ֤ל]] [[H9003\|בַּ]][[H3383\|יַּרְדֵּן֙]] [[H7651\|שֶׁ֣בַע]] [[H6471\|פְּעָמִ֔ים]] [[H9004\|כִּ]][[H1697G\|דְבַ֖ר]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H7725H\|יָּ֣שָׁב]] [[H1320\|בְּשָׂר֗]][[H9023\|וֹ]] [[H9004\|כִּ]][[H1320\|בְשַׂ֛ר]] [[H5288\|נַ֥עַר]] [[H6996B\|קָטֹ֖ן]] [[H9001\|וַ]][[H2891\|יִּטְהָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic EXCUSES|EXCUSES]] • [[topic JORAM|JORAM]] • [[topic JORDAN|JORDAN]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic NAAMAN|NAAMAN]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.13|<< 2 Kings 5:13]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.15|2 Kings 5:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

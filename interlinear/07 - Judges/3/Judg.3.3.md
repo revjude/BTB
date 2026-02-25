@@ -1,8 +1,69 @@
+---
+title: Judges 3:3
+type: Verse
+kjv: "Namely, five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baalhermon unto the entering in of Hamath."
+bsb: "the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived in the mountains of Lebanon from Mount Baal-hermon to Lebo-hamath."
+hebrew: "חֲמֵ֣שֶׁת׀ סַרְנֵ֣י פְלִשְׁתִּ֗ים וְכָל־ הַֽכְּנַעֲנִי֙ וְהַצִּ֣ידֹנִ֔י וְהַ֣חִוִּ֔י יֹשֵׁ֖ב הַ֣ר הַלְּבָנ֑וֹן מֵהַר֙ בַּ֣עַל חֶרְמ֔וֹן עַ֖ד לְב֥וֹא חֲמָֽת׃"
+pericope: "[[Judg.3.1 Nations Left to Test Israel|Nations Left to Test Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic BAAL-GAD|BAAL-GAD]]"
+- "[[topic BAAL-HERMON|BAAL-HERMON]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HIVITES|HIVITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic LORD|LORD]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic SIDON|SIDON]]"
+strongs:
+- "[[H2568]]"
+- "[[H9015]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H6722]]"
+- "[[H2340]]"
+- "[[H3427]]"
+- "[[H2022G]]"
+- "[[H3844H]]"
+- "[[H9006]]"
+- "[[H1179]]"
+- "[[H5704]]"
+- "[[H0935H]]"
+- "[[H2574G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:3**<big><big>[[Judg.3.1 Nations Left to Test Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Namely], five lords of the Philistines, and all the Canaanites, and the Sidonians, and the Hivites that dwelt in mount Lebanon, from mount Baalhermon unto the entering in of Hamath.
 <small><sub>**BSB:**</sub></small>
 the five rulers of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived in the mountains of Lebanon from Mount Baal-hermon to Lebo-hamath.
+<small><sub>**Hebrew:**</sub></small>
+[[H2568\|חֲמֵ֣שֶׁת]][[H9015\|׀]] [[H5633A\|סַרְנֵ֣י]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H6722\|צִּ֣ידֹנִ֔י]] [[H9002\|וְ]][[H9009\|הַ֣]][[H2340\|חִוִּ֔י]] [[H3427\|יֹשֵׁ֖ב]] [[H2022G\|הַ֣ר]] [[H9009\|הַ]][[H3844H\|לְּבָנ֑וֹן]] [[H9006\|מֵ]][[H2022G\|הַר֙]] [[H1179\|בַּ֣עַל]] [[H1179\|חֶרְמ֔וֹן]] [[H5704\|עַ֖ד]] [[H0935H\|לְב֥וֹא]] [[H2574G\|חֲמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic BAAL-GAD|BAAL-GAD]] • [[topic BAAL-HERMON|BAAL-HERMON]] • [[topic CANAANITES|CANAANITES]] • [[topic HIVITES|HIVITES]] • [[topic ISRAEL|ISRAEL]] • [[topic LEBANON|LEBANON]] • [[topic LORD|LORD]] • [[topic PHILISTINES|PHILISTINES]] • [[topic SIDON|SIDON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.2|<< Judges 3:2]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.4|Judges 3:4 >>]]</td></tr></table>
 

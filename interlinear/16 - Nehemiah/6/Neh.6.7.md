@@ -1,8 +1,68 @@
+---
+title: Nehemiah 6:7
+type: Verse
+kjv: "And thou hast also appointed prophets to preach of thee at Jerusalem, saying, There is a king in Judah: and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together."
+bsb: "and you have even appointed prophets in Jerusalem to proclaim on your behalf: ‘There is a king in Judah.’ Soon these rumors will reach the ears of the king. So come, let us confer together.”"
+hebrew: "וְגַם־ נְבִיאִ֡ים הֶעֱמַ֣דְתָּ לִקְרֹא֩ עָלֶ֨יךָ בִֽירוּשָׁלִַ֜ם לֵאמֹ֗ר מֶ֚לֶךְ בִּֽיהוּדָ֔ה וְעַתָּה֙ יִשָּׁמַ֣ע לַמֶּ֔לֶךְ כַּדְּבָרִ֣ים הָאֵ֑לֶּה וְעַתָּ֣ה לְכָ֔ה וְנִֽוָּעֲצָ֖ה יַחְדָּֽו׃ ס"
+pericope: "[[Neh.6.1 Sanballat’s Conspiracy|Sanballat’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H5030]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H7121I]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H6258]]"
+- "[[H8085G]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H0428]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H3289]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 6:7**<big><big>[[Neh.6.1 Sanballat’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou hast also appointed prophets to preach of thee at Jerusalem, saying, [There is] a king in Judah: and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together.
 <small><sub>**BSB:**</sub></small>
 and you have even appointed prophets in Jerusalem to proclaim on your behalf: ‘There is a king in Judah.’ Soon these rumors will reach the ears of the king. So come, let us confer together.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H5030\|נְבִיאִ֡ים]] [[H5975G\|הֶעֱמַ֣דְתָּ]] [[H9005\|לִ]][[H7121I\|קְרֹא֩]] [[H5921A\|עָלֶ֨י]][[H9031\|ךָ]] [[H9003\|בִֽ]][[H3389\|ירוּשָׁלִַ֜ם]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H4428G\|מֶ֚לֶךְ]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֔ה]] [[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H8085G\|יִשָּׁמַ֣ע]] [[H9005\|לַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9004\|כַּ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֑לֶּה]] [[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H1980K\|לְכָ֔]][[H9012\|ה]] [[H9002\|וְ]][[H3289\|נִֽוָּעֲצָ֖ה]] [[H3162B\|יַחְדָּֽו]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.6|<< Nehemiah 6:6]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.8|Nehemiah 6:8 >>]]</td></tr></table>
 
@@ -25,7 +85,7 @@ and you have even appointed prophets in Jerusalem to proclaim on your behalf: �
 | and therefore  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6258\|עַתָּ֣ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | come !  |**<big>&#8207;[[H1980K\|לְכָ֔]]&#8207;&#8207;[[H9012\|ה]]&#8207; </big>**| le.Kha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so let us take counsel  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3289\|נִֽוָּעֲצָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ni.va.'a.Tzah<small><sup>[[HVNc1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| together  |**<big>&#8207;[[H3162B\|יַחְדָּֽו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| together  |**<big>&#8207;[[H3162B\|יַחְדָּֽו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yach.Dav<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.6.6|<< Nehemiah 6:6]]</td><td align="center" style="border:none;">[[Neh.6|Nehemiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.6.8|Nehemiah 6:8 >>]]</td></tr></table>
 
 

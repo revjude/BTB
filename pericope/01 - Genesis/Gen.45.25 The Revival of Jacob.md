@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Revival of Jacob
+type: Pericope
 pericope: "[[Gen.45.25 The Revival of Jacob|The Revival of Jacob]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 45
 book/chapter: "[[Gen.45|Genesis 45]]"
-genre:
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 4
 verses:
 - "[[Gen.45.25]]"
 - "[[Gen.45.26]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Gen.45.28]]"
 ---
 
-[[Gen.45|Genesis 45:25 - Genesis 45:28]]
+<small>[[Gen.45|Genesis 45:25-28]]</small>
 *The Revival of Jacob*
 
 [[Gen.45.25|25]] And they went up out of Egypt, and came into the land of Canaan unto Jacob their father,

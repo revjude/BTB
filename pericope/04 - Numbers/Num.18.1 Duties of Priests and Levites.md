@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Duties of Priests and Levites
+type: Pericope
 pericope: "[[Num.18.1 Duties of Priests and Levites|Duties of Priests and Levites]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 18
 book/chapter: "[[Num.18|Numbers 18]]"
-genre:
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 7
 verses:
 - "[[Num.18.1]]"
 - "[[Num.18.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Num.18.7]]"
 ---
 
-[[Num.18|Numbers 18:1 - Numbers 18:7]]
+<small>[[Num.18|Numbers 18:1-7]]</small>
 *Duties of Priests and Levites*
 
 [[Num.18.1|1]] And the LORD said unto Aaron, Thou and thy sons and thy father’s house with thee shall bear the iniquity of the sanctuary: and thou and thy sons with thee shall bear the iniquity of your priesthood.

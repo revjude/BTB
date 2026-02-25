@@ -1,8 +1,60 @@
+---
+title: Psalm 42:9
+type: Verse
+kjv: "I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?"
+bsb: "I say to God my Rock, “Why have You forgotten me? Why must I walk in sorrow because of the enemy’s oppression?”"
+hebrew: "אוֹמְרָ֤ה׀ לְאֵ֥ל סַלְעִי֮ לָמָ֪ה שְׁכַ֫חְתָּ֥נִי לָֽמָּה־ קֹדֵ֥ר אֵלֵ֗ךְ בְּלַ֣חַץ אוֹיֵֽב׃"
+pericope: "[[Ps.42.1 As the Deer Pants for the Water|As the Deer Pants for the Water]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 42
+book/chapter: "[[Ps.42|Psalm 42]]"
+chronological_order: 497
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+strongs:
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0410G]]"
+- "[[H5553H]]"
+- "[[H9020]]"
+- "[[H4100]]"
+- "[[H7911]]"
+- "[[H9030]]"
+- "[[H9014]]"
+- "[[H6937]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H3906]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 42:9**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will say unto God my rock, Why hast thou forgotten me? why go I mourning because of the oppression of the enemy?
 <small><sub>**BSB:**</sub></small>
 I say to God my Rock, “Why have You forgotten me? Why must I walk in sorrow because of the enemy’s oppression?”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אוֹמְרָ֤ה]][[H9015\|׀]] [[H9005\|לְ]][[H0410G\|אֵ֥ל]] [[H5553H\|סַלְעִ]][[H9020\|י֮]] [[H9005\|לָ]][[H4100\|מָ֪ה]] [[H7911\|שְׁכַ֫חְתָּ֥]][[H9030\|נִי]] [[H9005\|לָֽ]][[H4100\|מָּה]][[H9014\|־]] [[H6937\|קֹדֵ֥ר]] [[H1980G\|אֵלֵ֗ךְ]] [[H9003\|בְּ]][[H3906\|לַ֣חַץ]] [[H0341\|אוֹיֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.8|<< Psalms 42:8]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.10|Psalms 42:10 >>]]</td></tr></table>
 

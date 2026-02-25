@@ -1,8 +1,61 @@
+---
+title: Joshua 14:3
+type: Verse
+kjv: "For Moses had given the inheritance of two tribes and an half tribe on the other side Jordan: but unto the Levites he gave none inheritance among them."
+bsb: "For Moses had given the inheritance east of the Jordan to the other two and a half tribes. But he granted no inheritance among them to the Levites."
+hebrew: "כִּֽי־ נָתַ֨ן מֹשֶׁ֜ה נַחֲלַ֨ת שְׁנֵ֤י הַמַּטּוֹת֙ וַחֲצִ֣י הַמַּטֶּ֔ה מֵעֵ֖בֶר לַיַּרְדֵּ֑ן וְלַ֨לְוִיִּ֔ם לֹֽא־ נָתַ֥ן נַחֲלָ֖ה בְּתוֹכָֽם׃"
+pericope: "[[Josh.14.1 Land Division West of the Jordan|Land Division West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H4872]]"
+- "[[H5159]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H4294H]]"
+- "[[H9002]]"
+- "[[H2677]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H9005]]"
+- "[[H3383]]"
+- "[[H3881]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 14:3**<big><big>[[Josh.14.1 Land Division West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Moses had given the inheritance of two tribes and an half tribe on the other side Jordan: but unto the Levites he gave none inheritance among them.
 <small><sub>**BSB:**</sub></small>
 For Moses had given the inheritance east of the Jordan to the other two and a half tribes. But he granted no inheritance among them to the Levites.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתַ֨ן]] [[H4872\|מֹשֶׁ֜ה]] [[H5159\|נַחֲלַ֨ת]] [[H8147\|שְׁנֵ֤י]] [[H9009\|הַ]][[H4294H\|מַּטּוֹת֙]] [[H9002\|וַ]][[H2677\|חֲצִ֣י]] [[H9009\|הַ]][[H4294H\|מַּטֶּ֔ה]] [[H9006\|מֵ]][[H5676H\|עֵ֖בֶר]] [[H9005\|לַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9002\|וְ]][[H9005\|לַ֨]][[H3881\|לְוִיִּ֔ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|נָתַ֥ן]] [[H5159\|נַחֲלָ֖ה]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.2|<< Joshua 14:2]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.4|Joshua 14:4 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Matthew 28:4
+type: Verse
+kjv: "And for fear of him the keepers did shake, and became as dead men."
+bsb: "The guards trembled in fear of him and became like dead men."
+greek: "ἀπὸ δὲ τοῦ φόβου αὐτοῦ ἐσείσθησαν οἱ τηροῦντες καὶ ἐγενήθησαν ὡς νεκροί.¶"
+pericope: "[[Matt.28.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G0575]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5401]]"
+- "[[G0846]]"
+- "[[G4579]]"
+- "[[G5083H]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G3498]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 28:4**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And for fear of him the keepers did shake, and became as dead [men].
 <small><sub>**BSB:**</sub></small>
 The guards trembled in fear of him and became like dead men.
-<small><sub>**Literal:**</sub></small>
-From now the fear of him trembled those keeping guard and they were as dead [men].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.3|<< Matthew 28:3]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.5|Matthew 28:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|ἀπὸ]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G5401\|φόβου]]  [[G0846\|αὐτοῦ]]  [[G4579\|ἐσείσθησαν]]  [[G3588\|οἱ]]  [[G5083H\|τηροῦντες]]  [[G2532\|καὶ]]  [[G1096\|ἐγενήθησαν]]  [[G5613\|ὡς]]  [[G3498\|νεκροί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COWARDICE|COWARDICE]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.3|<< Matthew 28:3]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.5|Matthew 28:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

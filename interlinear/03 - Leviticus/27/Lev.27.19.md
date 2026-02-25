@@ -1,8 +1,68 @@
+---
+title: Leviticus 27:19
+type: Verse
+kjv: "And if he that sanctified the field will in any wise redeem it, then he shall add the fifth part of the money of thy estimation unto it, and it shall be assured to him."
+bsb: "And if the one who consecrated the field decides to redeem it, he must add a fifth to the assessed value, and it shall belong to him."
+hebrew: "וְאִם־ גָּאֹ֤ל יִגְאַל֙ אֶת־ הַשָּׂדֶ֔ה הַמַּקְדִּ֖ישׁ אֹת֑וֹ וְ֠יָסַף חֲמִשִׁ֧ית כֶּֽסֶף־ עֶרְכְּךָ֛ עָלָ֖יו וְקָ֥ם לֽוֹ׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1350A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H6942H]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H2549]]"
+- "[[H3701H]]"
+- "[[H6187]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:19**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he that sanctified the field will in any wise redeem it, then he shall add the fifth [part] of the money of thy estimation unto it, and it shall be assured to him.
 <small><sub>**BSB:**</sub></small>
 And if the one who consecrated the field decides to redeem it, he must add a fifth to the assessed value, and it shall belong to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1350A\|גָּאֹ֤ל]] [[H1350A\|יִגְאַל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9009\|הַ]][[H6942H\|מַּקְדִּ֖ישׁ]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וְ֠]][[H3254H\|יָסַף]] [[H2549\|חֲמִשִׁ֧ית]] [[H3701H\|כֶּֽסֶף]][[H9014\|־]] [[H6187\|עֶרְכְּ]][[H9021\|ךָ֛]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9001\|וְ]][[H6965I\|קָ֥ם]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.18|<< Leviticus 27:18]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.20|Leviticus 27:20 >>]]</td></tr></table>
 

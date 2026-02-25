@@ -1,10 +1,60 @@
+---
+title: Matthew 5:21
+type: Verse
+kjv: "Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:"
+bsb: "You have heard that it was said to the ancients, ‘Do not murder’ and ‘Anyone who murders will be subject to judgment.’"
+jesus_said: "Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:"
+greek: "Ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις· οὐ φονεύσεις· ὃς δ᾽ ἂν φονεύσῃ, ἔνοχος ἔσται τῇ κρίσει·"
+pericope: "[[Matt.5.21 Anger and Reconciliation|Anger and Reconciliation]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G2046]]"
+- "[[G3588]]"
+- "[[G0744]]"
+- "[[G3756]]"
+- "[[G5407]]"
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G1777]]"
+- "[[G1510]]"
+- "[[G2920]]"
+texts:
+- NKO
+---
+
 **Matthew 5:21**<big><big>[[Matt.5.21 Anger and Reconciliation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye have heard that it was said by them of old time, Thou shalt not kill; and whosoever shall kill shall be in danger of the judgment:
 <small><sub>**BSB:**</sub></small>
 You have heard that it was said to the ancients, ‘Do not murder’ and ‘Anyone who murders will be subject to judgment.’
-<small><sub>**Literal:**</sub></small>
-You have heard that it was said to the ancients; Not you will murder; who[ever] now maybe may murder, liable will be to the judgment;’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.20|<< Matthew 5:20]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.22|Matthew 5:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἠκούσατε]]  [[G3754G\|ὅτι]]  [[G2046\|ἐρρέθη]]  [[G3588\|τοῖς]]  [[G0744\|ἀρχαίοις·]]  [[G3756\|οὐ]]  [[G5407\|φονεύσεις·]]  [[G3739\|ὃς]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G5407\|φονεύσῃ,]]  [[G1777\|ἔνοχος]]  [[G1510\|ἔσται]]  [[G3588\|τῇ]]  [[G2920\|κρίσει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.20|<< Matthew 5:20]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.22|Matthew 5:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 5:21** is...
 > $\quad$ referencing: [[LXX.Exod.20.13|Exod 20:13]] ☩ [[LXX.Deut.5.17|Deut 5:17]]

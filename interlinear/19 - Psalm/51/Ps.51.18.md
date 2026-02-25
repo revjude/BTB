@@ -1,8 +1,57 @@
+---
+title: Psalm 51:18
+type: Verse
+kjv: "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem."
+bsb: "In Your good pleasure, cause Zion to prosper; build up the walls of Jerusalem."
+hebrew: "הֵיטִ֣יבָה בִ֭רְצוֹנְךָ אֶת־ צִיּ֑וֹן תִּ֝בְנֶ֗ה חוֹמ֥וֹת יְרוּשָׁלִָֽם׃"
+pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H3190]]"
+- "[[H9012]]"
+- "[[H9003]]"
+- "[[H7522]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H1129]]"
+- "[[H2346G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 51:18**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 In Your good pleasure, cause Zion to prosper; build up the walls of Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H3190\|הֵיטִ֣יבָ]][[H9012\|ה]] [[H9003\|בִ֭]][[H7522\|רְצוֹנְ]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H6726\|צִיּ֑וֹן]] [[H1129\|תִּ֝בְנֶ֗ה]] [[H2346G\|חוֹמ֥וֹת]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.17|<< Psalms 51:17]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.19|Psalms 51:19 >>]]</td></tr></table>
 

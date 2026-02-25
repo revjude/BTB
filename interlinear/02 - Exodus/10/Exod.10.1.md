@@ -1,8 +1,74 @@
+---
+title: Exodus 10:1
+type: Verse
+kjv: "And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:"
+bsb: "Then the LORD said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his officials, that I may perform these miraculous signs of Mine among them,"
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה בֹּ֖א אֶל־ פַּרְעֹ֑ה כִּֽי־ אֲנִ֞י הִכְבַּ֤דְתִּי אֶת־ לִבּוֹ֙ וְאֶת־ לֵ֣ב עֲבָדָ֔יו לְמַ֗עַן שִׁתִ֛י אֹתֹתַ֥י אֵ֖לֶּה בְּקִרְבּֽוֹ׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0935G]]"
+- "[[H6547J]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3513H]]"
+- "[[H0853]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H4616]]"
+- "[[H7896G]]"
+- "[[H9040]]"
+- "[[H0226G]]"
+- "[[H9020]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:1**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his officials, that I may perform these miraculous signs of Mine among them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H0935G\|בֹּ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H6547J\|פַּרְעֹ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֞י]] [[H3513H\|הִכְבַּ֤דְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבּ]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לֵ֣ב]] [[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H4616\|לְמַ֗עַן]] [[H7896G\|שִׁתִ֛]][[H9040\|י]] [[H0226G\|אֹתֹתַ֥]][[H9020\|י]] [[H0428\|אֵ֖לֶּה]] [[H9003\|בְּ]][[H7130G\|קִרְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LOCUST|LOCUST]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.35|<< Exodus 9:35]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.2|Exodus 10:2 >>]]</td></tr></table>
 

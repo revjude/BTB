@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 21:2
+type: Verse
+kjv: "And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these were the sons of Jehoshaphat king of Israel."
+bsb: "Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; these were all sons of Jehoshaphat king of Israel."
+hebrew: "וְלֽוֹ־ אַחִ֞ים בְּנֵ֣י יְהוֹשָׁפָ֗ט עֲזַרְיָ֤ה וִֽיחִיאֵל֙ וּזְכַרְיָ֣הוּ וַעֲזַרְיָ֔הוּ וּמִיכָאֵ֖ל וּשְׁפַטְיָ֑הוּ כָּל־ אֵ֕לֶּה בְּנֵ֥י יְהוֹשָׁפָ֖ט מֶ֥לֶךְ־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.21.1 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic JEHIEL|JEHIEL]]"
+- "[[topic MICHAEL|MICHAEL]]"
+- "[[topic SHEPHATIAH|SHEPHATIAH]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H1121A]]"
+- "[[H3092I]]"
+- "[[H5838Q]]"
+- "[[H3171J]]"
+- "[[H2148J]]"
+- "[[H5838R]]"
+- "[[H4317O]]"
+- "[[H8203K]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 21:2**<big><big>[[2Chr.21.1 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these [were] the sons of Jehoshaphat king of Israel.
 <small><sub>**BSB:**</sub></small>
 Jehoram’s brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; these were all sons of Jehoshaphat king of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לֽ]][[H9033\|וֹ]][[H9014\|־]] [[H0251G\|אַחִ֞ים]] [[H1121A\|בְּנֵ֣י]] [[H3092I\|יְהוֹשָׁפָ֗ט]] [[H5838Q\|עֲזַרְיָ֤ה]] [[H9002\|וִֽ]][[H3171J\|יחִיאֵל֙]] [[H9002\|וּ]][[H2148J\|זְכַרְיָ֣הוּ]] [[H9002\|וַ]][[H5838R\|עֲזַרְיָ֔הוּ]] [[H9002\|וּ]][[H4317O\|מִיכָאֵ֖ל]] [[H9002\|וּ]][[H8203K\|שְׁפַטְיָ֑הוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֕לֶּה]] [[H1121A\|בְּנֵ֥י]] [[H3092I\|יְהוֹשָׁפָ֖ט]] [[H4428G\|מֶ֥לֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZARIAH|AZARIAH]] • [[topic JEHIEL|JEHIEL]] • [[topic MICHAEL|MICHAEL]] • [[topic SHEPHATIAH|SHEPHATIAH]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.1|<< 2 Chronicles 21:1]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.3|2 Chronicles 21:3 >>]]</td></tr></table>
 

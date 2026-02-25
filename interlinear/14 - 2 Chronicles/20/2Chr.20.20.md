@@ -1,8 +1,73 @@
+---
+title: 2 Chronicles 20:20
+type: Verse
+kjv: "And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper."
+bsb: "Early in the morning they got up and left for the Wilderness of Tekoa. As they set out, Jehoshaphat stood up and said, “Hear me, O people of Judah and Jerusalem. Believe in the LORD your God, and you will be upheld; believe in His prophets, and you will succeed.”"
+hebrew: "וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וַיֵּצְא֖וּ לְמִדְבַּ֣ר תְּק֑וֹעַ וּבְצֵאתָ֞ם עָמַ֣ד יְהוֹשָׁפָ֗ט וַיֹּ֙אמֶר֙ שְׁמָע֗וּנִי יְהוּדָה֙ וְיֹשְׁבֵ֣י יְרוּשָׁלִַ֔ם הַאֲמִ֜ינוּ בַּיהוָ֤ה אֱלֹהֵיכֶם֙ וְתֵ֣אָמֵ֔נוּ הַאֲמִ֥ינוּ בִנְבִיאָ֖יו וְהַצְלִֽיחוּ׃"
+pericope: "[[2Chr.20.20 The Enemies Destroy Themselves|The Enemies Destroy Themselves]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TEKOAH|TEKOAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H4057B]]"
+- "[[H8620]]"
+- "[[H9002]]"
+- "[[H9048]]"
+- "[[H5975G]]"
+- "[[H3092I]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H3063G]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H0539]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H5030]]"
+- "[[H9023]]"
+- "[[H6743B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:20**<big><big>[[2Chr.20.20 The Enemies Destroy Themselves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper.
 <small><sub>**BSB:**</sub></small>
 Early in the morning they got up and left for the Wilderness of Tekoa. As they set out, Jehoshaphat stood up and said, “Hear me, O people of Judah and Jerusalem. Believe in the LORD your God, and you will be upheld; believe in His prophets, and you will succeed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכִּ֣ימוּ]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַ]][[H3318G\|יֵּצְא֖וּ]] [[H9005\|לְ]][[H4057B\|מִדְבַּ֣ר]] [[H8620\|תְּק֑וֹעַ]] [[H9002\|וּ]][[H9003\|בְ]][[H3318G\|צֵאתָ֞]][[H9048\|ם]] [[H5975G\|עָמַ֣ד]] [[H3092I\|יְהוֹשָׁפָ֗ט]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H8085G\|שְׁמָע֗וּ]][[H9030\|נִי]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִַ֔ם]] [[H0539\|הַאֲמִ֜ינוּ]] [[H9003\|בַּ]][[H3068G\|יהוָ֤ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶם֙]] [[H9002\|וְ]][[H0539\|תֵ֣אָמֵ֔נוּ]] [[H0539\|הַאֲמִ֥ינוּ]] [[H9003\|בִ]][[H5030\|נְבִיאָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H6743B\|הַצְלִֽיחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic FAITH|FAITH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]] • [[topic TEKOAH|TEKOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.19|<< 2 Chronicles 20:19]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.21|2 Chronicles 20:21 >>]]</td></tr></table>
 

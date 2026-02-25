@@ -1,8 +1,60 @@
+---
+title: 2 Kings 14:22
+type: Verse
+kjv: "He built Elath, and restored it to Judah, after that the king slept with his fathers."
+bsb: "Azariah was the one who rebuilt Elath and restored it to Judah after King Amaziah rested with his fathers."
+hebrew: "ה֚וּא בָּנָ֣ה אֶת־ אֵילַ֔ת וַיְשִׁבֶ֖הָ לִֽיהוּדָ֑ה אַחֲרֵ֥י שְׁכַֽב־ הַמֶּ֖לֶךְ עִם־ אֲבֹתָֽיו׃ פ"
+pericope: "[[2Kgs.14.21 Azariah Succeeds Amaziah in Judah|Azariah Succeeds Amaziah in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H1931]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0359A]]"
+- "[[H9001]]"
+- "[[H7725H]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H0310A]]"
+- "[[H7901J]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5973A]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 14:22**<big><big>[[2Kgs.14.21 Azariah Succeeds Amaziah in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He built Elath, and restored it to Judah, after that the king slept with his fathers.
 <small><sub>**BSB:**</sub></small>
 Azariah was the one who rebuilt Elath and restored it to Judah after King Amaziah rested with his fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֚וּא]] [[H1129\|בָּנָ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0359A\|אֵילַ֔ת]] [[H9001\|וַ]][[H7725H\|יְשִׁבֶ֖]][[H9034\|הָ]] [[H9005\|לִֽ]][[H3063G\|יהוּדָ֑ה]] [[H0310A\|אַחֲרֵ֥י]] [[H7901J\|שְׁכַֽב]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.21|<< 2 Kings 14:21]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.23|2 Kings 14:23 >>]]</td></tr></table>
 
@@ -18,7 +70,7 @@ Azariah was the one who rebuilt Elath and restored it to Judah after King Amazia
 | lay down  |**<big>&#8207;[[H7901J\|שְׁכַֽב]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| she.khav-<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֖לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ancestors his  |**<big>&#8207;[[H0001G\|אֲבֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors his  |**<big>&#8207;[[H0001G\|אֲבֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.21|<< 2 Kings 14:21]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.23|2 Kings 14:23 >>]]</td></tr></table>
 
 

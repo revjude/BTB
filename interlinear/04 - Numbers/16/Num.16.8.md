@@ -1,8 +1,63 @@
+---
+title: Numbers 16:8
+type: Verse
+kjv: "And Moses said unto Korah, Hear, I pray you, ye sons of Levi:"
+bsb: "Moses also said to Korah, “Now listen, you sons of Levi!"
+hebrew: "וַיֹּ֥אמֶר מֹשֶׁ֖ה אֶל־ קֹ֑רַח שִׁמְעוּ־ נָ֖א בְּנֵ֥י לֵוִֽי׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7141I]]"
+- "[[H8085G]]"
+- "[[H4994]]"
+- "[[H1121G]]"
+- "[[H3878]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:8**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto Korah, Hear, I pray you, ye sons of Levi:
 <small><sub>**BSB:**</sub></small>
 Moses also said to Korah, “Now listen, you sons of Levi!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H4872\|מֹשֶׁ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H7141I\|קֹ֑רַח]] [[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H4994\|נָ֖א]] [[H1121G\|בְּנֵ֥י]] [[H3878\|לֵוִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic ISRAEL|ISRAEL]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.7|<< Numbers 16:7]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.9|Numbers 16:9 >>]]</td></tr></table>
 

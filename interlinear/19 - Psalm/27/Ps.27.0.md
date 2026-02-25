@@ -1,6 +1,39 @@
+---
+title: Psalm 27:0
+type: Verse
+kjv: "A Psalm of David."
+hebrew: "לְדָוִ֨ד׀"
+pericope: "[[Ps.27.1 The LORD Is My Salvation|The LORD Is My Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 27
+book/chapter: "[[Ps.27|Psalm 27]]"
+chronological_order: 359
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H9015]]"
+texts:
+- L
+---
+
 **Psalms 27:0**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [A Psalm] of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H1732\|דָוִ֨ד]][[H9015\|׀]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.26.12|<< Psalms 26:12]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.1|Psalms 27:1 >>]]</td></tr></table>
 

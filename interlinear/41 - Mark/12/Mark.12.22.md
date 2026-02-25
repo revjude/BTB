@@ -1,10 +1,58 @@
+---
+title: Mark 12:22
+type: Verse
+kjv: "And the seven had her, and left no seed: last of all the woman died also."
+bsb: "In this way, none of the seven left any children. And last of all, the woman died."
+greek: "καὶ ἔλαβον αὐτὴν οἱ ἑπτὰ καὶ οὐκ ἀφῆκαν σπέρμα. ἔσχατον πάντων καὶ ἡ γυνὴ ἀπέθανεν."
+pericope: "[[Mark.12.18 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G3756]]"
+- "[[G0863G]]"
+- "[[G4690G]]"
+- "[[G2078]]"
+- "[[G3956]]"
+- "[[G1135G]]"
+- "[[G0599]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 12:22**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the seven had her, and left no seed: last of all the woman died also.
 <small><sub>**BSB:**</sub></small>
 In this way, none of the seven left any children. And last of all, the woman died.
-<small><sub>**Literal:**</sub></small>
-And took her the seven and not left offspring. Last of all also the woman died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.21|<< Mark 12:21]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.23|Mark 12:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2983\|ἔλαβον]]  [[G0846\|αὐτὴν]]  [[G3588\|οἱ]]  [[G2033\|ἑπτὰ]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0863G\|ἀφῆκαν]]  [[G4690G\|σπέρμα.]]  [[G2078\|ἔσχατον]]  [[G3956\|πάντων]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G0599\|ἀπέθανεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.21|<< Mark 12:21]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.23|Mark 12:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

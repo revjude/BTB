@@ -1,8 +1,63 @@
+---
+title: Genesis 43:26
+type: Verse
+kjv: "And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth."
+bsb: "When Joseph came home, they presented him with the gifts they had brought, and they bowed to the ground before him."
+hebrew: "וַיָּבֹ֤א יוֹסֵף֙ הַבַּ֔יְתָה וַיָּבִ֥יאּוּ ל֛וֹ אֶת־ הַמִּנְחָ֥ה אֲשֶׁר־ בְּיָדָ֖ם הַבָּ֑יְתָה וַיִּשְׁתַּחֲווּ־ ל֖וֹ אָֽרְצָה׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+- "[[topic SALUTATIONS|SALUTATIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3130G]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4503H]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3027K]]"
+- "[[H9028]]"
+- "[[H7812]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:26**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Joseph came home, they brought him the present which [was] in their hand into the house, and bowed themselves to him to the earth.
 <small><sub>**BSB:**</sub></small>
 When Joseph came home, they presented him with the gifts they had brought, and they bowed to the ground before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H3130G\|יוֹסֵף֙]] [[H9009\|הַ]][[H1004B\|בַּ֔יְתָ]][[H9011\|ה]] [[H9001\|וַ]][[H0935P\|יָּבִ֥יאּוּ]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4503H\|מִּנְחָ֥ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H3027K\|יָדָ֖]][[H9028\|ם]] [[H9009\|הַ]][[H1004B\|בָּ֑יְתָ]][[H9011\|ה]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּחֲווּ]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISSEMBLING|DISSEMBLING]] • [[topic SALUTATIONS|SALUTATIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.25|<< Genesis 43:25]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.27|Genesis 43:27 >>]]</td></tr></table>
 

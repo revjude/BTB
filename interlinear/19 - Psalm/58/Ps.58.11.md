@@ -1,8 +1,58 @@
+---
+title: Psalm 58:11
+type: Verse
+kjv: "So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth."
+bsb: "Then men will say, “There is surely a reward for the righteous! There is surely a God who judges the earth!”"
+hebrew: "וְיֹאמַ֣ר אָ֭דָם אַךְ־ פְּרִ֣י לַצַּדִּ֑יק אַ֥ךְ יֵשׁ־ אֱ֝לֹהִ֗ים שֹׁפְטִ֥ים בָּאָֽרֶץ׃"
+pericope: "[[Ps.58.1 God Judges the Earth|God Judges the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 58
+book/chapter: "[[Ps.58|Psalm 58]]"
+chronological_order: 371
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0559]]"
+- "[[H0120G]]"
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H6529]]"
+- "[[H9005]]"
+- "[[H6662]]"
+- "[[H3426]]"
+- "[[H0430G]]"
+- "[[H8199]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 58:11**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that a man shall say, Verily [there is] a reward for the righteous: verily he is a God that judgeth in the earth.
 <small><sub>**BSB:**</sub></small>
 Then men will say, “There is surely a reward for the righteous! There is surely a God who judges the earth!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0559\|יֹאמַ֣ר]] [[H0120G\|אָ֭דָם]] [[H0389\|אַךְ]][[H9014\|־]] [[H6529\|פְּרִ֣י]] [[H9005\|לַ]][[H6662\|צַּדִּ֑יק]] [[H0389\|אַ֥ךְ]] [[H3426\|יֵשׁ]][[H9014\|־]] [[H0430G\|אֱ֝לֹהִ֗ים]] [[H8199\|שֹׁפְטִ֥ים]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.10|<< Psalms 58:10]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.0|Psalms 59:0 >>]]</td></tr></table>
 

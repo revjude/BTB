@@ -1,8 +1,58 @@
+---
+title: Jeremiah 44:24
+type: Verse
+kjv: "Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the LORD, all Judah that are in the land of Egypt:"
+bsb: "Then Jeremiah said to all the people, including all the women, “Hear the word of the LORD, all those of Judah who are in the land of Egypt."
+hebrew: "וַיֹּ֤אמֶר יִרְמְיָ֙הוּ֙ אֶל־ כָּל־ הָעָ֔ם וְאֶ֖ל כָּל־ הַנָּשִׁ֑ים שִׁמְעוּ֙ דְּבַר־ יְהוָ֔ה כָּל־ יְהוּדָ֕ה אֲשֶׁ֖ר בְּאֶ֥רֶץ מִצְרָֽיִם׃ ס"
+pericope: "[[Jer.44.20 Calamity for the Jews|Calamity for the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3414L]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H3063G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 44:24**<big><big>[[Jer.44.20 Calamity for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Jeremiah said unto all the people, and to all the women, Hear the word of the LORD, all Judah that [are] in the land of Egypt:
 <small><sub>**BSB:**</sub></small>
 Then Jeremiah said to all the people, including all the women, “Hear the word of the LORD, all those of Judah who are in the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3414L\|יִרְמְיָ֙הוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H0413\|אֶ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֑ים]] [[H8085G\|שִׁמְעוּ֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H3063G\|יְהוּדָ֕ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.23|<< Jeremiah 44:23]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.25|Jeremiah 44:25 >>]]</td></tr></table>
 
@@ -23,7 +73,7 @@ Then Jeremiah said to all the people, including all the women, “Hear the word 
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֕ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] in [the] land of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt  |**<big>&#8207;[[H4714G\|מִצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.23|<< Jeremiah 44:23]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.25|Jeremiah 44:25 >>]]</td></tr></table>
 
 

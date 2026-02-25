@@ -1,8 +1,57 @@
+---
+title: Proverbs 20:4
+type: Verse
+kjv: "The sluggard will not plow by reason of the cold; therefore shall he beg in harvest, and have nothing."
+bsb: "The slacker does not plow in season; at harvest time he looks, but nothing is there."
+hebrew: "מֵ֭חֹרֶף עָצֵ֣ל לֹא־ יַחֲרֹ֑שׁ וְשָׁאַ֖ל בַּקָּצִ֣יר וָאָֽיִן׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BEGGARS|BEGGARS]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+- "[[topic WINTER|WINTER]]"
+strongs:
+- "[[H9006]]"
+- "[[H2779]]"
+- "[[H6102]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2790A]]"
+- "[[H7592]]"
+- "[[H9001]]"
+- "[[H9003]]"
+- "[[H7105A]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 20:4**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sluggard will not plow by reason of the cold; [therefore] shall he beg in harvest, and [have] nothing.
 <small><sub>**BSB:**</sub></small>
 The slacker does not plow in season; at harvest time he looks, but nothing is there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ֭]][[H2779\|חֹרֶף]] [[H6102\|עָצֵ֣ל]] [[H3808\|לֹא]][[H9014\|־]] [[H2790A\|יַחֲרֹ֑שׁ]] [[H9001\|וְ]][[H7592\|שָׁאַ֖ל]] [[H9003\|בַּ]][[H7105A\|קָּצִ֣יר]] [[H9002\|וָ]][[H0369\|אָֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEGGARS|BEGGARS]] • [[topic IDLENESS|IDLENESS]] • [[topic SLOTHFULNESS|SLOTHFULNESS]] • [[topic WINTER|WINTER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.3|<< Proverbs 20:3]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.5|Proverbs 20:5 >>]]</td></tr></table>
 

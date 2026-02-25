@@ -1,8 +1,69 @@
+---
+title: Nehemiah 2:10
+type: Verse
+kjv: "When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel."
+bsb: "But when Sanballat the Horonite and Tobiah the Ammonite official heard about this, they were deeply disturbed that someone had come to seek the well-being of the Israelites."
+hebrew: "וַיִּשְׁמַ֞ע סַנְבַלַּ֣ט הַחֹרֹנִ֗י וְטֽוֹבִיָּה֙ הָעֶ֣בֶד הָֽעַמֹּנִ֔י וַיֵּ֥רַע לָהֶ֖ם רָעָ֣ה גְדֹלָ֑ה אֲשֶׁר־ בָּ֥א אָדָ֔ם לְבַקֵּ֥שׁ טוֹבָ֖ה לִבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Neh.2.1 Nehemiah Sent to Jerusalem|Nehemiah Sent to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic HORONITE|HORONITE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SANBALLAT|SANBALLAT]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H5571]]"
+- "[[H9009]]"
+- "[[H2772]]"
+- "[[H9002]]"
+- "[[H2900I]]"
+- "[[H5650]]"
+- "[[H5984H]]"
+- "[[H7489A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7451I]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H0120G]]"
+- "[[H1245]]"
+- "[[H2896C]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:10**<big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard [of it], it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 But when Sanballat the Horonite and Tobiah the Ammonite official heard about this, they were deeply disturbed that someone had come to seek the well-being of the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֞ע]] [[H5571\|סַנְבַלַּ֣ט]] [[H9009\|הַ]][[H2772\|חֹרֹנִ֗י]] [[H9002\|וְ]][[H2900I\|טֽוֹבִיָּה֙]] [[H9009\|הָ]][[H5650\|עֶ֣בֶד]] [[H9009\|הָֽ]][[H5984H\|עַמֹּנִ֔י]] [[H9001\|וַ]][[H7489A\|יֵּ֥רַע]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H7451I\|רָעָ֣ה]] [[H1419A\|גְדֹלָ֑ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥א]] [[H0120G\|אָדָ֔ם]] [[H9005\|לְ]][[H1245\|בַקֵּ֥שׁ]] [[H2896C\|טוֹבָ֖ה]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COUNTRY|COUNTRY]] • [[topic HORONITE|HORONITE]] • [[topic MALICE|MALICE]] • [[topic SANBALLAT|SANBALLAT]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.9|<< Nehemiah 2:9]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.11|Nehemiah 2:11 >>]]</td></tr></table>
 

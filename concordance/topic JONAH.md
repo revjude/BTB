@@ -7,7 +7,7 @@
 
 → Sent by God to warn the city of Nineveh [[Jonah.1.1|Jon 1:1]],[[Jonah.1.2|2]]
 
-→ Disobedience and punishment of [[Jonah.1.3|Jon 1:3]]-[[Jonah.1.17|17]]
+→ Disobedience and punishment of [[Jonah.1.3|Jon 1:3-17]]
 
 → Repentance and deliverance of [[Jonah.2|Jon 2]]; [[Matt.12.40|Mt 12:40]]
 

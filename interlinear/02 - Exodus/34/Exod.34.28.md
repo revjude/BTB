@@ -1,8 +1,74 @@
+---
+title: Exodus 34:28
+type: Verse
+kjv: "And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments."
+bsb: "So Moses was there with the LORD forty days and forty nights without eating bread or drinking water. He wrote on the tablets the words of the covenant—the Ten Commandments."
+hebrew: "וַֽיְהִי־ שָׁ֣ם עִם־ יְהוָ֗ה אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה לֶ֚חֶם לֹ֣א אָכַ֔ל וּמַ֖יִם לֹ֣א שָׁתָ֑ה וַיִּכְתֹּ֣ב עַל־ הַלֻּחֹ֗ת אֵ֚ת דִּבְרֵ֣י הַבְּרִ֔ית עֲשֶׂ֖רֶת הַדְּבָרִֽים׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic FORTY|FORTY]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H5973A]]"
+- "[[H3068G]]"
+- "[[H0705]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H3899H]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H4325G]]"
+- "[[H8354]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H3871]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H1285]]"
+- "[[H6235]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:28**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he was there with the LORD forty days and forty nights; he did neither eat bread, nor drink water. And he wrote upon the tables the words of the covenant, the ten commandments.
 <small><sub>**BSB:**</sub></small>
 So Moses was there with the LORD forty days and forty nights without eating bread or drinking water. He wrote on the tablets the words of the covenant—the Ten Commandments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H5973A\|עִם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0705\|אַרְבָּעִ֥ים]] [[H3117G\|יוֹם֙]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֣ים]] [[H3915\|לַ֔יְלָה]] [[H3899H\|לֶ֚חֶם]] [[H3808\|לֹ֣א]] [[H0398\|אָכַ֔ל]] [[H9002\|וּ]][[H4325G\|מַ֖יִם]] [[H3808\|לֹ֣א]] [[H8354\|שָׁתָ֑ה]] [[H9001\|וַ]][[H3789\|יִּכְתֹּ֣ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3871\|לֻּחֹ֗ת]] [[H0853\|אֵ֚ת]] [[H1697G\|דִּבְרֵ֣י]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H6235\|עֲשֶׂ֖רֶת]] [[H9009\|הַ]][[H1697G\|דְּבָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic COVENANT|COVENANT]] • [[topic DECALOGUE|DECALOGUE]] • [[topic FASTING|FASTING]] • [[topic FORTY|FORTY]] • [[topic LAW|LAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.27|<< Exodus 34:27]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.29|Exodus 34:29 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Genesis 43:14
+type: Verse
+kjv: "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved of my children, I am bereaved."
+bsb: "May God Almighty grant you mercy before the man, that he may release your other brother along with Benjamin. As for me, if I am bereaved, I am bereaved.”"
+hebrew: "וְאֵ֣ל שַׁדַּ֗י יִתֵּ֨ן לָכֶ֤ם רַחֲמִים֙ לִפְנֵ֣י הָאִ֔ישׁ וְשִׁלַּ֥ח לָכֶ֛ם אֶת־ אֲחִיכֶ֥ם אַחֵ֖ר וְאֶת־ בִּנְיָמִ֑ין וַאֲנִ֕י כַּאֲשֶׁ֥ר שָׁכֹ֖לְתִּי שָׁכָֽלְתִּי׃"
+pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[H9002]]"
+- "[[H0410G]]"
+- "[[H7706]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H7356B]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9026]]"
+- "[[H0312]]"
+- "[[H1144G]]"
+- "[[H0589]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:14**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved [of my children], I am bereaved.
 <small><sub>**BSB:**</sub></small>
 May God Almighty grant you mercy before the man, that he may release your other brother along with Benjamin. As for me, if I am bereaved, I am bereaved.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0410G\|אֵ֣ל]] [[H7706\|שַׁדַּ֗י]] [[H5414G\|יִתֵּ֨ן]] [[H9005\|לָ]][[H9036\|כֶ֤ם]] [[H7356B\|רַחֲמִים֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H9001\|וְ]][[H7971G\|שִׁלַּ֥ח]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אֲחִי]][[H9026\|כֶ֥ם]] [[H0312\|אַחֵ֖ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1144G\|בִּנְיָמִ֑ין]] [[H9002\|וַ]][[H0589\|אֲנִ֕י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H7921A\|שָׁכֹ֖לְתִּי]] [[H7921A\|שָׁכָֽלְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JACOB|JACOB]] • [[topic MONEY|MONEY]] • [[topic PARENTS|PARENTS]] • [[topic SORROW|SORROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.13|<< Genesis 43:13]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.15|Genesis 43:15 >>]]</td></tr></table>
 

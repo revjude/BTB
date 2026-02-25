@@ -1,10 +1,59 @@
+---
+title: 2 Timothy 4:13
+type: Verse
+kjv: "The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments."
+bsb: "When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments."
+greek: "Τὸν φαιλόνην ὃν ἀπέλιπον ἐν Τρῳάδι παρὰ Κάρπῳ, ἐρχόμενος φέρε καὶ τὰ βιβλία μάλιστα τὰς μεμβράνας.¶"
+pericope: "[[2Tim.4.9 Personal Concerns|Personal Concerns]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic CARPUS|CARPUS]]"
+- "[[topic CLOAK|CLOAK]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic PARCHMENT|PARCHMENT]]"
+- "[[topic TROAS|TROAS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5341]]"
+- "[[G3739]]"
+- "[[G0620]]"
+- "[[G1722]]"
+- "[[G5174]]"
+- "[[G3844]]"
+- "[[G2591]]"
+- "[[G2064]]"
+- "[[G5342]]"
+- "[[G2532]]"
+- "[[G0975]]"
+- "[[G3122]]"
+- "[[G3200]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **2 Timothy 4:13**<big><big>[[2Tim.4.9 Personal Concerns|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The cloke that I left at Troas with Carpus, when thou comest, bring [with thee], and the books, [but] especially the parchments.
 <small><sub>**BSB:**</sub></small>
 When you come, bring the cloak that I left with Carpus at Troas, and my scrolls, especially the parchments.
-<small><sub>**Literal:**</sub></small>
-The cloak that I left in Troas with Carpus, [upon] coming do bring and the books especially the parchments.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.12|<< 2 Timothy 4:12]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.14|2 Timothy 4:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὸν]]  [[G5341\|φαιλόνην]]  [[G3739\|ὃν]]  [[G0620\|ἀπέλιπον]]  [[G1722\|ἐν]]  [[G5174\|Τρῳάδι]]  [[G3844\|παρὰ]]  [[G2591\|Κάρπῳ,]]  [[G2064\|ἐρχόμενος]]  [[G5342\|φέρε]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G0975\|βιβλία]]  [[G3122\|μάλιστα]]  [[G3588\|τὰς]]  [[G3200\|μεμβράνας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARPUS|CARPUS]] • [[topic CLOAK|CLOAK]] • [[topic DRESS|DRESS]] • [[topic PARCHMENT|PARCHMENT]] • [[topic TROAS|TROAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.12|<< 2 Timothy 4:12]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.14|2 Timothy 4:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,76 @@
+---
+title: LXX Nehemiah 9:10
+type: Verse
+lxx: "And you gave signs and miracles in Egypt to Pharaoh, and among all  his servants, and among all the people  of his land, for you knew that they extolled themselves above them; and you made for yourself a name as it is this day."
+greek: "και έδωκας σημεία και τέρατα εν Αιγύπτω εν Φαραώ και εν πάσι τοις παισίν αυτού και εν παντί τω λαώ της γης αυτού ότι έγνως ότι υπερηφάνησαν επ΄ αυτούς και εποίησας σεαυτώ όνομα ως η ημέρα αύτη"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RED SEA|RED SEA]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G4592]]"
+- "[[G2532]]"
+- "[[G5059]]"
+- "[[G1722]]"
+- "[[G0125]]"
+- "[[G1722]]"
+- "[[G5328]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G1097]]"
+- "[[G3754]]"
+- "[[G9548]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G4572]]"
+- "[[G3686]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+---
+
 **LXX Nehemiah 9:10** 
 <small><sub>**LXX:**</sub></small>
 And you gave signs and miracles in Egypt to Pharaoh, and among all  his servants, and among all the people  of his land, for you knew that they extolled themselves above them; and you made for yourself a name as \[it is\] this day. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1325\|έδωκας]] [[G4592\|σημεία]] [[G2532\|και]] [[G5059\|τέρατα]] [[G1722\|εν]] [[G0125\|Αιγύπτω]] [[G1722\|εν]] [[G5328\|Φαραώ]] [[G2532\|και]] [[G1722\|εν]] [[G3956\|πάσι]] [[G3588\|τοις]] [[G3816\|παισίν]] [[G1473\|αυτού]] [[G2532\|και]] [[G1722\|εν]] [[G3956\|παντί]] [[G3588\|τω]] [[G2992\|λαώ]] [[G3588\|της]] [[G1093\|γης]] [[G1473\|αυτού]] [[G3754\|ότι]] [[G1097\|έγνως]] [[G3754\|ότι]] [[G9548\|υπερηφάνησαν]] [[G1909\|επ΄]] [[G1473\|αυτούς]] [[G2532\|και]] [[G4160\|εποίησας]] [[G4572\|σεαυτώ]] [[G3686\|όνομα]] [[G5613\|ως]] [[G3588\|η]] [[G2250\|ημέρα]] [[G3778\|αύτη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RED SEA|RED SEA]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.9|<< Nehemiah 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.11|Nehemiah 9:11 >>]]</td></tr></table>
 
@@ -40,6 +110,6 @@ And you gave signs and miracles in Egypt to Pharaoh, and among all  his servants
 | as | **<big>[[G5613\|ως]]</big>** |
 | \[it is\]\<obj.> | **<big>[[G3588\|η]]</big>** |
 | this day. | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|αύτη]]</big>** |
-[[Neh.9.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.9|<< Nehemiah 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.11|Nehemiah 9:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.9.9|<< Nehemiah 9:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.9.11|Nehemiah 9:11 >>]]</td></tr></table>
 
 

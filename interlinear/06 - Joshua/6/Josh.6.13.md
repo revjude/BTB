@@ -1,8 +1,64 @@
+---
+title: Joshua 6:13
+type: Verse
+kjv: "And seven priests bearing seven trumpets of rams’ horns before the ark of the LORD went on continually, and blew with the trumpets: and the armed men went before them; but the rereward came after the ark of the LORD, the priests going on, and blowing with the trumpets."
+bsb: "And the seven priests carrying seven rams’ horns kept marching ahead of the ark of the LORD and blowing the horns. The armed troops went in front of them and the rear guard followed the ark of the LORD, while the horns kept sounding."
+hebrew: "וְשִׁבְעָ֣ה הַכֹּהֲנִ֡ים נֹשְׂאִים֩ שִׁבְעָ֨ה שׁוֹפְר֜וֹת הַיֹּבְלִ֗ים לִפְנֵי֙ אֲר֣וֹן יְהוָ֔ה הֹלְכִ֣ים הָל֔וֹךְ וְתָקְע֖וּ בַּשּׁוֹפָר֑וֹת וְהֶחָלוּץ֙ הֹלֵ֣ךְ לִפְנֵיהֶ֔ם וְהַֽמְאַסֵּ֗ף הֹלֵךְ֙ אַֽחֲרֵי֙ אֲר֣וֹן יְהוָ֔ה הָל֖וֹךְ וְתָק֥וֹעַ בַּשּׁוֹפָרֽוֹת׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H7782]]"
+- "[[H3104]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H1980I]]"
+- "[[H1980L]]"
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H2502B]]"
+- "[[H9028]]"
+- "[[H0622]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 6:13**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seven priests bearing seven trumpets of rams’ horns before the ark of the LORD went on continually, and blew with the trumpets: and the armed men went before them; but the rereward came after the ark of the LORD, [the priests] going on, and blowing with the trumpets.
 <small><sub>**BSB:**</sub></small>
 And the seven priests carrying seven rams’ horns kept marching ahead of the ark of the LORD and blowing the horns. The armed troops went in front of them and the rear guard followed the ark of the LORD, while the horns kept sounding.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7651\|שִׁבְעָ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֡ים]] [[H5375H\|נֹשְׂאִים֩]] [[H7651\|שִׁבְעָ֨ה]] [[H7782\|שׁוֹפְר֜וֹת]] [[H9009\|הַ]][[H3104\|יֹּבְלִ֗ים]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֔ה]] [[H1980I\|הֹלְכִ֣ים]] [[H1980L\|הָל֔וֹךְ]] [[H9001\|וְ]][[H8628\|תָקְע֖וּ]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָר֑וֹת]] [[H9002\|וְ]][[H9009\|הֶ]][[H2502B\|חָלוּץ֙]] [[H1980I\|הֹלֵ֣ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H9009\|הַֽ]][[H0622\|מְאַסֵּ֗ף]] [[H1980I\|הֹלֵךְ֙]] [[H0310A\|אַֽחֲרֵי֙]] [[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֔ה]] [[H1980L\|הָל֖וֹךְ]] [[H9002\|וְ]][[H8628\|תָק֥וֹעַ]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic ARMIES|ARMIES]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.12|<< Joshua 6:12]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.14|Joshua 6:14 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Romans 12:1
+type: Verse
+kjv: "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service."
+bsb: "Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship."
+greek: "Παρακαλῶ οὖν ὑμᾶς, ἀδελφοί, διὰ τῶν οἰκτιρμῶν τοῦ θεοῦ, παραστῆσαι τὰ σώματα ὑμῶν θυσίαν ζῶσαν ἁγίαν εὐάρεστον τῷ θεῷ, τὴν λογικὴν λατρείαν ὑμῶν."
+pericope: "[[Rom.12.1 Living Sacrifices|Living Sacrifices]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 12
+book/chapter: "[[Rom.12|Romans 12]]"
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SACRIFICES|SACRIFICES]]"
+strongs:
+- "[[G3870]]"
+- "[[G3767]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3628]]"
+- "[[G2316]]"
+- "[[G3936]]"
+- "[[G4983]]"
+- "[[G2378]]"
+- "[[G2198]]"
+- "[[G0040G]]"
+- "[[G2101]]"
+- "[[G3050]]"
+- "[[G2999]]"
+texts:
+- NKO
+---
+
 **Romans 12:1**<big><big>[[Rom.12.1 Living Sacrifices|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, [which is] your reasonable service.
 <small><sub>**BSB:**</sub></small>
 Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship.
-<small><sub>**Literal:**</sub></small>
-I exhort therefore you, brothers, through the compassions <the> of God, to present the bodies of you a sacrifice living holy well-pleasing <the> to God which is the reasonable service of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.36|<< Romans 11:36]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.2|Romans 12:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|Παρακαλῶ]]  [[G3767\|οὖν]]  [[G4771\|ὑμᾶς,]]  [[G0080\|ἀδελφοί,]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G3628\|οἰκτιρμῶν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3936\|παραστῆσαι]]  [[G3588\|τὰ]]  [[G4983\|σώματα]]  [[G4771\|ὑμῶν]]  [[G2378\|θυσίαν]]  [[G2198\|ζῶσαν]]  [[G0040G\|ἁγίαν]]  [[G2101\|εὐάρεστον]]  [[G3588\|τῷ]]  [[G2316\|θεῷ,]]  [[G3588\|τὴν]]  [[G3050\|λογικὴν]]  [[G2999\|λατρείαν]]  [[G4771\|ὑμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSECRATION|CONSECRATION]] • [[topic HOLINESS|HOLINESS]] • [[topic OFFERINGS|OFFERINGS]] • [[topic RELIGION|RELIGION]] • [[topic SACRIFICES|SACRIFICES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.36|<< Romans 11:36]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.2|Romans 12:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

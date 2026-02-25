@@ -1,8 +1,58 @@
+---
+title: Job 14:7
+type: Verse
+kjv: "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease."
+bsb: "For there is hope for a tree: If it is cut down, it will sprout again, and its tender shoots will not fail."
+hebrew: "כִּ֤י יֵ֥שׁ לָעֵ֗ץ תִּ֫קְוָ֥ה אִֽם־ יִ֭כָּרֵת וְע֣וֹד יַחֲלִ֑יף וְ֝יֹֽנַקְתּ֗וֹ לֹ֣א תֶחְדָּֽל׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H9005]]"
+- "[[H6086H]]"
+- "[[H8615B]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3772G]]"
+- "[[H9002]]"
+- "[[H5750]]"
+- "[[H2498]]"
+- "[[H3127]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H2308]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:7**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.
 <small><sub>**BSB:**</sub></small>
 For there is hope for a tree: If it is cut down, it will sprout again, and its tender shoots will not fail.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3426\|יֵ֥שׁ]] [[H9005\|לָ]][[H6086H\|עֵ֗ץ]] [[H8615B\|תִּ֫קְוָ֥ה]] [[H0518A\|אִֽם]][[H9014\|־]] [[H3772G\|יִ֭כָּרֵת]] [[H9002\|וְ]][[H5750\|ע֣וֹד]] [[H2498\|יַחֲלִ֑יף]] [[H9002\|וְ֝]][[H3127\|יֹֽנַקְתּ֗]][[H9023\|וֹ]] [[H3808\|לֹ֣א]] [[H2308\|תֶחְדָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.6|<< Job 14:6]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.8|Job 14:8 >>]]</td></tr></table>
 

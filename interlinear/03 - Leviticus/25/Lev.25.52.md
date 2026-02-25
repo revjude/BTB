@@ -1,8 +1,68 @@
+---
+title: Leviticus 25:52
+type: Verse
+kjv: "And if there remain but few years unto the year of jubile, then he shall count with him, and according unto his years shall he give him again the price of his redemption."
+bsb: "If only a few years remain until the Year of Jubilee, he is to calculate and pay his redemption according to his remaining years."
+hebrew: "וְאִם־ מְעַ֞ט נִשְׁאַ֧ר בַּשָּׁנִ֛ים עַד־ שְׁנַ֥ת הַיֹּבֵ֖ל וְחִשַּׁב־ ל֑וֹ כְּפִ֣י שָׁנָ֔יו יָשִׁ֖יב אֶת־ גְּאֻלָּתֽוֹ׃"
+pericope: "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4592]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3104]]"
+- "[[H9001]]"
+- "[[H2803H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H6310K]]"
+- "[[H9023]]"
+- "[[H7725K]]"
+- "[[H0853]]"
+- "[[H1353]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:52**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if there remain but few years unto the year of jubile, then he shall count with him, [and] according unto his years shall he give him again the price of his redemption.
 <small><sub>**BSB:**</sub></small>
 If only a few years remain until the Year of Jubilee, he is to calculate and pay his redemption according to his remaining years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H4592\|מְעַ֞ט]] [[H7604\|נִשְׁאַ֧ר]] [[H9003\|בַּ]][[H8141\|שָּׁנִ֛ים]] [[H5704\|עַד]][[H9014\|־]] [[H8141\|שְׁנַ֥ת]] [[H9009\|הַ]][[H3104\|יֹּבֵ֖ל]] [[H9001\|וְ]][[H2803H\|חִשַּׁב]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9004\|כְּ]][[H6310K\|פִ֣י]] [[H8141\|שָׁנָ֔י]][[H9023\|ו]] [[H7725K\|יָשִׁ֖יב]] [[H0853\|אֶת]][[H9014\|־]] [[H1353\|גְּאֻלָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.51|<< Leviticus 25:51]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.53|Leviticus 25:53 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: Numbers 31:19
+type: Verse
+kjv: "And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and your captives on the third day, and on the seventh day."
+bsb: "All of you who have killed a person or touched the dead are to remain outside the camp for seven days. On the third day and the seventh day you are to purify both yourselves and your captives."
+hebrew: "וְאַתֶּ֗ם חֲנ֛וּ מִח֥וּץ לַֽמַּחֲנֶ֖ה שִׁבְעַ֣ת יָמִ֑ים כֹּל֩ הֹרֵ֨ג נֶ֜פֶשׁ וְכֹ֣ל׀ נֹגֵ֣עַ בֶּֽחָלָ֗ל תִּֽתְחַטְּא֞וּ בַּיּ֤וֹם הַשְּׁלִישִׁי֙ וּבַיּ֣וֹם הַשְּׁבִיעִ֔י אַתֶּ֖ם וּשְׁבִיכֶֽם׃"
+pericope: "[[Num.31.1 Vengeance on Midian|Vengeance on Midian]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H2583]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H3605]]"
+- "[[H2026]]"
+- "[[H5315J]]"
+- "[[H9015]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H2491A]]"
+- "[[H2398]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H7637]]"
+- "[[H7628A]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:19**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify [both] yourselves and your captives on the third day, and on the seventh day.
 <small><sub>**BSB:**</sub></small>
 All of you who have killed a person or touched the dead are to remain outside the camp for seven days. On the third day and the seventh day you are to purify both yourselves and your captives.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּ֗ם]] [[H2583\|חֲנ֛וּ]] [[H9006\|מִ]][[H2351\|ח֥וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֑ים]] [[H3605\|כֹּל֩]] [[H2026\|הֹרֵ֨ג]] [[H5315J\|נֶ֜פֶשׁ]] [[H9002\|וְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H5060\|נֹגֵ֣עַ]] [[H9003\|בֶּֽ]][[H2491A\|חָלָ֗ל]] [[H2398\|תִּֽתְחַטְּא֞וּ]] [[H9003\|בַּ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁי֙]] [[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔י]] [[H0859D\|אַתֶּ֖ם]] [[H9002\|וּ]][[H7628A\|שְׁבִי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic MOURNING|MOURNING]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.18|<< Numbers 31:18]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.20|Numbers 31:20 >>]]</td></tr></table>
 

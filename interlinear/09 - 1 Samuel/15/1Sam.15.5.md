@@ -1,8 +1,55 @@
+---
+title: 1 Samuel 15:5
+type: Verse
+kjv: "And Saul came to a city of Amalek, and laid wait in the valley."
+bsb: "Saul came to the city of Amalek and lay in wait in the valley."
+hebrew: "וַיָּבֹ֥א שָׁא֖וּל עַד־ עִ֣יר עֲמָלֵ֑ק וַיָּ֖רֶב בַּנָּֽחַל׃"
+pericope: "[[1Sam.15.1 Saul’s Disobedience|Saul’s Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H7586G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H6002G]]"
+- "[[H0693]]"
+- "[[H9003]]"
+- "[[H5158N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:5**<big><big>[[1Sam.15.1 Saul’s Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul came to a city of Amalek, and laid wait in the valley.
 <small><sub>**BSB:**</sub></small>
 Saul came to the city of Amalek and lay in wait in the valley.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H7586G\|שָׁא֖וּל]] [[H5704\|עַד]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H6002G\|עֲמָלֵ֑ק]] [[H9001\|וַ]][[H0693\|יָּ֖רֶב]] [[H9003\|בַּ]][[H5158N\|נָּֽחַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic RETALIATION|RETALIATION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.4|<< 1 Samuel 15:4]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.6|1 Samuel 15:6 >>]]</td></tr></table>
 

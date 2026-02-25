@@ -1,10 +1,73 @@
+---
+title: Hebrews 8:5
+type: Verse
+kjv: "Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount."
+bsb: "The place where they serve is a copy and shadow of what is in heaven. This is why Moses was warned when he was about to build the tabernacle: “See to it that you make everything according to the pattern shown you on the mountain.”"
+greek: "οἵτινες ὑποδείγματι καὶ σκιᾷ λατρεύουσιν τῶν ἐπουρανίων, καθὼς κεχρημάτισται Μωϋσῆς μέλλων ἐπιτελεῖν τὴν σκηνήν· ὅρα γάρ φησιν ποιήσεις πάντα κατὰ τὸν τύπον τὸν δειχθέντα σοι ἐν τῷ ὄρει·"
+pericope: "[[Heb.8.1 Christ’s Eternal Priesthood|Christ’s Eternal Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 8
+book/chapter: "[[Heb.8|Hebrews 8]]"
+chronological_order: 1147
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PATTERN|PATTERN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SANCTUARY|SANCTUARY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3748]]"
+- "[[G5262]]"
+- "[[G2532]]"
+- "[[G4639]]"
+- "[[G3000]]"
+- "[[G3588]]"
+- "[[G2032]]"
+- "[[G2531]]"
+- "[[G5537]]"
+- "[[G3475]]"
+- "[[G3195]]"
+- "[[G2005]]"
+- "[[G4633]]"
+- "[[G3708]]"
+- "[[G1063]]"
+- "[[G5346]]"
+- "[[G4160G]]"
+- "[[G3956]]"
+- "[[G2596]]"
+- "[[G5179]]"
+- "[[G1166]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3735]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 8:5**<big><big>[[Heb.8.1 Christ’s Eternal Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, [that] thou make all things according to the pattern shewed to thee in the mount.
 <small><sub>**BSB:**</sub></small>
 The place where they serve is a copy and shadow of what is in heaven. This is why Moses was warned when he was about to build the tabernacle: “See to it that you make everything according to the pattern shown you on the mountain.”
-<small><sub>**Literal:**</sub></small>
-who to a copy and shadow minster of the heavenly, even as has been divinely instructed Moses being about to complete the tabernacle; do see that for He says you will make all things according to the pattern which having been shown you in the mountain;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.4|<< Hebrews 8:4]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.6|Hebrews 8:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|οἵτινες]]  [[G5262\|ὑποδείγματι]]  [[G2532\|καὶ]]  [[G4639\|σκιᾷ]]  [[G3000\|λατρεύουσιν]]  [[G3588\|τῶν]]  [[G2032\|ἐπουρανίων,]]  [[G2531\|καθὼς]]  [[G5537\|κεχρημάτισται]]  [[G3475\|Μωϋσῆς]]  [[G3195\|μέλλων]]  [[G2005\|ἐπιτελεῖν]]  [[G3588\|τὴν]]  [[G4633\|σκηνήν·]]  [[G3708\|ὅρα]]  [[G1063\|γάρ]]  [[G5346\|φησιν]]  [[G4160G\|ποιήσεις]]  [[G3956\|πάντα]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G5179\|τύπον]]  [[G3588\|τὸν]]  [[G1166\|δειχθέντα]]  [[G4771\|σοι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3735\|ὄρει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic LAW|LAW]] • [[topic PATTERN|PATTERN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SANCTUARY|SANCTUARY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.4|<< Hebrews 8:4]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.6|Hebrews 8:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 8:5** is...
 > $\quad$ referencing: [[LXX.Exod.25.40|Exod 25:40]]

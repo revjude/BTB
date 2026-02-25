@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon Anointed King
+type: Pericope
 pericope: "[[1Kgs.1.32 Solomon Anointed King|Solomon Anointed King]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 1
 book/chapter: "[[1Kgs.1|1 Kings 1]]"
-genre:
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.1.32]]"
 - "[[1Kgs.1.33]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.1.40]]"
 ---
 
-[[1Kgs.1|1 Kings 1:32 - 1 Kings 1:40]]
+<small>[[1Kgs.1|1 Kings 1:32-40]]</small>
 *Solomon Anointed King*
 
 [[1Kgs.1.32|32]] And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.

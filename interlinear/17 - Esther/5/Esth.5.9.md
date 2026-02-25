@@ -1,8 +1,69 @@
+---
+title: Esther 5:9
+type: Verse
+kjv: "Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai."
+bsb: "That day Haman went out full of joy and glad of heart. At the king’s gate, however, he saw Mordecai, who did not rise or tremble in fear at his presence. And Haman was filled with rage toward Mordecai."
+hebrew: "וַיֵּצֵ֤א הָמָן֙ בַּיּ֣וֹם הַה֔וּא שָׂמֵ֖חַ וְט֣וֹב לֵ֑ב וְכִרְאוֹת֩ הָמָ֨ן אֶֽת־ מָרְדֳּכַ֜י בְּשַׁ֣עַר הַמֶּ֗לֶךְ וְלֹא־ קָם֙ וְלֹא־ זָ֣ע מִמֶּ֔נּוּ וַיִּמָּלֵ֥א הָמָ֛ן עַֽל־ מָרְדֳּכַ֖י חֵמָֽה׃"
+pericope: "[[Esth.5.9 Haman’s Plot against Mordecai|Haman’s Plot against Mordecai]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H2001]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H8056]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H3820A]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4782H]]"
+- "[[H8179G]]"
+- "[[H4428G]]"
+- "[[H3808]]"
+- "[[H6965B]]"
+- "[[H2111]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H4390]]"
+- "[[H5921A]]"
+- "[[H2534]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 5:9**<big><big>[[Esth.5.9 Haman’s Plot against Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.
 <small><sub>**BSB:**</sub></small>
 That day Haman went out full of joy and glad of heart. At the king’s gate, however, he saw Mordecai, who did not rise or tremble in fear at his presence. And Haman was filled with rage toward Mordecai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֤א]] [[H2001\|הָמָן֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H8056\|שָׂמֵ֖חַ]] [[H9002\|וְ]][[H2896A\|ט֣וֹב]] [[H3820A\|לֵ֑ב]] [[H9002\|וְ]][[H9004\|כִ]][[H7200G\|רְאוֹת֩]] [[H2001\|הָמָ֨ן]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4782H\|מָרְדֳּכַ֜י]] [[H9003\|בְּ]][[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6965B\|קָם֙]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2111\|זָ֣ע]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H9001\|וַ]][[H4390\|יִּמָּלֵ֥א]] [[H2001\|הָמָ֛ן]] [[H5921A\|עַֽל]][[H9014\|־]] [[H4782H\|מָרְדֳּכַ֖י]] [[H2534\|חֵמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic HAPPINESS|HAPPINESS]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.8|<< Esther 5:8]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.10|Esther 5:10 >>]]</td></tr></table>
 

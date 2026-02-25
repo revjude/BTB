@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elihu Proclaims God’s Majesty
+type: Pericope
 pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 37
 book/chapter: "[[Job.37|Job 37]]"
-genre:
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 24
 verses:
 - "[[Job.37.1]]"
 - "[[Job.37.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Job.37.24]]"
 ---
 
-[[Job.37|Job 37:1 - Job 37:24]]
+<small>[[Job.37|Job 37:1-24]]</small>
 *Elihu Proclaims God’s Majesty*
 
 [[Job.37.1|1]] At this also my heart trembleth, and is moved out of his place.

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Famine Begins
+type: Pericope
 pericope: "[[Gen.41.53 The Famine Begins|The Famine Begins]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 41
 book/chapter: "[[Gen.41|Genesis 41]]"
-genre:
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.41.53]]"
 - "[[Gen.41.54]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.41.57]]"
 ---
 
-[[Gen.41|Genesis 41:53 - Genesis 41:57]]
+<small>[[Gen.41|Genesis 41:53-57]]</small>
 *The Famine Begins*
 
 [[Gen.41.53|53]] And the seven years of plenteousness, that was in the land of Egypt, were ended.

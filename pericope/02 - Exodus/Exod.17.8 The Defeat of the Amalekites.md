@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defeat of the Amalekites
+type: Pericope
 pericope: "[[Exod.17.8 The Defeat of the Amalekites|The Defeat of the Amalekites]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 17
 book/chapter: "[[Exod.17|Exodus 17]]"
-genre:
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.17.8]]"
 - "[[Exod.17.9]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.17.16]]"
 ---
 
-[[Exod.17|Exodus 17:8 - Exodus 17:16]]
+<small>[[Exod.17|Exodus 17:8-16]]</small>
 *The Defeat of the Amalekites*
 
 [[Exod.17.8|8]] Then came Amalek, and fought with Israel in Rephidim.

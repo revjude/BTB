@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pharaoh Pursues the Israelites
+type: Pericope
 pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 14
 book/chapter: "[[Exod.14|Exodus 14]]"
-genre:
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 14
 verses:
 - "[[Exod.14.1]]"
 - "[[Exod.14.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Exod.14.14]]"
 ---
 
-[[Exod.14|Exodus 14:1 - Exodus 14:14]]
+<small>[[Exod.14|Exodus 14:1-14]]</small>
 *Pharaoh Pursues the Israelites*
 
 [[Exod.14.1|1]] And the LORD spake unto Moses, saying,

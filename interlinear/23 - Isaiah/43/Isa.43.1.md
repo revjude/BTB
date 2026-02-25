@@ -1,8 +1,68 @@
+---
+title: Isaiah 43:1
+type: Verse
+kjv: "But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine."
+bsb: "But now, this is what the LORD says—He who created you, O Jacob, and He who formed you, O Israel: “Do not fear, for I have redeemed you; I have called you by your name; you are Mine!"
+hebrew: "וְעַתָּ֞ה כֹּֽה־ אָמַ֤ר יְהוָה֙ בֹּרַאֲךָ֣ יַעֲקֹ֔ב וְיֹצֶרְךָ֖ יִשְׂרָאֵ֑ל אַל־ תִּירָא֙ כִּ֣י גְאַלְתִּ֔יךָ קָרָ֥אתִי בְשִׁמְךָ֖ לִי־ אָֽתָּה׃"
+pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H1254A]]"
+- "[[H9031]]"
+- "[[H3290]]"
+- "[[H3335G]]"
+- "[[H3478]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H3588A]]"
+- "[[H1350A]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:1**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called [thee] by thy name; thou [art] mine.
 <small><sub>**BSB:**</sub></small>
 But now, this is what the LORD says—He who created you, O Jacob, and He who formed you, O Israel: “Do not fear, for I have redeemed you; I have called you by your name; you are Mine!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֞ה]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H1254A\|בֹּרַאֲ]][[H9031\|ךָ֣]] [[H3290\|יַעֲקֹ֔ב]] [[H9002\|וְ]][[H3335G\|יֹצֶרְ]][[H9031\|ךָ֖]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָא֙]] [[H3588A\|כִּ֣י]] [[H1350A\|גְאַלְתִּ֔י]][[H9031\|ךָ]] [[H7121G\|קָרָ֥אתִי]] [[H9003\|בְ]][[H8034\|שִׁמְ]][[H9021\|ךָ֖]] [[H9005\|לִ]][[H9030\|י]][[H9014\|־]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.25|<< Isaiah 42:25]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.2|Isaiah 43:2 >>]]</td></tr></table>
 

@@ -1,10 +1,70 @@
+---
+title: Acts 2:20
+type: Verse
+kjv: "The sun shall be turned into darkness, and the moon into blood, before that great and notable day of the Lord come:"
+bsb: "The sun will be turned to darkness, and the moon to blood, before the coming of the great and glorious Day of the Lord."
+greek: "ὁ ἥλιος μεταστραφήσεται εἰς σκότος καὶ ἡ σελήνη εἰς αἷμα, πρὶν ἢ ἐλθεῖν τὴν ἡμέραν κυρίου τὴν μεγάλην καὶ ἐπιφανῆ."
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MOON|MOON]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SUN|SUN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2246]]"
+- "[[G3344]]"
+- "[[G1519]]"
+- "[[G4655]]"
+- "[[G2532]]"
+- "[[G4582]]"
+- "[[G0129G]]"
+- "[[G4250]]"
+- "[[G2228]]"
+- "[[G2064]]"
+- "[[G2250]]"
+- "[[G2962G]]"
+- "[[G3173]]"
+- "[[G2016]]"
+texts:
+- NKO
+- ko
+---
+
 **Acts 2:20**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The sun shall be turned into darkness, and the moon into blood, before that great and notable day of the Lord come:
 <small><sub>**BSB:**</sub></small>
 The sun will be turned to darkness, and the moon to blood, before the coming of the great and glorious Day of the Lord.
-<small><sub>**Literal:**</sub></small>
-The sun will be turned into darkness and the moon into blood, before than coming the day of [the] Lord <the> great and glorious.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.19|<< Acts 2:19]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.21|Acts 2:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2246\|ἥλιος]]  [[G3344\|μεταστραφήσεται]]  [[G1519\|εἰς]]  [[G4655\|σκότος]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4582\|σελήνη]]  [[G1519\|εἰς]]  [[G0129G\|αἷμα,]]  [[G4250\|πρὶν]]  [[G2228\|ἢ]]  [[G2064\|ἐλθεῖν]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν]]  [[G2962G\|κυρίου]]  [[G3588\|τὴν]]  [[G3173\|μεγάλην]]  [[G2532\|καὶ]]  [[G2016\|ἐπιφανῆ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic CHURCH|CHURCH]] • [[topic ECLIPSE|ECLIPSE]] • [[topic HEAVEN|HEAVEN]] • [[topic JUDGMENT|JUDGMENT]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MOON|MOON]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic SUN|SUN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.19|<< Acts 2:19]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.21|Acts 2:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 2:20** is...
 > $\quad$ referencing: [[LXX.Joel.2.28|Joel 2:28-32]]

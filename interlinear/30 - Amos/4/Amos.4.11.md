@@ -1,8 +1,72 @@
+---
+title: Amos 4:11
+type: Verse
+kjv: "I have overthrown some of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the LORD."
+bsb: "“Some of you I overthrew as I overthrew Sodom and Gomorrah, and you were like a firebrand snatched from a blaze, yet you did not return to Me,” declares the LORD."
+hebrew: "הָפַ֣כְתִּי בָכֶ֗ם כְּמַהְפֵּכַ֤ת אֱלֹהִים֙ אֶת־ סְדֹ֣ם וְאֶת־ עֲמֹרָ֔ה וַתִּהְי֕וּ כְּא֖וּד מֻצָּ֣ל מִשְׂרֵפָ֑ה וְלֹֽא־ שַׁבְתֶּ֥ם עָדַ֖י נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Amos.4.1 Punishment Brings No Repentance|Punishment Brings No Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 4
+book/chapter: "[[Amos.4|Amos 4]]"
+chronological_order: 601
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FIREBRAND|FIREBRAND]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H2015]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9004]]"
+- "[[H4114]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5467]]"
+- "[[H9002]]"
+- "[[H6017]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0181]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H8316]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H5704]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- L(abh)
+---
+
 **Amos 4:11**<big><big>[[Amos.4.1 Punishment Brings No Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have overthrown [some] of you, as God overthrew Sodom and Gomorrah, and ye were as a firebrand plucked out of the burning: yet have ye not returned unto me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “Some of you I overthrew as I overthrew Sodom and Gomorrah, and you were like a firebrand snatched from a blaze, yet you did not return to Me,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2015\|הָפַ֣כְתִּי]] [[H9003\|בָ]][[H9036\|כֶ֗ם]] [[H9004\|כְּ]][[H4114\|מַהְפֵּכַ֤ת]] [[H0430G\|אֱלֹהִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5467\|סְדֹ֣ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6017\|עֲמֹרָ֔ה]] [[H9001\|וַ]][[H1961\|תִּהְי֕וּ]] [[H9004\|כְּ]][[H0181\|א֖וּד]] [[H5337\|מֻצָּ֣ל]] [[H9006\|מִ]][[H8316\|שְׂרֵפָ֑ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|שַׁבְתֶּ֥ם]] [[H5704\|עָדַ֖]][[H9030\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FIREBRAND|FIREBRAND]] • [[topic GOD|GOD]] • [[topic GOMORRAH|GOMORRAH]] • [[topic SODOM|SODOM]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.10|<< Amos 4:10]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.12|Amos 4:12 >>]]</td></tr></table>
 
@@ -24,7 +88,7 @@ I have overthrown [some] of you, as God overthrew Sodom and Gomorrah, and ye wer
 | you returned  |**<big>&#8207;[[H7725G\|שַׁבְתֶּ֥ם]]&#8207; </big>**| shav.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H5704\|עָדַ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'a.Da<small><sup>[[HR]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.4.10|<< Amos 4:10]]</td><td align="center" style="border:none;">[[Amos.4|Amos 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.12|Amos 4:12 >>]]</td></tr></table>
 
 [^1]: ABH spelled: **<span class="ashebrew"><big>מִשְּׂרֵפָ֑ה</big></span>**

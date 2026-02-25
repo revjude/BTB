@@ -1,8 +1,57 @@
+---
+title: Job 10:14
+type: Verse
+kjv: "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity."
+bsb: "If I sinned, You would take note, and would not acquit me of my iniquity."
+hebrew: "אִם־ חָטָ֥אתִי וּשְׁמַרְתָּ֑נִי וּ֝מֵעֲוֹנִ֗י לֹ֣א תְנַקֵּֽנִי׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2398]]"
+- "[[H9001]]"
+- "[[H8104I]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5771G]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H5352]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:14**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.
 <small><sub>**BSB:**</sub></small>
 If I sinned, You would take note, and would not acquit me of my iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2398\|חָטָ֥אתִי]] [[H9001\|וּ]][[H8104I\|שְׁמַרְתָּ֑]][[H9030\|נִי]] [[H9002\|וּ֝]][[H9006\|מֵ]][[H5771G\|עֲוֹנִ֗]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H5352\|תְנַקֵּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.13|<< Job 10:13]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.15|Job 10:15 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 35:13
+type: Verse
+kjv: "Thus saith the LORD of hosts, the God of Israel; Go and tell the men of Judah and the inhabitants of Jerusalem, Will ye not receive instruction to hearken to my words? saith the LORD."
+bsb: "“This is what the LORD of Hosts, the God of Israel, says: Go and tell the men of Judah and the residents of Jerusalem: ‘Will you not accept discipline and obey My words?’ declares the LORD."
+hebrew: "כֹּֽה־ אָמַ֞ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הָלֹ֤ךְ וְאָֽמַרְתָּ֙ לְאִ֣ישׁ יְהוּדָ֔ה וּלְיֽוֹשְׁבֵ֖י יְרֽוּשָׁלִָ֑ם הֲל֨וֹא תִקְח֥וּ מוּסָ֛ר לִשְׁמֹ֥עַ אֶל־ דְּבָרַ֖י נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.35.12 Judah Rebuked|Judah Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3947H]]"
+- "[[H4148H]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:13**<big><big>[[Jer.35.12 Judah Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, the God of Israel; Go and tell the men of Judah and the inhabitants of Jerusalem, Will ye not receive instruction to hearken to my words? saith the LORD.
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD of Hosts, the God of Israel, says: Go and tell the men of Judah and the residents of Jerusalem: ‘Will you not accept discipline and obey My words?’ declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1980G\|הָלֹ֤ךְ]] [[H9001\|וְ]][[H0559\|אָֽמַרְתָּ֙]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וּ]][[H9005\|לְ]][[H3427\|יֽוֹשְׁבֵ֖י]] [[H3389\|יְרֽוּשָׁלִָ֑ם]] [[H9008\|הֲ]][[H3808\|ל֨וֹא]] [[H3947H\|תִקְח֥וּ]] [[H4148H\|מוּסָ֛ר]] [[H9005\|לִ]][[H8085H\|שְׁמֹ֥עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דְּבָרַ֖]][[H9020\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.12|<< Jeremiah 35:12]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.14|Jeremiah 35:14 >>]]</td></tr></table>
 

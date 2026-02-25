@@ -1,8 +1,66 @@
+---
+title: Habakkuk 1:4
+type: Verse
+kjv: "Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth."
+bsb: "Therefore the law is paralyzed, and justice never goes forth. For the wicked hem in the righteous, so that justice is perverted."
+hebrew: "עַל־ כֵּן֙ תָּפ֣וּג תּוֹרָ֔ה וְלֹֽא־ יֵצֵ֥א לָנֶ֖צַח מִשְׁפָּ֑ט כִּ֤י רָשָׁע֙ מַכְתִּ֣יר אֶת־ הַצַּדִּ֔יק עַל־ כֵּ֛ן יֵצֵ֥א מִשְׁפָּ֖ט מְעֻקָּֽל׃"
+pericope: "[[Hab.1.1 Habakkuk’s First Complaint|Habakkuk’s First Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H6313]]"
+- "[[H8451]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H4941H]]"
+- "[[H3588A]]"
+- "[[H7563]]"
+- "[[H3803]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H6662]]"
+- "[[H6127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:4**<big><big>[[Hab.1.1 Habakkuk’s First Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
 <small><sub>**BSB:**</sub></small>
 Therefore the law is paralyzed, and justice never goes forth. For the wicked hem in the righteous, so that justice is perverted.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H6313\|תָּפ֣וּג]] [[H8451\|תּוֹרָ֔ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3318G\|יֵצֵ֥א]] [[H9005\|לָ]][[H5331\|נֶ֖צַח]] [[H4941H\|מִשְׁפָּ֑ט]] [[H3588A\|כִּ֤י]] [[H7563\|רָשָׁע֙]] [[H3803\|מַכְתִּ֣יר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6662\|צַּדִּ֔יק]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֛ן]] [[H3318G\|יֵצֵ֥א]] [[H4941H\|מִשְׁפָּ֖ט]] [[H6127\|מְעֻקָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUSTICE|JUSTICE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RULERS|RULERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.3|<< Habakkuk 1:3]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.5|Habakkuk 1:5 >>]]</td></tr></table>
 

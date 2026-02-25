@@ -1,8 +1,60 @@
+---
+title: Proverbs 25:7
+type: Verse
+kjv: "For better it is that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen."
+bsb: "for it is better to be told, “Come up here!” than to be demoted in the presence of the prince. Even what you have seen with your own eyes,"
+hebrew: "כִּ֤י ט֥וֹב אֲמָר־ לְךָ֗ עֲֽלֵ֫ה הֵ֥נָּה מֵֽ֭הַשְׁפִּ֣ילְךָ לִפְנֵ֣י נָדִ֑יב אֲשֶׁ֖ר רָא֣וּ עֵינֶֽיךָ׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GUEST|GUEST]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2896A]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5927G]]"
+- "[[H2008]]"
+- "[[H9006]]"
+- "[[H8213]]"
+- "[[H6440H]]"
+- "[[H5081H]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:7**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For better [it is] that it be said unto thee, Come up hither; than that thou shouldest be put lower in the presence of the prince whom thine eyes have seen.
 <small><sub>**BSB:**</sub></small>
 for it is better to be told, “Come up here!” than to be demoted in the presence of the prince. Even what you have seen with your own eyes,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H2896A\|ט֥וֹב]] [[H0559\|אֲמָר]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H5927G\|עֲֽלֵ֫ה]] [[H2008\|הֵ֥נָּה]] [[H9006\|מֵֽ֭]][[H8213\|הַשְׁפִּ֣ילְ]][[H9031\|ךָ]] [[H9005\|לִ]][[H6440H\|פְנֵ֣י]] [[H5081H\|נָדִ֑יב]] [[H0834A\|אֲשֶׁ֖ר]] [[H7200G\|רָא֣וּ]] [[H5869A\|עֵינֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GUEST|GUEST]] • [[topic HUMILITY|HUMILITY]] • [[topic PRESUMPTION|PRESUMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.6|<< Proverbs 25:6]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.8|Proverbs 25:8 >>]]</td></tr></table>
 

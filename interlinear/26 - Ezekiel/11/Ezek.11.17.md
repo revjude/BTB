@@ -1,8 +1,67 @@
+---
+title: Ezekiel 11:17
+type: Verse
+kjv: "Therefore say, Thus saith the Lord GOD; I will even gather you from the people, and assemble you out of the countries where ye have been scattered, and I will give you the land of Israel."
+bsb: "Therefore declare that this is what the Lord GOD says: ‘I will gather you from the peoples and assemble you from the countries to which you have been scattered, and I will give back to you the land of Israel.’"
+hebrew: "לָכֵ֣ן אֱמֹ֗ר כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ וְקִבַּצְתִּ֤י אֶתְכֶם֙ מִן־ הָ֣עַמִּ֔ים וְאָסַפְתִּ֣י אֶתְכֶ֔ם מִן־ הָ֣אֲרָצ֔וֹת אֲשֶׁ֥ר נְפֹצוֹתֶ֖ם בָּהֶ֑ם וְנָתַתִּ֥י לָכֶ֖ם אֶת־ אַדְמַ֥ת יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.11.13 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0622]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H6327A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5414G]]"
+- "[[H0127G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 11:17**<big><big>[[Ezek.11.13 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore say, Thus saith the Lord GOD; I will even gather you from the people, and assemble you out of the countries where ye have been scattered, and I will give you the land of Israel.
 <small><sub>**BSB:**</sub></small>
 Therefore declare that this is what the Lord GOD says: ‘I will gather you from the peoples and assemble you from the countries to which you have been scattered, and I will give back to you the land of Israel.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֣ן]] [[H0559\|אֱמֹ֗ר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H9001\|וְ]][[H6908\|קִבַּצְתִּ֤י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H5971A\|עַמִּ֔ים]] [[H9001\|וְ]][[H0622\|אָסַפְתִּ֣י]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0776G\|אֲרָצ֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H6327A\|נְפֹצוֹתֶ֖ם]] [[H9003\|בָּ]][[H9038\|הֶ֑ם]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֥י]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0127G\|אַדְמַ֥ת]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.16|<< Ezekiel 11:16]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.18|Ezekiel 11:18 >>]]</td></tr></table>
 

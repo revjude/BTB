@@ -1,8 +1,49 @@
+---
+title: 2 Samuel 22:33
+type: Verse
+kjv: "God is my strength and power: and he maketh my way perfect."
+bsb: "God is my strong fortress, and He makes my way clear."
+hebrew: "הָאֵ֥ל מָעוּזִּ֖י חָ֑יִל וַיַּתֵּ֥ר תָּמִ֖ים דַּרְכִּֽי׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H4581]]"
+- "[[H9020]]"
+- "[[H2428G]]"
+- "[[H9001]]"
+- "[[H5425B]]"
+- "[[H8549H]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 22:33**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God [is] my strength [and] power: and he maketh my way perfect.
 <small><sub>**BSB:**</sub></small>
 God is my strong fortress, and He makes my way clear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0410G\|אֵ֥ל]] [[H4581\|מָעוּזִּ֖]][[H9020\|י]] [[H2428G\|חָ֑יִל]] [[H9001\|וַ]][[H5425B\|יַּתֵּ֥ר]] [[H8549H\|תָּמִ֖ים]] [[H1870G\|דַּרְכִּֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.32|<< 2 Samuel 22:32]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.34|2 Samuel 22:34 >>]]</td></tr></table>
 
@@ -16,7 +57,7 @@ God is my strong fortress, and He makes my way clear.
 | way my  [^2]|**<big>&#8207;[[H1870G\|דַּרְכִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | dar.k<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.32|<< 2 Samuel 22:32]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.34|2 Samuel 22:34 >>]]</td></tr></table>
 
-[^1]: way his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | dar.k<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: way his  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H1870G|דַּרְכּ]]</big> ** | dar.k<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: way his  | **<big>[[H1870G|דַּרְכּ]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | dar.k<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: way his  | **<big>[[H1870G|דַּרְכּ]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | dar.k<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>דַּרְכִּֽו\׃</big></span>**
 

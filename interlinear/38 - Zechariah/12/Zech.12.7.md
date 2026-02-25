@@ -1,8 +1,62 @@
+---
+title: Zechariah 12:7
+type: Verse
+kjv: "The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify themselves against Judah."
+bsb: "The LORD will save the tents of Judah first, so that the glory of the house of David and of the people of Jerusalem may not be greater than that of Judah."
+hebrew: "וְהוֹשִׁ֧יעַ יְהוָ֛ה אֶת־ אָהֳלֵ֥י יְהוּדָ֖ה בָּרִֽאשֹׁנָ֑ה לְמַ֨עַן לֹֽא־ תִגְדַּ֜ל תִּפְאֶ֣רֶת בֵּית־ דָּוִ֗יד וְתִפְאֶ֛רֶת יֹשֵׁ֥ב יְרוּשָׁלִַ֖ם עַל־ יְהוּדָֽה׃"
+pericope: "[[Zech.12.1 The Coming Deliverance of Jerusalem|The Coming Deliverance of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 12
+book/chapter: "[[Zech.12|Zechariah 12]]"
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H3467]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0168G]]"
+- "[[H3063G]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H4616]]"
+- "[[H3808]]"
+- "[[H1431]]"
+- "[[H8597]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 12:7**<big><big>[[Zech.12.1 The Coming Deliverance of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify [themselves] against Judah.
 <small><sub>**BSB:**</sub></small>
 The LORD will save the tents of Judah first, so that the glory of the house of David and of the people of Jerusalem may not be greater than that of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3467\|הוֹשִׁ֧יעַ]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0168G\|אָהֳלֵ֥י]] [[H3063G\|יְהוּדָ֖ה]] [[H9003\|בָּ]][[H7223G\|רִֽאשֹׁנָ֑ה]] [[H4616\|לְמַ֨עַן]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1431\|תִגְדַּ֜ל]] [[H8597\|תִּפְאֶ֣רֶת]] [[H1004M\|בֵּית]][[H9014\|־]] [[H1732\|דָּוִ֗יד]] [[H9002\|וְ]][[H8597\|תִפְאֶ֛רֶת]] [[H3427\|יֹשֵׁ֥ב]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.6|<< Zechariah 12:6]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.8|Zechariah 12:8 >>]]</td></tr></table>
 

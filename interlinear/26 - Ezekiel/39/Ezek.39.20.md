@@ -1,8 +1,56 @@
+---
+title: Ezekiel 39:20
+type: Verse
+kjv: "Thus ye shall be filled at my table with horses and chariots, with mighty men, and with all men of war, saith the Lord GOD."
+bsb: "And at My table you will eat your fill of horses and riders, of mighty men and warriors of every kind,’ declares the Lord GOD."
+hebrew: "וּשְׂבַעְתֶּ֤ם עַל־ שֻׁלְחָנִי֙ ס֣וּס וָרֶ֔כֶב גִּבּ֖וֹר וְכָל־ אִ֣ישׁ מִלְחָמָ֑ה נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H7646]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7979]]"
+- "[[H9020]]"
+- "[[H5483M]]"
+- "[[H9002]]"
+- "[[H7393G]]"
+- "[[H1368]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H4421]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:20**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus ye shall be filled at my table with horses and chariots, with mighty men, and with all men of war, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 And at My table you will eat your fill of horses and riders, of mighty men and warriors of every kind,’ declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H7646\|שְׂבַעְתֶּ֤ם]] [[H5921A\|עַל]][[H9014\|־]] [[H7979\|שֻׁלְחָנִ]][[H9020\|י֙]] [[H5483M\|ס֣וּס]] [[H9002\|וָ]][[H7393G\|רֶ֔כֶב]] [[H1368\|גִּבּ֖וֹר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H4421\|מִלְחָמָ֑ה]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.19|<< Ezekiel 39:19]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.21|Ezekiel 39:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Idolatry Forbidden
+type: Pericope
 pericope: "[[Exod.20.22 Idolatry Forbidden|Idolatry Forbidden]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 20
 book/chapter: "[[Exod.20|Exodus 20]]"
-genre:
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.20.22]]"
 - "[[Exod.20.23]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.20.26]]"
 ---
 
-[[Exod.20|Exodus 20:22 - Exodus 20:26]]
+<small>[[Exod.20|Exodus 20:22-26]]</small>
 *Idolatry Forbidden*
 
 [[Exod.20.22|22]] And the LORD said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven.

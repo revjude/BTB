@@ -1,10 +1,62 @@
+---
+title: Hebrews 10:11
+type: Verse
+kjv: "And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:"
+bsb: "Day after day every priest stands to minister and to offer again and again the same sacrifices, which can never take away sins."
+greek: "Καὶ πᾶς μὲν ἱερεὺς ἕστηκεν καθ᾽ ἡμέραν λειτουργῶν καὶ τὰς αὐτὰς πολλάκις προσφέρων θυσίας, αἵτινες οὐδέποτε δύνανται περιελεῖν ἁμαρτίας·"
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3303]]"
+- "[[G2409]]"
+- "[[G2476]]"
+- "[[G2596]]"
+- "[[G2250]]"
+- "[[G3008]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G4178]]"
+- "[[G4374]]"
+- "[[G2378]]"
+- "[[G3748]]"
+- "[[G3763]]"
+- "[[G1410]]"
+- "[[G4014]]"
+- "[[G0266]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:11**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:
 <small><sub>**BSB:**</sub></small>
 Day after day every priest stands to minister and to offer again and again the same sacrifices, which can never take away sins.
-<small><sub>**Literal:**</sub></small>
-And every indeed priest has stood every day ministering and the same repeatedly offering sacrifices, which never are able to take away sins;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.10|<< Hebrews 10:10]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.12|Hebrews 10:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3956\|πᾶς]]  [[G3303\|μὲν]]  [[G2409\|ἱερεὺς]]  [[G2476\|ἕστηκεν]]  [[G2596\|καθ᾽]]  [[G2250\|ἡμέραν]]  [[G3008\|λειτουργῶν]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G0846\|αὐτὰς]]  [[G4178\|πολλάκις]]  [[G4374\|προσφέρων]]  [[G2378\|θυσίας,]]  [[G3748\|αἵτινες]]  [[G3763\|οὐδέποτε]]  [[G1410\|δύνανται]]  [[G4014\|περιελεῖν]]  [[G0266\|ἁμαρτίας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.10|<< Hebrews 10:10]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.12|Hebrews 10:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 10:11** is...
 > $\quad$ alluding to: [[LXX.Exod.29.38|Exod 29:38]]

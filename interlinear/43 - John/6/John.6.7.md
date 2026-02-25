@@ -1,10 +1,57 @@
+---
+title: John 6:7
+type: Verse
+kjv: "Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little."
+bsb: "Philip answered, “Two hundred denarii would not buy enough bread for each of them to have a small piece.”"
+greek: "ἀπεκρίθη αὐτῷ ὁ Φίλιππος· διακοσίων δηναρίων ἄρτοι οὐκ ἀρκοῦσιν αὐτοῖς ἵνα ἕκαστος αὐτῶν βραχύ τι λάβῃ.¶"
+pericope: "[[John.6.1 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5376G]]"
+- "[[G1250]]"
+- "[[G1220]]"
+- "[[G0740]]"
+- "[[G3756]]"
+- "[[G0714]]"
+- "[[G2443]]"
+- "[[G1538]]"
+- "[[G1024]]"
+- "[[G5100]]"
+- "[[G2983]]"
+texts:
+- NKO
+- n
+- k
+---
+
 **John 6:7**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little.
 <small><sub>**BSB:**</sub></small>
 Philip answered, “Two hundred denarii would not buy enough bread for each of them to have a small piece.”
-<small><sub>**Literal:**</sub></small>
-Answered Him <the> Philip; Two hundred denarii worth of loaves not are sufficient for them that each of them little [piece] one may receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.6|<< John 6:6]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.8|John 6:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G5376G\|Φίλιππος·]]  [[G1250\|διακοσίων]]  [[G1220\|δηναρίων]]  [[G0740\|ἄρτοι]]  [[G3756\|οὐκ]]  [[G0714\|ἀρκοῦσιν]]  [[G0846\|αὐτοῖς]]  [[G2443\|ἵνα]]  [[G1538\|ἕκαστος]]  [[G0846\|αὐτῶν]]  [[G1024\|βραχύ]]  [[G5100\|τι]]  [[G2983\|λάβῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.6|<< John 6:6]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.8|John 6:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

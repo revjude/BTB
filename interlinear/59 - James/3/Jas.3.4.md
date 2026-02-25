@@ -1,10 +1,61 @@
+---
+title: James 3:4
+type: Verse
+kjv: "Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth."
+bsb: "Consider ships as well. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot is inclined."
+greek: "ἰδοὺ καὶ τὰ πλοῖα, τηλικαῦτα ὄντα καὶ ὑπὸ ἀνέμων σκληρῶν ἐλαυνόμενα, μετάγεται ὑπὸ ἐλαχίστου πηδαλίου ὅπου ἂν ἡ ὁρμὴ τοῦ εὐθύνοντος βούλεται.¶"
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic HELM|HELM]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G2400]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G5082]]"
+- "[[G1510]]"
+- "[[G5259G]]"
+- "[[G0417]]"
+- "[[G4642]]"
+- "[[G1643]]"
+- "[[G3329]]"
+- "[[G1646]]"
+- "[[G4079]]"
+- "[[G3699]]"
+- "[[G0302]]"
+- "[[G3730]]"
+- "[[G2116]]"
+- "[[G1014]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **James 3:4**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold also the ships, which though [they be] so great, and [are] driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.
 <small><sub>**BSB:**</sub></small>
 Consider ships as well. Although they are so large and are driven by strong winds, they are steered by a very small rudder wherever the pilot is inclined.
-<small><sub>**Literal:**</sub></small>
-Behold also the ships, so great being and by winds strong being driven, are turned about by a very small rudder where ever the impulse [of the one] who is steering decides.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.3|<< James 3:3]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.5|James 3:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G4143\|πλοῖα,]]  [[G5082\|τηλικαῦτα]]  [[G1510\|ὄντα]]  [[G2532\|καὶ]]  [[G5259G\|ὑπὸ]]  [[G0417\|ἀνέμων]]  [[G4642\|σκληρῶν]]  [[G1643\|ἐλαυνόμενα,]]  [[G3329\|μετάγεται]]  [[G5259G\|ὑπὸ]]  [[G1646\|ἐλαχίστου]]  [[G4079\|πηδαλίου]]  [[G3699\|ὅπου]]  [[G0302\|ἂν]]  [[G3588\|ἡ]]  [[G3730\|ὁρμὴ]]  [[G3588\|τοῦ]]  [[G2116\|εὐθύνοντος]]  [[G1014\|βούλεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HELM|HELM]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.3|<< James 3:3]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.5|James 3:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

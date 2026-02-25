@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 11:22
+type: Verse
+kjv: "For if ye shall diligently keep all these commandments which I command you, to do them, to love the LORD your God, to walk in all his ways, and to cleave unto him;"
+bsb: "For if you carefully keep all these commandments I am giving you to follow—to love the LORD your God, to walk in all His ways, and to hold fast to Him—"
+hebrew: "כִּי֩ אִם־ שָׁמֹ֨ר תִּשְׁמְר֜וּן אֶת־ כָּל־ הַמִּצְוָ֣ה הַזֹּ֗את אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם לַעֲשֹׂתָ֑הּ לְאַהֲבָ֞ה אֶת־ יְהוָ֧ה אֱלֹהֵיכֶ֛ם לָלֶ֥כֶת בְּכָל־ דְּרָכָ֖יו וּלְדָבְקָה־ בֽוֹ׃"
+pericope: "[[Deut.11.18 Remember God’s Words|Remember God’s Words]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H8104J]]"
+- "[[H8104G]]"
+- "[[H9013]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9034]]"
+- "[[H0157G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1692]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:22**<big><big>[[Deut.11.18 Remember God’s Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For if ye shall diligently keep all these commandments which I command you, to do them, to love the LORD your God, to walk in all his ways, and to cleave unto him;
 <small><sub>**BSB:**</sub></small>
 For if you carefully keep all these commandments I am giving you to follow—to love the LORD your God, to walk in all His ways, and to hold fast to Him—
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּי֩]] [[H0518B\|אִם]][[H9014\|־]] [[H8104J\|שָׁמֹ֨ר]] [[H8104G\|תִּשְׁמְר֜וּ]][[H9013\|ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֗את]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָנֹכִ֛י]] [[H6680\|מְצַוֶּ֥ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9005\|לַ]][[H6213A\|עֲשֹׂתָ֑]][[H9034\|הּ]] [[H9005\|לְ]][[H0157G\|אַהֲבָ֞ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֛ם]] [[H9005\|לָ]][[H1980I\|לֶ֥כֶת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1870G\|דְּרָכָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H1692\|דָבְקָה]][[H9014\|־]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.21|<< Deuteronomy 11:21]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.23|Deuteronomy 11:23 >>]]</td></tr></table>
 

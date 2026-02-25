@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 7:16
+type: Verse
+kjv: "And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever."
+bsb: "Your house and kingdom will endure forever before Me, and your throne will be established forever.”"
+hebrew: "וְנֶאְמַ֨ן בֵּיתְךָ֧ וּמַֽמְלַכְתְּךָ֛ עַד־ עוֹלָ֖ם לְפָנֶ֑יךָ כִּֽסְאֲךָ֔ יִהְיֶ֥ה נָכ֖וֹן עַד־ עוֹלָֽם׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic KING|KING]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0539]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4467]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3678G]]"
+- "[[H1961]]"
+- "[[H3559H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:16**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.
 <small><sub>**BSB:**</sub></small>
 Your house and kingdom will endure forever before Me, and your throne will be established forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0539\|נֶאְמַ֨ן]] [[H1004M\|בֵּיתְ]][[H9021\|ךָ֧]] [[H9002\|וּ]][[H4467\|מַֽמְלַכְתְּ]][[H9021\|ךָ֛]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֖ם]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H3678G\|כִּֽסְאֲ]][[H9021\|ךָ֔]] [[H1961\|יִהְיֶ֥ה]] [[H3559H\|נָכ֖וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic KING|KING]] • [[topic NATHAN|NATHAN]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.15|<< 2 Samuel 7:15]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.17|2 Samuel 7:17 >>]]</td></tr></table>
 

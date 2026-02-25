@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elisha Succeeds Elijah
+type: Pericope
 pericope: "[[2Kgs.2.15 Elisha Succeeds Elijah|Elisha Succeeds Elijah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 2
 book/chapter: "[[2Kgs.2|2 Kings 2]]"
-genre:
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.2.15]]"
 - "[[2Kgs.2.16]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.2.18]]"
 ---
 
-[[2Kgs.2|2 Kings 2:15 - 2 Kings 2:18]]
+<small>[[2Kgs.2|2 Kings 2:15-18]]</small>
 *Elisha Succeeds Elijah*
 
 [[2Kgs.2.15|15]] And when the sons of the prophets which \[were\] to view at Jericho saw him, they said, The spirit of Elijah doth rest on Elisha. And they came to meet him, and bowed themselves to the ground before him.

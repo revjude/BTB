@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 10:2
+type: Verse
+kjv: "And the Philistines followed hard after Saul, and after his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, the sons of Saul."
+bsb: "The Philistines followed hard after Saul and his sons, and they killed Saul’s sons Jonathan, Abinadab, and Malchishua."
+hebrew: "וַיַּדְבְּק֣וּ פְלִשְׁתִּ֔ים אַחֲרֵ֥י שָׁא֖וּל וְאַחֲרֵ֣י בָנָ֑יו וַיַּכּ֣וּ פְלִשְׁתִּ֗ים אֶת־ יוֹנָתָ֧ן וְאֶת־ אֲבִינָדָ֛ב וְאֶת־ מַלְכִּי־ שׁ֖וּעַ בְּנֵ֥י שָׁאֽוּל׃"
+pericope: "[[1Chr.10.1 Saul’s Overthrow and Death|Saul’s Overthrow and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 10
+book/chapter: "[[1Chr.10|1 Chronicles 10]]"
+chronological_order: 334
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GILBOA|GILBOA]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MELCHISHUA|MELCHISHUA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1692]]"
+- "[[H6430G]]"
+- "[[H0310A]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3129N]]"
+- "[[H0041H]]"
+- "[[H4444]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 10:2**<big><big>[[1Chr.10.1 Saul’s Overthrow and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines followed hard after Saul, and after his sons; and the Philistines slew Jonathan, and Abinadab, and Malchishua, the sons of Saul.
 <small><sub>**BSB:**</sub></small>
 The Philistines followed hard after Saul and his sons, and they killed Saul’s sons Jonathan, Abinadab, and Malchishua.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1692\|יַּדְבְּק֣וּ]] [[H6430G\|פְלִשְׁתִּ֔ים]] [[H0310A\|אַחֲרֵ֥י]] [[H7586G\|שָׁא֖וּל]] [[H9002\|וְ]][[H0310A\|אַחֲרֵ֣י]] [[H1121A\|בָנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H5221\|יַּכּ֣וּ]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3129N\|יוֹנָתָ֧ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0041H\|אֲבִינָדָ֛ב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4444\|מַלְכִּי]][[H9014\|־]] [[H4444\|שׁ֖וּעַ]] [[H1121A\|בְּנֵ֥י]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILBOA|GILBOA]] • [[topic JONATHAN|JONATHAN]] • [[topic MELCHISHUA|MELCHISHUA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.1|<< 1 Chronicles 10:1]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.3|1 Chronicles 10:3 >>]]</td></tr></table>
 

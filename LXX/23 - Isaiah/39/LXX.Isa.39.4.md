@@ -1,6 +1,73 @@
+---
+title: LXX Isaiah 39:4
+type: Verse
+lxx: "And Isaiah said, What did they see in  your house? And Hezekiah said, All the things in  my house they beheld; and there is not anything in  my house which they did not behold; but even the things in  my treasuries."
+greek: "και είπεν Ησαϊας τι είδοσαν εν τω οίκω σου και είπεν Εζεκίας πάντα τα εν τω οίκω μου είδοσαν και ουκ έστιν εν τω οίκω μου ο ουκ είδοσαν αλλά και τα εν τοις θησαυροίς μου"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 39
+book/chapter: "[[Isa.39|Isaiah 39]]"
+chronological_order: 666
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2268]]"
+- "[[G5100]]"
+- "[[G1492]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2268]]"
+- "[[G2036]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G1492]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1492]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2344]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 39:4** 
 <small><sub>**LXX:**</sub></small>
 And Isaiah said, What did they see in  your house? And Hezekiah said, All the \[things\] in  my house they beheld; and there is not \[anything\] in  my house which they did not behold; but even the \[things\] in  my treasuries. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G2268\|Ησαϊας]] [[G5100\|τι]] [[G1492\|είδοσαν]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[G1473\|σου]] [[G2532\|και]] [[G2268\|είπεν]] [[G2036\|Εζεκίας]] [[G3956\|πάντα]] [[G3588\|τα]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[G1473\|μου]] [[G1492\|είδοσαν]] [[G2532\|και]] [[G3756\|ουκ]] [[G1510\|έστιν]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[G1473\|μου]] [[G3739\|ο]] [[G3756\|ουκ]] [[G1492\|είδοσαν]] [[G0235\|αλλά]] [[G2532\|και]] [[G3588\|τα]] [[G1722\|εν]] [[G3588\|τοις]] [[G2344\|θησαυροίς]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.3|<< Isaiah 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.5|Isaiah 39:5 >>]]</td></tr></table>
 
@@ -35,6 +102,6 @@ And Isaiah said, What did they see in  your house? And Hezekiah said, All the \[
 | in | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τοις]]</big>** |
 | my treasuries. | **<big>[[G2344\|θησαυροίς]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Isa.39.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.3|<< Isaiah 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.5|Isaiah 39:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.39.3|<< Isaiah 39:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.39.5|Isaiah 39:5 >>]]</td></tr></table>
 
 

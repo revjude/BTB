@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 2:3
+type: Verse
+kjv: "And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, even so deal with me."
+bsb: "Then Solomon sent word to Hiram king of Tyre: “Do for me as you did for my father David when you sent him cedars to build himself a house to live in."
+hebrew: "וַיִּשְׁלַ֣ח שְׁלֹמֹ֔ה אֶל־ חוּרָ֥ם מֶֽלֶךְ־ צֹ֖ר לֵאמֹ֑ר כַּאֲשֶׁ֤ר עָשִׂ֙יתָ֙ עִם־ דָּוִ֣יד אָבִ֔י וַתִּֽשְׁלַֽח־ ל֣וֹ אֲרָזִ֔ים לִבְנֽוֹת־ ל֥וֹ בַ֖יִת לָשֶׁ֥בֶת בּֽוֹ׃"
+pericope: "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H8010]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2361G]]"
+- "[[H4428G]]"
+- "[[H6865]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9033]]"
+- "[[H0730]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:3**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, [even so deal with me].
 <small><sub>**BSB:**</sub></small>
 Then Solomon sent word to Hiram king of Tyre: “Do for me as you did for my father David when you sent him cedars to build himself a house to live in.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H8010\|שְׁלֹמֹ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2361G\|חוּרָ֥ם]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H6865\|צֹ֖ר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H6213A\|עָשִׂ֙יתָ֙]] [[H5973A\|עִם]][[H9014\|־]] [[H1732\|דָּוִ֣יד]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H9001\|וַ]][[H7971G\|תִּֽשְׁלַֽח]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H0730\|אֲרָזִ֔ים]] [[H9005\|לִ]][[H1129\|בְנֽוֹת]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1004B\|בַ֖יִת]] [[H9005\|לָ]][[H3427\|שֶׁ֥בֶת]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic DAVID|DAVID]] • [[topic HIRAM|HIRAM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.2|<< 2 Chronicles 2:2]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.4|2 Chronicles 2:4 >>]]</td></tr></table>
 

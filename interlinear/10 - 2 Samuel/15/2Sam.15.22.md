@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 15:22
+type: Verse
+kjv: "And David said to Ittai, Go and pass over. And Ittai the Gittite passed over, and all his men, and all the little ones that were with him."
+bsb: "“March on then,” said David to Ittai. So Ittai the Gittite marched past with all his men and all the little ones who were with him."
+hebrew: "וַיֹּ֧אמֶר דָּוִ֛ד אֶל־ אִתַּ֖י לֵ֣ךְ וַעֲבֹ֑ר וַֽיַּעֲבֹ֞ר אִתַּ֤י הַגִּתִּי֙ וְכָל־ אֲנָשָׁ֔יו וְכָל־ הַטַּ֖ף אֲשֶׁ֥ר אִתּֽוֹ׃"
+pericope: "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GATH|GATH]]"
+- "[[topic ITTAI|ITTAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0863G]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H1663]]"
+- "[[H3605]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H2945]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:22**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said to Ittai, Go and pass over. And Ittai the Gittite passed over, and all his men, and all the little ones that [were] with him.
 <small><sub>**BSB:**</sub></small>
 “March on then,” said David to Ittai. So Ittai the Gittite marched past with all his men and all the little ones who were with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H1732\|דָּוִ֛ד]] [[H0413\|אֶל]][[H9014\|־]] [[H0863G\|אִתַּ֖י]] [[H1980G\|לֵ֣ךְ]] [[H9002\|וַ]][[H5674A\|עֲבֹ֑ר]] [[H9001\|וַֽ]][[H5674A\|יַּעֲבֹ֞ר]] [[H0863G\|אִתַּ֤י]] [[H9009\|הַ]][[H1663\|גִּתִּי֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0582\|אֲנָשָׁ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H2945\|טַּ֖ף]] [[H0834A\|אֲשֶׁ֥ר]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GATH|GATH]] • [[topic ITTAI|ITTAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.21|<< 2 Samuel 15:21]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.23|2 Samuel 15:23 >>]]</td></tr></table>
 

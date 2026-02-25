@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Builds an Altar
+type: Pericope
 pericope: "[[1Chr.21.18 David Builds an Altar|David Builds an Altar]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 21
 book/chapter: "[[1Chr.21|1 Chronicles 21]]"
-genre:
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 13
 verses:
 - "[[1Chr.21.18]]"
 - "[[1Chr.21.19]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Chr.21.30]]"
 ---
 
-[[1Chr.21|1 Chronicles 21:18 - 1 Chronicles 21:30]]
+<small>[[1Chr.21|1 Chronicles 21:18-30]]</small>
 *David Builds an Altar*
 
 [[1Chr.21.18|18]] Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite.

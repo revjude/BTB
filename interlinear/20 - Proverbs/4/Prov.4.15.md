@@ -1,8 +1,54 @@
+---
+title: Proverbs 4:15
+type: Verse
+kjv: "Avoid it, pass not by it, turn from it, and pass away."
+bsb: "Avoid it; do not travel on it. Turn from it and pass on by."
+hebrew: "פְּרָעֵ֥הוּ אַל־ תַּעֲבָר־ בּ֑וֹ שְׂטֵ֖ה מֵעָלָ֣יו וַעֲבֽוֹר׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H6544B]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H7847]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:15**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Avoid it, pass not by it, turn from it, and pass away.
 <small><sub>**BSB:**</sub></small>
 Avoid it; do not travel on it. Turn from it and pass on by.
+<small><sub>**Hebrew:**</sub></small>
+[[H6544B\|פְּרָעֵ֥]][[H9033\|הוּ]] [[H0408\|אַל]][[H9014\|־]] [[H5674A\|תַּעֲבָר]][[H9014\|־]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H7847\|שְׂטֵ֖ה]] [[H9006\|מֵ]][[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H9002\|וַ]][[H5674A\|עֲבֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic TEMPTATION|TEMPTATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.14|<< Proverbs 4:14]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.16|Proverbs 4:16 >>]]</td></tr></table>
 

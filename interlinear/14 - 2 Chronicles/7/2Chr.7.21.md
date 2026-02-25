@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 7:21
+type: Verse
+kjv: "And this house, which is high, shall be an astonishment to every one that passeth by it; so that he shall say, Why hath the LORD done thus unto this land, and unto this house?"
+bsb: "And when this temple has become a heap of rubble, all who pass by it will be appalled and say, ‘Why has the LORD done such a thing to this land and to this temple?’"
+hebrew: "וְהַבַּ֤יִת הַזֶּה֙ אֲשֶׁ֣ר הָיָ֣ה עֶלְי֔וֹן לְכָל־ עֹבֵ֥ר עָלָ֖יו יִשֹּׁ֑ם וְאָמַ֗ר בַּמֶּ֨ה עָשָׂ֤ה יְהוָה֙ כָּ֔כָה לָאָ֥רֶץ הַזֹּ֖את וְלַבַּ֥יִת הַזֶּֽה׃"
+pericope: "[[2Chr.7.11 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H5945A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H8074H]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H3602]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:21**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this house, which is high, shall be an astonishment to every one that passeth by it; so that he shall say, Why hath the LORD done thus unto this land, and unto this house?
 <small><sub>**BSB:**</sub></small>
 And when this temple has become a heap of rubble, all who pass by it will be appalled and say, ‘Why has the LORD done such a thing to this land and to this temple?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָיָ֣ה]] [[H5945A\|עֶלְי֔וֹן]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5674A\|עֹבֵ֥ר]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H8074H\|יִשֹּׁ֑ם]] [[H9001\|וְ]][[H0559\|אָמַ֗ר]] [[H9003\|בַּ]][[H4100\|מֶּ֨ה]] [[H6213A\|עָשָׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H3602\|כָּ֔כָה]] [[H9005\|לָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9002\|וְ]][[H9005\|לַ]][[H1004B\|בַּ֥יִת]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.20|<< 2 Chronicles 7:20]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.22|2 Chronicles 7:22 >>]]</td></tr></table>
 

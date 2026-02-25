@@ -1,10 +1,49 @@
+---
+title: 1 Corinthians 11:30
+type: Verse
+kjv: "For this cause many are weak and sickly among you, and many sleep."
+bsb: "That is why many among you are weak and sick, and a number of you have fallen asleep."
+greek: "διὰ τοῦτο ἐν ὑμῖν πολλοὶ ἀσθενεῖς καὶ ἄρρωστοι, καὶ κοιμῶνται ἱκανοί."
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G4183]]"
+- "[[G0772G]]"
+- "[[G2532]]"
+- "[[G0732]]"
+- "[[G2837]]"
+- "[[G2425]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 11:30**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause many [are] weak and sickly among you, and many sleep.
 <small><sub>**BSB:**</sub></small>
 That is why many among you are weak and sick, and a number of you have fallen asleep.
-<small><sub>**Literal:**</sub></small>
-Because of this among you many [are] weak and sick, and are fallen asleep many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.29|<< 1 Corinthians 11:29]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.31|1 Corinthians 11:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G4183\|πολλοὶ]]  [[G0772G\|ἀσθενεῖς]]  [[G2532\|καὶ]]  [[G0732\|ἄρρωστοι,]]  [[G2532\|καὶ]]  [[G2837\|κοιμῶνται]]  [[G2425\|ἱκανοί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.29|<< 1 Corinthians 11:29]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.31|1 Corinthians 11:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

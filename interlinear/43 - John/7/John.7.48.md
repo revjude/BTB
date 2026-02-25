@@ -1,10 +1,51 @@
+---
+title: John 7:48
+type: Verse
+kjv: "Have any of the rulers or of the Pharisees believed on him?"
+bsb: "“Have any of the rulers or Pharisees believed in Him?"
+greek: "μή τις ἐκ τῶν ἀρχόντων ἐπίστευσεν εἰς αὐτὸν ἢ ἐκ τῶν Φαρισαίων;"
+pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G2228]]"
+- "[[G5330]]"
+texts:
+- NKO
+---
+
 **John 7:48**<big><big>[[John.7.45 The Unbelief of the Jewish Leaders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Have any of the rulers or of the Pharisees believed on him?
 <small><sub>**BSB:**</sub></small>
 “Have any of the rulers or Pharisees believed in Him?
-<small><sub>**Literal:**</sub></small>
-Surely not any of the rulers has believed on Him or of the Pharisees?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.47|<< John 7:47]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.49|John 7:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μή]]  [[G5100\|τις]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0758\|ἀρχόντων]]  [[G4100\|ἐπίστευσεν]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G2228\|ἢ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.47|<< John 7:47]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.49|John 7:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

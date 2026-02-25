@@ -1,8 +1,65 @@
+---
+title: Exodus 25:12
+type: Verse
+kjv: "And thou shalt cast four rings of gold for it, and put them in the four corners thereof; and two rings shall be in the one side of it, and two rings in the other side of it."
+bsb: "Cast four gold rings for it and fasten them to its four feet, two rings on one side and two on the other."
+hebrew: "וְיָצַ֣קְתָּ לּ֗וֹ אַרְבַּע֙ טַבְּעֹ֣ת זָהָ֔ב וְנָ֣תַתָּ֔ה עַ֖ל אַרְבַּ֣ע פַּעֲמֹתָ֑יו וּשְׁתֵּ֣י טַבָּעֹ֗ת עַל־ צַלְעוֹ֙ הָֽאֶחָ֔ת וּשְׁתֵּי֙ טַבָּעֹ֔ת עַל־ צַלְע֖וֹ הַשֵּׁנִֽית׃"
+pericope: "[[Exod.25.10 The Ark of the Covenant|The Ark of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 25
+book/chapter: "[[Exod.25|Exodus 25]]"
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3332H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0702]]"
+- "[[H2885]]"
+- "[[H2091]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H6471]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6763]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 25:12**<big><big>[[Exod.25.10 The Ark of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt cast four rings of gold for it, and put [them] in the four corners thereof; and two rings [shall be] in the one side of it, and two rings in the other side of it.
 <small><sub>**BSB:**</sub></small>
 Cast four gold rings for it and fasten them to its four feet, two rings on one side and two on the other.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3332H\|יָצַ֣קְתָּ]] [[H9005\|לּ֗]][[H9033\|וֹ]] [[H0702\|אַרְבַּע֙]] [[H2885\|טַבְּעֹ֣ת]] [[H2091\|זָהָ֔ב]] [[H9001\|וְ]][[H5414H\|נָ֣תַתָּ֔ה]] [[H5921A\|עַ֖ל]] [[H0702\|אַרְבַּ֣ע]] [[H6471\|פַּעֲמֹתָ֑י]][[H9023\|ו]] [[H9002\|וּ]][[H8147\|שְׁתֵּ֣י]] [[H2885\|טַבָּעֹ֗ת]] [[H5921A\|עַל]][[H9014\|־]] [[H6763\|צַלְע]][[H9023\|וֹ֙]] [[H9009\|הָֽ]][[H0259\|אֶחָ֔ת]] [[H9002\|וּ]][[H8147\|שְׁתֵּי֙]] [[H2885\|טַבָּעֹ֔ת]] [[H5921A\|עַל]][[H9014\|־]] [[H6763\|צַלְע֖]][[H9023\|וֹ]] [[H9009\|הַ]][[H8145\|שֵּׁנִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.25.11|<< Exodus 25:11]]</td><td align="center" style="border:none;">[[Exod.25|Exodus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.25.13|Exodus 25:13 >>]]</td></tr></table>
 

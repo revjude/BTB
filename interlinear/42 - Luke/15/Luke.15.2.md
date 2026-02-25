@@ -1,10 +1,60 @@
+---
+title: Luke 15:2
+type: Verse
+kjv: "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them."
+bsb: "So the Pharisees and scribes began to grumble: “This man welcomes sinners and eats with them.”"
+greek: "καὶ διεγόγγυζον οἵ τε Φαρισαῖοι καὶ οἱ γραμματεῖς λέγοντες ὅτι οὗτος ἁμαρτωλοὺς προσδέχεται καὶ συνεσθίει αὐτοῖς.¶"
+pericope: "[[Luke.15.1 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1234]]"
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G5330]]"
+- "[[G1122]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G0268]]"
+- "[[G4327]]"
+- "[[G4906]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+---
+
 **Luke 15:2**<big><big>[[Luke.15.1 The Parable of the Lost Sheep|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.
 <small><sub>**BSB:**</sub></small>
 So the Pharisees and scribes began to grumble: “This man welcomes sinners and eats with them.”
-<small><sub>**Literal:**</sub></small>
-And were grumbling the both Pharisees and the scribes saying that This [man] sinners receives and he eats with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.1|<< Luke 15:1]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.3|Luke 15:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1234\|διεγόγγυζον]]  [[G3588\|οἵ]]  [[G5037\|τε]]  [[G5330\|Φαρισαῖοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτος]]  [[G0268\|ἁμαρτωλοὺς]]  [[G4327\|προσδέχεται]]  [[G2532\|καὶ]]  [[G4906\|συνεσθίει]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.1|<< Luke 15:1]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.3|Luke 15:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: Matthew 12:44
+type: Verse
+kjv: "Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished."
+bsb: "Then it says, ‘I will return to the house I left.’ On its return, it finds the house vacant, swept clean, and put in order."
+jesus_said: "Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished."
+greek: "τότε λέγει· εἰς τὸν οἶκόν μου ἐπιστρέψω ὅθεν ἐξῆλθον. καὶ ἐλθὸν εὑρίσκει σχολάζοντα, καὶ σεσαρωμένον καὶ κεκοσμημένον."
+pericope: "[[Matt.12.43 An Unclean Spirit Returns|An Unclean Spirit Returns]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[G5119]]"
+- "[[G3004G]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G3165]]"
+- "[[G1994]]"
+- "[[G3606]]"
+- "[[G1831]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G2147]]"
+- "[[G4980]]"
+- "[[G4563]]"
+- "[[G2885]]"
+texts:
+- NKO
+- o
+---
+
 **Matthew 12:44**<big><big>[[Matt.12.43 An Unclean Spirit Returns|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then he saith, I will return into my house from whence I came out; and when he is come, he findeth [it] empty, swept, and garnished.
 <small><sub>**BSB:**</sub></small>
 Then it says, ‘I will return to the house I left.’ On its return, it finds the house vacant, swept clean, and put in order.
-<small><sub>**Literal:**</sub></small>
-Then it says; To the house of mine I will return from where I came out. And having come it finds [it] being unoccupied, and swept and ordered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.43|<< Matthew 12:43]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.45|Matthew 12:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G3004G\|λέγει·]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκόν]]  [[G3165\|μου]]  [[G1994\|ἐπιστρέψω]]  [[G3606\|ὅθεν]]  [[G1831\|ἐξῆλθον.]]  [[G2532\|καὶ]]  [[G2064\|ἐλθὸν]]  [[G2147\|εὑρίσκει]]  [[G4980\|σχολάζοντα,]]  [[G2532\|καὶ]]  [[G4563\|σεσαρωμένον]]  [[G2532\|καὶ]]  [[G2885\|κεκοσμημένον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REGENERATION|REGENERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.43|<< Matthew 12:43]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.45|Matthew 12:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

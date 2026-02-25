@@ -1,8 +1,64 @@
+---
+title: Ezekiel 7:26
+type: Verse
+kjv: "Mischief shall come upon mischief, and rumour shall be upon rumour; then shall they seek a vision of the prophet; but the law shall perish from the priest, and counsel from the ancients."
+bsb: "Disaster upon disaster will come, and rumor after rumor. Then they will seek a vision from a prophet, but instruction from the priests will perish, as will counsel from the elders."
+hebrew: "הֹוָ֤ה עַל־ הֹוָה֙ תָּב֔וֹא וּשְׁמֻעָ֥ה אֶל־ שְׁמוּעָ֖ה תִּֽהְיֶ֑ה וּבִקְשׁ֤וּ חָזוֹן֙ מִנָּבִ֔יא וְתוֹרָה֙ תֹּאבַ֣ד מִכֹּהֵ֔ן וְעֵצָ֖ה מִזְּקֵנִֽים׃"
+pericope: "[[Ezek.7.14 The Desolation of Israel|The Desolation of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic REMORSE|REMORSE]]"
+strongs:
+- "[[H1943]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H8052]]"
+- "[[H0413]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H1245]]"
+- "[[H2377]]"
+- "[[H9006]]"
+- "[[H5030]]"
+- "[[H8451]]"
+- "[[H0006]]"
+- "[[H3548]]"
+- "[[H6098]]"
+- "[[H2205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:26**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mischief shall come upon mischief, and rumour shall be upon rumour; then shall they seek a vision of the prophet; but the law shall perish from the priest, and counsel from the ancients.
 <small><sub>**BSB:**</sub></small>
 Disaster upon disaster will come, and rumor after rumor. Then they will seek a vision from a prophet, but instruction from the priests will perish, as will counsel from the elders.
+<small><sub>**Hebrew:**</sub></small>
+[[H1943\|הֹוָ֤ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1943\|הֹוָה֙]] [[H0935G\|תָּב֔וֹא]] [[H9002\|וּ]][[H8052\|שְׁמֻעָ֥ה]] [[H0413\|אֶל]][[H9014\|־]] [[H8052\|שְׁמוּעָ֖ה]] [[H1961\|תִּֽהְיֶ֑ה]] [[H9001\|וּ]][[H1245\|בִקְשׁ֤וּ]] [[H2377\|חָזוֹן֙]] [[H9006\|מִ]][[H5030\|נָּבִ֔יא]] [[H9002\|וְ]][[H8451\|תוֹרָה֙]] [[H0006\|תֹּאבַ֣ד]] [[H9006\|מִ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H6098\|עֵצָ֖ה]] [[H9006\|מִ]][[H2205G\|זְּקֵנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAINS|CHAINS]] • [[topic CONVICTION|CONVICTION]] • [[topic REMORSE|REMORSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.25|<< Ezekiel 7:25]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.27|Ezekiel 7:27 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Heaven Is My Throne
+type: Pericope
 pericope: "[[Isa.66.1 Heaven Is My Throne|Heaven Is My Throne]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 66
 book/chapter: "[[Isa.66|Isaiah 66]]"
-genre:
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 6
 verses:
 - "[[Isa.66.1]]"
 - "[[Isa.66.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Isa.66.6]]"
 ---
 
-[[Isa.66|Isaiah 66:1 - Isaiah 66:6]]
+<small>[[Isa.66|Isaiah 66:1-6]]</small>
 *Heaven Is My Throne*
 
 [[Isa.66.1|1]] Thus saith the LORD, The heaven \[is\] my throne, and the earth \[is\] my footstool: where \[is\] the house that ye build unto me? and where \[is\] the place of my rest?

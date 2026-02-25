@@ -1,10 +1,57 @@
+---
+title: John 11:55
+type: Verse
+kjv: "And the Jews’ passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves."
+bsb: "Now the Jewish Passover was near, and many people went up from the country to Jerusalem to purify themselves before the Passover."
+greek: "Ἦν δὲ ἐγγὺς τὸ πάσχα τῶν Ἰουδαίων, καὶ ἀνέβησαν πολλοὶ εἰς Ἱεροσόλυμα ἐκ τῆς χώρας πρὸ τοῦ πάσχα ἵνα ἁγνίσωσιν ἑαυτούς."
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic PURIFICATION|PURIFICATION]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1451]]"
+- "[[G3588]]"
+- "[[G3957]]"
+- "[[G2453]]"
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G4183]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G1537]]"
+- "[[G5561]]"
+- "[[G4253]]"
+- "[[G2443]]"
+- "[[G0048]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **John 11:55**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Jews’ passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.
 <small><sub>**BSB:**</sub></small>
 Now the Jewish Passover was near, and many people went up from the country to Jerusalem to purify themselves before the Passover.
-<small><sub>**Literal:**</sub></small>
-Was now near the Passover of the Jews, and went up many to Jerusalem out of the region before the Passover so that they may purify themselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.54|<< John 11:54]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.56|John 11:56 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦν]]  [[G1161\|δὲ]]  [[G1451\|ἐγγὺς]]  [[G3588\|τὸ]]  [[G3957\|πάσχα]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων,]]  [[G2532\|καὶ]]  [[G0305\|ἀνέβησαν]]  [[G4183\|πολλοὶ]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5561\|χώρας]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G3957\|πάσχα]]  [[G2443\|ἵνα]]  [[G0048\|ἁγνίσωσιν]]  [[G1438\|ἑαυτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PURIFICATION|PURIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.54|<< John 11:54]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.56|John 11:56 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

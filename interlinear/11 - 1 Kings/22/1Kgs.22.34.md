@@ -1,8 +1,76 @@
+---
+title: 1 Kings 22:34
+type: Verse
+kjv: "And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded."
+bsb: "However, a certain man drew his bow without taking special aim, and he struck the king of Israel between the joints of his armor. So the king said to his charioteer, “Turn around and take me out of the battle, for I am badly wounded!”"
+hebrew: "וְאִ֗ישׁ מָשַׁ֤ךְ בַּקֶּ֙שֶׁת֙ לְתֻמּ֔וֹ וַיַּכֶּה֙ אֶת־ מֶ֣לֶךְ יִשְׂרָאֵ֔ל בֵּ֥ין הַדְּבָקִ֖ים וּבֵ֣ין הַשִּׁרְיָ֑ן וַיֹּ֣אמֶר לְרַכָּב֗וֹ הֲפֹ֥ךְ יָדְךָ֛ וְהוֹצִיאֵ֥נִי מִן־ הַֽמַּחֲנֶ֖ה כִּ֥י הָחֳלֵֽיתִי׃"
+pericope: "[[1Kgs.22.29 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic ARROW|ARROW]]"
+- "[[topic COAT OF MAIL|COAT OF MAIL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H4900]]"
+- "[[H9003]]"
+- "[[H7198]]"
+- "[[H9005]]"
+- "[[H8537]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H1694]]"
+- "[[H8302B]]"
+- "[[H0559]]"
+- "[[H7395]]"
+- "[[H2015]]"
+- "[[H3027I]]"
+- "[[H9021]]"
+- "[[H3318H]]"
+- "[[H9030]]"
+- "[[H4480A]]"
+- "[[H4264]]"
+- "[[H3588A]]"
+- "[[H2470H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:34**<big><big>[[1Kgs.22.29 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a [certain] man drew a bow at a venture, and smote the king of Israel between the joints of the harness: wherefore he said unto the driver of his chariot, Turn thine hand, and carry me out of the host; for I am wounded.
 <small><sub>**BSB:**</sub></small>
 However, a certain man drew his bow without taking special aim, and he struck the king of Israel between the joints of his armor. So the king said to his charioteer, “Turn around and take me out of the battle, for I am badly wounded!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֗ישׁ]] [[H4900\|מָשַׁ֤ךְ]] [[H9003\|בַּ]][[H7198\|קֶּ֙שֶׁת֙]] [[H9005\|לְ]][[H8537\|תֻמּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5221\|יַּכֶּה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0996G\|בֵּ֥ין]] [[H9009\|הַ]][[H1694\|דְּבָקִ֖ים]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H8302B\|שִּׁרְיָ֑ן]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H7395\|רַכָּב֗]][[H9023\|וֹ]] [[H2015\|הֲפֹ֥ךְ]] [[H3027I\|יָדְ]][[H9021\|ךָ֛]] [[H9002\|וְ]][[H3318H\|הוֹצִיאֵ֥]][[H9030\|נִי]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H3588A\|כִּ֥י]] [[H2470H\|הָחֳלֵֽיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic ARROW|ARROW]] • [[topic COAT OF MAIL|COAT OF MAIL]] • [[topic PROPHECY|PROPHECY]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.33|<< 1 Kings 22:33]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.35|1 Kings 22:35 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Psalm 69:15
+type: Verse
+kjv: "Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me."
+bsb: "Do not let the floods engulf me or the depths swallow me up; let not the Pit close its mouth over me."
+hebrew: "אַל־ תִּשְׁטְפֵ֤נִי׀ שִׁבֹּ֣לֶת מַ֭יִם וְאַל־ תִּבְלָעֵ֣נִי מְצוּלָ֑ה וְאַל־ תֶּאְטַר־ עָלַ֖י בְּאֵ֣ר פִּֽיהָ׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PIT|PIT]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7857]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H7641A]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H1104]]"
+- "[[H4688]]"
+- "[[H0332]]"
+- "[[H5921A]]"
+- "[[H0875]]"
+- "[[H6310G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:15**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.
 <small><sub>**BSB:**</sub></small>
 Do not let the floods engulf me or the depths swallow me up; let not the Pit close its mouth over me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H7857\|תִּשְׁטְפֵ֤]][[H9030\|נִי]][[H9015\|׀]] [[H7641A\|שִׁבֹּ֣לֶת]] [[H4325G\|מַ֭יִם]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1104\|תִּבְלָעֵ֣]][[H9030\|נִי]] [[H4688\|מְצוּלָ֑ה]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0332\|תֶּאְטַר]][[H9014\|־]] [[H5921A\|עָלַ֖]][[H9030\|י]] [[H0875\|בְּאֵ֣ר]] [[H6310G\|פִּֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PIT|PIT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.14|<< Psalms 69:14]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.16|Psalms 69:16 >>]]</td></tr></table>
 

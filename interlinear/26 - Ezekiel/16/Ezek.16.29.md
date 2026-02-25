@@ -1,8 +1,62 @@
+---
+title: Ezekiel 16:29
+type: Verse
+kjv: "Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea; and yet thou wast not satisfied herewith."
+bsb: "So you extended your promiscuity to Chaldea, the land of merchants—but even with this you were not satisfied!"
+hebrew: "וַתַּרְבִּ֧י אֶת־ תַּזְנוּתֵ֛ךְ אֶל־ אֶ֥רֶץ כְּנַ֖עַן כַּשְׂדִּ֑ימָה וְגַם־ בְּזֹ֖את לֹ֥א שָׂבָֽעַתְּ׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8457]]"
+- "[[H9022]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H3667B]]"
+- "[[H3778]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H7646]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:29**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast moreover multiplied thy fornication in the land of Canaan unto Chaldea; and yet thou wast not satisfied herewith.
 <small><sub>**BSB:**</sub></small>
 So you extended your promiscuity to Chaldea, the land of merchants—but even with this you were not satisfied!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7235A\|תַּרְבִּ֧י]] [[H0853\|אֶת]][[H9014\|־]] [[H8457\|תַּזְנוּתֵ֛]][[H9022\|ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H3667B\|כְּנַ֖עַן]] [[H3778\|כַּשְׂדִּ֑ימָ]][[H9011\|ה]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9003\|בְּ]][[H2063\|זֹ֖את]] [[H3808\|לֹ֥א]] [[H7646\|שָׂבָֽעַתְּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.28|<< Ezekiel 16:28]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.30|Ezekiel 16:30 >>]]</td></tr></table>
 

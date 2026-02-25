@@ -1,8 +1,52 @@
+---
+title: Psalm 114:2
+type: Verse
+kjv: "Judah was his sanctuary, and Israel his dominion."
+bsb: "Judah became God’s sanctuary, Israel His dominion."
+hebrew: "הָיְתָ֣ה יְהוּדָ֣ה לְקָדְשׁ֑וֹ יִ֝שְׂרָאֵ֗ל מַמְשְׁלוֹתָֽיו׃"
+pericope: "[[Ps.114.1 A Psalm of Exodus|A Psalm of Exodus]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 114
+book/chapter: "[[Ps.114|Psalm 114]]"
+chronological_order: 876
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H1961]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H3478]]"
+- "[[H4475]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 114:2**<big><big>[[Ps.114.1 A Psalm of Exodus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Judah was his sanctuary, [and] Israel his dominion.
 <small><sub>**BSB:**</sub></small>
 Judah became God’s sanctuary, Israel His dominion.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הָיְתָ֣ה]] [[H3063G\|יְהוּדָ֣ה]] [[H9005\|לְ]][[H6944G\|קָדְשׁ֑]][[H9023\|וֹ]] [[H3478\|יִ֝שְׂרָאֵ֗ל]] [[H4475\|מַמְשְׁלוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.114.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.114.1|<< Psalms 114:1]]</td><td align="center" style="border:none;">[[Ps.114|Psalms 114]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.114.3|Psalms 114:3 >>]]</td></tr></table>
 

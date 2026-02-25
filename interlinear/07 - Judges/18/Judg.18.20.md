@@ -1,8 +1,60 @@
+---
+title: Judges 18:20
+type: Verse
+kjv: "And the priest’s heart was glad, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people."
+bsb: "So the priest was glad and took the ephod, the household idols, and the graven image, and went with the people."
+hebrew: "וַיִּיטַב֙ לֵ֣ב הַכֹּהֵ֔ן וַיִּקַּח֙ אֶת־ הָ֣אֵפ֔וֹד וְאֶת־ הַתְּרָפִ֖ים וְאֶת־ הַפָּ֑סֶל וַיָּבֹ֖א בְּקֶ֥רֶב הָעָֽם׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3190]]"
+- "[[H3820A]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0646]]"
+- "[[H9002]]"
+- "[[H8655]]"
+- "[[H6459]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:20**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest’s heart was glad, and he took the ephod, and the teraphim, and the graven image, and went in the midst of the people.
 <small><sub>**BSB:**</sub></small>
 So the priest was glad and took the ephod, the household idols, and the graven image, and went with the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3190\|יִּיטַב֙]] [[H3820A\|לֵ֣ב]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9001\|וַ]][[H3947G\|יִּקַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0646\|אֵפ֔וֹד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8655\|תְּרָפִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6459\|פָּ֑סֶל]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic JONATHAN|JONATHAN]] • [[topic TERAPHIM|TERAPHIM]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.19|<< Judges 18:19]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.21|Judges 18:21 >>]]</td></tr></table>
 

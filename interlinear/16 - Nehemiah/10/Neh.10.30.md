@@ -1,8 +1,60 @@
+---
+title: Nehemiah 10:30
+type: Verse
+kjv: "And that we would not give our daughters unto the people of the land, nor take their daughters for our sons:"
+bsb: "We will not give our daughters in marriage to the people of the land, and we will not take their daughters for our sons."
+hebrew: "וַאֲשֶׁ֛ר לֹא־ נִתֵּ֥ן בְּנֹתֵ֖ינוּ לְעַמֵּ֣י הָאָ֑רֶץ וְאֶת־ בְּנֹ֣תֵיהֶ֔ם לֹ֥א נִקַּ֖ח לְבָנֵֽינוּ׃"
+pericope: "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5414O]]"
+- "[[H1323G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H9028]]"
+- "[[H3947G]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 10:30**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that we would not give our daughters unto the people of the land, nor take their daughters for our sons:
 <small><sub>**BSB:**</sub></small>
 We will not give our daughters in marriage to the people of the land, and we will not take their daughters for our sons.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5414O\|נִתֵּ֥ן]] [[H1323G\|בְּנֹתֵ֖י]][[H9025\|נוּ]] [[H9005\|לְ]][[H5971A\|עַמֵּ֣י]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹ֣תֵי]][[H9028\|הֶ֔ם]] [[H3808\|לֹ֥א]] [[H3947G\|נִקַּ֖ח]] [[H9005\|לְ]][[H1121A\|בָנֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DECISION|DECISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.29|<< Nehemiah 10:29]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.31|Nehemiah 10:31 >>]]</td></tr></table>
 

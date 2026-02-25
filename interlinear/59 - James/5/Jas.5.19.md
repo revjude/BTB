@@ -1,10 +1,56 @@
+---
+title: James 5:19
+type: Verse
+kjv: "Brethren, if any of you do err from the truth, and one convert him;"
+bsb: "My brothers, if one of you should wander from the truth and someone should bring him back,"
+greek: "Ἀδελφοί μου, ἐάν τις ἐν ὑμῖν πλανηθῇ ἀπὸ τῆς ἀληθείας καὶ ἐπιστρέψῃ τις αὐτόν,"
+pericope: "[[Jas.5.19 Restoring a Sinner|Restoring a Sinner]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 5
+book/chapter: "[[Jas.5|James 5]]"
+chronological_order: 1037
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G4105]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G2532]]"
+- "[[G1994]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NO
+---
+
 **James 5:19**<big><big>[[Jas.5.19 Restoring a Sinner|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Brethren, if any of you do err from the truth, and one convert him;
 <small><sub>**BSB:**</sub></small>
 My brothers, if one of you should wander from the truth and someone should bring him back,
-<small><sub>**Literal:**</sub></small>
-Brothers of Mine, if anyone among you shall wander from the truth and shall bring back someone him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.18|<< James 5:18]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.20|James 5:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0080\|Ἀδελφοί]]  [[G3165\|μου,]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G4105\|πλανηθῇ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G2532\|καὶ]]  [[G1994\|ἐπιστρέψῃ]]  [[G5100\|τις]]  [[G0846\|αὐτόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic REGENERATION|REGENERATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.18|<< James 5:18]]</td><td align="center" style="border:none;">[[Jas.5|James 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.20|James 5:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

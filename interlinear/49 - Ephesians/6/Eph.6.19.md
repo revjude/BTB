@@ -1,10 +1,63 @@
+---
+title: Ephesians 6:19
+type: Verse
+kjv: "And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,"
+bsb: "Pray also for me, that whenever I open my mouth, words may be given me so that I will boldly make known the mystery of the gospel,"
+greek: "καὶ ὑπὲρ ἐμοῦ, ἵνα μοι δοθῇ λόγος ἐν ἀνοίξει τοῦ στόματός μου ἐν παρρησίᾳ γνωρίσαι τὸ μυστήριον τοῦ εὐαγγελίου,"
+pericope: "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5228]]"
+- "[[G1473]]"
+- "[[G2443]]"
+- "[[G3165]]"
+- "[[G1325]]"
+- "[[G3056]]"
+- "[[G1722]]"
+- "[[G0457]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G3954]]"
+- "[[G1107]]"
+- "[[G3466]]"
+- "[[G2098]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Ephesians 6:19**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,
 <small><sub>**BSB:**</sub></small>
 Pray also for me, that whenever I open my mouth, words may be given me so that I will boldly make known the mystery of the gospel,
-<small><sub>**Literal:**</sub></small>
-and also for me, that to me may be given divine utterance in [the] opening of the mouth of mine with boldness to make known the mystery of the gospel,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.18|<< Ephesians 6:18]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.20|Ephesians 6:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5228\|ὑπὲρ]]  [[G1473\|ἐμοῦ,]]  [[G2443\|ἵνα]]  [[G3165\|μοι]]  [[G1325\|δοθῇ]]  [[G3056\|λόγος]]  [[G1722\|ἐν]]  [[G0457\|ἀνοίξει]]  [[G3588\|τοῦ]]  [[G4750\|στόματός]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G3954\|παρρησίᾳ]]  [[G1107\|γνωρίσαι]]  [[G3588\|τὸ]]  [[G3466\|μυστήριον]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PRAYER|PRAYER]] • [[topic SALVATION|SALVATION]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.18|<< Ephesians 6:18]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.20|Ephesians 6:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

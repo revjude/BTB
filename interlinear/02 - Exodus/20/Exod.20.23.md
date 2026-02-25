@@ -1,8 +1,58 @@
+---
+title: Exodus 20:23
+type: Verse
+kjv: "Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold."
+bsb: "You are not to make any gods alongside Me; you are not to make for yourselves gods of silver or gold."
+hebrew: "לֹ֥א תַעֲשׂ֖וּן אִתִּ֑י אֱלֹ֤הֵי כֶ֙סֶף֙ וֵאלֹהֵ֣י זָהָ֔ב לֹ֥א תַעֲשׂ֖וּ לָכֶֽם׃"
+pericope: "[[Exod.20.22 Idolatry Forbidden|Idolatry Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H3808]]"
+- "[[H6213H]]"
+- "[[H9013]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H0430]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 20:23**<big><big>[[Exod.20.22 Idolatry Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.
 <small><sub>**BSB:**</sub></small>
 You are not to make any gods alongside Me; you are not to make for yourselves gods of silver or gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֥א]] [[H6213H\|תַעֲשׂ֖וּ]][[H9013\|ן]] [[H0854\|אִתִּ֑]][[H9030\|י]] [[H0430\|אֱלֹ֤הֵי]] [[H3701G\|כֶ֙סֶף֙]] [[H9002\|וֵ]][[H0430\|אלֹהֵ֣י]] [[H2091\|זָהָ֔ב]] [[H3808\|לֹ֥א]] [[H6213H\|תַעֲשׂ֖וּ]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.22|<< Exodus 20:22]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.24|Exodus 20:24 >>]]</td></tr></table>
 

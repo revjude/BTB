@@ -1,10 +1,77 @@
+---
+title: Acts 14:15
+type: Verse
+kjv: "And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:"
+bsb: "“Men, why are you doing this? We too are only men, human like you. We are bringing you good news that you should turn from these worthless things to the living God, who made heaven and earth and sea and everything in them."
+greek: "καὶ λέγοντες· ἄνδρες, τί ταῦτα ποιεῖτε; καὶ ἡμεῖς ὁμοιοπαθεῖς ἐσμεν ὑμῖν ἄνθρωποι, εὐαγγελιζόμενοι ὑμᾶς ἀπὸ τούτων τῶν ματαίων ἐπιστρέφειν ἐπὶ τὸν θεὸν τὸν ζῶντα, ὃς ἐποίησεν τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θάλασσαν καὶ πάντα τὰ ἐν αὐτοῖς,"
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WORSHIP|WORSHIP]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0435G]]"
+- "[[G5101]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G3165]]"
+- "[[G3663]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G0444]]"
+- "[[G2097]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3152]]"
+- "[[G1994]]"
+- "[[G1909]]"
+- "[[G2316]]"
+- "[[G2198]]"
+- "[[G3739]]"
+- "[[G3772]]"
+- "[[G1093G]]"
+- "[[G2281]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 14:15**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saying, Sirs, why do ye these things? We also are men of like passions with you, and preach unto you that ye should turn from these vanities unto the living God, which made heaven, and earth, and the sea, and all things that are therein:
 <small><sub>**BSB:**</sub></small>
 “Men, why are you doing this? We too are only men, human like you. We are bringing you good news that you should turn from these worthless things to the living God, who made heaven and earth and sea and everything in them.
-<small><sub>**Literal:**</sub></small>
-and saying; Men, why these things do you? Also we ourselves of like nature are with you men, evangelising to you from these <the> vanities to turn to <the> God who is living, who made the heaven and the earth and the sea and all the [things] in them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.14|<< Acts 14:14]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.16|Acts 14:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγοντες·]]  [[G0435G\|ἄνδρες,]]  [[G5101\|τί]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιεῖτε;]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G3663\|ὁμοιοπαθεῖς]]  [[G1510\|ἐσμεν]]  [[G4771\|ὑμῖν]]  [[G0444\|ἄνθρωποι,]]  [[G2097\|εὐαγγελιζόμενοι]]  [[G4771\|ὑμᾶς]]  [[G0575\|ἀπὸ]]  [[G3778\|τούτων]]  [[G3588\|τῶν]]  [[G3152\|ματαίων]]  [[G1994\|ἐπιστρέφειν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3588\|τὸν]]  [[G2198\|ζῶντα,]]  [[G3739\|ὃς]]  [[G4160G\|ἐποίησεν]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic HOMAGE|HOMAGE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic WORSHIP|WORSHIP]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.14|<< Acts 14:14]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.16|Acts 14:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 14:15** is...
 > $\quad$ referencing: [[LXX.Exod.20.11|Exod 20:11]] ☩ [[LXX.Ps.146.6|Ps 146:6]]

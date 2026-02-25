@@ -1,8 +1,52 @@
+---
+title: Isaiah 3:10
+type: Verse
+kjv: "Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings."
+bsb: "Tell the righteous it will be well with them, for they will enjoy the fruit of their labor."
+hebrew: "אִמְר֥וּ צַדִּ֖יק כִּי־ ט֑וֹב כִּֽי־ פְרִ֥י מַעַלְלֵיהֶ֖ם יֹאכֵֽלוּ׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H0559]]"
+- "[[H6662]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2895]]"
+- "[[H6529]]"
+- "[[H4611]]"
+- "[[H9028]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:10**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say ye to the righteous, that [it shall be] well [with him]: for they shall eat the fruit of their doings.
 <small><sub>**BSB:**</sub></small>
 Tell the righteous it will be well with them, for they will enjoy the fruit of their labor.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אִמְר֥וּ]] [[H6662\|צַדִּ֖יק]] [[H3588A\|כִּי]][[H9014\|־]] [[H2895\|ט֑וֹב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6529\|פְרִ֥י]] [[H4611\|מַעַלְלֵי]][[H9028\|הֶ֖ם]] [[H0398\|יֹאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENT|JUDGMENT]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.9|<< Isaiah 3:9]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.11|Isaiah 3:11 >>]]</td></tr></table>
 

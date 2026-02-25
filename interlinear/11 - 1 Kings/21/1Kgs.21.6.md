@@ -1,8 +1,78 @@
+---
+title: 1 Kings 21:6
+type: Verse
+kjv: "And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee another vineyard for it: and he answered, I will not give thee my vineyard."
+bsb: "Ahab answered, “Because I spoke to Naboth the Jezreelite and told him, ‘Give me your vineyard for silver, or if you wish, I will give you another vineyard in its place.’ And he replied, ‘I will not give you my vineyard!’”"
+hebrew: "וַיְדַבֵּ֣ר אֵלֶ֗יהָ כִּֽי־ אֲ֠דַבֵּר אֶל־ נָב֨וֹת הַיִּזְרְעֵאלִ֜י וָאֹ֣מַר ל֗וֹ תְּנָה־ לִּ֤י אֶֽת־ כַּרְמְךָ֙ בְּכֶ֔סֶף א֚וֹ אִם־ חָפֵ֣ץ אַתָּ֔ה אֶתְּנָה־ לְךָ֥ כֶ֖רֶם תַּחְתָּ֑יו וַיֹּ֕אמֶר לֹֽא־ אֶתֵּ֥ן לְךָ֖ אֶת־ כַּרְמִֽי׃"
+pericope: "[[1Kgs.21.1 Naboth’s Vineyard|Naboth’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic KING|KING]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5022]]"
+- "[[H9009]]"
+- "[[H3158H]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H3754]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H0176A]]"
+- "[[H0518A]]"
+- "[[H2655]]"
+- "[[H0859A]]"
+- "[[H9031]]"
+- "[[H8478H]]"
+- "[[H3808]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:6**<big><big>[[1Kgs.21.1 Naboth’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto her, Because I spake unto Naboth the Jezreelite, and said unto him, Give me thy vineyard for money; or else, if it please thee, I will give thee [another] vineyard for it: and he answered, I will not give thee my vineyard.
 <small><sub>**BSB:**</sub></small>
 Ahab answered, “Because I spoke to Naboth the Jezreelite and told him, ‘Give me your vineyard for silver, or if you wish, I will give you another vineyard in its place.’ And he replied, ‘I will not give you my vineyard!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֵלֶ֗י]][[H9034\|הָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1696G\|אֲ֠דַבֵּר]] [[H0413\|אֶל]][[H9014\|־]] [[H5022\|נָב֨וֹת]] [[H9009\|הַ]][[H3158H\|יִּזְרְעֵאלִ֜י]] [[H9001\|וָ]][[H0559\|אֹ֣מַר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H5414G\|תְּנָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֤]][[H9030\|י]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3754\|כַּרְמְ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H3701G\|כֶ֔סֶף]] [[H0176A\|א֚וֹ]] [[H0518A\|אִם]][[H9014\|־]] [[H2655\|חָפֵ֣ץ]] [[H0859A\|אַתָּ֔ה]] [[H5414G\|אֶתְּנָה]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H3754\|כֶ֖רֶם]] [[H8478H\|תַּחְתָּ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|אֶתֵּ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H3754\|כַּרְמִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEZEBEL|JEZEBEL]] • [[topic KING|KING]] • [[topic MONEY|MONEY]] • [[topic NABOTH|NABOTH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.5|<< 1 Kings 21:5]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.7|1 Kings 21:7 >>]]</td></tr></table>
 

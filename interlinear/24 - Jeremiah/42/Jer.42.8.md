@@ -1,8 +1,64 @@
+---
+title: Jeremiah 42:8
+type: Verse
+kjv: "Then called he Johanan the son of Kareah, and all the captains of the forces which were with him, and all the people from the least even to the greatest,"
+bsb: "and he summoned Johanan son of Kareah, all the commanders of the forces who were with him, and all the people from the least to the greatest."
+hebrew: "וַיִּקְרָ֗א אֶל־ יֽוֹחָנָן֙ בֶּן־ קָרֵ֔חַ וְאֶ֛ל כָּל־ שָׂרֵ֥י הַחֲיָלִ֖ים אֲשֶׁ֣ר אִתּ֑וֹ וּלְכָ֨ל־ הָעָ֔ם לְמִקָּטֹ֥ן וְעַד־ גָּדֽוֹל׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3110G]]"
+- "[[H1121A]]"
+- "[[H7143]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2428A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H6996B]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:8**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then called he Johanan the son of Kareah, and all the captains of the forces which [were] with him, and all the people from the least even to the greatest,
 <small><sub>**BSB:**</sub></small>
 and he summoned Johanan son of Kareah, all the commanders of the forces who were with him, and all the people from the least to the greatest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֗א]] [[H0413\|אֶל]][[H9014\|־]] [[H3110G\|יֽוֹחָנָן֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7143\|קָרֵ֔חַ]] [[H9002\|וְ]][[H0413\|אֶ֛ל]] [[H3605\|כָּל]][[H9014\|־]] [[H8269\|שָׂרֵ֥י]] [[H9009\|הַ]][[H2428A\|חֲיָלִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָ֨ל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9005\|לְ]][[H9006\|מִ]][[H6996B\|קָּטֹ֥ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.7|<< Jeremiah 42:7]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.9|Jeremiah 42:9 >>]]</td></tr></table>
 

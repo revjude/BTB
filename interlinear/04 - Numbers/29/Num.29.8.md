@@ -1,8 +1,66 @@
+---
+title: Numbers 29:8
+type: Verse
+kjv: "But ye shall offer a burnt offering unto the LORD for a sweet savour; one young bullock, one ram, and seven lambs of the first year; they shall be unto you without blemish:"
+bsb: "Present as a pleasing aroma to the LORD a burnt offering of one young bull, one ram, and seven male lambs a year old, all unblemished,"
+hebrew: "וְהִקְרַבְתֶּ֨ם עֹלָ֤ה לַֽיהוָה֙ רֵ֣יחַ נִיחֹ֔חַ פַּ֧ר בֶּן־ בָּקָ֛ר אֶחָ֖ד אַ֣יִל אֶחָ֑ד כְּבָשִׂ֤ים בְּנֵֽי־ שָׁנָה֙ שִׁבְעָ֔ה תְּמִימִ֖ם יִהְי֥וּ לָכֶֽם׃"
+pericope: "[[Num.29.7 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1241]]"
+- "[[H0259]]"
+- "[[H0352A]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H7651]]"
+- "[[H8549G]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:8**<big><big>[[Num.29.7 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye shall offer a burnt offering unto the LORD [for] a sweet savour; one young bullock, one ram, [and] seven lambs of the first year; they shall be unto you without blemish:
 <small><sub>**BSB:**</sub></small>
 Present as a pleasing aroma to the LORD a burnt offering of one young bull, one ram, and seven male lambs a year old, all unblemished,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרַבְתֶּ֨ם]] [[H5930A\|עֹלָ֤ה]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H7381\|רֵ֣יחַ]] [[H5207\|נִיחֹ֔חַ]] [[H6499\|פַּ֧ר]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֛ר]] [[H0259\|אֶחָ֖ד]] [[H0352A\|אַ֣יִל]] [[H0259\|אֶחָ֑ד]] [[H3532\|כְּבָשִׂ֤ים]] [[H1121L\|בְּנֵֽי]][[H9014\|־]] [[H8141\|שָׁנָה֙]] [[H7651\|שִׁבְעָ֔ה]] [[H8549G\|תְּמִימִ֖ם]] [[H1961\|יִהְי֥וּ]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.7|<< Numbers 29:7]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.9|Numbers 29:9 >>]]</td></tr></table>
 

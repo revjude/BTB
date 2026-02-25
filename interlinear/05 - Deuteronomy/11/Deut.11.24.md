@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 11:24
+type: Verse
+kjv: "Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be."
+bsb: "Every place where the sole of your foot treads will be yours. Your territory will extend from the wilderness to Lebanon, and from the Euphrates River to the Western Sea."
+hebrew: "כָּל־ הַמָּק֗וֹם אֲשֶׁ֨ר תִּדְרֹ֧ךְ כַּֽף־ רַגְלְכֶ֛ם בּ֖וֹ לָכֶ֣ם יִהְיֶ֑ה מִן־ הַמִּדְבָּ֨ר וְהַלְּבָנ֜וֹן מִן־ הַנָּהָ֣ר נְהַר־ פְּרָ֗ת וְעַד֙ הַיָּ֣ם הָֽאַחֲר֔וֹן יִהְיֶ֖ה גְּבֻלְכֶֽם׃"
+pericope: "[[Deut.11.18 Remember God’s Words|Remember God’s Words]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H1869]]"
+- "[[H3709H]]"
+- "[[H7272]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H1961]]"
+- "[[H4480A]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H3844G]]"
+- "[[H5104G]]"
+- "[[H6578]]"
+- "[[H5704]]"
+- "[[H3220G]]"
+- "[[H0314]]"
+- "[[H1366H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:24**<big><big>[[Deut.11.18 Remember God’s Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every place whereon the soles of your feet shall tread shall be yours: from the wilderness and Lebanon, from the river, the river Euphrates, even unto the uttermost sea shall your coast be.
 <small><sub>**BSB:**</sub></small>
 Every place where the sole of your foot treads will be yours. Your territory will extend from the wilderness to Lebanon, and from the Euphrates River to the Western Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֗וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H1869\|תִּדְרֹ֧ךְ]] [[H3709H\|כַּֽף]][[H9014\|־]] [[H7272\|רַגְלְ]][[H9026\|כֶ֛ם]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9005\|לָ]][[H9036\|כֶ֣ם]] [[H1961\|יִהְיֶ֑ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֨ר]] [[H9002\|וְ]][[H9009\|הַ]][[H3844G\|לְּבָנ֜וֹן]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5104G\|נָּהָ֣ר]] [[H5104G\|נְהַר]][[H9014\|־]] [[H6578\|פְּרָ֗ת]] [[H9002\|וְ]][[H5704\|עַד֙]] [[H9009\|הַ]][[H3220G\|יָּ֣ם]] [[H9009\|הָֽ]][[H0314\|אַחֲר֔וֹן]] [[H1961\|יִהְיֶ֖ה]] [[H1366H\|גְּבֻלְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic EUPHRATES|EUPHRATES]] • [[topic LEBANON|LEBANON]] • [[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.23|<< Deuteronomy 11:23]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.25|Deuteronomy 11:25 >>]]</td></tr></table>
 

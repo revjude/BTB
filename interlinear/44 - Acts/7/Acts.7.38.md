@@ -1,10 +1,69 @@
+---
+title: Acts 7:38
+type: Verse
+kjv: "This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and with our fathers: who received the lively oracles to give unto us:"
+bsb: "He was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers. And he received living words to pass on to us."
+greek: "οὗτός ἐστιν ὁ γενόμενος ἐν τῇ ἐκκλησίᾳ ἐν τῇ ἐρήμῳ μετὰ τοῦ ἀγγέλου τοῦ λαλοῦντος αὐτῷ ἐν τῷ ὄρει Σινᾶ καὶ τῶν πατέρων ἡμῶν ὃς ἐδέξατο λόγια ζῶντα δοῦναι ἡμῖν·"
+pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic ORACLE|ORACLE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G1577]]"
+- "[[G2048]]"
+- "[[G3326]]"
+- "[[G0032G]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G3735]]"
+- "[[G4614]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G1209]]"
+- "[[G3051]]"
+- "[[G2198]]"
+- "[[G1325]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Acts 7:38**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This is he, that was in the church in the wilderness with the angel which spake to him in the mount Sina, and [with] our fathers: who received the lively oracles to give unto us:
 <small><sub>**BSB:**</sub></small>
 He was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers. And he received living words to pass on to us.
-<small><sub>**Literal:**</sub></small>
-This is the [one] having been in the congregation in the wilderness with the angel who is speaking to him in the Mount Sinai and of the fathers of us who received oracles living to give to us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.37|<< Acts 7:37]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.39|Acts 7:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G1096\|γενόμενος]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G0032G\|ἀγγέλου]]  [[G3588\|τοῦ]]  [[G2980\|λαλοῦντος]]  [[G0846\|αὐτῷ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3735\|ὄρει]]  [[G4614\|Σινᾶ]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G3962\|πατέρων]]  [[G3165\|ἡμῶν]]  [[G3739\|ὃς]]  [[G1209\|ἐδέξατο]]  [[G3051\|λόγια]]  [[G2198\|ζῶντα]]  [[G1325\|δοῦναι]]  [[G3165\|ἡμῖν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic MOSES|MOSES]] • [[topic ORACLE|ORACLE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SINAI|SINAI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.37|<< Acts 7:37]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.39|Acts 7:39 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:38** is...
 > $\quad$ alluding to: [[LXX.Exod.19.3|Exod 19:3]]

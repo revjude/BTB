@@ -1,10 +1,60 @@
+---
+title: Matthew 16:13
+type: Verse
+kjv: "When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?"
+bsb: "When Jesus came to the region of Caesarea Philippi, He questioned His disciples: “Who do people say the Son of Man is?”"
+jesus_said: "Whom do men say that I the Son of man am?"
+greek: "Ἐλθὼν δὲ ὁ Ἰησοῦς εἰς τὰ μέρη Καισαρείας τῆς Φιλίππου ἠρώτα τοὺς μαθητὰς αὐτοῦ λέγων· τίνα με λέγουσιν οἱ ἄνθρωποι εἶναι τὸν υἱὸν τοῦ ἀνθρώπου;"
+pericope: "[[Matt.16.13 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAESAREA PHILIPPI|CAESAREA PHILIPPI]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G3313]]"
+- "[[G2542G]]"
+- "[[G5376K]]"
+- "[[G2065]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G0444]]"
+- "[[G1511]]"
+- "[[G5207]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 16:13**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?
 <small><sub>**BSB:**</sub></small>
 When Jesus came to the region of Caesarea Philippi, He questioned His disciples: “Who do people say the Son of Man is?”
-<small><sub>**Literal:**</sub></small>
-Having come then <the> Jesus into the district of Caesarea <the> Philippi He was questioning the disciples of Him saying; Whom Me do pronounce <the> men to be the Son <the> of man?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.12|<< Matthew 16:12]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.14|Matthew 16:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|Ἐλθὼν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3313\|μέρη]]  [[G2542G\|Καισαρείας]]  [[G3588\|τῆς]]  [[G5376K\|Φιλίππου]]  [[G2065\|ἠρώτα]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγων·]]  [[G5101\|τίνα]]  [[G3165\|με]]  [[G3004G\|λέγουσιν]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι]]  [[G1511\|εἶναι]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA PHILIPPI|CAESAREA PHILIPPI]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.12|<< Matthew 16:12]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.14|Matthew 16:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

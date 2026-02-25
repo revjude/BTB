@@ -1,10 +1,54 @@
+---
+title: John 1:9
+type: Verse
+kjv: "That was the true Light, which lighteth every man that cometh into the world."
+bsb: "The true Light, who gives light to everyone, was coming into the world."
+greek: "ἦν τὸ φῶς τὸ ἀληθινὸν ὃ φωτίζει πάντα ἄνθρωπον ἐρχόμενον εἰς τὸν κόσμον."
+pericope: "[[John.1.6 The Witness of John|The Witness of John]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5457]]"
+- "[[G0228]]"
+- "[[G3739]]"
+- "[[G5461]]"
+- "[[G3956]]"
+- "[[G0444]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2889]]"
+texts:
+- NKO
+---
+
 **John 1:9**<big><big>[[John.1.6 The Witness of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [That] was the true Light, which lighteth every man that cometh into the world.
 <small><sub>**BSB:**</sub></small>
 The true Light, who gives light to everyone, was coming into the world.
-<small><sub>**Literal:**</sub></small>
-Was the Light <the> true who enlightens every man coming into the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.8|<< John 1:8]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.10|John 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G3588\|τὸ]]  [[G5457\|φῶς]]  [[G3588\|τὸ]]  [[G0228\|ἀληθινὸν]]  [[G3739\|ὃ]]  [[G5461\|φωτίζει]]  [[G3956\|πάντα]]  [[G0444\|ἄνθρωπον]]  [[G2064\|ἐρχόμενον]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHT|LIGHT]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.8|<< John 1:8]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.10|John 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

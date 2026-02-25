@@ -1,10 +1,61 @@
+---
+title: Luke 9:56
+type: Verse
+kjv: "For the Son of man is not come to destroy men’s lives, but to save them. And they went to another village."
+bsb: "And He and His disciples went on to another village."
+jesus_said: "For the Son of man is not come to destroy men’s lives, but to save them."
+greek: "ὁ γὰρ υἱὸς τοῦ ἀνθρώπου οὐκ ἦλθεν ψυχὰς ἀνθρώπων ἀπολέσαι, ἀλλὰ σῶσαι. καὶ ἐπορεύθησαν εἰς ἑτέραν κώμην.¶"
+pericope: "[[Luke.9.51 The Samaritans Reject Jesus|The Samaritans Reject Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3756]]"
+- "[[G2064]]"
+- "[[G5590H]]"
+- "[[G0622]]"
+- "[[G0235]]"
+- "[[G4982]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2087]]"
+- "[[G2968]]"
+texts:
+- K
+- NKO
+---
+
 **Luke 9:56**<big><big>[[Luke.9.51 The Samaritans Reject Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Son of man is not come to destroy men’s lives, but to save [them]. And they went to another village.
 <small><sub>**BSB:**</sub></small>
 And He and His disciples went on to another village.
-<small><sub>**Literal:**</sub></small>
-<the> for the son <the> of man not came souls of men to destroy but to save. and they went to another village.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.55|<< Luke 9:55]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.57|Luke 9:57 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3756\|οὐκ]]  [[G2064\|ἦλθεν]]  [[G5590H\|ψυχὰς]]  [[G0444\|ἀνθρώπων]]  [[G0622\|ἀπολέσαι,]]  [[G0235\|ἀλλὰ]]  [[G4982\|σῶσαι.]]  [[G2532\|καὶ]]  [[G4198\|ἐπορεύθησαν]]  [[G1519\|εἰς]]  [[G2087\|ἑτέραν]]  [[G2968\|κώμην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic RETALIATION|RETALIATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.55|<< Luke 9:55]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.57|Luke 9:57 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

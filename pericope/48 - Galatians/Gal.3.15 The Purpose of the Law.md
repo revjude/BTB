@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Purpose of the Law
+type: Pericope
 pericope: "[[Gal.3.15 The Purpose of the Law|The Purpose of the Law]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 3
 book/chapter: "[[Gal.3|Galatians 3]]"
-genre:
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 11
 verses:
 - "[[Gal.3.15]]"
 - "[[Gal.3.16]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gal.3.25]]"
 ---
 
-[[Gal.3|Galatians 3:15 - Galatians 3:25]]
+<small>[[Gal.3|Galatians 3:15-25]]</small>
 *The Purpose of the Law*
 
 [[Gal.3.15|15]] Brethren, I speak after the manner of men; Though \[it be\] but a man’s covenant, yet \[if it be\] confirmed, no man disannulleth, or addeth thereto.

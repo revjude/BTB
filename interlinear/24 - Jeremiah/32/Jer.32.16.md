@@ -1,8 +1,64 @@
+---
+title: Jeremiah 32:16
+type: Verse
+kjv: "Now when I had delivered the evidence of the purchase unto Baruch the son of Neriah, I prayed unto the LORD, saying,"
+bsb: "After I had given the deed of purchase to Baruch son of Neriah, I prayed to the LORD:"
+hebrew: "וָאֶתְפַּלֵּ֖ל אֶל־ יְהוָ֑ה אַחֲרֵ֤י תִתִּי֙ אֶת־ סֵ֣פֶר הַמִּקְנָ֔ה אֶל־ בָּר֥וּךְ בֶּן־ נֵרִיָּ֖ה לֵאמֹֽר׃"
+pericope: "[[Jer.32.16 Jeremiah Prays for Understanding|Jeremiah Prays for Understanding]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6419]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0310A]]"
+- "[[H5414G]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H5612A]]"
+- "[[H9009]]"
+- "[[H4736]]"
+- "[[H1263J]]"
+- "[[H1121A]]"
+- "[[H5374]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:16**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when I had delivered the evidence of the purchase unto Baruch the son of Neriah, I prayed unto the LORD, saying,
 <small><sub>**BSB:**</sub></small>
 After I had given the deed of purchase to Baruch son of Neriah, I prayed to the LORD:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6419\|אֶתְפַּלֵּ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H0310A\|אַחֲרֵ֤י]] [[H5414G\|תִתִּ]][[H9040\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5612A\|סֵ֣פֶר]] [[H9009\|הַ]][[H4736\|מִּקְנָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1263J\|בָּר֥וּךְ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5374\|נֵרִיָּ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BARUCH|BARUCH]] • [[topic LAND|LAND]] • [[topic PRAYER|PRAYER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.15|<< Jeremiah 32:15]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.17|Jeremiah 32:17 >>]]</td></tr></table>
 

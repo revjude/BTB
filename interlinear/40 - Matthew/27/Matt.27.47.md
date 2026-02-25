@@ -1,10 +1,52 @@
+---
+title: Matthew 27:47
+type: Verse
+kjv: "Some of them that stood there, when they heard that, said, This man calleth for Elias."
+bsb: "When some of those standing there heard this, they said, “He is calling Elijah.”"
+greek: "Τινὲς δὲ τῶν ἐκεῖ ἑστηκότων ἀκούσαντες ἔλεγον ὅτι Ἠλίαν φωνεῖ οὗτος."
+pericope: "[[Matt.27.45 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1563]]"
+- "[[G2476]]"
+- "[[G0191]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2243]]"
+- "[[G5455]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Matthew 27:47**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Some of them that stood there, when they heard [that], said, This [man] calleth for Elias.
 <small><sub>**BSB:**</sub></small>
 When some of those standing there heard this, they said, “He is calling Elijah.”
-<small><sub>**Literal:**</sub></small>
-Some then of those who there having stood listening were saying that Elijah calls this [man].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.46|<< Matthew 27:46]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.48|Matthew 27:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5100\|Τινὲς]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G1563\|ἐκεῖ]]  [[G2476\|ἑστηκότων]]  [[G0191\|ἀκούσαντες]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι]]  [[G2243\|Ἠλίαν]]  [[G5455\|φωνεῖ]]  [[G3778\|οὗτος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.46|<< Matthew 27:46]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.48|Matthew 27:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

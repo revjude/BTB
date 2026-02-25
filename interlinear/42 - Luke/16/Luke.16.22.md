@@ -1,10 +1,69 @@
+---
+title: Luke 16:22
+type: Verse
+kjv: "And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;"
+bsb: "One day the beggar died and was carried by the angels to Abraham’s side. And the rich man also died and was buried."
+jesus_said: "And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;"
+greek: "Ἐγένετο δὲ ἀποθανεῖν τὸν πτωχὸν καὶ ἀπενεχθῆναι αὐτὸν ὑπὸ τῶν ἀγγέλων εἰς τὸν κόλπον τοῦ Ἀβραάμ· ἀπέθανεν δὲ καὶ ὁ πλούσιος καὶ ἐτάφη."
+pericope: "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BEGGARS|BEGGARS]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G0599]]"
+- "[[G3588]]"
+- "[[G4434]]"
+- "[[G2532]]"
+- "[[G0667]]"
+- "[[G0846]]"
+- "[[G5259G]]"
+- "[[G0032G]]"
+- "[[G1519]]"
+- "[[G2859]]"
+- "[[G0011]]"
+- "[[G4145]]"
+- "[[G2290]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 16:22**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that the beggar died, and was carried by the angels into Abraham’s bosom: the rich man also died, and was buried;
 <small><sub>**BSB:**</sub></small>
 One day the beggar died and was carried by the angels to Abraham’s side. And the rich man also died and was buried.
-<small><sub>**Literal:**</sub></small>
-It came to pass that then to die the poor man and to be carried away he by the angels into the bosom <the> of Abraham; Died then also the rich man and was buried.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.21|<< Luke 16:21]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.23|Luke 16:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G0599\|ἀποθανεῖν]]  [[G3588\|τὸν]]  [[G4434\|πτωχὸν]]  [[G2532\|καὶ]]  [[G0667\|ἀπενεχθῆναι]]  [[G0846\|αὐτὸν]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0032G\|ἀγγέλων]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2859\|κόλπον]]  [[G3588\|τοῦ]]  [[G0011\|Ἀβραάμ·]]  [[G0599\|ἀπέθανεν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4145\|πλούσιος]]  [[G2532\|καὶ]]  [[G2290\|ἐτάφη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BEGGARS|BEGGARS]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POOR|POOR]] • [[topic RICH, THE|RICH, THE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.21|<< Luke 16:21]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.23|Luke 16:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

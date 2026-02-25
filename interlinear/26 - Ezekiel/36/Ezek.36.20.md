@@ -1,8 +1,70 @@
+---
+title: Ezekiel 36:20
+type: Verse
+kjv: "And when they entered unto the heathen, whither they went, they profaned my holy name, when they said to them, These are the people of the LORD, and are gone forth out of his land."
+bsb: "And wherever they went among the nations, they profaned My holy name, because it was said of them, ‘These are the people of the LORD, yet they had to leave His land.’"
+hebrew: "וַיָּב֗וֹא אֶל־ הַגּוֹיִם֙ אֲשֶׁר־ בָּ֣אוּ שָׁ֔ם וַֽיְחַלְּל֖וּ אֶת־ שֵׁ֣ם קָדְשִׁ֑י בֶּאֱמֹ֤ר לָהֶם֙ עַם־ יְהוָ֣ה אֵ֔לֶּה וּמֵאַרְצ֖וֹ יָצָֽאוּ׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H8033G]]"
+- "[[H2490H]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5971A]]"
+- "[[H3068G]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:20**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they entered unto the heathen, whither they went, they profaned my holy name, when they said to them, These [are] the people of the LORD, and are gone forth out of his land.
 <small><sub>**BSB:**</sub></small>
 And wherever they went among the nations, they profaned My holy name, because it was said of them, ‘These are the people of the LORD, yet they had to leave His land.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּב֗וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣אוּ]] [[H8033G\|שָׁ֔ם]] [[H9001\|וַֽ]][[H2490H\|יְחַלְּל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H6944G\|קָדְשִׁ֑]][[H9020\|י]] [[H9003\|בֶּ]][[H0559\|אֱמֹ֤ר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H5971A\|עַם]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0428\|אֵ֔לֶּה]] [[H9002\|וּ]][[H9006\|מֵ]][[H0776G\|אַרְצ֖]][[H9023\|וֹ]] [[H3318G\|יָצָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.19|<< Ezekiel 36:19]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.21|Ezekiel 36:21 >>]]</td></tr></table>
 

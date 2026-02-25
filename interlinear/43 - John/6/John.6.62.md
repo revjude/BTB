@@ -1,10 +1,53 @@
+---
+title: John 6:62
+type: Verse
+kjv: "What and if ye shall see the Son of man ascend up where he was before?"
+bsb: "Then what will happen if you see the Son of Man ascend to where He was before?"
+jesus_said: "What and if ye shall see the Son of man ascend up where he was before?"
+greek: "ἐὰν οὖν θεωρῆτε τὸν υἱὸν τοῦ ἀνθρώπου ἀναβαίνοντα ὅπου ἦν τὸ πρότερον;"
+pericope: "[[John.6.59 Many Disciples Turn Back|Many Disciples Turn Back]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FLESH|FLESH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G1437]]"
+- "[[G3767]]"
+- "[[G2334]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G0305]]"
+- "[[G3699]]"
+- "[[G1510]]"
+- "[[G4387]]"
+texts:
+- NKO
+---
+
 **John 6:62**<big><big>[[John.6.59 Many Disciples Turn Back|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [What] and if ye shall see the Son of man ascend up where he was before?
 <small><sub>**BSB:**</sub></small>
 Then what will happen if you see the Son of Man ascend to where He was before?
-<small><sub>**Literal:**</sub></small>
-What if then you shall see the Son <the> of Man ascending where He was <the> before?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.61|<< John 6:61]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.63|John 6:63 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G3767\|οὖν]]  [[G2334\|θεωρῆτε]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G0305\|ἀναβαίνοντα]]  [[G3699\|ὅπου]]  [[G1510\|ἦν]]  [[G3588\|τὸ]]  [[G4387\|πρότερον;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLESH|FLESH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.61|<< John 6:61]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.63|John 6:63 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

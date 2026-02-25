@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Second Passover
+type: Pericope
 pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 9
 book/chapter: "[[Num.9|Numbers 9]]"
-genre:
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 14
 verses:
 - "[[Num.9.1]]"
 - "[[Num.9.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Num.9.14]]"
 ---
 
-[[Num.9|Numbers 9:1 - Numbers 9:14]]
+<small>[[Num.9|Numbers 9:1-14]]</small>
 *The Second Passover*
 
 [[Num.9.1|1]] And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,

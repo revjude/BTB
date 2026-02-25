@@ -1,8 +1,57 @@
+---
+title: Psalm 119:22
+type: Verse
+kjv: "Remove from me reproach and contempt; for I have kept thy testimonies."
+bsb: "Remove my scorn and contempt, for I have kept Your testimonies."
+hebrew: "גַּ֣ל מֵֽ֭עָלַי חֶרְפָּ֣ה וָב֑וּז כִּ֖י עֵדֹתֶ֣יךָ נָצָֽרְתִּי׃"
+pericope: "[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|Your Word Is a Lamp to My Feet - GIMEL]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H1556]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H2781]]"
+- "[[H9002]]"
+- "[[H0937]]"
+- "[[H3588A]]"
+- "[[H5713B]]"
+- "[[H9021]]"
+- "[[H5341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:22**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove from me reproach and contempt; for I have kept thy testimonies.
 <small><sub>**BSB:**</sub></small>
 Remove my scorn and contempt, for I have kept Your testimonies.
+<small><sub>**Hebrew:**</sub></small>
+[[H1556\|גַּ֣ל]] [[H9006\|מֵֽ֭]][[H5921A\|עָלַ]][[H9030\|י]] [[H2781\|חֶרְפָּ֣ה]] [[H9002\|וָ]][[H0937\|ב֑וּז]] [[H3588A\|כִּ֖י]] [[H5713B\|עֵדֹתֶ֣י]][[H9021\|ךָ]] [[H5341\|נָצָֽרְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.21|<< Psalms 119:21]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.23|Psalms 119:23 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Acts 20:1
+type: Verse
+kjv: "And after the uproar was ceased, Paul called unto him the disciples, and embraced them, and departed for to go into Macedonia."
+bsb: "When the uproar had ended, Paul sent for the disciples. And after encouraging them, he said goodbye to them and left for Macedonia."
+greek: "Μετὰ δὲ τὸ παύσασθαι τὸν θόρυβον μεταπεμψάμενος ὁ Παῦλος τοὺς μαθητὰς καὶ παρακαλέσας ἀσπασάμενος ἐξῆλθεν πορεύεσθαι εἰς τὴν Μακεδονίαν.¶"
+pericope: "[[Acts.20.1 Paul in Macedonia and Greece|Paul in Macedonia and Greece]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MACEDONIA|MACEDONIA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3973]]"
+- "[[G2351]]"
+- "[[G3343]]"
+- "[[G3972G]]"
+- "[[G3101]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G0782]]"
+- "[[G1831]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3109]]"
+texts:
+- NKO
+- N(k)O
+- NO
+- k
+---
+
 **Acts 20:1**<big><big>[[Acts.20.1 Paul in Macedonia and Greece|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after the uproar was ceased, Paul called unto [him] the disciples, and embraced [them], and departed for to go into Macedonia.
 <small><sub>**BSB:**</sub></small>
 When the uproar had ended, Paul sent for the disciples. And after encouraging them, he said goodbye to them and left for Macedonia.
-<small><sub>**Literal:**</sub></small>
-After now <the> ceasing the uproar having summoned [him] <the> Paul the disciples and having encouraged having said farewell he departed to go to <the> Macedonia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.41|<< Acts 19:41]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.2|Acts 20:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G3973\|παύσασθαι]]  [[G3588\|τὸν]]  [[G2351\|θόρυβον]]  [[G3343\|μεταπεμψάμενος]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G2532\|καὶ]]  [[G3870\|παρακαλέσας]]  [[G0782\|ἀσπασάμενος]]  [[G1831\|ἐξῆλθεν]]  [[G4198\|πορεύεσθαι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3109\|Μακεδονίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MACEDONIA|MACEDONIA]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.41|<< Acts 19:41]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.2|Acts 20:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

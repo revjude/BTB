@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 11:23
+type: Verse
+kjv: "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:"
+bsb: "For I received from the Lord what I also passed on to you: The Lord Jesus, on the night He was betrayed, took bread,"
+greek: "ἐγὼ γὰρ παρέλαβον ἀπὸ τοῦ κυρίου ὃ καὶ παρέδωκα ὑμῖν ὅτι ὁ κύριος Ἰησοῦς ἐν τῇ νυκτὶ ᾗ παρεδίδετο ἔλαβεν ἄρτον,"
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+strongs:
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G3880]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G3860]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G1722]]"
+- "[[G3571]]"
+- "[[G2983]]"
+- "[[G0740]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 11:23**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the [same] night in which he was betrayed took bread:
 <small><sub>**BSB:**</sub></small>
 For I received from the Lord what I also passed on to you: The Lord Jesus, on the night He was betrayed, took bread,
-<small><sub>**Literal:**</sub></small>
-I myself for received from the Lord that which also I delivered to you that the Lord Jesus in the night in which He was betrayed took bread,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.22|<< 1 Corinthians 11:22]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.24|1 Corinthians 11:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1063\|γὰρ]]  [[G3880\|παρέλαβον]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3739\|ὃ]]  [[G2532\|καὶ]]  [[G3860\|παρέδωκα]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G2424G\|Ἰησοῦς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3571\|νυκτὶ]]  [[G3739\|ᾗ]]  [[G3860\|παρεδίδετο]]  [[G2983\|ἔλαβεν]]  [[G0740\|ἄρτον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.22|<< 1 Corinthians 11:22]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.24|1 Corinthians 11:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

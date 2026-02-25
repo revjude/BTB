@@ -5,7 +5,7 @@
 
 - Invention of musical instruments and instruments of iron and  copper (A. V., brass) [[Gen.4.21|Ge 4:21]],[[Gen.4.22|22]]
 
-- Carpentry [[Gen.6.14|Ge 6:14]]-[[Gen.6.16|16]]; [[Exod.31.2|Ex 31:2]]-[[Exod.31.9|9]]
+- Carpentry [[Gen.6.14|Ge 6:14-16]]; [[Exod.31.2|Ex 31:2-9]]
 
 - Of the apothecary or perfumer [[Exod.30.25|Ex 30:25]],[[Exod.30.35|35]]
 
@@ -63,9 +63,9 @@
 
 - Tubal-cain [[Gen.4.22|Ge 4:22]]
 
-- Bezaleel and Aholiab [[Exod.31.2|Ex 31:2]]-[[Exod.31.14|14]]; [[Exod.35.30|35:30]]-[[Exod.35.35|35]]
+- Bezaleel and Aholiab [[Exod.31.2|Ex 31:2-14]]; [[Exod.35.30|35:30-35]]
 
-- Hiram [[1Kgs.7.13|1Ki 7:13]]-[[1Kgs.7.51|51]]; [[2Chr.2.13|2Ch 2:13]],[[2Chr.2.14|14]]
+- Hiram [[1Kgs.7.13|1Ki 7:13-51]]; [[2Chr.2.13|2Ch 2:13]],[[2Chr.2.14|14]]
 
 - For the various arts practised, and products manufactured, in ancient times
 

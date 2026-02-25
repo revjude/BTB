@@ -1,6 +1,42 @@
+---
+title: LXX Song of Solomon 8:3
+type: Verse
+lxx: "His left hand is under  my head, and  his right hand shall embrace me."
+greek: "ευώνυμος αυτού υπό την κεφαλήν μου και η δεξιά αυτού περιλήψεταί με"
+original_language: Greek
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- septuagint
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[G2176]]"
+- "[[G1473]]"
+- "[[G5259]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1188]]"
+- "[[G1473]]"
+- "[[G8736]]"
+- "[[G1473]]"
+---
+
 **LXX Song of Solomon 8:3** 
 <small><sub>**LXX:**</sub></small>
 His left \[hand is\] under  my head, and  his right \[hand\] shall embrace me. 
+<small><sub>**Greek:**</sub></small>
+[[G2176\|ευώνυμος]] [[G1473\|αυτού]] [[G5259\|υπό]] [[G3588\|την]] [[G2776\|κεφαλήν]] [[G1473\|μου]] [[G2532\|και]] [[G3588\|η]] [[G1188\|δεξιά]] [[G1473\|αυτού]] [[G8736\|περιλήψεταί]] [[G1473\|με]]
 <small><sub>**MT:**</sub></small>
 [[Song.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.2|<< Song of Solomon 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.4|Song of Solomon 8:4 >>]]</td></tr></table>
 
@@ -14,6 +50,6 @@ His left \[hand is\] under  my head, and  his right \[hand\] shall embrace me.
 | \<obj.> | **<big>[[G3588\|η]]</big>** |
 | his right \[hand\] | **<big>[[G1188\|δεξιά]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | shall embrace me. | **<big>[[G8736\|περιλήψεταί]]</big>** **<big>[[G1473\|με]]</big>** |
-[[Song.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.2|<< Song of Solomon 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.4|Song of Solomon 8:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.8.2|<< Song of Solomon 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.8.4|Song of Solomon 8:4 >>]]</td></tr></table>
 
 

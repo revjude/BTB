@@ -1,8 +1,59 @@
+---
+title: Numbers 10:6
+type: Verse
+kjv: "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys."
+bsb: "When you sound the short blasts a second time, the camps that lie on the south side are to set out. The blasts are to signal them to set out."
+hebrew: "וּתְקַעְתֶּ֤ם תְּרוּעָה֙ שֵׁנִ֔ית וְנָֽסְעוּ֙ הַֽמַּחֲנ֔וֹת הַחֹנִ֖ים תֵּימָ֑נָה תְּרוּעָ֥ה יִתְקְע֖וּ לְמַסְעֵיהֶֽם׃"
+pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H8643]]"
+- "[[H8145]]"
+- "[[H5265]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H2583]]"
+- "[[H8486]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H4550]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:6**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.
 <small><sub>**BSB:**</sub></small>
 When you sound the short blasts a second time, the camps that lie on the south side are to set out. The blasts are to signal them to set out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H8628\|תְקַעְתֶּ֤ם]] [[H8643\|תְּרוּעָה֙]] [[H8145\|שֵׁנִ֔ית]] [[H9001\|וְ]][[H5265\|נָֽסְעוּ֙]] [[H9009\|הַֽ]][[H4264\|מַּחֲנ֔וֹת]] [[H9009\|הַ]][[H2583\|חֹנִ֖ים]] [[H8486\|תֵּימָ֑נָ]][[H9011\|ה]] [[H8643\|תְּרוּעָ֥ה]] [[H8628\|יִתְקְע֖וּ]] [[H9005\|לְ]][[H4550\|מַסְעֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.5|<< Numbers 10:5]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.7|Numbers 10:7 >>]]</td></tr></table>
 

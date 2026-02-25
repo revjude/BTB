@@ -1,10 +1,64 @@
+---
+title: Acts 20:22
+type: Verse
+kjv: "And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:"
+bsb: "And now, compelled by the Spirit, I am going to Jerusalem, not knowing what will happen to me there."
+greek: "Καὶ νῦν ἰδοὺ δεδεμένος ἐγὼ τῷ πνεύματι πορεύομαι εἰς Ἰερουσαλὴμ τὰ ἐν αὐτῇ συναντήσοντά μοι μὴ εἰδώς,"
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G2400]]"
+- "[[G1210]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G4876]]"
+- "[[G3165]]"
+- "[[G3361]]"
+- "[[G6063]]"
+texts:
+- NKO
+---
+
 **Acts 20:22**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:
 <small><sub>**BSB:**</sub></small>
 And now, compelled by the Spirit, I am going to Jerusalem, not knowing what will happen to me there.
-<small><sub>**Literal:**</sub></small>
-And now behold bound I myself in the Spirit go to Jerusalem what in it will happen to me not knowing,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.21|<< Acts 20:21]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.23|Acts 20:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3568\|νῦν]]  [[G2400\|ἰδοὺ]]  [[G1210\|δεδεμένος]]  [[G1473\|ἐγὼ]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G4198\|πορεύομαι]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G3588\|τὰ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G4876\|συναντήσοντά]]  [[G3165\|μοι]]  [[G3361\|μὴ]]  [[G6063\|εἰδώς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COURAGE|COURAGE]] • [[topic EPHESUS|EPHESUS]] • [[topic JOY|JOY]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.21|<< Acts 20:21]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.23|Acts 20:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

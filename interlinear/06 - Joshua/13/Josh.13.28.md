@@ -1,8 +1,54 @@
+---
+title: Joshua 13:28
+type: Verse
+kjv: "This is the inheritance of the children of Gad after their families, the cities, and their villages."
+bsb: "This was the inheritance of the clans of the Gadites, including the cities and villages."
+hebrew: "זֹ֛את נַחֲלַ֥ת בְּנֵי־ גָ֖ד לְמִשְׁפְּחֹתָ֑ם הֶעָרִ֖ים וְחַצְרֵיהֶֽם׃"
+pericope: "[[Josh.13.24 Gad’s Inheritance|Gad’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+strongs:
+- "[[H2063]]"
+- "[[H5159]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1410G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H2691B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:28**<big><big>[[Josh.13.24 Gad’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the inheritance of the children of Gad after their families, the cities, and their villages.
 <small><sub>**BSB:**</sub></small>
 This was the inheritance of the clans of the Gadites, including the cities and villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֛את]] [[H5159\|נַחֲלַ֥ת]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H1410G\|גָ֖ד]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֑]][[H9028\|ם]] [[H9009\|הֶ]][[H5892B\|עָרִ֖ים]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic TOPOGRAPHY|TOPOGRAPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.27|<< Joshua 13:27]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.29|Joshua 13:29 >>]]</td></tr></table>
 

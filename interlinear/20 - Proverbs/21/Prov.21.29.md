@@ -1,8 +1,56 @@
+---
+title: Proverbs 21:29
+type: Verse
+kjv: "A wicked man hardeneth his face: but as for the upright, he directeth his way."
+bsb: "A wicked man hardens his face, but the upright man makes his way sure."
+hebrew: "הֵעֵ֬ז אִ֣ישׁ רָשָׁ֣ע בְּפָנָ֑יו וְ֝יָשָׁ֗ר ה֤וּא׀ יָבִ֬ין דַּרְכּֽוֹ׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H5810]]"
+- "[[H0376G]]"
+- "[[H7563]]"
+- "[[H9003]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H1931]]"
+- "[[H9015]]"
+- "[[H3559A]]"
+- "[[H0995]]"
+- "[[H1870G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 21:29**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A wicked man hardeneth his face: but [as for] the upright, he directeth his way.
 <small><sub>**BSB:**</sub></small>
 A wicked man hardens his face, but the upright man makes his way sure.
+<small><sub>**Hebrew:**</sub></small>
+[[H5810\|הֵעֵ֬ז]] [[H0376G\|אִ֣ישׁ]] [[H7563\|רָשָׁ֣ע]] [[H9003\|בְּ]][[H6440H\|פָנָ֑י]][[H9023\|ו]] [[H9002\|וְ֝]][[H3477G\|יָשָׁ֗ר]] [[H1931\|ה֤וּא]][[H9015\|׀]] [[H0995\|יָבִ֬ין]] [[H1870G\|דַּרְכּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.28|<< Proverbs 21:28]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.30|Proverbs 21:30 >>]]</td></tr></table>
 
@@ -20,7 +68,7 @@ A wicked man hardens his face, but the upright man makes his way sure.
 
 [^1]: he directs  | **<big>[[H3559A|יָכִין]]</big> ** | ya.khin<small><sup>[[HVhi3ms]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>יָכִ֬ין</big></span>**
-[^3]: ways his  | **<big>[[H9016|׃]]</big><big>[[H9023|ו]]</big><big>[[H1870G|דְּרָכָי]]</big> ** | de.ra.kha<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^4]: ways his  | **<big>[[H9016|׃]]</big><big>[[H9023|ו]]</big><big>[[H1870G|דְּרָכָי]]</big> ** | de.ra.kha<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: ways his  | **<big>[[H1870G|דְּרָכָי]]</big><big>[[H9023|ו]]</big><big>[[H9016|׃]]</big> ** | de.ra.kha<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: ways his  | **<big>[[H1870G|דְּרָכָי]]</big><big>[[H9023|ו]]</big><big>[[H9016|׃]]</big> ** | de.ra.kha<small><sup>[[HNcbpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^5]: L spelled: **<span class="ashebrew"><big>דַּרְכֹּֽיו\׃</big></span>**
 

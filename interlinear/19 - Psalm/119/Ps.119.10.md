@@ -1,8 +1,62 @@
+---
+title: Psalm 119:10
+type: Verse
+kjv: "With my whole heart have I sought thee: O let me not wander from thy commandments."
+bsb: "With all my heart I have sought You; do not let me stray from Your commandments."
+hebrew: "בְּכָל־ לִבִּ֥י דְרַשְׁתִּ֑יךָ אַל־ תַּ֝שְׁגֵּ֗נִי מִמִּצְוֹתֶֽיךָ׃"
+pericope: "[[Ps.119.9 Your Word Is a Lamp to My Feet - BETH|Your Word Is a Lamp to My Feet - BETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H1875]]"
+- "[[H9031]]"
+- "[[H0408]]"
+- "[[H7686]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:10**<big><big>[[Ps.119.9 Your Word Is a Lamp to My Feet - BETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With my whole heart have I sought thee: O let me not wander from thy commandments.
 <small><sub>**BSB:**</sub></small>
 With all my heart I have sought You; do not let me stray from Your commandments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3820A\|לִבִּ֥]][[H9020\|י]] [[H1875\|דְרַשְׁתִּ֑י]][[H9031\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H7686\|תַּ֝שְׁגֵּ֗]][[H9030\|נִי]] [[H9006\|מִ]][[H4687\|מִּצְוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic DESIRE|DESIRE]] • [[topic HEART|HEART]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.9|<< Psalms 119:9]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.11|Psalms 119:11 >>]]</td></tr></table>
 

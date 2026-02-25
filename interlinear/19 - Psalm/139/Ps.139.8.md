@@ -1,8 +1,57 @@
+---
+title: Psalm 139:8
+type: Verse
+kjv: "If I ascend up into heaven, thou art there: if I make my bed in hell, behold, thou art there."
+bsb: "If I ascend to the heavens, You are there; if I make my bed in Sheol, You are there."
+hebrew: "אִם־ אֶסַּ֣ק שָׁ֭מַיִם שָׁ֣ם אָ֑תָּה וְאַצִּ֖יעָה שְּׁא֣וֹל הִנֶּֽךָּ׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HELL|HELL]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5266]]"
+- "[[H8064]]"
+- "[[H8033G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3331]]"
+- "[[H7585]]"
+- "[[H2005]]"
+- "[[H9041]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:8**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I ascend up into heaven, thou [art] there: if I make my bed in hell, behold, thou [art there].
 <small><sub>**BSB:**</sub></small>
 If I ascend to the heavens, You are there; if I make my bed in Sheol, You are there.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5266\|אֶסַּ֣ק]] [[H8064\|שָׁ֭מַיִם]] [[H8033G\|שָׁ֣ם]] [[H0859A\|אָ֑תָּה]] [[H9002\|וְ]][[H3331\|אַצִּ֖יעָה]] [[H7585\|שְּׁא֣וֹל]] [[H2005\|הִנֶּֽ]][[H9041\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic HELL|HELL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.7|<< Psalms 139:7]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.9|Psalms 139:9 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Jeremiah 29:7
+type: Verse
+kjv: "And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall ye have peace."
+bsb: "Seek the prosperity of the city to which I have sent you as exiles. Pray to the LORD on its behalf, for if it prospers, you too will prosper.”"
+hebrew: "וְדִרְשׁ֞וּ אֶת־ שְׁל֣וֹם הָעִ֗יר אֲשֶׁ֨ר הִגְלֵ֤יתִי אֶתְכֶם֙ שָׁ֔מָּה וְהִתְפַּֽלְל֥וּ בַעֲדָ֖הּ אֶל־ יְהוָ֑ה כִּ֣י בִשְׁלוֹמָ֔הּ יִהְיֶ֥ה לָכֶ֖ם שָׁלֽוֹם׃ פ"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7965I]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H1540K]]"
+- "[[H9036]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H6419]]"
+- "[[H1157]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H9024]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 29:7**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall ye have peace.
 <small><sub>**BSB:**</sub></small>
 Seek the prosperity of the city to which I have sent you as exiles. Pray to the LORD on its behalf, for if it prospers, you too will prosper.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1875\|דִרְשׁ֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7965I\|שְׁל֣וֹם]] [[H9009\|הָ]][[H5892B\|עִ֗יר]] [[H0834A\|אֲשֶׁ֨ר]] [[H1540K\|הִגְלֵ֤יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H8033G\|שָׁ֔מָּ]][[H9011\|ה]] [[H9002\|וְ]][[H6419\|הִתְפַּֽלְל֥וּ]] [[H1157\|בַעֲדָ֖]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֣י]] [[H9003\|בִ]][[H7965I\|שְׁלוֹמָ֔]][[H9024\|הּ]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H7965I\|שָׁלֽוֹם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic PEACE|PEACE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.6|<< Jeremiah 29:6]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.8|Jeremiah 29:8 >>]]</td></tr></table>
 
@@ -24,7 +86,7 @@ Seek the prosperity of the city to which I have sent you as exiles. Pray to the 
 | in welfare its  |**<big>&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H7965I\|שְׁלוֹמָ֔]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| vi<small><sup>[[HR]]</sup></small> sh.lo.Ma<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it will belong  |**<big>&#8207;[[H1961\|יִהְיֶ֥ה]]&#8207; </big>**| yih.Yeh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| welfare  |**<big>&#8207;[[H7965I\|שָׁלֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| welfare  |**<big>&#8207;[[H7965I\|שָׁלֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Lom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.6|<< Jeremiah 29:6]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.8|Jeremiah 29:8 >>]]</td></tr></table>
 
 

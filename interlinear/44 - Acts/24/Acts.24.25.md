@@ -1,10 +1,71 @@
+---
+title: Acts 24:25
+type: Verse
+kjv: "And as he reasoned of righteousness, temperance, and judgment to come, Felix trembled, and answered, Go thy way for this time; when I have a convenient season, I will call for thee."
+bsb: "As Paul expounded on righteousness, self-control, and the coming judgment, Felix became frightened and said, “You may go for now. When I find the time, I will call for you.”"
+greek: "διαλεγομένου δὲ αὐτοῦ περὶ δικαιοσύνης καὶ ἐγκρατείας καὶ τοῦ κρίματος τοῦ μέλλοντος ἔσεσθαι ἔμφοβος γενόμενος ὁ Φῆλιξ ἀπεκρίθη· τὸ νῦν ἔχον πορεύου· καιρὸν δὲ μεταλαβὼν μετακαλέσομαί σε·"
+pericope: "[[Acts.24.22 The Verdict Postponed|The Verdict Postponed]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic INDECISION|INDECISION]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1256]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G4012]]"
+- "[[G1343]]"
+- "[[G2532]]"
+- "[[G1466]]"
+- "[[G3588]]"
+- "[[G2917]]"
+- "[[G3195]]"
+- "[[G1510]]"
+- "[[G1719]]"
+- "[[G1096]]"
+- "[[G5344]]"
+- "[[G0611]]"
+- "[[G3568]]"
+- "[[G2192]]"
+- "[[G4198]]"
+- "[[G2540]]"
+- "[[G3335]]"
+- "[[G3333]]"
+- "[[G4771]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 24:25**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as he reasoned of righteousness, temperance, and judgment to come, Felix trembled, and answered, Go thy way for this time; when I have a convenient season, I will call for thee.
 <small><sub>**BSB:**</sub></small>
 As Paul expounded on righteousness, self-control, and the coming judgment, Felix became frightened and said, “You may go for now. When I find the time, I will call for you.”
-<small><sub>**Literal:**</sub></small>
-When reasoning then he concerning righteousness and self-control and the judgment which is coming to be  [in the future] frightened having become <the> Felix answered; For the present being do go away; opportunity then having found I will call for you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.24|<< Acts 24:24]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.26|Acts 24:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1256\|διαλεγομένου]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G4012\|περὶ]]  [[G1343\|δικαιοσύνης]]  [[G2532\|καὶ]]  [[G1466\|ἐγκρατείας]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G2917\|κρίματος]]  [[G3588\|τοῦ]]  [[G3195\|μέλλοντος]]  [[G1510\|ἔσεσθαι]]  [[G1719\|ἔμφοβος]]  [[G1096\|γενόμενος]]  [[G3588\|ὁ]]  [[G5344\|Φῆλιξ]]  [[G0611\|ἀπεκρίθη·]]  [[G3588\|τὸ]]  [[G3568\|νῦν]]  [[G2192\|ἔχον]]  [[G4198\|πορεύου·]]  [[G2540\|καιρὸν]]  [[G1161\|δὲ]]  [[G3335\|μεταλαβὼν]]  [[G3333\|μετακαλέσομαί]]  [[G4771\|σε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic COURAGE|COURAGE]] • [[topic EXCUSES|EXCUSES]] • [[topic FELIX|FELIX]] • [[topic INDECISION|INDECISION]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REASONING|REASONING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.24|<< Acts 24:24]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.26|Acts 24:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

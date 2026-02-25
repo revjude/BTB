@@ -1,8 +1,71 @@
+---
+title: Daniel 1:13
+type: Verse
+kjv: "Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king’s meat: and as thou seest, deal with thy servants."
+bsb: "Then compare our appearances with those of the young men who are eating the royal food, and deal with your servants according to what you see.”"
+hebrew: "וְיֵרָא֤וּ לְפָנֶ֙יךָ֙ מַרְאֵ֔ינוּ וּמַרְאֵה֙ הַיְלָדִ֔ים הָאֹ֣כְלִ֔ים אֵ֖ת פַּתְבַּ֣ג הַמֶּ֑לֶךְ וְכַאֲשֶׁ֣ר תִּרְאֵ֔ה עֲשֵׂ֖ה עִם־ עֲבָדֶֽיךָ׃"
+pericope: "[[Dan.1.8 Daniel’s Faithfulness|Daniel’s Faithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]]"
+- "[[topic APPETITE|APPETITE]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MELZAR|MELZAR]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9005]]"
+- "[[H6440L]]"
+- "[[H9021]]"
+- "[[H4758]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H6598]]"
+- "[[H4428G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:13**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king’s meat: and as thou seest, deal with thy servants.
 <small><sub>**BSB:**</sub></small>
 Then compare our appearances with those of the young men who are eating the royal food, and deal with your servants according to what you see.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7200G\|יֵרָא֤וּ]] [[H9005\|לְ]][[H6440L\|פָנֶ֙י]][[H9021\|ךָ֙]] [[H4758\|מַרְאֵ֔י]][[H9025\|נוּ]] [[H9002\|וּ]][[H4758\|מַרְאֵה֙]] [[H9009\|הַ]][[H3206\|יְלָדִ֔ים]] [[H9009\|הָ]][[H0398\|אֹ֣כְלִ֔ים]] [[H0853\|אֵ֖ת]] [[H6598\|פַּתְבַּ֣ג]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H9004\|כַ]][[H0834D\|אֲשֶׁ֣ר]] [[H7200G\|תִּרְאֵ֔ה]] [[H6213A\|עֲשֵׂ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H5650\|עֲבָדֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]] • [[topic APPETITE|APPETITE]] • [[topic DANIEL|DANIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MELZAR|MELZAR]] • [[topic MISHAEL|MISHAEL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SCHOOL|SCHOOL]] • [[topic TEMPERANCE|TEMPERANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.12|<< Daniel 1:12]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.14|Daniel 1:14 >>]]</td></tr></table>
 

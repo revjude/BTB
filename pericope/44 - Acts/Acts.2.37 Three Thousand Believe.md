@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Three Thousand Believe
+type: Pericope
 pericope: "[[Acts.2.37 Three Thousand Believe|Three Thousand Believe]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 2
 book/chapter: "[[Acts.2|Acts 2]]"
-genre:
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.2.37]]"
 - "[[Acts.2.38]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.2.41]]"
 ---
 
-[[Acts.2|Acts 2:37 - Acts 2:41]]
+<small>[[Acts.2|Acts 2:37-41]]</small>
 *Three Thousand Believe*
 
 [[Acts.2.37|37]] Now when they heard \[this\], they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men \[and\] brethren, what shall we do?

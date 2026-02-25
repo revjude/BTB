@@ -1,10 +1,66 @@
+---
+title: 2 Peter 2:22
+type: Verse
+kjv: "But it is happened unto them according to the true proverb, The dog is turned to his own vomit again; and the sow that was washed to her wallowing in the mire."
+bsb: "Of them the proverbs are true: “A dog returns to its vomit,” and, “A sow that is washed goes back to her wallowing in the mud.”"
+greek: "συμβέβηκεν δὲ αὐτοῖς τὸ τῆς ἀληθοῦς παροιμίας· κύων ἐπιστρέψας ἐπὶ τὸ ἴδιον ἐξέραμα· καὶ ὗς λουσαμένη εἰς κυλισμὸν βορβόρου.¶"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic DOG|DOG]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SWINE|SWINE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4819]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0227]]"
+- "[[G3942]]"
+- "[[G2965]]"
+- "[[G1994]]"
+- "[[G1909]]"
+- "[[G2398]]"
+- "[[G1829]]"
+- "[[G2532]]"
+- "[[G5300]]"
+- "[[G3068]]"
+- "[[G1519]]"
+- "[[G2946]]"
+- "[[G1004]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **2 Peter 2:22**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But it is happened unto them according to the true proverb, The dog [is] turned to his own vomit again; and the sow that was washed to her wallowing in the mire.
 <small><sub>**BSB:**</sub></small>
 Of them the proverbs are true: “A dog returns to its vomit,” and, “A sow that is washed goes back to her wallowing in the mud.”
-<small><sub>**Literal:**</sub></small>
-Has happened now to them the [thing] of the true proverb: A dog having returned to <the> [its] own vomit; and A sow having washed to [her] rolling place in [the] mire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.21|<< 2 Peter 2:21]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.1|2 Peter 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4819\|συμβέβηκεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸ]]  [[G3588\|τῆς]]  [[G0227\|ἀληθοῦς]]  [[G3942\|παροιμίας·]]  [[G2965\|κύων]]  [[G1994\|ἐπιστρέψας]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G2398\|ἴδιον]]  [[G1829\|ἐξέραμα·]]  [[G2532\|καὶ]]  [[G5300\|ὗς]]  [[G3068\|λουσαμένη]]  [[G1519\|εἰς]]  [[G2946\|κυλισμὸν]]  [[G1004\|βορβόρου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic DOCTRINES|DOCTRINES]] • [[topic DOG|DOG]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]] • [[topic SWINE|SWINE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.21|<< 2 Peter 2:21]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.1|2 Peter 3:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Peter 2:22** is...
 > $\quad$ referencing: [[LXX.Prov.26.11|Prov 26:11]]

@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 8:16
+type: Verse
+kjv: "But thanks be to God, which put the same earnest care into the heart of Titus for you."
+bsb: "But thanks be to God, who put into the heart of Titus the same devotion I have for you."
+greek: "Χάρις δὲ τῷ θεῷ τῷ δόντι τὴν αὐτὴν σπουδὴν ὑπὲρ ὑμῶν ἐν τῇ καρδίᾳ Τίτου,"
+pericope: "[[2Cor.8.16 Titus Commended|Titus Commended]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 8
+book/chapter: "[[2Cor.8|2 Corinthians 8]]"
+chronological_order: 1081
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TITUS|TITUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5485]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4710]]"
+- "[[G5228]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G5103]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 8:16**<big><big>[[2Cor.8.16 Titus Commended|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But thanks [be] to God, which put the same earnest care into the heart of Titus for you.
 <small><sub>**BSB:**</sub></small>
 But thanks be to God, who put into the heart of Titus the same devotion I have for you.
-<small><sub>**Literal:**</sub></small>
-Thanks however <the> to God the [One] gave the same earnestness for you into the heart of Titus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.15|<< 2 Corinthians 8:15]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.17|2 Corinthians 8:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5485\|Χάρις]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3588\|τῷ]]  [[G1325\|δόντι]]  [[G3588\|τὴν]]  [[G0846\|αὐτὴν]]  [[G4710\|σπουδὴν]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G5103\|Τίτου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORINTH|CORINTH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TITUS|TITUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.8.15|<< 2 Corinthians 8:15]]</td><td align="center" style="border:none;">[[2Cor.8|2 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.8.17|2 Corinthians 8:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

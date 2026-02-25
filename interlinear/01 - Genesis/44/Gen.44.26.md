@@ -1,8 +1,68 @@
+---
+title: Genesis 44:26
+type: Verse
+kjv: "And we said, We cannot go down: if our youngest brother be with us, then will we go down: for we may not see the man’s face, except our youngest brother be with us."
+bsb: "But we answered, ‘We cannot go down there unless our younger brother goes with us. So if our younger brother is not with us, we cannot see the man.’"
+hebrew: "וַנֹּ֕אמֶר לֹ֥א נוּכַ֖ל לָרֶ֑דֶת אִם־ יֵשׁ֩ אָחִ֨ינוּ הַקָּטֹ֤ן אִתָּ֙נוּ֙ וְיָרַ֔דְנוּ כִּי־ לֹ֣א נוּכַ֗ל לִרְאוֹת֙ פְּנֵ֣י הָאִ֔ישׁ וְאָחִ֥ינוּ הַקָּטֹ֖ן אֵינֶ֥נּוּ אִתָּֽנוּ׃"
+pericope: "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H3381]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H0251G]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H6996H]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H6440H]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:26**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we said, We cannot go down: if our youngest brother be with us, then will we go down: for we may not see the man’s face, except our youngest brother [be] with us.
 <small><sub>**BSB:**</sub></small>
 But we answered, ‘We cannot go down there unless our younger brother goes with us. So if our younger brother is not with us, we cannot see the man.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|נֹּ֕אמֶר]] [[H3808\|לֹ֥א]] [[H3201\|נוּכַ֖ל]] [[H9005\|לָ]][[H3381\|רֶ֑דֶת]] [[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֵשׁ֩]] [[H0251G\|אָחִ֨י]][[H9025\|נוּ]] [[H9009\|הַ]][[H6996H\|קָּטֹ֤ן]] [[H0854\|אִתָּ֙]][[H9035\|נוּ֙]] [[H9001\|וְ]][[H3381\|יָרַ֔דְנוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H3201\|נוּכַ֗ל]] [[H9005\|לִ]][[H7200G\|רְאוֹת֙]] [[H6440H\|פְּנֵ֣י]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H9002\|וְ]][[H0251G\|אָחִ֥י]][[H9025\|נוּ]] [[H9009\|הַ]][[H6996H\|קָּטֹ֖ן]] [[H0369\|אֵינֶ֥]][[H9043\|נּוּ]] [[H0854\|אִתָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JUDAH|JUDAH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.25|<< Genesis 44:25]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.27|Genesis 44:27 >>]]</td></tr></table>
 

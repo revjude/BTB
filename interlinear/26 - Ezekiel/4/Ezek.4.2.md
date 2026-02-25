@@ -1,8 +1,64 @@
+---
+title: Ezekiel 4:2
+type: Verse
+kjv: "And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set battering rams against it round about."
+bsb: "Then lay siege against it: Construct a siege wall, build a ramp to it, set up camps against it, and place battering rams around it on all sides."
+hebrew: "וְנָתַתָּ֨ה עָלֶ֜יהָ מָצ֗וֹר וּבָנִ֤יתָ עָלֶ֙יהָ֙ דָּיֵ֔ק וְשָׁפַכְתָּ֥ עָלֶ֖יהָ סֹֽלְלָ֑ה וְנָתַתָּ֨ה עָלֶ֧יהָ מַחֲנ֛וֹת וְשִׂים־ עָלֶ֥יהָ כָּרִ֖ים סָבִֽיב׃"
+pericope: "[[Ezek.4.1 A Sign of Jerusalem’s Siege|A Sign of Jerusalem’s Siege]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BATTERING-RAM|BATTERING-RAM]]"
+- "[[topic FORT|FORT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H4692]]"
+- "[[H1129]]"
+- "[[H1785]]"
+- "[[H8210I]]"
+- "[[H5550]]"
+- "[[H4264]]"
+- "[[H9002]]"
+- "[[H7760H]]"
+- "[[H9014]]"
+- "[[H3733C]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 4:2**<big><big>[[Ezek.4.1 A Sign of Jerusalem’s Siege|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And lay siege against it, and build a fort against it, and cast a mount against it; set the camp also against it, and set [battering] rams against it round about.
 <small><sub>**BSB:**</sub></small>
 Then lay siege against it: Construct a siege wall, build a ramp to it, set up camps against it, and place battering rams around it on all sides.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֨ה]] [[H5921A\|עָלֶ֜י]][[H9034\|הָ]] [[H4692\|מָצ֗וֹר]] [[H9001\|וּ]][[H1129\|בָנִ֤יתָ]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H1785\|דָּיֵ֔ק]] [[H9001\|וְ]][[H8210I\|שָׁפַכְתָּ֥]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H5550\|סֹֽלְלָ֑ה]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֨ה]] [[H5921A\|עָלֶ֧י]][[H9034\|הָ]] [[H4264\|מַחֲנ֛וֹת]] [[H9002\|וְ]][[H7760H\|שִׂים]][[H9014\|־]] [[H5921A\|עָלֶ֥י]][[H9034\|הָ]] [[H3733C\|כָּרִ֖ים]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BATTERING-RAM|BATTERING-RAM]] • [[topic FORT|FORT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PANTOMIME|PANTOMIME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.1|<< Ezekiel 4:1]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.3|Ezekiel 4:3 >>]]</td></tr></table>
 

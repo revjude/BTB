@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ten Commandments
+type: Pericope
 pericope: "[[Exod.20.1 The Ten Commandments|The Ten Commandments]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 20
 book/chapter: "[[Exod.20|Exodus 20]]"
-genre:
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 17
 verses:
 - "[[Exod.20.1]]"
 - "[[Exod.20.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Exod.20.17]]"
 ---
 
-[[Exod.20|Exodus 20:1 - Exodus 20:17]]
+<small>[[Exod.20|Exodus 20:1-17]]</small>
 *The Ten Commandments*
 
 [[Exod.20.1|1]] And God spake all these words, saying,

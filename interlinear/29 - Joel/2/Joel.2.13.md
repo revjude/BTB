@@ -1,8 +1,70 @@
+---
+title: Joel 2:13
+type: Verse
+kjv: "And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil."
+bsb: "So rend your hearts and not your garments, and return to the LORD your God. For He is gracious and compassionate, slow to anger, abounding in loving devotion. And He relents from sending disaster."
+hebrew: "וְקִרְע֤וּ לְבַבְכֶם֙ וְאַל־ בִּגְדֵיכֶ֔ם וְשׁ֖וּבוּ אֶל־ יְהוָ֣ה אֱלֹֽהֵיכֶ֑ם כִּֽי־ חַנּ֤וּן וְרַחוּם֙ ה֔וּא אֶ֤רֶךְ אַפַּ֙יִם֙ וְרַב־ חֶ֔סֶד וְנִחָ֖ם עַל־ הָרָעָֽה׃"
+pericope: "[[Joel.2.12 Return with All Your Heart|Return with All Your Heart]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H7167]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H2587]]"
+- "[[H7349]]"
+- "[[H1931]]"
+- "[[H0750]]"
+- "[[H0639G]]"
+- "[[H7227A]]"
+- "[[H2617A]]"
+- "[[H5162H]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:13**<big><big>[[Joel.2.12 Return with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And rend your heart, and not your garments, and turn unto the LORD your God: for he [is] gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.
 <small><sub>**BSB:**</sub></small>
 So rend your hearts and not your garments, and return to the LORD your God. For He is gracious and compassionate, slow to anger, abounding in loving devotion. And He relents from sending disaster.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7167\|קִרְע֤וּ]] [[H3824\|לְבַבְ]][[H9026\|כֶם֙]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H0899B\|בִּגְדֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H7725G\|שׁ֖וּבוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2587\|חַנּ֤וּן]] [[H9002\|וְ]][[H7349\|רַחוּם֙]] [[H1931\|ה֔וּא]] [[H0750\|אֶ֤רֶךְ]] [[H0639G\|אַפַּ֙יִם֙]] [[H9002\|וְ]][[H7227A\|רַב]][[H9014\|־]] [[H2617A\|חֶ֔סֶד]] [[H9002\|וְ]][[H5162H\|נִחָ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RENDING|RENDING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.12|<< Joel 2:12]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.14|Joel 2:14 >>]]</td></tr></table>
 

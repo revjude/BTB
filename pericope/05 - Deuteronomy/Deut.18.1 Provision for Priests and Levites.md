@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Provision for Priests and Levites
+type: Pericope
 pericope: "[[Deut.18.1 Provision for Priests and Levites|Provision for Priests and Levites]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 18
 book/chapter: "[[Deut.18|Deuteronomy 18]]"
-genre:
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.18.1]]"
 - "[[Deut.18.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.18.8]]"
 ---
 
-[[Deut.18|Deuteronomy 18:1 - Deuteronomy 18:8]]
+<small>[[Deut.18|Deuteronomy 18:1-8]]</small>
 *Provision for Priests and Levites*
 
 [[Deut.18.1|1]] The priests the Levites, \[and\] all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance.

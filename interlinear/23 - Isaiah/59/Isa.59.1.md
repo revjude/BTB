@@ -1,8 +1,57 @@
+---
+title: Isaiah 59:1
+type: Verse
+kjv: "Behold, the LORD’S hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:"
+bsb: "Surely the arm of the LORD is not too short to save, nor His ear too dull to hear."
+hebrew: "הֵ֛ן לֹֽא־ קָצְרָ֥ה יַד־ יְהוָ֖ה מֵֽהוֹשִׁ֑יעַ וְלֹא־ כָבְדָ֥ה אָזְנ֖וֹ מִשְּׁמֽוֹעַ׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HAND|HAND]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2005]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7114A]]"
+- "[[H3027H]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H3467]]"
+- "[[H9002]]"
+- "[[H3513J]]"
+- "[[H0241G]]"
+- "[[H9023]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:1**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the LORD’S hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:
 <small><sub>**BSB:**</sub></small>
 Surely the arm of the LORD is not too short to save, nor His ear too dull to hear.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֛ן]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7114A\|קָצְרָ֥ה]] [[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מֵֽ]][[H3467\|הוֹשִׁ֑יעַ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3513J\|כָבְדָ֥ה]] [[H0241G\|אָזְנ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H8085G\|שְּׁמֽוֹעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HAND|HAND]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.14|<< Isaiah 58:14]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.2|Isaiah 59:2 >>]]</td></tr></table>
 

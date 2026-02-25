@@ -1,8 +1,62 @@
+---
+title: Genesis 32:13
+type: Verse
+kjv: "And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;"
+bsb: "Jacob spent the night there, and from what he had brought with him, he selected a gift for his brother Esau:"
+hebrew: "וַיָּ֥לֶן שָׁ֖ם בַּלַּ֣יְלָה הַה֑וּא וַיִּקַּ֞ח מִן־ הַבָּ֧א בְיָד֛וֹ מִנְחָ֖ה לְעֵשָׂ֥ו אָחִֽיו׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3885A]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3947G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H3027K]]"
+- "[[H9023]]"
+- "[[H4503H]]"
+- "[[H9005]]"
+- "[[H6215G]]"
+- "[[H0251G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:13**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;
 <small><sub>**BSB:**</sub></small>
 Jacob spent the night there, and from what he had brought with him, he selected a gift for his brother Esau:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3885A\|יָּ֥לֶן]] [[H8033G\|שָׁ֖ם]] [[H9003\|בַּ]][[H3915\|לַּ֣יְלָה]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H9001\|וַ]][[H3947G\|יִּקַּ֞ח]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0935P\|בָּ֧א]] [[H9003\|בְ]][[H3027K\|יָד֛]][[H9023\|וֹ]] [[H4503H\|מִנְחָ֖ה]] [[H9005\|לְ]][[H6215G\|עֵשָׂ֥ו]] [[H0251G\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.12|<< Genesis 32:12]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.14|Genesis 32:14 >>]]</td></tr></table>
 

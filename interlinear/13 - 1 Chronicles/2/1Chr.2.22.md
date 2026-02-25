@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 2:22
+type: Verse
+kjv: "And Segub begat Jair, who had three and twenty cities in the land of Gilead."
+bsb: "Segub was the father of Jair, who had twenty-three cities in the land of Gilead."
+hebrew: "וּשְׂג֖וּב הוֹלִ֣יד אֶת־ יָאִ֑יר וַֽיְהִי־ ל֗וֹ עֶשְׂרִ֤ים וְשָׁלוֹשׁ֙ עָרִ֔ים בְּאֶ֖רֶץ הַגִּלְעָֽד׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JAIR|JAIR]]"
+- "[[topic SEGUB|SEGUB]]"
+strongs:
+- "[[H9002]]"
+- "[[H7687H]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2971G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6242]]"
+- "[[H7969]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:22**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Segub begat Jair, who had three and twenty cities in the land of Gilead.
 <small><sub>**BSB:**</sub></small>
 Segub was the father of Jair, who had twenty-three cities in the land of Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7687H\|שְׂג֖וּב]] [[H3205\|הוֹלִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H2971G\|יָאִ֑יר]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וְ]][[H7969\|שָׁלוֹשׁ֙]] [[H5892B\|עָרִ֔ים]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H9009\|הַ]][[H1568G\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAIR|JAIR]] • [[topic SEGUB|SEGUB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.21|<< 1 Chronicles 2:21]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.23|1 Chronicles 2:23 >>]]</td></tr></table>
 

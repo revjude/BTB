@@ -1,6 +1,52 @@
+---
+title: LXX Psalm 88:3
+type: Verse
+lxx: "For my soul is filled of bad things, and  my life  approached Hades."
+greek: "ότι επλήσθη κακών η ψυχή μου και η ζωή μου τω άδη ήγγισε"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HELL|HELL]]"
+strongs:
+- "[[G3754]]"
+- "[[G4130]]"
+- "[[G2556]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2222]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0086]]"
+- "[[G1448]]"
+---
+
 **LXX Psalm 88:3** 
 <small><sub>**LXX:**</sub></small>
 For my soul is filled of bad \[things\], and  my life  approached Hades. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G4130\|επλήσθη]] [[G2556\|κακών]] [[G3588\|η]] [[G5590\|ψυχή]] [[G1473\|μου]] [[G2532\|και]] [[G3588\|η]] [[G2222\|ζωή]] [[G1473\|μου]] [[G3588\|τω]] [[G0086\|άδη]] [[G1448\|ήγγισε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HELL|HELL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.88.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.2|<< Psalm 88:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.4|Psalm 88:4 >>]]</td></tr></table>
 
@@ -17,6 +63,6 @@ For my soul is filled of bad \[things\], and  my life  approached Hades.
 | \<obj.> | **<big>[[G3588\|τω]]</big>** |
 | Hades | **<big>[[G0086\|άδη]]</big>** |
 | approached | **<big>[[G1448\|ήγγισε]]</big>** |
-[[Ps.88.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.2|<< Psalm 88:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.4|Psalm 88:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.88.2|<< Psalm 88:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.88.4|Psalm 88:4 >>]]</td></tr></table>
 
 

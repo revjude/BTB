@@ -1,8 +1,66 @@
+---
+title: Ezekiel 32:32
+type: Verse
+kjv: "For I have caused my terror in the land of the living: and he shall be laid in the midst of the uncircumcised with them that are slain with the sword, even Pharaoh and all his multitude, saith the Lord GOD."
+bsb: "For I will spread My terror in the land of the living, so that Pharaoh and all his multitude will be laid to rest among the uncircumcised, with those slain by the sword, declares the Lord GOD.”"
+hebrew: "כִּֽי־ נָתַ֥תִּי אֶת־ חִתִּיתִ֖י בְּאֶ֣רֶץ חַיִּ֑ים וְהֻשְׁכַּב֩ בְּת֨וֹךְ עֲרֵלִ֜ים אֶת־ חַלְלֵי־ חֶ֗רֶב פַּרְעֹה֙ וְכָל־ הֲמונ֔וֹ נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H2851]]"
+- "[[H9023]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2416A]]"
+- "[[H9001]]"
+- "[[H7901J]]"
+- "[[H8432]]"
+- "[[H6189]]"
+- "[[H0854]]"
+- "[[H2491A]]"
+- "[[H2719]]"
+- "[[H6547R]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1995A]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 32:32**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have caused my terror in the land of the living: and he shall be laid in the midst of the uncircumcised with [them that are] slain with the sword, [even] Pharaoh and all his multitude, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 For I will spread My terror in the land of the living, so that Pharaoh and all his multitude will be laid to rest among the uncircumcised, with those slain by the sword, declares the Lord GOD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתַ֥תִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H2851\|חִתִּיתִ֖]][[H9020\|י]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H2416A\|חַיִּ֑ים]] [[H9001\|וְ]][[H7901J\|הֻשְׁכַּב֩]] [[H9003\|בְּ]][[H8432\|ת֨וֹךְ]] [[H6189\|עֲרֵלִ֜ים]] [[H0854\|אֶת]][[H9014\|־]] [[H2491A\|חַלְלֵי]][[H9014\|־]] [[H2719\|חֶ֗רֶב]] [[H6547R\|פַּרְעֹה֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1995A\|הֲמונ֔]][[H9023\|וֹ]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.31|<< Ezekiel 32:31]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.1|Ezekiel 33:1 >>]]</td></tr></table>
 
@@ -25,13 +83,13 @@ For I will spread My terror in the land of the living, so that Pharaoh and all h
 | multitude his  [^5]|**<big>&#8207;[[H1995A\|הֲמונ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**[^6] | ha.mo.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.31|<< Ezekiel 32:31]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.1|Ezekiel 33:1 >>]]</td></tr></table>
 
-[^1]: terror his  | **<big>[[H9023|וֹ]]</big><big>[[H2851|חִתִּית]]</big> ** | chi.ti.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: terror his  | **<big>[[H9023|וֹ]]</big><big>[[H2851|חִתִּית]]</big> ** | chi.ti.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: terror his  | **<big>[[H2851|חִתִּית]]</big><big>[[H9023|וֹ]]</big> ** | chi.ti.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: terror his  | **<big>[[H2851|חִתִּית]]</big><big>[[H9023|וֹ]]</big> ** | chi.ti.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>חִתִּיתִ֖ו</big></span>**
-[^4]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^5]: multitude his  | **<big>[[H9023|ה]]</big><big>[[H1995A|הֲמוֹנֹ֔]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: multitude his  | **<big>[[H1995A|הֲמוֹנֹ֔]]</big><big>[[H9023|ה]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: multitude his  | **<big>[[H1995A|הֲמוֹנֹ֔]]</big><big>[[H9023|ה]]</big> ** | ha.mo.No<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^6]: L spelled: **<span class="ashebrew"><big>הֲמוֹנֹ֔ה</big></span>**
 

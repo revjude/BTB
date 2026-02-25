@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning against Idolatry
+type: Pericope
 pericope: "[[Deut.12.29 A Warning against Idolatry|A Warning against Idolatry]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 12
 book/chapter: "[[Deut.12|Deuteronomy 12]]"
-genre:
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 4
 verses:
 - "[[Deut.12.29]]"
 - "[[Deut.12.30]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Deut.12.32]]"
 ---
 
-[[Deut.12|Deuteronomy 12:29 - Deuteronomy 12:32]]
+<small>[[Deut.12|Deuteronomy 12:29-32]]</small>
 *A Warning against Idolatry*
 
 [[Deut.12.29|29]] When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;

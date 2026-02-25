@@ -1,8 +1,52 @@
+---
+title: Psalm 71:21
+type: Verse
+kjv: "Thou shalt increase my greatness, and comfort me on every side."
+bsb: "You will increase my honor and comfort me once again."
+hebrew: "תֶּ֤רֶב׀ גְּֽדֻלָּתִ֗י וְתִסֹּ֥ב תְּֽנַחֲמֵֽנִי׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H7235A]]"
+- "[[H9015]]"
+- "[[H1420]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5437I]]"
+- "[[H5162G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:21**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt increase my greatness, and comfort me on every side.
 <small><sub>**BSB:**</sub></small>
 You will increase my honor and comfort me once again.
+<small><sub>**Hebrew:**</sub></small>
+[[H7235A\|תֶּ֤רֶב]][[H9015\|׀]] [[H1420\|גְּֽדֻלָּתִ֗]][[H9020\|י]] [[H9002\|וְ]][[H5437I\|תִסֹּ֥ב]] [[H5162G\|תְּֽנַחֲמֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.20|<< Psalms 71:20]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.22|Psalms 71:22 >>]]</td></tr></table>
 

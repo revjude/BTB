@@ -1,7 +1,7 @@
 
 **SERPENT**
 
-→ Satan appears to Eve in the form of [[Gen.3.1|Ge 3:1]]-[[Gen.3.15|15]]; [[2Cor.11.3|2Co  11:3]]
+→ Satan appears to Eve in the form of [[Gen.3.1|Ge 3:1-15]]; [[2Cor.11.3|2Co  11:3]]
 
 → Subtlety of [[Gen.3.1|Ge 3:1]]; [[Eccl.10.8|Ec 10:8]]; [[Matt.10.16|Mt 10:16]]
 

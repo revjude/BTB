@@ -1,8 +1,57 @@
+---
+title: Psalm 48:11
+type: Verse
+kjv: "Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments."
+bsb: "Mount Zion is glad, the daughters of Judah rejoice, on account of Your judgments."
+hebrew: "יִשְׂמַ֤ח׀ הַר־ צִיּ֗וֹן תָּ֭גֵלְנָה בְּנ֣וֹת יְהוּדָ֑ה לְ֝מַ֗עַן מִשְׁפָּטֶֽיךָ׃"
+pericope: "[[Ps.48.1 Broken Bondage|Broken Bondage]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 48
+book/chapter: "[[Ps.48|Psalm 48]]"
+chronological_order: 503
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H8055]]"
+- "[[H9015]]"
+- "[[H2022G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H1523]]"
+- "[[H1323G]]"
+- "[[H3063G]]"
+- "[[H4616]]"
+- "[[H4941G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 48:11**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let mount Zion rejoice, let the daughters of Judah be glad, because of thy judgments.
 <small><sub>**BSB:**</sub></small>
 Mount Zion is glad, the daughters of Judah rejoice, on account of Your judgments.
+<small><sub>**Hebrew:**</sub></small>
+[[H8055\|יִשְׂמַ֤ח]][[H9015\|׀]] [[H2022G\|הַר]][[H9014\|־]] [[H6726\|צִיּ֗וֹן]] [[H1523\|תָּ֭גֵלְנָה]] [[H1323G\|בְּנ֣וֹת]] [[H3063G\|יְהוּדָ֑ה]] [[H4616\|לְ֝מַ֗עַן]] [[H4941G\|מִשְׁפָּטֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.10|<< Psalms 48:10]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.12|Psalms 48:12 >>]]</td></tr></table>
 

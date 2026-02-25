@@ -1,10 +1,53 @@
+---
+title: Mark 15:30
+type: Verse
+kjv: "Save thyself, and come down from the cross."
+bsb: "come down from the cross and save Yourself!”"
+greek: "σῶσον σεαυτὸν καὶ καταβὰς ἀπὸ τοῦ σταυροῦ."
+pericope: "[[Mark.15.21 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G4982]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4716]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 15:30**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Save thyself, and come down from the cross.
 <small><sub>**BSB:**</sub></small>
 come down from the cross and save Yourself!”
-<small><sub>**Literal:**</sub></small>
-do save Yourself and descending from the cross!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.29|<< Mark 15:29]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.31|Mark 15:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4982\|σῶσον]]  [[G4771\|σεαυτὸν]]  [[G2532\|καὶ]]  [[G2597\|καταβὰς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4716\|σταυροῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOCKING|MOCKING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.29|<< Mark 15:29]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.31|Mark 15:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

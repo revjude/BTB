@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 17:10
+type: Verse
+kjv: "And thou shalt do according to the sentence, which they of that place which the LORD shall choose shall shew thee; and thou shalt observe to do according to all that they inform thee:"
+bsb: "You must abide by the verdict they give you at the place the LORD will choose. Be careful to do everything they instruct you,"
+hebrew: "וְעָשִׂ֗יתָ עַל־ פִּ֤י הַדָּבָר֙ אֲשֶׁ֣ר יַגִּ֣ידֽוּ לְךָ֔ מִן־ הַמָּק֣וֹם הַה֔וּא אֲשֶׁ֖ר יִבְחַ֣ר יְהוָ֑ה וְשָׁמַרְתָּ֣ לַעֲשׂ֔וֹת כְּכֹ֖ל אֲשֶׁ֥ר יוֹרֽוּךָ׃"
+pericope: "[[Deut.17.8 Courts of Law|Courts of Law]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H9009]]"
+- "[[H1697J]]"
+- "[[H0834A]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H4480A]]"
+- "[[H4725]]"
+- "[[H1931]]"
+- "[[H0977]]"
+- "[[H3068G]]"
+- "[[H8104J]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H3384B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 17:10**<big><big>[[Deut.17.8 Courts of Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt do according to the sentence, which they of that place which the LORD shall choose shall shew thee; and thou shalt observe to do according to all that they inform thee:
 <small><sub>**BSB:**</sub></small>
 You must abide by the verdict they give you at the place the LORD will choose. Be careful to do everything they instruct you,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213A\|עָשִׂ֗יתָ]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֤י]] [[H9009\|הַ]][[H1697J\|דָּבָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5046\|יַגִּ֣ידֽוּ]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H0834A\|אֲשֶׁ֖ר]] [[H0977\|יִבְחַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H8104J\|שָׁמַרְתָּ֣]] [[H9005\|לַ]][[H6213A\|עֲשׂ֔וֹת]] [[H9004\|כְּ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H3384B\|יוֹרֽוּ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic JUDGE|JUDGE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.9|<< Deuteronomy 17:9]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.11|Deuteronomy 17:11 >>]]</td></tr></table>
 

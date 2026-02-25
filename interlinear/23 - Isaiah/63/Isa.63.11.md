@@ -1,8 +1,68 @@
+---
+title: Isaiah 63:11
+type: Verse
+kjv: "Then he remembered the days of old, Moses, and his people, saying, Where is he that brought them up out of the sea with the shepherd of his flock? where is he that put his holy Spirit within him?"
+bsb: "Then His people remembered the days of old, the days of Moses. Where is He who brought them through the sea with the shepherds of His flock? Where is the One who set His Holy Spirit among them,"
+hebrew: "וַיִּזְכֹּ֥ר יְמֵֽי־ עוֹלָ֖ם מֹשֶׁ֣ה עַמּ֑וֹ אַיֵּ֣ה׀ הַֽמַּעֲלֵ֣ם מִיָּ֗ם אֵ֚ת רֹעֵ֣י צֹאנ֔וֹ אַיֵּ֛ה הַשָּׂ֥ם בְּקִרְבּ֖וֹ אֶת־ ר֥וּחַ קָדְשֽׁוֹ׃"
+pericope: "[[Isa.63.7 God’s Mercies Recalled|God’s Mercies Recalled]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H5769J]]"
+- "[[H4872]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H0346]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H5927G]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H3220G]]"
+- "[[H0854]]"
+- "[[H7462B]]"
+- "[[H6629G]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H0853]]"
+- "[[H7307G]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 63:11**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he remembered the days of old, Moses, [and] his people, [saying], Where [is] he that brought them up out of the sea with the shepherd of his flock? where [is] he that put his holy Spirit within him?
 <small><sub>**BSB:**</sub></small>
 Then His people remembered the days of old, the days of Moses. Where is He who brought them through the sea with the shepherds of His flock? Where is the One who set His Holy Spirit among them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2142\|יִּזְכֹּ֥ר]] [[H3117G\|יְמֵֽי]][[H9014\|־]] [[H5769J\|עוֹלָ֖ם]] [[H4872\|מֹשֶׁ֣ה]] [[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H0346\|אַיֵּ֣ה]][[H9015\|׀]] [[H9009\|הַֽ]][[H5927G\|מַּעֲלֵ֣]][[H9038\|ם]] [[H9006\|מִ]][[H3220G\|יָּ֗ם]] [[H0854\|אֵ֚ת]] [[H7462B\|רֹעֵ֣י]] [[H6629G\|צֹאנ֔]][[H9023\|וֹ]] [[H0346\|אַיֵּ֛ה]] [[H9009\|הַ]][[H7760H\|שָּׂ֥ם]] [[H9003\|בְּ]][[H7130G\|קִרְבּ֖]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֥וּחַ]] [[H6944G\|קָדְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.10|<< Isaiah 63:10]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.12|Isaiah 63:12 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Proverbs 4:20
+type: Verse
+kjv: "My son, attend to my words; incline thine ear unto my sayings."
+bsb: "My son, pay attention to my words; incline your ear to my sayings."
+hebrew: "בְּ֭נִי לִדְבָרַ֣י הַקְשִׁ֑יבָה לַ֝אֲמָרַ֗י הַט־ אָזְנֶֽךָ׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H1697G]]"
+- "[[H7181]]"
+- "[[H9012]]"
+- "[[H0561]]"
+- "[[H5186]]"
+- "[[H9014]]"
+- "[[H0241G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:20**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, attend to my words; incline thine ear unto my sayings.
 <small><sub>**BSB:**</sub></small>
 My son, pay attention to my words; incline your ear to my sayings.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּ֭נִ]][[H9020\|י]] [[H9005\|לִ]][[H1697G\|דְבָרַ֣]][[H9020\|י]] [[H7181\|הַקְשִׁ֑יבָ]][[H9012\|ה]] [[H9005\|לַ֝]][[H0561\|אֲמָרַ֗]][[H9020\|י]] [[H5186\|הַט]][[H9014\|־]] [[H0241G\|אָזְנֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.19|<< Proverbs 4:19]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.21|Proverbs 4:21 >>]]</td></tr></table>
 

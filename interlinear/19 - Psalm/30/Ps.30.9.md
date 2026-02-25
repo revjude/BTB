@@ -1,8 +1,64 @@
+---
+title: Psalm 30:9
+type: Verse
+kjv: "What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?"
+bsb: "“What gain is there in my bloodshed, in my descent to the Pit? Will the dust praise You? Will it proclaim Your faithfulness?"
+hebrew: "מַה־ בֶּ֥צַע בְּדָמִי֮ בְּרִדְתִּ֪י אֶ֫ל־ שָׁ֥חַת הֲיוֹדְךָ֥ עָפָ֑ר הֲיַגִּ֥יד אֲמִתֶּֽךָ׃"
+pericope: "[[Ps.30.1 You Turned My Mourning into Dancing|You Turned My Mourning into Dancing]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 30
+book/chapter: "[[Ps.30|Psalm 30]]"
+chronological_order: 400
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HADES|HADES]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1215]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H9020]]"
+- "[[H3381]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H7845G]]"
+- "[[H9008]]"
+- "[[H3034]]"
+- "[[H9031]]"
+- "[[H6083]]"
+- "[[H5046]]"
+- "[[H0571G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 30:9**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What profit [is there] in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?
 <small><sub>**BSB:**</sub></small>
 “What gain is there in my bloodshed, in my descent to the Pit? Will the dust praise You? Will it proclaim Your faithfulness?
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H1215\|בֶּ֥צַע]] [[H9003\|בְּ]][[H1818\|דָמִ]][[H9020\|י֮]] [[H9003\|בְּ]][[H3381\|רִדְתִּ֪]][[H9040\|י]] [[H0413\|אֶ֫ל]][[H9014\|־]] [[H7845G\|שָׁ֥חַת]] [[H9008\|הֲ]][[H3034\|יוֹדְ]][[H9031\|ךָ֥]] [[H6083\|עָפָ֑ר]] [[H9008\|הֲ]][[H5046\|יַגִּ֥יד]] [[H0571G\|אֲמִתֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HADES|HADES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.8|<< Psalms 30:8]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.10|Psalms 30:10 >>]]</td></tr></table>
 

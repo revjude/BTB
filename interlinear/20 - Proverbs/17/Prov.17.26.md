@@ -1,8 +1,53 @@
+---
+title: Proverbs 17:26
+type: Verse
+kjv: "Also to punish the just is not good, nor to strike princes for equity."
+bsb: "It is surely not good to punish the innocent or to flog a noble for his honesty."
+hebrew: "גַּ֤ם עֲנ֣וֹשׁ לַצַּדִּ֣יק לֹא־ ט֑וֹב לְהַכּ֖וֹת נְדִיבִ֣ים עַל־ יֹֽשֶׁר׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1571]]"
+- "[[H6064]]"
+- "[[H9005]]"
+- "[[H6662]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H5221]]"
+- "[[H5081H]]"
+- "[[H5921A]]"
+- "[[H3476]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 17:26**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also to punish the just [is] not good, [nor] to strike princes for equity.
 <small><sub>**BSB:**</sub></small>
 It is surely not good to punish the innocent or to flog a noble for his honesty.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֤ם]] [[H6064\|עֲנ֣וֹשׁ]] [[H9005\|לַ]][[H6662\|צַּדִּ֣יק]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|ט֑וֹב]] [[H9005\|לְ]][[H5221\|הַכּ֖וֹת]] [[H5081H\|נְדִיבִ֣ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3476\|יֹֽשֶׁר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTICE|JUSTICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.25|<< Proverbs 17:25]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.27|Proverbs 17:27 >>]]</td></tr></table>
 

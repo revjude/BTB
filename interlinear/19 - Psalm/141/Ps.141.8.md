@@ -1,8 +1,60 @@
+---
+title: Psalm 141:8
+type: Verse
+kjv: "But mine eyes are unto thee, O GOD the Lord: in thee is my trust; leave not my soul destitute."
+bsb: "But my eyes are fixed on You, O GOD the Lord. In You I seek refuge; do not leave my soul defenseless."
+hebrew: "כִּ֤י אֵלֶ֨יךָ׀ יְהֹוִ֣ה אֲדֹנָ֣י עֵינָ֑י בְּכָ֥ה חָ֝סִ֗יתִי אַל־ תְּעַ֥ר נַפְשִֽׁי׃"
+pericope: "[[Ps.141.1 Come Quickly to Me|Come Quickly to Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 141
+book/chapter: "[[Ps.141|Psalm 141]]"
+chronological_order: 388
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H3069]]"
+- "[[H0136]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H2620]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H6168]]"
+- "[[H5315I]]"
+- "[[H9016]]"
+texts:
+- L
+- L(ah+b)
+---
+
 **Psalms 141:8**<big><big>[[Ps.141.1 Come Quickly to Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But mine eyes [are] unto thee, O GOD the Lord: in thee is my trust; leave not my soul destitute.
 <small><sub>**BSB:**</sub></small>
 But my eyes are fixed on You, O GOD the Lord. In You I seek refuge; do not leave my soul defenseless.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0413\|אֵלֶ֨י]][[H9031\|ךָ]][[H9015\|׀]] [[H3069\|יְהֹוִ֣ה]] [[H0136\|אֲדֹנָ֣י]] [[H5869A\|עֵינָ֑]][[H9020\|י]] [[H9003\|בְּ]][[H9031\|כָ֥ה]] [[H2620\|חָ֝סִ֗יתִי]] [[H0408\|אַל]][[H9014\|־]] [[H6168\|תְּעַ֥ר]] [[H5315I\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.141.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.141.7|<< Psalms 141:7]]</td><td align="center" style="border:none;">[[Ps.141|Psalms 141]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.141.9|Psalms 141:9 >>]]</td></tr></table>
 

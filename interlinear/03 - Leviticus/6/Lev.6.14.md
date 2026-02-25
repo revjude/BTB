@@ -1,8 +1,62 @@
+---
+title: Leviticus 6:14
+type: Verse
+kjv: "And this is the law of the meat offering: the sons of Aaron shall offer it before the LORD, before the altar."
+bsb: "Now this is the law of the grain offering: Aaron’s sons shall present it before the LORD in front of the altar."
+hebrew: "וְזֹ֥את תּוֹרַ֖ת הַמִּנְחָ֑ה הַקְרֵ֨ב אֹתָ֤הּ בְּנֵֽי־ אַהֲרֹן֙ לִפְנֵ֣י יְהוָ֔ה אֶל־ פְּנֵ֖י הַמִּזְבֵּֽחַ׃"
+pericope: "[[Lev.6.14 The Grain Offering|The Grain Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2063]]"
+- "[[H8451]]"
+- "[[H9009]]"
+- "[[H4503G]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:14**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the law of the meat offering: the sons of Aaron shall offer it before the LORD, before the altar.
 <small><sub>**BSB:**</sub></small>
 Now this is the law of the grain offering: Aaron’s sons shall present it before the LORD in front of the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2063\|זֹ֥את]] [[H8451\|תּוֹרַ֖ת]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֑ה]] [[H7126H\|הַקְרֵ֨ב]] [[H0853\|אֹתָ֤]][[H9034\|הּ]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פְּנֵ֖י]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.13|<< Leviticus 6:13]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.15|Leviticus 6:15 >>]]</td></tr></table>
 

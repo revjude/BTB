@@ -1,8 +1,58 @@
+---
+title: Job 31:29
+type: Verse
+kjv: "If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:"
+bsb: "If I have rejoiced in my enemy’s ruin, or exulted when evil befell him—"
+hebrew: "אִם־ אֶ֭שְׂמַח בְּפִ֣יד מְשַׂנְאִ֑י וְ֝הִתְעֹרַ֗רְתִּי כִּֽי־ מְצָ֥אוֹ רָֽע׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H6365]]"
+- "[[H8130]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H5782]]"
+- "[[H3588A]]"
+- "[[H4672]]"
+- "[[H9033]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:29**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I rejoiced at the destruction of him that hated me, or lifted up myself when evil found him:
 <small><sub>**BSB:**</sub></small>
 If I have rejoiced in my enemy’s ruin, or exulted when evil befell him—
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H8055\|אֶ֭שְׂמַח]] [[H9003\|בְּ]][[H6365\|פִ֣יד]] [[H8130\|מְשַׂנְאִ֑]][[H9030\|י]] [[H9001\|וְ֝]][[H5782\|הִתְעֹרַ֗רְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4672\|מְצָ֥א]][[H9033\|וֹ]] [[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MALICE|MALICE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.28|<< Job 31:28]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.30|Job 31:30 >>]]</td></tr></table>
 

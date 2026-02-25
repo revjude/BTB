@@ -1,8 +1,65 @@
+---
+title: Genesis 12:15
+type: Verse
+kjv: "The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh’s house."
+bsb: "When Pharaoh’s officials saw Sarai, they commended her to him, and she was taken into the palace of Pharaoh."
+hebrew: "וַיִּרְא֤וּ אֹתָהּ֙ שָׂרֵ֣י פַרְעֹ֔ה וַיְהַֽלְל֥וּ אֹתָ֖הּ אֶל־ פַּרְעֹ֑ה וַתֻּקַּ֥ח הָאִשָּׁ֖ה בֵּ֥ית פַּרְעֹֽה׃"
+pericope: "[[Gen.12.10 Abram and Sarai in Egypt|Abram and Sarai in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H8269]]"
+- "[[H6547G]]"
+- "[[H1984B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:15**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh’s house.
 <small><sub>**BSB:**</sub></small>
 When Pharaoh’s officials saw Sarai, they commended her to him, and she was taken into the palace of Pharaoh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יִּרְא֤וּ]] [[H0853\|אֹתָ]][[H9034\|הּ֙]] [[H8269\|שָׂרֵ֣י]] [[H6547G\|פַרְעֹ֔ה]] [[H9001\|וַ]][[H1984B\|יְהַֽלְל֥וּ]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6547G\|פַּרְעֹ֑ה]] [[H9001\|וַ]][[H3947G\|תֻּקַּ֥ח]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֖ה]] [[H1004M\|בֵּ֥ית]] [[H6547G\|פַּרְעֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COWARDICE|COWARDICE]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PHARAOH|PHARAOH]] • [[topic RULERS|RULERS]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.14|<< Genesis 12:14]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.16|Genesis 12:16 >>]]</td></tr></table>
 

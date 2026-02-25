@@ -1,8 +1,76 @@
+---
+title: Jeremiah 37:21
+type: Verse
+kjv: "Then Zedekiah the king commanded that they should commit Jeremiah into the court of the prison, and that they should give him daily a piece of bread out of the bakers’ street, until all the bread in the city were spent. Thus Jeremiah remained in the court of the prison."
+bsb: "So King Zedekiah gave orders for Jeremiah to be placed in the courtyard of the guard and given a loaf of bread daily from the street of the bakers, until all the bread in the city was gone. So Jeremiah remained in the courtyard of the guard."
+hebrew: "וַיְצַוֶּ֞ה הַמֶּ֣לֶךְ צִדְקִיָּ֗הוּ וַיַּפְקִ֣דוּ אֶֽת־ יִרְמְיָהוּ֮ בַּחֲצַ֣ר הַמַּטָּרָה֒ וְנָתֹן֩ ל֨וֹ כִכַּר־ לֶ֤חֶם לַיּוֹם֙ מִח֣וּץ הָאֹפִ֔ים עַד־ תֹּ֥ם כָּל־ הַלֶּ֖חֶם מִן־ הָעִ֑יר וַיֵּ֣שֶׁב יִרְמְיָ֔הוּ בַּחֲצַ֖ר הַמַּטָּרָֽה׃"
+pericope: "[[Jer.37.11 Jeremiah Imprisoned|Jeremiah Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 37
+book/chapter: "[[Jer.37|Jeremiah 37]]"
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BAKER|BAKER]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6667H]]"
+- "[[H6485J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H9003]]"
+- "[[H2691A]]"
+- "[[H4307H]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3603H]]"
+- "[[H3899H]]"
+- "[[H3117J]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H0644]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H3605]]"
+- "[[H4480A]]"
+- "[[H5892B]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 37:21**<big><big>[[Jer.37.11 Jeremiah Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Zedekiah the king commanded that they should commit Jeremiah into the court of the prison, and that they should give him daily a piece of bread out of the bakers’ street, until all the bread in the city were spent. Thus Jeremiah remained in the court of the prison.
 <small><sub>**BSB:**</sub></small>
 So King Zedekiah gave orders for Jeremiah to be placed in the courtyard of the guard and given a loaf of bread daily from the street of the bakers, until all the bread in the city was gone. So Jeremiah remained in the courtyard of the guard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַוֶּ֞ה]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H6667H\|צִדְקִיָּ֗הוּ]] [[H9001\|וַ]][[H6485J\|יַּפְקִ֣דוּ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3414L\|יִרְמְיָהוּ֮]] [[H9003\|בַּ]][[H2691A\|חֲצַ֣ר]] [[H9009\|הַ]][[H4307H\|מַּטָּרָה֒]] [[H9002\|וְ]][[H5414G\|נָתֹן֩]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H3603H\|כִכַּר]][[H9014\|־]] [[H3899H\|לֶ֤חֶם]] [[H9005\|לַ]][[H3117J\|יּוֹם֙]] [[H9006\|מִ]][[H2351\|ח֣וּץ]] [[H9009\|הָ]][[H0644\|אֹפִ֔ים]] [[H5704\|עַד]][[H9014\|־]] [[H8552\|תֹּ֥ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3899H\|לֶּ֖חֶם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H3427\|יֵּ֣שֶׁב]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H9003\|בַּ]][[H2691A\|חֲצַ֖ר]] [[H9009\|הַ]][[H4307H\|מַּטָּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAKER|BAKER]] • [[topic BREAD|BREAD]] • [[topic JEREMIAH|JEREMIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.37.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.37.20|<< Jeremiah 37:20]]</td><td align="center" style="border:none;">[[Jer.37|Jeremiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.1|Jeremiah 38:1 >>]]</td></tr></table>
 

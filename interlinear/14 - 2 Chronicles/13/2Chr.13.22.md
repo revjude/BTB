@@ -1,8 +1,54 @@
+---
+title: 2 Chronicles 13:22
+type: Verse
+kjv: "And the rest of the acts of Abijah, and his ways, and his sayings, are written in the story of the prophet Iddo."
+bsb: "Now the rest of the acts of Abijah, along with his ways and his words, are written in the Treatise of the Prophet Iddo."
+hebrew: "וְיֶ֙תֶר֙ דִּבְרֵ֣י אֲבִיָּ֔ה וּדְרָכָ֖יו וּדְבָרָ֑יו כְּתוּבִ֕ים בְּמִדְרַ֖שׁ הַנָּבִ֥יא עִדּֽוֹ׃"
+pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic IDDO|IDDO]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H0029I]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H1697G]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H4097]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5714I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 13:22**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the acts of Abijah, and his ways, and his sayings, [are] written in the story of the prophet Iddo.
 <small><sub>**BSB:**</sub></small>
 Now the rest of the acts of Abijah, along with his ways and his words, are written in the Treatise of the Prophet Iddo.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֙תֶר֙]] [[H1697K\|דִּבְרֵ֣י]] [[H0029I\|אֲבִיָּ֔ה]] [[H9002\|וּ]][[H1870G\|דְרָכָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H1697G\|דְבָרָ֑י]][[H9023\|ו]] [[H3789\|כְּתוּבִ֕ים]] [[H9003\|בְּ]][[H4097\|מִדְרַ֖שׁ]] [[H9009\|הַ]][[H5030\|נָּבִ֥יא]] [[H5714I\|עִדּֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDDO|IDDO]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.21|<< 2 Chronicles 13:21]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.1|2 Chronicles 14:1 >>]]</td></tr></table>
 

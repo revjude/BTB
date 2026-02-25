@@ -1,8 +1,61 @@
+---
+title: Joshua 1:17
+type: Verse
+kjv: "According as we hearkened unto Moses in all things, so will we hearken unto thee: only the LORD thy God be with thee, as he was with Moses."
+bsb: "Just as we obeyed Moses in all things, so we will obey you. And may the LORD your God be with you, as He was with Moses."
+hebrew: "כְּכֹ֤ל אֲשֶׁר־ שָׁמַ֙עְנוּ֙ אֶל־ מֹשֶׁ֔ה כֵּ֖ן נִשְׁמַ֣ע אֵלֶ֑יךָ רַ֠ק יִֽהְיֶ֞ה יְהוָ֤ה אֱלֹהֶ֙יךָ֙ עִמָּ֔ךְ כַּאֲשֶׁ֥ר הָיָ֖ה עִם־ מֹשֶֽׁה׃"
+pericope: "[[Josh.1.10 Joshua Takes Charge|Joshua Takes Charge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H4872]]"
+- "[[H3651C]]"
+- "[[H9031]]"
+- "[[H7535]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H0834D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:17**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According as we hearkened unto Moses in all things, so will we hearken unto thee: only the LORD thy God be with thee, as he was with Moses.
 <small><sub>**BSB:**</sub></small>
 Just as we obeyed Moses in all things, so we will obey you. And may the LORD your God be with you, as He was with Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H3605\|כֹ֤ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8085H\|שָׁמַ֙עְנוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H3651C\|כֵּ֖ן]] [[H8085H\|נִשְׁמַ֣ע]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H7535\|רַ֠ק]] [[H1961\|יִֽהְיֶ֞ה]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1961\|הָיָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic JOSHUA|JOSHUA]] • [[topic LOYALTY|LOYALTY]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.16|<< Joshua 1:16]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.18|Joshua 1:18 >>]]</td></tr></table>
 

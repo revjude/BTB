@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Prays at Gethsemane
+type: Pericope
 pericope: "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Mark
 chapter: 14
 book/chapter: "[[Mark.14|Mark 14]]"
-genre:
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Mark.14.32]]"
 - "[[Mark.14.33]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Mark.14.42]]"
 ---
 
-[[Mark.14|Mark 14:32 - Mark 14:42]]
+<small>[[Mark.14|Mark 14:32-42]]</small>
 *Jesus Prays at Gethsemane*
 
 [[Mark.14.32|32]] And they came to a place which was named Gethsemane: and he saith to his disciples, Sit ye here, while I shall pray.

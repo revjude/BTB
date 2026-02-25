@@ -1,10 +1,67 @@
+---
+title: John 13:8
+type: Verse
+kjv: "Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me."
+bsb: "“Never shall You wash my feet!” Peter told Him. Jesus answered, “Unless I wash you, you have no part with Me.”"
+jesus_said: "If I wash thee not, thou hast no part with me."
+greek: "λέγει αὐτῷ Πέτρος· οὐ μὴ νίψῃς μου τοὺς πόδας εἰς τὸν αἰῶνα.¶ Ἀπεκρίθη ὁ Ἰησοῦς αὐτῷ· ἐὰν μὴ νίψω σε, οὐκ ἔχεις μέρος μετ᾽ ἐμοῦ."
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic FEET|FEET]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4074G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G3538]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0611]]"
+- "[[G2424G]]"
+- "[[G1437]]"
+- "[[G4771]]"
+- "[[G2192]]"
+- "[[G3313]]"
+- "[[G3326]]"
+- "[[G1473]]"
+texts:
+- NKO
+- k
+---
+
 **John 13:8**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Peter saith unto him, Thou shalt never wash my feet. Jesus answered him, If I wash thee not, thou hast no part with me.
 <small><sub>**BSB:**</sub></small>
 “Never shall You wash my feet!” Peter told Him. Jesus answered, “Unless I wash you, you have no part with Me.”
-<small><sub>**Literal:**</sub></small>
-Says to Him Peter; certainly not shall You wash my <the> feet to the age. Answered <the> Jesus to him; only unless I shall wash you, not you have part with Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.7|<< John 13:7]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.9|John 13:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G4074G\|Πέτρος·]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G3538\|νίψῃς]]  [[G3165\|μου]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα.¶]]  [[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0846\|αὐτῷ·]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G3538\|νίψω]]  [[G4771\|σε,]]  [[G3756\|οὐκ]]  [[G2192\|ἔχεις]]  [[G3313\|μέρος]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic APOSTLES|APOSTLES]] • [[topic FEET|FEET]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REGENERATION|REGENERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.7|<< John 13:7]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.9|John 13:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

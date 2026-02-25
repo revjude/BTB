@@ -3,9 +3,9 @@
 
 → Symbolical uses of
 
-→ BLACK: A SYMBOL OF AFFLICTION AND CALAMITY [[Job.3.5|Job 3:5]];  [[Job.10.20|10:20]]-[[Job.10.22|22]]; [[Job.30.26|30:26]]; [[Ps.107.10|Ps 107:10]],[[Ps.107.11|11]]; [[Ps.143.3|143:3]]; [[Isa.5.30|Isa 5:30]]; [[Isa.8.22|8:22]]; [[Isa.9.19|9:19]]; [[Isa.24.11|24:11]]; [[Isa.50.3|50:3]]; [[Joel.2.6|Joe 2:6]],[[Joel.2.10|10]];  [[Joel.3.14|3:14]],[[Joel.3.15|15]]; [[Amos.5.8|Am 5:8]]; [[Nah.2.10|Na 2:10]]; [[Zeph.1.14|Zep 1:14]],[[Zeph.1.15|15]]; [[Matt.8.12|Mt 8:12]]; [[Matt.22.13|22:13]]; [[Matt.25.30|25:30]]; [[2Pet.2.4|2Pe 2:4]]; [[Jude.1.1|Jude 1]]:13;  [[Rev.16.10|Re 16:10]]
+→ BLACK: A SYMBOL OF AFFLICTION AND CALAMITY [[Job.3.5|Job 3:5]];  [[Job.10.20|10:20-22]]; [[Job.30.26|30:26]]; [[Ps.107.10|Ps 107:10]],[[Ps.107.11|11]]; [[Ps.143.3|143:3]]; [[Isa.5.30|Isa 5:30]]; [[Isa.8.22|8:22]]; [[Isa.9.19|9:19]]; [[Isa.24.11|24:11]]; [[Isa.50.3|50:3]]; [[Joel.2.6|Joe 2:6]],[[Joel.2.10|10]];  [[Joel.3.14|3:14]],[[Joel.3.15|15]]; [[Amos.5.8|Am 5:8]]; [[Nah.2.10|Na 2:10]]; [[Zeph.1.14|Zep 1:14]],[[Zeph.1.15|15]]; [[Matt.8.12|Mt 8:12]]; [[Matt.22.13|22:13]]; [[Matt.25.30|25:30]]; [[2Pet.2.4|2Pe 2:4]]; [[Jude.1.1|Jude 1]]:13;  [[Rev.16.10|Re 16:10]]
 
-→ BLUE: SYMBOL OF DEITY [[Exod.24.10|Ex 24:10]]; [[Exod.25.3|25:3]],[[Exod.25.4|4]]; [[Exod.26.1|26:1]]; [[Exod.28.28|28:28]],[[Exod.28.37|37]];  [[Exod.38.18|38:18]]; [[Exod.39.1|39:1]]-[[Exod.39.5|5]],[[Exod.39.21|21]],[[Exod.39.24|24]],[[Exod.39.29|29]],[[Exod.39.31|31]]; [[Num.4.5|Nu 4:5]]-[[Num.4.12|12]]; [[Num.15.38|15:38]]-[[Num.15.40|40]]; [[2Chr.2.7|2Ch 2:7]],[[2Chr.2.14|14]]; [[2Chr.3.14|3:14]]; [[Jer.10.9|Jer 10:9]]; [[Ezek.1.26|Eze  1:26]]; [[Ezek.10.1|10:1]]
+→ BLUE: SYMBOL OF DEITY [[Exod.24.10|Ex 24:10]]; [[Exod.25.3|25:3]],[[Exod.25.4|4]]; [[Exod.26.1|26:1]]; [[Exod.28.28|28:28]],[[Exod.28.37|37]];  [[Exod.38.18|38:18]]; [[Exod.39.1|39:1-5]],[[Exod.39.21|21]],[[Exod.39.24|24]],[[Exod.39.29|29]],[[Exod.39.31|31]]; [[Num.4.5|Nu 4:5-12]]; [[Num.15.38|15:38-40]]; [[2Chr.2.7|2Ch 2:7]],[[2Chr.2.14|14]]; [[2Chr.3.14|3:14]]; [[Jer.10.9|Jer 10:9]]; [[Ezek.1.26|Eze  1:26]]; [[Ezek.10.1|10:1]]
 
 - For additional reference, see passages below under CRIMSON
 
@@ -23,7 +23,7 @@
 
 - Conquest [[Nah.2.3|Na 2:3]]; [[Rev.12.3|Re 12:3]]
 
-- These colors figured largely in the symbolisms of the tabernacle  furnishing, and priestly vestments and functions, as types and shadows of the atonement  [[Exod.25.3|Ex 25:3]]-[[Exod.25.5|5]]; [[Exod.26.1|26:1]],[[Exod.26.14|14]],[[Exod.26.31|31]],[[Exod.26.36|36]]; [[Exod.36.8|36:8]],[[Exod.36.19|19]],[[Exod.36.35|35]],[[Exod.36.37|37]]; [[Exod.27.16|27:16]]; [[Exod.28.4|28:4]]-[[Exod.28.8|8]],[[Exod.28.15|15]],[[Exod.28.31|31]],[[Exod.28.33|33]]; [[Exod.35.5|35:5]]-[[Exod.35.7|7]],[[Exod.35.23|23]],[[Exod.35.25|25]],[[Exod.35.35|35]];  [[Exod.38.18|38:18]],[[Exod.38.23|23]]; [[Exod.39.2|39:2]],[[Exod.39.3|3]],[[Exod.39.5|5]],[[Exod.39.29|29]]; [[Lev.14.4|Le 14:4]],[[Lev.14.6|6]],[[Lev.14.49|49]],[[Lev.14.51|51]],[[Lev.14.52|52]]; [[Num.4.7|Nu 4:7]],[[Num.4.8|8]],[[Num.4.13|13]]; [[Num.19.2|19:2]],[[Num.19.5|5]],[[Num.19.6|6]]; [[Isa.63.1|Isa 63:1]]-[[Isa.63.3|3]]; [[Heb.9.19|Heb  9:19]]-[[Heb.9.23|23]]
+- These colors figured largely in the symbolisms of the tabernacle  furnishing, and priestly vestments and functions, as types and shadows of the atonement  [[Exod.25.3|Ex 25:3-5]]; [[Exod.26.1|26:1]],[[Exod.26.14|14]],[[Exod.26.31|31]],[[Exod.26.36|36]]; [[Exod.36.8|36:8]],[[Exod.36.19|19]],[[Exod.36.35|35]],[[Exod.36.37|37]]; [[Exod.27.16|27:16]]; [[Exod.28.4|28:4-8]],[[Exod.28.15|15]],[[Exod.28.31|31]],[[Exod.28.33|33]]; [[Exod.35.5|35:5-7]],[[Exod.35.23|23]],[[Exod.35.25|25]],[[Exod.35.35|35]];  [[Exod.38.18|38:18]],[[Exod.38.23|23]]; [[Exod.39.2|39:2]],[[Exod.39.3|3]],[[Exod.39.5|5]],[[Exod.39.29|29]]; [[Lev.14.4|Le 14:4]],[[Lev.14.6|6]],[[Lev.14.49|49]],[[Lev.14.51|51]],[[Lev.14.52|52]]; [[Num.4.7|Nu 4:7]],[[Num.4.8|8]],[[Num.4.13|13]]; [[Num.19.2|19:2]],[[Num.19.5|5]],[[Num.19.6|6]]; [[Isa.63.1|Isa 63:1-3]]; [[Heb.9.19|Heb  9:19-23]]
 
 → WHITE: SYMBOL OF HOLINESS
 

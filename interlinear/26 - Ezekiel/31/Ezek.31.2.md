@@ -1,8 +1,56 @@
+---
+title: Ezekiel 31:2
+type: Verse
+kjv: "Son of man, speak unto Pharaoh king of Egypt, and to his multitude; Whom art thou like in thy greatness?"
+bsb: "“Son of man, say to Pharaoh king of Egypt and to his multitude: ‘Who can be compared to your greatness?"
+hebrew: "בֶּן־ אָדָ֕ם אֱמֹ֛ר אֶל־ פַּרְעֹ֥ה מֶֽלֶךְ־ מִצְרַ֖יִם וְאֶל־ הֲמוֹנ֑וֹ אֶל־ מִ֖י דָּמִ֥יתָ בְגָדְלֶֽךָ׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H6547R]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H1995A]]"
+- "[[H9023]]"
+- "[[H4310]]"
+- "[[H1819]]"
+- "[[H9003]]"
+- "[[H1433]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:2**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, speak unto Pharaoh king of Egypt, and to his multitude; Whom art thou like in thy greatness?
 <small><sub>**BSB:**</sub></small>
 “Son of man, say to Pharaoh king of Egypt and to his multitude: ‘Who can be compared to your greatness?
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H0559\|אֱמֹ֛ר]] [[H0413\|אֶל]][[H9014\|־]] [[H6547R\|פַּרְעֹ֥ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1995A\|הֲמוֹנ֑]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H4310\|מִ֖י]] [[H1819\|דָּמִ֥יתָ]] [[H9003\|בְ]][[H1433\|גָדְלֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.1|<< Ezekiel 31:1]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.3|Ezekiel 31:3 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Proverbs 31:25
+type: Verse
+kjv: "Strength and honour are her clothing; and she shall rejoice in time to come."
+bsb: "Strength and honor are her clothing, and she can laugh at the days to come."
+hebrew: "עֹז־ וְהָדָ֥ר לְבוּשָׁ֑הּ וַ֝תִּשְׂחַ֗ק לְי֣וֹם אַחֲרֽוֹן׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H5797]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H1926]]"
+- "[[H3830]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H7832]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H0314]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:25**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Strength and honour [are] her clothing; and she shall rejoice in time to come.
 <small><sub>**BSB:**</sub></small>
 Strength and honor are her clothing, and she can laugh at the days to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H5797\|עֹז]][[H9014\|־]] [[H9002\|וְ]][[H1926\|הָדָ֥ר]] [[H3830\|לְבוּשָׁ֑]][[H9024\|הּ]] [[H9001\|וַ֝]][[H7832\|תִּשְׂחַ֗ק]] [[H9005\|לְ]][[H3117G\|י֣וֹם]] [[H0314\|אַחֲרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic POETRY|POETRY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.24|<< Proverbs 31:24]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.26|Proverbs 31:26 >>]]</td></tr></table>
 

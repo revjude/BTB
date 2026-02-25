@@ -1,8 +1,59 @@
+---
+title: Jeremiah 51:28
+type: Verse
+kjv: "Prepare against her the nations with the kings of the Medes, the captains thereof, and all the rulers thereof, and all the land of his dominion."
+bsb: "Prepare the nations for battle against her—the kings of the Medes, their governors and all their officials, and all the lands they rule."
+hebrew: "קַדְּשׁ֨וּ עָלֶ֤יהָ גוֹיִם֙ אֶת־ מַלְכֵ֣י מָדַ֔י אֶת־ פַּחוֹתֶ֖יהָ וְאֶת־ כָּל־ סְגָנֶ֑יהָ וְאֵ֖ת כָּל־ אֶ֥רֶץ מֶמְשַׁלְתּֽוֹ׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H6942J]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H1471A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H4074I]]"
+- "[[H6346]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5461]]"
+- "[[H0776G]]"
+- "[[H4475]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:28**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Prepare against her the nations with the kings of the Medes, the captains thereof, and all the rulers thereof, and all the land of his dominion.
 <small><sub>**BSB:**</sub></small>
 Prepare the nations for battle against her—the kings of the Medes, their governors and all their officials, and all the lands they rule.
+<small><sub>**Hebrew:**</sub></small>
+[[H6942J\|קַדְּשׁ֨וּ]] [[H5921A\|עָלֶ֤י]][[H9034\|הָ]] [[H1471A\|גוֹיִם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מַלְכֵ֣י]] [[H4074I\|מָדַ֔י]] [[H0853\|אֶת]][[H9014\|־]] [[H6346\|פַּחוֹתֶ֖י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5461\|סְגָנֶ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4475\|מֶמְשַׁלְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.27|<< Jeremiah 51:27]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.29|Jeremiah 51:29 >>]]</td></tr></table>
 

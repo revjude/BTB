@@ -1,8 +1,71 @@
+---
+title: Genesis 24:43
+type: Verse
+kjv: "Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth to draw water, and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;"
+bsb: "Here I am, standing beside this spring. Now if a maiden comes out to draw water and I say to her, ‘Please let me drink a little water from your jar,’"
+hebrew: "הִנֵּ֛ה אָנֹכִ֥י נִצָּ֖ב עַל־ עֵ֣ין הַמָּ֑יִם וְהָיָ֤ה הָֽעַלְמָה֙ הַיֹּצֵ֣את לִשְׁאֹ֔ב וְאָמַרְתִּ֣י אֵלֶ֔יהָ הַשְׁקִֽינִי־ נָ֥א מְעַט־ מַ֖יִם מִכַּדֵּֽךְ׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H5324]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5869M]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5959]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7579]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H8248H]]"
+- "[[H9030]]"
+- "[[H4994]]"
+- "[[H4592]]"
+- "[[H9006]]"
+- "[[H3537]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:43**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth to draw [water], and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;
 <small><sub>**BSB:**</sub></small>
 Here I am, standing beside this spring. Now if a maiden comes out to draw water and I say to her, ‘Please let me drink a little water from your jar,’
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֛ה]] [[H0595\|אָנֹכִ֥י]] [[H5324\|נִצָּ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H5869M\|עֵ֣ין]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9009\|הָֽ]][[H5959\|עַלְמָה֙]] [[H9009\|הַ]][[H3318G\|יֹּצֵ֣את]] [[H9005\|לִ]][[H7579\|שְׁאֹ֔ב]] [[H9001\|וְ]][[H0559\|אָמַרְתִּ֣י]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H8248H\|הַשְׁקִֽי]][[H9030\|נִי]][[H9014\|־]] [[H4994\|נָ֥א]] [[H4592\|מְעַט]][[H9014\|־]] [[H4325G\|מַ֖יִם]] [[H9006\|מִ]][[H3537\|כַּדֵּֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.42|<< Genesis 24:42]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.44|Genesis 24:44 >>]]</td></tr></table>
 

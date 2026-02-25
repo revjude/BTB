@@ -1,8 +1,67 @@
+---
+title: Judges 9:24
+type: Verse
+kjv: "That the cruelty done to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brethren."
+bsb: "in order that the crime against the seventy sons of Jerubbaal might come to justice and their blood be avenged on their brother Abimelech and on the leaders of Shechem, who had helped him murder his brothers."
+hebrew: "לָב֕וֹא חֲמַ֖ס שִׁבְעִ֣ים בְּנֵֽי־ יְרֻבָּ֑עַל וְדָמָ֗ם לָשׂ֞וּם עַל־ אֲבִימֶ֤לֶךְ אֲחִיהֶם֙ אֲשֶׁ֣ר הָרַ֣ג אוֹתָ֔ם וְעַל֙ בַּעֲלֵ֣י שְׁכֶ֔ם אֲשֶׁר־ חִזְּק֥וּ אֶת־ יָדָ֖יו לַהֲרֹ֥ג אֶת־ אֶחָֽיו׃"
+pericope: "[[Judg.9.22 Gaal Conspires with the Shechemites|Gaal Conspires with the Shechemites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H2555]]"
+- "[[H7657]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3378]]"
+- "[[H9002]]"
+- "[[H1818]]"
+- "[[H9028]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H0040H]]"
+- "[[H0251G]]"
+- "[[H0834A]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H1167I]]"
+- "[[H7927G]]"
+- "[[H2388G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:24**<big><big>[[Judg.9.22 Gaal Conspires with the Shechemites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the cruelty [done] to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brethren.
 <small><sub>**BSB:**</sub></small>
 in order that the crime against the seventy sons of Jerubbaal might come to justice and their blood be avenged on their brother Abimelech and on the leaders of Shechem, who had helped him murder his brothers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H0935G\|ב֕וֹא]] [[H2555\|חֲמַ֖ס]] [[H7657\|שִׁבְעִ֣ים]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H3378\|יְרֻבָּ֑עַל]] [[H9002\|וְ]][[H1818\|דָמָ֗]][[H9028\|ם]] [[H9005\|לָ]][[H7760H\|שׂ֞וּם]] [[H5921A\|עַל]][[H9014\|־]] [[H0040H\|אֲבִימֶ֤לֶךְ]] [[H0251G\|אֲחִי]][[H9028\|הֶם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2026\|הָרַ֣ג]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H1167I\|בַּעֲלֵ֣י]] [[H7927G\|שְׁכֶ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2388G\|חִזְּק֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדָ֖י]][[H9023\|ו]] [[H9005\|לַ]][[H2026\|הֲרֹ֥ג]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אֶחָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic GOD|GOD]] • [[topic JUDGE|JUDGE]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.23|<< Judges 9:23]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.25|Judges 9:25 >>]]</td></tr></table>
 

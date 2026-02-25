@@ -1,8 +1,62 @@
+---
+title: Jeremiah 51:41
+type: Verse
+kjv: "How is Sheshach taken! and how is the praise of the whole earth surprised! how is Babylon become an astonishment among the nations!"
+bsb: "How Sheshach has been captured! The praise of all the earth has been seized. What a horror Babylon has become among the nations!"
+hebrew: "אֵ֚יךְ נִלְכְּדָ֣ה שֵׁשַׁ֔ךְ וַתִּתָּפֵ֖שׂ תְּהִלַּ֣ת כָּל־ הָאָ֑רֶץ אֵ֣יךְ הָיְתָ֧ה לְשַׁמָּ֛ה בָּבֶ֖ל בַּגּוֹיִֽם׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic SHESHACH|SHESHACH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0349A]]"
+- "[[H3920]]"
+- "[[H8347]]"
+- "[[H9001]]"
+- "[[H8610]]"
+- "[[H8416]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8047H]]"
+- "[[H0894]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:41**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How is Sheshach taken! and how is the praise of the whole earth surprised! how is Babylon become an astonishment among the nations!
 <small><sub>**BSB:**</sub></small>
 How Sheshach has been captured! The praise of all the earth has been seized. What a horror Babylon has become among the nations!
+<small><sub>**Hebrew:**</sub></small>
+[[H0349A\|אֵ֚יךְ]] [[H3920\|נִלְכְּדָ֣ה]] [[H8347\|שֵׁשַׁ֔ךְ]] [[H9001\|וַ]][[H8610\|תִּתָּפֵ֖שׂ]] [[H8416\|תְּהִלַּ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0349A\|אֵ֣יךְ]] [[H1961\|הָיְתָ֧ה]] [[H9005\|לְ]][[H8047H\|שַׁמָּ֛ה]] [[H0894\|בָּבֶ֖ל]] [[H9003\|בַּ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic PERSIA|PERSIA]] • [[topic SHESHACH|SHESHACH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.40|<< Jeremiah 51:40]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.42|Jeremiah 51:42 >>]]</td></tr></table>
 

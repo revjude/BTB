@@ -1,10 +1,59 @@
+---
+title: Luke 5:15
+type: Verse
+kjv: "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities."
+bsb: "But the news about Jesus spread all the more, and great crowds came to hear Him and to be healed of their sicknesses."
+greek: "Διήρχετο δὲ μᾶλλον ὁ λόγος περὶ αὐτοῦ· καὶ συνήρχοντο ὄχλοι πολλοὶ ἀκούειν καὶ θεραπεύεσθαι ὑπ᾽ αὐτοῦ ἀπὸ τῶν ἀσθενειῶν αὐτῶν·"
+pericope: "[[Luke.5.12 The Leper’s Prayer|The Leper’s Prayer]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1330]]"
+- "[[G1161]]"
+- "[[G3123G]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4905]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G0191]]"
+- "[[G2323]]"
+- "[[G5259G]]"
+- "[[G0575]]"
+- "[[G0769H]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 5:15**<big><big>[[Luke.5.12 The Leper’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.
 <small><sub>**BSB:**</sub></small>
 But the news about Jesus spread all the more, and great crowds came to hear Him and to be healed of their sicknesses.
-<small><sub>**Literal:**</sub></small>
-Was spread abroad now still more the report concerning Him; and were coming crowds great to hear and to be healed by him from the sicknesses of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.14|<< Luke 5:14]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.16|Luke 5:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1330\|Διήρχετο]]  [[G1161\|δὲ]]  [[G3123G\|μᾶλλον]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ·]]  [[G2532\|καὶ]]  [[G4905\|συνήρχοντο]]  [[G3793\|ὄχλοι]]  [[G4183\|πολλοὶ]]  [[G0191\|ἀκούειν]]  [[G2532\|καὶ]]  [[G2323\|θεραπεύεσθαι]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0769H\|ἀσθενειῶν]]  [[G0846\|αὐτῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.14|<< Luke 5:14]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.16|Luke 5:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

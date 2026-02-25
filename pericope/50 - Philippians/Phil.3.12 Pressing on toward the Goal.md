@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pressing on toward the Goal
+type: Pericope
 pericope: "[[Phil.3.12 Pressing on toward the Goal|Pressing on toward the Goal]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Philippians
 chapter: 3
 book/chapter: "[[Phil.3|Philippians 3]]"
-genre:
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - pastoral letter
+verse_count: 5
 verses:
 - "[[Phil.3.12]]"
 - "[[Phil.3.13]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Phil.3.16]]"
 ---
 
-[[Phil.3|Philippians 3:12 - Philippians 3:16]]
+<small>[[Phil.3|Philippians 3:12-16]]</small>
 *Pressing on toward the Goal*
 
 [[Phil.3.12|12]] Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus.

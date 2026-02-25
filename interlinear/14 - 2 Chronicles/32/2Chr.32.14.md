@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 32:14
+type: Verse
+kjv: "Who was there among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand?"
+bsb: "Who among all the gods of these nations that my fathers devoted to destruction has been able to deliver his people from my hand? How then can your God deliver you from my hand?"
+hebrew: "מִ֠י בְּֽכָל־ אֱלֹהֵ֞י הַגּוֹיִ֤ם הָאֵ֙לֶּה֙ אֲשֶׁ֣ר הֶחֱרִ֣ימוּ אֲבוֹתַ֔י אֲשֶׁ֣ר יָכ֔וֹל לְהַצִּ֥יל אֶת־ עַמּ֖וֹ מִיָּדִ֑י כִּ֤י יוּכַל֙ אֱלֹ֣הֵיכֶ֔ם לְהַצִּ֥יל אֶתְכֶ֖ם מִיָּדִֽי׃"
+pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H4310]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H2763A]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H3588A]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:14**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [was there] among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand?
 <small><sub>**BSB:**</sub></small>
 Who among all the gods of these nations that my fathers devoted to destruction has been able to deliver his people from my hand? How then can your God deliver you from my hand?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֠י]] [[H9003\|בְּֽ]][[H3605\|כָל]][[H9014\|־]] [[H0430\|אֱלֹהֵ֞י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֤ם]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2763A\|הֶחֱרִ֣ימוּ]] [[H0001G\|אֲבוֹתַ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֣ר]] [[H3201\|יָכ֔וֹל]] [[H9005\|לְ]][[H5337\|הַצִּ֥יל]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמּ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H3027H\|יָּדִ֑]][[H9020\|י]] [[H3588A\|כִּ֤י]] [[H3201\|יוּכַל֙]] [[H0430G\|אֱלֹ֣הֵי]][[H9026\|כֶ֔ם]] [[H9005\|לְ]][[H5337\|הַצִּ֥יל]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H3027H\|יָּדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRESUMPTION|PRESUMPTION]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.13|<< 2 Chronicles 32:13]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.15|2 Chronicles 32:15 >>]]</td></tr></table>
 

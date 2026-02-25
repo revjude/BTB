@@ -1,8 +1,66 @@
+---
+title: Genesis 43:30
+type: Verse
+kjv: "And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there."
+bsb: "Joseph hurried out because he was moved to tears for his brother, and he went to a private room to weep."
+hebrew: "וַיְמַהֵ֣ר יוֹסֵ֗ף כִּֽי־ נִכְמְר֤וּ רַחֲמָיו֙ אֶל־ אָחִ֔יו וַיְבַקֵּ֖שׁ לִבְכּ֑וֹת וַיָּבֹ֥א הַחַ֖דְרָה וַיֵּ֥בְךְּ שָֽׁמָּה׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H3130G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3648]]"
+- "[[H7356B]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H0251G]]"
+- "[[H1245]]"
+- "[[H9005]]"
+- "[[H1058]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H2315]]"
+- "[[H9011]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:30**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph made haste; for his bowels did yearn upon his brother: and he sought [where] to weep; and he entered into [his] chamber, and wept there.
 <small><sub>**BSB:**</sub></small>
 Joseph hurried out because he was moved to tears for his brother, and he went to a private room to weep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4116A\|יְמַהֵ֣ר]] [[H3130G\|יוֹסֵ֗ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3648\|נִכְמְר֤וּ]] [[H7356B\|רַחֲמָי]][[H9023\|ו֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אָחִ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H1245\|יְבַקֵּ֖שׁ]] [[H9005\|לִ]][[H1058\|בְכּ֑וֹת]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H9009\|הַ]][[H2315\|חַ֖דְרָ]][[H9011\|ה]] [[H9001\|וַ]][[H1058\|יֵּ֥בְךְּ]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOWELS|BOWELS]] • [[topic BROTHER|BROTHER]] • [[topic DISSEMBLING|DISSEMBLING]] • [[topic HOUSE|HOUSE]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.29|<< Genesis 43:29]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.31|Genesis 43:31 >>]]</td></tr></table>
 

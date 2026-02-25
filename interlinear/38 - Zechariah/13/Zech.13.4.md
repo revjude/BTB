@@ -1,8 +1,65 @@
+---
+title: Zechariah 13:4
+type: Verse
+kjv: "And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:"
+bsb: "And on that day every prophet who prophesies will be ashamed of his vision, and he will not put on a hairy cloak in order to deceive."
+hebrew: "וְהָיָ֣ה׀ בַּיּ֣וֹם הַה֗וּא יֵבֹ֧שׁוּ הַנְּבִיאִ֛ים אִ֥ישׁ מֵחֶזְיֹנ֖וֹ בְּהִנָּֽבְאֹת֑וֹ וְלֹ֧א יִלְבְּשׁ֛וּ אַדֶּ֥רֶת שֵׂעָ֖ר לְמַ֥עַן כַּחֵֽשׁ׃"
+pericope: "[[Zech.13.1 An End to Idolatry|An End to Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 13
+book/chapter: "[[Zech.13|Zechariah 13]]"
+chronological_order: 869
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0954]]"
+- "[[H5030]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H2384]]"
+- "[[H9023]]"
+- "[[H5012]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3847]]"
+- "[[H0155]]"
+- "[[H8181]]"
+- "[[H4616]]"
+- "[[H3584]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 13:4**<big><big>[[Zech.13.1 An End to Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, [that] the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:
 <small><sub>**BSB:**</sub></small>
 And on that day every prophet who prophesies will be ashamed of his vision, and he will not put on a hairy cloak in order to deceive.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H0954\|יֵבֹ֧שׁוּ]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֛ים]] [[H0376I\|אִ֥ישׁ]] [[H9006\|מֵ]][[H2384\|חֶזְיֹנ֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H5012\|הִנָּֽבְאֹת֑]][[H9043\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֧א]] [[H3847\|יִלְבְּשׁ֛וּ]] [[H0155\|אַדֶּ֥רֶת]] [[H8181\|שֵׂעָ֖ר]] [[H4616\|לְמַ֥עַן]] [[H3584\|כַּחֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.3|<< Zechariah 13:3]]</td><td align="center" style="border:none;">[[Zech.13|Zechariah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.13.5|Zechariah 13:5 >>]]</td></tr></table>
 

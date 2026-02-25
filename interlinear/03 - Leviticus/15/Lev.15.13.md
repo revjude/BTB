@@ -1,8 +1,72 @@
+---
+title: Leviticus 15:13
+type: Verse
+kjv: "And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean."
+bsb: "When the man has been cleansed from his discharge, he must count off seven days for his cleansing, wash his clothes, and bathe himself in fresh water, and he shall be clean."
+hebrew: "וְכִֽי־ יִטְהַ֤ר הַזָּב֙ מִזּוֹב֔וֹ וְסָ֨פַר ל֜וֹ שִׁבְעַ֥ת יָמִ֛ים לְטָהֳרָת֖וֹ וְכִבֶּ֣ס בְּגָדָ֑יו וְרָחַ֧ץ בְּשָׂר֛וֹ בְּמַ֥יִם חַיִּ֖ים וְטָהֵֽר׃"
+pericope: "[[Lev.15.13 The Cleansing of Men|The Cleansing of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2891]]"
+- "[[H9009]]"
+- "[[H2100H]]"
+- "[[H9006]]"
+- "[[H2101]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H2893]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H7364]]"
+- "[[H1320]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:13**<big><big>[[Lev.15.13 The Cleansing of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean.
 <small><sub>**BSB:**</sub></small>
 When the man has been cleansed from his discharge, he must count off seven days for his cleansing, wash his clothes, and bathe himself in fresh water, and he shall be clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H2891\|יִטְהַ֤ר]] [[H9009\|הַ]][[H2100H\|זָּב֙]] [[H9006\|מִ]][[H2101\|זּוֹב֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H5608A\|סָ֨פַר]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֛ים]] [[H9005\|לְ]][[H2893\|טָהֳרָת֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H3526H\|כִבֶּ֣ס]] [[H0899B\|בְּגָדָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H7364\|רָחַ֧ץ]] [[H1320\|בְּשָׂר֛]][[H9023\|וֹ]] [[H9003\|בְּ]][[H4325G\|מַ֥יִם]] [[H2416A\|חַיִּ֖ים]] [[H9001\|וְ]][[H2891\|טָהֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.12|<< Leviticus 15:12]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.14|Leviticus 15:14 >>]]</td></tr></table>
 

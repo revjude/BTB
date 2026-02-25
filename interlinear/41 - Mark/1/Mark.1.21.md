@@ -1,10 +1,51 @@
+---
+title: Mark 1:21
+type: Verse
+kjv: "And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught."
+bsb: "Then Jesus and His companions went to Capernaum, and right away Jesus entered the synagogue on the Sabbath and began to teach."
+greek: "Καὶ εἰσπορεύονται εἰς Καφαρναούμ. καὶ εὐθὺς τοῖς σάββασιν εἰσελθὼν εἰς τὴν συναγωγὴν ἐδίδασκεν."
+pericope: "[[Mark.1.21 Jesus Expels an Unclean Spirit|Jesus Expels an Unclean Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1531]]"
+- "[[G1519]]"
+- "[[G2584]]"
+- "[[G2112]]"
+- "[[G3588]]"
+- "[[G4521]]"
+- "[[G1525]]"
+- "[[G4864]]"
+- "[[G1321]]"
+texts:
+- NKO
+---
+
 **Mark 1:21**<big><big>[[Mark.1.21 Jesus Expels an Unclean Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.
 <small><sub>**BSB:**</sub></small>
 Then Jesus and His companions went to Capernaum, and right away Jesus entered the synagogue on the Sabbath and began to teach.
-<small><sub>**Literal:**</sub></small>
-And they go into Capernaum. and immediately on the Sabbaths having entered into the synagogue He was teaching.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.20|<< Mark 1:20]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.22|Mark 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1531\|εἰσπορεύονται]]  [[G1519\|εἰς]]  [[G2584\|Καφαρναούμ.]]  [[G2532\|καὶ]]  [[G2112\|εὐθὺς]]  [[G3588\|τοῖς]]  [[G4521\|σάββασιν]]  [[G1525\|εἰσελθὼν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4864\|συναγωγὴν]]  [[G1321\|ἐδίδασκεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.20|<< Mark 1:20]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.22|Mark 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

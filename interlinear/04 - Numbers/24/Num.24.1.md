@@ -1,8 +1,71 @@
+---
+title: Numbers 24:1
+type: Verse
+kjv: "And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness."
+bsb: "And when Balaam saw that it pleased the LORD to bless Israel, he did not seek omens as on previous occasions, but he turned his face toward the wilderness."
+hebrew: "וַיַּ֣רְא בִּלְעָ֗ם כִּ֣י ט֞וֹב בְּעֵינֵ֤י יְהוָה֙ לְבָרֵ֣ךְ אֶת־ יִשְׂרָאֵ֔ל וְלֹא־ הָלַ֥ךְ כְּפַֽעַם־ בְּפַ֖עַם לִקְרַ֣את נְחָשִׁ֑ים וַיָּ֥שֶׁת אֶל־ הַמִּדְבָּ֖ר פָּנָֽיו׃"
+pericope: "[[Num.24.1 Balaam’s Third Oracle|Balaam’s Third Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H1109A]]"
+- "[[H3588A]]"
+- "[[H2895]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1980G]]"
+- "[[H9004]]"
+- "[[H6471]]"
+- "[[H7122H]]"
+- "[[H5173]]"
+- "[[H7896G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:1**<big><big>[[Num.24.1 Balaam’s Third Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.
 <small><sub>**BSB:**</sub></small>
 And when Balaam saw that it pleased the LORD to bless Israel, he did not seek omens as on previous occasions, but he turned his face toward the wilderness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H1109A\|בִּלְעָ֗ם]] [[H3588A\|כִּ֣י]] [[H2895\|ט֞וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֤י]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H1288\|בָרֵ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1980G\|הָלַ֥ךְ]] [[H9004\|כְּ]][[H6471\|פַֽעַם]][[H9014\|־]] [[H9003\|בְּ]][[H6471\|פַ֖עַם]] [[H9005\|לִ]][[H7122H\|קְרַ֣את]] [[H5173\|נְחָשִׁ֑ים]] [[H9001\|וַ]][[H7896G\|יָּ֥שֶׁת]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֖ר]] [[H6440H\|פָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.30|<< Numbers 23:30]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.2|Numbers 24:2 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 17:10
+type: Verse
+kjv: "And he also that is valiant, whose heart is as the heart of a lion, shall utterly melt: for all Israel knoweth that thy father is a mighty man, and they which be with him are valiant men."
+bsb: "Then even the most valiant soldier with the heart of a lion will melt with fear, because all Israel knows that your father is a mighty man who has valiant men with him."
+hebrew: "וְה֣וּא גַם־ בֶּן־ חַ֗יִל אֲשֶׁ֥ר לִבּ֛וֹ כְּלֵ֥ב הָאַרְיֵ֖ה הִמֵּ֣ס יִמָּ֑ס כִּֽי־ יֹדֵ֤עַ כָּל־ יִשְׂרָאֵל֙ כִּי־ גִבּ֣וֹר אָבִ֔יךָ וּבְנֵי־ חַ֖יִל אֲשֶׁ֥ר אִתּֽוֹ׃"
+pericope: "[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|Hushai Counters Ahithophel’s Advice]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic SPIES|SPIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1121K]]"
+- "[[H2428G]]"
+- "[[H0834A]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H0738B]]"
+- "[[H4549]]"
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H1368]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:10**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he also [that is] valiant, whose heart [is] as the heart of a lion, shall utterly melt: for all Israel knoweth that thy father [is] a mighty man, and [they] which [be] with him [are] valiant men.
 <small><sub>**BSB:**</sub></small>
 Then even the most valiant soldier with the heart of a lion will melt with fear, because all Israel knows that your father is a mighty man who has valiant men with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|ה֣וּא]] [[H1571\|גַם]][[H9014\|־]] [[H1121K\|בֶּן]][[H9014\|־]] [[H2428G\|חַ֗יִל]] [[H0834A\|אֲשֶׁ֥ר]] [[H3820A\|לִבּ֛]][[H9023\|וֹ]] [[H9004\|כְּ]][[H3820A\|לֵ֥ב]] [[H9009\|הָ]][[H0738B\|אַרְיֵ֖ה]] [[H4549\|הִמֵּ֣ס]] [[H4549\|יִמָּ֑ס]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3045\|יֹדֵ֤עַ]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H1368\|גִבּ֣וֹר]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H1121K\|בְנֵי]][[H9014\|־]] [[H2428G\|חַ֖יִל]] [[H0834A\|אֲשֶׁ֥ר]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic ARMIES|ARMIES]] • [[topic COUNCIL|COUNCIL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic SPIES|SPIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.9|<< 2 Samuel 17:9]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.11|2 Samuel 17:11 >>]]</td></tr></table>
 

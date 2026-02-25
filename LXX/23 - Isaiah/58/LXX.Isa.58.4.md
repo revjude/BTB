@@ -1,6 +1,58 @@
+---
+title: LXX Isaiah 58:4
+type: Verse
+lxx: "You fast for litigations and fights, and you beat the humble with your fists. Why do you fast to me as you do today? is it for your voice to be heard in a cry?"
+greek: "εις κρίσεις και μαχας νηστεύετε και τύπτετε πυγμαίς ταπεινόν ινατί μοι νηστεύετε ως σήμερον ακουσθήναι εν κραυγή την φωνήν υμών"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G1519]]"
+- "[[G2920]]"
+- "[[G2532]]"
+- "[[G3163]]"
+- "[[G3522]]"
+- "[[G2532]]"
+- "[[G5180]]"
+- "[[G4435]]"
+- "[[G5011]]"
+- "[[G2444]]"
+- "[[G1473]]"
+- "[[G3522]]"
+- "[[G5613]]"
+- "[[G4594]]"
+- "[[G0191]]"
+- "[[G1722]]"
+- "[[G2906]]"
+- "[[G3588]]"
+- "[[G5456]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 58:4** 
 <small><sub>**LXX:**</sub></small>
 You fast for litigations and fights, and you beat \[the\] humble \[with your\] fists. Why do you fast to me as \[you do\] today? \[is it for\] your voice to be heard in a cry? 
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εις]] [[G2920\|κρίσεις]] [[G2532\|και]] [[G3163\|μαχας]] [[G3522\|νηστεύετε]] [[G2532\|και]] [[G5180\|τύπτετε]] [[G4435\|πυγμαίς]] [[G5011\|ταπεινόν]] [[G2444\|ινατί]] [[G1473\|μοι]] [[G3522\|νηστεύετε]] [[G5613\|ως]] [[G4594\|σήμερον]] [[G0191\|ακουσθήναι]] [[G1722\|εν]] [[G2906\|κραυγή]] [[G3588\|την]] [[G5456\|φωνήν]] [[G1473\|υμών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.58.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.3|<< Isaiah 58:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.5|Isaiah 58:5 >>]]</td></tr></table>
 
@@ -25,6 +77,6 @@ You fast for litigations and fights, and you beat \[the\] humble \[with your\] f
 | a cry | **<big>[[G2906\|κραυγή]]</big>** |
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
 | \[is it for\] your voice | **<big>[[G5456\|φωνήν]]</big>** **<big>[[G1473\|υμών]]</big>** |
-[[Isa.58.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.3|<< Isaiah 58:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.5|Isaiah 58:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.58.3|<< Isaiah 58:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.58.5|Isaiah 58:5 >>]]</td></tr></table>
 
 

@@ -1,8 +1,64 @@
+---
+title: Jeremiah 3:21
+type: Verse
+kjv: "A voice was heard upon the high places, weeping and supplications of the children of Israel: for they have perverted their way, and they have forgotten the LORD their God."
+bsb: "A voice is heard on the barren heights, the children of Israel weeping and begging for mercy, because they have perverted their ways and forgotten the LORD their God."
+hebrew: "ק֚וֹל עַל־ שְׁפָיִ֣ים נִשְׁמָ֔ע בְּכִ֥י תַחֲנוּנֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל כִּ֤י הֶעֱוּוּ֙ אֶת־ דַּרְכָּ֔ם שָׁכְח֖וּ אֶת־ יְהֹוָ֥ה אֱלֹהֵיהֶֽם׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H6963A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8205]]"
+- "[[H8085G]]"
+- "[[H1065]]"
+- "[[H8469]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H5753A]]"
+- "[[H0853]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H7911]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:21**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A voice was heard upon the high places, weeping [and] supplications of the children of Israel: for they have perverted their way, [and] they have forgotten the LORD their God.
 <small><sub>**BSB:**</sub></small>
 A voice is heard on the barren heights, the children of Israel weeping and begging for mercy, because they have perverted their ways and forgotten the LORD their God.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֚וֹל]] [[H5921A\|עַל]][[H9014\|־]] [[H8205\|שְׁפָיִ֣ים]] [[H8085G\|נִשְׁמָ֔ע]] [[H1065\|בְּכִ֥י]] [[H8469\|תַחֲנוּנֵ֖י]] [[H1121A\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H3588A\|כִּ֤י]] [[H5753A\|הֶעֱוּוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּרְכָּ֔]][[H9028\|ם]] [[H7911\|שָׁכְח֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהֹוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.20|<< Jeremiah 3:20]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.22|Jeremiah 3:22 >>]]</td></tr></table>
 

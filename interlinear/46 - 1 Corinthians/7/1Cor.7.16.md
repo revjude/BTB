@@ -1,10 +1,52 @@
+---
+title: 1 Corinthians 7:16
+type: Verse
+kjv: "For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, O man, whether thou shalt save thy wife?"
+bsb: "How do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?"
+greek: "τί γὰρ οἶδας, γύναι, εἰ τὸν ἄνδρα σώσεις; ἢ τί οἶδας, ἄνερ, εἰ τὴν γυναῖκα σώσεις;"
+pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G6063]]"
+- "[[G1135H]]"
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G0435H]]"
+- "[[G4982]]"
+- "[[G2228]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 7:16**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For what knowest thou, O wife, whether thou shalt save [thy] husband? or how knowest thou, O man, whether thou shalt save [thy] wife?
 <small><sub>**BSB:**</sub></small>
 How do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?
-<small><sub>**Literal:**</sub></small>
-How for know you, wife, if the husband you will save? Or how know you, husband, if the wife you will save?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.15|<< 1 Corinthians 7:15]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.17|1 Corinthians 7:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G1063\|γὰρ]]  [[G6063\|οἶδας,]]  [[G1135H\|γύναι,]]  [[G1487G\|εἰ]]  [[G3588\|τὸν]]  [[G0435H\|ἄνδρα]]  [[G4982\|σώσεις;]]  [[G2228\|ἢ]]  [[G5101\|τί]]  [[G6063\|οἶδας,]]  [[G0435H\|ἄνερ,]]  [[G1487G\|εἰ]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G4982\|σώσεις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic HUSBAND|HUSBAND]] • [[topic INFLUENCE|INFLUENCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.15|<< 1 Corinthians 7:15]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.17|1 Corinthians 7:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

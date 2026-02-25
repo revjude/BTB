@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Earthly Tabernacle
+type: Pericope
 pericope: "[[Heb.9.1 The Earthly Tabernacle|The Earthly Tabernacle]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 9
 book/chapter: "[[Heb.9|Hebrews 9]]"
-genre:
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 10
 verses:
 - "[[Heb.9.1]]"
 - "[[Heb.9.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Heb.9.10]]"
 ---
 
-[[Heb.9|Hebrews 9:1 - Hebrews 9:10]]
+<small>[[Heb.9|Hebrews 9:1-10]]</small>
 *The Earthly Tabernacle*
 
 [[Heb.9.1|1]] Then verily the first \[covenant\] had also ordinances of divine service, and a worldly sanctuary.

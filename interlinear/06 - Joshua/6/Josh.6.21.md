@@ -1,8 +1,63 @@
+---
+title: Joshua 6:21
+type: Verse
+kjv: "And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword."
+bsb: "With the edge of the sword they devoted to destruction everything in the city—man and woman, young and old, oxen, sheep, and donkeys."
+hebrew: "וַֽיַּחֲרִ֙ימוּ֙ אֶת־ כָּל־ אֲשֶׁ֣ר בָּעִ֔יר מֵאִישׁ֙ וְעַד־ אִשָּׁ֔ה מִנַּ֖עַר וְעַד־ זָקֵ֑ן וְעַ֨ד שׁ֥וֹר וָשֶׂ֛ה וַחֲמ֖וֹר לְפִי־ חָֽרֶב׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic RAHAB|RAHAB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2763A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9006]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0802G]]"
+- "[[H5288]]"
+- "[[H2205H]]"
+- "[[H7794]]"
+- "[[H7716]]"
+- "[[H2543]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:21**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they utterly destroyed all that [was] in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
 <small><sub>**BSB:**</sub></small>
 With the edge of the sword they devoted to destruction everything in the city—man and woman, young and old, oxen, sheep, and donkeys.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2763A\|יַּחֲרִ֙ימוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בָּ]][[H5892B\|עִ֔יר]] [[H9006\|מֵ]][[H0376G\|אִישׁ֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0802G\|אִשָּׁ֔ה]] [[H9006\|מִ]][[H5288\|נַּ֖עַר]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H2205H\|זָקֵ֑ן]] [[H9002\|וְ]][[H5704\|עַ֨ד]] [[H7794\|שׁ֥וֹר]] [[H9002\|וָ]][[H7716\|שֶׂ֛ה]] [[H9002\|וַ]][[H2543\|חֲמ֖וֹר]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RAHAB|RAHAB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.20|<< Joshua 6:20]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.22|Joshua 6:22 >>]]</td></tr></table>
 

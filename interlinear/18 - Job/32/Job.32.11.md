@@ -1,8 +1,54 @@
+---
+title: Job 32:11
+type: Verse
+kjv: "Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say."
+bsb: "Indeed, I waited while you spoke; I listened to your reasoning; as you searched for words,"
+hebrew: "הֵ֤ן הוֹחַ֨לְתִּי לְֽדִבְרֵיכֶ֗ם אָ֭זִין עַד־ תְּב֥וּנֹֽתֵיכֶ֑ם עַֽד־ תַּחְקְר֥וּן מִלִּֽין׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H2005]]"
+- "[[H3176G]]"
+- "[[H9005]]"
+- "[[H1697G]]"
+- "[[H9026]]"
+- "[[H0238]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H8394]]"
+- "[[H2713]]"
+- "[[H9013]]"
+- "[[H4405]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:11**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say.
 <small><sub>**BSB:**</sub></small>
 Indeed, I waited while you spoke; I listened to your reasoning; as you searched for words,
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֤ן]] [[H3176G\|הוֹחַ֨לְתִּי]] [[H9005\|לְֽ]][[H1697G\|דִבְרֵי]][[H9026\|כֶ֗ם]] [[H0238\|אָ֭זִין]] [[H5704\|עַד]][[H9014\|־]] [[H8394\|תְּב֥וּנֹֽתֵי]][[H9026\|כֶ֑ם]] [[H5704\|עַֽד]][[H9014\|־]] [[H2713\|תַּחְקְר֥וּ]][[H9013\|ן]] [[H4405\|מִלִּֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.10|<< Job 32:10]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.12|Job 32:12 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Ezekiel 1:15
+type: Verse
+kjv: "Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces."
+bsb: "When I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces."
+hebrew: "וָאֵ֖רֶא הַחַיּ֑וֹת וְהִנֵּה֩ אוֹפַ֨ן אֶחָ֥ד בָּאָ֛רֶץ אֵ֥צֶל הַחַיּ֖וֹת לְאַרְבַּ֥עַת פָּנָֽיו׃"
+pericope: "[[Ezek.1.15 The Four Wheels|The Four Wheels]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H2416C]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0212]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0681]]"
+- "[[H9005]]"
+- "[[H0702]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:15**<big><big>[[Ezek.1.15 The Four Wheels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
 <small><sub>**BSB:**</sub></small>
 When I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֵ֖רֶא]] [[H9009\|הַ]][[H2416C\|חַיּ֑וֹת]] [[H9002\|וְ]][[H2009\|הִנֵּה֩]] [[H0212\|אוֹפַ֨ן]] [[H0259\|אֶחָ֥ד]] [[H9003\|בָּ]][[H0776G\|אָ֛רֶץ]] [[H0681\|אֵ֥צֶל]] [[H9009\|הַ]][[H2416C\|חַיּ֖וֹת]] [[H9005\|לְ]][[H0702\|אַרְבַּ֥עַת]] [[H6440H\|פָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.14|<< Ezekiel 1:14]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.16|Ezekiel 1:16 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Psalm 45:14
+type: Verse
+kjv: "She shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto thee."
+bsb: "In colorful garments she is led to the king; her virgin companions are brought before you."
+hebrew: "לִרְקָמוֹת֮ תּוּבַ֪ל לַ֫מֶּ֥לֶךְ בְּתוּל֣וֹת אַ֭חֲרֶיהָ רֵעוֹתֶ֑יהָ מ֖וּבָא֣וֹת לָֽךְ׃"
+pericope: "[[Ps.45.1 My Heart Is Stirred by a Noble Theme|My Heart Is Stirred by a Noble Theme]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 45
+book/chapter: "[[Ps.45|Psalm 45]]"
+chronological_order: 500
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H7553]]"
+- "[[H2986]]"
+- "[[H4428G]]"
+- "[[H1330]]"
+- "[[H0310A]]"
+- "[[H9034]]"
+- "[[H7464]]"
+- "[[H9024]]"
+- "[[H0935G]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 45:14**<big><big>[[Ps.45.1 My Heart Is Stirred by a Noble Theme|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto thee.
 <small><sub>**BSB:**</sub></small>
 In colorful garments she is led to the king; her virgin companions are brought before you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H7553\|רְקָמוֹת֮]] [[H2986\|תּוּבַ֪ל]] [[H9005\|לַ֫]][[H4428G\|מֶּ֥לֶךְ]] [[H1330\|בְּתוּל֣וֹת]] [[H0310A\|אַ֭חֲרֶי]][[H9034\|הָ]] [[H7464\|רֵעוֹתֶ֑י]][[H9024\|הָ]] [[H0935G\|מ֖וּבָא֣וֹת]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.45.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.45.13|<< Psalms 45:13]]</td><td align="center" style="border:none;">[[Ps.45|Psalms 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.45.15|Psalms 45:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

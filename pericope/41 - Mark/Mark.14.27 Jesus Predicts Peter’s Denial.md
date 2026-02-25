@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Predicts Peter’s Denial
+type: Pericope
 pericope: "[[Mark.14.27 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 14
 book/chapter: "[[Mark.14|Mark 14]]"
-genre:
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.14.27]]"
 - "[[Mark.14.28]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.14.31]]"
 ---
 
-[[Mark.14|Mark 14:27 - Mark 14:31]]
+<small>[[Mark.14|Mark 14:27-31]]</small>
 *Jesus Predicts Peter’s Denial*
 
 [[Mark.14.27|27]] And Jesus saith unto them, All ye shall be offended because of me this night: for it is written, I will smite the shepherd, and the sheep shall be scattered.

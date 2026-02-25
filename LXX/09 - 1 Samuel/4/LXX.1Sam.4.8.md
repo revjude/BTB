@@ -1,6 +1,77 @@
+---
+title: LXX 1 Samuel 4:8
+type: Verse
+lxx: "Woe to us, rescue us, O Master, today! for it happened not thus yesterday nor the third day before. Woe to us, who shall rescue us from out of the hand  of these substantial gods? These are the gods  striking  Egypt in every calamity, and in the wilderness."
+greek: "ουαί ημίν εξελού ημάς κύριε σήμερον ότι ου γέγονε ούτος εχθές και τρίτης ουαί ημίν τις εξελείται ημάς εκ χειρός των θεών των στερεωτέρων τούτων ούτοί εισιν οι θεοί οι πατάξαντες την Αίγυπτον εν πάση πληγή και εν τη ερήμω"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic ARK|ARK]]"
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[G3759]]"
+- "[[G1473]]"
+- "[[G1807]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G4594]]"
+- "[[G3754]]"
+- "[[G3756]]"
+- "[[G1096]]"
+- "[[G3778]]"
+- "[[G5504]]"
+- "[[G2532]]"
+- "[[G5154]]"
+- "[[G3759]]"
+- "[[G1473]]"
+- "[[G5100]]"
+- "[[G1807]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G4731]]"
+- "[[G3778]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G3960]]"
+- "[[G3588]]"
+- "[[G0125]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G4127]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2048]]"
+---
+
 **LXX 1 Samuel 4:8** 
 <small><sub>**LXX:**</sub></small>
 Woe to us, rescue us, O Master, today! for it happened not thus yesterday \[nor the\] third \[day before\]. Woe to us, who shall rescue us from out of \[the\] hand  of these substantial gods? These are the gods  striking  Egypt in every calamity, and in the wilderness. 
+<small><sub>**Greek:**</sub></small>
+[[G3759\|ουαί]] [[G1473\|ημίν]] [[G1807\|εξελού]] [[G1473\|ημάς]] [[G2962\|κύριε]] [[G4594\|σήμερον]] [[G3754\|ότι]] [[G3756\|ου]] [[G1096\|γέγονε]] [[G3778\|ούτος]] [[G5504\|εχθές]] [[G2532\|και]] [[G5154\|τρίτης]] [[G3759\|ουαί]] [[G1473\|ημίν]] [[G5100\|τις]] [[G1807\|εξελείται]] [[G1473\|ημάς]] [[G1537\|εκ]] [[G5495\|χειρός]] [[G3588\|των]] [[G2316\|θεών]] [[G3588\|των]] [[G4731\|στερεωτέρων]] [[G3778\|τούτων]] [[G3778\|ούτοί]] [[G1510\|εισιν]] [[G3588\|οι]] [[G2316\|θεοί]] [[G3588\|οι]] [[G3960\|πατάξαντες]] [[G3588\|την]] [[G0125\|Αίγυπτον]] [[G1722\|εν]] [[G3956\|πάση]] [[G4127\|πληγή]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τη]] [[G2048\|ερήμω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic ARK|ARK]] • [[topic ARMIES|ARMIES]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.7|<< 1 Samuel 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.9|1 Samuel 4:9 >>]]</td></tr></table>
 
@@ -45,6 +116,6 @@ Woe to us, rescue us, O Master, today! for it happened not thus yesterday \[nor 
 | in | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|τη]]</big>** |
 | wilderness. | **<big>[[G2048\|ερήμω]]</big>** |
-[[1Sam.4.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.7|<< 1 Samuel 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.9|1 Samuel 4:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.7|<< 1 Samuel 4:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.4.9|1 Samuel 4:9 >>]]</td></tr></table>
 
 

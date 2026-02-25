@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 15:18
+type: Verse
+kjv: "And he brought into the house of God the things that his father had dedicated, and that he himself had dedicated, silver, and gold, and vessels."
+bsb: "And he brought into the house of God the silver and gold and the articles that he and his father had dedicated."
+hebrew: "וַיָּבֵ֞א אֶת־ קָדְשֵׁ֥י אָבִ֛יו וְקָֽדָשָׁ֖יו בֵּ֣ית הָאֱלֹהִ֑ים כֶּ֥סֶף וְזָהָ֖ב וְכֵלִֽים׃"
+pericope: "[[2Chr.15.8 Asa’s Reforms|Asa’s Reforms]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 15
+book/chapter: "[[2Chr.15|2 Chronicles 15]]"
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1004Q]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H3627]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 15:18**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought into the house of God the things that his father had dedicated, and that he himself had dedicated, silver, and gold, and vessels.
 <small><sub>**BSB:**</sub></small>
 And he brought into the house of God the silver and gold and the articles that he and his father had dedicated.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֞א]] [[H0853\|אֶת]][[H9014\|־]] [[H6944G\|קָדְשֵׁ֥י]] [[H0001G\|אָבִ֛י]][[H9023\|ו]] [[H9002\|וְ]][[H6944G\|קָֽדָשָׁ֖י]][[H9023\|ו]] [[H1004Q\|בֵּ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H3701G\|כֶּ֥סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֖ב]] [[H9002\|וְ]][[H3627\|כֵלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.17|<< 2 Chronicles 15:17]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.19|2 Chronicles 15:19 >>]]</td></tr></table>
 

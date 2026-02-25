@@ -1,8 +1,68 @@
+---
+title: Leviticus 8:13
+type: Verse
+kjv: "And Moses brought Aaron’s sons, and put coats upon them, and girded them with girdles, and put bonnets upon them; as the LORD commanded Moses."
+bsb: "Then Moses presented Aaron’s sons, put tunics on them, wrapped sashes around them, and tied headbands on them, just as the LORD had commanded him."
+hebrew: "וַיַּקְרֵ֨ב מֹשֶׁ֜ה אֶת־ בְּנֵ֣י אַהֲרֹ֗ן וַיַּלְבִּשֵׁ֤ם כֻּתֳּנֹת֙ וַיַּחְגֹּ֤ר אֹתָם֙ אַבְנֵ֔ט וַיַּחֲבֹ֥שׁ לָהֶ֖ם מִגְבָּע֑וֹת כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃"
+pericope: "[[Lev.8.1 Moses Consecrates Aaron and His Sons|Moses Consecrates Aaron and His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BONNET|BONNET]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H3847]]"
+- "[[H9038]]"
+- "[[H3801]]"
+- "[[H2296]]"
+- "[[H0073]]"
+- "[[H2280]]"
+- "[[H9005]]"
+- "[[H4021]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:13**<big><big>[[Lev.8.1 Moses Consecrates Aaron and His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses brought Aaron’s sons, and put coats upon them, and girded them with girdles, and put bonnets upon them; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 Then Moses presented Aaron’s sons, put tunics on them, wrapped sashes around them, and tied headbands on them, just as the LORD had commanded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126H\|יַּקְרֵ֨ב]] [[H4872\|מֹשֶׁ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵ֣י]] [[H0175\|אַהֲרֹ֗ן]] [[H9001\|וַ]][[H3847\|יַּלְבִּשֵׁ֤]][[H9038\|ם]] [[H3801\|כֻּתֳּנֹת֙]] [[H9001\|וַ]][[H2296\|יַּחְגֹּ֤ר]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H0073\|אַבְנֵ֔ט]] [[H9001\|וַ]][[H2280\|יַּחֲבֹ֥שׁ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H4021\|מִגְבָּע֑וֹת]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONNET|BONNET]] • [[topic EPHOD|EPHOD]] • [[topic GIRDLE|GIRDLE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.12|<< Leviticus 8:12]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.14|Leviticus 8:14 >>]]</td></tr></table>
 

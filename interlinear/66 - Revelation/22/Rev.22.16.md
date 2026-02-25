@@ -1,10 +1,67 @@
+---
+title: Revelation 22:16
+type: Verse
+kjv: "I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star."
+bsb: "“I, Jesus, have sent My angel to give you this testimony for the churches. I am the Root and the Offspring of David, the bright Morning Star.”"
+jesus_said: "I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, and the bright and morning star."
+greek: "Ἐγὼ Ἰησοῦς ἔπεμψα τὸν ἄγγελόν μου μαρτυρῆσαι ὑμῖν ταῦτα ἐπὶ ταῖς ἐκκλησίαις. ἐγώ εἰμι ἡ ῥίζα καὶ τὸ γένος τοῦ Δαυίδ, ὁ ἀστὴρ ὁ λαμπρὸς ὁ πρωϊνός."
+pericope: "[[Rev.22.6 Jesus Is Coming|Jesus Is Coming]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic STARS|STARS]]"
+strongs:
+- "[[G1473]]"
+- "[[G2424G]]"
+- "[[G3992]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G3165]]"
+- "[[G3140]]"
+- "[[G4771]]"
+- "[[G3778]]"
+- "[[G1909]]"
+- "[[G1577]]"
+- "[[G1510]]"
+- "[[G4491]]"
+- "[[G2532]]"
+- "[[G1085G]]"
+- "[[G1138]]"
+- "[[G0792]]"
+- "[[G2986]]"
+- "[[G4407]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Revelation 22:16**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, [and] the bright and morning star.
 <small><sub>**BSB:**</sub></small>
 “I, Jesus, have sent My angel to give you this testimony for the churches. I am the Root and the Offspring of David, the bright Morning Star.”
-<small><sub>**Literal:**</sub></small>
-I myself Jesus sent the angel of Mine to testify to you these things in the churches. I myself am the root and the offspring <the> of David, the star the bright the morning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.15|<< Revelation 22:15]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.17|Revelation 22:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|Ἐγὼ]]  [[G2424G\|Ἰησοῦς]]  [[G3992\|ἔπεμψα]]  [[G3588\|τὸν]]  [[G0032G\|ἄγγελόν]]  [[G3165\|μου]]  [[G3140\|μαρτυρῆσαι]]  [[G4771\|ὑμῖν]]  [[G3778\|ταῦτα]]  [[G1909\|ἐπὶ]]  [[G3588\|ταῖς]]  [[G1577\|ἐκκλησίαις.]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|ἡ]]  [[G4491\|ῥίζα]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1085G\|γένος]]  [[G3588\|τοῦ]]  [[G1138\|Δαυίδ,]]  [[G3588\|ὁ]]  [[G0792\|ἀστὴρ]]  [[G3588\|ὁ]]  [[G2986\|λαμπρὸς]]  [[G3588\|ὁ]]  [[G4407\|πρωϊνός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic STARS|STARS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.15|<< Revelation 22:15]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.17|Revelation 22:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 22:16** is...
 > $\quad$ alluding to: [[LXX.Isa.11.1|Isa 11:1]] ☩ [[LXX.Isa.11.10|Isa 11:10]]

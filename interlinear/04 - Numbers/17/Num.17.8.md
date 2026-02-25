@@ -1,8 +1,72 @@
+---
+title: Numbers 17:8
+type: Verse
+kjv: "And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds."
+bsb: "The next day Moses entered the Tent of the Testimony and saw that Aaron’s staff, representing the house of Levi, had sprouted, put forth buds, blossomed, and produced almonds."
+hebrew: "וַיְהִ֣י מִֽמָּחֳרָ֗ת וַיָּבֹ֤א מֹשֶׁה֙ אֶל־ אֹ֣הֶל הָעֵד֔וּת וְהִנֵּ֛ה פָּרַ֥ח מַטֵּֽה־ אַהֲרֹ֖ן לְבֵ֣ית לֵוִ֑י וַיֹּ֤צֵֽא פֶ֙רַח֙ וַיָּ֣צֵֽץ צִ֔יץ וַיִּגְמֹ֖ל שְׁקֵדִֽים׃"
+pericope: "[[Num.17.1 Aaron’s Staff Buds|Aaron’s Staff Buds]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 17
+book/chapter: "[[Num.17|Numbers 17]]"
+chronological_order: 177
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H0935G]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0168G]]"
+- "[[H9009]]"
+- "[[H5715]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H6524A]]"
+- "[[H4294G]]"
+- "[[H0175]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H3878]]"
+- "[[H3318M]]"
+- "[[H6525]]"
+- "[[H6692A]]"
+- "[[H6731A]]"
+- "[[H1580]]"
+- "[[H8247]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 17:8**<big><big>[[Num.17.1 Aaron’s Staff Buds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.
 <small><sub>**BSB:**</sub></small>
 The next day Moses entered the Tent of the Testimony and saw that Aaron’s staff, representing the house of Levi, had sprouted, put forth buds, blossomed, and produced almonds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9006\|מִֽ]][[H4283\|מָּחֳרָ֗ת]] [[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H4872\|מֹשֶׁה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H9009\|הָ]][[H5715\|עֵד֔וּת]] [[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H6524A\|פָּרַ֥ח]] [[H4294G\|מַטֵּֽה]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H3878\|לֵוִ֑י]] [[H9001\|וַ]][[H3318M\|יֹּ֤צֵֽא]] [[H6525\|פֶ֙רַח֙]] [[H9001\|וַ]][[H6692A\|יָּ֣צֵֽץ]] [[H6731A\|צִ֔יץ]] [[H9001\|וַ]][[H1580\|יִּגְמֹ֖ל]] [[H8247\|שְׁקֵדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MIRACLES|MIRACLES]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.17.7|<< Numbers 17:7]]</td><td align="center" style="border:none;">[[Num.17|Numbers 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.17.9|Numbers 17:9 >>]]</td></tr></table>
 

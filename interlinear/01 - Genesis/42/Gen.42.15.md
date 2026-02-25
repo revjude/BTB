@@ -1,8 +1,63 @@
+---
+title: Genesis 42:15
+type: Verse
+kjv: "Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither."
+bsb: "And this is how you will be tested: As surely as Pharaoh lives, you shall not leave this place unless your youngest brother comes here."
+hebrew: "בְּזֹ֖את תִּבָּחֵ֑נוּ חֵ֤י פַרְעֹה֙ אִם־ תֵּצְא֣וּ מִזֶּ֔ה כִּ֧י אִם־ בְּב֛וֹא אֲחִיכֶ֥ם הַקָּטֹ֖ן הֵֽנָּה׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+strongs:
+- "[[H9003]]"
+- "[[H2063]]"
+- "[[H0974]]"
+- "[[H2416A]]"
+- "[[H6547H]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H0935G]]"
+- "[[H0251G]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H6996H]]"
+- "[[H2008]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:15**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hereby ye shall be proved: By the life of Pharaoh ye shall not go forth hence, except your youngest brother come hither.
 <small><sub>**BSB:**</sub></small>
 And this is how you will be tested: As surely as Pharaoh lives, you shall not leave this place unless your youngest brother comes here.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2063\|זֹ֖את]] [[H0974\|תִּבָּחֵ֑נוּ]] [[H2416A\|חֵ֤י]] [[H6547H\|פַרְעֹה֙]] [[H0518H\|אִם]][[H9014\|־]] [[H3318G\|תֵּצְא֣וּ]] [[H9006\|מִ]][[H2088\|זֶּ֔ה]] [[H3588B\|כִּ֧י]] [[H0518B\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H0935G\|ב֛וֹא]] [[H0251G\|אֲחִי]][[H9026\|כֶ֥ם]] [[H9009\|הַ]][[H6996H\|קָּטֹ֖ן]] [[H2008\|הֵֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic DISSEMBLING|DISSEMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.14|<< Genesis 42:14]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.16|Genesis 42:16 >>]]</td></tr></table>
 

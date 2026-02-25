@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elihu Recalls God’s Justice
+type: Pericope
 pericope: "[[Job.35.1 Elihu Recalls God’s Justice|Elihu Recalls God’s Justice]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 35
 book/chapter: "[[Job.35|Job 35]]"
-genre:
+chronological_order: 46
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 16
 verses:
 - "[[Job.35.1]]"
 - "[[Job.35.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Job.35.16]]"
 ---
 
-[[Job.35|Job 35:1 - Job 35:16]]
+<small>[[Job.35|Job 35:1-16]]</small>
 *Elihu Recalls God’s Justice*
 
 [[Job.35.1|1]] Elihu spake moreover, and said,

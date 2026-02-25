@@ -1,10 +1,51 @@
+---
+title: 1 Corinthians 16:13
+type: Verse
+kjv: "Watch ye, stand fast in the faith, quit you like men, be strong."
+bsb: "Be on the alert. Stand firm in the faith. Be men of courage. Be strong."
+greek: "Γρηγορεῖτε, στήκετε ἐν τῇ πίστει, ἀνδρίζεσθε, κραταιοῦσθε."
+pericope: "[[1Cor.16.13 Concluding Exhortations|Concluding Exhortations]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1127]]"
+- "[[G4739]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G0407]]"
+- "[[G2901]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:13**<big><big>[[1Cor.16.13 Concluding Exhortations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Watch ye, stand fast in the faith, quit you like men, be strong.
 <small><sub>**BSB:**</sub></small>
 Be on the alert. Stand firm in the faith. Be men of courage. Be strong.
-<small><sub>**Literal:**</sub></small>
-do watch, do stand firm in the faith, do act like men, do be strong.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.12|<< 1 Corinthians 16:12]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.14|1 Corinthians 16:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1127\|Γρηγορεῖτε,]]  [[G4739\|στήκετε]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4102G\|πίστει,]]  [[G0407\|ἀνδρίζεσθε,]]  [[G2901\|κραταιοῦσθε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic WAR|WAR]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.12|<< 1 Corinthians 16:12]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.14|1 Corinthians 16:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

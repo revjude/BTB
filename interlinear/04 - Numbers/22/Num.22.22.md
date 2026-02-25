@@ -1,8 +1,74 @@
+---
+title: Numbers 22:22
+type: Verse
+kjv: "And God’s anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants were with him."
+bsb: "Then God’s anger was kindled because Balaam was going along, and the angel of the LORD stood in the road to oppose him. Balaam was riding his donkey, and his two servants were with him."
+hebrew: "וַיִּֽחַר־ אַ֣ף אֱלֹהִים֮ כִּֽי־ הוֹלֵ֣ךְ הוּא֒ וַיִּתְיַצֵּ֞ב מַלְאַ֧ךְ יְהוָ֛ה בַּדֶּ֖רֶךְ לְשָׂטָ֣ן ל֑וֹ וְהוּא֙ רֹכֵ֣ב עַל־ אֲתֹנ֔וֹ וּשְׁנֵ֥י נְעָרָ֖יו עִמּֽוֹ׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H1980G]]"
+- "[[H1931]]"
+- "[[H3320]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H9005]]"
+- "[[H7854]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H0860]]"
+- "[[H9023]]"
+- "[[H8147]]"
+- "[[H5288]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:22**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God’s anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants [were] with him.
 <small><sub>**BSB:**</sub></small>
 Then God’s anger was kindled because Balaam was going along, and the angel of the LORD stood in the road to oppose him. Balaam was riding his donkey, and his two servants were with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֣ף]] [[H0430G\|אֱלֹהִים֮]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1980G\|הוֹלֵ֣ךְ]] [[H1931\|הוּא֒]] [[H9001\|וַ]][[H3320\|יִּתְיַצֵּ֞ב]] [[H4397H\|מַלְאַ֧ךְ]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בַּ]][[H1870L\|דֶּ֖רֶךְ]] [[H9005\|לְ]][[H7854\|שָׂטָ֣ן]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H7392\|רֹכֵ֣ב]] [[H5921A\|עַל]][[H9014\|־]] [[H0860\|אֲתֹנ֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H8147\|שְׁנֵ֥י]] [[H5288\|נְעָרָ֖י]][[H9023\|ו]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BALAAM|BALAAM]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.21|<< Numbers 22:21]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.23|Numbers 22:23 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Mark 2:4
+type: Verse
+kjv: "And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken it up, they let down the bed wherein the sick of the palsy lay."
+bsb: "Since they were unable to get to Jesus through the crowd, they uncovered the roof above Him, made an opening, and lowered the paralytic on his mat."
+greek: "καὶ μὴ δυνάμενοι προσενέγκαι αὐτῷ διὰ τὸν ὄχλον ἀπεστέγασαν τὴν στέγην ὅπου ἦν καὶ ἐξορύξαντες χαλῶσιν τὸν κράβαττον ὅπου ὁ παραλυτικὸς κατέκειτο."
+pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G4374]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G0648]]"
+- "[[G4721]]"
+- "[[G3699]]"
+- "[[G1510]]"
+- "[[G1846]]"
+- "[[G5465]]"
+- "[[G2895]]"
+- "[[G3885]]"
+- "[[G2621]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 2:4**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they could not come nigh unto him for the press, they uncovered the roof where he was: and when they had broken [it] up, they let down the bed wherein the sick of the palsy lay.
 <small><sub>**BSB:**</sub></small>
 Since they were unable to get to Jesus through the crowd, they uncovered the roof above Him, made an opening, and lowered the paralytic on his mat.
-<small><sub>**Literal:**</sub></small>
-And not being able to bring to to Him on account of the crowd they removed the roof where He was and having broken up [it] they let down the pallet where the paralytic was lying.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.3|<< Mark 2:3]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.5|Mark 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1410\|δυνάμενοι]]  [[G4374\|προσενέγκαι]]  [[G0846\|αὐτῷ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G0648\|ἀπεστέγασαν]]  [[G3588\|τὴν]]  [[G4721\|στέγην]]  [[G3699\|ὅπου]]  [[G1510\|ἦν]]  [[G2532\|καὶ]]  [[G1846\|ἐξορύξαντες]]  [[G5465\|χαλῶσιν]]  [[G3588\|τὸν]]  [[G2895\|κράβαττον]]  [[G3699\|ὅπου]]  [[G3588\|ὁ]]  [[G3885\|παραλυτικὸς]]  [[G2621\|κατέκειτο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.3|<< Mark 2:3]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.5|Mark 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

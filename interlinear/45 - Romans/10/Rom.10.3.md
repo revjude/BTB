@@ -1,10 +1,56 @@
+---
+title: Romans 10:3
+type: Verse
+kjv: "For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God."
+bsb: "Because they were ignorant of God’s righteousness and sought to establish their own, they did not submit to God’s righteousness."
+greek: "ἀγνοοῦντες γὰρ τὴν τοῦ θεοῦ δικαιοσύνην καὶ τὴν ἰδίαν δικαιοσύνην ζητοῦντες στῆσαι τῇ δικαιοσύνῃ τοῦ θεοῦ οὐχ ὑπετάγησαν.¶"
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0050]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1343]]"
+- "[[G2532]]"
+- "[[G2398]]"
+- "[[G2212]]"
+- "[[G2476]]"
+- "[[G3756]]"
+- "[[G5293]]"
+texts:
+- NKO
+---
+
 **Romans 10:3**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they being ignorant of God’s righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.
 <small><sub>**BSB:**</sub></small>
 Because they were ignorant of God’s righteousness and sought to establish their own, they did not submit to God’s righteousness.
-<small><sub>**Literal:**</sub></small>
-Being ignorant of for the <the> of God righteousness and the [their] own righteousness seeking to establish to the righteousness <the> of God not they submitted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.2|<< Romans 10:2]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.4|Romans 10:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0050\|ἀγνοοῦντες]]  [[G1063\|γὰρ]]  [[G3588\|τὴν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1343\|δικαιοσύνην]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2398\|ἰδίαν]]  [[G1343\|δικαιοσύνην]]  [[G2212\|ζητοῦντες]]  [[G2476\|στῆσαι]]  [[G3588\|τῇ]]  [[G1343\|δικαιοσύνῃ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3756\|οὐχ]]  [[G5293\|ὑπετάγησαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic GOD|GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RELIGION|RELIGION]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.2|<< Romans 10:2]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.4|Romans 10:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

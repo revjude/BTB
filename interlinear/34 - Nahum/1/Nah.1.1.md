@@ -1,8 +1,44 @@
+---
+title: Nahum 1:1
+type: Verse
+kjv: "The burden of Nineveh. The book of the vision of Nahum the Elkoshite."
+bsb: "This is the burden against Nineveh, the book of the vision of Nahum the Elkoshite:"
+hebrew: "מַשָּׂ֖א נִֽינְוֵ֑ה סֵ֧פֶר חֲז֛וֹן נַח֖וּם הָאֶלְקֹשִֽׁי׃"
+pericope: "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 1
+book/chapter: "[[Nah.1|Nahum 1]]"
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H4853B]]"
+- "[[H5210]]"
+- "[[H5612H]]"
+- "[[H2377]]"
+- "[[H5151]]"
+- "[[H9009]]"
+- "[[H0512]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 1:1**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of Nineveh. The book of the vision of Nahum the Elkoshite.
 <small><sub>**BSB:**</sub></small>
 This is the burden against Nineveh, the book of the vision of Nahum the Elkoshite:
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֖א]] [[H5210\|נִֽינְוֵ֑ה]] [[H5612H\|סֵ֧פֶר]] [[H2377\|חֲז֛וֹן]] [[H5151\|נַח֖וּם]] [[H9009\|הָ]][[H0512\|אֶלְקֹשִֽׁי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.20|<< Micah 7:20]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.2|Nahum 1:2 >>]]</td></tr></table>
 

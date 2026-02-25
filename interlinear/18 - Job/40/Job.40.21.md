@@ -1,8 +1,51 @@
+---
+title: Job 40:21
+type: Verse
+kjv: "He lieth under the shady trees, in the covert of the reed, and fens."
+bsb: "He lies under the lotus plants, hidden among the reeds of the marsh."
+hebrew: "תַּֽחַת־ צֶאֱלִ֥ים יִשְׁכָּ֑ב בְּסֵ֖תֶר קָנֶ֣ה וּבִצָּֽה׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8478G]]"
+- "[[H9014]]"
+- "[[H6628]]"
+- "[[H7901G]]"
+- "[[H9003]]"
+- "[[H5643A]]"
+- "[[H7070H]]"
+- "[[H9002]]"
+- "[[H1207]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:21**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He lieth under the shady trees, in the covert of the reed, and fens.
 <small><sub>**BSB:**</sub></small>
 He lies under the lotus plants, hidden among the reeds of the marsh.
+<small><sub>**Hebrew:**</sub></small>
+[[H8478G\|תַּֽחַת]][[H9014\|־]] [[H6628\|צֶאֱלִ֥ים]] [[H7901G\|יִשְׁכָּ֑ב]] [[H9003\|בְּ]][[H5643A\|סֵ֖תֶר]] [[H7070H\|קָנֶ֣ה]] [[H9002\|וּ]][[H1207\|בִצָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.20|<< Job 40:20]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.22|Job 40:22 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Judges 20:27
+type: Verse
+kjv: "And the children of Israel inquired of the LORD, (for the ark of the covenant of God was there in those days,"
+bsb: "And the Israelites inquired of the LORD. (In those days the ark of the covenant of God was there,"
+hebrew: "וַיִּשְׁאֲל֥וּ בְנֵֽי־ יִשְׂרָאֵ֖ל בַּֽיהוָ֑ה וְשָׁ֗ם אֲרוֹן֙ בְּרִ֣ית הָאֱלֹהִ֔ים בַּיָּמִ֖ים הָהֵֽם׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H3117G]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:27**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel inquired of the LORD, (for the ark of the covenant of God [was] there in those days,
 <small><sub>**BSB:**</sub></small>
 And the Israelites inquired of the LORD. (In those days the ark of the covenant of God was there,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאֲל֥וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֑ה]] [[H9002\|וְ]][[H8033G\|שָׁ֗ם]] [[H0727\|אֲרוֹן֙]] [[H1285\|בְּרִ֣ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9003\|בַּ]][[H3117G\|יָּמִ֖ים]] [[H9009\|הָ]][[H1992\|הֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.26|<< Judges 20:26]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.28|Judges 20:28 >>]]</td></tr></table>
 

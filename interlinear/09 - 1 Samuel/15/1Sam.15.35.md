@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 15:35
+type: Verse
+kjv: "And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel."
+bsb: "And to the day of his death, Samuel never again visited Saul. Samuel mourned for Saul, and the LORD regretted that He had made Saul king over Israel."
+hebrew: "וְלֹא־ יָסַ֨ף שְׁמוּאֵ֜ל לִרְא֤וֹת אֶת־ שָׁאוּל֙ עַד־ י֣וֹם מוֹת֔וֹ כִּֽי־ הִתְאַבֵּ֥ל שְׁמוּאֵ֖ל אֶל־ שָׁא֑וּל וַיהוָ֣ה נִחָ֔ם כִּֽי־ הִמְלִ֥יךְ אֶת־ שָׁא֖וּל עַל־ יִשְׂרָאֵֽל׃ פ"
+pericope: "[[1Sam.15.24 Saul’s Confession|Saul’s Confession]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H8050G]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H7586G]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H4194]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H0056]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H5162H]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 15:35**<big><big>[[1Sam.15.24 Saul’s Confession|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel.
 <small><sub>**BSB:**</sub></small>
 And to the day of his death, Samuel never again visited Saul. Samuel mourned for Saul, and the LORD regretted that He had made Saul king over Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3254G\|יָסַ֨ף]] [[H8050G\|שְׁמוּאֵ֜ל]] [[H9005\|לִ]][[H7200G\|רְא֤וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H7586G\|שָׁאוּל֙]] [[H5704\|עַד]][[H9014\|־]] [[H3117G\|י֣וֹם]] [[H4194\|מוֹת֔]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0056\|הִתְאַבֵּ֥ל]] [[H8050G\|שְׁמוּאֵ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֑וּל]] [[H9002\|וַ]][[H3068G\|יהוָ֣ה]] [[H5162H\|נִחָ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4427A\|הִמְלִ֥יךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.34|<< 1 Samuel 15:34]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.1|1 Samuel 16:1 >>]]</td></tr></table>
 
@@ -29,7 +91,7 @@ And to the day of his death, Samuel never again visited Saul. Samuel mourned for
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֖וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.34|<< 1 Samuel 15:34]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.1|1 Samuel 16:1 >>]]</td></tr></table>
 
 

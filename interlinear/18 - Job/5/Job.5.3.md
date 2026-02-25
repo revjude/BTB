@@ -1,8 +1,53 @@
+---
+title: Job 5:3
+type: Verse
+kjv: "I have seen the foolish taking root: but suddenly I cursed his habitation."
+bsb: "I have seen a fool taking root, but suddenly his house was cursed."
+hebrew: "אֲֽנִי־ רָ֭אִיתִי אֱוִ֣יל מַשְׁרִ֑ישׁ וָאֶקּ֖וֹב נָוֵ֣הוּ פִתְאֹֽם׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0589]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H0191]]"
+- "[[H8327]]"
+- "[[H9001]]"
+- "[[H6895]]"
+- "[[H5116A]]"
+- "[[H9023]]"
+- "[[H6597]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:3**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have seen the foolish taking root: but suddenly I cursed his habitation.
 <small><sub>**BSB:**</sub></small>
 I have seen a fool taking root, but suddenly his house was cursed.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲֽנִי]][[H9014\|־]] [[H7200G\|רָ֭אִיתִי]] [[H0191\|אֱוִ֣יל]] [[H8327\|מַשְׁרִ֑ישׁ]] [[H9001\|וָ]][[H6895\|אֶקּ֖וֹב]] [[H5116A\|נָוֵ֣]][[H9023\|הוּ]] [[H6597\|פִתְאֹֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.2|<< Job 5:2]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.4|Job 5:4 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 24:8
+type: Verse
+kjv: "And at the king’s commandment they made a chest, and set it without at the gate of the house of the LORD."
+bsb: "At the king’s command a chest was made and placed outside, at the gate of the house of the LORD."
+hebrew: "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ וַֽיַּעֲשׂ֖וּ אֲר֣וֹן אֶחָ֑ד וַֽיִּתְּנֻ֛הוּ בְּשַׁ֥עַר בֵּית־ יְהוָ֖ה חֽוּצָה׃"
+pericope: "[[2Chr.24.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHEST|CHEST]]"
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6213H]]"
+- "[[H0727]]"
+- "[[H0259]]"
+- "[[H5414H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:8**<big><big>[[2Chr.24.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at the king’s commandment they made a chest, and set it without at the gate of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 At the king’s command a chest was made and placed outside, at the gate of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַֽ]][[H6213H\|יַּעֲשׂ֖וּ]] [[H0727\|אֲר֣וֹן]] [[H0259\|אֶחָ֑ד]] [[H9001\|וַֽ]][[H5414H\|יִּתְּנֻ֛]][[H9033\|הוּ]] [[H9003\|בְּ]][[H8179G\|שַׁ֥עַר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H2351\|חֽוּצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEST|CHEST]] • [[topic JEHOIADA|JEHOIADA]] • [[topic JOASH|JOASH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.7|<< 2 Chronicles 24:7]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.9|2 Chronicles 24:9 >>]]</td></tr></table>
 

@@ -1,10 +1,70 @@
+---
+title: Luke 16:1
+type: Verse
+kjv: "And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods."
+bsb: "Jesus also said to His disciples, “There was a rich man whose manager was accused of wasting his possessions."
+jesus_said: "There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods."
+greek: "Ἔλεγεν δὲ καὶ πρὸς τοὺς μαθητάς αὐτοῦ· ἄνθρωπός τις ἦν πλούσιος ὃς εἶχεν οἰκονόμον, καὶ οὗτος διεβλήθη αὐτῷ ὡς διασκορπίζων τὰ ὑπάρχοντα αὐτοῦ."
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMBEZZLEMENT|EMBEZZLEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G0444]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G4145]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G3623]]"
+- "[[G3778]]"
+- "[[G1225]]"
+- "[[G5613]]"
+- "[[G1287]]"
+- "[[G5225]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 16:1**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.
 <small><sub>**BSB:**</sub></small>
 Jesus also said to His disciples, “There was a rich man whose manager was accused of wasting his possessions.
-<small><sub>**Literal:**</sub></small>
-He was saying now also to the disciples of him: A man certain there was rich who had a manager, and he was accused unto him as wasting the possessions of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.32|<< Luke 15:32]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.2|Luke 16:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Ἔλεγεν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητάς]]  [[G0846\|αὐτοῦ·]]  [[G0444\|ἄνθρωπός]]  [[G5100\|τις]]  [[G1510\|ἦν]]  [[G4145\|πλούσιος]]  [[G3739\|ὃς]]  [[G2192\|εἶχεν]]  [[G3623\|οἰκονόμον,]]  [[G2532\|καὶ]]  [[G3778\|οὗτος]]  [[G1225\|διεβλήθη]]  [[G0846\|αὐτῷ]]  [[G5613\|ὡς]]  [[G1287\|διασκορπίζων]]  [[G3588\|τὰ]]  [[G5225\|ὑπάρχοντα]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EMBEZZLEMENT|EMBEZZLEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic PROBATION|PROBATION]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.32|<< Luke 15:32]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.2|Luke 16:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

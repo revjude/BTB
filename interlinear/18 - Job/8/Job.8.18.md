@@ -1,8 +1,55 @@
+---
+title: Job 8:18
+type: Verse
+kjv: "If he destroy him from his place, then it shall deny him, saying, I have not seen thee."
+bsb: "If he is uprooted from his place, it will disown him, saying, ‘I never saw you.’"
+hebrew: "אִם־ יְבַלְּעֶ֥נּוּ מִמְּקוֹמ֑וֹ וְכִ֥חֶשׁ בּ֝֗וֹ לֹ֣א רְאִיתִֽיךָ׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1104]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3584]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:18**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he destroy him from his place, then [it] shall deny him, [saying], I have not seen thee.
 <small><sub>**BSB:**</sub></small>
 If he is uprooted from his place, it will disown him, saying, ‘I never saw you.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H1104\|יְבַלְּעֶ֥]][[H9033\|נּוּ]] [[H9006\|מִ]][[H4725\|מְּקוֹמ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H3584\|כִ֥חֶשׁ]] [[H9003\|בּ֝֗]][[H9033\|וֹ]] [[H3808\|לֹ֣א]] [[H7200G\|רְאִיתִֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.17|<< Job 8:17]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.19|Job 8:19 >>]]</td></tr></table>
 

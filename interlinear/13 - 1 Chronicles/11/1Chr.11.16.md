@@ -1,8 +1,50 @@
+---
+title: 1 Chronicles 11:16
+type: Verse
+kjv: "And David was then in the hold, and the Philistines’ garrison was then at Bethlehem."
+bsb: "At that time David was in the stronghold, and the garrison of the Philistines was at Bethlehem."
+hebrew: "וְדָוִ֖יד אָ֣ז בַּמְּצוּדָ֑ה וּנְצִ֣יב פְּלִשְׁתִּ֔ים אָ֖ז בְּבֵ֥ית לָֽחֶם׃"
+pericope: "[[1Chr.11.10 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H0227A]]"
+- "[[H9003]]"
+- "[[H4686B]]"
+- "[[H5333]]"
+- "[[H6430G]]"
+- "[[H1035G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:16**<big><big>[[1Chr.11.10 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David [was] then in the hold, and the Philistines’ garrison [was] then at Bethlehem.
 <small><sub>**BSB:**</sub></small>
 At that time David was in the stronghold, and the garrison of the Philistines was at Bethlehem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִ֖יד]] [[H0227A\|אָ֣ז]] [[H9003\|בַּ]][[H4686B\|מְּצוּדָ֑ה]] [[H9002\|וּ]][[H5333\|נְצִ֣יב]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H0227A\|אָ֖ז]] [[H9003\|בְּ]][[H1035G\|בֵ֥ית]] [[H1035G\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic ARMIES|ARMIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.15|<< 1 Chronicles 11:15]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.17|1 Chronicles 11:17 >>]]</td></tr></table>
 

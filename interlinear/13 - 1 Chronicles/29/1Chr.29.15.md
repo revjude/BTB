@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 29:15
+type: Verse
+kjv: "For we are strangers before thee, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding."
+bsb: "For we are foreigners and strangers in Your presence, as were all our forefathers. Our days on earth are like a shadow, without hope."
+hebrew: "כִּֽי־ גֵרִ֨ים אֲנַ֧חְנוּ לְפָנֶ֛יךָ וְתוֹשָׁבִ֖ים כְּכָל־ אֲבֹתֵ֑ינוּ כַּצֵּ֧ל׀ יָמֵ֛ינוּ עַל־ הָאָ֖רֶץ וְאֵ֥ין מִקְוֶֽה׃"
+pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1616]]"
+- "[[H0587]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8453A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H6738]]"
+- "[[H9015]]"
+- "[[H3117G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0369]]"
+- "[[H4723B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:15**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we [are] strangers before thee, and sojourners, as [were] all our fathers: our days on the earth [are] as a shadow, and [there is] none abiding.
 <small><sub>**BSB:**</sub></small>
 For we are foreigners and strangers in Your presence, as were all our forefathers. Our days on earth are like a shadow, without hope.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1616\|גֵרִ֨ים]] [[H0587\|אֲנַ֧חְנוּ]] [[H9005\|לְ]][[H6440G\|פָנֶ֛י]][[H9021\|ךָ]] [[H9002\|וְ]][[H8453A\|תוֹשָׁבִ֖ים]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H0001G\|אֲבֹתֵ֑י]][[H9025\|נוּ]] [[H9004\|כַּ]][[H6738\|צֵּ֧ל]][[H9015\|׀]] [[H3117G\|יָמֵ֛י]][[H9025\|נוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H4723B\|מִקְוֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic LIFE|LIFE]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.14|<< 1 Chronicles 29:14]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.16|1 Chronicles 29:16 >>]]</td></tr></table>
 

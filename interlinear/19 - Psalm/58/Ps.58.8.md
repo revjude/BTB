@@ -1,8 +1,55 @@
+---
+title: Psalm 58:8
+type: Verse
+kjv: "As a snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun."
+bsb: "Like a slug that dissolves in its slime, like a woman’s stillborn child, may they never see the sun."
+hebrew: "כְּמ֣וֹ שַׁ֭בְּלוּל תֶּ֣מֶס יַהֲלֹ֑ךְ נֵ֥פֶל אֵ֝֗שֶׁת בַּל־ חָ֥זוּ שָֽׁמֶשׁ׃"
+pericope: "[[Ps.58.1 God Judges the Earth|God Judges the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 58
+book/chapter: "[[Ps.58|Psalm 58]]"
+chronological_order: 371
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic SNAIL|SNAIL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3644G]]"
+- "[[H7642]]"
+- "[[H8557]]"
+- "[[H1980L]]"
+- "[[H5309]]"
+- "[[H0802G]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H2372]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 58:8**<big><big>[[Ps.58.1 God Judges the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a snail [which] melteth, let [every one of them] pass away: [like] the untimely birth of a woman, [that] they may not see the sun.
 <small><sub>**BSB:**</sub></small>
 Like a slug that dissolves in its slime, like a woman’s stillborn child, may they never see the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H3644G\|כְּמ֣וֹ]] [[H7642\|שַׁ֭בְּלוּל]] [[H8557\|תֶּ֣מֶס]] [[H1980L\|יַהֲלֹ֑ךְ]] [[H5309\|נֵ֥פֶל]] [[H0802G\|אֵ֝֗שֶׁת]] [[H1077\|בַּל]][[H9014\|־]] [[H2372\|חָ֥זוּ]] [[H8121\|שָֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SNAIL|SNAIL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.58.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.58.7|<< Psalms 58:7]]</td><td align="center" style="border:none;">[[Ps.58|Psalms 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.58.9|Psalms 58:9 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: Galatians 1:11
+type: Verse
+kjv: "But I certify you, brethren, that the gospel which was preached of me is not after man."
+bsb: "For I want you to know, brothers, that the gospel I preached was not devised by man."
+greek: "Γνωρίζω γὰρ ὑμῖν, ἀδελφοί, τὸ εὐαγγέλιον τὸ εὐαγγελισθὲν ὑπ᾽ ἐμοῦ ὅτι οὐκ ἔστιν κατὰ ἄνθρωπον·"
+pericope: "[[Gal.1.10 Paul Preaches the Gospel|Paul Preaches the Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1107]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G2097]]"
+- "[[G5259G]]"
+- "[[G1473]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2596]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 1:11**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I certify you, brethren, that the gospel which was preached of me is not after man.
 <small><sub>**BSB:**</sub></small>
 For I want you to know, brothers, that the gospel I preached was not devised by man.
-<small><sub>**Literal:**</sub></small>
-I make known for to you, brothers, the gospel which having been evangelised by me that not it is according to man;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.10|<< Galatians 1:10]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.12|Galatians 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1107\|Γνωρίζω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν,]]  [[G0080\|ἀδελφοί,]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τὸ]]  [[G2097\|εὐαγγελισθὲν]]  [[G5259G\|ὑπ᾽]]  [[G1473\|ἐμοῦ]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G2596\|κατὰ]]  [[G0444\|ἄνθρωπον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.10|<< Galatians 1:10]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.12|Galatians 1:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

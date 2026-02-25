@@ -1,10 +1,62 @@
+---
+title: John 10:38
+type: Verse
+kjv: "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him."
+bsb: "But if I am doing them, even though you do not believe Me, believe the works themselves, so that you may know and understand that the Father is in Me, and I am in the Father.”"
+jesus_said: "But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father is in me, and I in him."
+greek: "εἰ δὲ ποιῶ, κἂν κἂν ἐμοὶ μὴ πιστεύητε, τοῖς ἔργοις πιστεύετε ἵνα γνῶτε καὶ γινώσκητε ὅτι ἐν ἐμοὶ ὁ πατὴρ κἀγὼ κἀγὼ ἐν τῷ πατρί.¶"
+pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G1473]]"
+- "[[G3361]]"
+- "[[G4100]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G2443]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G3962]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **John 10:38**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if I do, though ye believe not me, believe the works: that ye may know, and believe, that the Father [is] in me, and I in him.
 <small><sub>**BSB:**</sub></small>
 But if I am doing them, even though you do not believe Me, believe the works themselves, so that you may know and understand that the Father is in Me, and I am in the Father.”
-<small><sub>**Literal:**</sub></small>
-If however I do, even if Me myself not you shall believe, in the works do believe so that you may know and may understand that in Me myself [is] the Father and I myself in the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.37|<< John 10:37]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.39|John 10:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G4160G\|ποιῶ,]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G1473\|ἐμοὶ]]  [[G3361\|μὴ]]  [[G4100\|πιστεύητε,]]  [[G3588\|τοῖς]]  [[G2041\|ἔργοις]]  [[G4100\|πιστεύετε]]  [[G2443\|ἵνα]]  [[G1097\|γνῶτε]]  [[G2532\|καὶ]]  [[G1097\|γινώσκητε]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3962\|πατρί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.37|<< John 10:37]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.39|John 10:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

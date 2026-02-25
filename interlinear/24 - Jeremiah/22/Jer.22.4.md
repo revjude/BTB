@@ -1,8 +1,76 @@
+---
+title: Jeremiah 22:4
+type: Verse
+kjv: "For if ye do this thing indeed, then shall there enter in by the gates of this house kings sitting upon the throne of David, riding in chariots and on horses, he, and his servants, and his people."
+bsb: "For if you will indeed carry out these commands, then kings who sit on David’s throne will enter through the gates of this palace riding on chariots and horses—they and their officials and their people."
+hebrew: "כִּ֤י אִם־ עָשׂוֹ֙ תַּֽעֲשׂ֔וּ אֶת־ הַדָּבָ֖ר הַזֶּ֑ה וּבָ֣אוּ בְשַׁעֲרֵ֣י הַבַּ֣יִת הַזֶּ֡ה מְלָכִים֩ יֹשְׁבִ֨ים לְדָוִ֜ד עַל־ כִּסְא֗וֹ רֹֽכְבִים֙ בָּרֶ֣כֶב וּבַסּוּסִ֔ים ה֥וּא וַעֲבָדָ֖יו וְעַמּֽוֹ׃"
+pericope: "[[Jer.22.1 A Warning to Judah’s Kings|A Warning to Judah’s Kings]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H1004P]]"
+- "[[H4428G]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H7392]]"
+- "[[H7393G]]"
+- "[[H9002]]"
+- "[[H5483M]]"
+- "[[H1931]]"
+- "[[H5650]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 22:4**<big><big>[[Jer.22.1 A Warning to Judah’s Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For if ye do this thing indeed, then shall there enter in by the gates of this house kings sitting upon the throne of David, riding in chariots and on horses, he, and his servants, and his people.
 <small><sub>**BSB:**</sub></small>
 For if you will indeed carry out these commands, then kings who sit on David’s throne will enter through the gates of this palace riding on chariots and horses—they and their officials and their people.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֤י]] [[H0518B\|אִם]][[H9014\|־]] [[H6213A\|עָשׂוֹ֙]] [[H6213A\|תַּֽעֲשׂ֔וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֖ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וּ]][[H0935G\|בָ֣אוּ]] [[H9003\|בְ]][[H8179G\|שַׁעֲרֵ֣י]] [[H9009\|הַ]][[H1004P\|בַּ֣יִת]] [[H9009\|הַ]][[H2088\|זֶּ֡ה]] [[H4428G\|מְלָכִים֩]] [[H3427\|יֹשְׁבִ֨ים]] [[H9005\|לְ]][[H1732\|דָוִ֜ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְא֗]][[H9023\|וֹ]] [[H7392\|רֹֽכְבִים֙]] [[H9003\|בָּ]][[H7393G\|רֶ֣כֶב]] [[H9002\|וּ]][[H9003\|בַ]][[H5483M\|סּוּסִ֔ים]] [[H1931\|ה֥וּא]] [[H9002\|וַ]][[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHARIOT|CHARIOT]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.3|<< Jeremiah 22:3]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.5|Jeremiah 22:5 >>]]</td></tr></table>
 
@@ -32,8 +100,8 @@ For if you will indeed carry out these commands, then kings who sit on David’s
 | and people his  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5971A\|עַמּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.3|<< Jeremiah 22:3]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.5|Jeremiah 22:5 >>]]</td></tr></table>
 
-[^1]: and servant his  | **<big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: and servant his  | **<big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^3]: and servant his  | **<big>[[H9023|וֹ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: and servant his  | **<big>[[H9002|וְ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and servant his  | **<big>[[H9002|וְ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and servant his  | **<big>[[H9002|וְ]]</big><big>[[H5650|עַבְדּ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'av.da<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וַעֲבָדָ֖/ו</big></span>**
 

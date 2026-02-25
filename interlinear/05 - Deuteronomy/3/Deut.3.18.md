@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 3:18
+type: Verse
+kjv: "And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all that are meet for the war."
+bsb: "At that time I commanded you: “The LORD your God has given you this land to possess. All your men of valor are to cross over, armed for battle, ahead of your brothers, the Israelites."
+hebrew: "וָאֲצַ֣ו אֶתְכֶ֔ם בָּעֵ֥ת הַהִ֖וא לֵאמֹ֑ר יְהוָ֣ה אֱלֹהֵיכֶ֗ם נָתַ֨ן לָכֶ֜ם אֶת־ הָאָ֤רֶץ הַזֹּאת֙ לְרִשְׁתָּ֔הּ חֲלוּצִ֣ים תַּֽעַבְר֗וּ לִפְנֵ֛י אֲחֵיכֶ֥ם בְּנֵֽי־ יִשְׂרָאֵ֖ל כָּל־ בְּנֵי־ חָֽיִל׃"
+pericope: "[[Deut.3.12 Land Division East of the Jordan|Land Division East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H2502B]]"
+- "[[H5674A]]"
+- "[[H6440G]]"
+- "[[H0251I]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3605]]"
+- "[[H2428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:18**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: ye shall pass over armed before your brethren the children of Israel, all [that are] meet for the war.
 <small><sub>**BSB:**</sub></small>
 At that time I commanded you: “The LORD your God has given you this land to possess. All your men of valor are to cross over, armed for battle, ahead of your brothers, the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6680\|אֲצַ֣ו]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֗ם]] [[H5414G\|נָתַ֨ן]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּ֔]][[H9034\|הּ]] [[H2502B\|חֲלוּצִ֣ים]] [[H5674A\|תַּֽעַבְר֗וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֛י]] [[H0251I\|אֲחֵי]][[H9026\|כֶ֥ם]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H2428G\|חָֽיִל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.17|<< Deuteronomy 3:17]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.19|Deuteronomy 3:19 >>]]</td></tr></table>
 

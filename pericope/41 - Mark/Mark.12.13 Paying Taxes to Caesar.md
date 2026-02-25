@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paying Taxes to Caesar
+type: Pericope
 pericope: "[[Mark.12.13 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 12
 book/chapter: "[[Mark.12|Mark 12]]"
-genre:
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.12.13]]"
 - "[[Mark.12.14]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.12.17]]"
 ---
 
-[[Mark.12|Mark 12:13 - Mark 12:17]]
+<small>[[Mark.12|Mark 12:13-17]]</small>
 *Paying Taxes to Caesar*
 
 [[Mark.12.13|13]] And they send unto him certain of the Pharisees and of the Herodians, to catch him in \[his\] words.

@@ -1,8 +1,63 @@
+---
+title: 1 Kings 2:13
+type: Verse
+kjv: "And Adonijah the son of Haggith came to Bathsheba the mother of Solomon. And she said, Comest thou peaceably? And he said, Peaceably."
+bsb: "Now Adonijah son of Haggith went to Bathsheba the mother of Solomon, and she asked, “Do you come in peace?” “Yes, in peace,” he replied."
+hebrew: "וַיָּבֹ֞א אֲדֹנִיָּ֣הוּ בֶן־ חַגֵּ֗ית אֶל־ בַּת־ שֶׁ֙בַע֙ אֵם־ שְׁלֹמֹ֔ה וַתֹּ֖אמֶר הֲשָׁל֣וֹם בֹּאֶ֑ךָ וַיֹּ֖אמֶר שָׁלֽוֹם׃"
+pericope: "[[1Kgs.2.13 The Execution of Adonijah|The Execution of Adonijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABISHAG|ABISHAG]]"
+- "[[topic ADONIJAH|ADONIJAH]]"
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic HAGGITH|HAGGITH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0138G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2294]]"
+- "[[H0413]]"
+- "[[H1339]]"
+- "[[H0517]]"
+- "[[H8010]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H7965G]]"
+- "[[H9041]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:13**<big><big>[[1Kgs.2.13 The Execution of Adonijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adonijah the son of Haggith came to Bathsheba the mother of Solomon. And she said, Comest thou peaceably? And he said, Peaceably.
 <small><sub>**BSB:**</sub></small>
 Now Adonijah son of Haggith went to Bathsheba the mother of Solomon, and she asked, “Do you come in peace?” “Yes, in peace,” he replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֞א]] [[H0138G\|אֲדֹנִיָּ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H2294\|חַגֵּ֗ית]] [[H0413\|אֶל]][[H9014\|־]] [[H1339\|בַּת]][[H9014\|־]] [[H1339\|שֶׁ֙בַע֙]] [[H0517\|אֵם]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9001\|וַ]][[H0559\|תֹּ֖אמֶר]] [[H9008\|הֲ]][[H7965G\|שָׁל֣וֹם]] [[H0935G\|בֹּאֶ֑]][[H9041\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAG|ABISHAG]] • [[topic ADONIJAH|ADONIJAH]] • [[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic HAGGITH|HAGGITH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SHUNAMMITE|SHUNAMMITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.12|<< 1 Kings 2:12]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.14|1 Kings 2:14 >>]]</td></tr></table>
 

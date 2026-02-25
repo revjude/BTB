@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 10:27
+type: Verse
+kjv: "If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake."
+bsb: "If an unbeliever invites you to a meal and you want to go, eat anything set before you without raising questions of conscience."
+greek: "Εἴ δέ τις καλεῖ ὑμᾶς τῶν ἀπίστων καὶ θέλετε πορεύεσθαι, πᾶν τὸ παρατιθέμενον ὑμῖν ἐσθίετε μηδὲν ἀνακρίνοντες διὰ τὴν συνείδησιν·"
+pericope: "[[1Cor.10.23 All to God’s Glory|All to God’s Glory]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic GUEST|GUEST]]"
+- "[[topic MANNERS|MANNERS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G2564G]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0571]]"
+- "[[G2532]]"
+- "[[G2309]]"
+- "[[G4198]]"
+- "[[G3956]]"
+- "[[G3908]]"
+- "[[G2068]]"
+- "[[G3367]]"
+- "[[G0350]]"
+- "[[G1223]]"
+- "[[G4893]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 10:27**<big><big>[[1Cor.10.23 All to God’s Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If any of them that believe not bid you [to a feast], and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.
 <small><sub>**BSB:**</sub></small>
 If an unbeliever invites you to a meal and you want to go, eat anything set before you without raising questions of conscience.
-<small><sub>**Literal:**</sub></small>
-If now anyone invites you of the unbelieving and you wish to go, everything which is being set before you do eat nothing inquiring on account of <the> conscience;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.26|<< 1 Corinthians 10:26]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.28|1 Corinthians 10:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἴ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G2564G\|καλεῖ]]  [[G4771\|ὑμᾶς]]  [[G3588\|τῶν]]  [[G0571\|ἀπίστων]]  [[G2532\|καὶ]]  [[G2309\|θέλετε]]  [[G4198\|πορεύεσθαι,]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G3908\|παρατιθέμενον]]  [[G4771\|ὑμῖν]]  [[G2068\|ἐσθίετε]]  [[G3367\|μηδὲν]]  [[G0350\|ἀνακρίνοντες]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G4893\|συνείδησιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXPEDIENCY|EXPEDIENCY]] • [[topic GUEST|GUEST]] • [[topic MANNERS|MANNERS]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.26|<< 1 Corinthians 10:26]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.28|1 Corinthians 10:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,64 @@
+---
+title: Ezekiel 20:7
+type: Verse
+kjv: "Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I am the LORD your God."
+bsb: "And I said to them: ‘Each of you must throw away the abominations before his eyes, and you must not defile yourselves with the idols of Egypt. I am the LORD your God.’"
+hebrew: "וָאֹמַ֣ר אֲלֵהֶ֗ם אִ֣ישׁ שִׁקּוּצֵ֤י עֵינָיו֙ הַשְׁלִ֔יכוּ וּבְגִלּוּלֵ֥י מִצְרַ֖יִם אַל־ תִּטַּמָּ֑אוּ אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Ezek.20.1 Israel’s Rebellion in Egypt|Israel’s Rebellion in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EGYPT|EGYPT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0376I]]"
+- "[[H8251]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H7993]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1544]]"
+- "[[H4714G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2930A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:7**<big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 And I said to them: ‘Each of you must throw away the abominations before his eyes, and you must not defile yourselves with the idols of Egypt. I am the LORD your God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H0376I\|אִ֣ישׁ]] [[H8251\|שִׁקּוּצֵ֤י]] [[H5869A\|עֵינָי]][[H9023\|ו֙]] [[H7993\|הַשְׁלִ֔יכוּ]] [[H9002\|וּ]][[H9003\|בְ]][[H1544\|גִלּוּלֵ֥י]] [[H4714G\|מִצְרַ֖יִם]] [[H0408\|אַל]][[H9014\|־]] [[H2930A\|תִּטַּמָּ֑אוּ]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.6|<< Ezekiel 20:6]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.8|Ezekiel 20:8 >>]]</td></tr></table>
 

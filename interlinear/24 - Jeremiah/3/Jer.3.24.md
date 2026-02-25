@@ -1,8 +1,60 @@
+---
+title: Jeremiah 3:24
+type: Verse
+kjv: "For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters."
+bsb: "From our youth, that shameful god has consumed what our fathers have worked for—their flocks and herds, their sons and daughters."
+hebrew: "וְהַבֹּ֗שֶׁת אָֽכְלָ֛ה אֶת־ יְגִ֥יעַ אֲבוֹתֵ֖ינוּ מִנְּעוּרֵ֑ינוּ אֶת־ צֹאנָם֙ וְאֶת־ בְּקָרָ֔ם אֶת־ בְּנֵיהֶ֖ם וְאֶת־ בְּנוֹתֵיהֶֽם׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1322]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3018]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9006]]"
+- "[[H5271A]]"
+- "[[H6629G]]"
+- "[[H9028]]"
+- "[[H1241]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:24**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For shame hath devoured the labour of our fathers from our youth; their flocks and their herds, their sons and their daughters.
 <small><sub>**BSB:**</sub></small>
 From our youth, that shameful god has consumed what our fathers have worked for—their flocks and herds, their sons and daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1322\|בֹּ֗שֶׁת]] [[H0398\|אָֽכְלָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3018\|יְגִ֥יעַ]] [[H0001G\|אֲבוֹתֵ֖י]][[H9025\|נוּ]] [[H9006\|מִ]][[H5271A\|נְּעוּרֵ֑י]][[H9025\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹאנָ]][[H9028\|ם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1241\|בְּקָרָ֔]][[H9028\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנוֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.23|<< Jeremiah 3:23]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.25|Jeremiah 3:25 >>]]</td></tr></table>
 

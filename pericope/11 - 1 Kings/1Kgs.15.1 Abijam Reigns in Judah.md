@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abijam Reigns in Judah
+type: Pericope
 pericope: "[[1Kgs.15.1 Abijam Reigns in Judah|Abijam Reigns in Judah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 15
 book/chapter: "[[1Kgs.15|1 Kings 15]]"
-genre:
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.15.1]]"
 - "[[1Kgs.15.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.15.8]]"
 ---
 
-[[1Kgs.15|1 Kings 15:1 - 1 Kings 15:8]]
+<small>[[1Kgs.15|1 Kings 15:1-8]]</small>
 *Abijam Reigns in Judah*
 
 [[1Kgs.15.1|1]] Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.

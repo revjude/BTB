@@ -1,8 +1,72 @@
+---
+title: Genesis 40:13
+type: Verse
+kjv: "Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler."
+bsb: "Within three days Pharaoh will lift up your head and restore your position. You will put Pharaoh’s cup in his hand, just as you did when you were his cupbearer."
+hebrew: "בְּע֣וֹד׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֤א פַרְעֹה֙ אֶת־ רֹאשֶׁ֔ךָ וַהֲשִֽׁיבְךָ֖ עַל־ כַּנֶּ֑ךָ וְנָתַתָּ֤ כוֹס־ פַּרְעֹה֙ בְּיָד֔וֹ כַּמִּשְׁפָּט֙ הָֽרִאשׁ֔וֹן אֲשֶׁ֥ר הָיִ֖יתָ מַשְׁקֵֽהוּ׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H9015]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H5375G]]"
+- "[[H6547H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H7725H]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H3653]]"
+- "[[H5414H]]"
+- "[[H3563A]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H4941J]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H4945A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:13**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler.
 <small><sub>**BSB:**</sub></small>
 Within three days Pharaoh will lift up your head and restore your position. You will put Pharaoh’s cup in his hand, just as you did when you were his cupbearer.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5750\|ע֣וֹד]][[H9015\|׀]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֗ים]] [[H5375G\|יִשָּׂ֤א]] [[H6547H\|פַרְעֹה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשֶׁ֔]][[H9021\|ךָ]] [[H9001\|וַ]][[H7725H\|הֲשִֽׁיבְ]][[H9031\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H3653\|כַּנֶּ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֤]] [[H3563A\|כוֹס]][[H9014\|־]] [[H6547H\|פַּרְעֹה֙]] [[H9003\|בְּ]][[H3027H\|יָד֔]][[H9023\|וֹ]] [[H9004\|כַּ]][[H4941J\|מִּשְׁפָּט֙]] [[H9009\|הָֽ]][[H7223G\|רִאשׁ֔וֹן]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|הָיִ֖יתָ]] [[H4945A\|מַשְׁקֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.12|<< Genesis 40:12]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.14|Genesis 40:14 >>]]</td></tr></table>
 

@@ -1,6 +1,74 @@
+---
+title: LXX Genesis 38:12
+type: Verse
+lxx: "And the days multiplied, and Shuah the wife of Judah died. And being comforted, Judah ascended to the shearing  of his sheep, himself and Hirah  his shepherd the Adullamite, unto Timnath."
+greek: "επληθύνθησαν δε αι ημέραι και απέθανε Σαυά η γυνή Ιούδα και παρακληθείς Ιούδας ανέβη επί τους κείροντας τα πρόβατα αυτού αυτός και Ηράς ο ποιμήν αυτού ο Οδολαμίτης εις Θαμνά"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HIRAH|HIRAH]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHUA|SHUA]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic TIMNATH|TIMNATH]]"
+strongs:
+- "[[G4129]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[H7744]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G2448]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G2448]]"
+- "[[G0305]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2751]]"
+- "[[G3588]]"
+- "[[G4263]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[H2437]]"
+- "[[G3588]]"
+- "[[G4166]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[H5726]]"
+- "[[G1519]]"
+- "[[H8556b]]"
+---
+
 **LXX Genesis 38:12** 
 <small><sub>**LXX:**</sub></small>
 And the days multiplied, and Shuah the wife of Judah died. And being comforted, Judah ascended to the shearing  of his sheep, himself and Hirah  his shepherd the Adullamite, unto Timnath. 
+<small><sub>**Greek:**</sub></small>
+[[G4129\|επληθύνθησαν]] [[G1161\|δε]] [[G3588\|αι]] [[G2250\|ημέραι]] [[G2532\|και]] [[G0599\|απέθανε]] [[H7744\|Σαυά]] [[G3588\|η]] [[G1135\|γυνή]] [[G2448\|Ιούδα]] [[G2532\|και]] [[G3870\|παρακληθείς]] [[G2448\|Ιούδας]] [[G0305\|ανέβη]] [[G1909\|επί]] [[G3588\|τους]] [[G2751\|κείροντας]] [[G3588\|τα]] [[G4263\|πρόβατα]] [[G1473\|αυτού]] [[G1473\|αυτός]] [[G2532\|και]] [[H2437\|Ηράς]] [[G3588\|ο]] [[G4166\|ποιμήν]] [[G1473\|αυτού]] [[G3588\|ο]] [[H5726\|Οδολαμίτης]] [[G1519\|εις]] [[H8556b\|Θαμνά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HIRAH|HIRAH]] • [[topic JUDAH|JUDAH]] • [[topic SHEEP|SHEEP]] • [[topic SHUA|SHUA]] • [[topic TAMAR|TAMAR]] • [[topic TIMNATH|TIMNATH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.38.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.11|<< Genesis 38:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.13|Genesis 38:13 >>]]</td></tr></table>
 
@@ -34,6 +102,6 @@ And the days multiplied, and Shuah the wife of Judah died. And being comforted, 
 | Adullamite, | **<big>[[H5726\|Οδολαμίτης]]</big>** |
 | unto | **<big>[[G1519\|εις]]</big>** |
 | Timnath. | **<big>[[H8556b\|Θαμνά]]</big>** |
-[[Gen.38.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.11|<< Genesis 38:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.13|Genesis 38:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.11|<< Genesis 38:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.13|Genesis 38:13 >>]]</td></tr></table>
 
 

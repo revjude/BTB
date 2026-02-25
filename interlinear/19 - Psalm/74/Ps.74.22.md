@@ -1,8 +1,61 @@
+---
+title: Psalm 74:22
+type: Verse
+kjv: "Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily."
+bsb: "Rise up, O God; defend Your cause! Remember how the fool mocks You all day long."
+hebrew: "קוּמָ֣ה אֱ֭לֹהִים רִיבָ֣ה רִיבֶ֑ךָ זְכֹ֥ר חֶרְפָּתְךָ֥ מִנִּי־ נָ֝בָ֗ל כָּל־ הַיּֽוֹם׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H0430G]]"
+- "[[H7378]]"
+- "[[H7379]]"
+- "[[H9021]]"
+- "[[H2142]]"
+- "[[H2781]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5036]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 74:22**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, O God, plead thine own cause: remember how the foolish man reproacheth thee daily.
 <small><sub>**BSB:**</sub></small>
 Rise up, O God; defend Your cause! Remember how the fool mocks You all day long.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|קוּמָ֣]][[H9012\|ה]] [[H0430G\|אֱ֭לֹהִים]] [[H7378\|רִיבָ֣]][[H9012\|ה]] [[H7379\|רִיבֶ֑]][[H9021\|ךָ]] [[H2142\|זְכֹ֥ר]] [[H2781\|חֶרְפָּתְ]][[H9021\|ךָ֥]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H5036\|נָ֝בָ֗ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FOOL|FOOL]] • [[topic PRAYER|PRAYER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.21|<< Psalms 74:21]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.23|Psalms 74:23 >>]]</td></tr></table>
 

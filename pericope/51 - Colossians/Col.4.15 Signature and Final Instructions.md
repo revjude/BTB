@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Signature and Final Instructions
+type: Pericope
 pericope: "[[Col.4.15 Signature and Final Instructions|Signature and Final Instructions]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 4
 book/chapter: "[[Col.4|Colossians 4]]"
-genre:
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 4
 verses:
 - "[[Col.4.15]]"
 - "[[Col.4.16]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Col.4.18]]"
 ---
 
-[[Col.4|Colossians 4:15 - Colossians 4:18]]
+<small>[[Col.4|Colossians 4:15-18]]</small>
 *Signature and Final Instructions*
 
 [[Col.4.15|15]] Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house.

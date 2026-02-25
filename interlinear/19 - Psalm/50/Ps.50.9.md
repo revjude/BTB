@@ -1,8 +1,54 @@
+---
+title: Psalm 50:9
+type: Verse
+kjv: "I will take no bullock out of thy house, nor he goats out of thy folds."
+bsb: "I have no need for a bull from your stall or goats from your pens,"
+hebrew: "לֹא־ אֶקַּ֣ח מִבֵּיתְךָ֣ פָ֑ר מִ֝מִּכְלְאֹתֶ֗יךָ עַתּוּדִֽים׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3947H]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H6499]]"
+- "[[H4356]]"
+- "[[H6260]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:9**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will take no bullock out of thy house, [nor] he goats out of thy folds.
 <small><sub>**BSB:**</sub></small>
 I have no need for a bull from your stall or goats from your pens,
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H3947H\|אֶקַּ֣ח]] [[H9006\|מִ]][[H1004B\|בֵּיתְ]][[H9021\|ךָ֣]] [[H6499\|פָ֑ר]] [[H9006\|מִ֝]][[H4356\|מִּכְלְאֹתֶ֗י]][[H9021\|ךָ]] [[H6260\|עַתּוּדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORMALISM|FORMALISM]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.8|<< Psalms 50:8]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.10|Psalms 50:10 >>]]</td></tr></table>
 

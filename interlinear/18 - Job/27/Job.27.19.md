@@ -1,8 +1,55 @@
+---
+title: Job 27:19
+type: Verse
+kjv: "The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he is not."
+bsb: "He lies down wealthy, but will do so no more; when he opens his eyes, all is gone."
+hebrew: "עָשִׁ֣יר יִ֭שְׁכַּב וְלֹ֣א יֵאָסֵ֑ף עֵינָ֖יו פָּקַ֣ח וְאֵינֶֽנּוּ׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6223]]"
+- "[[H7901H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0622]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H6491]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:19**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he [is] not.
 <small><sub>**BSB:**</sub></small>
 He lies down wealthy, but will do so no more; when he opens his eyes, all is gone.
+<small><sub>**Hebrew:**</sub></small>
+[[H6223\|עָשִׁ֣יר]] [[H7901H\|יִ֭שְׁכַּב]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H0622\|יֵאָסֵ֑ף]] [[H5869A\|עֵינָ֖י]][[H9023\|ו]] [[H6491\|פָּקַ֣ח]] [[H9002\|וְ]][[H0369\|אֵינֶֽ]][[H9043\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RICH, THE|RICH, THE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.18|<< Job 27:18]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.20|Job 27:20 >>]]</td></tr></table>
 

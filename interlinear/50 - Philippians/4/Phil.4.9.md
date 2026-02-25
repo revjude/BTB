@@ -1,10 +1,58 @@
+---
+title: Philippians 4:9
+type: Verse
+kjv: "Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you."
+bsb: "Whatever you have learned or received or heard from me, or seen in me, put it into practice. And the God of peace will be with you."
+greek: "ἃ καὶ ἐμάθετε καὶ παρελάβετε καὶ ἠκούσατε καὶ εἴδετε ἐν ἐμοί, ταῦτα πράσσετε, καὶ ὁ θεὸς τῆς εἰρήνης ἔσται μεθ᾽ ὑμῶν.¶"
+pericope: "[[Phil.4.1 Rejoice in the Lord|Rejoice in the Lord]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 4
+book/chapter: "[[Phil.4|Philippians 4]]"
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G3129]]"
+- "[[G3880]]"
+- "[[G0191]]"
+- "[[G1492H]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G4238]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1515]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Philippians 4:9**<big><big>[[Phil.4.1 Rejoice in the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.
 <small><sub>**BSB:**</sub></small>
 Whatever you have learned or received or heard from me, or seen in me, put it into practice. And the God of peace will be with you.
-<small><sub>**Literal:**</sub></small>
-What also you have learned and you have received and you heard and you have seen in me myself, these things do practice, and the God <the> of peace will be with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.8|<< Philippians 4:8]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.10|Philippians 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἃ]]  [[G2532\|καὶ]]  [[G3129\|ἐμάθετε]]  [[G2532\|καὶ]]  [[G3880\|παρελάβετε]]  [[G2532\|καὶ]]  [[G0191\|ἠκούσατε]]  [[G2532\|καὶ]]  [[G1492H\|εἴδετε]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί,]]  [[G3778\|ταῦτα]]  [[G4238\|πράσσετε,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῆς]]  [[G1515\|εἰρήνης]]  [[G1510\|ἔσται]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic PEACE|PEACE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.8|<< Philippians 4:8]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.10|Philippians 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

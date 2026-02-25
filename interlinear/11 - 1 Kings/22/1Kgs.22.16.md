@@ -1,8 +1,68 @@
+---
+title: 1 Kings 22:16
+type: Verse
+kjv: "And the king said unto him, How many times shall I adjure thee that thou tell me nothing but that which is true in the name of the LORD?"
+bsb: "But the king said to him, “How many times must I make you swear not to tell me anything but the truth in the name of the LORD?”"
+hebrew: "וַיֹּ֤אמֶר אֵלָיו֙ הַמֶּ֔לֶךְ עַד־ כַּמֶּ֥ה פְעָמִ֖ים אֲנִ֣י מַשְׁבִּעֶ֑ךָ אֲ֠שֶׁר לֹֽא־ תְדַבֵּ֥ר אֵלַ֛י רַק־ אֱמֶ֖ת בְּשֵׁ֥ם יְהוָֽה׃"
+pericope: "[[1Kgs.22.13 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9004]]"
+- "[[H4100]]"
+- "[[H6471]]"
+- "[[H0589]]"
+- "[[H7650]]"
+- "[[H9031]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H1696G]]"
+- "[[H9030]]"
+- "[[H7535]]"
+- "[[H0571H]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:16**<big><big>[[1Kgs.22.13 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto him, How many times shall I adjure thee that thou tell me nothing but [that which is] true in the name of the LORD?
 <small><sub>**BSB:**</sub></small>
 But the king said to him, “How many times must I make you swear not to tell me anything but the truth in the name of the LORD?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H5704\|עַד]][[H9014\|־]] [[H9004\|כַּ]][[H4100\|מֶּ֥ה]] [[H6471\|פְעָמִ֖ים]] [[H0589\|אֲנִ֣י]] [[H7650\|מַשְׁבִּעֶ֑]][[H9031\|ךָ]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1696G\|תְדַבֵּ֥ר]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H7535\|רַק]][[H9014\|־]] [[H0571H\|אֱמֶ֖ת]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic MICAIAH|MICAIAH]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.15|<< 1 Kings 22:15]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.17|1 Kings 22:17 >>]]</td></tr></table>
 

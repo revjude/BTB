@@ -1,10 +1,57 @@
+---
+title: Luke 9:52
+type: Verse
+kjv: "And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him."
+bsb: "He sent messengers on ahead, who went into a village of the Samaritans to make arrangements for Him."
+greek: "καὶ ἀπέστειλεν ἀγγέλους πρὸ προσώπου αὐτοῦ. καὶ πορευθέντες εἰσῆλθον εἰς κώμην Σαμαριτῶν ὡς ἑτοιμάσαι αὐτῷ."
+pericope: "[[Luke.9.51 The Samaritans Reject Jesus|The Samaritans Reject Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G0032H]]"
+- "[[G4253]]"
+- "[[G4383]]"
+- "[[G0846]]"
+- "[[G4198]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G2968]]"
+- "[[G4541]]"
+- "[[G5613]]"
+- "[[G2090]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 9:52**<big><big>[[Luke.9.51 The Samaritans Reject Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him.
 <small><sub>**BSB:**</sub></small>
 He sent messengers on ahead, who went into a village of the Samaritans to make arrangements for Him.
-<small><sub>**Literal:**</sub></small>
-And He sent messengers before [the] face of Him. And having gone they entered into a village of the Samaritans so as to make ready for Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.51|<< Luke 9:51]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.53|Luke 9:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0649\|ἀπέστειλεν]]  [[G0032H\|ἀγγέλους]]  [[G4253\|πρὸ]]  [[G4383\|προσώπου]]  [[G0846\|αὐτοῦ.]]  [[G2532\|καὶ]]  [[G4198\|πορευθέντες]]  [[G1525\|εἰσῆλθον]]  [[G1519\|εἰς]]  [[G2968\|κώμην]]  [[G4541\|Σαμαριτῶν]]  [[G5613\|ὡς]]  [[G2090\|ἑτοιμάσαι]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RETALIATION|RETALIATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.51|<< Luke 9:51]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.53|Luke 9:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

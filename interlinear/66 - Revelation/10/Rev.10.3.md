@@ -1,10 +1,57 @@
+---
+title: Revelation 10:3
+type: Verse
+kjv: "And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices."
+bsb: "Then he cried out in a loud voice like the roar of a lion. And when he cried out, the seven thunders sounded their voices."
+greek: "καὶ ἔκραξεν φωνῇ μεγάλῃ ὥσπερ λέων μυκᾶται. καὶ ὅτε ἔκραξεν, ἐλάλησαν αἱ ἑπτὰ βρονταὶ τὰς ἑαυτῶν φωνάς."
+pericope: "[[Rev.10.1 The Angel and the Small Scroll|The Angel and the Small Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 10
+book/chapter: "[[Rev.10|Revelation 10]]"
+chronological_order: 1177
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G5618]]"
+- "[[G3023]]"
+- "[[G3455]]"
+- "[[G3753]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G1027]]"
+- "[[G1438]]"
+texts:
+- NKO
+---
+
 **Revelation 10:3**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And cried with a loud voice, as [when] a lion roareth: and when he had cried, seven thunders uttered their voices.
 <small><sub>**BSB:**</sub></small>
 Then he cried out in a loud voice like the roar of a lion. And when he cried out, the seven thunders sounded their voices.
-<small><sub>**Literal:**</sub></small>
-And he cried out in a voice loud as a lion roars. And when he cried out, sounded the seven thunders the their own voice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.2|<< Revelation 10:2]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.4|Revelation 10:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2896\|ἔκραξεν]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ]]  [[G5618\|ὥσπερ]]  [[G3023\|λέων]]  [[G3455\|μυκᾶται.]]  [[G2532\|καὶ]]  [[G3753\|ὅτε]]  [[G2896\|ἔκραξεν,]]  [[G2980\|ἐλάλησαν]]  [[G3588\|αἱ]]  [[G2033\|ἑπτὰ]]  [[G1027\|βρονταὶ]]  [[G3588\|τὰς]]  [[G1438\|ἑαυτῶν]]  [[G5456G\|φωνάς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SEVEN|SEVEN]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.2|<< Revelation 10:2]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.4|Revelation 10:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 10:3** is...
 > $\quad$ alluding to: [[LXX.Jer.25.30|Jer 25:30]]

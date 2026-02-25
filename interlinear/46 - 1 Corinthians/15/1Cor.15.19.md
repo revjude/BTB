@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 15:19
+type: Verse
+kjv: "If in this life only we have hope in Christ, we are of all men most miserable."
+bsb: "If our hope in Christ is for this life alone, we are to be pitied more than all men."
+greek: "εἰ ἐν τῇ ζωῇ ταύτῃ ἐν Χριστῷ ἠλπικότες ἐσμὲν μόνον, ἐλεεινότεροι πάντων ἀνθρώπων ἐσμέν.¶"
+pericope: "[[1Cor.15.12 The Resurrection of the Dead|The Resurrection of the Dead]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2222]]"
+- "[[G3778]]"
+- "[[G5547]]"
+- "[[G1679]]"
+- "[[G1510]]"
+- "[[G3441]]"
+- "[[G1652]]"
+- "[[G3956]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:19**<big><big>[[1Cor.15.12 The Resurrection of the Dead|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If in this life only we have hope in Christ, we are of all men most miserable.
 <small><sub>**BSB:**</sub></small>
 If our hope in Christ is for this life alone, we are to be pitied more than all men.
-<small><sub>**Literal:**</sub></small>
-If in <the> life this in Christ already hoping we are only, more to be pitied than all men we are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.18|<< 1 Corinthians 15:18]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.20|1 Corinthians 15:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2222\|ζωῇ]]  [[G3778\|ταύτῃ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G1679\|ἠλπικότες]]  [[G1510\|ἐσμὲν]]  [[G3441\|μόνον,]]  [[G1652\|ἐλεεινότεροι]]  [[G3956\|πάντων]]  [[G0444\|ἀνθρώπων]]  [[G1510\|ἐσμέν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic HOPE|HOPE]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.18|<< 1 Corinthians 15:18]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.20|1 Corinthians 15:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Isaiah 38:14
+type: Verse
+kjv: "Like a crane or a swallow, so did I chatter: I did mourn as a dove: mine eyes fail with looking upward: O LORD, I am oppressed; undertake for me."
+bsb: "I chirp like a swallow or crane; I moan like a dove. My eyes grow weak as I look upward. O Lord, I am oppressed; be my security.”"
+hebrew: "כְּס֤וּס עָגוּר֙ כֵּ֣ן אֲצַפְצֵ֔ף אֶהְגֶּ֖ה כַּיּוֹנָ֑ה דַּלּ֤וּ עֵינַי֙ לַמָּר֔וֹם אֲדֹנָ֖י עָֽשְׁקָה־ לִּ֥י עָרְבֵֽנִי׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CRANE|CRANE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic SWALLOW|SWALLOW]]"
+strongs:
+- "[[H9004]]"
+- "[[H5483A]]"
+- "[[H5693]]"
+- "[[H3651C]]"
+- "[[H6850]]"
+- "[[H1897]]"
+- "[[H3123]]"
+- "[[H1809]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H4791]]"
+- "[[H0136]]"
+- "[[H6234]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H6148]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:14**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Like a crane [or] a swallow, so did I chatter: I did mourn as a dove: mine eyes fail [with looking] upward: O LORD, I am oppressed; undertake for me.
 <small><sub>**BSB:**</sub></small>
 I chirp like a swallow or crane; I moan like a dove. My eyes grow weak as I look upward. O Lord, I am oppressed; be my security.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H5483A\|ס֤וּס]] [[H5693\|עָגוּר֙]] [[H3651C\|כֵּ֣ן]] [[H6850\|אֲצַפְצֵ֔ף]] [[H1897\|אֶהְגֶּ֖ה]] [[H9004\|כַּ]][[H3123\|יּוֹנָ֑ה]] [[H1809\|דַּלּ֤וּ]] [[H5869A\|עֵינַ]][[H9020\|י֙]] [[H9005\|לַ]][[H4791\|מָּר֔וֹם]] [[H0136\|אֲדֹנָ֖י]] [[H6234\|עָֽשְׁקָה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H6148\|עָרְבֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CRANE|CRANE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic MURMURING|MURMURING]] • [[topic OPPRESSION|OPPRESSION]] • [[topic PSALMS|PSALMS]] • [[topic SWALLOW|SWALLOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.13|<< Isaiah 38:13]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.15|Isaiah 38:15 >>]]</td></tr></table>
 

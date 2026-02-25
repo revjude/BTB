@@ -1,8 +1,62 @@
+---
+title: Isaiah 23:18
+type: Verse
+kjv: "And her merchandise and her hire shall be holiness to the LORD: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before the LORD, to eat sufficiently, and for durable clothing."
+bsb: "Yet her profits and wages will be set apart to the LORD; they will not be stored or saved, for her profit will go to those who live before the LORD, for abundant food and fine clothing."
+hebrew: "וְהָיָ֨ה סַחְרָ֜הּ וְאֶתְנַנָּ֗הּ קֹ֚דֶשׁ לַֽיהוָ֔ה לֹ֥א יֵֽאָצֵ֖ר וְלֹ֣א יֵֽחָסֵ֑ן כִּ֣י לַיֹּשְׁבִ֞ים לִפְנֵ֤י יְהוָה֙ יִֽהְיֶ֣ה סַחְרָ֔הּ לֶאֱכֹ֥ל לְשָׂבְעָ֖ה וְלִמְכַסֶּ֥ה עָתִֽיק׃ פ"
+pericope: "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5504]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0868]]"
+- "[[H6944G]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H0686]]"
+- "[[H2630]]"
+- "[[H3588A]]"
+- "[[H3427]]"
+- "[[H6440G]]"
+- "[[H0398]]"
+- "[[H7654]]"
+- "[[H4374]]"
+- "[[H6266]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 23:18**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her merchandise and her hire shall be holiness to the LORD: it shall not be treasured nor laid up; for her merchandise shall be for them that dwell before the LORD, to eat sufficiently, and for durable clothing.
 <small><sub>**BSB:**</sub></small>
 Yet her profits and wages will be set apart to the LORD; they will not be stored or saved, for her profit will go to those who live before the LORD, for abundant food and fine clothing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H5504\|סַחְרָ֜]][[H9024\|הּ]] [[H9002\|וְ]][[H0868\|אֶתְנַנָּ֗]][[H9024\|הּ]] [[H6944G\|קֹ֚דֶשׁ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H3808\|לֹ֥א]] [[H0686\|יֵֽאָצֵ֖ר]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2630\|יֵֽחָסֵ֑ן]] [[H3588A\|כִּ֣י]] [[H9005\|לַ]][[H3427\|יֹּשְׁבִ֞ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H3068G\|יְהוָה֙]] [[H1961\|יִֽהְיֶ֣ה]] [[H5504\|סַחְרָ֔]][[H9024\|הּ]] [[H9005\|לֶ]][[H0398\|אֱכֹ֥ל]] [[H9005\|לְ]][[H7654\|שָׂבְעָ֖ה]] [[H9002\|וְ]][[H9005\|לִ]][[H4374\|מְכַסֶּ֥ה]] [[H6266\|עָתִֽיק]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.17|<< Isaiah 23:17]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.1|Isaiah 24:1 >>]]</td></tr></table>
 
@@ -26,7 +80,7 @@ Yet her profits and wages will be set apart to the LORD; they will not be stored
 | for eating  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0398\|אֱכֹ֥ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Khol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to satiety  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7654\|שָׂבְעָ֖ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sa.ve.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and for covering  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H4374\|מְכַסֶּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> m.kha.Seh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| magnificent  |**<big>&#8207;[[H6266\|עָתִֽיק]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.Tik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| magnificent  |**<big>&#8207;[[H6266\|עָתִֽיק]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.Tik<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.17|<< Isaiah 23:17]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.1|Isaiah 24:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,69 @@
+---
+title: Leviticus 25:9
+type: Verse
+kjv: "Then shalt thou cause the trumpet of the jubile to sound on the tenth day of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land."
+bsb: "Then you are to sound the horn far and wide on the tenth day of the seventh month, the Day of Atonement. You shall sound it throughout your land."
+hebrew: "וְהַֽעֲבַרְתָּ֞ שׁוֹפַ֤ר תְּרוּעָה֙ בַּחֹ֣דֶשׁ הַשְּׁבִעִ֔י בֶּעָשׂ֖וֹר לַחֹ֑דֶשׁ בְּיוֹם֙ הַכִּפֻּרִ֔ים תַּעֲבִ֥ירוּ שׁוֹפָ֖ר בְּכָל־ אַרְצְכֶֽם׃"
+pericope: "[[Lev.25.8 The Year of Jubilee|The Year of Jubilee]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H7782]]"
+- "[[H8643]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H6218]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H3725]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:9**<big><big>[[Lev.25.8 The Year of Jubilee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou cause the trumpet of the jubile to sound on the tenth [day] of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.
 <small><sub>**BSB:**</sub></small>
 Then you are to sound the horn far and wide on the tenth day of the seventh month, the Day of Atonement. You shall sound it throughout your land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|הַֽעֲבַרְתָּ֞]] [[H7782\|שׁוֹפַ֤ר]] [[H8643\|תְּרוּעָה֙]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִעִ֔י]] [[H9003\|בֶּ]][[H6218\|עָשׂ֖וֹר]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H9003\|בְּ]][[H3117G\|יוֹם֙]] [[H9009\|הַ]][[H3725\|כִּפֻּרִ֔ים]] [[H5674A\|תַּעֲבִ֥ירוּ]] [[H7782\|שׁוֹפָ֖ר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אַרְצְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ATONEMENT|ATONEMENT]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic ETHANIM|ETHANIM]] • [[topic JUBILEE|JUBILEE]] • [[topic MONTH|MONTH]] • [[topic SANITATION|SANITATION]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.8|<< Leviticus 25:8]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.10|Leviticus 25:10 >>]]</td></tr></table>
 

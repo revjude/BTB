@@ -1,8 +1,52 @@
+---
+title: Jeremiah 17:12
+type: Verse
+kjv: "A glorious high throne from the beginning is the place of our sanctuary."
+bsb: "A glorious throne, exalted from the beginning, is the place of our sanctuary."
+hebrew: "כִּסֵּ֣א כָב֔וֹד מָר֖וֹם מֵֽרִאשׁ֑וֹן מְק֖וֹם מִקְדָּשֵֽׁנוּ׃"
+pericope: "[[Jer.17.12 Jeremiah’s Prayer for Deliverance|Jeremiah’s Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3678G]]"
+- "[[H3519]]"
+- "[[H4791]]"
+- "[[H9006]]"
+- "[[H7223G]]"
+- "[[H4725]]"
+- "[[H4720]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:12**<big><big>[[Jer.17.12 Jeremiah’s Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A glorious high throne from the beginning [is] the place of our sanctuary.
 <small><sub>**BSB:**</sub></small>
 A glorious throne, exalted from the beginning, is the place of our sanctuary.
+<small><sub>**Hebrew:**</sub></small>
+[[H3678G\|כִּסֵּ֣א]] [[H3519\|כָב֔וֹד]] [[H4791\|מָר֖וֹם]] [[H9006\|מֵֽ]][[H7223G\|רִאשׁ֑וֹן]] [[H4725\|מְק֖וֹם]] [[H4720\|מִקְדָּשֵֽׁ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.11|<< Jeremiah 17:11]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.13|Jeremiah 17:13 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Hebrews 10:10
+type: Verse
+kjv: "By the which will we are sanctified through the offering of the body of Jesus Christ once for all."
+bsb: "And by that will, we have been sanctified through the sacrifice of the body of Jesus Christ once for all."
+greek: "ἐν ᾧ θελήματι ἡγιασμένοι ἐσμὲν οἱ διὰ τῆς προσφορᾶς τοῦ σώματος τοῦ Ἰησοῦ Χριστοῦ ἐφάπαξ.¶"
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2307]]"
+- "[[G0037]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1223]]"
+- "[[G4376]]"
+- "[[G4983]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2178]]"
+texts:
+- NKO
+- k
+---
+
 **Hebrews 10:10**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By the which will we are sanctified through the offering of the body of Jesus Christ once [for all].
 <small><sub>**BSB:**</sub></small>
 And by that will, we have been sanctified through the sacrifice of the body of Jesus Christ once for all.
-<small><sub>**Literal:**</sub></small>
-By that will sanctified we are <the> through the offering of the body <the> of Jesus Christ once for all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.9|<< Hebrews 10:9]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.11|Hebrews 10:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G2307\|θελήματι]]  [[G0037\|ἡγιασμένοι]]  [[G1510\|ἐσμὲν]]  [[G3588\|οἱ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4376\|προσφορᾶς]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G2178\|ἐφάπαξ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SUFFERING|SUFFERING]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.9|<< Hebrews 10:9]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.11|Hebrews 10:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

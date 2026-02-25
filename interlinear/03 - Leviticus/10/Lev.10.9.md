@@ -1,8 +1,75 @@
+---
+title: Leviticus 10:9
+type: Verse
+kjv: "Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: it shall be a statute for ever throughout your generations:"
+bsb: "“You and your sons are not to drink wine or strong drink when you enter the Tent of Meeting, or else you will die; this is a permanent statute for the generations to come."
+hebrew: "יַ֣יִן וְשֵׁכָ֞ר אַל־ תֵּ֣שְׁתְּ׀ אַתָּ֣ה׀ וּבָנֶ֣יךָ אִתָּ֗ךְ בְּבֹאֲכֶ֛ם אֶל־ אֹ֥הֶל מוֹעֵ֖ד וְלֹ֣א תָמֻ֑תוּ חֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם׃"
+pericope: "[[Lev.10.8 Restrictions for Priests|Restrictions for Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 10
+book/chapter: "[[Lev.10|Leviticus 10]]"
+chronological_order: 142
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROHIBITION|PROHIBITION]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H7941]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8354]]"
+- "[[H9015]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9046]]"
+- "[[H0413]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H2708]]"
+- "[[H5769G]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 10:9**<big><big>[[Lev.10.8 Restrictions for Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do not drink wine nor strong drink, thou, nor thy sons with thee, when ye go into the tabernacle of the congregation, lest ye die: [it shall be] a statute for ever throughout your generations:
 <small><sub>**BSB:**</sub></small>
 “You and your sons are not to drink wine or strong drink when you enter the Tent of Meeting, or else you will die; this is a permanent statute for the generations to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H3196\|יַ֣יִן]] [[H9002\|וְ]][[H7941\|שֵׁכָ֞ר]] [[H0408\|אַל]][[H9014\|־]] [[H8354\|תֵּ֣שְׁתְּ]][[H9015\|׀]] [[H0859A\|אַתָּ֣ה]][[H9015\|׀]] [[H9002\|וּ]][[H1121A\|בָנֶ֣י]][[H9021\|ךָ]] [[H0854\|אִתָּ֗]][[H9031\|ךְ]] [[H9003\|בְּ]][[H0935G\|בֹאֲ]][[H9046\|כֶ֛ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵ֖ד]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4191\|תָמֻ֑תוּ]] [[H2708\|חֻקַּ֥ת]] [[H5769G\|עוֹלָ֖ם]] [[H9005\|לְ]][[H1755\|דֹרֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic HOLINESS|HOLINESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROHIBITION|PROHIBITION]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.10.8|<< Leviticus 10:8]]</td><td align="center" style="border:none;">[[Lev.10|Leviticus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.10.10|Leviticus 10:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

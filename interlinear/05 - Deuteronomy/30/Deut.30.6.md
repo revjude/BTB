@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 30:6
+type: Verse
+kjv: "And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live."
+bsb: "The LORD your God will circumcise your hearts and the hearts of your descendants, and you will love Him with all your heart and with all your soul, so that you may live."
+hebrew: "וּמָ֨ל יְהוָ֧ה אֱלֹהֶ֛יךָ אֶת־ לְבָבְךָ֖ וְאֶת־ לְבַ֣ב זַרְעֶ֑ךָ לְאַהֲבָ֞ה אֶת־ יְהוָ֧ה אֱלֹהֶ֛יךָ בְּכָל־ לְבָבְךָ֥ וּבְכָל־ נַפְשְׁךָ֖ לְמַ֥עַן חַיֶּֽיךָ׃"
+pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic HEART|HEART]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REGENERATION|REGENERATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H4135A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9002]]"
+- "[[H2233H]]"
+- "[[H9005]]"
+- "[[H0157G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H5315G]]"
+- "[[H4616]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:6**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live.
 <small><sub>**BSB:**</sub></small>
 The LORD your God will circumcise your hearts and the hearts of your descendants, and you will love Him with all your heart and with all your soul, so that you may live.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4135A\|מָ֨ל]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבַ֣ב]] [[H2233H\|זַרְעֶ֑]][[H9021\|ךָ]] [[H9005\|לְ]][[H0157G\|אַהֲבָ֞ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֥]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשְׁ]][[H9021\|ךָ֖]] [[H4616\|לְמַ֥עַן]] [[H2416E\|חַיֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic HEART|HEART]] • [[topic LOVE|LOVE]] • [[topic PENITENT|PENITENT]] • [[topic REGENERATION|REGENERATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.5|<< Deuteronomy 30:5]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.7|Deuteronomy 30:7 >>]]</td></tr></table>
 

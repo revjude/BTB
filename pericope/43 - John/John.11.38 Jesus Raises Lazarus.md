@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Raises Lazarus
+type: Pericope
 pericope: "[[John.11.38 Jesus Raises Lazarus|Jesus Raises Lazarus]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: John
 chapter: 11
 book/chapter: "[[John.11|John 11]]"
-genre:
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 7
 verses:
 - "[[John.11.38]]"
 - "[[John.11.39]]"
@@ -25,7 +32,7 @@ verses:
 - "[[John.11.44]]"
 ---
 
-[[John.11|John 11:38 - John 11:44]]
+<small>[[John.11|John 11:38-44]]</small>
 *Jesus Raises Lazarus*
 
 [[John.11.38|38]] Jesus therefore again groaning in himself cometh to the grave. It was a cave, and a stone lay upon it.

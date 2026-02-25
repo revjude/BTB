@@ -1,10 +1,61 @@
+---
+title: Galatians 6:12
+type: Verse
+kjv: "As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ."
+bsb: "Those who want to make a good impression outwardly are trying to compel you to be circumcised. They only do this to avoid persecution for the cross of Christ."
+greek: "ὅσοι θέλουσιν εὐπροσωπῆσαι ἐν σαρκί, οὗτοι ἀναγκάζουσιν ὑμᾶς περιτέμνεσθαι, μόνον ἵνα τῷ σταυρῷ τοῦ Χριστοῦ Ἰησοῦ μὴ διώκωνται·"
+pericope: "[[Gal.6.11 Final Warnings and Blessings|Final Warnings and Blessings]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G3745]]"
+- "[[G2309]]"
+- "[[G2146]]"
+- "[[G1722]]"
+- "[[G4561]]"
+- "[[G3778]]"
+- "[[G0315]]"
+- "[[G4771]]"
+- "[[G4059]]"
+- "[[G3441]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G4716]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3361]]"
+- "[[G1377]]"
+texts:
+- NKO
+- O
+---
+
 **Galatians 6:12**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.
 <small><sub>**BSB:**</sub></small>
 Those who want to make a good impression outwardly are trying to compel you to be circumcised. They only do this to avoid persecution for the cross of Christ.
-<small><sub>**Literal:**</sub></small>
-As many as wish to have a fair appearance in [the] flesh, these compel you to be circumcised, only that for the cross <the> of Christ Jesus not they may be persecuted;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.11|<< Galatians 6:11]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.13|Galatians 6:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3745\|ὅσοι]]  [[G2309\|θέλουσιν]]  [[G2146\|εὐπροσωπῆσαι]]  [[G1722\|ἐν]]  [[G4561\|σαρκί,]]  [[G3778\|οὗτοι]]  [[G0315\|ἀναγκάζουσιν]]  [[G4771\|ὑμᾶς]]  [[G4059\|περιτέμνεσθαι,]]  [[G3441\|μόνον]]  [[G2443\|ἵνα]]  [[G3588\|τῷ]]  [[G4716\|σταυρῷ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3361\|μὴ]]  [[G1377\|διώκωνται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COWARDICE|COWARDICE]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.11|<< Galatians 6:11]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.13|Galatians 6:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

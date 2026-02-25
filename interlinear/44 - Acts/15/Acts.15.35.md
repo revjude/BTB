@@ -1,10 +1,55 @@
+---
+title: Acts 15:35
+type: Verse
+kjv: "Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also."
+bsb: "But Paul and Barnabas remained at Antioch, along with many others, teaching and preaching the word of the Lord."
+greek: "Παῦλος δὲ καὶ Βαρναβᾶς διέτριβον ἐν Ἀντιοχείᾳ διδάσκοντες καὶ εὐαγγελιζόμενοι μετὰ καὶ ἑτέρων πολλῶν τὸν λόγον τοῦ κυρίου.¶"
+pericope: "[[Acts.15.30 The Believers at Antioch Rejoice|The Believers at Antioch Rejoice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ELDER|ELDER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3972G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G0921G]]"
+- "[[G1304]]"
+- "[[G1722]]"
+- "[[G0490G]]"
+- "[[G1321]]"
+- "[[G2097]]"
+- "[[G3326]]"
+- "[[G2087]]"
+- "[[G4183]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Acts 15:35**<big><big>[[Acts.15.30 The Believers at Antioch Rejoice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also.
 <small><sub>**BSB:**</sub></small>
 But Paul and Barnabas remained at Antioch, along with many others, teaching and preaching the word of the Lord.
-<small><sub>**Literal:**</sub></small>
-Paul however and Barnabas were staying in Antioch teaching and evangelising with also others many the word of the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.34|<< Acts 15:34]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.36|Acts 15:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3972G\|Παῦλος]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G0921G\|Βαρναβᾶς]]  [[G1304\|διέτριβον]]  [[G1722\|ἐν]]  [[G0490G\|Ἀντιοχείᾳ]]  [[G1321\|διδάσκοντες]]  [[G2532\|καὶ]]  [[G2097\|εὐαγγελιζόμενοι]]  [[G3326\|μετὰ]]  [[G2532\|καὶ]]  [[G2087\|ἑτέρων]]  [[G4183\|πολλῶν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELDER|ELDER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.34|<< Acts 15:34]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.36|Acts 15:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

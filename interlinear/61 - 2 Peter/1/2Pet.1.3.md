@@ -1,10 +1,67 @@
+---
+title: 2 Peter 1:3
+type: Verse
+kjv: "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:"
+bsb: "His divine power has given us everything we need for life and godliness through the knowledge of Him who called us by His own glory and excellence."
+greek: "ὡς πάντα ἡμῖν τῆς θείας δυνάμεως αὐτοῦ τὰ πρὸς ζωὴν καὶ εὐσέβειαν δεδωρημένης διὰ τῆς ἐπιγνώσεως τοῦ καλέσαντος ἡμᾶς ἰδίᾳ δόξῃ καὶ ἀρετῇ,"
+pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CALL|CALL]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G5613]]"
+- "[[G3956]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G2304]]"
+- "[[G1411]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G2222]]"
+- "[[G2532]]"
+- "[[G2150]]"
+- "[[G1433]]"
+- "[[G1223]]"
+- "[[G1922]]"
+- "[[G2564G]]"
+- "[[G2398]]"
+- "[[G1391]]"
+- "[[G0703]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 Peter 1:3**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 According as his divine power hath given unto us all things that [pertain] unto life and godliness, through the knowledge of him that hath called us to glory and virtue:
 <small><sub>**BSB:**</sub></small>
 His divine power has given us everything we need for life and godliness through the knowledge of Him who called us by His own glory and excellence.
-<small><sub>**Literal:**</sub></small>
-Accordingly all things to us by the divine power of Him <the> toward life and godliness having himself given through the knowledge of the [One who] having called us [by His] own glory and excellence,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.2|<< 2 Peter 1:2]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.4|2 Peter 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G3956\|πάντα]]  [[G3165\|ἡμῖν]]  [[G3588\|τῆς]]  [[G2304\|θείας]]  [[G1411\|δυνάμεως]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὰ]]  [[G4314\|πρὸς]]  [[G2222\|ζωὴν]]  [[G2532\|καὶ]]  [[G2150\|εὐσέβειαν]]  [[G1433\|δεδωρημένης]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G1922\|ἐπιγνώσεως]]  [[G3588\|τοῦ]]  [[G2564G\|καλέσαντος]]  [[G3165\|ἡμᾶς]]  [[G2398\|ἰδίᾳ]]  [[G1391\|δόξῃ]]  [[G2532\|καὶ]]  [[G0703\|ἀρετῇ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic BLESSING|BLESSING]] • [[topic CALL|CALL]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REGENERATION|REGENERATION]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.2|<< 2 Peter 1:2]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.4|2 Peter 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

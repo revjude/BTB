@@ -1,8 +1,65 @@
+---
+title: Judges 19:10
+type: Verse
+kjv: "But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which is Jerusalem; and there were with him two asses saddled, his concubine also was with him."
+bsb: "But the man was unwilling to spend the night. He got up and departed, and arrived opposite Jebus (that is, Jerusalem), with his two saddled donkeys and his concubine."
+hebrew: "וְלֹֽא־ אָבָ֤ה הָאִישׁ֙ לָל֔וּן וַיָּ֣קָם וַיֵּ֗לֶךְ וַיָּבֹא֙ עַד־ נֹ֣כַח יְב֔וּס הִ֖יא יְרוּשָׁלִָ֑ם וְעִמּ֗וֹ צֶ֤מֶד חֲמוֹרִים֙ חֲבוּשִׁ֔ים וּפִילַגְשׁ֖וֹ עִמּֽוֹ׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H3885A]]"
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H5227]]"
+- "[[H2982]]"
+- "[[H1931]]"
+- "[[H3389]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H6776]]"
+- "[[H2543]]"
+- "[[H2280]]"
+- "[[H6370]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:10**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the man would not tarry that night, but he rose up and departed, and came over against Jebus, which [is] Jerusalem; and [there were] with him two asses saddled, his concubine also [was] with him.
 <small><sub>**BSB:**</sub></small>
 But the man was unwilling to spend the night. He got up and departed, and arrived opposite Jebus (that is, Jerusalem), with his two saddled donkeys and his concubine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0014\|אָבָ֤ה]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H9005\|לָ]][[H3885A\|ל֔וּן]] [[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H9001\|וַ]][[H1980G\|יֵּ֗לֶךְ]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H5704\|עַד]][[H9014\|־]] [[H5227\|נֹ֣כַח]] [[H2982\|יְב֔וּס]] [[H1931\|הִ֖יא]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H5973A\|עִמּ֗]][[H9033\|וֹ]] [[H6776\|צֶ֤מֶד]] [[H2543\|חֲמוֹרִים֙]] [[H2280\|חֲבוּשִׁ֔ים]] [[H9002\|וּ]][[H6370\|פִילַגְשׁ֖]][[H9023\|וֹ]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.9|<< Judges 19:9]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.11|Judges 19:11 >>]]</td></tr></table>
 

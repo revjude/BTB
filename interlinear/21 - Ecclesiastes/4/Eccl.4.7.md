@@ -1,8 +1,50 @@
+---
+title: Ecclesiastes 4:7
+type: Verse
+kjv: "Then I returned, and I saw vanity under the sun."
+bsb: "Again, I saw futility under the sun."
+hebrew: "וְשַׁ֧בְתִּי אֲנִ֛י וָאֶרְאֶ֥ה הֶ֖בֶל תַּ֥חַת הַשָּֽׁמֶשׁ׃"
+pericope: "[[Eccl.4.1 The Evil of Oppression|The Evil of Oppression]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AVARICE|AVARICE]]"
+- "[[topic MISER|MISER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H0589]]"
+- "[[H7200G]]"
+- "[[H1892]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 4:7**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I returned, and I saw vanity under the sun.
 <small><sub>**BSB:**</sub></small>
 Again, I saw futility under the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725J\|שַׁ֧בְתִּי]] [[H0589\|אֲנִ֛י]] [[H9001\|וָ]][[H7200G\|אֶרְאֶ֥ה]] [[H1892\|הֶ֖בֶל]] [[H8478G\|תַּ֥חַת]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVARICE|AVARICE]] • [[topic MISER|MISER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.6|<< Ecclesiastes 4:6]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.8|Ecclesiastes 4:8 >>]]</td></tr></table>
 

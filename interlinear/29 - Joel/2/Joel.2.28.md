@@ -1,8 +1,79 @@
+---
+title: Joel 2:28
+type: Verse
+kjv: "And it shall come to pass afterward, that I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:"
+bsb: "And afterward, I will pour out My Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions."
+hebrew: "וְהָיָ֣ה אַֽחֲרֵי־ כֵ֗ן אֶשְׁפּ֤וֹךְ אֶת־ רוּחִי֙ עַל־ כָּל־ בָּשָׂ֔ר וְנִבְּא֖וּ בְּנֵיכֶ֣ם וּבְנֽוֹתֵיכֶ֑ם זִקְנֵיכֶם֙ חֲלֹמ֣וֹת יַחֲלֹמ֔וּן בַּח֣וּרֵיכֶ֔ם חֶזְיֹנ֖וֹת יִרְאֽוּ׃"
+pericope: "[[Joel.2.28 I Will Pour Out My Spirit|I Will Pour Out My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETESSES|PROPHETESSES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H8210G]]"
+- "[[H0853]]"
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H1320]]"
+- "[[H5012]]"
+- "[[H1121G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H2205H]]"
+- "[[H2472]]"
+- "[[H2492B]]"
+- "[[H9013]]"
+- "[[H0970]]"
+- "[[H2384]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:28**<big><big>[[Joel.2.28 I Will Pour Out My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass afterward, [that] I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:
 <small><sub>**BSB:**</sub></small>
 And afterward, I will pour out My Spirit on all people. Your sons and daughters will prophesy, your old men will dream dreams, your young men will see visions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H0310A\|אַֽחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֗ן]] [[H8210G\|אֶשְׁפּ֤וֹךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|רוּחִ]][[H9020\|י֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֔ר]] [[H9001\|וְ]][[H5012\|נִבְּא֖וּ]] [[H1121G\|בְּנֵי]][[H9026\|כֶ֣ם]] [[H9002\|וּ]][[H1323G\|בְנֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H2205H\|זִקְנֵי]][[H9026\|כֶם֙]] [[H2472\|חֲלֹמ֣וֹת]] [[H2492B\|יַחֲלֹמ֔וּ]][[H9013\|ן]] [[H0970\|בַּח֣וּרֵי]][[H9026\|כֶ֔ם]] [[H2384\|חֶזְיֹנ֖וֹת]] [[H7200G\|יִרְאֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CHURCH|CHURCH]] • [[topic DREAM|DREAM]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETESSES|PROPHETESSES]] • [[topic PROPHETS|PROPHETS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REVIVALS|REVIVALS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.27|<< Joel 2:27]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.29|Joel 2:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

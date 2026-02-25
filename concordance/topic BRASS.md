@@ -15,7 +15,7 @@
 
 → Articles made of
 
-- Altar, vessels, and other articles of the tabernacle and temple  [[Exod.38.28|Ex 38:28]]-[[Exod.38.31|31]]; [[1Kgs.7.14|1Ki 7:14]]-[[1Kgs.7.47|47]]; [[Ezra.8.27|Ezr 8:27]]
+- Altar, vessels, and other articles of the tabernacle and temple  [[Exod.38.28|Ex 38:28-31]]; [[1Kgs.7.14|1Ki 7:14-47]]; [[Ezra.8.27|Ezr 8:27]]
 
 - Cymbals [[1Chr.15.19|1Ch 15:19]]
 

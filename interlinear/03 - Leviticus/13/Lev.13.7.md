@@ -1,8 +1,65 @@
+---
+title: Leviticus 13:7
+type: Verse
+kjv: "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:"
+bsb: "But if the rash spreads further on his skin after he has shown himself to the priest for his cleansing, he must present himself again to the priest."
+hebrew: "וְאִם־ פָּשֹׂ֨ה תִפְשֶׂ֤ה הַמִּסְפַּ֙חַת֙ בָּע֔וֹר אַחֲרֵ֧י הֵרָאֹת֛וֹ אֶל־ הַכֹּהֵ֖ן לְטָהֳרָת֑וֹ וְנִרְאָ֥ה שֵׁנִ֖ית אֶל־ הַכֹּהֵֽן׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SCAB|SCAB]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6581]]"
+- "[[H9009]]"
+- "[[H4556]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H0310A]]"
+- "[[H7200G]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H2893]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:7**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:
 <small><sub>**BSB:**</sub></small>
 But if the rash spreads further on his skin after he has shown himself to the priest for his cleansing, he must present himself again to the priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H6581\|פָּשֹׂ֨ה]] [[H6581\|תִפְשֶׂ֤ה]] [[H9009\|הַ]][[H4556\|מִּסְפַּ֙חַת֙]] [[H9003\|בָּ]][[H5785\|ע֔וֹר]] [[H0310A\|אַחֲרֵ֧י]] [[H7200G\|הֵרָאֹת֛]][[H9043\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9005\|לְ]][[H2893\|טָהֳרָת֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H7200G\|נִרְאָ֥ה]] [[H8145\|שֵׁנִ֖ית]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]] • [[topic SCAB|SCAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.6|<< Leviticus 13:6]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.8|Leviticus 13:8 >>]]</td></tr></table>
 

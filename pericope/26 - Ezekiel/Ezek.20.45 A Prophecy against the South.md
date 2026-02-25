@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against the South
+type: Pericope
 pericope: "[[Ezek.20.45 A Prophecy against the South|A Prophecy against the South]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 20
 book/chapter: "[[Ezek.20|Ezekiel 20]]"
-genre:
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 5
 verses:
 - "[[Ezek.20.45]]"
 - "[[Ezek.20.46]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Ezek.20.49]]"
 ---
 
-[[Ezek.20|Ezekiel 20:45 - Ezekiel 20:49]]
+<small>[[Ezek.20|Ezekiel 20:45-49]]</small>
 *A Prophecy against the South*
 
 [[Ezek.20.45|45]] Moreover the word of the LORD came unto me, saying,

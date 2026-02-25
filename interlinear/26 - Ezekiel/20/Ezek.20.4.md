@@ -1,8 +1,51 @@
+---
+title: Ezekiel 20:4
+type: Verse
+kjv: "Wilt thou judge them, son of man, wilt thou judge them? cause them to know the abominations of their fathers:"
+bsb: "Will you judge them, will you judge them, son of man? Confront them with the abominations of their fathers"
+hebrew: "הֲתִשְׁפֹּ֣ט אֹתָ֔ם הֲתִשְׁפּ֖וֹט בֶּן־ אָדָ֑ם אֶת־ תּוֹעֲבֹ֥ת אֲבוֹתָ֖ם הוֹדִיעֵֽם׃"
+pericope: "[[Ezek.20.1 Israel’s Rebellion in Egypt|Israel’s Rebellion in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9008]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H8441]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:4**<big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou judge them, son of man, wilt thou judge [them]? cause them to know the abominations of their fathers:
 <small><sub>**BSB:**</sub></small>
 Will you judge them, will you judge them, son of man? Confront them with the abominations of their fathers
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H8199\|תִשְׁפֹּ֣ט]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9008\|הֲ]][[H8199\|תִשְׁפּ֖וֹט]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֑ם]] [[H0853\|אֶת]][[H9014\|־]] [[H8441\|תּוֹעֲבֹ֥ת]] [[H0001G\|אֲבוֹתָ֖]][[H9028\|ם]] [[H3045\|הוֹדִיעֵֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.3|<< Ezekiel 20:3]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.5|Ezekiel 20:5 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Psalm 72:17
+type: Verse
+kjv: "His name shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed."
+bsb: "May his name endure forever; may his name continue as long as the sun shines. In him may all nations be blessed; may they call him blessed."
+hebrew: "יְהִ֤י שְׁמ֨וֹ לְֽעוֹלָ֗ם לִפְנֵי־ שֶׁמֶשׁ֮ יִנּ֪וֹן שְׁ֫מ֥וֹ וְיִתְבָּ֥רְכוּ ב֑וֹ כָּל־ גּוֹיִ֥ם יְאַשְּׁרֽוּהוּ׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ETERNITY|ETERNITY]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1961]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H8121]]"
+- "[[H5125]]"
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H1471A]]"
+- "[[H0833]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 72:17**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His name shall endure for ever: his name shall be continued as long as the sun: and [men] shall be blessed in him: all nations shall call him blessed.
 <small><sub>**BSB:**</sub></small>
 May his name endure forever; may his name continue as long as the sun shines. In him may all nations be blessed; may they call him blessed.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יְהִ֤י]] [[H8034\|שְׁמ֨]][[H9023\|וֹ]] [[H9005\|לְֽ]][[H5769G\|עוֹלָ֗ם]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H8121\|שֶׁמֶשׁ֮]] [[H5125\|יִנּ֪וֹן]] [[H8034\|שְׁ֫מ֥]][[H9023\|וֹ]] [[H9002\|וְ]][[H1288\|יִתְבָּ֥רְכוּ]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H1471A\|גּוֹיִ֥ם]] [[H0833\|יְאַשְּׁרֽוּ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic ETERNITY|ETERNITY]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.16|<< Psalms 72:16]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.18|Psalms 72:18 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: 1 Kings 13:17
+type: Verse
+kjv: "For it was said to me by the word of the LORD, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest."
+bsb: "For I have been told by the word of the LORD: ‘You must not eat bread or drink water there or return by the way you came.’”"
+hebrew: "כִּֽי־ דָבָ֤ר אֵלַי֙ בִּדְבַ֣ר יְהוָ֔ה לֹֽא־ תֹאכַ֣ל לֶ֔חֶם וְלֹֽא־ תִשְׁתֶּ֥ה שָׁ֖ם מָ֑יִם לֹא־ תָשׁ֣וּב לָלֶ֔כֶת בַּדֶּ֖רֶךְ אֲשֶׁר־ הָלַ֥כְתָּ בָּֽהּ׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1697H]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H8033G]]"
+- "[[H4325G]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H1870K]]"
+- "[[H0834A]]"
+- "[[H1980H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:17**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it was said to me by the word of the LORD, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest.
 <small><sub>**BSB:**</sub></small>
 For I have been told by the word of the LORD: ‘You must not eat bread or drink water there or return by the way you came.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1697H\|דָבָ֤ר]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H9003\|בִּ]][[H1697G\|דְבַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0398\|תֹאכַ֣ל]] [[H3899H\|לֶ֔חֶם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8354\|תִשְׁתֶּ֥ה]] [[H8033G\|שָׁ֖ם]] [[H4325G\|מָ֑יִם]] [[H3808\|לֹא]][[H9014\|־]] [[H7725G\|תָשׁ֣וּב]] [[H9005\|לָ]][[H1980G\|לֶ֔כֶת]] [[H9003\|בַּ]][[H1870K\|דֶּ֖רֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1980H\|הָלַ֥כְתָּ]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.16|<< 1 Kings 13:16]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.18|1 Kings 13:18 >>]]</td></tr></table>
 

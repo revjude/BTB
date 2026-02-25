@@ -1,10 +1,58 @@
+---
+title: Matthew 26:23
+type: Verse
+kjv: "And he answered and said, He that dippeth his hand with me in the dish, the same shall betray me."
+bsb: "Jesus answered, “The one who has dipped his hand into the bowl with Me will betray Me."
+jesus_said: "He that dippeth his hand with me in the dish, the same shall betray me."
+greek: "Ὁ δὲ ἀποκριθεὶς εἶπεν· ὁ ἐμβάψας μετ᾽ ἐμοῦ τὴν χεῖρα ἐν τῷ τρυβλίῳ, οὗτός με παραδώσει."
+pericope: "[[Matt.26.20 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G1686]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G5495]]"
+- "[[G1722]]"
+- "[[G5165]]"
+- "[[G3778]]"
+- "[[G3165]]"
+- "[[G3860]]"
+texts:
+- NKO
+---
+
 **Matthew 26:23**<big><big>[[Matt.26.20 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he answered and said, He that dippeth [his] hand with me in the dish, the same shall betray me.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “The one who has dipped his hand into the bowl with Me will betray Me.
-<small><sub>**Literal:**</sub></small>
-<the> And answering He said; The [one] having dipped with Me the hand in the dish he Me will betray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.22|<< Matthew 26:22]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.24|Matthew 26:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν·]]  [[G3588\|ὁ]]  [[G1686\|ἐμβάψας]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5165\|τρυβλίῳ,]]  [[G3778\|οὗτός]]  [[G3165\|με]]  [[G3860\|παραδώσει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic FEASTS|FEASTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.22|<< Matthew 26:22]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.24|Matthew 26:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

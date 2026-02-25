@@ -1,8 +1,62 @@
+---
+title: Joshua 24:30
+type: Verse
+kjv: "And they buried him in the border of his inheritance in Timnathserah, which is in mount Ephraim, on the north side of the hill of Gaash."
+bsb: "And they buried him in the land of his inheritance, at Timnath-serah in the hill country of Ephraim, north of Mount Gaash."
+hebrew: "וַיִּקְבְּר֤וּ אֹתוֹ֙ בִּגְב֣וּל נַחֲלָת֔וֹ בְּתִמְנַת־ סֶ֖רַח אֲשֶׁ֣ר בְּהַר־ אֶפְרָ֑יִם מִצְּפ֖וֹן לְהַר־ גָּֽעַשׁ׃"
+pericope: "[[Josh.24.29 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GAASH|GAASH]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic TIMNATH-SERAH|TIMNATH-SERAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1366H]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H8556B]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9005]]"
+- "[[H2022G]]"
+- "[[H1608]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:30**<big><big>[[Josh.24.29 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they buried him in the border of his inheritance in Timnathserah, which [is] in mount Ephraim, on the north side of the hill of Gaash.
 <small><sub>**BSB:**</sub></small>
 And they buried him in the land of his inheritance, at Timnath-serah in the hill country of Ephraim, north of Mount Gaash.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6912\|יִּקְבְּר֤וּ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9003\|בִּ]][[H1366H\|גְב֣וּל]] [[H5159\|נַחֲלָת֔]][[H9023\|וֹ]] [[H9003\|בְּ]][[H8556B\|תִמְנַת]][[H9014\|־]] [[H8556B\|סֶ֖רַח]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H2022H\|הַר]][[H9014\|־]] [[H0669G\|אֶפְרָ֑יִם]] [[H9006\|מִ]][[H6828G\|צְּפ֖וֹן]] [[H9005\|לְ]][[H2022G\|הַר]][[H9014\|־]] [[H1608\|גָּֽעַשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAASH|GAASH]] • [[topic JOSHUA|JOSHUA]] • [[topic SHECHEM|SHECHEM]] • [[topic TIMNATH-SERAH|TIMNATH-SERAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.29|<< Joshua 24:29]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.31|Joshua 24:31 >>]]</td></tr></table>
 

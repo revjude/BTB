@@ -1,8 +1,69 @@
+---
+title: 1 Kings 20:33
+type: Verse
+kjv: "Now the men did diligently observe whether any thing would come from him, and did hastily catch it: and they said, Thy brother Benhadad. Then he said, Go ye, bring him. Then Benhadad came forth to him; and he caused him to come up into the chariot."
+bsb: "Now the men were looking for a sign of hope, and they quickly grasped at this word and replied, “Yes, your brother Ben-hadad.” “Go and get him!” said the king. Then Ben-hadad came out, and Ahab had him come up into his chariot."
+hebrew: "וְהָאֲנָשִׁים֩ יְנַחֲשׁ֨וּ וַֽיְמַהֲר֜וּ וַיַּחְלְט֣וּ הֲמִמֶּ֗נּוּ וַיֹּֽאמְרוּ֙ אָחִ֣יךָ בֶן־ הֲדַ֔ד וַיֹּ֖אמֶר בֹּ֣אוּ קָחֻ֑הוּ וַיֵּצֵ֤א אֵלָיו֙ בֶּן־ הֲדַ֔ד וַֽיַּעֲלֵ֖הוּ עַל־ הַמֶּרְכָּבָֽה׃"
+pericope: "[[1Kgs.20.31 Ahab Spares Ben-hadad|Ahab Spares Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CORD|CORD]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H5172]]"
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H2480]]"
+- "[[H9008]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H1130G]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H3947J]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H4818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:33**<big><big>[[1Kgs.20.31 Ahab Spares Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the men did diligently observe whether [any thing would come] from him, and did hastily catch [it]: and they said, Thy brother Benhadad. Then he said, Go ye, bring him. Then Benhadad came forth to him; and he caused him to come up into the chariot.
 <small><sub>**BSB:**</sub></small>
 Now the men were looking for a sign of hope, and they quickly grasped at this word and replied, “Yes, your brother Ben-hadad.” “Go and get him!” said the king. Then Ben-hadad came out, and Ahab had him come up into his chariot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0582\|אֲנָשִׁים֩]] [[H5172\|יְנַחֲשׁ֨וּ]] [[H9001\|וַֽ]][[H4116A\|יְמַהֲר֜וּ]] [[H9001\|וַ]][[H2480\|יַּחְלְט֣וּ]] [[H9008\|הֲ]][[H4480A\|מִמֶּ֗]][[H9033\|נּוּ]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H0251I\|אָחִ֣י]][[H9021\|ךָ]] [[H1130G\|בֶן]][[H9014\|־]] [[H1130G\|הֲדַ֔ד]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0935G\|בֹּ֣אוּ]] [[H3947J\|קָחֻ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֤א]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H1130G\|בֶּן]][[H9014\|־]] [[H1130G\|הֲדַ֔ד]] [[H9001\|וַֽ]][[H5927G\|יַּעֲלֵ֖]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4818\|מֶּרְכָּבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic CORD|CORD]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic KINDNESS|KINDNESS]] • [[topic MAGNANIMITY|MAGNANIMITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.32|<< 1 Kings 20:32]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.34|1 Kings 20:34 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 51:6
+type: Verse
+kjv: "Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this is the time of the LORD’S vengeance; he will render unto her a recompence."
+bsb: "Flee from Babylon! Escape with your lives! Do not be destroyed in her punishment. For this is the time of the LORD’s vengeance; He will pay her what she deserves."
+hebrew: "נֻ֣סוּ׀ מִתּ֣וֹךְ בָּבֶ֗ל וּמַלְּטוּ֙ אִ֣ישׁ נַפְשׁ֔וֹ אַל־ תִּדַּ֖מּוּ בַּעֲוֹנָ֑הּ כִּי֩ עֵ֨ת נְקָמָ֥ה הִיא֙ לַֽיהוָ֔ה גְּמ֕וּל ה֥וּא מְשַׁלֵּ֖ם לָֽהּ׃"
+pericope: "[[Jer.51.1 Judgment on Babylon|Judgment on Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COMPANY|COMPANY]]"
+strongs:
+- "[[H5127]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H4422]]"
+- "[[H0376I]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1826I]]"
+- "[[H9003]]"
+- "[[H5771I]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H6256]]"
+- "[[H5360]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H1576]]"
+- "[[H7999A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:6**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Flee out of the midst of Babylon, and deliver every man his soul: be not cut off in her iniquity; for this [is] the time of the LORD’S vengeance; he will render unto her a recompence.
 <small><sub>**BSB:**</sub></small>
 Flee from Babylon! Escape with your lives! Do not be destroyed in her punishment. For this is the time of the LORD’s vengeance; He will pay her what she deserves.
+<small><sub>**Hebrew:**</sub></small>
+[[H5127\|נֻ֣סוּ]][[H9015\|׀]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H0894\|בָּבֶ֗ל]] [[H9002\|וּ]][[H4422\|מַלְּטוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H5315H\|נַפְשׁ֔]][[H9023\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H1826I\|תִּדַּ֖מּוּ]] [[H9003\|בַּ]][[H5771I\|עֲוֹנָ֑]][[H9024\|הּ]] [[H3588A\|כִּי֩]] [[H6256\|עֵ֨ת]] [[H5360\|נְקָמָ֥ה]] [[H1931\|הִיא֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H1576\|גְּמ֕וּל]] [[H1931\|ה֥וּא]] [[H7999A\|מְשַׁלֵּ֖ם]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.5|<< Jeremiah 51:5]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.7|Jeremiah 51:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,6 +1,73 @@
+---
+title: LXX 2 Samuel 14:26
+type: Verse
+lxx: "And in  his shearing  his head, and it took place at the end of days unto days that he sheared it, for it became burdensome upon him; and shearing, he set aside the hair  of his head two hundred shekels of the royal scale-weight."
+greek: "και εν τω κείρεσθαι αυτόν την κεφαλήν αυτού και εγένετο από τέλους ημερών εις ημέρας οτ΄ εκείρετο ότι κατεβαρύνετο επ΄ αυτόν και κειρόμενος ίστα την τρίχα της κεφαλής αυτού διακοσίους σίκλους εν τω σταθμώ τω βασιλικώ"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic HAIR|HAIR]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2751]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G0575]]"
+- "[[G5056]]"
+- "[[G2250]]"
+- "[[G1519]]"
+- "[[G2250]]"
+- "[[G3754]]"
+- "[[G2751]]"
+- "[[G3754]]"
+- "[[G2599]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2751]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G2359]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G1473]]"
+- "[[G1250]]"
+- "[[G9079]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G9150]]"
+- "[[G3588]]"
+- "[[G0937]]"
+---
+
 **LXX 2 Samuel 14:26** 
 <small><sub>**LXX:**</sub></small>
 And in  his shearing  his head, and it took place at \[the\] end of days unto days that he sheared it, for it became burdensome upon him; and shearing, he set \[aside\] the hair  of his head two hundred shekels of the royal scale-weight. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1722\|εν]] [[G3588\|τω]] [[G2751\|κείρεσθαι]] [[G1473\|αυτόν]] [[G3588\|την]] [[G2776\|κεφαλήν]] [[G1473\|αυτού]] [[G2532\|και]] [[G1096\|εγένετο]] [[G0575\|από]] [[G5056\|τέλους]] [[G2250\|ημερών]] [[G1519\|εις]] [[G2250\|ημέρας]] [[G3754\|οτ΄]] [[G2751\|εκείρετο]] [[G3754\|ότι]] [[G2599\|κατεβαρύνετο]] [[G1909\|επ΄]] [[G1473\|αυτόν]] [[G2532\|και]] [[G2751\|κειρόμενος]] [[G2476\|ίστα]] [[G3588\|την]] [[G2359\|τρίχα]] [[G3588\|της]] [[G2776\|κεφαλής]] [[G1473\|αυτού]] [[G1250\|διακοσίους]] [[G9079\|σίκλους]] [[G1722\|εν]] [[G3588\|τω]] [[G9150\|σταθμώ]] [[G3588\|τω]] [[G0937\|βασιλικώ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAIR|HAIR]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.25|<< 2 Samuel 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.27|2 Samuel 14:27 >>]]</td></tr></table>
 
@@ -39,6 +106,6 @@ And in  his shearing  his head, and it took place at \[the\] end of days unto da
 | scale-weight | **<big>[[G9150\|σταθμώ]]</big>** |
 | \<obj.> | **<big>[[G3588\|τω]]</big>** |
 | royal | **<big>[[G0937\|βασιλικώ]]</big>** |
-[[2Sam.14.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.25|<< 2 Samuel 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.27|2 Samuel 14:27 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.25|<< 2 Samuel 14:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.27|2 Samuel 14:27 >>]]</td></tr></table>
 
 

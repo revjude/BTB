@@ -1,10 +1,61 @@
+---
+title: Matthew 25:32
+type: Verse
+kjv: "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:"
+bsb: "All the nations will be gathered before Him, and He will separate the people one from another, as a shepherd separates the sheep from the goats."
+jesus_said: "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:"
+greek: "καὶ συναχθήσονται ἔμπροσθεν αὐτοῦ πάντα τὰ ἔθνη, καὶ ἀφορίσει αὐτοὺς ἀπ᾽ ἀλλήλων ὥσπερ ὁ ποιμὴν ἀφορίζει τὰ πρόβατα ἀπὸ τῶν ἐρίφων,"
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G1715]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G0873]]"
+- "[[G0575]]"
+- "[[G0240]]"
+- "[[G5618]]"
+- "[[G4166]]"
+- "[[G4263]]"
+- "[[G2056]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 25:32**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth [his] sheep from the goats:
 <small><sub>**BSB:**</sub></small>
 All the nations will be gathered before Him, and He will separate the people one from another, as a shepherd separates the sheep from the goats.
-<small><sub>**Literal:**</sub></small>
-And they will be gathered before Him all the nations, and He will separate them from one another as the shepherd separates the sheep from the goats,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.31|<< Matthew 25:31]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.33|Matthew 25:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4863\|συναχθήσονται]]  [[G1715\|ἔμπροσθεν]]  [[G0846\|αὐτοῦ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη,]]  [[G2532\|καὶ]]  [[G0873\|ἀφορίσει]]  [[G0846\|αὐτοὺς]]  [[G0575\|ἀπ᾽]]  [[G0240\|ἀλλήλων]]  [[G5618\|ὥσπερ]]  [[G3588\|ὁ]]  [[G4166\|ποιμὴν]]  [[G0873\|ἀφορίζει]]  [[G3588\|τὰ]]  [[G4263\|πρόβατα]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G2056\|ἐρίφων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic SHEPHERD|SHEPHERD]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.31|<< Matthew 25:31]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.33|Matthew 25:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

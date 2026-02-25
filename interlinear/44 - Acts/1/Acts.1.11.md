@@ -1,10 +1,66 @@
+---
+title: Acts 1:11
+type: Verse
+kjv: "Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven."
+bsb: "“Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen Him go into heaven.”"
+greek: "οἳ καὶ εἶπαν· ἄνδρες Γαλιλαῖοι, τί ἑστήκατε ἐμβλέποντες εἰς τὸν οὐρανόν; οὗτος ὁ Ἰησοῦς ὁ ἀναλημφθεὶς ἀφ᾽ ὑμῶν εἰς τὸν οὐρανὸν οὕτως ἐλεύσεται ὃν τρόπον ἐθεάσασθε αὐτὸν πορευόμενον εἰς τὸν οὐρανόν.¶"
+pericope: "[[Acts.1.6 The Ascension|The Ascension]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ASCENSION|ASCENSION]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRANSLATION|TRANSLATION]]"
+strongs:
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0435G]]"
+- "[[G1057]]"
+- "[[G5101]]"
+- "[[G2476]]"
+- "[[G1689]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3778]]"
+- "[[G2424G]]"
+- "[[G0353]]"
+- "[[G0575]]"
+- "[[G4771]]"
+- "[[G3779]]"
+- "[[G2064]]"
+- "[[G5158]]"
+- "[[G2300]]"
+- "[[G0846]]"
+- "[[G4198]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 1:11**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which also said, Ye men of Galilee, why stand ye gazing up into heaven? this same Jesus, which is taken up from you into heaven, shall so come in like manner as ye have seen him go into heaven.
 <small><sub>**BSB:**</sub></small>
 “Men of Galilee,” they said, “why do you stand here looking into the sky? This same Jesus, who has been taken from you into heaven, will come back in the same way you have seen Him go into heaven.”
-<small><sub>**Literal:**</sub></small>
-who also said; Men Galileans, why have you stood looking into <the> heaven? This <the> Jesus who having been taken up from you into <the> heaven thus will come in that manner you beheld Him going into <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.10|<< Acts 1:10]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.12|Acts 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἳ]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν·]]  [[G0435G\|ἄνδρες]]  [[G1057\|Γαλιλαῖοι,]]  [[G5101\|τί]]  [[G2476\|ἑστήκατε]]  [[G1689\|ἐμβλέποντες]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανόν;]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G0353\|ἀναλημφθεὶς]]  [[G0575\|ἀφ᾽]]  [[G4771\|ὑμῶν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G3779\|οὕτως]]  [[G2064\|ἐλεύσεται]]  [[G3739\|ὃν]]  [[G5158\|τρόπον]]  [[G2300\|ἐθεάσασθε]]  [[G0846\|αὐτὸν]]  [[G4198\|πορευόμενον]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ASCENSION|ASCENSION]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRANSLATION|TRANSLATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.10|<< Acts 1:10]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.12|Acts 1:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

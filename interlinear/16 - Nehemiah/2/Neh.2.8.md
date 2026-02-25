@@ -1,8 +1,76 @@
+---
+title: Nehemiah 2:8
+type: Verse
+kjv: "And a letter unto Asaph the keeper of the king’s forest, that he may give me timber to make beams for the gates of the palace which appertained to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me."
+bsb: "And may I have a letter to Asaph, keeper of the king’s forest, so that he will give me timber to make beams for the gates of the citadel to the temple, for the city wall, and for the house I will occupy.” And because the gracious hand of my God was upon me, the king granted my requests."
+hebrew: "וְאִגֶּ֡רֶת אֶל־ אָסָף֩ שֹׁמֵ֨ר הַפַּרְדֵּ֜ס אֲשֶׁ֣ר לַמֶּ֗לֶךְ אֲשֶׁ֣ר יִתֶּן־ לִ֣י עֵצִ֡ים לְ֠קָרוֹת אֶת־ שַׁעֲרֵ֨י הַבִּירָ֤ה אֲשֶׁר־ לַבַּ֙יִת֙ וּלְחוֹמַ֣ת הָעִ֔יר וְלַבַּ֖יִת אֲשֶׁר־ אָב֣וֹא אֵלָ֑יו וַיִּתֶּן־ לִ֣י הַמֶּ֔לֶךְ כְּיַד־ אֱלֹהַ֖י הַטּוֹבָ֥ה עָלָֽי׃"
+pericope: "[[Neh.2.1 Nehemiah Sent to Jerusalem|Nehemiah Sent to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+- "[[topic PASSPORTS|PASSPORTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0107]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0623J]]"
+- "[[H8104H]]"
+- "[[H9009]]"
+- "[[H6508]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H5414G]]"
+- "[[H9030]]"
+- "[[H6086G]]"
+- "[[H7136B]]"
+- "[[H0853]]"
+- "[[H8179G]]"
+- "[[H1002]]"
+- "[[H1004B]]"
+- "[[H2346G]]"
+- "[[H5892B]]"
+- "[[H0935G]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H9004]]"
+- "[[H3027H]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H2896A]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:8**<big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a letter unto Asaph the keeper of the king’s forest, that he may give me timber to make beams for the gates of the palace which [appertained] to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me.
 <small><sub>**BSB:**</sub></small>
 And may I have a letter to Asaph, keeper of the king’s forest, so that he will give me timber to make beams for the gates of the citadel to the temple, for the city wall, and for the house I will occupy.” And because the gracious hand of my God was upon me, the king granted my requests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0107\|אִגֶּ֡רֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H0623J\|אָסָף֩]] [[H8104H\|שֹׁמֵ֨ר]] [[H9009\|הַ]][[H6508\|פַּרְדֵּ֜ס]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לַ]][[H4428G\|מֶּ֗לֶךְ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|יִתֶּן]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H6086G\|עֵצִ֡ים]] [[H9005\|לְ֠]][[H7136B\|קָרוֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H8179G\|שַׁעֲרֵ֨י]] [[H9009\|הַ]][[H1002\|בִּירָ֤ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לַ]][[H1004B\|בַּ֙יִת֙]] [[H9002\|וּ]][[H9005\|לְ]][[H2346G\|חוֹמַ֣ת]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9002\|וְ]][[H9005\|לַ]][[H1004B\|בַּ֖יִת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|אָב֣וֹא]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H5414G\|יִּתֶּן]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9004\|כְּ]][[H3027H\|יַד]][[H9014\|־]] [[H0430G\|אֱלֹהַ֖]][[H9020\|י]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֥ה]] [[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic COUNTRY|COUNTRY]] • [[topic LETTERS|LETTERS]] • [[topic NEHEMIAH|NEHEMIAH]] • [[topic PASSPORTS|PASSPORTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.7|<< Nehemiah 2:7]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.9|Nehemiah 2:9 >>]]</td></tr></table>
 

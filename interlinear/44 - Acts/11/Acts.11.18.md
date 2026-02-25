@@ -1,10 +1,63 @@
+---
+title: Acts 11:18
+type: Verse
+kjv: "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life."
+bsb: "When they heard this, they had no further objections, and they glorified God, saying, “So then, God has granted even the Gentiles repentance unto life.”"
+greek: "Ἀκούσαντες δὲ ταῦτα ἡσύχασαν καὶ ἐδόξασαν τὸν θεὸν λέγοντες· ἄρα γε καὶ τοῖς ἔθνεσιν ὁ θεὸς τὴν μετάνοιαν εἰς ζωὴν ἔδωκεν.¶"
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G2270]]"
+- "[[G2532]]"
+- "[[G1392]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3004G]]"
+- "[[G0686]]"
+- "[[G1065]]"
+- "[[G1484]]"
+- "[[G3341]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G1325]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 11:18**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life.
 <small><sub>**BSB:**</sub></small>
 When they heard this, they had no further objections, and they glorified God, saying, “So then, God has granted even the Gentiles repentance unto life.”
-<small><sub>**Literal:**</sub></small>
-Having heard then these things they were silent and glorified <the> God saying; Then indeed indeed also to the Gentiles <the> God <the> repentance unto life has given.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.17|<< Acts 11:17]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.19|Acts 11:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσαντες]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G2270\|ἡσύχασαν]]  [[G2532\|καὶ]]  [[G1392\|ἐδόξασαν]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3004G\|λέγοντες·]]  [[G0686\|ἄρα]]  [[G1065\|γε]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὴν]]  [[G3341\|μετάνοιαν]]  [[G1519\|εἰς]]  [[G2222\|ζωὴν]]  [[G1325\|ἔδωκεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic GENTILES|GENTILES]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic JOY|JOY]] • [[topic PETER|PETER]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.17|<< Acts 11:17]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.19|Acts 11:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

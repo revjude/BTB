@@ -1,8 +1,80 @@
+---
+title: 1 Kings 18:36
+type: Verse
+kjv: "And it came to pass at the time of the offering of the evening sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou art God in Israel, and that I am thy servant, and that I have done all these things at thy word."
+bsb: "At the time of the evening sacrifice, Elijah the prophet approached the altar and said, “O LORD, God of Abraham, Isaac, and Israel, let it be known this day that You are God in Israel and that I am Your servant and have done all these things at Your command."
+hebrew: "וַיְהִ֣י׀ בַּעֲל֣וֹת הַמִּנְחָ֗ה וַיִּגַּ֞שׁ אֵלִיָּ֣הוּ הַנָּבִיא֮ וַיֹּאמַר֒ יְהוָ֗ה אֱלֹהֵי֙ אַבְרָהָם֙ יִצְחָ֣ק וְיִשְׂרָאֵ֔ל הַיּ֣וֹם יִוָּדַ֗ע כִּֽי־ אַתָּ֧ה אֱלֹהִ֛ים בְּיִשְׂרָאֵ֖ל וַאֲנִ֣י עַבְדֶּ֑ךָ וּבִדְבָרְךָ֣ עָשִׂ֔יתִי אֵ֥ת כָּל־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[1Kgs.18.36 Elijah’s Prayer|Elijah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H5927I]]"
+- "[[H9009]]"
+- "[[H4503G]]"
+- "[[H5066G]]"
+- "[[H0452G]]"
+- "[[H5030]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H3117L]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0589]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1697G]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 18:36**<big><big>[[1Kgs.18.36 Elijah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at [the time of] the offering of the [evening] sacrifice, that Elijah the prophet came near, and said, LORD God of Abraham, Isaac, and of Israel, let it be known this day that thou [art] God in Israel, and [that] I [am] thy servant, and [that] I have done all these things at thy word.
 <small><sub>**BSB:**</sub></small>
 At the time of the evening sacrifice, Elijah the prophet approached the altar and said, “O LORD, God of Abraham, Isaac, and Israel, let it be known this day that You are God in Israel and that I am Your servant and have done all these things at Your command.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H5927I\|עֲל֣וֹת]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֗ה]] [[H9001\|וַ]][[H5066G\|יִּגַּ֞שׁ]] [[H0452G\|אֵלִיָּ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִיא֮]] [[H9001\|וַ]][[H0559\|יֹּאמַר֒]] [[H3068G\|יְהוָ֗ה]] [[H0430G\|אֱלֹהֵי֙]] [[H0085\|אַבְרָהָם֙]] [[H3327\|יִצְחָ֣ק]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H3045\|יִוָּדַ֗ע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֧ה]] [[H0430G\|אֱלֹהִ֛ים]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בִ]][[H1697G\|דְבָרְ]][[H9021\|ךָ֣]] [[H6213A\|עָשִׂ֔יתִי]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic ELIJAH|ELIJAH]] • [[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.35|<< 1 Kings 18:35]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.37|1 Kings 18:37 >>]]</td></tr></table>
 
@@ -36,9 +108,9 @@ At the time of the evening sacrifice, Elijah the prophet approached the altar an
 | \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.35|<< 1 Kings 18:35]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.37|1 Kings 18:37 >>]]</td></tr></table>
 
-[^1]: and at words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: and at words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^3]: and at words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^4]: and at words your  | **<big>[[H9021|ךָ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: and at words your  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: and at words your  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: and at words your  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: and at words your  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H1697G|דִבְרֶי]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> div.rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^5]: L spelled: **<span class="ashebrew"><big>וּבִ/דְבָרְי/ךָ֣</big></span>**
 

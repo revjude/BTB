@@ -1,6 +1,52 @@
+---
+title: LXX Proverbs 6:14
+type: Verse
+lxx: "And a heart being perverted contrives evils; at all time  such a one concocts disturbances to a city."
+greek: "διεστραμμένη δε καρδία τεκταίνεται κακά εν παντί καιρώ ο τοιούτος ταραχάς συνίστησι πόλει"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G1294]]"
+- "[[G1161]]"
+- "[[G2588]]"
+- "[[G9412]]"
+- "[[G2556]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G2540]]"
+- "[[G3588]]"
+- "[[G5108]]"
+- "[[G5016]]"
+- "[[G4921]]"
+- "[[G4172]]"
+---
+
 **LXX Proverbs 6:14** 
 <small><sub>**LXX:**</sub></small>
 And a heart being perverted contrives evils; at all time  such a one concocts disturbances to a city. 
+<small><sub>**Greek:**</sub></small>
+[[G1294\|διεστραμμένη]] [[G1161\|δε]] [[G2588\|καρδία]] [[G9412\|τεκταίνεται]] [[G2556\|κακά]] [[G1722\|εν]] [[G3956\|παντί]] [[G2540\|καιρώ]] [[G3588\|ο]] [[G5108\|τοιούτος]] [[G5016\|ταραχάς]] [[G4921\|συνίστησι]] [[G4172\|πόλει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic MALICE|MALICE]] • [[topic STRIFE|STRIFE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.13|<< Proverbs 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.15|Proverbs 6:15 >>]]</td></tr></table>
 
@@ -19,6 +65,6 @@ And a heart being perverted contrives evils; at all time  such a one concocts di
 | disturbances | **<big>[[G5016\|ταραχάς]]</big>** |
 | concocts | **<big>[[G4921\|συνίστησι]]</big>** |
 | to a city. | **<big>[[G4172\|πόλει]]</big>** |
-[[Prov.6.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.13|<< Proverbs 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.15|Proverbs 6:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.6.13|<< Proverbs 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.6.15|Proverbs 6:15 >>]]</td></tr></table>
 
 

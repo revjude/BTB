@@ -1,8 +1,72 @@
+---
+title: Joshua 24:32
+type: Verse
+kjv: "And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph."
+bsb: "And the bones of Joseph, which the Israelites had brought up out of Egypt, were buried at Shechem in the plot of land that Jacob had purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver. So it became an inheritance for Joseph’s descendants."
+hebrew: "וְאֶת־ עַצְמ֣וֹת י֠וֹסֵף אֲשֶׁר־ הֶעֱל֨וּ בְנֵי־ יִשְׂרָאֵ֥ל׀ מִמִּצְרַיִם֮ קָבְר֣וּ בִשְׁכֶם֒ בְּחֶלְקַ֣ת הַשָּׂדֶ֗ה אֲשֶׁ֨ר קָנָ֧ה יַעֲקֹ֛ב מֵאֵ֛ת בְּנֵֽי־ חֲמ֥וֹר אֲבִֽי־ שְׁכֶ֖ם בְּמֵאָ֣ה קְשִׂיטָ֑ה וַיִּֽהְי֥וּ לִבְנֵֽי־ יוֹסֵ֖ף לְנַחֲלָֽה׃"
+pericope: "[[Josh.24.29 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HAMOR|HAMOR]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6106G]]"
+- "[[H3130G]]"
+- "[[H0834A]]"
+- "[[H5927H]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H7927G]]"
+- "[[H2513A]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H7069]]"
+- "[[H3290]]"
+- "[[H0854]]"
+- "[[H2544]]"
+- "[[H0001G]]"
+- "[[H3967]]"
+- "[[H7192]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H5159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:32**<big><big>[[Josh.24.29 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the bones of Joseph, which the children of Israel brought up out of Egypt, buried they in Shechem, in a parcel of ground which Jacob bought of the sons of Hamor the father of Shechem for an hundred pieces of silver: and it became the inheritance of the children of Joseph.
 <small><sub>**BSB:**</sub></small>
 And the bones of Joseph, which the Israelites had brought up out of Egypt, were buried at Shechem in the plot of land that Jacob had purchased from the sons of Hamor, Shechem’s father, for a hundred pieces of silver. So it became an inheritance for Joseph’s descendants.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6106G\|עַצְמ֣וֹת]] [[H3130G\|י֠וֹסֵף]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5927H\|הֶעֱל֨וּ]] [[H1121A\|בְנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]][[H9015\|׀]] [[H9006\|מִ]][[H4714G\|מִּצְרַיִם֮]] [[H6912\|קָבְר֣וּ]] [[H9003\|בִ]][[H7927G\|שְׁכֶם֒]] [[H9003\|בְּ]][[H2513A\|חֶלְקַ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H7069\|קָנָ֧ה]] [[H3290\|יַעֲקֹ֛ב]] [[H9006\|מֵ]][[H0854\|אֵ֛ת]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H2544\|חֲמ֥וֹר]] [[H0001G\|אֲבִֽי]][[H9014\|־]] [[H7927G\|שְׁכֶ֖ם]] [[H9003\|בְּ]][[H3967\|מֵאָ֣ה]] [[H7192\|קְשִׂיטָ֑ה]] [[H9001\|וַ]][[H1961\|יִּֽהְי֥וּ]] [[H9005\|לִ]][[H1121A\|בְנֵֽי]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H9005\|לְ]][[H5159\|נַחֲלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMOR|HAMOR]] • [[topic JOSEPH|JOSEPH]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.31|<< Joshua 24:31]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.33|Joshua 24:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

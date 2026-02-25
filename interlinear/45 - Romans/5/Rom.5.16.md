@@ -1,10 +1,64 @@
+---
+title: Romans 5:16
+type: Verse
+kjv: "And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification."
+bsb: "Again, the gift is not like the result of the one man’s sin: The judgment that followed one sin brought condemnation, but the gift that followed many trespasses brought justification."
+greek: "καὶ οὐχ ὡς δι᾽ ἑνὸς ἁμαρτήσαντος τὸ δώρημα· τὸ μὲν γὰρ κρίμα ἐξ ἑνὸς εἰς κατάκριμα, τὸ δὲ χάρισμα ἐκ πολλῶν παραπτωμάτων εἰς δικαίωμα.¶"
+pericope: "[[Rom.5.12 Death in Adam, Life in Christ|Death in Adam, Life in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G5613]]"
+- "[[G1223]]"
+- "[[G1520]]"
+- "[[G0264]]"
+- "[[G3588]]"
+- "[[G1434]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G2917]]"
+- "[[G1537]]"
+- "[[G1519]]"
+- "[[G2631]]"
+- "[[G1161]]"
+- "[[G5486]]"
+- "[[G4183]]"
+- "[[G3900]]"
+- "[[G1345]]"
+texts:
+- NKO
+---
+
 **Romans 5:16**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And not as [it was] by one that sinned, [so is] the gift: for the judgment [was] by one to condemnation, but the free gift [is] of many offences unto justification.
 <small><sub>**BSB:**</sub></small>
 Again, the gift is not like the result of the one man’s sin: The judgment that followed one sin brought condemnation, but the gift that followed many trespasses brought justification.
-<small><sub>**Literal:**</sub></small>
-And [is] not as through one having sinned the gift; That indeed for judgment [was] of one [was] unto condemnation, <the> however the gift [is] out of many trespasses unto justification.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.15|<< Romans 5:15]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.17|Romans 5:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐχ]]  [[G5613\|ὡς]]  [[G1223\|δι᾽]]  [[G1520\|ἑνὸς]]  [[G0264\|ἁμαρτήσαντος]]  [[G3588\|τὸ]]  [[G1434\|δώρημα·]]  [[G3588\|τὸ]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G2917\|κρίμα]]  [[G1537\|ἐξ]]  [[G1520\|ἑνὸς]]  [[G1519\|εἰς]]  [[G2631\|κατάκριμα,]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G5486\|χάρισμα]]  [[G1537\|ἐκ]]  [[G4183\|πολλῶν]]  [[G3900\|παραπτωμάτων]]  [[G1519\|εἰς]]  [[G1345\|δικαίωμα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic ATONEMENT|ATONEMENT]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.15|<< Romans 5:15]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.17|Romans 5:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,79 @@
+---
+title: Leviticus 7:21
+type: Verse
+kjv: "Moreover the soul that shall touch any unclean thing, as the uncleanness of man, or any unclean beast, or any abominable unclean thing, and eat of the flesh of the sacrifice of peace offerings, which pertain unto the LORD, even that soul shall be cut off from his people."
+bsb: "If one touches anything unclean, whether human uncleanness, an unclean animal, or any unclean, detestable thing, and then eats any of the meat of the peace offering that belongs to the LORD, that person must be cut off from his people.”"
+hebrew: "וְנֶ֜פֶשׁ כִּֽי־ תִגַּ֣ע בְּכָל־ טָמֵ֗א בְּטֻמְאַ֤ת אָדָם֙ א֣וֹ׀ בִּבְהֵמָ֣ה טְמֵאָ֗ה א֚וֹ בְּכָל־ שֶׁ֣קֶץ טָמֵ֔א וְאָכַ֛ל מִבְּשַׂר־ זֶ֥בַח הַשְּׁלָמִ֖ים אֲשֶׁ֣ר לַיהוָ֑ה וְנִכְרְתָ֛ה הַנֶּ֥פֶשׁ הַהִ֖וא מֵעַמֶּֽיהָ׃ פ"
+pericope: "[[Lev.7.11 The Peace Offering|The Peace Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5315J]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H2931]]"
+- "[[H2932]]"
+- "[[H0120G]]"
+- "[[H0176A]]"
+- "[[H9015]]"
+- "[[H0929]]"
+- "[[H8263]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H2077]]"
+- "[[H9009]]"
+- "[[H8002]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3772I]]"
+- "[[H1931]]"
+- "[[H5971B]]"
+- "[[H9024]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 7:21**<big><big>[[Lev.7.11 The Peace Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the soul that shall touch any unclean [thing, as] the uncleanness of man, or [any] unclean beast, or any abominable unclean [thing], and eat of the flesh of the sacrifice of peace offerings, which [pertain] unto the LORD, even that soul shall be cut off from his people.
 <small><sub>**BSB:**</sub></small>
 If one touches anything unclean, whether human uncleanness, an unclean animal, or any unclean, detestable thing, and then eats any of the meat of the peace offering that belongs to the LORD, that person must be cut off from his people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5315J\|נֶ֜פֶשׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5060\|תִגַּ֣ע]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2931\|טָמֵ֗א]] [[H9003\|בְּ]][[H2932\|טֻמְאַ֤ת]] [[H0120G\|אָדָם֙]] [[H0176A\|א֣וֹ]][[H9015\|׀]] [[H9003\|בִּ]][[H0929\|בְהֵמָ֣ה]] [[H2931\|טְמֵאָ֗ה]] [[H0176A\|א֚וֹ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H8263\|שֶׁ֣קֶץ]] [[H2931\|טָמֵ֔א]] [[H9001\|וְ]][[H0398\|אָכַ֛ל]] [[H9006\|מִ]][[H1320\|בְּשַׂר]][[H9014\|־]] [[H2077\|זֶ֥בַח]] [[H9009\|הַ]][[H8002\|שְּׁלָמִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9001\|וְ]][[H3772I\|נִכְרְתָ֛ה]] [[H9009\|הַ]][[H5315J\|נֶּ֥פֶשׁ]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H9006\|מֵ]][[H5971B\|עַמֶּֽי]][[H9024\|הָ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.20|<< Leviticus 7:20]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.22|Leviticus 7:22 >>]]</td></tr></table>
 
@@ -31,7 +102,7 @@ If one touches anything unclean, whether human uncleanness, an unclean animal, o
 | and it will be cut off  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H3772I\|נִכְרְתָ֛ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> nikh.re.Tah<small><sup>[[HVNq3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the person  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5315J\|נֶּ֥פֶשׁ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ne.fesh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הִ֖וא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hiv'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from kinspeople\<s> its  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5971B\|עַמֶּֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Mei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from kinspeople\<s> its  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5971B\|עַמֶּֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Mei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.20|<< Leviticus 7:20]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.22|Leviticus 7:22 >>]]</td></tr></table>
 
 

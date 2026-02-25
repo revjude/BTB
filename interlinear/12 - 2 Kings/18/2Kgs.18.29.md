@@ -1,8 +1,66 @@
+---
+title: 2 Kings 18:29
+type: Verse
+kjv: "Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you out of his hand:"
+bsb: "This is what the king says: Do not let Hezekiah deceive you; he cannot deliver you from my hand."
+hebrew: "כֹּ֚ה אָמַ֣ר הַמֶּ֔לֶךְ אַל־ יַשִּׁ֥יא לָכֶ֖ם חִזְקִיָּ֑הוּ כִּי־ לֹ֣א יוּכַ֔ל לְהַצִּ֥יל אֶתְכֶ֖ם מִיָּדֽוֹ׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5377]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H2396G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:29**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you out of his hand:
 <small><sub>**BSB:**</sub></small>
 This is what the king says: Do not let Hezekiah deceive you; he cannot deliver you from my hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0408\|אַל]][[H9014\|־]] [[H5377\|יַשִּׁ֥יא]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H2396G\|חִזְקִיָּ֑הוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H3201\|יוּכַ֔ל]] [[H9005\|לְ]][[H5337\|הַצִּ֥יל]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H3027H\|יָּדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.28|<< 2 Kings 18:28]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.30|2 Kings 18:30 >>]]</td></tr></table>
 

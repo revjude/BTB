@@ -1,8 +1,56 @@
+---
+title: Psalm 144:5
+type: Verse
+kjv: "Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke."
+bsb: "Part Your heavens, O LORD, and come down; touch the mountains, that they may smoke."
+hebrew: "יְ֭הוָה הַט־ שָׁמֶ֣יךָ וְתֵרֵ֑ד גַּ֖ע בֶּהָרִ֣ים וְֽיֶעֱשָֽׁנוּ׃"
+pericope: "[[Ps.144.1 Blessed Be the LORD, My Rock|Blessed Be the LORD, My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 144
+book/chapter: "[[Ps.144|Psalm 144]]"
+chronological_order: 390
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+strongs:
+- "[[H3068G]]"
+- "[[H5186]]"
+- "[[H9014]]"
+- "[[H8064]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3381]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H6225]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 144:5**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bow thy heavens, O LORD, and come down: touch the mountains, and they shall smoke.
 <small><sub>**BSB:**</sub></small>
 Part Your heavens, O LORD, and come down; touch the mountains, that they may smoke.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְ֭הוָה]] [[H5186\|הַט]][[H9014\|־]] [[H8064\|שָׁמֶ֣י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3381\|תֵרֵ֑ד]] [[H5060\|גַּ֖ע]] [[H9003\|בֶּ]][[H2022G\|הָרִ֣ים]] [[H9002\|וְֽ]][[H6225\|יֶעֱשָֽׁנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic VOLCANOES|VOLCANOES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.4|<< Psalms 144:4]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.6|Psalms 144:6 >>]]</td></tr></table>
 

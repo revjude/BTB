@@ -1,8 +1,53 @@
+---
+title: Psalm 119:120
+type: Verse
+kjv: "My flesh trembleth for fear of thee; and I am afraid of thy judgments."
+bsb: "My flesh trembles in awe of You; I stand in fear of Your judgments."
+hebrew: "סָמַ֣ר מִפַּחְדְּךָ֣ בְשָׂרִ֑י וּֽמִמִּשְׁפָּטֶ֥יךָ יָרֵֽאתִי׃"
+pericope: "[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|Your Word Is a Lamp to My Feet - SAMECH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H5568]]"
+- "[[H9006]]"
+- "[[H6343]]"
+- "[[H9021]]"
+- "[[H1320]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H3372G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:120**<big><big>[[Ps.119.113 Your Word Is a Lamp to My Feet - SAMECH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My flesh trembleth for fear of thee; and I am afraid of thy judgments.
 <small><sub>**BSB:**</sub></small>
 My flesh trembles in awe of You; I stand in fear of Your judgments.
+<small><sub>**Hebrew:**</sub></small>
+[[H5568\|סָמַ֣ר]] [[H9006\|מִ]][[H6343\|פַּחְדְּ]][[H9021\|ךָ֣]] [[H1320\|בְשָׂרִ֑]][[H9020\|י]] [[H9002\|וּֽ]][[H9006\|מִ]][[H4941G\|מִּשְׁפָּטֶ֥י]][[H9021\|ךָ]] [[H3372G\|יָרֵֽאתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.120|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.119|<< Psalms 119:119]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.121|Psalms 119:121 >>]]</td></tr></table>
 

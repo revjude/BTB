@@ -1,8 +1,55 @@
+---
+title: Esther 2:2
+type: Verse
+kjv: "Then said the king’s servants that ministered unto him, Let there be fair young virgins sought for the king:"
+bsb: "Then the king’s attendants proposed, “Let a search be made for beautiful young virgins for the king,"
+hebrew: "וַיֹּאמְר֥וּ נַעֲרֵֽי־ הַמֶּ֖לֶךְ מְשָׁרְתָ֑יו יְבַקְשׁ֥וּ לַמֶּ֛לֶךְ נְעָר֥וֹת בְּתוּל֖וֹת טוֹב֥וֹת מַרְאֶֽה׃"
+pericope: "[[Esth.2.1 Seeking Vashti’s Successor|Seeking Vashti’s Successor]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5288]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8334]]"
+- "[[H9033]]"
+- "[[H1245]]"
+- "[[H9005]]"
+- "[[H5291]]"
+- "[[H1330]]"
+- "[[H2896A]]"
+- "[[H4758]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:2**<big><big>[[Esth.2.1 Seeking Vashti’s Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the king’s servants that ministered unto him, Let there be fair young virgins sought for the king:
 <small><sub>**BSB:**</sub></small>
 Then the king’s attendants proposed, “Let a search be made for beautiful young virgins for the king,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֥וּ]] [[H5288\|נַעֲרֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H8334\|מְשָׁרְתָ֑י]][[H9033\|ו]] [[H1245\|יְבַקְשׁ֥וּ]] [[H9005\|לַ]][[H4428G\|מֶּ֛לֶךְ]] [[H5291\|נְעָר֥וֹת]] [[H1330\|בְּתוּל֖וֹת]] [[H2896A\|טוֹב֥וֹת]] [[H4758\|מַרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.1|<< Esther 2:1]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.3|Esther 2:3 >>]]</td></tr></table>
 

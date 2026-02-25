@@ -1,8 +1,59 @@
+---
+title: Psalm 35:5
+type: Verse
+kjv: "Let them be as chaff before the wind: and let the angel of the LORD chase them."
+bsb: "May they be like chaff in the wind, as the angel of the LORD drives them away."
+hebrew: "יִֽהְי֗וּ כְּמֹ֥ץ לִפְנֵי־ ר֑וּחַ וּמַלְאַ֖ךְ יְהוָ֣ה דּוֹחֶֽה׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic CHAFF|CHAFF]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic PANIC|PANIC]]"
+strongs:
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H4671]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H9002]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H1760A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:5**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be as chaff before the wind: and let the angel of the LORD chase [them].
 <small><sub>**BSB:**</sub></small>
 May they be like chaff in the wind, as the angel of the LORD drives them away.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יִֽהְי֗וּ]] [[H9004\|כְּ]][[H4671\|מֹ֥ץ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H7307H\|ר֑וּחַ]] [[H9002\|וּ]][[H4397H\|מַלְאַ֖ךְ]] [[H3068G\|יְהוָ֣ה]] [[H1760A\|דּוֹחֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic CHAFF|CHAFF]] • [[topic ENEMY|ENEMY]] • [[topic PANIC|PANIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.4|<< Psalms 35:4]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.6|Psalms 35:6 >>]]</td></tr></table>
 

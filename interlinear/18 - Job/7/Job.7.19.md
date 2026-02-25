@@ -1,8 +1,51 @@
+---
+title: Job 7:19
+type: Verse
+kjv: "How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?"
+bsb: "Will You never look away from me, or leave me alone to swallow my spittle?"
+hebrew: "כַּ֭מָּה לֹא־ תִשְׁעֶ֣ה מִמֶּ֑נִּי לֹֽא־ תַ֝רְפֵּ֗נִי עַד־ בִּלְעִ֥י רֻקִּֽי׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9004]]"
+- "[[H4100]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8159]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H7503]]"
+- "[[H5704]]"
+- "[[H1104]]"
+- "[[H9040]]"
+- "[[H7536]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:19**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long wilt thou not depart from me, nor let me alone till I swallow down my spittle?
 <small><sub>**BSB:**</sub></small>
 Will You never look away from me, or leave me alone to swallow my spittle?
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ֭]][[H4100\|מָּה]] [[H3808\|לֹא]][[H9014\|־]] [[H8159\|תִשְׁעֶ֣ה]] [[H4480A\|מִמֶּ֑]][[H9030\|נִּי]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7503\|תַ֝רְפֵּ֗]][[H9030\|נִי]] [[H5704\|עַד]][[H9014\|־]] [[H1104\|בִּלְעִ֥]][[H9040\|י]] [[H7536\|רֻקִּֽ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.18|<< Job 7:18]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.20|Job 7:20 >>]]</td></tr></table>
 

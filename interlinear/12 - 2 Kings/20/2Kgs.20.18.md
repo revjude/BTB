@@ -1,8 +1,65 @@
+---
+title: 2 Kings 20:18
+type: Verse
+kjv: "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon."
+bsb: "And some of your descendants, your own flesh and blood, will be taken away to be eunuchs in the palace of the king of Babylon.”"
+hebrew: "וּמִבָּנֶ֜יךָ אֲשֶׁ֨ר יֵצְא֧וּ מִמְּךָ֛ אֲשֶׁ֥ר תּוֹלִ֖יד יִקָּ֑חוּ וְהָיוּ֙ סָֽרִיסִ֔ים בְּהֵיכַ֖ל מֶ֥לֶךְ בָּבֶֽל׃"
+pericope: "[[2Kgs.20.12 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H3205]]"
+- "[[H3947G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5631]]"
+- "[[H9003]]"
+- "[[H1964H]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 20:18**<big><big>[[2Kgs.20.12 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.
 <small><sub>**BSB:**</sub></small>
 And some of your descendants, your own flesh and blood, will be taken away to be eunuchs in the palace of the king of Babylon.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1121G\|בָּנֶ֜י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֨ר]] [[H3318G\|יֵצְא֧וּ]] [[H4480A\|מִמְּ]][[H9031\|ךָ֛]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|תּוֹלִ֖יד]] [[H3947G\|יִקָּ֑חוּ]] [[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H5631\|סָֽרִיסִ֔ים]] [[H9003\|בְּ]][[H1964H\|הֵיכַ֖ל]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.17|<< 2 Kings 20:17]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.19|2 Kings 20:19 >>]]</td></tr></table>
 

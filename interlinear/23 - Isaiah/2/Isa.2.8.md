@@ -1,8 +1,55 @@
+---
+title: Isaiah 2:8
+type: Verse
+kjv: "Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:"
+bsb: "Their land is full of idols; they bow down to the work of their hands, to what their fingers have made."
+hebrew: "וַתִּמָּלֵ֥א אַרְצ֖וֹ אֱלִילִ֑ים לְמַעֲשֵׂ֤ה יָדָיו֙ יִֽשְׁתַּחֲו֔וּ לַאֲשֶׁ֥ר עָשׂ֖וּ אֶצְבְּעֹתָֽיו׃"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H0457]]"
+- "[[H9005]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H7812]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H0676]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:8**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:
 <small><sub>**BSB:**</sub></small>
 Their land is full of idols; they bow down to the work of their hands, to what their fingers have made.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4390\|תִּמָּלֵ֥א]] [[H0776G\|אַרְצ֖]][[H9023\|וֹ]] [[H0457\|אֱלִילִ֑ים]] [[H9005\|לְ]][[H4639G\|מַעֲשֵׂ֤ה]] [[H3027G\|יָדָי]][[H9023\|ו֙]] [[H7812\|יִֽשְׁתַּחֲו֔וּ]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עָשׂ֖וּ]] [[H0676\|אֶצְבְּעֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.7|<< Isaiah 2:7]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.9|Isaiah 2:9 >>]]</td></tr></table>
 

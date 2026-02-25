@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nebuchadnezzar’s Golden Statue
+type: Pericope
 pericope: "[[Dan.3.1 Nebuchadnezzar’s Golden Statue|Nebuchadnezzar’s Golden Statue]]"
-verse_count: 7
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 3
 book/chapter: "[[Dan.3|Daniel 3]]"
-genre:
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 7
 verses:
 - "[[Dan.3.1]]"
 - "[[Dan.3.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Dan.3.7]]"
 ---
 
-[[Dan.3|Daniel 3:1 - Daniel 3:7]]
+<small>[[Dan.3|Daniel 3:1-7]]</small>
 *Nebuchadnezzar’s Golden Statue*
 
 [[Dan.3.1|1]] Nebuchadnezzar the king made an image of gold, whose height \[was\] threescore cubits, \[and\] the breadth thereof six cubits: he set it up in the plain of Dura, in the province of Babylon.

@@ -1,10 +1,61 @@
+---
+title: Acts 13:13
+type: Verse
+kjv: "Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem."
+bsb: "After setting sail from Paphos, Paul and his companions came to Perga in Pamphylia, where John left them to return to Jerusalem."
+greek: "Ἀναχθέντες δὲ ἀπὸ τῆς Πάφου οἱ περὶ τὸν Παῦλον ἦλθον εἰς Πέργην τῆς Παμφυλίας. Ἰωάννης δὲ ἀποχωρήσας ἀπ᾽ αὐτῶν ὑπέστρεψεν εἰς Ἱεροσόλυμα."
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MARK|MARK]]"
+- "[[topic PAMPHYLIA|PAMPHYLIA]]"
+- "[[topic PAPHOS|PAPHOS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERGA|PERGA]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G0321]]"
+- "[[G1161]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3974]]"
+- "[[G4012]]"
+- "[[G3972G]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G4011]]"
+- "[[G3828]]"
+- "[[G2491]]"
+- "[[G0672]]"
+- "[[G0846]]"
+- "[[G5290]]"
+- "[[G2414]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 13:13**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 After setting sail from Paphos, Paul and his companions came to Perga in Pamphylia, where John left them to return to Jerusalem.
-<small><sub>**Literal:**</sub></small>
-Having sailed then from <the> Paphos [with] those around [him] <the> Paul came to Perga <the> of Pamphylia. John however having departed from them he returned to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.12|<< Acts 13:12]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.14|Acts 13:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0321\|Ἀναχθέντες]]  [[G1161\|δὲ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G3974\|Πάφου]]  [[G3588\|οἱ]]  [[G4012\|περὶ]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G4011\|Πέργην]]  [[G3588\|τῆς]]  [[G3828\|Παμφυλίας.]]  [[G2491\|Ἰωάννης]]  [[G1161\|δὲ]]  [[G0672\|ἀποχωρήσας]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν]]  [[G5290\|ὑπέστρεψεν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARK|MARK]] • [[topic PAMPHYLIA|PAMPHYLIA]] • [[topic PAPHOS|PAPHOS]] • [[topic PAUL|PAUL]] • [[topic PERGA|PERGA]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.12|<< Acts 13:12]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.14|Acts 13:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

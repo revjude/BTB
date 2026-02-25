@@ -1,10 +1,53 @@
+---
+title: Luke 18:6
+type: Verse
+kjv: "And the Lord said, Hear what the unjust judge saith."
+bsb: "And the Lord said, “Listen to the words of the unjust judge."
+jesus_said: "Hear what the unjust judge saith."
+greek: "Εἶπεν δὲ ὁ κύριος· ἀκούσατε τί ὁ κριτὴς τῆς ἀδικίας λέγει·"
+pericope: "[[Luke.18.1 The Parable of the Persistent Widow|The Parable of the Persistent Widow]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G0191]]"
+- "[[G5101]]"
+- "[[G2923]]"
+- "[[G0093]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **Luke 18:6**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Lord said, Hear what the unjust judge saith.
 <small><sub>**BSB:**</sub></small>
 And the Lord said, “Listen to the words of the unjust judge.
-<small><sub>**Literal:**</sub></small>
-Said then the Lord; do hear what the judge <the> unrighteous says;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.5|<< Luke 18:5]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.7|Luke 18:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος·]]  [[G0191\|ἀκούσατε]]  [[G5101\|τί]]  [[G3588\|ὁ]]  [[G2923\|κριτὴς]]  [[G3588\|τῆς]]  [[G0093\|ἀδικίας]]  [[G3004G\|λέγει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.5|<< Luke 18:5]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.7|Luke 18:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

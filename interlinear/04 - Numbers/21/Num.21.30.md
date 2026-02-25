@@ -1,8 +1,65 @@
+---
+title: Numbers 21:30
+type: Verse
+kjv: "We have shot at them; Heshbon is perished even unto Dibon, and we have laid them waste even unto Nophah, which reacheth unto Medeba."
+bsb: "But we have overthrown them; Heshbon is destroyed as far as Dibon. We demolished them as far as Nophah, which reaches to Medeba.”"
+hebrew: "וַנִּירָ֛ם אָבַ֥ד חֶשְׁבּ֖וֹן עַד־ דִּיב֑וֹן וַנַּשִּׁ֣ים עַד־ נֹ֔פַח אֲשֶׁ֖רׄ עַד־ מֵֽידְבָֽא׃"
+pericope: "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic AR|AR]]"
+- "[[topic DIBON|DIBON]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic NOPHAH|NOPHAH]]"
+- "[[topic SIHON|SIHON]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H9001]]"
+- "[[H3384A]]"
+- "[[H9038]]"
+- "[[H0006]]"
+- "[[H2809]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1769G]]"
+- "[[H8074G]]"
+- "[[H5302]]"
+- "[[H0834A]]"
+- "[[H4311]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:30**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have shot at them; Heshbon is perished even unto Dibon, and we have laid them waste even unto Nophah, which [reacheth] unto Medeba.
 <small><sub>**BSB:**</sub></small>
 But we have overthrown them; Heshbon is destroyed as far as Dibon. We demolished them as far as Nophah, which reaches to Medeba.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3384A\|נִּירָ֛]][[H9038\|ם]] [[H0006\|אָבַ֥ד]] [[H2809\|חֶשְׁבּ֖וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H1769G\|דִּיב֑וֹן]] [[H9001\|וַ]][[H8074G\|נַּשִּׁ֣ים]] [[H5704\|עַד]][[H9014\|־]] [[H5302\|נֹ֔פַח]] [[H0834A\|אֲשֶׁ֖רׄ]] [[H5704\|עַד]][[H9014\|־]] [[H4311\|מֵֽידְבָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic AR|AR]] • [[topic DIBON|DIBON]] • [[topic HESHBON|HESHBON]] • [[topic ISRAEL|ISRAEL]] • [[topic MEDEBA|MEDEBA]] • [[topic NOPHAH|NOPHAH]] • [[topic SIHON|SIHON]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.29|<< Numbers 21:29]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.31|Numbers 21:31 >>]]</td></tr></table>
 

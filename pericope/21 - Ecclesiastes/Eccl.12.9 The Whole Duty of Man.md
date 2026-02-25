@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Whole Duty of Man
+type: Pericope
 pericope: "[[Eccl.12.9 The Whole Duty of Man|The Whole Duty of Man]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 12
 book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
-genre:
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 6
 verses:
 - "[[Eccl.12.9]]"
 - "[[Eccl.12.10]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Eccl.12.14]]"
 ---
 
-[[Eccl.12|Ecclesiastes 12:9 - Ecclesiastes 12:14]]
+<small>[[Eccl.12|Ecclesiastes 12:9-14]]</small>
 *The Whole Duty of Man*
 
 [[Eccl.12.9|9]] And moreover, because the preacher was wise, he still taught the people knowledge; yea, he gave good heed, and sought out, \[and\] set in order many proverbs.

@@ -1,8 +1,71 @@
+---
+title: Genesis 16:6
+type: Verse
+kjv: "But Abram said unto Sarai, Behold, thy maid is in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face."
+bsb: "“Here,” said Abram, “your servant is in your hands. Do whatever you want with her.” Then Sarai treated Hagar so harshly that she fled from her."
+hebrew: "וַיֹּ֨אמֶר אַבְרָ֜ם אֶל־ שָׂרַ֗י הִנֵּ֤ה שִׁפְחָתֵךְ֙ בְּיָדֵ֔ךְ עֲשִׂי־ לָ֖הּ הַטּ֣וֹב בְּעֵינָ֑יִךְ וַתְּעַנֶּ֣הָ שָׂרַ֔י וַתִּבְרַ֖ח מִפָּנֶֽיהָ׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0087]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8297]]"
+- "[[H2009]]"
+- "[[H8198]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H5869I]]"
+- "[[H6031B]]"
+- "[[H1272]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:6**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Abram said unto Sarai, Behold, thy maid [is] in thy hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face.
 <small><sub>**BSB:**</sub></small>
 “Here,” said Abram, “your servant is in your hands. Do whatever you want with her.” Then Sarai treated Hagar so harshly that she fled from her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0087\|אַבְרָ֜ם]] [[H0413\|אֶל]][[H9014\|־]] [[H8297\|שָׂרַ֗י]] [[H2009\|הִנֵּ֤ה]] [[H8198\|שִׁפְחָתֵ]][[H9022\|ךְ֙]] [[H9003\|בְּ]][[H3027H\|יָדֵ֔]][[H9022\|ךְ]] [[H6213A\|עֲשִׂי]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H9009\|הַ]][[H2896A\|טּ֣וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינָ֑יִ]][[H9022\|ךְ]] [[H9001\|וַ]][[H6031B\|תְּעַנֶּ֣]][[H9034\|הָ]] [[H8297\|שָׂרַ֔י]] [[H9001\|וַ]][[H1272\|תִּבְרַ֖ח]] [[H9006\|מִ]][[H6440G\|פָּנֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRUELTY|CRUELTY]] • [[topic ENVY|ENVY]] • [[topic MASTER|MASTER]] • [[topic OPPRESSION|OPPRESSION]] • [[topic SARAH|SARAH]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.5|<< Genesis 16:5]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.7|Genesis 16:7 >>]]</td></tr></table>
 

@@ -1,8 +1,47 @@
+---
+title: Proverbs 27:5
+type: Verse
+kjv: "Open rebuke is better than secret love."
+bsb: "Better an open rebuke than love that is concealed."
+hebrew: "ט֭וֹבָה תּוֹכַ֣חַת מְגֻלָּ֑ה מֵֽאַהֲבָ֥ה מְסֻתָּֽרֶת׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H2896A]]"
+- "[[H8433B]]"
+- "[[H1540I]]"
+- "[[H9006]]"
+- "[[H0160]]"
+- "[[H5641]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:5**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Open rebuke [is] better than secret love.
 <small><sub>**BSB:**</sub></small>
 Better an open rebuke than love that is concealed.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֭וֹבָה]] [[H8433B\|תּוֹכַ֣חַת]] [[H1540I\|מְגֻלָּ֑ה]] [[H9006\|מֵֽ]][[H0160\|אַהֲבָ֥ה]] [[H5641\|מְסֻתָּֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.4|<< Proverbs 27:4]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.6|Proverbs 27:6 >>]]</td></tr></table>
 

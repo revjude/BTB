@@ -1,8 +1,58 @@
+---
+title: Psalm 107:23
+type: Verse
+kjv: "They that go down to the sea in ships, that do business in great waters;"
+bsb: "Others went out to sea in ships, conducting trade on the mighty waters."
+hebrew: "יוֹרְדֵ֣י הַ֭יָּם בָּאֳנִיּ֑וֹת עֹשֵׂ֥י מְ֝לָאכָ֗ה בְּמַ֣יִם רַבִּֽים׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+strongs:
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9003]]"
+- "[[H0591]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Psalms 107:23**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that go down to the sea in ships, that do business in great waters;
 <small><sub>**BSB:**</sub></small>
 Others went out to sea in ships, conducting trade on the mighty waters.
+<small><sub>**Hebrew:**</sub></small>
+[[H3381\|יוֹרְדֵ֣י]] [[H9009\|הַ֭]][[H3220G\|יָּם]] [[H9003\|בָּ]][[H0591\|אֳנִיּ֑וֹת]] [[H6213A\|עֹשֵׂ֥י]] [[H4399\|מְ֝לָאכָ֗ה]] [[H9003\|בְּ]][[H4325G\|מַ֣יִם]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic COMMERCE|COMMERCE]] • [[topic GOD|GOD]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.22|<< Psalms 107:22]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.24|Psalms 107:24 >>]]</td></tr></table>
 

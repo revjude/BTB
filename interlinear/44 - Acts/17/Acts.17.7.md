@@ -1,10 +1,65 @@
+---
+title: Acts 17:7
+type: Verse
+kjv: "Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Jesus."
+bsb: "and Jason has welcomed them into his home. They are all defying Caesar’s decrees, saying that there is another king, named Jesus!”"
+greek: "οὓς ὑποδέδεκται Ἰάσων· καὶ οὗτοι πάντες ἀπέναντι τῶν δογμάτων Καίσαρος πράσσουσιν βασιλέα ἕτερον λέγοντες εἶναι Ἰησοῦν."
+pericope: "[[Acts.17.1 The Uproar in Thessalonica|The Uproar in Thessalonica]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JASON|JASON]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic THESSALONICA|THESSALONICA]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[G3739]]"
+- "[[G5264]]"
+- "[[G2394]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3956]]"
+- "[[G0561]]"
+- "[[G3588]]"
+- "[[G1378]]"
+- "[[G2541]]"
+- "[[G4238]]"
+- "[[G0935]]"
+- "[[G2087]]"
+- "[[G3004G]]"
+- "[[G1511]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Acts 17:7**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, [one] Jesus.
 <small><sub>**BSB:**</sub></small>
 and Jason has welcomed them into his home. They are all defying Caesar’s decrees, saying that there is another king, named Jesus!”
-<small><sub>**Literal:**</sub></small>
-whom has received Jason; And these all contrary to the decrees of Caesar do king another proclaiming to be Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.6|<< Acts 17:6]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.8|Acts 17:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οὓς]]  [[G5264\|ὑποδέδεκται]]  [[G2394\|Ἰάσων·]]  [[G2532\|καὶ]]  [[G3778\|οὗτοι]]  [[G3956\|πάντες]]  [[G0561\|ἀπέναντι]]  [[G3588\|τῶν]]  [[G1378\|δογμάτων]]  [[G2541\|Καίσαρος]]  [[G4238\|πράσσουσιν]]  [[G0935\|βασιλέα]]  [[G2087\|ἕτερον]]  [[G3004G\|λέγοντες]]  [[G1511\|εἶναι]]  [[G2424G\|Ἰησοῦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JASON|JASON]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PEACE|PEACE]] • [[topic SILAS|SILAS]] • [[topic THESSALONICA|THESSALONICA]] • [[topic TREASON|TREASON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.6|<< Acts 17:6]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.8|Acts 17:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

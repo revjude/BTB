@@ -1,8 +1,73 @@
+---
+title: 2 Kings 20:11
+type: Verse
+kjv: "And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz."
+bsb: "So Isaiah the prophet called out to the LORD, and He brought the shadow back the ten steps it had descended on the stairway of Ahaz."
+hebrew: "וַיִּקְרָ֛א יְשַׁעְיָ֥הוּ הַנָּבִ֖יא אֶל־ יְהוָ֑ה וַיָּ֣שֶׁב אֶת־ הַצֵּ֗ל בַּֽ֠מַּעֲלוֹת אֲשֶׁ֨ר יָרְדָ֜ה בְּמַעֲל֥וֹת אָחָ֛ז אֲחֹֽרַנִּ֖ית עֶ֥שֶׂר מַעֲלֽוֹת׃ פ"
+pericope: "[[2Kgs.20.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic DEGREES|DEGREES]]"
+- "[[topic DIAL|DIAL]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SUN|SUN]]"
+- "[[topic SUN-DIAL|SUN-DIAL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H3470A]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H6738]]"
+- "[[H9003]]"
+- "[[H4609B]]"
+- "[[H0834A]]"
+- "[[H3381]]"
+- "[[H0271G]]"
+- "[[H0322]]"
+- "[[H6235]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 20:11**<big><big>[[2Kgs.20.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz.
 <small><sub>**BSB:**</sub></small>
 So Isaiah the prophet called out to the LORD, and He brought the shadow back the ten steps it had descended on the stairway of Ahaz.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֛א]] [[H3470A\|יְשַׁעְיָ֥הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H7725G\|יָּ֣שֶׁב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6738\|צֵּ֗ל]] [[H9003\|בַּֽ֠]][[H4609B\|מַּעֲלוֹת]] [[H0834A\|אֲשֶׁ֨ר]] [[H3381\|יָרְדָ֜ה]] [[H9003\|בְּ]][[H4609B\|מַעֲל֥וֹת]] [[H0271G\|אָחָ֛ז]] [[H0322\|אֲחֹֽרַנִּ֖ית]] [[H6235\|עֶ֥שֶׂר]] [[H4609B\|מַעֲלֽוֹת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic DEGREES|DEGREES]] • [[topic DIAL|DIAL]] • [[topic DISEASE|DISEASE]] • [[topic FAITH|FAITH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]] • [[topic SUN|SUN]] • [[topic SUN-DIAL|SUN-DIAL]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TIME|TIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.10|<< 2 Kings 20:10]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.12|2 Kings 20:12 >>]]</td></tr></table>
 
@@ -23,7 +88,7 @@ So Isaiah the prophet called out to the LORD, and He brought the shadow back the
 | Ahaz  |**<big>&#8207;[[H0271G\|אָחָ֛ז]]&#8207; </big>**| 'a.Chaz<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | backwards  |**<big>&#8207;[[H0322\|אֲחֹֽרַנִּ֖ית]]&#8207; </big>**| 'a.cho.ra.Nit<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6235\|עֶ֥שֶׂר]]&#8207; </big>**| 'E.ser<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| steps  |**<big>&#8207;[[H4609B\|מַעֲלֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| steps  |**<big>&#8207;[[H4609B\|מַעֲלֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ma.'a.Lot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.10|<< 2 Kings 20:10]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.12|2 Kings 20:12 >>]]</td></tr></table>
 
 

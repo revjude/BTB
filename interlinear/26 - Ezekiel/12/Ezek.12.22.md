@@ -1,8 +1,67 @@
+---
+title: Ezekiel 12:22
+type: Verse
+kjv: "Son of man, what is that proverb that ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?"
+bsb: "“Son of man, what is this proverb that you have in the land of Israel: ‘The days go by, and every vision fails’?"
+hebrew: "בֶּן־ אָדָ֗ם מָֽה־ הַמָּשָׁ֤ל הַזֶּה֙ לָכֶ֔ם עַל־ אַדְמַ֥ת יִשְׂרָאֵ֖ל לֵאמֹ֑ר יַֽאַרְכוּ֙ הַיָּמִ֔ים וְאָבַ֖ד כָּל־ חָזֽוֹן׃"
+pericope: "[[Ezek.12.21 The Presumptuous Proverb|The Presumptuous Proverb]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROVERBS|PROVERBS]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H4912]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H0748]]"
+- "[[H3117G]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H3605]]"
+- "[[H2377]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:22**<big><big>[[Ezek.12.21 The Presumptuous Proverb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, what [is] that proverb [that] ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?
 <small><sub>**BSB:**</sub></small>
 “Son of man, what is this proverb that you have in the land of Israel: ‘The days go by, and every vision fails’?
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H4100\|מָֽה]][[H9014\|־]] [[H9009\|הַ]][[H4912\|מָּשָׁ֤ל]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמַ֥ת]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0748\|יַֽאַרְכוּ֙]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H9001\|וְ]][[H0006\|אָבַ֖ד]] [[H3605\|כָּל]][[H9014\|־]] [[H2377\|חָזֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic PROVERBS|PROVERBS]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.21|<< Ezekiel 12:21]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.23|Ezekiel 12:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

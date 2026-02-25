@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 2:35
+type: Verse
+kjv: "And I will raise me up a faithful priest, that shall do according to that which is in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever."
+bsb: "Then I will raise up for Myself a faithful priest. He will do whatever is in My heart and mind. And I will build for him an enduring house, and he will walk before My anointed one for all time."
+hebrew: "וַהֲקִימֹתִ֥י לִי֙ כֹּהֵ֣ן נֶאֱמָ֔ן כַּאֲשֶׁ֛ר בִּלְבָבִ֥י וּבְנַפְשִׁ֖י יַעֲשֶׂ֑ה וּבָנִ֤יתִי לוֹ֙ בַּ֣יִת נֶאֱמָ֔ן וְהִתְהַלֵּ֥ךְ לִפְנֵֽי־ מְשִׁיחִ֖י כָּל־ הַיָּמִֽים׃"
+pericope: "[[1Sam.2.27 A Prophecy against the House of Eli|A Prophecy against the House of Eli]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3548]]"
+- "[[H0539]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H6213A]]"
+- "[[H1129]]"
+- "[[H9033]]"
+- "[[H1004M]]"
+- "[[H1980I]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H4899]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117K]]"
+- "[[H9016]]"
+texts:
+- L
+- LAH(b)
+---
+
 **1 Samuel 2:35**<big><big>[[1Sam.2.27 A Prophecy against the House of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will raise me up a faithful priest, [that] shall do according to [that] which [is] in mine heart and in my mind: and I will build him a sure house; and he shall walk before mine anointed for ever.
 <small><sub>**BSB:**</sub></small>
 Then I will raise up for Myself a faithful priest. He will do whatever is in My heart and mind. And I will build for him an enduring house, and he will walk before My anointed one for all time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|הֲקִימֹתִ֥י]] [[H9005\|לִ]][[H9030\|י֙]] [[H3548\|כֹּהֵ֣ן]] [[H0539\|נֶאֱמָ֔ן]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H9003\|בִּ]][[H3824\|לְבָבִ֥]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H5315G\|נַפְשִׁ֖]][[H9020\|י]] [[H6213A\|יַעֲשֶׂ֑ה]] [[H9001\|וּ]][[H1129\|בָנִ֤יתִי]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H1004M\|בַּ֣יִת]] [[H0539\|נֶאֱמָ֔ן]] [[H9001\|וְ]][[H1980I\|הִתְהַלֵּ֥ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵֽי]][[H9014\|־]] [[H4899\|מְשִׁיחִ֖]][[H9020\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic ELI|ELI]] • [[topic HOPHNI|HOPHNI]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.34|<< 1 Samuel 2:34]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.36|1 Samuel 2:36 >>]]</td></tr></table>
 

@@ -1,6 +1,63 @@
+---
+title: LXX Zechariah 5:8
+type: Verse
+lxx: "And he said, This is  lawlessness. And he tossed it into the midst of the measure basket, and he tossed the stone  of lead into  her mouth."
+greek: "και είπεν αύτη εστίν η ανομία και έρριψεν αυτήν εις μέσον του μέτρου και έρριψε τον λίθον του μολίβδου εις το στόμα αυτής"
+original_language: Greek
+testament: Old
+book: Zechariah
+chapter: 5
+book/chapter: "[[Zech.5|Zechariah 5]]"
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic LEAD|LEAD]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0458]]"
+- "[[G2532]]"
+- "[[G4496]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G3358]]"
+- "[[G2532]]"
+- "[[G4496]]"
+- "[[G3588]]"
+- "[[G3037]]"
+- "[[G3588]]"
+- "[[G8337]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G1473]]"
+---
+
 **LXX Zechariah 5:8** 
 <small><sub>**LXX:**</sub></small>
 And he said, This is  lawlessness. And he tossed it into \[the\] midst of the measure \[basket\], and he tossed the stone  of lead into  her mouth. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G3778\|αύτη]] [[G1510\|εστίν]] [[G3588\|η]] [[G0458\|ανομία]] [[G2532\|και]] [[G4496\|έρριψεν]] [[G1473\|αυτήν]] [[G1519\|εις]] [[G3319\|μέσον]] [[G3588\|του]] [[G3358\|μέτρου]] [[G2532\|και]] [[G4496\|έρριψε]] [[G3588\|τον]] [[G3037\|λίθον]] [[G3588\|του]] [[G8337\|μολίβδου]] [[G1519\|εις]] [[G3588\|το]] [[G4750\|στόμα]] [[G1473\|αυτής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEAD|LEAD]] • [[topic MEASURE|MEASURE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Zech.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.7|<< Zechariah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.9|Zechariah 5:9 >>]]</td></tr></table>
 
@@ -28,6 +85,6 @@ And he said, This is  lawlessness. And he tossed it into \[the\] midst of the me
 | into | **<big>[[G1519\|εις]]</big>** |
 | \<obj.> | **<big>[[G3588\|το]]</big>** |
 | her mouth. | **<big>[[G4750\|στόμα]]</big>** **<big>[[G1473\|αυτής]]</big>** |
-[[Zech.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.7|<< Zechariah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.9|Zechariah 5:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.5.7|<< Zechariah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.5.9|Zechariah 5:9 >>]]</td></tr></table>
 
 

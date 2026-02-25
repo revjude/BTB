@@ -1,8 +1,56 @@
+---
+title: Psalm 103:14
+type: Verse
+kjv: "For he knoweth our frame; he remembereth that we are dust."
+bsb: "For He knows our frame; He is mindful that we are dust."
+hebrew: "כִּי־ ה֖וּא יָדַ֣ע יִצְרֵ֑נוּ זָ֝כ֗וּר כִּי־ עָפָ֥ר אֲנָֽחְנוּ׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H3045]]"
+- "[[H3336]]"
+- "[[H9025]]"
+- "[[H2142]]"
+- "[[H6083]]"
+- "[[H0587]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:14**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he knoweth our frame; he remembereth that we [are] dust.
 <small><sub>**BSB:**</sub></small>
 For He knows our frame; He is mindful that we are dust.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H3045\|יָדַ֣ע]] [[H3336\|יִצְרֵ֑]][[H9025\|נוּ]] [[H2142\|זָ֝כ֗וּר]] [[H3588A\|כִּי]][[H9014\|־]] [[H6083\|עָפָ֥ר]] [[H0587\|אֲנָֽחְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.13|<< Psalms 103:13]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.15|Psalms 103:15 >>]]</td></tr></table>
 

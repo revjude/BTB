@@ -1,6 +1,46 @@
+---
+title: LXX Ecclesiastes 7:27
+type: Verse
+lxx: "Behold! this I found, said the ecclesiastic, counting one by one, to find a device,"
+greek: "ίδε τούτο εύρον είπεν ο εκκλησιαστής μία τη μία ευρείν λογισμόν"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1492]]"
+- "[[G3778]]"
+- "[[G2147]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G7103]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G2147]]"
+- "[[G3053]]"
+---
+
 **LXX Ecclesiastes 7:27** 
 <small><sub>**LXX:**</sub></small>
 Behold! this I found, said the ecclesiastic, \[counting\] one by one, to find a device, 
+<small><sub>**Greek:**</sub></small>
+[[G1492\|ίδε]] [[G3778\|τούτο]] [[G2147\|εύρον]] [[G2036\|είπεν]] [[G3588\|ο]] [[G7103\|εκκλησιαστής]] [[G1520\|μία]] [[G3588\|τη]] [[G1520\|μία]] [[G2147\|ευρείν]] [[G3053\|λογισμόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Eccl.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.26|<< Ecclesiastes 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.28|Ecclesiastes 7:28 >>]]</td></tr></table>
 
@@ -17,6 +57,6 @@ Behold! this I found, said the ecclesiastic, \[counting\] one by one, to find a 
 | one, | **<big>[[G1520\|μία]]</big>** |
 | to find | **<big>[[G2147\|ευρείν]]</big>** |
 | a device, | **<big>[[G3053\|λογισμόν]]</big>** |
-[[Eccl.7.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.26|<< Ecclesiastes 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.28|Ecclesiastes 7:28 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.7.26|<< Ecclesiastes 7:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.7.28|Ecclesiastes 7:28 >>]]</td></tr></table>
 
 

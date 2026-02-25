@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lord of the Harvest
+type: Pericope
 pericope: "[[Matt.9.35 The Lord of the Harvest|The Lord of the Harvest]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 9
 book/chapter: "[[Matt.9|Matthew 9]]"
-genre:
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.9.35]]"
 - "[[Matt.9.36]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.9.38]]"
 ---
 
-[[Matt.9|Matthew 9:35 - Matthew 9:38]]
+<small>[[Matt.9|Matthew 9:35-38]]</small>
 *The Lord of the Harvest*
 
 [[Matt.9.35|35]] And Jesus went about all the cities and villages, teaching in their synagogues, and preaching the gospel of the kingdom, and healing every sickness and every disease among the people.

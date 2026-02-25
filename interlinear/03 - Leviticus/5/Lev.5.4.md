@@ -1,8 +1,77 @@
+---
+title: Leviticus 5:4
+type: Verse
+kjv: "Or if a soul swear, pronouncing with his lips to do evil, or to do good, whatsoever it be that a man shall pronounce with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these."
+bsb: "Or if someone swears thoughtlessly with his lips to do anything good or evil—in whatever matter a man may rashly pronounce an oath—even if he is unaware of it, when he realizes it, he is guilty in the matter."
+hebrew: "א֣וֹ נֶ֡פֶשׁ כִּ֣י תִשָּׁבַע֩ לְבַטֵּ֨א בִשְׂפָתַ֜יִם לְהָרַ֣ע׀ א֣וֹ לְהֵיטִ֗יב לְ֠כֹל אֲשֶׁ֨ר יְבַטֵּ֧א הָאָדָ֛ם בִּשְׁבֻעָ֖ה וְנֶעְלַ֣ם מִמֶּ֑נּוּ וְהוּא־ יָדַ֥ע וְאָשֵׁ֖ם לְאַחַ֥ת מֵאֵֽלֶּה׃"
+pericope: "[[Lev.5.1 Sins Requiring a Sin Offering|Sins Requiring a Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H0176A]]"
+- "[[H5315J]]"
+- "[[H3588A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0981]]"
+- "[[H9003]]"
+- "[[H8193G]]"
+- "[[H7489A]]"
+- "[[H9015]]"
+- "[[H3190]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H7621]]"
+- "[[H9001]]"
+- "[[H5956]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H0816]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:4**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or if a soul swear, pronouncing with [his] lips to do evil, or to do good, whatsoever [it be] that a man shall pronounce with an oath, and it be hid from him; when he knoweth [of it], then he shall be guilty in one of these.
 <small><sub>**BSB:**</sub></small>
 Or if someone swears thoughtlessly with his lips to do anything good or evil—in whatever matter a man may rashly pronounce an oath—even if he is unaware of it, when he realizes it, he is guilty in the matter.
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֣וֹ]] [[H5315J\|נֶ֡פֶשׁ]] [[H3588A\|כִּ֣י]] [[H7650\|תִשָּׁבַע֩]] [[H9005\|לְ]][[H0981\|בַטֵּ֨א]] [[H9003\|בִ]][[H8193G\|שְׂפָתַ֜יִם]] [[H9005\|לְ]][[H7489A\|הָרַ֣ע]][[H9015\|׀]] [[H0176A\|א֣וֹ]] [[H9005\|לְ]][[H3190\|הֵיטִ֗יב]] [[H9005\|לְ֠]][[H3605\|כֹל]] [[H0834A\|אֲשֶׁ֨ר]] [[H0981\|יְבַטֵּ֧א]] [[H9009\|הָ]][[H0120G\|אָדָ֛ם]] [[H9003\|בִּ]][[H7621\|שְׁבֻעָ֖ה]] [[H9001\|וְ]][[H5956\|נֶעְלַ֣ם]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H9002\|וְ]][[H1931\|הוּא]][[H9014\|־]] [[H3045\|יָדַ֥ע]] [[H9001\|וְ]][[H0816\|אָשֵׁ֖ם]] [[H9005\|לְ]][[H0259\|אַחַ֥ת]] [[H9006\|מֵ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic IGNORANCE|IGNORANCE]] • [[topic SIN|SIN]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.3|<< Leviticus 5:3]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.5|Leviticus 5:5 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Judges 10:6
+type: Verse
+kjv: "And the children of Israel did evil again in the sight of the LORD, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the LORD, and served not him."
+bsb: "And again the Israelites did evil in the sight of the LORD. They served the Baals, the Ashtoreths, the gods of Aram, Sidon, and Moab, and the gods of the Ammonites and Philistines. Thus they forsook the LORD and did not serve Him."
+hebrew: "וַיֹּסִ֣פוּ׀ בְּנֵ֣י יִשְׂרָאֵ֗ל לַעֲשׂ֣וֹת הָרַע֮ בְּעֵינֵ֣י יְהוָה֒ וַיַּעַבְד֣וּ אֶת־ הַבְּעָלִ֣ים וְאֶת־ הָעַשְׁתָּר֡וֹת וְאֶת־ אֱלֹהֵ֣י אֲרָם֩ וְאֶת־ אֱלֹהֵ֨י צִיד֜וֹן וְאֵ֣ת׀ אֱלֹהֵ֣י מוֹאָ֗ב וְאֵת֙ אֱלֹהֵ֣י בְנֵי־ עַמּ֔וֹן וְאֵ֖ת אֱלֹהֵ֣י פְלִשְׁתִּ֑ים וַיַּעַזְב֥וּ אֶת־ יְהוָ֖ה וְלֹ֥א עֲבָדֽוּהוּ׃"
+pericope: "[[Judg.10.6 Oppression by the Philistines and Ammonites|Oppression by the Philistines and Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ASHTORETH|ASHTORETH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H9015]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1168A]]"
+- "[[H9002]]"
+- "[[H6252G]]"
+- "[[H0430]]"
+- "[[H0758I]]"
+- "[[H6721H]]"
+- "[[H4124G]]"
+- "[[H5983]]"
+- "[[H6430G]]"
+- "[[H5800A]]"
+- "[[H3808]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 10:6**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel did evil again in the sight of the LORD, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the LORD, and served not him.
 <small><sub>**BSB:**</sub></small>
 And again the Israelites did evil in the sight of the LORD. They served the Baals, the Ashtoreths, the gods of Aram, Sidon, and Moab, and the gods of the Ammonites and Philistines. Thus they forsook the LORD and did not serve Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּסִ֣פוּ]][[H9015\|׀]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H9009\|הָ]][[H7451H\|רַע֮]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָה֒]] [[H9001\|וַ]][[H5647H\|יַּעַבְד֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1168A\|בְּעָלִ֣ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H6252G\|עַשְׁתָּר֡וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵ֣י]] [[H0758I\|אֲרָם֩]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵ֨י]] [[H6721H\|צִיד֜וֹן]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H0430\|אֱלֹהֵ֣י]] [[H4124G\|מוֹאָ֗ב]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H0430\|אֱלֹהֵ֣י]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H5983\|עַמּ֔וֹן]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H0430\|אֱלֹהֵ֣י]] [[H6430G\|פְלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H5800A\|יַּעַזְב֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5647H\|עֲבָדֽוּ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AMMONITES|AMMONITES]] • [[topic ASHTORETH|ASHTORETH]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.5|<< Judges 10:5]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.7|Judges 10:7 >>]]</td></tr></table>
 

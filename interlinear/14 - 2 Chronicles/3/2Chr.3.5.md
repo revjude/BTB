@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 3:5
+type: Verse
+kjv: "And the greater house he cieled with fir tree, which he overlaid with fine gold, and set thereon palm trees and chains."
+bsb: "He paneled the main room with cypress, which he overlaid with fine gold and decorated with palm trees and chains."
+hebrew: "וְאֵ֣ת׀ הַבַּ֣יִת הַגָּד֗וֹל חִפָּה֙ עֵ֣ץ בְּרוֹשִׁ֔ים וַיְחַפֵּ֖הוּ זָהָ֣ב ט֑וֹב וַיַּ֧עַל עָלָ֛יו תִּמֹרִ֖ים וְשַׁרְשְׁרֽוֹת׃"
+pericope: "[[2Chr.3.5 The Temple’s Interior|The Temple’s Interior]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic PALM TREE|PALM TREE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H1419A]]"
+- "[[H2645]]"
+- "[[H6086G]]"
+- "[[H1265]]"
+- "[[H9001]]"
+- "[[H9033]]"
+- "[[H2091]]"
+- "[[H2896A]]"
+- "[[H5927H]]"
+- "[[H5921A]]"
+- "[[H8561]]"
+- "[[H8333]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 3:5**<big><big>[[2Chr.3.5 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the greater house he cieled with fir tree, which he overlaid with fine gold, and set thereon palm trees and chains.
 <small><sub>**BSB:**</sub></small>
 He paneled the main room with cypress, which he overlaid with fine gold and decorated with palm trees and chains.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H9009\|הַ]][[H1004B\|בַּ֣יִת]] [[H9009\|הַ]][[H1419A\|גָּד֗וֹל]] [[H2645\|חִפָּה֙]] [[H6086G\|עֵ֣ץ]] [[H1265\|בְּרוֹשִׁ֔ים]] [[H9001\|וַ]][[H2645\|יְחַפֵּ֖]][[H9033\|הוּ]] [[H2091\|זָהָ֣ב]] [[H2896A\|ט֑וֹב]] [[H9001\|וַ]][[H5927H\|יַּ֧עַל]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H8561\|תִּמֹרִ֖ים]] [[H9002\|וְ]][[H8333\|שַׁרְשְׁרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PALM TREE|PALM TREE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.4|<< 2 Chronicles 3:4]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.6|2 Chronicles 3:6 >>]]</td></tr></table>
 

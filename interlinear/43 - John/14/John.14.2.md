@@ -1,10 +1,66 @@
+---
+title: John 14:2
+type: Verse
+kjv: "In my Father’s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you."
+bsb: "In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?"
+jesus_said: "In my Father’s house are many mansions: if it were not so, I would have told you. I go to prepare a place for you."
+greek: "ἐν τῇ οἰκίᾳ τοῦ πατρός μου μοναὶ πολλαί εἰσιν· εἰ δὲ μή, εἶπον ἂν ὑμῖν· ὅτι πορεύομαι ἑτοιμάσαι τόπον ὑμῖν."
+pericope: "[[John.14.1 In My Father’s House Are Many Rooms|In My Father’s House Are Many Rooms]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MANSION|MANSION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3438]]"
+- "[[G4183]]"
+- "[[G1510]]"
+- "[[G1487L]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G2036]]"
+- "[[G0302]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G4198]]"
+- "[[G2090]]"
+- "[[G5117]]"
+texts:
+- NKO
+- no
+---
+
 **John 14:2**<big><big>[[John.14.1 In My Father’s House Are Many Rooms|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In my Father’s house are many mansions: if [it were] not [so], I would have told you. I go to prepare a place for you.
 <small><sub>**BSB:**</sub></small>
 In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?
-<small><sub>**Literal:**</sub></small>
-In the house of the Father of Mine mansions many there are — lest then surely I have told then would you — that I go to prepare a place for you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.1|<< John 14:1]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.3|John 14:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G3438\|μοναὶ]]  [[G4183\|πολλαί]]  [[G1510\|εἰσιν·]]  [[G1487L\|εἰ]]  [[G1161\|δὲ]]  [[G3361\|μή,]]  [[G2036\|εἶπον]]  [[G0302\|ἂν]]  [[G4771\|ὑμῖν·]]  [[G3754G\|ὅτι]]  [[G4198\|πορεύομαι]]  [[G2090\|ἑτοιμάσαι]]  [[G5117\|τόπον]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic HOUSE|HOUSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MANSION|MANSION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.1|<< John 14:1]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.3|John 14:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

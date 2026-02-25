@@ -1,8 +1,69 @@
+---
+title: Exodus 12:33
+type: Verse
+kjv: "And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We be all dead men."
+bsb: "And in order to send them out of the land quickly, the Egyptians urged the people on. “For otherwise,” they said, “we are all going to die!”"
+hebrew: "וַתֶּחֱזַ֤ק מִצְרַ֙יִם֙ עַל־ הָעָ֔ם לְמַהֵ֖ר לְשַׁלְּחָ֣ם מִן־ הָאָ֑רֶץ כִּ֥י אָמְר֖וּ כֻּלָּ֥נוּ מֵתִֽים׃"
+pericope: "[[Exod.12.31 The Exodus Begins|The Exodus Begins]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H4714G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H4116A]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H4480A]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H9025]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:33**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We [be] all dead [men].
 <small><sub>**BSB:**</sub></small>
 And in order to send them out of the land quickly, the Egyptians urged the people on. “For otherwise,” they said, “we are all going to die!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2388G\|תֶּחֱזַ֤ק]] [[H4714G\|מִצְרַ֙יִם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9005\|לְ]][[H4116A\|מַהֵ֖ר]] [[H9005\|לְ]][[H7971G\|שַׁלְּחָ֣]][[H9038\|ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3588A\|כִּ֥י]] [[H0559\|אָמְר֖וּ]] [[H3605\|כֻּלָּ֥]][[H9025\|נוּ]] [[H4191\|מֵתִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.32|<< Exodus 12:32]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.34|Exodus 12:34 >>]]</td></tr></table>
 

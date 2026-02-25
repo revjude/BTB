@@ -3,7 +3,7 @@
 
 → OF CHRIST
 
-- As the Son of God, is the power of God [[John.5.17|Joh 5:17]]-[[John.5.19|19]];  [[John.10.28|10:28]]-[[John.10.30|30]]
+- As the Son of God, is the power of God [[John.5.17|Joh 5:17-19]];  [[John.10.28|10:28-30]]
 
 - As man, is from the Father [[Acts.10.38|Ac 10:38]]
 
@@ -171,7 +171,7 @@
 
 - Magnified [[Ps.21.13|Ps 21:13]]; [[Jude.1.1|Jude 1]]:25
 
-- Efficiency of ministers is through [[1Cor.3.6|1Co 3:6]]-[[1Cor.3.8|8]]; [[Gal.2.8|Ga 2:8]];  [[Eph.3.7|Eph 3:7]]
+- Efficiency of ministers is through [[1Cor.3.6|1Co 3:6-8]]; [[Gal.2.8|Ga 2:8]];  [[Eph.3.7|Eph 3:7]]
 
 - Is a ground of trust [[Isa.26.4|Isa 26:4]]; [[Rom.4.21|Ro 4:21]]
 
@@ -205,7 +205,7 @@
 
 - Raising Christ from the dead [[1Pet.3.18|1Pe 3:18]]
 
-- Giving spiritual life [[Ezek.37.11|Eze 37:11]]-[[Ezek.37.14|14]]; with [[Rom.8.11|Ro 8:11]]
+- Giving spiritual life [[Ezek.37.11|Eze 37:11-14]]; with [[Rom.8.11|Ro 8:11]]
 
 - Performing miracles [[Rom.15.19|Ro 15:19]]
 
@@ -235,7 +235,7 @@
 
 - See [[topic HOLY SPIRIT|HOLY SPIRIT]]
 
-→ SPIRITUAL [[Gen.32.28|Ge 32:28]]; [[Isa.40.29|Isa 40:29]]-[[Isa.40.31|31]]; [[Mark.9.29|Mr 9:29]]; [[Luke.1.17|Lu 1:17]];  [[Luke.4.32|4:32]]; [[Luke.24.49|24:49]]; [[John.7.38|Joh 7:38]],[[John.7.39|39]]; [[Acts.1.8|Ac 1:8]]; [[Acts.2.2|2:2]]-[[Acts.2.4|4]]; [[Acts.6.8|6:8]]; [[Eph.1.19|Eph 1:19]],[[Eph.1.20|20]]; [[1Cor.1.24|1Co 1:24]]-[[1Cor.1.28|28]]; [[1Cor.4.19|4:19]],[[1Cor.4.20|20]];  [[2Cor.12.9|2Co 12:9]]; [[1Thess.1.5|1Th 1:5]]; [[2Tim.1.7|2Ti 1:7]]; [[Heb.6.5|Heb  6:5]]
+→ SPIRITUAL [[Gen.32.28|Ge 32:28]]; [[Isa.40.29|Isa 40:29-31]]; [[Mark.9.29|Mr 9:29]]; [[Luke.1.17|Lu 1:17]];  [[Luke.4.32|4:32]]; [[Luke.24.49|24:49]]; [[John.7.38|Joh 7:38]],[[John.7.39|39]]; [[Acts.1.8|Ac 1:8]]; [[Acts.2.2|2:2-4]]; [[Acts.6.8|6:8]]; [[Eph.1.19|Eph 1:19]],[[Eph.1.20|20]]; [[1Cor.1.24|1Co 1:24-28]]; [[1Cor.4.19|4:19]],[[1Cor.4.20|20]];  [[2Cor.12.9|2Co 12:9]]; [[1Thess.1.5|1Th 1:5]]; [[2Tim.1.7|2Ti 1:7]]; [[Heb.6.5|Heb  6:5]]
 
 - See [[topic HOLY SPIRIT|HOLY SPIRIT]]
 

@@ -1,8 +1,64 @@
+---
+title: Joshua 9:8
+type: Verse
+kjv: "And they said unto Joshua, We are thy servants. And Joshua said unto them, Who are ye? and from whence come ye?"
+bsb: "“We are your servants,” they said to Joshua. Then Joshua asked them, “Who are you and where have you come from?”"
+hebrew: "וַיֹּאמְר֥וּ אֶל־ יְהוֹשֻׁ֖עַ עֲבָדֶ֣יךָ אֲנָ֑חְנוּ וַיֹּ֨אמֶר אֲלֵהֶ֧ם יְהוֹשֻׁ֛עַ מִ֥י אַתֶּ֖ם וּמֵאַ֥יִן תָּבֹֽאוּ׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0587]]"
+- "[[H9038]]"
+- "[[H4310]]"
+- "[[H0859D]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H0370]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:8**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto Joshua, We [are] thy servants. And Joshua said unto them, Who [are] ye? and from whence come ye?
 <small><sub>**BSB:**</sub></small>
 “We are your servants,” they said to Joshua. Then Joshua asked them, “Who are you and where have you come from?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֥וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H5650\|עֲבָדֶ֣י]][[H9021\|ךָ]] [[H0587\|אֲנָ֑חְנוּ]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֧ם]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H4310\|מִ֥י]] [[H0859D\|אַתֶּ֖ם]] [[H9002\|וּ]][[H9006\|מֵ]][[H0370\|אַ֥יִן]] [[H0935G\|תָּבֹֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic CONTRACTS|CONTRACTS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.7|<< Joshua 9:7]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.9|Joshua 9:9 >>]]</td></tr></table>
 

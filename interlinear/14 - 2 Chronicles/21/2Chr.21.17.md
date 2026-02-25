@@ -1,8 +1,77 @@
+---
+title: 2 Chronicles 21:17
+type: Verse
+kjv: "And they came up into Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons."
+bsb: "So they went to war against Judah, invaded it, and carried off all the possessions found in the king’s palace, along with his sons and wives; not a son was left to him except Jehoahaz, his youngest."
+hebrew: "וַיַּעֲל֤וּ בִֽיהוּדָה֙ וַיִּבְקָע֔וּהָ וַיִּשְׁבּ֗וּ אֵ֤ת כָּל־ הָרְכוּשׁ֙ הַנִּמְצָ֣א לְבֵית־ הַמֶּ֔לֶךְ וְגַם־ בָּנָ֖יו וְנָשָׁ֑יו וְלֹ֤א נִשְׁאַר־ לוֹ֙ בֵּ֔ן כִּ֥י אִם־ יְהוֹאָחָ֖ז קְטֹ֥ן בָּנָֽיו׃"
+pericope: "[[2Chr.21.16 Jehoram’s Disease and Death|Jehoram’s Disease and Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic JEHORAM|JEHORAM]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H1234]]"
+- "[[H9034]]"
+- "[[H7617]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7399]]"
+- "[[H4672]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0802H]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H9033]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H3059I]]"
+- "[[H6996H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 21:17**<big><big>[[2Chr.21.16 Jehoram’s Disease and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came up into Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.
 <small><sub>**BSB:**</sub></small>
 So they went to war against Judah, invaded it, and carried off all the possessions found in the king’s palace, along with his sons and wives; not a son was left to him except Jehoahaz, his youngest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעֲל֤וּ]] [[H9003\|בִֽ]][[H3063G\|יהוּדָה֙]] [[H9001\|וַ]][[H1234\|יִּבְקָע֔וּ]][[H9034\|הָ]] [[H9001\|וַ]][[H7617\|יִּשְׁבּ֗וּ]] [[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7399\|רְכוּשׁ֙]] [[H9009\|הַ]][[H4672\|נִּמְצָ֣א]] [[H9005\|לְ]][[H1004B\|בֵית]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H1121A\|בָּנָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0802H\|נָשָׁ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H7604\|נִשְׁאַר]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H1121A\|בֵּ֔ן]] [[H3588B\|כִּ֥י]] [[H0518B\|אִם]][[H9014\|־]] [[H3059I\|יְהוֹאָחָ֖ז]] [[H6996H\|קְטֹ֥ן]] [[H1121A\|בָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AHAZIAH|AHAZIAH]] • [[topic ARABIANS|ARABIANS]] • [[topic BOWELS|BOWELS]] • [[topic DISEASE|DISEASE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOAHAZ|JEHOAHAZ]] • [[topic JEHORAM|JEHORAM]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.16|<< 2 Chronicles 21:16]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.18|2 Chronicles 21:18 >>]]</td></tr></table>
 

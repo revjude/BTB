@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter Speaks in Solomon’s Colonnade
+type: Pericope
 pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Acts
 chapter: 3
 book/chapter: "[[Acts.3|Acts 3]]"
-genre:
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 16
 verses:
 - "[[Acts.3.11]]"
 - "[[Acts.3.12]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Acts.3.26]]"
 ---
 
-[[Acts.3|Acts 3:11 - Acts 3:26]]
+<small>[[Acts.3|Acts 3:11-26]]</small>
 *Peter Speaks in Solomon’s Colonnade*
 
 [[Acts.3.11|11]] And as the lame man which was healed held Peter and John, all the people ran together unto them in the porch that is called Solomon’s, greatly wondering.

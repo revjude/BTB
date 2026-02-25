@@ -1,10 +1,62 @@
+---
+title: 2 Corinthians 13:4
+type: Verse
+kjv: "For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you."
+bsb: "For He was indeed crucified in weakness, yet He lives by God’s power. For we are also weak in Him, yet by God’s power we will live with Him concerning you."
+greek: "καὶ γὰρ εἰ ἐσταυρώθη ἐξ ἀσθενείας ἀλλὰ ζῇ ἐκ δυνάμεως θεοῦ· καὶ γὰρ ἡμεῖς ἀσθενοῦμεν ἐν αὐτῷ ἀλλὰ ζήσομεν σὺν αὐτῷ ἐκ δυνάμεως θεοῦ εἰς ὑμᾶς.¶"
+pericope: "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G1487G]]"
+- "[[G4717]]"
+- "[[G1537]]"
+- "[[G0769G]]"
+- "[[G0235]]"
+- "[[G2198]]"
+- "[[G1411]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G0770G]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G4862]]"
+- "[[G1519]]"
+- "[[G4771]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **2 Corinthians 13:4**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
 <small><sub>**BSB:**</sub></small>
 For He was indeed crucified in weakness, yet He lives by God’s power. For we are also weak in Him, yet by God’s power we will live with Him concerning you.
-<small><sub>**Literal:**</sub></small>
-And for if He was crucified in weakness yet He lives by power God’s; Also for we ourselves are weak in Him but we will live with Him by power God’s toward you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.3|<< 2 Corinthians 13:3]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.5|2 Corinthians 13:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G1487G\|εἰ]]  [[G4717\|ἐσταυρώθη]]  [[G1537\|ἐξ]]  [[G0769G\|ἀσθενείας]]  [[G0235\|ἀλλὰ]]  [[G2198\|ζῇ]]  [[G1537\|ἐκ]]  [[G1411\|δυνάμεως]]  [[G2316\|θεοῦ·]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G3165\|ἡμεῖς]]  [[G0770G\|ἀσθενοῦμεν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G0235\|ἀλλὰ]]  [[G2198\|ζήσομεν]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G1537\|ἐκ]]  [[G1411\|δυνάμεως]]  [[G2316\|θεοῦ]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.3|<< 2 Corinthians 13:3]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.5|2 Corinthians 13:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

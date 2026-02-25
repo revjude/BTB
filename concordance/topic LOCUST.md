@@ -5,9 +5,9 @@
 
 → Used as food [[Matt.3.4|Mt 3:4]]; [[Mark.1.6|Mr 1:6]]
 
-→ Plague of [[Exod.10.1|Ex 10:1]]-[[Exod.10.19|19]]; [[Ps.105.34|Ps 105:34]],[[Ps.105.35|35]]
+→ Plague of [[Exod.10.1|Ex 10:1-19]]; [[Ps.105.34|Ps 105:34]],[[Ps.105.35|35]]
 
-→ Devastation by [[Deut.28.38|De 28:38]]; [[1Kgs.8.37|1Ki 8:37]]; [[2Chr.7.13|2Ch 7:13]]; [[Isa.33.4|Isa 33:4]]; [[Joel.1.4|Joe 1:4]]-[[Joel.1.7|7]]; [[Rev.9.7|Re 9:7]]-[[Rev.9.10|10]]
+→ Devastation by [[Deut.28.38|De 28:38]]; [[1Kgs.8.37|1Ki 8:37]]; [[2Chr.7.13|2Ch 7:13]]; [[Isa.33.4|Isa 33:4]]; [[Joel.1.4|Joe 1:4-7]]; [[Rev.9.7|Re 9:7-10]]
 
 → Sun obscured by [[Joel.2.2|Joe 2:2]],[[Joel.2.10|10]]
 
@@ -19,5 +19,5 @@
 
 → FIGURATIVE [[Jer.46.23|Jer 46:23]]
 
-→ SYMBOLICAL [[Rev.9.3|Re 9:3]]-[[Rev.9.10|10]]
+→ SYMBOLICAL [[Rev.9.3|Re 9:3-10]]
 

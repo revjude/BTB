@@ -1,10 +1,76 @@
+---
+title: Matthew 25:26
+type: Verse
+kjv: "His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
+bsb: "‘You wicked, lazy servant!’ replied his master. ‘You knew that I reap where I have not sown and gather where I have not scattered seed."
+jesus_said: "His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
+greek: "ἀποκριθεὶς δὲ ὁ κύριος αὐτοῦ εἶπεν αὐτῷ· πονηρὲ δοῦλε καὶ ὀκνηρέ, ᾔδεις ὅτι θερίζω ὅπου οὐκ ἔσπειρα καὶ συνάγω ὅθεν οὐ διεσκόρπισα;"
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G4190]]"
+- "[[G1401]]"
+- "[[G2532]]"
+- "[[G3636]]"
+- "[[G1492I]]"
+- "[[G3754G]]"
+- "[[G2325]]"
+- "[[G3699]]"
+- "[[G3756]]"
+- "[[G4687]]"
+- "[[G4863]]"
+- "[[G3606]]"
+- "[[G1287]]"
+texts:
+- NKO
+---
+
 **Matthew 25:26**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 His lord answered and said unto him, [Thou] wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:
 <small><sub>**BSB:**</sub></small>
 ‘You wicked, lazy servant!’ replied his master. ‘You knew that I reap where I have not sown and gather where I have not scattered seed.
-<small><sub>**Literal:**</sub></small>
-answering now the master of him said to him; Wicked servant and lazy! You knew that I reap where not I sowed and I gather from where not I scattered?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.25|<< Matthew 25:25]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.27|Matthew 25:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G4190\|πονηρὲ]]  [[G1401\|δοῦλε]]  [[G2532\|καὶ]]  [[G3636\|ὀκνηρέ,]]  [[G1492I\|ᾔδεις]]  [[G3754G\|ὅτι]]  [[G2325\|θερίζω]]  [[G3699\|ὅπου]]  [[G3756\|οὐκ]]  [[G4687\|ἔσπειρα]]  [[G2532\|καὶ]]  [[G4863\|συνάγω]]  [[G3606\|ὅθεν]]  [[G3756\|οὐ]]  [[G1287\|διεσκόρπισα;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SERVANT|SERVANT]] • [[topic SLOTHFULNESS|SLOTHFULNESS]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.25|<< Matthew 25:25]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.27|Matthew 25:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

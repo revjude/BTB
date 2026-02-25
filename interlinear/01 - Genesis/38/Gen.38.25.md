@@ -1,8 +1,69 @@
+---
+title: Genesis 38:25
+type: Verse
+kjv: "When she was brought forth, she sent to her father in law, saying, By the man, whose these are, am I with child: and she said, Discern, I pray thee, whose are these, the signet, and bracelets, and staff."
+bsb: "As she was being brought out, Tamar sent a message to her father-in-law: “I am pregnant by the man to whom these items belong.” And she added, “Please examine them. Whose seal and cord and staff are these?”"
+hebrew: "הִ֣וא מוּצֵ֗את וְהִ֨יא שָׁלְחָ֤ה אֶל־ חָמִ֙יהָ֙ לֵאמֹ֔ר לְאִישׁ֙ אֲשֶׁר־ אֵ֣לֶּה לּ֔וֹ אָנֹכִ֖י הָרָ֑ה וַתֹּ֙אמֶר֙ הַכֶּר־ נָ֔א לְמִ֞י הַחֹתֶ֧מֶת וְהַפְּתִילִ֛ים וְהַמַּטֶּ֖ה הָאֵֽלֶּה׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BRACELET|BRACELET]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H1931]]"
+- "[[H3318H]]"
+- "[[H9002]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2524]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H0428]]"
+- "[[H9033]]"
+- "[[H0595]]"
+- "[[H2030A]]"
+- "[[H9001]]"
+- "[[H5234A]]"
+- "[[H4994]]"
+- "[[H4310]]"
+- "[[H9009]]"
+- "[[H2858]]"
+- "[[H6616]]"
+- "[[H4294G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:25**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When she [was] brought forth, she sent to her father in law, saying, By the man, whose these [are, am] I with child: and she said, Discern, I pray thee, whose [are] these, the signet, and bracelets, and staff.
 <small><sub>**BSB:**</sub></small>
 As she was being brought out, Tamar sent a message to her father-in-law: “I am pregnant by the man to whom these items belong.” And she added, “Please examine them. Whose seal and cord and staff are these?”
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|הִ֣וא]] [[H3318H\|מוּצֵ֗את]] [[H9002\|וְ]][[H1931\|הִ֨יא]] [[H7971G\|שָׁלְחָ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2524\|חָמִ֙י]][[H9024\|הָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9005\|לְ]][[H0376G\|אִישׁ֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]] [[H9005\|לּ֔]][[H9033\|וֹ]] [[H0595\|אָנֹכִ֖י]] [[H2030A\|הָרָ֑ה]] [[H9001\|וַ]][[H0559\|תֹּ֙אמֶר֙]] [[H5234A\|הַכֶּר]][[H9014\|־]] [[H4994\|נָ֔א]] [[H9005\|לְ]][[H4310\|מִ֞י]] [[H9009\|הַ]][[H2858\|חֹתֶ֧מֶת]] [[H9002\|וְ]][[H9009\|הַ]][[H6616\|פְּתִילִ֛ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4294G\|מַּטֶּ֖ה]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRACELET|BRACELET]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.24|<< Genesis 38:24]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.26|Genesis 38:26 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Isaiah 37:18
+type: Verse
+kjv: "Of a truth, LORD, the kings of Assyria have laid waste all the nations, and their countries,"
+bsb: "Truly, O LORD, the kings of Assyria have laid waste all these countries and their lands."
+hebrew: "אָמְנָ֖ם יְהוָ֑ה הֶחֱרִ֜יבוּ מַלְכֵ֥י אַשּׁ֛וּר אֶת־ כָּל־ הָאֲרָצ֖וֹת וְאֶת־ אַרְצָֽם׃"
+pericope: "[[Isa.37.14 Hezekiah’s Prayer|Hezekiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H0551]]"
+- "[[H3068G]]"
+- "[[H2717B]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:18**<big><big>[[Isa.37.14 Hezekiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of a truth, LORD, the kings of Assyria have laid waste all the nations, and their countries,
 <small><sub>**BSB:**</sub></small>
 Truly, O LORD, the kings of Assyria have laid waste all these countries and their lands.
+<small><sub>**Hebrew:**</sub></small>
+[[H0551\|אָמְנָ֖ם]] [[H3068G\|יְהוָ֑ה]] [[H2717B\|הֶחֱרִ֜יבוּ]] [[H4428G\|מַלְכֵ֥י]] [[H0804G\|אַשּׁ֛וּר]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אֲרָצ֖וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic LIBNAH|LIBNAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.17|<< Isaiah 37:17]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.19|Isaiah 37:19 >>]]</td></tr></table>
 

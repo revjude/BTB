@@ -1,8 +1,54 @@
+---
+title: Psalm 119:171
+type: Verse
+kjv: "My lips shall utter praise, when thou hast taught me thy statutes."
+bsb: "My lips pour forth praise, for You teach me Your statutes."
+hebrew: "תַּבַּ֣עְנָה שְׂפָתַ֣י תְּהִלָּ֑ה כִּ֖י תְלַמְּדֵ֣נִי חֻקֶּֽיךָ׃"
+pericope: "[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|Your Word Is a Lamp to My Feet - TAU]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H5042]]"
+- "[[H8193G]]"
+- "[[H9020]]"
+- "[[H8416]]"
+- "[[H3588A]]"
+- "[[H3925G]]"
+- "[[H9030]]"
+- "[[H2706G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:171**<big><big>[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My lips shall utter praise, when thou hast taught me thy statutes.
 <small><sub>**BSB:**</sub></small>
 My lips pour forth praise, for You teach me Your statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H5042\|תַּבַּ֣עְנָה]] [[H8193G\|שְׂפָתַ֣]][[H9020\|י]] [[H8416\|תְּהִלָּ֑ה]] [[H3588A\|כִּ֖י]] [[H3925G\|תְלַמְּדֵ֣]][[H9030\|נִי]] [[H2706G\|חֻקֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.171|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.170|<< Psalms 119:170]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.172|Psalms 119:172 >>]]</td></tr></table>
 

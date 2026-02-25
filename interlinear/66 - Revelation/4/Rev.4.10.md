@@ -1,10 +1,67 @@
+---
+title: Revelation 4:10
+type: Verse
+kjv: "The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,"
+bsb: "the twenty-four elders fall down before the One seated on the throne, and they worship Him who lives forever and ever. They cast their crowns before the throne, saying:"
+greek: "πεσοῦνται οἱ εἴκοσι καὶ τέσσαρες πρεσβύτεροι ἐνώπιον τοῦ καθημένου ἐπὶ τοῦ θρόνου καὶ προσκυνήσουσιν τῷ ζῶντι εἰς τοὺς αἰῶνας τῶν αἰώνων καὶ βαλοῦσιν τοὺς στεφάνους αὐτῶν ἐνώπιον τοῦ θρόνου λέγοντες·"
+pericope: "[[Rev.4.5 Worship of the Creator|Worship of the Creator]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G4098]]"
+- "[[G3588]]"
+- "[[G1501]]"
+- "[[G2532]]"
+- "[[G5064]]"
+- "[[G4245G]]"
+- "[[G1799]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G2362]]"
+- "[[G4352]]"
+- "[[G2198]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G0906G]]"
+- "[[G4735]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Revelation 4:10**<big><big>[[Rev.4.5 Worship of the Creator|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,
 <small><sub>**BSB:**</sub></small>
 the twenty-four elders fall down before the One seated on the throne, and they worship Him who lives forever and ever. They cast their crowns before the throne, saying:
-<small><sub>**Literal:**</sub></small>
-will fall the twenty and four elders before the [One] sitting upon the throne and they will worship the [One] living to the ages of the ages and they will cast the crowns of them before the throne saying:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.9|<< Revelation 4:9]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.11|Revelation 4:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4098\|πεσοῦνται]]  [[G3588\|οἱ]]  [[G1501\|εἴκοσι]]  [[G2532\|καὶ]]  [[G5064\|τέσσαρες]]  [[G4245G\|πρεσβύτεροι]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2521\|καθημένου]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G2532\|καὶ]]  [[G4352\|προσκυνήσουσιν]]  [[G3588\|τῷ]]  [[G2198\|ζῶντι]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων]]  [[G2532\|καὶ]]  [[G0906G\|βαλοῦσιν]]  [[G3588\|τοὺς]]  [[G4735\|στεφάνους]]  [[G0846\|αὐτῶν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G3004G\|λέγοντες·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CROWN|CROWN]] • [[topic ELDER|ELDER]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic PRAISE|PRAISE]] • [[topic THRONE|THRONE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.9|<< Revelation 4:9]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.11|Revelation 4:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

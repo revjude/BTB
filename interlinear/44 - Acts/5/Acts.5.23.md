@@ -1,10 +1,69 @@
+---
+title: Acts 5:23
+type: Verse
+kjv: "Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within."
+bsb: "“We found the jail securely locked, with the guards posted at the doors; but when we opened them, we found no one inside.”"
+greek: "λέγοντες ὅτι τὸ μὲν δεσμωτήριον εὕρομεν κεκλεισμένον ἐν πάσῃ ἀσφαλείᾳ καὶ τοὺς φύλακας ἔξω ἑστῶτας ἐπὶ τῶν θυρῶν, ἀνοίξαντες δὲ ἔσω οὐδένα εὕρομεν."
+pericope: "[[Acts.5.17 The Apostles Arrested and Freed|The Apostles Arrested and Freed]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G1201]]"
+- "[[G2147]]"
+- "[[G2808]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G0803]]"
+- "[[G2532]]"
+- "[[G5441]]"
+- "[[G1854]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G2374]]"
+- "[[G0455]]"
+- "[[G1161]]"
+- "[[G2080]]"
+- "[[G3762]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 5:23**<big><big>[[Acts.5.17 The Apostles Arrested and Freed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, The prison truly found we shut with all safety, and the keepers standing without before the doors: but when we had opened, we found no man within.
 <small><sub>**BSB:**</sub></small>
 “We found the jail securely locked, with the guards posted at the doors; but when we opened them, we found no one inside.”
-<small><sub>**Literal:**</sub></small>
-saying that The indeed prison house we found shut with all security and the guards outside already standing before the doors, having opened [them] however inside no [one] we found.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.22|<< Acts 5:22]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.24|Acts 5:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G3588\|τὸ]]  [[G3303\|μὲν]]  [[G1201\|δεσμωτήριον]]  [[G2147\|εὕρομεν]]  [[G2808\|κεκλεισμένον]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G0803\|ἀσφαλείᾳ]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G5441\|φύλακας]]  [[G1854\|ἔξω]]  [[G2476\|ἑστῶτας]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G2374\|θυρῶν,]]  [[G0455\|ἀνοίξαντες]]  [[G1161\|δὲ]]  [[G2080\|ἔσω]]  [[G3762\|οὐδένα]]  [[G2147\|εὕρομεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.22|<< Acts 5:22]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.24|Acts 5:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

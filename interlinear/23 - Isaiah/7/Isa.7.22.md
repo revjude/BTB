@@ -1,8 +1,65 @@
+---
+title: Isaiah 7:22
+type: Verse
+kjv: "And it shall come to pass, for the abundance of milk that they shall give he shall eat butter: for butter and honey shall every one eat that is left in the land."
+bsb: "and from the abundance of milk they give, he will eat curds; for all who remain in the land will eat curds and honey."
+hebrew: "וְהָיָ֗ה מֵרֹ֛ב עֲשׂ֥וֹת חָלָ֖ב יֹאכַ֣ל חֶמְאָ֑ה כִּֽי־ חֶמְאָ֤ה וּדְבַשׁ֙ יֹאכֵ֔ל כָּל־ הַנּוֹתָ֖ר בְּקֶ֥רֶב הָאָֽרֶץ׃"
+pericope: "[[Isa.7.17 Judgment to Come|Judgment to Come]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BUTTER|BUTTER]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MILK|MILK]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H6213I]]"
+- "[[H2461]]"
+- "[[H0398]]"
+- "[[H2529A]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:22**<big><big>[[Isa.7.17 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, for the abundance of milk [that] they shall give he shall eat butter: for butter and honey shall every one eat that is left in the land.
 <small><sub>**BSB:**</sub></small>
 and from the abundance of milk they give, he will eat curds; for all who remain in the land will eat curds and honey.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9006\|מֵ]][[H7230\|רֹ֛ב]] [[H6213I\|עֲשׂ֥וֹת]] [[H2461\|חָלָ֖ב]] [[H0398\|יֹאכַ֣ל]] [[H2529A\|חֶמְאָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2529A\|חֶמְאָ֤ה]] [[H9002\|וּ]][[H1706\|דְבַשׁ֙]] [[H0398\|יֹאכֵ֔ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3498\|נּוֹתָ֖ר]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ASSYRIA|ASSYRIA]] • [[topic BUTTER|BUTTER]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MILK|MILK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.21|<< Isaiah 7:21]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.23|Isaiah 7:23 >>]]</td></tr></table>
 

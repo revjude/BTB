@@ -1,8 +1,69 @@
+---
+title: Exodus 2:11
+type: Verse
+kjv: "And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren."
+bsb: "One day, after Moses had grown up, he went out to his own people and observed their hard labor. He saw an Egyptian beating a Hebrew, one of his own people."
+hebrew: "וַיְהִ֣י׀ בַּיָּמִ֣ים הָהֵ֗ם וַיִּגְדַּ֤ל מֹשֶׁה֙ וַיֵּצֵ֣א אֶל־ אֶחָ֔יו וַיַּ֖רְא בְּסִבְלֹתָ֑ם וַיַּרְא֙ אִ֣ישׁ מִצְרִ֔י מַכֶּ֥ה אִישׁ־ עִבְרִ֖י מֵאֶחָֽיו׃"
+pericope: "[[Exod.2.11 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H1431]]"
+- "[[H4872]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H5450]]"
+- "[[H9028]]"
+- "[[H0376G]]"
+- "[[H4713]]"
+- "[[H5221]]"
+- "[[H5680]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:11**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren.
 <small><sub>**BSB:**</sub></small>
 One day, after Moses had grown up, he went out to his own people and observed their hard labor. He saw an Egyptian beating a Hebrew, one of his own people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֗ם]] [[H9001\|וַ]][[H1431\|יִּגְדַּ֤ל]] [[H4872\|מֹשֶׁה֙]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H0251I\|אֶחָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H7200G\|יַּ֖רְא]] [[H9003\|בְּ]][[H5450\|סִבְלֹתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H7200G\|יַּרְא֙]] [[H0376G\|אִ֣ישׁ]] [[H4713\|מִצְרִ֔י]] [[H5221\|מַכֶּ֥ה]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H5680\|עִבְרִ֖י]] [[H9006\|מֵ]][[H0251I\|אֶחָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.10|<< Exodus 2:10]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.12|Exodus 2:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

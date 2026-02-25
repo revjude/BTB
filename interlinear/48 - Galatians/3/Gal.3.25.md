@@ -1,10 +1,52 @@
+---
+title: Galatians 3:25
+type: Verse
+kjv: "But after that faith is come, we are no longer under a schoolmaster."
+bsb: "Now that faith has come, we are no longer under a guardian."
+greek: "ἐλθούσης δὲ τῆς πίστεως οὐκέτι οὐκέτι ὑπὸ παιδαγωγόν ἐσμεν."
+pericope: "[[Gal.3.15 The Purpose of the Law|The Purpose of the Law]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2064]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G5259H]]"
+- "[[G3807]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Galatians 3:25**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But after that faith is come, we are no longer under a schoolmaster.
 <small><sub>**BSB:**</sub></small>
 Now that faith has come, we are no longer under a guardian.
-<small><sub>**Literal:**</sub></small>
-When was coming now the faith no longer under a trainer we are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.24|<< Galatians 3:24]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.26|Galatians 3:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἐλθούσης]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G5259H\|ὑπὸ]]  [[G3807\|παιδαγωγόν]]  [[G1510\|ἐσμεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SALVATION|SALVATION]] • [[topic SCHOOL|SCHOOL]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.24|<< Galatians 3:24]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.26|Galatians 3:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,53 @@
+---
+title: Mark 13:17
+type: Verse
+kjv: "But woe to them that are with child, and to them that give suck in those days!"
+bsb: "How miserable those days will be for pregnant and nursing mothers!"
+jesus_said: "But woe to them that are with child, and to them that give suck in those days!"
+greek: "οὐαὶ δὲ ταῖς ἐν γαστρὶ ἐχούσαις καὶ ταῖς θηλαζούσαις ἐν ἐκείναις ταῖς ἡμέραις."
+pericope: "[[Mark.13.14 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3759]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G1064]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G2337]]"
+- "[[G1565]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **Mark 13:17**<big><big>[[Mark.13.14 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But woe to them that are with child, and to them that give suck in those days!
 <small><sub>**BSB:**</sub></small>
 How miserable those days will be for pregnant and nursing mothers!
-<small><sub>**Literal:**</sub></small>
-Woe then to those in womb [pregnancy] having and to the [ones] nursing infants in those <the> days!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.16|<< Mark 13:16]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.18|Mark 13:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|οὐαὶ]]  [[G1161\|δὲ]]  [[G3588\|ταῖς]]  [[G1722\|ἐν]]  [[G1064\|γαστρὶ]]  [[G2192\|ἐχούσαις]]  [[G2532\|καὶ]]  [[G3588\|ταῖς]]  [[G2337\|θηλαζούσαις]]  [[G1722\|ἐν]]  [[G1565\|ἐκείναις]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.16|<< Mark 13:16]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.18|Mark 13:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

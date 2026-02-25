@@ -1,10 +1,61 @@
+---
+title: Mark 9:20
+type: Verse
+kjv: "And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming."
+bsb: "So they brought him, and seeing Jesus, the spirit immediately threw the boy into a convulsion. He fell to the ground and rolled around, foaming at the mouth."
+greek: "καὶ ἤνεγκαν αὐτὸν πρὸς αὐτόν. καὶ ἰδὼν αὐτὸν τὸ πνεῦμα εὐθὺς συνεσπάραξεν αὐτόν, καὶ πεσὼν ἐπὶ τῆς γῆς ἐκυλίετο ἀφρίζων."
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EPILEPSY|EPILEPSY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G5342]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G2112]]"
+- "[[G4952]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G1093I]]"
+- "[[G2947]]"
+- "[[G0875]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 9:20**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming.
 <small><sub>**BSB:**</sub></small>
 So they brought him, and seeing Jesus, the spirit immediately threw the boy into a convulsion. He fell to the ground and rolled around, foaming at the mouth.
-<small><sub>**Literal:**</sub></small>
-And they brought him to Him. And having seen Him the spirit immediately threw into convulsions him, and having fallen upon the ground he was rolling around foaming.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.19|<< Mark 9:19]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.21|Mark 9:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5342\|ἤνεγκαν]]  [[G0846\|αὐτὸν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν.]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G0846\|αὐτὸν]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G2112\|εὐθὺς]]  [[G4952\|συνεσπάραξεν]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G4098\|πεσὼν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093I\|γῆς]]  [[G2947\|ἐκυλίετο]]  [[G0875\|ἀφρίζων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic EPILEPSY|EPILEPSY]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.19|<< Mark 9:19]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.21|Mark 9:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

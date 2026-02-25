@@ -1,8 +1,60 @@
+---
+title: Exodus 33:23
+type: Verse
+kjv: "And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen."
+bsb: "Then I will take My hand away, and you will see My back; but My face must not be seen.”"
+hebrew: "וַהֲסִרֹתִי֙ אֶת־ כַּפִּ֔י וְרָאִ֖יתָ אֶת־ אֲחֹרָ֑י וּפָנַ֖י לֹ֥א יֵרָאֽוּ׃ ס"
+pericope: "[[Exod.33.12 The Promise of God’s Presence|The Promise of God’s Presence]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3709G]]"
+- "[[H9020]]"
+- "[[H7200G]]"
+- "[[H0268]]"
+- "[[H9002]]"
+- "[[H6440H]]"
+- "[[H3808]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 33:23**<big><big>[[Exod.33.12 The Promise of God’s Presence|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.
 <small><sub>**BSB:**</sub></small>
 Then I will take My hand away, and you will see My back; but My face must not be seen.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493G\|הֲסִרֹתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3709G\|כַּפִּ֔]][[H9020\|י]] [[H9001\|וְ]][[H7200G\|רָאִ֖יתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H0268\|אֲחֹרָ֑]][[H9020\|י]] [[H9002\|וּ]][[H6440H\|פָנַ֖]][[H9020\|י]] [[H3808\|לֹ֥א]] [[H7200G\|יֵרָאֽוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.22|<< Exodus 33:22]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.1|Exodus 34:1 >>]]</td></tr></table>
 
@@ -16,7 +68,7 @@ Then I will take My hand away, and you will see My back; but My face must not be
 | back parts my  |**<big>&#8207;[[H0268\|אֲחֹרָ֑]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.cho.Ra<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and face my  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6440H\|פָנַ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will be visible  |**<big>&#8207;[[H7200G\|יֵרָאֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ra.'U<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will be visible  |**<big>&#8207;[[H7200G\|יֵרָאֽוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.ra.'U<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.22|<< Exodus 33:22]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.1|Exodus 34:1 >>]]</td></tr></table>
 
 

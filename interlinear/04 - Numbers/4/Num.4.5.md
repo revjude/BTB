@@ -1,8 +1,70 @@
+---
+title: Numbers 4:5
+type: Verse
+kjv: "And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:"
+bsb: "Whenever the camp sets out, Aaron and his sons are to go in, take down the veil of the curtain, and cover the ark of the Testimony with it."
+hebrew: "וּבָ֨א אַהֲרֹ֤ן וּבָנָיו֙ בִּנְסֹ֣עַ הַֽמַּחֲנֶ֔ה וְהוֹרִ֕דוּ אֵ֖ת פָּרֹ֣כֶת הַמָּסָ֑ךְ וְכִ֨סּוּ־ בָ֔הּ אֵ֖ת אֲרֹ֥ן הָעֵדֻֽת׃"
+pericope: "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ARK|ARK]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5265]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H3381]]"
+- "[[H0853]]"
+- "[[H6532]]"
+- "[[H4539]]"
+- "[[H3680]]"
+- "[[H9014]]"
+- "[[H9034]]"
+- "[[H0727]]"
+- "[[H5715]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:5**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:
 <small><sub>**BSB:**</sub></small>
 Whenever the camp sets out, Aaron and his sons are to go in, take down the veil of the curtain, and cover the ark of the Testimony with it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֨א]] [[H0175\|אַהֲרֹ֤ן]] [[H9002\|וּ]][[H1121A\|בָנָי]][[H9023\|ו֙]] [[H9003\|בִּ]][[H5265\|נְסֹ֣עַ]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9001\|וְ]][[H3381\|הוֹרִ֕דוּ]] [[H0853\|אֵ֖ת]] [[H6532\|פָּרֹ֣כֶת]] [[H9009\|הַ]][[H4539\|מָּסָ֑ךְ]] [[H9001\|וְ]][[H3680\|כִ֨סּוּ]][[H9014\|־]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H0853\|אֵ֖ת]] [[H0727\|אֲרֹ֥ן]] [[H9009\|הָ]][[H5715\|עֵדֻֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ARK|ARK]] • [[topic COLORS|COLORS]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic TABERNACLE|TABERNACLE]] • [[topic VAIL|VAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.4|<< Numbers 4:4]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.6|Numbers 4:6 >>]]</td></tr></table>
 

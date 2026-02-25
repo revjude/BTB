@@ -1,8 +1,67 @@
+---
+title: 2 Kings 13:17
+type: Verse
+kjv: "And he said, Open the window eastward. And he opened it. Then Elisha said, Shoot. And he shot. And he said, The arrow of the LORD’S deliverance, and the arrow of deliverance from Syria: for thou shalt smite the Syrians in Aphek, till thou have consumed them."
+bsb: "“Open the east window,” said Elisha. So he opened it and Elisha said, “Shoot!” So he shot. And Elisha declared: “This is the LORD’s arrow of victory, the arrow of victory over Aram, for you shall strike the Arameans in Aphek until you have put an end to them.”"
+hebrew: "וַיֹּ֗אמֶר פְּתַ֧ח הַחַלּ֛וֹן קֵ֖דְמָה וַיִּפְתָּ֑ח וַיֹּ֤אמֶר אֱלִישָׁ֤ע יְרֵה֙ וַיּ֔וֹר וַיֹּ֗אמֶר חֵץ־ תְּשׁוּעָ֤ה לַֽיהוָה֙ וְחֵ֣ץ תְּשׁוּעָ֣ה בַֽאֲרָ֔ם וְהִכִּיתָ֧ אֶת־ אֲרָ֛ם בַּאֲפֵ֖ק עַד־ כַּלֵּֽה׃"
+pericope: "[[2Kgs.13.14 Elisha’s Final Prophecy|Elisha’s Final Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JEHOASH|JEHOASH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6605A]]"
+- "[[H9009]]"
+- "[[H2474]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H0477]]"
+- "[[H3384A]]"
+- "[[H2671]]"
+- "[[H9014]]"
+- "[[H8668H]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0758I]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H0663I]]"
+- "[[H5704]]"
+- "[[H3615H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 13:17**<big><big>[[2Kgs.13.14 Elisha’s Final Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Open the window eastward. And he opened [it]. Then Elisha said, Shoot. And he shot. And he said, The arrow of the LORD’S deliverance, and the arrow of deliverance from Syria: for thou shalt smite the Syrians in Aphek, till thou have consumed [them].
 <small><sub>**BSB:**</sub></small>
 “Open the east window,” said Elisha. So he opened it and Elisha said, “Shoot!” So he shot. And Elisha declared: “This is the LORD’s arrow of victory, the arrow of victory over Aram, for you shall strike the Arameans in Aphek until you have put an end to them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H6605A\|פְּתַ֧ח]] [[H9009\|הַ]][[H2474\|חַלּ֛וֹן]] [[H6924B\|קֵ֖דְמָ]][[H9011\|ה]] [[H9001\|וַ]][[H6605A\|יִּפְתָּ֑ח]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0477\|אֱלִישָׁ֤ע]] [[H3384A\|יְרֵה֙]] [[H9001\|וַ]][[H3384A\|יּ֔וֹר]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2671\|חֵץ]][[H9014\|־]] [[H8668H\|תְּשׁוּעָ֤ה]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H9002\|וְ]][[H2671\|חֵ֣ץ]] [[H8668H\|תְּשׁוּעָ֣ה]] [[H9003\|בַֽ]][[H0758I\|אֲרָ֔ם]] [[H9001\|וְ]][[H5221\|הִכִּיתָ֧]] [[H0853\|אֶת]][[H9014\|־]] [[H0758I\|אֲרָ֛ם]] [[H9003\|בַּ]][[H0663I\|אֲפֵ֖ק]] [[H5704\|עַד]][[H9014\|־]] [[H3615H\|כַּלֵּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic ELISHA|ELISHA]] • [[topic JEHOASH|JEHOASH]] • [[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.16|<< 2 Kings 13:16]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.18|2 Kings 13:18 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Proverbs 8:35
+type: Verse
+kjv: "For whoso findeth me findeth life, and shall obtain favour of the LORD."
+bsb: "For whoever finds me finds life and obtains the favor of the LORD."
+hebrew: "כִּ֣י מֹ֭צְאִי מָצָ֣א חַיִּ֑ים וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהוָֽה׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4672]]"
+- "[[H9030]]"
+- "[[H2416E]]"
+- "[[H9001]]"
+- "[[H6329]]"
+- "[[H7522]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 8:35**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For whoso findeth me findeth life, and shall obtain favour of the LORD.
 <small><sub>**BSB:**</sub></small>
 For whoever finds me finds life and obtains the favor of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H4672\|מֹ֭צְאִ]][[H9030\|י]] [[H4672\|מָצָ֣א]] [[H2416E\|חַיִּ֑ים]] [[H9001\|וַ]][[H6329\|יָּ֥פֶק]] [[H7522\|רָ֝צ֗וֹן]] [[H9006\|מֵ]][[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.34|<< Proverbs 8:34]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.36|Proverbs 8:36 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Waters Are up to My Neck
+type: Pericope
 pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
-verse_count: 37
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 69
 book/chapter: "[[Ps.69|Psalm 69]]"
-genre:
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 37
 verses:
 - "[[Ps.69.0]]"
 - "[[Ps.69.1]]"
@@ -58,7 +65,7 @@ verses:
 - "[[Ps.69.36]]"
 ---
 
-[[Ps.69|Psalm 69:1 - Psalm 69:36]]
+<small>[[Ps.69|Psalm 69:1-36]]</small>
 *The Waters Are up to My Neck*
 
 [[Ps.69.0|0]] To the chief Musician upon Shoshannim, \[A Psalm\] of David.

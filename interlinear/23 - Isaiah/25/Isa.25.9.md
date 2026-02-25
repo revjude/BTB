@@ -1,8 +1,67 @@
+---
+title: Isaiah 25:9
+type: Verse
+kjv: "And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the LORD; we have waited for him, we will be glad and rejoice in his salvation."
+bsb: "And in that day it will be said, “Surely this is our God; we have waited for Him, and He has saved us. This is the LORD for whom we have waited. Let us rejoice and be glad in His salvation.”"
+hebrew: "וְאָמַר֙ בַּיּ֣וֹם הַה֔וּא הִנֵּ֨ה אֱלֹהֵ֥ינוּ זֶ֛ה קִוִּ֥ינוּ ל֖וֹ וְיֽוֹשִׁיעֵ֑נוּ זֶ֤ה יְהוָה֙ קִוִּ֣ינוּ ל֔וֹ נָגִ֥ילָה וְנִשְׂמְחָ֖ה בִּישׁוּעָתֽוֹ׃"
+pericope: "[[Isa.25.1 Praise to the Victorious God|Praise to the Victorious God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 25
+book/chapter: "[[Isa.25|Isaiah 25]]"
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic WAITING|WAITING]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H2009]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H2088]]"
+- "[[H6960A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3467]]"
+- "[[H9035]]"
+- "[[H3068G]]"
+- "[[H1523]]"
+- "[[H8055]]"
+- "[[H3444]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 25:9**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be said in that day, Lo, this [is] our God; we have waited for him, and he will save us: this [is] the LORD; we have waited for him, we will be glad and rejoice in his salvation.
 <small><sub>**BSB:**</sub></small>
 And in that day it will be said, “Surely this is our God; we have waited for Him, and He has saved us. This is the LORD for whom we have waited. Let us rejoice and be glad in His salvation.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַר֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H2009\|הִנֵּ֨ה]] [[H0430G\|אֱלֹהֵ֥י]][[H9025\|נוּ]] [[H2088\|זֶ֛ה]] [[H6960A\|קִוִּ֥ינוּ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9002\|וְ]][[H3467\|יֽוֹשִׁיעֵ֑]][[H9035\|נוּ]] [[H2088\|זֶ֤ה]] [[H3068G\|יְהוָה֙]] [[H6960A\|קִוִּ֣ינוּ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H1523\|נָגִ֥ילָה]] [[H9002\|וְ]][[H8055\|נִשְׂמְחָ֖ה]] [[H9003\|בִּ]][[H3444\|ישׁוּעָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic WAITING|WAITING]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.8|<< Isaiah 25:8]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.10|Isaiah 25:10 >>]]</td></tr></table>
 

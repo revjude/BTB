@@ -1,8 +1,64 @@
+---
+title: Jeremiah 9:9
+type: Verse
+kjv: "Shall I not visit them for these things? saith the LORD: shall not my soul be avenged on such a nation as this?"
+bsb: "Should I not punish them for these things? declares the LORD. Should I not avenge Myself on such a nation as this?”"
+hebrew: "הַעַל־ אֵ֥לֶּה לֹֽא־ אֶפְקָד־ בָּ֖ם נְאֻם־ יְהוָ֑ה אִ֚ם בְּג֣וֹי אֲשֶׁר־ כָּזֶ֔ה לֹ֥א תִתְנַקֵּ֖ם נַפְשִֽׁי׃ ס"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H9008]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H3808]]"
+- "[[H6485H]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H0518H]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H9004]]"
+- "[[H2088]]"
+- "[[H5358]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 9:9**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I not visit them for these [things]? saith the LORD: shall not my soul be avenged on such a nation as this?
 <small><sub>**BSB:**</sub></small>
 Should I not punish them for these things? declares the LORD. Should I not avenge Myself on such a nation as this?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H5921A\|עַל]][[H9014\|־]] [[H0428\|אֵ֥לֶּה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6485H\|אֶפְקָד]][[H9014\|־]] [[H9003\|בָּ֖]][[H9038\|ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H0518H\|אִ֚ם]] [[H9003\|בְּ]][[H1471A\|ג֣וֹי]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9004\|כָּ]][[H2088\|זֶ֔ה]] [[H3808\|לֹ֥א]] [[H5358\|תִתְנַקֵּ֖ם]] [[H5315I\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.8|<< Jeremiah 9:8]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.10|Jeremiah 9:10 >>]]</td></tr></table>
 
@@ -21,7 +77,7 @@ Should I not punish them for these things? declares the LORD. Should I not aveng
 | [is] like this [one]  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H2088\|זֶ֔ה]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will it avenge itself  |**<big>&#8207;[[H5358\|תִתְנַקֵּ֖ם]]&#8207; </big>**| tit.na.Kem<small><sup>[[HVti3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| self my  |**<big>&#8207;[[H5315I\|נַפְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| self my  |**<big>&#8207;[[H5315I\|נַפְשִֽׁ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.8|<< Jeremiah 9:8]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.10|Jeremiah 9:10 >>]]</td></tr></table>
 
 

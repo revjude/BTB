@@ -1,8 +1,65 @@
+---
+title: Jeremiah 35:5
+type: Verse
+kjv: "And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine."
+bsb: "Then I set pitchers full of wine and some cups before the men of the house of the Rechabites, and I said to them, “Drink some wine.”"
+hebrew: "וָאֶתֵּ֞ן לִפְנֵ֣י׀ בְּנֵ֣י בֵית־ הָרֵכָבִ֗ים גְּבִעִ֛ים מְלֵאִ֥ים יַ֖יִן וְכֹס֑וֹת וָאֹמַ֥ר אֲלֵיהֶ֖ם שְׁתוּ־ יָֽיִן׃"
+pericope: "[[Jer.35.1 The Obedience of the Rechabites|The Obedience of the Rechabites]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HANAN|HANAN]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9015]]"
+- "[[H1121G]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7397A]]"
+- "[[H1375]]"
+- "[[H4392]]"
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H3563A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:5**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I set before the sons of the house of the Rechabites pots full of wine, and cups, and I said unto them, Drink ye wine.
 <small><sub>**BSB:**</sub></small>
 Then I set pitchers full of wine and some cups before the men of the house of the Rechabites, and I said to them, “Drink some wine.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H5414H\|אֶתֵּ֞ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]][[H9015\|׀]] [[H1121G\|בְּנֵ֣י]] [[H1004M\|בֵית]][[H9014\|־]] [[H9009\|הָ]][[H7397A\|רֵכָבִ֗ים]] [[H1375\|גְּבִעִ֛ים]] [[H4392\|מְלֵאִ֥ים]] [[H3196\|יַ֖יִן]] [[H9002\|וְ]][[H3563A\|כֹס֑וֹת]] [[H9001\|וָ]][[H0559\|אֹמַ֥ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֖ם]] [[H8354\|שְׁתוּ]][[H9014\|־]] [[H3196\|יָֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HANAN|HANAN]] • [[topic JONADAB|JONADAB]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.4|<< Jeremiah 35:4]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.6|Jeremiah 35:6 >>]]</td></tr></table>
 

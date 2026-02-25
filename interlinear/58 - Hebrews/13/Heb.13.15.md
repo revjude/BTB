@@ -1,10 +1,63 @@
+---
+title: Hebrews 13:15
+type: Verse
+kjv: "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name."
+bsb: "Through Jesus, therefore, let us continually offer to God a sacrifice of praise, the fruit of lips that confess His name."
+greek: "δι᾽ αὐτοῦ οὖν ἀναφέρωμεν θυσίαν αἰνέσεως διὰ παντὸς τῷ θεῷ, τοῦτ᾽ ἔστιν καρπὸν χειλέων ὁμολογούντων τῷ ὀνόματι αὐτοῦ."
+pericope: "[[Heb.13.15 Sacrifice, Obedience, and Prayer|Sacrifice, Obedience, and Prayer]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SACRIFICES|SACRIFICES]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G3767]]"
+- "[[G0399]]"
+- "[[G2378]]"
+- "[[G0133]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2590]]"
+- "[[G5491]]"
+- "[[G3670]]"
+- "[[G3686]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Hebrews 13:15**<big><big>[[Heb.13.15 Sacrifice, Obedience, and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of [our] lips giving thanks to his name.
 <small><sub>**BSB:**</sub></small>
 Through Jesus, therefore, let us continually offer to God a sacrifice of praise, the fruit of lips that confess His name.
-<small><sub>**Literal:**</sub></small>
-Through Him then we may offer [the] sacrifice of praise through all [times] <the> to God, That is [the] fruit of [the] lips confessing the name of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.14|<< Hebrews 13:14]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.16|Hebrews 13:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|δι᾽]]  [[G0846\|αὐτοῦ]]  [[G3767\|οὖν]]  [[G0399\|ἀναφέρωμεν]]  [[G2378\|θυσίαν]]  [[G0133\|αἰνέσεως]]  [[G1223\|διὰ]]  [[G3956\|παντὸς]]  [[G3588\|τῷ]]  [[G2316\|θεῷ,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G2590\|καρπὸν]]  [[G5491\|χειλέων]]  [[G3670\|ὁμολογούντων]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRAISE|PRAISE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SACRIFICES|SACRIFICES]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.14|<< Hebrews 13:14]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.16|Hebrews 13:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

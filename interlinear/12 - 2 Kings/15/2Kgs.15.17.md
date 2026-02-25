@@ -1,8 +1,60 @@
+---
+title: 2 Kings 15:17
+type: Verse
+kjv: "In the nine and thirtieth year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel, and reigned ten years in Samaria."
+bsb: "In the thirty-ninth year of Azariah’s reign over Judah, Menahem son of Gadi became king of Israel, and he reigned in Samaria ten years."
+hebrew: "בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וָתֵ֙שַׁע֙ שָׁנָ֔ה לַעֲזַרְיָ֖ה מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַךְ מְנַחֵ֨ם בֶּן־ גָּדִ֧י עַל־ יִשְׂרָאֵ֛ל עֶ֥שֶׂר שָׁנִ֖ים בְּשֹׁמְרֽוֹן׃"
+pericope: "[[2Kgs.15.17 Menahem Reigns in Israel|Menahem Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GADI|GADI]]"
+- "[[topic MENAHEM|MENAHEM]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H8672]]"
+- "[[H9005]]"
+- "[[H5838x]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H4505]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1424]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H6235]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:17**<big><big>[[2Kgs.15.17 Menahem Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the nine and thirtieth year of Azariah king of Judah began Menahem the son of Gadi to reign over Israel, [and reigned] ten years in Samaria.
 <small><sub>**BSB:**</sub></small>
 In the thirty-ninth year of Azariah’s reign over Judah, Menahem son of Gadi became king of Israel, and he reigned in Samaria ten years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֨ת]] [[H7970\|שְׁלֹשִׁ֤ים]] [[H9002\|וָ]][[H8672\|תֵ֙שַׁע֙]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H5838x\|עֲזַרְיָ֖ה]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H4427A\|מָ֠לַךְ]] [[H4505\|מְנַחֵ֨ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1424\|גָּדִ֧י]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H6235\|עֶ֥שֶׂר]] [[H8141\|שָׁנִ֖ים]] [[H9003\|בְּ]][[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GADI|GADI]] • [[topic MENAHEM|MENAHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.16|<< 2 Kings 15:16]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.18|2 Kings 15:18 >>]]</td></tr></table>
 

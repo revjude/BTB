@@ -1,8 +1,61 @@
+---
+title: Genesis 10:9
+type: Verse
+kjv: "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD."
+bsb: "He was a mighty hunter before the LORD; so it is said, “Like Nimrod, a mighty hunter before the LORD.”"
+hebrew: "הֽוּא־ הָיָ֥ה גִבֹּֽר־ צַ֖יִד לִפְנֵ֣י יְהוָ֑ה עַל־ כֵּן֙ יֵֽאָמַ֔ר כְּנִמְרֹ֛ד גִּבּ֥וֹר צַ֖יִד לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Gen.10.6 The Hamites|The Hamites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic HAM|HAM]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic NIMROD|NIMROD]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H1368]]"
+- "[[H6718A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H9004]]"
+- "[[H5248]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:9**<big><big>[[Gen.10.6 The Hamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.
 <small><sub>**BSB:**</sub></small>
 He was a mighty hunter before the LORD; so it is said, “Like Nimrod, a mighty hunter before the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|הֽוּא]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H1368\|גִבֹּֽר]][[H9014\|־]] [[H6718A\|צַ֖יִד]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H0559\|יֵֽאָמַ֔ר]] [[H9004\|כְּ]][[H5248\|נִמְרֹ֛ד]] [[H1368\|גִּבּ֥וֹר]] [[H6718A\|צַ֖יִד]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic HAM|HAM]] • [[topic HUNTING|HUNTING]] • [[topic NIMROD|NIMROD]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.8|<< Genesis 10:8]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.10|Genesis 10:10 >>]]</td></tr></table>
 

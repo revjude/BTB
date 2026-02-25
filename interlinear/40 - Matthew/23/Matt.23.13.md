@@ -1,10 +1,67 @@
+---
+title: Matthew 23:13
+type: Verse
+kjv: "But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in."
+bsb: "Woe to you, scribes and Pharisees, you hypocrites! You shut the kingdom of heaven in men’s faces. You yourselves do not enter, nor will you let in those who wish to enter."
+jesus_said: "But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in."
+greek: "Οὐαὶ δὲ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι κλείετε τὴν βασιλείαν τῶν οὐρανῶν ἔμπροσθεν τῶν ἀνθρώπων· ὑμεῖς γὰρ οὐκ εἰσέρχεσθε οὐδὲ τοὺς εἰσερχομένους ἀφίετε εἰσελθεῖν.¶"
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3759]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G5273]]"
+- "[[G3754H]]"
+- "[[G2808]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G1715]]"
+- "[[G0444]]"
+- "[[G1063]]"
+- "[[G3756]]"
+- "[[G1525]]"
+- "[[G3761]]"
+- "[[G0863I]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 23:13**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in [yourselves], neither suffer ye them that are entering to go in.
 <small><sub>**BSB:**</sub></small>
 Woe to you, scribes and Pharisees, you hypocrites! You shut the kingdom of heaven in men’s faces. You yourselves do not enter, nor will you let in those who wish to enter.
-<small><sub>**Literal:**</sub></small>
-Woe however to you, scribes and Pharisees hypocrites! For you shut up the kingdom of the heavens before <the> men; You yourselves for neither enter nor even those entering do you allow to go in.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.12|<< Matthew 23:12]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.14|Matthew 23:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν,]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαῖοι]]  [[G5273\|ὑποκριταί,]]  [[G3754H\|ὅτι]]  [[G2808\|κλείετε]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων·]]  [[G4771\|ὑμεῖς]]  [[G1063\|γὰρ]]  [[G3756\|οὐκ]]  [[G1525\|εἰσέρχεσθε]]  [[G3761\|οὐδὲ]]  [[G3588\|τοὺς]]  [[G1525\|εἰσερχομένους]]  [[G0863I\|ἀφίετε]]  [[G1525\|εἰσελθεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.12|<< Matthew 23:12]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.14|Matthew 23:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

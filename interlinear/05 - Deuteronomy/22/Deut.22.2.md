@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 22:2
+type: Verse
+kjv: "And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again."
+bsb: "If your brother does not live near you, or if you do not know who he is, you are to take the animal home to remain with you until your brother comes seeking it; then you can return it to him."
+hebrew: "וְאִם־ לֹ֨א קָר֥וֹב אָחִ֛יךָ אֵלֶ֖יךָ וְלֹ֣א יְדַעְתּ֑וֹ וַאֲסַפְתּוֹ֙ אֶל־ תּ֣וֹךְ בֵּיתֶ֔ךָ וְהָיָ֣ה עִמְּךָ֗ עַ֣ד דְּרֹ֤שׁ אָחִ֙יךָ֙ אֹת֔וֹ וַהֲשֵׁבֹת֖וֹ לֽוֹ׃"
+pericope: "[[Deut.22.1 Various Laws|Various Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic STRAY|STRAY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H7138]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3045]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H8432]]"
+- "[[H1004B]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H5704]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H7725H]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 22:2**<big><big>[[Deut.22.1 Various Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thy brother [be] not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again.
 <small><sub>**BSB:**</sub></small>
 If your brother does not live near you, or if you do not know who he is, you are to take the animal home to remain with you until your brother comes seeking it; then you can return it to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֨א]] [[H7138\|קָר֥וֹב]] [[H0251I\|אָחִ֛י]][[H9021\|ךָ]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3045\|יְדַעְתּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H0622\|אֲסַפְתּ]][[H9033\|וֹ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֣וֹךְ]] [[H1004B\|בֵּיתֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H5973A\|עִמְּ]][[H9031\|ךָ֗]] [[H5704\|עַ֣ד]] [[H1875\|דְּרֹ֤שׁ]] [[H0251I\|אָחִ֙י]][[H9021\|ךָ֙]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H7725H\|הֲשֵׁבֹת֖]][[H9033\|וֹ]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic KINDNESS|KINDNESS]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic PROPERTY|PROPERTY]] • [[topic STRAY|STRAY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.1|<< Deuteronomy 22:1]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.3|Deuteronomy 22:3 >>]]</td></tr></table>
 

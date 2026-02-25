@@ -1,8 +1,56 @@
+---
+title: Numbers 23:22
+type: Verse
+kjv: "God brought them out of Egypt; he hath as it were the strength of an unicorn."
+bsb: "God brought them out of Egypt with strength like a wild ox."
+hebrew: "אֵ֖ל מוֹצִיאָ֣ם מִמִּצְרָ֑יִם כְּתוֹעֲפֹ֥ת רְאֵ֖ם לֽוֹ׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PISGAH|PISGAH]]"
+strongs:
+- "[[H0410G]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9004]]"
+- "[[H8443]]"
+- "[[H7214]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:22**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God brought them out of Egypt; he hath as it were the strength of an unicorn.
 <small><sub>**BSB:**</sub></small>
 God brought them out of Egypt with strength like a wild ox.
+<small><sub>**Hebrew:**</sub></small>
+[[H0410G\|אֵ֖ל]] [[H3318H\|מוֹצִיאָ֣]][[H9038\|ם]] [[H9006\|מִ]][[H4714G\|מִּצְרָ֑יִם]] [[H9004\|כְּ]][[H8443\|תוֹעֲפֹ֥ת]] [[H7214\|רְאֵ֖ם]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PISGAH|PISGAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.21|<< Numbers 23:21]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.23|Numbers 23:23 >>]]</td></tr></table>
 

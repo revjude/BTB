@@ -1,10 +1,64 @@
+---
+title: Titus 2:12
+type: Verse
+kjv: "Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;"
+bsb: "It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age,"
+greek: "παιδεύουσα ἡμᾶς ἵνα ἀρνησάμενοι τὴν ἀσέβειαν καὶ τὰς κοσμικὰς ἐπιθυμίας σωφρόνως καὶ δικαίως καὶ εὐσεβῶς ζήσωμεν ἐν τῷ νῦν αἰῶνι"
+pericope: "[[Titus.2.11 God’s Grace Brings Salvation|God’s Grace Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 2
+book/chapter: "[[Titus.2|Titus 2]]"
+chronological_order: 1133
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LUST|LUST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic SOBRIETY|SOBRIETY]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3811]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G0720]]"
+- "[[G3588]]"
+- "[[G0763]]"
+- "[[G2532]]"
+- "[[G2886]]"
+- "[[G1939]]"
+- "[[G4996]]"
+- "[[G1346]]"
+- "[[G2153]]"
+- "[[G2198]]"
+- "[[G1722]]"
+- "[[G3568]]"
+- "[[G0165G]]"
+texts:
+- NKO
+---
+
 **Titus 2:12**<big><big>[[Titus.2.11 God’s Grace Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly, in this present world;
 <small><sub>**BSB:**</sub></small>
 It instructs us to renounce ungodliness and worldly passions, and to live sensible, upright, and godly lives in the present age,
-<small><sub>**Literal:**</sub></small>
-instructing us that having denied <the> ungodliness and <the> worldly passions discreetly and righteously and piously we may live in the present age<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.11|<< Titus 2:11]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.13|Titus 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3811\|παιδεύουσα]]  [[G3165\|ἡμᾶς]]  [[G2443\|ἵνα]]  [[G0720\|ἀρνησάμενοι]]  [[G3588\|τὴν]]  [[G0763\|ἀσέβειαν]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G2886\|κοσμικὰς]]  [[G1939\|ἐπιθυμίας]]  [[G4996\|σωφρόνως]]  [[G2532\|καὶ]]  [[G1346\|δικαίως]]  [[G2532\|καὶ]]  [[G2153\|εὐσεβῶς]]  [[G2198\|ζήσωμεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3568\|νῦν]]  [[G0165G\|αἰῶνι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOLINESS|HOLINESS]] • [[topic LUST|LUST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic SOBRIETY|SOBRIETY]] • [[topic TEMPERANCE|TEMPERANCE]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.11|<< Titus 2:11]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.13|Titus 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

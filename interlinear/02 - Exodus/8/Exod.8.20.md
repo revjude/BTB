@@ -1,8 +1,73 @@
+---
+title: Exodus 8:20
+type: Verse
+kjv: "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
+bsb: "Then the LORD said to Moses, “Get up early in the morning, and when Pharaoh goes out to the water, stand before him and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה הַשְׁכֵּ֤ם בַּבֹּ֙קֶר֙ וְהִתְיַצֵּב֙ לִפְנֵ֣י פַרְעֹ֔ה הִנֵּ֖ה יוֹצֵ֣א הַמָּ֑יְמָה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה שַׁלַּ֥ח עַמִּ֖י וְיַֽעַבְדֻֽנִי׃"
+pericope: "[[Exod.8.20 The Fourth Plague：Flies|The Fourth Plague：Flies]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic RISING|RISING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H7925]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9002]]"
+- "[[H3320]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H6547J]]"
+- "[[H2009]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H9011]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H7971H]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H5647H]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:20**<big><big>[[Exod.8.20 The Fourth Plague：Flies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Get up early in the morning, and when Pharaoh goes out to the water, stand before him and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H7925\|הַשְׁכֵּ֤ם]] [[H9003\|בַּ]][[H1242\|בֹּ֙קֶר֙]] [[H9002\|וְ]][[H3320\|הִתְיַצֵּב֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H6547J\|פַרְעֹ֔ה]] [[H2009\|הִנֵּ֖ה]] [[H3318G\|יוֹצֵ֣א]] [[H9009\|הַ]][[H4325G\|מָּ֑יְמָ]][[H9011\|ה]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H7971H\|שַׁלַּ֥ח]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9002\|וְ]][[H5647H\|יַֽעַבְדֻֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PLAGUE|PLAGUE]] • [[topic RISING|RISING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.19|<< Exodus 8:19]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.21|Exodus 8:21 >>]]</td></tr></table>
 

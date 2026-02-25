@@ -1,8 +1,53 @@
+---
+title: Proverbs 10:4
+type: Verse
+kjv: "He becometh poor that dealeth with a slack hand: but the hand of the diligent maketh rich."
+bsb: "Idle hands make one poor, but diligent hands bring wealth."
+hebrew: "רָ֗אשׁ עֹשֶׂ֥ה כַף־ רְמִיָּ֑ה וְיַ֖ד חָרוּצִ֣ים תַּעֲשִֽׁיר׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H7326]]"
+- "[[H6213H]]"
+- "[[H3709G]]"
+- "[[H9014]]"
+- "[[H7423B]]"
+- "[[H9002]]"
+- "[[H3027G]]"
+- "[[H2742A]]"
+- "[[H6238]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:4**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He becometh poor that dealeth [with] a slack hand: but the hand of the diligent maketh rich.
 <small><sub>**BSB:**</sub></small>
 Idle hands make one poor, but diligent hands bring wealth.
+<small><sub>**Hebrew:**</sub></small>
+[[H7326\|רָ֗אשׁ]] [[H6213H\|עֹשֶׂ֥ה]] [[H3709G\|כַף]][[H9014\|־]] [[H7423B\|רְמִיָּ֑ה]] [[H9002\|וְ]][[H3027G\|יַ֖ד]] [[H2742A\|חָרוּצִ֣ים]] [[H6238\|תַּעֲשִֽׁיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DILIGENCE|DILIGENCE]] • [[topic IDLENESS|IDLENESS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.3|<< Proverbs 10:3]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.5|Proverbs 10:5 >>]]</td></tr></table>
 

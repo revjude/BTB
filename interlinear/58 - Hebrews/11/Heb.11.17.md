@@ -1,10 +1,58 @@
+---
+title: Hebrews 11:17
+type: Verse
+kjv: "By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten son,"
+bsb: "By faith Abraham, when he was tested, offered up Isaac on the altar. He who had received the promises was ready to offer his one and only son,"
+greek: "Πίστει προσενήνοχεν Ἀβραὰμ τὸν Ἰσαὰκ πειραζόμενος, καὶ τὸν μονογενῆ προσέφερεν ὁ τὰς ἐπαγγελίας ἀναδεξάμενος,"
+pericope: "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEART|HEART]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G4102G]]"
+- "[[G4374]]"
+- "[[G0011]]"
+- "[[G3588]]"
+- "[[G2464]]"
+- "[[G3985H]]"
+- "[[G2532]]"
+- "[[G3439]]"
+- "[[G1860]]"
+- "[[G0324]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:17**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith Abraham, when he was tried, offered up Isaac: and he that had received the promises offered up his only begotten [son],
 <small><sub>**BSB:**</sub></small>
 By faith Abraham, when he was tested, offered up Isaac on the altar. He who had received the promises was ready to offer his one and only son,
-<small><sub>**Literal:**</sub></small>
-By faith has offered up Abraham <the> Isaac Being tested, even <the> [his] only begotten [son] was offering up the [one] the promises having received,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.16|<< Hebrews 11:16]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.18|Hebrews 11:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G4374\|προσενήνοχεν]]  [[G0011\|Ἀβραὰμ]]  [[G3588\|τὸν]]  [[G2464\|Ἰσαὰκ]]  [[G3985H\|πειραζόμενος,]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3439\|μονογενῆ]]  [[G4374\|προσέφερεν]]  [[G3588\|ὁ]]  [[G3588\|τὰς]]  [[G1860\|ἐπαγγελίας]]  [[G0324\|ἀναδεξάμενος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ATONEMENT|ATONEMENT]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic HEART|HEART]] • [[topic ISAAC|ISAAC]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.16|<< Hebrews 11:16]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.18|Hebrews 11:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:17** is...
 > $\quad$ alluding to: [[LXX.Gen.22.1|Gen 22:1]]

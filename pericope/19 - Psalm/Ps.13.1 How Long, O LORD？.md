@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: How Long, O LORD？
+type: Pericope
 pericope: "[[Ps.13.1 How Long, O LORD？|How Long, O LORD？]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 13
 book/chapter: "[[Ps.13|Psalm 13]]"
-genre:
+chronological_order: 347
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 7
 verses:
 - "[[Ps.13.0]]"
 - "[[Ps.13.1]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ps.13.6]]"
 ---
 
-[[Ps.13|Psalm 13:1 - Psalm 13:6]]
+<small>[[Ps.13|Psalm 13:1-6]]</small>
 *How Long, O LORD？*
 
 [[Ps.13.0|0]] To the chief Musician, A Psalm of David.

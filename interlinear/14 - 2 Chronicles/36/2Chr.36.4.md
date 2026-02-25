@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 36:4
+type: Verse
+kjv: "And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt."
+bsb: "Then Neco king of Egypt made Eliakim brother of Jehoahaz king over Judah and Jerusalem, and he changed Eliakim’s name to Jehoiakim. But Neco took Eliakim’s brother Jehoahaz and carried him off to Egypt."
+hebrew: "וַיַּמְלֵ֨ךְ מֶֽלֶךְ־ מִצְרַ֜יִם אֶת־ אֶלְיָקִ֣ים אָחִ֗יו עַל־ יְהוּדָה֙ וִיר֣וּשָׁלִַ֔ם וַיַּסֵּ֥ב אֶת־ שְׁמ֖וֹ יְהוֹיָקִ֑ים וְאֶת־ יוֹאָחָ֤ז אָחִיו֙ לָקַ֣ח נְכ֔וֹ וַיְבִיאֵ֖הוּ מִצְרָֽיְמָה׃ פ"
+pericope: "[[2Chr.36.1 Jehoahaz Succeeds Josiah|Jehoahaz Succeeds Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ELIAKIM|ELIAKIM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic NECHO|NECHO]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H0853]]"
+- "[[H0471I]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H5437K]]"
+- "[[H8034]]"
+- "[[H3079]]"
+- "[[H3099I]]"
+- "[[H3947G]]"
+- "[[H5224G]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H9011]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:4**<big><big>[[2Chr.36.1 Jehoahaz Succeeds Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt.
 <small><sub>**BSB:**</sub></small>
 Then Neco king of Egypt made Eliakim brother of Jehoahaz king over Judah and Jerusalem, and he changed Eliakim’s name to Jehoiakim. But Neco took Eliakim’s brother Jehoahaz and carried him off to Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4427A\|יַּמְלֵ֨ךְ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֜יִם]] [[H0853\|אֶת]][[H9014\|־]] [[H0471I\|אֶלְיָקִ֣ים]] [[H0251G\|אָחִ֗י]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9001\|וַ]][[H5437K\|יַּסֵּ֥ב]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3079\|יְהוֹיָקִ֑ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3099I\|יוֹאָחָ֤ז]] [[H0251G\|אָחִי]][[H9023\|ו֙]] [[H3947G\|לָקַ֣ח]] [[H5224G\|נְכ֔וֹ]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ֖]][[H9033\|הוּ]] [[H4714G\|מִצְרָֽיְמָ]][[H9011\|ה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic ELIAKIM|ELIAKIM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOAHAZ|JEHOAHAZ]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic NECHO|NECHO]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.3|<< 2 Chronicles 36:3]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.5|2 Chronicles 36:5 >>]]</td></tr></table>
 
@@ -27,7 +89,7 @@ Then Neco king of Egypt made Eliakim brother of Jehoahaz king over Judah and Jer
 | he took  |**<big>&#8207;[[H3947G\|לָקַ֣ח]]&#8207; </big>**| la.Kach<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Necho  |**<big>&#8207;[[H5224G\|נְכ֔וֹ]]&#8207; </big>**| ne.Kho<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he brought him  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יְבִיאֵ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.vi.'E.<small><sup>[[HVhw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Egypt towards  |**<big>&#8207;[[H4714G\|מִצְרָֽיְמָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mitz.Ra.ye.ma<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Egypt towards  |**<big>&#8207;[[H4714G\|מִצְרָֽיְמָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mitz.Ra.ye.ma<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.3|<< 2 Chronicles 36:3]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.5|2 Chronicles 36:5 >>]]</td></tr></table>
 
 

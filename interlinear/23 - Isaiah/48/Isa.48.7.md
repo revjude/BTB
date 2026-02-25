@@ -1,8 +1,55 @@
+---
+title: Isaiah 48:7
+type: Verse
+kjv: "They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them."
+bsb: "They are created now, and not long ago; you have not heard of them before today. So you cannot claim, ‘I already knew them!’"
+hebrew: "עַתָּ֤ה נִבְרְאוּ֙ וְלֹ֣א מֵאָ֔ז וְלִפְנֵי־ י֖וֹם וְלֹ֣א שְׁמַעְתָּ֑ם פֶּן־ תֹּאמַ֖ר הִנֵּ֥ה יְדַעְתִּֽין׃"
+pericope: "[[Isa.48.1 Israel’s Stubbornness|Israel’s Stubbornness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H6258]]"
+- "[[H1254A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H0227B]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H8085G]]"
+- "[[H9038]]"
+- "[[H6435]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H3045]]"
+- "[[H9039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:7**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.
 <small><sub>**BSB:**</sub></small>
 They are created now, and not long ago; you have not heard of them before today. So you cannot claim, ‘I already knew them!’
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּ֤ה]] [[H1254A\|נִבְרְאוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9006\|מֵ]][[H0227B\|אָ֔ז]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H3117G\|י֖וֹם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8085G\|שְׁמַעְתָּ֑]][[H9038\|ם]] [[H6435\|פֶּן]][[H9014\|־]] [[H0559\|תֹּאמַ֖ר]] [[H2009\|הִנֵּ֥ה]] [[H3045\|יְדַעְתִּֽי]][[H9039\|ן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.6|<< Isaiah 48:6]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.8|Isaiah 48:8 >>]]</td></tr></table>
 

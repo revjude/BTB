@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feeding of the Five Thousand
+type: Pericope
 pericope: "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Mark
 chapter: 6
 book/chapter: "[[Mark.6|Mark 6]]"
-genre:
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 15
 verses:
 - "[[Mark.6.30]]"
 - "[[Mark.6.31]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Mark.6.44]]"
 ---
 
-[[Mark.6|Mark 6:30 - Mark 6:44]]
+<small>[[Mark.6|Mark 6:30-44]]</small>
 *The Feeding of the Five Thousand*
 
 [[Mark.6.30|30]] And the apostles gathered themselves together unto Jesus, and told him all things, both what they had done, and what they had taught.

@@ -1,8 +1,67 @@
+---
+title: Nehemiah 1:5
+type: Verse
+kjv: "And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:"
+bsb: "Then I said: “O LORD, God of heaven, the great and awesome God who keeps His covenant of loving devotion with those who love Him and keep His commandments,"
+hebrew: "וָאֹמַ֗ר אָֽנָּ֤א יְהוָה֙ אֱלֹהֵ֣י הַשָּׁמַ֔יִם הָאֵ֥ל הַגָּד֖וֹל וְהַנּוֹרָ֑א שֹׁמֵ֤ר הַבְּרִית֙ וָחֶ֔סֶד לְאֹהֲבָ֖יו וּלְשֹׁמְרֵ֥י מִצְוֹתָֽיו׃"
+pericope: "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 1
+book/chapter: "[[Neh.1|Nehemiah 1]]"
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0577]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H0410G]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H8104G]]"
+- "[[H1285]]"
+- "[[H2617A]]"
+- "[[H9005]]"
+- "[[H0157G]]"
+- "[[H9033]]"
+- "[[H4687]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 1:5**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:
 <small><sub>**BSB:**</sub></small>
 Then I said: “O LORD, God of heaven, the great and awesome God who keeps His covenant of loving devotion with those who love Him and keep His commandments,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H0577\|אָֽנָּ֤א]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9009\|הָ]][[H0410G\|אֵ֥ל]] [[H9009\|הַ]][[H1419A\|גָּד֖וֹל]] [[H9002\|וְ]][[H9009\|הַ]][[H3372H\|נּוֹרָ֑א]] [[H8104G\|שֹׁמֵ֤ר]] [[H9009\|הַ]][[H1285\|בְּרִית֙]] [[H9002\|וָ]][[H2617A\|חֶ֔סֶד]] [[H9005\|לְ]][[H0157G\|אֹהֲבָ֖י]][[H9033\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H8104G\|שֹׁמְרֵ֥י]] [[H4687\|מִצְוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.4|<< Nehemiah 1:4]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.6|Nehemiah 1:6 >>]]</td></tr></table>
 

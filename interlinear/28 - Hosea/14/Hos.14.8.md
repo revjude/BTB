@@ -1,8 +1,64 @@
+---
+title: Hosea 14:8
+type: Verse
+kjv: "Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found."
+bsb: "O Ephraim, what have I to do anymore with idols? It is I who answer and watch over him. I am like a flourishing cypress; your fruit comes from Me."
+hebrew: "אֶפְרַ֕יִם מַה־ לִּ֥י ע֖וֹד לָֽעֲצַבִּ֑ים אֲנִ֧י עָנִ֣יתִי וַאֲשׁוּרֶ֗נּוּ אֲנִי֙ כִּבְר֣וֹשׁ רַֽעֲנָ֔ן מִמֶּ֖נִּי פֶּרְיְךָ֥ נִמְצָֽא׃"
+pericope: "[[Hos.14.4 A Promise of God’s Blessing|A Promise of God’s Blessing]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 14
+book/chapter: "[[Hos.14|Hosea 14]]"
+chronological_order: 655
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H0669G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5750]]"
+- "[[H6091]]"
+- "[[H0589]]"
+- "[[H6030B]]"
+- "[[H9002]]"
+- "[[H7789]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H1265]]"
+- "[[H7488B]]"
+- "[[H4480A]]"
+- "[[H6529]]"
+- "[[H9021]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 14:8**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim [shall say], What have I to do any more with idols? I have heard [him], and observed him: I [am] like a green fir tree. From me is thy fruit found.
 <small><sub>**BSB:**</sub></small>
 O Ephraim, what have I to do anymore with idols? It is I who answer and watch over him. I am like a flourishing cypress; your fruit comes from Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0669G\|אֶפְרַ֕יִם]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H5750\|ע֖וֹד]] [[H9005\|לָֽ]][[H6091\|עֲצַבִּ֑ים]] [[H0589\|אֲנִ֧י]] [[H6030B\|עָנִ֣יתִי]] [[H9002\|וַ]][[H7789\|אֲשׁוּרֶ֗]][[H9033\|נּוּ]] [[H0589\|אֲנִי֙]] [[H9004\|כִּ]][[H1265\|בְר֣וֹשׁ]] [[H7488B\|רַֽעֲנָ֔ן]] [[H4480A\|מִמֶּ֖]][[H9030\|נִּי]] [[H6529\|פֶּרְיְ]][[H9021\|ךָ֥]] [[H4672\|נִמְצָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.7|<< Hosea 14:7]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.9|Hosea 14:9 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Luke 20:6
+type: Verse
+kjv: "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet."
+bsb: "But if we say, ‘From men,’ all the people will stone us, for they are convinced that John was a prophet.”"
+greek: "ἐὰν δὲ εἴπωμεν· ἐξ ἀνθρώπων, ὁ λαὸς ἅπας καταλιθάσει ἡμᾶς· πεπεισμένος γάρ ἐστιν Ἰωάννην προφήτην εἶναι."
+pericope: "[[Luke.20.1 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G1537]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G0537]]"
+- "[[G2642]]"
+- "[[G3165]]"
+- "[[G3982]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2491G]]"
+- "[[G4396]]"
+- "[[G1511]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 20:6**<big><big>[[Luke.20.1 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.
 <small><sub>**BSB:**</sub></small>
 But if we say, ‘From men,’ all the people will stone us, for they are convinced that John was a prophet.”
-<small><sub>**Literal:**</sub></small>
-If however we shall say; From men, the people all will stone us; persuaded for they are John a prophet to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.5|<< Luke 20:5]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.7|Luke 20:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G2036\|εἴπωμεν·]]  [[G1537\|ἐξ]]  [[G0444\|ἀνθρώπων,]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G0537\|ἅπας]]  [[G2642\|καταλιθάσει]]  [[G3165\|ἡμᾶς·]]  [[G3982\|πεπεισμένος]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G2491G\|Ἰωάννην]]  [[G4396\|προφήτην]]  [[G1511\|εἶναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.5|<< Luke 20:5]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.7|Luke 20:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

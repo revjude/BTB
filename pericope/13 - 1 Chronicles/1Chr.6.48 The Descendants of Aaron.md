@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Aaron
+type: Pericope
 pericope: "[[1Chr.6.48 The Descendants of Aaron|The Descendants of Aaron]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 6
 book/chapter: "[[1Chr.6|1 Chronicles 6]]"
-genre:
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 6
 verses:
 - "[[1Chr.6.48]]"
 - "[[1Chr.6.49]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Chr.6.53]]"
 ---
 
-[[1Chr.6|1 Chronicles 6:48 - 1 Chronicles 6:53]]
+<small>[[1Chr.6|1 Chronicles 6:48-53]]</small>
 *The Descendants of Aaron*
 
 [[1Chr.6.48|48]] Their brethren also the Levites \[were\] appointed unto all manner of service of the tabernacle of the house of God.

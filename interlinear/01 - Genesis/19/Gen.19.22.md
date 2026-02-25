@@ -1,8 +1,69 @@
+---
+title: Genesis 19:22
+type: Verse
+kjv: "Haste thee, escape thither; for I cannot do any thing till thou be come thither. Therefore the name of the city was called Zoar."
+bsb: "Hurry! Run there quickly, for I cannot do anything until you reach it.” That is why the town was called Zoar."
+hebrew: "מַהֵר֙ הִמָּלֵ֣ט שָׁ֔מָּה כִּ֣י לֹ֤א אוּכַל֙ לַעֲשׂ֣וֹת דָּבָ֔ר עַד־ בֹּאֲךָ֖ שָׁ֑מָּה עַל־ כֵּ֛ן קָרָ֥א שֵׁם־ הָעִ֖יר צֽוֹעַר׃"
+pericope: "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic ZOAR|ZOAR]]"
+strongs:
+- "[[H4116A]]"
+- "[[H4422]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H1697I]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9041]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H6820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:22**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Haste thee, escape thither; for I cannot do any thing till thou be come thither. Therefore the name of the city was called Zoar.
 <small><sub>**BSB:**</sub></small>
 Hurry! Run there quickly, for I cannot do anything until you reach it.” That is why the town was called Zoar.
+<small><sub>**Hebrew:**</sub></small>
+[[H4116A\|מַהֵר֙]] [[H4422\|הִמָּלֵ֣ט]] [[H8033G\|שָׁ֔מָּ]][[H9011\|ה]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H3201\|אוּכַל֙]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H1697I\|דָּבָ֔ר]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּאֲ]][[H9041\|ךָ֖]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֛ן]] [[H7121H\|קָרָ֥א]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H6820\|צֽוֹעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LOT|LOT]] • [[topic SODOM|SODOM]] • [[topic ZOAR|ZOAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.21|<< Genesis 19:21]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.23|Genesis 19:23 >>]]</td></tr></table>
 

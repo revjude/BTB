@@ -1,8 +1,66 @@
+---
+title: Numbers 18:16
+type: Verse
+kjv: "And those that are to be redeemed from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary, which is twenty gerahs."
+bsb: "You are to pay the redemption price for a month-old male according to your valuation: five shekels of silver, according to the sanctuary shekel, which is twenty gerahs."
+hebrew: "וּפְדוּיָו֙ מִבֶּן־ חֹ֣דֶשׁ תִּפְדֶּ֔ה בְּעֶ֨רְכְּךָ֔ כֶּ֛סֶף חֲמֵ֥שֶׁת שְׁקָלִ֖ים בְּשֶׁ֣קֶל הַקֹּ֑דֶשׁ עֶשְׂרִ֥ים גֵּרָ֖ה הֽוּא׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H6299]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H2320G]]"
+- "[[H9003]]"
+- "[[H6187]]"
+- "[[H9021]]"
+- "[[H3701H]]"
+- "[[H2568]]"
+- "[[H8255]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H6242]]"
+- "[[H1626]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:16**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those that are to be redeemed from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary, which [is] twenty gerahs.
 <small><sub>**BSB:**</sub></small>
 You are to pay the redemption price for a month-old male according to your valuation: five shekels of silver, according to the sanctuary shekel, which is twenty gerahs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6299\|פְדוּיָ]][[H9023\|ו֙]] [[H9006\|מִ]][[H1121L\|בֶּן]][[H9014\|־]] [[H2320G\|חֹ֣דֶשׁ]] [[H6299\|תִּפְדֶּ֔ה]] [[H9003\|בְּ]][[H6187\|עֶ֨רְכְּ]][[H9021\|ךָ֔]] [[H3701H\|כֶּ֛סֶף]] [[H2568\|חֲמֵ֥שֶׁת]] [[H8255\|שְׁקָלִ֖ים]] [[H9003\|בְּ]][[H8255\|שֶׁ֣קֶל]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H6242\|עֶשְׂרִ֥ים]] [[H1626\|גֵּרָ֖ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic MONEY|MONEY]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.15|<< Numbers 18:15]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.17|Numbers 18:17 >>]]</td></tr></table>
 

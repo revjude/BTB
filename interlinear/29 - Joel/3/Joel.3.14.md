@@ -1,8 +1,55 @@
+---
+title: Joel 3:14
+type: Verse
+kjv: "Multitudes, multitudes in the valley of decision: for the day of the LORD is near in the valley of decision."
+bsb: "Multitudes, multitudes in the valley of decision! For the Day of the LORD is near in the valley of decision."
+hebrew: "הֲמוֹנִ֣ים הֲמוֹנִ֔ים בְּעֵ֖מֶק הֶֽחָר֑וּץ כִּ֤י קָרוֹב֙ י֣וֹם יְהוָ֔ה בְּעֵ֖מֶק הֶחָרֽוּץ׃"
+pericope: "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic DECISION, VALLEY OF|DECISION, VALLEY OF]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1995A]]"
+- "[[H9003]]"
+- "[[H6010R]]"
+- "[[H9009]]"
+- "[[H2742B]]"
+- "[[H3588A]]"
+- "[[H7138]]"
+- "[[H3117G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 3:14**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Multitudes, multitudes in the valley of decision: for the day of the LORD [is] near in the valley of decision.
 <small><sub>**BSB:**</sub></small>
 Multitudes, multitudes in the valley of decision! For the Day of the LORD is near in the valley of decision.
+<small><sub>**Hebrew:**</sub></small>
+[[H1995A\|הֲמוֹנִ֣ים]] [[H1995A\|הֲמוֹנִ֔ים]] [[H9003\|בְּ]][[H6010R\|עֵ֖מֶק]] [[H9009\|הֶֽ]][[H2742B\|חָר֑וּץ]] [[H3588A\|כִּ֤י]] [[H7138\|קָרוֹב֙]] [[H3117G\|י֣וֹם]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H6010R\|עֵ֖מֶק]] [[H9009\|הֶ]][[H2742B\|חָרֽוּץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic DECISION, VALLEY OF|DECISION, VALLEY OF]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JOEL|JOEL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.13|<< Joel 3:13]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.15|Joel 3:15 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Revelation 20:9
+type: Verse
+kjv: "And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them."
+bsb: "And they marched across the broad expanse of the earth and surrounded the camp of the saints and the beloved city. But fire came down from heaven and consumed them."
+greek: "καὶ ἀνέβησαν ἐπὶ τὸ πλάτος τῆς γῆς καὶ ἐκύκλευσαν τὴν παρεμβολὴν τῶν ἁγίων καὶ τὴν πόλιν τὴν ἠγαπημένην. καὶ κατέβη πῦρ ἀπὸ τοῦ θεοῦ ἐκ τοῦ οὐρανοῦ καὶ κατέφαγεν αὐτούς."
+pericope: "[[Rev.20.7 Satan Cast into the Lake of Fire|Satan Cast into the Lake of Fire]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic FIRE|FIRE]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4114]]"
+- "[[G1093G]]"
+- "[[G6059]]"
+- "[[G3925]]"
+- "[[G0040H]]"
+- "[[G4172]]"
+- "[[G0025]]"
+- "[[G2597]]"
+- "[[G4442]]"
+- "[[G0575]]"
+- "[[G2316]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G2719]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- KO
+---
+
 **Revelation 20:9**<big><big>[[Rev.20.7 Satan Cast into the Lake of Fire|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.
 <small><sub>**BSB:**</sub></small>
 And they marched across the broad expanse of the earth and surrounded the camp of the saints and the beloved city. But fire came down from heaven and consumed them.
-<small><sub>**Literal:**</sub></small>
-And they marched up over the breadth of the earth and encircled the camp of the saints and the city which beloved. But came down fire from <the> God out of <the> heaven and devoured them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.8|<< Revelation 20:8]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.10|Revelation 20:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0305\|ἀνέβησαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G4114\|πλάτος]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G6059\|ἐκύκλευσαν]]  [[G3588\|τὴν]]  [[G3925\|παρεμβολὴν]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G3588\|τὴν]]  [[G0025\|ἠγαπημένην.]]  [[G2532\|καὶ]]  [[G2597\|κατέβη]]  [[G4442\|πῦρ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2532\|καὶ]]  [[G2719\|κατέφαγεν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRE|FIRE]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.8|<< Revelation 20:8]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.10|Revelation 20:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 20:9** is...
 > $\quad$ referencing: [[LXX.2Kgs.1.10|2Kgs 1:10]][[LXX.2Kgs.1.12|, 12]]

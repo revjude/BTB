@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 1:25
+type: Verse
+kjv: "How are the mighty fallen in the midst of the battle! O Jonathan, thou wast slain in thine high places."
+bsb: "How the mighty have fallen in the thick of battle! Jonathan lies slain on your heights."
+hebrew: "אֵ֚יךְ נָפְל֣וּ גִבֹּרִ֔ים בְּת֖וֹךְ הַמִּלְחָמָ֑ה יְה֣וֹנָתָ֔ן עַל־ בָּמוֹתֶ֖יךָ חָלָֽל׃"
+pericope: "[[2Sam.1.17 David’s Song for Saul and Jonathan|David’s Song for Saul and Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELEGY|ELEGY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H0349A]]"
+- "[[H5307G]]"
+- "[[H1368]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H3083H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1116]]"
+- "[[H9021]]"
+- "[[H2491A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:25**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How are the mighty fallen in the midst of the battle! O Jonathan, [thou wast] slain in thine high places.
 <small><sub>**BSB:**</sub></small>
 How the mighty have fallen in the thick of battle! Jonathan lies slain on your heights.
+<small><sub>**Hebrew:**</sub></small>
+[[H0349A\|אֵ֚יךְ]] [[H5307G\|נָפְל֣וּ]] [[H1368\|גִבֹּרִ֔ים]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֑ה]] [[H3083H\|יְה֣וֹנָתָ֔ן]] [[H5921A\|עַל]][[H9014\|־]] [[H1116\|בָּמוֹתֶ֖י]][[H9021\|ךָ]] [[H2491A\|חָלָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ELEGY|ELEGY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic MOURNING|MOURNING]] • [[topic POETRY|POETRY]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.24|<< 2 Samuel 1:24]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.26|2 Samuel 1:26 >>]]</td></tr></table>
 

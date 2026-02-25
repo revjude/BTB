@@ -1,8 +1,75 @@
+---
+title: Daniel 6:26
+type: Verse
+kjv: "I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he is the living God, and stedfast for ever, and his kingdom that which shall not be destroyed, and his dominion shall be even unto the end."
+bsb: "I hereby decree that in every part of my kingdom, men are to tremble in fear before the God of Daniel: For He is the living God, and He endures forever; His kingdom will never be destroyed, and His dominion will never end."
+aramaic: "מִן־ קֳדָמַי֮ שִׂ֣ים טְעֵם֒ דִּ֣י׀ בְּכָל־ שָׁלְטָ֣ן מַלְכוּתִ֗י לֶהֱוֹ֤ן זָיְעִין֙ וְדָ֣חֲלִ֔ין מִן־ קֳדָ֖ם אֱלָהֵ֣הּ דִּי־ דָֽנִיֵּ֑אל דִּי־ ה֣וּא׀ אֱלָהָ֣א חַיָּ֗א וְקַיָּם֙ לְעָ֣לְמִ֔ין וּמַלְכוּתֵהּ֙ דִּֽי־ לָ֣א תִתְחַבַּ֔ל וְשָׁלְטָנֵ֖הּ עַד־ סוֹפָֽא׃"
+pericope: "[[Dan.6.25 Darius Honors God|Darius Honors God]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H6925]]"
+- "[[H9030]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H1768]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3606]]"
+- "[[H7985]]"
+- "[[H4437]]"
+- "[[H9020]]"
+- "[[H1934]]"
+- "[[H2112]]"
+- "[[H9002]]"
+- "[[H1763]]"
+- "[[H0426]]"
+- "[[H9023]]"
+- "[[H1841H]]"
+- "[[H1932]]"
+- "[[H9010]]"
+- "[[H2417]]"
+- "[[H7011]]"
+- "[[H9005]]"
+- "[[H5957]]"
+- "[[H3809]]"
+- "[[H2255]]"
+- "[[H5705]]"
+- "[[H5491]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 6:26**<big><big>[[Dan.6.25 Darius Honors God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he [is] the living God, and stedfast for ever, and his kingdom [that] which shall not be destroyed, and his dominion [shall be even] unto the end.
 <small><sub>**BSB:**</sub></small>
 I hereby decree that in every part of my kingdom, men are to tremble in fear before the God of Daniel: For He is the living God, and He endures forever; His kingdom will never be destroyed, and His dominion will never end.
+<small><sub>**Aramaic:**</sub></small>
+[[H4481\|מִן]][[H9014\|־]] [[H6925\|קֳדָמַ]][[H9030\|י֮]] [[H7761G\|שִׂ֣ים]] [[H2942\|טְעֵם֒]] [[H1768\|דִּ֣י]][[H9015\|׀]] [[H9003\|בְּ]][[H3606\|כָל]][[H9014\|־]] [[H7985\|שָׁלְטָ֣ן]] [[H4437\|מַלְכוּתִ֗]][[H9020\|י]] [[H1934\|לֶהֱוֹ֤ן]] [[H2112\|זָיְעִין֙]] [[H9002\|וְ]][[H1763\|דָ֣חֲלִ֔ין]] [[H4481\|מִן]][[H9014\|־]] [[H6925\|קֳדָ֖ם]] [[H0426\|אֱלָהֵ֣]][[H9023\|הּ]] [[H1768\|דִּי]][[H9014\|־]] [[H1841H\|דָֽנִיֵּ֑אל]] [[H1768\|דִּי]][[H9014\|־]] [[H1932\|ה֣וּא]][[H9015\|׀]] [[H0426\|אֱלָהָ֣]][[H9010\|א]] [[H2417\|חַיָּ֗]][[H9010\|א]] [[H9002\|וְ]][[H7011\|קַיָּם֙]] [[H9005\|לְ]][[H5957\|עָ֣לְמִ֔ין]] [[H9002\|וּ]][[H4437\|מַלְכוּתֵ]][[H9023\|הּ֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H3809\|לָ֣א]] [[H2255\|תִתְחַבַּ֔ל]] [[H9002\|וְ]][[H7985\|שָׁלְטָנֵ֖]][[H9023\|הּ]] [[H5705\|עַד]][[H9014\|־]] [[H5491\|סוֹפָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.25|<< Daniel 6:25]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.27|Daniel 6:27 >>]]</td></tr></table>
 

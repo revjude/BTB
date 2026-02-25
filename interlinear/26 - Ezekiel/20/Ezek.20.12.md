@@ -1,8 +1,62 @@
+---
+title: Ezekiel 20:12
+type: Verse
+kjv: "Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I am the LORD that sanctify them."
+bsb: "I also gave them My Sabbaths as a sign between us, so that they would know that I am the LORD who sanctifies them."
+hebrew: "וְגַ֤ם אֶת־ שַׁבְּתוֹתַי֙ נָתַ֣תִּי לָהֶ֔ם לִהְי֣וֹת לְא֔וֹת בֵּינִ֖י וּבֵֽינֵיהֶ֑ם לָדַ֕עַת כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדְּשָֽׁם׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7676]]"
+- "[[H9020]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1961]]"
+- "[[H0226H]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H6942G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:12**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover also I gave them my sabbaths, to be a sign between me and them, that they might know that I [am] the LORD that sanctify them.
 <small><sub>**BSB:**</sub></small>
 I also gave them My Sabbaths as a sign between us, so that they would know that I am the LORD who sanctifies them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֤ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתוֹתַ]][[H9020\|י֙]] [[H5414G\|נָתַ֣תִּי]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9005\|לִ]][[H1961\|הְי֣וֹת]] [[H9005\|לְ]][[H0226H\|א֔וֹת]] [[H0996G\|בֵּינִ֖]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵֽינֵי]][[H9038\|הֶ֑ם]] [[H9005\|לָ]][[H3045\|דַ֕עַת]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H6942G\|מְקַדְּשָֽׁ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.11|<< Ezekiel 20:11]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.13|Ezekiel 20:13 >>]]</td></tr></table>
 

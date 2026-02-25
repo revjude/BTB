@@ -1,8 +1,72 @@
+---
+title: Genesis 50:24
+type: Verse
+kjv: "And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob."
+bsb: "Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.”"
+hebrew: "וַיֹּ֤אמֶר יוֹסֵף֙ אֶל־ אֶחָ֔יו אָנֹכִ֖י מֵ֑ת וֵֽאלֹהִ֞ים פָּקֹ֧ד יִפְקֹ֣ד אֶתְכֶ֗ם וְהֶעֱלָ֤ה אֶתְכֶם֙ מִן־ הָאָ֣רֶץ הַזֹּ֔את אֶל־ הָאָ֕רֶץ אֲשֶׁ֥ר נִשְׁבַּ֛ע לְאַבְרָהָ֥ם לְיִצְחָ֖ק וּֽלְיַעֲקֹֽב׃"
+pericope: "[[Gen.50.22 The Death of Joseph|The Death of Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3130G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H0595]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H6485I]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H5927H]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:24**<big><big>[[Gen.50.22 The Death of Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
 <small><sub>**BSB:**</sub></small>
 Then Joseph said to his brothers, “I am about to die, but God will surely visit you and bring you up from this land to the land He promised on oath to Abraham, Isaac, and Jacob.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3130G\|יוֹסֵף֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H0595\|אָנֹכִ֖י]] [[H4191\|מֵ֑ת]] [[H9002\|וֵֽ]][[H0430G\|אלֹהִ֞ים]] [[H6485I\|פָּקֹ֧ד]] [[H6485I\|יִפְקֹ֣ד]] [[H0853\|אֶתְ]][[H9036\|כֶ֗ם]] [[H9001\|וְ]][[H5927H\|הֶעֱלָ֤ה]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבַּ֛ע]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֥ם]] [[H9005\|לְ]][[H3327\|יִצְחָ֖ק]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic COVENANT|COVENANT]] • [[topic FAITH|FAITH]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.23|<< Genesis 50:23]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.25|Genesis 50:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

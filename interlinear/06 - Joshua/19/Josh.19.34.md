@@ -1,8 +1,64 @@
+---
+title: Joshua 19:34
+type: Verse
+kjv: "And then the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising."
+bsb: "Then the border turned westward to Aznoth-tabor and ran from there to Hukkok, touching Zebulun on the south side, Asher on the west, and Judah at the Jordan on the east."
+hebrew: "וְשָׁ֨ב הַגְּב֥וּל יָ֙מָּה֙ אַזְנ֣וֹת תָּב֔וֹר וְיָצָ֥א מִשָּׁ֖ם חוּקֹ֑קָה וּפָגַ֨ע בִּזְבֻל֜וּן מִנֶּ֗גֶב וּבְאָשֵׁר֙ פָּגַ֣ע מִיָּ֔ם וּבִ֣יהוּדָ֔ה הַיַּרְדֵּ֖ן מִזְרַ֥ח הַשָּֽׁמֶשׁ׃"
+pericope: "[[Josh.19.32 Naphtali’s Inheritance|Naphtali’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AZNOTH-TABOR|AZNOTH-TABOR]]"
+- "[[topic HUKKOK|HUKKOK]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H0243]]"
+- "[[H3318I]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H2712A]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H2074]]"
+- "[[H5045H]]"
+- "[[H9002]]"
+- "[[H0836]]"
+- "[[H3063G]]"
+- "[[H3383]]"
+- "[[H4217H]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:34**<big><big>[[Josh.19.32 Naphtali’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [then] the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.
 <small><sub>**BSB:**</sub></small>
 Then the border turned westward to Aznoth-tabor and ran from there to Hukkok, touching Zebulun on the south side, Asher on the west, and Judah at the Jordan on the east.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725G\|שָׁ֨ב]] [[H9009\|הַ]][[H1366G\|גְּב֥וּל]] [[H3220H\|יָ֙מָּ]][[H9011\|ה֙]] [[H0243\|אַזְנ֣וֹת]] [[H0243\|תָּב֔וֹר]] [[H9001\|וְ]][[H3318I\|יָצָ֥א]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H2712A\|חוּקֹ֑קָ]][[H9011\|ה]] [[H9001\|וּ]][[H6293\|פָגַ֨ע]] [[H9003\|בִּ]][[H2074\|זְבֻל֜וּן]] [[H9006\|מִ]][[H5045H\|נֶּ֗גֶב]] [[H9002\|וּ]][[H9003\|בְ]][[H0836\|אָשֵׁר֙]] [[H6293\|פָּגַ֣ע]] [[H9006\|מִ]][[H3220H\|יָּ֔ם]] [[H9002\|וּ]][[H9003\|בִ֣]][[H3063G\|יהוּדָ֔ה]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H4217H\|מִזְרַ֥ח]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZNOTH-TABOR|AZNOTH-TABOR]] • [[topic HUKKOK|HUKKOK]] • [[topic NAPHTALI|NAPHTALI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.33|<< Joshua 19:33]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.35|Joshua 19:35 >>]]</td></tr></table>
 

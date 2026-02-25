@@ -1,8 +1,66 @@
+---
+title: Psalm 101:7
+type: Verse
+kjv: "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight."
+bsb: "No one who practices deceit shall dwell in my house; no one who tells lies shall stand in my presence."
+hebrew: "לֹֽא־ יֵשֵׁ֨ב׀ בְּקֶ֥רֶב בֵּיתִי֮ עֹשֵׂ֪ה רְמִ֫יָּ֥ה דֹּבֵ֥ר שְׁקָרִ֑ים לֹֽא־ יִ֝כּ֗וֹן לְנֶ֣גֶד עֵינָֽי׃"
+pericope: "[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|I Will Set No Worthless Thing before My Eyes]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 101
+book/chapter: "[[Ps.101|Psalm 101]]"
+chronological_order: 380
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H7423A]]"
+- "[[H1696G]]"
+- "[[H8267]]"
+- "[[H3559H]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 101:7**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.
 <small><sub>**BSB:**</sub></small>
 No one who practices deceit shall dwell in my house; no one who tells lies shall stand in my presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H3427\|יֵשֵׁ֨ב]][[H9015\|׀]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H1004B\|בֵּיתִ]][[H9020\|י֮]] [[H6213A\|עֹשֵׂ֪ה]] [[H7423A\|רְמִ֫יָּ֥ה]] [[H1696G\|דֹּבֵ֥ר]] [[H8267\|שְׁקָרִ֑ים]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3559H\|יִ֝כּ֗וֹן]] [[H9005\|לְ]][[H5048\|נֶ֣גֶד]] [[H5869A\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic DECEIT|DECEIT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.6|<< Psalms 101:6]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.8|Psalms 101:8 >>]]</td></tr></table>
 

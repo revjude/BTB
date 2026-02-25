@@ -1,10 +1,57 @@
+---
+title: Matthew 4:9
+type: Verse
+kjv: "And saith unto him, All these things will I give thee, if thou wilt fall down and worship me."
+bsb: "“All this I will give You,” he said, “if You will fall down and worship me.”"
+greek: "καὶ εἶπεν αὐτῷ· ταῦτά σοι πάντα δώσω, ἐὰν πεσὼν προσκυνήσῃς μοι.¶"
+pericope: "[[Matt.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G4771]]"
+- "[[G3956]]"
+- "[[G1325]]"
+- "[[G1437]]"
+- "[[G4098]]"
+- "[[G4352]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 4:9**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saith unto him, All these things will I give thee, if thou wilt fall down and worship me.
 <small><sub>**BSB:**</sub></small>
 “All this I will give You,” he said, “if You will fall down and worship me.”
-<small><sub>**Literal:**</sub></small>
-and he says to Him; These things to You all will I give, if falling down You shall worship me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.8|<< Matthew 4:8]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.10|Matthew 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G3778\|ταῦτά]]  [[G4771\|σοι]]  [[G3956\|πάντα]]  [[G1325\|δώσω,]]  [[G1437\|ἐὰν]]  [[G4098\|πεσὼν]]  [[G4352\|προσκυνήσῃς]]  [[G3165\|μοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic DEMONS|DEMONS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.8|<< Matthew 4:8]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.10|Matthew 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

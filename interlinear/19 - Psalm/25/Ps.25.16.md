@@ -1,8 +1,54 @@
+---
+title: Psalm 25:16
+type: Verse
+kjv: "Turn thee unto me, and have mercy upon me; for I am desolate and afflicted."
+bsb: "Turn to me and be gracious, for I am lonely and afflicted."
+hebrew: "פְּנֵה־ אֵלַ֥י וְחָנֵּ֑נִי כִּֽי־ יָחִ֖יד וְעָנִ֣י אָֽנִי׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H6437G]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H2603A]]"
+- "[[H3588A]]"
+- "[[H3173]]"
+- "[[H6041]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:16**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn thee unto me, and have mercy upon me; for I [am] desolate and afflicted.
 <small><sub>**BSB:**</sub></small>
 Turn to me and be gracious, for I am lonely and afflicted.
+<small><sub>**Hebrew:**</sub></small>
+[[H6437G\|פְּנֵה]][[H9014\|־]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9002\|וְ]][[H2603A\|חָנֵּ֑]][[H9030\|נִי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3173\|יָחִ֖יד]] [[H9002\|וְ]][[H6041\|עָנִ֣י]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.15|<< Psalms 25:15]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.17|Psalms 25:17 >>]]</td></tr></table>
 

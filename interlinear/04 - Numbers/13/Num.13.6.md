@@ -1,8 +1,53 @@
+---
+title: Numbers 13:6
+type: Verse
+kjv: "Of the tribe of Judah, Caleb the son of Jephunneh."
+bsb: "from the tribe of Judah, Caleb son of Jephunneh;"
+hebrew: "לְמַטֵּ֣ה יְהוּדָ֔ה כָּלֵ֖ב בֶּן־ יְפֻנֶּֽה׃"
+pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic JEPHUNNEH|JEPHUNNEH]]"
+strongs:
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H3063G]]"
+- "[[H3612G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3312G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:6**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the tribe of Judah, Caleb the son of Jephunneh.
 <small><sub>**BSB:**</sub></small>
 from the tribe of Judah, Caleb son of Jephunneh;
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H4294H\|מַטֵּ֣ה]] [[H3063G\|יְהוּדָ֔ה]] [[H3612G\|כָּלֵ֖ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3312G\|יְפֻנֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic JEPHUNNEH|JEPHUNNEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.5|<< Numbers 13:5]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.7|Numbers 13:7 >>]]</td></tr></table>
 

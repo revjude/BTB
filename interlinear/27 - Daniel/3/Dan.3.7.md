@@ -1,8 +1,84 @@
+---
+title: Daniel 3:7
+type: Verse
+kjv: "Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down and worshipped the golden image that Nebuchadnezzar the king had set up."
+bsb: "Therefore, as soon as all the people heard the sound of the horn, flute, zither, lyre, harp, and all kinds of music, the people of every nation and language would fall down and worship the golden statue that King Nebuchadnezzar had set up."
+aramaic: "כָּל־ קֳבֵ֣ל דְּנָ֡ה בֵּהּ־ זִמְנָ֡א כְּדִ֣י שָֽׁמְעִ֣ין כָּֽל־ עַמְמַיָּ֡א קָ֣ל קַרְנָא֩ מַשְׁר֨וֹקִיתָ֜א קַתְר֤וֹס שַׂבְּכָא֙ פְּסַנְטֵרִ֔ין וְסוּפֹּ֣נְיָ֔ה וְכֹ֖ל זְנֵ֣י זְמָרָ֑א נָֽפְלִ֨ין כָּֽל־ עַֽמְמַיָּ֜א אֻמַיָּ֣א וְלִשָּׁנַיָּ֗א סָֽגְדִין֙ לְצֶ֣לֶם דַּהֲבָ֔א דִּ֥י הֲקֵ֖ים נְבוּכַדְנֶצַּ֥ר מַלְכָּֽא׃"
+pericope: "[[Dan.3.1 Nebuchadnezzar’s Golden Statue|Nebuchadnezzar’s Golden Statue]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic FLUTE|FLUTE]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic PSALTERY|PSALTERY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SACKBUT|SACKBUT]]"
+strongs:
+- "[[H9004]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H6903H]]"
+- "[[H1836]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H2166]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H8086]]"
+- "[[H3606]]"
+- "[[H5972]]"
+- "[[H7032G]]"
+- "[[H7162]]"
+- "[[H4953]]"
+- "[[H7030]]"
+- "[[H5443]]"
+- "[[H6460]]"
+- "[[H9002]]"
+- "[[H5481]]"
+- "[[H2178]]"
+- "[[H2170]]"
+- "[[H5308]]"
+- "[[H0524]]"
+- "[[H3961]]"
+- "[[H5457]]"
+- "[[H6755]]"
+- "[[H1722]]"
+- "[[H6966I]]"
+- "[[H5020]]"
+- "[[H4430]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+- X
+---
+
 **Daniel 3:7**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down [and] worshipped the golden image that Nebuchadnezzar the king had set up.
 <small><sub>**BSB:**</sub></small>
 Therefore, as soon as all the people heard the sound of the horn, flute, zither, lyre, harp, and all kinds of music, the people of every nation and language would fall down and worship the golden statue that King Nebuchadnezzar had set up.
+<small><sub>**Aramaic:**</sub></small>
+[[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵ֣ל]] [[H1836\|דְּנָ֡ה]] [[H9003\|בֵּ]][[H9033\|הּ]][[H9014\|־]] [[H2166\|זִמְנָ֡]][[H9010\|א]] [[H9004\|כְּ]][[H1768\|דִ֣י]] [[H8086\|שָֽׁמְעִ֣ין]] [[H3606\|כָּֽל]][[H9014\|־]] [[H5972\|עַמְמַיָּ֡]][[H9010\|א]] [[H7032G\|קָ֣ל]] [[H7162\|קַרְנָ]][[H9010\|א֩]] [[H4953\|מַשְׁר֨וֹקִיתָ֜]][[H9010\|א]] [[H7030\|קַתְר֤וֹס]] [[H5443\|שַׂבְּכָא֙]] [[H6460\|פְּסַנְטֵרִ֔ין]] [[H9002\|וְ]][[H5481\|סוּפֹּ֣נְיָ֔ה]] [[H9002\|וְ]][[H3606\|כֹ֖ל]] [[H2178\|זְנֵ֣י]] [[H2170\|זְמָרָ֑]][[H9010\|א]] [[H5308\|נָֽפְלִ֨ין]] [[H3606\|כָּֽל]][[H9014\|־]] [[H5972\|עַֽמְמַיָּ֜]][[H9010\|א]] [[H0524\|אֻמַיָּ֣]][[H9010\|א]] [[H9002\|וְ]][[H3961\|לִשָּׁנַיָּ֗]][[H9010\|א]] [[H5457\|סָֽגְדִין֙]] [[H9005\|לְ]][[H6755\|צֶ֣לֶם]] [[H1722\|דַּהֲבָ֔]][[H9010\|א]] [[H1768\|דִּ֥י]] [[H6966I\|הֲקֵ֖ים]] [[H5020\|נְבוּכַדְנֶצַּ֥ר]] [[H4430\|מַלְכָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic FLUTE|FLUTE]] • [[topic FURNACE|FURNACE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MUSIC|MUSIC]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic PSALTERY|PSALTERY]] • [[topic RULERS|RULERS]] • [[topic SACKBUT|SACKBUT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.6|<< Daniel 3:6]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.8|Daniel 3:8 >>]]</td></tr></table>
 

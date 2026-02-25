@@ -1,10 +1,53 @@
+---
+title: 1 Corinthians 3:20
+type: Verse
+kjv: "And again, The Lord knoweth the thoughts of the wise, that they are vain."
+bsb: "And again, “The Lord knows that the thoughts of the wise are futile.”"
+greek: "καὶ πάλιν· κύριος γινώσκει τοὺς διαλογισμοὺς τῶν σοφῶν ὅτι εἰσὶν μάταιοι.¶"
+pericope: "[[1Cor.3.16 God’s Temple and God’s Wisdom|God’s Temple and God’s Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G2962G]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G1261]]"
+- "[[G4680]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G3152]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 3:20**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And again, The Lord knoweth the thoughts of the wise, that they are vain.
 <small><sub>**BSB:**</sub></small>
 And again, “The Lord knows that the thoughts of the wise are futile.”
-<small><sub>**Literal:**</sub></small>
-And again; [The] Lord knows the thoughts of the wise that they are futile.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.19|<< 1 Corinthians 3:19]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.21|1 Corinthians 3:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3825\|πάλιν·]]  [[G2962G\|κύριος]]  [[G1097\|γινώσκει]]  [[G3588\|τοὺς]]  [[G1261\|διαλογισμοὺς]]  [[G3588\|τῶν]]  [[G4680\|σοφῶν]]  [[G3754G\|ὅτι]]  [[G1510\|εἰσὶν]]  [[G3152\|μάταιοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic VANITY|VANITY]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.19|<< 1 Corinthians 3:19]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.21|1 Corinthians 3:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 3:20** is...
 > $\quad$ referencing: [[LXX.Ps.94.11|Ps 94:11]]

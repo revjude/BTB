@@ -1,10 +1,52 @@
+---
+title: Mark 16:10
+type: Verse
+kjv: "And she went and told them that had been with him, as they mourned and wept."
+bsb: "She went and told those who had been with Him, who were mourning and weeping."
+greek: "ἐκείνη πορευθεῖσα ἀπήγγειλεν τοῖς μετ᾽ αὐτοῦ γενομένοις, πενθοῦσιν καὶ κλαίουσιν."
+pericope: "[[Mark.16.9 Jesus Appears to Mary Magdalene|Jesus Appears to Mary Magdalene]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G1565]]"
+- "[[G4198]]"
+- "[[G0518]]"
+- "[[G3588]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G1096]]"
+- "[[G3996]]"
+- "[[G2532]]"
+- "[[G2799]]"
+texts:
+- KO
+---
+
 **Mark 16:10**<big><big>[[Mark.16.9 Jesus Appears to Mary Magdalene|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [And] she went and told them that had been with him, as they mourned and wept.
 <small><sub>**BSB:**</sub></small>
 She went and told those who had been with Him, who were mourning and weeping.
-<small><sub>**Literal:**</sub></small>
-She having gone told [it] to those with Him having been mourning and weeping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.9|<< Mark 16:9]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.11|Mark 16:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1565\|ἐκείνη]]  [[G4198\|πορευθεῖσα]]  [[G0518\|ἀπήγγειλεν]]  [[G3588\|τοῖς]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G1096\|γενομένοις,]]  [[G3996\|πενθοῦσιν]]  [[G2532\|καὶ]]  [[G2799\|κλαίουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.9|<< Mark 16:9]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.11|Mark 16:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

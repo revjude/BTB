@@ -1,10 +1,64 @@
+---
+title: Acts 2:34
+type: Verse
+kjv: "For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand,"
+bsb: "For David did not ascend into heaven, but he himself says: ‘The Lord said to my Lord, “Sit at My right hand"
+greek: "οὐ γὰρ Δαυὶδ ἀνέβη εἰς τοὺς οὐρανούς, λέγει δὲ αὐτός· εἶπεν ὁ κύριος τῷ κυρίῳ μου· κάθου ἐκ δεξιῶν μου,"
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1138]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2521]]"
+- "[[G1537]]"
+- "[[G1188]]"
+texts:
+- NKO
+---
+
 **Acts 2:34**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand,
 <small><sub>**BSB:**</sub></small>
 For David did not ascend into heaven, but he himself says: ‘The Lord said to my Lord, “Sit at My right hand
-<small><sub>**Literal:**</sub></small>
-Not for David ascended into the heavens, he says however himself: Said the Lord to the Lord of me; do sit at [the] right hand of Me,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.33|<< Acts 2:33]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.35|Acts 2:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G1138\|Δαυὶδ]]  [[G0305\|ἀνέβη]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G3772\|οὐρανούς,]]  [[G3004G\|λέγει]]  [[G1161\|δὲ]]  [[G0846\|αὐτός·]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|μου·]]  [[G2521\|κάθου]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3165\|μου,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.33|<< Acts 2:33]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.35|Acts 2:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 2:34** is...
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]

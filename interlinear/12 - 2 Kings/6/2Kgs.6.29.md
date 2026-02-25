@@ -1,8 +1,68 @@
+---
+title: 2 Kings 6:29
+type: Verse
+kjv: "So we boiled my son, and did eat him: and I said unto her on the next day, Give thy son, that we may eat him: and she hath hid her son."
+bsb: "So we boiled my son and ate him, and the next day I said to her, ‘Give up your son, that we may eat him.’ But she had hidden her son.”"
+hebrew: "וַנְּבַשֵּׁ֥ל אֶת־ בְּנִ֖י וַנֹּֽאכְלֵ֑הוּ וָאֹמַ֨ר אֵלֶ֜יהָ בַּיּ֣וֹם הָאַחֵ֗ר תְּנִ֤י אֶת־ בְּנֵךְ֙ וְנֹ֣אכְלֶ֔נּוּ וַתַּחְבִּ֖א אֶת־ בְּנָֽהּ׃"
+pericope: "[[2Kgs.6.24 The Siege and Famine of Samaria|The Siege and Famine of Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CANNIBALISM|CANNIBALISM]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1310]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H0312]]"
+- "[[H5414G]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H2244]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:29**<big><big>[[2Kgs.6.24 The Siege and Famine of Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So we boiled my son, and did eat him: and I said unto her on the next day, Give thy son, that we may eat him: and she hath hid her son.
 <small><sub>**BSB:**</sub></small>
 So we boiled my son and ate him, and the next day I said to her, ‘Give up your son, that we may eat him.’ But she had hidden her son.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1310\|נְּבַשֵּׁ֥ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנִ֖]][[H9020\|י]] [[H9001\|וַ]][[H0398\|נֹּֽאכְלֵ֑]][[H9033\|הוּ]] [[H9001\|וָ]][[H0559\|אֹמַ֨ר]] [[H0413\|אֵלֶ֜י]][[H9034\|הָ]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הָ]][[H0312\|אַחֵ֗ר]] [[H5414G\|תְּנִ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵ]][[H9022\|ךְ֙]] [[H9002\|וְ]][[H0398\|נֹ֣אכְלֶ֔]][[H9033\|נּוּ]] [[H9001\|וַ]][[H2244\|תַּחְבִּ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CANNIBALISM|CANNIBALISM]] • [[topic FAMINE|FAMINE]] • [[topic ISRAEL|ISRAEL]] • [[topic PROPHECY|PROPHECY]] • [[topic SAMARIA|SAMARIA]] • [[topic SIEGE|SIEGE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.28|<< 2 Kings 6:28]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.30|2 Kings 6:30 >>]]</td></tr></table>
 

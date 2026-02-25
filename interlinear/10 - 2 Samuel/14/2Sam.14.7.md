@@ -1,8 +1,93 @@
+---
+title: 2 Samuel 14:7
+type: Verse
+kjv: "And, behold, the whole family is risen against thine handmaid, and they said, Deliver him that smote his brother, that we may kill him, for the life of his brother whom he slew; and we will destroy the heir also: and so they shall quench my coal which is left, and shall not leave to my husband neither name nor remainder upon the earth."
+bsb: "Now the whole clan has risen up against your maidservant and said, ‘Hand over the one who struck down his brother, that we may put him to death for the life of the brother whom he killed. Then we will cut off the heir as well!’ So they would extinguish my one remaining ember by not preserving my husband’s name or posterity on the earth.”"
+hebrew: "וְהִנֵּה֩ קָ֨מָה כָֽל־ הַמִּשְׁפָּחָ֜ה עַל־ שִׁפְחָתֶ֗ךָ וַיֹּֽאמְרוּ֙ תְּנִ֣י׀ אֶת־ מַכֵּ֣ה אָחִ֗יו וּנְמִתֵ֙הוּ֙ בְּנֶ֤פֶשׁ אָחִיו֙ אֲשֶׁ֣ר הָרָ֔ג וְנַשְׁמִ֖ידָה גַּ֣ם אֶת־ הַיּוֹרֵ֑שׁ וְכִבּ֗וּ אֶת־ גַּֽחַלְתִּי֙ אֲשֶׁ֣ר נִשְׁאָ֔רָה לְבִלְתִּ֧י שִׂים לְאִישִׁ֛י שֵׁ֥ם וּשְׁאֵרִ֖ית עַל־ פְּנֵ֥י הָאֲדָמָֽה׃ פ"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic COAL|COAL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H6965B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4940]]"
+- "[[H5921A]]"
+- "[[H8198]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H5221]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5315H]]"
+- "[[H0834A]]"
+- "[[H2026]]"
+- "[[H8045]]"
+- "[[H1571]]"
+- "[[H3423G]]"
+- "[[H3518]]"
+- "[[H1513]]"
+- "[[H9020]]"
+- "[[H7604]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H7760H]]"
+- "[[H0376H]]"
+- "[[H8034]]"
+- "[[H7611]]"
+- "[[H6440J]]"
+- "[[H0127I]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 14:7**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the whole family is risen against thine handmaid, and they said, Deliver him that smote his brother, that we may kill him, for the life of his brother whom he slew; and we will destroy the heir also: and so they shall quench my coal which is left, and shall not leave to my husband [neither] name nor remainder upon the earth.
 <small><sub>**BSB:**</sub></small>
 Now the whole clan has risen up against your maidservant and said, ‘Hand over the one who struck down his brother, that we may put him to death for the life of the brother whom he killed. Then we will cut off the heir as well!’ So they would extinguish my one remaining ember by not preserving my husband’s name or posterity on the earth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּה֩]] [[H6965B\|קָ֨מָה]] [[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H4940\|מִּשְׁפָּחָ֜ה]] [[H5921A\|עַל]][[H9014\|־]] [[H8198\|שִׁפְחָתֶ֗]][[H9021\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H5414G\|תְּנִ֣י]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H5221\|מַכֵּ֣ה]] [[H0251G\|אָחִ֗י]][[H9023\|ו]] [[H9002\|וּ]][[H4191\|נְמִתֵ֙]][[H9033\|הוּ֙]] [[H9003\|בְּ]][[H5315H\|נֶ֤פֶשׁ]] [[H0251G\|אָחִי]][[H9023\|ו֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2026\|הָרָ֔ג]] [[H9002\|וְ]][[H8045\|נַשְׁמִ֖ידָה]] [[H1571\|גַּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3423G\|יּוֹרֵ֑שׁ]] [[H9001\|וְ]][[H3518\|כִבּ֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1513\|גַּֽחַלְתִּ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7604\|נִשְׁאָ֔רָה]] [[H9005\|לְ]][[H1115\|בִלְתִּ֧י]] [[H7760H\|שִׂים]] [[H9005\|לְ]][[H0376H\|אִישִׁ֛]][[H9020\|י]] [[H8034\|שֵׁ֥ם]] [[H9002\|וּ]][[H7611\|שְׁאֵרִ֖ית]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127I\|אֲדָמָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic COAL|COAL]] • [[topic DAVID|DAVID]] • [[topic DISHONESTY|DISHONESTY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic PARABLES|PARABLES]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.6|<< 2 Samuel 14:6]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.8|2 Samuel 14:8 >>]]</td></tr></table>
 
@@ -40,9 +125,9 @@ Now the whole clan has risen up against your maidservant and said, ‘Hand over 
 | and a remnant  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7611\|שְׁאֵרִ֖ית]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'e.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] surface of  |**<big>&#8207;[[H6440J\|פְּנֵ֥י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.6|<< 2 Samuel 14:6]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.8|2 Samuel 14:8 >>]]</td></tr></table>
 
-[^1]: to establish  | **<big>[[H9014|־]]</big><big>[[H7760H|שׂוּם]]</big> ** | som-<small><sup>[[HVqcc]]</sup></small> | K
+[^1]: to establish  | **<big>[[H7760H|שׂוּם]]</big><big>[[H9014|־]]</big> ** | som-<small><sup>[[HVqcc]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>שִׂום\־</big></span>**
 

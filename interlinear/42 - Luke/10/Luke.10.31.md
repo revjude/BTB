@@ -1,10 +1,66 @@
+---
+title: Luke 10:31
+type: Verse
+kjv: "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side."
+bsb: "Now by chance a priest was going down the same road, but when he saw him, he passed by on the other side."
+jesus_said: "And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side."
+greek: "κατὰ συγκυρίαν δὲ ἱερεύς τις κατέβαινεν ἐν τῇ ὁδῷ ἐκείνῃ, καὶ ἰδὼν αὐτὸν ἀντιπαρῆλθεν."
+pericope: "[[Luke.10.25 The Parable of the Good Samaritan|The Parable of the Good Samaritan]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2596]]"
+- "[[G4795]]"
+- "[[G1161]]"
+- "[[G2409]]"
+- "[[G5100]]"
+- "[[G2597]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G0492]]"
+texts:
+- NKO
+---
+
 **Luke 10:31**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And by chance there came down a certain priest that way: and when he saw him, he passed by on the other side.
 <small><sub>**BSB:**</sub></small>
 Now by chance a priest was going down the same road, but when he saw him, he passed by on the other side.
-<small><sub>**Literal:**</sub></small>
-By chance now a priest certain was going down on the road that, and having seen him he passed by opposite.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.30|<< Luke 10:30]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.32|Luke 10:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατὰ]]  [[G4795\|συγκυρίαν]]  [[G1161\|δὲ]]  [[G2409\|ἱερεύς]]  [[G5100\|τις]]  [[G2597\|κατέβαινεν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ]]  [[G1565\|ἐκείνῃ,]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G0846\|αὐτὸν]]  [[G0492\|ἀντιπαρῆλθεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAWYER|LAWYER]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic PRIEST|PRIEST]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.30|<< Luke 10:30]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.32|Luke 10:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

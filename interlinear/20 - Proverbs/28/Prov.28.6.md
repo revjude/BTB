@@ -1,8 +1,55 @@
+---
+title: Proverbs 28:6
+type: Verse
+kjv: "Better is the poor that walketh in his uprightness, than he that is perverse in his ways, though he be rich."
+bsb: "Better a poor man who walks with integrity than a rich man whose ways are perverse."
+hebrew: "טֽוֹב־ רָ֭שׁ הוֹלֵ֣ךְ בְּתֻמּ֑וֹ מֵעִקֵּ֥שׁ דְּ֝רָכַ֗יִם וְה֣וּא עָשִֽׁיר׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H2896A]]"
+- "[[H9014]]"
+- "[[H7326]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H8537]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H6141]]"
+- "[[H1870G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6223]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:6**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [is] the poor that walketh in his uprightness, than [he that is] perverse [in his] ways, though he [be] rich.
 <small><sub>**BSB:**</sub></small>
 Better a poor man who walks with integrity than a rich man whose ways are perverse.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|טֽוֹב]][[H9014\|־]] [[H7326\|רָ֭שׁ]] [[H1980I\|הוֹלֵ֣ךְ]] [[H9003\|בְּ]][[H8537\|תֻמּ֑]][[H9023\|וֹ]] [[H9006\|מֵ]][[H6141\|עִקֵּ֥שׁ]] [[H1870G\|דְּ֝רָכַ֗יִם]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H6223\|עָשִֽׁיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.5|<< Proverbs 28:5]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.7|Proverbs 28:7 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: John 16:24
+type: Verse
+kjv: "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full."
+bsb: "Until now you have not asked for anything in My name. Ask and you will receive, so that your joy may be complete."
+jesus_said: "Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full."
+greek: "ἕως ἄρτι οὐκ ᾐτήσατε οὐδὲν ἐν τῷ ὀνόματί μου· αἰτεῖτε καὶ λήμψεσθε, ἵνα ἡ χαρὰ ὑμῶν ᾖ πεπληρωμένη.¶"
+pericope: "[[John.16.23 Ask in My Name|Ask in My Name]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2193]]"
+- "[[G0737]]"
+- "[[G3756]]"
+- "[[G0154]]"
+- "[[G3762]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G2443]]"
+- "[[G5479]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G4137]]"
+texts:
+- NKO
+---
+
 **John 16:24**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.
 <small><sub>**BSB:**</sub></small>
 Until now you have not asked for anything in My name. Ask and you will receive, so that your joy may be complete.
-<small><sub>**Literal:**</sub></small>
-Until now not you have asked no [thing] in the name of Me; do ask and you will receive, that the joy of you may be filled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.23|<< John 16:23]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.25|John 16:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2193\|ἕως]]  [[G0737\|ἄρτι]]  [[G3756\|οὐκ]]  [[G0154\|ᾐτήσατε]]  [[G3762\|οὐδὲν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου·]]  [[G0154\|αἰτεῖτε]]  [[G2532\|καὶ]]  [[G2983\|λήμψεσθε,]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G5479\|χαρὰ]]  [[G4771\|ὑμῶν]]  [[G1510\|ᾖ]]  [[G4137\|πεπληρωμένη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.23|<< John 16:23]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.25|John 16:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

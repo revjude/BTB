@@ -1,8 +1,58 @@
+---
+title: Psalm 147:14
+type: Verse
+kjv: "He maketh peace in thy borders, and filleth thee with the finest of the wheat."
+bsb: "He makes peace at your borders; He fills you with the finest wheat."
+hebrew: "הַשָּׂם־ גְּבוּלֵ֥ךְ שָׁל֑וֹם חֵ֥לֶב חִ֝טִּ֗ים יַשְׂבִּיעֵֽךְ׃"
+pericope: "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic WHEAT|WHEAT]]"
+strongs:
+- "[[H9009]]"
+- "[[H7760A]]"
+- "[[H9014]]"
+- "[[H1366G]]"
+- "[[H9022]]"
+- "[[H7965G]]"
+- "[[H2459]]"
+- "[[H2406]]"
+- "[[H7646]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 147:14**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He maketh peace [in] thy borders, [and] filleth thee with the finest of the wheat.
 <small><sub>**BSB:**</sub></small>
 He makes peace at your borders; He fills you with the finest wheat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H7760A\|שָּׂם]][[H9014\|־]] [[H1366G\|גְּבוּלֵ֥]][[H9022\|ךְ]] [[H7965G\|שָׁל֑וֹם]] [[H2459\|חֵ֥לֶב]] [[H2406\|חִ֝טִּ֗ים]] [[H7646\|יַשְׂבִּיעֵֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic NATION|NATION]] • [[topic PRAISE|PRAISE]] • [[topic WHEAT|WHEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.13|<< Psalms 147:13]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.15|Psalms 147:15 >>]]</td></tr></table>
 

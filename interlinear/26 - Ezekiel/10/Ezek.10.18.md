@@ -1,8 +1,58 @@
+---
+title: Ezekiel 10:18
+type: Verse
+kjv: "Then the glory of the LORD departed from off the threshold of the house, and stood over the cherubims."
+bsb: "Then the glory of the LORD moved away from the threshold of the temple and stood above the cherubim."
+hebrew: "וַיֵּצֵא֙ כְּב֣וֹד יְהוָ֔ה מֵעַ֖ל מִפְתַּ֣ן הַבָּ֑יִת וַֽיַּעֲמֹ֖ד עַל־ הַכְּרוּבִֽים׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic SHEKINAH|SHEKINAH]]"
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3519]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4670]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H5975G]]"
+- "[[H9014]]"
+- "[[H3742]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:18**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the glory of the LORD departed from off the threshold of the house, and stood over the cherubims.
 <small><sub>**BSB:**</sub></small>
 Then the glory of the LORD moved away from the threshold of the temple and stood above the cherubim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H3519\|כְּב֣וֹד]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H4670\|מִפְתַּ֣ן]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֖ד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3742\|כְּרוּבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic SHEKINAH|SHEKINAH]] • [[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.17|<< Ezekiel 10:17]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.19|Ezekiel 10:19 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Ezekiel 13:21
+type: Verse
+kjv: "Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I am the LORD."
+bsb: "I will also tear off your veils and deliver My people from your hands, so that they will no longer be prey in your hands. Then you will know that I am the LORD."
+hebrew: "וְקָרַעְתִּ֞י אֶת־ מִסְפְּחֹֽתֵיכֶ֗ם וְהִצַּלְתִּ֤י אֶת־ עַמִּי֙ מִיֶּדְכֶ֔ן וְלֹֽא־ יִהְי֥וּ ע֛וֹד בְּיֶדְכֶ֖ן לִמְצוּדָ֑ה וִֽידַעְתֶּ֖ן כִּֽי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Ezek.13.17 Reproof of False Prophetesses|Reproof of False Prophetesses]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7167]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4555]]"
+- "[[H9026]]"
+- "[[H5337]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9027]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H9005]]"
+- "[[H4686A]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:21**<big><big>[[Ezek.13.17 Reproof of False Prophetesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your kerchiefs also will I tear, and deliver my people out of your hand, and they shall be no more in your hand to be hunted; and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 I will also tear off your veils and deliver My people from your hands, so that they will no longer be prey in your hands. Then you will know that I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7167\|קָרַעְתִּ֞י]] [[H0853\|אֶת]][[H9014\|־]] [[H4555\|מִסְפְּחֹֽתֵי]][[H9026\|כֶ֗ם]] [[H9001\|וְ]][[H5337\|הִצַּלְתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֙]] [[H9006\|מִ]][[H3027H\|יֶּדְ]][[H9027\|כֶ֔ן]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְי֥וּ]] [[H5750\|ע֛וֹד]] [[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9027\|כֶ֖ן]] [[H9005\|לִ]][[H4686A\|מְצוּדָ֑ה]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֖ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.20|<< Ezekiel 13:20]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.22|Ezekiel 13:22 >>]]</td></tr></table>
 

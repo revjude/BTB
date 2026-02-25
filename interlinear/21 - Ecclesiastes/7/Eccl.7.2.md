@@ -1,8 +1,66 @@
+---
+title: Ecclesiastes 7:2
+type: Verse
+kjv: "It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart."
+bsb: "It is better to enter a house of mourning than a house of feasting, since death is the end of every man, and the living should take this to heart."
+hebrew: "ט֞וֹב לָלֶ֣כֶת אֶל־ בֵּֽית־ אֵ֗בֶל מִלֶּ֙כֶת֙ אֶל־ בֵּ֣ית מִשְׁתֶּ֔ה בַּאֲשֶׁ֕ר ה֖וּא ס֣וֹף כָּל־ הָאָדָ֑ם וְהַחַ֖י יִתֵּ֥ן אֶל־ לִבּֽוֹ׃"
+pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic SYMPATHY|SYMPATHY]]"
+strongs:
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H0060]]"
+- "[[H9006]]"
+- "[[H4960]]"
+- "[[H9003]]"
+- "[[H0834B]]"
+- "[[H1931]]"
+- "[[H5490]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H2416A]]"
+- "[[H5414H]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:2**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] better to go to the house of mourning, than to go to the house of feasting: for that [is] the end of all men; and the living will lay [it] to his heart.
 <small><sub>**BSB:**</sub></small>
 It is better to enter a house of mourning than a house of feasting, since death is the end of every man, and the living should take this to heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֞וֹב]] [[H9005\|לָ]][[H1980G\|לֶ֣כֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּֽית]][[H9014\|־]] [[H0060\|אֵ֗בֶל]] [[H9006\|מִ]][[H1980G\|לֶּ֙כֶת֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H4960\|מִשְׁתֶּ֔ה]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֕ר]] [[H1931\|ה֖וּא]] [[H5490\|ס֣וֹף]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֑ם]] [[H9002\|וְ]][[H9009\|הַ]][[H2416A\|חַ֖י]] [[H5414H\|יִתֵּ֥ן]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic DEATH|DEATH]] • [[topic SYMPATHY|SYMPATHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.1|<< Ecclesiastes 7:1]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.3|Ecclesiastes 7:3 >>]]</td></tr></table>
 

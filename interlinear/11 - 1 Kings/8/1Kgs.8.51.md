@@ -1,8 +1,63 @@
+---
+title: 1 Kings 8:51
+type: Verse
+kjv: "For they be thy people, and thine inheritance, which thou broughtest forth out of Egypt, from the midst of the furnace of iron:"
+bsb: "For they are Your people and Your inheritance; You brought them out of Egypt, out of the furnace for iron."
+hebrew: "כִּֽי־ עַמְּךָ֥ וְנַחֲלָתְךָ֖ הֵ֑ם אֲשֶׁ֤ר הוֹצֵ֙אתָ֙ מִמִּצְרַ֔יִם מִתּ֖וֹךְ כּ֥וּר הַבַּרְזֶֽל׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic IRON|IRON]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5159]]"
+- "[[H1992]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H8432]]"
+- "[[H3564]]"
+- "[[H9009]]"
+- "[[H1270]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:51**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [be] thy people, and thine inheritance, which thou broughtest forth out of Egypt, from the midst of the furnace of iron:
 <small><sub>**BSB:**</sub></small>
 For they are Your people and Your inheritance; You brought them out of Egypt, out of the furnace for iron.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֥]] [[H9002\|וְ]][[H5159\|נַחֲלָתְ]][[H9021\|ךָ֖]] [[H1992\|הֵ֑ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H3318H\|הוֹצֵ֙אתָ֙]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9006\|מִ]][[H8432\|תּ֖וֹךְ]] [[H3564\|כּ֥וּר]] [[H9009\|הַ]][[H1270\|בַּרְזֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FURNACE|FURNACE]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic IRON|IRON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.50|<< 1 Kings 8:50]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.52|1 Kings 8:52 >>]]</td></tr></table>
 

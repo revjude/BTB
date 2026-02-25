@@ -1,10 +1,57 @@
+---
+title: Colossians 4:6
+type: Verse
+kjv: "Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man."
+bsb: "Let your speech always be gracious, seasoned with salt, so that you may know how to answer everyone."
+greek: "ὁ λόγος ὑμῶν πάντοτε ἐν χάριτι, ἅλατι ἠρτυμένος, εἰδέναι πῶς δεῖ ὑμᾶς ἑνὶ ἑκάστῳ ἀποκρίνεσθαι.¶"
+pericope: "[[Col.4.1 Prayerful Speech and Actions|Prayerful Speech and Actions]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CONVERSATION|CONVERSATION]]"
+- "[[topic SALT|SALT]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G4771]]"
+- "[[G3842]]"
+- "[[G1722]]"
+- "[[G5485]]"
+- "[[G0217]]"
+- "[[G0741]]"
+- "[[G6063]]"
+- "[[G4459]]"
+- "[[G1163]]"
+- "[[G1520]]"
+- "[[G1538]]"
+- "[[G0611]]"
+texts:
+- NKO
+---
+
 **Colossians 4:6**<big><big>[[Col.4.1 Prayerful Speech and Actions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let your speech [be] alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
 <small><sub>**BSB:**</sub></small>
 Let your speech always be gracious, seasoned with salt, so that you may know how to answer everyone.
-<small><sub>**Literal:**</sub></small>
-[Let] the speech of you [be] always in grace, with salt seasoned, to  know how it behooves you one each to answer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.5|<< Colossians 4:5]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.7|Colossians 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G4771\|ὑμῶν]]  [[G3842\|πάντοτε]]  [[G1722\|ἐν]]  [[G5485\|χάριτι,]]  [[G0217\|ἅλατι]]  [[G0741\|ἠρτυμένος,]]  [[G6063\|εἰδέναι]]  [[G4459\|πῶς]]  [[G1163\|δεῖ]]  [[G4771\|ὑμᾶς]]  [[G1520\|ἑνὶ]]  [[G1538\|ἑκάστῳ]]  [[G0611\|ἀποκρίνεσθαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERSATION|CONVERSATION]] • [[topic SALT|SALT]] • [[topic SPEAKING|SPEAKING]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.5|<< Colossians 4:5]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.7|Colossians 4:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

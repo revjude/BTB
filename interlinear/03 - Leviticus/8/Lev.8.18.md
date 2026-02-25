@@ -1,8 +1,63 @@
+---
+title: Leviticus 8:18
+type: Verse
+kjv: "And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram."
+bsb: "Then Moses presented the ram for the burnt offering, and Aaron and his sons laid their hands on its head."
+hebrew: "וַיַּקְרֵ֕ב אֵ֖ת אֵ֣יל הָעֹלָ֑ה וַֽיִּסְמְכ֞וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־ יְדֵיהֶ֖ם עַל־ רֹ֥אשׁ הָאָֽיִל׃"
+pericope: "[[Lev.8.18 The Priests’ Burnt Offering|The Priests’ Burnt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H0352A]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H5564]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:18**<big><big>[[Lev.8.18 The Priests’ Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.
 <small><sub>**BSB:**</sub></small>
 Then Moses presented the ram for the burnt offering, and Aaron and his sons laid their hands on its head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126H\|יַּקְרֵ֕ב]] [[H0853\|אֵ֖ת]] [[H0352A\|אֵ֣יל]] [[H9009\|הָ]][[H5930A\|עֹלָ֑ה]] [[H9001\|וַֽ]][[H5564\|יִּסְמְכ֞וּ]] [[H0175\|אַהֲרֹ֧ן]] [[H9002\|וּ]][[H1121A\|בָנָ֛י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יְדֵי]][[H9028\|הֶ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֥אשׁ]] [[H9009\|הָ]][[H0352A\|אָֽיִל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.17|<< Leviticus 8:17]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.19|Leviticus 8:19 >>]]</td></tr></table>
 

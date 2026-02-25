@@ -1,6 +1,61 @@
+---
+title: LXX 2 Samuel 14:25
+type: Verse
+lxx: "And there was no man as Absalom in all Israel exceedingly praiseworthy. From the sole of his foot and unto the top of his head -- there was not a blemish on him."
+greek: "και ως Αβεσαλώμ ουκ ην ανήρ εν παντί Ισραήλ αινετός σφόδρα από ίχνους ποδός αυτού και έως κορυφής αυτού ουκ ην εν αυτώ μώμος"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic BEAUTY|BEAUTY]]"
+strongs:
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[H0053]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0435]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G2474]]"
+- "[[G6164]]"
+- "[[G4970]]"
+- "[[G0575]]"
+- "[[G2487]]"
+- "[[G4228]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2193]]"
+- "[[G8073]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G3470]]"
+---
+
 **LXX 2 Samuel 14:25** 
 <small><sub>**LXX:**</sub></small>
 And there was no man as Absalom in all Israel exceedingly praiseworthy. From \[the\] sole of his foot and unto \[the\] top of his \[head\] -- there was not a blemish on him. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5613\|ως]] [[H0053\|Αβεσαλώμ]] [[G3756\|ουκ]] [[G1510\|ην]] [[G0435\|ανήρ]] [[G1722\|εν]] [[G3956\|παντί]] [[G2474\|Ισραήλ]] [[G6164\|αινετός]] [[G4970\|σφόδρα]] [[G0575\|από]] [[G2487\|ίχνους]] [[G4228\|ποδός]] [[G1473\|αυτού]] [[G2532\|και]] [[G2193\|έως]] [[G8073\|κορυφής]] [[G1473\|αυτού]] [[G3756\|ουκ]] [[G1510\|ην]] [[G1722\|εν]] [[G1473\|αυτώ]] [[G3470\|μώμος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic BEAUTY|BEAUTY]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.24|<< 2 Samuel 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.26|2 Samuel 14:26 >>]]</td></tr></table>
 
@@ -27,6 +82,6 @@ And there was no man as Absalom in all Israel exceedingly praiseworthy. From \[t
 | on | **<big>[[G1722\|εν]]</big>** |
 | him | **<big>[[G1473\|αυτώ]]</big>** |
 | a blemish | **<big>[[G3470\|μώμος]]</big>** |
-[[2Sam.14.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.24|<< 2 Samuel 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.26|2 Samuel 14:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.14.24|<< 2 Samuel 14:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.14.26|2 Samuel 14:26 >>]]</td></tr></table>
 
 

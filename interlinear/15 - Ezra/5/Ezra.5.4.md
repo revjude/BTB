@@ -1,8 +1,57 @@
+---
+title: Ezra 5:4
+type: Verse
+kjv: "Then said we unto them after this manner, What are the names of the men that make this building?"
+bsb: "They also asked, “What are the names of the men who are constructing this building?”"
+aramaic: "אֱדַ֥יִן כְּנֵ֖מָא אֲמַ֣רְנָא לְּהֹ֑ם מַן־ אִנּוּן֙ שְׁמָהָ֣ת גֻּבְרַיָּ֔א דִּֽי־ דְנָ֥ה בִנְיָנָ֖א בָּנַֽיִן׃"
+pericope: "[[Ezra.5.1 Temple Rebuilding Resumes|Temple Rebuilding Resumes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 5
+book/chapter: "[[Ezra.5|Ezra 5]]"
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H0116]]"
+- "[[H3660]]"
+- "[[H0560]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4479]]"
+- "[[H9014]]"
+- "[[H0581A]]"
+- "[[H8036]]"
+- "[[H1400]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H1836]]"
+- "[[H1147]]"
+- "[[H1124]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 5:4**<big><big>[[Ezra.5.1 Temple Rebuilding Resumes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said we unto them after this manner, What are the names of the men that make this building?
 <small><sub>**BSB:**</sub></small>
 They also asked, “What are the names of the men who are constructing this building?”
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱדַ֥יִן]] [[H3660\|כְּנֵ֖מָא]] [[H0560\|אֲמַ֣רְנָא]] [[H9005\|לְּ]][[H9038\|הֹ֑ם]] [[H4479\|מַן]][[H9014\|־]] [[H0581A\|אִנּוּן֙]] [[H8036\|שְׁמָהָ֣ת]] [[H1400\|גֻּבְרַיָּ֔]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1836\|דְנָ֥ה]] [[H1147\|בִנְיָנָ֖]][[H9010\|א]] [[H1124\|בָּנַֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.3|<< Ezra 5:3]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.5|Ezra 5:5 >>]]</td></tr></table>
 

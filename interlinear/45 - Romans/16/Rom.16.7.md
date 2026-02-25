@@ -1,10 +1,62 @@
+---
+title: Romans 16:7
+type: Verse
+kjv: "Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me."
+bsb: "Greet Andronicus and Junia, my fellow countrymen and fellow prisoners. They are outstanding among the apostles, and they were in Christ before I was."
+greek: "ἀσπάσασθε Ἀνδρόνικον καὶ Ἰουνίαν τοὺς συγγενεῖς μου καὶ συναιχμαλώτους μου, οἵτινές εἰσιν ἐπίσημοι ἐν τοῖς ἀποστόλοις, οἳ καὶ πρὸ ἐμοῦ γέγοναν ἐν Χριστῷ.¶"
+pericope: "[[Rom.16.1 Personal Greetings and Love|Personal Greetings and Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ANDRONICUS|ANDRONICUS]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JUNIA|JUNIA]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ROME|ROME]]"
+strongs:
+- "[[G0782]]"
+- "[[G0408]]"
+- "[[G2532]]"
+- "[[G2458]]"
+- "[[G3588]]"
+- "[[G4773]]"
+- "[[G3165]]"
+- "[[G4869]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G1978]]"
+- "[[G1722]]"
+- "[[G0652]]"
+- "[[G3739]]"
+- "[[G4253]]"
+- "[[G1473]]"
+- "[[G1096]]"
+- "[[G5547]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Romans 16:7**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me.
 <small><sub>**BSB:**</sub></small>
 Greet Andronicus and Junia, my fellow countrymen and fellow prisoners. They are outstanding among the apostles, and they were in Christ before I was.
-<small><sub>**Literal:**</sub></small>
-do greet Andronicus and Junia the kinsmen of mine and fellow prisoners with me, who are of note among the apostles, who also before me were in Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.6|<< Romans 16:6]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.8|Romans 16:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|ἀσπάσασθε]]  [[G0408\|Ἀνδρόνικον]]  [[G2532\|καὶ]]  [[G2458\|Ἰουνίαν]]  [[G3588\|τοὺς]]  [[G4773\|συγγενεῖς]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G4869\|συναιχμαλώτους]]  [[G3165\|μου,]]  [[G3748\|οἵτινές]]  [[G1510\|εἰσιν]]  [[G1978\|ἐπίσημοι]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G0652\|ἀποστόλοις,]]  [[G3739\|οἳ]]  [[G2532\|καὶ]]  [[G4253\|πρὸ]]  [[G1473\|ἐμοῦ]]  [[G1096\|γέγοναν]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANDRONICUS|ANDRONICUS]] • [[topic HUMILITY|HUMILITY]] • [[topic JUNIA|JUNIA]] • [[topic LOVE|LOVE]] • [[topic ROME|ROME]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.6|<< Romans 16:6]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.8|Romans 16:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

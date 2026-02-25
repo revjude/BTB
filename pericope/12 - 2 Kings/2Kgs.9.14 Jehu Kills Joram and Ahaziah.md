@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehu Kills Joram and Ahaziah
+type: Pericope
 pericope: "[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|Jehu Kills Joram and Ahaziah]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 9
 book/chapter: "[[2Kgs.9|2 Kings 9]]"
-genre:
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 16
 verses:
 - "[[2Kgs.9.14]]"
 - "[[2Kgs.9.15]]"
@@ -34,7 +41,7 @@ verses:
 - "[[2Kgs.9.29]]"
 ---
 
-[[2Kgs.9|2 Kings 9:14 - 2 Kings 9:29]]
+<small>[[2Kgs.9|2 Kings 9:14-29]]</small>
 *Jehu Kills Joram and Ahaziah*
 
 [[2Kgs.9.14|14]] So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram had kept Ramothgilead, he and all Israel, because of Hazael king of Syria.

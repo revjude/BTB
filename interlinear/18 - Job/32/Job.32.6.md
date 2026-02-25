@@ -1,8 +1,74 @@
+---
+title: Job 32:6
+type: Verse
+kjv: "And Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I was afraid, and durst not shew you mine opinion."
+bsb: "So Elihu son of Barachel the Buzite declared: “I am young in years, while you are old; that is why I was timid and afraid to tell you what I know."
+hebrew: "וַיַּ֤עַן׀ אֱלִיה֖וּא בֶן־ בַּֽרַכְאֵ֥ל הַבּוּזִ֗י וַיֹּ֫אמַ֥ר צָ֘עִ֤יר אֲנִ֣י לְ֭יָמִים וְאַתֶּ֣ם יְשִׁישִׁ֑ים עַל־ כֵּ֖ן זָחַ֥לְתִּי וָֽאִירָ֓א׀ מֵחַוֹּ֖ת דֵּעִ֣י אֶתְכֶֽם׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BARACHEL|BARACHEL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MODESTY|MODESTY]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9015]]"
+- "[[H0453K]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1292]]"
+- "[[H9009]]"
+- "[[H0940]]"
+- "[[H0559]]"
+- "[[H6810]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H3117I]]"
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H3453]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H2119B]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H2331]]"
+- "[[H1843]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:6**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elihu the son of Barachel the Buzite answered and said, I [am] young, and ye [are] very old; wherefore I was afraid, and durst not shew you mine opinion.
 <small><sub>**BSB:**</sub></small>
 So Elihu son of Barachel the Buzite declared: “I am young in years, while you are old; that is why I was timid and afraid to tell you what I know.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֤עַן]][[H9015\|׀]] [[H0453K\|אֱלִיה֖וּא]] [[H1121A\|בֶן]][[H9014\|־]] [[H1292\|בַּֽרַכְאֵ֥ל]] [[H9009\|הַ]][[H0940\|בּוּזִ֗י]] [[H9001\|וַ]][[H0559\|יֹּ֫אמַ֥ר]] [[H6810\|צָ֘עִ֤יר]] [[H0589\|אֲנִ֣י]] [[H9005\|לְ֭]][[H3117I\|יָמִים]] [[H9002\|וְ]][[H0859D\|אַתֶּ֣ם]] [[H3453\|יְשִׁישִׁ֑ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H2119B\|זָחַ֥לְתִּי]] [[H9001\|וָֽ]][[H3372G\|אִירָ֓א]][[H9015\|׀]] [[H9006\|מֵ]][[H2331\|חַוֹּ֖ת]] [[H1843\|דֵּעִ֣]][[H9020\|י]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARACHEL|BARACHEL]] • [[topic CHILDREN|CHILDREN]] • [[topic HUMILITY|HUMILITY]] • [[topic MODESTY|MODESTY]] • [[topic OLD AGE|OLD AGE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.5|<< Job 32:5]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.7|Job 32:7 >>]]</td></tr></table>
 

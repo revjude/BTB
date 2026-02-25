@@ -1,8 +1,77 @@
+---
+title: Jeremiah 49:19
+type: Verse
+kjv: "Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who is a chosen man, that I may appoint over her? for who is like me? and who will appoint me the time? and who is that shepherd that will stand before me?"
+bsb: "Behold, one will come up like a lion from the thickets of the Jordan to the watered pasture. For in an instant I will chase Edom from her land. Who is the chosen one I will appoint for this? For who is like Me, and who can challenge Me? What shepherd can stand against Me?”"
+hebrew: "הִ֠נֵּה כְּאַרְיֵ֞ה יַעֲלֶ֨ה מִגְּא֣וֹן הַיַּרְדֵּן֮ אֶל־ נְוֵ֣ה אֵיתָן֒ כִּֽי־ אַרְגִּ֤יעָה אֲרִיצֶ֨נּוּ מֵֽעָלֶ֔יהָ וּמִ֥י בָח֖וּר אֵלֶ֣יהָ אֶפְקֹ֑ד כִּ֣י מִ֤י כָמ֙וֹנִי֙ וּמִ֣י יֹעִידֶ֔נִּי וּמִי־ זֶ֣ה רֹעֶ֔ה אֲשֶׁ֥ר יַעֲמֹ֖ד לְפָנָֽי׃ ס"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic LION|LION]]"
+strongs:
+- "[[H2009]]"
+- "[[H9004]]"
+- "[[H0738B]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H1347]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5116A]]"
+- "[[H0386]]"
+- "[[H3588A]]"
+- "[[H7280A]]"
+- "[[H7323G]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H0977]]"
+- "[[H6485J]]"
+- "[[H3644G]]"
+- "[[H9030]]"
+- "[[H3259]]"
+- "[[H2088]]"
+- "[[H7462B]]"
+- "[[H0834A]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 49:19**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who [is] a chosen [man, that] I may appoint over her? for who [is] like me? and who will appoint me the time? and who [is] that shepherd that will stand before me?
 <small><sub>**BSB:**</sub></small>
 Behold, one will come up like a lion from the thickets of the Jordan to the watered pasture. For in an instant I will chase Edom from her land. Who is the chosen one I will appoint for this? For who is like Me, and who can challenge Me? What shepherd can stand against Me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִ֠נֵּה]] [[H9004\|כְּ]][[H0738B\|אַרְיֵ֞ה]] [[H5927G\|יַעֲלֶ֨ה]] [[H9006\|מִ]][[H1347\|גְּא֣וֹן]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֮]] [[H0413\|אֶל]][[H9014\|־]] [[H5116A\|נְוֵ֣ה]] [[H0386\|אֵיתָן֒]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7280A\|אַרְגִּ֤יעָה]] [[H7323G\|אֲרִיצֶ֨]][[H9033\|נּוּ]] [[H9006\|מֵֽ]][[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H0977\|בָח֖וּר]] [[H0413\|אֵלֶ֣י]][[H9034\|הָ]] [[H6485J\|אֶפְקֹ֑ד]] [[H3588A\|כִּ֣י]] [[H4310\|מִ֤י]] [[H3644G\|כָמ֙וֹ]][[H9030\|נִי֙]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H3259\|יֹעִידֶ֔]][[H9030\|נִּי]] [[H9002\|וּ]][[H4310\|מִי]][[H9014\|־]] [[H2088\|זֶ֣ה]] [[H7462B\|רֹעֶ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5975G\|יַעֲמֹ֖ד]] [[H9005\|לְ]][[H6440G\|פָנָֽ]][[H9020\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic LION|LION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.18|<< Jeremiah 49:18]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.20|Jeremiah 49:20 >>]]</td></tr></table>
 
@@ -34,7 +103,7 @@ Behold, one will come up like a lion from the thickets of the Jordan to the wate
 | [is] a shepherd  |**<big>&#8207;[[H7462B\|רֹעֶ֔ה]]&#8207; </big>**| ro.'Eh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will stand  |**<big>&#8207;[[H5975G\|יַעֲמֹ֖ד]]&#8207; </big>**| ya.'a.Mod<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> before me  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before me  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.18|<< Jeremiah 49:18]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.20|Jeremiah 49:20 >>]]</td></tr></table>
 
 

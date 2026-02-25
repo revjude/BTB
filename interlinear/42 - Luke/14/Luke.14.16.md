@@ -1,10 +1,63 @@
+---
+title: Luke 14:16
+type: Verse
+kjv: "Then said he unto him, A certain man made a great supper, and bade many:"
+bsb: "But Jesus replied, “A certain man prepared a great banquet and invited many guests."
+jesus_said: "A certain man made a great supper, and bade many:"
+greek: "Ὁ δὲ εἶπεν αὐτῷ· ἄνθρωπός τις ἐποίει δεῖπνον μέγα καὶ ἐκάλεσεν πολλούς·"
+pericope: "[[Luke.14.15 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G0444]]"
+- "[[G5100]]"
+- "[[G4160G]]"
+- "[[G1173]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G2564G]]"
+- "[[G4183]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 14:16**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said he unto him, A certain man made a great supper, and bade many:
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “A certain man prepared a great banquet and invited many guests.
-<small><sub>**Literal:**</sub></small>
-<the> But He said to him; A man certain was preparing a supper great and invited many;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.15|<< Luke 14:15]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.17|Luke 14:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G0444\|ἄνθρωπός]]  [[G5100\|τις]]  [[G4160G\|ἐποίει]]  [[G1173\|δεῖπνον]]  [[G3173\|μέγα]]  [[G2532\|καὶ]]  [[G2564G\|ἐκάλεσεν]]  [[G4183\|πολλούς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic REPROOF|REPROOF]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.15|<< Luke 14:15]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.17|Luke 14:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

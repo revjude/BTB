@@ -1,10 +1,50 @@
+---
+title: 2 Corinthians 10:9
+type: Verse
+kjv: "That I may not seem as if I would terrify you by letters."
+bsb: "I do not want to seem to be trying to frighten you by my letters."
+greek: "ἵνα μὴ δόξω ὡς ἂν ἐκφοβεῖν ὑμᾶς διὰ τῶν ἐπιστολῶν."
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1380]]"
+- "[[G5613]]"
+- "[[G0302]]"
+- "[[G1629]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G1992]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 10:9**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That I may not seem as if I would terrify you by letters.
 <small><sub>**BSB:**</sub></small>
 I do not want to seem to be trying to frighten you by my letters.
-<small><sub>**Literal:**</sub></small>
-that not [I] may seem as if to frighten you through the letters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.8|<< 2 Corinthians 10:8]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.10|2 Corinthians 10:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1380\|δόξω]]  [[G5613\|ὡς]]  [[G0302\|ἂν]]  [[G1629\|ἐκφοβεῖν]]  [[G4771\|ὑμᾶς]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G1992\|ἐπιστολῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.8|<< 2 Corinthians 10:8]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.10|2 Corinthians 10:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

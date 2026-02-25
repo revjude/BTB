@@ -1,10 +1,64 @@
+---
+title: 1 Thessalonians 2:8
+type: Verse
+kjv: "So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us."
+bsb: "We cared so deeply that we were delighted to share with you not only the gospel of God, but our own lives as well. That is how beloved you have become to us."
+greek: "οὕτως ὁμειρόμενοι ὑμῶν εὐδοκοῦμεν μεταδοῦναι ὑμῖν οὐ μόνον τὸ εὐαγγέλιον τοῦ θεοῦ ἀλλὰ καὶ τὰς ἑαυτῶν ψυχάς, διότι ἀγαπητοὶ ἡμῖν ἐγενήθητε."
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3779]]"
+- "[[G20833]]"
+- "[[G4771]]"
+- "[[G2106]]"
+- "[[G3330]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G1438]]"
+- "[[G5590H]]"
+- "[[G1360]]"
+- "[[G0027]]"
+- "[[G3165]]"
+- "[[G1096]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Thessalonians 2:8**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us.
 <small><sub>**BSB:**</sub></small>
 We cared so deeply that we were delighted to share with you not only the gospel of God, but our own lives as well. That is how beloved you have become to us.
-<small><sub>**Literal:**</sub></small>
-So yearning for you we were pleased to have imparted to you not only the gospel <the> of God but also <the> our own lives, because beloved to us you have become.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.7|<< 1 Thessalonians 2:7]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.9|1 Thessalonians 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G20833\|ὁμειρόμενοι]]  [[G4771\|ὑμῶν]]  [[G2106\|εὐδοκοῦμεν]]  [[G3330\|μεταδοῦναι]]  [[G4771\|ὑμῖν]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G1438\|ἑαυτῶν]]  [[G5590H\|ψυχάς,]]  [[G1360\|διότι]]  [[G0027\|ἀγαπητοὶ]]  [[G3165\|ἡμῖν]]  [[G1096\|ἐγενήθητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic GOSPEL|GOSPEL]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.7|<< 1 Thessalonians 2:7]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.9|1 Thessalonians 2:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

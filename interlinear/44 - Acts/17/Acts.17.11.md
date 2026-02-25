@@ -1,10 +1,65 @@
+---
+title: Acts 17:11
+type: Verse
+kjv: "These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so."
+bsb: "Now the Bereans were more noble-minded than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if these teachings were true."
+greek: "οὗτοι δὲ ἦσαν εὐγενέστεροι τῶν ἐν Θεσσαλονίκῃ, οἵτινες ἐδέξαντο τὸν λόγον μετὰ πάσης προθυμίας τὸ καθ᾽ ἡμέραν ἀνακρίνοντες τὰς γραφὰς εἰ ἔχοι ταῦτα οὕτως.¶"
+pericope: "[[Acts.17.10 The Character of the Bereans|The Character of the Bereans]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic THESSALONICA|THESSALONICA]]"
+- "[[topic TOLERATION|TOLERATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G2104]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G2332]]"
+- "[[G3748]]"
+- "[[G1209]]"
+- "[[G3056]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G4288]]"
+- "[[G2596]]"
+- "[[G2250]]"
+- "[[G0350]]"
+- "[[G1124]]"
+- "[[G1487G]]"
+- "[[G2192]]"
+- "[[G3779]]"
+texts:
+- NKO
+- ko
+---
+
 **Acts 17:11**<big><big>[[Acts.17.10 The Character of the Bereans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so.
 <small><sub>**BSB:**</sub></small>
 Now the Bereans were more noble-minded than the Thessalonians, for they received the message with great eagerness and examined the Scriptures every day to see if these teachings were true.
-<small><sub>**Literal:**</sub></small>
-These now were more noble than those in Thessalonica, who received the word with all readiness <the> every day examining the Scriptures if would be these things so.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.10|<< Acts 17:10]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.12|Acts 17:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|οὗτοι]]  [[G1161\|δὲ]]  [[G1510\|ἦσαν]]  [[G2104\|εὐγενέστεροι]]  [[G3588\|τῶν]]  [[G1722\|ἐν]]  [[G2332\|Θεσσαλονίκῃ,]]  [[G3748\|οἵτινες]]  [[G1209\|ἐδέξαντο]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3326\|μετὰ]]  [[G3956\|πάσης]]  [[G4288\|προθυμίας]]  [[G3588\|τὸ]]  [[G2596\|καθ᾽]]  [[G2250\|ἡμέραν]]  [[G0350\|ἀνακρίνοντες]]  [[G3588\|τὰς]]  [[G1124\|γραφὰς]]  [[G1487G\|εἰ]]  [[G2192\|ἔχοι]]  [[G3778\|ταῦτα]]  [[G3779\|οὕτως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic THESSALONICA|THESSALONICA]] • [[topic TOLERATION|TOLERATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.10|<< Acts 17:10]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.12|Acts 17:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

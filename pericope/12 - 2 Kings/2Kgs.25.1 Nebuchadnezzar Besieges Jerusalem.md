@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nebuchadnezzar Besieges Jerusalem
+type: Pericope
 pericope: "[[2Kgs.25.1 Nebuchadnezzar Besieges Jerusalem|Nebuchadnezzar Besieges Jerusalem]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 25
 book/chapter: "[[2Kgs.25|2 Kings 25]]"
-genre:
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.25.1]]"
 - "[[2Kgs.25.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.25.7]]"
 ---
 
-[[2Kgs.25|2 Kings 25:1 - 2 Kings 25:7]]
+<small>[[2Kgs.25|2 Kings 25:1-7]]</small>
 *Nebuchadnezzar Besieges Jerusalem*
 
 [[2Kgs.25.1|1]] And it came to pass in the ninth year of his reign, in the tenth month, in the tenth \[day\] of the month, \[that\] Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.

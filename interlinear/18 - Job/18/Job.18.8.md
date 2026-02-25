@@ -1,8 +1,55 @@
+---
+title: Job 18:8
+type: Verse
+kjv: "For he is cast into a net by his own feet, and he walketh upon a snare."
+bsb: "For his own feet lead him into a net, and he wanders into its mesh."
+hebrew: "כִּֽי־ שֻׁלַּ֣ח בְּרֶ֣שֶׁת בְּרַגְלָ֑יו וְעַל־ שְׂ֝בָכָ֗ה יִתְהַלָּֽךְ׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic NET|NET]]"
+- "[[topic SNARE|SNARE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H7568]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H7639]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:8**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he is cast into a net by his own feet, and he walketh upon a snare.
 <small><sub>**BSB:**</sub></small>
 For his own feet lead him into a net, and he wanders into its mesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7971G\|שֻׁלַּ֣ח]] [[H9003\|בְּ]][[H7568\|רֶ֣שֶׁת]] [[H9003\|בְּ]][[H7272\|רַגְלָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7639\|שְׂ֝בָכָ֗ה]] [[H1980I\|יִתְהַלָּֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NET|NET]] • [[topic SNARE|SNARE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.7|<< Job 18:7]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.9|Job 18:9 >>]]</td></tr></table>
 

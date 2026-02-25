@@ -1,10 +1,56 @@
+---
+title: Romans 3:2
+type: Verse
+kjv: "Much every way: chiefly, because that unto them were committed the oracles of God."
+bsb: "Much in every way. First of all, they have been entrusted with the very words of God."
+greek: "πολὺ κατὰ πάντα τρόπον· πρῶτον μὲν γὰρ ὅτι ἐπιστεύθησαν τὰ λόγια τοῦ θεοῦ."
+pericope: "[[Rom.3.1 God Remains Faithful|God Remains Faithful]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic ORACLE|ORACLE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G4183]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G5158]]"
+- "[[G4413I]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G3754H]]"
+- "[[G4100]]"
+- "[[G3588]]"
+- "[[G3051]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Romans 3:2**<big><big>[[Rom.3.1 God Remains Faithful|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Much every way: chiefly, because that unto them were committed the oracles of God.
 <small><sub>**BSB:**</sub></small>
 Much in every way. First of all, they have been entrusted with the very words of God.
-<small><sub>**Literal:**</sub></small>
-Much in every way; Chiefly indeed for for they were entrusted with the oracles <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.1|<< Romans 3:1]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.3|Romans 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|πολὺ]]  [[G2596\|κατὰ]]  [[G3956\|πάντα]]  [[G5158\|τρόπον·]]  [[G4413I\|πρῶτον]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G3754H\|ὅτι]]  [[G4100\|ἐπιστεύθησαν]]  [[G3588\|τὰ]]  [[G3051\|λόγια]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic BOASTING|BOASTING]] • [[topic CHURCH|CHURCH]] • [[topic LAW|LAW]] • [[topic ORACLE|ORACLE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.1|<< Romans 3:1]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.3|Romans 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

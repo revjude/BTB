@@ -1,8 +1,66 @@
+---
+title: Ezekiel 40:21
+type: Verse
+kjv: "And the little chambers thereof were three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof was fifty cubits, and the breadth five and twenty cubits."
+bsb: "Its three gate chambers on each side, its side pillars, and its portico all had the same measurements as the first gate: fifty cubits long and twenty-five cubits wide."
+hebrew: "וְתָאָ֗יו שְׁלוֹשָׁ֤ה מִפּוֹ֙ וּשְׁלֹשָׁ֣ה מִפּ֔וֹ וְאֵילָ֤יו וְאֵֽלַמָּיו֙ הָיָ֔ה כְּמִדַּ֖ת הַשַּׁ֣עַר הָרִאשׁ֑וֹן חֲמִשִּׁ֤ים אַמָּה֙ אָרְכּ֔וֹ וְרֹ֕חַב חָמֵ֥שׁ וְעֶשְׂרִ֖ים בָּאַמָּֽה׃"
+pericope: "[[Ezek.40.20 The North Gate|The North Gate]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9002]]"
+- "[[H8372]]"
+- "[[H9023]]"
+- "[[H7969]]"
+- "[[H9006]]"
+- "[[H6311]]"
+- "[[H0352B]]"
+- "[[H0361]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H4060A]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H7223G]]"
+- "[[H2572]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H7341]]"
+- "[[H2568]]"
+- "[[H6242]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Ezekiel 40:21**<big><big>[[Ezek.40.20 The North Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the little chambers thereof [were] three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof [was] fifty cubits, and the breadth five and twenty cubits.
 <small><sub>**BSB:**</sub></small>
 Its three gate chambers on each side, its side pillars, and its portico all had the same measurements as the first gate: fifty cubits long and twenty-five cubits wide.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8372\|תָאָ֗י]][[H9023\|ו]] [[H7969\|שְׁלוֹשָׁ֤ה]] [[H9006\|מִ]][[H6311\|פּוֹ֙]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁ֣ה]] [[H9006\|מִ]][[H6311\|פּ֔וֹ]] [[H9002\|וְ]][[H0352B\|אֵילָ֤י]][[H9023\|ו]] [[H9002\|וְ]][[H0361\|אֵֽלַמָּי]][[H9023\|ו֙]] [[H1961\|הָיָ֔ה]] [[H9004\|כְּ]][[H4060A\|מִדַּ֖ת]] [[H9009\|הַ]][[H8179G\|שַּׁ֣עַר]] [[H9009\|הָ]][[H7223G\|רִאשׁ֑וֹן]] [[H2572\|חֲמִשִּׁ֤ים]] [[H0520A\|אַמָּה֙]] [[H0753\|אָרְכּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H7341\|רֹ֕חַב]] [[H2568\|חָמֵ֥שׁ]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֖ים]] [[H9003\|בָּ]][[H0520A\|אַמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.20|<< Ezekiel 40:20]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.22|Ezekiel 40:22 >>]]</td></tr></table>
 
@@ -28,16 +86,16 @@ Its three gate chambers on each side, its side pillars, and its portico all had 
 | by the cubit  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0520A\|אַמָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'a.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.20|<< Ezekiel 40:20]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.22|Ezekiel 40:22 >>]]</td></tr></table>
 
-[^1]: and chamber its  | **<big>[[H9023|וֹ]]</big><big>[[H8372|תָא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: and chamber its  | **<big>[[H9023|וֹ]]</big><big>[[H8372|תָא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^3]: and chamber its  | **<big>[[H9023|וֹ]]</big><big>[[H8372|תָא]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: and chamber its  | **<big>[[H9002|וְ]]</big><big>[[H8372|תָא]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and chamber its  | **<big>[[H9002|וְ]]</big><big>[[H8372|תָא]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and chamber its  | **<big>[[H9002|וְ]]</big><big>[[H8372|תָא]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ta.'o<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וְתָאָ֗/ו</big></span>**
-[^5]: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^6]: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^7]: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: and pillar its  | **<big>[[H9002|וְ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: and pillar its  | **<big>[[H9002|וְ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^7]: and pillar its  | **<big>[[H9002|וְ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^8]: L spelled: **<span class="ashebrew"><big>וְאֵילָ֤/ו</big></span>**
-[^9]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^10]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^11]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^9]: and porch its  | **<big>[[H9002|וְ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^10]: and porch its  | **<big>[[H9002|וְ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^11]: and porch its  | **<big>[[H9002|וְ]]</big><big>[[H0361|אֵלַמּ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^12]: L spelled: **<span class="ashebrew"><big>וְאֵֽלַמָּ/ו֙</big></span>**
 

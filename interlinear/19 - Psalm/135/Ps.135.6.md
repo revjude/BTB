@@ -1,8 +1,58 @@
+---
+title: Psalm 135:6
+type: Verse
+kjv: "Whatsoever the LORD pleased, that did he in heaven, and in earth, in the seas, and all deep places."
+bsb: "The LORD does all that pleases Him in the heavens and on the earth, in the seas and in all their depths."
+hebrew: "כֹּ֤ל אֲשֶׁר־ חָפֵ֥ץ יְהוָ֗ה עָ֫שָׂ֥ה בַּשָּׁמַ֥יִם וּבָאָ֑רֶץ בַּ֝יַּמִּ֗ים וְכָל־ תְּהוֹמֽוֹת׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H2654A]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H3220G]]"
+- "[[H8415]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:6**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whatsoever the LORD pleased, [that] did he in heaven, and in earth, in the seas, and all deep places.
 <small><sub>**BSB:**</sub></small>
 The LORD does all that pleases Him in the heavens and on the earth, in the seas and in all their depths.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֹּ֤ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2654A\|חָפֵ֥ץ]] [[H3068G\|יְהוָ֗ה]] [[H6213A\|עָ֫שָׂ֥ה]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֥יִם]] [[H9002\|וּ]][[H9003\|בָ]][[H0776G\|אָ֑רֶץ]] [[H9003\|בַּ֝]][[H3220G\|יַּמִּ֗ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8415\|תְּהוֹמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.5|<< Psalms 135:5]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.7|Psalms 135:7 >>]]</td></tr></table>
 

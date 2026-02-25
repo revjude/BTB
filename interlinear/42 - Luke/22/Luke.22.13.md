@@ -1,10 +1,54 @@
+---
+title: Luke 22:13
+type: Verse
+kjv: "And they went, and found as he had said unto them: and they made ready the passover."
+bsb: "So they went and found it just as Jesus had told them. And they prepared the Passover."
+greek: "ἀπελθόντες δὲ εὗρον καθὼς εἰρήκει αὐτοῖς, καὶ ἡτοίμασαν τὸ πάσχα."
+pericope: "[[Luke.22.7 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G0565]]"
+- "[[G1161]]"
+- "[[G2147]]"
+- "[[G2531]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2090]]"
+- "[[G3588]]"
+- "[[G3957]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 22:13**<big><big>[[Luke.22.7 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they went, and found as he had said unto them: and they made ready the passover.
 <small><sub>**BSB:**</sub></small>
 So they went and found it just as Jesus had told them. And they prepared the Passover.
-<small><sub>**Literal:**</sub></small>
-Having gone then they found [it] even as He had said to them, and they prepared the Passover.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.12|<< Luke 22:12]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.14|Luke 22:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0565\|ἀπελθόντες]]  [[G1161\|δὲ]]  [[G2147\|εὗρον]]  [[G2531\|καθὼς]]  [[G2036\|εἰρήκει]]  [[G0846\|αὐτοῖς,]]  [[G2532\|καὶ]]  [[G2090\|ἡτοίμασαν]]  [[G3588\|τὸ]]  [[G3957\|πάσχα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.12|<< Luke 22:12]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.14|Luke 22:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

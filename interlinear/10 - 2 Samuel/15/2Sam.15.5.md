@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 15:5
+type: Verse
+kjv: "And it was so, that when any man came nigh to him to do him obeisance, he put forth his hand, and took him, and kissed him."
+bsb: "Also, when anyone approached to bow down to him, Absalom would reach out his hand, take hold of him, and kiss him."
+hebrew: "וְהָיָה֙ בִּקְרָב־ אִ֔ישׁ לְהִשְׁתַּחֲוֹ֖ת ל֑וֹ וְשָׁלַ֧ח אֶת־ יָד֛וֹ וְהֶחֱזִ֥יק ל֖וֹ וְנָ֥שַׁק לֽוֹ׃"
+pericope: "[[2Sam.15.1 Absalom’s Conspiracy|Absalom’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ELECTIONEERING|ELECTIONEERING]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic POPULARITY|POPULARITY]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7126G]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H7812]]"
+- "[[H9033]]"
+- "[[H7971K]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H2388H]]"
+- "[[H5401A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:5**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], that when any man came nigh [to him] to do him obeisance, he put forth his hand, and took him, and kissed him.
 <small><sub>**BSB:**</sub></small>
 Also, when anyone approached to bow down to him, Absalom would reach out his hand, take hold of him, and kiss him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9003\|בִּ]][[H7126G\|קְרָב]][[H9014\|־]] [[H0376I\|אִ֔ישׁ]] [[H9005\|לְ]][[H7812\|הִשְׁתַּחֲוֹ֖ת]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H7971K\|שָׁלַ֧ח]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָד֛]][[H9023\|וֹ]] [[H9001\|וְ]][[H2388H\|הֶחֱזִ֥יק]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9001\|וְ]][[H5401A\|נָ֥שַׁק]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic AMBITION|AMBITION]] • [[topic CANDIDATE|CANDIDATE]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ELECTIONEERING|ELECTIONEERING]] • [[topic FLATTERY|FLATTERY]] • [[topic POLITICS|POLITICS]] • [[topic POPULARITY|POPULARITY]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.4|<< 2 Samuel 15:4]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.6|2 Samuel 15:6 >>]]</td></tr></table>
 

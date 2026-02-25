@@ -1,8 +1,72 @@
+---
+title: Genesis 2:7
+type: Verse
+kjv: "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
+bsb: "Then the LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living being."
+hebrew: "וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת־ הָֽאָדָ֗ם עָפָר֙ מִן־ הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic BREATH|BREATH]]"
+- "[[topic DUST|DUST]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GROUND|GROUND]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MAN|MAN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3335G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H6083]]"
+- "[[H4480A]]"
+- "[[H0127G]]"
+- "[[H5301]]"
+- "[[H9003]]"
+- "[[H0639H]]"
+- "[[H9023]]"
+- "[[H5397]]"
+- "[[H2416E]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H5315K]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:7**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God formed man [of] the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.
 <small><sub>**BSB:**</sub></small>
 Then the LORD God formed man from the dust of the ground and breathed the breath of life into his nostrils, and the man became a living being.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3335G\|יִּיצֶר֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהִ֜ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0120H\|אָדָ֗ם]] [[H6083\|עָפָר֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H9001\|וַ]][[H5301\|יִּפַּ֥ח]] [[H9003\|בְּ]][[H0639H\|אַפָּ֖י]][[H9023\|ו]] [[H5397\|נִשְׁמַ֣ת]] [[H2416E\|חַיִּ֑ים]] [[H9001\|וַֽ]][[H1961\|יְהִ֥י]] [[H9009\|הָֽ]][[H0120H\|אָדָ֖ם]] [[H9005\|לְ]][[H5315K\|נֶ֥פֶשׁ]] [[H2416A\|חַיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic BREATH|BREATH]] • [[topic DUST|DUST]] • [[topic GOD|GOD]] • [[topic GROUND|GROUND]] • [[topic LIFE|LIFE]] • [[topic MAN|MAN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.6|<< Genesis 2:6]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.8|Genesis 2:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

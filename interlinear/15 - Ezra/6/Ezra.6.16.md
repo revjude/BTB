@@ -1,8 +1,61 @@
+---
+title: Ezra 6:16
+type: Verse
+kjv: "And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy,"
+bsb: "Then the people of Israel—the priests, the Levites, and the rest of the exiles—celebrated the dedication of the house of God with joy."
+aramaic: "וַעֲבַ֣דוּ בְנֵֽי־ יִ֠שְׂרָאֵל כָּהֲנַיָּ֨א וְלֵוָיֵ֜א וּשְׁאָ֣ר בְּנֵי־ גָלוּתָ֗א חֲנֻכַּ֛ת בֵּית־ אֱלָהָ֥א דְנָ֖ה בְּחֶדְוָֽה׃"
+pericope: "[[Ezra.6.16 Dedication of the Temple|Dedication of the Temple]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic JOY|JOY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5648]]"
+- "[[H1247]]"
+- "[[H9014]]"
+- "[[H3479]]"
+- "[[H3549]]"
+- "[[H9010]]"
+- "[[H3879]]"
+- "[[H7606]]"
+- "[[H1547]]"
+- "[[H2597]]"
+- "[[H1005]]"
+- "[[H0426]]"
+- "[[H1836]]"
+- "[[H9003]]"
+- "[[H2305]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 6:16**<big><big>[[Ezra.6.16 Dedication of the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy,
 <small><sub>**BSB:**</sub></small>
 Then the people of Israel—the priests, the Levites, and the rest of the exiles—celebrated the dedication of the house of God with joy.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וַ]][[H5648\|עֲבַ֣דוּ]] [[H1247\|בְנֵֽי]][[H9014\|־]] [[H3479\|יִ֠שְׂרָאֵל]] [[H3549\|כָּהֲנַיָּ֨]][[H9010\|א]] [[H9002\|וְ]][[H3879\|לֵוָיֵ֜]][[H9010\|א]] [[H9002\|וּ]][[H7606\|שְׁאָ֣ר]] [[H1247\|בְּנֵי]][[H9014\|־]] [[H1547\|גָלוּתָ֗]][[H9010\|א]] [[H2597\|חֲנֻכַּ֛ת]] [[H1005\|בֵּית]][[H9014\|־]] [[H0426\|אֱלָהָ֥]][[H9010\|א]] [[H1836\|דְנָ֖ה]] [[H9003\|בְּ]][[H2305\|חֶדְוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEDICATION|DEDICATION]] • [[topic JOY|JOY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.15|<< Ezra 6:15]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.17|Ezra 6:17 >>]]</td></tr></table>
 

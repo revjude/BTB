@@ -1,8 +1,77 @@
+---
+title: Exodus 19:5
+type: Verse
+kjv: "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine:"
+bsb: "Now if you will indeed obey My voice and keep My covenant, you will be My treasured possession out of all the nations—for the whole earth is Mine."
+hebrew: "וְעַתָּ֗ה אִם־ שָׁמ֤וֹעַ תִּשְׁמְעוּ֙ בְּקֹלִ֔י וּשְׁמַרְתֶּ֖ם אֶת־ בְּרִיתִ֑י וִהְיִ֨יתֶם לִ֤י סְגֻלָּה֙ מִכָּל־ הָ֣עַמִּ֔ים כִּי־ לִ֖י כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Exod.19.1 Israel at Mount Sinai|Israel at Mount Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H1285]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5459]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:5**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth [is] mine:
 <small><sub>**BSB:**</sub></small>
 Now if you will indeed obey My voice and keep My covenant, you will be My treasured possession out of all the nations—for the whole earth is Mine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H8085H\|שָׁמ֤וֹעַ]] [[H8085H\|תִּשְׁמְעוּ֙]] [[H9003\|בְּ]][[H6963A\|קֹלִ֔]][[H9020\|י]] [[H9001\|וּ]][[H8104G\|שְׁמַרְתֶּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֑]][[H9020\|י]] [[H9001\|וִ]][[H1961\|הְיִ֨יתֶם]] [[H9005\|לִ֤]][[H9030\|י]] [[H5459\|סְגֻלָּה֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H5971A\|עַמִּ֔ים]] [[H3588A\|כִּי]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.4|<< Exodus 19:4]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.6|Exodus 19:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

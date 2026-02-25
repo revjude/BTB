@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 10:3
+type: Verse
+kjv: "Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool."
+bsb: "Even as the fool walks along the road, his sense is lacking, and he shows everyone that he is a fool."
+hebrew: "וְגַם־ בַּדֶּ֛רֶךְ כְּשֶׁסָּכָ֥ל הֹלֵ֖ךְ לִבּ֣וֹ חָסֵ֑ר וְאָמַ֥ר לַכֹּ֖ל סָכָ֥ל הֽוּא׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H9004]]"
+- "[[H9007]]"
+- "[[H9009]]"
+- "[[H5530]]"
+- "[[H1980I]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H2637]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ecclesiastes 10:3**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea also, when he that is a fool walketh by the way, his wisdom faileth [him], and he saith to every one [that] he [is] a fool.
 <small><sub>**BSB:**</sub></small>
 Even as the fool walks along the road, his sense is lacking, and he shows everyone that he is a fool.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9003\|בַּ]][[H1870K\|דֶּ֛רֶךְ]] [[H9004\|כְּ]][[H9007\|שֶׁ]][[H5530\|סָּכָ֥ל]] [[H1980I\|הֹלֵ֖ךְ]] [[H3820A\|לִבּ֣]][[H9023\|וֹ]] [[H2637\|חָסֵ֑ר]] [[H9002\|וְ]][[H0559\|אָמַ֥ר]] [[H9005\|לַ]][[H3605\|כֹּ֖ל]] [[H5530\|סָכָ֥ל]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.2|<< Ecclesiastes 10:2]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.4|Ecclesiastes 10:4 >>]]</td></tr></table>
 
@@ -20,8 +71,8 @@ Even as the fool walks along the road, his sense is lacking, and he shows everyo
 | he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.2|<< Ecclesiastes 10:2]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.4|Ecclesiastes 10:4 >>]]</td></tr></table>
 
-[^1]: like when the fool  | **<big>[[H5530|סָּכָל]]</big><big>[[H9009|הַ]]</big><big>[[H9007|שֶׁ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> she.<small><sup>[[HTr]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.khal<small><sup>[[HNcbsa]]</sup></small> | K
-[^2]: like when the fool  | **<big>[[H5530|סָּכָל]]</big><big>[[H9009|הַ]]</big><big>[[H9007|שֶׁ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> she.<small><sup>[[HTr]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.khal<small><sup>[[HNcbsa]]</sup></small> | K
-[^3]: like when the fool  | **<big>[[H5530|סָּכָל]]</big><big>[[H9009|הַ]]</big><big>[[H9007|שֶׁ]]</big><big>[[H9004|כְּ]]</big> ** | ke.<small><sup>[[HR]]</sup></small> she.<small><sup>[[HTr]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.khal<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: like when the fool  | **<big>[[H9004|כְּ]]</big><big>[[H9007|שֶׁ]]</big><big>[[H9009|הַ]]</big><big>[[H5530|סָּכָל]]</big> ** | ke.<small><sup>[[HR]]</sup></small> she.<small><sup>[[HTr]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.khal<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: like when the fool  | **<big>[[H9004|כְּ]]</big><big>[[H9007|שֶׁ]]</big><big>[[H9009|הַ]]</big><big>[[H5530|סָּכָל]]</big> ** | ke.<small><sup>[[HR]]</sup></small> she.<small><sup>[[HTr]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.khal<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: like when the fool  | **<big>[[H9004|כְּ]]</big><big>[[H9007|שֶׁ]]</big><big>[[H9009|הַ]]</big><big>[[H5530|סָּכָל]]</big> ** | ke.<small><sup>[[HR]]</sup></small> she.<small><sup>[[HTr]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> sa.khal<small><sup>[[HNcbsa]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>כְּשֶׁ/ה/סָּכָ֥ל</big></span>**
 

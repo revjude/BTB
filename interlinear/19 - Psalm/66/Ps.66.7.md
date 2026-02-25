@@ -1,8 +1,63 @@
+---
+title: Psalm 66:7
+type: Verse
+kjv: "He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah."
+bsb: "He rules forever by His power; His eyes watch the nations. Do not let the rebellious exalt themselves. Selah"
+hebrew: "מֹ֘שֵׁ֤ל בִּגְבוּרָת֨וֹ׀ עוֹלָ֗ם עֵ֭ינָיו בַּגּוֹיִ֣ם תִּצְפֶּ֑ינָה הַסּוֹרְרִ֓ים׀ אַל־ יָר֖וּמוּ לָ֣מוֹ סֶֽלָה׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H1369]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H5769G]]"
+- "[[H5869A]]"
+- "[[H1471A]]"
+- "[[H6822]]"
+- "[[H9009]]"
+- "[[H5637]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7311A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 66:7**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.
 <small><sub>**BSB:**</sub></small>
 He rules forever by His power; His eyes watch the nations. Do not let the rebellious exalt themselves. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H4910\|מֹ֘שֵׁ֤ל]] [[H9003\|בִּ]][[H1369\|גְבוּרָת֨]][[H9023\|וֹ]][[H9015\|׀]] [[H5769G\|עוֹלָ֗ם]] [[H5869A\|עֵ֭ינָי]][[H9023\|ו]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֣ם]] [[H6822\|תִּצְפֶּ֑ינָה]] [[H9009\|הַ]][[H5637\|סּוֹרְרִ֓ים]][[H9015\|׀]] [[H0408\|אַל]][[H9014\|־]] [[H7311A\|יָר֖וּמוּ]] [[H9005\|לָ֣]][[H9038\|מוֹ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.6|<< Psalms 66:6]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.8|Psalms 66:8 >>]]</td></tr></table>
 

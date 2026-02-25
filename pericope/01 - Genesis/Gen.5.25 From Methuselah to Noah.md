@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: From Methuselah to Noah
+type: Pericope
 pericope: "[[Gen.5.25 From Methuselah to Noah|From Methuselah to Noah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 5
 book/chapter: "[[Gen.5|Genesis 5]]"
-genre:
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.5.25]]"
 - "[[Gen.5.26]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.5.32]]"
 ---
 
-[[Gen.5|Genesis 5:25 - Genesis 5:32]]
+<small>[[Gen.5|Genesis 5:25-32]]</small>
 *From Methuselah to Noah*
 
 [[Gen.5.25|25]] And Methuselah lived an hundred eighty and seven years, and begat Lamech:

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Battle of Gibeon
+type: Pericope
 pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 2
 book/chapter: "[[2Sam.2|2 Samuel 2]]"
-genre:
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 21
 verses:
 - "[[2Sam.2.12]]"
 - "[[2Sam.2.13]]"
@@ -40,7 +47,7 @@ verses:
 - "[[2Sam.2.32]]"
 ---
 
-[[2Sam.2|2 Samuel 2:12 - 2 Samuel 2:32]]
+<small>[[2Sam.2|2 Samuel 2:12-32]]</small>
 *The Battle of Gibeon*
 
 [[2Sam.2.12|12]] And Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.

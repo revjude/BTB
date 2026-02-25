@@ -1,8 +1,66 @@
+---
+title: Isaiah 10:26
+type: Verse
+kjv: "And the LORD of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and as his rod was upon the sea, so shall he lift it up after the manner of Egypt."
+bsb: "And the LORD of Hosts will brandish a whip against them, as when He struck Midian at the rock of Oreb. He will raise His staff over the sea, as He did in Egypt."
+hebrew: "וְעוֹרֵ֨ר עָלָ֜יו יְהוָ֤ה צְבָאוֹת֙ שׁ֔וֹט כְּמַכַּ֥ת מִדְיָ֖ן בְּצ֣וּר עוֹרֵ֑ב וּמַטֵּ֙הוּ֙ עַל־ הַיָּ֔ם וּנְשָׂא֖וֹ בְּדֶ֥רֶךְ מִצְרָֽיִם׃"
+pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic OREB|OREB]]"
+strongs:
+- "[[H9001]]"
+- "[[H5782]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H7752]]"
+- "[[H9004]]"
+- "[[H4347]]"
+- "[[H4080H]]"
+- "[[H9003]]"
+- "[[H6697H]]"
+- "[[H6159]]"
+- "[[H9002]]"
+- "[[H4294G]]"
+- "[[H9023]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H5375R]]"
+- "[[H1870G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:26**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD of hosts shall stir up a scourge for him according to the slaughter of Midian at the rock of Oreb: and [as] his rod [was] upon the sea, so shall he lift it up after the manner of Egypt.
 <small><sub>**BSB:**</sub></small>
 And the LORD of Hosts will brandish a whip against them, as when He struck Midian at the rock of Oreb. He will raise His staff over the sea, as He did in Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5782\|עוֹרֵ֨ר]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H7752\|שׁ֔וֹט]] [[H9004\|כְּ]][[H4347\|מַכַּ֥ת]] [[H4080H\|מִדְיָ֖ן]] [[H9003\|בְּ]][[H6697H\|צ֣וּר]] [[H6159\|עוֹרֵ֑ב]] [[H9002\|וּ]][[H4294G\|מַטֵּ֙]][[H9023\|הוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֔ם]] [[H9001\|וּ]][[H5375R\|נְשָׂא֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H1870G\|דֶ֥רֶךְ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]] • [[topic OREB|OREB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.25|<< Isaiah 10:25]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.27|Isaiah 10:27 >>]]</td></tr></table>
 

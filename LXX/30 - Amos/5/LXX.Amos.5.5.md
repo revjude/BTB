@@ -1,6 +1,69 @@
+---
+title: LXX Amos 5:5
+type: Verse
+lxx: "And do not seek after Beth-el, and into Gilgal enter not, and by  Well of the Oath do not pass over! For Gilgal, by capturing shall be captured, and Beth-el will be as not existing."
+greek: "και μη εκζητείτε Βαιθήλ και εις Γαλγαλά μη εισπορεύεσθε και επί το φρεαρ του όρκου μη διαβαίνετε ότι Γαλγαλά αιχμαλωτευομένη αιχμαλωτευθήσεται και Βαιθήλ έσται ως ουχ υπάρχουσα"
+original_language: Greek
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1567]]"
+- "[[H1008]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[H1537]]"
+- "[[G3361]]"
+- "[[G1531]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5421]]"
+- "[[G3588]]"
+- "[[G3727]]"
+- "[[G3361]]"
+- "[[G1224]]"
+- "[[G3754]]"
+- "[[H1537]]"
+- "[[G0162]]"
+- "[[G0162]]"
+- "[[G2532]]"
+- "[[H1008]]"
+- "[[G1510]]"
+- "[[G5613]]"
+- "[[G3756]]"
+- "[[G5225]]"
+---
+
 **LXX Amos 5:5** 
 <small><sub>**LXX:**</sub></small>
 And do not seek after Beth-el, and into Gilgal enter not, and by  Well of the Oath do not pass over! For Gilgal, by capturing shall be captured, and Beth-el will be as not existing. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3361\|μη]] [[G1567\|εκζητείτε]] [[H1008\|Βαιθήλ]] [[G2532\|και]] [[G1519\|εις]] [[H1537\|Γαλγαλά]] [[G3361\|μη]] [[G1531\|εισπορεύεσθε]] [[G2532\|και]] [[G1909\|επί]] [[G3588\|το]] [[G5421\|φρεαρ]] [[G3588\|του]] [[G3727\|όρκου]] [[G3361\|μη]] [[G1224\|διαβαίνετε]] [[G3754\|ότι]] [[H1537\|Γαλγαλά]] [[G0162\|αιχμαλωτευομένη]] [[G0162\|αιχμαλωτευθήσεται]] [[G2532\|και]] [[H1008\|Βαιθήλ]] [[G1510\|έσται]] [[G5613\|ως]] [[G3756\|ουχ]] [[G5225\|υπάρχουσα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-SHEBA|BEER-SHEBA]] • [[topic BETH-EL|BETH-EL]] • [[topic GILGAL|GILGAL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Amos.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.4|<< Amos 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.6|Amos 5:6 >>]]</td></tr></table>
 
@@ -31,6 +94,6 @@ And do not seek after Beth-el, and into Gilgal enter not, and by  Well of the Oa
 | as | **<big>[[G5613\|ως]]</big>** |
 | not | **<big>[[G3756\|ουχ]]</big>** |
 | existing. | **<big>[[G5225\|υπάρχουσα]]</big>** |
-[[Amos.5.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.4|<< Amos 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.6|Amos 5:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.5.4|<< Amos 5:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.5.6|Amos 5:6 >>]]</td></tr></table>
 
 

@@ -1,10 +1,61 @@
+---
+title: John 1:19
+type: Verse
+kjv: "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?"
+bsb: "And this was John’s testimony when the Jews of Jerusalem sent priests and Levites to ask him, “Who are you?”"
+greek: "καὶ αὕτη ἐστὶν ἡ μαρτυρία τοῦ Ἰωάννου ὅτε ἀπέστειλαν πρὸς αὐτὸν οἱ Ἰουδαῖοι ἐξ Ἱεροσολύμων ἱερεῖς καὶ Λευίτας ἵνα ἐρωτήσωσιν αὐτόν· σὺ τίς εἶ;"
+pericope: "[[John.1.19 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3141]]"
+- "[[G2491G]]"
+- "[[G3753]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2453]]"
+- "[[G1537]]"
+- "[[G2414]]"
+- "[[G2409]]"
+- "[[G3019]]"
+- "[[G2443]]"
+- "[[G2065]]"
+- "[[G4771]]"
+- "[[G5101]]"
+texts:
+- NKO
+- no
+---
+
 **John 1:19**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?
 <small><sub>**BSB:**</sub></small>
 And this was John’s testimony when the Jews of Jerusalem sent priests and Levites to ask him, “Who are you?”
-<small><sub>**Literal:**</sub></small>
-And this is the testimony <the> of John when sent to him the Jews from Jerusalem priests and Levites that they may ask him; You yourself who are?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.18|<< John 1:18]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.20|John 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G3141\|μαρτυρία]]  [[G3588\|τοῦ]]  [[G2491G\|Ἰωάννου]]  [[G3753\|ὅτε]]  [[G0649\|ἀπέστειλαν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G1537\|ἐξ]]  [[G2414\|Ἱεροσολύμων]]  [[G2409\|ἱερεῖς]]  [[G2532\|καὶ]]  [[G3019\|Λευίτας]]  [[G2443\|ἵνα]]  [[G2065\|ἐρωτήσωσιν]]  [[G0846\|αὐτόν·]]  [[G4771\|σὺ]]  [[G5101\|τίς]]  [[G1510\|εἶ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.18|<< John 1:18]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.20|John 1:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

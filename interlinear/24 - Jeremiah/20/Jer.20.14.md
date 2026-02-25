@@ -1,8 +1,60 @@
+---
+title: Jeremiah 20:14
+type: Verse
+kjv: "Cursed be the day wherein I was born: let not the day wherein my mother bare me be blessed."
+bsb: "Cursed be the day I was born! May the day my mother bore me never be blessed."
+hebrew: "אָר֣וּר הַיּ֔וֹם אֲשֶׁ֥ר יֻלַּ֖דְתִּי בּ֑וֹ י֛וֹם אֲשֶׁר־ יְלָדַ֥תְנִי אִמִּ֖י אַל־ יְהִ֥י בָרֽוּךְ׃"
+pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BIRTHDAY|BIRTHDAY]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[H0779]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H0408]]"
+- "[[H1961]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:14**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] the day wherein I was born: let not the day wherein my mother bare me be blessed.
 <small><sub>**BSB:**</sub></small>
 Cursed be the day I was born! May the day my mother bore me never be blessed.
+<small><sub>**Hebrew:**</sub></small>
+[[H0779\|אָר֣וּר]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|יֻלַּ֖דְתִּי]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H3117G\|י֛וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3205\|יְלָדַ֥תְ]][[H9030\|נִי]] [[H0517\|אִמִּ֖]][[H9020\|י]] [[H0408\|אַל]][[H9014\|־]] [[H1961\|יְהִ֥י]] [[H1288\|בָרֽוּךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHDAY|BIRTHDAY]] • [[topic JEREMIAH|JEREMIAH]] • [[topic LIFE|LIFE]] • [[topic MURMURING|MURMURING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.13|<< Jeremiah 20:13]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.15|Jeremiah 20:15 >>]]</td></tr></table>
 

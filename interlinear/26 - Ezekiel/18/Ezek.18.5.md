@@ -1,8 +1,64 @@
+---
+title: Ezekiel 18:5
+type: Verse
+kjv: "But if a man be just, and do that which is lawful and right,"
+bsb: "Now suppose a man is righteous and does what is just and right:"
+hebrew: "וְאִ֖ישׁ כִּי־ יִהְיֶ֣ה צַדִּ֑יק וְעָשָׂ֥ה מִשְׁפָּ֖ט וּצְדָקָֽה׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PAWN|PAWN]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H6662]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 18:5**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if a man be just, and do that which is lawful and right,
 <small><sub>**BSB:**</sub></small>
 Now suppose a man is righteous and does what is just and right:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֖ישׁ]] [[H3588A\|כִּי]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]] [[H6662\|צַדִּ֑יק]] [[H9001\|וְ]][[H6213A\|עָשָׂ֥ה]] [[H4941H\|מִשְׁפָּ֖ט]] [[H9002\|וּ]][[H6666\|צְדָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic CHILDREN|CHILDREN]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PAWN|PAWN]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.4|<< Ezekiel 18:4]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.6|Ezekiel 18:6 >>]]</td></tr></table>
 

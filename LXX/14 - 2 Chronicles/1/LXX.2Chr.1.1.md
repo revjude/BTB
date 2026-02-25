@@ -1,9 +1,59 @@
+---
+title: LXX 2 Chronicles 1:1
+type: Verse
+lxx: "And Solomon son of David grew in strength over  his kingdom, and the lord  his God was with him, and magnified him in stature."
+greek: "και ενίσχυσε Σολομών υιός Δαυίδ επί την βασιλείαν αυτού και κύριος ο θεός αυτού μετ΄ αυτού και εμεγάλυνεν αυτόν εις ύψος"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+strongs:
+- "[[G2532]]"
+- "[[G1765]]"
+- "[[G4672]]"
+- "[[G5207]]"
+- "[[G4622]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3170]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G5311]]"
+---
+
 **LXX 2 Chronicles 1:1** 
 
 ***Solomon Reigns in Jerusalem***
 
 <small><sub>**LXX:**</sub></small>
 And Solomon son of David grew in strength over  his kingdom, and \[the\] <span class="smallcaps">lord</span>  his God \[was\] with him, and magnified him in stature. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1765\|ενίσχυσε]] [[G4672\|Σολομών]] [[G5207\|υιός]] [[G4622\|Δαυίδ]] [[G1909\|επί]] [[G3588\|την]] [[G0932\|βασιλείαν]] [[G1473\|αυτού]] [[G2532\|και]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|αυτού]] [[G3326\|μετ΄]] [[G1473\|αυτού]] [[G2532\|και]] [[G3170\|εμεγάλυνεν]] [[G1473\|αυτόν]] [[G1519\|εις]] [[G5311\|ύψος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.30|<< 1 Chronicles 29:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.2|2 Chronicles 1:2 >>]]</td></tr></table>
 
@@ -28,6 +78,6 @@ And Solomon son of David grew in strength over  his kingdom, and \[the\] <span c
 | him | **<big>[[G1473\|αυτόν]]</big>** |
 | in | **<big>[[G1519\|εις]]</big>** |
 | stature. | **<big>[[G5311\|ύψος]]</big>** |
-[[2Chr.1.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.30|<< 1 Chronicles 29:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.2|2 Chronicles 1:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.29.30|<< 1 Chronicles 29:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.1.2|2 Chronicles 1:2 >>]]</td></tr></table>
 
 

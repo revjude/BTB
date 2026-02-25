@@ -1,10 +1,59 @@
+---
+title: Luke 7:31
+type: Verse
+kjv: "And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?"
+bsb: "“To what, then, can I compare the men of this generation? What are they like?"
+jesus_said: "Whereunto then shall I liken the men of this generation? and to what are they like?"
+greek: "Εἶπεν δὲ ὁ κύριος, τίνι οὖν ὁμοιώσω τοὺς ἀνθρώπους τῆς γενεᾶς ταύτης καὶ τίνι εἰσὶν ὅμοιοι;"
+pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G3666]]"
+- "[[G0444]]"
+- "[[G1074]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3664]]"
+texts:
+- K
+- NKO
+---
+
 **Luke 7:31**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?
 <small><sub>**BSB:**</sub></small>
 “To what, then, can I compare the men of this generation? What are they like?
-<small><sub>**Literal:**</sub></small>
-said now <the> Lord To what therefore will I liken the men of the generation this And to what are they like?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.30|<< Luke 7:30]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.32|Luke 7:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος,]]  [[G5101\|τίνι]]  [[G3767\|οὖν]]  [[G3666\|ὁμοιώσω]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους]]  [[G3588\|τῆς]]  [[G1074\|γενεᾶς]]  [[G3778\|ταύτης]]  [[G2532\|καὶ]]  [[G5101\|τίνι]]  [[G1510\|εἰσὶν]]  [[G3664\|ὅμοιοι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.30|<< Luke 7:30]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.32|Luke 7:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

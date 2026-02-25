@@ -1,8 +1,76 @@
+---
+title: Judges 19:22
+type: Verse
+kjv: "Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him."
+bsb: "While they were enjoying themselves, suddenly the wicked men of the city surrounded the house. Pounding on the door, they said to the old man who owned the house, “Bring out the man who came to your house, so we can have relations with him!”"
+hebrew: "הֵמָּה֮ מֵיטִיבִ֣ים אֶת־ לִבָּם֒ וְהִנֵּה֩ אַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֣י בְנֵֽי־ בְלִיַּ֗עַל נָסַ֙בּוּ֙ אֶת־ הַבַּ֔יִת מִֽתְדַּפְּקִ֖ים עַל־ הַדָּ֑לֶת וַיֹּאמְר֗וּ אֶל־ הָ֠אִישׁ בַּ֣עַל הַבַּ֤יִת הַזָּקֵן֙ לֵאמֹ֔ר הוֹצֵ֗א אֶת־ הָאִ֛ישׁ אֲשֶׁר־ בָּ֥א אֶל־ בֵּיתְךָ֖ וְנֵדָעֶֽנּוּ׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SODOMY|SODOMY]]"
+strongs:
+- "[[H1992]]"
+- "[[H3190]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1121H]]"
+- "[[H1100G]]"
+- "[[H5437H]]"
+- "[[H1004B]]"
+- "[[H1849]]"
+- "[[H5921A]]"
+- "[[H1817C]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H0376G]]"
+- "[[H1167I]]"
+- "[[H2205H]]"
+- "[[H9005]]"
+- "[[H3318H]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9021]]"
+- "[[H3045]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:22**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Now] as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, [and] beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.
 <small><sub>**BSB:**</sub></small>
 While they were enjoying themselves, suddenly the wicked men of the city surrounded the house. Pounding on the door, they said to the old man who owned the house, “Bring out the man who came to your house, so we can have relations with him!”
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵמָּה֮]] [[H3190\|מֵיטִיבִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבָּ]][[H9028\|ם֒]] [[H9002\|וְ]][[H2009\|הִנֵּה֩]] [[H0582\|אַנְשֵׁ֨י]] [[H9009\|הָ]][[H5892B\|עִ֜יר]] [[H0582\|אַנְשֵׁ֣י]] [[H1121H\|בְנֵֽי]][[H9014\|־]] [[H1100G\|בְלִיַּ֗עַל]] [[H5437H\|נָסַ֙בּוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H1849\|מִֽתְדַּפְּקִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1817C\|דָּ֑לֶת]] [[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֠]][[H0376G\|אִישׁ]] [[H1167I\|בַּ֣עַל]] [[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H9009\|הַ]][[H2205H\|זָּקֵן֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3318H\|הוֹצֵ֗א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֛ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּיתְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H3045\|נֵדָעֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic GIBEAH|GIBEAH]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RAPE|RAPE]] • [[topic SODOMY|SODOMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.21|<< Judges 19:21]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.23|Judges 19:23 >>]]</td></tr></table>
 

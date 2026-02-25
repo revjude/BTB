@@ -1,8 +1,68 @@
+---
+title: Ezekiel 37:22
+type: Verse
+kjv: "And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:"
+bsb: "I will make them one nation in the land, on the mountains of Israel, and one king will rule over all of them. Then they will no longer be two nations and will never again be divided into two kingdoms."
+hebrew: "וְעָשִׂ֣יתִי אֹ֠תָם לְג֨וֹי אֶחָ֤ד בָּאָ֙רֶץ֙ בְּהָרֵ֣י יִשְׂרָאֵ֔ל וּמֶ֧לֶךְ אֶחָ֛ד יִֽהְיֶ֥ה לְכֻלָּ֖ם לְמֶ֑לֶךְ וְלֹ֤א יִֽהְיוּ עוֹד֙ לִשְׁנֵ֣י גוֹיִ֔ם וְלֹ֨א יֵחָ֥צוּ ע֛וֹד לִשְׁתֵּ֥י מַמְלָכ֖וֹת עֽוֹד׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H5750]]"
+- "[[H8147]]"
+- "[[H2673]]"
+- "[[H4467]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 37:22**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all:
 <small><sub>**BSB:**</sub></small>
 I will make them one nation in the land, on the mountains of Israel, and one king will rule over all of them. Then they will no longer be two nations and will never again be divided into two kingdoms.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֣יתִי]] [[H0853\|אֹ֠תָ]][[H9038\|ם]] [[H9005\|לְ]][[H1471A\|ג֨וֹי]] [[H0259\|אֶחָ֤ד]] [[H9003\|בָּ]][[H0776G\|אָ֙רֶץ֙]] [[H9003\|בְּ]][[H2022G\|הָרֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וּ]][[H4428G\|מֶ֧לֶךְ]] [[H0259\|אֶחָ֛ד]] [[H1961\|יִֽהְיֶ֥ה]] [[H9005\|לְ]][[H3605\|כֻלָּ֖]][[H9028\|ם]] [[H9005\|לְ]][[H4428G\|מֶ֑לֶךְ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H1961\|יִֽהְיוּ]] [[H5750\|עוֹד֙]] [[H9005\|לִ]][[H8147\|שְׁנֵ֣י]] [[H1471A\|גוֹיִ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֨א]] [[H2673\|יֵחָ֥צוּ]] [[H5750\|ע֛וֹד]] [[H9005\|לִ]][[H8147\|שְׁתֵּ֥י]] [[H4467\|מַמְלָכ֖וֹת]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.21|<< Ezekiel 37:21]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.23|Ezekiel 37:23 >>]]</td></tr></table>
 

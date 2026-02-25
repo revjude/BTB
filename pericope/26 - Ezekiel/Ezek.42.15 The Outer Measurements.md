@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Outer Measurements
+type: Pericope
 pericope: "[[Ezek.42.15 The Outer Measurements|The Outer Measurements]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 42
 book/chapter: "[[Ezek.42|Ezekiel 42]]"
-genre:
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 6
 verses:
 - "[[Ezek.42.15]]"
 - "[[Ezek.42.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ezek.42.20]]"
 ---
 
-[[Ezek.42|Ezekiel 42:15 - Ezekiel 42:20]]
+<small>[[Ezek.42|Ezekiel 42:15-20]]</small>
 *The Outer Measurements*
 
 [[Ezek.42.15|15]] Now when he had made an end of measuring the inner house, he brought me forth toward the gate whose prospect \[is\] toward the east, and measured it round about.

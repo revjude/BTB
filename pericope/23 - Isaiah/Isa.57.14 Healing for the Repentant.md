@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Healing for the Repentant
+type: Pericope
 pericope: "[[Isa.57.14 Healing for the Repentant|Healing for the Repentant]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 57
 book/chapter: "[[Isa.57|Isaiah 57]]"
-genre:
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.57.14]]"
 - "[[Isa.57.15]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.57.21]]"
 ---
 
-[[Isa.57|Isaiah 57:14 - Isaiah 57:21]]
+<small>[[Isa.57|Isaiah 57:14-21]]</small>
 *Healing for the Repentant*
 
 [[Isa.57.14|14]] And shall say, Cast ye up, cast ye up, prepare the way, take up the stumblingblock out of the way of my people.

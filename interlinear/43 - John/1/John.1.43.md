@@ -1,10 +1,60 @@
+---
+title: John 1:43
+type: Verse
+kjv: "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me."
+bsb: "The next day Jesus decided to set out for Galilee. Finding Philip, He told him, “Follow Me.”"
+jesus_said: "Follow me."
+greek: "Τῇ ἐπαύριον ἠθέλησεν ἐξελθεῖν εἰς τὴν Γαλιλαίαν καὶ εὑρίσκει Φίλιππον καὶ λέγει αὐτῷ ὁ Ἰησοῦς· ἀκολούθει μοι."
+pericope: "[[John.1.43 Jesus Calls Philip and Nathanael|Jesus Calls Philip and Nathanael]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1887]]"
+- "[[G2309]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G1056G]]"
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G5376G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G0190]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **John 1:43**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.
 <small><sub>**BSB:**</sub></small>
 The next day Jesus decided to set out for Galilee. Finding Philip, He told him, “Follow Me.”
-<small><sub>**Literal:**</sub></small>
-On the next day He desired to go forth into <the> Galilee And He finds Philip And says to him <the> Jesus; do follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.42|<< John 1:42]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.44|John 1:44 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῇ]]  [[G1887\|ἐπαύριον]]  [[G2309\|ἠθέλησεν]]  [[G1831\|ἐξελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1056G\|Γαλιλαίαν]]  [[G2532\|καὶ]]  [[G2147\|εὑρίσκει]]  [[G5376G\|Φίλιππον]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0190\|ἀκολούθει]]  [[G3165\|μοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CONVERTS|CONVERTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILIP|PHILIP]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.42|<< John 1:42]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.44|John 1:44 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

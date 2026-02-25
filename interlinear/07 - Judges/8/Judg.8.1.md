@@ -1,8 +1,73 @@
+---
+title: Judges 8:1
+type: Verse
+kjv: "And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply."
+bsb: "Then the men of Ephraim said to Gideon, “Why have you done this to us? Why did you fail to call us when you went to fight against Midian?” And they contended with him violently."
+hebrew: "וַיֹּאמְר֨וּ אֵלָ֜יו אִ֣ישׁ אֶפְרַ֗יִם מָֽה־ הַדָּבָ֤ר הַזֶּה֙ עָשִׂ֣יתָ לָּ֔נוּ לְבִלְתִּי֙ קְרֹ֣אות לָ֔נוּ כִּ֥י הָלַ֖כְתָּ לְהִלָּחֵ֣ם בְּמִדְיָ֑ן וַיְרִיב֥וּן אִתּ֖וֹ בְּחָזְקָֽה׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0376G]]"
+- "[[H0669G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H1115]]"
+- "[[H7121G]]"
+- "[[H3588A]]"
+- "[[H1980G]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H4080H]]"
+- "[[H7378]]"
+- "[[H9013]]"
+- "[[H0854]]"
+- "[[H2394]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:1**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Ephraim said unto him, Why hast thou served us thus, that thou calledst us not, when thou wentest to fight with the Midianites? And they did chide with him sharply.
 <small><sub>**BSB:**</sub></small>
 Then the men of Ephraim said to Gideon, “Why have you done this to us? Why did you fail to call us when you went to fight against Midian?” And they contended with him violently.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H0376G\|אִ֣ישׁ]] [[H0669G\|אֶפְרַ֗יִם]] [[H4100\|מָֽה]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֤ר]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H6213A\|עָשִׂ֣יתָ]] [[H9005\|לָּ֔]][[H9035\|נוּ]] [[H9005\|לְ]][[H1115\|בִלְתִּי֙]] [[H7121G\|קְרֹ֣אות]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H3588A\|כִּ֥י]] [[H1980G\|הָלַ֖כְתָּ]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֣ם]] [[H9003\|בְּ]][[H4080H\|מִדְיָ֑ן]] [[H9001\|וַ]][[H7378\|יְרִיב֥וּ]][[H9013\|ן]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H2394\|חָזְקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic EPHRAIM|EPHRAIM]] • [[topic FLATTERY|FLATTERY]] • [[topic GIDEON|GIDEON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic JEALOUSY|JEALOUSY]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.25|<< Judges 7:25]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.2|Judges 8:2 >>]]</td></tr></table>
 

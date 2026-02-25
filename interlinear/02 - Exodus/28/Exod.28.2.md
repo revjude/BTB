@@ -1,8 +1,58 @@
+---
+title: Exodus 28:2
+type: Verse
+kjv: "And thou shalt make holy garments for Aaron thy brother for glory and for beauty."
+bsb: "Make holy garments for your brother Aaron, to give him glory and splendor."
+hebrew: "וְעָשִׂ֥יתָ בִגְדֵי־ קֹ֖דֶשׁ לְאַהֲרֹ֣ן אָחִ֑יךָ לְכָב֖וֹד וּלְתִפְאָֽרֶת׃"
+pericope: "[[Exod.28.1 Garments for the Priests|Garments for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0899B]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H3519]]"
+- "[[H9002]]"
+- "[[H8597]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:2**<big><big>[[Exod.28.1 Garments for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make holy garments for Aaron thy brother for glory and for beauty.
 <small><sub>**BSB:**</sub></small>
 Make holy garments for your brother Aaron, to give him glory and splendor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֥יתָ]] [[H0899B\|בִגְדֵי]][[H9014\|־]] [[H6944G\|קֹ֖דֶשׁ]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֣ן]] [[H0251G\|אָחִ֑י]][[H9021\|ךָ]] [[H9005\|לְ]][[H3519\|כָב֖וֹד]] [[H9002\|וּ]][[H9005\|לְ]][[H8597\|תִפְאָֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.1|<< Exodus 28:1]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.3|Exodus 28:3 >>]]</td></tr></table>
 

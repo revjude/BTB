@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Why Have You Rejected Us Forever？
+type: Pericope
 pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 74
 book/chapter: "[[Ps.74|Psalm 74]]"
-genre:
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 24
 verses:
 - "[[Ps.74.0]]"
 - "[[Ps.74.1]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Ps.74.23]]"
 ---
 
-[[Ps.74|Psalm 74:1 - Psalm 74:23]]
+<small>[[Ps.74|Psalm 74:1-23]]</small>
 *Why Have You Rejected Us Forever？*
 
 [[Ps.74.0|0]] Maschil of Asaph.

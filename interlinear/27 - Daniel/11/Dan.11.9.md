@@ -1,8 +1,50 @@
+---
+title: Daniel 11:9
+type: Verse
+kjv: "So the king of the south shall come into his kingdom, and shall return into his own land."
+bsb: "who will invade the realm of the king of the South and then return to his own land."
+hebrew: "וּבָ֗א בְּמַלְכוּת֙ מֶ֣לֶךְ הַנֶּ֔גֶב וְשָׁ֖ב אֶל־ אַדְמָתֽוֹ׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H4438]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H5045H]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0127G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:9**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the king of the south shall come into [his] kingdom, and shall return into his own land.
 <small><sub>**BSB:**</sub></small>
 who will invade the realm of the king of the South and then return to his own land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֗א]] [[H9003\|בְּ]][[H4438\|מַלְכוּת֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H5045H\|נֶּ֔גֶב]] [[H9001\|וְ]][[H7725G\|שָׁ֖ב]] [[H0413\|אֶל]][[H9014\|־]] [[H0127G\|אַדְמָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.8|<< Daniel 11:8]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.10|Daniel 11:10 >>]]</td></tr></table>
 

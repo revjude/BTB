@@ -1,8 +1,71 @@
+---
+title: 1 Kings 7:39
+type: Verse
+kjv: "And he put five bases on the right side of the house, and five on the left side of the house: and he set the sea on the right side of the house eastward over against the south."
+bsb: "He set five stands on the south side of the temple and five on the north, and he put the Sea on the south side, at the southeast corner of the temple."
+hebrew: "וַיִּתֵּן֙ אֶת־ הַמְּכֹנ֔וֹת חָמֵ֞שׁ עַל־ כֶּ֤תֶף הַבַּ֙יִת֙ מִיָּמִ֔ין וְחָמֵ֛שׁ עַל־ כֶּ֥תֶף הַבַּ֖יִת מִשְּׂמֹאל֑וֹ וְאֶת־ הַיָּ֗ם נָתַ֞ן מִכֶּ֨תֶף הַבַּ֧יִת הַיְמָנִ֛ית קֵ֖דְמָה מִמּ֥וּל נֶֽגֶב׃ ס"
+pericope: "[[1Kgs.7.38 The Ten Bronze Basins|The Ten Bronze Basins]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4350]]"
+- "[[H2568]]"
+- "[[H5921A]]"
+- "[[H3802]]"
+- "[[H1004B]]"
+- "[[H9006]]"
+- "[[H3225H]]"
+- "[[H9002]]"
+- "[[H8040G]]"
+- "[[H9023]]"
+- "[[H3220G]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H4136]]"
+- "[[H5045H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Kings 7:39**<big><big>[[1Kgs.7.38 The Ten Bronze Basins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put five bases on the right side of the house, and five on the left side of the house: and he set the sea on the right side of the house eastward over against the south.
 <small><sub>**BSB:**</sub></small>
 He set five stands on the south side of the temple and five on the north, and he put the Sea on the south side, at the southeast corner of the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414H\|יִּתֵּן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4350\|מְּכֹנ֔וֹת]] [[H2568\|חָמֵ֞שׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H3802\|כֶּ֤תֶף]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H9006\|מִ]][[H3225H\|יָּמִ֔ין]] [[H9002\|וְ]][[H2568\|חָמֵ֛שׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H3802\|כֶּ֥תֶף]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H9006\|מִ]][[H8040G\|שְּׂמֹאל֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֗ם]] [[H5414H\|נָתַ֞ן]] [[H9006\|מִ]][[H3802\|כֶּ֨תֶף]] [[H9009\|הַ]][[H1004B\|בַּ֧יִת]] [[H9009\|הַ]][[H3225H\|יְמָנִ֛ית]] [[H6924B\|קֵ֖דְמָ]][[H9011\|ה]] [[H9006\|מִ]][[H4136\|מּ֥וּל]] [[H5045H\|נֶֽגֶב]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.38|<< 1 Kings 7:38]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.40|1 Kings 7:40 >>]]</td></tr></table>
 
@@ -29,7 +92,7 @@ He set five stands on the south side of the temple and five on the north, and he
 | \<the> south  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3225H\|יְמָנִ֛ית]]&#8207; </big>**| ha<small><sup>[[HTd]]</sup></small> y.ma.Nit<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | east -ward  |**<big>&#8207;[[H6924B\|קֵ֖דְמָ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Ke.de.ma<small><sup>[[HNcmsa]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from in front of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4136\|מּ֥וּל]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Mul<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] south  |**<big>&#8207;[[H5045H\|נֶֽגֶב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ne.gev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] south  |**<big>&#8207;[[H5045H\|נֶֽגֶב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ne.gev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.38|<< 1 Kings 7:38]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.40|1 Kings 7:40 >>]]</td></tr></table>
 
 

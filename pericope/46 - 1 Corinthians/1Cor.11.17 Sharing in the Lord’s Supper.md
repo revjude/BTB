@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sharing in the Lord’s Supper
+type: Pericope
 pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 11
 book/chapter: "[[1Cor.11|1 Corinthians 11]]"
-genre:
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 18
 verses:
 - "[[1Cor.11.17]]"
 - "[[1Cor.11.18]]"
@@ -35,7 +42,7 @@ verses:
 - "[[1Cor.11.34]]"
 ---
 
-[[1Cor.11|1 Corinthians 11:17 - 1 Corinthians 11:34]]
+<small>[[1Cor.11|1 Corinthians 11:17-34]]</small>
 *Sharing in the Lord’s Supper*
 
 [[1Cor.11.17|17]] Now in this that I declare \[unto you\] I praise \[you\] not, that ye come together not for the better, but for the worse.

@@ -1,8 +1,68 @@
+---
+title: Leviticus 21:7
+type: Verse
+kjv: "They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God."
+bsb: "A priest must not marry a woman defiled by prostitution or divorced by her husband, for the priest is holy to his God."
+hebrew: "אִשָּׁ֨ה זֹנָ֤ה וַחֲלָלָה֙ לֹ֣א יִקָּ֔חוּ וְאִשָּׁ֛ה גְּרוּשָׁ֥ה מֵאִישָׁ֖הּ לֹ֣א יִקָּ֑חוּ כִּֽי־ קָדֹ֥שׁ ה֖וּא לֵאלֹהָֽיו׃"
+pericope: "[[Lev.21.1 Holiness Required of Priests|Holiness Required of Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H0802G]]"
+- "[[H2181]]"
+- "[[H9002]]"
+- "[[H2491B]]"
+- "[[H3808]]"
+- "[[H3947I]]"
+- "[[H1644H]]"
+- "[[H9006]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6918G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 21:7**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not take a wife [that is] a whore, or profane; neither shall they take a woman put away from her husband: for he [is] holy unto his God.
 <small><sub>**BSB:**</sub></small>
 A priest must not marry a woman defiled by prostitution or divorced by her husband, for the priest is holy to his God.
+<small><sub>**Hebrew:**</sub></small>
+[[H0802G\|אִשָּׁ֨ה]] [[H2181\|זֹנָ֤ה]] [[H9002\|וַ]][[H2491B\|חֲלָלָה֙]] [[H3808\|לֹ֣א]] [[H3947I\|יִקָּ֔חוּ]] [[H9002\|וְ]][[H0802G\|אִשָּׁ֛ה]] [[H1644H\|גְּרוּשָׁ֥ה]] [[H9006\|מֵ]][[H0376H\|אִישָׁ֖]][[H9024\|הּ]] [[H3808\|לֹ֣א]] [[H3947I\|יִקָּ֑חוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6918G\|קָדֹ֥שׁ]] [[H1931\|ה֖וּא]] [[H9005\|לֵ]][[H0430G\|אלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARRIAGE|MARRIAGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOURNING|MOURNING]] • [[topic PRIEST|PRIEST]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.6|<< Leviticus 21:6]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.8|Leviticus 21:8 >>]]</td></tr></table>
 

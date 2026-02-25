@@ -1,8 +1,73 @@
+---
+title: Ezra 5:11
+type: Verse
+kjv: "And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up."
+bsb: "And this is the answer they returned: “We are servants of the God of heaven and earth, and we are rebuilding the temple that was built many years ago, which a great king of Israel built and completed."
+aramaic: "וּכְנֵ֥מָא פִתְגָמָ֖א הֲתִיב֣וּנָא לְמֵמַ֑ר אֲנַ֣חְנָא הִמּ֡וֹ עַבְדוֹהִי֩ דִֽי־ אֱלָ֨הּ שְׁמַיָּ֜א וְאַרְעָ֗א וּבָנַ֤יִן בַּיְתָא֙ דִּֽי־ הֲוָ֨א בְנֵ֜ה מִקַּדְמַ֤ת דְּנָה֙ שְׁנִ֣ין שַׂגִּיאָ֔ן וּמֶ֤לֶךְ לְיִשְׂרָאֵל֙ רַ֔ב בְּנָ֖הִי וְשַׁכְלְלֵֽהּ׃"
+pericope: "[[Ezra.5.6 Tattenai’s Letter to Darius|Tattenai’s Letter to Darius]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 5
+book/chapter: "[[Ezra.5|Ezra 5]]"
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3660]]"
+- "[[H6600]]"
+- "[[H9010]]"
+- "[[H8421I]]"
+- "[[H9035]]"
+- "[[H9005]]"
+- "[[H0560]]"
+- "[[H0586]]"
+- "[[H1994]]"
+- "[[H5649]]"
+- "[[H9023]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H0426]]"
+- "[[H8065]]"
+- "[[H0772I]]"
+- "[[H1124]]"
+- "[[H1005]]"
+- "[[H1934]]"
+- "[[H9006]]"
+- "[[H6928]]"
+- "[[H1836]]"
+- "[[H8140]]"
+- "[[H7690]]"
+- "[[H4430]]"
+- "[[H3479]]"
+- "[[H7229]]"
+- "[[H9033]]"
+- "[[H3635A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 5:11**<big><big>[[Ezra.5.6 Tattenai’s Letter to Darius|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up.
 <small><sub>**BSB:**</sub></small>
 And this is the answer they returned: “We are servants of the God of heaven and earth, and we are rebuilding the temple that was built many years ago, which a great king of Israel built and completed.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H3660\|כְנֵ֥מָא]] [[H6600\|פִתְגָמָ֖]][[H9010\|א]] [[H8421I\|הֲתִיב֣וּ]][[H9035\|נָא]] [[H9005\|לְ]][[H0560\|מֵמַ֑ר]] [[H0586\|אֲנַ֣חְנָא]] [[H1994\|הִמּ֡וֹ]] [[H5649\|עַבְדוֹ]][[H9023\|הִי֩]] [[H1768\|דִֽי]][[H9014\|־]] [[H0426\|אֱלָ֨הּ]] [[H8065\|שְׁמַיָּ֜]][[H9010\|א]] [[H9002\|וְ]][[H0772I\|אַרְעָ֗]][[H9010\|א]] [[H9002\|וּ]][[H1124\|בָנַ֤יִן]] [[H1005\|בַּיְתָ]][[H9010\|א֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1934\|הֲוָ֨א]] [[H1124\|בְנֵ֜ה]] [[H9006\|מִ]][[H6928\|קַּדְמַ֤ת]] [[H1836\|דְּנָה֙]] [[H8140\|שְׁנִ֣ין]] [[H7690\|שַׂגִּיאָ֔ן]] [[H9002\|וּ]][[H4430\|מֶ֤לֶךְ]] [[H9005\|לְ]][[H3479\|יִשְׂרָאֵל֙]] [[H7229\|רַ֔ב]] [[H1124\|בְּנָ֖]][[H9033\|הִי]] [[H9002\|וְ]][[H3635A\|שַׁכְלְלֵֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.5.10|<< Ezra 5:10]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.12|Ezra 5:12 >>]]</td></tr></table>
 

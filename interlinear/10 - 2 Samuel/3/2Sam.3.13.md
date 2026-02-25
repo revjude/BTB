@@ -1,8 +1,77 @@
+---
+title: 2 Samuel 3:13
+type: Verse
+kjv: "And he said, Well; I will make a league with thee: but one thing I require of thee, that is, Thou shalt not see my face, except thou first bring Michal Saul’s daughter, when thou comest to see my face."
+bsb: "“Good,” replied David, “I will make a covenant with you. But there is one thing I require of you: Do not appear before me unless you bring Saul’s daughter Michal when you come to see me.”"
+hebrew: "וַיֹּ֣אמֶר ט֔וֹב אֲנִ֕י אֶכְרֹ֥ת אִתְּךָ֖ בְּרִ֑ית אַ֣ךְ דָּבָ֣ר אֶחָ֡ד אָנֹכִי֩ שֹׁאֵ֨ל מֵאִתְּךָ֤ לֵאמֹר֙ לֹא־ תִרְאֶ֣ה אֶת־ פָּנַ֔י כִּ֣י׀ אִם־ לִפְנֵ֣י הֱבִיאֲךָ֗ אֵ֚ת מִיכַ֣ל בַּת־ שָׁא֔וּל בְּבֹאֲךָ֖ לִרְא֥וֹת אֶת־ פָּנָֽי׃ ס"
+pericope: "[[2Sam.3.6 Abner Joins David|Abner Joins David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2896A]]"
+- "[[H0589]]"
+- "[[H3772H]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H1285]]"
+- "[[H0389]]"
+- "[[H1697I]]"
+- "[[H0259]]"
+- "[[H0595]]"
+- "[[H7592]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H0518B]]"
+- "[[H0935P]]"
+- "[[H4324G]]"
+- "[[H1323G]]"
+- "[[H7586G]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9041]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 3:13**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Well; I will make a league with thee: but one thing I require of thee, that is, Thou shalt not see my face, except thou first bring Michal Saul’s daughter, when thou comest to see my face.
 <small><sub>**BSB:**</sub></small>
 “Good,” replied David, “I will make a covenant with you. But there is one thing I require of you: Do not appear before me unless you bring Saul’s daughter Michal when you come to see me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H2896A\|ט֔וֹב]] [[H0589\|אֲנִ֕י]] [[H3772H\|אֶכְרֹ֥ת]] [[H0854\|אִתְּ]][[H9031\|ךָ֖]] [[H1285\|בְּרִ֑ית]] [[H0389\|אַ֣ךְ]] [[H1697I\|דָּבָ֣ר]] [[H0259\|אֶחָ֡ד]] [[H0595\|אָנֹכִי֩]] [[H7592\|שֹׁאֵ֨ל]] [[H9006\|מֵ]][[H0854\|אִתְּ]][[H9031\|ךָ֤]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H3808\|לֹא]][[H9014\|־]] [[H7200G\|תִרְאֶ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פָּנַ֔]][[H9020\|י]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H0518B\|אִם]][[H9014\|־]] [[H9005\|לִ]][[H6440H\|פְנֵ֣י]] [[H0935P\|הֱבִיאֲ]][[H9031\|ךָ֗]] [[H0853\|אֵ֚ת]] [[H4324G\|מִיכַ֣ל]] [[H1323G\|בַּת]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9003\|בְּ]][[H0935G\|בֹאֲ]][[H9041\|ךָ֖]] [[H9005\|לִ]][[H7200G\|רְא֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פָּנָֽ]][[H9020\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic MICHAL|MICHAL]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.12|<< 2 Samuel 3:12]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.14|2 Samuel 3:14 >>]]</td></tr></table>
 
@@ -36,7 +105,7 @@ And he said, Well; I will make a league with thee: but one thing I require of th
 | when coming you  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0935G\|בֹאֲ]]&#8207;&#8207;[[H9041\|ךָ֖]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> vo.'a.<small><sup>[[HVqcc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to see  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7200G\|רְא֥וֹת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> r.'ot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| face my  |**<big>&#8207;[[H6440H\|פָּנָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| face my  |**<big>&#8207;[[H6440H\|פָּנָֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pa.Na<small><sup>[[HNcmpc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.12|<< 2 Samuel 3:12]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.14|2 Samuel 3:14 >>]]</td></tr></table>
 
 

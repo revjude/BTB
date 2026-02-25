@@ -1,10 +1,53 @@
+---
+title: Matthew 18:11
+type: Verse
+kjv: "For the Son of man is come to save that which was lost."
+bsb: ""
+jesus_said: "For the Son of man is come to save that which was lost."
+greek: "ἦλθεν γὰρ ὁ υἱὸς τοῦ ἀνθρώπου σῶσαι τὸ ἀπολωλός.¶"
+pericope: "[[Matt.18.10 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2064]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G4982]]"
+- "[[G0622]]"
+texts:
+- KO
+- K
+---
+
 **Matthew 18:11**<big><big>[[Matt.18.10 The Parable of the Lost Sheep|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Son of man is come to save that which was lost.
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-came for <the> son <the> of man to save those already perishing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.10|<< Matthew 18:10]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.12|Matthew 18:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἦλθεν]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G4982\|σῶσαι]]  [[G3588\|τὸ]]  [[G0622\|ἀπολωλός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic SHEEP|SHEEP]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.10|<< Matthew 18:10]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.12|Matthew 18:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

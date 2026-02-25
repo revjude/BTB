@@ -1,10 +1,64 @@
+---
+title: Revelation 2:16
+type: Verse
+kjv: "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth."
+bsb: "Therefore repent! Otherwise I will come to you shortly and wage war against them with the sword of My mouth."
+jesus_said: "Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth."
+greek: "μετανόησον οὖν· εἰ δὲ μή, ἔρχομαί σοι ταχὺ καὶ πολεμήσω μετ᾽ αὐτῶν ἐν τῇ ῥομφαίᾳ τοῦ στόματός μου."
+pericope: "[[Rev.2.12 To the Church in Pergamum|To the Church in Pergamum]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic PERGAMOS|PERGAMOS]]"
+strongs:
+- "[[G3340]]"
+- "[[G3767]]"
+- "[[G1487L]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G2064]]"
+- "[[G4771]]"
+- "[[G5035]]"
+- "[[G2532]]"
+- "[[G4170]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4501]]"
+- "[[G4750]]"
+- "[[G3165]]"
+texts:
+- NKO
+- NO
+---
+
 **Revelation 2:16**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Repent; or else I will come unto thee quickly, and will fight against them with the sword of my mouth.
 <small><sub>**BSB:**</sub></small>
 Therefore repent! Otherwise I will come to you shortly and wage war against them with the sword of My mouth.
-<small><sub>**Literal:**</sub></small>
-do repent therefore! lest then except I am coming to you quickly and I will make war against them with the sword of the mouth of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.15|<< Revelation 2:15]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.17|Revelation 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3340\|μετανόησον]]  [[G3767\|οὖν·]]  [[G1487L\|εἰ]]  [[G1161\|δὲ]]  [[G3361\|μή,]]  [[G2064\|ἔρχομαί]]  [[G4771\|σοι]]  [[G5035\|ταχὺ]]  [[G2532\|καὶ]]  [[G4170\|πολεμήσω]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4501\|ῥομφαίᾳ]]  [[G3588\|τοῦ]]  [[G4750\|στόματός]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic PERGAMOS|PERGAMOS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.15|<< Revelation 2:15]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.17|Revelation 2:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

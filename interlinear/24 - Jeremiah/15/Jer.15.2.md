@@ -1,8 +1,63 @@
+---
+title: Jeremiah 15:2
+type: Verse
+kjv: "And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them, Thus saith the LORD; Such as are for death, to death; and such as are for the sword, to the sword; and such as are for the famine, to the famine; and such as are for the captivity, to the captivity."
+bsb: "If they ask you, ‘Where shall we go?’ you are to tell them that this is what the LORD says: ‘Those destined for death, to death; those destined for the sword, to the sword; those destined for famine, to famine; and those destined for captivity, to captivity.’"
+hebrew: "וְהָיָ֛ה כִּֽי־ יֹאמְר֥וּ אֵלֶ֖יךָ אָ֣נָה נֵצֵ֑א וְאָמַרְתָּ֨ אֲלֵיהֶ֜ם כֹּֽה־ אָמַ֣ר יְהוָ֗ה אֲשֶׁ֨ר לַמָּ֤וֶת לַמָּ֙וֶת֙ וַאֲשֶׁ֤ר לַחֶ֙רֶב֙ לַחֶ֔רֶב וַאֲשֶׁ֤ר לָֽרָעָב֙ לָֽרָעָ֔ב וַאֲשֶׁ֥ר לַשְּׁבִ֖י לַשֶּֽׁבִי׃"
+pericope: "[[Jer.15.1 Judgment to Continue|Judgment to Continue]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0575]]"
+- "[[H3318G]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H4194]]"
+- "[[H9002]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H7628A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 15:2**<big><big>[[Jer.15.1 Judgment to Continue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them, Thus saith the LORD; Such as [are] for death, to death; and such as [are] for the sword, to the sword; and such as [are] for the famine, to the famine; and such as [are] for the captivity, to the captivity.
 <small><sub>**BSB:**</sub></small>
 If they ask you, ‘Where shall we go?’ you are to tell them that this is what the LORD says: ‘Those destined for death, to death; those destined for the sword, to the sword; those destined for famine, to famine; and those destined for captivity, to captivity.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֛ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|יֹאמְר֥וּ]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H0575\|אָ֣נָה]] [[H3318G\|נֵצֵ֑א]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֨]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H9005\|לַ]][[H4194\|מָּ֤וֶת]] [[H9005\|לַ]][[H4194\|מָּ֙וֶת֙]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֤ר]] [[H9005\|לַ]][[H2719\|חֶ֙רֶב֙]] [[H9005\|לַ]][[H2719\|חֶ֔רֶב]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֤ר]] [[H9005\|לָֽ]][[H7458\|רָעָב֙]] [[H9005\|לָֽ]][[H7458\|רָעָ֔ב]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לַ]][[H7628A\|שְּׁבִ֖י]] [[H9005\|לַ]][[H7628A\|שֶּֽׁבִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.1|<< Jeremiah 15:1]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.3|Jeremiah 15:3 >>]]</td></tr></table>
 

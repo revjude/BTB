@@ -1,8 +1,80 @@
+---
+title: Exodus 19:9
+type: Verse
+kjv: "And the LORD said unto Moses, Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and believe thee for ever. And Moses told the words of the people unto the LORD."
+bsb: "The LORD said to Moses, “Behold, I will come to you in a dense cloud, so that the people will hear when I speak with you, and they will always put their trust in you.” And Moses relayed to the LORD what the people had said."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה הִנֵּ֨ה אָנֹכִ֜י בָּ֣א אֵלֶיךָ֮ בְּעַ֣ב הֶֽעָנָן֒ בַּעֲב֞וּר יִשְׁמַ֤ע הָעָם֙ בְּדַבְּרִ֣י עִמָּ֔ךְ וְגַם־ בְּךָ֖ יַאֲמִ֣ינוּ לְעוֹלָ֑ם וַיַּגֵּ֥ד מֹשֶׁ֛ה אֶת־ דִּבְרֵ֥י הָעָ֖ם אֶל־ יְהוָֽה׃"
+pericope: "[[Exod.19.1 Israel at Mount Sinai|Israel at Mount Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H0935G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H5645]]"
+- "[[H9009]]"
+- "[[H6051]]"
+- "[[H5668]]"
+- "[[H8085G]]"
+- "[[H5971A]]"
+- "[[H1696G]]"
+- "[[H9040]]"
+- "[[H5973A]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0539]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H5046]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:9**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Lo, I come unto thee in a thick cloud, that the people may hear when I speak with thee, and believe thee for ever. And Moses told the words of the people unto the LORD.
 <small><sub>**BSB:**</sub></small>
 The LORD said to Moses, “Behold, I will come to you in a dense cloud, so that the people will hear when I speak with you, and they will always put their trust in you.” And Moses relayed to the LORD what the people had said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֜י]] [[H0935G\|בָּ֣א]] [[H0413\|אֵלֶי]][[H9031\|ךָ֮]] [[H9003\|בְּ]][[H5645\|עַ֣ב]] [[H9009\|הֶֽ]][[H6051\|עָנָן֒]] [[H9003\|בַּ]][[H5668\|עֲב֞וּר]] [[H8085G\|יִשְׁמַ֤ע]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9003\|בְּ]][[H1696G\|דַבְּרִ֣]][[H9040\|י]] [[H5973A\|עִמָּ֔]][[H9031\|ךְ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9003\|בְּ]][[H9031\|ךָ֖]] [[H0539\|יַאֲמִ֣ינוּ]] [[H9005\|לְ]][[H5769G\|עוֹלָ֑ם]] [[H9001\|וַ]][[H5046\|יַּגֵּ֥ד]] [[H4872\|מֹשֶׁ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic PROPHETS|PROPHETS]] • [[topic SINAI|SINAI]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.8|<< Exodus 19:8]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.10|Exodus 19:10 >>]]</td></tr></table>
 

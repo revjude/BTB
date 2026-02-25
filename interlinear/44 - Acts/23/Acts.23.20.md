@@ -1,10 +1,64 @@
+---
+title: Acts 23:20
+type: Verse
+kjv: "And he said, The Jews have agreed to desire thee that thou wouldest bring down Paul to morrow into the council, as though they would inquire somewhat of him more perfectly."
+bsb: "He answered, “The Jews have agreed to ask you to bring Paul to the Sanhedrin tomorrow on the pretext of acquiring more information about him."
+greek: "εἶπεν δὲ ὅτι οἱ Ἰουδαῖοι συνέθεντο τοῦ ἐρωτῆσαί σε ὅπως αὔριον τὸν Παῦλον καταγάγῃς εἰς τὸ συνέδριον ὡς μέλλον τι ἀκριβέστερον πυνθάνεσθαι περὶ αὐτοῦ."
+pericope: "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G4934]]"
+- "[[G2065]]"
+- "[[G4771]]"
+- "[[G3704]]"
+- "[[G0839]]"
+- "[[G3972G]]"
+- "[[G2609]]"
+- "[[G1519]]"
+- "[[G4892]]"
+- "[[G5613]]"
+- "[[G3195]]"
+- "[[G5100]]"
+- "[[G0197]]"
+- "[[G4441]]"
+- "[[G4012]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(K)(O)
+---
+
 **Acts 23:20**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, The Jews have agreed to desire thee that thou wouldest bring down Paul to morrow into the council, as though they would inquire somewhat of him more perfectly.
 <small><sub>**BSB:**</sub></small>
 He answered, “The Jews have agreed to ask you to bring Paul to the Sanhedrin tomorrow on the pretext of acquiring more information about him.
-<small><sub>**Literal:**</sub></small>
-He said then that The Jews have agreed <the> to ask you that tomorrow <the> Paul you may bring down into the Council as it being about something more earnestly to inquire about him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.19|<< Acts 23:19]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.21|Acts 23:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G4934\|συνέθεντο]]  [[G3588\|τοῦ]]  [[G2065\|ἐρωτῆσαί]]  [[G4771\|σε]]  [[G3704\|ὅπως]]  [[G0839\|αὔριον]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον]]  [[G2609\|καταγάγῃς]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4892\|συνέδριον]]  [[G5613\|ὡς]]  [[G3195\|μέλλον]]  [[G5100\|τι]]  [[G0197\|ἀκριβέστερον]]  [[G4441\|πυνθάνεσθαι]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.19|<< Acts 23:19]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.21|Acts 23:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

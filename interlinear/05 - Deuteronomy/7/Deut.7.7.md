@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 7:7
+type: Verse
+kjv: "The LORD did not set his love upon you, nor choose you, because ye were more in number than any people; for ye were the fewest of all people:"
+bsb: "The LORD did not set His affection on you and choose you because you were more numerous than the other peoples, for you were the fewest of all peoples."
+hebrew: "לֹ֣א מֵֽרֻבְּכֶ֞ם מִכָּל־ הָֽעַמִּ֗ים חָשַׁ֧ק יְהוָ֛ה בָּכֶ֖ם וַיִּבְחַ֣ר בָּכֶ֑ם כִּֽי־ אַתֶּ֥ם הַמְעַ֖ט מִכָּל־ הָעַמִּֽים׃"
+pericope: "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H7231]]"
+- "[[H9046]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2836A]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H3588A]]"
+- "[[H0859D]]"
+- "[[H4592]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:7**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD did not set his love upon you, nor choose you, because ye were more in number than any people; for ye [were] the fewest of all people:
 <small><sub>**BSB:**</sub></small>
 The LORD did not set His affection on you and choose you because you were more numerous than the other peoples, for you were the fewest of all peoples.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H9006\|מֵֽ]][[H7231\|רֻבְּ]][[H9046\|כֶ֞ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֗ים]] [[H2836A\|חָשַׁ֧ק]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בָּ]][[H9036\|כֶ֖ם]] [[H9001\|וַ]][[H0977\|יִּבְחַ֣ר]] [[H9003\|בָּ]][[H9036\|כֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H9009\|הַ]][[H4592\|מְעַ֖ט]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic PREDESTINATION|PREDESTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.6|<< Deuteronomy 7:6]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.8|Deuteronomy 7:8 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: Genesis 42:13
+type: Verse
+kjv: "And they said, Thy servants are twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not."
+bsb: "But they answered, “Your servants are twelve brothers, the sons of one man in the land of Canaan. The youngest is now with our father, and one is no more.”"
+hebrew: "וַיֹּאמְר֗וּ שְׁנֵ֣ים עָשָׂר֩ עֲבָדֶ֨יךָ אַחִ֧ים׀ אֲנַ֛חְנוּ בְּנֵ֥י אִישׁ־ אֶחָ֖ד בְּאֶ֣רֶץ כְּנָ֑עַן וְהִנֵּ֨ה הַקָּטֹ֤ן אֶת־ אָבִ֙ינוּ֙ הַיּ֔וֹם וְהָאֶחָ֖ד אֵינֶֽנּוּ׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0251G]]"
+- "[[H9015]]"
+- "[[H0587]]"
+- "[[H1121A]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H6996H]]"
+- "[[H0854]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H3117L]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:13**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, Thy servants [are] twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest [is] this day with our father, and one [is] not.
 <small><sub>**BSB:**</sub></small>
 But they answered, “Your servants are twelve brothers, the sons of one man in the land of Canaan. The youngest is now with our father, and one is no more.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H8147\|שְׁנֵ֣ים]] [[H6240\|עָשָׂר֩]] [[H5650\|עֲבָדֶ֨י]][[H9021\|ךָ]] [[H0251G\|אַחִ֧ים]][[H9015\|׀]] [[H0587\|אֲנַ֛חְנוּ]] [[H1121A\|בְּנֵ֥י]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H0259\|אֶחָ֖ד]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H9009\|הַ]][[H6996H\|קָּטֹ֤ן]] [[H0854\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֙י]][[H9025\|נוּ֙]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H9002\|וְ]][[H9009\|הָ]][[H0259\|אֶחָ֖ד]] [[H0369\|אֵינֶֽ]][[H9043\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic COMMERCE|COMMERCE]] • [[topic DISSEMBLING|DISSEMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.12|<< Genesis 42:12]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.14|Genesis 42:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

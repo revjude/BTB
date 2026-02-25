@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Will Watch My Ways
+type: Pericope
 pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 39
 book/chapter: "[[Ps.39|Psalm 39]]"
-genre:
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 14
 verses:
 - "[[Ps.39.0]]"
 - "[[Ps.39.1]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ps.39.13]]"
 ---
 
-[[Ps.39|Psalm 39:1 - Psalm 39:13]]
+<small>[[Ps.39|Psalm 39:1-13]]</small>
 *I Will Watch My Ways*
 
 [[Ps.39.0|0]] To the chief Musician, \[even\] to Jeduthun, A Psalm of David.

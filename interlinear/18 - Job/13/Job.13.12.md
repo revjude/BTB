@@ -1,8 +1,51 @@
+---
+title: Job 13:12
+type: Verse
+kjv: "Your remembrances are like unto ashes, your bodies to bodies of clay."
+bsb: "Your maxims are proverbs of ashes; your defenses are defenses of clay."
+hebrew: "זִֽ֭כְרֹנֵיכֶם מִשְׁלֵי־ אֵ֑פֶר לְגַבֵּי־ חֹ֝֗מֶר גַּבֵּיכֶֽם׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic LIFE|LIFE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H2146]]"
+- "[[H9026]]"
+- "[[H4912]]"
+- "[[H9014]]"
+- "[[H0665]]"
+- "[[H9005]]"
+- "[[H1354]]"
+- "[[H2563A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:12**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your remembrances [are] like unto ashes, your bodies to bodies of clay.
 <small><sub>**BSB:**</sub></small>
 Your maxims are proverbs of ashes; your defenses are defenses of clay.
+<small><sub>**Hebrew:**</sub></small>
+[[H2146\|זִֽ֭כְרֹנֵי]][[H9026\|כֶם]] [[H4912\|מִשְׁלֵי]][[H9014\|־]] [[H0665\|אֵ֑פֶר]] [[H9005\|לְ]][[H1354\|גַבֵּי]][[H9014\|־]] [[H2563A\|חֹ֝֗מֶר]] [[H1354\|גַּבֵּי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIFE|LIFE]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.11|<< Job 13:11]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.13|Job 13:13 >>]]</td></tr></table>
 

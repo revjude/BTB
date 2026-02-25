@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Persevere
+type: Pericope
 pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
-verse_count: 21
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 10
 book/chapter: "[[Heb.10|Hebrews 10]]"
-genre:
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 21
 verses:
 - "[[Heb.10.19]]"
 - "[[Heb.10.20]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Heb.10.39]]"
 ---
 
-[[Heb.10|Hebrews 10:19 - Hebrews 10:39]]
+<small>[[Heb.10|Hebrews 10:19-39]]</small>
 *A Call to Persevere*
 
 [[Heb.10.19|19]] Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,

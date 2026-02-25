@@ -1,6 +1,72 @@
+---
+title: LXX Jeremiah 50:45
+type: Verse
+lxx: "On account of this, hear the plan of the lord! which he has planned against Babylon; and his devices which he devised against the ones dwelling the land of the Chaldeans. Surely the little lambs of their sheep will be utterly destroyed. Surely the pasture shall be removed from them."
+greek: "διά τούτο ακούσατε την βουλήν κυρίου ην βεβούλευται επί Βαβυλώνα και λογισμούς αυτού ους ελογίσατο επί τους κατοικούντας γην των Χαλδαίων εάν μη διαφθαρή τα αρνία των προβάτων αυτών εάν μη αφανισθή νομή απ΄ αυτών"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G1012]]"
+- "[[G2962]]"
+- "[[G3739]]"
+- "[[G1011]]"
+- "[[G1909]]"
+- "[[G0897]]"
+- "[[G2532]]"
+- "[[G3053]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G3049]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1093]]"
+- "[[G3588]]"
+- "[[G5466]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G1311]]"
+- "[[G3588]]"
+- "[[G0721]]"
+- "[[G3588]]"
+- "[[G4263]]"
+- "[[G1473]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G0853]]"
+- "[[G3542]]"
+- "[[G0575]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 50:45** 
 <small><sub>**LXX:**</sub></small>
 On account of this, hear the plan of \[the\] <span class="smallcaps">lord</span>! which he has planned against Babylon; and his devices which he devised against the ones dwelling \[the\] land of the Chaldeans. Surely the little lambs of their sheep will be utterly destroyed. Surely \[the\] pasture shall be removed from them. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G0191\|ακούσατε]] [[G3588\|την]] [[G1012\|βουλήν]] [[G2962\|κυρίου]] [[G3739\|ην]] [[G1011\|βεβούλευται]] [[G1909\|επί]] [[G0897\|Βαβυλώνα]] [[G2532\|και]] [[G3053\|λογισμούς]] [[G1473\|αυτού]] [[G3739\|ους]] [[G3049\|ελογίσατο]] [[G1909\|επί]] [[G3588\|τους]] [[G2730\|κατοικούντας]] [[G1093\|γην]] [[G3588\|των]] [[G5466\|Χαλδαίων]] [[G1437\|εάν]] [[G3361\|μη]] [[G1311\|διαφθαρή]] [[G3588\|τα]] [[G0721\|αρνία]] [[G3588\|των]] [[G4263\|προβάτων]] [[G1473\|αυτών]] [[G1437\|εάν]] [[G3361\|μη]] [[G0853\|αφανισθή]] [[G3542\|νομή]] [[G0575\|απ΄]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.50.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.44|<< Jeremiah 50:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.46|Jeremiah 50:46 >>]]</td></tr></table>
 
@@ -37,6 +103,6 @@ On account of this, hear the plan of \[the\] <span class="smallcaps">lord</span>
 | \[the\] pasture | **<big>[[G3542\|νομή]]</big>** |
 | from | **<big>[[G0575\|απ΄]]</big>** |
 | them. | **<big>[[G1473\|αυτών]]</big>** |
-[[Jer.50.45|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.44|<< Jeremiah 50:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.46|Jeremiah 50:46 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.44|<< Jeremiah 50:44]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.46|Jeremiah 50:46 >>]]</td></tr></table>
 
 

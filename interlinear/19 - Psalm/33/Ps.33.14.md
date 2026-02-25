@@ -1,8 +1,55 @@
+---
+title: Psalm 33:14
+type: Verse
+kjv: "From the place of his habitation he looketh upon all the inhabitants of the earth."
+bsb: "From His dwelling place He gazes on all who inhabit the earth."
+hebrew: "מִֽמְּכוֹן־ שִׁבְתּ֥וֹ הִשְׁגִּ֑יחַ אֶ֖ל כָּל־ יֹשְׁבֵ֣י הָאָֽרֶץ׃"
+pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H9006]]"
+- "[[H4349]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H9023]]"
+- "[[H7688]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 33:14**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the place of his habitation he looketh upon all the inhabitants of the earth.
 <small><sub>**BSB:**</sub></small>
 From His dwelling place He gazes on all who inhabit the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִֽ]][[H4349\|מְּכוֹן]][[H9014\|־]] [[H3427\|שִׁבְתּ֥]][[H9023\|וֹ]] [[H7688\|הִשְׁגִּ֑יחַ]] [[H0413\|אֶ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֣י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.13|<< Psalms 33:13]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.15|Psalms 33:15 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant of Circumcision
+type: Pericope
 pericope: "[[Gen.17.9 The Covenant of Circumcision|The Covenant of Circumcision]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 17
 book/chapter: "[[Gen.17|Genesis 17]]"
-genre:
+chronological_order: 59
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 19
 verses:
 - "[[Gen.17.9]]"
 - "[[Gen.17.10]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Gen.17.27]]"
 ---
 
-[[Gen.17|Genesis 17:9 - Genesis 17:27]]
+<small>[[Gen.17|Genesis 17:9-27]]</small>
 *The Covenant of Circumcision*
 
 [[Gen.17.9|9]] And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations.

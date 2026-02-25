@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Reproof of Ephraim, Judah, and Jacob
+type: Pericope
 pericope: "[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|A Reproof of Ephraim, Judah, and Jacob]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 12
 book/chapter: "[[Hos.12|Hosea 12]]"
-genre:
+chronological_order: 653
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 14
 verses:
 - "[[Hos.12.1]]"
 - "[[Hos.12.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Hos.12.14]]"
 ---
 
-[[Hos.12|Hosea 12:1 - Hosea 12:14]]
+<small>[[Hos.12|Hosea 12:1-14]]</small>
 *A Reproof of Ephraim, Judah, and Jacob*
 
 [[Hos.12.1|1]] Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.

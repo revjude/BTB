@@ -1,8 +1,69 @@
+---
+title: Genesis 33:5
+type: Verse
+kjv: "And he lifted up his eyes, and saw the women and the children; and said, Who are those with thee? And he said, The children which God hath graciously given thy servant."
+bsb: "When Esau looked up and saw the women and children, he asked, “Who are these with you?” Jacob answered, “These are the children God has graciously given your servant.”"
+hebrew: "וַיִּשָּׂ֣א אֶת־ עֵינָ֗יו וַיַּ֤רְא אֶת־ הַנָּשִׁים֙ וְאֶת־ הַיְלָדִ֔ים וַיֹּ֖אמֶר מִי־ אֵ֣לֶּה לָּ֑ךְ וַיֹּאמַ֕ר הַיְלָדִ֕ים אֲשֶׁר־ חָנַ֥ן אֱלֹהִ֖ים אֶת־ עַבְדֶּֽךָ׃"
+pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375M]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H9002]]"
+- "[[H3206]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H0834A]]"
+- "[[H2603A]]"
+- "[[H0430G]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 33:5**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he lifted up his eyes, and saw the women and the children; and said, Who [are] those with thee? And he said, The children which God hath graciously given thy servant.
 <small><sub>**BSB:**</sub></small>
 When Esau looked up and saw the women and children, he asked, “Who are these with you?” Jacob answered, “These are the children God has graciously given your servant.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375M\|יִּשָּׂ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H7200G\|יַּ֤רְא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0802G\|נָּשִׁים֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יְלָדִ֔ים]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H4310\|מִי]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]] [[H9005\|לָּ֑]][[H9032\|ךְ]] [[H9001\|וַ]][[H0559\|יֹּאמַ֕ר]] [[H9009\|הַ]][[H3206\|יְלָדִ֕ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2603A\|חָנַ֥ן]] [[H0430G\|אֱלֹהִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic GOD|GOD]] • [[topic LEAH|LEAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.4|<< Genesis 33:4]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.6|Genesis 33:6 >>]]</td></tr></table>
 

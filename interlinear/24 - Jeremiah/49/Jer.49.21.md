@@ -1,8 +1,57 @@
+---
+title: Jeremiah 49:21
+type: Verse
+kjv: "The earth is moved at the noise of their fall, at the cry the noise thereof was heard in the Red sea."
+bsb: "At the sound of their fall the earth will quake; their cry will resound to the Red Sea."
+hebrew: "מִקּ֣וֹל נִפְלָ֔ם רָעֲשָׁ֖ה הָאָ֑רֶץ צְעָקָ֕ה בְּיַם־ ס֖וּף נִשְׁמַ֥ע קוֹלָֽהּ׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H5307J]]"
+- "[[H9048]]"
+- "[[H7493]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H6818]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H9014]]"
+- "[[H5488G]]"
+- "[[H8085G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:21**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth is moved at the noise of their fall, at the cry the noise thereof was heard in the Red sea.
 <small><sub>**BSB:**</sub></small>
 At the sound of their fall the earth will quake; their cry will resound to the Red Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6963H\|קּ֣וֹל]] [[H5307J\|נִפְלָ֔]][[H9048\|ם]] [[H7493\|רָעֲשָׁ֖ה]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H6818\|צְעָקָ֕ה]] [[H9003\|בְּ]][[H3220G\|יַם]][[H9014\|־]] [[H5488G\|ס֖וּף]] [[H8085G\|נִשְׁמַ֥ע]] [[H6963H\|קוֹלָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.20|<< Jeremiah 49:20]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.22|Jeremiah 49:22 >>]]</td></tr></table>
 

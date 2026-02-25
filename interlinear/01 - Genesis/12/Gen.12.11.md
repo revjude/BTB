@@ -1,8 +1,74 @@
+---
+title: Genesis 12:11
+type: Verse
+kjv: "And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon:"
+bsb: "As he was about to enter Egypt, he said to his wife Sarai, “Look, I know that you are a beautiful woman,"
+hebrew: "וַיְהִ֕י כַּאֲשֶׁ֥ר הִקְרִ֖יב לָב֣וֹא מִצְרָ֑יְמָה וַיֹּ֙אמֶר֙ אֶל־ שָׂרַ֣י אִשְׁתּ֔וֹ הִנֵּה־ נָ֣א יָדַ֔עְתִּי כִּ֛י אִשָּׁ֥ה יְפַת־ מַרְאֶ֖ה אָֽתְּ׃"
+pericope: "[[Gen.12.10 Abram and Sarai in Egypt|Abram and Sarai in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BEAUTY|BEAUTY]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7126G]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8297]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H2009]]"
+- "[[H4994]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0802G]]"
+- "[[H3303]]"
+- "[[H4758]]"
+- "[[H0859C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:11**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou [art] a fair woman to look upon:
 <small><sub>**BSB:**</sub></small>
 As he was about to enter Egypt, he said to his wife Sarai, “Look, I know that you are a beautiful woman,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H7126G\|הִקְרִ֖יב]] [[H9005\|לָ]][[H0935G\|ב֣וֹא]] [[H4714G\|מִצְרָ֑יְמָ]][[H9011\|ה]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8297\|שָׂרַ֣י]] [[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4994\|נָ֣א]] [[H3045\|יָדַ֔עְתִּי]] [[H3588A\|כִּ֛י]] [[H0802G\|אִשָּׁ֥ה]] [[H3303\|יְפַת]][[H9014\|־]] [[H4758\|מַרְאֶ֖ה]] [[H0859C\|אָֽתְּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BEAUTY|BEAUTY]] • [[topic COWARDICE|COWARDICE]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.10|<< Genesis 12:10]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.12|Genesis 12:12 >>]]</td></tr></table>
 

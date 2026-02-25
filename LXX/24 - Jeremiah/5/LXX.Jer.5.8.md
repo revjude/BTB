@@ -1,6 +1,51 @@
+---
+title: LXX Jeremiah 5:8
+type: Verse
+lxx: "They became sex-crazed horses; each snorting over the wife of his neighbor."
+greek: "ίπποι θηλυμανείς εγενήθησαν έκαστος επί την γυναίκα του πλησίον αυτού εχρεμέτιζεν"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic RICH, THE|RICH, THE]]"
+strongs:
+- "[[G2462]]"
+- "[[G7666]]"
+- "[[G1096]]"
+- "[[G1538]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G3588]]"
+- "[[G4139]]"
+- "[[G1473]]"
+- "[[G9754]]"
+---
+
 **LXX Jeremiah 5:8** 
 <small><sub>**LXX:**</sub></small>
 They became sex-crazed horses; each snorting over the wife of his neighbor. 
+<small><sub>**Greek:**</sub></small>
+[[G2462\|ίπποι]] [[G7666\|θηλυμανείς]] [[G1096\|εγενήθησαν]] [[G1538\|έκαστος]] [[G1909\|επί]] [[G3588\|την]] [[G1135\|γυναίκα]] [[G3588\|του]] [[G4139\|πλησίον]] [[G1473\|αυτού]] [[G9754\|εχρεμέτιζεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic RICH, THE|RICH, THE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.7|<< Jeremiah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.9|Jeremiah 5:9 >>]]</td></tr></table>
 
@@ -16,6 +61,6 @@ They became sex-crazed horses; each snorting over the wife of his neighbor.
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | of his neighbor | **<big>[[G4139\|πλησίον]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | snorting | **<big>[[G9754\|εχρεμέτιζεν]]</big>** |
-[[Jer.5.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.7|<< Jeremiah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.9|Jeremiah 5:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.5.7|<< Jeremiah 5:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.5.9|Jeremiah 5:9 >>]]</td></tr></table>
 
 

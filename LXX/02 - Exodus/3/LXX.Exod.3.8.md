@@ -1,6 +1,99 @@
+---
+title: LXX Exodus 3:8
+type: Verse
+lxx: "And I came down to rescue them from the hand of the Egyptians, and to lead them from out of  that land, and to bring them into a land good and populous; into a land flowing milk and honey; into the place of the Canaanites, and Hittites, and Amorites, and Perizzites, and Gergesites, and Hivites, and Jebusites."
+greek: "και κατέβην εξελέσθαι αυτούς εκ χειρός των Αιγυπτίων και εξαγαγείν αυτούς εκ της γης εκείνης και εισαγαγείν αυτούς εις γην αγαθήν και πολλήν εις γην ρέουσαν γάλα και μέλι εις τον τόπον των Χαναναίων και Χετταίων και Αμορραίων και Φερεζαίων και Γεργεσαίων και Ευαίων και Ιεβουσαίων"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic HONEY|HONEY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic MILK|MILK]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PERIZZITES|PERIZZITES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G1807]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G3588]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G1806]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G1521]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G1093]]"
+- "[[G0018]]"
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G1519]]"
+- "[[G1093]]"
+- "[[G4482]]"
+- "[[G1051]]"
+- "[[G2532]]"
+- "[[G3192]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G3588]]"
+- "[[G5477]]"
+- "[[G2532]]"
+- "[[H2850]]"
+- "[[G2532]]"
+- "[[H0567]]"
+- "[[G2532]]"
+- "[[H6522]]"
+- "[[G2532]]"
+- "[[H1622]]"
+- "[[G2532]]"
+- "[[H2340]]"
+- "[[G2532]]"
+- "[[H2983]]"
+---
+
 **LXX Exodus 3:8** 
 <small><sub>**LXX:**</sub></small>
 And I came down to rescue them from \[the\] hand of the Egyptians, and to lead them from out of  that land, and to bring them into a land good and populous; into a land flowing milk and honey; into the place of the Canaanites, and Hittites, and Amorites, and Perizzites, and Gergesites, and Hivites, and Jebusites. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2597\|κατέβην]] [[G1807\|εξελέσθαι]] [[G1473\|αυτούς]] [[G1537\|εκ]] [[G5495\|χειρός]] [[G3588\|των]] [[G0125\|Αιγυπτίων]] [[G2532\|και]] [[G1806\|εξαγαγείν]] [[G1473\|αυτούς]] [[G1537\|εκ]] [[G3588\|της]] [[G1093\|γης]] [[G1565\|εκείνης]] [[G2532\|και]] [[G1521\|εισαγαγείν]] [[G1473\|αυτούς]] [[G1519\|εις]] [[G1093\|γην]] [[G0018\|αγαθήν]] [[G2532\|και]] [[G4183\|πολλήν]] [[G1519\|εις]] [[G1093\|γην]] [[G4482\|ρέουσαν]] [[G1051\|γάλα]] [[G2532\|και]] [[G3192\|μέλι]] [[G1519\|εις]] [[G3588\|τον]] [[G5117\|τόπον]] [[G3588\|των]] [[G5477\|Χαναναίων]] [[G2532\|και]] [[H2850\|Χετταίων]] [[G2532\|και]] [[H0567\|Αμορραίων]] [[G2532\|και]] [[H6522\|Φερεζαίων]] [[G2532\|και]] [[H1622\|Γεργεσαίων]] [[G2532\|και]] [[H2340\|Ευαίων]] [[G2532\|και]] [[H2983\|Ιεβουσαίων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic GOD|GOD]] • [[topic HITTITES|HITTITES]] • [[topic HONEY|HONEY]] • [[topic ISRAEL|ISRAEL]] • [[topic JEBUSITES|JEBUSITES]] • [[topic MILK|MILK]] • [[topic MOSES|MOSES]] • [[topic PERIZZITES|PERIZZITES]] • [[topic PRAYER|PRAYER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic SORROW|SORROW]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.7|<< Exodus 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.9|Exodus 3:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -55,6 +148,6 @@ And I came down to rescue them from \[the\] hand of the Egyptians, and to lead t
 | Hivites, | **<big>[[H2340\|Ευαίων]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | Jebusites. | **<big>[[H2983\|Ιεβουσαίων]]</big>** |
-[[Exod.3.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.7|<< Exodus 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.9|Exodus 3:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.3.7|<< Exodus 3:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.3.9|Exodus 3:9 >>]]</td></tr></table>
 
 

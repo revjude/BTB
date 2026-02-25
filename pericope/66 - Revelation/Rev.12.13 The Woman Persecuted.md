@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Woman Persecuted
+type: Pericope
 pericope: "[[Rev.12.13 The Woman Persecuted|The Woman Persecuted]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 12
 book/chapter: "[[Rev.12|Revelation 12]]"
-genre:
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.12.13]]"
 - "[[Rev.12.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.12.17]]"
 ---
 
-[[Rev.12|Revelation 12:13 - Revelation 12:17]]
+<small>[[Rev.12|Revelation 12:13-17]]</small>
 *The Woman Persecuted*
 
 [[Rev.12.13|13]] And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man \[child\].

@@ -1,8 +1,77 @@
+---
+title: 1 Samuel 24:4
+type: Verse
+kjv: "And the men of David said unto him, Behold the day of which the LORD said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul’s robe privily."
+bsb: "So David’s men said to him, “This is the day about which the LORD said to you, ‘Behold, I will deliver your enemy into your hand, that you may do with him as you wish.’” Then David crept up and stealthily cut off a corner of Saul’s robe."
+hebrew: "וַיֹּאמְרוּ֩ אַנְשֵׁ֨י דָוִ֜ד אֵלָ֗יו הִנֵּ֨ה הַיּ֜וֹם אֲֽשֶׁר־ אָמַ֧ר יְהוָ֣ה אֵלֶ֗יךָ הִנֵּ֨ה אָנֹכִ֜י נֹתֵ֤ן אֶת־ אֹֽיִבְךָ֙ בְּיָדֶ֔ךָ וְעָשִׂ֣יתָ לּ֔וֹ כַּאֲשֶׁ֖ר יִטַ֣ב בְּעֵינֶ֑יךָ וַיָּ֣קָם דָּוִ֗ד וַיִּכְרֹ֛ת אֶת־ כְּנַֽף־ הַמְּעִ֥יל אֲשֶׁר־ לְשָׁא֖וּל בַּלָּֽט׃"
+pericope: "[[1Sam.24.1 David Spares Saul|David Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 24
+book/chapter: "[[1Sam.24|1 Samuel 24]]"
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CAVE|CAVE]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0582]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9031]]"
+- "[[H0595]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3190]]"
+- "[[H5869I]]"
+- "[[H6965B]]"
+- "[[H3772I]]"
+- "[[H3671]]"
+- "[[H4598]]"
+- "[[H7586G]]"
+- "[[H3909]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 24:4**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of David said unto him, Behold the day of which the LORD said unto thee, Behold, I will deliver thine enemy into thine hand, that thou mayest do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul’s robe privily.
 <small><sub>**BSB:**</sub></small>
 So David’s men said to him, “This is the day about which the LORD said to you, ‘Behold, I will deliver your enemy into your hand, that you may do with him as you wish.’” Then David crept up and stealthily cut off a corner of Saul’s robe.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְרוּ֩]] [[H0582\|אַנְשֵׁ֨י]] [[H1732\|דָוִ֜ד]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H2009\|הִנֵּ֨ה]] [[H9009\|הַ]][[H3117G\|יּ֜וֹם]] [[H0834A\|אֲֽשֶׁר]][[H9014\|־]] [[H0559\|אָמַ֧ר]] [[H3068G\|יְהוָ֣ה]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֜י]] [[H5414G\|נֹתֵ֤ן]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אֹֽיִבְ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H3027H\|יָדֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H6213A\|עָשִׂ֣יתָ]] [[H9005\|לּ֔]][[H9033\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H3190\|יִטַ֣ב]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H1732\|דָּוִ֗ד]] [[H9001\|וַ]][[H3772I\|יִּכְרֹ֛ת]] [[H0853\|אֶת]][[H9014\|־]] [[H3671\|כְּנַֽף]][[H9014\|־]] [[H9009\|הַ]][[H4598\|מְּעִ֥יל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לְ]][[H7586G\|שָׁא֖וּל]] [[H9003\|בַּ]][[H3909\|לָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVE|CAVE]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic SAUL|SAUL]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.3|<< 1 Samuel 24:3]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.5|1 Samuel 24:5 >>]]</td></tr></table>
 
@@ -40,7 +109,7 @@ So David’s men said to him, “This is the day about which the LORD said to yo
 | in \<the> secrecy  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3909\|לָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Lat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.24.3|<< 1 Samuel 24:3]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.5|1 Samuel 24:5 >>]]</td></tr></table>
 
-[^1]: enemies your  | **<big>[[H9021|ךָ]]</big><big>[[H0341|אֹיְבֶי]]</big> ** | 'o.ye.vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: enemies your  | **<big>[[H9021|ךָ]]</big><big>[[H0341|אֹיְבֶי]]</big> ** | 'o.ye.vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: enemies your  | **<big>[[H0341|אֹיְבֶי]]</big><big>[[H9021|ךָ]]</big> ** | 'o.ye.vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: enemies your  | **<big>[[H0341|אֹיְבֶי]]</big><big>[[H9021|ךָ]]</big> ** | 'o.ye.vei.<small><sup>[[HVqrmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>אֹֽיִבְיךָ֙</big></span>**
 

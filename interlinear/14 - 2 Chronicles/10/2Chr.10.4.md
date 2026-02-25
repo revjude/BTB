@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 10:4
+type: Verse
+kjv: "Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee."
+bsb: "“Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”"
+hebrew: "אָבִ֖יךָ הִקְשָׁ֣ה אֶת־ עֻלֵּ֑נוּ וְעַתָּ֡ה הָקֵל֩ מֵעֲבֹדַ֨ת אָבִ֜יךָ הַקָּשָׁ֗ה וּמֵעֻלּ֧וֹ הַכָּבֵ֛ד אֲשֶׁר־ נָתַ֥ן עָלֵ֖ינוּ וְנַֽעַבְדֶֽךָּ׃"
+pericope: "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H7185]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5923]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7043]]"
+- "[[H9006]]"
+- "[[H5656G]]"
+- "[[H9009]]"
+- "[[H7186]]"
+- "[[H9023]]"
+- "[[H3515]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H5647G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 10:4**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee.
 <small><sub>**BSB:**</sub></small>
 “Your father put a heavy yoke on us. But now you must lighten the burden of your father’s service and the heavy yoke he put on us, and we will serve you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0001G\|אָבִ֖י]][[H9021\|ךָ]] [[H7185\|הִקְשָׁ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5923\|עֻלֵּ֑]][[H9025\|נוּ]] [[H9002\|וְ]][[H6258\|עַתָּ֡ה]] [[H7043\|הָקֵל֩]] [[H9006\|מֵ]][[H5656G\|עֲבֹדַ֨ת]] [[H0001G\|אָבִ֜י]][[H9021\|ךָ]] [[H9009\|הַ]][[H7186\|קָּשָׁ֗ה]] [[H9002\|וּ]][[H9006\|מֵ]][[H5923\|עֻלּ֧]][[H9023\|וֹ]] [[H9009\|הַ]][[H3515\|כָּבֵ֛ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414H\|נָתַ֥ן]] [[H5921A\|עָלֵ֖י]][[H9035\|נוּ]] [[H9002\|וְ]][[H5647G\|נַֽעַבְדֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDIDATE|CANDIDATE]] • [[topic REHOBOAM|REHOBOAM]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.3|<< 2 Chronicles 10:3]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.5|2 Chronicles 10:5 >>]]</td></tr></table>
 

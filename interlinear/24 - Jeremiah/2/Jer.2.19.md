@@ -1,8 +1,71 @@
+---
+title: Jeremiah 2:19
+type: Verse
+kjv: "Thine own wickedness shall correct thee, and thy backslidings shall reprove thee: know therefore and see that it is an evil thing and bitter, that thou hast forsaken the LORD thy God, and that my fear is not in thee, saith the Lord GOD of hosts."
+bsb: "Your own evil will discipline you; your own apostasies will reprimand you. Consider and realize how evil and bitter it is for you to forsake the LORD your God and to have no fear of Me,” declares the Lord GOD of Hosts."
+hebrew: "תְּיַסְּרֵ֣ךְ רָעָתֵ֗ךְ וּמְשֻֽׁבוֹתַ֙יִךְ֙ תּוֹכִחֻ֔ךְ וּדְעִ֤י וּרְאִי֙ כִּי־ רַ֣ע וָמָ֔ר עָזְבֵ֖ךְ אֶת־ יְהוָ֣ה אֱלֹהָ֑יִךְ וְלֹ֤א פַחְדָּתִי֙ אֵלַ֔יִךְ נְאֻם־ אֲדֹנָ֥י יְהוִ֖ה צְבָאֽוֹת׃"
+pericope: "[[Jer.2.14 The Consequence of Israel’s Sin|The Consequence of Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3256]]"
+- "[[H9032]]"
+- "[[H7451I]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H4878]]"
+- "[[H3198]]"
+- "[[H3045]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7451H]]"
+- "[[H4751]]"
+- "[[H5800A]]"
+- "[[H9042]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3808]]"
+- "[[H6345]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:19**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine own wickedness shall correct thee, and thy backslidings shall reprove thee: know therefore and see that [it is] an evil [thing] and bitter, that thou hast forsaken the LORD thy God, and that my fear [is] not in thee, saith the Lord GOD of hosts.
 <small><sub>**BSB:**</sub></small>
 Your own evil will discipline you; your own apostasies will reprimand you. Consider and realize how evil and bitter it is for you to forsake the LORD your God and to have no fear of Me,” declares the Lord GOD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H3256\|תְּיַסְּרֵ֣]][[H9032\|ךְ]] [[H7451I\|רָעָתֵ֗]][[H9022\|ךְ]] [[H9002\|וּ]][[H4878\|מְשֻֽׁבוֹתַ֙יִ]][[H9022\|ךְ֙]] [[H3198\|תּוֹכִחֻ֔]][[H9032\|ךְ]] [[H9002\|וּ]][[H3045\|דְעִ֤י]] [[H9002\|וּ]][[H7200G\|רְאִי֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H7451H\|רַ֣ע]] [[H9002\|וָ]][[H4751\|מָ֔ר]] [[H5800A\|עָזְבֵ֖]][[H9042\|ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H6345\|פַחְדָּתִ]][[H9020\|י֙]] [[H0413\|אֵלַ֔יִ]][[H9032\|ךְ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִ֖ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.18|<< Jeremiah 2:18]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.20|Jeremiah 2:20 >>]]</td></tr></table>
 

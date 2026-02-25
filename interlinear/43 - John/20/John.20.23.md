@@ -1,10 +1,55 @@
+---
+title: John 20:23
+type: Verse
+kjv: "Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained."
+bsb: "If you forgive anyone his sins, they are forgiven; if you withhold forgiveness from anyone, it is withheld.”"
+jesus_said: "Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained."
+greek: "ἄν τινων ἀφῆτε τὰς ἁμαρτίας, ἀφέωνται αὐτοῖς· ἄν τινων κρατῆτε, κεκράτηνται.¶"
+pericope: "[[John.20.19 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VICEGERENCY|VICEGERENCY]]"
+strongs:
+- "[[G0302]]"
+- "[[G5100]]"
+- "[[G0863H]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G0846]]"
+- "[[G2902]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 20:23**<big><big>[[John.20.19 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whose soever sins ye remit, they are remitted unto them; [and] whose soever [sins] ye retain, they are retained.
 <small><sub>**BSB:**</sub></small>
 If you forgive anyone his sins, they are forgiven; if you withhold forgiveness from anyone, it is withheld.”
-<small><sub>**Literal:**</sub></small>
-If of any you may forgive the sins, they have been forgiven to them; If any you may retain, they have been retained.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.22|<< John 20:22]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.24|John 20:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0302\|ἄν]]  [[G5100\|τινων]]  [[G0863H\|ἀφῆτε]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας,]]  [[G0863H\|ἀφέωνται]]  [[G0846\|αὐτοῖς·]]  [[G0302\|ἄν]]  [[G5100\|τινων]]  [[G2902\|κρατῆτε,]]  [[G2902\|κεκράτηνται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SIN|SIN]] • [[topic VICEGERENCY|VICEGERENCY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.22|<< John 20:22]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.24|John 20:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

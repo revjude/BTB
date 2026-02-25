@@ -1,8 +1,73 @@
+---
+title: Exodus 6:25
+type: Verse
+kjv: "And Eleazar Aaron’s son took him one of the daughters of Putiel to wife; and she bare him Phinehas: these are the heads of the fathers of the Levites according to their families."
+bsb: "Aaron’s son Eleazar married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families by their clans."
+hebrew: "וְאֶלְעָזָ֨ר בֶּֽן־ אַהֲרֹ֜ן לָקַֽח־ ל֨וֹ מִבְּנ֤וֹת פּֽוּטִיאֵל֙ ל֣וֹ לְאִשָּׁ֔ה וַתֵּ֥לֶד ל֖וֹ אֶת־ פִּֽינְחָ֑ס אֵ֗לֶּה רָאשֵׁ֛י אֲב֥וֹת הַלְוִיִּ֖ם לְמִשְׁפְּחֹתָֽם׃"
+pericope: "[[Exod.6.14 Genealogies of Moses and Aaron|Genealogies of Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PUTIEL|PUTIEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0499G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H3947I]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1323G]]"
+- "[[H6317]]"
+- "[[H0802H]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H6372G]]"
+- "[[H0428]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:25**<big><big>[[Exod.6.14 Genealogies of Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eleazar Aaron’s son took him [one] of the daughters of Putiel to wife; and she bare him Phinehas: these [are] the heads of the fathers of the Levites according to their families.
 <small><sub>**BSB:**</sub></small>
 Aaron’s son Eleazar married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families by their clans.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0499G\|אֶלְעָזָ֨ר]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H0175\|אַהֲרֹ֜ן]] [[H3947I\|לָקַֽח]][[H9014\|־]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H9006\|מִ]][[H1323G\|בְּנ֤וֹת]] [[H6317\|פּֽוּטִיאֵל֙]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֔ה]] [[H9001\|וַ]][[H3205\|תֵּ֥לֶד]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H6372G\|פִּֽינְחָ֑ס]] [[H0428\|אֵ֗לֶּה]] [[H7218H\|רָאשֵׁ֛י]] [[H0001G\|אֲב֥וֹת]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic GENEALOGY|GENEALOGY]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PUTIEL|PUTIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.24|<< Exodus 6:24]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.26|Exodus 6:26 >>]]</td></tr></table>
 

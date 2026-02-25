@@ -1,8 +1,62 @@
+---
+title: Ruth 3:7
+type: Verse
+kjv: "And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down."
+bsb: "After Boaz had finished eating and drinking and was in good spirits, he went to lie down at the end of the heap of grain. Then Ruth went in secretly, uncovered his feet, and lay down."
+hebrew: "וַיֹּ֨אכַל בֹּ֤עַז וַיֵּשְׁתְּ֙ וַיִּיטַ֣ב לִבּ֔וֹ וַיָּבֹ֕א לִשְׁכַּ֖ב בִּקְצֵ֣ה הָעֲרֵמָ֑ה וַתָּבֹ֣א בַלָּ֔ט וַתְּגַ֥ל מַרְגְּלֹתָ֖יו וַתִּשְׁכָּֽב׃"
+pericope: "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H1162G]]"
+- "[[H8354]]"
+- "[[H3190]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H7901G]]"
+- "[[H9003]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H6194]]"
+- "[[H3909]]"
+- "[[H1540I]]"
+- "[[H4772]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 3:7**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down.
 <small><sub>**BSB:**</sub></small>
 After Boaz had finished eating and drinking and was in good spirits, he went to lie down at the end of the heap of grain. Then Ruth went in secretly, uncovered his feet, and lay down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0398\|יֹּ֨אכַל]] [[H1162G\|בֹּ֤עַז]] [[H9001\|וַ]][[H8354\|יֵּשְׁתְּ֙]] [[H9001\|וַ]][[H3190\|יִּיטַ֣ב]] [[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֕א]] [[H9005\|לִ]][[H7901G\|שְׁכַּ֖ב]] [[H9003\|בִּ]][[H7097A\|קְצֵ֣ה]] [[H9009\|הָ]][[H6194\|עֲרֵמָ֑ה]] [[H9001\|וַ]][[H0935G\|תָּבֹ֣א]] [[H9003\|בַ]][[H3909\|לָּ֔ט]] [[H9001\|וַ]][[H1540I\|תְּגַ֥ל]] [[H4772\|מַרְגְּלֹתָ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H7901G\|תִּשְׁכָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic INHERITANCE|INHERITANCE]] • [[topic RUTH|RUTH]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.6|<< Ruth 3:6]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.8|Ruth 3:8 >>]]</td></tr></table>
 

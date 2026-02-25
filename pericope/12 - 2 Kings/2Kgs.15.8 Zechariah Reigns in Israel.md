@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zechariah Reigns in Israel
+type: Pericope
 pericope: "[[2Kgs.15.8 Zechariah Reigns in Israel|Zechariah Reigns in Israel]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 15
 book/chapter: "[[2Kgs.15|2 Kings 15]]"
-genre:
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[2Kgs.15.8]]"
 - "[[2Kgs.15.9]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Kgs.15.12]]"
 ---
 
-[[2Kgs.15|2 Kings 15:8 - 2 Kings 15:12]]
+<small>[[2Kgs.15|2 Kings 15:8-12]]</small>
 *Zechariah Reigns in Israel*
 
 [[2Kgs.15.8|8]] In the thirty and eighth year of Azariah king of Judah did Zachariah the son of Jeroboam reign over Israel in Samaria six months.

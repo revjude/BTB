@@ -1,10 +1,67 @@
+---
+title: Acts 20:9
+type: Verse
+kjv: "And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead."
+bsb: "And a certain young man named Eutychus, seated in the window, was sinking into a deep sleep as Paul talked on and on. When he was sound asleep, he fell from the third story and was picked up dead."
+greek: "καθεζόμενος δέ τις νεανίας ὀνόματι Εὔτυχος ἐπὶ τῆς θυρίδος, καταφερόμενος ὕπνῳ βαθεῖ, διαλεγομένου τοῦ Παύλου ἐπὶ πλεῖον, κατενεχθεὶς ἀπὸ τοῦ ὕπνου ἔπεσεν ἀπὸ τοῦ τριστέγου κάτω καὶ ἤρθη νεκρός."
+pericope: "[[Acts.20.7 Eutychus Revived at Troas|Eutychus Revived at Troas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic EUTYCHUS|EUTYCHUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WINDOW|WINDOW]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2516]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3494]]"
+- "[[G3686]]"
+- "[[G2161]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2376]]"
+- "[[G2702]]"
+- "[[G5258]]"
+- "[[G0901]]"
+- "[[G1256]]"
+- "[[G3972G]]"
+- "[[G4119]]"
+- "[[G0575]]"
+- "[[G4098]]"
+- "[[G5152]]"
+- "[[G2736]]"
+- "[[G2532]]"
+- "[[G0142]]"
+- "[[G3498]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Acts 20:9**<big><big>[[Acts.20.7 Eutychus Revived at Troas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead.
 <small><sub>**BSB:**</sub></small>
 And a certain young man named Eutychus, seated in the window, was sinking into a deep sleep as Paul talked on and on. When he was sound asleep, he fell from the third story and was picked up dead.
-<small><sub>**Literal:**</sub></small>
-sitting then a certain young man named Eutychus by the window, overpowered by sleep deep as is talking <the> Paul on longer, having been overpowered by the sleep he fell from the third story down and was picked up dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.8|<< Acts 20:8]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.10|Acts 20:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2516\|καθεζόμενος]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G3494\|νεανίας]]  [[G3686\|ὀνόματι]]  [[G2161\|Εὔτυχος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2376\|θυρίδος,]]  [[G2702\|καταφερόμενος]]  [[G5258\|ὕπνῳ]]  [[G0901\|βαθεῖ,]]  [[G1256\|διαλεγομένου]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G1909\|ἐπὶ]]  [[G4119\|πλεῖον,]]  [[G2702\|κατενεχθεὶς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G5258\|ὕπνου]]  [[G4098\|ἔπεσεν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G5152\|τριστέγου]]  [[G2736\|κάτω]]  [[G2532\|καὶ]]  [[G0142\|ἤρθη]]  [[G3498\|νεκρός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic EUTYCHUS|EUTYCHUS]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic WINDOW|WINDOW]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.8|<< Acts 20:8]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.10|Acts 20:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

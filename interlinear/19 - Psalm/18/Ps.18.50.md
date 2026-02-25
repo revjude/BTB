@@ -1,8 +1,61 @@
+---
+title: Psalm 18:50
+type: Verse
+kjv: "Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore."
+bsb: "Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever."
+hebrew: "מַגְדִּיל֮ יְשׁוּע֪וֹת מַ֫לְכּ֥וֹ וְעֹ֤שֶׂה חֶ֨סֶד׀ לִמְשִׁיח֗וֹ לְדָוִ֥ד וּלְזַרְע֗וֹ עַד־ עוֹלָֽם׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H1431]]"
+- "[[H3444]]"
+- "[[H4428G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H2617A]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H4899]]"
+- "[[H1732]]"
+- "[[H2233H]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Psalms 18:50**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.
 <small><sub>**BSB:**</sub></small>
 Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H1431\|מַגְדִּיל֮]] [[H3444\|יְשׁוּע֪וֹת]] [[H4428G\|מַ֫לְכּ֥]][[H9023\|וֹ]] [[H9002\|וְ]][[H6213A\|עֹ֤שֶׂה]] [[H2617A\|חֶ֨סֶד]][[H9015\|׀]] [[H9005\|לִ]][[H4899\|מְשִׁיח֗]][[H9023\|וֹ]] [[H9005\|לְ]][[H1732\|דָוִ֥ד]] [[H9002\|וּ]][[H9005\|לְ]][[H2233H\|זַרְע֗]][[H9023\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.49|<< Psalms 18:49]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.0|Psalms 19:0 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Ezekiel 33:29
+type: Verse
+kjv: "Then shall they know that I am the LORD, when I have laid the land most desolate because of all their abominations which they have committed."
+bsb: "Then they will know that I am the LORD, when I have made the land a desolate waste because of all the abominations they have committed.’"
+hebrew: "וְיָדְע֖וּ כִּֽי־ אֲנִ֣י יְהוָ֑ה בְּתִתִּ֤י אֶת־ הָאָ֙רֶץ֙ שְׁמָמָ֣ה וּמְשַׁמָּ֔ה עַ֥ל כָּל־ תּוֹעֲבֹתָ֖ם אֲשֶׁ֥ר עָשֽׂוּ׃ ס"
+pericope: "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5414I]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8077A]]"
+- "[[H9002]]"
+- "[[H4923]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H8441]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 33:29**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall they know that I [am] the LORD, when I have laid the land most desolate because of all their abominations which they have committed.
 <small><sub>**BSB:**</sub></small>
 Then they will know that I am the LORD, when I have made the land a desolate waste because of all the abominations they have committed.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדְע֖וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בְּ]][[H5414I\|תִתִּ֤]][[H9040\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H8077A\|שְׁמָמָ֣ה]] [[H9002\|וּ]][[H4923\|מְשַׁמָּ֔ה]] [[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H8441\|תּוֹעֲבֹתָ֖]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עָשֽׂוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.28|<< Ezekiel 33:28]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.30|Ezekiel 33:30 >>]]</td></tr></table>
 
@@ -21,7 +80,7 @@ Then they will know that I am the LORD, when I have made the land a desolate was
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | abominations their  |**<big>&#8207;[[H8441\|תּוֹעֲבֹתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| to.'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they have done  |**<big>&#8207;[[H6213H\|עָשֽׂוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they have done  |**<big>&#8207;[[H6213H\|עָשֽׂוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Su<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.28|<< Ezekiel 33:28]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.30|Ezekiel 33:30 >>]]</td></tr></table>
 
 

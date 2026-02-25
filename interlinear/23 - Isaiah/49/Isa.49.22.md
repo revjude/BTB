@@ -1,8 +1,71 @@
+---
+title: Isaiah 49:22
+type: Verse
+kjv: "Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders."
+bsb: "This is what the Lord GOD says: “Behold, I will lift up My hand to the nations, and raise My banner to the peoples. They will bring your sons in their arms and carry your daughters on their shoulders."
+hebrew: "כֹּֽה־ אָמַ֞ר אֲדֹנָ֣י יְהוִ֗ה הִנֵּ֨ה אֶשָּׂ֤א אֶל־ גּוֹיִם֙ יָדִ֔י וְאֶל־ עַמִּ֖ים אָרִ֣ים נִסִּ֑י וְהֵבִ֤יאוּ בָנַ֙יִךְ֙ בְּחֹ֔צֶן וּבְנֹתַ֖יִךְ עַל־ כָּתֵ֥ף תִּנָּשֶֽׂאנָה׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic STANDARD|STANDARD]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2009]]"
+- "[[H5375G]]"
+- "[[H0413]]"
+- "[[H1471A]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H7311A]]"
+- "[[H5251H]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H2684]]"
+- "[[H1323G]]"
+- "[[H5921A]]"
+- "[[H3802]]"
+- "[[H5375H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:22**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in [their] arms, and thy daughters shall be carried upon [their] shoulders.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: “Behold, I will lift up My hand to the nations, and raise My banner to the peoples. They will bring your sons in their arms and carry your daughters on their shoulders.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H2009\|הִנֵּ֨ה]] [[H5375G\|אֶשָּׂ֤א]] [[H0413\|אֶל]][[H9014\|־]] [[H1471A\|גּוֹיִם֙]] [[H3027G\|יָדִ֔]][[H9020\|י]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַמִּ֖ים]] [[H7311A\|אָרִ֣ים]] [[H5251H\|נִסִּ֑]][[H9020\|י]] [[H9001\|וְ]][[H0935P\|הֵבִ֤יאוּ]] [[H1121A\|בָנַ֙יִ]][[H9022\|ךְ֙]] [[H9003\|בְּ]][[H2684\|חֹ֔צֶן]] [[H9002\|וּ]][[H1323G\|בְנֹתַ֖יִ]][[H9022\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3802\|כָּתֵ֥ף]] [[H5375H\|תִּנָּשֶֽׂאנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic STANDARD|STANDARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.21|<< Isaiah 49:21]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.23|Isaiah 49:23 >>]]</td></tr></table>
 

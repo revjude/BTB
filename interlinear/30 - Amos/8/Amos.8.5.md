@@ -1,8 +1,70 @@
+---
+title: Amos 8:5
+type: Verse
+kjv: "Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?"
+bsb: "asking, “When will the New Moon be over, that we may sell grain? When will the Sabbath end, that we may market wheat? Let us reduce the ephah and increase the shekel; let us cheat with dishonest scales."
+hebrew: "לֵאמֹ֗ר מָתַ֞י יַעֲבֹ֤ר הַחֹ֙דֶשׁ֙ וְנַשְׁבִּ֣ירָה שֶּׁ֔בֶר וְהַשַּׁבָּ֖ת וְנִפְתְּחָה־ בָּ֑ר לְהַקְטִ֤ין אֵיפָה֙ וּלְהַגְדִּ֣יל שֶׁ֔קֶל וּלְעַוֵּ֖ת מֹאזְנֵ֥י מִרְמָֽה׃"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BALANCES|BALANCES]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic MOON|MOON]]"
+- "[[topic NEW MOON|NEW MOON]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4970]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H2320H]]"
+- "[[H9002]]"
+- "[[H7666]]"
+- "[[H7668]]"
+- "[[H7676]]"
+- "[[H6605A]]"
+- "[[H9014]]"
+- "[[H1250A]]"
+- "[[H6994]]"
+- "[[H0374]]"
+- "[[H1431]]"
+- "[[H8255]]"
+- "[[H5791]]"
+- "[[H3976]]"
+- "[[H4820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 8:5**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?
 <small><sub>**BSB:**</sub></small>
 asking, “When will the New Moon be over, that we may sell grain? When will the Sabbath end, that we may market wheat? Let us reduce the ephah and increase the shekel; let us cheat with dishonest scales.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H4970\|מָתַ֞י]] [[H5674A\|יַעֲבֹ֤ר]] [[H9009\|הַ]][[H2320H\|חֹ֙דֶשׁ֙]] [[H9002\|וְ]][[H7666\|נַשְׁבִּ֣ירָה]] [[H7668\|שֶּׁ֔בֶר]] [[H9002\|וְ]][[H9009\|הַ]][[H7676\|שַּׁבָּ֖ת]] [[H9002\|וְ]][[H6605A\|נִפְתְּחָה]][[H9014\|־]] [[H1250A\|בָּ֑ר]] [[H9005\|לְ]][[H6994\|הַקְטִ֤ין]] [[H0374\|אֵיפָה֙]] [[H9002\|וּ]][[H9005\|לְ]][[H1431\|הַגְדִּ֣יל]] [[H8255\|שֶׁ֔קֶל]] [[H9002\|וּ]][[H9005\|לְ]][[H5791\|עַוֵּ֖ת]] [[H3976\|מֹאזְנֵ֥י]] [[H4820\|מִרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALANCES|BALANCES]] • [[topic DISHONESTY|DISHONESTY]] • [[topic MEASURE|MEASURE]] • [[topic MONEY|MONEY]] • [[topic MOON|MOON]] • [[topic NEW MOON|NEW MOON]] • [[topic OPPRESSION|OPPRESSION]] • [[topic SABBATH|SABBATH]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.4|<< Amos 8:4]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.6|Amos 8:6 >>]]</td></tr></table>
 

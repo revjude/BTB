@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Create in Me a Clean Heart, O God
+type: Pericope
 pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 51
 book/chapter: "[[Ps.51|Psalm 51]]"
-genre:
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 20
 verses:
 - "[[Ps.51.0]]"
 - "[[Ps.51.1]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Ps.51.19]]"
 ---
 
-[[Ps.51|Psalm 51:1 - Psalm 51:19]]
+<small>[[Ps.51|Psalm 51:1-19]]</small>
 *Create in Me a Clean Heart, O God*
 
 [[Ps.51.0|0]] To the chief Musician, A Psalm of David, when Nathan the prophet came unto him, after he had gone in to Bathsheba.

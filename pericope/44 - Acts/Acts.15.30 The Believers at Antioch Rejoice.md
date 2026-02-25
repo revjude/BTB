@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Believers at Antioch Rejoice
+type: Pericope
 pericope: "[[Acts.15.30 The Believers at Antioch Rejoice|The Believers at Antioch Rejoice]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 15
 book/chapter: "[[Acts.15|Acts 15]]"
-genre:
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.15.30]]"
 - "[[Acts.15.31]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.15.35]]"
 ---
 
-[[Acts.15|Acts 15:30 - Acts 15:35]]
+<small>[[Acts.15|Acts 15:30-35]]</small>
 *The Believers at Antioch Rejoice*
 
 [[Acts.15.30|30]] So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Final Remarks and Greetings
+type: Pericope
 pericope: "[[Titus.3.12 Final Remarks and Greetings|Final Remarks and Greetings]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Titus
 chapter: 3
 book/chapter: "[[Titus.3|Titus 3]]"
-genre:
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 4
 verses:
 - "[[Titus.3.12]]"
 - "[[Titus.3.13]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Titus.3.15]]"
 ---
 
-[[Titus.3|Titus 3:12 - Titus 3:15]]
+<small>[[Titus.3|Titus 3:12-15]]</small>
 *Final Remarks and Greetings*
 
 [[Titus.3.12|12]] When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter.

@@ -1,10 +1,60 @@
+---
+title: Romans 5:19
+type: Verse
+kjv: "For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous."
+bsb: "For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous."
+greek: "ὥσπερ γὰρ διὰ τῆς παρακοῆς τοῦ ἑνὸς ἀνθρώπου ἁμαρτωλοὶ κατεστάθησαν οἱ πολλοί, οὕτως καὶ διὰ τῆς ὑπακοῆς τοῦ ἑνὸς δίκαιοι κατασταθήσονται οἱ πολλοί.¶"
+pericope: "[[Rom.5.12 Death in Adam, Life in Christ|Death in Adam, Life in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G5618]]"
+- "[[G1063]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3876]]"
+- "[[G1520]]"
+- "[[G0444]]"
+- "[[G0268]]"
+- "[[G2525]]"
+- "[[G4183]]"
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G5218]]"
+- "[[G1342]]"
+texts:
+- NKO
+---
+
 **Romans 5:19**<big><big>[[Rom.5.12 Death in Adam, Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.
 <small><sub>**BSB:**</sub></small>
 For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous.
-<small><sub>**Literal:**</sub></small>
-For as for through the disobedience of the one man sinners were made the many, so also through the obedience of the One righteous will be made the many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.18|<< Romans 5:18]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.20|Romans 5:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5618\|ὥσπερ]]  [[G1063\|γὰρ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G3876\|παρακοῆς]]  [[G3588\|τοῦ]]  [[G1520\|ἑνὸς]]  [[G0444\|ἀνθρώπου]]  [[G0268\|ἁμαρτωλοὶ]]  [[G2525\|κατεστάθησαν]]  [[G3588\|οἱ]]  [[G4183\|πολλοί,]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G5218\|ὑπακοῆς]]  [[G3588\|τοῦ]]  [[G1520\|ἑνὸς]]  [[G1342\|δίκαιοι]]  [[G2525\|κατασταθήσονται]]  [[G3588\|οἱ]]  [[G4183\|πολλοί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic ATONEMENT|ATONEMENT]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.18|<< Romans 5:18]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.20|Romans 5:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

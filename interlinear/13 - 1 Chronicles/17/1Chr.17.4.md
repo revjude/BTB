@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 17:4
+type: Verse
+kjv: "Go and tell David my servant, Thus saith the LORD, Thou shalt not build me an house to dwell in:"
+bsb: "“Go and tell My servant David that this is what the LORD says: You are not the one to build Me a house in which to dwell."
+hebrew: "לֵ֤ךְ וְאָמַרְתָּ֙ אֶל־ דָּוִ֣יד עַבְדִּ֔י כֹּ֖ה אָמַ֣ר יְהוָ֑ה לֹ֥א אַתָּ֛ה תִּבְנֶה־ לִּ֥י הַבַּ֖יִת לָשָֽׁבֶת׃"
+pericope: "[[1Chr.17.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic NATHAN|NATHAN]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H0859A]]"
+- "[[H1129]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:4**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and tell David my servant, Thus saith the LORD, Thou shalt not build me an house to dwell in:
 <small><sub>**BSB:**</sub></small>
 “Go and tell My servant David that this is what the LORD says: You are not the one to build Me a house in which to dwell.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לֵ֤ךְ]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֣יד]] [[H5650\|עַבְדִּ֔]][[H9020\|י]] [[H3541\|כֹּ֖ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H3808\|לֹ֥א]] [[H0859A\|אַתָּ֛ה]] [[H1129\|תִּבְנֶה]][[H9014\|־]] [[H9005\|לִּ֥]][[H9030\|י]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H9005\|לָ]][[H3427\|שָֽׁבֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATHAN|NATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.3|<< 1 Chronicles 17:3]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.5|1 Chronicles 17:5 >>]]</td></tr></table>
 

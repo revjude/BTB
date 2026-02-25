@@ -1,8 +1,49 @@
+---
+title: Job 34:36
+type: Verse
+kjv: "My desire is that Job may be tried unto the end because of his answers for wicked men."
+bsb: "If only Job were tried to the utmost for answering like a wicked man."
+hebrew: "אָבִ֗י יִבָּחֵ֣ן אִיּ֣וֹב עַד־ נֶ֑צַח עַל־ תְּ֝שֻׁבֹ֗ת בְּאַנְשֵׁי־ אָֽוֶן׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H0015]]"
+- "[[H0974]]"
+- "[[H0347]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5331]]"
+- "[[H5921A]]"
+- "[[H8666]]"
+- "[[H9003]]"
+- "[[H0582]]"
+- "[[H0205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:36**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My desire [is that] Job may be tried unto the end because of [his] answers for wicked men.
 <small><sub>**BSB:**</sub></small>
 If only Job were tried to the utmost for answering like a wicked man.
+<small><sub>**Hebrew:**</sub></small>
+[[H0015\|אָבִ֗י]] [[H0974\|יִבָּחֵ֣ן]] [[H0347\|אִיּ֣וֹב]] [[H5704\|עַד]][[H9014\|־]] [[H5331\|נֶ֑צַח]] [[H5921A\|עַל]][[H9014\|־]] [[H8666\|תְּ֝שֻׁבֹ֗ת]] [[H9003\|בְּ]][[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H0205G\|אָֽוֶן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.35|<< Job 34:35]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.37|Job 34:37 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 30:15
+type: Verse
+kjv: "Then they killed the passover on the fourteenth day of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of the LORD."
+bsb: "And on the fourteenth day of the second month they slaughtered the Passover lamb. The priests and Levites were ashamed, and they consecrated themselves and brought burnt offerings to the house of the LORD."
+hebrew: "וַיִּשְׁחֲט֣וּ הַפֶּ֔סַח בְּאַרְבָּעָ֥ה עָשָׂ֖ר לַחֹ֣דֶשׁ הַשֵּׁנִ֑י וְהַכֹּהֲנִ֨ים וְהַלְוִיִּ֤ם נִכְלְמוּ֙ וַיִּֽתְקַדְּשׁ֔וּ וַיָּבִ֥יאוּ עֹל֖וֹת בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Chr.30.13 Hezekiah Celebrates the Passover|Hezekiah Celebrates the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 30
+book/chapter: "[[2Chr.30|2 Chronicles 30]]"
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7819A]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H9003]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H8145]]"
+- "[[H9002]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H3637]]"
+- "[[H6942G]]"
+- "[[H0935P]]"
+- "[[H5930A]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 30:15**<big><big>[[2Chr.30.13 Hezekiah Celebrates the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they killed the passover on the fourteenth [day] of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 And on the fourteenth day of the second month they slaughtered the Passover lamb. The priests and Levites were ashamed, and they consecrated themselves and brought burnt offerings to the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7819A\|יִּשְׁחֲט֣וּ]] [[H9009\|הַ]][[H6453\|פֶּ֔סַח]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֑י]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֲנִ֨ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֤ם]] [[H3637\|נִכְלְמוּ֙]] [[H9001\|וַ]][[H6942G\|יִּֽתְקַדְּשׁ֔וּ]] [[H9001\|וַ]][[H0935P\|יָּבִ֥יאוּ]] [[H5930A\|עֹל֖וֹת]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.14|<< 2 Chronicles 30:14]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.16|2 Chronicles 30:16 >>]]</td></tr></table>
 

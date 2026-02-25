@@ -1,8 +1,55 @@
+---
+title: Proverbs 19:10
+type: Verse
+kjv: "Delight is not seemly for a fool; much less for a servant to have rule over princes."
+bsb: "Luxury is unseemly for a fool—how much worse for a slave to rule over princes!"
+hebrew: "לֹֽא־ נָאוֶ֣ה לִכְסִ֣יל תַּעֲנ֑וּג אַ֝֗ף כִּֽי־ לְעֶ֤בֶד׀ מְשֹׁ֬ל בְּשָׂרִֽים׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5000]]"
+- "[[H9005]]"
+- "[[H3684]]"
+- "[[H8588]]"
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H5650]]"
+- "[[H9015]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H8269]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:10**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Delight is not seemly for a fool; much less for a servant to have rule over princes.
 <small><sub>**BSB:**</sub></small>
 Luxury is unseemly for a fool—how much worse for a slave to rule over princes!
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H5000\|נָאוֶ֣ה]] [[H9005\|לִ]][[H3684\|כְסִ֣יל]] [[H8588\|תַּעֲנ֑וּג]] [[H0637\|אַ֝֗ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H5650\|עֶ֤בֶד]][[H9015\|׀]] [[H4910\|מְשֹׁ֬ל]] [[H9003\|בְּ]][[H8269\|שָׂרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.9|<< Proverbs 19:9]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.11|Proverbs 19:11 >>]]</td></tr></table>
 

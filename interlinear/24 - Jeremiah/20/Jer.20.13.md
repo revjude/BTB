@@ -1,8 +1,58 @@
+---
+title: Jeremiah 20:13
+type: Verse
+kjv: "Sing unto the LORD, praise ye the LORD: for he hath delivered the soul of the poor from the hand of evildoers."
+bsb: "Sing to the LORD! Praise the LORD! For He rescues the life of the needy from the hands of evildoers."
+hebrew: "שִׁ֚ירוּ לַֽיהוָ֔ה הַֽלְל֖וּ אֶת־ יְהוָ֑ה כִּ֥י הִצִּ֛יל אֶת־ נֶ֥פֶשׁ אֶבְי֖וֹן מִיַּ֥ד מְרֵעִֽים׃ ס"
+pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H7891]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H1984B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3588A]]"
+- "[[H5337]]"
+- "[[H5315H]]"
+- "[[H0034]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H7489A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 20:13**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sing unto the LORD, praise ye the LORD: for he hath delivered the soul of the poor from the hand of evildoers.
 <small><sub>**BSB:**</sub></small>
 Sing to the LORD! Praise the LORD! For He rescues the life of the needy from the hands of evildoers.
+<small><sub>**Hebrew:**</sub></small>
+[[H7891\|שִׁ֚ירוּ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H1984B\|הַֽלְל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֥י]] [[H5337\|הִצִּ֛יל]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נֶ֥פֶשׁ]] [[H0034\|אֶבְי֖וֹן]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H7489A\|מְרֵעִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.12|<< Jeremiah 20:12]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.14|Jeremiah 20:14 >>]]</td></tr></table>
 
@@ -19,7 +69,7 @@ Sing to the LORD! Praise the LORD! For He rescues the life of the needy from the
 | [the] life of  |**<big>&#8207;[[H5315H\|נֶ֥פֶשׁ]]&#8207; </big>**| Ne.fesh<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] needy  |**<big>&#8207;[[H0034\|אֶבְי֖וֹן]]&#8207; </big>**| 'ev.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] hand of  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3027H\|יַּ֥ד]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Yad<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| evil-doers  |**<big>&#8207;[[H7489A\|מְרֵעִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.re.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| evil-doers  |**<big>&#8207;[[H7489A\|מְרֵעִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.re.'Im<small><sup>[[HVhrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.12|<< Jeremiah 20:12]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.14|Jeremiah 20:14 >>]]</td></tr></table>
 
 

@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 15:12
+type: Verse
+kjv: "And if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee."
+bsb: "If a fellow Hebrew, a man or a woman, is sold to you and serves you six years, then in the seventh year you must set him free."
+hebrew: "כִּֽי־ יִמָּכֵ֨ר לְךָ֜ אָחִ֣יךָ הָֽעִבְרִ֗י א֚וֹ הָֽעִבְרִיָּ֔ה וַעֲבָֽדְךָ֖ שֵׁ֣שׁ שָׁנִ֑ים וּבַשָּׁנָה֙ הַשְּׁבִיעִ֔ת תְּשַׁלְּחֶ֥נּוּ חָפְשִׁ֖י מֵעִמָּֽךְ׃"
+pericope: "[[Deut.15.12 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HEBREW|HEBREW]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4376]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H0176A]]"
+- "[[H9001]]"
+- "[[H5647G]]"
+- "[[H8337]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7637]]"
+- "[[H7971H]]"
+- "[[H9033]]"
+- "[[H2670]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:12**<big><big>[[Deut.15.12 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee.
 <small><sub>**BSB:**</sub></small>
 If a fellow Hebrew, a man or a woman, is sold to you and serves you six years, then in the seventh year you must set him free.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H4376\|יִמָּכֵ֨ר]] [[H9005\|לְ]][[H9031\|ךָ֜]] [[H0251I\|אָחִ֣י]][[H9021\|ךָ]] [[H9009\|הָֽ]][[H5680\|עִבְרִ֗י]] [[H0176A\|א֚וֹ]] [[H9009\|הָֽ]][[H5680\|עִבְרִיָּ֔ה]] [[H9001\|וַ]][[H5647G\|עֲבָֽדְ]][[H9031\|ךָ֖]] [[H8337\|שֵׁ֣שׁ]] [[H8141\|שָׁנִ֑ים]] [[H9002\|וּ]][[H9003\|בַ]][[H8141\|שָּׁנָה֙]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔ת]] [[H7971H\|תְּשַׁלְּחֶ֥]][[H9033\|נּוּ]] [[H2670\|חָפְשִׁ֖י]] [[H9006\|מֵ]][[H5973B\|עִמָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HEBREW|HEBREW]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.11|<< Deuteronomy 15:11]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.13|Deuteronomy 15:13 >>]]</td></tr></table>
 

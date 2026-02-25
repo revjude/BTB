@@ -1,8 +1,56 @@
+---
+title: Job 3:15
+type: Verse
+kjv: "Or with princes that had gold, who filled their houses with silver:"
+bsb: "or with princes who had gold, who filled their houses with silver."
+hebrew: "א֣וֹ עִם־ שָׂ֭רִים זָהָ֣ב לָהֶ֑ם הַֽמְמַלְאִ֖ים בָּתֵּיהֶ֣ם כָּֽסֶף׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H0176A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H2091]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H4390]]"
+- "[[H1004B]]"
+- "[[H9028]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:15**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or with princes that had gold, who filled their houses with silver:
 <small><sub>**BSB:**</sub></small>
 or with princes who had gold, who filled their houses with silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֣וֹ]] [[H5973A\|עִם]][[H9014\|־]] [[H8269\|שָׂ֭רִים]] [[H2091\|זָהָ֣ב]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9009\|הַֽ]][[H4390\|מְמַלְאִ֖ים]] [[H1004B\|בָּתֵּי]][[H9028\|הֶ֣ם]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.14|<< Job 3:14]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.16|Job 3:16 >>]]</td></tr></table>
 

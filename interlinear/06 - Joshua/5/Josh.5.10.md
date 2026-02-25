@@ -1,8 +1,61 @@
+---
+title: Joshua 5:10
+type: Verse
+kjv: "And the children of Israel encamped in Gilgal, and kept the passover on the fourteenth day of the month at even in the plains of Jericho."
+bsb: "On the evening of the fourteenth day of the month, while the Israelites were camped at Gilgal on the plains of Jericho, they kept the Passover."
+hebrew: "וַיַּחֲנ֥וּ בְנֵֽי־ יִשְׂרָאֵ֖ל בַּגִּלְגָּ֑ל וַיַּעֲשׂ֣וּ אֶת־ הַפֶּ֡סַח בְּאַרְבָּעָה֩ עָשָׂ֨ר י֥וֹם לַחֹ֛דֶשׁ בָּעֶ֖רֶב בְּעַֽרְב֥וֹת יְרִיחֽוֹ׃"
+pericope: "[[Josh.5.1 The Circumcision and Passover at Gilgal|The Circumcision and Passover at Gilgal]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 5
+book/chapter: "[[Josh.5|Joshua 5]]"
+chronological_order: 235
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2583]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H1537G]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H6153]]"
+- "[[H6160L]]"
+- "[[H3405G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 5:10**<big><big>[[Josh.5.1 The Circumcision and Passover at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel encamped in Gilgal, and kept the passover on the fourteenth day of the month at even in the plains of Jericho.
 <small><sub>**BSB:**</sub></small>
 On the evening of the fourteenth day of the month, while the Israelites were camped at Gilgal on the plains of Jericho, they kept the Passover.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2583\|יַּחֲנ֥וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בַּ]][[H1537G\|גִּלְגָּ֑ל]] [[H9001\|וַ]][[H6213A\|יַּעֲשׂ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6453\|פֶּ֡סַח]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָה֩]] [[H6240\|עָשָׂ֨ר]] [[H3117G\|י֥וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֛דֶשׁ]] [[H9003\|בָּ]][[H6153\|עֶ֖רֶב]] [[H9003\|בְּ]][[H6160L\|עַֽרְב֥וֹת]] [[H3405G\|יְרִיחֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILGAL|GILGAL]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.9|<< Joshua 5:9]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.11|Joshua 5:11 >>]]</td></tr></table>
 

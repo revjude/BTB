@@ -1,8 +1,66 @@
+---
+title: Jeremiah 34:9
+type: Verse
+kjv: "That every man should let his manservant, and every man his maidservant, being an Hebrew or an Hebrewess, go free; that none should serve himself of them, to wit, of a Jew his brother."
+bsb: "that each man should free his Hebrew slaves, both male and female, and no one should hold his fellow Jew in bondage."
+hebrew: "לְ֠שַׁלַּח אִ֣ישׁ אֶת־ עַבְדּ֞וֹ וְאִ֧ישׁ אֶת־ שִׁפְחָת֛וֹ הָעִבְרִ֥י וְהָעִבְרִיָּ֖ה חָפְשִׁ֑ים לְבִלְתִּ֧י עֲבָד־ בָּ֛ם בִּיהוּדִ֥י אָחִ֖יהוּ אִֽישׁ׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic KING|KING]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9005]]"
+- "[[H7971H]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8198]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H2670]]"
+- "[[H1115]]"
+- "[[H5647G]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3064]]"
+- "[[H0251I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:9**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That every man should let his manservant, and every man his maidservant, [being] an Hebrew or an Hebrewess, go free; that none should serve himself of them, [to wit], of a Jew his brother.
 <small><sub>**BSB:**</sub></small>
 that each man should free his Hebrew slaves, both male and female, and no one should hold his fellow Jew in bondage.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ֠]][[H7971H\|שַׁלַּח]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדּ֞]][[H9023\|וֹ]] [[H9002\|וְ]][[H0376I\|אִ֧ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H8198\|שִׁפְחָת֛]][[H9023\|וֹ]] [[H9009\|הָ]][[H5680\|עִבְרִ֥י]] [[H9002\|וְ]][[H9009\|הָ]][[H5680\|עִבְרִיָּ֖ה]] [[H2670\|חָפְשִׁ֑ים]] [[H9005\|לְ]][[H1115\|בִלְתִּ֧י]] [[H5647G\|עֲבָד]][[H9014\|־]] [[H9003\|בָּ֛]][[H9038\|ם]] [[H9003\|בִּ]][[H3064\|יהוּדִ֥י]] [[H0251I\|אָחִ֖י]][[H9023\|הוּ]] [[H0376I\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic CONSTITUTION|CONSTITUTION]] • [[topic COVENANT|COVENANT]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic KING|KING]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.8|<< Jeremiah 34:8]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.10|Jeremiah 34:10 >>]]</td></tr></table>
 

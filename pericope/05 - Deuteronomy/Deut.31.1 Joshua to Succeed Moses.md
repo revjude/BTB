@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua to Succeed Moses
+type: Pericope
 pericope: "[[Deut.31.1 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 31
 book/chapter: "[[Deut.31|Deuteronomy 31]]"
-genre:
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.31.1]]"
 - "[[Deut.31.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.31.8]]"
 ---
 
-[[Deut.31|Deuteronomy 31:1 - Deuteronomy 31:8]]
+<small>[[Deut.31|Deuteronomy 31:1-8]]</small>
 *Joshua to Succeed Moses*
 
 [[Deut.31.1|1]] And Moses went and spake these words unto all Israel.

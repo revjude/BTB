@@ -1,10 +1,53 @@
+---
+title: Revelation 7:7
+type: Verse
+kjv: "Of the tribe of Simeon were sealed twelve thousand. Of the tribe of Levi were sealed twelve thousand. Of the tribe of Issachar were sealed twelve thousand."
+bsb: "from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,"
+greek: "ἐκ φυλῆς Συμεὼν δώδεκα χιλιάδες ἐσφραγισμένοι· ἐκ φυλῆς Λευὶ δώδεκα χιλιάδες ἐσφραγισμένοι· ἐκ φυλῆς Ἰσσαχὰρ δώδεκα χιλιάδες ἐσφραγισμένοι·"
+pericope: "[[Rev.7.1 144,000 Sealed|144,000 Sealed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1537]]"
+- "[[G5443]]"
+- "[[G4826J]]"
+- "[[G1427]]"
+- "[[G5505]]"
+- "[[G4972]]"
+- "[[G3017J]]"
+- "[[G2466]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 7:7**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of the tribe of Simeon [were] sealed twelve thousand. Of the tribe of Levi [were] sealed twelve thousand. Of the tribe of Issachar [were] sealed twelve thousand.
 <small><sub>**BSB:**</sub></small>
 from the tribe of Simeon 12,000, from the tribe of Levi 12,000, from the tribe of Issachar 12,000,
-<small><sub>**Literal:**</sub></small>
-out of [the] tribe of Simeon twelve thousand sealed; out of [the] tribe of Levi twelve thousand sealed; out of [the] tribe of Isaachar twelve thousand sealed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.6|<< Revelation 7:6]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.8|Revelation 7:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐκ]]  [[G5443\|φυλῆς]]  [[G4826J\|Συμεὼν]]  [[G1427\|δώδεκα]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι·]]  [[G1537\|ἐκ]]  [[G5443\|φυλῆς]]  [[G3017J\|Λευὶ]]  [[G1427\|δώδεκα]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι·]]  [[G1537\|ἐκ]]  [[G5443\|φυλῆς]]  [[G2466\|Ἰσσαχὰρ]]  [[G1427\|δώδεκα]]  [[G5505\|χιλιάδες]]  [[G4972\|ἐσφραγισμένοι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic LEVITES|LEVITES]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.6|<< Revelation 7:6]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.8|Revelation 7:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

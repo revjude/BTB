@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Forgiveness and Judgment
+type: Pericope
 pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 14
 book/chapter: "[[Num.14|Numbers 14]]"
-genre:
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 16
 verses:
 - "[[Num.14.20]]"
 - "[[Num.14.21]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Num.14.35]]"
 ---
 
-[[Num.14|Numbers 14:20 - Numbers 14:35]]
+<small>[[Num.14|Numbers 14:20-35]]</small>
 *God’s Forgiveness and Judgment*
 
 [[Num.14.20|20]] And the LORD said, I have pardoned according to thy word:

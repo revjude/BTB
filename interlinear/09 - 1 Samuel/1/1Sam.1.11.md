@@ -1,8 +1,85 @@
+---
+title: 1 Samuel 1:11
+type: Verse
+kjv: "And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no rasor come upon his head."
+bsb: "And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.”"
+hebrew: "וַתִּדֹּ֨ר נֶ֜דֶר וַתֹּאמַ֗ר יְהוָ֨ה צְבָא֜וֹת אִם־ רָאֹ֥ה תִרְאֶ֣ה׀ בָּעֳנִ֣י אֲמָתֶ֗ךָ וּזְכַרְתַּ֙נִי֙ וְלֹֽא־ תִשְׁכַּ֣ח אֶת־ אֲמָתֶ֔ךָ וְנָתַתָּ֥ה לַאֲמָתְךָ֖ זֶ֣רַע אֲנָשִׁ֑ים וּנְתַתִּ֤יו לַֽיהוָה֙ כָּל־ יְמֵ֣י חַיָּ֔יו וּמוֹרָ֖ה לֹא־ יַעֲלֶ֥ה עַל־ רֹאשֽׁוֹ׃"
+pericope: "[[1Sam.1.9 Hannah Prays for a Son|Hannah Prays for a Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5087]]"
+- "[[H5088]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H6040]]"
+- "[[H0519]]"
+- "[[H9021]]"
+- "[[H2142]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7911]]"
+- "[[H0853]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H2233H]]"
+- "[[H0582]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H9023]]"
+- "[[H4177]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:11**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no rasor come upon his head.
 <small><sub>**BSB:**</sub></small>
 And she made a vow, saying, “O LORD of Hosts, if only You will look upon the affliction of Your maidservant and remember me, not forgetting Your maidservant but giving her a son, then I will dedicate him to the LORD all the days of his life, and no razor shall ever touch his head.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5087\|תִּדֹּ֨ר]] [[H5088\|נֶ֜דֶר]] [[H9001\|וַ]][[H0559\|תֹּאמַ֗ר]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H0518A\|אִם]][[H9014\|־]] [[H7200G\|רָאֹ֥ה]] [[H7200G\|תִרְאֶ֣ה]][[H9015\|׀]] [[H9003\|בָּ]][[H6040\|עֳנִ֣י]] [[H0519\|אֲמָתֶ֗]][[H9021\|ךָ]] [[H9001\|וּ]][[H2142\|זְכַרְתַּ֙]][[H9030\|נִי֙]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7911\|תִשְׁכַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0519\|אֲמָתֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H5414G\|נָתַתָּ֥ה]] [[H9005\|לַ]][[H0519\|אֲמָתְ]][[H9021\|ךָ֖]] [[H2233H\|זֶ֣רַע]] [[H0582\|אֲנָשִׁ֑ים]] [[H9001\|וּ]][[H5414G\|נְתַתִּ֤י]][[H9033\|ו]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H2416E\|חַיָּ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H4177\|מוֹרָ֖ה]] [[H3808\|לֹא]][[H9014\|־]] [[H5927G\|יַעֲלֶ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BARRENNESS|BARRENNESS]] • [[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic CONSECRATION|CONSECRATION]] • [[topic DEDICATION|DEDICATION]] • [[topic HANNAH|HANNAH]] • [[topic NAZARITE|NAZARITE]] • [[topic PRAYER|PRAYER]] • [[topic SAMUEL|SAMUEL]] • [[topic VOWS|VOWS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.10|<< 1 Samuel 1:10]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.12|1 Samuel 1:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

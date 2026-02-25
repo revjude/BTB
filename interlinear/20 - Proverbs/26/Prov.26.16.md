@@ -1,8 +1,55 @@
+---
+title: Proverbs 26:16
+type: Verse
+kjv: "The sluggard is wiser in his own conceit than seven men that can render a reason."
+bsb: "The slacker is wiser in his own eyes than seven men who answer discreetly."
+hebrew: "חָכָ֣ם עָצֵ֣ל בְּעֵינָ֑יו מִ֝שִּׁבְעָ֗ה מְשִׁ֣יבֵי טָֽעַם׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CONCEIT|CONCEIT]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H2450]]"
+- "[[H6102]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H7651]]"
+- "[[H7725M]]"
+- "[[H2940]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:16**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sluggard [is] wiser in his own conceit than seven men that can render a reason.
 <small><sub>**BSB:**</sub></small>
 The slacker is wiser in his own eyes than seven men who answer discreetly.
+<small><sub>**Hebrew:**</sub></small>
+[[H2450\|חָכָ֣ם]] [[H6102\|עָצֵ֣ל]] [[H9003\|בְּ]][[H5869A\|עֵינָ֑י]][[H9023\|ו]] [[H9006\|מִ֝]][[H7651\|שִּׁבְעָ֗ה]] [[H7725M\|מְשִׁ֣יבֵי]] [[H2940\|טָֽעַם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCEIT|CONCEIT]] • [[topic IDLENESS|IDLENESS]] • [[topic PRIDE|PRIDE]] • [[topic SARCASM|SARCASM]] • [[topic SEVEN|SEVEN]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.15|<< Proverbs 26:15]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.17|Proverbs 26:17 >>]]</td></tr></table>
 

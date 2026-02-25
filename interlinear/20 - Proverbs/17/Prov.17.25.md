@@ -1,8 +1,53 @@
+---
+title: Proverbs 17:25
+type: Verse
+kjv: "A foolish son is a grief to his father, and bitterness to her that bare him."
+bsb: "A foolish son brings grief to his father and bitterness to her who bore him."
+hebrew: "כַּ֣עַס לְ֭אָבִיו בֵּ֣ן כְּסִ֑יל וּ֝מֶ֗מֶר לְיוֹלַדְתּֽוֹ׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3708A]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H1121A]]"
+- "[[H3684]]"
+- "[[H9002]]"
+- "[[H4470]]"
+- "[[H3205]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 17:25**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A foolish son [is] a grief to his father, and bitterness to her that bare him.
 <small><sub>**BSB:**</sub></small>
 A foolish son brings grief to his father and bitterness to her who bore him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3708A\|כַּ֣עַס]] [[H9005\|לְ֭]][[H0001G\|אָבִי]][[H9023\|ו]] [[H1121A\|בֵּ֣ן]] [[H3684\|כְּסִ֑יל]] [[H9002\|וּ֝]][[H4470\|מֶ֗מֶר]] [[H9005\|לְ]][[H3205\|יוֹלַדְתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FOOL|FOOL]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.24|<< Proverbs 17:24]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.26|Proverbs 17:26 >>]]</td></tr></table>
 

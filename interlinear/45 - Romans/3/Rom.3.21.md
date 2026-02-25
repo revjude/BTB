@@ -1,10 +1,58 @@
+---
+title: Romans 3:21
+type: Verse
+kjv: "But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;"
+bsb: "But now, apart from the law, the righteousness of God has been revealed, as attested by the Law and the Prophets."
+greek: "νυνὶ δὲ χωρὶς νόμου δικαιοσύνη θεοῦ πεφανέρωται μαρτυρουμένη ὑπὸ τοῦ νόμου καὶ τῶν προφητῶν,"
+pericope: "[[Rom.3.21 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G5565]]"
+- "[[G3551]]"
+- "[[G1343]]"
+- "[[G2316]]"
+- "[[G5319]]"
+- "[[G3140]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G2532]]"
+- "[[G4396]]"
+texts:
+- NKO
+---
+
 **Romans 3:21**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;
 <small><sub>**BSB:**</sub></small>
 But now, apart from the law, the righteousness of God has been revealed, as attested by the Law and the Prophets.
-<small><sub>**Literal:**</sub></small>
-Now however apart from law [the] righteousness of God has been revealed being borne witness to by the Law and the Prophets,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.20|<< Romans 3:20]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.22|Romans 3:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3570\|νυνὶ]]  [[G1161\|δὲ]]  [[G5565\|χωρὶς]]  [[G3551\|νόμου]]  [[G1343\|δικαιοσύνη]]  [[G2316\|θεοῦ]]  [[G5319\|πεφανέρωται]]  [[G3140\|μαρτυρουμένη]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic BOASTING|BOASTING]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic GOD|GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.20|<< Romans 3:20]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.22|Romans 3:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

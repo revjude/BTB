@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Idolatry of Ahaz
+type: Pericope
 pericope: "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 28
 book/chapter: "[[2Chr.28|2 Chronicles 28]]"
-genre:
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 12
 verses:
 - "[[2Chr.28.16]]"
 - "[[2Chr.28.17]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Chr.28.27]]"
 ---
 
-[[2Chr.28|2 Chronicles 28:16 - 2 Chronicles 28:27]]
+<small>[[2Chr.28|2 Chronicles 28:16-27]]</small>
 *The Idolatry of Ahaz*
 
 [[2Chr.28.16|16]] At that time did king Ahaz send unto the kings of Assyria to help him.

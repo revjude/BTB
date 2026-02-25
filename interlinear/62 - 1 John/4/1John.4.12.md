@@ -1,10 +1,62 @@
+---
+title: 1 John 4:12
+type: Verse
+kjv: "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us."
+bsb: "No one has ever seen God; but if we love one another, God remains in us, and His love is perfected in us."
+greek: "θεὸν οὐδεὶς πώποτε τεθέαται· ἐὰν ἀγαπῶμεν ἀλλήλους, ὁ θεὸς ἐν ἡμῖν μένει καὶ ἡ ἀγάπη αὐτοῦ ἐν ἡμῖν τετελειωμένη ἐστίν."
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G2316]]"
+- "[[G3762]]"
+- "[[G4455]]"
+- "[[G2300]]"
+- "[[G1437]]"
+- "[[G0025]]"
+- "[[G0240]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3165]]"
+- "[[G3306]]"
+- "[[G2532]]"
+- "[[G0026]]"
+- "[[G0846]]"
+- "[[G5048]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **1 John 4:12**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us.
 <small><sub>**BSB:**</sub></small>
 No one has ever seen God; but if we love one another, God remains in us, and His love is perfected in us.
-<small><sub>**Literal:**</sub></small>
-God no [one] at any time has seen; if we shall love one another, <the> God in us abides and the love of Him in us perfected is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.11|<< 1 John 4:11]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.13|1 John 4:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2316\|θεὸν]]  [[G3762\|οὐδεὶς]]  [[G4455\|πώποτε]]  [[G2300\|τεθέαται·]]  [[G1437\|ἐὰν]]  [[G0025\|ἀγαπῶμεν]]  [[G0240\|ἀλλήλους,]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν]]  [[G3306\|μένει]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν]]  [[G5048\|τετελειωμένη]]  [[G1510\|ἐστίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic LOVE|LOVE]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.11|<< 1 John 4:11]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.13|1 John 4:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

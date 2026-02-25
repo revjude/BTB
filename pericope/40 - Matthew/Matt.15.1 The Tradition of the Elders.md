@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tradition of the Elders
+type: Pericope
 pericope: "[[Matt.15.1 The Tradition of the Elders|The Tradition of the Elders]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 15
 book/chapter: "[[Matt.15|Matthew 15]]"
-genre:
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Matt.15.1]]"
 - "[[Matt.15.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Matt.15.9]]"
 ---
 
-[[Matt.15|Matthew 15:1 - Matthew 15:9]]
+<small>[[Matt.15|Matthew 15:1-9]]</small>
 *The Tradition of the Elders*
 
 [[Matt.15.1|1]] Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,

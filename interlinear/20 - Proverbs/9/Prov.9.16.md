@@ -1,8 +1,59 @@
+---
+title: Proverbs 9:16
+type: Verse
+kjv: "Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,"
+bsb: "“Whoever is simple, let him turn in here!” she says to him who lacks judgment."
+hebrew: "מִי־ פֶ֭תִי יָסֻ֣ר הֵ֑נָּה וַחֲסַר־ לֵ֝֗ב וְאָ֣מְרָה לּֽוֹ׃"
+pericope: "[[Prov.9.13 The Way of Folly|The Way of Folly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 9
+book/chapter: "[[Prov.9|Proverbs 9]]"
+chronological_order: 464
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HELL|HELL]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H6612A]]"
+- "[[H5493H]]"
+- "[[H2008]]"
+- "[[H9002]]"
+- "[[H2638]]"
+- "[[H3820A]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 9:16**<big><big>[[Prov.9.13 The Way of Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso [is] simple, let him turn in hither: and [as for] him that wanteth understanding, she saith to him,
 <small><sub>**BSB:**</sub></small>
 “Whoever is simple, let him turn in here!” she says to him who lacks judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִי]][[H9014\|־]] [[H6612A\|פֶ֭תִי]] [[H5493H\|יָסֻ֣ר]] [[H2008\|הֵ֑נָּה]] [[H9002\|וַ]][[H2638\|חֲסַר]][[H9014\|־]] [[H3820A\|לֵ֝֗ב]] [[H9001\|וְ]][[H0559\|אָ֣מְרָה]] [[H9005\|לּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic FOOL|FOOL]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HELL|HELL]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.15|<< Proverbs 9:15]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.17|Proverbs 9:17 >>]]</td></tr></table>
 

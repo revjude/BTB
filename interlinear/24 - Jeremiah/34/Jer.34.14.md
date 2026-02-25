@@ -1,8 +1,78 @@
+---
+title: Jeremiah 34:14
+type: Verse
+kjv: "At the end of seven years let ye go every man his brother an Hebrew, which hath been sold unto thee; and when he hath served thee six years, thou shalt let him go free from thee: but your fathers hearkened not unto me, neither inclined their ear."
+bsb: "Every seventh year, each of you must free his Hebrew brother who has sold himself to you. He may serve you six years, but then you must let him go free. But your fathers did not listen or incline their ear."
+hebrew: "מִקֵּ֣ץ שֶׁ֣בַע שָׁנִ֡ים תְּֽשַׁלְּח֡וּ אִישׁ֩ אֶת־ אָחִ֨יו הָעִבְרִ֜י אֲשֶֽׁר־ יִמָּכֵ֣ר לְךָ֗ וַעֲבָֽדְךָ֙ שֵׁ֣שׁ שָׁנִ֔ים וְשִׁלַּחְתּ֥וֹ חָפְשִׁ֖י מֵֽעִמָּ֑ךְ וְלֹֽא־ שָׁמְע֤וּ אֲבֽוֹתֵיכֶם֙ אֵלַ֔י וְלֹ֥א הִטּ֖וּ אֶת־ אָזְנָֽם׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H7971H]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H0834A]]"
+- "[[H4376]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H5647G]]"
+- "[[H8337]]"
+- "[[H9033]]"
+- "[[H2670]]"
+- "[[H5973B]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H5186]]"
+- "[[H0241G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:14**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the end of seven years let ye go every man his brother an Hebrew, which hath been sold unto thee; and when he hath served thee six years, thou shalt let him go free from thee: but your fathers hearkened not unto me, neither inclined their ear.
 <small><sub>**BSB:**</sub></small>
 Every seventh year, each of you must free his Hebrew brother who has sold himself to you. He may serve you six years, but then you must let him go free. But your fathers did not listen or incline their ear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H7093\|קֵּ֣ץ]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֡ים]] [[H7971H\|תְּֽשַׁלְּח֡וּ]] [[H0376I\|אִישׁ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H0251I\|אָחִ֨י]][[H9023\|ו]] [[H9009\|הָ]][[H5680\|עִבְרִ֜י]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H4376\|יִמָּכֵ֣ר]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H9001\|וַ]][[H5647G\|עֲבָֽדְ]][[H9031\|ךָ֙]] [[H8337\|שֵׁ֣שׁ]] [[H8141\|שָׁנִ֔ים]] [[H9001\|וְ]][[H7971H\|שִׁלַּחְתּ֥]][[H9033\|וֹ]] [[H2670\|חָפְשִׁ֖י]] [[H9006\|מֵֽ]][[H5973B\|עִמָּ֑]][[H9032\|ךְ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|שָׁמְע֤וּ]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶם֙]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5186\|הִטּ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0241G\|אָזְנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.13|<< Jeremiah 34:13]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.15|Jeremiah 34:15 >>]]</td></tr></table>
 

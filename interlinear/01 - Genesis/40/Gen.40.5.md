@@ -1,8 +1,67 @@
+---
+title: Genesis 40:5
+type: Verse
+kjv: "And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison."
+bsb: "both of these men—the Egyptian king’s cupbearer and baker, who were being held in the prison—had a dream on the same night, and each dream had its own meaning."
+hebrew: "וַיַּֽחַלְמוּ֩ חֲל֨וֹם שְׁנֵיהֶ֜ם אִ֤ישׁ חֲלֹמוֹ֙ בְּלַ֣יְלָה אֶחָ֔ד אִ֖ישׁ כְּפִתְר֣וֹן חֲלֹמ֑וֹ הַמַּשְׁקֶ֣ה וְהָאֹפֶ֗ה אֲשֶׁר֙ לְמֶ֣לֶךְ מִצְרַ֔יִם אֲשֶׁ֥ר אֲסוּרִ֖ים בְּבֵ֥ית הַסֹּֽהַר׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2492B]]"
+- "[[H2472]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H0376I]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H0259]]"
+- "[[H9004]]"
+- "[[H6623]]"
+- "[[H9009]]"
+- "[[H4945A]]"
+- "[[H9002]]"
+- "[[H0644]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H0631]]"
+- "[[H1004B]]"
+- "[[H5470]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:5**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which [were] bound in the prison.
 <small><sub>**BSB:**</sub></small>
 both of these men—the Egyptian king’s cupbearer and baker, who were being held in the prison—had a dream on the same night, and each dream had its own meaning.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2492B\|יַּֽחַלְמוּ֩]] [[H2472\|חֲל֨וֹם]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֜ם]] [[H0376I\|אִ֤ישׁ]] [[H2472\|חֲלֹמ]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H3915\|לַ֣יְלָה]] [[H0259\|אֶחָ֔ד]] [[H0376I\|אִ֖ישׁ]] [[H9004\|כְּ]][[H6623\|פִתְר֣וֹן]] [[H2472\|חֲלֹמ֑]][[H9023\|וֹ]] [[H9009\|הַ]][[H4945A\|מַּשְׁקֶ֣ה]] [[H9002\|וְ]][[H9009\|הָ]][[H0644\|אֹפֶ֗ה]] [[H0834A\|אֲשֶׁר֙]] [[H9005\|לְ]][[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרַ֔יִם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0631\|אֲסוּרִ֖ים]] [[H9003\|בְּ]][[H1004B\|בֵ֥ית]] [[H9009\|הַ]][[H5470\|סֹּֽהַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.4|<< Genesis 40:4]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.6|Genesis 40:6 >>]]</td></tr></table>
 

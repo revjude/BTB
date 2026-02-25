@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 5:20
+type: Verse
+kjv: "And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him."
+bsb: "And because they cried out to God in battle, they were helped against their enemies, and the Hagrites and all their allies were delivered into their hands. Because they put their trust in God, He answered their prayers."
+hebrew: "וַיֵּעָזְר֣וּ עֲלֵיהֶ֔ם וַיִּנָּתְנ֤וּ בְיָדָם֙ הַֽהַגְרִיאִ֔ים וְכֹ֖ל שֶׁ֣עִמָּהֶ֑ם כִּ֠י לֵאלֹהִ֤ים זָעֲקוּ֙ בַּמִּלְחָמָ֔ה וְנַעְתּ֥וֹר לָהֶ֖ם כִּי־ בָ֥טְחוּ בֽוֹ׃"
+pericope: "[[1Chr.5.11 The Descendants of Gad|The Descendants of Gad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HAGAR|HAGAR]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5826]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H1905]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9007]]"
+- "[[H5973A]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H2199]]"
+- "[[H4421]]"
+- "[[H6279]]"
+- "[[H9014]]"
+- "[[H0982]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:20**<big><big>[[1Chr.5.11 The Descendants of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they were helped against them, and the Hagarites were delivered into their hand, and all that [were] with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him.
 <small><sub>**BSB:**</sub></small>
 And because they cried out to God in battle, they were helped against their enemies, and the Hagrites and all their allies were delivered into their hands. Because they put their trust in God, He answered their prayers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5826\|יֵּעָזְר֣וּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H5414G\|יִּנָּתְנ֤וּ]] [[H9003\|בְ]][[H3027H\|יָדָ]][[H9028\|ם֙]] [[H9009\|הַֽ]][[H1905\|הַגְרִיאִ֔ים]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H9007\|שֶׁ֣]][[H5973A\|עִמָּ]][[H9038\|הֶ֑ם]] [[H3588A\|כִּ֠י]] [[H9005\|לֵ]][[H0430G\|אלֹהִ֤ים]] [[H2199\|זָעֲקוּ֙]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֔ה]] [[H9002\|וְ]][[H6279\|נַעְתּ֥וֹר]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H0982\|בָ֥טְחוּ]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GILEAD|GILEAD]] • [[topic HAGAR|HAGAR]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.19|<< 1 Chronicles 5:19]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.21|1 Chronicles 5:21 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Jeremiah 41:12
+type: Verse
+kjv: "Then they took all the men, and went to fight with Ishmael the son of Nethaniah, and found him by the great waters that are in Gibeon."
+bsb: "they took all their men and went to fight Ishmael son of Nethaniah. And they found him near the great pool in Gibeon."
+hebrew: "וַיִּקְחוּ֙ אֶת־ כָּל־ הָ֣אֲנָשִׁ֔ים וַיֵּ֣לְכ֔וּ לְהִלָּחֵ֖ם עִם־ יִשְׁמָעֵ֣אל בֶּן־ נְתַנְיָ֑ה וַיִּמְצְא֣וּ אֹת֔וֹ אֶל־ מַ֥יִם רַבִּ֖ים אֲשֶׁ֥ר בְּגִבְעֽוֹן׃"
+pericope: "[[Jer.41.11 Johanan Rescues the Captives|Johanan Rescues the Captives]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic NETHANIAH|NETHANIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H3458H]]"
+- "[[H1121A]]"
+- "[[H5418G]]"
+- "[[H4672]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1391]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:12**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they took all the men, and went to fight with Ishmael the son of Nethaniah, and found him by the great waters that [are] in Gibeon.
 <small><sub>**BSB:**</sub></small>
 they took all their men and went to fight Ishmael son of Nethaniah. And they found him near the great pool in Gibeon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְחוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H0582\|אֲנָשִׁ֔ים]] [[H9001\|וַ]][[H1980G\|יֵּ֣לְכ֔וּ]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֖ם]] [[H5973A\|עִם]][[H9014\|־]] [[H3458H\|יִשְׁמָעֵ֣אל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5418G\|נְתַנְיָ֑ה]] [[H9001\|וַ]][[H4672\|יִּמְצְא֣וּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H4325G\|מַ֥יִם]] [[H7227A\|רַבִּ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H1391\|גִבְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GIBEON|GIBEON]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOHANAN|JOHANAN]] • [[topic MIZPAH|MIZPAH]] • [[topic NETHANIAH|NETHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.11|<< Jeremiah 41:11]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.13|Jeremiah 41:13 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Zechariah 11:2
+type: Verse
+kjv: "Howl, fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O ye oaks of Bashan; for the forest of the vintage is come down."
+bsb: "Wail, O cypress, for the cedar has fallen; the majestic trees are ruined! Wail, O oaks of Bashan, for the dense forest has been cut down!"
+hebrew: "הֵילֵ֤ל בְּרוֹשׁ֙ כִּֽי־ נָ֣פַל אֶ֔רֶז אֲשֶׁ֥ר אַדִּרִ֖ים שֻׁדָּ֑דוּ הֵילִ֙ילוּ֙ אַלּוֹנֵ֣י בָשָׁ֔ן כִּ֥י יָרַ֖ד יַ֥עַר הַבָּצִֽיר׃"
+pericope: "[[Zech.11.1 The Doomed Flock|The Doomed Flock]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 11
+book/chapter: "[[Zech.11|Zechariah 11]]"
+chronological_order: 867
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic CEDAR|CEDAR]]"
+strongs:
+- "[[H3213]]"
+- "[[H1265]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5307M]]"
+- "[[H0730]]"
+- "[[H0834A]]"
+- "[[H0117]]"
+- "[[H7703]]"
+- "[[H0437]]"
+- "[[H1316]]"
+- "[[H3381]]"
+- "[[H3293A]]"
+- "[[H9009]]"
+- "[[H1208]]"
+- "[[H9016]]"
+- "[[H1210]]"
+texts:
+- L
+- Q(K)
+---
+
 **Zechariah 11:2**<big><big>[[Zech.11.1 The Doomed Flock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl, fir tree; for the cedar is fallen; because the mighty are spoiled: howl, O ye oaks of Bashan; for the forest of the vintage is come down.
 <small><sub>**BSB:**</sub></small>
 Wail, O cypress, for the cedar has fallen; the majestic trees are ruined! Wail, O oaks of Bashan, for the dense forest has been cut down!
+<small><sub>**Hebrew:**</sub></small>
+[[H3213\|הֵילֵ֤ל]] [[H1265\|בְּרוֹשׁ֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5307M\|נָ֣פַל]] [[H0730\|אֶ֔רֶז]] [[H0834A\|אֲשֶׁ֥ר]] [[H0117\|אַדִּרִ֖ים]] [[H7703\|שֻׁדָּ֑דוּ]] [[H3213\|הֵילִ֙ילוּ֙]] [[H0437\|אַלּוֹנֵ֣י]] [[H1316\|בָשָׁ֔ן]] [[H3588A\|כִּ֥י]] [[H3381\|יָרַ֖ד]] [[H3293A\|יַ֥עַר]] [[H9009\|הַ]][[H1210\|בָּצִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic CEDAR|CEDAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.1|<< Zechariah 11:1]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.3|Zechariah 11:3 >>]]</td></tr></table>
 
@@ -25,7 +78,7 @@ Wail, O cypress, for the cedar has fallen; the majestic trees are ruined! Wail, 
 | of the vintage  [^2]|**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1210\|בָּצִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.1|<< Zechariah 11:1]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.3|Zechariah 11:3 >>]]</td></tr></table>
 
-[^1]: \<the> older  | **<big>[[H9016|׃]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> | K
-[^2]: \<the> older  | **<big>[[H9016|׃]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> | K
+[^1]: \<the> older  | **<big>[[H9009|הַ]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9016|׃]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> | K
+[^2]: \<the> older  | **<big>[[H9009|הַ]]</big><big>[[H1208|בָּצוּר]]</big><big>[[H9016|׃]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ba.tzur<small><sup>[[HAamsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַבָּצִֽור\׃</big></span>**
 

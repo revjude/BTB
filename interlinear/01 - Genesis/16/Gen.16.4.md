@@ -1,8 +1,57 @@
+---
+title: Genesis 16:4
+type: Verse
+kjv: "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes."
+bsb: "And he slept with Hagar, and she conceived. But when Hagar realized that she was pregnant, she began to despise her mistress."
+hebrew: "וַיָּבֹ֥א אֶל־ הָגָ֖ר וַתַּ֑הַר וַתֵּ֙רֶא֙ כִּ֣י הָרָ֔תָה וַתֵּקַ֥ל גְּבִרְתָּ֖הּ בְּעֵינֶֽיהָ׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1904]]"
+- "[[H2029]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H7043]]"
+- "[[H1404]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:4**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes.
 <small><sub>**BSB:**</sub></small>
 And he slept with Hagar, and she conceived. But when Hagar realized that she was pregnant, she began to despise her mistress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H1904\|הָגָ֖ר]] [[H9001\|וַ]][[H2029\|תַּ֑הַר]] [[H9001\|וַ]][[H7200G\|תֵּ֙רֶא֙]] [[H3588A\|כִּ֣י]] [[H2029\|הָרָ֔תָה]] [[H9001\|וַ]][[H7043\|תֵּקַ֥ל]] [[H1404\|גְּבִרְתָּ֖]][[H9024\|הּ]] [[H9003\|בְּ]][[H5869H\|עֵינֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.3|<< Genesis 16:3]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.5|Genesis 16:5 >>]]</td></tr></table>
 

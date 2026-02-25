@@ -1,8 +1,70 @@
+---
+title: Exodus 3:13
+type: Verse
+kjv: "And Moses said unto God, Behold, when I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What is his name? what shall I say unto them?"
+bsb: "Then Moses asked God, “Suppose I go to the Israelites and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is His name?’ What should I tell them?”"
+hebrew: "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־ הָֽאֱלֹהִ֗ים הִנֵּ֨ה אָנֹכִ֣י בָא֮ אֶל־ בְּנֵ֣י יִשְׂרָאֵל֒ וְאָמַרְתִּ֣י לָהֶ֔ם אֱלֹהֵ֥י אֲבוֹתֵיכֶ֖ם שְׁלָחַ֣נִי אֲלֵיכֶ֑ם וְאָֽמְרוּ־ לִ֣י מַה־ שְּׁמ֔וֹ מָ֥ה אֹמַ֖ר אֲלֵהֶֽם׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H0935G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H9036]]"
+- "[[H4100]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 3:13**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto God, Behold, [when] I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What [is] his name? what shall I say unto them?
 <small><sub>**BSB:**</sub></small>
 Then Moses asked God, “Suppose I go to the Israelites and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is His name?’ What should I tell them?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H4872\|מֹשֶׁ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֗ים]] [[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֣י]] [[H0935G\|בָא֮]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9001\|וְ]][[H0559\|אָמַרְתִּ֣י]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H0430G\|אֱלֹהֵ֥י]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶ֖ם]] [[H7971G\|שְׁלָחַ֣]][[H9030\|נִי]] [[H0413\|אֲלֵי]][[H9036\|כֶ֑ם]] [[H9001\|וְ]][[H0559\|אָֽמְרוּ]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H4100\|מַה]][[H9014\|־]] [[H8034\|שְּׁמ֔]][[H9023\|וֹ]] [[H4100\|מָ֥ה]] [[H0559\|אֹמַ֖ר]] [[H0413\|אֲלֵ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.12|<< Exodus 3:12]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.14|Exodus 3:14 >>]]</td></tr></table>
 

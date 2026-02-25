@@ -1,8 +1,71 @@
+---
+title: Jeremiah 6:1
+type: Verse
+kjv: "O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem: for evil appeareth out of the north, and great destruction."
+bsb: "“Run for cover, O sons of Benjamin; flee from Jerusalem! Sound the ram’s horn in Tekoa; send up a signal over Beth-haccherem, for disaster looms from the north, even great destruction."
+hebrew: "הָעִ֣זוּ׀ בְּנֵ֣י בִניָמִ֗ן מִקֶּ֙רֶב֙ יְר֣וּשָׁלִַ֔ם וּבִתְק֙וֹעַ֙ תִּקְע֣וּ שׁוֹפָ֔ר וְעַל־ בֵּ֥ית הַכֶּ֖רֶם שְׂא֣וּ מַשְׂאֵ֑ת כִּ֥י רָעָ֛ה נִשְׁקְפָ֥ה מִצָּפ֖וֹן וְשֶׁ֥בֶר גָּדֽוֹל׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BEACON|BEACON]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic BETH-HACCEREM|BETH-HACCEREM]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic TEKOAH|TEKOAH]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H5756]]"
+- "[[H9015]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8620]]"
+- "[[H8628]]"
+- "[[H7782]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1021]]"
+- "[[H5375G]]"
+- "[[H4864]]"
+- "[[H3588A]]"
+- "[[H7451C]]"
+- "[[H8259]]"
+- "[[H6828G]]"
+- "[[H7667]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:1**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O ye children of Benjamin, gather yourselves to flee out of the midst of Jerusalem, and blow the trumpet in Tekoa, and set up a sign of fire in Bethhaccerem: for evil appeareth out of the north, and great destruction.
 <small><sub>**BSB:**</sub></small>
 “Run for cover, O sons of Benjamin; flee from Jerusalem! Sound the ram’s horn in Tekoa; send up a signal over Beth-haccherem, for disaster looms from the north, even great destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H5756\|הָעִ֣זוּ]][[H9015\|׀]] [[H1121G\|בְּנֵ֣י]] [[H1144G\|בִניָמִ֗ן]] [[H9006\|מִ]][[H7130G\|קֶּ֙רֶב֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9002\|וּ]][[H9003\|בִ]][[H8620\|תְק֙וֹעַ֙]] [[H8628\|תִּקְע֣וּ]] [[H7782\|שׁוֹפָ֔ר]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1021\|בֵּ֥ית]] [[H1021\|הַכֶּ֖רֶם]] [[H5375G\|שְׂא֣וּ]] [[H4864\|מַשְׂאֵ֑ת]] [[H3588A\|כִּ֥י]] [[H7451C\|רָעָ֛ה]] [[H8259\|נִשְׁקְפָ֥ה]] [[H9006\|מִ]][[H6828G\|צָּפ֖וֹן]] [[H9002\|וְ]][[H7667\|שֶׁ֥בֶר]] [[H1419A\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEACON|BEACON]] • [[topic BENJAMIN|BENJAMIN]] • [[topic BETH-HACCEREM|BETH-HACCEREM]] • [[topic FIRE|FIRE]] • [[topic TEKOAH|TEKOAH]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.31|<< Jeremiah 5:31]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.2|Jeremiah 6:2 >>]]</td></tr></table>
 

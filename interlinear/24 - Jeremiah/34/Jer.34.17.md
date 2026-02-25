@@ -1,8 +1,81 @@
+---
+title: Jeremiah 34:17
+type: Verse
+kjv: "Therefore thus saith the LORD; Ye have not hearkened unto me, in proclaiming liberty, every one to his brother, and every man to his neighbour: behold, I proclaim a liberty for you, saith the LORD, to the sword, to the pestilence, and to the famine; and I will make you to be removed into all the kingdoms of the earth."
+bsb: "Therefore this is what the LORD says: You have not obeyed Me; you have not proclaimed freedom, each man for his brother and for his neighbor. So now I proclaim freedom for you, declares the LORD—freedom to fall by sword, by plague, and by famine! I will make you a horror to all the kingdoms of the earth."
+hebrew: "לָכֵן֮ כֹּה־ אָמַ֣ר יְהוָה֒ אַתֶּם֙ לֹֽא־ שְׁמַעְתֶּ֣ם אֵלַ֔י לִקְרֹ֣א דְר֔וֹר אִ֥ישׁ לְאָחִ֖יו וְאִ֣ישׁ לְרֵעֵ֑הוּ הִנְנִ֣י קֹרֵא֩ לָכֶ֨ם דְּר֜וֹר נְאֻם־ יְהוָ֗ה אֶל־ הַחֶ֙רֶב֙ אֶל־ הַדֶּ֣בֶר וְאֶל־ הָרָעָ֔ב וְנָתַתִּ֤י אֶתְכֶם֙ לְזַעֲוָ֔ה לְכֹ֖ל מַמְלְכ֥וֹת הָאָֽרֶץ׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic LIBERTY|LIBERTY]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0859D]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H7121I]]"
+- "[[H1865]]"
+- "[[H0376I]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7453]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H9036]]"
+- "[[H5002]]"
+- "[[H9009]]"
+- "[[H2719]]"
+- "[[H1698]]"
+- "[[H7458]]"
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H2113]]"
+- "[[H2189]]"
+- "[[H3605]]"
+- "[[H4467]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 34:17**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD; Ye have not hearkened unto me, in proclaiming liberty, every one to his brother, and every man to his neighbour: behold, I proclaim a liberty for you, saith the LORD, to the sword, to the pestilence, and to the famine; and I will make you to be removed into all the kingdoms of the earth.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says: You have not obeyed Me; you have not proclaimed freedom, each man for his brother and for his neighbor. So now I proclaim freedom for you, declares the LORD—freedom to fall by sword, by plague, and by famine! I will make you a horror to all the kingdoms of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֮]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָה֒]] [[H0859D\|אַתֶּם֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8085H\|שְׁמַעְתֶּ֣ם]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9005\|לִ]][[H7121I\|קְרֹ֣א]] [[H1865\|דְר֔וֹר]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H0251G\|אָחִ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H0376I\|אִ֣ישׁ]] [[H9005\|לְ]][[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H7121I\|קֹרֵא֩]] [[H9005\|לָ]][[H9036\|כֶ֨ם]] [[H1865\|דְּר֜וֹר]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2719\|חֶ֙רֶב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1698\|דֶּ֣בֶר]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H7458\|רָעָ֔ב]] [[H9001\|וְ]][[H5414I\|נָתַתִּ֤י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9005\|לְ]][[H2189\|זַעֲוָ֔ה]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H4467\|מַמְלְכ֥וֹת]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic LIBERTY|LIBERTY]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.16|<< Jeremiah 34:16]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.18|Jeremiah 34:18 >>]]</td></tr></table>
 
@@ -42,7 +115,7 @@ Therefore this is what the LORD says: You have not obeyed Me; you have not procl
 | the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.16|<< Jeremiah 34:16]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.18|Jeremiah 34:18 >>]]</td></tr></table>
 
-[^1]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
-[^2]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^1]: into a terror  | **<big>[[H9005|לִ]]</big><big>[[H2113|זְוָעָה]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: into a terror  | **<big>[[H9005|לִ]]</big><big>[[H2113|זְוָעָה]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>לְזַוֲעָ֔ה</big></span>**
 

@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 12:23
+type: Verse
+kjv: "Only be sure that thou eat not the blood: for the blood is the life; and thou mayest not eat the life with the flesh."
+bsb: "Only be sure not to eat the blood, because the blood is the life, and you must not eat the life with the meat."
+hebrew: "רַ֣ק חֲזַ֗ק לְבִלְתִּי֙ אֲכֹ֣ל הַדָּ֔ם כִּ֥י הַדָּ֖ם ה֣וּא הַנָּ֑פֶשׁ וְלֹא־ תֹאכַ֥ל הַנֶּ֖פֶשׁ עִם־ הַבָּשָֽׂר׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H7535]]"
+- "[[H2388I]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H0398]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H5315H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5973A]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:23**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only be sure that thou eat not the blood: for the blood [is] the life; and thou mayest not eat the life with the flesh.
 <small><sub>**BSB:**</sub></small>
 Only be sure not to eat the blood, because the blood is the life, and you must not eat the life with the meat.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֣ק]] [[H2388I\|חֲזַ֗ק]] [[H9005\|לְ]][[H1115\|בִלְתִּי֙]] [[H0398\|אֲכֹ֣ל]] [[H9009\|הַ]][[H1818\|דָּ֔ם]] [[H3588A\|כִּ֥י]] [[H9009\|הַ]][[H1818\|דָּ֖ם]] [[H1931\|ה֣וּא]] [[H9009\|הַ]][[H5315H\|נָּ֑פֶשׁ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0398\|תֹאכַ֥ל]] [[H9009\|הַ]][[H5315H\|נֶּ֖פֶשׁ]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H1320\|בָּשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.22|<< Deuteronomy 12:22]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.24|Deuteronomy 12:24 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 25:7
+type: Verse
+kjv: "And now I have heard that thou hast shearers: now thy shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel."
+bsb: "Now I hear that it is time for shearing. When your shepherds were with us, we did not harass them, and nothing of theirs was missing the whole time they were in Carmel."
+hebrew: "וְעַתָּ֣ה שָׁמַ֔עְתִּי כִּ֥י גֹזְזִ֖ים לָ֑ךְ עַתָּ֗ה הָרֹעִ֤ים אֲשֶׁר־ לְךָ֙ הָי֣וּ עִמָּ֔נוּ לֹ֣א הֶכְלַמְנ֗וּם וְלֹֽא־ נִפְקַ֤ד לָהֶם֙ מְא֔וּמָה כָּל־ יְמֵ֖י הֱיוֹתָ֥ם בַּכַּרְמֶֽל׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic NABAL|NABAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H8085G]]"
+- "[[H3588A]]"
+- "[[H1494]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9031]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H3808]]"
+- "[[H3637]]"
+- "[[H9038]]"
+- "[[H6485K]]"
+- "[[H3972]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9048]]"
+- "[[H9003]]"
+- "[[H3760G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:7**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now I have heard that thou hast shearers: now thy shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel.
 <small><sub>**BSB:**</sub></small>
 Now I hear that it is time for shearing. When your shepherds were with us, we did not harass them, and nothing of theirs was missing the whole time they were in Carmel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H8085G\|שָׁמַ֔עְתִּי]] [[H3588A\|כִּ֥י]] [[H1494\|גֹזְזִ֖ים]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H6258\|עַתָּ֗ה]] [[H9009\|הָ]][[H7462B\|רֹעִ֤ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H1961\|הָי֣וּ]] [[H5973A\|עִמָּ֔]][[H9035\|נוּ]] [[H3808\|לֹ֣א]] [[H3637\|הֶכְלַמְנ֗וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6485K\|נִפְקַ֤ד]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3972\|מְא֔וּמָה]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֖י]] [[H1961\|הֱיוֹתָ֥]][[H9048\|ם]] [[H9003\|בַּ]][[H3760G\|כַּרְמֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic NABAL|NABAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.6|<< 1 Samuel 25:6]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.8|1 Samuel 25:8 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sign of the Fleece
+type: Pericope
 pericope: "[[Judg.6.33 The Sign of the Fleece|The Sign of the Fleece]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 6
 book/chapter: "[[Judg.6|Judges 6]]"
-genre:
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 8
 verses:
 - "[[Judg.6.33]]"
 - "[[Judg.6.34]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Judg.6.40]]"
 ---
 
-[[Judg.6|Judges 6:33 - Judges 6:40]]
+<small>[[Judg.6|Judges 6:33-40]]</small>
 *The Sign of the Fleece*
 
 [[Judg.6.33|33]] Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.

@@ -1,8 +1,69 @@
+---
+title: Jeremiah 52:11
+type: Verse
+kjv: "Then he put out the eyes of Zedekiah; and the king of Babylon bound him in chains, and carried him to Babylon, and put him in prison till the day of his death."
+bsb: "Then he put out Zedekiah’s eyes, bound him with bronze shackles, and took him to Babylon, where he kept him in custody until his dying day."
+hebrew: "וְאֶת־ עֵינֵ֥י צִדְקִיָּ֖הוּ עִוֵּ֑ר וַיַּאַסְרֵ֣הוּ בַֽנְחֻשְׁתַּ֗יִם וַיְבִאֵ֤הוּ מֶֽלֶךְ־ בָּבֶל֙ בָּבֶ֔לָה וַיִּתְּנֵ֥הוּ בֵֽית הַפְּקֻדֹּ֖ת עַד־ י֥וֹם מוֹתֽוֹ׃"
+pericope: "[[Jer.52.1 The Fall of Jerusalem Recounted|The Fall of Jerusalem Recounted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRISON|PRISON]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H6667H]]"
+- "[[H5786]]"
+- "[[H9001]]"
+- "[[H0631]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5178A]]"
+- "[[H0935P]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H5414H]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H6486]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H4194]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 52:11**<big><big>[[Jer.52.1 The Fall of Jerusalem Recounted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he put out the eyes of Zedekiah; and the king of Babylon bound him in chains, and carried him to Babylon, and put him in prison till the day of his death.
 <small><sub>**BSB:**</sub></small>
 Then he put out Zedekiah’s eyes, bound him with bronze shackles, and took him to Babylon, where he kept him in custody until his dying day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינֵ֥י]] [[H6667H\|צִדְקִיָּ֖הוּ]] [[H5786\|עִוֵּ֑ר]] [[H9001\|וַ]][[H0631\|יַּאַסְרֵ֣]][[H9033\|הוּ]] [[H9003\|בַֽ]][[H5178A\|נְחֻשְׁתַּ֗יִם]] [[H9001\|וַ]][[H0935P\|יְבִאֵ֤]][[H9033\|הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H0894\|בָּבֶ֔לָ]][[H9011\|ה]] [[H9001\|וַ]][[H5414H\|יִּתְּנֵ֥]][[H9033\|הוּ]] [[H1004B\|בֵֽית]] [[H9009\|הַ]][[H6486\|פְּקֻדֹּ֖ת]] [[H5704\|עַד]][[H9014\|־]] [[H3117G\|י֥וֹם]] [[H4194\|מוֹתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic PRISON|PRISON]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.10|<< Jeremiah 52:10]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.12|Jeremiah 52:12 >>]]</td></tr></table>
 
@@ -26,6 +87,6 @@ Then he put out Zedekiah’s eyes, bound him with bronze shackles, and took him 
 | death his  |**<big>&#8207;[[H4194\|מוֹתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mo.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.10|<< Jeremiah 52:10]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.12|Jeremiah 52:12 >>]]</td></tr></table>
 
-[^1]: in [the] house of  | **<big>[[H1004B|בֵית]]</big><big>[[H9003|בְ]]</big> ** | ve.<small><sup>[[HR]]</sup></small> veit-<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: in [the] house of  | **<big>[[H9003|בְ]]</big><big>[[H1004B|בֵית]]</big> ** | ve.<small><sup>[[HR]]</sup></small> veit-<small><sup>[[HNcbsc]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>בבֵֽית\־</big></span>**
 

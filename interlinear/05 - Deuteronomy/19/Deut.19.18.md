@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 19:18
+type: Verse
+kjv: "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;"
+bsb: "The judges shall investigate thoroughly, and if the witness is proven to be a liar who has falsely accused his brother,"
+hebrew: "וְדָרְשׁ֥וּ הַשֹּׁפְטִ֖ים הֵיטֵ֑ב וְהִנֵּ֤ה עֵֽד־ שֶׁ֙קֶר֙ הָעֵ֔ד שֶׁ֖קֶר עָנָ֥ה בְאָחִֽיו׃"
+pericope: "[[Deut.19.15 The Testimony of Two or Three Witnesses|The Testimony of Two or Three Witnesses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1875]]"
+- "[[H9009]]"
+- "[[H8199]]"
+- "[[H3190]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5707]]"
+- "[[H9014]]"
+- "[[H8267]]"
+- "[[H6030B]]"
+- "[[H9003]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:18**<big><big>[[Deut.19.15 The Testimony of Two or Three Witnesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the judges shall make diligent inquisition: and, behold, [if] the witness [be] a false witness, [and] hath testified falsely against his brother;
 <small><sub>**BSB:**</sub></small>
 The judges shall investigate thoroughly, and if the witness is proven to be a liar who has falsely accused his brother,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1875\|דָרְשׁ֥וּ]] [[H9009\|הַ]][[H8199\|שֹּׁפְטִ֖ים]] [[H3190\|הֵיטֵ֑ב]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H5707\|עֵֽד]][[H9014\|־]] [[H8267\|שֶׁ֙קֶר֙]] [[H9009\|הָ]][[H5707\|עֵ֔ד]] [[H8267\|שֶׁ֖קֶר]] [[H6030B\|עָנָ֥ה]] [[H9003\|בְ]][[H0251I\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DILIGENCE|DILIGENCE]] • [[topic EVIDENCE|EVIDENCE]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic JUDGE|JUDGE]] • [[topic REVERENCE|REVERENCE]] • [[topic RULERS|RULERS]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.17|<< Deuteronomy 19:17]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.19|Deuteronomy 19:19 >>]]</td></tr></table>
 

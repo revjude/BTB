@@ -1,10 +1,62 @@
+---
+title: Mark 10:38
+type: Verse
+kjv: "But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?"
+bsb: "“You do not know what you are asking,” Jesus replied. “Can you drink the cup I will drink, or be baptized with the baptism I will undergo?”"
+jesus_said: "Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?"
+greek: "Ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· οὐκ οἴδατε τί αἰτεῖσθε. δύνασθε πιεῖν τὸ ποτήριον ὃ ἐγὼ πίνω ἢ τὸ βάπτισμα ὃ ἐγὼ βαπτίζομαι βαπτισθῆναι;"
+pericope: "[[Mark.10.35 The Request of James and John|The Request of James and John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G5101]]"
+- "[[G0154]]"
+- "[[G1410]]"
+- "[[G4095]]"
+- "[[G4221]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G2228]]"
+- "[[G0908]]"
+- "[[G0907]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 10:38**<big><big>[[Mark.10.35 The Request of James and John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus said unto them, Ye know not what ye ask: can ye drink of the cup that I drink of? and be baptized with the baptism that I am baptized with?
 <small><sub>**BSB:**</sub></small>
 “You do not know what you are asking,” Jesus replied. “Can you drink the cup I will drink, or be baptized with the baptism I will undergo?”
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said to them; Not you know what you ask. Are you able to drink the cup which I myself drink or the baptism which I myself am baptized  to be baptized [with]?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.37|<< Mark 10:37]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.39|Mark 10:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G5101\|τί]]  [[G0154\|αἰτεῖσθε.]]  [[G1410\|δύνασθε]]  [[G4095\|πιεῖν]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3739\|ὃ]]  [[G1473\|ἐγὼ]]  [[G4095\|πίνω]]  [[G2228\|ἢ]]  [[G3588\|τὸ]]  [[G0908\|βάπτισμα]]  [[G3739\|ὃ]]  [[G1473\|ἐγὼ]]  [[G0907\|βαπτίζομαι]]  [[G0907\|βαπτισθῆναι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.37|<< Mark 10:37]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.39|Mark 10:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

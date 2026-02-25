@@ -1,8 +1,73 @@
+---
+title: Exodus 34:7
+type: Verse
+kjv: "Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty; visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth generation."
+bsb: "maintaining loving devotion to a thousand generations, forgiving iniquity, transgression, and sin. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers on their children and grandchildren to the third and fourth generations.”"
+hebrew: "נֹצֵ֥ר חֶ֙סֶד֙ לָאֲלָפִ֔ים נֹשֵׂ֥א עָוֹ֛ן וָפֶ֖שַׁע וְחַטָּאָ֑ה וְנַקֵּה֙ לֹ֣א יְנַקֶּ֔ה פֹּקֵ֣ד׀ עֲוֹ֣ן אָב֗וֹת עַל־ בָּנִים֙ וְעַל־ בְּנֵ֣י בָנִ֔ים עַל־ שִׁלֵּשִׁ֖ים וְעַל־ רִבֵּעִֽים׃"
+pericope: "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5341]]"
+- "[[H2617A]]"
+- "[[H9005]]"
+- "[[H0505G]]"
+- "[[H5375I]]"
+- "[[H5771G]]"
+- "[[H9002]]"
+- "[[H6588]]"
+- "[[H2403A]]"
+- "[[H5352]]"
+- "[[H3808]]"
+- "[[H6485I]]"
+- "[[H9015]]"
+- "[[H0001G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H1121G]]"
+- "[[H8029]]"
+- "[[H7256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:7**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear [the guilty]; visiting the iniquity of the fathers upon the children, and upon the children’s children, unto the third and to the fourth [generation].
 <small><sub>**BSB:**</sub></small>
 maintaining loving devotion to a thousand generations, forgiving iniquity, transgression, and sin. Yet He will by no means leave the guilty unpunished; He will visit the iniquity of the fathers on their children and grandchildren to the third and fourth generations.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5341\|נֹצֵ֥ר]] [[H2617A\|חֶ֙סֶד֙]] [[H9005\|לָ]][[H0505G\|אֲלָפִ֔ים]] [[H5375I\|נֹשֵׂ֥א]] [[H5771G\|עָוֹ֛ן]] [[H9002\|וָ]][[H6588\|פֶ֖שַׁע]] [[H9002\|וְ]][[H2403A\|חַטָּאָ֑ה]] [[H9002\|וְ]][[H5352\|נַקֵּה֙]] [[H3808\|לֹ֣א]] [[H5352\|יְנַקֶּ֔ה]] [[H6485I\|פֹּקֵ֣ד]][[H9015\|׀]] [[H5771G\|עֲוֹ֣ן]] [[H0001G\|אָב֗וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנִים֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בְּנֵ֣י]] [[H1121G\|בָנִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H8029\|שִׁלֵּשִׁ֖ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7256\|רִבֵּעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic HEREDITY|HEREDITY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.6|<< Exodus 34:6]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.8|Exodus 34:8 >>]]</td></tr></table>
 

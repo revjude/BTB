@@ -1,8 +1,56 @@
+---
+title: Psalm 104:28
+type: Verse
+kjv: "That thou givest them they gather: thou openest thine hand, they are filled with good."
+bsb: "When You give it to them, they gather it up; when You open Your hand, they are satisfied with good things."
+hebrew: "תִּתֵּ֣ן לָ֭הֶם יִלְקֹט֑וּן תִּפְתַּ֥ח יָֽ֝דְךָ֗ יִשְׂבְּע֥וּן טֽוֹב׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3950]]"
+- "[[H9013]]"
+- "[[H6605A]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H7646]]"
+- "[[H2896B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:28**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] thou givest them they gather: thou openest thine hand, they are filled with good.
 <small><sub>**BSB:**</sub></small>
 When You give it to them, they gather it up; when You open Your hand, they are satisfied with good things.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|תִּתֵּ֣ן]] [[H9005\|לָ֭]][[H9038\|הֶם]] [[H3950\|יִלְקֹט֑וּ]][[H9013\|ן]] [[H6605A\|תִּפְתַּ֥ח]] [[H3027G\|יָֽ֝דְ]][[H9021\|ךָ֗]] [[H7646\|יִשְׂבְּע֥וּ]][[H9013\|ן]] [[H2896B\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.27|<< Psalms 104:27]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.29|Psalms 104:29 >>]]</td></tr></table>
 

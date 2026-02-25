@@ -1,8 +1,67 @@
+---
+title: Isaiah 37:26
+type: Verse
+kjv: "Hast thou not heard long ago, how I have done it; and of ancient times, that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste defenced cities into ruinous heaps."
+bsb: "Have you not heard? Long ago I ordained it; in days of old I planned it. Now I have brought it to pass, that you should crush fortified cities into piles of rubble."
+hebrew: "הֲלֽוֹא־ שָׁמַ֤עְתָּ לְמֵֽרָחוֹק֙ אוֹתָ֣הּ עָשִׂ֔יתִי מִ֥ימֵי קֶ֖דֶם וִיצַרְתִּ֑יהָ עַתָּ֣ה הֲבֵאתִ֔יהָ וּתְהִ֗י לְהַשְׁא֛וֹת גַּלִּ֥ים נִצִּ֖ים עָרִ֥ים בְּצֻרֽוֹת׃"
+pericope: "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H6213A]]"
+- "[[H3117G]]"
+- "[[H6924H]]"
+- "[[H9001]]"
+- "[[H3335I]]"
+- "[[H6258]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H7582]]"
+- "[[H1530G]]"
+- "[[H5327B]]"
+- "[[H5892B]]"
+- "[[H1219]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:26**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou not heard long ago, [how] I have done it; [and] of ancient times, that I have formed it? now have I brought it to pass, that thou shouldest be to lay waste defenced cities [into] ruinous heaps.
 <small><sub>**BSB:**</sub></small>
 Have you not heard? Long ago I ordained it; in days of old I planned it. Now I have brought it to pass, that you should crush fortified cities into piles of rubble.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֽוֹא]][[H9014\|־]] [[H8085G\|שָׁמַ֤עְתָּ]] [[H9005\|לְ]][[H9006\|מֵֽ]][[H7350\|רָחוֹק֙]] [[H0853\|אוֹתָ֣]][[H9034\|הּ]] [[H6213A\|עָשִׂ֔יתִי]] [[H9006\|מִ֥]][[H3117G\|ימֵי]] [[H6924H\|קֶ֖דֶם]] [[H9001\|וִ]][[H3335I\|יצַרְתִּ֑י]][[H9034\|הָ]] [[H6258\|עַתָּ֣ה]] [[H0935G\|הֲבֵאתִ֔י]][[H9034\|הָ]] [[H9002\|וּ]][[H1961\|תְהִ֗י]] [[H9005\|לְ]][[H7582\|הַשְׁא֛וֹת]] [[H1530G\|גַּלִּ֥ים]] [[H5327B\|נִצִּ֖ים]] [[H5892B\|עָרִ֥ים]] [[H1219\|בְּצֻרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.25|<< Isaiah 37:25]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.27|Isaiah 37:27 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Job 18:9
+type: Verse
+kjv: "The gin shall take him by the heel, and the robber shall prevail against him."
+bsb: "A trap seizes his heel; a snare grips him."
+hebrew: "יֹאחֵ֣ז בְּעָקֵ֣ב פָּ֑ח יַחֲזֵ֖ק עָלָ֣יו צַמִּֽים׃"
+pericope: "[[Job.18.1 Bildad：God Punishes the Wicked|Bildad：God Punishes the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 18
+book/chapter: "[[Job.18|Job 18]]"
+chronological_order: 29
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SNARE|SNARE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H6119]]"
+- "[[H6341A]]"
+- "[[H2388H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 18:9**<big><big>[[Job.18.1 Bildad：God Punishes the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The gin shall take [him] by the heel, [and] the robber shall prevail against him.
 <small><sub>**BSB:**</sub></small>
 A trap seizes his heel; a snare grips him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0270\|יֹאחֵ֣ז]] [[H9003\|בְּ]][[H6119\|עָקֵ֣ב]] [[H6341A\|פָּ֑ח]] [[H2388H\|יַחֲזֵ֖ק]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H6782\|צַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SNARE|SNARE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.18.8|<< Job 18:8]]</td><td align="center" style="border:none;">[[Job.18|Job 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.18.10|Job 18:10 >>]]</td></tr></table>
 

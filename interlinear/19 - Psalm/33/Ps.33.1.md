@@ -1,8 +1,53 @@
+---
+title: Psalm 33:1
+type: Verse
+kjv: "Rejoice in the LORD, O ye righteous: for praise is comely for the upright."
+bsb: "Rejoice in the LORD, O righteous ones; it is fitting for the upright to praise Him."
+hebrew: "רַנְּנ֣וּ צַ֭דִּיקִים בַּֽיהוָ֑ה לַ֝יְשָׁרִ֗ים נָאוָ֥ה תְהִלָּֽה׃"
+pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H7442B]]"
+- "[[H6662]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H3477G]]"
+- "[[H5000]]"
+- "[[H8416]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 33:1**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice in the LORD, O ye righteous: [for] praise is comely for the upright.
 <small><sub>**BSB:**</sub></small>
 Rejoice in the LORD, O righteous ones; it is fitting for the upright to praise Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H7442B\|רַנְּנ֣וּ]] [[H6662\|צַ֭דִּיקִים]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֑ה]] [[H9005\|לַ֝]][[H3477G\|יְשָׁרִ֗ים]] [[H5000\|נָאוָ֥ה]] [[H8416\|תְהִלָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.32.11|<< Psalms 32:11]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.2|Psalms 33:2 >>]]</td></tr></table>
 

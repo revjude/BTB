@@ -1,8 +1,61 @@
+---
+title: Amos 3:11
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled."
+bsb: "Therefore this is what the Lord GOD says: “An enemy will surround the land; he will pull down your strongholds and plunder your citadels.”"
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה צַ֖ר וּסְבִ֣יב הָאָ֑רֶץ וְהוֹרִ֤ד מִמֵּךְ֙ עֻזֵּ֔ךְ וְנָבֹ֖זּוּ אַרְמְנוֹתָֽיִךְ׃"
+pericope: "[[Amos.3.1 Witnesses against Israel|Witnesses against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 3
+book/chapter: "[[Amos.3|Amos 3]]"
+chronological_order: 600
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6862C]]"
+- "[[H9002]]"
+- "[[H5439G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H4480A]]"
+- "[[H9032]]"
+- "[[H5797]]"
+- "[[H9022]]"
+- "[[H0962]]"
+- "[[H0759H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 3:11**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; An adversary [there shall be] even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: “An enemy will surround the land; he will pull down your strongholds and plunder your citadels.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H6862C\|צַ֖ר]] [[H9002\|וּ]][[H5439G\|סְבִ֣יב]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H3381\|הוֹרִ֤ד]] [[H4480A\|מִמֵּ]][[H9032\|ךְ֙]] [[H5797\|עֻזֵּ֔]][[H9022\|ךְ]] [[H9001\|וְ]][[H0962\|נָבֹ֖זּוּ]] [[H0759H\|אַרְמְנוֹתָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.10|<< Amos 3:10]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.12|Amos 3:12 >>]]</td></tr></table>
 

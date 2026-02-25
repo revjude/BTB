@@ -1,8 +1,51 @@
+---
+title: 1 Chronicles 7:33
+type: Verse
+kjv: "And the sons of Japhlet; Pasach, and Bimhal, and Ashvath. These are the children of Japhlet."
+bsb: "The sons of Japhlet: Pasach, Bimhal, and Ashvath. These were Japhlet’s sons."
+hebrew: "וּבְנֵ֣י יַפְלֵ֔ט פָּסַ֥ךְ וּבִמְהָ֖ל וְעַשְׁוָ֑ת אֵ֖לֶּה בְּנֵ֥י יַפְלֵֽט׃"
+pericope: "[[1Chr.7.30 The Descendants of Asher|The Descendants of Asher]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASHVATH|ASHVATH]]"
+- "[[topic BIMHAL|BIMHAL]]"
+- "[[topic JAPHLET|JAPHLET]]"
+- "[[topic PASACH|PASACH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H3310]]"
+- "[[H6457]]"
+- "[[H1118]]"
+- "[[H6220]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:33**<big><big>[[1Chr.7.30 The Descendants of Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Japhlet; Pasach, and Bimhal, and Ashvath. These [are] the children of Japhlet.
 <small><sub>**BSB:**</sub></small>
 The sons of Japhlet: Pasach, Bimhal, and Ashvath. These were Japhlet’s sons.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H3310\|יַפְלֵ֔ט]] [[H6457\|פָּסַ֥ךְ]] [[H9002\|וּ]][[H1118\|בִמְהָ֖ל]] [[H9002\|וְ]][[H6220\|עַשְׁוָ֑ת]] [[H0428\|אֵ֖לֶּה]] [[H1121A\|בְּנֵ֥י]] [[H3310\|יַפְלֵֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHVATH|ASHVATH]] • [[topic BIMHAL|BIMHAL]] • [[topic JAPHLET|JAPHLET]] • [[topic PASACH|PASACH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.32|<< 1 Chronicles 7:32]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.34|1 Chronicles 7:34 >>]]</td></tr></table>
 

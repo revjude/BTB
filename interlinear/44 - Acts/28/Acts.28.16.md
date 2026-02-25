@@ -1,10 +1,63 @@
+---
+title: Acts 28:16
+type: Verse
+kjv: "And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him."
+bsb: "When we arrived in Rome, Paul was permitted to stay by himself, with a soldier to guard him."
+greek: "Ὅτε δὲ εἰσήλθομεν εἰς Ῥώμην, ὁ ἑκατόνταρχος παρέδωκεν τοὺς δεσμίους τῷ στρατοπεδάρχῃ ἐπετράπη τῷ δὲ Παύλῳ μένειν καθ᾽ ἑαυτὸν σὺν τῷ φυλάσσοντι αὐτὸν στρατιώτῃ.¶"
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G4516]]"
+- "[[G3588]]"
+- "[[G1543]]"
+- "[[G3860]]"
+- "[[G1198]]"
+- "[[G4759]]"
+- "[[G2010]]"
+- "[[G3972G]]"
+- "[[G3306]]"
+- "[[G2596]]"
+- "[[G1438]]"
+- "[[G4862]]"
+- "[[G5442H]]"
+- "[[G0846]]"
+- "[[G4757]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Acts 28:16**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.
 <small><sub>**BSB:**</sub></small>
 When we arrived in Rome, Paul was permitted to stay by himself, with a soldier to guard him.
-<small><sub>**Literal:**</sub></small>
-When now we came to Rome, the centurion delivered <the> prisoners to the commanders was allowed <the> Now Paul to stay by himself with who is guarding him soldier.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.15|<< Acts 28:15]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.17|Acts 28:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|Ὅτε]]  [[G1161\|δὲ]]  [[G1525\|εἰσήλθομεν]]  [[G1519\|εἰς]]  [[G4516\|Ῥώμην,]]  [[G3588\|ὁ]]  [[G1543\|ἑκατόνταρχος]]  [[G3860\|παρέδωκεν]]  [[G3588\|τοὺς]]  [[G1198\|δεσμίους]]  [[G3588\|τῷ]]  [[G4759\|στρατοπεδάρχῃ]]  [[G2010\|ἐπετράπη]]  [[G3588\|τῷ]]  [[G1161\|δὲ]]  [[G3972G\|Παύλῳ]]  [[G3306\|μένειν]]  [[G2596\|καθ᾽]]  [[G1438\|ἑαυτὸν]]  [[G4862\|σὺν]]  [[G3588\|τῷ]]  [[G5442H\|φυλάσσοντι]]  [[G0846\|αὐτὸν]]  [[G4757\|στρατιώτῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.15|<< Acts 28:15]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.17|Acts 28:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

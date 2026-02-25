@@ -1,8 +1,66 @@
+---
+title: Ezra 1:7
+type: Verse
+kjv: "Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;"
+bsb: "King Cyrus also brought out the articles belonging to the house of the LORD that Nebuchadnezzar had carried away from Jerusalem and placed in the temple of his gods."
+hebrew: "וְהַמֶּ֣לֶךְ כּ֔וֹרֶשׁ הוֹצִ֖יא אֶת־ כְּלֵ֣י בֵית־ יְהוָ֑ה אֲשֶׁ֨ר הוֹצִ֤יא נְבֽוּכַדְנֶצַּר֙ מִיר֣וּשָׁלִַ֔ם וַֽיִּתְּנֵ֖ם בְּבֵ֥ית אֱלֹהָֽיו׃"
+pericope: "[[Ezra.1.7 Cyrus Restores the Holy Vessels|Cyrus Restores the Holy Vessels]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 1
+book/chapter: "[[Ezra.1|Ezra 1]]"
+chronological_order: 849
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3566]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H5019]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0430]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 1:7**<big><big>[[Ezra.1.7 Cyrus Restores the Holy Vessels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;
 <small><sub>**BSB:**</sub></small>
 King Cyrus also brought out the articles belonging to the house of the LORD that Nebuchadnezzar had carried away from Jerusalem and placed in the temple of his gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H3566\|כּ֔וֹרֶשׁ]] [[H3318H\|הוֹצִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3627\|כְּלֵ֣י]] [[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H3318H\|הוֹצִ֤יא]] [[H5019\|נְבֽוּכַדְנֶצַּר֙]] [[H9006\|מִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9001\|וַֽ]][[H5414H\|יִּתְּנֵ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H0430\|אֱלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.1.6|<< Ezra 1:6]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.8|Ezra 1:8 >>]]</td></tr></table>
 

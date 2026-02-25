@@ -1,8 +1,63 @@
+---
+title: Jeremiah 2:15
+type: Verse
+kjv: "The young lions roared upon him, and yelled, and they made his land waste: his cities are burned without inhabitant."
+bsb: "The young lions have roared at him; they have sounded their voices. They have laid waste his land; his cities lie in ruins, without inhabitant."
+hebrew: "עָלָיו֙ יִשְׁאֲג֣וּ כְפִרִ֔ים נָתְנ֖וּ קוֹלָ֑ם וַיָּשִׁ֤יתוּ אַרְצוֹ֙ לְשַׁמָּ֔ה עָרָ֥יו נִצְּת֖וּ מִבְּלִ֥י יֹשֵֽׁב׃"
+pericope: "[[Jer.2.14 The Consequence of Israel’s Sin|The Consequence of Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LION|LION]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7580]]"
+- "[[H3715A]]"
+- "[[H5414M]]"
+- "[[H6963H]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H7896G]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H8047G]]"
+- "[[H5892B]]"
+- "[[H3341]]"
+- "[[H9006]]"
+- "[[H1097]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 2:15**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The young lions roared upon him, [and] yelled, and they made his land waste: his cities are burned without inhabitant.
 <small><sub>**BSB:**</sub></small>
 The young lions have roared at him; they have sounded their voices. They have laid waste his land; his cities lie in ruins, without inhabitant.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עָלָי]][[H9033\|ו֙]] [[H7580\|יִשְׁאֲג֣וּ]] [[H3715A\|כְפִרִ֔ים]] [[H5414M\|נָתְנ֖וּ]] [[H6963H\|קוֹלָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H7896G\|יָּשִׁ֤יתוּ]] [[H0776G\|אַרְצ]][[H9023\|וֹ֙]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֔ה]] [[H5892B\|עָרָ֥י]][[H9023\|ו]] [[H3341\|נִצְּת֖וּ]] [[H9006\|מִ]][[H1097\|בְּלִ֥י]] [[H3427\|יֹשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LION|LION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.14|<< Jeremiah 2:14]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.16|Jeremiah 2:16 >>]]</td></tr></table>
 

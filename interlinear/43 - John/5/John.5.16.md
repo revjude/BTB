@@ -1,10 +1,58 @@
+---
+title: John 5:16
+type: Verse
+kjv: "And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day."
+bsb: "Now because Jesus was doing these things on the Sabbath, the Jews began to persecute Him."
+greek: "καὶ διὰ τοῦτο ἐδίωκον οἱ Ἰουδαῖοι τὸν Ἰησοῦν καὶ ἐζήτουν αὐτὸν ἀποκτεῖναι, ὅτι ταῦτα ἐποίει ἐν σαββάτῳ.¶"
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1377]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G2424G]]"
+- "[[G2212]]"
+- "[[G0846]]"
+- "[[G0615]]"
+- "[[G3754H]]"
+- "[[G4160G]]"
+- "[[G1722]]"
+- "[[G4521]]"
+texts:
+- NKO
+- K
+---
+
 **John 5:16**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day.
 <small><sub>**BSB:**</sub></small>
 Now because Jesus was doing these things on the Sabbath, the Jews began to persecute Him.
-<small><sub>**Literal:**</sub></small>
-And because of this were persecuting the Jews <the> Jesus and were seeking him to kill because these things He was doing on [the] Sabbath.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.15|<< John 5:15]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.17|John 5:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G1377\|ἐδίωκον]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G2212\|ἐζήτουν]]  [[G0846\|αὐτὸν]]  [[G0615\|ἀποκτεῖναι,]]  [[G3754H\|ὅτι]]  [[G3778\|ταῦτα]]  [[G4160G\|ἐποίει]]  [[G1722\|ἐν]]  [[G4521\|σαββάτῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.15|<< John 5:15]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.17|John 5:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

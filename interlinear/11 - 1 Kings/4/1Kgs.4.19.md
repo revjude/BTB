@@ -1,8 +1,70 @@
+---
+title: 1 Kings 4:19
+type: Verse
+kjv: "Geber the son of Uri was in the country of Gilead, in the country of Sihon king of the Amorites, and of Og king of Bashan; and he was the only officer which was in the land."
+bsb: "Geber son of Uri in the land of Gilead, including the territories of Sihon king of the Amorites and of Og king of Bashan. There was also one governor in the land of Judah."
+hebrew: "גֶּ֥בֶר בֶּן־ אֻרִ֖י בְּאֶ֣רֶץ גִּלְעָ֑ד אֶ֜רֶץ סִיח֣וֹן׀ מֶ֣לֶךְ הָאֱמֹרִ֗י וְעֹג֙ מֶ֣לֶךְ הַבָּשָׁ֔ן וּנְצִ֥יב אֶחָ֖ד אֲשֶׁ֥ר בָּאָֽרֶץ׃"
+pericope: "[[1Kgs.4.7 Solomon’s Twelve Officers|Solomon’s Twelve Officers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic COMMISSARY|COMMISSARY]]"
+- "[[topic GEBER|GEBER]]"
+- "[[topic KING|KING]]"
+- "[[topic OFFICER|OFFICER]]"
+- "[[topic OG|OG]]"
+- "[[topic PURVEYOR|PURVEYOR]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H1398]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0221H]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H1568G]]"
+- "[[H5511]]"
+- "[[H9015]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H9002]]"
+- "[[H5747]]"
+- "[[H1316]]"
+- "[[H5333]]"
+- "[[H0259]]"
+- "[[H0834A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 4:19**<big><big>[[1Kgs.4.7 Solomon’s Twelve Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Geber the son of Uri [was] in the country of Gilead, [in] the country of Sihon king of the Amorites, and of Og king of Bashan; and [he was] the only officer which [was] in the land.
 <small><sub>**BSB:**</sub></small>
 Geber son of Uri in the land of Gilead, including the territories of Sihon king of the Amorites and of Og king of Bashan. There was also one governor in the land of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H1398\|גֶּ֥בֶר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0221H\|אֻרִ֖י]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H1568G\|גִּלְעָ֑ד]] [[H0776G\|אֶ֜רֶץ]] [[H5511\|סִיח֣וֹן]][[H9015\|׀]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֗י]] [[H9002\|וְ]][[H5747\|עֹג֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H1316\|בָּשָׁ֔ן]] [[H9002\|וּ]][[H5333\|נְצִ֥יב]] [[H0259\|אֶחָ֖ד]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic COMMISSARY|COMMISSARY]] • [[topic GEBER|GEBER]] • [[topic KING|KING]] • [[topic OFFICER|OFFICER]] • [[topic OG|OG]] • [[topic PURVEYOR|PURVEYOR]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.18|<< 1 Kings 4:18]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.20|1 Kings 4:20 >>]]</td></tr></table>
 

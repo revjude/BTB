@@ -1,8 +1,52 @@
+---
+title: Song of Solomon 3:7
+type: Verse
+kjv: "Behold his bed, which is Solomon’s; threescore valiant men are about it, of the valiant of Israel."
+bsb: "Behold, it is Solomon’s carriage, escorted by sixty of the mightiest men of Israel."
+hebrew: "הִנֵּ֗ה מִטָּתוֹ֙ שֶׁלִּשְׁלֹמֹ֔ה שִׁשִּׁ֥ים גִּבֹּרִ֖ים סָבִ֣יב לָ֑הּ מִגִּבֹּרֵ֖י יִשְׂרָאֵֽל׃"
+pericope: "[[Song.3.6 Solomon Arrives on His Wedding Day|Solomon Arrives on His Wedding Day]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 3
+book/chapter: "[[Song.3|Song of Solomon 3]]"
+chronological_order: 450
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic BED|BED]]"
+strongs:
+- "[[H2009]]"
+- "[[H4296]]"
+- "[[H9023]]"
+- "[[H9007]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H8346]]"
+- "[[H1368]]"
+- "[[H5439G]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 3:7**<big><big>[[Song.3.6 Solomon Arrives on His Wedding Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold his bed, which [is] Solomon’s; threescore valiant men [are] about it, of the valiant of Israel.
 <small><sub>**BSB:**</sub></small>
 Behold, it is Solomon’s carriage, escorted by sixty of the mightiest men of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֗ה]] [[H4296\|מִטָּת]][[H9023\|וֹ֙]] [[H9007\|שֶׁ]][[H9005\|לִּ]][[H8010\|שְׁלֹמֹ֔ה]] [[H8346\|שִׁשִּׁ֥ים]] [[H1368\|גִּבֹּרִ֖ים]] [[H5439G\|סָבִ֣יב]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H9006\|מִ]][[H1368\|גִּבֹּרֵ֖י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BED|BED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.6|<< Song of Solomon 3:6]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.8|Song of Solomon 3:8 >>]]</td></tr></table>
 

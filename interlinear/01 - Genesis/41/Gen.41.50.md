@@ -1,8 +1,72 @@
+---
+title: Genesis 41:50
+type: Verse
+kjv: "And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him."
+bsb: "Before the years of famine arrived, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On."
+hebrew: "וּלְיוֹסֵ֤ף יֻלַּד֙ שְׁנֵ֣י בָנִ֔ים בְּטֶ֥רֶם תָּב֖וֹא שְׁנַ֣ת הָרָעָ֑ב אֲשֶׁ֤ר יָֽלְדָה־ לּוֹ֙ אָֽסְנַ֔ת בַּת־ פּ֥וֹטִי פֶ֖רַע כֹּהֵ֥ן אֽוֹן׃"
+pericope: "[[Gen.41.46 The Seven Years of Plenty|The Seven Years of Plenty]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ASENATH|ASENATH]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic POTI-PHERAH|POTI-PHERAH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3130G]]"
+- "[[H3205]]"
+- "[[H8147]]"
+- "[[H1121A]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H0935G]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7458]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H0621]]"
+- "[[H1323G]]"
+- "[[H6319]]"
+- "[[H3548]]"
+- "[[H0204]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:50**<big><big>[[Gen.41.46 The Seven Years of Plenty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Joseph were born two sons before the years of famine came, which Asenath the daughter of Potipherah priest of On bare unto him.
 <small><sub>**BSB:**</sub></small>
 Before the years of famine arrived, two sons were born to Joseph by Asenath daughter of Potiphera, priest of On.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H3130G\|יוֹסֵ֤ף]] [[H3205\|יֻלַּד֙]] [[H8147\|שְׁנֵ֣י]] [[H1121A\|בָנִ֔ים]] [[H9003\|בְּ]][[H2962\|טֶ֥רֶם]] [[H0935G\|תָּב֖וֹא]] [[H8141\|שְׁנַ֣ת]] [[H9009\|הָ]][[H7458\|רָעָ֑ב]] [[H0834A\|אֲשֶׁ֤ר]] [[H3205\|יָֽלְדָה]][[H9014\|־]] [[H9005\|לּ]][[H9033\|וֹ֙]] [[H0621\|אָֽסְנַ֔ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H6319\|פּ֥וֹטִי]] [[H6319\|פֶ֖רַע]] [[H3548\|כֹּהֵ֥ן]] [[H0204\|אֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASENATH|ASENATH]] • [[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic MANASSEH|MANASSEH]] • [[topic POTI-PHERAH|POTI-PHERAH]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.49|<< Genesis 41:49]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.51|Genesis 41:51 >>]]</td></tr></table>
 

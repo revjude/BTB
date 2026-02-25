@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Woman on the Beast
+type: Pericope
 pericope: "[[Rev.17.1 The Woman on the Beast|The Woman on the Beast]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 17
 book/chapter: "[[Rev.17|Revelation 17]]"
-genre:
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.17.1]]"
 - "[[Rev.17.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.17.5]]"
 ---
 
-[[Rev.17|Revelation 17:1 - Revelation 17:5]]
+<small>[[Rev.17|Revelation 17:1-5]]</small>
 *The Woman on the Beast*
 
 [[Rev.17.1|1]] And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:

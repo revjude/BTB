@@ -1,8 +1,51 @@
+---
+title: Proverbs 25:28
+type: Verse
+kjv: "He that hath no rule over his own spirit is like a city that is broken down, and without walls."
+bsb: "Like a city whose walls are broken down is a man who does not control his temper."
+hebrew: "עִ֣יר פְּ֭רוּצָה אֵ֣ין חוֹמָ֑ה אִ֝֗ישׁ אֲשֶׁ֤ר אֵ֖ין מַעְצָ֣ר לְרוּחֽוֹ׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+strongs:
+- "[[H5892B]]"
+- "[[H6555]]"
+- "[[H0369]]"
+- "[[H2346G]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H4623]]"
+- "[[H9005]]"
+- "[[H7307J]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:28**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that [hath] no rule over his own spirit [is like] a city [that is] broken down, [and] without walls.
 <small><sub>**BSB:**</sub></small>
 Like a city whose walls are broken down is a man who does not control his temper.
+<small><sub>**Hebrew:**</sub></small>
+[[H5892B\|עִ֣יר]] [[H6555\|פְּ֭רוּצָה]] [[H0369\|אֵ֣ין]] [[H2346G\|חוֹמָ֑ה]] [[H0376G\|אִ֝֗ישׁ]] [[H0834A\|אֲשֶׁ֤ר]] [[H0369\|אֵ֖ין]] [[H4623\|מַעְצָ֣ר]] [[H9005\|לְ]][[H7307J\|רוּחֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.27|<< Proverbs 25:27]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.1|Proverbs 26:1 >>]]</td></tr></table>
 

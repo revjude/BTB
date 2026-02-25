@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prayer of Jabez
+type: Pericope
 pericope: "[[1Chr.4.9 The Prayer of Jabez|The Prayer of Jabez]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 4
 book/chapter: "[[1Chr.4|1 Chronicles 4]]"
-genre:
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 2
 verses:
 - "[[1Chr.4.9]]"
 - "[[1Chr.4.10]]"
 ---
 
-[[1Chr.4|1 Chronicles 4:9 - 1 Chronicles 4:10]]
+<small>[[1Chr.4|1 Chronicles 4:9-10]]</small>
 *The Prayer of Jabez*
 
 [[1Chr.4.9|9]] And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.

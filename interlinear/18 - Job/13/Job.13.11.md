@@ -1,8 +1,54 @@
+---
+title: Job 13:11
+type: Verse
+kjv: "Shall not his excellency make you afraid? and his dread fall upon you?"
+bsb: "Would His majesty not terrify you? Would the dread of Him not fall upon you?"
+hebrew: "הֲלֹ֣א שְׂ֭אֵתוֹ תְּבַעֵ֣ת אֶתְכֶ֑ם וּ֝פַחְדּ֗וֹ יִפֹּ֥ל עֲלֵיכֶֽם׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H7613]]"
+- "[[H9023]]"
+- "[[H1204]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H6343]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:11**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall not his excellency make you afraid? and his dread fall upon you?
 <small><sub>**BSB:**</sub></small>
 Would His majesty not terrify you? Would the dread of Him not fall upon you?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹ֣א]] [[H7613\|שְׂ֭אֵת]][[H9023\|וֹ]] [[H1204\|תְּבַעֵ֣ת]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H9002\|וּ֝]][[H6343\|פַחְדּ֗]][[H9023\|וֹ]] [[H5307G\|יִפֹּ֥ל]] [[H5921A\|עֲלֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.10|<< Job 13:10]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.12|Job 13:12 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Jeremiah 3:3
+type: Verse
+kjv: "Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed."
+bsb: "Therefore the showers have been withheld, and no spring rains have fallen. Yet you have the brazen look of a prostitute; you refuse to be ashamed."
+hebrew: "וַיִּמָּנְע֣וּ רְבִבִ֔ים וּמַלְק֖וֹשׁ ל֣וֹא הָיָ֑ה וּמֵ֨צַח אִשָּׁ֤ה זוֹנָה֙ הָ֣יָה לָ֔ךְ מֵאַ֖נְתְּ הִכָּלֵֽם׃"
+pericope: "[[Jer.3.1 The Wages of the Harlot|The Wages of the Harlot]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H4513]]"
+- "[[H7241]]"
+- "[[H9002]]"
+- "[[H4456]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H4696]]"
+- "[[H0802G]]"
+- "[[H2181]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3985]]"
+- "[[H3637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:3**<big><big>[[Jer.3.1 The Wages of the Harlot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the showers have been withholden, and there hath been no latter rain; and thou hadst a whore’s forehead, thou refusedst to be ashamed.
 <small><sub>**BSB:**</sub></small>
 Therefore the showers have been withheld, and no spring rains have fallen. Yet you have the brazen look of a prostitute; you refuse to be ashamed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4513\|יִּמָּנְע֣וּ]] [[H7241\|רְבִבִ֔ים]] [[H9002\|וּ]][[H4456\|מַלְק֖וֹשׁ]] [[H3808\|ל֣וֹא]] [[H1961\|הָיָ֑ה]] [[H9002\|וּ]][[H4696\|מֵ֨צַח]] [[H0802G\|אִשָּׁ֤ה]] [[H2181\|זוֹנָה֙]] [[H1961\|הָ֣יָה]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H3985\|מֵאַ֖נְתְּ]] [[H3637\|הִכָּלֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.2|<< Jeremiah 3:2]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.4|Jeremiah 3:4 >>]]</td></tr></table>
 

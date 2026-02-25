@@ -1,8 +1,60 @@
+---
+title: Jeremiah 50:18
+type: Verse
+kjv: "Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will punish the king of Babylon and his land, as I have punished the king of Assyria."
+bsb: "Therefore this is what the LORD of Hosts, the God of Israel, says: “I will punish the king of Babylon and his land as I punished the king of Assyria."
+hebrew: "לָכֵ֗ן כֹּֽה־ אָמַ֞ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֥י פֹקֵ֛ד אֶל־ מֶ֥לֶךְ בָּבֶ֖ל וְאֶל־ אַרְצ֑וֹ כַּאֲשֶׁ֥ר פָּקַ֖דְתִּי אֶל־ מֶ֥לֶךְ אַשּֽׁוּר׃"
+pericope: "[[Jer.50.17 Redemption for God’s People|Redemption for God’s People]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6485H]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:18**<big><big>[[Jer.50.17 Redemption for God’s People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will punish the king of Babylon and his land, as I have punished the king of Assyria.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD of Hosts, the God of Israel, says: “I will punish the king of Babylon and his land as I punished the king of Assyria.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H6485H\|פֹקֵ֛ד]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶ֖ל]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אַרְצ֑]][[H9023\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6485H\|פָּקַ֖דְתִּי]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.17|<< Jeremiah 50:17]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.19|Jeremiah 50:19 >>]]</td></tr></table>
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bride’s Dream
+type: Pericope
 pericope: "[[Song.3.1 The Bride’s Dream|The Bride’s Dream]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 3
 book/chapter: "[[Song.3|Song of Solomon 3]]"
-genre:
+chronological_order: 450
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 5
 verses:
 - "[[Song.3.1]]"
 - "[[Song.3.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Song.3.5]]"
 ---
 
-[[Song.3|Song of Solomon 3:1 - Song of Solomon 3:5]]
+<small>[[Song.3|Song of Solomon 3:1-5]]</small>
 *The Bride’s Dream*
 
 [[Song.3.1|1]] By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.

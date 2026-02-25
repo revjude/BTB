@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Testimonies about Jesus
+type: Pericope
 pericope: "[[John.5.31 Testimonies about Jesus|Testimonies about Jesus]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: John
 chapter: 5
 book/chapter: "[[John.5|John 5]]"
-genre:
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 8
 verses:
 - "[[John.5.31]]"
 - "[[John.5.32]]"
@@ -26,7 +33,7 @@ verses:
 - "[[John.5.38]]"
 ---
 
-[[John.5|John 5:31 - John 5:38]]
+<small>[[John.5|John 5:31-38]]</small>
 *Testimonies about Jesus*
 
 [[John.5.31|31]] If I bear witness of myself, my witness is not true.

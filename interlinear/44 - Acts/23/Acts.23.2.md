@@ -1,10 +1,54 @@
+---
+title: Acts 23:2
+type: Verse
+kjv: "And the high priest Ananias commanded them that stood by him to smite him on the mouth."
+bsb: "At this, the high priest Ananias ordered those standing near Paul to strike him on the mouth."
+greek: "ὁ δὲ ἀρχιερεὺς Ἁνανίας ἐπέταξεν τοῖς παρεστῶσιν αὐτῷ τύπτειν αὐτοῦ τὸ στόμα."
+pericope: "[[Acts.23.1 Paul before the Sanhedrin|Paul before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0749]]"
+- "[[G0367I]]"
+- "[[G2004]]"
+- "[[G3936]]"
+- "[[G0846]]"
+- "[[G5180]]"
+- "[[G4750]]"
+texts:
+- NKO
+---
+
 **Acts 23:2**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the high priest Ananias commanded them that stood by him to smite him on the mouth.
 <small><sub>**BSB:**</sub></small>
 At this, the high priest Ananias ordered those standing near Paul to strike him on the mouth.
-<small><sub>**Literal:**</sub></small>
-<the> Then the high priest Ananias commanded to those standing by him to strike of him the mouth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.1|<< Acts 23:1]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.3|Acts 23:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0749\|ἀρχιερεὺς]]  [[G0367I\|Ἁνανίας]]  [[G2004\|ἐπέταξεν]]  [[G3588\|τοῖς]]  [[G3936\|παρεστῶσιν]]  [[G0846\|αὐτῷ]]  [[G5180\|τύπτειν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G4750\|στόμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic PAUL|PAUL]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.1|<< Acts 23:1]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.3|Acts 23:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,70 @@
+---
+title: Matthew 13:52
+type: Verse
+kjv: "Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old."
+bsb: "Then He told them, “For this reason, every scribe who has been discipled in the kingdom of heaven is like a homeowner who brings out of his storeroom new treasures as well as old.”"
+jesus_said: "Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old."
+greek: "Ὁ δὲ εἶπεν αὐτοῖς· διὰ τοῦτο πᾶς γραμματεὺς μαθητευθεὶς εἰς τῇ βασιλείᾳ τῶν οὐρανῶν ὅμοιός ἐστιν ἀνθρώπῳ οἰκοδεσπότῃ ὅστις ἐκβάλλει ἐκ τοῦ θησαυροῦ αὐτοῦ καινὰ καὶ παλαιά.¶"
+pericope: "[[Matt.13.47 The Parable of the Net|The Parable of the Net]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic TREASURE|TREASURE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3956]]"
+- "[[G1122]]"
+- "[[G3100]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G3664]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G3617]]"
+- "[[G3748]]"
+- "[[G1544]]"
+- "[[G1537]]"
+- "[[G2344]]"
+- "[[G2537]]"
+- "[[G2532]]"
+- "[[G3820]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Matthew 13:52**<big><big>[[Matt.13.47 The Parable of the Net|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said he unto them, Therefore every scribe [which is] instructed unto the kingdom of heaven is like unto a man [that is] an householder, which bringeth forth out of his treasure [things] new and old.
 <small><sub>**BSB:**</sub></small>
 Then He told them, “For this reason, every scribe who has been discipled in the kingdom of heaven is like a homeowner who brings out of his storeroom new treasures as well as old.”
-<small><sub>**Literal:**</sub></small>
-He then said to them; Because of this every scribe having been discipled into [in] the kingdom of the heavens like is to a man a master of a house who puts forth out of the treasure of him [things] new and old.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.51|<< Matthew 13:51]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.53|Matthew 13:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3956\|πᾶς]]  [[G1122\|γραμματεὺς]]  [[G3100\|μαθητευθεὶς]]  [[G1519\|εἰς]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G3664\|ὅμοιός]]  [[G1510\|ἐστιν]]  [[G0444\|ἀνθρώπῳ]]  [[G3617\|οἰκοδεσπότῃ]]  [[G3748\|ὅστις]]  [[G1544\|ἐκβάλλει]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2344\|θησαυροῦ]]  [[G0846\|αὐτοῦ]]  [[G2537\|καινὰ]]  [[G2532\|καὶ]]  [[G3820\|παλαιά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SERMON|SERMON]] • [[topic TREASURE|TREASURE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.51|<< Matthew 13:51]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.53|Matthew 13:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

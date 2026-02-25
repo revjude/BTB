@@ -1,8 +1,54 @@
+---
+title: Proverbs 3:21
+type: Verse
+kjv: "My son, let not them depart from thine eyes: keep sound wisdom and discretion:"
+bsb: "My son, do not lose sight of this: Preserve sound judgment and discernment."
+hebrew: "בְּ֭נִי אַל־ יָלֻ֣זוּ מֵעֵינֶ֑יךָ נְצֹ֥ר תֻּ֝שִׁיָּ֗ה וּמְזִמָּֽה׃"
+pericope: "[[Prov.3.13 The Blessings of Wisdom|The Blessings of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3868]]"
+- "[[H9006]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H5341]]"
+- "[[H8454]]"
+- "[[H9002]]"
+- "[[H4209]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 3:21**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My son, let not them depart from thine eyes: keep sound wisdom and discretion:
 <small><sub>**BSB:**</sub></small>
 My son, do not lose sight of this: Preserve sound judgment and discernment.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּ֭נִ]][[H9020\|י]] [[H0408\|אַל]][[H9014\|־]] [[H3868\|יָלֻ֣זוּ]] [[H9006\|מֵ]][[H5869H\|עֵינֶ֑י]][[H9021\|ךָ]] [[H5341\|נְצֹ֥ר]] [[H8454\|תֻּ֝שִׁיָּ֗ה]] [[H9002\|וּ]][[H4209\|מְזִמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.20|<< Proverbs 3:20]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.22|Proverbs 3:22 >>]]</td></tr></table>
 

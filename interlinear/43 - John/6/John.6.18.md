@@ -1,10 +1,49 @@
+---
+title: John 6:18
+type: Verse
+kjv: "And the sea arose by reason of a great wind that blew."
+bsb: "A strong wind was blowing, and the sea grew agitated."
+greek: "ἥ τε θάλασσα ἀνέμου μεγάλου πνέοντος διεγείρετο."
+pericope: "[[John.6.16 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G2281]]"
+- "[[G0417]]"
+- "[[G3173]]"
+- "[[G4154]]"
+- "[[G1326]]"
+texts:
+- NKO
+---
+
 **John 6:18**<big><big>[[John.6.16 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the sea arose by reason of a great wind that blew.
 <small><sub>**BSB:**</sub></small>
 A strong wind was blowing, and the sea grew agitated.
-<small><sub>**Literal:**</sub></small>
-<the> And the sea by a wind strong blowing was agitated.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.17|<< John 6:17]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.19|John 6:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἥ]]  [[G5037\|τε]]  [[G2281\|θάλασσα]]  [[G0417\|ἀνέμου]]  [[G3173\|μεγάλου]]  [[G4154\|πνέοντος]]  [[G1326\|διεγείρετο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.17|<< John 6:17]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.19|John 6:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

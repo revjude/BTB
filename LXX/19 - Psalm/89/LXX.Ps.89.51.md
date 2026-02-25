@@ -1,6 +1,52 @@
+---
+title: LXX Psalm 89:51
+type: Verse
+lxx: "where your enemies berated, O lord, where they berated the equivalent  of your anointed one."
+greek: "ου ωνείδισαν οι εχθροί σου κύριε ου ωνείδισαν το αντάλλαγμα του χριστού σου"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3739]]"
+- "[[G3679]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G3739]]"
+- "[[G3679]]"
+- "[[G3588]]"
+- "[[G0465]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 89:51** 
 <small><sub>**LXX:**</sub></small>
 where your enemies berated, O <span class="smallcaps">lord</span>, where they berated the equivalent  of your anointed one. 
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ου]] [[G3679\|ωνείδισαν]] [[G3588\|οι]] [[G2190\|εχθροί]] [[G1473\|σου]] [[G2962\|κύριε]] [[G3739\|ου]] [[G3679\|ωνείδισαν]] [[G3588\|το]] [[G0465\|αντάλλαγμα]] [[G3588\|του]] [[G5547\|χριστού]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.89.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.50|<< Psalm 89:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.52|Psalm 89:52 >>]]</td></tr></table>
 
@@ -17,6 +63,6 @@ where your enemies berated, O <span class="smallcaps">lord</span>, where they be
 | equivalent | **<big>[[G0465\|αντάλλαγμα]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | of your anointed one. | **<big>[[G5547\|χριστού]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Ps.89.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.50|<< Psalm 89:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.52|Psalm 89:52 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.89.50|<< Psalm 89:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.89.52|Psalm 89:52 >>]]</td></tr></table>
 
 

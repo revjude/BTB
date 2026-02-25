@@ -1,8 +1,64 @@
+---
+title: Leviticus 23:2
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, Concerning the feasts of the LORD, which ye shall proclaim to be holy convocations, even these are my feasts."
+bsb: "“Speak to the Israelites and say to them, ‘These are My appointed feasts, the feasts of the LORD that you are to proclaim as sacred assemblies."
+hebrew: "דַּבֵּ֞ר אֶל־ בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם מוֹעֲדֵ֣י יְהוָ֔ה אֲשֶׁר־ תִּקְרְא֥וּ אֹתָ֖ם מִקְרָאֵ֣י קֹ֑דֶשׁ אֵ֥לֶּה הֵ֖ם מוֹעֲדָֽי׃"
+pericope: "[[Lev.23.1 Feasts and Sabbaths|Feasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H4150H]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H7121I]]"
+- "[[H0853]]"
+- "[[H4744]]"
+- "[[H6944G]]"
+- "[[H0428]]"
+- "[[H1992]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:2**<big><big>[[Lev.23.1 Feasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, [Concerning] the feasts of the LORD, which ye shall proclaim [to be] holy convocations, [even] these [are] my feasts.
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and say to them, ‘These are My appointed feasts, the feasts of the LORD that you are to proclaim as sacred assemblies.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֞ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H4150H\|מוֹעֲדֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121I\|תִּקְרְא֥וּ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H4744\|מִקְרָאֵ֣י]] [[H6944G\|קֹ֑דֶשׁ]] [[H0428\|אֵ֥לֶּה]] [[H1992\|הֵ֖ם]] [[H4150H\|מוֹעֲדָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.1|<< Leviticus 23:1]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.3|Leviticus 23:3 >>]]</td></tr></table>
 

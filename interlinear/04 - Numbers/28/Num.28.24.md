@@ -1,8 +1,68 @@
+---
+title: Numbers 28:24
+type: Verse
+kjv: "After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the LORD: it shall be offered beside the continual burnt offering, and his drink offering."
+bsb: "Offer the same food each day for seven days as a food offering, a pleasing aroma to the LORD. It is to be offered with its drink offering and the regular burnt offering."
+hebrew: "כָּאֵ֜לֶּה תַּעֲשׂ֤וּ לַיּוֹם֙ שִׁבְעַ֣ת יָמִ֔ים לֶ֛חֶם אִשֵּׁ֥ה רֵֽיחַ־ נִיחֹ֖חַ לַיהוָ֑ה עַל־ עוֹלַ֧ת הַתָּמִ֛יד יֵעָשֶׂ֖ה וְנִסְכּֽוֹ׃"
+pericope: "[[Num.28.16 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9004]]"
+- "[[H0428]]"
+- "[[H6213I]]"
+- "[[H9005]]"
+- "[[H3117J]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H3899G]]"
+- "[[H0801]]"
+- "[[H7381]]"
+- "[[H9014]]"
+- "[[H5207]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H5930A]]"
+- "[[H9009]]"
+- "[[H8548]]"
+- "[[H9002]]"
+- "[[H5262]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:24**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the LORD: it shall be offered beside the continual burnt offering, and his drink offering.
 <small><sub>**BSB:**</sub></small>
 Offer the same food each day for seven days as a food offering, a pleasing aroma to the LORD. It is to be offered with its drink offering and the regular burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כָּ]][[H0428\|אֵ֜לֶּה]] [[H6213I\|תַּעֲשׂ֤וּ]] [[H9005\|לַ]][[H3117J\|יּוֹם֙]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֔ים]] [[H3899G\|לֶ֛חֶם]] [[H0801\|אִשֵּׁ֥ה]] [[H7381\|רֵֽיחַ]][[H9014\|־]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5930A\|עוֹלַ֧ת]] [[H9009\|הַ]][[H8548\|תָּמִ֛יד]] [[H6213I\|יֵעָשֶׂ֖ה]] [[H9002\|וְ]][[H5262\|נִסְכּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic FEASTS|FEASTS]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.23|<< Numbers 28:23]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.25|Numbers 28:25 >>]]</td></tr></table>
 

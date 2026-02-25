@@ -1,8 +1,61 @@
+---
+title: Isaiah 2:6
+type: Verse
+kjv: "Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers."
+bsb: "For You have abandoned Your people, the house of Jacob, because they are filled with influences from the east; they are soothsayers like the Philistines; they strike hands with the children of foreigners."
+hebrew: "כִּ֣י נָטַ֗שְׁתָּה עַמְּךָ֙ בֵּ֣ית יַעֲקֹ֔ב כִּ֤י מָלְאוּ֙ מִקֶּ֔דֶם וְעֹֽנְנִ֖ים כַּפְּלִשְׁתִּ֑ים וּבְיַלְדֵ֥י נָכְרִ֖ים יַשְׂפִּֽיקוּ׃"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5203]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H4390]]"
+- "[[H9006]]"
+- "[[H6924G]]"
+- "[[H9002]]"
+- "[[H6049B]]"
+- "[[H9004]]"
+- "[[H6430G]]"
+- "[[H9003]]"
+- "[[H3206]]"
+- "[[H5237]]"
+- "[[H5606A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:6**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and [are] soothsayers like the Philistines, and they please themselves in the children of strangers.
 <small><sub>**BSB:**</sub></small>
 For You have abandoned Your people, the house of Jacob, because they are filled with influences from the east; they are soothsayers like the Philistines; they strike hands with the children of foreigners.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H5203\|נָטַ֗שְׁתָּה]] [[H5971A\|עַמְּ]][[H9021\|ךָ֙]] [[H1004M\|בֵּ֣ית]] [[H3290\|יַעֲקֹ֔ב]] [[H3588A\|כִּ֤י]] [[H4390\|מָלְאוּ֙]] [[H9006\|מִ]][[H6924G\|קֶּ֔דֶם]] [[H9002\|וְ]][[H6049B\|עֹֽנְנִ֖ים]] [[H9004\|כַּ]][[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3206\|יַלְדֵ֥י]] [[H5237\|נָכְרִ֖ים]] [[H5606A\|יַשְׂפִּֽיקוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.5|<< Isaiah 2:5]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.7|Isaiah 2:7 >>]]</td></tr></table>
 

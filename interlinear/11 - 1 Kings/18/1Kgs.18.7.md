@@ -1,8 +1,69 @@
+---
+title: 1 Kings 18:7
+type: Verse
+kjv: "And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, Art thou that my lord Elijah?"
+bsb: "Now as Obadiah went on his way, Elijah suddenly met him. When Obadiah recognized him, he fell facedown and said, “Is it you, my lord Elijah?”"
+hebrew: "וַיְהִ֤י עֹבַדְיָ֙הוּ֙ בַּדֶּ֔רֶךְ וְהִנֵּ֥ה אֵלִיָּ֖הוּ לִקְרָאת֑וֹ וַיַּכִּרֵ֙הוּ֙ וַיִּפֹּ֣ל עַל־ פָּנָ֔יו וַיֹּ֕אמֶר הַאַתָּ֥ה זֶ֖ה אֲדֹנִ֥י אֵלִיָּֽהוּ׃"
+pericope: "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic EXTRADITION|EXTRADITION]]"
+- "[[topic OBADIAH|OBADIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5662G]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0452G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H5234A]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H0859A]]"
+- "[[H2088]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:7**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, [Art] thou that my lord Elijah?
 <small><sub>**BSB:**</sub></small>
 Now as Obadiah went on his way, Elijah suddenly met him. When Obadiah recognized him, he fell facedown and said, “Is it you, my lord Elijah?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H5662G\|עֹבַדְיָ֙הוּ֙]] [[H9003\|בַּ]][[H1870L\|דֶּ֔רֶךְ]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H0452G\|אֵלִיָּ֖הוּ]] [[H9005\|לִ]][[H7122G\|קְרָאת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H5234A\|יַּכִּרֵ֙]][[H9033\|הוּ֙]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֣ל]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9008\|הַ]][[H0859A\|אַתָּ֥ה]] [[H2088\|זֶ֖ה]] [[H0113\|אֲדֹנִ֥]][[H9020\|י]] [[H0452G\|אֵלִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic ELIJAH|ELIJAH]] • [[topic EXTRADITION|EXTRADITION]] • [[topic OBADIAH|OBADIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.6|<< 1 Kings 18:6]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.8|1 Kings 18:8 >>]]</td></tr></table>
 

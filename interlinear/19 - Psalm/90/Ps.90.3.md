@@ -1,8 +1,55 @@
+---
+title: Psalm 90:3
+type: Verse
+kjv: "Thou turnest man to destruction; and sayest, Return, ye children of men."
+bsb: "You return man to dust, saying, “Return, O sons of mortals.”"
+hebrew: "תָּשֵׁ֣ב אֱ֭נוֹשׁ עַד־ דַּכָּ֑א וַ֝תֹּ֗אמֶר שׁ֣וּבוּ בְנֵי־ אָדָֽם׃"
+pericope: "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 90
+book/chapter: "[[Ps.90|Psalm 90]]"
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H7725G]]"
+- "[[H0582]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1793B]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 90:3**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou turnest man to destruction; and sayest, Return, ye children of men.
 <small><sub>**BSB:**</sub></small>
 You return man to dust, saying, “Return, O sons of mortals.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|תָּשֵׁ֣ב]] [[H0582\|אֱ֭נוֹשׁ]] [[H5704\|עַד]][[H9014\|־]] [[H1793B\|דַּכָּ֑א]] [[H9001\|וַ֝]][[H0559\|תֹּ֗אמֶר]] [[H7725G\|שׁ֣וּבוּ]] [[H1121A\|בְנֵי]][[H9014\|־]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.2|<< Psalms 90:2]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.4|Psalms 90:4 >>]]</td></tr></table>
 

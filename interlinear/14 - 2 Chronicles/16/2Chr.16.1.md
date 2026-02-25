@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 16:1
+type: Verse
+kjv: "In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah."
+bsb: "In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah."
+hebrew: "בִּשְׁנַ֨ת שְׁלֹשִׁ֤ים וָשֵׁשׁ֙ לְמַלְכ֣וּת אָסָ֔א עָלָ֞ה בַּעְשָׁ֤א מֶֽלֶךְ־ יִשְׂרָאֵל֙ עַל־ יְהוּדָ֔ה וַיִּ֖בֶן אֶת־ הָרָמָ֑ה לְבִלְתִּ֗י תֵּ֚ת יוֹצֵ֣א וָבָ֔א לְאָסָ֖א מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[2Chr.16.1 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H9005]]"
+- "[[H4438]]"
+- "[[H0609G]]"
+- "[[H5927G]]"
+- "[[H1201]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H3063G]]"
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7414G]]"
+- "[[H1115]]"
+- "[[H5414K]]"
+- "[[H3318G]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 16:1**<big><big>[[2Chr.16.1 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.
 <small><sub>**BSB:**</sub></small>
 In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֨ת]] [[H7970\|שְׁלֹשִׁ֤ים]] [[H9002\|וָ]][[H8337\|שֵׁשׁ֙]] [[H9005\|לְ]][[H4438\|מַלְכ֣וּת]] [[H0609G\|אָסָ֔א]] [[H5927G\|עָלָ֞ה]] [[H1201\|בַּעְשָׁ֤א]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ]][[H1129\|יִּ֖בֶן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7414G\|רָמָ֑ה]] [[H9005\|לְ]][[H1115\|בִלְתִּ֗י]] [[H5414K\|תֵּ֚ת]] [[H3318G\|יוֹצֵ֣א]] [[H9002\|וָ]][[H0935G\|בָ֔א]] [[H9005\|לְ]][[H0609G\|אָסָ֖א]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAASHA|BAASHA]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.19|<< 2 Chronicles 15:19]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.2|2 Chronicles 16:2 >>]]</td></tr></table>
 

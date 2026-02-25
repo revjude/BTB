@@ -1,10 +1,75 @@
+---
+title: Mark 11:23
+type: Verse
+kjv: "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith."
+bsb: "“Truly I tell you that if anyone says to this mountain, ‘Be lifted up and thrown into the sea,’ and has no doubt in his heart but believes that it will happen, it will be done for him."
+jesus_said: "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith."
+greek: "ἀμὴν γὰρ λέγω ὑμῖν ὅτι ὃς ἂν εἴπῃ τῷ ὄρει τούτῳ· ἄρθητι καὶ βλήθητι εἰς τὴν θάλασσαν, καὶ μὴ διακριθῇ ἐν τῇ καρδίᾳ αὐτοῦ ἀλλὰ πιστεύῃ ὅτι ὃ λαλεῖ γίνεται, ἔσται αὐτῷ ὃ ἐὰν εἴπῃ.¶"
+pericope: "[[Mark.11.20 The Withered Fig Tree|The Withered Fig Tree]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G0281]]"
+- "[[G1063]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G3778]]"
+- "[[G0142]]"
+- "[[G2532]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G2281]]"
+- "[[G3361]]"
+- "[[G1252]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G4100]]"
+- "[[G2980]]"
+- "[[G1096]]"
+- "[[G1510]]"
+- "[[G1437]]"
+texts:
+- NKO
+- ko
+- N(k)O
+- K
+---
+
 **Mark 11:23**<big><big>[[Mark.11.20 The Withered Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.
 <small><sub>**BSB:**</sub></small>
 “Truly I tell you that if anyone says to this mountain, ‘Be lifted up and thrown into the sea,’ and has no doubt in his heart but believes that it will happen, it will be done for him.
-<small><sub>**Literal:**</sub></small>
-Amen for I say to you that who[ever] maybe may say to the mountain this; do be taken away and do be cast into the sea,’ and not may doubt in the heart of him but may believe that what he says takes place, it will be done for him what maybe he shall say.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.22|<< Mark 11:22]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.24|Mark 11:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G1063\|γὰρ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G2036\|εἴπῃ]]  [[G3588\|τῷ]]  [[G3735\|ὄρει]]  [[G3778\|τούτῳ·]]  [[G0142\|ἄρθητι]]  [[G2532\|καὶ]]  [[G0906G\|βλήθητι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1252\|διακριθῇ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G0846\|αὐτοῦ]]  [[G0235\|ἀλλὰ]]  [[G4100\|πιστεύῃ]]  [[G3754G\|ὅτι]]  [[G3739\|ὃ]]  [[G2980\|λαλεῖ]]  [[G1096\|γίνεται,]]  [[G1510\|ἔσται]]  [[G0846\|αὐτῷ]]  [[G3739\|ὃ]]  [[G1437\|ἐὰν]]  [[G2036\|εἴπῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.22|<< Mark 11:22]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.24|Mark 11:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

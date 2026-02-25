@@ -1,10 +1,66 @@
+---
+title: Matthew 25:28
+type: Verse
+kjv: "Take therefore the talent from him, and give it unto him which hath ten talents."
+bsb: "Therefore take the talent from him and give it to the one who has ten talents."
+jesus_said: "Take therefore the talent from him, and give it unto him which hath ten talents."
+greek: "ἄρατε οὖν ἀπ᾽ αὐτοῦ τὸ τάλαντον καὶ δότε τῷ ἔχοντι τὰ δέκα τάλαντα."
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TALENT|TALENT]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0142]]"
+- "[[G3767]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5007]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G2192]]"
+- "[[G1176]]"
+texts:
+- NKO
+---
+
 **Matthew 25:28**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Take therefore the talent from him, and give [it] unto him which hath ten talents.
 <small><sub>**BSB:**</sub></small>
 Therefore take the talent from him and give it to the one who has ten talents.
-<small><sub>**Literal:**</sub></small>
-do take therefore from him the talent and do give [it] to the [one] having the ten talents.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.27|<< Matthew 25:27]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.29|Matthew 25:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0142\|ἄρατε]]  [[G3767\|οὖν]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G5007\|τάλαντον]]  [[G2532\|καὶ]]  [[G1325\|δότε]]  [[G3588\|τῷ]]  [[G2192\|ἔχοντι]]  [[G3588\|τὰ]]  [[G1176\|δέκα]]  [[G5007\|τάλαντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TALENT|TALENT]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.27|<< Matthew 25:27]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.29|Matthew 25:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

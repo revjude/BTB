@@ -1,8 +1,71 @@
+---
+title: Jeremiah 17:1
+type: Verse
+kjv: "The sin of Judah is written with a pen of iron, and with the point of a diamond: it is graven upon the table of their heart, and upon the horns of your altars;"
+bsb: "“The sin of Judah is written with an iron stylus, engraved with a diamond point on the tablets of their hearts and on the horns of their altars."
+hebrew: "חַטַּ֣את יְהוּדָ֗ה כְּתוּבָ֛ה בְּעֵ֥ט בַּרְזֶ֖ל בְּצִפֹּ֣רֶן שָׁמִ֑יר חֲרוּשָׁה֙ עַל־ ל֣וּחַ לִבָּ֔ם וּלְקַרְנ֖וֹת מִזְבְּחוֹתֵיכֶֽם׃"
+pericope: "[[Jer.17.1 The Sin and Punishment of Judah|The Sin and Punishment of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DIAMOND|DIAMOND]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic IRON|IRON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PEN|PEN]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2403B]]"
+- "[[H3063G]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H5842]]"
+- "[[H1270]]"
+- "[[H6856]]"
+- "[[H8068]]"
+- "[[H2790A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3871]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H7161A]]"
+- "[[H4196]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:1**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sin of Judah [is] written with a pen of iron, [and] with the point of a diamond: [it is] graven upon the table of their heart, and upon the horns of your altars;
 <small><sub>**BSB:**</sub></small>
 “The sin of Judah is written with an iron stylus, engraved with a diamond point on the tablets of their hearts and on the horns of their altars.
+<small><sub>**Hebrew:**</sub></small>
+[[H2403B\|חַטַּ֣את]] [[H3063G\|יְהוּדָ֗ה]] [[H3789\|כְּתוּבָ֛ה]] [[H9003\|בְּ]][[H5842\|עֵ֥ט]] [[H1270\|בַּרְזֶ֖ל]] [[H9003\|בְּ]][[H6856\|צִפֹּ֣רֶן]] [[H8068\|שָׁמִ֑יר]] [[H2790A\|חֲרוּשָׁה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3871\|ל֣וּחַ]] [[H3820A\|לִבָּ֔]][[H9028\|ם]] [[H9002\|וּ]][[H9005\|לְ]][[H7161A\|קַרְנ֖וֹת]] [[H4196\|מִזְבְּחוֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIAMOND|DIAMOND]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HEART|HEART]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INFLUENCE|INFLUENCE]] • [[topic IRON|IRON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PEN|PEN]] • [[topic TABLE|TABLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.21|<< Jeremiah 16:21]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.2|Jeremiah 17:2 >>]]</td></tr></table>
 

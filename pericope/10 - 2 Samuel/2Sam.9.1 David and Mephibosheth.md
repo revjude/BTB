@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David and Mephibosheth
+type: Pericope
 pericope: "[[2Sam.9.1 David and Mephibosheth|David and Mephibosheth]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 9
 book/chapter: "[[2Sam.9|2 Samuel 9]]"
-genre:
+chronological_order: 403
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 13
 verses:
 - "[[2Sam.9.1]]"
 - "[[2Sam.9.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[2Sam.9.13]]"
 ---
 
-[[2Sam.9|2 Samuel 9:1 - 2 Samuel 9:13]]
+<small>[[2Sam.9|2 Samuel 9:1-13]]</small>
 *David and Mephibosheth*
 
 [[2Sam.9.1|1]] And David said, Is there yet any that is left of the house of Saul, that I may shew him kindness for Jonathan’s sake?

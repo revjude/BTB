@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 17:26
+type: Verse
+kjv: "And now, LORD, thou art God, and hast promised this goodness unto thy servant:"
+bsb: "And now, O LORD, You are God! And You have promised this goodness to Your servant."
+hebrew: "וְעַתָּ֣ה יְהוָ֔ה אַתָּה־ ה֖וּא הָאֱלֹהִ֑ים וַתְּדַבֵּר֙ עַֽל־ עַבְדְּךָ֔ הַטּוֹבָ֖ה הַזֹּֽאת׃"
+pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3068G]]"
+- "[[H0859A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H1696I]]"
+- "[[H5921A]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H2896C]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:26**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, LORD, thou art God, and hast promised this goodness unto thy servant:
 <small><sub>**BSB:**</sub></small>
 And now, O LORD, You are God! And You have promised this goodness to Your servant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H0859A\|אַתָּה]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H1696I\|תְּדַבֵּר֙]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H9009\|הַ]][[H2896C\|טּוֹבָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.25|<< 1 Chronicles 17:25]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.27|1 Chronicles 17:27 >>]]</td></tr></table>
 

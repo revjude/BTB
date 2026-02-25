@@ -1,8 +1,66 @@
+---
+title: Ezekiel 34:28
+type: Verse
+kjv: "And they shall no more be a prey to the heathen, neither shall the beast of the land devour them; but they shall dwell safely, and none shall make them afraid."
+bsb: "They will no longer be prey for the nations, and the beasts of the earth will not consume them. They will dwell securely, and no one will frighten them."
+hebrew: "וְלֹא־ יִהְי֨וּ ע֥וֹד בַּז֙ לַגּוֹיִ֔ם וְחַיַּ֥ת הָאָ֖רֶץ לֹ֣א תֹאכְלֵ֑ם וְיָשְׁב֥וּ לָבֶ֖טַח וְאֵ֥ין מַחֲרִֽיד׃"
+pericope: "[[Ezek.34.25 The Covenant of Peace|The Covenant of Peace]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATION|NATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H0957]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0398]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H0983]]"
+- "[[H0369]]"
+- "[[H2729]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:28**<big><big>[[Ezek.34.25 The Covenant of Peace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall no more be a prey to the heathen, neither shall the beast of the land devour them; but they shall dwell safely, and none shall make [them] afraid.
 <small><sub>**BSB:**</sub></small>
 They will no longer be prey for the nations, and the beasts of the earth will not consume them. They will dwell securely, and no one will frighten them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִהְי֨וּ]] [[H5750\|ע֥וֹד]] [[H0957\|בַּז֙]] [[H9005\|לַ]][[H1471A\|גּוֹיִ֔ם]] [[H9002\|וְ]][[H2416C\|חַיַּ֥ת]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H3808\|לֹ֣א]] [[H0398\|תֹאכְלֵ֑]][[H9038\|ם]] [[H9001\|וְ]][[H3427\|יָשְׁב֥וּ]] [[H9005\|לָ]][[H0983\|בֶ֖טַח]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H2729\|מַחֲרִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATION|NATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.27|<< Ezekiel 34:27]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.29|Ezekiel 34:29 >>]]</td></tr></table>
 

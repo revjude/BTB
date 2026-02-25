@@ -1,10 +1,59 @@
+---
+title: Matthew 9:27
+type: Verse
+kjv: "And when Jesus departed thence, two blind men followed him, crying, and saying, Thou Son of David, have mercy on us."
+bsb: "As Jesus went on from there, two blind men followed Him, crying out, “Have mercy on us, Son of David!”"
+greek: "Καὶ παράγοντι ἐκεῖθεν τῷ Ἰησοῦ ἠκολούθησαν αὐτῷ δύο τυφλοὶ κράζοντες καὶ λέγοντες· ἐλέησον ἡμᾶς, υἱὸς Δαυίδ."
+pericope: "[[Matt.9.27 Jesus Heals the Blind and Mute|Jesus Heals the Blind and Mute]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3855]]"
+- "[[G1564]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0190]]"
+- "[[G0846]]"
+- "[[G1417]]"
+- "[[G5185]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G1653]]"
+- "[[G3165]]"
+- "[[G5207]]"
+- "[[G1138]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 9:27**<big><big>[[Matt.9.27 Jesus Heals the Blind and Mute|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Jesus departed thence, two blind men followed him, crying, and saying, [Thou] Son of David, have mercy on us.
 <small><sub>**BSB:**</sub></small>
 As Jesus went on from there, two blind men followed Him, crying out, “Have mercy on us, Son of David!”
-<small><sub>**Literal:**</sub></small>
-And passing on from there <the> Jesus followed Him two blind [men] crying out and saying; do have mercy on us, Son of David.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.26|<< Matthew 9:26]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.28|Matthew 9:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3855\|παράγοντι]]  [[G1564\|ἐκεῖθεν]]  [[G3588\|τῷ]]  [[G2424G\|Ἰησοῦ]]  [[G0190\|ἠκολούθησαν]]  [[G0846\|αὐτῷ]]  [[G1417\|δύο]]  [[G5185\|τυφλοὶ]]  [[G2896\|κράζοντες]]  [[G2532\|καὶ]]  [[G3004G\|λέγοντες·]]  [[G1653\|ἐλέησον]]  [[G3165\|ἡμᾶς,]]  [[G5207\|υἱὸς]]  [[G1138\|Δαυίδ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.26|<< Matthew 9:26]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.28|Matthew 9:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

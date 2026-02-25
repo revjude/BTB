@@ -1,10 +1,54 @@
+---
+title: 2 Peter 3:1
+type: Verse
+kjv: "This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:"
+bsb: "Beloved, this is now my second letter to you. Both of them are reminders to stir you to wholesome thinking"
+greek: "Ταύτην ἤδη, ἀγαπητοί, δευτέραν ὑμῖν γράφω ἐπιστολήν, ἐν αἷς διεγείρω ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ διάνοιαν"
+pericope: "[[2Pet.3.1 The Coming Judgment|The Coming Judgment]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3778]]"
+- "[[G2235]]"
+- "[[G0027]]"
+- "[[G1208]]"
+- "[[G4771]]"
+- "[[G1125]]"
+- "[[G1992]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1326]]"
+- "[[G5280]]"
+- "[[G3588]]"
+- "[[G1506]]"
+- "[[G1271]]"
+texts:
+- NKO
+---
+
 **2 Peter 3:1**<big><big>[[2Pet.3.1 The Coming Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This second epistle, beloved, I now write unto you; in [both] which I stir up your pure minds by way of remembrance:
 <small><sub>**BSB:**</sub></small>
 Beloved, this is now my second letter to you. Both of them are reminders to stir you to wholesome thinking
-<small><sub>**Literal:**</sub></small>
-This now, beloved, [is the] second to you I am writing letter, in which I am stirring up of you in putting [you] in remembrance <the> pure mind<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.22|<< 2 Peter 2:22]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.2|2 Peter 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταύτην]]  [[G2235\|ἤδη,]]  [[G0027\|ἀγαπητοί,]]  [[G1208\|δευτέραν]]  [[G4771\|ὑμῖν]]  [[G1125\|γράφω]]  [[G1992\|ἐπιστολήν,]]  [[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G1326\|διεγείρω]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G5280\|ὑπομνήσει]]  [[G3588\|τὴν]]  [[G1506\|εἰλικρινῆ]]  [[G1271\|διάνοιαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.22|<< 2 Peter 2:22]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.2|2 Peter 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

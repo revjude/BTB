@@ -1,8 +1,59 @@
+---
+title: Exodus 2:1
+type: Verse
+kjv: "And there went a man of the house of Levi, and took to wife a daughter of Levi."
+bsb: "Now a man of the house of Levi married a Levite woman,"
+hebrew: "וַיֵּ֥לֶךְ אִ֖ישׁ מִבֵּ֣ית לֵוִ֑י וַיִּקַּ֖ח אֶת־ בַּת־ לֵוִֽי׃"
+pericope: "[[Exod.2.1 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JOCHEBED|JOCHEBED]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H3878]]"
+- "[[H3947I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:1**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went a man of the house of Levi, and took [to wife] a daughter of Levi.
 <small><sub>**BSB:**</sub></small>
 Now a man of the house of Levi married a Levite woman,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H0376G\|אִ֖ישׁ]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H3878\|לֵוִ֑י]] [[H9001\|וַ]][[H3947I\|יִּקַּ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בַּת]][[H9014\|־]] [[H3878\|לֵוִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JOCHEBED|JOCHEBED]] • [[topic MOSES|MOSES]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.22|<< Exodus 1:22]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.2|Exodus 2:2 >>]]</td></tr></table>
 

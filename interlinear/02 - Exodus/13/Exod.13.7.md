@@ -1,8 +1,66 @@
+---
+title: Exodus 13:7
+type: Verse
+kjv: "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters."
+bsb: "Unleavened bread shall be eaten during those seven days. Nothing leavened may be found among you, nor shall leaven be found anywhere within your borders."
+hebrew: "מַצּוֹת֙ יֵֽאָכֵ֔ל אֵ֖ת שִׁבְעַ֣ת הַיָּמִ֑ים וְלֹֽא־ יֵרָאֶ֨ה לְךָ֜ חָמֵ֗ץ וְלֹֽא־ יֵרָאֶ֥ה לְךָ֛ שְׂאֹ֖ר בְּכָל־ גְּבֻלֶֽךָ׃"
+pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FRONTLETS|FRONTLETS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+strongs:
+- "[[H4682]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H7651]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H2557A]]"
+- "[[H7603]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1366H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:7**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.
 <small><sub>**BSB:**</sub></small>
 Unleavened bread shall be eaten during those seven days. Nothing leavened may be found among you, nor shall leaven be found anywhere within your borders.
+<small><sub>**Hebrew:**</sub></small>
+[[H4682\|מַצּוֹת֙]] [[H0398\|יֵֽאָכֵ֔ל]] [[H0853\|אֵ֖ת]] [[H7651\|שִׁבְעַ֣ת]] [[H9009\|הַ]][[H3117G\|יָּמִ֑ים]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|יֵרָאֶ֨ה]] [[H9005\|לְ]][[H9031\|ךָ֜]] [[H2557A\|חָמֵ֗ץ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|יֵרָאֶ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H7603\|שְׂאֹ֖ר]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1366H\|גְּבֻלֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRONTLETS|FRONTLETS]] • [[topic ISRAEL|ISRAEL]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.6|<< Exodus 13:6]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.8|Exodus 13:8 >>]]</td></tr></table>
 

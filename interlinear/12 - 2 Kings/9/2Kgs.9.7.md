@@ -1,8 +1,67 @@
+---
+title: 2 Kings 9:7
+type: Verse
+kjv: "And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel."
+bsb: "And you are to strike down the house of your master Ahab, so that I may avenge the blood of My servants the prophets and the blood of all the servants of the LORD shed by the hand of Jezebel."
+hebrew: "וְהִ֨כִּיתָ֔ה אֶת־ בֵּ֥ית אַחְאָ֖ב אֲדֹנֶ֑יךָ וְנִקַּמְתִּ֞י דְּמֵ֣י׀ עֲבָדַ֣י הַנְּבִיאִ֗ים וּדְמֵ֛י כָּל־ עַבְדֵ֥י יְהוָ֖ה מִיַּ֥ד אִיזָֽבֶל׃"
+pericope: "[[2Kgs.9.1 Jehu Anointed King of Israel|Jehu Anointed King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CALL|CALL]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H0256G]]"
+- "[[H0113]]"
+- "[[H9021]]"
+- "[[H5358]]"
+- "[[H1818]]"
+- "[[H9015]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H3027K]]"
+- "[[H0348]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:7**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt smite the house of Ahab thy master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel.
 <small><sub>**BSB:**</sub></small>
 And you are to strike down the house of your master Ahab, so that I may avenge the blood of My servants the prophets and the blood of all the servants of the LORD shed by the hand of Jezebel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5221\|הִ֨כִּיתָ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H0256G\|אַחְאָ֖ב]] [[H0113\|אֲדֹנֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H5358\|נִקַּמְתִּ֞י]] [[H1818\|דְּמֵ֣י]][[H9015\|׀]] [[H5650\|עֲבָדַ֣]][[H9020\|י]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֗ים]] [[H9002\|וּ]][[H1818\|דְמֵ֛י]] [[H3605\|כָּל]][[H9014\|־]] [[H5650\|עַבְדֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מִ]][[H3027K\|יַּ֥ד]] [[H0348\|אִיזָֽבֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic CALL|CALL]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic JEHU|JEHU]] • [[topic JEZEBEL|JEZEBEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.6|<< 2 Kings 9:6]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.8|2 Kings 9:8 >>]]</td></tr></table>
 

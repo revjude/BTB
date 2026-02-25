@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob Wrestles with God
+type: Pericope
 pericope: "[[Gen.32.22 Jacob Wrestles with God|Jacob Wrestles with God]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 32
 book/chapter: "[[Gen.32|Genesis 32]]"
-genre:
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 11
 verses:
 - "[[Gen.32.22]]"
 - "[[Gen.32.23]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Gen.32.32]]"
 ---
 
-[[Gen.32|Genesis 32:22 - Genesis 32:32]]
+<small>[[Gen.32|Genesis 32:22-32]]</small>
 *Jacob Wrestles with God*
 
 [[Gen.32.22|22]] And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok.

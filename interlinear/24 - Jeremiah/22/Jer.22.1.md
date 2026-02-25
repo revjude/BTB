@@ -1,8 +1,59 @@
+---
+title: Jeremiah 22:1
+type: Verse
+kjv: "Thus saith the LORD; Go down to the house of the king of Judah, and speak there this word,"
+bsb: "This is what the LORD says: “Go down to the palace of the king of Judah and proclaim this message there,"
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה רֵ֖ד בֵּֽית־ מֶ֣לֶךְ יְהוּדָ֑ה וְדִבַּרְתָּ֣ שָׁ֔ם אֶת־ הַדָּבָ֖ר הַזֶּֽה׃"
+pericope: "[[Jer.22.1 A Warning to Judah’s Kings|A Warning to Judah’s Kings]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H3381]]"
+- "[[H1004P]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:1**<big><big>[[Jer.22.1 A Warning to Judah’s Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Go down to the house of the king of Judah, and speak there this word,
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Go down to the palace of the king of Judah and proclaim this message there,
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H3381\|רֵ֖ד]] [[H1004P\|בֵּֽית]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וְ]][[H1696G\|דִבַּרְתָּ֣]] [[H8033G\|שָׁ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֖ר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTICE|JUSTICE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.14|<< Jeremiah 21:14]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.2|Jeremiah 22:2 >>]]</td></tr></table>
 

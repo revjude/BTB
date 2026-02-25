@@ -1,8 +1,69 @@
+---
+title: Exodus 10:21
+type: Verse
+kjv: "And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt."
+bsb: "Then the LORD said to Moses, “Stretch out your hand toward heaven, so that darkness may spread over the land of Egypt—a palpable darkness.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה נְטֵ֤ה יָֽדְךָ֙ עַל־ הַשָּׁמַ֔יִם וִ֥יהִי חֹ֖שֶׁךְ עַל־ אֶ֣רֶץ מִצְרָ֑יִם וְיָמֵ֖שׁ חֹֽשֶׁךְ׃"
+pericope: "[[Exod.10.21 The Ninth Plague：Darkness|The Ninth Plague：Darkness]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H5186]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H2822]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H4959]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:21**<big><big>[[Exod.10.21 The Ninth Plague：Darkness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness [which] may be felt.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Stretch out your hand toward heaven, so that darkness may spread over the land of Egypt—a palpable darkness.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H5186\|נְטֵ֤ה]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וִ֥]][[H1961\|יהִי]] [[H2822\|חֹ֖שֶׁךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ]][[H4959\|יָמֵ֖שׁ]] [[H2822\|חֹֽשֶׁךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PLAGUE|PLAGUE]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.20|<< Exodus 10:20]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.22|Exodus 10:22 >>]]</td></tr></table>
 

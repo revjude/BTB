@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 6:15
+type: Verse
+kjv: "So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet."
+bsb: "while he and all the house of Israel brought up the ark of the LORD with shouting and the sounding of the ram’s horn."
+hebrew: "וְדָוִד֙ וְכָל־ בֵּ֣ית יִשְׂרָאֵ֔ל מַעֲלִ֖ים אֶת־ אֲר֣וֹן יְהוָ֑ה בִּתְרוּעָ֖ה וּבְק֥וֹל שׁוֹפָֽר׃"
+pericope: "[[2Sam.6.12 The Ark Brought to Jerusalem|The Ark Brought to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic DANCING|DANCING]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H8643]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:15**<big><big>[[2Sam.6.12 The Ark Brought to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet.
 <small><sub>**BSB:**</sub></small>
 while he and all the house of Israel brought up the ark of the LORD with shouting and the sounding of the ram’s horn.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִד֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5927H\|מַעֲלִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בִּ]][[H8643\|תְרוּעָ֖ה]] [[H9002\|וּ]][[H9003\|בְ]][[H6963H\|ק֥וֹל]] [[H7782\|שׁוֹפָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic DANCING|DANCING]] • [[topic DAVID|DAVID]] • [[topic JERUSALEM|JERUSALEM]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.14|<< 2 Samuel 6:14]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.16|2 Samuel 6:16 >>]]</td></tr></table>
 

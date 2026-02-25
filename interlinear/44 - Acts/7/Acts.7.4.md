@@ -1,10 +1,66 @@
+---
+title: Acts 7:4
+type: Verse
+kjv: "Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell."
+bsb: "So Abraham left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living."
+greek: "Τότε ἐξελθὼν ἐκ γῆς Χαλδαίων κατῴκησεν ἐν Χαρράν· κἀκεῖθεν κἀκεῖθεν μετὰ τὸ ἀποθανεῖν τὸν πατέρα αὐτοῦ μετῴκισεν αὐτὸν εἰς τὴν γῆν ταύτην εἰς ἣν ὑμεῖς νῦν κατοικεῖτε,"
+pericope: "[[Acts.7.1 Stephen’s Address：The Call of Abraham|Stephen’s Address：The Call of Abraham]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HARAN|HARAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G5119]]"
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G1093H]]"
+- "[[G5466]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G5488]]"
+- "[[G2532]]"
+- "[[G1564]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G0599]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G3351]]"
+- "[[G1519]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G4771]]"
+- "[[G3568]]"
+texts:
+- NKO
+---
+
 **Acts 7:4**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.
 <small><sub>**BSB:**</sub></small>
 So Abraham left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living.
-<small><sub>**Literal:**</sub></small>
-Then having gone out from [the] land of Chaldeans he dwelt in Haran; And from there after <the> dying the father of him He removed him into <the> land this in which you yourselves now dwell,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.3|<< Acts 7:3]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.5|Acts 7:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G1831\|ἐξελθὼν]]  [[G1537\|ἐκ]]  [[G1093H\|γῆς]]  [[G5466\|Χαλδαίων]]  [[G2730\|κατῴκησεν]]  [[G1722\|ἐν]]  [[G5488\|Χαρράν·]]  [[G2532\|κἀκεῖθεν]]  <sup><small>[[G1564\| [ • ] ]]</small></sup>  [[G3326\|μετὰ]]  [[G3588\|τὸ]]  [[G0599\|ἀποθανεῖν]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G0846\|αὐτοῦ]]  [[G3351\|μετῴκισεν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093H\|γῆν]]  [[G3778\|ταύτην]]  [[G1519\|εἰς]]  [[G3739\|ἣν]]  [[G4771\|ὑμεῖς]]  [[G3568\|νῦν]]  [[G2730\|κατοικεῖτε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BABYLON|BABYLON]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HARAN|HARAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.3|<< Acts 7:3]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.5|Acts 7:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:4** is...
 > $\quad$ alluding to: [[LXX.Gen.11.31|Gen 11:31]] ☩ [[LXX.Gen.12.4|Gen 12:4-5]]

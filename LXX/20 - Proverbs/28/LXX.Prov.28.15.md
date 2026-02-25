@@ -1,6 +1,48 @@
+---
+title: LXX Proverbs 28:15
+type: Verse
+lxx: "A lion hungering, and a wolf thirsting is the one who is sovereign of a destitute nation being poor."
+greek: "λέων πεινών και λύκος διψών ος τυραννεί πτωχός ων έθνους πενιχρού"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BEAR|BEAR]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G3023]]"
+- "[[G3983]]"
+- "[[G2532]]"
+- "[[G3074]]"
+- "[[G1372]]"
+- "[[G3739]]"
+- "[[G9516]]"
+- "[[G4434]]"
+- "[[G1510]]"
+- "[[G1484]]"
+- "[[G3998]]"
+---
+
 **LXX Proverbs 28:15** 
 <small><sub>**LXX:**</sub></small>
 A lion hungering, and a wolf thirsting \[is\] the one who \[is\] sovereign of a destitute nation being poor. 
+<small><sub>**Greek:**</sub></small>
+[[G3023\|λέων]] [[G3983\|πεινών]] [[G2532\|και]] [[G3074\|λύκος]] [[G1372\|διψών]] [[G3739\|ος]] [[G9516\|τυραννεί]] [[G4434\|πτωχός]] [[G1510\|ων]] [[G1484\|έθνους]] [[G3998\|πενιχρού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAR|BEAR]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.14|<< Proverbs 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.16|Proverbs 28:16 >>]]</td></tr></table>
 
@@ -17,6 +59,6 @@ A lion hungering, and a wolf thirsting \[is\] the one who \[is\] sovereign of a 
 | being | **<big>[[G1510\|ων]]</big>** |
 | nation | **<big>[[G1484\|έθνους]]</big>** |
 | of a destitute | **<big>[[G3998\|πενιχρού]]</big>** |
-[[Prov.28.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.14|<< Proverbs 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.16|Proverbs 28:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.28.14|<< Proverbs 28:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.28.16|Proverbs 28:16 >>]]</td></tr></table>
 
 

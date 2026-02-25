@@ -1,8 +1,73 @@
+---
+title: Isaiah 49:7
+type: Verse
+kjv: "Thus saith the LORD, the Redeemer of Israel, and his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the LORD that is faithful, and the Holy One of Israel, and he shall choose thee."
+bsb: "Thus says the LORD, the Redeemer and Holy One of Israel, to Him who was despised and abhorred by the nation, to the Servant of rulers: “Kings will see You and rise, and princes will bow down, because of the LORD, who is faithful, the Holy One of Israel, who has chosen You.”"
+hebrew: "כֹּ֣ה אָֽמַר־ יְהוָה֩ גֹּאֵ֨ל יִשְׂרָאֵ֜ל קְדוֹשׁ֗וֹ לִבְזֹה־ נֶ֜פֶשׁ לִמְתָ֤עֵֽב גּוֹי֙ לְעֶ֣בֶד מֹשְׁלִ֔ים מְלָכִים֙ יִרְא֣וּ וָקָ֔מוּ שָׂרִ֖ים וְיִֽשְׁתַּחֲוּ֑וּ לְמַ֤עַן יְהוָה֙ אֲשֶׁ֣ר נֶאֱמָ֔ן קְדֹ֥שׁ יִשְׂרָאֵ֖ל וַיִּבְחָרֶֽךָּ׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1350A]]"
+- "[[H3478]]"
+- "[[H6918G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0959]]"
+- "[[H5315J]]"
+- "[[H8581]]"
+- "[[H1471A]]"
+- "[[H5650]]"
+- "[[H4910]]"
+- "[[H4428G]]"
+- "[[H7200G]]"
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H7812]]"
+- "[[H4616]]"
+- "[[H0834A]]"
+- "[[H0539]]"
+- "[[H0977]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:7**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, the Redeemer of Israel, [and] his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the LORD that is faithful, [and] the Holy One of Israel, and he shall choose thee.
 <small><sub>**BSB:**</sub></small>
 Thus says the LORD, the Redeemer and Holy One of Israel, to Him who was despised and abhorred by the nation, to the Servant of rulers: “Kings will see You and rise, and princes will bow down, because of the LORD, who is faithful, the Holy One of Israel, who has chosen You.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]] [[H0559\|אָֽמַר]][[H9014\|־]] [[H3068G\|יְהוָה֩]] [[H1350A\|גֹּאֵ֨ל]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H6918G\|קְדוֹשׁ֗]][[H9023\|וֹ]] [[H9005\|לִ]][[H0959\|בְזֹה]][[H9014\|־]] [[H5315J\|נֶ֜פֶשׁ]] [[H9005\|לִ]][[H8581\|מְתָ֤עֵֽב]] [[H1471A\|גּוֹי֙]] [[H9005\|לְ]][[H5650\|עֶ֣בֶד]] [[H4910\|מֹשְׁלִ֔ים]] [[H4428G\|מְלָכִים֙]] [[H7200G\|יִרְא֣וּ]] [[H9001\|וָ]][[H6965B\|קָ֔מוּ]] [[H8269\|שָׂרִ֖ים]] [[H9002\|וְ]][[H7812\|יִֽשְׁתַּחֲוּ֑וּ]] [[H4616\|לְמַ֤עַן]] [[H3068G\|יְהוָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0539\|נֶאֱמָ֔ן]] [[H6918G\|קְדֹ֥שׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9001\|וַ]][[H0977\|יִּבְחָרֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.6|<< Isaiah 49:6]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.8|Isaiah 49:8 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: John 19:34
+type: Verse
+kjv: "But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water."
+bsb: "Instead, one of the soldiers pierced His side with a spear, and immediately blood and water flowed out."
+greek: "ἀλλ᾽ εἷς τῶν στρατιωτῶν λόγχῃ αὐτοῦ τὴν πλευρὰν ἔνυξεν, καὶ ἐξῆλθεν εὐθὺς αἷμα καὶ ὕδωρ."
+pericope: "[[John.19.31 Jesus’ Side Is Pierced|Jesus’ Side Is Pierced]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SPEAR|SPEAR]]"
+strongs:
+- "[[G0235]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G4757]]"
+- "[[G3057]]"
+- "[[G0846]]"
+- "[[G4125]]"
+- "[[G3572]]"
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G2112]]"
+- "[[G0129G]]"
+- "[[G5204]]"
+texts:
+- NKO
+---
+
 **John 19:34**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But one of the soldiers with a spear pierced his side, and forthwith came there out blood and water.
 <small><sub>**BSB:**</sub></small>
 Instead, one of the soldiers pierced His side with a spear, and immediately blood and water flowed out.
-<small><sub>**Literal:**</sub></small>
-But one of the soldiers with a spear of His <the> side pierced, and came out immediately blood and water.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.33|<< John 19:33]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.35|John 19:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G1520\|εἷς]]  [[G3588\|τῶν]]  [[G4757\|στρατιωτῶν]]  [[G3057\|λόγχῃ]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G4125\|πλευρὰν]]  [[G3572\|ἔνυξεν,]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G2112\|εὐθὺς]]  [[G0129G\|αἷμα]]  [[G2532\|καὶ]]  [[G5204\|ὕδωρ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SPEAR|SPEAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.33|<< John 19:33]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.35|John 19:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

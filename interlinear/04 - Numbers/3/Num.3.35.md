@@ -1,8 +1,67 @@
+---
+title: Numbers 3:35
+type: Verse
+kjv: "And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward."
+bsb: "The leader of the families of the Merarites was Zuriel son of Abihail; they were to camp on the north side of the tabernacle."
+hebrew: "וּנְשִׂ֤יא בֵֽית־ אָב֙ לְמִשְׁפְּחֹ֣ת מְרָרִ֔י צוּרִיאֵ֖ל בֶּן־ אֲבִיחָ֑יִל עַ֣ל יֶ֧רֶךְ הַמִּשְׁכָּ֛ן יַחֲנ֖וּ צָפֹֽנָה׃"
+pericope: "[[Num.3.33 The Merarites|The Merarites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABIHAIL|ABIHAIL]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MERARI|MERARI]]"
+- "[[topic ZURIEL|ZURIEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H5387A]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H4848]]"
+- "[[H6700]]"
+- "[[H1121A]]"
+- "[[H0032G]]"
+- "[[H5921A]]"
+- "[[H3409]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H2583]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:35**<big><big>[[Num.3.33 The Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief of the house of the father of the families of Merari [was] Zuriel the son of Abihail: [these] shall pitch on the side of the tabernacle northward.
 <small><sub>**BSB:**</sub></small>
 The leader of the families of the Merarites was Zuriel son of Abihail; they were to camp on the north side of the tabernacle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H5387A\|נְשִׂ֤יא]] [[H1004M\|בֵֽית]][[H9014\|־]] [[H0001G\|אָב֙]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹ֣ת]] [[H4848\|מְרָרִ֔י]] [[H6700\|צוּרִיאֵ֖ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0032G\|אֲבִיחָ֑יִל]] [[H5921A\|עַ֣ל]] [[H3409\|יֶ֧רֶךְ]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֛ן]] [[H2583\|יַחֲנ֖וּ]] [[H6828G\|צָפֹֽנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIHAIL|ABIHAIL]] • [[topic CENSUS|CENSUS]] • [[topic LEVITES|LEVITES]] • [[topic MERARI|MERARI]] • [[topic ZURIEL|ZURIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.34|<< Numbers 3:34]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.36|Numbers 3:36 >>]]</td></tr></table>
 

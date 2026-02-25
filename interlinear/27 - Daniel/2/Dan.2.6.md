@@ -1,8 +1,62 @@
+---
+title: Daniel 2:6
+type: Verse
+kjv: "But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof."
+bsb: "But if you tell me the dream and its interpretation, you will receive from me gifts and rewards and great honor. So tell me the dream and its interpretation.”"
+aramaic: "וְהֵ֨ן חֶלְמָ֤א וּפִשְׁרֵהּ֙ תְּֽהַחֲוֹ֔ן מַתְּנָ֤ן וּנְבִזְבָּה֙ וִיקָ֣ר שַׂגִּ֔יא תְּקַבְּל֖וּן מִן־ קֳדָמָ֑י לָהֵ֕ן חֶלְמָ֥א וּפִשְׁרֵ֖הּ הַחֲוֹֽנִי׃"
+pericope: "[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|Nebuchadnezzar’s Troubling Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2006A]]"
+- "[[H2493]]"
+- "[[H9010]]"
+- "[[H6591]]"
+- "[[H9023]]"
+- "[[H2324]]"
+- "[[H4978]]"
+- "[[H5023]]"
+- "[[H3367]]"
+- "[[H7690]]"
+- "[[H6902]]"
+- "[[H4481]]"
+- "[[H9014]]"
+- "[[H6925]]"
+- "[[H9030]]"
+- "[[H2006B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:6**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.
 <small><sub>**BSB:**</sub></small>
 But if you tell me the dream and its interpretation, you will receive from me gifts and rewards and great honor. So tell me the dream and its interpretation.”
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H2006A\|הֵ֨ן]] [[H2493\|חֶלְמָ֤]][[H9010\|א]] [[H9002\|וּ]][[H6591\|פִשְׁרֵ]][[H9023\|הּ֙]] [[H2324\|תְּֽהַחֲוֹ֔ן]] [[H4978\|מַתְּנָ֤ן]] [[H9002\|וּ]][[H5023\|נְבִזְבָּה֙]] [[H9002\|וִ]][[H3367\|יקָ֣ר]] [[H7690\|שַׂגִּ֔יא]] [[H6902\|תְּקַבְּל֖וּן]] [[H4481\|מִן]][[H9014\|־]] [[H6925\|קֳדָמָ֑]][[H9030\|י]] [[H2006B\|לָהֵ֕ן]] [[H2493\|חֶלְמָ֥]][[H9010\|א]] [[H9002\|וּ]][[H6591\|פִשְׁרֵ֖]][[H9023\|הּ]] [[H2324\|הַחֲוֹֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANIEL|DANIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MAGICIAN|MAGICIAN]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.5|<< Daniel 2:5]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.7|Daniel 2:7 >>]]</td></tr></table>
 

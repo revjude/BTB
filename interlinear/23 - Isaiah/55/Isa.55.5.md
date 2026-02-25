@@ -1,8 +1,66 @@
+---
+title: Isaiah 55:5
+type: Verse
+kjv: "Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee because of the LORD thy God, and for the Holy One of Israel; for he hath glorified thee."
+bsb: "Surely you will summon a nation you do not know, and nations who do not know you will run to you. For the LORD your God, the Holy One of Israel, has bestowed glory on you.”"
+hebrew: "הֵ֣ן גּ֤וֹי לֹֽא־ תֵדַע֙ תִּקְרָ֔א וְג֥וֹי לֹֽא־ יְדָע֖וּךָ אֵלֶ֣יךָ יָר֑וּצוּ לְמַ֙עַן֙ יְהוָ֣ה אֱלֹהֶ֔יךָ וְלִקְד֥וֹשׁ יִשְׂרָאֵ֖ל כִּ֥י פֵאֲרָֽךְ׃ ס"
+pericope: "[[Isa.55.1 Invitation to the Needy|Invitation to the Needy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 55
+book/chapter: "[[Isa.55|Isaiah 55]]"
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H2005]]"
+- "[[H1471A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H7121G]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H0413]]"
+- "[[H7323G]]"
+- "[[H4616]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H6286A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 55:5**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou shalt call a nation [that] thou knowest not, and nations [that] knew not thee shall run unto thee because of the LORD thy God, and for the Holy One of Israel; for he hath glorified thee.
 <small><sub>**BSB:**</sub></small>
 Surely you will summon a nation you do not know, and nations who do not know you will run to you. For the LORD your God, the Holy One of Israel, has bestowed glory on you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H1471A\|גּ֤וֹי]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|תֵדַע֙]] [[H7121G\|תִּקְרָ֔א]] [[H9002\|וְ]][[H1471A\|ג֥וֹי]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יְדָע֖וּ]][[H9031\|ךָ]] [[H0413\|אֵלֶ֣י]][[H9031\|ךָ]] [[H7323G\|יָר֑וּצוּ]] [[H4616\|לְמַ֙עַן֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H9005\|לִ]][[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3588A\|כִּ֥י]] [[H6286A\|פֵאֲרָֽ]][[H9031\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.4|<< Isaiah 55:4]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.6|Isaiah 55:6 >>]]</td></tr></table>
 
@@ -24,7 +82,7 @@ Surely you will summon a nation you do not know, and nations who do not know you
 | and to [the] holy [one] of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6918G\|קְד֥וֹשׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> k.Do.osh<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has glorified you  |**<big>&#8207;[[H6286A\|פֵאֲרָֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| fe.'a.Ra<small><sup>[[HVpp3ms]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has glorified you  |**<big>&#8207;[[H6286A\|פֵאֲרָֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| fe.'a.Ra<small><sup>[[HVpp3ms]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.4|<< Isaiah 55:4]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.6|Isaiah 55:6 >>]]</td></tr></table>
 
 

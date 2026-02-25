@@ -1,8 +1,60 @@
+---
+title: Genesis 46:8
+type: Verse
+kjv: "And these are the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn."
+bsb: "Now these are the names of the sons of Israel (Jacob and his descendants) who went to Egypt: Reuben, Jacob’s firstborn."
+hebrew: "וְאֵ֨לֶּה שְׁמ֧וֹת בְּנֵֽי־ יִשְׂרָאֵ֛ל הַבָּאִ֥ים מִצְרַ֖יְמָה יַעֲקֹ֣ב וּבָנָ֑יו בְּכֹ֥ר יַעֲקֹ֖ב רְאוּבֵֽן׃"
+pericope: "[[Gen.46.8 The Children of Leah|The Children of Leah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H3290]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H1060]]"
+- "[[H7205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:8**<big><big>[[Gen.46.8 The Children of Leah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the names of the children of Israel, which came into Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.
 <small><sub>**BSB:**</sub></small>
 Now these are the names of the sons of Israel (Jacob and his descendants) who went to Egypt: Reuben, Jacob’s firstborn.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֨לֶּה]] [[H8034\|שְׁמ֧וֹת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9009\|הַ]][[H0935G\|בָּאִ֥ים]] [[H4714G\|מִצְרַ֖יְמָ]][[H9011\|ה]] [[H3290\|יַעֲקֹ֣ב]] [[H9002\|וּ]][[H1121A\|בָנָ֑י]][[H9023\|ו]] [[H1060\|בְּכֹ֥ר]] [[H3290\|יַעֲקֹ֖ב]] [[H7205\|רְאוּבֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.7|<< Genesis 46:7]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.9|Genesis 46:9 >>]]</td></tr></table>
 

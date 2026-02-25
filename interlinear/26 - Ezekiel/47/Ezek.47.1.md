@@ -1,8 +1,75 @@
+---
+title: Ezekiel 47:1
+type: Verse
+kjv: "Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house stood toward the east, and the waters came down from under from the right side of the house, at the south side of the altar."
+bsb: "Then the man brought me back to the entrance of the temple, and I saw water flowing from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar."
+hebrew: "וַיְשִׁבֵנִי֮ אֶל־ פֶּ֣תַח הַבַּיִת֒ וְהִנֵּה־ מַ֣יִם יֹצְאִ֗ים מִתַּ֨חַת מִפְתַּ֤ן הַבַּ֙יִת֙ קָדִ֔ימָה כִּֽי־ פְנֵ֥י הַבַּ֖יִת קָדִ֑ים וְהַמַּ֣יִם יֹרְדִ֗ים מִתַּ֜חַת מִכֶּ֤תֶף הַבַּ֙יִת֙ הַיְמָנִ֔ית מִנֶּ֖גֶב לַמִּזְבֵּֽחַ׃"
+pericope: "[[Ezek.47.1 Waters from under the Temple|Waters from under the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIVER|RIVER]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H4325G]]"
+- "[[H3318L]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H4670]]"
+- "[[H6921]]"
+- "[[H9011]]"
+- "[[H3588A]]"
+- "[[H6440H]]"
+- "[[H3381]]"
+- "[[H3802]]"
+- "[[H3233H]]"
+- "[[H5045H]]"
+- "[[H9005]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:1**<big><big>[[Ezek.47.1 Waters from under the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Afterward he brought me again unto the door of the house; and, behold, waters issued out from under the threshold of the house eastward: for the forefront of the house [stood toward] the east, and the waters came down from under from the right side of the house, at the south [side] of the altar.
 <small><sub>**BSB:**</sub></small>
 Then the man brought me back to the entrance of the temple, and I saw water flowing from under the threshold of the temple toward the east (for the temple faced east). The water was coming down from under the south side of the temple, south of the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יְשִׁבֵ]][[H9030\|נִי֮]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֣תַח]] [[H9009\|הַ]][[H1004B\|בַּיִת֒]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H4325G\|מַ֣יִם]] [[H3318L\|יֹצְאִ֗ים]] [[H9006\|מִ]][[H8478G\|תַּ֨חַת]] [[H4670\|מִפְתַּ֤ן]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H6921\|קָדִ֔ימָ]][[H9011\|ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6440H\|פְנֵ֥י]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H6921\|קָדִ֑ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4325G\|מַּ֣יִם]] [[H3381\|יֹרְדִ֗ים]] [[H9006\|מִ]][[H8478G\|תַּ֜חַת]] [[H9006\|מִ]][[H3802\|כֶּ֤תֶף]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H9009\|הַ]][[H3233H\|יְמָנִ֔ית]] [[H9006\|מִ]][[H5045H\|נֶּ֖גֶב]] [[H9005\|לַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EZEKIEL|EZEKIEL]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIVER|RIVER]] • [[topic VISION|VISION]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.24|<< Ezekiel 46:24]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.2|Ezekiel 47:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph Sold into Egypt
+type: Pericope
 pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 37
 book/chapter: "[[Gen.37|Genesis 37]]"
-genre:
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 19
 verses:
 - "[[Gen.37.12]]"
 - "[[Gen.37.13]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Gen.37.30]]"
 ---
 
-[[Gen.37|Genesis 37:12 - Genesis 37:30]]
+<small>[[Gen.37|Genesis 37:12-30]]</small>
 *Joseph Sold into Egypt*
 
 [[Gen.37.12|12]] And his brethren went to feed their father’s flock in Shechem.

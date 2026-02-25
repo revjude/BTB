@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Glory of Zion
+type: Pericope
 pericope: "[[Isa.35.1 The Glory of Zion|The Glory of Zion]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 35
 book/chapter: "[[Isa.35|Isaiah 35]]"
-genre:
+chronological_order: 678
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 10
 verses:
 - "[[Isa.35.1]]"
 - "[[Isa.35.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Isa.35.10]]"
 ---
 
-[[Isa.35|Isaiah 35:1 - Isaiah 35:10]]
+<small>[[Isa.35|Isaiah 35:1-10]]</small>
 *The Glory of Zion*
 
 [[Isa.35.1|1]] The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose.

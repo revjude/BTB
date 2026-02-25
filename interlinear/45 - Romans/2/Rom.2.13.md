@@ -1,10 +1,57 @@
+---
+title: Romans 2:13
+type: Verse
+kjv: "(For not the hearers of the law are just before God, but the doers of the law shall be justified."
+bsb: "For it is not the hearers of the law who are righteous before God, but it is the doers of the law who will be declared righteous."
+greek: "οὐ γὰρ οἱ ἀκροαταὶ τοῦ νόμου δίκαιοι παρὰ τῷ θεῷ, ἀλλ᾽ οἱ ποιηταὶ τοῦ νόμου δικαιωθήσονται."
+pericope: "[[Rom.2.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 2
+book/chapter: "[[Rom.2|Romans 2]]"
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DOER|DOER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0202]]"
+- "[[G3551]]"
+- "[[G1342]]"
+- "[[G3844]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G4163]]"
+- "[[G1344]]"
+texts:
+- NKO
+- k
+---
+
 **Romans 2:13**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For not the hearers of the law [are] just before God, but the doers of the law shall be justified.
 <small><sub>**BSB:**</sub></small>
 For it is not the hearers of the law who are righteous before God, but it is the doers of the law who will be declared righteous.
-<small><sub>**Literal:**</sub></small>
-not for the hearers <the> of [the] law [are] righteous with <the> God, but the doers <the> of [the] law will be justified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.12|<< Romans 2:12]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.14|Romans 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G3588\|οἱ]]  [[G0202\|ἀκροαταὶ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G1342\|δίκαιοι]]  [[G3844\|παρὰ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ,]]  [[G0235\|ἀλλ᾽]]  [[G3588\|οἱ]]  [[G4163\|ποιηταὶ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G1344\|δικαιωθήσονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOER|DOER]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic HEARERS|HEARERS]] • [[topic JUDGMENT|JUDGMENT]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.12|<< Romans 2:12]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.14|Romans 2:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

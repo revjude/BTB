@@ -1,8 +1,63 @@
+---
+title: Jeremiah 33:14
+type: Verse
+kjv: "Behold, the days come, saith the LORD, that I will perform that good thing which I have promised unto the house of Israel and to the house of Judah."
+bsb: "Behold, the days are coming, declares the LORD, when I will fulfill the gracious promise that I have spoken to the house of Israel and the house of Judah."
+hebrew: "הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים נְאֻם־ יְהוָ֑ה וַהֲקִֽמֹתִי֙ אֶת־ הַדָּבָ֣ר הַטּ֔וֹב אֲשֶׁ֥ר דִּבַּ֛רְתִּי אֶל־ בֵּ֥ית יִשְׂרָאֵ֖ל וְעַל־ בֵּ֥ית יְהוּדָֽה׃"
+pericope: "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697J]]"
+- "[[H2896A]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H0413]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 33:14**<big><big>[[Jer.33.14 The Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, saith the LORD, that I will perform that good thing which I have promised unto the house of Israel and to the house of Judah.
 <small><sub>**BSB:**</sub></small>
 Behold, the days are coming, declares the LORD, when I will fulfill the gracious promise that I have spoken to the house of Israel and the house of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֛ה]] [[H3117G\|יָמִ֥ים]] [[H0935G\|בָּאִ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H6965I\|הֲקִֽמֹתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697J\|דָּבָ֣ר]] [[H9009\|הַ]][[H2896A\|טּ֔וֹב]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696I\|דִּבַּ֛רְתִּי]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.13|<< Jeremiah 33:13]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.15|Jeremiah 33:15 >>]]</td></tr></table>
 

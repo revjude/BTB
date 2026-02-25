@@ -1,6 +1,64 @@
+---
+title: LXX Deuteronomy 4:47
+type: Verse
+lxx: "And they inherited  his land, and the land of Og king  of Bashan, two kings of the Amorites who were on the other side of the Jordan, according to the rising of the sun."
+greek: "και εκληρονόμησαν την γην αυτού και την γην Ωγ βασιλέως της Βασάν δύο βασιλέων των Αμορραίων οι ήσαν πέραν του Ιορδάνου κατά ανατολάς ηλίου"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OG|OG]]"
+strongs:
+- "[[G2532]]"
+- "[[G2816]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[H5747]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[H1316]]"
+- "[[G1417]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[H0567]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4008]]"
+- "[[G3588]]"
+- "[[G2446]]"
+- "[[G2596]]"
+- "[[G0395]]"
+- "[[G2246]]"
+---
+
 **LXX Deuteronomy 4:47** 
 <small><sub>**LXX:**</sub></small>
 And they inherited  his land, and the land of Og king  of Bashan, two kings of the Amorites who were on the other side of the Jordan, according to \[the\] rising of \[the\] sun. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2816\|εκληρονόμησαν]] [[G3588\|την]] [[G1093\|γην]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|την]] [[G1093\|γην]] [[H5747\|Ωγ]] [[G0935\|βασιλέως]] [[G3588\|της]] [[H1316\|Βασάν]] [[G1417\|δύο]] [[G0935\|βασιλέων]] [[G3588\|των]] [[H0567\|Αμορραίων]] [[G3739\|οι]] [[G1510\|ήσαν]] [[G4008\|πέραν]] [[G3588\|του]] [[G2446\|Ιορδάνου]] [[G2596\|κατά]] [[G0395\|ανατολάς]] [[G2246\|ηλίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OG|OG]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.4.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.46|<< Deuteronomy 4:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.48|Deuteronomy 4:48 >>]]</td></tr></table>
 
@@ -29,6 +87,6 @@ And they inherited  his land, and the land of Og king  of Bashan, two kings of t
 | according to | **<big>[[G2596\|κατά]]</big>** |
 | \[the\] rising | **<big>[[G0395\|ανατολάς]]</big>** |
 | of \[the\] sun. | **<big>[[G2246\|ηλίου]]</big>** |
-[[Deut.4.47|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.46|<< Deuteronomy 4:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.48|Deuteronomy 4:48 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.46|<< Deuteronomy 4:46]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.48|Deuteronomy 4:48 >>]]</td></tr></table>
 
 

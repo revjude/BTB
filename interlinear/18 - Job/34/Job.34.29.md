@@ -1,8 +1,61 @@
+---
+title: Job 34:29
+type: Verse
+kjv: "When he giveth quietness, who then can make trouble? and when he hideth his face, who then can behold him? whether it be done against a nation, or against a man only:"
+bsb: "But when He remains silent, who can condemn Him? When He hides His face, who can see Him? Yet He watches over both man and nation,"
+hebrew: "וְה֤וּא יַשְׁקִ֨ט׀ וּמִ֥י יַרְשִׁ֗עַ וְיַסְתֵּ֣ר פָּ֭נִים וּמִ֣י יְשׁוּרֶ֑נּוּ וְעַל־ גּ֖וֹי וְעַל־ אָדָ֣ם יָֽחַד׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H8252]]"
+- "[[H9015]]"
+- "[[H4310]]"
+- "[[H7561]]"
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H7789]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H0120G]]"
+- "[[H3162A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:29**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he giveth quietness, who then can make trouble? and when he hideth [his] face, who then can behold him? whether [it be done] against a nation, or against a man only:
 <small><sub>**BSB:**</sub></small>
 But when He remains silent, who can condemn Him? When He hides His face, who can see Him? Yet He watches over both man and nation,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|ה֤וּא]] [[H8252\|יַשְׁקִ֨ט]][[H9015\|׀]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H7561\|יַרְשִׁ֗עַ]] [[H9002\|וְ]][[H5641\|יַסְתֵּ֣ר]] [[H6440H\|פָּ֭נִים]] [[H9002\|וּ]][[H4310\|מִ֣י]] [[H7789\|יְשׁוּרֶ֑]][[H9033\|נּוּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1471A\|גּ֖וֹי]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0120G\|אָדָ֣ם]] [[H3162A\|יָֽחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic NATION|NATION]] • [[topic PEACE|PEACE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.28|<< Job 34:28]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.30|Job 34:30 >>]]</td></tr></table>
 

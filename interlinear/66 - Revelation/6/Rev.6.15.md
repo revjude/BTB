@@ -1,10 +1,65 @@
+---
+title: Revelation 6:15
+type: Verse
+kjv: "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;"
+bsb: "Then the kings of the earth, the nobles, the commanders, the rich, the mighty, and every slave and free man hid in the caves and among the rocks of the mountains."
+greek: "καὶ οἱ βασιλεῖς τῆς γῆς καὶ οἱ μεγιστᾶνες καὶ οἱ χιλίαρχοι καὶ οἱ πλούσιοι καὶ οἱ ἰσχυροὶ καὶ πᾶς δοῦλος καὶ πᾶς ἐλεύθερος ἔκρυψαν ἑαυτοὺς εἰς τὰ σπήλαια καὶ εἰς τὰς πέτρας τῶν ὀρέων"
+pericope: "[[Rev.6.12 The Sixth Seal：Terror|The Sixth Seal：Terror]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DENS|DENS]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1093G]]"
+- "[[G3175]]"
+- "[[G5506]]"
+- "[[G4145]]"
+- "[[G2478]]"
+- "[[G3956]]"
+- "[[G1401]]"
+- "[[G1658]]"
+- "[[G2928]]"
+- "[[G1438]]"
+- "[[G1519]]"
+- "[[G4693]]"
+- "[[G4073]]"
+- "[[G3735]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Revelation 6:15**<big><big>[[Rev.6.12 The Sixth Seal：Terror|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;
 <small><sub>**BSB:**</sub></small>
 Then the kings of the earth, the nobles, the commanders, the rich, the mighty, and every slave and free man hid in the caves and among the rocks of the mountains.
-<small><sub>**Literal:**</sub></small>
-And the kings of the earth and the great ones and the commanders and the rich and the powerful and every slave and everyone free hid themselves in the caves and among the rocks of the mountains<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.14|<< Revelation 6:14]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.16|Revelation 6:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0935\|βασιλεῖς]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3175\|μεγιστᾶνες]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5506\|χιλίαρχοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4145\|πλούσιοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2478\|ἰσχυροὶ]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G1401\|δοῦλος]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G1658\|ἐλεύθερος]]  [[G2928\|ἔκρυψαν]]  [[G1438\|ἑαυτοὺς]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G4693\|σπήλαια]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G4073\|πέτρας]]  [[G3588\|τῶν]]  [[G3735\|ὀρέων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DENS|DENS]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic ESCAPE|ESCAPE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.14|<< Revelation 6:14]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.16|Revelation 6:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 6:15** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.2.9|Isa 2:9]] ☩ [[LXX.Isa.2.19|Isa 2:19]]

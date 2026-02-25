@@ -1,8 +1,57 @@
+---
+title: Genesis 28:8
+type: Verse
+kjv: "And Esau seeing that the daughters of Canaan pleased not Isaac his father;"
+bsb: "And seeing that his father Isaac disapproved of the Canaanite women,"
+hebrew: "וַיַּ֣רְא עֵשָׂ֔ו כִּ֥י רָע֖וֹת בְּנ֣וֹת כְּנָ֑עַן בְּעֵינֵ֖י יִצְחָ֥ק אָבִֽיו׃"
+pericope: "[[Gen.28.6 Esau Marries Mahalath|Esau Marries Mahalath]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 28
+book/chapter: "[[Gen.28|Genesis 28]]"
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EMULATION|EMULATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H6215G]]"
+- "[[H3588A]]"
+- "[[H7451H]]"
+- "[[H1323G]]"
+- "[[H3667A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3327]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 28:8**<big><big>[[Gen.28.6 Esau Marries Mahalath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Esau seeing that the daughters of Canaan pleased not Isaac his father;
 <small><sub>**BSB:**</sub></small>
 And seeing that his father Isaac disapproved of the Canaanite women,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H6215G\|עֵשָׂ֔ו]] [[H3588A\|כִּ֥י]] [[H7451H\|רָע֖וֹת]] [[H1323G\|בְּנ֣וֹת]] [[H3667A\|כְּנָ֑עַן]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֖י]] [[H3327\|יִצְחָ֥ק]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EMULATION|EMULATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.28.7|<< Genesis 28:7]]</td><td align="center" style="border:none;">[[Gen.28|Genesis 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.28.9|Genesis 28:9 >>]]</td></tr></table>
 

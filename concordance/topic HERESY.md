@@ -9,7 +9,7 @@
 
 → Paul accused of [[Acts.18.13|Ac 18:13]]
 
-→ Disavowed by Paul [[Acts.24.13|Ac 24:13]]-[[Acts.24.16|16]]
+→ Disavowed by Paul [[Acts.24.13|Ac 24:13-16]]
 
 → See [[topic TEACHERS|TEACHERS, FALSE]]
 

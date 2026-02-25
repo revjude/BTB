@@ -1,10 +1,60 @@
+---
+title: Galatians 1:16
+type: Verse
+kjv: "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:"
+bsb: "to reveal His Son in me so that I might preach Him among the Gentiles, I did not rush to consult with flesh and blood,"
+greek: "ἀποκαλύψαι τὸν υἱὸν αὐτοῦ ἐν ἐμοί, ἵνα εὐαγγελίζωμαι αὐτὸν ἐν τοῖς ἔθνεσιν, εὐθέως οὐ προσανεθέμην σαρκὶ καὶ αἵματι,"
+pericope: "[[Gal.1.10 Paul Preaches the Gospel|Paul Preaches the Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0601]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2443]]"
+- "[[G2097]]"
+- "[[G1484]]"
+- "[[G2112]]"
+- "[[G3756]]"
+- "[[G4323]]"
+- "[[G4561]]"
+- "[[G2532]]"
+- "[[G0129G]]"
+texts:
+- NKO
+---
+
 **Galatians 1:16**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:
 <small><sub>**BSB:**</sub></small>
 to reveal His Son in me so that I might preach Him among the Gentiles, I did not rush to consult with flesh and blood,
-<small><sub>**Literal:**</sub></small>
-to reveal the Son of Him in me myself, that I may evangelise Him among the Gentiles, immediately not I consulted with flesh and with blood,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.15|<< Galatians 1:15]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.17|Galatians 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0601\|ἀποκαλύψαι]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί,]]  [[G2443\|ἵνα]]  [[G2097\|εὐαγγελίζωμαι]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν,]]  [[G2112\|εὐθέως]]  [[G3756\|οὐ]]  [[G4323\|προσανεθέμην]]  [[G4561\|σαρκὶ]]  [[G2532\|καὶ]]  [[G0129G\|αἵματι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.15|<< Galatians 1:15]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.17|Galatians 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

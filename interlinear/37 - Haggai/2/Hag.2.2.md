@@ -1,8 +1,62 @@
+---
+title: Haggai 2:2
+type: Verse
+kjv: "Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,"
+bsb: "“Speak to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, and also to the remnant of the people. Ask them,"
+hebrew: "אֱמָר־ נָ֗א אֶל־ זְרֻבָּבֶ֤ל בֶּן־ שַׁלְתִּיאֵל֙ פַּחַ֣ת יְהוּדָ֔ה וְאֶל־ יְהוֹשֻׁ֥עַ בֶּן־ יְהוֹצָדָ֖ק הַכֹּהֵ֣ן הַגָּד֑וֹל וְאֶל־ שְׁאֵרִ֥ית הָעָ֖ם לֵאמֹֽר׃"
+pericope: "[[Hag.2.1 The Coming Glory of God’s House|The Coming Glory of God’s House]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic JEHOZADAK|JEHOZADAK]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic SHEALTIEL|SHEALTIEL]]"
+- "[[topic ZERUBBABEL|ZERUBBABEL]]"
+strongs:
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0413]]"
+- "[[H2216]]"
+- "[[H1121A]]"
+- "[[H7597B]]"
+- "[[H6346]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3091J]]"
+- "[[H3087]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H7611]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:2**<big><big>[[Hag.2.1 The Coming Glory of God’s House|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak now to Zerubbabel the son of Shealtiel, governor of Judah, and to Joshua the son of Josedech, the high priest, and to the residue of the people, saying,
 <small><sub>**BSB:**</sub></small>
 “Speak to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, and also to the remnant of the people. Ask them,
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמָר]][[H9014\|־]] [[H4994\|נָ֗א]] [[H0413\|אֶל]][[H9014\|־]] [[H2216\|זְרֻבָּבֶ֤ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7597B\|שַׁלְתִּיאֵל֙]] [[H6346\|פַּחַ֣ת]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3091J\|יְהוֹשֻׁ֥עַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3087\|יְהוֹצָדָ֖ק]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]] [[H9009\|הַ]][[H1419A\|גָּד֑וֹל]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H7611\|שְׁאֵרִ֥ית]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOZADAK|JEHOZADAK]] • [[topic JOSHUA|JOSHUA]] • [[topic SHEALTIEL|SHEALTIEL]] • [[topic ZERUBBABEL|ZERUBBABEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.1|<< Haggai 2:1]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.3|Haggai 2:3 >>]]</td></tr></table>
 

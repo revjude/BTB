@@ -1,8 +1,64 @@
+---
+title: 1 Kings 18:41
+type: Verse
+kjv: "And Elijah said unto Ahab, Get thee up, eat and drink; for there is a sound of abundance of rain."
+bsb: "And Elijah said to Ahab, “Go up, eat and drink, for there is the sound of a heavy rain.”"
+hebrew: "וַיֹּ֤אמֶר אֵלִיָּ֙הוּ֙ לְאַחְאָ֔ב עֲלֵ֖ה אֱכֹ֣ל וּשְׁתֵ֑ה כִּי־ ק֖וֹל הֲמ֥וֹן הַגָּֽשֶׁם׃"
+pericope: "[[1Kgs.18.41 The LORD Sends Rain|The LORD Sends Rain]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0452G]]"
+- "[[H9005]]"
+- "[[H0256G]]"
+- "[[H5927G]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6963H]]"
+- "[[H1995A]]"
+- "[[H9009]]"
+- "[[H1653]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:41**<big><big>[[1Kgs.18.41 The LORD Sends Rain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah said unto Ahab, Get thee up, eat and drink; for [there is] a sound of abundance of rain.
 <small><sub>**BSB:**</sub></small>
 And Elijah said to Ahab, “Go up, eat and drink, for there is the sound of a heavy rain.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0452G\|אֵלִיָּ֙הוּ֙]] [[H9005\|לְ]][[H0256G\|אַחְאָ֔ב]] [[H5927G\|עֲלֵ֖ה]] [[H0398\|אֱכֹ֣ל]] [[H9002\|וּ]][[H8354\|שְׁתֵ֑ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H6963H\|ק֖וֹל]] [[H1995A\|הֲמ֥וֹן]] [[H9009\|הַ]][[H1653\|גָּֽשֶׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic ELIJAH|ELIJAH]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.40|<< 1 Kings 18:40]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.42|1 Kings 18:42 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

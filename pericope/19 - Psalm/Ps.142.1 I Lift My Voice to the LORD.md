@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Lift My Voice to the LORD
+type: Pericope
 pericope: "[[Ps.142.1 I Lift My Voice to the LORD|I Lift My Voice to the LORD]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 142
 book/chapter: "[[Ps.142|Psalm 142]]"
-genre:
+chronological_order: 319
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.142.0]]"
 - "[[Ps.142.1]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.142.7]]"
 ---
 
-[[Ps.142|Psalm 142:1 - Psalm 142:7]]
+<small>[[Ps.142|Psalm 142:1-7]]</small>
 *I Lift My Voice to the LORD*
 
 [[Ps.142.0|0]] Maschil of David; A Prayer when he was in the cave.

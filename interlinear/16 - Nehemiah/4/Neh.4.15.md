@@ -1,8 +1,68 @@
+---
+title: Nehemiah 4:15
+type: Verse
+kjv: "And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nought, that we returned all of us to the wall, every one unto his work."
+bsb: "When our enemies heard that we were aware of their scheme and that God had frustrated it, each of us returned to his own work on the wall."
+hebrew: "וַיְהִ֞י כַּֽאֲשֶׁר־ שָׁמְע֤וּ אוֹיְבֵ֙ינוּ֙ כִּי־ נ֣וֹדַֽע לָ֔נוּ וַיָּ֥פֶר הָאֱלֹהִ֖ים אֶת־ עֲצָתָ֑ם וַנָּ֤שָׁב כֻּלָּ֙נוּ֙ אֶל־ הַ֣חוֹמָ֔ה אִ֖ישׁ אֶל־ מְלַאכְתּֽוֹ׃"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0341]]"
+- "[[H9025]]"
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H6565A]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0853]]"
+- "[[H6098]]"
+- "[[H9028]]"
+- "[[H7725G]]"
+- "[[H3605]]"
+- "[[H0413]]"
+- "[[H2346G]]"
+- "[[H0376I]]"
+- "[[H4399]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Nehemiah 4:15**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nought, that we returned all of us to the wall, every one unto his work.
 <small><sub>**BSB:**</sub></small>
 When our enemies heard that we were aware of their scheme and that God had frustrated it, each of us returned to his own work on the wall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H8085G\|שָׁמְע֤וּ]] [[H0341\|אוֹיְבֵ֙י]][[H9025\|נוּ֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H3045\|נ֣וֹדַֽע]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H9001\|וַ]][[H6565A\|יָּ֥פֶר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H6098\|עֲצָתָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H7725G\|נָּ֤שָׁב]] [[H3605\|כֻּלָּ֙]][[H9025\|נוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ֣]][[H2346G\|חוֹמָ֔ה]] [[H0376I\|אִ֖ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H4399\|מְלַאכְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.14|<< Nehemiah 4:14]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.16|Nehemiah 4:16 >>]]</td></tr></table>
 

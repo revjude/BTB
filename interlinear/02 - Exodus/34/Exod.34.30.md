@@ -1,8 +1,72 @@
+---
+title: Exodus 34:30
+type: Verse
+kjv: "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him."
+bsb: "Aaron and all the Israelites looked at Moses, and behold, his face was radiant. And they were afraid to approach him."
+hebrew: "וַיַּ֨רְא אַהֲרֹ֜ן וְכָל־ בְּנֵ֤י יִשְׂרָאֵל֙ אֶת־ מֹשֶׁ֔ה וְהִנֵּ֥ה קָרַ֖ן ע֣וֹר פָּנָ֑יו וַיִּֽירְא֖וּ מִגֶּ֥שֶׁת אֵלָֽיו׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic FACE|FACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H4872]]"
+- "[[H2009]]"
+- "[[H7160]]"
+- "[[H5785]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:30**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.
 <small><sub>**BSB:**</sub></small>
 Aaron and all the Israelites looked at Moses, and behold, his face was radiant. And they were afraid to approach him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֨רְא]] [[H0175\|אַהֲרֹ֜ן]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H7160\|קָרַ֖ן]] [[H5785\|ע֣וֹר]] [[H6440H\|פָּנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H3372G\|יִּֽירְא֖וּ]] [[H9006\|מִ]][[H5066G\|גֶּ֥שֶׁת]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic FACE|FACE]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic REVERENCE|REVERENCE]] • [[topic TRANSFIGURATION|TRANSFIGURATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.29|<< Exodus 34:29]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.31|Exodus 34:31 >>]]</td></tr></table>
 

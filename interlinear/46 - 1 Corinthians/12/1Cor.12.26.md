@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 12:26
+type: Verse
+kjv: "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it."
+bsb: "If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it."
+greek: "καὶ εἴτε πάσχει ἓν μέλος, συμπάσχει πάντα τὰ μέλη· εἴτε δοξάζεται ἓν μέλος, συγχαίρει πάντα τὰ μέλη.¶"
+pericope: "[[1Cor.12.12 The Body of Christ|The Body of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[G2532]]"
+- "[[G1535]]"
+- "[[G3958]]"
+- "[[G1520]]"
+- "[[G3196]]"
+- "[[G4841]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1392]]"
+- "[[G4796]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Corinthians 12:26**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.
 <small><sub>**BSB:**</sub></small>
 If one part suffers, every part suffers with it; if one part is honored, every part rejoices with it.
-<small><sub>**Literal:**</sub></small>
-And if suffers one member, suffer with [it] all the members; if is honored one member, rejoice with [it] all the members.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.25|<< 1 Corinthians 12:25]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.27|1 Corinthians 12:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1535\|εἴτε]]  [[G3958\|πάσχει]]  [[G1520\|ἓν]]  [[G3196\|μέλος,]]  [[G4841\|συμπάσχει]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G3196\|μέλη·]]  [[G1535\|εἴτε]]  [[G1392\|δοξάζεται]]  [[G1520\|ἓν]]  [[G3196\|μέλος,]]  [[G4796\|συγχαίρει]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G3196\|μέλη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.25|<< 1 Corinthians 12:25]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.27|1 Corinthians 12:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

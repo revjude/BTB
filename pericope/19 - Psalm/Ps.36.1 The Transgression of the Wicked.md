@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Transgression of the Wicked
+type: Pericope
 pericope: "[[Ps.36.1 The Transgression of the Wicked|The Transgression of the Wicked]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 36
 book/chapter: "[[Ps.36|Psalm 36]]"
-genre:
+chronological_order: 364
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.36.0]]"
 - "[[Ps.36.1]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.36.12]]"
 ---
 
-[[Ps.36|Psalm 36:1 - Psalm 36:12]]
+<small>[[Ps.36|Psalm 36:1-12]]</small>
 *The Transgression of the Wicked*
 
 [[Ps.36.0|0]] To the chief Musician, \[A Psalm\] of David the servant of the LORD.

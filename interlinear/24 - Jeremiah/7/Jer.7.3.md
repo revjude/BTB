@@ -1,8 +1,64 @@
+---
+title: Jeremiah 7:3
+type: Verse
+kjv: "Thus saith the LORD of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place."
+bsb: "Thus says the LORD of Hosts, the God of Israel: Correct your ways and deeds, and I will let you live in this place."
+hebrew: "כֹּֽה־ אָמַ֞ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הֵיטִ֥יבוּ דַרְכֵיכֶ֖ם וּמַֽעַלְלֵיכֶ֑ם וַאֲשַׁכְּנָ֣ה אֶתְכֶ֔ם בַּמָּק֥וֹם הַזֶּֽה׃"
+pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H3190]]"
+- "[[H1870G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H4611]]"
+- "[[H7931]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:3**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, the God of Israel, Amend your ways and your doings, and I will cause you to dwell in this place.
 <small><sub>**BSB:**</sub></small>
 Thus says the LORD of Hosts, the God of Israel: Correct your ways and deeds, and I will let you live in this place.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3190\|הֵיטִ֥יבוּ]] [[H1870G\|דַרְכֵי]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H4611\|מַֽעַלְלֵי]][[H9026\|כֶ֑ם]] [[H9002\|וַ]][[H7931\|אֲשַׁכְּנָ֣ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9003\|בַּ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.2|<< Jeremiah 7:2]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.4|Jeremiah 7:4 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Psalm 9:4
+type: Verse
+kjv: "For thou hast maintained my right and my cause; thou satest in the throne judging right."
+bsb: "For You have upheld my just cause; You sit on Your throne judging righteously."
+hebrew: "כִּֽי־ עָ֭שִׂיתָ מִשְׁפָּטִ֣י וְדִינִ֑י יָשַׁ֥בְתָּ לְ֝כִסֵּ֗א שׁוֹפֵ֥ט צֶֽדֶק׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1779]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H3678G]]"
+- "[[H8199]]"
+- "[[H6664G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:4**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast maintained my right and my cause; thou satest in the throne judging right.
 <small><sub>**BSB:**</sub></small>
 For You have upheld my just cause; You sit on Your throne judging righteously.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6213A\|עָ֭שִׂיתָ]] [[H4941H\|מִשְׁפָּטִ֣]][[H9020\|י]] [[H9002\|וְ]][[H1779\|דִינִ֑]][[H9020\|י]] [[H3427\|יָשַׁ֥בְתָּ]] [[H9005\|לְ֝]][[H3678G\|כִסֵּ֗א]] [[H8199\|שׁוֹפֵ֥ט]] [[H6664G\|צֶֽדֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.3|<< Psalms 9:3]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.5|Psalms 9:5 >>]]</td></tr></table>
 

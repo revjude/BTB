@@ -1,10 +1,58 @@
+---
+title: Revelation 18:20
+type: Verse
+kjv: "Rejoice over her, thou heaven, and ye holy apostles and prophets; for God hath avenged you on her."
+bsb: "Rejoice over her, O heaven, and you saints and apostles and prophets, because God has pronounced for you His judgment against her."
+greek: "εὐφραίνου ἐπ᾽ αὐτῇ, οὐρανὲ καὶ οἱ ἅγιοι καὶ οἱ ἀπόστολοι καὶ οἱ προφῆται, ὅτι ἔκρινεν ὁ θεὸς τὸ κρίμα ὑμῶν ἐξ αὐτῆς.¶"
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2165]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+- "[[G0652]]"
+- "[[G4396]]"
+- "[[G3754H]]"
+- "[[G2919]]"
+- "[[G2316]]"
+- "[[G2917]]"
+- "[[G4771]]"
+- "[[G1537]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Revelation 18:20**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Rejoice over her, [thou] heaven, and [ye] holy apostles and prophets; for God hath avenged you on her.
 <small><sub>**BSB:**</sub></small>
 Rejoice over her, O heaven, and you saints and apostles and prophets, because God has pronounced for you His judgment against her.
-<small><sub>**Literal:**</sub></small>
-do rejoice over her, O heaven and you saints and you apostles and you prophets, because did judge <the> God the judgment for you against her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.19|<< Revelation 18:19]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.21|Revelation 18:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2165\|εὐφραίνου]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῇ,]]  [[G3772\|οὐρανὲ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0040H\|ἅγιοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0652\|ἀπόστολοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4396\|προφῆται,]]  [[G3754H\|ὅτι]]  [[G2919\|ἔκρινεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὸ]]  [[G2917\|κρίμα]]  [[G4771\|ὑμῶν]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.19|<< Revelation 18:19]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.21|Revelation 18:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:20** is...
 > $\quad$ alluding to: [[LXX.Isa.44.23|Isa 44:23]] ☩ [[LXX.Jer.51.48|Jer 51:48]]

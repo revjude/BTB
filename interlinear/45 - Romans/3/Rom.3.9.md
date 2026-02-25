@@ -1,10 +1,57 @@
+---
+title: Romans 3:9
+type: Verse
+kjv: "What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;"
+bsb: "What then? Are we any better? Not at all. For we have already made the charge that Jews and Greeks alike are all under sin."
+greek: "Τί οὖν; προεχόμεθα; οὐ πάντως· προῃτιασάμεθα γὰρ Ἰουδαίους τε καὶ Ἕλληνας πάντας ὑφ᾽ ἁμαρτίαν εἶναι"
+pericope: "[[Rom.3.9 There Is No One Righteous|There Is No One Righteous]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GREECE|GREECE]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G4284]]"
+- "[[G3756]]"
+- "[[G3843]]"
+- "[[G4256]]"
+- "[[G1063]]"
+- "[[G2453]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G1672]]"
+- "[[G3956]]"
+- "[[G5259H]]"
+- "[[G0266]]"
+- "[[G1511]]"
+texts:
+- NKO
+---
+
 **Romans 3:9**<big><big>[[Rom.3.9 There Is No One Righteous|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What then? are we better [than they]? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;
 <small><sub>**BSB:**</sub></small>
 What then? Are we any better? Not at all. For we have already made the charge that Jews and Greeks alike are all under sin.
-<small><sub>**Literal:**</sub></small>
-What then? Are we better? Not at all; We have already charged for Jews both and Greeks all under sin to be<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.8|<< Romans 3:8]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.10|Romans 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G3767\|οὖν;]]  [[G4284\|προεχόμεθα;]]  [[G3756\|οὐ]]  [[G3843\|πάντως·]]  [[G4256\|προῃτιασάμεθα]]  [[G1063\|γὰρ]]  [[G2453\|Ἰουδαίους]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1672\|Ἕλληνας]]  [[G3956\|πάντας]]  [[G5259H\|ὑφ᾽]]  [[G0266\|ἁμαρτίαν]]  [[G1511\|εἶναι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic BOASTING|BOASTING]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GREECE|GREECE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.8|<< Romans 3:8]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.10|Romans 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

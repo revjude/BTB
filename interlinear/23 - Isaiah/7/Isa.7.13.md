@@ -1,8 +1,63 @@
+---
+title: Isaiah 7:13
+type: Verse
+kjv: "And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also?"
+bsb: "Then Isaiah said, “Hear now, O house of David! Is it not enough to try the patience of men? Will you try the patience of my God as well?"
+hebrew: "וַיֹּ֕אמֶר שִׁמְעוּ־ נָ֖א בֵּ֣ית דָּוִ֑ד הַמְעַ֤ט מִכֶּם֙ הַלְא֣וֹת אֲנָשִׁ֔ים כִּ֥י תַלְא֖וּ גַּ֥ם אֶת־ אֱלֹהָֽי׃"
+pericope: "[[Isa.7.10 The Sign of Immanuel|The Sign of Immanuel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H9008]]"
+- "[[H4592]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H3811]]"
+- "[[H0582]]"
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:13**<big><big>[[Isa.7.10 The Sign of Immanuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Hear ye now, O house of David; [Is it] a small thing for you to weary men, but will ye weary my God also?
 <small><sub>**BSB:**</sub></small>
 Then Isaiah said, “Hear now, O house of David! Is it not enough to try the patience of men? Will you try the patience of my God as well?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H4994\|נָ֖א]] [[H1004M\|בֵּ֣ית]] [[H1732\|דָּוִ֑ד]] [[H9008\|הַ]][[H4592\|מְעַ֤ט]] [[H9006\|מִ]][[H9036\|כֶּם֙]] [[H3811\|הַלְא֣וֹת]] [[H0582\|אֲנָשִׁ֔ים]] [[H3588A\|כִּ֥י]] [[H3811\|תַלְא֖וּ]] [[H1571\|גַּ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0430G\|אֱלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ISAIAH|ISAIAH]] • [[topic PEKAH|PEKAH]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.12|<< Isaiah 7:12]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.14|Isaiah 7:14 >>]]</td></tr></table>
 

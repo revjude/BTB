@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 12:1
+type: Verse
+kjv: "These are the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth."
+bsb: "These are the statutes and ordinances you must be careful to follow all the days you live in the land that the LORD, the God of your fathers, has given you to possess."
+hebrew: "אֵ֠לֶּה הַֽחֻקִּ֣ים וְהַמִּשְׁפָּטִים֮ אֲשֶׁ֣ר תִּשְׁמְר֣וּן לַעֲשׂוֹת֒ בָּאָ֕רֶץ אֲשֶׁר֩ נָתַ֨ן יְהוָ֜ה אֱלֹהֵ֧י אֲבֹתֶ֛יךָ לְךָ֖ לְרִשְׁתָּ֑הּ כָּל־ הַיָּמִ֔ים אֲשֶׁר־ אַתֶּ֥ם חַיִּ֖ים עַל־ הָאֲדָמָֽה׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+strongs:
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H2706G]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H8104J]]"
+- "[[H9013]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9031]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H0859D]]"
+- "[[H2416A]]"
+- "[[H5921A]]"
+- "[[H0127I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:1**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.
 <small><sub>**BSB:**</sub></small>
 These are the statutes and ordinances you must be careful to follow all the days you live in the land that the LORD, the God of your fathers, has given you to possess.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֠לֶּה]] [[H9009\|הַֽ]][[H2706G\|חֻקִּ֣ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִים֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H8104J\|תִּשְׁמְר֣וּ]][[H9013\|ן]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹת֒]] [[H9003\|בָּ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר֩]] [[H5414G\|נָתַ֨ן]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֧י]] [[H0001G\|אֲבֹתֶ֛י]][[H9021\|ךָ]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּ֑]][[H9034\|הּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H2416A\|חַיִּ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0127I\|אֲדָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ICONOCLASM|ICONOCLASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.32|<< Deuteronomy 11:32]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.2|Deuteronomy 12:2 >>]]</td></tr></table>
 

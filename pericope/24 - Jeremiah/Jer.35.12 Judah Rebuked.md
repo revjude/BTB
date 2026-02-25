@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judah Rebuked
+type: Pericope
 pericope: "[[Jer.35.12 Judah Rebuked|Judah Rebuked]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 35
 book/chapter: "[[Jer.35|Jeremiah 35]]"
-genre:
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 8
 verses:
 - "[[Jer.35.12]]"
 - "[[Jer.35.13]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Jer.35.19]]"
 ---
 
-[[Jer.35|Jeremiah 35:12 - Jeremiah 35:19]]
+<small>[[Jer.35|Jeremiah 35:12-19]]</small>
 *Judah Rebuked*
 
 [[Jer.35.12|12]] Then came the word of the LORD unto Jeremiah, saying,

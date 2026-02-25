@@ -1,10 +1,67 @@
+---
+title: John 12:9
+type: Verse
+kjv: "Much people of the Jews therefore knew that he was there: and they came not for Jesus’ sake only, but that they might see Lazarus also, whom he had raised from the dead."
+bsb: "Meanwhile a large crowd of Jews learned that Jesus was there. And they came not only because of Him, but also to see Lazarus, whom He had raised from the dead."
+greek: "Ἔγνω οὖν ὁ ὄχλος πολὺς ἐκ τῶν Ἰουδαίων ὅτι ἐκεῖ ἐστιν, καὶ ἦλθον οὐ διὰ τὸν Ἰησοῦν μόνον ἀλλ᾽ ἵνα καὶ τὸν Λάζαρον ἴδωσιν ὃν ἤγειρεν ἐκ νεκρῶν."
+pericope: "[[John.12.9 The Plot to Kill Lazarus|The Plot to Kill Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+strongs:
+- "[[G1097]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G1537]]"
+- "[[G2453]]"
+- "[[G3754G]]"
+- "[[G1563]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3756]]"
+- "[[G1223]]"
+- "[[G2424G]]"
+- "[[G3441]]"
+- "[[G0235]]"
+- "[[G2443]]"
+- "[[G2976H]]"
+- "[[G1492H]]"
+- "[[G3739]]"
+- "[[G1453]]"
+- "[[G3498]]"
+texts:
+- NKO
+- no
+---
+
 **John 12:9**<big><big>[[John.12.9 The Plot to Kill Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Much people of the Jews therefore knew that he was there: and they came not for Jesus’ sake only, but that they might see Lazarus also, whom he had raised from the dead.
 <small><sub>**BSB:**</sub></small>
 Meanwhile a large crowd of Jews learned that Jesus was there. And they came not only because of Him, but also to see Lazarus, whom He had raised from the dead.
-<small><sub>**Literal:**</sub></small>
-Knew therefore <the> a crowd great of the Jews that there He is, and they came not because of <the> Jesus only but that also <the> Lazarus they may see whom He had raised out from [the] dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.8|<< John 12:8]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.10|John 12:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|Ἔγνω]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G4183\|πολὺς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G3754G\|ὅτι]]  [[G1563\|ἐκεῖ]]  [[G1510\|ἐστιν,]]  [[G2532\|καὶ]]  [[G2064\|ἦλθον]]  [[G3756\|οὐ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G3441\|μόνον]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2976H\|Λάζαρον]]  [[G1492H\|ἴδωσιν]]  [[G3739\|ὃν]]  [[G1453\|ἤγειρεν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic CURIOSITY|CURIOSITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.8|<< John 12:8]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.10|John 12:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

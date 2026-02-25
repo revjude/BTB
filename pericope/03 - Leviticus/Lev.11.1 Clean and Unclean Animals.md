@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Clean and Unclean Animals
+type: Pericope
 pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
-verse_count: 47
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 11
 book/chapter: "[[Lev.11|Leviticus 11]]"
-genre:
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 47
 verses:
 - "[[Lev.11.1]]"
 - "[[Lev.11.2]]"
@@ -70,7 +77,7 @@ verses:
 - "[[Lev.11.47]]"
 ---
 
-[[Lev.11|Leviticus 11:1 - Leviticus 11:47]]
+<small>[[Lev.11|Leviticus 11:1-47]]</small>
 *Clean and Unclean Animals*
 
 [[Lev.11.1|1]] And the LORD spake unto Moses and to Aaron, saying unto them,

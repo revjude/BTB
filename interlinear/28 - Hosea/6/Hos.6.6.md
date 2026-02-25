@@ -1,8 +1,58 @@
+---
+title: Hosea 6:6
+type: Verse
+kjv: "For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings."
+bsb: "For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings."
+hebrew: "כִּ֛י חֶ֥סֶד חָפַ֖צְתִּי וְלֹא־ זָ֑בַח וְדַ֥עַת אֱלֹהִ֖ים מֵעֹלֽוֹת׃"
+pericope: "[[Hos.6.1 The Unrepentance of Israel and Judah|The Unrepentance of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 6
+book/chapter: "[[Hos.6|Hosea 6]]"
+chronological_order: 647
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2617A]]"
+- "[[H2654A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2077]]"
+- "[[H1847]]"
+- "[[H0430G]]"
+- "[[H9006]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 6:6**<big><big>[[Hos.6.1 The Unrepentance of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.
 <small><sub>**BSB:**</sub></small>
 For I desire mercy, not sacrifice, and the knowledge of God rather than burnt offerings.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H2617A\|חֶ֥סֶד]] [[H2654A\|חָפַ֖צְתִּי]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2077\|זָ֑בַח]] [[H9002\|וְ]][[H1847\|דַ֥עַת]] [[H0430G\|אֱלֹהִ֖ים]] [[H9006\|מֵ]][[H5930A\|עֹלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FORMALISM|FORMALISM]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WISDOM|WISDOM]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.6.5|<< Hosea 6:5]]</td><td align="center" style="border:none;">[[Hos.6|Hosea 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.6.7|Hosea 6:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

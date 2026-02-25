@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cords of the Wicked
+type: Pericope
 pericope: "[[Ps.129.1 The Cords of the Wicked|The Cords of the Wicked]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 129
 book/chapter: "[[Ps.129|Psalm 129]]"
-genre:
+chronological_order: 890
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.129.0]]"
 - "[[Ps.129.1]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.129.8]]"
 ---
 
-[[Ps.129|Psalm 129:1 - Psalm 129:8]]
+<small>[[Ps.129|Psalm 129:1-8]]</small>
 *The Cords of the Wicked*
 
 [[Ps.129.0|0]] A Song of degrees.

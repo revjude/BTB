@@ -1,10 +1,65 @@
+---
+title: Ephesians 4:32
+type: Verse
+kjv: "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you."
+bsb: "Be kind and tenderhearted to one another, forgiving each other just as in Christ God forgave you."
+greek: "γίνεσθε δὲ εἰς ἀλλήλους χρηστοί, εὔσπλαγχνοι, χαριζόμενοι ἑαυτοῖς καθὼς καὶ ὁ θεὸς ἐν Χριστῷ ἐχαρίσατο ὑμῖν.¶"
+pericope: "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G0240]]"
+- "[[G5543]]"
+- "[[G2155]]"
+- "[[G5483]]"
+- "[[G1438]]"
+- "[[G2531]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G4771]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Ephesians 4:32**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you.
 <small><sub>**BSB:**</sub></small>
 Be kind and tenderhearted to one another, forgiving each other just as in Christ God forgave you.
-<small><sub>**Literal:**</sub></small>
-do be now to one another kind, tender-hearted, forgiving each other even as also <the> God in Christ forgave you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.31|<< Ephesians 4:31]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.1|Ephesians 5:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|γίνεσθε]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G0240\|ἀλλήλους]]  [[G5543\|χρηστοί,]]  [[G2155\|εὔσπλαγχνοι,]]  [[G5483\|χαριζόμενοι]]  [[G1438\|ἑαυτοῖς]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G5483\|ἐχαρίσατο]]  [[G4771\|ὑμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SIN|SIN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.31|<< Ephesians 4:31]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.1|Ephesians 5:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

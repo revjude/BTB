@@ -1,10 +1,51 @@
+---
+title: 1 Corinthians 5:12
+type: Verse
+kjv: "For what have I to do to judge them also that are without? do not ye judge them that are within?"
+bsb: "What business of mine is it to judge those outside the church? Are you not to judge those inside?"
+greek: "τί γάρ μοι καί τοὺς ἔξω κρίνειν; οὐχὶ τοὺς ἔσω ὑμεῖς κρίνετε,"
+pericope: "[[1Cor.5.9 Expel the Immoral Brother|Expel the Immoral Brother]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 5
+book/chapter: "[[1Cor.5|1 Corinthians 5]]"
+chronological_order: 1062
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1854]]"
+- "[[G2919]]"
+- "[[G3780]]"
+- "[[G2080]]"
+- "[[G4771]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 5:12**<big><big>[[1Cor.5.9 Expel the Immoral Brother|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For what have I to do to judge them also that are without? do not ye judge them that are within?
 <small><sub>**BSB:**</sub></small>
 What business of mine is it to judge those outside the church? Are you not to judge those inside?
-<small><sub>**Literal:**</sub></small>
-What for [is it] to me and those outside to judge? Surely those within you yourselves do judge?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.11|<< 1 Corinthians 5:11]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.13|1 Corinthians 5:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G1063\|γάρ]]  [[G3165\|μοι]]  [[G2532\|καί]]  [[G3588\|τοὺς]]  [[G1854\|ἔξω]]  [[G2919\|κρίνειν;]]  [[G3780\|οὐχὶ]]  [[G3588\|τοὺς]]  [[G2080\|ἔσω]]  [[G4771\|ὑμεῖς]]  [[G2919\|κρίνετε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHURCH|CHURCH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.11|<< 1 Corinthians 5:11]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.13|1 Corinthians 5:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

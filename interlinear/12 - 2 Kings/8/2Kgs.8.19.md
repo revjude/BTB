@@ -1,8 +1,68 @@
+---
+title: 2 Kings 8:19
+type: Verse
+kjv: "Yet the LORD would not destroy Judah for David his servant’s sake, as he promised him to give him alway a light, and to his children."
+bsb: "Yet for the sake of His servant David, the LORD was unwilling to destroy Judah, since He had promised to maintain a lamp for David and his descendants forever."
+hebrew: "וְלֹֽא־ אָבָ֤ה יְהוָה֙ לְהַשְׁחִ֣ית אֶת־ יְהוּדָ֔ה לְמַ֖עַן דָּוִ֣ד עַבְדּ֑וֹ כַּאֲשֶׁ֣ר אָֽמַר־ ל֗וֹ לָתֵ֨ת ל֥וֹ נִ֛יר לְבָנָ֖יו כָּל־ הַיָּמִֽים׃"
+pericope: "[[2Kgs.8.16 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHORAM|JEHORAM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H3063G]]"
+- "[[H4616]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H5414G]]"
+- "[[H5216B]]"
+- "[[H1121G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:19**<big><big>[[2Kgs.8.16 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet the LORD would not destroy Judah for David his servant’s sake, as he promised him to give him alway a light, [and] to his children.
 <small><sub>**BSB:**</sub></small>
 Yet for the sake of His servant David, the LORD was unwilling to destroy Judah, since He had promised to maintain a lamp for David and his descendants forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0014\|אָבָ֤ה]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H7843\|הַשְׁחִ֣ית]] [[H0853\|אֶת]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H4616\|לְמַ֖עַן]] [[H1732\|דָּוִ֣ד]] [[H5650\|עַבְדּ֑]][[H9023\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H0559\|אָֽמַר]][[H9014\|־]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H9005\|לָ]][[H5414G\|תֵ֨ת]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H5216B\|נִ֛יר]] [[H9005\|לְ]][[H1121G\|בָנָ֖י]][[H9023\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHORAM|JEHORAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.18|<< 2 Kings 8:18]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.20|2 Kings 8:20 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: 1 John 1:8
+type: Verse
+kjv: "If we say that we have no sin, we deceive ourselves, and the truth is not in us."
+bsb: "If we say we have no sin, we deceive ourselves, and the truth is not in us."
+greek: "ἐὰν εἴπωμεν ὅτι ἁμαρτίαν οὐκ ἔχομεν, ἑαυτοὺς πλανῶμεν καὶ ἡ ἀλήθεια οὐκ ἔστιν ἐν ἡμῖν."
+pericope: "[[1John.1.5 Walking in the Light|Walking in the Light]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 1
+book/chapter: "[[1John.1|1 John 1]]"
+chronological_order: 1161
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SINLESSNESS|SINLESSNESS]]"
+strongs:
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G0266]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G1438]]"
+- "[[G4105]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **1 John 1:8**<big><big>[[1John.1.5 Walking in the Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If we say that we have no sin, we deceive ourselves, and the truth is not in us.
 <small><sub>**BSB:**</sub></small>
 If we say we have no sin, we deceive ourselves, and the truth is not in us.
-<small><sub>**Literal:**</sub></small>
-If we shall say that sin not we have, ourselves we deceive and the truth not is in us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.7|<< 1 John 1:7]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.9|1 John 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G2036\|εἴπωμεν]]  [[G3754G\|ὅτι]]  [[G0266\|ἁμαρτίαν]]  [[G3756\|οὐκ]]  [[G2192\|ἔχομεν,]]  [[G1438\|ἑαυτοὺς]]  [[G4105\|πλανῶμεν]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G0225\|ἀλήθεια]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic SIN|SIN]] • [[topic SINLESSNESS|SINLESSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.1.7|<< 1 John 1:7]]</td><td align="center" style="border:none;">[[1John.1|1 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.1.9|1 John 1:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 John 1:8** is...
 > $\quad$ alluding to: [[LXX.Prov.20.9|Prov 20:9]]

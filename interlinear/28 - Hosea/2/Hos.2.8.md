@@ -1,8 +1,64 @@
+---
+title: Hosea 2:8
+type: Verse
+kjv: "For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal."
+bsb: "For she does not acknowledge that it was I who gave her grain, new wine, and oil, who lavished on her silver and gold—which they crafted for Baal."
+hebrew: "וְהִיא֙ לֹ֣א יָֽדְעָ֔ה כִּ֤י אָֽנֹכִי֙ נָתַ֣תִּי לָ֔הּ הַדָּגָ֖ן וְהַתִּיר֣וֹשׁ וְהַיִּצְהָ֑ר וְכֶ֨סֶף הִרְבֵּ֥יתִי לָ֛הּ וְזָהָ֖ב עָשׂ֥וּ לַבָּֽעַל׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0595]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H1715]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H3701G]]"
+- "[[H7235A]]"
+- "[[H2091]]"
+- "[[H6213I]]"
+- "[[H1168A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:8**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, [which] they prepared for Baal.
 <small><sub>**BSB:**</sub></small>
 For she does not acknowledge that it was I who gave her grain, new wine, and oil, who lavished on her silver and gold—which they crafted for Baal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|הִיא֙]] [[H3808\|לֹ֣א]] [[H3045\|יָֽדְעָ֔ה]] [[H3588A\|כִּ֤י]] [[H0595\|אָֽנֹכִי֙]] [[H5414G\|נָתַ֣תִּי]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H9009\|הַ]][[H1715\|דָּגָ֖ן]] [[H9002\|וְ]][[H9009\|הַ]][[H8492\|תִּיר֣וֹשׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H3323\|יִּצְהָ֑ר]] [[H9002\|וְ]][[H3701G\|כֶ֨סֶף]] [[H7235A\|הִרְבֵּ֥יתִי]] [[H9005\|לָ֛]][[H9034\|הּ]] [[H9002\|וְ]][[H2091\|זָהָ֖ב]] [[H6213I\|עָשׂ֥וּ]] [[H9005\|לַ]][[H1168A\|בָּֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.7|<< Hosea 2:7]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.9|Hosea 2:9 >>]]</td></tr></table>
 

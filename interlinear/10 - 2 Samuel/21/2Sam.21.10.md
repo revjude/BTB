@@ -1,8 +1,79 @@
+---
+title: 2 Samuel 21:10
+type: Verse
+kjv: "And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night."
+bsb: "And Rizpah the daughter of Aiah took sackcloth and spread it out for herself on a rock. From the beginning of the harvest until the rain from heaven poured down on the bodies, she did not allow the birds of the air to rest on them by day, nor the beasts of the field by night."
+hebrew: "וַתִּקַּ֣ח רִצְפָּה֩ בַת־ אַיָּ֨ה אֶת־ הַשַּׂ֜ק וַתַּטֵּ֨הוּ לָ֤הּ אֶל־ הַצּוּר֙ מִתְּחִלַּ֣ת קָצִ֔יר עַ֛ד נִתַּךְ־ מַ֥יִם עֲלֵיהֶ֖ם מִן־ הַשָּׁמָ֑יִם וְלֹֽא־ נָתְנָה֩ ע֨וֹף הַשָּׁמַ֜יִם לָנ֤וּחַ עֲלֵיהֶם֙ יוֹמָ֔ם וְאֶת־ חַיַּ֥ת הַשָּׂדֶ֖ה לָֽיְלָה׃"
+pericope: "[[2Sam.21.1 David Avenges the Gibeonites|David Avenges the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AJAH|AJAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RIZPAH|RIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H7532]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H0345H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8242]]"
+- "[[H5186]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H6697H]]"
+- "[[H9006]]"
+- "[[H8462]]"
+- "[[H7105A]]"
+- "[[H5704]]"
+- "[[H5413]]"
+- "[[H4325G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H4480A]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5414K]]"
+- "[[H5775]]"
+- "[[H5117]]"
+- "[[H3119]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 21:10**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night.
 <small><sub>**BSB:**</sub></small>
 And Rizpah the daughter of Aiah took sackcloth and spread it out for herself on a rock. From the beginning of the harvest until the rain from heaven poured down on the bodies, she did not allow the birds of the air to rest on them by day, nor the beasts of the field by night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|תִּקַּ֣ח]] [[H7532\|רִצְפָּה֩]] [[H1323G\|בַת]][[H9014\|־]] [[H0345H\|אַיָּ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8242\|שַּׂ֜ק]] [[H9001\|וַ]][[H5186\|תַּטֵּ֨]][[H9033\|הוּ]] [[H9005\|לָ֤]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6697H\|צּוּר֙]] [[H9006\|מִ]][[H8462\|תְּחִלַּ֣ת]] [[H7105A\|קָצִ֔יר]] [[H5704\|עַ֛ד]] [[H5413\|נִתַּךְ]][[H9014\|־]] [[H4325G\|מַ֥יִם]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5414K\|נָתְנָה֩]] [[H5775\|ע֨וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֜יִם]] [[H9005\|לָ]][[H5117\|נ֤וּחַ]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H3119\|יוֹמָ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H3915\|לָֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AJAH|AJAH]] • [[topic DAVID|DAVID]] • [[topic PARENTS|PARENTS]] • [[topic RIZPAH|RIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.9|<< 2 Samuel 21:9]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.11|2 Samuel 21:11 >>]]</td></tr></table>
 

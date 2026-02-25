@@ -1,8 +1,70 @@
+---
+title: Jeremiah 32:23
+type: Verse
+kjv: "And they came in, and possessed it; but they obeyed not thy voice, neither walked in thy law; they have done nothing of all that thou commandedst them to do: therefore thou hast caused all this evil to come upon them:"
+bsb: "They came in and possessed it, but they did not obey Your voice or walk in Your law. They failed to perform all that You commanded them to do, and so You have brought upon them all this disaster."
+hebrew: "וַיָּבֹ֜אוּ וַיִּֽרְשׁ֣וּ אֹתָ֗הּ וְלֹֽא־ שָׁמְע֤וּ בְקוֹלֶ֙ךָ֙ וּבְתוֹרָתְךָ֣ לֹא־ הָלָ֔כוּ אֵת֩ כָּל־ אֲשֶׁ֨ר צִוִּ֧יתָה לָהֶ֛ם לַעֲשׂ֖וֹת לֹ֣א עָשׂ֑וּ וַתַּקְרֵ֣א אֹתָ֔ם אֵ֥ת כָּל־ הָרָעָ֖ה הַזֹּֽאת׃"
+pericope: "[[Jer.32.16 Jeremiah Prays for Understanding|Jeremiah Prays for Understanding]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9021]]"
+- "[[H8451]]"
+- "[[H1980I]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H6213A]]"
+- "[[H7122I]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 32:23**<big><big>[[Jer.32.16 Jeremiah Prays for Understanding|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came in, and possessed it; but they obeyed not thy voice, neither walked in thy law; they have done nothing of all that thou commandedst them to do: therefore thou hast caused all this evil to come upon them:
 <small><sub>**BSB:**</sub></small>
 They came in and possessed it, but they did not obey Your voice or walk in Your law. They failed to perform all that You commanded them to do, and so You have brought upon them all this disaster.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H9001\|וַ]][[H3423H\|יִּֽרְשׁ֣וּ]] [[H0853\|אֹתָ֗]][[H9034\|הּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085H\|שָׁמְע֤וּ]] [[H9003\|בְ]][[H6963A\|קוֹלֶ֙]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H9003\|בְ]][[H8451\|תוֹרָתְ]][[H9021\|ךָ֣]] [[H3808\|לֹא]][[H9014\|־]] [[H1980I\|הָלָ֔כוּ]] [[H0853\|אֵת֩]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוִּ֧יתָה]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H3808\|לֹ֣א]] [[H6213A\|עָשׂ֑וּ]] [[H9001\|וַ]][[H7122I\|תַּקְרֵ֣א]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.22|<< Jeremiah 32:22]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.24|Jeremiah 32:24 >>]]</td></tr></table>
 
@@ -33,9 +95,9 @@ They came in and possessed it, but they did not obey Your voice or walk in Your 
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.22|<< Jeremiah 32:22]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.24|Jeremiah 32:24 >>]]</td></tr></table>
 
-[^1]: and in laws your  | **<big>[[H9021|ךָ]]</big><big>[[H8451|תֹרוֹתֶ]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.ro.te.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^2]: and in laws your  | **<big>[[H9021|ךָ]]</big><big>[[H8451|תֹרוֹתֶ]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.ro.te.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^3]: and in laws your  | **<big>[[H9021|ךָ]]</big><big>[[H8451|תֹרוֹתֶ]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.ro.te.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
-[^4]: and in laws your  | **<big>[[H9021|ךָ]]</big><big>[[H8451|תֹרוֹתֶ]]</big><big>[[H9003|בְ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.ro.te.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^1]: and in laws your  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H8451|תֹרוֹתֶ]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.ro.te.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^2]: and in laws your  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H8451|תֹרוֹתֶ]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.ro.te.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^3]: and in laws your  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H8451|תֹרוֹתֶ]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.ro.te.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
+[^4]: and in laws your  | **<big>[[H9002|וּ]]</big><big>[[H9003|בְ]]</big><big>[[H8451|תֹרוֹתֶ]]</big><big>[[H9021|ךָ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> to.ro.te.<small><sup>[[HNcfpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | K
 [^5]: L spelled: **<span class="ashebrew"><big>וּבְ/תֹרָותְ/ךָ֣</big></span>**
 

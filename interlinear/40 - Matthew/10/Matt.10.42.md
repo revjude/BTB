@@ -1,10 +1,67 @@
+---
+title: Matthew 10:42
+type: Verse
+kjv: "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward."
+bsb: "And if anyone gives even a cup of cold water to one of these little ones because he is My disciple, truly I tell you, he will never lose his reward.”"
+jesus_said: "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward."
+greek: "καὶ ὃς ἂν ποτίσῃ ἕνα τῶν μικρῶν τούτων ποτήριον ψυχροῦ μόνον εἰς ὄνομα μαθητοῦ, ἀμὴν λέγω ὑμῖν· οὐ μὴ ἀπολέσῃ τὸν μισθὸν αὐτοῦ.¶"
+pericope: "[[Matt.10.40 The Reward of Service|The Reward of Service]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G4222]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G3398]]"
+- "[[G3778]]"
+- "[[G4221]]"
+- "[[G5593]]"
+- "[[G3440]]"
+- "[[G1519]]"
+- "[[G3686]]"
+- "[[G3101]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0622]]"
+- "[[G3408]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 10:42**<big><big>[[Matt.10.40 The Reward of Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever shall give to drink unto one of these little ones a cup of cold [water] only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward.
 <small><sub>**BSB:**</sub></small>
 And if anyone gives even a cup of cold water to one of these little ones because he is My disciple, truly I tell you, he will never lose his reward.”
-<small><sub>**Literal:**</sub></small>
-And who[ever] maybe shall give to drink to one of the little ones of these a cup of cold [water] only in [the] name of a disciple, Amen I say to you; certainly not shall he lose the reward of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.41|<< Matthew 10:41]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.1|Matthew 11:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G4222\|ποτίσῃ]]  [[G1520\|ἕνα]]  [[G3588\|τῶν]]  [[G3398\|μικρῶν]]  [[G3778\|τούτων]]  [[G4221\|ποτήριον]]  [[G5593\|ψυχροῦ]]  [[G3440\|μόνον]]  [[G1519\|εἰς]]  [[G3686\|ὄνομα]]  [[G3101\|μαθητοῦ,]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0622\|ἀπολέσῃ]]  [[G3588\|τὸν]]  [[G3408\|μισθὸν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.41|<< Matthew 10:41]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.1|Matthew 11:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

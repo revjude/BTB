@@ -1,8 +1,60 @@
+---
+title: Ezekiel 42:3
+type: Verse
+kjv: "Over against the twenty cubits which were for the inner court, and over against the pavement which was for the utter court, was gallery against gallery in three stories."
+bsb: "Gallery faced gallery in three levels opposite the twenty cubits that belonged to the inner court and opposite the pavement that belonged to the outer court."
+hebrew: "נֶ֣גֶד הָֽעֶשְׂרִ֗ים אֲשֶׁר֙ לֶחָצֵ֣ר הַפְּנִימִ֔י וְנֶ֣גֶד רִֽצְפָ֔ה אֲשֶׁ֖ר לֶחָצֵ֣ר הַחִֽיצוֹנָ֑ה אַתִּ֥יק אֶל־ פְּנֵֽי־ אַתִּ֖יק בַּשְּׁלִשִֽׁים׃"
+pericope: "[[Ezek.42.1 Chambers for the Priests|Chambers for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GALLERIES|GALLERIES]]"
+strongs:
+- "[[H5048]]"
+- "[[H9009]]"
+- "[[H6242]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H2691A]]"
+- "[[H6442]]"
+- "[[H9002]]"
+- "[[H7531A]]"
+- "[[H2435]]"
+- "[[H0862B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H9003]]"
+- "[[H7992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:3**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Over against the twenty [cubits] which [were] for the inner court, and over against the pavement which [was] for the utter court, [was] gallery against gallery in three [stories].
 <small><sub>**BSB:**</sub></small>
 Gallery faced gallery in three levels opposite the twenty cubits that belonged to the inner court and opposite the pavement that belonged to the outer court.
+<small><sub>**Hebrew:**</sub></small>
+[[H5048\|נֶ֣גֶד]] [[H9009\|הָֽ]][[H6242\|עֶשְׂרִ֗ים]] [[H0834A\|אֲשֶׁר֙]] [[H9005\|לֶ]][[H2691A\|חָצֵ֣ר]] [[H9009\|הַ]][[H6442\|פְּנִימִ֔י]] [[H9002\|וְ]][[H5048\|נֶ֣גֶד]] [[H7531A\|רִֽצְפָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9005\|לֶ]][[H2691A\|חָצֵ֣ר]] [[H9009\|הַ]][[H2435\|חִֽיצוֹנָ֑ה]] [[H0862B\|אַתִּ֥יק]] [[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פְּנֵֽי]][[H9014\|־]] [[H0862B\|אַתִּ֖יק]] [[H9003\|בַּ]][[H7992\|שְּׁלִשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALLERIES|GALLERIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.2|<< Ezekiel 42:2]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.4|Ezekiel 42:4 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: 2 Kings 8:25
+type: Verse
+kjv: "In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the son of Jehoram king of Judah begin to reign."
+bsb: "In the twelfth year of the reign of Joram son of Ahab over Israel, Ahaziah son of Jehoram became king of Judah."
+hebrew: "בִּשְׁנַת֙ שְׁתֵּים־ עֶשְׂרֵ֣ה שָׁנָ֔ה לְיוֹרָ֥ם בֶּן־ אַחְאָ֖ב מֶ֣לֶךְ יִשְׂרָאֵ֑ל מָלַ֛ךְ אֲחַזְיָ֥הוּ בֶן־ יְהוֹרָ֖ם מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[2Kgs.8.25 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H3141H]]"
+- "[[H1121A]]"
+- "[[H0256G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H4427A]]"
+- "[[H0274H]]"
+- "[[H3088G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:25**<big><big>[[2Kgs.8.25 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the son of Jehoram king of Judah begin to reign.
 <small><sub>**BSB:**</sub></small>
 In the twelfth year of the reign of Joram son of Ahab over Israel, Ahaziah son of Jehoram became king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַת֙]] [[H8147\|שְׁתֵּים]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לְ]][[H3141H\|יוֹרָ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0256G\|אַחְאָ֖ב]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H4427A\|מָלַ֛ךְ]] [[H0274H\|אֲחַזְיָ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3088G\|יְהוֹרָ֖ם]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.24|<< 2 Kings 8:24]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.26|2 Kings 8:26 >>]]</td></tr></table>
 

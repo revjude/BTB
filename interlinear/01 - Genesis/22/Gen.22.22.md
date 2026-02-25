@@ -1,8 +1,60 @@
+---
+title: Genesis 22:22
+type: Verse
+kjv: "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel."
+bsb: "Chesed, Hazo, Pildash, Jidlaph, and Bethuel.”"
+hebrew: "וְאֶת־ כֶּ֣שֶׂד וְאֶת־ חֲז֔וֹ וְאֶת־ פִּלְדָּ֖שׁ וְאֶת־ יִדְלָ֑ף וְאֵ֖ת בְּתוּאֵֽל׃"
+pericope: "[[Gen.22.20 The Sons of Nahor|The Sons of Nahor]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETHUEL|BETHUEL]]"
+- "[[topic CHESED|CHESED]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HAZO|HAZO]]"
+- "[[topic JIDLAPH|JIDLAPH]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic NAHOR|NAHOR]]"
+- "[[topic PILDASH|PILDASH]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3777]]"
+- "[[H2375]]"
+- "[[H6394]]"
+- "[[H3044]]"
+- "[[H1328A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:22**<big><big>[[Gen.22.20 The Sons of Nahor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.
 <small><sub>**BSB:**</sub></small>
 Chesed, Hazo, Pildash, Jidlaph, and Bethuel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3777\|כֶּ֣שֶׂד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2375\|חֲז֔וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6394\|פִּלְדָּ֖שׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3044\|יִדְלָ֑ף]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H1328A\|בְּתוּאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHUEL|BETHUEL]] • [[topic CHESED|CHESED]] • [[topic GENEALOGY|GENEALOGY]] • [[topic HAZO|HAZO]] • [[topic JIDLAPH|JIDLAPH]] • [[topic MILCAH|MILCAH]] • [[topic NAHOR|NAHOR]] • [[topic PILDASH|PILDASH]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.21|<< Genesis 22:21]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.23|Genesis 22:23 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 32:46
+type: Verse
+kjv: "And he said unto them, Set your hearts unto all the words which I testify among you this day, which ye shall command your children to observe to do, all the words of this law."
+bsb: "he said to them, “Take to heart all the words I have solemnly declared to you this day, so that you may command your children to carefully follow all the words of this law."
+hebrew: "וַיֹּ֤אמֶר אֲלֵהֶם֙ שִׂ֣ימוּ לְבַבְכֶ֔ם לְכָל־ הַדְּבָרִ֔ים אֲשֶׁ֧ר אָנֹכִ֛י מֵעִ֥יד בָּכֶ֖ם הַיּ֑וֹם אֲשֶׁ֤ר תְּצַוֻּם֙ אֶת־ בְּנֵיכֶ֔ם לִשְׁמֹ֣ר לַעֲשׂ֔וֹת אֶת־ כָּל־ דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H7760K]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H5749B]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H3117G]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H8104J]]"
+- "[[H6213A]]"
+- "[[H8451]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:46**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Set your hearts unto all the words which I testify among you this day, which ye shall command your children to observe to do, all the words of this law.
 <small><sub>**BSB:**</sub></small>
 he said to them, “Take to heart all the words I have solemnly declared to you this day, so that you may command your children to carefully follow all the words of this law.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H7760K\|שִׂ֣ימוּ]] [[H3824\|לְבַבְ]][[H9026\|כֶ֔ם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֔ים]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָנֹכִ֛י]] [[H5749B\|מֵעִ֥יד]] [[H9003\|בָּ]][[H9036\|כֶ֖ם]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H0834A\|אֲשֶׁ֤ר]] [[H6680\|תְּצַוֻּ]][[H9038\|ם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9026\|כֶ֔ם]] [[H9005\|לִ]][[H8104J\|שְׁמֹ֣ר]] [[H9005\|לַ]][[H6213A\|עֲשׂ֔וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֖י]] [[H9009\|הַ]][[H8451\|תּוֹרָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DEATH|DEATH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.45|<< Deuteronomy 32:45]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.47|Deuteronomy 32:47 >>]]</td></tr></table>
 

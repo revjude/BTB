@@ -1,8 +1,60 @@
+---
+title: Judges 18:6
+type: Verse
+kjv: "And the priest said unto them, Go in peace: before the LORD is your way wherein ye go."
+bsb: "And the priest told them, “Go in peace. The LORD is watching over your journey.”"
+hebrew: "וַיֹּ֧אמֶר לָהֶ֛ם הַכֹּהֵ֖ן לְכ֣וּ לְשָׁל֑וֹם נֹ֣כַח יְהוָ֔ה דַּרְכְּכֶ֖ם אֲשֶׁ֥ר תֵּֽלְכוּ־ בָֽהּ׃ פ"
+pericope: "[[Judg.18.1 The Danites Settle in Laish|The Danites Settle in Laish]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1980G]]"
+- "[[H7965G]]"
+- "[[H5227]]"
+- "[[H3068G]]"
+- "[[H1870L]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 18:6**<big><big>[[Judg.18.1 The Danites Settle in Laish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest said unto them, Go in peace: before the LORD [is] your way wherein ye go.
 <small><sub>**BSB:**</sub></small>
 And the priest told them, “Go in peace. The LORD is watching over your journey.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H1980G\|לְכ֣וּ]] [[H9005\|לְ]][[H7965G\|שָׁל֑וֹם]] [[H5227\|נֹ֣כַח]] [[H3068G\|יְהוָ֔ה]] [[H1870L\|דַּרְכְּ]][[H9026\|כֶ֖ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H1980G\|תֵּֽלְכוּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JONATHAN|JONATHAN]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.5|<< Judges 18:5]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.7|Judges 18:7 >>]]</td></tr></table>
 
@@ -18,7 +70,7 @@ And the priest told them, “Go in peace. The LORD is watching over your journey
 | way your  |**<big>&#8207;[[H1870L\|דַּרְכְּ]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| dar.ke.<small><sup>[[HNcbsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you go  |**<big>&#8207;[[H1980G\|תֵּֽלְכוּ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| te.le.khu-<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in \<the> it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in \<the> it  |**<big>&#8207;[[H9003\|בָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Va<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.5|<< Judges 18:5]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.7|Judges 18:7 >>]]</td></tr></table>
 
 

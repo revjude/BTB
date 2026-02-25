@@ -1,10 +1,65 @@
+---
+title: Romans 6:19
+type: Verse
+kjv: "I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness."
+bsb: "I am speaking in human terms because of the weakness of your flesh. Just as you used to offer the parts of your body in slavery to impurity and to escalating wickedness, so now offer them in slavery to righteousness leading to holiness."
+greek: "Ἀνθρώπινον λέγω διὰ τὴν ἀσθένειαν τῆς σαρκὸς ὑμῶν. ὥσπερ γὰρ παρεστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ ἀκαθαρσίᾳ καὶ τῇ ἀνομίᾳ εἰς τὴν ἀνομίαν, οὕτως νῦν παραστήσατε τὰ μέλη ὑμῶν δοῦλα τῇ δικαιοσύνῃ εἰς ἁγιασμόν."
+pericope: "[[Rom.6.15 The Wages of Sin|The Wages of Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G0442]]"
+- "[[G3004G]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G0769G]]"
+- "[[G4561]]"
+- "[[G4771]]"
+- "[[G5618]]"
+- "[[G1063]]"
+- "[[G3936]]"
+- "[[G3196]]"
+- "[[G1401]]"
+- "[[G0167]]"
+- "[[G2532]]"
+- "[[G0458]]"
+- "[[G1519]]"
+- "[[G3779]]"
+- "[[G3568]]"
+- "[[G1343]]"
+- "[[G0038]]"
+texts:
+- NKO
+---
+
 **Romans 6:19**<big><big>[[Rom.6.15 The Wages of Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.
 <small><sub>**BSB:**</sub></small>
 I am speaking in human terms because of the weakness of your flesh. Just as you used to offer the parts of your body in slavery to impurity and to escalating wickedness, so now offer them in slavery to righteousness leading to holiness.
-<small><sub>**Literal:**</sub></small>
-In human terms I speak on account of the weakness of the flesh of you. For as for you yielded the members of you [as] slaves <the> to impurity and <the> to lawlessness unto <the> lawlessness, so now do yield the members of you [as] slaves <the> to righteousness unto sanctification.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.18|<< Romans 6:18]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.20|Romans 6:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0442\|Ἀνθρώπινον]]  [[G3004G\|λέγω]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G0769G\|ἀσθένειαν]]  [[G3588\|τῆς]]  [[G4561\|σαρκὸς]]  [[G4771\|ὑμῶν.]]  [[G5618\|ὥσπερ]]  [[G1063\|γὰρ]]  [[G3936\|παρεστήσατε]]  [[G3588\|τὰ]]  [[G3196\|μέλη]]  [[G4771\|ὑμῶν]]  [[G1401\|δοῦλα]]  [[G3588\|τῇ]]  [[G0167\|ἀκαθαρσίᾳ]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G0458\|ἀνομίᾳ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0458\|ἀνομίαν,]]  [[G3779\|οὕτως]]  [[G3568\|νῦν]]  [[G3936\|παραστήσατε]]  [[G3588\|τὰ]]  [[G3196\|μέλη]]  [[G4771\|ὑμῶν]]  [[G1401\|δοῦλα]]  [[G3588\|τῇ]]  [[G1343\|δικαιοσύνῃ]]  [[G1519\|εἰς]]  [[G0038\|ἁγιασμόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSECRATION|CONSECRATION]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HOLINESS|HOLINESS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.18|<< Romans 6:18]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.20|Romans 6:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

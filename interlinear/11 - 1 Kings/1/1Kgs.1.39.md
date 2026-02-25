@@ -1,8 +1,74 @@
+---
+title: 1 Kings 1:39
+type: Verse
+kjv: "And Zadok the priest took an horn of oil out of the tabernacle, and anointed Solomon. And they blew the trumpet; and all the people said, God save king Solomon."
+bsb: "Zadok the priest took the horn of oil from the tabernacle and anointed Solomon. Then they blew the ram’s horn, and all the people proclaimed, “Long live King Solomon!”"
+hebrew: "וַיִּקַּח֩ צָד֨וֹק הַכֹּהֵ֜ן אֶת־ קֶ֤רֶן הַשֶּׁ֙מֶן֙ מִן־ הָאֹ֔הֶל וַיִּמְשַׁ֖ח אֶת־ שְׁלֹמֹ֑ה וַֽיִּתְקְעוּ֙ בַּשּׁוֹפָ֔ר וַיֹּֽאמְרוּ֙ כָּל־ הָעָ֔ם יְחִ֖י הַמֶּ֥לֶךְ שְׁלֹמֹֽה׃"
+pericope: "[[1Kgs.1.32 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic HORN|HORN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic OIL|OIL]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H6659G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7161A]]"
+- "[[H8081]]"
+- "[[H4480A]]"
+- "[[H0168G]]"
+- "[[H4886]]"
+- "[[H8010]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H7782]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H2421]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:39**<big><big>[[1Kgs.1.32 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zadok the priest took an horn of oil out of the tabernacle, and anointed Solomon. And they blew the trumpet; and all the people said, God save king Solomon.
 <small><sub>**BSB:**</sub></small>
 Zadok the priest took the horn of oil from the tabernacle and anointed Solomon. Then they blew the ram’s horn, and all the people proclaimed, “Long live King Solomon!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּח֩]] [[H6659G\|צָד֨וֹק]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H7161A\|קֶ֤רֶן]] [[H9009\|הַ]][[H8081\|שֶּׁ֙מֶן֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0168G\|אֹ֔הֶל]] [[H9001\|וַ]][[H4886\|יִּמְשַׁ֖ח]] [[H0853\|אֶת]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֑ה]] [[H9001\|וַֽ]][[H8628\|יִּתְקְעוּ֙]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָ֔ר]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H2421\|יְחִ֖י]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic HORN|HORN]] • [[topic ISRAEL|ISRAEL]] • [[topic NATHAN|NATHAN]] • [[topic OIL|OIL]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]] • [[topic THRONE|THRONE]] • [[topic TRUMPET|TRUMPET]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.38|<< 1 Kings 1:38]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.40|1 Kings 1:40 >>]]</td></tr></table>
 

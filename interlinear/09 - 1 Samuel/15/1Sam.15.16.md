@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 15:16
+type: Verse
+kjv: "Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on."
+bsb: "“Stop!” exclaimed Samuel. “Let me tell you what the LORD said to me last night.” “Tell me,” Saul replied."
+hebrew: "וַיֹּ֤אמֶר שְׁמוּאֵל֙ אֶל־ שָׁא֔וּל הֶ֚רֶף וְאַגִּ֣ידָה לְּךָ֔ אֵת֩ אֲשֶׁ֨ר דִּבֶּ֧ר יְהוָ֛ה אֵלַ֖י הַלָּ֑יְלָה וַיֹּ֥אמֶר ל֖וֹ דַּבֵּֽר׃ ס"
+pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8050G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H7503]]"
+- "[[H9002]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 15:16**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said to me this night. And he said unto him, Say on.
 <small><sub>**BSB:**</sub></small>
 “Stop!” exclaimed Samuel. “Let me tell you what the LORD said to me last night.” “Tell me,” Saul replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H8050G\|שְׁמוּאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H7503\|הֶ֚רֶף]] [[H9002\|וְ]][[H5046\|אַגִּ֣ידָה]] [[H9005\|לְּ]][[H9031\|ךָ֔]] [[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9009\|הַ]][[H3915\|לָּ֑יְלָה]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1696G\|דַּבֵּֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.15|<< 1 Samuel 15:15]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.17|1 Samuel 15:17 >>]]</td></tr></table>
 
@@ -23,10 +86,10 @@ Then Samuel said unto Saul, Stay, and I will tell thee what the LORD hath said t
 | this night  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3915\|לָּ֑יְלָה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> La.ye.lah<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  [^2]|**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**[^3] | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| speak  |**<big>&#8207;[[H1696G\|דַּבֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| speak  |**<big>&#8207;[[H1696G\|דַּבֵּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Ber<small><sup>[[HVpv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.15|<< 1 Samuel 15:15]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.17|1 Samuel 15:17 >>]]</td></tr></table>
 
-[^1]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
-[^2]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^1]: and they said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמְרוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמְרוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיֹּ֥אמֶרו</big></span>**
 

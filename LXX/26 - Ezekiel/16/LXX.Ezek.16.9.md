@@ -1,6 +1,59 @@
+---
+title: LXX Ezekiel 16:9
+type: Verse
+lxx: "And I bathed you in water, and washed  your blood from you, and anointed you with oil."
+greek: "και έλουσά σε εν ύδατι και απέπλυνα το αίμά σου από σου και έχρισά σε εν ελαιώ"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3068]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G5204]]"
+- "[[G2532]]"
+- "[[G0637]]"
+- "[[G3588]]"
+- "[[G0129]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5548]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G1637]]"
+---
+
 **LXX Ezekiel 16:9** 
 <small><sub>**LXX:**</sub></small>
 And I bathed you in water, and washed  your blood from you, and anointed you with oil. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3068\|έλουσά]] [[G1473\|σε]] [[G1722\|εν]] [[G5204\|ύδατι]] [[G2532\|και]] [[G0637\|απέπλυνα]] [[G3588\|το]] [[G0129\|αίμά]] [[G1473\|σου]] [[G0575\|από]] [[G1473\|σου]] [[G2532\|και]] [[G5548\|έχρισά]] [[G1473\|σε]] [[G1722\|εν]] [[G1637\|ελαιώ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic BRIDEGROOM|BRIDEGROOM]] • [[topic GOD|GOD]] • [[topic REGENERATION|REGENERATION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.8|<< Ezekiel 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.10|Ezekiel 16:10 >>]]</td></tr></table>
 
@@ -22,6 +75,6 @@ And I bathed you in water, and washed  your blood from you, and anointed you wit
 | you | **<big>[[G1473\|σε]]</big>** |
 | with | **<big>[[G1722\|εν]]</big>** |
 | oil. | **<big>[[G1637\|ελαιώ]]</big>** |
-[[Ezek.16.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.8|<< Ezekiel 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.10|Ezekiel 16:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.16.8|<< Ezekiel 16:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.16.10|Ezekiel 16:10 >>]]</td></tr></table>
 
 

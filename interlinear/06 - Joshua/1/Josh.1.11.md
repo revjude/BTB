@@ -1,8 +1,70 @@
+---
+title: Joshua 1:11
+type: Verse
+kjv: "Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the LORD your God giveth you to possess it."
+bsb: "“Go through the camp and tell the people, ‘Prepare your provisions, for within three days you will cross the Jordan to go in and take possession of the land that the LORD your God is giving you to possess.’”"
+hebrew: "עִבְר֣וּ׀ בְּקֶ֣רֶב הַֽמַּחֲנֶ֗ה וְצַוּ֤וּ אֶת־ הָעָם֙ לֵאמֹ֔ר הָכִ֥ינוּ לָכֶ֖ם צֵידָ֑ה כִּ֞י בְּע֣וֹד׀ שְׁלֹ֣שֶׁת יָמִ֗ים אַתֶּם֙ עֹֽבְרִים֙ אֶת־ הַיַּרְדֵּ֣ן הַזֶּ֔ה לָבוֹא֙ לָרֶ֣שֶׁת אֶת־ הָאָ֔רֶץ אֲשֶׁר֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם נֹתֵ֥ן לָכֶ֖ם לְרִשְׁתָּֽהּ׃ ס"
+pericope: "[[Josh.1.10 Joshua Takes Charge|Joshua Takes Charge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H5674A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H9002]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3559A]]"
+- "[[H9036]]"
+- "[[H6720]]"
+- "[[H3588A]]"
+- "[[H5750]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H0859D]]"
+- "[[H3383]]"
+- "[[H2088]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 1:11**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the LORD your God giveth you to possess it.
 <small><sub>**BSB:**</sub></small>
 “Go through the camp and tell the people, ‘Prepare your provisions, for within three days you will cross the Jordan to go in and take possession of the land that the LORD your God is giving you to possess.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H5674A\|עִבְר֣וּ]][[H9015\|׀]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֗ה]] [[H9002\|וְ]][[H6680\|צַוּ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3559A\|הָכִ֥ינוּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H6720\|צֵידָ֑ה]] [[H3588A\|כִּ֞י]] [[H9003\|בְּ]][[H5750\|ע֣וֹד]][[H9015\|׀]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֗ים]] [[H0859D\|אַתֶּם֙]] [[H5674A\|עֹֽבְרִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֣ן]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9005\|לָ]][[H0935G\|בוֹא֙]] [[H9005\|לָ]][[H3423H\|רֶ֣שֶׁת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.10|<< Joshua 1:10]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.12|Joshua 1:12 >>]]</td></tr></table>
 
@@ -36,7 +98,7 @@ Pass through the host, and command the people, saying, Prepare you victuals; for
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹֽהֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] about to give  |**<big>&#8207;[[H5414G\|נֹתֵ֥ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to take possession of it  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3423H\|רִשְׁתָּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> rish.Ta<small><sup>[[HVqcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to take possession of it  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3423H\|רִשְׁתָּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> rish.Ta<small><sup>[[HVqcc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.10|<< Joshua 1:10]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.12|Joshua 1:12 >>]]</td></tr></table>
 
 

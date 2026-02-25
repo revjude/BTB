@@ -1,8 +1,58 @@
+---
+title: Job 33:16
+type: Verse
+kjv: "Then he openeth the ears of men, and sealeth their instruction,"
+bsb: "He opens their ears and terrifies them with warnings"
+hebrew: "אָ֣ז יִ֭גְלֶה אֹ֣זֶן אֲנָשִׁ֑ים וּבְמֹ֖סָרָ֣ם יַחְתֹּֽם׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0227A]]"
+- "[[H1540I]]"
+- "[[H0241G]]"
+- "[[H0582]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4561]]"
+- "[[H9028]]"
+- "[[H2856]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:16**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he openeth the ears of men, and sealeth their instruction,
 <small><sub>**BSB:**</sub></small>
 He opens their ears and terrifies them with warnings
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H1540I\|יִ֭גְלֶה]] [[H0241G\|אֹ֣זֶן]] [[H0582\|אֲנָשִׁ֑ים]] [[H9002\|וּ]][[H9003\|בְ]][[H4561\|מֹ֖סָרָ֣]][[H9028\|ם]] [[H2856\|יַחְתֹּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic PROPHETS|PROPHETS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.15|<< Job 33:15]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.17|Job 33:17 >>]]</td></tr></table>
 

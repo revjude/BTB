@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 24:24
+type: Verse
+kjv: "For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hand, because they had forsaken the LORD God of their fathers. So they executed judgment against Joash."
+bsb: "Although the Aramean army had come with only a few men, the LORD delivered into their hand a very great army. Because Judah had forsaken the LORD, the God of their fathers, judgment was executed on Joash."
+hebrew: "כִּי֩ בְמִצְעַ֨ר אֲנָשִׁ֜ים בָּ֣אוּ׀ חֵ֣יל אֲרָ֗ם וַֽיהוָה֙ נָתַ֨ן בְּיָדָ֥ם חַ֙יִל֙ לָרֹ֣ב מְאֹ֔ד כִּ֣י עָֽזְב֔וּ אֶת־ יְהוָ֖ה אֱלֹהֵ֣י אֲבוֹתֵיהֶ֑ם וְאֶת־ יוֹאָ֖שׁ עָשׂ֥וּ שְׁפָטִֽים׃"
+pericope: "[[2Chr.24.23 The Death of Joash|The Death of Joash]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H4705]]"
+- "[[H0582]]"
+- "[[H0935G]]"
+- "[[H9015]]"
+- "[[H2428A]]"
+- "[[H0758I]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H3027H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H3966]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H0854]]"
+- "[[H3101I]]"
+- "[[H6213A]]"
+- "[[H8201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:24**<big><big>[[2Chr.24.23 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hand, because they had forsaken the LORD God of their fathers. So they executed judgment against Joash.
 <small><sub>**BSB:**</sub></small>
 Although the Aramean army had come with only a few men, the LORD delivered into their hand a very great army. Because Judah had forsaken the LORD, the God of their fathers, judgment was executed on Joash.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H9003\|בְ]][[H4705\|מִצְעַ֨ר]] [[H0582\|אֲנָשִׁ֜ים]] [[H0935G\|בָּ֣אוּ]][[H9015\|׀]] [[H2428A\|חֵ֣יל]] [[H0758I\|אֲרָ֗ם]] [[H9002\|וַֽ]][[H3068G\|יהוָה֙]] [[H5414G\|נָתַ֨ן]] [[H9003\|בְּ]][[H3027H\|יָדָ֥]][[H9028\|ם]] [[H2428A\|חַ֙יִל֙]] [[H9005\|לָ]][[H7230\|רֹ֣ב]] [[H3966\|מְאֹ֔ד]] [[H3588A\|כִּ֣י]] [[H5800A\|עָֽזְב֔וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבוֹתֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H3101I\|יוֹאָ֖שׁ]] [[H6213A\|עָשׂ֥וּ]] [[H8201\|שְׁפָטִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JOASH|JOASH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.23|<< 2 Chronicles 24:23]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.25|2 Chronicles 24:25 >>]]</td></tr></table>
 

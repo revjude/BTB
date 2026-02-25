@@ -1,8 +1,52 @@
+---
+title: Isaiah 25:2
+type: Verse
+kjv: "For thou hast made of a city an heap; of a defenced city a ruin: a palace of strangers to be no city; it shall never be built."
+bsb: "Indeed, You have made the city a heap of rubble, the fortified town a ruin. The fortress of strangers is a city no more; it will never be rebuilt."
+hebrew: "כִּ֣י שַׂ֤מְתָּ מֵעִיר֙ לַגָּ֔ל קִרְיָ֥ה בְצוּרָ֖ה לְמַפֵּלָ֑ה אַרְמ֤וֹן זָרִים֙ מֵעִ֔יר לְעוֹלָ֖ם לֹ֥א יִבָּנֶֽה׃"
+pericope: "[[Isa.25.1 Praise to the Victorious God|Praise to the Victorious God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 25
+book/chapter: "[[Isa.25|Isaiah 25]]"
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+strongs:
+- "[[H3588A]]"
+- "[[H7760A]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H9005]]"
+- "[[H1530G]]"
+- "[[H7151]]"
+- "[[H1219]]"
+- "[[H4654B]]"
+- "[[H0759H]]"
+- "[[H2114A]]"
+- "[[H5769G]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 25:2**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast made of a city an heap; [of] a defenced city a ruin: a palace of strangers to be no city; it shall never be built.
 <small><sub>**BSB:**</sub></small>
 Indeed, You have made the city a heap of rubble, the fortified town a ruin. The fortress of strangers is a city no more; it will never be rebuilt.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H7760A\|שַׂ֤מְתָּ]] [[H9006\|מֵ]][[H5892B\|עִיר֙]] [[H9005\|לַ]][[H1530G\|גָּ֔ל]] [[H7151\|קִרְיָ֥ה]] [[H1219\|בְצוּרָ֖ה]] [[H9005\|לְ]][[H4654B\|מַפֵּלָ֑ה]] [[H0759H\|אַרְמ֤וֹן]] [[H2114A\|זָרִים֙]] [[H9006\|מֵ]][[H5892B\|עִ֔יר]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H3808\|לֹ֥א]] [[H1129\|יִבָּנֶֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.25.1|<< Isaiah 25:1]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.3|Isaiah 25:3 >>]]</td></tr></table>
 

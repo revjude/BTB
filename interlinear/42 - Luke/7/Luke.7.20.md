@@ -1,10 +1,61 @@
+---
+title: Luke 7:20
+type: Verse
+kjv: "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?"
+bsb: "When the men came to Jesus, they said, “John the Baptist sent us to ask, ‘Are You the One who was to come, or should we look for someone else?’”"
+greek: "Παραγενόμενοι δὲ πρὸς αὐτὸν οἱ ἄνδρες εἶπαν· Ἰωάννης ὁ βαπτιστὴς ἀπέστειλεν ἡμᾶς πρὸς σὲ λέγων· σὺ εἶ ὁ ἐρχόμενος, ἢ ἄλλον προσδοκῶμεν;"
+pericope: "[[Luke.7.18 John’s Inquiry|John’s Inquiry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G3854]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G2036]]"
+- "[[G2491G]]"
+- "[[G0910]]"
+- "[[G0649]]"
+- "[[G3165]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G1510]]"
+- "[[G2064]]"
+- "[[G2228]]"
+- "[[G0243]]"
+- "[[G4328]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 7:20**<big><big>[[Luke.7.18 John’s Inquiry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?
 <small><sub>**BSB:**</sub></small>
 When the men came to Jesus, they said, “John the Baptist sent us to ask, ‘Are You the One who was to come, or should we look for someone else?’”
-<small><sub>**Literal:**</sub></small>
-Having come then to Him the men said; John the Baptist has sent us to you saying; You yourself are the coming [One], or another are we to look for?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.19|<< Luke 7:19]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.21|Luke 7:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3854\|Παραγενόμενοι]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G0435G\|ἄνδρες]]  [[G2036\|εἶπαν·]]  [[G2491G\|Ἰωάννης]]  [[G3588\|ὁ]]  [[G0910\|βαπτιστὴς]]  [[G0649\|ἀπέστειλεν]]  [[G3165\|ἡμᾶς]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G3004G\|λέγων·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G2064\|ἐρχόμενος,]]  [[G2228\|ἢ]]  [[G0243\|ἄλλον]]  [[G4328\|προσδοκῶμεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.19|<< Luke 7:19]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.21|Luke 7:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Psalm 104:23
+type: Verse
+kjv: "Man goeth forth unto his work and to his labour until the evening."
+bsb: "Man goes forth to his work and to his labor until evening."
+hebrew: "יֵצֵ֣א אָדָ֣ם לְפָעֳל֑וֹ וְֽלַעֲבֹ֖דָת֣וֹ עֲדֵי־ עָֽרֶב׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3318G]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H6467]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5656I]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:23**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Man goeth forth unto his work and to his labour until the evening.
 <small><sub>**BSB:**</sub></small>
 Man goes forth to his work and to his labor until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H3318G\|יֵצֵ֣א]] [[H0120G\|אָדָ֣ם]] [[H9005\|לְ]][[H6467\|פָעֳל֑]][[H9023\|וֹ]] [[H9002\|וְֽ]][[H9005\|לַ]][[H5656I\|עֲבֹ֖דָת֣]][[H9023\|וֹ]] [[H5704\|עֲדֵי]][[H9014\|־]] [[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.22|<< Psalms 104:22]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.24|Psalms 104:24 >>]]</td></tr></table>
 

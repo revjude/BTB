@@ -1,8 +1,55 @@
+---
+title: Psalm 44:14
+type: Verse
+kjv: "Thou makest us a byword among the heathen, a shaking of the head among the people."
+bsb: "You have made us a byword among the nations, a laughingstock among the peoples."
+hebrew: "תְּשִׂימֵ֣נוּ מָ֭שָׁל בַּגּוֹיִ֑ם מְנֽוֹד־ רֹ֝֗אשׁ בַּל־ אֻמִּֽים׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7760A]]"
+- "[[H9035]]"
+- "[[H4912]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H4493]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H1077]]"
+- "[[H0523]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:14**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou makest us a byword among the heathen, a shaking of the head among the people.
 <small><sub>**BSB:**</sub></small>
 You have made us a byword among the nations, a laughingstock among the peoples.
+<small><sub>**Hebrew:**</sub></small>
+[[H7760A\|תְּשִׂימֵ֣]][[H9035\|נוּ]] [[H4912\|מָ֭שָׁל]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֑ם]] [[H4493\|מְנֽוֹד]][[H9014\|־]] [[H7218A\|רֹ֝֗אשׁ]] [[H1077\|בַּל]][[H9014\|־]] [[H0523\|אֻמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MURMURING|MURMURING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.13|<< Psalms 44:13]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.15|Psalms 44:15 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Psalm 47:9
+type: Verse
+kjv: "The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted."
+bsb: "The nobles of the nations have assembled as the people of the God of Abraham; for the shields of the earth belong to God; He is highly exalted."
+hebrew: "נְדִ֘יבֵ֤י עַמִּ֨ים׀ נֶאֱסָ֗פוּ עַם֮ אֱלֹהֵ֪י אַבְרָ֫הָ֥ם כִּ֣י לֵֽ֭אלֹהִים מָֽגִנֵּי־ אֶ֗רֶץ מְאֹ֣ד נַעֲלָֽה׃"
+pericope: "[[Ps.47.1 Clap Your Hands, All You Peoples|Clap Your Hands, All You Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 47
+book/chapter: "[[Ps.47|Psalm 47]]"
+chronological_order: 502
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H5081H]]"
+- "[[H5971A]]"
+- "[[H9015]]"
+- "[[H0622]]"
+- "[[H0430G]]"
+- "[[H0085]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H4043]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H3966]]"
+- "[[H5927H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 47:9**<big><big>[[Ps.47.1 Clap Your Hands, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The princes of the people are gathered together, [even] the people of the God of Abraham: for the shields of the earth [belong] unto God: he is greatly exalted.
 <small><sub>**BSB:**</sub></small>
 The nobles of the nations have assembled as the people of the God of Abraham; for the shields of the earth belong to God; He is highly exalted.
+<small><sub>**Hebrew:**</sub></small>
+[[H5081H\|נְדִ֘יבֵ֤י]] [[H5971A\|עַמִּ֨ים]][[H9015\|׀]] [[H0622\|נֶאֱסָ֗פוּ]] [[H5971A\|עַם֮]] [[H0430G\|אֱלֹהֵ֪י]] [[H0085\|אַבְרָ֫הָ֥ם]] [[H3588A\|כִּ֣י]] [[H9005\|לֵֽ֭]][[H0430G\|אלֹהִים]] [[H4043\|מָֽגִנֵּי]][[H9014\|־]] [[H0776G\|אֶ֗רֶץ]] [[H3966\|מְאֹ֣ד]] [[H5927H\|נַעֲלָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.47.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.47.8|<< Psalms 47:8]]</td><td align="center" style="border:none;">[[Ps.47|Psalms 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.0|Psalms 48:0 >>]]</td></tr></table>
 

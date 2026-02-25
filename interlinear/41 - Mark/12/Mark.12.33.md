@@ -1,10 +1,66 @@
+---
+title: Mark 12:33
+type: Verse
+kjv: "And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices."
+bsb: "and to love Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself. This is more important than all burnt offerings and sacrifices.”"
+greek: "καὶ τὸ ἀγαπᾶν αὐτὸν ἐξ ὅλης τῆς καρδίας καὶ ἐξ ὅλης τῆς συνέσεως καὶ ἐξ ὅλης τῆς ψυχῆς καὶ ἐξ ὅλης τῆς ἰσχύος καὶ τὸ ἀγαπᾶν τὸν πλησίον ὡς ἑαυτὸν περισσότερόν ἐστιν πάντων τῶν ὁλοκαυτωμάτων καὶ τῶν θυσιῶν."
+pericope: "[[Mark.12.28 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0025]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3650]]"
+- "[[G2588]]"
+- "[[G4907]]"
+- "[[G5590G]]"
+- "[[G2479]]"
+- "[[G4139]]"
+- "[[G5613]]"
+- "[[G1438]]"
+- "[[G4054]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G3646]]"
+- "[[G2378]]"
+texts:
+- NKO
+- KO
+- N(K)O
+- k
+---
+
 **Mark 12:33**<big><big>[[Mark.12.28 The Greatest Commandment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love [his] neighbour as himself, is more than all whole burnt offerings and sacrifices.
 <small><sub>**BSB:**</sub></small>
 and to love Him with all your heart and with all your understanding and with all your strength, and to love your neighbor as yourself. This is more important than all burnt offerings and sacrifices.”
-<small><sub>**Literal:**</sub></small>
-and <the> to love Him with all the heart and with all the understanding and from all <the> soul and with all the strength and <the> to love the neighbour as oneself more excessive is than all the burnt offerings and <the> sacrifices.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.32|<< Mark 12:32]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.34|Mark 12:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0025\|ἀγαπᾶν]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐξ]]  [[G3650\|ὅλης]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G3650\|ὅλης]]  [[G3588\|τῆς]]  [[G4907\|συνέσεως]]  [[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G3650\|ὅλης]]  [[G3588\|τῆς]]  [[G5590G\|ψυχῆς]]  [[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G3650\|ὅλης]]  [[G3588\|τῆς]]  [[G2479\|ἰσχύος]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0025\|ἀγαπᾶν]]  [[G3588\|τὸν]]  [[G4139\|πλησίον]]  [[G5613\|ὡς]]  [[G1438\|ἑαυτὸν]]  [[G4054\|περισσότερόν]]  [[G1510\|ἐστιν]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G3646\|ὁλοκαυτωμάτων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G2378\|θυσιῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic LOVE|LOVE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SATIRE|SATIRE]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.32|<< Mark 12:32]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.34|Mark 12:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 12:33** is...
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]] ☩ [[LXX.Deut.6.5|Deut 6:5]] ☩ [[LXX.Josh.22.5|Josh 22:5]]

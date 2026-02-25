@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 28:66
+type: Verse
+kjv: "And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:"
+bsb: "So your life will hang in doubt before you, and you will be afraid night and day, never certain of survival."
+hebrew: "וְהָי֣וּ חַיֶּ֔יךָ תְּלֻאִ֥ים לְךָ֖ מִנֶּ֑גֶד וּפָֽחַדְתָּ֙ לַ֣יְלָה וְיוֹמָ֔ם וְלֹ֥א תַאֲמִ֖ין בְּחַיֶּֽיךָ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2416E]]"
+- "[[H9021]]"
+- "[[H8511]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H5048]]"
+- "[[H6342]]"
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H3119]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:66**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy life shall hang in doubt before thee; and thou shalt fear day and night, and shalt have none assurance of thy life:
 <small><sub>**BSB:**</sub></small>
 So your life will hang in doubt before you, and you will be afraid night and day, never certain of survival.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֣וּ]] [[H2416E\|חַיֶּ֔י]][[H9021\|ךָ]] [[H8511\|תְּלֻאִ֥ים]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9006\|מִ]][[H5048\|נֶּ֑גֶד]] [[H9001\|וּ]][[H6342\|פָֽחַדְתָּ֙]] [[H3915\|לַ֣יְלָה]] [[H9002\|וְ]][[H3119\|יוֹמָ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0539\|תַאֲמִ֖ין]] [[H9003\|בְּ]][[H2416E\|חַיֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONVICTION|CONVICTION]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.66|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.65|<< Deuteronomy 28:65]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.67|Deuteronomy 28:67 >>]]</td></tr></table>
 

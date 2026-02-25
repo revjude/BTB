@@ -1,8 +1,70 @@
+---
+title: Exodus 4:12
+type: Verse
+kjv: "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say."
+bsb: "Now go! I will help you as you speak, and I will teach you what to say.”"
+hebrew: "וְעַתָּ֖ה לֵ֑ךְ וְאָנֹכִי֙ אֶֽהְיֶ֣ה עִם־ פִּ֔יךָ וְהוֹרֵיתִ֖יךָ אֲשֶׁ֥ר תְּדַבֵּֽר׃"
+pericope: "[[Exod.4.10 The Appointment of Aaron|The Appointment of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1980G]]"
+- "[[H0595]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H3384B]]"
+- "[[H9031]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:12**<big><big>[[Exod.4.10 The Appointment of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say.
 <small><sub>**BSB:**</sub></small>
 Now go! I will help you as you speak, and I will teach you what to say.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H1980G\|לֵ֑ךְ]] [[H9002\|וְ]][[H0595\|אָנֹכִי֙]] [[H1961\|אֶֽהְיֶ֣ה]] [[H5973A\|עִם]][[H9014\|־]] [[H6310G\|פִּ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H3384B\|הוֹרֵיתִ֖י]][[H9031\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|תְּדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic EXCUSES|EXCUSES]] • [[topic FAITH|FAITH]] • [[topic ISRAEL|ISRAEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOSES|MOSES]] • [[topic PREACHING|PREACHING]] • [[topic PROPHETS|PROPHETS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.11|<< Exodus 4:11]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.13|Exodus 4:13 >>]]</td></tr></table>
 

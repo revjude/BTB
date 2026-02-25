@@ -1,8 +1,62 @@
+---
+title: 1 Kings 1:53
+type: Verse
+kjv: "So king Solomon sent, and they brought him down from the altar. And he came and bowed himself to king Solomon: and Solomon said unto him, Go to thine house."
+bsb: "So King Solomon summoned Adonijah down from the altar, and he came and bowed down before King Solomon, who said to him, “Go to your home.”"
+hebrew: "וַיִּשְׁלַ֞ח הַמֶּ֣לֶךְ שְׁלֹמֹ֗ה וַיֹּרִדֻ֙הוּ֙ מֵעַ֣ל הַמִּזְבֵּ֔חַ וַיָּבֹ֕א וַיִּשְׁתַּ֖חוּ לַמֶּ֣לֶךְ שְׁלֹמֹ֑ה וַיֹּֽאמֶר־ ל֥וֹ שְׁלֹמֹ֖ה לֵ֥ךְ לְבֵיתֶֽךָ׃ פ"
+pericope: "[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|Adonijah Learns of Solomon’s Kingship]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H3381]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H0935G]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H1980G]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 1:53**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So king Solomon sent, and they brought him down from the altar. And he came and bowed himself to king Solomon: and Solomon said unto him, Go to thine house.
 <small><sub>**BSB:**</sub></small>
 So King Solomon summoned Adonijah down from the altar, and he came and bowed down before King Solomon, who said to him, “Go to your home.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֞ח]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֗ה]] [[H9001\|וַ]][[H3381\|יֹּרִדֻ֙]][[H9033\|הוּ֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֕א]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּ֖חוּ]] [[H9005\|לַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֑ה]] [[H9001\|וַ]][[H0559\|יֹּֽאמֶר]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H8010\|שְׁלֹמֹ֖ה]] [[H1980G\|לֵ֥ךְ]] [[H9005\|לְ]][[H1004B\|בֵיתֶֽ]][[H9021\|ךָ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGIVENESS|FORGIVENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.52|<< 1 Kings 1:52]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.1|1 Kings 2:1 >>]]</td></tr></table>
 
@@ -22,7 +76,7 @@ So King Solomon summoned Adonijah down from the altar, and he came and bowed dow
 | to him  |**<big>&#8207;[[H9005\|ל֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹ֖ה]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | go  |**<big>&#8207;[[H1980G\|לֵ֥ךְ]]&#8207; </big>**| lekh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to house your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004B\|בֵיתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vei.Te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to house your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004B\|בֵיתֶֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> vei.Te.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.52|<< 1 Kings 1:52]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.1|1 Kings 2:1 >>]]</td></tr></table>
 
 

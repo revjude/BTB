@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: No Greater Love
+type: Pericope
 pericope: "[[John.15.9 No Greater Love|No Greater Love]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: John
 chapter: 15
 book/chapter: "[[John.15|John 15]]"
-genre:
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 9
 verses:
 - "[[John.15.9]]"
 - "[[John.15.10]]"
@@ -27,7 +34,7 @@ verses:
 - "[[John.15.17]]"
 ---
 
-[[John.15|John 15:9 - John 15:17]]
+<small>[[John.15|John 15:9-17]]</small>
 *No Greater Love*
 
 [[John.15.9|9]] As the Father hath loved me, so have I loved you: continue ye in my love.

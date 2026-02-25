@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 30:17
+type: Verse
+kjv: "And David smote them from the twilight even unto the evening of the next day: and there escaped not a man of them, save four hundred young men, which rode upon camels, and fled."
+bsb: "And David struck them down from twilight until the evening of the next day. Not a man escaped, except four hundred young men who fled, riding off on camels."
+hebrew: "וַיַּכֵּ֥ם דָּוִ֛ד מֵהַנֶּ֥שֶׁף וְעַד־ הָעֶ֖רֶב לְמָֽחֳרָתָ֑ם וְלֹֽא־ נִמְלַ֤ט מֵהֶם֙ אִ֔ישׁ כִּי֩ אִם־ אַרְבַּ֨ע מֵא֧וֹת אִֽישׁ־ נַ֛עַר אֲשֶׁר־ רָכְב֥וּ עַל־ הַגְּמַלִּ֖ים וַיָּנֻֽסוּ׃"
+pericope: "[[1Sam.30.7 David Destroys the Amalekites|David Destroys the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic CAVALRY|CAVALRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H1732]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H5399]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H6153]]"
+- "[[H9005]]"
+- "[[H4283]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H4422]]"
+- "[[H0376I]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H5288]]"
+- "[[H0834A]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H1581]]"
+- "[[H5127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:17**<big><big>[[1Sam.30.7 David Destroys the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David smote them from the twilight even unto the evening of the next day: and there escaped not a man of them, save four hundred young men, which rode upon camels, and fled.
 <small><sub>**BSB:**</sub></small>
 And David struck them down from twilight until the evening of the next day. Not a man escaped, except four hundred young men who fled, riding off on camels.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכֵּ֥]][[H9038\|ם]] [[H1732\|דָּוִ֛ד]] [[H9006\|מֵ]][[H9009\|הַ]][[H5399\|נֶּ֥שֶׁף]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עֶ֖רֶב]] [[H9005\|לְ]][[H4283\|מָֽחֳרָתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H4422\|נִמְלַ֤ט]] [[H9006\|מֵ]][[H9038\|הֶם֙]] [[H0376I\|אִ֔ישׁ]] [[H3588B\|כִּי֩]] [[H0518B\|אִם]][[H9014\|־]] [[H0702\|אַרְבַּ֨ע]] [[H3967\|מֵא֧וֹת]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H5288\|נַ֛עַר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7392\|רָכְב֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1581\|גְּמַלִּ֖ים]] [[H9001\|וַ]][[H5127\|יָּנֻֽסוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]] • [[topic CAMEL|CAMEL]] • [[topic CAVALRY|CAVALRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.16|<< 1 Samuel 30:16]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.18|1 Samuel 30:18 >>]]</td></tr></table>
 

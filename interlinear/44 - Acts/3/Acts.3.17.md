@@ -1,10 +1,56 @@
+---
+title: Acts 3:17
+type: Verse
+kjv: "And now, brethren, I wot that through ignorance ye did it, as did also your rulers."
+bsb: "And now, brothers, I know that you acted in ignorance, as did your leaders."
+greek: "καὶ νῦν, ἀδελφοί, οἶδα ὅτι κατὰ ἄγνοιαν ἐπράξατε, ὥσπερ καὶ οἱ ἄρχοντες ὑμῶν·"
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G0080]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G2596]]"
+- "[[G0052]]"
+- "[[G4238]]"
+- "[[G5618]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Acts 3:17**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now, brethren, I wot that through ignorance ye did [it], as [did] also your rulers.
 <small><sub>**BSB:**</sub></small>
 And now, brothers, I know that you acted in ignorance, as did your leaders.
-<small><sub>**Literal:**</sub></small>
-And now, brothers, I know that in ignorance you acted, as also the rulers of you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.16|<< Acts 3:16]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.18|Acts 3:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3568\|νῦν,]]  [[G0080\|ἀδελφοί,]]  [[G6063\|οἶδα]]  [[G3754G\|ὅτι]]  [[G2596\|κατὰ]]  [[G0052\|ἄγνοιαν]]  [[G4238\|ἐπράξατε,]]  [[G5618\|ὥσπερ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0758\|ἄρχοντες]]  [[G4771\|ὑμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic COURAGE|COURAGE]] • [[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.16|<< Acts 3:16]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.18|Acts 3:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

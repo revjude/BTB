@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Second Census of Israel
+type: Pericope
 pericope: "[[Num.26.1 The Second Census of Israel|The Second Census of Israel]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.26.1]]"
 - "[[Num.26.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.26.4]]"
 ---
 
-[[Num.26|Numbers 26:1 - Numbers 26:4]]
+<small>[[Num.26|Numbers 26:1-4]]</small>
 *The Second Census of Israel*
 
 [[Num.26.1|1]] And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying,

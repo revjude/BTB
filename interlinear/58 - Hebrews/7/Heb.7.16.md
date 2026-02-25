@@ -1,10 +1,56 @@
+---
+title: Hebrews 7:16
+type: Verse
+kjv: "Who is made, not after the law of a carnal commandment, but after the power of an endless life."
+bsb: "one who has become a priest not by a law of succession, but by the power of an indestructible life."
+greek: "ὃς οὐ κατὰ νόμον ἐντολῆς σαρκίνης γέγονεν ἀλλὰ κατὰ δύναμιν ζωῆς ἀκαταλύτου·"
+pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G2596]]"
+- "[[G3551]]"
+- "[[G1785]]"
+- "[[G4560]]"
+- "[[G1096]]"
+- "[[G0235]]"
+- "[[G1411]]"
+- "[[G2222]]"
+- "[[G0179]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 7:16**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who is made, not after the law of a carnal commandment, but after the power of an endless life.
 <small><sub>**BSB:**</sub></small>
 one who has become a priest not by a law of succession, but by the power of an indestructible life.
-<small><sub>**Literal:**</sub></small>
-who not according to a law of a commandment fleshly has been constituted but according to [the] power of a life indestructible;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.15|<< Hebrews 7:15]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.17|Hebrews 7:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G3756\|οὐ]]  [[G2596\|κατὰ]]  [[G3551\|νόμον]]  [[G1785\|ἐντολῆς]]  [[G4560\|σαρκίνης]]  [[G1096\|γέγονεν]]  [[G0235\|ἀλλὰ]]  [[G2596\|κατὰ]]  [[G1411\|δύναμιν]]  [[G2222\|ζωῆς]]  [[G0179\|ἀκαταλύτου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.15|<< Hebrews 7:15]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.17|Hebrews 7:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

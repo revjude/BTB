@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Repentance
+type: Pericope
 pericope: "[[Zech.1.1 A Call to Repentance|A Call to Repentance]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 1
 book/chapter: "[[Zech.1|Zechariah 1]]"
-genre:
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 6
 verses:
 - "[[Zech.1.1]]"
 - "[[Zech.1.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Zech.1.6]]"
 ---
 
-[[Zech.1|Zechariah 1:1 - Zechariah 1:6]]
+<small>[[Zech.1|Zechariah 1:1-6]]</small>
 *A Call to Repentance*
 
 [[Zech.1.1|1]] In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,

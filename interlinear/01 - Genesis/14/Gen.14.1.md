@@ -1,8 +1,69 @@
+---
+title: Genesis 14:1
+type: Verse
+kjv: "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;"
+bsb: "In those days Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim"
+hebrew: "וַיְהִ֗י בִּימֵי֙ אַמְרָפֶ֣ל מֶֽלֶךְ־ שִׁנְעָ֔ר אַרְי֖וֹךְ מֶ֣לֶךְ אֶלָּסָ֑ר כְּדָרְלָעֹ֙מֶר֙ מֶ֣לֶךְ עֵילָ֔ם וְתִדְעָ֖ל מֶ֥לֶךְ גּוֹיִֽם׃"
+pericope: "[[Gen.14.1 The War of the Kings|The War of the Kings]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AMRAPHEL|AMRAPHEL]]"
+- "[[topic ARIOCH|ARIOCH]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHEDORLAOMER|CHEDORLAOMER]]"
+- "[[topic CONFEDERACIES|CONFEDERACIES]]"
+- "[[topic ELAM|ELAM]]"
+- "[[topic ELLASAR|ELLASAR]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic TIDAL|TIDAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0569]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H8152]]"
+- "[[H0746A]]"
+- "[[H0495]]"
+- "[[H3540]]"
+- "[[H5867A]]"
+- "[[H9002]]"
+- "[[H8413]]"
+- "[[H1471B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 14:1**<big><big>[[Gen.14.1 The War of the Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;
 <small><sub>**BSB:**</sub></small>
 In those days Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בִּ]][[H3117G\|ימֵי֙]] [[H0569\|אַמְרָפֶ֣ל]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H8152\|שִׁנְעָ֔ר]] [[H0746A\|אַרְי֖וֹךְ]] [[H4428G\|מֶ֣לֶךְ]] [[H0495\|אֶלָּסָ֑ר]] [[H3540\|כְּדָרְלָעֹ֙מֶר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H5867A\|עֵילָ֔ם]] [[H9002\|וְ]][[H8413\|תִדְעָ֖ל]] [[H4428G\|מֶ֥לֶךְ]] [[H1471B\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMRAPHEL|AMRAPHEL]] • [[topic ARIOCH|ARIOCH]] • [[topic BABYLON|BABYLON]] • [[topic CHEDORLAOMER|CHEDORLAOMER]] • [[topic CONFEDERACIES|CONFEDERACIES]] • [[topic ELAM|ELAM]] • [[topic ELLASAR|ELLASAR]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LOT|LOT]] • [[topic SODOM|SODOM]] • [[topic TIDAL|TIDAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.18|<< Genesis 13:18]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.2|Genesis 14:2 >>]]</td></tr></table>
 

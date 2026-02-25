@@ -1,10 +1,59 @@
+---
+title: Acts 21:22
+type: Verse
+kjv: "What is it therefore? the multitude must needs come together: for they will hear that thou art come."
+bsb: "What then should we do? They will certainly hear that you have come."
+greek: "τί οὖν ἐστιν; πάντως δεῖ πλῆθος συνελθεῖν ἀκούσονται γὰρ ὅτι ἐλήλυθας."
+pericope: "[[Acts.21.17 Paul’s Arrival at Jerusalem|Paul’s Arrival at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G1510]]"
+- "[[G3843]]"
+- "[[G1163]]"
+- "[[G4128]]"
+- "[[G4905]]"
+- "[[G0191]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G2064]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 21:22**<big><big>[[Acts.21.17 Paul’s Arrival at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What is it therefore? the multitude must needs come together: for they will hear that thou art come.
 <small><sub>**BSB:**</sub></small>
 What then should we do? They will certainly hear that you have come.
-<small><sub>**Literal:**</sub></small>
-What then is it? Certainly should multitude to assemble they will hear for that you have come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.21|<< Acts 21:21]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.23|Acts 21:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G3767\|οὖν]]  [[G1510\|ἐστιν;]]  [[G3843\|πάντως]]  [[G1163\|δεῖ]]  [[G4128\|πλῆθος]]  [[G4905\|συνελθεῖν]]  [[G0191\|ἀκούσονται]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G2064\|ἐλήλυθας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic MEEKNESS|MEEKNESS]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.21|<< Acts 21:21]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.23|Acts 21:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

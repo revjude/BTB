@@ -1,8 +1,55 @@
+---
+title: Job 17:2
+type: Verse
+kjv: "Are there not mockers with me? and doth not mine eye continue in their provocation?"
+bsb: "Surely mockers surround me, and my eyes must gaze at their rebellion."
+hebrew: "אִם־ לֹ֣א הֲ֭תֻלִים עִמָּדִ֑י וּ֝בְהַמְּרוֹתָ֗ם תָּלַ֥ן עֵינִֽי׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H2049]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4784]]"
+- "[[H9048]]"
+- "[[H3885A]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:2**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Are there] not mockers with me? and doth not mine eye continue in their provocation?
 <small><sub>**BSB:**</sub></small>
 Surely mockers surround me, and my eyes must gaze at their rebellion.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H2049\|הֲ֭תֻלִים]] [[H5978\|עִמָּדִ֑]][[H9030\|י]] [[H9002\|וּ֝]][[H9003\|בְ]][[H4784\|הַמְּרוֹתָ֗]][[H9048\|ם]] [[H3885A\|תָּלַ֥ן]] [[H5869A\|עֵינִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.1|<< Job 17:1]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.3|Job 17:3 >>]]</td></tr></table>
 

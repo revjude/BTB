@@ -1,10 +1,59 @@
+---
+title: Acts 7:17
+type: Verse
+kjv: "But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,"
+bsb: "As the time drew near for God to fulfill His promise to Abraham, our people in Egypt increased greatly in number."
+greek: "καθὼς δὲ ἤγγιζεν ὁ χρόνος τῆς ἐπαγγελίας ἧς ὡμολόγησεν ὁ θεὸς τῷ Ἀβραάμ, ηὔξησεν ὁ λαὸς καὶ ἐπληθύνθη ἐν Αἰγύπτῳ"
+pericope: "[[Acts.7.15 Israel Oppressed in Egypt|Israel Oppressed in Egypt]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2531]]"
+- "[[G1161]]"
+- "[[G1448]]"
+- "[[G3588]]"
+- "[[G5550]]"
+- "[[G1860]]"
+- "[[G3739]]"
+- "[[G3670]]"
+- "[[G2316]]"
+- "[[G0011]]"
+- "[[G0837]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G4129]]"
+- "[[G1722]]"
+- "[[G0125]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 7:17**<big><big>[[Acts.7.15 Israel Oppressed in Egypt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,
 <small><sub>**BSB:**</sub></small>
 As the time drew near for God to fulfill His promise to Abraham, our people in Egypt increased greatly in number.
-<small><sub>**Literal:**</sub></small>
-Even as now was drawing near the time of the promise that he agreed <the> God <the> to Abraham, increased the people and multiplied in Egypt<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.16|<< Acts 7:16]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.18|Acts 7:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1161\|δὲ]]  [[G1448\|ἤγγιζεν]]  [[G3588\|ὁ]]  [[G5550\|χρόνος]]  [[G3588\|τῆς]]  [[G1860\|ἐπαγγελίας]]  [[G3739\|ἧς]]  [[G3670\|ὡμολόγησεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τῷ]]  [[G0011\|Ἀβραάμ,]]  [[G0837\|ηὔξησεν]]  [[G3588\|ὁ]]  [[G2992\|λαὸς]]  [[G2532\|καὶ]]  [[G4129\|ἐπληθύνθη]]  [[G1722\|ἐν]]  [[G0125\|Αἰγύπτῳ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.16|<< Acts 7:16]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.18|Acts 7:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:17** is...
 > $\quad$ alluding to: [[LXX.Exod.1.7|Exod 1:7]]

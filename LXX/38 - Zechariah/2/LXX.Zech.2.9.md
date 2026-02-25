@@ -1,6 +1,62 @@
+---
+title: LXX Zechariah 2:9
+type: Verse
+lxx: "For behold, I bear  my hand against them, and they will be spoils to the ones serving them. And you shall know that the lord almighty has sent me."
+greek: "διότι ιδού εγώ επιφέρω την χείρά μου επ΄ αυτούς και έσονται σκύλα τοις δουλευουσιν αυτοίς και γνώσεσθε ότι κύριος παντοκράτωρ εξαπέσταλκέ με"
+original_language: Greek
+testament: Old
+book: Zechariah
+chapter: 2
+book/chapter: "[[Zech.2|Zechariah 2]]"
+chronological_order: 858
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G1360]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G2018]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G4661]]"
+- "[[G3588]]"
+- "[[G1398]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G3754]]"
+- "[[G2962]]"
+- "[[G3841]]"
+- "[[G1821]]"
+- "[[G1473]]"
+---
+
 **LXX Zechariah 2:9** 
 <small><sub>**LXX:**</sub></small>
 For behold, I bear  my hand against them, and they will be spoils to the ones serving them. And you shall know that \[the\] <span class="smallcaps">lord</span> almighty has sent me. 
+<small><sub>**Greek:**</sub></small>
+[[G1360\|διότι]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G2018\|επιφέρω]] [[G3588\|την]] [[G5495\|χείρά]] [[G1473\|μου]] [[G1909\|επ΄]] [[G1473\|αυτούς]] [[G2532\|και]] [[G1510\|έσονται]] [[G4661\|σκύλα]] [[G3588\|τοις]] [[G1398\|δουλευουσιν]] [[G1473\|αυτοίς]] [[G2532\|και]] [[G1097\|γνώσεσθε]] [[G3754\|ότι]] [[G2962\|κύριος]] [[G3841\|παντοκράτωρ]] [[G1821\|εξαπέσταλκέ]] [[G1473\|με]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BABYLON|BABYLON]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Zech.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.8|<< Zechariah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.10|Zechariah 2:10 >>]]</td></tr></table>
 
@@ -27,6 +83,6 @@ For behold, I bear  my hand against them, and they will be spoils to the ones se
 | almighty | **<big>[[G3841\|παντοκράτωρ]]</big>** |
 | has sent | **<big>[[G1821\|εξαπέσταλκέ]]</big>** |
 | me. | **<big>[[G1473\|με]]</big>** |
-[[Zech.2.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.8|<< Zechariah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.10|Zechariah 2:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Zech.2.8|<< Zechariah 2:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Zech.2.10|Zechariah 2:10 >>]]</td></tr></table>
 
 

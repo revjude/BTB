@@ -1,8 +1,61 @@
+---
+title: Jeremiah 22:27
+type: Verse
+kjv: "But to the land whereunto they desire to return, thither shall they not return."
+bsb: "You will never return to the land for which you long.”"
+hebrew: "וְעַל־ הָאָ֗רֶץ אֲשֶׁר־ הֵ֛ם מְנַשְּׂאִ֥ים אֶת־ נַפְשָׁ֖ם לָשׁ֣וּב שָׁ֑ם שָׁ֖מָּה לֹ֥א יָשֽׁוּבוּ׃ ס"
+pericope: "[[Jer.22.24 A Warning to Coniah|A Warning to Coniah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H5375O]]"
+- "[[H0853]]"
+- "[[H5315L]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H7725G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3808]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 22:27**<big><big>[[Jer.22.24 A Warning to Coniah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But to the land whereunto they desire to return, thither shall they not return.
 <small><sub>**BSB:**</sub></small>
 You will never return to the land for which you long.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֛ם]] [[H5375O\|מְנַשְּׂאִ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5315L\|נַפְשָׁ֖]][[H9028\|ם]] [[H9005\|לָ]][[H7725G\|שׁ֣וּב]] [[H8033G\|שָׁ֑ם]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H3808\|לֹ֥א]] [[H7725G\|יָשֽׁוּבוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.26|<< Jeremiah 22:26]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.28|Jeremiah 22:28 >>]]</td></tr></table>
 
@@ -19,7 +72,7 @@ You will never return to the land for which you long.”
 | there  |**<big>&#8207;[[H8033G\|שָׁ֑ם]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there towards  |**<big>&#8207;[[H8033G\|שָׁ֖מָּ]]&#8207;&#8207;[[H9011\|ה]]&#8207; </big>**| Sha.ma<small><sup>[[HD]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will return  |**<big>&#8207;[[H7725G\|יָשֽׁוּבוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.Shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will return  |**<big>&#8207;[[H7725G\|יָשֽׁוּבוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.Shu.vu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.26|<< Jeremiah 22:26]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.28|Jeremiah 22:28 >>]]</td></tr></table>
 
 

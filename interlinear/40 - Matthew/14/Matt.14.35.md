@@ -1,10 +1,55 @@
+---
+title: Matthew 14:35
+type: Verse
+kjv: "And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;"
+bsb: "And when the men of that place recognized Jesus, they sent word to all the surrounding region. People brought all the sick to Him"
+greek: "καὶ ἐπιγνόντες αὐτὸν οἱ ἄνδρες τοῦ τόπου ἐκείνου ἀπέστειλαν εἰς ὅλην τὴν περίχωρον ἐκείνην καὶ προσήνεγκαν αὐτῷ πάντας τοὺς κακῶς ἔχοντας"
+pericope: "[[Matt.14.34 Jesus Heals at Gennesaret|Jesus Heals at Gennesaret]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1921]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G5117]]"
+- "[[G1565]]"
+- "[[G0649]]"
+- "[[G1519]]"
+- "[[G3650]]"
+- "[[G4066]]"
+- "[[G4374]]"
+- "[[G3956]]"
+- "[[G2560]]"
+- "[[G2192]]"
+texts:
+- NKO
+---
+
 **Matthew 14:35**<big><big>[[Matt.14.34 Jesus Heals at Gennesaret|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;
 <small><sub>**BSB:**</sub></small>
 And when the men of that place recognized Jesus, they sent word to all the surrounding region. People brought all the sick to Him
-<small><sub>**Literal:**</sub></small>
-And having recognized Him the men of the place that one sent to all <the> surrounding region that and brought to Him all those sick being<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.34|<< Matthew 14:34]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.36|Matthew 14:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1921\|ἐπιγνόντες]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G0435G\|ἄνδρες]]  [[G3588\|τοῦ]]  [[G5117\|τόπου]]  [[G1565\|ἐκείνου]]  [[G0649\|ἀπέστειλαν]]  [[G1519\|εἰς]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G4066\|περίχωρον]]  [[G1565\|ἐκείνην]]  [[G2532\|καὶ]]  [[G4374\|προσήνεγκαν]]  [[G0846\|αὐτῷ]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G2560\|κακῶς]]  [[G2192\|ἔχοντας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.34|<< Matthew 14:34]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.36|Matthew 14:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

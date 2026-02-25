@@ -1,10 +1,61 @@
+---
+title: Mark 4:10
+type: Verse
+kjv: "And when he was alone, they that were about him with the twelve asked of him the parable."
+bsb: "As soon as Jesus was alone with the Twelve and those around Him, they asked Him about the parable."
+greek: "Καὶ ὅτε δὲ ἐγένετο κατὰ μόνας, ἠρώτων αὐτὸν οἱ περὶ αὐτὸν σὺν τοῖς δώδεκα τὰς παραβολάς."
+pericope: "[[Mark.4.10 The Purpose of Jesus’ Parables|The Purpose of Jesus’ Parables]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G2596]]"
+- "[[G3441]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G4862]]"
+- "[[G1427]]"
+- "[[G3850]]"
+texts:
+- no
+- NKO
+- k
+- N(K)O
+---
+
 **Mark 4:10**<big><big>[[Mark.4.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was alone, they that were about him with the twelve asked of him the parable.
 <small><sub>**BSB:**</sub></small>
 As soon as Jesus was alone with the Twelve and those around Him, they asked Him about the parable.
-<small><sub>**Literal:**</sub></small>
-And when now He was utterly alone, they were asking Him those around Him with the Twelve about the parables.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.9|<< Mark 4:9]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.11|Mark 4:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G1096\|ἐγένετο]]  [[G2596\|κατὰ]]  [[G3441\|μόνας,]]  [[G2065\|ἠρώτων]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G4012\|περὶ]]  [[G0846\|αὐτὸν]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G1427\|δώδεκα]]  [[G3588\|τὰς]]  [[G3850\|παραβολάς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.9|<< Mark 4:9]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.11|Mark 4:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

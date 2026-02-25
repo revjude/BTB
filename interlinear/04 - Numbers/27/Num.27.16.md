@@ -1,8 +1,60 @@
+---
+title: Numbers 27:16
+type: Verse
+kjv: "Let the LORD, the God of the spirits of all flesh, set a man over the congregation,"
+bsb: "“May the LORD, the God of the spirits of all flesh, appoint a man over the congregation"
+hebrew: "יִפְקֹ֣ד יְהוָ֔ה אֱלֹהֵ֥י הָרוּחֹ֖ת לְכָל־ בָּשָׂ֑ר אִ֖ישׁ עַל־ הָעֵדָֽה׃"
+pericope: "[[Num.27.12 Moses Requests a Successor|Moses Requests a Successor]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H6485J]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H7307G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H0376G]]"
+- "[[H5921A]]"
+- "[[H5712]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 27:16**<big><big>[[Num.27.12 Moses Requests a Successor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the LORD, the God of the spirits of all flesh, set a man over the congregation,
 <small><sub>**BSB:**</sub></small>
 “May the LORD, the God of the spirits of all flesh, appoint a man over the congregation
+<small><sub>**Hebrew:**</sub></small>
+[[H6485J\|יִפְקֹ֣ד]] [[H3068G\|יְהוָ֔ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H9009\|הָ]][[H7307G\|רוּחֹ֖ת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1320\|בָּשָׂ֑ר]] [[H0376G\|אִ֖ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.15|<< Numbers 27:15]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.17|Numbers 27:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

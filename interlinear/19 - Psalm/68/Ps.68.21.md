@@ -1,8 +1,57 @@
+---
+title: Psalm 68:21
+type: Verse
+kjv: "But God shall wound the head of his enemies, and the hairy scalp of such an one as goeth on still in his trespasses."
+bsb: "Surely God will crush the heads of His enemies, the hairy crowns of those who persist in guilty ways."
+hebrew: "אַךְ־ אֱלֹהִ֗ים יִמְחַץ֮ רֹ֤אשׁ אֹ֫יְבָ֥יו קָדְקֹ֥ד שֵׂעָ֑ר מִ֝תְהַלֵּ֗ךְ בַּאֲשָׁמָֽיו׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H4272]]"
+- "[[H7218A]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H6936]]"
+- "[[H8181]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H0817]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:21**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But God shall wound the head of his enemies, [and] the hairy scalp of such an one as goeth on still in his trespasses.
 <small><sub>**BSB:**</sub></small>
 Surely God will crush the heads of His enemies, the hairy crowns of those who persist in guilty ways.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַךְ]][[H9014\|־]] [[H0430G\|אֱלֹהִ֗ים]] [[H4272\|יִמְחַץ֮]] [[H7218A\|רֹ֤אשׁ]] [[H0341\|אֹ֫יְבָ֥י]][[H9023\|ו]] [[H6936\|קָדְקֹ֥ד]] [[H8181\|שֵׂעָ֑ר]] [[H1980I\|מִ֝תְהַלֵּ֗ךְ]] [[H9003\|בַּ]][[H0817\|אֲשָׁמָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.20|<< Psalms 68:20]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.22|Psalms 68:22 >>]]</td></tr></table>
 

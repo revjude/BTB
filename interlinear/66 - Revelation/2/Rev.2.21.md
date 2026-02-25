@@ -1,10 +1,63 @@
+---
+title: Revelation 2:21
+type: Verse
+kjv: "And I gave her space to repent of her fornication; and she repented not."
+bsb: "Even though I have given her time to repent of her immorality, she is unwilling."
+jesus_said: "And I gave her space to repent of her fornication; and she repented not."
+greek: "καὶ ἔδωκα αὐτῇ χρόνον ἵνα μετανοήσῃ καὶ οὐ θέλει μετανοῆσαι ἐκ τῆς πορνείας αὐτῆς."
+pericope: "[[Rev.2.18 To the Church in Thyatira|To the Church in Thyatira]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G5550]]"
+- "[[G2443]]"
+- "[[G3340]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4202]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **Revelation 2:21**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I gave her space to repent of her fornication; and she repented not.
 <small><sub>**BSB:**</sub></small>
 Even though I have given her time to repent of her immorality, she is unwilling.
-<small><sub>**Literal:**</sub></small>
-And I have given to her time that she may repent and not she is willing to repent of the sexual immorality of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.20|<< Revelation 2:20]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.22|Revelation 2:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἔδωκα]]  [[G0846\|αὐτῇ]]  [[G5550\|χρόνον]]  [[G2443\|ἵνα]]  [[G3340\|μετανοήσῃ]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2309\|θέλει]]  [[G3340\|μετανοῆσαι]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4202\|πορνείας]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.20|<< Revelation 2:20]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.22|Revelation 2:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

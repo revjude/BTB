@@ -1,8 +1,51 @@
+---
+title: Proverbs 15:3
+type: Verse
+kjv: "The eyes of the LORD are in every place, beholding the evil and the good."
+bsb: "The eyes of the LORD are in every place, observing the evil and the good."
+hebrew: "בְּֽכָל־ מָ֭קוֹם עֵינֵ֣י יְהוָ֑ה צֹ֝פ֗וֹת רָעִ֥ים וטוֹבִֽים׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4725]]"
+- "[[H5869A]]"
+- "[[H3068G]]"
+- "[[H6822]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:3**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The eyes of the LORD [are] in every place, beholding the evil and the good.
 <small><sub>**BSB:**</sub></small>
 The eyes of the LORD are in every place, observing the evil and the good.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּֽ]][[H3605\|כָל]][[H9014\|־]] [[H4725\|מָ֭קוֹם]] [[H5869A\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H6822\|צֹ֝פ֗וֹת]] [[H7451H\|רָעִ֥ים]] [[H9002\|ו]][[H2896A\|טוֹבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.2|<< Proverbs 15:2]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.4|Proverbs 15:4 >>]]</td></tr></table>
 

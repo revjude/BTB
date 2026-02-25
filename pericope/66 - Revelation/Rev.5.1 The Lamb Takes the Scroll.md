@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lamb Takes the Scroll
+type: Pericope
 pericope: "[[Rev.5.1 The Lamb Takes the Scroll|The Lamb Takes the Scroll]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 5
 book/chapter: "[[Rev.5|Revelation 5]]"
-genre:
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 10
 verses:
 - "[[Rev.5.1]]"
 - "[[Rev.5.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Rev.5.10]]"
 ---
 
-[[Rev.5|Revelation 5:1 - Revelation 5:10]]
+<small>[[Rev.5|Revelation 5:1-10]]</small>
 *The Lamb Takes the Scroll*
 
 [[Rev.5.1|1]] And I saw in the right hand of him that sat on the throne a book written within and on the backside, sealed with seven seals.

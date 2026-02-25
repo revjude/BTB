@@ -1,8 +1,64 @@
+---
+title: Isaiah 65:19
+type: Verse
+kjv: "And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying."
+bsb: "I will rejoice in Jerusalem and take delight in My people. The sounds of weeping and crying will no longer be heard in her."
+hebrew: "וְגַלְתִּ֥י בִירוּשָׁלִַ֖ם וְשַׂשְׂתִּ֣י בְעַמִּ֑י וְלֹֽא־ יִשָּׁמַ֥ע בָּהּ֙ ע֔וֹד ק֥וֹל בְּכִ֖י וְק֥וֹל זְעָקָֽה׃"
+pericope: "[[Isa.65.17 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1523]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H7797]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9034]]"
+- "[[H5750]]"
+- "[[H6963H]]"
+- "[[H1065]]"
+- "[[H6963A]]"
+- "[[H2201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:19**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will rejoice in Jerusalem, and joy in my people: and the voice of weeping shall be no more heard in her, nor the voice of crying.
 <small><sub>**BSB:**</sub></small>
 I will rejoice in Jerusalem and take delight in My people. The sounds of weeping and crying will no longer be heard in her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1523\|גַלְתִּ֥י]] [[H9003\|בִ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H9001\|וְ]][[H7797\|שַׂשְׂתִּ֣י]] [[H9003\|בְ]][[H5971A\|עַמִּ֑]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|יִשָּׁמַ֥ע]] [[H9003\|בָּ]][[H9034\|הּ֙]] [[H5750\|ע֔וֹד]] [[H6963H\|ק֥וֹל]] [[H1065\|בְּכִ֖י]] [[H9002\|וְ]][[H6963A\|ק֥וֹל]] [[H2201\|זְעָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.18|<< Isaiah 65:18]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.20|Isaiah 65:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

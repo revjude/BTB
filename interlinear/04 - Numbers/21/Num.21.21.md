@@ -1,8 +1,61 @@
+---
+title: Numbers 21:21
+type: Verse
+kjv: "And Israel sent messengers unto Sihon king of the Amorites, saying,"
+bsb: "Then Israel sent messengers to Sihon king of the Amorites, saying,"
+hebrew: "וַיִּשְׁלַ֤ח יִשְׂרָאֵל֙ מַלְאָכִ֔ים אֶל־ סִיחֹ֥ן מֶֽלֶךְ־ הָאֱמֹרִ֖י לֵאמֹֽר׃"
+pericope: "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3478]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:21**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel sent messengers unto Sihon king of the Amorites, saying,
 <small><sub>**BSB:**</sub></small>
 Then Israel sent messengers to Sihon king of the Amorites, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H3478\|יִשְׂרָאֵל֙]] [[H4397G\|מַלְאָכִ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H5511\|סִיחֹ֥ן]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֖י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic AMORITES|AMORITES]] • [[topic CANAAN|CANAAN]] • [[topic ISRAEL|ISRAEL]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.20|<< Numbers 21:20]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.22|Numbers 21:22 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Exodus 37:25
+type: Verse
+kjv: "And he made the incense altar of shittim wood: the length of it was a cubit, and the breadth of it a cubit; it was foursquare; and two cubits was the height of it; the horns thereof were of the same."
+bsb: "He made the altar of incense out of acacia wood. It was square, a cubit long, a cubit wide, and two cubits high. Its horns were of one piece."
+hebrew: "וַיַּ֛עַשׂ אֶת־ מִזְבַּ֥ח הַקְּטֹ֖רֶת עֲצֵ֣י שִׁטִּ֑ים אַמָּ֣ה אָרְכּוֹ֩ וְאַמָּ֨ה רָחְבּ֜וֹ רָב֗וּעַ וְאַמָּתַ֙יִם֙ קֹֽמָת֔וֹ מִמֶּ֖נּוּ הָי֥וּ קַרְנֹתָֽיו׃"
+pericope: "[[Exod.37.25 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H7004]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H7251]]"
+- "[[H6967]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H7161A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:25**<big><big>[[Exod.37.25 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the incense altar [of] shittim wood: the length of it [was] a cubit, and the breadth of it a cubit; [it was] foursquare; and two cubits [was] the height of it; the horns thereof were of the same.
 <small><sub>**BSB:**</sub></small>
 He made the altar of incense out of acacia wood. It was square, a cubit long, a cubit wide, and two cubits high. Its horns were of one piece.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֛עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבַּ֥ח]] [[H9009\|הַ]][[H7004\|קְּטֹ֖רֶת]] [[H6086G\|עֲצֵ֣י]] [[H7848\|שִׁטִּ֑ים]] [[H0520A\|אַמָּ֣ה]] [[H0753\|אָרְכּ]][[H9023\|וֹ֩]] [[H9002\|וְ]][[H0520A\|אַמָּ֨ה]] [[H7341\|רָחְבּ֜]][[H9023\|וֹ]] [[H7251\|רָב֗וּעַ]] [[H9002\|וְ]][[H0520A\|אַמָּתַ֙יִם֙]] [[H6967\|קֹֽמָת֔]][[H9023\|וֹ]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H1961\|הָי֥וּ]] [[H7161A\|קַרְנֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.24|<< Exodus 37:24]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.26|Exodus 37:26 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Isaiah 29:23
+type: Verse
+kjv: "But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel."
+bsb: "For when he sees his children around him, the work of My hands, they will honor My name, they will sanctify the Holy One of Jacob, and they will stand in awe of the God of Israel."
+hebrew: "כִּ֣י בִ֠רְאֹתוֹ יְלָדָ֞יו מַעֲשֵׂ֥ה יָדַ֛י בְּקִרְבּ֖וֹ יַקְדִּ֣ישֽׁוּ שְׁמִ֑י וְהִקְדִּ֙ישׁוּ֙ אֶת־ קְד֣וֹשׁ יַֽעֲקֹ֔ב וְאֶת־ אֱלֹהֵ֥י יִשְׂרָאֵ֖ל יַעֲרִֽיצוּ׃"
+pericope: "[[Isa.29.17 Sanctification for the Godly|Sanctification for the Godly]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 29
+book/chapter: "[[Isa.29|Isaiah 29]]"
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H7200G]]"
+- "[[H9043]]"
+- "[[H3206]]"
+- "[[H9023]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H7130G]]"
+- "[[H6942G]]"
+- "[[H8034]]"
+- "[[H9001]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6918G]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H6206]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 29:23**<big><big>[[Isa.29.17 Sanctification for the Godly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.
 <small><sub>**BSB:**</sub></small>
 For when he sees his children around him, the work of My hands, they will honor My name, they will sanctify the Holy One of Jacob, and they will stand in awe of the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9003\|בִ֠]][[H7200G\|רְאֹת]][[H9043\|וֹ]] [[H3206\|יְלָדָ֞י]][[H9023\|ו]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H3027G\|יָדַ֛]][[H9020\|י]] [[H9003\|בְּ]][[H7130G\|קִרְבּ֖]][[H9023\|וֹ]] [[H6942G\|יַקְדִּ֣ישֽׁוּ]] [[H8034\|שְׁמִ֑]][[H9020\|י]] [[H9001\|וְ]][[H6942G\|הִקְדִּ֙ישׁוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6918G\|קְד֣וֹשׁ]] [[H3290\|יַֽעֲקֹ֔ב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H6206\|יַעֲרִֽיצוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REGENERATION|REGENERATION]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.29.22|<< Isaiah 29:22]]</td><td align="center" style="border:none;">[[Isa.29|Isaiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.29.24|Isaiah 29:24 >>]]</td></tr></table>
 

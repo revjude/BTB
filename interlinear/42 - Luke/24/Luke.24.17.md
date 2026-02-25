@@ -1,10 +1,60 @@
+---
+title: Luke 24:17
+type: Verse
+kjv: "And he said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?"
+bsb: "He asked them, “What are you discussing so intently as you walk along?” They stood still, with sadness on their faces."
+jesus_said: "What manner of communications are these that ye have one to another, as ye walk, and are sad?"
+greek: "εἶπεν δὲ πρὸς αὐτούς· τίνες οἱ λόγοι οὗτοι οὓς ἀντιβάλλετε πρὸς ἀλλήλους περιπατοῦντες; καὶ ἐστάθησαν σκυθρωποί."
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G0474]]"
+- "[[G0240]]"
+- "[[G4043]]"
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G4659]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 24:17**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, What manner of communications [are] these that ye have one to another, as ye walk, and are sad?
 <small><sub>**BSB:**</sub></small>
 He asked them, “What are you discussing so intently as you walk along?” They stood still, with sadness on their faces.
-<small><sub>**Literal:**</sub></small>
-He said then to them; What <the> words [are] these that you exchange with one another walking? And they stood still looking sad.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.16|<< Luke 24:16]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.18|Luke 24:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G5101\|τίνες]]  [[G3588\|οἱ]]  [[G3056\|λόγοι]]  [[G3778\|οὗτοι]]  [[G3739\|οὓς]]  [[G0474\|ἀντιβάλλετε]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους]]  [[G4043\|περιπατοῦντες;]]  [[G2532\|καὶ]]  [[G2476\|ἐστάθησαν]]  [[G4659\|σκυθρωποί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.16|<< Luke 24:16]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.18|Luke 24:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Seventh Seal
+type: Pericope
 pericope: "[[Rev.8.1 The Seventh Seal|The Seventh Seal]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 8
 book/chapter: "[[Rev.8|Revelation 8]]"
-genre:
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.8.1]]"
 - "[[Rev.8.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.8.5]]"
 ---
 
-[[Rev.8|Revelation 8:1 - Revelation 8:5]]
+<small>[[Rev.8|Revelation 8:1-5]]</small>
 *The Seventh Seal*
 
 [[Rev.8.1|1]] And when he had opened the seventh seal, there was silence in heaven about the space of half an hour.

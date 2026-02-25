@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 7:4
+type: Verse
+kjv: "And with them, by their generations, after the house of their fathers, were bands of soldiers for war, six and thirty thousand men: for they had many wives and sons."
+bsb: "In addition to them, according to their genealogy, they had 36,000 troops for battle, for they had many wives and children."
+hebrew: "וַעֲלֵיהֶ֨ם לְתֹלְדוֹתָ֜ם לְבֵ֣ית אֲבוֹתָ֗ם גְּדוּדֵי֙ צְבָ֣א מִלְחָמָ֔ה שְׁלֹשִׁ֥ים וְשִׁשָּׁ֖ה אָ֑לֶף כִּֽי־ הִרְבּ֥וּ נָשִׁ֖ים וּבָנִֽים׃"
+pericope: "[[1Chr.7.1 The Descendants of Issachar|The Descendants of Issachar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H8435]]"
+- "[[H9028]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H1416]]"
+- "[[H6635A]]"
+- "[[H4421]]"
+- "[[H7970]]"
+- "[[H8337]]"
+- "[[H0505G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7235A]]"
+- "[[H0802H]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:4**<big><big>[[1Chr.7.1 The Descendants of Issachar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with them, by their generations, after the house of their fathers, [were] bands of soldiers for war, six and thirty thousand [men]: for they had many wives and sons.
 <small><sub>**BSB:**</sub></small>
 In addition to them, according to their genealogy, they had 36,000 troops for battle, for they had many wives and children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֨ם]] [[H9005\|לְ]][[H8435\|תֹלְדוֹתָ֜]][[H9028\|ם]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבוֹתָ֗]][[H9028\|ם]] [[H1416\|גְּדוּדֵי֙]] [[H6635A\|צְבָ֣א]] [[H4421\|מִלְחָמָ֔ה]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H9002\|וְ]][[H8337\|שִׁשָּׁ֖ה]] [[H0505G\|אָ֑לֶף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7235A\|הִרְבּ֥וּ]] [[H0802H\|נָשִׁ֖ים]] [[H9002\|וּ]][[H1121A\|בָנִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.3|<< 1 Chronicles 7:3]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.5|1 Chronicles 7:5 >>]]</td></tr></table>
 

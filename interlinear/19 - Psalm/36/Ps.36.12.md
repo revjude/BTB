@@ -1,8 +1,54 @@
+---
+title: Psalm 36:12
+type: Verse
+kjv: "There are the workers of iniquity fallen: they are cast down, and shall not be able to rise."
+bsb: "There the evildoers lie fallen, thrown down and unable to rise."
+hebrew: "שָׁ֣ם נָ֭פְלוּ פֹּ֣עֲלֵי אָ֑וֶן דֹּ֝ח֗וּ וְלֹא־ יָ֥כְלוּ קֽוּם׃"
+pericope: "[[Ps.36.1 The Transgression of the Wicked|The Transgression of the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 36
+book/chapter: "[[Ps.36|Psalm 36]]"
+chronological_order: 364
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8033G]]"
+- "[[H5307G]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H1760A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H6965B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 36:12**<big><big>[[Ps.36.1 The Transgression of the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.
 <small><sub>**BSB:**</sub></small>
 There the evildoers lie fallen, thrown down and unable to rise.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֣ם]] [[H5307G\|נָ֭פְלוּ]] [[H6466\|פֹּ֣עֲלֵי]] [[H0205G\|אָ֑וֶן]] [[H1760A\|דֹּ֝ח֗וּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3201\|יָ֥כְלוּ]] [[H6965B\|קֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.36.11|<< Psalms 36:11]]</td><td align="center" style="border:none;">[[Ps.36|Psalms 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.0|Psalms 37:0 >>]]</td></tr></table>
 

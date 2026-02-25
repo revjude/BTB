@@ -1,8 +1,64 @@
+---
+title: Leviticus 25:8
+type: Verse
+kjv: "And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years."
+bsb: "And you shall count off seven Sabbaths of years—seven times seven years—so that the seven Sabbaths of years amount to forty-nine years."
+hebrew: "וְסָפַרְתָּ֣ לְךָ֗ שֶׁ֚בַע שַׁבְּתֹ֣ת שָׁנִ֔ים שֶׁ֥בַע שָׁנִ֖ים שֶׁ֣בַע פְּעָמִ֑ים וְהָי֣וּ לְךָ֗ יְמֵי֙ שֶׁ֚בַע שַׁבְּתֹ֣ת הַשָּׁנִ֔ים תֵּ֥שַׁע וְאַרְבָּעִ֖ים שָׁנָֽה׃"
+pericope: "[[Lev.25.8 The Year of Jubilee|The Year of Jubilee]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7651]]"
+- "[[H7676]]"
+- "[[H8141]]"
+- "[[H6471]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8672]]"
+- "[[H9002]]"
+- "[[H0705]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:8**<big><big>[[Lev.25.8 The Year of Jubilee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.
 <small><sub>**BSB:**</sub></small>
 And you shall count off seven Sabbaths of years—seven times seven years—so that the seven Sabbaths of years amount to forty-nine years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5608A\|סָפַרְתָּ֣]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H7651\|שֶׁ֚בַע]] [[H7676\|שַׁבְּתֹ֣ת]] [[H8141\|שָׁנִ֔ים]] [[H7651\|שֶׁ֥בַע]] [[H8141\|שָׁנִ֖ים]] [[H7651\|שֶׁ֣בַע]] [[H6471\|פְּעָמִ֑ים]] [[H9001\|וְ]][[H1961\|הָי֣וּ]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H3117G\|יְמֵי֙]] [[H7651\|שֶׁ֚בַע]] [[H7676\|שַׁבְּתֹ֣ת]] [[H9009\|הַ]][[H8141\|שָּׁנִ֔ים]] [[H8672\|תֵּ֥שַׁע]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֖ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic JUBILEE|JUBILEE]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.7|<< Leviticus 25:7]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.9|Leviticus 25:9 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Amos 7:8
+type: Verse
+kjv: "And the LORD said unto me, Amos, what seest thou? And I said, A plumbline. Then said the Lord, Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:"
+bsb: "“Amos, what do you see?” asked the LORD. “A plumb line,” I replied. “Behold,” said the Lord, “I am setting a plumb line among My people Israel; I will no longer spare them:"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י מָֽה־ אַתָּ֤ה רֹאֶה֙ עָמ֔וֹס וָאֹמַ֖ר אֲנָ֑ךְ וַיֹּ֣אמֶר אֲדֹנָ֗י הִנְנִ֨י שָׂ֤ם אֲנָךְ֙ בְּקֶ֙רֶב֙ עַמִּ֣י יִשְׂרָאֵ֔ל לֹֽא־ אוֹסִ֥יף ע֖וֹד עֲב֥וֹר לֽוֹ׃"
+pericope: "[[Amos.7.1 The Locusts, Fire, and Plumb Line|The Locusts, Fire, and Plumb Line]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 7
+book/chapter: "[[Amos.7|Amos 7]]"
+chronological_order: 604
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PLUMMET|PLUMMET]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H7200G]]"
+- "[[H5986]]"
+- "[[H0594]]"
+- "[[H0136]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7760A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 7:8**<big><big>[[Amos.7.1 The Locusts, Fire, and Plumb Line|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto me, Amos, what seest thou? And I said, A plumbline. Then said the Lord, Behold, I will set a plumbline in the midst of my people Israel: I will not again pass by them any more:
 <small><sub>**BSB:**</sub></small>
 “Amos, what do you see?” asked the LORD. “A plumb line,” I replied. “Behold,” said the Lord, “I am setting a plumb line among My people Israel; I will no longer spare them:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H4100\|מָֽה]][[H9014\|־]] [[H0859A\|אַתָּ֤ה]] [[H7200G\|רֹאֶה֙]] [[H5986\|עָמ֔וֹס]] [[H9001\|וָ]][[H0559\|אֹמַ֖ר]] [[H0594\|אֲנָ֑ךְ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0136\|אֲדֹנָ֗י]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H7760A\|שָׂ֤ם]] [[H0594\|אֲנָךְ֙]] [[H9003\|בְּ]][[H7130G\|קֶ֙רֶב֙]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|אוֹסִ֥יף]] [[H5750\|ע֖וֹד]] [[H5674A\|עֲב֥וֹר]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEROBOAM|JEROBOAM]] • [[topic PLUMMET|PLUMMET]] • [[topic SYMBOLS|SYMBOLS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.7|<< Amos 7:7]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.9|Amos 7:9 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Judges 10:7
+type: Verse
+kjv: "And the anger of the LORD was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon."
+bsb: "So the anger of the LORD burned against Israel, and He sold them into the hands of the Philistines and Ammonites,"
+hebrew: "וַיִּֽחַר־ אַ֥ף יְהוָ֖ה בְּיִשְׂרָאֵ֑ל וַֽיִּמְכְּרֵם֙ בְּיַד־ פְּלִשְׁתִּ֔ים וּבְיַ֖ד בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[Judg.10.6 Oppression by the Philistines and Ammonites|Oppression by the Philistines and Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H4376]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H6430G]]"
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 10:7**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was hot against Israel, and he sold them into the hands of the Philistines, and into the hands of the children of Ammon.
 <small><sub>**BSB:**</sub></small>
 So the anger of the LORD burned against Israel, and He sold them into the hands of the Philistines and Ammonites,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֥ף]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַֽ]][[H4376\|יִּמְכְּרֵ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַ֖ד]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AMMONITES|AMMONITES]] • [[topic ANGER|ANGER]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.6|<< Judges 10:6]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.8|Judges 10:8 >>]]</td></tr></table>
 

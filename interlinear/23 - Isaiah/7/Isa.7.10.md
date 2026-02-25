@@ -1,8 +1,53 @@
+---
+title: Isaiah 7:10
+type: Verse
+kjv: "Moreover the LORD spake again unto Ahaz, saying,"
+bsb: "Again the LORD spoke to Ahaz, saying,"
+hebrew: "וַיּ֣וֹסֶף יְהוָ֔ה דַּבֵּ֥ר אֶל־ אָחָ֖ז לֵאמֹֽר׃"
+pericope: "[[Isa.7.10 The Sign of Immanuel|The Sign of Immanuel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0271G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:10**<big><big>[[Isa.7.10 The Sign of Immanuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the LORD spake again unto Ahaz, saying,
 <small><sub>**BSB:**</sub></small>
 Again the LORD spoke to Ahaz, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יּ֣וֹסֶף]] [[H3068G\|יְהוָ֔ה]] [[H1696G\|דַּבֵּ֥ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0271G\|אָחָ֖ז]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic PEKAH|PEKAH]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.9|<< Isaiah 7:9]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.11|Isaiah 7:11 >>]]</td></tr></table>
 

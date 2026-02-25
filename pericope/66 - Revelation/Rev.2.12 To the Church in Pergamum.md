@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To the Church in Pergamum
+type: Pericope
 pericope: "[[Rev.2.12 To the Church in Pergamum|To the Church in Pergamum]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 2
 book/chapter: "[[Rev.2|Revelation 2]]"
-genre:
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 6
 verses:
 - "[[Rev.2.12]]"
 - "[[Rev.2.13]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rev.2.17]]"
 ---
 
-[[Rev.2|Revelation 2:12 - Revelation 2:17]]
+<small>[[Rev.2|Revelation 2:12-17]]</small>
 *To the Church in Pergamum*
 
 [[Rev.2.12|12]] And to the angel of the church in Pergamos write; These things saith he which hath the sharp sword with two edges;

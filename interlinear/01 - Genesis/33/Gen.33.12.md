@@ -1,8 +1,54 @@
+---
+title: Genesis 33:12
+type: Verse
+kjv: "And he said, Let us take our journey, and let us go, and I will go before thee."
+bsb: "Then Esau said, “Let us be on our way, and I will go ahead of you.”"
+hebrew: "וַיֹּ֖אמֶר נִסְעָ֣ה וְנֵלֵ֑כָה וְאֵלְכָ֖ה לְנֶגְדֶּֽךָ׃"
+pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5265]]"
+- "[[H9002]]"
+- "[[H1980M]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 33:12**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Let us take our journey, and let us go, and I will go before thee.
 <small><sub>**BSB:**</sub></small>
 Then Esau said, “Let us be on our way, and I will go ahead of you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H5265\|נִסְעָ֣ה]] [[H9002\|וְ]][[H1980M\|נֵלֵ֑כָה]] [[H9002\|וְ]][[H1980G\|אֵלְכָ֖ה]] [[H9005\|לְ]][[H5048\|נֶגְדֶּֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.11|<< Genesis 33:11]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.13|Genesis 33:13 >>]]</td></tr></table>
 

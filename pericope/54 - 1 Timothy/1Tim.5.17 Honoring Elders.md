@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Honoring Elders
+type: Pericope
 pericope: "[[1Tim.5.17 Honoring Elders|Honoring Elders]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 5
 book/chapter: "[[1Tim.5|1 Timothy 5]]"
-genre:
+chronological_order: 1130
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 4
 verses:
 - "[[1Tim.5.17]]"
 - "[[1Tim.5.18]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Tim.5.20]]"
 ---
 
-[[1Tim.5|1 Timothy 5:17 - 1 Timothy 5:20]]
+<small>[[1Tim.5|1 Timothy 5:17-20]]</small>
 *Honoring Elders*
 
 [[1Tim.5.17|17]] Let the elders that rule well be counted worthy of double honour, especially they who labour in the word and doctrine.

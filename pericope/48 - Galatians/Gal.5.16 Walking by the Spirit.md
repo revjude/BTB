@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Walking by the Spirit
+type: Pericope
 pericope: "[[Gal.5.16 Walking by the Spirit|Walking by the Spirit]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 5
 book/chapter: "[[Gal.5|Galatians 5]]"
-genre:
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 11
 verses:
 - "[[Gal.5.16]]"
 - "[[Gal.5.17]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gal.5.26]]"
 ---
 
-[[Gal.5|Galatians 5:16 - Galatians 5:26]]
+<small>[[Gal.5|Galatians 5:16-26]]</small>
 *Walking by the Spirit*
 
 [[Gal.5.16|16]] \[This\] I say then, Walk in the Spirit, and ye shall not fulfil the lust of the flesh.

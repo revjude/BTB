@@ -1,8 +1,55 @@
+---
+title: 2 Kings 16:4
+type: Verse
+kjv: "And he sacrificed and burnt incense in the high places, and on the hills, and under every green tree."
+bsb: "And he sacrificed and burned incense on the high places, on the hills, and under every green tree."
+hebrew: "וַיְזַבֵּ֧חַ וַיְקַטֵּ֛ר בַּבָּמ֖וֹת וְעַל־ הַגְּבָע֑וֹת וְתַ֖חַת כָּל־ עֵ֥ץ רַעֲנָֽן׃"
+pericope: "[[2Kgs.16.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H6999H]]"
+- "[[H9003]]"
+- "[[H1116]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1389I]]"
+- "[[H8478G]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H7488B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:4**<big><big>[[2Kgs.16.1 Ahaz Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sacrificed and burnt incense in the high places, and on the hills, and under every green tree.
 <small><sub>**BSB:**</sub></small>
 And he sacrificed and burned incense on the high places, on the hills, and under every green tree.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2076\|יְזַבֵּ֧חַ]] [[H9001\|וַ]][[H6999H\|יְקַטֵּ֛ר]] [[H9003\|בַּ]][[H1116\|בָּמ֖וֹת]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1389I\|גְּבָע֑וֹת]] [[H9002\|וְ]][[H8478G\|תַ֖חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֥ץ]] [[H7488B\|רַעֲנָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.3|<< 2 Kings 16:3]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.5|2 Kings 16:5 >>]]</td></tr></table>
 

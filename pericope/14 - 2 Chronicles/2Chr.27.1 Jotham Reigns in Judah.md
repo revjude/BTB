@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jotham Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.27.1 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 27
 book/chapter: "[[2Chr.27|2 Chronicles 27]]"
-genre:
+chronological_order: 608
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 9
 verses:
 - "[[2Chr.27.1]]"
 - "[[2Chr.27.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Chr.27.9]]"
 ---
 
-[[2Chr.27|2 Chronicles 27:1 - 2 Chronicles 27:9]]
+<small>[[2Chr.27|2 Chronicles 27:1-9]]</small>
 *Jotham Reigns in Judah*
 
 [[2Chr.27.1|1]] Jotham \[was\] twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also \[was\] Jerushah, the daughter of Zadok.

@@ -1,8 +1,64 @@
+---
+title: Isaiah 33:16
+type: Verse
+kjv: "He shall dwell on high: his place of defence shall be the munitions of rocks: bread shall be given him; his waters shall be sure."
+bsb: "he will dwell on the heights; the mountain fortress will be his refuge; his food will be provided and his water assured."
+hebrew: "ה֚וּא מְרוֹמִ֣ים יִשְׁכֹּ֔ן מְצָד֥וֹת סְלָעִ֖ים מִשְׂגַּבּ֑וֹ לַחְמ֣וֹ נִתָּ֔ן מֵימָ֖יו נֶאֱמָנִֽים׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FORT|FORT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H1931]]"
+- "[[H4791]]"
+- "[[H7931]]"
+- "[[H4679]]"
+- "[[H5553H]]"
+- "[[H4869A]]"
+- "[[H9023]]"
+- "[[H3899H]]"
+- "[[H5414G]]"
+- "[[H4325G]]"
+- "[[H0539]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:16**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall dwell on high: his place of defence [shall be] the munitions of rocks: bread shall be given him; his waters [shall be] sure.
 <small><sub>**BSB:**</sub></small>
 he will dwell on the heights; the mountain fortress will be his refuge; his food will be provided and his water assured.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֚וּא]] [[H4791\|מְרוֹמִ֣ים]] [[H7931\|יִשְׁכֹּ֔ן]] [[H4679\|מְצָד֥וֹת]] [[H5553H\|סְלָעִ֖ים]] [[H4869A\|מִשְׂגַּבּ֑]][[H9023\|וֹ]] [[H3899H\|לַחְמ֣]][[H9023\|וֹ]] [[H5414G\|נִתָּ֔ן]] [[H4325G\|מֵימָ֖י]][[H9023\|ו]] [[H0539\|נֶאֱמָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic BRIBERY|BRIBERY]] • [[topic CHURCH|CHURCH]] • [[topic FORT|FORT]] • [[topic GOD|GOD]] • [[topic HONESTY|HONESTY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.15|<< Isaiah 33:15]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.17|Isaiah 33:17 >>]]</td></tr></table>
 

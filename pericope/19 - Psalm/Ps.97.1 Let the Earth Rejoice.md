@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Let the Earth Rejoice
+type: Pericope
 pericope: "[[Ps.97.1 Let the Earth Rejoice|Let the Earth Rejoice]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 97
 book/chapter: "[[Ps.97|Psalm 97]]"
-genre:
+chronological_order: 524
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.97.1]]"
 - "[[Ps.97.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.97.12]]"
 ---
 
-[[Ps.97|Psalm 97:1 - Psalm 97:12]]
+<small>[[Ps.97|Psalm 97:1-12]]</small>
 *Let the Earth Rejoice*
 
 [[Ps.97.1|1]] The LORD reigneth; let the earth rejoice; let the multitude of isles be glad \[thereof\].

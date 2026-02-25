@@ -1,10 +1,80 @@
+---
+title: Acts 5:36
+type: Verse
+kjv: "For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought."
+bsb: "Some time ago Theudas rose up, claiming to be somebody, and about four hundred men joined him. He was killed, all his followers were dispersed, and it all came to nothing."
+greek: "πρὸ γὰρ τούτων τῶν ἡμερῶν ἀνέστη Θευδᾶς λέγων εἶναί τινα ἑαυτόν, ᾧ προσεκλίθη ἀνδρῶν ἀριθμὸς ὡς τετρακοσίων· ὃς ἀνῃρέθη, καὶ πάντες ὅσοι ἐπείθοντο αὐτῷ διελύθησαν καὶ ἐγένοντο εἰς οὐδέν."
+pericope: "[[Acts.5.33 Gamaliel’s Advice|Gamaliel’s Advice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GAMALIEL|GAMALIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SEDITION|SEDITION]]"
+- "[[topic THEUDAS|THEUDAS]]"
+strongs:
+- "[[G4253]]"
+- "[[G1063]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G0450]]"
+- "[[G2333]]"
+- "[[G3004G]]"
+- "[[G1511]]"
+- "[[G5100]]"
+- "[[G1438]]"
+- "[[G3739]]"
+- "[[G6076]]"
+- "[[G0435G]]"
+- "[[G0706]]"
+- "[[G5613]]"
+- "[[G5071]]"
+- "[[G0337]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G3982]]"
+- "[[G0846]]"
+- "[[G1262]]"
+- "[[G1096]]"
+- "[[G1519]]"
+- "[[G3762]]"
+texts:
+- NKO
+- N(k)(o)
+- N(k)O
+---
+
 **Acts 5:36**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For before these days rose up Theudas, boasting himself to be somebody; to whom a number of men, about four hundred, joined themselves: who was slain; and all, as many as obeyed him, were scattered, and brought to nought.
 <small><sub>**BSB:**</sub></small>
 Some time ago Theudas rose up, claiming to be somebody, and about four hundred men joined him. He was killed, all his followers were dispersed, and it all came to nothing.
-<small><sub>**Literal:**</sub></small>
-Before for these <the> days rose up Theudas affirming to be somebody himself, to whom were joined of men number about four hundred; who was executed, and all as many as were persuaded by him they were dispersed and they it came to no [thing].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.35|<< Acts 5:35]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.37|Acts 5:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4253\|πρὸ]]  [[G1063\|γὰρ]]  [[G3778\|τούτων]]  [[G3588\|τῶν]]  [[G2250\|ἡμερῶν]]  [[G0450\|ἀνέστη]]  [[G2333\|Θευδᾶς]]  [[G3004G\|λέγων]]  [[G1511\|εἶναί]]  [[G5100\|τινα]]  [[G1438\|ἑαυτόν,]]  [[G3739\|ᾧ]]  [[G6076\|προσεκλίθη]]  [[G0435G\|ἀνδρῶν]]  [[G0706\|ἀριθμὸς]]  [[G5613\|ὡς]]  [[G5071\|τετρακοσίων·]]  [[G3739\|ὃς]]  [[G0337\|ἀνῃρέθη,]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G3745\|ὅσοι]]  [[G3982\|ἐπείθοντο]]  [[G0846\|αὐτῷ]]  [[G1262\|διελύθησαν]]  [[G2532\|καὶ]]  [[G1096\|ἐγένοντο]]  [[G1519\|εἰς]]  [[G3762\|οὐδέν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GAMALIEL|GAMALIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SEDITION|SEDITION]] • [[topic THEUDAS|THEUDAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.35|<< Acts 5:35]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.37|Acts 5:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

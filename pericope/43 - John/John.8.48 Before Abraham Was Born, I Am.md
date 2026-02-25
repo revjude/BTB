@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Before Abraham Was Born, I Am
+type: Pericope
 pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: John
 chapter: 8
 book/chapter: "[[John.8|John 8]]"
-genre:
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 12
 verses:
 - "[[John.8.48]]"
 - "[[John.8.49]]"
@@ -30,7 +37,7 @@ verses:
 - "[[John.8.59]]"
 ---
 
-[[John.8|John 8:48 - John 8:59]]
+<small>[[John.8|John 8:48-59]]</small>
 *Before Abraham Was Born, I Am*
 
 [[John.8.48|48]] Then answered the Jews, and said unto him, Say we not well that thou art a Samaritan, and hast a devil?

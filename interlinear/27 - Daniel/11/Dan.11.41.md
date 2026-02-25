@@ -1,8 +1,63 @@
+---
+title: Daniel 11:41
+type: Verse
+kjv: "He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon."
+bsb: "He will also invade the Beautiful Land, and many countries will fall. But these will be delivered from his hand: Edom, Moab, and the leaders of the Ammonites."
+hebrew: "וּבָא֙ בְּאֶ֣רֶץ הַצְּבִ֔י וְרַבּ֖וֹת יִכָּשֵׁ֑לוּ וְאֵ֙לֶּה֙ יִמָּלְט֣וּ מִיָּד֔וֹ אֱד֣וֹם וּמוֹאָ֔ב וְרֵאשִׁ֖ית בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[Dan.11.36 The King Who Exalts Himself|The King Who Exalts Himself]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H6643A]]"
+- "[[H9002]]"
+- "[[H7227A]]"
+- "[[H3782]]"
+- "[[H0428]]"
+- "[[H4422]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H0123G]]"
+- "[[H4124G]]"
+- "[[H7225H]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:41**<big><big>[[Dan.11.36 The King Who Exalts Himself|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall enter also into the glorious land, and many [countries] shall be overthrown: but these shall escape out of his hand, [even] Edom, and Moab, and the chief of the children of Ammon.
 <small><sub>**BSB:**</sub></small>
 He will also invade the Beautiful Land, and many countries will fall. But these will be delivered from his hand: Edom, Moab, and the leaders of the Ammonites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָא֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H9009\|הַ]][[H6643A\|צְּבִ֔י]] [[H9002\|וְ]][[H7227A\|רַבּ֖וֹת]] [[H3782\|יִכָּשֵׁ֑לוּ]] [[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H4422\|יִמָּלְט֣וּ]] [[H9006\|מִ]][[H3027H\|יָּד֔]][[H9023\|וֹ]] [[H0123G\|אֱד֣וֹם]] [[H9002\|וּ]][[H4124G\|מוֹאָ֔ב]] [[H9002\|וְ]][[H7225H\|רֵאשִׁ֖ית]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic EDOM|EDOM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.40|<< Daniel 11:40]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.42|Daniel 11:42 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: 1 Kings 2:39
+type: Verse
+kjv: "And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, thy servants be in Gath."
+bsb: "After three years, however, two of Shimei’s slaves ran away to Achish son of Maacah, king of Gath. And Shimei was told, “Look, your slaves are in Gath.”"
+hebrew: "וַיְהִ֗י מִקֵּץ֙ שָׁלֹ֣שׁ שָׁנִ֔ים וַיִּבְרְח֤וּ שְׁנֵֽי־ עֲבָדִים֙ לְשִׁמְעִ֔י אֶל־ אָכִ֥ישׁ בֶּֽן־ מַעֲכָ֖ה מֶ֣לֶךְ גַּ֑ת וַיַּגִּ֤ידוּ לְשִׁמְעִי֙ לֵאמֹ֔ר הִנֵּ֥ה עֲבָדֶ֖יךָ בְּגַֽת׃"
+pericope: "[[1Kgs.2.36 The Execution of Shimei|The Execution of Shimei]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ACHISH|ACHISH]]"
+- "[[topic FUGITIVES|FUGITIVES]]"
+- "[[topic GATH|GATH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SHIMEI|SHIMEI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H1272]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H8096H]]"
+- "[[H0413]]"
+- "[[H0397]]"
+- "[[H1121A]]"
+- "[[H4601Q]]"
+- "[[H4428G]]"
+- "[[H1661]]"
+- "[[H5046]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:39**<big><big>[[1Kgs.2.36 The Execution of Shimei|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, thy servants [be] in Gath.
 <small><sub>**BSB:**</sub></small>
 After three years, however, two of Shimei’s slaves ran away to Achish son of Maacah, king of Gath. And Shimei was told, “Look, your slaves are in Gath.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9006\|מִ]][[H7093\|קֵּץ֙]] [[H7969\|שָׁלֹ֣שׁ]] [[H8141\|שָׁנִ֔ים]] [[H9001\|וַ]][[H1272\|יִּבְרְח֤וּ]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H5650\|עֲבָדִים֙]] [[H9005\|לְ]][[H8096H\|שִׁמְעִ֔י]] [[H0413\|אֶל]][[H9014\|־]] [[H0397\|אָכִ֥ישׁ]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H4601Q\|מַעֲכָ֖ה]] [[H4428G\|מֶ֣לֶךְ]] [[H1661\|גַּ֑ת]] [[H9001\|וַ]][[H5046\|יַּגִּ֤ידוּ]] [[H9005\|לְ]][[H8096H\|שִׁמְעִי֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2009\|הִנֵּ֥ה]] [[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H1661\|גַֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHISH|ACHISH]] • [[topic FUGITIVES|FUGITIVES]] • [[topic GATH|GATH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic MAACHAH|MAACHAH]] • [[topic SERVANT|SERVANT]] • [[topic SHIMEI|SHIMEI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.38|<< 1 Kings 2:38]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.40|1 Kings 2:40 >>]]</td></tr></table>
 

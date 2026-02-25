@@ -1,8 +1,56 @@
+---
+title: 1 Kings 9:18
+type: Verse
+kjv: "And Baalath, and Tadmor in the wilderness, in the land,"
+bsb: "Baalath, and Tamar in the Wilderness of Judah,"
+hebrew: "וְאֶֽת־ בַּעֲלָ֛ת וְאֶת־ תַּדְמֹ֥ר בַּמִּדְבָּ֖ר בָּאָֽרֶץ׃"
+pericope: "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BAALATH|BAALATH]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TADMOR|TADMOR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1191H]]"
+- "[[H8559K]]"
+- "[[H8412]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 9:18**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Baalath, and Tadmor in the wilderness, in the land,
 <small><sub>**BSB:**</sub></small>
 Baalath, and Tamar in the Wilderness of Judah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H1191H\|בַּעֲלָ֛ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8412\|תַּדְמֹ֥ר]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֖ר]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAALATH|BAALATH]] • [[topic ELIJAH|ELIJAH]] • [[topic SOLOMON|SOLOMON]] • [[topic TADMOR|TADMOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.17|<< 1 Kings 9:17]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.19|1 Kings 9:19 >>]]</td></tr></table>
 

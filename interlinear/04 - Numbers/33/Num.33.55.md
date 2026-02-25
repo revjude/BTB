@@ -1,8 +1,74 @@
+---
+title: Numbers 33:55
+type: Verse
+kjv: "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell."
+bsb: "But if you do not drive out the inhabitants of the land before you, those you allow to remain will become barbs in your eyes and thorns in your sides; they will harass you in the land where you settle."
+hebrew: "וְאִם־ לֹ֨א תוֹרִ֜ישׁוּ אֶת־ יֹשְׁבֵ֣י הָאָרֶץ֮ מִפְּנֵיכֶם֒ וְהָיָה֙ אֲשֶׁ֣ר תּוֹתִ֣ירוּ מֵהֶ֔ם לְשִׂכִּים֙ בְּעֵ֣ינֵיכֶ֔ם וְלִצְנִינִ֖ם בְּצִדֵּיכֶ֑ם וְצָרֲר֣וּ אֶתְכֶ֔ם עַל־ הָאָ֕רֶץ אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֥ים בָּֽהּ׃"
+pericope: "[[Num.33.50 Instructions for Occupying Canaan|Instructions for Occupying Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic THORN|THORN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0834A]]"
+- "[[H3498]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H7899]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H6796]]"
+- "[[H6654]]"
+- "[[H6887D]]"
+- "[[H9036]]"
+- "[[H5921A]]"
+- "[[H0859D]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:55**<big><big>[[Num.33.50 Instructions for Occupying Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them [shall be] pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.
 <small><sub>**BSB:**</sub></small>
 But if you do not drive out the inhabitants of the land before you, those you allow to remain will become barbs in your eyes and thorns in your sides; they will harass you in the land where you settle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֨א]] [[H3423H\|תוֹרִ֜ישׁוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֣י]] [[H9009\|הָ]][[H0776G\|אָרֶץ֮]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶם֒]] [[H9001\|וְ]][[H1961\|הָיָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3498\|תּוֹתִ֣ירוּ]] [[H9006\|מֵ]][[H9038\|הֶ֔ם]] [[H9005\|לְ]][[H7899\|שִׂכִּים֙]] [[H9003\|בְּ]][[H5869A\|עֵ֣ינֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H9005\|לִ]][[H6796\|צְנִינִ֖ם]] [[H9003\|בְּ]][[H6654\|צִדֵּי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H6887D\|צָרֲר֣וּ]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֖ם]] [[H3427\|יֹשְׁבִ֥ים]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic THORN|THORN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.54|<< Numbers 33:54]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.56|Numbers 33:56 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Psalm 37:34
+type: Verse
+kjv: "Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see it."
+bsb: "Wait for the LORD and keep His way, and He will raise you up to inherit the land. When the wicked are cut off, you will see it."
+hebrew: "קַוֵּ֤ה אֶל־ יְהוָ֨ה׀ וּשְׁמֹ֬ר דַּרְכּ֗וֹ וִֽ֭ירוֹמִמְךָ לָרֶ֣שֶׁת אָ֑רֶץ בְּהִכָּרֵ֖ת רְשָׁעִ֣ים תִּרְאֶֽה׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6960A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H8104G]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H7311A]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H3423G]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H3772I]]"
+- "[[H7563]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:34**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wait on the LORD, and keep his way, and he shall exalt thee to inherit the land: when the wicked are cut off, thou shalt see [it].
 <small><sub>**BSB:**</sub></small>
 Wait for the LORD and keep His way, and He will raise you up to inherit the land. When the wicked are cut off, you will see it.
+<small><sub>**Hebrew:**</sub></small>
+[[H6960A\|קַוֵּ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H9002\|וּ]][[H8104G\|שְׁמֹ֬ר]] [[H1870L\|דַּרְכּ֗]][[H9023\|וֹ]] [[H9002\|וִֽ֭]][[H7311A\|ירוֹמִמְ]][[H9031\|ךָ]] [[H9005\|לָ]][[H3423G\|רֶ֣שֶׁת]] [[H0776G\|אָ֑רֶץ]] [[H9003\|בְּ]][[H3772I\|הִכָּרֵ֖ת]] [[H7563\|רְשָׁעִ֣ים]] [[H7200G\|תִּרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic DESIRE|DESIRE]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.33|<< Psalms 37:33]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.35|Psalms 37:35 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 1:39
+type: Verse
+kjv: "Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it."
+bsb: "And the little ones you said would become captives—your children who on that day did not know good from evil—will enter the land that I will give them, and they will possess it."
+hebrew: "וְטַפְּכֶם֩ אֲשֶׁ֨ר אֲמַרְתֶּ֜ם לָבַ֣ז יִהְיֶ֗ה וּ֠בְנֵיכֶם אֲשֶׁ֨ר לֹא־ יָדְע֤וּ הַיּוֹם֙ ט֣וֹב וָרָ֔ע הֵ֖מָּה יָבֹ֣אוּ שָׁ֑מָּה וְלָהֶ֣ם אֶתְּנֶ֔נָּה וְהֵ֖ם יִירָשֽׁוּהָ׃"
+pericope: "[[Deut.1.34 Israel’s Penalty|Israel’s Penalty]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9002]]"
+- "[[H2945]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0957]]"
+- "[[H1961]]"
+- "[[H1121A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2896B]]"
+- "[[H7451B]]"
+- "[[H1992]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9038]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H3423H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:39**<big><big>[[Deut.1.34 Israel’s Penalty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
 <small><sub>**BSB:**</sub></small>
 And the little ones you said would become captives—your children who on that day did not know good from evil—will enter the land that I will give them, and they will possess it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2945\|טַפְּ]][[H9026\|כֶם֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H0559\|אֲמַרְתֶּ֜ם]] [[H9005\|לָ]][[H0957\|בַ֣ז]] [[H1961\|יִהְיֶ֗ה]] [[H9002\|וּ֠]][[H1121A\|בְנֵי]][[H9026\|כֶם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדְע֤וּ]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H2896B\|ט֣וֹב]] [[H9002\|וָ]][[H7451B\|רָ֔ע]] [[H1992\|הֵ֖מָּה]] [[H0935G\|יָבֹ֣אוּ]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H9002\|וְ]][[H9005\|לָ]][[H9038\|הֶ֣ם]] [[H5414G\|אֶתְּנֶ֔]][[H9034\|נָּה]] [[H9002\|וְ]][[H1992\|הֵ֖ם]] [[H3423H\|יִירָשֽׁוּ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.38|<< Deuteronomy 1:38]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.40|Deuteronomy 1:40 >>]]</td></tr></table>
 

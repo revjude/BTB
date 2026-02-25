@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Vision of the Horses
+type: Pericope
 pericope: "[[Zech.1.7 The Vision of the Horses|The Vision of the Horses]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 1
 book/chapter: "[[Zech.1|Zechariah 1]]"
-genre:
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 11
 verses:
 - "[[Zech.1.7]]"
 - "[[Zech.1.8]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Zech.1.17]]"
 ---
 
-[[Zech.1|Zechariah 1:7 - Zechariah 1:17]]
+<small>[[Zech.1|Zechariah 1:7-17]]</small>
 *The Vision of the Horses*
 
 [[Zech.1.7|7]] Upon the four and twentieth day of the eleventh month, which \[is\] the month Sebat, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,

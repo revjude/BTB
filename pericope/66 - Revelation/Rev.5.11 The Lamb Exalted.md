@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lamb Exalted
+type: Pericope
 pericope: "[[Rev.5.11 The Lamb Exalted|The Lamb Exalted]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 5
 book/chapter: "[[Rev.5|Revelation 5]]"
-genre:
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 4
 verses:
 - "[[Rev.5.11]]"
 - "[[Rev.5.12]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rev.5.14]]"
 ---
 
-[[Rev.5|Revelation 5:11 - Revelation 5:14]]
+<small>[[Rev.5|Revelation 5:11-14]]</small>
 *The Lamb Exalted*
 
 [[Rev.5.11|11]] And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;

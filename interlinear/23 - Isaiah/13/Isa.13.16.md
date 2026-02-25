@@ -1,8 +1,56 @@
+---
+title: Isaiah 13:16
+type: Verse
+kjv: "Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished."
+bsb: "Their infants will be dashed to pieces before their eyes, their houses will be looted, and their wives will be ravished."
+hebrew: "וְעֹלְלֵיהֶ֥ם יְרֻטְּשׁ֖וּ לְעֵֽינֵיהֶ֑ם יִשַּׁ֙סּוּ֙ בָּֽתֵּיהֶ֔ם וּנְשֵׁיהֶ֖ם תִּשָּׁכַֽבְנָה׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H5768]]"
+- "[[H9028]]"
+- "[[H7376]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H8155]]"
+- "[[H1004B]]"
+- "[[H0802H]]"
+- "[[H7693]]"
+- "[[H9016]]"
+- "[[H7901I]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 13:16**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
 <small><sub>**BSB:**</sub></small>
 Their infants will be dashed to pieces before their eyes, their houses will be looted, and their wives will be ravished.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5768\|עֹלְלֵי]][[H9028\|הֶ֥ם]] [[H7376\|יְרֻטְּשׁ֖וּ]] [[H9005\|לְ]][[H5869A\|עֵֽינֵי]][[H9028\|הֶ֑ם]] [[H8155\|יִשַּׁ֙סּוּ֙]] [[H1004B\|בָּֽתֵּי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H0802H\|נְשֵׁי]][[H9028\|הֶ֖ם]] [[H7901I\|תִּשָּׁכַֽבְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRUELTY|CRUELTY]] • [[topic RAPE|RAPE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.15|<< Isaiah 13:15]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.17|Isaiah 13:17 >>]]</td></tr></table>
 
@@ -17,6 +65,6 @@ Their infants will be dashed to pieces before their eyes, their houses will be l
 | they will be lain with  [^1]|**<big>&#8207;[[H7901I\|תִּשָּׁכַֽבְנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^2] | ti.sha.khab.nah<small><sup>[[HVNi3fp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.15|<< Isaiah 13:15]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.17|Isaiah 13:17 >>]]</td></tr></table>
 
-[^1]: they will be raped  | **<big>[[H9016|׃]]</big><big>[[H7693|תִּשָּׁגַלְנָה]]</big> ** | ti.sha.gal.nah<small><sup>[[HVNi3fp]]</sup></small> | K
+[^1]: they will be raped  | **<big>[[H7693|תִּשָּׁגַלְנָה]]</big><big>[[H9016|׃]]</big> ** | ti.sha.gal.nah<small><sup>[[HVNi3fp]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>תִּשָּׁגַֽלְנָה\׃</big></span>**
 

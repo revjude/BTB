@@ -1,8 +1,61 @@
+---
+title: Jeremiah 38:24
+type: Verse
+kjv: "Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou shalt not die."
+bsb: "Then Zedekiah warned Jeremiah, “Do not let anyone know about this conversation, or you will die."
+hebrew: "וַיֹּ֨אמֶר צִדְקִיָּ֜הוּ אֶֽל־ יִרְמְיָ֗הוּ אִ֛ישׁ אַל־ יֵדַ֥ע בַּדְּבָֽרִים־ הָאֵ֖לֶּה וְלֹ֥א תָמֽוּת׃"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic KING|KING]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6667H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H0376I]]"
+- "[[H0408]]"
+- "[[H3045]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 38:24**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Zedekiah unto Jeremiah, Let no man know of these words, and thou shalt not die.
 <small><sub>**BSB:**</sub></small>
 Then Zedekiah warned Jeremiah, “Do not let anyone know about this conversation, or you will die.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H6667H\|צִדְקִיָּ֜הוּ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֗הוּ]] [[H0376I\|אִ֛ישׁ]] [[H0408\|אַל]][[H9014\|־]] [[H3045\|יֵדַ֥ע]] [[H9003\|בַּ]][[H1697G\|דְּבָֽרִים]][[H9014\|־]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4191\|תָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.23|<< Jeremiah 38:23]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.25|Jeremiah 38:25 >>]]</td></tr></table>
 

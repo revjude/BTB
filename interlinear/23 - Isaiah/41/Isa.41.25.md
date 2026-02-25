@@ -1,8 +1,64 @@
+---
+title: Isaiah 41:25
+type: Verse
+kjv: "I have raised up one from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as upon morter, and as the potter treadeth clay."
+bsb: "I have raised up one from the north, and he has come—one from the east who calls on My name. He will march over rulers as if they were mortar, like a potter who treads the clay."
+hebrew: "הַעִיר֤וֹתִי מִצָּפוֹן֙ וַיַּ֔את מִמִּזְרַח־ שֶׁ֖מֶשׁ יִקְרָ֣א בִשְׁמִ֑י וְיָבֹ֤א סְגָנִים֙ כְּמוֹ־ חֹ֔מֶר וּכְמ֥וֹ יוֹצֵ֖ר יִרְמָס־ טִֽיט׃"
+pericope: "[[Isa.41.21 Meaningless Idols|Meaningless Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CLAY|CLAY]]"
+- "[[topic MORTAR|MORTAR]]"
+- "[[topic POTTERY|POTTERY]]"
+strongs:
+- "[[H5782]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9001]]"
+- "[[H0857]]"
+- "[[H4217H]]"
+- "[[H9014]]"
+- "[[H8121]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H5461]]"
+- "[[H3644G]]"
+- "[[H2563C]]"
+- "[[H3335H]]"
+- "[[H7429]]"
+- "[[H2916]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:25**<big><big>[[Isa.41.21 Meaningless Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have raised up [one] from the north, and he shall come: from the rising of the sun shall he call upon my name: and he shall come upon princes as [upon] morter, and as the potter treadeth clay.
 <small><sub>**BSB:**</sub></small>
 I have raised up one from the north, and he has come—one from the east who calls on My name. He will march over rulers as if they were mortar, like a potter who treads the clay.
+<small><sub>**Hebrew:**</sub></small>
+[[H5782\|הַעִיר֤וֹתִי]] [[H9006\|מִ]][[H6828G\|צָּפוֹן֙]] [[H9001\|וַ]][[H0857\|יַּ֔את]] [[H9006\|מִ]][[H4217H\|מִּזְרַח]][[H9014\|־]] [[H8121\|שֶׁ֖מֶשׁ]] [[H7121G\|יִקְרָ֣א]] [[H9003\|בִ]][[H8034\|שְׁמִ֑]][[H9020\|י]] [[H9002\|וְ]][[H0935G\|יָבֹ֤א]] [[H5461\|סְגָנִים֙]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H2563C\|חֹ֔מֶר]] [[H9002\|וּ]][[H3644G\|כְמ֥וֹ]] [[H3335H\|יוֹצֵ֖ר]] [[H7429\|יִרְמָס]][[H9014\|־]] [[H2916\|טִֽיט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAY|CLAY]] • [[topic MORTAR|MORTAR]] • [[topic POTTERY|POTTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.24|<< Isaiah 41:24]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.26|Isaiah 41:26 >>]]</td></tr></table>
 

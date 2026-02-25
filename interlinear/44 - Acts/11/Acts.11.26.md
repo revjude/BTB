@@ -1,10 +1,68 @@
+---
+title: Acts 11:26
+type: Verse
+kjv: "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch."
+bsb: "and when he found him, he brought him back to Antioch. So for a full year they met together with the church and taught large numbers of people. The disciples were first called Christians at Antioch."
+greek: "καὶ εὑρὼν αὐτὸν ἤγαγεν αὐτὸν εἰς Ἀντιόχειαν. ἐγένετο δὲ αὐτοῖς καὶ ἐνιαυτὸν ὅλον συναχθῆναι ἐν τῇ ἐκκλησίᾳ καὶ διδάξαι ὄχλον ἱκανόν, χρηματίσαι τε πρώτως ἐν Ἀντιοχείᾳ τοὺς μαθητὰς Χριστιανούς.¶"
+pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CHRISTIAN|CHRISTIAN]]"
+- "[[topic DISCIPLE|DISCIPLE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TARSUS|TARSUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G0071]]"
+- "[[G1519]]"
+- "[[G0490G]]"
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1763]]"
+- "[[G3650]]"
+- "[[G4863]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G1321]]"
+- "[[G3793]]"
+- "[[G2425]]"
+- "[[G5537]]"
+- "[[G5037]]"
+- "[[G6078]]"
+- "[[G3101]]"
+- "[[G5546]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 11:26**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch.
 <small><sub>**BSB:**</sub></small>
 and when he found him, he brought him back to Antioch. So for a full year they met together with the church and taught large numbers of people. The disciples were first called Christians at Antioch.
-<small><sub>**Literal:**</sub></small>
-and having found him he brought him to Antioch. It came to pass [that] now they also a year whole gathering together in the church and teaching a crowd large, Were calling then first in Antioch the disciples Christians.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.25|<< Acts 11:25]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.27|Acts 11:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2147\|εὑρὼν]]  [[G0846\|αὐτὸν]]  [[G0071\|ἤγαγεν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G0490G\|Ἀντιόχειαν.]]  [[G1096\|ἐγένετο]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G1763\|ἐνιαυτὸν]]  [[G3650\|ὅλον]]  [[G4863\|συναχθῆναι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ]]  [[G2532\|καὶ]]  [[G1321\|διδάξαι]]  [[G3793\|ὄχλον]]  [[G2425\|ἱκανόν,]]  [[G5537\|χρηματίσαι]]  [[G5037\|τε]]  [[G6078\|πρώτως]]  [[G1722\|ἐν]]  [[G0490G\|Ἀντιοχείᾳ]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G5546\|Χριστιανούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CHRISTIAN|CHRISTIAN]] • [[topic DISCIPLE|DISCIPLE]] • [[topic PAUL|PAUL]] • [[topic TARSUS|TARSUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.25|<< Acts 11:25]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.27|Acts 11:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

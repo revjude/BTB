@@ -1,10 +1,63 @@
+---
+title: Mark 13:34
+type: Verse
+kjv: "For the Son of man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch."
+bsb: "It is like a man going on a journey who left his house, put each servant in charge of his own task, and instructed the doorkeeper to keep watch."
+jesus_said: "For the Son of man is as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch."
+greek: "ὡς ἄνθρωπος ἀπόδημος ἀφεὶς τὴν οἰκίαν αὐτοῦ καὶ δοὺς τοῖς δούλοις αὐτοῦ τὴν ἐξουσίαν, καὶ ἑκάστῳ τὸ ἔργον αὐτοῦ, καὶ τῷ θυρωρῷ ἐνετείλατο ἵνα γρηγορῇ."
+pericope: "[[Mark.13.32 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G5613]]"
+- "[[G0444]]"
+- "[[G0590]]"
+- "[[G0863G]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1401]]"
+- "[[G1849]]"
+- "[[G1538]]"
+- "[[G2041]]"
+- "[[G2377]]"
+- "[[G1781]]"
+- "[[G2443]]"
+- "[[G1127]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 13:34**<big><big>[[Mark.13.32 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [For the Son of man is] as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.
 <small><sub>**BSB:**</sub></small>
 It is like a man going on a journey who left his house, put each servant in charge of his own task, and instructed the doorkeeper to keep watch.
-<small><sub>**Literal:**</sub></small>
-[It is] like a man going on a journey having left the house of him and having given to the servants of him <the> authority, and to each one the work of him, And the doorkeeper he commanded that he may keep watch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.33|<< Mark 13:33]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.35|Mark 13:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G0444\|ἄνθρωπος]]  [[G0590\|ἀπόδημος]]  [[G0863G\|ἀφεὶς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1325\|δοὺς]]  [[G3588\|τοῖς]]  [[G1401\|δούλοις]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν,]]  [[G2532\|καὶ]]  [[G1538\|ἑκάστῳ]]  [[G3588\|τὸ]]  [[G2041\|ἔργον]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G2377\|θυρωρῷ]]  [[G1781\|ἐνετείλατο]]  [[G2443\|ἵνα]]  [[G1127\|γρηγορῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.33|<< Mark 13:33]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.35|Mark 13:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,61 @@
+---
+title: Psalm 31:10
+type: Verse
+kjv: "For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed."
+bsb: "For my life is consumed with grief and my years with groaning; my iniquity has drained my strength, and my bones are wasting away."
+hebrew: "כִּ֤י כָל֪וּ בְיָג֡וֹן חַיַּי֮ וּשְׁנוֹתַ֪י בַּאֲנָ֫חָ֥ה כָּשַׁ֣ל בַּעֲוֹנִ֣י כֹחִ֑י וַעֲצָמַ֥י עָשֵֽׁשׁוּ׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REMORSE|REMORSE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3615J]]"
+- "[[H9003]]"
+- "[[H3015]]"
+- "[[H2416E]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H8141]]"
+- "[[H0585]]"
+- "[[H3782]]"
+- "[[H5771G]]"
+- "[[H3581B]]"
+- "[[H6106G]]"
+- "[[H6244]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:10**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed.
 <small><sub>**BSB:**</sub></small>
 For my life is consumed with grief and my years with groaning; my iniquity has drained my strength, and my bones are wasting away.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3615J\|כָל֪וּ]] [[H9003\|בְ]][[H3015\|יָג֡וֹן]] [[H2416E\|חַיַּ]][[H9020\|י֮]] [[H9002\|וּ]][[H8141\|שְׁנוֹתַ֪]][[H9020\|י]] [[H9003\|בַּ]][[H0585\|אֲנָ֫חָ֥ה]] [[H3782\|כָּשַׁ֣ל]] [[H9003\|בַּ]][[H5771G\|עֲוֹנִ֣]][[H9020\|י]] [[H3581B\|כֹחִ֑]][[H9020\|י]] [[H9002\|וַ]][[H6106G\|עֲצָמַ֥]][[H9020\|י]] [[H6244\|עָשֵֽׁשׁוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVICTION|CONVICTION]] • [[topic PRAYER|PRAYER]] • [[topic REMORSE|REMORSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.9|<< Psalms 31:9]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.11|Psalms 31:11 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Luke 6:29
+type: Verse
+kjv: "And unto him that smiteth thee on the one cheek offer also the other; and him that taketh away thy cloke forbid not to take thy coat also."
+bsb: "If someone strikes you on one cheek, turn to him the other also. And if someone takes your cloak, do not withhold your tunic as well."
+jesus_said: "And unto him that smiteth thee on the one cheek offer also the other; and him that taketh away thy cloke forbid not to take thy coat also."
+greek: "τῷ τύπτοντί σε ἐπὶ τὴν σιαγόνα, πάρεχε καὶ τὴν ἄλλην· καὶ ἀπὸ τοῦ αἴροντός σου τὸ ἱμάτιον καὶ τὸν χιτῶνα μὴ κωλύσῃς.¶"
+pericope: "[[Luke.6.27 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G3588]]"
+- "[[G5180]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G4600]]"
+- "[[G3930]]"
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G0575]]"
+- "[[G0142]]"
+- "[[G2440]]"
+- "[[G5509]]"
+- "[[G3361]]"
+- "[[G2967]]"
+texts:
+- NKO
+---
+
 **Luke 6:29**<big><big>[[Luke.6.27 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And unto him that smiteth thee on the [one] cheek offer also the other; and him that taketh away thy cloke forbid not [to take thy] coat also.
 <small><sub>**BSB:**</sub></small>
 If someone strikes you on one cheek, turn to him the other also. And if someone takes your cloak, do not withhold your tunic as well.
-<small><sub>**Literal:**</sub></small>
-To the [one] striking you on the cheek, do offer also the other; and from the [one] taking away your <the> cloak also the tunic not may do withhold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.28|<< Luke 6:28]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.30|Luke 6:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῷ]]  [[G5180\|τύπτοντί]]  [[G4771\|σε]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G4600\|σιαγόνα,]]  [[G3930\|πάρεχε]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0243\|ἄλλην·]]  [[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G0142\|αἴροντός]]  [[G4771\|σου]]  [[G3588\|τὸ]]  [[G2440\|ἱμάτιον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G5509\|χιτῶνα]]  [[G3361\|μὴ]]  [[G2967\|κωλύσῃς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DRESS|DRESS]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALICE|MALICE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.28|<< Luke 6:28]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.30|Luke 6:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

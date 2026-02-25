@@ -1,8 +1,63 @@
+---
+title: Jonah 2:9
+type: Verse
+kjv: "But I will sacrifice unto thee with the voice of thanksgiving; I will pay that that I have vowed. Salvation is of the LORD."
+bsb: "But I, with the voice of thanksgiving, will sacrifice to You. I will fulfill what I have vowed. Salvation is from the LORD!”"
+hebrew: "וַאֲנִ֗י בְּק֤וֹל תּוֹדָה֙ אֶזְבְּחָה־ לָּ֔ךְ אֲשֶׁ֥ר נָדַ֖רְתִּי אֲשַׁלֵּ֑מָה יְשׁוּעָ֖תָה לַיהוָֽה׃ ס"
+pericope: "[[Jonah.2.1 Jonah’s Prayer|Jonah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 2
+book/chapter: "[[Jonah.2|Jonah 2]]"
+chronological_order: 595
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H8426]]"
+- "[[H2076]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0834A]]"
+- "[[H5087]]"
+- "[[H7999A]]"
+- "[[H3444]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jonah 2:9**<big><big>[[Jonah.2.1 Jonah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will sacrifice unto thee with the voice of thanksgiving; I will pay [that] that I have vowed. Salvation [is] of the LORD.
 <small><sub>**BSB:**</sub></small>
 But I, with the voice of thanksgiving, will sacrifice to You. I will fulfill what I have vowed. Salvation is from the LORD!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H9003\|בְּ]][[H6963A\|ק֤וֹל]] [[H8426\|תּוֹדָה֙]] [[H2076\|אֶזְבְּחָה]][[H9014\|־]] [[H9005\|לָּ֔]][[H9031\|ךְ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5087\|נָדַ֖רְתִּי]] [[H7999A\|אֲשַׁלֵּ֑מָה]] [[H3444\|יְשׁוּעָ֖תָה]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.8|<< Jonah 2:8]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.10|Jonah 2:10 >>]]</td></tr></table>
 
@@ -17,7 +72,7 @@ But I, with the voice of thanksgiving, will sacrifice to You. I will fulfill wha
 | I have vowed  |**<big>&#8207;[[H5087\|נָדַ֖רְתִּי]]&#8207; </big>**| na.Dar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will fulfill  |**<big>&#8207;[[H7999A\|אֲשַׁלֵּ֑מָה]]&#8207; </big>**| 'a.sha.Le.mah<small><sup>[[HVpc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rescue  |**<big>&#8207;[[H3444\|יְשׁוּעָ֖תָה]]&#8207; </big>**| ye.shu.'A.tah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [belongs] to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [belongs] to Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.2.8|<< Jonah 2:8]]</td><td align="center" style="border:none;">[[Jonah.2|Jonah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.2.10|Jonah 2:10 >>]]</td></tr></table>
 
 

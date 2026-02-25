@@ -1,10 +1,58 @@
+---
+title: Matthew 23:2
+type: Verse
+kjv: "Saying, The scribes and the Pharisees sit in Moses’ seat:"
+bsb: "“The scribes and Pharisees sit in Moses’ seat."
+jesus_said: "The scribes and the Pharisees sit in Moses’ seat:"
+greek: "λέγων· ἐπὶ τῆς Μωϋσέως καθέδρας ἐκάθισαν οἱ γραμματεῖς καὶ οἱ Φαρισαῖοι·"
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3475]]"
+- "[[G2515]]"
+- "[[G2523]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+texts:
+- NKO
+---
+
 **Matthew 23:2**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, The scribes and the Pharisees sit in Moses’ seat:
 <small><sub>**BSB:**</sub></small>
 “The scribes and Pharisees sit in Moses’ seat.
-<small><sub>**Literal:**</sub></small>
-saying; On <the> Moses’ seat sat down the scribes and the Pharisees;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.1|<< Matthew 23:1]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.3|Matthew 23:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων·]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G3475\|Μωϋσέως]]  [[G2515\|καθέδρας]]  [[G2523\|ἐκάθισαν]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic OPPRESSION|OPPRESSION]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.1|<< Matthew 23:1]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.3|Matthew 23:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

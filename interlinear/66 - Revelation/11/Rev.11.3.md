@@ -1,10 +1,57 @@
+---
+title: Revelation 11:3
+type: Verse
+kjv: "And I will give power unto my two witnesses, and they shall prophesy a thousand two hundred and threescore days, clothed in sackcloth."
+bsb: "And I will empower my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.”"
+greek: "Καὶ δώσω τοῖς δυσὶν μάρτυσίν μου, καὶ προφητεύσουσιν ἡμέρας χιλίας διακοσίας ἑξήκοντα περιβεβλημένοι σάκκους."
+pericope: "[[Rev.11.1 The Two Witnesses|The Two Witnesses]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G3144]]"
+- "[[G3165]]"
+- "[[G4395]]"
+- "[[G2250]]"
+- "[[G5507]]"
+- "[[G1250]]"
+- "[[G1835]]"
+- "[[G4016]]"
+- "[[G4526]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 11:3**<big><big>[[Rev.11.1 The Two Witnesses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I will give [power] unto my two witnesses, and they shall prophesy a thousand two hundred [and] threescore days, clothed in sackcloth.
 <small><sub>**BSB:**</sub></small>
 And I will empower my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth.”
-<small><sub>**Literal:**</sub></small>
-And I will grant to the two witnesses of mine, and they will prophesy days a thousand two hundred sixty having clothed themselves in sackcloth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.2|<< Revelation 11:2]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.4|Revelation 11:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1325\|δώσω]]  [[G3588\|τοῖς]]  [[G1417\|δυσὶν]]  [[G3144\|μάρτυσίν]]  [[G3165\|μου,]]  [[G2532\|καὶ]]  [[G4395\|προφητεύσουσιν]]  [[G2250\|ἡμέρας]]  [[G5507\|χιλίας]]  [[G1250\|διακοσίας]]  [[G1835\|ἑξήκοντα]]  [[G4016\|περιβεβλημένοι]]  [[G4526\|σάκκους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic VISION|VISION]] • [[topic WITNESS|WITNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.2|<< Revelation 11:2]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.4|Revelation 11:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

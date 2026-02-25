@@ -1,8 +1,58 @@
+---
+title: Psalm 109:28
+type: Verse
+kjv: "Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice."
+bsb: "Though they curse, You will bless. When they rise up, they will be put to shame, but Your servant will rejoice."
+hebrew: "יְקַֽלְלוּ־ הֵמָּה֮ וְאַתָּ֪ה תְבָ֫רֵ֥ךְ קָ֤מוּ׀ וַיֵּבֹ֗שׁוּ וְֽעַבְדְּךָ֥ יִשְׂמָֽח׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H7043]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1288]]"
+- "[[H6965B]]"
+- "[[H9015]]"
+- "[[H9001]]"
+- "[[H0954]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H8055]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:28**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them curse, but bless thou: when they arise, let them be ashamed; but let thy servant rejoice.
 <small><sub>**BSB:**</sub></small>
 Though they curse, You will bless. When they rise up, they will be put to shame, but Your servant will rejoice.
+<small><sub>**Hebrew:**</sub></small>
+[[H7043\|יְקַֽלְלוּ]][[H9014\|־]] [[H1992\|הֵמָּה֮]] [[H9002\|וְ]][[H0859A\|אַתָּ֪ה]] [[H1288\|תְבָ֫רֵ֥ךְ]] [[H6965B\|קָ֤מוּ]][[H9015\|׀]] [[H9001\|וַ]][[H0954\|יֵּבֹ֗שׁוּ]] [[H9002\|וְֽ]][[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H8055\|יִשְׂמָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.27|<< Psalms 109:27]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.29|Psalms 109:29 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Jeremiah 49:17
+type: Verse
+kjv: "Also Edom shall be a desolation: every one that goeth by it shall be astonished, and shall hiss at all the plagues thereof."
+bsb: "“Edom will become an object of horror. All who pass by will be appalled and will scoff at all her wounds."
+hebrew: "וְהָיְתָ֥ה אֱד֖וֹם לְשַׁמָּ֑ה כֹּ֚ל עֹבֵ֣ר עָלֶ֔יהָ יִשֹּׁ֥ם וְיִשְׁרֹ֖ק עַל־ כָּל־ מַכּוֹתֶֽהָ׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0123G]]"
+- "[[H9005]]"
+- "[[H8047H]]"
+- "[[H3605]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H8074H]]"
+- "[[H9002]]"
+- "[[H8319]]"
+- "[[H9014]]"
+- "[[H4347]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:17**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Edom shall be a desolation: every one that goeth by it shall be astonished, and shall hiss at all the plagues thereof.
 <small><sub>**BSB:**</sub></small>
 “Edom will become an object of horror. All who pass by will be appalled and will scoff at all her wounds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H0123G\|אֱד֖וֹם]] [[H9005\|לְ]][[H8047H\|שַׁמָּ֑ה]] [[H3605\|כֹּ֚ל]] [[H5674A\|עֹבֵ֣ר]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H8074H\|יִשֹּׁ֥ם]] [[H9002\|וְ]][[H8319\|יִשְׁרֹ֖ק]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4347\|מַכּוֹתֶֽ]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.16|<< Jeremiah 49:16]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.18|Jeremiah 49:18 >>]]</td></tr></table>
 

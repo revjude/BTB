@@ -1,8 +1,79 @@
+---
+title: Numbers 22:18
+type: Verse
+kjv: "And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the LORD my God, to do less or more."
+bsb: "But Balaam replied to the servants of Balak, “If Balak were to give me his house full of silver and gold, I could not do anything small or great to go beyond the command of the LORD my God."
+hebrew: "וַיַּ֣עַן בִּלְעָ֗ם וַיֹּ֙אמֶר֙ אֶל־ עַבְדֵ֣י בָלָ֔ק אִם־ יִתֶּן־ לִ֥י בָלָ֛ק מְלֹ֥א בֵית֖וֹ כֶּ֣סֶף וְזָהָ֑ב לֹ֣א אוּכַ֗ל לַעֲבֹר֙ אֶת־ פִּי֙ יְהוָ֣ה אֱלֹהָ֔י לַעֲשׂ֥וֹת קְטַנָּ֖ה א֥וֹ גְדוֹלָֽה׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H1109A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H1111]]"
+- "[[H0518A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4393]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H5674D]]"
+- "[[H0853]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H6996A]]"
+- "[[H0176A]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:18**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the LORD my God, to do less or more.
 <small><sub>**BSB:**</sub></small>
 But Balaam replied to the servants of Balak, “If Balak were to give me his house full of silver and gold, I could not do anything small or great to go beyond the command of the LORD my God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֣עַן]] [[H1109A\|בִּלְעָ֗ם]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עַבְדֵ֣י]] [[H1111\|בָלָ֔ק]] [[H0518A\|אִם]][[H9014\|־]] [[H5414G\|יִתֶּן]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H1111\|בָלָ֛ק]] [[H4393\|מְלֹ֥א]] [[H1004B\|בֵית֖]][[H9023\|וֹ]] [[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֑ב]] [[H3808\|לֹ֣א]] [[H3201\|אוּכַ֗ל]] [[H9005\|לַ]][[H5674D\|עֲבֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֔]][[H9020\|י]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H6996A\|קְטַנָּ֖ה]] [[H0176A\|א֥וֹ]] [[H1419A\|גְדוֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.17|<< Numbers 22:17]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.19|Numbers 22:19 >>]]</td></tr></table>
 

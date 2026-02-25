@@ -1,8 +1,72 @@
+---
+title: 1 Chronicles 22:14
+type: Verse
+kjv: "Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto."
+bsb: "Now behold, I have taken great pains to provide for the house of the LORD—100,000 talents of gold, 1,000,000 talents of silver, and bronze and iron too great to be weighed. I have also provided timber and stone, and you may add to them."
+hebrew: "וְהִנֵּ֨ה בְעָנְיִ֜י הֲכִינ֣וֹתִי לְבֵית־ יְהוָ֗ה זָהָ֞ב כִּכָּרִ֤ים מֵֽאָה־ אֶ֙לֶף֙ וְכֶ֗סֶף אֶ֤לֶף אֲלָפִים֙ כִּכָּרִ֔ים וְלַנְּחֹ֤שֶׁת וְלַבַּרְזֶל֙ אֵ֣ין מִשְׁקָ֔ל כִּ֥י לָרֹ֖ב הָיָ֑ה וְעֵצִ֤ים וַאֲבָנִים֙ הֲכִינ֔וֹתִי וַעֲלֵיהֶ֖ם תּוֹסִֽיף׃"
+pericope: "[[1Chr.22.6 Solomon Anointed to Build the Temple|Solomon Anointed to Build the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9003]]"
+- "[[H6040]]"
+- "[[H9020]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H2091]]"
+- "[[H3603H]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H3701G]]"
+- "[[H5178A]]"
+- "[[H1270]]"
+- "[[H0369]]"
+- "[[H4948]]"
+- "[[H3588A]]"
+- "[[H7230]]"
+- "[[H1961]]"
+- "[[H6086G]]"
+- "[[H0068G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3254H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:14**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto.
 <small><sub>**BSB:**</sub></small>
 Now behold, I have taken great pains to provide for the house of the LORD—100,000 talents of gold, 1,000,000 talents of silver, and bronze and iron too great to be weighed. I have also provided timber and stone, and you may add to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H9003\|בְ]][[H6040\|עָנְיִ֜]][[H9020\|י]] [[H3559A\|הֲכִינ֣וֹתִי]] [[H9005\|לְ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H2091\|זָהָ֞ב]] [[H3603H\|כִּכָּרִ֤ים]] [[H3967\|מֵֽאָה]][[H9014\|־]] [[H0505G\|אֶ֙לֶף֙]] [[H9002\|וְ]][[H3701G\|כֶ֗סֶף]] [[H0505G\|אֶ֤לֶף]] [[H0505G\|אֲלָפִים֙]] [[H3603H\|כִּכָּרִ֔ים]] [[H9002\|וְ]][[H9005\|לַ]][[H5178A\|נְּחֹ֤שֶׁת]] [[H9002\|וְ]][[H9005\|לַ]][[H1270\|בַּרְזֶל֙]] [[H0369\|אֵ֣ין]] [[H4948\|מִשְׁקָ֔ל]] [[H3588A\|כִּ֥י]] [[H9005\|לָ]][[H7230\|רֹ֖ב]] [[H1961\|הָיָ֑ה]] [[H9002\|וְ]][[H6086G\|עֵצִ֤ים]] [[H9002\|וַ]][[H0068G\|אֲבָנִים֙]] [[H3559A\|הֲכִינ֔וֹתִי]] [[H9002\|וַ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H3254H\|תּוֹסִֽיף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic CHURCH|CHURCH]] • [[topic DAVID|DAVID]] • [[topic GOLD|GOLD]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.13|<< 1 Chronicles 22:13]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.15|1 Chronicles 22:15 >>]]</td></tr></table>
 

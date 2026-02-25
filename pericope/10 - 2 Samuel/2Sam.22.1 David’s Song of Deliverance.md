@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Song of Deliverance
+type: Pericope
 pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
-verse_count: 51
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 22
 book/chapter: "[[2Sam.22|2 Samuel 22]]"
-genre:
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 51
 verses:
 - "[[2Sam.22.1]]"
 - "[[2Sam.22.2]]"
@@ -70,7 +77,7 @@ verses:
 - "[[2Sam.22.51]]"
 ---
 
-[[2Sam.22|2 Samuel 22:1 - 2 Samuel 22:51]]
+<small>[[2Sam.22|2 Samuel 22:1-51]]</small>
 *David’s Song of Deliverance*
 
 [[2Sam.22.1|1]] And David spake unto the LORD the words of this song in the day \[that\] the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul:

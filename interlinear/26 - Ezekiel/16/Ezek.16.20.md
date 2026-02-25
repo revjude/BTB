@@ -1,8 +1,69 @@
+---
+title: Ezekiel 16:20
+type: Verse
+kjv: "Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured. Is this of thy whoredoms a small matter,"
+bsb: "You even took the sons and daughters you bore to Me and sacrificed them as food to idols. Was your prostitution not enough?"
+hebrew: "וַתִּקְחִ֞י אֶת־ בָּנַ֤יִךְ וְאֶת־ בְּנוֹתַ֙יִךְ֙ אֲשֶׁ֣ר יָלַ֣דְתְּ לִ֔י וַתִּזְבָּחִ֥ים לָהֶ֖ם לֶאֱכ֑וֹל הַמְעַ֖ט מִתַּזְנוּתָֽיִךְ׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H2076]]"
+- "[[H9038]]"
+- "[[H0398]]"
+- "[[H9008]]"
+- "[[H4592]]"
+- "[[H9006]]"
+- "[[H8457]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 16:20**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover thou hast taken thy sons and thy daughters, whom thou hast borne unto me, and these hast thou sacrificed unto them to be devoured. [Is this] of thy whoredoms a small matter,
 <small><sub>**BSB:**</sub></small>
 You even took the sons and daughters you bore to Me and sacrificed them as food to idols. Was your prostitution not enough?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|תִּקְחִ֞י]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנַ֤יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנוֹתַ֙יִ]][[H9022\|ךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3205\|יָלַ֣דְתְּ]] [[H9005\|לִ֔]][[H9030\|י]] [[H9001\|וַ]][[H2076\|תִּזְבָּחִ֥י]][[H9038\|ם]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לֶ]][[H0398\|אֱכ֑וֹל]] [[H9008\|הַ]][[H4592\|מְעַ֖ט]] [[H9006\|מִ]][[H8457\|תַּזְנוּתָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MOLECH|MOLECH]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.19|<< Ezekiel 16:19]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.21|Ezekiel 16:21 >>]]</td></tr></table>
 
@@ -23,8 +84,8 @@ You even took the sons and daughters you bore to Me and sacrificed them as food 
 | from prostitution\<s> your  [^3]|**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8457\|תַּזְנוּתָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | mi.<small><sup>[[HR]]</sup></small> taz.nu.te<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.19|<< Ezekiel 16:19]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.21|Ezekiel 16:21 >>]]</td></tr></table>
 
-[^1]: from prostitution your  | **<big>[[H9016|׃]]</big><big>[[H9022|ךְ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> taz.nu.te<small><sup>[[HNcbsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
-[^2]: from prostitution your  | **<big>[[H9016|׃]]</big><big>[[H9022|ךְ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> taz.nu.te<small><sup>[[HNcbsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
-[^3]: from prostitution your  | **<big>[[H9016|׃]]</big><big>[[H9022|ךְ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big><big>[[H9006|מִ]]</big> ** | mi.<small><sup>[[HR]]</sup></small> taz.nu.te<small><sup>[[HNcbsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^1]: from prostitution your  | **<big>[[H9006|מִ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big><big>[[H9022|ךְ]]</big><big>[[H9016|׃]]</big> ** | mi.<small><sup>[[HR]]</sup></small> taz.nu.te<small><sup>[[HNcbsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^2]: from prostitution your  | **<big>[[H9006|מִ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big><big>[[H9022|ךְ]]</big><big>[[H9016|׃]]</big> ** | mi.<small><sup>[[HR]]</sup></small> taz.nu.te<small><sup>[[HNcbsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
+[^3]: from prostitution your  | **<big>[[H9006|מִ]]</big><big>[[H8457|תַּזְנֻתֵ]]</big><big>[[H9022|ךְ]]</big><big>[[H9016|׃]]</big> ** | mi.<small><sup>[[HR]]</sup></small> taz.nu.te<small><sup>[[HNcbsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>מִתַּזְנּתִָֽ/ךְ\׃</big></span>**
 

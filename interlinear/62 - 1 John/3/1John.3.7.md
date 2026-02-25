@@ -1,10 +1,57 @@
+---
+title: 1 John 3:7
+type: Verse
+kjv: "Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous."
+bsb: "Little children, let no one deceive you: The one who practices righteousness is righteous, just as Christ is righteous."
+greek: "Τεκνία, μηδεὶς πλανάτω ὑμᾶς· ὁ ποιῶν τὴν δικαιοσύνην δίκαιός ἐστιν καθὼς ἐκεῖνος δίκαιός ἐστιν."
+pericope: "[[1John.3.1 Children of God|Children of God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G5040]]"
+- "[[G3367]]"
+- "[[G4105]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G4160G]]"
+- "[[G1343]]"
+- "[[G1342]]"
+- "[[G1510]]"
+- "[[G2531]]"
+- "[[G1565]]"
+texts:
+- NK(o)
+- NKO
+---
+
 **1 John 3:7**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.
 <small><sub>**BSB:**</sub></small>
 Little children, let no one deceive you: The one who practices righteousness is righteous, just as Christ is righteous.
-<small><sub>**Literal:**</sub></small>
-little children, no one should lead astray you; who are practicing <the> righteousness righteous is even as He righteous is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.6|<< 1 John 3:6]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.8|1 John 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5040\|Τεκνία,]]  [[G3367\|μηδεὶς]]  [[G4105\|πλανάτω]]  [[G4771\|ὑμᾶς·]]  [[G3588\|ὁ]]  [[G4160G\|ποιῶν]]  [[G3588\|τὴν]]  [[G1343\|δικαιοσύνην]]  [[G1342\|δίκαιός]]  [[G1510\|ἐστιν]]  [[G2531\|καθὼς]]  [[G1565\|ἐκεῖνος]]  [[G1342\|δίκαιός]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.6|<< 1 John 3:6]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.8|1 John 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

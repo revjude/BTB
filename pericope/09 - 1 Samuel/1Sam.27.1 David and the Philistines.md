@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David and the Philistines
+type: Pericope
 pericope: "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 27
 book/chapter: "[[1Sam.27|1 Samuel 27]]"
-genre:
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 12
 verses:
 - "[[1Sam.27.1]]"
 - "[[1Sam.27.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Sam.27.12]]"
 ---
 
-[[1Sam.27|1 Samuel 27:1 - 1 Samuel 27:12]]
+<small>[[1Sam.27|1 Samuel 27:1-12]]</small>
 *David and the Philistines*
 
 [[1Sam.27.1|1]] And David said in his heart, I shall now perish one day by the hand of Saul: \[there is\] nothing better for me than that I should speedily escape into the land of the Philistines; and Saul shall despair of me, to seek me any more in any coast of Israel: so shall I escape out of his hand.

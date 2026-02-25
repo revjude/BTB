@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter’s Confession of Christ
+type: Pericope
 pericope: "[[Luke.9.18 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Luke
 chapter: 9
 book/chapter: "[[Luke.9|Luke 9]]"
-genre:
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 3
 verses:
 - "[[Luke.9.18]]"
 - "[[Luke.9.19]]"
 - "[[Luke.9.20]]"
 ---
 
-[[Luke.9|Luke 9:18 - Luke 9:20]]
+<small>[[Luke.9|Luke 9:18-20]]</small>
 *Peter’s Confession of Christ*
 
 [[Luke.9.18|18]] And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?

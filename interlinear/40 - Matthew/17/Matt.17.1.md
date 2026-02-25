@@ -1,10 +1,64 @@
+---
+title: Matthew 17:1
+type: Verse
+kjv: "And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,"
+bsb: "After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves."
+greek: "Καὶ μεθ᾽ ἡμέρας ἓξ παραλαμβάνει ὁ Ἰησοῦς τὸν Πέτρον καὶ Ἰάκωβον καὶ Ἰωάννην τὸν ἀδελφὸν αὐτοῦ καὶ ἀναφέρει αὐτοὺς εἰς ὄρος ὑψηλὸν κατ᾽ ἰδίαν."
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G2250]]"
+- "[[G1803]]"
+- "[[G3880]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4074G]]"
+- "[[G2385G]]"
+- "[[G2491H]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G0399]]"
+- "[[G1519]]"
+- "[[G3735]]"
+- "[[G5308]]"
+- "[[G2596]]"
+- "[[G2398]]"
+texts:
+- NKO
+---
+
 **Matthew 17:1**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,
 <small><sub>**BSB:**</sub></small>
 After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves.
-<small><sub>**Literal:**</sub></small>
-And after days six takes with [Him] <the> Jesus <the> Peter and James and John the brother of him and brings up them into a mountain high on [their] own.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.28|<< Matthew 16:28]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.2|Matthew 17:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3326\|μεθ᾽]]  [[G2250\|ἡμέρας]]  [[G1803\|ἓξ]]  [[G3880\|παραλαμβάνει]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G2385G\|Ἰάκωβον]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννην]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0399\|ἀναφέρει]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G3735\|ὄρος]]  [[G5308\|ὑψηλὸν]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.28|<< Matthew 16:28]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.2|Matthew 17:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

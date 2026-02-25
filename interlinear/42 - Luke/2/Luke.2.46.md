@@ -1,10 +1,61 @@
+---
+title: Luke 2:46
+type: Verse
+kjv: "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions."
+bsb: "Finally, after three days they found Him in the temple courts, sitting among the teachers, listening to them and asking them questions."
+greek: "καὶ ἐγένετο μετὰ ἡμέρας τρεῖς εὗρον αὐτὸν ἐν τῷ ἱερῷ καθεζόμενον ἐν μέσῳ τῶν διδασκάλων καὶ ἀκούοντα αὐτῶν καὶ ἐπερωτῶντα αὐτούς."
+pericope: "[[Luke.2.41 The Boy Jesus at the Temple|The Boy Jesus at the Temple]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DOCTOR|DOCTOR]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3326]]"
+- "[[G2250]]"
+- "[[G5140]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G2516]]"
+- "[[G3319]]"
+- "[[G1320]]"
+- "[[G0191]]"
+- "[[G1905]]"
+texts:
+- NKO
+---
+
 **Luke 2:46**<big><big>[[Luke.2.41 The Boy Jesus at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.
 <small><sub>**BSB:**</sub></small>
 Finally, after three days they found Him in the temple courts, sitting among the teachers, listening to them and asking them questions.
-<small><sub>**Literal:**</sub></small>
-And it came to pass after days three they found Him in the temple sitting in [the] midst of the teachers both hearing them and questioning them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.45|<< Luke 2:45]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.47|Luke 2:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G3326\|μετὰ]]  [[G2250\|ἡμέρας]]  [[G5140\|τρεῖς]]  [[G2147\|εὗρον]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G2516\|καθεζόμενον]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G3588\|τῶν]]  [[G1320\|διδασκάλων]]  [[G2532\|καὶ]]  [[G0191\|ἀκούοντα]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G1905\|ἐπερωτῶντα]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DOCTOR|DOCTOR]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic PASSOVER|PASSOVER]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.45|<< Luke 2:45]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.47|Luke 2:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

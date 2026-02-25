@@ -1,8 +1,56 @@
+---
+title: Proverbs 6:24
+type: Verse
+kjv: "To keep thee from the evil woman, from the flattery of the tongue of a strange woman."
+bsb: "to keep you from the evil woman, from the smooth tongue of the adulteress."
+hebrew: "לִ֭שְׁמָרְךָ מֵאֵ֣שֶׁת רָ֑ע מֵֽ֝חֶלְקַ֗ת לָשׁ֥וֹן נָכְרִיָּֽה׃"
+pericope: "[[Prov.6.20 Warnings against Adultery|Warnings against Adultery]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic LUST|LUST]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H8104H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0802G]]"
+- "[[H7451B]]"
+- "[[H2513B]]"
+- "[[H3956G]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:24**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To keep thee from the evil woman, from the flattery of the tongue of a strange woman.
 <small><sub>**BSB:**</sub></small>
 to keep you from the evil woman, from the smooth tongue of the adulteress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ֭]][[H8104H\|שְׁמָרְ]][[H9031\|ךָ]] [[H9006\|מֵ]][[H0802G\|אֵ֣שֶׁת]] [[H7451B\|רָ֑ע]] [[H9006\|מֵֽ֝]][[H2513B\|חֶלְקַ֗ת]] [[H3956G\|לָשׁ֥וֹן]] [[H5237\|נָכְרִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic CHILDREN|CHILDREN]] • [[topic FLATTERY|FLATTERY]] • [[topic LUST|LUST]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.23|<< Proverbs 6:23]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.25|Proverbs 6:25 >>]]</td></tr></table>
 

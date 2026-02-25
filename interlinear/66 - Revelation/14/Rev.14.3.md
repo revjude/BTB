@@ -1,10 +1,73 @@
+---
+title: Revelation 14:3
+type: Verse
+kjv: "And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred and forty and four thousand, which were redeemed from the earth."
+bsb: "And they sang a new song before the throne and before the four living creatures and the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth."
+greek: "καὶ ᾄδουσιν ὡς ᾠδὴν καινὴν ἐνώπιον τοῦ θρόνου καὶ ἐνώπιον τῶν τεσσάρων ζῴων καὶ τῶν πρεσβυτέρων, καὶ οὐδεὶς ἐδύνατο μαθεῖν τὴν ᾠδὴν εἰ μὴ αἱ ἑκατὸν τεσσεράκοντα τέσσαρες χιλιάδες, οἱ ἠγορασμένοι ἀπὸ τῆς γῆς."
+pericope: "[[Rev.14.1 The Lamb and the 144,000|The Lamb and the 144,000]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SONG|SONG]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0103]]"
+- "[[G5613]]"
+- "[[G5603]]"
+- "[[G2537]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G5064]]"
+- "[[G2226]]"
+- "[[G4245G]]"
+- "[[G3762]]"
+- "[[G1410]]"
+- "[[G3129]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1540]]"
+- "[[G5062]]"
+- "[[G5505]]"
+- "[[G0059]]"
+- "[[G0575]]"
+- "[[G1093G]]"
+texts:
+- NKO
+---
+
 **Revelation 14:3**<big><big>[[Rev.14.1 The Lamb and the 144,000|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred [and] forty [and] four thousand, which were redeemed from the earth.
 <small><sub>**BSB:**</sub></small>
 And they sang a new song before the throne and before the four living creatures and the elders. And no one could learn the song except the 144,000 who had been redeemed from the earth.
-<small><sub>**Literal:**</sub></small>
-And they are singing as a song new before the throne and before the four living creatures and the elders, And no [one] was able to learn the song only except the one hundred forty four thousand who redeemed from the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.2|<< Revelation 14:2]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.4|Revelation 14:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0103\|ᾄδουσιν]]  [[G5613\|ὡς]]  [[G5603\|ᾠδὴν]]  [[G2537\|καινὴν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G2532\|καὶ]]  [[G1799\|ἐνώπιον]]  [[G3588\|τῶν]]  [[G5064\|τεσσάρων]]  [[G2226\|ζῴων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων,]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G1410\|ἐδύνατο]]  [[G3129\|μαθεῖν]]  [[G3588\|τὴν]]  [[G5603\|ᾠδὴν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|αἱ]]  [[G1540\|ἑκατὸν]]  [[G5062\|τεσσεράκοντα]]  [[G5064\|τέσσαρες]]  [[G5505\|χιλιάδες,]]  [[G3588\|οἱ]]  [[G0059\|ἠγορασμένοι]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CELIBACY|CELIBACY]] • [[topic CHASTITY|CHASTITY]] • [[topic ELDER|ELDER]] • [[topic HEAVEN|HEAVEN]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SONG|SONG]] • [[topic THRONE|THRONE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.2|<< Revelation 14:2]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.4|Revelation 14:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

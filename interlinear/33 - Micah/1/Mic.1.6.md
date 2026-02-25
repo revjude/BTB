@@ -1,8 +1,58 @@
+---
+title: Micah 1:6
+type: Verse
+kjv: "Therefore I will make Samaria as an heap of the field, and as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof."
+bsb: "Therefore I will make Samaria a heap of rubble in the open field, a planting area for a vineyard. I will pour her stones into the valley and expose her foundations."
+hebrew: "וְשַׂמְתִּ֥י שֹׁמְר֛וֹן לְעִ֥י הַשָּׂדֶ֖ה לְמַטָּ֣עֵי כָ֑רֶם וְהִגַּרְתִּ֤י לַגַּי֙ אֲבָנֶ֔יהָ וִיסֹדֶ֖יהָ אֲגַלֶּֽה׃"
+pericope: "[[Mic.1.1 Judgment to Come|Judgment to Come]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H8111]]"
+- "[[H9005]]"
+- "[[H5856]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H4302]]"
+- "[[H3754]]"
+- "[[H5064]]"
+- "[[H1516R]]"
+- "[[H0068G]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H3247H]]"
+- "[[H1540I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 1:6**<big><big>[[Mic.1.1 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I will make Samaria as an heap of the field, [and] as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.
 <small><sub>**BSB:**</sub></small>
 Therefore I will make Samaria a heap of rubble in the open field, a planting area for a vineyard. I will pour her stones into the valley and expose her foundations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתִּ֥י]] [[H8111\|שֹׁמְר֛וֹן]] [[H9005\|לְ]][[H5856\|עִ֥י]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H9005\|לְ]][[H4302\|מַטָּ֣עֵי]] [[H3754\|כָ֑רֶם]] [[H9001\|וְ]][[H5064\|הִגַּרְתִּ֤י]] [[H9005\|לַ]][[H1516R\|גַּי֙]] [[H0068G\|אֲבָנֶ֔י]][[H9024\|הָ]] [[H9002\|וִ]][[H3247H\|יסֹדֶ֖י]][[H9024\|הָ]] [[H1540I\|אֲגַלֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.5|<< Micah 1:5]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.7|Micah 1:7 >>]]</td></tr></table>
 

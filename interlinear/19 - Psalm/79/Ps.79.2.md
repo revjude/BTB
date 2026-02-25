@@ -1,8 +1,59 @@
+---
+title: Psalm 79:2
+type: Verse
+kjv: "The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth."
+bsb: "They have given the corpses of Your servants as food to the birds of the air, the flesh of Your saints to the beasts of the earth."
+hebrew: "נָֽתְנ֡וּ אֶת־ נִבְלַ֬ת עֲבָדֶ֗יךָ מַ֭אֲכָל לְע֣וֹף הַשָּׁמָ֑יִם בְּשַׂ֥ר חֲ֝סִידֶ֗יךָ לְחַיְתוֹ־ אָֽרֶץ׃"
+pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 79
+book/chapter: "[[Ps.79|Psalm 79]]"
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5038]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3978]]"
+- "[[H9005]]"
+- "[[H5775]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H1320]]"
+- "[[H2623]]"
+- "[[H2416C]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 79:2**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The dead bodies of thy servants have they given [to be] meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.
 <small><sub>**BSB:**</sub></small>
 They have given the corpses of Your servants as food to the birds of the air, the flesh of Your saints to the beasts of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|נָֽתְנ֡וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5038\|נִבְלַ֬ת]] [[H5650\|עֲבָדֶ֗י]][[H9021\|ךָ]] [[H3978\|מַ֭אֲכָל]] [[H9005\|לְ]][[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H1320\|בְּשַׂ֥ר]] [[H2623\|חֲ֝סִידֶ֗י]][[H9021\|ךָ]] [[H9005\|לְ]][[H2416C\|חַיְתוֹ]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.1|<< Psalms 79:1]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.3|Psalms 79:3 >>]]</td></tr></table>
 

@@ -1,10 +1,48 @@
+---
+title: 1 Corinthians 15:5
+type: Verse
+kjv: "And that he was seen of Cephas, then of the twelve:"
+bsb: "and that He appeared to Cephas and then to the Twelve."
+greek: "καὶ ὅτι ὤφθη Κηφᾷ, εἶτα τοῖς δώδεκα."
+pericope: "[[1Cor.15.1 The Resurrection of Christ|The Resurrection of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3754G]]"
+- "[[G3700]]"
+- "[[G2786]]"
+- "[[G1534]]"
+- "[[G3588]]"
+- "[[G1427]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:5**<big><big>[[1Cor.15.1 The Resurrection of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that he was seen of Cephas, then of the twelve:
 <small><sub>**BSB:**</sub></small>
 and that He appeared to Cephas and then to the Twelve.
-<small><sub>**Literal:**</sub></small>
-and that He appeared to Cephas, then to the Twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.4|<< 1 Corinthians 15:4]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.6|1 Corinthians 15:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3754G\|ὅτι]]  [[G3700\|ὤφθη]]  [[G2786\|Κηφᾷ,]]  [[G1534\|εἶτα]]  [[G3588\|τοῖς]]  [[G1427\|δώδεκα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.4|<< 1 Corinthians 15:4]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.6|1 Corinthians 15:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

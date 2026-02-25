@@ -1,8 +1,67 @@
+---
+title: Daniel 6:2
+type: Verse
+kjv: "And over these three presidents; of whom Daniel was first: that the princes might give accounts unto them, and the king should have no damage."
+bsb: "and over them three administrators, including Daniel, to whom these satraps were accountable so that the king would not suffer loss."
+aramaic: "וְעֵ֤לָּא מִנְּהוֹן֙ סָרְכִ֣ין תְּלָתָ֔א דִּ֥י דָנִיֵּ֖אל חַֽד־ מִנְּה֑וֹן דִּֽי־ לֶהֱוֹ֞ן אֲחַשְׁדַּרְפְּנַיָּ֣א אִלֵּ֗ין יָהֲבִ֤ין לְהוֹן֙ טַעְמָ֔א וּמַלְכָּ֖א לָֽא־ לֶהֱוֵ֥א נָזִֽק׃"
+pericope: "[[Dan.6.1 The Plot against Daniel|The Plot against Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CIVIL|MINISTER, CIVIL]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5924]]"
+- "[[H4481]]"
+- "[[H9038]]"
+- "[[H5632]]"
+- "[[H8532]]"
+- "[[H1768]]"
+- "[[H1841H]]"
+- "[[H2298]]"
+- "[[H9014]]"
+- "[[H1934]]"
+- "[[H0324]]"
+- "[[H9010]]"
+- "[[H0459]]"
+- "[[H3052]]"
+- "[[H9005]]"
+- "[[H2941]]"
+- "[[H4430]]"
+- "[[H3809]]"
+- "[[H5142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:2**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And over these three presidents; of whom Daniel [was] first: that the princes might give accounts unto them, and the king should have no damage.
 <small><sub>**BSB:**</sub></small>
 and over them three administrators, including Daniel, to whom these satraps were accountable so that the king would not suffer loss.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H5924\|עֵ֤לָּא]] [[H4481\|מִנְּ]][[H9038\|הוֹן֙]] [[H5632\|סָרְכִ֣ין]] [[H8532\|תְּלָתָ֔א]] [[H1768\|דִּ֥י]] [[H1841H\|דָנִיֵּ֖אל]] [[H2298\|חַֽד]][[H9014\|־]] [[H4481\|מִנְּ]][[H9038\|ה֑וֹן]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1934\|לֶהֱוֹ֞ן]] [[H0324\|אֲחַשְׁדַּרְפְּנַיָּ֣]][[H9010\|א]] [[H0459\|אִלֵּ֗ין]] [[H3052\|יָהֲבִ֤ין]] [[H9005\|לְ]][[H9038\|הוֹן֙]] [[H2941\|טַעְמָ֔]][[H9010\|א]] [[H9002\|וּ]][[H4430\|מַלְכָּ֖]][[H9010\|א]] [[H3809\|לָֽא]][[H9014\|־]] [[H1934\|לֶהֱוֵ֥א]] [[H5142\|נָזִֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANIEL|DANIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic KING|KING]] • [[topic MINISTER, CIVIL|MINISTER, CIVIL]] • [[topic PERSIA|PERSIA]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.1|<< Daniel 6:1]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.3|Daniel 6:3 >>]]</td></tr></table>
 

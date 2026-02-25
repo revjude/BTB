@@ -1,8 +1,70 @@
+---
+title: 1 Kings 7:42
+type: Verse
+kjv: "And four hundred pomegranates for the two networks, even two rows of pomegranates for one network, to cover the two bowls of the chapiters that were upon the pillars;"
+bsb: "the four hundred pomegranates for the two sets of network (two rows of pomegranates for each network covering both the bowl-shaped capitals atop the pillars);"
+hebrew: "וְאֶת־ הָרִמֹּנִ֛ים אַרְבַּ֥ע מֵא֖וֹת לִשְׁתֵּ֣י הַשְּׂבָכ֑וֹת שְׁנֵֽי־ טוּרִ֤ים רִמֹּנִים֙ לַשְּׂבָכָ֣ה הָֽאֶחָ֔ת לְכַסּ֗וֹת אֶת־ שְׁתֵּי֙ גֻּלֹּ֣ת הַכֹּֽתָרֹ֔ת אֲשֶׁ֖ר עַל־ פְּנֵ֥י הָעַמּוּדִֽים׃"
+pericope: "[[1Kgs.7.40 Completion of the Bronze Works|Completion of the Bronze Works]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic POMEGRANATE|POMEGRANATE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7416]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H9005]]"
+- "[[H8147]]"
+- "[[H7639]]"
+- "[[H2905]]"
+- "[[H0259]]"
+- "[[H3680]]"
+- "[[H1543]]"
+- "[[H3805]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H5982G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:42**<big><big>[[1Kgs.7.40 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And four hundred pomegranates for the two networks, [even] two rows of pomegranates for one network, to cover the two bowls of the chapiters that [were] upon the pillars;
 <small><sub>**BSB:**</sub></small>
 the four hundred pomegranates for the two sets of network (two rows of pomegranates for each network covering both the bowl-shaped capitals atop the pillars);
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7416\|רִמֹּנִ֛ים]] [[H0702\|אַרְבַּ֥ע]] [[H3967\|מֵא֖וֹת]] [[H9005\|לִ]][[H8147\|שְׁתֵּ֣י]] [[H9009\|הַ]][[H7639\|שְּׂבָכ֑וֹת]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H2905\|טוּרִ֤ים]] [[H7416\|רִמֹּנִים֙]] [[H9005\|לַ]][[H7639\|שְּׂבָכָ֣ה]] [[H9009\|הָֽ]][[H0259\|אֶחָ֔ת]] [[H9005\|לְ]][[H3680\|כַסּ֗וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁתֵּי֙]] [[H1543\|גֻּלֹּ֣ת]] [[H9009\|הַ]][[H3805\|כֹּֽתָרֹ֔ת]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֥י]] [[H9009\|הָ]][[H5982G\|עַמּוּדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic POMEGRANATE|POMEGRANATE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.41|<< 1 Kings 7:41]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.43|1 Kings 7:43 >>]]</td></tr></table>
 

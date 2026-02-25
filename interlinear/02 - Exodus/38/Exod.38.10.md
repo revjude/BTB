@@ -1,8 +1,57 @@
+---
+title: Exodus 38:10
+type: Verse
+kjv: "Their pillars were twenty, and their brasen sockets twenty; the hooks of the pillars and their fillets were of silver."
+bsb: "with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts."
+hebrew: "עַמּוּדֵיהֶ֣ם עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃"
+pericope: "[[Exod.38.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HOOKS|HOOKS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H5982G]]"
+- "[[H9028]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H0134]]"
+- "[[H5178A]]"
+- "[[H2053]]"
+- "[[H9009]]"
+- "[[H2838]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:10**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their pillars [were] twenty, and their brasen sockets twenty; the hooks of the pillars and their fillets [were of] silver.
 <small><sub>**BSB:**</sub></small>
 with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts.
+<small><sub>**Hebrew:**</sub></small>
+[[H5982G\|עַמּוּדֵי]][[H9028\|הֶ֣ם]] [[H6242\|עֶשְׂרִ֔ים]] [[H9002\|וְ]][[H0134\|אַדְנֵי]][[H9028\|הֶ֥ם]] [[H6242\|עֶשְׂרִ֖ים]] [[H5178A\|נְחֹ֑שֶׁת]] [[H2053\|וָוֵ֧י]] [[H9009\|הָ]][[H5982G\|עַמֻּדִ֛ים]] [[H9002\|וַ]][[H2838\|חֲשֻׁקֵי]][[H9028\|הֶ֖ם]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOOKS|HOOKS]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.9|<< Exodus 38:9]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.11|Exodus 38:11 >>]]</td></tr></table>
 

@@ -1,8 +1,78 @@
+---
+title: 2 Chronicles 30:18
+type: Verse
+kjv: "For a multitude of the people, even many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, The good LORD pardon every one"
+bsb: "A large number of the people—many from Ephraim, Manasseh, Issachar, and Zebulun—had not purified themselves, yet they ate the Passover, contrary to what was written. But Hezekiah interceded for them, saying, “May the LORD, who is good, provide atonement for everyone"
+hebrew: "כִּ֣י מַרְבִּ֣ית הָעָ֡ם רַ֠בַּת מֵֽאֶפְרַ֨יִם וּמְנַשֶּׁ֜ה יִשָּׂשכָ֤ר וּזְבֻלוּן֙ לֹ֣א הִטֶּהָ֔רוּ כִּֽי־ אָכְל֥וּ אֶת־ הַפֶּ֖סַח בְּלֹ֣א כַכָּת֑וּב כִּי֩ הִתְפַּלֵּ֨ל יְחִזְקִיָּ֤הוּ עֲלֵיהֶם֙ לֵאמֹ֔ר יְהוָ֥ה הַטּ֖וֹב יְכַפֵּ֥ר בְּעַֽד׃"
+pericope: "[[2Chr.30.13 Hezekiah Celebrates the Passover|Hezekiah Celebrates the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 30
+book/chapter: "[[2Chr.30|2 Chronicles 30]]"
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic FORM|FORM]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4768]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H9006]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H4519G]]"
+- "[[H3485G]]"
+- "[[H2074]]"
+- "[[H3808]]"
+- "[[H2891]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H6453]]"
+- "[[H9003]]"
+- "[[H9004]]"
+- "[[H3789]]"
+- "[[H6419]]"
+- "[[H2396G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2896A]]"
+- "[[H3722A]]"
+- "[[H1157]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 30:18**<big><big>[[2Chr.30.13 Hezekiah Celebrates the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a multitude of the people, [even] many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, The good LORD pardon every one
 <small><sub>**BSB:**</sub></small>
 A large number of the people—many from Ephraim, Manasseh, Issachar, and Zebulun—had not purified themselves, yet they ate the Passover, contrary to what was written. But Hezekiah interceded for them, saying, “May the LORD, who is good, provide atonement for everyone
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H4768\|מַרְבִּ֣ית]] [[H9009\|הָ]][[H5971A\|עָ֡ם]] [[H7227A\|רַ֠בַּת]] [[H9006\|מֵֽ]][[H0669G\|אֶפְרַ֨יִם]] [[H9002\|וּ]][[H4519G\|מְנַשֶּׁ֜ה]] [[H3485G\|יִשָּׂשכָ֤ר]] [[H9002\|וּ]][[H2074\|זְבֻלוּן֙]] [[H3808\|לֹ֣א]] [[H2891\|הִטֶּהָ֔רוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0398\|אָכְל֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6453\|פֶּ֖סַח]] [[H9003\|בְּ]][[H3808\|לֹ֣א]] [[H9004\|כַ]][[H3789\|כָּת֑וּב]] [[H3588A\|כִּי֩]] [[H6419\|הִתְפַּלֵּ֨ל]] [[H2396G\|יְחִזְקִיָּ֤הוּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3068G\|יְהוָ֥ה]] [[H9009\|הַ]][[H2896A\|טּ֖וֹב]] [[H3722A\|יְכַפֵּ֥ר]] [[H1157\|בְּעַֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic FORM|FORM]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic ISSACHAR|ISSACHAR]] • [[topic MONTH|MONTH]] • [[topic SEEKERS|SEEKERS]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.17|<< 2 Chronicles 30:17]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.19|2 Chronicles 30:19 >>]]</td></tr></table>
 

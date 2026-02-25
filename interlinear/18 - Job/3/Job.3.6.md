@@ -1,8 +1,59 @@
+---
+title: Job 3:6
+type: Verse
+kjv: "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months."
+bsb: "If only darkness had taken that night away! May it not appear among the days of the year; may it never be entered in any of the months."
+hebrew: "הַלַּ֥יְלָה הַהוּא֮ יִקָּחֵ֪ה֫וּ אֹ֥פֶל אַל־ יִ֭חַדְּ בִּימֵ֣י שָׁנָ֑ה בְּמִסְפַּ֥ר יְ֝רָחִ֗ים אַל־ יָבֹֽא׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H1931]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H0652]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2302]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H8141]]"
+- "[[H4557]]"
+- "[[H3391]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:6**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months.
 <small><sub>**BSB:**</sub></small>
 If only darkness had taken that night away! May it not appear among the days of the year; may it never be entered in any of the months.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3915\|לַּ֥יְלָה]] [[H9009\|הַ]][[H1931\|הוּא֮]] [[H3947G\|יִקָּחֵ֪]][[H9033\|ה֫וּ]] [[H0652\|אֹ֥פֶל]] [[H0408\|אַל]][[H9014\|־]] [[H2302\|יִ֭חַדְּ]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H8141\|שָׁנָ֑ה]] [[H9003\|בְּ]][[H4557\|מִסְפַּ֥ר]] [[H3391\|יְ֝רָחִ֗ים]] [[H0408\|אַל]][[H9014\|־]] [[H0935G\|יָבֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.5|<< Job 3:5]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.7|Job 3:7 >>]]</td></tr></table>
 

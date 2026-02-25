@@ -1,8 +1,69 @@
+---
+title: 2 Kings 16:14
+type: Verse
+kjv: "And he brought also the brasen altar, which was before the LORD, from the forefront of the house, from between the altar and the house of the LORD, and put it on the north side of the altar."
+bsb: "He also took the bronze altar that stood before the LORD from the front of the temple (between the new altar and the house of the LORD) and he put it on the north side of the new altar."
+hebrew: "וְאֵ֨ת הַמִּזְבַּ֣ח הַנְּחֹשֶׁת֮ אֲשֶׁ֣ר לִפְנֵ֣י יְהוָה֒ וַיַּקְרֵ֗ב מֵאֵת֙ פְּנֵ֣י הַבַּ֔יִת מִבֵּין֙ הַמִּזְבֵּ֔חַ וּמִבֵּ֖ין בֵּ֣ית יְהוָ֑ה וַיִּתֵּ֥ן אֹת֛וֹ עַל־ יֶ֥רֶךְ הַמִּזְבֵּ֖חַ צָפֽוֹנָה׃"
+pericope: "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic URIJAH|URIJAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H5178A]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H1004B]]"
+- "[[H0996G]]"
+- "[[H1004Q]]"
+- "[[H5414H]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3409]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:14**<big><big>[[2Kgs.16.10 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought also the brasen altar, which [was] before the LORD, from the forefront of the house, from between the altar and the house of the LORD, and put it on the north side of the altar.
 <small><sub>**BSB:**</sub></small>
 He also took the bronze altar that stood before the LORD from the front of the temple (between the new altar and the house of the LORD) and he put it on the north side of the new altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H9009\|הַ]][[H4196\|מִּזְבַּ֣ח]] [[H9009\|הַ]][[H5178A\|נְּחֹשֶׁת֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָה֒]] [[H9001\|וַ]][[H7126G\|יַּקְרֵ֗ב]] [[H9006\|מֵ]][[H0854\|אֵת֙]] [[H6440G\|פְּנֵ֣י]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H9006\|מִ]][[H0996G\|בֵּין֙]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9002\|וּ]][[H9006\|מִ]][[H0996G\|בֵּ֖ין]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֥ן]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3409\|יֶ֥רֶךְ]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H6828G\|צָפֽוֹנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ALTAR|ALTAR]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]] • [[topic URIJAH|URIJAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.13|<< 2 Kings 16:13]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.15|2 Kings 16:15 >>]]</td></tr></table>
 

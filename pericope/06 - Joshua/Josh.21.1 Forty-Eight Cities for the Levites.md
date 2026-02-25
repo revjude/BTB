@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Forty-Eight Cities for the Levites
+type: Pericope
 pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
-verse_count: 45
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 21
 book/chapter: "[[Josh.21|Joshua 21]]"
-genre:
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 45
 verses:
 - "[[Josh.21.1]]"
 - "[[Josh.21.2]]"
@@ -63,7 +70,7 @@ verses:
 - "[[Josh.21.45]]"
 ---
 
-[[Josh.21|Joshua 21:1 - Joshua 21:45]]
+<small>[[Josh.21|Joshua 21:1-45]]</small>
 *Forty-Eight Cities for the Levites*
 
 [[Josh.21.1|1]] Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;

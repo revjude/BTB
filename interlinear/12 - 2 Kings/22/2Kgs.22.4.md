@@ -1,8 +1,71 @@
+---
+title: 2 Kings 22:4
+type: Verse
+kjv: "Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:"
+bsb: "“Go up to Hilkiah the high priest and have him count the money that has been brought into the house of the LORD, which the doorkeepers have collected from the people."
+hebrew: "עֲלֵ֗ה אֶל־ חִלְקִיָּ֙הוּ֙ הַכֹּהֵ֣ן הַגָּד֔וֹל וְיַתֵּ֣ם אֶת־ הַכֶּ֔סֶף הַמּוּבָ֖א בֵּ֣ית יְהוָ֑ה אֲשֶׁ֥ר אָסְפ֛וּ שֹׁמְרֵ֥י הַסַּ֖ף מֵאֵ֥ת הָעָֽם׃"
+pericope: "[[2Kgs.22.3 Funding the Temple Repairs|Funding the Temple Repairs]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2518H]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H8552]]"
+- "[[H0853]]"
+- "[[H3701G]]"
+- "[[H0935P]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H0622]]"
+- "[[H8104H]]"
+- "[[H5592B]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 22:4**<big><big>[[2Kgs.22.3 Funding the Temple Repairs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:
 <small><sub>**BSB:**</sub></small>
 “Go up to Hilkiah the high priest and have him count the money that has been brought into the house of the LORD, which the doorkeepers have collected from the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H5927G\|עֲלֵ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2518H\|חִלְקִיָּ֙הוּ֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H9002\|וְ]][[H8552\|יַתֵּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֔סֶף]] [[H9009\|הַ]][[H0935P\|מּוּבָ֖א]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0622\|אָסְפ֛וּ]] [[H8104H\|שֹׁמְרֵ֥י]] [[H9009\|הַ]][[H5592B\|סַּ֖ף]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HILKIAH|HILKIAH]] • [[topic HONESTY|HONESTY]] • [[topic JOSIAH|JOSIAH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SHAPHAN|SHAPHAN]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.3|<< 2 Kings 22:3]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.5|2 Kings 22:5 >>]]</td></tr></table>
 

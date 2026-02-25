@@ -1,8 +1,67 @@
+---
+title: Genesis 24:49
+type: Verse
+kjv: "And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left."
+bsb: "Now if you will show kindness and faithfulness to my master, tell me; but if not, let me know, so that I may go elsewhere.”"
+hebrew: "וְ֠עַתָּה אִם־ יֶשְׁכֶ֨ם עֹשִׂ֜ים חֶ֧סֶד וֶֽאֱמֶ֛ת אֶת־ אֲדֹנִ֖י הַגִּ֣ידוּ לִ֑י וְאִם־ לֹ֕א הַגִּ֣ידוּ לִ֔י וְאֶפְנֶ֥ה עַל־ יָמִ֖ין א֥וֹ עַל־ שְׂמֹֽאל׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H9046]]"
+- "[[H6213A]]"
+- "[[H2617A]]"
+- "[[H0571G]]"
+- "[[H0854]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H6437G]]"
+- "[[H5921A]]"
+- "[[H3225G]]"
+- "[[H0176A]]"
+- "[[H8040G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:49**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left.
 <small><sub>**BSB:**</sub></small>
 Now if you will show kindness and faithfulness to my master, tell me; but if not, let me know, so that I may go elsewhere.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H6258\|עַתָּה]] [[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֶשְׁ]][[H9046\|כֶ֨ם]] [[H6213A\|עֹשִׂ֜ים]] [[H2617A\|חֶ֧סֶד]] [[H9002\|וֶֽ]][[H0571G\|אֱמֶ֛ת]] [[H0854\|אֶת]][[H9014\|־]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H5046\|הַגִּ֣ידוּ]] [[H9005\|לִ֑]][[H9030\|י]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֕א]] [[H5046\|הַגִּ֣ידוּ]] [[H9005\|לִ֔]][[H9030\|י]] [[H9002\|וְ]][[H6437G\|אֶפְנֶ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3225G\|יָמִ֖ין]] [[H0176A\|א֥וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H8040G\|שְׂמֹֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.48|<< Genesis 24:48]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.50|Genesis 24:50 >>]]</td></tr></table>
 

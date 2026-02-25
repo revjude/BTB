@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fourth Day
+type: Pericope
 pericope: "[[Gen.1.14 The Fourth Day|The Fourth Day]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 1
 book/chapter: "[[Gen.1|Genesis 1]]"
-genre:
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.1.14]]"
 - "[[Gen.1.15]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.1.19]]"
 ---
 
-[[Gen.1|Genesis 1:14 - Genesis 1:19]]
+<small>[[Gen.1|Genesis 1:14-19]]</small>
 *The Fourth Day*
 
 [[Gen.1.14|14]] And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:

@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 4:6
+type: Verse
+kjv: "And they came thither into the midst of the house, as though they would have fetched wheat; and they smote him under the fifth rib: and Rechab and Baanah his brother escaped."
+bsb: "They entered the interior of the house as if to get some wheat, and they stabbed him in the stomach. Then Rechab and his brother Baanah slipped away."
+hebrew: "וְ֠הֵנָּה בָּ֜אוּ עַד־ תּ֤וֹךְ הַבַּ֙יִת֙ לֹקְחֵ֣י חִטִּ֔ים וַיַּכֻּ֖הוּ אֶל־ הַחֹ֑מֶשׁ וְרֵכָ֛ב וּבַעֲנָ֥ה אָחִ֖יו נִמְלָֽטוּ׃"
+pericope: "[[2Sam.4.1 The Murder of Ish-bosheth|The Murder of Ish-bosheth]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 4
+book/chapter: "[[2Sam.4|2 Samuel 4]]"
+chronological_order: 332
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic BAANAH|BAANAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISH-BOSHETH|ISH-BOSHETH]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic REGICIDE|REGICIDE]]"
+- "[[topic TREACHERY|TREACHERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H2007]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H3947G]]"
+- "[[H2406]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H2570]]"
+- "[[H7394G]]"
+- "[[H1196G]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H4422]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 4:6**<big><big>[[2Sam.4.1 The Murder of Ish-bosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came thither into the midst of the house, [as though] they would have fetched wheat; and they smote him under the fifth [rib]: and Rechab and Baanah his brother escaped.
 <small><sub>**BSB:**</sub></small>
 They entered the interior of the house as if to get some wheat, and they stabbed him in the stomach. Then Rechab and his brother Baanah slipped away.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H2007\|הֵנָּה]] [[H0935G\|בָּ֜אוּ]] [[H5704\|עַד]][[H9014\|־]] [[H8432\|תּ֤וֹךְ]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H3947G\|לֹקְחֵ֣י]] [[H2406\|חִטִּ֔ים]] [[H9001\|וַ]][[H5221\|יַּכֻּ֖]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2570\|חֹ֑מֶשׁ]] [[H9002\|וְ]][[H7394G\|רֵכָ֛ב]] [[H9002\|וּ]][[H1196G\|בַעֲנָ֥ה]] [[H0251G\|אָחִ֖י]][[H9023\|ו]] [[H4422\|נִמְלָֽטוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSASSINATION|ASSASSINATION]] • [[topic BAANAH|BAANAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISH-BOSHETH|ISH-BOSHETH]] • [[topic RECHAB|RECHAB]] • [[topic REGICIDE|REGICIDE]] • [[topic TREACHERY|TREACHERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.5|<< 2 Samuel 4:5]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.7|2 Samuel 4:7 >>]]</td></tr></table>
 

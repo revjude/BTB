@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Eutychus Revived at Troas
+type: Pericope
 pericope: "[[Acts.20.7 Eutychus Revived at Troas|Eutychus Revived at Troas]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 20
 book/chapter: "[[Acts.20|Acts 20]]"
-genre:
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.20.7]]"
 - "[[Acts.20.8]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.20.12]]"
 ---
 
-[[Acts.20|Acts 20:7 - Acts 20:12]]
+<small>[[Acts.20|Acts 20:7-12]]</small>
 *Eutychus Revived at Troas*
 
 [[Acts.20.7|7]] And upon the first \[day\] of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight.

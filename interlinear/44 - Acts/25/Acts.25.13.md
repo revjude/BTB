@@ -1,10 +1,54 @@
+---
+title: Acts 25:13
+type: Verse
+kjv: "And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus."
+bsb: "After several days had passed, King Agrippa and Bernice came down to Caesarea to pay their respects to Festus."
+greek: "Ἡμερῶν δὲ διαγενομένων τινῶν Ἀγρίππας ὁ βασιλεὺς καὶ Βερνίκη κατήντησαν εἰς Καισάρειαν ἀσπασάμενοι τὸν Φῆστον."
+pericope: "[[Acts.25.13 Festus Consults Agrippa|Festus Consults Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2250]]"
+- "[[G1161]]"
+- "[[G1230]]"
+- "[[G5100]]"
+- "[[G0067]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G0959]]"
+- "[[G2658]]"
+- "[[G1519]]"
+- "[[G2542H]]"
+- "[[G0782]]"
+- "[[G5347]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 25:13**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus.
 <small><sub>**BSB:**</sub></small>
 After several days had passed, King Agrippa and Bernice came down to Caesarea to pay their respects to Festus.
-<small><sub>**Literal:**</sub></small>
-When days now having passed some Agrippa the king and Bernice came down to Caesarea greeting <the> Festus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.12|<< Acts 25:12]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.14|Acts 25:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2250\|Ἡμερῶν]]  [[G1161\|δὲ]]  [[G1230\|διαγενομένων]]  [[G5100\|τινῶν]]  [[G0067\|Ἀγρίππας]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G2532\|καὶ]]  [[G0959\|Βερνίκη]]  [[G2658\|κατήντησαν]]  [[G1519\|εἰς]]  [[G2542H\|Καισάρειαν]]  [[G0782\|ἀσπασάμενοι]]  [[G3588\|τὸν]]  [[G5347\|Φῆστον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.12|<< Acts 25:12]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.14|Acts 25:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,50 @@
+---
+title: Mark 3:12
+type: Verse
+kjv: "And he straitly charged them that they should not make him known."
+bsb: "But He warned them sternly not to make Him known."
+greek: "καὶ πολλὰ ἐπετίμα αὐτοῖς ἵνα μὴ αὐτὸν φανερὸν ποιήσωσιν.¶"
+pericope: "[[Mark.3.7 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4183]]"
+- "[[G2008]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5318]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Mark 3:12**<big><big>[[Mark.3.7 Jesus Heals the Multitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he straitly charged them that they should not make him known.
 <small><sub>**BSB:**</sub></small>
 But He warned them sternly not to make Him known.
-<small><sub>**Literal:**</sub></small>
-And much He was rebuking them so that not Him known they may make.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.11|<< Mark 3:11]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.13|Mark 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4183\|πολλὰ]]  [[G2008\|ἐπετίμα]]  [[G0846\|αὐτοῖς]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G0846\|αὐτὸν]]  [[G5318\|φανερὸν]]  [[G4160G\|ποιήσωσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.11|<< Mark 3:11]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.13|Mark 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 6:56
+type: Verse
+kjv: "But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh."
+bsb: "But the fields and villages around the city were given to Caleb son of Jephunneh."
+hebrew: "וְאֶת־ שְׂדֵ֥ה הָעִ֖יר וְאֶת־ חֲצֵרֶ֑יהָ נָתְנ֖וּ לְכָלֵ֥ב בֶּן־ יְפֻנֶּֽה׃ ס"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7704G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2691B]]"
+- "[[H9024]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3612G]]"
+- "[[H1121A]]"
+- "[[H3312G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:56**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.
 <small><sub>**BSB:**</sub></small>
 But the fields and villages around the city were given to Caleb son of Jephunneh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7704G\|שְׂדֵ֥ה]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2691B\|חֲצֵרֶ֑י]][[H9024\|הָ]] [[H5414G\|נָתְנ֖וּ]] [[H9005\|לְ]][[H3612G\|כָלֵ֥ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3312G\|יְפֻנֶּֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.55|<< 1 Chronicles 6:55]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.57|1 Chronicles 6:57 >>]]</td></tr></table>
 
@@ -16,7 +63,7 @@ But the fields and villages around the city were given to Caleb son of Jephunneh
 | people gave  |**<big>&#8207;[[H5414G\|נָתְנ֖וּ]]&#8207; </big>**| na.te.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Caleb  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3612G\|כָלֵ֥ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kha.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jephunneh  |**<big>&#8207;[[H3312G\|יְפֻנֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.fu.Neh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jephunneh  |**<big>&#8207;[[H3312G\|יְפֻנֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.fu.Neh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.55|<< 1 Chronicles 6:55]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.57|1 Chronicles 6:57 >>]]</td></tr></table>
 
 

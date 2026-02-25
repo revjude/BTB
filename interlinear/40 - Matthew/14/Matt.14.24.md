@@ -1,10 +1,60 @@
+---
+title: Matthew 14:24
+type: Verse
+kjv: "But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary."
+bsb: "but the boat was already far from land, buffeted by the waves because the wind was against it."
+greek: "τὸ δὲ πλοῖον ἤδη σταδίους πολλοὺς ἀπὸ τῆς γῆς ἀπεῖχεν βασανιζόμενον ὑπὸ τῶν κυμάτων· ἦν γὰρ ἐναντίος ὁ ἄνεμος."
+pericope: "[[Matt.14.22 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4143]]"
+- "[[G2235]]"
+- "[[G4712]]"
+- "[[G4183]]"
+- "[[G0575]]"
+- "[[G1093H]]"
+- "[[G0568]]"
+- "[[G0928H]]"
+- "[[G5259G]]"
+- "[[G2949]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G1727]]"
+- "[[G0417]]"
+texts:
+- NKO
+- NO
+- N(K)O
+---
+
 **Matthew 14:24**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary.
 <small><sub>**BSB:**</sub></small>
 but the boat was already far from land, buffeted by the waves because the wind was against it.
-<small><sub>**Literal:**</sub></small>
-<the> And the boat now stadia many from of the land was fully being tossed by the waves; was for contrary [was] the wind.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.23|<< Matthew 14:23]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.25|Matthew 14:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G4143\|πλοῖον]]  [[G2235\|ἤδη]]  [[G4712\|σταδίους]]  [[G4183\|πολλοὺς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1093H\|γῆς]]  [[G0568\|ἀπεῖχεν]]  [[G0928H\|βασανιζόμενον]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G2949\|κυμάτων·]]  [[G1510\|ἦν]]  [[G1063\|γὰρ]]  [[G1727\|ἐναντίος]]  [[G3588\|ὁ]]  [[G0417\|ἄνεμος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.23|<< Matthew 14:23]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.25|Matthew 14:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

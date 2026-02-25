@@ -9,11 +9,11 @@
 
 → INSTANCES OF
 
-- The prison keeper, to Joseph [[Gen.39.21|Ge 39:21]]-[[Gen.39.23|23]]
+- The prison keeper, to Joseph [[Gen.39.21|Ge 39:21-23]]
 
 - Joshua to Rahab [[Josh.6.25|Jos 6:25]]
 
-- The Israelites to the man of Beth-el [[Judg.1.23|Jud 1:23]]-[[Judg.1.26|26]]
+- The Israelites to the man of Beth-el [[Judg.1.23|Jud 1:23-26]]
 
-- David to Saul [[1Sam.24.10|1Sa 24:10]]-[[1Sam.24.13|13]],[[1Sam.24.17|17]]
+- David to Saul [[1Sam.24.10|1Sa 24:10-13]],[[1Sam.24.17|17]]
 

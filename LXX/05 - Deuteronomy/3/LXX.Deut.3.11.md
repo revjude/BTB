@@ -1,6 +1,85 @@
+---
+title: LXX Deuteronomy 3:11
+type: Verse
+lxx: "For only Og king of Bashan was left from the Rephaim. Behold  his bed is a bed of iron. Behold this is in the Akra of the sons of Ammon. Nine cubits was the length of it, and four cubits the breadth of it, in the cubit of a man."
+greek: "ότι πλην Ωγ βασιλεύς Βασάν κατελείφθη από των Ραφαϊν ιδού η κλίνη αυτού κλίνη σιδηρά ιδού αύτη εν τη άκρα των υιών Αμμάν εννέα πηχέων το μήκος αυτής και τεσσάρων πηχέων το εύρος αυτής εν πήχει ανδρός"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic BED|BED]]"
+- "[[topic CUBIT|CUBIT]]"
+- "[[topic IRON|IRON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic RABBAH|RABBAH]]"
+- "[[topic REPHAIM|REPHAIM]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[G3754]]"
+- "[[G4133]]"
+- "[[H5747]]"
+- "[[G0935]]"
+- "[[H1316]]"
+- "[[G2641]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[H7497b]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G2825]]"
+- "[[G1473]]"
+- "[[G2825]]"
+- "[[G4603]]"
+- "[[G2400]]"
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G6202]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[H5983]]"
+- "[[G1767]]"
+- "[[G4083]]"
+- "[[G3588]]"
+- "[[G3372]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G5064]]"
+- "[[G4083]]"
+- "[[G3588]]"
+- "[[G7563]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G4083]]"
+- "[[G0435]]"
+---
+
 **LXX Deuteronomy 3:11** 
 <small><sub>**LXX:**</sub></small>
 For only Og king of Bashan was left from the Rephaim. Behold  his bed is a bed of iron. Behold this \[is\] in the Akra of the sons of Ammon. Nine cubits was the length of it, and four cubits the breadth of it, in \[the\] cubit of a man. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G4133\|πλην]] [[H5747\|Ωγ]] [[G0935\|βασιλεύς]] [[H1316\|Βασάν]] [[G2641\|κατελείφθη]] [[G0575\|από]] [[G3588\|των]] [[H7497b\|Ραφαϊν]] [[G2400\|ιδού]] [[G3588\|η]] [[G2825\|κλίνη]] [[G1473\|αυτού]] [[G2825\|κλίνη]] [[G4603\|σιδηρά]] [[G2400\|ιδού]] [[G3778\|αύτη]] [[G1722\|εν]] [[G3588\|τη]] [[G6202\|άκρα]] [[G3588\|των]] [[G5207\|υιών]] [[H5983\|Αμμάν]] [[G1767\|εννέα]] [[G4083\|πηχέων]] [[G3588\|το]] [[G3372\|μήκος]] [[G1473\|αυτής]] [[G2532\|και]] [[G5064\|τεσσάρων]] [[G4083\|πηχέων]] [[G3588\|το]] [[G7563\|εύρος]] [[G1473\|αυτής]] [[G1722\|εν]] [[G4083\|πήχει]] [[G0435\|ανδρός]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic BED|BED]] • [[topic CUBIT|CUBIT]] • [[topic IRON|IRON]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic RABBAH|RABBAH]] • [[topic REPHAIM|REPHAIM]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.10|<< Deuteronomy 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.12|Deuteronomy 3:12 >>]]</td></tr></table>
 
@@ -42,6 +121,6 @@ For only Og king of Bashan was left from the Rephaim. Behold  his bed is a bed o
 | in | **<big>[[G1722\|εν]]</big>** |
 | \[the\] cubit | **<big>[[G4083\|πήχει]]</big>** |
 | of a man. | **<big>[[G0435\|ανδρός]]</big>** |
-[[Deut.3.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.10|<< Deuteronomy 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.12|Deuteronomy 3:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.10|<< Deuteronomy 3:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.12|Deuteronomy 3:12 >>]]</td></tr></table>
 
 

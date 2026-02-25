@@ -1,8 +1,56 @@
+---
+title: Psalm 119:173
+type: Verse
+kjv: "Let thine hand help me; for I have chosen thy precepts."
+bsb: "May Your hand be ready to help me, for I have chosen Your precepts."
+hebrew: "תְּהִֽי־ יָדְךָ֥ לְעָזְרֵ֑נִי כִּ֖י פִקּוּדֶ֣יךָ בָחָֽרְתִּי׃"
+pericope: "[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|Your Word Is a Lamp to My Feet - TAU]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5826]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H6490]]"
+- "[[H0977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:173**<big><big>[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thine hand help me; for I have chosen thy precepts.
 <small><sub>**BSB:**</sub></small>
 May Your hand be ready to help me, for I have chosen Your precepts.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|תְּהִֽי]][[H9014\|־]] [[H3027H\|יָדְ]][[H9021\|ךָ֥]] [[H9005\|לְ]][[H5826\|עָזְרֵ֑]][[H9030\|נִי]] [[H3588A\|כִּ֖י]] [[H6490\|פִקּוּדֶ֣י]][[H9021\|ךָ]] [[H0977\|בָחָֽרְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.173|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.172|<< Psalms 119:172]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.174|Psalms 119:174 >>]]</td></tr></table>
 

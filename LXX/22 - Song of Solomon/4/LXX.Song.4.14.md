@@ -1,6 +1,57 @@
+---
+title: LXX Song of Solomon 4:14
+type: Verse
+lxx: "Spikenard and saffron, calamus and cinnamon, with all the woods  of Lebanon; myrrh, aloes, with all of the foremost perfumes."
+greek: "νάρδος και κρόκος κάλαμος και κιννάμωμον μετά πάντων ξύλων του Λιβάνου σμύρνα αλώθ μετά πάντων των πρώτων μύρων"
+original_language: Greek
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- septuagint
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic ALOES|ALOES]]"
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic CALAMUS|CALAMUS]]"
+- "[[topic CINNAMON|CINNAMON]]"
+- "[[topic MYRRH|MYRRH]]"
+- "[[topic SPIKENARD|SPIKENARD]]"
+strongs:
+- "[[G3487]]"
+- "[[G2532]]"
+- "[[G8099]]"
+- "[[G2563]]"
+- "[[G2532]]"
+- "[[G2792]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G3586]]"
+- "[[G3588]]"
+- "[[H3844]]"
+- "[[G4666]]"
+- "[[G6247]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4413]]"
+- "[[G3464]]"
+---
+
 **LXX Song of Solomon 4:14** 
 <small><sub>**LXX:**</sub></small>
 Spikenard and saffron, calamus and cinnamon, with all \[the\] woods  of Lebanon; myrrh, aloes, with all of the foremost perfumes. 
+<small><sub>**Greek:**</sub></small>
+[[G3487\|νάρδος]] [[G2532\|και]] [[G8099\|κρόκος]] [[G2563\|κάλαμος]] [[G2532\|και]] [[G2792\|κιννάμωμον]] [[G3326\|μετά]] [[G3956\|πάντων]] [[G3586\|ξύλων]] [[G3588\|του]] [[H3844\|Λιβάνου]] [[G4666\|σμύρνα]] [[G6247\|αλώθ]] [[G3326\|μετά]] [[G3956\|πάντων]] [[G3588\|των]] [[G4413\|πρώτων]] [[G3464\|μύρων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALOES|ALOES]] • [[topic BRIDEGROOM|BRIDEGROOM]] • [[topic CALAMUS|CALAMUS]] • [[topic CINNAMON|CINNAMON]] • [[topic MYRRH|MYRRH]] • [[topic SPIKENARD|SPIKENARD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Song.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.13|<< Song of Solomon 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.15|Song of Solomon 4:15 >>]]</td></tr></table>
 
@@ -24,6 +75,6 @@ Spikenard and saffron, calamus and cinnamon, with all \[the\] woods  of Lebanon;
 | of the | **<big>[[G3588\|των]]</big>** |
 | foremost | **<big>[[G4413\|πρώτων]]</big>** |
 | perfumes. | **<big>[[G3464\|μύρων]]</big>** |
-[[Song.4.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.13|<< Song of Solomon 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.15|Song of Solomon 4:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Song.4.13|<< Song of Solomon 4:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Song.4.15|Song of Solomon 4:15 >>]]</td></tr></table>
 
 

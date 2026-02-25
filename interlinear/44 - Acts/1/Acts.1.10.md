@@ -1,10 +1,59 @@
+---
+title: Acts 1:10
+type: Verse
+kjv: "And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;"
+bsb: "They were looking intently into the sky as He was going, when suddenly two men dressed in white stood beside them."
+greek: "καὶ ὡς ἀτενίζοντες ἦσαν εἰς τὸν οὐρανὸν πορευομένου αὐτοῦ, καὶ ἰδοὺ ἄνδρες δύο παρειστήκεισαν αὐτοῖς ἐν ἐσθήσεσι λευκαῖς,"
+pericope: "[[Acts.1.6 The Ascension|The Ascension]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ASCENSION|ASCENSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRANSLATION|TRANSLATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[G0816]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G4198]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G0435G]]"
+- "[[G1417]]"
+- "[[G3936]]"
+- "[[G1722]]"
+- "[[G2066]]"
+- "[[G3022]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 1:10**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And while they looked stedfastly toward heaven as he went up, behold, two men stood by them in white apparel;
 <small><sub>**BSB:**</sub></small>
 They were looking intently into the sky as He was going, when suddenly two men dressed in white stood beside them.
-<small><sub>**Literal:**</sub></small>
-And as looking intently they were into the heaven as is going He, then behold men two had stood by them in garments white,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.9|<< Acts 1:9]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.11|Acts 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G0816\|ἀτενίζοντες]]  [[G1510\|ἦσαν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G4198\|πορευομένου]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0435G\|ἄνδρες]]  [[G1417\|δύο]]  [[G3936\|παρειστήκεισαν]]  [[G0846\|αὐτοῖς]]  [[G1722\|ἐν]]  [[G2066\|ἐσθήσεσι]]  [[G3022\|λευκαῖς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ASCENSION|ASCENSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRANSLATION|TRANSLATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.9|<< Acts 1:9]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.11|Acts 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

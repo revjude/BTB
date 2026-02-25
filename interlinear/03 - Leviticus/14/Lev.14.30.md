@@ -1,8 +1,62 @@
+---
+title: Leviticus 14:30
+type: Verse
+kjv: "And he shall offer the one of the turtledoves, or of the young pigeons, such as he can get;"
+bsb: "Then he must sacrifice the turtledoves or young pigeons, whichever he can afford,"
+hebrew: "וְעָשָׂ֤ה אֶת־ הָֽאֶחָד֙ מִן־ הַתֹּרִ֔ים א֖וֹ מִן־ בְּנֵ֣י הַיּוֹנָ֑ה מֵאֲשֶׁ֥ר תַּשִּׂ֖יג יָדֽוֹ׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H4480A]]"
+- "[[H8449]]"
+- "[[H0176A]]"
+- "[[H1121H]]"
+- "[[H3123]]"
+- "[[H9006]]"
+- "[[H0834C]]"
+- "[[H5381]]"
+- "[[H3027I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:30**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall offer the one of the turtledoves, or of the young pigeons, such as he can get;
 <small><sub>**BSB:**</sub></small>
 Then he must sacrifice the turtledoves or young pigeons, whichever he can afford,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213I\|עָשָׂ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0259\|אֶחָד֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8449\|תֹּרִ֔ים]] [[H0176A\|א֖וֹ]] [[H4480A\|מִן]][[H9014\|־]] [[H1121H\|בְּנֵ֣י]] [[H9009\|הַ]][[H3123\|יּוֹנָ֑ה]] [[H9006\|מֵ]][[H0834C\|אֲשֶׁ֥ר]] [[H5381\|תַּשִּׂ֖יג]] [[H3027I\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.29|<< Leviticus 14:29]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.31|Leviticus 14:31 >>]]</td></tr></table>
 

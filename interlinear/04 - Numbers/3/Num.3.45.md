@@ -1,8 +1,67 @@
+---
+title: Numbers 3:45
+type: Verse
+kjv: "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the LORD."
+bsb: "“Take the Levites in place of all the firstborn of Israel, and the livestock of the Levites in place of their livestock. The Levites belong to Me; I am the LORD."
+hebrew: "קַ֣ח אֶת־ הַלְוִיִּ֗ם תַּ֤חַת כָּל־ בְּכוֹר֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל וְאֶת־ בֶּהֱמַ֥ת הַלְוִיִּ֖ם תַּ֣חַת בְּהֶמְתָּ֑ם וְהָיוּ־ לִ֥י הַלְוִיִּ֖ם אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Num.3.40 The Redemption of the Firstborn|The Redemption of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic SUBSTITUTION|SUBSTITUTION]]"
+strongs:
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H8478H]]"
+- "[[H3605]]"
+- "[[H1060]]"
+- "[[H9003]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:45**<big><big>[[Num.3.40 The Redemption of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 “Take the Levites in place of all the firstborn of Israel, and the livestock of the Levites in place of their livestock. The Levites belong to Me; I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3947G\|קַ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֗ם]] [[H8478H\|תַּ֤חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H1060\|בְּכוֹר֙]] [[H9003\|בִּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0929\|בֶּהֱמַ֥ת]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H8478H\|תַּ֣חַת]] [[H0929\|בְּהֶמְתָּ֑]][[H9028\|ם]] [[H9001\|וְ]][[H1961\|הָיוּ]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic LEVITES|LEVITES]] • [[topic SUBSTITUTION|SUBSTITUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.44|<< Numbers 3:44]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.46|Numbers 3:46 >>]]</td></tr></table>
 

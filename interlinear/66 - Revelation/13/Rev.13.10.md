@@ -1,10 +1,65 @@
+---
+title: Revelation 13:10
+type: Verse
+kjv: "He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints."
+bsb: "“If anyone is destined for captivity, into captivity he will go; if anyone is to die by the sword, by the sword he must be killed.” Here is a call for the perseverance and faith of the saints."
+greek: "εἴ τις εἰς αἰχμαλωσίαν συνάγει εἰς αἰχμαλωσίαν ὑπάγει, εἴ τις ἐν μαχαίρῃ ἀποκτανθῆναι, δεῖ αὐτὸν ἐν μαχαίρῃ ἀποκτανθῆναι· ὧδέ ἐστιν ἡ ὑπομονὴ καὶ ἡ πίστις τῶν ἁγίων.¶"
+pericope: "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G1519]]"
+- "[[G0161]]"
+- "[[G4863]]"
+- "[[G5217]]"
+- "[[G1722]]"
+- "[[G3162]]"
+- "[[G0615]]"
+- "[[G1163]]"
+- "[[G0846]]"
+- "[[G5602]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5281]]"
+- "[[G2532]]"
+- "[[G4102G]]"
+- "[[G0040H]]"
+texts:
+- NKO
+- n(o)
+- K
+- N(k)O
+- ko
+---
+
 **Revelation 13:10**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that leadeth into captivity shall go into captivity: he that killeth with the sword must be killed with the sword. Here is the patience and the faith of the saints.
 <small><sub>**BSB:**</sub></small>
 “If anyone is destined for captivity, into captivity he will go; if anyone is to die by the sword, by the sword he must be killed.” Here is a call for the perseverance and faith of the saints.
-<small><sub>**Literal:**</sub></small>
-If anyone into captivity gathers into captivity he goes, If anyone with [the] sword is to be killed, it is necessary for him by [the] sword [is] to be killed; Here is the endurance and the faith of the saints.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.9|<< Revelation 13:9]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.11|Revelation 13:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G5100\|τις]]  [[G1519\|εἰς]]  [[G0161\|αἰχμαλωσίαν]]  [[G4863\|συνάγει]]  [[G1519\|εἰς]]  [[G0161\|αἰχμαλωσίαν]]  [[G5217\|ὑπάγει,]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G1722\|ἐν]]  [[G3162\|μαχαίρῃ]]  [[G0615\|ἀποκτανθῆναι,]]  [[G1163\|δεῖ]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3162\|μαχαίρῃ]]  [[G0615\|ἀποκτανθῆναι·]]  [[G5602\|ὧδέ]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G5281\|ὑπομονὴ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PATIENCE|PATIENCE]] • [[topic VISION|VISION]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.9|<< Revelation 13:9]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.11|Revelation 13:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 13:10** is...
 > $\quad$ alluding to: [[LXX.Gen.9.6|Gen 9:6]] ☩ [[LXX.Isa.14.2|Isa 14:2]]

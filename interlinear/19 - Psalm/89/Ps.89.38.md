@@ -1,8 +1,54 @@
+---
+title: Psalm 89:38
+type: Verse
+kjv: "But thou hast cast off and abhorred, thou hast been wroth with thine anointed."
+bsb: "Now, however, You have spurned and rejected him; You are enraged by Your anointed one."
+hebrew: "וְאַתָּ֣ה זָ֭נַחְתָּ וַתִּמְאָ֑ס הִ֝תְעַבַּ֗רְתָּ עִם־ מְשִׁיחֶֽךָ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H2186A]]"
+- "[[H9001]]"
+- "[[H3988A]]"
+- "[[H5674B]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H4899]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:38**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou hast cast off and abhorred, thou hast been wroth with thine anointed.
 <small><sub>**BSB:**</sub></small>
 Now, however, You have spurned and rejected him; You are enraged by Your anointed one.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H2186A\|זָ֭נַחְתָּ]] [[H9001\|וַ]][[H3988A\|תִּמְאָ֑ס]] [[H5674B\|הִ֝תְעַבַּ֗רְתָּ]] [[H5973A\|עִם]][[H9014\|־]] [[H4899\|מְשִׁיחֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.37|<< Psalms 89:37]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.39|Psalms 89:39 >>]]</td></tr></table>
 

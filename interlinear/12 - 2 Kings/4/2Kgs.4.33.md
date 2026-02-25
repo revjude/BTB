@@ -1,8 +1,60 @@
+---
+title: 2 Kings 4:33
+type: Verse
+kjv: "He went in therefore, and shut the door upon them twain, and prayed unto the LORD."
+bsb: "So he went in, closed the door behind the two of them, and prayed to the LORD."
+hebrew: "וַיָּבֹ֕א וַיִּסְגֹּ֥ר הַדֶּ֖לֶת בְּעַ֣ד שְׁנֵיהֶ֑ם וַיִּתְפַּלֵּ֖ל אֶל־ יְהוָֽה׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5462]]"
+- "[[H9009]]"
+- "[[H1817C]]"
+- "[[H1157]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H6419]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:33**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He went in therefore, and shut the door upon them twain, and prayed unto the LORD.
 <small><sub>**BSB:**</sub></small>
 So he went in, closed the door behind the two of them, and prayed to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֕א]] [[H9001\|וַ]][[H5462\|יִּסְגֹּ֥ר]] [[H9009\|הַ]][[H1817C\|דֶּ֖לֶת]] [[H1157\|בְּעַ֣ד]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H6419\|יִּתְפַּלֵּ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic ELISHA|ELISHA]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.32|<< 2 Kings 4:32]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.34|2 Kings 4:34 >>]]</td></tr></table>
 

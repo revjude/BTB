@@ -1,8 +1,67 @@
+---
+title: Numbers 12:12
+type: Verse
+kjv: "Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb."
+bsb: "Please do not let her be like a stillborn infant whose flesh is half consumed when he comes out of his mother’s womb.”"
+hebrew: "אַל־ נָ֥א תְהִ֖י כַּמֵּ֑ת אֲשֶׁ֤ר בְּצֵאתוֹ֙ מֵרֶ֣חֶם אִמּ֔וֹ וַיֵּאָכֵ֖ל חֲצִ֥י בְשָׂרֽוֹ׃"
+pericope: "[[Num.12.1 The Complaint of Miriam and Aaron|The Complaint of Miriam and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 12
+book/chapter: "[[Num.12|Numbers 12]]"
+chronological_order: 172
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H4191]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3318M]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H7358]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H2677]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 12:12**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let her not be as one dead, of whom the flesh is half consumed when he cometh out of his mother’s womb.
 <small><sub>**BSB:**</sub></small>
 Please do not let her be like a stillborn infant whose flesh is half consumed when he comes out of his mother’s womb.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֥א]] [[H1961\|תְהִ֖י]] [[H9004\|כַּ]][[H4191\|מֵּ֑ת]] [[H0834A\|אֲשֶׁ֤ר]] [[H9003\|בְּ]][[H3318M\|צֵאת]][[H9043\|וֹ֙]] [[H9006\|מֵ]][[H7358\|רֶ֣חֶם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H0398\|יֵּאָכֵ֖ל]] [[H2677\|חֲצִ֥י]] [[H1320\|בְשָׂרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.11|<< Numbers 12:11]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.13|Numbers 12:13 >>]]</td></tr></table>
 

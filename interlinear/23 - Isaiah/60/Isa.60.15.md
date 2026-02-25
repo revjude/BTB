@@ -1,8 +1,59 @@
+---
+title: Isaiah 60:15
+type: Verse
+kjv: "Whereas thou hast been forsaken and hated, so that no man went through thee, I will make thee an eternal excellency, a joy of many generations."
+bsb: "Whereas you have been forsaken and despised, with no one passing through, I will make you an everlasting pride, a joy from age to age."
+hebrew: "תַּ֧חַת הֱיוֹתֵ֛ךְ עֲזוּבָ֥ה וּשְׂנוּאָ֖ה וְאֵ֣ין עוֹבֵ֑ר וְשַׂמְתִּיךְ֙ לִגְא֣וֹן עוֹלָ֔ם מְשׂ֖וֹשׂ דּ֥וֹר וָדֽוֹר׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+strongs:
+- "[[H8478H]]"
+- "[[H1961]]"
+- "[[H9042]]"
+- "[[H5800A]]"
+- "[[H9002]]"
+- "[[H8130]]"
+- "[[H0369]]"
+- "[[H5674A]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9032]]"
+- "[[H9005]]"
+- "[[H1347]]"
+- "[[H5769G]]"
+- "[[H4885]]"
+- "[[H1755]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:15**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whereas thou hast been forsaken and hated, so that no man went through [thee], I will make thee an eternal excellency, a joy of many generations.
 <small><sub>**BSB:**</sub></small>
 Whereas you have been forsaken and despised, with no one passing through, I will make you an everlasting pride, a joy from age to age.
+<small><sub>**Hebrew:**</sub></small>
+[[H8478H\|תַּ֧חַת]] [[H1961\|הֱיוֹתֵ֛]][[H9042\|ךְ]] [[H5800A\|עֲזוּבָ֥ה]] [[H9002\|וּ]][[H8130\|שְׂנוּאָ֖ה]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H5674A\|עוֹבֵ֑ר]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּי]][[H9032\|ךְ֙]] [[H9005\|לִ]][[H1347\|גְא֣וֹן]] [[H5769G\|עוֹלָ֔ם]] [[H4885\|מְשׂ֖וֹשׂ]] [[H1755\|דּ֥וֹר]] [[H9002\|וָ]][[H1755\|דֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.14|<< Isaiah 60:14]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.16|Isaiah 60:16 >>]]</td></tr></table>
 

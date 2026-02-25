@@ -1,8 +1,52 @@
+---
+title: Judges 2:16
+type: Verse
+kjv: "Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them."
+bsb: "Then the LORD raised up judges, who saved them from the hands of those who plundered them."
+hebrew: "וַיָּ֥קֶם יְהוָ֖ה שֹֽׁפְטִ֑ים וַיּ֣וֹשִׁיע֔וּם מִיַּ֖ד שֹׁסֵיהֶֽם׃"
+pericope: "[[Judg.2.16 Judges Raised Up|Judges Raised Up]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 2
+book/chapter: "[[Judg.2|Judges 2]]"
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965H]]"
+- "[[H3068G]]"
+- "[[H8199]]"
+- "[[H3467]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H8154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 2:16**<big><big>[[Judg.2.16 Judges Raised Up|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the LORD raised up judges, which delivered them out of the hand of those that spoiled them.
 <small><sub>**BSB:**</sub></small>
 Then the LORD raised up judges, who saved them from the hands of those who plundered them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965H\|יָּ֥קֶם]] [[H3068G\|יְהוָ֖ה]] [[H8199\|שֹֽׁפְטִ֑ים]] [[H9001\|וַ]][[H3467\|יּ֣וֹשִׁיע֔וּ]][[H9038\|ם]] [[H9006\|מִ]][[H3027H\|יַּ֖ד]] [[H8154\|שֹׁסֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.2.15|<< Judges 2:15]]</td><td align="center" style="border:none;">[[Judg.2|Judges 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.2.17|Judges 2:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

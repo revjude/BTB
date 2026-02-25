@@ -1,10 +1,57 @@
+---
+title: John 6:2
+type: Verse
+kjv: "And a great multitude followed him, because they saw his miracles which he did on them that were diseased."
+bsb: "A large crowd followed Him because they saw the signs He was performing on the sick."
+greek: "καὶ ἠκολούθει δὲ αὐτῷ ὄχλος πολύς, ὅτι ἐθεώρουν αὐτοῦ τὰ σημεῖα ἃ ἐποίει ἐπὶ τῶν ἀσθενούντων."
+pericope: "[[John.6.1 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0190]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G3754H]]"
+- "[[G2334]]"
+- "[[G3588]]"
+- "[[G4592]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G1909]]"
+- "[[G0770H]]"
+texts:
+- k
+- NKO
+- no
+- N(k)O
+---
+
 **John 6:2**<big><big>[[John.6.1 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a great multitude followed him, because they saw his miracles which he did on them that were diseased.
 <small><sub>**BSB:**</sub></small>
 A large crowd followed Him because they saw the signs He was performing on the sick.
-<small><sub>**Literal:**</sub></small>
-and Was following now after Him a crowd great, because they were experiencing of him the signs which He was doing upon those being sick.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.1|<< John 6:1]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.3|John 6:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0190\|ἠκολούθει]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3793\|ὄχλος]]  [[G4183\|πολύς,]]  [[G3754H\|ὅτι]]  [[G2334\|ἐθεώρουν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὰ]]  [[G4592\|σημεῖα]]  [[G3739\|ἃ]]  [[G4160G\|ἐποίει]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G0770H\|ἀσθενούντων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.1|<< John 6:1]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.3|John 6:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

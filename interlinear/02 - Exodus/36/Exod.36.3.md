@@ -1,8 +1,76 @@
+---
+title: Exodus 36:3
+type: Verse
+kjv: "And they received of Moses all the offering, which the children of Israel had brought for the work of the service of the sanctuary, to make it withal. And they brought yet unto him free offerings every morning."
+bsb: "They received from Moses all the contributions that the Israelites had brought to carry out the service of constructing the sanctuary. Meanwhile, the people continued to bring freewill offerings morning after morning,"
+hebrew: "וַיִּקְח֞וּ מִלִּפְנֵ֣י מֹשֶׁ֗ה אֵ֤ת כָּל־ הַתְּרוּמָה֙ אֲשֶׁ֨ר הֵבִ֜יאוּ בְּנֵ֣י יִשְׂרָאֵ֗ל לִמְלֶ֛אכֶת עֲבֹדַ֥ת הַקֹּ֖דֶשׁ לַעֲשֹׂ֣ת אֹתָ֑הּ וְ֠הֵם הֵבִ֨יאוּ אֵלָ֥יו ע֛וֹד נְדָבָ֖ה בַּבֹּ֥קֶר בַּבֹּֽקֶר׃"
+pericope: "[[Exod.36.1 The People Bring More than Enough|The People Bring More than Enough]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947H]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440L]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8641]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H4399]]"
+- "[[H5656H]]"
+- "[[H6944G]]"
+- "[[H6213A]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H5750]]"
+- "[[H5071]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:3**<big><big>[[Exod.36.1 The People Bring More than Enough|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they received of Moses all the offering, which the children of Israel had brought for the work of the service of the sanctuary, to make it [withal]. And they brought yet unto him free offerings every morning.
 <small><sub>**BSB:**</sub></small>
 They received from Moses all the contributions that the Israelites had brought to carry out the service of constructing the sanctuary. Meanwhile, the people continued to bring freewill offerings morning after morning,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947H\|יִּקְח֞וּ]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440L\|פְנֵ֣י]] [[H4872\|מֹשֶׁ֗ה]] [[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8641\|תְּרוּמָה֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H0935P\|הֵבִ֜יאוּ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לִ]][[H4399\|מְלֶ֛אכֶת]] [[H5656H\|עֲבֹדַ֥ת]] [[H9009\|הַ]][[H6944G\|קֹּ֖דֶשׁ]] [[H9005\|לַ]][[H6213A\|עֲשֹׂ֣ת]] [[H0853\|אֹתָ֑]][[H9034\|הּ]] [[H9002\|וְ֠]][[H1992\|הֵם]] [[H0935P\|הֵבִ֨יאוּ]] [[H0413\|אֵלָ֥י]][[H9033\|ו]] [[H5750\|ע֛וֹד]] [[H5071\|נְדָבָ֖ה]] [[H9003\|בַּ]][[H1242\|בֹּ֥קֶר]] [[H9003\|בַּ]][[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.2|<< Exodus 36:2]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.4|Exodus 36:4 >>]]</td></tr></table>
 

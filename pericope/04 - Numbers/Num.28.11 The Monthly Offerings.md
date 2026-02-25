@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Monthly Offerings
+type: Pericope
 pericope: "[[Num.28.11 The Monthly Offerings|The Monthly Offerings]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 28
 book/chapter: "[[Num.28|Numbers 28]]"
-genre:
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.28.11]]"
 - "[[Num.28.12]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.28.15]]"
 ---
 
-[[Num.28|Numbers 28:11 - Numbers 28:15]]
+<small>[[Num.28|Numbers 28:11-15]]</small>
 *The Monthly Offerings*
 
 [[Num.28.11|11]] And in the beginnings of your months ye shall offer a burnt offering unto the LORD; two young bullocks, and one ram, seven lambs of the first year without spot;

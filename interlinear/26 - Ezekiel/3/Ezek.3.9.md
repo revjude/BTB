@@ -1,8 +1,70 @@
+---
+title: Ezekiel 3:9
+type: Verse
+kjv: "As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they be a rebellious house."
+bsb: "I will make your forehead like a diamond, harder than flint. Do not be afraid of them or dismayed at their presence, even though they are a rebellious house.”"
+hebrew: "כְּשָׁמִ֛יר חָזָ֥ק מִצֹּ֖ר נָתַ֣תִּי מִצְחֶ֑ךָ לֹֽא־ תִירָ֤א אוֹתָם֙ וְלֹא־ תֵחַ֣ת מִפְּנֵיהֶ֔ם כִּ֛י בֵּֽית־ מְרִ֖י הֵֽמָּה׃ פ"
+pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADAMANT|ADAMANT]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FLINT|FLINT]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9004]]"
+- "[[H8068]]"
+- "[[H2389]]"
+- "[[H9006]]"
+- "[[H6864]]"
+- "[[H5414I]]"
+- "[[H4696]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H2865]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H1004M]]"
+- "[[H4805H]]"
+- "[[H1992]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 3:9**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As an adamant harder than flint have I made thy forehead: fear them not, neither be dismayed at their looks, though they [be] a rebellious house.
 <small><sub>**BSB:**</sub></small>
 I will make your forehead like a diamond, harder than flint. Do not be afraid of them or dismayed at their presence, even though they are a rebellious house.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H8068\|שָׁמִ֛יר]] [[H2389\|חָזָ֥ק]] [[H9006\|מִ]][[H6864\|צֹּ֖ר]] [[H5414I\|נָתַ֣תִּי]] [[H4696\|מִצְחֶ֑]][[H9021\|ךָ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3372G\|תִירָ֤א]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2865\|תֵחַ֣ת]] [[H9006\|מִ]][[H6440H\|פְּנֵי]][[H9028\|הֶ֔ם]] [[H3588A\|כִּ֛י]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H4805H\|מְרִ֖י]] [[H1992\|הֵֽמָּה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAMANT|ADAMANT]] • [[topic COURAGE|COURAGE]] • [[topic FLINT|FLINT]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.8|<< Ezekiel 3:8]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.10|Ezekiel 3:10 >>]]</td></tr></table>
 
@@ -22,7 +84,7 @@ I will make your forehead like a diamond, harder than flint. Do not be afraid of
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] a house of  |**<big>&#8207;[[H1004M\|בֵּֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| beit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | rebellion  |**<big>&#8207;[[H4805H\|מְרִ֖י]]&#8207; </big>**| me.Ri<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  |**<big>&#8207;[[H1992\|הֵֽמָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they  |**<big>&#8207;[[H1992\|הֵֽמָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.8|<< Ezekiel 3:8]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.10|Ezekiel 3:10 >>]]</td></tr></table>
 
 

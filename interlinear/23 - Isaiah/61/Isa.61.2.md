@@ -1,8 +1,66 @@
+---
+title: Isaiah 61:2
+type: Verse
+kjv: "To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn;"
+bsb: "to proclaim the year of the LORD’s favor and the day of our God’s vengeance, to comfort all who mourn,"
+hebrew: "לִקְרֹ֤א שְׁנַת־ רָצוֹן֙ לַֽיהוָ֔ה וְי֥וֹם נָקָ֖ם לֵאלֹהֵ֑ינוּ לְנַחֵ֖ם כָּל־ אֲבֵלִֽים׃"
+pericope: "[[Isa.61.1 The Year of the LORD’s Favor|The Year of the LORD’s Favor]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 61
+book/chapter: "[[Isa.61|Isaiah 61]]"
+chronological_order: 700
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LIBERTY|LIBERTY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[H9005]]"
+- "[[H7121I]]"
+- "[[H8141]]"
+- "[[H9014]]"
+- "[[H7522]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3117G]]"
+- "[[H5359]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5162G]]"
+- "[[H3605]]"
+- "[[H0057]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 61:2**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn;
 <small><sub>**BSB:**</sub></small>
 to proclaim the year of the LORD’s favor and the day of our God’s vengeance, to comfort all who mourn,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H7121I\|קְרֹ֤א]] [[H8141\|שְׁנַת]][[H9014\|־]] [[H7522\|רָצוֹן֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9002\|וְ]][[H3117G\|י֥וֹם]] [[H5359\|נָקָ֖ם]] [[H9005\|לֵ]][[H0430G\|אלֹהֵ֑י]][[H9025\|נוּ]] [[H9005\|לְ]][[H5162G\|נַחֵ֖ם]] [[H3605\|כָּל]][[H9014\|־]] [[H0057\|אֲבֵלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUBILEE|JUBILEE]] • [[topic LIBERTY|LIBERTY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic TRINITY|TRINITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.1|<< Isaiah 61:1]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.3|Isaiah 61:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

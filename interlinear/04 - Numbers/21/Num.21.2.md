@@ -1,8 +1,67 @@
+---
+title: Numbers 21:2
+type: Verse
+kjv: "And Israel vowed a vow unto the LORD, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities."
+bsb: "So Israel made a vow to the LORD: “If You will deliver this people into our hands, we will devote their cities to destruction.”"
+hebrew: "וַיִּדַּ֨ר יִשְׂרָאֵ֥ל נֶ֛דֶר לַֽיהוָ֖ה וַיֹּאמַ֑ר אִם־ נָתֹ֨ן תִּתֵּ֜ן אֶת־ הָעָ֤ם הַזֶּה֙ בְּיָדִ֔י וְהַֽחֲרַמְתִּ֖י אֶת־ עָרֵיהֶֽם׃"
+pericope: "[[Num.21.1 The Defeat of Arad|The Defeat of Arad]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HORMAH|HORMAH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5087]]"
+- "[[H3478]]"
+- "[[H5088]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H2763A]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:2**<big><big>[[Num.21.1 The Defeat of Arad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel vowed a vow unto the LORD, and said, If thou wilt indeed deliver this people into my hand, then I will utterly destroy their cities.
 <small><sub>**BSB:**</sub></small>
 So Israel made a vow to the LORD: “If You will deliver this people into our hands, we will devote their cities to destruction.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5087\|יִּדַּ֨ר]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H5088\|נֶ֛דֶר]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H0518A\|אִם]][[H9014\|־]] [[H5414G\|נָתֹ֨ן]] [[H5414G\|תִּתֵּ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֤ם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9003\|בְּ]][[H3027H\|יָדִ֔]][[H9020\|י]] [[H9001\|וְ]][[H2763A\|הַֽחֲרַמְתִּ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עָרֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic HORMAH|HORMAH]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.1|<< Numbers 21:1]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.3|Numbers 21:3 >>]]</td></tr></table>
 

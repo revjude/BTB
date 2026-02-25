@@ -1,8 +1,65 @@
+---
+title: Jeremiah 25:34
+type: Verse
+kjv: "Howl, ye shepherds, and cry; and wallow yourselves in the ashes, ye principal of the flock: for the days of your slaughter and of your dispersions are accomplished; and ye shall fall like a pleasant vessel."
+bsb: "Wail, you shepherds, and cry out; roll in the dust, you leaders of the flock. For the days of your slaughter have come; you will fall and be shattered like fine pottery."
+hebrew: "הֵילִ֨ילוּ הָרֹעִ֜ים וְזַעֲק֗וּ וְהִֽתְפַּלְּשׁוּ֙ אַדִּירֵ֣י הַצֹּ֔אן כִּֽי־ מָלְא֥וּ יְמֵיכֶ֖ם לִטְב֑וֹחַ וּתְפוֹצ֣וֹתִיכֶ֔ם וּנְפַלְתֶּ֖ם כִּכְלִ֥י חֶמְדָּֽה׃"
+pericope: "[[Jer.25.34 The Cry of the Shepherds|The Cry of the Shepherds]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3213]]"
+- "[[H9009]]"
+- "[[H7462B]]"
+- "[[H9002]]"
+- "[[H2199]]"
+- "[[H6428]]"
+- "[[H0117]]"
+- "[[H6629G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4390]]"
+- "[[H3117G]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H2873]]"
+- "[[H8600]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H9004]]"
+- "[[H3627]]"
+- "[[H2532A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:34**<big><big>[[Jer.25.34 The Cry of the Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl, ye shepherds, and cry; and wallow yourselves [in the ashes], ye principal of the flock: for the days of your slaughter and of your dispersions are accomplished; and ye shall fall like a pleasant vessel.
 <small><sub>**BSB:**</sub></small>
 Wail, you shepherds, and cry out; roll in the dust, you leaders of the flock. For the days of your slaughter have come; you will fall and be shattered like fine pottery.
+<small><sub>**Hebrew:**</sub></small>
+[[H3213\|הֵילִ֨ילוּ]] [[H9009\|הָ]][[H7462B\|רֹעִ֜ים]] [[H9002\|וְ]][[H2199\|זַעֲק֗וּ]] [[H9002\|וְ]][[H6428\|הִֽתְפַּלְּשׁוּ֙]] [[H0117\|אַדִּירֵ֣י]] [[H9009\|הַ]][[H6629G\|צֹּ֔אן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4390\|מָלְא֥וּ]] [[H3117G\|יְמֵי]][[H9026\|כֶ֖ם]] [[H9005\|לִ]][[H2873\|טְב֑וֹחַ]] [[H9002\|וּ]][[H8600\|תְפוֹצ֣וֹתִי]][[H9026\|כֶ֔ם]] [[H9001\|וּ]][[H5307G\|נְפַלְתֶּ֖ם]] [[H9004\|כִּ]][[H3627\|כְלִ֥י]] [[H2532A\|חֶמְדָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.33|<< Jeremiah 25:33]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.35|Jeremiah 25:35 >>]]</td></tr></table>
 

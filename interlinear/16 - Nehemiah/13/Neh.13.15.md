@@ -1,8 +1,76 @@
+---
+title: Nehemiah 13:15
+type: Verse
+kjv: "In those days saw I in Judah some treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all manner of burdens, which they brought into Jerusalem on the sabbath day: and I testified against them in the day wherein they sold victuals."
+bsb: "In those days I saw people in Judah treading winepresses on the Sabbath and bringing in grain and loading it on donkeys, along with wine, grapes, and figs. All kinds of goods were being brought into Jerusalem on the Sabbath day. So I warned them against selling food on that day."
+hebrew: "בַּיָּמִ֣ים הָהֵ֡מָּה רָאִ֣יתִי בִֽיהוּדָ֣ה׀ דֹּֽרְכִֽים־ גִּתּ֣וֹת׀ בַּשַּׁבָּ֡ת וּמְבִיאִ֣ים הָעֲרֵמ֣וֹת וְֽעֹמְסִ֪ים עַל־ הַחֲמֹרִ֟ים וְאַף־ יַ֜יִן עֲנָבִ֤ים וּתְאֵנִים֙ וְכָל־ מַשָּׂ֔א וּמְבִיאִ֥ים יְרוּשָׁלִַ֖ם בְּי֣וֹם הַשַּׁבָּ֑ת וָאָעִ֕יד בְּי֖וֹם מִכְרָ֥ם צָֽיִד׃"
+pericope: "[[Neh.13.15 The Sabbath Restored|The Sabbath Restored]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic FIG|FIG]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRAFFIC|TRAFFIC]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H7200G]]"
+- "[[H3063G]]"
+- "[[H9015]]"
+- "[[H1869]]"
+- "[[H9014]]"
+- "[[H1660]]"
+- "[[H7676]]"
+- "[[H9002]]"
+- "[[H0935P]]"
+- "[[H6194]]"
+- "[[H6006]]"
+- "[[H5921A]]"
+- "[[H2543]]"
+- "[[H0637]]"
+- "[[H3196]]"
+- "[[H6025]]"
+- "[[H8384]]"
+- "[[H3605]]"
+- "[[H4853A]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H5749B]]"
+- "[[H4376]]"
+- "[[H9048]]"
+- "[[H6718B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:15**<big><big>[[Neh.13.15 The Sabbath Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days saw I in Judah [some] treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all [manner of] burdens, which they brought into Jerusalem on the sabbath day: and I testified [against them] in the day wherein they sold victuals.
 <small><sub>**BSB:**</sub></small>
 In those days I saw people in Judah treading winepresses on the Sabbath and bringing in grain and loading it on donkeys, along with wine, grapes, and figs. All kinds of goods were being brought into Jerusalem on the Sabbath day. So I warned them against selling food on that day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֡מָּה]] [[H7200G\|רָאִ֣יתִי]] [[H9003\|בִֽ]][[H3063G\|יהוּדָ֣ה]][[H9015\|׀]] [[H1869\|דֹּֽרְכִֽים]][[H9014\|־]] [[H1660\|גִּתּ֣וֹת]][[H9015\|׀]] [[H9003\|בַּ]][[H7676\|שַּׁבָּ֡ת]] [[H9002\|וּ]][[H0935P\|מְבִיאִ֣ים]] [[H9009\|הָ]][[H6194\|עֲרֵמ֣וֹת]] [[H9002\|וְֽ]][[H6006\|עֹמְסִ֪ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמֹרִ֟ים]] [[H9002\|וְ]][[H0637\|אַף]][[H9014\|־]] [[H3196\|יַ֜יִן]] [[H6025\|עֲנָבִ֤ים]] [[H9002\|וּ]][[H8384\|תְאֵנִים֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4853A\|מַשָּׂ֔א]] [[H9002\|וּ]][[H0935P\|מְבִיאִ֥ים]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֑ת]] [[H9001\|וָ]][[H5749B\|אָעִ֕יד]] [[H9003\|בְּ]][[H3117G\|י֖וֹם]] [[H4376\|מִכְרָ֥]][[H9048\|ם]] [[H6718B\|צָֽיִד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic FIG|FIG]] • [[topic HARVEST|HARVEST]] • [[topic SABBATH|SABBATH]] • [[topic TRAFFIC|TRAFFIC]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.14|<< Nehemiah 13:14]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.16|Nehemiah 13:16 >>]]</td></tr></table>
 

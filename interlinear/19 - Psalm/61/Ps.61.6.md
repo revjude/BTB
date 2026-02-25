@@ -1,8 +1,55 @@
+---
+title: Psalm 61:6
+type: Verse
+kjv: "Thou wilt prolong the king’s life: and his years as many generations."
+bsb: "Increase the days of the king’s life; may his years span many generations."
+hebrew: "יָמִ֣ים עַל־ יְמֵי־ מֶ֣לֶךְ תּוֹסִ֑יף שְׁ֝נוֹתָ֗יו כְּמוֹ־ דֹ֥ר וָדֹֽר׃"
+pericope: "[[Ps.61.1 You Have Heard My Vows|You Have Heard My Vows]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 61
+book/chapter: "[[Ps.61|Psalm 61]]"
+chronological_order: 372
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3117K]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3254G]]"
+- "[[H8141]]"
+- "[[H9023]]"
+- "[[H3644G]]"
+- "[[H1755]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 61:6**<big><big>[[Ps.61.1 You Have Heard My Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou wilt prolong the king’s life: [and] his years as many generations.
 <small><sub>**BSB:**</sub></small>
 Increase the days of the king’s life; may his years span many generations.
+<small><sub>**Hebrew:**</sub></small>
+[[H3117K\|יָמִ֣ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3117K\|יְמֵי]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3254G\|תּוֹסִ֑יף]] [[H8141\|שְׁ֝נוֹתָ֗י]][[H9023\|ו]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H1755\|דֹ֥ר]] [[H9002\|וָ]][[H1755\|דֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.61.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.5|<< Psalms 61:5]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.61.7|Psalms 61:7 >>]]</td></tr></table>
 

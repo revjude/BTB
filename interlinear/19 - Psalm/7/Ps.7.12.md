@@ -1,8 +1,56 @@
+---
+title: Psalm 7:12
+type: Verse
+kjv: "If he turn not, he will whet his sword; he hath bent his bow, and made it ready."
+bsb: "If one does not repent, God will sharpen His sword; He has bent and strung His bow."
+hebrew: "אִם־ לֹ֣א יָ֭שׁוּב חַרְבּ֣וֹ יִלְט֑וֹשׁ קַשְׁתּ֥וֹ דָ֝רַ֗ךְ וַֽיְכוֹנְנֶֽהָ׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H7725O]]"
+- "[[H2719]]"
+- "[[H9023]]"
+- "[[H3913]]"
+- "[[H7198]]"
+- "[[H1869]]"
+- "[[H9001]]"
+- "[[H3559A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:12**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he turn not, he will whet his sword; he hath bent his bow, and made it ready.
 <small><sub>**BSB:**</sub></small>
 If one does not repent, God will sharpen His sword; He has bent and strung His bow.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H7725O\|יָ֭שׁוּב]] [[H2719\|חַרְבּ֣]][[H9023\|וֹ]] [[H3913\|יִלְט֑וֹשׁ]] [[H7198\|קַשְׁתּ֥]][[H9023\|וֹ]] [[H1869\|דָ֝רַ֗ךְ]] [[H9001\|וַֽ]][[H3559A\|יְכוֹנְנֶֽ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.11|<< Psalms 7:11]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.13|Psalms 7:13 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 24:2
+type: Verse
+kjv: "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office."
+bsb: "But Nadab and Abihu died before their father did, and they had no sons; so Eleazar and Ithamar served as priests."
+hebrew: "וַיָּ֨מָת נָדָ֤ב וַאֲבִיהוּא֙ לִפְנֵ֣י אֲבִיהֶ֔ם וּבָנִ֖ים לֹא־ הָי֣וּ לָהֶ֑ם וַֽיְכַהֲנ֔וּ אֶלְעָזָ֖ר וְאִיתָמָֽר׃"
+pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H5070G]]"
+- "[[H9002]]"
+- "[[H0030]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H1121A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9038]]"
+- "[[H3547]]"
+- "[[H0499G]]"
+- "[[H0385]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:2**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office.
 <small><sub>**BSB:**</sub></small>
 But Nadab and Abihu died before their father did, and they had no sons; so Eleazar and Ithamar served as priests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֨מָת]] [[H5070G\|נָדָ֤ב]] [[H9002\|וַ]][[H0030\|אֲבִיהוּא֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0001G\|אֲבִי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H1121A\|בָנִ֖ים]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָי֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9001\|וַֽ]][[H3547\|יְכַהֲנ֔וּ]] [[H0499G\|אֶלְעָזָ֖ר]] [[H9002\|וְ]][[H0385\|אִיתָמָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic ITHAMAR|ITHAMAR]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.1|<< 1 Chronicles 24:1]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.3|1 Chronicles 24:3 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Isaiah 42:16
+type: Verse
+kjv: "And I will bring the blind by a way that they knew not; I will lead them in paths that they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them."
+bsb: "I will lead the blind by a way they did not know; I will guide them on unfamiliar paths. I will turn darkness into light before them and rough places into level ground. These things I will do for them, and I will not forsake them."
+hebrew: "וְהוֹלַכְתִּ֣י עִוְרִ֗ים בְּדֶ֙רֶךְ֙ לֹ֣א יָדָ֔עוּ בִּנְתִיב֥וֹת לֹֽא־ יָדְע֖וּ אַדְרִיכֵ֑ם אָשִׂים֩ מַחְשָׁ֨ךְ לִפְנֵיהֶ֜ם לָא֗וֹר וּמַֽעֲקַשִּׁים֙ לְמִישׁ֔וֹר אֵ֚לֶּה הַדְּבָרִ֔ים עֲשִׂיתִ֖ם וְלֹ֥א עֲזַבְתִּֽים׃"
+pericope: "[[Isa.42.10 A New Song of Praise|A New Song of Praise]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980J]]"
+- "[[H5787]]"
+- "[[H9003]]"
+- "[[H1870J]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H5410B]]"
+- "[[H9014]]"
+- "[[H1869]]"
+- "[[H9038]]"
+- "[[H7760A]]"
+- "[[H4285]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H0216]]"
+- "[[H9002]]"
+- "[[H4625]]"
+- "[[H4334]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H6213A]]"
+- "[[H5800A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:16**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring the blind by a way [that] they knew not; I will lead them in paths [that] they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them.
 <small><sub>**BSB:**</sub></small>
 I will lead the blind by a way they did not know; I will guide them on unfamiliar paths. I will turn darkness into light before them and rough places into level ground. These things I will do for them, and I will not forsake them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1980J\|הוֹלַכְתִּ֣י]] [[H5787\|עִוְרִ֗ים]] [[H9003\|בְּ]][[H1870J\|דֶ֙רֶךְ֙]] [[H3808\|לֹ֣א]] [[H3045\|יָדָ֔עוּ]] [[H9003\|בִּ]][[H5410B\|נְתִיב֥וֹת]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדְע֖וּ]] [[H1869\|אַדְרִיכֵ֑]][[H9038\|ם]] [[H7760A\|אָשִׂים֩]] [[H4285\|מַחְשָׁ֨ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֜ם]] [[H9005\|לָ]][[H0216\|א֗וֹר]] [[H9002\|וּ]][[H4625\|מַֽעֲקַשִּׁים֙]] [[H9005\|לְ]][[H4334\|מִישׁ֔וֹר]] [[H0428\|אֵ֚לֶּה]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֔ים]] [[H6213A\|עֲשִׂיתִ֖]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5800A\|עֲזַבְתִּֽי]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic GOD|GOD]] • [[topic REGENERATION|REGENERATION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.15|<< Isaiah 42:15]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.17|Isaiah 42:17 >>]]</td></tr></table>
 

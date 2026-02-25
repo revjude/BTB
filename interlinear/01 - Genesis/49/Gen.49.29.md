@@ -1,8 +1,69 @@
+---
+title: Genesis 49:29
+type: Verse
+kjv: "And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,"
+bsb: "Then Jacob instructed them, “I am about to be gathered to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite."
+hebrew: "וַיְצַ֣ו אוֹתָ֗ם וַיֹּ֤אמֶר אֲלֵהֶם֙ אֲנִי֙ נֶאֱסָ֣ף אֶל־ עַמִּ֔י קִבְר֥וּ אֹתִ֖י אֶל־ אֲבֹתָ֑י אֶל־ הַ֨מְּעָרָ֔ה אֲשֶׁ֥ר בִּשְׂדֵ֖ה עֶפְר֥וֹן הַֽחִתִּֽי׃"
+pericope: "[[Gen.49.29 The Death of Jacob|The Death of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EPHRON|EPHRON]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H0589]]"
+- "[[H0622]]"
+- "[[H9014]]"
+- "[[H5971B]]"
+- "[[H9020]]"
+- "[[H6912]]"
+- "[[H9030]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H4631]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H6085G]]"
+- "[[H2850]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 49:29**<big><big>[[Gen.49.29 The Death of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that [is] in the field of Ephron the Hittite,
 <small><sub>**BSB:**</sub></small>
 Then Jacob instructed them, “I am about to be gathered to my people. Bury me with my fathers in the cave in the field of Ephron the Hittite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H0853\|אוֹתָ֗]][[H9038\|ם]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H0589\|אֲנִי֙]] [[H0622\|נֶאֱסָ֣ף]] [[H0413\|אֶל]][[H9014\|־]] [[H5971B\|עַמִּ֔]][[H9020\|י]] [[H6912\|קִבְר֥וּ]] [[H0853\|אֹתִ֖]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אֲבֹתָ֑]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ֨]][[H4631\|מְּעָרָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֖ה]] [[H6085G\|עֶפְר֥וֹן]] [[H9009\|הַֽ]][[H2850\|חִתִּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic CAVE|CAVE]] • [[topic DEATH|DEATH]] • [[topic EPHRON|EPHRON]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.28|<< Genesis 49:28]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.30|Genesis 49:30 >>]]</td></tr></table>
 

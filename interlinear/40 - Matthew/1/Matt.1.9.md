@@ -1,10 +1,52 @@
+---
+title: Matthew 1:9
+type: Verse
+kjv: "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;"
+bsb: "Uzziah was the father of Jotham, Jotham the father of Ahaz, and Ahaz the father of Hezekiah."
+greek: "Ὀζίας δὲ ἐγέννησεν τὸν Ἰωαθάμ· Ἰωαθὰμ δὲ ἐγέννησεν τὸν Ἀχάζ· Ἀχὰζ δὲ ἐγέννησεν τὸν Ἑζεκίαν·"
+pericope: "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic JOTHAM|JOTHAM]]"
+- "[[topic OZIAS|OZIAS]]"
+strongs:
+- "[[G3604]]"
+- "[[G1161]]"
+- "[[G1080]]"
+- "[[G3588]]"
+- "[[G2488]]"
+- "[[G0881]]"
+- "[[G1478]]"
+texts:
+- NKO
+---
+
 **Matthew 1:9**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;
 <small><sub>**BSB:**</sub></small>
 Uzziah was the father of Jotham, Jotham the father of Ahaz, and Ahaz the father of Hezekiah.
-<small><sub>**Literal:**</sub></small>
-Uzziah then begat <the> Jotham; Jotham then begat <the> Ahaz; Ahaz then begat <the> Hezekiah;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.8|<< Matthew 1:8]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.10|Matthew 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3604\|Ὀζίας]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G2488\|Ἰωαθάμ·]]  [[G2488\|Ἰωαθὰμ]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G0881\|Ἀχάζ·]]  [[G0881\|Ἀχὰζ]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G1478\|Ἑζεκίαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic JOTHAM|JOTHAM]] • [[topic OZIAS|OZIAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.8|<< Matthew 1:8]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.10|Matthew 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

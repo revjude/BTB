@@ -1,8 +1,79 @@
+---
+title: 2 Kings 23:12
+type: Verse
+kjv: "And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake them down from thence, and cast the dust of them into the brook Kidron."
+bsb: "He pulled down the altars that the kings of Judah had set up on the roof near the upper chamber of Ahaz, and the altars that Manasseh had set up in the two courtyards of the house of the LORD. The king pulverized them there and threw their dust into the Kidron Valley."
+hebrew: "וְאֶֽת־ הַֽמִּזְבְּח֡וֹת אֲשֶׁ֣ר עַל־ הַגָּג֩ עֲלִיַּ֨ת אָחָ֜ז אֲשֶׁר־ עָשׂ֣וּ׀ מַלְכֵ֣י יְהוּדָ֗ה וְאֶת־ הַֽמִּזְבְּחוֹת֙ אֲשֶׁר־ עָשָׂ֣ה מְנַשֶּׁ֔ה בִּשְׁתֵּ֛י חַצְר֥וֹת בֵּית־ יְהוָ֖ה נָתַ֣ץ הַמֶּ֑לֶךְ וַיָּ֣רָץ מִשָּׁ֔ם וְהִשְׁלִ֥יךְ אֶת־ עֲפָרָ֖ם אֶל־ נַ֥חַל קִדְרֽוֹן׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CEDRON|CEDRON]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic KIDRON|KIDRON]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H1406]]"
+- "[[H5944]]"
+- "[[H0271G]]"
+- "[[H6213H]]"
+- "[[H9015]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4519H]]"
+- "[[H9003]]"
+- "[[H8147]]"
+- "[[H2691A]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H5422]]"
+- "[[H9001]]"
+- "[[H7323I]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H7993]]"
+- "[[H6083]]"
+- "[[H9028]]"
+- "[[H0413]]"
+- "[[H5158A]]"
+- "[[H6939]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:12**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the altars that [were] on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake [them] down from thence, and cast the dust of them into the brook Kidron.
 <small><sub>**BSB:**</sub></small>
 He pulled down the altars that the kings of Judah had set up on the roof near the upper chamber of Ahaz, and the altars that Manasseh had set up in the two courtyards of the house of the LORD. The king pulverized them there and threw their dust into the Kidron Valley.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַֽ]][[H4196\|מִּזְבְּח֡וֹת]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1406\|גָּג֩]] [[H5944\|עֲלִיַּ֨ת]] [[H0271G\|אָחָ֜ז]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשׂ֣וּ]][[H9015\|׀]] [[H4428G\|מַלְכֵ֣י]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H4196\|מִּזְבְּחוֹת֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשָׂ֣ה]] [[H4519H\|מְנַשֶּׁ֔ה]] [[H9003\|בִּ]][[H8147\|שְׁתֵּ֛י]] [[H2691A\|חַצְר֥וֹת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H5422\|נָתַ֣ץ]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H7323I\|יָּ֣רָץ]] [[H9006\|מִ]][[H8033G\|שָּׁ֔ם]] [[H9001\|וְ]][[H7993\|הִשְׁלִ֥יךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H6083\|עֲפָרָ֖]][[H9028\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H5158A\|נַ֥חַל]] [[H6939\|קִדְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CEDRON|CEDRON]] • [[topic HOUSE|HOUSE]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic KIDRON|KIDRON]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.11|<< 2 Kings 23:11]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.13|2 Kings 23:13 >>]]</td></tr></table>
 

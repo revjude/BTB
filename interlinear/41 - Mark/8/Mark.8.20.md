@@ -1,10 +1,59 @@
+---
+title: Mark 8:20
+type: Verse
+kjv: "And when the seven among four thousand, how many baskets full of fragments took ye up? And they said, Seven."
+bsb: "“And when I broke the seven loaves for the four thousand, how many basketfuls of broken pieces did you collect?” “Seven,” they said."
+jesus_said: "And when the seven among four thousand, how many baskets full of fragments took ye up?"
+greek: "ὅτε δὲ τοὺς ἑπτὰ εἰς τοὺς τετρακισχιλίους πόσων σπυρίδων πληρώματα κλασμάτων ἤρατε; οἱ καὶ λέγουσιν αὐτῷ· ἑπτά."
+pericope: "[[Mark.8.14 The Leaven of the Pharisees and of Herod|The Leaven of the Pharisees and of Herod]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G1519]]"
+- "[[G5070]]"
+- "[[G4214]]"
+- "[[G4711]]"
+- "[[G4138]]"
+- "[[G2801]]"
+- "[[G0142]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k(o)
+- ko
+- N(k)O
+- no
+---
+
 **Mark 8:20**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the seven among four thousand, how many baskets full of fragments took ye up? And they said, Seven.
 <small><sub>**BSB:**</sub></small>
 “And when I broke the seven loaves for the four thousand, how many basketfuls of broken pieces did you collect?” “Seven,” they said.
-<small><sub>**Literal:**</sub></small>
-When now the seven to the four thousand of how many baskets [the] fillings of fragments took you up? <the> And they speak to him; Seven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.19|<< Mark 8:19]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.21|Mark 8:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G2033\|ἑπτὰ]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G5070\|τετρακισχιλίους]]  [[G4214\|πόσων]]  [[G4711\|σπυρίδων]]  [[G4138\|πληρώματα]]  [[G2801\|κλασμάτων]]  [[G0142\|ἤρατε;]]  [[G3588\|οἱ]]  [[G2532\|καὶ]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G2033\|ἑπτά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.19|<< Mark 8:19]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.21|Mark 8:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

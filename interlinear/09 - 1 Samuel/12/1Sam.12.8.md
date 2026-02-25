@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 12:8
+type: Verse
+kjv: "When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place."
+bsb: "When Jacob went to Egypt, your fathers cried out to the LORD, and He sent them Moses and Aaron, who brought your fathers out of Egypt and settled them in this place."
+hebrew: "כַּֽאֲשֶׁר־ בָּ֥א יַעֲקֹ֖ב מִצְרָ֑יִם וַיִּזְעֲק֤וּ אֲבֽוֹתֵיכֶם֙ אֶל־ יְהוָ֔ה וַיִּשְׁלַ֨ח יְהוָ֜ה אֶת־ מֹשֶׁ֣ה וְאֶֽת־ אַהֲרֹ֗ן וַיּוֹצִ֤יאוּ אֶת־ אֲבֹֽתֵיכֶם֙ מִמִּצְרַ֔יִם וַיֹּשִׁב֖וּם בַּמָּק֥וֹם הַזֶּֽה׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H3290]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H2199]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H3427]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:8**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place.
 <small><sub>**BSB:**</sub></small>
 When Jacob went to Egypt, your fathers cried out to the LORD, and He sent them Moses and Aaron, who brought your fathers out of Egypt and settled them in this place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥א]] [[H3290\|יַעֲקֹ֖ב]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וַ]][[H2199\|יִּזְעֲק֤וּ]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֣ה]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹ֗ן]] [[H9001\|וַ]][[H3318H\|יּוֹצִ֤יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבֹֽתֵי]][[H9026\|כֶם֙]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֔יִם]] [[H9001\|וַ]][[H3427\|יֹּשִׁב֖וּ]][[H9038\|ם]] [[H9003\|בַּ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.7|<< 1 Samuel 12:7]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.9|1 Samuel 12:9 >>]]</td></tr></table>
 

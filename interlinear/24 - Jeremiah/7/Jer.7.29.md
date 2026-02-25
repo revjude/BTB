@@ -1,8 +1,67 @@
+---
+title: Jeremiah 7:29
+type: Verse
+kjv: "Cut off thine hair, O Jerusalem, and cast it away, and take up a lamentation on high places; for the LORD hath rejected and forsaken the generation of his wrath."
+bsb: "Cut off your hair and throw it away. Raise up a lamentation on the barren heights, for the LORD has rejected and forsaken the generation of His wrath.’"
+hebrew: "גָּזִּ֤י נִזְרֵךְ֙ וְֽהַשְׁלִ֔יכִי וּשְׂאִ֥י עַל־ שְׁפָיִ֖ם קִינָ֑ה כִּ֚י מָאַ֣ס יְהוָ֔ה וַיִּטֹּ֖שׁ אֶת־ דּ֥וֹר עֶבְרָתֽוֹ׃"
+pericope: "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H1494]]"
+- "[[H5145I]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H7993]]"
+- "[[H5375G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8205]]"
+- "[[H7015]]"
+- "[[H3588A]]"
+- "[[H3988A]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5203]]"
+- "[[H0853]]"
+- "[[H1755]]"
+- "[[H5678]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:29**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cut off thine hair, [O Jerusalem], and cast [it] away, and take up a lamentation on high places; for the LORD hath rejected and forsaken the generation of his wrath.
 <small><sub>**BSB:**</sub></small>
 Cut off your hair and throw it away. Raise up a lamentation on the barren heights, for the LORD has rejected and forsaken the generation of His wrath.’
+<small><sub>**Hebrew:**</sub></small>
+[[H1494\|גָּזִּ֤י]] [[H5145I\|נִזְרֵ]][[H9022\|ךְ֙]] [[H9002\|וְֽ]][[H7993\|הַשְׁלִ֔יכִי]] [[H9002\|וּ]][[H5375G\|שְׂאִ֥י]] [[H5921A\|עַל]][[H9014\|־]] [[H8205\|שְׁפָיִ֖ם]] [[H7015\|קִינָ֑ה]] [[H3588A\|כִּ֚י]] [[H3988A\|מָאַ֣ס]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H5203\|יִּטֹּ֖שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H1755\|דּ֥וֹר]] [[H5678\|עֶבְרָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.28|<< Jeremiah 7:28]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.30|Jeremiah 7:30 >>]]</td></tr></table>
 

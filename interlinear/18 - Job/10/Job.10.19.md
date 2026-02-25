@@ -1,8 +1,53 @@
+---
+title: Job 10:19
+type: Verse
+kjv: "I should have been as though I had not been; I should have been carried from the womb to the grave."
+bsb: "If only I had never come to be, but had been carried from the womb to the grave."
+hebrew: "כַּאֲשֶׁ֣ר לֹא־ הָיִ֣יתִי אֶהְיֶ֑ה מִ֝בֶּ֗טֶן לַקֶּ֥בֶר אוּבָֽל׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic LIFE|LIFE]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H0990H]]"
+- "[[H9005]]"
+- "[[H6913]]"
+- "[[H2986]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:19**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I should have been as though I had not been; I should have been carried from the womb to the grave.
 <small><sub>**BSB:**</sub></small>
 If only I had never come to be, but had been carried from the womb to the grave.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיִ֣יתִי]] [[H1961\|אֶהְיֶ֑ה]] [[H9006\|מִ֝]][[H0990H\|בֶּ֗טֶן]] [[H9005\|לַ]][[H6913\|קֶּ֥בֶר]] [[H2986\|אוּבָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIFE|LIFE]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.18|<< Job 10:18]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.20|Job 10:20 >>]]</td></tr></table>
 

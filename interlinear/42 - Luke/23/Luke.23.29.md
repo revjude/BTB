@@ -1,10 +1,63 @@
+---
+title: Luke 23:29
+type: Verse
+kjv: "For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the wombs that never bare, and the paps which never gave suck."
+bsb: "Look, the days are coming when people will say, ‘Blessed are the barren women, the wombs that never bore, and breasts that never nursed!’"
+jesus_said: "For, behold, the days are coming, in the which they shall say, Blessed are the barren, and the wombs that never bare, and the paps which never gave suck."
+greek: "ὅτι ἰδοὺ ἔρχονται ἡμέραι ἐν αἷς ἐροῦσιν· μακάριαι αἱ στεῖραι καὶ αἱ κοιλίαι αἳ οὐκ ἐγέννησαν καὶ μαστοὶ οἳ οὐκ ἔθρεψαν."
+pericope: "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3754H]]"
+- "[[G2400]]"
+- "[[G2064]]"
+- "[[G2250]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G4483]]"
+- "[[G3107]]"
+- "[[G3588]]"
+- "[[G4723]]"
+- "[[G2532]]"
+- "[[G2836]]"
+- "[[G3756]]"
+- "[[G1080]]"
+- "[[G3149]]"
+- "[[G5142]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 23:29**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For, behold, the days are coming, in the which they shall say, Blessed [are] the barren, and the wombs that never bare, and the paps which never gave suck.
 <small><sub>**BSB:**</sub></small>
 Look, the days are coming when people will say, ‘Blessed are the barren women, the wombs that never bore, and breasts that never nursed!’
-<small><sub>**Literal:**</sub></small>
-For behold are coming days in which they will say; Blessed [are] the barren and the wombs that never did bear and breasts that never they feed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.28|<< Luke 23:28]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.30|Luke 23:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G2400\|ἰδοὺ]]  [[G2064\|ἔρχονται]]  [[G2250\|ἡμέραι]]  [[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G4483\|ἐροῦσιν·]]  [[G3107\|μακάριαι]]  [[G3588\|αἱ]]  [[G4723\|στεῖραι]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G2836\|κοιλίαι]]  [[G3739\|αἳ]]  [[G3756\|οὐκ]]  [[G1080\|ἐγέννησαν]]  [[G2532\|καὶ]]  [[G3149\|μαστοὶ]]  [[G3739\|οἳ]]  [[G3756\|οὐκ]]  [[G5142\|ἔθρεψαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.28|<< Luke 23:28]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.30|Luke 23:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 23:29** is...
 > $\quad$ alluding to: [[LXX.Isa.54.1|Isa 54:1]]

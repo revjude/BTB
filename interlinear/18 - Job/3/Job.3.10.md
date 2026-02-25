@@ -1,8 +1,55 @@
+---
+title: Job 3:10
+type: Verse
+kjv: "Because it shut not up the doors of my mother’s womb, nor hid sorrow from mine eyes."
+bsb: "For that night did not shut the doors of the womb to hide the sorrow from my eyes."
+hebrew: "כִּ֤י לֹ֣א סָ֭גַר דַּלְתֵ֣י בִטְנִ֑י וַיַּסְתֵּ֥ר עָ֝מָ֗ל מֵעֵינָֽי׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H5462]]"
+- "[[H1817C]]"
+- "[[H0990H]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H5641]]"
+- "[[H5999]]"
+- "[[H9006]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:10**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because it shut not up the doors of my [mother’s] womb, nor hid sorrow from mine eyes.
 <small><sub>**BSB:**</sub></small>
 For that night did not shut the doors of the womb to hide the sorrow from my eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3808\|לֹ֣א]] [[H5462\|סָ֭גַר]] [[H1817C\|דַּלְתֵ֣י]] [[H0990H\|בִטְנִ֑]][[H9020\|י]] [[H9001\|וַ]][[H5641\|יַּסְתֵּ֥ר]] [[H5999\|עָ֝מָ֗ל]] [[H9006\|מֵ]][[H5869A\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.9|<< Job 3:9]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.11|Job 3:11 >>]]</td></tr></table>
 

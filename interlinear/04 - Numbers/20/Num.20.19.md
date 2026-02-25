@@ -1,8 +1,73 @@
+---
+title: Numbers 20:19
+type: Verse
+kjv: "And the children of Israel said unto him, We will go by the high way: and if I and my cattle drink of thy water, then I will pay for it: I will only, without doing any thing else, go through on my feet."
+bsb: "“We will stay on the main road,” the Israelites replied, “and if we or our herds drink your water, we will pay for it. There will be no problem; only let us pass through on foot.”"
+hebrew: "וַיֹּאמְר֨וּ אֵלָ֥יו בְּנֵֽי־ יִשְׂרָאֵ֘ל בַּֽמְסִלָּ֣ה נַעֲלֶה֒ וְאִם־ מֵימֶ֤יךָ נִשְׁתֶּה֙ אֲנִ֣י וּמִקְנַ֔י וְנָתַתִּ֖י מִכְרָ֑ם רַ֥ק אֵין־ דָּבָ֖ר בְּרַגְלַ֥י אֶֽעֱבֹֽרָה׃"
+pericope: "[[Num.20.14 Edom Refuses Passage|Edom Refuses Passage]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H4546]]"
+- "[[H5927G]]"
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H4325G]]"
+- "[[H9021]]"
+- "[[H8354]]"
+- "[[H0589]]"
+- "[[H4735]]"
+- "[[H9020]]"
+- "[[H5414P]]"
+- "[[H4377]]"
+- "[[H9028]]"
+- "[[H7535]]"
+- "[[H0369]]"
+- "[[H1697I]]"
+- "[[H7272]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:19**<big><big>[[Num.20.14 Edom Refuses Passage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel said unto him, We will go by the high way: and if I and my cattle drink of thy water, then I will pay for it: I will only, without [doing] any thing [else], go through on my feet.
 <small><sub>**BSB:**</sub></small>
 “We will stay on the main road,” the Israelites replied, “and if we or our herds drink your water, we will pay for it. There will be no problem; only let us pass through on foot.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H0413\|אֵלָ֥י]][[H9033\|ו]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֘ל]] [[H9003\|בַּֽ]][[H4546\|מְסִלָּ֣ה]] [[H5927G\|נַעֲלֶה֒]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H4325G\|מֵימֶ֤י]][[H9021\|ךָ]] [[H8354\|נִשְׁתֶּה֙]] [[H0589\|אֲנִ֣י]] [[H9002\|וּ]][[H4735\|מִקְנַ֔]][[H9020\|י]] [[H9001\|וְ]][[H5414P\|נָתַתִּ֖י]] [[H4377\|מִכְרָ֑]][[H9028\|ם]] [[H7535\|רַ֥ק]] [[H0369\|אֵין]][[H9014\|־]] [[H1697I\|דָּבָ֖ר]] [[H9003\|בְּ]][[H7272\|רַגְלַ֥]][[H9020\|י]] [[H5674A\|אֶֽעֱבֹֽרָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.18|<< Numbers 20:18]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.20|Numbers 20:20 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Jeremiah 23:25
+type: Verse
+kjv: "I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed."
+bsb: "“I have heard the sayings of the prophets who prophesy lies in My name: ‘I had a dream! I had a dream!’"
+hebrew: "שָׁמַ֗עְתִּי אֵ֤ת אֲשֶׁר־ אָֽמְרוּ֙ הַנְּבִאִ֔ים הַֽנִּבְּאִ֥ים בִּשְׁמִ֛י שֶׁ֖קֶר לֵאמֹ֑ר חָלַ֖מְתִּי חָלָֽמְתִּי׃"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5012]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H8267]]"
+- "[[H9005]]"
+- "[[H2492B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:25**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have heard what the prophets said, that prophesy lies in my name, saying, I have dreamed, I have dreamed.
 <small><sub>**BSB:**</sub></small>
 “I have heard the sayings of the prophets who prophesy lies in My name: ‘I had a dream! I had a dream!’
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָׁמַ֗עְתִּי]] [[H0853\|אֵ֤ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|אָֽמְרוּ֙]] [[H9009\|הַ]][[H5030\|נְּבִאִ֔ים]] [[H9009\|הַֽ]][[H5012\|נִּבְּאִ֥ים]] [[H9003\|בִּ]][[H8034\|שְׁמִ֛]][[H9020\|י]] [[H8267\|שֶׁ֖קֶר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2492B\|חָלַ֖מְתִּי]] [[H2492B\|חָלָֽמְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.24|<< Jeremiah 23:24]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.26|Jeremiah 23:26 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 8:17
+type: Verse
+kjv: "Then went Solomon to Eziongeber, and to Eloth, at the sea side in the land of Edom."
+bsb: "Then Solomon went to Ezion-geber and to Eloth on the coast of Edom."
+hebrew: "אָז֩ הָלַ֨ךְ שְׁלֹמֹ֜ה לְעֶצְיֽוֹן־ גֶּ֧בֶר וְאֶל־ אֵיל֛וֹת עַל־ שְׂפַ֥ת הַיָּ֖ם בְּאֶ֥רֶץ אֱדֽוֹם׃"
+pericope: "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ELATH|ELATH]]"
+- "[[topic EZION-GABER (EZION-GEBER)|EZION-GABER (EZION-GEBER)]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H0227A]]"
+- "[[H1980G]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H6100]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H0359B]]"
+- "[[H5921A]]"
+- "[[H8193J]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0123G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 8:17**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went Solomon to Eziongeber, and to Eloth, at the sea side in the land of Edom.
 <small><sub>**BSB:**</sub></small>
 Then Solomon went to Ezion-geber and to Eloth on the coast of Edom.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָז֩]] [[H1980G\|הָלַ֨ךְ]] [[H8010\|שְׁלֹמֹ֜ה]] [[H9005\|לְ]][[H6100\|עֶצְיֽוֹן]][[H9014\|־]] [[H6100\|גֶּ֧בֶר]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0359B\|אֵיל֛וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H8193J\|שְׂפַ֥ת]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H0123G\|אֱדֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELATH|ELATH]] • [[topic EZION-GABER (EZION-GEBER)|EZION-GABER (EZION-GEBER)]] • [[topic SHIP|SHIP]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.16|<< 2 Chronicles 8:16]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.18|2 Chronicles 8:18 >>]]</td></tr></table>
 

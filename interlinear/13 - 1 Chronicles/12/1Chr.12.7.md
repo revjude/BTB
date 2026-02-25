@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 12:7
+type: Verse
+kjv: "And Joelah, and Zebadiah, the sons of Jeroham of Gedor."
+bsb: "and Joelah and Zebadiah, the sons of Jeroham from Gedor."
+hebrew: "וְיוֹעֵאלָ֧ה וּזְבַדְיָ֛ה בְּנֵ֥י יְרֹחָ֖ם מִן־ הַגְּדֽוֹר׃"
+pericope: "[[1Chr.12.1 The Mighty Men Join David at Ziklag|The Mighty Men Join David at Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GEDOR|GEDOR]]"
+- "[[topic JEROHAM|JEROHAM]]"
+- "[[topic JOELAH|JOELAH]]"
+- "[[topic ZEBADIAH|ZEBADIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3132]]"
+- "[[H2069I]]"
+- "[[H1121A]]"
+- "[[H3395K]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1446G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:7**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joelah, and Zebadiah, the sons of Jeroham of Gedor.
 <small><sub>**BSB:**</sub></small>
 and Joelah and Zebadiah, the sons of Jeroham from Gedor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3132\|יוֹעֵאלָ֧ה]] [[H9002\|וּ]][[H2069I\|זְבַדְיָ֛ה]] [[H1121A\|בְּנֵ֥י]] [[H3395K\|יְרֹחָ֖ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1446G\|גְּדֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GEDOR|GEDOR]] • [[topic JEROHAM|JEROHAM]] • [[topic JOELAH|JOELAH]] • [[topic ZEBADIAH|ZEBADIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.6|<< 1 Chronicles 12:6]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.8|1 Chronicles 12:8 >>]]</td></tr></table>
 

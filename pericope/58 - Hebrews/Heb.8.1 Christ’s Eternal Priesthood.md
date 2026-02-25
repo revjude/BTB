@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christ’s Eternal Priesthood
+type: Pericope
 pericope: "[[Heb.8.1 Christ’s Eternal Priesthood|Christ’s Eternal Priesthood]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 8
 book/chapter: "[[Heb.8|Hebrews 8]]"
-genre:
+chronological_order: 1147
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 5
 verses:
 - "[[Heb.8.1]]"
 - "[[Heb.8.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Heb.8.5]]"
 ---
 
-[[Heb.8|Hebrews 8:1 - Hebrews 8:5]]
+<small>[[Heb.8|Hebrews 8:1-5]]</small>
 *Christ’s Eternal Priesthood*
 
 [[Heb.8.1|1]] Now of the things which we have spoken \[this is\] the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;

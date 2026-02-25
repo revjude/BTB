@@ -1,10 +1,68 @@
+---
+title: Luke 24:18
+type: Verse
+kjv: "And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?"
+bsb: "One of them, named Cleopas, asked Him, “Are You the only visitor to Jerusalem who does not know the things that have happened there in recent days?”"
+greek: "ἀποκριθεὶς δὲ ὁ εἷς ἐξ αὐτῶν ᾧ ὀνόματι Κλεοπᾶς εἶπεν πρὸς αὐτόν· σὺ μόνος παροικεῖς ἐν Ἰερουσαλὴμ καὶ οὐκ ἔγνως τὰ γενόμενα ἐν αὐτῇ ἐν ταῖς ἡμέραις ταύταις;"
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CLEOPAS|CLEOPAS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G3686]]"
+- "[[G2810]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G3441]]"
+- "[[G3939]]"
+- "[[G1722]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G1096]]"
+- "[[G2250]]"
+- "[[G3778]]"
+texts:
+- NKO
+- k
+- O
+- NK(o)
+---
+
 **Luke 24:18**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?
 <small><sub>**BSB:**</sub></small>
 One of them, named Cleopas, asked Him, “Are You the only visitor to Jerusalem who does not know the things that have happened there in recent days?”
-<small><sub>**Literal:**</sub></small>
-Answering now the one from of them whose name Cleopas said to Him; You yourself alone visit in Jerusalem and not have known the [things] having come to pass in it in <the> days these?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.17|<< Luke 24:17]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.19|Luke 24:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G1520\|εἷς]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G3739\|ᾧ]]  [[G3686\|ὀνόματι]]  [[G2810\|Κλεοπᾶς]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G4771\|σὺ]]  [[G3441\|μόνος]]  [[G3939\|παροικεῖς]]  [[G1722\|ἐν]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνως]]  [[G3588\|τὰ]]  [[G1096\|γενόμενα]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3778\|ταύταις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLEOPAS|CLEOPAS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.17|<< Luke 24:17]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.19|Luke 24:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Psalm 78:67
+type: Verse
+kjv: "Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:"
+bsb: "He rejected the tent of Joseph and refused the tribe of Ephraim."
+hebrew: "וַ֭יִּמְאַס בְּאֹ֣הֶל יוֹסֵ֑ף וּֽבְשֵׁ֥בֶט אֶ֝פְרַ֗יִם לֹ֣א בָחָֽר׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3988A]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H3130G]]"
+- "[[H9002]]"
+- "[[H7626H]]"
+- "[[H0669G]]"
+- "[[H3808]]"
+- "[[H0977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:67**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he refused the tabernacle of Joseph, and chose not the tribe of Ephraim:
 <small><sub>**BSB:**</sub></small>
 He rejected the tent of Joseph and refused the tribe of Ephraim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֭]][[H3988A\|יִּמְאַס]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H3130G\|יוֹסֵ֑ף]] [[H9002\|וּֽ]][[H9003\|בְ]][[H7626H\|שֵׁ֥בֶט]] [[H0669G\|אֶ֝פְרַ֗יִם]] [[H3808\|לֹ֣א]] [[H0977\|בָחָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.67|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.66|<< Psalms 78:66]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.68|Psalms 78:68 >>]]</td></tr></table>
 

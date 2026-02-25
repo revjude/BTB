@@ -1,8 +1,50 @@
+---
+title: Joshua 3:12
+type: Verse
+kjv: "Now therefore take you twelve men out of the tribes of Israel, out of every tribe a man."
+bsb: "Now choose twelve men from the tribes of Israel, one from each tribe."
+hebrew: "וְעַתָּ֗ה קְח֤וּ לָכֶם֙ שְׁנֵ֣י עָשָׂ֣ר אִ֔ישׁ מִשִּׁבְטֵ֖י יִשְׂרָאֵ֑ל אִישׁ־ אֶחָ֥ד אִישׁ־ אֶחָ֖ד לַשָּֽׁבֶט׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:12**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore take you twelve men out of the tribes of Israel, out of every tribe a man.
 <small><sub>**BSB:**</sub></small>
 Now choose twelve men from the tribes of Israel, one from each tribe.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H3947G\|קְח֤וּ]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H8147\|שְׁנֵ֣י]] [[H6240\|עָשָׂ֣ר]] [[H0376G\|אִ֔ישׁ]] [[H9006\|מִ]][[H7626H\|שִּׁבְטֵ֖י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H0259\|אֶחָ֥ד]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H0259\|אֶחָ֖ד]] [[H9005\|לַ]][[H7626H\|שָּֽׁבֶט]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.11|<< Joshua 3:11]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.13|Joshua 3:13 >>]]</td></tr></table>
 

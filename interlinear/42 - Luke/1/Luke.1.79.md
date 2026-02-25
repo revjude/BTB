@@ -1,10 +1,71 @@
+---
+title: Luke 1:79
+type: Verse
+kjv: "To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace."
+bsb: "to shine on those who live in darkness and in the shadow of death, to guide our feet into the path of peace.”"
+greek: "ἐπιφᾶναι τοῖς ἐν σκότει καὶ σκιᾷ θανάτου καθημένοις, τοῦ κατευθῦναι τοὺς πόδας ἡμῶν εἰς ὁδὸν εἰρήνης.¶"
+pericope: "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2014]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G4655]]"
+- "[[G2532]]"
+- "[[G4639]]"
+- "[[G2288]]"
+- "[[G2521]]"
+- "[[G2720]]"
+- "[[G4228]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G3598]]"
+- "[[G1515]]"
+texts:
+- NKO
+---
+
 **Luke 1:79**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To give light to them that sit in darkness and [in] the shadow of death, to guide our feet into the way of peace.
 <small><sub>**BSB:**</sub></small>
 to shine on those who live in darkness and in the shadow of death, to guide our feet into the path of peace.”
-<small><sub>**Literal:**</sub></small>
-to shine upon those in darkness and in [the] shadow of death sitting, <the> to direct the feet of us into [the] way of peace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.78|<< Luke 1:78]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.80|Luke 1:80 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2014\|ἐπιφᾶναι]]  [[G3588\|τοῖς]]  [[G1722\|ἐν]]  [[G4655\|σκότει]]  [[G2532\|καὶ]]  [[G4639\|σκιᾷ]]  [[G2288\|θανάτου]]  [[G2521\|καθημένοις,]]  [[G3588\|τοῦ]]  [[G2720\|κατευθῦναι]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G3598\|ὁδὸν]]  [[G1515\|εἰρήνης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic JOY|JOY]] • [[topic MIRACLES|MIRACLES]] • [[topic PEACE|PEACE]] • [[topic POETRY|POETRY]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.78|<< Luke 1:78]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.80|Luke 1:80 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 1:79** is...
 > $\quad$ alluding to: [[LXX.Isa.9.2|Isa 9:2]]

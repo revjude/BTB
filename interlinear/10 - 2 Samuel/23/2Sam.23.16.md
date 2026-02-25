@@ -1,8 +1,77 @@
+---
+title: 2 Samuel 23:16
+type: Verse
+kjv: "And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the LORD."
+bsb: "So the three mighty men broke through the Philistine camp, drew water from the well near the gate of Bethlehem, and brought it back to David. But he refused to drink it; instead, he poured it out to the LORD,"
+hebrew: "וַיִּבְקְעוּ֩ שְׁלֹ֨שֶׁת הַגִּבֹּרִ֜ים בְּמַחֲנֵ֣ה פְלִשְׁתִּ֗ים וַיִּֽשְׁאֲבוּ־ מַ֙יִם֙ מִבֹּ֤אר בֵּֽית־ לֶ֙חֶם֙ אֲשֶׁ֣ר בַּשַּׁ֔עַר וַיִּשְׂא֖וּ וַיָּבִ֣אוּ אֶל־ דָּוִ֑ד וְלֹ֤א אָבָה֙ לִשְׁתּוֹתָ֔ם וַיַּסֵּ֥ךְ אֹתָ֖ם לַֽיהוָֽה׃"
+pericope: "[[2Sam.23.8 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1234]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H1368]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H6430G]]"
+- "[[H7579]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H0877]]"
+- "[[H1035G]]"
+- "[[H0834A]]"
+- "[[H8179G]]"
+- "[[H5375H]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H8354]]"
+- "[[H9038]]"
+- "[[H5258A]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 23:16**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the three mighty men brake through the host of the Philistines, and drew water out of the well of Bethlehem, that [was] by the gate, and took [it], and brought [it] to David: nevertheless he would not drink thereof, but poured it out unto the LORD.
 <small><sub>**BSB:**</sub></small>
 So the three mighty men broke through the Philistine camp, drew water from the well near the gate of Bethlehem, and brought it back to David. But he refused to drink it; instead, he poured it out to the LORD,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1234\|יִּבְקְעוּ֩]] [[H7969\|שְׁלֹ֨שֶׁת]] [[H9009\|הַ]][[H1368\|גִּבֹּרִ֜ים]] [[H9003\|בְּ]][[H4264\|מַחֲנֵ֣ה]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H9001\|וַ]][[H7579\|יִּֽשְׁאֲבוּ]][[H9014\|־]] [[H4325G\|מַ֙יִם֙]] [[H9006\|מִ]][[H0877\|בֹּ֤אר]] [[H1035G\|בֵּֽית]][[H9014\|־]] [[H1035G\|לֶ֙חֶם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H8179G\|שַּׁ֔עַר]] [[H9001\|וַ]][[H5375H\|יִּשְׂא֖וּ]] [[H9001\|וַ]][[H0935P\|יָּבִ֣אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֑ד]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H0014\|אָבָה֙]] [[H9005\|לִ]][[H8354\|שְׁתּוֹתָ֔]][[H9038\|ם]] [[H9001\|וַ]][[H5258A\|יַּסֵּ֥ךְ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BETHLEHEM|BETHLEHEM]] • [[topic CITIZENS|CITIZENS]] • [[topic CONSECRATION|CONSECRATION]] • [[topic LOYALTY|LOYALTY]] • [[topic PHILISTINES|PHILISTINES]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.15|<< 2 Samuel 23:15]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.17|2 Samuel 23:17 >>]]</td></tr></table>
 

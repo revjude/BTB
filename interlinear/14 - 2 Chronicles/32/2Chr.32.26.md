@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 32:26
+type: Verse
+kjv: "Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah."
+bsb: "Then Hezekiah humbled the pride of his heart—he and the people of Jerusalem—so that the wrath of the LORD did not come upon them during the days of Hezekiah."
+hebrew: "וַיִּכָּנַ֤ע יְחִזְקִיָּ֙הוּ֙ בְּגֹ֣בַהּ לִבּ֔וֹ ה֖וּא וְיֹשְׁבֵ֣י יְרוּשָׁלִָ֑ם וְלֹא־ בָ֤א עֲלֵיהֶם֙ קֶ֣צֶף יְהוָ֔ה בִּימֵ֖י יְחִזְקִיָּֽהוּ׃"
+pericope: "[[2Chr.32.24 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3665]]"
+- "[[H2396G]]"
+- "[[H9003]]"
+- "[[H1363]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7110A]]"
+- "[[H3068G]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:26**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding Hezekiah humbled himself for the pride of his heart, [both] he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah.
 <small><sub>**BSB:**</sub></small>
 Then Hezekiah humbled the pride of his heart—he and the people of Jerusalem—so that the wrath of the LORD did not come upon them during the days of Hezekiah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3665\|יִּכָּנַ֤ע]] [[H2396G\|יְחִזְקִיָּ֙הוּ֙]] [[H9003\|בְּ]][[H1363\|גֹ֣בַהּ]] [[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H1931\|ה֖וּא]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0935G\|בָ֤א]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H7110A\|קֶ֣צֶף]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בִּ]][[H3117G\|ימֵ֖י]] [[H2396G\|יְחִזְקִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.25|<< 2 Chronicles 32:25]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.27|2 Chronicles 32:27 >>]]</td></tr></table>
 

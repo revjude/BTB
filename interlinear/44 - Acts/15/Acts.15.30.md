@@ -1,10 +1,58 @@
+---
+title: Acts 15:30
+type: Verse
+kjv: "So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:"
+bsb: "So the men were sent off and went down to Antioch, where they assembled the congregation and delivered the letter."
+greek: "Οἱ μὲν οὖν ἀπολυθέντες κατῆλθον εἰς Ἀντιόχειαν, καὶ συναγαγόντες τὸ πλῆθος ἐπέδωκαν τὴν ἐπιστολήν."
+pericope: "[[Acts.15.30 The Believers at Antioch Rejoice|The Believers at Antioch Rejoice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G0630G]]"
+- "[[G2718]]"
+- "[[G1519]]"
+- "[[G0490G]]"
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G4128]]"
+- "[[G1929]]"
+- "[[G1992]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 15:30**<big><big>[[Acts.15.30 The Believers at Antioch Rejoice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:
 <small><sub>**BSB:**</sub></small>
 So the men were sent off and went down to Antioch, where they assembled the congregation and delivered the letter.
-<small><sub>**Literal:**</sub></small>
-They indeed therefore having been sent off went to Antioch, and having gathered the multitude they delivered the letter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.29|<< Acts 15:29]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.31|Acts 15:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G0630G\|ἀπολυθέντες]]  [[G2718\|κατῆλθον]]  [[G1519\|εἰς]]  [[G0490G\|Ἀντιόχειαν,]]  [[G2532\|καὶ]]  [[G4863\|συναγαγόντες]]  [[G3588\|τὸ]]  [[G4128\|πλῆθος]]  [[G1929\|ἐπέδωκαν]]  [[G3588\|τὴν]]  [[G1992\|ἐπιστολήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic ELDER|ELDER]] • [[topic GENTILES|GENTILES]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic SILAS|SILAS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.29|<< Acts 15:29]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.31|Acts 15:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

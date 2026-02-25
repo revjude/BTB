@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Exclusion from the Congregation
+type: Pericope
 pericope: "[[Deut.23.1 Exclusion from the Congregation|Exclusion from the Congregation]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 23
 book/chapter: "[[Deut.23|Deuteronomy 23]]"
-genre:
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.23.1]]"
 - "[[Deut.23.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.23.8]]"
 ---
 
-[[Deut.23|Deuteronomy 23:1 - Deuteronomy 23:8]]
+<small>[[Deut.23|Deuteronomy 23:1-8]]</small>
 *Exclusion from the Congregation*
 
 [[Deut.23.1|1]] He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the LORD.

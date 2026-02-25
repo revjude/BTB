@@ -1,8 +1,69 @@
+---
+title: Genesis 26:28
+type: Verse
+kjv: "And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee;"
+bsb: "“We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you"
+hebrew: "וַיֹּאמְר֗וּ רָא֣וֹ רָאִינוּ֮ כִּֽי־ הָיָ֣ה יְהוָ֣ה׀ עִמָּךְ֒ וַנֹּ֗אמֶר תְּהִ֨י נָ֥א אָלָ֛ה בֵּינוֹתֵ֖ינוּ בֵּינֵ֣ינוּ וּבֵינֶ֑ךָ וְנִכְרְתָ֥ה בְרִ֖ית עִמָּֽךְ׃"
+pericope: "[[Gen.26.26 Isaac’s Covenant with Abimelech|Isaac’s Covenant with Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H4994]]"
+- "[[H0423]]"
+- "[[H0996G]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:28**<big><big>[[Gen.26.26 Isaac’s Covenant with Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath betwixt us, [even] betwixt us and thee, and let us make a covenant with thee;
 <small><sub>**BSB:**</sub></small>
 “We can plainly see that the LORD has been with you,” they replied. “We recommend that there should now be an oath between us and you. Let us make a covenant with you
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H7200G\|רָא֣וֹ]] [[H7200G\|רָאִינוּ֮]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיָ֣ה]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H5973A\|עִמָּ]][[H9032\|ךְ֒]] [[H9001\|וַ]][[H0559\|נֹּ֗אמֶר]] [[H1961\|תְּהִ֨י]] [[H4994\|נָ֥א]] [[H0423\|אָלָ֛ה]] [[H0996G\|בֵּינוֹתֵ֖י]][[H9035\|נוּ]] [[H0996G\|בֵּינֵ֣י]][[H9035\|נוּ]] [[H9002\|וּ]][[H0996G\|בֵינֶ֑]][[H9031\|ךָ]] [[H9002\|וְ]][[H3772H\|נִכְרְתָ֥ה]] [[H1285\|בְרִ֖ית]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FEASTS|FEASTS]] • [[topic ISAAC|ISAAC]] • [[topic OATH|OATH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.27|<< Genesis 26:27]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.29|Genesis 26:29 >>]]</td></tr></table>
 

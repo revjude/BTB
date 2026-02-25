@@ -1,6 +1,70 @@
+---
+title: LXX Daniel 11:25
+type: Verse
+lxx: "And his strength shall be awakened, and  his heart against the king of the south with a great force; and the king of the south shall join together in war, and in a great power, even in strength exceedingly. And he shall not stand, for they shall devise devices against him."
+greek: "και εξεγερθήσεται η ισχύς αυτού και η καρδία αυτού επί βασιλέα του νότου εν δυνάμει μεγάλη και ο βασιλεύς του νότου συνάψει πόλεμον και εν δυνάμει μεγάλη και ισχυρά σφόδρα και ου στήσονται ότι λογιούνται επ΄ αυτόν λογισμούς"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[G2532]]"
+- "[[G1825]]"
+- "[[G3588]]"
+- "[[G2479]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[G3558]]"
+- "[[G1722]]"
+- "[[G1411]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[G3558]]"
+- "[[G9297]]"
+- "[[G4171]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1411]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G2478]]"
+- "[[G4970]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2476]]"
+- "[[G3754]]"
+- "[[G3049]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3053]]"
+---
+
 **LXX Daniel 11:25** 
 <small><sub>**LXX:**</sub></small>
 And his strength shall be awakened, and  his heart against \[the\] king of the south with a great force; and the king of the south shall join together in war, and in a great power, even in strength exceedingly. And he shall not stand, for they shall devise devices against him. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1825\|εξεγερθήσεται]] [[G3588\|η]] [[G2479\|ισχύς]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|η]] [[G2588\|καρδία]] [[G1473\|αυτού]] [[G1909\|επί]] [[G0935\|βασιλέα]] [[G3588\|του]] [[G3558\|νότου]] [[G1722\|εν]] [[G1411\|δυνάμει]] [[G3173\|μεγάλη]] [[G2532\|και]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G3588\|του]] [[G3558\|νότου]] [[G9297\|συνάψει]] [[G4171\|πόλεμον]] [[G2532\|και]] [[G1722\|εν]] [[G1411\|δυνάμει]] [[G3173\|μεγάλη]] [[G2532\|και]] [[G2478\|ισχυρά]] [[G4970\|σφόδρα]] [[G2532\|και]] [[G3756\|ου]] [[G2476\|στήσονται]] [[G3754\|ότι]] [[G3049\|λογιούνται]] [[G1909\|επ΄]] [[G1473\|αυτόν]] [[G3053\|λογισμούς]]
 <small><sub>**MT:**</sub></small>
 [[Dan.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.24|<< Daniel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.26|Daniel 11:26 >>]]</td></tr></table>
 
@@ -42,6 +106,6 @@ And his strength shall be awakened, and  his heart against \[the\] king of the s
 | against | **<big>[[G1909\|επ΄]]</big>** |
 | him | **<big>[[G1473\|αυτόν]]</big>** |
 | devices | **<big>[[G3053\|λογισμούς]]</big>** |
-[[Dan.11.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.24|<< Daniel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.26|Daniel 11:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.11.24|<< Daniel 11:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.11.26|Daniel 11:26 >>]]</td></tr></table>
 
 

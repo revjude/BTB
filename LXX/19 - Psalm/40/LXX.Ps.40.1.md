@@ -1,3 +1,48 @@
+---
+title: LXX Psalm 40:1
+type: Verse
+lxx: "Enduring, I waited on the lord, and he took heed to me, and he heard  my supplication."
+greek: "υπομένων υπέμεινα τον κύριον και προσέσχε μοι και εισήκουσε της δεήσεώς μου"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[G5278]]"
+- "[[G5278]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G4337]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1522]]"
+- "[[G3588]]"
+- "[[G1162]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 40:1** 
 
 ***Hope is in the Name of The LORD***
@@ -6,6 +51,10 @@ To the director; a psalm \[to\] David.
 
 <small><sub>**LXX:**</sub></small>
 Enduring, I waited on the <span class="smallcaps">lord</span>, and he took heed to me, and he heard  my supplication. 
+<small><sub>**Greek:**</sub></small>
+[[G5278\|υπομένων]] [[G5278\|υπέμεινα]] [[G3588\|τον]] [[G2962\|κύριον]] [[G2532\|και]] [[G4337\|προσέσχε]] [[G1473\|μοι]] [[G2532\|και]] [[G1522\|εισήκουσε]] [[G3588\|της]] [[G1162\|δεήσεώς]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic PATIENCE|PATIENCE]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.13|<< Psalm 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.2|Psalm 40:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -26,6 +75,6 @@ Enduring, I waited on the <span class="smallcaps">lord</span>, and he took heed 
 | he heard | **<big>[[G1522\|εισήκουσε]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | my supplication. | **<big>[[G1162\|δεήσεώς]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Ps.40.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.13|<< Psalm 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.2|Psalm 40:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.39.13|<< Psalm 39:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.2|Psalm 40:2 >>]]</td></tr></table>
 
 

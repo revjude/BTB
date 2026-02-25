@@ -1,8 +1,49 @@
+---
+title: Job 20:2
+type: Verse
+kjv: "Therefore do my thoughts cause me to answer, and for this I make haste."
+bsb: "“So my anxious thoughts compel me to answer, because of the turmoil within me."
+hebrew: "לָ֭כֵן שְׂעִפַּ֣י יְשִׁיב֑וּנִי וּ֝בַעֲב֗וּר ח֣וּשִׁי בִֽי׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5587B]]"
+- "[[H9020]]"
+- "[[H7725M]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H2363A]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:2**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore do my thoughts cause me to answer, and for [this] I make haste.
 <small><sub>**BSB:**</sub></small>
 “So my anxious thoughts compel me to answer, because of the turmoil within me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֭]][[H3651C\|כֵן]] [[H5587B\|שְׂעִפַּ֣]][[H9020\|י]] [[H7725M\|יְשִׁיב֑וּ]][[H9030\|נִי]] [[H9002\|וּ֝]][[H9003\|בַ]][[H5668\|עֲב֗וּר]] [[H2363A\|ח֣וּשִׁ]][[H9040\|י]] [[H9003\|בִֽ]][[H9030\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.1|<< Job 20:1]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.3|Job 20:3 >>]]</td></tr></table>
 

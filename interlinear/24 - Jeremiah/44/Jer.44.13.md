@@ -1,8 +1,60 @@
+---
+title: Jeremiah 44:13
+type: Verse
+kjv: "For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem, by the sword, by the famine, and by the pestilence:"
+bsb: "I will punish those who live in the land of Egypt, just as I punished Jerusalem, by sword and famine and plague,"
+hebrew: "וּפָקַדְתִּ֗י עַ֤ל הַיּֽוֹשְׁבִים֙ בְּאֶ֣רֶץ מִצְרַ֔יִם כַּאֲשֶׁ֥ר פָּקַ֖דְתִּי עַל־ יְרֽוּשָׁלִָ֑ם בַּחֶ֥רֶב בָּרָעָ֖ב וּבַדָּֽבֶר׃"
+pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic QUEEN|QUEEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H3389]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H9002]]"
+- "[[H1698]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:13**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will punish them that dwell in the land of Egypt, as I have punished Jerusalem, by the sword, by the famine, and by the pestilence:
 <small><sub>**BSB:**</sub></small>
 I will punish those who live in the land of Egypt, just as I punished Jerusalem, by sword and famine and plague,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6485H\|פָקַדְתִּ֗י]] [[H5921A\|עַ֤ל]] [[H9009\|הַ]][[H3427\|יּֽוֹשְׁבִים֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6485H\|פָּקַ֖דְתִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרֽוּשָׁלִָ֑ם]] [[H9003\|בַּ]][[H2719\|חֶ֥רֶב]] [[H9003\|בָּ]][[H7458\|רָעָ֖ב]] [[H9002\|וּ]][[H9003\|בַ]][[H1698\|דָּֽבֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic QUEEN|QUEEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.12|<< Jeremiah 44:12]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.14|Jeremiah 44:14 >>]]</td></tr></table>
 

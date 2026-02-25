@@ -1,10 +1,62 @@
+---
+title: Revelation 20:1
+type: Verse
+kjv: "And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand."
+bsb: "Then I saw an angel coming down from heaven with the key to the Abyss, holding in his hand a great chain."
+greek: "Καὶ εἶδον ἄγγελον καταβαίνοντα ἐκ τοῦ οὐρανοῦ ἔχοντα τὴν κλεῖν τῆς ἀβύσσου καὶ ἅλυσιν μεγάλην ἐπὶ τὴν χεῖρα αὐτοῦ."
+pericope: "[[Rev.20.1 Satan Bound|Satan Bound]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KEY|KEY]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic PIT|PIT]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0032G]]"
+- "[[G2597]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2192]]"
+- "[[G2807]]"
+- "[[G0012]]"
+- "[[G0254]]"
+- "[[G3173]]"
+- "[[G1909]]"
+- "[[G5495]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Revelation 20:1**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw an angel come down from heaven, having the key of the bottomless pit and a great chain in his hand.
 <small><sub>**BSB:**</sub></small>
 Then I saw an angel coming down from heaven with the key to the Abyss, holding in his hand a great chain.
-<small><sub>**Literal:**</sub></small>
-And I saw an angel descending out of <the> heaven holding the key of the Abyss and a chain great in the hand of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.21|<< Revelation 19:21]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.2|Revelation 20:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G0032G\|ἄγγελον]]  [[G2597\|καταβαίνοντα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2192\|ἔχοντα]]  [[G3588\|τὴν]]  [[G2807\|κλεῖν]]  [[G3588\|τῆς]]  [[G0012\|ἀβύσσου]]  [[G2532\|καὶ]]  [[G0254\|ἅλυσιν]]  [[G3173\|μεγάλην]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAINS|CHAINS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KEY|KEY]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic PIT|PIT]] • [[topic SATAN|SATAN]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.21|<< Revelation 19:21]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.2|Revelation 20:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

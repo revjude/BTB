@@ -1,8 +1,57 @@
+---
+title: Ecclesiastes 9:8
+type: Verse
+kjv: "Let thy garments be always white; and let thy head lack no ointment."
+bsb: "Let your garments always be white, and never spare the oil for your head."
+hebrew: "בְּכָל־ עֵ֕ת יִהְי֥וּ בְגָדֶ֖יךָ לְבָנִ֑ים וְשֶׁ֖מֶן עַל־ רֹאשְׁךָ֥ אַל־ יֶחְסָֽר׃"
+pericope: "[[Eccl.9.7 Enjoy Your Portion in This Life|Enjoy Your Portion in This Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6256]]"
+- "[[H1961]]"
+- "[[H0899B]]"
+- "[[H9021]]"
+- "[[H3836]]"
+- "[[H9002]]"
+- "[[H8081]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H0408]]"
+- "[[H2637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 9:8**<big><big>[[Eccl.9.7 Enjoy Your Portion in This Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy garments be always white; and let thy head lack no ointment.
 <small><sub>**BSB:**</sub></small>
 Let your garments always be white, and never spare the oil for your head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6256\|עֵ֕ת]] [[H1961\|יִהְי֥וּ]] [[H0899B\|בְגָדֶ֖י]][[H9021\|ךָ]] [[H3836\|לְבָנִ֑ים]] [[H9002\|וְ]][[H8081\|שֶׁ֖מֶן]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשְׁ]][[H9021\|ךָ֥]] [[H0408\|אַל]][[H9014\|־]] [[H2637\|יֶחְסָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic COLORS|COLORS]] • [[topic CONTENTMENT|CONTENTMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.7|<< Ecclesiastes 9:7]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.9|Ecclesiastes 9:9 >>]]</td></tr></table>
 

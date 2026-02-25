@@ -1,8 +1,51 @@
+---
+title: Job 40:24
+type: Verse
+kjv: "He taketh it with his eyes: his nose pierceth through snares."
+bsb: "Can anyone capture him as he looks on, or pierce his nose with a snare?"
+hebrew: "בְּעֵינָ֥יו יִקָּחֶ֑נּוּ בְּ֝מֽוֹקְשִׁ֗ים יִנְקָב־ אָֽף׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H4170]]"
+- "[[H5344A]]"
+- "[[H9014]]"
+- "[[H0639H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:24**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He taketh it with his eyes: [his] nose pierceth through snares.
 <small><sub>**BSB:**</sub></small>
 Can anyone capture him as he looks on, or pierce his nose with a snare?
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5869A\|עֵינָ֥י]][[H9023\|ו]] [[H3947G\|יִקָּחֶ֑]][[H9033\|נּוּ]] [[H9003\|בְּ֝]][[H4170\|מֽוֹקְשִׁ֗ים]] [[H5344A\|יִנְקָב]][[H9014\|־]] [[H0639H\|אָֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.23|<< Job 40:23]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.1|Job 41:1 >>]]</td></tr></table>
 

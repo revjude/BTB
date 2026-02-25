@@ -1,8 +1,75 @@
+---
+title: Genesis 50:10
+type: Verse
+kjv: "And they came to the threshingfloor of Atad, which is beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days."
+bsb: "When they reached the threshing floor of Atad, which is across the Jordan, they lamented and wailed loudly, and Joseph mourned for his father seven days."
+hebrew: "וַיָּבֹ֜אוּ עַד־ גֹּ֣רֶן הָאָטָ֗ד אֲשֶׁר֙ בְּעֵ֣בֶר הַיַּרְדֵּ֔ן וַיִּ֨סְפְּדוּ־ שָׁ֔ם מִסְפֵּ֛ד גָּד֥וֹל וְכָבֵ֖ד מְאֹ֑ד וַיַּ֧עַשׂ לְאָבִ֛יו אֵ֖בֶל שִׁבְעַ֥ת יָמִֽים׃"
+pericope: "[[Gen.50.1 Mourning and Burial for Jacob|Mourning and Burial for Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ATAD|ATAD]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1637]]"
+- "[[H9009]]"
+- "[[H0329G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H5594]]"
+- "[[H8033G]]"
+- "[[H4553]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H3515]]"
+- "[[H3966]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0060]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:10**<big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they came to the threshingfloor of Atad, which [is] beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.
 <small><sub>**BSB:**</sub></small>
 When they reached the threshing floor of Atad, which is across the Jordan, they lamented and wailed loudly, and Joseph mourned for his father seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1637\|גֹּ֣רֶן]] [[H9009\|הָ]][[H0329G\|אָטָ֗ד]] [[H0834A\|אֲשֶׁר֙]] [[H9003\|בְּ]][[H5676H\|עֵ֣בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9001\|וַ]][[H5594\|יִּ֨סְפְּדוּ]][[H9014\|־]] [[H8033G\|שָׁ֔ם]] [[H4553\|מִסְפֵּ֛ד]] [[H1419A\|גָּד֥וֹל]] [[H9002\|וְ]][[H3515\|כָבֵ֖ד]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H6213H\|יַּ֧עַשׂ]] [[H9005\|לְ]][[H0001G\|אָבִ֛י]][[H9023\|ו]] [[H0060\|אֵ֖בֶל]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATAD|ATAD]] • [[topic CHILDREN|CHILDREN]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic MOURNING|MOURNING]] • [[topic SEVEN|SEVEN]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.9|<< Genesis 50:9]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.11|Genesis 50:11 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Psalm 72:8
+type: Verse
+kjv: "He shall have dominion also from sea to sea, and from the river unto the ends of the earth."
+bsb: "May he rule from sea to sea, and from the Euphrates to the ends of the earth."
+hebrew: "וְ֭יֵרְדְּ מִיָּ֣ם עַד־ יָ֑ם וּ֝מִנָּהָ֗ר עַד־ אַפְסֵי־ אָֽרֶץ׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H7287A]]"
+- "[[H9006]]"
+- "[[H3220G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5104G]]"
+- "[[H0657A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 72:8**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall have dominion also from sea to sea, and from the river unto the ends of the earth.
 <small><sub>**BSB:**</sub></small>
 May he rule from sea to sea, and from the Euphrates to the ends of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H7287A\|יֵרְדְּ]] [[H9006\|מִ]][[H3220G\|יָּ֣ם]] [[H5704\|עַד]][[H9014\|־]] [[H3220G\|יָ֑ם]] [[H9002\|וּ֝]][[H9006\|מִ]][[H5104G\|נָּהָ֗ר]] [[H5704\|עַד]][[H9014\|־]] [[H0657A\|אַפְסֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.7|<< Psalms 72:7]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.72.9|Psalms 72:9 >>]]</td></tr></table>
 

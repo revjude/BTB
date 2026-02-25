@@ -1,10 +1,58 @@
+---
+title: Mark 3:6
+type: Verse
+kjv: "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him."
+bsb: "At this, the Pharisees went out and began plotting with the Herodians how they might kill Jesus."
+greek: "Καὶ ἐξελθόντες οἱ Φαρισαῖοι εὐθὺς μετὰ τῶν Ἡρῳδιανῶν συμβούλιον ἐδίδουν κατ᾽ αὐτοῦ ὅπως αὐτὸν ἀπολέσωσιν.¶"
+pericope: "[[Mark.3.1 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic HERODIANS|HERODIANS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G2112]]"
+- "[[G3326]]"
+- "[[G2265]]"
+- "[[G4824]]"
+- "[[G1325]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G3704]]"
+- "[[G0622]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 3:6**<big><big>[[Mark.3.1 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.
 <small><sub>**BSB:**</sub></small>
 At this, the Pharisees went out and began plotting with the Herodians how they might kill Jesus.
-<small><sub>**Literal:**</sub></small>
-And having gone out the Pharisees immediately with the Herodians counsel were giving against Him how Him they may destroy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.5|<< Mark 3:5]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.7|Mark 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1831\|ἐξελθόντες]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G2112\|εὐθὺς]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G2265\|Ἡρῳδιανῶν]]  [[G4824\|συμβούλιον]]  [[G1325\|ἐδίδουν]]  [[G2596\|κατ᾽]]  [[G0846\|αὐτοῦ]]  [[G3704\|ὅπως]]  [[G0846\|αὐτὸν]]  [[G0622\|ἀπολέσωσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic HERODIANS|HERODIANS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.5|<< Mark 3:5]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.7|Mark 3:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

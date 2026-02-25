@@ -1,8 +1,42 @@
+---
+title: Job 12:1
+type: Verse
+kjv: "And Job answered and said,"
+bsb: "Then Job answered:"
+hebrew: "וַיַּ֥עַן אִיּ֗וֹב וַיֹּאמַֽר׃"
+pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0347]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 12:1**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Job answered and said,
 <small><sub>**BSB:**</sub></small>
 Then Job answered:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֥עַן]] [[H0347\|אִיּ֗וֹב]] [[H9001\|וַ]][[H0559\|יֹּאמַֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.20|<< Job 11:20]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.2|Job 12:2 >>]]</td></tr></table>
 

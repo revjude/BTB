@@ -1,8 +1,77 @@
+---
+title: Exodus 31:13
+type: Verse
+kjv: "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it is a sign between me and you throughout your generations; that ye may know that I am the LORD that doth sanctify you."
+bsb: "“Tell the Israelites, ‘Surely you must keep My Sabbaths, for this will be a sign between Me and you for the generations to come, so that you may know that I am the LORD who sanctifies you."
+hebrew: "וְאַתָּ֞ה דַּבֵּ֨ר אֶל־ בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר אַ֥ךְ אֶת־ שַׁבְּתֹתַ֖י תִּשְׁמֹ֑רוּ כִּי֩ א֨וֹת הִ֜וא בֵּינִ֤י וּבֵֽינֵיכֶם֙ לְדֹרֹ֣תֵיכֶ֔ם לָדַ֕עַת כִּ֛י אֲנִ֥י יְהוָ֖ה מְקַדִּשְׁכֶֽם׃"
+pericope: "[[Exod.31.12 The Sign of the Sabbath|The Sign of the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 31
+book/chapter: "[[Exod.31|Exodus 31]]"
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0389]]"
+- "[[H0853]]"
+- "[[H7676]]"
+- "[[H9020]]"
+- "[[H8104G]]"
+- "[[H3588A]]"
+- "[[H0226H]]"
+- "[[H1931]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9036]]"
+- "[[H1755]]"
+- "[[H9026]]"
+- "[[H3045]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H6942G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 31:13**<big><big>[[Exod.31.12 The Sign of the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it [is] a sign between me and you throughout your generations; that [ye] may know that I [am] the LORD that doth sanctify you.
 <small><sub>**BSB:**</sub></small>
 “Tell the Israelites, ‘Surely you must keep My Sabbaths, for this will be a sign between Me and you for the generations to come, so that you may know that I am the LORD who sanctifies you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֞ה]] [[H1696G\|דַּבֵּ֨ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0389\|אַ֥ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתֹתַ֖]][[H9020\|י]] [[H8104G\|תִּשְׁמֹ֑רוּ]] [[H3588A\|כִּי֩]] [[H0226H\|א֨וֹת]] [[H1931\|הִ֜וא]] [[H0996G\|בֵּינִ֤]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵֽינֵי]][[H9036\|כֶם֙]] [[H9005\|לְ]][[H1755\|דֹרֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9005\|לָ]][[H3045\|דַ֕עַת]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H6942G\|מְקַדִּשְׁ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BLESSING|BLESSING]] • [[topic SABBATH|SABBATH]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SANITATION|SANITATION]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.12|<< Exodus 31:12]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.14|Exodus 31:14 >>]]</td></tr></table>
 

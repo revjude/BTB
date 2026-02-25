@@ -1,8 +1,63 @@
+---
+title: Genesis 24:8
+type: Verse
+kjv: "And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again."
+bsb: "And if the woman is unwilling to follow you, then you are released from this oath of mine. Only do not take my son back there.”"
+hebrew: "וְאִם־ לֹ֨א תֹאבֶ֤ה הָֽאִשָּׁה֙ לָלֶ֣כֶת אַחֲרֶ֔יךָ וְנִקִּ֕יתָ מִשְּׁבֻעָתִ֖י זֹ֑את רַ֣ק אֶת־ בְּנִ֔י לֹ֥א תָשֵׁ֖ב שָֽׁמָּה׃"
+pericope: "[[Gen.24.1 A Wife for Isaac|A Wife for Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H9005]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H5352]]"
+- "[[H9006]]"
+- "[[H7621]]"
+- "[[H9020]]"
+- "[[H2063]]"
+- "[[H7535]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H7725G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:8**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again.
 <small><sub>**BSB:**</sub></small>
 And if the woman is unwilling to follow you, then you are released from this oath of mine. Only do not take my son back there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֨א]] [[H0014\|תֹאבֶ֤ה]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H9005\|לָ]][[H1980N\|לֶ֣כֶת]] [[H0310A\|אַחֲרֶ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H5352\|נִקִּ֕יתָ]] [[H9006\|מִ]][[H7621\|שְּׁבֻעָתִ֖]][[H9020\|י]] [[H2063\|זֹ֑את]] [[H7535\|רַ֣ק]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנִ֔]][[H9020\|י]] [[H3808\|לֹ֥א]] [[H7725G\|תָשֵׁ֖ב]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.7|<< Genesis 24:7]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.9|Genesis 24:9 >>]]</td></tr></table>
 

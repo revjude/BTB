@@ -1,10 +1,71 @@
+---
+title: John 21:17
+type: Verse
+kjv: "He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep."
+bsb: "Jesus asked a third time, “Simon son of John, do you love Me?” Peter was deeply hurt that Jesus had asked him a third time, “Do you love Me?” “Lord, You know all things,” he replied. “You know I love You.” Jesus said to him, “Feed My sheep."
+jesus_said: "Simon, son of Jonas, lovest thou me? Feed my sheep."
+greek: "λέγει αὐτῷ τὸ τρίτον· Σίμων Ἰωάννου, φιλεῖς με; ἐλυπήθη ὁ Πέτρος ὅτι εἶπεν αὐτῷ τὸ τρίτον· φιλεῖς με; καὶ λέγει αὐτῷ· κύριε, πάντα σὺ οἶδας, σὺ γινώσκεις ὅτι φιλῶ σε. λέγει αὐτῷ ὁ Ἰησοῦς· βόσκε τὰ πρόβατά μου."
+pericope: "[[John.21.15 Jesus and Peter|Jesus and Peter]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic DISCIPLESHIP|DISCIPLESHIP]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JONAS|JONAS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5154]]"
+- "[[G4613O]]"
+- "[[G2491K]]"
+- "[[G5368]]"
+- "[[G3165]]"
+- "[[G3076]]"
+- "[[G4074G]]"
+- "[[G3754H]]"
+- "[[G2036]]"
+- "[[G2532]]"
+- "[[G2962G]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G6063]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G1006]]"
+- "[[G4263]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 21:17**<big><big>[[John.21.15 Jesus and Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He saith unto him the third time, Simon, [son] of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep.
 <small><sub>**BSB:**</sub></small>
 Jesus asked a third time, “Simon son of John, do you love Me?” Peter was deeply hurt that Jesus had asked him a third time, “Do you love Me?” “Lord, You know all things,” he replied. “You know I love You.” Jesus said to him, “Feed My sheep.
-<small><sub>**Literal:**</sub></small>
-He says to him the third time; Simon [son] of John, do you dearly love Me? Was grieved <the> Peter because He said to him the third time; Do you dearly love Me? And he speaks to Him; Lord, all things You yourself know, You yourself know that I dearly love You. Says to him <the> Jesus; do feed the sheep of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.16|<< John 21:16]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.18|John 21:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|τὸ]]  [[G5154\|τρίτον·]]  [[G4613O\|Σίμων]]  [[G2491K\|Ἰωάννου,]]  [[G5368\|φιλεῖς]]  [[G3165\|με;]]  [[G3076\|ἐλυπήθη]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G3754H\|ὅτι]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ]]  [[G3588\|τὸ]]  [[G5154\|τρίτον·]]  [[G5368\|φιλεῖς]]  [[G3165\|με;]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G3956\|πάντα]]  [[G4771\|σὺ]]  [[G6063\|οἶδας,]]  [[G4771\|σὺ]]  [[G1097\|γινώσκεις]]  [[G3754G\|ὅτι]]  [[G5368\|φιλῶ]]  [[G4771\|σε.]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1006\|βόσκε]]  [[G3588\|τὰ]]  [[G4263\|πρόβατά]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic DISCIPLESHIP|DISCIPLESHIP]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JONAS|JONAS]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.16|<< John 21:16]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.18|John 21:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

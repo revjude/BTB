@@ -1,8 +1,58 @@
+---
+title: Jeremiah 15:13
+type: Verse
+kjv: "Thy substance and thy treasures will I give to the spoil without price, and that for all thy sins, even in all thy borders."
+bsb: "Your wealth and your treasures I will give up as plunder, without charge for all your sins within all your borders."
+hebrew: "חֵילְךָ֧ וְאוֹצְרוֹתֶ֛יךָ לָבַ֥ז אֶתֵּ֖ן לֹ֣א בִמְחִ֑יר וּבְכָל־ חַטֹּאותֶ֖יךָ וּבְכָל־ גְּבוּלֶֽיךָ׃"
+pericope: "[[Jer.15.10 Jeremiah’s Woe|Jeremiah’s Woe]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2428H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0214]]"
+- "[[H9005]]"
+- "[[H0957]]"
+- "[[H5414G]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H4242]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2403B]]"
+- "[[H1366H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 15:13**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy substance and thy treasures will I give to the spoil without price, and [that] for all thy sins, even in all thy borders.
 <small><sub>**BSB:**</sub></small>
 Your wealth and your treasures I will give up as plunder, without charge for all your sins within all your borders.
+<small><sub>**Hebrew:**</sub></small>
+[[H2428H\|חֵילְ]][[H9021\|ךָ֧]] [[H9002\|וְ]][[H0214\|אוֹצְרוֹתֶ֛י]][[H9021\|ךָ]] [[H9005\|לָ]][[H0957\|בַ֥ז]] [[H5414G\|אֶתֵּ֖ן]] [[H3808\|לֹ֣א]] [[H9003\|בִ]][[H4242\|מְחִ֑יר]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H2403B\|חַטֹּאותֶ֖י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H1366H\|גְּבוּלֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.12|<< Jeremiah 15:12]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.14|Jeremiah 15:14 >>]]</td></tr></table>
 

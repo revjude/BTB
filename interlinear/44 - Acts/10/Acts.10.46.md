@@ -1,10 +1,58 @@
+---
+title: Acts 10:46
+type: Verse
+kjv: "For they heard them speak with tongues, and magnify God. Then answered Peter,"
+bsb: "For they heard them speaking in tongues and exalting God. Then Peter said,"
+greek: "ἤκουον γὰρ αὐτῶν λαλούντων γλώσσαις καὶ μεγαλυνόντων τὸν θεόν. τότε ἀπεκρίθη ὁ Πέτρος·"
+pericope: "[[Acts.10.44 The Gentiles Receive the Holy Spirit|The Gentiles Receive the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[G0191]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G1100]]"
+- "[[G2532]]"
+- "[[G3170]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G5119]]"
+- "[[G0611]]"
+- "[[G4074G]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 10:46**<big><big>[[Acts.10.44 The Gentiles Receive the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they heard them speak with tongues, and magnify God. Then answered Peter,
 <small><sub>**BSB:**</sub></small>
 For they heard them speaking in tongues and exalting God. Then Peter said,
-<small><sub>**Literal:**</sub></small>
-They were hearing for when they are speaking in tongues and magnifying <the> God. Then answered <the> Peter;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.45|<< Acts 10:45]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.47|Acts 10:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἤκουον]]  [[G1063\|γὰρ]]  [[G0846\|αὐτῶν]]  [[G2980\|λαλούντων]]  [[G1100\|γλώσσαις]]  [[G2532\|καὶ]]  [[G3170\|μεγαλυνόντων]]  [[G3588\|τὸν]]  [[G2316\|θεόν.]]  [[G5119\|τότε]]  [[G0611\|ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHARISM|CHARISM]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic TONGUE|TONGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.45|<< Acts 10:45]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.47|Acts 10:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

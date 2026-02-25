@@ -1,8 +1,57 @@
+---
+title: Jeremiah 10:4
+type: Verse
+kjv: "They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not."
+bsb: "They adorn it with silver and gold and fasten it with hammer and nails, so that it will not totter."
+hebrew: "בְּכֶ֥סֶף וּבְזָהָ֖ב יְיַפֵּ֑הוּ בְּמַסְמְר֧וֹת וּבְמַקָּב֛וֹת יְחַזְּק֖וּם וְל֥וֹא יָפִֽיק׃"
+pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HAMMER|HAMMER]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic NAIL|NAIL]]"
+strongs:
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H3302]]"
+- "[[H9033]]"
+- "[[H4548]]"
+- "[[H4717]]"
+- "[[H2388H]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H6328]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:4**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They deck it with silver and with gold; they fasten it with nails and with hammers, that it move not.
 <small><sub>**BSB:**</sub></small>
 They adorn it with silver and gold and fasten it with hammer and nails, so that it will not totter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3701G\|כֶ֥סֶף]] [[H9002\|וּ]][[H9003\|בְ]][[H2091\|זָהָ֖ב]] [[H3302\|יְיַפֵּ֑]][[H9033\|הוּ]] [[H9003\|בְּ]][[H4548\|מַסְמְר֧וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H4717\|מַקָּב֛וֹת]] [[H2388H\|יְחַזְּק֖וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|ל֥וֹא]] [[H6328\|יָפִֽיק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMMER|HAMMER]] • [[topic IDOLATRY|IDOLATRY]] • [[topic NAIL|NAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.3|<< Jeremiah 10:3]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.5|Jeremiah 10:5 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Acts 17:2
+type: Verse
+kjv: "And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures,"
+bsb: "As was his custom, Paul went into the synagogue, and on three Sabbaths he reasoned with them from the Scriptures,"
+greek: "κατὰ δὲ τὸ εἰωθὸς τῷ Παύλῳ εἰσῆλθεν πρὸς αὐτούς, καὶ ἐπὶ σάββατα τρία διελέξατο αὐτοῖς ἀπὸ τῶν γραφῶν,"
+pericope: "[[Acts.17.1 The Uproar in Thessalonica|The Uproar in Thessalonica]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2596]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1486]]"
+- "[[G3972G]]"
+- "[[G1525]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G4521]]"
+- "[[G5140]]"
+- "[[G1256]]"
+- "[[G0575]]"
+- "[[G1124]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 17:2**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures,
 <small><sub>**BSB:**</sub></small>
 As was his custom, Paul went into the synagogue, and on three Sabbaths he reasoned with them from the Scriptures,
-<small><sub>**Literal:**</sub></small>
-According to now the being customary <the> with Paul he went in to them, and for Sabbaths three he reasoned with them from the Scriptures,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.1|<< Acts 17:1]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.3|Acts 17:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατὰ]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G1486\|εἰωθὸς]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ]]  [[G1525\|εἰσῆλθεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς,]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G4521\|σάββατα]]  [[G5140\|τρία]]  [[G1256\|διελέξατο]]  [[G0846\|αὐτοῖς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G1124\|γραφῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GREECE|GREECE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic REASONING|REASONING]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.1|<< Acts 17:1]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.3|Acts 17:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

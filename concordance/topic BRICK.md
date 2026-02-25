@@ -9,5 +9,5 @@
 
 → Altars [[Isa.65.3|Isa 65:3]]
 
-→ Made by Israelites [[Exod.5.7|Ex 5:7]]-[[Exod.5.19|19]]; [[2Sam.12.31|2Sa 12:31]]; [[Jer.43.9|Jer 43:9]];  [[Nah.3.14|Na 3:14]]
+→ Made by Israelites [[Exod.5.7|Ex 5:7-19]]; [[2Sam.12.31|2Sa 12:31]]; [[Jer.43.9|Jer 43:9]];  [[Nah.3.14|Na 3:14]]
 

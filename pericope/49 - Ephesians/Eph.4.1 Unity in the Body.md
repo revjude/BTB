@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Unity in the Body
+type: Pericope
 pericope: "[[Eph.4.1 Unity in the Body|Unity in the Body]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 4
 book/chapter: "[[Eph.4|Ephesians 4]]"
-genre:
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 16
 verses:
 - "[[Eph.4.1]]"
 - "[[Eph.4.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Eph.4.16]]"
 ---
 
-[[Eph.4|Ephesians 4:1 - Ephesians 4:16]]
+<small>[[Eph.4|Ephesians 4:1-16]]</small>
 *Unity in the Body*
 
 [[Eph.4.1|1]] I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,

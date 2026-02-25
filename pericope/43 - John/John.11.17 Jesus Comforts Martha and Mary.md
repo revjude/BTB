@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Comforts Martha and Mary
+type: Pericope
 pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
-verse_count: 21
+original_language: Greek
 testament: New
 book: John
 chapter: 11
 book/chapter: "[[John.11|John 11]]"
-genre:
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 21
 verses:
 - "[[John.11.17]]"
 - "[[John.11.18]]"
@@ -39,7 +46,7 @@ verses:
 - "[[John.11.37]]"
 ---
 
-[[John.11|John 11:17 - John 11:37]]
+<small>[[John.11|John 11:17-37]]</small>
 *Jesus Comforts Martha and Mary*
 
 [[John.11.17|17]] Then when Jesus came, he found that he had \[lain\] in the grave four days already.

@@ -1,8 +1,64 @@
+---
+title: 2 Kings 4:23
+type: Verse
+kjv: "And he said, Wherefore wilt thou go to him to day? it is neither new moon, nor sabbath. And she said, It shall be well."
+bsb: "“Why would you go to him today?” he replied. “It is not a New Moon or a Sabbath.” “Everything is all right,” she said."
+hebrew: "וַיֹּ֗אמֶר מַ֠דּוּעַ אַ֣תְּ הֹלֶ֤כֶת אֵלָיו֙ הַיּ֔וֹם לֹֽא־ חֹ֖דֶשׁ וְלֹ֣א שַׁבָּ֑ת וַתֹּ֖אמֶר שָׁלֽוֹם׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4069]]"
+- "[[H0859B]]"
+- "[[H0859C]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2320H]]"
+- "[[H9002]]"
+- "[[H7676]]"
+- "[[H7965I]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 4:23**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Wherefore wilt thou go to him to day? [it is] neither new moon, nor sabbath. And she said, [It shall be] well.
 <small><sub>**BSB:**</sub></small>
 “Why would you go to him today?” he replied. “It is not a New Moon or a Sabbath.” “Everything is all right,” she said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H4069\|מַ֠דּוּעַ]] [[H0859C\|אַ֣תְּ]] [[H1980G\|הֹלֶ֤כֶת]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2320H\|חֹ֖דֶשׁ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7676\|שַׁבָּ֑ת]] [[H9001\|וַ]][[H0559\|תֹּ֖אמֶר]] [[H7965I\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.22|<< 2 Kings 4:22]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.24|2 Kings 4:24 >>]]</td></tr></table>
 

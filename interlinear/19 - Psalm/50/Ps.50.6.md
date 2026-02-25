@@ -1,8 +1,58 @@
+---
+title: Psalm 50:6
+type: Verse
+kjv: "And the heavens shall declare his righteousness: for God is judge himself. Selah."
+bsb: "And the heavens proclaim His righteousness, for God Himself is Judge. Selah"
+hebrew: "וַיַּגִּ֣ידוּ שָׁמַ֣יִם צִדְק֑וֹ כִּֽי־ אֱלֹהִ֓ים׀ שֹׁפֵ֖ט ה֣וּא סֶֽלָה׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H8064]]"
+- "[[H6664G]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H8199]]"
+- "[[H1931]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:6**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the heavens shall declare his righteousness: for God [is] judge himself. Selah.
 <small><sub>**BSB:**</sub></small>
 And the heavens proclaim His righteousness, for God Himself is Judge. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגִּ֣ידוּ]] [[H8064\|שָׁמַ֣יִם]] [[H6664G\|צִדְק֑]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0430G\|אֱלֹהִ֓ים]][[H9015\|׀]] [[H8199\|שֹׁפֵ֖ט]] [[H1931\|ה֣וּא]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JUDGMENT|JUDGMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.5|<< Psalms 50:5]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.7|Psalms 50:7 >>]]</td></tr></table>
 

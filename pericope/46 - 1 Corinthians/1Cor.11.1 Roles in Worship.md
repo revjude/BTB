@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Roles in Worship
+type: Pericope
 pericope: "[[1Cor.11.1 Roles in Worship|Roles in Worship]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 11
 book/chapter: "[[1Cor.11|1 Corinthians 11]]"
-genre:
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 16
 verses:
 - "[[1Cor.11.1]]"
 - "[[1Cor.11.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[1Cor.11.16]]"
 ---
 
-[[1Cor.11|1 Corinthians 11:1 - 1 Corinthians 11:16]]
+<small>[[1Cor.11|1 Corinthians 11:1-16]]</small>
 *Roles in Worship*
 
 [[1Cor.11.1|1]] Be ye followers of me, even as I also \[am\] of Christ.

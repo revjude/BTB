@@ -1,8 +1,59 @@
+---
+title: Genesis 43:17
+type: Verse
+kjv: "And the man did as Joseph bade; and the man brought the men into Joseph’s house."
+bsb: "The man did as Joseph had commanded and took the brothers to Joseph’s house."
+hebrew: "וַיַּ֣עַשׂ הָאִ֔ישׁ כַּֽאֲשֶׁ֖ר אָמַ֣ר יוֹסֵ֑ף וַיָּבֵ֥א הָאִ֛ישׁ אֶת־ הָאֲנָשִׁ֖ים בֵּ֥יתָה יוֹסֵֽף׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0559]]"
+- "[[H3130G]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:17**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man did as Joseph bade; and the man brought the men into Joseph’s house.
 <small><sub>**BSB:**</sub></small>
 The man did as Joseph had commanded and took the brothers to Joseph’s house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁ֖ר]] [[H0559\|אָמַ֣ר]] [[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַ]][[H0935P\|יָּבֵ֥א]] [[H9009\|הָ]][[H0376G\|אִ֛ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H1004B\|בֵּ֥יתָ]][[H9011\|ה]] [[H3130G\|יוֹסֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.16|<< Genesis 43:16]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.18|Genesis 43:18 >>]]</td></tr></table>
 

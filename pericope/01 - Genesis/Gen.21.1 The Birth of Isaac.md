@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Birth of Isaac
+type: Pericope
 pericope: "[[Gen.21.1 The Birth of Isaac|The Birth of Isaac]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 21
 book/chapter: "[[Gen.21|Genesis 21]]"
-genre:
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.21.1]]"
 - "[[Gen.21.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.21.8]]"
 ---
 
-[[Gen.21|Genesis 21:1 - Genesis 21:8]]
+<small>[[Gen.21|Genesis 21:1-8]]</small>
 *The Birth of Isaac*
 
 [[Gen.21.1|1]] And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken.

@@ -1,10 +1,63 @@
+---
+title: Ephesians 3:5
+type: Verse
+kjv: "Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;"
+bsb: "which was not made known to men in other generations as it has now been revealed by the Spirit to God’s holy apostles and prophets."
+greek: "ὃ ἐν ἑτέραις γενεαῖς οὐκ ἐγνωρίσθη τοῖς υἱοῖς τῶν ἀνθρώπων ὡς νῦν ἀπεκαλύφθη τοῖς ἁγίοις ἀποστόλοις αὐτοῦ καὶ προφήταις ἐν πνεύματι,"
+pericope: "[[Eph.3.1 The Mystery of the Gospel|The Mystery of the Gospel]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3739]]"
+- "[[G1722]]"
+- "[[G2087]]"
+- "[[G1074]]"
+- "[[G3756]]"
+- "[[G1107]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G5613]]"
+- "[[G3568]]"
+- "[[G0601]]"
+- "[[G0040G]]"
+- "[[G0652]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4396]]"
+- "[[G4151G]]"
+texts:
+- NKO
+- k
+---
+
 **Ephesians 3:5**<big><big>[[Eph.3.1 The Mystery of the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;
 <small><sub>**BSB:**</sub></small>
 which was not made known to men in other generations as it has now been revealed by the Spirit to God’s holy apostles and prophets.
-<small><sub>**Literal:**</sub></small>
-which in in other generations not was made known to the sons <the> of men as now it has been revealed to the holy apostles of His and to [his] prophets in [the] Spirit,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.4|<< Ephesians 3:4]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.6|Ephesians 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G1722\|ἐν]]  [[G2087\|ἑτέραις]]  [[G1074\|γενεαῖς]]  [[G3756\|οὐκ]]  [[G1107\|ἐγνωρίσθη]]  [[G3588\|τοῖς]]  [[G5207\|υἱοῖς]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων]]  [[G5613\|ὡς]]  [[G3568\|νῦν]]  [[G0601\|ἀπεκαλύφθη]]  [[G3588\|τοῖς]]  [[G0040G\|ἁγίοις]]  [[G0652\|ἀποστόλοις]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G4396\|προφήταις]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MYSTERIES|MYSTERIES]] • [[topic SALVATION|SALVATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.4|<< Ephesians 3:4]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.6|Ephesians 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

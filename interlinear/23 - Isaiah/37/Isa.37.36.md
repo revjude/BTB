@@ -1,8 +1,67 @@
+---
+title: Isaiah 37:36
+type: Verse
+kjv: "Then the angel of the LORD went forth, and smote in the camp of the Assyrians a hundred and fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses."
+bsb: "Then the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!"
+hebrew: "וַיֵּצֵ֣א׀ מַלְאַ֣ךְ יְהוָ֗ה וַיַּכֶּה֙ בְּמַחֲנֵ֣ה אַשּׁ֔וּר מֵאָ֛ה וּשְׁמֹנִ֥ים וַחֲמִשָּׁ֖ה אָ֑לֶף וַיַּשְׁכִּ֣ימוּ בַבֹּ֔קֶר וְהִנֵּ֥ה כֻלָּ֖ם פְּגָרִ֥ים מֵתִֽים׃"
+pericope: "[[Isa.37.36 Jerusalem Delivered from the Assyrians|Jerusalem Delivered from the Assyrians]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9015]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H0804G]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H8084]]"
+- "[[H2568]]"
+- "[[H0505G]]"
+- "[[H7925]]"
+- "[[H1242]]"
+- "[[H2009]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H6297]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:36**<big><big>[[Isa.37.36 Jerusalem Delivered from the Assyrians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the angel of the LORD went forth, and smote in the camp of the Assyrians a hundred and fourscore and five thousand: and when they arose early in the morning, behold, they [were] all dead corpses.
 <small><sub>**BSB:**</sub></small>
 Then the angel of the LORD went out and struck down 185,000 men in the camp of the Assyrians. When the people got up the next morning, there were all the dead bodies!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]][[H9015\|׀]] [[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H5221\|יַּכֶּה֙]] [[H9003\|בְּ]][[H4264\|מַחֲנֵ֣ה]] [[H0804G\|אַשּׁ֔וּר]] [[H3967\|מֵאָ֛ה]] [[H9002\|וּ]][[H8084\|שְׁמֹנִ֥ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֖ה]] [[H0505G\|אָ֑לֶף]] [[H9001\|וַ]][[H7925\|יַּשְׁכִּ֣ימוּ]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H3605\|כֻלָּ֖]][[H9028\|ם]] [[H6297\|פְּגָרִ֥ים]] [[H4191\|מֵתִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ASSYRIA|ASSYRIA]] • [[topic LIBNAH|LIBNAH]] • [[topic MIRACLES|MIRACLES]] • [[topic SENNACHERIB|SENNACHERIB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.35|<< Isaiah 37:35]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.37|Isaiah 37:37 >>]]</td></tr></table>
 

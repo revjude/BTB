@@ -1,8 +1,65 @@
+---
+title: Psalm 55:22
+type: Verse
+kjv: "Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved."
+bsb: "Cast your burden upon the LORD and He will sustain you; He will never let the righteous be shaken."
+hebrew: "הַשְׁלֵ֤ךְ עַל־ יְהוָ֨ה׀ יְהָבְךָ֮ וְה֪וּא יְכַ֫לְכְּלֶ֥ךָ לֹא־ יִתֵּ֖ן לְעוֹלָ֥ם מ֗וֹט לַצַּדִּֽיק׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CARE|CARE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H7993]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H3053]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3557]]"
+- "[[H9031]]"
+- "[[H3808]]"
+- "[[H5414K]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H4131]]"
+- "[[H6662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:22**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cast thy burden upon the LORD, and he shall sustain thee: he shall never suffer the righteous to be moved.
 <small><sub>**BSB:**</sub></small>
 Cast your burden upon the LORD and He will sustain you; He will never let the righteous be shaken.
+<small><sub>**Hebrew:**</sub></small>
+[[H7993\|הַשְׁלֵ֤ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H3053\|יְהָבְ]][[H9021\|ךָ֮]] [[H9002\|וְ]][[H1931\|ה֪וּא]] [[H3557\|יְכַ֫לְכְּלֶ֥]][[H9031\|ךָ]] [[H3808\|לֹא]][[H9014\|־]] [[H5414K\|יִתֵּ֖ן]] [[H9005\|לְ]][[H5769G\|עוֹלָ֥ם]] [[H4131\|מ֗וֹט]] [[H9005\|לַ]][[H6662\|צַּדִּֽיק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic CARE|CARE]] • [[topic FAITH|FAITH]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.21|<< Psalms 55:21]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.23|Psalms 55:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

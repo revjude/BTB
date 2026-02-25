@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws about Vows
+type: Pericope
 pericope: "[[Num.30.1 Laws about Vows|Laws about Vows]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 30
 book/chapter: "[[Num.30|Numbers 30]]"
-genre:
+chronological_order: 190
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 16
 verses:
 - "[[Num.30.1]]"
 - "[[Num.30.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Num.30.16]]"
 ---
 
-[[Num.30|Numbers 30:1 - Numbers 30:16]]
+<small>[[Num.30|Numbers 30:1-16]]</small>
 *Laws about Vows*
 
 [[Num.30.1|1]] And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This \[is\] the thing which the LORD hath commanded.

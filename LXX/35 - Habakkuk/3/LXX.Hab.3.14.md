@@ -1,6 +1,103 @@
+---
+title: LXX Habakkuk 3:14
+type: Verse
+lxx: "You cut heads of mighty ones for astonishment; they shall shake in it; they shall open wide their bridles as the poor eating in private. You divided into parts in stupefaction the heads of the mighty. They shall shake in it. They shall open  their reins as the poor chewing in concealment."
+greek: "διέκοψας διεμέρισας εν εν εκστάσει θάμβει κεφαλάς τας δυναστών κεφαλάς σεισθήσονται των εν δυνατών αυτή σαλευθήσονται διανοίξουσι εν χαλινούς αυτών αυτή ανοίξουσι ως τας ο ηνίας αυτών έσθων ως πτωχός τρώγλων λάθρα πτωχόν διέκοψας διεμέρισας εν εν εκστάσει θάμβει κεφαλάς τας δυναστών κεφαλάς σεισθήσονται των εν δυνατών αυτή σαλευθήσονται διανοίξουσι εν χαλινούς αυτή αυτών ανοίξουσι ως τας ο ηνίας αυτών έσθων ως πτωχός τρώγλων λάθρα πτωχόν εν αποκρύφω"
+original_language: Greek
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[G6839]]"
+- "[[G1266]]"
+- "[[G1722]]"
+- "[[G1722]]"
+- "[[G1611]]"
+- "[[G2285]]"
+- "[[G2776]]"
+- "[[G3588]]"
+- "[[G1413]]"
+- "[[G2776]]"
+- "[[G4579]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G1415]]"
+- "[[G1473]]"
+- "[[G4531]]"
+- "[[G1272]]"
+- "[[G1722]]"
+- "[[G5469]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G0455]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G3588]]"
+- "[[G7632]]"
+- "[[G2068]]"
+- "[[G5613]]"
+- "[[G4434]]"
+- "[[G5176]]"
+- "[[G2977]]"
+- "[[G4434]]"
+- "[[G6839]]"
+- "[[G1266]]"
+- "[[G1722]]"
+- "[[G1722]]"
+- "[[G1611]]"
+- "[[G2285]]"
+- "[[G2776]]"
+- "[[G3588]]"
+- "[[G1413]]"
+- "[[G2776]]"
+- "[[G4579]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G1415]]"
+- "[[G1473]]"
+- "[[G4531]]"
+- "[[G1272]]"
+- "[[G1722]]"
+- "[[G5469]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G0455]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G3588]]"
+- "[[G7632]]"
+- "[[G2068]]"
+- "[[G5613]]"
+- "[[G4434]]"
+- "[[G5176]]"
+- "[[G2977]]"
+- "[[G4434]]"
+- "[[G1722]]"
+- "[[G0614]]"
+---
+
 **LXX Habakkuk 3:14** 
 <small><sub>**LXX:**</sub></small>
 You cut heads of mighty ones for astonishment; they shall shake in it; they shall open wide their bridles as the poor eating in private. You divided into parts in stupefaction the heads of the mighty. They shall shake in it. They shall open  their reins as \[the\] poor chewing in concealment. 
+<small><sub>**Greek:**</sub></small>
+[[G6839\|διέκοψας]] [[G1266\|διεμέρισας]] [[G1722\|εν]] [[G1722\|εν]] [[G1611\|εκστάσει]] [[G2285\|θάμβει]] [[G2776\|κεφαλάς]] [[G3588\|τας]] [[G1413\|δυναστών]] [[G2776\|κεφαλάς]] [[G4579\|σεισθήσονται]] [[G3588\|των]] [[G1722\|εν]] [[G1415\|δυνατών]] [[G1473\|αυτή]] [[G4531\|σαλευθήσονται]] [[G1272\|διανοίξουσι]] [[G1722\|εν]] [[G5469\|χαλινούς]] [[G1473\|αυτών]] [[G1473\|αυτή]] [[G0455\|ανοίξουσι]] [[G5613\|ως]] [[G3588\|τας]] [[G3588\|ο]] [[G7632\|ηνίας αυτών]] [[G2068\|έσθων]] [[G5613\|ως]] [[G4434\|πτωχός]] [[G5176\|τρώγλων]] [[G2977\|λάθρα]] [[G4434\|πτωχόν]] [[G6839\|διέκοψας]] [[G1266\|διεμέρισας]] [[G1722\|εν]] [[G1722\|εν]] [[G1611\|εκστάσει]] [[G2285\|θάμβει]] [[G2776\|κεφαλάς]] [[G3588\|τας]] [[G1413\|δυναστών]] [[G2776\|κεφαλάς]] [[G4579\|σεισθήσονται]] [[G3588\|των]] [[G1722\|εν]] [[G1415\|δυνατών]] [[G1473\|αυτή]] [[G4531\|σαλευθήσονται]] [[G1272\|διανοίξουσι]] [[G1722\|εν]] [[G5469\|χαλινούς]] [[G1473\|αυτή]] [[G1473\|αυτών]] [[G0455\|ανοίξουσι]] [[G5613\|ως]] [[G3588\|τας]] [[G3588\|ο]] [[G7632\|ηνίας αυτών]] [[G2068\|έσθων]] [[G5613\|ως]] [[G4434\|πτωχός]] [[G5176\|τρώγλων]] [[G2977\|λάθρα]] [[G4434\|πτωχόν]] [[G1722\|εν]] [[G0614\|αποκρύφω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Hab.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
 
@@ -39,6 +136,6 @@ You cut heads of mighty ones for astonishment; they shall shake in it; they shal
 | \[the\] poor | **<big>[[G2977\|λάθρα]]</big>** **<big>[[G4434\|πτωχόν]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | concealment. | **<big>[[G0614\|αποκρύφω]]</big>** |
-[[Hab.3.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
 
 

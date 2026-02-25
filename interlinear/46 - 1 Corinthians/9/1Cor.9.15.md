@@ -1,10 +1,65 @@
+---
+title: 1 Corinthians 9:15
+type: Verse
+kjv: "But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void."
+bsb: "But I have not used any of these rights. And I am not writing this to suggest that something be done for me. Indeed, I would rather die than let anyone nullify my boast."
+greek: "ἐγὼ δὲ οὐ κέχρημαι οὐδενὶ τούτων· οὐκ ἔγραψα δὲ ταῦτα ἵνα οὕτως γένηται ἐν ἐμοί· καλὸν γάρ μοι μᾶλλον ἀποθανεῖν ἢ τὸ καύχημά μου ἵνα οὐδεὶς κενώσει."
+pericope: "[[1Cor.9.1 The Rights of an Apostle|The Rights of an Apostle]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EVIL|EVIL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G5530]]"
+- "[[G3762]]"
+- "[[G3778]]"
+- "[[G1125]]"
+- "[[G2443]]"
+- "[[G3779]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G2570G]]"
+- "[[G1063]]"
+- "[[G3165]]"
+- "[[G3123H]]"
+- "[[G0599]]"
+- "[[G2228]]"
+- "[[G3588]]"
+- "[[G2745]]"
+- "[[G2758]]"
+texts:
+- NKO
+- no
+- N(k)O
+- K
+---
+
 **1 Corinthians 9:15**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I have used none of these things: neither have I written these things, that it should be so done unto me: for [it were] better for me to die, than that any man should make my glorying void.
 <small><sub>**BSB:**</sub></small>
 But I have not used any of these rights. And I am not writing this to suggest that something be done for me. Indeed, I would rather die than let anyone nullify my boast.
-<small><sub>**Literal:**</sub></small>
-I myself however not have used not any of these; Neither have I written now these things that thus it may become with me myself; good for me rather to die than the boasting of mine so that no [one] will make void.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.14|<< 1 Corinthians 9:14]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.16|1 Corinthians 9:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G3756\|οὐ]]  [[G5530\|κέχρημαι]]  [[G3762\|οὐδενὶ]]  [[G3778\|τούτων·]]  [[G3756\|οὐκ]]  [[G1125\|ἔγραψα]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G2443\|ἵνα]]  [[G3779\|οὕτως]]  [[G1096\|γένηται]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί·]]  [[G2570G\|καλὸν]]  [[G1063\|γάρ]]  [[G3165\|μοι]]  [[G3123H\|μᾶλλον]]  [[G0599\|ἀποθανεῖν]]  [[G2228\|ἢ]]  [[G3588\|τὸ]]  [[G2745\|καύχημά]]  [[G3165\|μου]]  [[G2443\|ἵνα]]  [[G3762\|οὐδεὶς]]  [[G2758\|κενώσει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL|EVIL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.14|<< 1 Corinthians 9:14]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.16|1 Corinthians 9:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

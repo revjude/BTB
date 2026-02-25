@@ -15,7 +15,7 @@
 
 → Precepts concerning gleaning the fruit of [[Deut.24.20|De 24:20]]; [[Isa.17.6|Isa 17:6]]
 
-→ The cherubs made of the wood of [[1Kgs.6.23|1Ki 6:23]],[[1Kgs.6.31|31]]-[[1Kgs.6.33|33]]
+→ The cherubs made of the wood of [[1Kgs.6.23|1Ki 6:23]],[[1Kgs.6.31|31-33]]
 
 → Fable of [[Judg.9.8|Jud 9:8]]
 
@@ -23,9 +23,9 @@
 
 - Of prosperity [[Ps.128.3|Ps 128:3]]
 
-- The wild, a figure of the Gentiles; the cultivated, of the Jews [[Rom.11.17|Ro 11:17]]-[[Rom.11.21|21]],[[Rom.11.24|24]]
+- The wild, a figure of the Gentiles; the cultivated, of the Jews [[Rom.11.17|Ro 11:17-21]],[[Rom.11.24|24]]
 
-→ SYMBOLICAL [[Zech.4.2|Zec 4:2]]-[[Zech.4.12|12]]; [[Rev.11.4|Re 11:4]]
+→ SYMBOLICAL [[Zech.4.2|Zec 4:2-12]]; [[Rev.11.4|Re 11:4]]
 
 → FRUIT OF
 

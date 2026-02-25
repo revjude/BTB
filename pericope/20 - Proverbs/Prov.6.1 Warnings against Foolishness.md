@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Warnings against Foolishness
+type: Pericope
 pericope: "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 6
 book/chapter: "[[Prov.6|Proverbs 6]]"
-genre:
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 19
 verses:
 - "[[Prov.6.1]]"
 - "[[Prov.6.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Prov.6.19]]"
 ---
 
-[[Prov.6|Proverbs 6:1 - Proverbs 6:19]]
+<small>[[Prov.6|Proverbs 6:1-19]]</small>
 *Warnings against Foolishness*
 
 [[Prov.6.1|1]] My son, if thou be surety for thy friend, \[if\] thou hast stricken thy hand with a stranger,

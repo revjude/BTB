@@ -1,8 +1,62 @@
+---
+title: Daniel 4:6
+type: Verse
+kjv: "Therefore made I a decree to bring in all the wise men of Babylon before me, that they might make known unto me the interpretation of the dream."
+bsb: "So I issued a decree that all the wise men of Babylon be brought before me to interpret the dream for me."
+aramaic: "וּמִנִּי֙ שִׂ֣ים טְעֵ֔ם לְהַנְעָלָ֣ה קָֽדָמַ֔י לְכֹ֖ל חַכִּימֵ֣י בָבֶ֑ל דִּֽי־ פְשַׁ֥ר חֶלְמָ֖א יְהֽוֹדְעֻנַּֽנִי׃"
+pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H4481]]"
+- "[[H9030]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H9005]]"
+- "[[H5954]]"
+- "[[H6925]]"
+- "[[H3606]]"
+- "[[H2445]]"
+- "[[H0895]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H6591]]"
+- "[[H2493]]"
+- "[[H9010]]"
+- "[[H3046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:6**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore made I a decree to bring in all the wise [men] of Babylon before me, that they might make known unto me the interpretation of the dream.
 <small><sub>**BSB:**</sub></small>
 So I issued a decree that all the wise men of Babylon be brought before me to interpret the dream for me.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4481\|מִנִּ]][[H9030\|י֙]] [[H7761G\|שִׂ֣ים]] [[H2942\|טְעֵ֔ם]] [[H9005\|לְ]][[H5954\|הַנְעָלָ֣ה]] [[H6925\|קָֽדָמַ֔]][[H9030\|י]] [[H9005\|לְ]][[H3606\|כֹ֖ל]] [[H2445\|חַכִּימֵ֣י]] [[H0895\|בָבֶ֑ל]] [[H1768\|דִּֽי]][[H9014\|־]] [[H6591\|פְשַׁ֥ר]] [[H2493\|חֶלְמָ֖]][[H9010\|א]] [[H3046\|יְהֽוֹדְעֻנַּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic HEATHEN|HEATHEN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.5|<< Daniel 4:5]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.7|Daniel 4:7 >>]]</td></tr></table>
 

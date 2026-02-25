@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 11:34
+type: Verse
+kjv: "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come."
+bsb: "If anyone is hungry, he should eat at home, so that when you come together it will not result in judgment. And when I come, I will give instructions about the remaining matters."
+greek: "εἴ δέ τις πεινᾷ, ἐν οἴκῳ ἐσθιέτω, ἵνα μὴ εἰς κρίμα συνέρχησθε. τὰ δὲ λοιπὰ ὡς ἂν ἔλθω διατάξομαι.¶"
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3983]]"
+- "[[G1722]]"
+- "[[G3624G]]"
+- "[[G2068]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1519]]"
+- "[[G2917]]"
+- "[[G4905]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G5613]]"
+- "[[G0302]]"
+- "[[G2064]]"
+- "[[G1299]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 11:34**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come.
 <small><sub>**BSB:**</sub></small>
 If anyone is hungry, he should eat at home, so that when you come together it will not result in judgment. And when I come, I will give instructions about the remaining matters.
-<small><sub>**Literal:**</sub></small>
-If now anyone is hungry, at home he should eat, so that not for judgment you may come together. <the> And the other things as soon as when I may come I will set in order.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.33|<< 1 Corinthians 11:33]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.1|1 Corinthians 12:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G3983\|πεινᾷ,]]  [[G1722\|ἐν]]  [[G3624G\|οἴκῳ]]  [[G2068\|ἐσθιέτω,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1519\|εἰς]]  [[G2917\|κρίμα]]  [[G4905\|συνέρχησθε.]]  [[G3588\|τὰ]]  [[G1161\|δὲ]]  [[G3062\|λοιπὰ]]  [[G5613\|ὡς]]  [[G0302\|ἂν]]  [[G2064\|ἔλθω]]  [[G1299\|διατάξομαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.33|<< 1 Corinthians 11:33]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.1|1 Corinthians 12:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

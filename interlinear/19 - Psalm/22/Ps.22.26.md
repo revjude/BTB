@@ -1,8 +1,64 @@
+---
+title: Psalm 22:26
+type: Verse
+kjv: "The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever."
+bsb: "The poor will eat and be satisfied; those who seek the LORD will praise Him. May your hearts live forever!"
+hebrew: "יֹאכְל֬וּ עֲנָוִ֨ים׀ וְיִשְׂבָּ֗עוּ יְהַֽלְל֣וּ יְ֭הוָה דֹּ֣רְשָׁ֑יו יְחִ֖י לְבַבְכֶ֣ם לָעַֽד׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H0398]]"
+- "[[H6035]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H7646]]"
+- "[[H1984B]]"
+- "[[H3068G]]"
+- "[[H1875]]"
+- "[[H9033]]"
+- "[[H2421]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:26**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The meek shall eat and be satisfied: they shall praise the LORD that seek him: your heart shall live for ever.
 <small><sub>**BSB:**</sub></small>
 The poor will eat and be satisfied; those who seek the LORD will praise Him. May your hearts live forever!
+<small><sub>**Hebrew:**</sub></small>
+[[H0398\|יֹאכְל֬וּ]] [[H6035\|עֲנָוִ֨ים]][[H9015\|׀]] [[H9002\|וְ]][[H7646\|יִשְׂבָּ֗עוּ]] [[H1984B\|יְהַֽלְל֣וּ]] [[H3068G\|יְ֭הוָה]] [[H1875\|דֹּ֣רְשָׁ֑י]][[H9033\|ו]] [[H2421\|יְחִ֖י]] [[H3824\|לְבַבְ]][[H9026\|כֶ֣ם]] [[H9005\|לָ]][[H5703\|עַֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic HEART|HEART]] • [[topic HUMILITY|HUMILITY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PENITENT|PENITENT]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.25|<< Psalms 22:25]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.27|Psalms 22:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

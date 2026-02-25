@@ -1,8 +1,65 @@
+---
+title: Ezekiel 10:22
+type: Verse
+kjv: "And the likeness of their faces was the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward."
+bsb: "Their faces looked like the faces I had seen by the River Kebar. Each creature went straight ahead."
+hebrew: "וּדְמ֣וּת פְּנֵיהֶ֔ם הֵ֣מָּה הַפָּנִ֗ים אֲשֶׁ֤ר רָאִ֙יתִי֙ עַל־ נְהַר־ כְּבָ֔ר מַרְאֵיהֶ֖ם וְאוֹתָ֑ם אִ֛ישׁ אֶל־ עֵ֥בֶר פָּנָ֖יו יֵלֵֽכוּ׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHEBAR|CHEBAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1823]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H1992]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5104H]]"
+- "[[H3529]]"
+- "[[H4758]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H5676H]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:22**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the likeness of their faces [was] the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward.
 <small><sub>**BSB:**</sub></small>
 Their faces looked like the faces I had seen by the River Kebar. Each creature went straight ahead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1823\|דְמ֣וּת]] [[H6440H\|פְּנֵי]][[H9028\|הֶ֔ם]] [[H1992\|הֵ֣מָּה]] [[H9009\|הַ]][[H6440H\|פָּנִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H7200G\|רָאִ֙יתִי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5104H\|נְהַר]][[H9014\|־]] [[H3529\|כְּבָ֔ר]] [[H4758\|מַרְאֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H0376I\|אִ֛ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H5676H\|עֵ֥בֶר]] [[H6440G\|פָּנָ֖י]][[H9023\|ו]] [[H1980G\|יֵלֵֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEBAR|CHEBAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.21|<< Ezekiel 10:21]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.1|Ezekiel 11:1 >>]]</td></tr></table>
 

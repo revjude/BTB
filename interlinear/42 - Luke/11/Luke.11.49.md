@@ -1,10 +1,68 @@
+---
+title: Luke 11:49
+type: Verse
+kjv: "Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:"
+bsb: "Because of this, the wisdom of God said, ‘I will send them prophets and apostles; some of them they will kill and others they will persecute.’"
+jesus_said: "Therefore also said the wisdom of God, I will send them prophets and apostles, and some of them they shall slay and persecute:"
+greek: "διὰ τοῦτο καὶ ἡ σοφία τοῦ θεοῦ εἶπεν· ἀποστελῶ εἰς αὐτοὺς προφήτας καὶ ἀποστόλους. καὶ ἐξ αὐτῶν ἀποκτενοῦσιν καὶ διώξουσιν"
+pericope: "[[Luke.11.37 Woes to Pharisees and Experts in the Law|Woes to Pharisees and Experts in the Law]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4678]]"
+- "[[G2316]]"
+- "[[G2036]]"
+- "[[G0649]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G4396]]"
+- "[[G0652]]"
+- "[[G1537]]"
+- "[[G0615]]"
+- "[[G1377]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 11:49**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore also said the wisdom of God, I will send them prophets and apostles, and [some] of them they shall slay and persecute:
 <small><sub>**BSB:**</sub></small>
 Because of this, the wisdom of God said, ‘I will send them prophets and apostles; some of them they will kill and others they will persecute.’
-<small><sub>**Literal:**</sub></small>
-Because of this also the Wisdom <the> of God said; I will send to them prophets and apostles. and [some] of them they will kill and will pursue<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.48|<< Luke 11:48]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.50|Luke 11:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4678\|σοφία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2036\|εἶπεν·]]  [[G0649\|ἀποστελῶ]]  [[G1519\|εἰς]]  [[G0846\|αὐτοὺς]]  [[G4396\|προφήτας]]  [[G2532\|καὶ]]  [[G0652\|ἀποστόλους.]]  [[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G0615\|ἀποκτενοῦσιν]]  [[G2532\|καὶ]]  [[G1377\|διώξουσιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LAWYER|LAWYER]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SATIRE|SATIRE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.48|<< Luke 11:48]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.50|Luke 11:50 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 11:49** is...
 > $\quad$ referencing: [[LXX.Ps.44.22|Ps 44:22]]

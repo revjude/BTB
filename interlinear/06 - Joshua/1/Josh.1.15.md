@@ -1,8 +1,73 @@
+---
+title: Joshua 1:15
+type: Verse
+kjv: "Until the LORD have given your brethren rest, as he hath given you, and they also have possessed the land which the LORD your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the LORD’S servant gave you on this side Jordan toward the sunrising."
+bsb: "until the LORD gives them rest as He has done for you, and your brothers also possess the land that the LORD your God is giving them. Then you may return to the land of your inheritance and take possession of that which Moses the servant of the LORD gave you on the east side of the Jordan.”"
+hebrew: "עַ֠ד אֲשֶׁר־ יָנִ֨יחַ יְהוָ֥ה׀ לַֽאֲחֵיכֶם֮ כָּכֶם֒ וְיָרְשׁ֣וּ גַם־ הֵ֔מָּה אֶת־ הָאָ֕רֶץ אֲשֶׁר־ יְהוָ֥ה אֱלֹֽהֵיכֶ֖ם נֹתֵ֣ן לָהֶ֑ם וְשַׁבְתֶּ֞ם לְאֶ֤רֶץ יְרֻשַּׁתְכֶם֙ וִֽירִשְׁתֶּ֣ם אוֹתָ֔הּ אֲשֶׁ֣ר׀ נָתַ֣ן לָכֶ֗ם מֹשֶׁה֙ עֶ֣בֶד יְהוָ֔ה בְּעֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרַ֥ח הַשָּֽׁמֶשׁ׃"
+pericope: "[[Josh.1.10 Joshua Takes Charge|Joshua Takes Charge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0251I]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H1571]]"
+- "[[H1992]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H7725G]]"
+- "[[H3425]]"
+- "[[H9034]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9003]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H4217H]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:15**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until the LORD have given your brethren rest, as [he hath given] you, and they also have possessed the land which the LORD your God giveth them: then ye shall return unto the land of your possession, and enjoy it, which Moses the LORD’S servant gave you on this side Jordan toward the sunrising.
 <small><sub>**BSB:**</sub></small>
 until the LORD gives them rest as He has done for you, and your brothers also possess the land that the LORD your God is giving them. Then you may return to the land of your inheritance and take possession of that which Moses the servant of the LORD gave you on the east side of the Jordan.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַ֠ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5117\|יָנִ֨יחַ]] [[H3068G\|יְהוָ֥ה]][[H9015\|׀]] [[H9005\|לַֽ]][[H0251I\|אֲחֵי]][[H9026\|כֶם֮]] [[H9004\|כָּ]][[H9036\|כֶם֒]] [[H9001\|וְ]][[H3423H\|יָרְשׁ֣וּ]] [[H1571\|גַם]][[H9014\|־]] [[H1992\|הֵ֔מָּה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֖ם]] [[H5414G\|נֹתֵ֣ן]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9001\|וְ]][[H7725G\|שַׁבְתֶּ֞ם]] [[H9005\|לְ]][[H0776G\|אֶ֤רֶץ]] [[H3425\|יְרֻשַּׁתְ]][[H9026\|כֶם֙]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתֶּ֣ם]] [[H0853\|אוֹתָ֔]][[H9034\|הּ]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H5414G\|נָתַ֣ן]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H4872\|מֹשֶׁה֙]] [[H5650\|עֶ֣בֶד]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H5676H\|עֵ֥בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H4217H\|מִזְרַ֥ח]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.14|<< Joshua 1:14]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.16|Joshua 1:16 >>]]</td></tr></table>
 

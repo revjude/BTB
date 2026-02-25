@@ -1,8 +1,58 @@
+---
+title: Numbers 28:10
+type: Verse
+kjv: "This is the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering."
+bsb: "This is the burnt offering for every Sabbath, in addition to the regular burnt offering and its drink offering."
+hebrew: "עֹלַ֥ת שַׁבַּ֖ת בְּשַׁבַּתּ֑וֹ עַל־ עֹלַ֥ת הַתָּמִ֖יד וְנִסְכָּֽהּ׃ ס"
+pericope: "[[Num.28.9 The Sabbath Offerings|The Sabbath Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H5930A]]"
+- "[[H7676]]"
+- "[[H9003]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8548]]"
+- "[[H9002]]"
+- "[[H5262]]"
+- "[[H9024]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 28:10**<big><big>[[Num.28.9 The Sabbath Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [This is] the burnt offering of every sabbath, beside the continual burnt offering, and his drink offering.
 <small><sub>**BSB:**</sub></small>
 This is the burnt offering for every Sabbath, in addition to the regular burnt offering and its drink offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H5930A\|עֹלַ֥ת]] [[H7676\|שַׁבַּ֖ת]] [[H9003\|בְּ]][[H7676\|שַׁבַּתּ֑]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H5930A\|עֹלַ֥ת]] [[H9009\|הַ]][[H8548\|תָּמִ֖יד]] [[H9002\|וְ]][[H5262\|נִסְכָּֽ]][[H9024\|הּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.9|<< Numbers 28:9]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.11|Numbers 28:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -18,7 +68,7 @@ This is the burnt offering for every Sabbath, in addition to the regular burnt o
 | [is] to  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] burnt offering of  |**<big>&#8207;[[H5930A\|עֹלַ֥ת]]&#8207; </big>**| 'o.Lat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> continuity  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8548\|תָּמִ֖יד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ta.Mid<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and drink offering its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5262\|נִסְכָּֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nis.Ka<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and drink offering its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5262\|נִסְכָּֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> nis.Ka<small><sup>[[HNcmsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.9|<< Numbers 28:9]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.11|Numbers 28:11 >>]]</td></tr></table>
 
 

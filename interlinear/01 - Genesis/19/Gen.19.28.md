@@ -1,8 +1,64 @@
+---
+title: Genesis 19:28
+type: Verse
+kjv: "And he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace."
+bsb: "He looked down toward Sodom and Gomorrah and all the land of the plain, and he saw the smoke rising from the land like smoke from a furnace."
+hebrew: "וַיַּשְׁקֵ֗ף עַל־ פְּנֵ֤י סְדֹם֙ וַעֲמֹרָ֔ה וְעַֽל־ כָּל־ פְּנֵ֖י אֶ֣רֶץ הַכִּכָּ֑ר וַיַּ֗רְא וְהִנֵּ֤ה עָלָה֙ קִיטֹ֣ר הָאָ֔רֶץ כְּקִיטֹ֖ר הַכִּבְשָֽׁן׃"
+pericope: "[[Gen.19.24 The Destruction of Sodom and Gomorrah|The Destruction of Sodom and Gomorrah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H8259]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H5467]]"
+- "[[H9002]]"
+- "[[H6017]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H3603H]]"
+- "[[H7200G]]"
+- "[[H2009]]"
+- "[[H5927G]]"
+- "[[H7008]]"
+- "[[H9004]]"
+- "[[H3536]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:28**<big><big>[[Gen.19.24 The Destruction of Sodom and Gomorrah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace.
 <small><sub>**BSB:**</sub></small>
 He looked down toward Sodom and Gomorrah and all the land of the plain, and he saw the smoke rising from the land like smoke from a furnace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8259\|יַּשְׁקֵ֗ף]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֤י]] [[H5467\|סְדֹם֙]] [[H9002\|וַ]][[H6017\|עֲמֹרָ֔ה]] [[H9002\|וְ]][[H5921A\|עַֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6440G\|פְּנֵ֖י]] [[H0776G\|אֶ֣רֶץ]] [[H9009\|הַ]][[H3603H\|כִּכָּ֑ר]] [[H9001\|וַ]][[H7200G\|יַּ֗רְא]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H5927G\|עָלָה֙]] [[H7008\|קִיטֹ֣ר]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9004\|כְּ]][[H7008\|קִיטֹ֖ר]] [[H9009\|הַ]][[H3536\|כִּבְשָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic GOMORRAH|GOMORRAH]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.27|<< Genesis 19:27]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.29|Genesis 19:29 >>]]</td></tr></table>
 

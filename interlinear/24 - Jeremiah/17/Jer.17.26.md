@@ -1,8 +1,70 @@
+---
+title: Jeremiah 17:26
+type: Verse
+kjv: "And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD."
+bsb: "And people will come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, and from the foothills, the hill country, and the Negev, bringing burnt offerings and sacrifices, grain offerings and frankincense, and thank offerings to the house of the LORD."
+hebrew: "וּבָ֣אוּ מֵעָרֵֽי־ יְ֠הוּדָה וּמִסְּבִיב֨וֹת יְרוּשָׁלִַ֜ם וּמֵאֶ֣רֶץ בִּנְיָמִ֗ן וּמִן־ הַשְּׁפֵלָ֤ה וּמִן־ הָהָר֙ וּמִן־ הַנֶּ֔גֶב מְבִאִ֛ים עוֹלָ֥ה וְזֶ֖בַח וּמִנְחָ֣ה וּלְבוֹנָ֑ה וּמְבִאֵ֥י תוֹדָ֖ה בֵּ֥ית יְהוָֽה׃"
+pericope: "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H5439G]]"
+- "[[H3389]]"
+- "[[H0776G]]"
+- "[[H1144G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H8219]]"
+- "[[H2022H]]"
+- "[[H5045G]]"
+- "[[H0935P]]"
+- "[[H5930A]]"
+- "[[H2077]]"
+- "[[H4503G]]"
+- "[[H3828]]"
+- "[[H8426]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:26**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 And people will come from the cities of Judah and the places around Jerusalem, from the land of Benjamin, and from the foothills, the hill country, and the Negev, bringing burnt offerings and sacrifices, grain offerings and frankincense, and thank offerings to the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֣אוּ]] [[H9006\|מֵ]][[H5892B\|עָרֵֽי]][[H9014\|־]] [[H3063G\|יְ֠הוּדָה]] [[H9002\|וּ]][[H9006\|מִ]][[H5439G\|סְּבִיב֨וֹת]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H9002\|וּ]][[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H1144G\|בִּנְיָמִ֗ן]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8219\|שְּׁפֵלָ֤ה]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H2022H\|הָר֙]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5045G\|נֶּ֔גֶב]] [[H0935P\|מְבִאִ֛ים]] [[H5930A\|עוֹלָ֥ה]] [[H9002\|וְ]][[H2077\|זֶ֖בַח]] [[H9002\|וּ]][[H4503G\|מִנְחָ֣ה]] [[H9002\|וּ]][[H3828\|לְבוֹנָ֑ה]] [[H9002\|וּ]][[H0935P\|מְבִאֵ֥י]] [[H8426\|תוֹדָ֖ה]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic REWARD|REWARD]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.25|<< Jeremiah 17:25]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.27|Jeremiah 17:27 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Job 6:24
+type: Verse
+kjv: "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred."
+bsb: "Teach me, and I will be silent. Help me understand how I have erred."
+hebrew: "ה֭וֹרוּנִי וַאֲנִ֣י אַחֲרִ֑ישׁ וּמַה־ שָּׁ֝גִ֗יתִי הָבִ֥ינוּ לִֽי׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3384B]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2790B]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H7686]]"
+- "[[H0995]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:24**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.
 <small><sub>**BSB:**</sub></small>
 Teach me, and I will be silent. Help me understand how I have erred.
+<small><sub>**Hebrew:**</sub></small>
+[[H3384B\|ה֭וֹרוּ]][[H9030\|נִי]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H2790B\|אַחֲרִ֑ישׁ]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H7686\|שָּׁ֝גִ֗יתִי]] [[H0995\|הָבִ֥ינוּ]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.23|<< Job 6:23]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.25|Job 6:25 >>]]</td></tr></table>
 

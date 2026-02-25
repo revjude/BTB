@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Truth Will Set You Free
+type: Pericope
 pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: John
 chapter: 8
 book/chapter: "[[John.8|John 8]]"
-genre:
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 18
 verses:
 - "[[John.8.30]]"
 - "[[John.8.31]]"
@@ -36,7 +43,7 @@ verses:
 - "[[John.8.47]]"
 ---
 
-[[John.8|John 8:30 - John 8:47]]
+<small>[[John.8|John 8:30-47]]</small>
 *The Truth Will Set You Free*
 
 [[John.8.30|30]] As he spake these words, many believed on him.

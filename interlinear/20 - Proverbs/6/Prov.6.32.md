@@ -1,8 +1,54 @@
+---
+title: Proverbs 6:32
+type: Verse
+kjv: "But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul."
+bsb: "He who commits adultery lacks judgment; whoever does so destroys himself."
+hebrew: "נֹאֵ֣ף אִשָּׁ֣ה חֲסַר־ לֵ֑ב מַֽשְׁחִ֥ית נַ֝פְשׁ֗וֹ ה֣וּא יַעֲשֶֽׂנָּה׃"
+pericope: "[[Prov.6.20 Warnings against Adultery|Warnings against Adultery]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H5003]]"
+- "[[H0802G]]"
+- "[[H2638]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H7843]]"
+- "[[H5315I]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H6213A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:32**<big><big>[[Prov.6.20 Warnings against Adultery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] whoso committeth adultery with a woman lacketh understanding: he [that] doeth it destroyeth his own soul.
 <small><sub>**BSB:**</sub></small>
 He who commits adultery lacks judgment; whoever does so destroys himself.
+<small><sub>**Hebrew:**</sub></small>
+[[H5003\|נֹאֵ֣ף]] [[H0802G\|אִשָּׁ֣ה]] [[H2638\|חֲסַר]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H7843\|מַֽשְׁחִ֥ית]] [[H5315I\|נַ֝פְשׁ֗]][[H9023\|וֹ]] [[H1931\|ה֣וּא]] [[H6213A\|יַעֲשֶֽׂ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.31|<< Proverbs 6:31]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.33|Proverbs 6:33 >>]]</td></tr></table>
 

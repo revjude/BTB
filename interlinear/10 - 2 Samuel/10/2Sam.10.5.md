@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 10:5
+type: Verse
+kjv: "When they told it unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Tarry at Jericho until your beards be grown, and then return."
+bsb: "When this was reported to David, he sent messengers to meet the men, since they had been thoroughly humiliated. The king told them, “Stay in Jericho until your beards have grown back, and then return.”"
+hebrew: "וַיַּגִּ֤דוּ לְדָוִד֙ וַיִּשְׁלַ֣ח לִקְרָאתָ֔ם כִּֽי־ הָי֥וּ הָאֲנָשִׁ֖ים נִכְלָמִ֣ים מְאֹ֑ד וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ שְׁב֣וּ בִֽירֵח֔וֹ עַד־ יְצַמַּ֥ח זְקַנְכֶ֖ם וְשַׁבְתֶּֽם׃"
+pericope: "[[2Sam.10.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic MORTIFICATION|MORTIFICATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H7971G]]"
+- "[[H7122G]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H3637]]"
+- "[[H3966]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H3405G]]"
+- "[[H5704]]"
+- "[[H6779]]"
+- "[[H2206]]"
+- "[[H9026]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:5**<big><big>[[2Sam.10.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they told [it] unto David, he sent to meet them, because the men were greatly ashamed: and the king said, Tarry at Jericho until your beards be grown, and [then] return.
 <small><sub>**BSB:**</sub></small>
 When this was reported to David, he sent messengers to meet the men, since they had been thoroughly humiliated. The king told them, “Stay in Jericho until your beards have grown back, and then return.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגִּ֤דוּ]] [[H9005\|לְ]][[H1732\|דָוִד֙]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H9005\|לִ]][[H7122G\|קְרָאתָ֔]][[H9038\|ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָי֥וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H3637\|נִכְלָמִ֣ים]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H3427\|שְׁב֣וּ]] [[H9003\|בִֽ]][[H3405G\|ירֵח֔וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H6779\|יְצַמַּ֥ח]] [[H2206\|זְקַנְ]][[H9026\|כֶ֖ם]] [[H9001\|וְ]][[H7725G\|שַׁבְתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MORTIFICATION|MORTIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.4|<< 2 Samuel 10:4]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.6|2 Samuel 10:6 >>]]</td></tr></table>
 

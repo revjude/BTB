@@ -1,10 +1,65 @@
+---
+title: Revelation 16:10
+type: Verse
+kjv: "And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,"
+bsb: "And the fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness, and men began to gnaw their tongues in anguish"
+greek: "Καὶ ὁ πέμπτος ἄγγελος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν θρόνον τοῦ θηρίου, καὶ ἐγένετο ἡ βασιλεία αὐτοῦ ἐσκοτωμένη, καὶ ἐμασῶντο τὰς γλώσσας αὐτῶν ἐκ τοῦ πόνου"
+pericope: "[[Rev.16.1 The First Six Bowls of Wrath|The First Six Bowls of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic PAIN|PAIN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3991]]"
+- "[[G0032G]]"
+- "[[G1632]]"
+- "[[G5357]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G2362]]"
+- "[[G2342]]"
+- "[[G1096]]"
+- "[[G0932]]"
+- "[[G4656]]"
+- "[[G3145]]"
+- "[[G1100]]"
+- "[[G1537]]"
+- "[[G4192]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 16:10**<big><big>[[Rev.16.1 The First Six Bowls of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,
 <small><sub>**BSB:**</sub></small>
 And the fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness, and men began to gnaw their tongues in anguish
-<small><sub>**Literal:**</sub></small>
-And the fifth angel poured out the bowl of him upon the throne of the beast, and became the kingdom of it darkened, and they were gnawing the tongues of them for the distress<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.9|<< Revelation 16:9]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.11|Revelation 16:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|ὁ]]  [[G3991\|πέμπτος]]  [[G0032G\|ἄγγελος]]  [[G1632\|ἐξέχεεν]]  [[G3588\|τὴν]]  [[G5357\|φιάλην]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2362\|θρόνον]]  [[G3588\|τοῦ]]  [[G2342\|θηρίου,]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G0846\|αὐτοῦ]]  [[G4656\|ἐσκοτωμένη,]]  [[G2532\|καὶ]]  [[G3145\|ἐμασῶντο]]  [[G3588\|τὰς]]  [[G1100\|γλώσσας]]  [[G0846\|αὐτῶν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4192\|πόνου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic COLORS|COLORS]] • [[topic DARKNESS|DARKNESS]] • [[topic PAIN|PAIN]] • [[topic TEMPLE|TEMPLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.9|<< Revelation 16:9]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.11|Revelation 16:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 16:10** is...
 > $\quad$ possibly alluding to: [[LXX.Exod.10.22|Exod 10:22]]

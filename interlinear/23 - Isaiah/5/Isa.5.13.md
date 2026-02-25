@@ -1,8 +1,64 @@
+---
+title: Isaiah 5:13
+type: Verse
+kjv: "Therefore my people are gone into captivity, because they have no knowledge: and their honourable men are famished, and their multitude dried up with thirst."
+bsb: "Therefore My people will go into exile for their lack of understanding; their dignitaries are starving and their masses are parched with thirst."
+hebrew: "לָכֵ֛ן גָּלָ֥ה עַמִּ֖י מִבְּלִי־ דָ֑עַת וּכְבוֹדוֹ֙ מְתֵ֣י רָעָ֔ב וַהֲמוֹנ֖וֹ צִחֵ֥ה צָמָֽא׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H1540K]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H1097]]"
+- "[[H9014]]"
+- "[[H1847]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H9023]]"
+- "[[H4962]]"
+- "[[H7458]]"
+- "[[H1995A]]"
+- "[[H6704]]"
+- "[[H6772]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:13**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore my people are gone into captivity, because [they have] no knowledge: and their honourable men [are] famished, and their multitude dried up with thirst.
 <small><sub>**BSB:**</sub></small>
 Therefore My people will go into exile for their lack of understanding; their dignitaries are starving and their masses are parched with thirst.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֛ן]] [[H1540K\|גָּלָ֥ה]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9006\|מִ]][[H1097\|בְּלִי]][[H9014\|־]] [[H1847\|דָ֑עַת]] [[H9002\|וּ]][[H3519\|כְבוֹד]][[H9023\|וֹ֙]] [[H4962\|מְתֵ֣י]] [[H7458\|רָעָ֔ב]] [[H9002\|וַ]][[H1995A\|הֲמוֹנ֖]][[H9023\|וֹ]] [[H6704\|צִחֵ֥ה]] [[H6772\|צָמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic FAMINE|FAMINE]] • [[topic ISAIAH|ISAIAH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.12|<< Isaiah 5:12]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.14|Isaiah 5:14 >>]]</td></tr></table>
 

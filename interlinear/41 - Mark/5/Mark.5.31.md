@@ -1,10 +1,54 @@
+---
+title: Mark 5:31
+type: Verse
+kjv: "And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?"
+bsb: "His disciples answered, “You can see the crowd pressing in on You, and yet You ask, ‘Who touched Me?’”"
+greek: "Καὶ ἔλεγον αὐτῷ οἱ μαθηταὶ αὐτοῦ· βλέπεις τὸν ὄχλον συνθλίβοντά σε καὶ λέγεις· τίς μου ἥψατο;"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0991]]"
+- "[[G3793]]"
+- "[[G4918]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G0681]]"
+texts:
+- NKO
+---
+
 **Mark 5:31**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his disciples said unto him, Thou seest the multitude thronging thee, and sayest thou, Who touched me?
 <small><sub>**BSB:**</sub></small>
 His disciples answered, “You can see the crowd pressing in on You, and yet You ask, ‘Who touched Me?’”
-<small><sub>**Literal:**</sub></small>
-And were saying to Him the disciples of Him; You see the crowd pressing in on You and You say Who Me touched?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.30|<< Mark 5:30]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.32|Mark 5:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3004G\|ἔλεγον]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ·]]  [[G0991\|βλέπεις]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G4918\|συνθλίβοντά]]  [[G4771\|σε]]  [[G2532\|καὶ]]  [[G3004G\|λέγεις·]]  [[G5101\|τίς]]  [[G3165\|μου]]  [[G0681\|ἥψατο;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.30|<< Mark 5:30]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.32|Mark 5:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 6:3
+type: Verse
+kjv: "Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey."
+bsb: "Hear, O Israel, and be careful to observe them, so that you may prosper and multiply greatly in a land flowing with milk and honey, just as the LORD, the God of your fathers, has promised you."
+hebrew: "וְשָׁמַעְתָּ֤ יִשְׂרָאֵל֙ וְשָׁמַרְתָּ֣ לַעֲשׂ֔וֹת אֲשֶׁר֙ יִיטַ֣ב לְךָ֔ וַאֲשֶׁ֥ר תִּרְבּ֖וּן מְאֹ֑ד כַּאֲשֶׁר֩ דִּבֶּ֨ר יְהוָ֜ה אֱלֹהֵ֤י אֲבֹתֶ֙יךָ֙ לָ֔ךְ אֶ֛רֶץ זָבַ֥ת חָלָ֖ב וּדְבָֽשׁ׃ פ"
+pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FRONTLETS|FRONTLETS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3478]]"
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0834A]]"
+- "[[H3190]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H7235A]]"
+- "[[H9013]]"
+- "[[H3966]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H0776G]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H1706]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:3**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear therefore, O Israel, and observe to do [it]; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey.
 <small><sub>**BSB:**</sub></small>
 Hear, O Israel, and be careful to observe them, so that you may prosper and multiply greatly in a land flowing with milk and honey, just as the LORD, the God of your fathers, has promised you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8085G\|שָׁמַעְתָּ֤]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וְ]][[H8104J\|שָׁמַרְתָּ֣]] [[H9005\|לַ]][[H6213A\|עֲשׂ֔וֹת]] [[H0834A\|אֲשֶׁר֙]] [[H3190\|יִיטַ֣ב]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H7235A\|תִּרְבּ֖וּ]][[H9013\|ן]] [[H3966\|מְאֹ֑ד]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H1696I\|דִּבֶּ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H0001G\|אֲבֹתֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לָ֔]][[H9031\|ךְ]] [[H0776G\|אֶ֛רֶץ]] [[H2100G\|זָבַ֥ת]] [[H2461\|חָלָ֖ב]] [[H9002\|וּ]][[H1706\|דְבָֽשׁ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FRONTLETS|FRONTLETS]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.2|<< Deuteronomy 6:2]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.4|Deuteronomy 6:4 >>]]</td></tr></table>
 
@@ -27,7 +94,7 @@ Hear, O Israel, and be careful to observe them, so that you may prosper and mult
 | a land  |**<big>&#8207;[[H0776G\|אֶ֛רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | flowing of  |**<big>&#8207;[[H2100G\|זָבַ֥ת]]&#8207; </big>**| za.Vat<small><sup>[[HVqrfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | milk  |**<big>&#8207;[[H2461\|חָלָ֖ב]]&#8207; </big>**| cha.Lav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and honey  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1706\|דְבָֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and honey  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1706\|דְבָֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> de.Vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.2|<< Deuteronomy 6:2]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.4|Deuteronomy 6:4 >>]]</td></tr></table>
 
 

@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 30:8
+type: Verse
+kjv: "And thou shalt return and obey the voice of the LORD, and do all his commandments which I command thee this day."
+bsb: "And you will again obey the voice of the LORD and follow all His commandments I am giving you today."
+hebrew: "וְאַתָּ֣ה תָשׁ֔וּב וְשָׁמַעְתָּ֖ בְּק֣וֹל יְהוָ֑ה וְעָשִׂ֙יתָ֙ אֶת־ כָּל־ מִצְוֹתָ֔יו אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃"
+pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H7725J]]"
+- "[[H9001]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:8**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt return and obey the voice of the LORD, and do all his commandments which I command thee this day.
 <small><sub>**BSB:**</sub></small>
 And you will again obey the voice of the LORD and follow all His commandments I am giving you today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H7725J\|תָשׁ֔וּב]] [[H9001\|וְ]][[H8085H\|שָׁמַעְתָּ֖]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H6213A\|עָשִׂ֙יתָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹתָ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֛ר]] [[H0595\|אָנֹכִ֥י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֖]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.7|<< Deuteronomy 30:7]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.9|Deuteronomy 30:9 >>]]</td></tr></table>
 

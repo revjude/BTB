@@ -1,8 +1,67 @@
+---
+title: Numbers 3:50
+type: Verse
+kjv: "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary:"
+bsb: "He collected the money from the firstborn of the Israelites: 1,365 shekels, according to the sanctuary shekel."
+hebrew: "מֵאֵ֗ת בְּכ֛וֹר בְּנֵ֥י יִשְׂרָאֵ֖ל לָקַ֣ח אֶת־ הַכָּ֑סֶף חֲמִשָּׁ֨ה וְשִׁשִּׁ֜ים וּשְׁלֹ֥שׁ מֵא֛וֹת וָאֶ֖לֶף בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃"
+pericope: "[[Num.3.40 The Redemption of the Firstborn|The Redemption of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+strongs:
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H1060]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H2568]]"
+- "[[H9002]]"
+- "[[H8346]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H9003]]"
+- "[[H8255]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:50**<big><big>[[Num.3.40 The Redemption of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five [shekels], after the shekel of the sanctuary:
 <small><sub>**BSB:**</sub></small>
 He collected the money from the firstborn of the Israelites: 1,365 shekels, according to the sanctuary shekel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H0854\|אֵ֗ת]] [[H1060\|בְּכ֛וֹר]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3947G\|לָקַ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כָּ֑סֶף]] [[H2568\|חֲמִשָּׁ֨ה]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֜ים]] [[H9002\|וּ]][[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֛וֹת]] [[H9002\|וָ]][[H0505G\|אֶ֖לֶף]] [[H9003\|בְּ]][[H8255\|שֶׁ֥קֶל]] [[H9009\|הַ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic MONEY|MONEY]] • [[topic PRIEST|PRIEST]] • [[topic REDEMPTION|REDEMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.49|<< Numbers 3:49]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.51|Numbers 3:51 >>]]</td></tr></table>
 

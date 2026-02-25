@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elijah Raises the Widow’s Son
+type: Pericope
 pericope: "[[1Kgs.17.17 Elijah Raises the Widow’s Son|Elijah Raises the Widow’s Son]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 17
 book/chapter: "[[1Kgs.17|1 Kings 17]]"
-genre:
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.17.17]]"
 - "[[1Kgs.17.18]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.17.24]]"
 ---
 
-[[1Kgs.17|1 Kings 17:17 - 1 Kings 17:24]]
+<small>[[1Kgs.17|1 Kings 17:17-24]]</small>
 *Elijah Raises the Widow’s Son*
 
 [[1Kgs.17.17|17]] And it came to pass after these things, \[that\] the son of the woman, the mistress of the house, fell sick; and his sickness was so sore, that there was no breath left in him.

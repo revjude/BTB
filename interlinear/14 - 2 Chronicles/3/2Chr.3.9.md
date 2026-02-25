@@ -1,8 +1,52 @@
+---
+title: 2 Chronicles 3:9
+type: Verse
+kjv: "And the weight of the nails was fifty shekels of gold. And he overlaid the upper chambers with gold."
+bsb: "The weight of the nails was fifty shekels of gold. He also overlaid the upper rooms with gold."
+hebrew: "וּמִשְׁקָ֛ל לְמִסְמְר֥וֹת לִשְׁקָלִ֖ים חֲמִשִּׁ֣ים זָהָ֑ב וְהָעֲלִיּ֖וֹת חִפָּ֥ה זָהָֽב׃"
+pericope: "[[2Chr.3.5 The Temple’s Interior|The Temple’s Interior]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic NAIL|NAIL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4948]]"
+- "[[H9005]]"
+- "[[H4548]]"
+- "[[H8255]]"
+- "[[H2572]]"
+- "[[H2091]]"
+- "[[H9009]]"
+- "[[H5944]]"
+- "[[H2645]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 3:9**<big><big>[[2Chr.3.5 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the weight of the nails [was] fifty shekels of gold. And he overlaid the upper chambers with gold.
 <small><sub>**BSB:**</sub></small>
 The weight of the nails was fifty shekels of gold. He also overlaid the upper rooms with gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4948\|מִשְׁקָ֛ל]] [[H9005\|לְ]][[H4548\|מִסְמְר֥וֹת]] [[H9005\|לִ]][[H8255\|שְׁקָלִ֖ים]] [[H2572\|חֲמִשִּׁ֣ים]] [[H2091\|זָהָ֑ב]] [[H9002\|וְ]][[H9009\|הָ]][[H5944\|עֲלִיּ֖וֹת]] [[H2645\|חִפָּ֥ה]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NAIL|NAIL]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.8|<< 2 Chronicles 3:8]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.10|2 Chronicles 3:10 >>]]</td></tr></table>
 

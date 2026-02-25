@@ -1,8 +1,68 @@
+---
+title: Judges 13:20
+type: Verse
+kjv: "For it came to pass, when the flame went up toward heaven from off the altar, that the angel of the LORD ascended in the flame of the altar. And Manoah and his wife looked on it, and fell on their faces to the ground."
+bsb: "When the flame went up from the altar to the sky, the angel of the LORD ascended in the flame. When Manoah and his wife saw this, they fell facedown to the ground."
+hebrew: "וַיְהִי֩ בַעֲל֨וֹת הַלַּ֜הַב מֵעַ֤ל הַמִּזְבֵּ֙חַ֙ הַשָּׁמַ֔יְמָה וַיַּ֥עַל מַלְאַךְ־ יְהוָ֖ה בְּלַ֣הַב הַמִּזְבֵּ֑חַ וּמָנ֤וֹחַ וְאִשְׁתּוֹ֙ רֹאִ֔ים וַיִּפְּל֥וּ עַל־ פְּנֵיהֶ֖ם אָֽרְצָה׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H3851]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H8064]]"
+- "[[H9011]]"
+- "[[H4397H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H4495]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H5307G]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:20**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For it came to pass, when the flame went up toward heaven from off the altar, that the angel of the LORD ascended in the flame of the altar. And Manoah and his wife looked on [it], and fell on their faces to the ground.
 <small><sub>**BSB:**</sub></small>
 When the flame went up from the altar to the sky, the angel of the LORD ascended in the flame. When Manoah and his wife saw this, they fell facedown to the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9003\|בַ]][[H5927G\|עֲל֨וֹת]] [[H9009\|הַ]][[H3851\|לַּ֜הַב]] [[H9006\|מֵ]][[H5921A\|עַ֤ל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יְמָ]][[H9011\|ה]] [[H9001\|וַ]][[H5927G\|יַּ֥עַל]] [[H4397H\|מַלְאַךְ]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3851\|לַ֣הַב]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9002\|וּ]][[H4495\|מָנ֤וֹחַ]] [[H9002\|וְ]][[H0802H\|אִשְׁתּ]][[H9023\|וֹ֙]] [[H7200G\|רֹאִ֔ים]] [[H9001\|וַ]][[H5307G\|יִּפְּל֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵי]][[H9028\|הֶ֖ם]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.19|<< Judges 13:19]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.21|Judges 13:21 >>]]</td></tr></table>
 

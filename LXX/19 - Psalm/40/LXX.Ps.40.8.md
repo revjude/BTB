@@ -1,6 +1,62 @@
+---
+title: LXX Psalm 40:8
+type: Verse
+lxx: "To do  your will, O my God I wanted; and  your law is in the midst  of my belly."
+greek: "του ποιήσαι το θέλημά σου ο θεός μου ηβουλήθην και τον νόμον σου εν μέσω της κοιλίας μου"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G2307]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1014]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G2836]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 40:8** 
 <small><sub>**LXX:**</sub></small>
  To do  your will, O my God I wanted; and  your law \[is\] in \[the\] midst  of my belly. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|του]] [[G4160\|ποιήσαι]] [[G3588\|το]] [[G2307\|θέλημά]] [[G1473\|σου]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|μου]] [[G1014\|ηβουλήθην]] [[G2532\|και]] [[G3588\|τον]] [[G3551\|νόμον]] [[G1473\|σου]] [[G1722\|εν]] [[G3319\|μέσω]] [[G3588\|της]] [[G2836\|κοιλίας]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic HAPPINESS|HAPPINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OFFERINGS|OFFERINGS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.7|<< Psalm 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.9|Psalm 40:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -25,6 +81,6 @@
 | \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | of my belly. | **<big>[[G2836\|κοιλίας]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Ps.40.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.7|<< Psalm 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.9|Psalm 40:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.40.7|<< Psalm 40:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.40.9|Psalm 40:9 >>]]</td></tr></table>
 
 

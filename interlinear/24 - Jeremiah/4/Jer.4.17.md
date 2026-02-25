@@ -1,8 +1,60 @@
+---
+title: Jeremiah 4:17
+type: Verse
+kjv: "As keepers of a field, are they against her round about; because she hath been rebellious against me, saith the LORD."
+bsb: "They surround her like men guarding a field, because she has rebelled against Me,” declares the LORD."
+hebrew: "כְּשֹׁמְרֵ֣י שָׂדַ֔י הָי֥וּ עָלֶ֖יהָ מִסָּבִ֑יב כִּי־ אֹתִ֥י מָרָ֖תָה נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.4.5 Disaster from the North|Disaster from the North]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9004]]"
+- "[[H8104H]]"
+- "[[H7704M]]"
+- "[[H1961]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H5439G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H4784]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:17**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As keepers of a field, are they against her round about; because she hath been rebellious against me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 They surround her like men guarding a field, because she has rebelled against Me,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H8104H\|שֹׁמְרֵ֣י]] [[H7704M\|שָׂדַ֔י]] [[H1961\|הָי֥וּ]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H9006\|מִ]][[H5439G\|סָּבִ֑יב]] [[H3588A\|כִּי]][[H9014\|־]] [[H0853\|אֹתִ֥]][[H9030\|י]] [[H4784\|מָרָ֖תָה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.16|<< Jeremiah 4:16]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.18|Jeremiah 4:18 >>]]</td></tr></table>
 

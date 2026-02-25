@@ -1,10 +1,58 @@
+---
+title: John 3:28
+type: Verse
+kjv: "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him."
+bsb: "You yourselves can testify that I said, ‘I am not the Christ, but am sent ahead of Him.’"
+greek: "αὐτοὶ ὑμεῖς μοι μαρτυρεῖτε ὅτι εἶπον ὅτι· ἐγώ οὐκ εἰμὶ ἐγὼ ὁ χριστός, ἀλλ᾽ ὅτι ἀπεσταλμένος εἰμὶ ἔμπροσθεν ἐκείνου.¶"
+pericope: "[[John.3.22 John’s Testimony about Jesus|John’s Testimony about Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G0846]]"
+- "[[G4771]]"
+- "[[G3165]]"
+- "[[G3140]]"
+- "[[G3754G]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G0235]]"
+- "[[G3754H]]"
+- "[[G0649]]"
+- "[[G1715]]"
+- "[[G1565]]"
+texts:
+- NKO
+- n
+- o
+---
+
 **John 3:28**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.
 <small><sub>**BSB:**</sub></small>
 You yourselves can testify that I said, ‘I am not the Christ, but am sent ahead of Him.’
-<small><sub>**Literal:**</sub></small>
-Yourselves you yourselves to me bear witness that I said that: I myself Not am I myself the Christ, but for sent I am before Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.27|<< John 3:27]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.29|John 3:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτοὶ]]  [[G4771\|ὑμεῖς]]  [[G3165\|μοι]]  [[G3140\|μαρτυρεῖτε]]  [[G3754G\|ὅτι]]  [[G2036\|εἶπον]]  [[G3754G\|ὅτι·]]  [[G1473\|ἐγώ]]  [[G3756\|οὐκ]]  [[G1510\|εἰμὶ]]  [[G1473\|ἐγὼ]]  [[G3588\|ὁ]]  [[G5547\|χριστός,]]  [[G0235\|ἀλλ᾽]]  [[G3754H\|ὅτι]]  [[G0649\|ἀπεσταλμένος]]  [[G1510\|εἰμὶ]]  [[G1715\|ἔμπροσθεν]]  [[G1565\|ἐκείνου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.27|<< John 3:27]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.29|John 3:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

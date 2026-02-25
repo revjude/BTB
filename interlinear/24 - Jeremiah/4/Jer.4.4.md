@@ -1,8 +1,75 @@
+---
+title: Jeremiah 4:4
+type: Verse
+kjv: "Circumcise yourselves to the LORD, and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench it, because of the evil of your doings."
+bsb: "Circumcise yourselves to the LORD, and remove the foreskins of your hearts, O men of Judah and people of Jerusalem. Otherwise, My wrath will break out like fire and burn with no one to extinguish it, because of your evil deeds.”"
+hebrew: "הִמֹּ֣לוּ לַיהֹוָ֗ה וְהָסִ֙רוּ֙ עָרְל֣וֹת לְבַבְכֶ֔ם אִ֥ישׁ יְהוּדָ֖ה וְיֹשְׁבֵ֣י יְרוּשָׁלִָ֑ם פֶּן־ תֵּצֵ֨א כָאֵ֜שׁ חֲמָתִ֗י וּבָעֲרָה֙ וְאֵ֣ין מְכַבֶּ֔ה מִפְּנֵ֖י רֹ֥עַ מַעַלְלֵיכֶֽם׃"
+pericope: "[[Jer.4.1 A Plea to Return|A Plea to Return]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H4135A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H5493G]]"
+- "[[H6190H]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H3318L]]"
+- "[[H9004]]"
+- "[[H0784]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1197A]]"
+- "[[H0369]]"
+- "[[H3518]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H7455]]"
+- "[[H4611]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:4**<big><big>[[Jer.4.1 A Plea to Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Circumcise yourselves to the LORD, and take away the foreskins of your heart, ye men of Judah and inhabitants of Jerusalem: lest my fury come forth like fire, and burn that none can quench [it], because of the evil of your doings.
 <small><sub>**BSB:**</sub></small>
 Circumcise yourselves to the LORD, and remove the foreskins of your hearts, O men of Judah and people of Jerusalem. Otherwise, My wrath will break out like fire and burn with no one to extinguish it, because of your evil deeds.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4135A\|הִמֹּ֣לוּ]] [[H9005\|לַ]][[H3068G\|יהֹוָ֗ה]] [[H9002\|וְ]][[H5493G\|הָסִ֙רוּ֙]] [[H6190H\|עָרְל֣וֹת]] [[H3824\|לְבַבְ]][[H9026\|כֶ֔ם]] [[H0376G\|אִ֥ישׁ]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H6435\|פֶּן]][[H9014\|־]] [[H3318L\|תֵּצֵ֨א]] [[H9004\|כָ]][[H0784\|אֵ֜שׁ]] [[H2534\|חֲמָתִ֗]][[H9020\|י]] [[H9001\|וּ]][[H1197A\|בָעֲרָה֙]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H3518\|מְכַבֶּ֔ה]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H7455\|רֹ֥עַ]] [[H4611\|מַעַלְלֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.3|<< Jeremiah 4:3]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.5|Jeremiah 4:5 >>]]</td></tr></table>
 

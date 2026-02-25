@@ -1,8 +1,67 @@
+---
+title: Isaiah 5:14
+type: Verse
+kjv: "Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it."
+bsb: "Therefore Sheol enlarges its throat and opens wide its enormous jaws, and down go Zion’s nobles and masses, her revelers and carousers!"
+hebrew: "לָכֵ֗ן הִרְחִ֤יבָה שְּׁאוֹל֙ נַפְשָׁ֔הּ וּפָעֲרָ֥ה פִ֖יהָ לִבְלִי־ חֹ֑ק וְיָרַ֨ד הֲדָרָ֧הּ וַהֲמוֹנָ֛הּ וּשְׁאוֹנָ֖הּ וְעָלֵ֥ז בָּֽהּ׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H7337]]"
+- "[[H7585]]"
+- "[[H5315L]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H6473]]"
+- "[[H6310G]]"
+- "[[H1097]]"
+- "[[H9014]]"
+- "[[H2706I]]"
+- "[[H3381]]"
+- "[[H1926]]"
+- "[[H9002]]"
+- "[[H1995A]]"
+- "[[H7588]]"
+- "[[H5938]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:14**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it.
 <small><sub>**BSB:**</sub></small>
 Therefore Sheol enlarges its throat and opens wide its enormous jaws, and down go Zion’s nobles and masses, her revelers and carousers!
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H7337\|הִרְחִ֤יבָה]] [[H7585\|שְּׁאוֹל֙]] [[H5315L\|נַפְשָׁ֔]][[H9024\|הּ]] [[H9001\|וּ]][[H6473\|פָעֲרָ֥ה]] [[H6310G\|פִ֖י]][[H9024\|הָ]] [[H9005\|לִ]][[H1097\|בְלִי]][[H9014\|־]] [[H2706I\|חֹ֑ק]] [[H9001\|וְ]][[H3381\|יָרַ֨ד]] [[H1926\|הֲדָרָ֧]][[H9024\|הּ]] [[H9002\|וַ]][[H1995A\|הֲמוֹנָ֛]][[H9024\|הּ]] [[H9002\|וּ]][[H7588\|שְׁאוֹנָ֖]][[H9024\|הּ]] [[H9002\|וְ]][[H5938\|עָלֵ֥ז]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GLORY|GLORY]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic ISAIAH|ISAIAH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.13|<< Isaiah 5:13]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.15|Isaiah 5:15 >>]]</td></tr></table>
 

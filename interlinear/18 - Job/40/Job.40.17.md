@@ -1,8 +1,52 @@
+---
+title: Job 40:17
+type: Verse
+kjv: "He moveth his tail like a cedar: the sinews of his stones are wrapped together."
+bsb: "His tail sways like a cedar; the sinews of his thighs are tightly knit."
+hebrew: "יַחְפֹּ֣ץ זְנָב֣וֹ כְמוֹ־ אָ֑רֶז גִּידֵ֖י פַחֲדָ֣יו יְשֹׂרָֽגוּ׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2654B]]"
+- "[[H2180]]"
+- "[[H9023]]"
+- "[[H3644G]]"
+- "[[H9014]]"
+- "[[H0730]]"
+- "[[H1517]]"
+- "[[H6344]]"
+- "[[H8276]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 40:17**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He moveth his tail like a cedar: the sinews of his stones are wrapped together.
 <small><sub>**BSB:**</sub></small>
 His tail sways like a cedar; the sinews of his thighs are tightly knit.
+<small><sub>**Hebrew:**</sub></small>
+[[H2654B\|יַחְפֹּ֣ץ]] [[H2180\|זְנָב֣]][[H9023\|וֹ]] [[H3644G\|כְמוֹ]][[H9014\|־]] [[H0730\|אָ֑רֶז]] [[H1517\|גִּידֵ֖י]] [[H6344\|פַחֲדָ֣י]][[H9023\|ו]] [[H8276\|יְשֹׂרָֽגוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.16|<< Job 40:16]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.18|Job 40:18 >>]]</td></tr></table>
 
@@ -17,7 +61,7 @@ His tail sways like a cedar; the sinews of his thighs are tightly knit.
 | they are intertwined  |**<big>&#8207;[[H8276\|יְשֹׂרָֽגוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.so.Ra.gu<small><sup>[[HVPi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.16|<< Job 40:16]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.18|Job 40:18 >>]]</td></tr></table>
 
-[^1]: thigh its  | **<big>[[H9023|וֹ]]</big><big>[[H6344|פַחֲד]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: thigh its  | **<big>[[H9023|וֹ]]</big><big>[[H6344|פַחֲד]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: thigh its  | **<big>[[H6344|פַחֲד]]</big><big>[[H9023|וֹ]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: thigh its  | **<big>[[H6344|פַחֲד]]</big><big>[[H9023|וֹ]]</big> ** | fa.cha.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>פַחֲדָ֣ו</big></span>**
 

@@ -1,10 +1,66 @@
+---
+title: Revelation 7:15
+type: Verse
+kjv: "Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them."
+bsb: "For this reason, they are before the throne of God and serve Him day and night in His temple; and the One seated on the throne will spread His tabernacle over them."
+greek: "διὰ τοῦτό εἰσιν ἐνώπιον τοῦ θρόνου τοῦ θεοῦ καὶ λατρεύουσιν αὐτῷ ἡμέρας καὶ νυκτὸς ἐν τῷ ναῷ αὐτοῦ, καὶ ὁ καθήμενος ἐπὶ τοῦ θρόνου σκηνώσει ἐπ᾽ αὐτούς."
+pericope: "[[Rev.7.9 Praise from the Great Multitude|Praise from the Great Multitude]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3000]]"
+- "[[G0846]]"
+- "[[G2250]]"
+- "[[G3571]]"
+- "[[G1722]]"
+- "[[G3485]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G4637]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Revelation 7:15**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore are they before the throne of God, and serve him day and night in his temple: and he that sitteth on the throne shall dwell among them.
 <small><sub>**BSB:**</sub></small>
 For this reason, they are before the throne of God and serve Him day and night in His temple; and the One seated on the throne will spread His tabernacle over them.
-<small><sub>**Literal:**</sub></small>
-Because of this They are before the throne <the> of God and serve Him by day and night in the temple of Him, and the [One] sitting on the throne will tabernacle over them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.14|<< Revelation 7:14]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.16|Revelation 7:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτό]]  [[G1510\|εἰσιν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3000\|λατρεύουσιν]]  [[G0846\|αὐτῷ]]  [[G2250\|ἡμέρας]]  [[G2532\|καὶ]]  [[G3571\|νυκτὸς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3485\|ναῷ]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2521\|καθήμενος]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G4637\|σκηνώσει]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic THRONE|THRONE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.14|<< Revelation 7:14]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.16|Revelation 7:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

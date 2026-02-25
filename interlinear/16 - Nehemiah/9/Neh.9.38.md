@@ -1,8 +1,62 @@
+---
+title: Nehemiah 9:38
+type: Verse
+kjv: "And because of all this we make a sure covenant, and write it; and our princes, Levites, and priests, seal unto it."
+bsb: "In view of all this, we make a binding agreement, putting it in writing and sealing it with the names of our leaders, Levites, and priests.”"
+hebrew: "וּבְכָל־ זֹ֕את אֲנַ֛חְנוּ כֹּרְתִ֥ים אֲמָנָ֖ה וְכֹתְבִ֑ים וְעַל֙ הֶֽחָת֔וּם שָׂרֵ֥ינוּ לְוִיֵּ֖נוּ כֹּהֲנֵֽינוּ׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H0587]]"
+- "[[H3772H]]"
+- "[[H0548]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2856]]"
+- "[[H8269]]"
+- "[[H9025]]"
+- "[[H3881]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:38**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And because of all this we make a sure [covenant], and write [it]; and our princes, Levites, [and] priests, seal [unto it].
 <small><sub>**BSB:**</sub></small>
 In view of all this, we make a binding agreement, putting it in writing and sealing it with the names of our leaders, Levites, and priests.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H2063\|זֹ֕את]] [[H0587\|אֲנַ֛חְנוּ]] [[H3772H\|כֹּרְתִ֥ים]] [[H0548\|אֲמָנָ֖ה]] [[H9002\|וְ]][[H3789\|כֹתְבִ֑ים]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H9009\|הֶֽ]][[H2856\|חָת֔וּם]] [[H8269\|שָׂרֵ֥י]][[H9025\|נוּ]] [[H3881\|לְוִיֵּ֖]][[H9025\|נוּ]] [[H3548\|כֹּהֲנֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DECISION|DECISION]] • [[topic SEAL|SEAL]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.37|<< Nehemiah 9:37]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.1|Nehemiah 10:1 >>]]</td></tr></table>
 

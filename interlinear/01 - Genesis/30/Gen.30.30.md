@@ -1,8 +1,71 @@
+---
+title: Genesis 30:30
+type: Verse
+kjv: "For it was little which thou hadst before I came, and it is now increased unto a multitude; and the LORD hath blessed thee since my coming: and now when shall I provide for mine own house also?"
+bsb: "Indeed, you had very little before my arrival, but now your wealth has increased many times over. The LORD has blessed you wherever I set foot. But now, when may I also provide for my own household?”"
+hebrew: "כִּ֡י מְעַט֩ אֲשֶׁר־ הָיָ֨ה לְךָ֤ לְפָנַי֙ וַיִּפְרֹ֣ץ לָרֹ֔ב וַיְבָ֧רֶךְ יְהוָ֛ה אֹתְךָ֖ לְרַגְלִ֑י וְעַתָּ֗ה מָתַ֛י אֶֽעֱשֶׂ֥ה גַם־ אָנֹכִ֖י לְבֵיתִֽי׃"
+pericope: "[[Gen.30.25 Jacob Prospers|Jacob Prospers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4592]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H6555]]"
+- "[[H7230]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H7272]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H4970]]"
+- "[[H6213I]]"
+- "[[H1571]]"
+- "[[H0595]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:30**<big><big>[[Gen.30.25 Jacob Prospers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For [it was] little which thou hadst before I [came], and it is [now] increased unto a multitude; and the LORD hath blessed thee since my coming: and now when shall I provide for mine own house also?
 <small><sub>**BSB:**</sub></small>
 Indeed, you had very little before my arrival, but now your wealth has increased many times over. The LORD has blessed you wherever I set foot. But now, when may I also provide for my own household?”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֡י]] [[H4592\|מְעַט֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H9005\|לְ]][[H6440G\|פָנַ]][[H9020\|י֙]] [[H9001\|וַ]][[H6555\|יִּפְרֹ֣ץ]] [[H9005\|לָ]][[H7230\|רֹ֔ב]] [[H9001\|וַ]][[H1288\|יְבָ֧רֶךְ]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֹתְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H7272\|רַגְלִ֑]][[H9020\|י]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H4970\|מָתַ֛י]] [[H6213I\|אֶֽעֱשֶׂ֥ה]] [[H1571\|גַם]][[H9014\|־]] [[H0595\|אָנֹכִ֖י]] [[H9005\|לְ]][[H1004M\|בֵיתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic LABAN|LABAN]] • [[topic RACHEL|RACHEL]] • [[topic SERVANT|SERVANT]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.29|<< Genesis 30:29]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.31|Genesis 30:31 >>]]</td></tr></table>
 

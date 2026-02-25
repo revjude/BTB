@@ -1,10 +1,58 @@
+---
+title: John 5:11
+type: Verse
+kjv: "He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk."
+bsb: "But he answered, “The man who made me well told me, ‘Pick up your mat and walk.’”"
+greek: "Ὁ δὲ ἀπεκρίθη αὐτοῖς· ὁ ποιήσας με ὑγιῆ, ἐκεῖνός μοι εἶπεν· ἆρον τὸν κράβαττόν σου καὶ περιπάτει."
+pericope: "[[John.5.1 The Pool of Bethesda|The Pool of Bethesda]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G3165]]"
+- "[[G5199]]"
+- "[[G1565]]"
+- "[[G2036]]"
+- "[[G0142]]"
+- "[[G2895]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G4043]]"
+texts:
+- n(o)
+- no
+- NKO
+---
+
 **John 5:11**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk.
 <small><sub>**BSB:**</sub></small>
 But he answered, “The man who made me well told me, ‘Pick up your mat and walk.’”
-<small><sub>**Literal:**</sub></small>
-The [man] however answered them; The [One] having made me well, that One to me said; do take up the mat of you and do walk.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.10|<< John 5:10]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.12|John 5:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτοῖς·]]  [[G3588\|ὁ]]  [[G4160G\|ποιήσας]]  [[G3165\|με]]  [[G5199\|ὑγιῆ,]]  [[G1565\|ἐκεῖνός]]  [[G3165\|μοι]]  [[G2036\|εἶπεν·]]  [[G0142\|ἆρον]]  [[G3588\|τὸν]]  [[G2895\|κράβαττόν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G4043\|περιπάτει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.10|<< John 5:10]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.12|John 5:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

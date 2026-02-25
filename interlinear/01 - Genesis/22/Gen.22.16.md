@@ -1,8 +1,76 @@
+---
+title: Genesis 22:16
+type: Verse
+kjv: "And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:"
+bsb: "saying, “By Myself I have sworn, declares the LORD, that because you have done this and have not withheld your only son,"
+hebrew: "וַיֹּ֕אמֶר בִּ֥י נִשְׁבַּ֖עְתִּי נְאֻם־ יְהוָ֑ה כִּ֗י יַ֚עַן אֲשֶׁ֤ר עָשִׂ֙יתָ֙ אֶת־ הַדָּבָ֣ר הַזֶּ֔ה וְלֹ֥א חָשַׂ֖כְתָּ אֶת־ בִּנְךָ֥ אֶת־ יְחִידֶֽךָ׃"
+pericope: "[[Gen.22.11 The LORD Provides the Sacrifice|The LORD Provides the Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OATH|OATH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H7650]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2820]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H3173]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:16**<big><big>[[Gen.22.11 The LORD Provides the Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only [son]:
 <small><sub>**BSB:**</sub></small>
 saying, “By Myself I have sworn, declares the LORD, that because you have done this and have not withheld your only son,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9003\|בִּ֥]][[H9030\|י]] [[H7650\|נִשְׁבַּ֖עְתִּי]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֗י]] [[H3282\|יַ֚עַן]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213A\|עָשִׂ֙יתָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2820\|חָשַׂ֖כְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בִּנְ]][[H9021\|ךָ֥]] [[H0853\|אֶת]][[H9014\|־]] [[H3173\|יְחִידֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COMMUNION|COMMUNION]] • [[topic COVENANT|COVENANT]] • [[topic FAITH|FAITH]] • [[topic ISAAC|ISAAC]] • [[topic OATH|OATH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.15|<< Genesis 22:15]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.17|Genesis 22:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

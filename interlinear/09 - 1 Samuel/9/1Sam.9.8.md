@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 9:8
+type: Verse
+kjv: "And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: that will I give to the man of God, to tell us our way."
+bsb: "The servant answered him again. “Look,” he said, “I have here in my hand a quarter shekel of silver. I will give it to the man of God, and he will tell us our way.”"
+hebrew: "וַיֹּ֤סֶף הַנַּ֙עַר֙ לַעֲנ֣וֹת אֶת־ שָׁא֔וּל וַיֹּ֕אמֶר הִנֵּה֙ נִמְצָ֣א בְיָדִ֔י רֶ֖בַע שֶׁ֣קֶל כָּ֑סֶף וְנָֽתַתִּי֙ לְאִ֣ישׁ הָאֱלֹהִ֔ים וְהִגִּ֥יד לָ֖נוּ אֶת־ דַּרְכֵּֽנוּ׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9005]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H3027I]]"
+- "[[H9020]]"
+- "[[H7253]]"
+- "[[H8255]]"
+- "[[H3701G]]"
+- "[[H5414G]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H5046]]"
+- "[[H9035]]"
+- "[[H1870J]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:8**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: [that] will I give to the man of God, to tell us our way.
 <small><sub>**BSB:**</sub></small>
 The servant answered him again. “Look,” he said, “I have here in my hand a quarter shekel of silver. I will give it to the man of God, and he will tell us our way.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּ֤סֶף]] [[H9009\|הַ]][[H5288\|נַּ֙עַר֙]] [[H9005\|לַ]][[H6030B\|עֲנ֣וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2009\|הִנֵּה֙]] [[H4672\|נִמְצָ֣א]] [[H9003\|בְ]][[H3027I\|יָדִ֔]][[H9020\|י]] [[H7253\|רֶ֖בַע]] [[H8255\|שֶׁ֣קֶל]] [[H3701G\|כָּ֑סֶף]] [[H9001\|וְ]][[H5414G\|נָֽתַתִּי֙]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וְ]][[H5046\|הִגִּ֥יד]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1870J\|דַּרְכֵּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.7|<< 1 Samuel 9:7]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.9|1 Samuel 9:9 >>]]</td></tr></table>
 

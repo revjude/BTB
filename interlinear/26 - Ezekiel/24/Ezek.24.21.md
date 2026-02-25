@@ -1,8 +1,75 @@
+---
+title: Ezekiel 24:21
+type: Verse
+kjv: "Speak unto the house of Israel, Thus saith the Lord GOD; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword."
+bsb: "Tell the house of Israel that this is what the Lord GOD says: ‘I am about to desecrate My sanctuary, the pride of your power, the desire of your eyes, and the delight of your soul. And the sons and daughters you left behind will fall by the sword.’"
+hebrew: "אֱמֹ֣ר׀ לְבֵ֣ית יִשְׂרָאֵ֗ל כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ הִנְנִ֨י מְחַלֵּ֤ל אֶת־ מִקְדָּשִׁי֙ גְּא֣וֹן עֻזְּכֶ֔ם מַחְמַ֥ד עֵֽינֵיכֶ֖ם וּמַחְמַ֣ל נַפְשְׁכֶ֑ם וּבְנֵיכֶ֧ם וּבְנֽוֹתֵיכֶ֛ם אֲשֶׁ֥ר עֲזַבְתֶּ֖ם בַּחֶ֥רֶב יִפֹּֽלוּ׃"
+pericope: "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H2490H]]"
+- "[[H0853]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H1347]]"
+- "[[H5797]]"
+- "[[H9026]]"
+- "[[H4261]]"
+- "[[H5869A]]"
+- "[[H9002]]"
+- "[[H4263]]"
+- "[[H5315G]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H0834A]]"
+- "[[H5800A]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:21**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the house of Israel, Thus saith the Lord GOD; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom ye have left shall fall by the sword.
 <small><sub>**BSB:**</sub></small>
 Tell the house of Israel that this is what the Lord GOD says: ‘I am about to desecrate My sanctuary, the pride of your power, the desire of your eyes, and the delight of your soul. And the sons and daughters you left behind will fall by the sword.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֣ר]][[H9015\|׀]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H2490H\|מְחַלֵּ֤ל]] [[H0853\|אֶת]][[H9014\|־]] [[H4720\|מִקְדָּשִׁ]][[H9020\|י֙]] [[H1347\|גְּא֣וֹן]] [[H5797\|עֻזְּ]][[H9026\|כֶ֔ם]] [[H4261\|מַחְמַ֥ד]] [[H5869A\|עֵֽינֵי]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H4263\|מַחְמַ֣ל]] [[H5315G\|נַפְשְׁ]][[H9026\|כֶ֑ם]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9026\|כֶ֧ם]] [[H9002\|וּ]][[H1323G\|בְנֽוֹתֵי]][[H9026\|כֶ֛ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H5800A\|עֲזַבְתֶּ֖ם]] [[H9003\|בַּ]][[H2719\|חֶ֥רֶב]] [[H5307J\|יִפֹּֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.20|<< Ezekiel 24:20]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.22|Ezekiel 24:22 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Psalm 119:89
+type: Verse
+kjv: "For ever, O LORD, thy word is settled in heaven."
+bsb: "Your word, O LORD, is everlasting; it is firmly fixed in the heavens."
+hebrew: "לְעוֹלָ֥ם יְהוָ֑ה דְּ֝בָרְךָ֗ נִצָּ֥ב בַּשָּׁמָֽיִם׃"
+pericope: "[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|Your Word Is a Lamp to My Feet - LAMED]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H3068G]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H5324]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:89**<big><big>[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ever, O LORD, thy word is settled in heaven.
 <small><sub>**BSB:**</sub></small>
 Your word, O LORD, is everlasting; it is firmly fixed in the heavens.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5769G\|עוֹלָ֥ם]] [[H3068G\|יְהוָ֑ה]] [[H1697G\|דְּ֝בָרְ]][[H9021\|ךָ֗]] [[H5324\|נִצָּ֥ב]] [[H9003\|בַּ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.89|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.88|<< Psalms 119:88]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.90|Psalms 119:90 >>]]</td></tr></table>
 

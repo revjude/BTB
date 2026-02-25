@@ -1,6 +1,64 @@
+---
+title: LXX Daniel 2:43
+type: Verse
+lxx: "For you beheld the iron being intermingled with the potsherd; so they will be mixed together with the seed of men. But they will not be cleaving, this one with this other one, as the iron does not intermingle with the potsherd."
+greek: "ότι είδες τον σίδηρον αναμεμιγμένον τω οστράκω συμμιγείς έσονται εν σπέρματι ανθρώπων και ουκ έσονται προσκολλώμενοι ούτος μετά τούτου καθώς ο σίδηρος ουκ αναμίγνυται μετά του οστράκου"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[G3754]]"
+- "[[G1492]]"
+- "[[G3588]]"
+- "[[G4604]]"
+- "[[G6294]]"
+- "[[G3588]]"
+- "[[G8561]]"
+- "[[G9265]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4690]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G4347]]"
+- "[[G3778]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G2531]]"
+- "[[G3588]]"
+- "[[G4604]]"
+- "[[G3756]]"
+- "[[G6294]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G8561]]"
+---
+
 **LXX Daniel 2:43** 
 <small><sub>**LXX:**</sub></small>
 For you beheld the iron being intermingled with the potsherd; \[so\] they will be mixed together with \[the\] seed of men. But they will not be cleaving, this one with this \[other\] one, as the iron does not intermingle with the potsherd. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G1492\|είδες]] [[G3588\|τον]] [[G4604\|σίδηρον]] [[G6294\|αναμεμιγμένον]] [[G3588\|τω]] [[G8561\|οστράκω]] [[G9265\|συμμιγείς]] [[G1510\|έσονται]] [[G1722\|εν]] [[G4690\|σπέρματι]] [[G0444\|ανθρώπων]] [[G2532\|και]] [[G3756\|ουκ]] [[G1510\|έσονται]] [[G4347\|προσκολλώμενοι]] [[G3778\|ούτος]] [[G3326\|μετά]] [[G3778\|τούτου]] [[G2531\|καθώς]] [[G3588\|ο]] [[G4604\|σίδηρος]] [[G3756\|ουκ]] [[G6294\|αναμίγνυται]] [[G3326\|μετά]] [[G3588\|του]] [[G8561\|οστράκου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**MT:**</sub></small>
 [[Dan.2.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.42|<< Daniel 2:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.44|Daniel 2:44 >>]]</td></tr></table>
 
@@ -32,6 +90,6 @@ For you beheld the iron being intermingled with the potsherd; \[so\] they will b
 | with | **<big>[[G3326\|μετά]]</big>** |
 | the | **<big>[[G3588\|του]]</big>** |
 | potsherd. | **<big>[[G8561\|οστράκου]]</big>** |
-[[Dan.2.43|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.42|<< Daniel 2:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.44|Daniel 2:44 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.2.42|<< Daniel 2:42]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.2.44|Daniel 2:44 >>]]</td></tr></table>
 
 

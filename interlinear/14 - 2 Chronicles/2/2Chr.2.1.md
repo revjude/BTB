@@ -1,8 +1,52 @@
+---
+title: 2 Chronicles 2:1
+type: Verse
+kjv: "And Solomon determined to build an house for the name of the LORD, and an house for his kingdom."
+bsb: "Now Solomon purposed to build a house for the Name of the LORD and a royal palace for himself."
+hebrew: "וַיֹּ֣אמֶר שְׁלֹמֹ֗ה לִבְנ֥וֹת בַּ֙יִת֙ לְשֵׁ֣ם יְהוָ֔ה וּבַ֖יִת לְמַלְכוּתֽוֹ׃"
+pericope: "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:1**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon determined to build an house for the name of the LORD, and an house for his kingdom.
 <small><sub>**BSB:**</sub></small>
 Now Solomon purposed to build a house for the Name of the LORD and a royal palace for himself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H8010\|שְׁלֹמֹ֗ה]] [[H9005\|לִ]][[H1129\|בְנ֥וֹת]] [[H1004B\|בַּ֙יִת֙]] [[H9005\|לְ]][[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H1004B\|בַ֖יִת]] [[H9005\|לְ]][[H4438\|מַלְכוּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.17|<< 2 Chronicles 1:17]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.2|2 Chronicles 2:2 >>]]</td></tr></table>
 

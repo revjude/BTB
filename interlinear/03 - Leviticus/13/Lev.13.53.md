@@ -1,8 +1,65 @@
+---
+title: Leviticus 13:53
+type: Verse
+kjv: "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;"
+bsb: "But when the priest reexamines it, if the mildew has not spread in the fabric, weave, knit, or leather article,"
+hebrew: "וְאִם֮ יִרְאֶ֣ה הַכֹּהֵן֒ וְהִנֵּה֙ לֹא־ פָשָׂ֣ה הַנֶּ֔גַע בַּבֶּ֕גֶד א֥וֹ בַשְּׁתִ֖י א֣וֹ בָעֵ֑רֶב א֖וֹ בְּכָל־ כְּלִי־ עֽוֹר׃"
+pericope: "[[Lev.13.47 Laws about Mildew|Laws about Mildew]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H2009]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6581]]"
+- "[[H5061]]"
+- "[[H9003]]"
+- "[[H0899B]]"
+- "[[H0176A]]"
+- "[[H8359]]"
+- "[[H6154B]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H5785]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:53**<big><big>[[Lev.13.47 Laws about Mildew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;
 <small><sub>**BSB:**</sub></small>
 But when the priest reexamines it, if the mildew has not spread in the fabric, weave, knit, or leather article,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם֮]] [[H7200G\|יִרְאֶ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵן֒]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H3808\|לֹא]][[H9014\|־]] [[H6581\|פָשָׂ֣ה]] [[H9009\|הַ]][[H5061\|נֶּ֔גַע]] [[H9003\|בַּ]][[H0899B\|בֶּ֕גֶד]] [[H0176A\|א֥וֹ]] [[H9003\|בַ]][[H8359\|שְּׁתִ֖י]] [[H0176A\|א֣וֹ]] [[H9003\|בָ]][[H6154B\|עֵ֑רֶב]] [[H0176A\|א֖וֹ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3627\|כְּלִי]][[H9014\|־]] [[H5785\|עֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.52|<< Leviticus 13:52]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.54|Leviticus 13:54 >>]]</td></tr></table>
 

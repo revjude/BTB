@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Oholibah to Be Plagued
+type: Pericope
 pericope: "[[Ezek.23.22 Oholibah to Be Plagued|Oholibah to Be Plagued]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 23
 book/chapter: "[[Ezek.23|Ezekiel 23]]"
-genre:
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 14
 verses:
 - "[[Ezek.23.22]]"
 - "[[Ezek.23.23]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ezek.23.35]]"
 ---
 
-[[Ezek.23|Ezekiel 23:22 - Ezekiel 23:35]]
+<small>[[Ezek.23|Ezekiel 23:22-35]]</small>
 *Oholibah to Be Plagued*
 
 [[Ezek.23.22|22]] Therefore, O Aholibah, thus saith the Lord GOD; Behold, I will raise up thy lovers against thee, from whom thy mind is alienated, and I will bring them against thee on every side;

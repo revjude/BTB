@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Altar of Incense
+type: Pericope
 pericope: "[[Exod.30.1 The Altar of Incense|The Altar of Incense]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 30
 book/chapter: "[[Exod.30|Exodus 30]]"
-genre:
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 10
 verses:
 - "[[Exod.30.1]]"
 - "[[Exod.30.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Exod.30.10]]"
 ---
 
-[[Exod.30|Exodus 30:1 - Exodus 30:10]]
+<small>[[Exod.30|Exodus 30:1-10]]</small>
 *The Altar of Incense*
 
 [[Exod.30.1|1]] And thou shalt make an altar to burn incense upon: \[of\] shittim wood shalt thou make it.

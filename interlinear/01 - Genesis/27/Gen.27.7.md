@@ -1,8 +1,71 @@
+---
+title: Genesis 27:7
+type: Verse
+kjv: "Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death."
+bsb: "‘Bring me some game and prepare me a tasty dish to eat, so that I may bless you in the presence of the LORD before I die.’"
+hebrew: "הָבִ֨יאָה לִּ֥י צַ֛יִד וַעֲשֵׂה־ לִ֥י מַטְעַמִּ֖ים וְאֹכֵ֑לָה וַאֲבָרֶכְכָ֛ה לִפְנֵ֥י יְהוָ֖ה לִפְנֵ֥י מוֹתִֽי׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H0935P]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6718A]]"
+- "[[H9002]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H4303]]"
+- "[[H0398]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H4194]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:7**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring me venison, and make me savoury meat, that I may eat, and bless thee before the LORD before my death.
 <small><sub>**BSB:**</sub></small>
 ‘Bring me some game and prepare me a tasty dish to eat, so that I may bless you in the presence of the LORD before I die.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0935P\|הָבִ֨יאָ]][[H9012\|ה]] [[H9005\|לִּ֥]][[H9030\|י]] [[H6718A\|צַ֛יִד]] [[H9002\|וַ]][[H6213H\|עֲשֵׂה]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H4303\|מַטְעַמִּ֖ים]] [[H9002\|וְ]][[H0398\|אֹכֵ֑לָה]] [[H9002\|וַ]][[H1288\|אֲבָרֶכְ]][[H9031\|כָ֛ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4194\|מוֹתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.6|<< Genesis 27:6]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.8|Genesis 27:8 >>]]</td></tr></table>
 

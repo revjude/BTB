@@ -1,10 +1,59 @@
+---
+title: John 6:23
+type: Verse
+kjv: "(Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)"
+bsb: "However, some boats from Tiberias landed near the place where the people had eaten the bread after the Lord had given thanks."
+greek: "ἄλλα δὲ ἦλθεν πλοιάρια ἐκ Τιβεριάδος ἐγγὺς τοῦ τόπου ὅπου ἔφαγον τὸν ἄρτον εὐχαριστήσαντος τοῦ κυρίου."
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TIBERIAS|TIBERIAS]]"
+strongs:
+- "[[G0243]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G4142]]"
+- "[[G1537]]"
+- "[[G5085H]]"
+- "[[G1451]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G3699]]"
+- "[[G5315]]"
+- "[[G0740]]"
+- "[[G2168]]"
+- "[[G2962G]]"
+texts:
+- NK(O)
+- k
+- NKO
+---
+
 **John 6:23**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)
 <small><sub>**BSB:**</sub></small>
 However, some boats from Tiberias landed near the place where the people had eaten the bread after the Lord had given thanks.
-<small><sub>**Literal:**</sub></small>
-another now came boats from Tiberias near the place where they ate the bread when was giving thanks to the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.22|<< John 6:22]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.24|John 6:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0243\|ἄλλα]]  [[G1161\|δὲ]]  [[G2064\|ἦλθεν]]  [[G4142\|πλοιάρια]]  [[G1537\|ἐκ]]  [[G5085H\|Τιβεριάδος]]  [[G1451\|ἐγγὺς]]  [[G3588\|τοῦ]]  [[G5117\|τόπου]]  [[G3699\|ὅπου]]  [[G5315\|ἔφαγον]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G2168\|εὐχαριστήσαντος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic TIBERIAS|TIBERIAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.22|<< John 6:22]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.24|John 6:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

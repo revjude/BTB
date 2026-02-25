@@ -1,8 +1,60 @@
+---
+title: Nehemiah 12:12
+type: Verse
+kjv: "And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;"
+bsb: "In the days of Joiakim, these were the heads of the priestly families: of the family of Seraiah, Meraiah; of Jeremiah, Hananiah;"
+hebrew: "וּבִימֵי֙ יֽוֹיָקִ֔ים הָי֥וּ כֹהֲנִ֖ים רָאשֵׁ֣י הָאָב֑וֹת לִשְׂרָיָ֣ה מְרָיָ֔ה לְיִרְמְיָ֖ה חֲנַנְיָֽה׃"
+pericope: "[[Neh.12.1 The Priests and Levites Who Returned|The Priests and Levites Who Returned]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic HANANIAH|HANANIAH]]"
+- "[[topic JOIAKIM|JOIAKIM]]"
+- "[[topic MERAIAH|MERAIAH]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+- "[[topic SERAIAH|SERAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3113]]"
+- "[[H1961]]"
+- "[[H3548]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H8304L]]"
+- "[[H4811]]"
+- "[[H3414M]]"
+- "[[H2608J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 12:12**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the days of Joiakim were priests, the chief of the fathers: of Seraiah, Meraiah; of Jeremiah, Hananiah;
 <small><sub>**BSB:**</sub></small>
 In the days of Joiakim, these were the heads of the priestly families: of the family of Seraiah, Meraiah; of Jeremiah, Hananiah;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H3117G\|ימֵי֙]] [[H3113\|יֽוֹיָקִ֔ים]] [[H1961\|הָי֥וּ]] [[H3548\|כֹהֲנִ֖ים]] [[H7218H\|רָאשֵׁ֣י]] [[H9009\|הָ]][[H0001G\|אָב֑וֹת]] [[H9005\|לִ]][[H8304L\|שְׂרָיָ֣ה]] [[H4811\|מְרָיָ֔ה]] [[H9005\|לְ]][[H3414M\|יִרְמְיָ֖ה]] [[H2608J\|חֲנַנְיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HANANIAH|HANANIAH]] • [[topic JOIAKIM|JOIAKIM]] • [[topic MERAIAH|MERAIAH]] • [[topic NEHEMIAH|NEHEMIAH]] • [[topic SERAIAH|SERAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.11|<< Nehemiah 12:11]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.13|Nehemiah 12:13 >>]]</td></tr></table>
 

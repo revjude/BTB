@@ -1,10 +1,53 @@
+---
+title: Mark 11:7
+type: Verse
+kjv: "And they brought the colt to Jesus, and cast their garments on him; and he sat upon him."
+bsb: "Then they led the colt to Jesus and threw their cloaks over it, and He sat on it."
+greek: "καὶ φέρουσιν τὸν πῶλον πρὸς τὸν Ἰησοῦν καὶ ἐπιβάλλουσιν αὐτῷ τὰ ἱμάτια αὐτῶν, καὶ ἐκάθισεν ἐπ᾽ αὐτόν."
+pericope: "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G5342]]"
+- "[[G3588]]"
+- "[[G4454]]"
+- "[[G4314]]"
+- "[[G2424G]]"
+- "[[G1911]]"
+- "[[G0846]]"
+- "[[G2440]]"
+- "[[G2523]]"
+- "[[G1909]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 11:7**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they brought the colt to Jesus, and cast their garments on him; and he sat upon him.
 <small><sub>**BSB:**</sub></small>
 Then they led the colt to Jesus and threw their cloaks over it, and He sat on it.
-<small><sub>**Literal:**</sub></small>
-And they lead the colt to <the> Jesus and they do cast upon it the cloaks of them, and He sat on it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.6|<< Mark 11:6]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.8|Mark 11:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5342\|φέρουσιν]]  [[G3588\|τὸν]]  [[G4454\|πῶλον]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G1911\|ἐπιβάλλουσιν]]  [[G0846\|αὐτῷ]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G2523\|ἐκάθισεν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.6|<< Mark 11:6]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.8|Mark 11:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: Joshua 6:12
+type: Verse
+kjv: "And Joshua rose early in the morning, and the priests took up the ark of the LORD."
+bsb: "Joshua got up early the next morning, and the priests took the ark of the LORD."
+hebrew: "וַיַּשְׁכֵּ֥ם יְהוֹשֻׁ֖עַ בַּבֹּ֑קֶר וַיִּשְׂא֥וּ הַכֹּהֲנִ֖ים אֶת־ אֲר֥וֹן יְהוָֽה׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic RISING|RISING]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H3091G]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H5375G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:12**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua rose early in the morning, and the priests took up the ark of the LORD.
 <small><sub>**BSB:**</sub></small>
 Joshua got up early the next morning, and the priests took the ark of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכֵּ֥ם]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H9003\|בַּ]][[H1242\|בֹּ֑קֶר]] [[H9001\|וַ]][[H5375G\|יִּשְׂא֥וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֥וֹן]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic RISING|RISING]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.11|<< Joshua 6:11]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.13|Joshua 6:13 >>]]</td></tr></table>
 

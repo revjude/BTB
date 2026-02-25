@@ -1,10 +1,49 @@
+---
+title: Philemon 1:20
+type: Verse
+kjv: "Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord."
+bsb: "Yes, brother, let me have some benefit from you in the Lord. Refresh my heart in Christ."
+greek: "ναί, ἀδελφέ, ἐγώ σου ὀναίμην ἐν κυρίῳ· ἀνάπαυσόν μου τὰ σπλάγχνα ἐν Χριστῷ.¶"
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G3483]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G4771]]"
+- "[[G3685]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G0373]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G4698]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Philemon 1:20**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.
 <small><sub>**BSB:**</sub></small>
 Yes, brother, let me have some benefit from you in the Lord. Refresh my heart in Christ.
-<small><sub>**Literal:**</sub></small>
-Yes, brother, I myself from you I would have profit in [the] Lord; do refresh my <the> heart in Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.19|<< Philemon 1:19]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.21|Philemon 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3483\|ναί,]]  [[G0080\|ἀδελφέ,]]  [[G1473\|ἐγώ]]  [[G4771\|σου]]  [[G3685\|ὀναίμην]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ·]]  [[G0373\|ἀνάπαυσόν]]  [[G3165\|μου]]  [[G3588\|τὰ]]  [[G4698\|σπλάγχνα]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.19|<< Philemon 1:19]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.21|Philemon 1:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 1:2
+type: Verse
+kjv: "Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers."
+bsb: "Then Solomon spoke to all Israel, to the commanders of thousands and of hundreds, to the judges, and to every leader in all Israel—the heads of the families."
+hebrew: "וַיֹּ֣אמֶר שְׁלֹמֹ֣ה לְכָל־ יִשְׂרָאֵ֡ל לְשָׂרֵי֩ הָאֲלָפִ֨ים וְהַמֵּא֜וֹת וְלַשֹּֽׁפְטִ֗ים וּלְכֹ֛ל נָשִׂ֥יא לְכָל־ יִשְׂרָאֵ֖ל רָאשֵׁ֥י הָאָבֽוֹת׃"
+pericope: "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GIBEON|GIBEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H8199]]"
+- "[[H5387A]]"
+- "[[H7218A]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 1:2**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers.
 <small><sub>**BSB:**</sub></small>
 Then Solomon spoke to all Israel, to the commanders of thousands and of hundreds, to the judges, and to every leader in all Israel—the heads of the families.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H8010\|שְׁלֹמֹ֣ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֡ל]] [[H9005\|לְ]][[H8269\|שָׂרֵי֩]] [[H9009\|הָ]][[H0505G\|אֲלָפִ֨ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3967\|מֵּא֜וֹת]] [[H9002\|וְ]][[H9005\|לַ]][[H8199\|שֹּֽׁפְטִ֗ים]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כֹ֛ל]] [[H5387A\|נָשִׂ֥יא]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H7218A\|רָאשֵׁ֥י]] [[H9009\|הָ]][[H0001G\|אָבֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEON|GIBEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.1|<< 2 Chronicles 1:1]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.3|2 Chronicles 1:3 >>]]</td></tr></table>
 

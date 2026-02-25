@@ -1,8 +1,61 @@
+---
+title: Psalm 69:19
+type: Verse
+kjv: "Thou hast known my reproach, and my shame, and my dishonour: mine adversaries are all before thee."
+bsb: "You know my reproach, my shame and disgrace. All my adversaries are before You."
+hebrew: "אַתָּ֤ה יָדַ֗עְתָּ חֶרְפָּתִ֣י וּ֭בָשְׁתִּי וּכְלִמָּתִ֑י נֶ֝גְדְּךָ֗ כָּל־ צוֹרְרָֽי׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H2781]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1322]]"
+- "[[H3639]]"
+- "[[H5048]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6887D]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:19**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast known my reproach, and my shame, and my dishonour: mine adversaries [are] all before thee.
 <small><sub>**BSB:**</sub></small>
 You know my reproach, my shame and disgrace. All my adversaries are before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּ֤ה]] [[H3045\|יָדַ֗עְתָּ]] [[H2781\|חֶרְפָּתִ֣]][[H9020\|י]] [[H9002\|וּ֭]][[H1322\|בָשְׁתִּ]][[H9020\|י]] [[H9002\|וּ]][[H3639\|כְלִמָּתִ֑]][[H9020\|י]] [[H5048\|נֶ֝גְדְּ]][[H9031\|ךָ֗]] [[H3605\|כָּל]][[H9014\|־]] [[H6887D\|צוֹרְרָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.18|<< Psalms 69:18]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.20|Psalms 69:20 >>]]</td></tr></table>
 

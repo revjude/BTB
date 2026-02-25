@@ -1,8 +1,61 @@
+---
+title: Isaiah 13:4
+type: Verse
+kjv: "The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the LORD of hosts mustereth the host of the battle."
+bsb: "Listen, a tumult on the mountains, like that of a great multitude! Listen, an uproar among the kingdoms, like nations gathered together! The LORD of Hosts is mobilizing an army for war."
+hebrew: "ק֥וֹל הָמ֛וֹן בֶּֽהָרִ֖ים דְּמ֣וּת עַם־ רָ֑ב ק֠וֹל שְׁא֞וֹן מַמְלְכ֤וֹת גּוֹיִם֙ נֶֽאֱסָפִ֔ים יְהוָ֣ה צְבָא֔וֹת מְפַקֵּ֖ד צְבָ֥א מִלְחָמָֽה׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MUSTER|MUSTER]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H6963H]]"
+- "[[H1995A]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H1823]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H7227A]]"
+- "[[H7588]]"
+- "[[H4467]]"
+- "[[H1471A]]"
+- "[[H0622]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H6485A]]"
+- "[[H6635A]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:4**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The noise of a multitude in the mountains, like as of a great people; a tumultuous noise of the kingdoms of nations gathered together: the LORD of hosts mustereth the host of the battle.
 <small><sub>**BSB:**</sub></small>
 Listen, a tumult on the mountains, like that of a great multitude! Listen, an uproar among the kingdoms, like nations gathered together! The LORD of Hosts is mobilizing an army for war.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963H\|ק֥וֹל]] [[H1995A\|הָמ֛וֹן]] [[H9003\|בֶּֽ]][[H2022G\|הָרִ֖ים]] [[H1823\|דְּמ֣וּת]] [[H5971A\|עַם]][[H9014\|־]] [[H7227A\|רָ֑ב]] [[H6963H\|ק֠וֹל]] [[H7588\|שְׁא֞וֹן]] [[H4467\|מַמְלְכ֤וֹת]] [[H1471A\|גּוֹיִם֙]] [[H0622\|נֶֽאֱסָפִ֔ים]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H6485A\|מְפַקֵּ֖ד]] [[H6635A\|צְבָ֥א]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MUSTER|MUSTER]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.3|<< Isaiah 13:3]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.5|Isaiah 13:5 >>]]</td></tr></table>
 

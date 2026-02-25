@@ -1,10 +1,53 @@
+---
+title: Mark 1:18
+type: Verse
+kjv: "And straightway they forsook their nets, and followed him."
+bsb: "And at once they left their nets and followed Him."
+greek: "καὶ εὐθὺς ἀφέντες τὰ δίκτυα αὐτῶν ἠκολούθησαν αὐτῷ.¶"
+pericope: "[[Mark.1.16 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G0863G]]"
+- "[[G3588]]"
+- "[[G1350]]"
+- "[[G0846]]"
+- "[[G0190]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 1:18**<big><big>[[Mark.1.16 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And straightway they forsook their nets, and followed him.
 <small><sub>**BSB:**</sub></small>
 And at once they left their nets and followed Him.
-<small><sub>**Literal:**</sub></small>
-And immediately having left the nets of them they followed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.17|<< Mark 1:17]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.19|Mark 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2112\|εὐθὺς]]  [[G0863G\|ἀφέντες]]  [[G3588\|τὰ]]  [[G1350\|δίκτυα]]  [[G0846\|αὐτῶν]]  [[G0190\|ἠκολούθησαν]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PETER|PETER]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.17|<< Mark 1:17]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.19|Mark 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

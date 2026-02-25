@@ -1,10 +1,51 @@
+---
+title: 2 Corinthians 3:17
+type: Verse
+kjv: "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty."
+bsb: "Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom."
+greek: "ὁ δὲ κύριος τὸ πνεῦμά ἐστιν· οὗ δὲ τὸ πνεῦμα κυρίου ἐκεῖ, ἐλευθερία."
+pericope: "[[2Cor.3.7 The Glory of the New Covenant|The Glory of the New Covenant]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 3
+book/chapter: "[[2Cor.3|2 Corinthians 3]]"
+chronological_order: 1076
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2962G]]"
+- "[[G4151G]]"
+- "[[G1510]]"
+- "[[G3757]]"
+- "[[G1563]]"
+- "[[G1657]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 3:17**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the Lord is that Spirit: and where the Spirit of the Lord [is], there [is] liberty.
 <small><sub>**BSB:**</sub></small>
 Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.
-<small><sub>**Literal:**</sub></small>
-The now Lord the Spirit is; where now the Spirit of [the] Lord [is] there [is] freedom.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.16|<< 2 Corinthians 3:16]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.18|2 Corinthians 3:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2962G\|κύριος]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμά]]  [[G1510\|ἐστιν·]]  [[G3757\|οὗ]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G2962G\|κυρίου]]  [[G1563\|ἐκεῖ,]]  [[G1657\|ἐλευθερία.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MYSTERIES|MYSTERIES]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.16|<< 2 Corinthians 3:16]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.18|2 Corinthians 3:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

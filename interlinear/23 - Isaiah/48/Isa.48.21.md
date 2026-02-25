@@ -1,8 +1,59 @@
+---
+title: Isaiah 48:21
+type: Verse
+kjv: "And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out."
+bsb: "They did not thirst when He led them through the deserts; He made water flow for them from the rock; He split the rock, and water gushed out."
+hebrew: "וְלֹ֣א צָמְא֗וּ בָּחֳרָבוֹת֙ הֽוֹלִיכָ֔ם מַ֥יִם מִצּ֖וּר הִזִּ֣יל לָ֑מוֹ וַיִּ֨בְקַע־ צ֔וּר וַיָּזֻ֖בוּ מָֽיִם׃"
+pericope: "[[Isa.48.12 Deliverance Promised to Israel|Deliverance Promised to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6770]]"
+- "[[H9003]]"
+- "[[H2723]]"
+- "[[H1980J]]"
+- "[[H9038]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H6697H]]"
+- "[[H5140]]"
+- "[[H9005]]"
+- "[[H9001]]"
+- "[[H1234]]"
+- "[[H9014]]"
+- "[[H2100G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:21**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they thirsted not [when] he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.
 <small><sub>**BSB:**</sub></small>
 They did not thirst when He led them through the deserts; He made water flow for them from the rock; He split the rock, and water gushed out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6770\|צָמְא֗וּ]] [[H9003\|בָּ]][[H2723\|חֳרָבוֹת֙]] [[H1980J\|הֽוֹלִיכָ֔]][[H9038\|ם]] [[H4325G\|מַ֥יִם]] [[H9006\|מִ]][[H6697H\|צּ֖וּר]] [[H5140\|הִזִּ֣יל]] [[H9005\|לָ֑]][[H9038\|מוֹ]] [[H9001\|וַ]][[H1234\|יִּ֨בְקַע]][[H9014\|־]] [[H6697H\|צ֔וּר]] [[H9001\|וַ]][[H2100G\|יָּזֻ֖בוּ]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.20|<< Isaiah 48:20]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.22|Isaiah 48:22 >>]]</td></tr></table>
 

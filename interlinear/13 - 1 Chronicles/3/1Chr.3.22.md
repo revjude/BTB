@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 3:22
+type: Verse
+kjv: "And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six."
+bsb: "The six descendants of Shecaniah were Shemaiah and his sons: Hattush, Igal, Bariah, Neariah, and Shaphat."
+hebrew: "וּבְנֵ֥י שְׁכַנְיָ֖ה שְׁמַעְיָ֑ה וּבְנֵ֣י שְׁמַעְיָ֗ה חַטּ֡וּשׁ וְ֠יִגְאָל וּבָרִ֧יחַ וּנְעַרְיָ֛ה וְשָׁפָ֖ט שִׁשָּֽׁה׃"
+pericope: "[[1Chr.3.17 The Royal Line After the Exile|The Royal Line After the Exile]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 3
+book/chapter: "[[1Chr.3|1 Chronicles 3]]"
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BARIAH|BARIAH]]"
+- "[[topic HATTUSH|HATTUSH]]"
+- "[[topic IGEAL|IGEAL]]"
+- "[[topic NEARIAH|NEARIAH]]"
+- "[[topic SHAPHAT|SHAPHAT]]"
+- "[[topic SHECHANIAH|SHECHANIAH]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H7935G]]"
+- "[[H8098B]]"
+- "[[H1121A]]"
+- "[[H2407G]]"
+- "[[H3008I]]"
+- "[[H1282]]"
+- "[[H5294G]]"
+- "[[H8202I]]"
+- "[[H8337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 3:22**<big><big>[[1Chr.3.17 The Royal Line After the Exile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six.
 <small><sub>**BSB:**</sub></small>
 The six descendants of Shecaniah were Shemaiah and his sons: Hattush, Igal, Bariah, Neariah, and Shaphat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֥י]] [[H7935G\|שְׁכַנְיָ֖ה]] [[H8098B\|שְׁמַעְיָ֑ה]] [[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H8098B\|שְׁמַעְיָ֗ה]] [[H2407G\|חַטּ֡וּשׁ]] [[H9002\|וְ֠]][[H3008I\|יִגְאָל]] [[H9002\|וּ]][[H1282\|בָרִ֧יחַ]] [[H9002\|וּ]][[H5294G\|נְעַרְיָ֛ה]] [[H9002\|וְ]][[H8202I\|שָׁפָ֖ט]] [[H8337\|שִׁשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARIAH|BARIAH]] • [[topic HATTUSH|HATTUSH]] • [[topic IGEAL|IGEAL]] • [[topic NEARIAH|NEARIAH]] • [[topic SHAPHAT|SHAPHAT]] • [[topic SHECHANIAH|SHECHANIAH]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.21|<< 1 Chronicles 3:21]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.23|1 Chronicles 3:23 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 18:8
+type: Verse
+kjv: "For the battle was there scattered over the face of all the country: and the wood devoured more people that day than the sword devoured."
+bsb: "The battle spread over the whole countryside, and that day the forest devoured more people than the sword."
+hebrew: "וַתְּהִי־ שָׁ֧ם הַמִּלְחָמָ֛ה נָפֹ֖צֶת עַל־ פְּנֵ֣י כָל־ הָאָ֑רֶץ וַיֶּ֤רֶב הַיַּ֙עַר֙ לֶאֱכֹ֣ל בָּעָ֔ם מֵאֲשֶׁ֥ר אָכְלָ֛ה הַחֶ֖רֶב בַּיּ֥וֹם הַהֽוּא׃"
+pericope: "[[2Sam.18.1 Absalom Killed|Absalom Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H6327A]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H7235A]]"
+- "[[H3293A]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H0834C]]"
+- "[[H2719]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 18:8**<big><big>[[2Sam.18.1 Absalom Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the battle was there scattered over the face of all the country: and the wood devoured more people that day than the sword devoured.
 <small><sub>**BSB:**</sub></small>
 The battle spread over the whole countryside, and that day the forest devoured more people than the sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִי]][[H9014\|־]] [[H8033G\|שָׁ֧ם]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֛ה]] [[H6327A\|נָפֹ֖צֶת]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H7235A\|יֶּ֤רֶב]] [[H9009\|הַ]][[H3293A\|יַּ֙עַר֙]] [[H9005\|לֶ]][[H0398\|אֱכֹ֣ל]] [[H9003\|בָּ]][[H5971A\|עָ֔ם]] [[H9006\|מֵ]][[H0834C\|אֲשֶׁ֥ר]] [[H0398\|אָכְלָ֛ה]] [[H9009\|הַ]][[H2719\|חֶ֖רֶב]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.18.7|<< 2 Samuel 18:7]]</td><td align="center" style="border:none;">[[2Sam.18|2 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.18.9|2 Samuel 18:9 >>]]</td></tr></table>
 

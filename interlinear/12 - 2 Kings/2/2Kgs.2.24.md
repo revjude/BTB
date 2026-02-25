@@ -1,8 +1,67 @@
+---
+title: 2 Kings 2:24
+type: Verse
+kjv: "And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them."
+bsb: "Then he turned around, looked at them, and called down a curse on them in the name of the LORD. Suddenly two female bears came out of the woods and mauled forty-two of the boys."
+hebrew: "וַיִּ֤פֶן אַֽחֲרָיו֙ וַיִּרְאֵ֔ם וַֽיְקַלְלֵ֖ם בְּשֵׁ֣ם יְהוָ֑ה וַתֵּצֶ֨אנָה שְׁתַּ֤יִם דֻּבִּים֙ מִן־ הַיַּ֔עַר וַתְּבַקַּ֣עְנָה מֵהֶ֔ם אַרְבָּעִ֥ים וּשְׁנֵ֖י יְלָדִֽים׃"
+pericope: "[[2Kgs.2.23 Elisha Mocked|Elisha Mocked]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 2
+book/chapter: "[[2Kgs.2|2 Kings 2]]"
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BEAR|BEAR]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H7200G]]"
+- "[[H9038]]"
+- "[[H7043]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H3318G]]"
+- "[[H8147]]"
+- "[[H1677]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3293A]]"
+- "[[H1234]]"
+- "[[H9006]]"
+- "[[H0705]]"
+- "[[H9002]]"
+- "[[H3206]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 2:24**<big><big>[[2Kgs.2.23 Elisha Mocked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.
 <small><sub>**BSB:**</sub></small>
 Then he turned around, looked at them, and called down a curse on them in the name of the LORD. Suddenly two female bears came out of the woods and mauled forty-two of the boys.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּ֤פֶן]] [[H0310A\|אַֽחֲרָי]][[H9033\|ו֙]] [[H9001\|וַ]][[H7200G\|יִּרְאֵ֔]][[H9038\|ם]] [[H9001\|וַֽ]][[H7043\|יְקַלְלֵ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H3318G\|תֵּצֶ֨אנָה]] [[H8147\|שְׁתַּ֤יִם]] [[H1677\|דֻּבִּים֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3293A\|יַּ֔עַר]] [[H9001\|וַ]][[H1234\|תְּבַקַּ֣עְנָה]] [[H9006\|מֵ]][[H9038\|הֶ֔ם]] [[H0705\|אַרְבָּעִ֥ים]] [[H9002\|וּ]][[H8147\|שְׁנֵ֖י]] [[H3206\|יְלָדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAR|BEAR]] • [[topic BETH-EL|BETH-EL]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.23|<< 2 Kings 2:23]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.25|2 Kings 2:25 >>]]</td></tr></table>
 

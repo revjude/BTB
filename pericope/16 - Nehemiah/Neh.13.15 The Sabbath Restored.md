@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sabbath Restored
+type: Pericope
 pericope: "[[Neh.13.15 The Sabbath Restored|The Sabbath Restored]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 13
 book/chapter: "[[Neh.13|Nehemiah 13]]"
-genre:
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 8
 verses:
 - "[[Neh.13.15]]"
 - "[[Neh.13.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Neh.13.22]]"
 ---
 
-[[Neh.13|Nehemiah 13:15 - Nehemiah 13:22]]
+<small>[[Neh.13|Nehemiah 13:15-22]]</small>
 *The Sabbath Restored*
 
 [[Neh.13.15|15]] In those days saw I in Judah \[some\] treading wine presses on the sabbath, and bringing in sheaves, and lading asses; as also wine, grapes, and figs, and all \[manner of\] burdens, which they brought into Jerusalem on the sabbath day: and I testified \[against them\] in the day wherein they sold victuals.

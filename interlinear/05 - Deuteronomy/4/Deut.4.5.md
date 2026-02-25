@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 4:5
+type: Verse
+kjv: "Behold, I have taught you statutes and judgments, even as the LORD my God commanded me, that ye should do so in the land whither ye go to possess it."
+bsb: "See, I have taught you statutes and ordinances just as the LORD my God has commanded me, so that you may follow them in the land that you are about to enter and possess."
+hebrew: "רְאֵ֣ה׀ לִמַּ֣דְתִּי אֶתְכֶ֗ם חֻקִּים֙ וּמִשְׁפָּטִ֔ים כַּאֲשֶׁ֥ר צִוַּ֖נִי יְהוָ֣ה אֱלֹהָ֑י לַעֲשׂ֣וֹת כֵּ֔ן בְּקֶ֣רֶב הָאָ֔רֶץ אֲשֶׁ֥ר אַתֶּ֛ם בָּאִ֥ים שָׁ֖מָּה לְרִשְׁתָּֽהּ׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H7200I]]"
+- "[[H9015]]"
+- "[[H3925G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H2706G]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:5**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have taught you statutes and judgments, even as the LORD my God commanded me, that ye should do so in the land whither ye go to possess it.
 <small><sub>**BSB:**</sub></small>
 See, I have taught you statutes and ordinances just as the LORD my God has commanded me, so that you may follow them in the land that you are about to enter and possess.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200I\|רְאֵ֣ה]][[H9015\|׀]] [[H3925G\|לִמַּ֣דְתִּי]] [[H0853\|אֶתְ]][[H9036\|כֶ֗ם]] [[H2706G\|חֻקִּים֙]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטִ֔ים]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6680\|צִוַּ֖]][[H9030\|נִי]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H3651C\|כֵּ֔ן]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֛ם]] [[H0935G\|בָּאִ֥ים]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.4|<< Deuteronomy 4:4]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.6|Deuteronomy 4:6 >>]]</td></tr></table>
 

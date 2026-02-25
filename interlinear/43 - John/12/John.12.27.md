@@ -1,10 +1,60 @@
+---
+title: John 12:27
+type: Verse
+kjv: "Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour."
+bsb: "Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? No, it is for this purpose that I have come to this hour."
+jesus_said: "Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour."
+greek: "Νῦν ἡ ψυχή μου τετάρακται, καὶ τί εἴπω; πάτερ, σῶσόν με ἐκ τῆς ὥρας ταύτης; ἀλλὰ διὰ τοῦτο ἦλθον εἰς τὴν ὥραν ταύτην."
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3568]]"
+- "[[G3588]]"
+- "[[G5590I]]"
+- "[[G3165]]"
+- "[[G5015]]"
+- "[[G2532]]"
+- "[[G5101]]"
+- "[[G2036]]"
+- "[[G3962]]"
+- "[[G4982]]"
+- "[[G1537]]"
+- "[[G5610]]"
+- "[[G3778]]"
+- "[[G0235]]"
+- "[[G1223]]"
+- "[[G2064]]"
+- "[[G1519]]"
+texts:
+- NKO
+---
+
 **John 12:27**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now is my soul troubled; and what shall I say? Father, save me from this hour: but for this cause came I unto this hour.
 <small><sub>**BSB:**</sub></small>
 Now My soul is troubled, and what shall I say? ‘Father, save Me from this hour’? No, it is for this purpose that I have come to this hour.
-<small><sub>**Literal:**</sub></small>
-Now the soul of Mine has been troubled, and what shall I say? Father, do save Me from <the> hour this.’? But on account of this I came to <the> hour this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.26|<< John 12:26]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.28|John 12:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3568\|Νῦν]]  [[G3588\|ἡ]]  [[G5590I\|ψυχή]]  [[G3165\|μου]]  [[G5015\|τετάρακται,]]  [[G2532\|καὶ]]  [[G5101\|τί]]  [[G2036\|εἴπω;]]  [[G3962\|πάτερ,]]  [[G4982\|σῶσόν]]  [[G3165\|με]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5610\|ὥρας]]  [[G3778\|ταύτης;]]  [[G0235\|ἀλλὰ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5610\|ὥραν]]  [[G3778\|ταύτην.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.26|<< John 12:26]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.28|John 12:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 12:27** is...
 > $\quad$ referencing: [[LXX.Ps.6.3|Ps 6:3]]

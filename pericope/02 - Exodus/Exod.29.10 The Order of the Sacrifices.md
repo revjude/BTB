@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Order of the Sacrifices
+type: Pericope
 pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 29
 book/chapter: "[[Exod.29|Exodus 29]]"
-genre:
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 21
 verses:
 - "[[Exod.29.10]]"
 - "[[Exod.29.11]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Exod.29.30]]"
 ---
 
-[[Exod.29|Exodus 29:10 - Exodus 29:30]]
+<small>[[Exod.29|Exodus 29:10-30]]</small>
 *The Order of the Sacrifices*
 
 [[Exod.29.10|10]] And thou shalt cause a bullock to be brought before the tabernacle of the congregation: and Aaron and his sons shall put their hands upon the head of the bullock.

@@ -1,10 +1,55 @@
+---
+title: Mark 1:23
+type: Verse
+kjv: "And there was in their synagogue a man with an unclean spirit; and he cried out,"
+bsb: "Suddenly a man with an unclean spirit cried out in the synagogue:"
+greek: "Καὶ εὐθὺς ἦν ἐν τῇ συναγωγῇ αὐτῶν ἄνθρωπος ἐν πνεύματι ἀκαθάρτῳ καὶ ἀνέκραξεν"
+pericope: "[[Mark.1.21 Jesus Expels an Unclean Spirit|Jesus Expels an Unclean Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G0846]]"
+- "[[G0444]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G0349]]"
+texts:
+- NKO
+- NO
+---
+
 **Mark 1:23**<big><big>[[Mark.1.21 Jesus Expels an Unclean Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was in their synagogue a man with an unclean spirit; and he cried out,
 <small><sub>**BSB:**</sub></small>
 Suddenly a man with an unclean spirit cried out in the synagogue:
-<small><sub>**Literal:**</sub></small>
-And immediately there was in the synagogue of them a man with a spirit unclean and he cried out<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.22|<< Mark 1:22]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.24|Mark 1:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2112\|εὐθὺς]]  [[G1510\|ἦν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4864\|συναγωγῇ]]  [[G0846\|αὐτῶν]]  [[G0444\|ἄνθρωπος]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0169\|ἀκαθάρτῳ]]  [[G2532\|καὶ]]  [[G0349\|ἀνέκραξεν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.22|<< Mark 1:22]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.24|Mark 1:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

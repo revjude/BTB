@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job’s Prosperity Becomes Calamity
+type: Pericope
 pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 30
 book/chapter: "[[Job.30|Job 30]]"
-genre:
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 17
 verses:
 - "[[Job.30.15]]"
 - "[[Job.30.16]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Job.30.31]]"
 ---
 
-[[Job.30|Job 30:15 - Job 30:31]]
+<small>[[Job.30|Job 30:15-31]]</small>
 *Job’s Prosperity Becomes Calamity*
 
 [[Job.30.15|15]] Terrors are turned upon me: they pursue my soul as the wind: and my welfare passeth away as a cloud.

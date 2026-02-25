@@ -1,8 +1,77 @@
+---
+title: Exodus 20:12
+type: Verse
+kjv: "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee."
+bsb: "Honor your father and mother, so that your days may be long in the land that the LORD your God is giving you."
+hebrew: "כַּבֵּ֥ד אֶת־ אָבִ֖יךָ וְאֶת־ אִמֶּ֑ךָ לְמַ֙עַן֙ יַאֲרִכ֣וּן יָמֶ֔יךָ עַ֚ל הָאֲדָמָ֔ה אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃ ס"
+pericope: "[[Exod.20.1 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H3513G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H4616]]"
+- "[[H0748]]"
+- "[[H9013]]"
+- "[[H3117G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 20:12**<big><big>[[Exod.20.1 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.
 <small><sub>**BSB:**</sub></small>
 Honor your father and mother, so that your days may be long in the land that the LORD your God is giving you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3513G\|כַּבֵּ֥ד]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0517\|אִמֶּ֑]][[H9021\|ךָ]] [[H4616\|לְמַ֙עַן֙]] [[H0748\|יַאֲרִכ֣וּ]][[H9013\|ן]] [[H3117G\|יָמֶ֔י]][[H9021\|ךָ]] [[H5921A\|עַ֚ל]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic LAW|LAW]] • [[topic LIFE|LIFE]] • [[topic LONGEVITY|LONGEVITY]] • [[topic MOTHER|MOTHER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REVERENCE|REVERENCE]] • [[topic REWARD|REWARD]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.11|<< Exodus 20:11]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.13|Exodus 20:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -26,7 +95,7 @@ Honor your father and mother, so that your days may be long in the land that the
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] about to give  |**<big>&#8207;[[H5414G\|נֹתֵ֥ן]]&#8207; </big>**| no.Ten<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.11|<< Exodus 20:11]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.13|Exodus 20:13 >>]]</td></tr></table>
 
 

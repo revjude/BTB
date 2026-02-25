@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 4:46
+type: Verse
+kjv: "On this side Jordan, in the valley over against Bethpeor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:"
+bsb: "while they were in the valley across the Jordan facing Beth-peor in the land of Sihon king of the Amorites, who lived in Heshbon and was defeated by Moses and the Israelites after they had come out of Egypt."
+hebrew: "בְּעֵ֨בֶר הַיַּרְדֵּ֜ן בַּגַּ֗יְא מ֚וּל בֵּ֣ית פְּע֔וֹר בְּאֶ֗רֶץ סִיחֹן֙ מֶ֣לֶךְ הָֽאֱמֹרִ֔י אֲשֶׁ֥ר יוֹשֵׁ֖ב בְּחֶשְׁבּ֑וֹן אֲשֶׁ֨ר הִכָּ֤ה מֹשֶׁה֙ וּבְנֵֽי יִשְׂרָאֵ֔ל בְּצֵאתָ֖ם מִמִּצְרָֽיִם׃"
+pericope: "[[Deut.4.44 Introduction to the Law|Introduction to the Law]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BETH-PEOR|BETH-PEOR]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[H9003]]"
+- "[[H5676H]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H1516R]]"
+- "[[H4136]]"
+- "[[H1047]]"
+- "[[H0776G]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H0567]]"
+- "[[H0834A]]"
+- "[[H3427]]"
+- "[[H2809]]"
+- "[[H5221]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3318G]]"
+- "[[H9048]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:46**<big><big>[[Deut.4.44 Introduction to the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On this side Jordan, in the valley over against Bethpeor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:
 <small><sub>**BSB:**</sub></small>
 while they were in the valley across the Jordan facing Beth-peor in the land of Sihon king of the Amorites, who lived in Heshbon and was defeated by Moses and the Israelites after they had come out of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5676H\|עֵ֨בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֜ן]] [[H9003\|בַּ]][[H1516R\|גַּ֗יְא]] [[H4136\|מ֚וּל]] [[H1047\|בֵּ֣ית]] [[H1047\|פְּע֔וֹר]] [[H9003\|בְּ]][[H0776G\|אֶ֗רֶץ]] [[H5511\|סִיחֹן֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H3427\|יוֹשֵׁ֖ב]] [[H9003\|בְּ]][[H2809\|חֶשְׁבּ֑וֹן]] [[H0834A\|אֲשֶׁ֨ר]] [[H5221\|הִכָּ֤ה]] [[H4872\|מֹשֶׁה֙]] [[H9002\|וּ]][[H1121G\|בְנֵֽי]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H3318G\|צֵאתָ֖]][[H9048\|ם]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-PEOR|BETH-PEOR]] • [[topic LAW|LAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.45|<< Deuteronomy 4:45]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.47|Deuteronomy 4:47 >>]]</td></tr></table>
 

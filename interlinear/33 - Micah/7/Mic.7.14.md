@@ -1,8 +1,63 @@
+---
+title: Micah 7:14
+type: Verse
+kjv: "Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old."
+bsb: "Shepherd with Your staff Your people, the flock of Your inheritance. They live alone in a woodland, surrounded by pastures. Let them graze in Bashan and Gilead, as in the days of old."
+hebrew: "רְעֵ֧ה עַמְּךָ֣ בְשִׁבְטֶ֗ךָ צֹ֚אן נַֽחֲלָתֶ֔ךָ שֹׁכְנִ֣י לְבָדָ֔ד יַ֖עַר בְּת֣וֹךְ כַּרְמֶ֑ל יִרְע֥וּ בָשָׁ֛ן וְגִלְעָ֖ד כִּימֵ֥י עוֹלָֽם׃"
+pericope: "[[Mic.7.14 God’s Compassion on Israel|God’s Compassion on Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H7462B]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H7626G]]"
+- "[[H6629G]]"
+- "[[H5159]]"
+- "[[H7931]]"
+- "[[H9005]]"
+- "[[H0910]]"
+- "[[H3293A]]"
+- "[[H8432]]"
+- "[[H3759]]"
+- "[[H1316]]"
+- "[[H9002]]"
+- "[[H1568G]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H5769J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:14**<big><big>[[Mic.7.14 God’s Compassion on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily [in] the wood, in the midst of Carmel: let them feed [in] Bashan and Gilead, as in the days of old.
 <small><sub>**BSB:**</sub></small>
 Shepherd with Your staff Your people, the flock of Your inheritance. They live alone in a woodland, surrounded by pastures. Let them graze in Bashan and Gilead, as in the days of old.
+<small><sub>**Hebrew:**</sub></small>
+[[H7462B\|רְעֵ֧ה]] [[H5971A\|עַמְּ]][[H9021\|ךָ֣]] [[H9003\|בְ]][[H7626G\|שִׁבְטֶ֗]][[H9021\|ךָ]] [[H6629G\|צֹ֚אן]] [[H5159\|נַֽחֲלָתֶ֔]][[H9021\|ךָ]] [[H7931\|שֹׁכְנִ֣י]] [[H9005\|לְ]][[H0910\|בָדָ֔ד]] [[H3293A\|יַ֖עַר]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H3759\|כַּרְמֶ֑ל]] [[H7462B\|יִרְע֥וּ]] [[H1316\|בָשָׁ֛ן]] [[H9002\|וְ]][[H1568G\|גִלְעָ֖ד]] [[H9004\|כִּ]][[H3117G\|ימֵ֥י]] [[H5769J\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic CARMEL|CARMEL]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.13|<< Micah 7:13]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.15|Micah 7:15 >>]]</td></tr></table>
 

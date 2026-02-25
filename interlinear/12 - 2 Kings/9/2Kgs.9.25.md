@@ -1,8 +1,87 @@
+---
+title: 2 Kings 9:25
+type: Verse
+kjv: "Then said Jehu to Bidkar his captain, Take up, and cast him in the portion of the field of Naboth the Jezreelite: for remember how that, when I and thou rode together after Ahab his father, the LORD laid this burden upon him;"
+bsb: "And Jehu said to Bidkar his officer, “Pick him up and throw him into the field of Naboth the Jezreelite. For remember that when you and I were riding together behind his father Ahab, the LORD lifted up this burden against him:"
+hebrew: "וַיֹּ֗אמֶר אֶל־ בִּדְקַר֙ שָֽׁלִשׁ֔וֹ שָׂ֚א הַשְׁלִכֵ֔הוּ בְּחֶלְקַ֕ת שְׂדֵ֖ה נָב֣וֹת הַיִּזְרְעֵאלִ֑י כִּֽי־ זְכֹ֞ר אֲנִ֣י וָאַ֗תָּה אֵ֣ת רֹכְבִ֤ים צְמָדִים֙ אַֽחֲרֵי֙ אַחְאָ֣ב אָבִ֔יו וַֽיהוָה֙ נָשָׂ֣א עָלָ֔יו אֶת־ הַמַּשָּׂ֖א הַזֶּֽה׃"
+pericope: "[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|Jehu Kills Joram and Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic BIDKAR|BIDKAR]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0920]]"
+- "[[H7969]]"
+- "[[H7991C]]"
+- "[[H9023]]"
+- "[[H5375G]]"
+- "[[H7993]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2513A]]"
+- "[[H7704B]]"
+- "[[H5022]]"
+- "[[H9009]]"
+- "[[H3158H]]"
+- "[[H3588A]]"
+- "[[H2142]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0853]]"
+- "[[H7392]]"
+- "[[H6776]]"
+- "[[H0310A]]"
+- "[[H0256G]]"
+- "[[H0001G]]"
+- "[[H3068G]]"
+- "[[H5375N]]"
+- "[[H5921A]]"
+- "[[H4853B]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 9:25**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said [Jehu] to Bidkar his captain, Take up, [and] cast him in the portion of the field of Naboth the Jezreelite: for remember how that, when I and thou rode together after Ahab his father, the LORD laid this burden upon him;
 <small><sub>**BSB:**</sub></small>
 And Jehu said to Bidkar his officer, “Pick him up and throw him into the field of Naboth the Jezreelite. For remember that when you and I were riding together behind his father Ahab, the LORD lifted up this burden against him:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H0920\|בִּדְקַר֙]] [[H7991C\|שָֽׁלִשׁ֔]][[H9023\|וֹ]] [[H5375G\|שָׂ֚א]] [[H7993\|הַשְׁלִכֵ֔]][[H9033\|הוּ]] [[H9003\|בְּ]][[H2513A\|חֶלְקַ֕ת]] [[H7704B\|שְׂדֵ֖ה]] [[H5022\|נָב֣וֹת]] [[H9009\|הַ]][[H3158H\|יִּזְרְעֵאלִ֑י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2142\|זְכֹ֞ר]] [[H0589\|אֲנִ֣י]] [[H9002\|וָ]][[H0859A\|אַ֗תָּה]] [[H0853\|אֵ֣ת]] [[H7392\|רֹכְבִ֤ים]] [[H6776\|צְמָדִים֙]] [[H0310A\|אַֽחֲרֵי֙]] [[H0256G\|אַחְאָ֣ב]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9002\|וַֽ]][[H3068G\|יהוָה֙]] [[H5375N\|נָשָׂ֣א]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4853B\|מַּשָּׂ֖א]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic AHAZIAH|AHAZIAH]] • [[topic BIDKAR|BIDKAR]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECISION|DECISION]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic JEZREEL|JEZREEL]] • [[topic JORAM|JORAM]] • [[topic NABOTH|NABOTH]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.24|<< 2 Kings 9:24]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.26|2 Kings 9:26 >>]]</td></tr></table>
 

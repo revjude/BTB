@@ -1,10 +1,66 @@
+---
+title: 1 Peter 2:24
+type: Verse
+kjv: "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed."
+bsb: "He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.”"
+greek: "ὃς τὰς ἁμαρτίας ἡμῶν αὐτὸς ἀνήνεγκεν ἐν τῷ σώματι αὐτοῦ ἐπὶ τὸ ξύλον ἵνα ταῖς ἁμαρτίαις ἀπογενόμενοι τῇ δικαιοσύνῃ ζήσωμεν· οὗ τῷ μώλωπι αὐτοῦ ἰάθητε."
+pericope: "[[1Pet.2.21 Christ’s Example of Suffering|Christ’s Example of Suffering]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G3165]]"
+- "[[G0846]]"
+- "[[G0399]]"
+- "[[G1722]]"
+- "[[G4983]]"
+- "[[G1909]]"
+- "[[G3586]]"
+- "[[G2443]]"
+- "[[G0581]]"
+- "[[G1343]]"
+- "[[G2198]]"
+- "[[G3468]]"
+- "[[G2390]]"
+texts:
+- NKO
+- k
+---
+
 **1 Peter 2:24**<big><big>[[1Pet.2.21 Christ’s Example of Suffering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.
 <small><sub>**BSB:**</sub></small>
 He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.”
-<small><sub>**Literal:**</sub></small>
-Who the sins of us Himself bore in the body of Him on the tree so that <the> to sins having been dead <the> to righteousness we may live; Of whom by the wounds of him you have been healed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.23|<< 1 Peter 2:23]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.25|1 Peter 2:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G3588\|τὰς]]  [[G0266\|ἁμαρτίας]]  [[G3165\|ἡμῶν]]  [[G0846\|αὐτὸς]]  [[G0399\|ἀνήνεγκεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4983\|σώματι]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3586\|ξύλον]]  [[G2443\|ἵνα]]  [[G3588\|ταῖς]]  [[G0266\|ἁμαρτίαις]]  [[G0581\|ἀπογενόμενοι]]  [[G3588\|τῇ]]  [[G1343\|δικαιοσύνῃ]]  [[G2198\|ζήσωμεν·]]  [[G3739\|οὗ]]  [[G3588\|τῷ]]  [[G3468\|μώλωπι]]  [[G0846\|αὐτοῦ]]  [[G2390\|ἰάθητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ATONEMENT|ATONEMENT]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DEATH|DEATH]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.23|<< 1 Peter 2:23]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.25|1 Peter 2:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 2:24** is...
 > $\quad$ referencing: [[LXX.Isa.53.4|Isa 53:4-5]] ☩ [[LXX.Isa.53.12|Isa 53:12]]

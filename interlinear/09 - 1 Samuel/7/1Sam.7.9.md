@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 7:9
+type: Verse
+kjv: "And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him."
+bsb: "Then Samuel took a suckling lamb and offered it as a whole burnt offering to the LORD. He cried out to the LORD on behalf of Israel, and the LORD answered him."
+hebrew: "וַיִּקַּ֣ח שְׁמוּאֵ֗ל טְלֵ֤ה חָלָב֙ אֶחָ֔ד וַיַּעֲלֵ֧הוּ עוֹלָ֛ה כָּלִ֖יל לַֽיהוָ֑ה וַיִּזְעַ֨ק שְׁמוּאֵ֤ל אֶל־ יְהוָה֙ בְּעַ֣ד יִשְׂרָאֵ֔ל וַֽיַּעֲנֵ֖הוּ יְהוָֽה׃"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H8050G]]"
+- "[[H2924]]"
+- "[[H2461]]"
+- "[[H0259]]"
+- "[[H5927I]]"
+- "[[H9033]]"
+- "[[H5930A]]"
+- "[[H3632]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1157]]"
+- "[[H3478]]"
+- "[[H6030B]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 7:9**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel took a sucking lamb, and offered [it for] a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him.
 <small><sub>**BSB:**</sub></small>
 Then Samuel took a suckling lamb and offered it as a whole burnt offering to the LORD. He cried out to the LORD on behalf of Israel, and the LORD answered him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H8050G\|שְׁמוּאֵ֗ל]] [[H2924\|טְלֵ֤ה]] [[H2461\|חָלָב֙]] [[H0259\|אֶחָ֔ד]] [[H9001\|וַ]][[H5927I\|יַּעֲלֵ֧]][[H9033\|הוּ]] [[H5930A\|עוֹלָ֛ה]] [[H3632\|כָּלִ֖יל]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H9001\|וַ]][[H2199\|יִּזְעַ֨ק]] [[H8050G\|שְׁמוּאֵ֤ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H1157\|בְּעַ֣ד]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַֽ]][[H6030B\|יַּעֲנֵ֖]][[H9033\|הוּ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.8|<< 1 Samuel 7:8]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.10|1 Samuel 7:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -31,8 +85,8 @@ Then Samuel took a suckling lamb and offered it as a whole burnt offering to the
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.8|<< 1 Samuel 7:8]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.10|1 Samuel 7:10 >>]]</td></tr></table>
 
-[^1]: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> | K
-[^2]: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> | K
-[^3]: and he offered up  | **<big>[[H5927I|יַּעֲלֶה]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> | K
+[^1]: and he offered up  | **<big>[[H9001|וַ]]</big><big>[[H5927I|יַּעֲלֶה]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and he offered up  | **<big>[[H9001|וַ]]</big><big>[[H5927I|יַּעֲלֶה]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> | K
+[^3]: and he offered up  | **<big>[[H9001|וַ]]</big><big>[[H5927I|יַּעֲלֶה]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.ya.'a.leh<small><sup>[[HVqw3ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וַיַּעֲלֵ֧הֻ</big></span>**
 

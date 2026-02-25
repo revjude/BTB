@@ -1,10 +1,55 @@
+---
+title: Revelation 15:5
+type: Verse
+kjv: "And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:"
+bsb: "After this I looked, and the temple—the tabernacle of the Testimony—was opened in heaven."
+greek: "Καὶ μετὰ ταῦτα εἶδον καὶ ἰδού ἠνοίγη ὁ ναὸς τῆς σκηνῆς τοῦ μαρτυρίου ἐν τῷ οὐρανῷ."
+pericope: "[[Rev.15.5 Preparation for Judgment|Preparation for Judgment]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 15
+book/chapter: "[[Rev.15|Revelation 15]]"
+chronological_order: 1182
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G1492H]]"
+- "[[G2400]]"
+- "[[G0455]]"
+- "[[G3588]]"
+- "[[G3485]]"
+- "[[G4633]]"
+- "[[G3142]]"
+- "[[G1722]]"
+- "[[G3772]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 15:5**<big><big>[[Rev.15.5 Preparation for Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:
 <small><sub>**BSB:**</sub></small>
 After this I looked, and the temple—the tabernacle of the Testimony—was opened in heaven.
-<small><sub>**Literal:**</sub></small>
-And after these things I looked and behold was opened the temple of the tabernacle of the testimony in <the> heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.4|<< Revelation 15:4]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.6|Revelation 15:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3326\|μετὰ]]  [[G3778\|ταῦτα]]  [[G1492H\|εἶδον]]  [[G2532\|καὶ]]  [[G2400\|ἰδού]]  [[G0455\|ἠνοίγη]]  [[G3588\|ὁ]]  [[G3485\|ναὸς]]  [[G3588\|τῆς]]  [[G4633\|σκηνῆς]]  [[G3588\|τοῦ]]  [[G3142\|μαρτυρίου]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.15.4|<< Revelation 15:4]]</td><td align="center" style="border:none;">[[Rev.15|Revelation 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.6|Revelation 15:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,53 @@
+---
+title: Psalm 100:1
+type: Verse
+kjv: "Make a joyful noise unto the LORD, all ye lands."
+bsb: "A Psalm of thanksgiving. Make a joyful noise to the LORD, all the earth."
+hebrew: "הָרִ֥יעוּ לַ֝יהוָ֗ה כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Ps.100.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 100
+book/chapter: "[[Ps.100|Psalm 100]]"
+chronological_order: 527
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H7321]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 100:1**<big><big>[[Ps.100.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make a joyful noise unto the LORD, all ye lands.
 <small><sub>**BSB:**</sub></small>
 A Psalm of thanksgiving. Make a joyful noise to the LORD, all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H7321\|הָרִ֥יעוּ]] [[H9005\|לַ֝]][[H3068G\|יהוָ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.100.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.100.0|<< Psalms 100:0]]</td><td align="center" style="border:none;">[[Ps.100|Psalms 100]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.100.2|Psalms 100:2 >>]]</td></tr></table>
 

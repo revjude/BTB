@@ -1,10 +1,57 @@
+---
+title: Revelation 8:4
+type: Verse
+kjv: "And the smoke of the incense, which came with the prayers of the saints, ascended up before God out of the angel’s hand."
+bsb: "And the smoke of the incense, together with the prayers of the saints, rose up before God from the hand of the angel."
+greek: "καὶ ἀνέβη ὁ καπνὸς τῶν θυμιαμάτων ταῖς προσευχαῖς τῶν ἁγίων ἐκ χειρὸς τοῦ ἀγγέλου ἐνώπιον τοῦ θεοῦ."
+pericope: "[[Rev.8.1 The Seventh Seal|The Seventh Seal]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 8
+book/chapter: "[[Rev.8|Revelation 8]]"
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G2586]]"
+- "[[G2368]]"
+- "[[G4335]]"
+- "[[G0040H]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G0032G]]"
+- "[[G1799]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Revelation 8:4**<big><big>[[Rev.8.1 The Seventh Seal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the smoke of the incense, [which came] with the prayers of the saints, ascended up before God out of the angel’s hand.
 <small><sub>**BSB:**</sub></small>
 And the smoke of the incense, together with the prayers of the saints, rose up before God from the hand of the angel.
-<small><sub>**Literal:**</sub></small>
-And went up the smoke of the incense with the prayers of the saints out of [the] hand of the angel before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.3|<< Revelation 8:3]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.5|Revelation 8:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0305\|ἀνέβη]]  [[G3588\|ὁ]]  [[G2586\|καπνὸς]]  [[G3588\|τῶν]]  [[G2368\|θυμιαμάτων]]  [[G3588\|ταῖς]]  [[G4335\|προσευχαῖς]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G1537\|ἐκ]]  [[G5495\|χειρὸς]]  [[G3588\|τοῦ]]  [[G0032G\|ἀγγέλου]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic INCENSE|INCENSE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.3|<< Revelation 8:3]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.5|Revelation 8:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

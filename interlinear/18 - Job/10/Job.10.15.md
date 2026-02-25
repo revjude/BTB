@@ -1,8 +1,63 @@
+---
+title: Job 10:15
+type: Verse
+kjv: "If I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see thou mine affliction;"
+bsb: "If I am guilty, woe to me! And even if I am righteous, I cannot lift my head. I am full of shame and aware of my affliction."
+hebrew: "אִם־ רָשַׁ֡עְתִּי אַלְלַ֬י לִ֗י וְ֭צָדַקְתִּי לֹא־ אֶשָּׂ֣א רֹאשִׁ֑י שְׂבַ֥ע קָ֝ל֗וֹן וּרְאֵ֥ה עָנְיִֽי׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7561]]"
+- "[[H0480]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H6663]]"
+- "[[H3808]]"
+- "[[H5375Q]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H7649]]"
+- "[[H7036]]"
+- "[[H9002]]"
+- "[[H7202]]"
+- "[[H6040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:15**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I be wicked, woe unto me; and [if] I be righteous, [yet] will I not lift up my head. [I am] full of confusion; therefore see thou mine affliction;
 <small><sub>**BSB:**</sub></small>
 If I am guilty, woe to me! And even if I am righteous, I cannot lift my head. I am full of shame and aware of my affliction.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7561\|רָשַׁ֡עְתִּי]] [[H0480\|אַלְלַ֬י]] [[H9005\|לִ֗]][[H9030\|י]] [[H9001\|וְ֭]][[H6663\|צָדַקְתִּי]] [[H3808\|לֹא]][[H9014\|־]] [[H5375Q\|אֶשָּׂ֣א]] [[H7218A\|רֹאשִׁ֑]][[H9020\|י]] [[H7649\|שְׂבַ֥ע]] [[H7036\|קָ֝ל֗וֹן]] [[H9002\|וּ]][[H7202\|רְאֵ֥ה]] [[H6040\|עָנְיִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.14|<< Job 10:14]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.16|Job 10:16 >>]]</td></tr></table>
 

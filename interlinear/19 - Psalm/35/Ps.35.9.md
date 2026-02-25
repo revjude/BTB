@@ -1,8 +1,55 @@
+---
+title: Psalm 35:9
+type: Verse
+kjv: "And my soul shall be joyful in the LORD: it shall rejoice in his salvation."
+bsb: "Then my soul will rejoice in the LORD and exult in His salvation."
+hebrew: "וְ֭נַפְשִׁי תָּגִ֣יל בַּיהוָ֑ה תָּ֝שִׂישׂ בִּישׁוּעָתֽוֹ׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic JOY|JOY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H1523]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H7797]]"
+- "[[H3444]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:9**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And my soul shall be joyful in the LORD: it shall rejoice in his salvation.
 <small><sub>**BSB:**</sub></small>
 Then my soul will rejoice in the LORD and exult in His salvation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H5315G\|נַפְשִׁ]][[H9020\|י]] [[H1523\|תָּגִ֣יל]] [[H9003\|בַּ]][[H3068G\|יהוָ֑ה]] [[H7797\|תָּ֝שִׂישׂ]] [[H9003\|בִּ]][[H3444\|ישׁוּעָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic JOY|JOY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.8|<< Psalms 35:8]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.10|Psalms 35:10 >>]]</td></tr></table>
 

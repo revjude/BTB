@@ -1,10 +1,63 @@
+---
+title: Matthew 20:20
+type: Verse
+kjv: "Then came to him the mother of Zebedee’s children with her sons, worshipping him, and desiring a certain thing of him."
+bsb: "Then the mother of Zebedee’s sons came to Jesus with her sons and knelt down to make a request of Him."
+greek: "Τότε προσῆλθεν αὐτῷ ἡ μήτηρ τῶν υἱῶν Ζεβεδαίου μετὰ τῶν υἱῶν αὐτῆς προσκυνοῦσα καὶ αἰτοῦσά τι ἀπ᾽ αὐτοῦ.¶"
+pericope: "[[Matt.20.20 A Mother’s Request|A Mother’s Request]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SALOME|SALOME]]"
+- "[[topic ZEBEDEE|ZEBEDEE]]"
+strongs:
+- "[[G5119]]"
+- "[[G4334]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G5207]]"
+- "[[G2199G]]"
+- "[[G3326]]"
+- "[[G4352]]"
+- "[[G2532]]"
+- "[[G0154]]"
+- "[[G5100]]"
+- "[[G0575]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 20:20**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came to him the mother of Zebedee’s children with her sons, worshipping [him], and desiring a certain thing of him.
 <small><sub>**BSB:**</sub></small>
 Then the mother of Zebedee’s sons came to Jesus with her sons and knelt down to make a request of Him.
-<small><sub>**Literal:**</sub></small>
-Then came to Him the mother of the sons of Zebedee with the sons of her kneeling down and asking something away from Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.19|<< Matthew 20:19]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.21|Matthew 20:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4334\|προσῆλθεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G3588\|τῶν]]  [[G5207\|υἱῶν]]  [[G2199G\|Ζεβεδαίου]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G5207\|υἱῶν]]  [[G0846\|αὐτῆς]]  [[G4352\|προσκυνοῦσα]]  [[G2532\|καὶ]]  [[G0154\|αἰτοῦσά]]  [[G5100\|τι]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic SALOME|SALOME]] • [[topic ZEBEDEE|ZEBEDEE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.19|<< Matthew 20:19]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.21|Matthew 20:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

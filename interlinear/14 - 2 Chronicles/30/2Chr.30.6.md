@@ -1,8 +1,81 @@
+---
+title: 2 Chronicles 30:6
+type: Verse
+kjv: "So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the LORD God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria."
+bsb: "At the command of the king, the couriers went throughout Israel and Judah with letters from the king and his officials, which read: “Children of Israel, return to the LORD, the God of Abraham, Isaac, and Israel, so that He may return to those of you who remain, who have escaped the grasp of the kings of Assyria."
+hebrew: "וַיֵּלְכוּ֩ הָרָצִ֨ים בָּֽאִגְּר֜וֹת מִיַּ֧ד הַמֶּ֣לֶךְ וְשָׂרָ֗יו בְּכָל־ יִשְׂרָאֵל֙ וִֽיהוּדָ֔ה וּכְמִצְוַ֥ת הַמֶּ֖לֶךְ לֵאמֹ֑ר בְּנֵ֣י יִשְׂרָאֵ֗ל שׁ֚וּבוּ אֶל־ יְהוָ֗ה אֱלֹהֵי֙ אַבְרָהָם֙ יִצְחָ֣ק וְיִשְׂרָאֵ֔ל וְיָשֹׁב֙ אֶל־ הַפְּלֵיטָ֔ה הַנִּשְׁאֶ֣רֶת לָכֶ֔ם מִכַּ֖ף מַלְכֵ֥י אַשּֽׁוּר׃"
+pericope: "[[2Chr.30.1 Hezekiah Proclaims a Passover|Hezekiah Proclaims a Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 30
+book/chapter: "[[2Chr.30|2 Chronicles 30]]"
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DERISION|DERISION]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic POST|POST]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H7323G]]"
+- "[[H9003]]"
+- "[[H0107]]"
+- "[[H9006]]"
+- "[[H3027K]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H9004]]"
+- "[[H4687]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1121G]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H6413]]"
+- "[[H7604]]"
+- "[[H9036]]"
+- "[[H3709G]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 30:6**<big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the LORD God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria.
 <small><sub>**BSB:**</sub></small>
 At the command of the king, the couriers went throughout Israel and Judah with letters from the king and his officials, which read: “Children of Israel, return to the LORD, the God of Abraham, Isaac, and Israel, so that He may return to those of you who remain, who have escaped the grasp of the kings of Assyria.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכוּ֩]] [[H9009\|הָ]][[H7323G\|רָצִ֨ים]] [[H9003\|בָּֽ]][[H0107\|אִגְּר֜וֹת]] [[H9006\|מִ]][[H3027K\|יַּ֧ד]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H9002\|וְ]][[H8269\|שָׂרָ֗י]][[H9023\|ו]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9002\|וִֽ]][[H3063G\|יהוּדָ֔ה]] [[H9002\|וּ]][[H9004\|כְ]][[H4687\|מִצְוַ֥ת]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H7725G\|שׁ֚וּבוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0430G\|אֱלֹהֵי֙]] [[H0085\|אַבְרָהָם֙]] [[H3327\|יִצְחָ֣ק]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H7725G\|יָשֹׁב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6413\|פְּלֵיטָ֔ה]] [[H9009\|הַ]][[H7604\|נִּשְׁאֶ֣רֶת]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9006\|מִ]][[H3709G\|כַּ֖ף]] [[H4428G\|מַלְכֵ֥י]] [[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DERISION|DERISION]] • [[topic INFIDELITY|INFIDELITY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONTH|MONTH]] • [[topic POST|POST]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.5|<< 2 Chronicles 30:5]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.7|2 Chronicles 30:7 >>]]</td></tr></table>
 

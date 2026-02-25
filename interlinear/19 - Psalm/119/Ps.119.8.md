@@ -1,8 +1,57 @@
+---
+title: Psalm 119:8
+type: Verse
+kjv: "I will keep thy statutes: O forsake me not utterly."
+bsb: "I will keep Your statutes; do not utterly forsake me."
+hebrew: "אֶת־ חֻקֶּ֥יךָ אֶשְׁמֹ֑ר אַֽל־ תַּעַזְבֵ֥נִי עַד־ מְאֹֽד׃"
+pericope: "[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|Your Word Is a Lamp to My Feet - ALEPH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2706G]]"
+- "[[H9021]]"
+- "[[H8104G]]"
+- "[[H0408]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H5704]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:8**<big><big>[[Ps.119.1 Your Word Is a Lamp to My Feet - ALEPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will keep thy statutes: O forsake me not utterly.
 <small><sub>**BSB:**</sub></small>
 I will keep Your statutes; do not utterly forsake me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H2706G\|חֻקֶּ֥י]][[H9021\|ךָ]] [[H8104G\|אֶשְׁמֹ֑ר]] [[H0408\|אַֽל]][[H9014\|־]] [[H5800A\|תַּעַזְבֵ֥]][[H9030\|נִי]] [[H5704\|עַד]][[H9014\|־]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.7|<< Psalms 119:7]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.9|Psalms 119:9 >>]]</td></tr></table>
 

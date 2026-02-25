@@ -1,8 +1,61 @@
+---
+title: Ezekiel 16:26
+type: Verse
+kjv: "Thou hast also committed fornication with the Egyptians thy neighbours, great of flesh; and hast increased thy whoredoms, to provoke me to anger."
+bsb: "You prostituted yourself with your lustful neighbors, the Egyptians, and increased your promiscuity to provoke Me to anger."
+hebrew: "וַתִּזְנִ֧י אֶל־ בְּנֵֽי־ מִצְרַ֛יִם שְׁכֵנַ֖יִךְ גִּדְלֵ֣י בָשָׂ֑ר וַתַּרְבִּ֥י אֶת־ תַּזְנֻתֵ֖ךְ לְהַכְעִיסֵֽנִי׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2181]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H4714G]]"
+- "[[H7934]]"
+- "[[H9022]]"
+- "[[H1432]]"
+- "[[H1320]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H8457]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:26**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast also committed fornication with the Egyptians thy neighbours, great of flesh; and hast increased thy whoredoms, to provoke me to anger.
 <small><sub>**BSB:**</sub></small>
 You prostituted yourself with your lustful neighbors, the Egyptians, and increased your promiscuity to provoke Me to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2181\|תִּזְנִ֧י]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H4714G\|מִצְרַ֛יִם]] [[H7934\|שְׁכֵנַ֖יִ]][[H9022\|ךְ]] [[H1432\|גִּדְלֵ֣י]] [[H1320\|בָשָׂ֑ר]] [[H9001\|וַ]][[H7235A\|תַּרְבִּ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H8457\|תַּזְנֻתֵ֖]][[H9022\|ךְ]] [[H9005\|לְ]][[H3707\|הַכְעִיסֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.25|<< Ezekiel 16:25]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.27|Ezekiel 16:27 >>]]</td></tr></table>
 

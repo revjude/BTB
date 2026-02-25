@@ -1,10 +1,57 @@
+---
+title: Galatians 1:6
+type: Verse
+kjv: "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:"
+bsb: "I am amazed how quickly you are deserting the One who called you by the grace of Christ and are turning to a different gospel—"
+greek: "Θαυμάζω ὅτι οὕτως ταχέως μετατίθεσθε ἀπὸ τοῦ καλέσαντος ὑμᾶς ἐν χάριτι Χριστοῦ εἰς ἕτερον εὐαγγέλιον"
+pericope: "[[Gal.1.6 No Other Gospel|No Other Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2296]]"
+- "[[G3754G]]"
+- "[[G3779]]"
+- "[[G5030]]"
+- "[[G3346]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2564G]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G5485]]"
+- "[[G5547]]"
+- "[[G1519]]"
+- "[[G2087]]"
+- "[[G2098]]"
+texts:
+- NKO
+---
+
 **Galatians 1:6**<big><big>[[Gal.1.6 No Other Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
 <small><sub>**BSB:**</sub></small>
 I am amazed how quickly you are deserting the One who called you by the grace of Christ and are turning to a different gospel—
-<small><sub>**Literal:**</sub></small>
-I am astonished that so soon you are deserting from the [One who] having called you in [the] grace of Christ to a different gospel<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.5|<< Galatians 1:5]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.7|Galatians 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2296\|Θαυμάζω]]  [[G3754G\|ὅτι]]  [[G3779\|οὕτως]]  [[G5030\|ταχέως]]  [[G3346\|μετατίθεσθε]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2564G\|καλέσαντος]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G5485\|χάριτι]]  [[G5547\|Χριστοῦ]]  [[G1519\|εἰς]]  [[G2087\|ἕτερον]]  [[G2098\|εὐαγγέλιον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DOCTRINES|DOCTRINES]] • [[topic INSTABILITY|INSTABILITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.5|<< Galatians 1:5]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.7|Galatians 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

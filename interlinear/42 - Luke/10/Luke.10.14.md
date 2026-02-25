@@ -1,10 +1,58 @@
+---
+title: Luke 10:14
+type: Verse
+kjv: "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you."
+bsb: "But it will be more bearable for Tyre and Sidon at the judgment than for you."
+jesus_said: "But it shall be more tolerable for Tyre and Sidon at the judgment, than for you."
+greek: "πλὴν Τύρῳ καὶ Σιδῶνι ἀνεκτότερον ἔσται ἐν τῇ κρίσει ἢ ὑμῖν."
+pericope: "[[Luke.10.13 Woe to the Unrepentant|Woe to the Unrepentant]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SEVENTY|SEVENTY]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G4133]]"
+- "[[G5184]]"
+- "[[G2532]]"
+- "[[G4605]]"
+- "[[G0414]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2920]]"
+- "[[G2228]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Luke 10:14**<big><big>[[Luke.10.13 Woe to the Unrepentant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But it shall be more tolerable for Tyre and Sidon at the judgment, than for you.
 <small><sub>**BSB:**</sub></small>
 But it will be more bearable for Tyre and Sidon at the judgment than for you.
-<small><sub>**Literal:**</sub></small>
-But for Tyre and for Sidon more tolerable will it be in the judgment than for you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.13|<< Luke 10:13]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.15|Luke 10:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4133\|πλὴν]]  [[G5184\|Τύρῳ]]  [[G2532\|καὶ]]  [[G4605\|Σιδῶνι]]  [[G0414\|ἀνεκτότερον]]  [[G1510\|ἔσται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2920\|κρίσει]]  [[G2228\|ἢ]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SEVENTY|SEVENTY]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.13|<< Luke 10:13]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.15|Luke 10:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

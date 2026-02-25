@@ -1,8 +1,52 @@
+---
+title: Ezekiel 27:28
+type: Verse
+kjv: "The suburbs shall shake at the sound of the cry of thy pilots."
+bsb: "The countryside will shake when your sailors cry out."
+hebrew: "לְק֖וֹל זַעֲקַ֣ת חֹבְלָ֑יִךְ יִרְעֲשׁ֖וּ מִגְרֹשֽׁוֹת׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic PILOT|PILOT]]"
+strongs:
+- "[[H9005]]"
+- "[[H6963H]]"
+- "[[H2201]]"
+- "[[H2259]]"
+- "[[H9022]]"
+- "[[H7493]]"
+- "[[H4054]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:28**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The suburbs shall shake at the sound of the cry of thy pilots.
 <small><sub>**BSB:**</sub></small>
 The countryside will shake when your sailors cry out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H6963H\|ק֖וֹל]] [[H2201\|זַעֲקַ֣ת]] [[H2259\|חֹבְלָ֑יִ]][[H9022\|ךְ]] [[H7493\|יִרְעֲשׁ֖וּ]] [[H4054\|מִגְרֹשֽׁוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MERCHANT|MERCHANT]] • [[topic PILOT|PILOT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.27|<< Ezekiel 27:27]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.29|Ezekiel 27:29 >>]]</td></tr></table>
 

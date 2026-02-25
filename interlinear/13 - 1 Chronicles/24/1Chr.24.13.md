@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 24:13
+type: Verse
+kjv: "The thirteenth to Huppah, the fourteenth to Jeshebeab,"
+bsb: "the thirteenth to Huppah, the fourteenth to Jeshebeab,"
+hebrew: "לְחֻפָּה֙ שְׁלֹשָׁ֣ה עָשָׂ֔ר לְיֶֽשֶׁבְאָ֖ב אַרְבָּעָ֥ה עָשָֽׂר׃"
+pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic HUPPAH|HUPPAH]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic JESHEBEAB|JESHEBEAB]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9005]]"
+- "[[H2647]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H3428]]"
+- "[[H0702]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:13**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The thirteenth to Huppah, the fourteenth to Jeshebeab,
 <small><sub>**BSB:**</sub></small>
 the thirteenth to Huppah, the fourteenth to Jeshebeab,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H2647\|חֻפָּה֙]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H6240\|עָשָׂ֔ר]] [[H9005\|לְ]][[H3428\|יֶֽשֶׁבְאָ֖ב]] [[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic HUPPAH|HUPPAH]] • [[topic ITHAMAR|ITHAMAR]] • [[topic JESHEBEAB|JESHEBEAB]] • [[topic LOT, THE|LOT, THE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.12|<< 1 Chronicles 24:12]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.14|1 Chronicles 24:14 >>]]</td></tr></table>
 

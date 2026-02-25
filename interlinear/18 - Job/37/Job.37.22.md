@@ -1,8 +1,55 @@
+---
+title: Job 37:22
+type: Verse
+kjv: "Fair weather cometh out of the north: with God is terrible majesty."
+bsb: "Out of the north He comes in golden splendor; awesome majesty surrounds Him."
+hebrew: "מִ֭צָּפוֹן זָהָ֣ב יֶֽאֱתֶ֑ה עַל־ אֱ֝ל֗וֹהַּ נ֣וֹרָא הֽוֹד׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WEATHER|WEATHER]]"
+strongs:
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H2091]]"
+- "[[H0857]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0433]]"
+- "[[H3372H]]"
+- "[[H1935]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:22**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fair weather cometh out of the north: with God [is] terrible majesty.
 <small><sub>**BSB:**</sub></small>
 Out of the north He comes in golden splendor; awesome majesty surrounds Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ֭]][[H6828G\|צָּפוֹן]] [[H2091\|זָהָ֣ב]] [[H0857\|יֶֽאֱתֶ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0433\|אֱ֝ל֗וֹהַּ]] [[H3372H\|נ֣וֹרָא]] [[H1935\|הֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic RELIGION|RELIGION]] • [[topic WEATHER|WEATHER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.21|<< Job 37:21]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.23|Job 37:23 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 78:62
+type: Verse
+kjv: "He gave his people over also unto the sword; and was wroth with his inheritance."
+bsb: "He surrendered His people to the sword because He was enraged by His heritage."
+hebrew: "וַיַּסְגֵּ֣ר לַחֶ֣רֶב עַמּ֑וֹ וּ֝בְנַחֲלָת֗וֹ הִתְעַבָּֽר׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5462]]"
+- "[[H9005]]"
+- "[[H2719]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5159]]"
+- "[[H5674B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:62**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He gave his people over also unto the sword; and was wroth with his inheritance.
 <small><sub>**BSB:**</sub></small>
 He surrendered His people to the sword because He was enraged by His heritage.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5462\|יַּסְגֵּ֣ר]] [[H9005\|לַ]][[H2719\|חֶ֣רֶב]] [[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H9002\|וּ֝]][[H9003\|בְ]][[H5159\|נַחֲלָת֗]][[H9023\|וֹ]] [[H5674B\|הִתְעַבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.61|<< Psalms 78:61]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.63|Psalms 78:63 >>]]</td></tr></table>
 

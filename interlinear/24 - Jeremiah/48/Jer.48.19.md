@@ -1,8 +1,53 @@
+---
+title: Jeremiah 48:19
+type: Verse
+kjv: "O inhabitant of Aroer, stand by the way, and espy; ask him that fleeth, and her that escapeth, and say, What is done?"
+bsb: "Stand by the road and watch, O dweller of Aroer! Ask the man fleeing or the woman escaping, ‘What has happened?’"
+hebrew: "אֶל־ דֶּ֛רֶךְ עִמְדִ֥י וְצַפִּ֖י יוֹשֶׁ֣בֶת עֲרוֹעֵ֑ר שַׁאֲלִי־ נָ֣ס וְנִמְלָ֔טָה אִמְרִ֖י מַה־ נִּֽהְיָֽתָה׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1870K]]"
+- "[[H5975G]]"
+- "[[H9002]]"
+- "[[H6822]]"
+- "[[H3427]]"
+- "[[H6177H]]"
+- "[[H7592]]"
+- "[[H5127]]"
+- "[[H4422]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:19**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O inhabitant of Aroer, stand by the way, and espy; ask him that fleeth, and her that escapeth, [and] say, What is done?
 <small><sub>**BSB:**</sub></small>
 Stand by the road and watch, O dweller of Aroer! Ask the man fleeing or the woman escaping, ‘What has happened?’
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶל]][[H9014\|־]] [[H1870K\|דֶּ֛רֶךְ]] [[H5975G\|עִמְדִ֥י]] [[H9002\|וְ]][[H6822\|צַפִּ֖י]] [[H3427\|יוֹשֶׁ֣בֶת]] [[H6177H\|עֲרוֹעֵ֑ר]] [[H7592\|שַׁאֲלִי]][[H9014\|־]] [[H5127\|נָ֣ס]] [[H9002\|וְ]][[H4422\|נִמְלָ֔טָה]] [[H0559\|אִמְרִ֖י]] [[H4100\|מַה]][[H9014\|־]] [[H1961\|נִּֽהְיָֽתָה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.18|<< Jeremiah 48:18]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.20|Jeremiah 48:20 >>]]</td></tr></table>
 

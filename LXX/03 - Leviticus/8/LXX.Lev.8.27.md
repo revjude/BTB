@@ -1,6 +1,63 @@
+---
+title: LXX Leviticus 8:27
+type: Verse
+lxx: "And he put all these in the hands of Aaron, and upon the hands  of his sons. And he offered them as a cut-away portion before the lord."
+greek: "και επέθηκε απαντα επί τας χείρας Ααρών και επί τας χείρας των υιών αυτού και ανήνεγκεν αυτά αφαίρεμα έναντι κυρίου"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2007]]"
+- "[[G0537]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G0002]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0399]]"
+- "[[G1473]]"
+- "[[G6616]]"
+- "[[G1725]]"
+- "[[G2962]]"
+---
+
 **LXX Leviticus 8:27** 
 <small><sub>**LXX:**</sub></small>
 And he put all these in the hands of Aaron, and upon the hands  of his sons. And he offered them as a cut-away portion before \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2007\|επέθηκε]] [[G0537\|απαντα]] [[G1909\|επί]] [[G3588\|τας]] [[G5495\|χείρας]] [[G0002\|Ααρών]] [[G2532\|και]] [[G1909\|επί]] [[G3588\|τας]] [[G5495\|χείρας]] [[G3588\|των]] [[G5207\|υιών]] [[G1473\|αυτού]] [[G2532\|και]] [[G0399\|ανήνεγκεν]] [[G1473\|αυτά]] [[G6616\|αφαίρεμα]] [[G1725\|έναντι]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.26|<< Leviticus 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.28|Leviticus 8:28 >>]]</td></tr></table>
 
@@ -25,6 +82,6 @@ And he put all these in the hands of Aaron, and upon the hands  of his sons. And
 | as a cut-away portion | **<big>[[G6616\|αφαίρεμα]]</big>** |
 | before | **<big>[[G1725\|έναντι]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
-[[Lev.8.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.26|<< Leviticus 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.28|Leviticus 8:28 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.8.26|<< Leviticus 8:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.8.28|Leviticus 8:28 >>]]</td></tr></table>
 
 

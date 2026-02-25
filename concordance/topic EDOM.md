@@ -13,7 +13,7 @@
 
 - Sins of [[Obad.1.1|Ob 1]]:10-14
 
-- Prophecies concerning [[Jer.25.21|Jer 25:21]]-[[Jer.25.23|23]]; [[Jer.27.1|27:1]]-[[Jer.27.11|11]]; [[Dan.11.41|Da 11:41]]
+- Prophecies concerning [[Jer.25.21|Jer 25:21-23]]; [[Jer.27.1|27:1-11]]; [[Dan.11.41|Da 11:41]]
 
 - See [[topic EDOMITES|EDOMITES]]
 

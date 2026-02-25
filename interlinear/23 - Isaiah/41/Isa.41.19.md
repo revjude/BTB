@@ -1,8 +1,61 @@
+---
+title: Isaiah 41:19
+type: Verse
+kjv: "I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and the oil tree; I will set in the desert the fir tree, and the pine, and the box tree together:"
+bsb: "I will plant cedars in the wilderness, acacias, myrtles, and olive trees. I will set cypresses in the desert, elms and boxwood together,"
+hebrew: "אֶתֵּ֤ן בַּמִּדְבָּר֙ אֶ֣רֶז שִׁטָּ֔ה וַהֲדַ֖ס וְעֵ֣ץ שָׁ֑מֶן אָשִׂ֣ים בָּעֲרָבָ֗ה בְּר֛וֹשׁ תִּדְהָ֥ר וּתְאַשּׁ֖וּר יַחְדָּֽו׃"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BOX TREE|BOX TREE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MYRTLE|MYRTLE]]"
+- "[[topic PINE|PINE]]"
+- "[[topic SHITTIM|SHITTIM]]"
+strongs:
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0730]]"
+- "[[H7848]]"
+- "[[H9002]]"
+- "[[H1918]]"
+- "[[H6086H]]"
+- "[[H8081]]"
+- "[[H7760A]]"
+- "[[H6160L]]"
+- "[[H1265]]"
+- "[[H8410]]"
+- "[[H8391]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:19**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will plant in the wilderness the cedar, the shittah tree, and the myrtle, and the oil tree; I will set in the desert the fir tree, [and] the pine, and the box tree together:
 <small><sub>**BSB:**</sub></small>
 I will plant cedars in the wilderness, acacias, myrtles, and olive trees. I will set cypresses in the desert, elms and boxwood together,
+<small><sub>**Hebrew:**</sub></small>
+[[H5414H\|אֶתֵּ֤ן]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּר֙]] [[H0730\|אֶ֣רֶז]] [[H7848\|שִׁטָּ֔ה]] [[H9002\|וַ]][[H1918\|הֲדַ֖ס]] [[H9002\|וְ]][[H6086H\|עֵ֣ץ]] [[H8081\|שָׁ֑מֶן]] [[H7760A\|אָשִׂ֣ים]] [[H9003\|בָּ]][[H6160L\|עֲרָבָ֗ה]] [[H1265\|בְּר֛וֹשׁ]] [[H8410\|תִּדְהָ֥ר]] [[H9002\|וּ]][[H8391\|תְאַשּׁ֖וּר]] [[H3162B\|יַחְדָּֽו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOX TREE|BOX TREE]] • [[topic CHURCH|CHURCH]] • [[topic MYRTLE|MYRTLE]] • [[topic PINE|PINE]] • [[topic SHITTIM|SHITTIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.18|<< Isaiah 41:18]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.20|Isaiah 41:20 >>]]</td></tr></table>
 

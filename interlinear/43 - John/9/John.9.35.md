@@ -1,10 +1,64 @@
+---
+title: John 9:35
+type: Verse
+kjv: "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?"
+bsb: "When Jesus heard that they had thrown him out, He found the man and said, “Do you believe in the Son of Man?”"
+jesus_said: "Dost thou believe on the Son of God?"
+greek: "ἤκουσεν ὁ Ἰησοῦς ὅτι ἐξέβαλον αὐτὸν ἔξω, καὶ εὑρὼν αὐτὸν εἶπεν αὐτῷ· σὺ πιστεύεις εἰς τὸν υἱὸν τοῦ ἀνθρώπου;"
+pericope: "[[John.9.35 Spiritual Blindness|Spiritual Blindness]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3754G]]"
+- "[[G1544]]"
+- "[[G0846]]"
+- "[[G1854]]"
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G5207]]"
+- "[[G0444]]"
+texts:
+- NKO
+- ko
+- N(K)O
+---
+
 **John 9:35**<big><big>[[John.9.35 Spiritual Blindness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?
 <small><sub>**BSB:**</sub></small>
 When Jesus heard that they had thrown him out, He found the man and said, “Do you believe in the Son of Man?”
-<small><sub>**Literal:**</sub></small>
-Heard <the> Jesus that they had cast him out, and having found him He said to him: You yourself believe in the Son <the> of Man?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.34|<< John 9:34]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.36|John 9:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἤκουσεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3754G\|ὅτι]]  [[G1544\|ἐξέβαλον]]  [[G0846\|αὐτὸν]]  [[G1854\|ἔξω,]]  [[G2532\|καὶ]]  [[G2147\|εὑρὼν]]  [[G0846\|αὐτὸν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G4771\|σὺ]]  [[G4100\|πιστεύεις]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.34|<< John 9:34]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.36|John 9:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

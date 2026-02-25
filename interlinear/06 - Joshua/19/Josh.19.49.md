@@ -1,8 +1,62 @@
+---
+title: Joshua 19:49
+type: Verse
+kjv: "When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:"
+bsb: "When they had finished distributing the land into its territories, the Israelites gave Joshua son of Nun an inheritance among them,"
+hebrew: "וַיְכַלּ֥וּ לִנְחֹל־ אֶת־ הָאָ֖רֶץ לִגְבֽוּלֹתֶ֑יהָ וַיִּתְּנ֨וּ בְנֵי־ יִשְׂרָאֵ֧ל נַחֲלָ֛ה לִיהוֹשֻׁ֥עַ בִּן־ נ֖וּן בְּתוֹכָֽם׃"
+pericope: "[[Josh.19.49 Joshua’s Inheritance|Joshua’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H9005]]"
+- "[[H5157]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1367]]"
+- "[[H9024]]"
+- "[[H5414G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5159]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H5126]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:49**<big><big>[[Josh.19.49 Joshua’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:
 <small><sub>**BSB:**</sub></small>
 When they had finished distributing the land into its territories, the Israelites gave Joshua son of Nun an inheritance among them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615G\|יְכַלּ֥וּ]] [[H9005\|לִ]][[H5157\|נְחֹל]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9005\|לִ]][[H1367\|גְבֽוּלֹתֶ֑י]][[H9024\|הָ]] [[H9001\|וַ]][[H5414G\|יִּתְּנ֨וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֧ל]] [[H5159\|נַחֲלָ֛ה]] [[H9005\|לִ]][[H3091G\|יהוֹשֻׁ֥עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֖וּן]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSHUA|JOSHUA]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.48|<< Joshua 19:48]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.50|Joshua 19:50 >>]]</td></tr></table>
 

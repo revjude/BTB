@@ -1,8 +1,56 @@
+---
+title: Jeremiah 48:29
+type: Verse
+kjv: "We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart."
+bsb: "We have heard of Moab’s pomposity, his exceeding pride and conceit, his proud arrogance and haughtiness of heart."
+hebrew: "שָׁמַ֥עְנוּ גְאוֹן־ מוֹאָ֖ב גֵּאֶ֣ה מְאֹ֑ד גָּבְה֧וֹ וּגְאוֹנ֛וֹ וְגַאֲוָת֖וֹ וְרֻ֥ם לִבּֽוֹ׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H8085G]]"
+- "[[H1347]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H1343]]"
+- "[[H3966]]"
+- "[[H1363]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1346]]"
+- "[[H7312]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:29**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart.
 <small><sub>**BSB:**</sub></small>
 We have heard of Moab’s pomposity, his exceeding pride and conceit, his proud arrogance and haughtiness of heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָׁמַ֥עְנוּ]] [[H1347\|גְאוֹן]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H1343\|גֵּאֶ֣ה]] [[H3966\|מְאֹ֑ד]] [[H1363\|גָּבְה֧]][[H9023\|וֹ]] [[H9002\|וּ]][[H1347\|גְאוֹנ֛]][[H9023\|וֹ]] [[H9002\|וְ]][[H1346\|גַאֲוָת֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H7312\|רֻ֥ם]] [[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.28|<< Jeremiah 48:28]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.30|Jeremiah 48:30 >>]]</td></tr></table>
 

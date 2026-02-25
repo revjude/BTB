@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Raising of Tabitha
+type: Pericope
 pericope: "[[Acts.9.36 The Raising of Tabitha|The Raising of Tabitha]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Acts
 chapter: 9
 book/chapter: "[[Acts.9|Acts 9]]"
-genre:
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 8
 verses:
 - "[[Acts.9.36]]"
 - "[[Acts.9.37]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Acts.9.43]]"
 ---
 
-[[Acts.9|Acts 9:36 - Acts 9:43]]
+<small>[[Acts.9|Acts 9:36-43]]</small>
 *The Raising of Tabitha*
 
 [[Acts.9.36|36]] Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.

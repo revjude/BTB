@@ -1,8 +1,67 @@
+---
+title: Ezekiel 22:11
+type: Verse
+kjv: "And one hath committed abomination with his neighbour’s wife; and another hath lewdly defiled his daughter in law; and another in thee hath humbled his sister, his father’s daughter."
+bsb: "One man commits an abomination with his neighbor’s wife; another wickedly defiles his daughter-in-law; and yet another violates his sister, his own father’s daughter."
+hebrew: "וְאִ֣ישׁ׀ אֶת־ אֵ֣שֶׁת רֵעֵ֗הוּ עָשָׂה֙ תּֽוֹעֵבָ֔ה וְאִ֥ישׁ אֶת־ כַּלָּת֖וֹ טִמֵּ֣א בְזִמָּ֑ה וְאִ֛ישׁ אֶת־ אֲחֹת֥וֹ בַת־ אָבִ֖יו עִנָּה־ בָֽךְ׃"
+pericope: "[[Ezek.22.1 The Sins of Jerusalem|The Sins of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CRIME|CRIME]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H9015]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H6213H]]"
+- "[[H8441]]"
+- "[[H0853]]"
+- "[[H3618H]]"
+- "[[H2930A]]"
+- "[[H9003]]"
+- "[[H2154]]"
+- "[[H0269]]"
+- "[[H1323G]]"
+- "[[H0001G]]"
+- "[[H6031B]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:11**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one hath committed abomination with his neighbour’s wife; and another hath lewdly defiled his daughter in law; and another in thee hath humbled his sister, his father’s daughter.
 <small><sub>**BSB:**</sub></small>
 One man commits an abomination with his neighbor’s wife; another wickedly defiles his daughter-in-law; and yet another violates his sister, his own father’s daughter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֣ישׁ]][[H9015\|׀]] [[H0854\|אֶת]][[H9014\|־]] [[H0802H\|אֵ֣שֶׁת]] [[H7453\|רֵעֵ֗]][[H9023\|הוּ]] [[H6213H\|עָשָׂה֙]] [[H8441\|תּֽוֹעֵבָ֔ה]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3618H\|כַּלָּת֖]][[H9023\|וֹ]] [[H2930A\|טִמֵּ֣א]] [[H9003\|בְ]][[H2154\|זִמָּ֑ה]] [[H9002\|וְ]][[H0376G\|אִ֛ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0269\|אֲחֹת֥]][[H9023\|וֹ]] [[H1323G\|בַת]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H6031B\|עִנָּה]][[H9014\|־]] [[H9003\|בָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CRIME|CRIME]] • [[topic INCEST|INCEST]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.10|<< Ezekiel 22:10]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.12|Ezekiel 22:12 >>]]</td></tr></table>
 

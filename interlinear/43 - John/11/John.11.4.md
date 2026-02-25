@@ -1,10 +1,66 @@
+---
+title: John 11:4
+type: Verse
+kjv: "When Jesus heard that, he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby."
+bsb: "When Jesus heard this, He said, “This sickness will not end in death. No, it is for the glory of God, so that the Son of God may be glorified through it.”"
+jesus_said: "This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby."
+greek: "Ἀκούσας δὲ ὁ Ἰησοῦς εἶπεν· αὕτη ἡ ἀσθένεια οὐκ ἔστιν πρὸς θάνατον ἀλλ᾽ ὑπὲρ τῆς δόξης τοῦ θεοῦ ἵνα δοξασθῇ ὁ υἱὸς τοῦ θεοῦ δι᾽ αὐτῆς.¶"
+pericope: "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G0769H]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G4314]]"
+- "[[G2288]]"
+- "[[G0235]]"
+- "[[G5228]]"
+- "[[G1391]]"
+- "[[G2316]]"
+- "[[G2443]]"
+- "[[G1392]]"
+- "[[G5207]]"
+- "[[G1223]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 11:4**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus heard [that], he said, This sickness is not unto death, but for the glory of God, that the Son of God might be glorified thereby.
 <small><sub>**BSB:**</sub></small>
 When Jesus heard this, He said, “This sickness will not end in death. No, it is for the glory of God, so that the Son of God may be glorified through it.”
-<small><sub>**Literal:**</sub></small>
-Having heard then <the> Jesus said; This <the> sickness not is unto death but for the glory <the> of God that may be glorified the Son <the> of God through it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.3|<< John 11:3]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.5|John 11:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσας]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G3778\|αὕτη]]  [[G3588\|ἡ]]  [[G0769H\|ἀσθένεια]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G4314\|πρὸς]]  [[G2288\|θάνατον]]  [[G0235\|ἀλλ᾽]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2443\|ἵνα]]  [[G1392\|δοξασθῇ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1223\|δι᾽]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAMILY|FAMILY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.3|<< John 11:3]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.5|John 11:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

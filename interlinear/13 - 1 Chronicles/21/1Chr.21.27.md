@@ -1,8 +1,49 @@
+---
+title: 1 Chronicles 21:27
+type: Verse
+kjv: "And the LORD commanded the angel; and he put up his sword again into the sheath thereof."
+bsb: "Then the LORD spoke to the angel, who put his sword back into its sheath."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ לַמַּלְאָ֔ךְ וַיָּ֥שֶׁב חַרְבּ֖וֹ אֶל־ נְדָנָֽהּ׃"
+pericope: "[[1Chr.21.18 David Builds an Altar|David Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H4397H]]"
+- "[[H7725G]]"
+- "[[H2719]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5084]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:27**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD commanded the angel; and he put up his sword again into the sheath thereof.
 <small><sub>**BSB:**</sub></small>
 Then the LORD spoke to the angel, who put his sword back into its sheath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H9005\|לַ]][[H4397H\|מַּלְאָ֔ךְ]] [[H9001\|וַ]][[H7725G\|יָּ֥שֶׁב]] [[H2719\|חַרְבּ֖]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H5084\|נְדָנָֽ]][[H9024\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.26|<< 1 Chronicles 21:26]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.28|1 Chronicles 21:28 >>]]</td></tr></table>
 

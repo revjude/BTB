@@ -1,8 +1,69 @@
+---
+title: Exodus 7:11
+type: Verse
+kjv: "Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments."
+bsb: "But Pharaoh called the wise men and sorcerers and magicians of Egypt, and they also did the same things by their magic arts."
+hebrew: "וַיִּקְרָא֙ גַּם־ פַּרְעֹ֔ה לַֽחֲכָמִ֖ים וְלַֽמְכַשְּׁפִ֑ים וַיַּֽעֲשׂ֨וּ גַם־ הֵ֜ם חַרְטֻמֵּ֥י מִצְרַ֛יִם בְּלַהֲטֵיהֶ֖ם כֵּֽן׃"
+pericope: "[[Exod.7.8 Aaron’s Staff|Aaron’s Staff]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic JAMBRES|JAMBRES]]"
+- "[[topic JANNES|JANNES]]"
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6547J]]"
+- "[[H9005]]"
+- "[[H2450]]"
+- "[[H9002]]"
+- "[[H3784]]"
+- "[[H6213A]]"
+- "[[H1992]]"
+- "[[H2748]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H3814]]"
+- "[[H9028]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:11**<big><big>[[Exod.7.8 Aaron’s Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments.
 <small><sub>**BSB:**</sub></small>
 But Pharaoh called the wise men and sorcerers and magicians of Egypt, and they also did the same things by their magic arts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָא֙]] [[H1571\|גַּם]][[H9014\|־]] [[H6547J\|פַּרְעֹ֔ה]] [[H9005\|לַֽ]][[H2450\|חֲכָמִ֖ים]] [[H9002\|וְ]][[H9005\|לַֽ]][[H3784\|מְכַשְּׁפִ֑ים]] [[H9001\|וַ]][[H6213A\|יַּֽעֲשׂ֨וּ]] [[H1571\|גַם]][[H9014\|־]] [[H1992\|הֵ֜ם]] [[H2748\|חַרְטֻמֵּ֥י]] [[H4714G\|מִצְרַ֛יִם]] [[H9003\|בְּ]][[H3814\|לַהֲטֵי]][[H9028\|הֶ֖ם]] [[H3651C\|כֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic JAMBRES|JAMBRES]] • [[topic JANNES|JANNES]] • [[topic MAGICIAN|MAGICIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic SORCERY|SORCERY]] • [[topic WISE MEN|WISE MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.10|<< Exodus 7:10]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.12|Exodus 7:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

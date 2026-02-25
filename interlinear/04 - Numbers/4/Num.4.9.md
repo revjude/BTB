@@ -1,8 +1,77 @@
+---
+title: Numbers 4:9
+type: Verse
+kjv: "And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:"
+bsb: "They are to take a blue cloth and cover the lampstand used for light, together with its lamps, wick trimmers, and trays, as well as the jars of oil with which to supply it."
+hebrew: "וְלָקְח֣וּ׀ בֶּ֣גֶד תְּכֵ֗לֶת וְכִסּ֞וּ אֶת־ מְנֹרַ֤ת הַמָּאוֹר֙ וְאֶת־ נֵ֣רֹתֶ֔יהָ וְאֶת־ מַלְקָחֶ֖יהָ וְאֶת־ מַחְתֹּתֶ֑יהָ וְאֵת֙ כָּל־ כְּלֵ֣י שַׁמְנָ֔הּ אֲשֶׁ֥ר יְשָׁרְתוּ־ לָ֖הּ בָּהֶֽם׃"
+pericope: "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SKIN|SKIN]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TONGS|TONGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9015]]"
+- "[[H0899B]]"
+- "[[H8504]]"
+- "[[H3680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4501]]"
+- "[[H9009]]"
+- "[[H3974]]"
+- "[[H9002]]"
+- "[[H5216A]]"
+- "[[H9024]]"
+- "[[H4457]]"
+- "[[H4289]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H8081]]"
+- "[[H0834A]]"
+- "[[H8334]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:9**<big><big>[[Num.4.1 The Duties of the Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:
 <small><sub>**BSB:**</sub></small>
 They are to take a blue cloth and cover the lampstand used for light, together with its lamps, wick trimmers, and trays, as well as the jars of oil with which to supply it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקְח֣וּ]][[H9015\|׀]] [[H0899B\|בֶּ֣גֶד]] [[H8504\|תְּכֵ֗לֶת]] [[H9001\|וְ]][[H3680\|כִסּ֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4501\|מְנֹרַ֤ת]] [[H9009\|הַ]][[H3974\|מָּאוֹר֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5216A\|נֵ֣רֹתֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4457\|מַלְקָחֶ֖י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4289\|מַחְתֹּתֶ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֣י]] [[H8081\|שַׁמְנָ֔]][[H9024\|הּ]] [[H0834A\|אֲשֶׁ֥ר]] [[H8334\|יְשָׁרְתוּ]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic COLORS|COLORS]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic SKIN|SKIN]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TONGS|TONGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.8|<< Numbers 4:8]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.10|Numbers 4:10 >>]]</td></tr></table>
 

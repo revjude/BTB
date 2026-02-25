@@ -1,8 +1,51 @@
+---
+title: Job 8:3
+type: Verse
+kjv: "Doth God pervert judgment? or doth the Almighty pervert justice?"
+bsb: "Does God pervert justice? Does the Almighty pervert what is right?"
+hebrew: "הַ֭אֵל יְעַוֵּ֣ת מִשְׁפָּ֑ט וְאִם־ שַׁ֝דַּ֗י יְעַוֵּֽת־ צֶֽדֶק׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9008]]"
+- "[[H0410G]]"
+- "[[H5791]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7706]]"
+- "[[H6664G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:3**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Doth God pervert judgment? or doth the Almighty pervert justice?
 <small><sub>**BSB:**</sub></small>
 Does God pervert justice? Does the Almighty pervert what is right?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ֭]][[H0410G\|אֵל]] [[H5791\|יְעַוֵּ֣ת]] [[H4941H\|מִשְׁפָּ֑ט]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7706\|שַׁ֝דַּ֗י]] [[H5791\|יְעַוֵּֽת]][[H9014\|־]] [[H6664G\|צֶֽדֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.2|<< Job 8:2]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.4|Job 8:4 >>]]</td></tr></table>
 

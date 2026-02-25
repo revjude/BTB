@@ -1,10 +1,63 @@
+---
+title: Luke 22:3
+type: Verse
+kjv: "Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve."
+bsb: "Then Satan entered Judas Iscariot, who was one of the Twelve."
+greek: "εἰσῆλθεν δὲ ὁ σατανᾶς εἰς Ἰούδαν τὸν καλούμενον Ἰσκαριώτην ὄντα ἐκ τοῦ ἀριθμοῦ τῶν δώδεκα."
+pericope: "[[Luke.22.3 Judas Agrees to Betray Jesus|Judas Agrees to Betray Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BETRAYAL|BETRAYAL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G1525]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4567]]"
+- "[[G1519]]"
+- "[[G2455H]]"
+- "[[G2564H]]"
+- "[[G2469]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G0706]]"
+- "[[G1427]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 22:3**<big><big>[[Luke.22.3 Judas Agrees to Betray Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve.
 <small><sub>**BSB:**</sub></small>
 Then Satan entered Judas Iscariot, who was one of the Twelve.
-<small><sub>**Literal:**</sub></small>
-Entered then <the> Satan into Judas who is being called Iscariot being of the number of the Twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.2|<< Luke 22:2]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.4|Luke 22:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1525\|εἰσῆλθεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4567\|σατανᾶς]]  [[G1519\|εἰς]]  [[G2455H\|Ἰούδαν]]  [[G3588\|τὸν]]  [[G2564H\|καλούμενον]]  [[G2469\|Ἰσκαριώτην]]  [[G1510\|ὄντα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G0706\|ἀριθμοῦ]]  [[G3588\|τῶν]]  [[G1427\|δώδεκα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BETRAYAL|BETRAYAL]] • [[topic CHURCH|CHURCH]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.2|<< Luke 22:2]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.4|Luke 22:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

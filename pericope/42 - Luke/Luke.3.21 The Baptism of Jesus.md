@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Baptism of Jesus
+type: Pericope
 pericope: "[[Luke.3.21 The Baptism of Jesus|The Baptism of Jesus]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: Luke
 chapter: 3
 book/chapter: "[[Luke.3|Luke 3]]"
-genre:
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 2
 verses:
 - "[[Luke.3.21]]"
 - "[[Luke.3.22]]"
 ---
 
-[[Luke.3|Luke 3:21 - Luke 3:22]]
+<small>[[Luke.3|Luke 3:21-22]]</small>
 *The Baptism of Jesus*
 
 [[Luke.3.21|21]] Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,

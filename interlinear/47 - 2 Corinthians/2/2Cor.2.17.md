@@ -1,10 +1,66 @@
+---
+title: 2 Corinthians 2:17
+type: Verse
+kjv: "For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ."
+bsb: "For we are not like so many others, who peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, as men sent from God."
+greek: "οὐ γάρ ἐσμεν ὡς οἱ πολλοὶ καπηλεύοντες τὸν λόγον τοῦ θεοῦ, ἀλλ᾽ ὡς ἐξ εἰλικρινείας, ἀλλ᾽ ὡς ἐκ θεοῦ, κατέναντι τοῦ θεοῦ ἐν Χριστῷ λαλοῦμεν.¶"
+pericope: "[[2Cor.2.12 Triumph in Christ|Triumph in Christ]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 2
+book/chapter: "[[2Cor.2|2 Corinthians 2]]"
+chronological_order: 1075
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G4183]]"
+- "[[G2585]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G1537]]"
+- "[[G1505]]"
+- "[[G2713]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2980]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+- k
+---
+
 **2 Corinthians 2:17**<big><big>[[2Cor.2.12 Triumph in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we are not as many, which corrupt the word of God: but as of sincerity, but as of God, in the sight of God speak we in Christ.
 <small><sub>**BSB:**</sub></small>
 For we are not like so many others, who peddle the word of God for profit. On the contrary, in Christ we speak before God with sincerity, as men sent from God.
-<small><sub>**Literal:**</sub></small>
-Not for we are like the many peddling the word <the> of God, but as of sincerity, but as of God, before <the> God in Christ we speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.16|<< 2 Corinthians 2:16]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.1|2 Corinthians 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γάρ]]  [[G1510\|ἐσμεν]]  [[G5613\|ὡς]]  [[G3588\|οἱ]]  [[G4183\|πολλοὶ]]  [[G2585\|καπηλεύοντες]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G0235\|ἀλλ᾽]]  [[G5613\|ὡς]]  [[G1537\|ἐξ]]  [[G1505\|εἰλικρινείας,]]  [[G0235\|ἀλλ᾽]]  [[G5613\|ὡς]]  [[G1537\|ἐκ]]  [[G2316\|θεοῦ,]]  [[G2713\|κατέναντι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2980\|λαλοῦμεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DOCTRINES|DOCTRINES]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SINCERITY|SINCERITY]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.16|<< 2 Corinthians 2:16]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.1|2 Corinthians 3:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

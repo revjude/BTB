@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Temptations and Trespasses
+type: Pericope
 pericope: "[[Matt.18.6 Temptations and Trespasses|Temptations and Trespasses]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 18
 book/chapter: "[[Matt.18|Matthew 18]]"
-genre:
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.18.6]]"
 - "[[Matt.18.7]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.18.9]]"
 ---
 
-[[Matt.18|Matthew 18:6 - Matthew 18:9]]
+<small>[[Matt.18|Matthew 18:6-9]]</small>
 *Temptations and Trespasses*
 
 [[Matt.18.6|6]] But whoso shall offend one of these little ones which believe in me, it were better for him that a millstone were hanged about his neck, and \[that\] he were drowned in the depth of the sea.

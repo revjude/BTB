@@ -1,8 +1,59 @@
+---
+title: 2 Kings 7:14
+type: Verse
+kjv: "They took therefore two chariot horses; and the king sent after the host of the Syrians, saying, Go and see."
+bsb: "Then the scouts took two chariots with horses, and the king sent them after the Aramean army, saying, “Go and see.”"
+hebrew: "וַיִּקְח֕וּ שְׁנֵ֖י רֶ֣כֶב סוּסִ֑ים וַיִּשְׁלַ֨ח הַמֶּ֜לֶךְ אַחֲרֵ֧י מַחֲנֵֽה־ אֲרָ֛ם לֵאמֹ֖ר לְכ֥וּ וּרְאֽוּ׃"
+pericope: "[[2Kgs.7.3 The Syrians Flee|The Syrians Flee]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H8147]]"
+- "[[H7393G]]"
+- "[[H5483M]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0310A]]"
+- "[[H4264]]"
+- "[[H9014]]"
+- "[[H0758I]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:14**<big><big>[[2Kgs.7.3 The Syrians Flee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They took therefore two chariot horses; and the king sent after the host of the Syrians, saying, Go and see.
 <small><sub>**BSB:**</sub></small>
 Then the scouts took two chariots with horses, and the king sent them after the Aramean army, saying, “Go and see.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְח֕וּ]] [[H8147\|שְׁנֵ֖י]] [[H7393G\|רֶ֣כֶב]] [[H5483M\|סוּסִ֑ים]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0310A\|אַחֲרֵ֧י]] [[H4264\|מַחֲנֵֽה]][[H9014\|־]] [[H0758I\|אֲרָ֛ם]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H1980G\|לְכ֥וּ]] [[H9002\|וּ]][[H7200G\|רְאֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.13|<< 2 Kings 7:13]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.15|2 Kings 7:15 >>]]</td></tr></table>
 

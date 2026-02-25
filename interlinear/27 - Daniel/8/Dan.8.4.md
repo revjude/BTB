@@ -1,8 +1,70 @@
+---
+title: Daniel 8:4
+type: Verse
+kjv: "I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great."
+bsb: "I saw the ram charging toward the west and the north and the south. No animal could stand against him, and there was no deliverance from his power. He did as he pleased and became great."
+hebrew: "רָאִ֣יתִי אֶת־ הָאַ֡יִל מְנַגֵּחַ֩ יָ֨מָּה וְצָפ֜וֹנָה וָנֶ֗גְבָּה וְכָל־ חַיּוֹת֙ לֹֽא־ יַֽעַמְד֣וּ לְפָנָ֔יו וְאֵ֥ין מַצִּ֖יל מִיָּד֑וֹ וְעָשָׂ֥ה כִרְצֹנ֖וֹ וְהִגְדִּֽיל׃"
+pericope: "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HORN|HORN]]"
+strongs:
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0352A]]"
+- "[[H5055]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H6828G]]"
+- "[[H5045H]]"
+- "[[H3605]]"
+- "[[H2416C]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H0369]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H7522]]"
+- "[[H1431]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:4**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither [was there any] that could deliver out of his hand; but he did according to his will, and became great.
 <small><sub>**BSB:**</sub></small>
 I saw the ram charging toward the west and the north and the south. No animal could stand against him, and there was no deliverance from his power. He did as he pleased and became great.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָאִ֣יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אַ֡יִל]] [[H5055\|מְנַגֵּחַ֩]] [[H3220H\|יָ֨מָּ]][[H9011\|ה]] [[H9002\|וְ]][[H6828G\|צָפ֜וֹנָ]][[H9011\|ה]] [[H9002\|וָ]][[H5045H\|נֶ֗גְבָּ]][[H9011\|ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2416C\|חַיּוֹת֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5975G\|יַֽעַמְד֣וּ]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H5337\|מַצִּ֖יל]] [[H9006\|מִ]][[H3027H\|יָּד֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H6213A\|עָשָׂ֥ה]] [[H9004\|כִ]][[H7522\|רְצֹנ֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H1431\|הִגְדִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HORN|HORN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.3|<< Daniel 8:3]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.5|Daniel 8:5 >>]]</td></tr></table>
 

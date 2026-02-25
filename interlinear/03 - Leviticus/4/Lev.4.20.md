@@ -1,8 +1,64 @@
+---
+title: Leviticus 4:20
+type: Verse
+kjv: "And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them."
+bsb: "He shall offer this bull just as he did the bull for the sin offering; in this way the priest will make atonement on their behalf, and they will be forgiven."
+hebrew: "וְעָשָׂ֣ה לַפָּ֔ר כַּאֲשֶׁ֤ר עָשָׂה֙ לְפַ֣ר הַֽחַטָּ֔את כֵּ֖ן יַעֲשֶׂה־ לּ֑וֹ וְכִפֶּ֧ר עֲלֵהֶ֛ם הַכֹּהֵ֖ן וְנִסְלַ֥ח לָהֶֽם׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H6499]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9009]]"
+- "[[H2403H]]"
+- "[[H3651C]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3548]]"
+- "[[H5545]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:20**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall do with the bullock as he did with the bullock for a sin offering, so shall he do with this: and the priest shall make an atonement for them, and it shall be forgiven them.
 <small><sub>**BSB:**</sub></small>
 He shall offer this bull just as he did the bull for the sin offering; in this way the priest will make atonement on their behalf, and they will be forgiven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213A\|עָשָׂ֣ה]] [[H9005\|לַ]][[H6499\|פָּ֔ר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H6213A\|עָשָׂה֙]] [[H9005\|לְ]][[H6499\|פַ֣ר]] [[H9009\|הַֽ]][[H2403H\|חַטָּ֔את]] [[H3651C\|כֵּ֖ן]] [[H6213A\|יַעֲשֶׂה]][[H9014\|־]] [[H9005\|לּ֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H3722A\|כִפֶּ֧ר]] [[H5921A\|עֲלֵ]][[H9038\|הֶ֛ם]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9001\|וְ]][[H5545\|נִסְלַ֥ח]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic IGNORANCE|IGNORANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.19|<< Leviticus 4:19]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.21|Leviticus 4:21 >>]]</td></tr></table>
 

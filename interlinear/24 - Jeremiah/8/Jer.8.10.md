@@ -1,8 +1,71 @@
+---
+title: Jeremiah 8:10
+type: Verse
+kjv: "Therefore will I give their wives unto others, and their fields to them that shall inherit them: for every one from the least even unto the greatest is given to covetousness, from the prophet even unto the priest every one dealeth falsely."
+bsb: "Therefore I will give their wives to other men and their fields to new owners. For from the least of them to the greatest, all are greedy for gain; from prophet to priest, all practice deceit."
+hebrew: "לָכֵן֩ אֶתֵּ֨ן אֶת־ נְשֵׁיהֶ֜ם לַאֲחֵרִ֗ים שְׂדֽוֹתֵיהֶם֙ לְי֣וֹרְשִׁ֔ים כִּ֤י מִקָּטֹן֙ וְעַד־ גָּד֔וֹל כֻּלֹּ֖ה בֹּצֵ֣עַ בָּ֑צַע מִנָּבִיא֙ וְעַד־ כֹּהֵ֔ן כֻּלֹּ֖ה עֹ֥שֶׂה שָּֽׁקֶר׃"
+pericope: "[[Jer.8.1 Judah’s Sin and Punishment|Judah’s Sin and Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 8
+book/chapter: "[[Jer.8|Jeremiah 8]]"
+chronological_order: 725
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9028]]"
+- "[[H0312]]"
+- "[[H7704G]]"
+- "[[H3423H]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H6996B]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H1214I]]"
+- "[[H1215]]"
+- "[[H5030]]"
+- "[[H3548]]"
+- "[[H6213A]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 8:10**<big><big>[[Jer.8.1 Judah’s Sin and Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore will I give their wives unto others, [and] their fields to them that shall inherit [them]: for every one from the least even unto the greatest is given to covetousness, from the prophet even unto the priest every one dealeth falsely.
 <small><sub>**BSB:**</sub></small>
 Therefore I will give their wives to other men and their fields to new owners. For from the least of them to the greatest, all are greedy for gain; from prophet to priest, all practice deceit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֩]] [[H5414G\|אֶתֵּ֨ן]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|נְשֵׁי]][[H9028\|הֶ֜ם]] [[H9005\|לַ]][[H0312\|אֲחֵרִ֗ים]] [[H7704G\|שְׂדֽוֹתֵי]][[H9028\|הֶם֙]] [[H9005\|לְ]][[H3423H\|י֣וֹרְשִׁ֔ים]] [[H3588A\|כִּ֤י]] [[H9006\|מִ]][[H6996B\|קָּטֹן֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גָּד֔וֹל]] [[H3605\|כֻּלֹּ֖]][[H9023\|ה]] [[H1214I\|בֹּצֵ֣עַ]] [[H1215\|בָּ֑צַע]] [[H9006\|מִ]][[H5030\|נָּבִיא֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3548\|כֹּהֵ֔ן]] [[H3605\|כֻּלֹּ֖]][[H9023\|ה]] [[H6213A\|עֹ֥שֶׂה]] [[H8267\|שָּֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.9|<< Jeremiah 8:9]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.11|Jeremiah 8:11 >>]]</td></tr></table>
 

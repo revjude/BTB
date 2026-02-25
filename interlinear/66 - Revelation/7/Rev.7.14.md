@@ -1,10 +1,80 @@
+---
+title: Revelation 7:14
+type: Verse
+kjv: "And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb."
+bsb: "“Sir,” I answered, “you know.” So he replied, “These are the ones who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb."
+greek: "καὶ εἴρηκα αὐτῷ· κύριέ μου, σὺ οἶδας. καὶ εἶπέν μοι· οὗτοί εἰσιν οἱ ἐρχόμενοι ἐκ τῆς θλίψεως τῆς μεγάλης καὶ ἔπλυναν τὰς στολὰς αὐτῶν καὶ ἐλεύκαναν στολὰς αὐτὰς ἐν τῷ αἵματι τοῦ ἀρνίου."
+pericope: "[[Rev.7.9 Praise from the Great Multitude|Praise from the Great Multitude]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic GARMENT|GARMENT]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G0846]]"
+- "[[G2962H]]"
+- "[[G3165]]"
+- "[[G4771]]"
+- "[[G6063]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G1537]]"
+- "[[G2347]]"
+- "[[G3173]]"
+- "[[G4150]]"
+- "[[G4749]]"
+- "[[G3021]]"
+- "[[G1722]]"
+- "[[G0129G]]"
+- "[[G0721]]"
+texts:
+- NKO
+- NK(o)
+- NO
+- k
+- N(k)O
+---
+
 **Revelation 7:14**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I said unto him, Sir, thou knowest. And he said to me, These are they which came out of great tribulation, and have washed their robes, and made them white in the blood of the Lamb.
 <small><sub>**BSB:**</sub></small>
 “Sir,” I answered, “you know.” So he replied, “These are the ones who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb.
-<small><sub>**Literal:**</sub></small>
-And I have said to him; lord of mine, you yourself know. And he said to me; These are the [ones] coming out of the tribulation <the> great and they have washed the robes of them and made white robes for them in the blood of the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.13|<< Revelation 7:13]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.15|Revelation 7:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2046\|εἴρηκα]]  [[G0846\|αὐτῷ·]]  [[G2962H\|κύριέ]]  [[G3165\|μου,]]  [[G4771\|σὺ]]  [[G6063\|οἶδας.]]  [[G2532\|καὶ]]  [[G2036\|εἶπέν]]  [[G3165\|μοι·]]  [[G3778\|οὗτοί]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G2064\|ἐρχόμενοι]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2347\|θλίψεως]]  [[G3588\|τῆς]]  [[G3173\|μεγάλης]]  [[G2532\|καὶ]]  [[G4150\|ἔπλυναν]]  [[G3588\|τὰς]]  [[G4749\|στολὰς]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3021\|ἐλεύκαναν]]  [[G4749\|στολὰς]]  [[G0846\|αὐτὰς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0129G\|αἵματι]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic COLORS|COLORS]] • [[topic GARMENT|GARMENT]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic THRONE|THRONE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.13|<< Revelation 7:13]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.15|Revelation 7:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

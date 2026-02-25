@@ -1,10 +1,59 @@
+---
+title: Luke 1:67
+type: Verse
+kjv: "And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,"
+bsb: "Then his father Zechariah was filled with the Holy Spirit and prophesied:"
+greek: "Καὶ Ζαχαρίας ὁ πατὴρ αὐτοῦ ἐπλήσθη πνεύματος ἁγίου καὶ ἐπροφήτευσεν λέγων·"
+pericope: "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2197H]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G4130]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G4395]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **Luke 1:67**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,
 <small><sub>**BSB:**</sub></small>
 Then his father Zechariah was filled with the Holy Spirit and prophesied:
-<small><sub>**Literal:**</sub></small>
-And Zechariah the father of him was filled with [the] Spirit Holy and prophesied saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.66|<< Luke 1:66]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.68|Luke 1:68 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2197H\|Ζαχαρίας]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G0846\|αὐτοῦ]]  [[G4130\|ἐπλήσθη]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]  [[G2532\|καὶ]]  [[G4395\|ἐπροφήτευσεν]]  [[G3004G\|λέγων·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JOY|JOY]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAISE|PRAISE]] • [[topic PROPHETS|PROPHETS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.66|<< Luke 1:66]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.68|Luke 1:68 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

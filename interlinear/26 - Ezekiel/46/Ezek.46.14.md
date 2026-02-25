@@ -1,8 +1,68 @@
+---
+title: Ezekiel 46:14
+type: Verse
+kjv: "And thou shalt prepare a meat offering for it every morning, the sixth part of an ephah, and the third part of an hin of oil, to temper with the fine flour; a meat offering continually by a perpetual ordinance unto the LORD."
+bsb: "You are also to provide with it every morning a grain offering of a sixth of an ephah with a third of a hin of oil to moisten the fine flour—a grain offering to the LORD. This is a permanent statute."
+hebrew: "וּמִנְחָה֩ תַעֲשֶׂ֨ה עָלָ֜יו בַּבֹּ֤קֶר בַּבֹּ֙קֶר֙ שִׁשִּׁ֣ית הָֽאֵיפָ֔ה וְשֶׁ֛מֶן שְׁלִישִׁ֥ית הַהִ֖ין לָרֹ֣ס אֶת־ הַסֹּ֑לֶת מִנְחָה֙ לַֽיהוָ֔ה חֻקּ֥וֹת עוֹלָ֖ם תָּמִֽיד׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H6213I]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H8345]]"
+- "[[H9009]]"
+- "[[H0374]]"
+- "[[H8081]]"
+- "[[H7992]]"
+- "[[H1969]]"
+- "[[H9005]]"
+- "[[H7450]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5560]]"
+- "[[H3068G]]"
+- "[[H2708]]"
+- "[[H5769G]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:14**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt prepare a meat offering for it every morning, the sixth part of an ephah, and the third part of an hin of oil, to temper with the fine flour; a meat offering continually by a perpetual ordinance unto the LORD.
 <small><sub>**BSB:**</sub></small>
 You are also to provide with it every morning a grain offering of a sixth of an ephah with a third of a hin of oil to moisten the fine flour—a grain offering to the LORD. This is a permanent statute.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4503G\|מִנְחָה֩]] [[H6213I\|תַעֲשֶׂ֨ה]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H9003\|בַּ]][[H1242\|בֹּ֤קֶר]] [[H9003\|בַּ]][[H1242\|בֹּ֙קֶר֙]] [[H8345\|שִׁשִּׁ֣ית]] [[H9009\|הָֽ]][[H0374\|אֵיפָ֔ה]] [[H9002\|וְ]][[H8081\|שֶׁ֛מֶן]] [[H7992\|שְׁלִישִׁ֥ית]] [[H9009\|הַ]][[H1969\|הִ֖ין]] [[H9005\|לָ]][[H7450\|רֹ֣ס]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5560\|סֹּ֑לֶת]] [[H4503G\|מִנְחָה֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H2708\|חֻקּ֥וֹת]] [[H5769G\|עוֹלָ֖ם]] [[H8548\|תָּמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAILY OFFERING|DAILY OFFERING]] • [[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.13|<< Ezekiel 46:13]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.15|Ezekiel 46:15 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Ezekiel 32:18
+type: Verse
+kjv: "Son of man, wail for the multitude of Egypt, and cast them down, even her, and the daughters of the famous nations, unto the nether parts of the earth, with them that go down into the pit."
+bsb: "“Son of man, wail for the multitudes of Egypt, and consign her and the daughters of the mighty nations to the depths of the earth with those who descend to the Pit:"
+hebrew: "בֶּן־ אָדָ֕ם נְהֵ֛ה עַל־ הֲמ֥וֹן מִצְרַ֖יִם וְהוֹרִדֵ֑הוּ א֠וֹתָהּ וּבְנ֨וֹת גּוֹיִ֧ם אַדִּרִ֛ם אֶל־ אֶ֥רֶץ תַּחְתִּיּ֖וֹת אֶת־ י֥וֹרְדֵי בֽוֹר׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5091]]"
+- "[[H5921A]]"
+- "[[H1995A]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H3381]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H1323G]]"
+- "[[H1471A]]"
+- "[[H0117]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H8482]]"
+- "[[H0854]]"
+- "[[H0953A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:18**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, wail for the multitude of Egypt, and cast them down, [even] her, and the daughters of the famous nations, unto the nether parts of the earth, with them that go down into the pit.
 <small><sub>**BSB:**</sub></small>
 “Son of man, wail for the multitudes of Egypt, and consign her and the daughters of the mighty nations to the depths of the earth with those who descend to the Pit:
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H5091\|נְהֵ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1995A\|הֲמ֥וֹן]] [[H4714G\|מִצְרַ֖יִם]] [[H9002\|וְ]][[H3381\|הוֹרִדֵ֑]][[H9033\|הוּ]] [[H0853\|א֠וֹתָ]][[H9034\|הּ]] [[H9002\|וּ]][[H1323G\|בְנ֨וֹת]] [[H1471A\|גּוֹיִ֧ם]] [[H0117\|אַדִּרִ֛ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H8482\|תַּחְתִּיּ֖וֹת]] [[H0854\|אֶת]][[H9014\|־]] [[H3381\|י֥וֹרְדֵי]] [[H0953A\|בֽוֹר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.17|<< Ezekiel 32:17]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.19|Ezekiel 32:19 >>]]</td></tr></table>
 

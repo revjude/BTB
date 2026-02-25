@@ -1,8 +1,60 @@
+---
+title: Joel 2:8
+type: Verse
+kjv: "Neither shall one thrust another; they shall walk every one in his path: and when they fall upon the sword, they shall not be wounded."
+bsb: "They do not jostle one another; each proceeds in his path. They burst through the defenses, never breaking ranks."
+hebrew: "וְאִ֤ישׁ אָחִיו֙ לֹ֣א יִדְחָק֔וּן גֶּ֥בֶר בִּמְסִלָּת֖וֹ יֵֽלֵכ֑וּן וּבְעַ֥ד הַשֶּׁ֛לַח יִפֹּ֖לוּ לֹ֥א יִבְצָֽעוּ׃"
+pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H1766]]"
+- "[[H9013]]"
+- "[[H1397]]"
+- "[[H9003]]"
+- "[[H4546]]"
+- "[[H1980I]]"
+- "[[H1157]]"
+- "[[H9009]]"
+- "[[H7973]]"
+- "[[H5307G]]"
+- "[[H1214H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:8**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall one thrust another; they shall walk every one in his path: and [when] they fall upon the sword, they shall not be wounded.
 <small><sub>**BSB:**</sub></small>
 They do not jostle one another; each proceeds in his path. They burst through the defenses, never breaking ranks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֤ישׁ]] [[H0251I\|אָחִי]][[H9023\|ו֙]] [[H3808\|לֹ֣א]] [[H1766\|יִדְחָק֔וּ]][[H9013\|ן]] [[H1397\|גֶּ֥בֶר]] [[H9003\|בִּ]][[H4546\|מְסִלָּת֖]][[H9023\|וֹ]] [[H1980I\|יֵֽלֵכ֑וּ]][[H9013\|ן]] [[H9002\|וּ]][[H1157\|בְעַ֥ד]] [[H9009\|הַ]][[H7973\|שֶּׁ֛לַח]] [[H5307G\|יִפֹּ֖לוּ]] [[H3808\|לֹ֥א]] [[H1214H\|יִבְצָֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.7|<< Joel 2:7]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.9|Joel 2:9 >>]]</td></tr></table>
 

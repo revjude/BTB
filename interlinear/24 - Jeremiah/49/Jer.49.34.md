@@ -1,8 +1,63 @@
+---
+title: Jeremiah 49:34
+type: Verse
+kjv: "The word of the LORD that came to Jeremiah the prophet against Elam in the beginning of the reign of Zedekiah king of Judah, saying,"
+bsb: "This is the word of the LORD that came to Jeremiah the prophet concerning Elam at the beginning of the reign of Zedekiah king of Judah."
+hebrew: "אֲשֶׁ֨ר הָיָ֧ה דְבַר־ יְהוָ֛ה אֶל־ יִרְמְיָ֥הוּ הַנָּבִ֖יא אֶל־ עֵילָ֑ם בְּרֵאשִׁ֗ית מַלְכ֛וּת צִדְקִיָּ֥ה מֶֽלֶךְ־ יְהוּדָ֖ה לֵאמֹֽר׃"
+pericope: "[[Jer.49.34 Judgment on Elam|Judgment on Elam]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5867A]]"
+- "[[H9003]]"
+- "[[H7225G]]"
+- "[[H4438]]"
+- "[[H6667H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:34**<big><big>[[Jer.49.34 Judgment on Elam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word of the LORD that came to Jeremiah the prophet against Elam in the beginning of the reign of Zedekiah king of Judah, saying,
 <small><sub>**BSB:**</sub></small>
 This is the word of the LORD that came to Jeremiah the prophet concerning Elam at the beginning of the reign of Zedekiah king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָיָ֧ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֥הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H0413\|אֶל]][[H9014\|־]] [[H5867A\|עֵילָ֑ם]] [[H9003\|בְּ]][[H7225G\|רֵאשִׁ֗ית]] [[H4438\|מַלְכ֛וּת]] [[H6667H\|צִדְקִיָּ֥ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic PERSIA|PERSIA]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.33|<< Jeremiah 49:33]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.35|Jeremiah 49:35 >>]]</td></tr></table>
 

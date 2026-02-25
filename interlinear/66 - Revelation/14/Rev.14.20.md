@@ -1,10 +1,60 @@
+---
+title: Revelation 14:20
+type: Verse
+kjv: "And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand and six hundred furlongs."
+bsb: "And the winepress was trodden outside the city, and the blood that flowed from it rose as high as the bridles of the horses for a distance of 1,600 stadia."
+greek: "καὶ ἐπατήθη ἡ ληνὸς ἔξωθεν τῆς πόλεως, καὶ ἐξῆλθεν αἷμα ἐκ τῆς ληνοῦ ἄχρι τῶν χαλινῶν τῶν ἵππων ἀπὸ σταδίων χιλίων ἑξακοσίων.¶"
+pericope: "[[Rev.14.14 The Harvest of the Earth|The Harvest of the Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BRIDLE|BRIDLE]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WINE PRESS|WINE PRESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3961]]"
+- "[[G3588]]"
+- "[[G3025]]"
+- "[[G1855]]"
+- "[[G4172]]"
+- "[[G1831]]"
+- "[[G0129G]]"
+- "[[G1537]]"
+- "[[G0891]]"
+- "[[G5469]]"
+- "[[G2462]]"
+- "[[G0575]]"
+- "[[G4712]]"
+- "[[G5507]]"
+- "[[G1812]]"
+texts:
+- NKO
+---
+
 **Revelation 14:20**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand [and] six hundred furlongs.
 <small><sub>**BSB:**</sub></small>
 And the winepress was trodden outside the city, and the blood that flowed from it rose as high as the bridles of the horses for a distance of 1,600 stadia.
-<small><sub>**Literal:**</sub></small>
-And was trodden the winepress outside the city, and flowed blood out of the winepress as high as the bridles of the horses to the distance of stadia one thousand six hundred.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.19|<< Revelation 14:19]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.1|Revelation 15:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3961\|ἐπατήθη]]  [[G3588\|ἡ]]  [[G3025\|ληνὸς]]  [[G1855\|ἔξωθεν]]  [[G3588\|τῆς]]  [[G4172\|πόλεως,]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G0129G\|αἷμα]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3025\|ληνοῦ]]  [[G0891\|ἄχρι]]  [[G3588\|τῶν]]  [[G5469\|χαλινῶν]]  [[G3588\|τῶν]]  [[G2462\|ἵππων]]  [[G0575\|ἀπὸ]]  [[G4712\|σταδίων]]  [[G5507\|χιλίων]]  [[G1812\|ἑξακοσίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDLE|BRIDLE]] • [[topic GRAPE|GRAPE]] • [[topic VISION|VISION]] • [[topic WINE PRESS|WINE PRESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.19|<< Revelation 14:19]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.15.1|Revelation 15:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 14:20** is...
 > $\quad$ alluding to: [[LXX.Isa.63.3|Isa 63:3]] ☩ [[LXX.Lam.1.15|Lam 1:15]] ☩ [[LXX.Joel.3.13|Joel 3:13]]

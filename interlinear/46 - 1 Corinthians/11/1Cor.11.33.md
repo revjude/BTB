@@ -1,10 +1,49 @@
+---
+title: 1 Corinthians 11:33
+type: Verse
+kjv: "Wherefore, my brethren, when ye come together to eat, tarry one for another."
+bsb: "So, my brothers, when you come together to eat, wait for one another."
+greek: "Ὥστε, ἀδελφοί μου, συνερχόμενοι εἰς τὸ φαγεῖν ἀλλήλους ἐκδέχεσθε·"
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+strongs:
+- "[[G5620]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G4905]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G5315]]"
+- "[[G0240]]"
+- "[[G1551]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 11:33**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, my brethren, when ye come together to eat, tarry one for another.
 <small><sub>**BSB:**</sub></small>
 So, my brothers, when you come together to eat, wait for one another.
-<small><sub>**Literal:**</sub></small>
-So then, brothers of mine, coming together in order <the> to eat one another do wait for;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.32|<< 1 Corinthians 11:32]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.34|1 Corinthians 11:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|Ὥστε,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου,]]  [[G4905\|συνερχόμενοι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G5315\|φαγεῖν]]  [[G0240\|ἀλλήλους]]  [[G1551\|ἐκδέχεσθε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.32|<< 1 Corinthians 11:32]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.34|1 Corinthians 11:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

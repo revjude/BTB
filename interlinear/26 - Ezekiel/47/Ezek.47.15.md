@@ -1,8 +1,64 @@
+---
+title: Ezekiel 47:15
+type: Verse
+kjv: "And this shall be the border of the land toward the north side, from the great sea, the way of Hethlon, as men go to Zedad;"
+bsb: "This shall be the boundary of the land: On the north side it will extend from the Great Sea by way of Hethlon through Lebo-hamath to Zedad,"
+hebrew: "וְזֶ֖ה גְּב֣וּל הָאָ֑רֶץ לִפְאַ֨ת צָפ֜וֹנָה מִן־ הַיָּ֧ם הַגָּד֛וֹל הַדֶּ֥רֶךְ חֶתְלֹ֖ן לְב֥וֹא צְדָֽדָה׃"
+pericope: "[[Ezek.47.13 The Borders of the Land|The Borders of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 47
+book/chapter: "[[Ezek.47|Ezekiel 47]]"
+chronological_order: 838
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic HETHLON|HETHLON]]"
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+- "[[topic ZEDAD|ZEDAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H1366G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H6285]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3220G]]"
+- "[[H1419J]]"
+- "[[H1870K]]"
+- "[[H2855]]"
+- "[[H0935O]]"
+- "[[H6657]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 47:15**<big><big>[[Ezek.47.13 The Borders of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [shall be] the border of the land toward the north side, from the great sea, the way of Hethlon, as men go to Zedad;
 <small><sub>**BSB:**</sub></small>
 This shall be the boundary of the land: On the north side it will extend from the Great Sea by way of Hethlon through Lebo-hamath to Zedad,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֖ה]] [[H1366G\|גְּב֣וּל]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9005\|לִ]][[H6285\|פְאַ֨ת]] [[H6828G\|צָפ֜וֹנָ]][[H9011\|ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֧ם]] [[H9009\|הַ]][[H1419J\|גָּד֛וֹל]] [[H9009\|הַ]][[H1870K\|דֶּ֥רֶךְ]] [[H2855\|חֶתְלֹ֖ן]] [[H0935O\|לְב֥וֹא]] [[H6657\|צְדָֽדָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic HETHLON|HETHLON]] • [[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]] • [[topic ZEDAD|ZEDAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.47.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.47.14|<< Ezekiel 47:14]]</td><td align="center" style="border:none;">[[Ezek.47|Ezekiel 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.47.16|Ezekiel 47:16 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Lamentations 3:48
+type: Verse
+kjv: "Mine eye runneth down with rivers of water for the destruction of the daughter of my people."
+bsb: "Streams of tears flow from my eyes over the destruction of the daughter of my people."
+hebrew: "פַּלְגֵי־ מַ֙יִם֙ תֵּרַ֣ד עֵינִ֔י עַל־ שֶׁ֖בֶר בַּת־ עַמִּֽי׃ ס"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic RIVER|RIVER]]"
+strongs:
+- "[[H6388]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H3381]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H7667]]"
+- "[[H1323G]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 3:48**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eye runneth down with rivers of water for the destruction of the daughter of my people.
 <small><sub>**BSB:**</sub></small>
 Streams of tears flow from my eyes over the destruction of the daughter of my people.
+<small><sub>**Hebrew:**</sub></small>
+[[H6388\|פַּלְגֵי]][[H9014\|־]] [[H4325G\|מַ֙יִם֙]] [[H3381\|תֵּרַ֣ד]] [[H5869A\|עֵינִ֔]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H7667\|שֶׁ֖בֶר]] [[H1323G\|בַּת]][[H9014\|־]] [[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic RIVER|RIVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.47|<< Lamentations 3:47]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.49|Lamentations 3:49 >>]]</td></tr></table>
 
@@ -15,7 +60,7 @@ Streams of tears flow from my eyes over the destruction of the daughter of my pe
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] brokenness of  |**<big>&#8207;[[H7667\|שֶׁ֖בֶר]]&#8207; </big>**| She.ver<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people my  |**<big>&#8207;[[H5971A\|עַמִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people my  |**<big>&#8207;[[H5971A\|עַמִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.47|<< Lamentations 3:47]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.49|Lamentations 3:49 >>]]</td></tr></table>
 
 

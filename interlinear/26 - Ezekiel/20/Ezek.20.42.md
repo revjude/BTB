@@ -1,8 +1,69 @@
+---
+title: Ezekiel 20:42
+type: Verse
+kjv: "And ye shall know that I am the LORD, when I shall bring you into the land of Israel, into the country for the which I lifted up mine hand to give it to your fathers."
+bsb: "Then you will know that I am the LORD, when I bring you into the land of Israel, the land that I swore to give your fathers."
+hebrew: "וִֽידַעְתֶּם֙ כִּֽי־ אֲנִ֣י יְהוָ֔ה בַּהֲבִיאִ֥י אֶתְכֶ֖ם אֶל־ אַדְמַ֣ת יִשְׂרָאֵ֑ל אֶל־ הָאָ֗רֶץ אֲשֶׁ֤ר נָשָׂ֙אתִי֙ אֶת־ יָדִ֔י לָתֵ֥ת אוֹתָ֖הּ לַאֲבֽוֹתֵיכֶֽם׃"
+pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0935P]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0413]]"
+- "[[H0127G]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5375P]]"
+- "[[H3027S]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:42**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall know that I [am] the LORD, when I shall bring you into the land of Israel, into the country [for] the which I lifted up mine hand to give it to your fathers.
 <small><sub>**BSB:**</sub></small>
 Then you will know that I am the LORD, when I bring you into the land of Israel, the land that I swore to give your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וִֽ]][[H3045\|ידַעְתֶּם֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בַּ]][[H0935P\|הֲבִיאִ֥]][[H9040\|י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0127G\|אַדְמַ֣ת]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁ֤ר]] [[H5375P\|נָשָׂ֙אתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3027S\|יָדִ֔]][[H9020\|י]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H0853\|אוֹתָ֖]][[H9034\|הּ]] [[H9005\|לַ]][[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.41|<< Ezekiel 20:41]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.43|Ezekiel 20:43 >>]]</td></tr></table>
 

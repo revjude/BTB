@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Grief Will Turn to Joy
+type: Pericope
 pericope: "[[John.16.17 Grief Will Turn to Joy|Grief Will Turn to Joy]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: John
 chapter: 16
 book/chapter: "[[John.16|John 16]]"
-genre:
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 6
 verses:
 - "[[John.16.17]]"
 - "[[John.16.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[John.16.22]]"
 ---
 
-[[John.16|John 16:17 - John 16:22]]
+<small>[[John.16|John 16:17-22]]</small>
 *Grief Will Turn to Joy*
 
 [[John.16.17|17]] Then said \[some\] of his disciples among themselves, What is this that he saith unto us, A little while, and ye shall not see me: and again, a little while, and ye shall see me: and, Because I go to the Father?

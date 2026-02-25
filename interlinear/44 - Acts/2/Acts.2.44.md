@@ -1,10 +1,56 @@
+---
+title: Acts 2:44
+type: Verse
+kjv: "And all that believed were together, and had all things common;"
+bsb: "All the believers were together and had everything in common."
+greek: "πάντες δὲ οἱ πιστεύοντες ἦσαν ἐπὶ τὸ αὐτὸ καὶ εἶχον ἅπαντα κοινά,"
+pericope: "[[Acts.2.42 The Fellowship of Believers|The Fellowship of Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G0537]]"
+- "[[G2839H]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 2:44**<big><big>[[Acts.2.42 The Fellowship of Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all that believed were together, and had all things common;
 <small><sub>**BSB:**</sub></small>
 All the believers were together and had everything in common.
-<small><sub>**Literal:**</sub></small>
-All now those believing were together the same and were having all things in common,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.43|<< Acts 2:43]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.45|Acts 2:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G4100\|πιστεύοντες]]  [[G1510\|ἦσαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G2532\|καὶ]]  [[G2192\|εἶχον]]  [[G0537\|ἅπαντα]]  [[G2839H\|κοινά,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMUNISM|COMMUNISM]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.43|<< Acts 2:43]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.45|Acts 2:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

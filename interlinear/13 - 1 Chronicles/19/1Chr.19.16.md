@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 19:16
+type: Verse
+kjv: "And when the Syrians saw that they were put to the worse before Israel, they sent messengers, and drew forth the Syrians that were beyond the river: and Shophach the captain of the host of Hadarezer went before them."
+bsb: "When the Arameans saw that they had been defeated by Israel, they sent messengers to bring more Arameans from beyond the Euphrates, with Shophach the commander of Hadadezer’s army leading them."
+hebrew: "וַיַּ֣רְא אֲרָ֗ם כִּ֣י נִגְּפוּ֮ לִפְנֵ֣י יִשְׂרָאֵל֒ וַֽיִּשְׁלְחוּ֙ מַלְאָכִ֔ים וַיּוֹצִ֣יאוּ אֶת־ אֲרָ֔ם אֲשֶׁ֖ר מֵעֵ֣בֶר הַנָּהָ֑ר וְשׁוֹפַ֛ךְ שַׂר־ צְבָ֥א הֲדַדְעֶ֖זֶר לִפְנֵיהֶֽם׃"
+pericope: "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic SHOBACH|SHOBACH]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0758I]]"
+- "[[H3588A]]"
+- "[[H5062]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3478]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H5676H]]"
+- "[[H9009]]"
+- "[[H5104G]]"
+- "[[H9002]]"
+- "[[H7780]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H1928]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:16**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the Syrians saw that they were put to the worse before Israel, they sent messengers, and drew forth the Syrians that [were] beyond the river: and Shophach the captain of the host of Hadarezer [went] before them.
 <small><sub>**BSB:**</sub></small>
 When the Arameans saw that they had been defeated by Israel, they sent messengers to bring more Arameans from beyond the Euphrates, with Shophach the commander of Hadadezer’s army leading them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H0758I\|אֲרָ֗ם]] [[H3588A\|כִּ֣י]] [[H5062\|נִגְּפוּ֮]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9001\|וַֽ]][[H7971G\|יִּשְׁלְחוּ֙]] [[H4397G\|מַלְאָכִ֔ים]] [[H9001\|וַ]][[H3318H\|יּוֹצִ֣יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0758I\|אֲרָ֔ם]] [[H0834A\|אֲשֶׁ֖ר]] [[H9006\|מֵ]][[H5676H\|עֵ֣בֶר]] [[H9009\|הַ]][[H5104G\|נָּהָ֑ר]] [[H9002\|וְ]][[H7780\|שׁוֹפַ֛ךְ]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָ֥א]] [[H1928\|הֲדַדְעֶ֖זֶר]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic SHOBACH|SHOBACH]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.15|<< 1 Chronicles 19:15]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.17|1 Chronicles 19:17 >>]]</td></tr></table>
 

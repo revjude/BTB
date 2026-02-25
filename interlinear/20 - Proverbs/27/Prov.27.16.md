@@ -1,8 +1,52 @@
+---
+title: Proverbs 27:16
+type: Verse
+kjv: "Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself."
+bsb: "restraining her is like holding back the wind or grasping oil with one’s right hand."
+hebrew: "צֹפְנֶ֥יהָ צָֽפַן־ ר֑וּחַ וְשֶׁ֖מֶן יְמִינ֣וֹ יִקְרָֽא׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H6845]]"
+- "[[H9034]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H9002]]"
+- "[[H8081]]"
+- "[[H3225G]]"
+- "[[H9023]]"
+- "[[H7122H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:16**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whosoever hideth her hideth the wind, and the ointment of his right hand, [which] bewrayeth [itself].
 <small><sub>**BSB:**</sub></small>
 restraining her is like holding back the wind or grasping oil with one’s right hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H6845\|צֹפְנֶ֥י]][[H9034\|הָ]] [[H6845\|צָֽפַן]][[H9014\|־]] [[H7307H\|ר֑וּחַ]] [[H9002\|וְ]][[H8081\|שֶׁ֖מֶן]] [[H3225G\|יְמִינ֣]][[H9023\|וֹ]] [[H7122H\|יִקְרָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic FAMILY|FAMILY]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.15|<< Proverbs 27:15]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.17|Proverbs 27:17 >>]]</td></tr></table>
 

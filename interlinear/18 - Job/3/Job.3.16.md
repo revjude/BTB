@@ -1,8 +1,54 @@
+---
+title: Job 3:16
+type: Verse
+kjv: "Or as an hidden untimely birth I had not been; as infants which never saw light."
+bsb: "Or why was I not hidden like a stillborn child, like an infant who never sees daylight?"
+hebrew: "א֤וֹ כְנֵ֣פֶל טָ֭מוּן לֹ֣א אֶהְיֶ֑ה כְּ֝עֹלְלִ֗ים לֹא־ רָ֥אוּ אֽוֹר׃"
+pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 3
+book/chapter: "[[Job.3|Job 3]]"
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H0176A]]"
+- "[[H9004]]"
+- "[[H5309]]"
+- "[[H2934]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5768]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H0216]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 3:16**<big><big>[[Job.3.1 Job Laments His Birth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or as an hidden untimely birth I had not been; as infants [which] never saw light.
 <small><sub>**BSB:**</sub></small>
 Or why was I not hidden like a stillborn child, like an infant who never sees daylight?
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֤וֹ]] [[H9004\|כְ]][[H5309\|נֵ֣פֶל]] [[H2934\|טָ֭מוּן]] [[H3808\|לֹ֣א]] [[H1961\|אֶהְיֶ֑ה]] [[H9004\|כְּ֝]][[H5768\|עֹלְלִ֗ים]] [[H3808\|לֹא]][[H9014\|־]] [[H7200G\|רָ֥אוּ]] [[H0216\|אֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.3.15|<< Job 3:15]]</td><td align="center" style="border:none;">[[Job.3|Job 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.3.17|Job 3:17 >>]]</td></tr></table>
 

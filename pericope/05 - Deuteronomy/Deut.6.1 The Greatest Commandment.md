@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Greatest Commandment
+type: Pericope
 pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 6
 book/chapter: "[[Deut.6|Deuteronomy 6]]"
-genre:
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 19
 verses:
 - "[[Deut.6.1]]"
 - "[[Deut.6.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Deut.6.19]]"
 ---
 
-[[Deut.6|Deuteronomy 6:1 - Deuteronomy 6:19]]
+<small>[[Deut.6|Deuteronomy 6:1-19]]</small>
 *The Greatest Commandment*
 
 [[Deut.6.1|1]] Now these \[are\] the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do \[them\] in the land whither ye go to possess it:

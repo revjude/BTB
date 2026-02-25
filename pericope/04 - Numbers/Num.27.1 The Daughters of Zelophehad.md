@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Daughters of Zelophehad
+type: Pericope
 pericope: "[[Num.27.1 The Daughters of Zelophehad|The Daughters of Zelophehad]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 27
 book/chapter: "[[Num.27|Numbers 27]]"
-genre:
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 11
 verses:
 - "[[Num.27.1]]"
 - "[[Num.27.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Num.27.11]]"
 ---
 
-[[Num.27|Numbers 27:1 - Numbers 27:11]]
+<small>[[Num.27|Numbers 27:1-11]]</small>
 *The Daughters of Zelophehad*
 
 [[Num.27.1|1]] Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these \[are\] the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.

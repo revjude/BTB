@@ -1,8 +1,67 @@
+---
+title: Genesis 31:37
+type: Verse
+kjv: "Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set it here before my brethren and thy brethren, that they may judge betwixt us both."
+bsb: "You have searched all my goods! Have you found anything that belongs to you? Put it here before my brothers and yours, that they may judge between the two of us."
+hebrew: "כִּֽי־ מִשַּׁ֣שְׁתָּ אֶת־ כָּל־ כֵּלַ֗י מַה־ מָּצָ֙אתָ֙ מִכֹּ֣ל כְּלֵי־ בֵיתֶ֔ךָ שִׂ֣ים כֹּ֔ה נֶ֥גֶד אַחַ֖י וְאַחֶ֑יךָ וְיוֹכִ֖יחוּ בֵּ֥ין שְׁנֵֽינוּ׃"
+pericope: "[[Gen.31.22 Laban Pursues Jacob|Laban Pursues Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4959]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9020]]"
+- "[[H4100]]"
+- "[[H4672]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H7760A]]"
+- "[[H3541]]"
+- "[[H5048]]"
+- "[[H0251H]]"
+- "[[H9002]]"
+- "[[H3198]]"
+- "[[H0996G]]"
+- "[[H8147]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:37**<big><big>[[Gen.31.22 Laban Pursues Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set [it] here before my brethren and thy brethren, that they may judge betwixt us both.
 <small><sub>**BSB:**</sub></small>
 You have searched all my goods! Have you found anything that belongs to you? Put it here before my brothers and yours, that they may judge between the two of us.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H4959\|מִשַּׁ֣שְׁתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלַ֗]][[H9020\|י]] [[H4100\|מַה]][[H9014\|־]] [[H4672\|מָּצָ֙אתָ֙]] [[H9006\|מִ]][[H3605\|כֹּ֣ל]] [[H3627\|כְּלֵי]][[H9014\|־]] [[H1004M\|בֵיתֶ֔]][[H9021\|ךָ]] [[H7760A\|שִׂ֣ים]] [[H3541\|כֹּ֔ה]] [[H5048\|נֶ֥גֶד]] [[H0251H\|אַחַ֖]][[H9020\|י]] [[H9002\|וְ]][[H0251H\|אַחֶ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3198\|יוֹכִ֖יחוּ]] [[H0996G\|בֵּ֥ין]] [[H8147\|שְׁנֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic DISHONESTY|DISHONESTY]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.36|<< Genesis 31:36]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.38|Genesis 31:38 >>]]</td></tr></table>
 

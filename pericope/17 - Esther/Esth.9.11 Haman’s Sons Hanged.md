@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Haman’s Sons Hanged
+type: Pericope
 pericope: "[[Esth.9.11 Haman’s Sons Hanged|Haman’s Sons Hanged]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 9
 book/chapter: "[[Esth.9|Esther 9]]"
-genre:
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 7
 verses:
 - "[[Esth.9.11]]"
 - "[[Esth.9.12]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Esth.9.17]]"
 ---
 
-[[Esth.9|Esther 9:11 - Esther 9:17]]
+<small>[[Esth.9|Esther 9:11-17]]</small>
 *Haman’s Sons Hanged*
 
 [[Esth.9.11|11]] On that day the number of those that were slain in Shushan the palace was brought before the king.

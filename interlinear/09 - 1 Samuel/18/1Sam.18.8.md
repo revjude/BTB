@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 18:8
+type: Verse
+kjv: "And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?"
+bsb: "And Saul was furious and resented this song. “They have ascribed tens of thousands to David,” he said, “but only thousands to me. What more can he have but the kingdom?”"
+hebrew: "וַיִּ֨חַר לְשָׁא֜וּל מְאֹ֗ד וַיֵּ֤רַע בְּעֵינָיו֙ הַדָּבָ֣ר הַזֶּ֔ה וַיֹּ֗אמֶר נָתְנ֤וּ לְדָוִד֙ רְבָב֔וֹת וְלִ֥י נָתְנ֖וּ הָאֲלָפִ֑ים וְע֥וֹד ל֖וֹ אַ֥ךְ הַמְּלוּכָֽה׃"
+pericope: "[[1Sam.18.5 Saul Envies David|Saul Envies David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9005]]"
+- "[[H7586G]]"
+- "[[H3966]]"
+- "[[H7489A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H1697H]]"
+- "[[H2088]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H1732]]"
+- "[[H7233]]"
+- "[[H9002]]"
+- "[[H9030]]"
+- "[[H0505G]]"
+- "[[H5750]]"
+- "[[H9033]]"
+- "[[H0389]]"
+- "[[H4410]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 18:8**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed [but] thousands: and [what] can he have more but the kingdom?
 <small><sub>**BSB:**</sub></small>
 And Saul was furious and resented this song. “They have ascribed tens of thousands to David,” he said, “but only thousands to me. What more can he have but the kingdom?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּ֨חַר]] [[H9005\|לְ]][[H7586G\|שָׁא֜וּל]] [[H3966\|מְאֹ֗ד]] [[H9001\|וַ]][[H7489A\|יֵּ֤רַע]] [[H9003\|בְּ]][[H5869I\|עֵינָי]][[H9023\|ו֙]] [[H9009\|הַ]][[H1697H\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H5414G\|נָתְנ֤וּ]] [[H9005\|לְ]][[H1732\|דָוִד֙]] [[H7233\|רְבָב֔וֹת]] [[H9002\|וְ]][[H9005\|לִ֥]][[H9030\|י]] [[H5414G\|נָתְנ֖וּ]] [[H9009\|הָ]][[H0505G\|אֲלָפִ֑ים]] [[H9002\|וְ]][[H5750\|ע֥וֹד]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H0389\|אַ֥ךְ]] [[H9009\|הַ]][[H4410\|מְּלוּכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ENVY|ENVY]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.7|<< 1 Samuel 18:7]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.9|1 Samuel 18:9 >>]]</td></tr></table>
 

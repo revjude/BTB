@@ -1,8 +1,69 @@
+---
+title: 2 Kings 7:17
+type: Verse
+kjv: "And the king appointed the lord on whose hand he leaned to have the charge of the gate: and the people trode upon him in the gate, and he died, as the man of God had said, who spake when the king came down to him."
+bsb: "Now the king had appointed the officer on whose arm he leaned to be in charge of the gate, but the people trampled him in the gateway, and he died, just as the man of God had foretold when the king had come to him."
+hebrew: "וְהַמֶּלֶךְ֩ הִפְקִ֨יד אֶת־ הַשָּׁלִ֜ישׁ אֲשֶׁר־ נִשְׁעָ֤ן עַל־ יָדוֹ֙ עַל־ הַשַּׁ֔עַר וַיִּרְמְסֻ֧הוּ הָעָ֛ם בַּשַּׁ֖עַר וַיָּמֹ֑ת כַּאֲשֶׁ֤ר דִּבֶּר֙ אִ֣ישׁ הָאֱלֹהִ֔ים אֲשֶׁ֣ר דִּבֶּ֔ר בְּרֶ֥דֶת הַמֶּ֖לֶךְ אֵלָֽיו׃"
+pericope: "[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|Elisha’s Prophecy Fulfilled]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GATES|GATES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6485J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7991C]]"
+- "[[H0834A]]"
+- "[[H8172]]"
+- "[[H5921A]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H8179G]]"
+- "[[H9001]]"
+- "[[H7429]]"
+- "[[H9033]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H4191]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H3381]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:17**<big><big>[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king appointed the lord on whose hand he leaned to have the charge of the gate: and the people trode upon him in the gate, and he died, as the man of God had said, who spake when the king came down to him.
 <small><sub>**BSB:**</sub></small>
 Now the king had appointed the officer on whose arm he leaned to be in charge of the gate, but the people trampled him in the gateway, and he died, just as the man of God had foretold when the king had come to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּלֶךְ֩]] [[H6485J\|הִפְקִ֨יד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7991C\|שָּׁלִ֜ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8172\|נִשְׁעָ֤ן]] [[H5921A\|עַל]][[H9014\|־]] [[H3027H\|יָד]][[H9023\|וֹ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H9001\|וַ]][[H7429\|יִּרְמְסֻ֧]][[H9033\|הוּ]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H9003\|בַּ]][[H8179G\|שַּׁ֖עַר]] [[H9001\|וַ]][[H4191\|יָּמֹ֑ת]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H1696G\|דִּבֶּר֙]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696G\|דִּבֶּ֔ר]] [[H9003\|בְּ]][[H3381\|רֶ֥דֶת]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.16|<< 2 Kings 7:16]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.18|2 Kings 7:18 >>]]</td></tr></table>
 

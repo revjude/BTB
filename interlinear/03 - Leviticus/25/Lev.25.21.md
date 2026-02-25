@@ -1,8 +1,64 @@
+---
+title: Leviticus 25:21
+type: Verse
+kjv: "Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years."
+bsb: "But I will send My blessing upon you in the sixth year, so that the land will yield a crop sufficient for three years."
+hebrew: "וְצִוִּ֤יתִי אֶת־ בִּרְכָתִי֙ לָכֶ֔ם בַּשָּׁנָ֖ה הַשִּׁשִּׁ֑ית וְעָשָׂת֙ אֶת־ הַתְּבוּאָ֔ה לִשְׁלֹ֖שׁ הַשָּׁנִֽים׃"
+pericope: "[[Lev.25.18 The Blessing of Obedience|The Blessing of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUBILEE|JUBILEE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1293]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H8345]]"
+- "[[H6213H]]"
+- "[[H8393]]"
+- "[[H7969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:21**<big><big>[[Lev.25.18 The Blessing of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.
 <small><sub>**BSB:**</sub></small>
 But I will send My blessing upon you in the sixth year, so that the land will yield a crop sufficient for three years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6680\|צִוִּ֤יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H1293\|בִּרְכָתִ]][[H9020\|י֙]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֖ה]] [[H9009\|הַ]][[H8345\|שִּׁשִּׁ֑ית]] [[H9001\|וְ]][[H6213H\|עָשָׂת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8393\|תְּבוּאָ֔ה]] [[H9005\|לִ]][[H7969\|שְׁלֹ֖שׁ]] [[H9009\|הַ]][[H8141\|שָּׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic JUBILEE|JUBILEE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.20|<< Leviticus 25:20]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.22|Leviticus 25:22 >>]]</td></tr></table>
 

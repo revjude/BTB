@@ -1,8 +1,73 @@
+---
+title: 2 Kings 9:20
+type: Verse
+kjv: "And the watchman told, saying, He came even unto them, and cometh not again: and the driving is like the driving of Jehu the son of Nimshi; for he driveth furiously."
+bsb: "Again the watchman reported, “He reached them, but he is not coming back. And the charioteer is driving like Jehu son of Nimshi—he is driving like a madman!”"
+hebrew: "וַיַּגֵּ֤ד הַצֹּפֶה֙ לֵאמֹ֔ר בָּ֥א עַד־ אֲלֵיהֶ֖ם וְלֹֽא־ שָׁ֑ב וְהַמִּנְהָ֗ג כְּמִנְהַג֙ יֵה֣וּא בֶן־ נִמְשִׁ֔י כִּ֥י בְשִׁגָּע֖וֹן יִנְהָֽג׃"
+pericope: "[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|Jehu Kills Joram and Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DRIVING|DRIVING]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic NIMSHI|NIMSHI]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9009]]"
+- "[[H6822]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H4491]]"
+- "[[H9004]]"
+- "[[H3058H]]"
+- "[[H1121A]]"
+- "[[H5250]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H7697]]"
+- "[[H5090A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:20**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the watchman told, saying, He came even unto them, and cometh not again: and the driving [is] like the driving of Jehu the son of Nimshi; for he driveth furiously.
 <small><sub>**BSB:**</sub></small>
 Again the watchman reported, “He reached them, but he is not coming back. And the charioteer is driving like Jehu son of Nimshi—he is driving like a madman!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגֵּ֤ד]] [[H9009\|הַ]][[H6822\|צֹּפֶה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0935G\|בָּ֥א]] [[H5704\|עַד]][[H9014\|־]] [[H0413\|אֲלֵי]][[H9038\|הֶ֖ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|שָׁ֑ב]] [[H9002\|וְ]][[H9009\|הַ]][[H4491\|מִּנְהָ֗ג]] [[H9004\|כְּ]][[H4491\|מִנְהַג֙]] [[H3058H\|יֵה֣וּא]] [[H1121A\|בֶן]][[H9014\|־]] [[H5250\|נִמְשִׁ֔י]] [[H3588A\|כִּ֥י]] [[H9003\|בְ]][[H7697\|שִׁגָּע֖וֹן]] [[H5090A\|יִנְהָֽג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECISION|DECISION]] • [[topic DRIVING|DRIVING]] • [[topic JEHU|JEHU]] • [[topic JEZREEL|JEZREEL]] • [[topic JORAM|JORAM]] • [[topic NIMSHI|NIMSHI]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.19|<< 2 Kings 9:19]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.21|2 Kings 9:21 >>]]</td></tr></table>
 

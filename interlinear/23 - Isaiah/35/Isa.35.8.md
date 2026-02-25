@@ -1,8 +1,71 @@
+---
+title: Isaiah 35:8
+type: Verse
+kjv: "And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for those: the wayfaring men, though fools, shall not err therein."
+bsb: "And there will be a highway called the Way of Holiness. The unclean will not travel it—only those who walk in the Way—and fools will not stray onto it."
+hebrew: "וְהָיָה־ שָׁ֞ם מַסְל֣וּל וָדֶ֗רֶךְ וְדֶ֤רֶךְ הַקֹּ֙דֶשׁ֙ יִקָּ֣רֵא לָ֔הּ לֹֽא־ יַעַבְרֶ֥נּוּ טָמֵ֖א וְהוּא־ לָ֑מוֹ הֹלֵ֥ךְ דֶּ֛רֶךְ וֶאֱוִילִ֖ים לֹ֥א יִתְעֽוּ׃"
+pericope: "[[Isa.35.1 The Glory of Zion|The Glory of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 35
+book/chapter: "[[Isa.35|Isaiah 35]]"
+chronological_order: 678
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HIGHWAYS|HIGHWAYS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WAY|WAY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H4547]]"
+- "[[H9002]]"
+- "[[H1870K]]"
+- "[[H1870H]]"
+- "[[H9009]]"
+- "[[H6944I]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H5674A]]"
+- "[[H9033]]"
+- "[[H2931]]"
+- "[[H1931]]"
+- "[[H9038]]"
+- "[[H1980I]]"
+- "[[H0191]]"
+- "[[H8582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 35:8**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And an highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it [shall be] for those: the wayfaring men, though fools, shall not err [therein].
 <small><sub>**BSB:**</sub></small>
 And there will be a highway called the Way of Holiness. The unclean will not travel it—only those who walk in the Way—and fools will not stray onto it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה]][[H9014\|־]] [[H8033G\|שָׁ֞ם]] [[H4547\|מַסְל֣וּל]] [[H9002\|וָ]][[H1870K\|דֶ֗רֶךְ]] [[H9002\|וְ]][[H1870H\|דֶ֤רֶךְ]] [[H9009\|הַ]][[H6944I\|קֹּ֙דֶשׁ֙]] [[H7121H\|יִקָּ֣רֵא]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5674A\|יַעַבְרֶ֥]][[H9033\|נּוּ]] [[H2931\|טָמֵ֖א]] [[H9002\|וְ]][[H1931\|הוּא]][[H9014\|־]] [[H9005\|לָ֑]][[H9038\|מוֹ]] [[H1980I\|הֹלֵ֥ךְ]] [[H1870K\|דֶּ֛רֶךְ]] [[H9002\|וֶ]][[H0191\|אֱוִילִ֖ים]] [[H3808\|לֹ֥א]] [[H8582\|יִתְעֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic HIGHWAYS|HIGHWAYS]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic WAY|WAY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.7|<< Isaiah 35:7]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.9|Isaiah 35:9 >>]]</td></tr></table>
 

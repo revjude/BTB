@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Barren Fig Tree
+type: Pericope
 pericope: "[[Matt.21.18 The Barren Fig Tree|The Barren Fig Tree]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 21
 book/chapter: "[[Matt.21|Matthew 21]]"
-genre:
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.21.18]]"
 - "[[Matt.21.19]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.21.22]]"
 ---
 
-[[Matt.21|Matthew 21:18 - Matthew 21:22]]
+<small>[[Matt.21|Matthew 21:18-22]]</small>
 *The Barren Fig Tree*
 
 [[Matt.21.18|18]] Now in the morning as he returned into the city, he hungered.

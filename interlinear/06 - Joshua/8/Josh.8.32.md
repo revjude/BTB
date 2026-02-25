@@ -1,8 +1,64 @@
+---
+title: Joshua 8:32
+type: Verse
+kjv: "And he wrote there upon the stones a copy of the law of Moses, which he wrote in the presence of the children of Israel."
+bsb: "And there in the presence of the Israelites, Joshua inscribed on the stones a copy of the law of Moses, which he had written."
+hebrew: "וַיִּכְתָּב־ שָׁ֖ם עַל־ הָאֲבָנִ֑ים אֵ֗ת מִשְׁנֵה֙ תּוֹרַ֣ת מֹשֶׁ֔ה אֲשֶׁ֣ר כָּתַ֔ב לִפְנֵ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Josh.8.30 Joshua Renews the Covenant|Joshua Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic STONES|STONES]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H3789]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0068G]]"
+- "[[H0853]]"
+- "[[H4932H]]"
+- "[[H8451]]"
+- "[[H4872]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H6440H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:32**<big><big>[[Josh.8.30 Joshua Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he wrote there upon the stones a copy of the law of Moses, which he wrote in the presence of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 And there in the presence of the Israelites, Joshua inscribed on the stones a copy of the law of Moses, which he had written.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3789\|יִּכְתָּב]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0068G\|אֲבָנִ֑ים]] [[H0853\|אֵ֗ת]] [[H4932H\|מִשְׁנֵה֙]] [[H8451\|תּוֹרַ֣ת]] [[H4872\|מֹשֶׁ֔ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H3789\|כָּתַ֔ב]] [[H9005\|לִ]][[H6440H\|פְנֵ֖י]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CURSE|CURSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LAW|LAW]] • [[topic STONES|STONES]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.31|<< Joshua 8:31]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.33|Joshua 8:33 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Athaliah
+type: Pericope
 pericope: "[[2Chr.23.12 The Death of Athaliah|The Death of Athaliah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 23
 book/chapter: "[[2Chr.23|2 Chronicles 23]]"
-genre:
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.23.12]]"
 - "[[2Chr.23.13]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.23.15]]"
 ---
 
-[[2Chr.23|2 Chronicles 23:12 - 2 Chronicles 23:15]]
+<small>[[2Chr.23|2 Chronicles 23:12-15]]</small>
 *The Death of Athaliah*
 
 [[2Chr.23.12|12]] Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD:

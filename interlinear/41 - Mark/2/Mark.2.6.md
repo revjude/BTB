@@ -1,10 +1,54 @@
+---
+title: Mark 2:6
+type: Verse
+kjv: "But there were certain of the scribes sitting there, and reasoning in their hearts,"
+bsb: "But some of the scribes were sitting there and thinking in their hearts,"
+greek: "ἦσαν δέ τινες τῶν γραμματέων ἐκεῖ καθήμενοι καὶ διαλογιζόμενοι ἐν ταῖς καρδίαις αὐτῶν·"
+pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G1122]]"
+- "[[G1563]]"
+- "[[G2521]]"
+- "[[G2532]]"
+- "[[G1260]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Mark 2:6**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But there were certain of the scribes sitting there, and reasoning in their hearts,
 <small><sub>**BSB:**</sub></small>
 But some of the scribes were sitting there and thinking in their hearts,
-<small><sub>**Literal:**</sub></small>
-were now some of the scribes there sitting and reasoning in the hearts of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.5|<< Mark 2:5]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.7|Mark 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦσαν]]  [[G1161\|δέ]]  [[G5100\|τινες]]  [[G3588\|τῶν]]  [[G1122\|γραμματέων]]  [[G1563\|ἐκεῖ]]  [[G2521\|καθήμενοι]]  [[G2532\|καὶ]]  [[G1260\|διαλογιζόμενοι]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G0846\|αὐτῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.5|<< Mark 2:5]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.7|Mark 2:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 14:6
+type: Verse
+kjv: "And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the LORD had given him rest."
+bsb: "Because the land was at peace, Asa built fortified cities in Judah. In those days no one made war with him, because the LORD had given him rest."
+hebrew: "וַיִּ֛בֶן עָרֵ֥י מְצוּרָ֖ה בִּיהוּדָ֑ה כִּֽי־ שָׁקְטָ֣ה הָאָ֗רֶץ וְאֵין־ עִמּ֤וֹ מִלְחָמָה֙ בַּשָּׁנִ֣ים הָאֵ֔לֶּה כִּֽי־ הֵנִ֥יחַ יְהוָ֖ה לֽוֹ׃"
+pericope: "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 14
+book/chapter: "[[2Chr.14|2 Chronicles 14]]"
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H5892B]]"
+- "[[H4694]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8252]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H4421]]"
+- "[[H8141]]"
+- "[[H0428]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 14:6**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the LORD had given him rest.
 <small><sub>**BSB:**</sub></small>
 Because the land was at peace, Asa built fortified cities in Judah. In those days no one made war with him, because the LORD had given him rest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּ֛בֶן]] [[H5892B\|עָרֵ֥י]] [[H4694\|מְצוּרָ֖ה]] [[H9003\|בִּ]][[H3063G\|יהוּדָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8252\|שָׁקְטָ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H9002\|וְ]][[H0369\|אֵין]][[H9014\|־]] [[H5973A\|עִמּ֤]][[H9033\|וֹ]] [[H4421\|מִלְחָמָה֙]] [[H9003\|בַּ]][[H8141\|שָּׁנִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5117\|הֵנִ֥יחַ]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.5|<< 2 Chronicles 14:5]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.7|2 Chronicles 14:7 >>]]</td></tr></table>
 

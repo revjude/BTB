@@ -1,6 +1,82 @@
+---
+title: LXX Exodus 16:23
+type: Verse
+lxx: "And Moses said to them, This  word is what the lord spoke. A Sabbath rest, holy to the lord is tomorrow. Whatever as much as you should bake -- bake. And whatever as much as you should boil -- boil! And all that being superabundant leave it for reposit for the morning!"
+greek: "είπε δε Μωυσής προς αυτούς τούτο το ρήμά εστιν ο ελάλησε κύριος σάββατα ανάπαυσις αγία τω κυρίω άυριον όσα εάν πέσσητε πέσσετε και όσα εαν έψητε έψετε και παν το πλεονάζον καταλείπετε αυτό εις αποθήκην εις τοπρωϊ"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3475]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2980]]"
+- "[[G2962]]"
+- "[[G4521]]"
+- "[[G0372]]"
+- "[[G0039]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G0839]]"
+- "[[G3745]]"
+- "[[G1437]]"
+- "[[G8778]]"
+- "[[G8778]]"
+- "[[G2532]]"
+- "[[G3745]]"
+- "[[G1437]]"
+- "[[G7594]]"
+- "[[G7594]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4121]]"
+- "[[G2641]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G0596]]"
+- "[[G1519]]"
+- "[[G4404]]"
+---
+
 **LXX Exodus 16:23** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to them, This  word is what \[the\] <span class="smallcaps">lord</span> spoke. A Sabbath rest, holy to the <span class="smallcaps">lord</span> \[is\] tomorrow. Whatever as much as you should bake -- bake. And whatever as much as you should boil -- boil! And all that being superabundant leave it for reposit for the morning! 
+<small><sub>**Greek:**</sub></small>
+[[G2036\|είπε]] [[G1161\|δε]] [[G3475\|Μωυσής]] [[G4314\|προς]] [[G1473\|αυτούς]] [[G3778\|τούτο]] [[G3588\|το]] [[G4487\|ρήμά]] [[G1510\|εστιν]] [[G3739\|ο]] [[G2980\|ελάλησε]] [[G2962\|κύριος]] [[G4521\|σάββατα]] [[G0372\|ανάπαυσις]] [[G0039\|αγία]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G0839\|άυριον]] [[G3745\|όσα]] [[G1437\|εάν]] [[G8778\|πέσσητε]] [[G8778\|πέσσετε]] [[G2532\|και]] [[G3745\|όσα]] [[G1437\|εαν]] [[G7594\|έψητε]] [[G7594\|έψετε]] [[G2532\|και]] [[G3956\|παν]] [[G3588\|το]] [[G4121\|πλεονάζον]] [[G2641\|καταλείπετε]] [[G1473\|αυτό]] [[G1519\|εις]] [[G0596\|αποθήκην]] [[G1519\|εις]] [[G4404\|τοπρωϊ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRUGALITY|FRUGALITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.22|<< Exodus 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.24|Exodus 16:24 >>]]</td></tr></table>
 
@@ -40,6 +116,6 @@ And Moses said to them, This  word is what \[the\] <span class="smallcaps">lord<
 | reposit | **<big>[[G0596\|αποθήκην]]</big>** |
 | for | **<big>[[G1519\|εις]]</big>** |
 | the morning! | **<big>[[G4404\|τοπρωϊ]]</big>** |
-[[Exod.16.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.22|<< Exodus 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.24|Exodus 16:24 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.16.22|<< Exodus 16:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.16.24|Exodus 16:24 >>]]</td></tr></table>
 
 

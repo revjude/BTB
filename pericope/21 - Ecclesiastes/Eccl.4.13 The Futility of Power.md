@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Futility of Power
+type: Pericope
 pericope: "[[Eccl.4.13 The Futility of Power|The Futility of Power]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 4
 book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
-genre:
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 4
 verses:
 - "[[Eccl.4.13]]"
 - "[[Eccl.4.14]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Eccl.4.16]]"
 ---
 
-[[Eccl.4|Ecclesiastes 4:13 - Ecclesiastes 4:16]]
+<small>[[Eccl.4|Ecclesiastes 4:13-16]]</small>
 *The Futility of Power*
 
 [[Eccl.4.13|13]] Better \[is\] a poor and a wise child than an old and foolish king, who will no more be admonished.

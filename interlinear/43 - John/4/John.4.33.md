@@ -1,10 +1,55 @@
+---
+title: John 4:33
+type: Verse
+kjv: "Therefore said the disciples one to another, Hath any man brought him ought to eat?"
+bsb: "So the disciples asked one another, “Could someone have brought Him food?”"
+greek: "ἔλεγον οὖν οἱ μαθηταὶ πρὸς ἀλλήλους· μή τις ἤνεγκεν αὐτῷ φαγεῖν;"
+pericope: "[[John.4.27 The Disciples Return and Marvel|The Disciples Return and Marvel]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G5342]]"
+- "[[G0846]]"
+- "[[G5315]]"
+texts:
+- NKO
+---
+
 **John 4:33**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore said the disciples one to another, Hath any man brought him [ought] to eat?
 <small><sub>**BSB:**</sub></small>
 So the disciples asked one another, “Could someone have brought Him food?”
-<small><sub>**Literal:**</sub></small>
-Were saying therefore the disciples to one another; Surely not one did bring to Him [something] to eat?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.32|<< John 4:32]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.34|John 4:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους·]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G5342\|ἤνεγκεν]]  [[G0846\|αὐτῷ]]  [[G5315\|φαγεῖν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CONVERTS|CONVERTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.32|<< John 4:32]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.34|John 4:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

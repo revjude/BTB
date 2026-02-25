@@ -1,10 +1,77 @@
+---
+title: Luke 10:30
+type: Verse
+kjv: "And Jesus answering said, A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead."
+bsb: "Jesus took up this question and said, “A man was going down from Jerusalem to Jericho when he fell into the hands of robbers. They stripped him, beat him, and went away, leaving him half dead."
+jesus_said: "A certain man went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead."
+greek: "ὑπολαβὼν δὲ ὁ Ἰησοῦς εἶπεν· ἄνθρωπός τις κατέβαινεν ἀπὸ Ἰερουσαλὴμ εἰς Ἰεριχὼ καὶ λῃσταῖς περιέπεσεν οἳ καὶ ἐκδύσαντες αὐτὸν καὶ πληγὰς ἐπιθέντες ἀπῆλθον ἀφέντες ἡμιθανῆ τυγχάνοντα."
+pericope: "[[Luke.10.25 The Parable of the Good Samaritan|The Parable of the Good Samaritan]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAWYER|LAWYER]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic ROBBERY|ROBBERY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G5274]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0444]]"
+- "[[G5100]]"
+- "[[G2597]]"
+- "[[G0575]]"
+- "[[G2419]]"
+- "[[G1519]]"
+- "[[G2410]]"
+- "[[G2532]]"
+- "[[G3027]]"
+- "[[G4045]]"
+- "[[G3739]]"
+- "[[G1562]]"
+- "[[G0846]]"
+- "[[G4127]]"
+- "[[G2007]]"
+- "[[G0565]]"
+- "[[G0863G]]"
+- "[[G2253]]"
+- "[[G5177]]"
+texts:
+- NKO
+- ko
+- k
+---
+
 **Luke 10:30**<big><big>[[Luke.10.25 The Parable of the Good Samaritan|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering said, A certain [man] went down from Jerusalem to Jericho, and fell among thieves, which stripped him of his raiment, and wounded [him], and departed, leaving [him] half dead.
 <small><sub>**BSB:**</sub></small>
 Jesus took up this question and said, “A man was going down from Jerusalem to Jericho when he fell into the hands of robbers. They stripped him, beat him, and went away, leaving him half dead.
-<small><sub>**Literal:**</sub></small>
-Having taken [it] up now <the> Jesus said; A man certain was going down from Jerusalem to Jericho and robbers fell among who both having stripped him and wounds having inflicted they went away having left [him] half dead state.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.29|<< Luke 10:29]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.31|Luke 10:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5274\|ὑπολαβὼν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G0444\|ἄνθρωπός]]  [[G5100\|τις]]  [[G2597\|κατέβαινεν]]  [[G0575\|ἀπὸ]]  [[G2419\|Ἰερουσαλὴμ]]  [[G1519\|εἰς]]  [[G2410\|Ἰεριχὼ]]  [[G2532\|καὶ]]  [[G3027\|λῃσταῖς]]  [[G4045\|περιέπεσεν]]  [[G3739\|οἳ]]  [[G2532\|καὶ]]  [[G1562\|ἐκδύσαντες]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G4127\|πληγὰς]]  [[G2007\|ἐπιθέντες]]  [[G0565\|ἀπῆλθον]]  [[G0863G\|ἀφέντες]]  [[G2253\|ἡμιθανῆ]]  [[G5177\|τυγχάνοντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAWYER|LAWYER]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic ROBBERY|ROBBERY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.29|<< Luke 10:29]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.31|Luke 10:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Psalm 34:11
+type: Verse
+kjv: "Come, ye children, hearken unto me: I will teach you the fear of the LORD."
+bsb: "Come, children, listen to me; I will teach you the fear of the LORD."
+hebrew: "לְֽכוּ־ בָ֭נִים שִׁמְעוּ־ לִ֑י יִֽרְאַ֥ת יְ֝הוָ֗ה אֲלַמֶּדְכֶֽם׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+strongs:
+- "[[H1980K]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3374]]"
+- "[[H3068G]]"
+- "[[H3925G]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:11**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, ye children, hearken unto me: I will teach you the fear of the LORD.
 <small><sub>**BSB:**</sub></small>
 Come, children, listen to me; I will teach you the fear of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980K\|לְֽכוּ]][[H9014\|־]] [[H1121A\|בָ֭נִים]] [[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H9005\|לִ֑]][[H9030\|י]] [[H3374\|יִֽרְאַ֥ת]] [[H3068G\|יְ֝הוָ֗ה]] [[H3925G\|אֲלַמֶּדְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LONGEVITY|LONGEVITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.10|<< Psalms 34:10]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.12|Psalms 34:12 >>]]</td></tr></table>
 

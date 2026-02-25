@@ -1,10 +1,81 @@
+---
+title: Revelation 2:17
+type: Verse
+kjv: "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it."
+bsb: "He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will give the hidden manna. I will also give him a white stone inscribed with a new name, known only to the one who receives it."
+jesus_said: "He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth it."
+greek: "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις· τῷ νικῶντι δώσω αὐτῷ φαγεῖν ἀπὸ τοῦ μάννα τοῦ κεκρυμμένου καὶ δώσω αὐτῷ ψῆφον λευκήν, καὶ ἐπὶ τὴν ψῆφον ὄνομα καινὸν γεγραμμένον ὃ οὐδεὶς οἶδεν εἰ μὴ ὁ λαμβάνων.¶"
+pericope: "[[Rev.2.12 To the Church in Pergamum|To the Church in Pergamum]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic PERGAMOS|PERGAMOS]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic STONES|STONES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G3775]]"
+- "[[G0191]]"
+- "[[G5101]]"
+- "[[G4151G]]"
+- "[[G3004G]]"
+- "[[G1577]]"
+- "[[G3528]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G5315]]"
+- "[[G0575]]"
+- "[[G3131]]"
+- "[[G2928]]"
+- "[[G2532]]"
+- "[[G5586G]]"
+- "[[G3022]]"
+- "[[G1909]]"
+- "[[G3686]]"
+- "[[G2537]]"
+- "[[G1125]]"
+- "[[G3739]]"
+- "[[G3762]]"
+- "[[G6063]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2983]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Revelation 2:17**<big><big>[[Rev.2.12 To the Church in Pergamum|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that hath an ear, let him hear what the Spirit saith unto the churches; To him that overcometh will I give to eat of the hidden manna, and will give him a white stone, and in the stone a new name written, which no man knoweth saving he that receiveth [it].
 <small><sub>**BSB:**</sub></small>
 He who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will give the hidden manna. I will also give him a white stone inscribed with a new name, known only to the one who receives it.
-<small><sub>**Literal:**</sub></small>
-The [one] having an ear he should hear what the Spirit says to the churches; To the [one] overcoming I will give to him to eat from the manna which hidden and I will give to him stone white, and on the stone a name new written which no [one] knows only except the [one] receiving [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.16|<< Revelation 2:16]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.18|Revelation 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3775\|οὖς]]  [[G0191\|ἀκουσάτω]]  [[G5101\|τί]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3004G\|λέγει]]  [[G3588\|ταῖς]]  [[G1577\|ἐκκλησίαις·]]  [[G3588\|τῷ]]  [[G3528\|νικῶντι]]  [[G1325\|δώσω]]  [[G0846\|αὐτῷ]]  [[G5315\|φαγεῖν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3131\|μάννα]]  [[G3588\|τοῦ]]  [[G2928\|κεκρυμμένου]]  [[G2532\|καὶ]]  [[G1325\|δώσω]]  [[G0846\|αὐτῷ]]  [[G5586G\|ψῆφον]]  [[G3022\|λευκήν,]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G5586G\|ψῆφον]]  [[G3686\|ὄνομα]]  [[G2537\|καινὸν]]  [[G1125\|γεγραμμένον]]  [[G3739\|ὃ]]  [[G3762\|οὐδεὶς]]  [[G6063\|οἶδεν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G2983\|λαμβάνων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COLORS|COLORS]] • [[topic DECISION|DECISION]] • [[topic MANNA|MANNA]] • [[topic PERGAMOS|PERGAMOS]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic STONES|STONES]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.16|<< Revelation 2:16]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.18|Revelation 2:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

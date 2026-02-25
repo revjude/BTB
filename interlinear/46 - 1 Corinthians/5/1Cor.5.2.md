@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 5:2
+type: Verse
+kjv: "And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you."
+bsb: "And you are proud! Shouldn’t you rather have been stricken with grief and have removed from your fellowship the man who did this?"
+greek: "καὶ ὑμεῖς πεφυσιωμένοι ἐστὲ καὶ οὐχὶ μᾶλλον ἐπενθήσατε ἵνα ἀρθῇ ἐκ μέσου ὑμῶν ὁ τὸ ἔργον τοῦτο πράξας;"
+pericope: "[[1Cor.5.1 Immorality Rebuked|Immorality Rebuked]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 5
+book/chapter: "[[1Cor.5|1 Corinthians 5]]"
+chronological_order: 1062
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G5448]]"
+- "[[G1510]]"
+- "[[G3780]]"
+- "[[G3123H]]"
+- "[[G3996]]"
+- "[[G2443]]"
+- "[[G0142]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G3778]]"
+- "[[G4238]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 5:2**<big><big>[[1Cor.5.1 Immorality Rebuked|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you.
 <small><sub>**BSB:**</sub></small>
 And you are proud! Shouldn’t you rather have been stricken with grief and have removed from your fellowship the man who did this?
-<small><sub>**Literal:**</sub></small>
-And you yourselves puffed up are and not rather mourned so that may be taken out of midst of you the [one] the deed this having performed?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.1|<< 1 Corinthians 5:1]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.3|1 Corinthians 5:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G5448\|πεφυσιωμένοι]]  [[G1510\|ἐστὲ]]  [[G2532\|καὶ]]  [[G3780\|οὐχὶ]]  [[G3123H\|μᾶλλον]]  [[G3996\|ἐπενθήσατε]]  [[G2443\|ἵνα]]  [[G0142\|ἀρθῇ]]  [[G1537\|ἐκ]]  [[G3319\|μέσου]]  [[G4771\|ὑμῶν]]  [[G3588\|ὁ]]  [[G3588\|τὸ]]  [[G2041\|ἔργον]]  [[G3778\|τοῦτο]]  [[G4238\|πράξας;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic PRIDE|PRIDE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.1|<< 1 Corinthians 5:1]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.5.3|1 Corinthians 5:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

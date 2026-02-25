@@ -1,8 +1,61 @@
+---
+title: Zechariah 7:2
+type: Verse
+kjv: "When they had sent unto the house of God Sherezer and Regemmelech, and their men, to pray before the LORD,"
+bsb: "Now the people of Bethel had sent Sharezer and Regem-melech, along with their men, to plead before the LORD"
+hebrew: "וַיִּשְׁלַח֙ בֵּֽית־ אֵ֔ל שַׂר־ אֶ֕צֶר וְרֶ֥גֶם מֶ֖לֶךְ וַֽאֲנָשָׁ֑יו לְחַלּ֖וֹת אֶת־ פְּנֵ֥י יְהוָֽה׃"
+pericope: "[[Zech.7.1 A Call to Justice and Mercy|A Call to Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 7
+book/chapter: "[[Zech.7|Zechariah 7]]"
+chronological_order: 863
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic REGEM-MELECH|REGEM-MELECH]]"
+- "[[topic SHAREZER|SHAREZER]]"
+- "[[topic SHEREZER|SHEREZER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H8272H]]"
+- "[[H9002]]"
+- "[[H7278]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2470B]]"
+- "[[H0853]]"
+- "[[H6440L]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 7:2**<big><big>[[Zech.7.1 A Call to Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they had sent unto the house of God Sherezer and Regemmelech, and their men, to pray before the LORD,
 <small><sub>**BSB:**</sub></small>
 Now the people of Bethel had sent Sharezer and Regem-melech, along with their men, to plead before the LORD
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַח֙]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֔ל]] [[H8272H\|שַׂר]][[H9014\|־]] [[H8272H\|אֶ֕צֶר]] [[H9002\|וְ]][[H7278\|רֶ֥גֶם]] [[H7278\|מֶ֖לֶךְ]] [[H9002\|וַֽ]][[H0582\|אֲנָשָׁ֑י]][[H9023\|ו]] [[H9005\|לְ]][[H2470B\|חַלּ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H6440L\|פְּנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic REGEM-MELECH|REGEM-MELECH]] • [[topic SHAREZER|SHAREZER]] • [[topic SHEREZER|SHEREZER]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.7.1|<< Zechariah 7:1]]</td><td align="center" style="border:none;">[[Zech.7|Zechariah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.7.3|Zechariah 7:3 >>]]</td></tr></table>
 

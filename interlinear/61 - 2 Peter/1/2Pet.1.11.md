@@ -1,10 +1,64 @@
+---
+title: 2 Peter 1:11
+type: Verse
+kjv: "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ."
+bsb: "and you will receive a lavish reception into the eternal kingdom of our Lord and Savior Jesus Christ."
+greek: "οὕτως γὰρ πλουσίως ἐπιχορηγηθήσεται ὑμῖν ἡ εἴσοδος εἰς τὴν αἰώνιον βασιλείαν τοῦ κυρίου ἡμῶν καὶ σωτῆρος Ἰησοῦ Χριστοῦ.¶"
+pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3779]]"
+- "[[G1063]]"
+- "[[G4146]]"
+- "[[G2023]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1529]]"
+- "[[G1519]]"
+- "[[G0166]]"
+- "[[G0932]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G4990]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **2 Peter 1:11**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 and you will receive a lavish reception into the eternal kingdom of our Lord and Savior Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-In this way for richly will be supplied to you the entrance into the eternal kingdom of the Lord of us and Savior Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.10|<< 2 Peter 1:10]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.12|2 Peter 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G1063\|γὰρ]]  [[G4146\|πλουσίως]]  [[G2023\|ἐπιχορηγηθήσεται]]  [[G4771\|ὑμῖν]]  [[G3588\|ἡ]]  [[G1529\|εἴσοδος]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0166\|αἰώνιον]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G4990\|σωτῆρος]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic DEATH|DEATH]] • [[topic DECISION|DECISION]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.10|<< 2 Peter 1:10]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.12|2 Peter 1:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

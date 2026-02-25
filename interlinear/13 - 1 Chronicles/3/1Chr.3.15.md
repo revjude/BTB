@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 3:15
+type: Verse
+kjv: "And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum."
+bsb: "The sons of Josiah: Johanan was the firstborn, Jehoiakim the second, Zedekiah the third, and Shallum the fourth."
+hebrew: "וּבְנֵי֙ יֹאשִׁיָּ֔הוּ הַבְּכוֹר֙ יוֹחָנָ֔ן הַשֵּׁנִ֖י יְהוֹיָקִ֑ים הַשְּׁלִשִׁי֙ צִדְקִיָּ֔הוּ הָרְבִיעִ֖י שַׁלּֽוּם׃"
+pericope: "[[1Chr.3.10 The Descendants of Solomon|The Descendants of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 3
+book/chapter: "[[1Chr.3|1 Chronicles 3]]"
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H2977G]]"
+- "[[H9009]]"
+- "[[H1060]]"
+- "[[H3110H]]"
+- "[[H8145]]"
+- "[[H3079]]"
+- "[[H7992]]"
+- "[[H6667H]]"
+- "[[H7243]]"
+- "[[H7967J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 3:15**<big><big>[[1Chr.3.10 The Descendants of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Josiah [were], the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.
 <small><sub>**BSB:**</sub></small>
 The sons of Josiah: Johanan was the firstborn, Jehoiakim the second, Zedekiah the third, and Shallum the fourth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵי֙]] [[H2977G\|יֹאשִׁיָּ֔הוּ]] [[H9009\|הַ]][[H1060\|בְּכוֹר֙]] [[H3110H\|יוֹחָנָ֔ן]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖י]] [[H3079\|יְהוֹיָקִ֑ים]] [[H9009\|הַ]][[H7992\|שְּׁלִשִׁי֙]] [[H6667H\|צִדְקִיָּ֔הוּ]] [[H9009\|הָ]][[H7243\|רְבִיעִ֖י]] [[H7967J\|שַׁלּֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOAHAZ|JEHOAHAZ]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic JOHANAN|JOHANAN]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.14|<< 1 Chronicles 3:14]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.16|1 Chronicles 3:16 >>]]</td></tr></table>
 

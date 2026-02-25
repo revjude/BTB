@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 29:7
+type: Verse
+kjv: "And gave for the service of the house of God of gold five thousand talents and ten thousand drams, and of silver ten thousand talents, and of brass eighteen thousand talents, and one hundred thousand talents of iron."
+bsb: "Toward the service of God’s house they gave 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze, and 100,000 talents of iron."
+hebrew: "וַֽיִּתְּנ֞וּ לַעֲבוֹדַ֣ת בֵּית־ הָאֱלֹהִ֗ים זָהָ֞ב כִּכָּרִ֣ים חֲמֵֽשֶׁת־ אֲלָפִים֮ וַאֲדַרְכֹנִ֣ים רִבּוֹ֒ וְכֶ֗סֶף כִּכָּרִים֙ עֲשֶׂ֣רֶת אֲלָפִ֔ים וּנְחֹ֕שֶׁת רִבּ֛וֹ וּשְׁמוֹנַ֥ת אֲלָפִ֖ים כִּכָּרִ֑ים וּבַרְזֶ֖ל מֵֽאָה־ אֶ֥לֶף כִּכָּרִֽים׃"
+pericope: "[[1Chr.29.1 Offerings for the Temple|Offerings for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DRAM|DRAM]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic IRON|IRON]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5656H]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H2091]]"
+- "[[H3603H]]"
+- "[[H2568]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H0150]]"
+- "[[H7239]]"
+- "[[H3701G]]"
+- "[[H6235]]"
+- "[[H5178A]]"
+- "[[H8083]]"
+- "[[H1270]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:7**<big><big>[[1Chr.29.1 Offerings for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And gave for the service of the house of God of gold five thousand talents and ten thousand drams, and of silver ten thousand talents, and of brass eighteen thousand talents, and one hundred thousand talents of iron.
 <small><sub>**BSB:**</sub></small>
 Toward the service of God’s house they gave 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze, and 100,000 talents of iron.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5414G\|יִּתְּנ֞וּ]] [[H9005\|לַ]][[H5656H\|עֲבוֹדַ֣ת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H2091\|זָהָ֞ב]] [[H3603H\|כִּכָּרִ֣ים]] [[H2568\|חֲמֵֽשֶׁת]][[H9014\|־]] [[H0505G\|אֲלָפִים֮]] [[H9002\|וַ]][[H0150\|אֲדַרְכֹנִ֣ים]] [[H7239\|רִבּוֹ֒]] [[H9002\|וְ]][[H3701G\|כֶ֗סֶף]] [[H3603H\|כִּכָּרִים֙]] [[H6235\|עֲשֶׂ֣רֶת]] [[H0505G\|אֲלָפִ֔ים]] [[H9002\|וּ]][[H5178A\|נְחֹ֕שֶׁת]] [[H7239\|רִבּ֛וֹ]] [[H9002\|וּ]][[H8083\|שְׁמוֹנַ֥ת]] [[H0505G\|אֲלָפִ֖ים]] [[H3603H\|כִּכָּרִ֑ים]] [[H9002\|וּ]][[H1270\|בַרְזֶ֖ל]] [[H3967\|מֵֽאָה]][[H9014\|־]] [[H0505G\|אֶ֥לֶף]] [[H3603H\|כִּכָּרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAM|DRAM]] • [[topic GOLD|GOLD]] • [[topic IRON|IRON]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SILVER|SILVER]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.6|<< 1 Chronicles 29:6]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.8|1 Chronicles 29:8 >>]]</td></tr></table>
 

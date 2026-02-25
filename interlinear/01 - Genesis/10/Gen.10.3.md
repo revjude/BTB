@@ -1,8 +1,54 @@
+---
+title: Genesis 10:3
+type: Verse
+kjv: "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah."
+bsb: "The sons of Gomer: Ashkenaz, Riphath, and Togarmah."
+hebrew: "וּבְנֵ֖י גֹּ֑מֶר אַשְׁכֲּנַ֥ז וְרִיפַ֖ת וְתֹגַרְמָֽה׃"
+pericope: "[[Gen.10.2 The Japhethites|The Japhethites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ASHKENAZ|ASHKENAZ]]"
+- "[[topic GOMER|GOMER]]"
+- "[[topic JAPHETH|JAPHETH]]"
+- "[[topic RIPHATH|RIPHATH]]"
+- "[[topic TOGARMAH|TOGARMAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H1586G]]"
+- "[[H0813G]]"
+- "[[H7384B]]"
+- "[[H8425G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:3**<big><big>[[Gen.10.2 The Japhethites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.
 <small><sub>**BSB:**</sub></small>
 The sons of Gomer: Ashkenaz, Riphath, and Togarmah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֖י]] [[H1586G\|גֹּ֑מֶר]] [[H0813G\|אַשְׁכֲּנַ֥ז]] [[H9002\|וְ]][[H7384B\|רִיפַ֖ת]] [[H9002\|וְ]][[H8425G\|תֹגַרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHKENAZ|ASHKENAZ]] • [[topic GOMER|GOMER]] • [[topic JAPHETH|JAPHETH]] • [[topic RIPHATH|RIPHATH]] • [[topic TOGARMAH|TOGARMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.2|<< Genesis 10:2]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.4|Genesis 10:4 >>]]</td></tr></table>
 

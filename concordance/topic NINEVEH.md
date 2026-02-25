@@ -13,5 +13,5 @@
 
 → Nahum prophesies against [[Nah.1|Na 1]]; [[Nah.2|2]]; [[Nah.3|3]]
 
-→ Zephaniah foretells the desolation of [[Zeph.2.13|Zep 2:13]]-[[Zeph.2.15|15]]
+→ Zephaniah foretells the desolation of [[Zeph.2.13|Zep 2:13-15]]
 

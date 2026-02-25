@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 8:5
+type: Verse
+kjv: "For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)"
+bsb: "For even if there are so-called gods, whether in heaven or on earth (as there are many so-called gods and lords),"
+greek: "καὶ γὰρ εἴπερ εἴπερ εἰσὶν λεγόμενοι θεοὶ εἴτε ἐν οὐρανῷ εἴτε ἐπὶ τῆς γῆς, ὥσπερ εἰσὶν θεοὶ πολλοὶ καὶ κύριοι πολλοί·"
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic POLYTHEISM|POLYTHEISM]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G1487G]]"
+- "[[G4007]]"
+- "[[G1510]]"
+- "[[G3004H]]"
+- "[[G2316]]"
+- "[[G1535]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093G]]"
+- "[[G5618]]"
+- "[[G4183]]"
+- "[[G2962H]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 8:5**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)
 <small><sub>**BSB:**</sub></small>
 For even if there are so-called gods, whether in heaven or on earth (as there are many so-called gods and lords),
-<small><sub>**Literal:**</sub></small>
-Even truly if indeed there are [those] named gods whether in heaven or on <the> earth, as there are gods many and lords many;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.4|<< 1 Corinthians 8:4]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.6|1 Corinthians 8:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G1487G\|εἴπερ]]  <sup><small>[[G4007\| [ • ] ]]</small></sup>  [[G1510\|εἰσὶν]]  [[G3004H\|λεγόμενοι]]  [[G2316\|θεοὶ]]  [[G1535\|εἴτε]]  [[G1722\|ἐν]]  [[G3772\|οὐρανῷ]]  [[G1535\|εἴτε]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G5618\|ὥσπερ]]  [[G1510\|εἰσὶν]]  [[G2316\|θεοὶ]]  [[G4183\|πολλοὶ]]  [[G2532\|καὶ]]  [[G2962H\|κύριοι]]  [[G4183\|πολλοί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic POLYTHEISM|POLYTHEISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.4|<< 1 Corinthians 8:4]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.6|1 Corinthians 8:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

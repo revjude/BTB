@@ -1,8 +1,66 @@
+---
+title: Joshua 19:29
+type: Verse
+kjv: "And then the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:"
+bsb: "The border then turned back toward Ramah as far as the fortified city of Tyre, turned toward Hosah, and came out at the Sea in the region of Achzib,"
+hebrew: "וְשָׁ֤ב הַגְּבוּל֙ הָֽרָמָ֔ה וְעַד־ עִ֖יר מִבְצַר־ צֹ֑ר וְשָׁ֤ב הַגְּבוּל֙ חֹסָ֔ה וְהָי֧וּ תֹצְאֹתָ֛יו הַיָּ֖מָּה מֵחֶ֥בֶל אַכְזִֽיבָה׃"
+pericope: "[[Josh.19.24 Asher’s Inheritance|Asher’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ACHZIB|ACHZIB]]"
+- "[[topic ASHER|ASHER]]"
+- "[[topic HOSAH|HOSAH]]"
+- "[[topic RAMAH|RAMAH]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H7414H]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H4013]]"
+- "[[H6865]]"
+- "[[H2621G]]"
+- "[[H1961]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H3220G]]"
+- "[[H9011]]"
+- "[[H9006]]"
+- "[[H2256A]]"
+- "[[H0392H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 19:29**<big><big>[[Josh.19.24 Asher’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [then] the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:
 <small><sub>**BSB:**</sub></small>
 The border then turned back toward Ramah as far as the fortified city of Tyre, turned toward Hosah, and came out at the Sea in the region of Achzib,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725G\|שָׁ֤ב]] [[H9009\|הַ]][[H1366G\|גְּבוּל֙]] [[H9009\|הָֽ]][[H7414H\|רָמָ֔ה]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5892B\|עִ֖יר]] [[H4013\|מִבְצַר]][[H9014\|־]] [[H6865\|צֹ֑ר]] [[H9001\|וְ]][[H7725G\|שָׁ֤ב]] [[H9009\|הַ]][[H1366G\|גְּבוּל֙]] [[H2621G\|חֹסָ֔ה]] [[H9001\|וְ]][[H1961\|הָי֧וּ]] [[H8444\|תֹצְאֹתָ֛י]][[H9023\|ו]] [[H9009\|הַ]][[H3220G\|יָּ֖מָּ]][[H9011\|ה]] [[H9006\|מֵ]][[H2256A\|חֶ֥בֶל]] [[H0392H\|אַכְזִֽיבָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHZIB|ACHZIB]] • [[topic ASHER|ASHER]] • [[topic HOSAH|HOSAH]] • [[topic RAMAH|RAMAH]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.28|<< Joshua 19:28]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.30|Joshua 19:30 >>]]</td></tr></table>
 
@@ -25,7 +83,7 @@ The border then turned back toward Ramah as far as the fortified city of Tyre, t
 | Aczib towards  |**<big>&#8207;[[H0392H\|אַכְזִֽיבָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'akh.Zi.va<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.28|<< Joshua 19:28]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.30|Joshua 19:30 >>]]</td></tr></table>
 
-[^1]: and they are  | **<big>[[H1961|יִהְיוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yih.yu<small><sup>[[HVqu3mp]]</sup></small> | K
-[^2]: and they are  | **<big>[[H1961|יִהְיוּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yih.yu<small><sup>[[HVqu3mp]]</sup></small> | K
+[^1]: and they are  | **<big>[[H9002|וְ]]</big><big>[[H1961|יִהְיוּ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yih.yu<small><sup>[[HVqu3mp]]</sup></small> | K
+[^2]: and they are  | **<big>[[H9002|וְ]]</big><big>[[H1961|יִהְיוּ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> yih.yu<small><sup>[[HVqu3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְיהָי֧וּ</big></span>**
 

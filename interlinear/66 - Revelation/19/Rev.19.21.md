@@ -1,10 +1,62 @@
+---
+title: Revelation 19:21
+type: Verse
+kjv: "And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh."
+bsb: "And the rest were killed with the sword that proceeded from the mouth of the One seated on the horse. And all the birds gorged themselves on their flesh."
+greek: "καὶ οἱ λοιποὶ ἀπεκτάνθησαν ἐν τῇ ῥομφαίᾳ τοῦ καθημένου ἐπὶ τοῦ ἵππου τῇ ἐξελθούσῃ ἐκ τοῦ στόματος αὐτοῦ. καὶ πάντα τὰ ὄρνεα ἐχορτάσθησαν ἐκ τῶν σαρκῶν αὐτῶν.¶"
+pericope: "[[Rev.19.17 Defeat of the Beast and False Prophet|Defeat of the Beast and False Prophet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HORSE|HORSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G0615]]"
+- "[[G1722]]"
+- "[[G4501]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G2462]]"
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G4750]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3732]]"
+- "[[G5526]]"
+- "[[G4561]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 19:21**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the remnant were slain with the sword of him that sat upon the horse, which [sword] proceeded out of his mouth: and all the fowls were filled with their flesh.
 <small><sub>**BSB:**</sub></small>
 And the rest were killed with the sword that proceeded from the mouth of the One seated on the horse. And all the birds gorged themselves on their flesh.
-<small><sub>**Literal:**</sub></small>
-And the rest were killed with the sword of the [One] sitting on the horse <the> having gone out out of the mouth of him. And all the birds were filled with the flesh of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.20|<< Revelation 19:20]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.1|Revelation 20:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3062\|λοιποὶ]]  [[G0615\|ἀπεκτάνθησαν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4501\|ῥομφαίᾳ]]  [[G3588\|τοῦ]]  [[G2521\|καθημένου]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G2462\|ἵππου]]  [[G3588\|τῇ]]  [[G1831\|ἐξελθούσῃ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G0846\|αὐτοῦ.]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G3732\|ὄρνεα]]  [[G5526\|ἐχορτάσθησαν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G4561\|σαρκῶν]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORSE|HORSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.20|<< Revelation 19:20]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.1|Revelation 20:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

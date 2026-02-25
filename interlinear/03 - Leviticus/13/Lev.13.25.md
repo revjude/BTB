@@ -1,8 +1,72 @@
+---
+title: Leviticus 13:25
+type: Verse
+kjv: "Then the priest shall look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it is the plague of leprosy."
+bsb: "the priest must examine it. If the hair in the spot has turned white and the spot appears to be deeper than the skin, it is a disease that has broken out in the burn. The priest must pronounce him unclean; it is a diseased infection."
+hebrew: "וְרָאָ֣ה אֹתָ֣הּ הַכֹּהֵ֡ן וְהִנֵּ֣ה נֶהְפַּךְ֩ שֵׂעָ֨ר לָבָ֜ן בַּבַּהֶ֗רֶת וּמַרְאֶ֙הָ֙ עָמֹ֣ק מִן־ הָע֔וֹר צָרַ֣עַת הִ֔וא בַּמִּכְוָ֖ה פָּרָ֑חָה וְטִמֵּ֤א אֹתוֹ֙ הַכֹּהֵ֔ן נֶ֥גַע צָרַ֖עַת הִֽוא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H2015]]"
+- "[[H8181]]"
+- "[[H3836]]"
+- "[[H9003]]"
+- "[[H0934]]"
+- "[[H4758]]"
+- "[[H9024]]"
+- "[[H6013]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5785]]"
+- "[[H6883]]"
+- "[[H1931]]"
+- "[[H4348]]"
+- "[[H6524B]]"
+- "[[H2930A]]"
+- "[[H9033]]"
+- "[[H5061]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:25**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall look upon it: and, behold, [if] the hair in the bright spot be turned white, and it [be in] sight deeper than the skin; it [is] a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it [is] the plague of leprosy.
 <small><sub>**BSB:**</sub></small>
 the priest must examine it. If the hair in the spot has turned white and the spot appears to be deeper than the skin, it is a disease that has broken out in the burn. The priest must pronounce him unclean; it is a diseased infection.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֣ה]] [[H0853\|אֹתָ֣]][[H9034\|הּ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֡ן]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H2015\|נֶהְפַּךְ֩]] [[H8181\|שֵׂעָ֨ר]] [[H3836\|לָבָ֜ן]] [[H9003\|בַּ]][[H0934\|בַּהֶ֗רֶת]] [[H9002\|וּ]][[H4758\|מַרְאֶ֙]][[H9024\|הָ֙]] [[H6013\|עָמֹ֣ק]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5785\|ע֔וֹר]] [[H6883\|צָרַ֣עַת]] [[H1931\|הִ֔וא]] [[H9003\|בַּ]][[H4348\|מִּכְוָ֖ה]] [[H6524B\|פָּרָ֑חָה]] [[H9001\|וְ]][[H2930A\|טִמֵּ֤א]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H5061\|נֶ֥גַע]] [[H6883\|צָרַ֖עַת]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.24|<< Leviticus 13:24]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.26|Leviticus 13:26 >>]]</td></tr></table>
 

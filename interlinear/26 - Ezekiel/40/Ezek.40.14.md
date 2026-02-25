@@ -1,8 +1,54 @@
+---
+title: Ezekiel 40:14
+type: Verse
+kjv: "He made also posts of threescore cubits, even unto the post of the court round about the gate."
+bsb: "Next he measured the gateposts to be sixty cubits high. The gateway extended around to the gatepost of the courtyard."
+hebrew: "וַיַּ֥עַשׂ אֶת־ אֵילִ֖ים שִׁשִּׁ֣ים אַמָּ֑ה וְאֶל־ אֵיל֙ הֶֽחָצֵ֔ר הַשַּׁ֖עַר סָבִ֥יב׀ סָבִֽיב׃"
+pericope: "[[Ezek.40.5 The East Gate|The East Gate]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0352B]]"
+- "[[H8346]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H8179G]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:14**<big><big>[[Ezek.40.5 The East Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He made also posts of threescore cubits, even unto the post of the court round about the gate.
 <small><sub>**BSB:**</sub></small>
 Next he measured the gateposts to be sixty cubits high. The gateway extended around to the gatepost of the courtyard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H0352B\|אֵילִ֖ים]] [[H8346\|שִׁשִּׁ֣ים]] [[H0520A\|אַמָּ֑ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0352B\|אֵיל֙]] [[H9009\|הֶֽ]][[H2691A\|חָצֵ֔ר]] [[H9009\|הַ]][[H8179G\|שַּׁ֖עַר]] [[H5439G\|סָבִ֥יב]][[H9015\|׀]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.13|<< Ezekiel 40:13]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.15|Ezekiel 40:15 >>]]</td></tr></table>
 

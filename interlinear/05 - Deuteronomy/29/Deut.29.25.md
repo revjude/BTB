@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 29:25
+type: Verse
+kjv: "Then men shall say, Because they have forsaken the covenant of the LORD God of their fathers, which he made with them when he brought them forth out of the land of Egypt:"
+bsb: "And the people will answer, ‘It is because they abandoned the covenant of the LORD, the God of their fathers, which He made with them when He brought them out of the land of Egypt."
+hebrew: "וְאָ֣מְר֔וּ עַ֚ל אֲשֶׁ֣ר עָֽזְב֔וּ אֶת־ בְּרִ֥ית יְהוָ֖ה אֱלֹהֵ֣י אֲבֹתָ֑ם אֲשֶׁר֙ כָּרַ֣ת עִמָּ֔ם בְּהוֹצִיא֥וֹ אֹתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H3772H]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3318H]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:25**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then men shall say, Because they have forsaken the covenant of the LORD God of their fathers, which he made with them when he brought them forth out of the land of Egypt:
 <small><sub>**BSB:**</sub></small>
 And the people will answer, ‘It is because they abandoned the covenant of the LORD, the God of their fathers, which He made with them when He brought them out of the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָ֣מְר֔וּ]] [[H5921A\|עַ֚ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H5800A\|עָֽזְב֔וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִ֥ית]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבֹתָ֑]][[H9028\|ם]] [[H0834A\|אֲשֶׁר֙]] [[H3772H\|כָּרַ֣ת]] [[H5973A\|עִמָּ֔]][[H9038\|ם]] [[H9003\|בְּ]][[H3318H\|הוֹצִיא֥]][[H9043\|וֹ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.24|<< Deuteronomy 29:24]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.26|Deuteronomy 29:26 >>]]</td></tr></table>
 

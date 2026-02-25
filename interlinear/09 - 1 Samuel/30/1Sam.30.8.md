@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 30:8
+type: Verse
+kjv: "And David inquired at the LORD, saying, Shall I pursue after this troop? shall I overtake them? And he answered him, Pursue: for thou shalt surely overtake them, and without fail recover all."
+bsb: "and David inquired of the LORD: “Should I pursue these raiders? Will I overtake them?” “Pursue them,” the LORD replied, “for you will surely overtake them and rescue the captives.”"
+hebrew: "וַיִּשְׁאַ֨ל דָּוִ֤ד בַּֽיהוָה֙ לֵאמֹ֔ר אֶרְדֹּ֛ף אַחֲרֵ֥י הַגְּדוּד־ הַזֶּ֖ה הַֽאַשִּׂגֶ֑נּוּ וַיֹּ֤אמֶר לוֹ֙ רְדֹ֔ף כִּֽי־ הַשֵּׂ֥ג תַּשִּׂ֖יג וְהַצֵּ֥ל תַּצִּֽיל׃"
+pericope: "[[1Sam.30.7 David Destroys the Amalekites|David Destroys the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1416]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H9008]]"
+- "[[H5381]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9002]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:8**<big><big>[[1Sam.30.7 David Destroys the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David inquired at the LORD, saying, Shall I pursue after this troop? shall I overtake them? And he answered him, Pursue: for thou shalt surely overtake [them], and without fail recover [all].
 <small><sub>**BSB:**</sub></small>
 and David inquired of the LORD: “Should I pursue these raiders? Will I overtake them?” “Pursue them,” the LORD replied, “for you will surely overtake them and rescue the captives.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאַ֨ל]] [[H1732\|דָּוִ֤ד]] [[H9003\|בַּֽ]][[H3068G\|יהוָה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H7291\|אֶרְדֹּ֛ף]] [[H0310A\|אַחֲרֵ֥י]] [[H9009\|הַ]][[H1416\|גְּדוּד]][[H9014\|־]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9008\|הַֽ]][[H5381\|אַשִּׂגֶ֑]][[H9033\|נּוּ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H7291\|רְדֹ֔ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5381\|הַשֵּׂ֥ג]] [[H5381\|תַּשִּׂ֖יג]] [[H9002\|וְ]][[H5337\|הַצֵּ֥ל]] [[H5337\|תַּצִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]] • [[topic ARMIES|ARMIES]] • [[topic EPHOD|EPHOD]] • [[topic PRAYER|PRAYER]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.7|<< 1 Samuel 30:7]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.9|1 Samuel 30:9 >>]]</td></tr></table>
 

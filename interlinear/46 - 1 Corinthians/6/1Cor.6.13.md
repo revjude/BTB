@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 6:13
+type: Verse
+kjv: "Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body."
+bsb: "“Food for the stomach and the stomach for food,” but God will destroy them both. The body is not intended for sexual immorality, but for the Lord, and the Lord for the body."
+greek: "τὰ βρώματα τῇ κοιλίᾳ καὶ ἡ κοιλία τοῖς βρώμασιν· ὁ δὲ θεὸς καὶ ταύτην καὶ ταῦτα καταργήσει. τὸ δὲ σῶμα οὐ τῇ πορνείᾳ ἀλλὰ τῷ κυρίῳ, καὶ ὁ κύριος τῷ σώματι·"
+pericope: "[[1Cor.6.9 Members of Christ|Members of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 6
+book/chapter: "[[1Cor.6|1 Corinthians 6]]"
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1033]]"
+- "[[G2836]]"
+- "[[G2532]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G3778]]"
+- "[[G2673]]"
+- "[[G4983]]"
+- "[[G3756]]"
+- "[[G4202]]"
+- "[[G0235]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 6:13**<big><big>[[1Cor.6.9 Members of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body [is] not for fornication, but for the Lord; and the Lord for the body.
 <small><sub>**BSB:**</sub></small>
 “Food for the stomach and the stomach for food,” but God will destroy them both. The body is not intended for sexual immorality, but for the Lord, and the Lord for the body.
-<small><sub>**Literal:**</sub></small>
-The foods for the belly and the belly the for foods; <the> but God both this and these will destroy. <the> and the body [is] not <the> for sexual immorality but for the Lord, and the Lord for the body;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.12|<< 1 Corinthians 6:12]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.14|1 Corinthians 6:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰ]]  [[G1033\|βρώματα]]  [[G3588\|τῇ]]  [[G2836\|κοιλίᾳ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G2836\|κοιλία]]  [[G3588\|τοῖς]]  [[G1033\|βρώμασιν·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G2532\|καὶ]]  [[G3778\|ταύτην]]  [[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G2673\|καταργήσει.]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G4983\|σῶμα]]  [[G3756\|οὐ]]  [[G3588\|τῇ]]  [[G4202\|πορνείᾳ]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τῷ]]  [[G4983\|σώματι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLINESS|HOLINESS]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.12|<< 1 Corinthians 6:12]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.14|1 Corinthians 6:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

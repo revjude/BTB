@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ascension
+type: Pericope
 pericope: "[[Acts.1.6 The Ascension|The Ascension]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 1
 book/chapter: "[[Acts.1|Acts 1]]"
-genre:
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.1.6]]"
 - "[[Acts.1.7]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.1.11]]"
 ---
 
-[[Acts.1|Acts 1:6 - Acts 1:11]]
+<small>[[Acts.1|Acts 1:6-11]]</small>
 *The Ascension*
 
 [[Acts.1.6|6]] When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?

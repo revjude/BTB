@@ -1,8 +1,55 @@
+---
+title: Psalm 139:20
+type: Verse
+kjv: "For they speak against thee wickedly, and thine enemies take thy name in vain."
+bsb: "who speak of You deceitfully; Your enemies take Your name in vain."
+hebrew: "אֲשֶׁ֣ר יֹ֭אמְרֻךָ לִמְזִמָּ֑ה נָשֻׂ֖א לַשָּׁ֣וְא עָרֶֽיךָ׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H4209]]"
+- "[[H5375G]]"
+- "[[H7723H]]"
+- "[[H6145]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:20**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they speak against thee wickedly, [and] thine enemies take [thy name] in vain.
 <small><sub>**BSB:**</sub></small>
 who speak of You deceitfully; Your enemies take Your name in vain.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֣ר]] [[H0559\|יֹ֭אמְרֻ]][[H9031\|ךָ]] [[H9005\|לִ]][[H4209\|מְזִמָּ֑ה]] [[H5375G\|נָשֻׂ֖א]] [[H9005\|לַ]][[H7723H\|שָּׁ֣וְא]] [[H6145\|עָרֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.19|<< Psalms 139:19]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.21|Psalms 139:21 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Ecclesiastes 5:3
+type: Verse
+kjv: "For a dream cometh through the multitude of business; and a fool’s voice is known by multitude of words."
+bsb: "As a dream comes through many cares, so the speech of a fool comes with many words."
+hebrew: "כִּ֛י בָּ֥א הַחֲל֖וֹם בְּרֹ֣ב עִנְיָ֑ן וְק֥וֹל כְּסִ֖יל בְּרֹ֥ב דְּבָרִֽים׃"
+pericope: "[[Eccl.5.1 Approaching God with Awe|Approaching God with Awe]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H2472]]"
+- "[[H9003]]"
+- "[[H7230]]"
+- "[[H6045]]"
+- "[[H9002]]"
+- "[[H6963A]]"
+- "[[H3684]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:3**<big><big>[[Eccl.5.1 Approaching God with Awe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a dream cometh through the multitude of business; and a fool’s voice [is known] by multitude of words.
 <small><sub>**BSB:**</sub></small>
 As a dream comes through many cares, so the speech of a fool comes with many words.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֛י]] [[H0935G\|בָּ֥א]] [[H9009\|הַ]][[H2472\|חֲל֖וֹם]] [[H9003\|בְּ]][[H7230\|רֹ֣ב]] [[H6045\|עִנְיָ֑ן]] [[H9002\|וְ]][[H6963A\|ק֥וֹל]] [[H3684\|כְּסִ֖יל]] [[H9003\|בְּ]][[H7230\|רֹ֥ב]] [[H1697G\|דְּבָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic SPEAKING|SPEAKING]] • [[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.2|<< Ecclesiastes 5:2]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.4|Ecclesiastes 5:4 >>]]</td></tr></table>
 

@@ -1,10 +1,52 @@
+---
+title: 1 Corinthians 15:35
+type: Verse
+kjv: "But some man will say, How are the dead raised up? and with what body do they come?"
+bsb: "But someone will ask, “How are the dead raised? With what kind of body will they come?”"
+greek: "Ἀλλ᾽ ἐρεῖ τις· πῶς ἐγείρονται οἱ νεκροί; ποίῳ δὲ σώματι ἔρχονται;"
+pericope: "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G0235]]"
+- "[[G4483]]"
+- "[[G5100]]"
+- "[[G4459]]"
+- "[[G1453]]"
+- "[[G3588]]"
+- "[[G3498]]"
+- "[[G4169]]"
+- "[[G1161]]"
+- "[[G4983]]"
+- "[[G2064]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:35**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But some [man] will say, How are the dead raised up? and with what body do they come?
 <small><sub>**BSB:**</sub></small>
 But someone will ask, “How are the dead raised? With what kind of body will they come?”
-<small><sub>**Literal:**</sub></small>
-But will say someone; How are raised the dead? With what then body do they come?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.34|<< 1 Corinthians 15:34]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.36|1 Corinthians 15:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|Ἀλλ᾽]]  [[G4483\|ἐρεῖ]]  [[G5100\|τις·]]  [[G4459\|πῶς]]  [[G1453\|ἐγείρονται]]  [[G3588\|οἱ]]  [[G3498\|νεκροί;]]  [[G4169\|ποίῳ]]  [[G1161\|δὲ]]  [[G4983\|σώματι]]  [[G2064\|ἔρχονται;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.34|<< 1 Corinthians 15:34]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.36|1 Corinthians 15:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

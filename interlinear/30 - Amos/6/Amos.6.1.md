@@ -1,8 +1,67 @@
+---
+title: Amos 6:1
+type: Verse
+kjv: "Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!"
+bsb: "Woe to those at ease in Zion and those secure on Mount Samaria, the distinguished ones of the foremost nation, to whom the house of Israel comes."
+hebrew: "ה֚וֹי הַשַּׁאֲנַנִּ֣ים בְּצִיּ֔וֹן וְהַבֹּטְחִ֖ים בְּהַ֣ר שֹׁמְר֑וֹן נְקֻבֵי֙ רֵאשִׁ֣ית הַגּוֹיִ֔ם וּבָ֥אוּ לָהֶ֖ם בֵּ֥ית יִשְׂרָאֵֽל׃"
+pericope: "[[Amos.6.1 Woe to Those at Ease in Zion|Woe to Those at Ease in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SECURITY|SECURITY]]"
+strongs:
+- "[[H1945]]"
+- "[[H9009]]"
+- "[[H7600]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H9002]]"
+- "[[H0982]]"
+- "[[H2022G]]"
+- "[[H8111]]"
+- "[[H5344A]]"
+- "[[H7225G]]"
+- "[[H1471A]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 6:1**<big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe to them [that are] at ease in Zion, and trust in the mountain of Samaria, [which are] named chief of the nations, to whom the house of Israel came!
 <small><sub>**BSB:**</sub></small>
 Woe to those at ease in Zion and those secure on Mount Samaria, the distinguished ones of the foremost nation, to whom the house of Israel comes.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֚וֹי]] [[H9009\|הַ]][[H7600\|שַּׁאֲנַנִּ֣ים]] [[H9003\|בְּ]][[H6726\|צִיּ֔וֹן]] [[H9002\|וְ]][[H9009\|הַ]][[H0982\|בֹּטְחִ֖ים]] [[H9003\|בְּ]][[H2022G\|הַ֣ר]] [[H8111\|שֹׁמְר֑וֹן]] [[H5344A\|נְקֻבֵי֙]] [[H7225G\|רֵאשִׁ֣ית]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9001\|וּ]][[H0935G\|בָ֥אוּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic HAPPINESS|HAPPINESS]] • [[topic PLEASURE|PLEASURE]] • [[topic RICH, THE|RICH, THE]] • [[topic SECURITY|SECURITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.27|<< Amos 5:27]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.2|Amos 6:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

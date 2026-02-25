@@ -1,8 +1,69 @@
+---
+title: Joshua 8:5
+type: Verse
+kjv: "And I, and all the people that are with me, will approach unto the city: and it shall come to pass, when they come out against us, as at the first, that we will flee before them,"
+bsb: "Then I and all the troops with me will advance on the city. When they come out against us as they did the first time, we will flee from them."
+hebrew: "וַאֲנִ֗י וְכָל־ הָעָם֙ אֲשֶׁ֣ר אִתִּ֔י נִקְרַ֖ב אֶל־ הָעִ֑יר וְהָיָ֗ה כִּֽי־ יֵצְא֤וּ לִקְרָאתֵ֙נוּ֙ כַּאֲשֶׁ֣ר בָּרִֽאשֹׁנָ֔ה וְנַ֖סְנוּ לִפְנֵיהֶֽם׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H5892B]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9035]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9003]]"
+- "[[H7223H]]"
+- "[[H5127]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:5**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I, and all the people that [are] with me, will approach unto the city: and it shall come to pass, when they come out against us, as at the first, that we will flee before them,
 <small><sub>**BSB:**</sub></small>
 Then I and all the troops with me will advance on the city. When they come out against us as they did the first time, we will flee from them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתִּ֔]][[H9030\|י]] [[H7126G\|נִקְרַ֖ב]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3318G\|יֵצְא֤וּ]] [[H9005\|לִ]][[H7122H\|קְרָאתֵ֙]][[H9035\|נוּ֙]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H9003\|בָּ]][[H7223H\|רִֽאשֹׁנָ֔ה]] [[H9001\|וְ]][[H5127\|נַ֖סְנוּ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.4|<< Joshua 8:4]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.6|Joshua 8:6 >>]]</td></tr></table>
 

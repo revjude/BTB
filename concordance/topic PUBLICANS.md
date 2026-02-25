@@ -9,7 +9,7 @@
 
 → Matthew, the tax collector of Capernaum, becomes an apostle [[Matt.9.9|Mt 9:9]]; [[Matt.10.3|10:3]]; [[Mark.2.14|Mr 2:14]]; [[Luke.5.27|Lu 5:27]]
 
-→ Parable concerning [[Luke.18.9|Lu 18:9]]-[[Luke.18.14|14]]
+→ Parable concerning [[Luke.18.9|Lu 18:9-14]]
 
-→ Zacchaeus, chief among, receives Jesus into his house [[Luke.19.2|Lu 19:2]]-[[Luke.19.10|10]]
+→ Zacchaeus, chief among, receives Jesus into his house [[Luke.19.2|Lu 19:2-10]]
 

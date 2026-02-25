@@ -1,6 +1,86 @@
+---
+title: LXX Deuteronomy 28:12
+type: Verse
+lxx: "the lord open to you his good treasury, the heaven, to give the rain to your land in its season; to bless all the works  of your hands; and you shall lend to many nations, but you shall not borrow; and you shall yourself rule many nations, but they shall not rule you."
+greek: "ανοίξαι σοι κύριος τον θησαυρόν αυτού τον αγαθόν τον ουρανόν δούναι τον υετόν τη γη σου επί καιρού αυτού ευλογήσαι πάντα τα έργα των χειρών σου και δανιείς έθνεσι πολλοίς συ δε ου δανειή και άρξεις συ εθνών πολλών σου δε ουκ άρξουσι"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G0455]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2344]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G5205]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G2540]]"
+- "[[G1473]]"
+- "[[G2127]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1155]]"
+- "[[G1484]]"
+- "[[G4183]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1155]]"
+- "[[G2532]]"
+- "[[G0756]]"
+- "[[G1473]]"
+- "[[G1484]]"
+- "[[G4183]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G0756]]"
+---
+
 **LXX Deuteronomy 28:12** 
 <small><sub>**LXX:**</sub></small>
 \[the\] <span class="smallcaps">lord</span> open to you his good treasury, the heaven, to give the rain \[to\] your land in its season; to bless all the works  of your hands; and you shall lend to many nations, but you shall not borrow; and you shall yourself rule many nations, but they shall not rule you. 
+<small><sub>**Greek:**</sub></small>
+[[G0455\|ανοίξαι]] [[G1473\|σοι]] [[G2962\|κύριος]] [[G3588\|τον]] [[G2344\|θησαυρόν]] [[G1473\|αυτού]] [[G3588\|τον]] [[G0018\|αγαθόν]] [[G3588\|τον]] [[G3772\|ουρανόν]] [[G1325\|δούναι]] [[G3588\|τον]] [[G5205\|υετόν]] [[G3588\|τη]] [[G1093\|γη]] [[G1473\|σου]] [[G1909\|επί]] [[G2540\|καιρού]] [[G1473\|αυτού]] [[G2127\|ευλογήσαι]] [[G3956\|πάντα]] [[G3588\|τα]] [[G2041\|έργα]] [[G3588\|των]] [[G5495\|χειρών]] [[G1473\|σου]] [[G2532\|και]] [[G1155\|δανιείς]] [[G1484\|έθνεσι]] [[G4183\|πολλοίς]] [[G1473\|συ]] [[G1161\|δε]] [[G3756\|ου]] [[G1155\|δανειή]] [[G2532\|και]] [[G0756\|άρξεις]] [[G1473\|συ]] [[G1484\|εθνών]] [[G4183\|πολλών]] [[G1473\|σου]] [[G1161\|δε]] [[G3756\|ουκ]] [[G0756\|άρξουσι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.11|<< Deuteronomy 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.13|Deuteronomy 28:13 >>]]</td></tr></table>
 
@@ -44,6 +124,6 @@
 | but | **<big>[[G1161\|δε]]</big>** |
 | they shall not | **<big>[[G3756\|ουκ]]</big>** |
 | rule | **<big>[[G0756\|άρξουσι]]</big>** |
-[[Deut.28.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.11|<< Deuteronomy 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.13|Deuteronomy 28:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.11|<< Deuteronomy 28:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.13|Deuteronomy 28:13 >>]]</td></tr></table>
 
 

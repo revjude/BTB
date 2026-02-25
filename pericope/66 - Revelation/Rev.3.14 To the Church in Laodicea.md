@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To the Church in Laodicea
+type: Pericope
 pericope: "[[Rev.3.14 To the Church in Laodicea|To the Church in Laodicea]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 3
 book/chapter: "[[Rev.3|Revelation 3]]"
-genre:
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 9
 verses:
 - "[[Rev.3.14]]"
 - "[[Rev.3.15]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Rev.3.22]]"
 ---
 
-[[Rev.3|Revelation 3:14 - Revelation 3:22]]
+<small>[[Rev.3|Revelation 3:14-22]]</small>
 *To the Church in Laodicea*
 
 [[Rev.3.14|14]] And unto the angel of the church of the Laodiceans write; These things saith the Amen, the faithful and true witness, the beginning of the creation of God;

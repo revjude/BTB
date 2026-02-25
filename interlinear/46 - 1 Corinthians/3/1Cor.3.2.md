@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 3:2
+type: Verse
+kjv: "I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able."
+bsb: "I gave you milk, not solid food, for you were not yet ready for solid food. In fact, you are still not ready,"
+greek: "γάλα ὑμᾶς ἐπότισα, καὶ οὐ βρῶμα· οὔπω γὰρ ἐδύνασθε, ἀλλ᾽ οὐδὲ ἔτι νῦν δύνασθε·"
+pericope: "[[1Cor.3.1 God’s Fellow Workers|God’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MILK|MILK]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NEOPHYTES|NEOPHYTES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1051]]"
+- "[[G4771]]"
+- "[[G4222]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1033]]"
+- "[[G3768]]"
+- "[[G1063]]"
+- "[[G1410]]"
+- "[[G0235]]"
+- "[[G3761]]"
+- "[[G2089]]"
+- "[[G3568]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **1 Corinthians 3:2**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I have fed you with milk, and not with meat: for hitherto ye were not able [to bear it], neither yet now are ye able.
 <small><sub>**BSB:**</sub></small>
 I gave you milk, not solid food, for you were not yet ready for solid food. In fact, you are still not ready,
-<small><sub>**Literal:**</sub></small>
-Milk you I gave to drink, and not solid food; not yet for were you able, In fact not still now are you able;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.1|<< 1 Corinthians 3:1]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.3|1 Corinthians 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1051\|γάλα]]  [[G4771\|ὑμᾶς]]  [[G4222\|ἐπότισα,]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G1033\|βρῶμα·]]  [[G3768\|οὔπω]]  [[G1063\|γὰρ]]  [[G1410\|ἐδύνασθε,]]  [[G0235\|ἀλλ᾽]]  [[G3761\|οὐδὲ]]  [[G2089\|ἔτι]]  [[G3568\|νῦν]]  [[G1410\|δύνασθε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOCTRINES|DOCTRINES]] • [[topic MILK|MILK]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NEOPHYTES|NEOPHYTES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.1|<< 1 Corinthians 3:1]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.3|1 Corinthians 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

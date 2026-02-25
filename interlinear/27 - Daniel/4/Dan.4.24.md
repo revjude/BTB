@@ -1,8 +1,63 @@
+---
+title: Daniel 4:24
+type: Verse
+kjv: "This is the interpretation, O king, and this is the decree of the most High, which is come upon my lord the king:"
+bsb: "This is the interpretation, O king, and this is the decree that the Most High has issued against my lord the king:"
+aramaic: "דְּנָ֥ה פִשְׁרָ֖א מַלְכָּ֑א וּגְזֵרַ֤ת עִלָּאָה֙ הִ֔יא דִּ֥י מְטָ֖ת עַל־ מָרִ֥י מַלְכָּֽא׃"
+pericope: "[[Dan.4.19 Daniel Interprets the Second Dream|Daniel Interprets the Second Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1836]]"
+- "[[H6591]]"
+- "[[H9010]]"
+- "[[H4430]]"
+- "[[H9002]]"
+- "[[H1510]]"
+- "[[H5943]]"
+- "[[H1932]]"
+- "[[H1768]]"
+- "[[H4291]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H4756]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 4:24**<big><big>[[Dan.4.19 Daniel Interprets the Second Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the interpretation, O king, and this [is] the decree of the most High, which is come upon my lord the king:
 <small><sub>**BSB:**</sub></small>
 This is the interpretation, O king, and this is the decree that the Most High has issued against my lord the king:
+<small><sub>**Aramaic:**</sub></small>
+[[H1836\|דְּנָ֥ה]] [[H6591\|פִשְׁרָ֖]][[H9010\|א]] [[H4430\|מַלְכָּ֑]][[H9010\|א]] [[H9002\|וּ]][[H1510\|גְזֵרַ֤ת]] [[H5943\|עִלָּאָ]][[H9010\|ה֙]] [[H1932\|הִ֔יא]] [[H1768\|דִּ֥י]] [[H4291\|מְטָ֖ת]] [[H5922\|עַל]][[H9014\|־]] [[H4756\|מָרִ֥]][[H9020\|י]] [[H4430\|מַלְכָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BABYLON|BABYLON]] • [[topic CONVERTS|CONVERTS]] • [[topic GOD|GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.23|<< Daniel 4:23]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.25|Daniel 4:25 >>]]</td></tr></table>
 

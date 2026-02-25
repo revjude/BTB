@@ -1,8 +1,59 @@
+---
+title: Psalm 4:7
+type: Verse
+kjv: "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased."
+bsb: "You have filled my heart with more joy than when grain and new wine abound."
+hebrew: "נָתַ֣תָּה שִׂמְחָ֣ה בְלִבִּ֑י מֵעֵ֬ת דְּגָנָ֖ם וְתִֽירוֹשָׁ֣ם רָֽבּוּ׃"
+pericope: "[[Ps.4.1 Answer Me When I Call!|Answer Me When I Call!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 4
+book/chapter: "[[Ps.4|Psalm 4]]"
+chronological_order: 339
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JOY|JOY]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H5414H]]"
+- "[[H8057]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H6256]]"
+- "[[H1715]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H8492]]"
+- "[[H7231]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 4:7**<big><big>[[Ps.4.1 Answer Me When I Call!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast put gladness in my heart, more than in the time [that] their corn and their wine increased.
 <small><sub>**BSB:**</sub></small>
 You have filled my heart with more joy than when grain and new wine abound.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414H\|נָתַ֣תָּה]] [[H8057\|שִׂמְחָ֣ה]] [[H9003\|בְ]][[H3820A\|לִבִּ֑]][[H9020\|י]] [[H9006\|מֵ]][[H6256\|עֵ֬ת]] [[H1715\|דְּגָנָ֖]][[H9028\|ם]] [[H9002\|וְ]][[H8492\|תִֽירוֹשָׁ֣]][[H9028\|ם]] [[H7231\|רָֽבּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic HEART|HEART]] • [[topic JOY|JOY]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.6|<< Psalms 4:6]]</td><td align="center" style="border:none;">[[Ps.4|Psalms 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.4.8|Psalms 4:8 >>]]</td></tr></table>
 

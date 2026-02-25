@@ -1,8 +1,63 @@
+---
+title: Ezekiel 33:28
+type: Verse
+kjv: "For I will lay the land most desolate, and the pomp of her strength shall cease; and the mountains of Israel shall be desolate, that none shall pass through."
+bsb: "I will make the land a desolate waste, and the pride of her strength will come to an end. The mountains of Israel will become desolate, so that no one will pass through."
+hebrew: "וְנָתַתִּ֤י אֶת־ הָאָ֙רֶץ֙ שְׁמָמָ֣ה וּמְשַׁמָּ֔ה וְנִשְׁבַּ֖ת גְּא֣וֹן עֻזָּ֑הּ וְשָֽׁמְמ֛וּ הָרֵ֥י יִשְׂרָאֵ֖ל מֵאֵ֥ין עוֹבֵֽר׃"
+pericope: "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8077A]]"
+- "[[H9002]]"
+- "[[H4923]]"
+- "[[H7673A]]"
+- "[[H1347]]"
+- "[[H5797]]"
+- "[[H9024]]"
+- "[[H8074G]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:28**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will lay the land most desolate, and the pomp of her strength shall cease; and the mountains of Israel shall be desolate, that none shall pass through.
 <small><sub>**BSB:**</sub></small>
 I will make the land a desolate waste, and the pride of her strength will come to an end. The mountains of Israel will become desolate, so that no one will pass through.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414I\|נָתַתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H8077A\|שְׁמָמָ֣ה]] [[H9002\|וּ]][[H4923\|מְשַׁמָּ֔ה]] [[H9001\|וְ]][[H7673A\|נִשְׁבַּ֖ת]] [[H1347\|גְּא֣וֹן]] [[H5797\|עֻזָּ֑]][[H9024\|הּ]] [[H9001\|וְ]][[H8074G\|שָֽׁמְמ֛וּ]] [[H2022G\|הָרֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H5674A\|עוֹבֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.27|<< Ezekiel 33:27]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.29|Ezekiel 33:29 >>]]</td></tr></table>
 

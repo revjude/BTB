@@ -1,10 +1,60 @@
+---
+title: Ephesians 3:19
+type: Verse
+kjv: "And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God."
+bsb: "of the love of Christ, and to know this love that surpasses knowledge, that you may be filled with all the fullness of God."
+greek: "γνῶναί τε τὴν ὑπερβάλλουσαν τῆς γνώσεως ἀγάπην τοῦ Χριστοῦ, ἵνα πληρωθῆτε εἰς πᾶν τὸ πλήρωμα τοῦ θεοῦ.¶"
+pericope: "[[Eph.3.14 Paul’s Prayer for the Ephesians|Paul’s Prayer for the Ephesians]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 3
+book/chapter: "[[Eph.3|Ephesians 3]]"
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PARADOX|PARADOX]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1097]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G5235]]"
+- "[[G1108]]"
+- "[[G0026]]"
+- "[[G5547]]"
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G4138]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Ephesians 3:19**<big><big>[[Eph.3.14 Paul’s Prayer for the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.
 <small><sub>**BSB:**</sub></small>
 of the love of Christ, and to know this love that surpasses knowledge, that you may be filled with all the fullness of God.
-<small><sub>**Literal:**</sub></small>
-to know then which is surpassing <the> knowledge love <the> of Christ, so that you may be filled unto all the fullness <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.18|<< Ephesians 3:18]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.20|Ephesians 3:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|γνῶναί]]  [[G5037\|τε]]  [[G3588\|τὴν]]  [[G5235\|ὑπερβάλλουσαν]]  [[G3588\|τῆς]]  [[G1108\|γνώσεως]]  [[G0026\|ἀγάπην]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]  [[G2443\|ἵνα]]  [[G4137\|πληρωθῆτε]]  [[G1519\|εἰς]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G4138\|πλήρωμα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PARADOX|PARADOX]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.3.18|<< Ephesians 3:18]]</td><td align="center" style="border:none;">[[Eph.3|Ephesians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.3.20|Ephesians 3:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

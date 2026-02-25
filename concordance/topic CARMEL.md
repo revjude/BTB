@@ -7,7 +7,7 @@
 
 - Caves of [[Amos.9.3|Am 9:3]]; [[Mic.7.14|Mic 7:14]]
 
-- An idolatrous high place upon; Elijah builds an altar upon, and  confounds the worshipers of Baal, putting to death four hundred and fifty of its  prophets [[1Kgs.18.17|1Ki 18:17]]-[[1Kgs.18.46|46]]
+- An idolatrous high place upon; Elijah builds an altar upon, and  confounds the worshipers of Baal, putting to death four hundred and fifty of its  prophets [[1Kgs.18.17|1Ki 18:17-46]]
 
 - Elisha's abode in [[2Kgs.2.25|2Ki 2:25]]; [[2Kgs.4.25|4:25]]
 

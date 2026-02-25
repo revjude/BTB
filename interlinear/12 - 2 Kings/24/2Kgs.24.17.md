@@ -1,8 +1,58 @@
+---
+title: 2 Kings 24:17
+type: Verse
+kjv: "And the king of Babylon made Mattaniah his father’s brother king in his stead, and changed his name to Zedekiah."
+bsb: "Then the king of Babylon made Mattaniah, Jehoiachin’s uncle, king in his place and changed his name to Zedekiah."
+hebrew: "וַיַּמְלֵ֧ךְ מֶֽלֶךְ־ בָּבֶ֛ל אֶת־ מַתַּנְיָ֥ה דֹד֖וֹ תַּחְתָּ֑יו וַיַּסֵּ֥ב אֶת־ שְׁמ֖וֹ צִדְקִיָּֽהוּ׃ פ"
+pericope: "[[2Kgs.24.10 The Captivity of Jerusalem|The Captivity of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MATTANIAH|MATTANIAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H0853]]"
+- "[[H4983Q]]"
+- "[[H1730I]]"
+- "[[H9023]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H5437K]]"
+- "[[H8034]]"
+- "[[H6667H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 24:17**<big><big>[[2Kgs.24.10 The Captivity of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Babylon made Mattaniah his father’s brother king in his stead, and changed his name to Zedekiah.
 <small><sub>**BSB:**</sub></small>
 Then the king of Babylon made Mattaniah, Jehoiachin’s uncle, king in his place and changed his name to Zedekiah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4427A\|יַּמְלֵ֧ךְ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H0853\|אֶת]][[H9014\|־]] [[H4983Q\|מַתַּנְיָ֥ה]] [[H1730I\|דֹד֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H5437K\|יַּסֵּ֥ב]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H6667H\|צִדְקִיָּֽהוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MATTANIAH|MATTANIAH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.16|<< 2 Kings 24:16]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.18|2 Kings 24:18 >>]]</td></tr></table>
 
@@ -18,7 +68,7 @@ Then the king of Babylon made Mattaniah, Jehoiachin’s uncle, king in his place
 | and he changed  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H5437K\|יַּסֵּ֥ב]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Sev<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | name his  |**<big>&#8207;[[H8034\|שְׁמ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| she.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zedekiah  |**<big>&#8207;[[H6667H\|צִדְקִיָּֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tzid.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zedekiah  |**<big>&#8207;[[H6667H\|צִדְקִיָּֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tzid.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.16|<< 2 Kings 24:16]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.18|2 Kings 24:18 >>]]</td></tr></table>
 
 

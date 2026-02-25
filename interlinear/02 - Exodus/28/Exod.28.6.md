@@ -1,8 +1,65 @@
+---
+title: Exodus 28:6
+type: Verse
+kjv: "And they shall make the ephod of gold, of blue, and of purple, of scarlet, and fine twined linen, with cunning work."
+bsb: "They are to make the ephod of finely spun linen embroidered with gold, and with blue, purple, and scarlet yarn."
+hebrew: "וְעָשׂ֖וּ אֶת־ הָאֵפֹ֑ד זָ֠הָב תְּכֵ֨לֶת וְאַרְגָּמָ֜ן תּוֹלַ֧עַת שָׁנִ֛י וְשֵׁ֥שׁ מָשְׁזָ֖ר מַעֲשֵׂ֥ה חֹשֵֽׁב׃"
+pericope: "[[Exod.28.6 The Ephod|The Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0646]]"
+- "[[H2091]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H4639G]]"
+- "[[H2803G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:6**<big><big>[[Exod.28.6 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall make the ephod [of] gold, [of] blue, and [of] purple, [of] scarlet, and fine twined linen, with cunning work.
 <small><sub>**BSB:**</sub></small>
 They are to make the ephod of finely spun linen embroidered with gold, and with blue, purple, and scarlet yarn.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשׂ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0646\|אֵפֹ֑ד]] [[H2091\|זָ֠הָב]] [[H8504\|תְּכֵ֨לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֜ן]] [[H8438B\|תּוֹלַ֧עַת]] [[H8144\|שָׁנִ֛י]] [[H9002\|וְ]][[H8336B\|שֵׁ֥שׁ]] [[H7806\|מָשְׁזָ֖ר]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H2803G\|חֹשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic EPHOD|EPHOD]] • [[topic LINEN|LINEN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.5|<< Exodus 28:5]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.7|Exodus 28:7 >>]]</td></tr></table>
 

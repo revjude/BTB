@@ -1,6 +1,41 @@
+---
+title: Psalm 133:0
+type: Verse
+kjv: "A Song of degrees of David."
+hebrew: "שִׁ֥יר הַֽמַּעֲל֗וֹת לְדָ֫וִ֥ד"
+pericope: "[[Ps.133.1 How Pleasant to Live in Harmony!|How Pleasant to Live in Harmony!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 133
+book/chapter: "[[Ps.133|Psalm 133]]"
+chronological_order: 893
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H7892A]]"
+- "[[H9009]]"
+- "[[H4609B]]"
+- "[[H9005]]"
+- "[[H1732]]"
+texts:
+- L
+---
+
 **Psalms 133:0**<big><big>[[Ps.133.1 How Pleasant to Live in Harmony!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A Song of degrees of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H7892A\|שִׁ֥יר]] [[H9009\|הַֽ]][[H4609B\|מַּעֲל֗וֹת]] [[H9005\|לְ]][[H1732\|דָ֫וִ֥ד]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.133.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.18|<< Psalms 132:18]]</td><td align="center" style="border:none;">[[Ps.133|Psalms 133]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.1|Psalms 133:1 >>]]</td></tr></table>
 

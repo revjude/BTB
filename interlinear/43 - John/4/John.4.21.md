@@ -1,10 +1,65 @@
+---
+title: John 4:21
+type: Verse
+kjv: "Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father."
+bsb: "“Believe Me, woman,” Jesus replied, “a time is coming when you will worship the Father neither on this mountain nor in Jerusalem."
+jesus_said: "Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father."
+greek: "Λέγει αὐτῇ ὁ Ἰησοῦς· πίστευέ μοι, γύναι, ὅτι ἔρχεται ὥρα ὅτε οὔτε ἐν τῷ ὄρει τούτῳ οὔτε ἐν Ἱεροσολύμοις προσκυνήσετε τῷ πατρί."
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4100]]"
+- "[[G3165]]"
+- "[[G1135G]]"
+- "[[G3754G]]"
+- "[[G2064]]"
+- "[[G5610]]"
+- "[[G3753]]"
+- "[[G3777]]"
+- "[[G1722]]"
+- "[[G3735]]"
+- "[[G3778]]"
+- "[[G2414]]"
+- "[[G4352]]"
+- "[[G3962]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 4:21**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto her, Woman, believe me, the hour cometh, when ye shall neither in this mountain, nor yet at Jerusalem, worship the Father.
 <small><sub>**BSB:**</sub></small>
 “Believe Me, woman,” Jesus replied, “a time is coming when you will worship the Father neither on this mountain nor in Jerusalem.
-<small><sub>**Literal:**</sub></small>
-Says to her <the> Jesus; do believe Me, woman, that is coming an hour when neither [you will worship] on <the> mountain this nor in Jerusalem will you worship the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.20|<< John 4:20]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.22|John 4:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G0846\|αὐτῇ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G4100\|πίστευέ]]  [[G3165\|μοι,]]  [[G1135G\|γύναι,]]  [[G3754G\|ὅτι]]  [[G2064\|ἔρχεται]]  [[G5610\|ὥρα]]  [[G3753\|ὅτε]]  [[G3777\|οὔτε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3735\|ὄρει]]  [[G3778\|τούτῳ]]  [[G3777\|οὔτε]]  [[G1722\|ἐν]]  [[G2414\|Ἱεροσολύμοις]]  [[G4352\|προσκυνήσετε]]  [[G3588\|τῷ]]  [[G3962\|πατρί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.20|<< John 4:20]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.22|John 4:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 29:13
+type: Verse
+kjv: "Now therefore, our God, we thank thee, and praise thy glorious name."
+bsb: "Now therefore, our God, we give You thanks, and we praise Your glorious name."
+hebrew: "וְעַתָּ֣ה אֱלֹהֵ֔ינוּ מוֹדִ֥ים אֲנַ֖חְנוּ לָ֑ךְ וּֽמְהַֽלְלִ֖ים לְשֵׁ֥ם תִּפְאַרְתֶּֽךָ׃"
+pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3034]]"
+- "[[H0587]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1984B]]"
+- "[[H8034]]"
+- "[[H8597]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:13**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, our God, we thank thee, and praise thy glorious name.
 <small><sub>**BSB:**</sub></small>
 Now therefore, our God, we give You thanks, and we praise Your glorious name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H3034\|מוֹדִ֥ים]] [[H0587\|אֲנַ֖חְנוּ]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H9002\|וּֽ]][[H1984B\|מְהַֽלְלִ֖ים]] [[H9005\|לְ]][[H8034\|שֵׁ֥ם]] [[H8597\|תִּפְאַרְתֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.12|<< 1 Chronicles 29:12]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.14|1 Chronicles 29:14 >>]]</td></tr></table>
 

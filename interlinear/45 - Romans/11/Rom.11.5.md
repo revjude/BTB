@@ -1,10 +1,53 @@
+---
+title: Romans 11:5
+type: Verse
+kjv: "Even so then at this present time also there is a remnant according to the election of grace."
+bsb: "In the same way, at the present time there is a remnant chosen by grace."
+greek: "οὕτως οὖν καὶ ἐν τῷ νῦν καιρῷ λεῖμμα κατ᾽ ἐκλογὴν χάριτος γέγονεν."
+pericope: "[[Rom.11.1 A Remnant Chosen by Grace|A Remnant Chosen by Grace]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3779]]"
+- "[[G3767]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3568]]"
+- "[[G2540]]"
+- "[[G3005]]"
+- "[[G2596]]"
+- "[[G1589]]"
+- "[[G5485]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Romans 11:5**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even so then at this present time also there is a remnant according to the election of grace.
 <small><sub>**BSB:**</sub></small>
 In the same way, at the present time there is a remnant chosen by grace.
-<small><sub>**Literal:**</sub></small>
-Thus then also in the present time a remnant according to [the] election of grace there has been.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.4|<< Romans 11:4]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.6|Romans 11:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G3767\|οὖν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3568\|νῦν]]  [[G2540\|καιρῷ]]  [[G3005\|λεῖμμα]]  [[G2596\|κατ᾽]]  [[G1589\|ἐκλογὴν]]  [[G5485\|χάριτος]]  [[G1096\|γέγονεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.4|<< Romans 11:4]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.6|Romans 11:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

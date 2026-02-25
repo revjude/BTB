@@ -1,7 +1,7 @@
 
 **UNICORN (WILD OX, R. V.)**
 
-→ Intractable [[Job.39.9|Job 39:9]]-[[Job.39.12|12]]
+→ Intractable [[Job.39.9|Job 39:9-12]]
 
 → Horned [[Deut.33.17|De 33:17]]; [[Ps.22.21|Ps 22:21]]; [[Ps.92.10|92:10]]
 

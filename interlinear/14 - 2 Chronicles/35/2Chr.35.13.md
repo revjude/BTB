@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 35:13
+type: Verse
+kjv: "And they roasted the passover with fire according to the ordinance: but the other holy offerings sod they in pots, and in caldrons, and in pans, and divided them speedily among all the people."
+bsb: "They roasted the Passover animals on the fire according to the regulation, and they boiled the other holy offerings in pots, kettles, and bowls and quickly brought them to all the people."
+hebrew: "וַֽיְבַשְּׁל֥וּ הַפֶּ֛סַח בָּאֵ֖שׁ כַּמִּשְׁפָּ֑ט וְהַקֳּדָשִׁ֣ים בִּשְּׁל֗וּ בַּסִּיר֤וֹת וּבַדְּוָדִים֙ וּבַצֵּ֣לָח֔וֹת וַיָּרִ֖יצוּ לְכָל־ בְּנֵ֥י הָעָֽם׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CALDRON|CALDRON]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H1310]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9004]]"
+- "[[H4941G]]"
+- "[[H9002]]"
+- "[[H6944G]]"
+- "[[H5518A]]"
+- "[[H1731]]"
+- "[[H6745]]"
+- "[[H7323G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:13**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they roasted the passover with fire according to the ordinance: but the [other] holy [offerings] sod they in pots, and in caldrons, and in pans, and divided [them] speedily among all the people.
 <small><sub>**BSB:**</sub></small>
 They roasted the Passover animals on the fire according to the regulation, and they boiled the other holy offerings in pots, kettles, and bowls and quickly brought them to all the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1310\|יְבַשְּׁל֥וּ]] [[H9009\|הַ]][[H6453\|פֶּ֛סַח]] [[H9003\|בָּ]][[H0784\|אֵ֖שׁ]] [[H9004\|כַּ]][[H4941G\|מִּשְׁפָּ֑ט]] [[H9002\|וְ]][[H9009\|הַ]][[H6944G\|קֳּדָשִׁ֣ים]] [[H1310\|בִּשְּׁל֗וּ]] [[H9003\|בַּ]][[H5518A\|סִּיר֤וֹת]] [[H9002\|וּ]][[H9003\|בַ]][[H1731\|דְּוָדִים֙]] [[H9002\|וּ]][[H9003\|בַ]][[H6745\|צֵּ֣לָח֔וֹת]] [[H9001\|וַ]][[H7323G\|יָּרִ֖יצוּ]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALDRON|CALDRON]] • [[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.12|<< 2 Chronicles 35:12]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.14|2 Chronicles 35:14 >>]]</td></tr></table>
 

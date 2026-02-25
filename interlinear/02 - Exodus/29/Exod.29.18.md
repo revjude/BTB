@@ -1,8 +1,62 @@
+---
+title: Exodus 29:18
+type: Verse
+kjv: "And thou shalt burn the whole ram upon the altar: it is a burnt offering unto the LORD: it is a sweet savour, an offering made by fire unto the LORD."
+bsb: "Then burn the entire ram on the altar; it is a burnt offering to the LORD, a pleasing aroma, a food offering to the LORD."
+hebrew: "וְהִקְטַרְתָּ֤ אֶת־ כָּל־ הָאַ֙יִל֙ הַמִּזְבֵּ֔חָה עֹלָ֥ה ה֖וּא לַֽיהוָ֑ה רֵ֣יחַ נִיח֔וֹחַ אִשֶּׁ֥ה לַיהוָ֖ה הֽוּא׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0352A]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H5930A]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H0801]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:18**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt burn the whole ram upon the altar: it [is] a burnt offering unto the LORD: it [is] a sweet savour, an offering made by fire unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Then burn the entire ram on the altar; it is a burnt offering to the LORD, a pleasing aroma, a food offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6999A\|הִקְטַרְתָּ֤]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אַ֙יִל֙]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חָ]][[H9011\|ה]] [[H5930A\|עֹלָ֥ה]] [[H1931\|ה֖וּא]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H7381\|רֵ֣יחַ]] [[H5207\|נִיח֔וֹחַ]] [[H0801\|אִשֶּׁ֥ה]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.17|<< Exodus 29:17]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.19|Exodus 29:19 >>]]</td></tr></table>
 

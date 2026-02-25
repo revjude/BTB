@@ -1,10 +1,59 @@
+---
+title: Acts 23:28
+type: Verse
+kjv: "And when I would have known the cause wherefore they accused him, I brought him forth into their council:"
+bsb: "and since I wanted to understand their charges against him, I brought him down to their Sanhedrin."
+greek: "βουλόμενός τε ἐπιγνῶναι τὴν αἰτίαν δι᾽ ἣν ἐνεκάλουν αὐτῷ κατήγαγον αὐτὸν εἰς τὸ συνέδριον αὐτῶν·"
+pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1014]]"
+- "[[G5037]]"
+- "[[G1921]]"
+- "[[G3588]]"
+- "[[G0156]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G1458]]"
+- "[[G0846]]"
+- "[[G2609]]"
+- "[[G1519]]"
+- "[[G4892]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 23:28**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when I would have known the cause wherefore they accused him, I brought him forth into their council:
 <small><sub>**BSB:**</sub></small>
 and since I wanted to understand their charges against him, I brought him down to their Sanhedrin.
-<small><sub>**Literal:**</sub></small>
-Resolving then to know the charge on account of which they were accusing him I brought down him to the council of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.27|<< Acts 23:27]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.29|Acts 23:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1014\|βουλόμενός]]  [[G5037\|τε]]  [[G1921\|ἐπιγνῶναι]]  [[G3588\|τὴν]]  [[G0156\|αἰτίαν]]  [[G1223\|δι᾽]]  [[G3739\|ἣν]]  [[G1458\|ἐνεκάλουν]]  [[G0846\|αὐτῷ]]  [[G2609\|κατήγαγον]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4892\|συνέδριον]]  [[G0846\|αὐτῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic FELIX|FELIX]] • [[topic LETTERS|LETTERS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.27|<< Acts 23:27]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.29|Acts 23:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

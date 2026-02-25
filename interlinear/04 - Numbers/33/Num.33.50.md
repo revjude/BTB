@@ -1,8 +1,55 @@
+---
+title: Numbers 33:50
+type: Verse
+kjv: "And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,"
+bsb: "On the plains of Moab by the Jordan across from Jericho, the LORD said to Moses,"
+hebrew: "וַיְדַבֵּ֧ר יְהוָ֛ה אֶל־ מֹשֶׁ֖ה בְּעַֽרְבֹ֣ת מוֹאָ֑ב עַל־ יַרְדֵּ֥ן יְרֵח֖וֹ לֵאמֹֽר׃"
+pericope: "[[Num.33.50 Instructions for Occupying Canaan|Instructions for Occupying Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H6160I]]"
+- "[[H4124I]]"
+- "[[H5921A]]"
+- "[[H3383]]"
+- "[[H3405G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:50**<big><big>[[Num.33.50 Instructions for Occupying Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses in the plains of Moab by Jordan [near] Jericho, saying,
 <small><sub>**BSB:**</sub></small>
 On the plains of Moab by the Jordan across from Jericho, the LORD said to Moses,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֖ה]] [[H9003\|בְּ]][[H6160I\|עַֽרְבֹ֣ת]] [[H4124I\|מוֹאָ֑ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3383\|יַרְדֵּ֥ן]] [[H3405G\|יְרֵח֖וֹ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.49|<< Numbers 33:49]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.51|Numbers 33:51 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The City Gates and Dimensions
+type: Pericope
 pericope: "[[Ezek.48.30 The City Gates and Dimensions|The City Gates and Dimensions]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 48
 book/chapter: "[[Ezek.48|Ezekiel 48]]"
-genre:
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 6
 verses:
 - "[[Ezek.48.30]]"
 - "[[Ezek.48.31]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ezek.48.35]]"
 ---
 
-[[Ezek.48|Ezekiel 48:30 - Ezekiel 48:35]]
+<small>[[Ezek.48|Ezekiel 48:30-35]]</small>
 *The City Gates and Dimensions*
 
 [[Ezek.48.30|30]] And these \[are\] the goings out of the city on the north side, four thousand and five hundred measures.

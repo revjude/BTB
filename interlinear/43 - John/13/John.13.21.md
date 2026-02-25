@@ -1,10 +1,59 @@
+---
+title: John 13:21
+type: Verse
+kjv: "When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me."
+bsb: "After Jesus had said this, He became troubled in spirit and testified, “Truly, truly, I tell you, one of you will betray Me.”"
+jesus_said: "Verily, verily, I say unto you, that one of you shall betray me."
+greek: "Ταῦτα εἰπὼν ὁ Ἰησοῦς ἐταράχθη τῷ πνεύματι καὶ ἐμαρτύρησεν καὶ εἶπεν· ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι εἷς ἐξ ὑμῶν παραδώσει με."
+pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BETRAYAL|BETRAYAL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+strongs:
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5015]]"
+- "[[G4151G]]"
+- "[[G2532]]"
+- "[[G3140]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G3860]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **John 13:21**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.
 <small><sub>**BSB:**</sub></small>
 After Jesus had said this, He became troubled in spirit and testified, “Truly, truly, I tell you, one of you will betray Me.”
-<small><sub>**Literal:**</sub></small>
-These things having said <the> Jesus was troubled <the> in spirit and He testified and said; Amen Amen I say to you that one of you will betray Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.20|<< John 13:20]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.22|John 13:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G2036\|εἰπὼν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G5015\|ἐταράχθη]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G2532\|καὶ]]  [[G3140\|ἐμαρτύρησεν]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G1520\|εἷς]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G3860\|παραδώσει]]  [[G3165\|με.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETRAYAL|BETRAYAL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.20|<< John 13:20]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.22|John 13:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

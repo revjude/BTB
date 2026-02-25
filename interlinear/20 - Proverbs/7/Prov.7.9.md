@@ -1,8 +1,56 @@
+---
+title: Proverbs 7:9
+type: Verse
+kjv: "In the twilight, in the evening, in the black and dark night:"
+bsb: "at twilight, as the day was fading into the dark of the night."
+hebrew: "בְּנֶֽשֶׁף־ בְּעֶ֥רֶב י֑וֹם בְּאִישׁ֥וֹן לַ֝֗יְלָה וַאֲפֵלָֽה׃"
+pericope: "[[Prov.7.1 Warnings about the Adulteress|Warnings about the Adulteress]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 7
+book/chapter: "[[Prov.7|Proverbs 7]]"
+chronological_order: 462
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9003]]"
+- "[[H5399]]"
+- "[[H9014]]"
+- "[[H6153]]"
+- "[[H3117G]]"
+- "[[H0380]]"
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H0653]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 7:9**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the twilight, in the evening, in the black and dark night:
 <small><sub>**BSB:**</sub></small>
 at twilight, as the day was fading into the dark of the night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5399\|נֶֽשֶׁף]][[H9014\|־]] [[H9003\|בְּ]][[H6153\|עֶ֥רֶב]] [[H3117G\|י֑וֹם]] [[H9003\|בְּ]][[H0380\|אִישׁ֥וֹן]] [[H3915\|לַ֝֗יְלָה]] [[H9002\|וַ]][[H0653\|אֲפֵלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.8|<< Proverbs 7:8]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.10|Proverbs 7:10 >>]]</td></tr></table>
 

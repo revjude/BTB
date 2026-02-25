@@ -1,8 +1,56 @@
+---
+title: Job 8:9
+type: Verse
+kjv: "(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)"
+bsb: "For we were born yesterday and know nothing; our days on earth are but a shadow."
+hebrew: "כִּֽי־ תְמ֣וֹל אֲ֭נַחְנוּ וְלֹ֣א נֵדָ֑ע כִּ֤י צֵ֖ל יָמֵ֣ינוּ עֲלֵי־ אָֽרֶץ׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HISTORY|HISTORY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8543]]"
+- "[[H0587]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H6738]]"
+- "[[H3117G]]"
+- "[[H9025]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:9**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For we [are but of] yesterday, and know nothing, because our days upon earth [are] a shadow:)
 <small><sub>**BSB:**</sub></small>
 For we were born yesterday and know nothing; our days on earth are but a shadow.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8543\|תְמ֣וֹל]] [[H0587\|אֲ֭נַחְנוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3045\|נֵדָ֑ע]] [[H3588A\|כִּ֤י]] [[H6738\|צֵ֖ל]] [[H3117G\|יָמֵ֣י]][[H9025\|נוּ]] [[H5921A\|עֲלֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HISTORY|HISTORY]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.8|<< Job 8:8]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.10|Job 8:10 >>]]</td></tr></table>
 

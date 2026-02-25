@@ -1,8 +1,63 @@
+---
+title: Exodus 27:7
+type: Verse
+kjv: "And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it."
+bsb: "The poles are to be inserted into the rings so that the poles are on two sides of the altar when it is carried."
+hebrew: "וְהוּבָ֥א אֶת־ בַּדָּ֖יו בַּטַּבָּעֹ֑ת וְהָי֣וּ הַבַּדִּ֗ים עַל־ שְׁתֵּ֛י צַלְעֹ֥ת הַמִּזְבֵּ֖חַ בִּשְׂאֵ֥ת אֹתֽוֹ׃"
+pericope: "[[Exod.27.1 The Bronze Altar|The Bronze Altar]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0905G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2885]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5921A]]"
+- "[[H8147]]"
+- "[[H6763]]"
+- "[[H4196]]"
+- "[[H5375H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 27:7**<big><big>[[Exod.27.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the staves shall be put into the rings, and the staves shall be upon the two sides of the altar, to bear it.
 <small><sub>**BSB:**</sub></small>
 The poles are to be inserted into the rings so that the poles are on two sides of the altar when it is carried.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הוּבָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H0905G\|בַּדָּ֖י]][[H9023\|ו]] [[H9003\|בַּ]][[H2885\|טַּבָּעֹ֑ת]] [[H9001\|וְ]][[H1961\|הָי֣וּ]] [[H9009\|הַ]][[H0905G\|בַּדִּ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁתֵּ֛י]] [[H6763\|צַלְעֹ֥ת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9003\|בִּ]][[H5375H\|שְׂאֵ֥ת]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.6|<< Exodus 27:6]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.8|Exodus 27:8 >>]]</td></tr></table>
 

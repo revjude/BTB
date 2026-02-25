@@ -1,8 +1,54 @@
+---
+title: Isaiah 14:28
+type: Verse
+kjv: "In the year that king Ahaz died was this burden."
+bsb: "In the year that King Ahaz died, this burden was received:"
+hebrew: "בִּשְׁנַת־ מ֖וֹת הַמֶּ֣לֶךְ אָחָ֑ז הָיָ֖ה הַמַּשָּׂ֥א הַזֶּֽה׃"
+pericope: "[[Isa.14.28 Philistia Will Be Destroyed|Philistia Will Be Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9014]]"
+- "[[H4194]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0271G]]"
+- "[[H1961]]"
+- "[[H4853B]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:28**<big><big>[[Isa.14.28 Philistia Will Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the year that king Ahaz died was this burden.
 <small><sub>**BSB:**</sub></small>
 In the year that King Ahaz died, this burden was received:
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַת]][[H9014\|־]] [[H4194\|מ֖וֹת]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0271G\|אָחָ֑ז]] [[H1961\|הָיָ֖ה]] [[H9009\|הַ]][[H4853B\|מַּשָּׂ֥א]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.27|<< Isaiah 14:27]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.29|Isaiah 14:29 >>]]</td></tr></table>
 

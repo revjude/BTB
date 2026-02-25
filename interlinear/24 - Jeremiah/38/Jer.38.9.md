@@ -1,8 +1,82 @@
+---
+title: Jeremiah 38:9
+type: Verse
+kjv: "My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for there is no more bread in the city."
+bsb: "“My lord the king, these men have acted wickedly in all that they have done to Jeremiah the prophet. They have dropped him into the cistern, where he will starve to death, for there is no more bread in the city.”"
+hebrew: "אֲדֹנִ֣י הַמֶּ֗לֶךְ הֵרֵ֜עוּ הָאֲנָשִׁ֤ים הָאֵ֙לֶּה֙ אֵ֣ת כָּל־ אֲשֶׁ֤ר עָשׂוּ֙ לְיִרְמְיָ֣הוּ הַנָּבִ֔יא אֵ֥ת אֲשֶׁר־ הִשְׁלִ֖יכוּ אֶל־ הַבּ֑וֹר וַיָּ֤מָת תַּחְתָּיו֙ מִפְּנֵ֣י הָֽרָעָ֔ב כִּ֣י אֵ֥ין הַלֶּ֛חֶם ע֖וֹד בָּעִֽיר׃"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EBED-MELECH|EBED-MELECH]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic EUNUCH|EUNUCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7489A]]"
+- "[[H0582]]"
+- "[[H0428]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H7993]]"
+- "[[H0413]]"
+- "[[H0953A]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H8478I]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H7458]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H3899H]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 38:9**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for [there is] no more bread in the city.
 <small><sub>**BSB:**</sub></small>
 “My lord the king, these men have acted wickedly in all that they have done to Jeremiah the prophet. They have dropped him into the cistern, where he will starve to death, for there is no more bread in the city.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H7489A\|הֵרֵ֜עוּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֤ים]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213A\|עָשׂוּ֙]] [[H9005\|לְ]][[H3414L\|יִרְמְיָ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7993\|הִשְׁלִ֖יכוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H0953A\|בּ֑וֹר]] [[H9001\|וַ]][[H4191\|יָּ֤מָת]] [[H8478I\|תַּחְתָּי]][[H9033\|ו֙]] [[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H9009\|הָֽ]][[H7458\|רָעָ֔ב]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֥ין]] [[H9009\|הַ]][[H3899H\|לֶּ֛חֶם]] [[H5750\|ע֖וֹד]] [[H9003\|בָּ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EBED-MELECH|EBED-MELECH]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic EUNUCH|EUNUCH]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRISONERS|PRISONERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.8|<< Jeremiah 38:8]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.10|Jeremiah 38:10 >>]]</td></tr></table>
 

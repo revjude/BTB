@@ -1,8 +1,56 @@
+---
+title: Joshua 24:10
+type: Verse
+kjv: "But I would not hearken unto Balaam; therefore he blessed you still: so I delivered you out of his hand."
+bsb: "but I would not listen to Balaam. So he blessed you again and again, and I delivered you from his hand."
+hebrew: "וְלֹ֥א אָבִ֖יתִי לִשְׁמֹ֣עַ לְבִלְעָ֑ם וַיְבָ֤רֶךְ בָּרוֹךְ֙ אֶתְכֶ֔ם וָאַצִּ֥ל אֶתְכֶ֖ם מִיָּדֽוֹ׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H1109A]]"
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:10**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I would not hearken unto Balaam; therefore he blessed you still: so I delivered you out of his hand.
 <small><sub>**BSB:**</sub></small>
 but I would not listen to Balaam. So he blessed you again and again, and I delivered you from his hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָבִ֖יתִי]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֣עַ]] [[H9005\|לְ]][[H1109A\|בִלְעָ֑ם]] [[H9001\|וַ]][[H1288\|יְבָ֤רֶךְ]] [[H1288\|בָּרוֹךְ֙]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9001\|וָ]][[H5337\|אַצִּ֥ל]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H3027H\|יָּדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.9|<< Joshua 24:9]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.11|Joshua 24:11 >>]]</td></tr></table>
 

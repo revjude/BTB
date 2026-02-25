@@ -1,8 +1,74 @@
+---
+title: Genesis 43:18
+type: Verse
+kjv: "And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses."
+bsb: "But the brothers were frightened that they had been taken to Joseph’s house. “We have been brought here because of the silver that was returned in our bags the first time,” they said. “They intend to overpower us and take us as slaves, along with our donkeys.”"
+hebrew: "וַיִּֽירְא֣וּ הָֽאֲנָשִׁ֗ים כִּ֣י הֽוּבְאוּ֮ בֵּ֣ית יוֹסֵף֒ וַיֹּאמְר֗וּ עַל־ דְּבַ֤ר הַכֶּ֙סֶף֙ הַשָּׁ֤ב בְּאַמְתְּחֹתֵ֙ינוּ֙ בַּתְּחִלָּ֔ה אֲנַ֖חְנוּ מֽוּבָאִ֑ים לְהִתְגֹּלֵ֤ל עָלֵ֙ינוּ֙ וּלְהִתְנַפֵּ֣ל עָלֵ֔ינוּ וְלָקַ֧חַת אֹתָ֛נוּ לַעֲבָדִ֖ים וְאֶת־ חֲמֹרֵֽינוּ׃"
+pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3372G]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H3588A]]"
+- "[[H0935P]]"
+- "[[H1004B]]"
+- "[[H3130G]]"
+- "[[H0559]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1697M]]"
+- "[[H3701G]]"
+- "[[H7725G]]"
+- "[[H9003]]"
+- "[[H0572]]"
+- "[[H9025]]"
+- "[[H8462]]"
+- "[[H0587]]"
+- "[[H9005]]"
+- "[[H1556]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H5307G]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H2543]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:18**<big><big>[[Gen.43.16 Joseph’s Hospitality to His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.
 <small><sub>**BSB:**</sub></small>
 But the brothers were frightened that they had been taken to Joseph’s house. “We have been brought here because of the silver that was returned in our bags the first time,” they said. “They intend to overpower us and take us as slaves, along with our donkeys.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3372G\|יִּֽירְא֣וּ]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֗ים]] [[H3588A\|כִּ֣י]] [[H0935P\|הֽוּבְאוּ֮]] [[H1004B\|בֵּ֣ית]] [[H3130G\|יוֹסֵף֒]] [[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1697M\|דְּבַ֤ר]] [[H9009\|הַ]][[H3701G\|כֶּ֙סֶף֙]] [[H9009\|הַ]][[H7725G\|שָּׁ֤ב]] [[H9003\|בְּ]][[H0572\|אַמְתְּחֹתֵ֙י]][[H9025\|נוּ֙]] [[H9003\|בַּ]][[H8462\|תְּחִלָּ֔ה]] [[H0587\|אֲנַ֖חְנוּ]] [[H0935P\|מֽוּבָאִ֑ים]] [[H9005\|לְ]][[H1556\|הִתְגֹּלֵ֤ל]] [[H5921A\|עָלֵ֙י]][[H9035\|נוּ֙]] [[H9002\|וּ]][[H9005\|לְ]][[H5307G\|הִתְנַפֵּ֣ל]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H9002\|וְ]][[H9005\|לָ]][[H3947G\|קַ֧חַת]] [[H0853\|אֹתָ֛]][[H9035\|נוּ]] [[H9005\|לַ]][[H5650\|עֲבָדִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2543\|חֲמֹרֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic MONEY|MONEY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.17|<< Genesis 43:17]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.19|Genesis 43:19 >>]]</td></tr></table>
 

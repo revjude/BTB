@@ -1,8 +1,67 @@
+---
+title: Judges 6:35
+type: Verse
+kjv: "And he sent messengers throughout all Manasseh; who also was gathered after him: and he sent messengers unto Asher, and unto Zebulun, and unto Naphtali; and they came up to meet them."
+bsb: "Calling them to arms, Gideon sent messengers throughout Manasseh, as well as Asher, Zebulun, and Naphtali, so that they came up to meet him."
+hebrew: "וּמַלְאָכִים֙ שָׁלַ֣ח בְּכָל־ מְנַשֶּׁ֔ה וַיִזָּעֵ֥ק גַּם־ ה֖וּא אַחֲרָ֑יו וּמַלְאָכִ֣ים שָׁלַ֗ח בְּאָשֵׁ֤ר וּבִזְבֻלוּן֙ וּבְנַפְתָּלִ֔י וַֽיַּעֲל֖וּ לִקְרָאתָֽם׃"
+pericope: "[[Judg.6.33 The Sign of the Fleece|The Sign of the Fleece]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ASHER|ASHER]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4397G]]"
+- "[[H7971G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4519G]]"
+- "[[H9001]]"
+- "[[H2199]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H0836]]"
+- "[[H2074]]"
+- "[[H5321G]]"
+- "[[H5927G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 6:35**<big><big>[[Judg.6.33 The Sign of the Fleece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent messengers throughout all Manasseh; who also was gathered after him: and he sent messengers unto Asher, and unto Zebulun, and unto Naphtali; and they came up to meet them.
 <small><sub>**BSB:**</sub></small>
 Calling them to arms, Gideon sent messengers throughout Manasseh, as well as Asher, Zebulun, and Naphtali, so that they came up to meet him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4397G\|מַלְאָכִים֙]] [[H7971G\|שָׁלַ֣ח]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֔ה]] [[H9001\|וַ]][[H2199\|יִזָּעֵ֥ק]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H0310A\|אַחֲרָ֑י]][[H9033\|ו]] [[H9002\|וּ]][[H4397G\|מַלְאָכִ֣ים]] [[H7971G\|שָׁלַ֗ח]] [[H9003\|בְּ]][[H0836\|אָשֵׁ֤ר]] [[H9002\|וּ]][[H9003\|בִ]][[H2074\|זְבֻלוּן֙]] [[H9002\|וּ]][[H9003\|בְ]][[H5321G\|נַפְתָּלִ֔י]] [[H9001\|וַֽ]][[H5927G\|יַּעֲל֖וּ]] [[H9005\|לִ]][[H7122G\|קְרָאתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHER|ASHER]] • [[topic DECISION|DECISION]] • [[topic GIDEON|GIDEON]] • [[topic JUDGE|JUDGE]] • [[topic NAPHTALI|NAPHTALI]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.34|<< Judges 6:34]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.36|Judges 6:36 >>]]</td></tr></table>
 

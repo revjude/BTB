@@ -1,6 +1,86 @@
+---
+title: LXX Deuteronomy 28:48
+type: Verse
+lxx: "And you shall serve  your enemies whom the lord shall send as a successor over you in hunger, and in thirst, and in nakedness, and in want of all things. And he shall put a collar of iron upon  your neck, until whenever he should utterly destroy you."
+greek: "και λατρεύσεις τοις εχθροίς σου ους επαποστελεί κύριος επί σε εν λιμώ και εν δίψει και εν γυμνότητι και εν εκλείψει πάντων και επιθήσει κλοιόν σιδηρούν επί τον τράχηλόν σου έως αν εξολοθρεύση σε"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic IRON|IRON]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3000]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G7369]]"
+- "[[G2962]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3042]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1373]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1132]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G7111]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G2007]]"
+- "[[G8027]]"
+- "[[G4603]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5137]]"
+- "[[G1473]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G1842]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 28:48** 
 <small><sub>**LXX:**</sub></small>
 And you shall serve  your enemies whom \[the\] <span class="smallcaps">lord</span> shall send as a successor over you in hunger, and in thirst, and in nakedness, and in want of all \[things\]. And he shall put a collar of iron upon  your neck, until whenever he should utterly destroy you. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3000\|λατρεύσεις]] [[G3588\|τοις]] [[G2190\|εχθροίς]] [[G1473\|σου]] [[G3739\|ους]] [[G7369\|επαποστελεί]] [[G2962\|κύριος]] [[G1909\|επί]] [[G1473\|σε]] [[G1722\|εν]] [[G3042\|λιμώ]] [[G2532\|και]] [[G1722\|εν]] [[G1373\|δίψει]] [[G2532\|και]] [[G1722\|εν]] [[G1132\|γυμνότητι]] [[G2532\|και]] [[G1722\|εν]] [[G7111\|εκλείψει]] [[G3956\|πάντων]] [[G2532\|και]] [[G2007\|επιθήσει]] [[G8027\|κλοιόν]] [[G4603\|σιδηρούν]] [[G1909\|επί]] [[G3588\|τον]] [[G5137\|τράχηλόν]] [[G1473\|σου]] [[G2193\|έως]] [[G0302\|αν]] [[G1842\|εξολοθρεύση]] [[G1473\|σε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic IRON|IRON]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.28.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.47|<< Deuteronomy 28:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.49|Deuteronomy 28:49 >>]]</td></tr></table>
 
@@ -37,6 +117,6 @@ And you shall serve  your enemies whom \[the\] <span class="smallcaps">lord</spa
 | whenever | **<big>[[G0302\|αν]]</big>** |
 | he should utterly destroy | **<big>[[G1842\|εξολοθρεύση]]</big>** |
 | you. | **<big>[[G1473\|σε]]</big>** |
-[[Deut.28.48|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.47|<< Deuteronomy 28:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.49|Deuteronomy 28:49 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.28.47|<< Deuteronomy 28:47]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.28.49|Deuteronomy 28:49 >>]]</td></tr></table>
 
 

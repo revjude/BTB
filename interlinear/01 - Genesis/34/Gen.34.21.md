@@ -1,8 +1,73 @@
+---
+title: Genesis 34:21
+type: Verse
+kjv: "These men are peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, it is large enough for them; let us take their daughters to us for wives, and let us give them our daughters."
+bsb: "“These men are at peace with us. Let them live and trade in our land; indeed, it is large enough for them. Let us take their daughters in marriage and give our daughters to them."
+hebrew: "הָאֲנָשִׁ֨ים הָאֵ֜לֶּה שְֽׁלֵמִ֧ים הֵ֣ם אִתָּ֗נוּ וְיֵשְׁב֤וּ בָאָ֙רֶץ֙ וְיִסְחֲר֣וּ אֹתָ֔הּ וְהָאָ֛רֶץ הִנֵּ֥ה רַֽחֲבַת־ יָדַ֖יִם לִפְנֵיהֶ֑ם אֶת־ בְּנֹתָם֙ נִקַּֽח־ לָ֣נוּ לְנָשִׁ֔ים וְאֶת־ בְּנֹתֵ֖ינוּ נִתֵּ֥ן לָהֶֽם׃"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic VENGEANCE|VENGEANCE]]"
+strongs:
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0428]]"
+- "[[H8003]]"
+- "[[H1992]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H5503]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H2009]]"
+- "[[H7342H]]"
+- "[[H9014]]"
+- "[[H3027K]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H1323G]]"
+- "[[H3947I]]"
+- "[[H0802H]]"
+- "[[H9025]]"
+- "[[H5414O]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:21**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These men [are] peaceable with us; therefore let them dwell in the land, and trade therein; for the land, behold, [it is] large enough for them; let us take their daughters to us for wives, and let us give them our daughters.
 <small><sub>**BSB:**</sub></small>
 “These men are at peace with us. Let them live and trade in our land; indeed, it is large enough for them. Let us take their daughters in marriage and give our daughters to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0582\|אֲנָשִׁ֨ים]] [[H9009\|הָ]][[H0428\|אֵ֜לֶּה]] [[H8003\|שְֽׁלֵמִ֧ים]] [[H1992\|הֵ֣ם]] [[H0854\|אִתָּ֗]][[H9035\|נוּ]] [[H9002\|וְ]][[H3427\|יֵשְׁב֤וּ]] [[H9003\|בָ]][[H0776G\|אָ֙רֶץ֙]] [[H9002\|וְ]][[H5503\|יִסְחֲר֣וּ]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H2009\|הִנֵּ֥ה]] [[H7342H\|רַֽחֲבַת]][[H9014\|־]] [[H3027K\|יָדַ֖יִם]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֑ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתָ]][[H9028\|ם֙]] [[H3947I\|נִקַּֽח]][[H9014\|־]] [[H9005\|לָ֣]][[H9035\|נוּ]] [[H9005\|לְ]][[H0802H\|נָשִׁ֔ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתֵ֖י]][[H9025\|נוּ]] [[H5414O\|נִתֵּ֥ן]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic VENGEANCE|VENGEANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.20|<< Genesis 34:20]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.22|Genesis 34:22 >>]]</td></tr></table>
 

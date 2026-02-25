@@ -1,8 +1,62 @@
+---
+title: Ezekiel 45:2
+type: Verse
+kjv: "Of this there shall be for the sanctuary five hundred in length, with five hundred in breadth, square round about; and fifty cubits round about for the suburbs thereof."
+bsb: "Within this area there is to be a section for the sanctuary 500 cubits square, with 50 cubits around it for open land."
+hebrew: "יִהְיֶ֤ה מִזֶּה֙ אֶל־ הַקֹּ֔דֶשׁ חֲמֵ֥שׁ מֵא֛וֹת בַּחֲמֵ֥שׁ מֵא֖וֹת מְרֻבָּ֣ע סָבִ֑יב וַחֲמִשִּׁ֣ים אַמָּ֔ה מִגְרָ֥שׁ ל֖וֹ סָבִֽיב׃"
+pericope: "[[Ezek.45.1 Consecration of the Land|Consecration of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9003]]"
+- "[[H7251]]"
+- "[[H5439G]]"
+- "[[H9002]]"
+- "[[H2572]]"
+- "[[H0520A]]"
+- "[[H4054]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:2**<big><big>[[Ezek.45.1 Consecration of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of this there shall be for the sanctuary five hundred [in length], with five hundred [in breadth], square round about; and fifty cubits round about for the suburbs thereof.
 <small><sub>**BSB:**</sub></small>
 Within this area there is to be a section for the sanctuary 500 cubits square, with 50 cubits around it for open land.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יִהְיֶ֤ה]] [[H9006\|מִ]][[H2088\|זֶּה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֔דֶשׁ]] [[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵא֛וֹת]] [[H9003\|בַּ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H7251\|מְרֻבָּ֣ע]] [[H5439G\|סָבִ֑יב]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֣ים]] [[H0520A\|אַמָּ֔ה]] [[H4054\|מִגְרָ֥שׁ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.1|<< Ezekiel 45:1]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.3|Ezekiel 45:3 >>]]</td></tr></table>
 

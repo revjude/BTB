@@ -1,10 +1,73 @@
+---
+title: Luke 2:37
+type: Verse
+kjv: "And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day."
+bsb: "and then was a widow to the age of eighty-four. She never left the temple, but worshiped night and day, fasting and praying."
+greek: "καὶ αὐτὴ χήρα ἕως ἐτῶν ὀγδοήκοντα τεσσάρων ἣ οὐκ ἀφίστατο ἀπὸ τοῦ ἱεροῦ νηστείαις καὶ δεήσεσιν λατρεύουσα νύκτα καὶ ἡμέραν·"
+pericope: "[[Luke.2.36 The Prophecy of Anna|The Prophecy of Anna]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANNA|ANNA]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+- "[[topic PROPHETESSES|PROPHETESSES]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WIDOW|WIDOW]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G5503]]"
+- "[[G2193]]"
+- "[[G2094]]"
+- "[[G3589]]"
+- "[[G5064]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G0868]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G3521]]"
+- "[[G1162]]"
+- "[[G3000]]"
+- "[[G3571]]"
+- "[[G2250]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 2:37**<big><big>[[Luke.2.36 The Prophecy of Anna|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And she [was] a widow of about fourscore and four years, which departed not from the temple, but served [God] with fastings and prayers night and day.
 <small><sub>**BSB:**</sub></small>
 and then was a widow to the age of eighty-four. She never left the temple, but worshiped night and day, fasting and praying.
-<small><sub>**Literal:**</sub></small>
-and she [was] a widow until years eighty [and] four who not was departing from the temple with fastings and prayers serving night and day;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.36|<< Luke 2:36]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.38|Luke 2:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτὴ]]  [[G5503\|χήρα]]  [[G2193\|ἕως]]  [[G2094\|ἐτῶν]]  [[G3589\|ὀγδοήκοντα]]  [[G5064\|τεσσάρων]]  [[G3739\|ἣ]]  [[G3756\|οὐκ]]  [[G0868\|ἀφίστατο]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ]]  [[G3521\|νηστείαις]]  [[G2532\|καὶ]]  [[G1162\|δεήσεσιν]]  [[G3000\|λατρεύουσα]]  [[G3571\|νύκτα]]  [[G2532\|καὶ]]  [[G2250\|ἡμέραν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANNA|ANNA]] • [[topic FASTING|FASTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic LONGEVITY|LONGEVITY]] • [[topic OLD AGE|OLD AGE]] • [[topic PRAYER|PRAYER]] • [[topic PRAYERFULNESS|PRAYERFULNESS]] • [[topic PROPHETESSES|PROPHETESSES]] • [[topic RELIGION|RELIGION]] • [[topic TEMPLE|TEMPLE]] • [[topic WIDOW|WIDOW]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.36|<< Luke 2:36]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.38|Luke 2:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

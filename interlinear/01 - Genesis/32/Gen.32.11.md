@@ -1,8 +1,67 @@
+---
+title: Genesis 32:11
+type: Verse
+kjv: "Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, and the mother with the children."
+bsb: "Please deliver me from the hand of my brother Esau, for I am afraid that he may come and attack me and the mothers and children with me."
+hebrew: "הַצִּילֵ֥נִי נָ֛א מִיַּ֥ד אָחִ֖י מִיַּ֣ד עֵשָׂ֑ו כִּֽי־ יָרֵ֤א אָנֹכִי֙ אֹת֔וֹ פֶּן־ יָב֣וֹא וְהִכַּ֔נִי אֵ֖ם עַל־ בָּנִֽים׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H4994]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H6215G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3373]]"
+- "[[H0595]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H6435]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0517]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:11**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me, I pray thee, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, [and] the mother with the children.
 <small><sub>**BSB:**</sub></small>
 Please deliver me from the hand of my brother Esau, for I am afraid that he may come and attack me and the mothers and children with me.
+<small><sub>**Hebrew:**</sub></small>
+[[H5337\|הַצִּילֵ֥]][[H9030\|נִי]] [[H4994\|נָ֛א]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H0251G\|אָחִ֖]][[H9020\|י]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H6215G\|עֵשָׂ֑ו]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3373\|יָרֵ֤א]] [[H0595\|אָנֹכִי֙]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H6435\|פֶּן]][[H9014\|־]] [[H0935G\|יָב֣וֹא]] [[H9001\|וְ]][[H5221\|הִכַּ֔]][[H9030\|נִי]] [[H0517\|אֵ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.10|<< Genesis 32:10]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.12|Genesis 32:12 >>]]</td></tr></table>
 

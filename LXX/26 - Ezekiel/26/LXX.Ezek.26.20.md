@@ -1,6 +1,65 @@
+---
+title: LXX Ezekiel 26:20
+type: Verse
+lxx: "that I will bring you down to the ones having gone down into the pit, to the people of the eon. And I shall settle you into the depths of the earth, as an eternal desolation with ones going down into the pit, so that you should not be inhabited upon the land of life."
+greek: "και καταβιβάσω σε προς τους καταβαίνοντας εις βόθρον προς λαόν αιώνος και κατοικιώ σε εις βάθη της γης ως έρημον αιώνιον μετά καταβαινόντων εις βόθρον όπως μη κατοικηθής επί γης ζωής"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[G2532]]"
+- "[[G2601]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G6679]]"
+- "[[G4314]]"
+- "[[G2992]]"
+- "[[G0165]]"
+- "[[G2532]]"
+- "[[G6052]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G0899]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G5613]]"
+- "[[G2048]]"
+- "[[G0166]]"
+- "[[G3326]]"
+- "[[G2597]]"
+- "[[G1519]]"
+- "[[G6679]]"
+- "[[G3704]]"
+- "[[G3361]]"
+- "[[G2730]]"
+- "[[G1909]]"
+- "[[G1093]]"
+- "[[G2222]]"
+---
+
 **LXX Ezekiel 26:20** 
 <small><sub>**LXX:**</sub></small>
 that I will bring you down to the ones having gone down into \[the\] pit, to \[the\] people of \[the\] eon. And I shall settle you into \[the\] depths of the earth, as an eternal desolation with ones going down into \[the\] pit, so that you should not be inhabited upon \[the\] land of life. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2601\|καταβιβάσω]] [[G1473\|σε]] [[G4314\|προς]] [[G3588\|τους]] [[G2597\|καταβαίνοντας]] [[G1519\|εις]] [[G6679\|βόθρον]] [[G4314\|προς]] [[G2992\|λαόν]] [[G0165\|αιώνος]] [[G2532\|και]] [[G6052\|κατοικιώ]] [[G1473\|σε]] [[G1519\|εις]] [[G0899\|βάθη]] [[G3588\|της]] [[G1093\|γης]] [[G5613\|ως]] [[G2048\|έρημον]] [[G0166\|αιώνιον]] [[G3326\|μετά]] [[G2597\|καταβαινόντων]] [[G1519\|εις]] [[G6679\|βόθρον]] [[G3704\|όπως]] [[G3361\|μη]] [[G2730\|κατοικηθής]] [[G1909\|επί]] [[G1093\|γης]] [[G2222\|ζωής]]
 <small><sub>**MT:**</sub></small>
 [[Ezek.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.19|<< Ezekiel 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.21|Ezekiel 26:21 >>]]</td></tr></table>
 
@@ -36,6 +95,6 @@ that I will bring you down to the ones having gone down into \[the\] pit, to \[t
 | upon | **<big>[[G1909\|επί]]</big>** |
 | \[the\] land | **<big>[[G1093\|γης]]</big>** |
 | of life. | **<big>[[G2222\|ζωής]]</big>** |
-[[Ezek.26.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.19|<< Ezekiel 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.21|Ezekiel 26:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.26.19|<< Ezekiel 26:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.26.21|Ezekiel 26:21 >>]]</td></tr></table>
 
 

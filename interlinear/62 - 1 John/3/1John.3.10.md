@@ -1,10 +1,69 @@
+---
+title: 1 John 3:10
+type: Verse
+kjv: "In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother."
+bsb: "By this the children of God are distinguished from the children of the devil: Anyone who does not practice righteousness is not of God, nor is anyone who does not love his brother."
+greek: "ἐν τούτῳ φανερά ἐστιν τὰ τέκνα τοῦ θεοῦ καὶ τὰ τέκνα τοῦ διαβόλου. πᾶς ὁ μὴ ποιῶν δικαιοσύνην οὐκ ἔστιν ἐκ τοῦ θεοῦ, καὶ ὁ μὴ ἀγαπῶν τὸν ἀδελφὸν αὐτοῦ·"
+pericope: "[[1John.3.1 Children of God|Children of God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G5318]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5043]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1228]]"
+- "[[G3956]]"
+- "[[G3361]]"
+- "[[G4160G]]"
+- "[[G1343]]"
+- "[[G3756]]"
+- "[[G1537]]"
+- "[[G0025]]"
+- "[[G0080]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **1 John 3:10**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In this the children of God are manifest, and the children of the devil: whosoever doeth not righteousness is not of God, neither he that loveth not his brother.
 <small><sub>**BSB:**</sub></small>
 By this the children of God are distinguished from the children of the devil: Anyone who does not practice righteousness is not of God, nor is anyone who does not love his brother.
-<small><sub>**Literal:**</sub></small>
-Through this manifest are the children <the> of God and the children of the devil. Anyone <the> not practicing righteousness not is of <the> God, and also the [one] not loving the brother of him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.9|<< 1 John 3:9]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.11|1 John 3:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G5318\|φανερά]]  [[G1510\|ἐστιν]]  [[G3588\|τὰ]]  [[G5043\|τέκνα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G5043\|τέκνα]]  [[G3588\|τοῦ]]  [[G1228\|διαβόλου.]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G4160G\|ποιῶν]]  [[G1343\|δικαιοσύνην]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G0025\|ἀγαπῶν]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HATRED|HATRED]] • [[topic HOLINESS|HOLINESS]] • [[topic MALICE|MALICE]] • [[topic PERFECTION|PERFECTION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SATAN|SATAN]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.9|<< 1 John 3:9]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.11|1 John 3:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

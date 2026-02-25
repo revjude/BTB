@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Our Advocate
+type: Pericope
 pericope: "[[1John.2.1 Jesus Our Advocate|Jesus Our Advocate]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 2
 book/chapter: "[[1John.2|1 John 2]]"
-genre:
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 6
 verses:
 - "[[1John.2.1]]"
 - "[[1John.2.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1John.2.6]]"
 ---
 
-[[1John.2|1 John 2:1 - 1 John 2:6]]
+<small>[[1John.2|1 John 2:1-6]]</small>
 *Jesus Our Advocate*
 
 [[1John.2.1|1]] My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:

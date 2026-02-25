@@ -1,8 +1,62 @@
+---
+title: Zechariah 4:11
+type: Verse
+kjv: "Then answered I, and said unto him, What are these two olive trees upon the right side of the candlestick and upon the left side thereof?"
+bsb: "Then I asked the angel, “What are the two olive trees on the right and left of the lampstand?”"
+hebrew: "וָאַ֖עַן וָאֹמַ֣ר אֵלָ֑יו מַה־ שְּׁנֵ֤י הַזֵּיתִים֙ הָאֵ֔לֶה עַל־ יְמִ֥ין הַמְּנוֹרָ֖ה וְעַל־ שְׂמֹאולָֽהּ׃"
+pericope: "[[Zech.4.1 The Vision of the Lampstand and Olive Trees|The Vision of the Lampstand and Olive Trees]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 4
+book/chapter: "[[Zech.4|Zechariah 4]]"
+chronological_order: 860
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic OLIVE|OLIVE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H2132H]]"
+- "[[H0428]]"
+- "[[H5921A]]"
+- "[[H3225G]]"
+- "[[H4501]]"
+- "[[H9002]]"
+- "[[H8040G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 4:11**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered I, and said unto him, What [are] these two olive trees upon the right [side] of the candlestick and upon the left [side] thereof?
 <small><sub>**BSB:**</sub></small>
 Then I asked the angel, “What are the two olive trees on the right and left of the lampstand?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6030B\|אַ֖עַן]] [[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H4100\|מַה]][[H9014\|־]] [[H8147\|שְּׁנֵ֤י]] [[H9009\|הַ]][[H2132H\|זֵּיתִים֙]] [[H9009\|הָ]][[H0428\|אֵ֔לֶה]] [[H5921A\|עַל]][[H9014\|־]] [[H3225G\|יְמִ֥ין]] [[H9009\|הַ]][[H4501\|מְּנוֹרָ֖ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H8040G\|שְׂמֹאולָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDLESTICK|CANDLESTICK]] • [[topic OLIVE|OLIVE]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.10|<< Zechariah 4:10]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.12|Zechariah 4:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

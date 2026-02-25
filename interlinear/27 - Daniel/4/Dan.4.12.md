@@ -1,8 +1,73 @@
+---
+title: Daniel 4:12
+type: Verse
+kjv: "The leaves thereof were fair, and the fruit thereof much, and in it was meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it."
+bsb: "Its leaves were beautiful, its fruit was abundant, and upon it was food for all. Under it the beasts of the field found shelter, in its branches the birds of the air nested, and from it every creature was fed."
+aramaic: "עָפְיֵ֤הּ שַׁפִּיר֙ וְאִנְבֵּ֣הּ שַׂגִּ֔יא וּמָז֨וֹן לְכֹ֖לָּא־ בֵ֑הּ תְּחֹת֜וֹהִי תַּטְלֵ֣ל׀ חֵיוַ֣ת בָּרָ֗א וּבְעַנְפ֙וֹהִי֙ יְדוּרָן֙ צִפֲּרֵ֣י שְׁמַיָּ֔א וּמִנֵּ֖הּ יִתְּזִ֥ין כָּל־ בִּשְׂרָֽא׃"
+pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TREE|TREE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6074]]"
+- "[[H9023]]"
+- "[[H8209]]"
+- "[[H9002]]"
+- "[[H0004]]"
+- "[[H7690]]"
+- "[[H4203]]"
+- "[[H9005]]"
+- "[[H3606]]"
+- "[[H9010]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H8460]]"
+- "[[H2927]]"
+- "[[H9015]]"
+- "[[H2423]]"
+- "[[H1251]]"
+- "[[H6056]]"
+- "[[H1753]]"
+- "[[H6853]]"
+- "[[H8065]]"
+- "[[H4481]]"
+- "[[H2110]]"
+- "[[H1321]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 4:12**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The leaves thereof [were] fair, and the fruit thereof much, and in it [was] meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.
 <small><sub>**BSB:**</sub></small>
 Its leaves were beautiful, its fruit was abundant, and upon it was food for all. Under it the beasts of the field found shelter, in its branches the birds of the air nested, and from it every creature was fed.
+<small><sub>**Aramaic:**</sub></small>
+[[H6074\|עָפְיֵ֤]][[H9023\|הּ]] [[H8209\|שַׁפִּיר֙]] [[H9002\|וְ]][[H0004\|אִנְבֵּ֣]][[H9023\|הּ]] [[H7690\|שַׂגִּ֔יא]] [[H9002\|וּ]][[H4203\|מָז֨וֹן]] [[H9005\|לְ]][[H3606\|כֹ֖לָּ]][[H9010\|א]][[H9014\|־]] [[H9003\|בֵ֑]][[H9033\|הּ]] [[H8460\|תְּחֹת֜וֹ]][[H9033\|הִי]] [[H2927\|תַּטְלֵ֣ל]][[H9015\|׀]] [[H2423\|חֵיוַ֣ת]] [[H1251\|בָּרָ֗]][[H9010\|א]] [[H9002\|וּ]][[H9003\|בְ]][[H6056\|עַנְפ֙וֹ]][[H9023\|הִי֙]] [[H1753\|יְדוּרָן֙]] [[H6853\|צִפֲּרֵ֣י]] [[H8065\|שְׁמַיָּ֔]][[H9010\|א]] [[H9002\|וּ]][[H4481\|מִנֵּ֖]][[H9033\|הּ]] [[H2110\|יִתְּזִ֥ין]] [[H3606\|כָּל]][[H9014\|־]] [[H1321\|בִּשְׂרָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CONVERTS|CONVERTS]] • [[topic HEATHEN|HEATHEN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TREE|TREE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.11|<< Daniel 4:11]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.13|Daniel 4:13 >>]]</td></tr></table>
 

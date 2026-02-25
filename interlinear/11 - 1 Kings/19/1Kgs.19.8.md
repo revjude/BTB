@@ -1,8 +1,72 @@
+---
+title: 1 Kings 19:8
+type: Verse
+kjv: "And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God."
+bsb: "So he got up and ate and drank. And strengthened by that food, he walked forty days and forty nights until he reached Horeb, the mountain of God."
+hebrew: "וַיָּ֖קָם וַיֹּ֣אכַל וַיִּשְׁתֶּ֑ה וַיֵּ֜לֶךְ בְּכֹ֣חַ׀ הָאֲכִילָ֣ה הַהִ֗יא אַרְבָּעִ֥ים יוֹם֙ וְאַרְבָּעִ֣ים לַ֔יְלָה עַ֛ד הַ֥ר הָאֱלֹהִ֖ים חֹרֵֽב׃"
+pericope: "[[1Kgs.19.1 Elijah Flees from Jezebel|Elijah Flees from Jezebel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic FORTY|FORTY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOREB|HOREB]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H0396]]"
+- "[[H1931]]"
+- "[[H0705]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H5704]]"
+- "[[H2022G]]"
+- "[[H0430G]]"
+- "[[H2722]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:8**<big><big>[[1Kgs.19.1 Elijah Flees from Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he arose, and did eat and drink, and went in the strength of that meat forty days and forty nights unto Horeb the mount of God.
 <small><sub>**BSB:**</sub></small>
 So he got up and ate and drank. And strengthened by that food, he walked forty days and forty nights until he reached Horeb, the mountain of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֖קָם]] [[H9001\|וַ]][[H0398\|יֹּ֣אכַל]] [[H9001\|וַ]][[H8354\|יִּשְׁתֶּ֑ה]] [[H9001\|וַ]][[H1980G\|יֵּ֜לֶךְ]] [[H9003\|בְּ]][[H3581B\|כֹ֣חַ]][[H9015\|׀]] [[H9009\|הָ]][[H0396\|אֲכִילָ֣ה]] [[H9009\|הַ]][[H1931\|הִ֗יא]] [[H0705\|אַרְבָּעִ֥ים]] [[H3117G\|יוֹם֙]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֣ים]] [[H3915\|לַ֔יְלָה]] [[H5704\|עַ֛ד]] [[H2022G\|הַ֥ר]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H2722\|חֹרֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BLESSING|BLESSING]] • [[topic ELIJAH|ELIJAH]] • [[topic FASTING|FASTING]] • [[topic FORTY|FORTY]] • [[topic GOD|GOD]] • [[topic HOREB|HOREB]] • [[topic LIFE|LIFE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.7|<< 1 Kings 19:7]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.9|1 Kings 19:9 >>]]</td></tr></table>
 

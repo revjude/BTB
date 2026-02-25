@@ -1,8 +1,66 @@
+---
+title: Ezekiel 27:16
+type: Verse
+kjv: "Syria was thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate."
+bsb: "Aram was your customer because of your many products; they exchanged turquoise, purple, embroidered work, fine linen, coral, and rubies for your wares."
+hebrew: "אֲרָ֥ם סֹחַרְתֵּ֖ךְ מֵרֹ֣ב מַעֲשָׂ֑יִךְ בְּ֠נֹפֶךְ אַרְגָּמָ֨ן וְרִקְמָ֤ה וּבוּץ֙ וְרָאמֹ֣ת וְכַדְכֹּ֔ד נָתְנ֖וּ בְּעִזְבוֹנָֽיִךְ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AGATE|AGATE]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic CORAL|CORAL]]"
+- "[[topic EMERALD|EMERALD]]"
+- "[[topic IMPORTS|IMPORTS]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic MARKET|MARKET]]"
+strongs:
+- "[[H0758I]]"
+- "[[H5503]]"
+- "[[H9022]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H4639G]]"
+- "[[H9003]]"
+- "[[H5306]]"
+- "[[H0713]]"
+- "[[H9002]]"
+- "[[H7553]]"
+- "[[H0948]]"
+- "[[H7215]]"
+- "[[H3539]]"
+- "[[H5414G]]"
+- "[[H5801]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:16**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Syria [was] thy merchant by reason of the multitude of the wares of thy making: they occupied in thy fairs with emeralds, purple, and broidered work, and fine linen, and coral, and agate.
 <small><sub>**BSB:**</sub></small>
 Aram was your customer because of your many products; they exchanged turquoise, purple, embroidered work, fine linen, coral, and rubies for your wares.
+<small><sub>**Hebrew:**</sub></small>
+[[H0758I\|אֲרָ֥ם]] [[H5503\|סֹחַרְתֵּ֖]][[H9022\|ךְ]] [[H9006\|מֵ]][[H7230\|רֹ֣ב]] [[H4639G\|מַעֲשָׂ֑יִ]][[H9022\|ךְ]] [[H9003\|בְּ֠]][[H5306\|נֹפֶךְ]] [[H0713\|אַרְגָּמָ֨ן]] [[H9002\|וְ]][[H7553\|רִקְמָ֤ה]] [[H9002\|וּ]][[H0948\|בוּץ֙]] [[H9002\|וְ]][[H7215\|רָאמֹ֣ת]] [[H9002\|וְ]][[H3539\|כַדְכֹּ֔ד]] [[H5414G\|נָתְנ֖וּ]] [[H9003\|בְּ]][[H5801\|עִזְבוֹנָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGATE|AGATE]] • [[topic COMMERCE|COMMERCE]] • [[topic CORAL|CORAL]] • [[topic EMERALD|EMERALD]] • [[topic IMPORTS|IMPORTS]] • [[topic LINEN|LINEN]] • [[topic MARKET|MARKET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.15|<< Ezekiel 27:15]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.17|Ezekiel 27:17 >>]]</td></tr></table>
 

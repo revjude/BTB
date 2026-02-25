@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 22:10
+type: Verse
+kjv: "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever."
+bsb: "He is the one who will build a house for My Name. He will be My son, and I will be his Father. And I will establish the throne of his kingdom over Israel forever.’"
+hebrew: "הֽוּא־ יִבְנֶ֥ה בַ֙יִת֙ לִשְׁמִ֔י וְהוּא֙ יִהְיֶה־ לִּ֣י לְבֵ֔ן וַאֲנִי־ ל֖וֹ לְאָ֑ב וַהֲכִ֨ינוֹתִ֜י כִּסֵּ֧א מַלְכוּת֛וֹ עַל־ יִשְׂרָאֵ֖ל עַד־ עוֹלָֽם׃"
+pericope: "[[1Chr.22.6 Solomon Anointed to Build the Temple|Solomon Anointed to Build the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H1129]]"
+- "[[H1004Q]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H0589]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9001]]"
+- "[[H3559H]]"
+- "[[H3678G]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:10**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall build an house for my name; and he shall be my son, and I [will be] his father; and I will establish the throne of his kingdom over Israel for ever.
 <small><sub>**BSB:**</sub></small>
 He is the one who will build a house for My Name. He will be My son, and I will be his Father. And I will establish the throne of his kingdom over Israel forever.’
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|הֽוּא]][[H9014\|־]] [[H1129\|יִבְנֶ֥ה]] [[H1004Q\|בַ֙יִת֙]] [[H9005\|לִ]][[H8034\|שְׁמִ֔]][[H9020\|י]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H1961\|יִהְיֶה]][[H9014\|־]] [[H9005\|לִּ֣]][[H9030\|י]] [[H9005\|לְ]][[H1121A\|בֵ֔ן]] [[H9002\|וַ]][[H0589\|אֲנִי]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H0001G\|אָ֑ב]] [[H9001\|וַ]][[H3559H\|הֲכִ֨ינוֹתִ֜י]] [[H3678G\|כִּסֵּ֧א]] [[H4438\|מַלְכוּת֛]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CHILDREN|CHILDREN]] • [[topic DAVID|DAVID]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.9|<< 1 Chronicles 22:9]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.11|1 Chronicles 22:11 >>]]</td></tr></table>
 

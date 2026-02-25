@@ -1,8 +1,77 @@
+---
+title: Ezekiel 28:2
+type: Verse
+kjv: "Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine heart is lifted up, and thou hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet thou art a man, and not God, though thou set thine heart as the heart of God:"
+bsb: "“Son of man, tell the ruler of Tyre that this is what the Lord GOD says: Your heart is proud, and you have said, ‘I am a god; I sit in the seat of gods in the heart of the sea.’ Yet you are a man and not a god, though you have regarded your heart as that of a god."
+hebrew: "בֶּן־ אָדָ֡ם אֱמֹר֩ לִנְגִ֨יד צֹ֜ר כֹּֽה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה יַ֣עַן גָּבַ֤הּ לִבְּךָ֙ וַתֹּ֙אמֶר֙ אֵ֣ל אָ֔נִי מוֹשַׁ֧ב אֱלֹהִ֛ים יָשַׁ֖בְתִּי בְּלֵ֣ב יַמִּ֑ים וְאַתָּ֤ה אָדָם֙ וְֽלֹא־ אֵ֔ל וַתִּתֵּ֥ן לִבְּךָ֖ כְּלֵ֥ב אֱלֹהִֽים׃"
+pericope: "[[Ezek.28.1 A Prophecy against the Ruler of Tyre|A Prophecy against the Ruler of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5057]]"
+- "[[H6865]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H1361]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H0410K]]"
+- "[[H0589]]"
+- "[[H4186]]"
+- "[[H0430]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3808]]"
+- "[[H5414I]]"
+- "[[H9004]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:2**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because thine heart [is] lifted up, and thou hast said, I [am] a God, I sit [in] the seat of God, in the midst of the seas; yet thou [art] a man, and not God, though thou set thine heart as the heart of God:
 <small><sub>**BSB:**</sub></small>
 “Son of man, tell the ruler of Tyre that this is what the Lord GOD says: Your heart is proud, and you have said, ‘I am a god; I sit in the seat of gods in the heart of the sea.’ Yet you are a man and not a god, though you have regarded your heart as that of a god.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֡ם]] [[H0559\|אֱמֹר֩]] [[H9005\|לִ]][[H5057\|נְגִ֨יד]] [[H6865\|צֹ֜ר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֗ה]] [[H3282\|יַ֣עַן]] [[H1361\|גָּבַ֤הּ]] [[H3820A\|לִבְּ]][[H9021\|ךָ֙]] [[H9001\|וַ]][[H0559\|תֹּ֙אמֶר֙]] [[H0410K\|אֵ֣ל]] [[H0589\|אָ֔נִי]] [[H4186\|מוֹשַׁ֧ב]] [[H0430\|אֱלֹהִ֛ים]] [[H3427\|יָשַׁ֖בְתִּי]] [[H9003\|בְּ]][[H3820A\|לֵ֣ב]] [[H3220G\|יַמִּ֑ים]] [[H9002\|וְ]][[H0859A\|אַתָּ֤ה]] [[H0120G\|אָדָם֙]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H0410K\|אֵ֔ל]] [[H9001\|וַ]][[H5414I\|תִּתֵּ֥ן]] [[H3820A\|לִבְּ]][[H9021\|ךָ֖]] [[H9004\|כְּ]][[H3820A\|לֵ֥ב]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic PRIDE|PRIDE]] • [[topic RULERS|RULERS]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.1|<< Ezekiel 28:1]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.3|Ezekiel 28:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

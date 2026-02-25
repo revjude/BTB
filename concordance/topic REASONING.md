@@ -1,7 +1,7 @@
 
 **REASONING**
 
-→ With God [[Job.13.3|Job 13:3]],[[Job.13.17|17]]-[[Job.13.28|28]]
+→ With God [[Job.13.3|Job 13:3]],[[Job.13.17|17-28]]
 
 → God reasons with men [[Exod.4.11|Ex 4:11]]; [[Exod.20.5|20:5]],[[Exod.20.11|11]]; [[Isa.1.18|Isa 1:18]]; [[Isa.5.3|5:3]],[[Isa.5.4|4]];  [[Isa.43.26|43:26]]; [[Hos.4.1|Ho 4:1]]; [[Mic.6.2|Mic 6:2]]
 
@@ -15,7 +15,7 @@
 
 → Of Paul from the Scriptures  [[Acts.17.2|Ac 17:2]]; [[Acts.18.4|18:4]],[[Acts.18.19|19]]; [[Acts.24.25|24:25]]
 
-→ The gospel cannot be explained by [[1Cor.1.18|1Co 1:18]]-[[1Cor.1.28|28]]; [[1Cor.2.1|2:1]]-[[1Cor.2.14|14]]
+→ The gospel cannot be explained by [[1Cor.1.18|1Co 1:18-28]]; [[1Cor.2.1|2:1-14]]
 
 → See [[topic INVESTIGATION|INVESTIGATION]]
 

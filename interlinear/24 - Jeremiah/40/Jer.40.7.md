@@ -1,8 +1,79 @@
+---
+title: Jeremiah 40:7
+type: Verse
+kjv: "Now when all the captains of the forces which were in the fields, even they and their men, heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land, and had committed unto him men, and women, and children, and of the poor of the land, of them that were not carried away captive to Babylon;"
+bsb: "When all the commanders and men of the armies in the field heard that the king of Babylon had appointed Gedaliah son of Ahikam over the land and that he had put him in charge of the men, women, and children who were the poorest of the land and had not been exiled to Babylon,"
+hebrew: "וַיִּשְׁמְעוּ֩ כָל־ שָׂרֵ֨י הַחֲיָלִ֜ים אֲשֶׁ֣ר בַּשָּׂדֶ֗ה הֵ֚מָּה וְאַנְשֵׁיהֶ֔ם כִּֽי־ הִפְקִ֧יד מֶֽלֶךְ־ בָּבֶ֛ל אֶת־ גְּדַלְיָ֥הוּ בֶן־ אֲחִיקָ֖ם בָּאָ֑רֶץ וְכִ֣י׀ הִפְקִ֣יד אִתּ֗וֹ אֲנָשִׁ֤ים וְנָשִׁים֙ וָטָ֔ף וּמִדַּלַּ֣ת הָאָ֔רֶץ מֵאֲשֶׁ֥ר לֹֽא־ הָגְל֖וּ בָּבֶֽלָה׃"
+pericope: "[[Jer.40.7 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 40
+book/chapter: "[[Jer.40|Jeremiah 40]]"
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2428A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H6485J]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H0853]]"
+- "[[H1436B]]"
+- "[[H1121A]]"
+- "[[H0296]]"
+- "[[H0776G]]"
+- "[[H9015]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H0802G]]"
+- "[[H2945]]"
+- "[[H9006]]"
+- "[[H1803B]]"
+- "[[H0834C]]"
+- "[[H3808]]"
+- "[[H1540K]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 40:7**<big><big>[[Jer.40.7 Gedaliah Governs in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when all the captains of the forces which [were] in the fields, [even] they and their men, heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land, and had committed unto him men, and women, and children, and of the poor of the land, of them that were not carried away captive to Babylon;
 <small><sub>**BSB:**</sub></small>
 When all the commanders and men of the armies in the field heard that the king of Babylon had appointed Gedaliah son of Ahikam over the land and that he had put him in charge of the men, women, and children who were the poorest of the land and had not been exiled to Babylon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמְעוּ֩]] [[H3605\|כָל]][[H9014\|־]] [[H8269\|שָׂרֵ֨י]] [[H9009\|הַ]][[H2428A\|חֲיָלִ֜ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֗ה]] [[H1992\|הֵ֚מָּה]] [[H9002\|וְ]][[H0582\|אַנְשֵׁי]][[H9028\|הֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6485J\|הִפְקִ֧יד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0296\|אֲחִיקָ֖ם]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H3588A\|כִ֣י]][[H9015\|׀]] [[H6485J\|הִפְקִ֣יד]] [[H0854\|אִתּ֗]][[H9033\|וֹ]] [[H0582\|אֲנָשִׁ֤ים]] [[H9002\|וְ]][[H0802G\|נָשִׁים֙]] [[H9002\|וָ]][[H2945\|טָ֔ף]] [[H9002\|וּ]][[H9006\|מִ]][[H1803B\|דַּלַּ֣ת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9006\|מֵ]][[H0834C\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1540K\|הָגְל֖וּ]] [[H0894\|בָּבֶֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.6|<< Jeremiah 40:6]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.8|Jeremiah 40:8 >>]]</td></tr></table>
 

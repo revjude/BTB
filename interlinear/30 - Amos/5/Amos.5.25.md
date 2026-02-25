@@ -1,8 +1,57 @@
+---
+title: Amos 5:25
+type: Verse
+kjv: "Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?"
+bsb: "Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?"
+hebrew: "הַזְּבָחִ֨ים וּמִנְחָ֜ה הִֽגַּשְׁתֶּם־ לִ֧י בַמִּדְבָּ֛ר אַרְבָּעִ֥ים שָׁנָ֖ה בֵּ֥ית יִשְׂרָאֵֽל׃"
+pericope: "[[Amos.5.16 Woe to Rebellious Israel|Woe to Rebellious Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9008]]"
+- "[[H2077]]"
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H5066H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:25**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?
 <small><sub>**BSB:**</sub></small>
 Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H2077\|זְּבָחִ֨ים]] [[H9002\|וּ]][[H4503G\|מִנְחָ֜ה]] [[H5066H\|הִֽגַּשְׁתֶּם]][[H9014\|־]] [[H9005\|לִ֧]][[H9030\|י]] [[H9003\|בַ]][[H4057B\|מִּדְבָּ֛ר]] [[H0705\|אַרְבָּעִ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.24|<< Amos 5:24]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.26|Amos 5:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

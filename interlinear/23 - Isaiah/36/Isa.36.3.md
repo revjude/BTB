@@ -1,8 +1,65 @@
+---
+title: Isaiah 36:3
+type: Verse
+kjv: "Then came forth unto him Eliakim, Hilkiah’s son, which was over the house, and Shebna the scribe, and Joah, Asaph’s son, the recorder."
+bsb: "Then Eliakim son of Hilkiah the palace administrator, Shebna the scribe, and Joah son of Asaph the recorder, went out to him."
+hebrew: "וַיֵּצֵ֥א אֵלָ֛יו אֶלְיָקִ֥ים בֶּן־ חִלְקִיָּ֖הוּ אֲשֶׁ֣ר עַל־ הַבָּ֑יִת וְשֶׁבְנָא֙ הַסֹּפֵ֔ר וְיוֹאָ֥ח בֶּן־ אָסָ֖ף הַמַּזְכִּֽיר׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic CABINET|CABINET]]"
+- "[[topic ELIAKIM|ELIAKIM]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic JOAH|JOAH]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0471G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2518G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H1004Q]]"
+- "[[H9002]]"
+- "[[H7644]]"
+- "[[H5608B]]"
+- "[[H3098G]]"
+- "[[H0623G]]"
+- "[[H2142]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:3**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came forth unto him Eliakim, Hilkiah’s son, which was over the house, and Shebna the scribe, and Joah, Asaph’s son, the recorder.
 <small><sub>**BSB:**</sub></small>
 Then Eliakim son of Hilkiah the palace administrator, Shebna the scribe, and Joah son of Asaph the recorder, went out to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H0413\|אֵלָ֛י]][[H9033\|ו]] [[H0471G\|אֶלְיָקִ֥ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2518G\|חִלְקִיָּ֖הוּ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1004Q\|בָּ֑יִת]] [[H9002\|וְ]][[H7644\|שֶׁבְנָא֙]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֔ר]] [[H9002\|וְ]][[H3098G\|יוֹאָ֥ח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0623G\|אָסָ֖ף]] [[H9009\|הַ]][[H2142\|מַּזְכִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic CABINET|CABINET]] • [[topic ELIAKIM|ELIAKIM]] • [[topic HILKIAH|HILKIAH]] • [[topic JOAH|JOAH]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.2|<< Isaiah 36:2]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.4|Isaiah 36:4 >>]]</td></tr></table>
 

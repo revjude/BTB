@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah’s Message to Seraiah
+type: Pericope
 pericope: "[[Jer.51.59 Jeremiah’s Message to Seraiah|Jeremiah’s Message to Seraiah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 51
 book/chapter: "[[Jer.51|Jeremiah 51]]"
-genre:
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.51.59]]"
 - "[[Jer.51.60]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.51.64]]"
 ---
 
-[[Jer.51|Jeremiah 51:59 - Jeremiah 51:64]]
+<small>[[Jer.51|Jeremiah 51:59-64]]</small>
 *Jeremiah’s Message to Seraiah*
 
 [[Jer.51.59|59]] The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Maaseiah, when he went with Zedekiah the king of Judah into Babylon in the fourth year of his reign. And \[this\] Seraiah \[was\] a quiet prince.

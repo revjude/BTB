@@ -1,8 +1,68 @@
+---
+title: Judges 18:28
+type: Verse
+kjv: "And there was no deliverer, because it was far from Zidon, and they had no business with any man; and it was in the valley that lieth by Bethrehob. And they built a city, and dwelt therein."
+bsb: "There was no one to deliver them, because the city was far from Sidon and had no alliance with anyone; it was in a valley near Beth-rehob. And the Danites rebuilt the city and lived there."
+hebrew: "וְאֵ֨ין מַצִּ֜יל כִּ֧י רְֽחוֹקָה־ הִ֣יא מִצִּיד֗וֹן וְדָבָ֤ר אֵין־ לָהֶם֙ עִם־ אָדָ֔ם וְהִ֕יא בָּעֵ֖מֶק אֲשֶׁ֣ר לְבֵית־ רְח֑וֹב וַיִּבְנ֥וּ אֶת־ הָעִ֖יר וַיֵּ֥שְׁבוּ בָֽהּ׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETH-REHOB|BETH-REHOB]]"
+- "[[topic DAN|DAN]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5337]]"
+- "[[H3588A]]"
+- "[[H7350]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H6721H]]"
+- "[[H1697I]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5973A]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H6010R]]"
+- "[[H0834A]]"
+- "[[H1050]]"
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3427]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:28**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] no deliverer, because it [was] far from Zidon, and they had no business with [any] man; and it was in the valley that [lieth] by Bethrehob. And they built a city, and dwelt therein.
 <small><sub>**BSB:**</sub></small>
 There was no one to deliver them, because the city was far from Sidon and had no alliance with anyone; it was in a valley near Beth-rehob. And the Danites rebuilt the city and lived there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0369\|אֵ֨ין]] [[H5337\|מַצִּ֜יל]] [[H3588A\|כִּ֧י]] [[H7350\|רְֽחוֹקָה]][[H9014\|־]] [[H1931\|הִ֣יא]] [[H9006\|מִ]][[H6721H\|צִּיד֗וֹן]] [[H9002\|וְ]][[H1697I\|דָבָ֤ר]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0120G\|אָדָ֔ם]] [[H9002\|וְ]][[H1931\|הִ֕יא]] [[H9003\|בָּ]][[H6010R\|עֵ֖מֶק]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H1050\|בֵית]][[H9014\|־]] [[H1050\|רְח֑וֹב]] [[H9001\|וַ]][[H1129\|יִּבְנ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9001\|וַ]][[H3427\|יֵּ֥שְׁבוּ]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-REHOB|BETH-REHOB]] • [[topic DAN|DAN]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.27|<< Judges 18:27]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.29|Judges 18:29 >>]]</td></tr></table>
 

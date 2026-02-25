@@ -1,6 +1,62 @@
+---
+title: LXX Ezekiel 12:10
+type: Verse
+lxx: "Say to them, Thus says Adonai the lord; To the ruler and one guiding in Jerusalem, even to all the house of Israel, the ones who are in the midst of them."
+greek: "είπον προς αυτούς τάδε λέγει Αδωναϊ κύριος τω άρχοντι και αφηγουμένω εν Ιερουσαλήμ και παντί οίκω Ισραήλ οι εισίν εν μέσω αυτών"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G2532]]"
+- "[[G6622]]"
+- "[[G1722]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3624]]"
+- "[[G2474]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 12:10** 
 <small><sub>**LXX:**</sub></small>
 Say to them, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; To the ruler and one guiding in Jerusalem, even to all \[the\] house of Israel, the ones who are in \[the\] midst of them. 
+<small><sub>**Greek:**</sub></small>
+[[G2036\|είπον]] [[G4314\|προς]] [[G1473\|αυτούς]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G3588\|τω]] [[G0758\|άρχοντι]] [[G2532\|και]] [[G6622\|αφηγουμένω]] [[G1722\|εν]] [[G2419\|Ιερουσαλήμ]] [[G2532\|και]] [[G3956\|παντί]] [[G3624\|οίκω]] [[G2474\|Ισραήλ]] [[G3739\|οι]] [[G1510\|εισίν]] [[G1722\|εν]] [[G3319\|μέσω]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.9|<< Ezekiel 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.11|Ezekiel 12:11 >>]]</td></tr></table>
 
@@ -28,6 +84,6 @@ Say to them, Thus says Adonai \[the\] <span class="smallcaps">lord</span>; To th
 | in | **<big>[[G1722\|εν]]</big>** |
 | \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
 | of them. | **<big>[[G1473\|αυτών]]</big>** |
-[[Ezek.12.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.9|<< Ezekiel 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.11|Ezekiel 12:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.12.9|<< Ezekiel 12:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.12.11|Ezekiel 12:11 >>]]</td></tr></table>
 
 

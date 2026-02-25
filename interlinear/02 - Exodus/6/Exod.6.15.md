@@ -1,8 +1,67 @@
+---
+title: Exodus 6:15
+type: Verse
+kjv: "And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these are the families of Simeon."
+bsb: "The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman. These were the clans of Simeon."
+hebrew: "וּבְנֵ֣י שִׁמְע֗וֹן יְמוּאֵ֨ל וְיָמִ֤ין וְאֹ֙הַד֙ וְיָכִ֣ין וְצֹ֔חַר וְשָׁא֖וּל בֶּן־ הַֽכְּנַעֲנִ֑ית אֵ֖לֶּה מִשְׁפְּחֹ֥ת שִׁמְעֽוֹן׃"
+pericope: "[[Exod.6.14 Genealogies of Moses and Aaron|Genealogies of Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JACHIN|JACHIN]]"
+- "[[topic JAMIN|JAMIN]]"
+- "[[topic JEMUEL|JEMUEL]]"
+- "[[topic OHAD|OHAD]]"
+- "[[topic SHAUL|SHAUL]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic ZOHAR|ZOHAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H8095G]]"
+- "[[H3223]]"
+- "[[H3226G]]"
+- "[[H0161]]"
+- "[[H3199G]]"
+- "[[H6714H]]"
+- "[[H7586H]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3669G]]"
+- "[[H0428]]"
+- "[[H4940]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:15**<big><big>[[Exod.6.14 Genealogies of Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these [are] the families of Simeon.
 <small><sub>**BSB:**</sub></small>
 The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman. These were the clans of Simeon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H8095G\|שִׁמְע֗וֹן]] [[H3223\|יְמוּאֵ֨ל]] [[H9002\|וְ]][[H3226G\|יָמִ֤ין]] [[H9002\|וְ]][[H0161\|אֹ֙הַד֙]] [[H9002\|וְ]][[H3199G\|יָכִ֣ין]] [[H9002\|וְ]][[H6714H\|צֹ֔חַר]] [[H9002\|וְ]][[H7586H\|שָׁא֖וּל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַֽ]][[H3669G\|כְּנַעֲנִ֑ית]] [[H0428\|אֵ֖לֶּה]] [[H4940\|מִשְׁפְּחֹ֥ת]] [[H8095G\|שִׁמְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic JACHIN|JACHIN]] • [[topic JAMIN|JAMIN]] • [[topic JEMUEL|JEMUEL]] • [[topic OHAD|OHAD]] • [[topic SHAUL|SHAUL]] • [[topic SIMEON|SIMEON]] • [[topic ZOHAR|ZOHAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.14|<< Exodus 6:14]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.16|Exodus 6:16 >>]]</td></tr></table>
 

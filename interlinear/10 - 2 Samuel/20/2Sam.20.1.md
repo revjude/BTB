@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 20:1
+type: Verse
+kjv: "And there happened to be there a man of Belial, whose name was Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel."
+bsb: "Now a worthless man named Sheba son of Bichri, a Benjamite, happened to be there, and he blew the ram’s horn and shouted: “We have no share in David, no inheritance in Jesse’s son. Every man to his tent, O Israel!”"
+hebrew: "וְשָׁ֨ם נִקְרָ֜א אִ֣ישׁ בְּלִיַּ֗עַל וּשְׁמ֛וֹ שֶׁ֥בַע בֶּן־ בִּכְרִ֖י אִ֣ישׁ יְמִינִ֑י וַיִּתְקַ֣ע בַּשֹּׁפָ֗ר וַ֠יֹּאמֶר אֵֽין־ לָ֨נוּ חֵ֜לֶק בְּדָוִ֗ד וְלֹ֤א נַֽחֲלָה־ לָ֙נוּ֙ בְּבֶן־ יִשַׁ֔י אִ֥ישׁ לְאֹהָלָ֖יו יִשְׂרָאֵֽל׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic TENT|TENT]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H7122I]]"
+- "[[H0376G]]"
+- "[[H1100G]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H7652A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1075]]"
+- "[[H3228G]]"
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H7782]]"
+- "[[H0559]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H2506A]]"
+- "[[H1732]]"
+- "[[H3808]]"
+- "[[H5159]]"
+- "[[H3448]]"
+- "[[H0376I]]"
+- "[[H0168G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:1**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there happened to be there a man of Belial, whose name [was] Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel.
 <small><sub>**BSB:**</sub></small>
 Now a worthless man named Sheba son of Bichri, a Benjamite, happened to be there, and he blew the ram’s horn and shouted: “We have no share in David, no inheritance in Jesse’s son. Every man to his tent, O Israel!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8033G\|שָׁ֨ם]] [[H7122I\|נִקְרָ֜א]] [[H0376G\|אִ֣ישׁ]] [[H1100G\|בְּלִיַּ֗עַל]] [[H9002\|וּ]][[H8034\|שְׁמ֛]][[H9023\|וֹ]] [[H7652A\|שֶׁ֥בַע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1075\|בִּכְרִ֖י]] [[H0376G\|אִ֣ישׁ]] [[H3228G\|יְמִינִ֑י]] [[H9001\|וַ]][[H8628\|יִּתְקַ֣ע]] [[H9003\|בַּ]][[H7782\|שֹּׁפָ֗ר]] [[H9001\|וַ֠]][[H0559\|יֹּאמֶר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|לָ֨]][[H9035\|נוּ]] [[H2506A\|חֵ֜לֶק]] [[H9003\|בְּ]][[H1732\|דָוִ֗ד]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H5159\|נַֽחֲלָה]][[H9014\|־]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H9003\|בְּ]][[H1121A\|בֶן]][[H9014\|־]] [[H3448\|יִשַׁ֔י]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H0168G\|אֹהָלָ֖י]][[H9023\|ו]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic ARMIES|ARMIES]] • [[topic CITIZENS|CITIZENS]] • [[topic DAVID|DAVID]] • [[topic JUDAH|JUDAH]] • [[topic TENT|TENT]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.43|<< 2 Samuel 19:43]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.2|2 Samuel 20:2 >>]]</td></tr></table>
 

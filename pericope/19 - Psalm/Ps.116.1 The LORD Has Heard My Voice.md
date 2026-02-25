@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Has Heard My Voice
+type: Pericope
 pericope: "[[Ps.116.1 The LORD Has Heard My Voice|The LORD Has Heard My Voice]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 116
 book/chapter: "[[Ps.116|Psalm 116]]"
-genre:
+chronological_order: 878
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 19
 verses:
 - "[[Ps.116.1]]"
 - "[[Ps.116.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Ps.116.19]]"
 ---
 
-[[Ps.116|Psalm 116:1 - Psalm 116:19]]
+<small>[[Ps.116|Psalm 116:1-19]]</small>
 *The LORD Has Heard My Voice*
 
 [[Ps.116.1|1]] I love the LORD, because he hath heard my voice \[and\] my supplications.

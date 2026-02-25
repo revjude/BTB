@@ -1,8 +1,73 @@
+---
+title: Numbers 27:22
+type: Verse
+kjv: "And Moses did as the LORD commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation:"
+bsb: "Moses did as the LORD had commanded him. He took Joshua, had him stand before Eleazar the priest and the whole congregation,"
+hebrew: "וַיַּ֣עַשׂ מֹשֶׁ֔ה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֹת֑וֹ וַיִּקַּ֣ח אֶת־ יְהוֹשֻׁ֗עַ וַיַּֽעֲמִדֵ֙הוּ֙ לִפְנֵי֙ אֶלְעָזָ֣ר הַכֹּהֵ֔ן וְלִפְנֵ֖י כָּל־ הָעֵדָֽה׃"
+pericope: "[[Num.27.18 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 27
+book/chapter: "[[Num.27|Numbers 27]]"
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HAND|HAND]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4872]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 27:22**<big><big>[[Num.27.18 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses did as the LORD commanded him: and he took Joshua, and set him before Eleazar the priest, and before all the congregation:
 <small><sub>**BSB:**</sub></small>
 Moses did as the LORD had commanded him. He took Joshua, had him stand before Eleazar the priest and the whole congregation,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H4872\|מֹשֶׁ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֗עַ]] [[H9001\|וַ]][[H5975G\|יַּֽעֲמִדֵ֙]][[H9033\|הוּ֙]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H0499G\|אֶלְעָזָ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5712\|עֵדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HAND|HAND]] • [[topic ISRAEL|ISRAEL]] • [[topic JOSHUA|JOSHUA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOSES|MOSES]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.27.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.27.21|<< Numbers 27:21]]</td><td align="center" style="border:none;">[[Num.27|Numbers 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.27.23|Numbers 27:23 >>]]</td></tr></table>
 

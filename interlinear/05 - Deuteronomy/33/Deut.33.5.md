@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 33:5
+type: Verse
+kjv: "And he was king in Jeshurun, when the heads of the people and the tribes of Israel were gathered together."
+bsb: "So the LORD became King in Jeshurun when the leaders of the people gathered, when the tribes of Israel came together."
+hebrew: "וַיְהִ֥י בִישֻׁר֖וּן מֶ֑לֶךְ בְּהִתְאַסֵּף֙ רָ֣אשֵׁי עָ֔ם יַ֖חַד שִׁבְטֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESHURUN|JESHURUN]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3484]]"
+- "[[H4428G]]"
+- "[[H0622]]"
+- "[[H7218H]]"
+- "[[H5971A]]"
+- "[[H3162A]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:5**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he was king in Jeshurun, when the heads of the people [and] the tribes of Israel were gathered together.
 <small><sub>**BSB:**</sub></small>
 So the LORD became King in Jeshurun when the leaders of the people gathered, when the tribes of Israel came together.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H9003\|בִ]][[H3484\|ישֻׁר֖וּן]] [[H4428G\|מֶ֑לֶךְ]] [[H9003\|בְּ]][[H0622\|הִתְאַסֵּף֙]] [[H7218H\|רָ֣אשֵׁי]] [[H5971A\|עָ֔ם]] [[H3162A\|יַ֖חַד]] [[H7626H\|שִׁבְטֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESHURUN|JESHURUN]] • [[topic THEOCRACY|THEOCRACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.4|<< Deuteronomy 33:4]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.6|Deuteronomy 33:6 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: 2 Corinthians 6:9
+type: Verse
+kjv: "As unknown, and yet well known; as dying, and, behold, we live; as chastened, and not killed;"
+bsb: "unknown, yet well-known; dying, and yet we live on; punished, yet not killed;"
+greek: "ὡς ἀγνοούμενοι καὶ ἐπιγινωσκόμενοι, ὡς ἀποθνῄσκοντες καὶ ἰδοὺ ζῶμεν, ὡς παιδευόμενοι καὶ μὴ θανατούμενοι,"
+pericope: "[[2Cor.6.1 Paul’s Hardships and God’s Grace|Paul’s Hardships and God’s Grace]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 6
+book/chapter: "[[2Cor.6|2 Corinthians 6]]"
+chronological_order: 1079
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARADOX|PARADOX]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5613]]"
+- "[[G0050]]"
+- "[[G2532]]"
+- "[[G1921]]"
+- "[[G0599]]"
+- "[[G2400]]"
+- "[[G2198]]"
+- "[[G3811]]"
+- "[[G3361]]"
+- "[[G2289]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 6:9**<big><big>[[2Cor.6.1 Paul’s Hardships and God’s Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As unknown, and [yet] well known; as dying, and, behold, we live; as chastened, and not killed;
 <small><sub>**BSB:**</sub></small>
 unknown, yet well-known; dying, and yet we live on; punished, yet not killed;
-<small><sub>**Literal:**</sub></small>
-as being unknown and yet being well-known, as dying and yet behold we live, as being disciplined and yet not being killed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.8|<< 2 Corinthians 6:8]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.10|2 Corinthians 6:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G0050\|ἀγνοούμενοι]]  [[G2532\|καὶ]]  [[G1921\|ἐπιγινωσκόμενοι,]]  [[G5613\|ὡς]]  [[G0599\|ἀποθνῄσκοντες]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G2198\|ζῶμεν,]]  [[G5613\|ὡς]]  [[G3811\|παιδευόμενοι]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2289\|θανατούμενοι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARADOX|PARADOX]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RESIGNATION|RESIGNATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.8|<< 2 Corinthians 6:8]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.10|2 Corinthians 6:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

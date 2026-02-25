@@ -1,10 +1,61 @@
+---
+title: Philippians 3:18
+type: Verse
+kjv: "(For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:"
+bsb: "For as I have often told you before, and now say again even with tears: Many live as enemies of the cross of Christ."
+greek: "πολλοὶ γὰρ περιπατοῦσιν οὓς πολλάκις ἔλεγον ὑμῖν, νῦν δὲ καὶ κλαίων λέγω, τοὺς ἐχθροὺς τοῦ σταυροῦ τοῦ Χριστοῦ,"
+pericope: "[[Phil.3.17 Citizenship in Heaven|Citizenship in Heaven]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic WEEPING|WEEPING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G4183]]"
+- "[[G1063]]"
+- "[[G4043]]"
+- "[[G3739]]"
+- "[[G4178]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2799]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G4716]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Philippians 3:18**<big><big>[[Phil.3.17 Citizenship in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For many walk, of whom I have told you often, and now tell you even weeping, [that they are] the enemies of the cross of Christ:
 <small><sub>**BSB:**</sub></small>
 For as I have often told you before, and now say again even with tears: Many live as enemies of the cross of Christ.
-<small><sub>**Literal:**</sub></small>
-Many for are walking — [of] whom often I was telling you, now indeed even weeping I say — [as] the  enemies of the cross <the> of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.17|<< Philippians 3:17]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.19|Philippians 3:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|πολλοὶ]]  [[G1063\|γὰρ]]  [[G4043\|περιπατοῦσιν]]  [[G3739\|οὓς]]  [[G4178\|πολλάκις]]  [[G3004G\|ἔλεγον]]  [[G4771\|ὑμῖν,]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2799\|κλαίων]]  [[G3004G\|λέγω,]]  [[G3588\|τοὺς]]  [[G2190\|ἐχθροὺς]]  [[G3588\|τοῦ]]  [[G4716\|σταυροῦ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CROSS|CROSS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LOVE|LOVE]] • [[topic WEEPING|WEEPING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.17|<< Philippians 3:17]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.3.19|Philippians 3:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

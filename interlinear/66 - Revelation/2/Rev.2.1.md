@@ -1,10 +1,65 @@
+---
+title: Revelation 2:1
+type: Verse
+kjv: "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;"
+bsb: "“To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands."
+jesus_said: "Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;"
+greek: "Τῷ ἀγγέλῳ τῆς ἐν Ἐφέσῳ ἐκκλησίας γράψον· τάδε λέγει ὁ κρατῶν τοὺς ἑπτὰ ἀστέρας ἐν τῇ δεξιᾷ αὐτοῦ, ὁ περιπατῶν ἐν μέσῳ τῶν ἑπτὰ λυχνιῶν τῶν χρυσῶν·"
+pericope: "[[Rev.2.1 To the Church in Ephesus|To the Church in Ephesus]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3588]]"
+- "[[G0032H]]"
+- "[[G1722]]"
+- "[[G2181]]"
+- "[[G1577]]"
+- "[[G1125]]"
+- "[[G3592]]"
+- "[[G3004G]]"
+- "[[G2902]]"
+- "[[G2033]]"
+- "[[G0792]]"
+- "[[G1188]]"
+- "[[G0846]]"
+- "[[G4043]]"
+- "[[G3319]]"
+- "[[G3087]]"
+- "[[G5552]]"
+texts:
+- NKO
+- NK(o)
+- no
+- N(k)O
+---
+
 **Revelation 2:1**<big><big>[[Rev.2.1 To the Church in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Unto the angel of the church of Ephesus write; These things saith he that holdeth the seven stars in his right hand, who walketh in the midst of the seven golden candlesticks;
 <small><sub>**BSB:**</sub></small>
 “To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands.
-<small><sub>**Literal:**</sub></small>
-To the angel of the in Ephesus church do write: These things says the [One] holding the seven stars in the right hand of Him, who is walking in [the] midst of the seven lampstands <the> golden;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.20|<< Revelation 1:20]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.2|Revelation 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τῷ]]  [[G0032H\|ἀγγέλῳ]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G2181\|Ἐφέσῳ]]  [[G1577\|ἐκκλησίας]]  [[G1125\|γράψον·]]  [[G3592\|τάδε]]  [[G3004G\|λέγει]]  [[G3588\|ὁ]]  [[G2902\|κρατῶν]]  [[G3588\|τοὺς]]  [[G2033\|ἑπτὰ]]  [[G0792\|ἀστέρας]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1188\|δεξιᾷ]]  [[G0846\|αὐτοῦ,]]  [[G3588\|ὁ]]  [[G4043\|περιπατῶν]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G3588\|τῶν]]  [[G2033\|ἑπτὰ]]  [[G3087\|λυχνιῶν]]  [[G3588\|τῶν]]  [[G5552\|χρυσῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]] • [[topic CHURCH|CHURCH]] • [[topic EPHESUS|EPHESUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.20|<< Revelation 1:20]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.2|Revelation 2:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 2:1** is...
 > $\quad$ possibly alluding to: [[LXX.Deut.23.14|Deut 23:14]]

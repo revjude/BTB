@@ -1,8 +1,72 @@
+---
+title: Exodus 17:14
+type: Verse
+kjv: "And the LORD said unto Moses, Write this for a memorial in a book, and rehearse it in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven."
+bsb: "Then the LORD said to Moses, “Write this on a scroll as a reminder and recite it to Joshua, because I will utterly blot out the memory of Amalek from under heaven.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה כְּתֹ֨ב זֹ֤את זִכָּרוֹן֙ בַּסֵּ֔פֶר וְשִׂ֖ים בְּאָזְנֵ֣י יְהוֹשֻׁ֑עַ כִּֽי־ מָחֹ֤ה אֶמְחֶה֙ אֶת־ זֵ֣כֶר עֲמָלֵ֔ק מִתַּ֖חַת הַשָּׁמָֽיִם׃"
+pericope: "[[Exod.17.8 The Defeat of the Amalekites|The Defeat of the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H3789]]"
+- "[[H2063]]"
+- "[[H2146]]"
+- "[[H9003]]"
+- "[[H5612H]]"
+- "[[H9002]]"
+- "[[H7760A]]"
+- "[[H0241G]]"
+- "[[H3091G]]"
+- "[[H3588A]]"
+- "[[H4229A]]"
+- "[[H0853]]"
+- "[[H2143]]"
+- "[[H6002G]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 17:14**<big><big>[[Exod.17.8 The Defeat of the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Write this [for] a memorial in a book, and rehearse [it] in the ears of Joshua: for I will utterly put out the remembrance of Amalek from under heaven.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Write this on a scroll as a reminder and recite it to Joshua, because I will utterly blot out the memory of Amalek from under heaven.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H3789\|כְּתֹ֨ב]] [[H2063\|זֹ֤את]] [[H2146\|זִכָּרוֹן֙]] [[H9003\|בַּ]][[H5612H\|סֵּ֔פֶר]] [[H9002\|וְ]][[H7760A\|שִׂ֖ים]] [[H9003\|בְּ]][[H0241G\|אָזְנֵ֣י]] [[H3091G\|יְהוֹשֻׁ֑עַ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4229A\|מָחֹ֤ה]] [[H4229A\|אֶמְחֶה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2143\|זֵ֣כֶר]] [[H6002G\|עֲמָלֵ֔ק]] [[H9006\|מִ]][[H8478G\|תַּ֖חַת]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.13|<< Exodus 17:13]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.15|Exodus 17:15 >>]]</td></tr></table>
 

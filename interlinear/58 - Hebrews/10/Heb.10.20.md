@@ -1,10 +1,60 @@
+---
+title: Hebrews 10:20
+type: Verse
+kjv: "By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;"
+bsb: "by the new and living way opened for us through the curtain of His body,"
+greek: "ἣν ἐνεκαίνισεν ἡμῖν ὁδὸν πρόσφατον καὶ ζῶσαν διὰ τοῦ καταπετάσματος, τοῦτ᾽ ἔστιν τῆς σαρκὸς αὐτοῦ,"
+pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[G3739]]"
+- "[[G1457]]"
+- "[[G3165]]"
+- "[[G3598]]"
+- "[[G4372]]"
+- "[[G2532]]"
+- "[[G2198]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G2665]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G4561]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:20**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By a new and living way, which he hath consecrated for us, through the veil, that is to say, his flesh;
 <small><sub>**BSB:**</sub></small>
 by the new and living way opened for us through the curtain of His body,
-<small><sub>**Literal:**</sub></small>
-which He dedicated for us a way new and living through the veil, That is through the flesh of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.19|<< Hebrews 10:19]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.21|Hebrews 10:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ἣν]]  [[G1457\|ἐνεκαίνισεν]]  [[G3165\|ἡμῖν]]  [[G3598\|ὁδὸν]]  [[G4372\|πρόσφατον]]  [[G2532\|καὶ]]  [[G2198\|ζῶσαν]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G2665\|καταπετάσματος,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G3588\|τῆς]]  [[G4561\|σαρκὸς]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SUFFERING|SUFFERING]] • [[topic TYPES|TYPES]] • [[topic VAIL|VAIL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.19|<< Hebrews 10:19]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.21|Hebrews 10:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

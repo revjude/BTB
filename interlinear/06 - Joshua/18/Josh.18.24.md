@@ -1,8 +1,56 @@
+---
+title: Joshua 18:24
+type: Verse
+kjv: "And Chepharhaammonai, and Ophni, and Gaba; twelve cities with their villages:"
+bsb: "Chephar-ammoni, Ophni, and Geba—twelve cities, along with their villages."
+hebrew: "וּכְפַ֧ר הָֽעַמֹּנָ֛ה וְהָֽעָפְנִ֖י וָגָ֑בַע עָרִ֥ים שְׁתֵּים־ עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic GABA|GABA]]"
+- "[[topic OPHNI|OPHNI]]"
+strongs:
+- "[[H9002]]"
+- "[[H3723G]]"
+- "[[H9009]]"
+- "[[H3726]]"
+- "[[H6078]]"
+- "[[H1387G]]"
+- "[[H5892B]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H2691B]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 18:24**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Chepharhaammonai, and Ophni, and Gaba; twelve cities with their villages:
 <small><sub>**BSB:**</sub></small>
 Chephar-ammoni, Ophni, and Geba—twelve cities, along with their villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3723G\|כְפַ֧ר]] [[H9009\|הָֽ]][[H3726\|עַמֹּנָ֛ה]] [[H9002\|וְ]][[H9009\|הָֽ]][[H6078\|עָפְנִ֖י]] [[H9002\|וָ]][[H1387G\|גָ֑בַע]] [[H5892B\|עָרִ֥ים]] [[H8147\|שְׁתֵּים]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֖ה]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic GABA|GABA]] • [[topic OPHNI|OPHNI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.23|<< Joshua 18:23]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.25|Joshua 18:25 >>]]</td></tr></table>
 
@@ -18,7 +66,7 @@ Chephar-ammoni, Ophni, and Geba—twelve cities, along with their villages.
 | and villages their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2691B\|חַצְרֵי]]&#8207;&#8207;[[H9029\|הֶֽן]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> chatz.rei.<small><sup>[[HNcmpc]]</sup></small> Hen<small><sup>[[HSp3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.23|<< Joshua 18:23]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.25|Joshua 18:25 >>]]</td></tr></table>
 
-[^1]: \<the> Ammoni  | **<big>[[H3726|עַמֹּנִי]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.mo.ni<small><sup>[[HNpl]]</sup></small> | K
-[^2]: \<the> Ammoni  | **<big>[[H3726|עַמֹּנִי]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.mo.ni<small><sup>[[HNpl]]</sup></small> | K
+[^1]: \<the> Ammoni  | **<big>[[H9009|הָ]]</big><big>[[H3726|עַמֹּנִי]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.mo.ni<small><sup>[[HNpl]]</sup></small> | K
+[^2]: \<the> Ammoni  | **<big>[[H9009|הָ]]</big><big>[[H3726|עַמֹּנִי]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> 'a.mo.ni<small><sup>[[HNpl]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הָֽעַמֹּנָ֛י</big></span>**
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Balaam’s Fourth Oracle
+type: Pericope
 pericope: "[[Num.24.15 Balaam’s Fourth Oracle|Balaam’s Fourth Oracle]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 24
 book/chapter: "[[Num.24|Numbers 24]]"
-genre:
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.24.15]]"
 - "[[Num.24.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.24.19]]"
 ---
 
-[[Num.24|Numbers 24:15 - Numbers 24:19]]
+<small>[[Num.24|Numbers 24:15-19]]</small>
 *Balaam’s Fourth Oracle*
 
 [[Num.24.15|15]] And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:

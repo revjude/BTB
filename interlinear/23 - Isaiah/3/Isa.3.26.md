@@ -1,8 +1,54 @@
+---
+title: Isaiah 3:26
+type: Verse
+kjv: "And her gates shall lament and mourn; and she being desolate shall sit upon the ground."
+bsb: "And the gates of Zion will lament and mourn; destitute, she will sit on the ground."
+hebrew: "וְאָנ֥וּ וְאָבְל֖וּ פְּתָחֶ֑יהָ וְנִקָּ֖תָה לָאָ֥רֶץ תֵּשֵֽׁב׃"
+pericope: "[[Isa.3.16 A Warning to the Daughters of Zion|A Warning to the Daughters of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GATES|GATES]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0578]]"
+- "[[H0056]]"
+- "[[H6607]]"
+- "[[H9024]]"
+- "[[H5352]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:26**<big><big>[[Isa.3.16 A Warning to the Daughters of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her gates shall lament and mourn; and she [being] desolate shall sit upon the ground.
 <small><sub>**BSB:**</sub></small>
 And the gates of Zion will lament and mourn; destitute, she will sit on the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0578\|אָנ֥וּ]] [[H9001\|וְ]][[H0056\|אָבְל֖וּ]] [[H6607\|פְּתָחֶ֑י]][[H9024\|הָ]] [[H9001\|וְ]][[H5352\|נִקָּ֖תָה]] [[H9005\|לָ]][[H0776H\|אָ֥רֶץ]] [[H3427\|תֵּשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]] • [[topic MOURNING|MOURNING]] • [[topic PRIDE|PRIDE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.25|<< Isaiah 3:25]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.1|Isaiah 4:1 >>]]</td></tr></table>
 

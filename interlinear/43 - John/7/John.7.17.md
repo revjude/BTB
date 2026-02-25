@@ -1,10 +1,63 @@
+---
+title: John 7:17
+type: Verse
+kjv: "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+bsb: "If anyone desires to do His will, he will know whether My teaching is from God or whether I speak on My own."
+jesus_said: "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself."
+greek: "ἐάν τις θέλῃ τὸ θέλημα αὐτοῦ ποιεῖν, γνώσεται περὶ τῆς διδαχῆς πότερον ἐκ τοῦ θεοῦ ἐστιν ἢ ἐγὼ ἀπ᾽ ἐμαυτοῦ λαλῶ."
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WILL|WILL]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G2309]]"
+- "[[G3588]]"
+- "[[G2307]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G1097]]"
+- "[[G4012]]"
+- "[[G1322]]"
+- "[[G4220]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G2228]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G2980]]"
+texts:
+- NKO
+---
+
 **John 7:17**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If any man will do his will, he shall know of the doctrine, whether it be of God, or [whether] I speak of myself.
 <small><sub>**BSB:**</sub></small>
 If anyone desires to do His will, he will know whether My teaching is from God or whether I speak on My own.
-<small><sub>**Literal:**</sub></small>
-If anyone shall desire the will of Him to do, he will know concerning the teaching whether from <the> God it is or I myself from Myself speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.16|<< John 7:16]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.18|John 7:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐάν]]  [[G5100\|τις]]  [[G2309\|θέλῃ]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G0846\|αὐτοῦ]]  [[G4160G\|ποιεῖν,]]  [[G1097\|γνώσεται]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G1322\|διδαχῆς]]  [[G4220\|πότερον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν]]  [[G2228\|ἢ]]  [[G1473\|ἐγὼ]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμαυτοῦ]]  [[G2980\|λαλῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOCTRINES|DOCTRINES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]] • [[topic WILL|WILL]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.16|<< John 7:16]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.18|John 7:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

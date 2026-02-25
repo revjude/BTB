@@ -1,8 +1,66 @@
+---
+title: Ruth 1:6
+type: Verse
+kjv: "Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread."
+bsb: "When Naomi heard in Moab that the LORD had attended to His people by providing them with food, she and her daughters-in-law prepared to leave the land of Moab."
+hebrew: "וַתָּ֤קָם הִיא֙ וְכַלֹּתֶ֔יהָ וַתָּ֖שָׁב מִשְּׂדֵ֣י מוֹאָ֑ב כִּ֤י שָֽׁמְעָה֙ בִּשְׂדֵ֣ה מוֹאָ֔ב כִּֽי־ פָקַ֤ד יְהוָה֙ אֶת־ עַמּ֔וֹ לָתֵ֥ת לָהֶ֖ם לָֽחֶם׃"
+pericope: "[[Ruth.1.6 Ruth’s Loyalty to Naomi|Ruth’s Loyalty to Naomi]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3618H]]"
+- "[[H9024]]"
+- "[[H7725G]]"
+- "[[H9006]]"
+- "[[H7704G]]"
+- "[[H4124G]]"
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H9014]]"
+- "[[H6485I]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3899G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:6**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread.
 <small><sub>**BSB:**</sub></small>
 When Naomi heard in Moab that the LORD had attended to His people by providing them with food, she and her daughters-in-law prepared to leave the land of Moab.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|תָּ֤קָם]] [[H1931\|הִיא֙]] [[H9002\|וְ]][[H3618H\|כַלֹּתֶ֔י]][[H9024\|הָ]] [[H9001\|וַ]][[H7725G\|תָּ֖שָׁב]] [[H9006\|מִ]][[H7704G\|שְּׂדֵ֣י]] [[H4124G\|מוֹאָ֑ב]] [[H3588A\|כִּ֤י]] [[H8085G\|שָֽׁמְעָה֙]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֣ה]] [[H4124G\|מוֹאָ֔ב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6485I\|פָקַ֤ד]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H3899G\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.5|<< Ruth 1:5]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.7|Ruth 1:7 >>]]</td></tr></table>
 

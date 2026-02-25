@@ -7,7 +7,7 @@
 
 - Of Eve [[Gen.3.6|Ge 3:6]]
 
-- Of Abraham, to know whether God would destroy the righteous people  who lived in Sodom [[Gen.18.23|Ge 18:23]]-[[Gen.18.32|32]]
+- Of Abraham, to know whether God would destroy the righteous people  who lived in Sodom [[Gen.18.23|Ge 18:23-32]]
 
 - Of Jacob, to know the name of the angel [[Gen.32.29|Ge 32:29]]
 
@@ -43,7 +43,7 @@ And to see Jesus [[John.12.20|Joh 12:20]],[[John.12.21|21]]
 
 - Of the disciples, to know whether Jesus would restore the kingdom  of the Jews [[Acts.1.6|Ac 1:6]],[[Acts.1.7|7]]
 
-- Of the Athenians, to hear some new thing [[Acts.17.19|Ac 17:19]]-[[Acts.17.21|21]]
+- Of the Athenians, to hear some new thing [[Acts.17.19|Ac 17:19-21]]
 
 - Of angels, to look into the mysteries of salvation  [[1Pet.1.12|1Pe 1:12]]
 

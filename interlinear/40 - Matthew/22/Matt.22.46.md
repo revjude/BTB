@@ -1,10 +1,56 @@
+---
+title: Matthew 22:46
+type: Verse
+kjv: "And no man was able to answer him a word, neither durst any man from that day forth ask him any more questions."
+bsb: "No one was able to answer a word, and from that day on no one dared to question Him any further."
+greek: "καὶ οὐδεὶς ἐδύνατο ἀποκριθῆναι αὐτῷ λόγον οὐδὲ ἐτόλμησέν τις ἀπ᾽ ἐκείνης τῆς ἡμέρας ἐπερωτῆσαι αὐτὸν οὐκέτι.¶ οὐκέτι.¶"
+pericope: "[[Matt.22.41 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G1410]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3056]]"
+- "[[G3761]]"
+- "[[G5111]]"
+- "[[G5100]]"
+- "[[G0575]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1905]]"
+- "[[G3756]]"
+- "[[G2089]]"
+texts:
+- NKO
+---
+
 **Matthew 22:46**<big><big>[[Matt.22.41 Whose Son Is the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And no man was able to answer him a word, neither durst any [man] from that day forth ask him any more [questions].
 <small><sub>**BSB:**</sub></small>
 No one was able to answer a word, and from that day on no one dared to question Him any further.
-<small><sub>**Literal:**</sub></small>
-And no [one] was able to answer Him a word nor dared anyone from that [very] <the> day to question Him no longer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.45|<< Matthew 22:45]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.1|Matthew 23:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G1410\|ἐδύνατο]]  [[G0611\|ἀποκριθῆναι]]  [[G0846\|αὐτῷ]]  [[G3056\|λόγον]]  [[G3761\|οὐδὲ]]  [[G5111\|ἐτόλμησέν]]  [[G5100\|τις]]  [[G0575\|ἀπ᾽]]  [[G1565\|ἐκείνης]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G1905\|ἐπερωτῆσαι]]  [[G0846\|αὐτὸν]]  [[G3756\|οὐκέτι.¶]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.45|<< Matthew 22:45]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.1|Matthew 23:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

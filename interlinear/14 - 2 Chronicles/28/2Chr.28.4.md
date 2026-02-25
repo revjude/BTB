@@ -1,8 +1,56 @@
+---
+title: 2 Chronicles 28:4
+type: Verse
+kjv: "He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree."
+bsb: "And he sacrificed and burned incense on the high places, on the hills, and under every green tree."
+hebrew: "וַיְזַבֵּ֧חַ וַיְקַטֵּ֛ר בַּבָּמ֖וֹת וְעַל־ הַגְּבָע֑וֹת וְתַ֖חַת כָּל־ עֵ֥ץ רַעֲנָֽן׃"
+pericope: "[[2Chr.28.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H6999H]]"
+- "[[H9003]]"
+- "[[H1116]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1389I]]"
+- "[[H8478G]]"
+- "[[H3605]]"
+- "[[H6086H]]"
+- "[[H7488B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:4**<big><big>[[2Chr.28.1 Ahaz Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree.
 <small><sub>**BSB:**</sub></small>
 And he sacrificed and burned incense on the high places, on the hills, and under every green tree.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2076\|יְזַבֵּ֧חַ]] [[H9001\|וַ]][[H6999H\|יְקַטֵּ֛ר]] [[H9003\|בַּ]][[H1116\|בָּמ֖וֹת]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1389I\|גְּבָע֑וֹת]] [[H9002\|וְ]][[H8478G\|תַ֖חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֥ץ]] [[H7488B\|רַעֲנָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.3|<< 2 Chronicles 28:3]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.5|2 Chronicles 28:5 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Flees Jerusalem
+type: Pericope
 pericope: "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 15
 book/chapter: "[[2Sam.15|2 Samuel 15]]"
-genre:
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 17
 verses:
 - "[[2Sam.15.13]]"
 - "[[2Sam.15.14]]"
@@ -36,7 +43,7 @@ verses:
 - "[[2Sam.15.29]]"
 ---
 
-[[2Sam.15|2 Samuel 15:13 - 2 Samuel 15:29]]
+<small>[[2Sam.15|2 Samuel 15:13-29]]</small>
 *David Flees Jerusalem*
 
 [[2Sam.15.13|13]] And there came a messenger to David, saying, The hearts of the men of Israel are after Absalom.

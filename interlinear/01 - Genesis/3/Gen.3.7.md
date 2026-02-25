@@ -1,8 +1,72 @@
+---
+title: Genesis 3:7
+type: Verse
+kjv: "And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons."
+bsb: "And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves."
+hebrew: "וַתִּפָּקַ֙חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם וַֽיִּתְפְּרוּ֙ עֲלֵ֣ה תְאֵנָ֔ה וַיַּעֲשׂ֥וּ לָהֶ֖ם חֲגֹרֹֽת׃"
+pericope: "[[Gen.3.1 The Serpent’s Deception|The Serpent’s Deception]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic EVE|EVE]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic FIG|FIG]]"
+- "[[topic INNOCENCY|INNOCENCY]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6491]]"
+- "[[H5869A]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H5903]]"
+- "[[H1992]]"
+- "[[H8609]]"
+- "[[H5929]]"
+- "[[H8384]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H2290B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 3:7**<big><big>[[Gen.3.1 The Serpent’s Deception|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the eyes of them both were opened, and they knew that they [were] naked; and they sewed fig leaves together, and made themselves aprons.
 <small><sub>**BSB:**</sub></small>
 And the eyes of both of them were opened, and they knew that they were naked; so they sewed together fig leaves and made coverings for themselves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6491\|תִּפָּקַ֙חְנָה֙]] [[H5869A\|עֵינֵ֣י]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H3045\|יֵּ֣דְע֔וּ]] [[H3588A\|כִּ֥י]] [[H5903\|עֵֽירֻמִּ֖ם]] [[H1992\|הֵ֑ם]] [[H9001\|וַֽ]][[H8609\|יִּתְפְּרוּ֙]] [[H5929\|עֲלֵ֣ה]] [[H8384\|תְאֵנָ֔ה]] [[H9001\|וַ]][[H6213H\|יַּעֲשׂ֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H2290B\|חֲגֹרֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic DRESS|DRESS]] • [[topic ESCAPE|ESCAPE]] • [[topic EVE|EVE]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic FIG|FIG]] • [[topic INNOCENCY|INNOCENCY]] • [[topic SERPENT|SERPENT]] • [[topic SIN|SIN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.6|<< Genesis 3:6]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.8|Genesis 3:8 >>]]</td></tr></table>
 

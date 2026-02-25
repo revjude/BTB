@@ -1,8 +1,76 @@
+---
+title: Ezekiel 18:30
+type: Verse
+kjv: "Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord GOD. Repent, and turn yourselves from all your transgressions; so iniquity shall not be your ruin."
+bsb: "Therefore, O house of Israel, I will judge you, each according to his ways, declares the Lord GOD. Repent and turn from all your transgressions, so that your iniquity will not become your downfall."
+hebrew: "לָכֵן֩ אִ֨ישׁ כִּדְרָכָ֜יו אֶשְׁפֹּ֤ט אֶתְכֶם֙ בֵּ֣ית יִשְׂרָאֵ֔ל נְאֻ֖ם אֲדֹנָ֣י יְהוִ֑ה שׁ֤וּבוּ וְהָשִׁ֙יבוּ֙ מִכָּל־ פִּשְׁעֵיכֶ֔ם וְלֹֽא־ יִהְיֶ֥ה לָכֶ֛ם לְמִכְשׁ֖וֹל עָוֹֽן׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0376I]]"
+- "[[H9004]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H7725G]]"
+- "[[H9002]]"
+- "[[H7725O]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6588]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H4383]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 18:30**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I will judge you, O house of Israel, every one according to his ways, saith the Lord GOD. Repent, and turn [yourselves] from all your transgressions; so iniquity shall not be your ruin.
 <small><sub>**BSB:**</sub></small>
 Therefore, O house of Israel, I will judge you, each according to his ways, declares the Lord GOD. Repent and turn from all your transgressions, so that your iniquity will not become your downfall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֩]] [[H0376I\|אִ֨ישׁ]] [[H9004\|כִּ]][[H1870G\|דְרָכָ֜י]][[H9023\|ו]] [[H8199\|אֶשְׁפֹּ֤ט]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H7725G\|שׁ֤וּבוּ]] [[H9002\|וְ]][[H7725O\|הָשִׁ֙יבוּ֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H6588\|פִּשְׁעֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H9005\|לְ]][[H4383\|מִכְשׁ֖וֹל]] [[H5771G\|עָוֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.29|<< Ezekiel 18:29]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.31|Ezekiel 18:31 >>]]</td></tr></table>
 

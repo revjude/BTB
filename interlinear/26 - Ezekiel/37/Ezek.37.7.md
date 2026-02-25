@@ -1,8 +1,64 @@
+---
+title: Ezekiel 37:7
+type: Verse
+kjv: "So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone."
+bsb: "So I prophesied as I had been commanded. And as I prophesied, there was suddenly a noise, a rattling, and the bones came together, bone to bone."
+hebrew: "וְנִבֵּ֖אתִי כַּאֲשֶׁ֣ר צֻוֵּ֑יתִי וַֽיְהִי־ ק֤וֹל כְּהִנָּֽבְאִי֙ וְהִנֵּה־ רַ֔עַשׁ וַתִּקְרְב֣וּ עֲצָמ֔וֹת עֶ֖צֶם אֶל־ עַצְמֽוֹ׃"
+pericope: "[[Ezek.37.1 The Valley of Dry Bones|The Valley of Dry Bones]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BONES|BONES]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H5012]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H6963H]]"
+- "[[H9040]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7494]]"
+- "[[H7126G]]"
+- "[[H6106G]]"
+- "[[H0413]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:7**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So I prophesied as I was commanded: and as I prophesied, there was a noise, and behold a shaking, and the bones came together, bone to his bone.
 <small><sub>**BSB:**</sub></small>
 So I prophesied as I had been commanded. And as I prophesied, there was suddenly a noise, a rattling, and the bones came together, bone to bone.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5012\|נִבֵּ֖אתִי]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6680\|צֻוֵּ֑יתִי]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H6963H\|ק֤וֹל]] [[H9004\|כְּ]][[H5012\|הִנָּֽבְאִ]][[H9040\|י֙]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H7494\|רַ֔עַשׁ]] [[H9001\|וַ]][[H7126G\|תִּקְרְב֣וּ]] [[H6106G\|עֲצָמ֔וֹת]] [[H6106G\|עֶ֖צֶם]] [[H0413\|אֶל]][[H9014\|־]] [[H6106G\|עַצְמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONES|BONES]] • [[topic EZEKIEL|EZEKIEL]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.6|<< Ezekiel 37:6]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.8|Ezekiel 37:8 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 21:1
+type: Verse
+kjv: "Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his stead."
+bsb: "And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place."
+hebrew: "וַיִּשְׁכַּ֤ב יְהֽוֹשָׁפָט֙ עִם־ אֲבֹתָ֔יו וַיִּקָּבֵ֥ר עִם־ אֲבֹתָ֖יו בְּעִ֣יר דָּוִ֑יד וַיִּמְלֹ֛ךְ יְהוֹרָ֥ם בְּנ֖וֹ תַּחְתָּֽיו׃"
+pericope: "[[2Chr.21.1 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901J]]"
+- "[[H3092I]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H4427A]]"
+- "[[H3088G]]"
+- "[[H1121A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 21:1**<big><big>[[2Chr.21.1 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901J\|יִּשְׁכַּ֤ב]] [[H3092I\|יְהֽוֹשָׁפָט֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H6912\|יִּקָּבֵ֥ר]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֖י]][[H9023\|ו]] [[H9003\|בְּ]][[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֑יד]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H3088G\|יְהוֹרָ֥ם]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.37|<< 2 Chronicles 20:37]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.2|2 Chronicles 21:2 >>]]</td></tr></table>
 

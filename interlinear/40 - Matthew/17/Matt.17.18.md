@@ -1,10 +1,58 @@
+---
+title: Matthew 17:18
+type: Verse
+kjv: "And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour."
+bsb: "Then Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment."
+greek: "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς, καὶ ἐξῆλθεν ἀπ᾽ αὐτοῦ τὸ δαιμόνιον, καὶ ἐθεραπεύθη ὁ παῖς ἀπὸ τῆς ὥρας ἐκείνης.¶"
+pericope: "[[Matt.17.14 The Boy with a Demon|The Boy with a Demon]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2008]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1831]]"
+- "[[G0575]]"
+- "[[G1140]]"
+- "[[G2323]]"
+- "[[G3816]]"
+- "[[G5610]]"
+- "[[G1565]]"
+texts:
+- NKO
+---
+
 **Matthew 17:18**<big><big>[[Matt.17.14 The Boy with a Demon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus rebuked the devil; and he departed out of him: and the child was cured from that very hour.
 <small><sub>**BSB:**</sub></small>
 Then Jesus rebuked the demon, and it came out of the boy, and he was healed from that moment.
-<small><sub>**Literal:**</sub></small>
-And rebuked him <the> Jesus, and went out from him the demon, and was healed the boy from the hour that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.17|<< Matthew 17:17]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.19|Matthew 17:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2008\|ἐπετίμησεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G1140\|δαιμόνιον,]]  [[G2532\|καὶ]]  [[G2323\|ἐθεραπεύθη]]  [[G3588\|ὁ]]  [[G3816\|παῖς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G5610\|ὥρας]]  [[G1565\|ἐκείνης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.17|<< Matthew 17:17]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.19|Matthew 17:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

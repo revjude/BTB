@@ -1,10 +1,65 @@
+---
+title: Revelation 16:17
+type: Verse
+kjv: "And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done."
+bsb: "Then the seventh angel poured out his bowl into the air, and a loud voice came from the throne in the temple, saying, “It is done!”"
+greek: "Καὶ ὁ ἕβδομος ἄγγελος ἐξέχεεν τὴν φιάλην αὐτοῦ ἐπὶ τὸν ἀέρα, καὶ ἐξῆλθεν φωνὴ μεγάλη ἐκ τοῦ ναοῦ τοῦ οὐρανοῦ ἀπὸ τοῦ θρόνου λέγουσα· γέγονεν."
+pericope: "[[Rev.16.17 The Seventh Bowl of Wrath|The Seventh Bowl of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1442]]"
+- "[[G0032G]]"
+- "[[G1632]]"
+- "[[G5357]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G0109]]"
+- "[[G1831]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G1537]]"
+- "[[G3485]]"
+- "[[G3772]]"
+- "[[G0575]]"
+- "[[G2362]]"
+- "[[G3004G]]"
+- "[[G1096]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Revelation 16:17**<big><big>[[Rev.16.17 The Seventh Bowl of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the seventh angel poured out his vial into the air; and there came a great voice out of the temple of heaven, from the throne, saying, It is done.
 <small><sub>**BSB:**</sub></small>
 Then the seventh angel poured out his bowl into the air, and a loud voice came from the throne in the temple, saying, “It is done!”
-<small><sub>**Literal:**</sub></small>
-And the seventh angel poured out the bowl of him upon the air, and came out a voice loud from the temple of the heaven from the throne saying; It has been done!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.16|<< Revelation 16:16]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.18|Revelation 16:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|ὁ]]  [[G1442\|ἕβδομος]]  [[G0032G\|ἄγγελος]]  [[G1632\|ἐξέχεεν]]  [[G3588\|τὴν]]  [[G5357\|φιάλην]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G0109\|ἀέρα,]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G5456G\|φωνὴ]]  [[G3173\|μεγάλη]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3485\|ναοῦ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G3004G\|λέγουσα·]]  [[G1096\|γέγονεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic TEMPLE|TEMPLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.16|<< Revelation 16:16]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.18|Revelation 16:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

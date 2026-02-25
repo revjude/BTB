@@ -1,10 +1,61 @@
+---
+title: Mark 5:9
+type: Verse
+kjv: "And he asked him, What is thy name? And he answered, saying, My name is Legion: for we are many."
+bsb: "“What is your name?” Jesus asked. “My name is Legion,” he replied, “for we are many.”"
+jesus_said: "What is thy name?"
+greek: "Καὶ ἐπηρώτα αὐτόν· τί ὄνομά σοι; καὶ ἀπεκρίθη λέγει αὐτῷ· λεγιὼν ὄνομά μοι ὅτι πολλοί ἐσμεν."
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEGION|LEGION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G3686]]"
+- "[[G4771]]"
+- "[[G0611]]"
+- "[[G3004G]]"
+- "[[G3003]]"
+- "[[G3165]]"
+- "[[G3754H]]"
+- "[[G4183]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+- N(k)O
+- no
+---
+
 **Mark 5:9**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he asked him, What [is] thy name? And he answered, saying, My name [is] Legion: for we are many.
 <small><sub>**BSB:**</sub></small>
 “What is your name?” Jesus asked. “My name is Legion,” he replied, “for we are many.”
-<small><sub>**Literal:**</sub></small>
-And He was asking him; What [is] [the] name of you And he answered he says to him; Legion [is] name to Me because many we are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.8|<< Mark 5:8]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.10|Mark 5:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1905\|ἐπηρώτα]]  [[G0846\|αὐτόν·]]  [[G5101\|τί]]  [[G3686\|ὄνομά]]  [[G4771\|σοι;]]  [[G2532\|καὶ]]  [[G0611\|ἀπεκρίθη]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G3003\|λεγιὼν]]  [[G3686\|ὄνομά]]  [[G3165\|μοι]]  [[G3754H\|ὅτι]]  [[G4183\|πολλοί]]  [[G1510\|ἐσμεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEGION|LEGION]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.8|<< Mark 5:8]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.10|Mark 5:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

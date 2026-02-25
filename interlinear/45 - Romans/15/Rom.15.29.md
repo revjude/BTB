@@ -1,10 +1,54 @@
+---
+title: Romans 15:29
+type: Verse
+kjv: "And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ."
+bsb: "I know that when I come to you, I will come in the fullness of the blessing of Christ."
+greek: "οἶδα δὲ ὅτι ἐρχόμενος πρὸς ὑμᾶς ἐν πληρώματι εὐλογίας τοῦ εὐαγγελίου τοῦ Χριστοῦ ἐλεύσομαι.¶"
+pericope: "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G6063]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G4138]]"
+- "[[G2129]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G5547]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 15:29**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ.
 <small><sub>**BSB:**</sub></small>
 I know that when I come to you, I will come in the fullness of the blessing of Christ.
-<small><sub>**Literal:**</sub></small>
-I know now that coming to you in [the] fullness of the blessing of the gospel <the> of Christ I will come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.28|<< Romans 15:28]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.30|Romans 15:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἶδα]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G2064\|ἐρχόμενος]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G4138\|πληρώματι]]  [[G2129\|εὐλογίας]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G2064\|ἐλεύσομαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.28|<< Romans 15:28]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.30|Romans 15:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

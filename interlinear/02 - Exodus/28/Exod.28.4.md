@@ -1,8 +1,77 @@
+---
+title: Exodus 28:4
+type: Verse
+kjv: "And these are the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest’s office."
+bsb: "These are the garments that they shall make: a breastpiece, an ephod, a robe, a woven tunic, a turban, and a sash. They are to make these holy garments for your brother Aaron and his sons, so that they may serve Me as priests."
+hebrew: "וְאֵ֨לֶּה הַבְּגָדִ֜ים אֲשֶׁ֣ר יַעֲשׂ֗וּ חֹ֤שֶׁן וְאֵפוֹד֙ וּמְעִ֔יל וּכְתֹ֥נֶת תַּשְׁבֵּ֖ץ מִצְנֶ֣פֶת וְאַבְנֵ֑ט וְעָשׂ֨וּ בִגְדֵי־ קֹ֜דֶשׁ לְאַהֲרֹ֥ן אָחִ֛יךָ וּלְבָנָ֖יו לְכַהֲנוֹ־ לִֽי׃"
+pericope: "[[Exod.28.1 Garments for the Priests|Garments for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic MITER|MITER]]"
+- "[[topic NADAB|NADAB]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H0899B]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H2833]]"
+- "[[H0646]]"
+- "[[H4598]]"
+- "[[H3801]]"
+- "[[H8665]]"
+- "[[H4701]]"
+- "[[H0073]]"
+- "[[H9001]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3547]]"
+- "[[H9033]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:4**<big><big>[[Exod.28.1 Garments for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest’s office.
 <small><sub>**BSB:**</sub></small>
 These are the garments that they shall make: a breastpiece, an ephod, a robe, a woven tunic, a turban, and a sash. They are to make these holy garments for your brother Aaron and his sons, so that they may serve Me as priests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֨לֶּה]] [[H9009\|הַ]][[H0899B\|בְּגָדִ֜ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|יַעֲשׂ֗וּ]] [[H2833\|חֹ֤שֶׁן]] [[H9002\|וְ]][[H0646\|אֵפוֹד֙]] [[H9002\|וּ]][[H4598\|מְעִ֔יל]] [[H9002\|וּ]][[H3801\|כְתֹ֥נֶת]] [[H8665\|תַּשְׁבֵּ֖ץ]] [[H4701\|מִצְנֶ֣פֶת]] [[H9002\|וְ]][[H0073\|אַבְנֵ֑ט]] [[H9001\|וְ]][[H6213H\|עָשׂ֨וּ]] [[H0899B\|בִגְדֵי]][[H9014\|־]] [[H6944G\|קֹ֜דֶשׁ]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֥ן]] [[H0251G\|אָחִ֛י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנָ֖י]][[H9023\|ו]] [[H9005\|לְ]][[H3547\|כַהֲנ]][[H9033\|וֹ]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic DRESS|DRESS]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic GIRDLE|GIRDLE]] • [[topic MITER|MITER]] • [[topic NADAB|NADAB]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.3|<< Exodus 28:3]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.5|Exodus 28:5 >>]]</td></tr></table>
 

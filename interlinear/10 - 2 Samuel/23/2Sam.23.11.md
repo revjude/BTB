@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 23:11
+type: Verse
+kjv: "And after him was Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines."
+bsb: "And after him was Shammah son of Agee the Hararite. When the Philistines had banded together near a field full of lentils, Israel’s troops fled from them."
+hebrew: "וְאַחֲרָ֛יו שַׁמָּ֥א בֶן־ אָגֵ֖א הָרָרִ֑י וַיֵּאָסְפ֨וּ פְלִשְׁתִּ֜ים לַחַיָּ֗ה וַתְּהִי־ שָׁ֞ם חֶלְקַ֤ת הַשָּׂדֶה֙ מְלֵאָ֣ה עֲדָשִׁ֔ים וְהָעָ֥ם נָ֖ס מִפְּנֵ֥י פְלִשְׁתִּֽים׃"
+pericope: "[[2Sam.23.8 David’s Mighty Men|David’s Mighty Men]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AGEE|AGEE]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic LENTILES|LENTILES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic SHAMMAH|SHAMMAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H8037G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0089]]"
+- "[[H2043]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H6430G]]"
+- "[[H9005]]"
+- "[[H2416D]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H2513A]]"
+- "[[H9009]]"
+- "[[H7704B]]"
+- "[[H4392]]"
+- "[[H5742]]"
+- "[[H5971K]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 23:11**<big><big>[[2Sam.23.8 David’s Mighty Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after him [was] Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines.
 <small><sub>**BSB:**</sub></small>
 And after him was Shammah son of Agee the Hararite. When the Philistines had banded together near a field full of lentils, Israel’s troops fled from them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרָ֛י]][[H9033\|ו]] [[H8037G\|שַׁמָּ֥א]] [[H1121A\|בֶן]][[H9014\|־]] [[H0089\|אָגֵ֖א]] [[H2043\|הָרָרִ֑י]] [[H9001\|וַ]][[H0622\|יֵּאָסְפ֨וּ]] [[H6430G\|פְלִשְׁתִּ֜ים]] [[H9005\|לַ]][[H2416D\|חַיָּ֗ה]] [[H9001\|וַ]][[H1961\|תְּהִי]][[H9014\|־]] [[H8033G\|שָׁ֞ם]] [[H2513A\|חֶלְקַ֤ת]] [[H9009\|הַ]][[H7704B\|שָּׂדֶה֙]] [[H4392\|מְלֵאָ֣ה]] [[H5742\|עֲדָשִׁ֔ים]] [[H9002\|וְ]][[H9009\|הָ]][[H5971K\|עָ֥ם]] [[H5127\|נָ֖ס]] [[H9006\|מִ]][[H6440G\|פְּנֵ֥י]] [[H6430G\|פְלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGEE|AGEE]] • [[topic ARMIES|ARMIES]] • [[topic LENTILES|LENTILES]] • [[topic PHILISTINES|PHILISTINES]] • [[topic SHAMMAH|SHAMMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.23.10|<< 2 Samuel 23:10]]</td><td align="center" style="border:none;">[[2Sam.23|2 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.23.12|2 Samuel 23:12 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Luke 12:41
+type: Verse
+kjv: "Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?"
+bsb: "“Lord,” said Peter, “are You addressing this parable to us, or to everyone else as well?”"
+greek: "Εἶπεν δὲ αὐτῷ ὁ Πέτρος· κύριε, πρὸς ἡμᾶς τὴν παραβολὴν ταύτην λέγεις ἢ καὶ πρὸς πάντας;"
+pericope: "[[Luke.12.35 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2962G]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G3850]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G2228]]"
+- "[[G2532]]"
+- "[[G3956]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 12:41**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?
 <small><sub>**BSB:**</sub></small>
 “Lord,” said Peter, “are You addressing this parable to us, or to everyone else as well?”
-<small><sub>**Literal:**</sub></small>
-Said then to him <the> Peter; Lord, to us <the> parable this speak You or also to all?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.40|<< Luke 12:40]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.42|Luke 12:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος·]]  [[G2962G\|κύριε,]]  [[G4314\|πρὸς]]  [[G3165\|ἡμᾶς]]  [[G3588\|τὴν]]  [[G3850\|παραβολὴν]]  [[G3778\|ταύτην]]  [[G3004G\|λέγεις]]  [[G2228\|ἢ]]  [[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G3956\|πάντας;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.40|<< Luke 12:40]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.42|Luke 12:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 24:6
+type: Verse
+kjv: "And the king called for Jehoiada the chief, and said unto him, Why hast thou not required of the Levites to bring in out of Judah and out of Jerusalem the collection, according to the commandment of Moses the servant of the LORD, and of the congregation of Israel, for the tabernacle of witness?"
+bsb: "So the king called Jehoiada the high priest and said, “Why have you not required the Levites to bring from Judah and Jerusalem the tax imposed by Moses the servant of the LORD and by the assembly of Israel for the Tent of the Testimony?”"
+hebrew: "וַיִּקְרָ֣א הַמֶּלֶךְ֮ לִֽיהוֹיָדָ֣ע הָרֹאשׁ֒ וַיֹּ֣אמֶר ל֗וֹ מַדּ֙וּעַ֙ לֹֽא־ דָרַ֣שְׁתָּ עַל־ הַלְוִיִּ֔ם לְהָבִ֞יא מִֽיהוּדָ֣ה וּמִֽירוּשָׁלִַ֗ם אֶת־ מַשְׂאַת֙ מֹשֶׁ֣ה עֶֽבֶד־ יְהוָ֔ה וְהַקָּהָ֖ל לְיִשְׂרָאֵ֑ל לְאֹ֖הֶל הָעֵדֽוּת׃"
+pericope: "[[2Chr.24.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H3077H]]"
+- "[[H7218H]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H4069]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1875]]"
+- "[[H5921A]]"
+- "[[H3881]]"
+- "[[H0935P]]"
+- "[[H9006]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H0853]]"
+- "[[H4864]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H6951]]"
+- "[[H3478]]"
+- "[[H0168G]]"
+- "[[H5715]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:6**<big><big>[[2Chr.24.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king called for Jehoiada the chief, and said unto him, Why hast thou not required of the Levites to bring in out of Judah and out of Jerusalem the collection, [according to the commandment] of Moses the servant of the LORD, and of the congregation of Israel, for the tabernacle of witness?
 <small><sub>**BSB:**</sub></small>
 So the king called Jehoiada the high priest and said, “Why have you not required the Levites to bring from Judah and Jerusalem the tax imposed by Moses the servant of the LORD and by the assembly of Israel for the Tent of the Testimony?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֣א]] [[H9009\|הַ]][[H4428G\|מֶּלֶךְ֮]] [[H9005\|לִֽ]][[H3077H\|יהוֹיָדָ֣ע]] [[H9009\|הָ]][[H7218H\|רֹאשׁ֒]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H4069\|מַדּ֙וּעַ֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1875\|דָרַ֣שְׁתָּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9005\|לְ]][[H0935P\|הָבִ֞יא]] [[H9006\|מִֽ]][[H3063G\|יהוּדָ֣ה]] [[H9002\|וּ]][[H9006\|מִֽ]][[H3389\|ירוּשָׁלִַ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4864\|מַשְׂאַת֙]] [[H4872\|מֹשֶׁ֣ה]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H9009\|הַ]][[H6951\|קָּהָ֖ל]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לְ]][[H0168G\|אֹ֖הֶל]] [[H9009\|הָ]][[H5715\|עֵדֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOIADA|JEHOIADA]] • [[topic JOASH|JOASH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.5|<< 2 Chronicles 24:5]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.7|2 Chronicles 24:7 >>]]</td></tr></table>
 

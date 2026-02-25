@@ -1,8 +1,69 @@
+---
+title: Isaiah 40:28
+type: Verse
+kjv: "Hast thou not known? hast thou not heard, that the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? there is no searching of his understanding."
+bsb: "Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary; His understanding is beyond searching out."
+hebrew: "הֲל֨וֹא יָדַ֜עְתָּ אִם־ לֹ֣א שָׁמַ֗עְתָּ אֱלֹהֵ֨י עוֹלָ֤ם׀ יְהוָה֙ בּוֹרֵא֙ קְצ֣וֹת הָאָ֔רֶץ לֹ֥א יִיעַ֖ף וְלֹ֣א יִיגָ֑ע אֵ֥ין חֵ֖קֶר לִתְבוּנָתֽוֹ׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0430G]]"
+- "[[H5769G]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H1254A]]"
+- "[[H7098]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3286]]"
+- "[[H9002]]"
+- "[[H3021]]"
+- "[[H0369]]"
+- "[[H2714]]"
+- "[[H9005]]"
+- "[[H8394]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:28**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou not known? hast thou not heard, [that] the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? [there is] no searching of his understanding.
 <small><sub>**BSB:**</sub></small>
 Do you not know? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary; His understanding is beyond searching out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֨וֹא]] [[H3045\|יָדַ֜עְתָּ]] [[H0518H\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H8085G\|שָׁמַ֗עְתָּ]] [[H0430G\|אֱלֹהֵ֨י]] [[H5769G\|עוֹלָ֤ם]][[H9015\|׀]] [[H3068G\|יְהוָה֙]] [[H1254A\|בּוֹרֵא֙]] [[H7098\|קְצ֣וֹת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3808\|לֹ֥א]] [[H3286\|יִיעַ֖ף]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3021\|יִיגָ֑ע]] [[H0369\|אֵ֥ין]] [[H2714\|חֵ֖קֶר]] [[H9005\|לִ]][[H8394\|תְבוּנָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.27|<< Isaiah 40:27]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.29|Isaiah 40:29 >>]]</td></tr></table>
 

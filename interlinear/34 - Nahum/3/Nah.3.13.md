@@ -1,8 +1,55 @@
+---
+title: Nahum 3:13
+type: Verse
+kjv: "Behold, thy people in the midst of thee are women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars."
+bsb: "Look at your troops—they are like your women! The gates of your land are wide open to your enemies; fire consumes their bars."
+hebrew: "הִנֵּ֨ה עַמֵּ֤ךְ נָשִׁים֙ בְּקִרְבֵּ֔ךְ לְאֹ֣יְבַ֔יִךְ פָּת֥וֹחַ נִפְתְּח֖וּ שַׁעֲרֵ֣י אַרְצֵ֑ךְ אָכְלָ֥ה אֵ֖שׁ בְּרִיחָֽיִך׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H2009]]"
+- "[[H5971K]]"
+- "[[H9022]]"
+- "[[H0802G]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9005]]"
+- "[[H0341]]"
+- "[[H6605A]]"
+- "[[H8179G]]"
+- "[[H0776G]]"
+- "[[H0398]]"
+- "[[H0784]]"
+- "[[H1280]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 3:13**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thy people in the midst of thee [are] women: the gates of thy land shall be set wide open unto thine enemies: the fire shall devour thy bars.
 <small><sub>**BSB:**</sub></small>
 Look at your troops—they are like your women! The gates of your land are wide open to your enemies; fire consumes their bars.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֨ה]] [[H5971K\|עַמֵּ֤]][[H9022\|ךְ]] [[H0802G\|נָשִׁים֙]] [[H9003\|בְּ]][[H7130G\|קִרְבֵּ֔]][[H9022\|ךְ]] [[H9005\|לְ]][[H0341\|אֹ֣יְבַ֔יִ]][[H9022\|ךְ]] [[H6605A\|פָּת֥וֹחַ]] [[H6605A\|נִפְתְּח֖וּ]] [[H8179G\|שַׁעֲרֵ֣י]] [[H0776G\|אַרְצֵ֑]][[H9022\|ךְ]] [[H0398\|אָכְלָ֥ה]] [[H0784\|אֵ֖שׁ]] [[H1280\|בְּרִיחָֽיִ]][[H9022\|ך]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.12|<< Nahum 3:12]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.14|Nahum 3:14 >>]]</td></tr></table>
 

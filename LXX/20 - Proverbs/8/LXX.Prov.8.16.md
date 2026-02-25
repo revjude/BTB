@@ -1,6 +1,46 @@
+---
+title: LXX Proverbs 8:16
+type: Verse
+lxx: "Through me great men become magnified, and sovereigns through me take hold of the earth."
+greek: "δι΄ εμού μεγιστάνες μεγαλύνονται και τύραννοι δι΄ εμού κρατούσι γης"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1223]]"
+- "[[G1473]]"
+- "[[G3175]]"
+- "[[G3170]]"
+- "[[G2532]]"
+- "[[G5181]]"
+- "[[G1223]]"
+- "[[G1473]]"
+- "[[G2902]]"
+- "[[G1093]]"
+---
+
 **LXX Proverbs 8:16** 
 <small><sub>**LXX:**</sub></small>
 Through me great men become magnified, and sovereigns through me take hold \[of the\] earth. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|δι΄]] [[G1473\|εμού]] [[G3175\|μεγιστάνες]] [[G3170\|μεγαλύνονται]] [[G2532\|και]] [[G5181\|τύραννοι]] [[G1223\|δι΄]] [[G1473\|εμού]] [[G2902\|κρατούσι]] [[G1093\|γης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.15|<< Proverbs 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.17|Proverbs 8:17 >>]]</td></tr></table>
 
@@ -16,6 +56,6 @@ Through me great men become magnified, and sovereigns through me take hold \[of 
 | me | **<big>[[G1473\|εμού]]</big>** |
 | take hold | **<big>[[G2902\|κρατούσι]]</big>** |
 | \[of the\] earth. | **<big>[[G1093\|γης]]</big>** |
-[[Prov.8.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.15|<< Proverbs 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.17|Proverbs 8:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.8.15|<< Proverbs 8:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.8.17|Proverbs 8:17 >>]]</td></tr></table>
 
 

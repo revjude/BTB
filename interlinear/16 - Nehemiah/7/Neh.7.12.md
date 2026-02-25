@@ -1,8 +1,51 @@
+---
+title: Nehemiah 7:12
+type: Verse
+kjv: "The children of Elam, a thousand two hundred fifty and four."
+bsb: "the descendants of Elam, 1,254;"
+hebrew: "בְּנֵ֣י עֵילָ֔ם אֶ֕לֶף מָאתַ֖יִם חֲמִשִּׁ֥ים וְאַרְבָּעָֽה׃ ס"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ELAM|ELAM]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H1121G]]"
+- "[[H5867B]]"
+- "[[H0505G]]"
+- "[[H3967]]"
+- "[[H2572]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 7:12**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Elam, a thousand two hundred fifty and four.
 <small><sub>**BSB:**</sub></small>
 the descendants of Elam, 1,254;
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H5867B\|עֵילָ֔ם]] [[H0505G\|אֶ֕לֶף]] [[H3967\|מָאתַ֖יִם]] [[H2572\|חֲמִשִּׁ֥ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELAM|ELAM]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.11|<< Nehemiah 7:11]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.13|Nehemiah 7:13 >>]]</td></tr></table>
 
@@ -13,7 +56,7 @@ the descendants of Elam, 1,254;
 | one thousand  |**<big>&#8207;[[H0505G\|אֶ֕לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | two hundred  |**<big>&#8207;[[H3967\|מָאתַ֖יִם]]&#8207; </big>**| ma.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֥ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.11|<< Nehemiah 7:11]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.13|Nehemiah 7:13 >>]]</td></tr></table>
 
 

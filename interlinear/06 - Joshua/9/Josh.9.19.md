@@ -1,8 +1,70 @@
+---
+title: Joshua 9:19
+type: Verse
+kjv: "But all the princes said unto all the congregation, We have sworn unto them by the LORD God of Israel: now therefore we may not touch them."
+bsb: "All the leaders answered, “We have sworn an oath to them by the LORD, the God of Israel, and now we cannot touch them."
+hebrew: "וַיֹּאמְר֤וּ כָל־ הַנְּשִׂיאִים֙ אֶל־ כָּל־ הָ֣עֵדָ֔ה אֲנַ֙חְנוּ֙ נִשְׁבַּ֣עְנוּ לָהֶ֔ם בַּֽיהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וְעַתָּ֕ה לֹ֥א נוּכַ֖ל לִנְגֹּ֥עַ בָּהֶֽם׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H0413]]"
+- "[[H5712]]"
+- "[[H0587]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H5060]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:19**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But all the princes said unto all the congregation, We have sworn unto them by the LORD God of Israel: now therefore we may not touch them.
 <small><sub>**BSB:**</sub></small>
 All the leaders answered, “We have sworn an oath to them by the LORD, the God of Israel, and now we cannot touch them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H5387A\|נְּשִׂיאִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H5712\|עֵדָ֔ה]] [[H0587\|אֲנַ֙חְנוּ֙]] [[H7650\|נִשְׁבַּ֣עְנוּ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H3808\|לֹ֥א]] [[H3201\|נוּכַ֖ל]] [[H9005\|לִ]][[H5060\|נְגֹּ֥עַ]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic SERVANT|SERVANT]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.18|<< Joshua 9:18]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.20|Joshua 9:20 >>]]</td></tr></table>
 

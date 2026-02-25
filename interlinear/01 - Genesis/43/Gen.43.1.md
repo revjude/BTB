@@ -1,8 +1,51 @@
+---
+title: Genesis 43:1
+type: Verse
+kjv: "And the famine was sore in the land."
+bsb: "Now the famine was still severe in the land."
+hebrew: "וְהָרָעָ֖ב כָּבֵ֥ד בָּאָֽרֶץ׃"
+pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7458]]"
+- "[[H3515]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:1**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the famine [was] sore in the land.
 <small><sub>**BSB:**</sub></small>
 Now the famine was still severe in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H7458\|רָעָ֖ב]] [[H3515\|כָּבֵ֥ד]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.38|<< Genesis 42:38]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.2|Genesis 43:2 >>]]</td></tr></table>
 

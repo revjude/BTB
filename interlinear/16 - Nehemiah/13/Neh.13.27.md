@@ -1,8 +1,64 @@
+---
+title: Nehemiah 13:27
+type: Verse
+kjv: "Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?"
+bsb: "Must we now hear that you too are doing all this terrible evil and acting unfaithfully against our God by marrying foreign women?”"
+hebrew: "וְלָכֶ֣ם הֲנִשְׁמַ֗ע לַעֲשֹׂת֙ אֵ֣ת כָּל־ הָרָעָ֤ה הַגְּדוֹלָה֙ הַזֹּ֔את לִמְעֹ֖ל בֵּֽאלֹהֵ֑ינוּ לְהֹשִׁ֖יב נָשִׁ֥ים נָכְרִיּֽוֹת׃"
+pericope: "[[Neh.13.23 Intermarriage Forbidden|Intermarriage Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9008]]"
+- "[[H8085G]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7451I]]"
+- "[[H1419A]]"
+- "[[H2063]]"
+- "[[H4603]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3427]]"
+- "[[H0802G]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:27**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?
 <small><sub>**BSB:**</sub></small>
 Must we now hear that you too are doing all this terrible evil and acting unfaithfully against our God by marrying foreign women?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ]][[H9036\|כֶ֣ם]] [[H9008\|הֲ]][[H8085G\|נִשְׁמַ֗ע]] [[H9005\|לַ]][[H6213A\|עֲשֹׂת֙]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7451I\|רָעָ֤ה]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָה֙]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9005\|לִ]][[H4603\|מְעֹ֖ל]] [[H9003\|בֵּֽ]][[H0430G\|אלֹהֵ֑י]][[H9025\|נוּ]] [[H9005\|לְ]][[H3427\|הֹשִׁ֖יב]] [[H0802G\|נָשִׁ֥ים]] [[H5237\|נָכְרִיּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.26|<< Nehemiah 13:26]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.28|Nehemiah 13:28 >>]]</td></tr></table>
 

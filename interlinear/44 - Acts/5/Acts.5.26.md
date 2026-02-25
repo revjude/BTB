@@ -1,10 +1,68 @@
+---
+title: Acts 5:26
+type: Verse
+kjv: "Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned."
+bsb: "At that point, the captain went with the officers and brought the apostles—but not by force, for fear the people would stone them."
+greek: "Τότε ἀπελθὼν ὁ στρατηγὸς σὺν τοῖς ὑπηρέταις ἦγεν αὐτοὺς οὐ μετὰ βίας, ἐφοβοῦντο γὰρ τὸν λαὸν ἵνα μὴ λιθασθῶσιν.¶"
+pericope: "[[Acts.5.24 The Apostles before the Sanhedrin|The Apostles before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G5119]]"
+- "[[G0565]]"
+- "[[G3588]]"
+- "[[G4755]]"
+- "[[G4862]]"
+- "[[G5257]]"
+- "[[G0071]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G3326]]"
+- "[[G0970]]"
+- "[[G5399]]"
+- "[[G1063]]"
+- "[[G2992]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3034]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 5:26**<big><big>[[Acts.5.24 The Apostles before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then went the captain with the officers, and brought them without violence: for they feared the people, lest they should have been stoned.
 <small><sub>**BSB:**</sub></small>
 At that point, the captain went with the officers and brought the apostles—but not by force, for fear the people would stone them.
-<small><sub>**Literal:**</sub></small>
-Then having gone the captain with the officers was bringing them not with force, they were afraid of for the people so that lest they may be stoned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.25|<< Acts 5:25]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.27|Acts 5:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G0565\|ἀπελθὼν]]  [[G3588\|ὁ]]  [[G4755\|στρατηγὸς]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G5257\|ὑπηρέταις]]  [[G0071\|ἦγεν]]  [[G0846\|αὐτοὺς]]  [[G3756\|οὐ]]  [[G3326\|μετὰ]]  [[G0970\|βίας,]]  [[G5399\|ἐφοβοῦντο]]  [[G1063\|γὰρ]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3034\|λιθασθῶσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SADDUCEES|SADDUCEES]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.25|<< Acts 5:25]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.27|Acts 5:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

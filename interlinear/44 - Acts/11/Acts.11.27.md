@@ -1,10 +1,51 @@
+---
+title: Acts 11:27
+type: Verse
+kjv: "And in these days came prophets from Jerusalem unto Antioch."
+bsb: "In those days some prophets came down from Jerusalem to Antioch."
+greek: "Ἐν ταύταις δὲ ταῖς ἡμέραις κατῆλθον ἀπὸ Ἱεροσολύμων προφῆται εἰς Ἀντιόχειαν·"
+pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2718]]"
+- "[[G0575]]"
+- "[[G2414]]"
+- "[[G4396]]"
+- "[[G1519]]"
+- "[[G0490G]]"
+texts:
+- NKO
+---
+
 **Acts 11:27**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in these days came prophets from Jerusalem unto Antioch.
 <small><sub>**BSB:**</sub></small>
 In those days some prophets came down from Jerusalem to Antioch.
-<small><sub>**Literal:**</sub></small>
-In these now <the> days came down from Jerusalem prophets to Antioch;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.26|<< Acts 11:26]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.28|Acts 11:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G3778\|ταύταις]]  [[G1161\|δὲ]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G2718\|κατῆλθον]]  [[G0575\|ἀπὸ]]  [[G2414\|Ἱεροσολύμων]]  [[G4396\|προφῆται]]  [[G1519\|εἰς]]  [[G0490G\|Ἀντιόχειαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.26|<< Acts 11:26]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.28|Acts 11:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

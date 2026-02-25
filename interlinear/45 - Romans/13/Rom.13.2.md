@@ -1,10 +1,53 @@
+---
+title: Romans 13:2
+type: Verse
+kjv: "Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation."
+bsb: "Consequently, whoever resists authority is opposing what God has set in place, and those who do so will bring judgment on themselves."
+greek: "ὥστε ὁ ἀντιτασσόμενος τῇ ἐξουσίᾳ τῇ τοῦ θεοῦ διαταγῇ ἀνθέστηκεν· οἱ δὲ ἀνθεστηκότες ἑαυτοῖς κρίμα λήμψονται."
+pericope: "[[Rom.13.1 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G5620]]"
+- "[[G3588]]"
+- "[[G0498]]"
+- "[[G1849]]"
+- "[[G2316]]"
+- "[[G1296]]"
+- "[[G0436]]"
+- "[[G1161]]"
+- "[[G1438]]"
+- "[[G2917]]"
+- "[[G2983]]"
+texts:
+- NKO
+---
+
 **Romans 13:2**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
 <small><sub>**BSB:**</sub></small>
 Consequently, whoever resists authority is opposing what God has set in place, and those who do so will bring judgment on themselves.
-<small><sub>**Literal:**</sub></small>
-Therefore the [one] resisting the authority the <the> of God ordinance has resisted; those now having resisted upon themselves judgment will bring.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.1|<< Romans 13:1]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.3|Romans 13:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G3588\|ὁ]]  [[G0498\|ἀντιτασσόμενος]]  [[G3588\|τῇ]]  [[G1849\|ἐξουσίᾳ]]  [[G3588\|τῇ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1296\|διαταγῇ]]  [[G0436\|ἀνθέστηκεν·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0436\|ἀνθεστηκότες]]  [[G1438\|ἑαυτοῖς]]  [[G2917\|κρίμα]]  [[G2983\|λήμψονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ORDINANCE|ORDINANCE]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.1|<< Romans 13:1]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.3|Romans 13:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

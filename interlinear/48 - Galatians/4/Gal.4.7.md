@@ -1,10 +1,57 @@
+---
+title: Galatians 4:7
+type: Verse
+kjv: "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ."
+bsb: "So you are no longer a slave, but a son; and since you are a son, you are also an heir through God."
+greek: "ὥστε οὐκέτι οὐκέτι εἶ δοῦλος ἀλλ᾽ υἱός· εἰ δὲ υἱός, καὶ κληρονόμος διὰ θεοῦ Χριστοῦ.¶"
+pericope: "[[Gal.4.1 Sons and Heirs|Sons and Heirs]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5620]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G1510]]"
+- "[[G1401]]"
+- "[[G0235]]"
+- "[[G5207]]"
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2818]]"
+- "[[G1223]]"
+- "[[G2316]]"
+- "[[G5547]]"
+texts:
+- NKO
+- K
+---
+
 **Galatians 4:7**<big><big>[[Gal.4.1 Sons and Heirs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.
 <small><sub>**BSB:**</sub></small>
 So you are no longer a slave, but a son; and since you are a son, you are also an heir through God.
-<small><sub>**Literal:**</sub></small>
-So no longer you are a slave but a son; if now a son, also an heir of through God Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.6|<< Galatians 4:6]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.8|Galatians 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1510\|εἶ]]  [[G1401\|δοῦλος]]  [[G0235\|ἀλλ᾽]]  [[G5207\|υἱός·]]  [[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G5207\|υἱός,]]  [[G2532\|καὶ]]  [[G2818\|κληρονόμος]]  [[G1223\|διὰ]]  [[G2316\|θεοῦ]]  [[G5547\|Χριστοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic GOD|GOD]] • [[topic HEIR|HEIR]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.6|<< Galatians 4:6]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.8|Galatians 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

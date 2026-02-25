@@ -1,8 +1,60 @@
+---
+title: Numbers 7:6
+type: Verse
+kjv: "And Moses took the wagons and the oxen, and gave them unto the Levites."
+bsb: "So Moses took the carts and oxen and gave them to the Levites."
+hebrew: "וַיִּקַּ֣ח מֹשֶׁ֔ה אֶת־ הָעֲגָלֹ֖ת וְאֶת־ הַבָּקָ֑ר וַיִּתֵּ֥ן אוֹתָ֖ם אֶל־ הַלְוִיִּֽם׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WAGON|WAGON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5699]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:6**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses took the wagons and the oxen, and gave them unto the Levites.
 <small><sub>**BSB:**</sub></small>
 So Moses took the carts and oxen and gave them to the Levites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H4872\|מֹשֶׁ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5699\|עֲגָלֹ֖ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1241\|בָּקָ֑ר]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֥ן]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WAGON|WAGON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.5|<< Numbers 7:5]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.7|Numbers 7:7 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: 2 Corinthians 7:12
+type: Verse
+kjv: "Wherefore, though I wrote unto you, I did it not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you."
+bsb: "So even though I wrote to you, it was not on account of the one who did wrong or the one who was harmed, but rather that your earnestness on our behalf would be made clear to you in the sight of God."
+greek: "ἄρα εἰ καὶ ἔγραψα ὑμῖν, οὐχ ἕνεκεν τοῦ ἀδικήσαντος ἀλλ᾽ οὐδὲ ἕνεκεν τοῦ ἀδικηθέντος, ἀλλ᾽ ἕνεκεν τοῦ φανερωθῆναι τὴν σπουδὴν ὑμῶν τὴν ὑπὲρ ἡμῶν πρὸς ὑμᾶς ἐνώπιον τοῦ θεοῦ."
+pericope: "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 7
+book/chapter: "[[2Cor.7|2 Corinthians 7]]"
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G0686]]"
+- "[[G1487M]]"
+- "[[G2532]]"
+- "[[G1125]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1752]]"
+- "[[G3588]]"
+- "[[G0091]]"
+- "[[G0235]]"
+- "[[G3761]]"
+- "[[G5319]]"
+- "[[G4710]]"
+- "[[G5228]]"
+- "[[G3165]]"
+- "[[G4314]]"
+- "[[G1799]]"
+- "[[G2316]]"
+texts:
+- NKO
+- O
+---
+
 **2 Corinthians 7:12**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, though I wrote unto you, [I did it] not for his cause that had done the wrong, nor for his cause that suffered wrong, but that our care for you in the sight of God might appear unto you.
 <small><sub>**BSB:**</sub></small>
 So even though I wrote to you, it was not on account of the one who did wrong or the one who was harmed, but rather that your earnestness on our behalf would be made clear to you in the sight of God.
-<small><sub>**Literal:**</sub></small>
-So if even I wrote to you, [it was] not for the sake of the [one] having done wrong but nor for the sake of the [one] having suffered wrong, but rather for the sake of <the> being revealed the earnestness of you which [is] for us to you before <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.11|<< 2 Corinthians 7:11]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.13|2 Corinthians 7:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0686\|ἄρα]]  [[G1487M\|εἰ]]  [[G2532\|καὶ]]  [[G1125\|ἔγραψα]]  [[G4771\|ὑμῖν,]]  [[G3756\|οὐχ]]  [[G1752\|ἕνεκεν]]  [[G3588\|τοῦ]]  [[G0091\|ἀδικήσαντος]]  [[G0235\|ἀλλ᾽]]  [[G3761\|οὐδὲ]]  [[G1752\|ἕνεκεν]]  [[G3588\|τοῦ]]  [[G0091\|ἀδικηθέντος,]]  [[G0235\|ἀλλ᾽]]  [[G1752\|ἕνεκεν]]  [[G3588\|τοῦ]]  [[G5319\|φανερωθῆναι]]  [[G3588\|τὴν]]  [[G4710\|σπουδὴν]]  [[G4771\|ὑμῶν]]  [[G3588\|τὴν]]  [[G5228\|ὑπὲρ]]  [[G3165\|ἡμῶν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.11|<< 2 Corinthians 7:11]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.13|2 Corinthians 7:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

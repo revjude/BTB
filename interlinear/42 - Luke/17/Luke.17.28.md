@@ -1,10 +1,60 @@
+---
+title: Luke 17:28
+type: Verse
+kjv: "Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;"
+bsb: "It was the same in the days of Lot: People were eating and drinking, buying and selling, planting and building."
+jesus_said: "Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;"
+greek: "ὁμοίως καθὼς ἐγένετο ἐν ταῖς ἡμέραις Λώτ· ἤσθιον, ἔπινον, ἠγόραζον, ἐπώλουν, ἐφύτευον, ᾠκοδόμουν."
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOT|LOT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3668]]"
+- "[[G2531]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3091]]"
+- "[[G2068]]"
+- "[[G4095]]"
+- "[[G0059]]"
+- "[[G4453]]"
+- "[[G5452]]"
+- "[[G3618]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 17:28**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;
 <small><sub>**BSB:**</sub></small>
 It was the same in the days of Lot: People were eating and drinking, buying and selling, planting and building.
-<small><sub>**Literal:**</sub></small>
-Likewise even as it came to pass in the days of Lot; they were eating, they were drinking, they were buying, they were selling, they were planting, they were building.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.27|<< Luke 17:27]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.29|Luke 17:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3668\|ὁμοίως]]  [[G2531\|καθὼς]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3091\|Λώτ·]]  [[G2068\|ἤσθιον,]]  [[G4095\|ἔπινον,]]  [[G0059\|ἠγόραζον,]]  [[G4453\|ἐπώλουν,]]  [[G5452\|ἐφύτευον,]]  [[G3618\|ᾠκοδόμουν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOT|LOT]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.27|<< Luke 17:27]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.29|Luke 17:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

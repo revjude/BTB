@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 8:8
+type: Verse
+kjv: "According to all the works which they have done since the day that I brought them up out of Egypt even unto this day, wherewith they have forsaken me, and served other gods, so do they also unto thee."
+bsb: "Just as they have done from the day I brought them up out of Egypt until this day, forsaking Me and serving other gods, so they are doing to you."
+hebrew: "כְּכָֽל־ הַמַּעֲשִׂ֣ים אֲשֶׁר־ עָשׂ֗וּ מִיּוֹם֩ הַעֲלֹתִ֨י אֹתָ֤ם מִמִּצְרַ֙יִם֙ וְעַד־ הַיּ֣וֹם הַזֶּ֔ה וַיַּ֣עַזְבֻ֔נִי וַיַּעַבְד֖וּ אֱלֹהִ֣ים אֲחֵרִ֑ים כֵּ֛ן הֵ֥מָּה עֹשִׂ֖ים גַּם־ לָֽךְ׃"
+pericope: "[[1Sam.8.1 Israel Demands a King|Israel Demands a King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4639K]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9006]]"
+- "[[H3117L]]"
+- "[[H5927H]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H5647G]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H3651C]]"
+- "[[H1992]]"
+- "[[H1571]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 8:8**<big><big>[[1Sam.8.1 Israel Demands a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to all the works which they have done since the day that I brought them up out of Egypt even unto this day, wherewith they have forsaken me, and served other gods, so do they also unto thee.
 <small><sub>**BSB:**</sub></small>
 Just as they have done from the day I brought them up out of Egypt until this day, forsaking Me and serving other gods, so they are doing to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H4639K\|מַּעֲשִׂ֣ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשׂ֗וּ]] [[H9006\|מִ]][[H3117L\|יּוֹם֩]] [[H5927H\|הַעֲלֹתִ֨]][[H9040\|י]] [[H0853\|אֹתָ֤]][[H9038\|ם]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֙יִם֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9001\|וַ]][[H5800A\|יַּ֣עַזְבֻ֔]][[H9030\|נִי]] [[H9001\|וַ]][[H5647G\|יַּעַבְד֖וּ]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֑ים]] [[H3651C\|כֵּ֛ן]] [[H1992\|הֵ֥מָּה]] [[H6213A\|עֹשִׂ֖ים]] [[H1571\|גַּם]][[H9014\|־]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.7|<< 1 Samuel 8:7]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.9|1 Samuel 8:9 >>]]</td></tr></table>
 

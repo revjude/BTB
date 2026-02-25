@@ -1,8 +1,57 @@
+---
+title: Isaiah 32:11
+type: Verse
+kjv: "Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird sackcloth upon your loins."
+bsb: "Shudder, you ladies of leisure; tremble, you daughters of complacency. Strip yourselves bare and put sackcloth around your waists."
+hebrew: "חִרְדוּ֙ שַֽׁאֲנַנּ֔וֹת רְגָ֖זָה בֹּֽטְח֑וֹת פְּשֹׁ֣טָֽה וְעֹ֔רָה וַחֲג֖וֹרָה עַל־ חֲלָצָֽיִם׃"
+pericope: "[[Isa.32.9 The Women of Jerusalem|The Women of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H2729]]"
+- "[[H7600]]"
+- "[[H7264]]"
+- "[[H0982]]"
+- "[[H6584]]"
+- "[[H9002]]"
+- "[[H6209]]"
+- "[[H2296]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2504]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 32:11**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird [sackcloth] upon [your] loins.
 <small><sub>**BSB:**</sub></small>
 Shudder, you ladies of leisure; tremble, you daughters of complacency. Strip yourselves bare and put sackcloth around your waists.
+<small><sub>**Hebrew:**</sub></small>
+[[H2729\|חִרְדוּ֙]] [[H7600\|שַֽׁאֲנַנּ֔וֹת]] [[H7264\|רְגָ֖זָה]] [[H0982\|בֹּֽטְח֑וֹת]] [[H6584\|פְּשֹׁ֣טָֽה]] [[H9002\|וְ]][[H6209\|עֹ֔רָה]] [[H9002\|וַ]][[H2296\|חֲג֖וֹרָה]] [[H5921A\|עַל]][[H9014\|־]] [[H2504\|חֲלָצָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WOMEN|WOMEN]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.10|<< Isaiah 32:10]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.12|Isaiah 32:12 >>]]</td></tr></table>
 

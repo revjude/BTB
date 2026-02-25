@@ -1,8 +1,54 @@
+---
+title: Proverbs 22:20
+type: Verse
+kjv: "Have not I written to thee excellent things in counsels and knowledge,"
+bsb: "Have I not written for you thirty sayings about counsel and knowledge,"
+hebrew: "הֲלֹ֤א כָתַ֣בְתִּי לְ֭ךָ שָׁלִישִׁ֑ים בְּמ֖וֹעֵצֹ֣ת וָדָֽעַת׃"
+pericope: "[[Prov.22.17 Saying 1|Saying 1]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H8032]]"
+- "[[H7991C]]"
+- "[[H9003]]"
+- "[[H4156]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 22:20**<big><big>[[Prov.22.17 Saying 1|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have not I written to thee excellent things in counsels and knowledge,
 <small><sub>**BSB:**</sub></small>
 Have I not written for you thirty sayings about counsel and knowledge,
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹ֤א]] [[H3789\|כָתַ֣בְתִּי]] [[H9005\|לְ֭]][[H9031\|ךָ]] [[H7991C\|שָׁלִישִׁ֑ים]] [[H9003\|בְּ]][[H4156\|מ֖וֹעֵצֹ֣ת]] [[H9002\|וָ]][[H1847\|דָֽעַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.19|<< Proverbs 22:19]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.21|Proverbs 22:21 >>]]</td></tr></table>
 

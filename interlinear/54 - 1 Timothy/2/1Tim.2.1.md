@@ -1,10 +1,58 @@
+---
+title: 1 Timothy 2:1
+type: Verse
+kjv: "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;"
+bsb: "First of all, then, I urge that petitions, prayers, intercessions, and thanksgiving be offered for everyone—"
+greek: "Παρακαλῶ οὖν πρῶτον πάντων ποιεῖσθαι δεήσεις, προσευχάς, ἐντεύξεις, εὐχαριστίας ὑπὲρ πάντων ἀνθρώπων,"
+pericope: "[[1Tim.2.1 A Call to Prayer|A Call to Prayer]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 2
+book/chapter: "[[1Tim.2|1 Timothy 2]]"
+chronological_order: 1127
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATION|NATION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G3870]]"
+- "[[G3767]]"
+- "[[G4413G]]"
+- "[[G3956]]"
+- "[[G4160G]]"
+- "[[G1162]]"
+- "[[G4335]]"
+- "[[G1783]]"
+- "[[G2169]]"
+- "[[G5228]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **1 Timothy 2:1**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I exhort therefore, that, first of all, supplications, prayers, intercessions, [and] giving of thanks, be made for all men;
 <small><sub>**BSB:**</sub></small>
 First of all, then, I urge that petitions, prayers, intercessions, and thanksgiving be offered for everyone—
-<small><sub>**Literal:**</sub></small>
-I exhort therefore first of all to be made entreaties, prayers intercessions, [and] thanksgivings on behalf of all men,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.20|<< 1 Timothy 1:20]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.2|1 Timothy 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|Παρακαλῶ]]  [[G3767\|οὖν]]  [[G4413G\|πρῶτον]]  [[G3956\|πάντων]]  [[G4160G\|ποιεῖσθαι]]  [[G1162\|δεήσεις,]]  [[G4335\|προσευχάς,]]  [[G1783\|ἐντεύξεις,]]  [[G2169\|εὐχαριστίας]]  [[G5228\|ὑπὲρ]]  [[G3956\|πάντων]]  [[G0444\|ἀνθρώπων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic KING|KING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATION|NATION]] • [[topic RULERS|RULERS]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.20|<< 1 Timothy 1:20]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.2|1 Timothy 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

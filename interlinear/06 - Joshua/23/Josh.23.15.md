@@ -1,8 +1,71 @@
+---
+title: Joshua 23:15
+type: Verse
+kjv: "Therefore it shall come to pass, that as all good things are come upon you, which the LORD your God promised you; so shall the LORD bring upon you all evil things, until he have destroyed you from off this good land which the LORD your God hath given you."
+bsb: "But just as every good thing the LORD your God promised you has come to pass, likewise the LORD will bring upon you the calamity He has threatened, until He has destroyed you from this good land He has given you."
+hebrew: "וְהָיָ֗ה כַּאֲשֶׁר־ בָּ֤א עֲלֵיכֶם֙ כָּל־ הַדָּבָ֣ר הַטּ֔וֹב אֲשֶׁ֥ר דִּבֶּ֛ר יְהוָ֥ה אֱלֹהֵיכֶ֖ם אֲלֵיכֶ֑ם כֵּן֩ יָבִ֨יא יְהוָ֜ה עֲלֵיכֶ֗ם אֵ֚ת כָּל־ הַדָּבָ֣ר הָרָ֔ע עַד־ הַשְׁמִיד֣וֹ אוֹתְכֶ֗ם מֵ֠עַל הָאֲדָמָ֤ה הַטּוֹבָה֙ הַזֹּ֔את אֲשֶׁר֙ נָתַ֣ן לָכֶ֔ם יְהוָ֖ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Josh.23.1 Joshua’s Charge to Leaders|Joshua’s Charge to Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 23
+book/chapter: "[[Josh.23|Joshua 23]]"
+chronological_order: 253
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H0935M]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2896A]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0413]]"
+- "[[H3651C]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H7451H]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H0127G]]"
+- "[[H2063]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 23:15**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore it shall come to pass, [that] as all good things are come upon you, which the LORD your God promised you; so shall the LORD bring upon you all evil things, until he have destroyed you from off this good land which the LORD your God hath given you.
 <small><sub>**BSB:**</sub></small>
 But just as every good thing the LORD your God promised you has come to pass, likewise the LORD will bring upon you the calamity He has threatened, until He has destroyed you from this good land He has given you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H0935M\|בָּ֤א]] [[H5921A\|עֲלֵי]][[H9036\|כֶם֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2896A\|טּ֔וֹב]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696I\|דִּבֶּ֛ר]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H0413\|אֲלֵי]][[H9036\|כֶ֑ם]] [[H3651C\|כֵּן֩]] [[H0935P\|יָבִ֨יא]] [[H3068G\|יְהוָ֜ה]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֗ם]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הָ]][[H7451H\|רָ֔ע]] [[H5704\|עַד]][[H9014\|־]] [[H8045\|הַשְׁמִיד֣]][[H9043\|וֹ]] [[H0853\|אוֹתְ]][[H9036\|כֶ֗ם]] [[H9006\|מֵ֠]][[H5921A\|עַל]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֤ה]] [[H9009\|הַ]][[H2896A\|טּוֹבָה֙]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0834A\|אֲשֶׁר֙]] [[H5414G\|נָתַ֣ן]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.14|<< Joshua 23:14]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.16|Joshua 23:16 >>]]</td></tr></table>
 

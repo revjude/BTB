@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Gershonites
+type: Pericope
 pericope: "[[Num.3.21 The Gershonites|The Gershonites]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 3
 book/chapter: "[[Num.3|Numbers 3]]"
-genre:
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.3.21]]"
 - "[[Num.3.22]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.3.26]]"
 ---
 
-[[Num.3|Numbers 3:21 - Numbers 3:26]]
+<small>[[Num.3|Numbers 3:21-26]]</small>
 *The Gershonites*
 
 [[Num.3.21|21]] Of Gershon \[was\] the family of the Libnites, and the family of the Shimites: these \[are\] the families of the Gershonites.

@@ -1,8 +1,66 @@
+---
+title: Jeremiah 25:38
+type: Verse
+kjv: "He hath forsaken his covert, as the lion: for their land is desolate because of the fierceness of the oppressor, and because of his fierce anger."
+bsb: "He has left His den like a lion, for their land has been made a desolation by the sword of the oppressor, and because of the fierce anger of the LORD."
+hebrew: "עָזַ֥ב כַּכְּפִ֖יר סֻכּ֑וֹ כִּֽי־ הָיְתָ֤ה אַרְצָם֙ לְשַׁמָּ֔ה מִפְּנֵי֙ חֲר֣וֹן הַיּוֹנָ֔ה וּמִפְּנֵ֖י חֲר֥וֹן אַפּֽוֹ׃ פ"
+pericope: "[[Jer.25.34 The Cry of the Shepherds|The Cry of the Shepherds]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LION|LION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H5800A]]"
+- "[[H9004]]"
+- "[[H3715A]]"
+- "[[H5520]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H8047G]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H2740]]"
+- "[[H9009]]"
+- "[[H3238]]"
+- "[[H9002]]"
+- "[[H0639G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 25:38**<big><big>[[Jer.25.34 The Cry of the Shepherds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath forsaken his covert, as the lion: for their land is desolate because of the fierceness of the oppressor, and because of his fierce anger.
 <small><sub>**BSB:**</sub></small>
 He has left His den like a lion, for their land has been made a desolation by the sword of the oppressor, and because of the fierce anger of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H5800A\|עָזַ֥ב]] [[H9004\|כַּ]][[H3715A\|כְּפִ֖יר]] [[H5520\|סֻכּ֑]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיְתָ֤ה]] [[H0776G\|אַרְצָ]][[H9028\|ם֙]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֔ה]] [[H9006\|מִ]][[H6440I\|פְּנֵי֙]] [[H2740\|חֲר֣וֹן]] [[H9009\|הַ]][[H3238\|יּוֹנָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H2740\|חֲר֥וֹן]] [[H0639G\|אַפּֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LION|LION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.37|<< Jeremiah 25:37]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.1|Jeremiah 26:1 >>]]</td></tr></table>
 
@@ -20,7 +78,7 @@ He has left His den like a lion, for their land has been made a desolation by th
 | the oppressor  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3238\|יּוֹנָ֔ה]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> yo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<from> because of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440I\|פְּנֵ֖י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] burning of  |**<big>&#8207;[[H2740\|חֲר֥וֹן]]&#8207; </big>**| cha.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| anger his  |**<big>&#8207;[[H0639G\|אַפּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.P<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| anger his  |**<big>&#8207;[[H0639G\|אַפּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.P<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.37|<< Jeremiah 25:37]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.1|Jeremiah 26:1 >>]]</td></tr></table>
 
 

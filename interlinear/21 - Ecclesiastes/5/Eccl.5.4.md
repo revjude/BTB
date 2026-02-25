@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 5:4
+type: Verse
+kjv: "When thou vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which thou hast vowed."
+bsb: "When you make a vow to God, do not delay in fulfilling it, because He takes no pleasure in fools. Fulfill your vow."
+hebrew: "כַּאֲשֶׁר֩ תִּדֹּ֨ר נֶ֜דֶר לֵֽאלֹהִ֗ים אַל־ תְּאַחֵר֙ לְשַׁלְּמ֔וֹ כִּ֛י אֵ֥ין חֵ֖פֶץ בַּכְּסִילִ֑ים אֵ֥ת אֲשֶׁר־ תִּדֹּ֖ר שַׁלֵּֽם׃"
+pericope: "[[Eccl.5.1 Approaching God with Awe|Approaching God with Awe]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5087]]"
+- "[[H5088]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0309]]"
+- "[[H7999A]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H2656]]"
+- "[[H9003]]"
+- "[[H3684]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:4**<big><big>[[Eccl.5.1 Approaching God with Awe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou vowest a vow unto God, defer not to pay it; for [he hath] no pleasure in fools: pay that which thou hast vowed.
 <small><sub>**BSB:**</sub></small>
 When you make a vow to God, do not delay in fulfilling it, because He takes no pleasure in fools. Fulfill your vow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H5087\|תִּדֹּ֨ר]] [[H5088\|נֶ֜דֶר]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֗ים]] [[H0408\|אַל]][[H9014\|־]] [[H0309\|תְּאַחֵר֙]] [[H9005\|לְ]][[H7999A\|שַׁלְּמ֔]][[H9033\|וֹ]] [[H3588A\|כִּ֛י]] [[H0369\|אֵ֥ין]] [[H2656\|חֵ֖פֶץ]] [[H9003\|בַּ]][[H3684\|כְּסִילִ֑ים]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5087\|תִּדֹּ֖ר]] [[H7999A\|שַׁלֵּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.3|<< Ecclesiastes 5:3]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.5|Ecclesiastes 5:5 >>]]</td></tr></table>
 

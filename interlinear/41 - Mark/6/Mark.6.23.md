@@ -1,10 +1,64 @@
+---
+title: Mark 6:23
+type: Verse
+kjv: "And he sware unto her, Whatsoever thou shalt ask of me, I will give it thee, unto the half of my kingdom."
+bsb: "And he swore to her, “Whatever you ask of me, I will give you, up to half my kingdom!”"
+greek: "καὶ ὤμοσεν αὐτῇ πολλὰ ὅ τι ἐάν με αἰτήσῃς δώσω σοι ἕως ἡμίσους τῆς βασιλείας μου.¶"
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3660]]"
+- "[[G0846]]"
+- "[[G4183]]"
+- "[[G3739]]"
+- "[[G5100]]"
+- "[[G1437]]"
+- "[[G3165]]"
+- "[[G0154]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G2193]]"
+- "[[G2255]]"
+- "[[G3588]]"
+- "[[G0932]]"
+texts:
+- NKO
+- N
+- N(k)O
+---
+
 **Mark 6:23**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he sware unto her, Whatsoever thou shalt ask of me, I will give [it] thee, unto the half of my kingdom.
 <small><sub>**BSB:**</sub></small>
 And he swore to her, “Whatever you ask of me, I will give you, up to half my kingdom!”
-<small><sub>**Literal:**</sub></small>
-And he swore to her greatly whatever thing if me you shall ask I will give you until half of the kingdom of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.22|<< Mark 6:22]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.24|Mark 6:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3660\|ὤμοσεν]]  [[G0846\|αὐτῇ]]  [[G4183\|πολλὰ]]  [[G3739\|ὅ]]  [[G5100\|τι]]  [[G1437\|ἐάν]]  [[G3165\|με]]  [[G0154\|αἰτήσῃς]]  [[G1325\|δώσω]]  [[G4771\|σοι]]  [[G2193\|ἕως]]  [[G2255\|ἡμίσους]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G3165\|μου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic REVENGE|REVENGE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.22|<< Mark 6:22]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.24|Mark 6:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

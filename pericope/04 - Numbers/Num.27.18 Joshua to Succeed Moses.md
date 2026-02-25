@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua to Succeed Moses
+type: Pericope
 pericope: "[[Num.27.18 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 27
 book/chapter: "[[Num.27|Numbers 27]]"
-genre:
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.27.18]]"
 - "[[Num.27.19]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.27.23]]"
 ---
 
-[[Num.27|Numbers 27:18 - Numbers 27:23]]
+<small>[[Num.27|Numbers 27:18-23]]</small>
 *Joshua to Succeed Moses*
 
 [[Num.27.18|18]] And the LORD said unto Moses, Take thee Joshua the son of Nun, a man in whom \[is\] the spirit, and lay thine hand upon him;

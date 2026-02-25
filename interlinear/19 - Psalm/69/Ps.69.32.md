@@ -1,8 +1,58 @@
+---
+title: Psalm 69:32
+type: Verse
+kjv: "The humble shall see this, and be glad: and your heart shall live that seek God."
+bsb: "The humble will see and rejoice. You who seek God, let your hearts be revived!"
+hebrew: "רָא֣וּ עֲנָוִ֣ים יִשְׂמָ֑חוּ דֹּרְשֵׁ֥י אֱ֝לֹהִ֗ים וִיחִ֥י לְבַבְכֶֽם׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H7200G]]"
+- "[[H6035]]"
+- "[[H8055]]"
+- "[[H1875]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:32**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The humble shall see [this, and] be glad: and your heart shall live that seek God.
 <small><sub>**BSB:**</sub></small>
 The humble will see and rejoice. You who seek God, let your hearts be revived!
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָא֣וּ]] [[H6035\|עֲנָוִ֣ים]] [[H8055\|יִשְׂמָ֑חוּ]] [[H1875\|דֹּרְשֵׁ֥י]] [[H0430G\|אֱ֝לֹהִ֗ים]] [[H9002\|וִ]][[H2421\|יחִ֥י]] [[H3824\|לְבַבְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.31|<< Psalms 69:31]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.33|Psalms 69:33 >>]]</td></tr></table>
 

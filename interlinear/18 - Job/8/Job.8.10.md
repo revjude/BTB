@@ -1,8 +1,58 @@
+---
+title: Job 8:10
+type: Verse
+kjv: "Shall not they teach thee, and tell thee, and utter words out of their heart?"
+bsb: "Will they not teach you and tell you, and speak from their understanding?"
+hebrew: "הֲלֹא־ הֵ֣ם י֭וֹרוּךָ יֹ֣אמְרוּ לָ֑ךְ וּ֝מִלִּבָּ֗ם יוֹצִ֥אוּ מִלִּֽים׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HISTORY|HISTORY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H3384B]]"
+- "[[H9031]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H3318O]]"
+- "[[H4405]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:10**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall not they teach thee, [and] tell thee, and utter words out of their heart?
 <small><sub>**BSB:**</sub></small>
 Will they not teach you and tell you, and speak from their understanding?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H1992\|הֵ֣ם]] [[H3384B\|י֭וֹרוּ]][[H9031\|ךָ]] [[H0559\|יֹ֣אמְרוּ]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9002\|וּ֝]][[H9006\|מִ]][[H3820A\|לִּבָּ֗]][[H9028\|ם]] [[H3318O\|יוֹצִ֥אוּ]] [[H4405\|מִלִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HISTORY|HISTORY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.9|<< Job 8:9]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.11|Job 8:11 >>]]</td></tr></table>
 

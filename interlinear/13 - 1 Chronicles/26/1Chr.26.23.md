@@ -1,8 +1,47 @@
+---
+title: 1 Chronicles 26:23
+type: Verse
+kjv: "Of the Amramites, and the Izharites, the Hebronites, and the Uzzielites:"
+bsb: "From the Amramites, the Izharites, the Hebronites, and the Uzzielites:"
+hebrew: "לַֽעַמְרָמִי֙ לַיִּצְהָרִ֔י לַֽחֶבְרוֹנִ֖י לָֽעָזִּיאֵלִֽי׃"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMRAM|AMRAM]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9005]]"
+- "[[H6020]]"
+- "[[H3325]]"
+- "[[H2276]]"
+- "[[H5817]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:23**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the Amramites, [and] the Izharites, the Hebronites, [and] the Uzzielites:
 <small><sub>**BSB:**</sub></small>
 From the Amramites, the Izharites, the Hebronites, and the Uzzielites:
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַֽ]][[H6020\|עַמְרָמִי֙]] [[H9005\|לַ]][[H3325\|יִּצְהָרִ֔י]] [[H9005\|לַֽ]][[H2276\|חֶבְרוֹנִ֖י]] [[H9005\|לָֽ]][[H5817\|עָזִּיאֵלִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMRAM|AMRAM]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.22|<< 1 Chronicles 26:22]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.24|1 Chronicles 26:24 >>]]</td></tr></table>
 

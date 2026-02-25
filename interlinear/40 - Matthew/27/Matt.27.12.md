@@ -1,10 +1,55 @@
+---
+title: Matthew 27:12
+type: Verse
+kjv: "And when he was accused of the chief priests and elders, he answered nothing."
+bsb: "And when He was accused by the chief priests and elders, He gave no answer."
+greek: "καὶ ἐν τῷ κατηγορεῖσθαι αὐτὸν ὑπὸ τῶν ἀρχιερέων καὶ τῶν πρεσβυτέρων οὐδὲν ἀπεκρίνατο.¶"
+pericope: "[[Matt.27.11 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2723]]"
+- "[[G0846]]"
+- "[[G5259G]]"
+- "[[G0749]]"
+- "[[G4245G]]"
+- "[[G3762]]"
+- "[[G0611]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 27:12**<big><big>[[Matt.27.11 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was accused of the chief priests and elders, he answered nothing.
 <small><sub>**BSB:**</sub></small>
 And when He was accused by the chief priests and elders, He gave no answer.
-<small><sub>**Literal:**</sub></small>
-And in <the> accusing of Him by the chief priests and the elders no [thing] He answered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.11|<< Matthew 27:11]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.13|Matthew 27:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2723\|κατηγορεῖσθαι]]  [[G0846\|αὐτὸν]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G0749\|ἀρχιερέων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G3762\|οὐδὲν]]  [[G0611\|ἀπεκρίνατο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]] • [[topic SELF-CONTROL|SELF-CONTROL]] • [[topic SELF-DEFENSE|SELF-DEFENSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.11|<< Matthew 27:11]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.13|Matthew 27:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

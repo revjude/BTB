@@ -1,10 +1,67 @@
+---
+title: Acts 17:31
+type: Verse
+kjv: "Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead."
+bsb: "For He has set a day when He will judge the world with justice by the Man He has appointed. He has given proof of this to everyone by raising Him from the dead.”"
+greek: "καθότι ἔστησεν ἡμέραν ἐν ᾗ μέλλει κρίνειν τὴν οἰκουμένην ἐν δικαιοσύνῃ ἐν ἀνδρὶ ᾧ ὥρισεν πίστιν παρασχὼν πᾶσιν, ἀναστήσας αὐτὸν ἐκ νεκρῶν.¶"
+pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2530]]"
+- "[[G2476]]"
+- "[[G2250]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G3195]]"
+- "[[G2919]]"
+- "[[G3588]]"
+- "[[G3625]]"
+- "[[G1343]]"
+- "[[G0435G]]"
+- "[[G3724]]"
+- "[[G4102G]]"
+- "[[G3930]]"
+- "[[G3956]]"
+- "[[G0450]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Acts 17:31**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Because he hath appointed a day, in the which he will judge the world in righteousness by [that] man whom he hath ordained; [whereof] he hath given assurance unto all [men], in that he hath raised him from the dead.
 <small><sub>**BSB:**</sub></small>
 For He has set a day when He will judge the world with justice by the Man He has appointed. He has given proof of this to everyone by raising Him from the dead.”
-<small><sub>**Literal:**</sub></small>
-just as He set a day in which He is about to judge the world in righteousness by a man whom He appointed a guarantee having provided to all, having raised Him out from [the] dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.30|<< Acts 17:30]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.32|Acts 17:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2530\|καθότι]]  [[G2476\|ἔστησεν]]  [[G2250\|ἡμέραν]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G3195\|μέλλει]]  [[G2919\|κρίνειν]]  [[G3588\|τὴν]]  [[G3625\|οἰκουμένην]]  [[G1722\|ἐν]]  [[G1343\|δικαιοσύνῃ]]  [[G1722\|ἐν]]  [[G0435G\|ἀνδρὶ]]  [[G3739\|ᾧ]]  [[G3724\|ὥρισεν]]  [[G4102G\|πίστιν]]  [[G3930\|παρασχὼν]]  [[G3956\|πᾶσιν,]]  [[G0450\|ἀναστήσας]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.30|<< Acts 17:30]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.32|Acts 17:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 17:31** is...
 > $\quad$ alluding to: [[LXX.Ps.9.8|Ps 9:8-9]] ☩ [[LXX.Ps.96.13|Ps 96:13]] ☩ [[LXX.Ps.98.9|Ps 98:9]]

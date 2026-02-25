@@ -1,8 +1,55 @@
+---
+title: Genesis 9:19
+type: Verse
+kjv: "These are the three sons of Noah: and of them was the whole earth overspread."
+bsb: "These three were the sons of Noah, and from them the whole earth was populated."
+hebrew: "שְׁלֹשָׁ֥ה אֵ֖לֶּה בְּנֵי־ נֹ֑חַ וּמֵאֵ֖לֶּה נָֽפְצָ֥ה כָל־ הָאָֽרֶץ׃"
+pericope: "[[Gen.9.18 Noah’s Shame and Canaan’s Curse|Noah’s Shame and Canaan’s Curse]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HAM|HAM]]"
+strongs:
+- "[[H7969]]"
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5146]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5310B]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:19**<big><big>[[Gen.9.18 Noah’s Shame and Canaan’s Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the three sons of Noah: and of them was the whole earth overspread.
 <small><sub>**BSB:**</sub></small>
 These three were the sons of Noah, and from them the whole earth was populated.
+<small><sub>**Hebrew:**</sub></small>
+[[H7969\|שְׁלֹשָׁ֥ה]] [[H0428\|אֵ֖לֶּה]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H5146\|נֹ֑חַ]] [[H9002\|וּ]][[H9006\|מֵ]][[H0428\|אֵ֖לֶּה]] [[H5310B\|נָֽפְצָ֥ה]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAM|HAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.18|<< Genesis 9:18]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.20|Genesis 9:20 >>]]</td></tr></table>
 

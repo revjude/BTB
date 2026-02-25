@@ -1,10 +1,60 @@
+---
+title: Romans 13:4
+type: Verse
+kjv: "For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil."
+bsb: "For he is God’s servant for your good. But if you do wrong, be afraid, for he does not carry the sword in vain. He is God’s servant, an agent of retribution to the wrongdoer."
+greek: "θεοῦ γὰρ διάκονός ἐστιν σοὶ εἰς τὸ ἀγαθόν. ἐὰν δὲ τὸ κακὸν ποιῇς, φοβοῦ· οὐ γὰρ εἰκῇ τὴν μάχαιραν φορεῖ. θεοῦ γὰρ διάκονός ἐστιν ἔκδικος εἰς ὀργὴν τῷ τὸ κακὸν πράσσοντι."
+pericope: "[[Rom.13.1 Submission to Authorities|Submission to Authorities]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2316]]"
+- "[[G1063]]"
+- "[[G1249]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2556G]]"
+- "[[G4160G]]"
+- "[[G5399]]"
+- "[[G3756]]"
+- "[[G1500]]"
+- "[[G3162]]"
+- "[[G5409]]"
+- "[[G1558]]"
+- "[[G3709]]"
+- "[[G4238]]"
+texts:
+- NKO
+---
+
 **Romans 13:4**<big><big>[[Rom.13.1 Submission to Authorities|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to [execute] wrath upon him that doeth evil.
 <small><sub>**BSB:**</sub></small>
 For he is God’s servant for your good. But if you do wrong, be afraid, for he does not carry the sword in vain. He is God’s servant, an agent of retribution to the wrongdoer.
-<small><sub>**Literal:**</sub></small>
-Of God for servant he is to you for <the> good. If however <the> evil you shall do, do be afraid; not for in vain the sword he bears. of God for a servant He is an avenger for wrath to the [one] <the> evil doing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.3|<< Romans 13:3]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.5|Romans 13:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2316\|θεοῦ]]  [[G1063\|γὰρ]]  [[G1249\|διάκονός]]  [[G1510\|ἐστιν]]  [[G4771\|σοὶ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G0018\|ἀγαθόν.]]  [[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G2556G\|κακὸν]]  [[G4160G\|ποιῇς,]]  [[G5399\|φοβοῦ·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G1500\|εἰκῇ]]  [[G3588\|τὴν]]  [[G3162\|μάχαιραν]]  [[G5409\|φορεῖ.]]  [[G2316\|θεοῦ]]  [[G1063\|γὰρ]]  [[G1249\|διάκονός]]  [[G1510\|ἐστιν]]  [[G1558\|ἔκδικος]]  [[G1519\|εἰς]]  [[G3709\|ὀργὴν]]  [[G3588\|τῷ]]  [[G3588\|τὸ]]  [[G2556G\|κακὸν]]  [[G4238\|πράσσοντι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.3|<< Romans 13:3]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.5|Romans 13:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,69 @@
+---
+title: LXX Numbers 23:3
+type: Verse
+lxx: "And Balaam said to Balak, You stand beside  your sacrifice! and I shall go and see if God shall appear to meet with me. And the saying which ever he shall show to me I shall announce to you. And he went straight."
+greek: "και είπε Βαλαάμ προς Βαλαάκ παράστηθι επί της θυσίας σου και πορεύσομαι ει μοι φανείται ο θεός εν συναντήσει και ρήμα ο αν μοι δείξει αναγγελώ σοι και επορεύθη ευθείαν"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0903]]"
+- "[[G4314]]"
+- "[[G0904]]"
+- "[[G3936]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2378]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G1487]]"
+- "[[G1473]]"
+- "[[G5316]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G4877]]"
+- "[[G2532]]"
+- "[[G4487]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G1473]]"
+- "[[G1166]]"
+- "[[G0312]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G2117]]"
+---
+
 **LXX Numbers 23:3** 
 <small><sub>**LXX:**</sub></small>
 And Balaam said to Balak, You stand beside  your sacrifice! and I shall go \[and see\] if God shall appear to meet with me. And \[the\] saying which ever he shall show to me I shall announce to you. And he went straight. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G0903\|Βαλαάμ]] [[G4314\|προς]] [[G0904\|Βαλαάκ]] [[G3936\|παράστηθι]] [[G1909\|επί]] [[G3588\|της]] [[G2378\|θυσίας]] [[G1473\|σου]] [[G2532\|και]] [[G4198\|πορεύσομαι]] [[G1487\|ει]] [[G1473\|μοι]] [[G5316\|φανείται]] [[G3588\|ο]] [[G2316\|θεός]] [[G1722\|εν]] [[G4877\|συναντήσει]] [[G2532\|και]] [[G4487\|ρήμα]] [[G3739\|ο]] [[G0302\|αν]] [[G1473\|μοι]] [[G1166\|δείξει]] [[G0312\|αναγγελώ]] [[G1473\|σοι]] [[G2532\|και]] [[G4198\|επορεύθη]] [[G2117\|ευθείαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.2|<< Numbers 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.4|Numbers 23:4 >>]]</td></tr></table>
 
@@ -33,6 +96,6 @@ And Balaam said to Balak, You stand beside  your sacrifice! and I shall go \[and
 | And | **<big>[[G2532\|και]]</big>** |
 | he went | **<big>[[G4198\|επορεύθη]]</big>** |
 | straight. | **<big>[[G2117\|ευθείαν]]</big>** |
-[[Num.23.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.2|<< Numbers 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.4|Numbers 23:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.23.2|<< Numbers 23:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.23.4|Numbers 23:4 >>]]</td></tr></table>
 
 

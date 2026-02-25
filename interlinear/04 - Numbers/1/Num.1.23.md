@@ -1,8 +1,58 @@
+---
+title: Numbers 1:23
+type: Verse
+kjv: "Those that were numbered of them, even of the tribe of Simeon, were fifty and nine thousand and three hundred."
+bsb: "those registered to the tribe of Simeon numbered 59,300."
+hebrew: "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה שִׁמְע֑וֹן תִּשְׁעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וּשְׁלֹ֥שׁ מֵאֽוֹת׃ פ"
+pericope: "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H8095G]]"
+- "[[H8672]]"
+- "[[H9002]]"
+- "[[H2572]]"
+- "[[H0505G]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 1:23**<big><big>[[Num.1.17 The Number of Every Tribe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Those that were numbered of them, [even] of the tribe of Simeon, [were] fifty and nine thousand and three hundred.
 <small><sub>**BSB:**</sub></small>
 those registered to the tribe of Simeon numbered 59,300.
+<small><sub>**Hebrew:**</sub></small>
+[[H6485A\|פְּקֻדֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H4294H\|מַטֵּ֣ה]] [[H8095G\|שִׁמְע֑וֹן]] [[H8672\|תִּשְׁעָ֧ה]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֛ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וּ]][[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.22|<< Numbers 1:22]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.24|Numbers 1:24 >>]]</td></tr></table>
 
@@ -15,7 +65,7 @@ those registered to the tribe of Simeon numbered 59,300.
 | and fifty  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2572\|חֲמִשִּׁ֛ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and three  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7969\|שְׁלֹ֥שׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.22|<< Numbers 1:22]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.24|Numbers 1:24 >>]]</td></tr></table>
 
 

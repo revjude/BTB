@@ -1,8 +1,58 @@
+---
+title: Jeremiah 49:35
+type: Verse
+kjv: "Thus saith the LORD of hosts; Behold, I will break the bow of Elam, the chief of their might."
+bsb: "This is what the LORD of Hosts says: “Behold, I will shatter Elam’s bow, the mainstay of their might."
+hebrew: "כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הִנְנִ֥י שֹׁבֵ֖ר אֶת־ קֶ֣שֶׁת עֵילָ֑ם רֵאשִׁ֖ית גְּבוּרָתָֽם׃"
+pericope: "[[Jer.49.34 Judgment on Elam|Judgment on Elam]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BOW|BOW]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7665]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7198]]"
+- "[[H5867A]]"
+- "[[H7225H]]"
+- "[[H1369]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:35**<big><big>[[Jer.49.34 Judgment on Elam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts; Behold, I will break the bow of Elam, the chief of their might.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “Behold, I will shatter Elam’s bow, the mainstay of their might.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H7665\|שֹׁבֵ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H7198\|קֶ֣שֶׁת]] [[H5867A\|עֵילָ֑ם]] [[H7225H\|רֵאשִׁ֖ית]] [[H1369\|גְּבוּרָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOW|BOW]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.34|<< Jeremiah 49:34]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.36|Jeremiah 49:36 >>]]</td></tr></table>
 

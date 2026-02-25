@@ -1,8 +1,76 @@
+---
+title: 1 Kings 8:44
+type: Verse
+kjv: "If thy people go out to battle against their enemy, whithersoever thou shalt send them, and shall pray unto the LORD toward the city which thou hast chosen, and toward the house that I have built for thy name:"
+bsb: "When Your people go to war against their enemies, wherever You send them, and when they pray to the LORD in the direction of the city You have chosen and the house I have built for Your Name,"
+hebrew: "כִּי־ יֵצֵ֨א עַמְּךָ֤ לַמִּלְחָמָה֙ עַל־ אֹ֣יְב֔וֹ בַּדֶּ֖רֶךְ אֲשֶׁ֣ר תִּשְׁלָחֵ֑ם וְהִתְפַּֽלְל֣וּ אֶל־ יְהוָ֗ה דֶּ֤רֶךְ הָעִיר֙ אֲשֶׁ֣ר בָּחַ֣רְתָּ בָּ֔הּ וְהַבַּ֖יִת אֲשֶׁר־ בָּנִ֥תִי לִשְׁמֶֽךָ׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H5921A]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H6419]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H1870J]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0977]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H1129]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:44**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thy people go out to battle against their enemy, whithersoever thou shalt send them, and shall pray unto the LORD toward the city which thou hast chosen, and [toward] the house that I have built for thy name:
 <small><sub>**BSB:**</sub></small>
 When Your people go to war against their enemies, wherever You send them, and when they pray to the LORD in the direction of the city You have chosen and the house I have built for Your Name,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3318G\|יֵצֵ֨א]] [[H5971A\|עַמְּ]][[H9021\|ךָ֤]] [[H9005\|לַ]][[H4421\|מִּלְחָמָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0341\|אֹ֣יְב֔]][[H9023\|וֹ]] [[H9003\|בַּ]][[H1870L\|דֶּ֖רֶךְ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7971G\|תִּשְׁלָחֵ֑]][[H9038\|ם]] [[H9001\|וְ]][[H6419\|הִתְפַּֽלְל֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H1870J\|דֶּ֤רֶךְ]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0977\|בָּחַ֣רְתָּ]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1129\|בָּנִ֥תִי]] [[H9005\|לִ]][[H8034\|שְׁמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.43|<< 1 Kings 8:43]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.45|1 Kings 8:45 >>]]</td></tr></table>
 

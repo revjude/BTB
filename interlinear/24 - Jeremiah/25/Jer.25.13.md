@@ -1,8 +1,68 @@
+---
+title: Jeremiah 25:13
+type: Verse
+kjv: "And I will bring upon that land all my words which I have pronounced against it, even all that is written in this book, which Jeremiah hath prophesied against all the nations."
+bsb: "I will bring upon that land all the words I have pronounced against it, all that is written in this book, which Jeremiah has prophesied against all the nations."
+hebrew: "וְהֵֽבֵאתִי֙ עַל־ הָאָ֣רֶץ הַהִ֔יא אֶת־ כָּל־ דְּבָרַ֖י אֲשֶׁר־ דִּבַּ֣רְתִּי עָלֶ֑יהָ אֵ֤ת כָּל־ הַכָּתוּב֙ בַּסֵּ֣פֶר הַזֶּ֔ה אֲשֶׁר־ נִבָּ֥א יִרְמְיָ֖הוּ עַל־ כָּל־ הַגּוֹיִֽם׃"
+pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9034]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H5612H]]"
+- "[[H2088]]"
+- "[[H5012]]"
+- "[[H3414L]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Jeremiah 25:13**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring upon that land all my words which I have pronounced against it, [even] all that is written in this book, which Jeremiah hath prophesied against all the nations.
 <small><sub>**BSB:**</sub></small>
 I will bring upon that land all the words I have pronounced against it, all that is written in this book, which Jeremiah has prophesied against all the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵֽבֵאתִי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H1931\|הִ֔יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דְּבָרַ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבַּ֣רְתִּי]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3789\|כָּתוּב֙]] [[H9003\|בַּ]][[H5612H\|סֵּ֣פֶר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5012\|נִבָּ֥א]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.12|<< Jeremiah 25:12]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.14|Jeremiah 25:14 >>]]</td></tr></table>
 

@@ -1,8 +1,88 @@
+---
+title: Obadiah 1:1
+type: Verse
+kjv: "The vision of Obadiah. Thus saith the Lord GOD concerning Edom; We have heard a rumour from the LORD, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle."
+bsb: "This is the vision of Obadiah: This is what the Lord GOD says about Edom—We have heard a message from the LORD; an envoy has been sent among the nations to say, “Rise up, and let us go to battle against her!”—"
+hebrew: "חֲז֖וֹן עֹֽבַדְיָ֑ה כֹּֽה־ אָמַר֩ אֲדֹנָ֨י יְהוִ֜ה לֶאֱד֗וֹם שְׁמוּעָ֨ה שָׁמַ֜עְנוּ מֵאֵ֤ת יְהוָה֙ וְצִיר֙ בַּגּוֹיִ֣ם שֻׁלָּ֔ח ק֛וּמוּ וְנָק֥וּמָה עָלֶיהָ לַמִּלְחָמָֽה׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DAY|DAY]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OBADIAH|OBADIAH]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic ROCK|ROCK]]"
+- "[[topic SECURITY|SECURITY]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SEPHARAD|SEPHARAD]]"
+- "[[topic TEMAN|TEMAN]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic VISION|VISION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H2377]]"
+- "[[H5662R]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9005]]"
+- "[[H0123G]]"
+- "[[H8052]]"
+- "[[H8085G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H6735A]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H7971G]]"
+- "[[H6965J]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:1**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The vision of Obadiah. Thus saith the Lord GOD concerning Edom; We have heard a rumour from the LORD, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.
 <small><sub>**BSB:**</sub></small>
 This is the vision of Obadiah: This is what the Lord GOD says about Edom—We have heard a message from the LORD; an envoy has been sent among the nations to say, “Rise up, and let us go to battle against her!”—
+<small><sub>**Hebrew:**</sub></small>
+[[H2377\|חֲז֖וֹן]] [[H5662R\|עֹֽבַדְיָ֑ה]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֩]] [[H0136\|אֲדֹנָ֨י]] [[H3069\|יְהוִ֜ה]] [[H9005\|לֶ]][[H0123G\|אֱד֗וֹם]] [[H8052\|שְׁמוּעָ֨ה]] [[H8085G\|שָׁמַ֜עְנוּ]] [[H9006\|מֵ]][[H0854\|אֵ֤ת]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H6735A\|צִיר֙]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֣ם]] [[H7971G\|שֻׁלָּ֔ח]] [[H6965J\|ק֛וּמוּ]] [[H9002\|וְ]][[H6965J\|נָק֥וּמָה]] [[H5921A\|עָלֶי]][[H9034\|הָ]] [[H9005\|לַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic BROTHER|BROTHER]] • [[topic CHARACTER|CHARACTER]] • [[topic CHILDREN|CHILDREN]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DAY|DAY]] • [[topic DECEIT|DECEIT]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic ESAU|ESAU]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OBADIAH|OBADIAH]] • [[topic PRIDE|PRIDE]] • [[topic PROPHETS|PROPHETS]] • [[topic ROCK|ROCK]] • [[topic SECURITY|SECURITY]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SEPHARAD|SEPHARAD]] • [[topic TEMAN|TEMAN]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic VISION|VISION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.15|<< Amos 9:15]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.2|Obadiah 1:2 >>]]</td></tr></table>
 

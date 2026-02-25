@@ -1,8 +1,57 @@
+---
+title: Exodus 21:23
+type: Verse
+kjv: "And if any mischief follow, then thou shalt give life for life,"
+bsb: "But if a serious injury results, then you must require a life for a life—"
+hebrew: "וְאִם־ אָס֖וֹן יִהְיֶ֑ה וְנָתַתָּ֥ה נֶ֖פֶשׁ תַּ֥חַת נָֽפֶשׁ׃"
+pericope: "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABORTION|ABORTION]]"
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0611]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H5414N]]"
+- "[[H5315H]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 21:23**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if [any] mischief follow, then thou shalt give life for life,
 <small><sub>**BSB:**</sub></small>
 But if a serious injury results, then you must require a life for a life—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0611\|אָס֖וֹן]] [[H1961\|יִהְיֶ֑ה]] [[H9001\|וְ]][[H5414N\|נָתַתָּ֥ה]] [[H5315H\|נֶ֖פֶשׁ]] [[H8478H\|תַּ֥חַת]] [[H5315H\|נָֽפֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABORTION|ABORTION]] • [[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic RETALIATION|RETALIATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.22|<< Exodus 21:22]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.24|Exodus 21:24 >>]]</td></tr></table>
 

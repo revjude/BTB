@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: It Is Good to Sing Praises
+type: Pericope
 pericope: "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 147
 book/chapter: "[[Ps.147|Psalm 147]]"
-genre:
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 20
 verses:
 - "[[Ps.147.1]]"
 - "[[Ps.147.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Ps.147.20]]"
 ---
 
-[[Ps.147|Psalm 147:1 - Psalm 147:20]]
+<small>[[Ps.147|Psalm 147:1-20]]</small>
 *It Is Good to Sing Praises*
 
 [[Ps.147.1|1]] Praise ye the LORD: for \[it is\] good to sing praises unto our God; for \[it is\] pleasant; \[and\] praise is comely.

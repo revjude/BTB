@@ -1,10 +1,66 @@
+---
+title: Hebrews 9:2
+type: Verse
+kjv: "For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary."
+bsb: "A tabernacle was prepared. In its first room were the lampstand, the table, and the consecrated bread. This was called the Holy Place."
+greek: "σκηνὴ γὰρ κατεσκευάσθη ἡ πρώτη ἐν ᾗ ἥ τε λυχνία καὶ ἡ τράπεζα καὶ ἡ πρόθεσις τῶν ἄρτων, ἥτις λέγεται ἅγια."
+pericope: "[[Heb.9.1 The Earthly Tabernacle|The Earthly Tabernacle]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 9
+book/chapter: "[[Heb.9|Hebrews 9]]"
+chronological_order: 1148
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANCTUARY|SANCTUARY]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4633]]"
+- "[[G1063]]"
+- "[[G2680]]"
+- "[[G3588]]"
+- "[[G4413G]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G5037]]"
+- "[[G3087]]"
+- "[[G2532]]"
+- "[[G5132]]"
+- "[[G4286]]"
+- "[[G0740]]"
+- "[[G3748]]"
+- "[[G3004H]]"
+- "[[G0039G]]"
+texts:
+- NKO
+---
+
 **Hebrews 9:2**<big><big>[[Heb.9.1 The Earthly Tabernacle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For there was a tabernacle made; the first, wherein [was] the candlestick, and the table, and the shewbread; which is called the sanctuary.
 <small><sub>**BSB:**</sub></small>
 A tabernacle was prepared. In its first room were the lampstand, the table, and the consecrated bread. This was called the Holy Place.
-<small><sub>**Literal:**</sub></small>
-A tabernacle for was prepared the first [room] — in which [were] <the> both the lampstand and the table and of the presentation the bread — which is named [the] Holy [Places].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.1|<< Hebrews 9:1]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.3|Hebrews 9:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4633\|σκηνὴ]]  [[G1063\|γὰρ]]  [[G2680\|κατεσκευάσθη]]  [[G3588\|ἡ]]  [[G4413G\|πρώτη]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G3588\|ἥ]]  [[G5037\|τε]]  [[G3087\|λυχνία]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5132\|τράπεζα]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4286\|πρόθεσις]]  [[G3588\|τῶν]]  [[G0740\|ἄρτων,]]  [[G3748\|ἥτις]]  [[G3004H\|λέγεται]]  [[G0039G\|ἅγια.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic SANCTUARY|SANCTUARY]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TYPES|TYPES]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.9.1|<< Hebrews 9:1]]</td><td align="center" style="border:none;">[[Heb.9|Hebrews 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.9.3|Hebrews 9:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 9:2** is...
 > $\quad$ alluding to: [[LXX.Exod.25.23|Exod 25:23]] ☩ [[LXX.Exod.26.36|Exod 26:36]] ☩ [[LXX.Num.17.10|Num 17:10]]

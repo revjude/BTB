@@ -1,10 +1,59 @@
+---
+title: Acts 11:16
+type: Verse
+kjv: "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost."
+bsb: "Then I remembered the word of the Lord, how He said, ‘John baptized with water, but you will be baptized with the Holy Spirit.’"
+jesus_said: "John indeed baptized with water; but ye shall be baptized with the Holy Ghost."
+greek: "ἐμνήσθην δὲ τοῦ ῥήματος τοῦ κυρίου, ὡς ἔλεγεν· Ἰωάννης μὲν ἐβάπτισεν ὕδατι, ὑμεῖς δὲ βαπτισθήσεσθε ἐν πνεύματι ἁγίῳ."
+pericope: "[[Acts.11.1 Peter’s Report at Jerusalem|Peter’s Report at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3403]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G2962G]]"
+- "[[G5613]]"
+- "[[G3004G]]"
+- "[[G2491G]]"
+- "[[G3303]]"
+- "[[G0907]]"
+- "[[G5204]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 11:16**<big><big>[[Acts.11.1 Peter’s Report at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost.
 <small><sub>**BSB:**</sub></small>
 Then I remembered the word of the Lord, how He said, ‘John baptized with water, but you will be baptized with the Holy Spirit.’
-<small><sub>**Literal:**</sub></small>
-I remembered then the declaration of the Lord, how He was saying: John indeed baptized with water, you yourselves however will be baptized with [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.15|<< Acts 11:15]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.17|Acts 11:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3403\|ἐμνήσθην]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G4487\|ῥήματος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου,]]  [[G5613\|ὡς]]  [[G3004G\|ἔλεγεν·]]  [[G2491G\|Ἰωάννης]]  [[G3303\|μὲν]]  [[G0907\|ἐβάπτισεν]]  [[G5204\|ὕδατι,]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G0907\|βαπτισθήσεσθε]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic GENTILES|GENTILES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.15|<< Acts 11:15]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.17|Acts 11:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahab’s Seventy Sons Killed
+type: Pericope
 pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 10
 book/chapter: "[[2Kgs.10|2 Kings 10]]"
-genre:
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 17
 verses:
 - "[[2Kgs.10.1]]"
 - "[[2Kgs.10.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[2Kgs.10.17]]"
 ---
 
-[[2Kgs.10|2 Kings 10:1 - 2 Kings 10:17]]
+<small>[[2Kgs.10|2 Kings 10:1-17]]</small>
 *Ahab’s Seventy Sons Killed*
 
 [[2Kgs.10.1|1]] And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab’s \[children\], saying,

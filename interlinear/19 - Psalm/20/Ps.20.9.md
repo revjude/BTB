@@ -1,8 +1,52 @@
+---
+title: Psalm 20:9
+type: Verse
+kjv: "Save, LORD: let the king hear us when we call."
+bsb: "O LORD, save the king. Answer us on the day we call."
+hebrew: "יְהוָ֥ה הוֹשִׁ֑יעָה הַ֝מֶּ֗לֶךְ יַעֲנֵ֥נוּ בְיוֹם־ קָרְאֵֽנוּ׃"
+pericope: "[[Ps.20.1 The Day of Trouble|The Day of Trouble]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 20
+book/chapter: "[[Ps.20|Psalm 20]]"
+chronological_order: 353
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H3068G]]"
+- "[[H3467]]"
+- "[[H9012]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6030B]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H7121G]]"
+- "[[H9045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 20:9**<big><big>[[Ps.20.1 The Day of Trouble|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save, LORD: let the king hear us when we call.
 <small><sub>**BSB:**</sub></small>
 O LORD, save the king. Answer us on the day we call.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֥ה]] [[H3467\|הוֹשִׁ֑יעָ]][[H9012\|ה]] [[H9009\|הַ֝]][[H4428G\|מֶּ֗לֶךְ]] [[H6030B\|יַעֲנֵ֥]][[H9035\|נוּ]] [[H9003\|בְ]][[H3117G\|יוֹם]][[H9014\|־]] [[H7121G\|קָרְאֵֽ]][[H9045\|נוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.20.8|<< Psalms 20:8]]</td><td align="center" style="border:none;">[[Ps.20|Psalms 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.0|Psalms 21:0 >>]]</td></tr></table>
 

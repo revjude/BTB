@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Esther Appeals for the Jews
+type: Pericope
 pericope: "[[Esth.8.1 Esther Appeals for the Jews|Esther Appeals for the Jews]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 8
 book/chapter: "[[Esth.8|Esther 8]]"
-genre:
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 6
 verses:
 - "[[Esth.8.1]]"
 - "[[Esth.8.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Esth.8.6]]"
 ---
 
-[[Esth.8|Esther 8:1 - Esther 8:6]]
+<small>[[Esth.8|Esther 8:1-6]]</small>
 *Esther Appeals for the Jews*
 
 [[Esth.8.1|1]] On that day did the king Ahasuerus give the house of Haman the Jews’ enemy unto Esther the queen. And Mordecai came before the king; for Esther had told what he \[was\] unto her.

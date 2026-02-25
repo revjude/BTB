@@ -1,10 +1,50 @@
+---
+title: Luke 19:33
+type: Verse
+kjv: "And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?"
+bsb: "As they were untying the colt, its owners asked, “Why are you untying the colt?”"
+greek: "λυόντων δὲ αὐτῶν τὸν πῶλον εἶπαν οἱ κύριοι αὐτοῦ πρὸς αὐτούς· τί λύετε τὸν πῶλον;"
+pericope: "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3089]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4454]]"
+- "[[G2036]]"
+- "[[G2962H]]"
+- "[[G4314]]"
+- "[[G5101]]"
+texts:
+- NKO
+---
+
 **Luke 19:33**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they were loosing the colt, the owners thereof said unto them, Why loose ye the colt?
 <small><sub>**BSB:**</sub></small>
 As they were untying the colt, its owners asked, “Why are you untying the colt?”
-<small><sub>**Literal:**</sub></small>
-When are untying then they the colt said the masters of it to them; Why untie you the colt?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.32|<< Luke 19:32]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.34|Luke 19:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3089\|λυόντων]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G3588\|τὸν]]  [[G4454\|πῶλον]]  [[G2036\|εἶπαν]]  [[G3588\|οἱ]]  [[G2962H\|κύριοι]]  [[G0846\|αὐτοῦ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G5101\|τί]]  [[G3089\|λύετε]]  [[G3588\|τὸν]]  [[G4454\|πῶλον;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.32|<< Luke 19:32]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.34|Luke 19:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

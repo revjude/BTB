@@ -1,8 +1,56 @@
+---
+title: Zechariah 14:1
+type: Verse
+kjv: "Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee."
+bsb: "Behold, a day of the LORD is coming when your plunder will be divided in your presence."
+hebrew: "הִנֵּ֥ה יֽוֹם־ בָּ֖א לַֽיהוָ֑ה וְחֻלַּ֥ק שְׁלָלֵ֖ךְ בְּקִרְבֵּֽךְ׃"
+pericope: "[[Zech.14.1 The Destroyers of Jerusalem Destroyed|The Destroyers of Jerusalem Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 14
+book/chapter: "[[Zech.14|Zechariah 14]]"
+chronological_order: 870
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H2505A]]"
+- "[[H7998]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 14:1**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee.
 <small><sub>**BSB:**</sub></small>
 Behold, a day of the LORD is coming when your plunder will be divided in your presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֥ה]] [[H3117G\|יֽוֹם]][[H9014\|־]] [[H0935G\|בָּ֖א]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H9001\|וְ]][[H2505A\|חֻלַּ֥ק]] [[H7998\|שְׁלָלֵ֖]][[H9022\|ךְ]] [[H9003\|בְּ]][[H7130G\|קִרְבֵּֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.13.9|<< Zechariah 13:9]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.2|Zechariah 14:2 >>]]</td></tr></table>
 

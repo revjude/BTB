@@ -1,8 +1,56 @@
+---
+title: Ecclesiastes 5:7
+type: Verse
+kjv: "For in the multitude of dreams and many words there are also divers vanities: but fear thou God."
+bsb: "For as many dreams bring futility, so do many words. Therefore, fear God."
+hebrew: "כִּ֣י בְרֹ֤ב חֲלֹמוֹת֙ וַהֲבָלִ֔ים וּדְבָרִ֖ים הַרְבֵּ֑ה כִּ֥י אֶת־ הָאֱלֹהִ֖ים יְרָֽא׃"
+pericope: "[[Eccl.5.1 Approaching God with Awe|Approaching God with Awe]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 5
+book/chapter: "[[Eccl.5|Ecclesiastes 5]]"
+chronological_order: 543
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H7230]]"
+- "[[H2472]]"
+- "[[H9002]]"
+- "[[H1892]]"
+- "[[H1697G]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H3372H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 5:7**<big><big>[[Eccl.5.1 Approaching God with Awe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in the multitude of dreams and many words [there are] also [divers] vanities: but fear thou God.
 <small><sub>**BSB:**</sub></small>
 For as many dreams bring futility, so do many words. Therefore, fear God.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H7230\|רֹ֤ב]] [[H2472\|חֲלֹמוֹת֙]] [[H9002\|וַ]][[H1892\|הֲבָלִ֔ים]] [[H9002\|וּ]][[H1697G\|דְבָרִ֖ים]] [[H7235A\|הַרְבֵּ֑ה]] [[H3588A\|כִּ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H3372H\|יְרָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic REVERENCE|REVERENCE]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.5.6|<< Ecclesiastes 5:6]]</td><td align="center" style="border:none;">[[Eccl.5|Ecclesiastes 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.5.8|Ecclesiastes 5:8 >>]]</td></tr></table>
 

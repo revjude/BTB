@@ -1,6 +1,84 @@
+---
+title: LXX Exodus 8:9
+type: Verse
+lxx: "And Moses said to Pharaoh, Order for me! when should I make a vow for you, and for  your attendants, and  your people, to remove from view the frogs from you, and from  your people, and from  your houses -- except for the ones in the river which shall be left behind?"
+greek: "είπε δε Μωυσής προς Φαραώ τάξαι προς με πότε εύξομαι περί σου και περί των θεραπόντων σου και του λαόυ σου αφανίσαι τους βατράχους από σου και από του λαού σου και απο των οικιών υμών πλην εν τω ποταμώ υπολειφθήσονται"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FROGS|FROGS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3475]]"
+- "[[G4314]]"
+- "[[G5328]]"
+- "[[G5021]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G4219]]"
+- "[[G2172]]"
+- "[[G4012]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G2324]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G0853]]"
+- "[[G3588]]"
+- "[[G0944]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G3614]]"
+- "[[G1473]]"
+- "[[G4133]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4215]]"
+- "[[G5275]]"
+---
+
 **LXX Exodus 8:9** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to Pharaoh, Order for me! when should I make a vow for you, and for  your attendants, and  your people, to remove from view the frogs from you, and from  your people, and from  your houses -- except for the \[ones\] in \[the\] river \[which\] shall be left behind? 
+<small><sub>**Greek:**</sub></small>
+[[G2036\|είπε]] [[G1161\|δε]] [[G3475\|Μωυσής]] [[G4314\|προς]] [[G5328\|Φαραώ]] [[G5021\|τάξαι]] [[G4314\|προς]] [[G1473\|με]] [[G4219\|πότε]] [[G2172\|εύξομαι]] [[G4012\|περί]] [[G1473\|σου]] [[G2532\|και]] [[G4012\|περί]] [[G3588\|των]] [[G2324\|θεραπόντων]] [[G1473\|σου]] [[G2532\|και]] [[G3588\|του]] [[G2992\|λαόυ]] [[G1473\|σου]] [[G0853\|αφανίσαι]] [[G3588\|τους]] [[G0944\|βατράχους]] [[G0575\|από]] [[G1473\|σου]] [[G2532\|και]] [[G0575\|από]] [[G3588\|του]] [[G2992\|λαού]] [[G1473\|σου]] [[G2532\|και]] [[G0575\|απο]] [[G3588\|των]] [[G3614\|οικιών]] [[G1473\|υμών]] [[G4133\|πλην]] [[G1722\|εν]] [[G3588\|τω]] [[G4215\|ποταμώ]] [[G5275\|υπολειφθήσονται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FROGS|FROGS]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.8|<< Exodus 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.10|Exodus 8:10 >>]]</td></tr></table>
 
@@ -42,6 +120,6 @@ And Moses said to Pharaoh, Order for me! when should I make a vow for you, and f
 | for the \[ones\] in | **<big>[[G1722\|εν]]</big>** **<big>[[G3588\|τω]]</big>** |
 | \[the\] river | **<big>[[G4215\|ποταμώ]]</big>** |
 | \[which\] shall be left behind? | **<big>[[G5275\|υπολειφθήσονται]]</big>** |
-[[Exod.8.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.8|<< Exodus 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.10|Exodus 8:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.8.8|<< Exodus 8:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.8.10|Exodus 8:10 >>]]</td></tr></table>
 
 

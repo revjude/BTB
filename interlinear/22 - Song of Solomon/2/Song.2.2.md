@@ -1,8 +1,49 @@
+---
+title: Song of Solomon 2:2
+type: Verse
+kjv: "As the lily among thorns, so is my love among the daughters."
+bsb: "Like a lily among the thorns is my darling among the maidens."
+hebrew: "כְּשֽׁוֹשַׁנָּה֙ בֵּ֣ין הַחוֹחִ֔ים כֵּ֥ן רַעְיָתִ֖י בֵּ֥ין הַבָּנֽוֹת׃"
+pericope: "[[Song.2.2 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9004]]"
+- "[[H7799]]"
+- "[[H0996H]]"
+- "[[H9009]]"
+- "[[H2336]]"
+- "[[H3651C]]"
+- "[[H7474]]"
+- "[[H9020]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:2**<big><big>[[Song.2.2 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the lily among thorns, so [is] my love among the daughters.
 <small><sub>**BSB:**</sub></small>
 Like a lily among the thorns is my darling among the maidens.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H7799\|שֽׁוֹשַׁנָּה֙]] [[H0996H\|בֵּ֣ין]] [[H9009\|הַ]][[H2336\|חוֹחִ֔ים]] [[H3651C\|כֵּ֥ן]] [[H7474\|רַעְיָתִ֖]][[H9020\|י]] [[H0996H\|בֵּ֥ין]] [[H9009\|הַ]][[H1323G\|בָּנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.1|<< Song of Solomon 2:1]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.3|Song of Solomon 2:3 >>]]</td></tr></table>
 

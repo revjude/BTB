@@ -1,8 +1,55 @@
+---
+title: Joshua 19:18
+type: Verse
+kjv: "And their border was toward Jezreel, and Chesulloth, and Shunem,"
+bsb: "Their territory included Jezreel, Chesulloth, Shunem,"
+hebrew: "וַיְהִ֖י גְּבוּלָ֑ם יִזְרְעֶ֥אלָה וְהַכְּסוּלֹ֖ת וְשׁוּנֵֽם׃"
+pericope: "[[Josh.19.17 Issachar’s Inheritance|Issachar’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CHESULLOTH|CHESULLOTH]]"
+- "[[topic CHISLOTH-TABOR|CHISLOTH-TABOR]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic SHUNEM|SHUNEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1366H]]"
+- "[[H9028]]"
+- "[[H3157H]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3694]]"
+- "[[H7766]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:18**<big><big>[[Josh.19.17 Issachar’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their border was toward Jezreel, and Chesulloth, and Shunem,
 <small><sub>**BSB:**</sub></small>
 Their territory included Jezreel, Chesulloth, Shunem,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֖י]] [[H1366H\|גְּבוּלָ֑]][[H9028\|ם]] [[H3157H\|יִזְרְעֶ֥אלָ]][[H9011\|ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3694\|כְּסוּלֹ֖ת]] [[H9002\|וְ]][[H7766\|שׁוּנֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHESULLOTH|CHESULLOTH]] • [[topic CHISLOTH-TABOR|CHISLOTH-TABOR]] • [[topic ISSACHAR|ISSACHAR]] • [[topic JEZREEL|JEZREEL]] • [[topic SHUNEM|SHUNEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.17|<< Joshua 19:17]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.19|Joshua 19:19 >>]]</td></tr></table>
 

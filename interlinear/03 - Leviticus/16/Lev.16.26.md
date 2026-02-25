@@ -1,8 +1,73 @@
+---
+title: Leviticus 16:26
+type: Verse
+kjv: "And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp."
+bsb: "The man who released the goat as the scapegoat must wash his clothes and bathe himself with water; afterward he may reenter the camp."
+hebrew: "וְהַֽמְשַׁלֵּ֤חַ אֶת־ הַשָּׂעִיר֙ לַֽעֲזָאזֵ֔ל יְכַבֵּ֣ס בְּגָדָ֔יו וְרָחַ֥ץ אֶת־ בְּשָׂר֖וֹ בַּמָּ֑יִם וְאַחֲרֵי־ כֵ֖ן יָב֥וֹא אֶל־ הַֽמַּחֲנֶֽה׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic AZAZEL|AZAZEL]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8163B]]"
+- "[[H9005]]"
+- "[[H5799]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H1320]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:26**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.
 <small><sub>**BSB:**</sub></small>
 The man who released the goat as the scapegoat must wash his clothes and bathe himself with water; afterward he may reenter the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַֽ]][[H7971H\|מְשַׁלֵּ֤חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8163B\|שָּׂעִיר֙]] [[H9005\|לַֽ]][[H5799\|עֲזָאזֵ֔ל]] [[H3526H\|יְכַבֵּ֣ס]] [[H0899B\|בְּגָדָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H7364\|רָחַ֥ץ]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂר֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H4325G\|מָּ֑יִם]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֖ן]] [[H0935G\|יָב֥וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ATONEMENT|ATONEMENT]] • [[topic AZAZEL|AZAZEL]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SCAPEGOAT|SCAPEGOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.25|<< Leviticus 16:25]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.27|Leviticus 16:27 >>]]</td></tr></table>
 

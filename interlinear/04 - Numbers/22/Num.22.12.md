@@ -1,8 +1,62 @@
+---
+title: Numbers 22:12
+type: Verse
+kjv: "And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they are blessed."
+bsb: "But God said to Balaam, “Do not go with them. You are not to curse this people, for they are blessed.”"
+hebrew: "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־ בִּלְעָ֔ם לֹ֥א תֵלֵ֖ךְ עִמָּהֶ֑ם לֹ֤א תָאֹר֙ אֶת־ הָעָ֔ם כִּ֥י בָר֖וּךְ הֽוּא׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H3808]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H0779]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H1288]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:12**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said unto Balaam, Thou shalt not go with them; thou shalt not curse the people: for they [are] blessed.
 <small><sub>**BSB:**</sub></small>
 But God said to Balaam, “Do not go with them. You are not to curse this people, for they are blessed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0430G\|אֱלֹהִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֔ם]] [[H3808\|לֹ֥א]] [[H1980G\|תֵלֵ֖ךְ]] [[H5973A\|עִמָּ]][[H9038\|הֶ֑ם]] [[H3808\|לֹ֤א]] [[H0779\|תָאֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H3588A\|כִּ֥י]] [[H1288\|בָר֖וּךְ]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.11|<< Numbers 22:11]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.13|Numbers 22:13 >>]]</td></tr></table>
 

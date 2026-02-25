@@ -1,10 +1,56 @@
+---
+title: Matthew 1:6
+type: Verse
+kjv: "And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;"
+bsb: "and Jesse the father of David the king. Next: David was the father of Solomon by Uriah’s wife,"
+greek: "Ἰεσσαὶ δὲ ἐγέννησεν τὸν Δαυὶδ τὸν βασιλέα· Δαυὶδ δὲ ὁ βασιλεὺς ἐγέννησεν τὸν Σολομῶνα ἐκ τῆς τοῦ Οὐρίου·"
+pericope: "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic URIAH|URIAH]]"
+strongs:
+- "[[G2421]]"
+- "[[G1161]]"
+- "[[G1080]]"
+- "[[G3588]]"
+- "[[G1138]]"
+- "[[G0935]]"
+- "[[G4672G]]"
+- "[[G1537]]"
+- "[[G3774]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 1:6**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesse begat David the king; and David the king begat Solomon of her [that had been the wife] of Urias;
 <small><sub>**BSB:**</sub></small>
 and Jesse the father of David the king. Next: David was the father of Solomon by Uriah’s wife,
-<small><sub>**Literal:**</sub></small>
-Jesse then begat <the> David the king; David then the king begat <the> Solomon out of the [wife] <the> of Uriah;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.5|<< Matthew 1:5]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.7|Matthew 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2421\|Ἰεσσαὶ]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G1138\|Δαυὶδ]]  [[G3588\|τὸν]]  [[G0935\|βασιλέα·]]  [[G1138\|Δαυὶδ]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G4672G\|Σολομῶνα]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3588\|τοῦ]]  [[G3774\|Οὐρίου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JESSE|JESSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic SOLOMON|SOLOMON]] • [[topic URIAH|URIAH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.5|<< Matthew 1:5]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.7|Matthew 1:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 1:6** is...
 > $\quad$ referencing: [[LXX.Ruth.4.18|Ruth 4:18-22]]

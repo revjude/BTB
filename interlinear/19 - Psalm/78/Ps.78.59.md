@@ -1,8 +1,56 @@
+---
+title: Psalm 78:59
+type: Verse
+kjv: "When God heard this, he was wroth, and greatly abhorred Israel:"
+bsb: "On hearing it, God was furious and rejected Israel completely."
+hebrew: "שָׁמַ֣ע אֱ֭לֹהִים וַֽיִּתְעַבָּ֑ר וַיִּמְאַ֥ס מְ֝אֹ֗ד בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8085G]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H5674B]]"
+- "[[H3988A]]"
+- "[[H3966]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:59**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When God heard [this], he was wroth, and greatly abhorred Israel:
 <small><sub>**BSB:**</sub></small>
 On hearing it, God was furious and rejected Israel completely.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שָׁמַ֣ע]] [[H0430G\|אֱ֭לֹהִים]] [[H9001\|וַֽ]][[H5674B\|יִּתְעַבָּ֑ר]] [[H9001\|וַ]][[H3988A\|יִּמְאַ֥ס]] [[H3966\|מְ֝אֹ֗ד]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.59|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.58|<< Psalms 78:58]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.60|Psalms 78:60 >>]]</td></tr></table>
 

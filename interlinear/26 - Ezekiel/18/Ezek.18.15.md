@@ -1,8 +1,65 @@
+---
+title: Ezekiel 18:15
+type: Verse
+kjv: "That hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, hath not defiled his neighbour’s wife,"
+bsb: "He does not eat at the mountain or look to the idols of the house of Israel. He does not defile his neighbor’s wife."
+hebrew: "עַל־ הֶֽהָרִים֙ לֹ֣א אָכָ֔ל וְעֵינָיו֙ לֹ֣א נָשָׂ֔א אֶל־ גִּלּוּלֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל אֶת־ אֵ֥שֶׁת רֵעֵ֖הוּ לֹ֥א טִמֵּֽא׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H5375M]]"
+- "[[H0413]]"
+- "[[H1544]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H0802H]]"
+- "[[H7453]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 18:15**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [That] hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, hath not defiled his neighbour’s wife,
 <small><sub>**BSB:**</sub></small>
 He does not eat at the mountain or look to the idols of the house of Israel. He does not defile his neighbor’s wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2022G\|הָרִים֙]] [[H3808\|לֹ֣א]] [[H0398\|אָכָ֔ל]] [[H9002\|וְ]][[H5869A\|עֵינָי]][[H9023\|ו֙]] [[H3808\|לֹ֣א]] [[H5375M\|נָשָׂ֔א]] [[H0413\|אֶל]][[H9014\|־]] [[H1544\|גִּלּוּלֵ֖י]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אֵ֥שֶׁת]] [[H7453\|רֵעֵ֖]][[H9023\|הוּ]] [[H3808\|לֹ֥א]] [[H2930A\|טִמֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.14|<< Ezekiel 18:14]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.16|Ezekiel 18:16 >>]]</td></tr></table>
 

@@ -1,10 +1,51 @@
+---
+title: 1 Corinthians 4:20
+type: Verse
+kjv: "For the kingdom of God is not in word, but in power."
+bsb: "For the kingdom of God is not a matter of talk but of power."
+greek: "οὐ γὰρ ἐν λόγῳ ἡ βασιλεία τοῦ θεοῦ ἀλλ᾽ ἐν δυνάμει.¶"
+pericope: "[[1Cor.4.14 Paul’s Fatherly Warning|Paul’s Fatherly Warning]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G3056]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G1411]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 4:20**<big><big>[[1Cor.4.14 Paul’s Fatherly Warning|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the kingdom of God [is] not in word, but in power.
 <small><sub>**BSB:**</sub></small>
 For the kingdom of God is not a matter of talk but of power.
-<small><sub>**Literal:**</sub></small>
-Not for in word the kingdom <the> of God [is] but in power.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.19|<< 1 Corinthians 4:19]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.21|1 Corinthians 4:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G3056\|λόγῳ]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G1411\|δυνάμει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic POWER|POWER]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.19|<< 1 Corinthians 4:19]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.21|1 Corinthians 4:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

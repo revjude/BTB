@@ -13,7 +13,7 @@
 
 6. A city of the tribe of Simeon  [[Josh.19.2|Jos 19:2]]
 
-7. Queen of, visits Solomon [[1Kgs.10.1|1Ki 10:1]]; [[1Kgs.13|13]]; [[2Chr.9.1|2Ch 9:1]]-[[2Chr.9.12|12]]
+7. Queen of, visits Solomon [[1Kgs.10.1|1Ki 10:1]]; [[1Kgs.13|13]]; [[2Chr.9.1|2Ch 9:1-12]]
 
 - Kings of, bring gifts to Solomon [[Ps.72.10|Ps 72:10]]
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahaz Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.28.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 28
 book/chapter: "[[2Chr.28|2 Chronicles 28]]"
-genre:
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.28.1]]"
 - "[[2Chr.28.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.28.4]]"
 ---
 
-[[2Chr.28|2 Chronicles 28:1 - 2 Chronicles 28:4]]
+<small>[[2Chr.28|2 Chronicles 28:1-4]]</small>
 *Ahaz Reigns in Judah*
 
 [[2Chr.28.1|1]] Ahaz \[was\] twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not \[that which was\] right in the sight of the LORD, like David his father:

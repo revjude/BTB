@@ -1,8 +1,62 @@
+---
+title: Isaiah 53:6
+type: Verse
+kjv: "All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all."
+bsb: "We all like sheep have gone astray, each one has turned to his own way; and the LORD has laid upon Him the iniquity of us all."
+hebrew: "כֻּלָּ֙נוּ֙ כַּצֹּ֣אן תָּעִ֔ינוּ אִ֥ישׁ לְדַרְכּ֖וֹ פָּנִ֑ינוּ וַֽיהוָה֙ הִפְגִּ֣יעַ בּ֔וֹ אֵ֖ת עֲוֹ֥ן כֻּלָּֽנוּ׃"
+pericope: "[[Isa.53.1 The Suffering Servant|The Suffering Servant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 53
+book/chapter: "[[Isa.53|Isaiah 53]]"
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H3605]]"
+- "[[H9025]]"
+- "[[H9004]]"
+- "[[H6629G]]"
+- "[[H8582]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H6437G]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 53:6**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.
 <small><sub>**BSB:**</sub></small>
 We all like sheep have gone astray, each one has turned to his own way; and the LORD has laid upon Him the iniquity of us all.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֻּלָּ֙]][[H9025\|נוּ֙]] [[H9004\|כַּ]][[H6629G\|צֹּ֣אן]] [[H8582\|תָּעִ֔ינוּ]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H1870G\|דַרְכּ֖]][[H9023\|וֹ]] [[H6437G\|פָּנִ֑ינוּ]] [[H9002\|וַֽ]][[H3068G\|יהוָה֙]] [[H6293\|הִפְגִּ֣יעַ]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H0853\|אֵ֖ת]] [[H5771G\|עֲוֹ֥ן]] [[H3605\|כֻּלָּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.5|<< Isaiah 53:5]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.7|Isaiah 53:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

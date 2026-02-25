@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 14:1
+type: Verse
+kjv: "Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house."
+bsb: "Now Hiram king of Tyre sent envoys to David, along with cedar logs, stonemasons, and carpenters, to build a palace for him."
+hebrew: "וַ֠יִּשְׁלַח חוּרָ֨ם מֶֽלֶךְ־ צֹ֥ר מַלְאָכִים֮ אֶל־ דָּוִיד֒ וַעֲצֵ֣י אֲרָזִ֔ים וְחָרָשֵׁ֣י קִ֔יר וְחָרָשֵׁ֖י עֵצִ֑ים לִבְנ֥וֹת ל֖וֹ בָּֽיִת׃"
+pericope: "[[1Chr.14.1 David’s Family Grows|David’s Family Grows]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASON|MASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H2438G]]"
+- "[[H2361G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H6865]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H6086H]]"
+- "[[H0730]]"
+- "[[H2796]]"
+- "[[H7023]]"
+- "[[H6086G]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H9033]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Chronicles 14:1**<big><big>[[1Chr.14.1 David’s Family Grows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house.
 <small><sub>**BSB:**</sub></small>
 Now Hiram king of Tyre sent envoys to David, along with cedar logs, stonemasons, and carpenters, to build a palace for him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H7971G\|יִּשְׁלַח]] [[H2361G\|חוּרָ֨ם]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H6865\|צֹ֥ר]] [[H4397G\|מַלְאָכִים֮]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִיד֒]] [[H9002\|וַ]][[H6086H\|עֲצֵ֣י]] [[H0730\|אֲרָזִ֔ים]] [[H9002\|וְ]][[H2796\|חָרָשֵׁ֣י]] [[H7023\|קִ֔יר]] [[H9002\|וְ]][[H2796\|חָרָשֵׁ֖י]] [[H6086G\|עֵצִ֑ים]] [[H9005\|לִ]][[H1129\|בְנ֥וֹת]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIRAM|HIRAM]] • [[topic MASON|MASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.13.14|<< 1 Chronicles 13:14]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.2|1 Chronicles 14:2 >>]]</td></tr></table>
 

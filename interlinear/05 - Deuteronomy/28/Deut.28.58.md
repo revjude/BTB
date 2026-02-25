@@ -1,8 +1,82 @@
+---
+title: Deuteronomy 28:58
+type: Verse
+kjv: "If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;"
+bsb: "If you are not careful to observe all the words of this law which are written in this book, that you may fear this glorious and awesome name—the LORD your God—"
+hebrew: "אִם־ לֹ֨א תִשְׁמֹ֜ר לַעֲשׂ֗וֹת אֶת־ כָּל־ דִּבְרֵי֙ הַתּוֹרָ֣ה הַזֹּ֔את הַכְּתוּבִ֖ים בַּסֵּ֣פֶר הַזֶּ֑ה לְ֠יִרְאָה אֶת־ הַשֵּׁ֞ם הַנִּכְבָּ֤ד וְהַנּוֹרָא֙ הַזֶּ֔ה אֵ֖ת יְהוָ֥ה אֱלֹהֶֽיךָ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H2063]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H5612H]]"
+- "[[H2088]]"
+- "[[H3372G]]"
+- "[[H8034]]"
+- "[[H3513G]]"
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:58**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, THE LORD THY GOD;
 <small><sub>**BSB:**</sub></small>
 If you are not careful to observe all the words of this law which are written in this book, that you may fear this glorious and awesome name—the LORD your God—
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֨א]] [[H8104J\|תִשְׁמֹ֜ר]] [[H9005\|לַ]][[H6213A\|עֲשׂ֗וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵי֙]] [[H9009\|הַ]][[H8451\|תּוֹרָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9009\|הַ]][[H3789\|כְּתוּבִ֖ים]] [[H9003\|בַּ]][[H5612H\|סֵּ֣פֶר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9005\|לְ֠]][[H3372G\|יִרְאָה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8034\|שֵּׁ֞ם]] [[H9009\|הַ]][[H3513G\|נִּכְבָּ֤ד]] [[H9002\|וְ]][[H9009\|הַ]][[H3372H\|נּוֹרָא֙]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0853\|אֵ֖ת]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.58|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.57|<< Deuteronomy 28:57]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.59|Deuteronomy 28:59 >>]]</td></tr></table>
 

@@ -1,8 +1,80 @@
+---
+title: 2 Kings 25:23
+type: Verse
+kjv: "And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men."
+bsb: "When all the commanders of the armies and their men heard that the king of Babylon had appointed Gedaliah as governor, they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan son of Kareah, Seraiah son of Tanhumeth the Netophathite, and Jaazaniah son of the Maacathite, as well as their men."
+hebrew: "וַיִּשְׁמְעוּ֩ כָל־ שָׂרֵ֨י הַחֲיָלִ֜ים הֵ֣מָּה וְהָאֲנָשִׁ֗ים כִּֽי־ הִפְקִ֤יד מֶֽלֶךְ־ בָּבֶל֙ אֶת־ גְּדַלְיָ֔הוּ וַיָּבֹ֥אוּ אֶל־ גְּדַלְיָ֖הוּ הַמִּצְפָּ֑ה וְיִשְׁמָעֵ֣אל בֶּן־ נְתַנְיָ֡ה וְיוֹחָנָ֣ן בֶּן־ קָ֠רֵחַ וּשְׂרָיָ֨ה בֶן־ תַּנְחֻ֜מֶת הַנְּטֹפָתִ֗י וְיַֽאֲזַנְיָ֙הוּ֙ בֶּן־ הַמַּ֣עֲכָתִ֔י הֵ֖מָּה וְאַנְשֵׁיהֶֽם׃"
+pericope: "[[2Kgs.25.22 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic KAREAH|KAREAH]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic NETHANIAH|NETHANIAH]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic TANHUMETH|TANHUMETH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2428A]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H3588A]]"
+- "[[H6485J]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H0853]]"
+- "[[H1436B]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4709G]]"
+- "[[H3458H]]"
+- "[[H1121A]]"
+- "[[H5418G]]"
+- "[[H3110G]]"
+- "[[H7143]]"
+- "[[H8304I]]"
+- "[[H8576]]"
+- "[[H5200]]"
+- "[[H2970J]]"
+- "[[H4602]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:23**<big><big>[[2Kgs.25.22 Gedaliah Governs in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Careah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.
 <small><sub>**BSB:**</sub></small>
 When all the commanders of the armies and their men heard that the king of Babylon had appointed Gedaliah as governor, they came to Gedaliah at Mizpah—Ishmael son of Nethaniah, Johanan son of Kareah, Seraiah son of Tanhumeth the Netophathite, and Jaazaniah son of the Maacathite, as well as their men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמְעוּ֩]] [[H3605\|כָל]][[H9014\|־]] [[H8269\|שָׂרֵ֨י]] [[H9009\|הַ]][[H2428A\|חֲיָלִ֜ים]] [[H1992\|הֵ֣מָּה]] [[H9002\|וְ]][[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6485J\|הִפְקִ֤יד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֔הוּ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֖הוּ]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֑ה]] [[H9002\|וְ]][[H3458H\|יִשְׁמָעֵ֣אל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5418G\|נְתַנְיָ֡ה]] [[H9002\|וְ]][[H3110G\|יוֹחָנָ֣ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7143\|קָ֠רֵחַ]] [[H9002\|וּ]][[H8304I\|שְׂרָיָ֨ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H8576\|תַּנְחֻ֜מֶת]] [[H9009\|הַ]][[H5200\|נְּטֹפָתִ֗י]] [[H9002\|וְ]][[H2970J\|יַֽאֲזַנְיָ֙הוּ֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4602\|מַּ֣עֲכָתִ֔י]] [[H1992\|הֵ֖מָּה]] [[H9002\|וְ]][[H0582\|אַנְשֵׁי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GEDALIAH|GEDALIAH]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic JOHANAN|JOHANAN]] • [[topic KAREAH|KAREAH]] • [[topic MIZPAH|MIZPAH]] • [[topic NETHANIAH|NETHANIAH]] • [[topic SERAIAH|SERAIAH]] • [[topic TANHUMETH|TANHUMETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.22|<< 2 Kings 25:22]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.24|2 Kings 25:24 >>]]</td></tr></table>
 

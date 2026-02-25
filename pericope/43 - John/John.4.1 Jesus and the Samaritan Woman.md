@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus and the Samaritan Woman
+type: Pericope
 pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
-verse_count: 26
+original_language: Greek
 testament: New
 book: John
 chapter: 4
 book/chapter: "[[John.4|John 4]]"
-genre:
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 26
 verses:
 - "[[John.4.1]]"
 - "[[John.4.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[John.4.26]]"
 ---
 
-[[John.4|John 4:1 - John 4:26]]
+<small>[[John.4|John 4:1-26]]</small>
 *Jesus and the Samaritan Woman*
 
 [[John.4.1|1]] When therefore the Lord knew how the Pharisees had heard that Jesus made and baptized more disciples than John,

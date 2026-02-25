@@ -1,8 +1,55 @@
+---
+title: Job 9:5
+type: Verse
+kjv: "Which removeth the mountains, and they know not: which overturneth them in his anger."
+bsb: "He moves mountains without their knowledge and overturns them in His anger."
+hebrew: "הַמַּעְתִּ֣יק הָ֭רִים וְלֹ֣א יָדָ֑עוּ אֲשֶׁ֖ר הֲפָכָ֣ם בְּאַפּֽוֹ׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+strongs:
+- "[[H9009]]"
+- "[[H6275]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0834A]]"
+- "[[H2015]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:5**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which removeth the mountains, and they know not: which overturneth them in his anger.
 <small><sub>**BSB:**</sub></small>
 He moves mountains without their knowledge and overturns them in His anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H6275\|מַּעְתִּ֣יק]] [[H2022G\|הָ֭רִים]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3045\|יָדָ֑עוּ]] [[H0834A\|אֲשֶׁ֖ר]] [[H2015\|הֲפָכָ֣]][[H9038\|ם]] [[H9003\|בְּ]][[H0639G\|אַפּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MOUNTAIN|MOUNTAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.4|<< Job 9:4]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.6|Job 9:6 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Ezekiel 8:1
+type: Verse
+kjv: "And it came to pass in the sixth year, in the sixth month, in the fifth day of the month, as I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me."
+bsb: "In the sixth year, on the fifth day of the sixth month, I was sitting in my house, and the elders of Judah were sitting before me; and there the hand of the Lord GOD fell upon me."
+hebrew: "וַיְהִ֣י׀ בַּשָּׁנָ֣ה הַשִּׁשִּׁ֗ית בַּשִּׁשִּׁי֙ בַּחֲמִשָּׁ֣ה לַחֹ֔דֶשׁ אֲנִי֙ יוֹשֵׁ֣ב בְּבֵיתִ֔י וְזִקְנֵ֥י יְהוּדָ֖ה יוֹשְׁבִ֣ים לְפָנָ֑י וַתִּפֹּ֤ל עָלַי֙ שָׁ֔ם יַ֖ד אֲדֹנָ֥י יְהֹוִֽה׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H8345]]"
+- "[[H2568]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H0589]]"
+- "[[H3427]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2205G]]"
+- "[[H3063G]]"
+- "[[H6440G]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H8033G]]"
+- "[[H3027H]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:1**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the sixth year, in the sixth [month], in the fifth [day] of the month, [as] I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord GOD fell there upon me.
 <small><sub>**BSB:**</sub></small>
 In the sixth year, on the fifth day of the sixth month, I was sitting in my house, and the elders of Judah were sitting before me; and there the hand of the Lord GOD fell upon me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H8345\|שִּׁשִּׁ֗ית]] [[H9003\|בַּ]][[H8345\|שִּׁשִּׁי֙]] [[H9003\|בַּ]][[H2568\|חֲמִשָּׁ֣ה]] [[H9005\|לַ]][[H2320G\|חֹ֔דֶשׁ]] [[H0589\|אֲנִי֙]] [[H3427\|יוֹשֵׁ֣ב]] [[H9003\|בְּ]][[H1004B\|בֵיתִ֔]][[H9020\|י]] [[H9002\|וְ]][[H2205G\|זִקְנֵ֥י]] [[H3063G\|יְהוּדָ֖ה]] [[H3427\|יוֹשְׁבִ֣ים]] [[H9005\|לְ]][[H6440G\|פָנָ֑]][[H9020\|י]] [[H9001\|וַ]][[H5307G\|תִּפֹּ֤ל]] [[H5921A\|עָלַ]][[H9030\|י֙]] [[H8033G\|שָׁ֔ם]] [[H3027H\|יַ֖ד]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהֹוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.27|<< Ezekiel 7:27]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.2|Ezekiel 8:2 >>]]</td></tr></table>
 

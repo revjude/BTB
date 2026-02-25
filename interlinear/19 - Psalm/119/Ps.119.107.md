@@ -1,8 +1,55 @@
+---
+title: Psalm 119:107
+type: Verse
+kjv: "I am afflicted very much: quicken me, O LORD, according unto thy word."
+bsb: "I am severely afflicted, O LORD; revive me through Your word."
+hebrew: "נַעֲנֵ֥יתִי עַד־ מְאֹ֑ד יְ֝הוָ֗ה חַיֵּ֥נִי כִדְבָרֶֽךָ׃"
+pericope: "[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|Your Word Is a Lamp to My Feet - NUN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H6031B]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3966]]"
+- "[[H3068G]]"
+- "[[H2421]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:107**<big><big>[[Ps.119.105 Your Word Is a Lamp to My Feet - NUN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I am afflicted very much: quicken me, O LORD, according unto thy word.
 <small><sub>**BSB:**</sub></small>
 I am severely afflicted, O LORD; revive me through Your word.
+<small><sub>**Hebrew:**</sub></small>
+[[H6031B\|נַעֲנֵ֥יתִי]] [[H5704\|עַד]][[H9014\|־]] [[H3966\|מְאֹ֑ד]] [[H3068G\|יְ֝הוָ֗ה]] [[H2421\|חַיֵּ֥]][[H9030\|נִי]] [[H9004\|כִ]][[H1697G\|דְבָרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.107|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.106|<< Psalms 119:106]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.108|Psalms 119:108 >>]]</td></tr></table>
 

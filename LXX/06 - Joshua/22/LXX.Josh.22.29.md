@@ -1,6 +1,86 @@
+---
+title: LXX Joshua 22:29
+type: Verse
+lxx: "May it not be then for us to leave from the lord, so as to turn away in  today's days from the lord, so as to build us an altar for the yield offerings, and the sacrifices, and the sacrifice  of deliverance, except for the altar of the lord  our God which is before  his tent."
+greek: "μη γένοιτο ουν ημάς αποστήναι από κυρίου ώστε αποστραφήναι εν ταις σήμερον ημέραις από κυρίου ώστε οικοδομήσαι ημάς θυσιαστήριον τοις καρπώμασι και ταις θυσίαις και τη θυσία του σωτηρίου πλην του θυσιαστηρίου κυρίου του θεού ημών ο εστιν εναντίον της σκηνής αυτού"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G3767]]"
+- "[[G1473]]"
+- "[[G0868]]"
+- "[[G0575]]"
+- "[[G2962]]"
+- "[[G5620]]"
+- "[[G0654]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4594]]"
+- "[[G2250]]"
+- "[[G0575]]"
+- "[[G2962]]"
+- "[[G5620]]"
+- "[[G3618]]"
+- "[[G1473]]"
+- "[[G2379]]"
+- "[[G3588]]"
+- "[[G7806]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2378]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2378]]"
+- "[[G3588]]"
+- "[[G4992]]"
+- "[[G4133]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1726]]"
+- "[[G3588]]"
+- "[[G4633]]"
+- "[[G1473]]"
+---
+
 **LXX Joshua 22:29** 
 <small><sub>**LXX:**</sub></small>
 May it not be then for us to leave from \[the\] <span class="smallcaps">lord</span>, so as to turn away in  today's days from \[the\] <span class="smallcaps">lord</span>, so as to build us an altar for the yield \[offerings\], and the sacrifices, and the sacrifice  of deliverance, except for the altar of \[the\] <span class="smallcaps">lord</span>  our God which is before  his tent. 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G1096\|γένοιτο]] [[G3767\|ουν]] [[G1473\|ημάς]] [[G0868\|αποστήναι]] [[G0575\|από]] [[G2962\|κυρίου]] [[G5620\|ώστε]] [[G0654\|αποστραφήναι]] [[G1722\|εν]] [[G3588\|ταις]] [[G4594\|σήμερον]] [[G2250\|ημέραις]] [[G0575\|από]] [[G2962\|κυρίου]] [[G5620\|ώστε]] [[G3618\|οικοδομήσαι]] [[G1473\|ημάς]] [[G2379\|θυσιαστήριον]] [[G3588\|τοις]] [[G7806\|καρπώμασι]] [[G2532\|και]] [[G3588\|ταις]] [[G2378\|θυσίαις]] [[G2532\|και]] [[G3588\|τη]] [[G2378\|θυσία]] [[G3588\|του]] [[G4992\|σωτηρίου]] [[G4133\|πλην]] [[G3588\|του]] [[G2379\|θυσιαστηρίου]] [[G2962\|κυρίου]] [[G3588\|του]] [[G2316\|θεού]] [[G1473\|ημών]] [[G3739\|ο]] [[G1510\|εστιν]] [[G1726\|εναντίον]] [[G3588\|της]] [[G4633\|σκηνής]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.28|<< Joshua 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.30|Joshua 22:30 >>]]</td></tr></table>
 
@@ -46,6 +126,6 @@ May it not be then for us to leave from \[the\] <span class="smallcaps">lord</sp
 | before | **<big>[[G1726\|εναντίον]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | his tent. | **<big>[[G4633\|σκηνής]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Josh.22.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.28|<< Joshua 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.30|Joshua 22:30 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.28|<< Joshua 22:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.30|Joshua 22:30 >>]]</td></tr></table>
 
 

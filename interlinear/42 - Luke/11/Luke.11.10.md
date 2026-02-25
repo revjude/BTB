@@ -1,10 +1,56 @@
+---
+title: Luke 11:10
+type: Verse
+kjv: "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened."
+bsb: "For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened."
+jesus_said: "For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened."
+greek: "πᾶς γὰρ ὁ αἰτῶν λαμβάνει, καὶ ὁ ζητῶν εὑρίσκει, καὶ τῷ κρούοντι ἀνοιγήσεται.¶"
+pericope: "[[Luke.11.5 Ask, Seek, Knock|Ask, Seek, Knock]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0154]]"
+- "[[G2983]]"
+- "[[G2532]]"
+- "[[G2212]]"
+- "[[G2147]]"
+- "[[G2925]]"
+- "[[G0455]]"
+texts:
+- NKO
+---
+
 **Luke 11:10**<big><big>[[Luke.11.5 Ask, Seek, Knock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For every one that asketh receiveth; and he that seeketh findeth; and to him that knocketh it shall be opened.
 <small><sub>**BSB:**</sub></small>
 For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened.
-<small><sub>**Literal:**</sub></small>
-Everyone for the [one] asking receives, and the [one] seeking finds, and to the [one] knocking it will be opened.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.9|<< Luke 11:9]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.11|Luke 11:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶς]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G0154\|αἰτῶν]]  [[G2983\|λαμβάνει,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2212\|ζητῶν]]  [[G2147\|εὑρίσκει,]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G2925\|κρούοντι]]  [[G0455\|ἀνοιγήσεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.9|<< Luke 11:9]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.11|Luke 11:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

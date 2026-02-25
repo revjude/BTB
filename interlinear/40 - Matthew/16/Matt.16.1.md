@@ -1,10 +1,56 @@
+---
+title: Matthew 16:1
+type: Verse
+kjv: "The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven."
+bsb: "Then the Pharisees and Sadducees came and tested Jesus by asking Him to show them a sign from heaven."
+greek: "καὶ προσελθόντες οἱ Φαρισαῖοι καὶ Σαδδουκαῖοι, πειράζοντες ἐπηρώτησαν αὐτὸν σημεῖον ἐκ τοῦ οὐρανοῦ ἐπιδεῖξαι αὐτοῖς.¶"
+pericope: "[[Matt.16.1 The Demand for a Sign|The Demand for a Sign]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G4523]]"
+- "[[G3985H]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G4592]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G1925]]"
+texts:
+- NKO
+---
+
 **Matthew 16:1**<big><big>[[Matt.16.1 The Demand for a Sign|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
 <small><sub>**BSB:**</sub></small>
 Then the Pharisees and Sadducees came and tested Jesus by asking Him to show them a sign from heaven.
-<small><sub>**Literal:**</sub></small>
-And having approached the Pharisees and Sadducees, testing  they asked Him a sign out of <the> heaven to show them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.39|<< Matthew 15:39]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.2|Matthew 16:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4334\|προσελθόντες]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G2532\|καὶ]]  [[G4523\|Σαδδουκαῖοι,]]  [[G3985H\|πειράζοντες]]  [[G1905\|ἐπηρώτησαν]]  [[G0846\|αὐτὸν]]  [[G4592\|σημεῖον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G1925\|ἐπιδεῖξαι]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.39|<< Matthew 15:39]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.2|Matthew 16:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

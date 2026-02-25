@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Wisdom from God
+type: Pericope
 pericope: "[[1Cor.1.26 Wisdom from God|Wisdom from God]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 1
 book/chapter: "[[1Cor.1|1 Corinthians 1]]"
-genre:
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 6
 verses:
 - "[[1Cor.1.26]]"
 - "[[1Cor.1.27]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Cor.1.31]]"
 ---
 
-[[1Cor.1|1 Corinthians 1:26 - 1 Corinthians 1:31]]
+<small>[[1Cor.1|1 Corinthians 1:26-31]]</small>
 *Wisdom from God*
 
 [[1Cor.1.26|26]] For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, \[are called\]:

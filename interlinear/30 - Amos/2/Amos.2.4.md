@@ -1,8 +1,72 @@
+---
+title: Amos 2:4
+type: Verse
+kjv: "Thus saith the LORD; For three transgressions of Judah, and for four, I will not turn away the punishment thereof; because they have despised the law of the LORD, and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:"
+bsb: "This is what the LORD says: “For three transgressions of Judah, even four, I will not revoke My judgment, because they reject the Law of the LORD and fail to keep His statutes; they are led astray by the lies in which their fathers walked."
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה עַל־ שְׁלֹשָׁה֙ פִּשְׁעֵ֣י יְהוּדָ֔ה וְעַל־ אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַֽל־ מָאֳסָ֞ם אֶת־ תּוֹרַ֣ת יְהוָ֗ה וְחֻקָּיו֙ לֹ֣א שָׁמָ֔רוּ וַיַּתְעוּם֙ כִּזְבֵיהֶ֔ם אֲשֶׁר־ הָלְכ֥וּ אֲבוֹתָ֖ם אַחֲרֵיהֶֽם׃"
+pericope: "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H6588]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H3808]]"
+- "[[H7725O]]"
+- "[[H9033]]"
+- "[[H3988A]]"
+- "[[H9048]]"
+- "[[H0853]]"
+- "[[H8451]]"
+- "[[H2706G]]"
+- "[[H9023]]"
+- "[[H8104G]]"
+- "[[H9001]]"
+- "[[H8582]]"
+- "[[H9038]]"
+- "[[H3577]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H1980I]]"
+- "[[H0001G]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 2:4**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; For three transgressions of Judah, and for four, I will not turn away [the punishment] thereof; because they have despised the law of the LORD, and have not kept his commandments, and their lies caused them to err, after the which their fathers have walked:
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “For three transgressions of Judah, even four, I will not revoke My judgment, because they reject the Law of the LORD and fail to keep His statutes; they are led astray by the lies in which their fathers walked.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7969\|שְׁלֹשָׁה֙]] [[H6588\|פִּשְׁעֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבָּעָ֖ה]] [[H3808\|לֹ֣א]] [[H7725O\|אֲשִׁיבֶ֑]][[H9033\|נּוּ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3988A\|מָאֳסָ֞]][[H9048\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H8451\|תּוֹרַ֣ת]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְ]][[H2706G\|חֻקָּי]][[H9023\|ו֙]] [[H3808\|לֹ֣א]] [[H8104G\|שָׁמָ֔רוּ]] [[H9001\|וַ]][[H8582\|יַּתְעוּ]][[H9038\|ם֙]] [[H3577\|כִּזְבֵי]][[H9028\|הֶ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1980I\|הָלְכ֥וּ]] [[H0001G\|אֲבוֹתָ֖]][[H9028\|ם]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.3|<< Amos 2:3]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.5|Amos 2:5 >>]]</td></tr></table>
 

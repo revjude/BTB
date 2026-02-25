@@ -1,8 +1,65 @@
+---
+title: Nehemiah 7:6
+type: Verse
+kjv: "These are the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;"
+bsb: "These are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,"
+hebrew: "אֵ֣לֶּה׀ בְּנֵ֣י הַמְּדִינָ֗ה הָעֹלִים֙ מִשְּׁבִ֣י הַגּוֹלָ֔ה אֲשֶׁ֣ר הֶגְלָ֔ה נְבוּכַדְנֶצַּ֖ר מֶ֣לֶךְ בָּבֶ֑ל וַיָּשׁ֧וּבוּ לִֽירוּשָׁלִַ֛ם וְלִיהוּדָ֖ה אִ֥ישׁ לְעִירֽוֹ׃"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H0428]]"
+- "[[H9015]]"
+- "[[H1121G]]"
+- "[[H9009]]"
+- "[[H4082]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H7628A]]"
+- "[[H1473]]"
+- "[[H0834A]]"
+- "[[H1540K]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H0376I]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 7:6**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the children of the province, that went up out of the captivity, of those that had been carried away, whom Nebuchadnezzar the king of Babylon had carried away, and came again to Jerusalem and to Judah, every one unto his city;
 <small><sub>**BSB:**</sub></small>
 These are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]][[H9015\|׀]] [[H1121G\|בְּנֵ֣י]] [[H9009\|הַ]][[H4082\|מְּדִינָ֗ה]] [[H9009\|הָ]][[H5927G\|עֹלִים֙]] [[H9006\|מִ]][[H7628A\|שְּׁבִ֣י]] [[H9009\|הַ]][[H1473\|גּוֹלָ֔ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H1540K\|הֶגְלָ֔ה]] [[H5019\|נְבוּכַדְנֶצַּ֖ר]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֑ל]] [[H9001\|וַ]][[H7725G\|יָּשׁ֧וּבוּ]] [[H9005\|לִֽ]][[H3389\|ירוּשָׁלִַ֛ם]] [[H9002\|וְ]][[H9005\|לִ]][[H3063G\|יהוּדָ֖ה]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H5892B\|עִירֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.5|<< Nehemiah 7:5]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.7|Nehemiah 7:7 >>]]</td></tr></table>
 

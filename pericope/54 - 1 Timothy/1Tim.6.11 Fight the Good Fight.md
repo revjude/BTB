@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Fight the Good Fight
+type: Pericope
 pericope: "[[1Tim.6.11 Fight the Good Fight|Fight the Good Fight]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 6
 book/chapter: "[[1Tim.6|1 Timothy 6]]"
-genre:
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 6
 verses:
 - "[[1Tim.6.11]]"
 - "[[1Tim.6.12]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Tim.6.16]]"
 ---
 
-[[1Tim.6|1 Timothy 6:11 - 1 Timothy 6:16]]
+<small>[[1Tim.6|1 Timothy 6:11-16]]</small>
 *Fight the Good Fight*
 
 [[1Tim.6.11|11]] But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.

@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 28:7
+type: Verse
+kjv: "Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day."
+bsb: "I will establish his kingdom forever, if he resolutely carries out My commandments and ordinances, as is being done this day.’"
+hebrew: "וַהֲכִינוֹתִ֥י אֶת־ מַלְכוּת֖וֹ עַד־ לְעוֹלָ֑ם אִם־ יֶחֱזַ֗ק לַעֲשׂ֛וֹת מִצְוֹתַ֥י וּמִשְׁפָּטַ֖י כַּיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[1Chr.28.1 David Commissions Solomon|David Commissions Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3559H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H0518A]]"
+- "[[H2388G]]"
+- "[[H6213A]]"
+- "[[H4687]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:7**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day.
 <small><sub>**BSB:**</sub></small>
 I will establish his kingdom forever, if he resolutely carries out My commandments and ordinances, as is being done this day.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3559H\|הֲכִינוֹתִ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H4438\|מַלְכוּת֖]][[H9023\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לְ]][[H5769G\|עוֹלָ֑ם]] [[H0518A\|אִם]][[H9014\|־]] [[H2388G\|יֶחֱזַ֗ק]] [[H9005\|לַ]][[H6213A\|עֲשׂ֛וֹת]] [[H4687\|מִצְוֹתַ֥]][[H9020\|י]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטַ֖]][[H9020\|י]] [[H9004\|כַּ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.6|<< 1 Chronicles 28:6]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.8|1 Chronicles 28:8 >>]]</td></tr></table>
 

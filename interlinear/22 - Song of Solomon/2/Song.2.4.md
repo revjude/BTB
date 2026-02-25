@@ -1,8 +1,48 @@
+---
+title: Song of Solomon 2:4
+type: Verse
+kjv: "He brought me to the banqueting house, and his banner over me was love."
+bsb: "He has brought me to the house of wine, and his banner over me is love."
+hebrew: "הֱבִיאַ֙נִי֙ אֶל־ בֵּ֣ית הַיָּ֔יִן וְדִגְל֥וֹ עָלַ֖י אַהֲבָֽה׃"
+pericope: "[[Song.2.3 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H0935P]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H1714]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H0160]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:4**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He brought me to the banqueting house, and his banner over me [was] love.
 <small><sub>**BSB:**</sub></small>
 He has brought me to the house of wine, and his banner over me is love.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935P\|הֱבִיאַ֙]][[H9030\|נִי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H3196\|יָּ֔יִן]] [[H9002\|וְ]][[H1714\|דִגְל֥]][[H9023\|וֹ]] [[H5921A\|עָלַ֖]][[H9030\|י]] [[H0160\|אַהֲבָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.3|<< Song of Solomon 2:3]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.5|Song of Solomon 2:5 >>]]</td></tr></table>
 

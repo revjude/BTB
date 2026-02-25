@@ -1,8 +1,79 @@
+---
+title: Isaiah 5:25
+type: Verse
+kjv: "Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them: and the hills did tremble, and their carcases were torn in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still."
+bsb: "Therefore the anger of the LORD burns against His people; His hand is raised against them to strike them down. The mountains quake, and the corpses lie like refuse in the streets. Despite all this, His anger is not turned away; His hand is still upraised."
+hebrew: "עַל־ כֵּ֡ן חָרָה֩ אַף־ יְהוָ֨ה בְּעַמּ֜וֹ וַיֵּ֣ט יָד֧וֹ עָלָ֣יו וַיַּכֵּ֗הוּ וַֽיִּרְגְּזוּ֙ הֶֽהָרִ֔ים וַתְּהִ֧י נִבְלָתָ֛ם כַּסּוּחָ֖ה בְּקֶ֣רֶב חוּצ֑וֹת בְּכָל־ זֹאת֙ לֹא־ שָׁ֣ב אַפּ֔וֹ וְע֖וֹד יָד֥וֹ נְטוּיָֽה׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H3027G]]"
+- "[[H9033]]"
+- "[[H5221]]"
+- "[[H7264]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H1961]]"
+- "[[H5038]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H5478]]"
+- "[[H7130G]]"
+- "[[H2351]]"
+- "[[H3605]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H7725I]]"
+- "[[H9002]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:25**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them: and the hills did tremble, and their carcases [were] torn in the midst of the streets. For all this his anger is not turned away, but his hand [is] stretched out still.
 <small><sub>**BSB:**</sub></small>
 Therefore the anger of the LORD burns against His people; His hand is raised against them to strike them down. The mountains quake, and the corpses lie like refuse in the streets. Despite all this, His anger is not turned away; His hand is still upraised.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֡ן]] [[H2734\|חָרָה֩]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָ֨ה]] [[H9003\|בְּ]][[H5971A\|עַמּ֜]][[H9023\|וֹ]] [[H9001\|וַ]][[H5186\|יֵּ֣ט]] [[H3027G\|יָד֧]][[H9023\|וֹ]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H9001\|וַ]][[H5221\|יַּכֵּ֗]][[H9033\|הוּ]] [[H9001\|וַֽ]][[H7264\|יִּרְגְּזוּ֙]] [[H9009\|הֶֽ]][[H2022G\|הָרִ֔ים]] [[H9001\|וַ]][[H1961\|תְּהִ֧י]] [[H5038\|נִבְלָתָ֛]][[H9028\|ם]] [[H9004\|כַּ]][[H5478\|סּוּחָ֖ה]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H2351\|חוּצ֑וֹת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2063\|זֹאת֙]] [[H3808\|לֹא]][[H9014\|־]] [[H7725I\|שָׁ֣ב]] [[H0639G\|אַפּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H5750\|ע֖וֹד]] [[H3027G\|יָד֥]][[H9023\|וֹ]] [[H5186\|נְטוּיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISAIAH|ISAIAH]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SCOFFING|SCOFFING]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.24|<< Isaiah 5:24]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.26|Isaiah 5:26 >>]]</td></tr></table>
 

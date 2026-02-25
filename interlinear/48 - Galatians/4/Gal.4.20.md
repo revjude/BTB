@@ -1,10 +1,53 @@
+---
+title: Galatians 4:20
+type: Verse
+kjv: "I desire to be present with you now, and to change my voice; for I stand in doubt of you."
+bsb: "how I wish I could be with you now and change my tone, because I am perplexed about you."
+greek: "ἤθελον δὲ παρεῖναι πρὸς ὑμᾶς ἄρτι καὶ ἀλλάξαι τὴν φωνήν μου, ὅτι ἀποροῦμαι ἐν ὑμῖν.¶"
+pericope: "[[Gal.4.8 Paul’s Concern for the Galatians|Paul’s Concern for the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G2309]]"
+- "[[G1161]]"
+- "[[G3918]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G0737]]"
+- "[[G2532]]"
+- "[[G0236]]"
+- "[[G3588]]"
+- "[[G5456G]]"
+- "[[G3165]]"
+- "[[G3754H]]"
+- "[[G0639]]"
+- "[[G1722]]"
+texts:
+- NKO
+---
+
 **Galatians 4:20**<big><big>[[Gal.4.8 Paul’s Concern for the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I desire to be present with you now, and to change my voice; for I stand in doubt of you.
 <small><sub>**BSB:**</sub></small>
 how I wish I could be with you now and change my tone, because I am perplexed about you.
-<small><sub>**Literal:**</sub></small>
-I was wishing indeed to be present with you presently and to change the tone of mine, because I am perplexed as to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.19|<< Galatians 4:19]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.21|Galatians 4:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2309\|ἤθελον]]  [[G1161\|δὲ]]  [[G3918\|παρεῖναι]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G0737\|ἄρτι]]  [[G2532\|καὶ]]  [[G0236\|ἀλλάξαι]]  [[G3588\|τὴν]]  [[G5456G\|φωνήν]]  [[G3165\|μου,]]  [[G3754H\|ὅτι]]  [[G0639\|ἀποροῦμαι]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.19|<< Galatians 4:19]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.21|Galatians 4:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

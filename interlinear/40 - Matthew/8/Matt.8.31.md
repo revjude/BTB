@@ -1,10 +1,62 @@
+---
+title: Matthew 8:31
+type: Verse
+kjv: "So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine."
+bsb: "So the demons begged Jesus, “If You drive us out, send us into the herd of pigs.”"
+greek: "οἱ δὲ δαίμονες παρεκάλουν αὐτὸν λέγοντες· εἰ ἐκβάλλεις ἡμᾶς, ἐπίτρεψον ἀπόστειλον ἡμᾶς εἰς τὴν ἀγέλην τῶν χοίρων."
+pericope: "[[Matt.8.28 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1142]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1487G]]"
+- "[[G1544]]"
+- "[[G3165]]"
+- "[[G2010]]"
+- "[[G0649]]"
+- "[[G1519]]"
+- "[[G0034]]"
+- "[[G5519]]"
+texts:
+- NKO
+- K
+- N(K)O
+---
+
 **Matthew 8:31**<big><big>[[Matt.8.28 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
 <small><sub>**BSB:**</sub></small>
 So the demons begged Jesus, “If You drive us out, send us into the herd of pigs.”
-<small><sub>**Literal:**</sub></small>
-<the> And the demons were begging Him saying; If You cast out us, do allow do send away us into the herd <the> of pigs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.30|<< Matthew 8:30]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.32|Matthew 8:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G1142\|δαίμονες]]  [[G3870\|παρεκάλουν]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντες·]]  [[G1487G\|εἰ]]  [[G1544\|ἐκβάλλεις]]  [[G3165\|ἡμᾶς,]]  [[G2010\|ἐπίτρεψον]]  [[G0649\|ἀπόστειλον]]  [[G3165\|ἡμᾶς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0034\|ἀγέλην]]  [[G3588\|τῶν]]  [[G5519\|χοίρων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.30|<< Matthew 8:30]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.32|Matthew 8:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

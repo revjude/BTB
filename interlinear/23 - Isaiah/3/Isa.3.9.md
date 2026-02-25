@@ -1,8 +1,68 @@
+---
+title: Isaiah 3:9
+type: Verse
+kjv: "The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves."
+bsb: "The expression on their faces testifies against them, and like Sodom they flaunt their sin; they do not conceal it. Woe to them, for they have brought disaster upon themselves."
+hebrew: "הַכָּרַ֤ת פְּנֵיהֶם֙ עָ֣נְתָה בָּ֔ם וְחַטָּאתָ֛ם כִּסְדֹ֥ם הִגִּ֖ידוּ לֹ֣א כִחֵ֑דוּ א֣וֹי לְנַפְשָׁ֔ם כִּֽי־ גָמְל֥וּ לָהֶ֖ם רָעָֽה׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic FACE|FACE]]"
+- "[[topic PHYSIOGNOMY|PHYSIOGNOMY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1971]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H6030B]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H9004]]"
+- "[[H5467]]"
+- "[[H5046]]"
+- "[[H3808]]"
+- "[[H3582]]"
+- "[[H0188]]"
+- "[[H9005]]"
+- "[[H5315I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1580]]"
+- "[[H7451I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:9**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide [it] not. Woe unto their soul! for they have rewarded evil unto themselves.
 <small><sub>**BSB:**</sub></small>
 The expression on their faces testifies against them, and like Sodom they flaunt their sin; they do not conceal it. Woe to them, for they have brought disaster upon themselves.
+<small><sub>**Hebrew:**</sub></small>
+[[H1971\|הַכָּרַ֤ת]] [[H6440H\|פְּנֵי]][[H9028\|הֶם֙]] [[H6030B\|עָ֣נְתָה]] [[H9003\|בָּ֔]][[H9038\|ם]] [[H9002\|וְ]][[H2403B\|חַטָּאתָ֛]][[H9028\|ם]] [[H9004\|כִּ]][[H5467\|סְדֹ֥ם]] [[H5046\|הִגִּ֖ידוּ]] [[H3808\|לֹ֣א]] [[H3582\|כִחֵ֑דוּ]] [[H0188\|א֣וֹי]] [[H9005\|לְ]][[H5315I\|נַפְשָׁ֔]][[H9028\|ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1580\|גָמְל֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H7451I\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COUNTENANCE|COUNTENANCE]] • [[topic FACE|FACE]] • [[topic PHYSIOGNOMY|PHYSIOGNOMY]] • [[topic SIN|SIN]] • [[topic SODOM|SODOM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.8|<< Isaiah 3:8]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.10|Isaiah 3:10 >>]]</td></tr></table>
 

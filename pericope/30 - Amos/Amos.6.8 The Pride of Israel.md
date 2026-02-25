@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Pride of Israel
+type: Pericope
 pericope: "[[Amos.6.8 The Pride of Israel|The Pride of Israel]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 6
 book/chapter: "[[Amos.6|Amos 6]]"
-genre:
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 7
 verses:
 - "[[Amos.6.8]]"
 - "[[Amos.6.9]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Amos.6.14]]"
 ---
 
-[[Amos.6|Amos 6:8 - Amos 6:14]]
+<small>[[Amos.6|Amos 6:8-14]]</small>
 *The Pride of Israel*
 
 [[Amos.6.8|8]] The Lord GOD hath sworn by himself, saith the LORD the God of hosts, I abhor the excellency of Jacob, and hate his palaces: therefore will I deliver up the city with all that is therein.

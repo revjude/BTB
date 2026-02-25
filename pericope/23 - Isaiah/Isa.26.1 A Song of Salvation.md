@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Song of Salvation
+type: Pericope
 pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 26
 book/chapter: "[[Isa.26|Isaiah 26]]"
-genre:
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 21
 verses:
 - "[[Isa.26.1]]"
 - "[[Isa.26.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Isa.26.21]]"
 ---
 
-[[Isa.26|Isaiah 26:1 - Isaiah 26:21]]
+<small>[[Isa.26|Isaiah 26:1-21]]</small>
 *A Song of Salvation*
 
 [[Isa.26.1|1]] In that day shall this song be sung in the land of Judah; We have a strong city; salvation will \[God\] appoint \[for\] walls and bulwarks.

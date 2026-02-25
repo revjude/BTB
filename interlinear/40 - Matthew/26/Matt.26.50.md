@@ -1,10 +1,65 @@
+---
+title: Matthew 26:50
+type: Verse
+kjv: "And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him."
+bsb: "“Friend,” Jesus replied, “do what you came for.” Then the men stepped forward, seized Jesus, and arrested Him."
+jesus_said: "Friend, wherefore art thou come?"
+greek: "Ὁ δὲ Ἰησοῦς εἶπεν αὐτῷ· ἑταῖρε, ἐφ᾽ ὃ πάρει. τότε προσελθόντες ἐπέβαλον τὰς χεῖρας ἐπὶ τὸν Ἰησοῦν καὶ ἐκράτησαν αὐτόν."
+pericope: "[[Matt.26.47 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETRAYAL|BETRAYAL]]"
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2083]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G3918]]"
+- "[[G5119]]"
+- "[[G4334]]"
+- "[[G1911]]"
+- "[[G5495]]"
+- "[[G2532]]"
+- "[[G2902]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 26:50**<big><big>[[Matt.26.47 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Friend, wherefore art thou come? Then came they, and laid hands on Jesus, and took him.
 <small><sub>**BSB:**</sub></small>
 “Friend,” Jesus replied, “do what you came for.” Then the men stepped forward, seized Jesus, and arrested Him.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said to him; Friend, [do] for what you are come. Then having come to [him] they laid <the> hands on <the> Jesus and seized Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.49|<< Matthew 26:49]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.51|Matthew 26:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G2083\|ἑταῖρε,]]  [[G1909\|ἐφ᾽]]  [[G3739\|ὃ]]  [[G3918\|πάρει.]]  [[G5119\|τότε]]  [[G4334\|προσελθόντες]]  [[G1911\|ἐπέβαλον]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G2902\|ἐκράτησαν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETRAYAL|BETRAYAL]] • [[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.49|<< Matthew 26:49]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.51|Matthew 26:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

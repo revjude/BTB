@@ -1,8 +1,75 @@
+---
+title: Job 1:8
+type: Verse
+kjv: "And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?"
+bsb: "Then the LORD said to Satan, “Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil.”"
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ הַשָּׂטָ֔ן הֲשַׂ֥מְתָּ לִבְּךָ֖ עַל־ עַבְדִּ֣י אִיּ֑וֹב כִּ֣י אֵ֤ין כָּמֹ֙הוּ֙ בָּאָ֔רֶץ אִ֣ישׁ תָּ֧ם וְיָשָׁ֛ר יְרֵ֥א אֱלֹהִ֖ים וְסָ֥ר מֵרָֽע׃"
+pericope: "[[Job.1.6 Satan’s First Attack|Satan’s First Attack]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JOB|JOB]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7854]]"
+- "[[H9008]]"
+- "[[H7760K]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0347]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0376G]]"
+- "[[H8535]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H3373]]"
+- "[[H0430G]]"
+- "[[H5493I]]"
+- "[[H9006]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 1:8**<big><big>[[Job.1.6 Satan’s First Attack|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Satan, Hast thou considered my servant Job, that [there is] none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Satan, “Have you considered My servant Job? For there is no one on earth like him, a man who is blameless and upright, who fears God and shuns evil.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7854\|שָּׂטָ֔ן]] [[H9008\|הֲ]][[H7760K\|שַׂ֥מְתָּ]] [[H3820A\|לִבְּ]][[H9021\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H5650\|עַבְדִּ֣]][[H9020\|י]] [[H0347\|אִיּ֑וֹב]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֤ין]] [[H3644G\|כָּמֹ֙]][[H9033\|הוּ֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H0376G\|אִ֣ישׁ]] [[H8535\|תָּ֧ם]] [[H9002\|וְ]][[H3477G\|יָשָׁ֛ר]] [[H3373\|יְרֵ֥א]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וְ]][[H5493I\|סָ֥ר]] [[H9006\|מֵ]][[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOB|JOB]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.7|<< Job 1:7]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.9|Job 1:9 >>]]</td></tr></table>
 

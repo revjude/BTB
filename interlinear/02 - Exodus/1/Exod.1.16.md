@@ -1,8 +1,72 @@
+---
+title: Exodus 1:16
+type: Verse
+kjv: "And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live."
+bsb: "“When you help the Hebrew women give birth, observe them on the birthstools. If the child is a son, kill him; but if it is a daughter, let her live.”"
+hebrew: "וַיֹּ֗אמֶר בְּיַלֶּדְכֶן֙ אֶת־ הָֽעִבְרִיּ֔וֹת וּרְאִיתֶ֖ן עַל־ הָאָבְנָ֑יִם אִם־ בֵּ֥ן הוּא֙ וַהֲמִתֶּ֣ן אֹת֔וֹ וְאִם־ בַּ֥ת הִ֖יא וָחָֽיָה׃"
+pericope: "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INFANTICIDE|INFANTICIDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIDWIFERY|MIDWIFERY]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3205]]"
+- "[[H9047]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H7200G]]"
+- "[[H5921A]]"
+- "[[H0070]]"
+- "[[H0518A]]"
+- "[[H1121A]]"
+- "[[H1931]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 1:16**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, When ye do the office of a midwife to the Hebrew women, and see [them] upon the stools; if it [be] a son, then ye shall kill him: but if it [be] a daughter, then she shall live.
 <small><sub>**BSB:**</sub></small>
 “When you help the Hebrew women give birth, observe them on the birthstools. If the child is a son, kill him; but if it is a daughter, let her live.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9003\|בְּ]][[H3205\|יַלֶּדְ]][[H9047\|כֶן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H5680\|עִבְרִיּ֔וֹת]] [[H9001\|וּ]][[H7200G\|רְאִיתֶ֖ן]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0070\|אָבְנָ֑יִם]] [[H0518A\|אִם]][[H9014\|־]] [[H1121A\|בֵּ֥ן]] [[H1931\|הוּא֙]] [[H9001\|וַ]][[H4191\|הֲמִתֶּ֣ן]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1323G\|בַּ֥ת]] [[H1931\|הִ֖יא]] [[H9001\|וָ]][[H2421\|חָֽיָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic INFANTICIDE|INFANTICIDE]] • [[topic ISRAEL|ISRAEL]] • [[topic MIDWIFERY|MIDWIFERY]] • [[topic OPPRESSION|OPPRESSION]] • [[topic SERVANT|SERVANT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.15|<< Exodus 1:15]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.17|Exodus 1:17 >>]]</td></tr></table>
 

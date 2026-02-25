@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Bricks and Straw
+type: Pericope
 pericope: "[[Exod.5.6 Bricks and Straw|Bricks and Straw]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 5
 book/chapter: "[[Exod.5|Exodus 5]]"
-genre:
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.5.6]]"
 - "[[Exod.5.7]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.5.14]]"
 ---
 
-[[Exod.5|Exodus 5:6 - Exodus 5:14]]
+<small>[[Exod.5|Exodus 5:6-14]]</small>
 *Bricks and Straw*
 
 [[Exod.5.6|6]] And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,

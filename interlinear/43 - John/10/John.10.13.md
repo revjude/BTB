@@ -1,10 +1,59 @@
+---
+title: John 10:13
+type: Verse
+kjv: "The hireling fleeth, because he is an hireling, and careth not for the sheep."
+bsb: "The man runs away because he is a hired servant and is unconcerned for the sheep."
+jesus_said: "The hireling fleeth, because he is an hireling, and careth not for the sheep."
+greek: "ὁ δὲ μισθωτὸς φεύγει ὅτι μισθωτός ἐστιν καὶ οὐ μέλει αὐτῷ περὶ τῶν προβάτων.¶"
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3411]]"
+- "[[G5343]]"
+- "[[G3754H]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G3199]]"
+- "[[G0846]]"
+- "[[G4012]]"
+- "[[G4263]]"
+texts:
+- k(o)
+- k
+- NKO
+---
+
 **John 10:13**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The hireling fleeth, because he is an hireling, and careth not for the sheep.
 <small><sub>**BSB:**</sub></small>
 The man runs away because he is a hired servant and is unconcerned for the sheep.
-<small><sub>**Literal:**</sub></small>
-this now hired servant flees because a hired servant he is and not he is himself concerned to him about the sheep.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.12|<< John 10:12]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.14|John 10:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3411\|μισθωτὸς]]  [[G5343\|φεύγει]]  [[G3754H\|ὅτι]]  [[G3411\|μισθωτός]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3199\|μέλει]]  [[G0846\|αὐτῷ]]  [[G4012\|περὶ]]  [[G3588\|τῶν]]  [[G4263\|προβάτων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMPLOYEE|EMPLOYEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.12|<< John 10:12]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.14|John 10:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

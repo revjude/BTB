@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Skilled Craftsmen
+type: Pericope
 pericope: "[[Exod.35.10 The Skilled Craftsmen|The Skilled Craftsmen]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 35
 book/chapter: "[[Exod.35|Exodus 35]]"
-genre:
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 10
 verses:
 - "[[Exod.35.10]]"
 - "[[Exod.35.11]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Exod.35.19]]"
 ---
 
-[[Exod.35|Exodus 35:10 - Exodus 35:19]]
+<small>[[Exod.35|Exodus 35:10-19]]</small>
 *The Skilled Craftsmen*
 
 [[Exod.35.10|10]] And every wise hearted among you shall come, and make all that the LORD hath commanded;

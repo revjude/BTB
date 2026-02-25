@@ -1,10 +1,61 @@
+---
+title: Luke 19:11
+type: Verse
+kjv: "And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear."
+bsb: "While the people were listening to this, Jesus proceeded to tell them a parable, because He was near Jerusalem and they thought the kingdom of God would appear imminently."
+greek: "Ἀκουόντων δὲ αὐτῶν ταῦτα προσθεὶς εἶπεν παραβολὴν διὰ τὸ ἐγγὺς εἶναι Ἰερουσαλὴμ αὐτὸν καὶ δοκεῖν αὐτοὺς ὅτι παραχρῆμα μέλλει ἡ βασιλεία τοῦ θεοῦ ἀναφαίνεσθαι.¶"
+pericope: "[[Luke.19.11 The Parable of the Ten Minas|The Parable of the Ten Minas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G4369]]"
+- "[[G2036]]"
+- "[[G3850]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G1451]]"
+- "[[G1511]]"
+- "[[G2419]]"
+- "[[G2532]]"
+- "[[G1380]]"
+- "[[G3754G]]"
+- "[[G3916]]"
+- "[[G3195]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G0398]]"
+texts:
+- NKO
+---
+
 **Luke 19:11**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.
 <small><sub>**BSB:**</sub></small>
 While the people were listening to this, Jesus proceeded to tell them a parable, because He was near Jerusalem and they thought the kingdom of God would appear imminently.
-<small><sub>**Literal:**</sub></small>
-When are  hearing now they these things having proceeded He spoke a parable because <the> near being to Jerusalem He and thinking they that immediately is about the kingdom <the> of God to appear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.10|<< Luke 19:10]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.12|Luke 19:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκουόντων]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G3778\|ταῦτα]]  [[G4369\|προσθεὶς]]  [[G2036\|εἶπεν]]  [[G3850\|παραβολὴν]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G1451\|ἐγγὺς]]  [[G1511\|εἶναι]]  [[G2419\|Ἰερουσαλὴμ]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G1380\|δοκεῖν]]  [[G0846\|αὐτοὺς]]  [[G3754G\|ὅτι]]  [[G3916\|παραχρῆμα]]  [[G3195\|μέλλει]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0398\|ἀναφαίνεσθαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.10|<< Luke 19:10]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.12|Luke 19:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

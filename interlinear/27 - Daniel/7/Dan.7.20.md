@@ -1,8 +1,70 @@
+---
+title: Daniel 7:20
+type: Verse
+kjv: "And of the ten horns that were in his head, and of the other which came up, and before whom three fell; even of that horn that had eyes, and a mouth that spake very great things, whose look was more stout than his fellows."
+bsb: "I also wanted to know about the ten horns on its head and the other horn that came up, before which three of them fell—the horn whose appearance was more imposing than the others, with eyes and with a mouth that spoke words of arrogance."
+aramaic: "וְעַל־ קַרְנַיָּ֤א עֲשַׂר֙ דִּ֣י בְרֵאשַׁ֔הּ וְאָחֳרִי֙ דִּ֣י סִלְקַ֔ת וּנְפַ֥לָה מִן־ קֳדָמַ֖הּ תְּלָ֑ת וְקַרְנָ֨א דִכֵּ֜ן וְעַיְנִ֣ין לַ֗הּ וְפֻם֙ מְמַלִּ֣ל רַבְרְבָ֔ן וְחֶזְוַ֖הּ רַ֥ב מִן־ חַבְרָתַֽהּ׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H7162]]"
+- "[[H9010]]"
+- "[[H6236]]"
+- "[[H1768]]"
+- "[[H9003]]"
+- "[[H7217]]"
+- "[[H9024]]"
+- "[[H0317]]"
+- "[[H5559]]"
+- "[[H5308]]"
+- "[[H4481]]"
+- "[[H6925]]"
+- "[[H9034]]"
+- "[[H8532]]"
+- "[[H1797]]"
+- "[[H5870]]"
+- "[[H9005]]"
+- "[[H6433]]"
+- "[[H4449]]"
+- "[[H7260]]"
+- "[[H2376]]"
+- "[[H7229]]"
+- "[[H2273]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 7:20**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the ten horns that [were] in his head, and [of] the other which came up, and before whom three fell; even [of] that horn that had eyes, and a mouth that spake very great things, whose look [was] more stout than his fellows.
 <small><sub>**BSB:**</sub></small>
 I also wanted to know about the ten horns on its head and the other horn that came up, before which three of them fell—the horn whose appearance was more imposing than the others, with eyes and with a mouth that spoke words of arrogance.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H5922\|עַל]][[H9014\|־]] [[H7162\|קַרְנַיָּ֤]][[H9010\|א]] [[H6236\|עֲשַׂר֙]] [[H1768\|דִּ֣י]] [[H9003\|בְ]][[H7217\|רֵאשַׁ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H0317\|אָחֳרִי֙]] [[H1768\|דִּ֣י]] [[H5559\|סִלְקַ֔ת]] [[H9002\|וּ]][[H5308\|נְפַ֥לָה]] [[H4481\|מִן]][[H9014\|־]] [[H6925\|קֳדָמַ֖]][[H9034\|הּ]] [[H8532\|תְּלָ֑ת]] [[H9002\|וְ]][[H7162\|קַרְנָ֨]][[H9010\|א]] [[H1797\|דִכֵּ֜ן]] [[H9002\|וְ]][[H5870\|עַיְנִ֣ין]] [[H9005\|לַ֗]][[H9034\|הּ]] [[H9002\|וְ]][[H6433\|פֻם֙]] [[H4449\|מְמַלִּ֣ל]] [[H7260\|רַבְרְבָ֔ן]] [[H9002\|וְ]][[H2376\|חֶזְוַ֖]][[H9024\|הּ]] [[H7229\|רַ֥ב]] [[H4481\|מִן]][[H9014\|־]] [[H2273\|חַבְרָתַֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.19|<< Daniel 7:19]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.21|Daniel 7:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -37,8 +99,8 @@ I also wanted to know about the ten horns on its head and the other horn that ca
 | companion its  |**<big>&#8207;[[H2273\|חַבְרָתַֽ]]&#8207;&#8207;[[H9024\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| chav.ra.Ta<small><sup>[[ANcfpc]]</sup></small> h<small><sup>[[ASp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.19|<< Daniel 7:19]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.21|Daniel 7:21 >>]]</td></tr></table>
 
-[^1]: and they fell  | **<big>[[H5308|נְפַלוּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> ne.fa.lu<small><sup>[[AVqp3mp]]</sup></small> | K
-[^2]: and they fell  | **<big>[[H5308|נְפַלוּ]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> ne.fa.lu<small><sup>[[AVqp3mp]]</sup></small> | K
+[^1]: and they fell  | **<big>[[H9002|וּ]]</big><big>[[H5308|נְפַלוּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> ne.fa.lu<small><sup>[[AVqp3mp]]</sup></small> | K
+[^2]: and they fell  | **<big>[[H9002|וּ]]</big><big>[[H5308|נְפַלוּ]]</big> ** | u.<small><sup>[[AC]]</sup></small> ne.fa.lu<small><sup>[[AVqp3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="asaramaic"><big>וּנְפַ֥לָו</big></span>**
 [^4]: L spelled: **<span class="asaramaic"><big>קֳדָמַ֖יהּ</big></span>**
 [^5]: K spelled: **<span class="asaramaic"><big>קֳדָמַיַּהּ</big></span>**

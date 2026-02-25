@@ -1,8 +1,63 @@
+---
+title: Daniel 6:11
+type: Verse
+kjv: "Then these men assembled, and found Daniel praying and making supplication before his God."
+bsb: "Then these men went as a group and found Daniel petitioning and imploring his God."
+aramaic: "אֱ֠דַיִן גֻּבְרַיָּ֤א אִלֵּךְ֙ הַרְגִּ֔שׁוּ וְהַשְׁכַּ֖חוּ לְדָנִיֵּ֑אל בָּעֵ֥א וּמִתְחַנַּ֖ן קֳדָ֥ם אֱלָהֵֽהּ׃"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H0116]]"
+- "[[H1400]]"
+- "[[H9010]]"
+- "[[H0479]]"
+- "[[H7284]]"
+- "[[H9002]]"
+- "[[H7912]]"
+- "[[H9005]]"
+- "[[H1841H]]"
+- "[[H1156]]"
+- "[[H2604]]"
+- "[[H6925]]"
+- "[[H0426]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:11**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then these men assembled, and found Daniel praying and making supplication before his God.
 <small><sub>**BSB:**</sub></small>
 Then these men went as a group and found Daniel petitioning and imploring his God.
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱ֠דַיִן]] [[H1400\|גֻּבְרַיָּ֤]][[H9010\|א]] [[H0479\|אִלֵּךְ֙]] [[H7284\|הַרְגִּ֔שׁוּ]] [[H9002\|וְ]][[H7912\|הַשְׁכַּ֖חוּ]] [[H9005\|לְ]][[H1841H\|דָנִיֵּ֑אל]] [[H1156\|בָּעֵ֥א]] [[H9002\|וּ]][[H2604\|מִתְחַנַּ֖ן]] [[H6925\|קֳדָ֥ם]] [[H0426\|אֱלָהֵֽ]][[H9023\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DANIEL|DANIEL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic PERSIA|PERSIA]] • [[topic POLITICS|POLITICS]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.10|<< Daniel 6:10]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.12|Daniel 6:12 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 7:31
+type: Verse
+kjv: "And they that use this world, as not abusing it: for the fashion of this world passeth away."
+bsb: "and those who use the things of this world, as if not dependent on them. For this world in its present form is passing away."
+greek: "καὶ οἱ χρώμενοι τὸν κόσμον τούτῳ ὡς μὴ καταχρώμενοι. παράγει γὰρ τὸ σχῆμα τοῦ κόσμου τούτου·"
+pericope: "[[1Cor.7.25 The Unmarried and Widowed|The Unmarried and Widowed]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SPIRITUALITY|SPIRITUALITY]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5530]]"
+- "[[G2889]]"
+- "[[G3778]]"
+- "[[G5613]]"
+- "[[G3361]]"
+- "[[G2710]]"
+- "[[G3855]]"
+- "[[G1063]]"
+- "[[G4976]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **1 Corinthians 7:31**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that use this world, as not abusing [it]: for the fashion of this world passeth away.
 <small><sub>**BSB:**</sub></small>
 and those who use the things of this world, as if not dependent on them. For this world in its present form is passing away.
-<small><sub>**Literal:**</sub></small>
-and those using <the> world this as not using [it] as their own. Is passing away for the present form of the world this;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.30|<< 1 Corinthians 7:30]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.32|1 Corinthians 7:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5530\|χρώμενοι]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G3778\|τούτῳ]]  [[G5613\|ὡς]]  [[G3361\|μὴ]]  [[G2710\|καταχρώμενοι.]]  [[G3855\|παράγει]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G4976\|σχῆμα]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3778\|τούτου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARRIAGE|MARRIAGE]] • [[topic SPIRITUALITY|SPIRITUALITY]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic WORLDLINESS|WORLDLINESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.30|<< 1 Corinthians 7:30]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.32|1 Corinthians 7:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

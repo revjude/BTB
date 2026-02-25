@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 3:10
+type: Verse
+kjv: "To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beersheba."
+bsb: "to transfer the kingdom from the house of Saul and to establish the throne of David over Israel and Judah, from Dan to Beersheba.”"
+hebrew: "לְהַֽעֲבִ֥יר הַמַּמְלָכָ֖ה מִבֵּ֣ית שָׁא֑וּל וּלְהָקִ֞ים אֶת־ כִּסֵּ֣א דָוִ֗ד עַל־ יִשְׂרָאֵל֙ וְעַל־ יְהוּדָ֔ה מִדָּ֖ן וְעַד־ בְּאֵ֥ר שָֽׁבַע׃"
+pericope: "[[2Sam.3.6 Abner Joins David|Abner Joins David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic ISH-BOSHETH|ISH-BOSHETH]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9005]]"
+- "[[H5674C]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3678G]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H1835G]]"
+- "[[H5704]]"
+- "[[H0884]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:10**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beersheba.
 <small><sub>**BSB:**</sub></small>
 to transfer the kingdom from the house of Saul and to establish the throne of David over Israel and Judah, from Dan to Beersheba.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5674C\|הַֽעֲבִ֥יר]] [[H9009\|הַ]][[H4467\|מַּמְלָכָ֖ה]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H7586G\|שָׁא֑וּל]] [[H9002\|וּ]][[H9005\|לְ]][[H6965I\|הָקִ֞ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3678G\|כִּסֵּ֣א]] [[H1732\|דָוִ֗ד]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9006\|מִ]][[H1835G\|דָּ֖ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0884\|בְּאֵ֥ר]] [[H0884\|שָֽׁבַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic ISH-BOSHETH|ISH-BOSHETH]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.9|<< 2 Samuel 3:9]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.11|2 Samuel 3:11 >>]]</td></tr></table>
 

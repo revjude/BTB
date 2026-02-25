@@ -1,8 +1,81 @@
+---
+title: Jeremiah 11:4
+type: Verse
+kjv: "Which I commanded your fathers in the day that I brought them forth out of the land of Egypt, from the iron furnace, saying, Obey my voice, and do them, according to all which I command you: so shall ye be my people, and I will be your God:"
+bsb: "which I commanded your forefathers when I brought them out of the land of Egypt, out of the iron furnace, saying, ‘Obey Me, and do everything I command you, and you will be My people, and I will be your God.’"
+hebrew: "אֲשֶׁ֣ר צִוִּ֣יתִי אֶת־ אֲבֽוֹתֵיכֶ֡ם בְּי֣וֹם הוֹצִיאִֽי־ אוֹתָ֣ם מֵאֶֽרֶץ־ מִצְרַיִם֩ מִכּ֨וּר הַבַּרְזֶ֜ל לֵאמֹ֗ר שִׁמְע֤וּ בְקוֹלִי֙ וַעֲשִׂיתֶ֣ם אוֹתָ֔ם כְּכֹ֥ל אֲשֶׁר־ אֲצַוֶּ֖ה אֶתְכֶ֑ם וִהְיִ֤יתֶם לִי֙ לְעָ֔ם וְאָ֣נֹכִ֔י אֶהְיֶ֥ה לָכֶ֖ם לֵאלֹהִֽים׃"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IRON|IRON]]"
+strongs:
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3318H]]"
+- "[[H9040]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3564]]"
+- "[[H9009]]"
+- "[[H1270]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9036]]"
+- "[[H1961]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 11:4**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which I commanded your fathers in the day [that] I brought them forth out of the land of Egypt, from the iron furnace, saying, Obey my voice, and do them, according to all which I command you: so shall ye be my people, and I will be your God:
 <small><sub>**BSB:**</sub></small>
 which I commanded your forefathers when I brought them out of the land of Egypt, out of the iron furnace, saying, ‘Obey Me, and do everything I command you, and you will be My people, and I will be your God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוִּ֣יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶ֡ם]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H3318H\|הוֹצִיאִֽ]][[H9040\|י]][[H9014\|־]] [[H0853\|אוֹתָ֣]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרַיִם֩]] [[H9006\|מִ]][[H3564\|כּ֨וּר]] [[H9009\|הַ]][[H1270\|בַּרְזֶ֜ל]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H8085G\|שִׁמְע֤וּ]] [[H9003\|בְ]][[H6963A\|קוֹלִ]][[H9020\|י֙]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתֶ֣ם]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|אֲצַוֶּ֖ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H9001\|וִ]][[H1961\|הְיִ֤יתֶם]] [[H9005\|לִ]][[H9030\|י֙]] [[H9005\|לְ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H0595\|אָ֣נֹכִ֔י]] [[H1961\|אֶהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לֵ]][[H0430G\|אלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic FURNACE|FURNACE]] • [[topic GOD|GOD]] • [[topic IRON|IRON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.3|<< Jeremiah 11:3]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.5|Jeremiah 11:5 >>]]</td></tr></table>
 

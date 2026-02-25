@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 18:23
+type: Verse
+kjv: "Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?"
+bsb: "Then Zedekiah son of Chenaanah went up, struck Micaiah in the face, and demanded, “Which way did the Spirit of the LORD go when He departed from me to speak with you?”"
+hebrew: "וַיִּגַּשׁ֙ צִדְקִיָּ֣הוּ בֶֽן־ כְּנַעֲנָ֔ה וַיַּ֥ךְ אֶת־ מִיכָ֖יְהוּ עַל־ הַלֶּ֑חִי וַיֹּ֗אמֶר אֵ֣י זֶ֤ה הַדֶּ֙רֶךְ֙ עָבַ֧ר רֽוּחַ־ יְהוָ֛ה מֵאִתִּ֖י לְדַבֵּ֥ר אֹתָֽךְ׃"
+pericope: "[[2Chr.18.12 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHENAANAH|CHENAANAH]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H6667G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3668G]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H4321G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H3895H]]"
+- "[[H0559]]"
+- "[[H0335]]"
+- "[[H2088]]"
+- "[[H1870J]]"
+- "[[H5674A]]"
+- "[[H7307G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:23**<big><big>[[2Chr.18.12 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?
 <small><sub>**BSB:**</sub></small>
 Then Zedekiah son of Chenaanah went up, struck Micaiah in the face, and demanded, “Which way did the Spirit of the LORD go when He departed from me to speak with you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066G\|יִּגַּשׁ֙]] [[H6667G\|צִדְקִיָּ֣הוּ]] [[H1121A\|בֶֽן]][[H9014\|־]] [[H3668G\|כְּנַעֲנָ֔ה]] [[H9001\|וַ]][[H5221\|יַּ֥ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H4321G\|מִיכָ֖יְהוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3895H\|לֶּ֑חִי]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0335\|אֵ֣י]] [[H2088\|זֶ֤ה]] [[H9009\|הַ]][[H1870J\|דֶּ֙רֶךְ֙]] [[H5674A\|עָבַ֧ר]] [[H7307G\|רֽוּחַ]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9006\|מֵ]][[H0854\|אִתִּ֖]][[H9030\|י]] [[H9005\|לְ]][[H1696G\|דַבֵּ֥ר]] [[H0854\|אֹתָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHENAANAH|CHENAANAH]] • [[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.22|<< 2 Chronicles 18:22]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.24|2 Chronicles 18:24 >>]]</td></tr></table>
 

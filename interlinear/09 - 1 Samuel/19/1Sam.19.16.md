@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 19:16
+type: Verse
+kjv: "And when the messengers were come in, behold, there was an image in the bed, with a pillow of goats’ hair for his bolster."
+bsb: "And when the messengers entered, there was the idol in the bed with the goat hair on its head."
+hebrew: "וַיָּבֹ֙אוּ֙ הַמַּלְאָכִ֔ים וְהִנֵּ֥ה הַתְּרָפִ֖ים אֶל־ הַמִּטָּ֑ה וּכְבִ֥יר הָעִזִּ֖ים מְרַאֲשֹׁתָֽיו׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic PILLOW|PILLOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H4397G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H8655]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4296]]"
+- "[[H3523]]"
+- "[[H5795]]"
+- "[[H4763]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 19:16**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the messengers were come in, behold, [there was] an image in the bed, with a pillow of goats’ [hair] for his bolster.
 <small><sub>**BSB:**</sub></small>
 And when the messengers entered, there was the idol in the bed with the goat hair on its head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֔ים]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H9009\|הַ]][[H8655\|תְּרָפִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4296\|מִּטָּ֑ה]] [[H9002\|וּ]][[H3523\|כְבִ֥יר]] [[H9009\|הָ]][[H5795\|עִזִּ֖ים]] [[H4763\|מְרַאֲשֹׁתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MICHAL|MICHAL]] • [[topic PILLOW|PILLOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.15|<< 1 Samuel 19:15]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.17|1 Samuel 19:17 >>]]</td></tr></table>
 

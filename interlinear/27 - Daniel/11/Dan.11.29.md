@@ -1,8 +1,52 @@
+---
+title: Daniel 11:29
+type: Verse
+kjv: "At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter."
+bsb: "At the appointed time he will invade the South again, but this time will not be like the first."
+hebrew: "לַמּוֹעֵ֥ד יָשׁ֖וּב וּבָ֣א בַנֶּ֑גֶב וְלֹֽא־ תִהְיֶ֥ה כָרִאשֹׁנָ֖ה וְכָאַחֲרֹנָֽה׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9005]]"
+- "[[H4150G]]"
+- "[[H7725G]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H5045H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7223H]]"
+- "[[H0314]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:29**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the time appointed he shall return, and come toward the south; but it shall not be as the former, or as the latter.
 <small><sub>**BSB:**</sub></small>
 At the appointed time he will invade the South again, but this time will not be like the first.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H4150G\|מּוֹעֵ֥ד]] [[H7725G\|יָשׁ֖וּב]] [[H9001\|וּ]][[H0935G\|בָ֣א]] [[H9003\|בַ]][[H5045H\|נֶּ֑גֶב]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|תִהְיֶ֥ה]] [[H9004\|כָ]][[H7223H\|רִאשֹׁנָ֖ה]] [[H9002\|וְ]][[H9004\|כָ]][[H0314\|אַחֲרֹנָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.28|<< Daniel 11:28]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.30|Daniel 11:30 >>]]</td></tr></table>
 

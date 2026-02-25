@@ -1,8 +1,56 @@
+---
+title: Nehemiah 11:31
+type: Verse
+kjv: "The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Bethel, and in their villages,"
+bsb: "The descendants of Benjamin from Geba lived in Michmash, Aija, and Bethel with its villages;"
+hebrew: "וּבְנֵ֥י בִנְיָמִ֖ן מִגָּ֑בַע מִכְמָ֣שׂ וְעַיָּ֔ה וּבֵֽית־ אֵ֖ל וּבְנֹתֶֽיהָ׃"
+pericope: "[[Neh.11.20 Residents Outside Jerusalem|Residents Outside Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AI|AI]]"
+- "[[topic GEBA|GEBA]]"
+- "[[topic MICHMASH|MICHMASH]]"
+- "[[topic NOB|NOB]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H1144G]]"
+- "[[H9006]]"
+- "[[H1387G]]"
+- "[[H4363]]"
+- "[[H5857G]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:31**<big><big>[[Neh.11.20 Residents Outside Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children also of Benjamin from Geba [dwelt] at Michmash, and Aija, and Bethel, and [in] their villages,
 <small><sub>**BSB:**</sub></small>
 The descendants of Benjamin from Geba lived in Michmash, Aija, and Bethel with its villages;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֥י]] [[H1144G\|בִנְיָמִ֖ן]] [[H9006\|מִ]][[H1387G\|גָּ֑בַע]] [[H4363\|מִכְמָ֣שׂ]] [[H9002\|וְ]][[H5857G\|עַיָּ֔ה]] [[H9002\|וּ]][[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵ֖ל]] [[H9002\|וּ]][[H1323H\|בְנֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AI|AI]] • [[topic GEBA|GEBA]] • [[topic MICHMASH|MICHMASH]] • [[topic NOB|NOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.30|<< Nehemiah 11:30]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.32|Nehemiah 11:32 >>]]</td></tr></table>
 

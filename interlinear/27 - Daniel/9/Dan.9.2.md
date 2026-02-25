@@ -1,8 +1,70 @@
+---
+title: Daniel 9:2
+type: Verse
+kjv: "In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem."
+bsb: "in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years."
+hebrew: "בִּשְׁנַ֤ת אַחַת֙ לְמָלְכ֔וֹ אֲנִי֙ דָּֽנִיֵּ֔אל בִּינֹ֖תִי בַּסְּפָרִ֑ים מִסְפַּ֣ר הַשָּׁנִ֗ים אֲשֶׁ֨ר הָיָ֤ה דְבַר־ יְהוָה֙ אֶל־ יִרְמִיָ֣ה הַנָּבִ֔יא לְמַלֹּ֛אות לְחָרְב֥וֹת יְרוּשָׁלִַ֖ם שִׁבְעִ֥ים שָׁנָֽה׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H0589]]"
+- "[[H1840G]]"
+- "[[H0995]]"
+- "[[H5612H]]"
+- "[[H4557]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H4390]]"
+- "[[H2723]]"
+- "[[H3389]]"
+- "[[H7657]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:2**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 in the first year of his reign, I, Daniel, understood from the sacred books, according to the word of the LORD to Jeremiah the prophet, that the desolation of Jerusalem would last seventy years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֤ת]] [[H0259\|אַחַת֙]] [[H9005\|לְ]][[H4427A\|מָלְכ֔]][[H9033\|וֹ]] [[H0589\|אֲנִי֙]] [[H1840G\|דָּֽנִיֵּ֔אל]] [[H0995\|בִּינֹ֖תִי]] [[H9003\|בַּ]][[H5612H\|סְּפָרִ֑ים]] [[H4557\|מִסְפַּ֣ר]] [[H9009\|הַ]][[H8141\|שָּׁנִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָיָ֤ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3414L\|יִרְמִיָ֣ה]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H9005\|לְ]][[H4390\|מַלֹּ֛אות]] [[H9005\|לְ]][[H2723\|חָרְב֥וֹת]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H7657\|שִׁבְעִ֥ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic SEVENTY|SEVENTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.1|<< Daniel 9:1]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.3|Daniel 9:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

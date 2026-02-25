@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Final Exhortations
+type: Pericope
 pericope: "[[2Pet.3.14 Final Exhortations|Final Exhortations]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 2 Peter
 chapter: 3
 book/chapter: "[[2Pet.3|2 Peter 3]]"
-genre:
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
 - epistle
 - general epistle
 - testament letter
 - polemical
+verse_count: 5
 verses:
 - "[[2Pet.3.14]]"
 - "[[2Pet.3.15]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Pet.3.18]]"
 ---
 
-[[2Pet.3|2 Peter 3:14 - 2 Peter 3:18]]
+<small>[[2Pet.3|2 Peter 3:14-18]]</small>
 *Final Exhortations*
 
 [[2Pet.3.14|14]] Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.

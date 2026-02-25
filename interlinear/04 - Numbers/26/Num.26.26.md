@@ -1,8 +1,62 @@
+---
+title: Numbers 26:26
+type: Verse
+kjv: "Of the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites."
+bsb: "These were the descendants of Zebulun by their clans: The Seredite clan from Sered, the Elonite clan from Elon, and the Jahleelite clan from Jahleel."
+hebrew: "בְּנֵ֣י זְבוּלֻן֮ לְמִשְׁפְּחֹתָם֒ לְסֶ֗רֶד מִשְׁפַּ֙חַת֙ הַסַּרְדִּ֔י לְאֵל֕וֹן מִשְׁפַּ֖חַת הָאֵלֹנִ֑י לְיַ֨חְלְאֵ֔ל מִשְׁפַּ֖חַת הַיַּחְלְאֵלִֽי׃"
+pericope: "[[Num.26.26 The Tribe of Zebulun|The Tribe of Zebulun]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ELON|ELON]]"
+- "[[topic ELONITES|ELONITES]]"
+- "[[topic JAHLEEL|JAHLEEL]]"
+- "[[topic SARDITES|SARDITES]]"
+- "[[topic SERED|SERED]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H1121G]]"
+- "[[H2074]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H5624]]"
+- "[[H9009]]"
+- "[[H5625]]"
+- "[[H0356H]]"
+- "[[H0440]]"
+- "[[H3177]]"
+- "[[H3178]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:26**<big><big>[[Num.26.26 The Tribe of Zebulun|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Of] the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites.
 <small><sub>**BSB:**</sub></small>
 These were the descendants of Zebulun by their clans: The Seredite clan from Sered, the Elonite clan from Elon, and the Jahleelite clan from Jahleel.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H2074\|זְבוּלֻן֮]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ]][[H9028\|ם֒]] [[H9005\|לְ]][[H5624\|סֶ֗רֶד]] [[H4940\|מִשְׁפַּ֙חַת֙]] [[H9009\|הַ]][[H5625\|סַּרְדִּ֔י]] [[H9005\|לְ]][[H0356H\|אֵל֕וֹן]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הָ]][[H0440\|אֵלֹנִ֑י]] [[H9005\|לְ]][[H3177\|יַ֨חְלְאֵ֔ל]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H3178\|יַּחְלְאֵלִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELON|ELON]] • [[topic ELONITES|ELONITES]] • [[topic JAHLEEL|JAHLEEL]] • [[topic SARDITES|SARDITES]] • [[topic SERED|SERED]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.25|<< Numbers 26:25]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.27|Numbers 26:27 >>]]</td></tr></table>
 

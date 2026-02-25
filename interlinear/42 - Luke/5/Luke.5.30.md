@@ -1,10 +1,58 @@
+---
+title: Luke 5:30
+type: Verse
+kjv: "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?"
+bsb: "But the Pharisees and their scribes complained to Jesus’ disciples, “Why do you eat and drink with tax collectors and sinners?”"
+greek: "καὶ ἐγόγγυζον οἱ Φαρισαῖοι καὶ οἱ γραμματεῖς αὐτῶν πρὸς τοὺς μαθητὰς αὐτοῦ λέγοντες· διὰ τί μετὰ τῶν τελωνῶν καὶ ἁμαρτωλῶν ἐσθίετε καὶ πίνετε;¶"
+pericope: "[[Luke.5.27 Jesus Calls Levi|Jesus Calls Levi]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1111]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G1122]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G3101]]"
+- "[[G3004G]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3326]]"
+- "[[G5057]]"
+- "[[G0268]]"
+- "[[G2068]]"
+- "[[G4095]]"
+texts:
+- NKO
+---
+
 **Luke 5:30**<big><big>[[Luke.5.27 Jesus Calls Levi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?
 <small><sub>**BSB:**</sub></small>
 But the Pharisees and their scribes complained to Jesus’ disciples, “Why do you eat and drink with tax collectors and sinners?”
-<small><sub>**Literal:**</sub></small>
-And were grumbling the Pharisees and the scribes of them at the disciples of Him saying; Because of why with the tax collectors and sinners do you eat and drink?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.29|<< Luke 5:29]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.31|Luke 5:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1111\|ἐγόγγυζον]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G0846\|αὐτῶν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγοντες·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G5057\|τελωνῶν]]  [[G2532\|καὶ]]  [[G0268\|ἁμαρτωλῶν]]  [[G2068\|ἐσθίετε]]  [[G2532\|καὶ]]  [[G4095\|πίνετε;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.29|<< Luke 5:29]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.31|Luke 5:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

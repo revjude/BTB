@@ -1,8 +1,56 @@
+---
+title: Nahum 1:2
+type: Verse
+kjv: "God is jealous, and the LORD revengeth; the LORD revengeth, and is furious; the LORD will take vengeance on his adversaries, and he reserveth wrath for his enemies."
+bsb: "The LORD is a jealous and avenging God; the LORD is avenging and full of wrath. The LORD takes vengeance on His foes and reserves wrath for His enemies."
+hebrew: "אֵ֣ל קַנּ֤וֹא וְנֹקֵם֙ יְהוָ֔ה נֹקֵ֥ם יְהוָ֖ה וּבַ֣עַל חֵמָ֑ה נֹקֵ֤ם יְהוָה֙ לְצָרָ֔יו וְנוֹטֵ֥ר ה֖וּא לְאֹיְבָֽיו׃"
+pericope: "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 1
+book/chapter: "[[Nah.1|Nahum 1]]"
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0410G]]"
+- "[[H7072]]"
+- "[[H9002]]"
+- "[[H5358]]"
+- "[[H3068G]]"
+- "[[H1167K]]"
+- "[[H2534]]"
+- "[[H9005]]"
+- "[[H6862C]]"
+- "[[H9023]]"
+- "[[H5201]]"
+- "[[H1931]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 1:2**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God [is] jealous, and the LORD revengeth; the LORD revengeth, and [is] furious; the LORD will take vengeance on his adversaries, and he reserveth [wrath] for his enemies.
 <small><sub>**BSB:**</sub></small>
 The LORD is a jealous and avenging God; the LORD is avenging and full of wrath. The LORD takes vengeance on His foes and reserves wrath for His enemies.
+<small><sub>**Hebrew:**</sub></small>
+[[H0410G\|אֵ֣ל]] [[H7072\|קַנּ֤וֹא]] [[H9002\|וְ]][[H5358\|נֹקֵם֙]] [[H3068G\|יְהוָ֔ה]] [[H5358\|נֹקֵ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וּ]][[H1167K\|בַ֣עַל]] [[H2534\|חֵמָ֑ה]] [[H5358\|נֹקֵ֤ם]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H6862C\|צָרָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H5201\|נוֹטֵ֥ר]] [[H1931\|ה֖וּא]] [[H9005\|לְ]][[H0341\|אֹיְבָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.1|<< Nahum 1:1]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.3|Nahum 1:3 >>]]</td></tr></table>
 

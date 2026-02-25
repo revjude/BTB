@@ -1,8 +1,64 @@
+---
+title: Psalm 86:11
+type: Verse
+kjv: "Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name."
+bsb: "Teach me Your way, O LORD, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name."
+hebrew: "ה֘וֹרֵ֤נִי יְהוָ֨ה׀ דַּרְכֶּ֗ךָ אֲהַלֵּ֥ךְ בַּאֲמִתֶּ֑ךָ יַחֵ֥ד לְ֝בָבִ֗י לְיִרְאָ֥ה שְׁמֶֽךָ׃"
+pericope: "[[Ps.86.1 Tried but Trusting|Tried but Trusting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 86
+book/chapter: "[[Ps.86|Psalm 86]]"
+chronological_order: 379
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3384B]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H1870G]]"
+- "[[H9021]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H0571H]]"
+- "[[H3161]]"
+- "[[H3824]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H3372H]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 86:11**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Teach me thy way, O LORD; I will walk in thy truth: unite my heart to fear thy name.
 <small><sub>**BSB:**</sub></small>
 Teach me Your way, O LORD, that I may walk in Your truth. Give me an undivided heart, that I may fear Your name.
+<small><sub>**Hebrew:**</sub></small>
+[[H3384B\|ה֘וֹרֵ֤]][[H9030\|נִי]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H1870G\|דַּרְכֶּ֗]][[H9021\|ךָ]] [[H1980I\|אֲהַלֵּ֥ךְ]] [[H9003\|בַּ]][[H0571H\|אֲמִתֶּ֑]][[H9021\|ךָ]] [[H3161\|יַחֵ֥ד]] [[H3824\|לְ֝בָבִ֗]][[H9020\|י]] [[H9005\|לְ]][[H3372H\|יִרְאָ֥ה]] [[H8034\|שְׁמֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DECISION|DECISION]] • [[topic DESIRE|DESIRE]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.10|<< Psalms 86:10]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.12|Psalms 86:12 >>]]</td></tr></table>
 

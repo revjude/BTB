@@ -1,8 +1,55 @@
+---
+title: Job 34:17
+type: Verse
+kjv: "Shall even he that hateth right govern? and wilt thou condemn him that is most just?"
+bsb: "Could one who hates justice govern? Will you condemn the just and mighty One,"
+hebrew: "הַאַ֬ף שׂוֹנֵ֣א מִשְׁפָּ֣ט יַחֲב֑וֹשׁ וְאִם־ צַדִּ֖יק כַּבִּ֣יר תַּרְשִֽׁיעַ׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H9008]]"
+- "[[H0637]]"
+- "[[H8130]]"
+- "[[H4941H]]"
+- "[[H2280]]"
+- "[[H9002]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H6662]]"
+- "[[H3524]]"
+- "[[H7561]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:17**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall even he that hateth right govern? and wilt thou condemn him that is most just?
 <small><sub>**BSB:**</sub></small>
 Could one who hates justice govern? Will you condemn the just and mighty One,
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H0637\|אַ֬ף]] [[H8130\|שׂוֹנֵ֣א]] [[H4941H\|מִשְׁפָּ֣ט]] [[H2280\|יַחֲב֑וֹשׁ]] [[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H6662\|צַדִּ֖יק]] [[H3524\|כַּבִּ֣יר]] [[H7561\|תַּרְשִֽׁיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.16|<< Job 34:16]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.18|Job 34:18 >>]]</td></tr></table>
 

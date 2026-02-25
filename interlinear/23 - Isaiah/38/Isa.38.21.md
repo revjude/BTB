@@ -1,8 +1,60 @@
+---
+title: Isaiah 38:21
+type: Verse
+kjv: "For Isaiah had said, Let them take a lump of figs, and lay it for a plaister upon the boil, and he shall recover."
+bsb: "Now Isaiah had said, “Prepare a lump of pressed figs and apply it to the boil, and he will recover.”"
+hebrew: "וַיֹּ֣אמֶר יְשַׁעְיָ֔הוּ יִשְׂא֖וּ דְּבֶ֣לֶת תְּאֵנִ֑ים וְיִמְרְח֥וּ עַֽל־ הַשְּׁחִ֖ין וְיֶֽחִי׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BOIL|BOIL]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic FIG|FIG]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic MEDICINE|MEDICINE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3470A]]"
+- "[[H5375G]]"
+- "[[H1690]]"
+- "[[H8384]]"
+- "[[H9002]]"
+- "[[H4799]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7822]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:21**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Isaiah had said, Let them take a lump of figs, and lay [it] for a plaister upon the boil, and he shall recover.
 <small><sub>**BSB:**</sub></small>
 Now Isaiah had said, “Prepare a lump of pressed figs and apply it to the boil, and he will recover.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3470A\|יְשַׁעְיָ֔הוּ]] [[H5375G\|יִשְׂא֖וּ]] [[H1690\|דְּבֶ֣לֶת]] [[H8384\|תְּאֵנִ֑ים]] [[H9002\|וְ]][[H4799\|יִמְרְח֥וּ]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H7822\|שְּׁחִ֖ין]] [[H9002\|וְ]][[H2421\|יֶֽחִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOIL|BOIL]] • [[topic DISEASE|DISEASE]] • [[topic FIG|FIG]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic MEDICINE|MEDICINE]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.20|<< Isaiah 38:20]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.22|Isaiah 38:22 >>]]</td></tr></table>
 

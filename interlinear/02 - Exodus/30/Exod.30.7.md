@@ -1,8 +1,67 @@
+---
+title: Exodus 30:7
+type: Verse
+kjv: "And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it."
+bsb: "And Aaron is to burn fragrant incense on it every morning when he tends the lamps."
+hebrew: "וְהִקְטִ֥יר עָלָ֛יו אַהֲרֹ֖ן קְטֹ֣רֶת סַמִּ֑ים בַּבֹּ֣קֶר בַּבֹּ֗קֶר בְּהֵיטִיב֛וֹ אֶת־ הַנֵּרֹ֖ת יַקְטִירֶֽנָּה׃"
+pericope: "[[Exod.30.1 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic PERFUME|PERFUME]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0175]]"
+- "[[H7004]]"
+- "[[H5561]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H3190]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5216A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:7**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it.
 <small><sub>**BSB:**</sub></small>
 And Aaron is to burn fragrant incense on it every morning when he tends the lamps.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6999A\|הִקְטִ֥יר]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H0175\|אַהֲרֹ֖ן]] [[H7004\|קְטֹ֣רֶת]] [[H5561\|סַמִּ֑ים]] [[H9003\|בַּ]][[H1242\|בֹּ֣קֶר]] [[H9003\|בַּ]][[H1242\|בֹּ֗קֶר]] [[H9003\|בְּ]][[H3190\|הֵיטִיב֛]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5216A\|נֵּרֹ֖ת]] [[H6999A\|יַקְטִירֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic DAILY OFFERING|DAILY OFFERING]] • [[topic INCENSE|INCENSE]] • [[topic PERFUME|PERFUME]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.6|<< Exodus 30:6]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.8|Exodus 30:8 >>]]</td></tr></table>
 

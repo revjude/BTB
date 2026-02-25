@@ -1,8 +1,54 @@
+---
+title: Psalm 49:19
+type: Verse
+kjv: "He shall go to the generation of his fathers; they shall never see light."
+bsb: "he will join the generation of his fathers, who will never see the light of day."
+hebrew: "תָּ֭בוֹא עַד־ דּ֣וֹר אֲבוֹתָ֑יו עַד־ נֵ֝֗צַח לֹ֣א יִרְאוּ־ אֽוֹר׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1755]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H5331]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H0216]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:19**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall go to the generation of his fathers; they shall never see light.
 <small><sub>**BSB:**</sub></small>
 he will join the generation of his fathers, who will never see the light of day.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|תָּ֭בוֹא]] [[H5704\|עַד]][[H9014\|־]] [[H1755\|דּ֣וֹר]] [[H0001G\|אֲבוֹתָ֑י]][[H9023\|ו]] [[H5704\|עַד]][[H9014\|־]] [[H5331\|נֵ֝֗צַח]] [[H3808\|לֹ֣א]] [[H7200G\|יִרְאוּ]][[H9014\|־]] [[H0216\|אֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.49.18|<< Psalms 49:18]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.20|Psalms 49:20 >>]]</td></tr></table>
 

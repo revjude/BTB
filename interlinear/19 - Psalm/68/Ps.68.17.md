@@ -1,8 +1,60 @@
+---
+title: Psalm 68:17
+type: Verse
+kjv: "The chariots of God are twenty thousand, even thousands of angels: the Lord is among them, as in Sinai, in the holy place."
+bsb: "The chariots of God are tens of thousands—thousands of thousands are they; the Lord is in His sanctuary as He was at Sinai."
+hebrew: "רֶ֤כֶב אֱלֹהִ֗ים רִבֹּתַ֣יִם אַלְפֵ֣י שִׁנְאָ֑ן אֲדֹנָ֥י בָ֝֗ם סִינַ֥י בַּקֹּֽדֶשׁ׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H7393G]]"
+- "[[H0430G]]"
+- "[[H7239]]"
+- "[[H0505G]]"
+- "[[H8136]]"
+- "[[H0136]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5514G]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:17**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The chariots of God [are] twenty thousand, [even] thousands of angels: the Lord [is] among them, [as in] Sinai, in the holy [place].
 <small><sub>**BSB:**</sub></small>
 The chariots of God are tens of thousands—thousands of thousands are they; the Lord is in His sanctuary as He was at Sinai.
+<small><sub>**Hebrew:**</sub></small>
+[[H7393G\|רֶ֤כֶב]] [[H0430G\|אֱלֹהִ֗ים]] [[H7239\|רִבֹּתַ֣יִם]] [[H0505G\|אַלְפֵ֣י]] [[H8136\|שִׁנְאָ֑ן]] [[H0136\|אֲדֹנָ֥י]] [[H9003\|בָ֝֗]][[H9038\|ם]] [[H5514G\|סִינַ֥י]] [[H9003\|בַּ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic ARMIES|ARMIES]] • [[topic CHARIOT|CHARIOT]] • [[topic CHURCH|CHURCH]] • [[topic LAW|LAW]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.16|<< Psalms 68:16]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.18|Psalms 68:18 >>]]</td></tr></table>
 

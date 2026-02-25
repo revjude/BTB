@@ -1,8 +1,53 @@
+---
+title: Psalm 104:16
+type: Verse
+kjv: "The trees of the LORD are full of sap; the cedars of Lebanon, which he hath planted;"
+bsb: "The trees of the LORD have their fill, the cedars of Lebanon that He planted,"
+hebrew: "יִ֭שְׂבְּעוּ עֲצֵ֣י יְהוָ֑ה אַֽרְזֵ֥י לְ֝בָנ֗וֹן אֲשֶׁ֣ר נָטָֽע׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LEBANON|LEBANON]]"
+strongs:
+- "[[H7646]]"
+- "[[H6086H]]"
+- "[[H3068G]]"
+- "[[H0730]]"
+- "[[H3844G]]"
+- "[[H0834A]]"
+- "[[H5193]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:16**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The trees of the LORD are full [of sap]; the cedars of Lebanon, which he hath planted;
 <small><sub>**BSB:**</sub></small>
 The trees of the LORD have their fill, the cedars of Lebanon that He planted,
+<small><sub>**Hebrew:**</sub></small>
+[[H7646\|יִ֭שְׂבְּעוּ]] [[H6086H\|עֲצֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H0730\|אַֽרְזֵ֥י]] [[H3844G\|לְ֝בָנ֗וֹן]] [[H0834A\|אֲשֶׁ֣ר]] [[H5193\|נָטָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic LEBANON|LEBANON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.15|<< Psalms 104:15]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.17|Psalms 104:17 >>]]</td></tr></table>
 

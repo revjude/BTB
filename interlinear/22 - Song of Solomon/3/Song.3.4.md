@@ -1,8 +1,65 @@
+---
+title: Song of Solomon 3:4
+type: Verse
+kjv: "It was but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother’s house, and into the chamber of her that conceived me."
+bsb: "I had just passed them when I found the one I love. I held him and would not let go until I had brought him to my mother’s house, to the chamber of the one who conceived me."
+hebrew: "כִּמְעַט֙ שֶׁעָבַ֣רְתִּי מֵהֶ֔ם עַ֣ד שֶֽׁמָּצָ֔אתִי אֵ֥ת שֶׁאָהֲבָ֖ה נַפְשִׁ֑י אֲחַזְתִּיו֙ וְלֹ֣א אַרְפֶּ֔נּוּ עַד־ שֶׁ֤הֲבֵיאתִיו֙ אֶל־ בֵּ֣ית אִמִּ֔י וְאֶל־ חֶ֖דֶר הוֹרָתִֽי׃"
+pericope: "[[Song.3.1 The Bride’s Dream|The Bride’s Dream]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 3
+book/chapter: "[[Song.3|Song of Solomon 3]]"
+chronological_order: 450
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9004]]"
+- "[[H4592]]"
+- "[[H9007]]"
+- "[[H5674A]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H5704]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H0157G]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H0270]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7503]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H0517]]"
+- "[[H2315]]"
+- "[[H2029]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 3:4**<big><big>[[Song.3.1 The Bride’s Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It was] but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother’s house, and into the chamber of her that conceived me.
 <small><sub>**BSB:**</sub></small>
 I had just passed them when I found the one I love. I held him and would not let go until I had brought him to my mother’s house, to the chamber of the one who conceived me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H4592\|מְעַט֙]] [[H9007\|שֶׁ]][[H5674A\|עָבַ֣רְתִּי]] [[H9006\|מֵ]][[H9038\|הֶ֔ם]] [[H5704\|עַ֣ד]] [[H9007\|שֶֽׁ]][[H4672\|מָּצָ֔אתִי]] [[H0853\|אֵ֥ת]] [[H9007\|שֶׁ]][[H0157G\|אָהֲבָ֖ה]] [[H5315G\|נַפְשִׁ֑]][[H9020\|י]] [[H0270\|אֲחַזְתִּי]][[H9033\|ו֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7503\|אַרְפֶּ֔]][[H9033\|נּוּ]] [[H5704\|עַד]][[H9014\|־]] [[H9007\|שֶׁ֤]][[H0935P\|הֲבֵיאתִי]][[H9033\|ו֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H0517\|אִמִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H2315\|חֶ֖דֶר]] [[H2029\|הוֹרָתִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.3.3|<< Song of Solomon 3:3]]</td><td align="center" style="border:none;">[[Song.3|Song of Solomon 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.3.5|Song of Solomon 3:5 >>]]</td></tr></table>
 

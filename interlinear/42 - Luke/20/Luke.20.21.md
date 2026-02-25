@@ -1,10 +1,62 @@
+---
+title: Luke 20:21
+type: Verse
+kjv: "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:"
+bsb: "“Teacher,” they inquired, “we know that You speak and teach correctly. You show no partiality but teach the way of God in accordance with the truth."
+greek: "καὶ ἐπηρώτησαν αὐτὸν λέγοντες· διδάσκαλε, οἴδαμεν ὅτι ὀρθῶς λέγεις καὶ διδάσκεις καὶ οὐ λαμβάνεις πρόσωπον ἀλλ᾽ ἐπ᾽ ἀληθείας τὴν ὁδὸν τοῦ θεοῦ διδάσκεις."
+pericope: "[[Luke.20.19 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3723]]"
+- "[[G1321]]"
+- "[[G3756]]"
+- "[[G2983]]"
+- "[[G4383]]"
+- "[[G0235]]"
+- "[[G1909]]"
+- "[[G0225]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Luke 20:21**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person [of any], but teachest the way of God truly:
 <small><sub>**BSB:**</sub></small>
 “Teacher,” they inquired, “we know that You speak and teach correctly. You show no partiality but teach the way of God in accordance with the truth.
-<small><sub>**Literal:**</sub></small>
-And they questioned Him saying; Teacher, we know that rightly You speak and You teach and not You receive [any] person but on the basis of truth the way <the> of God teach.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.20|<< Luke 20:20]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.22|Luke 20:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1905\|ἐπηρώτησαν]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντες·]]  [[G1320\|διδάσκαλε,]]  [[G6063\|οἴδαμεν]]  [[G3754G\|ὅτι]]  [[G3723\|ὀρθῶς]]  [[G3004G\|λέγεις]]  [[G2532\|καὶ]]  [[G1321\|διδάσκεις]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2983\|λαμβάνεις]]  [[G4383\|πρόσωπον]]  [[G0235\|ἀλλ᾽]]  [[G1909\|ἐπ᾽]]  [[G0225\|ἀληθείας]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1321\|διδάσκεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic FLATTERY|FLATTERY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.20|<< Luke 20:20]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.22|Luke 20:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

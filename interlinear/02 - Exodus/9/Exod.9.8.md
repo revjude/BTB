@@ -1,8 +1,69 @@
+---
+title: Exodus 9:8
+type: Verse
+kjv: "And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh."
+bsb: "Then the LORD said to Moses and Aaron, “Take handfuls of soot from the furnace; in the sight of Pharaoh, Moses is to toss it into the air."
+hebrew: "וַיֹּ֣אמֶר יְהוָה֮ אֶל־ מֹשֶׁ֣ה וְאֶֽל־ אַהֲרֹן֒ קְח֤וּ לָכֶם֙ מְלֹ֣א חָפְנֵיכֶ֔ם פִּ֖יחַ כִּבְשָׁ֑ן וּזְרָק֥וֹ מֹשֶׁ֛ה הַשָּׁמַ֖יְמָה לְעֵינֵ֥י פַרְעֹֽה׃"
+pericope: "[[Exod.9.8 The Sixth Plague：Boils|The Sixth Plague：Boils]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H4393]]"
+- "[[H2651]]"
+- "[[H9026]]"
+- "[[H6368]]"
+- "[[H3536]]"
+- "[[H2236]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9011]]"
+- "[[H5869H]]"
+- "[[H6547J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:8**<big><big>[[Exod.9.8 The Sixth Plague：Boils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses and Aaron, “Take handfuls of soot from the furnace; in the sight of Pharaoh, Moses is to toss it into the air.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָה֮]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֣ה]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹן֒]] [[H3947G\|קְח֤וּ]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H4393\|מְלֹ֣א]] [[H2651\|חָפְנֵי]][[H9026\|כֶ֔ם]] [[H6368\|פִּ֖יחַ]] [[H3536\|כִּבְשָׁ֑ן]] [[H9001\|וּ]][[H2236\|זְרָק֥]][[H9033\|וֹ]] [[H4872\|מֹשֶׁ֛ה]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יְמָ]][[H9011\|ה]] [[H9005\|לְ]][[H5869H\|עֵינֵ֥י]] [[H6547J\|פַרְעֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.7|<< Exodus 9:7]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.9|Exodus 9:9 >>]]</td></tr></table>
 

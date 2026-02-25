@@ -1,8 +1,49 @@
+---
+title: Joshua 15:61
+type: Verse
+kjv: "In the wilderness, Betharabah, Middin, and Secacah,"
+bsb: "These were in the wilderness: Beth-arabah, Middin, Secacah,"
+hebrew: "בַּמִּדְבָּ֑ר בֵּ֚ית הָעֲרָבָ֔ה מִדִּ֖ין וּסְכָכָֽה׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BETH-ARABAH|BETH-ARABAH]]"
+- "[[topic JUDEA|JUDEA]]"
+- "[[topic MIDDIN|MIDDIN]]"
+strongs:
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H1026]]"
+- "[[H4081]]"
+- "[[H9002]]"
+- "[[H5527]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:61**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the wilderness, Betharabah, Middin, and Secacah,
 <small><sub>**BSB:**</sub></small>
 These were in the wilderness: Beth-arabah, Middin, Secacah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H1026\|בֵּ֚ית]] [[H1026\|הָעֲרָבָ֔ה]] [[H4081\|מִדִּ֖ין]] [[H9002\|וּ]][[H5527\|סְכָכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-ARABAH|BETH-ARABAH]] • [[topic JUDEA|JUDEA]] • [[topic MIDDIN|MIDDIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.61|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.60|<< Joshua 15:60]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.62|Joshua 15:62 >>]]</td></tr></table>
 

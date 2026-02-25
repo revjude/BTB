@@ -1,8 +1,59 @@
+---
+title: Jeremiah 9:25
+type: Verse
+kjv: "Behold, the days come, saith the LORD, that I will punish all them which are circumcised with the uncircumcised;"
+bsb: "“Behold, the days are coming,” declares the LORD, “when I will punish all who are circumcised only in the flesh—"
+hebrew: "הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים נְאֻם־ יְהוָ֑ה וּפָ֣קַדְתִּ֔י עַל־ כָּל־ מ֖וּל בְּעָרְלָֽה׃"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H4135A]]"
+- "[[H9003]]"
+- "[[H6190H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 9:25**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, saith the LORD, that I will punish all [them which are] circumcised with the uncircumcised;
 <small><sub>**BSB:**</sub></small>
 “Behold, the days are coming,” declares the LORD, “when I will punish all who are circumcised only in the flesh—
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֛ה]] [[H3117G\|יָמִ֥ים]] [[H0935G\|בָּאִ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וּ]][[H6485H\|פָ֣קַדְתִּ֔י]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4135A\|מ֖וּל]] [[H9003\|בְּ]][[H6190H\|עָרְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic EDOMITES|EDOMITES]] • [[topic EGYPT|EGYPT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.24|<< Jeremiah 9:24]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.26|Jeremiah 9:26 >>]]</td></tr></table>
 

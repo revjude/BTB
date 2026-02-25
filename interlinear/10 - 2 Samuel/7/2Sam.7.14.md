@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 7:14
+type: Verse
+kjv: "I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:"
+bsb: "I will be his Father, and he will be My son. When he does wrong, I will discipline him with the rod of men and with the blows of the sons of men."
+hebrew: "אֲנִי֙ אֶהְיֶה־ לּ֣וֹ לְאָ֔ב וְה֖וּא יִהְיֶה־ לִּ֣י לְבֵ֑ן אֲשֶׁר֙ בְּהַ֣עֲוֹת֔וֹ וְהֹֽכַחְתִּיו֙ בְּשֵׁ֣בֶט אֲנָשִׁ֔ים וּבְנִגְעֵ֖י בְּנֵ֥י אָדָֽם׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic KING|KING]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0589]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H5753B]]"
+- "[[H9043]]"
+- "[[H9001]]"
+- "[[H3198]]"
+- "[[H7626G]]"
+- "[[H0582]]"
+- "[[H5061]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:14**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will be his father, and he shall be my son. If he commit iniquity, I will chasten him with the rod of men, and with the stripes of the children of men:
 <small><sub>**BSB:**</sub></small>
 I will be his Father, and he will be My son. When he does wrong, I will discipline him with the rod of men and with the blows of the sons of men.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִי֙]] [[H1961\|אֶהְיֶה]][[H9014\|־]] [[H9005\|לּ֣]][[H9033\|וֹ]] [[H9005\|לְ]][[H0001G\|אָ֔ב]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H1961\|יִהְיֶה]][[H9014\|־]] [[H9005\|לִּ֣]][[H9030\|י]] [[H9005\|לְ]][[H1121A\|בֵ֑ן]] [[H0834A\|אֲשֶׁר֙]] [[H9003\|בְּ]][[H5753B\|הַ֣עֲוֹת֔]][[H9043\|וֹ]] [[H9001\|וְ]][[H3198\|הֹֽכַחְתִּי]][[H9033\|ו֙]] [[H9003\|בְּ]][[H7626G\|שֵׁ֣בֶט]] [[H0582\|אֲנָשִׁ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H5061\|נִגְעֵ֖י]] [[H1121A\|בְּנֵ֥י]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic KING|KING]] • [[topic NATHAN|NATHAN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SOLOMON|SOLOMON]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.13|<< 2 Samuel 7:13]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.15|2 Samuel 7:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

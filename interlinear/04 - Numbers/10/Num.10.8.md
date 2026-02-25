@@ -1,8 +1,63 @@
+---
+title: Numbers 10:8
+type: Verse
+kjv: "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations."
+bsb: "The sons of Aaron, the priests, are to sound the trumpets. This shall be a permanent statute for you and the generations to come."
+hebrew: "וּבְנֵ֤י אַהֲרֹן֙ הַכֹּ֣הֲנִ֔ים יִתְקְע֖וּ בַּֽחֲצֹצְר֑וֹת וְהָי֥וּ לָכֶ֛ם לְחֻקַּ֥ת עוֹלָ֖ם לְדֹרֹתֵיכֶֽם׃"
+pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H2689]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H2708]]"
+- "[[H5769G]]"
+- "[[H1755]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:8**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations.
 <small><sub>**BSB:**</sub></small>
 The sons of Aaron, the priests, are to sound the trumpets. This shall be a permanent statute for you and the generations to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֤י]] [[H0175\|אַהֲרֹן֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H8628\|יִתְקְע֖וּ]] [[H9003\|בַּֽ]][[H2689\|חֲצֹצְר֑וֹת]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H9005\|לְ]][[H2708\|חֻקַּ֥ת]] [[H5769G\|עוֹלָ֖ם]] [[H9005\|לְ]][[H1755\|דֹרֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ORDINANCE|ORDINANCE]] • [[topic PRIEST|PRIEST]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.7|<< Numbers 10:7]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.9|Numbers 10:9 >>]]</td></tr></table>
 

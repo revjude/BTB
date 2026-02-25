@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 13:33
+type: Verse
+kjv: "Now therefore let not my lord the king take the thing to his heart, to think that all the king’s sons are dead: for Amnon only is dead."
+bsb: "So now, my lord the king, do not take to heart the report that all the sons of the king are dead. Only Amnon is dead.”"
+hebrew: "וְעַתָּ֡ה אַל־ יָשֵׂם֩ אֲדֹנִ֨י הַמֶּ֤לֶךְ אֶל־ לִבּוֹ֙ דָּבָ֣ר לֵאמֹ֔ר כָּל־ בְּנֵ֥י הַמֶּ֖לֶךְ מֵ֑תוּ כִּֽי־   אַמְנ֥וֹן לְבַדּ֖וֹ מֵֽת׃ פ"
+pericope: "[[2Sam.13.23 Absalom’s Revenge on Amnon|Absalom’s Revenge on Amnon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic RAPE|RAPE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7760K]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H1697I]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H1121A]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H0518B]]"
+- "[[H0550G]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 13:33**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore let not my lord the king take the thing to his heart, to think that all the king’s sons are dead: for Amnon only is dead.
 <small><sub>**BSB:**</sub></small>
 So now, my lord the king, do not take to heart the report that all the sons of the king are dead. Only Amnon is dead.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֡ה]] [[H0408\|אַל]][[H9014\|־]] [[H7760K\|יָשֵׂם֩]] [[H0113\|אֲדֹנִ֨]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבּ]][[H9023\|וֹ֙]] [[H1697I\|דָּבָ֣ר]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3605\|כָּל]][[H9014\|־]] [[H1121A\|בְּנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H4191\|מֵ֑תוּ]] [[H3588A\|כִּֽי]][[H9014\|־]]   [[H0550G\|אַמְנ֥וֹן]] [[H9005\|לְ]][[H0905H\|בַדּ֖]][[H9033\|וֹ]] [[H4191\|מֵֽת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONADAB|JONADAB]] • [[topic RAPE|RAPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.32|<< 2 Samuel 13:32]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.34|2 Samuel 13:34 >>]]</td></tr></table>
 
@@ -22,12 +82,12 @@ So now, my lord the king, do not take to heart the report that all the sons of t
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֖לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have died  |**<big>&#8207;[[H4191\|מֵ֑תוּ]]&#8207; </big>**| Me.tu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [ ]  [^1]|**<big>&#8207;[[\|]]&#8207; </big>**[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [ ]  [^1]|**<big> </big>**[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | Amnon  |**<big>&#8207;[[H0550G\|אַמְנ֥וֹן]]&#8207; </big>**| 'am.Non<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to only him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905H\|בַדּ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has died  |**<big>&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has died  |**<big>&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.32|<< 2 Samuel 13:32]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.34|2 Samuel 13:34 >>]]</td></tr></table>
 
-[^1]: except  | **<big>[[H9014|־]]</big><big>[[H0518B|אִם]]</big> ** | 'im-<small><sup>[[HTc]]</sup></small> | K
+[^1]: except  | **<big>[[H0518B|אִם]]</big><big>[[H9014|־]]</big> ** | 'im-<small><sup>[[HTc]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>אִם\־</big></span>**
 

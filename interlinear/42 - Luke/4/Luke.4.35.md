@@ -1,10 +1,60 @@
+---
+title: Luke 4:35
+type: Verse
+kjv: "And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not."
+bsb: "But Jesus rebuked the demon. “Be silent!” He said. “Come out of him!” At this, the demon threw the man down before them all and came out without harming him."
+jesus_said: "Hold thy peace, and come out of him."
+greek: "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· φιμώθητι καὶ ἔξελθε ἀπ᾽ αὐτοῦ. καὶ ῥῖψαν αὐτὸν τὸ δαιμόνιον εἰς τὸ μέσον ἐξῆλθεν ἀπ᾽ αὐτοῦ μηδὲν βλάψαν αὐτόν."
+pericope: "[[Luke.4.31 Jesus Expels an Unclean Spirit|Jesus Expels an Unclean Spirit]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2008]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G5392]]"
+- "[[G1831]]"
+- "[[G0575]]"
+- "[[G4496]]"
+- "[[G1140]]"
+- "[[G1519]]"
+- "[[G3319]]"
+- "[[G3367]]"
+- "[[G0984]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 4:35**<big><big>[[Luke.4.31 Jesus Expels an Unclean Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not.
 <small><sub>**BSB:**</sub></small>
 But Jesus rebuked the demon. “Be silent!” He said. “Come out of him!” At this, the demon threw the man down before them all and came out without harming him.
-<small><sub>**Literal:**</sub></small>
-And rebuked him <the> Jesus saying; do be silent and do come forth out of him! And having thrown him the demon into the midst it came out from him in nothing having hurt him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.34|<< Luke 4:34]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.36|Luke 4:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2008\|ἐπετίμησεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγων·]]  [[G5392\|φιμώθητι]]  [[G2532\|καὶ]]  [[G1831\|ἔξελθε]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ.]]  [[G2532\|καὶ]]  [[G4496\|ῥῖψαν]]  [[G0846\|αὐτὸν]]  [[G3588\|τὸ]]  [[G1140\|δαιμόνιον]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3319\|μέσον]]  [[G1831\|ἐξῆλθεν]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G3367\|μηδὲν]]  [[G0984\|βλάψαν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.34|<< Luke 4:34]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.36|Luke 4:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

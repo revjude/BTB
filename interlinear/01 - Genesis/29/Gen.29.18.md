@@ -1,8 +1,69 @@
+---
+title: Genesis 29:18
+type: Verse
+kjv: "And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter."
+bsb: "Since Jacob loved Rachel, he answered, “I will serve you seven years for your younger daughter Rachel.”"
+hebrew: "וַיֶּאֱהַ֥ב יַעֲקֹ֖ב אֶת־ רָחֵ֑ל וַיֹּ֗אמֶר אֶֽעֱבָדְךָ֙ שֶׁ֣בַע שָׁנִ֔ים בְּרָחֵ֥ל בִּתְּךָ֖ הַקְּטַנָּֽה׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0157G]]"
+- "[[H3290]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7354]]"
+- "[[H0559]]"
+- "[[H5647G]]"
+- "[[H9031]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H1323G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H6996A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:18**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob loved Rachel; and said, I will serve thee seven years for Rachel thy younger daughter.
 <small><sub>**BSB:**</sub></small>
 Since Jacob loved Rachel, he answered, “I will serve you seven years for your younger daughter Rachel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0157G\|יֶּאֱהַ֥ב]] [[H3290\|יַעֲקֹ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7354\|רָחֵ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H5647G\|אֶֽעֱבָדְ]][[H9031\|ךָ֙]] [[H7651\|שֶׁ֣בַע]] [[H8141\|שָׁנִ֔ים]] [[H9003\|בְּ]][[H7354\|רָחֵ֥ל]] [[H1323G\|בִּתְּ]][[H9021\|ךָ֖]] [[H9009\|הַ]][[H6996A\|קְּטַנָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETROTHAL|BETROTHAL]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RACHEL|RACHEL]] • [[topic SEVEN|SEVEN]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.17|<< Genesis 29:17]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.19|Genesis 29:19 >>]]</td></tr></table>
 

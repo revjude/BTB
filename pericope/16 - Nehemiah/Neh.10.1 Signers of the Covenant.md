@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Signers of the Covenant
+type: Pericope
 pericope: "[[Neh.10.1 Signers of the Covenant|Signers of the Covenant]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 10
 book/chapter: "[[Neh.10|Nehemiah 10]]"
-genre:
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 27
 verses:
 - "[[Neh.10.1]]"
 - "[[Neh.10.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Neh.10.27]]"
 ---
 
-[[Neh.10|Nehemiah 10:1 - Nehemiah 10:27]]
+<small>[[Neh.10|Nehemiah 10:1-27]]</small>
 *Signers of the Covenant*
 
 [[Neh.10.1|1]] Now those that sealed \[were\], Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,

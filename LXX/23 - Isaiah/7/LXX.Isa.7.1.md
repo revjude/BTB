@@ -1,9 +1,75 @@
+---
+title: LXX Isaiah 7:1
+type: Verse
+lxx: "And it came to pass in the days of Ahaz son of Jotham, the son of Uzziah king of Judah, ascended Rezin king of Aram, and Pekah son of Remaliah, king of Israel, against Jerusalem to wage war with it, and they were not able to assault it."
+greek: "και εγένετο εν ταις ημέραις Άχαζ υιού Ιωαθάμ του υιόυ Οζίου βασιλέως Ιούδα ανέβη Ρασίν βασιλεύς Αράμ και Φακεέ υιός Ρομελίου βασιλεύς Ισραήλ επί Ιερουσαλήμ πολεμήσαι αυτήν και ουκ ηδυνήθησαν πολιορκήσαι αυτήν"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REMALIAH|REMALIAH]]"
+- "[[topic REZIN|REZIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G0881]]"
+- "[[G5207]]"
+- "[[G2488]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3604]]"
+- "[[G0935]]"
+- "[[G2448]]"
+- "[[G0305]]"
+- "[[H7526]]"
+- "[[G0935]]"
+- "[[H7410]]"
+- "[[G2532]]"
+- "[[H6492]]"
+- "[[G5207]]"
+- "[[H7425]]"
+- "[[G0935]]"
+- "[[G2474]]"
+- "[[G1909]]"
+- "[[G2419]]"
+- "[[G4170]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G8843]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 7:1** 
 
 ***War Waged against Jerusalem***
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the days of Ahaz son of Jotham, the son of Uzziah king of Judah, ascended Rezin king of Aram, and Pekah son of Remaliah, king of Israel, against Jerusalem to wage war with it, and they were not able to assault it. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G1722\|εν]] [[G3588\|ταις]] [[G2250\|ημέραις]] [[G0881\|Άχαζ]] [[G5207\|υιού]] [[G2488\|Ιωαθάμ]] [[G3588\|του]] [[G5207\|υιόυ]] [[G3604\|Οζίου]] [[G0935\|βασιλέως]] [[G2448\|Ιούδα]] [[G0305\|ανέβη]] [[H7526\|Ρασίν]] [[G0935\|βασιλεύς]] [[H7410\|Αράμ]] [[G2532\|και]] [[H6492\|Φακεέ]] [[G5207\|υιός]] [[H7425\|Ρομελίου]] [[G0935\|βασιλεύς]] [[G2474\|Ισραήλ]] [[G1909\|επί]] [[G2419\|Ιερουσαλήμ]] [[G4170\|πολεμήσαι]] [[G1473\|αυτήν]] [[G2532\|και]] [[G3756\|ουκ]] [[G1410\|ηδυνήθησαν]] [[G8843\|πολιορκήσαι]] [[G1473\|αυτήν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISAIAH|ISAIAH]] • [[topic PEKAH|PEKAH]] • [[topic REMALIAH|REMALIAH]] • [[topic REZIN|REZIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.13|<< Isaiah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.2|Isaiah 7:2 >>]]</td></tr></table>
 
@@ -41,6 +107,6 @@ And it came to pass in the days of Ahaz son of Jotham, the son of Uzziah king of
 | able | **<big>[[G1410\|ηδυνήθησαν]]</big>** |
 | to assault | **<big>[[G8843\|πολιορκήσαι]]</big>** |
 | it. | **<big>[[G1473\|αυτήν]]</big>** |
-[[Isa.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.13|<< Isaiah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.2|Isaiah 7:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.6.13|<< Isaiah 6:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.7.2|Isaiah 7:2 >>]]</td></tr></table>
 
 

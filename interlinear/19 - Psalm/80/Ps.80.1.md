@@ -1,8 +1,66 @@
+---
+title: Psalm 80:1
+type: Verse
+kjv: "Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth."
+bsb: "For the choirmaster. To the tune of “The Lilies of the Covenant.” A Psalm of Asaph. Hear us, O Shepherd of Israel, who leads Joseph like a flock; You who sit enthroned between the cherubim, shine forth"
+hebrew: "רֹ֘עֵ֤ה יִשְׂרָאֵ֨ל׀ הַאֲזִ֗ינָה נֹהֵ֣ג כַּצֹּ֣אן יוֹסֵ֑ף יֹשֵׁ֖ב הַכְּרוּבִ֣ים הוֹפִֽיעָה׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EAR|EAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SHEKINAH|SHEKINAH]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H7462B]]"
+- "[[H3478]]"
+- "[[H9015]]"
+- "[[H0238]]"
+- "[[H9012]]"
+- "[[H5090A]]"
+- "[[H9004]]"
+- "[[H6629G]]"
+- "[[H3130G]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H3313]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:1**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest [between] the cherubims, shine forth.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “The Lilies of the Covenant.” A Psalm of Asaph. Hear us, O Shepherd of Israel, who leads Joseph like a flock; You who sit enthroned between the cherubim, shine forth
+<small><sub>**Hebrew:**</sub></small>
+[[H7462B\|רֹ֘עֵ֤ה]] [[H3478\|יִשְׂרָאֵ֨ל]][[H9015\|׀]] [[H0238\|הַאֲזִ֗ינָ]][[H9012\|ה]] [[H5090A\|נֹהֵ֣ג]] [[H9004\|כַּ]][[H6629G\|צֹּ֣אן]] [[H3130G\|יוֹסֵ֑ף]] [[H3427\|יֹשֵׁ֖ב]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֣ים]] [[H3313\|הוֹפִֽיעָ]][[H9012\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic EAR|EAR]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic MUSIC|MUSIC]] • [[topic SHEKINAH|SHEKINAH]] • [[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.0|<< Psalms 80:0]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.2|Psalms 80:2 >>]]</td></tr></table>
 

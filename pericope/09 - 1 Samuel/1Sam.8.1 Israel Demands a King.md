@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel Demands a King
+type: Pericope
 pericope: "[[1Sam.8.1 Israel Demands a King|Israel Demands a King]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 8
 book/chapter: "[[1Sam.8|1 Samuel 8]]"
-genre:
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 9
 verses:
 - "[[1Sam.8.1]]"
 - "[[1Sam.8.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Sam.8.9]]"
 ---
 
-[[1Sam.8|1 Samuel 8:1 - 1 Samuel 8:9]]
+<small>[[1Sam.8|1 Samuel 8:1-9]]</small>
 *Israel Demands a King*
 
 [[1Sam.8.1|1]] And it came to pass, when Samuel was old, that he made his sons judges over Israel.

@@ -1,8 +1,71 @@
+---
+title: Isaiah 49:18
+type: Verse
+kjv: "Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth."
+bsb: "Lift up your eyes and look around. They all gather together; they come to you. As surely as I live,” declares the LORD, “you will wear them all as jewelry and put them on like a bride."
+hebrew: "שְׂאִֽי־ סָבִ֤יב עֵינַ֙יִךְ֙ וּרְאִ֔י כֻּלָּ֖ם נִקְבְּצ֣וּ בָֽאוּ־ לָ֑ךְ חַי־ אָ֣נִי נְאֻם־ יְהוָ֗ה כִּ֤י כֻלָּם֙ כָּעֲדִ֣י תִלְבָּ֔שִׁי וּֽתְקַשְּׁרִ֖ים כַּכַּלָּֽה׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H5375M]]"
+- "[[H9014]]"
+- "[[H5439G]]"
+- "[[H5869A]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H6908]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H2416A]]"
+- "[[H0589]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H5716]]"
+- "[[H3847]]"
+- "[[H7194]]"
+- "[[H9038]]"
+- "[[H3618G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:18**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up thine eyes round about, and behold: all these gather themselves together, [and] come to thee. [As] I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them [on thee], as a bride [doeth].
 <small><sub>**BSB:**</sub></small>
 Lift up your eyes and look around. They all gather together; they come to you. As surely as I live,” declares the LORD, “you will wear them all as jewelry and put them on like a bride.
+<small><sub>**Hebrew:**</sub></small>
+[[H5375M\|שְׂאִֽי]][[H9014\|־]] [[H5439G\|סָבִ֤יב]] [[H5869A\|עֵינַ֙יִ]][[H9022\|ךְ֙]] [[H9002\|וּ]][[H7200G\|רְאִ֔י]] [[H3605\|כֻּלָּ֖]][[H9028\|ם]] [[H6908\|נִקְבְּצ֣וּ]] [[H0935G\|בָֽאוּ]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָ֣נִי]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H3588A\|כִּ֤י]] [[H3605\|כֻלָּ]][[H9028\|ם֙]] [[H9004\|כָּ]][[H5716\|עֲדִ֣י]] [[H3847\|תִלְבָּ֔שִׁי]] [[H9002\|וּֽ]][[H7194\|תְקַשְּׁרִ֖י]][[H9038\|ם]] [[H9004\|כַּ]][[H3618G\|כַּלָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.17|<< Isaiah 49:17]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.19|Isaiah 49:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

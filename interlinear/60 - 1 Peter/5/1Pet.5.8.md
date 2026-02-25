@@ -1,10 +1,63 @@
+---
+title: 1 Peter 5:8
+type: Verse
+kjv: "Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:"
+bsb: "Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour."
+greek: "νήψατε, γρηγορήσατε ὅτι, ὁ ἀντίδικος ὑμῶν διάβολος ὡς λέων ὠρυόμενος περιπατεῖ ζητῶν τινα καταπιεῖν·"
+pericope: "[[1Pet.5.5 Cast Your Cares on Him|Cast Your Cares on Him]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic LION|LION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SOBRIETY|SOBRIETY]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3525]]"
+- "[[G1127]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G0476]]"
+- "[[G4771]]"
+- "[[G1228]]"
+- "[[G5613]]"
+- "[[G3023]]"
+- "[[G5612]]"
+- "[[G4043]]"
+- "[[G2212]]"
+- "[[G5100]]"
+- "[[G2666]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **1 Peter 5:8**<big><big>[[1Pet.5.5 Cast Your Cares on Him|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:
 <small><sub>**BSB:**</sub></small>
 Be sober-minded and alert. Your adversary the devil prowls around like a roaring lion, seeking someone to devour.
-<small><sub>**Literal:**</sub></small>
-do be sober-minded, do watch that The adversary of You [the] devil as a lion roaring he prowls about seeking whom to devour;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.7|<< 1 Peter 5:7]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.9|1 Peter 5:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3525\|νήψατε,]]  [[G1127\|γρηγορήσατε]]  [[G3754G\|ὅτι,]]  [[G3588\|ὁ]]  [[G0476\|ἀντίδικος]]  [[G4771\|ὑμῶν]]  [[G1228\|διάβολος]]  [[G5613\|ὡς]]  [[G3023\|λέων]]  [[G5612\|ὠρυόμενος]]  [[G4043\|περιπατεῖ]]  [[G2212\|ζητῶν]]  [[G5100\|τινα]]  [[G2666\|καταπιεῖν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic LION|LION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic SATAN|SATAN]] • [[topic SOBRIETY|SOBRIETY]] • [[topic WAR|WAR]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.7|<< 1 Peter 5:7]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.9|1 Peter 5:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 5:8** is...
 > $\quad$ referencing: [[LXX.Ps.22.13|Ps 22:13]]

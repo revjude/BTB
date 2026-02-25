@@ -1,8 +1,61 @@
+---
+title: Judges 21:6
+type: Verse
+kjv: "And the children of Israel repented them for Benjamin their brother, and said, There is one tribe cut off from Israel this day."
+bsb: "And the Israelites grieved for their brothers, the Benjamites, and said, “Today a tribe is cut off from Israel."
+hebrew: "וַיִּנָּֽחֲמוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶל־ בִּנְיָמִ֖ן אָחִ֑יו וַיֹּ֣אמְר֔וּ נִגְדַּ֥ע הַיּ֛וֹם שֵׁ֥בֶט אֶחָ֖ד מִיִּשְׂרָאֵֽל׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5162G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H1438]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H7626H]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:6**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel repented them for Benjamin their brother, and said, There is one tribe cut off from Israel this day.
 <small><sub>**BSB:**</sub></small>
 And the Israelites grieved for their brothers, the Benjamites, and said, “Today a tribe is cut off from Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5162G\|יִּנָּֽחֲמוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0413\|אֶל]][[H9014\|־]] [[H1144G\|בִּנְיָמִ֖ן]] [[H0251G\|אָחִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H1438\|נִגְדַּ֥ע]] [[H9009\|הַ]][[H3117L\|יּ֛וֹם]] [[H7626H\|שֵׁ֥בֶט]] [[H0259\|אֶחָ֖ד]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BROTHER|BROTHER]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic RASHNESS|RASHNESS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.5|<< Judges 21:5]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.7|Judges 21:7 >>]]</td></tr></table>
 

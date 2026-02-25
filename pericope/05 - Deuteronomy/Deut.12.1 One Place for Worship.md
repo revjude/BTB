@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: One Place for Worship
+type: Pericope
 pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 12
 book/chapter: "[[Deut.12|Deuteronomy 12]]"
-genre:
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 28
 verses:
 - "[[Deut.12.1]]"
 - "[[Deut.12.2]]"
@@ -51,7 +58,7 @@ verses:
 - "[[Deut.12.28]]"
 ---
 
-[[Deut.12|Deuteronomy 12:1 - Deuteronomy 12:28]]
+<small>[[Deut.12|Deuteronomy 12:1-28]]</small>
 *One Place for Worship*
 
 [[Deut.12.1|1]] These \[are\] the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth.

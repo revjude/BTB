@@ -1,10 +1,54 @@
+---
+title: Mark 16:16
+type: Verse
+kjv: "He that believeth and is baptized shall be saved; but he that believeth not shall be damned."
+bsb: "Whoever believes and is baptized will be saved, but whoever does not believe will be condemned."
+jesus_said: "He that believeth and is baptized shall be saved; but he that believeth not shall be damned."
+greek: "ὁ πιστεύσας καὶ βαπτισθεὶς σωθήσεται· ὁ δὲ ἀπιστήσας κατακριθήσεται.¶"
+pericope: "[[Mark.16.14 The Great Commission|The Great Commission]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G2532]]"
+- "[[G0907]]"
+- "[[G4982]]"
+- "[[G1161]]"
+- "[[G0569]]"
+- "[[G2632]]"
+texts:
+- KO
+---
+
 **Mark 16:16**<big><big>[[Mark.16.14 The Great Commission|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that believeth and is baptized shall be saved; but he that believeth not shall be damned.
 <small><sub>**BSB:**</sub></small>
 Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
-<small><sub>**Literal:**</sub></small>
-The [one] having believed and having been baptized will be saved; the [one] however having disbelieved will be condemned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.15|<< Mark 16:15]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.17|Mark 16:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G4100\|πιστεύσας]]  [[G2532\|καὶ]]  [[G0907\|βαπτισθεὶς]]  [[G4982\|σωθήσεται·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0569\|ἀπιστήσας]]  [[G2632\|κατακριθήσεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.15|<< Mark 16:15]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.16.17|Mark 16:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

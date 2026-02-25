@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samson’s Revenge
+type: Pericope
 pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 15
 book/chapter: "[[Judg.15|Judges 15]]"
-genre:
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 20
 verses:
 - "[[Judg.15.1]]"
 - "[[Judg.15.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Judg.15.20]]"
 ---
 
-[[Judg.15|Judges 15:1 - Judges 15:20]]
+<small>[[Judg.15|Judges 15:1-20]]</small>
 *Samson’s Revenge*
 
 [[Judg.15.1|1]] But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.

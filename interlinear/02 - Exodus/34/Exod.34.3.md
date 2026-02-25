@@ -1,8 +1,68 @@
+---
+title: Exodus 34:3
+type: Verse
+kjv: "And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount."
+bsb: "No one may go up with you; in fact, no one may be seen anywhere on the mountain—not even the flocks or herds may graze in front of the mountain.”"
+hebrew: "וְאִישׁ֙ לֹֽא־ יַעֲלֶ֣ה עִמָּ֔ךְ וְגַם־ אִ֥ישׁ אַל־ יֵרָ֖א בְּכָל־ הָהָ֑ר גַּם־ הַצֹּ֤אן וְהַבָּקָר֙ אַל־ יִרְע֔וּ אֶל־ מ֖וּל הָהָ֥ר הַהֽוּא׃"
+pericope: "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5927G]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H1571]]"
+- "[[H0408]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H7462B]]"
+- "[[H0413]]"
+- "[[H4136]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:3**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.
 <small><sub>**BSB:**</sub></small>
 No one may go up with you; in fact, no one may be seen anywhere on the mountain—not even the flocks or herds may graze in front of the mountain.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִישׁ֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5927G\|יַעֲלֶ֣ה]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0376I\|אִ֥ישׁ]] [[H0408\|אַל]][[H9014\|־]] [[H7200G\|יֵרָ֖א]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H2022G\|הָ֑ר]] [[H1571\|גַּם]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֤אן]] [[H9002\|וְ]][[H9009\|הַ]][[H1241\|בָּקָר֙]] [[H0408\|אַל]][[H9014\|־]] [[H7462B\|יִרְע֔וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H4136\|מ֖וּל]] [[H9009\|הָ]][[H2022G\|הָ֥ר]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic SINAI|SINAI]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.2|<< Exodus 34:2]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.4|Exodus 34:4 >>]]</td></tr></table>
 

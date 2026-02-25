@@ -1,8 +1,56 @@
+---
+title: Psalm 97:11
+type: Verse
+kjv: "Light is sown for the righteous, and gladness for the upright in heart."
+bsb: "Light shines on the righteous, gladness on the upright in heart."
+hebrew: "א֭וֹר זָרֻ֣עַ לַצַּדִּ֑יק וּֽלְיִשְׁרֵי־ לֵ֥ב שִׂמְחָֽה׃"
+pericope: "[[Ps.97.1 Let the Earth Rejoice|Let the Earth Rejoice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 97
+book/chapter: "[[Ps.97|Psalm 97]]"
+chronological_order: 524
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H0216]]"
+- "[[H2232]]"
+- "[[H9005]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H8057]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 97:11**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Light is sown for the righteous, and gladness for the upright in heart.
 <small><sub>**BSB:**</sub></small>
 Light shines on the righteous, gladness on the upright in heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H0216\|א֭וֹר]] [[H2232\|זָרֻ֣עַ]] [[H9005\|לַ]][[H6662\|צַּדִּ֑יק]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3477G\|יִשְׁרֵי]][[H9014\|־]] [[H3820A\|לֵ֥ב]] [[H8057\|שִׂמְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.10|<< Psalms 97:10]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.12|Psalms 97:12 >>]]</td></tr></table>
 

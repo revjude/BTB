@@ -1,10 +1,67 @@
+---
+title: Acts 16:26
+type: Verse
+kjv: "And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed."
+bsb: "Suddenly a strong earthquake shook the foundations of the prison. At once all the doors flew open and everyone’s chains came loose."
+greek: "ἄφνω δὲ σεισμὸς ἐγένετο μέγας ὥστε σαλευθῆναι τὰ θεμέλια τοῦ δεσμωτηρίου· ἠνεῴχθησαν δὲ παραχρῆμα αἱ θύραι πᾶσαι, καὶ πάντων τὰ δεσμὰ ἀνέθη."
+pericope: "[[Acts.16.25 The Conversion of the Jailer|The Conversion of the Jailer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G0869]]"
+- "[[G1161]]"
+- "[[G4578]]"
+- "[[G1096]]"
+- "[[G3173]]"
+- "[[G5620]]"
+- "[[G4531]]"
+- "[[G3588]]"
+- "[[G2310]]"
+- "[[G1201]]"
+- "[[G0455]]"
+- "[[G3916]]"
+- "[[G2374]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G1199]]"
+- "[[G0447]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 16:26**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And suddenly there was a great earthquake, so that the foundations of the prison were shaken: and immediately all the doors were opened, and every one’s bands were loosed.
 <small><sub>**BSB:**</sub></small>
 Suddenly a strong earthquake shook the foundations of the prison. At once all the doors flew open and everyone’s chains came loose.
-<small><sub>**Literal:**</sub></small>
-Suddenly then earthquake there was a great so that shaking the foundations of the prison house; were opened then immediately the doors all, and of all the chains were loosed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.25|<< Acts 16:25]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.27|Acts 16:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0869\|ἄφνω]]  [[G1161\|δὲ]]  [[G4578\|σεισμὸς]]  [[G1096\|ἐγένετο]]  [[G3173\|μέγας]]  [[G5620\|ὥστε]]  [[G4531\|σαλευθῆναι]]  [[G3588\|τὰ]]  [[G2310\|θεμέλια]]  [[G3588\|τοῦ]]  [[G1201\|δεσμωτηρίου·]]  [[G0455\|ἠνεῴχθησαν]]  [[G1161\|δὲ]]  [[G3916\|παραχρῆμα]]  [[G3588\|αἱ]]  [[G2374\|θύραι]]  [[G3956\|πᾶσαι,]]  [[G2532\|καὶ]]  [[G3956\|πάντων]]  [[G3588\|τὰ]]  [[G1199\|δεσμὰ]]  [[G0447\|ἀνέθη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]] • [[topic EARTHQUAKES|EARTHQUAKES]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.25|<< Acts 16:25]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.27|Acts 16:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Jeremiah 32:39
+type: Verse
+kjv: "And I will give them one heart, and one way, that they may fear me for ever, for the good of them, and of their children after them:"
+bsb: "I will give them one heart and one way, so that they will always fear Me for their own good and for the good of their children after them."
+hebrew: "וְנָתַתִּ֨י לָהֶ֜ם לֵ֤ב אֶחָד֙ וְדֶ֣רֶךְ אֶחָ֔ד לְיִרְאָ֥ה אוֹתִ֖י כָּל־ הַיָּמִ֑ים לְט֣וֹב לָהֶ֔ם וְלִבְנֵיהֶ֖ם אַחֲרֵיהֶֽם׃"
+pericope: "[[Jer.32.36 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3820A]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H1870G]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117K]]"
+- "[[H2896B]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:39**<big><big>[[Jer.32.36 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give them one heart, and one way, that they may fear me for ever, for the good of them, and of their children after them:
 <small><sub>**BSB:**</sub></small>
 I will give them one heart and one way, so that they will always fear Me for their own good and for the good of their children after them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֨י]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H3820A\|לֵ֤ב]] [[H0259\|אֶחָד֙]] [[H9002\|וְ]][[H1870G\|דֶ֣רֶךְ]] [[H0259\|אֶחָ֔ד]] [[H9005\|לְ]][[H3372H\|יִרְאָ֥ה]] [[H0853\|אוֹתִ֖]][[H9030\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִ֑ים]] [[H9005\|לְ]][[H2896B\|ט֣וֹב]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H9005\|לִ]][[H1121A\|בְנֵי]][[H9028\|הֶ֖ם]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REGENERATION|REGENERATION]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.38|<< Jeremiah 32:38]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.40|Jeremiah 32:40 >>]]</td></tr></table>
 

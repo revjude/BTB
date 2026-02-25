@@ -1,8 +1,61 @@
+---
+title: Numbers 35:20
+type: Verse
+kjv: "But if he thrust him of hatred, or hurl at him by laying of wait, that he die;"
+bsb: "Likewise, if anyone maliciously pushes another or intentionally throws an object at him and kills him,"
+hebrew: "וְאִם־ בְּשִׂנְאָ֖ה יֶהְדָּפֶ֑נּוּ אֽוֹ־ הִשְׁלִ֥יךְ עָלָ֛יו בִּצְדִיָּ֖ה וַיָּמֹֽת׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H8135]]"
+- "[[H1920]]"
+- "[[H9033]]"
+- "[[H0176A]]"
+- "[[H7993]]"
+- "[[H5921A]]"
+- "[[H6660]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:20**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if he thrust him of hatred, or hurl at him by laying of wait, that he die;
 <small><sub>**BSB:**</sub></small>
 Likewise, if anyone maliciously pushes another or intentionally throws an object at him and kills him,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H8135\|שִׂנְאָ֖ה]] [[H1920\|יֶהְדָּפֶ֑]][[H9033\|נּוּ]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H7993\|הִשְׁלִ֥יךְ]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H9003\|בִּ]][[H6660\|צְדִיָּ֖ה]] [[H9001\|וַ]][[H4191\|יָּמֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVENGER OF BLOOD|AVENGER OF BLOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.19|<< Numbers 35:19]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.21|Numbers 35:21 >>]]</td></tr></table>
 

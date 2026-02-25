@@ -1,8 +1,65 @@
+---
+title: Jeremiah 2:3
+type: Verse
+kjv: "Israel was holiness unto the LORD, and the firstfruits of his increase: all that devour him shall offend; evil shall come upon them, saith the LORD."
+bsb: "Israel was holy to the LORD, the firstfruits of His harvest. All who devoured her were found guilty; disaster came upon them,’” declares the LORD."
+hebrew: "קֹ֤דֶשׁ יִשְׂרָאֵל֙ לַיהוָ֔ה רֵאשִׁ֖ית תְּבוּאָת֑וֹ כָּל־ אֹכְלָ֣יו יֶאְשָׁ֔מוּ רָעָ֛ה תָּבֹ֥א אֲלֵיהֶ֖ם נְאֻם־ יְהוָֽה׃ פ"
+pericope: "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[H6944G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7225G]]"
+- "[[H8393]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H0816]]"
+- "[[H7451C]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H5002]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 2:3**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Israel [was] holiness unto the LORD, [and] the firstfruits of his increase: all that devour him shall offend; evil shall come upon them, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Israel was holy to the LORD, the firstfruits of His harvest. All who devoured her were found guilty; disaster came upon them,’” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H6944G\|קֹ֤דֶשׁ]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H7225G\|רֵאשִׁ֖ית]] [[H8393\|תְּבוּאָת֑]][[H9023\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H0398\|אֹכְלָ֣י]][[H9033\|ו]] [[H0816\|יֶאְשָׁ֔מוּ]] [[H7451C\|רָעָ֛ה]] [[H0935G\|תָּבֹ֥א]] [[H0413\|אֲלֵי]][[H9038\|הֶ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic LOVE|LOVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.2|<< Jeremiah 2:2]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.4|Jeremiah 2:4 >>]]</td></tr></table>
 
@@ -20,10 +77,10 @@ Israel was holy to the LORD, the firstfruits of His harvest. All who devoured he
 | it will come  |**<big>&#8207;[[H0935G\|תָּבֹ֥א]]&#8207; </big>**| ta.Vo'<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H0413\|אֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.2|<< Jeremiah 2:2]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.4|Jeremiah 2:4 >>]]</td></tr></table>
 
-[^1]: produce his  | **<big>[[H9023|ה]]</big><big>[[H8393|תְּבוּאָתֹ֑]]</big> ** | te.vu.'a.To<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
-[^2]: produce his  | **<big>[[H9023|ה]]</big><big>[[H8393|תְּבוּאָתֹ֑]]</big> ** | te.vu.'a.To<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^1]: produce his  | **<big>[[H8393|תְּבוּאָתֹ֑]]</big><big>[[H9023|ה]]</big> ** | te.vu.'a.To<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: produce his  | **<big>[[H8393|תְּבוּאָתֹ֑]]</big><big>[[H9023|ה]]</big> ** | te.vu.'a.To<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>תְּבוּאָתֹ֑ה</big></span>**
 

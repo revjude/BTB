@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Poor Widow’s Offering
+type: Pericope
 pericope: "[[Luke.21.1 The Poor Widow’s Offering|The Poor Widow’s Offering]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 21
 book/chapter: "[[Luke.21|Luke 21]]"
-genre:
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.21.1]]"
 - "[[Luke.21.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.21.4]]"
 ---
 
-[[Luke.21|Luke 21:1 - Luke 21:4]]
+<small>[[Luke.21|Luke 21:1-4]]</small>
 *The Poor Widow’s Offering*
 
 [[Luke.21.1|1]] And he looked up, and saw the rich men casting their gifts into the treasury.

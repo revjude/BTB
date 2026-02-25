@@ -1,8 +1,86 @@
+---
+title: Ezekiel 28:13
+type: Verse
+kjv: "Thou hast been in Eden the garden of God; every precious stone was thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created."
+bsb: "You were in Eden, the garden of God. Every kind of precious stone adorned you: ruby, topaz, and diamond, beryl, onyx, and jasper, sapphire, turquoise, and emerald. Your mountings and settings were crafted in gold, prepared on the day of your creation."
+hebrew: "בְּעֵ֨דֶן גַּן־ אֱלֹהִ֜ים הָיִ֗יתָ כָּל־ אֶ֨בֶן יְקָרָ֤ה מְסֻכָתֶ֙ךָ֙ אֹ֣דֶם פִּטְדָ֞ה וְיָהֲלֹ֗ם תַּרְשִׁ֥ישׁ שֹׁ֙הַם֙ וְיָ֣שְׁפֵ֔ה סַפִּ֣יר נֹ֔פֶךְ וּבָרְקַ֖ת וְזָהָ֑ב מְלֶ֨אכֶת תֻּפֶּ֤יךָ וּנְקָבֶ֙יךָ֙ בָּ֔ךְ בְּי֥וֹם הִבָּרַאֲךָ֖ כּוֹנָֽנוּ׃"
+pericope: "[[Ezek.28.11 A Lament for the King of Tyre|A Lament for the King of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CARBUNCLE|CARBUNCLE]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DIAMOND|DIAMOND]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic EMERALD|EMERALD]]"
+- "[[topic LAMENTATIONS|LAMENTATIONS]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic ONYX|ONYX]]"
+- "[[topic SAPPHIRE|SAPPHIRE]]"
+- "[[topic SARDIUS|SARDIUS]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOPAZ|TOPAZ]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9003]]"
+- "[[H5731B]]"
+- "[[H1588M]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H0068G]]"
+- "[[H3368]]"
+- "[[H4540]]"
+- "[[H9021]]"
+- "[[H0124]]"
+- "[[H6357]]"
+- "[[H9002]]"
+- "[[H3095]]"
+- "[[H8658]]"
+- "[[H7718]]"
+- "[[H3471]]"
+- "[[H5601]]"
+- "[[H5306]]"
+- "[[H1304B]]"
+- "[[H2091]]"
+- "[[H4399]]"
+- "[[H8596]]"
+- "[[H5345]]"
+- "[[H9031]]"
+- "[[H3117G]]"
+- "[[H1254A]]"
+- "[[H9041]]"
+- "[[H3559A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:13**<big><big>[[Ezek.28.11 A Lament for the King of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast been in Eden the garden of God; every precious stone [was] thy covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of thy tabrets and of thy pipes was prepared in thee in the day that thou wast created.
 <small><sub>**BSB:**</sub></small>
 You were in Eden, the garden of God. Every kind of precious stone adorned you: ruby, topaz, and diamond, beryl, onyx, and jasper, sapphire, turquoise, and emerald. Your mountings and settings were crafted in gold, prepared on the day of your creation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5731B\|עֵ֨דֶן]] [[H1588M\|גַּן]][[H9014\|־]] [[H0430G\|אֱלֹהִ֜ים]] [[H1961\|הָיִ֗יתָ]] [[H3605\|כָּל]][[H9014\|־]] [[H0068G\|אֶ֨בֶן]] [[H3368\|יְקָרָ֤ה]] [[H4540\|מְסֻכָתֶ֙]][[H9021\|ךָ֙]] [[H0124\|אֹ֣דֶם]] [[H6357\|פִּטְדָ֞ה]] [[H9002\|וְ]][[H3095\|יָהֲלֹ֗ם]] [[H8658\|תַּרְשִׁ֥ישׁ]] [[H7718\|שֹׁ֙הַם֙]] [[H9002\|וְ]][[H3471\|יָ֣שְׁפֵ֔ה]] [[H5601\|סַפִּ֣יר]] [[H5306\|נֹ֔פֶךְ]] [[H9002\|וּ]][[H1304B\|בָרְקַ֖ת]] [[H9002\|וְ]][[H2091\|זָהָ֑ב]] [[H4399\|מְלֶ֨אכֶת]] [[H8596\|תֻּפֶּ֤י]][[H9021\|ךָ]] [[H9002\|וּ]][[H5345\|נְקָבֶ֙י]][[H9021\|ךָ֙]] [[H9003\|בָּ֔]][[H9031\|ךְ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H1254A\|הִבָּרַאֲ]][[H9041\|ךָ֖]] [[H3559A\|כּוֹנָֽנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARBUNCLE|CARBUNCLE]] • [[topic COMMERCE|COMMERCE]] • [[topic DIAMOND|DIAMOND]] • [[topic EDEN|EDEN]] • [[topic EMERALD|EMERALD]] • [[topic LAMENTATIONS|LAMENTATIONS]] • [[topic MUSIC|MUSIC]] • [[topic ONYX|ONYX]] • [[topic SAPPHIRE|SAPPHIRE]] • [[topic SARDIUS|SARDIUS]] • [[topic STONES|STONES]] • [[topic TOPAZ|TOPAZ]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.12|<< Ezekiel 28:12]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.14|Ezekiel 28:14 >>]]</td></tr></table>
 

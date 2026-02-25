@@ -1,8 +1,55 @@
+---
+title: Job 9:7
+type: Verse
+kjv: "Which commandeth the sun, and it riseth not; and sealeth up the stars."
+bsb: "He commands the sun not to shine; He seals off the stars."
+hebrew: "הָאֹמֵ֣ר לַ֭חֶרֶס וְלֹ֣א יִזְרָ֑ח וּבְעַ֖ד כּוֹכָבִ֣ים יַחְתֹּֽם׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic STARS|STARS]]"
+strongs:
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H2775A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2224]]"
+- "[[H1157]]"
+- "[[H3556]]"
+- "[[H2856]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:7**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which commandeth the sun, and it riseth not; and sealeth up the stars.
 <small><sub>**BSB:**</sub></small>
 He commands the sun not to shine; He seals off the stars.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0559\|אֹמֵ֣ר]] [[H9005\|לַ֭]][[H2775A\|חֶרֶס]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2224\|יִזְרָ֑ח]] [[H9002\|וּ]][[H1157\|בְעַ֖ד]] [[H3556\|כּוֹכָבִ֣ים]] [[H2856\|יַחְתֹּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic STARS|STARS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.6|<< Job 9:6]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.8|Job 9:8 >>]]</td></tr></table>
 

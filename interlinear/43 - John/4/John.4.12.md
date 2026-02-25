@@ -1,10 +1,60 @@
+---
+title: John 4:12
+type: Verse
+kjv: "Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?"
+bsb: "Are You greater than our father Jacob, who gave us this well and drank from it himself, as did his sons and his livestock?”"
+greek: "μὴ σὺ μείζων εἶ τοῦ πατρὸς ἡμῶν Ἰακώβ, ὃς ἔδωκεν ἡμῖν τὸ φρέαρ, καὶ αὐτὸς ἐξ αὐτοῦ ἔπιεν καὶ οἱ υἱοὶ αὐτοῦ καὶ τὰ θρέμματα αὐτοῦ;¶"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G3361]]"
+- "[[G4771]]"
+- "[[G3173]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G2384G]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G5421]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G4095]]"
+- "[[G5207]]"
+- "[[G2353]]"
+texts:
+- NKO
+---
+
 **John 4:12**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
 <small><sub>**BSB:**</sub></small>
 Are You greater than our father Jacob, who gave us this well and drank from it himself, as did his sons and his livestock?”
-<small><sub>**Literal:**</sub></small>
-Not You yourself greater are [than] the father of us Jacob, who gave us the well, and himself of it drank and the sons of him and the livestock of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.11|<< John 4:11]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.13|John 4:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G4771\|σὺ]]  [[G3173\|μείζων]]  [[G1510\|εἶ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν]]  [[G2384G\|Ἰακώβ,]]  [[G3739\|ὃς]]  [[G1325\|ἔδωκεν]]  [[G3165\|ἡμῖν]]  [[G3588\|τὸ]]  [[G5421\|φρέαρ,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1537\|ἐξ]]  [[G0846\|αὐτοῦ]]  [[G4095\|ἔπιεν]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5207\|υἱοὶ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2353\|θρέμματα]]  [[G0846\|αὐτοῦ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.11|<< John 4:11]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.13|John 4:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

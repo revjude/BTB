@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 8:10
+type: Verse
+kjv: "And these were the chief of king Solomon’s officers, even two hundred and fifty, that bare rule over the people."
+bsb: "They were also the chief officers for King Solomon: 250 supervisors."
+hebrew: "וְאֵ֨לֶּה שָׂרֵ֤י הַנִּצָּבִ֛ים אֲשֶׁר־ לַמֶּ֥לֶךְ שְׁלֹמֹ֖ה חֲמִשִּׁ֣ים וּמָאתָ֑יִם הָרֹדִ֖ים בָּעָֽם׃"
+pericope: "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H5333]]"
+- "[[H5324]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H2572]]"
+- "[[H3967]]"
+- "[[H7287A]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Chronicles 8:10**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [were] the chief of king Solomon’s officers, [even] two hundred and fifty, that bare rule over the people.
 <small><sub>**BSB:**</sub></small>
 They were also the chief officers for King Solomon: 250 supervisors.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֨לֶּה]] [[H8269\|שָׂרֵ֤י]] [[H9009\|הַ]][[H5324\|נִּצָּבִ֛ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לַ]][[H4428G\|מֶּ֥לֶךְ]] [[H8010\|שְׁלֹמֹ֖ה]] [[H2572\|חֲמִשִּׁ֣ים]] [[H9002\|וּ]][[H3967\|מָאתָ֑יִם]] [[H9009\|הָ]][[H7287A\|רֹדִ֖ים]] [[H9003\|בָּ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.9|<< 2 Chronicles 8:9]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.11|2 Chronicles 8:11 >>]]</td></tr></table>
 
@@ -20,7 +70,7 @@ They were also the chief officers for King Solomon: 250 supervisors.
 | over the people  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.9|<< 2 Chronicles 8:9]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.11|2 Chronicles 8:11 >>]]</td></tr></table>
 
-[^1]: the garrisons  | **<big>[[H5333|נְּצִיבִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tzi.vim<small><sup>[[HNcmpa]]</sup></small> | K
-[^2]: the garrisons  | **<big>[[H5333|נְּצִיבִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tzi.vim<small><sup>[[HNcmpa]]</sup></small> | K
+[^1]: the garrisons  | **<big>[[H9009|הַ]]</big><big>[[H5333|נְּצִיבִים]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tzi.vim<small><sup>[[HNcmpa]]</sup></small> | K
+[^2]: the garrisons  | **<big>[[H9009|הַ]]</big><big>[[H5333|נְּצִיבִים]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ne.tzi.vim<small><sup>[[HNcmpa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַנִּצָּיבִ֛ים</big></span>**
 

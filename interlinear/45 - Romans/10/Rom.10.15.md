@@ -1,10 +1,61 @@
+---
+title: Romans 10:15
+type: Verse
+kjv: "And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!"
+bsb: "And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”"
+greek: "πῶς δὲ κηρύξωσιν ἐὰν μὴ ἀποσταλῶσιν; καθὼς γέγραπται· ὡς ὡραῖοι οἱ πόδες τῶν εὐαγγελιζομένων εἰρήνην τῶν εὐαγγελιζομένων τὰ ἀγαθά."
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G4459]]"
+- "[[G1161]]"
+- "[[G2784]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G0649]]"
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G5613]]"
+- "[[G5611]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G2097]]"
+- "[[G1515]]"
+- "[[G0018]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+- K
+---
+
 **Romans 10:15**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
 <small><sub>**BSB:**</sub></small>
 And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”
-<small><sub>**Literal:**</sub></small>
-How now shall they preach only unless they shall be sent? Even as it has been written: How beautiful the feet of those evangelising [about] peace of those evangelising the good [things]!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.14|<< Romans 10:14]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.16|Romans 10:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4459\|πῶς]]  [[G1161\|δὲ]]  [[G2784\|κηρύξωσιν]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G0649\|ἀποσταλῶσιν;]]  [[G2531\|καθὼς]]  [[G1125\|γέγραπται·]]  [[G5613\|ὡς]]  [[G5611\|ὡραῖοι]]  [[G3588\|οἱ]]  [[G4228\|πόδες]]  [[G3588\|τῶν]]  [[G2097\|εὐαγγελιζομένων]]  [[G1515\|εἰρήνην]]  [[G3588\|τῶν]]  [[G2097\|εὐαγγελιζομένων]]  [[G3588\|τὰ]]  [[G0018\|ἀγαθά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PEACE|PEACE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.14|<< Romans 10:14]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.16|Romans 10:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:15** is...
 > $\quad$ referencing: [[LXX.Isa.52.7|Isa 52:7]] ☩ [[LXX.Nah.1.15|Nah 1:15]]

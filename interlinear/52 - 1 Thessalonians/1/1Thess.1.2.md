@@ -1,10 +1,57 @@
+---
+title: 1 Thessalonians 1:2
+type: Verse
+kjv: "We give thanks to God always for you all, making mention of you in our prayers;"
+bsb: "We always thank God for all of you, remembering you in our prayers"
+greek: "Εὐχαριστοῦμεν τῷ θεῷ πάντοτε περὶ πάντων ὑμῶν μνείαν ὑμῶν ποιούμενοι ἐπὶ τῶν προσευχῶν ἡμῶν, ἀδιαλείπτως"
+pericope: "[[1Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 1
+book/chapter: "[[1Thess.1|1 Thessalonians 1]]"
+chronological_order: 1048
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2168]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3842]]"
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G3417]]"
+- "[[G4160G]]"
+- "[[G1909]]"
+- "[[G4335]]"
+- "[[G3165]]"
+- "[[G0089]]"
+texts:
+- NKO
+- k
+---
+
 **1 Thessalonians 1:2**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We give thanks to God always for you all, making mention of you in our prayers;
 <small><sub>**BSB:**</sub></small>
 We always thank God for all of you, remembering you in our prayers
-<small><sub>**Literal:**</sub></small>
-We give thanks <the> to God always concerning all of you mention of you making in the prayers of us, [3] unceasingly<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.1|<< 1 Thessalonians 1:1]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.3|1 Thessalonians 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2168\|Εὐχαριστοῦμεν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3842\|πάντοτε]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν]]  [[G3417\|μνείαν]]  [[G4771\|ὑμῶν]]  [[G4160G\|ποιούμενοι]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G4335\|προσευχῶν]]  [[G3165\|ἡμῶν,]]  [[G0089\|ἀδιαλείπτως]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.1|<< 1 Thessalonians 1:1]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.3|1 Thessalonians 1:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

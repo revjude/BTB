@@ -1,10 +1,48 @@
+---
+title: 1 Corinthians 11:31
+type: Verse
+kjv: "For if we would judge ourselves, we should not be judged."
+bsb: "Now if we judged ourselves properly, we would not come under judgment."
+greek: "εἰ δὲ ἑαυτοὺς διεκρίνομεν, οὐκ ἂν ἐκρινόμεθα·"
+pericope: "[[1Cor.11.17 Sharing in the Lord’s Supper|Sharing in the Lord’s Supper]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic SELF-EXAMINATION|SELF-EXAMINATION]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G1438]]"
+- "[[G1252]]"
+- "[[G3756]]"
+- "[[G0302]]"
+- "[[G2919]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 11:31**<big><big>[[1Cor.11.17 Sharing in the Lord’s Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if we would judge ourselves, we should not be judged.
 <small><sub>**BSB:**</sub></small>
 Now if we judged ourselves properly, we would not come under judgment.
-<small><sub>**Literal:**</sub></small>
-If for ourselves we were judging, not then would we were come under judgment;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.30|<< 1 Corinthians 11:30]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.32|1 Corinthians 11:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G1438\|ἑαυτοὺς]]  [[G1252\|διεκρίνομεν,]]  [[G3756\|οὐκ]]  [[G0302\|ἂν]]  [[G2919\|ἐκρινόμεθα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic SELF-EXAMINATION|SELF-EXAMINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.30|<< 1 Corinthians 11:30]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.32|1 Corinthians 11:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

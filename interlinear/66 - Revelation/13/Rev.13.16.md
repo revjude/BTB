@@ -1,10 +1,62 @@
+---
+title: Revelation 13:16
+type: Verse
+kjv: "And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:"
+bsb: "And the second beast required all people, small and great, rich and poor, free and slave, to receive a mark on their right hand or on their forehead,"
+greek: "καὶ ποιεῖ πάντας, τοὺς μικροὺς καὶ τοὺς μεγάλους καὶ τοὺς πλουσίους καὶ τοὺς πτωχοὺς καὶ τοὺς ἐλευθέρους καὶ τοὺς δούλους, ἵνα δῶσιν αὐτοῖς χάραγμα ἐπὶ τῆς χειρὸς αὐτῶν τῆς δεξιᾶς ἢ ἐπὶ τὸ μέτωπον αὐτῶν,"
+pericope: "[[Rev.13.16 The Mark of the Beast|The Mark of the Beast]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3398]]"
+- "[[G3173]]"
+- "[[G4145]]"
+- "[[G4434]]"
+- "[[G1658]]"
+- "[[G1401]]"
+- "[[G2443]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G5480]]"
+- "[[G1909]]"
+- "[[G5495]]"
+- "[[G1188]]"
+- "[[G2228]]"
+- "[[G3359]]"
+texts:
+- NKO
+- N(k)(o)
+- N(k)O
+---
+
 **Revelation 13:16**<big><big>[[Rev.13.16 The Mark of the Beast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
 <small><sub>**BSB:**</sub></small>
 And the second beast required all people, small and great, rich and poor, free and slave, to receive a mark on their right hand or on their forehead,
-<small><sub>**Literal:**</sub></small>
-And it causes all the small and the great and the rich and the poor and the free and the servants, that it may give to them a mark on the hand of them <the> right or on the forehead of them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.15|<< Revelation 13:15]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.17|Revelation 13:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4160G\|ποιεῖ]]  [[G3956\|πάντας,]]  [[G3588\|τοὺς]]  [[G3398\|μικροὺς]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3173\|μεγάλους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4145\|πλουσίους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4434\|πτωχοὺς]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1658\|ἐλευθέρους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1401\|δούλους,]]  [[G2443\|ἵνα]]  [[G1325\|δῶσιν]]  [[G0846\|αὐτοῖς]]  [[G5480\|χάραγμα]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτῶν]]  [[G3588\|τῆς]]  [[G1188\|δεξιᾶς]]  [[G2228\|ἢ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3359\|μέτωπον]]  [[G0846\|αὐτῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.15|<< Revelation 13:15]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.17|Revelation 13:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

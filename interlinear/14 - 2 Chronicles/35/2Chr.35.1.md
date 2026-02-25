@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 35:1
+type: Verse
+kjv: "Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month."
+bsb: "Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month."
+hebrew: "וַיַּ֨עַשׂ יֹאשִׁיָּ֧הוּ בִֽירוּשָׁלִַ֛ם פֶּ֖סַח לַיהוָ֑ה וַיִּשְׁחֲט֣וּ הַפֶּ֔סַח בְּאַרְבָּעָ֥ה עָשָׂ֖ר לַחֹ֥דֶשׁ הָרִאשֽׁוֹן׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H2977G]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H6453]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7819A]]"
+- "[[H9009]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H2320G]]"
+- "[[H7223G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:1**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth [day] of the first month.
 <small><sub>**BSB:**</sub></small>
 Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֨עַשׂ]] [[H2977G\|יֹאשִׁיָּ֧הוּ]] [[H9003\|בִֽ]][[H3389\|ירוּשָׁלִַ֛ם]] [[H6453\|פֶּ֖סַח]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9001\|וַ]][[H7819A\|יִּשְׁחֲט֣וּ]] [[H9009\|הַ]][[H6453\|פֶּ֔סַח]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H9005\|לַ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשֽׁוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSIAH|JOSIAH]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.33|<< 2 Chronicles 34:33]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.2|2 Chronicles 35:2 >>]]</td></tr></table>
 

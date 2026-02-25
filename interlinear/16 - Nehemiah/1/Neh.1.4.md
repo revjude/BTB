@@ -1,8 +1,70 @@
+---
+title: Nehemiah 1:4
+type: Verse
+kjv: "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,"
+bsb: "When I heard these words, I sat down and wept. I mourned for days, fasting and praying before the God of heaven."
+hebrew: "וַיְהִ֞י כְּשָׁמְעִ֣י׀ אֶת־ הַדְּבָרִ֣ים הָאֵ֗לֶּה יָשַׁ֙בְתִּי֙ וָֽאֶבְכֶּ֔ה וָאֶתְאַבְּלָ֖ה יָמִ֑ים וָֽאֱהִ֥י צָם֙ וּמִתְפַּלֵּ֔ל לִפְנֵ֖י אֱלֹהֵ֥י הַשָּׁמָֽיִם׃"
+pericope: "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 1
+book/chapter: "[[Neh.1|Nehemiah 1]]"
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9040]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H3427]]"
+- "[[H1058]]"
+- "[[H0056]]"
+- "[[H9012]]"
+- "[[H3117G]]"
+- "[[H6684]]"
+- "[[H9002]]"
+- "[[H6419]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 1:4**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when I heard these words, that I sat down and wept, and mourned [certain] days, and fasted, and prayed before the God of heaven,
 <small><sub>**BSB:**</sub></small>
 When I heard these words, I sat down and wept. I mourned for days, fasting and praying before the God of heaven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כְּ]][[H8085G\|שָׁמְעִ֣]][[H9040\|י]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֗לֶּה]] [[H3427\|יָשַׁ֙בְתִּי֙]] [[H9001\|וָֽ]][[H1058\|אֶבְכֶּ֔ה]] [[H9001\|וָ]][[H0056\|אֶתְאַבְּלָ֖]][[H9012\|ה]] [[H3117G\|יָמִ֑ים]] [[H9001\|וָֽ]][[H1961\|אֱהִ֥י]] [[H6684\|צָם֙]] [[H9002\|וּ]][[H6419\|מִתְפַּלֵּ֔ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0430G\|אֱלֹהֵ֥י]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic FASTING|FASTING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.3|<< Nehemiah 1:3]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.5|Nehemiah 1:5 >>]]</td></tr></table>
 

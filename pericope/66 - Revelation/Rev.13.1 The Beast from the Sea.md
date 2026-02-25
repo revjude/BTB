@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Beast from the Sea
+type: Pericope
 pericope: "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 13
 book/chapter: "[[Rev.13|Revelation 13]]"
-genre:
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 10
 verses:
 - "[[Rev.13.1]]"
 - "[[Rev.13.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Rev.13.10]]"
 ---
 
-[[Rev.13|Revelation 13:1 - Revelation 13:10]]
+<small>[[Rev.13|Revelation 13:1-10]]</small>
 *The Beast from the Sea*
 
 [[Rev.13.1|1]] And I stood upon the sand of the sea, and saw a beast rise up out of the sea, having seven heads and ten horns, and upon his horns ten crowns, and upon his heads the name of blasphemy.

@@ -1,8 +1,52 @@
+---
+title: Job 39:19
+type: Verse
+kjv: "Hast thou given the horse strength? hast thou clothed his neck with thunder?"
+bsb: "Do you give strength to the horse or adorn his neck with a mane?"
+hebrew: "הֲתִתֵּ֣ן לַסּ֣וּס גְּבוּרָ֑ה הֲתַלְבִּ֖ישׁ צַוָּאר֣וֹ רַעְמָֽה׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HORSE|HORSE]]"
+strongs:
+- "[[H9008]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5483M]]"
+- "[[H1369]]"
+- "[[H3847]]"
+- "[[H6677A]]"
+- "[[H9023]]"
+- "[[H7483]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:19**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou given the horse strength? hast thou clothed his neck with thunder?
 <small><sub>**BSB:**</sub></small>
 Do you give strength to the horse or adorn his neck with a mane?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H5414G\|תִתֵּ֣ן]] [[H9005\|לַ]][[H5483M\|סּ֣וּס]] [[H1369\|גְּבוּרָ֑ה]] [[H9008\|הֲ]][[H3847\|תַלְבִּ֖ישׁ]] [[H6677A\|צַוָּאר֣]][[H9023\|וֹ]] [[H7483\|רַעְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HORSE|HORSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.18|<< Job 39:18]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.20|Job 39:20 >>]]</td></tr></table>
 

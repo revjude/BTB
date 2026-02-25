@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 11:2
+type: Verse
+kjv: "Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth."
+bsb: "Divide your portion among seven, or even eight, for you do not know what disaster may befall the land."
+hebrew: "תֶּן־ חֵ֥לֶק לְשִׁבְעָ֖ה וְגַ֣ם לִשְׁמוֹנָ֑ה כִּ֚י לֹ֣א תֵדַ֔ע מַה־ יִּהְיֶ֥ה רָעָ֖ה עַל־ הָאָֽרֶץ׃"
+pericope: "[[Eccl.11.1 Cast Your Bread upon the Waters|Cast Your Bread upon the Waters]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 11
+book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H2506A]]"
+- "[[H9005]]"
+- "[[H7651]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H8083]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H4100]]"
+- "[[H1961]]"
+- "[[H7451C]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 11:2**<big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give a portion to seven, and also to eight; for thou knowest not what evil shall be upon the earth.
 <small><sub>**BSB:**</sub></small>
 Divide your portion among seven, or even eight, for you do not know what disaster may befall the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|תֶּן]][[H9014\|־]] [[H2506A\|חֵ֥לֶק]] [[H9005\|לְ]][[H7651\|שִׁבְעָ֖ה]] [[H9002\|וְ]][[H1571\|גַ֣ם]] [[H9005\|לִ]][[H8083\|שְׁמוֹנָ֑ה]] [[H3588A\|כִּ֚י]] [[H3808\|לֹ֣א]] [[H3045\|תֵדַ֔ע]] [[H4100\|מַה]][[H9014\|־]] [[H1961\|יִּהְיֶ֥ה]] [[H7451C\|רָעָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.1|<< Ecclesiastes 11:1]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.3|Ecclesiastes 11:3 >>]]</td></tr></table>
 

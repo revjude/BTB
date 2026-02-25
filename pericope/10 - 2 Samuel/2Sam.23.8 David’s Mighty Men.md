@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Mighty Men
+type: Pericope
 pericope: "[[2Sam.23.8 David’s Mighty Men|David’s Mighty Men]]"
-verse_count: 32
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 23
 book/chapter: "[[2Sam.23|2 Samuel 23]]"
-genre:
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 32
 verses:
 - "[[2Sam.23.8]]"
 - "[[2Sam.23.9]]"
@@ -51,7 +58,7 @@ verses:
 - "[[2Sam.23.39]]"
 ---
 
-[[2Sam.23|2 Samuel 23:8 - 2 Samuel 23:39]]
+<small>[[2Sam.23|2 Samuel 23:8-39]]</small>
 *David’s Mighty Men*
 
 [[2Sam.23.8|8]] These \[be\] the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same \[was\] Adino the Eznite: \[he lift up his spear\] against eight hundred, whom he slew at one time.

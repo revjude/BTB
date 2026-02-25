@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gabriel’s Prophecy of the Seventy Weeks
+type: Pericope
 pericope: "[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|Gabriel’s Prophecy of the Seventy Weeks]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 9
 book/chapter: "[[Dan.9|Daniel 9]]"
-genre:
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 8
 verses:
 - "[[Dan.9.20]]"
 - "[[Dan.9.21]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Dan.9.27]]"
 ---
 
-[[Dan.9|Daniel 9:20 - Daniel 9:27]]
+<small>[[Dan.9|Daniel 9:20-27]]</small>
 *Gabriel’s Prophecy of the Seventy Weeks*
 
 [[Dan.9.20|20]] And whiles I \[was\] speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God;

@@ -1,8 +1,67 @@
+---
+title: Esther 5:13
+type: Verse
+kjv: "Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king’s gate."
+bsb: "Yet none of this satisfies me as long as I see Mordecai the Jew sitting at the king’s gate.”"
+hebrew: "וְכָל־ זֶ֕ה אֵינֶ֥נּוּ שֹׁוֶ֖ה לִ֑י בְּכָל־ עֵ֗ת אֲשֶׁ֨ר אֲנִ֤י רֹאֶה֙ אֶת־ מָרְדֳּכַ֣י הַיְּהוּדִ֔י יוֹשֵׁ֖ב בְּשַׁ֥עַר הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.5.9 Haman’s Plot against Mordecai|Haman’s Plot against Mordecai]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 5
+book/chapter: "[[Esth.5|Esther 5]]"
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic ZERESH|ZERESH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H7737A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H4782H]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H3427]]"
+- "[[H8179G]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 5:13**<big><big>[[Esth.5.9 Haman’s Plot against Mordecai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet all this availeth me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.
 <small><sub>**BSB:**</sub></small>
 Yet none of this satisfies me as long as I see Mordecai the Jew sitting at the king’s gate.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2088\|זֶ֕ה]] [[H0369\|אֵינֶ֥]][[H9043\|נּוּ]] [[H7737A\|שֹׁוֶ֖ה]] [[H9005\|לִ֑]][[H9030\|י]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6256\|עֵ֗ת]] [[H0834A\|אֲשֶׁ֨ר]] [[H0589\|אֲנִ֤י]] [[H7200G\|רֹאֶה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4782H\|מָרְדֳּכַ֣י]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֔י]] [[H3427\|יוֹשֵׁ֖ב]] [[H9003\|בְּ]][[H8179G\|שַׁ֥עַר]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic ENVY|ENVY]] • [[topic HAPPINESS|HAPPINESS]] • [[topic MALICE|MALICE]] • [[topic PRIDE|PRIDE]] • [[topic ZERESH|ZERESH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.5.12|<< Esther 5:12]]</td><td align="center" style="border:none;">[[Esth.5|Esther 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.5.14|Esther 5:14 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Numbers 18:17
+type: Verse
+kjv: "But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they are holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat for an offering made by fire, for a sweet savour unto the LORD."
+bsb: "But you must not redeem the firstborn of an ox, a sheep, or a goat; they are holy. You are to splatter their blood on the altar and burn their fat as a food offering, a pleasing aroma to the LORD."
+hebrew: "אַ֣ךְ בְּֽכוֹר־ שׁ֡וֹר אֽוֹ־ בְכ֨וֹר כֶּ֜שֶׂב אֽוֹ־ בְכ֥וֹר עֵ֛ז לֹ֥א תִפְדֶּ֖ה קֹ֣דֶשׁ הֵ֑ם אֶת־ דָּמָ֞ם תִּזְרֹ֤ק עַל־ הַמִּזְבֵּ֙חַ֙ וְאֶת־ חֶלְבָּ֣ם תַּקְטִ֔יר אִשֶּׁ֛ה לְרֵ֥יחַ נִיחֹ֖חַ לַֽיהוָֽה׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H0389]]"
+- "[[H1060]]"
+- "[[H9014]]"
+- "[[H7794]]"
+- "[[H0176A]]"
+- "[[H3775]]"
+- "[[H5795]]"
+- "[[H3808]]"
+- "[[H6299]]"
+- "[[H6944G]]"
+- "[[H1992]]"
+- "[[H0853]]"
+- "[[H1818]]"
+- "[[H9028]]"
+- "[[H2236]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9002]]"
+- "[[H2459]]"
+- "[[H6999A]]"
+- "[[H0801]]"
+- "[[H9005]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:17**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they [are] holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat [for] an offering made by fire, for a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
 But you must not redeem the firstborn of an ox, a sheep, or a goat; they are holy. You are to splatter their blood on the altar and burn their fat as a food offering, a pleasing aroma to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]] [[H1060\|בְּֽכוֹר]][[H9014\|־]] [[H7794\|שׁ֡וֹר]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H1060\|בְכ֨וֹר]] [[H3775\|כֶּ֜שֶׂב]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H1060\|בְכ֥וֹר]] [[H5795\|עֵ֛ז]] [[H3808\|לֹ֥א]] [[H6299\|תִפְדֶּ֖ה]] [[H6944G\|קֹ֣דֶשׁ]] [[H1992\|הֵ֑ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמָ֞]][[H9028\|ם]] [[H2236\|תִּזְרֹ֤ק]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2459\|חֶלְבָּ֣]][[H9028\|ם]] [[H6999A\|תַּקְטִ֔יר]] [[H0801\|אִשֶּׁ֛ה]] [[H9005\|לְ]][[H7381\|רֵ֥יחַ]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.16|<< Numbers 18:16]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.18|Numbers 18:18 >>]]</td></tr></table>
 

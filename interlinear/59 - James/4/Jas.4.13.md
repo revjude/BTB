@@ -1,10 +1,64 @@
+---
+title: James 4:13
+type: Verse
+kjv: "Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"
+bsb: "Come now, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.”"
+greek: "Ἄγε νῦν οἱ λέγοντες· σήμερον ἢ αὔριον πορευσόμεθα εἰς τήνδε τὴν πόλιν καὶ ποιήσομεν ἐκεῖ ἐνιαυτὸν ἕνα καὶ ἐμπορευσόμεθα καὶ κερδήσομεν·"
+pericope: "[[Jas.4.13 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+strongs:
+- "[[G0071]]"
+- "[[G3568]]"
+- "[[G3588]]"
+- "[[G3004G]]"
+- "[[G4594]]"
+- "[[G2228]]"
+- "[[G0839]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3592]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G4160J]]"
+- "[[G1563]]"
+- "[[G1763]]"
+- "[[G1520]]"
+- "[[G1710]]"
+- "[[G2770]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **James 4:13**<big><big>[[Jas.4.13 Do Not Boast about Tomorrow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:
 <small><sub>**BSB:**</sub></small>
 Come now, you who say, “Today or tomorrow we will go to this or that city, spend a year there, carry on business, and make a profit.”
-<small><sub>**Literal:**</sub></small>
-do come now you who [are] saying; Today or tomorrow we will go into such <the> city and will spend there a year one and will trade and will make a profit;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.12|<< James 4:12]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.14|James 4:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0071\|Ἄγε]]  [[G3568\|νῦν]]  [[G3588\|οἱ]]  [[G3004G\|λέγοντες·]]  [[G4594\|σήμερον]]  [[G2228\|ἢ]]  [[G0839\|αὔριον]]  [[G4198\|πορευσόμεθα]]  [[G1519\|εἰς]]  [[G3592\|τήνδε]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G2532\|καὶ]]  [[G4160J\|ποιήσομεν]]  [[G1563\|ἐκεῖ]]  [[G1763\|ἐνιαυτὸν]]  [[G1520\|ἕνα]]  [[G2532\|καὶ]]  [[G1710\|ἐμπορευσόμεθα]]  [[G2532\|καὶ]]  [[G2770\|κερδήσομεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SELF-DELUSION|SELF-DELUSION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.12|<< James 4:12]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.14|James 4:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

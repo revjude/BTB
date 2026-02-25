@@ -1,8 +1,71 @@
+---
+title: Genesis 36:14
+type: Verse
+kjv: "And these were the sons of Aholibamah, the daughter of Anah the daughter of Zibeon, Esau’s wife: and she bare to Esau Jeush, and Jaalam, and Korah."
+bsb: "These are the sons of Esau’s wife Oholibamah (daughter of Anah and granddaughter of Zibeon) whom she bore to Esau: Jeush, Jalam, and Korah."
+hebrew: "וְאֵ֣לֶּה הָי֗וּ בְּנֵ֨י אָהֳלִיבָמָ֧ה בַת־ עֲנָ֛ה בַּת־ צִבְע֖וֹן אֵ֣שֶׁת עֵשָׂ֑ו וַתֵּ֣לֶד לְעֵשָׂ֔ו אֶת־ יְע֥וּשׁ וְאֶת־ יַעְלָ֖ם וְאֶת־ קֹֽרַח׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AHOLIBAMAH|AHOLIBAMAH]]"
+- "[[topic ANAH|ANAH]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ELIPHAZ|ELIPHAZ]]"
+- "[[topic JAALAM|JAALAM]]"
+- "[[topic JEUSH|JEUSH]]"
+- "[[topic KORAH|KORAH]]"
+- "[[topic ZIBEON|ZIBEON]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H1961]]"
+- "[[H1121A]]"
+- "[[H0173]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6034]]"
+- "[[H6649G]]"
+- "[[H0802H]]"
+- "[[H6215G]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H0853]]"
+- "[[H3274]]"
+- "[[H3266G]]"
+- "[[H3281]]"
+- "[[H7141G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Genesis 36:14**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these were the sons of Aholibamah, the daughter of Anah the daughter of Zibeon, Esau’s wife: and she bare to Esau Jeush, and Jaalam, and Korah.
 <small><sub>**BSB:**</sub></small>
 These are the sons of Esau’s wife Oholibamah (daughter of Anah and granddaughter of Zibeon) whom she bore to Esau: Jeush, Jalam, and Korah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֣לֶּה]] [[H1961\|הָי֗וּ]] [[H1121A\|בְּנֵ֨י]] [[H0173\|אָהֳלִיבָמָ֧ה]] [[H1323G\|בַת]][[H9014\|־]] [[H6034\|עֲנָ֛ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H6649G\|צִבְע֖וֹן]] [[H0802H\|אֵ֣שֶׁת]] [[H6215G\|עֵשָׂ֑ו]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H9005\|לְ]][[H6215G\|עֵשָׂ֔ו]] [[H0853\|אֶת]][[H9014\|־]] [[H3266G\|יְע֥וּשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3281\|יַעְלָ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7141G\|קֹֽרַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHOLIBAMAH|AHOLIBAMAH]] • [[topic ANAH|ANAH]] • [[topic EDOMITES|EDOMITES]] • [[topic ELIPHAZ|ELIPHAZ]] • [[topic JAALAM|JAALAM]] • [[topic JEUSH|JEUSH]] • [[topic KORAH|KORAH]] • [[topic ZIBEON|ZIBEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.13|<< Genesis 36:13]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.15|Genesis 36:15 >>]]</td></tr></table>
 

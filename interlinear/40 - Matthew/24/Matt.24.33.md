@@ -1,10 +1,55 @@
+---
+title: Matthew 24:33
+type: Verse
+kjv: "So likewise ye, when ye shall see all these things, know that it is near, even at the doors."
+bsb: "So also, when you see all these things, you will know that He is near, right at the door."
+jesus_said: "So likewise ye, when ye shall see all these things, know that it is near, even at the doors."
+greek: "οὕτως καὶ ὑμεῖς ὅταν ἴδητε πάντα ταῦτα, γινώσκετε ὅτι ἐγγύς ἐστιν ἐπὶ θύραις."
+pericope: "[[Matt.24.32 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3752]]"
+- "[[G1492H]]"
+- "[[G3956]]"
+- "[[G3778]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G1451]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G2374]]"
+texts:
+- NKO
+---
+
 **Matthew 24:33**<big><big>[[Matt.24.32 The Lesson of the Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So likewise ye, when ye shall see all these things, know that it is near, [even] at the doors.
 <small><sub>**BSB:**</sub></small>
 So also, when you see all these things, you will know that He is near, right at the door.
-<small><sub>**Literal:**</sub></small>
-Thus also you yourselves when you may see all these things know that near He is at [the] doors.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.32|<< Matthew 24:32]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.34|Matthew 24:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G3752\|ὅταν]]  [[G1492H\|ἴδητε]]  [[G3956\|πάντα]]  [[G3778\|ταῦτα,]]  [[G1097\|γινώσκετε]]  [[G3754G\|ὅτι]]  [[G1451\|ἐγγύς]]  [[G1510\|ἐστιν]]  [[G1909\|ἐπὶ]]  [[G2374\|θύραις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.32|<< Matthew 24:32]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.34|Matthew 24:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

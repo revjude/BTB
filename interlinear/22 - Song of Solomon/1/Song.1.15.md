@@ -1,8 +1,44 @@
+---
+title: Song of Solomon 1:15
+type: Verse
+kjv: "Behold, thou art fair, my love; behold, thou art fair; thou hast doves’ eyes."
+bsb: "How beautiful you are, my darling! Oh, how very beautiful! Your eyes are like doves."
+hebrew: "הִנָּ֤ךְ יָפָה֙ רַעְיָתִ֔י הִנָּ֥ךְ יָפָ֖ה עֵינַ֥יִךְ יוֹנִֽים׃"
+pericope: "[[Song.1.15 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 1
+book/chapter: "[[Song.1|Song of Solomon 1]]"
+chronological_order: 448
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H2005]]"
+- "[[H9042]]"
+- "[[H3303]]"
+- "[[H7474]]"
+- "[[H9020]]"
+- "[[H5869A]]"
+- "[[H9022]]"
+- "[[H3123]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 1:15**<big><big>[[Song.1.15 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou [art] fair, my love; behold, thou [art] fair; thou [hast] doves’ eyes.
 <small><sub>**BSB:**</sub></small>
 How beautiful you are, my darling! Oh, how very beautiful! Your eyes are like doves.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנָּ֤]][[H9042\|ךְ]] [[H3303\|יָפָה֙]] [[H7474\|רַעְיָתִ֔]][[H9020\|י]] [[H2005\|הִנָּ֥]][[H9042\|ךְ]] [[H3303\|יָפָ֖ה]] [[H5869A\|עֵינַ֥יִ]][[H9022\|ךְ]] [[H3123\|יוֹנִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.14|<< Song of Solomon 1:14]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.16|Song of Solomon 1:16 >>]]</td></tr></table>
 

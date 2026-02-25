@@ -1,10 +1,65 @@
+---
+title: Acts 17:29
+type: Verse
+kjv: "Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device."
+bsb: "Therefore, being offspring of God, we should not think that the Divine Being is like gold or silver or stone, an image formed by man’s skill and imagination."
+greek: "γένος οὖν ὑπάρχοντες τοῦ θεοῦ οὐκ ὀφείλομεν νομίζειν χρυσῷ ἢ ἀργύρῳ ἢ λίθῳ, χαράγματι τέχνης καὶ ἐνθυμήσεως ἀνθρώπου, τὸ θεῖον εἶναι ὅμοιον."
+pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1085G]]"
+- "[[G3767]]"
+- "[[G5225]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G3784]]"
+- "[[G3543]]"
+- "[[G5557]]"
+- "[[G2228]]"
+- "[[G0696]]"
+- "[[G3037]]"
+- "[[G5480]]"
+- "[[G5078]]"
+- "[[G2532]]"
+- "[[G1761]]"
+- "[[G0444]]"
+- "[[G2304]]"
+- "[[G1511]]"
+- "[[G3664]]"
+texts:
+- NKO
+---
+
 **Acts 17:29**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device.
 <small><sub>**BSB:**</sub></small>
 Therefore, being offspring of God, we should not think that the Divine Being is like gold or silver or stone, an image formed by man’s skill and imagination.
-<small><sub>**Literal:**</sub></small>
-Offspring therefore being <the> of God not we ought to consider to gold or to silver or to stone, a graven thing of craft and imagination of man, the Divine Being to be like.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.28|<< Acts 17:28]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.30|Acts 17:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1085G\|γένος]]  [[G3767\|οὖν]]  [[G5225\|ὑπάρχοντες]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3756\|οὐκ]]  [[G3784\|ὀφείλομεν]]  [[G3543\|νομίζειν]]  [[G5557\|χρυσῷ]]  [[G2228\|ἢ]]  [[G0696\|ἀργύρῳ]]  [[G2228\|ἢ]]  [[G3037\|λίθῳ,]]  [[G5480\|χαράγματι]]  [[G5078\|τέχνης]]  [[G2532\|καὶ]]  [[G1761\|ἐνθυμήσεως]]  [[G0444\|ἀνθρώπου,]]  [[G3588\|τὸ]]  [[G2304\|θεῖον]]  [[G1511\|εἶναι]]  [[G3664\|ὅμοιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.28|<< Acts 17:28]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.30|Acts 17:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

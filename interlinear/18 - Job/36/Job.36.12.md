@@ -1,8 +1,59 @@
+---
+title: Job 36:12
+type: Verse
+kjv: "But if they obey not, they shall perish by the sword, and they shall die without knowledge."
+bsb: "But if they do not obey, then they perish by the sword and die without knowledge."
+hebrew: "וְאִם־ לֹ֣א יִ֭שְׁמְעוּ בְּשֶׁ֣לַח יַעֲבֹ֑רוּ וְ֝יִגְוְע֗וּ כִּבְלִי־ דָֽעַת׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H7973]]"
+- "[[H5674A]]"
+- "[[H1478]]"
+- "[[H9004]]"
+- "[[H1097]]"
+- "[[H1847]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:12**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if they obey not, they shall perish by the sword, and they shall die without knowledge.
 <small><sub>**BSB:**</sub></small>
 But if they do not obey, then they perish by the sword and die without knowledge.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H8085G\|יִ֭שְׁמְעוּ]] [[H9003\|בְּ]][[H7973\|שֶׁ֣לַח]] [[H5674A\|יַעֲבֹ֑רוּ]] [[H9002\|וְ֝]][[H1478\|יִגְוְע֗וּ]] [[H9004\|כִּ]][[H1097\|בְלִי]][[H9014\|־]] [[H1847\|דָֽעַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.11|<< Job 36:11]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.13|Job 36:13 >>]]</td></tr></table>
 

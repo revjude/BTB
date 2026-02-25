@@ -1,8 +1,44 @@
+---
+title: Job 20:1
+type: Verse
+kjv: "Then answered Zophar the Naamathite, and said,"
+bsb: "Then Zophar the Naamathite replied:"
+hebrew: "וַ֭יַּעַן צֹפַ֥ר הַנַּֽעֲמָתִ֗י וַיֹּאמַֽר׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H6691]]"
+- "[[H9009]]"
+- "[[H5284]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:1**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered Zophar the Naamathite, and said,
 <small><sub>**BSB:**</sub></small>
 Then Zophar the Naamathite replied:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֭]][[H6030B\|יַּעַן]] [[H6691\|צֹפַ֥ר]] [[H9009\|הַ]][[H5284\|נַּֽעֲמָתִ֗י]] [[H9001\|וַ]][[H0559\|יֹּאמַֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.29|<< Job 19:29]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.2|Job 20:2 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 26:17
+type: Verse
+kjv: "Eastward were six Levites, northward four a day, southward four a day, and toward Asuppim two and two."
+bsb: "Each day there were six Levites on the east, four on the north, four on the south, and two pairs at the storehouse."
+hebrew: "לַמִּזְרָח֮ הַלְוִיִּ֣ם שִׁשָּׁה֒ לַצָּפ֤וֹנָה לַיּוֹם֙ אַרְבָּעָ֔ה לַנֶּ֥גְבָּה לַיּ֖וֹם אַרְבָּעָ֑ה וְלָאֲסֻפִּ֖ים שְׁנַ֥יִם שְׁנָֽיִם׃"
+pericope: "[[1Chr.26.1 The Divisions of the Gatekeepers|The Divisions of the Gatekeepers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASUPPIM|ASUPPIM]]"
+- "[[topic PORTERS|PORTERS]]"
+strongs:
+- "[[H9005]]"
+- "[[H4217H]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H8337]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H3117G]]"
+- "[[H0702]]"
+- "[[H5045H]]"
+- "[[H9002]]"
+- "[[H0624]]"
+- "[[H8147]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:17**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Eastward [were] six Levites, northward four a day, southward four a day, and toward Asuppim two [and] two.
 <small><sub>**BSB:**</sub></small>
 Each day there were six Levites on the east, four on the north, four on the south, and two pairs at the storehouse.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H4217H\|מִּזְרָח֮]] [[H9009\|הַ]][[H3881\|לְוִיִּ֣ם]] [[H8337\|שִׁשָּׁה֒]] [[H9005\|לַ]][[H6828G\|צָּפ֤וֹנָ]][[H9011\|ה]] [[H9005\|לַ]][[H3117G\|יּוֹם֙]] [[H0702\|אַרְבָּעָ֔ה]] [[H9005\|לַ]][[H5045H\|נֶּ֥גְבָּ]][[H9011\|ה]] [[H9005\|לַ]][[H3117G\|יּ֖וֹם]] [[H0702\|אַרְבָּעָ֑ה]] [[H9002\|וְ]][[H9005\|לָ]][[H0624\|אֲסֻפִּ֖ים]] [[H8147\|שְׁנַ֥יִם]] [[H8147\|שְׁנָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASUPPIM|ASUPPIM]] • [[topic PORTERS|PORTERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.16|<< 1 Chronicles 26:16]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.18|1 Chronicles 26:18 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Numbers 15:13
+type: Verse
+kjv: "All that are born of the country shall do these things after this manner, in offering an offering made by fire, of a sweet savour unto the LORD."
+bsb: "Everyone who is native-born shall prepare these things in this way when he presents a food offering as a pleasing aroma to the LORD."
+hebrew: "כָּל־ הָאֶזְרָ֥ח יַעֲשֶׂה־ כָּ֖כָה אֶת־ אֵ֑לֶּה לְהַקְרִ֛יב אִשֵּׁ֥ה רֵֽיחַ־ נִיחֹ֖חַ לַֽיהוָֽה׃"
+pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0249]]"
+- "[[H6213A]]"
+- "[[H3602]]"
+- "[[H0853]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H7126H]]"
+- "[[H0801]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:13**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All that are born of the country shall do these things after this manner, in offering an offering made by fire, of a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Everyone who is native-born shall prepare these things in this way when he presents a food offering as a pleasing aroma to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0249\|אֶזְרָ֥ח]] [[H6213A\|יַעֲשֶׂה]][[H9014\|־]] [[H3602\|כָּ֖כָה]] [[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵ֑לֶּה]] [[H9005\|לְ]][[H7126H\|הַקְרִ֛יב]] [[H0801\|אִשֵּׁ֥ה]] [[H7381\|רֵֽיחַ]][[H9014\|־]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.12|<< Numbers 15:12]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.14|Numbers 15:14 >>]]</td></tr></table>
 

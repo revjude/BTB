@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Foreign Wives
+type: Pericope
 pericope: "[[1Kgs.11.1 Solomon’s Foreign Wives|Solomon’s Foreign Wives]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 11
 book/chapter: "[[1Kgs.11|1 Kings 11]]"
-genre:
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.11.1]]"
 - "[[1Kgs.11.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.11.8]]"
 ---
 
-[[1Kgs.11|1 Kings 11:1 - 1 Kings 11:8]]
+<small>[[1Kgs.11|1 Kings 11:1-8]]</small>
 *Solomon’s Foreign Wives*
 
 [[1Kgs.11.1|1]] But king Solomon loved many strange women, together with the daughter of Pharaoh, women of the Moabites, Ammonites, Edomites, Zidonians, \[and\] Hittites;

@@ -1,6 +1,55 @@
+---
+title: LXX Job 8:13
+type: Verse
+lxx: "So therefore will it be for the last of all the ones forgetting the lord; for the hope of the impious shall perish."
+greek: "ούτως τοίνυν έσται τα έσχατα πάντων των επιλανθανομένων του κυρίου ελπίς γαρ ασεβούς απολείται"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3779]]"
+- "[[G5106]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2078]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1950]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1680]]"
+- "[[G1063]]"
+- "[[G0765]]"
+- "[[G0622]]"
+---
+
 **LXX Job 8:13** 
 <small><sub>**LXX:**</sub></small>
 So therefore will it be for the last of all the ones forgetting the <span class="smallcaps">lord</span>; for \[the\] hope of \[the\] impious shall perish. 
+<small><sub>**Greek:**</sub></small>
+[[G3779\|ούτως]] [[G5106\|τοίνυν]] [[G1510\|έσται]] [[G3588\|τα]] [[G2078\|έσχατα]] [[G3956\|πάντων]] [[G3588\|των]] [[G1950\|επιλανθανομένων]] [[G3588\|του]] [[G2962\|κυρίου]] [[G1680\|ελπίς]] [[G1063\|γαρ]] [[G0765\|ασεβούς]] [[G0622\|απολείται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HOPE|HOPE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.12|<< Job 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.14|Job 8:14 >>]]</td></tr></table>
 
@@ -19,6 +68,6 @@ So therefore will it be for the last of all the ones forgetting the <span class=
 | for \[the\] hope | **<big>[[G1680\|ελπίς]]</big>** **<big>[[G1063\|γαρ]]</big>** |
 | of \[the\] impious | **<big>[[G0765\|ασεβούς]]</big>** |
 | shall perish. | **<big>[[G0622\|απολείται]]</big>** |
-[[Job.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.12|<< Job 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.14|Job 8:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.8.12|<< Job 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.8.14|Job 8:14 >>]]</td></tr></table>
 
 

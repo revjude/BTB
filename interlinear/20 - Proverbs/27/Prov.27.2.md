@@ -1,8 +1,55 @@
+---
+title: Proverbs 27:2
+type: Verse
+kjv: "Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips."
+bsb: "Let another praise you, and not your own mouth—a stranger, and not your own lips."
+hebrew: "יְהַלֶּלְךָ֣ זָ֣ר וְלֹא־ פִ֑יךָ נָ֝כְרִ֗י וְאַל־ שְׂפָתֶֽיךָ׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic OSTENTATION|OSTENTATION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H1984B]]"
+- "[[H9031]]"
+- "[[H2114A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H5237]]"
+- "[[H0408]]"
+- "[[H8193G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:2**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let another man praise thee, and not thine own mouth; a stranger, and not thine own lips.
 <small><sub>**BSB:**</sub></small>
 Let another praise you, and not your own mouth—a stranger, and not your own lips.
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|יְהַלֶּלְ]][[H9031\|ךָ֣]] [[H2114A\|זָ֣ר]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6310G\|פִ֑י]][[H9021\|ךָ]] [[H5237\|נָ֝כְרִ֗י]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H8193G\|שְׂפָתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic OSTENTATION|OSTENTATION]] • [[topic PRIDE|PRIDE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.1|<< Proverbs 27:1]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.3|Proverbs 27:3 >>]]</td></tr></table>
 

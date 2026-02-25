@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Retribution for Israel’s Sin
+type: Pericope
 pericope: "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 10
 book/chapter: "[[Hos.10|Hosea 10]]"
-genre:
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 15
 verses:
 - "[[Hos.10.1]]"
 - "[[Hos.10.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Hos.10.15]]"
 ---
 
-[[Hos.10|Hosea 10:1 - Hosea 10:15]]
+<small>[[Hos.10|Hosea 10:1-15]]</small>
 *Retribution for Israel’s Sin*
 
 [[Hos.10.1|1]] Israel \[is\] an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.

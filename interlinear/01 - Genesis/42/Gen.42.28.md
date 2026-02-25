@@ -1,8 +1,72 @@
+---
+title: Genesis 42:28
+type: Verse
+kjv: "And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?"
+bsb: "“My silver has been returned!” he said to his brothers. “It is here in my sack.” Their hearts sank, and trembling, they turned to one another and said, “What is this that God has done to us?”"
+hebrew: "וַיֹּ֤אמֶר אֶל־ אֶחָיו֙ הוּשַׁ֣ב כַּסְפִּ֔י וְגַ֖ם הִנֵּ֣ה בְאַמְתַּחְתִּ֑י וַיֵּצֵ֣א לִבָּ֗ם וַיֶּֽחֶרְד֞וּ אִ֤ישׁ אֶל־ אָחִיו֙ לֵאמֹ֔ר מַה־ זֹּ֛את עָשָׂ֥ה אֱלֹהִ֖ים לָֽנוּ׃"
+pericope: "[[Gen.42.25 Joseph’s Brothers Return to Canaan|Joseph’s Brothers Return to Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic TREASURE|TREASURE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H7725G]]"
+- "[[H3701G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H2009]]"
+- "[[H9003]]"
+- "[[H0572]]"
+- "[[H3318P]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H2729]]"
+- "[[H0376I]]"
+- "[[H0251I]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H0430G]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:28**<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his brethren, My money is restored; and, lo, [it is] even in my sack: and their heart failed [them], and they were afraid, saying one to another, What [is] this [that] God hath done unto us?
 <small><sub>**BSB:**</sub></small>
 “My silver has been returned!” he said to his brothers. “It is here in my sack.” Their hearts sank, and trembling, they turned to one another and said, “What is this that God has done to us?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אֶחָי]][[H9023\|ו֙]] [[H7725G\|הוּשַׁ֣ב]] [[H3701G\|כַּסְפִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H1571\|גַ֖ם]] [[H2009\|הִנֵּ֣ה]] [[H9003\|בְ]][[H0572\|אַמְתַּחְתִּ֑]][[H9020\|י]] [[H9001\|וַ]][[H3318P\|יֵּצֵ֣א]] [[H3820A\|לִבָּ֗]][[H9028\|ם]] [[H9001\|וַ]][[H2729\|יֶּֽחֶרְד֞וּ]] [[H0376I\|אִ֤ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0251I\|אָחִי]][[H9023\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4100\|מַה]][[H9014\|־]] [[H2063\|זֹּ֛את]] [[H6213A\|עָשָׂ֥ה]] [[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic MONEY|MONEY]] • [[topic TREASURE|TREASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.27|<< Genesis 42:27]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.29|Genesis 42:29 >>]]</td></tr></table>
 

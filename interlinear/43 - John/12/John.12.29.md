@@ -1,10 +1,53 @@
+---
+title: John 12:29
+type: Verse
+kjv: "The people therefore, that stood by, and heard it, said that it thundered: others said, An angel spake to him."
+bsb: "The crowd standing there heard it and said that it had thundered. Others said that an angel had spoken to Him."
+greek: "ὁ οὖν ὄχλος ὁ ἑστὼς καὶ ἀκούσας ἔλεγεν βροντὴν γεγονέναι. ἄλλοι ἔλεγον· ἄγγελος αὐτῷ λελάληκεν.¶"
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic VOICE|VOICE]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G3793]]"
+- "[[G2476]]"
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3004G]]"
+- "[[G1027]]"
+- "[[G1096]]"
+- "[[G0243]]"
+- "[[G0032G]]"
+- "[[G0846]]"
+- "[[G2980]]"
+texts:
+- NKO
+---
+
 **John 12:29**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The people therefore, that stood by, and heard [it], said that it thundered: others said, An angel spake to him.
 <small><sub>**BSB:**</sub></small>
 The crowd standing there heard it and said that it had thundered. Others said that an angel had spoken to Him.
-<small><sub>**Literal:**</sub></small>
-<the> Therefore the crowd which already standing and having heard [it] it was saying [it] Thunder to have been. Others were saying; An angel to Him has spoken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.28|<< John 12:28]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.30|John 12:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3767\|οὖν]]  [[G3793\|ὄχλος]]  [[G3588\|ὁ]]  [[G2476\|ἑστὼς]]  [[G2532\|καὶ]]  [[G0191\|ἀκούσας]]  [[G3004G\|ἔλεγεν]]  [[G1027\|βροντὴν]]  [[G1096\|γεγονέναι.]]  [[G0243\|ἄλλοι]]  [[G3004G\|ἔλεγον·]]  [[G0032G\|ἄγγελος]]  [[G0846\|αὐτῷ]]  [[G2980\|λελάληκεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOICE|VOICE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.28|<< John 12:28]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.30|John 12:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

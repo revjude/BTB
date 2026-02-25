@@ -1,10 +1,75 @@
+---
+title: Revelation 3:9
+type: Verse
+kjv: "Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee."
+bsb: "As for those who belong to the synagogue of Satan, who claim to be Jews but are liars instead, I will make them come and bow down at your feet, and they will know that I love you."
+jesus_said: "Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee."
+greek: "ἰδοὺ διδῶ ἐκ τῆς συναγωγῆς τοῦ σατανᾶ τῶν λεγόντων ἑαυτοὺς Ἰουδαίους εἶναι καὶ οὐκ εἰσίν, ἀλλὰ ψεύδονται, ἰδοὺ ποιήσω αὐτοὺς ἵνα ἥξουσιν καὶ προσκυνήσουσιν ἐνώπιον τῶν ποδῶν σου καὶ γνῶσιν ὅτι ἐγὼ ἠγάπησά σε."
+pericope: "[[Rev.3.7 To the Church in Philadelphia|To the Church in Philadelphia]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILADELPHIA|PHILADELPHIA]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G2400]]"
+- "[[G1325]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G4567]]"
+- "[[G3004G]]"
+- "[[G1438]]"
+- "[[G2453]]"
+- "[[G1511]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0235]]"
+- "[[G5574]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G2240]]"
+- "[[G4352]]"
+- "[[G1799]]"
+- "[[G4228]]"
+- "[[G4771]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G0025]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 3:9**<big><big>[[Rev.3.7 To the Church in Philadelphia|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, I will make them of the synagogue of Satan, which say they are Jews, and are not, but do lie; behold, I will make them to come and worship before thy feet, and to know that I have loved thee.
 <small><sub>**BSB:**</sub></small>
 As for those who belong to the synagogue of Satan, who claim to be Jews but are liars instead, I will make them come and bow down at your feet, and they will know that I love you.
-<small><sub>**Literal:**</sub></small>
-Behold I may give [those] from the synagogue <the> of Satan — those declaring themselves Jews to be and not are, but they lie — behold I will cause them that they will come and they will worship before the feet of you and they may know that I myself loved you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.8|<< Revelation 3:8]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.10|Revelation 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G1325\|διδῶ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4864\|συναγωγῆς]]  [[G3588\|τοῦ]]  [[G4567\|σατανᾶ]]  [[G3588\|τῶν]]  [[G3004G\|λεγόντων]]  [[G1438\|ἑαυτοὺς]]  [[G2453\|Ἰουδαίους]]  [[G1511\|εἶναι]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1510\|εἰσίν,]]  [[G0235\|ἀλλὰ]]  [[G5574\|ψεύδονται,]]  [[G2400\|ἰδοὺ]]  [[G4160G\|ποιήσω]]  [[G0846\|αὐτοὺς]]  [[G2443\|ἵνα]]  [[G2240\|ἥξουσιν]]  [[G2532\|καὶ]]  [[G4352\|προσκυνήσουσιν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G1097\|γνῶσιν]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G0025\|ἠγάπησά]]  [[G4771\|σε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILADELPHIA|PHILADELPHIA]] • [[topic SATAN|SATAN]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.8|<< Revelation 3:8]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.3.10|Revelation 3:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 3:9** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.60.14|Isa 60:14]]

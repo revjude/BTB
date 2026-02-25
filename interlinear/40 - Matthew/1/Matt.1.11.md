@@ -1,10 +1,55 @@
+---
+title: Matthew 1:11
+type: Verse
+kjv: "And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:"
+bsb: "and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon."
+greek: "Ἰωσίας δὲ ἐγέννησεν τὸν Ἰεχονίαν καὶ τοὺς ἀδελφοὺς αὐτοῦ ἐπὶ τῆς μετοικεσίας Βαβυλῶνος.¶"
+pericope: "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+strongs:
+- "[[G2502]]"
+- "[[G1161]]"
+- "[[G1080]]"
+- "[[G3588]]"
+- "[[G2423]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G3350]]"
+- "[[G0897]]"
+texts:
+- NKO
+---
+
 **Matthew 1:11**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:
 <small><sub>**BSB:**</sub></small>
 and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon.
-<small><sub>**Literal:**</sub></small>
-Josiah then begat <the> Jeconiah and the brothers of him at [the time] of the carrying away to Babylon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.10|<< Matthew 1:10]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.12|Matthew 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2502\|Ἰωσίας]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G2423\|Ἰεχονίαν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφοὺς]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G3350\|μετοικεσίας]]  [[G0897\|Βαβυλῶνος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic JOSIAH|JOSIAH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.10|<< Matthew 1:10]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.12|Matthew 1:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

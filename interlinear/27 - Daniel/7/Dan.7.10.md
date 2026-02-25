@@ -1,8 +1,68 @@
+---
+title: Daniel 7:10
+type: Verse
+kjv: "A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened."
+bsb: "A river of fire was flowing, coming out from His presence. Thousands upon thousands attended Him, and myriads upon myriads stood before Him. The court was convened, and the books were opened."
+aramaic: "נְהַ֣ר דִּי־ נ֗וּר נָגֵ֤ד וְנָפֵק֙ מִן־ קֳדָמ֔וֹהִי אֶ֤לֶף אַלְפִין֙ יְשַׁמְּשׁוּנֵּ֔הּ וְרִבּ֥וֹ רִבְבָ֖ן קָֽדָמ֣וֹהִי יְקוּמ֑וּן דִּינָ֥א יְתִ֖ב וְסִפְרִ֥ין פְּתִֽיחוּ׃"
+pericope: "[[Dan.7.9 Daniel’s Vision of the Ancient of Days|Daniel’s Vision of the Ancient of Days]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HORN|HORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic NATION|NATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H5103H]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H5135]]"
+- "[[H5047]]"
+- "[[H9002]]"
+- "[[H5312]]"
+- "[[H4481]]"
+- "[[H6925]]"
+- "[[H9033]]"
+- "[[H0506]]"
+- "[[H8120]]"
+- "[[H7240]]"
+- "[[H6966I]]"
+- "[[H1780]]"
+- "[[H9010]]"
+- "[[H3488]]"
+- "[[H5609]]"
+- "[[H6606]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 7:10**<big><big>[[Dan.7.9 Daniel’s Vision of the Ancient of Days|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
 <small><sub>**BSB:**</sub></small>
 A river of fire was flowing, coming out from His presence. Thousands upon thousands attended Him, and myriads upon myriads stood before Him. The court was convened, and the books were opened.
+<small><sub>**Aramaic:**</sub></small>
+[[H5103H\|נְהַ֣ר]] [[H1768\|דִּי]][[H9014\|־]] [[H5135\|נ֗וּר]] [[H5047\|נָגֵ֤ד]] [[H9002\|וְ]][[H5312\|נָפֵק֙]] [[H4481\|מִן]][[H9014\|־]] [[H6925\|קֳדָמ֔וֹ]][[H9033\|הִי]] [[H0506\|אֶ֤לֶף]] [[H0506\|אַלְפִין֙]] [[H8120\|יְשַׁמְּשׁוּנֵּ֔]][[H9033\|הּ]] [[H9002\|וְ]][[H7240\|רִבּ֥וֹ]] [[H7240\|רִבְבָ֖ן]] [[H6925\|קָֽדָמ֣וֹ]][[H9033\|הִי]] [[H6966I\|יְקוּמ֑וּן]] [[H1780\|דִּינָ֥]][[H9010\|א]] [[H3488\|יְתִ֖ב]] [[H9002\|וְ]][[H5609\|סִפְרִ֥ין]] [[H6606\|פְּתִֽיחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic HORN|HORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic NATION|NATION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.9|<< Daniel 7:9]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.11|Daniel 7:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

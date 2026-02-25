@@ -1,10 +1,75 @@
+---
+title: Matthew 22:16
+type: Verse
+kjv: "And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man: for thou regardest not the person of men."
+bsb: "They sent their disciples to Him along with the Herodians. “Teacher,” they said, “we know that You are honest and that You teach the way of God in accordance with the truth. You seek favor from no one, because You pay no attention to external appearance."
+greek: "καὶ ἀποστέλλουσιν αὐτῷ τοὺς μαθητὰς αὐτῶν μετὰ τῶν Ἡρῳδιανῶν λέγοντες· διδάσκαλε, οἴδαμεν ὅτι ἀληθὴς εἶ καὶ τὴν ὁδὸν τοῦ θεοῦ ἐν ἀληθείᾳ διδάσκεις, καὶ οὐ μέλει σοι περὶ οὐδενός, οὐ γὰρ βλέπεις εἰς πρόσωπον ἀνθρώπων."
+pericope: "[[Matt.22.15 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic HERODIANS|HERODIANS]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G3326]]"
+- "[[G2265]]"
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G0227]]"
+- "[[G1510]]"
+- "[[G3598]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G0225]]"
+- "[[G1321]]"
+- "[[G3756]]"
+- "[[G3199]]"
+- "[[G4771]]"
+- "[[G4012]]"
+- "[[G3762]]"
+- "[[G1063]]"
+- "[[G0991]]"
+- "[[G1519]]"
+- "[[G4383]]"
+- "[[G0444]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 22:16**<big><big>[[Matt.22.15 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they sent out unto him their disciples with the Herodians, saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any [man]: for thou regardest not the person of men.
 <small><sub>**BSB:**</sub></small>
 They sent their disciples to Him along with the Herodians. “Teacher,” they said, “we know that You are honest and that You teach the way of God in accordance with the truth. You seek favor from no one, because You pay no attention to external appearance.
-<small><sub>**Literal:**</sub></small>
-And they send to Him the disciples of them with the Herodians saying; Teacher, we know that true You are and the way <the> of God in [the] truth You teach, and not there is care to You about no [one], not for You look on [the] appearance of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.15|<< Matthew 22:15]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.17|Matthew 22:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0649\|ἀποστέλλουσιν]]  [[G0846\|αὐτῷ]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτῶν]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G2265\|Ἡρῳδιανῶν]]  [[G3004G\|λέγοντες·]]  [[G1320\|διδάσκαλε,]]  [[G6063\|οἴδαμεν]]  [[G3754G\|ὅτι]]  [[G0227\|ἀληθὴς]]  [[G1510\|εἶ]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G0225\|ἀληθείᾳ]]  [[G1321\|διδάσκεις,]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3199\|μέλει]]  [[G4771\|σοι]]  [[G4012\|περὶ]]  [[G3762\|οὐδενός,]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G0991\|βλέπεις]]  [[G1519\|εἰς]]  [[G4383\|πρόσωπον]]  [[G0444\|ἀνθρώπων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic HERODIANS|HERODIANS]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.15|<< Matthew 22:15]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.17|Matthew 22:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,58 @@
+---
+title: Luke 21:7
+type: Verse
+kjv: "And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?"
+bsb: "“Teacher,” they asked, “when will these things happen? And what will be the sign that they are about to take place?”"
+greek: "Ἐπηρώτησαν δὲ αὐτὸν λέγοντες· διδάσκαλε, πότε οὖν ταῦτα ἔσται καὶ τί τὸ σημεῖον ὅταν μέλλῃ ταῦτα γίνεσθαι;¶"
+pericope: "[[Luke.21.5 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1905]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G4219]]"
+- "[[G3767]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G5101]]"
+- "[[G3588]]"
+- "[[G4592]]"
+- "[[G3752]]"
+- "[[G3195]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Luke 21:7**<big><big>[[Luke.21.5 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they asked him, saying, Master, but when shall these things be? and what sign [will there be] when these things shall come to pass?
 <small><sub>**BSB:**</sub></small>
 “Teacher,” they asked, “when will these things happen? And what will be the sign that they are about to take place?”
-<small><sub>**Literal:**</sub></small>
-They asked then Him saying; Teacher, when then these things will be and what [will be] the sign when may soon be these things to take place?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.6|<< Luke 21:6]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.8|Luke 21:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1905\|Ἐπηρώτησαν]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντες·]]  [[G1320\|διδάσκαλε,]]  [[G4219\|πότε]]  [[G3767\|οὖν]]  [[G3778\|ταῦτα]]  [[G1510\|ἔσται]]  [[G2532\|καὶ]]  [[G5101\|τί]]  [[G3588\|τὸ]]  [[G4592\|σημεῖον]]  [[G3752\|ὅταν]]  [[G3195\|μέλλῃ]]  [[G3778\|ταῦτα]]  [[G1096\|γίνεσθαι;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.6|<< Luke 21:6]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.8|Luke 21:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

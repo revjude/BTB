@@ -1,8 +1,69 @@
+---
+title: Psalm 25:5
+type: Verse
+kjv: "Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day."
+bsb: "Guide me in Your truth and teach me, for You are the God of my salvation; all day long I wait for You."
+hebrew: "הַדְרִ֘יכֵ֤נִי בַאֲמִתֶּ֨ךָ׀ וְֽלַמְּדֵ֗נִי כִּֽי־ אַ֭תָּה אֱלֹהֵ֣י יִשְׁעִ֑י אוֹתְךָ֥ קִ֝וִּ֗יתִי כָּל־ הַיּֽוֹם׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WAITING|WAITING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1869]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H0571H]]"
+- "[[H9021]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H3925G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0430G]]"
+- "[[H3468]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H6960A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:5**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lead me in thy truth, and teach me: for thou [art] the God of my salvation; on thee do I wait all the day.
 <small><sub>**BSB:**</sub></small>
 Guide me in Your truth and teach me, for You are the God of my salvation; all day long I wait for You.
+<small><sub>**Hebrew:**</sub></small>
+[[H1869\|הַדְרִ֘יכֵ֤]][[H9030\|נִי]] [[H9003\|בַ]][[H0571H\|אֲמִתֶּ֨]][[H9021\|ךָ]][[H9015\|׀]] [[H9002\|וְֽ]][[H3925G\|לַמְּדֵ֗]][[H9030\|נִי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַ֭תָּה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3468\|יִשְׁעִ֑]][[H9020\|י]] [[H0853\|אוֹתְ]][[H9031\|ךָ֥]] [[H6960A\|קִ֝וִּ֗יתִי]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic SEEKERS|SEEKERS]] • [[topic WAITING|WAITING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.4|<< Psalms 25:4]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.6|Psalms 25:6 >>]]</td></tr></table>
 

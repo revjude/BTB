@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Edom and Libnah Rebel
+type: Pericope
 pericope: "[[2Kgs.8.20 Edom and Libnah Rebel|Edom and Libnah Rebel]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 8
 book/chapter: "[[2Kgs.8|2 Kings 8]]"
-genre:
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[2Kgs.8.20]]"
 - "[[2Kgs.8.21]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Kgs.8.24]]"
 ---
 
-[[2Kgs.8|2 Kings 8:20 - 2 Kings 8:24]]
+<small>[[2Kgs.8|2 Kings 8:20-24]]</small>
 *Edom and Libnah Rebel*
 
 [[2Kgs.8.20|20]] In his days Edom revolted from under the hand of Judah, and made a king over themselves.

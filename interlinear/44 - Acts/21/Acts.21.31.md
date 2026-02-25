@@ -1,10 +1,59 @@
+---
+title: Acts 21:31
+type: Verse
+kjv: "And as they went about to kill him, tidings came unto the chief captain of the band, that all Jerusalem was in an uproar."
+bsb: "While they were trying to kill him, the commander of the Roman regiment received a report that all Jerusalem was in turmoil."
+greek: "ζητούντων τε αὐτὸν ἀποκτεῖναι ἀνέβη φάσις τῷ χιλιάρχῳ τῆς σπείρης ὅτι ὅλη συγχύννεται Ἰερουσαλήμ·"
+pericope: "[[Acts.21.27 Paul Seized at the Temple|Paul Seized at the Temple]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G2212]]"
+- "[[G5037]]"
+- "[[G0846]]"
+- "[[G0615]]"
+- "[[G0305]]"
+- "[[G5334]]"
+- "[[G3588]]"
+- "[[G5506]]"
+- "[[G4686]]"
+- "[[G3754G]]"
+- "[[G3650]]"
+- "[[G4797]]"
+- "[[G2419]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 21:31**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they went about to kill him, tidings came unto the chief captain of the band, that all Jerusalem was in an uproar.
 <small><sub>**BSB:**</sub></small>
 While they were trying to kill him, the commander of the Roman regiment received a report that all Jerusalem was in turmoil.
-<small><sub>**Literal:**</sub></small>
-Of them seeking then him to kill there came a report to the commander of the cohort that all are in an uproar Jerusalem;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.30|<< Acts 21:30]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.32|Acts 21:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2212\|ζητούντων]]  [[G5037\|τε]]  [[G0846\|αὐτὸν]]  [[G0615\|ἀποκτεῖναι]]  [[G0305\|ἀνέβη]]  [[G5334\|φάσις]]  [[G3588\|τῷ]]  [[G5506\|χιλιάρχῳ]]  [[G3588\|τῆς]]  [[G4686\|σπείρης]]  [[G3754G\|ὅτι]]  [[G3650\|ὅλη]]  [[G4797\|συγχύννεται]]  [[G2419\|Ἰερουσαλήμ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic FRATERNITY|FRATERNITY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.30|<< Acts 21:30]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.32|Acts 21:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

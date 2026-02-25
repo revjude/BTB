@@ -1,8 +1,82 @@
+---
+title: Genesis 27:9
+type: Verse
+kjv: "Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:"
+bsb: "Go out to the flock and bring me two choice young goats, so that I can make them into a tasty dish for your father—the kind he loves."
+hebrew: "לֶךְ־ נָא֙ אֶל־ הַצֹּ֔אן וְקַֽח־ לִ֣י מִשָּׁ֗ם שְׁנֵ֛י גְּדָיֵ֥י עִזִּ֖ים טֹבִ֑ים וְאֶֽעֱשֶׂ֨ה אֹתָ֧ם מַטְעַמִּ֛ים לְאָבִ֖יךָ כַּאֲשֶׁ֥ר אָהֵֽב׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H3947J]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H8147]]"
+- "[[H1423]]"
+- "[[H5795]]"
+- "[[H2896A]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4303]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0157G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:9**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go now to the flock, and fetch me from thence two good kids of the goats; and I will make them savoury meat for thy father, such as he loveth:
 <small><sub>**BSB:**</sub></small>
 Go out to the flock and bring me two choice young goats, so that I can make them into a tasty dish for your father—the kind he loves.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לֶךְ]][[H9014\|־]] [[H4994\|נָא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֔אן]] [[H9002\|וְ]][[H3947J\|קַֽח]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H9006\|מִ]][[H8033G\|שָּׁ֗ם]] [[H8147\|שְׁנֵ֛י]] [[H1423\|גְּדָיֵ֥י]] [[H5795\|עִזִּ֖ים]] [[H2896A\|טֹבִ֑ים]] [[H9002\|וְ]][[H6213H\|אֶֽעֱשֶׂ֨ה]] [[H0853\|אֹתָ֧]][[H9038\|ם]] [[H4303\|מַטְעַמִּ֛ים]] [[H9005\|לְ]][[H0001G\|אָבִ֖י]][[H9021\|ךָ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H0157G\|אָהֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic FOOD|FOOD]] • [[topic GOAT|GOAT]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.8|<< Genesis 27:8]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.10|Genesis 27:10 >>]]</td></tr></table>
 

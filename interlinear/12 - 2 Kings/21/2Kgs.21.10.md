@@ -1,8 +1,55 @@
+---
+title: 2 Kings 21:10
+type: Verse
+kjv: "And the LORD spake by his servants the prophets, saying,"
+bsb: "And the LORD spoke through His servants the prophets, saying,"
+hebrew: "וַיְדַבֵּ֧ר יְהוָ֛ה בְּיַד־ עֲבָדָ֥יו הַנְּבִיאִ֖ים לֵאמֹֽר׃"
+pericope: "[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|Manasseh’s Idolatries Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 21:10**<big><big>[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake by his servants the prophets, saying,
 <small><sub>**BSB:**</sub></small>
 And the LORD spoke through His servants the prophets, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H5650\|עֲבָדָ֥י]][[H9023\|ו]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.9|<< 2 Kings 21:9]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.11|2 Kings 21:11 >>]]</td></tr></table>
 

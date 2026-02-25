@@ -1,8 +1,67 @@
+---
+title: Ezekiel 7:4
+type: Verse
+kjv: "And mine eye shall not spare thee, neither will I have pity: but I will recompense thy ways upon thee, and thine abominations shall be in the midst of thee: and ye shall know that I am the LORD."
+bsb: "I will not look on you with pity, nor will I spare you, but I will punish you for your ways and for the abominations among you. Then you will know that I am the LORD.’"
+hebrew: "וְלֹא־ תָח֥וֹס עֵינִ֛י עָלַ֖יִךְ וְלֹ֣א אֶחְמ֑וֹל כִּ֣י דְרָכַ֜יִךְ עָלַ֣יִךְ אֶתֵּ֗ן וְתוֹעֲבוֹתַ֙יִךְ֙ בְּתוֹכֵ֣ךְ תִּֽהְיֶ֔יןָ וִידַעְתֶּ֖ם כִּֽי־ אֲנִ֥י יְהוָֽה׃ פ"
+pericope: "[[Ezek.7.1 The Hour of Doom|The Hour of Doom]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2347]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H2550]]"
+- "[[H3588A]]"
+- "[[H1870G]]"
+- "[[H9022]]"
+- "[[H5414N]]"
+- "[[H8441]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 7:4**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And mine eye shall not spare thee, neither will I have pity: but I will recompense thy ways upon thee, and thine abominations shall be in the midst of thee: and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 I will not look on you with pity, nor will I spare you, but I will punish you for your ways and for the abominations among you. Then you will know that I am the LORD.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2347\|תָח֥וֹס]] [[H5869A\|עֵינִ֛]][[H9020\|י]] [[H5921A\|עָלַ֖יִ]][[H9032\|ךְ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2550\|אֶחְמ֑וֹל]] [[H3588A\|כִּ֣י]] [[H1870G\|דְרָכַ֜יִ]][[H9022\|ךְ]] [[H5921A\|עָלַ֣יִ]][[H9032\|ךְ]] [[H5414N\|אֶתֵּ֗ן]] [[H9002\|וְ]][[H8441\|תוֹעֲבוֹתַ֙יִ]][[H9022\|ךְ֙]] [[H9003\|בְּ]][[H8432\|תוֹכֵ֣]][[H9022\|ךְ]] [[H1961\|תִּֽהְיֶ֔יןָ]] [[H9001\|וִ]][[H3045\|ידַעְתֶּ֖ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENT|JUDGMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.3|<< Ezekiel 7:3]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.5|Ezekiel 7:5 >>]]</td></tr></table>
 
@@ -24,7 +83,7 @@ I will not look on you with pity, nor will I spare you, but I will punish you fo
 | and you will know  |**<big>&#8207;[[H9001\|וִ]]&#8207;&#8207;[[H3045\|ידַעְתֶּ֖ם]]&#8207; </big>**| vi.<small><sup>[[Hc]]</sup></small> da'.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | that  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.3|<< Ezekiel 7:3]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.5|Ezekiel 7:5 >>]]</td></tr></table>
 
 

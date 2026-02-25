@@ -1,8 +1,56 @@
+---
+title: 1 Kings 6:30
+type: Verse
+kjv: "And the floor of the house he overlaid with gold, within and without."
+bsb: "And he overlaid the temple floor with gold in both the inner and outer sanctuaries."
+hebrew: "וְאֶת־ קַרְקַ֥ע הַבַּ֖יִת צִפָּ֣ה זָהָ֑ב לִפְנִ֖ימָה וְלַחִיצֽוֹן׃"
+pericope: "[[1Kgs.6.23 The Cherubim|The Cherubim]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7172]]"
+- "[[H9009]]"
+- "[[H1004Q]]"
+- "[[H6823]]"
+- "[[H2091]]"
+- "[[H9005]]"
+- "[[H6441]]"
+- "[[H2435]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:30**<big><big>[[1Kgs.6.23 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the floor of the house he overlaid with gold, within and without.
 <small><sub>**BSB:**</sub></small>
 And he overlaid the temple floor with gold in both the inner and outer sanctuaries.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7172\|קַרְקַ֥ע]] [[H9009\|הַ]][[H1004Q\|בַּ֖יִת]] [[H6823\|צִפָּ֣ה]] [[H2091\|זָהָ֑ב]] [[H9005\|לִ]][[H6441\|פְנִ֖ימָה]] [[H9002\|וְ]][[H9005\|לַ]][[H2435\|חִיצֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic GOLD|GOLD]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.29|<< 1 Kings 6:29]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.31|1 Kings 6:31 >>]]</td></tr></table>
 

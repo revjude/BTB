@@ -1,10 +1,62 @@
+---
+title: Acts 11:23
+type: Verse
+kjv: "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord."
+bsb: "When he arrived and saw the grace of God, he rejoiced and encouraged them all to abide in the Lord with all their hearts."
+greek: "ὃς παραγενόμενος καὶ ἰδὼν τὴν χάριν τὴν τοῦ θεοῦ ἐχάρη καὶ παρεκάλει πάντας τῇ προθέσει τῆς καρδίας προσμένειν ἐν τῷ κυρίῳ·"
+pericope: "[[Acts.11.19 The Church at Antioch|The Church at Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 11
+book/chapter: "[[Acts.11|Acts 11]]"
+chronological_order: 1029
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G3854]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G2316]]"
+- "[[G5463]]"
+- "[[G3870]]"
+- "[[G3956]]"
+- "[[G4286]]"
+- "[[G2588]]"
+- "[[G4357]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- no
+- o
+---
+
 **Acts 11:23**<big><big>[[Acts.11.19 The Church at Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord.
 <small><sub>**BSB:**</sub></small>
 When he arrived and saw the grace of God, he rejoiced and encouraged them all to abide in the Lord with all their hearts.
-<small><sub>**Literal:**</sub></small>
-who having come and having seen the grace which [is] <the> of God he rejoiced and he was exhorting all <the> with resolute purpose <the> of heart to abide in the Lord;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.22|<< Acts 11:22]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.24|Acts 11:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G3854\|παραγενόμενος]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G3588\|τὴν]]  [[G5485\|χάριν]]  [[G3588\|τὴν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5463\|ἐχάρη]]  [[G2532\|καὶ]]  [[G3870\|παρεκάλει]]  [[G3956\|πάντας]]  [[G3588\|τῇ]]  [[G4286\|προθέσει]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G4357\|προσμένειν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.22|<< Acts 11:22]]</td><td align="center" style="border:none;">[[Acts.11|Acts 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.11.24|Acts 11:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

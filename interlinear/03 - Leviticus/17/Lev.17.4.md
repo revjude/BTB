@@ -1,8 +1,74 @@
+---
+title: Leviticus 17:4
+type: Verse
+kjv: "And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:"
+bsb: "instead of bringing it to the entrance to the Tent of Meeting to present it as an offering to the LORD before His tabernacle—that man shall incur bloodguilt. He has shed blood and must be cut off from among his people."
+hebrew: "וְאֶל־ פֶּ֜תַח אֹ֣הֶל מוֹעֵד֮ לֹ֣א הֱבִיאוֹ֒ לְהַקְרִ֤יב קָרְבָּן֙ לַֽיהוָ֔ה לִפְנֵ֖י מִשְׁכַּ֣ן יְהוָ֑ה דָּ֣ם יֵחָשֵׁ֞ב לָאִ֤ישׁ הַהוּא֙ דָּ֣ם שָׁפָ֔ךְ וְנִכְרַ֛ת הָאִ֥ישׁ הַה֖וּא מִקֶּ֥רֶב עַמּֽוֹ׃"
+pericope: "[[Lev.17.1 The Place of Sacrifice|The Place of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H3808]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H7126H]]"
+- "[[H7133A]]"
+- "[[H3068G]]"
+- "[[H6440G]]"
+- "[[H4908]]"
+- "[[H1818]]"
+- "[[H2803H]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H8210H]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H5971B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:4**<big><big>[[Lev.17.1 The Place of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And bringeth it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:
 <small><sub>**BSB:**</sub></small>
 instead of bringing it to the entrance to the Tent of Meeting to present it as an offering to the LORD before His tabernacle—that man shall incur bloodguilt. He has shed blood and must be cut off from among his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֜תַח]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵד֮]] [[H3808\|לֹ֣א]] [[H0935P\|הֱבִיא]][[H9033\|וֹ֒]] [[H9005\|לְ]][[H7126H\|הַקְרִ֤יב]] [[H7133A\|קָרְבָּן֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H4908\|מִשְׁכַּ֣ן]] [[H3068G\|יְהוָ֑ה]] [[H1818\|דָּ֣ם]] [[H2803H\|יֵחָשֵׁ֞ב]] [[H9005\|לָ]][[H0376G\|אִ֤ישׁ]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H1818\|דָּ֣ם]] [[H8210H\|שָׁפָ֔ךְ]] [[H9001\|וְ]][[H3772I\|נִכְרַ֛ת]] [[H9009\|הָ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H5971B\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.17.3|<< Leviticus 17:3]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.5|Leviticus 17:5 >>]]</td></tr></table>
 

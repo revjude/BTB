@@ -1,10 +1,52 @@
+---
+title: John 4:26
+type: Verse
+kjv: "Jesus saith unto her, I that speak unto thee am he."
+bsb: "Jesus answered, “I who speak to you am He.”"
+jesus_said: "I that speak unto thee am he."
+greek: "λέγει αὐτῇ ὁ Ἰησοῦς· ἐγώ εἰμι, ὁ λαλῶν σοι."
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2980]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **John 4:26**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto her, I that speak unto thee am [he].
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “I who speak to you am He.”
-<small><sub>**Literal:**</sub></small>
-Says to her <the> Jesus; I myself am [He], who is speaking to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.25|<< John 4:25]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.27|John 4:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῇ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι,]]  [[G3588\|ὁ]]  [[G2980\|λαλῶν]]  [[G4771\|σοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.25|<< John 4:25]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.27|John 4:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

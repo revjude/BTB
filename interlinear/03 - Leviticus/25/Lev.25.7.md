@@ -1,8 +1,63 @@
+---
+title: Leviticus 25:7
+type: Verse
+kjv: "And for thy cattle, and for the beast that are in thy land, shall all the increase thereof be meat."
+bsb: "and for your livestock and the wild animals in your land. All its growth may serve as food."
+hebrew: "וְלִ֨בְהֶמְתְּךָ֔ וְלַֽחַיָּ֖ה אֲשֶׁ֣ר בְּאַרְצֶ֑ךָ תִּהְיֶ֥ה כָל־ תְּבוּאָתָ֖הּ לֶאֱכֹֽל׃ ס"
+pericope: "[[Lev.25.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic HOLIDAY|HOLIDAY]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0929]]"
+- "[[H9021]]"
+- "[[H2416C]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8393]]"
+- "[[H9024]]"
+- "[[H0398]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 25:7**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for thy cattle, and for the beast that [are] in thy land, shall all the increase thereof be meat.
 <small><sub>**BSB:**</sub></small>
 and for your livestock and the wild animals in your land. All its growth may serve as food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ֨]][[H0929\|בְהֶמְתְּ]][[H9021\|ךָ֔]] [[H9002\|וְ]][[H9005\|לַֽ]][[H2416C\|חַיָּ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H0776G\|אַרְצֶ֑]][[H9021\|ךָ]] [[H1961\|תִּהְיֶ֥ה]] [[H3605\|כָל]][[H9014\|־]] [[H8393\|תְּבוּאָתָ֖]][[H9024\|הּ]] [[H9005\|לֶ]][[H0398\|אֱכֹֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic HOLIDAY|HOLIDAY]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.6|<< Leviticus 25:6]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.8|Leviticus 25:8 >>]]</td></tr></table>
 
@@ -15,7 +70,7 @@ and for your livestock and the wild animals in your land. All its growth may ser
 | it will be  |**<big>&#8207;[[H1961\|תִּהְיֶ֥ה]]&#8207; </big>**| tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | produce its  |**<big>&#8207;[[H8393\|תְּבוּאָתָ֖]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| te.vu.'a.Ta<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to eat  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0398\|אֱכֹֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Khol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to eat  |**<big>&#8207;[[H9005\|לֶ]]&#8207;&#8207;[[H0398\|אֱכֹֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'e.Khol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.6|<< Leviticus 25:6]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.8|Leviticus 25:8 >>]]</td></tr></table>
 
 

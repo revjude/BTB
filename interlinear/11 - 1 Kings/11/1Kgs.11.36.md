@@ -1,8 +1,76 @@
+---
+title: 1 Kings 11:36
+type: Verse
+kjv: "And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there."
+bsb: "I will give one tribe to his son, so that My servant David will always have a lamp before Me in Jerusalem, the city where I chose to put My Name."
+hebrew: "וְלִבְנ֖וֹ אֶתֵּ֣ן שֵֽׁבֶט־ אֶחָ֑ד לְמַ֣עַן הֱיֽוֹת־ נִ֣יר לְדָֽוִיד־ עַ֠בְדִּי כָּֽל־ הַיָּמִ֤ים׀ לְפָנַי֙ בִּיר֣וּשָׁלִַ֔ם הָעִיר֙ אֲשֶׁ֣ר בָּחַ֣רְתִּי לִ֔י לָשׂ֥וּם שְׁמִ֖י שָֽׁם׃"
+pericope: "[[1Kgs.11.26 Jeroboam’s Rebellion|Jeroboam’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic LIGHT|LIGHT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H7626H]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H4616]]"
+- "[[H1961]]"
+- "[[H5216B]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117K]]"
+- "[[H9015]]"
+- "[[H6440G]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H9030]]"
+- "[[H7760H]]"
+- "[[H8034]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:36**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto his son will I give one tribe, that David my servant may have a light alway before me in Jerusalem, the city which I have chosen me to put my name there.
 <small><sub>**BSB:**</sub></small>
 I will give one tribe to his son, so that My servant David will always have a lamp before Me in Jerusalem, the city where I chose to put My Name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H5414G\|אֶתֵּ֣ן]] [[H7626H\|שֵֽׁבֶט]][[H9014\|־]] [[H0259\|אֶחָ֑ד]] [[H4616\|לְמַ֣עַן]] [[H1961\|הֱיֽוֹת]][[H9014\|־]] [[H5216B\|נִ֣יר]] [[H9005\|לְ]][[H1732\|דָֽוִיד]][[H9014\|־]] [[H5650\|עַ֠בְדִּ]][[H9020\|י]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִ֤ים]][[H9015\|׀]] [[H9005\|לְ]][[H6440G\|פָנַ]][[H9020\|י֙]] [[H9003\|בִּ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0977\|בָּחַ֣רְתִּי]] [[H9005\|לִ֔]][[H9030\|י]] [[H9005\|לָ]][[H7760H\|שׂ֥וּם]] [[H8034\|שְׁמִ֖]][[H9020\|י]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CANAAN|CANAAN]] • [[topic GOD|GOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic LIGHT|LIGHT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.35|<< 1 Kings 11:35]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.37|1 Kings 11:37 >>]]</td></tr></table>
 

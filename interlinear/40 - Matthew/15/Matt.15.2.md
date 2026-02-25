@@ -1,10 +1,67 @@
+---
+title: Matthew 15:2
+type: Verse
+kjv: "Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread."
+bsb: "“Why do Your disciples break the tradition of the elders? They do not wash their hands before they eat.”"
+greek: "διὰ τί οἱ μαθηταί σου παραβαίνουσιν τὴν παράδοσιν τῶν πρεσβυτέρων; οὐ γὰρ νίπτονται τὰς χεῖρας αὐτῶν ὅταν ἄρτον ἐσθίωσιν.¶"
+pericope: "[[Matt.15.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic EATING|EATING]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HAND|HAND]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G4771]]"
+- "[[G3845]]"
+- "[[G3862]]"
+- "[[G4245G]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G3538]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G3752]]"
+- "[[G0740]]"
+- "[[G2068]]"
+texts:
+- NKO
+---
+
 **Matthew 15:2**<big><big>[[Matt.15.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread.
 <small><sub>**BSB:**</sub></small>
 “Why do Your disciples break the tradition of the elders? They do not wash their hands before they eat.”
-<small><sub>**Literal:**</sub></small>
-Because of why the disciples of You break the tradition of the elders? Not for they wash the hands of them when bread they may eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.1|<< Matthew 15:1]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.3|Matthew 15:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G5101\|τί]]  [[G3588\|οἱ]]  [[G3101\|μαθηταί]]  [[G4771\|σου]]  [[G3845\|παραβαίνουσιν]]  [[G3588\|τὴν]]  [[G3862\|παράδοσιν]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων;]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G3538\|νίπτονται]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G0846\|αὐτῶν]]  [[G3752\|ὅταν]]  [[G0740\|ἄρτον]]  [[G2068\|ἐσθίωσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic EATING|EATING]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HAND|HAND]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SIN|SIN]] • [[topic TEACHERS|TEACHERS]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.1|<< Matthew 15:1]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.3|Matthew 15:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

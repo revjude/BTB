@@ -1,8 +1,67 @@
+---
+title: Exodus 32:32
+type: Verse
+kjv: "Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written."
+bsb: "Yet now, if You would only forgive their sin.... But if not, please blot me out of the book that You have written.”"
+hebrew: "וְעַתָּ֖ה אִם־ תִּשָּׂ֣א חַטָּאתָ֑ם וְאִם־ אַ֕יִן מְחֵ֣נִי נָ֔א מִֽסִּפְרְךָ֖ אֲשֶׁ֥ר כָּתָֽבְתָּ׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BOOK|BOOK]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5375I]]"
+- "[[H2403B]]"
+- "[[H9028]]"
+- "[[H0369]]"
+- "[[H4229A]]"
+- "[[H9030]]"
+- "[[H4994]]"
+- "[[H9006]]"
+- "[[H5612H]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H3789]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:32**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet now, if thou wilt forgive their sin—; and if not, blot me, I pray thee, out of thy book which thou hast written.
 <small><sub>**BSB:**</sub></small>
 Yet now, if You would only forgive their sin.... But if not, please blot me out of the book that You have written.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H0518A\|אִם]][[H9014\|־]] [[H5375I\|תִּשָּׂ֣א]] [[H2403B\|חַטָּאתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0369\|אַ֕יִן]] [[H4229A\|מְחֵ֣]][[H9030\|נִי]] [[H4994\|נָ֔א]] [[H9006\|מִֽ]][[H5612H\|סִּפְרְ]][[H9021\|ךָ֖]] [[H0834A\|אֲשֶׁ֥ר]] [[H3789\|כָּתָֽבְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOK|BOOK]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic LOVE|LOVE]] • [[topic PRAYER|PRAYER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.31|<< Exodus 32:31]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.33|Exodus 32:33 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: 2 Kings 1:2
+type: Verse
+kjv: "And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, inquire of Baalzebub the god of Ekron whether I shall recover of this disease."
+bsb: "Now Ahaziah had fallen through the lattice of his upper room in Samaria and injured himself. So he sent messengers and instructed them: “Go inquire of Baal-zebub, the god of Ekron, whether I will recover from this injury.”"
+hebrew: "וַיִּפֹּ֨ל אֲחַזְיָ֜ה בְּעַ֣ד הַשְּׂבָכָ֗ה בַּעֲלִיָּת֛וֹ אֲשֶׁ֥ר בְּשֹׁמְר֖וֹן וַיָּ֑חַל וַיִּשְׁלַ֣ח מַלְאָכִ֔ים וַיֹּ֤אמֶר אֲלֵהֶם֙ לְכ֣וּ דִרְשׁ֗וּ בְּבַ֤עַל זְבוּב֙ אֱלֹהֵ֣י עֶקְר֔וֹן אִם־ אֶחְיֶ֖ה מֵחֳלִ֥י זֶֽה׃ ס"
+pericope: "[[2Kgs.1.1 Elijah Denounces Ahaziah|Elijah Denounces Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BAAL-ZEBUB|BAAL-ZEBUB]]"
+- "[[topic BEELZEBUB|BEELZEBUB]]"
+- "[[topic EKRON|EKRON]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOUSE|HOUSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H0274G]]"
+- "[[H1157]]"
+- "[[H9009]]"
+- "[[H7639]]"
+- "[[H9003]]"
+- "[[H5944]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H8111]]"
+- "[[H2470H]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H1980G]]"
+- "[[H1875]]"
+- "[[H1176]]"
+- "[[H0430G]]"
+- "[[H6138]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2421]]"
+- "[[H9006]]"
+- "[[H2483]]"
+- "[[H2088]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Kings 1:2**<big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahaziah fell down through a lattice in his upper chamber that [was] in Samaria, and was sick: and he sent messengers, and said unto them, Go, inquire of Baalzebub the god of Ekron whether I shall recover of this disease.
 <small><sub>**BSB:**</sub></small>
 Now Ahaziah had fallen through the lattice of his upper room in Samaria and injured himself. So he sent messengers and instructed them: “Go inquire of Baal-zebub, the god of Ekron, whether I will recover from this injury.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5307G\|יִּפֹּ֨ל]] [[H0274G\|אֲחַזְיָ֜ה]] [[H1157\|בְּעַ֣ד]] [[H9009\|הַ]][[H7639\|שְּׂבָכָ֗ה]] [[H9003\|בַּ]][[H5944\|עֲלִיָּת֛]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H8111\|שֹׁמְר֖וֹן]] [[H9001\|וַ]][[H2470H\|יָּ֑חַל]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H4397G\|מַלְאָכִ֔ים]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H1980G\|לְכ֣וּ]] [[H1875\|דִרְשׁ֗וּ]] [[H9003\|בְּ]][[H1176\|בַ֤עַל]] [[H1176\|זְבוּב֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H6138\|עֶקְר֔וֹן]] [[H0518A\|אִם]][[H9014\|־]] [[H2421\|אֶחְיֶ֖ה]] [[H9006\|מֵ]][[H2483\|חֳלִ֥י]] [[H2088\|זֶֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BAAL-ZEBUB|BAAL-ZEBUB]] • [[topic BEELZEBUB|BEELZEBUB]] • [[topic EKRON|EKRON]] • [[topic ELIJAH|ELIJAH]] • [[topic HOUSE|HOUSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.1|<< 2 Kings 1:1]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.3|2 Kings 1:3 >>]]</td></tr></table>
 
@@ -29,7 +96,7 @@ Now Ahaziah had fallen through the lattice of his upper room in Samaria and inju
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will live  |**<big>&#8207;[[H2421\|אֶחְיֶ֖ה]]&#8207; </big>**| 'ech.Yeh<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from sickness  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2483\|חֳלִ֥י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cho.Li<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  |**<big>&#8207;[[H2088\|זֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2088\|זֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.1|<< 2 Kings 1:1]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.3|2 Kings 1:3 >>]]</td></tr></table>
 
 

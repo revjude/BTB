@@ -1,10 +1,63 @@
+---
+title: Romans 7:3
+type: Verse
+kjv: "So then if, while her husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man."
+bsb: "So then, if she is joined to another man while her husband is still alive, she is called an adulteress; but if her husband dies, she is free from that law and is not an adulteress if she marries another man."
+greek: "ἄρα οὖν ζῶντος τοῦ ἀνδρὸς μοιχαλὶς χρηματίσει, ἐὰν γένηται ἀνδρὶ ἑτέρῳ· ἐὰν δὲ ἀποθάνῃ ὁ ἀνήρ, ἐλευθέρα ἐστὶν ἀπὸ τοῦ νόμου τοῦ μὴ εἶναι αὐτὴν μοιχαλίδα γενομένην ἀνδρὶ ἑτέρῳ.¶"
+pericope: "[[Rom.7.1 Release from the Law|Release from the Law]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G0686]]"
+- "[[G3767]]"
+- "[[G2198]]"
+- "[[G3588]]"
+- "[[G0435H]]"
+- "[[G3428]]"
+- "[[G5537]]"
+- "[[G1437]]"
+- "[[G1096]]"
+- "[[G2087]]"
+- "[[G1161]]"
+- "[[G0599]]"
+- "[[G1658]]"
+- "[[G1510]]"
+- "[[G0575]]"
+- "[[G3551]]"
+- "[[G3361]]"
+- "[[G1511]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Romans 7:3**<big><big>[[Rom.7.1 Release from the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So then if, while [her] husband liveth, she be married to another man, she shall be called an adulteress: but if her husband be dead, she is free from that law; so that she is no adulteress, though she be married to another man.
 <small><sub>**BSB:**</sub></small>
 So then, if she is joined to another man while her husband is still alive, she is called an adulteress; but if her husband dies, she is free from that law and is not an adulteress if she marries another man.
-<small><sub>**Literal:**</sub></small>
-Then therefore while is living the husband an adulteress she will be called if she shall become [married] to man another; if however shall die the husband, free she is from the law which not to be her an adulteress having become [married] to man another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.2|<< Romans 7:2]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.4|Romans 7:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0686\|ἄρα]]  [[G3767\|οὖν]]  [[G2198\|ζῶντος]]  [[G3588\|τοῦ]]  [[G0435H\|ἀνδρὸς]]  [[G3428\|μοιχαλὶς]]  [[G5537\|χρηματίσει,]]  [[G1437\|ἐὰν]]  [[G1096\|γένηται]]  [[G0435H\|ἀνδρὶ]]  [[G2087\|ἑτέρῳ·]]  [[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G0599\|ἀποθάνῃ]]  [[G3588\|ὁ]]  [[G0435H\|ἀνήρ,]]  [[G1658\|ἐλευθέρα]]  [[G1510\|ἐστὶν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G3588\|τοῦ]]  [[G3361\|μὴ]]  [[G1511\|εἶναι]]  [[G0846\|αὐτὴν]]  [[G3428\|μοιχαλίδα]]  [[G1096\|γενομένην]]  [[G0435H\|ἀνδρὶ]]  [[G2087\|ἑτέρῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DEATH|DEATH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WIDOW|WIDOW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.2|<< Romans 7:2]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.4|Romans 7:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

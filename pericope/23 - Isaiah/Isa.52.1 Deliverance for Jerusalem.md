@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Deliverance for Jerusalem
+type: Pericope
 pericope: "[[Isa.52.1 Deliverance for Jerusalem|Deliverance for Jerusalem]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 52
 book/chapter: "[[Isa.52|Isaiah 52]]"
-genre:
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 12
 verses:
 - "[[Isa.52.1]]"
 - "[[Isa.52.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Isa.52.12]]"
 ---
 
-[[Isa.52|Isaiah 52:1 - Isaiah 52:12]]
+<small>[[Isa.52|Isaiah 52:1-12]]</small>
 *Deliverance for Jerusalem*
 
 [[Isa.52.1|1]] Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.

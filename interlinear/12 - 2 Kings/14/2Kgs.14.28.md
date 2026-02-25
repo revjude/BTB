@@ -1,8 +1,74 @@
+---
+title: 2 Kings 14:28
+type: Verse
+kjv: "Now the rest of the acts of Jeroboam, and all that he did, and his might, how he warred, and how he recovered Damascus, and Hamath, which belonged to Judah, for Israel, are they not written in the book of the chronicles of the kings of Israel?"
+bsb: "As for the rest of the acts of Jeroboam, along with all his accomplishments and might, and how he waged war and recovered both Damascus and Hamath for Israel from Judah, are they not written in the Book of the Chronicles of the Kings of Israel?"
+hebrew: "וְיֶתֶר֩ דִּבְרֵ֨י יָרָבְעָ֜ם וְכָל־ אֲשֶׁ֤ר עָשָׂה֙ וּגְבוּרָת֣וֹ אֲשֶׁר־ נִלְחָ֔ם וַאֲשֶׁ֨ר הֵשִׁ֜יב אֶת־ דַּמֶּ֧שֶׂק וְאֶת־ חֲמָ֛ת לִיהוּדָ֖ה בְּיִשְׂרָאֵ֑ל הֲלֹא־ הֵ֣ם כְּתוּבִ֗ים עַל־ סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.14.23 Jeroboam II Reigns in Israel|Jeroboam II Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic HAMATH|HAMATH]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H3379H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H1369]]"
+- "[[H9023]]"
+- "[[H3898A]]"
+- "[[H7725H]]"
+- "[[H0853]]"
+- "[[H1834]]"
+- "[[H2574G]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 14:28**<big><big>[[2Kgs.14.23 Jeroboam II Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Jeroboam, and all that he did, and his might, how he warred, and how he recovered Damascus, and Hamath, [which belonged] to Judah, for Israel, [are] they not written in the book of the chronicles of the kings of Israel?
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Jeroboam, along with all his accomplishments and might, and how he waged war and recovered both Damascus and Hamath for Israel from Judah, are they not written in the Book of the Chronicles of the Kings of Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶתֶר֩]] [[H1697K\|דִּבְרֵ֨י]] [[H3379H\|יָרָבְעָ֜ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֤ר]] [[H6213A\|עָשָׂה֙]] [[H9002\|וּ]][[H1369\|גְבוּרָת֣]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3898A\|נִלְחָ֔ם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֨ר]] [[H7725H\|הֵשִׁ֜יב]] [[H0853\|אֶת]][[H9014\|־]] [[H1834\|דַּמֶּ֧שֶׂק]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2574G\|חֲמָ֛ת]] [[H9005\|לִ]][[H3063G\|יהוּדָ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H1992\|הֵ֣ם]] [[H3789\|כְּתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֛פֶר]] [[H1697O\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMASCUS|DAMASCUS]] • [[topic HAMATH|HAMATH]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PROPHECY|PROPHECY]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.27|<< 2 Kings 14:27]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.29|2 Kings 14:29 >>]]</td></tr></table>
 

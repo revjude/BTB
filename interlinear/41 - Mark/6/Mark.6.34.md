@@ -1,10 +1,62 @@
+---
+title: Mark 6:34
+type: Verse
+kjv: "And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things."
+bsb: "When Jesus stepped ashore and saw a large crowd, He had compassion on them, because they were like sheep without a shepherd. And He began to teach them many things."
+greek: "καὶ ἐξελθὼν εἶδεν ὁ Ἰησοῦς πολὺν ὄχλον καὶ ἐσπλαγχνίσθη ἐπ᾽ αὐτοὺς ὅτι ἦσαν ὡς πρόβατα μὴ ἔχοντα ποιμένα. καὶ ἤρξατο διδάσκειν αὐτοὺς πολλά.¶"
+pericope: "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PITY|PITY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4183]]"
+- "[[G3793]]"
+- "[[G4697]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G1510]]"
+- "[[G5613]]"
+- "[[G4263]]"
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G4166]]"
+- "[[G0757]]"
+- "[[G1321]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 6:34**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus, when he came out, saw much people, and was moved with compassion toward them, because they were as sheep not having a shepherd: and he began to teach them many things.
 <small><sub>**BSB:**</sub></small>
 When Jesus stepped ashore and saw a large crowd, He had compassion on them, because they were like sheep without a shepherd. And He began to teach them many things.
-<small><sub>**Literal:**</sub></small>
-And having gone out He saw <the> Jesus a great crowd and was moved with compassion toward them because they were like sheep not having a shepherd. And He began to teach them many things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.33|<< Mark 6:33]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.35|Mark 6:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1831\|ἐξελθὼν]]  [[G1492H\|εἶδεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G4183\|πολὺν]]  [[G3793\|ὄχλον]]  [[G2532\|καὶ]]  [[G4697\|ἐσπλαγχνίσθη]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτοὺς]]  [[G3754H\|ὅτι]]  [[G1510\|ἦσαν]]  [[G5613\|ὡς]]  [[G4263\|πρόβατα]]  [[G3361\|μὴ]]  [[G2192\|ἔχοντα]]  [[G4166\|ποιμένα.]]  [[G2532\|καὶ]]  [[G0757\|ἤρξατο]]  [[G1321\|διδάσκειν]]  [[G0846\|αὐτοὺς]]  [[G4183\|πολλά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PITY|PITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.33|<< Mark 6:33]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.35|Mark 6:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 6:34** is...
 > $\quad$ referencing: [[LXX.Num.27.17|Num 27:17]] ☩ [[LXX.2Chr.18.16|2Chr 18:16]]

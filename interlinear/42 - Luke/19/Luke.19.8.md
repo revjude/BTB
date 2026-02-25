@@ -1,10 +1,69 @@
+---
+title: Luke 19:8
+type: Verse
+kjv: "And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore him fourfold."
+bsb: "But Zacchaeus stood up and said to the Lord, “Look, Lord, half of my possessions I give to the poor, and if I have cheated anyone, I will repay it fourfold.”"
+greek: "Σταθεὶς δὲ Ζακχαῖος εἶπεν πρὸς τὸν κύριον· ἰδοὺ τὰ ἡμίσιά μου τῶν ὑπαρχόντων, κύριε, τοῖς πτωχοῖς δίδωμι· καὶ εἴ τινός τι ἐσυκοφάντησα, ἀποδίδωμι τετραπλοῦν.¶"
+pericope: "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]"
+strongs:
+- "[[G2476]]"
+- "[[G1161]]"
+- "[[G2195]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2400]]"
+- "[[G2255]]"
+- "[[G3165]]"
+- "[[G5225]]"
+- "[[G4434]]"
+- "[[G1325]]"
+- "[[G2532]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G4811]]"
+- "[[G0591]]"
+- "[[G5073]]"
+texts:
+- NKO
+---
+
 **Luke 19:8**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Zacchaeus stood, and said unto the Lord; Behold, Lord, the half of my goods I give to the poor; and if I have taken any thing from any man by false accusation, I restore [him] fourfold.
 <small><sub>**BSB:**</sub></small>
 But Zacchaeus stood up and said to the Lord, “Look, Lord, half of my possessions I give to the poor, and if I have cheated anyone, I will repay it fourfold.”
-<small><sub>**Literal:**</sub></small>
-Having stood then Zacchaeus said to the Lord; Behold the half my <the> possessions Lord, to the poor I give; and if of anyone anything I have defrauded, I restore [it] fourfold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.7|<< Luke 19:7]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.9|Luke 19:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2476\|Σταθεὶς]]  [[G1161\|δὲ]]  [[G2195\|Ζακχαῖος]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2962G\|κύριον·]]  [[G2400\|ἰδοὺ]]  [[G3588\|τὰ]]  [[G2255\|ἡμίσιά]]  [[G3165\|μου]]  [[G3588\|τῶν]]  [[G5225\|ὑπαρχόντων,]]  [[G2962G\|κύριε,]]  [[G3588\|τοῖς]]  [[G4434\|πτωχοῖς]]  [[G1325\|δίδωμι·]]  [[G2532\|καὶ]]  [[G1487G\|εἴ]]  [[G5100\|τινός]]  [[G5100\|τι]]  [[G4811\|ἐσυκοφάντησα,]]  [[G0591\|ἀποδίδωμι]]  [[G5073\|τετραπλοῦν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POOR|POOR]] • [[topic PUBLICANS|PUBLICANS]] • [[topic RESTITUTION|RESTITUTION]] • [[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.7|<< Luke 19:7]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.9|Luke 19:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

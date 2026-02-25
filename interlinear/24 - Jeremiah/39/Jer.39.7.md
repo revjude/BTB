@@ -1,8 +1,59 @@
+---
+title: Jeremiah 39:7
+type: Verse
+kjv: "Moreover he put out Zedekiah’s eyes, and bound him with chains, to carry him to Babylon."
+bsb: "Then he put out Zedekiah’s eyes and bound him with bronze chains to take him to Babylon."
+hebrew: "וְאֶת־ עֵינֵ֥י צִדְקִיָּ֖הוּ עִוֵּ֑ר וַיַּאַסְרֵ֙הוּ֙ בַּֽנְחֻשְׁתַּ֔יִם לָבִ֥יא אֹת֖וֹ בָּבֶֽלָה׃"
+pericope: "[[Jer.39.1 The Fall of Jerusalem|The Fall of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 39
+book/chapter: "[[Jer.39|Jeremiah 39]]"
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H6667H]]"
+- "[[H5786]]"
+- "[[H9001]]"
+- "[[H0631]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5178A]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 39:7**<big><big>[[Jer.39.1 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he put out Zedekiah’s eyes, and bound him with chains, to carry him to Babylon.
 <small><sub>**BSB:**</sub></small>
 Then he put out Zedekiah’s eyes and bound him with bronze chains to take him to Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינֵ֥י]] [[H6667H\|צִדְקִיָּ֖הוּ]] [[H5786\|עִוֵּ֑ר]] [[H9001\|וַ]][[H0631\|יַּאַסְרֵ֙]][[H9033\|הוּ֙]] [[H9003\|בַּֽ]][[H5178A\|נְחֻשְׁתַּ֔יִם]] [[H9005\|לָ]][[H0935P\|בִ֥יא]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H0894\|בָּבֶֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.6|<< Jeremiah 39:6]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.8|Jeremiah 39:8 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Slays Goliath
+type: Pericope
 pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 17
 book/chapter: "[[1Sam.17|1 Samuel 17]]"
-genre:
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 21
 verses:
 - "[[1Sam.17.38]]"
 - "[[1Sam.17.39]]"
@@ -39,7 +46,7 @@ verses:
 - "[[1Sam.17.58]]"
 ---
 
-[[1Sam.17|1 Samuel 17:38 - 1 Samuel 17:58]]
+<small>[[1Sam.17|1 Samuel 17:38-58]]</small>
 *David Slays Goliath*
 
 [[1Sam.17.38|38]] And Saul armed David with his armour, and he put an helmet of brass upon his head; also he armed him with a coat of mail.

@@ -1,8 +1,71 @@
+---
+title: Ezekiel 44:9
+type: Verse
+kjv: "Thus saith the Lord GOD; No stranger, uncircumcised in heart, nor uncircumcised in flesh, shall enter into my sanctuary, of any stranger that is among the children of Israel."
+bsb: "This is what the Lord GOD says: No foreigner uncircumcised in heart and flesh may enter My sanctuary—not even a foreigner who lives among the Israelites."
+hebrew: "כֹּה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ כָּל־ בֶּן־ נֵכָ֗ר עֶ֤רֶל לֵב֙ וְעֶ֣רֶל בָּשָׂ֔ר לֹ֥א יָב֖וֹא אֶל־ מִקְדָּשִׁ֑י לְכָל־ בֶּן־ נֵכָ֔ר אֲשֶׁ֕ר בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Ezek.44.6 Reproof of the Levites|Reproof of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNCIRCUMCISION|UNCIRCUMCISION]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3605]]"
+- "[[H1121I]]"
+- "[[H5236]]"
+- "[[H6189]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:9**<big><big>[[Ezek.44.6 Reproof of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; No stranger, uncircumcised in heart, nor uncircumcised in flesh, shall enter into my sanctuary, of any stranger that [is] among the children of Israel.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: No foreigner uncircumcised in heart and flesh may enter My sanctuary—not even a foreigner who lives among the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H3605\|כָּל]][[H9014\|־]] [[H1121I\|בֶּן]][[H9014\|־]] [[H5236\|נֵכָ֗ר]] [[H6189\|עֶ֤רֶל]] [[H3820A\|לֵב֙]] [[H9002\|וְ]][[H6189\|עֶ֣רֶל]] [[H1320\|בָּשָׂ֔ר]] [[H3808\|לֹ֥א]] [[H0935G\|יָב֖וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H4720\|מִקְדָּשִׁ֑]][[H9020\|י]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1121G\|בֶּן]][[H9014\|־]] [[H5236\|נֵכָ֔ר]] [[H0834A\|אֲשֶׁ֕ר]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SIN|SIN]] • [[topic UNCIRCUMCISION|UNCIRCUMCISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.8|<< Ezekiel 44:8]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.10|Ezekiel 44:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

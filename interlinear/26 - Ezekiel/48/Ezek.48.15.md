@@ -1,8 +1,67 @@
+---
+title: Ezekiel 48:15
+type: Verse
+kjv: "And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane place for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof."
+bsb: "The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for common use by the city, for houses, and for pastureland. The city will be in the center of it"
+hebrew: "וַחֲמֵ֨שֶׁת אֲלָפִ֜ים הַנּוֹתָ֣ר בָּרֹ֗חַב עַל־ פְּנֵ֨י חֲמִשָּׁ֤ה וְעֶשְׂרִים֙ אֶ֔לֶף חֹֽל־ ה֣וּא לָעִ֔יר לְמוֹשָׁ֖ב וּלְמִגְרָ֑שׁ וְהָיְתָ֥ה הָעִ֖יר בְּתוֹכֽוֹ׃"
+pericope: "[[Ezek.48.15 The Common Portion|The Common Portion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H0505G]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H9003]]"
+- "[[H7341]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H6242]]"
+- "[[H2455]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H5892B]]"
+- "[[H4186]]"
+- "[[H4054]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8432]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 48:15**<big><big>[[Ezek.48.15 The Common Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the five thousand, that are left in the breadth over against the five and twenty thousand, shall be a profane [place] for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.
 <small><sub>**BSB:**</sub></small>
 The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for common use by the city, for houses, and for pastureland. The city will be in the center of it
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H2568\|חֲמֵ֨שֶׁת]] [[H0505G\|אֲלָפִ֜ים]] [[H9009\|הַ]][[H3498\|נּוֹתָ֣ר]] [[H9003\|בָּ]][[H7341\|רֹ֗חַב]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֨י]] [[H2568\|חֲמִשָּׁ֤ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִים֙]] [[H0505G\|אֶ֔לֶף]] [[H2455\|חֹֽל]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H9005\|לָ]][[H5892B\|עִ֔יר]] [[H9005\|לְ]][[H4186\|מוֹשָׁ֖ב]] [[H9002\|וּ]][[H9005\|לְ]][[H4054\|מִגְרָ֑שׁ]] [[H9001\|וְ]][[H1961\|הָיְתָ֥ה]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9003\|בְּ]][[H8432\|תוֹכֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.14|<< Ezekiel 48:14]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.16|Ezekiel 48:16 >>]]</td></tr></table>
 
@@ -27,8 +86,8 @@ The remaining area, 5,000 cubits wide and 25,000 cubits long, will be for common
 | in [the] middle of it  [^3]|**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תוֹכֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^4] | be.<small><sup>[[HR]]</sup></small> to.kh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.14|<< Ezekiel 48:14]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.16|Ezekiel 48:16 >>]]</td></tr></table>
 
-[^1]: in [the] middle of it  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: in [the] middle of it  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^3]: in [the] middle of it  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: in [the] middle of it  | **<big>[[H9003|בְּ]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in [the] middle of it  | **<big>[[H9003|בְּ]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: in [the] middle of it  | **<big>[[H9003|בְּ]]</big><big>[[H8432|תוֹכֹ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | be.<small><sup>[[HR]]</sup></small> to.kho<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>בְּתוֹכֹֽ/ה\׃</big></span>**
 

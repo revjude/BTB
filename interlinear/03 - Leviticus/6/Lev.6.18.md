@@ -1,8 +1,68 @@
+---
+title: Leviticus 6:18
+type: Verse
+kjv: "All the males among the children of Aaron shall eat of it. It shall be a statute for ever in your generations concerning the offerings of the LORD made by fire: every one that toucheth them shall be holy."
+bsb: "Any male among the sons of Aaron may eat it. This is a permanent portion from the food offerings to the LORD for the generations to come. Anything that touches them will become holy.”"
+hebrew: "כָּל־ זָכָ֞ר בִּבְנֵ֤י אַהֲרֹן֙ יֹֽאכֲלֶ֔נָּה חָק־ עוֹלָם֙ לְדֹרֹ֣תֵיכֶ֔ם מֵאִשֵּׁ֖י יְהוָ֑ה כֹּ֛ל אֲשֶׁר־ יִגַּ֥ע בָּהֶ֖ם יִקְדָּֽשׁ׃ פ"
+pericope: "[[Lev.6.14 The Grain Offering|The Grain Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H9003]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H0398]]"
+- "[[H9034]]"
+- "[[H2706G]]"
+- "[[H5769G]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H5060]]"
+- "[[H9038]]"
+- "[[H6942G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 6:18**<big><big>[[Lev.6.14 The Grain Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the males among the children of Aaron shall eat of it. [It shall be] a statute for ever in your generations concerning the offerings of the LORD made by fire: every one that toucheth them shall be holy.
 <small><sub>**BSB:**</sub></small>
 Any male among the sons of Aaron may eat it. This is a permanent portion from the food offerings to the LORD for the generations to come. Anything that touches them will become holy.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֞ר]] [[H9003\|בִּ]][[H1121G\|בְנֵ֤י]] [[H0175\|אַהֲרֹן֙]] [[H0398\|יֹֽאכֲלֶ֔]][[H9034\|נָּה]] [[H2706G\|חָק]][[H9014\|־]] [[H5769G\|עוֹלָם֙]] [[H9005\|לְ]][[H1755\|דֹרֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9006\|מֵ]][[H0801\|אִשֵּׁ֖י]] [[H3068G\|יְהוָ֑ה]] [[H3605\|כֹּ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5060\|יִגַּ֥ע]] [[H9003\|בָּ]][[H9038\|הֶ֖ם]] [[H6942G\|יִקְדָּֽשׁ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.17|<< Leviticus 6:17]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.19|Leviticus 6:19 >>]]</td></tr></table>
 
@@ -22,7 +82,7 @@ Any male among the sons of Aaron may eat it. This is a permanent portion from th
 | [one] who  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will touch  |**<big>&#8207;[[H5060\|יִגַּ֥ע]]&#8207; </big>**| yi.Ga'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will be holy  |**<big>&#8207;[[H6942G\|יִקְדָּֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yik.Dash<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will be holy  |**<big>&#8207;[[H6942G\|יִקְדָּֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| yik.Dash<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.17|<< Leviticus 6:17]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.19|Leviticus 6:19 >>]]</td></tr></table>
 
 

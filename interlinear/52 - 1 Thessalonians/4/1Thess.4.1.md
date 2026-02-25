@@ -1,10 +1,65 @@
+---
+title: 1 Thessalonians 4:1
+type: Verse
+kjv: "Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more."
+bsb: "Finally, brothers, we ask and encourage you in the Lord Jesus to live in a way that is pleasing to God, just as you have received from us. This is how you already live, so you should do so all the more."
+greek: "Λοιπὸν οὖν, ἀδελφοί, ἐρωτῶμεν ὑμᾶς καὶ παρακαλοῦμεν ἐν κυρίῳ Ἰησοῦ ἵνα καθὼς παρελάβετε παρ᾽ ἡμῶν τὸ πῶς δεῖ ὑμᾶς περιπατεῖν καὶ ἀρέσκειν θεῷ καθὼς καὶ περιπατεῖτε, ἵνα περισσεύητε μᾶλλον·"
+pericope: "[[1Thess.4.1 Living to Please God|Living to Please God]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3063]]"
+- "[[G3767]]"
+- "[[G0080]]"
+- "[[G2065]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G2443]]"
+- "[[G2531]]"
+- "[[G3880]]"
+- "[[G3844]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G4459]]"
+- "[[G1163]]"
+- "[[G4043]]"
+- "[[G0700]]"
+- "[[G2316]]"
+- "[[G4052]]"
+- "[[G3123G]]"
+texts:
+- NKO
+- NO
+---
+
 **1 Thessalonians 4:1**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Furthermore then we beseech you, brethren, and exhort [you] by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, [so] ye would abound more and more.
 <small><sub>**BSB:**</sub></small>
 Finally, brothers, we ask and encourage you in the Lord Jesus to live in a way that is pleasing to God, just as you have received from us. This is how you already live, so you should do so all the more.
-<small><sub>**Literal:**</sub></small>
-Finally then, brothers, we implore you and we exhort [you] in [the] Lord Jesus so that even as you have received from us <the> in what manner it behooves you to walk and to please God even as also you walk [now], so you may abound more;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.13|<< 1 Thessalonians 3:13]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.2|1 Thessalonians 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3063\|Λοιπὸν]]  [[G3767\|οὖν,]]  [[G0080\|ἀδελφοί,]]  [[G2065\|ἐρωτῶμεν]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G3870\|παρακαλοῦμεν]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ]]  [[G2424G\|Ἰησοῦ]]  [[G2443\|ἵνα]]  [[G2531\|καθὼς]]  [[G3880\|παρελάβετε]]  [[G3844\|παρ᾽]]  [[G3165\|ἡμῶν]]  [[G3588\|τὸ]]  [[G4459\|πῶς]]  [[G1163\|δεῖ]]  [[G4771\|ὑμᾶς]]  [[G4043\|περιπατεῖν]]  [[G2532\|καὶ]]  [[G0700\|ἀρέσκειν]]  [[G2316\|θεῷ]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G4043\|περιπατεῖτε,]]  [[G2443\|ἵνα]]  [[G4052\|περισσεύητε]]  [[G3123G\|μᾶλλον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.13|<< 1 Thessalonians 3:13]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.2|1 Thessalonians 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

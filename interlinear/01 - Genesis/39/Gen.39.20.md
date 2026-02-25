@@ -1,8 +1,77 @@
+---
+title: Genesis 39:20
+type: Verse
+kjv: "And Joseph’s master took him, and put him into the prison, a place where the king’s prisoners were bound: and he was there in the prison."
+bsb: "So Joseph’s master took him and had him thrown into the prison where the king’s prisoners were confined. While Joseph was there in the prison,"
+hebrew: "וַיִּקַּח֩ אֲדֹנֵ֨י יוֹסֵ֜ף אֹת֗וֹ וַֽיִּתְּנֵ֙הוּ֙ אֶל־ בֵּ֣ית הַסֹּ֔הַר מְק֕וֹם אֲשֶׁר־ אֲסִירֵ֥י הַמֶּ֖לֶךְ אֲסוּרִ֑ים וַֽיְהִי־ שָׁ֖ם בְּבֵ֥ית הַסֹּֽהַר׃"
+pericope: "[[Gen.39.13 Joseph Falsely Imprisoned|Joseph Falsely Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic IMPRISONMENT|IMPRISONMENT]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic PRISON|PRISON]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0113]]"
+- "[[H3130G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5414H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H5470]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0631]]"
+- "[[H0615]]"
+- "[[H4428G]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Genesis 39:20**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph’s master took him, and put him into the prison, a place where the king’s prisoners [were] bound: and he was there in the prison.
 <small><sub>**BSB:**</sub></small>
 So Joseph’s master took him and had him thrown into the prison where the king’s prisoners were confined. While Joseph was there in the prison,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּח֩]] [[H0113\|אֲדֹנֵ֨י]] [[H3130G\|יוֹסֵ֜ף]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9001\|וַֽ]][[H5414H\|יִּתְּנֵ֙]][[H9033\|הוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H5470\|סֹּ֔הַר]] [[H4725\|מְק֕וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0615\|אֲסִירֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0631\|אֲסוּרִ֑ים]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H9003\|בְּ]][[H1004B\|בֵ֥ית]] [[H9009\|הַ]][[H5470\|סֹּֽהַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CHASTITY|CHASTITY]] • [[topic CRIMINALS|CRIMINALS]] • [[topic DECISION|DECISION]] • [[topic IMPRISONMENT|IMPRISONMENT]] • [[topic MALICE|MALICE]] • [[topic MASTER|MASTER]] • [[topic PRISON|PRISON]] • [[topic PRISONERS|PRISONERS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.19|<< Genesis 39:19]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.21|Genesis 39:21 >>]]</td></tr></table>
 

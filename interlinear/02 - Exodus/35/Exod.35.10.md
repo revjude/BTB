@@ -1,8 +1,61 @@
+---
+title: Exodus 35:10
+type: Verse
+kjv: "And every wise hearted among you shall come, and make all that the LORD hath commanded;"
+bsb: "Let every skilled craftsman among you come and make everything that the LORD has commanded:"
+hebrew: "וְכָל־ חֲכַם־ לֵ֖ב בָּכֶ֑ם יָבֹ֣אוּ וְיַעֲשׂ֔וּ אֵ֛ת כָּל־ אֲשֶׁ֥ר צִוָּ֖ה יְהוָֽה׃"
+pericope: "[[Exod.35.10 The Skilled Craftsmen|The Skilled Craftsmen]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2450]]"
+- "[[H3820A]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H0935G]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:10**<big><big>[[Exod.35.10 The Skilled Craftsmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every wise hearted among you shall come, and make all that the LORD hath commanded;
 <small><sub>**BSB:**</sub></small>
 Let every skilled craftsman among you come and make everything that the LORD has commanded:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2450\|חֲכַם]][[H9014\|־]] [[H3820A\|לֵ֖ב]] [[H9003\|בָּ]][[H9036\|כֶ֑ם]] [[H0935G\|יָבֹ֣אוּ]] [[H9002\|וְ]][[H6213H\|יַעֲשׂ֔וּ]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֖ה]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.9|<< Exodus 35:9]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.11|Exodus 35:11 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Jeremiah 30:24
+type: Verse
+kjv: "The fierce anger of the LORD shall not return, until he have done it, and until he have performed the intents of his heart: in the latter days ye shall consider it."
+bsb: "The fierce anger of the LORD will not turn back until He has fully accomplished the purposes of His heart. In the days to come you will understand this."
+hebrew: "לֹ֣א יָשׁ֗וּב חֲרוֹן֙ אַף־ יְהוָ֔ה עַד־ עֲשֹׂת֥וֹ וְעַד־ הֲקִימ֖וֹ מְזִמּ֣וֹת לִבּ֑וֹ בְּאַחֲרִ֥ית הַיָּמִ֖ים תִּתְבּ֥וֹנְנוּ בָֽהּ׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANGER|ANGER]]"
+strongs:
+- "[[H3808]]"
+- "[[H7725I]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5704]]"
+- "[[H6213A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H6965I]]"
+- "[[H4209]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0319]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0995]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:24**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fierce anger of the LORD shall not return, until he have done [it], and until he have performed the intents of his heart: in the latter days ye shall consider it.
 <small><sub>**BSB:**</sub></small>
 The fierce anger of the LORD will not turn back until He has fully accomplished the purposes of His heart. In the days to come you will understand this.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H7725I\|יָשׁ֗וּב]] [[H2740\|חֲרוֹן֙]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H6213A\|עֲשֹׂת֥]][[H9043\|וֹ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6965I\|הֲקִימ֖]][[H9043\|וֹ]] [[H4209\|מְזִמּ֣וֹת]] [[H3820A\|לִבּ֑]][[H9023\|וֹ]] [[H9003\|בְּ]][[H0319\|אַחֲרִ֥ית]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H0995\|תִּתְבּ֥וֹנְנוּ]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.23|<< Jeremiah 30:23]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.1|Jeremiah 31:1 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Leviticus 14:41
+type: Verse
+kjv: "And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:"
+bsb: "And he shall have the inside of the house scraped completely and the plaster that is scraped off dumped into an unclean place outside the city."
+hebrew: "וְאֶת־ הַבַּ֛יִת יַקְצִ֥עַ מִבַּ֖יִת סָבִ֑יב וְשָׁפְכ֗וּ אֶת־ הֶֽעָפָר֙ אֲשֶׁ֣ר הִקְצ֔וּ אֶל־ מִח֣וּץ לָעִ֔יר אֶל־ מָק֖וֹם טָמֵֽא׃"
+pericope: "[[Lev.14.33 Signs of Home Contamination|Signs of Home Contamination]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H7106A]]"
+- "[[H9006]]"
+- "[[H1004O]]"
+- "[[H5439G]]"
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H6083]]"
+- "[[H0834A]]"
+- "[[H7096]]"
+- "[[H0413]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H5892B]]"
+- "[[H4725]]"
+- "[[H2931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:41**<big><big>[[Lev.14.33 Signs of Home Contamination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:
 <small><sub>**BSB:**</sub></small>
 And he shall have the inside of the house scraped completely and the plaster that is scraped off dumped into an unclean place outside the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֛יִת]] [[H7106A\|יַקְצִ֥עַ]] [[H9006\|מִ]][[H1004O\|בַּ֖יִת]] [[H5439G\|סָבִ֑יב]] [[H9001\|וְ]][[H8210G\|שָׁפְכ֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶֽ]][[H6083\|עָפָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7096\|הִקְצ֔וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9006\|מִ]][[H2351\|ח֣וּץ]] [[H9005\|לָ]][[H5892B\|עִ֔יר]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מָק֖וֹם]] [[H2931\|טָמֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.40|<< Leviticus 14:40]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.42|Leviticus 14:42 >>]]</td></tr></table>
 

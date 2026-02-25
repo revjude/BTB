@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment to Come
+type: Pericope
 pericope: "[[Isa.7.17 Judgment to Come|Judgment to Come]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 7
 book/chapter: "[[Isa.7|Isaiah 7]]"
-genre:
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 9
 verses:
 - "[[Isa.7.17]]"
 - "[[Isa.7.18]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Isa.7.25]]"
 ---
 
-[[Isa.7|Isaiah 7:17 - Isaiah 7:25]]
+<small>[[Isa.7|Isaiah 7:17-25]]</small>
 *Judgment to Come*
 
 [[Isa.7.17|17]] The LORD shall bring upon thee, and upon thy people, and upon thy father’s house, days that have not come, from the day that Ephraim departed from Judah; \[even\] the king of Assyria.

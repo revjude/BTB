@@ -1,10 +1,64 @@
+---
+title: Luke 6:33
+type: Verse
+kjv: "And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same."
+bsb: "If you do good to those who do good to you, what credit is that to you? Even sinners do the same."
+jesus_said: "And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same."
+greek: "καὶ γὰρ ἐὰν ἀγαθοποιῆτε τοὺς ἀγαθοποιοῦντας ὑμᾶς, ποία ὑμῖν χάρις ἐστίν; καὶ γὰρ οἱ ἁμαρτωλοὶ τὸ αὐτὸ ποιοῦσιν."
+pericope: "[[Luke.6.27 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G1437]]"
+- "[[G0015]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G4169]]"
+- "[[G5485]]"
+- "[[G1510]]"
+- "[[G0268]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- no
+- ko
+---
+
 **Luke 6:33**<big><big>[[Luke.6.27 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if ye do good to them which do good to you, what thank have ye? for sinners also do even the same.
 <small><sub>**BSB:**</sub></small>
 If you do good to those who do good to you, what credit is that to you? Even sinners do the same.
-<small><sub>**Literal:**</sub></small>
-And for if you shall do good to those doing good to you, what to you credit is it? For even for <the> sinners the same perform.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.32|<< Luke 6:32]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.34|Luke 6:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G1437\|ἐὰν]]  [[G0015\|ἀγαθοποιῆτε]]  [[G3588\|τοὺς]]  [[G0015\|ἀγαθοποιοῦντας]]  [[G4771\|ὑμᾶς,]]  [[G4169\|ποία]]  [[G4771\|ὑμῖν]]  [[G5485\|χάρις]]  [[G1510\|ἐστίν;]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G3588\|οἱ]]  [[G0268\|ἁμαρτωλοὶ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G4160G\|ποιοῦσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic POOR|POOR]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.32|<< Luke 6:32]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.34|Luke 6:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

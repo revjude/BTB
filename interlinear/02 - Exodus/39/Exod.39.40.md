@@ -1,8 +1,67 @@
+---
+title: Exodus 39:40
+type: Verse
+kjv: "The hangings of the court, his pillars, and his sockets, and the hanging for the court gate, his cords, and his pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,"
+bsb: "the curtains of the courtyard with its posts and bases; the curtain for the gate of the courtyard, its ropes and tent pegs, and all the equipment for the service of the tabernacle, the Tent of Meeting;"
+hebrew: "אֵת֩ קַלְעֵ֨י הֶחָצֵ֜ר אֶת־ עַמֻּדֶ֣יהָ וְאֶת־ אֲדָנֶ֗יהָ וְאֶת־ הַמָּסָךְ֙ לְשַׁ֣עַר הֶֽחָצֵ֔ר אֶת־ מֵיתָרָ֖יו וִיתֵדֹתֶ֑יהָ וְאֵ֗ת כָּל־ כְּלֵ֛י עֲבֹדַ֥ת הַמִּשְׁכָּ֖ן לְאֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Exod.39.32 Moses Approves the Work|Moses Approves the Work]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CORD|CORD]]"
+strongs:
+- "[[H0853]]"
+- "[[H7050B]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H9014]]"
+- "[[H5982G]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0134]]"
+- "[[H4539]]"
+- "[[H9005]]"
+- "[[H8179G]]"
+- "[[H4340]]"
+- "[[H9023]]"
+- "[[H3489]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H5656H]]"
+- "[[H4908]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:40**<big><big>[[Exod.39.32 Moses Approves the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hangings of the court, his pillars, and his sockets, and the hanging for the court gate, his cords, and his pins, and all the vessels of the service of the tabernacle, for the tent of the congregation,
 <small><sub>**BSB:**</sub></small>
 the curtains of the courtyard with its posts and bases; the curtain for the gate of the courtyard, its ropes and tent pegs, and all the equipment for the service of the tabernacle, the Tent of Meeting;
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֵת֩]] [[H7050B\|קַלְעֵ֨י]] [[H9009\|הֶ]][[H2691A\|חָצֵ֜ר]] [[H0853\|אֶת]][[H9014\|־]] [[H5982G\|עַמֻּדֶ֣י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0134\|אֲדָנֶ֗י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4539\|מָּסָךְ֙]] [[H9005\|לְ]][[H8179G\|שַׁ֣עַר]] [[H9009\|הֶֽ]][[H2691A\|חָצֵ֔ר]] [[H0853\|אֶת]][[H9014\|־]] [[H4340\|מֵיתָרָ֖י]][[H9023\|ו]] [[H9002\|וִ]][[H3489\|יתֵדֹתֶ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֵ֗ת]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֛י]] [[H5656H\|עֲבֹדַ֥ת]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֖ן]] [[H9005\|לְ]][[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORD|CORD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.39|<< Exodus 39:39]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.41|Exodus 39:41 >>]]</td></tr></table>
 

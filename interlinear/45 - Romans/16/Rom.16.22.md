@@ -1,10 +1,48 @@
+---
+title: Romans 16:22
+type: Verse
+kjv: "I Tertius, who wrote this epistle, salute you in the Lord."
+bsb: "I, Tertius, who wrote down this letter, greet you in the Lord."
+greek: "Ἀσπάζομαι ὑμᾶς ἐγὼ Τέρτιος ὁ γράψας τὴν ἐπιστολὴν ἐν κυρίῳ.¶"
+pericope: "[[Rom.16.21 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic TERTIUS|TERTIUS]]"
+strongs:
+- "[[G0782]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G5060]]"
+- "[[G3588]]"
+- "[[G1125]]"
+- "[[G1992]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Romans 16:22**<big><big>[[Rom.16.21 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I Tertius, who wrote [this] epistle, salute you in the Lord.
 <small><sub>**BSB:**</sub></small>
 I, Tertius, who wrote down this letter, greet you in the Lord.
-<small><sub>**Literal:**</sub></small>
-Greet you I myself Tertius the [one] having written down this letter in [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.21|<< Romans 16:21]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.23|Romans 16:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάζομαι]]  [[G4771\|ὑμᾶς]]  [[G1473\|ἐγὼ]]  [[G5060\|Τέρτιος]]  [[G3588\|ὁ]]  [[G1125\|γράψας]]  [[G3588\|τὴν]]  [[G1992\|ἐπιστολὴν]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TERTIUS|TERTIUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.21|<< Romans 16:21]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.23|Romans 16:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

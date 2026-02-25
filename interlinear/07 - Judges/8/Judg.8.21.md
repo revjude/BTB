@@ -1,8 +1,73 @@
+---
+title: Judges 8:21
+type: Verse
+kjv: "Then Zebah and Zalmunna said, Rise thou, and fall upon us: for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that were on their camels’ necks."
+bsb: "Then Zebah and Zalmunna said, “Get up and kill us yourself, for as the man is, so is his strength.” So Gideon got up and killed Zebah and Zalmunna, and he took the crescent ornaments from the necks of their camels."
+hebrew: "וַיֹּ֜אמֶר זֶ֣בַח וְצַלְמֻנָּ֗ע ק֤וּם אַתָּה֙ וּפְגַע־ בָּ֔נוּ כִּ֥י כָאִ֖ישׁ גְּבוּרָת֑וֹ וַיָּ֣קָם גִּדְע֗וֹן וַֽיַּהֲרֹג֙ אֶת־ זֶ֣בַח וְאֶת־ צַלְמֻנָּ֔ע וַיִּקַּח֙ אֶת־ הַשַּׂ֣הֲרֹנִ֔ים אֲשֶׁ֖ר בְּצַוְּארֵ֥י גְמַלֵּיהֶֽם׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2078]]"
+- "[[H9002]]"
+- "[[H6759]]"
+- "[[H6965B]]"
+- "[[H0859A]]"
+- "[[H6293]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0376G]]"
+- "[[H1369]]"
+- "[[H9023]]"
+- "[[H1439]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H7720]]"
+- "[[H0834A]]"
+- "[[H6677A]]"
+- "[[H1581]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:21**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Zebah and Zalmunna said, Rise thou, and fall upon us: for as the man [is, so is] his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that [were] on their camels’ necks.
 <small><sub>**BSB:**</sub></small>
 Then Zebah and Zalmunna said, “Get up and kill us yourself, for as the man is, so is his strength.” So Gideon got up and killed Zebah and Zalmunna, and he took the crescent ornaments from the necks of their camels.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֜אמֶר]] [[H2078\|זֶ֣בַח]] [[H9002\|וְ]][[H6759\|צַלְמֻנָּ֗ע]] [[H6965B\|ק֤וּם]] [[H0859A\|אַתָּה֙]] [[H9002\|וּ]][[H6293\|פְגַע]][[H9014\|־]] [[H9003\|בָּ֔]][[H9035\|נוּ]] [[H3588A\|כִּ֥י]] [[H9004\|כָ]][[H0376G\|אִ֖ישׁ]] [[H1369\|גְּבוּרָת֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H1439\|גִּדְע֗וֹן]] [[H9001\|וַֽ]][[H2026\|יַּהֲרֹג֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2078\|זֶ֣בַח]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6759\|צַלְמֻנָּ֔ע]] [[H9001\|וַ]][[H3947G\|יִּקַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7720\|שַּׂ֣הֲרֹנִ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H6677A\|צַוְּארֵ֥י]] [[H1581\|גְמַלֵּי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAMEL|CAMEL]] • [[topic CAPTIVE|CAPTIVE]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic RETALIATION|RETALIATION]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.20|<< Judges 8:20]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.22|Judges 8:22 >>]]</td></tr></table>
 

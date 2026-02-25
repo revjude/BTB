@@ -1,10 +1,59 @@
+---
+title: Luke 17:14
+type: Verse
+kjv: "And when he saw them, he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed."
+bsb: "When Jesus saw them, He said, “Go, show yourselves to the priests.” And as they were on their way, they were cleansed."
+jesus_said: "Go shew yourselves unto the priests."
+greek: "Καὶ ἰδὼν εἶπεν αὐτοῖς· πορευθέντες ἐπιδείξατε ἑαυτοὺς τοῖς ἱερεῦσιν. καὶ ἐγένετο ἐν τῷ ὑπάγειν αὐτούς, ἐκαθαρίσθησαν."
+pericope: "[[Luke.17.11 The Ten Lepers|The Ten Lepers]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4198]]"
+- "[[G1925]]"
+- "[[G1438]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G5217]]"
+- "[[G2511]]"
+texts:
+- NKO
+---
+
 **Luke 17:14**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he saw [them], he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed.
 <small><sub>**BSB:**</sub></small>
 When Jesus saw them, He said, “Go, show yourselves to the priests.” And as they were on their way, they were cleansed.
-<small><sub>**Literal:**</sub></small>
-And having seen [them] He said to them; Having gone do show yourselves to the priests. And it came to pass in the going them, they were cleansed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.13|<< Luke 17:13]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.15|Luke 17:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|ἰδὼν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G4198\|πορευθέντες]]  [[G1925\|ἐπιδείξατε]]  [[G1438\|ἑαυτοὺς]]  [[G3588\|τοῖς]]  [[G2409\|ἱερεῦσιν.]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5217\|ὑπάγειν]]  [[G0846\|αὐτούς,]]  [[G2511\|ἐκαθαρίσθησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic SAMARIA|SAMARIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.13|<< Luke 17:13]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.15|Luke 17:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

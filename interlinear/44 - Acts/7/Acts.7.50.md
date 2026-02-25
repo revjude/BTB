@@ -1,10 +1,50 @@
+---
+title: Acts 7:50
+type: Verse
+kjv: "Hath not my hand made all these things?"
+bsb: "Has not My hand made all these things?’"
+greek: "οὐχὶ ἡ χείρ μου ἐποίησεν ταῦτα πάντα;"
+pericope: "[[Acts.7.44 The Tabernacle of the Testimony|The Tabernacle of the Testimony]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3780]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G3165]]"
+- "[[G4160G]]"
+- "[[G3778]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **Acts 7:50**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Hath not my hand made all these things?
 <small><sub>**BSB:**</sub></small>
 Has not My hand made all these things?’
-<small><sub>**Literal:**</sub></small>
-Surely the hand of Mine has made these things all?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.49|<< Acts 7:49]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.51|Acts 7:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3780\|οὐχὶ]]  [[G3588\|ἡ]]  [[G5495\|χείρ]]  [[G3165\|μου]]  [[G4160G\|ἐποίησεν]]  [[G3778\|ταῦτα]]  [[G3956\|πάντα;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.49|<< Acts 7:49]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.51|Acts 7:51 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:50** is...
 > $\quad$ referencing: [[LXX.Isa.66.1|Isa 66:1-2]]

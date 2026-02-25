@@ -1,8 +1,58 @@
+---
+title: Job 19:15
+type: Verse
+kjv: "They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight."
+bsb: "My guests and maidservants count me as a stranger; I am a foreigner in their sight."
+hebrew: "גָּ֘רֵ֤י בֵיתִ֣י וְ֭אַמְהֹתַי לְזָ֣ר תַּחְשְׁבֻ֑נִי נָ֝כְרִ֗י הָיִ֥יתִי בְעֵינֵיהֶֽם׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H1481A]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0519]]"
+- "[[H9005]]"
+- "[[H2114A]]"
+- "[[H2803J]]"
+- "[[H9030]]"
+- "[[H5237]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:15**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.
 <small><sub>**BSB:**</sub></small>
 My guests and maidservants count me as a stranger; I am a foreigner in their sight.
+<small><sub>**Hebrew:**</sub></small>
+[[H1481A\|גָּ֘רֵ֤י]] [[H1004B\|בֵיתִ֣]][[H9020\|י]] [[H9002\|וְ֭]][[H0519\|אַמְהֹתַ]][[H9020\|י]] [[H9005\|לְ]][[H2114A\|זָ֣ר]] [[H2803J\|תַּחְשְׁבֻ֑]][[H9030\|נִי]] [[H5237\|נָ֝כְרִ֗י]] [[H1961\|הָיִ֥יתִי]] [[H9003\|בְ]][[H5869A\|עֵינֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.14|<< Job 19:14]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.16|Job 19:16 >>]]</td></tr></table>
 

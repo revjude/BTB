@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 15:4
+type: Verse
+kjv: "Save when there shall be no poor among you; for the LORD shall greatly bless thee in the land which the LORD thy God giveth thee for an inheritance to possess it:"
+bsb: "There will be no poor among you, however, because the LORD will surely bless you in the land that the LORD your God is giving you to possess as an inheritance,"
+hebrew: "אֶ֕פֶס כִּ֛י לֹ֥א יִֽהְיֶה־ בְּךָ֖ אֶבְי֑וֹן כִּֽי־ בָרֵ֤ךְ יְבָֽרֶכְךָ֙ יְהוָ֔ה בָּאָ֕רֶץ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹֽתֵן־ לְךָ֥ נַחֲלָ֖ה לְרִשְׁתָּֽהּ׃"
+pericope: "[[Deut.15.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H0657A]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H0034]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5159]]"
+- "[[H3423G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:4**<big><big>[[Deut.15.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Save when there shall be no poor among you; for the LORD shall greatly bless thee in the land which the LORD thy God giveth thee [for] an inheritance to possess it:
 <small><sub>**BSB:**</sub></small>
 There will be no poor among you, however, because the LORD will surely bless you in the land that the LORD your God is giving you to possess as an inheritance,
+<small><sub>**Hebrew:**</sub></small>
+[[H0657A\|אֶ֕פֶס]] [[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9003\|בְּ]][[H9031\|ךָ֖]] [[H0034\|אֶבְי֑וֹן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1288\|בָרֵ֤ךְ]] [[H1288\|יְבָֽרֶכְ]][[H9031\|ךָ֙]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בָּ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H5414G\|נֹֽתֵן]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H5159\|נַחֲלָ֖ה]] [[H9005\|לְ]][[H3423G\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.3|<< Deuteronomy 15:3]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.5|Deuteronomy 15:5 >>]]</td></tr></table>
 

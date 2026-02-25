@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 29:26
+type: Verse
+kjv: "For they went and served other gods, and worshipped them, gods whom they knew not, and whom he had not given unto them:"
+bsb: "They went and served other gods, and they worshiped gods they had not known—gods that the LORD had not given to them."
+hebrew: "וַיֵּלְכ֗וּ וַיַּֽעַבְדוּ֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַיִּֽשְׁתַּחֲוּ֖וּ לָהֶ֑ם אֱלֹהִים֙ אֲשֶׁ֣ר לֹֽא־ יְדָע֔וּם וְלֹ֥א חָלַ֖ק לָהֶֽם׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H5647H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H9002]]"
+- "[[H2505A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:26**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they went and served other gods, and worshipped them, gods whom they knew not, and [whom] he had not given unto them:
 <small><sub>**BSB:**</sub></small>
 They went and served other gods, and they worshiped gods they had not known—gods that the LORD had not given to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכ֗וּ]] [[H9001\|וַ]][[H5647H\|יַּֽעַבְדוּ֙]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9001\|וַ]][[H7812\|יִּֽשְׁתַּחֲוּ֖וּ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H0430\|אֱלֹהִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יְדָע֔וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2505A\|חָלַ֖ק]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.25|<< Deuteronomy 29:25]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.27|Deuteronomy 29:27 >>]]</td></tr></table>
 

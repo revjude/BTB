@@ -1,8 +1,65 @@
+---
+title: Ezra 7:13
+type: Verse
+kjv: "I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee."
+bsb: "I hereby decree that any volunteers among the Israelites in my kingdom, including the priests and Levites, may go up with you to Jerusalem."
+aramaic: "מִנִּי֮ שִׂ֣ים טְעֵם֒ דִּ֣י כָל־ מִתְנַדַּ֣ב בְּמַלְכוּתִי֩ מִן־ עַמָּ֨ה יִשְׂרָאֵ֜ל וְכָהֲנ֣וֹהִי וְלֵוָיֵ֗א לִמְהָ֧ךְ לִֽירוּשְׁלֶ֛ם עִמָּ֖ךְ יְהָֽךְ׃"
+pericope: "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H4481]]"
+- "[[H9030]]"
+- "[[H7761G]]"
+- "[[H2942]]"
+- "[[H1768]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H5069]]"
+- "[[H9003]]"
+- "[[H4437]]"
+- "[[H9020]]"
+- "[[H5972]]"
+- "[[H9010]]"
+- "[[H3479]]"
+- "[[H9002]]"
+- "[[H3549]]"
+- "[[H9023]]"
+- "[[H3879]]"
+- "[[H9005]]"
+- "[[H1946]]"
+- "[[H3390]]"
+- "[[H5974]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:13**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I make a decree, that all they of the people of Israel, and [of] his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.
 <small><sub>**BSB:**</sub></small>
 I hereby decree that any volunteers among the Israelites in my kingdom, including the priests and Levites, may go up with you to Jerusalem.
+<small><sub>**Aramaic:**</sub></small>
+[[H4481\|מִנִּ]][[H9030\|י֮]] [[H7761G\|שִׂ֣ים]] [[H2942\|טְעֵם֒]] [[H1768\|דִּ֣י]] [[H3606\|כָל]][[H9014\|־]] [[H5069\|מִתְנַדַּ֣ב]] [[H9003\|בְּ]][[H4437\|מַלְכוּתִ]][[H9020\|י֩]] [[H4481\|מִן]][[H9014\|־]] [[H5972\|עַמָּ֨]][[H9010\|ה]] [[H3479\|יִשְׂרָאֵ֜ל]] [[H9002\|וְ]][[H3549\|כָהֲנ֣וֹ]][[H9023\|הִי]] [[H9002\|וְ]][[H3879\|לֵוָיֵ֗]][[H9010\|א]] [[H9005\|לִ]][[H1946\|מְהָ֧ךְ]] [[H9005\|לִֽ]][[H3390\|ירוּשְׁלֶ֛ם]] [[H5974\|עִמָּ֖]][[H9031\|ךְ]] [[H1946\|יְהָֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.12|<< Ezra 7:12]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.14|Ezra 7:14 >>]]</td></tr></table>
 

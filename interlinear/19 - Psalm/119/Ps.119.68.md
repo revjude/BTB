@@ -1,8 +1,55 @@
+---
+title: Psalm 119:68
+type: Verse
+kjv: "Thou art good, and doest good; teach me thy statutes."
+bsb: "You are good, and You do what is good; teach me Your statutes."
+hebrew: "טוֹב־ אַתָּ֥ה וּמֵטִ֗יב לַמְּדֵ֥נִי חֻקֶּֽיךָ׃"
+pericope: "[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|Your Word Is a Lamp to My Feet - TETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2896A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3190]]"
+- "[[H3925G]]"
+- "[[H9030]]"
+- "[[H2706G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:68**<big><big>[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] good, and doest good; teach me thy statutes.
 <small><sub>**BSB:**</sub></small>
 You are good, and You do what is good; teach me Your statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|טוֹב]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H9002\|וּ]][[H3190\|מֵטִ֗יב]] [[H3925G\|לַמְּדֵ֥]][[H9030\|נִי]] [[H2706G\|חֻקֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.68|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.67|<< Psalms 119:67]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.69|Psalms 119:69 >>]]</td></tr></table>
 

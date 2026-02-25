@@ -1,8 +1,56 @@
+---
+title: Job 39:17
+type: Verse
+kjv: "Because God hath deprived her of wisdom, neither hath he imparted to her understanding."
+bsb: "For God has deprived her of wisdom; He has not endowed her with understanding."
+hebrew: "כִּֽי־ הִשָּׁ֣הּ אֱל֣וֹהַּ חָכְמָ֑ה וְלֹא־ חָ֥לַק לָ֝֗הּ בַּבִּינָֽה׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5382]]"
+- "[[H9034]]"
+- "[[H0433]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2505A]]"
+- "[[H9005]]"
+- "[[H9003]]"
+- "[[H0998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:17**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because God hath deprived her of wisdom, neither hath he imparted to her understanding.
 <small><sub>**BSB:**</sub></small>
 For God has deprived her of wisdom; He has not endowed her with understanding.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H5382\|הִשָּׁ֣]][[H9034\|הּ]] [[H0433\|אֱל֣וֹהַּ]] [[H2451\|חָכְמָ֑ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2505A\|חָ֥לַק]] [[H9005\|לָ֝֗]][[H9034\|הּ]] [[H9003\|בַּ]][[H0998\|בִּינָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic GOD|GOD]] • [[topic OSTRICHES|OSTRICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.16|<< Job 39:16]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.18|Job 39:18 >>]]</td></tr></table>
 

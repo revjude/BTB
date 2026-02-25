@@ -1,8 +1,67 @@
+---
+title: Ezekiel 20:5
+type: Verse
+kjv: "And say unto them, Thus saith the Lord GOD; In the day when I chose Israel, and lifted up mine hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up mine hand unto them, saying, I am the LORD your God;"
+bsb: "and tell them that this is what the Lord GOD says: On the day I chose Israel, I swore an oath to the descendants of the house of Jacob and made Myself known to them in the land of Egypt. With an uplifted hand I said to them, ‘I am the LORD your God.’"
+hebrew: "וְאָמַרְתָּ֣ אֲלֵיהֶ֗ם כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ בְּיוֹם֙ בָּחֳרִ֣י בְיִשְׂרָאֵ֔ל וָאֶשָּׂ֣א יָדִ֗י לְזֶ֙רַע֙ בֵּ֣ית יַֽעֲקֹ֔ב וָאִוָּדַ֥ע לָהֶ֖ם בְּאֶ֣רֶץ מִצְרָ֑יִם וָאֶשָּׂ֨א יָדִ֤י לָהֶם֙ לֵאמֹ֔ר אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Ezek.20.1 Israel’s Rebellion in Egypt|Israel’s Rebellion in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0977]]"
+- "[[H9040]]"
+- "[[H3478]]"
+- "[[H5375P]]"
+- "[[H3027S]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H2233H]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H3045]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:5**<big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say unto them, Thus saith the Lord GOD; In the day when I chose Israel, and lifted up mine hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up mine hand unto them, saying, I [am] the LORD your God;
 <small><sub>**BSB:**</sub></small>
 and tell them that this is what the Lord GOD says: On the day I chose Israel, I swore an oath to the descendants of the house of Jacob and made Myself known to them in the land of Egypt. With an uplifted hand I said to them, ‘I am the LORD your God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H9003\|בְּ]][[H3117G\|יוֹם֙]] [[H0977\|בָּחֳרִ֣]][[H9040\|י]] [[H9003\|בְ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וָ]][[H5375P\|אֶשָּׂ֣א]] [[H3027S\|יָדִ֗]][[H9020\|י]] [[H9005\|לְ]][[H2233H\|זֶ֙רַע֙]] [[H1004M\|בֵּ֣ית]] [[H3290\|יַֽעֲקֹ֔ב]] [[H9001\|וָ]][[H3045\|אִוָּדַ֥ע]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וָ]][[H5375P\|אֶשָּׂ֨א]] [[H3027S\|יָדִ֤]][[H9020\|י]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.4|<< Ezekiel 20:4]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.6|Ezekiel 20:6 >>]]</td></tr></table>
 

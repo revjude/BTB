@@ -1,10 +1,63 @@
+---
+title: John 6:24
+type: Verse
+kjv: "When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus."
+bsb: "So when the crowd saw that neither Jesus nor His disciples were there, they got into the boats and went to Capernaum to look for Him."
+greek: "ὅτε οὖν εἶδεν ὁ ὄχλος ὅτι Ἰησοῦς οὐκ ἔστιν ἐκεῖ οὐδὲ οἱ μαθηταὶ αὐτοῦ, ἐνέβησαν καὶ αὐτοὶ εἰς τὰ πλοιάρια καὶ ἦλθον εἰς Καφαρναοὺμ ζητοῦντες τὸν Ἰησοῦν,"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3753]]"
+- "[[G3767]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1563]]"
+- "[[G3761]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1684]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G4142]]"
+- "[[G2064]]"
+- "[[G2584]]"
+- "[[G2212]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 6:24**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus.
 <small><sub>**BSB:**</sub></small>
 So when the crowd saw that neither Jesus nor His disciples were there, they got into the boats and went to Capernaum to look for Him.
-<small><sub>**Literal:**</sub></small>
-When therefore saw the crowd that Jesus not is there nor [are] the disciples of Him, they climbed also themselves into the boats and came to Capernaum seeking <the> Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.23|<< John 6:23]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.25|John 6:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G3767\|οὖν]]  [[G1492H\|εἶδεν]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1563\|ἐκεῖ]]  [[G3761\|οὐδὲ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ,]]  [[G1684\|ἐνέβησαν]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G4142\|πλοιάρια]]  [[G2532\|καὶ]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G2584\|Καφαρναοὺμ]]  [[G2212\|ζητοῦντες]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.23|<< John 6:23]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.25|John 6:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

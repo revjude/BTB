@@ -1,8 +1,68 @@
+---
+title: Isaiah 48:20
+type: Verse
+kjv: "Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it even to the end of the earth; say ye, The LORD hath redeemed his servant Jacob."
+bsb: "Leave Babylon! Flee from the Chaldeans! Declare it with a shout of joy, proclaim it, let it go out to the ends of the earth, saying, “The LORD has redeemed His servant Jacob!”"
+hebrew: "צְא֣וּ מִבָּבֶל֮ בִּרְח֣וּ מִכַּשְׂדִּים֒ בְּק֣וֹל רִנָּ֗ה הַגִּ֤ידוּ הַשְׁמִ֙יעוּ֙ זֹ֔את הוֹצִיא֖וּהָ עַד־ קְצֵ֣ה הָאָ֑רֶץ אִמְר֕וּ גָּאַ֥ל יְהוָ֖ה עַבְדּ֥וֹ יַעֲקֹֽב׃"
+pericope: "[[Isa.48.12 Deliverance Promised to Israel|Deliverance Promised to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H0894]]"
+- "[[H1272]]"
+- "[[H3778]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H7440]]"
+- "[[H5046]]"
+- "[[H8085I]]"
+- "[[H2063]]"
+- "[[H3318H]]"
+- "[[H9034]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0559]]"
+- "[[H1350A]]"
+- "[[H3068G]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:20**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go ye forth of Babylon, flee ye from the Chaldeans, with a voice of singing declare ye, tell this, utter it [even] to the end of the earth; say ye, The LORD hath redeemed his servant Jacob.
 <small><sub>**BSB:**</sub></small>
 Leave Babylon! Flee from the Chaldeans! Declare it with a shout of joy, proclaim it, let it go out to the ends of the earth, saying, “The LORD has redeemed His servant Jacob!”
+<small><sub>**Hebrew:**</sub></small>
+[[H3318G\|צְא֣וּ]] [[H9006\|מִ]][[H0894\|בָּבֶל֮]] [[H1272\|בִּרְח֣וּ]] [[H9006\|מִ]][[H3778\|כַּשְׂדִּים֒]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H7440\|רִנָּ֗ה]] [[H5046\|הַגִּ֤ידוּ]] [[H8085I\|הַשְׁמִ֙יעוּ֙]] [[H2063\|זֹ֔את]] [[H3318H\|הוֹצִיא֖וּ]][[H9034\|הָ]] [[H5704\|עַד]][[H9014\|־]] [[H7097A\|קְצֵ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0559\|אִמְר֕וּ]] [[H1350A\|גָּאַ֥ל]] [[H3068G\|יְהוָ֖ה]] [[H5650\|עַבְדּ֥]][[H9023\|וֹ]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISAIAH|ISAIAH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.19|<< Isaiah 48:19]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.21|Isaiah 48:21 >>]]</td></tr></table>
 

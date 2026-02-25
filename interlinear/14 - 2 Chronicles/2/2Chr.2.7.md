@@ -1,8 +1,73 @@
+---
+title: 2 Chronicles 2:7
+type: Verse
+kjv: "Send me now therefore a man cunning to work in gold, and in silver, and in brass, and in iron, and in purple, and crimson, and blue, and that can skill to grave with the cunning men that are with me in Judah and in Jerusalem, whom David my father did provide."
+bsb: "Send me, therefore, a craftsman skilled in engraving to work with gold and silver, with bronze and iron, and with purple, crimson, and blue yarn. He will work with my craftsmen in Judah and Jerusalem, whom my father David provided."
+hebrew: "וְעַתָּ֡ה שְֽׁלַֽח־ לִ֣י אִישׁ־ חָכָ֡ם לַעֲשׂוֹת֩ בַּזָּהָ֨ב וּבַכֶּ֜סֶף וּבַנְּחֹ֣שֶׁת וּבַבַּרְזֶ֗ל וּבָֽאַרְגְּוָן֙ וְכַרְמִ֣יל וּתְכֵ֔לֶת וְיֹדֵ֖עַ לְפַתֵּ֣חַ פִּתּוּחִ֑ים עִם־ הַֽחֲכָמִ֗ים אֲשֶׁ֤ר עִמִּי֙ בִּֽיהוּדָ֣ה וּבִֽירוּשָׁלִַ֔ם אֲשֶׁ֥ר הֵכִ֖ין דָּוִ֥יד אָבִֽי׃"
+pericope: "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic GOLDSMITH|GOLDSMITH]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0376G]]"
+- "[[H2450]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H2091]]"
+- "[[H3701G]]"
+- "[[H5178A]]"
+- "[[H1270]]"
+- "[[H0710]]"
+- "[[H3758]]"
+- "[[H8504]]"
+- "[[H3045]]"
+- "[[H6605B]]"
+- "[[H6603]]"
+- "[[H5973A]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H3559A]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:7**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send me now therefore a man cunning to work in gold, and in silver, and in brass, and in iron, and in purple, and crimson, and blue, and that can skill to grave with the cunning men that [are] with me in Judah and in Jerusalem, whom David my father did provide.
 <small><sub>**BSB:**</sub></small>
 Send me, therefore, a craftsman skilled in engraving to work with gold and silver, with bronze and iron, and with purple, crimson, and blue yarn. He will work with my craftsmen in Judah and Jerusalem, whom my father David provided.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֡ה]] [[H7971G\|שְֽׁלַֽח]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H2450\|חָכָ֡ם]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹת֩]] [[H9003\|בַּ]][[H2091\|זָּהָ֨ב]] [[H9002\|וּ]][[H9003\|בַ]][[H3701G\|כֶּ֜סֶף]] [[H9002\|וּ]][[H9003\|בַ]][[H5178A\|נְּחֹ֣שֶׁת]] [[H9002\|וּ]][[H9003\|בַ]][[H1270\|בַּרְזֶ֗ל]] [[H9002\|וּ]][[H9003\|בָֽ]][[H0710\|אַרְגְּוָן֙]] [[H9002\|וְ]][[H3758\|כַרְמִ֣יל]] [[H9002\|וּ]][[H8504\|תְכֵ֔לֶת]] [[H9002\|וְ]][[H3045\|יֹדֵ֖עַ]] [[H9005\|לְ]][[H6605B\|פַתֵּ֣חַ]] [[H6603\|פִּתּוּחִ֑ים]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַֽ]][[H2450\|חֲכָמִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H5973A\|עִמִּ]][[H9030\|י֙]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֣ה]] [[H9002\|וּ]][[H9003\|בִֽ]][[H3389\|ירוּשָׁלִַ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3559A\|הֵכִ֖ין]] [[H1732\|דָּוִ֥יד]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic GOLDSMITH|GOLDSMITH]] • [[topic HIRAM|HIRAM]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.6|<< 2 Chronicles 2:6]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.8|2 Chronicles 2:8 >>]]</td></tr></table>
 

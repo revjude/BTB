@@ -1,8 +1,59 @@
+---
+title: Judges 6:33
+type: Verse
+kjv: "Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel."
+bsb: "Then all the Midianites, Amalekites, and other people of the east gathered together, crossed over the Jordan, and camped in the Valley of Jezreel."
+hebrew: "וְכָל־ מִדְיָ֧ן וַעֲמָלֵ֛ק וּבְנֵי־ קֶ֖דֶם נֶאֶסְפ֣וּ יַחְדָּ֑ו וַיַּעַבְר֥וּ וַֽיַּחֲנ֖וּ בְּעֵ֥מֶק יִזְרְעֶֽאל׃"
+pericope: "[[Judg.6.33 The Sign of the Fleece|The Sign of the Fleece]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JUDGE|JUDGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4080H]]"
+- "[[H6002G]]"
+- "[[H1121G]]"
+- "[[H6924A]]"
+- "[[H0622]]"
+- "[[H3162B]]"
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H6010M]]"
+- "[[H3157L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:33**<big><big>[[Judg.6.33 The Sign of the Fleece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.
 <small><sub>**BSB:**</sub></small>
 Then all the Midianites, Amalekites, and other people of the east gathered together, crossed over the Jordan, and camped in the Valley of Jezreel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4080H\|מִדְיָ֧ן]] [[H9002\|וַ]][[H6002G\|עֲמָלֵ֛ק]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H6924A\|קֶ֖דֶם]] [[H0622\|נֶאֶסְפ֣וּ]] [[H3162B\|יַחְדָּ֑ו]] [[H9001\|וַ]][[H5674A\|יַּעַבְר֥וּ]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֖וּ]] [[H9003\|בְּ]][[H6010M\|עֵ֥מֶק]] [[H3157L\|יִזְרְעֶֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic GIDEON|GIDEON]] • [[topic JEZREEL|JEZREEL]] • [[topic JUDGE|JUDGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.32|<< Judges 6:32]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.34|Judges 6:34 >>]]</td></tr></table>
 

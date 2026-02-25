@@ -1,10 +1,59 @@
+---
+title: John 3:23
+type: Verse
+kjv: "And John also was baptizing in AEnon near to Salim, because there was much water there: and they came, and were baptized."
+bsb: "Now John was also baptizing at Aenon near Salim, because the water was plentiful there, and people kept coming to be baptized."
+greek: "ἦν δὲ καὶ ὁ Ἰωάννης βαπτίζων ἐν Αἰνὼν ἐγγὺς τοῦ Σαλείμ, ὅτι ὕδατα πολλὰ ἦν ἐκεῖ. καὶ παρεγίνοντο καὶ ἐβαπτίζοντο·"
+pericope: "[[John.3.22 John’s Testimony about Jesus|John’s Testimony about Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic ENON (AENON)|ENON (AENON)]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic SALIM|SALIM]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2491G]]"
+- "[[G0907]]"
+- "[[G1722]]"
+- "[[G0137]]"
+- "[[G1451]]"
+- "[[G4530]]"
+- "[[G3754H]]"
+- "[[G5204]]"
+- "[[G4183]]"
+- "[[G1563]]"
+- "[[G3854]]"
+texts:
+- NKO
+- no
+---
+
 **John 3:23**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And John also was baptizing in AEnon near to Salim, because there was much water there: and they came, and were baptized.
 <small><sub>**BSB:**</sub></small>
 Now John was also baptizing at Aenon near Salim, because the water was plentiful there, and people kept coming to be baptized.
-<small><sub>**Literal:**</sub></small>
-Was now also <the> John baptizing in Aenon near <the> Salim, because waters many were there. and they were coming and were being baptized;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.22|<< John 3:22]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.24|John 3:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2491G\|Ἰωάννης]]  [[G0907\|βαπτίζων]]  [[G1722\|ἐν]]  [[G0137\|Αἰνὼν]]  [[G1451\|ἐγγὺς]]  [[G3588\|τοῦ]]  [[G4530\|Σαλείμ,]]  [[G3754H\|ὅτι]]  [[G5204\|ὕδατα]]  [[G4183\|πολλὰ]]  [[G1510\|ἦν]]  [[G1563\|ἐκεῖ.]]  [[G2532\|καὶ]]  [[G3854\|παρεγίνοντο]]  [[G2532\|καὶ]]  [[G0907\|ἐβαπτίζοντο·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic ENON (AENON)|ENON (AENON)]] • [[topic JOHN|JOHN]] • [[topic SALIM|SALIM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.22|<< John 3:22]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.24|John 3:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

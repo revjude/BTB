@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 15:13
+type: Verse
+kjv: "That whosoever would not seek the LORD God of Israel should be put to death, whether small or great, whether man or woman."
+bsb: "And whoever would not seek the LORD, the God of Israel, would be put to death, whether young or old, man or woman."
+hebrew: "וְכֹ֨ל אֲשֶׁ֧ר לֹֽא־ יִדְרֹ֛שׁ לַיהוָ֥ה אֱלֹהֵֽי־ יִשְׂרָאֵ֖ל יוּמָ֑ת לְמִן־ קָטֹן֙ וְעַד־ גָּד֔וֹל לְמֵאִ֖ישׁ וְעַד־ אִשָּֽׁה׃"
+pericope: "[[2Chr.15.8 Asa’s Reforms|Asa’s Reforms]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 15
+book/chapter: "[[2Chr.15|2 Chronicles 15]]"
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SHOUTING|SHOUTING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1875]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H4191]]"
+- "[[H4480A]]"
+- "[[H6996H]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H9006]]"
+- "[[H0376G]]"
+- "[[H0802G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 15:13**<big><big>[[2Chr.15.8 Asa’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That whosoever would not seek the LORD God of Israel should be put to death, whether small or great, whether man or woman.
 <small><sub>**BSB:**</sub></small>
 And whoever would not seek the LORD, the God of Israel, would be put to death, whether young or old, man or woman.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֨ל]] [[H0834A\|אֲשֶׁ֧ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1875\|יִדְרֹ֛שׁ]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H4191\|יוּמָ֑ת]] [[H9005\|לְ]][[H4480A\|מִן]][[H9014\|־]] [[H6996H\|קָטֹן֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גָּד֔וֹל]] [[H9005\|לְ]][[H9006\|מֵ]][[H0376G\|אִ֖ישׁ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0802G\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic COVENANT|COVENANT]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic REVIVALS|REVIVALS]] • [[topic SEEKERS|SEEKERS]] • [[topic SHOUTING|SHOUTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.12|<< 2 Chronicles 15:12]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.14|2 Chronicles 15:14 >>]]</td></tr></table>
 

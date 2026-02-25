@@ -1,10 +1,64 @@
+---
+title: Luke 23:15
+type: Verse
+kjv: "No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him."
+bsb: "Neither has Herod, for he sent Him back to us. As you can see, He has done nothing deserving of death."
+greek: "ἀλλ᾽ οὐδὲ Ἡρῴδης· ἀνέπεμψεν γὰρ αὐτὸν πρὸς ἡμᾶς, καὶ ἰδοὺ οὐδὲν ἄξιον θανάτου ἐστὶν πεπραγμένον αὐτῷ."
+pericope: "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G0235]]"
+- "[[G3761]]"
+- "[[G2264H]]"
+- "[[G0375]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G3762]]"
+- "[[G0514]]"
+- "[[G2288]]"
+- "[[G1510]]"
+- "[[G4238]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 23:15**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him.
 <small><sub>**BSB:**</sub></small>
 Neither has Herod, for he sent Him back to us. As you can see, He has done nothing deserving of death.
-<small><sub>**Literal:**</sub></small>
-But not even [did] Herod; he sent back for Him to us And behold no [thing] worthy of death is done by Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.14|<< Luke 23:14]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.16|Luke 23:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3761\|οὐδὲ]]  [[G2264H\|Ἡρῴδης·]]  [[G0375\|ἀνέπεμψεν]]  [[G1063\|γὰρ]]  [[G0846\|αὐτὸν]]  [[G4314\|πρὸς]]  [[G3165\|ἡμᾶς,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3762\|οὐδὲν]]  [[G0514\|ἄξιον]]  [[G2288\|θανάτου]]  [[G1510\|ἐστὶν]]  [[G4238\|πεπραγμένον]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPLICITY|COMPLICITY]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.14|<< Luke 23:14]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.16|Luke 23:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

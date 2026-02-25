@@ -1,8 +1,51 @@
+---
+title: Lamentations 5:12
+type: Verse
+kjv: "Princes are hanged up by their hand: the faces of elders were not honoured."
+bsb: "Princes have been hung up by their hands; elders receive no respect."
+hebrew: "שָׂרִים֙ בְּיָדָ֣ם נִתְל֔וּ פְּנֵ֥י זְקֵנִ֖ים לֹ֥א נֶהְדָּֽרוּ׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H8269]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H8518]]"
+- "[[H6440N]]"
+- "[[H2205G]]"
+- "[[H3808]]"
+- "[[H1921]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 5:12**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Princes are hanged up by their hand: the faces of elders were not honoured.
 <small><sub>**BSB:**</sub></small>
 Princes have been hung up by their hands; elders receive no respect.
+<small><sub>**Hebrew:**</sub></small>
+[[H8269\|שָׂרִים֙]] [[H9003\|בְּ]][[H3027G\|יָדָ֣]][[H9028\|ם]] [[H8518\|נִתְל֔וּ]] [[H6440N\|פְּנֵ֥י]] [[H2205G\|זְקֵנִ֖ים]] [[H3808\|לֹ֥א]] [[H1921\|נֶהְדָּֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.11|<< Lamentations 5:11]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.13|Lamentations 5:13 >>]]</td></tr></table>
 

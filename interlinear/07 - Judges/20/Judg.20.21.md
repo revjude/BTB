@@ -1,8 +1,57 @@
+---
+title: Judges 20:21
+type: Verse
+kjv: "And the children of Benjamin came forth out of Gibeah, and destroyed down to the ground of the Israelites that day twenty and two thousand men."
+bsb: "And the Benjamites came out of Gibeah and cut down 22,000 Israelites on the battlefield that day."
+hebrew: "וַיֵּצְא֥וּ בְנֵֽי־ בִנְיָמִ֖ן מִן־ הַגִּבְעָ֑ה וַיַּשְׁחִ֨יתוּ בְיִשְׂרָאֵ֜ל בַּיּ֣וֹם הַה֗וּא שְׁנַ֨יִם וְעֶשְׂרִ֥ים אֶ֛לֶף אִ֖ישׁ אָֽרְצָה׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1144G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H1390H]]"
+- "[[H7843]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H8147]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:21**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Benjamin came forth out of Gibeah, and destroyed down to the ground of the Israelites that day twenty and two thousand men.
 <small><sub>**BSB:**</sub></small>
 And the Benjamites came out of Gibeah and cut down 22,000 Israelites on the battlefield that day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצְא֥וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H1144G\|בִנְיָמִ֖ן]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1390H\|גִּבְעָ֑ה]] [[H9001\|וַ]][[H7843\|יַּשְׁחִ֨יתוּ]] [[H9003\|בְ]][[H3478\|יִשְׂרָאֵ֜ל]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H8147\|שְׁנַ֨יִם]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אֶ֛לֶף]] [[H0376G\|אִ֖ישׁ]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.20|<< Judges 20:20]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.22|Judges 20:22 >>]]</td></tr></table>
 

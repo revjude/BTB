@@ -1,8 +1,55 @@
+---
+title: Psalm 64:6
+type: Verse
+kjv: "They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep."
+bsb: "They devise injustice and say, “We have perfected a secret plan.” For the inner man and the heart are mysterious."
+hebrew: "יַֽחְפְּֽשׂוּ־ עוֹלֹ֗ת תַּ֭מְנוּ חֵ֣פֶשׂ מְחֻפָּ֑שׂ וְקֶ֥רֶב אִ֝֗ישׁ וְלֵ֣ב עָמֹֽק׃"
+pericope: "[[Ps.64.1 The Hurtful Tongue|The Hurtful Tongue]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 64
+book/chapter: "[[Ps.64|Psalm 64]]"
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2664]]"
+- "[[H9014]]"
+- "[[H5766B]]"
+- "[[H8552]]"
+- "[[H2665]]"
+- "[[H9002]]"
+- "[[H7130H]]"
+- "[[H0376G]]"
+- "[[H3820A]]"
+- "[[H6013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 64:6**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They search out iniquities; they accomplish a diligent search: both the inward [thought] of every one [of them], and the heart, [is] deep.
 <small><sub>**BSB:**</sub></small>
 They devise injustice and say, “We have perfected a secret plan.” For the inner man and the heart are mysterious.
+<small><sub>**Hebrew:**</sub></small>
+[[H2664\|יַֽחְפְּֽשׂוּ]][[H9014\|־]] [[H5766B\|עוֹלֹ֗ת]] [[H8552\|תַּ֭מְנוּ]] [[H2665\|חֵ֣פֶשׂ]] [[H2664\|מְחֻפָּ֑שׂ]] [[H9002\|וְ]][[H7130H\|קֶ֥רֶב]] [[H0376G\|אִ֝֗ישׁ]] [[H9002\|וְ]][[H3820A\|לֵ֣ב]] [[H6013\|עָמֹֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.5|<< Psalms 64:5]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.7|Psalms 64:7 >>]]</td></tr></table>
 

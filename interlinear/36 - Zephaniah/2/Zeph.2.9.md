@@ -1,8 +1,80 @@
+---
+title: Zephaniah 2:9
+type: Verse
+kjv: "Therefore as I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, even the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them."
+bsb: "Therefore, as surely as I live,” declares the LORD of Hosts, the God of Israel, “surely Moab will be like Sodom and the Ammonites like Gomorrah—a place of weeds and salt pits, a perpetual wasteland. The remnant of My people will plunder them; the remainder of My nation will dispossess them.”"
+hebrew: "לָכֵ֣ן חַי־ אָ֡נִי נְאֻם֩ יְהוָ֨ה צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל כִּֽי־ מוֹאָ֞ב כִּסְדֹ֤ם תִּֽהְיֶה֙ וּבְנֵ֤י עַמּוֹן֙ כַּֽעֲמֹרָ֔ה מִמְשַׁ֥ק חָר֛וּל וּמִכְרֵה־ מֶ֥לַח וּשְׁמָמָ֖ה עַד־ עוֹלָ֑ם שְׁאֵרִ֤ית עַמִּי֙ יְבָזּ֔וּם וְיֶ֥תֶר גּוֹיִ֖י יִנְחָלֽוּם׃"
+pericope: "[[Zeph.2.8 Judgment on Moab and Ammon|Judgment on Moab and Ammon]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic NETTLES|NETTLES]]"
+- "[[topic SALT|SALT]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H4124G]]"
+- "[[H9004]]"
+- "[[H5467]]"
+- "[[H1961]]"
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H6017]]"
+- "[[H4476]]"
+- "[[H2738]]"
+- "[[H4379]]"
+- "[[H4417M]]"
+- "[[H8077A]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H7611]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0962]]"
+- "[[H9038]]"
+- "[[H3499A]]"
+- "[[H1471A]]"
+- "[[H5157]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Zephaniah 2:9**<big><big>[[Zeph.2.8 Judgment on Moab and Ammon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore [as] I live, saith the LORD of hosts, the God of Israel, Surely Moab shall be as Sodom, and the children of Ammon as Gomorrah, [even] the breeding of nettles, and saltpits, and a perpetual desolation: the residue of my people shall spoil them, and the remnant of my people shall possess them.
 <small><sub>**BSB:**</sub></small>
 Therefore, as surely as I live,” declares the LORD of Hosts, the God of Israel, “surely Moab will be like Sodom and the Ammonites like Gomorrah—a place of weeds and salt pits, a perpetual wasteland. The remnant of My people will plunder them; the remainder of My nation will dispossess them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֣ן]] [[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָ֡נִי]] [[H5002\|נְאֻם֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4124G\|מוֹאָ֞ב]] [[H9004\|כִּ]][[H5467\|סְדֹ֤ם]] [[H1961\|תִּֽהְיֶה֙]] [[H9002\|וּ]][[H1121G\|בְנֵ֤י]] [[H5983\|עַמּוֹן֙]] [[H9004\|כַּֽ]][[H6017\|עֲמֹרָ֔ה]] [[H4476\|מִמְשַׁ֥ק]] [[H2738\|חָר֛וּל]] [[H9002\|וּ]][[H4379\|מִכְרֵה]][[H9014\|־]] [[H4417M\|מֶ֥לַח]] [[H9002\|וּ]][[H8077A\|שְׁמָמָ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֑ם]] [[H7611\|שְׁאֵרִ֤ית]] [[H5971A\|עַמִּ]][[H9020\|י֙]] [[H0962\|יְבָזּ֔וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3499A\|יֶ֥תֶר]] [[H1471A\|גּוֹיִ֖]][[H9020\|י]] [[H5157\|יִנְחָלֽוּ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic GOMORRAH|GOMORRAH]] • [[topic NETTLES|NETTLES]] • [[topic SALT|SALT]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.8|<< Zephaniah 2:8]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.10|Zephaniah 2:10 >>]]</td></tr></table>
 

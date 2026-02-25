@@ -1,8 +1,63 @@
+---
+title: Numbers 19:5
+type: Verse
+kjv: "And one shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn:"
+bsb: "Then the heifer must be burned in his sight. Its hide, its flesh, and its blood are to be burned, along with its dung."
+hebrew: "וְשָׂרַ֥ף אֶת־ הַפָּרָ֖ה לְעֵינָ֑יו אֶת־ עֹרָ֤הּ וְאֶת־ בְּשָׂרָהּ֙ וְאֶת־ דָּמָ֔הּ עַל־ פִּרְשָׁ֖הּ יִשְׂרֹֽף׃"
+pericope: "[[Num.19.1 The Red Heifer|The Red Heifer]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6510]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H9023]]"
+- "[[H5785]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H1818]]"
+- "[[H5921A]]"
+- "[[H6569]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 19:5**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [one] shall burn the heifer in his sight; her skin, and her flesh, and her blood, with her dung, shall he burn:
 <small><sub>**BSB:**</sub></small>
 Then the heifer must be burned in his sight. Its hide, its flesh, and its blood are to be burned, along with its dung.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8313\|שָׂרַ֥ף]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6510\|פָּרָ֖ה]] [[H9005\|לְ]][[H5869H\|עֵינָ֑י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H5785\|עֹרָ֤]][[H9024\|הּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂרָ]][[H9024\|הּ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמָ֔]][[H9024\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H6569\|פִּרְשָׁ֖]][[H9024\|הּ]] [[H8313\|יִשְׂרֹֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic TYPES|TYPES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.4|<< Numbers 19:4]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.6|Numbers 19:6 >>]]</td></tr></table>
 

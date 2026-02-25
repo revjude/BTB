@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 13:15
+type: Verse
+kjv: "Thou shalt surely smite the inhabitants of that city with the edge of the sword, destroying it utterly, and all that is therein, and the cattle thereof, with the edge of the sword."
+bsb: "you must surely put the inhabitants of that city to the sword. Devote to destruction all its people and livestock."
+hebrew: "הַכֵּ֣ה תַכֶּ֗ה אֶת־ יֹֽשְׁבֵ֛י הָעִ֥יר הַהִ֖יא לְפִי־ חָ֑רֶב הַחֲרֵ֨ם אֹתָ֧הּ וְאֶת־ כָּל־ אֲשֶׁר־ בָּ֛הּ וְאֶת־ בְּהֶמְתָּ֖הּ לְפִי־ חָֽרֶב׃"
+pericope: "[[Deut.13.12 Idolatrous Cities to Be Destroyed|Idolatrous Cities to Be Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H2763A]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0929]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Deuteronomy 13:15**<big><big>[[Deut.13.12 Idolatrous Cities to Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt surely smite the inhabitants of that city with the edge of the sword, destroying it utterly, and all that [is] therein, and the cattle thereof, with the edge of the sword.
 <small><sub>**BSB:**</sub></small>
 you must surely put the inhabitants of that city to the sword. Devote to destruction all its people and livestock.
+<small><sub>**Hebrew:**</sub></small>
+[[H5221\|הַכֵּ֣ה]] [[H5221\|תַכֶּ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3427\|יֹֽשְׁבֵ֛י]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H1931\|הִ֖יא]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חָ֑רֶב]] [[H2763A\|הַחֲרֵ֨ם]] [[H0853\|אֹתָ֧]][[H9034\|הּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֛]][[H9034\|הּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0929\|בְּהֶמְתָּ֖]][[H9024\|הּ]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.14|<< Deuteronomy 13:14]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.16|Deuteronomy 13:16 >>]]</td></tr></table>
 
@@ -28,7 +85,7 @@ you must surely put the inhabitants of that city to the sword. Devote to destruc
 | [the] sword  |**<big>&#8207;[[H2719\|חָֽרֶב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cha.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.14|<< Deuteronomy 13:14]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.16|Deuteronomy 13:16 >>]]</td></tr></table>
 
-[^1]: \<the> that  | **<big>[[H1931|הוּא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
-[^2]: \<the> that  | **<big>[[H1931|הוּא]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
+[^1]: \<the> that  | **<big>[[H9009|הַ]]</big><big>[[H1931|הוּא]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
+[^2]: \<the> that  | **<big>[[H9009|הַ]]</big><big>[[H1931|הוּא]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַהִ֖וא</big></span>**
 

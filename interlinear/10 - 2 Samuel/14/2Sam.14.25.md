@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 14:25
+type: Verse
+kjv: "But in all Israel there was none to be so much praised as Absalom for his beauty: from the sole of his foot even to the crown of his head there was no blemish in him."
+bsb: "Now there was not a man in all Israel as handsome and highly praised as Absalom. From the sole of his foot to the top of his head, he did not have a single flaw."
+hebrew: "וּכְאַבְשָׁל֗וֹם לֹא־ הָיָ֧ה אִישׁ־ יָפֶ֛ה בְּכָל־ יִשְׂרָאֵ֖ל לְהַלֵּ֣ל מְאֹ֑ד מִכַּ֤ף רַגְלוֹ֙ וְעַ֣ד קָדְקֳד֔וֹ לֹא־ הָ֥יָה ב֖וֹ מֽוּם׃"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic BEAUTY|BEAUTY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H0053]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H0376G]]"
+- "[[H3303]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H1984B]]"
+- "[[H3966]]"
+- "[[H9006]]"
+- "[[H3709H]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H6936]]"
+- "[[H9033]]"
+- "[[H3971B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:25**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in all Israel there was none to be so much praised as Absalom for his beauty: from the sole of his foot even to the crown of his head there was no blemish in him.
 <small><sub>**BSB:**</sub></small>
 Now there was not a man in all Israel as handsome and highly praised as Absalom. From the sole of his foot to the top of his head, he did not have a single flaw.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H0053\|אַבְשָׁל֗וֹם]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֧ה]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H3303\|יָפֶ֛ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H1984B\|הַלֵּ֣ל]] [[H3966\|מְאֹ֑ד]] [[H9006\|מִ]][[H3709H\|כַּ֤ף]] [[H7272\|רַגְל]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H5704\|עַ֣ד]] [[H6936\|קָדְקֳד֔]][[H9023\|וֹ]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֥יָה]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H3971B\|מֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic BEAUTY|BEAUTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.24|<< 2 Samuel 14:24]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.26|2 Samuel 14:26 >>]]</td></tr></table>
 

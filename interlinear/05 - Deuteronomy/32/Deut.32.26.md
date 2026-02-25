@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 32:26
+type: Verse
+kjv: "I said, I would scatter them into corners, I would make the remembrance of them to cease from among men:"
+bsb: "I would have said that I would cut them to pieces and blot out their memory from mankind,"
+hebrew: "אָמַ֖רְתִּי אַפְאֵיהֶ֑ם אַשְׁבִּ֥יתָה מֵאֱנ֖וֹשׁ זִכְרָֽם׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H0559]]"
+- "[[H6284]]"
+- "[[H9038]]"
+- "[[H7673A]]"
+- "[[H9006]]"
+- "[[H0582]]"
+- "[[H2143]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:26**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said, I would scatter them into corners, I would make the remembrance of them to cease from among men:
 <small><sub>**BSB:**</sub></small>
 I would have said that I would cut them to pieces and blot out their memory from mankind,
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֖רְתִּי]] [[H6284\|אַפְאֵי]][[H9038\|הֶ֑ם]] [[H7673A\|אַשְׁבִּ֥יתָה]] [[H9006\|מֵ]][[H0582\|אֱנ֖וֹשׁ]] [[H2143\|זִכְרָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.25|<< Deuteronomy 32:25]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.27|Deuteronomy 32:27 >>]]</td></tr></table>
 

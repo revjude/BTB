@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Prayer for the Son
+type: Pericope
 pericope: "[[John.17.1 Prayer for the Son|Prayer for the Son]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: John
 chapter: 17
 book/chapter: "[[John.17|John 17]]"
-genre:
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 5
 verses:
 - "[[John.17.1]]"
 - "[[John.17.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[John.17.5]]"
 ---
 
-[[John.17|John 17:1 - John 17:5]]
+<small>[[John.17|John 17:1-5]]</small>
 *Prayer for the Son*
 
 [[John.17.1|1]] These words spake Jesus, and lifted up his eyes to heaven, and said, Father, the hour is come; glorify thy Son, that thy Son also may glorify thee:

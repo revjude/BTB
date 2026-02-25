@@ -1,8 +1,60 @@
+---
+title: Genesis 31:47
+type: Verse
+kjv: "And Laban called it Jegarsahadutha: but Jacob called it Galeed."
+bsb: "Laban called it Jegar-sahadutha, and Jacob called it Galeed."
+aramaic: "וַיִּקְרָא־ ל֣וֹ לָבָ֔ן יְגַ֖ר שָׂהֲדוּתָ֑א וְיַֽעֲקֹ֔ב קָ֥רָא ל֖וֹ גַּלְעֵֽד׃"
+pericope: "[[Gen.31.43 Jacob’s Covenant with Laban|Jacob’s Covenant with Laban]]"
+original_language: Aramaic
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GALEED|GALEED]]"
+- "[[topic JEGAR-SAHADUTHA|JEGAR-SAHADUTHA]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3837A]]"
+- "[[H3026A]]"
+- "[[H3026B]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H1567]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:47**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Laban called it Jegarsahadutha: but Jacob called it Galeed.
 <small><sub>**BSB:**</sub></small>
 Laban called it Jegar-sahadutha, and Jacob called it Galeed.
+<small><sub>**Aramaic:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָא]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H3837A\|לָבָ֔ן]] [[H3026A\|יְגַ֖ר]] [[H3026B\|שָׂהֲדוּתָ֑א]] [[H9002\|וְ]][[H3290\|יַֽעֲקֹ֔ב]] [[H7121H\|קָ֥רָא]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1567\|גַּלְעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic GALEED|GALEED]] • [[topic JEGAR-SAHADUTHA|JEGAR-SAHADUTHA]] • [[topic LABAN|LABAN]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.47|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.46|<< Genesis 31:46]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.48|Genesis 31:48 >>]]</td></tr></table>
 

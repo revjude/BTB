@@ -1,8 +1,60 @@
+---
+title: Isaiah 57:4
+type: Verse
+kjv: "Against whom do ye sport yourselves? against whom make ye a wide mouth, and draw out the tongue? are ye not children of transgression, a seed of falsehood,"
+bsb: "Whom are you mocking? At whom do you sneer and stick out your tongue? Are you not children of transgression, offspring of deceit,"
+hebrew: "עַל־ מִי֙ תִּתְעַנָּ֔גוּ עַל־ מִ֛י תַּרְחִ֥יבוּ פֶ֖ה תַּאֲרִ֣יכוּ לָשׁ֑וֹן הֲלֽוֹא־ אַתֶּ֥ם יִלְדֵי־ פֶ֖שַׁע זֶ֥רַע שָֽׁקֶר׃"
+pericope: "[[Isa.57.3 God Condemns Idolatry|God Condemns Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H6026]]"
+- "[[H7337]]"
+- "[[H6310G]]"
+- "[[H0748]]"
+- "[[H3956G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0859D]]"
+- "[[H3206]]"
+- "[[H6588]]"
+- "[[H2233H]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:4**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Against whom do ye sport yourselves? against whom make ye a wide mouth, [and] draw out the tongue? [are] ye not children of transgression, a seed of falsehood,
 <small><sub>**BSB:**</sub></small>
 Whom are you mocking? At whom do you sneer and stick out your tongue? Are you not children of transgression, offspring of deceit,
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H4310\|מִי֙]] [[H6026\|תִּתְעַנָּ֔גוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4310\|מִ֛י]] [[H7337\|תַּרְחִ֥יבוּ]] [[H6310G\|פֶ֖ה]] [[H0748\|תַּאֲרִ֣יכוּ]] [[H3956G\|לָשׁ֑וֹן]] [[H9008\|הֲ]][[H3808\|לֽוֹא]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H3206\|יִלְדֵי]][[H9014\|־]] [[H6588\|פֶ֖שַׁע]] [[H2233H\|זֶ֥רַע]] [[H8267\|שָֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.3|<< Isaiah 57:3]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.5|Isaiah 57:5 >>]]</td></tr></table>
 

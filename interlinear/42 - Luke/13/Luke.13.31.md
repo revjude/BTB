@@ -1,10 +1,62 @@
+---
+title: Luke 13:31
+type: Verse
+kjv: "The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee."
+bsb: "At that very hour, some Pharisees came to Jesus and told Him, “Leave this place and get away, because Herod wants to kill You.”"
+greek: "Ἐν αὐτῇ τῇ ὥρᾳ προσῆλθάν τινες Φαρισαῖοι λέγοντες αὐτῷ· ἔξελθε καὶ πορεύου ἐντεῦθεν, ὅτι Ἡρῴδης θέλει σε ἀποκτεῖναι.¶"
+pericope: "[[Luke.13.31 Lament over Jerusalem|Lament over Jerusalem]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5610]]"
+- "[[G4334]]"
+- "[[G5100]]"
+- "[[G5330]]"
+- "[[G3004G]]"
+- "[[G1831]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G1782]]"
+- "[[G3754H]]"
+- "[[G2264H]]"
+- "[[G2309]]"
+- "[[G4771]]"
+- "[[G0615]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 13:31**<big><big>[[Luke.13.31 Lament over Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.
 <small><sub>**BSB:**</sub></small>
 At that very hour, some Pharisees came to Jesus and told Him, “Leave this place and get away, because Herod wants to kill You.”
-<small><sub>**Literal:**</sub></small>
-In same the hour came near certain Pharisees saying to Him; do go out and do proceed from here, for Herod desires You to kill.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.30|<< Luke 13:30]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.32|Luke 13:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G0846\|αὐτῇ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ]]  [[G4334\|προσῆλθάν]]  [[G5100\|τινες]]  [[G5330\|Φαρισαῖοι]]  [[G3004G\|λέγοντες]]  [[G0846\|αὐτῷ·]]  [[G1831\|ἔξελθε]]  [[G2532\|καὶ]]  [[G4198\|πορεύου]]  [[G1782\|ἐντεῦθεν,]]  [[G3754H\|ὅτι]]  [[G2264H\|Ἡρῴδης]]  [[G2309\|θέλει]]  [[G4771\|σε]]  [[G0615\|ἀποκτεῖναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.30|<< Luke 13:30]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.32|Luke 13:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

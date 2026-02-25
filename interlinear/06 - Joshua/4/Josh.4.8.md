@@ -1,8 +1,74 @@
+---
+title: Joshua 4:8
+type: Verse
+kjv: "And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as the LORD spake unto Joshua, according to the number of the tribes of the children of Israel, and carried them over with them unto the place where they lodged, and laid them down there."
+bsb: "Thus the Israelites did as Joshua had commanded them. They took up twelve stones from the middle of the Jordan, one for each tribe of Israel, just as the LORD had told Joshua; and they carried them to the camp, where they set them down."
+hebrew: "וַיַּעֲשׂוּ־ כֵ֣ן בְּנֵי־ יִשְׂרָאֵ֘ל כַּאֲשֶׁ֣ר צִוָּ֣ה יְהוֹשֻׁעַ֒ וַיִּשְׂא֡וּ שְׁתֵּֽי־ עֶשְׂרֵ֨ה אֲבָנִ֜ים מִתּ֣וֹךְ הַיַּרְדֵּ֗ן כַּאֲשֶׁ֨ר דִּבֶּ֤ר יְהוָה֙ אֶל־ יְהוֹשֻׁ֔עַ לְמִסְפַּ֖ר שִׁבְטֵ֣י בְנֵֽי־ יִשְׂרָאֵ֑ל וַיַּעֲבִר֤וּם עִמָּם֙ אֶל־ הַמָּל֔וֹן וַיַּנִּח֖וּם שָֽׁם׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3091G]]"
+- "[[H5375G]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H0068G]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9005]]"
+- "[[H4557]]"
+- "[[H7626H]]"
+- "[[H5674C]]"
+- "[[H9038]]"
+- "[[H5973A]]"
+- "[[H4411]]"
+- "[[H5117]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:8**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as the LORD spake unto Joshua, according to the number of the tribes of the children of Israel, and carried them over with them unto the place where they lodged, and laid them down there.
 <small><sub>**BSB:**</sub></small>
 Thus the Israelites did as Joshua had commanded them. They took up twelve stones from the middle of the Jordan, one for each tribe of Israel, just as the LORD had told Joshua; and they carried them to the camp, where they set them down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּעֲשׂוּ]][[H9014\|־]] [[H3651C\|כֵ֣ן]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֘ל]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֣ה]] [[H3091G\|יְהוֹשֻׁעַ֒]] [[H9001\|וַ]][[H5375G\|יִּשְׂא֡וּ]] [[H8147\|שְׁתֵּֽי]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֨ה]] [[H0068G\|אֲבָנִ֜ים]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֗ן]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֤ר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H9005\|לְ]][[H4557\|מִסְפַּ֖ר]] [[H7626H\|שִׁבְטֵ֣י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5674C\|יַּעֲבִר֤וּ]][[H9038\|ם]] [[H5973A\|עִמָּ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4411\|מָּל֔וֹן]] [[H9001\|וַ]][[H5117\|יַּנִּח֖וּ]][[H9038\|ם]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PILLAR|PILLAR]] • [[topic STONES|STONES]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.7|<< Joshua 4:7]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.9|Joshua 4:9 >>]]</td></tr></table>
 

@@ -1,10 +1,80 @@
+---
+title: Luke 18:11
+type: Verse
+kjv: "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican."
+bsb: "The Pharisee stood by himself and prayed, ‘God, I thank You that I am not like other men—swindlers, evildoers, adulterers—or even like this tax collector."
+jesus_said: "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican."
+greek: "ὁ Φαρισαῖος σταθεὶς πρὸς ἑαυτὸν ταῦτα προσηύχετο· ὁ θεός, εὐχαριστῶ σοι ὅτι οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ τῶν ἀνθρώπων, ἅρπαγες, ἄδικοι, μοιχοί, ἢ καὶ ὡς οὗτος ὁ τελώνης."
+pericope: "[[Luke.18.9 The Pharisee and the Tax Collector|The Pharisee and the Tax Collector]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CONCEIT|CONCEIT]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TAX|TAX]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G2476]]"
+- "[[G4314]]"
+- "[[G1438]]"
+- "[[G3778]]"
+- "[[G4336]]"
+- "[[G2316]]"
+- "[[G2168]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5618]]"
+- "[[G3062]]"
+- "[[G0444]]"
+- "[[G0727]]"
+- "[[G0094]]"
+- "[[G3432]]"
+- "[[G2228]]"
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[G5057]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 18:11**<big><big>[[Luke.18.9 The Pharisee and the Tax Collector|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men [are], extortioners, unjust, adulterers, or even as this publican.
 <small><sub>**BSB:**</sub></small>
 The Pharisee stood by himself and prayed, ‘God, I thank You that I am not like other men—swindlers, evildoers, adulterers—or even like this tax collector.
-<small><sub>**Literal:**</sub></small>
-The Pharisee having stood toward himself these things was praying; O God, I thank You that not I am like the rest of the men — swindlers, unrighteous, adulterers — or even like this <the> tax collector.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.10|<< Luke 18:10]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.12|Luke 18:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G5330\|Φαρισαῖος]]  [[G2476\|σταθεὶς]]  [[G4314\|πρὸς]]  [[G1438\|ἑαυτὸν]]  [[G3778\|ταῦτα]]  [[G4336\|προσηύχετο·]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G2168\|εὐχαριστῶ]]  [[G4771\|σοι]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G1510\|εἰμὶ]]  [[G5618\|ὥσπερ]]  [[G3588\|οἱ]]  [[G3062\|λοιποὶ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων,]]  [[G0727\|ἅρπαγες,]]  [[G0094\|ἄδικοι,]]  [[G3432\|μοιχοί,]]  [[G2228\|ἢ]]  [[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G5057\|τελώνης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CONCEIT|CONCEIT]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic EXTORTION|EXTORTION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PUBLICANS|PUBLICANS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TAX|TAX]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.10|<< Luke 18:10]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.12|Luke 18:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,64 @@
+---
+title: Matthew 19:9
+type: Verse
+kjv: "And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery."
+bsb: "Now I tell you that whoever divorces his wife, except for sexual immorality, and marries another woman commits adultery.”"
+jesus_said: "And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery."
+greek: "Λέγω δὲ ὑμῖν· ὅτι ὃς ἂν ἀπολύσῃ τὴν γυναῖκα αὐτοῦ εἰ μὴ ἐπὶ πορνείᾳ καὶ γαμήσῃ ἄλλην, μοιχᾶται. καὶ ὁ ἀπολελυμένην γαμήσας μοιχᾶται.¶"
+pericope: "[[Matt.19.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G0630H]]"
+- "[[G3588]]"
+- "[[G1135H]]"
+- "[[G0846]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1909]]"
+- "[[G4202]]"
+- "[[G2532]]"
+- "[[G1060]]"
+- "[[G0243]]"
+- "[[G3429]]"
+texts:
+- NKO
+- k
+- KO
+---
+
 **Matthew 19:9**<big><big>[[Matt.19.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I say unto you, Whosoever shall put away his wife, except [it be] for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery.
 <small><sub>**BSB:**</sub></small>
 Now I tell you that whoever divorces his wife, except for sexual immorality, and marries another woman commits adultery.”
-<small><sub>**Literal:**</sub></small>
-I say now to you: that who[ever] maybe may divorce the wife of him only except for sexual immorality and shall marry another, commits adultery. and which divorced having married commits adultery.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.8|<< Matthew 19:8]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.10|Matthew 19:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγω]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν·]]  [[G3754G\|ὅτι]]  [[G3739\|ὃς]]  [[G0302\|ἂν]]  [[G0630H\|ἀπολύσῃ]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1909\|ἐπὶ]]  [[G4202\|πορνείᾳ]]  [[G2532\|καὶ]]  [[G1060\|γαμήσῃ]]  [[G0243\|ἄλλην,]]  [[G3429\|μοιχᾶται.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0630H\|ἀπολελυμένην]]  [[G1060\|γαμήσας]]  [[G3429\|μοιχᾶται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DIVORCE|DIVORCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.8|<< Matthew 19:8]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.10|Matthew 19:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

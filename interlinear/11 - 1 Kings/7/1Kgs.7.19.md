@@ -1,8 +1,66 @@
+---
+title: 1 Kings 7:19
+type: Verse
+kjv: "And the chapiters that were upon the top of the pillars were of lily work in the porch, four cubits."
+bsb: "And the capitals atop the pillars in the portico were shaped like lilies, four cubits high."
+hebrew: "וְכֹֽתָרֹ֗ת אֲשֶׁר֙ עַל־ רֹ֣אשׁ הָעַמּוּדִ֔ים מַעֲשֵׂ֖ה שׁוּשַׁ֣ן בָּֽאוּלָ֑ם אַרְבַּ֖ע אַמּֽוֹת׃"
+pericope: "[[1Kgs.7.13 The Pillars and Capitals|The Pillars and Capitals]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic LILY|LILY]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3805]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H5982G]]"
+- "[[H4639G]]"
+- "[[H7799]]"
+- "[[H9003]]"
+- "[[H0197J]]"
+- "[[H0702]]"
+- "[[H0520A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:19**<big><big>[[1Kgs.7.13 The Pillars and Capitals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chapiters that [were] upon the top of the pillars [were] of lily work in the porch, four cubits.
 <small><sub>**BSB:**</sub></small>
 And the capitals atop the pillars in the portico were shaped like lilies, four cubits high.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3805\|כֹֽתָרֹ֗ת]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218I\|רֹ֣אשׁ]] [[H9009\|הָ]][[H5982G\|עַמּוּדִ֔ים]] [[H4639G\|מַעֲשֵׂ֖ה]] [[H7799\|שׁוּשַׁ֣ן]] [[H9003\|בָּֽ]][[H0197J\|אוּלָ֑ם]] [[H0702\|אַרְבַּ֖ע]] [[H0520A\|אַמּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic CHAPITER|CHAPITER]] • [[topic HIRAM|HIRAM]] • [[topic LILY|LILY]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic PILLAR|PILLAR]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.18|<< 1 Kings 7:18]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.20|1 Kings 7:20 >>]]</td></tr></table>
 

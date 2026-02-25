@@ -1,6 +1,83 @@
+---
+title: LXX Jeremiah 31:33
+type: Verse
+lxx: "For this  is my covenant which I shall ordain with the house of Israel after  those days, says the lord; I will put my laws into  their mind, and I will write them upon their hearts; and I will be to them for God, and they will be to me for a people."
+greek: "ότι αύτη η διαθήκη μου ην διαθήσομαι τω οίκω Ισραήλ μετά τας ημέρας εκείνας φησί κύριος δώσω νόμους μου εις την διάνοιαν αυτών και επί καρδίας αυτών γράψω αυτούς και έσομαι αυτοίς εις θεόν και αυτοί έσονταί μοι εις λαόν"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3754]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1242]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G1303]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2474]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G5346]]"
+- "[[G2962]]"
+- "[[G1325]]"
+- "[[G3551]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1271]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G1125]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G2992]]"
+---
+
 **LXX Jeremiah 31:33** 
 <small><sub>**LXX:**</sub></small>
 For this  \[is\] my covenant which I shall ordain with \[the\] house of Israel after  those days, says \[the\] <span class="smallcaps">lord</span>; I will put my laws into  their mind, and I will write them upon their hearts; and I will be to them for God, and they will be to me for a people. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G3778\|αύτη]] [[G3588\|η]] [[G1242\|διαθήκη]] [[G1473\|μου]] [[G3739\|ην]] [[G1303\|διαθήσομαι]] [[G3588\|τω]] [[G3624\|οίκω]] [[G2474\|Ισραήλ]] [[G3326\|μετά]] [[G3588\|τας]] [[G2250\|ημέρας]] [[G1565\|εκείνας]] [[G5346\|φησί]] [[G2962\|κύριος]] [[G1325\|δώσω]] [[G3551\|νόμους]] [[G1473\|μου]] [[G1519\|εις]] [[G3588\|την]] [[G1271\|διάνοιαν]] [[G1473\|αυτών]] [[G2532\|και]] [[G1909\|επί]] [[G2588\|καρδίας]] [[G1473\|αυτών]] [[G1125\|γράψω]] [[G1473\|αυτούς]] [[G2532\|και]] [[G1510\|έσομαι]] [[G1473\|αυτοίς]] [[G1519\|εις]] [[G2316\|θεόν]] [[G2532\|και]] [[G1473\|αυτοί]] [[G1510\|έσονταί]] [[G1473\|μοι]] [[G1519\|εις]] [[G2992\|λαόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic GOSPEL|GOSPEL]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.31.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.32|<< Jeremiah 31:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.34|Jeremiah 31:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -46,6 +123,6 @@ For this  \[is\] my covenant which I shall ordain with \[the\] house of Israel a
 | to me | **<big>[[G1473\|μοι]]</big>** |
 | for | **<big>[[G1519\|εις]]</big>** |
 | a people. | **<big>[[G2992\|λαόν]]</big>** |
-[[Jer.31.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.32|<< Jeremiah 31:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.34|Jeremiah 31:34 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.31.32|<< Jeremiah 31:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.31.34|Jeremiah 31:34 >>]]</td></tr></table>
 
 

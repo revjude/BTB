@@ -1,10 +1,65 @@
+---
+title: 1 Corinthians 14:16
+type: Verse
+kjv: "Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?"
+bsb: "Otherwise, if you speak a blessing in spirit, how can someone who is uninstructed say “Amen” to your thanksgiving, since he does not know what you are saying?"
+greek: "ἐπεὶ ἐὰν εὐλογῇς ἐν πνεύματι, ὁ ἀναπληρῶν τὸν τόπον τοῦ ἰδιώτου πῶς ἐρεῖ τὸ ἀμὴν ἐπὶ τῇ σῇ εὐχαριστίᾳ; ἐπειδὴ τί λέγεις οὐκ οἶδεν·"
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic INTERPRETATION|INTERPRETATION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G1893]]"
+- "[[G1437]]"
+- "[[G2127]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G3588]]"
+- "[[G0378]]"
+- "[[G5117]]"
+- "[[G2399]]"
+- "[[G4459]]"
+- "[[G4483]]"
+- "[[G0281]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G2169]]"
+- "[[G1894]]"
+- "[[G5101]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G6063]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 14:16**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Else when thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?
 <small><sub>**BSB:**</sub></small>
 Otherwise, if you speak a blessing in spirit, how can someone who is uninstructed say “Amen” to your thanksgiving, since he does not know what you are saying?
-<small><sub>**Literal:**</sub></small>
-Otherwise if you shall bless in [the] spirit, the [one] filling the place of the uninstructed how will he say the Amen at <the> your thanksgiving? since what you say [is that] not he knows;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.15|<< 1 Corinthians 14:15]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.17|1 Corinthians 14:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1893\|ἐπεὶ]]  [[G1437\|ἐὰν]]  [[G2127\|εὐλογῇς]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι,]]  [[G3588\|ὁ]]  [[G0378\|ἀναπληρῶν]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G3588\|τοῦ]]  [[G2399\|ἰδιώτου]]  [[G4459\|πῶς]]  [[G4483\|ἐρεῖ]]  [[G3588\|τὸ]]  [[G0281\|ἀμὴν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G4771\|σῇ]]  [[G2169\|εὐχαριστίᾳ;]]  [[G1894\|ἐπειδὴ]]  [[G5101\|τί]]  [[G3004G\|λέγεις]]  [[G3756\|οὐκ]]  [[G6063\|οἶδεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic INTERPRETATION|INTERPRETATION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.15|<< 1 Corinthians 14:15]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.17|1 Corinthians 14:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,49 @@
+---
+title: Ecclesiastes 3:7
+type: Verse
+kjv: "A time to rend, and a time to sew; a time to keep silence, and a time to speak;"
+bsb: "a time to tear and a time to mend, a time to be silent and a time to speak,"
+hebrew: "עֵ֤ת לִקְר֙וֹעַ֙ וְעֵ֣ת לִתְפּ֔וֹר עֵ֥ת לַחֲשׁ֖וֹת וְעֵ֥ת לְדַבֵּֽר׃"
+pericope: "[[Eccl.3.1 To Everything There Is a Season|To Everything There Is a Season]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[H6256]]"
+- "[[H9005]]"
+- "[[H7167]]"
+- "[[H9002]]"
+- "[[H8609]]"
+- "[[H2814]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:7**<big><big>[[Eccl.3.1 To Everything There Is a Season|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A time to rend, and a time to sew; a time to keep silence, and a time to speak;
 <small><sub>**BSB:**</sub></small>
 a time to tear and a time to mend, a time to be silent and a time to speak,
+<small><sub>**Hebrew:**</sub></small>
+[[H6256\|עֵ֤ת]] [[H9005\|לִ]][[H7167\|קְר֙וֹעַ֙]] [[H9002\|וְ]][[H6256\|עֵ֣ת]] [[H9005\|לִ]][[H8609\|תְפּ֔וֹר]] [[H6256\|עֵ֥ת]] [[H9005\|לַ]][[H2814\|חֲשׁ֖וֹת]] [[H9002\|וְ]][[H6256\|עֵ֥ת]] [[H9005\|לְ]][[H1696G\|דַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]] • [[topic TONGUE|TONGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.6|<< Ecclesiastes 3:6]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.8|Ecclesiastes 3:8 >>]]</td></tr></table>
 

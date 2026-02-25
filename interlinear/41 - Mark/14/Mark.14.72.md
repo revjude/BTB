@@ -1,10 +1,74 @@
+---
+title: Mark 14:72
+type: Verse
+kjv: "And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept."
+bsb: "And immediately the rooster crowed a second time. Then Peter remembered the word that Jesus had spoken to him: “Before the rooster crows twice, you will deny Me three times.” And he broke down and wept."
+greek: "καὶ εὐθὺς ἐκ δευτέρου ἀλέκτωρ ἐφώνησεν, καὶ ἀνεμνήσθη ὁ Πέτρος τὸ ῥῆμα ὡς οὖ εἶπεν αὐτῷ ὁ Ἰησοῦς ὅτι πρὶν ἀλέκτορα φωνῆσαι δίς, τρίς με ἀπαρνήσῃ. καὶ ἐπιβαλὼν ἔκλαιεν.¶"
+pericope: "[[Mark.14.66 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COCK CROWING|COCK CROWING]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G1537]]"
+- "[[G1208]]"
+- "[[G0220]]"
+- "[[G5455]]"
+- "[[G0363]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G4487]]"
+- "[[G5613]]"
+- "[[G3739]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G3754G]]"
+- "[[G4250]]"
+- "[[G1364]]"
+- "[[G5151]]"
+- "[[G3165]]"
+- "[[G0533]]"
+- "[[G1911]]"
+- "[[G2799]]"
+texts:
+- NKO
+- NO
+- N(k)O
+- k(o)
+---
+
 **Mark 14:72**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept.
 <small><sub>**BSB:**</sub></small>
 And immediately the rooster crowed a second time. Then Peter remembered the word that Jesus had spoken to him: “Before the rooster crows twice, you will deny Me three times.” And he broke down and wept.
-<small><sub>**Literal:**</sub></small>
-And immediately for [the] second time a rooster crowed, And remembered <the> Peter the declaration [was] like which had said to him <the> Jesus that Before [the] rooster crowing twice three times Me you will deny. And having broken down he was weeping.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.71|<< Mark 14:71]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.1|Mark 15:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2112\|εὐθὺς]]  [[G1537\|ἐκ]]  [[G1208\|δευτέρου]]  [[G0220\|ἀλέκτωρ]]  [[G5455\|ἐφώνησεν,]]  [[G2532\|καὶ]]  [[G0363\|ἀνεμνήσθη]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G3588\|τὸ]]  [[G4487\|ῥῆμα]]  [[G5613\|ὡς]]  [[G3739\|οὖ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3754G\|ὅτι]]  [[G4250\|πρὶν]]  [[G0220\|ἀλέκτορα]]  [[G5455\|φωνῆσαι]]  [[G1364\|δίς,]]  [[G5151\|τρίς]]  [[G3165\|με]]  [[G0533\|ἀπαρνήσῃ.]]  [[G2532\|καὶ]]  [[G1911\|ἐπιβαλὼν]]  [[G2799\|ἔκλαιεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COCK CROWING|COCK CROWING]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic COWARDICE|COWARDICE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRISONERS|PRISONERS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WEEPING|WEEPING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.71|<< Mark 14:71]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.1|Mark 15:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

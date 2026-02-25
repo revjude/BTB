@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 26:1
+type: Verse
+kjv: "And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon?"
+bsb: "Then the Ziphites came to Saul at Gibeah and said, “Is not David hiding on the hill of Hachilah, opposite Jeshimon?”"
+hebrew: "וַיָּבֹ֤אוּ הַזִּפִים֙ אֶל־ שָׁא֔וּל הַגִּבְעָ֖תָה לֵאמֹ֑ר הֲל֨וֹא דָוִ֤ד מִסְתַּתֵּר֙ בְּגִבְעַ֣ת הַחֲכִילָ֔ה עַ֖ל פְּנֵ֥י הַיְשִׁימֹֽן׃"
+pericope: "[[1Sam.26.1 David Again Spares Saul|David Again Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JESHIMON|JESHIMON]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H2130]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H1390H]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1732]]"
+- "[[H5641]]"
+- "[[H9003]]"
+- "[[H1389I]]"
+- "[[H2444]]"
+- "[[H5921A]]"
+- "[[H6440K]]"
+- "[[H3452G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 26:1**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, [which is] before Jeshimon?
 <small><sub>**BSB:**</sub></small>
 Then the Ziphites came to Saul at Gibeah and said, “Is not David hiding on the hill of Hachilah, opposite Jeshimon?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤אוּ]] [[H9009\|הַ]][[H2130\|זִּפִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9009\|הַ]][[H1390H\|גִּבְעָ֖תָ]][[H9011\|ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9008\|הֲ]][[H3808\|ל֨וֹא]] [[H1732\|דָוִ֤ד]] [[H5641\|מִסְתַּתֵּר֙]] [[H9003\|בְּ]][[H1389I\|גִבְעַ֣ת]] [[H9009\|הַ]][[H2444\|חֲכִילָ֔ה]] [[H5921A\|עַ֖ל]] [[H6440K\|פְּנֵ֥י]] [[H9009\|הַ]][[H3452G\|יְשִׁימֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESHIMON|JESHIMON]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.44|<< 1 Samuel 25:44]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.2|1 Samuel 26:2 >>]]</td></tr></table>
 

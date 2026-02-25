@@ -1,8 +1,61 @@
+---
+title: Ezekiel 38:3
+type: Verse
+kjv: "And say, Thus saith the Lord GOD; Behold, I am against thee, O Gog, the chief prince of Meshech and Tubal:"
+bsb: "and declare that this is what the Lord GOD says: Behold, I am against you, O Gog, chief prince of Meshech and Tubal."
+hebrew: "וְאָ֣מַרְתָּ֔ כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הִנְנִ֤י אֵלֶ֙יךָ֙ גּ֔וֹג נְשִׂ֕יא רֹ֖אשׁ מֶ֥שֶׁךְ וְתֻבָֽל׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MESHECH|MESHECH]]"
+- "[[topic ROSH|ROSH]]"
+- "[[topic TUBAL|TUBAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H1463H]]"
+- "[[H5387A]]"
+- "[[H7218B]]"
+- "[[H4902H]]"
+- "[[H9002]]"
+- "[[H8422H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:3**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say, Thus saith the Lord GOD; Behold, I [am] against thee, O Gog, the chief prince of Meshech and Tubal:
 <small><sub>**BSB:**</sub></small>
 and declare that this is what the Lord GOD says: Behold, I am against you, O Gog, chief prince of Meshech and Tubal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָ֣מַרְתָּ֔]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H1463H\|גּ֔וֹג]] [[H5387A\|נְשִׂ֕יא]] [[H7218B\|רֹ֖אשׁ]] [[H4902H\|מֶ֥שֶׁךְ]] [[H9002\|וְ]][[H8422H\|תֻבָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MESHECH|MESHECH]] • [[topic ROSH|ROSH]] • [[topic TUBAL|TUBAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.2|<< Ezekiel 38:2]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.4|Ezekiel 38:4 >>]]</td></tr></table>
 

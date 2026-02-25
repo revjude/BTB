@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Gentle Answer Turns Away Wrath
+type: Pericope
 pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
-verse_count: 33
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 15
 book/chapter: "[[Prov.15|Proverbs 15]]"
-genre:
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 33
 verses:
 - "[[Prov.15.1]]"
 - "[[Prov.15.2]]"
@@ -51,7 +58,7 @@ verses:
 - "[[Prov.15.33]]"
 ---
 
-[[Prov.15|Proverbs 15:1 - Proverbs 15:33]]
+<small>[[Prov.15|Proverbs 15:1-33]]</small>
 *A Gentle Answer Turns Away Wrath*
 
 [[Prov.15.1|1]] A soft answer turneth away wrath: but grievous words stir up anger.

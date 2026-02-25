@@ -1,10 +1,56 @@
+---
+title: Mark 3:14
+type: Verse
+kjv: "And he ordained twelve, that they should be with him, and that he might send them forth to preach,"
+bsb: "He appointed twelve of them, whom He designated as apostles, to accompany Him, to be sent out to preach,"
+greek: "Καὶ ἐποίησεν δώδεκα οὓς καὶ ἀποστόλους ὠνόμασεν ἵνα ὦσιν μετ᾽ αὐτοῦ καὶ ἵνα ἀποστέλλῃ αὐτοὺς κηρύσσειν"
+pericope: "[[Mark.3.13 The Twelve Apostles|The Twelve Apostles]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CALL|CALL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160I]]"
+- "[[G1427]]"
+- "[[G3739]]"
+- "[[G0652]]"
+- "[[G3687]]"
+- "[[G2443]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G0649]]"
+- "[[G2784]]"
+texts:
+- NKO
+- NO
+---
+
 **Mark 3:14**<big><big>[[Mark.3.13 The Twelve Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he ordained twelve, that they should be with him, and that he might send them forth to preach,
 <small><sub>**BSB:**</sub></small>
 He appointed twelve of them, whom He designated as apostles, to accompany Him, to be sent out to preach,
-<small><sub>**Literal:**</sub></small>
-And He appointed twelve whom also apostles He called [them] that they may be with Him and that He may send them to preach<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.13|<< Mark 3:13]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.15|Mark 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4160I\|ἐποίησεν]]  [[G1427\|δώδεκα]]  [[G3739\|οὓς]]  [[G2532\|καὶ]]  [[G0652\|ἀποστόλους]]  [[G3687\|ὠνόμασεν]]  [[G2443\|ἵνα]]  [[G1510\|ὦσιν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2443\|ἵνα]]  [[G0649\|ἀποστέλλῃ]]  [[G0846\|αὐτοὺς]]  [[G2784\|κηρύσσειν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CALL|CALL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.13|<< Mark 3:13]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.15|Mark 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

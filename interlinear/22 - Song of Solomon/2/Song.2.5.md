@@ -1,8 +1,51 @@
+---
+title: Song of Solomon 2:5
+type: Verse
+kjv: "Stay me with flagons, comfort me with apples: for I am sick of love."
+bsb: "Sustain me with raisins; refresh me with apples, for I am faint with love."
+hebrew: "סַמְּכ֙וּנִי֙ בָּֽאֲשִׁישׁ֔וֹת רַפְּד֖וּנִי בַּתַּפּוּחִ֑ים כִּי־ חוֹלַ֥ת אַהֲבָ֖ה אָֽנִי׃"
+pericope: "[[Song.2.3 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic APPLE|APPLE]]"
+strongs:
+- "[[H5564]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H0809]]"
+- "[[H7502]]"
+- "[[H8598]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2470H]]"
+- "[[H0160]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:5**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stay me with flagons, comfort me with apples: for I [am] sick of love.
 <small><sub>**BSB:**</sub></small>
 Sustain me with raisins; refresh me with apples, for I am faint with love.
+<small><sub>**Hebrew:**</sub></small>
+[[H5564\|סַמְּכ֙וּ]][[H9030\|נִי֙]] [[H9003\|בָּֽ]][[H0809\|אֲשִׁישׁ֔וֹת]] [[H7502\|רַפְּד֖וּ]][[H9030\|נִי]] [[H9003\|בַּ]][[H8598\|תַּפּוּחִ֑ים]] [[H3588A\|כִּי]][[H9014\|־]] [[H2470H\|חוֹלַ֥ת]] [[H0160\|אַהֲבָ֖ה]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPLE|APPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.4|<< Song of Solomon 2:4]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.6|Song of Solomon 2:6 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on the Philistines
+type: Pericope
 pericope: "[[Zeph.2.4 Judgment on the Philistines|Judgment on the Philistines]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 2
 book/chapter: "[[Zeph.2|Zephaniah 2]]"
-genre:
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 4
 verses:
 - "[[Zeph.2.4]]"
 - "[[Zeph.2.5]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Zeph.2.7]]"
 ---
 
-[[Zeph.2|Zephaniah 2:4 - Zephaniah 2:7]]
+<small>[[Zeph.2|Zephaniah 2:4-7]]</small>
 *Judgment on the Philistines*
 
 [[Zeph.2.4|4]] For Gaza shall be forsaken, and Ashkelon a desolation: they shall drive out Ashdod at the noon day, and Ekron shall be rooted up.

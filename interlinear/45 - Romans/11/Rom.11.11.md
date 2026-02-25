@@ -1,10 +1,57 @@
+---
+title: Romans 11:11
+type: Verse
+kjv: "I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy."
+bsb: "I ask then, did they stumble so as to fall beyond recovery? Certainly not! However, because of their trespass, salvation has come to the Gentiles to make Israel jealous."
+greek: "Λέγω οὖν, μὴ ἔπταισαν ἵνα πέσωσιν; μὴ γένοιτο. ἀλλὰ τῷ αὐτῶν παραπτώματι ἡ σωτηρία τοῖς ἔθνεσιν εἰς τὸ παραζηλῶσαι αὐτούς."
+pericope: "[[Rom.11.11 The Ingrafting of the Gentiles|The Ingrafting of the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G3361]]"
+- "[[G4417]]"
+- "[[G2443]]"
+- "[[G4098]]"
+- "[[G1096]]"
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G3900]]"
+- "[[G4991]]"
+- "[[G1484]]"
+- "[[G1519]]"
+- "[[G3863]]"
+texts:
+- NKO
+---
+
 **Romans 11:11**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I say then, Have they stumbled that they should fall? God forbid: but [rather] through their fall salvation [is come] unto the Gentiles, for to provoke them to jealousy.
 <small><sub>**BSB:**</sub></small>
 I ask then, did they stumble so as to fall beyond recovery? Certainly not! However, because of their trespass, salvation has come to the Gentiles to make Israel jealous.
-<small><sub>**Literal:**</sub></small>
-I say then, surely not they did stumble so that they may fall? Never would it be! But in the of them trespass <the> [is] salvation to the Gentiles so as <the> to provoke to jealousy them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.10|<< Romans 11:10]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.12|Romans 11:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγω]]  [[G3767\|οὖν,]]  [[G3361\|μὴ]]  [[G4417\|ἔπταισαν]]  [[G2443\|ἵνα]]  [[G4098\|πέσωσιν;]]  [[G3361\|μὴ]]  [[G1096\|γένοιτο.]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῷ]]  [[G0846\|αὐτῶν]]  [[G3900\|παραπτώματι]]  [[G3588\|ἡ]]  [[G4991\|σωτηρία]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3863\|παραζηλῶσαι]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMULATION|EMULATION]] • [[topic GENTILES|GENTILES]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.10|<< Romans 11:10]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.12|Romans 11:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

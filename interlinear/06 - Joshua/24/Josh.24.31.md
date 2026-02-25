@@ -1,8 +1,62 @@
+---
+title: Joshua 24:31
+type: Verse
+kjv: "And Israel served the LORD all the days of Joshua, and all the days of the elders that overlived Joshua, and which had known all the works of the LORD, that he had done for Israel."
+bsb: "Israel had served the LORD throughout the days of Joshua and of the elders who outlived him and who had experienced all the works that the LORD had done for Israel."
+hebrew: "וַיַּעֲבֹ֤ד יִשְׂרָאֵל֙ אֶת־ יְהוָ֔ה כֹּ֖ל יְמֵ֣י יְהוֹשֻׁ֑עַ וְכֹ֣ל׀ יְמֵ֣י הַזְּקֵנִ֗ים אֲשֶׁ֨ר הֶאֱרִ֤יכוּ יָמִים֙ אַחֲרֵ֣י יְהוֹשֻׁ֔עַ וַאֲשֶׁ֣ר יָדְע֗וּ אֵ֚ת כָּל־ מַעֲשֵׂ֣ה יְהוָ֔ה אֲשֶׁ֥ר עָשָׂ֖ה לְיִשְׂרָאֵֽל׃"
+pericope: "[[Josh.24.29 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5647H]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H2205G]]"
+- "[[H0834A]]"
+- "[[H0748]]"
+- "[[H0310A]]"
+- "[[H3045]]"
+- "[[H4639G]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:31**<big><big>[[Josh.24.29 Joshua’s Death and Burial|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel served the LORD all the days of Joshua, and all the days of the elders that overlived Joshua, and which had known all the works of the LORD, that he had done for Israel.
 <small><sub>**BSB:**</sub></small>
 Israel had served the LORD throughout the days of Joshua and of the elders who outlived him and who had experienced all the works that the LORD had done for Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5647H\|יַּעֲבֹ֤ד]] [[H3478\|יִשְׂרָאֵל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3605\|כֹּ֖ל]] [[H3117G\|יְמֵ֣י]] [[H3091G\|יְהוֹשֻׁ֑עַ]] [[H9002\|וְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H3117G\|יְמֵ֣י]] [[H9009\|הַ]][[H2205G\|זְּקֵנִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H0748\|הֶאֱרִ֤יכוּ]] [[H3117G\|יָמִים֙]] [[H0310A\|אַחֲרֵ֣י]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֣ר]] [[H3045\|יָדְע֗וּ]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֖ה]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.30|<< Joshua 24:30]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.32|Joshua 24:32 >>]]</td></tr></table>
 

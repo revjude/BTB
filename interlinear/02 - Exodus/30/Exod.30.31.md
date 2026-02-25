@@ -1,8 +1,64 @@
+---
+title: Exodus 30:31
+type: Verse
+kjv: "And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations."
+bsb: "And you are to tell the Israelites, ‘This will be My sacred anointing oil for the generations to come."
+hebrew: "וְאֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר שֶׁ֠מֶן מִשְׁחַת־ קֹ֨דֶשׁ יִהְיֶ֥ה זֶ֛ה לִ֖י לְדֹרֹתֵיכֶֽם׃"
+pericope: "[[Exod.30.22 The Anointing Oil|The Anointing Oil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANOINTING OIL|ANOINTING OIL]]"
+- "[[topic OIL|OIL]]"
+- "[[topic OINTMENT|OINTMENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H8081]]"
+- "[[H4888A]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H2088]]"
+- "[[H9030]]"
+- "[[H1755]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:31**<big><big>[[Exod.30.22 The Anointing Oil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations.
 <small><sub>**BSB:**</sub></small>
 And you are to tell the Israelites, ‘This will be My sacred anointing oil for the generations to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1696G\|תְּדַבֵּ֣ר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H8081\|שֶׁ֠מֶן]] [[H4888A\|מִשְׁחַת]][[H9014\|־]] [[H6944G\|קֹ֨דֶשׁ]] [[H1961\|יִהְיֶ֥ה]] [[H2088\|זֶ֛ה]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לְ]][[H1755\|דֹרֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING OIL|ANOINTING OIL]] • [[topic OIL|OIL]] • [[topic OINTMENT|OINTMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.30|<< Exodus 30:30]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.32|Exodus 30:32 >>]]</td></tr></table>
 

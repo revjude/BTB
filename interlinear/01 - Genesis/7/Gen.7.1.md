@@ -1,8 +1,73 @@
+---
+title: Genesis 7:1
+type: Verse
+kjv: "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation."
+bsb: "Then the LORD said to Noah, “Go into the ark, you and all your family, because I have found you righteous in this generation."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא־ אַתָּ֥ה וְכָל־ בֵּיתְךָ֖ אֶל־ הַתֵּבָ֑ה כִּֽי־ אֹתְךָ֥ רָאִ֛יתִי צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה׃"
+pericope: "[[Gen.7.1 The Great Flood|The Great Flood]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 7
+book/chapter: "[[Gen.7|Genesis 7]]"
+chronological_order: 7
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ARK|ARK]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5146]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H8392]]"
+- "[[H3588A]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H7200G]]"
+- "[[H6662]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H1755]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 7:1**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Noah, “Go into the ark, you and all your family, because I have found you righteous in this generation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H5146\|נֹ֔חַ]] [[H0935G\|בֹּֽא]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּיתְ]][[H9021\|ךָ֖]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8392\|תֵּבָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0853\|אֹתְ]][[H9031\|ךָ֥]] [[H7200G\|רָאִ֛יתִי]] [[H6662\|צַדִּ֥יק]] [[H9005\|לְ]][[H6440G\|פָנַ֖]][[H9020\|י]] [[H9003\|בַּ]][[H1755\|דּ֥וֹר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ARK|ARK]] • [[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.22|<< Genesis 6:22]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.2|Genesis 7:2 >>]]</td></tr></table>
 

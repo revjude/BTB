@@ -1,10 +1,75 @@
+---
+title: Luke 16:25
+type: Verse
+kjv: "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+bsb: "But Abraham answered, ‘Child, remember that during your lifetime you received your good things, while Lazarus received bad things. But now he is comforted here, while you are in agony."
+jesus_said: "But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented."
+greek: "Εἶπεν δὲ Ἀβραάμ· τέκνον, μνήσθητι ὅτι ἀπέλαβες σὺ τὰ ἀγαθά σου ἐν τῇ ζωῇ σου, καὶ Λάζαρος ὁμοίως τὰ κακά. νῦν δὲ ὧδε παρακαλεῖται, σὺ δὲ ὀδυνᾶσαι."
+pericope: "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SENSUALITY|SENSUALITY]]"
+- "[[topic TORMENTS|TORMENTS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0011]]"
+- "[[G5043]]"
+- "[[G3403]]"
+- "[[G3754G]]"
+- "[[G0618]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G1722]]"
+- "[[G2222]]"
+- "[[G2532]]"
+- "[[G2976G]]"
+- "[[G3668]]"
+- "[[G2556H]]"
+- "[[G3568]]"
+- "[[G5602]]"
+- "[[G3870]]"
+- "[[G3600]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Luke 16:25**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.
 <small><sub>**BSB:**</sub></small>
 But Abraham answered, ‘Child, remember that during your lifetime you received your good things, while Lazarus received bad things. But now he is comforted here, while you are in agony.
-<small><sub>**Literal:**</sub></small>
-Said then Abraham; Child, do remember that you did fully receive you yourself the [things] good of you in the lifetime of you, and Lazarus likewise the [things] harmful. Now however here he is comforted, you yourself now are suffering.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.24|<< Luke 16:24]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.26|Luke 16:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G0011\|Ἀβραάμ·]]  [[G5043\|τέκνον,]]  [[G3403\|μνήσθητι]]  [[G3754G\|ὅτι]]  [[G0618\|ἀπέλαβες]]  [[G4771\|σὺ]]  [[G3588\|τὰ]]  [[G0018\|ἀγαθά]]  [[G4771\|σου]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2222\|ζωῇ]]  [[G4771\|σου,]]  [[G2532\|καὶ]]  [[G2976G\|Λάζαρος]]  [[G3668\|ὁμοίως]]  [[G3588\|τὰ]]  [[G2556H\|κακά.]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G5602\|ὧδε]]  [[G3870\|παρακαλεῖται,]]  [[G4771\|σὺ]]  [[G1161\|δὲ]]  [[G3600\|ὀδυνᾶσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HAPPINESS|HAPPINESS]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICH, THE|RICH, THE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SENSUALITY|SENSUALITY]] • [[topic TORMENTS|TORMENTS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.24|<< Luke 16:24]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.26|Luke 16:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,73 @@
+---
+title: Exodus 34:32
+type: Verse
+kjv: "And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai."
+bsb: "And after this all the Israelites came near, and Moses commanded them to do everything that the LORD had told him on Mount Sinai."
+hebrew: "וְאַחֲרֵי־ כֵ֥ן נִגְּשׁ֖וּ כָּל־ בְּנֵ֣י יִשְׂרָאֵ֑ל וַיְצַוֵּ֕ם אֵת֩ כָּל־ אֲשֶׁ֨ר דִּבֶּ֧ר יְהוָ֛ה אִתּ֖וֹ בְּהַ֥ר סִינָֽי׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic FACE|FACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5066G]]"
+- "[[H3605]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H5514G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:32**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And afterward all the children of Israel came nigh: and he gave them in commandment all that the LORD had spoken with him in mount Sinai.
 <small><sub>**BSB:**</sub></small>
 And after this all the Israelites came near, and Moses commanded them to do everything that the LORD had told him on Mount Sinai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֥ן]] [[H5066G\|נִגְּשׁ֖וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H6680\|יְצַוֵּ֕]][[H9038\|ם]] [[H0853\|אֵת֩]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H2022G\|הַ֥ר]] [[H5514G\|סִינָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic FACE|FACE]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic REVERENCE|REVERENCE]] • [[topic TRANSFIGURATION|TRANSFIGURATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.31|<< Exodus 34:31]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.33|Exodus 34:33 >>]]</td></tr></table>
 

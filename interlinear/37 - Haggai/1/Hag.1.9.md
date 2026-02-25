@@ -1,8 +1,73 @@
+---
+title: Haggai 1:9
+type: Verse
+kjv: "Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the LORD of hosts. Because of mine house that is waste, and ye run every man unto his own house."
+bsb: "You expected much, but behold, it amounted to little. And what you brought home, I blew away. Why? declares the LORD of Hosts. Because My house still lies in ruins, while each of you is busy with his own house."
+hebrew: "פָּנֹ֤ה אֶל־ הַרְבֵּה֙ וְהִנֵּ֣ה לִמְעָ֔ט וַהֲבֵאתֶ֥ם הַבַּ֖יִת וְנָפַ֣חְתִּי ב֑וֹ יַ֣עַן מֶ֗ה נְאֻם֙ יְהוָ֣ה צְבָא֔וֹת יַ֗עַן בֵּיתִי֙ אֲשֶׁר־ ה֣וּא חָרֵ֔ב וְאַתֶּ֥ם רָצִ֖ים אִ֥ישׁ לְבֵיתֽוֹ׃"
+pericope: "[[Hag.1.1 A Call to Rebuild the Temple|A Call to Rebuild the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 1
+book/chapter: "[[Hag.1|Haggai 1]]"
+chronological_order: 855
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H6437G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7235A]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9005]]"
+- "[[H4592]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H5301]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3282]]"
+- "[[H4100]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H2720B]]"
+- "[[H0859D]]"
+- "[[H7323G]]"
+- "[[H0376I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 1:9**<big><big>[[Hag.1.1 A Call to Rebuild the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye looked for much, and, lo, [it came] to little; and when ye brought [it] home, I did blow upon it. Why? saith the LORD of hosts. Because of mine house that [is] waste, and ye run every man unto his own house.
 <small><sub>**BSB:**</sub></small>
 You expected much, but behold, it amounted to little. And what you brought home, I blew away. Why? declares the LORD of Hosts. Because My house still lies in ruins, while each of you is busy with his own house.
+<small><sub>**Hebrew:**</sub></small>
+[[H6437G\|פָּנֹ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H7235A\|הַרְבֵּה֙]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H9005\|לִ]][[H4592\|מְעָ֔ט]] [[H9001\|וַ]][[H0935P\|הֲבֵאתֶ֥ם]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H9001\|וְ]][[H5301\|נָפַ֣חְתִּי]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H3282\|יַ֣עַן]] [[H4100\|מֶ֗ה]] [[H5002\|נְאֻם֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H3282\|יַ֗עַן]] [[H1004B\|בֵּיתִ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H2720B\|חָרֵ֔ב]] [[H9002\|וְ]][[H0859D\|אַתֶּ֥ם]] [[H7323G\|רָצִ֖ים]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H1004B\|בֵיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.8|<< Haggai 1:8]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.10|Haggai 1:10 >>]]</td></tr></table>
 

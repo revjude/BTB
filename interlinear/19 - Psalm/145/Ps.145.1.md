@@ -1,8 +1,58 @@
+---
+title: Psalm 145:1
+type: Verse
+kjv: "I will extol thee, my God, O king; and I will bless thy name for ever and ever."
+bsb: "A Psalm of praise. Of David. I will exalt You, my God and King; I will bless Your name forever and ever."
+hebrew: "אֲרוֹמִמְךָ֣ אֱלוֹהַ֣י הַמֶּ֑לֶךְ וַאֲבָרֲכָ֥ה שִׁ֝מְךָ֗ לְעוֹלָ֥ם וָעֶֽד׃"
+pericope: "[[Ps.145.1 I Will Exalt You, My God and King|I Will Exalt You, My God and King]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 145
+book/chapter: "[[Ps.145|Psalm 145]]"
+chronological_order: 391
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H7311A]]"
+- "[[H9031]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 145:1**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will extol thee, my God, O king; and I will bless thy name for ever and ever.
 <small><sub>**BSB:**</sub></small>
 A Psalm of praise. Of David. I will exalt You, my God and King; I will bless Your name forever and ever.
+<small><sub>**Hebrew:**</sub></small>
+[[H7311A\|אֲרוֹמִמְ]][[H9031\|ךָ֣]] [[H0430G\|אֱלוֹהַ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וַ]][[H1288\|אֲבָרֲכָ֥ה]] [[H8034\|שִׁ֝מְ]][[H9021\|ךָ֗]] [[H9005\|לְ]][[H5769G\|עוֹלָ֥ם]] [[H9002\|וָ]][[H5703\|עֶֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.0|<< Psalms 145:0]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.2|Psalms 145:2 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Joshua 6:8
+type: Verse
+kjv: "And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams’ horns passed on before the LORD, and blew with the trumpets: and the ark of the covenant of the LORD followed them."
+bsb: "After Joshua had spoken to the people, seven priests carrying seven rams’ horns before the LORD advanced and blew the horns, and the ark of the covenant of the LORD followed them."
+hebrew: "וַיְהִ֗י כֶּאֱמֹ֣ר יְהוֹשֻׁעַ֮ אֶל־ הָעָם֒ וְשִׁבְעָ֣ה הַכֹּהֲנִ֡ים נֹשְׂאִים֩ שִׁבְעָ֨ה שׁוֹפְר֤וֹת הַיּֽוֹבְלִים֙ לִפְנֵ֣י יְהוָ֔ה עָבְר֕וּ וְתָקְע֖וּ בַּשּֽׁוֹפָר֑וֹת וַֽאֲרוֹן֙ בְּרִ֣ית יְהוָ֔ה הֹלֵ֖ךְ אַחֲרֵיהֶֽם׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H7782]]"
+- "[[H3104]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H5674A]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:8**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams’ horns passed on before the LORD, and blew with the trumpets: and the ark of the covenant of the LORD followed them.
 <small><sub>**BSB:**</sub></small>
 After Joshua had spoken to the people, seven priests carrying seven rams’ horns before the LORD advanced and blew the horns, and the ark of the covenant of the LORD followed them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כֶּ]][[H0559\|אֱמֹ֣ר]] [[H3091G\|יְהוֹשֻׁעַ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֒]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֡ים]] [[H5375H\|נֹשְׂאִים֩]] [[H7651\|שִׁבְעָ֨ה]] [[H7782\|שׁוֹפְר֤וֹת]] [[H9009\|הַ]][[H3104\|יּֽוֹבְלִים֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H5674A\|עָבְר֕וּ]] [[H9002\|וְ]][[H8628\|תָקְע֖וּ]] [[H9003\|בַּ]][[H7782\|שּֽׁוֹפָר֑וֹת]] [[H9002\|וַֽ]][[H0727\|אֲרוֹן֙]] [[H1285\|בְּרִ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H1980N\|הֹלֵ֖ךְ]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.7|<< Joshua 6:7]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.9|Joshua 6:9 >>]]</td></tr></table>
 

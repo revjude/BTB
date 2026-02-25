@@ -1,11 +1,11 @@
 
 **CONCUBINAGE**
 
-→ LAWS CONCERNING [[Exod.21.7|Ex 21:7]]-[[Exod.21.11|11]]; [[Lev.19.20|Le 19:20]]-[[Lev.19.22|22]]; [[Deut.21.10|De 21:10]]-[[Deut.21.14|14]]
+→ LAWS CONCERNING [[Exod.21.7|Ex 21:7-11]]; [[Lev.19.20|Le 19:20-22]]; [[Deut.21.10|De 21:10-14]]
 
-- Concubines might be dismissed [[Gen.21.9|Ge 21:9]]-[[Gen.21.14|14]]
+- Concubines might be dismissed [[Gen.21.9|Ge 21:9-14]]
 
-- Called WIVES [[Gen.37.2|Ge 37:2]]; [[Judg.19.3|Jud 19:3]]-[[Judg.19.5|5]]
+- Called WIVES [[Gen.37.2|Ge 37:2]]; [[Judg.19.3|Jud 19:3-5]]
 
 - Children of, not heirs [[Gen.15.4|Ge 15:4]]; [[Gen.21.10|21:10]]
 
@@ -23,7 +23,7 @@ Gideon [[Judg.8.31|Jud 8:31]]
 
 A Levite [[Judg.19.1|Jud 19:1]]
 
-Caleb [[1Chr.2.46|1Ch 2:46]]-[[1Chr.2.48|48]]
+Caleb [[1Chr.2.46|1Ch 2:46-48]]
 
 Manasseh [[1Chr.7.14|1Ch 7:14]]
 

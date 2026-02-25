@@ -1,8 +1,53 @@
+---
+title: Psalm 33:9
+type: Verse
+kjv: "For he spake, and it was done; he commanded, and it stood fast."
+bsb: "For He spoke, and it came to be; He commanded, and it stood firm."
+hebrew: "כִּ֤י ה֣וּא אָמַ֣ר וַיֶּ֑הִי הֽוּא־ צִ֝וָּ֗ה וַֽיַּעֲמֹֽד׃"
+pericope: "[[Ps.33.1 Praise to the Creator|Praise to the Creator]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 33
+book/chapter: "[[Ps.33|Psalm 33]]"
+chronological_order: 423
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 33:9**<big><big>[[Ps.33.1 Praise to the Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he spake, and it was [done]; he commanded, and it stood fast.
 <small><sub>**BSB:**</sub></small>
 For He spoke, and it came to be; He commanded, and it stood firm.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H1931\|ה֣וּא]] [[H0559\|אָמַ֣ר]] [[H9001\|וַ]][[H1961\|יֶּ֑הִי]] [[H1931\|הֽוּא]][[H9014\|־]] [[H6680\|צִ֝וָּ֗ה]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.33.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.33.8|<< Psalms 33:8]]</td><td align="center" style="border:none;">[[Ps.33|Psalms 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.33.10|Psalms 33:10 >>]]</td></tr></table>
 

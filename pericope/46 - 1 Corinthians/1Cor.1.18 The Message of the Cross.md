@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Message of the Cross
+type: Pericope
 pericope: "[[1Cor.1.18 The Message of the Cross|The Message of the Cross]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 1
 book/chapter: "[[1Cor.1|1 Corinthians 1]]"
-genre:
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 8
 verses:
 - "[[1Cor.1.18]]"
 - "[[1Cor.1.19]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Cor.1.25]]"
 ---
 
-[[1Cor.1|1 Corinthians 1:18 - 1 Corinthians 1:25]]
+<small>[[1Cor.1|1 Corinthians 1:18-25]]</small>
 *The Message of the Cross*
 
 [[1Cor.1.18|18]] For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.

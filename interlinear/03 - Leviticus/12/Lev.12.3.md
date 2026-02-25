@@ -1,8 +1,57 @@
+---
+title: Leviticus 12:3
+type: Verse
+kjv: "And in the eighth day the flesh of his foreskin shall be circumcised."
+bsb: "And on the eighth day the flesh of the boy’s foreskin is to be circumcised."
+hebrew: "וּבַיּ֖וֹם הַשְּׁמִינִ֑י יִמּ֖וֹל בְּשַׂ֥ר עָרְלָתֽוֹ׃"
+pericope: "[[Lev.12.1 Purification after Childbirth|Purification after Childbirth]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 12
+book/chapter: "[[Lev.12|Leviticus 12]]"
+chronological_order: 144
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H4135A]]"
+- "[[H1320]]"
+- "[[H6190H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 12:3**<big><big>[[Lev.12.1 Purification after Childbirth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the eighth day the flesh of his foreskin shall be circumcised.
 <small><sub>**BSB:**</sub></small>
 And on the eighth day the flesh of the boy’s foreskin is to be circumcised.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֖וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֑י]] [[H4135A\|יִמּ֖וֹל]] [[H1320\|בְּשַׂ֥ר]] [[H6190H\|עָרְלָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.2|<< Leviticus 12:2]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.4|Leviticus 12:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,56 @@
+---
+title: Psalm 90:11
+type: Verse
+kjv: "Who knoweth the power of thine anger? even according to thy fear, so is thy wrath."
+bsb: "Who knows the power of Your anger? Your wrath matches the fear You are due."
+hebrew: "מִֽי־ י֭וֹדֵעַ עֹ֣ז אַפֶּ֑ךָ וּ֝כְיִרְאָתְךָ֗ עֶבְרָתֶֽךָ׃"
+pericope: "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 90
+book/chapter: "[[Ps.90|Psalm 90]]"
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H5797]]"
+- "[[H0639G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H3374]]"
+- "[[H5678]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 90:11**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who knoweth the power of thine anger? even according to thy fear, [so is] thy wrath.
 <small><sub>**BSB:**</sub></small>
 Who knows the power of Your anger? Your wrath matches the fear You are due.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H3045\|י֭וֹדֵעַ]] [[H5797\|עֹ֣ז]] [[H0639G\|אַפֶּ֑]][[H9021\|ךָ]] [[H9002\|וּ֝]][[H9004\|כְ]][[H3374\|יִרְאָתְ]][[H9021\|ךָ֗]] [[H5678\|עֶבְרָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.10|<< Psalms 90:10]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.12|Psalms 90:12 >>]]</td></tr></table>
 

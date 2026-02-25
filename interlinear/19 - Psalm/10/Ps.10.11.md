@@ -1,8 +1,61 @@
+---
+title: Psalm 10:11
+type: Verse
+kjv: "He hath said in his heart, God hath forgotten: he hideth his face; he will never see it."
+bsb: "He says to himself, “God has forgotten; He hides His face and never sees.”"
+hebrew: "אָמַ֣ר בְּ֭לִבּוֹ שָׁ֣כַֽח אֵ֑ל הִסְתִּ֥יר פָּ֝נָ֗יו בַּל־ רָאָ֥ה לָנֶֽצַח׃"
+pericope: "[[Ps.10.1 The Perils of the Pilgrim|The Perils of the Pilgrim]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 10
+book/chapter: "[[Ps.10|Psalm 10]]"
+chronological_order: 344
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H7911]]"
+- "[[H0410G]]"
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 10:11**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath said in his heart, God hath forgotten: he hideth his face; he will never see [it].
 <small><sub>**BSB:**</sub></small>
 He says to himself, “God has forgotten; He hides His face and never sees.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֣ר]] [[H9003\|בְּ֭]][[H3820A\|לִבּ]][[H9023\|וֹ]] [[H7911\|שָׁ֣כַֽח]] [[H0410G\|אֵ֑ל]] [[H5641\|הִסְתִּ֥יר]] [[H6440H\|פָּ֝נָ֗י]][[H9023\|ו]] [[H1077\|בַּל]][[H9014\|־]] [[H7200G\|רָאָ֥ה]] [[H9005\|לָ]][[H5331\|נֶֽצַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic PRIDE|PRIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.10|<< Psalms 10:10]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.12|Psalms 10:12 >>]]</td></tr></table>
 

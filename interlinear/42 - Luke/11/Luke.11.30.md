@@ -1,10 +1,60 @@
+---
+title: Luke 11:30
+type: Verse
+kjv: "For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation."
+bsb: "For as Jonah was a sign to the Ninevites, so the Son of Man will be a sign to this generation."
+jesus_said: "For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation."
+greek: "καθὼς γὰρ ἐγένετο ὁ Ἰωνᾶς τοῖς Νινευίταις σημεῖον, οὕτως ἔσται καὶ ὁ υἱὸς τοῦ ἀνθρώπου τῇ γενεᾷ ταύτῃ."
+pericope: "[[Luke.11.29 The Sign of Jonah|The Sign of Jonah]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JONAH|JONAH]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G2531]]"
+- "[[G1063]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G2495H]]"
+- "[[G3536]]"
+- "[[G4592]]"
+- "[[G3779]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G1074]]"
+- "[[G3778]]"
+texts:
+- NKO
+- o
+---
+
 **Luke 11:30**<big><big>[[Luke.11.29 The Sign of Jonah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as Jonas was a sign unto the Ninevites, so shall also the Son of man be to this generation.
 <small><sub>**BSB:**</sub></small>
 For as Jonah was a sign to the Ninevites, so the Son of Man will be a sign to this generation.
-<small><sub>**Literal:**</sub></small>
-Even as for was <the> Jonah to the Ninevites a sign thus will be also the Son <the> of Man to the generation this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.29|<< Luke 11:29]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.31|Luke 11:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2531\|καθὼς]]  [[G1063\|γὰρ]]  [[G1096\|ἐγένετο]]  [[G3588\|ὁ]]  [[G2495H\|Ἰωνᾶς]]  [[G3588\|τοῖς]]  [[G3536\|Νινευίταις]]  [[G4592\|σημεῖον,]]  [[G3779\|οὕτως]]  [[G1510\|ἔσται]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3588\|τῇ]]  [[G1074\|γενεᾷ]]  [[G3778\|ταύτῃ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JONAH|JONAH]] • [[topic PHARISEES|PHARISEES]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.29|<< Luke 11:29]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.31|Luke 11:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 11:30** is...
 > $\quad$ alluding to: [[LXX.Jonah.1.17|Jonah 1:17]] ☩ [[LXX.Jonah.3.1|Jonah 3:1-10]] ☩ [[LXX.Jonah.4.1|Jonah 4:1-11]]

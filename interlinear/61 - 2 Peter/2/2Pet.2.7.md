@@ -1,10 +1,57 @@
+---
+title: 2 Peter 2:7
+type: Verse
+kjv: "And delivered just Lot, vexed with the filthy conversation of the wicked:"
+bsb: "and if He rescued Lot, a righteous man distressed by the depraved conduct of the lawless"
+greek: "καὶ δίκαιον Λὼτ καταπονούμενον ὑπὸ τῆς τῶν ἀθέσμων ἐν ἀσελγείᾳ ἀναστροφῆς ἐρρύσατο·"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1342]]"
+- "[[G3091]]"
+- "[[G2669]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G0113]]"
+- "[[G1722]]"
+- "[[G0766]]"
+- "[[G0391]]"
+- "[[G4506]]"
+texts:
+- NKO
+---
+
 **2 Peter 2:7**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And delivered just Lot, vexed with the filthy conversation of the wicked:
 <small><sub>**BSB:**</sub></small>
 and if He rescued Lot, a righteous man distressed by the depraved conduct of the lawless
-<small><sub>**Literal:**</sub></small>
-and righteous Lot being distressed by the of the lawless in sensuality conduct He rescued;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.6|<< 2 Peter 2:6]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.8|2 Peter 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1342\|δίκαιον]]  [[G3091\|Λὼτ]]  [[G2669\|καταπονούμενον]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῆς]]  [[G3588\|τῶν]]  [[G0113\|ἀθέσμων]]  [[G1722\|ἐν]]  [[G0766\|ἀσελγείᾳ]]  [[G0391\|ἀναστροφῆς]]  [[G4506\|ἐρρύσατο·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic COMPANY|COMPANY]] • [[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SIN|SIN]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.6|<< 2 Peter 2:6]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.8|2 Peter 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

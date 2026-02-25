@@ -1,8 +1,85 @@
+---
+title: Deuteronomy 31:12
+type: Verse
+kjv: "Gather the people together, men, and women, and children, and thy stranger that is within thy gates, that they may hear, and that they may learn, and fear the LORD your God, and observe to do all the words of this law:"
+bsb: "Assemble the people—men, women, children, and the foreigners within your gates—so that they may listen and learn to fear the LORD your God and to follow carefully all the words of this law."
+hebrew: "הַקְהֵ֣ל אֶת־ הָעָ֗ם הָֽאֲנָשִׁ֤ים וְהַנָּשִׁים֙ וְהַטַּ֔ף וְגֵרְךָ֖ אֲשֶׁ֣ר בִּשְׁעָרֶ֑יךָ לְמַ֨עַן יִשְׁמְע֜וּ וּלְמַ֣עַן יִלְמְד֗וּ וְיָֽרְאוּ֙ אֶת־ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וְשָֽׁמְר֣וּ לַעֲשׂ֔וֹת אֶת־ כָּל־ דִּבְרֵ֖י הַתּוֹרָ֥ה הַזֹּֽאת׃"
+pericope: "[[Deut.31.9 The Reading of the Law|The Reading of the Law]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H6950]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0582]]"
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H2945]]"
+- "[[H1616]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H4616]]"
+- "[[H8085G]]"
+- "[[H3925H]]"
+- "[[H9001]]"
+- "[[H3372H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H8451]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:12**<big><big>[[Deut.31.9 The Reading of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather the people together, men, and women, and children, and thy stranger that [is] within thy gates, that they may hear, and that they may learn, and fear the LORD your God, and observe to do all the words of this law:
 <small><sub>**BSB:**</sub></small>
 Assemble the people—men, women, children, and the foreigners within your gates—so that they may listen and learn to fear the LORD your God and to follow carefully all the words of this law.
+<small><sub>**Hebrew:**</sub></small>
+[[H6950\|הַקְהֵ֣ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֤ים]] [[H9002\|וְ]][[H9009\|הַ]][[H0802G\|נָּשִׁים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2945\|טַּ֔ף]] [[H9002\|וְ]][[H1616\|גֵרְ]][[H9021\|ךָ֖]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּ]][[H8179G\|שְׁעָרֶ֑י]][[H9021\|ךָ]] [[H4616\|לְמַ֨עַן]] [[H8085G\|יִשְׁמְע֜וּ]] [[H9002\|וּ]][[H4616\|לְמַ֣עַן]] [[H3925H\|יִלְמְד֗וּ]] [[H9001\|וְ]][[H3372H\|יָֽרְאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H8104J\|שָֽׁמְר֣וּ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֔וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֖י]] [[H9009\|הַ]][[H8451\|תּוֹרָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic PRIEST|PRIEST]] • [[topic REVERENCE|REVERENCE]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SCHOOL|SCHOOL]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]] • [[topic WOMEN|WOMEN]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.11|<< Deuteronomy 31:11]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.13|Deuteronomy 31:13 >>]]</td></tr></table>
 

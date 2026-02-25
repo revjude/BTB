@@ -1,8 +1,72 @@
+---
+title: Jeremiah 50:29
+type: Verse
+kjv: "Call together the archers against Babylon: all ye that bend the bow, camp against it round about; let none thereof escape: recompense her according to her work; according to all that she hath done, do unto her: for she hath been proud against the LORD, against the Holy One of Israel."
+bsb: "Summon the archers against Babylon, all who string the bow. Encamp all around her; let no one escape. Repay her according to her deeds; do to her as she has done. For she has defied the LORD, the Holy One of Israel."
+hebrew: "הַשְׁמִ֣יעוּ אֶל־ בָּבֶ֣ל׀ רַ֠בִּים כָּל־ דֹּ֨רְכֵי קֶ֜שֶׁת חֲנ֧וּ עָלֶ֣יהָ סָבִ֗יב אַל־ יְהִי־לָהּ֙ פְּלֵטָ֔ה שַׁלְּמוּ־ לָ֣הּ כְּפָעֳלָ֔הּ כְּכֹ֛ל אֲשֶׁ֥ר עָשְׂתָ֖ה עֲשׂוּ־ לָ֑הּ כִּ֧י אֶל־ יְהוָ֛ה זָ֖דָה אֶל־ קְד֥וֹשׁ יִשְׂרָאֵֽל׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H8085I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H9015]]"
+- "[[H7228]]"
+- "[[H3605]]"
+- "[[H1869]]"
+- "[[H7198]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H5439G]]"
+- "[[H0408]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6413]]"
+- "[[H7999A]]"
+- "[[H9004]]"
+- "[[H6467]]"
+- "[[H9024]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H2102]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 50:29**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Call together the archers against Babylon: all ye that bend the bow, camp against it round about; let none thereof escape: recompense her according to her work; according to all that she hath done, do unto her: for she hath been proud against the LORD, against the Holy One of Israel.
 <small><sub>**BSB:**</sub></small>
 Summon the archers against Babylon, all who string the bow. Encamp all around her; let no one escape. Repay her according to her deeds; do to her as she has done. For she has defied the LORD, the Holy One of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085I\|הַשְׁמִ֣יעוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0894\|בָּבֶ֣ל]][[H9015\|׀]] [[H7228\|רַ֠בִּים]] [[H3605\|כָּל]][[H9014\|־]] [[H1869\|דֹּ֨רְכֵי]] [[H7198\|קֶ֜שֶׁת]] [[H2583\|חֲנ֧וּ]] [[H5921A\|עָלֶ֣י]][[H9034\|הָ]] [[H5439G\|סָבִ֗יב]] [[H0408\|אַל]][[H9014\|־]] [[H1961\|יְהִי]][[H9014\|־]][[H9005\|לָ]][[H9034\|הּ֙]] [[H6413\|פְּלֵטָ֔ה]] [[H7999A\|שַׁלְּמוּ]][[H9014\|־]] [[H9005\|לָ֣]][[H9034\|הּ]] [[H9004\|כְּ]][[H6467\|פָעֳלָ֔]][[H9024\|הּ]] [[H9004\|כְּ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשְׂתָ֖ה]] [[H6213A\|עֲשׂוּ]][[H9014\|־]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H3588A\|כִּ֧י]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H2102\|זָ֖דָה]] [[H0413\|אֶל]][[H9014\|־]] [[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.28|<< Jeremiah 50:28]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.30|Jeremiah 50:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

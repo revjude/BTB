@@ -1,10 +1,61 @@
+---
+title: Mark 15:31
+type: Verse
+kjv: "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save."
+bsb: "In the same way, the chief priests and scribes mocked Him among themselves, saying, “He saved others, but He cannot save Himself!"
+greek: "ὁμοίως δὲ καὶ οἱ ἀρχιερεῖς ἐμπαίζοντες πρὸς ἀλλήλους μετὰ τῶν γραμματέων ἔλεγον· ἄλλους ἔσωσεν, ἑαυτὸν οὐ δύναται σῶσαι·"
+pericope: "[[Mark.15.21 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3668]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G1702]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G3326]]"
+- "[[G1122]]"
+- "[[G3004G]]"
+- "[[G0243]]"
+- "[[G4982]]"
+- "[[G1438]]"
+- "[[G3756]]"
+- "[[G1410]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 15:31**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save.
 <small><sub>**BSB:**</sub></small>
 In the same way, the chief priests and scribes mocked Him among themselves, saying, “He saved others, but He cannot save Himself!
-<small><sub>**Literal:**</sub></small>
-Likewise now also the chief priests mocking among one another with the scribes were saying; Others He saved, Himself not He is able to save;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.30|<< Mark 15:30]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.32|Mark 15:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3668\|ὁμοίως]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G1702\|ἐμπαίζοντες]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G1122\|γραμματέων]]  [[G3004G\|ἔλεγον·]]  [[G0243\|ἄλλους]]  [[G4982\|ἔσωσεν,]]  [[G1438\|ἑαυτὸν]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G4982\|σῶσαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOCKING|MOCKING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.30|<< Mark 15:30]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.32|Mark 15:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

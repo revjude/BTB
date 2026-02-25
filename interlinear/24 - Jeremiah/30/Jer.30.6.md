@@ -1,8 +1,65 @@
+---
+title: Jeremiah 30:6
+type: Verse
+kjv: "Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?"
+bsb: "Ask now, and see: Can a male give birth? Why then do I see every man with his hands on his stomach like a woman in labor and every face turned pale?"
+hebrew: "שַׁאֲלוּ־ נָ֣א וּרְא֔וּ אִם־ יֹלֵ֖ד זָכָ֑ר מַדּוּעַ֩ רָאִ֨יתִי כָל־ גֶּ֜בֶר יָדָ֤יו עַל־ חֲלָצָיו֙ כַּיּ֣וֹלֵדָ֔ה וְנֶהֶפְכ֥וּ כָל־ פָּנִ֖ים לְיֵרָקֽוֹן׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BIRTH|BIRTH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0518I]]"
+- "[[H3205]]"
+- "[[H2145]]"
+- "[[H4069]]"
+- "[[H3605]]"
+- "[[H1397]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H2504]]"
+- "[[H9004]]"
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H6440H]]"
+- "[[H9005]]"
+- "[[H3420]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:6**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ask ye now, and see whether a man doth travail with child? wherefore do I see every man with his hands on his loins, as a woman in travail, and all faces are turned into paleness?
 <small><sub>**BSB:**</sub></small>
 Ask now, and see: Can a male give birth? Why then do I see every man with his hands on his stomach like a woman in labor and every face turned pale?
+<small><sub>**Hebrew:**</sub></small>
+[[H7592\|שַׁאֲלוּ]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9002\|וּ]][[H7200G\|רְא֔וּ]] [[H0518I\|אִם]][[H9014\|־]] [[H3205\|יֹלֵ֖ד]] [[H2145\|זָכָ֑ר]] [[H4069\|מַדּוּעַ֩]] [[H7200G\|רָאִ֨יתִי]] [[H3605\|כָל]][[H9014\|־]] [[H1397\|גֶּ֜בֶר]] [[H3027G\|יָדָ֤י]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H2504\|חֲלָצָי]][[H9023\|ו֙]] [[H9004\|כַּ]][[H3205\|יּ֣וֹלֵדָ֔ה]] [[H9001\|וְ]][[H2015\|נֶהֶפְכ֥וּ]] [[H3605\|כָל]][[H9014\|־]] [[H6440H\|פָּנִ֖ים]] [[H9005\|לְ]][[H3420\|יֵרָקֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTH|BIRTH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.5|<< Jeremiah 30:5]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.7|Jeremiah 30:7 >>]]</td></tr></table>
 

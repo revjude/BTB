@@ -1,10 +1,59 @@
+---
+title: Romans 10:1
+type: Verse
+kjv: "Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved."
+bsb: "Brothers, my heart’s desire and prayer to God for the Israelites is for their salvation."
+greek: "Ἀδελφοί, ἡ μὲν εὐδοκία τῆς ἐμῆς καρδίας καὶ ἡ δέησις ἡ πρὸς τὸν θεὸν ὑπὲρ τοῦ αὐτῶν ἐστιν εἰς σωτηρίαν."
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0080]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G2107]]"
+- "[[G1473]]"
+- "[[G2588]]"
+- "[[G2532]]"
+- "[[G1162]]"
+- "[[G4314]]"
+- "[[G2316]]"
+- "[[G5228]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G4991]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Romans 10:1**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.
 <small><sub>**BSB:**</sub></small>
 Brothers, my heart’s desire and prayer to God for the Israelites is for their salvation.
-<small><sub>**Literal:**</sub></small>
-Brothers, the indeed desire <the> of my heart and the supplication they [are] to <the> God on behalf <the> of them is for salvation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.33|<< Romans 9:33]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.2|Romans 10:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0080\|Ἀδελφοί,]]  [[G3588\|ἡ]]  [[G3303\|μὲν]]  [[G2107\|εὐδοκία]]  [[G3588\|τῆς]]  [[G1473\|ἐμῆς]]  [[G2588\|καρδίας]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1162\|δέησις]]  [[G3588\|ἡ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G5228\|ὑπὲρ]]  [[G3588\|τοῦ]]  [[G0846\|αὐτῶν]]  [[G1510\|ἐστιν]]  [[G1519\|εἰς]]  [[G4991\|σωτηρίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RELIGION|RELIGION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.33|<< Romans 9:33]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.2|Romans 10:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

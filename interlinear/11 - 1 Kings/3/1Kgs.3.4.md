@@ -1,8 +1,67 @@
+---
+title: 1 Kings 3:4
+type: Verse
+kjv: "And the king went to Gibeon to sacrifice there; for that was the great high place: a thousand burnt offerings did Solomon offer upon that altar."
+bsb: "Now the king went to Gibeon to sacrifice there, for it was the great high place. Solomon offered a thousand burnt offerings on the altar there."
+hebrew: "וַיֵּ֨לֶךְ הַמֶּ֤לֶךְ גִּבְעֹ֙נָה֙ לִזְבֹּ֣חַ שָׁ֔ם כִּ֥י הִ֖יא הַבָּמָ֣ה הַגְּדוֹלָ֑ה אֶ֤לֶף עֹלוֹת֙ יַעֲלֶ֣ה שְׁלֹמֹ֔ה עַ֖ל הַמִּזְבֵּ֥חַ הַהֽוּא׃"
+pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1391]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H2076]]"
+- "[[H8033G]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H1116]]"
+- "[[H1419A]]"
+- "[[H0505G]]"
+- "[[H5930A]]"
+- "[[H5927I]]"
+- "[[H8010]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:4**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king went to Gibeon to sacrifice there; for that [was] the great high place: a thousand burnt offerings did Solomon offer upon that altar.
 <small><sub>**BSB:**</sub></small>
 Now the king went to Gibeon to sacrifice there, for it was the great high place. Solomon offered a thousand burnt offerings on the altar there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H1391\|גִּבְעֹ֙נָ]][[H9011\|ה֙]] [[H9005\|לִ]][[H2076\|זְבֹּ֣חַ]] [[H8033G\|שָׁ֔ם]] [[H3588A\|כִּ֥י]] [[H1931\|הִ֖יא]] [[H9009\|הַ]][[H1116\|בָּמָ֣ה]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֑ה]] [[H0505G\|אֶ֤לֶף]] [[H5930A\|עֹלוֹת֙]] [[H5927I\|יַעֲלֶ֣ה]] [[H8010\|שְׁלֹמֹ֔ה]] [[H5921A\|עַ֖ל]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֥חַ]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DREAM|DREAM]] • [[topic GIBEON|GIBEON]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.3|<< 1 Kings 3:3]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.5|1 Kings 3:5 >>]]</td></tr></table>
 

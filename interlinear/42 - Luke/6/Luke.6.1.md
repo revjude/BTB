@@ -1,10 +1,61 @@
+---
+title: Luke 6:1
+type: Verse
+kjv: "And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands."
+bsb: "One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain, rub them in their hands, and eat them."
+greek: "Ἐγένετο δὲ ἐν σαββάτῳ δευτεροπρώτῳ διαπορεύεσθαι αὐτὸν διὰ τῶν σπορίμων, καὶ ἔτιλλον οἱ μαθηταὶ αὐτοῦ καὶ ἤσθιον τοὺς στάχυας ψώχοντες ταῖς χερσίν."
+pericope: "[[Luke.6.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G4521]]"
+- "[[G1207]]"
+- "[[G1279]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4702]]"
+- "[[G2532]]"
+- "[[G5089]]"
+- "[[G3101]]"
+- "[[G2068]]"
+- "[[G4719]]"
+- "[[G5597]]"
+- "[[G5495]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 6:1**<big><big>[[Luke.6.1 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing [them] in [their] hands.
 <small><sub>**BSB:**</sub></small>
 One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain, rub them in their hands, and eat them.
-<small><sub>**Literal:**</sub></small>
-It came to pass then on a Sabbath second [after the] first [is] passing along He through <the> grainfields, and were plucking the disciples of Him and were eating the heads of grain rubbing [them] in the hands.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.39|<< Luke 5:39]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.2|Luke 6:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G4521\|σαββάτῳ]]  [[G1207\|δευτεροπρώτῳ]]  [[G1279\|διαπορεύεσθαι]]  [[G0846\|αὐτὸν]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G4702\|σπορίμων,]]  [[G2532\|καὶ]]  [[G5089\|ἔτιλλον]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2068\|ἤσθιον]]  [[G3588\|τοὺς]]  [[G4719\|στάχυας]]  [[G5597\|ψώχοντες]]  [[G3588\|ταῖς]]  [[G5495\|χερσίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.39|<< Luke 5:39]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.2|Luke 6:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 1:12
+type: Verse
+kjv: "How can I myself alone bear your cumbrance, and your burden, and your strife?"
+bsb: "But how can I bear your troubles, burdens, and disputes all by myself?"
+hebrew: "אֵיכָ֥ה אֶשָּׂ֖א לְבַדִּ֑י טָרְחֲכֶ֥ם וּמַֽשַּׂאֲכֶ֖ם וְרִֽיבְכֶֽם׃"
+pericope: "[[Deut.1.9 Moses Appoints Leaders|Moses Appoints Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H0349B]]"
+- "[[H5375H]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9030]]"
+- "[[H2960]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H4853A]]"
+- "[[H7379]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:12**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How can I myself alone bear your cumbrance, and your burden, and your strife?
 <small><sub>**BSB:**</sub></small>
 But how can I bear your troubles, burdens, and disputes all by myself?
+<small><sub>**Hebrew:**</sub></small>
+[[H0349B\|אֵיכָ֥ה]] [[H5375H\|אֶשָּׂ֖א]] [[H9005\|לְ]][[H0905H\|בַדִּ֑]][[H9030\|י]] [[H2960\|טָרְחֲ]][[H9026\|כֶ֥ם]] [[H9002\|וּ]][[H4853A\|מַֽשַּׂאֲ]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H7379\|רִֽיבְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.11|<< Deuteronomy 1:11]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.13|Deuteronomy 1:13 >>]]</td></tr></table>
 

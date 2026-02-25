@@ -1,10 +1,72 @@
+---
+title: James 1:27
+type: Verse
+kjv: "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world."
+bsb: "Pure and undefiled religion before our God and Father is this: to care for orphans and widows in their distress, and to keep oneself from being polluted by the world."
+greek: "θρησκεία καθαρὰ καὶ ἀμίαντος παρὰ τῷ θεῷ καὶ πατρὶ αὕτη ἐστίν, ἐπισκέπτεσθαι ὀρφανοὺς καὶ χήρας ἐν τῇ θλίψει αὐτῶν, ἄσπιλον ἑαυτὸν τηρεῖν ἀπὸ τοῦ κόσμου.¶"
+pericope: "[[Jas.1.19 Hearing and Doing|Hearing and Doing]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOER|DOER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SICK, THE|SICK, THE]]"
+- "[[topic SYMPATHY|SYMPATHY]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2356]]"
+- "[[G2513]]"
+- "[[G2532]]"
+- "[[G0283]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G1980]]"
+- "[[G3737]]"
+- "[[G5503]]"
+- "[[G1722]]"
+- "[[G2347]]"
+- "[[G0846]]"
+- "[[G0784]]"
+- "[[G1438]]"
+- "[[G5083I]]"
+- "[[G0575]]"
+- "[[G2889]]"
+texts:
+- NKO
+---
+
 **James 1:27**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, [and] to keep himself unspotted from the world.
 <small><sub>**BSB:**</sub></small>
 Pure and undefiled religion before our God and Father is this: to care for orphans and widows in their distress, and to keep oneself from being polluted by the world.
-<small><sub>**Literal:**</sub></small>
-Religion pure and undefiled before the God and Father this is, to visit orphans and widows in the tribulation of them, unstained oneself to keep from the world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.26|<< James 1:26]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.1|James 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2356\|θρησκεία]]  [[G2513\|καθαρὰ]]  [[G2532\|καὶ]]  [[G0283\|ἀμίαντος]]  [[G3844\|παρὰ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G3962\|πατρὶ]]  [[G3778\|αὕτη]]  [[G1510\|ἐστίν,]]  [[G1980\|ἐπισκέπτεσθαι]]  [[G3737\|ὀρφανοὺς]]  [[G2532\|καὶ]]  [[G5503\|χήρας]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2347\|θλίψει]]  [[G0846\|αὐτῶν,]]  [[G0784\|ἄσπιλον]]  [[G1438\|ἑαυτὸν]]  [[G5083I\|τηρεῖν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOER|DOER]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic LOVE|LOVE]] • [[topic ORPHAN|ORPHAN]] • [[topic POOR|POOR]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SICK, THE|SICK, THE]] • [[topic SYMPATHY|SYMPATHY]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.26|<< James 1:26]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.1|James 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

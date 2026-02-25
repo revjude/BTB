@@ -3,9 +3,9 @@
 
 1. The prophet wbo announced the wrath of Jehovah against Baasha, king of Israel [[1Kgs.16.1|1Ki 16:1]],[[1Kgs.16.7|7]],[[1Kgs.16.12|12]]; [[2Chr.19.2|2Ch 19:2]]; [[2Chr.20.34|20:34]]
 
-2. Son of Nimshi, king of Israel [[1Kgs.19.16|1Ki 19:16]]; [[2Kgs.9.1|2Ki 9:1]]-[[2Kgs.9.14|14]]
+2. Son of Nimshi, king of Israel [[1Kgs.19.16|1Ki 19:16]]; [[2Kgs.9.1|2Ki 9:1-14]]
 
-- Religious zeal of, in killing idolaters [[2Kgs.9.14|2Ki 9:14]]-[[2Kgs.9.37|37]]; [[2Kgs.10.1|10:1]]-[[2Kgs.10.28|28]]; [[2Chr.22.8|2Ch 22:8]],[[2Chr.22.9|9]]
+- Religious zeal of, in killing idolaters [[2Kgs.9.14|2Ki 9:14-37]]; [[2Kgs.10.1|10:1-28]]; [[2Chr.22.8|2Ch 22:8]],[[2Chr.22.9|9]]
 
 - His territory invaded by Hazael, king of Syria [[2Kgs.10.32|2Ki 10:32]],[[2Kgs.10.33|33]]
 

@@ -1,10 +1,55 @@
+---
+title: Galatians 6:13
+type: Verse
+kjv: "For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh."
+bsb: "For the circumcised do not even keep the law themselves, yet they want you to be circumcised that they may boast in your flesh."
+greek: "οὐδὲ γὰρ οἱ περιτεμνόμενοι αὐτοὶ νόμον φυλάσσουσιν, ἀλλὰ θέλουσιν ὑμᾶς περιτέμνεσθαι, ἵνα ἐν τῇ ὑμετέρᾳ σαρκὶ καυχήσωνται."
+pericope: "[[Gal.6.11 Final Warnings and Blessings|Final Warnings and Blessings]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[G3761]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G4059]]"
+- "[[G0846]]"
+- "[[G3551]]"
+- "[[G5442G]]"
+- "[[G0235]]"
+- "[[G2309]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G1722]]"
+- "[[G4561]]"
+- "[[G2744]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Galatians 6:13**<big><big>[[Gal.6.11 Final Warnings and Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.
 <small><sub>**BSB:**</sub></small>
 For the circumcised do not even keep the law themselves, yet they want you to be circumcised that they may boast in your flesh.
-<small><sub>**Literal:**</sub></small>
-Not even for those being circumcised themselves [the] Law keep, but they desire you to be circumcised, so that in <the> your flesh they may boast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.12|<< Galatians 6:12]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.14|Galatians 6:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G1063\|γὰρ]]  [[G3588\|οἱ]]  [[G4059\|περιτεμνόμενοι]]  [[G0846\|αὐτοὶ]]  [[G3551\|νόμον]]  [[G5442G\|φυλάσσουσιν,]]  [[G0235\|ἀλλὰ]]  [[G2309\|θέλουσιν]]  [[G4771\|ὑμᾶς]]  [[G4059\|περιτέμνεσθαι,]]  [[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4771\|ὑμετέρᾳ]]  [[G4561\|σαρκὶ]]  [[G2744\|καυχήσωνται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic HYPOCRISY|HYPOCRISY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.12|<< Galatians 6:12]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.14|Galatians 6:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

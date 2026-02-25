@@ -1,10 +1,60 @@
+---
+title: Ephesians 1:3
+type: Verse
+kjv: "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:"
+bsb: "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly realms."
+greek: "Εὐλογητὸς ὁ θεὸς καὶ πατὴρ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ, ὁ εὐλογήσας ἡμᾶς ἐν πάσῃ εὐλογίᾳ πνευματικῇ ἐν τοῖς ἐπουρανίοις ἐν Χριστῷ,"
+pericope: "[[Eph.1.3 Spiritual Blessings|Spiritual Blessings]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[G2128]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2127]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G2129]]"
+- "[[G4152]]"
+- "[[G2032]]"
+texts:
+- NKO
+---
+
 **Ephesians 1:3**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly [places] in Christ:
 <small><sub>**BSB:**</sub></small>
 Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly realms.
-<small><sub>**Literal:**</sub></small>
-Blessed [be] the God and Father of the Lord of us Jesus Christ, the [One] having blessed us with every blessing spiritual in the heavenly realms in Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.2|<< Ephesians 1:2]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.4|Ephesians 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2128\|Εὐλογητὸς]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2532\|καὶ]]  [[G3962\|πατὴρ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3588\|ὁ]]  [[G2127\|εὐλογήσας]]  [[G3165\|ἡμᾶς]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G2129\|εὐλογίᾳ]]  [[G4152\|πνευματικῇ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2032\|ἐπουρανίοις]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic SALVATION|SALVATION]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.2|<< Ephesians 1:2]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.4|Ephesians 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

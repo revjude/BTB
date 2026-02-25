@@ -1,10 +1,58 @@
+---
+title: John 12:20
+type: Verse
+kjv: "And there were certain Greeks among them that came up to worship at the feast:"
+bsb: "Now there were some Greeks among those who went up to worship at the feast."
+greek: "Ἦσαν δὲ Ἕλληνές τινες ἐκ τῶν ἀναβαινόντων ἵνα προσκυνήσωσιν ἐν τῇ ἑορτῇ."
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANDREW|ANDREW]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1672]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0305]]"
+- "[[G2443]]"
+- "[[G4352]]"
+- "[[G1722]]"
+- "[[G1859]]"
+texts:
+- NKO
+---
+
 **John 12:20**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there were certain Greeks among them that came up to worship at the feast:
 <small><sub>**BSB:**</sub></small>
 Now there were some Greeks among those who went up to worship at the feast.
-<small><sub>**Literal:**</sub></small>
-There were now Greeks certain among those coming up that they may worship at the feast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.19|<< John 12:19]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.21|John 12:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦσαν]]  [[G1161\|δὲ]]  [[G1672\|Ἕλληνές]]  [[G5100\|τινες]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0305\|ἀναβαινόντων]]  [[G2443\|ἵνα]]  [[G4352\|προσκυνήσωσιν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1859\|ἑορτῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANDREW|ANDREW]] • [[topic CURIOSITY|CURIOSITY]] • [[topic DESIRE|DESIRE]] • [[topic FEASTS|FEASTS]] • [[topic GREECE|GREECE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.19|<< John 12:19]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.21|John 12:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

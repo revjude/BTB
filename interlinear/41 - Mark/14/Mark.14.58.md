@@ -1,10 +1,66 @@
+---
+title: Mark 14:58
+type: Verse
+kjv: "We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands."
+bsb: "“We heard Him say, ‘I will destroy this man-made temple, and in three days I will build another that is made without hands.’”"
+greek: "ὅτι ἡμεῖς ἠκούσαμεν αὐτοῦ λέγοντος ὅτι ἐγὼ καταλύσω τὸν ναὸν τοῦτον τὸν χειροποίητον καὶ διὰ τριῶν ἡμερῶν ἄλλον ἀχειροποίητον οἰκοδομήσω."
+pericope: "[[Mark.14.53 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3754G]]"
+- "[[G3165]]"
+- "[[G0191]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1473]]"
+- "[[G2647]]"
+- "[[G3588]]"
+- "[[G3485]]"
+- "[[G3778]]"
+- "[[G5499]]"
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G5140]]"
+- "[[G2250]]"
+- "[[G0243]]"
+- "[[G0886]]"
+- "[[G3618]]"
+texts:
+- NKO
+---
+
 **Mark 14:58**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands.
 <small><sub>**BSB:**</sub></small>
 “We heard Him say, ‘I will destroy this man-made temple, and in three days I will build another that is made without hands.’”
-<small><sub>**Literal:**</sub></small>
-that We ourselves heard when he is saying that I myself will destroy <the> temple this the [one] made with hands and in three days another not made with hands I will build.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.57|<< Mark 14:57]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.59|Mark 14:59 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754G\|ὅτι]]  [[G3165\|ἡμεῖς]]  [[G0191\|ἠκούσαμεν]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγοντος]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G2647\|καταλύσω]]  [[G3588\|τὸν]]  [[G3485\|ναὸν]]  [[G3778\|τοῦτον]]  [[G3588\|τὸν]]  [[G5499\|χειροποίητον]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G5140\|τριῶν]]  [[G2250\|ἡμερῶν]]  [[G0243\|ἄλλον]]  [[G0886\|ἀχειροποίητον]]  [[G3618\|οἰκοδομήσω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic COURT|COURT]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.57|<< Mark 14:57]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.59|Mark 14:59 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

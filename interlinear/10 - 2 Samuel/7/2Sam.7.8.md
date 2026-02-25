@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 7:8
+type: Verse
+kjv: "Now therefore so shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:"
+bsb: "Now then, you are to tell My servant David that this is what the LORD of Hosts says: I took you from the pasture, from following the flock, to be the ruler over My people Israel."
+hebrew: "וְ֠עַתָּה כֹּֽה־ תֹאמַ֞ר לְעַבְדִּ֣י לְדָוִ֗ד כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת אֲנִ֤י לְקַחְתִּ֙יךָ֙ מִן־ הַנָּוֶ֔ה מֵאַחַ֖ר הַצֹּ֑אן לִֽהְי֣וֹת נָגִ֔יד עַל־ עַמִּ֖י עַל־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H1732]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0589]]"
+- "[[H3947G]]"
+- "[[H9031]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H5116A]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H6629G]]"
+- "[[H1961]]"
+- "[[H5057]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:8**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore so shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
 <small><sub>**BSB:**</sub></small>
 Now then, you are to tell My servant David that this is what the LORD of Hosts says: I took you from the pasture, from following the flock, to be the ruler over My people Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H6258\|עַתָּה]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|תֹאמַ֞ר]] [[H9005\|לְ]][[H5650\|עַבְדִּ֣]][[H9020\|י]] [[H9005\|לְ]][[H1732\|דָוִ֗ד]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H0589\|אֲנִ֤י]] [[H3947G\|לְקַחְתִּ֙י]][[H9031\|ךָ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H5116A\|נָּוֶ֔ה]] [[H9006\|מֵ]][[H0310A\|אַחַ֖ר]] [[H9009\|הַ]][[H6629G\|צֹּ֑אן]] [[H9005\|לִֽ]][[H1961\|הְי֣וֹת]] [[H5057\|נָגִ֔יד]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic NATHAN|NATHAN]] • [[topic SHEPHERD|SHEPHERD]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.7|<< 2 Samuel 7:7]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.9|2 Samuel 7:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

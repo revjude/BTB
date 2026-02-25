@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Requests a Successor
+type: Pericope
 pericope: "[[Num.27.12 Moses Requests a Successor|Moses Requests a Successor]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 27
 book/chapter: "[[Num.27|Numbers 27]]"
-genre:
+chronological_order: 187
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.27.12]]"
 - "[[Num.27.13]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.27.17]]"
 ---
 
-[[Num.27|Numbers 27:12 - Numbers 27:17]]
+<small>[[Num.27|Numbers 27:12-17]]</small>
 *Moses Requests a Successor*
 
 [[Num.27.12|12]] And the LORD said unto Moses, Get thee up into this mount Abarim, and see the land which I have given unto the children of Israel.

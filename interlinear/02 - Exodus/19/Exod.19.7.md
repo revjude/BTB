@@ -1,8 +1,71 @@
+---
+title: Exodus 19:7
+type: Verse
+kjv: "And Moses came and called for the elders of the people, and laid before their faces all these words which the LORD commanded him."
+bsb: "So Moses went back and summoned the elders of the people and set before them all these words that the LORD had commanded him."
+hebrew: "וַיָּבֹ֣א מֹשֶׁ֔ה וַיִּקְרָ֖א לְזִקְנֵ֣י הָעָ֑ם וַיָּ֣שֶׂם לִפְנֵיהֶ֗ם אֵ֚ת כָּל־ הַדְּבָרִ֣ים הָאֵ֔לֶּה אֲשֶׁ֥ר צִוָּ֖הוּ יְהוָֽה׃"
+pericope: "[[Exod.19.1 Israel at Mount Sinai|Israel at Mount Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic SINAI|SINAI]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H4872]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H2205G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H7760A]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:7**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses came and called for the elders of the people, and laid before their faces all these words which the LORD commanded him.
 <small><sub>**BSB:**</sub></small>
 So Moses went back and summoned the elders of the people and set before them all these words that the LORD had commanded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H4872\|מֹשֶׁ֔ה]] [[H9001\|וַ]][[H7121G\|יִּקְרָ֖א]] [[H9005\|לְ]][[H2205G\|זִקְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H7760A\|יָּ֣שֶׂם]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֗ם]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֖]][[H9033\|הוּ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic SINAI|SINAI]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.6|<< Exodus 19:6]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.8|Exodus 19:8 >>]]</td></tr></table>
 

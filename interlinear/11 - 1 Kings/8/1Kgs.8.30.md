@@ -1,8 +1,66 @@
+---
+title: 1 Kings 8:30
+type: Verse
+kjv: "And hearken thou to the supplication of thy servant, and of thy people Israel, when they shall pray toward this place: and hear thou in heaven thy dwelling place: and when thou hearest, forgive."
+bsb: "Hear the plea of Your servant and of Your people Israel when they pray toward this place. May You hear from heaven, Your dwelling place. May You hear and forgive."
+hebrew: "וְשָׁ֨מַעְתָּ֜ אֶל־ תְּחִנַּ֤ת עַבְדְּךָ֙ וְעַמְּךָ֣ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר יִֽתְפַּֽלְל֖וּ אֶל־ הַמָּק֣וֹם הַזֶּ֑ה וְ֠אַתָּה תִּשְׁמַ֞ע אֶל־ מְק֤וֹם שִׁבְתְּךָ֙ אֶל־ הַשָּׁמַ֔יִם וְשָׁמַעְתָּ֖ וְסָלָֽחְתָּ׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8467]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H6419]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H0859A]]"
+- "[[H3427]]"
+- "[[H9041]]"
+- "[[H8064]]"
+- "[[H5545]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:30**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hearken thou to the supplication of thy servant, and of thy people Israel, when they shall pray toward this place: and hear thou in heaven thy dwelling place: and when thou hearest, forgive.
 <small><sub>**BSB:**</sub></small>
 Hear the plea of Your servant and of Your people Israel when they pray toward this place. May You hear from heaven, Your dwelling place. May You hear and forgive.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8085G\|שָׁ֨מַעְתָּ֜]] [[H0413\|אֶל]][[H9014\|־]] [[H8467\|תְּחִנַּ֤ת]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H5971A\|עַמְּ]][[H9021\|ךָ֣]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H6419\|יִֽתְפַּֽלְל֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וְ֠]][[H0859A\|אַתָּה]] [[H8085G\|תִּשְׁמַ֞ע]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְק֤וֹם]] [[H3427\|שִׁבְתְּ]][[H9041\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וְ]][[H8085G\|שָׁמַעְתָּ֖]] [[H9001\|וְ]][[H5545\|סָלָֽחְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.29|<< 1 Kings 8:29]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.31|1 Kings 8:31 >>]]</td></tr></table>
 

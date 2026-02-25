@@ -1,10 +1,57 @@
+---
+title: Mark 13:6
+type: Verse
+kjv: "For many shall come in my name, saying, I am Christ; and shall deceive many."
+bsb: "Many will come in My name, claiming, ‘I am He,’ and will deceive many."
+jesus_said: "For many shall come in my name, saying, I am Christ; and shall deceive many."
+greek: "πολλοὶ γὰρ ἐλεύσονται ἐπὶ τῷ ὀνόματί μου λέγοντες ὅτι ἐγώ εἰμι, καὶ πολλοὺς πλανήσουσιν."
+pericope: "[[Mark.13.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4183]]"
+- "[[G1063]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G4105]]"
+texts:
+- NKO
+- ko
+---
+
 **Mark 13:6**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For many shall come in my name, saying, I am [Christ]; and shall deceive many.
 <small><sub>**BSB:**</sub></small>
 Many will come in My name, claiming, ‘I am He,’ and will deceive many.
-<small><sub>**Literal:**</sub></small>
-Many for will come in the name of Me saying that I myself am [He], and many they will mislead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.5|<< Mark 13:5]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.7|Mark 13:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|πολλοὶ]]  [[G1063\|γὰρ]]  [[G2064\|ἐλεύσονται]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι,]]  [[G2532\|καὶ]]  [[G4183\|πολλοὺς]]  [[G4105\|πλανήσουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.5|<< Mark 13:5]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.7|Mark 13:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

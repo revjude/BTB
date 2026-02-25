@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 2:24
+type: Verse
+kjv: "And after that Hezron was dead in Calebephratah, then Abiah Hezron’s wife bare him Ashur the father of Tekoa."
+bsb: "After Hezron died in Caleb-ephrathah, his wife Abijah bore to him Ashhur the father of Tekoa."
+hebrew: "וְאַחַ֥ר מוֹת־ חֶצְר֖וֹן בְּכָלֵ֣ב אֶפְרָ֑תָה וְאֵ֤שֶׁת חֶצְרוֹן֙ אֲבִיָּ֔ה וַתֵּ֣לֶד ל֔וֹ אֶת־ אַשְׁח֖וּר אֲבִ֥י תְקֽוֹעַ׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABIAH|ABIAH]]"
+- "[[topic ASHUR|ASHUR]]"
+- "[[topic CALEB-EPHRATAH|CALEB-EPHRATAH]]"
+- "[[topic HEZRON|HEZRON]]"
+- "[[topic TEKOA|TEKOA]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H4194]]"
+- "[[H9014]]"
+- "[[H2696H]]"
+- "[[H9003]]"
+- "[[H3613]]"
+- "[[H0802H]]"
+- "[[H0029J]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H0806]]"
+- "[[H0001G]]"
+- "[[H8620]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:24**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after that Hezron was dead in Calebephratah, then Abiah Hezron’s wife bare him Ashur the father of Tekoa.
 <small><sub>**BSB:**</sub></small>
 After Hezron died in Caleb-ephrathah, his wife Abijah bore to him Ashhur the father of Tekoa.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחַ֥ר]] [[H4194\|מוֹת]][[H9014\|־]] [[H2696H\|חֶצְר֖וֹן]] [[H9003\|בְּ]][[H3613\|כָלֵ֣ב]] [[H3613\|אֶפְרָ֑תָה]] [[H9002\|וְ]][[H0802H\|אֵ֤שֶׁת]] [[H2696H\|חֶצְרוֹן֙]] [[H0029J\|אֲבִיָּ֔ה]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H0806\|אַשְׁח֖וּר]] [[H0001G\|אֲבִ֥י]] [[H8620\|תְקֽוֹעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIAH|ABIAH]] • [[topic ASHUR|ASHUR]] • [[topic CALEB-EPHRATAH|CALEB-EPHRATAH]] • [[topic HEZRON|HEZRON]] • [[topic TEKOA|TEKOA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.23|<< 1 Chronicles 2:23]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.25|1 Chronicles 2:25 >>]]</td></tr></table>
 

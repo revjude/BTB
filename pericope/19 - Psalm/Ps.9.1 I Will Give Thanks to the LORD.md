@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Will Give Thanks to the LORD
+type: Pericope
 pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 9
 book/chapter: "[[Ps.9|Psalm 9]]"
-genre:
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 21
 verses:
 - "[[Ps.9.0]]"
 - "[[Ps.9.1]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Ps.9.20]]"
 ---
 
-[[Ps.9|Psalm 9:1 - Psalm 9:20]]
+<small>[[Ps.9|Psalm 9:1-20]]</small>
 *I Will Give Thanks to the LORD*
 
 [[Ps.9.0|0]] To the chief Musician upon Muthlabben, A Psalm of David.

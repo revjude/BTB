@@ -1,8 +1,72 @@
+---
+title: Joshua 22:10
+type: Verse
+kjv: "And when they came unto the borders of Jordan, that are in the land of Canaan, the children of Reuben and the children of Gad and the half tribe of Manasseh built there an altar by Jordan, a great altar to see to."
+bsb: "And when they came to Geliloth near the Jordan in the land of Canaan, the Reubenites, the Gadites, and the half-tribe of Manasseh built an imposing altar there by the Jordan."
+hebrew: "וַיָּבֹ֙אוּ֙ אֶל־ גְּלִיל֣וֹת הַיַּרְדֵּ֔ן אֲשֶׁ֖ר בְּאֶ֣רֶץ כְּנָ֑עַן וַיִּבְנ֣וּ בְנֵי־ רְאוּבֵ֣ן וּבְנֵי־ גָ֡ד וַחֲצִ֣י שֵׁבֶט֩ הַֽמְנַשֶּׁ֨ה שָׁ֤ם מִזְבֵּ֙חַ֙ עַל־ הַיַּרְדֵּ֔ן מִזְבֵּ֥חַ גָּד֖וֹל לְמַרְאֶֽה׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic GAD|GAD]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1552]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H1129]]"
+- "[[H1121G]]"
+- "[[H7205]]"
+- "[[H9002]]"
+- "[[H1410G]]"
+- "[[H2677]]"
+- "[[H7626H]]"
+- "[[H4519G]]"
+- "[[H8033G]]"
+- "[[H4196]]"
+- "[[H5921A]]"
+- "[[H1419A]]"
+- "[[H9005]]"
+- "[[H4758]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:10**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they came unto the borders of Jordan, that [are] in the land of Canaan, the children of Reuben and the children of Gad and the half tribe of Manasseh built there an altar by Jordan, a great altar to see to.
 <small><sub>**BSB:**</sub></small>
 And when they came to Geliloth near the Jordan in the land of Canaan, the Reubenites, the Gadites, and the half-tribe of Manasseh built an imposing altar there by the Jordan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1552\|גְּלִיל֣וֹת]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9001\|וַ]][[H1129\|יִּבְנ֣וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H7205\|רְאוּבֵ֣ן]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H1410G\|גָ֡ד]] [[H9002\|וַ]][[H2677\|חֲצִ֣י]] [[H7626H\|שֵׁבֶט֩]] [[H9009\|הַֽ]][[H4519G\|מְנַשֶּׁ֨ה]] [[H8033G\|שָׁ֤ם]] [[H4196\|מִזְבֵּ֙חַ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H4196\|מִזְבֵּ֥חַ]] [[H1419A\|גָּד֖וֹל]] [[H9005\|לְ]][[H4758\|מַרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic GAD|GAD]] • [[topic HASTE|HASTE]] • [[topic MOTIVE|MOTIVE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.9|<< Joshua 22:9]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.11|Joshua 22:11 >>]]</td></tr></table>
 

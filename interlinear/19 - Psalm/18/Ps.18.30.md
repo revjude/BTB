@@ -1,8 +1,64 @@
+---
+title: Psalm 18:30
+type: Verse
+kjv: "As for God, his way is perfect: the word of the LORD is tried: he is a buckler to all those that trust in him."
+bsb: "As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him."
+hebrew: "הָאֵל֮ תָּמִ֪ים דַּ֫רְכּ֥וֹ אִמְרַֽת־ יְהוָ֥ה צְרוּפָ֑ה מָגֵ֥ן ה֝֗וּא לְכֹ֤ל׀ הַחֹסִ֬ים בּֽוֹ׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REFINING|REFINING]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H8549G]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H0565A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6884]]"
+- "[[H4043]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H2620]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:30**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him.
 <small><sub>**BSB:**</sub></small>
 As for God, His way is perfect; the word of the LORD is flawless. He is a shield to all who take refuge in Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0410G\|אֵל֮]] [[H8549G\|תָּמִ֪ים]] [[H1870G\|דַּ֫רְכּ֥]][[H9023\|וֹ]] [[H0565A\|אִמְרַֽת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H6884\|צְרוּפָ֑ה]] [[H4043\|מָגֵ֥ן]] [[H1931\|ה֝֗וּא]] [[H9005\|לְ]][[H3605\|כֹ֤ל]][[H9015\|׀]] [[H9009\|הַ]][[H2620\|חֹסִ֬ים]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic REFINING|REFINING]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.29|<< Psalms 18:29]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.31|Psalms 18:31 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Jeremiah 21:2
+type: Verse
+kjv: "Inquire, I pray thee, of the LORD for us; for Nebuchadrezzar king of Babylon maketh war against us; if so be that the LORD will deal with us according to all his wondrous works, that he may go up from us."
+bsb: "“Please inquire of the LORD on our behalf, since Nebuchadnezzar king of Babylon is waging war against us. Perhaps the LORD will perform for us something like all His past wonders, so that Nebuchadnezzar will withdraw from us.”"
+hebrew: "דְּרָשׁ־ נָ֤א בַעֲדֵ֙נוּ֙ אֶת־ יְהוָ֔ה כִּ֛י נְבוּכַדְרֶאצַּ֥ר מֶֽלֶךְ־ בָּבֶ֖ל נִלְחָ֣ם עָלֵ֑ינוּ אוּלַי֩ יַעֲשֶׂ֨ה יְהוָ֤ה אוֹתָ֙נוּ֙ כְּכָל־ נִפְלְאֹתָ֔יו וְיַעֲלֶ֖ה מֵעָלֵֽינוּ׃ ס"
+pericope: "[[Jer.21.1 Jerusalem Will Fall to Babylon|Jerusalem Will Fall to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H1875]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H1157]]"
+- "[[H9035]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H3898A]]"
+- "[[H5921A]]"
+- "[[H0194]]"
+- "[[H6213A]]"
+- "[[H0854]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H6381]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 21:2**<big><big>[[Jer.21.1 Jerusalem Will Fall to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Inquire, I pray thee, of the LORD for us; for Nebuchadrezzar king of Babylon maketh war against us; if so be that the LORD will deal with us according to all his wondrous works, that he may go up from us.
 <small><sub>**BSB:**</sub></small>
 “Please inquire of the LORD on our behalf, since Nebuchadnezzar king of Babylon is waging war against us. Perhaps the LORD will perform for us something like all His past wonders, so that Nebuchadnezzar will withdraw from us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1875\|דְּרָשׁ]][[H9014\|־]] [[H4994\|נָ֤א]] [[H1157\|בַעֲדֵ֙]][[H9035\|נוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֛י]] [[H5019\|נְבוּכַדְרֶאצַּ֥ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H3898A\|נִלְחָ֣ם]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H0194\|אוּלַי֩]] [[H6213A\|יַעֲשֶׂ֨ה]] [[H3068G\|יְהוָ֤ה]] [[H0854\|אוֹתָ֙]][[H9035\|נוּ֙]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H6381\|נִפְלְאֹתָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H5927G\|יַעֲלֶ֖ה]] [[H9006\|מֵ]][[H5921A\|עָלֵֽי]][[H9035\|נוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic ZEDEKIAH|ZEDEKIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.1|<< Jeremiah 21:1]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.3|Jeremiah 21:3 >>]]</td></tr></table>
 
@@ -26,7 +88,7 @@ Inquire, I pray thee, of the LORD for us; for Nebuchadrezzar king of Babylon mak
 | according to all  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | wonders his  |**<big>&#8207;[[H6381\|נִפְלְאֹתָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| nif.le.'o.Ta<small><sup>[[HVNrfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he may go up  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5927G\|יַעֲלֶ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.'a.Leh<small><sup>[[HVqu3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from on \<the> us  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עָלֵֽי]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Lei.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from on \<the> us  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H5921A\|עָלֵֽי]]&#8207;&#8207;[[H9035\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Lei.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.1|<< Jeremiah 21:1]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.3|Jeremiah 21:3 >>]]</td></tr></table>
 
 

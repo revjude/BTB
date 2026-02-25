@@ -1,10 +1,72 @@
+---
+title: Matthew 5:45
+type: Verse
+kjv: "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust."
+bsb: "that you may be sons of your Father in heaven. He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous."
+jesus_said: "That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust."
+greek: "ὅπως γένησθε υἱοὶ τοῦ πατρὸς ὑμῶν τοῦ ἐν τοῖς οὐρανοῖς, ὅτι τὸν ἥλιον αὐτοῦ ἀνατέλλει ἐπὶ πονηροὺς καὶ ἀγαθοὺς καὶ βρέχει ἐπὶ δικαίους καὶ ἀδίκους."
+pericope: "[[Matt.5.38 Love Your Enemies|Love Your Enemies]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G3704]]"
+- "[[G1096]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G3754H]]"
+- "[[G2246]]"
+- "[[G0846]]"
+- "[[G0393]]"
+- "[[G1909]]"
+- "[[G4190]]"
+- "[[G2532]]"
+- "[[G0018]]"
+- "[[G1026]]"
+- "[[G1342]]"
+- "[[G0094]]"
+texts:
+- NKO
+- o
+---
+
 **Matthew 5:45**<big><big>[[Matt.5.38 Love Your Enemies|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
 <small><sub>**BSB:**</sub></small>
 that you may be sons of your Father in heaven. He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
-<small><sub>**Literal:**</sub></small>
-so that you may be sons of the Father of you who is in the heavens, For the sun of Him He makes rise on evil and good and He sends rain on righteous and unrighteous.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.44|<< Matthew 5:44]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.46|Matthew 5:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3704\|ὅπως]]  [[G1096\|γένησθε]]  [[G5207\|υἱοὶ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G4771\|ὑμῶν]]  [[G3588\|τοῦ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς,]]  [[G3754H\|ὅτι]]  [[G3588\|τὸν]]  [[G2246\|ἥλιον]]  [[G0846\|αὐτοῦ]]  [[G0393\|ἀνατέλλει]]  [[G1909\|ἐπὶ]]  [[G4190\|πονηροὺς]]  [[G2532\|καὶ]]  [[G0018\|ἀγαθοὺς]]  [[G2532\|καὶ]]  [[G1026\|βρέχει]]  [[G1909\|ἐπὶ]]  [[G1342\|δικαίους]]  [[G2532\|καὶ]]  [[G0094\|ἀδίκους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic BLESSING|BLESSING]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic HEAVEN|HEAVEN]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic LOVE|LOVE]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.44|<< Matthew 5:44]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.46|Matthew 5:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

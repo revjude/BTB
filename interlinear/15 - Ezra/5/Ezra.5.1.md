@@ -1,8 +1,67 @@
+---
+title: Ezra 5:1
+type: Verse
+kjv: "Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them."
+bsb: "Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them."
+aramaic: "וְהִתְנַבִּ֞י חַגַּ֣י נְבִיָּ֗א וּזְכַרְיָ֤ה בַר־ עִדּוֹא֙ נְבִיַּיָּ֔א עַל־ יְה֣וּדָיֵ֔א דִּ֥י בִיה֖וּד וּבִירוּשְׁלֶ֑ם בְּשֻׁ֛ם אֱלָ֥הּ יִשְׂרָאֵ֖ל עֲלֵיהֽוֹן׃ ס"
+pericope: "[[Ezra.5.1 Temple Rebuilding Resumes|Temple Rebuilding Resumes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 5
+book/chapter: "[[Ezra.5|Ezra 5]]"
+chronological_order: 853
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic HAGGAI|HAGGAI]]"
+- "[[topic IDDO|IDDO]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H5013]]"
+- "[[H2292B]]"
+- "[[H5029]]"
+- "[[H9024]]"
+- "[[H9010]]"
+- "[[H2148B]]"
+- "[[H1247]]"
+- "[[H9014]]"
+- "[[H5714J]]"
+- "[[H5922]]"
+- "[[H3062]]"
+- "[[H1768]]"
+- "[[H9003]]"
+- "[[H3061]]"
+- "[[H3390]]"
+- "[[H8036]]"
+- "[[H0426]]"
+- "[[H3479]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezra 5:1**<big><big>[[Ezra.5.1 Temple Rebuilding Resumes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that [were] in Judah and Jerusalem in the name of the God of Israel, [even] unto them.
 <small><sub>**BSB:**</sub></small>
 Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H5013\|הִתְנַבִּ֞י]] [[H2292B\|חַגַּ֣י]] [[H5029\|נְבִיָּ֗]][[H9010\|א]] [[H9002\|וּ]][[H2148B\|זְכַרְיָ֤ה]] [[H1247\|בַר]][[H9014\|־]] [[H5714J\|עִדּוֹא֙]] [[H5029\|נְבִיַּיָּ֔]][[H9010\|א]] [[H5922\|עַל]][[H9014\|־]] [[H3062\|יְה֣וּדָיֵ֔]][[H9010\|א]] [[H1768\|דִּ֥י]] [[H9003\|בִ]][[H3061\|יה֖וּד]] [[H9002\|וּ]][[H9003\|בִ]][[H3390\|ירוּשְׁלֶ֑ם]] [[H9003\|בְּ]][[H8036\|שֻׁ֛ם]] [[H0426\|אֱלָ֥הּ]] [[H3479\|יִשְׂרָאֵ֖ל]] [[H5922\|עֲלֵי]][[H9038\|הֽוֹן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAGGAI|HAGGAI]] • [[topic IDDO|IDDO]] • [[topic JESHUA|JESHUA]] • [[topic PROPHETS|PROPHETS]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.24|<< Ezra 4:24]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.2|Ezra 5:2 >>]]</td></tr></table>
 
@@ -23,11 +82,11 @@ Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in J
 | in [the] name of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8036\|שֻׁ֛ם]]&#8207; </big>**| be.<small><sup>[[AR]]</sup></small> Shum<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] God of  |**<big>&#8207;[[H0426\|אֱלָ֥הּ]]&#8207; </big>**| 'e.Lah<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3479\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [who was] over them  |**<big>&#8207;[[H5922\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| a.lei.<small><sup>[[AR]]</sup></small> Hon<small><sup>[[ASp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [who was] over them  |**<big>&#8207;[[H5922\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| a.lei.<small><sup>[[AR]]</sup></small> Hon<small><sup>[[ASp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.24|<< Ezra 4:24]]</td><td align="center" style="border:none;">[[Ezra.5|Ezra 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.2|Ezra 5:2 >>]]</td></tr></table>
 
-[^1]: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> | K
-[^2]: prophet the  | **<big>[[H9024|ה]]</big><big>[[H5029|נְבִיאָ]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> | K
+[^1]: prophet the  | **<big>[[H5029|נְבִיאָ]]</big><big>[[H9024|ה]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> | K
+[^2]: prophet the  | **<big>[[H5029|נְבִיאָ]]</big><big>[[H9024|ה]]</big> ** | ne.vi.'a<small><sup>[[ANcbsd]]</sup></small> h<small><sup>[[ATa]]</sup></small> | K
 [^3]: L spelled: **<span class="asaramaic"><big>נְבִיָּ֗אה</big></span>**
 [^4]: L spelled: **<span class="asaramaic"><big>נְבִיַּאיָּ֔א</big></span>**
 [^5]: K spelled: **<span class="asaramaic"><big>נְבִיאַיָּא</big></span>**

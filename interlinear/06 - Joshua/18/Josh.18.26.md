@@ -1,8 +1,49 @@
+---
+title: Joshua 18:26
+type: Verse
+kjv: "And Mizpeh, and Chephirah, and Mozah,"
+bsb: "Mizpeh, Chephirah, Mozah,"
+hebrew: "וְהַמִּצְפֶּ֥ה וְהַכְּפִירָ֖ה וְהַמֹּצָֽה׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CHEPHIRAH|CHEPHIRAH]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic MOZAH|MOZAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4708I]]"
+- "[[H3716]]"
+- "[[H4681]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:26**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mizpeh, and Chephirah, and Mozah,
 <small><sub>**BSB:**</sub></small>
 Mizpeh, Chephirah, Mozah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4708I\|מִּצְפֶּ֥ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3716\|כְּפִירָ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H4681\|מֹּצָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic CHEPHIRAH|CHEPHIRAH]] • [[topic MIZPAH|MIZPAH]] • [[topic MOZAH|MOZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.25|<< Joshua 18:25]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.27|Joshua 18:27 >>]]</td></tr></table>
 

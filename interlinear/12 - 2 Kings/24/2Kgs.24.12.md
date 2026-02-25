@@ -1,8 +1,69 @@
+---
+title: 2 Kings 24:12
+type: Verse
+kjv: "And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign."
+bsb: "Jehoiachin king of Judah, his mother, his servants, his commanders, and his officials all surrendered to the king of Babylon. So in the eighth year of his reign, the king of Babylon took him captive."
+hebrew: "וַיֵּצֵ֞א יְהוֹיָכִ֤ין מֶֽלֶךְ־ יְהוּדָה֙ עַל־ מֶ֣לֶךְ בָּבֶ֔ל ה֣וּא וְאִמּ֔וֹ וַעֲבָדָ֖יו וְשָׂרָ֣יו וְסָֽרִיסָ֑יו וַיִּקַּ֤ח אֹתוֹ֙ מֶ֣לֶךְ בָּבֶ֔ל בִּשְׁנַ֥ת שְׁמֹנֶ֖ה לְמָלְכֽוֹ׃"
+pericope: "[[2Kgs.24.10 The Captivity of Jerusalem|The Captivity of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3078]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H5921A]]"
+- "[[H0894]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H5650]]"
+- "[[H8269]]"
+- "[[H5631]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H8083]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 24:12**<big><big>[[2Kgs.24.10 The Captivity of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign.
 <small><sub>**BSB:**</sub></small>
 Jehoiachin king of Judah, his mother, his servants, his commanders, and his officials all surrendered to the king of Babylon. So in the eighth year of his reign, the king of Babylon took him captive.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֞א]] [[H3078\|יְהוֹיָכִ֤ין]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H1931\|ה֣וּא]] [[H9002\|וְ]][[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H9002\|וַ]][[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H8269\|שָׂרָ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H5631\|סָֽרִיסָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H3947G\|יִּקַּ֤ח]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H9003\|בִּ]][[H8141\|שְׁנַ֥ת]] [[H8083\|שְׁמֹנֶ֖ה]] [[H9005\|לְ]][[H4427A\|מָלְכֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.11|<< 2 Kings 24:11]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.13|2 Kings 24:13 >>]]</td></tr></table>
 

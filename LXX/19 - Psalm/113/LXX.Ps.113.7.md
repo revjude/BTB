@@ -1,6 +1,50 @@
+---
+title: LXX Psalm 113:7
+type: Verse
+lxx: "The one raising the poor from the earth, and elevating the needy from the dung;"
+greek: "ο εγείρων από γης πτωχόν και από κοπρίας ανυψών πένητα"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 113
+book/chapter: "[[Ps.113|Psalm 113]]"
+chronological_order: 875
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POOR|POOR]]"
+- "[[topic PROMOTION|PROMOTION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1453]]"
+- "[[G0575]]"
+- "[[G1093]]"
+- "[[G4434]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G2874]]"
+- "[[G6380]]"
+- "[[G3993]]"
+---
+
 **LXX Psalm 113:7** 
 <small><sub>**LXX:**</sub></small>
 The one raising \[the\] poor from \[the\] earth, and elevating \[the\] needy from \[the\] dung; 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ο]] [[G1453\|εγείρων]] [[G0575\|από]] [[G1093\|γης]] [[G4434\|πτωχόν]] [[G2532\|και]] [[G0575\|από]] [[G2874\|κοπρίας]] [[G6380\|ανυψών]] [[G3993\|πένητα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POOR|POOR]] • [[topic PROMOTION|PROMOTION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.113.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.6|<< Psalm 113:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.8|Psalm 113:8 >>]]</td></tr></table>
 
@@ -16,6 +60,6 @@ The one raising \[the\] poor from \[the\] earth, and elevating \[the\] needy fro
 | \[the\] dung | **<big>[[G2874\|κοπρίας]]</big>** |
 | elevating | **<big>[[G6380\|ανυψών]]</big>** |
 | \[the\] needy | **<big>[[G3993\|πένητα]]</big>** |
-[[Ps.113.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.6|<< Psalm 113:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.8|Psalm 113:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.113.6|<< Psalm 113:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.113.8|Psalm 113:8 >>]]</td></tr></table>
 
 

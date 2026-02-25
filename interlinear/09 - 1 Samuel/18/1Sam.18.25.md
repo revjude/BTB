@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 18:25
+type: Verse
+kjv: "And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king’s enemies. But Saul thought to make David fall by the hand of the Philistines."
+bsb: "Saul replied, “Say to David, ‘The king desires no other dowry but a hundred Philistine foreskins as revenge on his enemies.’” But Saul intended to cause David’s death at the hands of the Philistines."
+hebrew: "וַיֹּ֨אמֶר שָׁא֜וּל כֹּֽה־ תֹאמְר֣וּ לְדָוִ֗ד אֵֽין־ חֵ֤פֶץ לַמֶּ֙לֶךְ֙ בְּמֹ֔הַר כִּ֗י בְּמֵאָה֙ עָרְל֣וֹת פְּלִשְׁתִּ֔ים לְהִנָּקֵ֖ם בְּאֹיְבֵ֣י הַמֶּ֑לֶךְ וְשָׁא֣וּל חָשַׁ֔ב לְהַפִּ֥יל אֶת־ דָּוִ֖ד בְּיַד־ פְּלִשְׁתִּֽים׃"
+pericope: "[[1Sam.18.17 David Marries Michal|David Marries Michal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H0369]]"
+- "[[H2656]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H4119]]"
+- "[[H3588A]]"
+- "[[H3967]]"
+- "[[H6190H]]"
+- "[[H6430G]]"
+- "[[H5358]]"
+- "[[H0341]]"
+- "[[H9009]]"
+- "[[H9002]]"
+- "[[H2803I]]"
+- "[[H5307J]]"
+- "[[H0853]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 18:25**<big><big>[[1Sam.18.17 David Marries Michal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king’s enemies. But Saul thought to make David fall by the hand of the Philistines.
 <small><sub>**BSB:**</sub></small>
 Saul replied, “Say to David, ‘The king desires no other dowry but a hundred Philistine foreskins as revenge on his enemies.’” But Saul intended to cause David’s death at the hands of the Philistines.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H7586G\|שָׁא֜וּל]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|תֹאמְר֣וּ]] [[H9005\|לְ]][[H1732\|דָוִ֗ד]] [[H0369\|אֵֽין]][[H9014\|־]] [[H2656\|חֵ֤פֶץ]] [[H9005\|לַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9003\|בְּ]][[H4119\|מֹ֔הַר]] [[H3588A\|כִּ֗י]] [[H9003\|בְּ]][[H3967\|מֵאָה֙]] [[H6190H\|עָרְל֣וֹת]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9005\|לְ]][[H5358\|הִנָּקֵ֖ם]] [[H9003\|בְּ]][[H0341\|אֹיְבֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H7586G\|שָׁא֣וּל]] [[H2803I\|חָשַׁ֔ב]] [[H9005\|לְ]][[H5307J\|הַפִּ֥יל]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MICHAL|MICHAL]] • [[topic PHILISTINES|PHILISTINES]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.24|<< 1 Samuel 18:24]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.26|1 Samuel 18:26 >>]]</td></tr></table>
 

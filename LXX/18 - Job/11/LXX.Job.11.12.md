@@ -1,6 +1,54 @@
+---
+title: LXX Job 11:12
+type: Verse
+lxx: "But man otherwise shall be over-confident with words; but a mortal born of a woman is equal to a recluse donkey."
+greek: "άνθρωπος δε άλλως θρασύνεται λόγοις βροτός δε γεννητός γυναικός ίσα όνω ερημίτη"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G0444]]"
+- "[[G1161]]"
+- "[[G0247]]"
+- "[[G7685]]"
+- "[[G3056]]"
+- "[[G6699]]"
+- "[[G1161]]"
+- "[[G1084]]"
+- "[[G1135]]"
+- "[[G2470]]"
+- "[[G3688]]"
+- "[[G7504]]"
+---
+
 **LXX Job 11:12** 
 <small><sub>**LXX:**</sub></small>
 But man otherwise shall be over-confident with words; but a mortal born of a woman \[is\] equal to a recluse donkey. 
+<small><sub>**Greek:**</sub></small>
+[[G0444\|άνθρωπος]] [[G1161\|δε]] [[G0247\|άλλως]] [[G7685\|θρασύνεται]] [[G3056\|λόγοις]] [[G6699\|βροτός]] [[G1161\|δε]] [[G1084\|γεννητός]] [[G1135\|γυναικός]] [[G2470\|ίσα]] [[G3688\|όνω]] [[G7504\|ερημίτη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic IGNORANCE|IGNORANCE]] • [[topic PRIDE|PRIDE]] • [[topic SARCASM|SARCASM]] • [[topic VANITY|VANITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.11|<< Job 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.13|Job 11:13 >>]]</td></tr></table>
 
@@ -16,6 +64,6 @@ But man otherwise shall be over-confident with words; but a mortal born of a wom
 | \[is\] equal | **<big>[[G2470\|ίσα]]</big>** |
 | donkey | **<big>[[G3688\|όνω]]</big>** |
 | to a recluse | **<big>[[G7504\|ερημίτη]]</big>** |
-[[Job.11.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.11|<< Job 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.13|Job 11:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.11.11|<< Job 11:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.11.13|Job 11:13 >>]]</td></tr></table>
 
 

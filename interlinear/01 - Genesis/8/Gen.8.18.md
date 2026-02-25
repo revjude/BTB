@@ -1,8 +1,50 @@
+---
+title: Genesis 8:18
+type: Verse
+kjv: "And Noah went forth, and his sons, and his wife, and his sons’ wives with him:"
+bsb: "So Noah came out, along with his sons and his wife and his sons’ wives."
+hebrew: "וַיֵּ֖צֵא־ נֹ֑חַ וּבָנָ֛יו וְאִשְׁתּ֥וֹ וּנְשֵֽׁי־ בָנָ֖יו אִתּֽוֹ׃"
+pericope: "[[Gen.8.13 Exiting the Ark|Exiting the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9014]]"
+- "[[H5146]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0802H]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:18**<big><big>[[Gen.8.13 Exiting the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Noah went forth, and his sons, and his wife, and his sons’ wives with him:
 <small><sub>**BSB:**</sub></small>
 So Noah came out, along with his sons and his wife and his sons’ wives.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּ֖צֵא]][[H9014\|־]] [[H5146\|נֹ֑חַ]] [[H9002\|וּ]][[H1121A\|בָנָ֛י]][[H9023\|ו]] [[H9002\|וְ]][[H0802H\|אִשְׁתּ֥]][[H9023\|וֹ]] [[H9002\|וּ]][[H0802H\|נְשֵֽׁי]][[H9014\|־]] [[H1121A\|בָנָ֖י]][[H9023\|ו]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.17|<< Genesis 8:17]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.19|Genesis 8:19 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Manasseh Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.33.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 33
 book/chapter: "[[2Chr.33|2 Chronicles 33]]"
-genre:
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 9
 verses:
 - "[[2Chr.33.1]]"
 - "[[2Chr.33.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Chr.33.9]]"
 ---
 
-[[2Chr.33|2 Chronicles 33:1 - 2 Chronicles 33:9]]
+<small>[[2Chr.33|2 Chronicles 33:1-9]]</small>
 *Manasseh Reigns in Judah*
 
 [[2Chr.33.1|1]] Manasseh \[was\] twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:

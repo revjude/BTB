@@ -1,8 +1,54 @@
+---
+title: Job 5:2
+type: Verse
+kjv: "For wrath killeth the foolish man, and envy slayeth the silly one."
+bsb: "For resentment kills a fool, and envy slays the simple."
+hebrew: "כִּֽי־ לֶֽ֭אֱוִיל יַהֲרָג־ כָּ֑עַשׂ וּ֝פֹתֶ֗ה תָּמִ֥ית קִנְאָֽה׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H0191]]"
+- "[[H2026]]"
+- "[[H3708B]]"
+- "[[H9002]]"
+- "[[H6601B]]"
+- "[[H4191]]"
+- "[[H7068]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:2**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For wrath killeth the foolish man, and envy slayeth the silly one.
 <small><sub>**BSB:**</sub></small>
 For resentment kills a fool, and envy slays the simple.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לֶֽ֭]][[H0191\|אֱוִיל]] [[H2026\|יַהֲרָג]][[H9014\|־]] [[H3708B\|כָּ֑עַשׂ]] [[H9002\|וּ֝]][[H6601B\|פֹתֶ֗ה]] [[H4191\|תָּמִ֥ית]] [[H7068\|קִנְאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ENVY|ENVY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.1|<< Job 5:1]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.3|Job 5:3 >>]]</td></tr></table>
 

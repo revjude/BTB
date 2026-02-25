@@ -1,8 +1,78 @@
+---
+title: Genesis 37:22
+type: Verse
+kjv: "And Reuben said unto them, Shed no blood, but cast him into this pit that is in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again."
+bsb: "“Do not shed his blood. Throw him into this pit in the wilderness, but do not lay a hand on him.” Reuben said this so that he could rescue Joseph from their hands and return him to his father."
+hebrew: "וַיֹּ֨אמֶר אֲלֵהֶ֣ם׀ רְאוּבֵן֮ אַל־ תִּשְׁפְּכוּ־ דָם֒ הַשְׁלִ֣יכוּ אֹת֗וֹ אֶל־ הַבּ֤וֹר הַזֶּה֙ אֲשֶׁ֣ר בַּמִּדְבָּ֔ר וְיָ֖ד אַל־ תִּשְׁלְחוּ־ ב֑וֹ לְמַ֗עַן הַצִּ֤יל אֹתוֹ֙ מִיָּדָ֔ם לַהֲשִׁיב֖וֹ אֶל־ אָבִֽיו׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic REUBEN|REUBEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H7205]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8210H]]"
+- "[[H1818]]"
+- "[[H7993]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H0953A]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H3027G]]"
+- "[[H7971K]]"
+- "[[H4616]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H7725H]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:22**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Reuben said unto them, Shed no blood, [but] cast him into this pit that [is] in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again.
 <small><sub>**BSB:**</sub></small>
 “Do not shed his blood. Throw him into this pit in the wilderness, but do not lay a hand on him.” Reuben said this so that he could rescue Joseph from their hands and return him to his father.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֣ם]][[H9015\|׀]] [[H7205\|רְאוּבֵן֮]] [[H0408\|אַל]][[H9014\|־]] [[H8210H\|תִּשְׁפְּכוּ]][[H9014\|־]] [[H1818\|דָם֒]] [[H7993\|הַשְׁלִ֣יכוּ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H0953A\|בּ֤וֹר]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֔ר]] [[H9002\|וְ]][[H3027G\|יָ֖ד]] [[H0408\|אַל]][[H9014\|־]] [[H7971K\|תִּשְׁלְחוּ]][[H9014\|־]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H4616\|לְמַ֗עַן]] [[H5337\|הַצִּ֤יל]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9006\|מִ]][[H3027G\|יָּדָ֔]][[H9028\|ם]] [[H9005\|לַ]][[H7725H\|הֲשִׁיב֖]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic REUBEN|REUBEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.21|<< Genesis 37:21]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.23|Genesis 37:23 >>]]</td></tr></table>
 

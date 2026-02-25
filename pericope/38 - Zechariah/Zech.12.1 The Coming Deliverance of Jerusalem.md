@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Coming Deliverance of Jerusalem
+type: Pericope
 pericope: "[[Zech.12.1 The Coming Deliverance of Jerusalem|The Coming Deliverance of Jerusalem]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 12
 book/chapter: "[[Zech.12|Zechariah 12]]"
-genre:
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 9
 verses:
 - "[[Zech.12.1]]"
 - "[[Zech.12.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Zech.12.9]]"
 ---
 
-[[Zech.12|Zechariah 12:1 - Zechariah 12:9]]
+<small>[[Zech.12|Zechariah 12:1-9]]</small>
 *The Coming Deliverance of Jerusalem*
 
 [[Zech.12.1|1]] The burden of the word of the LORD for Israel, saith the LORD, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him.

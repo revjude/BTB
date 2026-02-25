@@ -1,10 +1,61 @@
+---
+title: John 18:3
+type: Verse
+kjv: "Judas then, having received a band of men and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons."
+bsb: "So Judas brought a band of soldiers and officers from the chief priests and Pharisees. They arrived at the garden carrying lanterns, torches, and weapons."
+greek: "Ὁ οὖν Ἰούδας λαβὼν τὴν σπεῖραν καὶ ἐκ τῶν ἀρχιερέων καὶ ἐκ τῶν Φαρισαίων ὑπηρέτας ἔρχεται ἐκεῖ μετὰ φανῶν καὶ λαμπάδων καὶ ὅπλων.¶"
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic LANTERN|LANTERN]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G2455H]]"
+- "[[G2983]]"
+- "[[G4686]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G0749]]"
+- "[[G5330]]"
+- "[[G5257]]"
+- "[[G2064]]"
+- "[[G1563]]"
+- "[[G3326]]"
+- "[[G5322]]"
+- "[[G2985]]"
+- "[[G3696]]"
+texts:
+- NKO
+---
+
 **John 18:3**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Judas then, having received a band [of men] and officers from the chief priests and Pharisees, cometh thither with lanterns and torches and weapons.
 <small><sub>**BSB:**</sub></small>
 So Judas brought a band of soldiers and officers from the chief priests and Pharisees. They arrived at the garden carrying lanterns, torches, and weapons.
-<small><sub>**Literal:**</sub></small>
-<the> Therefore Judas having procured the cohort and from the chief priests and from the Pharisees officers comes there with lanterns and torches and weapons.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.2|<< John 18:2]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.4|John 18:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3767\|οὖν]]  [[G2455H\|Ἰούδας]]  [[G2983\|λαβὼν]]  [[G3588\|τὴν]]  [[G4686\|σπεῖραν]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0749\|ἀρχιερέων]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G5257\|ὑπηρέτας]]  [[G2064\|ἔρχεται]]  [[G1563\|ἐκεῖ]]  [[G3326\|μετὰ]]  [[G5322\|φανῶν]]  [[G2532\|καὶ]]  [[G2985\|λαμπάδων]]  [[G2532\|καὶ]]  [[G3696\|ὅπλων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic LANTERN|LANTERN]] • [[topic PRISONERS|PRISONERS]] • [[topic PROPHECY|PROPHECY]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.2|<< John 18:2]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.4|John 18:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

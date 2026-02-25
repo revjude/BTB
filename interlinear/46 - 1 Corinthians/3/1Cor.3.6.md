@@ -1,10 +1,52 @@
+---
+title: 1 Corinthians 3:6
+type: Verse
+kjv: "I have planted, Apollos watered; but God gave the increase."
+bsb: "I planted the seed and Apollos watered it, but God made it grow."
+greek: "ἐγὼ ἐφύτευσα, Ἀπολλῶς ἐπότισεν, ἀλλ᾽ ὁ θεὸς ηὔξανεν·"
+pericope: "[[1Cor.3.1 God’s Fellow Workers|God’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic APOLLOS|APOLLOS]]"
+- "[[topic IRRIGATION|IRRIGATION]]"
+- "[[topic POWER|POWER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1473]]"
+- "[[G5452]]"
+- "[[G0625]]"
+- "[[G4222]]"
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0837]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 3:6**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I have planted, Apollos watered; but God gave the increase.
 <small><sub>**BSB:**</sub></small>
 I planted the seed and Apollos watered it, but God made it grow.
-<small><sub>**Literal:**</sub></small>
-I myself planted, Apollos watered, but <the> God was [it] growing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.5|<< 1 Corinthians 3:5]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.7|1 Corinthians 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγὼ]]  [[G5452\|ἐφύτευσα,]]  [[G0625\|Ἀπολλῶς]]  [[G4222\|ἐπότισεν,]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0837\|ηὔξανεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOLLOS|APOLLOS]] • [[topic IRRIGATION|IRRIGATION]] • [[topic POWER|POWER]] • [[topic REGENERATION|REGENERATION]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.5|<< 1 Corinthians 3:5]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.7|1 Corinthians 3:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

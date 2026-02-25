@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 1:38
+type: Verse
+kjv: "And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan."
+bsb: "The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan."
+hebrew: "וּבְנֵ֣י שֵׂעִ֔יר לוֹטָ֥ן וְשׁוֹבָ֖ל וְצִבְע֣וֹן וַֽעֲנָ֑ה וְדִישֹׁ֥ן וְאֵ֖צֶר וְדִישָֽׁן׃"
+pericope: "[[1Chr.1.38 The Descendants of Seir|The Descendants of Seir]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ANAH|ANAH]]"
+- "[[topic DISHAN|DISHAN]]"
+- "[[topic DISHON|DISHON]]"
+- "[[topic EZER|EZER]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic SEIR|SEIR]]"
+- "[[topic SHEM|SHEM]]"
+- "[[topic SHOBAL|SHOBAL]]"
+- "[[topic ZIBEON|ZIBEON]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H8165B]]"
+- "[[H3877]]"
+- "[[H7732G]]"
+- "[[H6649H]]"
+- "[[H6034]]"
+- "[[H1787G]]"
+- "[[H0687]]"
+- "[[H1789G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:38**<big><big>[[1Chr.1.38 The Descendants of Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan.
 <small><sub>**BSB:**</sub></small>
 The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H8165B\|שֵׂעִ֔יר]] [[H3877\|לוֹטָ֥ן]] [[H9002\|וְ]][[H7732G\|שׁוֹבָ֖ל]] [[H9002\|וְ]][[H6649H\|צִבְע֣וֹן]] [[H9002\|וַֽ]][[H6034\|עֲנָ֑ה]] [[H9002\|וְ]][[H1787G\|דִישֹׁ֥ן]] [[H9002\|וְ]][[H0687\|אֵ֖צֶר]] [[H9002\|וְ]][[H1789G\|דִישָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAH|ANAH]] • [[topic DISHAN|DISHAN]] • [[topic DISHON|DISHON]] • [[topic EZER|EZER]] • [[topic GENEALOGY|GENEALOGY]] • [[topic SEIR|SEIR]] • [[topic SHEM|SHEM]] • [[topic SHOBAL|SHOBAL]] • [[topic ZIBEON|ZIBEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.37|<< 1 Chronicles 1:37]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.39|1 Chronicles 1:39 >>]]</td></tr></table>
 

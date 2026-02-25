@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Assyria
+type: Pericope
 pericope: "[[Isa.10.5 Judgment on Assyria|Judgment on Assyria]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 10
 book/chapter: "[[Isa.10|Isaiah 10]]"
-genre:
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 15
 verses:
 - "[[Isa.10.5]]"
 - "[[Isa.10.6]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Isa.10.19]]"
 ---
 
-[[Isa.10|Isaiah 10:5 - Isaiah 10:19]]
+<small>[[Isa.10|Isaiah 10:5-19]]</small>
 *Judgment on Assyria*
 
 [[Isa.10.5|5]] O Assyrian, the rod of mine anger, and the staff in their hand is mine indignation.

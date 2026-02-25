@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woes to Pharisees and Experts in the Law
+type: Pericope
 pericope: "[[Luke.11.37 Woes to Pharisees and Experts in the Law|Woes to Pharisees and Experts in the Law]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: Luke
 chapter: 11
 book/chapter: "[[Luke.11|Luke 11]]"
-genre:
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 18
 verses:
 - "[[Luke.11.37]]"
 - "[[Luke.11.38]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Luke.11.54]]"
 ---
 
-[[Luke.11|Luke 11:37 - Luke 11:54]]
+<small>[[Luke.11|Luke 11:37-54]]</small>
 *Woes to Pharisees and Experts in the Law*
 
 [[Luke.11.37|37]] And as he spake, a certain Pharisee besought him to dine with him: and he went in, and sat down to meat.

@@ -1,10 +1,69 @@
+---
+title: John 19:31
+type: Verse
+kjv: "The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and that they might be taken away."
+bsb: "It was the day of Preparation, and the next day was a High Sabbath. In order that the bodies would not remain on the cross during the Sabbath, the Jews asked Pilate to have the legs broken and the bodies removed."
+greek: "Οἱ οὖν Ἰουδαῖοι, ἐπεὶ παρασκευὴ ἦν, ἵνα μὴ μείνῃ ἐπὶ τοῦ σταυροῦ τὰ σώματα ἐν τῷ σαββάτῳ, ἦν γὰρ μεγάλη ἡ ἡμέρα ἐκείνου τοῦ σαββάτου, ἠρώτησαν τὸν Πιλᾶτον ἵνα κατεαγῶσιν αὐτῶν τὰ σκέλη καὶ ἀρθῶσιν."
+pericope: "[[John.19.31 Jesus’ Side Is Pierced|Jesus’ Side Is Pierced]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEGS|LEGS]]"
+- "[[topic PREPARATION DAY|PREPARATION DAY]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G2453]]"
+- "[[G1893]]"
+- "[[G3904]]"
+- "[[G1510]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3306]]"
+- "[[G1909]]"
+- "[[G4716]]"
+- "[[G4983]]"
+- "[[G1722]]"
+- "[[G4521]]"
+- "[[G1063]]"
+- "[[G3173]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G2065]]"
+- "[[G4091]]"
+- "[[G2608]]"
+- "[[G0846]]"
+- "[[G4628]]"
+- "[[G2532]]"
+- "[[G0142]]"
+texts:
+- NKO
+---
+
 **John 19:31**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Jews therefore, because it was the preparation, that the bodies should not remain upon the cross on the sabbath day, (for that sabbath day was an high day,) besought Pilate that their legs might be broken, and [that] they might be taken away.
 <small><sub>**BSB:**</sub></small>
 It was the day of Preparation, and the next day was a High Sabbath. In order that the bodies would not remain on the cross during the Sabbath, the Jews asked Pilate to have the legs broken and the bodies removed.
-<small><sub>**Literal:**</sub></small>
-<the> Therefore the Jews, since [the] Preparation was, so that not may remain on the cross the bodies on the Sabbath — was for a high <the> day of that <the> Sabbath — asked <the> Pilate that may be broken their <the> legs and they may be taken away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.30|<< John 19:30]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.32|John 19:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G3767\|οὖν]]  [[G2453\|Ἰουδαῖοι,]]  [[G1893\|ἐπεὶ]]  [[G3904\|παρασκευὴ]]  [[G1510\|ἦν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3306\|μείνῃ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G4716\|σταυροῦ]]  [[G3588\|τὰ]]  [[G4983\|σώματα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4521\|σαββάτῳ,]]  [[G1510\|ἦν]]  [[G1063\|γὰρ]]  [[G3173\|μεγάλη]]  [[G3588\|ἡ]]  [[G2250\|ἡμέρα]]  [[G1565\|ἐκείνου]]  [[G3588\|τοῦ]]  [[G4521\|σαββάτου,]]  [[G2065\|ἠρώτησαν]]  [[G3588\|τὸν]]  [[G4091\|Πιλᾶτον]]  [[G2443\|ἵνα]]  [[G2608\|κατεαγῶσιν]]  [[G0846\|αὐτῶν]]  [[G3588\|τὰ]]  [[G4628\|σκέλη]]  [[G2532\|καὶ]]  [[G0142\|ἀρθῶσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEGS|LEGS]] • [[topic PREPARATION DAY|PREPARATION DAY]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.30|<< John 19:30]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.32|John 19:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

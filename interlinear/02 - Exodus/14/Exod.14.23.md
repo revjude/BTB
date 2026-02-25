@@ -1,8 +1,70 @@
+---
+title: Exodus 14:23
+type: Verse
+kjv: "And the Egyptians pursued, and went in after them to the midst of the sea, even all Pharaoh’s horses, his chariots, and his horsemen."
+bsb: "And the Egyptians chased after them—all Pharaoh’s horses, chariots, and horsemen—and followed them into the sea."
+hebrew: "וַיִּרְדְּפ֤וּ מִצְרַ֙יִם֙ וַיָּבֹ֣אוּ אַחֲרֵיהֶ֔ם כֹּ֚ל ס֣וּס פַּרְעֹ֔ה רִכְבּ֖וֹ וּפָרָשָׁ֑יו אֶל־ תּ֖וֹךְ הַיָּֽם׃"
+pericope: "[[Exod.14.15 Parting the Red Sea|Parting the Red Sea]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H4713]]"
+- "[[H0935G]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H3605]]"
+- "[[H5483M]]"
+- "[[H6547J]]"
+- "[[H7393G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6571B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:23**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Egyptians pursued, and went in after them to the midst of the sea, [even] all Pharaoh’s horses, his chariots, and his horsemen.
 <small><sub>**BSB:**</sub></small>
 And the Egyptians chased after them—all Pharaoh’s horses, chariots, and horsemen—and followed them into the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7291\|יִּרְדְּפ֤וּ]] [[H4713\|מִצְרַ֙יִם֙]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֔ם]] [[H3605\|כֹּ֚ל]] [[H5483M\|ס֣וּס]] [[H6547J\|פַּרְעֹ֔ה]] [[H7393G\|רִכְבּ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H6571B\|פָרָשָׁ֑י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֖וֹךְ]] [[H9009\|הַ]][[H3220G\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVALRY|CAVALRY]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.22|<< Exodus 14:22]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.24|Exodus 14:24 >>]]</td></tr></table>
 

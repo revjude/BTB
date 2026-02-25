@@ -1,8 +1,83 @@
+---
+title: Malachi 3:10
+type: Verse
+kjv: "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it."
+bsb: "Bring the full tithe into the storehouse, so that there may be food in My house. Test Me in this,” says the LORD of Hosts. “See if I will not open the windows of heaven and pour out for you blessing without measure."
+hebrew: "הָבִ֨יאוּ אֶת־ כָּל־ הַֽמַּעֲשֵׂ֜ר אֶל־ בֵּ֣ית הָאוֹצָ֗ר וִיהִ֥י טֶ֙רֶף֙ בְּבֵיתִ֔י וּבְחָנ֤וּנִי נָא֙ בָּזֹ֔את אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת אִם־ לֹ֧א אֶפְתַּ֣ח לָכֶ֗ם אֵ֚ת אֲרֻבּ֣וֹת הַשָּׁמַ֔יִם וַהֲרִיקֹתִ֥י לָכֶ֛ם בְּרָכָ֖ה עַד־ בְּלִי־ דָֽי׃"
+pericope: "[[Mal.3.6 Robbing God|Robbing God]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4643]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H0214]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H2964]]"
+- "[[H9003]]"
+- "[[H9020]]"
+- "[[H0974]]"
+- "[[H9030]]"
+- "[[H4994]]"
+- "[[H2063]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H6605A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0699]]"
+- "[[H8064]]"
+- "[[H9001]]"
+- "[[H7324]]"
+- "[[H1293]]"
+- "[[H5704]]"
+- "[[H1097]]"
+- "[[H1767]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:10**<big><big>[[Mal.3.6 Robbing God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that [there shall] not [be room] enough [to receive it].
 <small><sub>**BSB:**</sub></small>
 Bring the full tithe into the storehouse, so that there may be food in My house. Test Me in this,” says the LORD of Hosts. “See if I will not open the windows of heaven and pour out for you blessing without measure.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935P\|הָבִ֨יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַֽ]][[H4643\|מַּעֲשֵׂ֜ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H9009\|הָ]][[H0214\|אוֹצָ֗ר]] [[H9002\|וִ]][[H1961\|יהִ֥י]] [[H2964\|טֶ֙רֶף֙]] [[H9003\|בְּ]][[H1004B\|בֵיתִ֔]][[H9020\|י]] [[H9002\|וּ]][[H0974\|בְחָנ֤וּ]][[H9030\|נִי]] [[H4994\|נָא֙]] [[H9003\|בָּ]][[H2063\|זֹ֔את]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֧א]] [[H6605A\|אֶפְתַּ֣ח]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H0853\|אֵ֚ת]] [[H0699\|אֲרֻבּ֣וֹת]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וַ]][[H7324\|הֲרִיקֹתִ֥י]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H1293\|בְּרָכָ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H1097\|בְּלִי]][[H9014\|־]] [[H1767\|דָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MALACHI|MALACHI]] • [[topic TITHES|TITHES]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.9|<< Malachi 3:9]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.11|Malachi 3:11 >>]]</td></tr></table>
 

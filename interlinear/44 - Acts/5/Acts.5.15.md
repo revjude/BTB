@@ -1,10 +1,62 @@
+---
+title: Acts 5:15
+type: Verse
+kjv: "Insomuch that they brought forth the sick into the streets, and laid them on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them."
+bsb: "As a result, people brought the sick into the streets and laid them on cots and mats, so that at least Peter’s shadow might fall on some of them as he passed by."
+greek: "ὥστε καὶ εἰς τὰς πλατείας ἐκφέρειν τοὺς ἀσθενεῖς καὶ τιθέναι ἐπὶ κλιναρίων καὶ κραβάττων, ἵνα ἐρχομένου Πέτρου κἂν κἂν ἡ σκιὰ ἐπισκιάσῃ τινὶ αὐτῶν."
+pericope: "[[Acts.5.12 The Apostles Heal Many|The Apostles Heal Many]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G5620]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4116]]"
+- "[[G1627]]"
+- "[[G0772H]]"
+- "[[G5087]]"
+- "[[G1909]]"
+- "[[G6055]]"
+- "[[G2895]]"
+- "[[G2443]]"
+- "[[G2064]]"
+- "[[G4074G]]"
+- "[[G1437]]"
+- "[[G4639]]"
+- "[[G1982]]"
+- "[[G5100]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- N(k)O
+- NK(o)
+---
+
 **Acts 5:15**<big><big>[[Acts.5.12 The Apostles Heal Many|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Insomuch that they brought forth the sick into the streets, and laid [them] on beds and couches, that at the least the shadow of Peter passing by might overshadow some of them.
 <small><sub>**BSB:**</sub></small>
 As a result, people brought the sick into the streets and laid them on cots and mats, so that at least Peter’s shadow might fall on some of them as he passed by.
-<small><sub>**Literal:**</sub></small>
-so as even into the streets to bring out the sick and to put [them] on cots and mats, that when is coming Peter at least the shadow shall envelop some of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.14|<< Acts 5:14]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.16|Acts 5:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G4116\|πλατείας]]  [[G1627\|ἐκφέρειν]]  [[G3588\|τοὺς]]  [[G0772H\|ἀσθενεῖς]]  [[G2532\|καὶ]]  [[G5087\|τιθέναι]]  [[G1909\|ἐπὶ]]  [[G6055\|κλιναρίων]]  [[G2532\|καὶ]]  [[G2895\|κραβάττων,]]  [[G2443\|ἵνα]]  [[G2064\|ἐρχομένου]]  [[G4074G\|Πέτρου]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G3588\|ἡ]]  [[G4639\|σκιὰ]]  [[G1982\|ἐπισκιάσῃ]]  [[G5100\|τινὶ]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.14|<< Acts 5:14]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.16|Acts 5:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

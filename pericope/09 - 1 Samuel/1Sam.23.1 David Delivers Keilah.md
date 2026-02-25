@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Delivers Keilah
+type: Pericope
 pericope: "[[1Sam.23.1 David Delivers Keilah|David Delivers Keilah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 23
 book/chapter: "[[1Sam.23|1 Samuel 23]]"
-genre:
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[1Sam.23.1]]"
 - "[[1Sam.23.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Sam.23.6]]"
 ---
 
-[[1Sam.23|1 Samuel 23:1 - 1 Samuel 23:6]]
+<small>[[1Sam.23|1 Samuel 23:1-6]]</small>
 *David Delivers Keilah*
 
 [[1Sam.23.1|1]] Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.

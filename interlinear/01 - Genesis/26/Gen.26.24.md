@@ -1,8 +1,76 @@
+---
+title: Genesis 26:24
+type: Verse
+kjv: "And the LORD appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham’s sake."
+bsb: "and that night the LORD appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of My servant Abraham.”"
+hebrew: "וַיֵּרָ֨א אֵלָ֤יו יְהוָה֙ בַּלַּ֣יְלָה הַה֔וּא וַיֹּ֕אמֶר אָנֹכִ֕י אֱלֹהֵ֖י אַבְרָהָ֣ם אָבִ֑יךָ אַל־ תִּירָא֙ כִּֽי־ אִתְּךָ֣ אָנֹ֔כִי וּבֵֽרַכְתִּ֙יךָ֙ וְהִרְבֵּיתִ֣י אֶֽת־ זַרְעֲךָ֔ בַּעֲב֖וּר אַבְרָהָ֥ם עַבְדִּֽי׃"
+pericope: "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISAAC|ISAAC]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H0595]]"
+- "[[H0430G]]"
+- "[[H0085]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H3588A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H1288]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H2233H]]"
+- "[[H5668]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:24**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appeared unto him the same night, and said, I [am] the God of Abraham thy father: fear not, for I [am] with thee, and will bless thee, and multiply thy seed for my servant Abraham’s sake.
 <small><sub>**BSB:**</sub></small>
 and that night the LORD appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your descendants for the sake of My servant Abraham.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יֵּרָ֨א]] [[H0413\|אֵלָ֤י]][[H9033\|ו]] [[H3068G\|יְהוָה֙]] [[H9003\|בַּ]][[H3915\|לַּ֣יְלָה]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0595\|אָנֹכִ֕י]] [[H0430G\|אֱלֹהֵ֖י]] [[H0085\|אַבְרָהָ֣ם]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָא֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0854\|אִתְּ]][[H9031\|ךָ֣]] [[H0595\|אָנֹ֔כִי]] [[H9001\|וּ]][[H1288\|בֵֽרַכְתִּ֙י]][[H9031\|ךָ֙]] [[H9001\|וְ]][[H7235A\|הִרְבֵּיתִ֣י]] [[H0853\|אֶֽת]][[H9014\|־]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֔]] [[H9003\|בַּ]][[H5668\|עֲב֖וּר]] [[H0085\|אַבְרָהָ֥ם]] [[H5650\|עַבְדִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic COMMUNION|COMMUNION]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISAAC|ISAAC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.23|<< Genesis 26:23]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.25|Genesis 26:25 >>]]</td></tr></table>
 

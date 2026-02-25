@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Trust in the LORD with All Your Heart
+type: Pericope
 pericope: "[[Prov.3.1 Trust in the LORD with All Your Heart|Trust in the LORD with All Your Heart]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 3
 book/chapter: "[[Prov.3|Proverbs 3]]"
-genre:
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 12
 verses:
 - "[[Prov.3.1]]"
 - "[[Prov.3.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Prov.3.12]]"
 ---
 
-[[Prov.3|Proverbs 3:1 - Proverbs 3:12]]
+<small>[[Prov.3|Proverbs 3:1-12]]</small>
 *Trust in the LORD with All Your Heart*
 
 [[Prov.3.1|1]] My son, forget not my law; but let thine heart keep my commandments:

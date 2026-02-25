@@ -1,8 +1,59 @@
+---
+title: Ecclesiastes 10:17
+type: Verse
+kjv: "Blessed art thou, O land, when thy king is the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!"
+bsb: "Blessed are you, O land whose king is a son of nobles, and whose princes feast at the proper time—for strength and not for drunkenness."
+hebrew: "אַשְׁרֵ֣יךְ אֶ֔רֶץ שֶׁמַּלְכֵּ֖ךְ בֶּן־ חוֹרִ֑ים וְשָׂרַ֙יִךְ֙ בָּעֵ֣ת יֹאכֵ֔לוּ בִּגְבוּרָ֖ה וְלֹ֥א בַשְּׁתִֽי׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H0835]]"
+- "[[H9032]]"
+- "[[H0776G]]"
+- "[[H9007]]"
+- "[[H4428G]]"
+- "[[H9022]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2715]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H0398]]"
+- "[[H1369]]"
+- "[[H3808]]"
+- "[[H8358]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:17**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [art] thou, O land, when thy king [is] the son of nobles, and thy princes eat in due season, for strength, and not for drunkenness!
 <small><sub>**BSB:**</sub></small>
 Blessed are you, O land whose king is a son of nobles, and whose princes feast at the proper time—for strength and not for drunkenness.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַשְׁרֵ֣י]][[H9032\|ךְ]] [[H0776G\|אֶ֔רֶץ]] [[H9007\|שֶׁ]][[H4428G\|מַּלְכֵּ֖]][[H9022\|ךְ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2715\|חוֹרִ֑ים]] [[H9002\|וְ]][[H8269\|שָׂרַ֙יִ]][[H9022\|ךְ֙]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H0398\|יֹאכֵ֔לוּ]] [[H9003\|בִּ]][[H1369\|גְבוּרָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9003\|בַ]][[H8358\|שְּׁתִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLUTTONY|GLUTTONY]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.10.16|<< Ecclesiastes 10:16]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.18|Ecclesiastes 10:18 >>]]</td></tr></table>
 

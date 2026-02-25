@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Cleanses the Temple
+type: Pericope
 pericope: "[[Mark.11.15 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 11
 book/chapter: "[[Mark.11|Mark 11]]"
-genre:
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.11.15]]"
 - "[[Mark.11.16]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.11.19]]"
 ---
 
-[[Mark.11|Mark 11:15 - Mark 11:19]]
+<small>[[Mark.11|Mark 11:15-19]]</small>
 *Jesus Cleanses the Temple*
 
 [[Mark.11.15|15]] And they come to Jerusalem: and Jesus went into the temple, and began to cast out them that sold and bought in the temple, and overthrew the tables of the moneychangers, and the seats of them that sold doves;

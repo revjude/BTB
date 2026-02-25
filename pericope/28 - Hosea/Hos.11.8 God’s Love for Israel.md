@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Love for Israel
+type: Pericope
 pericope: "[[Hos.11.8 God’s Love for Israel|God’s Love for Israel]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 11
 book/chapter: "[[Hos.11|Hosea 11]]"
-genre:
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 5
 verses:
 - "[[Hos.11.8]]"
 - "[[Hos.11.9]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Hos.11.12]]"
 ---
 
-[[Hos.11|Hosea 11:8 - Hosea 11:12]]
+<small>[[Hos.11|Hosea 11:8-12]]</small>
 *God’s Love for Israel*
 
 [[Hos.11.8|8]] How shall I give thee up, Ephraim? \[how\] shall I deliver thee, Israel? how shall I make thee as Admah? \[how\] shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.

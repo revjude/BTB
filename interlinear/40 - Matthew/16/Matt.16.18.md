@@ -1,10 +1,72 @@
+---
+title: Matthew 16:18
+type: Verse
+kjv: "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it."
+bsb: "And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it."
+jesus_said: "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it."
+greek: "κἀγὼ κἀγὼ δέ σοι λέγω ὅτι σὺ εἶ Πέτρος καὶ ἐπὶ ταύτῃ τῇ πέτρᾳ οἰκοδομήσω μου τὴν ἐκκλησίαν, καὶ πύλαι ᾅδου οὐ κατισχύσουσιν αὐτῆς."
+pericope: "[[Matt.16.13 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GATES|GATES]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic PETER|PETER]]"
+- "[[topic ROCK|ROCK]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G4074G]]"
+- "[[G1909]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4073]]"
+- "[[G3618]]"
+- "[[G3165]]"
+- "[[G1577]]"
+- "[[G4439]]"
+- "[[G0086]]"
+- "[[G3756]]"
+- "[[G2729]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 16:18**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it.
 <small><sub>**BSB:**</sub></small>
 And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it.
-<small><sub>**Literal:**</sub></small>
-I myself also now to you say that you yourself are Peter and on this the rock I will build My <the> church, and [the] gates of hades not will prevail against it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.17|<< Matthew 16:17]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.19|Matthew 16:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1161\|δέ]]  [[G4771\|σοι]]  [[G3004G\|λέγω]]  [[G3754G\|ὅτι]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3778\|ταύτῃ]]  [[G3588\|τῇ]]  [[G4073\|πέτρᾳ]]  [[G3618\|οἰκοδομήσω]]  [[G3165\|μου]]  [[G3588\|τὴν]]  [[G1577\|ἐκκλησίαν,]]  [[G2532\|καὶ]]  [[G4439\|πύλαι]]  [[G0086\|ᾅδου]]  [[G3756\|οὐ]]  [[G2729\|κατισχύσουσιν]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic GATES|GATES]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic PETER|PETER]] • [[topic ROCK|ROCK]] • [[topic SATAN|SATAN]] • [[topic STONES|STONES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.17|<< Matthew 16:17]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.19|Matthew 16:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

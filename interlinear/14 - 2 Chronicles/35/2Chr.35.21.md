@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 35:21
+type: Verse
+kjv: "But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? I come not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from meddling with God, who is with me, that he destroy thee not."
+bsb: "But Neco sent messengers to him, saying, “What is the issue between you and me, O king of Judah? I have not come against you today, but I am fighting another dynasty, and God has told me to hurry. So stop opposing God, who is with me, or He will destroy you!”"
+hebrew: "וַיִּשְׁלַ֣ח אֵלָ֣יו מַלְאָכִ֣ים׀ לֵאמֹר֩׀ מַה־ לִּ֨י וָלָ֜ךְ מֶ֣לֶךְ יְהוּדָ֗ה לֹא־ עָלֶ֨יךָ אַתָּ֤ה הַיּוֹם֙ כִּ֚י אֶל־ בֵּ֣ית מִלְחַמְתִּ֔י וֵאלֹהִ֖ים אָמַ֣ר לְבַֽהֲלֵ֑נִי חֲדַל־ לְךָ֛ מֵאֱלֹהִ֥ים אֲשֶׁר־ עִמִּ֖י וְאַל־ יַשְׁחִיתֶֽךָ׃"
+pericope: "[[2Chr.35.20 The Death of Josiah|The Death of Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H4397G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3808]]"
+- "[[H5921A]]"
+- "[[H0859A]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H3588A]]"
+- "[[H1004B]]"
+- "[[H4421]]"
+- "[[H9020]]"
+- "[[H0430G]]"
+- "[[H0926]]"
+- "[[H2308]]"
+- "[[H9006]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H0408]]"
+- "[[H7843]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 35:21**<big><big>[[2Chr.35.20 The Death of Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he sent ambassadors to him, saying, What have I to do with thee, thou king of Judah? [I come] not against thee this day, but against the house wherewith I have war: for God commanded me to make haste: forbear thee from [meddling with] God, who [is] with me, that he destroy thee not.
 <small><sub>**BSB:**</sub></small>
 But Neco sent messengers to him, saying, “What is the issue between you and me, O king of Judah? I have not come against you today, but I am fighting another dynasty, and God has told me to hurry. So stop opposing God, who is with me, or He will destroy you!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H0413\|אֵלָ֣י]][[H9033\|ו]] [[H4397G\|מַלְאָכִ֣ים]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹר֩]][[H9015\|׀]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לִּ֨]][[H9030\|י]] [[H9002\|וָ]][[H9005\|לָ֜]][[H9031\|ךְ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֗ה]] [[H3808\|לֹא]][[H9014\|־]] [[H5921A\|עָלֶ֨י]][[H9031\|ךָ]] [[H0859A\|אַתָּ֤ה]] [[H9009\|הַ]][[H3117L\|יּוֹם֙]] [[H3588A\|כִּ֚י]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H4421\|מִלְחַמְתִּ֔]][[H9020\|י]] [[H9002\|וֵ]][[H0430G\|אלֹהִ֖ים]] [[H0559\|אָמַ֣ר]] [[H9005\|לְ]][[H0926\|בַֽהֲלֵ֑]][[H9030\|נִי]] [[H2308\|חֲדַל]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H9006\|מֵ]][[H0430G\|אֱלֹהִ֥ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5973A\|עִמִּ֖]][[H9030\|י]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H7843\|יַשְׁחִיתֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic JOSIAH|JOSIAH]] • [[topic PHARAOH|PHARAOH]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.20|<< 2 Chronicles 35:20]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.22|2 Chronicles 35:22 >>]]</td></tr></table>
 

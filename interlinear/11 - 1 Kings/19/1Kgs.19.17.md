@@ -1,8 +1,57 @@
+---
+title: 1 Kings 19:17
+type: Verse
+kjv: "And it shall come to pass, that him that escapeth the sword of Hazael shall Jehu slay: and him that escapeth from the sword of Jehu shall Elisha slay."
+bsb: "Then Jehu will put to death whoever escapes the sword of Hazael, and Elisha will put to death whoever escapes the sword of Jehu."
+hebrew: "וְהָיָ֗ה הַנִּמְלָ֛ט מֵחֶ֥רֶב חֲזָאֵ֖ל יָמִ֣ית יֵה֑וּא וְהַנִּמְלָ֛ט מֵחֶ֥רֶב יֵה֖וּא יָמִ֥ית אֱלִישָֽׁע׃"
+pericope: "[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|The LORD Speaks to Elijah at Horeb]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4422]]"
+- "[[H9006]]"
+- "[[H2719]]"
+- "[[H2371]]"
+- "[[H4191]]"
+- "[[H3058H]]"
+- "[[H9002]]"
+- "[[H0477]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:17**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] him that escapeth the sword of Hazael shall Jehu slay: and him that escapeth from the sword of Jehu shall Elisha slay.
 <small><sub>**BSB:**</sub></small>
 Then Jehu will put to death whoever escapes the sword of Hazael, and Elisha will put to death whoever escapes the sword of Jehu.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9009\|הַ]][[H4422\|נִּמְלָ֛ט]] [[H9006\|מֵ]][[H2719\|חֶ֥רֶב]] [[H2371\|חֲזָאֵ֖ל]] [[H4191\|יָמִ֣ית]] [[H3058H\|יֵה֑וּא]] [[H9002\|וְ]][[H9009\|הַ]][[H4422\|נִּמְלָ֛ט]] [[H9006\|מֵ]][[H2719\|חֶ֥רֶב]] [[H3058H\|יֵה֖וּא]] [[H4191\|יָמִ֥ית]] [[H0477\|אֱלִישָֽׁע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic ELIJAH|ELIJAH]] • [[topic JEHU|JEHU]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.16|<< 1 Kings 19:16]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.18|1 Kings 19:18 >>]]</td></tr></table>
 

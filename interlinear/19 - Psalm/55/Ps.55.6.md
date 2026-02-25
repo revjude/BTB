@@ -1,8 +1,57 @@
+---
+title: Psalm 55:6
+type: Verse
+kjv: "And I said, Oh that I had wings like a dove! for then would I fly away, and be at rest."
+bsb: "I said, “Oh, that I had wings like a dove! I would fly away and find rest."
+hebrew: "וָאֹמַ֗ר מִֽי־ יִתֶּן־ לִּ֣י אֵ֭בֶר כַּיּוֹנָ֗ה אָע֥וּפָה וְאֶשְׁכֹּֽנָה׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5414Q]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0083]]"
+- "[[H9004]]"
+- "[[H3123]]"
+- "[[H5774A]]"
+- "[[H9002]]"
+- "[[H7931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:6**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said, Oh that I had wings like a dove! [for then] would I fly away, and be at rest.
 <small><sub>**BSB:**</sub></small>
 I said, “Oh, that I had wings like a dove! I would fly away and find rest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H4310\|מִֽי]][[H9014\|־]] [[H5414Q\|יִתֶּן]][[H9014\|־]] [[H9005\|לִּ֣]][[H9030\|י]] [[H0083\|אֵ֭בֶר]] [[H9004\|כַּ]][[H3123\|יּוֹנָ֗ה]] [[H5774A\|אָע֥וּפָה]] [[H9002\|וְ]][[H7931\|אֶשְׁכֹּֽנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.5|<< Psalms 55:5]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.7|Psalms 55:7 >>]]</td></tr></table>
 

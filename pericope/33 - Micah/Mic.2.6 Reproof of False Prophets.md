@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Reproof of False Prophets
+type: Pericope
 pericope: "[[Mic.2.6 Reproof of False Prophets|Reproof of False Prophets]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 2
 book/chapter: "[[Mic.2|Micah 2]]"
-genre:
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 6
 verses:
 - "[[Mic.2.6]]"
 - "[[Mic.2.7]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mic.2.11]]"
 ---
 
-[[Mic.2|Micah 2:6 - Micah 2:11]]
+<small>[[Mic.2|Micah 2:6-11]]</small>
 *Reproof of False Prophets*
 
 [[Mic.2.6|6]] Prophesy ye not, \[say they to them that\] prophesy: they shall not prophesy to them, \[that\] they shall not take shame.

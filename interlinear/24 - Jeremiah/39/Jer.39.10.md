@@ -1,8 +1,70 @@
+---
+title: Jeremiah 39:10
+type: Verse
+kjv: "But Nebuzaradan the captain of the guard left of the poor of the people, which had nothing, in the land of Judah, and gave them vineyards and fields at the same time."
+bsb: "But Nebuzaradan left behind in the land of Judah some of the poor people who had no property, and at that time he gave them vineyards and fields."
+hebrew: "וּמִן־ הָעָ֣ם הַדַּלִּ֗ים אֲשֶׁ֤ר אֵין־ לָהֶם֙ מְא֔וּמָה הִשְׁאִ֛יר נְבוּזַרְאֲדָ֥ן רַב־ טַבָּחִ֖ים בְּאֶ֣רֶץ יְהוּדָ֑ה וַיִּתֵּ֥ן לָהֶ֛ם כְּרָמִ֥ים וִֽיגֵבִ֖ים בַּיּ֥וֹם הַהֽוּא׃"
+pericope: "[[Jer.39.1 The Fall of Jerusalem|The Fall of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 39
+book/chapter: "[[Jer.39|Jeremiah 39]]"
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic POOR|POOR]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1800]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3972]]"
+- "[[H7604]]"
+- "[[H5018]]"
+- "[[H7227B]]"
+- "[[H2876]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3063G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3754]]"
+- "[[H3010]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 39:10**<big><big>[[Jer.39.1 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Nebuzaradan the captain of the guard left of the poor of the people, which had nothing, in the land of Judah, and gave them vineyards and fields at the same time.
 <small><sub>**BSB:**</sub></small>
 But Nebuzaradan left behind in the land of Judah some of the poor people who had no property, and at that time he gave them vineyards and fields.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H1800\|דַּלִּ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3972\|מְא֔וּמָה]] [[H7604\|הִשְׁאִ֛יר]] [[H5018\|נְבוּזַרְאֲדָ֥ן]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִ֖ים]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֥ן]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H3754\|כְּרָמִ֥ים]] [[H9002\|וִֽ]][[H3010\|יגֵבִ֖ים]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic POOR|POOR]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.9|<< Jeremiah 39:9]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.11|Jeremiah 39:11 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Mark 9:13
+type: Verse
+kjv: "But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him."
+bsb: "But I tell you that Elijah has indeed come, and they have done to him whatever they wished, just as it is written about him.”"
+jesus_said: "But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him."
+greek: "ἀλλὰ λέγω ὑμῖν ὅτι καὶ Ἠλίας ἐλήλυθεν, καὶ ἐποίησαν αὐτῷ ὅσα ἤθελον καθὼς γέγραπται ἐπ᾽ αὐτόν.¶"
+pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G0235]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2532]]"
+- "[[G2243]]"
+- "[[G2064]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G3745]]"
+- "[[G2309]]"
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G1909]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 9:13**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.
 <small><sub>**BSB:**</sub></small>
 But I tell you that Elijah has indeed come, and they have done to him whatever they wished, just as it is written about him.”
-<small><sub>**Literal:**</sub></small>
-But I say to you that also Elijah has come, and they did to him as much as they were desiring even as it has been written of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.12|<< Mark 9:12]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.14|Mark 9:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G2243\|Ἠλίας]]  [[G2064\|ἐλήλυθεν,]]  [[G2532\|καὶ]]  [[G4160G\|ἐποίησαν]]  [[G0846\|αὐτῷ]]  [[G3745\|ὅσα]]  [[G2309\|ἤθελον]]  [[G2531\|καθὼς]]  [[G1125\|γέγραπται]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.12|<< Mark 9:12]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.14|Mark 9:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

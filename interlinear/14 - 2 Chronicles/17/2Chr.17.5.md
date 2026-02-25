@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 17:5
+type: Verse
+kjv: "Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance."
+bsb: "So the LORD established the kingdom in his hand, and all Judah brought him tribute, so that he had an abundance of riches and honor."
+hebrew: "וַיָּ֨כֶן יְהוָ֤ה אֶת־ הַמַּמְלָכָה֙ בְּיָד֔וֹ וַיִּתְּנ֧וּ כָל־ יְהוּדָ֛ה מִנְחָ֖ה לִיהוֹשָׁפָ֑ט וַֽיְהִי־ ל֥וֹ עֹֽשֶׁר־ וְכָב֖וֹד לָרֹֽב׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3559H]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H3605]]"
+- "[[H3063G]]"
+- "[[H4503I]]"
+- "[[H9005]]"
+- "[[H3092I]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H6239]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H7230]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:5**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance.
 <small><sub>**BSB:**</sub></small>
 So the LORD established the kingdom in his hand, and all Judah brought him tribute, so that he had an abundance of riches and honor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3559H\|יָּ֨כֶן]] [[H3068G\|יְהוָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4467\|מַּמְלָכָה֙]] [[H9003\|בְּ]][[H3027H\|יָד֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5414G\|יִּתְּנ֧וּ]] [[H3605\|כָל]][[H9014\|־]] [[H3063G\|יְהוּדָ֛ה]] [[H4503I\|מִנְחָ֖ה]] [[H9005\|לִ]][[H3092I\|יהוֹשָׁפָ֑ט]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H6239\|עֹֽשֶׁר]][[H9014\|־]] [[H9002\|וְ]][[H3519\|כָב֖וֹד]] [[H9005\|לָ]][[H7230\|רֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.4|<< 2 Chronicles 17:4]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.6|2 Chronicles 17:6 >>]]</td></tr></table>
 

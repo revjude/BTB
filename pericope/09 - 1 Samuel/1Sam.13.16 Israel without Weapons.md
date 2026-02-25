@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel without Weapons
+type: Pericope
 pericope: "[[1Sam.13.16 Israel without Weapons|Israel without Weapons]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 13
 book/chapter: "[[1Sam.13|1 Samuel 13]]"
-genre:
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[1Sam.13.16]]"
 - "[[1Sam.13.17]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Sam.13.23]]"
 ---
 
-[[1Sam.13|1 Samuel 13:16 - 1 Samuel 13:23]]
+<small>[[1Sam.13|1 Samuel 13:16-23]]</small>
 *Israel without Weapons*
 
 [[1Sam.13.16|16]] And Saul, and Jonathan his son, and the people \[that were\] present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash.

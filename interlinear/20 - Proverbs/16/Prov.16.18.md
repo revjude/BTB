@@ -1,8 +1,50 @@
+---
+title: Proverbs 16:18
+type: Verse
+kjv: "Pride goeth before destruction, and an haughty spirit before a fall."
+bsb: "Pride goes before destruction, and a haughty spirit before a fall."
+hebrew: "לִפְנֵי־ שֶׁ֥בֶר גָּא֑וֹן וְלִפְנֵ֥י כִ֝שָּׁל֗וֹן גֹּ֣בַהּ רֽוּחַ׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H7667]]"
+- "[[H1347]]"
+- "[[H9002]]"
+- "[[H3783]]"
+- "[[H1363]]"
+- "[[H7307G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:18**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Pride [goeth] before destruction, and an haughty spirit before a fall.
 <small><sub>**BSB:**</sub></small>
 Pride goes before destruction, and a haughty spirit before a fall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H7667\|שֶׁ֥בֶר]] [[H1347\|גָּא֑וֹן]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3783\|כִ֝שָּׁל֗וֹן]] [[H1363\|גֹּ֣בַהּ]] [[H7307G\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.17|<< Proverbs 16:17]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.19|Proverbs 16:19 >>]]</td></tr></table>
 

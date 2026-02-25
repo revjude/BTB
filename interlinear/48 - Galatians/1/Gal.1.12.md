@@ -1,10 +1,54 @@
+---
+title: Galatians 1:12
+type: Verse
+kjv: "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."
+bsb: "I did not receive it from any man, nor was I taught it; rather, I received it by revelation from Jesus Christ."
+greek: "οὐδὲ γὰρ ἐγὼ παρὰ ἀνθρώπου παρέλαβον αὐτὸ οὔτε ἐδιδάχθην ἀλλὰ δι᾽ ἀποκαλύψεως Ἰησοῦ Χριστοῦ."
+pericope: "[[Gal.1.10 Paul Preaches the Gospel|Paul Preaches the Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3761]]"
+- "[[G1063]]"
+- "[[G1473]]"
+- "[[G3844]]"
+- "[[G0444]]"
+- "[[G3880]]"
+- "[[G0846]]"
+- "[[G3777]]"
+- "[[G1321]]"
+- "[[G0235]]"
+- "[[G1223]]"
+- "[[G0602]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Galatians 1:12**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I neither received it of man, neither was I taught [it], but by the revelation of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 I did not receive it from any man, nor was I taught it; rather, I received it by revelation from Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-Neither for I myself from man received it nor was I taught [it] but through a revelation of Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.11|<< Galatians 1:11]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.13|Galatians 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G1063\|γὰρ]]  [[G1473\|ἐγὼ]]  [[G3844\|παρὰ]]  [[G0444\|ἀνθρώπου]]  [[G3880\|παρέλαβον]]  [[G0846\|αὐτὸ]]  [[G3777\|οὔτε]]  [[G1321\|ἐδιδάχθην]]  [[G0235\|ἀλλὰ]]  [[G1223\|δι᾽]]  [[G0602\|ἀποκαλύψεως]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.11|<< Galatians 1:11]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.13|Galatians 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

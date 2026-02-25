@@ -1,8 +1,61 @@
+---
+title: Genesis 45:12
+type: Verse
+kjv: "And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you."
+bsb: "Behold! You and my brother Benjamin can see that I, Joseph, am the one speaking with you."
+hebrew: "וְהִנֵּ֤ה עֵֽינֵיכֶם֙ רֹא֔וֹת וְעֵינֵ֖י אָחִ֣י בִנְיָמִ֑ין כִּי־ פִ֖י הַֽמְדַבֵּ֥ר אֲלֵיכֶֽם׃"
+pericope: "[[Gen.45.9 Joseph Sends for His Father|Joseph Sends for His Father]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H7200G]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H1144G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9009]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:12**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, your eyes see, and the eyes of my brother Benjamin, that [it is] my mouth that speaketh unto you.
 <small><sub>**BSB:**</sub></small>
 Behold! You and my brother Benjamin can see that I, Joseph, am the one speaking with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H5869A\|עֵֽינֵי]][[H9026\|כֶם֙]] [[H7200G\|רֹא֔וֹת]] [[H9002\|וְ]][[H5869A\|עֵינֵ֖י]] [[H0251G\|אָחִ֣]][[H9020\|י]] [[H1144G\|בִנְיָמִ֑ין]] [[H3588A\|כִּי]][[H9014\|־]] [[H6310G\|פִ֖]][[H9020\|י]] [[H9009\|הַֽ]][[H1696G\|מְדַבֵּ֥ר]] [[H0413\|אֲלֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.11|<< Genesis 45:11]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.13|Genesis 45:13 >>]]</td></tr></table>
 

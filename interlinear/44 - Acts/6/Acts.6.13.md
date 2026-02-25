@@ -1,10 +1,73 @@
+---
+title: Acts 6:13
+type: Verse
+kjv: "And set up false witnesses, which said, This man ceaseth not to speak blasphemous words against this holy place, and the law:"
+bsb: "where they presented false witnesses who said, “This man never stops speaking against this holy place and against the law."
+greek: "ἔστησάν τε μάρτυρας ψευδεῖς λέγοντας· ὁ ἄνθρωπος οὗτος οὐ παύεται λαλῶν ῥήματα βλάσφημα κατὰ τοῦ τόπου τοῦ ἁγίου τούτου καὶ τοῦ νόμου·"
+pericope: "[[Acts.6.8 The Arrest of Stephen|The Arrest of Stephen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 6
+book/chapter: "[[Acts.6|Acts 6]]"
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic STEPHEN|STEPHEN]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G2476]]"
+- "[[G5037]]"
+- "[[G3144]]"
+- "[[G5571]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G3973]]"
+- "[[G2980]]"
+- "[[G4487]]"
+- "[[G0989]]"
+- "[[G2596]]"
+- "[[G5117]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G3551]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 6:13**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And set up false witnesses, which said, This man ceaseth not to speak blasphemous words against this holy place, and the law:
 <small><sub>**BSB:**</sub></small>
 where they presented false witnesses who said, “This man never stops speaking against this holy place and against the law.
-<small><sub>**Literal:**</sub></small>
-They set also witnesses false saying; <the> man This not does stop speaking declarations blasphemous against the place <the> holy this and the law;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.12|<< Acts 6:12]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.14|Acts 6:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2476\|ἔστησάν]]  [[G5037\|τε]]  [[G3144\|μάρτυρας]]  [[G5571\|ψευδεῖς]]  [[G3004G\|λέγοντας·]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3778\|οὗτος]]  [[G3756\|οὐ]]  [[G3973\|παύεται]]  [[G2980\|λαλῶν]]  [[G4487\|ῥήματα]]  [[G0989\|βλάσφημα]]  [[G2596\|κατὰ]]  [[G3588\|τοῦ]]  [[G5117\|τόπου]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G3778\|τούτου]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic GREECE|GREECE]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PERJURY|PERJURY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic STEPHEN|STEPHEN]] • [[topic WITNESS|WITNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.12|<< Acts 6:12]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.14|Acts 6:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

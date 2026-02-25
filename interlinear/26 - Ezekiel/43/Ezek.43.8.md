@@ -1,8 +1,71 @@
+---
+title: Ezekiel 43:8
+type: Verse
+kjv: "In their setting of their threshold by my thresholds, and their post by my posts, and the wall between me and them, they have even defiled my holy name by their abominations that they have committed: wherefore I have consumed them in mine anger."
+bsb: "When they placed their threshold next to My threshold and their doorposts beside My doorposts, with only a wall between Me and them, they defiled My holy name by the abominations they committed. Therefore I have consumed them in My anger."
+hebrew: "בְּתִתָּ֨ם סִפָּ֜ם אֶת־ סִפִּ֗י וּמְזֽוּזָתָם֙ אֵ֣צֶל מְזוּזָתִ֔י וְהַקִּ֖יר בֵּינִ֣י וּבֵֽינֵיהֶ֑ם וְטִמְּא֣וּ׀ אֶת־ שֵׁ֣ם קָדְשִׁ֗י בְּתֽוֹעֲבוֹתָם֙ אֲשֶׁ֣ר עָשׂ֔וּ וָאֲכַ֥ל אֹתָ֖ם בְּאַפִּֽי׃"
+pericope: "[[Ezek.43.1 The Glory of the LORD Returns to the Temple|The Glory of the LORD Returns to the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9003]]"
+- "[[H5414H]]"
+- "[[H9048]]"
+- "[[H5592B]]"
+- "[[H9028]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4201]]"
+- "[[H0681]]"
+- "[[H9009]]"
+- "[[H7023]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H6944G]]"
+- "[[H8441]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H3615H]]"
+- "[[H0639G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:8**<big><big>[[Ezek.43.1 The Glory of the LORD Returns to the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In their setting of their threshold by my thresholds, and their post by my posts, and the wall between me and them, they have even defiled my holy name by their abominations that they have committed: wherefore I have consumed them in mine anger.
 <small><sub>**BSB:**</sub></small>
 When they placed their threshold next to My threshold and their doorposts beside My doorposts, with only a wall between Me and them, they defiled My holy name by the abominations they committed. Therefore I have consumed them in My anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5414H\|תִתָּ֨]][[H9048\|ם]] [[H5592B\|סִפָּ֜]][[H9028\|ם]] [[H0854\|אֶת]][[H9014\|־]] [[H5592B\|סִפִּ֗]][[H9020\|י]] [[H9002\|וּ]][[H4201\|מְזֽוּזָתָ]][[H9028\|ם֙]] [[H0681\|אֵ֣צֶל]] [[H4201\|מְזוּזָתִ֔]][[H9020\|י]] [[H9002\|וְ]][[H9009\|הַ]][[H7023\|קִּ֖יר]] [[H0996G\|בֵּינִ֣]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵֽינֵי]][[H9038\|הֶ֑ם]] [[H9001\|וְ]][[H2930A\|טִמְּא֣וּ]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H6944G\|קָדְשִׁ֗]][[H9020\|י]] [[H9003\|בְּ]][[H8441\|תֽוֹעֲבוֹתָ]][[H9028\|ם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָשׂ֔וּ]] [[H9001\|וָ]][[H3615H\|אֲכַ֥ל]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H0639G\|אַפִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.7|<< Ezekiel 43:7]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.9|Ezekiel 43:9 >>]]</td></tr></table>
 

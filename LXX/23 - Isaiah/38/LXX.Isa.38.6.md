@@ -1,6 +1,54 @@
+---
+title: LXX Isaiah 38:6
+type: Verse
+lxx: "And from out of the hand of the king of the Assyrians I shall rescue you, and  this city; and I shall shield over  this city."
+greek: "και εκ χειρός βασιλέως Ασσυρίων ρύσομαί σε και την πόλιν ταύτην και υπερασπιώ υπέρ της πόλεως ταύτης"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G5495]]"
+- "[[G0935]]"
+- "[[H0804]]"
+- "[[G4506]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G9542]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3778]]"
+---
+
 **LXX Isaiah 38:6** 
 <small><sub>**LXX:**</sub></small>
 And from out of \[the\] hand of \[the\] king of \[the\] Assyrians I shall rescue you, and  this city; and I shall shield over  this city. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1537\|εκ]] [[G5495\|χειρός]] [[G0935\|βασιλέως]] [[H0804\|Ασσυρίων]] [[G4506\|ρύσομαί]] [[G1473\|σε]] [[G2532\|και]] [[G3588\|την]] [[G4172\|πόλιν]] [[G3778\|ταύτην]] [[G2532\|και]] [[G9542\|υπερασπιώ]] [[G5228\|υπέρ]] [[G3588\|της]] [[G4172\|πόλεως]] [[G3778\|ταύτης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic HEZEKIAH|HEZEKIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.5|<< Isaiah 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.7|Isaiah 38:7 >>]]</td></tr></table>
 
@@ -21,6 +69,6 @@ And from out of \[the\] hand of \[the\] king of \[the\] Assyrians I shall rescue
 | over | **<big>[[G5228\|υπέρ]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | this city. | **<big>[[G4172\|πόλεως]]</big>** **<big>[[G3778\|ταύτης]]</big>** |
-[[Isa.38.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.5|<< Isaiah 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.7|Isaiah 38:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.38.5|<< Isaiah 38:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.38.7|Isaiah 38:7 >>]]</td></tr></table>
 
 

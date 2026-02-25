@@ -1,8 +1,66 @@
+---
+title: Jeremiah 36:8
+type: Verse
+kjv: "And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of the LORD in the LORD’S house."
+bsb: "So Baruch son of Neriah did everything that Jeremiah the prophet had commanded him. In the house of the LORD he read the words of the LORD from the scroll."
+hebrew: "וַיַּ֗עַשׂ בָּרוּךְ֙ בֶּן־ נֵ֣רִיָּ֔ה כְּכֹ֥ל אֲשֶׁר־ צִוָּ֖הוּ יִרְמְיָ֣הוּ הַנָּבִ֑יא לִקְרֹ֥א בַסֵּ֛פֶר דִּבְרֵ֥י יְהוָ֖ה בֵּ֥ית יְהֹוָֽה׃ ס"
+pericope: "[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|Jeremiah’s Scroll Read in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H1263J]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5374]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9005]]"
+- "[[H7121J]]"
+- "[[H9003]]"
+- "[[H5612A]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H1004Q]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 36:8**<big><big>[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of the LORD in the LORD’S house.
 <small><sub>**BSB:**</sub></small>
 So Baruch son of Neriah did everything that Jeremiah the prophet had commanded him. In the house of the LORD he read the words of the LORD from the scroll.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֗עַשׂ]] [[H1263J\|בָּרוּךְ֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5374\|נֵ֣רִיָּ֔ה]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֖]][[H9033\|הוּ]] [[H3414L\|יִרְמְיָ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֑יא]] [[H9005\|לִ]][[H7121J\|קְרֹ֥א]] [[H9003\|בַ]][[H5612A\|סֵּ֛פֶר]] [[H1697G\|דִּבְרֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהֹוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.7|<< Jeremiah 36:7]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.9|Jeremiah 36:9 >>]]</td></tr></table>
 
@@ -22,7 +80,7 @@ So Baruch son of Neriah did everything that Jeremiah the prophet had commanded h
 | [the] words of  |**<big>&#8207;[[H1697G\|דִּבְרֵ֥י]]&#8207; </big>**| div.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהֹוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהֹוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.7|<< Jeremiah 36:7]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.9|Jeremiah 36:9 >>]]</td></tr></table>
 
 

@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 19:20
+type: Verse
+kjv: "For thy servant doth know that I have sinned: therefore, behold, I am come the first this day of all the house of Joseph to go down to meet my lord the king."
+bsb: "For your servant knows that I have sinned, so here I am today as the first of all the house of Joseph to come down to meet my lord the king.”"
+hebrew: "כִּ֚י יָדַ֣ע עַבְדְּךָ֔ כִּ֖י אֲנִ֣י חָטָ֑אתִי וְהִנֵּֽה־ בָ֣אתִי הַיּ֗וֹם רִאשׁוֹן֙ לְכָל־ בֵּ֣ית יוֹסֵ֔ף לָרֶ֕דֶת לִקְרַ֖את אֲדֹנִ֥י הַמֶּֽלֶךְ׃ ס"
+pericope: "[[2Sam.19.16 Shimei Pardoned|Shimei Pardoned]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMNESTY|AMNESTY]]"
+- "[[topic CLEMENCY|CLEMENCY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3045]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0589]]"
+- "[[H2398]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H7223G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H3130G]]"
+- "[[H3381]]"
+- "[[H7122G]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 19:20**<big><big>[[2Sam.19.16 Shimei Pardoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy servant doth know that I have sinned: therefore, behold, I am come the first this day of all the house of Joseph to go down to meet my lord the king.
 <small><sub>**BSB:**</sub></small>
 For your servant knows that I have sinned, so here I am today as the first of all the house of Joseph to come down to meet my lord the king.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H3045\|יָדַ֣ע]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H3588A\|כִּ֖י]] [[H0589\|אֲנִ֣י]] [[H2398\|חָטָ֑אתִי]] [[H9002\|וְ]][[H2009\|הִנֵּֽה]][[H9014\|־]] [[H0935G\|בָ֣אתִי]] [[H9009\|הַ]][[H3117L\|יּ֗וֹם]] [[H7223G\|רִאשׁוֹן֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3130G\|יוֹסֵ֔ף]] [[H9005\|לָ]][[H3381\|רֶ֕דֶת]] [[H9005\|לִ]][[H7122G\|קְרַ֖את]] [[H0113\|אֲדֹנִ֥]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMNESTY|AMNESTY]] • [[topic CLEMENCY|CLEMENCY]] • [[topic DAVID|DAVID]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.19|<< 2 Samuel 19:19]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.21|2 Samuel 19:21 >>]]</td></tr></table>
 
@@ -24,7 +84,7 @@ For your servant knows that I have sinned, so here I am today as the first of al
 | to come down  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3381\|רֶ֕דֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Re.det<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to meet  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H7122G\|קְרַ֖את]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> k.Rat<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | lord my  |**<big>&#8207;[[H0113\|אֲדֹנִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.do.N<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.19|<< 2 Samuel 19:19]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.21|2 Samuel 19:21 >>]]</td></tr></table>
 
 

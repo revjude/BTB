@@ -1,10 +1,65 @@
+---
+title: Luke 18:8
+type: Verse
+kjv: "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?"
+bsb: "I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?”"
+jesus_said: "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?"
+greek: "λέγω ὑμῖν ὅτι ποιήσει τὴν ἐκδίκησιν αὐτῶν ἐν τάχει. πλὴν ὁ υἱὸς τοῦ ἀνθρώπου ἐλθὼν ἆρα εὑρήσει τὴν πίστιν ἐπὶ τῆς γῆς;¶"
+pericope: "[[Luke.18.1 The Parable of the Persistent Widow|The Parable of the Persistent Widow]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G1557]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G5034]]"
+- "[[G4133]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2064]]"
+- "[[G0687]]"
+- "[[G2147]]"
+- "[[G4102G]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+texts:
+- NKO
+---
+
 **Luke 18:8**<big><big>[[Luke.18.1 The Parable of the Persistent Widow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
 <small><sub>**BSB:**</sub></small>
 I tell you, He will promptly carry out justice on their behalf. Nevertheless, when the Son of Man comes, will He find faith on earth?”
-<small><sub>**Literal:**</sub></small>
-I say to you that He will carry out the avenging of them with speed. Nevertheless the Son <the> of Man having come surely not will He find <the> faith on the earth?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.7|<< Luke 18:7]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.9|Luke 18:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G4160G\|ποιήσει]]  [[G3588\|τὴν]]  [[G1557\|ἐκδίκησιν]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G5034\|τάχει.]]  [[G4133\|πλὴν]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2064\|ἐλθὼν]]  [[G0687\|ἆρα]]  [[G2147\|εὑρήσει]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESPONDENCY|DESPONDENCY]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.7|<< Luke 18:7]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.9|Luke 18:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

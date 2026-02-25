@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 8:1
+type: Verse
+kjv: "All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers."
+bsb: "You must carefully follow every commandment I am giving you today, so that you may live and multiply, and enter and possess the land that the LORD swore to give your fathers."
+hebrew: "כָּל־ הַמִּצְוָ֗ה אֲשֶׁ֨ר אָנֹכִ֧י מְצַוְּךָ֛ הַיּ֖וֹם תִּשְׁמְר֣וּן לַעֲשׂ֑וֹת לְמַ֨עַן תִּֽחְי֜וּן וּרְבִיתֶ֗ם וּבָאתֶם֙ וִֽירִשְׁתֶּ֣ם אֶת־ הָאָ֔רֶץ אֲשֶׁר־ נִשְׁבַּ֥ע יְהוָ֖ה לַאֲבֹתֵיכֶֽם׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H3117G]]"
+- "[[H8104J]]"
+- "[[H9013]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H4616]]"
+- "[[H2421]]"
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H7650]]"
+- "[[H3068G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:1**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers.
 <small><sub>**BSB:**</sub></small>
 You must carefully follow every commandment I am giving you today, so that you may live and multiply, and enter and possess the land that the LORD swore to give your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H0595\|אָנֹכִ֧י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֛]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H8104J\|תִּשְׁמְר֣וּ]][[H9013\|ן]] [[H9005\|לַ]][[H6213A\|עֲשׂ֑וֹת]] [[H4616\|לְמַ֨עַן]] [[H2421\|תִּֽחְי֜וּ]][[H9013\|ן]] [[H9001\|וּ]][[H7235A\|רְבִיתֶ֗ם]] [[H9001\|וּ]][[H0935G\|בָאתֶם֙]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתֶּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֥ע]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לַ]][[H0001G\|אֲבֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.26|<< Deuteronomy 7:26]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.2|Deuteronomy 8:2 >>]]</td></tr></table>
 

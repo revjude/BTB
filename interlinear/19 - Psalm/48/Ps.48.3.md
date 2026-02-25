@@ -1,8 +1,51 @@
+---
+title: Psalm 48:3
+type: Verse
+kjv: "God is known in her palaces for a refuge."
+bsb: "God is in her citadels; He has shown Himself to be a fortress."
+hebrew: "אֱלֹהִ֥ים בְּאַרְמְנוֹתֶ֗יהָ נוֹדַ֥ע לְמִשְׂגָּֽב׃"
+pericope: "[[Ps.48.1 Broken Bondage|Broken Bondage]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 48
+book/chapter: "[[Ps.48|Psalm 48]]"
+chronological_order: 503
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H0759G]]"
+- "[[H9024]]"
+- "[[H3045]]"
+- "[[H9005]]"
+- "[[H4869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 48:3**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God is known in her palaces for a refuge.
 <small><sub>**BSB:**</sub></small>
 God is in her citadels; He has shown Himself to be a fortress.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱלֹהִ֥ים]] [[H9003\|בְּ]][[H0759G\|אַרְמְנוֹתֶ֗י]][[H9024\|הָ]] [[H3045\|נוֹדַ֥ע]] [[H9005\|לְ]][[H4869A\|מִשְׂגָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.2|<< Psalms 48:2]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.4|Psalms 48:4 >>]]</td></tr></table>
 

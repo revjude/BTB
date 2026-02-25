@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 15:13
+type: Verse
+kjv: "And Samuel came to Saul: and Saul said unto him, Blessed be thou of the LORD: I have performed the commandment of the LORD."
+bsb: "When Samuel reached him, Saul said to him, “May the LORD bless you. I have carried out the LORD’s instructions.”"
+hebrew: "וַיָּבֹ֥א שְׁמוּאֵ֖ל אֶל־ שָׁא֑וּל וַיֹּ֧אמֶר ל֣וֹ שָׁא֗וּל בָּר֤וּךְ אַתָּה֙ לַֽיהוָ֔ה הֲקִימֹ֖תִי אֶת־ דְּבַ֥ר יְהוָֽה׃"
+pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H8050G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1288]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:13**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samuel came to Saul: and Saul said unto him, Blessed [be] thou of the LORD: I have performed the commandment of the LORD.
 <small><sub>**BSB:**</sub></small>
 When Samuel reached him, Saul said to him, “May the LORD bless you. I have carried out the LORD’s instructions.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H8050G\|שְׁמוּאֵ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֑וּל]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H7586G\|שָׁא֗וּל]] [[H1288\|בָּר֤וּךְ]] [[H0859A\|אַתָּה֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H6965I\|הֲקִימֹ֖תִי]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RULERS|RULERS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.12|<< 1 Samuel 15:12]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.14|1 Samuel 15:14 >>]]</td></tr></table>
 

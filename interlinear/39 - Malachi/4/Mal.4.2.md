@@ -1,8 +1,68 @@
+---
+title: Malachi 4:2
+type: Verse
+kjv: "But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall."
+bsb: "“But for you who fear My name, the sun of righteousness will rise with healing in its wings, and you will go out and leap like calves from the stall."
+hebrew: "וְזָרְחָ֨ה לָכֶ֜ם יִרְאֵ֤י שְׁמִי֙ שֶׁ֣מֶשׁ צְדָקָ֔ה וּמַרְפֵּ֖א בִּכְנָפֶ֑יהָ וִֽיצָאתֶ֥ם וּפִשְׁתֶּ֖ם כְּעֶגְלֵ֥י מַרְבֵּֽק׃"
+pericope: "[[Mal.4.1 The Day of the LORD|The Day of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 4
+book/chapter: "[[Mal.4|Malachi 4]]"
+chronological_order: 929
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2224]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3373]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H8121]]"
+- "[[H6666]]"
+- "[[H9002]]"
+- "[[H4832]]"
+- "[[H9003]]"
+- "[[H3671]]"
+- "[[H9024]]"
+- "[[H3318G]]"
+- "[[H6335A]]"
+- "[[H9004]]"
+- "[[H5695]]"
+- "[[H4770]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 4:2**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.
 <small><sub>**BSB:**</sub></small>
 “But for you who fear My name, the sun of righteousness will rise with healing in its wings, and you will go out and leap like calves from the stall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2224\|זָרְחָ֨ה]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H3373\|יִרְאֵ֤י]] [[H8034\|שְׁמִ]][[H9020\|י֙]] [[H8121\|שֶׁ֣מֶשׁ]] [[H6666\|צְדָקָ֔ה]] [[H9002\|וּ]][[H4832\|מַרְפֵּ֖א]] [[H9003\|בִּ]][[H3671\|כְנָפֶ֑י]][[H9024\|הָ]] [[H9001\|וִֽ]][[H3318G\|יצָאתֶ֥ם]] [[H9001\|וּ]][[H6335A\|פִשְׁתֶּ֖ם]] [[H9004\|כְּ]][[H5695\|עֶגְלֵ֥י]] [[H4770\|מַרְבֵּֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALACHI|MALACHI]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.1|<< Malachi 4:1]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.3|Malachi 4:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

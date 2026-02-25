@@ -1,8 +1,59 @@
+---
+title: Judges 1:5
+type: Verse
+kjv: "And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites."
+bsb: "And there they found Adoni-bezek and fought against him, striking down the Canaanites and Perizzites."
+hebrew: "וַֽ֠יִּמְצְאוּ אֶת־ אֲדֹנִ֥י בֶ֙זֶק֙ בְּבֶ֔זֶק וַיִּֽלָּחֲמ֖וּ בּ֑וֹ וַיַּכּ֕וּ אֶת־ הַֽכְּנַעֲנִ֖י וְאֶת־ הַפְּרִזִּֽי׃"
+pericope: "[[Judg.1.1 The Conquest of Canaan Proceeds|The Conquest of Canaan Proceeds]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ADONI-BEZEK|ADONI-BEZEK]]"
+- "[[topic BEZEK|BEZEK]]"
+- "[[topic BOCHIM|BOCHIM]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0137]]"
+- "[[H9003]]"
+- "[[H0966G]]"
+- "[[H3898A]]"
+- "[[H9033]]"
+- "[[H5221]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H9002]]"
+- "[[H6522]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 1:5**<big><big>[[Judg.1.1 The Conquest of Canaan Proceeds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they found Adonibezek in Bezek: and they fought against him, and they slew the Canaanites and the Perizzites.
 <small><sub>**BSB:**</sub></small>
 And there they found Adoni-bezek and fought against him, striking down the Canaanites and Perizzites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֠]][[H4672\|יִּמְצְאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0137\|אֲדֹנִ֥י]] [[H0137\|בֶ֙זֶק֙]] [[H9003\|בְּ]][[H0966G\|בֶ֔זֶק]] [[H9001\|וַ]][[H3898A\|יִּֽלָּחֲמ֖וּ]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H5221\|יַּכּ֕וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֖י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6522\|פְּרִזִּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-BEZEK|ADONI-BEZEK]] • [[topic BEZEK|BEZEK]] • [[topic BOCHIM|BOCHIM]] • [[topic CANAANITES|CANAANITES]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.4|<< Judges 1:4]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.6|Judges 1:6 >>]]</td></tr></table>
 

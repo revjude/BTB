@@ -1,10 +1,56 @@
+---
+title: Romans 9:8
+type: Verse
+kjv: "That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed."
+bsb: "So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring."
+greek: "τοῦτ᾽ ἔστιν, οὐ τὰ τέκνα τῆς σαρκὸς ταῦτα τέκνα τοῦ θεοῦ, ἀλλὰ τὰ τέκνα τῆς ἐπαγγελίας λογίζεται εἰς σπέρμα."
+pericope: "[[Rom.9.6 God’s Sovereign Choice|God’s Sovereign Choice]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G5043]]"
+- "[[G4561]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G1860]]"
+- "[[G3049]]"
+- "[[G1519]]"
+- "[[G4690G]]"
+texts:
+- NKO
+---
+
 **Romans 9:8**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That is, They which are the children of the flesh, these [are] not the children of God: but the children of the promise are counted for the seed.
 <small><sub>**BSB:**</sub></small>
 So it is not the children of the flesh who are God’s children, but it is the children of the promise who are regarded as offspring.
-<small><sub>**Literal:**</sub></small>
-That is not the children of the flesh these [are] children <the> of God, but the children of the promise are regarded as offspring.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.7|<< Romans 9:7]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.9|Romans 9:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν,]]  [[G3756\|οὐ]]  [[G3588\|τὰ]]  [[G5043\|τέκνα]]  [[G3588\|τῆς]]  [[G4561\|σαρκὸς]]  [[G3778\|ταῦτα]]  [[G5043\|τέκνα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὰ]]  [[G5043\|τέκνα]]  [[G3588\|τῆς]]  [[G1860\|ἐπαγγελίας]]  [[G3049\|λογίζεται]]  [[G1519\|εἰς]]  [[G4690G\|σπέρμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COVENANT|COVENANT]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.7|<< Romans 9:7]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.9|Romans 9:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

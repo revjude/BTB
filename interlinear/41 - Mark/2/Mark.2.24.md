@@ -1,10 +1,54 @@
+---
+title: Mark 2:24
+type: Verse
+kjv: "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?"
+bsb: "So the Pharisees said to Him, “Look, why are they doing what is unlawful on the Sabbath?”"
+greek: "καὶ οἱ Φαρισαῖοι ἔλεγον αὐτῷ· ἴδε τί ποιοῦσιν ἐν τοῖς σάββασιν ὃ οὐκ ἔξεστιν;¶"
+pericope: "[[Mark.2.23 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2396]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G1722]]"
+- "[[G4521]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1832]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 2:24**<big><big>[[Mark.2.23 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?
 <small><sub>**BSB:**</sub></small>
 So the Pharisees said to Him, “Look, why are they doing what is unlawful on the Sabbath?”
-<small><sub>**Literal:**</sub></small>
-And the Pharisees were saying to Him; Behold why do they in on the Sabbaths that which not is lawful?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.23|<< Mark 2:23]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.25|Mark 2:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G3004G\|ἔλεγον]]  [[G0846\|αὐτῷ·]]  [[G2396\|ἴδε]]  [[G5101\|τί]]  [[G4160G\|ποιοῦσιν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G4521\|σάββασιν]]  [[G3739\|ὃ]]  [[G3756\|οὐκ]]  [[G1832\|ἔξεστιν;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.23|<< Mark 2:23]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.25|Mark 2:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

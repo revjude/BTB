@@ -1,8 +1,57 @@
+---
+title: Job 19:26
+type: Verse
+kjv: "And though after my skin worms destroy this body, yet in my flesh shall I see God:"
+bsb: "Even after my skin has been destroyed, yet in my flesh I will see God."
+hebrew: "וְאַחַ֣ר ע֭וֹרִֽי נִקְּפוּ־ זֹ֑את וּ֝מִבְּשָׂרִ֗י אֶֽחֱזֶ֥ה אֱלֽוֹהַּ׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H5785]]"
+- "[[H9020]]"
+- "[[H5362A]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H2372]]"
+- "[[H0433]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:26**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [though] after my skin [worms] destroy this [body], yet in my flesh shall I see God:
 <small><sub>**BSB:**</sub></small>
 Even after my skin has been destroyed, yet in my flesh I will see God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחַ֣ר]] [[H5785\|ע֭וֹרִֽ]][[H9020\|י]] [[H5362A\|נִקְּפוּ]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H9002\|וּ֝]][[H9006\|מִ]][[H1320\|בְּשָׂרִ֗]][[H9020\|י]] [[H2372\|אֶֽחֱזֶ֥ה]] [[H0433\|אֱלֽוֹהַּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.25|<< Job 19:25]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.27|Job 19:27 >>]]</td></tr></table>
 

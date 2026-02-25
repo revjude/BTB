@@ -1,8 +1,65 @@
+---
+title: Ezekiel 18:11
+type: Verse
+kjv: "And that doeth not any of those duties, but even hath eaten upon the mountains, and defiled his neighbour’s wife,"
+bsb: "though the father has done none of them: Indeed, the son eats at the mountain and defiles his neighbor’s wife."
+hebrew: "וְה֕וּא אֶת־ כָּל־ אֵ֖לֶּה לֹ֣א עָשָׂ֑ה כִּ֣י גַ֤ם אֶל־ הֶֽהָרִים֙ אָכַ֔ל וְאֶת־ אֵ֥שֶׁת רֵעֵ֖הוּ טִמֵּֽא׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H0398]]"
+- "[[H0802H]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 18:11**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that doeth not any of those [duties], but even hath eaten upon the mountains, and defiled his neighbour’s wife,
 <small><sub>**BSB:**</sub></small>
 though the father has done none of them: Indeed, the son eats at the mountain and defiles his neighbor’s wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|ה֕וּא]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֖לֶּה]] [[H3808\|לֹ֣א]] [[H6213A\|עָשָׂ֑ה]] [[H3588A\|כִּ֣י]] [[H1571\|גַ֤ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2022G\|הָרִים֙]] [[H0398\|אָכַ֔ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אֵ֥שֶׁת]] [[H7453\|רֵעֵ֖]][[H9023\|הוּ]] [[H2930A\|טִמֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.10|<< Ezekiel 18:10]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.12|Ezekiel 18:12 >>]]</td></tr></table>
 

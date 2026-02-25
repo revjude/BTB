@@ -1,8 +1,57 @@
+---
+title: Exodus 37:28
+type: Verse
+kjv: "And he made the staves of shittim wood, and overlaid them with gold."
+bsb: "And he made the poles of acacia wood and overlaid them with gold."
+hebrew: "וַיַּ֥עַשׂ אֶת־ הַבַּדִּ֖ים עֲצֵ֣י שִׁטִּ֑ים וַיְצַ֥ף אֹתָ֖ם זָהָֽב׃"
+pericope: "[[Exod.37.25 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0905G]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H6823]]"
+- "[[H9038]]"
+- "[[H2091]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:28**<big><big>[[Exod.37.25 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the staves [of] shittim wood, and overlaid them with gold.
 <small><sub>**BSB:**</sub></small>
 And he made the poles of acacia wood and overlaid them with gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0905G\|בַּדִּ֖ים]] [[H6086G\|עֲצֵ֣י]] [[H7848\|שִׁטִּ֑ים]] [[H9001\|וַ]][[H6823\|יְצַ֥ף]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.27|<< Exodus 37:27]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.29|Exodus 37:29 >>]]</td></tr></table>
 

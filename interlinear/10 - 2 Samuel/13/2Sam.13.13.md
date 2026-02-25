@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 13:13
+type: Verse
+kjv: "And I, whither shall I cause my shame to go? and as for thee, thou shalt be as one of the fools in Israel. Now therefore, I pray thee, speak unto the king; for he will not withhold me from thee."
+bsb: "Where could I ever take my shame? And you would be like one of the fools in Israel! Please speak to the king, for he will not withhold me from you.”"
+hebrew: "וַאֲנִ֗י אָ֤נָה אוֹלִיךְ֙ אֶת־ חֶרְפָּתִ֔י וְאַתָּ֗ה תִּהְיֶ֛ה כְּאַחַ֥ד הַנְּבָלִ֖ים בְּיִשְׂרָאֵ֑ל וְעַתָּה֙ דַּבֶּר־ נָ֣א אֶל־ הַמֶּ֔לֶךְ כִּ֛י לֹ֥א יִמְנָעֵ֖נִי מִמֶּֽךָּ׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H0575]]"
+- "[[H1980J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2781]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H5036]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H6258]]"
+- "[[H1696G]]"
+- "[[H4994]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H4513]]"
+- "[[H9030]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:13**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I, whither shall I cause my shame to go? and as for thee, thou shalt be as one of the fools in Israel. Now therefore, I pray thee, speak unto the king; for he will not withhold me from thee.
 <small><sub>**BSB:**</sub></small>
 Where could I ever take my shame? And you would be like one of the fools in Israel! Please speak to the king, for he will not withhold me from you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H0575\|אָ֤נָה]] [[H1980J\|אוֹלִיךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2781\|חֶרְפָּתִ֔]][[H9020\|י]] [[H9002\|וְ]][[H0859A\|אַתָּ֗ה]] [[H1961\|תִּהְיֶ֛ה]] [[H9004\|כְּ]][[H0259\|אַחַ֥ד]] [[H9009\|הַ]][[H5036\|נְּבָלִ֖ים]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H1696G\|דַּבֶּר]][[H9014\|־]] [[H4994\|נָ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H4513\|יִמְנָעֵ֖]][[H9030\|נִי]] [[H4480A\|מִמֶּֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DECEPTION|DECEPTION]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RAPE|RAPE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.12|<< 2 Samuel 13:12]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.14|2 Samuel 13:14 >>]]</td></tr></table>
 

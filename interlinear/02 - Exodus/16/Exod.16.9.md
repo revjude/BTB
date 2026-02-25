@@ -1,8 +1,70 @@
+---
+title: Exodus 16:9
+type: Verse
+kjv: "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings."
+bsb: "Then Moses said to Aaron, “Tell the whole congregation of Israel, ‘Come before the LORD, for He has heard your grumbling.’”"
+hebrew: "וַיֹּ֤אמֶר מֹשֶׁה֙ אֶֽל־ אַהֲרֹ֔ן אֱמֹ֗ר אֶֽל־ כָּל־ עֲדַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל קִרְב֖וּ לִפְנֵ֣י יְהוָ֑ה כִּ֣י שָׁמַ֔ע אֵ֖ת תְּלֻנֹּתֵיכֶֽם׃"
+pericope: "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H3605]]"
+- "[[H5712]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H7126G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H8519]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:9**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings.
 <small><sub>**BSB:**</sub></small>
 Then Moses said to Aaron, “Tell the whole congregation of Israel, ‘Come before the LORD, for He has heard your grumbling.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H4872\|מֹשֶׁה֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֔ן]] [[H0559\|אֱמֹ֗ר]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדַת֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H7126G\|קִרְב֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֣י]] [[H8085G\|שָׁמַ֔ע]] [[H0853\|אֵ֖ת]] [[H8519\|תְּלֻנֹּתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.8|<< Exodus 16:8]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.10|Exodus 16:10 >>]]</td></tr></table>
 

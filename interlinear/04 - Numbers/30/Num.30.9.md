@@ -1,8 +1,61 @@
+---
+title: Numbers 30:9
+type: Verse
+kjv: "But every vow of a widow, and of her that is divorced, wherewith they have bound their souls, shall stand against her."
+bsb: "Every vow a widow or divorced woman pledges to fulfill is binding on her."
+hebrew: "וְנֵ֥דֶר אַלְמָנָ֖ה וּגְרוּשָׁ֑ה כֹּ֛ל אֲשֶׁר־ אָסְרָ֥ה עַל־ נַפְשָׁ֖הּ יָק֥וּם עָלֶֽיהָ׃"
+pericope: "[[Num.30.1 Laws about Vows|Laws about Vows]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 30
+book/chapter: "[[Num.30|Numbers 30]]"
+chronological_order: 190
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic VOWS|VOWS]]"
+- "[[topic WIDOW|WIDOW]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H5088]]"
+- "[[H0490]]"
+- "[[H1644H]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0631]]"
+- "[[H5921A]]"
+- "[[H5315I]]"
+- "[[H9024]]"
+- "[[H6965I]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 30:9**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But every vow of a widow, and of her that is divorced, wherewith they have bound their souls, shall stand against her.
 <small><sub>**BSB:**</sub></small>
 Every vow a widow or divorced woman pledges to fulfill is binding on her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5088\|נֵ֥דֶר]] [[H0490\|אַלְמָנָ֖ה]] [[H9002\|וּ]][[H1644H\|גְרוּשָׁ֑ה]] [[H3605\|כֹּ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0631\|אָסְרָ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5315I\|נַפְשָׁ֖]][[H9024\|הּ]] [[H6965I\|יָק֥וּם]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]] • [[topic WIDOW|WIDOW]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.8|<< Numbers 30:8]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.10|Numbers 30:10 >>]]</td></tr></table>
 

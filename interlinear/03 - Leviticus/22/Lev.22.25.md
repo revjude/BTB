@@ -1,8 +1,75 @@
+---
+title: Leviticus 22:25
+type: Verse
+kjv: "Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they shall not be accepted for you."
+bsb: "Neither you nor a foreigner shall present food to your God from any such animal. They will not be accepted on your behalf, because they are deformed and flawed.’”"
+hebrew: "וּמִיַּ֣ד בֶּן־ נֵכָ֗ר לֹ֥א תַקְרִ֛יבוּ אֶת־ לֶ֥חֶם אֱלֹהֵיכֶ֖ם מִכָּל־ אֵ֑לֶּה כִּ֣י מָשְׁחָתָ֤ם בָּהֶם֙ מ֣וּם בָּ֔ם לֹ֥א יֵרָצ֖וּ לָכֶֽם׃ פ"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLEMISH|BLEMISH]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3027K]]"
+- "[[H1121I]]"
+- "[[H9014]]"
+- "[[H5236]]"
+- "[[H3808]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H3899H]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H3588A]]"
+- "[[H4893B]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3971B]]"
+- "[[H7521]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 22:25**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither from a stranger’s hand shall ye offer the bread of your God of any of these; because their corruption [is] in them, [and] blemishes [be] in them: they shall not be accepted for you.
 <small><sub>**BSB:**</sub></small>
 Neither you nor a foreigner shall present food to your God from any such animal. They will not be accepted on your behalf, because they are deformed and flawed.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H3027K\|יַּ֣ד]] [[H1121I\|בֶּן]][[H9014\|־]] [[H5236\|נֵכָ֗ר]] [[H3808\|לֹ֥א]] [[H7126H\|תַקְרִ֛יבוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3899H\|לֶ֥חֶם]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֑לֶּה]] [[H3588A\|כִּ֣י]] [[H4893B\|מָשְׁחָתָ֤]][[H9028\|ם]] [[H9003\|בָּ]][[H9038\|הֶם֙]] [[H3971B\|מ֣וּם]] [[H9003\|בָּ֔]][[H9038\|ם]] [[H3808\|לֹ֥א]] [[H7521\|יֵרָצ֖וּ]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLEMISH|BLEMISH]] • [[topic BREAD|BREAD]] • [[topic CORRUPTION|CORRUPTION]] • [[topic OFFERINGS|OFFERINGS]] • [[topic STRANGERS|STRANGERS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.24|<< Leviticus 22:24]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.26|Leviticus 22:26 >>]]</td></tr></table>
 
@@ -25,7 +92,7 @@ Neither you nor a foreigner shall present food to your God from any such animal.
 | [is] in \<the> them  |**<big>&#8207;[[H9003\|בָּ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| Ba<small><sup>[[HRd]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will be accepted  |**<big>&#8207;[[H7521\|יֵרָצ֖וּ]]&#8207; </big>**| ye.ra.Tzu<small><sup>[[HVNi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.24|<< Leviticus 22:24]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.26|Leviticus 22:26 >>]]</td></tr></table>
 
 

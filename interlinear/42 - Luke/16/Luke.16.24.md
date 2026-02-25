@@ -1,10 +1,74 @@
+---
+title: Luke 16:24
+type: Verse
+kjv: "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame."
+bsb: "So he cried out, ‘Father Abraham, have mercy on me and send Lazarus to dip the tip of his finger in water and cool my tongue. For I am in agony in this fire.’"
+jesus_said: "And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame."
+greek: "καὶ αὐτὸς φωνήσας εἶπεν· πάτερ Ἀβραάμ, ἐλέησόν με καὶ πέμψον Λάζαρον ἵνα βάψῃ τὸ ἄκρον τοῦ δακτύλου αὐτοῦ ὕδατος καὶ καταψύξῃ τὴν γλῶσσάν μου, ὅτι ὀδυνῶμαι ἐν τῇ φλογὶ ταύτῃ.¶"
+pericope: "[[Luke.16.19 The Rich Man and Lazarus|The Rich Man and Lazarus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TORMENTS|TORMENTS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G5455]]"
+- "[[G2036]]"
+- "[[G3962]]"
+- "[[G0011]]"
+- "[[G1653]]"
+- "[[G3165]]"
+- "[[G3992]]"
+- "[[G2976G]]"
+- "[[G2443]]"
+- "[[G0911]]"
+- "[[G3588]]"
+- "[[G0206]]"
+- "[[G1147]]"
+- "[[G5204]]"
+- "[[G2711]]"
+- "[[G1100]]"
+- "[[G3754H]]"
+- "[[G3600]]"
+- "[[G1722]]"
+- "[[G5395]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Luke 16:24**<big><big>[[Luke.16.19 The Rich Man and Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.
 <small><sub>**BSB:**</sub></small>
 So he cried out, ‘Father Abraham, have mercy on me and send Lazarus to dip the tip of his finger in water and cool my tongue. For I am in agony in this fire.’
-<small><sub>**Literal:**</sub></small>
-And he himself having cried out said; Father Abraham, do have mercy on me and do send Lazarus that he may dip the tip of the finger of him in water and may cool the tongue of mine, for I am suffering in <the> flame this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.23|<< Luke 16:23]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.25|Luke 16:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G5455\|φωνήσας]]  [[G2036\|εἶπεν·]]  [[G3962\|πάτερ]]  [[G0011\|Ἀβραάμ,]]  [[G1653\|ἐλέησόν]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G3992\|πέμψον]]  [[G2976G\|Λάζαρον]]  [[G2443\|ἵνα]]  [[G0911\|βάψῃ]]  [[G3588\|τὸ]]  [[G0206\|ἄκρον]]  [[G3588\|τοῦ]]  [[G1147\|δακτύλου]]  [[G0846\|αὐτοῦ]]  [[G5204\|ὕδατος]]  [[G2532\|καὶ]]  [[G2711\|καταψύξῃ]]  [[G3588\|τὴν]]  [[G1100\|γλῶσσάν]]  [[G3165\|μου,]]  [[G3754H\|ὅτι]]  [[G3600\|ὀδυνῶμαι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5395\|φλογὶ]]  [[G3778\|ταύτῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICH, THE|RICH, THE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TORMENTS|TORMENTS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.23|<< Luke 16:23]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.25|Luke 16:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

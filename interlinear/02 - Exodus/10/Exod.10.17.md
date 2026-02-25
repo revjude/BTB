@@ -1,8 +1,78 @@
+---
+title: Exodus 10:17
+type: Verse
+kjv: "Now therefore forgive, I pray thee, my sin only this once, and intreat the LORD your God, that he may take away from me this death only."
+bsb: "Now please forgive my sin once more and appeal to the LORD your God, that He may remove this death from me.”"
+hebrew: "וְעַתָּ֗ה שָׂ֣א נָ֤א חַטָּאתִי֙ אַ֣ךְ הַפַּ֔עַם וְהַעְתִּ֖ירוּ לַיהוָ֣ה אֱלֹהֵיכֶ֑ם וְיָסֵר֙ מֵֽעָלַ֔י רַ֖ק אֶת־ הַמָּ֥וֶת הַזֶּֽה׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H5375I]]"
+- "[[H4994]]"
+- "[[H2403B]]"
+- "[[H9020]]"
+- "[[H0389]]"
+- "[[H9009]]"
+- "[[H6471]]"
+- "[[H6279]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H7535]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4194]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:17**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore forgive, I pray thee, my sin only this once, and intreat the LORD your God, that he may take away from me this death only.
 <small><sub>**BSB:**</sub></small>
 Now please forgive my sin once more and appeal to the LORD your God, that He may remove this death from me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H5375I\|שָׂ֣א]] [[H4994\|נָ֤א]] [[H2403B\|חַטָּאתִ]][[H9020\|י֙]] [[H0389\|אַ֣ךְ]] [[H9009\|הַ]][[H6471\|פַּ֔עַם]] [[H9002\|וְ]][[H6279\|הַעְתִּ֖ירוּ]] [[H9005\|לַ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H5493G\|יָסֵר֙]] [[H9006\|מֵֽ]][[H5921A\|עָלַ֔]][[H9030\|י]] [[H7535\|רַ֖ק]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4194\|מָּ֥וֶת]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANIMALS|ANIMALS]] • [[topic CONVICTION|CONVICTION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INSTABILITY|INSTABILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LOCUST|LOCUST]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.16|<< Exodus 10:16]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.18|Exodus 10:18 >>]]</td></tr></table>
 

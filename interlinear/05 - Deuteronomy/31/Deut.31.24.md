@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 31:24
+type: Verse
+kjv: "And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,"
+bsb: "When Moses had finished writing in a book the words of this law from beginning to end,"
+hebrew: "וַיְהִ֣י׀ כְּכַלּ֣וֹת מֹשֶׁ֗ה לִכְתֹּ֛ב אֶת־ דִּבְרֵ֥י הַתּוֹרָֽה־ הַזֹּ֖את עַל־ סֵ֑פֶר עַ֖ד תֻּמָּֽם׃"
+pericope: "[[Deut.31.24 The Law Placed in the Ark|The Law Placed in the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H3789]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H2063]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H9048]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:24**<big><big>[[Deut.31.24 The Law Placed in the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,
 <small><sub>**BSB:**</sub></small>
 When Moses had finished writing in a book the words of this law from beginning to end,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9004\|כְּ]][[H3615G\|כַלּ֣וֹת]] [[H4872\|מֹשֶׁ֗ה]] [[H9005\|לִ]][[H3789\|כְתֹּ֛ב]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H8451\|תּוֹרָֽה]][[H9014\|־]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֑פֶר]] [[H5704\|עַ֖ד]] [[H8552\|תֻּמָּֽ]][[H9048\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.23|<< Deuteronomy 31:23]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.25|Deuteronomy 31:25 >>]]</td></tr></table>
 

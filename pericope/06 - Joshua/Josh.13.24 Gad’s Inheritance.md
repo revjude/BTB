@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gad’s Inheritance
+type: Pericope
 pericope: "[[Josh.13.24 Gad’s Inheritance|Gad’s Inheritance]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 13
 book/chapter: "[[Josh.13|Joshua 13]]"
-genre:
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 5
 verses:
 - "[[Josh.13.24]]"
 - "[[Josh.13.25]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Josh.13.28]]"
 ---
 
-[[Josh.13|Joshua 13:24 - Joshua 13:28]]
+<small>[[Josh.13|Joshua 13:24-28]]</small>
 *Gad’s Inheritance*
 
 [[Josh.13.24|24]] And Moses gave \[inheritance\] unto the tribe of Gad, \[even\] unto the children of Gad according to their families.

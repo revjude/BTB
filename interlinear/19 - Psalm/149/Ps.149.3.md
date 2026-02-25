@@ -1,8 +1,60 @@
+---
+title: Psalm 149:3
+type: Verse
+kjv: "Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp."
+bsb: "Let them praise His name with dancing, and make music to Him with tambourine and harp."
+hebrew: "יְהַֽלְל֣וּ שְׁמ֣וֹ בְמָח֑וֹל בְּתֹ֥ף וְ֝כִנּ֗וֹר יְזַמְּרוּ־ לֽוֹ׃"
+pericope: "[[Ps.149.1 Sing to the LORD a New Song|Sing to the LORD a New Song]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 149
+book/chapter: "[[Ps.149|Psalm 149]]"
+chronological_order: 897
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DANCING|DANCING]]"
+- "[[topic HARP|HARP]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TIMBREL|TIMBREL]]"
+strongs:
+- "[[H1984B]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4234]]"
+- "[[H8596]]"
+- "[[H9002]]"
+- "[[H3658]]"
+- "[[H2167]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 149:3**<big><big>[[Ps.149.1 Sing to the LORD a New Song|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them praise his name in the dance: let them sing praises unto him with the timbrel and harp.
 <small><sub>**BSB:**</sub></small>
 Let them praise His name with dancing, and make music to Him with tambourine and harp.
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|יְהַֽלְל֣וּ]] [[H8034\|שְׁמ֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H4234\|מָח֑וֹל]] [[H9003\|בְּ]][[H8596\|תֹ֥ף]] [[H9002\|וְ֝]][[H3658\|כִנּ֗וֹר]] [[H2167\|יְזַמְּרוּ]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANCING|DANCING]] • [[topic HARP|HARP]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic TIMBREL|TIMBREL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.149.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.149.2|<< Psalms 149:2]]</td><td align="center" style="border:none;">[[Ps.149|Psalms 149]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.149.4|Psalms 149:4 >>]]</td></tr></table>
 

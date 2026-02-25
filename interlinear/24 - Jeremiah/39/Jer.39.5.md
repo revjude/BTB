@@ -1,8 +1,72 @@
+---
+title: Jeremiah 39:5
+type: Verse
+kjv: "But the Chaldeans’ army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him."
+bsb: "But the army of the Chaldeans pursued them and overtook Zedekiah in the plains of Jericho. They seized him and brought him up to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, where he pronounced judgment on him."
+hebrew: "וַיִּרְדְּפ֨וּ חֵיל־ כַּשְׂדִּ֜ים אַחֲרֵיהֶ֗ם וַיַּשִּׂ֣גוּ אֶת־ צִדְקִיָּהוּ֮ בְּעַֽרְב֣וֹת יְרֵחוֹ֒ וַיִּקְח֣וּ אֹת֗וֹ וַֽ֠יַּעֲלֻהוּ אֶל־ נְבוּכַדְרֶאצַּ֧ר מֶֽלֶךְ־ בָּבֶ֛ל רִבְלָ֖תָה בְּאֶ֣רֶץ חֲמָ֑ת וַיְדַבֵּ֥ר אִתּ֖וֹ מִשְׁפָּטִֽים׃"
+pericope: "[[Jer.39.1 The Fall of Jerusalem|The Fall of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 39
+book/chapter: "[[Jer.39|Jeremiah 39]]"
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic RIBLAH|RIBLAH]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H2428A]]"
+- "[[H9014]]"
+- "[[H3778]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H5381]]"
+- "[[H0853]]"
+- "[[H6667H]]"
+- "[[H9003]]"
+- "[[H6160L]]"
+- "[[H3405G]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H5927H]]"
+- "[[H0413]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H7247H]]"
+- "[[H9011]]"
+- "[[H0776G]]"
+- "[[H2574G]]"
+- "[[H1696I]]"
+- "[[H0854]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 39:5**<big><big>[[Jer.39.1 The Fall of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the Chaldeans’ army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadnezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.
 <small><sub>**BSB:**</sub></small>
 But the army of the Chaldeans pursued them and overtook Zedekiah in the plains of Jericho. They seized him and brought him up to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath, where he pronounced judgment on him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7291\|יִּרְדְּפ֨וּ]] [[H2428A\|חֵיל]][[H9014\|־]] [[H3778\|כַּשְׂדִּ֜ים]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֗ם]] [[H9001\|וַ]][[H5381\|יַּשִּׂ֣גוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6667H\|צִדְקִיָּהוּ֮]] [[H9003\|בְּ]][[H6160L\|עַֽרְב֣וֹת]] [[H3405G\|יְרֵחוֹ֒]] [[H9001\|וַ]][[H3947G\|יִּקְח֣וּ]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9001\|וַֽ֠]][[H5927H\|יַּעֲלֻ]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H5019\|נְבוּכַדְרֶאצַּ֧ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H7247H\|רִבְלָ֖תָ]][[H9011\|ה]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H2574G\|חֲמָ֑ת]] [[H9001\|וַ]][[H1696I\|יְדַבֵּ֥ר]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H4941G\|מִשְׁפָּטִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIBLAH|RIBLAH]] • [[topic SYRIA|SYRIA]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.39.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.39.4|<< Jeremiah 39:4]]</td><td align="center" style="border:none;">[[Jer.39|Jeremiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.39.6|Jeremiah 39:6 >>]]</td></tr></table>
 

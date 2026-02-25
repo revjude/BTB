@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 16:5
+type: Verse
+kjv: "And it came to pass, when Baasha heard it, that he left off building of Ramah, and let his work cease."
+bsb: "When Baasha learned of this, he stopped fortifying Ramah and abandoned his work."
+hebrew: "וַיְהִי֙ כִּשְׁמֹ֣עַ בַּעְשָׁ֔א וַיֶּחְדַּ֕ל מִבְּנ֖וֹת אֶת־ הָרָמָ֑ה וַיַּשְׁבֵּ֖ת אֶת־ מְלַאכְתּֽוֹ׃ ס"
+pericope: "[[2Chr.16.1 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H1201]]"
+- "[[H2308]]"
+- "[[H9006]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7414G]]"
+- "[[H7673A]]"
+- "[[H4399]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 16:5**<big><big>[[2Chr.16.1 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Baasha heard [it], that he left off building of Ramah, and let his work cease.
 <small><sub>**BSB:**</sub></small>
 When Baasha learned of this, he stopped fortifying Ramah and abandoned his work.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֣עַ]] [[H1201\|בַּעְשָׁ֔א]] [[H9001\|וַ]][[H2308\|יֶּחְדַּ֕ל]] [[H9006\|מִ]][[H1129\|בְּנ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7414G\|רָמָ֑ה]] [[H9001\|וַ]][[H7673A\|יַּשְׁבֵּ֖ת]] [[H0853\|אֶת]][[H9014\|־]] [[H4399\|מְלַאכְתּֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BAASHA|BAASHA]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.4|<< 2 Chronicles 16:4]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.6|2 Chronicles 16:6 >>]]</td></tr></table>
 
@@ -17,7 +68,7 @@ When Baasha learned of this, he stopped fortifying Ramah and abandoned his work.
 | \<the> Ramah  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7414G\|רָמָ֑ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Mah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he caused to cease  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H7673A\|יַּשְׁבֵּ֖ת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yash.Bet<small><sup>[[HVhw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| work his  |**<big>&#8207;[[H4399\|מְלַאכְתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.lakh.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| work his  |**<big>&#8207;[[H4399\|מְלַאכְתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.lakh.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.4|<< 2 Chronicles 16:4]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.6|2 Chronicles 16:6 >>]]</td></tr></table>
 
 

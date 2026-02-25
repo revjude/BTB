@@ -1,10 +1,63 @@
+---
+title: Luke 23:19
+type: Verse
+kjv: "(Who for a certain sedition made in the city, and for murder, was cast into prison.)"
+bsb: "(Barabbas had been imprisoned for an insurrection in the city, and for murder.)"
+greek: "ὅστις ἦν διὰ στάσιν τινὰ γενομένην ἐν τῇ πόλει καὶ φόνον βληθεὶς ἐν τῇ φυλακῇ.¶"
+pericope: "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISON|PRISON]]"
+strongs:
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G1223]]"
+- "[[G4714]]"
+- "[[G5100]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G5408]]"
+- "[[G0906G]]"
+- "[[G5438G]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Luke 23:19**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (Who for a certain sedition made in the city, and for murder, was cast into prison.)
 <small><sub>**BSB:**</sub></small>
 (Barabbas had been imprisoned for an insurrection in the city, and for murder.)
-<small><sub>**Literal:**</sub></small>
-who was on account of insurrection a certain having been made in the city and murder being cast into the prison.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.18|<< Luke 23:18]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.20|Luke 23:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|ὅστις]]  [[G1510\|ἦν]]  [[G1223\|διὰ]]  [[G4714\|στάσιν]]  [[G5100\|τινὰ]]  [[G1096\|γενομένην]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G2532\|καὶ]]  [[G5408\|φόνον]]  [[G0906G\|βληθεὶς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5438G\|φυλακῇ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]] • [[topic PRIEST|PRIEST]] • [[topic PRISON|PRISON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.18|<< Luke 23:18]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.20|Luke 23:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

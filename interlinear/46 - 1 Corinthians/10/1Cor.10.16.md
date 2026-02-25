@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 10:16
+type: Verse
+kjv: "The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?"
+bsb: "Is not the cup of blessing that we bless a participation in the blood of Christ? And is not the bread that we break a participation in the body of Christ?"
+greek: "τὸ ποτήριον τῆς εὐλογίας ὃ εὐλογοῦμεν, οὐχὶ κοινωνία ἐστὶν τοῦ αἵματος τοῦ Χριστοῦ; τὸν ἄρτον ὃν κλῶμεν, οὐχὶ κοινωνία τοῦ σώματος τοῦ Χριστοῦ ἐστιν;"
+pericope: "[[1Cor.10.14 Flee from Idolatry|Flee from Idolatry]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G4221]]"
+- "[[G2129]]"
+- "[[G3739]]"
+- "[[G2127]]"
+- "[[G3780]]"
+- "[[G2842]]"
+- "[[G1510]]"
+- "[[G0129G]]"
+- "[[G5547]]"
+- "[[G0740]]"
+- "[[G2806]]"
+- "[[G4983]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 10:16**<big><big>[[1Cor.10.14 Flee from Idolatry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The cup of blessing which we bless, is it not the communion of the blood of Christ? The bread which we break, is it not the communion of the body of Christ?
 <small><sub>**BSB:**</sub></small>
 Is not the cup of blessing that we bless a participation in the blood of Christ? And is not the bread that we break a participation in the body of Christ?
-<small><sub>**Literal:**</sub></small>
-The cup <the> of blessing that we bless, surely a participation it is in the blood <the> of Christ The bread that we break, surely a participation in the body <the> of Christ it is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.15|<< 1 Corinthians 10:15]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.17|1 Corinthians 10:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3588\|τῆς]]  [[G2129\|εὐλογίας]]  [[G3739\|ὃ]]  [[G2127\|εὐλογοῦμεν,]]  [[G3780\|οὐχὶ]]  [[G2842\|κοινωνία]]  [[G1510\|ἐστὶν]]  [[G3588\|τοῦ]]  [[G0129G\|αἵματος]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ;]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G3739\|ὃν]]  [[G2806\|κλῶμεν,]]  [[G3780\|οὐχὶ]]  [[G2842\|κοινωνία]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G1510\|ἐστιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic COMMUNION|COMMUNION]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.15|<< 1 Corinthians 10:15]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.17|1 Corinthians 10:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

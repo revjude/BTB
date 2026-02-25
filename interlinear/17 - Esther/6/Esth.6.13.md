@@ -1,8 +1,71 @@
+---
+title: Esther 6:13
+type: Verse
+kjv: "And Haman told Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai be of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him."
+bsb: "Haman told his wife Zeresh and all his friends everything that had happened. His advisers and his wife Zeresh said to him, “Since Mordecai, before whom your downfall has begun, is Jewish, you will not prevail against him—for surely you will fall before him.”"
+hebrew: "וַיְסַפֵּ֨ר הָמָ֜ן לְזֶ֤רֶשׁ אִשְׁתּוֹ֙ וּלְכָל־ אֹ֣הֲבָ֔יו אֵ֖ת כָּל־ אֲשֶׁ֣ר קָרָ֑הוּ וַיֹּ֩אמְרוּ֩ ל֨וֹ חֲכָמָ֜יו וְזֶ֣רֶשׁ אִשְׁתּ֗וֹ אִ֣ם מִזֶּ֣רַע הַיְּהוּדִ֡ים מָרְדֳּכַ֞י אֲשֶׁר֩ הַחִלּ֨וֹתָ לִנְפֹּ֤ל לְפָנָיו֙ לֹא־ תוּכַ֣ל ל֔וֹ כִּֽי־ נָפ֥וֹל תִּפּ֖וֹל לְפָנָֽיו׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZERESH|ZERESH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H2001]]"
+- "[[H9005]]"
+- "[[H2238]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0157H]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H7136A]]"
+- "[[H0559]]"
+- "[[H2450]]"
+- "[[H0518A]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H4782H]]"
+- "[[H2490C]]"
+- "[[H5307G]]"
+- "[[H6440G]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H3588A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:13**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Haman told Zeresh his wife and all his friends every [thing] that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai [be] of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.
 <small><sub>**BSB:**</sub></small>
 Haman told his wife Zeresh and all his friends everything that had happened. His advisers and his wife Zeresh said to him, “Since Mordecai, before whom your downfall has begun, is Jewish, you will not prevail against him—for surely you will fall before him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5608A\|יְסַפֵּ֨ר]] [[H2001\|הָמָ֜ן]] [[H9005\|לְ]][[H2238\|זֶ֤רֶשׁ]] [[H0802H\|אִשְׁתּ]][[H9023\|וֹ֙]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0157H\|אֹ֣הֲבָ֔י]][[H9033\|ו]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H7136A\|קָרָ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H0559\|יֹּ֩אמְרוּ֩]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H2450\|חֲכָמָ֜י]][[H9023\|ו]] [[H9002\|וְ]][[H2238\|זֶ֣רֶשׁ]] [[H0802H\|אִשְׁתּ֗]][[H9023\|וֹ]] [[H0518A\|אִ֣ם]] [[H9006\|מִ]][[H2233H\|זֶּ֣רַע]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֡ים]] [[H4782H\|מָרְדֳּכַ֞י]] [[H0834A\|אֲשֶׁר֩]] [[H2490C\|הַחִלּ֨וֹתָ]] [[H9005\|לִ]][[H5307G\|נְפֹּ֤ל]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|תוּכַ֣ל]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5307G\|נָפ֥וֹל]] [[H5307G\|תִּפּ֖וֹל]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]] • [[topic ZERESH|ZERESH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.12|<< Esther 6:12]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.14|Esther 6:14 >>]]</td></tr></table>
 

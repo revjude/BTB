@@ -1,8 +1,60 @@
+---
+title: Isaiah 52:2
+type: Verse
+kjv: "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion."
+bsb: "Shake off your dust! Rise up and sit on your throne, O Jerusalem. Remove the chains from your neck, O captive Daughter of Zion."
+hebrew: "הִתְנַעֲרִ֧י מֵעָפָ֛ר ק֥וּמִי שְּׁבִ֖י יְרֽוּשָׁלִָ֑ם הִֽתְפַּתְּחִי֙ מוֹסְרֵ֣י צַוָּארֵ֔ךְ שְׁבִיָּ֖ה בַּת־ צִיּֽוֹן׃ ס"
+pericope: "[[Isa.52.1 Deliverance for Jerusalem|Deliverance for Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H5287]]"
+- "[[H9006]]"
+- "[[H6083]]"
+- "[[H6965B]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H6605A]]"
+- "[[H4147]]"
+- "[[H6677A]]"
+- "[[H9022]]"
+- "[[H7628B]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 52:2**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shake thyself from the dust; arise, [and] sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.
 <small><sub>**BSB:**</sub></small>
 Shake off your dust! Rise up and sit on your throne, O Jerusalem. Remove the chains from your neck, O captive Daughter of Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H5287\|הִתְנַעֲרִ֧י]] [[H9006\|מֵ]][[H6083\|עָפָ֛ר]] [[H6965B\|ק֥וּמִי]] [[H3427\|שְּׁבִ֖י]] [[H3389\|יְרֽוּשָׁלִָ֑ם]] [[H6605A\|הִֽתְפַּתְּחִי֙]] [[H4147\|מוֹסְרֵ֣י]] [[H6677A\|צַוָּארֵ֔]][[H9022\|ךְ]] [[H7628B\|שְׁבִיָּ֖ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H6726\|צִיּֽוֹן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.1|<< Isaiah 52:1]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.3|Isaiah 52:3 >>]]</td></tr></table>
 
@@ -18,7 +70,7 @@ Shake off your dust! Rise up and sit on your throne, O Jerusalem. Remove the cha
 | neck your  |**<big>&#8207;[[H6677A\|צַוָּארֵ֔]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| tza.va.Re<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O captive [one]  |**<big>&#8207;[[H7628B\|שְׁבִיָּ֖ה]]&#8207; </big>**| she.vi.Yah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] daughter of  |**<big>&#8207;[[H1323G\|בַּת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| bat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Zion  |**<big>&#8207;[[H6726\|צִיּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Zion  |**<big>&#8207;[[H6726\|צִיּֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.1|<< Isaiah 52:1]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.3|Isaiah 52:3 >>]]</td></tr></table>
 
 [^1]: loosen for yourselves  | **<big>[[H6605A|הִתְפַּתְּחוּ]]</big> ** | hit.pa.te.chu<small><sup>[[HVtv2mp]]</sup></small> | K

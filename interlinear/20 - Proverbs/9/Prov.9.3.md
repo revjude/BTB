@@ -1,8 +1,52 @@
+---
+title: Proverbs 9:3
+type: Verse
+kjv: "She hath sent forth her maidens: she crieth upon the highest places of the city,"
+bsb: "She has sent out her maidservants; she calls out from the heights of the city."
+hebrew: "שָֽׁלְחָ֣ה נַעֲרֹתֶ֣יהָ תִקְרָ֑א עַל־ גַּ֝פֵּ֗י מְרֹ֣מֵי קָֽרֶת׃"
+pericope: "[[Prov.9.1 The Way of Wisdom|The Way of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 9
+book/chapter: "[[Prov.9|Proverbs 9]]"
+chronological_order: 464
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H7971G]]"
+- "[[H5291]]"
+- "[[H9024]]"
+- "[[H7121I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1610]]"
+- "[[H4791]]"
+- "[[H7176]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 9:3**<big><big>[[Prov.9.1 The Way of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She hath sent forth her maidens: she crieth upon the highest places of the city,
 <small><sub>**BSB:**</sub></small>
 She has sent out her maidservants; she calls out from the heights of the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|שָֽׁלְחָ֣ה]] [[H5291\|נַעֲרֹתֶ֣י]][[H9024\|הָ]] [[H7121I\|תִקְרָ֑א]] [[H5921A\|עַל]][[H9014\|־]] [[H1610\|גַּ֝פֵּ֗י]] [[H4791\|מְרֹ֣מֵי]] [[H7176\|קָֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic SALVATION|SALVATION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.9.2|<< Proverbs 9:2]]</td><td align="center" style="border:none;">[[Prov.9|Proverbs 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.9.4|Proverbs 9:4 >>]]</td></tr></table>
 

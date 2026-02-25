@@ -1,8 +1,67 @@
+---
+title: Zechariah 8:13
+type: Verse
+kjv: "And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong."
+bsb: "As you have been a curse among the nations, O house of Judah and house of Israel, so I will save you, and you will be a blessing. Do not be afraid; let your hands be strong.”"
+hebrew: "וְהָיָ֡ה כַּאֲשֶׁר֩ הֱיִיתֶ֨ם קְלָלָ֜ה בַּגּוֹיִ֗ם בֵּ֤ית יְהוּדָה֙ וּבֵ֣ית יִשְׂרָאֵ֔ל כֵּ֚ן אוֹשִׁ֣יעַ אֶתְכֶ֔ם וִהְיִיתֶ֖ם בְּרָכָ֑ה אַל־ תִּירָ֖אוּ תֶּחֱזַ֥קְנָה יְדֵיכֶֽם׃ ס"
+pericope: "[[Zech.8.1 The Restoration of Jerusalem|The Restoration of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 8
+book/chapter: "[[Zech.8|Zechariah 8]]"
+chronological_order: 864
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7045]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H3651C]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H1293]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H2388G]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Zechariah 8:13**<big><big>[[Zech.8.1 The Restoration of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, [but] let your hands be strong.
 <small><sub>**BSB:**</sub></small>
 As you have been a curse among the nations, O house of Judah and house of Israel, so I will save you, and you will be a blessing. Do not be afraid; let your hands be strong.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H1961\|הֱיִיתֶ֨ם]] [[H7045\|קְלָלָ֜ה]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֗ם]] [[H1004M\|בֵּ֤ית]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וּ]][[H1004M\|בֵ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3651C\|כֵּ֚ן]] [[H3467\|אוֹשִׁ֣יעַ]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9001\|וִ]][[H1961\|הְיִיתֶ֖ם]] [[H1293\|בְּרָכָ֑ה]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֖אוּ]] [[H2388G\|תֶּחֱזַ֥קְנָה]] [[H3027G\|יְדֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.12|<< Zechariah 8:12]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.14|Zechariah 8:14 >>]]</td></tr></table>
 
@@ -25,7 +84,7 @@ As you have been a curse among the nations, O house of Judah and house of Israel
 | may not  |**<big>&#8207;[[H0408\|אַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you be afraid  |**<big>&#8207;[[H3372G\|תִּירָ֖אוּ]]&#8207; </big>**| ti.Ra.'u<small><sup>[[HVqj2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let them be strong  |**<big>&#8207;[[H2388G\|תֶּחֱזַ֥קְנָה]]&#8207; </big>**| te.che.Zak.nah<small><sup>[[HVqi3fp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hands your  |**<big>&#8207;[[H3027G\|יְדֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.dei.<small><sup>[[HNcbdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hands your  |**<big>&#8207;[[H3027G\|יְדֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.dei.<small><sup>[[HNcbdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.8.12|<< Zechariah 8:12]]</td><td align="center" style="border:none;">[[Zech.8|Zechariah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.8.14|Zechariah 8:14 >>]]</td></tr></table>
 
 

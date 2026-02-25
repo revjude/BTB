@@ -1,8 +1,73 @@
+---
+title: Genesis 39:15
+type: Verse
+kjv: "And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out."
+bsb: "When he heard me scream for help, he left his cloak beside me and ran out of the house.”"
+hebrew: "וַיְהִ֣י כְשָׁמְע֔וֹ כִּֽי־ הֲרִימֹ֥תִי קוֹלִ֖י וָאֶקְרָ֑א וַיַּעֲזֹ֤ב בִּגְדוֹ֙ אֶצְלִ֔י וַיָּ֖נָס וַיֵּצֵ֥א הַחֽוּצָה׃"
+pericope: "[[Gen.39.13 Joseph Falsely Imprisoned|Joseph Falsely Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9043]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7311A]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H7121I]]"
+- "[[H5800A]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H0681]]"
+- "[[H9030]]"
+- "[[H5127]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:15**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.
 <small><sub>**BSB:**</sub></small>
 When he heard me scream for help, he left his cloak beside me and ran out of the house.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9004\|כְ]][[H8085G\|שָׁמְע֔]][[H9043\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7311A\|הֲרִימֹ֥תִי]] [[H6963A\|קוֹלִ֖]][[H9020\|י]] [[H9001\|וָ]][[H7121I\|אֶקְרָ֑א]] [[H9001\|וַ]][[H5800A\|יַּעֲזֹ֤ב]] [[H0899B\|בִּגְד]][[H9023\|וֹ֙]] [[H0681\|אֶצְלִ֔]][[H9030\|י]] [[H9001\|וַ]][[H5127\|יָּ֖נָס]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H9009\|הַ]][[H2351\|חֽוּצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CHASTITY|CHASTITY]] • [[topic DECISION|DECISION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic MALICE|MALICE]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic SLANDER|SLANDER]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.14|<< Genesis 39:14]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.16|Genesis 39:16 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Sends the Seventy-Two
+type: Pericope
 pericope: "[[Luke.10.1 Jesus Sends the Seventy-Two|Jesus Sends the Seventy-Two]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Luke
 chapter: 10
 book/chapter: "[[Luke.10|Luke 10]]"
-genre:
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 12
 verses:
 - "[[Luke.10.1]]"
 - "[[Luke.10.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Luke.10.12]]"
 ---
 
-[[Luke.10|Luke 10:1 - Luke 10:12]]
+<small>[[Luke.10|Luke 10:1-12]]</small>
 *Jesus Sends the Seventy-Two*
 
 [[Luke.10.1|1]] After these things the Lord appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.

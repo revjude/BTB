@@ -1,8 +1,60 @@
+---
+title: Psalm 44:20
+type: Verse
+kjv: "If we have forgotten the name of our God, or stretched out our hands to a strange god;"
+bsb: "If we had forgotten the name of our God or spread out our hands to a foreign god,"
+hebrew: "אִם־ שָׁ֭כַחְנוּ שֵׁ֣ם אֱלֹהֵ֑ינוּ וַנִּפְרֹ֥שׂ כַּ֝פֵּ֗ינוּ לְאֵ֣ל זָֽר׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7911]]"
+- "[[H8034]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9001]]"
+- "[[H6566]]"
+- "[[H3709G]]"
+- "[[H9005]]"
+- "[[H0410K]]"
+- "[[H2114A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:20**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If we have forgotten the name of our God, or stretched out our hands to a strange god;
 <small><sub>**BSB:**</sub></small>
 If we had forgotten the name of our God or spread out our hands to a foreign god,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7911\|שָׁ֭כַחְנוּ]] [[H8034\|שֵׁ֣ם]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9001\|וַ]][[H6566\|נִּפְרֹ֥שׂ]] [[H3709G\|כַּ֝פֵּ֗י]][[H9025\|נוּ]] [[H9005\|לְ]][[H0410K\|אֵ֣ל]] [[H2114A\|זָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MURMURING|MURMURING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.19|<< Psalms 44:19]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.21|Psalms 44:21 >>]]</td></tr></table>
 

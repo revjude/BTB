@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel’s Prayer for His People
+type: Pericope
 pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 9
 book/chapter: "[[Dan.9|Daniel 9]]"
-genre:
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 19
 verses:
 - "[[Dan.9.1]]"
 - "[[Dan.9.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Dan.9.19]]"
 ---
 
-[[Dan.9|Daniel 9:1 - Daniel 9:19]]
+<small>[[Dan.9|Daniel 9:1-19]]</small>
 *Daniel’s Prayer for His People*
 
 [[Dan.9.1|1]] In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;

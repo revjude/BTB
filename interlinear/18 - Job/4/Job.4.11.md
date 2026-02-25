@@ -1,8 +1,52 @@
+---
+title: Job 4:11
+type: Verse
+kjv: "The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad."
+bsb: "The old lion perishes for lack of prey, and the cubs of the lioness are scattered."
+hebrew: "לַ֭יִשׁ אֹבֵ֣ד מִבְּלִי־ טָ֑רֶף וּבְנֵ֥י לָ֝בִ֗יא יִתְפָּרָֽדוּ׃"
+pericope: "[[Job.4.1 Eliphaz：The Innocent Prosper|Eliphaz：The Innocent Prosper]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 4
+book/chapter: "[[Job.4|Job 4]]"
+chronological_order: 15
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H3918]]"
+- "[[H0006]]"
+- "[[H9006]]"
+- "[[H1097]]"
+- "[[H9014]]"
+- "[[H2964]]"
+- "[[H9002]]"
+- "[[H1121H]]"
+- "[[H3833C]]"
+- "[[H6504]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 4:11**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad.
 <small><sub>**BSB:**</sub></small>
 The old lion perishes for lack of prey, and the cubs of the lioness are scattered.
+<small><sub>**Hebrew:**</sub></small>
+[[H3918\|לַ֭יִשׁ]] [[H0006\|אֹבֵ֣ד]] [[H9006\|מִ]][[H1097\|בְּלִי]][[H9014\|־]] [[H2964\|טָ֑רֶף]] [[H9002\|וּ]][[H1121H\|בְנֵ֥י]] [[H3833C\|לָ֝בִ֗יא]] [[H6504\|יִתְפָּרָֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.10|<< Job 4:10]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.12|Job 4:12 >>]]</td></tr></table>
 

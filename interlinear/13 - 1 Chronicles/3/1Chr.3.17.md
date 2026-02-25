@@ -1,8 +1,50 @@
+---
+title: 1 Chronicles 3:17
+type: Verse
+kjv: "And the sons of Jeconiah; Assir, Salathiel his son,"
+bsb: "The descendants of Jeconiah the captive: Shealtiel his son,"
+hebrew: "וּבְנֵי֙ יְכָנְיָ֣ה אַסִּ֔ר שְׁאַלְתִּיאֵ֖ל בְּנֽוֹ׃"
+pericope: "[[1Chr.3.17 The Royal Line After the Exile|The Royal Line After the Exile]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 3
+book/chapter: "[[1Chr.3|1 Chronicles 3]]"
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASSIR|ASSIR]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic SHEALTIEL|SHEALTIEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H3204]]"
+- "[[H0616]]"
+- "[[H7597A]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 3:17**<big><big>[[1Chr.3.17 The Royal Line After the Exile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Jeconiah; Assir, Salathiel his son,
 <small><sub>**BSB:**</sub></small>
 The descendants of Jeconiah the captive: Shealtiel his son,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵי֙]] [[H3204\|יְכָנְיָ֣ה]] [[H0616\|אַסִּ֔ר]] [[H7597A\|שְׁאַלְתִּיאֵ֖ל]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSIR|ASSIR]] • [[topic JEHOIACHIN|JEHOIACHIN]] • [[topic SHEALTIEL|SHEALTIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.3.16|<< 1 Chronicles 3:16]]</td><td align="center" style="border:none;">[[1Chr.3|1 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.18|1 Chronicles 3:18 >>]]</td></tr></table>
 

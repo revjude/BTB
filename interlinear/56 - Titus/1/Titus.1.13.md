@@ -1,10 +1,58 @@
+---
+title: Titus 1:13
+type: Verse
+kjv: "This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;"
+bsb: "This testimony is true. Therefore rebuke them sternly, so that they will be sound in the faith"
+greek: "ἡ μαρτυρία αὕτη ἐστὶν ἀληθής· δι᾽ ἣν αἰτίαν ἔλεγχε αὐτοὺς ἀποτόμως, ἵνα ὑγιαίνωσιν ἐν τῇ πίστει,"
+pericope: "[[Titus.1.10 Correcting False Teachers|Correcting False Teachers]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 1
+book/chapter: "[[Titus.1|Titus 1]]"
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G3588]]"
+- "[[G3141]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G0227]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G0156]]"
+- "[[G1651]]"
+- "[[G0846]]"
+- "[[G0664]]"
+- "[[G2443]]"
+- "[[G5198]]"
+- "[[G1722]]"
+- "[[G4102G]]"
+texts:
+- NKO
+---
+
 **Titus 1:13**<big><big>[[Titus.1.10 Correcting False Teachers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This witness is true. Wherefore rebuke them sharply, that they may be sound in the faith;
 <small><sub>**BSB:**</sub></small>
 This testimony is true. Therefore rebuke them sternly, so that they will be sound in the faith
-<small><sub>**Literal:**</sub></small>
-<the> testimony this is true; for which cause do rebuke them severely, so that they may be sound in the faith,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.12|<< Titus 1:12]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.14|Titus 1:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G3141\|μαρτυρία]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G0227\|ἀληθής·]]  [[G1223\|δι᾽]]  [[G3739\|ἣν]]  [[G0156\|αἰτίαν]]  [[G1651\|ἔλεγχε]]  [[G0846\|αὐτοὺς]]  [[G0664\|ἀποτόμως,]]  [[G2443\|ἵνα]]  [[G5198\|ὑγιαίνωσιν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4102G\|πίστει,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.12|<< Titus 1:12]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.14|Titus 1:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

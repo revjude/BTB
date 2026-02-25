@@ -1,8 +1,74 @@
+---
+title: Jeremiah 34:15
+type: Verse
+kjv: "And ye were now turned, and had done right in my sight, in proclaiming liberty every man to his neighbour; and ye had made a covenant before me in the house which is called by my name:"
+bsb: "Recently you repented and did what pleased Me; each of you proclaimed freedom for his neighbor. You made a covenant before Me in the house that bears My Name."
+hebrew: "וַתָּשֻׁ֨בוּ אַתֶּ֜ם הַיּ֗וֹם וַתַּעֲשׂ֤וּ אֶת־ הַיָּשָׁר֙ בְּעֵינַ֔י לִקְרֹ֥א דְר֖וֹר אִ֣ישׁ לְרֵעֵ֑הוּ וַתִּכְרְת֤וּ בְרִית֙ לְפָנַ֔י בַּבַּ֕יִת אֲשֶׁר־ נִקְרָ֥א שְׁמִ֖י עָלָֽיו׃"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic LIBERTY|LIBERTY]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725O]]"
+- "[[H0859D]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H7121I]]"
+- "[[H1865]]"
+- "[[H0376I]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H6440G]]"
+- "[[H1004Q]]"
+- "[[H0834A]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 34:15**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye were now turned, and had done right in my sight, in proclaiming liberty every man to his neighbour; and ye had made a covenant before me in the house which is called by my name:
 <small><sub>**BSB:**</sub></small>
 Recently you repented and did what pleased Me; each of you proclaimed freedom for his neighbor. You made a covenant before Me in the house that bears My Name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725O\|תָּשֻׁ֨בוּ]] [[H0859D\|אַתֶּ֜ם]] [[H9009\|הַ]][[H3117L\|יּ֗וֹם]] [[H9001\|וַ]][[H6213A\|תַּעֲשׂ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3477G\|יָּשָׁר֙]] [[H9003\|בְּ]][[H5869A\|עֵינַ֔]][[H9020\|י]] [[H9005\|לִ]][[H7121I\|קְרֹ֥א]] [[H1865\|דְר֖וֹר]] [[H0376I\|אִ֣ישׁ]] [[H9005\|לְ]][[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9001\|וַ]][[H3772H\|תִּכְרְת֤וּ]] [[H1285\|בְרִית֙]] [[H9005\|לְ]][[H6440G\|פָנַ֔]][[H9020\|י]] [[H9003\|בַּ]][[H1004Q\|בַּ֕יִת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121H\|נִקְרָ֥א]] [[H8034\|שְׁמִ֖]][[H9020\|י]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DECISION|DECISION]] • [[topic LIBERTY|LIBERTY]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.14|<< Jeremiah 34:14]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.16|Jeremiah 34:16 >>]]</td></tr></table>
 

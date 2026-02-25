@@ -1,10 +1,69 @@
+---
+title: Matthew 2:8
+type: Verse
+kjv: "And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also."
+bsb: "And sending them to Bethlehem, he said: “Go and search carefully for the Child, and when you find Him, report to me, so that I too may go and worship Him.”"
+greek: "καὶ πέμψας αὐτοὺς εἰς Βηθλέεμ εἶπεν· πορευθέντες ἐξετάσατε ἀκριβῶς περὶ τοῦ παιδίου. ἐπὰν δὲ εὕρητε, ἀπαγγείλατέ μοι ὅπως κἀγὼ κἀγὼ ἐλθὼν προσκυνήσω αὐτῷ.¶"
+pericope: "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAGI|MAGI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3992]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G0965]]"
+- "[[G2036]]"
+- "[[G4198]]"
+- "[[G1833]]"
+- "[[G0199]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G3813]]"
+- "[[G1875]]"
+- "[[G1161]]"
+- "[[G2147]]"
+- "[[G0518]]"
+- "[[G3165]]"
+- "[[G3704]]"
+- "[[G1473]]"
+- "[[G2064]]"
+- "[[G4352]]"
+texts:
+- NKO
+---
+
 **Matthew 2:8**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found [him], bring me word again, that I may come and worship him also.
 <small><sub>**BSB:**</sub></small>
 And sending them to Bethlehem, he said: “Go and search carefully for the Child, and when you find Him, report to me, so that I too may go and worship Him.”
-<small><sub>**Literal:**</sub></small>
-And having sent them to Bethlehem he said; Having gone do search carefully for the Child. when then You may have found [Him], do bring word back to me so that I myself also having come may worship Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.7|<< Matthew 2:7]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.9|Matthew 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3992\|πέμψας]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G0965\|Βηθλέεμ]]  [[G2036\|εἶπεν·]]  [[G4198\|πορευθέντες]]  [[G1833\|ἐξετάσατε]]  [[G0199\|ἀκριβῶς]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G3813\|παιδίου.]]  [[G1875\|ἐπὰν]]  [[G1161\|δὲ]]  [[G2147\|εὕρητε,]]  [[G0518\|ἀπαγγείλατέ]]  [[G3165\|μοι]]  [[G3704\|ὅπως]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2064\|ἐλθὼν]]  [[G4352\|προσκυνήσω]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HEATHEN|HEATHEN]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAGI|MAGI]] • [[topic MIRACLES|MIRACLES]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.7|<< Matthew 2:7]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.9|Matthew 2:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

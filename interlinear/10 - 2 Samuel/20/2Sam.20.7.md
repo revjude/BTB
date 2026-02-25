@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 20:7
+type: Verse
+kjv: "And there went out after him Joab’s men, and the Cherethites, and the Pelethites, and all the mighty men: and they went out of Jerusalem, to pursue after Sheba the son of Bichri."
+bsb: "So Joab’s men, along with the Cherethites, the Pelethites, and all the mighty men, marched out of Jerusalem in pursuit of Sheba son of Bichri."
+hebrew: "וַיֵּצְא֤וּ אַֽחֲרָיו֙ אַנְשֵׁ֣י יוֹאָ֔ב וְהַכְּרֵתִ֥י וְהַפְּלֵתִ֖י וְכָל־ הַגִּבֹּרִ֑ים וַיֵּֽצְאוּ֙ מִיר֣וּשָׁלִַ֔ם לִרְדֹּ֕ף אַחֲרֵ֖י שֶׁ֥בַע בֶּן־ בִּכְרִֽי׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic CHERETHITES|CHERETHITES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic PELETHITES|PELETHITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H0582]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3774H]]"
+- "[[H6432]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1368]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H7291]]"
+- "[[H7652A]]"
+- "[[H1121A]]"
+- "[[H1075]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:7**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went out after him Joab’s men, and the Cherethites, and the Pelethites, and all the mighty men: and they went out of Jerusalem, to pursue after Sheba the son of Bichri.
 <small><sub>**BSB:**</sub></small>
 So Joab’s men, along with the Cherethites, the Pelethites, and all the mighty men, marched out of Jerusalem in pursuit of Sheba son of Bichri.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצְא֤וּ]] [[H0310A\|אַֽחֲרָי]][[H9033\|ו֙]] [[H0582\|אַנְשֵׁ֣י]] [[H3097G\|יוֹאָ֔ב]] [[H9002\|וְ]][[H9009\|הַ]][[H3774H\|כְּרֵתִ֥י]] [[H9002\|וְ]][[H9009\|הַ]][[H6432\|פְּלֵתִ֖י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1368\|גִּבֹּרִ֑ים]] [[H9001\|וַ]][[H3318G\|יֵּֽצְאוּ֙]] [[H9006\|מִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9005\|לִ]][[H7291\|רְדֹּ֕ף]] [[H0310A\|אַחֲרֵ֖י]] [[H7652A\|שֶׁ֥בַע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1075\|בִּכְרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic CHERETHITES|CHERETHITES]] • [[topic DAVID|DAVID]] • [[topic PELETHITES|PELETHITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.6|<< 2 Samuel 20:6]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.8|2 Samuel 20:8 >>]]</td></tr></table>
 

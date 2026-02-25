@@ -1,8 +1,63 @@
+---
+title: Jeremiah 51:30
+type: Verse
+kjv: "The mighty men of Babylon have forborn to fight, they have remained in their holds: their might hath failed; they became as women: they have burned her dwellingplaces; her bars are broken."
+bsb: "The warriors of Babylon have stopped fighting; they sit in their strongholds. Their strength is exhausted; they have become like women. Babylon’s homes have been set ablaze, the bars of her gates are broken."
+hebrew: "חָדְלוּ֩ גִבּוֹרֵ֨י בָבֶ֜ל לְהִלָּחֵ֗ם יָֽשְׁבוּ֙ בַּמְּצָד֔וֹת נָשְׁתָ֥ה גְבוּרָתָ֖ם הָי֣וּ לְנָשִׁ֑ים הִצִּ֥יתוּ מִשְׁכְּנֹתֶ֖יהָ נִשְׁבְּר֥וּ בְרִיחֶֽיהָ׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H2308]]"
+- "[[H1368]]"
+- "[[H0894]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H4679]]"
+- "[[H5405]]"
+- "[[H1369]]"
+- "[[H9028]]"
+- "[[H1961]]"
+- "[[H0802G]]"
+- "[[H3341]]"
+- "[[H4908]]"
+- "[[H9024]]"
+- "[[H7665]]"
+- "[[H1280]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:30**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The mighty men of Babylon have forborn to fight, they have remained in [their] holds: their might hath failed; they became as women: they have burned her dwellingplaces; her bars are broken.
 <small><sub>**BSB:**</sub></small>
 The warriors of Babylon have stopped fighting; they sit in their strongholds. Their strength is exhausted; they have become like women. Babylon’s homes have been set ablaze, the bars of her gates are broken.
+<small><sub>**Hebrew:**</sub></small>
+[[H2308\|חָדְלוּ֩]] [[H1368\|גִבּוֹרֵ֨י]] [[H0894\|בָבֶ֜ל]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֗ם]] [[H3427\|יָֽשְׁבוּ֙]] [[H9003\|בַּ]][[H4679\|מְּצָד֔וֹת]] [[H5405\|נָשְׁתָ֥ה]] [[H1369\|גְבוּרָתָ֖]][[H9028\|ם]] [[H1961\|הָי֣וּ]] [[H9005\|לְ]][[H0802G\|נָשִׁ֑ים]] [[H3341\|הִצִּ֥יתוּ]] [[H4908\|מִשְׁכְּנֹתֶ֖י]][[H9024\|הָ]] [[H7665\|נִשְׁבְּר֥וּ]] [[H1280\|בְרִיחֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.29|<< Jeremiah 51:29]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.31|Jeremiah 51:31 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Philippians 4:7
+type: Verse
+kjv: "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."
+bsb: "And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."
+greek: "καὶ ἡ εἰρήνη τοῦ θεοῦ ἡ ὑπερέχουσα πάντα νοῦν φρουρήσει τὰς καρδίας ὑμῶν καὶ τὰ νοήματα ὑμῶν ἐν Χριστῷ Ἰησοῦ.¶"
+pericope: "[[Phil.4.1 Rejoice in the Lord|Rejoice in the Lord]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 4
+book/chapter: "[[Phil.4|Philippians 4]]"
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CARE|CARE]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1515]]"
+- "[[G2316]]"
+- "[[G5242]]"
+- "[[G3956]]"
+- "[[G3563]]"
+- "[[G5432]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G3540]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Philippians 4:7**<big><big>[[Phil.4.1 Rejoice in the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-And the peace <the> of God which is surpassing all understanding will guard the hearts of you and the minds of you in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.6|<< Philippians 4:6]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.8|Philippians 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1515\|εἰρήνη]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|ἡ]]  [[G5242\|ὑπερέχουσα]]  [[G3956\|πάντα]]  [[G3563\|νοῦν]]  [[G5432\|φρουρήσει]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3540\|νοήματα]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CARE|CARE]] • [[topic HAPPINESS|HAPPINESS]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.6|<< Philippians 4:6]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.8|Philippians 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

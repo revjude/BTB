@@ -1,8 +1,69 @@
+---
+title: Exodus 28:26
+type: Verse
+kjv: "And thou shalt make two rings of gold, and thou shalt put them upon the two ends of the breastplate in the border thereof, which is in the side of the ephod inward."
+bsb: "Make two more gold rings and attach them to the other two corners of the breastpiece, on the inside edge next to the ephod."
+hebrew: "וְעָשִׂ֗יתָ שְׁתֵּי֙ טַבְּע֣וֹת זָהָ֔ב וְשַׂמְתָּ֣ אֹתָ֔ם עַל־ שְׁנֵ֖י קְצ֣וֹת הַחֹ֑שֶׁן עַל־ שְׂפָת֕וֹ אֲשֶׁ֛ר אֶל־ עֵ֥בֶר הָאֵפֹ֖ד בָּֽיְתָה׃"
+pericope: "[[Exod.28.15 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H8147]]"
+- "[[H2885]]"
+- "[[H2091]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7098]]"
+- "[[H9009]]"
+- "[[H2833]]"
+- "[[H8193I]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H0413]]"
+- "[[H5676G]]"
+- "[[H0646]]"
+- "[[H1004O]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:26**<big><big>[[Exod.28.15 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make two rings of gold, and thou shalt put them upon the two ends of the breastplate in the border thereof, which [is] in the side of the ephod inward.
 <small><sub>**BSB:**</sub></small>
 Make two more gold rings and attach them to the other two corners of the breastpiece, on the inside edge next to the ephod.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֗יתָ]] [[H8147\|שְׁתֵּי֙]] [[H2885\|טַבְּע֣וֹת]] [[H2091\|זָהָ֔ב]] [[H9001\|וְ]][[H7760H\|שַׂמְתָּ֣]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H8147\|שְׁנֵ֖י]] [[H7098\|קְצ֣וֹת]] [[H9009\|הַ]][[H2833\|חֹ֑שֶׁן]] [[H5921A\|עַל]][[H9014\|־]] [[H8193I\|שְׂפָת֕]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֛ר]] [[H0413\|אֶל]][[H9014\|־]] [[H5676G\|עֵ֥בֶר]] [[H9009\|הָ]][[H0646\|אֵפֹ֖ד]] [[H1004O\|בָּֽיְתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic EPHOD|EPHOD]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.25|<< Exodus 28:25]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.27|Exodus 28:27 >>]]</td></tr></table>
 

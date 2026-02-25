@@ -1,8 +1,72 @@
+---
+title: Numbers 13:27
+type: Verse
+kjv: "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it."
+bsb: "And they gave this account to Moses: “We went into the land to which you sent us, and indeed, it is flowing with milk and honey. Here is some of its fruit!"
+hebrew: "וַיְסַפְּרוּ־ לוֹ֙ וַיֹּ֣אמְר֔וּ בָּ֕אנוּ אֶל־ הָאָ֖רֶץ אֲשֶׁ֣ר שְׁלַחְתָּ֑נוּ וְ֠גַם זָבַ֨ת חָלָ֥ב וּדְבַ֛שׁ הִ֖וא וְזֶה־ פִּרְיָֽהּ׃"
+pericope: "[[Num.13.25 The Reports of the Spies|The Reports of the Spies]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]]"
+- "[[topic MILK|MILK]]"
+- "[[topic REPORTS|REPORTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H1706]]"
+- "[[H1931]]"
+- "[[H2088]]"
+- "[[H6529]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:27**<big><big>[[Num.13.25 The Reports of the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this [is] the fruit of it.
 <small><sub>**BSB:**</sub></small>
 And they gave this account to Moses: “We went into the land to which you sent us, and indeed, it is flowing with milk and honey. Here is some of its fruit!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5608A\|יְסַפְּרוּ]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H0935G\|בָּ֕אנוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7971G\|שְׁלַחְתָּ֑]][[H9035\|נוּ]] [[H9002\|וְ֠]][[H1571\|גַם]] [[H2100G\|זָבַ֨ת]] [[H2461\|חָלָ֥ב]] [[H9002\|וּ]][[H1706\|דְבַ֛שׁ]] [[H1931\|הִ֖וא]] [[H9002\|וְ]][[H2088\|זֶה]][[H9014\|־]] [[H6529\|פִּרְיָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic CANAAN|CANAAN]] • [[topic ISRAEL|ISRAEL]] • [[topic MAJORITY AND MINORITY REPORTS|MAJORITY AND MINORITY REPORTS]] • [[topic MILK|MILK]] • [[topic REPORTS|REPORTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.26|<< Numbers 13:26]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.28|Numbers 13:28 >>]]</td></tr></table>
 

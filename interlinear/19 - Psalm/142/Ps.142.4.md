@@ -1,8 +1,56 @@
+---
+title: Psalm 142:4
+type: Verse
+kjv: "I looked on my right hand, and beheld, but there was no man that would know me: refuge failed me; no man cared for my soul."
+bsb: "Look to my right and see; no one attends to me. There is no refuge for me; no one cares for my soul."
+hebrew: "הַבֵּ֤יט יָמִ֨ין׀ וּרְאֵה֮ וְאֵֽין־ לִ֪י מַ֫כִּ֥יר אָבַ֣ד מָנ֣וֹס מִמֶּ֑נִּי אֵ֖ין דּוֹרֵ֣שׁ לְנַפְשִֽׁי׃"
+pericope: "[[Ps.142.1 I Lift My Voice to the LORD|I Lift My Voice to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 142
+book/chapter: "[[Ps.142|Psalm 142]]"
+chronological_order: 319
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H5027]]"
+- "[[H3225G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5234A]]"
+- "[[H0006]]"
+- "[[H4498]]"
+- "[[H4480A]]"
+- "[[H1875]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 142:4**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I looked on [my] right hand, and beheld, but [there was] no man that would know me: refuge failed me; no man cared for my soul.
 <small><sub>**BSB:**</sub></small>
 Look to my right and see; no one attends to me. There is no refuge for me; no one cares for my soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H5027\|הַבֵּ֤יט]] [[H3225G\|יָמִ֨ין]][[H9015\|׀]] [[H9002\|וּ]][[H7200G\|רְאֵה֮]] [[H9002\|וְ]][[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|לִ֪]][[H9030\|י]] [[H5234A\|מַ֫כִּ֥יר]] [[H0006\|אָבַ֣ד]] [[H4498\|מָנ֣וֹס]] [[H4480A\|מִמֶּ֑]][[H9030\|נִּי]] [[H0369\|אֵ֖ין]] [[H1875\|דּוֹרֵ֣שׁ]] [[H9005\|לְ]][[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.3|<< Psalms 142:3]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.5|Psalms 142:5 >>]]</td></tr></table>
 

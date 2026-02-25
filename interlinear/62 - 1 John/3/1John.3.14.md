@@ -1,10 +1,66 @@
+---
+title: 1 John 3:14
+type: Verse
+kjv: "We know that we have passed from death unto life, because we love the brethren. He that loveth not his brother abideth in death."
+bsb: "We know that we have passed from death to life, because we love our brothers. The one who does not love remains in death."
+greek: "ἡμεῖς οἴδαμεν ὅτι μεταβεβήκαμεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν, ὅτι ἀγαπῶμεν τοὺς ἀδελφούς· ὁ μὴ ἀγαπῶν τὸν ἀδελφόν μένει ἐν τῷ θανάτῳ."
+pericope: "[[1John.3.11 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3165]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3327]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2288]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G3754H]]"
+- "[[G0025]]"
+- "[[G0080]]"
+- "[[G3361]]"
+- "[[G3306]]"
+- "[[G1722]]"
+texts:
+- NKO
+- K
+---
+
 **1 John 3:14**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We know that we have passed from death unto life, because we love the brethren. He that loveth not [his] brother abideth in death.
 <small><sub>**BSB:**</sub></small>
 We know that we have passed from death to life, because we love our brothers. The one who does not love remains in death.
-<small><sub>**Literal:**</sub></small>
-We ourselves know that we have passed from <the> death to <the> life, because we love <the> [our] brothers; The [one] not loving the brother abides in <the> death.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.13|<< 1 John 3:13]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.15|1 John 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμεῖς]]  [[G6063\|οἴδαμεν]]  [[G3754G\|ὅτι]]  [[G3327\|μεταβεβήκαμεν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2222\|ζωήν,]]  [[G3754H\|ὅτι]]  [[G0025\|ἀγαπῶμεν]]  [[G3588\|τοὺς]]  [[G0080\|ἀδελφούς·]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G0025\|ἀγαπῶν]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφόν]]  [[G3306\|μένει]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2288\|θανάτῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HATRED|HATRED]] • [[topic LOVE|LOVE]] • [[topic MALICE|MALICE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.13|<< 1 John 3:13]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.15|1 John 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

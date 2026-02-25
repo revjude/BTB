@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mighty One Calls
+type: Pericope
 pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 50
 book/chapter: "[[Ps.50|Psalm 50]]"
-genre:
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 24
 verses:
 - "[[Ps.50.0]]"
 - "[[Ps.50.1]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Ps.50.23]]"
 ---
 
-[[Ps.50|Psalm 50:1 - Psalm 50:23]]
+<small>[[Ps.50|Psalm 50:1-23]]</small>
 *The Mighty One Calls*
 
 [[Ps.50.0|0]] A Psalm of Asaph.

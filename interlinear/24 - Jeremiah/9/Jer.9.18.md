@@ -1,8 +1,58 @@
+---
+title: Jeremiah 9:18
+type: Verse
+kjv: "And let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids gush out with waters."
+bsb: "Let them come quickly and take up a lament over us, that our eyes may overflow with tears, and our eyelids may gush with water."
+hebrew: "וּתְמַהֵ֕רְנָה וְתִשֶּׂ֥נָה עָלֵ֖ינוּ נֶ֑הִי וְתֵרַ֤דְנָה עֵינֵ֙ינוּ֙ דִּמְעָ֔ה וְעַפְעַפֵּ֖ינוּ יִזְּלוּ־ מָֽיִם׃"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H4116A]]"
+- "[[H5375G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H5092]]"
+- "[[H3381]]"
+- "[[H5869A]]"
+- "[[H9025]]"
+- "[[H1832]]"
+- "[[H6079]]"
+- "[[H5140]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 9:18**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids gush out with waters.
 <small><sub>**BSB:**</sub></small>
 Let them come quickly and take up a lament over us, that our eyes may overflow with tears, and our eyelids may gush with water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4116A\|תְמַהֵ֕רְנָה]] [[H9002\|וְ]][[H5375G\|תִשֶּׂ֥נָה]] [[H5921A\|עָלֵ֖י]][[H9035\|נוּ]] [[H5092\|נֶ֑הִי]] [[H9002\|וְ]][[H3381\|תֵרַ֤דְנָה]] [[H5869A\|עֵינֵ֙י]][[H9025\|נוּ֙]] [[H1832\|דִּמְעָ֔ה]] [[H9002\|וְ]][[H6079\|עַפְעַפֵּ֖י]][[H9025\|נוּ]] [[H5140\|יִזְּלוּ]][[H9014\|־]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.17|<< Jeremiah 9:17]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.19|Jeremiah 9:19 >>]]</td></tr></table>
 

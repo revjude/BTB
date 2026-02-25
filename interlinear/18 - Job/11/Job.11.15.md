@@ -1,8 +1,58 @@
+---
+title: Job 11:15
+type: Verse
+kjv: "For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:"
+bsb: "then indeed you will lift up your face without blemish; you will stand firm and unafraid."
+hebrew: "כִּי־ אָ֤ז׀ תִּשָּׂ֣א פָנֶ֣יךָ מִמּ֑וּם וְהָיִ֥יתָ מֻ֝צָ֗ק וְלֹ֣א תִירָֽא׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0227A]]"
+- "[[H9015]]"
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H3971B]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3332J]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:15**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:
 <small><sub>**BSB:**</sub></small>
 then indeed you will lift up your face without blemish; you will stand firm and unafraid.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H0227A\|אָ֤ז]][[H9015\|׀]] [[H5375Q\|תִּשָּׂ֣א]] [[H6440N\|פָנֶ֣י]][[H9021\|ךָ]] [[H9006\|מִ]][[H3971B\|מּ֑וּם]] [[H9001\|וְ]][[H1961\|הָיִ֥יתָ]] [[H3332J\|מֻ֝צָ֗ק]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3372G\|תִירָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPENTANCE|REPENTANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.14|<< Job 11:14]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.16|Job 11:16 >>]]</td></tr></table>
 

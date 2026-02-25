@@ -1,8 +1,62 @@
+---
+title: Psalm 106:23
+type: Verse
+kjv: "Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy them."
+bsb: "So He said He would destroy them—had not Moses His chosen one stood before Him in the breach to divert His wrath from destroying them."
+hebrew: "וַיֹּ֗אמֶר לְֽהַשְׁמִ֫ידָ֥ם לוּלֵ֡י מֹ֘שֶׁ֤ה בְחִיר֗וֹ עָמַ֣ד בַּפֶּ֣רֶץ לְפָנָ֑יו לְהָשִׁ֥יב חֲ֝מָת֗וֹ מֵֽהַשְׁחִֽית׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H8045]]"
+- "[[H9038]]"
+- "[[H3884]]"
+- "[[H4872]]"
+- "[[H0972]]"
+- "[[H9023]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H6556]]"
+- "[[H6440G]]"
+- "[[H7725I]]"
+- "[[H2534]]"
+- "[[H9006]]"
+- "[[H7843]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:23**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore he said that he would destroy them, had not Moses his chosen stood before him in the breach, to turn away his wrath, lest he should destroy [them].
 <small><sub>**BSB:**</sub></small>
 So He said He would destroy them—had not Moses His chosen one stood before Him in the breach to divert His wrath from destroying them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9005\|לְֽ]][[H8045\|הַשְׁמִ֫ידָ֥]][[H9038\|ם]] [[H3884\|לוּלֵ֡י]] [[H4872\|מֹ֘שֶׁ֤ה]] [[H0972\|בְחִיר֗]][[H9023\|וֹ]] [[H5975G\|עָמַ֣ד]] [[H9003\|בַּ]][[H6556\|פֶּ֣רֶץ]] [[H9005\|לְ]][[H6440G\|פָנָ֑י]][[H9023\|ו]] [[H9005\|לְ]][[H7725I\|הָשִׁ֥יב]] [[H2534\|חֲ֝מָת֗]][[H9023\|וֹ]] [[H9006\|מֵֽ]][[H7843\|הַשְׁחִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.22|<< Psalms 106:22]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.24|Psalms 106:24 >>]]</td></tr></table>
 

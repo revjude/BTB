@@ -1,10 +1,70 @@
+---
+title: Acts 14:13
+type: Verse
+kjv: "Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people."
+bsb: "The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates, hoping to offer a sacrifice along with the crowds."
+greek: "ὅ τε ἱερεὺς τοῦ Διὸς τοῦ ὄντος πρὸ τῆς πόλεως αὐτῶν ταύρους καὶ στέμματα ἐπὶ τοὺς πυλῶνας ἐνέγκας σὺν τοῖς ὄχλοις ἤθελεν θύειν.¶"
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic GARLANDS|GARLANDS]]"
+- "[[topic GATES|GATES]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JUPITER|JUPITER]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G2409]]"
+- "[[G2203]]"
+- "[[G1510]]"
+- "[[G4253]]"
+- "[[G4172]]"
+- "[[G0846]]"
+- "[[G5022]]"
+- "[[G2532]]"
+- "[[G4725]]"
+- "[[G1909]]"
+- "[[G4440]]"
+- "[[G5342]]"
+- "[[G4862]]"
+- "[[G3793]]"
+- "[[G2309]]"
+- "[[G2380]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 14:13**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the priest of Jupiter, which was before their city, brought oxen and garlands unto the gates, and would have done sacrifice with the people.
 <small><sub>**BSB:**</sub></small>
 The priest of Zeus, whose temple was just outside the city, brought bulls and wreaths to the city gates, hoping to offer a sacrifice along with the crowds.
-<small><sub>**Literal:**</sub></small>
-<the> And the priest <the> of Zeus who is being just outside the city of them oxen and wreaths to the gates having brought with the crowds was desiring to sacrifice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.12|<< Acts 14:12]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.14|Acts 14:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὅ]]  [[G5037\|τε]]  [[G2409\|ἱερεὺς]]  [[G3588\|τοῦ]]  [[G2203\|Διὸς]]  [[G3588\|τοῦ]]  [[G1510\|ὄντος]]  [[G4253\|πρὸ]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G0846\|αὐτῶν]]  [[G5022\|ταύρους]]  [[G2532\|καὶ]]  [[G4725\|στέμματα]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G4440\|πυλῶνας]]  [[G5342\|ἐνέγκας]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G3793\|ὄχλοις]]  [[G2309\|ἤθελεν]]  [[G2380\|θύειν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic GARLANDS|GARLANDS]] • [[topic GATES|GATES]] • [[topic HOMAGE|HOMAGE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JUPITER|JUPITER]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.12|<< Acts 14:12]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.14|Acts 14:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

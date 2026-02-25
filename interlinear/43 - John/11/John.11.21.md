@@ -1,10 +1,61 @@
+---
+title: John 11:21
+type: Verse
+kjv: "Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died."
+bsb: "Martha said to Jesus, “Lord, if You had been here, my brother would not have died."
+greek: "εἶπεν οὖν ἡ Μάρθα πρὸς τὸν Ἰησοῦν· κύριε, εἰ ἦς ὧδε, οὐκ ἂν ἀπέθανεν ὁ ἀδελφός μου."
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3136]]"
+- "[[G4314]]"
+- "[[G2424G]]"
+- "[[G2962G]]"
+- "[[G1487G]]"
+- "[[G1510]]"
+- "[[G5602]]"
+- "[[G3756]]"
+- "[[G0302]]"
+- "[[G0599]]"
+- "[[G0080]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 11:21**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Martha unto Jesus, Lord, if thou hadst been here, my brother had not died.
 <small><sub>**BSB:**</sub></small>
 Martha said to Jesus, “Lord, if You had been here, my brother would not have died.
-<small><sub>**Literal:**</sub></small>
-Said then <the> Martha to <the> Jesus; Lord, if You had been here, not then would be dead the brother of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.20|<< John 11:20]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.22|John 11:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G3767\|οὖν]]  [[G3588\|ἡ]]  [[G3136\|Μάρθα]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν·]]  [[G2962G\|κύριε,]]  [[G1487G\|εἰ]]  [[G1510\|ἦς]]  [[G5602\|ὧδε,]]  [[G3756\|οὐκ]]  [[G0302\|ἂν]]  [[G0599\|ἀπέθανεν]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφός]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.20|<< John 11:20]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.22|John 11:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

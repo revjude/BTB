@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Resurrection of Christ
+type: Pericope
 pericope: "[[1Cor.15.1 The Resurrection of Christ|The Resurrection of Christ]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 15
 book/chapter: "[[1Cor.15|1 Corinthians 15]]"
-genre:
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 11
 verses:
 - "[[1Cor.15.1]]"
 - "[[1Cor.15.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Cor.15.11]]"
 ---
 
-[[1Cor.15|1 Corinthians 15:1 - 1 Corinthians 15:11]]
+<small>[[1Cor.15|1 Corinthians 15:1-11]]</small>
 *The Resurrection of Christ*
 
 [[1Cor.15.1|1]] Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;

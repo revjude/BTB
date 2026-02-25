@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Psalm of Exodus
+type: Pericope
 pericope: "[[Ps.114.1 A Psalm of Exodus|A Psalm of Exodus]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 114
 book/chapter: "[[Ps.114|Psalm 114]]"
-genre:
+chronological_order: 876
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.114.1]]"
 - "[[Ps.114.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.114.8]]"
 ---
 
-[[Ps.114|Psalm 114:1 - Psalm 114:8]]
+<small>[[Ps.114|Psalm 114:1-8]]</small>
 *A Psalm of Exodus*
 
 [[Ps.114.1|1]] When Israel went out of Egypt, the house of Jacob from a people of strange language;

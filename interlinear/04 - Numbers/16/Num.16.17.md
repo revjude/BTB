@@ -1,8 +1,70 @@
+---
+title: Numbers 16:17
+type: Verse
+kjv: "And take every man his censer, and put incense in them, and bring ye before the LORD every man his censer, two hundred and fifty censers; thou also, and Aaron, each of you his censer."
+bsb: "Each man is to take his censer, place incense in it, and present it before the LORD—250 censers. You and Aaron are to present your censers as well.”"
+hebrew: "וּקְח֣וּ׀ אִ֣ישׁ מַחְתָּת֗וֹ וּנְתַתֶּ֤ם עֲלֵיהֶם֙ קְטֹ֔רֶת וְהִקְרַבְתֶּ֞ם לִפְנֵ֤י יְהוָה֙ אִ֣ישׁ מַחְתָּת֔וֹ חֲמִשִּׁ֥ים וּמָאתַ֖יִם מַחְתֹּ֑ת וְאַתָּ֥ה וְאַהֲרֹ֖ן אִ֥ישׁ מַחְתָּתֽוֹ׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H9015]]"
+- "[[H0376I]]"
+- "[[H4289]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7004]]"
+- "[[H7126H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H2572]]"
+- "[[H3967]]"
+- "[[H0859A]]"
+- "[[H0175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:17**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And take every man his censer, and put incense in them, and bring ye before the LORD every man his censer, two hundred and fifty censers; thou also, and Aaron, each [of you] his censer.
 <small><sub>**BSB:**</sub></small>
 Each man is to take his censer, place incense in it, and present it before the LORD—250 censers. You and Aaron are to present your censers as well.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3947G\|קְח֣וּ]][[H9015\|׀]] [[H0376I\|אִ֣ישׁ]] [[H4289\|מַחְתָּת֗]][[H9023\|וֹ]] [[H9001\|וּ]][[H5414H\|נְתַתֶּ֤ם]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H7004\|קְטֹ֔רֶת]] [[H9001\|וְ]][[H7126H\|הִקְרַבְתֶּ֞ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H3068G\|יְהוָה֙]] [[H0376I\|אִ֣ישׁ]] [[H4289\|מַחְתָּת֔]][[H9023\|וֹ]] [[H2572\|חֲמִשִּׁ֥ים]] [[H9002\|וּ]][[H3967\|מָאתַ֖יִם]] [[H4289\|מַחְתֹּ֑ת]] [[H9002\|וְ]][[H0859A\|אַתָּ֥ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֖ן]] [[H0376I\|אִ֥ישׁ]] [[H4289\|מַחְתָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CENSER|CENSER]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic INCENSE|INCENSE]] • [[topic ISRAEL|ISRAEL]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.16|<< Numbers 16:16]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.18|Numbers 16:18 >>]]</td></tr></table>
 

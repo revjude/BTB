@@ -1,8 +1,74 @@
+---
+title: Daniel 10:12
+type: Verse
+kjv: "Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words."
+bsb: "“Do not be afraid, Daniel,” he said, “for from the first day that you purposed to understand and to humble yourself before your God, your words were heard, and I have come in response to them."
+hebrew: "וַיֹּ֣אמֶר אֵלַי֮ אַל־ תִּירָ֣א דָנִיֵּאל֒ כִּ֣י׀ מִן־ הַיּ֣וֹם הָרִאשׁ֗וֹן אֲשֶׁ֨ר נָתַ֧תָּ אֶֽת־ לִבְּךָ֛ לְהָבִ֧ין וּלְהִתְעַנּ֛וֹת לִפְנֵ֥י אֱלֹהֶ֖יךָ נִשְׁמְע֣וּ דְבָרֶ֑יךָ וַאֲנִי־ בָ֖אתִי בִּדְבָרֶֽיךָ׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H1840G]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H7223G]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H0995]]"
+- "[[H9002]]"
+- "[[H6031B]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H0589]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:12**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, Fear not, Daniel: for from the first day that thou didst set thine heart to understand, and to chasten thyself before thy God, thy words were heard, and I am come for thy words.
 <small><sub>**BSB:**</sub></small>
 “Do not be afraid, Daniel,” he said, “for from the first day that you purposed to understand and to humble yourself before your God, your words were heard, and I have come in response to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ]][[H9030\|י֮]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֣א]] [[H1840G\|דָנִיֵּאל֒]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הָ]][[H7223G\|רִאשׁ֗וֹן]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414H\|נָתַ֧תָּ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3820A\|לִבְּ]][[H9021\|ךָ֛]] [[H9005\|לְ]][[H0995\|הָבִ֧ין]] [[H9002\|וּ]][[H9005\|לְ]][[H6031B\|הִתְעַנּ֛וֹת]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H8085G\|נִשְׁמְע֣וּ]] [[H1697G\|דְבָרֶ֑י]][[H9021\|ךָ]] [[H9002\|וַ]][[H0589\|אֲנִי]][[H9014\|־]] [[H0935G\|בָ֖אתִי]] [[H9003\|בִּ]][[H1697G\|דְבָרֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.11|<< Daniel 10:11]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.13|Daniel 10:13 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 2:22
+type: Verse
+kjv: "And Abner said again to Asahel, Turn thee aside from following me: wherefore should I smite thee to the ground? how then should I hold up my face to Joab thy brother?"
+bsb: "Once again, Abner warned Asahel, “Stop chasing me. Why should I strike you to the ground? How could I show my face to your brother Joab?”"
+hebrew: "וַיֹּ֧סֶף ע֣וֹד אַבְנֵ֗ר לֵאמֹר֙ אֶל־ עֲשָׂהאֵ֔ל ס֥וּר לְךָ֖ מֵאַֽחֲרָ֑י לָ֤מָּה אַכֶּ֙כָּה֙ אַ֔רְצָה וְאֵיךְ֙ אֶשָּׂ֣א פָנַ֔י אֶל־ יוֹאָ֖ב אָחִֽיךָ׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ASAHEL|ASAHEL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H0074]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6214G]]"
+- "[[H5493I]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H4100]]"
+- "[[H5221]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H0349A]]"
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H9020]]"
+- "[[H3097G]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:22**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abner said again to Asahel, Turn thee aside from following me: wherefore should I smite thee to the ground? how then should I hold up my face to Joab thy brother?
 <small><sub>**BSB:**</sub></small>
 Once again, Abner warned Asahel, “Stop chasing me. Why should I strike you to the ground? How could I show my face to your brother Joab?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּ֧סֶף]] [[H5750\|ע֣וֹד]] [[H0074\|אַבְנֵ֗ר]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6214G\|עֲשָׂהאֵ֔ל]] [[H5493I\|ס֥וּר]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9006\|מֵ]][[H0310A\|אַֽחֲרָ֑]][[H9030\|י]] [[H9005\|לָ֤]][[H4100\|מָּה]] [[H5221\|אַכֶּ֙]][[H9031\|כָּה֙]] [[H0776H\|אַ֔רְצָ]][[H9011\|ה]] [[H9002\|וְ]][[H0349A\|אֵיךְ֙]] [[H5375Q\|אֶשָּׂ֣א]] [[H6440N\|פָנַ֔]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H3097G\|יוֹאָ֖ב]] [[H0251G\|אָחִֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ASAHEL|ASAHEL]] • [[topic DAVID|DAVID]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.21|<< 2 Samuel 2:21]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.23|2 Samuel 2:23 >>]]</td></tr></table>
 

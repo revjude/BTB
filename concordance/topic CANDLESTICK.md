@@ -3,7 +3,7 @@
 
 → OF THE TABERNACLE
 
-- Made after divine pattern [[Exod.25.31|Ex 25:31]]-[[Exod.25.40|40]]; [[Exod.37.17|37:17]]-[[Exod.37.24|24]]; [[Num.8.4|Nu  8:4]]
+- Made after divine pattern [[Exod.25.31|Ex 25:31-40]]; [[Exod.37.17|37:17-24]]; [[Num.8.4|Nu  8:4]]
 
 - Place of [[Exod.26.35|Ex 26:35]]; [[Exod.40.24|40:24]],[[Exod.40.25|25]]; [[Heb.9.2|Heb 9:2]]
 

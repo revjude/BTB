@@ -1,8 +1,54 @@
+---
+title: Job 7:10
+type: Verse
+kjv: "He shall return no more to his house, neither shall his place know him any more."
+bsb: "He never returns to his house; his place remembers him no more."
+hebrew: "לֹא־ יָשׁ֣וּב ע֣וֹד לְבֵית֑וֹ וְלֹא־ יַכִּירֶ֖נּוּ ע֣וֹד מְקֹמֽוֹ׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5234A]]"
+- "[[H9033]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:10**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall return no more to his house, neither shall his place know him any more.
 <small><sub>**BSB:**</sub></small>
 He never returns to his house; his place remembers him no more.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H7725G\|יָשׁ֣וּב]] [[H5750\|ע֣וֹד]] [[H9005\|לְ]][[H1004B\|בֵית֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5234A\|יַכִּירֶ֖]][[H9033\|נּוּ]] [[H5750\|ע֣וֹד]] [[H4725\|מְקֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.9|<< Job 7:9]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.11|Job 7:11 >>]]</td></tr></table>
 

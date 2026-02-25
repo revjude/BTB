@@ -1,8 +1,67 @@
+---
+title: Isaiah 23:17
+type: Verse
+kjv: "And it shall come to pass after the end of seventy years, that the LORD will visit Tyre, and she shall turn to her hire, and shall commit fornication with all the kingdoms of the world upon the face of the earth."
+bsb: "And at the end of seventy years, the LORD will restore Tyre. Then she will return to hire as a prostitute and sell herself to all the kingdoms on the face of the earth."
+hebrew: "וְהָיָ֞ה מִקֵּ֣ץ׀ שִׁבְעִ֣ים שָׁנָ֗ה יִפְקֹ֤ד יְהוָה֙ אֶת־ צֹ֔ר וְשָׁבָ֖ה לְאֶתְנַנָּ֑ה וְזָֽנְתָ֛ה אֶת־ כָּל־ מַמְלְכ֥וֹת הָאָ֖רֶץ עַל־ פְּנֵ֥י הָאֲדָמָֽה׃"
+pericope: "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H9015]]"
+- "[[H7657]]"
+- "[[H8141]]"
+- "[[H6485I]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6865]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H0868]]"
+- "[[H9024]]"
+- "[[H2181]]"
+- "[[H0854]]"
+- "[[H3605]]"
+- "[[H4467]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0127I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 23:17**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass after the end of seventy years, that the LORD will visit Tyre, and she shall turn to her hire, and shall commit fornication with all the kingdoms of the world upon the face of the earth.
 <small><sub>**BSB:**</sub></small>
 And at the end of seventy years, the LORD will restore Tyre. Then she will return to hire as a prostitute and sell herself to all the kingdoms on the face of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֞ה]] [[H9006\|מִ]][[H7093\|קֵּ֣ץ]][[H9015\|׀]] [[H7657\|שִׁבְעִ֣ים]] [[H8141\|שָׁנָ֗ה]] [[H6485I\|יִפְקֹ֤ד]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6865\|צֹ֔ר]] [[H9001\|וְ]][[H7725G\|שָׁבָ֖ה]] [[H9005\|לְ]][[H0868\|אֶתְנַנָּ֑]][[H9024\|ה]] [[H9001\|וְ]][[H2181\|זָֽנְתָ֛ה]] [[H0854\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4467\|מַמְלְכ֥וֹת]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127I\|אֲדָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.16|<< Isaiah 23:16]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.18|Isaiah 23:18 >>]]</td></tr></table>
 

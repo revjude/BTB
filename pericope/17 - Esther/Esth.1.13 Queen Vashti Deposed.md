@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Queen Vashti Deposed
+type: Pericope
 pericope: "[[Esth.1.13 Queen Vashti Deposed|Queen Vashti Deposed]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 1
 book/chapter: "[[Esth.1|Esther 1]]"
-genre:
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 10
 verses:
 - "[[Esth.1.13]]"
 - "[[Esth.1.14]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Esth.1.22]]"
 ---
 
-[[Esth.1|Esther 1:13 - Esther 1:22]]
+<small>[[Esth.1|Esther 1:13-22]]</small>
 *Queen Vashti Deposed*
 
 [[Esth.1.13|13]] Then the king said to the wise men, which knew the times, (for so \[was\] the king’s manner toward all that knew law and judgment:

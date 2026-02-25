@@ -1,8 +1,71 @@
+---
+title: Numbers 24:10
+type: Verse
+kjv: "And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times."
+bsb: "Then Balak’s anger burned against Balaam, and he struck his hands together and said to Balaam, “I summoned you to curse my enemies, but behold, you have persisted in blessing them these three times."
+hebrew: "וַיִּֽחַר־ אַ֤ף בָּלָק֙ אֶל־ בִּלְעָ֔ם וַיִּסְפֹּ֖ק אֶת־ כַּפָּ֑יו וַיֹּ֨אמֶר בָּלָ֜ק אֶל־ בִּלְעָ֗ם לָקֹ֤ב אֹֽיְבַי֙ קְרָאתִ֔יךָ וְהִנֵּה֙ בֵּרַ֣כְתָּ בָרֵ֔ךְ זֶ֖ה שָׁלֹ֥שׁ פְּעָמִֽים׃"
+pericope: "[[Num.24.10 Balak Dismisses Balaam|Balak Dismisses Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H1111]]"
+- "[[H0413]]"
+- "[[H1109A]]"
+- "[[H5606A]]"
+- "[[H0853]]"
+- "[[H3709G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6895]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H7121G]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1288]]"
+- "[[H2088]]"
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:10**<big><big>[[Num.24.10 Balak Dismisses Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak’s anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed [them] these three times.
 <small><sub>**BSB:**</sub></small>
 Then Balak’s anger burned against Balaam, and he struck his hands together and said to Balaam, “I summoned you to curse my enemies, but behold, you have persisted in blessing them these three times.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֤ף]] [[H1111\|בָּלָק֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֔ם]] [[H9001\|וַ]][[H5606A\|יִּסְפֹּ֖ק]] [[H0853\|אֶת]][[H9014\|־]] [[H3709G\|כַּפָּ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1111\|בָּלָ֜ק]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֗ם]] [[H9005\|לָ]][[H6895\|קֹ֤ב]] [[H0341\|אֹֽיְבַ]][[H9020\|י֙]] [[H7121G\|קְרָאתִ֔י]][[H9031\|ךָ]] [[H9002\|וְ]][[H2009\|הִנֵּה֙]] [[H1288\|בֵּרַ֣כְתָּ]] [[H1288\|בָרֵ֔ךְ]] [[H2088\|זֶ֖ה]] [[H7969\|שָׁלֹ֥שׁ]] [[H6471\|פְּעָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.9|<< Numbers 24:9]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.11|Numbers 24:11 >>]]</td></tr></table>
 

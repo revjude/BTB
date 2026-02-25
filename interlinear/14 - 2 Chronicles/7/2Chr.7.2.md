@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 7:2
+type: Verse
+kjv: "And the priests could not enter into the house of the LORD, because the glory of the LORD had filled the LORD’S house."
+bsb: "The priests were unable to enter the house of the LORD, because the glory of the LORD had filled it."
+hebrew: "וְלֹ֤א יָֽכְלוּ֙ הַכֹּ֣הֲנִ֔ים לָב֖וֹא אֶל־ בֵּ֣ית יְהוָ֑ה כִּֽי־ מָלֵ֥א כְבוֹד־ יְהוָ֖ה אֶת־ בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Chr.7.1 Fire from Heaven|Fire from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H4390]]"
+- "[[H3519]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:2**<big><big>[[2Chr.7.1 Fire from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests could not enter into the house of the LORD, because the glory of the LORD had filled the LORD’S house.
 <small><sub>**BSB:**</sub></small>
 The priests were unable to enter the house of the LORD, because the glory of the LORD had filled it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֤א]] [[H3201\|יָֽכְלוּ֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H9005\|לָ]][[H0935G\|ב֖וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4390\|מָלֵ֥א]] [[H3519\|כְבוֹד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic MIRACLES|MIRACLES]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.1|<< 2 Chronicles 7:1]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.3|2 Chronicles 7:3 >>]]</td></tr></table>
 

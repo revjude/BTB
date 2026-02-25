@@ -1,8 +1,64 @@
+---
+title: Daniel 10:17
+type: Verse
+kjv: "For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me."
+bsb: "How can I, your servant, speak with you, my lord? Now I have no strength, nor is any breath left in me.”"
+hebrew: "וְהֵ֣יךְ יוּכַ֗ל עֶ֤בֶד אֲדֹנִי֙ זֶ֔ה לְדַבֵּ֖ר עִם־ אֲדֹ֣נִי זֶ֑ה וַאֲנִ֤י מֵעַ֙תָּה֙ לֹֽא־ יַעֲמָד־ בִּ֣י כֹ֔חַ וּנְשָׁמָ֖ה לֹ֥א נִשְׁאֲרָה־ בִֽי׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H1963]]"
+- "[[H3201]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H9006]]"
+- "[[H6258]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H3581B]]"
+- "[[H5397]]"
+- "[[H7604]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:17**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.
 <small><sub>**BSB:**</sub></small>
 How can I, your servant, speak with you, my lord? Now I have no strength, nor is any breath left in me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1963\|הֵ֣יךְ]] [[H3201\|יוּכַ֗ל]] [[H5650\|עֶ֤בֶד]] [[H0113\|אֲדֹנִ]][[H9020\|י֙]] [[H2088\|זֶ֔ה]] [[H9005\|לְ]][[H1696G\|דַבֵּ֖ר]] [[H5973A\|עִם]][[H9014\|־]] [[H0113\|אֲדֹ֣נִ]][[H9020\|י]] [[H2088\|זֶ֑ה]] [[H9002\|וַ]][[H0589\|אֲנִ֤י]] [[H9006\|מֵ]][[H6258\|עַ֙תָּה֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5975G\|יַעֲמָד]][[H9014\|־]] [[H9003\|בִּ֣]][[H9030\|י]] [[H3581B\|כֹ֔חַ]] [[H9002\|וּ]][[H5397\|נְשָׁמָ֖ה]] [[H3808\|לֹ֥א]] [[H7604\|נִשְׁאֲרָה]][[H9014\|־]] [[H9003\|בִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.16|<< Daniel 10:16]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.18|Daniel 10:18 >>]]</td></tr></table>
 

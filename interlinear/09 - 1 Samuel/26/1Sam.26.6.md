@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 26:6
+type: Verse
+kjv: "Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee."
+bsb: "And David asked Ahimelech the Hittite and Abishai son of Zeruiah, Joab’s brother, “Who will go down with me to Saul in the camp?” “I will go with you,” answered Abishai."
+hebrew: "וַיַּ֨עַן דָּוִ֜ד וַיֹּ֣אמֶר׀ אֶל־ אֲחִימֶ֣לֶךְ הַחִתִּ֗י וְאֶל־ אֲבִישַׁ֨י בֶּן־ צְרוּיָ֜ה אֲחִ֤י יוֹאָב֙ לֵאמֹ֔ר מִֽי־ יֵרֵ֥ד אִתִּ֛י אֶל־ שָׁא֖וּל אֶל־ הַֽמַּחֲנֶ֑ה וַיֹּ֣אמֶר אֲבִישַׁ֔י אֲנִ֖י אֵרֵ֥ד עִמָּֽךְ׃"
+pericope: "[[1Sam.26.1 David Again Spares Saul|David Again Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic AHIMELECH|AHIMELECH]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0288H]]"
+- "[[H9009]]"
+- "[[H2850]]"
+- "[[H9002]]"
+- "[[H0052]]"
+- "[[H1121A]]"
+- "[[H6870]]"
+- "[[H0251G]]"
+- "[[H3097G]]"
+- "[[H9005]]"
+- "[[H4310]]"
+- "[[H3381]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H7586G]]"
+- "[[H4264]]"
+- "[[H0589]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 26:6**<big><big>[[1Sam.26.1 David Again Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee.
 <small><sub>**BSB:**</sub></small>
 And David asked Ahimelech the Hittite and Abishai son of Zeruiah, Joab’s brother, “Who will go down with me to Saul in the camp?” “I will go with you,” answered Abishai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H1732\|דָּוִ֜ד]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H0288H\|אֲחִימֶ֣לֶךְ]] [[H9009\|הַ]][[H2850\|חִתִּ֗י]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0052\|אֲבִישַׁ֨י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6870\|צְרוּיָ֜ה]] [[H0251G\|אֲחִ֤י]] [[H3097G\|יוֹאָב֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4310\|מִֽי]][[H9014\|־]] [[H3381\|יֵרֵ֥ד]] [[H0854\|אִתִּ֛]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0052\|אֲבִישַׁ֔י]] [[H0589\|אֲנִ֖י]] [[H3381\|אֵרֵ֥ד]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic AHIMELECH|AHIMELECH]] • [[topic CITIZENS|CITIZENS]] • [[topic HITTITES|HITTITES]] • [[topic LOYALTY|LOYALTY]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.5|<< 1 Samuel 26:5]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.7|1 Samuel 26:7 >>]]</td></tr></table>
 

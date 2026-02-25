@@ -1,8 +1,65 @@
+---
+title: Numbers 36:5
+type: Verse
+kjv: "And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well."
+bsb: "So at the word of the LORD, Moses commanded the Israelites: “The tribe of the sons of Joseph speaks correctly."
+hebrew: "וַיְצַ֤ו מֹשֶׁה֙ אֶת־ בְּנֵ֣י יִשְׂרָאֵ֔ל עַל־ פִּ֥י יְהוָ֖ה לֵאמֹ֑ר כֵּ֛ן מַטֵּ֥ה בְנֵֽי־ יוֹסֵ֖ף דֹּבְרִֽים׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HEIR|HEIR]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3651A]]"
+- "[[H4294H]]"
+- "[[H3130G]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:5**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well.
 <small><sub>**BSB:**</sub></small>
 So at the word of the LORD, Moses commanded the Israelites: “The tribe of the sons of Joseph speaks correctly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֤ו]] [[H4872\|מֹשֶׁה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3651A\|כֵּ֛ן]] [[H4294H\|מַטֵּ֥ה]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H1696G\|דֹּבְרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEIR|HEIR]] • [[topic LAND|LAND]] • [[topic MILCAH|MILCAH]] • [[topic PETITION|PETITION]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.4|<< Numbers 36:4]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.6|Numbers 36:6 >>]]</td></tr></table>
 

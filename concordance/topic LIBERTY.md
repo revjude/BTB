@@ -1,7 +1,7 @@
 
 **LIBERTY**
 
-→ Proclaimed in the year of jubilee [[Lev.25.10|Le 25:10]]; [[Jer.34.8|Jer 34:8]],[[Jer.34.15|15]]-[[Jer.34.17|17]]
+→ Proclaimed in the year of jubilee [[Lev.25.10|Le 25:10]]; [[Jer.34.8|Jer 34:8]],[[Jer.34.15|15-17]]
 
 → Political [[Judg.17.6|Jud 17:6]]; [[Judg.21.25|21:25]]; [[Acts.22.28|Ac 22:28]]
 

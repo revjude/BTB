@@ -1,10 +1,60 @@
+---
+title: 1 John 4:16
+type: Verse
+kjv: "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him."
+bsb: "And we have come to know and believe the love that God has for us. God is love; whoever abides in love abides in God, and God in him."
+greek: "καὶ ἡμεῖς ἐγνώκαμεν καὶ πεπιστεύκαμεν τὴν ἀγάπην ἣν ἔχει ὁ θεὸς ἐν ἡμῖν. ὁ θεὸς ἀγάπη ἐστίν, καὶ ὁ μένων ἐν τῇ ἀγάπῃ ἐν τῷ θεῷ μένει, καὶ ὁ θεὸς ἐν αὐτῷ μένει."
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G1097]]"
+- "[[G4100]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G1510]]"
+- "[[G3306]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NO
+---
+
 **1 John 4:16**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him.
 <small><sub>**BSB:**</sub></small>
 And we have come to know and believe the love that God has for us. God is love; whoever abides in love abides in God, and God in him.
-<small><sub>**Literal:**</sub></small>
-And we ourselves have come to know and we have come to believe the love that has <the> God as to us. <the> God love is, and the [one] abiding in <the> love in <the> God abides, and <the> God in him abides.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.15|<< 1 John 4:15]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.17|1 John 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G1097\|ἐγνώκαμεν]]  [[G2532\|καὶ]]  [[G4100\|πεπιστεύκαμεν]]  [[G3588\|τὴν]]  [[G0026\|ἀγάπην]]  [[G3739\|ἣν]]  [[G2192\|ἔχει]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν.]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0026\|ἀγάπη]]  [[G1510\|ἐστίν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3306\|μένων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0026\|ἀγάπῃ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3306\|μένει,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3306\|μένει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic LOVE|LOVE]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.15|<< 1 John 4:15]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.17|1 John 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

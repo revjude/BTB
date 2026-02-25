@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: May God Cause His Face to Shine upon Us
+type: Pericope
 pericope: "[[Ps.67.1 May God Cause His Face to Shine upon Us|May God Cause His Face to Shine upon Us]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 67
 book/chapter: "[[Ps.67|Psalm 67]]"
-genre:
+chronological_order: 427
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.67.0]]"
 - "[[Ps.67.1]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.67.7]]"
 ---
 
-[[Ps.67|Psalm 67:1 - Psalm 67:7]]
+<small>[[Ps.67|Psalm 67:1-7]]</small>
 *May God Cause His Face to Shine upon Us*
 
 [[Ps.67.0|0]] To the chief Musician on Neginoth, A Psalm \[or\] Song.

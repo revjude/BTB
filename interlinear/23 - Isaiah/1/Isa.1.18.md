@@ -1,8 +1,73 @@
+---
+title: Isaiah 1:18
+type: Verse
+kjv: "Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool."
+bsb: "“Come now, let us reason together,” says the LORD. “Though your sins are like scarlet, they will be as white as snow; though they are as red as crimson, they will become like wool."
+hebrew: "לְכוּ־ נָ֛א וְנִוָּֽכְחָ֖ה יֹאמַ֣ר יְהוָ֑ה אִם־ יִֽהְי֨וּ חֲטָאֵיכֶ֤ם כַּשָּׁנִים֙ כַּשֶּׁ֣לֶג יַלְבִּ֔ינוּ אִם־ יַאְדִּ֥ימוּ כַתּוֹלָ֖ע כַּצֶּ֥מֶר יִהְיֽוּ׃"
+pericope: "[[Isa.1.10 Meaningless Offerings|Meaningless Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SNOW|SNOW]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[H1980K]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H3198]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0518A]]"
+- "[[H1961]]"
+- "[[H2399]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H8144]]"
+- "[[H7950]]"
+- "[[H3835A]]"
+- "[[H0119]]"
+- "[[H8438A]]"
+- "[[H6785]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:18**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.
 <small><sub>**BSB:**</sub></small>
 “Come now, let us reason together,” says the LORD. “Though your sins are like scarlet, they will be as white as snow; though they are as red as crimson, they will become like wool.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980K\|לְכוּ]][[H9014\|־]] [[H4994\|נָ֛א]] [[H9002\|וְ]][[H3198\|נִוָּֽכְחָ֖ה]] [[H0559\|יֹאמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H0518A\|אִם]][[H9014\|־]] [[H1961\|יִֽהְי֨וּ]] [[H2399\|חֲטָאֵי]][[H9026\|כֶ֤ם]] [[H9004\|כַּ]][[H8144\|שָּׁנִים֙]] [[H9004\|כַּ]][[H7950\|שֶּׁ֣לֶג]] [[H3835A\|יַלְבִּ֔ינוּ]] [[H0518A\|אִם]][[H9014\|־]] [[H0119\|יַאְדִּ֥ימוּ]] [[H9004\|כַ]][[H8438A\|תּוֹלָ֖ע]] [[H9004\|כַּ]][[H6785\|צֶּ֥מֶר]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic CHURCH|CHURCH]] • [[topic COLORS|COLORS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PURITY|PURITY]] • [[topic REASONING|REASONING]] • [[topic REWARD|REWARD]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic SNOW|SNOW]] • [[topic WILL|WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.17|<< Isaiah 1:17]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.19|Isaiah 1:19 >>]]</td></tr></table>
 

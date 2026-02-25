@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Census of Israel
+type: Pericope
 pericope: "[[Num.1.1 The First Census of Israel|The First Census of Israel]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 1
 book/chapter: "[[Num.1|Numbers 1]]"
-genre:
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.1.1]]"
 - "[[Num.1.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.1.4]]"
 ---
 
-[[Num.1|Numbers 1:1 - Numbers 1:4]]
+<small>[[Num.1|Numbers 1:1-4]]</small>
 *The First Census of Israel*
 
 [[Num.1.1|1]] And the LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first \[day\] of the second month, in the second year after they were come out of the land of Egypt, saying,

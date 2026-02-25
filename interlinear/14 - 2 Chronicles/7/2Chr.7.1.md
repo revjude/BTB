@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 7:1
+type: Verse
+kjv: "Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house."
+bsb: "When Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple."
+hebrew: "וּכְכַלּ֤וֹת שְׁלֹמֹה֙ לְהִתְפַּלֵּ֔ל וְהָאֵ֗שׁ יָֽרְדָה֙ מֵֽהַשָּׁמַ֔יִם וַתֹּ֥אכַל הָעֹלָ֖ה וְהַזְּבָחִ֑ים וּכְב֥וֹד יְהוָ֖ה מָלֵ֥א אֶת־ הַבָּֽיִת׃"
+pericope: "[[2Chr.7.1 Fire from Heaven|Fire from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H6419]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H8064]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H5930A]]"
+- "[[H2077]]"
+- "[[H3519]]"
+- "[[H3068G]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:1**<big><big>[[2Chr.7.1 Fire from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house.
 <small><sub>**BSB:**</sub></small>
 When Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H3615G\|כַלּ֤וֹת]] [[H8010\|שְׁלֹמֹה֙]] [[H9005\|לְ]][[H6419\|הִתְפַּלֵּ֔ל]] [[H9002\|וְ]][[H9009\|הָ]][[H0784\|אֵ֗שׁ]] [[H3381\|יָֽרְדָה֙]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וַ]][[H0398\|תֹּ֥אכַל]] [[H9009\|הָ]][[H5930A\|עֹלָ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H2077\|זְּבָחִ֑ים]] [[H9002\|וּ]][[H3519\|כְב֥וֹד]] [[H3068G\|יְהוָ֖ה]] [[H4390\|מָלֵ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic FIRE|FIRE]] • [[topic MIRACLES|MIRACLES]] • [[topic TEMPLE|TEMPLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.42|<< 2 Chronicles 6:42]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.2|2 Chronicles 7:2 >>]]</td></tr></table>
 

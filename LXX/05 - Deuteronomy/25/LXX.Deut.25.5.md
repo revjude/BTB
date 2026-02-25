@@ -1,6 +1,88 @@
+---
+title: LXX Deuteronomy 25:5
+type: Verse
+lxx: "And if brethren should dwell in the same place, and one of them should die, and there might not be seed to him, the wife of the one having died shall not be outside the husband's family not near. The brother  of her husband shall enter to her, and he shall take her to himself as wife, and he shall live with her."
+greek: "εάν δε κατοικώσιν αδελφοί επί το αυτό και αποθάνη εις εξ αυτών σπέρμα δε μη η αυτώ ουκ έσται η γυνή του τεθνηκότος έξω ανδρί μη εγγίζοντι ο αδελφός του ανδρός αυτής εισελεύσεται προς αυτήν και λήψεται αυτήν εαυτώ γυναίκα και συνοικήσει αυτή"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2730]]"
+- "[[G0080]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G4690]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G3588]]"
+- "[[G2348]]"
+- "[[G1854]]"
+- "[[G0435]]"
+- "[[G3361]]"
+- "[[G1448]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1473]]"
+- "[[G1525]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G1473]]"
+- "[[G1438]]"
+- "[[G1135]]"
+- "[[G2532]]"
+- "[[G4924]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 25:5** 
 <small><sub>**LXX:**</sub></small>
 And if brethren should dwell in the same place, and one of them should die, and there might not be seed to him, the wife of the one having died shall not be outside \[the\] husband's \[family\] not near. The brother  of her husband shall enter to her, and he shall take her to himself as wife, and he shall live with her. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1161\|δε]] [[G2730\|κατοικώσιν]] [[G0080\|αδελφοί]] [[G1909\|επί]] [[G3588\|το]] [[G1473\|αυτό]] [[G2532\|και]] [[G0599\|αποθάνη]] [[G1520\|εις]] [[G1537\|εξ]] [[G1473\|αυτών]] [[G4690\|σπέρμα]] [[G1161\|δε]] [[G3361\|μη]] [[G1510\|η]] [[G1473\|αυτώ]] [[G3756\|ουκ]] [[G1510\|έσται]] [[G3588\|η]] [[G1135\|γυνή]] [[G3588\|του]] [[G2348\|τεθνηκότος]] [[G1854\|έξω]] [[G0435\|ανδρί]] [[G3361\|μη]] [[G1448\|εγγίζοντι]] [[G3588\|ο]] [[G0080\|αδελφός]] [[G3588\|του]] [[G0435\|ανδρός]] [[G1473\|αυτής]] [[G1525\|εισελεύσεται]] [[G4314\|προς]] [[G1473\|αυτήν]] [[G2532\|και]] [[G2983\|λήψεται]] [[G1473\|αυτήν]] [[G1438\|εαυτώ]] [[G1135\|γυναίκα]] [[G2532\|και]] [[G4924\|συνοικήσει]] [[G1473\|αυτή]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic INHERITANCE|INHERITANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STRANGERS|STRANGERS]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.4|<< Deuteronomy 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.6|Deuteronomy 25:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -50,6 +132,6 @@ And if brethren should dwell in the same place, and one of them should die, and 
 | and | **<big>[[G2532\|και]]</big>** |
 | he shall live with | **<big>[[G4924\|συνοικήσει]]</big>** |
 | her. | **<big>[[G1473\|αυτή]]</big>** |
-[[Deut.25.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.4|<< Deuteronomy 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.6|Deuteronomy 25:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.25.4|<< Deuteronomy 25:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.25.6|Deuteronomy 25:6 >>]]</td></tr></table>
 
 

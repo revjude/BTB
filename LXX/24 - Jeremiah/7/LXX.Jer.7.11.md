@@ -1,6 +1,62 @@
+---
+title: LXX Jeremiah 7:11
+type: Verse
+lxx: "My house is not a cave of robbers, of which my name is called upon in it there before you. And behold, I have seen, says the lord."
+greek: "μη σπήλαιον ληστών ο οίκός μου ου επικέκληται το όνομά μου επ΄ αυτώ εκεί ενώπιον υμών και ιδού εγώ εώρακα λέγει κύριος"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic ROBBERS|ROBBERS]]"
+strongs:
+- "[[G3361]]"
+- "[[G4693]]"
+- "[[G3027]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G1941]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G1563]]"
+- "[[G1799]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G3708]]"
+- "[[G3004]]"
+- "[[G2962]]"
+---
+
 **LXX Jeremiah 7:11** 
 <small><sub>**LXX:**</sub></small>
 My house is not a cave of robbers, of which my name is called upon in it there before you. And behold, I have seen, says \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G4693\|σπήλαιον]] [[G3027\|ληστών]] [[G3588\|ο]] [[G3624\|οίκός]] [[G1473\|μου]] [[G3739\|ου]] [[G1941\|επικέκληται]] [[G3588\|το]] [[G3686\|όνομά]] [[G1473\|μου]] [[G1909\|επ΄]] [[G1473\|αυτώ]] [[G1563\|εκεί]] [[G1799\|ενώπιον]] [[G1473\|υμών]] [[G2532\|και]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G3708\|εώρακα]] [[G3004\|λέγει]] [[G2962\|κύριος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic ROBBERS|ROBBERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.10|<< Jeremiah 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.12|Jeremiah 7:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -30,6 +86,6 @@ My house is not a cave of robbers, of which my name is called upon in it there b
 | have seen, | **<big>[[G3708\|εώρακα]]</big>** |
 | says | **<big>[[G3004\|λέγει]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
-[[Jer.7.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.10|<< Jeremiah 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.12|Jeremiah 7:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.7.10|<< Jeremiah 7:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.7.12|Jeremiah 7:12 >>]]</td></tr></table>
 
 

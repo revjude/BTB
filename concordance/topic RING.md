@@ -5,7 +5,7 @@
 
 → Worn as a badge of office [[Gen.41.42|Ge 41:42]]
 
-→ Given as a token [[Esth.3.10|Es 3:10]],[[Esth.3.12|12]]; [[Esth.8.2|8:2]]-[[Esth.8.10|10]]
+→ Given as a token [[Esth.3.10|Es 3:10]],[[Esth.3.12|12]]; [[Esth.8.2|8:2-10]]
 
 → Worn in the nose [[Prov.11.22|Pr 11:22]]; [[Isa.3.21|Isa 3:21]]
 

@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 2:23
+type: Verse
+kjv: "Howbeit he refused to turn aside: wherefore Abner with the hinder end of the spear smote him under the fifth rib, that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, that as many as came to the place where Asahel fell down and died stood still."
+bsb: "But Asahel refused to turn away. So Abner thrust the butt of his spear into his stomach, and it came out his back, and he fell dead on the spot. And every man paused when he came to the place where Asahel had fallen and died."
+hebrew: "וַיְמָאֵ֣ן לָס֗וּר וַיַּכֵּ֣הוּ אַבְנֵר֩ בְּאַחֲרֵ֨י הַחֲנִ֜ית אֶל־ הַחֹ֗מֶשׁ וַתֵּצֵ֤א הַֽחֲנִית֙ מֵאַחֲרָ֔יו וַיִּפָּל־ שָׁ֖ם וַיָּ֣מָת תַּחְתָּ֑יו וַיְהִ֡י כָּל־ הַבָּ֣א אֶֽל־ הַמָּקוֹם֩ אֲשֶׁר־ נָ֨פַל שָׁ֧ם עֲשָׂהאֵ֛ל וַיָּמֹ֖ת וַֽיַּעֲמֹֽדוּ׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ASAHEL|ASAHEL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H5493I]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H0074]]"
+- "[[H9003]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H2595]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2570]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H5307G]]"
+- "[[H8033G]]"
+- "[[H4191]]"
+- "[[H8478I]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H0935G]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H6214G]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 2:23**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit he refused to turn aside: wherefore Abner with the hinder end of the spear smote him under the fifth [rib], that the spear came out behind him; and he fell down there, and died in the same place: and it came to pass, [that] as many as came to the place where Asahel fell down and died stood still.
 <small><sub>**BSB:**</sub></small>
 But Asahel refused to turn away. So Abner thrust the butt of his spear into his stomach, and it came out his back, and he fell dead on the spot. And every man paused when he came to the place where Asahel had fallen and died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3985\|יְמָאֵ֣ן]] [[H9005\|לָ]][[H5493I\|ס֗וּר]] [[H9001\|וַ]][[H5221\|יַּכֵּ֣]][[H9033\|הוּ]] [[H0074\|אַבְנֵר֩]] [[H9003\|בְּ]][[H0310A\|אַחֲרֵ֨י]] [[H9009\|הַ]][[H2595\|חֲנִ֜ית]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2570\|חֹ֗מֶשׁ]] [[H9001\|וַ]][[H3318G\|תֵּצֵ֤א]] [[H9009\|הַֽ]][[H2595\|חֲנִית֙]] [[H9006\|מֵ]][[H0310A\|אַחֲרָ֔י]][[H9033\|ו]] [[H9001\|וַ]][[H5307G\|יִּפָּל]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H8478I\|תַּחְתָּ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0935G\|בָּ֣א]] [[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּקוֹם֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5307G\|נָ֨פַל]] [[H8033G\|שָׁ֧ם]] [[H6214G\|עֲשָׂהאֵ֛ל]] [[H9001\|וַ]][[H4191\|יָּמֹ֖ת]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ASAHEL|ASAHEL]] • [[topic DAVID|DAVID]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.22|<< 2 Samuel 2:22]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.24|2 Samuel 2:24 >>]]</td></tr></table>
 
@@ -36,7 +104,7 @@ But Asahel refused to turn away. So Abner thrust the butt of his spear into his 
 | and they stood still  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H5975G\|יַּעֲמֹֽדוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> i.ya.'a.Mo.du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.22|<< 2 Samuel 2:22]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.24|2 Samuel 2:24 >>]]</td></tr></table>
 
-[^1]: in place his  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: in place his  | **<big>[[H9033|וֹ]]</big><big>[[H8478I|תַּחַת]]</big> ** | ta.cha.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: in place his  | **<big>[[H8478I|תַּחַת]]</big><big>[[H9033|וֹ]]</big> ** | ta.cha.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: in place his  | **<big>[[H8478I|תַּחַת]]</big><big>[[H9033|וֹ]]</big> ** | ta.cha.to<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>תַּחְתָּ֑ו</big></span>**
 

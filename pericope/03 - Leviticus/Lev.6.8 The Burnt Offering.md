@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burnt Offering
+type: Pericope
 pericope: "[[Lev.6.8 The Burnt Offering|The Burnt Offering]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 6
 book/chapter: "[[Lev.6|Leviticus 6]]"
-genre:
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 6
 verses:
 - "[[Lev.6.8]]"
 - "[[Lev.6.9]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Lev.6.13]]"
 ---
 
-[[Lev.6|Leviticus 6:8 - Leviticus 6:13]]
+<small>[[Lev.6|Leviticus 6:8-13]]</small>
 *The Burnt Offering*
 
 [[Lev.6.8|8]] And the LORD spake unto Moses, saying,

@@ -1,8 +1,70 @@
+---
+title: Jeremiah 22:18
+type: Verse
+kjv: "Therefore thus saith the LORD concerning Jehoiakim the son of Josiah king of Judah; They shall not lament for him, saying, Ah my brother! or, Ah sister! they shall not lament for him, saying, Ah lord! or, Ah his glory!"
+bsb: "Therefore this is what the LORD says concerning Jehoiakim son of Josiah king of Judah: “They will not mourn for him: ‘Alas, my brother! Alas, my sister!’ They will not mourn for him: ‘Alas, my master! Alas, his splendor!’"
+hebrew: "לָכֵ֞ן כֹּֽה־ אָמַ֣ר יְהוָ֗ה אֶל־ יְהוֹיָקִ֤ים בֶּן־ יֹאשִׁיָּ֙הוּ֙ מֶ֣לֶךְ יְהוּדָ֔ה לֹא־ יִסְפְּד֣וּ ל֔וֹ ה֥וֹי אָחִ֖י וְה֣וֹי אָח֑וֹת לֹא־ יִסְפְּד֣וּ ל֔וֹ ה֥וֹי אָד֖וֹן וְה֥וֹי הֹדֽוֹ׃"
+pericope: "[[Jer.22.13 A Warning about Jehoiakim|A Warning about Jehoiakim]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3079]]"
+- "[[H1121A]]"
+- "[[H2977G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3808]]"
+- "[[H5594]]"
+- "[[H9033]]"
+- "[[H1945]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H0269]]"
+- "[[H0113]]"
+- "[[H1935]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 22:18**<big><big>[[Jer.22.13 A Warning about Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD concerning Jehoiakim the son of Josiah king of Judah; They shall not lament for him, [saying], Ah my brother! or, Ah sister! they shall not lament for him, [saying], Ah lord! or, Ah his glory!
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says concerning Jehoiakim son of Josiah king of Judah: “They will not mourn for him: ‘Alas, my brother! Alas, my sister!’ They will not mourn for him: ‘Alas, my master! Alas, his splendor!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3079\|יְהוֹיָקִ֤ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּ֙הוּ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H3808\|לֹא]][[H9014\|־]] [[H5594\|יִסְפְּד֣וּ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H1945\|ה֥וֹי]] [[H0251G\|אָחִ֖]][[H9020\|י]] [[H9002\|וְ]][[H1945\|ה֣וֹי]] [[H0269\|אָח֑וֹת]] [[H3808\|לֹא]][[H9014\|־]] [[H5594\|יִסְפְּד֣וּ]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H1945\|ה֥וֹי]] [[H0113\|אָד֖וֹן]] [[H9002\|וְ]][[H1945\|ה֥וֹי]] [[H1935\|הֹדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOIAKIM|JEHOIAKIM]] • [[topic MOURNING|MOURNING]] • [[topic RICH, THE|RICH, THE]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.17|<< Jeremiah 22:17]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.19|Jeremiah 22:19 >>]]</td></tr></table>
 
@@ -34,7 +96,7 @@ Therefore this is what the LORD says concerning Jehoiakim son of Josiah king of 
 | splendor his  [^2]|**<big>&#8207;[[H1935\|הֹדֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ho.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.17|<< Jeremiah 22:17]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.19|Jeremiah 22:19 >>]]</td></tr></table>
 
-[^1]: splendor his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H1935|הֹדֹֽ]]</big> ** | ho.Do<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: splendor his  | **<big>[[H9016|׃]]</big><big>[[H9023|ה]]</big><big>[[H1935|הֹדֹֽ]]</big> ** | ho.Do<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: splendor his  | **<big>[[H1935|הֹדֹֽ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | ho.Do<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: splendor his  | **<big>[[H1935|הֹדֹֽ]]</big><big>[[H9023|ה]]</big><big>[[H9016|׃]]</big> ** | ho.Do<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הֹדֹֽה\׃</big></span>**
 

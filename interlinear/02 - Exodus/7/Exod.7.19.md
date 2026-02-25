@@ -1,8 +1,76 @@
+---
+title: Exodus 7:19
+type: Verse
+kjv: "And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone."
+bsb: "And the LORD said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over the waters of Egypt—over their rivers and canals and ponds and all the reservoirs—that they may become blood.’ There will be blood throughout the land of Egypt, even in the vessels of wood and stone.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה אֱמֹ֣ר אֶֽל־ אַהֲרֹ֡ן קַ֣ח מַטְּךָ֣ וּנְטֵֽה־ יָדְךָ֩ עַל־ מֵימֵ֨י מִצְרַ֜יִם עַֽל־ נַהֲרֹתָ֣ם׀ עַל־ יְאֹרֵיהֶ֣ם וְעַל־ אַגְמֵיהֶ֗ם וְעַ֛ל כָּל־ מִקְוֵ֥ה מֵימֵיהֶ֖ם וְיִֽהְיוּ־ דָ֑ם וְהָ֤יָה דָם֙ בְּכָל־ אֶ֣רֶץ מִצְרַ֔יִם וּבָעֵצִ֖ים וּבָאֲבָנִֽים׃"
+pericope: "[[Exod.7.14 The First Plague：Blood|The First Plague：Blood]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0175]]"
+- "[[H3947G]]"
+- "[[H4294G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5186]]"
+- "[[H3027G]]"
+- "[[H5921A]]"
+- "[[H4325G]]"
+- "[[H4714G]]"
+- "[[H5104H]]"
+- "[[H9028]]"
+- "[[H9015]]"
+- "[[H2975G]]"
+- "[[H0098]]"
+- "[[H3605]]"
+- "[[H4723C]]"
+- "[[H1961]]"
+- "[[H1818]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H6086G]]"
+- "[[H0068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:19**<big><big>[[Exod.7.14 The First Plague：Blood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and [that] there may be blood throughout all the land of Egypt, both in [vessels of] wood, and in [vessels of] stone.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Moses, “Tell Aaron, ‘Take your staff and stretch out your hand over the waters of Egypt—over their rivers and canals and ponds and all the reservoirs—that they may become blood.’ There will be blood throughout the land of Egypt, even in the vessels of wood and stone.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H0559\|אֱמֹ֣ר]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֡ן]] [[H3947G\|קַ֣ח]] [[H4294G\|מַטְּ]][[H9021\|ךָ֣]] [[H9002\|וּ]][[H5186\|נְטֵֽה]][[H9014\|־]] [[H3027G\|יָדְ]][[H9021\|ךָ֩]] [[H5921A\|עַל]][[H9014\|־]] [[H4325G\|מֵימֵ֨י]] [[H4714G\|מִצְרַ֜יִם]] [[H5921A\|עַֽל]][[H9014\|־]] [[H5104H\|נַהֲרֹתָ֣]][[H9028\|ם]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H2975G\|יְאֹרֵי]][[H9028\|הֶ֣ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0098\|אַגְמֵי]][[H9028\|הֶ֗ם]] [[H9002\|וְ]][[H5921A\|עַ֛ל]] [[H3605\|כָּל]][[H9014\|־]] [[H4723C\|מִקְוֵ֥ה]] [[H4325G\|מֵימֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H1961\|יִֽהְיוּ]][[H9014\|־]] [[H1818\|דָ֑ם]] [[H9001\|וְ]][[H1961\|הָ֤יָה]] [[H1818\|דָם֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9002\|וּ]][[H9003\|בָ]][[H6086G\|עֵצִ֖ים]] [[H9002\|וּ]][[H9003\|בָ]][[H0068G\|אֲבָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.18|<< Exodus 7:18]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.20|Exodus 7:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

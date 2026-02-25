@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Talents
+type: Pericope
 pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
-verse_count: 17
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 25
 book/chapter: "[[Matt.25|Matthew 25]]"
-genre:
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 17
 verses:
 - "[[Matt.25.14]]"
 - "[[Matt.25.15]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Matt.25.30]]"
 ---
 
-[[Matt.25|Matthew 25:14 - Matthew 25:30]]
+<small>[[Matt.25|Matthew 25:14-30]]</small>
 *The Parable of the Talents*
 
 [[Matt.25.14|14]] For \[the kingdom of heaven is\] as a man travelling into a far country, \[who\] called his own servants, and delivered unto them his goods.

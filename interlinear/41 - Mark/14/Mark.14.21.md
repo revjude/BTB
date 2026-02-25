@@ -1,10 +1,70 @@
+---
+title: Mark 14:21
+type: Verse
+kjv: "The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born."
+bsb: "The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed! It would be better for him if he had not been born.”"
+jesus_said: "The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born."
+greek: "ὅτι ὁ μὲν υἱὸς τοῦ ἀνθρώπου ὑπάγει καθὼς γέγραπται περὶ αὐτοῦ, οὐαὶ δὲ τῷ ἀνθρώπῳ ἐκείνῳ δι᾽ οὗ ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοται· καλὸν ἦν αὐτῷ εἰ οὐκ ἐγεννήθη ὁ ἄνθρωπος ἐκεῖνος."
+pericope: "[[Mark.14.17 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G5217]]"
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G3759]]"
+- "[[G1161]]"
+- "[[G1565]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G3860]]"
+- "[[G2570G]]"
+- "[[G1510]]"
+- "[[G1487G]]"
+- "[[G3756]]"
+- "[[G1080]]"
+texts:
+- no
+- NKO
+- ko
+---
+
 **Mark 14:21**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Son of man indeed goeth, as it is written of him: but woe to that man by whom the Son of man is betrayed! good were it for that man if he had never been born.
 <small><sub>**BSB:**</sub></small>
 The Son of Man will go just as it is written about Him, but woe to that man by whom He is betrayed! It would be better for him if he had not been born.”
-<small><sub>**Literal:**</sub></small>
-For <the> indeed the Son <the> of Man goes even as it has been written concerning Him, woe however to the man that [one] through whom the Son <the> of Man is betrayed; better was for him if not was born the man that.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.20|<< Mark 14:20]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.22|Mark 14:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G3303\|μὲν]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G5217\|ὑπάγει]]  [[G2531\|καθὼς]]  [[G1125\|γέγραπται]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ,]]  [[G3759\|οὐαὶ]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G0444\|ἀνθρώπῳ]]  [[G1565\|ἐκείνῳ]]  [[G1223\|δι᾽]]  [[G3739\|οὗ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3860\|παραδίδοται·]]  [[G2570G\|καλὸν]]  [[G1510\|ἦν]]  [[G0846\|αὐτῷ]]  [[G1487G\|εἰ]]  [[G3756\|οὐκ]]  [[G1080\|ἐγεννήθη]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G1565\|ἐκεῖνος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PASSOVER|PASSOVER]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.20|<< Mark 14:20]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.22|Mark 14:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 14:21** is...
 > $\quad$ referencing: [[LXX.Ps.41.9|Ps 41:9]]

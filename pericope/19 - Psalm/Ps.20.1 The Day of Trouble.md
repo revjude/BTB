@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day of Trouble
+type: Pericope
 pericope: "[[Ps.20.1 The Day of Trouble|The Day of Trouble]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 20
 book/chapter: "[[Ps.20|Psalm 20]]"
-genre:
+chronological_order: 353
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 10
 verses:
 - "[[Ps.20.0]]"
 - "[[Ps.20.1]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ps.20.9]]"
 ---
 
-[[Ps.20|Psalm 20:1 - Psalm 20:9]]
+<small>[[Ps.20|Psalm 20:1-9]]</small>
 *The Day of Trouble*
 
 [[Ps.20.0|0]] To the chief Musician, A Psalm of David.

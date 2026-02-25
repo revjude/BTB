@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 3:11
+type: Verse
+kjv: "And the wings of the cherubims were twenty cubits long: one wing of the one cherub was five cubits, reaching to the wall of the house: and the other wing was likewise five cubits, reaching to the wing of the other cherub."
+bsb: "The total wingspan of the cherubim was twenty cubits. One wing of the first cherub was five cubits long and touched the wall of the temple, and its other wing was five cubits long and touched the wing of the other cherub."
+hebrew: "וְכַנְפֵי֙ הַכְּרוּבִ֔ים אָרְכָּ֖ם אַמּ֣וֹת עֶשְׂרִ֑ים כְּנַ֨ף הָאֶחָ֜ד לְאַמּ֣וֹת חָמֵ֗שׁ מַגַּ֙עַת֙ לְקִ֣יר הַבַּ֔יִת וְהַכָּנָ֤ף הָאַחֶ֙רֶת֙ אַמּ֣וֹת חָמֵ֔שׁ מַגִּ֕יעַ לִכְנַ֖ף הַכְּר֥וּב הָאַחֵֽר׃"
+pericope: "[[2Chr.3.10 The Cherubim|The Cherubim]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3671]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H0753]]"
+- "[[H9028]]"
+- "[[H0520A]]"
+- "[[H6242]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2568]]"
+- "[[H5060]]"
+- "[[H7023]]"
+- "[[H1004B]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 3:11**<big><big>[[2Chr.3.10 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the wings of the cherubims [were] twenty cubits long: one wing [of the one cherub was] five cubits, reaching to the wall of the house: and the other wing [was likewise] five cubits, reaching to the wing of the other cherub.
 <small><sub>**BSB:**</sub></small>
 The total wingspan of the cherubim was twenty cubits. One wing of the first cherub was five cubits long and touched the wall of the temple, and its other wing was five cubits long and touched the wing of the other cherub.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3671\|כַנְפֵי֙]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֔ים]] [[H0753\|אָרְכָּ֖]][[H9028\|ם]] [[H0520A\|אַמּ֣וֹת]] [[H6242\|עֶשְׂרִ֑ים]] [[H3671\|כְּנַ֨ף]] [[H9009\|הָ]][[H0259\|אֶחָ֜ד]] [[H9005\|לְ]][[H0520A\|אַמּ֣וֹת]] [[H2568\|חָמֵ֗שׁ]] [[H5060\|מַגַּ֙עַת֙]] [[H9005\|לְ]][[H7023\|קִ֣יר]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H9002\|וְ]][[H9009\|הַ]][[H3671\|כָּנָ֤ף]] [[H9009\|הָ]][[H0312\|אַחֶ֙רֶת֙]] [[H0520A\|אַמּ֣וֹת]] [[H2568\|חָמֵ֔שׁ]] [[H5060\|מַגִּ֕יעַ]] [[H9005\|לִ]][[H3671\|כְנַ֖ף]] [[H9009\|הַ]][[H3742\|כְּר֥וּב]] [[H9009\|הָ]][[H0312\|אַחֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.10|<< 2 Chronicles 3:10]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.12|2 Chronicles 3:12 >>]]</td></tr></table>
 

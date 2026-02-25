@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 2:18
+type: Verse
+kjv: "And he set threescore and ten thousand of them to be bearers of burdens, and fourscore thousand to be hewers in the mountain, and three thousand and six hundred overseers to set the people a work."
+bsb: "Solomon made 70,000 of them porters, 80,000 stonecutters in the mountains, and 3,600 supervisors."
+hebrew: "וַיַּ֨עַשׂ מֵהֶ֜ם שִׁבְעִ֥ים אֶ֙לֶף֙ סַבָּ֔ל וּשְׁמֹנִ֥ים אֶ֖לֶף חֹצֵ֣ב בָּהָ֑ר וּשְׁלֹ֤שֶׁת אֲלָפִים֙ וְשֵׁ֣שׁ מֵא֔וֹת מְנַצְּחִ֖ים לְהַעֲבִ֥יד אֶת־ הָעָֽם׃"
+pericope: "[[2Chr.2.11 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H7657]]"
+- "[[H0505G]]"
+- "[[H5449]]"
+- "[[H9002]]"
+- "[[H8084]]"
+- "[[H2672]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H7969]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H5329]]"
+- "[[H9005]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:18**<big><big>[[2Chr.2.11 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set threescore and ten thousand of them [to be] bearers of burdens, and fourscore thousand [to be] hewers in the mountain, and three thousand and six hundred overseers to set the people a work.
 <small><sub>**BSB:**</sub></small>
 Solomon made 70,000 of them porters, 80,000 stonecutters in the mountains, and 3,600 supervisors.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֨עַשׂ]] [[H9006\|מֵ]][[H9038\|הֶ֜ם]] [[H7657\|שִׁבְעִ֥ים]] [[H0505G\|אֶ֙לֶף֙]] [[H5449\|סַבָּ֔ל]] [[H9002\|וּ]][[H8084\|שְׁמֹנִ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H2672\|חֹצֵ֣ב]] [[H9003\|בָּ]][[H2022H\|הָ֑ר]] [[H9002\|וּ]][[H7969\|שְׁלֹ֤שֶׁת]] [[H0505G\|אֲלָפִים֙]] [[H9002\|וְ]][[H8337\|שֵׁ֣שׁ]] [[H3967\|מֵא֔וֹת]] [[H5329\|מְנַצְּחִ֖ים]] [[H9005\|לְ]][[H5647G\|הַעֲבִ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.17|<< 2 Chronicles 2:17]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.1|2 Chronicles 3:1 >>]]</td></tr></table>
 

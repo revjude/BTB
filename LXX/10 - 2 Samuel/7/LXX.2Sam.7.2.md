@@ -1,6 +1,66 @@
+---
+title: LXX 2 Samuel 7:2
+type: Verse
+lxx: "that the king said to Nathan the prophet, Behold, indeed, I dwell in a house of cedar, and the ark  of God sits in the midst of the tent."
+greek: "και είπεν ο βασιλεύς προς Ναθάν τον προφήτην ιδού δη εγώ κατοικώ εν οίκω κεδρίνω και η κιβωτός του θεού κάθηται εν μέσω της σκηνής"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G4314]]"
+- "[[G3481]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G2400]]"
+- "[[G1211]]"
+- "[[G1473]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G3624]]"
+- "[[G7989]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2521]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G4633]]"
+---
+
 **LXX 2 Samuel 7:2** 
 <small><sub>**LXX:**</sub></small>
 that the king said to Nathan the prophet, Behold, indeed, I dwell in a house of cedar, and the ark  of God sits in \[the\] midst of the tent. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G4314\|προς]] [[G3481\|Ναθάν]] [[G3588\|τον]] [[G4396\|προφήτην]] [[G2400\|ιδού]] [[G1211\|δη]] [[G1473\|εγώ]] [[G2730\|κατοικώ]] [[G1722\|εν]] [[G3624\|οίκω]] [[G7989\|κεδρίνω]] [[G2532\|και]] [[G3588\|η]] [[G2787\|κιβωτός]] [[G3588\|του]] [[G2316\|θεού]] [[G2521\|κάθηται]] [[G1722\|εν]] [[G3319\|μέσω]] [[G3588\|της]] [[G4633\|σκηνής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic LIBERALITY|LIBERALITY]] • [[topic NATHAN|NATHAN]] • [[topic PALACE|PALACE]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.1|<< 2 Samuel 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.3|2 Samuel 7:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -35,6 +95,6 @@ that the king said to Nathan the prophet, Behold, indeed, I dwell in a house of 
 | \[the\] midst | **<big>[[G3319\|μέσω]]</big>** |
 | of the | **<big>[[G3588\|της]]</big>** |
 | tent. | **<big>[[G4633\|σκηνής]]</big>** |
-[[2Sam.7.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.1|<< 2 Samuel 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.3|2 Samuel 7:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.1|<< 2 Samuel 7:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.3|2 Samuel 7:3 >>]]</td></tr></table>
 
 

@@ -1,8 +1,65 @@
+---
+title: Exodus 18:3
+type: Verse
+kjv: "And her two sons; of which the name of the one was Gershom; for he said, I have been an alien in a strange land:"
+bsb: "along with her two sons. One son was named Gershom, for Moses had said, “I have been a foreigner in a foreign land.”"
+hebrew: "וְאֵ֖ת שְׁנֵ֣י בָנֶ֑יהָ אֲשֶׁ֨ר שֵׁ֤ם הָֽאֶחָד֙ גֵּֽרְשֹׁ֔ם כִּ֣י אָמַ֔ר גֵּ֣ר הָיִ֔יתִי בְּאֶ֖רֶץ נָכְרִיָּֽה׃"
+pericope: "[[Exod.18.1 The Visit of Jethro|The Visit of Jethro]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GERSHOM|GERSHOM]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic ZIPPORAH|ZIPPORAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H8147]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H0834A]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H1647G]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H1616]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:3**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her two sons; of which the name of the one [was] Gershom; for he said, I have been an alien in a strange land:
 <small><sub>**BSB:**</sub></small>
 along with her two sons. One son was named Gershom, for Moses had said, “I have been a foreigner in a foreign land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H8147\|שְׁנֵ֣י]] [[H1121A\|בָנֶ֑י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁ֨ר]] [[H8034\|שֵׁ֤ם]] [[H9009\|הָֽ]][[H0259\|אֶחָד֙]] [[H1647G\|גֵּֽרְשֹׁ֔ם]] [[H3588A\|כִּ֣י]] [[H0559\|אָמַ֔ר]] [[H1616\|גֵּ֣ר]] [[H1961\|הָיִ֔יתִי]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H5237\|נָכְרִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHOM|GERSHOM]] • [[topic MOSES|MOSES]] • [[topic ZIPPORAH|ZIPPORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.2|<< Exodus 18:2]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.4|Exodus 18:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

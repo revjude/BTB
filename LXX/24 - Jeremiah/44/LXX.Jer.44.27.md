@@ -1,6 +1,66 @@
+---
+title: LXX Jeremiah 44:27
+type: Verse
+lxx: "For behold, I have been vigilant against them,  to inflict hurt on them, and to not do good. And all Judah dwelling in the land of Egypt shall fail by broadsword, and by famine, until whenever they shall cease."
+greek: "ότι ιδού εγώ εγρήγορα επ΄ αυτούς του κακώσαι αυτούς και ουκ αγαθώσαι και εκλείψουσι πας Ιούδα οι κατοικούντες εν γη Αιγύπτω εν ρομφαία και εν λιμώ έως αν εκλείπωσι"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+strongs:
+- "[[G3754]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G1453]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2559]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G6107]]"
+- "[[G2532]]"
+- "[[G1587]]"
+- "[[G3956]]"
+- "[[G2448]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G1722]]"
+- "[[G4501]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3042]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G1587]]"
+---
+
 **LXX Jeremiah 44:27** 
 <small><sub>**LXX:**</sub></small>
 For behold, I have been vigilant against them,  to inflict hurt on them, and to not do good. And all Judah dwelling in \[the\] land of Egypt shall fail by broadsword, and by famine, until whenever they shall cease. 
+<small><sub>**Greek:**</sub></small>
+[[G3754\|ότι]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G1453\|εγρήγορα]] [[G1909\|επ΄]] [[G1473\|αυτούς]] [[G3588\|του]] [[G2559\|κακώσαι]] [[G1473\|αυτούς]] [[G2532\|και]] [[G3756\|ουκ]] [[G6107\|αγαθώσαι]] [[G2532\|και]] [[G1587\|εκλείψουσι]] [[G3956\|πας]] [[G2448\|Ιούδα]] [[G3588\|οι]] [[G2730\|κατοικούντες]] [[G1722\|εν]] [[G1093\|γη]] [[G0125\|Αιγύπτω]] [[G1722\|εν]] [[G4501\|ρομφαία]] [[G2532\|και]] [[G1722\|εν]] [[G3042\|λιμώ]] [[G2193\|έως]] [[G0302\|αν]] [[G1587\|εκλείπωσι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.44.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.26|<< Jeremiah 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.28|Jeremiah 44:28 >>]]</td></tr></table>
 
@@ -35,6 +95,6 @@ For behold, I have been vigilant against them,  to inflict hurt on them, and to 
 | until | **<big>[[G2193\|έως]]</big>** |
 | whenever | **<big>[[G0302\|αν]]</big>** |
 | they shall cease. | **<big>[[G1587\|εκλείπωσι]]</big>** |
-[[Jer.44.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.26|<< Jeremiah 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.28|Jeremiah 44:28 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.44.26|<< Jeremiah 44:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.44.28|Jeremiah 44:28 >>]]</td></tr></table>
 
 

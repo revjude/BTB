@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elisha Captures the Blinded Arameans
+type: Pericope
 pericope: "[[2Kgs.6.8 Elisha Captures the Blinded Arameans|Elisha Captures the Blinded Arameans]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 6
 book/chapter: "[[2Kgs.6|2 Kings 6]]"
-genre:
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 16
 verses:
 - "[[2Kgs.6.8]]"
 - "[[2Kgs.6.9]]"
@@ -34,7 +41,7 @@ verses:
 - "[[2Kgs.6.23]]"
 ---
 
-[[2Kgs.6|2 Kings 6:8 - 2 Kings 6:23]]
+<small>[[2Kgs.6|2 Kings 6:8-23]]</small>
 *Elisha Captures the Blinded Arameans*
 
 [[2Kgs.6.8|8]] Then the king of Syria warred against Israel, and took counsel with his servants, saying, In such and such a place \[shall be\] my camp.

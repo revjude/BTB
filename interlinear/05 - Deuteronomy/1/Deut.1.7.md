@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 1:7
+type: Verse
+kjv: "Turn you, and take your journey, and go to the mount of the Amorites, and unto all the places nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates."
+bsb: "Resume your journey and go to the hill country of the Amorites; go to all the neighboring peoples in the Arabah, in the hill country, in the foothills, in the Negev, and along the seacoast to the land of the Canaanites and to Lebanon, as far as the great River Euphrates."
+hebrew: "פְּנ֣וּ׀ וּסְע֣וּ לָכֶ֗ם וּבֹ֨אוּ הַ֥ר הָֽאֱמֹרִי֮ וְאֶל־ כָּל־ שְׁכֵנָיו֒ בָּעֲרָבָ֥ה בָהָ֛ר וּבַשְּׁפֵלָ֥ה וּבַנֶּ֖גֶב וּבְח֣וֹף הַיָּ֑ם אֶ֤רֶץ הַֽכְּנַעֲנִי֙ וְהַלְּבָנ֔וֹן עַד־ הַנָּהָ֥ר הַגָּדֹ֖ל נְהַר־ פְּרָֽת׃"
+pericope: "[[Deut.1.1 The Command to Leave Horeb|The Command to Leave Horeb]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic LEBANON|LEBANON]]"
+strongs:
+- "[[H6437G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H5265]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0935G]]"
+- "[[H2022H]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H7934]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H6160G]]"
+- "[[H8219]]"
+- "[[H5045G]]"
+- "[[H2348]]"
+- "[[H3220G]]"
+- "[[H0776G]]"
+- "[[H3669A]]"
+- "[[H3844G]]"
+- "[[H5704]]"
+- "[[H5104H]]"
+- "[[H1419A]]"
+- "[[H6578]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:7**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn you, and take your journey, and go to the mount of the Amorites, and unto all [the places] nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.
 <small><sub>**BSB:**</sub></small>
 Resume your journey and go to the hill country of the Amorites; go to all the neighboring peoples in the Arabah, in the hill country, in the foothills, in the Negev, and along the seacoast to the land of the Canaanites and to Lebanon, as far as the great River Euphrates.
+<small><sub>**Hebrew:**</sub></small>
+[[H6437G\|פְּנ֣וּ]][[H9015\|׀]] [[H9002\|וּ]][[H5265\|סְע֣וּ]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H9002\|וּ]][[H0935G\|בֹ֨אוּ]] [[H2022H\|הַ֥ר]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִי֮]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H7934\|שְׁכֵנָי]][[H9023\|ו֒]] [[H9003\|בָּ]][[H6160G\|עֲרָבָ֥ה]] [[H9003\|בָ]][[H2022H\|הָ֛ר]] [[H9002\|וּ]][[H9003\|בַ]][[H8219\|שְּׁפֵלָ֥ה]] [[H9002\|וּ]][[H9003\|בַ]][[H5045G\|נֶּ֖גֶב]] [[H9002\|וּ]][[H9003\|בְ]][[H2348\|ח֣וֹף]] [[H9009\|הַ]][[H3220G\|יָּ֑ם]] [[H0776G\|אֶ֤רֶץ]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3844G\|לְּבָנ֔וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H5104H\|נָּהָ֥ר]] [[H9009\|הַ]][[H1419A\|גָּדֹ֖ל]] [[H5104H\|נְהַר]][[H9014\|־]] [[H6578\|פְּרָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic EUPHRATES|EUPHRATES]] • [[topic LEBANON|LEBANON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.6|<< Deuteronomy 1:6]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.8|Deuteronomy 1:8 >>]]</td></tr></table>
 

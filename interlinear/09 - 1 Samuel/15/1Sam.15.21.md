@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 15:21
+type: Verse
+kjv: "But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal."
+bsb: "The troops took sheep and cattle from the plunder, the best of the things devoted to destruction, in order to sacrifice them to the LORD your God at Gilgal.”"
+hebrew: "וַיִּקַּ֨ח הָעָ֧ם מֵהַשָּׁלָ֛ל צֹ֥אן וּבָקָ֖ר רֵאשִׁ֣ית הַחֵ֑רֶם לִזְבֹּ֛חַ לַֽיהוָ֥ה אֱלֹהֶ֖יךָ בַּגִּלְגָּֽל׃"
+pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H7998]]"
+- "[[H6629G]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H7225H]]"
+- "[[H2764A]]"
+- "[[H9005]]"
+- "[[H2076]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H1537G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:21**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the LORD thy God in Gilgal.
 <small><sub>**BSB:**</sub></small>
 The troops took sheep and cattle from the plunder, the best of the things devoted to destruction, in order to sacrifice them to the LORD your God at Gilgal.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H9009\|הָ]][[H5971A\|עָ֧ם]] [[H9006\|מֵ]][[H9009\|הַ]][[H7998\|שָּׁלָ֛ל]] [[H6629G\|צֹ֥אן]] [[H9002\|וּ]][[H1241\|בָקָ֖ר]] [[H7225H\|רֵאשִׁ֣ית]] [[H9009\|הַ]][[H2764A\|חֵ֑רֶם]] [[H9005\|לִ]][[H2076\|זְבֹּ֛חַ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H9003\|בַּ]][[H1537G\|גִּלְגָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic RULERS|RULERS]] • [[topic SAUL|SAUL]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.20|<< 1 Samuel 15:20]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.22|1 Samuel 15:22 >>]]</td></tr></table>
 

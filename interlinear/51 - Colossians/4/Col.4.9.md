@@ -1,10 +1,55 @@
+---
+title: Colossians 4:9
+type: Verse
+kjv: "With Onesimus, a faithful and beloved brother, who is one of you. They shall make known unto you all things which are done here."
+bsb: "With him I am sending Onesimus, our faithful and beloved brother, who is one of you. They will tell you about everything here."
+greek: "σὺν Ὀνησίμῳ τῷ πιστῷ καὶ ἀγαπητῷ ἀδελφῷ, ὅς ἐστιν ἐξ ὑμῶν· πάντα ὑμῖν γνωρίσουσιν τὰ ὧδε.¶"
+pericope: "[[Col.4.7 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic ONESIMUS|ONESIMUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4862]]"
+- "[[G3682]]"
+- "[[G3588]]"
+- "[[G4103]]"
+- "[[G2532]]"
+- "[[G0027]]"
+- "[[G0080]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G3956]]"
+- "[[G1107]]"
+- "[[G5602]]"
+texts:
+- NKO
+---
+
 **Colossians 4:9**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 With Onesimus, a faithful and beloved brother, who is [one] of you. They shall make known unto you all things which [are done] here.
 <small><sub>**BSB:**</sub></small>
 With him I am sending Onesimus, our faithful and beloved brother, who is one of you. They will tell you about everything here.
-<small><sub>**Literal:**</sub></small>
-with Onesimus the faithful and beloved brother, who is [one] of you; All things to you they will make known <the> here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.8|<< Colossians 4:8]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.10|Colossians 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4862\|σὺν]]  [[G3682\|Ὀνησίμῳ]]  [[G3588\|τῷ]]  [[G4103\|πιστῷ]]  [[G2532\|καὶ]]  [[G0027\|ἀγαπητῷ]]  [[G0080\|ἀδελφῷ,]]  [[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν·]]  [[G3956\|πάντα]]  [[G4771\|ὑμῖν]]  [[G1107\|γνωρίσουσιν]]  [[G3588\|τὰ]]  [[G5602\|ὧδε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ONESIMUS|ONESIMUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.8|<< Colossians 4:8]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.10|Colossians 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

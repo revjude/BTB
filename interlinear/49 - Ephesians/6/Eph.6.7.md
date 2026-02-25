@@ -1,10 +1,52 @@
+---
+title: Ephesians 6:7
+type: Verse
+kjv: "With good will doing service, as to the Lord, and not to men:"
+bsb: "Serve with good will, as to the Lord and not to men,"
+greek: "μετ᾽ εὐνοίας δουλεύοντες ὡς τῷ κυρίῳ καὶ οὐκ ἀνθρώποις,"
+pericope: "[[Eph.6.5 Serving with Honor|Serving with Honor]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SINCERITY|SINCERITY]]"
+strongs:
+- "[[G3326]]"
+- "[[G2133]]"
+- "[[G1398]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **Ephesians 6:7**<big><big>[[Eph.6.5 Serving with Honor|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 With good will doing service, as to the Lord, and not to men:
 <small><sub>**BSB:**</sub></small>
 Serve with good will, as to the Lord and not to men,
-<small><sub>**Literal:**</sub></small>
-with good will rendering service as to the Lord and not to men,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.6|<< Ephesians 6:6]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.8|Ephesians 6:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|μετ᾽]]  [[G2133\|εὐνοίας]]  [[G1398\|δουλεύοντες]]  [[G5613\|ὡς]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0444\|ἀνθρώποις,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENT|JUDGMENT]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SERVANT|SERVANT]] • [[topic SINCERITY|SINCERITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.6|<< Ephesians 6:6]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.8|Ephesians 6:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

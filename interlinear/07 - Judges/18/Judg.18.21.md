@@ -1,8 +1,57 @@
+---
+title: Judges 18:21
+type: Verse
+kjv: "So they turned and departed, and put the little ones and the cattle and the carriage before them."
+bsb: "Putting their small children, their livestock, and their possessions in front of them, they turned and departed."
+hebrew: "וַיִּפְנ֖וּ וַיֵּלֵ֑כוּ וַיָּשִׂ֨ימוּ אֶת־ הַטַּ֧ף וְאֶת־ הַמִּקְנֶ֛ה וְאֶת־ הַכְּבוּדָּ֖ה לִפְנֵיהֶֽם׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H1980G]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2945]]"
+- "[[H9002]]"
+- "[[H4735]]"
+- "[[H3520B]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:21**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they turned and departed, and put the little ones and the cattle and the carriage before them.
 <small><sub>**BSB:**</sub></small>
 Putting their small children, their livestock, and their possessions in front of them, they turned and departed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּפְנ֖וּ]] [[H9001\|וַ]][[H1980G\|יֵּלֵ֑כוּ]] [[H9001\|וַ]][[H7760H\|יָּשִׂ֨ימוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2945\|טַּ֧ף]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4735\|מִּקְנֶ֛ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3520B\|כְּבוּדָּ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic JONATHAN|JONATHAN]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.20|<< Judges 18:20]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.22|Judges 18:22 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Luke 24:36
+type: Verse
+kjv: "And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you."
+bsb: "While they were describing these events, Jesus Himself stood among them and said, “Peace be with you.”"
+jesus_said: "Peace be unto you."
+greek: "Ταῦτα δὲ αὐτῶν λαλούντων αὐτὸς ὁ Ἰησοῦς ἔστη ἐν μέσῳ αὐτῶν καὶ λέγει αὐτοῖς· εἰρήνη ὑμῖν."
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2476]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G1515]]"
+- "[[G4771]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 24:36**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace [be] unto you.
 <small><sub>**BSB:**</sub></small>
 While they were describing these events, Jesus Himself stood among them and said, “Peace be with you.”
-<small><sub>**Literal:**</sub></small>
-These things now when they are  telling He Himself <the> Jesus stood in midst of them and says to them; Peace to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.35|<< Luke 24:35]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.37|Luke 24:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G2980\|λαλούντων]]  [[G0846\|αὐτὸς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2476\|ἔστη]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G1515\|εἰρήνη]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic TROUBLE|TROUBLE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.35|<< Luke 24:35]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.37|Luke 24:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

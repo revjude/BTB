@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cleansing a Home
+type: Pericope
 pericope: "[[Lev.14.48 Cleansing a Home|Cleansing a Home]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 14
 book/chapter: "[[Lev.14|Leviticus 14]]"
-genre:
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 10
 verses:
 - "[[Lev.14.48]]"
 - "[[Lev.14.49]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Lev.14.57]]"
 ---
 
-[[Lev.14|Leviticus 14:48 - Leviticus 14:57]]
+<small>[[Lev.14|Leviticus 14:48-57]]</small>
 *Cleansing a Home*
 
 [[Lev.14.48|48]] And if the priest shall come in, and look \[upon it\], and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed.

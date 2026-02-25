@@ -1,8 +1,56 @@
+---
+title: Job 23:12
+type: Verse
+kjv: "Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary food."
+bsb: "I have not departed from the command of His lips; I have treasured the words of His mouth more than my daily bread."
+hebrew: "מִצְוַ֣ת שְׂ֭פָתָיו וְלֹ֣א אָמִ֑ישׁ מֵ֝חֻקִּ֗י צָפַ֥נְתִּי אִמְרֵי־ פִֽיו׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H4687]]"
+- "[[H8193G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4185]]"
+- "[[H9006]]"
+- "[[H2706H]]"
+- "[[H9020]]"
+- "[[H6845]]"
+- "[[H0561]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:12**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither have I gone back from the commandment of his lips; I have esteemed the words of his mouth more than my necessary [food].
 <small><sub>**BSB:**</sub></small>
 I have not departed from the command of His lips; I have treasured the words of His mouth more than my daily bread.
+<small><sub>**Hebrew:**</sub></small>
+[[H4687\|מִצְוַ֣ת]] [[H8193G\|שְׂ֭פָתָי]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4185\|אָמִ֑ישׁ]] [[H9006\|מֵ֝]][[H2706H\|חֻקִּ֗]][[H9020\|י]] [[H6845\|צָפַ֥נְתִּי]] [[H0561\|אִמְרֵי]][[H9014\|־]] [[H6310G\|פִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.11|<< Job 23:11]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.13|Job 23:13 >>]]</td></tr></table>
 

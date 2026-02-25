@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 19:38
+type: Verse
+kjv: "And the king answered, Chimham shall go over with me, and I will do to him that which shall seem good unto thee: and whatsoever thou shalt require of me, that will I do for thee."
+bsb: "The king replied, “Chimham will cross over with me, and I will do for him what is good in your sight, and I will do for you whatever you desire of me.”"
+hebrew: "וַיֹּ֣אמֶר הַמֶּ֗לֶךְ אִתִּי֙ יַעֲבֹ֣ר כִּמְהָ֔ם וַאֲנִי֙ אֶעֱשֶׂה־ לּ֔וֹ אֶת־ הַטּ֖וֹב בְּעֵינֶ֑יךָ וְכֹ֛ל אֲשֶׁר־ תִּבְחַ֥ר עָלַ֖י אֶֽעֱשֶׂה־ לָּֽךְ׃"
+pericope: "[[2Sam.19.31 David’s Kindness to Barzillai|David’s Kindness to Barzillai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic CHIMHAM|CHIMHAM]]"
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H5674A]]"
+- "[[H3643]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:38**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king answered, Chimham shall go over with me, and I will do to him that which shall seem good unto thee: and whatsoever thou shalt require of me, [that] will I do for thee.
 <small><sub>**BSB:**</sub></small>
 The king replied, “Chimham will cross over with me, and I will do for him what is good in your sight, and I will do for you whatever you desire of me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H0854\|אִתִּ]][[H9030\|י֙]] [[H5674A\|יַעֲבֹ֣ר]] [[H3643\|כִּמְהָ֔ם]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H6213A\|אֶעֱשֶׂה]][[H9014\|־]] [[H9005\|לּ֔]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2896A\|טּ֖וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0977\|תִּבְחַ֥ר]] [[H5921A\|עָלַ֖]][[H9030\|י]] [[H6213A\|אֶֽעֱשֶׂה]][[H9014\|־]] [[H9005\|לָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic CHIMHAM|CHIMHAM]] • [[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.37|<< 2 Samuel 19:37]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.39|2 Samuel 19:39 >>]]</td></tr></table>
 

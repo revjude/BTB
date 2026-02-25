@@ -1,10 +1,66 @@
+---
+title: 1 Timothy 6:4
+type: Verse
+kjv: "He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,"
+bsb: "he is conceited and understands nothing. Instead, he has an unhealthy interest in controversies and disputes about words, out of which come envy, strife, abusive talk, evil suspicions,"
+greek: "τετύφωται μηδὲν ἐπιστάμενος ἀλλὰ νοσῶν περὶ ζητήσεις καὶ λογομαχίας, ἐξ ὧν γίνεται φθόνος, ἔρις, βλασφημίαι, ὑπόνοιαι πονηραί,"
+pericope: "[[1Tim.6.3 Reject False Doctrines|Reject False Doctrines]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 6
+book/chapter: "[[1Tim.6|1 Timothy 6]]"
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RAILING|RAILING]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G5187]]"
+- "[[G3367]]"
+- "[[G1987]]"
+- "[[G0235]]"
+- "[[G3552]]"
+- "[[G4012]]"
+- "[[G2214]]"
+- "[[G2532]]"
+- "[[G3055]]"
+- "[[G1537]]"
+- "[[G3739]]"
+- "[[G1096]]"
+- "[[G5355]]"
+- "[[G2054]]"
+- "[[G0988]]"
+- "[[G5283]]"
+- "[[G4190]]"
+texts:
+- NKO
+---
+
 **1 Timothy 6:4**<big><big>[[1Tim.6.3 Reject False Doctrines|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He is proud, knowing nothing, but doting about questions and strifes of words, whereof cometh envy, strife, railings, evil surmisings,
 <small><sub>**BSB:**</sub></small>
 he is conceited and understands nothing. Instead, he has an unhealthy interest in controversies and disputes about words, out of which come envy, strife, abusive talk, evil suspicions,
-<small><sub>**Literal:**</sub></small>
-he has been puffed up nothing knowing but unhealthy about controversies and disputes about words, out of which come envy, strife, slander, suspicions evil,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.3|<< 1 Timothy 6:3]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.5|1 Timothy 6:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5187\|τετύφωται]]  [[G3367\|μηδὲν]]  [[G1987\|ἐπιστάμενος]]  [[G0235\|ἀλλὰ]]  [[G3552\|νοσῶν]]  [[G4012\|περὶ]]  [[G2214\|ζητήσεις]]  [[G2532\|καὶ]]  [[G3055\|λογομαχίας,]]  [[G1537\|ἐξ]]  [[G3739\|ὧν]]  [[G1096\|γίνεται]]  [[G5355\|φθόνος,]]  [[G2054\|ἔρις,]]  [[G0988\|βλασφημίαι,]]  [[G5283\|ὑπόνοιαι]]  [[G4190\|πονηραί,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ENVY|ENVY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIDE|PRIDE]] • [[topic RAILING|RAILING]] • [[topic RICHES|RICHES]] • [[topic STRIFE|STRIFE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.6.3|<< 1 Timothy 6:3]]</td><td align="center" style="border:none;">[[1Tim.6|1 Timothy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.6.5|1 Timothy 6:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

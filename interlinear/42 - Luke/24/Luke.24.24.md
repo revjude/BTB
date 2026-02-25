@@ -1,10 +1,60 @@
+---
+title: Luke 24:24
+type: Verse
+kjv: "And certain of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not."
+bsb: "Then some of our companions went to the tomb and found it just as the women had described. But Him they did not see.”"
+greek: "καὶ ἀπῆλθόν τινες τῶν σὺν ἡμῖν ἐπὶ τὸ μνημεῖον καὶ εὗρον οὕτως καθὼς καὶ αἱ γυναῖκες εἶπον, αὐτὸν δὲ οὐκ εἶδον.¶"
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G4862]]"
+- "[[G3165]]"
+- "[[G1909]]"
+- "[[G3419]]"
+- "[[G2147]]"
+- "[[G3779]]"
+- "[[G2531]]"
+- "[[G1135G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1492H]]"
+texts:
+- NKO
+---
+
 **Luke 24:24**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And certain of them which were with us went to the sepulchre, and found [it] even so as the women had said: but him they saw not.
 <small><sub>**BSB:**</sub></small>
 Then some of our companions went to the tomb and found it just as the women had described. But Him they did not see.”
-<small><sub>**Literal:**</sub></small>
-And went some of those with us to the tomb and found [it] so even as also the women said, Him however not they saw.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.23|<< Luke 24:23]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.25|Luke 24:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0565\|ἀπῆλθόν]]  [[G5100\|τινες]]  [[G3588\|τῶν]]  [[G4862\|σὺν]]  [[G3165\|ἡμῖν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3419\|μνημεῖον]]  [[G2532\|καὶ]]  [[G2147\|εὗρον]]  [[G3779\|οὕτως]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G1135G\|γυναῖκες]]  [[G2036\|εἶπον,]]  [[G0846\|αὐτὸν]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G1492H\|εἶδον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.23|<< Luke 24:23]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.25|Luke 24:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

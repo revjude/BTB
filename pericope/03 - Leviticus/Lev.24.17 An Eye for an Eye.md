@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: An Eye for an Eye
+type: Pericope
 pericope: "[[Lev.24.17 An Eye for an Eye|An Eye for an Eye]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 24
 book/chapter: "[[Lev.24|Leviticus 24]]"
-genre:
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 7
 verses:
 - "[[Lev.24.17]]"
 - "[[Lev.24.18]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Lev.24.23]]"
 ---
 
-[[Lev.24|Leviticus 24:17 - Leviticus 24:23]]
+<small>[[Lev.24|Leviticus 24:17-23]]</small>
 *An Eye for an Eye*
 
 [[Lev.24.17|17]] And he that killeth any man shall surely be put to death.

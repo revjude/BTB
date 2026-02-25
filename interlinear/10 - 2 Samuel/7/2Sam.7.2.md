@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 7:2
+type: Verse
+kjv: "That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains."
+bsb: "he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of God remains in a tent.”"
+hebrew: "וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ אֶל־ נָתָ֣ן הַנָּבִ֔יא רְאֵ֣ה נָ֔א אָנֹכִ֥י יוֹשֵׁ֖ב בְּבֵ֣ית אֲרָזִ֑ים וַֽאֲרוֹן֙ הָֽאֱלֹהִ֔ים יֹשֵׁ֖ב בְּת֥וֹךְ הַיְרִיעָֽה׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5416H]]"
+- "[[H5030]]"
+- "[[H7200I]]"
+- "[[H4994]]"
+- "[[H0595]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0730]]"
+- "[[H9002]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H8432]]"
+- "[[H3407]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:2**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains.
 <small><sub>**BSB:**</sub></small>
 he said to Nathan the prophet, “Here I am, living in a house of cedar, while the ark of God remains in a tent.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5416H\|נָתָ֣ן]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H7200I\|רְאֵ֣ה]] [[H4994\|נָ֔א]] [[H0595\|אָנֹכִ֥י]] [[H3427\|יוֹשֵׁ֖ב]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H0730\|אֲרָזִ֑ים]] [[H9002\|וַֽ]][[H0727\|אֲרוֹן֙]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H3427\|יֹשֵׁ֖ב]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הַ]][[H3407\|יְרִיעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic LIBERALITY|LIBERALITY]] • [[topic NATHAN|NATHAN]] • [[topic PALACE|PALACE]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.1|<< 2 Samuel 7:1]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.3|2 Samuel 7:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

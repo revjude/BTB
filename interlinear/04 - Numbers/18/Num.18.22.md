@@ -1,8 +1,59 @@
+---
+title: Numbers 18:22
+type: Verse
+kjv: "Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die."
+bsb: "No longer may the Israelites come near to the Tent of Meeting, or they will incur guilt and die."
+hebrew: "וְלֹא־ יִקְרְב֥וּ ע֛וֹד בְּנֵ֥י יִשְׂרָאֵ֖ל אֶל־ אֹ֣הֶל מוֹעֵ֑ד לָשֵׂ֥את חֵ֖טְא לָמֽוּת׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7126G]]"
+- "[[H5750]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9005]]"
+- "[[H5375J]]"
+- "[[H2399]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:22**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die.
 <small><sub>**BSB:**</sub></small>
 No longer may the Israelites come near to the Tent of Meeting, or they will incur guilt and die.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7126G\|יִקְרְב֥וּ]] [[H5750\|ע֛וֹד]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9005\|לָ]][[H5375J\|שֵׂ֥את]] [[H2399\|חֵ֖טְא]] [[H9005\|לָ]][[H4191\|מֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.21|<< Numbers 18:21]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.23|Numbers 18:23 >>]]</td></tr></table>
 

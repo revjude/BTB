@@ -1,8 +1,53 @@
+---
+title: Hosea 8:8
+type: Verse
+kjv: "Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein is no pleasure."
+bsb: "Israel is swallowed up! Now they are among the nations like a worthless vessel."
+hebrew: "נִבְלַ֖ע יִשְׂרָאֵ֑ל עַתָּה֙ הָי֣וּ בַגּוֹיִ֔ם כִּכְלִ֖י אֵֽין־ חֵ֥פֶץ בּֽוֹ׃"
+pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 8
+book/chapter: "[[Hos.8|Hosea 8]]"
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H1104]]"
+- "[[H3478]]"
+- "[[H6258]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9004]]"
+- "[[H3627]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H2656]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 8:8**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein [is] no pleasure.
 <small><sub>**BSB:**</sub></small>
 Israel is swallowed up! Now they are among the nations like a worthless vessel.
+<small><sub>**Hebrew:**</sub></small>
+[[H1104\|נִבְלַ֖ע]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H6258\|עַתָּה֙]] [[H1961\|הָי֣וּ]] [[H9003\|בַ]][[H1471A\|גּוֹיִ֔ם]] [[H9004\|כִּ]][[H3627\|כְלִ֖י]] [[H0369\|אֵֽין]][[H9014\|־]] [[H2656\|חֵ֥פֶץ]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.7|<< Hosea 8:7]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.9|Hosea 8:9 >>]]</td></tr></table>
 

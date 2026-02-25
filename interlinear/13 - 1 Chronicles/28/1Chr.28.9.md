@@ -1,8 +1,84 @@
+---
+title: 1 Chronicles 28:9
+type: Verse
+kjv: "And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever."
+bsb: "As for you, Solomon my son, know the God of your father and serve Him wholeheartedly and with a willing mind, for the LORD searches every heart and understands the intent of every thought. If you seek Him, He will be found by you; but if you forsake Him, He will reject you forever."
+hebrew: "וְאַתָּ֣ה שְׁלֹמֹֽה־ בְנִ֡י דַּע֩ אֶת־ אֱלֹהֵ֨י אָבִ֜יךָ וְעָבְדֵ֗הוּ בְּלֵ֤ב שָׁלֵם֙ וּבְנֶ֣פֶשׁ חֲפֵצָ֔ה כִּ֤י כָל־ לְבָבוֹת֙ דּוֹרֵ֣שׁ יְהוָ֔ה וְכָל־ יֵ֥צֶר מַחֲשָׁב֖וֹת מֵבִ֑ין אִֽם־ תִּדְרְשֶׁ֙נּוּ֙ יִמָּ֣צֵא לָ֔ךְ וְאִם־ תַּֽעַזְבֶ֖נּוּ יַזְנִיחֲךָ֥ לָעַֽד׃"
+pericope: "[[1Chr.28.1 David Commissions Solomon|David Commissions Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IMAGINATION|IMAGINATION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H8010]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H5647H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H8003]]"
+- "[[H5315G]]"
+- "[[H2655]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H1875]]"
+- "[[H3068G]]"
+- "[[H3336]]"
+- "[[H4284]]"
+- "[[H0995]]"
+- "[[H0518A]]"
+- "[[H4672]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5800A]]"
+- "[[H2186A]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:9**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever.
 <small><sub>**BSB:**</sub></small>
 As for you, Solomon my son, know the God of your father and serve Him wholeheartedly and with a willing mind, for the LORD searches every heart and understands the intent of every thought. If you seek Him, He will be found by you; but if you forsake Him, He will reject you forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H8010\|שְׁלֹמֹֽה]][[H9014\|־]] [[H1121A\|בְנִ֡]][[H9020\|י]] [[H3045\|דַּע֩]] [[H0853\|אֶת]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֨י]] [[H0001G\|אָבִ֜י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5647H\|עָבְדֵ֗]][[H9033\|הוּ]] [[H9003\|בְּ]][[H3820A\|לֵ֤ב]] [[H8003\|שָׁלֵם֙]] [[H9002\|וּ]][[H9003\|בְ]][[H5315G\|נֶ֣פֶשׁ]] [[H2655\|חֲפֵצָ֔ה]] [[H3588A\|כִּ֤י]] [[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָבוֹת֙]] [[H1875\|דּוֹרֵ֣שׁ]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3336\|יֵ֥צֶר]] [[H4284\|מַחֲשָׁב֖וֹת]] [[H0995\|מֵבִ֑ין]] [[H0518A\|אִֽם]][[H9014\|־]] [[H1875\|תִּדְרְשֶׁ֙]][[H9033\|נּוּ֙]] [[H4672\|יִמָּ֣צֵא]] [[H9005\|לָ֔]][[H9031\|ךְ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5800A\|תַּֽעַזְבֶ֖]][[H9033\|נּוּ]] [[H2186A\|יַזְנִיחֲ]][[H9031\|ךָ֥]] [[H9005\|לָ]][[H5703\|עַֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic IMAGINATION|IMAGINATION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PENITENT|PENITENT]] • [[topic PERFECTION|PERFECTION]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.8|<< 1 Chronicles 28:8]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.10|1 Chronicles 28:10 >>]]</td></tr></table>
 

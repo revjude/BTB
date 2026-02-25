@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Eastern Tribes Return Home
+type: Pericope
 pericope: "[[Josh.22.1 The Eastern Tribes Return Home|The Eastern Tribes Return Home]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 22
 book/chapter: "[[Josh.22|Joshua 22]]"
-genre:
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 8
 verses:
 - "[[Josh.22.1]]"
 - "[[Josh.22.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Josh.22.8]]"
 ---
 
-[[Josh.22|Joshua 22:1 - Joshua 22:8]]
+<small>[[Josh.22|Joshua 22:1-8]]</small>
 *The Eastern Tribes Return Home*
 
 [[Josh.22.1|1]] Then Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,

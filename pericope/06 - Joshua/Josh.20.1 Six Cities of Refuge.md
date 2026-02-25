@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Six Cities of Refuge
+type: Pericope
 pericope: "[[Josh.20.1 Six Cities of Refuge|Six Cities of Refuge]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 20
 book/chapter: "[[Josh.20|Joshua 20]]"
-genre:
+chronological_order: 250
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 9
 verses:
 - "[[Josh.20.1]]"
 - "[[Josh.20.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Josh.20.9]]"
 ---
 
-[[Josh.20|Joshua 20:1 - Joshua 20:9]]
+<small>[[Josh.20|Joshua 20:1-9]]</small>
 *Six Cities of Refuge*
 
 [[Josh.20.1|1]] The LORD also spake unto Joshua, saying,

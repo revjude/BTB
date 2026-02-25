@@ -1,8 +1,57 @@
+---
+title: Psalm 135:3
+type: Verse
+kjv: "Praise the LORD; for the LORD is good: sing praises unto his name; for it is pleasant."
+bsb: "Hallelujah, for the LORD is good; sing praises to His name, for it is lovely."
+hebrew: "הַֽ֭לְלוּ־ יָהּ כִּי־ ט֣וֹב יְהוָ֑ה זַמְּר֥וּ לִ֝שְׁמ֗וֹ כִּ֣י נָעִֽים׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1984B]]"
+- "[[H9014]]"
+- "[[H3050]]"
+- "[[H3588A]]"
+- "[[H2896A]]"
+- "[[H3068G]]"
+- "[[H2167]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H5273A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:3**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise the LORD; for the LORD [is] good: sing praises unto his name; for [it is] pleasant.
 <small><sub>**BSB:**</sub></small>
 Hallelujah, for the LORD is good; sing praises to His name, for it is lovely.
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|הַֽ֭לְלוּ]][[H9014\|־]] [[H3050\|יָהּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H2896A\|ט֣וֹב]] [[H3068G\|יְהוָ֑ה]] [[H2167\|זַמְּר֥וּ]] [[H9005\|לִ֝]][[H8034\|שְׁמ֗]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]] [[H5273A\|נָעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.2|<< Psalms 135:2]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.4|Psalms 135:4 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Psalm 110:4
+type: Verse
+kjv: "The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
+bsb: "The LORD has sworn and will not change His mind: “You are a priest forever in the order of Melchizedek.”"
+hebrew: "נִשְׁבַּ֤ע יְהוָ֨ה׀ וְלֹ֥א יִנָּחֵ֗ם אַתָּֽה־ כֹהֵ֥ן לְעוֹלָ֑ם עַל־ דִּ֝בְרָתִ֗י מַלְכִּי־ צֶֽדֶק׃"
+pericope: "[[Ps.110.1 God’s Faithful Messiah|God’s Faithful Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 110
+book/chapter: "[[Ps.110|Psalm 110]]"
+chronological_order: 384
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ETERNITY|ETERNITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H7650]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5162H]]"
+- "[[H0859A]]"
+- "[[H9014]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H5921A]]"
+- "[[H1700]]"
+- "[[H4442]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 110:4**<big><big>[[Ps.110.1 God’s Faithful Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath sworn, and will not repent, Thou [art] a priest for ever after the order of Melchizedek.
 <small><sub>**BSB:**</sub></small>
 The LORD has sworn and will not change His mind: “You are a priest forever in the order of Melchizedek.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7650\|נִשְׁבַּ֤ע]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5162H\|יִנָּחֵ֗ם]] [[H0859A\|אַתָּֽה]][[H9014\|־]] [[H3548\|כֹהֵ֥ן]] [[H9005\|לְ]][[H5769G\|עוֹלָ֑ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1700\|דִּ֝בְרָתִ֗י]] [[H4442\|מַלְכִּי]][[H9014\|־]] [[H4442\|צֶֽדֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ETERNITY|ETERNITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.110.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.3|<< Psalms 110:3]]</td><td align="center" style="border:none;">[[Ps.110|Psalms 110]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110.5|Psalms 110:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

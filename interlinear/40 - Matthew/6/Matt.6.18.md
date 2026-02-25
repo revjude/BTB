@@ -1,10 +1,63 @@
+---
+title: Matthew 6:18
+type: Verse
+kjv: "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly."
+bsb: "so that your fasting will not be obvious to men, but only to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you."
+jesus_said: "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly."
+greek: "ὅπως μὴ φανῇς τοῖς ἀνθρώποις νηστεύων ἀλλὰ τῷ πατρί σου τῷ ἐν τῷ κρυφαίῳ. καὶ ὁ πατήρ σου ὁ βλέπων ἐν τῷ κρυφαίῳ ἀποδώσει σοι ἐν τῷ φανερῷ.¶"
+pericope: "[[Matt.6.16 Proper Fasting|Proper Fasting]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G3704]]"
+- "[[G3361]]"
+- "[[G5316]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3522]]"
+- "[[G0235]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G6058]]"
+- "[[G2532]]"
+- "[[G0991]]"
+- "[[G0591]]"
+- "[[G5318]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Matthew 6:18**<big><big>[[Matt.6.16 Proper Fasting|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.
 <small><sub>**BSB:**</sub></small>
 so that your fasting will not be obvious to men, but only to your Father, who is unseen. And your Father, who sees what is done in secret, will reward you.
-<small><sub>**Literal:**</sub></small>
-so that not may you appear <the> to men [as] fasting but <the> to Father of you the [One] in <the> secret. and the Father of you the [One] seeing in <the> secret will reward you in <the> public.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.17|<< Matthew 6:17]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.19|Matthew 6:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3704\|ὅπως]]  [[G3361\|μὴ]]  [[G5316\|φανῇς]]  [[G3588\|τοῖς]]  [[G0444\|ἀνθρώποις]]  [[G3522\|νηστεύων]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῷ]]  [[G3962\|πατρί]]  [[G4771\|σου]]  [[G3588\|τῷ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G6058\|κρυφαίῳ.]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G4771\|σου]]  [[G3588\|ὁ]]  [[G0991\|βλέπων]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G6058\|κρυφαίῳ]]  [[G0591\|ἀποδώσει]]  [[G4771\|σοι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5318\|φανερῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FASTING|FASTING]] • [[topic GOD|GOD]] • [[topic MOTIVE|MOTIVE]] • [[topic PHARISEES|PHARISEES]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.17|<< Matthew 6:17]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.19|Matthew 6:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

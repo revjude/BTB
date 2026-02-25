@@ -1,8 +1,66 @@
+---
+title: Ezekiel 36:11
+type: Verse
+kjv: "And I will multiply upon you man and beast; and they shall increase and bring fruit: and I will settle you after your old estates, and will do better unto you than at your beginnings: and ye shall know that I am the LORD."
+bsb: "I will fill you with people and animals, and they will multiply and be fruitful. I will make you as inhabited as you once were, and I will make you prosper more than before. Then you will know that I am the LORD."
+hebrew: "וְהִרְבֵּיתִ֧י עֲלֵיכֶ֛ם אָדָ֥ם וּבְהֵמָ֖ה וְרָב֣וּ וּפָר֑וּ וְהוֹשַׁבְתִּ֨י אֶתְכֶ֜ם כְּקַדְמֽוֹתֵיכֶ֗ם וְהֵטִֽבֹתִי֙ מֵרִאשֹׁ֣תֵיכֶ֔ם וִֽידַעְתֶּ֖ם כִּֽי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H6509]]"
+- "[[H3427]]"
+- "[[H0853]]"
+- "[[H9004]]"
+- "[[H6927]]"
+- "[[H9026]]"
+- "[[H3190]]"
+- "[[H9006]]"
+- "[[H7221]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:11**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will multiply upon you man and beast; and they shall increase and bring fruit: and I will settle you after your old estates, and will do better [unto you] than at your beginnings: and ye shall know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 I will fill you with people and animals, and they will multiply and be fruitful. I will make you as inhabited as you once were, and I will make you prosper more than before. Then you will know that I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7235A\|הִרְבֵּיתִ֧י]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֛ם]] [[H0120G\|אָדָ֥ם]] [[H9002\|וּ]][[H0929\|בְהֵמָ֖ה]] [[H9001\|וְ]][[H7235A\|רָב֣וּ]] [[H9001\|וּ]][[H6509\|פָר֑וּ]] [[H9001\|וְ]][[H3427\|הוֹשַׁבְתִּ֨י]] [[H0853\|אֶתְ]][[H9036\|כֶ֜ם]] [[H9004\|כְּ]][[H6927\|קַדְמֽוֹתֵי]][[H9026\|כֶ֗ם]] [[H9001\|וְ]][[H3190\|הֵטִֽבֹתִי֙]] [[H9006\|מֵ]][[H7221\|רִאשֹׁ֣תֵי]][[H9026\|כֶ֔ם]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֖ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.10|<< Ezekiel 36:10]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.12|Ezekiel 36:12 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Amos 2:8
+type: Verse
+kjv: "And they lay themselves down upon clothes laid to pledge by every altar, and they drink the wine of the condemned in the house of their god."
+bsb: "They lie down beside every altar on garments taken in pledge. And in the house of their God, they drink wine obtained through fines."
+hebrew: "וְעַל־ בְּגָדִ֤ים חֲבֻלִים֙ יַטּ֔וּ אֵ֖צֶל כָּל־ מִזְבֵּ֑חַ וְיֵ֤ין עֲנוּשִׁים֙ יִשְׁתּ֔וּ בֵּ֖ית אֱלֹהֵיהֶֽם׃"
+pericope: "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DEBT|DEBT]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PAWN|PAWN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H2254A]]"
+- "[[H5186]]"
+- "[[H0681]]"
+- "[[H3605]]"
+- "[[H4196]]"
+- "[[H3196]]"
+- "[[H6064]]"
+- "[[H8354]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 2:8**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they lay [themselves] down upon clothes laid to pledge by every altar, and they drink the wine of the condemned [in] the house of their god.
 <small><sub>**BSB:**</sub></small>
 They lie down beside every altar on garments taken in pledge. And in the house of their God, they drink wine obtained through fines.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0899B\|בְּגָדִ֤ים]] [[H2254A\|חֲבֻלִים֙]] [[H5186\|יַטּ֔וּ]] [[H0681\|אֵ֖צֶל]] [[H3605\|כָּל]][[H9014\|־]] [[H4196\|מִזְבֵּ֑חַ]] [[H9002\|וְ]][[H3196\|יֵ֤ין]] [[H6064\|עֲנוּשִׁים֙]] [[H8354\|יִשְׁתּ֔וּ]] [[H1004Q\|בֵּ֖ית]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBT|DEBT]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PAWN|PAWN]] • [[topic POOR|POOR]] • [[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.7|<< Amos 2:7]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.9|Amos 2:9 >>]]</td></tr></table>
 

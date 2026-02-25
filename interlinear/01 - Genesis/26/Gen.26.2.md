@@ -1,8 +1,62 @@
+---
+title: Genesis 26:2
+type: Verse
+kjv: "And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:"
+bsb: "The LORD appeared to Isaac and said, “Do not go down to Egypt. Settle in the land where I tell you."
+hebrew: "וַיֵּרָ֤א אֵלָיו֙ יְהוָ֔ה וַיֹּ֖אמֶר אַל־ תֵּרֵ֣ד מִצְרָ֑יְמָה שְׁכֹ֣ן בָּאָ֔רֶץ אֲשֶׁ֖ר אֹמַ֥ר אֵלֶֽיךָ׃"
+pericope: "[[Gen.26.1 God’s Promise to Isaac|God’s Promise to Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAAC|ISAAC]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3381]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:2**<big><big>[[Gen.26.1 God’s Promise to Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:
 <small><sub>**BSB:**</sub></small>
 The LORD appeared to Isaac and said, “Do not go down to Egypt. Settle in the land where I tell you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יֵּרָ֤א]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0408\|אַל]][[H9014\|־]] [[H3381\|תֵּרֵ֣ד]] [[H4714G\|מִצְרָ֑יְמָ]][[H9011\|ה]] [[H7931\|שְׁכֹ֣ן]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֖ר]] [[H0559\|אֹמַ֥ר]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic GOD|GOD]] • [[topic ISAAC|ISAAC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.1|<< Genesis 26:1]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.3|Genesis 26:3 >>]]</td></tr></table>
 

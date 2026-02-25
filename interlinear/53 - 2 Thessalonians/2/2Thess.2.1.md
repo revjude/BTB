@@ -1,10 +1,56 @@
+---
+title: 2 Thessalonians 2:1
+type: Verse
+kjv: "Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and by our gathering together unto him,"
+bsb: "Now concerning the coming of our Lord Jesus Christ and our being gathered together to Him, we ask you, brothers,"
+greek: "Ἐρωτῶμεν δὲ ὑμᾶς, ἀδελφοί, ὑπὲρ τῆς παρουσίας τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ καὶ ἡμῶν ἐπισυναγωγῆς ἐπ᾽ αὐτὸν"
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2065]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G3952]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G1997]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 2:1**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now we beseech you, brethren, by the coming of our Lord Jesus Christ, and [by] our gathering together unto him,
 <small><sub>**BSB:**</sub></small>
 Now concerning the coming of our Lord Jesus Christ and our being gathered together to Him, we ask you, brothers,
-<small><sub>**Literal:**</sub></small>
-We implore now you, brothers, by the coming of the Lord of us Jesus Christ and our gathering together unto Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.12|<< 2 Thessalonians 1:12]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.2|2 Thessalonians 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2065\|Ἐρωτῶμεν]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς,]]  [[G0080\|ἀδελφοί,]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῆς]]  [[G3952\|παρουσίας]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G2532\|καὶ]]  [[G3165\|ἡμῶν]]  [[G1997\|ἐπισυναγωγῆς]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.12|<< 2 Thessalonians 1:12]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.2|2 Thessalonians 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

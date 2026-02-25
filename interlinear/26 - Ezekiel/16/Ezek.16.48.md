@@ -1,8 +1,63 @@
+---
+title: Ezekiel 16:48
+type: Verse
+kjv: "As I live, saith the Lord GOD, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters."
+bsb: "As surely as I live, declares the Lord GOD, your sister Sodom and her daughters never did as you and your daughters have done."
+hebrew: "חַי־ אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם־ עָֽשְׂתָה֙ סְדֹ֣ם אֲחוֹתֵ֔ךְ הִ֖יא וּבְנוֹתֶ֑יהָ כַּאֲשֶׁ֣ר עָשִׂ֔ית אַ֖תְּ וּבְנוֹתָֽיִךְ׃"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0518H]]"
+- "[[H6213A]]"
+- "[[H5467]]"
+- "[[H0269]]"
+- "[[H9022]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9024]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0859C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:48**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] I live, saith the Lord GOD, Sodom thy sister hath not done, she nor her daughters, as thou hast done, thou and thy daughters.
 <small><sub>**BSB:**</sub></small>
 As surely as I live, declares the Lord GOD, your sister Sodom and her daughters never did as you and your daughters have done.
+<small><sub>**Hebrew:**</sub></small>
+[[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָ֗נִי]] [[H5002\|נְאֻם֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H0518H\|אִם]][[H9014\|־]] [[H6213A\|עָֽשְׂתָה֙]] [[H5467\|סְדֹ֣ם]] [[H0269\|אֲחוֹתֵ֔]][[H9022\|ךְ]] [[H1931\|הִ֖יא]] [[H9002\|וּ]][[H1323G\|בְנוֹתֶ֑י]][[H9024\|הָ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6213A\|עָשִׂ֔ית]] [[H0859C\|אַ֖תְּ]] [[H9002\|וּ]][[H1323G\|בְנוֹתָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.47|<< Ezekiel 16:47]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.49|Ezekiel 16:49 >>]]</td></tr></table>
 

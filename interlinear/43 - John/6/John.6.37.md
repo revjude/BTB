@@ -1,10 +1,62 @@
+---
+title: John 6:37
+type: Verse
+kjv: "All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out."
+bsb: "Everyone the Father gives Me will come to Me, and the one who comes to Me I will never drive away."
+jesus_said: "All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out."
+greek: "πᾶν ὃ δίδωσίν μοι ὁ πατὴρ πρὸς ἐμὲ ἥξει, καὶ τὸν ἐρχόμενον πρὸς ἐμὲ οὐ μὴ ἐκβάλω ἔξω,"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2240]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G1544]]"
+- "[[G1854]]"
+texts:
+- NKO
+---
+
 **John 6:37**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.
 <small><sub>**BSB:**</sub></small>
 Everyone the Father gives Me will come to Me, and the one who comes to Me I will never drive away.
-<small><sub>**Literal:**</sub></small>
-All that gives Me the Father to Me myself will come, and the [one] coming to Me myself certainly not shall I cast out,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.36|<< John 6:36]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.38|John 6:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶν]]  [[G3739\|ὃ]]  [[G1325\|δίδωσίν]]  [[G3165\|μοι]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G4314\|πρὸς]]  [[G1473\|ἐμὲ]]  [[G2240\|ἥξει,]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2064\|ἐρχόμενον]]  [[G4314\|πρὸς]]  [[G1473\|ἐμὲ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1544\|ἐκβάλω]]  [[G1854\|ἔξω,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.36|<< John 6:36]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.38|John 6:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

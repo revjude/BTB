@@ -1,8 +1,67 @@
+---
+title: Leviticus 2:13
+type: Verse
+kjv: "And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt."
+bsb: "And you shall season each of your grain offerings with salt. You must not leave the salt of the covenant of your God out of your grain offering; you are to add salt to each of your offerings."
+hebrew: "וְכָל־ קָרְבַּ֣ן מִנְחָתְךָ֮ בַּמֶּ֣לַח תִּמְלָח֒ וְלֹ֣א תַשְׁבִּ֗ית מֶ֚לַח בְּרִ֣ית אֱלֹהֶ֔יךָ מֵעַ֖ל מִנְחָתֶ֑ךָ עַ֥ל כָּל־ קָרְבָּנְךָ֖ תַּקְרִ֥יב מֶֽלַח׃ ס"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SALT|SALT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7133A]]"
+- "[[H4503G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H4417M]]"
+- "[[H4414B]]"
+- "[[H3808]]"
+- "[[H7673A]]"
+- "[[H1285]]"
+- "[[H0430G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H7126H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 2:13**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt.
 <small><sub>**BSB:**</sub></small>
 And you shall season each of your grain offerings with salt. You must not leave the salt of the covenant of your God out of your grain offering; you are to add salt to each of your offerings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7133A\|קָרְבַּ֣ן]] [[H4503G\|מִנְחָתְ]][[H9021\|ךָ֮]] [[H9003\|בַּ]][[H4417M\|מֶּ֣לַח]] [[H4414B\|תִּמְלָח֒]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7673A\|תַשְׁבִּ֗ית]] [[H4417M\|מֶ֚לַח]] [[H1285\|בְּרִ֣ית]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H4503G\|מִנְחָתֶ֑]][[H9021\|ךָ]] [[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H7133A\|קָרְבָּנְ]][[H9021\|ךָ֖]] [[H7126H\|תַּקְרִ֥יב]] [[H4417M\|מֶֽלַח]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic FIRST FRUITS|FIRST FRUITS]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SALT|SALT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.12|<< Leviticus 2:12]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.14|Leviticus 2:14 >>]]</td></tr></table>
 
@@ -24,7 +83,7 @@ And you shall season each of your grain offerings with salt. You must not leave 
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | present your  |**<big>&#8207;[[H7133A\|קָרְבָּנְ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| ka.re.ba.ne.<small><sup>[[HNcmsc]]</sup></small> Cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will present  |**<big>&#8207;[[H7126H\|תַּקְרִ֥יב]]&#8207; </big>**| tak.Riv<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| salt  |**<big>&#8207;[[H4417M\|מֶֽלַח]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Me.lach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| salt  |**<big>&#8207;[[H4417M\|מֶֽלַח]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Me.lach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.12|<< Leviticus 2:12]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.14|Leviticus 2:14 >>]]</td></tr></table>
 
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 119:27
+type: Verse
+kjv: "Make me to understand the way of thy precepts: so shall I talk of thy wondrous works."
+bsb: "Make clear to me the way of Your precepts; then I will meditate on Your wonders."
+hebrew: "דֶּֽרֶךְ־ פִּקּוּדֶ֥יךָ הֲבִינֵ֑נִי וְ֝אָשִׂ֗יחָה בְּנִפְלְאוֹתֶֽיךָ׃"
+pericope: "[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|Your Word Is a Lamp to My Feet - DALETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1870G]]"
+- "[[H9014]]"
+- "[[H6490]]"
+- "[[H9021]]"
+- "[[H0995]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H7878]]"
+- "[[H9003]]"
+- "[[H6381]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:27**<big><big>[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Make me to understand the way of thy precepts: so shall I talk of thy wondrous works.
 <small><sub>**BSB:**</sub></small>
 Make clear to me the way of Your precepts; then I will meditate on Your wonders.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870G\|דֶּֽרֶךְ]][[H9014\|־]] [[H6490\|פִּקּוּדֶ֥י]][[H9021\|ךָ]] [[H0995\|הֲבִינֵ֑]][[H9030\|נִי]] [[H9002\|וְ֝]][[H7878\|אָשִׂ֗יחָה]] [[H9003\|בְּ]][[H6381\|נִפְלְאוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic SPEAKING|SPEAKING]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.26|<< Psalms 119:26]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.28|Psalms 119:28 >>]]</td></tr></table>
 

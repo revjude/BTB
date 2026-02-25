@@ -1,8 +1,64 @@
+---
+title: Ezekiel 44:22
+type: Verse
+kjv: "Neither shall they take for their wives a widow, nor her that is put away: but they shall take maidens of the seed of the house of Israel, or a widow that had a priest before."
+bsb: "And they shall not marry a widow or a divorced woman, but must marry a virgin of the descendants of the house of Israel, or a widow of a priest."
+hebrew: "וְאַלְמָנָה֙ וּגְרוּשָׁ֔ה לֹֽא־ יִקְח֥וּ לָהֶ֖ם לְנָשִׁ֑ים כִּ֣י אִם־ בְּתוּלֹ֗ת מִזֶּ֙רַע֙ בֵּ֣ית יִשְׂרָאֵ֔ל וְהָֽאַלְמָנָה֙ אֲשֶׁ֣ר תִּֽהְיֶ֣ה אַלְמָנָ֔ה מִכֹּהֵ֖ן יִקָּֽחוּ׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H1644H]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3947I]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0802H]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H1330]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:22**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall they take for their wives a widow, nor her that is put away: but they shall take maidens of the seed of the house of Israel, or a widow that had a priest before.
 <small><sub>**BSB:**</sub></small>
 And they shall not marry a widow or a divorced woman, but must marry a virgin of the descendants of the house of Israel, or a widow of a priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0490\|אַלְמָנָה֙]] [[H9002\|וּ]][[H1644H\|גְרוּשָׁ֔ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3947I\|יִקְח֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H0802H\|נָשִׁ֑ים]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H1330\|בְּתוּלֹ֗ת]] [[H9006\|מִ]][[H2233H\|זֶּ֙רַע֙]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H9009\|הָֽ]][[H0490\|אַלְמָנָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|תִּֽהְיֶ֣ה]] [[H0490\|אַלְמָנָ֔ה]] [[H9006\|מִ]][[H3548\|כֹּהֵ֖ן]] [[H3947I\|יִקָּֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.21|<< Ezekiel 44:21]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.23|Ezekiel 44:23 >>]]</td></tr></table>
 

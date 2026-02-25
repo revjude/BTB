@@ -1,8 +1,66 @@
+---
+title: Judges 3:8
+type: Verse
+kjv: "Therefore the anger of the LORD was hot against Israel, and he sold them into the hand of Chushanrishathaim king of Mesopotamia: and the children of Israel served Chushanrishathaim eight years."
+bsb: "Then the anger of the LORD burned against Israel, and He sold them into the hand of Cushan-rishathaim king of Aram-naharaim, and the Israelites served him eight years."
+hebrew: "וַיִּֽחַר־ אַ֤ף יְהוָה֙ בְּיִשְׂרָאֵ֔ל וַֽיִּמְכְּרֵ֗ם בְּיַד֙ כּוּשַׁ֣ן רִשְׁעָתַ֔יִם מֶ֖לֶךְ אֲרַ֣ם נַהֲרָ֑יִם וַיַּעַבְד֧וּ בְנֵֽי־ יִשְׂרָאֵ֛ל אֶת־ כּוּשַׁ֥ן רִשְׁעָתַ֖יִם שְׁמֹנֶ֥ה שָׁנִֽים׃"
+pericope: "[[Judg.3.7 Othniel|Othniel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic CHUSHAN-RISHATHAIM|CHUSHAN-RISHATHAIM]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MESOPOTAMIA|MESOPOTAMIA]]"
+- "[[topic MISCEGENATION|MISCEGENATION]]"
+- "[[topic OTHNIEL|OTHNIEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H4376]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H3573]]"
+- "[[H4428G]]"
+- "[[H0763G]]"
+- "[[H5647G]]"
+- "[[H1121G]]"
+- "[[H0853]]"
+- "[[H8083]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:8**<big><big>[[Judg.3.7 Othniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the anger of the LORD was hot against Israel, and he sold them into the hand of Chushanrishathaim king of Mesopotamia: and the children of Israel served Chushanrishathaim eight years.
 <small><sub>**BSB:**</sub></small>
 Then the anger of the LORD burned against Israel, and He sold them into the hand of Cushan-rishathaim king of Aram-naharaim, and the Israelites served him eight years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֤ף]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַֽ]][[H4376\|יִּמְכְּרֵ֗]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַד֙]] [[H3573\|כּוּשַׁ֣ן]] [[H3573\|רִשְׁעָתַ֔יִם]] [[H4428G\|מֶ֖לֶךְ]] [[H0763G\|אֲרַ֣ם]] [[H0763G\|נַהֲרָ֑יִם]] [[H9001\|וַ]][[H5647G\|יַּעַבְד֧וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H0853\|אֶת]][[H9014\|־]] [[H3573\|כּוּשַׁ֥ן]] [[H3573\|רִשְׁעָתַ֖יִם]] [[H8083\|שְׁמֹנֶ֥ה]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ANGER|ANGER]] • [[topic CHUSHAN-RISHATHAIM|CHUSHAN-RISHATHAIM]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic ISRAEL|ISRAEL]] • [[topic MESOPOTAMIA|MESOPOTAMIA]] • [[topic MISCEGENATION|MISCEGENATION]] • [[topic OTHNIEL|OTHNIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.7|<< Judges 3:7]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.9|Judges 3:9 >>]]</td></tr></table>
 

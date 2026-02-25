@@ -1,8 +1,75 @@
+---
+title: Genesis 12:1
+type: Verse
+kjv: "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:"
+bsb: "Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ אַבְרָ֔ם לֶךְ־ לְךָ֛ מֵאַרְצְךָ֥ וּמִמּֽוֹלַדְתְּךָ֖ וּמִבֵּ֣ית אָבִ֑יךָ אֶל־ הָאָ֖רֶץ אֲשֶׁ֥ר אַרְאֶֽךָּ׃"
+pericope: "[[Gen.12.1 The Call of Abram|The Call of Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CALL|CALL]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HARAN|HARAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0087]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4138]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:1**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father’s house, unto a land that I will shew thee:
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0087\|אַבְרָ֔ם]] [[H1980G\|לֶךְ]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H9006\|מֵ]][[H0776G\|אַרְצְ]][[H9021\|ךָ֥]] [[H9002\|וּ]][[H9006\|מִ]][[H4138\|מּֽוֹלַדְתְּ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7200G\|אַרְאֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CALL|CALL]] • [[topic CANAAN|CANAAN]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic COVENANT|COVENANT]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HARAN|HARAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.32|<< Genesis 11:32]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.2|Genesis 12:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

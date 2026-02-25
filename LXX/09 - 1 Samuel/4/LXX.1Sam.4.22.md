@@ -1,6 +1,49 @@
+---
+title: LXX 1 Samuel 4:22
+type: Verse
+lxx: "And she said, The glory has been resettled from Israel, for the ark of God was taken."
+greek: "και είπεν απώκισται δόξα από Ισραήλ διότι ελήφθη η κιβωτός του θεού"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G6442]]"
+- "[[G1391]]"
+- "[[G0575]]"
+- "[[G2474]]"
+- "[[G1360]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G3588]]"
+- "[[G2316]]"
+---
+
 **LXX 1 Samuel 4:22** 
 <small><sub>**LXX:**</sub></small>
 And she said, \[The\] glory has been resettled from Israel, for the ark of God was taken. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G6442\|απώκισται]] [[G1391\|δόξα]] [[G0575\|από]] [[G2474\|Ισραήλ]] [[G1360\|διότι]] [[G2983\|ελήφθη]] [[G3588\|η]] [[G2787\|κιβωτός]] [[G3588\|του]] [[G2316\|θεού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic PARENTS|PARENTS]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.21|<< 1 Samuel 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.1|1 Samuel 5:1 >>]]</td></tr></table>
 
@@ -18,6 +61,6 @@ And she said, \[The\] glory has been resettled from Israel, for the ark of God w
 | ark | **<big>[[G2787\|κιβωτός]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | of God | **<big>[[G2316\|θεού]]</big>** |
-[[1Sam.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.21|<< 1 Samuel 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.1|1 Samuel 5:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.4.21|<< 1 Samuel 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.5.1|1 Samuel 5:1 >>]]</td></tr></table>
 
 

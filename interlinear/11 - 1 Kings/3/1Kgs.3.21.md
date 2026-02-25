@@ -1,8 +1,67 @@
+---
+title: 1 Kings 3:21
+type: Verse
+kjv: "And when I rose in the morning to give my child suck, behold, it was dead: but when I had considered it in the morning, behold, it was not my son, which I did bear."
+bsb: "The next morning, when I got up to nurse my son, I discovered he was dead. But when I examined him, I realized that he was not the son I had borne.”"
+hebrew: "וָאָקֻ֥ם בַּבֹּ֛קֶר לְהֵינִ֥יק אֶת־ בְּנִ֖י וְהִנֵּה־ מֵ֑ת וָאֶתְבּוֹנֵ֤ן אֵלָיו֙ בַּבֹּ֔קֶר וְהִנֵּ֛ה לֹֽא־ הָיָ֥ה בְנִ֖י אֲשֶׁ֥ר יָלָֽדְתִּי׃"
+pericope: "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9005]]"
+- "[[H3243]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H4191]]"
+- "[[H0995]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:21**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I rose in the morning to give my child suck, behold, it was dead: but when I had considered it in the morning, behold, it was not my son, which I did bear.
 <small><sub>**BSB:**</sub></small>
 The next morning, when I got up to nurse my son, I discovered he was dead. But when I examined him, I realized that he was not the son I had borne.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6965B\|אָקֻ֥ם]] [[H9003\|בַּ]][[H1242\|בֹּ֛קֶר]] [[H9005\|לְ]][[H3243\|הֵינִ֥יק]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנִ֖]][[H9020\|י]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H4191\|מֵ֑ת]] [[H9001\|וָ]][[H0995\|אֶתְבּוֹנֵ֤ן]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9003\|בַּ]][[H1242\|בֹּ֔קֶר]] [[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H1121A\|בְנִ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|יָלָֽדְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.20|<< 1 Kings 3:20]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.22|1 Kings 3:22 >>]]</td></tr></table>
 

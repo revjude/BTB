@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Appears by the Sea of Tiberias
+type: Pericope
 pericope: "[[John.21.1 Jesus Appears by the Sea of Tiberias|Jesus Appears by the Sea of Tiberias]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: John
 chapter: 21
 book/chapter: "[[John.21|John 21]]"
-genre:
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 14
 verses:
 - "[[John.21.1]]"
 - "[[John.21.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[John.21.14]]"
 ---
 
-[[John.21|John 21:1 - John 21:14]]
+<small>[[John.21|John 21:1-14]]</small>
 *Jesus Appears by the Sea of Tiberias*
 
 [[John.21.1|1]] After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he \[himself\].

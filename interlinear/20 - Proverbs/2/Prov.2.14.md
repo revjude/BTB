@@ -1,8 +1,55 @@
+---
+title: Proverbs 2:14
+type: Verse
+kjv: "Who rejoice to do evil, and delight in the frowardness of the wicked;"
+bsb: "from those who enjoy doing evil and rejoice in the twistedness of evil,"
+hebrew: "הַ֭שְּׂמֵחִים לַעֲשׂ֥וֹת רָ֑ע יָ֝גִ֗ילוּ בְּֽתַהְפֻּכ֥וֹת רָֽע׃"
+pericope: "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9009]]"
+- "[[H8056]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H7451B]]"
+- "[[H1523]]"
+- "[[H9003]]"
+- "[[H8419]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 2:14**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who rejoice to do evil, [and] delight in the frowardness of the wicked;
 <small><sub>**BSB:**</sub></small>
 from those who enjoy doing evil and rejoice in the twistedness of evil,
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ֭]][[H8056\|שְּׂמֵחִים]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H7451B\|רָ֑ע]] [[H1523\|יָ֝גִ֗ילוּ]] [[H9003\|בְּֽ]][[H8419\|תַהְפֻּכ֥וֹת]] [[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.13|<< Proverbs 2:13]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.15|Proverbs 2:15 >>]]</td></tr></table>
 

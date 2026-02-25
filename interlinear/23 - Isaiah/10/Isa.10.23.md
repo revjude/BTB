@@ -1,8 +1,59 @@
+---
+title: Isaiah 10:23
+type: Verse
+kjv: "For the Lord GOD of hosts shall make a consumption, even determined, in the midst of all the land."
+bsb: "For the Lord GOD of Hosts will carry out the destruction decreed upon the whole land."
+hebrew: "כִּ֥י כָלָ֖ה וְנֶחֱרָצָ֑ה אֲדֹנָ֤י יְהוִה֙ צְבָא֔וֹת עֹשֶׂ֖ה בְּקֶ֥רֶב כָּל־ הָאָֽרֶץ׃ ס"
+pericope: "[[Isa.10.20 A Remnant Shall Return|A Remnant Shall Return]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3617]]"
+- "[[H9002]]"
+- "[[H2782]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6635B]]"
+- "[[H6213H]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 10:23**<big><big>[[Isa.10.20 A Remnant Shall Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Lord GOD of hosts shall make a consumption, even determined, in the midst of all the land.
 <small><sub>**BSB:**</sub></small>
 For the Lord GOD of Hosts will carry out the destruction decreed upon the whole land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H3617\|כָלָ֖ה]] [[H9002\|וְ]][[H2782\|נֶחֱרָצָ֑ה]] [[H0136\|אֲדֹנָ֤י]] [[H3069\|יְהוִה֙]] [[H6635B\|צְבָא֔וֹת]] [[H6213H\|עֹשֶׂ֖ה]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.22|<< Isaiah 10:22]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.24|Isaiah 10:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -21,7 +72,7 @@ For the Lord GOD of Hosts will carry out the destruction decreed upon the whole 
 | [is] about to do  |**<big>&#8207;[[H6213H\|עֹשֶׂ֖ה]]&#8207; </big>**| 'o.Seh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] midst of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קֶ֥רֶב]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Ke.rev<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.22|<< Isaiah 10:22]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.24|Isaiah 10:24 >>]]</td></tr></table>
 
 

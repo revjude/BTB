@@ -1,8 +1,57 @@
+---
+title: Deuteronomy 33:4
+type: Verse
+kjv: "Moses commanded us a law, even the inheritance of the congregation of Jacob."
+bsb: "the law that Moses gave us, the possession of the assembly of Jacob."
+hebrew: "תּוֹרָ֥ה צִוָּה־ לָ֖נוּ מֹשֶׁ֑ה מוֹרָשָׁ֖ה קְהִלַּ֥ת יַעֲקֹֽב׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+strongs:
+- "[[H8451]]"
+- "[[H6680]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H4872]]"
+- "[[H4181]]"
+- "[[H6952]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:4**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moses commanded us a law, [even] the inheritance of the congregation of Jacob.
 <small><sub>**BSB:**</sub></small>
 the law that Moses gave us, the possession of the assembly of Jacob.
+<small><sub>**Hebrew:**</sub></small>
+[[H8451\|תּוֹרָ֥ה]] [[H6680\|צִוָּה]][[H9014\|־]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H4872\|מֹשֶׁ֑ה]] [[H4181\|מוֹרָשָׁ֖ה]] [[H6952\|קְהִלַּ֥ת]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic LAW|LAW]] • [[topic THEOCRACY|THEOCRACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.3|<< Deuteronomy 33:3]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.5|Deuteronomy 33:5 >>]]</td></tr></table>
 

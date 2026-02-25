@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 6:49
+type: Verse
+kjv: "But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded."
+bsb: "But Aaron and his sons did all the work of the Most Holy Place. They presented the offerings on the altar of burnt offering and on the altar of incense to make atonement for Israel, according to all that Moses the servant of God had commanded."
+hebrew: "וְֽאַהֲרֹ֨ן וּבָנָ֜יו מַקְטִירִ֨ים עַל־ מִזְבַּ֤ח הָֽעוֹלָה֙ וְעַל־ מִזְבַּ֣ח הַקְּטֹ֔רֶת לְכֹ֕ל מְלֶ֖אכֶת קֹ֣דֶשׁ הַקֳּדָשִׁ֑ים וּלְכַפֵּר֙ עַל־ יִשְׂרָאֵ֔ל כְּכֹל֙ אֲשֶׁ֣ר צִוָּ֔ה מֹשֶׁ֖ה עֶ֥בֶד הָאֱלֹהִֽים׃ פ"
+pericope: "[[1Chr.6.48 The Descendants of Aaron|The Descendants of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H6999H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H7004]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H6944H]]"
+- "[[H3722A]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:49**<big><big>[[1Chr.6.48 The Descendants of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, [and were appointed] for all the work of the [place] most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.
 <small><sub>**BSB:**</sub></small>
 But Aaron and his sons did all the work of the Most Holy Place. They presented the offerings on the altar of burnt offering and on the altar of incense to make atonement for Israel, according to all that Moses the servant of God had commanded.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0175\|אַהֲרֹ֨ן]] [[H9002\|וּ]][[H1121A\|בָנָ֜י]][[H9023\|ו]] [[H6999H\|מַקְטִירִ֨ים]] [[H5921A\|עַל]][[H9014\|־]] [[H4196\|מִזְבַּ֤ח]] [[H9009\|הָֽ]][[H5930A\|עוֹלָה֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4196\|מִזְבַּ֣ח]] [[H9009\|הַ]][[H7004\|קְּטֹ֔רֶת]] [[H9005\|לְ]][[H3605\|כֹ֕ל]] [[H4399\|מְלֶ֖אכֶת]] [[H6944H\|קֹ֣דֶשׁ]] [[H9009\|הַ]][[H6944H\|קֳּדָשִׁ֑ים]] [[H9002\|וּ]][[H9005\|לְ]][[H3722A\|כַפֵּר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9004\|כְּ]][[H3605\|כֹל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֔ה]] [[H4872\|מֹשֶׁ֖ה]] [[H5650\|עֶ֥בֶד]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.48|<< 1 Chronicles 6:48]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.50|1 Chronicles 6:50 >>]]</td></tr></table>
 
@@ -29,7 +82,7 @@ But Aaron and his sons did all the work of the Most Holy Place. They presented t
 | he had commanded  |**<big>&#8207;[[H6680\|צִוָּ֔ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Moses  |**<big>&#8207;[[H4872\|מֹשֶׁ֖ה]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] servant of  |**<big>&#8207;[[H5650\|עֶ֥בֶד]]&#8207; </big>**| 'E.ved<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.48|<< 1 Chronicles 6:48]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.50|1 Chronicles 6:50 >>]]</td></tr></table>
 
 

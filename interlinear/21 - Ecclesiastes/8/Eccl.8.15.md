@@ -1,8 +1,74 @@
+---
+title: Ecclesiastes 8:15
+type: Verse
+kjv: "Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun."
+bsb: "So I commended the enjoyment of life, because there is nothing better for a man under the sun than to eat and drink and be merry. For this joy will accompany him in his labor during the days of his life that God gives him under the sun."
+hebrew: "וְשִׁבַּ֤חְתִּֽי אֲנִי֙ אֶת־ הַשִּׂמְחָ֔ה אֲשֶׁ֨ר אֵֽין־ ט֤וֹב לָֽאָדָם֙ תַּ֣חַת הַשֶּׁ֔מֶשׁ כִּ֛י אִם־ לֶאֱכ֥וֹל וְלִשְׁתּ֖וֹת וְלִשְׂמ֑וֹחַ וְה֞וּא יִלְוֶ֣נּוּ בַעֲמָל֗וֹ יְמֵ֥י חַיָּ֛יו אֲשֶׁר־ נָֽתַן־ ל֥וֹ הָאֱלֹהִ֖ים תַּ֥חַת הַשָּֽׁמֶשׁ׃"
+pericope: "[[Eccl.8.14 God’s Ways Are Mysterious|God’s Ways Are Mysterious]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 8
+book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SENSUALITY|SENSUALITY]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7623B]]"
+- "[[H0589]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8057]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H8478G]]"
+- "[[H8121]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H8055]]"
+- "[[H1931]]"
+- "[[H3867A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5999]]"
+- "[[H9023]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H5414G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 8:15**<big><big>[[Eccl.8.14 God’s Ways Are Mysterious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be merry: for that shall abide with him of his labour the days of his life, which God giveth him under the sun.
 <small><sub>**BSB:**</sub></small>
 So I commended the enjoyment of life, because there is nothing better for a man under the sun than to eat and drink and be merry. For this joy will accompany him in his labor during the days of his life that God gives him under the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7623B\|שִׁבַּ֤חְתִּֽי]] [[H0589\|אֲנִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8057\|שִּׂמְחָ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H2896A\|ט֤וֹב]] [[H9005\|לָֽ]][[H0120G\|אָדָם֙]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H8121\|שֶּׁ֔מֶשׁ]] [[H3588B\|כִּ֛י]] [[H0518B\|אִם]][[H9014\|־]] [[H9005\|לֶ]][[H0398\|אֱכ֥וֹל]] [[H9002\|וְ]][[H9005\|לִ]][[H8354\|שְׁתּ֖וֹת]] [[H9002\|וְ]][[H9005\|לִ]][[H8055\|שְׂמ֑וֹחַ]] [[H9002\|וְ]][[H1931\|ה֞וּא]] [[H3867A\|יִלְוֶ֣]][[H9033\|נּוּ]] [[H9003\|בַ]][[H5999\|עֲמָל֗]][[H9023\|וֹ]] [[H3117G\|יְמֵ֥י]] [[H2416E\|חַיָּ֛י]][[H9023\|ו]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָֽתַן]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H8478G\|תַּ֥חַת]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTENTMENT|CONTENTMENT]] • [[topic GOD|GOD]] • [[topic SENSUALITY|SENSUALITY]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.8.14|<< Ecclesiastes 8:14]]</td><td align="center" style="border:none;">[[Eccl.8|Ecclesiastes 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.8.16|Ecclesiastes 8:16 >>]]</td></tr></table>
 

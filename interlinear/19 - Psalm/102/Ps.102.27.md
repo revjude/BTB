@@ -1,8 +1,57 @@
+---
+title: Psalm 102:27
+type: Verse
+kjv: "But thou art the same, and thy years shall have no end."
+bsb: "But You remain the same, and Your years will never end."
+hebrew: "וְאַתָּה־ ה֑וּא וּ֝שְׁנוֹתֶ֗יךָ לֹ֣א יִתָּֽמּוּ׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H8141]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H8552]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:27**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou [art] the same, and thy years shall have no end.
 <small><sub>**BSB:**</sub></small>
 But You remain the same, and Your years will never end.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּה]][[H9014\|־]] [[H1931\|ה֑וּא]] [[H9002\|וּ֝]][[H8141\|שְׁנוֹתֶ֗י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H8552\|יִתָּֽמּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.26|<< Psalms 102:26]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.28|Psalms 102:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,58 @@
+---
+title: 2 Timothy 1:6
+type: Verse
+kjv: "Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands."
+bsb: "For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands."
+greek: "Δι᾽ ἣν αἰτίαν ἀναμιμνῄσκω σε ἀναζωπυρεῖν τὸ χάρισμα τοῦ θεοῦ, ὅ ἐστιν ἐν σοὶ διὰ τῆς ἐπιθέσεως τῶν χειρῶν μου·"
+pericope: "[[2Tim.1.3 Faithfulness under Persecution|Faithfulness under Persecution]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HAND|HAND]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G0156]]"
+- "[[G0363]]"
+- "[[G4771]]"
+- "[[G0329]]"
+- "[[G3588]]"
+- "[[G5486]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1936]]"
+- "[[G5495]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:6**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore I put thee in remembrance that thou stir up the gift of God, which is in thee by the putting on of my hands.
 <small><sub>**BSB:**</sub></small>
 For this reason I remind you to fan into flame the gift of God, which is in you through the laying on of my hands.
-<small><sub>**Literal:**</sub></small>
-For this reason I remind you to kindle anew the gift <the> of God, which is in you through the laying on of the hands of mine;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.5|<< 2 Timothy 1:5]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.7|2 Timothy 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|Δι᾽]]  [[G3739\|ἣν]]  [[G0156\|αἰτίαν]]  [[G0363\|ἀναμιμνῄσκω]]  [[G4771\|σε]]  [[G0329\|ἀναζωπυρεῖν]]  [[G3588\|τὸ]]  [[G5486\|χάρισμα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G1936\|ἐπιθέσεως]]  [[G3588\|τῶν]]  [[G5495\|χειρῶν]]  [[G3165\|μου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HAND|HAND]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.5|<< 2 Timothy 1:5]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.7|2 Timothy 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

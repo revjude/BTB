@@ -1,8 +1,64 @@
+---
+title: Numbers 13:18
+type: Verse
+kjv: "And see the land, what it is; and the people that dwelleth therein, whether they be strong or weak, few or many;"
+bsb: "See what the land is like and whether its people are strong or weak, few or many."
+hebrew: "וּרְאִיתֶ֥ם אֶת־ הָאָ֖רֶץ מַה־ הִ֑וא וְאֶת־ הָעָם֙ הַיֹּשֵׁ֣ב עָלֶ֔יהָ הֶחָזָ֥ק הוּא֙ הֲרָפֶ֔ה הַמְעַ֥ט ה֖וּא אִם־ רָֽב׃"
+pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H4100]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9008]]"
+- "[[H2389]]"
+- "[[H7504]]"
+- "[[H4592]]"
+- "[[H0518A]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:18**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And see the land, what it [is]; and the people that dwelleth therein, whether they [be] strong or weak, few or many;
 <small><sub>**BSB:**</sub></small>
 See what the land is like and whether its people are strong or weak, few or many.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H7200G\|רְאִיתֶ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H4100\|מַה]][[H9014\|־]] [[H1931\|הִ֑וא]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9009\|הַ]][[H3427\|יֹּשֵׁ֣ב]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9008\|הֶ]][[H2389\|חָזָ֥ק]] [[H1931\|הוּא֙]] [[H9008\|הֲ]][[H7504\|רָפֶ֔ה]] [[H9008\|הַ]][[H4592\|מְעַ֥ט]] [[H1931\|ה֖וּא]] [[H0518A\|אִם]][[H9014\|־]] [[H7227A\|רָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.17|<< Numbers 13:17]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.19|Numbers 13:19 >>]]</td></tr></table>
 

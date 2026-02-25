@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 5:7
+type: Verse
+kjv: "Thou shalt have none other gods before me."
+bsb: "You shall have no other gods before Me."
+hebrew: "לֹ֣א יִהְיֶ֥ה־ לְךָ֛֩ אֱלֹהִ֥֨ים אֲחֵרִ֖֜ים עַל־ פָּנָֽ֗יַ׃"
+pericope: "[[Deut.5.5 The Ten Commandments|The Ten Commandments]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 5
+book/chapter: "[[Deut.5|Deuteronomy 5]]"
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L(p)
+- L
+---
+
 **Deuteronomy 5:7**<big><big>[[Deut.5.5 The Ten Commandments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt have none other gods before me.
 <small><sub>**BSB:**</sub></small>
 You shall have no other gods before Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H1961\|יִהְיֶ֥ה]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֛֩]] [[H0430\|אֱלֹהִ֥֨ים]] [[H0312\|אֲחֵרִ֖֜ים]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פָּנָֽ֗]][[H9020\|יַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECALOGUE|DECALOGUE]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic TABLE|TABLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.5.6|<< Deuteronomy 5:6]]</td><td align="center" style="border:none;">[[Deut.5|Deuteronomy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.5.8|Deuteronomy 5:8 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: Leviticus 16:27
+type: Verse
+kjv: "And the bullock for the sin offering, and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, shall one carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung."
+bsb: "The bull for the sin offering and the goat for the sin offering, whose blood was brought into the Most Holy Place to make atonement, must be taken outside the camp; and their hides, flesh, and dung must be burned up."
+hebrew: "וְאֵת֩ פַּ֨ר הַֽחַטָּ֜את וְאֵ֣ת׀ שְׂעִ֣יר הַֽחַטָּ֗את אֲשֶׁ֨ר הוּבָ֤א אֶת־ דָּמָם֙ לְכַפֵּ֣ר בַּקֹּ֔דֶשׁ יוֹצִ֖יא אֶל־ מִח֣וּץ לַֽמַּחֲנֶ֑ה וְשָׂרְפ֣וּ בָאֵ֔שׁ אֶת־ עֹרֹתָ֥ם וְאֶת־ בְּשָׂרָ֖ם וְאֶת־ פִּרְשָֽׁם׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H6499]]"
+- "[[H9009]]"
+- "[[H2403H]]"
+- "[[H9015]]"
+- "[[H8163B]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H3722A]]"
+- "[[H9003]]"
+- "[[H6944J]]"
+- "[[H3318H]]"
+- "[[H0413]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H4264]]"
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H0784]]"
+- "[[H5785]]"
+- "[[H1320]]"
+- "[[H6569]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:27**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the bullock [for] the sin offering, and the goat [for] the sin offering, whose blood was brought in to make atonement in the holy [place], shall [one] carry forth without the camp; and they shall burn in the fire their skins, and their flesh, and their dung.
 <small><sub>**BSB:**</sub></small>
 The bull for the sin offering and the goat for the sin offering, whose blood was brought into the Most Holy Place to make atonement, must be taken outside the camp; and their hides, flesh, and dung must be burned up.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֩]] [[H6499\|פַּ֨ר]] [[H9009\|הַֽ]][[H2403H\|חַטָּ֜את]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H8163B\|שְׂעִ֣יר]] [[H9009\|הַֽ]][[H2403H\|חַטָּ֗את]] [[H0834A\|אֲשֶׁ֨ר]] [[H0935P\|הוּבָ֤א]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמָ]][[H9028\|ם֙]] [[H9005\|לְ]][[H3722A\|כַפֵּ֣ר]] [[H9003\|בַּ]][[H6944J\|קֹּ֔דֶשׁ]] [[H3318H\|יוֹצִ֖יא]] [[H0413\|אֶל]][[H9014\|־]] [[H9006\|מִ]][[H2351\|ח֣וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H9001\|וְ]][[H8313\|שָׂרְפ֣וּ]] [[H9003\|בָ]][[H0784\|אֵ֔שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5785\|עֹרֹתָ֥]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂרָ֖]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6569\|פִּרְשָֽׁ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic SANITATION|SANITATION]] • [[topic SCAPEGOAT|SCAPEGOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.26|<< Leviticus 16:26]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.28|Leviticus 16:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 19:32
+type: Verse
+kjv: "Now Barzillai was a very aged man, even fourscore years old: and he had provided the king of sustenance while he lay at Mahanaim; for he was a very great man."
+bsb: "Barzillai was quite old, eighty years of age, and since he was a very wealthy man, he had provided for the king while he stayed in Mahanaim."
+hebrew: "וּבַרְזִלַּי֙ זָקֵ֣ן מְאֹ֔ד בֶּן־ שְׁמֹנִ֖ים שָׁנָ֑ה וְהֽוּא־ כִלְכַּ֤ל אֶת־ הַמֶּ֙לֶךְ֙ בְּשִׁיבָת֣וֹ בְמַחֲנַ֔יִם כִּֽי־ אִ֛ישׁ גָּד֥וֹל ה֖וּא מְאֹֽד׃"
+pericope: "[[2Sam.19.31 David’s Kindness to Barzillai|David’s Kindness to Barzillai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic LOYALTY|LOYALTY]]"
+strongs:
+- "[[H9002]]"
+- "[[H1271G]]"
+- "[[H2204]]"
+- "[[H3966]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8084]]"
+- "[[H8141]]"
+- "[[H1931]]"
+- "[[H3557]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H7871]]"
+- "[[H9023]]"
+- "[[H4266]]"
+- "[[H3588A]]"
+- "[[H0376G]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **2 Samuel 19:32**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Barzillai was a very aged man, [even] fourscore years old: and he had provided the king of sustenance while he lay at Mahanaim; for he [was] a very great man.
 <small><sub>**BSB:**</sub></small>
 Barzillai was quite old, eighty years of age, and since he was a very wealthy man, he had provided for the king while he stayed in Mahanaim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1271G\|בַרְזִלַּי֙]] [[H2204\|זָקֵ֣ן]] [[H3966\|מְאֹ֔ד]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8084\|שְׁמֹנִ֖ים]] [[H8141\|שָׁנָ֑ה]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H3557\|כִלְכַּ֤ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9003\|בְּ]][[H7871\|שִׁיבָת֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H4266\|מַחֲנַ֔יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0376G\|אִ֛ישׁ]] [[H1419A\|גָּד֥וֹל]] [[H1931\|ה֖וּא]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic CITIZENS|CITIZENS]] • [[topic DAVID|DAVID]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LONGEVITY|LONGEVITY]] • [[topic LOYALTY|LOYALTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.31|<< 2 Samuel 19:31]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.33|2 Samuel 19:33 >>]]</td></tr></table>
 

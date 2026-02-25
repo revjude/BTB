@@ -1,8 +1,69 @@
+---
+title: Exodus 22:1
+type: Verse
+kjv: "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep."
+bsb: "“If a man steals an ox or a sheep and slaughters or sells it, he must repay five oxen for an ox and four sheep for a sheep."
+hebrew: "כִּ֤י יִגְנֹֽב־ אִישׁ֙ שׁ֣וֹר אוֹ־ שֶׂ֔ה וּטְבָח֖וֹ א֣וֹ מְכָר֑וֹ חֲמִשָּׁ֣ה בָקָ֗ר יְשַׁלֵּם֙ תַּ֣חַת הַשּׁ֔וֹר וְאַרְבַּע־ צֹ֖אן תַּ֥חַת הַשֶּֽׂה׃"
+pericope: "[[Exod.22.1 Property Laws|Property Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic FINE|FINE]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1589]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H7794]]"
+- "[[H0176A]]"
+- "[[H7716]]"
+- "[[H9001]]"
+- "[[H2873]]"
+- "[[H9033]]"
+- "[[H4376]]"
+- "[[H2568]]"
+- "[[H1241]]"
+- "[[H7999A]]"
+- "[[H8478H]]"
+- "[[H9009]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:1**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.
 <small><sub>**BSB:**</sub></small>
 “If a man steals an ox or a sheep and slaughters or sells it, he must repay five oxen for an ox and four sheep for a sheep.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H1589\|יִגְנֹֽב]][[H9014\|־]] [[H0376I\|אִישׁ֙]] [[H7794\|שׁ֣וֹר]] [[H0176A\|אוֹ]][[H9014\|־]] [[H7716\|שֶׂ֔ה]] [[H9001\|וּ]][[H2873\|טְבָח֖]][[H9033\|וֹ]] [[H0176A\|א֣וֹ]] [[H4376\|מְכָר֑]][[H9033\|וֹ]] [[H2568\|חֲמִשָּׁ֣ה]] [[H1241\|בָקָ֗ר]] [[H7999A\|יְשַׁלֵּם֙]] [[H8478H\|תַּ֣חַת]] [[H9009\|הַ]][[H7794\|שּׁ֔וֹר]] [[H9002\|וְ]][[H0702\|אַרְבַּע]][[H9014\|־]] [[H6629G\|צֹ֖אן]] [[H8478H\|תַּ֥חַת]] [[H9009\|הַ]][[H7716\|שֶּֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BULLOCK|BULLOCK]] • [[topic FINE|FINE]] • [[topic RESTITUTION|RESTITUTION]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.36|<< Exodus 21:36]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.2|Exodus 22:2 >>]]</td></tr></table>
 

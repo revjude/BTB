@@ -1,10 +1,65 @@
+---
+title: Matthew 12:10
+type: Verse
+kjv: "And, behold, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him."
+bsb: "and a man with a withered hand was there. In order to accuse Jesus, they asked Him, “Is it lawful to heal on the Sabbath?”"
+greek: "καὶ ἰδοὺ ἄνθρωπος ἦν τὴν χεῖρα ἔχων ξηράν· καὶ ἐπηρώτησαν αὐτὸν λέγοντες· εἰ ἔξεστιν τοῖς σάββασιν θεραπεῦσαι; ἵνα κατηγορήσωσιν αὐτοῦ.¶"
+pericope: "[[Matt.12.9 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ATROPHY|ATROPHY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic TECHNICALITIES|TECHNICALITIES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0444]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G2192]]"
+- "[[G3584]]"
+- "[[G1905]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1487I]]"
+- "[[G1832]]"
+- "[[G4521]]"
+- "[[G2323]]"
+- "[[G2443]]"
+- "[[G2723]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Matthew 12:10**<big><big>[[Matt.12.9 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, there was a man which had [his] hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.
 <small><sub>**BSB:**</sub></small>
 and a man with a withered hand was there. In order to accuse Jesus, they asked Him, “Is it lawful to heal on the Sabbath?”
-<small><sub>**Literal:**</sub></small>
-And behold a man was <the> a hand having withered; And they asked Him saying; Is it is lawful on the Sabbaths to heal? so that they may accuse Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.9|<< Matthew 12:9]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.11|Matthew 12:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0444\|ἄνθρωπος]]  [[G1510\|ἦν]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G2192\|ἔχων]]  [[G3584\|ξηράν·]]  [[G2532\|καὶ]]  [[G1905\|ἐπηρώτησαν]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντες·]]  [[G1487I\|εἰ]]  [[G1832\|ἔξεστιν]]  [[G3588\|τοῖς]]  [[G4521\|σάββασιν]]  [[G2323\|θεραπεῦσαι;]]  [[G2443\|ἵνα]]  [[G2723\|κατηγορήσωσιν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ATROPHY|ATROPHY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic TECHNICALITIES|TECHNICALITIES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.9|<< Matthew 12:9]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.11|Matthew 12:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

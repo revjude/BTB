@@ -1,10 +1,59 @@
+---
+title: Acts 13:45
+type: Verse
+kjv: "But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming."
+bsb: "But when the Jews saw the crowds, they were filled with jealousy, and they blasphemously contradicted what Paul was saying."
+greek: "ἰδόντες δὲ οἱ Ἰουδαῖοι τοὺς ὄχλους ἐπλήσθησαν ζήλου καὶ ἀντέλεγον τοῖς ὑπὸ τοῦ Παύλου λαλουμένοις ἀντιλέγοντες καὶ βλασφημοῦντες."
+pericope: "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G3793]]"
+- "[[G4130]]"
+- "[[G2205]]"
+- "[[G2532]]"
+- "[[G0483]]"
+- "[[G5259G]]"
+- "[[G3972G]]"
+- "[[G2980]]"
+- "[[G0987]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 13:45**<big><big>[[Acts.13.42 A Light for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
 <small><sub>**BSB:**</sub></small>
 But when the Jews saw the crowds, they were filled with jealousy, and they blasphemously contradicted what Paul was saying.
-<small><sub>**Literal:**</sub></small>
-Having seen however the Jews the crowds they were filled with jealousy and were contradicting the [things] by <the> Paul spoken denying and denigrating [him].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.44|<< Acts 13:44]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.46|Acts 13:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους]]  [[G4130\|ἐπλήσθησαν]]  [[G2205\|ζήλου]]  [[G2532\|καὶ]]  [[G0483\|ἀντέλεγον]]  [[G3588\|τοῖς]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G2980\|λαλουμένοις]]  [[G0483\|ἀντιλέγοντες]]  [[G2532\|καὶ]]  [[G0987\|βλασφημοῦντες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic ENVY|ENVY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic LAW|LAW]] • [[topic SCOFFING|SCOFFING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.44|<< Acts 13:44]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.46|Acts 13:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,71 @@
+---
+title: Esther 9:19
+type: Verse
+kjv: "Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar a day of gladness and feasting, and a good day, and of sending portions one to another."
+bsb: "This is why the rural Jews, who live in the villages, observe the fourteenth day of the month of Adar as a day of joy and feasting. It is a holiday for sending gifts to one another."
+hebrew: "עַל־ כֵּ֞ן הַיְּהוּדִ֣ים הַפְּרָזִ֗ים הַיֹּשְׁבִים֮ בְּעָרֵ֣י הַפְּרָזוֹת֒ עֹשִׂ֗ים אֵ֠ת י֣וֹם אַרְבָּעָ֤ה עָשָׂר֙ לְחֹ֣דֶשׁ אֲדָ֔ר שִׂמְחָ֥ה וּמִשְׁתֶּ֖ה וְי֣וֹם ט֑וֹב וּמִשְׁל֥וֹחַ מָנ֖וֹת אִ֥ישׁ לְרֵעֵֽהוּ׃ פ"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H6521]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H6519]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3117G]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H0143]]"
+- "[[H8057]]"
+- "[[H9002]]"
+- "[[H4960]]"
+- "[[H2896A]]"
+- "[[H4916B]]"
+- "[[H4490]]"
+- "[[H0376I]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(k)
+---
+
 **Esther 9:19**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the Jews of the villages, that dwelt in the unwalled towns, made the fourteenth day of the month Adar [a day of] gladness and feasting, and a good day, and of sending portions one to another.
 <small><sub>**BSB:**</sub></small>
 This is why the rural Jews, who live in the villages, observe the fourteenth day of the month of Adar as a day of joy and feasting. It is a holiday for sending gifts to one another.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֞ן]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֣ים]] [[H9009\|הַ]][[H6521\|פְּרָזִ֗ים]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִים֮]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H9009\|הַ]][[H6519\|פְּרָזוֹת֒]] [[H6213A\|עֹשִׂ֗ים]] [[H0853\|אֵ֠ת]] [[H3117G\|י֣וֹם]] [[H0702\|אַרְבָּעָ֤ה]] [[H6240\|עָשָׂר֙]] [[H9005\|לְ]][[H2320G\|חֹ֣דֶשׁ]] [[H0143\|אֲדָ֔ר]] [[H8057\|שִׂמְחָ֥ה]] [[H9002\|וּ]][[H4960\|מִשְׁתֶּ֖ה]] [[H9002\|וְ]][[H3117G\|י֣וֹם]] [[H2896A\|ט֑וֹב]] [[H9002\|וּ]][[H4916B\|מִשְׁל֥וֹחַ]] [[H4490\|מָנ֖וֹת]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H7453\|רֵעֵֽ]][[H9023\|הוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.18|<< Esther 9:18]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.20|Esther 9:20 >>]]</td></tr></table>
 
@@ -29,7 +92,7 @@ This is why the rural Jews, who live in the villages, observe the fourteenth day
 | and [the] sending of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4916B\|מִשְׁל֥וֹחַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mish.Lo.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | portions  |**<big>&#8207;[[H4490\|מָנ֖וֹת]]&#8207; </big>**| ma.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | each  |**<big>&#8207;[[H0376I\|אִ֥ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to neighbor his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7453\|רֵעֵֽ]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to neighbor his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7453\|רֵעֵֽ]]&#8207;&#8207;[[H9023\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.18|<< Esther 9:18]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.20|Esther 9:20 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="ashebrew"><big>הַפְּרָוזִ֗ים</big></span>**

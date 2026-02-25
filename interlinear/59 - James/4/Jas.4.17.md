@@ -1,10 +1,51 @@
+---
+title: James 4:17
+type: Verse
+kjv: "Therefore to him that knoweth to do good, and doeth it not, to him it is sin."
+bsb: "Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin."
+greek: "εἰδότι οὖν καλὸν ποιεῖν καὶ μὴ ποιοῦντι, ἁμαρτία αὐτῷ ἐστιν.¶"
+pericope: "[[Jas.4.13 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic INDECISION|INDECISION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G6063]]"
+- "[[G3767]]"
+- "[[G2570G]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G0266]]"
+- "[[G0846]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **James 4:17**<big><big>[[Jas.4.13 Do Not Boast about Tomorrow|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore to him that knoweth to do good, and doeth [it] not, to him it is sin.
 <small><sub>**BSB:**</sub></small>
 Anyone, then, who knows the right thing to do, yet fails to do it, is guilty of sin.
-<small><sub>**Literal:**</sub></small>
-To [him] knowing therefore good to do and not doing [it], sin to him it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.16|<< James 4:16]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.1|James 5:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|εἰδότι]]  [[G3767\|οὖν]]  [[G2570G\|καλὸν]]  [[G4160G\|ποιεῖν]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G4160G\|ποιοῦντι,]]  [[G0266\|ἁμαρτία]]  [[G0846\|αὐτῷ]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic INDECISION|INDECISION]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.16|<< James 4:16]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.5.1|James 5:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

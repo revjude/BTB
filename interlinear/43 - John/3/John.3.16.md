@@ -1,10 +1,72 @@
+---
+title: John 3:16
+type: Verse
+kjv: "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+bsb: "For God so loved the world that He gave His one and only Son, that everyone who believes in Him shall not perish but have eternal life."
+jesus_said: "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+greek: "οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον, ὥστε τὸν υἱὸν αὐτοῦ τὸν μονογενῆ ἔδωκεν, ἵνα πᾶς ὁ πιστεύων εἰς αὐτὸν μὴ ἀπόληται ἀλλ᾽ ἔχῃ ζωὴν αἰώνιον."
+pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3779]]"
+- "[[G1063]]"
+- "[[G0025]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2889]]"
+- "[[G5620]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G3439]]"
+- "[[G1325]]"
+- "[[G2443]]"
+- "[[G3956]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G3361]]"
+- "[[G0622]]"
+- "[[G0235]]"
+- "[[G2192]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+- ko
+---
+
 **John 3:16**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
 <small><sub>**BSB:**</sub></small>
 For God so loved the world that He gave His one and only Son, that everyone who believes in Him shall not perish but have eternal life.
-<small><sub>**Literal:**</sub></small>
-Thus for loved <the> God the world, that the Son of him the only begotten He gave, so that everyone who is believing in Him not may perish but may have life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.15|<< John 3:15]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.17|John 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G1063\|γὰρ]]  [[G0025\|ἠγάπησεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον,]]  [[G5620\|ὥστε]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸν]]  [[G3439\|μονογενῆ]]  [[G1325\|ἔδωκεν,]]  [[G2443\|ἵνα]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G3361\|μὴ]]  [[G0622\|ἀπόληται]]  [[G0235\|ἀλλ᾽]]  [[G2192\|ἔχῃ]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FAITH|FAITH]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.15|<< John 3:15]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.17|John 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

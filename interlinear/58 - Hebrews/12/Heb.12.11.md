@@ -1,10 +1,66 @@
+---
+title: Hebrews 12:11
+type: Verse
+kjv: "Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby."
+bsb: "No discipline seems enjoyable at the time, but painful. Later on, however, it yields a harvest of righteousness and peace to those who have been trained by it."
+greek: "πᾶσα δὲ παιδεία πρὸς μὲν τὸ παρὸν οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ λύπης, ὕστερον δὲ καρπὸν εἰρηνικὸν τοῖς δι᾽ αὐτῆς γεγυμνασμένοις ἀποδίδωσιν δικαιοσύνης.¶"
+pericope: "[[Heb.12.4 God Disciplines His Sons|God Disciplines His Sons]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G3809]]"
+- "[[G4314]]"
+- "[[G3303]]"
+- "[[G3588]]"
+- "[[G3918]]"
+- "[[G3756]]"
+- "[[G1380]]"
+- "[[G5479]]"
+- "[[G1511]]"
+- "[[G0235]]"
+- "[[G3077]]"
+- "[[G5306]]"
+- "[[G2590]]"
+- "[[G1516]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G1128]]"
+- "[[G0591]]"
+- "[[G1343]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Hebrews 12:11**<big><big>[[Heb.12.4 God Disciplines His Sons|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.
 <small><sub>**BSB:**</sub></small>
 No discipline seems enjoyable at the time, but painful. Later on, however, it yields a harvest of righteousness and peace to those who have been trained by it.
-<small><sub>**Literal:**</sub></small>
-All now discipline for indeed those being present not it seems of joy to be but of grief, afterward however [the] fruit peaceable to those through it trained it yields of righteousness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.10|<< Hebrews 12:10]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.12|Hebrews 12:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶσα]]  [[G1161\|δὲ]]  [[G3809\|παιδεία]]  [[G4314\|πρὸς]]  [[G3303\|μὲν]]  [[G3588\|τὸ]]  [[G3918\|παρὸν]]  [[G3756\|οὐ]]  [[G1380\|δοκεῖ]]  [[G5479\|χαρᾶς]]  [[G1511\|εἶναι]]  [[G0235\|ἀλλὰ]]  [[G3077\|λύπης,]]  [[G5306\|ὕστερον]]  [[G1161\|δὲ]]  [[G2590\|καρπὸν]]  [[G1516\|εἰρηνικὸν]]  [[G3588\|τοῖς]]  [[G1223\|δι᾽]]  [[G0846\|αὐτῆς]]  [[G1128\|γεγυμνασμένοις]]  [[G0591\|ἀποδίδωσιν]]  [[G1343\|δικαιοσύνης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RESIGNATION|RESIGNATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.10|<< Hebrews 12:10]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.12|Hebrews 12:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

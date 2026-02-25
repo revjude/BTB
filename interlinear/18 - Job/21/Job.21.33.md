@@ -1,8 +1,58 @@
+---
+title: Job 21:33
+type: Verse
+kjv: "The clods of the valley shall be sweet unto him, and every man shall draw after him, as there are innumerable before him."
+bsb: "The clods of the valley are sweet to him; everyone follows behind him, and those before him are without number."
+hebrew: "מָֽתְקוּ־ ל֗וֹ רִגְבֵ֫י נָ֥חַל וְ֭אַחֲרָיו כָּל־ אָדָ֣ם יִמְשׁ֑וֹךְ וּ֝לְפָנָ֗יו אֵ֣ין מִסְפָּֽר׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4985]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7263]]"
+- "[[H5158N]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H3605]]"
+- "[[H0120G]]"
+- "[[H4900]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H0369]]"
+- "[[H4557]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:33**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The clods of the valley shall be sweet unto him, and every man shall draw after him, as [there are] innumerable before him.
 <small><sub>**BSB:**</sub></small>
 The clods of the valley are sweet to him; everyone follows behind him, and those before him are without number.
+<small><sub>**Hebrew:**</sub></small>
+[[H4985\|מָֽתְקוּ]][[H9014\|־]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H7263\|רִגְבֵ֫י]] [[H5158N\|נָ֥חַל]] [[H9002\|וְ֭]][[H0310A\|אַחֲרָי]][[H9033\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H0120G\|אָדָ֣ם]] [[H4900\|יִמְשׁ֑וֹךְ]] [[H9002\|וּ֝]][[H9005\|לְ]][[H6440G\|פָנָ֗י]][[H9023\|ו]] [[H0369\|אֵ֣ין]] [[H4557\|מִסְפָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.32|<< Job 21:32]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.34|Job 21:34 >>]]</td></tr></table>
 

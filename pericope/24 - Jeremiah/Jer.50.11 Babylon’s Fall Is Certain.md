@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Babylon’s Fall Is Certain
+type: Pericope
 pericope: "[[Jer.50.11 Babylon’s Fall Is Certain|Babylon’s Fall Is Certain]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 50
 book/chapter: "[[Jer.50|Jeremiah 50]]"
-genre:
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.50.11]]"
 - "[[Jer.50.12]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.50.16]]"
 ---
 
-[[Jer.50|Jeremiah 50:11 - Jeremiah 50:16]]
+<small>[[Jer.50|Jeremiah 50:11-16]]</small>
 *Babylon’s Fall Is Certain*
 
 [[Jer.50.11|11]] Because ye were glad, because ye rejoiced, O ye destroyers of mine heritage, because ye are grown fat as the heifer at grass, and bellow as bulls;

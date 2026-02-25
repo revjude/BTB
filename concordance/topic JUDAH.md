@@ -5,15 +5,15 @@
 
 - Intercedes for Joseph's life when his brothers were about to  kill him, and proposes that they sell him to the Ishmaelites [[Gen.37.26|Ge 37:26]],[[Gen.37.27|27]]
 
-- Takes two wives [[Gen.38.1|Ge 38:1]]-[[Gen.38.6|6]]
+- Takes two wives [[Gen.38.1|Ge 38:1-6]]
 
 - Lives at Chezib [[Gen.38.5|Ge 38:5]]
 
-- His incest with his daughter-in-law [[Gen.38.12|Ge 38:12]]-[[Gen.38.26|26]]
+- His incest with his daughter-in-law [[Gen.38.12|Ge 38:12-26]]
 
-- Goes down into Egypt for corn (grain) [[Gen.43.1|Ge 43:1]]-[[Gen.43.10|10]]; [[Gen.44.14|44:14]]-[[Gen.44.34|34]]; [[Gen.46.28|46:28]]
+- Goes down into Egypt for corn (grain) [[Gen.43.1|Ge 43:1-10]]; [[Gen.44.14|44:14-34]]; [[Gen.46.28|46:28]]
 
-- Prophetic benediction of his father upon [[Gen.49.8|Ge 49:8]]-[[Gen.49.12|12]]
+- Prophetic benediction of his father upon [[Gen.49.8|Ge 49:8-12]]
 
 - The ancestor of Jesus [[Matt.1.2|Mt 1:2]],[[Matt.1.3|3]]; [[Rev.5.5|Re 5:5]]
 
@@ -35,13 +35,13 @@
 
 - Moses' benediction upon [[Deut.33.7|De 33:7]]
 
-- Commissioned by God to lead in the conquest of the promised land [[Judg.1.1|Jud 1:1]]-[[Judg.1.3|3]]; with 1:4-21
+- Commissioned by God to lead in the conquest of the promised land [[Judg.1.1|Jud 1:1-3]]; with 1:4-21
 
-- Make David king [[2Sam.2.1|2Sa 2:1]]-[[2Sam.2.11|11]]; [[2Sam.5.4|5:4]],[[2Sam.5.5|5]]
+- Make David king [[2Sam.2.1|2Sa 2:1-11]]; [[2Sam.5.4|5:4]],[[2Sam.5.5|5]]
 
-- Rebuked by David for lukewarmness toward him after Absalom's  defeat [[2Sam.19.11|2Sa 19:11]]-[[2Sam.19.15|15]]
+- Rebuked by David for lukewarmness toward him after Absalom's  defeat [[2Sam.19.11|2Sa 19:11-15]]
 
-- Accused by the other tribes of stealing the heart of David [[2Sam.19.41|2Sa 19:41]]-[[2Sam.19.43|43]]
+- Accused by the other tribes of stealing the heart of David [[2Sam.19.41|2Sa 19:41-43]]
 
 - Loyal to David at the time of the insurrection led by Sheba [[2Sam.20.1|2Sa 20:1]],[[2Sam.20.2|2]]
 

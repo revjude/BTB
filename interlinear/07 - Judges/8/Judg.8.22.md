@@ -1,8 +1,64 @@
+---
+title: Judges 8:22
+type: Verse
+kjv: "Then the men of Israel said unto Gideon, Rule thou over us, both thou, and thy son, and thy son’s son also: for thou hast delivered us from the hand of Midian."
+bsb: "Then the Israelites said to Gideon, “Rule over us—you and your son and grandson—for you have saved us from the hand of Midian.”"
+hebrew: "וַיֹּאמְר֤וּ אִֽישׁ־ יִשְׂרָאֵל֙ אֶל־ גִּדְע֔וֹן מְשָׁל־ בָּ֙נוּ֙ גַּם־ אַתָּ֔ה גַּם־ בִּנְךָ֖ גַּ֣ם בֶּן־ בְּנֶ֑ךָ כִּ֥י הוֹשַׁעְתָּ֖נוּ מִיַּ֥ד מִדְיָֽן׃"
+pericope: "[[Judg.8.22 Gideon’s Ephod|Gideon’s Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H1439]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H1571]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H1121G]]"
+- "[[H3588A]]"
+- "[[H3467]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H4080H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:22**<big><big>[[Judg.8.22 Gideon’s Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the men of Israel said unto Gideon, Rule thou over us, both thou, and thy son, and thy son’s son also: for thou hast delivered us from the hand of Midian.
 <small><sub>**BSB:**</sub></small>
 Then the Israelites said to Gideon, “Rule over us—you and your son and grandson—for you have saved us from the hand of Midian.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֤וּ]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1439\|גִּדְע֔וֹן]] [[H4910\|מְשָׁל]][[H9014\|־]] [[H9003\|בָּ֙]][[H9035\|נוּ֙]] [[H1571\|גַּם]][[H9014\|־]] [[H0859A\|אַתָּ֔ה]] [[H1571\|גַּם]][[H9014\|־]] [[H1121A\|בִּנְ]][[H9021\|ךָ֖]] [[H1571\|גַּ֣ם]] [[H1121G\|בֶּן]][[H9014\|־]] [[H1121A\|בְּנֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֥י]] [[H3467\|הוֹשַׁעְתָּ֖]][[H9035\|נוּ]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H4080H\|מִדְיָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEON|GIDEON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.21|<< Judges 8:21]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.23|Judges 8:23 >>]]</td></tr></table>
 

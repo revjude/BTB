@@ -1,8 +1,59 @@
+---
+title: Jeremiah 49:8
+type: Verse
+kjv: "Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time that I will visit him."
+bsb: "Turn and run! Lie low, O dwellers of Dedan, for I will bring disaster on Esau at the time I punish him."
+hebrew: "נֻ֤סוּ הָפְנוּ֙ הֶעְמִ֣יקוּ לָשֶׁ֔בֶת יֹשְׁבֵ֖י דְּדָ֑ן כִּ֣י אֵ֥יד עֵשָׂ֛ו הֵבֵ֥אתִי עָלָ֖יו עֵ֥ת פְּקַדְתִּֽיו׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DEDAN|DEDAN]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ESAU|ESAU]]"
+strongs:
+- "[[H5127]]"
+- "[[H6437G]]"
+- "[[H6009]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H1719A]]"
+- "[[H3588A]]"
+- "[[H0343]]"
+- "[[H6215H]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6256]]"
+- "[[H6485H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:8**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Flee ye, turn back, dwell deep, O inhabitants of Dedan; for I will bring the calamity of Esau upon him, the time [that] I will visit him.
 <small><sub>**BSB:**</sub></small>
 Turn and run! Lie low, O dwellers of Dedan, for I will bring disaster on Esau at the time I punish him.
+<small><sub>**Hebrew:**</sub></small>
+[[H5127\|נֻ֤סוּ]] [[H6437G\|הָפְנוּ֙]] [[H6009\|הֶעְמִ֣יקוּ]] [[H9005\|לָ]][[H3427\|שֶׁ֔בֶת]] [[H3427\|יֹשְׁבֵ֖י]] [[H1719A\|דְּדָ֑ן]] [[H3588A\|כִּ֣י]] [[H0343\|אֵ֥יד]] [[H6215H\|עֵשָׂ֛ו]] [[H0935P\|הֵבֵ֥אתִי]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H6256\|עֵ֥ת]] [[H6485H\|פְּקַדְתִּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDAN|DEDAN]] • [[topic EDOMITES|EDOMITES]] • [[topic ESAU|ESAU]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.7|<< Jeremiah 49:7]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.9|Jeremiah 49:9 >>]]</td></tr></table>
 

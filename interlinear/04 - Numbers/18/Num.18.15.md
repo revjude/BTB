@@ -1,8 +1,69 @@
+---
+title: Numbers 18:15
+type: Verse
+kjv: "Every thing that openeth the matrix in all flesh, which they bring unto the LORD, whether it be of men or beasts, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem."
+bsb: "The firstborn of every womb, whether man or beast, that is offered to the LORD belongs to you. But you must surely redeem every firstborn son and every firstborn male of unclean animals."
+hebrew: "כָּל־ פֶּ֣טֶר רֶ֠חֶם לְֽכָל־ בָּשָׂ֞ר אֲשֶׁר־ יַקְרִ֧יבוּ לַֽיהוָ֛ה בָּאָדָ֥ם וּבַבְּהֵמָ֖ה יִֽהְיֶה־ לָּ֑ךְ אַ֣ךְ׀ פָּדֹ֣ה תִפְדֶּ֗ה אֵ֚ת בְּכ֣וֹר הָֽאָדָ֔ם וְאֵ֛ת בְּכֽוֹר־ הַבְּהֵמָ֥ה הַטְּמֵאָ֖ה תִּפְדֶּֽה׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6363A]]"
+- "[[H7358]]"
+- "[[H9005]]"
+- "[[H1320]]"
+- "[[H0834A]]"
+- "[[H7126H]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H1961]]"
+- "[[H9032]]"
+- "[[H0389]]"
+- "[[H9015]]"
+- "[[H6299]]"
+- "[[H0853]]"
+- "[[H1060]]"
+- "[[H9009]]"
+- "[[H2931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:15**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every thing that openeth the matrix in all flesh, which they bring unto the LORD, [whether it be] of men or beasts, shall be thine: nevertheless the firstborn of man shalt thou surely redeem, and the firstling of unclean beasts shalt thou redeem.
 <small><sub>**BSB:**</sub></small>
 The firstborn of every womb, whether man or beast, that is offered to the LORD belongs to you. But you must surely redeem every firstborn son and every firstborn male of unclean animals.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H6363A\|פֶּ֣טֶר]] [[H7358\|רֶ֠חֶם]] [[H9005\|לְֽ]][[H3605\|כָל]][[H9014\|־]] [[H1320\|בָּשָׂ֞ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7126H\|יַקְרִ֧יבוּ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֛ה]] [[H9003\|בָּ]][[H0120G\|אָדָ֥ם]] [[H9002\|וּ]][[H9003\|בַ]][[H0929\|בְּהֵמָ֖ה]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9032\|ךְ]] [[H0389\|אַ֣ךְ]][[H9015\|׀]] [[H6299\|פָּדֹ֣ה]] [[H6299\|תִפְדֶּ֗ה]] [[H0853\|אֵ֚ת]] [[H1060\|בְּכ֣וֹר]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H1060\|בְּכֽוֹר]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֥ה]] [[H9009\|הַ]][[H2931\|טְּמֵאָ֖ה]] [[H6299\|תִּפְדֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.14|<< Numbers 18:14]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.16|Numbers 18:16 >>]]</td></tr></table>
 

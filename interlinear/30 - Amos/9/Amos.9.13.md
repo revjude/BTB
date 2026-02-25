@@ -1,8 +1,66 @@
+---
+title: Amos 9:13
+type: Verse
+kjv: "Behold, the days come, saith the LORD, that the plowman shall overtake the reaper, and the treader of grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt."
+bsb: "“Behold, the days are coming,” declares the LORD, “when the plowman will overtake the reaper and the treader of grapes, the sower of seed. The mountains will drip with sweet wine, with which all the hills will flow."
+hebrew: "הִנֵּ֨ה יָמִ֤ים בָּאִים֙ נְאֻם־ יְהוָ֔ה וְנִגַּ֤שׁ חוֹרֵשׁ֙ בַּקֹּצֵ֔ר וְדֹרֵ֥ךְ עֲנָבִ֖ים בְּמֹשֵׁ֣ךְ הַזָּ֑רַע וְהִטִּ֤יפוּ הֶֽהָרִים֙ עָסִ֔יס וְכָל־ הַגְּבָע֖וֹת תִּתְמוֹגַֽגְנָה׃"
+pericope: "[[Amos.9.11 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H2790A]]"
+- "[[H9003]]"
+- "[[H7114B]]"
+- "[[H9002]]"
+- "[[H1869]]"
+- "[[H6025]]"
+- "[[H4900]]"
+- "[[H9009]]"
+- "[[H2233G]]"
+- "[[H5197]]"
+- "[[H2022G]]"
+- "[[H6071]]"
+- "[[H3605]]"
+- "[[H1389I]]"
+- "[[H4127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 9:13**<big><big>[[Amos.9.11 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, saith the LORD, that the plowman shall overtake the reaper, and the treader of grapes him that soweth seed; and the mountains shall drop sweet wine, and all the hills shall melt.
 <small><sub>**BSB:**</sub></small>
 “Behold, the days are coming,” declares the LORD, “when the plowman will overtake the reaper and the treader of grapes, the sower of seed. The mountains will drip with sweet wine, with which all the hills will flow.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֨ה]] [[H3117G\|יָמִ֤ים]] [[H0935G\|בָּאִים֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H5066G\|נִגַּ֤שׁ]] [[H2790A\|חוֹרֵשׁ֙]] [[H9003\|בַּ]][[H7114B\|קֹּצֵ֔ר]] [[H9002\|וְ]][[H1869\|דֹרֵ֥ךְ]] [[H6025\|עֲנָבִ֖ים]] [[H9003\|בְּ]][[H4900\|מֹשֵׁ֣ךְ]] [[H9009\|הַ]][[H2233G\|זָּ֑רַע]] [[H9001\|וְ]][[H5197\|הִטִּ֤יפוּ]] [[H9009\|הֶֽ]][[H2022G\|הָרִים֙]] [[H6071\|עָסִ֔יס]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1389I\|גְּבָע֖וֹת]] [[H4127\|תִּתְמוֹגַֽגְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.12|<< Amos 9:12]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.14|Amos 9:14 >>]]</td></tr></table>
 

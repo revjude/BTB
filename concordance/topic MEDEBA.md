@@ -7,5 +7,5 @@
 
 → Allotted to Reuben [[Josh.13.9|Jos 13:9]],[[Josh.13.16|16]]
 
-→ David defeats an army and the Ammonites at [[1Chr.19.7|1Ch 19:7]]-[[1Chr.19.15|15]]
+→ David defeats an army and the Ammonites at [[1Chr.19.7|1Ch 19:7-15]]
 

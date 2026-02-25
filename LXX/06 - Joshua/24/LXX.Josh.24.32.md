@@ -1,6 +1,75 @@
+---
+title: LXX Joshua 24:32
+type: Verse
+lxx: "And the sons of Israel took up the bones of Joseph from out of Egypt, and they buried them in Shechem, in the portion of the field of which Jacob acquired from the Amorites  dwelling in Shechem for a hundred ewe-lambs, and he gave it  to Joseph for a portion."
+greek: "και τα οστά Ιωσήφ ανήγαγον οι υιοί Ισραήλ εξ Αιγύπτου και κατώρυξαν εν Σικίμοις εν τη μερίδι του αγρού ου εκτήσατο Ιακώβ παρά των Αμορραίων των κατοικούντων εν Σικίμοις εκατόν αμνάδων και έδωκεν αυτήν τω Ιωσήφ εν μερίδι"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HAMOR|HAMOR]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3747]]"
+- "[[G2501]]"
+- "[[G0321]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G1537]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G7978]]"
+- "[[G1722]]"
+- "[[G4966]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3310]]"
+- "[[G3588]]"
+- "[[G0068]]"
+- "[[G3739]]"
+- "[[G2932]]"
+- "[[G2384]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[H0567]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G4966]]"
+- "[[G1540]]"
+- "[[G6261]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2501]]"
+- "[[G1722]]"
+- "[[G3310]]"
+---
+
 **LXX Joshua 24:32** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel took up the bones of Joseph from out of Egypt, and they buried \[them\] in Shechem, in the portion of the field of which Jacob acquired from the Amorites  dwelling in Shechem \[for a\] hundred ewe-lambs, and he gave it  to Joseph for a portion. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|τα]] [[G3747\|οστά]] [[G2501\|Ιωσήφ]] [[G0321\|ανήγαγον]] [[G3588\|οι]] [[G5207\|υιοί]] [[G2474\|Ισραήλ]] [[G1537\|εξ]] [[G0125\|Αιγύπτου]] [[G2532\|και]] [[G7978\|κατώρυξαν]] [[G1722\|εν]] [[G4966\|Σικίμοις]] [[G1722\|εν]] [[G3588\|τη]] [[G3310\|μερίδι]] [[G3588\|του]] [[G0068\|αγρού]] [[G3739\|ου]] [[G2932\|εκτήσατο]] [[G2384\|Ιακώβ]] [[G3844\|παρά]] [[G3588\|των]] [[H0567\|Αμορραίων]] [[G3588\|των]] [[G2730\|κατοικούντων]] [[G1722\|εν]] [[G4966\|Σικίμοις]] [[G1540\|εκατόν]] [[G6261\|αμνάδων]] [[G2532\|και]] [[G1325\|έδωκεν]] [[G1473\|αυτήν]] [[G3588\|τω]] [[G2501\|Ιωσήφ]] [[G1722\|εν]] [[G3310\|μερίδι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMOR|HAMOR]] • [[topic JOSEPH|JOSEPH]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.24.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.31|<< Joshua 24:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.33|Joshua 24:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -47,6 +116,6 @@ And the sons of Israel took up the bones of Joseph from out of Egypt, and they b
 | to Joseph | **<big>[[G2501\|Ιωσήφ]]</big>** |
 | for | **<big>[[G1722\|εν]]</big>** |
 | a portion. | **<big>[[G3310\|μερίδι]]</big>** |
-[[Josh.24.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.31|<< Joshua 24:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.33|Joshua 24:33 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.24.31|<< Joshua 24:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.24.33|Joshua 24:33 >>]]</td></tr></table>
 
 

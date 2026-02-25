@@ -1,6 +1,68 @@
+---
+title: LXX Ezekiel 13:13
+type: Verse
+lxx: "On account of this, Thus says Adonai the lord, that, I will tear forth a removing breath with rage, and there will be a flooding rain in my anger, and the stones  for rock throwing in rage I will bring unto completion."
+greek: "διά τούτο τάδε λέγει Αδωναϊ κύριος και ρήξω πνοήν εξαίρουσαν μετά θυμού και υετός κατακλύζων εν οργή μου έσται και τους λίθους τους πετροβόλους εν θυμώ επάξω εις συντέλειαν"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G4486]]"
+- "[[G4157]]"
+- "[[G1808]]"
+- "[[G3326]]"
+- "[[G2372]]"
+- "[[G2532]]"
+- "[[G5205]]"
+- "[[G2626]]"
+- "[[G1722]]"
+- "[[G3709]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3037]]"
+- "[[G3588]]"
+- "[[G8783]]"
+- "[[G1722]]"
+- "[[G2372]]"
+- "[[G1863]]"
+- "[[G1519]]"
+- "[[G4930]]"
+---
+
 **LXX Ezekiel 13:13** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says Adonai \[the\] <span class="smallcaps">lord</span>, that, I will tear \[forth\] a removing breath with rage, and there will be a flooding rain in my anger, and the stones  for rock throwing in rage I will bring unto completion. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G2532\|και]] [[G4486\|ρήξω]] [[G4157\|πνοήν]] [[G1808\|εξαίρουσαν]] [[G3326\|μετά]] [[G2372\|θυμού]] [[G2532\|και]] [[G5205\|υετός]] [[G2626\|κατακλύζων]] [[G1722\|εν]] [[G3709\|οργή]] [[G1473\|μου]] [[G1510\|έσται]] [[G2532\|και]] [[G3588\|τους]] [[G3037\|λίθους]] [[G3588\|τους]] [[G8783\|πετροβόλους]] [[G1722\|εν]] [[G2372\|θυμώ]] [[G1863\|επάξω]] [[G1519\|εις]] [[G4930\|συντέλειαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.12|<< Ezekiel 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.14|Ezekiel 13:14 >>]]</td></tr></table>
 
@@ -34,6 +96,6 @@ On account of this, Thus says Adonai \[the\] <span class="smallcaps">lord</span>
 | I will bring | **<big>[[G1863\|επάξω]]</big>** |
 | unto | **<big>[[G1519\|εις]]</big>** |
 | completion. | **<big>[[G4930\|συντέλειαν]]</big>** |
-[[Ezek.13.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.12|<< Ezekiel 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.14|Ezekiel 13:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.13.12|<< Ezekiel 13:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.13.14|Ezekiel 13:14 >>]]</td></tr></table>
 
 

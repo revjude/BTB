@@ -1,8 +1,69 @@
+---
+title: Numbers 18:6
+type: Verse
+kjv: "And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are given as a gift for the LORD, to do the service of the tabernacle of the congregation."
+bsb: "Behold, I Myself have selected your fellow Levites from the Israelites as a gift to you, dedicated to the LORD to perform the service for the Tent of Meeting."
+hebrew: "וַאֲנִ֗י הִנֵּ֤ה לָקַ֙חְתִּי֙ אֶת־ אֲחֵיכֶ֣ם הַלְוִיִּ֔ם מִתּ֖וֹךְ בְּנֵ֣י יִשְׂרָאֵ֑ל לָכֶ֞ם מַתָּנָ֤ה נְתֻנִים֙ לַֽיהוָ֔ה לַעֲבֹ֕ד אֶת־ עֲבֹדַ֖ת אֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Num.18.1 Duties of Priests and Levites|Duties of Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2009]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251H]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H4979]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H5647H]]"
+- "[[H5656H]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:6**<big><big>[[Num.18.1 Duties of Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I, behold, I have taken your brethren the Levites from among the children of Israel: to you [they are] given [as] a gift for the LORD, to do the service of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
 Behold, I Myself have selected your fellow Levites from the Israelites as a gift to you, dedicated to the LORD to perform the service for the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H2009\|הִנֵּ֤ה]] [[H3947G\|לָקַ֙חְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0251H\|אֲחֵי]][[H9026\|כֶ֣ם]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9006\|מִ]][[H8432\|תּ֖וֹךְ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לָ]][[H9036\|כֶ֞ם]] [[H4979\|מַתָּנָ֤ה]] [[H5414G\|נְתֻנִים֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9005\|לַ]][[H5647H\|עֲבֹ֕ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5656H\|עֲבֹדַ֖ת]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.5|<< Numbers 18:5]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.7|Numbers 18:7 >>]]</td></tr></table>
 

@@ -1,10 +1,73 @@
+---
+title: Acts 26:22
+type: Verse
+kjv: "Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:"
+bsb: "But I have had God’s help to this day, and I stand here to testify to small and great alike. I am saying nothing beyond what the prophets and Moses said would happen:"
+greek: "ἐπικουρίας οὖν τυχὼν τῆς ἀπὸ τοῦ θεοῦ ἄχρι τῆς ἡμέρας ταύτης ἕστηκα μαρτυρόμενος μικρῷ τε καὶ μεγάλῳ, οὐδὲν ἐκτὸς λέγων ὧν τε οἱ προφῆται ἐλάλησαν μελλόντων γίνεσθαι καὶ Μωϋσῆς,"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1947]]"
+- "[[G3767]]"
+- "[[G5177]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G2316]]"
+- "[[G0891]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G2476]]"
+- "[[G3143]]"
+- "[[G3398]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G3173]]"
+- "[[G3762]]"
+- "[[G1622]]"
+- "[[G3004G]]"
+- "[[G3739]]"
+- "[[G4396]]"
+- "[[G2980]]"
+- "[[G3195]]"
+- "[[G1096]]"
+- "[[G3475]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 26:22**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having therefore obtained help of God, I continue unto this day, witnessing both to small and great, saying none other things than those which the prophets and Moses did say should come:
 <small><sub>**BSB:**</sub></small>
 But I have had God’s help to this day, and I stand here to testify to small and great alike. I am saying nothing beyond what the prophets and Moses said would happen:
-<small><sub>**Literal:**</sub></small>
-Help therefore having obtained <the> from <the> God unto <the> day this I have stood bearing witness to small both and to great, no [thing] other saying than what both the prophets said was about to happen and Moses,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.21|<< Acts 26:21]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.23|Acts 26:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1947\|ἐπικουρίας]]  [[G3767\|οὖν]]  [[G5177\|τυχὼν]]  [[G3588\|τῆς]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0891\|ἄχρι]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G3778\|ταύτης]]  [[G2476\|ἕστηκα]]  [[G3143\|μαρτυρόμενος]]  [[G3398\|μικρῷ]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G3173\|μεγάλῳ,]]  [[G3762\|οὐδὲν]]  [[G1622\|ἐκτὸς]]  [[G3004G\|λέγων]]  [[G3739\|ὧν]]  [[G5037\|τε]]  [[G3588\|οἱ]]  [[G4396\|προφῆται]]  [[G2980\|ἐλάλησαν]]  [[G3195\|μελλόντων]]  [[G1096\|γίνεσθαι]]  [[G2532\|καὶ]]  [[G3475\|Μωϋσῆς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic PROPHECY|PROPHECY]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.21|<< Acts 26:21]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.23|Acts 26:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

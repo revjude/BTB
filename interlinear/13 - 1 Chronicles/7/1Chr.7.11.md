@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 7:11
+type: Verse
+kjv: "All these the sons of Jediael, by the heads of their fathers, mighty men of valour, were seventeen thousand and two hundred soldiers, fit to go out for war and battle."
+bsb: "All these sons of Jediael were heads of their families, mighty men of valor; there were 17,200 fit for battle."
+hebrew: "כָּל־ אֵ֜לֶּה בְּנֵ֤י יְדִֽיעֲאֵל֙ לְרָאשֵׁ֣י הָאָב֔וֹת גִּבּוֹרֵ֖י חֲיָלִ֑ים שִׁבְעָֽה־ עָשָׂ֥ר אֶ֙לֶף֙ וּמָאתַ֔יִם יֹצְאֵ֥י צָבָ֖א לַמִּלְחָמָֽה׃"
+pericope: "[[1Chr.7.6 The Descendants of Benjamin|The Descendants of Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic JEDIAEL|JEDIAEL]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H3043G]]"
+- "[[H9005]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H1368]]"
+- "[[H2428A]]"
+- "[[H7651]]"
+- "[[H6240]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H3318N]]"
+- "[[H6635H]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:11**<big><big>[[1Chr.7.6 The Descendants of Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these the sons of Jediael, by the heads of their fathers, mighty men of valour, [were] seventeen thousand and two hundred [soldiers], fit to go out for war [and] battle.
 <small><sub>**BSB:**</sub></small>
 All these sons of Jediael were heads of their families, mighty men of valor; there were 17,200 fit for battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֜לֶּה]] [[H1121A\|בְּנֵ֤י]] [[H3043G\|יְדִֽיעֲאֵל֙]] [[H9005\|לְ]][[H7218H\|רָאשֵׁ֣י]] [[H9009\|הָ]][[H0001G\|אָב֔וֹת]] [[H1368\|גִּבּוֹרֵ֖י]] [[H2428A\|חֲיָלִ֑ים]] [[H7651\|שִׁבְעָֽה]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H0505G\|אֶ֙לֶף֙]] [[H9002\|וּ]][[H3967\|מָאתַ֔יִם]] [[H3318N\|יֹצְאֵ֥י]] [[H6635H\|צָבָ֖א]] [[H9005\|לַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic JEDIAEL|JEDIAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.10|<< 1 Chronicles 7:10]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.12|1 Chronicles 7:12 >>]]</td></tr></table>
 

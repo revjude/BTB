@@ -1,8 +1,81 @@
+---
+title: Ezra 4:9
+type: Verse
+kjv: "Then wrote Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,"
+bsb: "From Rehum the commander, Shimshai the scribe, and the rest of their associates—the judges and officials over Tripolis, Persia, Erech and Babylon, the Elamites of Susa,"
+aramaic: "אֱדַ֜יִן רְח֣וּם בְּעֵל־ טְעֵ֗ם וְשִׁמְשַׁי֙ סָֽפְרָ֔א וּשְׁאָ֖ר כְּנָוָתְה֑וֹן דִּ֠ינָיֵא וַאֲפַרְסַתְכָיֵ֞א טַרְפְּלָיֵ֣א אֲפָֽרְסָיֵ֗א אַרְכְּוָיֵ֤א בָבְלָיֵא֙ שֽׁוּשַׁנְכָיֵ֔א דֶּהָיֵ֖א עֵלְמָיֵֽא׃"
+pericope: "[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|Opposition under Xerxes and Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic APHARSATHCHITES|APHARSATHCHITES]]"
+- "[[topic APHARSITES|APHARSITES]]"
+- "[[topic ARCHEVITES|ARCHEVITES]]"
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic AVA|AVA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BISHLAM|BISHLAM]]"
+- "[[topic CHANCELLOR|CHANCELLOR]]"
+- "[[topic COLONIZATION|COLONIZATION]]"
+- "[[topic DEHAVITES|DEHAVITES]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic REHUM|REHUM]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHIMSHAI|SHIMSHAI]]"
+- "[[topic SUSANCHITES|SUSANCHITES]]"
+- "[[topic TARPELITES|TARPELITES]]"
+strongs:
+- "[[H0116]]"
+- "[[H7348B]]"
+- "[[H1169]]"
+- "[[H9014]]"
+- "[[H2942]]"
+- "[[H9002]]"
+- "[[H8124]]"
+- "[[H5613]]"
+- "[[H9010]]"
+- "[[H7606]]"
+- "[[H3675]]"
+- "[[H9028]]"
+- "[[H1784]]"
+- "[[H0671B]]"
+- "[[H2967]]"
+- "[[H0670]]"
+- "[[H0756]]"
+- "[[H0896]]"
+- "[[H7801]]"
+- "[[H1768]]"
+- "[[H9043]]"
+- "[[H1723]]"
+- "[[H5962]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezra 4:9**<big><big>[[Ezra.4.6 Opposition under Xerxes and Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then [wrote] Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, [and] the Elamites,
 <small><sub>**BSB:**</sub></small>
 From Rehum the commander, Shimshai the scribe, and the rest of their associates—the judges and officials over Tripolis, Persia, Erech and Babylon, the Elamites of Susa,
+<small><sub>**Aramaic:**</sub></small>
+[[H0116\|אֱדַ֜יִן]] [[H7348B\|רְח֣וּם]] [[H1169\|בְּעֵל]][[H9014\|־]] [[H2942\|טְעֵ֗ם]] [[H9002\|וְ]][[H8124\|שִׁמְשַׁי֙]] [[H5613\|סָֽפְרָ֔]][[H9010\|א]] [[H9002\|וּ]][[H7606\|שְׁאָ֖ר]] [[H3675\|כְּנָוָתְ]][[H9028\|ה֑וֹן]] [[H1784\|דִּ֠ינָיֵ]][[H9010\|א]] [[H9002\|וַ]][[H0671B\|אֲפַרְסַתְכָיֵ֞]][[H9010\|א]] [[H2967\|טַרְפְּלָיֵ֣]][[H9010\|א]] [[H0670\|אֲפָֽרְסָיֵ֗]][[H9010\|א]] [[H0756\|אַרְכְּוָיֵ֤]][[H9010\|א]] [[H0896\|בָבְלָיֵ]][[H9010\|א֙]] [[H7801\|שֽׁוּשַׁנְכָיֵ֔]][[H9010\|א]] [[H1723\|דֶּהָיֵ֖]][[H9010\|א]] [[H5962\|עֵלְמָיֵֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic APHARSATHCHITES|APHARSATHCHITES]] • [[topic APHARSITES|APHARSITES]] • [[topic ARCHEVITES|ARCHEVITES]] • [[topic ARTAXERXES|ARTAXERXES]] • [[topic AVA|AVA]] • [[topic BABYLON|BABYLON]] • [[topic BISHLAM|BISHLAM]] • [[topic CHANCELLOR|CHANCELLOR]] • [[topic COLONIZATION|COLONIZATION]] • [[topic DEHAVITES|DEHAVITES]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic REHUM|REHUM]] • [[topic SAMARIA|SAMARIA]] • [[topic SHIMSHAI|SHIMSHAI]] • [[topic SUSANCHITES|SUSANCHITES]] • [[topic TARPELITES|TARPELITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.8|<< Ezra 4:8]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.10|Ezra 4:10 >>]]</td></tr></table>
 
@@ -30,7 +103,7 @@ From Rehum the commander, Shimshai the scribe, and the rest of their associates�
 [^1]: [the] Erechite[s]  | **<big>[[H0756|אַרְכְּוָי]]</big> ** | 'ar.ke.vai<small><sup>[[ANgmpa]]</sup></small> | K
 [^2]: [the] Erechite[s]  | **<big>[[H0756|אַרְכְּוָי]]</big> ** | 'ar.ke.vai<small><sup>[[ANgmpa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>אַרְכְּוָיֵ֤</big></span>**
-[^4]: that he [is]  | **<big>[[H9043|הוּא]]</big><big>[[H1768|דִּ]]</big> ** | di.<small><sup>[[AC]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
-[^5]: that he [is]  | **<big>[[H9043|הוּא]]</big><big>[[H1768|דִּ]]</big> ** | di.<small><sup>[[AC]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
+[^4]: that he [is]  | **<big>[[H1768|דִּ]]</big><big>[[H9043|הוּא]]</big> ** | di.<small><sup>[[AC]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
+[^5]: that he [is]  | **<big>[[H1768|דִּ]]</big><big>[[H9043|הוּא]]</big> ** | di.<small><sup>[[AC]]</sup></small> hu'<small><sup>[[HPp3ms]]</sup></small> | K
 [^6]: L spelled: **<span class="ashebrew"><big>דֶּהָוֵ֖א</big></span>**
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bride
+type: Pericope
 pericope: "[[Song.5.10 The Bride|The Bride]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 5
 book/chapter: "[[Song.5|Song of Solomon 5]]"
-genre:
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 7
 verses:
 - "[[Song.5.10]]"
 - "[[Song.5.11]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Song.5.16]]"
 ---
 
-[[Song.5|Song of Solomon 5:10 - Song of Solomon 5:16]]
+<small>[[Song.5|Song of Solomon 5:10-16]]</small>
 *The Bride*
 
 [[Song.5.10|10]] My beloved \[is\] white and ruddy, the chiefest among ten thousand.

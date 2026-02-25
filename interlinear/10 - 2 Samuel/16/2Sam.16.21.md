@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 16:21
+type: Verse
+kjv: "And Ahithophel said unto Absalom, Go in unto thy father’s concubines, which he hath left to keep the house; and all Israel shall hear that thou art abhorred of thy father: then shall the hands of all that are with thee be strong."
+bsb: "Ahithophel replied, “Sleep with your father’s concubines, whom he has left to take care of the palace. When all Israel hears that you have become a stench to your father, then the hands of all who are with you will be strengthened.”"
+hebrew: "וַיֹּ֤אמֶר אֲחִיתֹ֙פֶל֙ אֶל־ אַבְשָׁלֹ֔ם בּ֚וֹא אֶל־ פִּלַגְשֵׁ֣י אָבִ֔יךָ אֲשֶׁ֥ר הִנִּ֖יחַ לִשְׁמ֣וֹר הַבָּ֑יִת וְשָׁמַ֤ע כָּל־ יִשְׂרָאֵל֙ כִּֽי־ נִבְאַ֣שְׁתָּ אֶת־ אָבִ֔יךָ וְחָ֣זְק֔וּ יְדֵ֖י כָּל־ אֲשֶׁ֥ר אִתָּֽךְ׃"
+pericope: "[[2Sam.16.15 The Counsel of Ahithophel and Hushai|The Counsel of Ahithophel and Hushai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0302]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0053]]"
+- "[[H0935G]]"
+- "[[H6370]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H8104H]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H8085G]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H0887]]"
+- "[[H0854]]"
+- "[[H2388G]]"
+- "[[H3027G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 16:21**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahithophel said unto Absalom, Go in unto thy father’s concubines, which he hath left to keep the house; and all Israel shall hear that thou art abhorred of thy father: then shall the hands of all that [are] with thee be strong.
 <small><sub>**BSB:**</sub></small>
 Ahithophel replied, “Sleep with your father’s concubines, whom he has left to take care of the palace. When all Israel hears that you have become a stench to your father, then the hands of all who are with you will be strengthened.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0302\|אֲחִיתֹ֙פֶל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0053\|אַבְשָׁלֹ֔ם]] [[H0935G\|בּ֚וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H6370\|פִּלַגְשֵׁ֣י]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5117\|הִנִּ֖יחַ]] [[H9005\|לִ]][[H8104H\|שְׁמ֣וֹר]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H9001\|וְ]][[H8085G\|שָׁמַ֤ע]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0887\|נִבְאַ֣שְׁתָּ]] [[H0854\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H2388G\|חָ֣זְק֔וּ]] [[H3027G\|יְדֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H0854\|אִתָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic INCEST|INCEST]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.20|<< 2 Samuel 16:20]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.22|2 Samuel 16:22 >>]]</td></tr></table>
 

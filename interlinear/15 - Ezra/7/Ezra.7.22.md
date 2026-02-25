@@ -1,8 +1,60 @@
+---
+title: Ezra 7:22
+type: Verse
+kjv: "Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing how much."
+bsb: "up to a hundred talents of silver, a hundred cors of wheat, a hundred baths of wine, a hundred baths of olive oil, and salt without limit."
+aramaic: "עַד־ כְּסַף֮ כַּכְּרִ֣ין מְאָה֒ וְעַד־ חִנְטִין֙ כֹּרִ֣ין מְאָ֔ה וְעַד־ חֲמַר֙ בַּתִּ֣ין מְאָ֔ה וְעַד־ בַּתִּ֥ין מְשַׁ֖ח מְאָ֑ה וּמְלַ֖ח דִּי־ לָ֥א כְתָֽב׃"
+pericope: "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic BATH|BATH]]"
+- "[[topic COR|COR]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H5705]]"
+- "[[H9014]]"
+- "[[H3702]]"
+- "[[H3604]]"
+- "[[H3969]]"
+- "[[H9002]]"
+- "[[H2591]]"
+- "[[H3734B]]"
+- "[[H2562]]"
+- "[[H1325]]"
+- "[[H4887]]"
+- "[[H4416]]"
+- "[[H1768]]"
+- "[[H3809]]"
+- "[[H3792]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:22**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing [how much].
 <small><sub>**BSB:**</sub></small>
 up to a hundred talents of silver, a hundred cors of wheat, a hundred baths of wine, a hundred baths of olive oil, and salt without limit.
+<small><sub>**Aramaic:**</sub></small>
+[[H5705\|עַד]][[H9014\|־]] [[H3702\|כְּסַף֮]] [[H3604\|כַּכְּרִ֣ין]] [[H3969\|מְאָה֒]] [[H9002\|וְ]][[H5705\|עַד]][[H9014\|־]] [[H2591\|חִנְטִין֙]] [[H3734B\|כֹּרִ֣ין]] [[H3969\|מְאָ֔ה]] [[H9002\|וְ]][[H5705\|עַד]][[H9014\|־]] [[H2562\|חֲמַר֙]] [[H1325\|בַּתִּ֣ין]] [[H3969\|מְאָ֔ה]] [[H9002\|וְ]][[H5705\|עַד]][[H9014\|־]] [[H1325\|בַּתִּ֥ין]] [[H4887\|מְשַׁ֖ח]] [[H3969\|מְאָ֑ה]] [[H9002\|וּ]][[H4416\|מְלַ֖ח]] [[H1768\|דִּי]][[H9014\|־]] [[H3809\|לָ֥א]] [[H3792\|כְתָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BATH|BATH]] • [[topic COR|COR]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MEASURE|MEASURE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.21|<< Ezra 7:21]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.23|Ezra 7:23 >>]]</td></tr></table>
 

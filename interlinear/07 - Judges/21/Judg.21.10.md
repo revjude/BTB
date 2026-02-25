@@ -1,8 +1,72 @@
+---
+title: Judges 21:10
+type: Verse
+kjv: "And the congregation sent thither twelve thousand men of the valiantest, and commanded them, saying, Go and smite the inhabitants of Jabeshgilead with the edge of the sword, with the women and the children."
+bsb: "So the congregation sent 12,000 of their most valiant men and commanded them: “Go and put to the sword those living in Jabesh-gilead, including women and children."
+hebrew: "וַיִּשְׁלְחוּ־ שָׁ֣ם הָעֵדָ֗ה שְׁנֵים־ עָשָׂ֥ר אֶ֛לֶף אִ֖ישׁ מִבְּנֵ֣י הֶחָ֑יִל וַיְצַוּ֨וּ אוֹתָ֜ם לֵאמֹ֗ר לְ֠כוּ וְהִכִּיתֶ֞ם אֶת־ יוֹשְׁבֵ֨י יָבֵ֤שׁ גִּלְעָד֙ לְפִי־ חֶ֔רֶב וְהַנָּשִׁ֖ים וְהַטָּֽף׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1121K]]"
+- "[[H2428G]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H5221]]"
+- "[[H3427]]"
+- "[[H3003I]]"
+- "[[H1568L]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H2945]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:10**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the congregation sent thither twelve thousand men of the valiantest, and commanded them, saying, Go and smite the inhabitants of Jabeshgilead with the edge of the sword, with the women and the children.
 <small><sub>**BSB:**</sub></small>
 So the congregation sent 12,000 of their most valiant men and commanded them: “Go and put to the sword those living in Jabesh-gilead, including women and children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלְחוּ]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H9009\|הָ]][[H5712\|עֵדָ֗ה]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H0505G\|אֶ֛לֶף]] [[H0376G\|אִ֖ישׁ]] [[H9006\|מִ]][[H1121K\|בְּנֵ֣י]] [[H9009\|הֶ]][[H2428G\|חָ֑יִל]] [[H9001\|וַ]][[H6680\|יְצַוּ֨וּ]] [[H0853\|אוֹתָ֜]][[H9038\|ם]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H1980G\|לְ֠כוּ]] [[H9001\|וְ]][[H5221\|הִכִּיתֶ֞ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3427\|יוֹשְׁבֵ֨י]] [[H3003I\|יָבֵ֤שׁ]] [[H1568L\|גִּלְעָד֙]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חֶ֔רֶב]] [[H9002\|וְ]][[H9009\|הַ]][[H0802G\|נָּשִׁ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H2945\|טָּֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.9|<< Judges 21:9]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.11|Judges 21:11 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Psalm 101:2
+type: Verse
+kjv: "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart."
+bsb: "I will ponder the way that is blameless—when will You come to me? I will walk in my house with integrity of heart."
+hebrew: "אַשְׂכִּ֤ילָה׀ בְּדֶ֬רֶךְ תָּמִ֗ים מָ֭תַי תָּב֣וֹא אֵלָ֑י אֶתְהַלֵּ֥ךְ בְּתָם־ לְ֝בָבִ֗י בְּקֶ֣רֶב בֵּיתִֽי׃"
+pericope: "[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|I Will Set No Worthless Thing before My Eyes]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 101
+book/chapter: "[[Ps.101|Psalm 101]]"
+chronological_order: 380
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+strongs:
+- "[[H7919A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H8549H]]"
+- "[[H4970]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1980I]]"
+- "[[H8537]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9020]]"
+- "[[H7130G]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 101:2**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.
 <small><sub>**BSB:**</sub></small>
 I will ponder the way that is blameless—when will You come to me? I will walk in my house with integrity of heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H7919A\|אַשְׂכִּ֤ילָה]][[H9015\|׀]] [[H9003\|בְּ]][[H1870G\|דֶ֬רֶךְ]] [[H8549H\|תָּמִ֗ים]] [[H4970\|מָ֭תַי]] [[H0935G\|תָּב֣וֹא]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H1980I\|אֶתְהַלֵּ֥ךְ]] [[H9003\|בְּ]][[H8537\|תָם]][[H9014\|־]] [[H3824\|לְ֝בָבִ֗]][[H9020\|י]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H1004B\|בֵּיתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FAMILY|FAMILY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERFECTION|PERFECTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.1|<< Psalms 101:1]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.3|Psalms 101:3 >>]]</td></tr></table>
 

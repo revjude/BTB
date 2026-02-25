@@ -1,8 +1,54 @@
+---
+title: Lamentations 3:36
+type: Verse
+kjv: "To subvert a man in his cause, the Lord approveth not."
+bsb: "to subvert a man in his lawsuit—of these the Lord does not approve."
+hebrew: "לְעַוֵּ֤ת אָדָם֙ בְּרִיב֔וֹ אֲדֹנָ֖י לֹ֥א רָאָֽה׃ ס"
+pericope: "[[Lam.3.19 The Prophet’s Hope|The Prophet’s Hope]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+strongs:
+- "[[H9005]]"
+- "[[H5791]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H7379]]"
+- "[[H9023]]"
+- "[[H0136]]"
+- "[[H3808]]"
+- "[[H7200J]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 3:36**<big><big>[[Lam.3.19 The Prophet’s Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To subvert a man in his cause, the Lord approveth not.
 <small><sub>**BSB:**</sub></small>
 to subvert a man in his lawsuit—of these the Lord does not approve.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5791\|עַוֵּ֤ת]] [[H0120G\|אָדָם֙]] [[H9003\|בְּ]][[H7379\|רִיב֔]][[H9023\|וֹ]] [[H0136\|אֲדֹנָ֖י]] [[H3808\|לֹ֥א]] [[H7200J\|רָאָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.35|<< Lamentations 3:35]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.37|Lamentations 3:37 >>]]</td></tr></table>
 
@@ -13,7 +59,7 @@ to subvert a man in his lawsuit—of these the Lord does not approve.
 | in case at law his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7379\|רִיב֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ri.V<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֖י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has seen  |**<big>&#8207;[[H7200J\|רָאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has seen  |**<big>&#8207;[[H7200J\|רָאָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ra.'Ah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.35|<< Lamentations 3:35]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.37|Lamentations 3:37 >>]]</td></tr></table>
 
 

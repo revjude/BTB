@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Stoning of Stephen
+type: Pericope
 pericope: "[[Acts.7.54 The Stoning of Stephen|The Stoning of Stephen]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Acts
 chapter: 7
 book/chapter: "[[Acts.7|Acts 7]]"
-genre:
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 7
 verses:
 - "[[Acts.7.54]]"
 - "[[Acts.7.55]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Acts.7.60]]"
 ---
 
-[[Acts.7|Acts 7:54 - Acts 7:60]]
+<small>[[Acts.7|Acts 7:54-60]]</small>
 *The Stoning of Stephen*
 
 [[Acts.7.54|54]] When they heard these things, they were cut to the heart, and they gnashed on him with \[their\] teeth.

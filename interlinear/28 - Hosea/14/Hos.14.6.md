@@ -1,8 +1,57 @@
+---
+title: Hosea 14:6
+type: Verse
+kjv: "His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon."
+bsb: "His shoots will sprout, and his splendor will be like the olive tree, his fragrance like the cedars of Lebanon."
+hebrew: "יֵֽלְכוּ֙ יֹֽנְקוֹתָ֔יו וִיהִ֥י כַזַּ֖יִת הוֹד֑וֹ וְרֵ֥יחַֽ ל֖וֹ כַּלְּבָנֽוֹן׃"
+pericope: "[[Hos.14.4 A Promise of God’s Blessing|A Promise of God’s Blessing]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 14
+book/chapter: "[[Hos.14|Hosea 14]]"
+chronological_order: 655
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BRANCH|BRANCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H1980I]]"
+- "[[H3127]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H2132H]]"
+- "[[H1935]]"
+- "[[H7381]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3844G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 14:6**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His branches shall spread, and his beauty shall be as the olive tree, and his smell as Lebanon.
 <small><sub>**BSB:**</sub></small>
 His shoots will sprout, and his splendor will be like the olive tree, his fragrance like the cedars of Lebanon.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980I\|יֵֽלְכוּ֙]] [[H3127\|יֹֽנְקוֹתָ֔י]][[H9023\|ו]] [[H9002\|וִ]][[H1961\|יהִ֥י]] [[H9004\|כַ]][[H2132H\|זַּ֖יִת]] [[H1935\|הוֹד֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H7381\|רֵ֥יחַֽ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9004\|כַּ]][[H3844G\|לְּבָנֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic BRANCH|BRANCH]] • [[topic GOD|GOD]] • [[topic LEBANON|LEBANON]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.5|<< Hosea 14:5]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.7|Hosea 14:7 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Joshua 10:17
+type: Verse
+kjv: "And it was told Joshua, saying, The five kings are found hid in a cave at Makkedah."
+bsb: "And Joshua was informed: “The five kings have been found; they are hiding in the cave at Makkedah.”"
+hebrew: "וַיֻּגַּ֖ד לִיהוֹשֻׁ֣עַ לֵאמֹ֑ר נִמְצְאוּ֙ חֲמֵ֣שֶׁת הַמְּלָכִ֔ים נֶחְבְּאִ֥ים בַּמְּעָרָ֖ה בְּמַקֵּדָֽה׃"
+pericope: "[[Josh.10.16 The Victory at Makkedah|The Victory at Makkedah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MAKKEDAH|MAKKEDAH]]"
+- "[[topic PIRAM|PIRAM]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H3091G]]"
+- "[[H0559]]"
+- "[[H4672]]"
+- "[[H2568]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2244]]"
+- "[[H9003]]"
+- "[[H4631]]"
+- "[[H4719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:17**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told Joshua, saying, The five kings are found hid in a cave at Makkedah.
 <small><sub>**BSB:**</sub></small>
 And Joshua was informed: “The five kings have been found; they are hiding in the cave at Makkedah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֖ד]] [[H9005\|לִ]][[H3091G\|יהוֹשֻׁ֣עַ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4672\|נִמְצְאוּ֙]] [[H2568\|חֲמֵ֣שֶׁת]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֔ים]] [[H2244\|נֶחְבְּאִ֥ים]] [[H9003\|בַּ]][[H4631\|מְּעָרָ֖ה]] [[H9003\|בְּ]][[H4719\|מַקֵּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic CAVE|CAVE]] • [[topic DEBIR|DEBIR]] • [[topic HEBRON|HEBRON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MAKKEDAH|MAKKEDAH]] • [[topic PIRAM|PIRAM]] • [[topic PRISONERS|PRISONERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.16|<< Joshua 10:16]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.18|Joshua 10:18 >>]]</td></tr></table>
 

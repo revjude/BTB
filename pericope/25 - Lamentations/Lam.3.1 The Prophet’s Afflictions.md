@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prophet’s Afflictions
+type: Pericope
 pericope: "[[Lam.3.1 The Prophet’s Afflictions|The Prophet’s Afflictions]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Lamentations
 chapter: 3
 book/chapter: "[[Lam.3|Lamentations 3]]"
-genre:
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
 - poetry
 - lament
 - acrostic
 - megillot
+verse_count: 18
 verses:
 - "[[Lam.3.1]]"
 - "[[Lam.3.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Lam.3.18]]"
 ---
 
-[[Lam.3|Lamentations 3:1 - Lamentations 3:18]]
+<small>[[Lam.3|Lamentations 3:1-18]]</small>
 *The Prophet’s Afflictions*
 
 [[Lam.3.1|1]] I \[am\] the man \[that\] hath seen affliction by the rod of his wrath.

@@ -1,10 +1,61 @@
+---
+title: John 3:18
+type: Verse
+kjv: "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God."
+bsb: "Whoever believes in Him is not condemned, but whoever does not believe has already been condemned, because he has not believed in the name of God’s one and only Son."
+jesus_said: "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God."
+greek: "ὁ πιστεύων εἰς αὐτὸν οὐ κρίνεται· ὁ δὲ μὴ πιστεύων ἤδη κέκριται ὅτι μὴ πεπίστευκεν εἰς τὸ ὄνομα τοῦ μονογενοῦς υἱοῦ τοῦ θεοῦ."
+pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G2919]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G2235]]"
+- "[[G3754H]]"
+- "[[G3686]]"
+- "[[G3439]]"
+- "[[G5207]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **John 3:18**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.
 <small><sub>**BSB:**</sub></small>
 Whoever believes in Him is not condemned, but whoever does not believe has already been condemned, because he has not believed in the name of God’s one and only Son.
-<small><sub>**Literal:**</sub></small>
-The [one] believing on Him not is judged; the [one] but not believing already has been judged because not he has believed in the name of the only begotten Son <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.17|<< John 3:17]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.19|John 3:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G3756\|οὐ]]  [[G2919\|κρίνεται·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G4100\|πιστεύων]]  [[G2235\|ἤδη]]  [[G2919\|κέκριται]]  [[G3754H\|ὅτι]]  [[G3361\|μὴ]]  [[G4100\|πεπίστευκεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G3588\|τοῦ]]  [[G3439\|μονογενοῦς]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.17|<< John 3:17]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.19|John 3:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

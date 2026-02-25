@@ -1,8 +1,78 @@
+---
+title: 2 Samuel 14:15
+type: Verse
+kjv: "Now therefore that I am come to speak of this thing unto my lord the king, it is because the people have made me afraid: and thy handmaid said, I will now speak unto the king; it may be that the king will perform the request of his handmaid."
+bsb: "Now therefore, I have come to present this matter to my lord the king because the people have made me afraid. Your servant thought, ‘I will speak to the king. Perhaps he will grant the request of his maidservant."
+hebrew: "וְ֠עַתָּה אֲשֶׁר־ בָּ֜אתִי לְדַבֵּ֨ר אֶל־ הַמֶּ֤לֶךְ אֲדֹנִי֙ אֶת־ הַדָּבָ֣ר הַזֶּ֔ה כִּ֥י יֵֽרְאֻ֖נִי הָעָ֑ם וַתֹּ֤אמֶר שִׁפְחָֽתְךָ֙ אֲדַבְּרָה־ נָּ֣א אֶל־ הַמֶּ֔לֶךְ אוּלַ֛י יַעֲשֶׂ֥ה הַמֶּ֖לֶךְ אֶת־ דְּבַ֥ר אֲמָתֽוֹ׃"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H3372G]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8198]]"
+- "[[H9021]]"
+- "[[H4994]]"
+- "[[H0194]]"
+- "[[H6213A]]"
+- "[[H1697H]]"
+- "[[H0519]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:15**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore that I am come to speak of this thing unto my lord the king, [it is] because the people have made me afraid: and thy handmaid said, I will now speak unto the king; it may be that the king will perform the request of his handmaid.
 <small><sub>**BSB:**</sub></small>
 Now therefore, I have come to present this matter to my lord the king because the people have made me afraid. Your servant thought, ‘I will speak to the king. Perhaps he will grant the request of his maidservant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H6258\|עַתָּה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֜אתִי]] [[H9005\|לְ]][[H1696G\|דַבֵּ֨ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H0113\|אֲדֹנִ]][[H9020\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3588A\|כִּ֥י]] [[H3372G\|יֵֽרְאֻ֖]][[H9030\|נִי]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H8198\|שִׁפְחָֽתְ]][[H9021\|ךָ֙]] [[H1696G\|אֲדַבְּרָה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0194\|אוּלַ֛י]] [[H6213A\|יַעֲשֶׂ֥ה]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697H\|דְּבַ֥ר]] [[H0519\|אֲמָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DAVID|DAVID]] • [[topic DISHONESTY|DISHONESTY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.14|<< 2 Samuel 14:14]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.16|2 Samuel 14:16 >>]]</td></tr></table>
 

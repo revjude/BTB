@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cry of the Israelites
+type: Pericope
 pericope: "[[Exod.5.15 The Cry of the Israelites|The Cry of the Israelites]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 5
 book/chapter: "[[Exod.5|Exodus 5]]"
-genre:
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.5.15]]"
 - "[[Exod.5.16]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.5.23]]"
 ---
 
-[[Exod.5|Exodus 5:15 - Exodus 5:23]]
+<small>[[Exod.5|Exodus 5:15-23]]</small>
 *The Cry of the Israelites*
 
 [[Exod.5.15|15]] Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?

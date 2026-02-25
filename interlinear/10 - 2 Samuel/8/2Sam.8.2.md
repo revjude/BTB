@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 8:2
+type: Verse
+kjv: "And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David’s servants, and brought gifts."
+bsb: "David also defeated the Moabites, made them lie down on the ground, and measured them off with a cord. He measured off with two lengths those to be put to death, and with one length those to be spared. So the Moabites became subject to David and brought him tribute."
+hebrew: "וַיַּ֣ךְ אֶת־ מוֹאָ֗ב וַֽיְמַדְּדֵ֤ם בַּחֶ֙בֶל֙ הַשְׁכֵּ֣ב אוֹתָ֣ם אַ֔רְצָה וַיְמַדֵּ֤ד שְׁנֵֽי־ חֲבָלִים֙ לְהָמִ֔ית וּמְלֹ֥א הַחֶ֖בֶל לְהַחֲי֑וֹת וַתְּהִ֤י מוֹאָב֙ לְדָוִ֔ד לַעֲבָדִ֖ים נֹשְׂאֵ֥י מִנְחָֽה׃"
+pericope: "[[2Sam.8.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 8
+book/chapter: "[[2Sam.8|2 Samuel 8]]"
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CORD|CORD]]"
+- "[[topic KING|KING]]"
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H4058]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H2256M]]"
+- "[[H7901G]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H8147]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H4393]]"
+- "[[H9009]]"
+- "[[H2421]]"
+- "[[H1961]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H5375H]]"
+- "[[H4503I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 8:2**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And [so] the Moabites became David’s servants, [and] brought gifts.
 <small><sub>**BSB:**</sub></small>
 David also defeated the Moabites, made them lie down on the ground, and measured them off with a cord. He measured off with two lengths those to be put to death, and with one length those to be spared. So the Moabites became subject to David and brought him tribute.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H4124G\|מוֹאָ֗ב]] [[H9001\|וַֽ]][[H4058\|יְמַדְּדֵ֤]][[H9038\|ם]] [[H9003\|בַּ]][[H2256M\|חֶ֙בֶל֙]] [[H7901G\|הַשְׁכֵּ֣ב]] [[H0853\|אוֹתָ֣]][[H9038\|ם]] [[H0776H\|אַ֔רְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H4058\|יְמַדֵּ֤ד]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H2256M\|חֲבָלִים֙]] [[H9005\|לְ]][[H4191\|הָמִ֔ית]] [[H9002\|וּ]][[H4393\|מְלֹ֥א]] [[H9009\|הַ]][[H2256M\|חֶ֖בֶל]] [[H9005\|לְ]][[H2421\|הַחֲי֑וֹת]] [[H9001\|וַ]][[H1961\|תְּהִ֤י]] [[H4124G\|מוֹאָב֙]] [[H9005\|לְ]][[H1732\|דָוִ֔ד]] [[H9005\|לַ]][[H5650\|עֲבָדִ֖ים]] [[H5375H\|נֹשְׂאֵ֥י]] [[H4503I\|מִנְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic CORD|CORD]] • [[topic KING|KING]] • [[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.1|<< 2 Samuel 8:1]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.3|2 Samuel 8:3 >>]]</td></tr></table>
 

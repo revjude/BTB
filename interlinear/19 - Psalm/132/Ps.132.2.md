@@ -1,8 +1,53 @@
+---
+title: Psalm 132:2
+type: Verse
+kjv: "How he sware unto the LORD, and vowed unto the mighty God of Jacob;"
+bsb: "how he swore an oath to the LORD, and vowed to the Mighty One of Jacob:"
+hebrew: "אֲשֶׁ֣ר נִ֭שְׁבַּע לַיהוָ֑ה נָ֝דַ֗ר לַאֲבִ֥יר יַעֲקֹֽב׃"
+pericope: "[[Ps.132.1 The LORD Has Chosen Zion|The LORD Has Chosen Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 132
+book/chapter: "[[Ps.132|Psalm 132]]"
+chronological_order: 401
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H5087]]"
+- "[[H0046]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 132:2**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How he sware unto the LORD, [and] vowed unto the mighty [God] of Jacob;
 <small><sub>**BSB:**</sub></small>
 how he swore an oath to the LORD, and vowed to the Mighty One of Jacob:
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֣ר]] [[H7650\|נִ֭שְׁבַּע]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H5087\|נָ֝דַ֗ר]] [[H9005\|לַ]][[H0046\|אֲבִ֥יר]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.1|<< Psalms 132:1]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.3|Psalms 132:3 >>]]</td></tr></table>
 

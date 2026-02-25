@@ -1,10 +1,74 @@
+---
+title: Luke 1:20
+type: Verse
+kjv: "And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season."
+bsb: "And now you will be silent and unable to speak until the day this comes to pass, because you did not believe my words, which will be fulfilled at their proper time.”"
+greek: "καὶ ἰδοὺ ἔσῃ σιωπῶν καὶ μὴ δυνάμενος λαλῆσαι ἄχρι ἧς ἡμέρας γένηται ταῦτα, ἀνθ᾽ ὧν οὐκ ἐπίστευσας τοῖς λόγοις μου οἵτινες πληρωθήσονται εἰς τὸν καιρὸν αὐτῶν.¶"
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JOY|JOY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic VISION|VISION]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1510]]"
+- "[[G4623]]"
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G2980]]"
+- "[[G0891]]"
+- "[[G3739]]"
+- "[[G2250]]"
+- "[[G1096]]"
+- "[[G3778]]"
+- "[[G0473]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3165]]"
+- "[[G3748]]"
+- "[[G4137]]"
+- "[[G1519]]"
+- "[[G2540]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Luke 1:20**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season.
 <small><sub>**BSB:**</sub></small>
 And now you will be silent and unable to speak until the day this comes to pass, because you did not believe my words, which will be fulfilled at their proper time.”
-<small><sub>**Literal:**</sub></small>
-And behold you will be silent and not able to speak until that day may happen these things, in return for that not you did believe in the words of mine which will be fulfilled in the season of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.19|<< Luke 1:19]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.21|Luke 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1510\|ἔσῃ]]  [[G4623\|σιωπῶν]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1410\|δυνάμενος]]  [[G2980\|λαλῆσαι]]  [[G0891\|ἄχρι]]  [[G3739\|ἧς]]  [[G2250\|ἡμέρας]]  [[G1096\|γένηται]]  [[G3778\|ταῦτα,]]  [[G0473\|ἀνθ᾽]]  [[G3739\|ὧν]]  [[G3756\|οὐκ]]  [[G4100\|ἐπίστευσας]]  [[G3588\|τοῖς]]  [[G3056\|λόγοις]]  [[G3165\|μου]]  [[G3748\|οἵτινες]]  [[G4137\|πληρωθήσονται]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2540\|καιρὸν]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BARRENNESS|BARRENNESS]] • [[topic DUMB (DEAFNESS, MUTE)|DUMB (DEAFNESS, MUTE)]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JOHN|JOHN]] • [[topic JOY|JOY]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEMPLE|TEMPLE]] • [[topic UNBELIEF|UNBELIEF]] • [[topic VISION|VISION]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.19|<< Luke 1:19]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.21|Luke 1:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

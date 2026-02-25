@@ -1,8 +1,70 @@
+---
+title: Leviticus 25:25
+type: Verse
+kjv: "If thy brother be waxen poor, and hath sold away some of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold."
+bsb: "If your brother becomes impoverished and sells some of his property, his nearest of kin may come and redeem what his brother has sold."
+hebrew: "כִּֽי־ יָמ֣וּךְ אָחִ֔יךָ וּמָכַ֖ר מֵאֲחֻזָּת֑וֹ וּבָ֤א גֹֽאֲלוֹ֙ הַקָּרֹ֣ב אֵלָ֔יו וְגָאַ֕ל אֵ֖ת מִמְכַּ֥ר אָחִֽיו׃"
+pericope: "[[Lev.25.23 The Law of Redemption|The Law of Redemption]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic HOMESTEAD|HOMESTEAD]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4134]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H4376]]"
+- "[[H9006]]"
+- "[[H0272]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H1350A]]"
+- "[[H9009]]"
+- "[[H7138]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H4465]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:25**<big><big>[[Lev.25.23 The Law of Redemption|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thy brother be waxen poor, and hath sold away [some] of his possession, and if any of his kin come to redeem it, then shall he redeem that which his brother sold.
 <small><sub>**BSB:**</sub></small>
 If your brother becomes impoverished and sells some of his property, his nearest of kin may come and redeem what his brother has sold.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H4134\|יָמ֣וּךְ]] [[H0251I\|אָחִ֔י]][[H9021\|ךָ]] [[H9001\|וּ]][[H4376\|מָכַ֖ר]] [[H9006\|מֵ]][[H0272\|אֲחֻזָּת֑]][[H9023\|וֹ]] [[H9001\|וּ]][[H0935G\|בָ֤א]] [[H1350A\|גֹֽאֲל]][[H9023\|וֹ֙]] [[H9009\|הַ]][[H7138\|קָּרֹ֣ב]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9001\|וְ]][[H1350A\|גָאַ֕ל]] [[H0853\|אֵ֖ת]] [[H4465\|מִמְכַּ֥ר]] [[H0251I\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic DEBTOR|DEBTOR]] • [[topic HOMESTEAD|HOMESTEAD]] • [[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic POOR|POOR]] • [[topic REDEMPTION|REDEMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.24|<< Leviticus 25:24]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.26|Leviticus 25:26 >>]]</td></tr></table>
 

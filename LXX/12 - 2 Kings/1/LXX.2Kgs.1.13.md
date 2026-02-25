@@ -1,6 +1,93 @@
+---
+title: LXX 2 Kings 1:13
+type: Verse
+lxx: "And the king proceeded again to send a third commander of fifty and  his fifty. And the third commander of fifty came, and he bent upon  his knees in front of  Elijah, and beseeched him, and spoke to him, and said, O man  of God, value indeed  my life, and the lives  of your servants -- these  fifty, in your eyes!"
+greek: "και προσέθετο ο βασιλεύς έτι αποστείλαι πεντηκόνταρχον τρίτον και τους πεντήκοντα αυτού και ήλθεν ο πεντηκόνταρχος ο τρίτος και έκαμψεν επί τα γόνατα αυτού κατέναντι του Ηλίου και εδεήθη αυτού και ελάλησε προς αυτόν και είπεν άνθρωπε του θεού εντιμωθήτω δη η ψυχή μου και αι ψυχάι των δούλων σου τούτων των πεντήκοντα εν οφθαλμοίς σου"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G2532]]"
+- "[[G4369]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2089]]"
+- "[[G0649]]"
+- "[[G8705]]"
+- "[[G5154]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4004]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G8705]]"
+- "[[G3588]]"
+- "[[G5154]]"
+- "[[G2532]]"
+- "[[G2578]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1119]]"
+- "[[G1473]]"
+- "[[G2713]]"
+- "[[G3588]]"
+- "[[G2243]]"
+- "[[G2532]]"
+- "[[G1189]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G7269]]"
+- "[[G1211]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4004]]"
+- "[[G1722]]"
+- "[[G3788]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Kings 1:13** 
 <small><sub>**LXX:**</sub></small>
 And the king proceeded again to send a third commander of fifty and  his fifty. And the third commander of fifty came, and he bent upon  his knees in front of  Elijah, and beseeched him, and spoke to him, and said, O man  of God, value indeed  my life, and the lives  of your servants -- these  fifty, in your eyes! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4369\|προσέθετο]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G2089\|έτι]] [[G0649\|αποστείλαι]] [[G8705\|πεντηκόνταρχον]] [[G5154\|τρίτον]] [[G2532\|και]] [[G3588\|τους]] [[G4004\|πεντήκοντα]] [[G1473\|αυτού]] [[G2532\|και]] [[G2064\|ήλθεν]] [[G3588\|ο]] [[G8705\|πεντηκόνταρχος]] [[G3588\|ο]] [[G5154\|τρίτος]] [[G2532\|και]] [[G2578\|έκαμψεν]] [[G1909\|επί]] [[G3588\|τα]] [[G1119\|γόνατα]] [[G1473\|αυτού]] [[G2713\|κατέναντι]] [[G3588\|του]] [[G2243\|Ηλίου]] [[G2532\|και]] [[G1189\|εδεήθη]] [[G1473\|αυτού]] [[G2532\|και]] [[G2980\|ελάλησε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G2532\|και]] [[G2036\|είπεν]] [[G0444\|άνθρωπε]] [[G3588\|του]] [[G2316\|θεού]] [[G7269\|εντιμωθήτω]] [[G1211\|δη]] [[G3588\|η]] [[G5590\|ψυχή]] [[G1473\|μου]] [[G2532\|και]] [[G3588\|αι]] [[G5590\|ψυχάι]] [[G3588\|των]] [[G1401\|δούλων]] [[G1473\|σου]] [[G3778\|τούτων]] [[G3588\|των]] [[G4004\|πεντήκοντα]] [[G1722\|εν]] [[G3788\|οφθαλμοίς]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.12|<< 2 Kings 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.14|2 Kings 1:14 >>]]</td></tr></table>
 
@@ -57,6 +144,6 @@ And the king proceeded again to send a third commander of fifty and  his fifty. 
 | fifty, | **<big>[[G4004\|πεντήκοντα]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | your eyes! | **<big>[[G3788\|οφθαλμοίς]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[2Kgs.1.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.12|<< 2 Kings 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.14|2 Kings 1:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.1.12|<< 2 Kings 1:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.1.14|2 Kings 1:14 >>]]</td></tr></table>
 
 

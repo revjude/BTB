@@ -1,8 +1,67 @@
+---
+title: 1 Kings 18:46
+type: Verse
+kjv: "And the hand of the LORD was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel."
+bsb: "And the hand of the LORD came upon Elijah, and he tucked his cloak into his belt and ran ahead of Ahab all the way to Jezreel."
+hebrew: "וְיַד־ יְהוָ֗ה הָֽיְתָה֙ אֶל־ אֵ֣לִיָּ֔הוּ וַיְשַׁנֵּ֖ס מָתְנָ֑יו וַיָּ֙רָץ֙ לִפְנֵ֣י אַחְאָ֔ב עַד־ בֹּאֲכָ֖ה יִזְרְעֶֽאלָה׃"
+pericope: "[[1Kgs.18.41 The LORD Sends Rain|The LORD Sends Rain]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic HAND|HAND]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H0452G]]"
+- "[[H9001]]"
+- "[[H8151]]"
+- "[[H4975]]"
+- "[[H9023]]"
+- "[[H7323G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0256G]]"
+- "[[H5704]]"
+- "[[H0935I]]"
+- "[[H9041]]"
+- "[[H3157H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:46**<big><big>[[1Kgs.18.41 The LORD Sends Rain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the hand of the LORD was on Elijah; and he girded up his loins, and ran before Ahab to the entrance of Jezreel.
 <small><sub>**BSB:**</sub></small>
 And the hand of the LORD came upon Elijah, and he tucked his cloak into his belt and ran ahead of Ahab all the way to Jezreel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H1961\|הָֽיְתָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0452G\|אֵ֣לִיָּ֔הוּ]] [[H9001\|וַ]][[H8151\|יְשַׁנֵּ֖ס]] [[H4975\|מָתְנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H7323G\|יָּ֙רָץ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0256G\|אַחְאָ֔ב]] [[H5704\|עַד]][[H9014\|־]] [[H0935I\|בֹּאֲ]][[H9041\|כָ֖ה]] [[H3157H\|יִזְרְעֶֽאלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic HAND|HAND]] • [[topic JEZREEL|JEZREEL]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.45|<< 1 Kings 18:45]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.1|1 Kings 19:1 >>]]</td></tr></table>
 

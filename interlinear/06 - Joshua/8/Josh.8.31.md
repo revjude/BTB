@@ -1,8 +1,76 @@
+---
+title: Joshua 8:31
+type: Verse
+kjv: "As Moses the servant of the LORD commanded the children of Israel, as it is written in the book of the law of Moses, an altar of whole stones, over which no man hath lift up any iron: and they offered thereon burnt offerings unto the LORD, and sacrificed peace offerings."
+bsb: "just as Moses the servant of the LORD had commanded the Israelites. He built it according to what is written in the Book of the Law of Moses: “an altar of uncut stones on which no iron tool has been used.” And on it they offered burnt offerings to the LORD, and they sacrificed peace offerings."
+hebrew: "כַּאֲשֶׁ֣ר צִוָּה֩ מֹשֶׁ֨ה עֶֽבֶד־ יְהוָ֜ה אֶת־ בְּנֵ֣י יִשְׂרָאֵ֗ל כַּכָּתוּב֙ בְּסֵ֙פֶר֙ תּוֹרַ֣ת מֹשֶׁ֔ה מִזְבַּח֙ אֲבָנִ֣ים שְׁלֵמ֔וֹת אֲשֶׁ֛ר לֹֽא־ הֵנִ֥יף עֲלֵיהֶ֖ן בַּרְזֶ֑ל וַיַּעֲל֨וּ עָלָ֤יו עֹלוֹת֙ לַֽיהוָ֔ה וַֽיִּזְבְּח֖וּ שְׁלָמִֽים׃"
+pericope: "[[Josh.8.30 Joshua Renews the Covenant|Joshua Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PEACE OFFERINGS|PEACE OFFERINGS]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H5612H]]"
+- "[[H8451]]"
+- "[[H4196]]"
+- "[[H0068G]]"
+- "[[H8003]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5130B]]"
+- "[[H5921A]]"
+- "[[H9039]]"
+- "[[H1270]]"
+- "[[H9001]]"
+- "[[H5927I]]"
+- "[[H9033]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H2076]]"
+- "[[H8002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:31**<big><big>[[Josh.8.30 Joshua Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As Moses the servant of the LORD commanded the children of Israel, as it is written in the book of the law of Moses, an altar of whole stones, over which no man hath lift up [any] iron: and they offered thereon burnt offerings unto the LORD, and sacrificed peace offerings.
 <small><sub>**BSB:**</sub></small>
 just as Moses the servant of the LORD had commanded the Israelites. He built it according to what is written in the Book of the Law of Moses: “an altar of uncut stones on which no iron tool has been used.” And on it they offered burnt offerings to the LORD, and they sacrificed peace offerings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6680\|צִוָּה֩]] [[H4872\|מֹשֶׁ֨ה]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9004\|כַּ]][[H3789\|כָּתוּב֙]] [[H9003\|בְּ]][[H5612H\|סֵ֙פֶר֙]] [[H8451\|תּוֹרַ֣ת]] [[H4872\|מֹשֶׁ֔ה]] [[H4196\|מִזְבַּח֙]] [[H0068G\|אֲבָנִ֣ים]] [[H8003\|שְׁלֵמ֔וֹת]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5130B\|הֵנִ֥יף]] [[H5921A\|עֲלֵי]][[H9039\|הֶ֖ן]] [[H1270\|בַּרְזֶ֑ל]] [[H9001\|וַ]][[H5927I\|יַּעֲל֨וּ]] [[H5921A\|עָלָ֤י]][[H9033\|ו]] [[H5930A\|עֹלוֹת֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9001\|וַֽ]][[H2076\|יִּזְבְּח֖וּ]] [[H8002\|שְׁלָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CURSE|CURSE]] • [[topic LAW|LAW]] • [[topic PEACE OFFERINGS|PEACE OFFERINGS]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.30|<< Joshua 8:30]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.32|Joshua 8:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

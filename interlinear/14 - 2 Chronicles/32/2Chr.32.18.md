@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 32:18
+type: Verse
+kjv: "Then they cried with a loud voice in the Jews’ speech unto the people of Jerusalem that were on the wall, to affright them, and to trouble them; that they might take the city."
+bsb: "Then the Assyrians called out loudly in Hebrew to the people of Jerusalem who were on the wall, to frighten and terrify them in order to capture the city."
+hebrew: "וַיִּקְרְא֨וּ בְקוֹל־ גָּד֜וֹל יְהוּדִ֗ית עַל־ עַ֤ם יְרוּשָׁלִַ֙ם֙ אֲשֶׁ֣ר עַל־ הַֽחוֹמָ֔ה לְיָֽרְאָ֖ם וּֽלְבַהֲלָ֑ם לְמַ֖עַן יִלְכְּד֥וּ אֶת־ הָעִֽיר׃"
+pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JEWS|JEWS]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H3066]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H3389]]"
+- "[[H0834A]]"
+- "[[H9009]]"
+- "[[H2346G]]"
+- "[[H9005]]"
+- "[[H3372G]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H0926]]"
+- "[[H4616]]"
+- "[[H3920]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:18**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they cried with a loud voice in the Jews’ speech unto the people of Jerusalem that [were] on the wall, to affright them, and to trouble them; that they might take the city.
 <small><sub>**BSB:**</sub></small>
 Then the Assyrians called out loudly in Hebrew to the people of Jerusalem who were on the wall, to frighten and terrify them in order to capture the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121I\|יִּקְרְא֨וּ]] [[H9003\|בְ]][[H6963A\|קוֹל]][[H9014\|־]] [[H1419A\|גָּד֜וֹל]] [[H3066\|יְהוּדִ֗ית]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַ֤ם]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַֽ]][[H2346G\|חוֹמָ֔ה]] [[H9005\|לְ]][[H3372G\|יָֽרְאָ֖]][[H9038\|ם]] [[H9002\|וּֽ]][[H9005\|לְ]][[H0926\|בַהֲלָ֑]][[H9038\|ם]] [[H4616\|לְמַ֖עַן]] [[H3920\|יִלְכְּד֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic JEWS|JEWS]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.17|<< 2 Chronicles 32:17]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.19|2 Chronicles 32:19 >>]]</td></tr></table>
 

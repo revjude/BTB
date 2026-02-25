@@ -1,8 +1,73 @@
+---
+title: Ezekiel 2:3
+type: Verse
+kjv: "And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, even unto this very day."
+bsb: "“Son of man,” He said to me, “I am sending you to the Israelites, to a rebellious nation that has rebelled against Me. To this very day they and their fathers have rebelled against Me."
+hebrew: "וַיֹּ֣אמֶר אֵלַ֗י בֶּן־ אָדָם֙ שׁוֹלֵ֨חַ אֲנִ֤י אֽוֹתְךָ֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶל־ גּוֹיִ֥ם הַמּוֹרְדִ֖ים אֲשֶׁ֣ר מָרְדוּ־ בִ֑י הֵ֤מָּה וַאֲבוֹתָם֙ פָּ֣שְׁעוּ בִ֔י עַד־ עֶ֖צֶם הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Ezek.2.1 Ezekiel’s Call|Ezekiel’s Call]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 2
+book/chapter: "[[Ezek.2|Ezekiel 2]]"
+chronological_order: 793
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H7971G]]"
+- "[[H0589]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1471A]]"
+- "[[H9009]]"
+- "[[H4775]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H6586]]"
+- "[[H5704]]"
+- "[[H6106H]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 2:3**<big><big>[[Ezek.2.1 Ezekiel’s Call|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, Son of man, I send thee to the children of Israel, to a rebellious nation that hath rebelled against me: they and their fathers have transgressed against me, [even] unto this very day.
 <small><sub>**BSB:**</sub></small>
 “Son of man,” He said to me, “I am sending you to the Israelites, to a rebellious nation that has rebelled against Me. To this very day they and their fathers have rebelled against Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H7971G\|שׁוֹלֵ֨חַ]] [[H0589\|אֲנִ֤י]] [[H0853\|אֽוֹתְ]][[H9031\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0413\|אֶל]][[H9014\|־]] [[H1471A\|גּוֹיִ֥ם]] [[H9009\|הַ]][[H4775\|מּוֹרְדִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H4775\|מָרְדוּ]][[H9014\|־]] [[H9003\|בִ֑]][[H9030\|י]] [[H1992\|הֵ֤מָּה]] [[H9002\|וַ]][[H0001G\|אֲבוֹתָ]][[H9028\|ם֙]] [[H6586\|פָּ֣שְׁעוּ]] [[H9003\|בִ֔]][[H9030\|י]] [[H5704\|עַד]][[H9014\|־]] [[H6106H\|עֶ֖צֶם]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.2|<< Ezekiel 2:2]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.4|Ezekiel 2:4 >>]]</td></tr></table>
 

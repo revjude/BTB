@@ -1,8 +1,62 @@
+---
+title: Numbers 33:40
+type: Verse
+kjv: "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel."
+bsb: "Now the Canaanite king of Arad, who lived in the Negev in the land of Canaan, heard that the Israelites were coming."
+hebrew: "וַיִּשְׁמַ֗ע הַֽכְּנַעֲנִי֙ מֶ֣לֶךְ עֲרָ֔ד וְהֽוּא־ יֹשֵׁ֥ב בַּנֶּ֖גֶב בְּאֶ֣רֶץ כְּנָ֑עַן בְּבֹ֖א בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARAD|ARAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H4428G]]"
+- "[[H6166A]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5045G]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H0935G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:40**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 Now the Canaanite king of Arad, who lived in the Negev in the land of Canaan, heard that the Israelites were coming.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֗ע]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִי֙]] [[H4428G\|מֶ֣לֶךְ]] [[H6166A\|עֲרָ֔ד]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H3427\|יֹשֵׁ֥ב]] [[H9003\|בַּ]][[H5045G\|נֶּ֖גֶב]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9003\|בְּ]][[H0935G\|בֹ֖א]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAD|ARAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.39|<< Numbers 33:39]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.41|Numbers 33:41 >>]]</td></tr></table>
 

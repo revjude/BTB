@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 15:8
+type: Verse
+kjv: "But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, in that which he wanteth."
+bsb: "Instead, you are to open your hand to him and freely loan him whatever he needs."
+hebrew: "כִּֽי־ פָתֹ֧חַ תִּפְתַּ֛ח אֶת־ יָדְךָ֖ ל֑וֹ וְהַעֲבֵט֙ תַּעֲבִיטֶ֔נּוּ דֵּ֚י מַחְסֹר֔וֹ אֲשֶׁ֥ר יֶחְסַ֖ר לֽוֹ׃"
+pericope: "[[Deut.15.7 Generosity in Lending and Giving|Generosity in Lending and Giving]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6605A]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H5670]]"
+- "[[H1767]]"
+- "[[H4270]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:8**<big><big>[[Deut.15.7 Generosity in Lending and Giving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, [in that] which he wanteth.
 <small><sub>**BSB:**</sub></small>
 Instead, you are to open your hand to him and freely loan him whatever he needs.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6605A\|פָתֹ֧חַ]] [[H6605A\|תִּפְתַּ֛ח]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדְ]][[H9021\|ךָ֖]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H5670\|הַעֲבֵט֙]] [[H5670\|תַּעֲבִיטֶ֔]][[H9033\|נּוּ]] [[H1767\|דֵּ֚י]] [[H4270\|מַחְסֹר֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H2637\|יֶחְסַ֖ר]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic LENDING|LENDING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.7|<< Deuteronomy 15:7]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.9|Deuteronomy 15:9 >>]]</td></tr></table>
 

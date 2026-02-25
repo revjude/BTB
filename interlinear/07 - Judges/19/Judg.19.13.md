@@ -1,8 +1,60 @@
+---
+title: Judges 19:13
+type: Verse
+kjv: "And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah."
+bsb: "He continued, “Come, let us try to reach one of these towns to spend the night in Gibeah or Ramah.”"
+hebrew: "וַיֹּ֣אמֶר לְנַעֲר֔וֹ לְכָ֥ה וְנִקְרְבָ֖ה בְּאַחַ֣ד הַמְּקֹמ֑וֹת וְלַ֥נּוּ בַגִּבְעָ֖ה א֥וֹ בָרָמָֽה׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5288]]"
+- "[[H9023]]"
+- "[[H1980N]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H7126G]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H3885A]]"
+- "[[H1390H]]"
+- "[[H0176A]]"
+- "[[H7414G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Judges 19:13**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto his servant, Come, and let us draw near to one of these places to lodge all night, in Gibeah, or in Ramah.
 <small><sub>**BSB:**</sub></small>
 He continued, “Come, let us try to reach one of these towns to spend the night in Gibeah or Ramah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H5288\|נַעֲר֔]][[H9023\|וֹ]] [[H1980N\|לְכָ֥]][[H9012\|ה]] [[H9002\|וְ]][[H7126G\|נִקְרְבָ֖ה]] [[H9003\|בְּ]][[H0259\|אַחַ֣ד]] [[H9009\|הַ]][[H4725\|מְּקֹמ֑וֹת]] [[H9001\|וְ]][[H3885A\|לַ֥נּוּ]] [[H9003\|בַ]][[H1390H\|גִּבְעָ֖ה]] [[H0176A\|א֥וֹ]] [[H9003\|בָ]][[H7414G\|רָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.12|<< Judges 19:12]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.14|Judges 19:14 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Genesis 37:13
+type: Verse
+kjv: "And Israel said unto Joseph, Do not thy brethren feed the flock in Shechem? come, and I will send thee unto them. And he said to him, Here am I."
+bsb: "Israel said to him, “Are not your brothers pasturing the flocks at Shechem? Get ready; I am sending you to them.” “I am ready,” Joseph replied."
+hebrew: "וַיֹּ֨אמֶר יִשְׂרָאֵ֜ל אֶל־ יוֹסֵ֗ף הֲל֤וֹא אַחֶ֙יךָ֙ רֹעִ֣ים בִּשְׁכֶ֔ם לְכָ֖ה וְאֶשְׁלָחֲךָ֣ אֲלֵיהֶ֑ם וַיֹּ֥אמֶר ל֖וֹ הִנֵּֽנִי׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H7462B]]"
+- "[[H9003]]"
+- "[[H7927G]]"
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H9002]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:13**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel said unto Joseph, Do not thy brethren feed [the flock] in Shechem? come, and I will send thee unto them. And he said to him, Here [am I].
 <small><sub>**BSB:**</sub></small>
 Israel said to him, “Are not your brothers pasturing the flocks at Shechem? Get ready; I am sending you to them.” “I am ready,” Joseph replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֗ף]] [[H9008\|הֲ]][[H3808\|ל֤וֹא]] [[H0251G\|אַחֶ֙י]][[H9021\|ךָ֙]] [[H7462B\|רֹעִ֣ים]] [[H9003\|בִּ]][[H7927G\|שְׁכֶ֔ם]] [[H1980K\|לְכָ֖]][[H9012\|ה]] [[H9002\|וְ]][[H7971G\|אֶשְׁלָחֲ]][[H9031\|ךָ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H2009\|הִנֵּֽ]][[H9040\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.12|<< Genesis 37:12]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.14|Genesis 37:14 >>]]</td></tr></table>
 

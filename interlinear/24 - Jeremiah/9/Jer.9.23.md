@@ -1,8 +1,65 @@
+---
+title: Jeremiah 9:23
+type: Verse
+kjv: "Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches:"
+bsb: "This is what the LORD says: “Let not the wise man boast in his wisdom, nor the strong man in his strength, nor the wealthy man in his riches."
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה אַל־ יִתְהַלֵּ֤ל חָכָם֙ בְּחָכְמָת֔וֹ וְאַל־ יִתְהַלֵּ֥ל הַגִּבּ֖וֹר בִּגְבֽוּרָת֑וֹ אַל־ יִתְהַלֵּ֥ל עָשִׁ֖יר בְּעָשְׁרֽוֹ׃"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CONCEIT|CONCEIT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1984H]]"
+- "[[H2450]]"
+- "[[H9003]]"
+- "[[H2451]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1368]]"
+- "[[H1369]]"
+- "[[H6223]]"
+- "[[H6239]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 9:23**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Let not the wise [man] glory in his wisdom, neither let the mighty [man] glory in his might, let not the rich [man] glory in his riches:
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Let not the wise man boast in his wisdom, nor the strong man in his strength, nor the wealthy man in his riches.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H1984H\|יִתְהַלֵּ֤ל]] [[H2450\|חָכָם֙]] [[H9003\|בְּ]][[H2451\|חָכְמָת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1984H\|יִתְהַלֵּ֥ל]] [[H9009\|הַ]][[H1368\|גִּבּ֖וֹר]] [[H9003\|בִּ]][[H1369\|גְבֽוּרָת֑]][[H9023\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H1984H\|יִתְהַלֵּ֥ל]] [[H6223\|עָשִׁ֖יר]] [[H9003\|בְּ]][[H6239\|עָשְׁרֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic CONCEIT|CONCEIT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PRIDE|PRIDE]] • [[topic RICH, THE|RICH, THE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.22|<< Jeremiah 9:22]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.24|Jeremiah 9:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

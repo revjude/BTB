@@ -1,8 +1,85 @@
+---
+title: Ruth 4:11
+type: Verse
+kjv: "And all the people that were in the gate, and the elders, said, We are witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:"
+bsb: "“We are witnesses,” said the elders and all the people at the gate. “May the LORD make the woman entering your home like Rachel and Leah, who together built up the house of Israel. May you be prosperous in Ephrathah and famous in Bethlehem."
+hebrew: "וַיֹּ֨אמְר֜וּ כָּל־ הָעָ֧ם אֲשֶׁר־ בַּשַּׁ֛עַר וְהַזְּקֵנִ֖ים עֵדִ֑ים יִתֵּן֩ יְהוָ֨ה אֶֽת־ הָאִשָּׁ֜ה הַבָּאָ֣ה אֶל־ בֵּיתֶ֗ךָ כְּרָחֵ֤ל׀ וּכְלֵאָה֙ אֲשֶׁ֨ר בָּנ֤וּ שְׁתֵּיהֶם֙ אֶת־ בֵּ֣ית יִשְׂרָאֵ֔ל וַעֲשֵׂה־ חַ֣יִל בְּאֶפְרָ֔תָה וּקְרָא־ שֵׁ֖ם בְּבֵ֥ית לָֽחֶם׃"
+pericope: "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic EPHRATAH|EPHRATAH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9002]]"
+- "[[H2205G]]"
+- "[[H5707]]"
+- "[[H5414I]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H0802G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H7354]]"
+- "[[H9015]]"
+- "[[H3812]]"
+- "[[H1129]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H3478]]"
+- "[[H6213A]]"
+- "[[H2428I]]"
+- "[[H0672H]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H1035G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 4:11**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people that [were] in the gate, and the elders, said, [We are] witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:
 <small><sub>**BSB:**</sub></small>
 “We are witnesses,” said the elders and all the people at the gate. “May the LORD make the woman entering your home like Rachel and Leah, who together built up the house of Israel. May you be prosperous in Ephrathah and famous in Bethlehem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמְר֜וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֧ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בַּ]][[H8179G\|שַּׁ֛עַר]] [[H9002\|וְ]][[H9009\|הַ]][[H2205G\|זְּקֵנִ֖ים]] [[H5707\|עֵדִ֑ים]] [[H5414I\|יִתֵּן֩]] [[H3068G\|יְהוָ֨ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֜ה]] [[H9009\|הַ]][[H0935G\|בָּאָ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּיתֶ֗]][[H9021\|ךָ]] [[H9004\|כְּ]][[H7354\|רָחֵ֤ל]][[H9015\|׀]] [[H9002\|וּ]][[H9004\|כְ]][[H3812\|לֵאָה֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H1129\|בָּנ֤וּ]] [[H8147\|שְׁתֵּי]][[H9028\|הֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וַ]][[H6213A\|עֲשֵׂה]][[H9014\|־]] [[H2428I\|חַ֣יִל]] [[H9003\|בְּ]][[H0672H\|אֶפְרָ֔תָה]] [[H9002\|וּ]][[H7121H\|קְרָא]][[H9014\|־]] [[H8034\|שֵׁ֖ם]] [[H9003\|בְּ]][[H1035G\|בֵ֥ית]] [[H1035G\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic COVENANT|COVENANT]] • [[topic EPHRATAH|EPHRATAH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic LAND|LAND]] • [[topic LEAH|LEAH]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RUTH|RUTH]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.10|<< Ruth 4:10]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.12|Ruth 4:12 >>]]</td></tr></table>
 

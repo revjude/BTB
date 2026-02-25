@@ -1,8 +1,56 @@
+---
+title: Psalm 119:122
+type: Verse
+kjv: "Be surety for thy servant for good: let not the proud oppress me."
+bsb: "Ensure Your servant’s well-being; do not let the arrogant oppress me."
+hebrew: "עֲרֹ֣ב עַבְדְּךָ֣ לְט֑וֹב אַֽל־ יַעַשְׁקֻ֥נִי זֵדִֽים׃"
+pericope: "[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|Your Word Is a Lamp to My Feet - AIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H6148]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H2896B]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H6231]]"
+- "[[H9030]]"
+- "[[H2086]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:122**<big><big>[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be surety for thy servant for good: let not the proud oppress me.
 <small><sub>**BSB:**</sub></small>
 Ensure Your servant’s well-being; do not let the arrogant oppress me.
+<small><sub>**Hebrew:**</sub></small>
+[[H6148\|עֲרֹ֣ב]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֣]] [[H9005\|לְ]][[H2896B\|ט֑וֹב]] [[H0408\|אַֽל]][[H9014\|־]] [[H6231\|יַעַשְׁקֻ֥]][[H9030\|נִי]] [[H2086\|זֵדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.122|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.121|<< Psalms 119:121]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.123|Psalms 119:123 >>]]</td></tr></table>
 

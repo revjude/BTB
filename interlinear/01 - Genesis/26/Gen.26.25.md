@@ -1,8 +1,61 @@
+---
+title: Genesis 26:25
+type: Verse
+kjv: "And he builded an altar there, and called upon the name of the LORD, and pitched his tent there: and there Isaac’s servants digged a well."
+bsb: "So Isaac built an altar there and called on the name of the LORD, and he pitched his tent there. His servants also dug a well there."
+hebrew: "וַיִּ֧בֶן שָׁ֣ם מִזְבֵּ֗חַ וַיִּקְרָא֙ בְּשֵׁ֣ם יְהוָ֔ה וַיֶּט־ שָׁ֖ם אָהֳל֑וֹ וַיִּכְרוּ־ שָׁ֥ם עַבְדֵי־ יִצְחָ֖ק בְּאֵֽר׃"
+pericope: "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ISAAC|ISAAC]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H8033G]]"
+- "[[H4196]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H5186]]"
+- "[[H9014]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H3738B]]"
+- "[[H5650]]"
+- "[[H3327]]"
+- "[[H0875]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:25**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he builded an altar there, and called upon the name of the LORD, and pitched his tent there: and there Isaac’s servants digged a well.
 <small><sub>**BSB:**</sub></small>
 So Isaac built an altar there and called on the name of the LORD, and he pitched his tent there. His servants also dug a well there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּ֧בֶן]] [[H8033G\|שָׁ֣ם]] [[H4196\|מִזְבֵּ֗חַ]] [[H9001\|וַ]][[H7121G\|יִּקְרָא֙]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H5186\|יֶּט]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H0168G\|אָהֳל֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3738B\|יִּכְרוּ]][[H9014\|־]] [[H8033G\|שָׁ֥ם]] [[H5650\|עַבְדֵי]][[H9014\|־]] [[H3327\|יִצְחָ֖ק]] [[H0875\|בְּאֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ISAAC|ISAAC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.24|<< Genesis 26:24]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.26|Genesis 26:26 >>]]</td></tr></table>
 

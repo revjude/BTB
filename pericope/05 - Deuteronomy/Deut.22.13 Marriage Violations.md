@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Marriage Violations
+type: Pericope
 pericope: "[[Deut.22.13 Marriage Violations|Marriage Violations]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 22
 book/chapter: "[[Deut.22|Deuteronomy 22]]"
-genre:
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 18
 verses:
 - "[[Deut.22.13]]"
 - "[[Deut.22.14]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Deut.22.30]]"
 ---
 
-[[Deut.22|Deuteronomy 22:13 - Deuteronomy 22:30]]
+<small>[[Deut.22|Deuteronomy 22:13-30]]</small>
 *Marriage Violations*
 
 [[Deut.22.13|13]] If any man take a wife, and go in unto her, and hate her,

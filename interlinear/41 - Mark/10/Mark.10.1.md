@@ -1,10 +1,61 @@
+---
+title: Mark 10:1
+type: Verse
+kjv: "And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again."
+bsb: "Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom."
+greek: "Καὶ ἐκεῖθεν ἀναστὰς ἔρχεται εἰς τὰ ὅρια τῆς Ἰουδαίας καὶ τοῦ πέραν τοῦ Ἰορδάνου, καὶ συμπορεύονται πάλιν ὄχλοι πρὸς αὐτόν, καὶ ὡς εἰώθει πάλιν ἐδίδασκεν αὐτούς."
+pericope: "[[Mark.10.1 Teachings about Divorce|Teachings about Divorce]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDEA|JUDEA]]"
+strongs:
+- "[[G2532]]"
+- "[[G1564]]"
+- "[[G0450]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G2449]]"
+- "[[G4008]]"
+- "[[G2446]]"
+- "[[G4848]]"
+- "[[G3825]]"
+- "[[G3793]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G5613]]"
+- "[[G1486]]"
+- "[[G1321]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 10:1**<big><big>[[Mark.10.1 Teachings about Divorce|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
 <small><sub>**BSB:**</sub></small>
 Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom.
-<small><sub>**Literal:**</sub></small>
-And from there having risen up He comes into the region <the> of Judea and <the> beyond the Jordan, And come together again crowds to Him, and as He had been accustomed again He was teaching them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.50|<< Mark 9:50]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.2|Mark 10:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1564\|ἐκεῖθεν]]  [[G0450\|ἀναστὰς]]  [[G2064\|ἔρχεται]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3725\|ὅρια]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G4008\|πέραν]]  [[G3588\|τοῦ]]  [[G2446\|Ἰορδάνου,]]  [[G2532\|καὶ]]  [[G4848\|συμπορεύονται]]  [[G3825\|πάλιν]]  [[G3793\|ὄχλοι]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G1486\|εἰώθει]]  [[G3825\|πάλιν]]  [[G1321\|ἐδίδασκεν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDEA|JUDEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.50|<< Mark 9:50]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.2|Mark 10:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

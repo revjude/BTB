@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Judah
+type: Pericope
 pericope: "[[1Chr.4.1 The Descendants of Judah|The Descendants of Judah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 4
 book/chapter: "[[1Chr.4|1 Chronicles 4]]"
-genre:
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 8
 verses:
 - "[[1Chr.4.1]]"
 - "[[1Chr.4.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Chr.4.8]]"
 ---
 
-[[1Chr.4|1 Chronicles 4:1 - 1 Chronicles 4:8]]
+<small>[[1Chr.4|1 Chronicles 4:1-8]]</small>
 *The Descendants of Judah*
 
 [[1Chr.4.1|1]] The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.

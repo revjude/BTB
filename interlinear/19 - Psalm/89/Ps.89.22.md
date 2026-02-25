@@ -1,8 +1,59 @@
+---
+title: Psalm 89:22
+type: Verse
+kjv: "The enemy shall not exact upon him; nor the son of wickedness afflict him."
+bsb: "No enemy will exact tribute; no wicked man will oppress him."
+hebrew: "לֹֽא־ יַשִּׁ֣א אוֹיֵ֣ב בּ֑וֹ וּבֶן־ עַ֝וְלָ֗ה לֹ֣א יְעַנֶּֽנּוּ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5377]]"
+- "[[H0341]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1121I]]"
+- "[[H5766B]]"
+- "[[H6031B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:22**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The enemy shall not exact upon him; nor the son of wickedness afflict him.
 <small><sub>**BSB:**</sub></small>
 No enemy will exact tribute; no wicked man will oppress him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H5377\|יַשִּׁ֣א]] [[H0341\|אוֹיֵ֣ב]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9002\|וּ]][[H1121I\|בֶן]][[H9014\|־]] [[H5766B\|עַ֝וְלָ֗ה]] [[H3808\|לֹ֣א]] [[H6031B\|יְעַנֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.21|<< Psalms 89:21]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.23|Psalms 89:23 >>]]</td></tr></table>
 

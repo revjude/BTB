@@ -1,10 +1,55 @@
+---
+title: Luke 21:14
+type: Verse
+kjv: "Settle it therefore in your hearts, not to meditate before what ye shall answer:"
+bsb: "So make up your mind not to worry beforehand how to defend yourselves."
+jesus_said: "Settle it therefore in your hearts, not to meditate before what ye shall answer:"
+greek: "θέτε οὖν ἐν ταῖς καρδίαις ὑμῶν μὴ προμελετᾶν ἀπολογηθῆναι·"
+pericope: "[[Luke.21.10 Witnessing to All Nations|Witnessing to All Nations]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G5087]]"
+- "[[G3767]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G4304]]"
+- "[[G0626]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Luke 21:14**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Settle [it] therefore in your hearts, not to meditate before what ye shall answer:
 <small><sub>**BSB:**</sub></small>
 So make up your mind not to worry beforehand how to defend yourselves.
-<small><sub>**Literal:**</sub></small>
-do implant therefore in the hearts of you not to premeditate to present a defense;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.13|<< Luke 21:13]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.15|Luke 21:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5087\|θέτε]]  [[G3767\|οὖν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G4771\|ὑμῶν]]  [[G3361\|μὴ]]  [[G4304\|προμελετᾶν]]  [[G0626\|ἀπολογηθῆναι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.13|<< Luke 21:13]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.15|Luke 21:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

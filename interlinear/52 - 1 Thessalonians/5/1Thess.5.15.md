@@ -1,10 +1,60 @@
+---
+title: 1 Thessalonians 5:15
+type: Verse
+kjv: "See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men."
+bsb: "Make sure that no one repays evil for evil. Always pursue what is good for one another and for all people."
+greek: "ὁρᾶτε μή τις κακὸν ἀντὶ κακοῦ τινι ἀποδῷ, ἀλλὰ πάντοτε τὸ ἀγαθὸν διώκετε καὶ εἰς ἀλλήλους καὶ εἰς πάντας."
+pericope: "[[1Thess.5.12 Christian Living|Christian Living]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic REVENGE|REVENGE]]"
+strongs:
+- "[[G3708]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G2556G]]"
+- "[[G0473]]"
+- "[[G0591]]"
+- "[[G0235]]"
+- "[[G3842]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G1377]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G0240]]"
+- "[[G3956]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 5:15**<big><big>[[1Thess.5.12 Christian Living|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 See that none render evil for evil unto any [man]; but ever follow that which is good, both among yourselves, and to all [men].
 <small><sub>**BSB:**</sub></small>
 Make sure that no one repays evil for evil. Always pursue what is good for one another and for all people.
-<small><sub>**Literal:**</sub></small>
-do see that no one evil for evil to anyone may repay, but always the good do pursue also toward one another and toward all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.14|<< 1 Thessalonians 5:14]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.16|1 Thessalonians 5:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3708\|ὁρᾶτε]]  [[G3361\|μή]]  [[G5100\|τις]]  [[G2556G\|κακὸν]]  [[G0473\|ἀντὶ]]  [[G2556G\|κακοῦ]]  [[G5100\|τινι]]  [[G0591\|ἀποδῷ,]]  [[G0235\|ἀλλὰ]]  [[G3842\|πάντοτε]]  [[G3588\|τὸ]]  [[G0018\|ἀγαθὸν]]  [[G1377\|διώκετε]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G0240\|ἀλλήλους]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3956\|πάντας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MALICE|MALICE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic RELIGION|RELIGION]] • [[topic RETALIATION|RETALIATION]] • [[topic REVENGE|REVENGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.14|<< 1 Thessalonians 5:14]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.16|1 Thessalonians 5:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Thessalonians 5:15** is...
 > $\quad$ alluding to: [[LXX.Prov.17.13|Prov 17:13]]

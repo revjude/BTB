@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 18:19
+type: Verse
+kjv: "And the LORD said, Who shall entice Ahab king of Israel, that he may go up and fall at Ramothgilead? And one spake saying after this manner, and another saying after that manner."
+bsb: "And the LORD said, ‘Who will entice Ahab king of Israel to march up and fall at Ramoth-gilead?’ And one suggested this, and another that."
+hebrew: "וַיֹּ֣אמֶר יְהוָ֗ה מִ֤י יְפַתֶּה֙ אֶת־ אַחְאָ֣ב מֶֽלֶךְ־ יִשְׂרָאֵ֔ל וְיַ֕עַל וְיִפֹּ֖ל בְּרָמ֣וֹת גִּלְעָ֑ד וַיֹּ֕אמֶר זֶ֚ה אֹמֵ֣ר כָּ֔כָה וְזֶ֖ה אֹמֵ֥ר כָּֽכָה׃"
+pericope: "[[2Chr.18.12 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H4310]]"
+- "[[H6601B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0256G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H5307G]]"
+- "[[H9003]]"
+- "[[H7418G]]"
+- "[[H1568M]]"
+- "[[H2088]]"
+- "[[H3602]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:19**<big><big>[[2Chr.18.12 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said, Who shall entice Ahab king of Israel, that he may go up and fall at Ramothgilead? And one spake saying after this manner, and another saying after that manner.
 <small><sub>**BSB:**</sub></small>
 And the LORD said, ‘Who will entice Ahab king of Israel to march up and fall at Ramoth-gilead?’ And one suggested this, and another that.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֗ה]] [[H4310\|מִ֤י]] [[H6601B\|יְפַתֶּה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0256G\|אַחְאָ֣ב]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H5927G\|יַ֕עַל]] [[H9002\|וְ]][[H5307G\|יִפֹּ֖ל]] [[H9003\|בְּ]][[H7418G\|רָמ֣וֹת]] [[H1568M\|גִּלְעָ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2088\|זֶ֚ה]] [[H0559\|אֹמֵ֣ר]] [[H3602\|כָּ֔כָה]] [[H9002\|וְ]][[H2088\|זֶ֖ה]] [[H0559\|אֹמֵ֥ר]] [[H3602\|כָּֽכָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.18|<< 2 Chronicles 18:18]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.20|2 Chronicles 18:20 >>]]</td></tr></table>
 

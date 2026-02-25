@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Complaints of the People
+type: Pericope
 pericope: "[[Num.11.1 The Complaints of the People|The Complaints of the People]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 11
 book/chapter: "[[Num.11|Numbers 11]]"
-genre:
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 9
 verses:
 - "[[Num.11.1]]"
 - "[[Num.11.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Num.11.9]]"
 ---
 
-[[Num.11|Numbers 11:1 - Numbers 11:9]]
+<small>[[Num.11|Numbers 11:1-9]]</small>
 *The Complaints of the People*
 
 [[Num.11.1|1]] And \[when\] the people complained, it displeased the LORD: and the LORD heard \[it\]; and his anger was kindled; and the fire of the LORD burnt among them, and consumed \[them that were\] in the uttermost parts of the camp.

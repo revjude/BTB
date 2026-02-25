@@ -1,8 +1,68 @@
+---
+title: Nehemiah 9:34
+type: Verse
+kjv: "Neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them."
+bsb: "Our kings and leaders and priests and fathers did not obey Your law or listen to Your commandments and warnings that You gave them."
+hebrew: "וְאֶת־ מְלָכֵ֤ינוּ שָׂרֵ֙ינוּ֙ כֹּהֲנֵ֣ינוּ וַאֲבֹתֵ֔ינוּ לֹ֥א עָשׂ֖וּ תּוֹרָתֶ֑ךָ וְלֹ֤א הִקְשִׁ֙יבוּ֙ אֶל־ מִצְוֹתֶ֔יךָ וּלְעֵ֣דְוֹתֶ֔יךָ אֲשֶׁ֥ר הַעִידֹ֖תָ בָּהֶֽם׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H9025]]"
+- "[[H8269]]"
+- "[[H3548]]"
+- "[[H0001G]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H7181]]"
+- "[[H0413]]"
+- "[[H4687]]"
+- "[[H9005]]"
+- "[[H5715]]"
+- "[[H0834A]]"
+- "[[H5749B]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:34**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them.
 <small><sub>**BSB:**</sub></small>
 Our kings and leaders and priests and fathers did not obey Your law or listen to Your commandments and warnings that You gave them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מְלָכֵ֤י]][[H9025\|נוּ]] [[H8269\|שָׂרֵ֙י]][[H9025\|נוּ֙]] [[H3548\|כֹּהֲנֵ֣י]][[H9025\|נוּ]] [[H9002\|וַ]][[H0001G\|אֲבֹתֵ֔י]][[H9025\|נוּ]] [[H3808\|לֹ֥א]] [[H6213A\|עָשׂ֖וּ]] [[H8451\|תּוֹרָתֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H7181\|הִקְשִׁ֙יבוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4687\|מִצְוֹתֶ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9005\|לְ]][[H5715\|עֵ֣דְוֹתֶ֔י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5749B\|הַעִידֹ֖תָ]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.33|<< Nehemiah 9:33]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.35|Nehemiah 9:35 >>]]</td></tr></table>
 

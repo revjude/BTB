@@ -1,8 +1,60 @@
+---
+title: Psalm 27:8
+type: Verse
+kjv: "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek."
+bsb: "My heart said, “Seek His face.” Your face, O LORD, I will seek."
+hebrew: "לְךָ֤׀ אָמַ֣ר לִ֭בִּי בַּקְּשׁ֣וּ פָנָ֑י אֶת־ פָּנֶ֖יךָ יְהוָ֣ה אֲבַקֵּֽשׁ׃"
+pericope: "[[Ps.27.1 The LORD Is My Salvation|The LORD Is My Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 27
+book/chapter: "[[Ps.27|Psalm 27]]"
+chronological_order: 359
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H1245]]"
+- "[[H6440H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 27:8**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [When thou saidst], Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek.
 <small><sub>**BSB:**</sub></small>
 My heart said, “Seek His face.” Your face, O LORD, I will seek.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H9031\|ךָ֤]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3820A\|לִ֭בִּ]][[H9020\|י]] [[H1245\|בַּקְּשׁ֣וּ]] [[H6440H\|פָנָ֑]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פָּנֶ֖י]][[H9021\|ךָ]] [[H3068G\|יְהוָ֣ה]] [[H1245\|אֲבַקֵּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic DESIRE|DESIRE]] • [[topic HEART|HEART]] • [[topic PRAYER|PRAYER]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.7|<< Psalms 27:7]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.9|Psalms 27:9 >>]]</td></tr></table>
 

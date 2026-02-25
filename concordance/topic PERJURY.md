@@ -1,7 +1,7 @@
 
 **PERJURY**
 
-→ General scriptures concerning [[Lev.6.2|Le 6:2]]-[[Lev.6.7|7]]; [[Lev.19.12|19:12]]; [[Isa.48.1|Isa 48:1]]; [[Jer.5.2|Jer 5:2]]; [[Jer.7.9|7:9]]; [[Hos.10.4|Ho 10:4]]; [[Zech.5.4|Zec 5:4]]; [[Zech.8.17|8:17]]; [[Mal.3.5|Mal 3:5]]; [[Matt.5.33|Mt 5:33]]; [[1Tim.1.9|1Ti 1:9]],[[1Tim.1.10|10]]
+→ General scriptures concerning [[Lev.6.2|Le 6:2-7]]; [[Lev.19.12|19:12]]; [[Isa.48.1|Isa 48:1]]; [[Jer.5.2|Jer 5:2]]; [[Jer.7.9|7:9]]; [[Hos.10.4|Ho 10:4]]; [[Zech.5.4|Zec 5:4]]; [[Zech.8.17|8:17]]; [[Mal.3.5|Mal 3:5]]; [[Matt.5.33|Mt 5:33]]; [[1Tim.1.9|1Ti 1:9]],[[1Tim.1.10|10]]
 
 → See [[topic FALSEHOOD|FALSEHOOD]]
 
@@ -13,7 +13,7 @@
 
 - Zedekiah [[2Chr.36.13|2Ch 36:13]]
 
-- Witnesses against Naboth [[1Kgs.21.8|1Ki 21:8]]-[[1Kgs.21.13|13]]
+- Witnesses against Naboth [[1Kgs.21.8|1Ki 21:8-13]]
 
 - David [[Ps.35.11|Ps 35:11]]
 

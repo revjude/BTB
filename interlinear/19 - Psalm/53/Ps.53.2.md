@@ -1,8 +1,61 @@
+---
+title: Psalm 53:2
+type: Verse
+kjv: "God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God."
+bsb: "God looks down from heaven upon the sons of men to see if any understand, if any seek God."
+hebrew: "אֱֽלֹהִ֗ים מִשָּׁמַיִם֮ הִשְׁקִ֪יף עַֽל־ בְּנֵ֫י אָדָ֥ם לִ֭רְאוֹת הֲיֵ֣שׁ מַשְׂכִּ֑יל דֹּ֝רֵ֗שׁ אֶת־ אֱלֹהִֽים׃"
+pericope: "[[Ps.53.1 The Fool Says There Is No God|The Fool Says There Is No God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 53
+book/chapter: "[[Ps.53|Psalm 53]]"
+chronological_order: 369
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0430G]]"
+- "[[H9006]]"
+- "[[H8064]]"
+- "[[H8259]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H7919A]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 53:2**<big><big>[[Ps.53.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God looked down from heaven upon the children of men, to see if there were [any] that did understand, that did seek God.
 <small><sub>**BSB:**</sub></small>
 God looks down from heaven upon the sons of men to see if any understand, if any seek God.
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱֽלֹהִ֗ים]] [[H9006\|מִ]][[H8064\|שָּׁמַיִם֮]] [[H8259\|הִשְׁקִ֪יף]] [[H5921A\|עַֽל]][[H9014\|־]] [[H1121A\|בְּנֵ֫י]] [[H0120G\|אָדָ֥ם]] [[H9005\|לִ֭]][[H7200G\|רְאוֹת]] [[H9008\|הֲ]][[H3426\|יֵ֣שׁ]] [[H7919A\|מַשְׂכִּ֑יל]] [[H1875\|דֹּ֝רֵ֗שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.53.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.53.1|<< Psalms 53:1]]</td><td align="center" style="border:none;">[[Ps.53|Psalms 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.53.3|Psalms 53:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,56 @@
+---
+title: Deuteronomy 18:17
+type: Verse
+kjv: "And the LORD said unto me, They have well spoken that which they have spoken."
+bsb: "Then the LORD said to me, “They have spoken well."
+hebrew: "וַיֹּ֥אמֶר יְהוָ֖ה אֵלָ֑י הֵיטִ֖יבוּ אֲשֶׁ֥ר דִּבֵּֽרוּ׃"
+pericope: "[[Deut.18.15 A Prophet Like Moses|A Prophet Like Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3190]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:17**<big><big>[[Deut.18.15 A Prophet Like Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto me, They have well [spoken that] which they have spoken.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to me, “They have spoken well.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H3190\|הֵיטִ֖יבוּ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבֵּֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOSES|MOSES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.16|<< Deuteronomy 18:16]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.18|Deuteronomy 18:18 >>]]</td></tr></table>
 

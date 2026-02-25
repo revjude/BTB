@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 10:6
+type: Verse
+kjv: "So Saul died, and his three sons, and all his house died together."
+bsb: "So Saul died together with his three sons and all his house."
+hebrew: "וַיָּ֤מָת שָׁאוּל֙ וּשְׁלֹ֣שֶׁת בָּנָ֔יו וְכָל־ בֵּית֖וֹ יַחְדָּ֥ו מֵֽתוּ׃"
+pericope: "[[1Chr.10.1 Saul’s Overthrow and Death|Saul’s Overthrow and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 10
+book/chapter: "[[1Chr.10|1 Chronicles 10]]"
+chronological_order: 334
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GILBOA|GILBOA]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 10:6**<big><big>[[1Chr.10.1 Saul’s Overthrow and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Saul died, and his three sons, and all his house died together.
 <small><sub>**BSB:**</sub></small>
 So Saul died together with his three sons and all his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֤מָת]] [[H7586G\|שָׁאוּל֙]] [[H9002\|וּ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H1121A\|בָּנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּית֖]][[H9023\|וֹ]] [[H3162B\|יַחְדָּ֥ו]] [[H4191\|מֵֽתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILBOA|GILBOA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.5|<< 1 Chronicles 10:5]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.7|1 Chronicles 10:7 >>]]</td></tr></table>
 

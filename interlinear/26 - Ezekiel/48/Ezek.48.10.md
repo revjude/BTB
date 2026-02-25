@@ -1,8 +1,71 @@
+---
+title: Ezekiel 48:10
+type: Verse
+kjv: "And for them, even for the priests, shall be this holy oblation; toward the north five and twenty thousand in length, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the LORD shall be in the midst thereof."
+bsb: "This will be the holy portion for the priests. It will be 25,000 cubits long on the north side, 10,000 cubits wide on the west side, 10,000 cubits wide on the east side, and 25,000 cubits long on the south side. In the center will be the sanctuary of the LORD."
+hebrew: "וּ֠לְאֵ֜לֶּה תִּהְיֶ֣ה תְרֽוּמַת־ הַקֹּדֶשׁ֮ לַכֹּֽהֲנִים֒ צָפ֜וֹנָה חֲמִשָּׁ֧ה וְעֶשְׂרִ֣ים אֶ֗לֶף וְיָ֙מָּה֙ רֹ֚חַב עֲשֶׂ֣רֶת אֲלָפִ֔ים וְקָדִ֗ימָה רֹ֚חַב עֲשֶׂ֣רֶת אֲלָפִ֔ים וְנֶ֕גְבָּה אֹ֕רֶךְ חֲמִשָּׁ֥ה וְעֶשְׂרִ֖ים אָ֑לֶף וְהָיָ֥ה מִקְדַּשׁ־ יְהוָ֖ה בְּתוֹכֽוֹ׃"
+pericope: "[[Ezek.48.8 The Portions for the Priests and Levites|The Portions for the Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LAND|LAND]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0428]]"
+- "[[H1961]]"
+- "[[H8641]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H3548]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H2568]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H3220H]]"
+- "[[H7341]]"
+- "[[H6235]]"
+- "[[H6921]]"
+- "[[H5045H]]"
+- "[[H0753]]"
+- "[[H9001]]"
+- "[[H4720]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:10**<big><big>[[Ezek.48.8 The Portions for the Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for them, [even] for the priests, shall be [this] holy oblation; toward the north five and twenty thousand [in length], and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the LORD shall be in the midst thereof.
 <small><sub>**BSB:**</sub></small>
 This will be the holy portion for the priests. It will be 25,000 cubits long on the north side, 10,000 cubits wide on the west side, 10,000 cubits wide on the east side, and 25,000 cubits long on the south side. In the center will be the sanctuary of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ֠]][[H9005\|לְ]][[H0428\|אֵ֜לֶּה]] [[H1961\|תִּהְיֶ֣ה]] [[H8641\|תְרֽוּמַת]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּדֶשׁ֮]] [[H9005\|לַ]][[H3548\|כֹּֽהֲנִים֒]] [[H6828G\|צָפ֜וֹנָ]][[H9011\|ה]] [[H2568\|חֲמִשָּׁ֧ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֣ים]] [[H0505G\|אֶ֗לֶף]] [[H9002\|וְ]][[H3220H\|יָ֙מָּ]][[H9011\|ה֙]] [[H7341\|רֹ֚חַב]] [[H6235\|עֲשֶׂ֣רֶת]] [[H0505G\|אֲלָפִ֔ים]] [[H9002\|וְ]][[H6921\|קָדִ֗ימָ]][[H9011\|ה]] [[H7341\|רֹ֚חַב]] [[H6235\|עֲשֶׂ֣רֶת]] [[H0505G\|אֲלָפִ֔ים]] [[H9002\|וְ]][[H5045H\|נֶ֕גְבָּ]][[H9011\|ה]] [[H0753\|אֹ֕רֶךְ]] [[H2568\|חֲמִשָּׁ֥ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֖ים]] [[H0505G\|אָ֑לֶף]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H4720\|מִקְדַּשׁ]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H8432\|תוֹכֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAND|LAND]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.9|<< Ezekiel 48:9]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.11|Ezekiel 48:11 >>]]</td></tr></table>
 

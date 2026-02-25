@@ -1,8 +1,59 @@
+---
+title: Psalm 80:12
+type: Verse
+kjv: "Why hast thou then broken down her hedges, so that all they which pass by the way do pluck her?"
+bsb: "Why have You broken down its walls, so that all who pass by pick its fruit?"
+hebrew: "לָ֭מָּה פָּרַ֣צְתָּ גְדֵרֶ֑יהָ וְ֝אָר֗וּהָ כָּל־ עֹ֥בְרֵי דָֽרֶךְ׃"
+pericope: "[[Ps.80.1 Hear Us, O Shepherd of Israel|Hear Us, O Shepherd of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 80
+book/chapter: "[[Ps.80|Psalm 80]]"
+chronological_order: 783
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic VINE|VINE]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H6555]]"
+- "[[H1447]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H0717]]"
+- "[[H9034]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5674A]]"
+- "[[H1870K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 80:12**<big><big>[[Ps.80.1 Hear Us, O Shepherd of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why hast thou [then] broken down her hedges, so that all they which pass by the way do pluck her?
 <small><sub>**BSB:**</sub></small>
 Why have You broken down its walls, so that all who pass by pick its fruit?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֭]][[H4100\|מָּה]] [[H6555\|פָּרַ֣צְתָּ]] [[H1447\|גְדֵרֶ֑י]][[H9024\|הָ]] [[H9001\|וְ֝]][[H0717\|אָר֗וּ]][[H9034\|הָ]] [[H3605\|כָּל]][[H9014\|־]] [[H5674A\|עֹ֥בְרֵי]] [[H1870K\|דָֽרֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GRAPE|GRAPE]] • [[topic PARABLES|PARABLES]] • [[topic VINE|VINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.80.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.80.11|<< Psalms 80:11]]</td><td align="center" style="border:none;">[[Ps.80|Psalms 80]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.80.13|Psalms 80:13 >>]]</td></tr></table>
 

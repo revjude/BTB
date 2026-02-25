@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jethro Advises Moses
+type: Pericope
 pericope: "[[Exod.18.13 Jethro Advises Moses|Jethro Advises Moses]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 18
 book/chapter: "[[Exod.18|Exodus 18]]"
-genre:
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 15
 verses:
 - "[[Exod.18.13]]"
 - "[[Exod.18.14]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Exod.18.27]]"
 ---
 
-[[Exod.18|Exodus 18:13 - Exodus 18:27]]
+<small>[[Exod.18|Exodus 18:13-27]]</small>
 *Jethro Advises Moses*
 
 [[Exod.18.13|13]] And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.

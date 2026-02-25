@@ -1,8 +1,66 @@
+---
+title: Joel 2:11
+type: Verse
+kjv: "And the LORD shall utter his voice before his army: for his camp is very great: for he is strong that executeth his word: for the day of the LORD is great and very terrible; and who can abide it?"
+bsb: "The LORD raises His voice in the presence of His army. Indeed, His camp is very large, for mighty are those who obey His command. For the Day of the LORD is great and very dreadful. Who can endure it?"
+hebrew: "וַֽיהוָ֗ה נָתַ֤ן קוֹלוֹ֙ לִפְנֵ֣י חֵיל֔וֹ כִּ֣י רַ֤ב מְאֹד֙ מַחֲנֵ֔הוּ כִּ֥י עָצ֖וּם עֹשֵׂ֣ה דְבָר֑וֹ כִּֽי־ גָד֧וֹל יוֹם־ יְהוָ֛ה וְנוֹרָ֥א מְאֹ֖ד וּמִ֥י יְכִילֶֽנּוּ׃"
+pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H5414M]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H2428A]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H3966]]"
+- "[[H4264]]"
+- "[[H6099]]"
+- "[[H6213A]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H3117G]]"
+- "[[H3372H]]"
+- "[[H4310]]"
+- "[[H3557]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:11**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall utter his voice before his army: for his camp [is] very great: for [he is] strong that executeth his word: for the day of the LORD [is] great and very terrible; and who can abide it?
 <small><sub>**BSB:**</sub></small>
 The LORD raises His voice in the presence of His army. Indeed, His camp is very large, for mighty are those who obey His command. For the Day of the LORD is great and very dreadful. Who can endure it?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָ֗ה]] [[H5414M\|נָתַ֤ן]] [[H6963A\|קוֹל]][[H9023\|וֹ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H2428A\|חֵיל֔]][[H9023\|וֹ]] [[H3588A\|כִּ֣י]] [[H7227A\|רַ֤ב]] [[H3966\|מְאֹד֙]] [[H4264\|מַחֲנֵ֔]][[H9023\|הוּ]] [[H3588A\|כִּ֥י]] [[H6099\|עָצ֖וּם]] [[H6213A\|עֹשֵׂ֣ה]] [[H1697G\|דְבָר֑]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1419A\|גָד֧וֹל]] [[H3117G\|יוֹם]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9002\|וְ]][[H3372H\|נוֹרָ֥א]] [[H3966\|מְאֹ֖ד]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H3557\|יְכִילֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.10|<< Joel 2:10]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.12|Joel 2:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

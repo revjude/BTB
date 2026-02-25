@@ -1,8 +1,70 @@
+---
+title: 2 Kings 4:10
+type: Verse
+kjv: "Let us make a little chamber, I pray thee, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither."
+bsb: "Please let us make a small room upstairs and put in it a bed, a table, a chair, and a lamp for him. Then when he comes to us, he can stay there.”"
+hebrew: "נַֽעֲשֶׂה־ נָּ֤א עֲלִיַּת־ קִיר֙ קְטַנָּ֔ה וְנָשִׂ֨ים ל֥וֹ שָׁ֛ם מִטָּ֥ה וְשֻׁלְחָ֖ן וְכִסֵּ֣א וּמְנוֹרָ֑ה וְהָיָ֛ה בְּבֹא֥וֹ אֵלֵ֖ינוּ יָס֥וּר שָֽׁמָּה׃"
+pericope: "[[2Kgs.4.8 The Shunammite Woman|The Shunammite Woman]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic STOOL|STOOL]]"
+- "[[topic TABLE|TABLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5944]]"
+- "[[H7023]]"
+- "[[H6996A]]"
+- "[[H9002]]"
+- "[[H7760H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H4296]]"
+- "[[H7979]]"
+- "[[H3678I]]"
+- "[[H4501]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H5493I]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:10**<big><big>[[2Kgs.4.8 The Shunammite Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let us make a little chamber, I pray thee, on the wall; and let us set for him there a bed, and a table, and a stool, and a candlestick: and it shall be, when he cometh to us, that he shall turn in thither.
 <small><sub>**BSB:**</sub></small>
 Please let us make a small room upstairs and put in it a bed, a table, a chair, and a lamp for him. Then when he comes to us, he can stay there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6213H\|נַֽעֲשֶׂה]][[H9014\|־]] [[H4994\|נָּ֤א]] [[H5944\|עֲלִיַּת]][[H9014\|־]] [[H7023\|קִיר֙]] [[H6996A\|קְטַנָּ֔ה]] [[H9002\|וְ]][[H7760H\|נָשִׂ֨ים]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H8033G\|שָׁ֛ם]] [[H4296\|מִטָּ֥ה]] [[H9002\|וְ]][[H7979\|שֻׁלְחָ֖ן]] [[H9002\|וְ]][[H3678I\|כִסֵּ֣א]] [[H9002\|וּ]][[H4501\|מְנוֹרָ֑ה]] [[H9001\|וְ]][[H1961\|הָיָ֛ה]] [[H9003\|בְּ]][[H0935G\|בֹא֥]][[H9043\|וֹ]] [[H0413\|אֵלֵ֖י]][[H9035\|נוּ]] [[H5493I\|יָס֥וּר]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic STOOL|STOOL]] • [[topic TABLE|TABLE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.9|<< 2 Kings 4:9]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.11|2 Kings 4:11 >>]]</td></tr></table>
 

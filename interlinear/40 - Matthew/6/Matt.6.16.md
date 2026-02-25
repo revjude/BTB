@@ -1,10 +1,71 @@
+---
+title: Matthew 6:16
+type: Verse
+kjv: "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward."
+bsb: "When you fast, do not be somber like the hypocrites, for they disfigure their faces to show men they are fasting. Truly I tell you, they already have their full reward."
+jesus_said: "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward."
+greek: "Ὅταν δὲ νηστεύητε, μὴ γίνεσθε ὡς οἱ ὑποκριταὶ σκυθρωποί· ἀφανίζουσιν γὰρ τὰ πρόσωπα αὐτῶν ὅπως φανῶσιν τοῖς ἀνθρώποις νηστεύοντες. ἀμὴν λέγω ὑμῖν ὅτι· ἀπέχουσιν τὸν μισθὸν αὐτῶν."
+pericope: "[[Matt.6.16 Proper Fasting|Proper Fasting]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FACE|FACE]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G3522]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G5273]]"
+- "[[G4659]]"
+- "[[G0853]]"
+- "[[G1063]]"
+- "[[G4383]]"
+- "[[G0846]]"
+- "[[G3704]]"
+- "[[G5316]]"
+- "[[G0444]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G0568]]"
+- "[[G3408]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 6:16**<big><big>[[Matt.6.16 Proper Fasting|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.
 <small><sub>**BSB:**</sub></small>
 When you fast, do not be somber like the hypocrites, for they disfigure their faces to show men they are fasting. Truly I tell you, they already have their full reward.
-<small><sub>**Literal:**</sub></small>
-Whenever now you may fast, not do be like the hypocrites gloomy; they disfigure for the appearance of them so that they may appear <the> to men [as] fasting. Amen I say to you that: they have the reward of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.15|<< Matthew 6:15]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.17|Matthew 6:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|Ὅταν]]  [[G1161\|δὲ]]  [[G3522\|νηστεύητε,]]  [[G3361\|μὴ]]  [[G1096\|γίνεσθε]]  [[G5613\|ὡς]]  [[G3588\|οἱ]]  [[G5273\|ὑποκριταὶ]]  [[G4659\|σκυθρωποί·]]  [[G0853\|ἀφανίζουσιν]]  [[G1063\|γὰρ]]  [[G3588\|τὰ]]  [[G4383\|πρόσωπα]]  [[G0846\|αὐτῶν]]  [[G3704\|ὅπως]]  [[G5316\|φανῶσιν]]  [[G3588\|τοῖς]]  [[G0444\|ἀνθρώποις]]  [[G3522\|νηστεύοντες.]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι·]]  [[G0568\|ἀπέχουσιν]]  [[G3588\|τὸν]]  [[G3408\|μισθὸν]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FACE|FACE]] • [[topic FASTING|FASTING]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MOTIVE|MOTIVE]] • [[topic PHARISEES|PHARISEES]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.15|<< Matthew 6:15]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.17|Matthew 6:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

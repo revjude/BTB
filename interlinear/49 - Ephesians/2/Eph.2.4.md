@@ -1,10 +1,57 @@
+---
+title: Ephesians 2:4
+type: Verse
+kjv: "But God, who is rich in mercy, for his great love wherewith he loved us,"
+bsb: "But because of His great love for us, God, who is rich in mercy,"
+greek: "Ὁ δὲ θεὸς πλούσιος ὢν ἐν ἐλέει διὰ τὴν πολλὴν ἀγάπην αὐτοῦ ἣν ἠγάπησεν ἡμᾶς,"
+pericope: "[[Eph.2.1 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G4145]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1656]]"
+- "[[G1223]]"
+- "[[G4183]]"
+- "[[G0026]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G0025]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Ephesians 2:4**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But God, who is rich in mercy, for his great love wherewith he loved us,
 <small><sub>**BSB:**</sub></small>
 But because of His great love for us, God, who is rich in mercy,
-<small><sub>**Literal:**</sub></small>
-<the> But God rich being in mercy because of the great love of Him with which He loved us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.3|<< Ephesians 2:3]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.5|Ephesians 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G4145\|πλούσιος]]  [[G1510\|ὢν]]  [[G1722\|ἐν]]  [[G1656\|ἐλέει]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G4183\|πολλὴν]]  [[G0026\|ἀγάπην]]  [[G0846\|αὐτοῦ]]  [[G3739\|ἣν]]  [[G0025\|ἠγάπησεν]]  [[G3165\|ἡμᾶς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.3|<< Ephesians 2:3]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.5|Ephesians 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

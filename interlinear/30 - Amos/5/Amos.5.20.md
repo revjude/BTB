@@ -1,8 +1,56 @@
+---
+title: Amos 5:20
+type: Verse
+kjv: "Shall not the day of the LORD be darkness, and not light? even very dark, and no brightness in it?"
+bsb: "Will not the Day of the LORD be darkness and not light, even gloom with no brightness in it?"
+hebrew: "הֲלֹא־ חֹ֛שֶׁךְ י֥וֹם יְהוָ֖ה וְלֹא־ א֑וֹר וְאָפֵ֖ל וְלֹא־ נֹ֥גַֽהּ לֽוֹ׃"
+pericope: "[[Amos.5.16 Woe to Rebellious Israel|Woe to Rebellious Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2822]]"
+- "[[H3117G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0216]]"
+- "[[H0651]]"
+- "[[H5051]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:20**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Shall] not the day of the LORD [be] darkness, and not light? even very dark, and no brightness in it?
 <small><sub>**BSB:**</sub></small>
 Will not the Day of the LORD be darkness and not light, even gloom with no brightness in it?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹא]][[H9014\|־]] [[H2822\|חֹ֛שֶׁךְ]] [[H3117G\|י֥וֹם]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0216\|א֑וֹר]] [[H9002\|וְ]][[H0651\|אָפֵ֖ל]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5051\|נֹ֥גַֽהּ]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.19|<< Amos 5:19]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.21|Amos 5:21 >>]]</td></tr></table>
 

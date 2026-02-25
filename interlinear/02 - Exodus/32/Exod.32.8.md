@@ -1,8 +1,76 @@
+---
+title: Exodus 32:8
+type: Verse
+kjv: "They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These be thy gods, O Israel, which have brought thee up out of the land of Egypt."
+bsb: "How quickly they have turned aside from the way that I commanded them! They have made for themselves a molten calf and have bowed down to it. They have sacrificed to it and said, ‘These, O Israel, are your gods, who brought you up out of the land of Egypt.’”"
+hebrew: "סָ֣רוּ מַהֵ֗ר מִן־ הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר צִוִּיתִ֔ם עָשׂ֣וּ לָהֶ֔ם עֵ֖גֶל מַסֵּכָ֑ה וַיִּשְׁתַּֽחֲווּ־ לוֹ֙ וַיִּזְבְּחוּ־ ל֔וֹ וַיֹּ֣אמְר֔וּ אֵ֤לֶּה אֱלֹהֶ֙יךָ֙ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר הֶֽעֱל֖וּךָ מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic MOLDING|MOLDING]]"
+strongs:
+- "[[H5493I]]"
+- "[[H4118B]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1870G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9038]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H5695]]"
+- "[[H4541A]]"
+- "[[H9001]]"
+- "[[H7812]]"
+- "[[H9033]]"
+- "[[H2076]]"
+- "[[H0559]]"
+- "[[H0428]]"
+- "[[H0430]]"
+- "[[H9021]]"
+- "[[H3478]]"
+- "[[H5927H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:8**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These [be] thy gods, O Israel, which have brought thee up out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 How quickly they have turned aside from the way that I commanded them! They have made for themselves a molten calf and have bowed down to it. They have sacrificed to it and said, ‘These, O Israel, are your gods, who brought you up out of the land of Egypt.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H5493I\|סָ֣רוּ]] [[H4118B\|מַהֵ֗ר]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1870G\|דֶּ֙רֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוִּיתִ֔]][[H9038\|ם]] [[H6213H\|עָשׂ֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H5695\|עֵ֖גֶל]] [[H4541A\|מַסֵּכָ֑ה]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּֽחֲווּ]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9001\|וַ]][[H2076\|יִּזְבְּחוּ]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H0428\|אֵ֤לֶּה]] [[H0430\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H5927H\|הֶֽעֱל֖וּ]][[H9031\|ךָ]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INSTABILITY|INSTABILITY]] • [[topic MOLDING|MOLDING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.7|<< Exodus 32:7]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.9|Exodus 32:9 >>]]</td></tr></table>
 

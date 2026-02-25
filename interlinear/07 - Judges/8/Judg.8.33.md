@@ -1,8 +1,60 @@
+---
+title: Judges 8:33
+type: Verse
+kjv: "And it came to pass, as soon as Gideon was dead, that the children of Israel turned again, and went a whoring after Baalim, and made Baalberith their god."
+bsb: "And as soon as Gideon was dead, the Israelites turned and prostituted themselves with the Baals, and they set up Baal-berith as their god."
+hebrew: "וַיְהִ֗י כַּֽאֲשֶׁר֙ מֵ֣ת גִּדְע֔וֹן וַיָּשׁ֙וּבוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיִּזְנ֖וּ אַחֲרֵ֣י הַבְּעָלִ֑ים וַיָּשִׂ֧ימוּ לָהֶ֛ם בַּ֥עַל בְּרִ֖ית לֵאלֹהִֽים׃"
+pericope: "[[Judg.8.32 Gideon’s Death|Gideon’s Death]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BAAL-BERITH|BAAL-BERITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H4191]]"
+- "[[H1439]]"
+- "[[H7725I]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H2181]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1170]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:33**<big><big>[[Judg.8.32 Gideon’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as soon as Gideon was dead, that the children of Israel turned again, and went a whoring after Baalim, and made Baalberith their god.
 <small><sub>**BSB:**</sub></small>
 And as soon as Gideon was dead, the Israelites turned and prostituted themselves with the Baals, and they set up Baal-berith as their god.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר֙]] [[H4191\|מֵ֣ת]] [[H1439\|גִּדְע֔וֹן]] [[H9001\|וַ]][[H7725I\|יָּשׁ֙וּבוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H2181\|יִּזְנ֖וּ]] [[H0310A\|אַחֲרֵ֣י]] [[H9009\|הַ]][[H1168A\|בְּעָלִ֑ים]] [[H9001\|וַ]][[H7760A\|יָּשִׂ֧ימוּ]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H1170\|בַּ֥עַל]] [[H1170\|בְּרִ֖ית]] [[H9005\|לֵ]][[H0430G\|אלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-BERITH|BAAL-BERITH]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.32|<< Judges 8:32]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.34|Judges 8:34 >>]]</td></tr></table>
 

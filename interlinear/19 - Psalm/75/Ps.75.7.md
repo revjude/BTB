@@ -1,8 +1,53 @@
+---
+title: Psalm 75:7
+type: Verse
+kjv: "But God is the judge: he putteth down one, and setteth up another."
+bsb: "but it is God who judges; He brings down one and exalts another."
+hebrew: "כִּֽי־ אֱלֹהִ֥ים שֹׁפֵ֑ט זֶ֥ה יַ֝שְׁפִּ֗יל וְזֶ֣ה יָרִֽים׃"
+pericope: "[[Ps.75.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 75
+book/chapter: "[[Ps.75|Psalm 75]]"
+chronological_order: 507
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PROMOTION|PROMOTION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H8199]]"
+- "[[H2088]]"
+- "[[H8213]]"
+- "[[H9002]]"
+- "[[H7311A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 75:7**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But God [is] the judge: he putteth down one, and setteth up another.
 <small><sub>**BSB:**</sub></small>
 but it is God who judges; He brings down one and exalts another.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0430G\|אֱלֹהִ֥ים]] [[H8199\|שֹׁפֵ֑ט]] [[H2088\|זֶ֥ה]] [[H8213\|יַ֝שְׁפִּ֗יל]] [[H9002\|וְ]][[H2088\|זֶ֣ה]] [[H7311A\|יָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PROMOTION|PROMOTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.6|<< Psalms 75:6]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.75.8|Psalms 75:8 >>]]</td></tr></table>
 

@@ -1,8 +1,49 @@
+---
+title: Ezekiel 27:4
+type: Verse
+kjv: "Thy borders are in the midst of the seas, thy builders have perfected thy beauty."
+bsb: "Your borders are in the heart of the seas; your builders perfected your beauty."
+hebrew: "בְּלֵ֥ב יַמִּ֖ים גְּבוּלָ֑יִךְ בֹּנַ֕יִךְ כָּלְל֖וּ יָפְיֵֽךְ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H3220G]]"
+- "[[H1366G]]"
+- "[[H9022]]"
+- "[[H1129]]"
+- "[[H9032]]"
+- "[[H3634]]"
+- "[[H3308]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:4**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy borders [are] in the midst of the seas, thy builders have perfected thy beauty.
 <small><sub>**BSB:**</sub></small>
 Your borders are in the heart of the seas; your builders perfected your beauty.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3820A\|לֵ֥ב]] [[H3220G\|יַמִּ֖ים]] [[H1366G\|גְּבוּלָ֑יִ]][[H9022\|ךְ]] [[H1129\|בֹּנַ֕יִ]][[H9032\|ךְ]] [[H3634\|כָּלְל֖וּ]] [[H3308\|יָפְיֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.3|<< Ezekiel 27:3]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.5|Ezekiel 27:5 >>]]</td></tr></table>
 

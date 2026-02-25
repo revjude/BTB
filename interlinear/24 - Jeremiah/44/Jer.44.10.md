@@ -1,8 +1,65 @@
+---
+title: Jeremiah 44:10
+type: Verse
+kjv: "They are not humbled even unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers."
+bsb: "To this day they have not humbled themselves or shown reverence, nor have they followed My instruction or the statutes that I set before you and your fathers."
+hebrew: "לֹ֣א דֻכְּא֔וּ עַ֖ד הַיּ֣וֹם הַזֶּ֑ה וְלֹ֣א יָרְא֗וּ וְלֹֽא־ הָלְכ֤וּ בְתֽוֹרָתִי֙ וּבְחֻקֹּתַ֔י אֲשֶׁר־ נָתַ֥תִּי לִפְנֵיכֶ֖ם וְלִפְנֵ֥י אֲבוֹתֵיכֶֽם׃ ס"
+pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic QUEEN|QUEEN]]"
+strongs:
+- "[[H3808]]"
+- "[[H1792]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H9014]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H8451]]"
+- "[[H9020]]"
+- "[[H2708]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 44:10**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are not humbled [even] unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers.
 <small><sub>**BSB:**</sub></small>
 To this day they have not humbled themselves or shown reverence, nor have they followed My instruction or the statutes that I set before you and your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H1792\|דֻכְּא֔וּ]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3372H\|יָרְא֗וּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1980I\|הָלְכ֤וּ]] [[H9003\|בְ]][[H8451\|תֽוֹרָתִ]][[H9020\|י֙]] [[H9002\|וּ]][[H9003\|בְ]][[H2708\|חֻקֹּתַ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414H\|נָתַ֥תִּי]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic QUEEN|QUEEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.9|<< Jeremiah 44:9]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.11|Jeremiah 44:11 >>]]</td></tr></table>
 
@@ -23,7 +80,7 @@ To this day they have not humbled themselves or shown reverence, nor have they f
 | I set  |**<big>&#8207;[[H5414H\|נָתַ֥תִּי]]&#8207; </big>**| na.Ta.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before you  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<to> before  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ancestors your  |**<big>&#8207;[[H0001G\|אֲבוֹתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors your  |**<big>&#8207;[[H0001G\|אֲבוֹתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.9|<< Jeremiah 44:9]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.11|Jeremiah 44:11 >>]]</td></tr></table>
 
 

@@ -1,10 +1,51 @@
+---
+title: Acts 28:1
+type: Verse
+kjv: "And when they were escaped, then they knew that the island was called Melita."
+bsb: "Once we were safely ashore, we learned that the island was called Malta."
+greek: "καὶ διασωθέντες τότε ἐπέγνωμεν ὅτι Μελίτη ἡ νῆσος καλεῖται·"
+pericope: "[[Acts.28.1 Ashore on Malta|Ashore on Malta]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MELITA (MALTA)|MELITA (MALTA)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2532]]"
+- "[[G1295]]"
+- "[[G5119]]"
+- "[[G1921]]"
+- "[[G3754G]]"
+- "[[G3194]]"
+- "[[G3588]]"
+- "[[G3520]]"
+- "[[G2564G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 28:1**<big><big>[[Acts.28.1 Ashore on Malta|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were escaped, then they knew that the island was called Melita.
 <small><sub>**BSB:**</sub></small>
 Once we were safely ashore, we learned that the island was called Malta.
-<small><sub>**Literal:**</sub></small>
-And having been saved then we found out that Malta the island is called;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.44|<< Acts 27:44]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.2|Acts 28:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1295\|διασωθέντες]]  [[G5119\|τότε]]  [[G1921\|ἐπέγνωμεν]]  [[G3754G\|ὅτι]]  [[G3194\|Μελίτη]]  [[G3588\|ἡ]]  [[G3520\|νῆσος]]  [[G2564G\|καλεῖται·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MELITA (MALTA)|MELITA (MALTA)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.44|<< Acts 27:44]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.2|Acts 28:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

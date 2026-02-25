@@ -1,8 +1,72 @@
+---
+title: Jeremiah 26:13
+type: Verse
+kjv: "Therefore now amend your ways and your doings, and obey the voice of the LORD your God; and the LORD will repent him of the evil that he hath pronounced against you."
+bsb: "So now, correct your ways and deeds, and obey the voice of the LORD your God, so that He might relent of the disaster He has pronounced against you."
+hebrew: "וְעַתָּ֗ה הֵיטִ֤יבוּ דַרְכֵיכֶם֙ וּמַ֣עַלְלֵיכֶ֔ם וְשִׁמְע֕וּ בְּק֖וֹל יְהוָ֣ה אֱלֹהֵיכֶ֑ם וְיִנָּחֵ֣ם יְהוָ֔ה אֶל־ הָ֣רָעָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר עֲלֵיכֶֽם׃"
+pericope: "[[Jer.26.7 Jeremiah Threatened with Death|Jeremiah Threatened with Death]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3190]]"
+- "[[H1870G]]"
+- "[[H9026]]"
+- "[[H4611]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5162H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 26:13**<big><big>[[Jer.26.7 Jeremiah Threatened with Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore now amend your ways and your doings, and obey the voice of the LORD your God; and the LORD will repent him of the evil that he hath pronounced against you.
 <small><sub>**BSB:**</sub></small>
 So now, correct your ways and deeds, and obey the voice of the LORD your God, so that He might relent of the disaster He has pronounced against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H3190\|הֵיטִ֤יבוּ]] [[H1870G\|דַרְכֵי]][[H9026\|כֶם֙]] [[H9002\|וּ]][[H4611\|מַ֣עַלְלֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H8085H\|שִׁמְע֕וּ]] [[H9003\|בְּ]][[H6963A\|ק֖וֹל]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H5162H\|יִנָּחֵ֣ם]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֣]][[H7451C\|רָעָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696I\|דִּבֶּ֖ר]] [[H5921A\|עֲלֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.12|<< Jeremiah 26:12]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.14|Jeremiah 26:14 >>]]</td></tr></table>
 

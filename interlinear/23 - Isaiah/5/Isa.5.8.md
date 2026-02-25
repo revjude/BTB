@@ -1,8 +1,68 @@
+---
+title: Isaiah 5:8
+type: Verse
+kjv: "Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!"
+bsb: "Woe to you who add house to house and join field to field until no place is left and you live alone in the land."
+hebrew: "ה֗וֹי מַגִּיעֵ֥י בַ֙יִת֙ בְּבַ֔יִת שָׂדֶ֥ה בְשָׂדֶ֖ה יַקְרִ֑יבוּ עַ֚ד אֶ֣פֶס מָק֔וֹם וְהֽוּשַׁבְתֶּ֥ם לְבַדְּכֶ֖ם בְּקֶ֥רֶב הָאָֽרֶץ׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic ESTATE|ESTATE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MONOPOLY|MONOPOLY]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1945]]"
+- "[[H5060]]"
+- "[[H1004B]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H7126G]]"
+- "[[H5704]]"
+- "[[H0657A]]"
+- "[[H4725]]"
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9036]]"
+- "[[H7130G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:8**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto them that join house to house, [that] lay field to field, till [there be] no place, that they may be placed alone in the midst of the earth!
 <small><sub>**BSB:**</sub></small>
 Woe to you who add house to house and join field to field until no place is left and you live alone in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֗וֹי]] [[H5060\|מַגִּיעֵ֥י]] [[H1004B\|בַ֙יִת֙]] [[H9003\|בְּ]][[H1004B\|בַ֔יִת]] [[H7704G\|שָׂדֶ֥ה]] [[H9003\|בְ]][[H7704G\|שָׂדֶ֖ה]] [[H7126G\|יַקְרִ֑יבוּ]] [[H5704\|עַ֚ד]] [[H0657A\|אֶ֣פֶס]] [[H4725\|מָק֔וֹם]] [[H9001\|וְ]][[H3427\|הֽוּשַׁבְתֶּ֥ם]] [[H9005\|לְ]][[H0905H\|בַדְּ]][[H9036\|כֶ֖ם]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic ESTATE|ESTATE]] • [[topic ISAIAH|ISAIAH]] • [[topic LAND|LAND]] • [[topic MONOPOLY|MONOPOLY]] • [[topic OPPRESSION|OPPRESSION]] • [[topic PRIDE|PRIDE]] • [[topic RICHES|RICHES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.7|<< Isaiah 5:7]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.9|Isaiah 5:9 >>]]</td></tr></table>
 

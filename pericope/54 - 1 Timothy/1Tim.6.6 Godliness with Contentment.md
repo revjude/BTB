@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Godliness with Contentment
+type: Pericope
 pericope: "[[1Tim.6.6 Godliness with Contentment|Godliness with Contentment]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 6
 book/chapter: "[[1Tim.6|1 Timothy 6]]"
-genre:
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 5
 verses:
 - "[[1Tim.6.6]]"
 - "[[1Tim.6.7]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Tim.6.10]]"
 ---
 
-[[1Tim.6|1 Timothy 6:6 - 1 Timothy 6:10]]
+<small>[[1Tim.6|1 Timothy 6:6-10]]</small>
 *Godliness with Contentment*
 
 [[1Tim.6.6|6]] But godliness with contentment is great gain.

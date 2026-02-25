@@ -1,8 +1,55 @@
+---
+title: Psalm 46:7
+type: Verse
+kjv: "The LORD of hosts is with us; the God of Jacob is our refuge. Selah."
+bsb: "The LORD of Hosts is with us; the God of Jacob is our fortress. Selah"
+hebrew: "יְהוָ֣ה צְבָא֣וֹת עִמָּ֑נוּ מִשְׂגָּֽב־ לָ֝נוּ אֱלֹהֵ֖י יַעֲקֹ֣ב סֶֽלָה׃"
+pericope: "[[Ps.46.1 God Is Our Refuge and Strength|God Is Our Refuge and Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 46
+book/chapter: "[[Ps.46|Psalm 46]]"
+chronological_order: 501
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H4869A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H3290]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 46:7**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD of hosts [is] with us; the God of Jacob [is] our refuge. Selah.
 <small><sub>**BSB:**</sub></small>
 The LORD of Hosts is with us; the God of Jacob is our fortress. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֣וֹת]] [[H5973A\|עִמָּ֑]][[H9035\|נוּ]] [[H4869A\|מִשְׂגָּֽב]][[H9014\|־]] [[H9005\|לָ֝]][[H9035\|נוּ]] [[H0430G\|אֱלֹהֵ֖י]] [[H3290\|יַעֲקֹ֣ב]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.46.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.46.6|<< Psalms 46:6]]</td><td align="center" style="border:none;">[[Ps.46|Psalms 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.8|Psalms 46:8 >>]]</td></tr></table>
 

@@ -1,6 +1,61 @@
+---
+title: LXX Ezekiel 27:33
+type: Verse
+lxx: "How much wage did you find from the sea? You filled up nations from  your abundance, and from  your consolidation you enriched all the kings of the earth."
+greek: "πόσον τινά εύρες μισθόν από της θαλάσσης ενέπλησας έθνη από του πλήθους σου και από του συμμίκτου σου επλούτησας πάντας βασιλείς της γης"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MERCHANT|MERCHANT]]"
+strongs:
+- "[[G4214]]"
+- "[[G5100]]"
+- "[[G2147]]"
+- "[[G3408]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G1705]]"
+- "[[G1484]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4128]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G9267]]"
+- "[[G1473]]"
+- "[[G4148]]"
+- "[[G3956]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[G1093]]"
+---
+
 **LXX Ezekiel 27:33** 
 <small><sub>**LXX:**</sub></small>
 How much wage did you find from the sea? You filled up nations from  your abundance, and from  your consolidation you enriched all \[the\] kings of the earth. 
+<small><sub>**Greek:**</sub></small>
+[[G4214\|πόσον]] [[G5100\|τινά]] [[G2147\|εύρες]] [[G3408\|μισθόν]] [[G0575\|από]] [[G3588\|της]] [[G2281\|θαλάσσης]] [[G1705\|ενέπλησας]] [[G1484\|έθνη]] [[G0575\|από]] [[G3588\|του]] [[G4128\|πλήθους]] [[G1473\|σου]] [[G2532\|και]] [[G0575\|από]] [[G3588\|του]] [[G9267\|συμμίκτου]] [[G1473\|σου]] [[G4148\|επλούτησας]] [[G3956\|πάντας]] [[G0935\|βασιλείς]] [[G3588\|της]] [[G1093\|γης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MERCHANT|MERCHANT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.27.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.32|<< Ezekiel 27:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.34|Ezekiel 27:34 >>]]</td></tr></table>
 
@@ -26,6 +81,6 @@ How much wage did you find from the sea? You filled up nations from  your abunda
 | \[the\] kings | **<big>[[G0935\|βασιλείς]]</big>** |
 | of the | **<big>[[G3588\|της]]</big>** |
 | earth. | **<big>[[G1093\|γης]]</big>** |
-[[Ezek.27.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.32|<< Ezekiel 27:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.34|Ezekiel 27:34 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.27.32|<< Ezekiel 27:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.27.34|Ezekiel 27:34 >>]]</td></tr></table>
 
 

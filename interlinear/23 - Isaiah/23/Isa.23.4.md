@@ -1,8 +1,60 @@
+---
+title: Isaiah 23:4
+type: Verse
+kjv: "Be thou ashamed, O Zidon: for the sea hath spoken, even the strength of the sea, saying, I travail not, nor bring forth children, neither do I nourish up young men, nor bring up virgins."
+bsb: "Be ashamed, O Sidon, the stronghold of the sea, for the sea has spoken: “I have not been in labor or given birth. I have not raised young men or brought up young women.”"
+hebrew: "בּ֣וֹשִׁי צִיד֔וֹן כִּֽי־ אָמַ֣ר יָ֔ם מָע֥וֹז הַיָּ֖ם לֵאמֹ֑ר לֹֽא־ חַ֣לְתִּי וְלֹֽא־ יָלַ֗דְתִּי וְלֹ֥א גִדַּ֛לְתִּי בַּחוּרִ֖ים רוֹמַ֥מְתִּי בְתוּלֽוֹת׃"
+pericope: "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic SIDON|SIDON]]"
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[H0954]]"
+- "[[H6721H]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3220G]]"
+- "[[H4581]]"
+- "[[H9009]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H2342I]]"
+- "[[H9002]]"
+- "[[H3205]]"
+- "[[H1431]]"
+- "[[H0970]]"
+- "[[H7311A]]"
+- "[[H1330]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 23:4**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be thou ashamed, O Zidon: for the sea hath spoken, [even] the strength of the sea, saying, I travail not, nor bring forth children, neither do I nourish up young men, [nor] bring up virgins.
 <small><sub>**BSB:**</sub></small>
 Be ashamed, O Sidon, the stronghold of the sea, for the sea has spoken: “I have not been in labor or given birth. I have not raised young men or brought up young women.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0954\|בּ֣וֹשִׁי]] [[H6721H\|צִיד֔וֹן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3220G\|יָ֔ם]] [[H4581\|מָע֥וֹז]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2342I\|חַ֣לְתִּי]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3205\|יָלַ֗דְתִּי]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1431\|גִדַּ֛לְתִּי]] [[H0970\|בַּחוּרִ֖ים]] [[H7311A\|רוֹמַ֥מְתִּי]] [[H1330\|בְתוּלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIDON|SIDON]] • [[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.3|<< Isaiah 23:3]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.5|Isaiah 23:5 >>]]</td></tr></table>
 

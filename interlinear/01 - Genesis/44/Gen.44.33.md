@@ -1,8 +1,64 @@
+---
+title: Genesis 44:33
+type: Verse
+kjv: "Now therefore, I pray thee, let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren."
+bsb: "Now please let your servant stay here as my lord’s slave in place of the boy. Let him return with his brothers."
+hebrew: "וְעַתָּ֗ה יֵֽשֶׁב־ נָ֤א עַבְדְּךָ֙ תַּ֣חַת הַנַּ֔עַר עֶ֖בֶד לַֽאדֹנִ֑י וְהַנַּ֖עַר יַ֥עַל עִם־ אֶחָֽיו׃"
+pericope: "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3427]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H8478H]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9005]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H5927G]]"
+- "[[H5973A]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:33**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, I pray thee, let thy servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.
 <small><sub>**BSB:**</sub></small>
 Now please let your servant stay here as my lord’s slave in place of the boy. Let him return with his brothers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H3427\|יֵֽשֶׁב]][[H9014\|־]] [[H4994\|נָ֤א]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H8478H\|תַּ֣חַת]] [[H9009\|הַ]][[H5288\|נַּ֔עַר]] [[H5650\|עֶ֖בֶד]] [[H9005\|לַֽ]][[H0113\|אדֹנִ֑]][[H9020\|י]] [[H9002\|וְ]][[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H5927G\|יַ֥עַל]] [[H5973A\|עִם]][[H9014\|־]] [[H0251G\|אֶחָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JUDAH|JUDAH]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.32|<< Genesis 44:32]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.34|Genesis 44:34 >>]]</td></tr></table>
 

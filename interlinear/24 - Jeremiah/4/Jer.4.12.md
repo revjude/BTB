@@ -1,8 +1,60 @@
+---
+title: Jeremiah 4:12
+type: Verse
+kjv: "Even a full wind from those places shall come unto me: now also will I give sentence against them."
+bsb: "a wind too strong for that comes from Me. Now I also pronounce judgments against them.”"
+hebrew: "ר֧וּחַ מָלֵ֛א מֵאֵ֖לֶּה יָ֣בוֹא לִ֑י עַתָּ֕ה גַּם־ אֲנִ֛י אֲדַבֵּ֥ר מִשְׁפָּטִ֖ים אוֹתָֽם׃"
+pericope: "[[Jer.4.5 Disaster from the North|Disaster from the North]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 4
+book/chapter: "[[Jer.4|Jeremiah 4]]"
+chronological_order: 721
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H7307H]]"
+- "[[H4392]]"
+- "[[H9006]]"
+- "[[H0428]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6258]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H1696G]]"
+- "[[H4941G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 4:12**<big><big>[[Jer.4.5 Disaster from the North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Even] a full wind from those [places] shall come unto me: now also will I give sentence against them.
 <small><sub>**BSB:**</sub></small>
 a wind too strong for that comes from Me. Now I also pronounce judgments against them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7307H\|ר֧וּחַ]] [[H4392\|מָלֵ֛א]] [[H9006\|מֵ]][[H0428\|אֵ֖לֶּה]] [[H0935G\|יָ֣בוֹא]] [[H9005\|לִ֑]][[H9030\|י]] [[H6258\|עַתָּ֕ה]] [[H1571\|גַּם]][[H9014\|־]] [[H0589\|אֲנִ֛י]] [[H1696G\|אֲדַבֵּ֥ר]] [[H4941G\|מִשְׁפָּטִ֖ים]] [[H0854\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.4.11|<< Jeremiah 4:11]]</td><td align="center" style="border:none;">[[Jer.4|Jeremiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.4.13|Jeremiah 4:13 >>]]</td></tr></table>
 

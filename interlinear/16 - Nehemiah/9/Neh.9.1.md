@@ -1,8 +1,61 @@
+---
+title: Nehemiah 9:1
+type: Verse
+kjv: "Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them."
+bsb: "On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads."
+hebrew: "וּבְיוֹם֩ עֶשְׂרִ֨ים וְאַרְבָּעָ֜ה לַחֹ֣דֶשׁ הַזֶּ֗ה נֶאֶסְפ֤וּ בְנֵֽי־ יִשְׂרָאֵל֙ בְּצ֣וֹם וּבְשַׂקִּ֔ים וַאֲדָמָ֖ה עֲלֵיהֶֽם׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H0622]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H6685]]"
+- "[[H8242]]"
+- "[[H0127G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:1**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.
 <small><sub>**BSB:**</sub></small>
 On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3117G\|יוֹם֩]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֜ה]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H0622\|נֶאֶסְפ֤וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9003\|בְּ]][[H6685\|צ֣וֹם]] [[H9002\|וּ]][[H9003\|בְ]][[H8242\|שַׂקִּ֔ים]] [[H9002\|וַ]][[H0127G\|אֲדָמָ֖ה]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.8.18|<< Nehemiah 8:18]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.2|Nehemiah 9:2 >>]]</td></tr></table>
 

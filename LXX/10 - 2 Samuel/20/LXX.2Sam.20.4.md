@@ -1,6 +1,54 @@
+---
+title: LXX 2 Samuel 20:4
+type: Verse
+lxx: "And the king said to Amasa, Call to me men of Judah in three days, but you stand here!"
+greek: "και είπεν ο βασιλεύς προς Αμεσσά βόησόν μοι άνδρας Ιούδα τρισίν ημέρας συ δε ενταύθα στήθι"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic MUSTER|MUSTER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G4314]]"
+- "[[H6021]]"
+- "[[G0994]]"
+- "[[G1473]]"
+- "[[G0435]]"
+- "[[G2448]]"
+- "[[G5140]]"
+- "[[G2250]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G7263]]"
+- "[[G2476]]"
+---
+
 **LXX 2 Samuel 20:4** 
 <small><sub>**LXX:**</sub></small>
 And the king said to Amasa, Call to me men of Judah in three days, but you stand here! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G4314\|προς]] [[H6021\|Αμεσσά]] [[G0994\|βόησόν]] [[G1473\|μοι]] [[G0435\|άνδρας]] [[G2448\|Ιούδα]] [[G5140\|τρισίν]] [[G2250\|ημέρας]] [[G1473\|συ]] [[G1161\|δε]] [[G7263\|ενταύθα]] [[G2476\|στήθι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic DAVID|DAVID]] • [[topic MUSTER|MUSTER]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.3|<< 2 Samuel 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.5|2 Samuel 20:5 >>]]</td></tr></table>
 
@@ -21,6 +69,6 @@ And the king said to Amasa, Call to me men of Judah in three days, but you stand
 | but you | **<big>[[G1473\|συ]]</big>** **<big>[[G1161\|δε]]</big>** |
 | here | **<big>[[G7263\|ενταύθα]]</big>** |
 | stand | **<big>[[G2476\|στήθι]]</big>** |
-[[2Sam.20.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.3|<< 2 Samuel 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.5|2 Samuel 20:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.20.3|<< 2 Samuel 20:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.20.5|2 Samuel 20:5 >>]]</td></tr></table>
 
 

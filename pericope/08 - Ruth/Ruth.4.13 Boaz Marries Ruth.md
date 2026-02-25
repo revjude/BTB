@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Boaz Marries Ruth
+type: Pericope
 pericope: "[[Ruth.4.13 Boaz Marries Ruth|Boaz Marries Ruth]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ruth
 chapter: 4
 book/chapter: "[[Ruth.4|Ruth 4]]"
-genre:
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
 - narrative
 - short story
 - idyllic narrative
 - megillot
+verse_count: 5
 verses:
 - "[[Ruth.4.13]]"
 - "[[Ruth.4.14]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Ruth.4.17]]"
 ---
 
-[[Ruth.4|Ruth 4:13 - Ruth 4:17]]
+<small>[[Ruth.4|Ruth 4:13-17]]</small>
 *Boaz Marries Ruth*
 
 [[Ruth.4.13|13]] So Boaz took Ruth, and she was his wife: and when he went in unto her, the LORD gave her conception, and she bare a son.

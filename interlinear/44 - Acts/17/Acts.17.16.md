@@ -1,10 +1,57 @@
+---
+title: Acts 17:16
+type: Verse
+kjv: "Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry."
+bsb: "While Paul was waiting for them in Athens, he was deeply disturbed in his spirit to see that the city was full of idols."
+greek: "Ἐν δὲ ταῖς Ἀθήναις ἐκδεχομένου αὐτοὺς τοῦ Παύλου παρωξύνετο τὸ πνεῦμα αὐτοῦ ἐν αὐτῷ θεωροῦντος κατείδωλον οὖσαν τὴν πόλιν."
+pericope: "[[Acts.17.16 Paul in Athens|Paul in Athens]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1722]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0116]]"
+- "[[G1551]]"
+- "[[G0846]]"
+- "[[G3972G]]"
+- "[[G3947]]"
+- "[[G4151G]]"
+- "[[G2334]]"
+- "[[G2712]]"
+- "[[G1510]]"
+- "[[G4172]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 17:16**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry.
 <small><sub>**BSB:**</sub></small>
 While Paul was waiting for them in Athens, he was deeply disturbed in his spirit to see that the city was full of idols.
-<small><sub>**Literal:**</sub></small>
-In now <the> Athens is waiting for them <the> Paul was provoked the spirit of him in him seeing utterly idolatrous to be the city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.15|<< Acts 17:15]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.17|Acts 17:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G1161\|δὲ]]  [[G3588\|ταῖς]]  [[G0116\|Ἀθήναις]]  [[G1551\|ἐκδεχομένου]]  [[G0846\|αὐτοὺς]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G3947\|παρωξύνετο]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G2334\|θεωροῦντος]]  [[G2712\|κατείδωλον]]  [[G1510\|οὖσαν]]  [[G3588\|τὴν]]  [[G4172\|πόλιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic GENTILES|GENTILES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.15|<< Acts 17:15]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.17|Acts 17:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

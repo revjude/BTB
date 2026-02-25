@@ -1,8 +1,64 @@
+---
+title: Psalm 14:1
+type: Verse
+kjv: "The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good."
+bsb: "For the choirmaster. Of David. The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good."
+hebrew: "אָ֘מַ֤ר נָבָ֣ל בְּ֭לִבּוֹ אֵ֣ין אֱלֹהִ֑ים הִֽשְׁחִ֗יתוּ הִֽתְעִ֥יבוּ עֲלִילָ֗ה אֵ֣ין עֹֽשֵׂה־ טֽוֹב׃"
+pericope: "[[Ps.14.1 The Fool Says There Is No God|The Fool Says There Is No God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 14
+book/chapter: "[[Ps.14|Psalm 14]]"
+chronological_order: 348
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ATHEISM|ATHEISM]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SKEPTICISM|SKEPTICISM]]"
+strongs:
+- "[[H0559]]"
+- "[[H5036]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H0369]]"
+- "[[H0430G]]"
+- "[[H7843]]"
+- "[[H8581]]"
+- "[[H5949]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H2896B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 14:1**<big><big>[[Ps.14.1 The Fool Says There Is No God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fool hath said in his heart, [There is] no God. They are corrupt, they have done abominable works, [there is] none that doeth good.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. Of David. The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָ֘מַ֤ר]] [[H5036\|נָבָ֣ל]] [[H9003\|בְּ֭]][[H3820A\|לִבּ]][[H9023\|וֹ]] [[H0369\|אֵ֣ין]] [[H0430G\|אֱלֹהִ֑ים]] [[H7843\|הִֽשְׁחִ֗יתוּ]] [[H8581\|הִֽתְעִ֥יבוּ]] [[H5949\|עֲלִילָ֗ה]] [[H0369\|אֵ֣ין]] [[H6213A\|עֹֽשֵׂה]][[H9014\|־]] [[H2896B\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHEISM|ATHEISM]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHARACTER|CHARACTER]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic FOOL|FOOL]] • [[topic INFIDELITY|INFIDELITY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SKEPTICISM|SKEPTICISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.14.0|<< Psalms 14:0]]</td><td align="center" style="border:none;">[[Ps.14|Psalms 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.14.2|Psalms 14:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

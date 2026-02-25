@@ -1,8 +1,72 @@
+---
+title: Nehemiah 12:27
+type: Verse
+kjv: "And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps."
+bsb: "At the dedication of the wall of Jerusalem, the Levites were sought out from all their homes and brought to Jerusalem to celebrate the joyous dedication with thanksgiving and singing, accompanied by cymbals, harps, and lyres."
+hebrew: "וּבַחֲנֻכַּ֞ת חוֹמַ֣ת יְרוּשָׁלִַ֗ם בִּקְשׁ֤וּ אֶת־ הַלְוִיִּם֙ מִכָּל־ מְק֣וֹמֹתָ֔ם לַהֲבִיאָ֖ם לִֽירוּשָׁלִָ֑ם לַעֲשֹׂ֨ת חֲנֻכָּ֤ה וְשִׂמְחָה֙ וּבְתוֹד֣וֹת וּבְשִׁ֔יר מְצִלְתַּ֖יִם נְבָלִ֥ים וּבְכִנֹּרֽוֹת׃"
+pericope: "[[Neh.12.27 The Dedication of the Wall|The Dedication of the Wall]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CYMBAL|CYMBAL]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic EZRA|EZRA]]"
+- "[[topic HARP|HARP]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PSALTERY|PSALTERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2598]]"
+- "[[H2346G]]"
+- "[[H3389]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H4725]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H6213A]]"
+- "[[H8057]]"
+- "[[H8426]]"
+- "[[H7892A]]"
+- "[[H4700]]"
+- "[[H5035B]]"
+- "[[H3658]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 12:27**<big><big>[[Neh.12.27 The Dedication of the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, [with] cymbals, psalteries, and with harps.
 <small><sub>**BSB:**</sub></small>
 At the dedication of the wall of Jerusalem, the Levites were sought out from all their homes and brought to Jerusalem to celebrate the joyous dedication with thanksgiving and singing, accompanied by cymbals, harps, and lyres.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2598\|חֲנֻכַּ֞ת]] [[H2346G\|חוֹמַ֣ת]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H1245\|בִּקְשׁ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּם֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H4725\|מְק֣וֹמֹתָ֔]][[H9028\|ם]] [[H9005\|לַ]][[H0935P\|הֲבִיאָ֖]][[H9038\|ם]] [[H9005\|לִֽ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9005\|לַ]][[H6213A\|עֲשֹׂ֨ת]] [[H2598\|חֲנֻכָּ֤ה]] [[H9002\|וְ]][[H8057\|שִׂמְחָה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H8426\|תוֹד֣וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H7892A\|שִׁ֔יר]] [[H4700\|מְצִלְתַּ֖יִם]] [[H5035B\|נְבָלִ֥ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3658\|כִנֹּרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYMBAL|CYMBAL]] • [[topic DEDICATION|DEDICATION]] • [[topic EZRA|EZRA]] • [[topic HARP|HARP]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MUSIC|MUSIC]] • [[topic PSALTERY|PSALTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.26|<< Nehemiah 12:26]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.28|Nehemiah 12:28 >>]]</td></tr></table>
 

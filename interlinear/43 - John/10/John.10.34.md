@@ -1,10 +1,59 @@
+---
+title: John 10:34
+type: Verse
+kjv: "Jesus answered them, Is it not written in your law, I said, Ye are gods?"
+bsb: "Jesus replied, “Is it not written in your Law: ‘I have said you are gods’?"
+jesus_said: "Is it not written in your law, I said, Ye are gods?"
+greek: "Ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· οὐκ ἔστιν γεγραμμένον ἐν τῷ νόμῳ ὑμῶν ὅτι ἐγὼ εἶπα· θεοί ἐστε;"
+pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G3551]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G2036]]"
+- "[[G2316]]"
+texts:
+- NKO
+- no
+---
+
 **John 10:34**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered them, Is it not written in your law, I said, Ye are gods?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Is it not written in your Law: ‘I have said you are gods’?
-<small><sub>**Literal:**</sub></small>
-Answered to them <the> Jesus; Surely it is written in the law of you that I myself said: gods you are’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.33|<< John 10:33]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.35|John 10:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1125\|γεγραμμένον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G4771\|ὑμῶν]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G2036\|εἶπα·]]  [[G2316\|θεοί]]  [[G1510\|ἐστε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.33|<< John 10:33]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.35|John 10:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 10:34** is...
 > $\quad$ referencing: [[LXX.Ps.82.6|Ps 82:6]]

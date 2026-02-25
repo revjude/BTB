@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 36:3
+type: Verse
+kjv: "And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold."
+bsb: "And the king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver and a talent of gold."
+hebrew: "וַיְסִירֵ֥הוּ מֶֽלֶךְ־ מִצְרַ֖יִם בִּֽירוּשָׁלִָ֑ם וַֽיַּעֲנֹשׁ֙ אֶת־ הָאָ֔רֶץ מֵאָ֥ה כִכַּר־ כֶּ֖סֶף וְכִכַּ֥ר זָהָֽב׃"
+pericope: "[[2Chr.36.1 Jehoahaz Succeeds Josiah|Jehoahaz Succeeds Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 36
+book/chapter: "[[2Chr.36|2 Chronicles 36]]"
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H9033]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H6064]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3967]]"
+- "[[H3603H]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 36:3**<big><big>[[2Chr.36.1 Jehoahaz Succeeds Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold.
 <small><sub>**BSB:**</sub></small>
 And the king of Egypt dethroned him in Jerusalem and imposed on Judah a levy of a hundred talents of silver and a talent of gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493G\|יְסִירֵ֥]][[H9033\|הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֖יִם]] [[H9003\|בִּֽ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9001\|וַֽ]][[H6064\|יַּעֲנֹשׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3967\|מֵאָ֥ה]] [[H3603H\|כִכַּר]][[H9014\|־]] [[H3701G\|כֶּ֖סֶף]] [[H9002\|וְ]][[H3603H\|כִכַּ֥ר]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOAHAZ|JEHOAHAZ]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.2|<< 2 Chronicles 36:2]]</td><td align="center" style="border:none;">[[2Chr.36|2 Chronicles 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.36.4|2 Chronicles 36:4 >>]]</td></tr></table>
 

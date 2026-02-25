@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 31:9
+type: Verse
+kjv: "Then Hezekiah questioned with the priests and the Levites concerning the heaps."
+bsb: "Then Hezekiah questioned the priests and Levites about the heaps,"
+hebrew: "וַיִּדְרֹ֣שׁ יְחִזְקִיָּ֗הוּ עַל־ הַכֹּֽהֲנִ֛ים וְהַלְוִיִּ֖ם עַל־ הָעֲרֵמֽוֹת׃"
+pericope: "[[2Chr.31.3 Contributions for Worship|Contributions for Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1875]]"
+- "[[H2396G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3881]]"
+- "[[H6194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 31:9**<big><big>[[2Chr.31.3 Contributions for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Hezekiah questioned with the priests and the Levites concerning the heaps.
 <small><sub>**BSB:**</sub></small>
 Then Hezekiah questioned the priests and Levites about the heaps,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1875\|יִּדְרֹ֣שׁ]] [[H2396G\|יְחִזְקִיָּ֗הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּֽהֲנִ֛ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H6194\|עֲרֵמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.8|<< 2 Chronicles 31:8]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.10|2 Chronicles 31:10 >>]]</td></tr></table>
 

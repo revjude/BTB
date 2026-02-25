@@ -1,8 +1,65 @@
+---
+title: Micah 7:18
+type: Verse
+kjv: "Who is a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth in mercy."
+bsb: "Who is a God like You, who pardons iniquity and passes over the transgression of the remnant of His inheritance—who does not retain His anger forever, because He delights in loving devotion?"
+hebrew: "מִי־ אֵ֣ל כָּמ֗וֹךָ נֹשֵׂ֤א עָוֹן֙ וְעֹבֵ֣ר עַל־ פֶּ֔שַׁע לִשְׁאֵרִ֖ית נַחֲלָת֑וֹ לֹא־ הֶחֱזִ֤יק לָעַד֙ אַפּ֔וֹ כִּֽי־ חָפֵ֥ץ חֶ֖סֶד הֽוּא׃"
+pericope: "[[Mic.7.14 God’s Compassion on Israel|God’s Compassion on Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H5375I]]"
+- "[[H5771G]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H6588]]"
+- "[[H9005]]"
+- "[[H7611]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H2388G]]"
+- "[[H5703]]"
+- "[[H0639G]]"
+- "[[H3588A]]"
+- "[[H2655]]"
+- "[[H2617A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:18**<big><big>[[Mic.7.14 God’s Compassion on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] a God like unto thee, that pardoneth iniquity, and passeth by the transgression of the remnant of his heritage? he retaineth not his anger for ever, because he delighteth [in] mercy.
 <small><sub>**BSB:**</sub></small>
 Who is a God like You, who pardons iniquity and passes over the transgression of the remnant of His inheritance—who does not retain His anger forever, because He delights in loving devotion?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִי]][[H9014\|־]] [[H0410G\|אֵ֣ל]] [[H3644G\|כָּמ֗וֹ]][[H9031\|ךָ]] [[H5375I\|נֹשֵׂ֤א]] [[H5771G\|עָוֹן֙]] [[H9002\|וְ]][[H5674A\|עֹבֵ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6588\|פֶּ֔שַׁע]] [[H9005\|לִ]][[H7611\|שְׁאֵרִ֖ית]] [[H5159\|נַחֲלָת֑]][[H9023\|וֹ]] [[H3808\|לֹא]][[H9014\|־]] [[H2388G\|הֶחֱזִ֤יק]] [[H9005\|לָ]][[H5703\|עַד֙]] [[H0639G\|אַפּ֔]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2655\|חָפֵ֥ץ]] [[H2617A\|חֶ֖סֶד]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.17|<< Micah 7:17]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.19|Micah 7:19 >>]]</td></tr></table>
 

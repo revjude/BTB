@@ -1,10 +1,68 @@
+---
+title: Matthew 21:32
+type: Verse
+kjv: "For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen it, repented not afterward, that ye might believe him."
+bsb: "For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and prostitutes did. And even after you saw this, you did not repent and believe him."
+jesus_said: "For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen it, repented not afterward, that ye might believe him."
+greek: "ἦλθεν γὰρ Ἰωάννης πρὸς ὑμᾶς ἐν ὁδῷ δικαιοσύνης, καὶ οὐκ ἐπιστεύσατε αὐτῷ· οἱ δὲ τελῶναι καὶ αἱ πόρναι ἐπίστευσαν αὐτῷ. ὑμεῖς δὲ ἰδόντες οὐδὲ μετεμελήθητε ὕστερον τοῦ πιστεῦσαι αὐτῷ.¶"
+pericope: "[[Matt.21.28 The Parable of the Two Sons|The Parable of the Two Sons]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2064]]"
+- "[[G1063]]"
+- "[[G2491G]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3598]]"
+- "[[G1343]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5057]]"
+- "[[G4204]]"
+- "[[G1492H]]"
+- "[[G3761]]"
+- "[[G3338]]"
+- "[[G5306]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 21:32**<big><big>[[Matt.21.28 The Parable of the Two Sons|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For John came unto you in the way of righteousness, and ye believed him not: but the publicans and the harlots believed him: and ye, when ye had seen [it], repented not afterward, that ye might believe him.
 <small><sub>**BSB:**</sub></small>
 For John came to you in the way of righteousness, and you did not believe him, but the tax collectors and prostitutes did. And even after you saw this, you did not repent and believe him.
-<small><sub>**Literal:**</sub></small>
-Came for John to you in [the] way of righteousness, and not you did believe in him; <the> however the tax collectors and the prostitutes believed in him. you yourselves then having seen not even did repent afterward <the> to believe him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.31|<< Matthew 21:31]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.33|Matthew 21:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἦλθεν]]  [[G1063\|γὰρ]]  [[G2491G\|Ἰωάννης]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G3598\|ὁδῷ]]  [[G1343\|δικαιοσύνης,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G4100\|ἐπιστεύσατε]]  [[G0846\|αὐτῷ·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G5057\|τελῶναι]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G4204\|πόρναι]]  [[G4100\|ἐπίστευσαν]]  [[G0846\|αὐτῷ.]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G1492H\|ἰδόντες]]  [[G3761\|οὐδὲ]]  [[G3338\|μετεμελήθητε]]  [[G5306\|ὕστερον]]  [[G3588\|τοῦ]]  [[G4100\|πιστεῦσαι]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PUBLICANS|PUBLICANS]] • [[topic REPROOF|REPROOF]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.31|<< Matthew 21:31]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.33|Matthew 21:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

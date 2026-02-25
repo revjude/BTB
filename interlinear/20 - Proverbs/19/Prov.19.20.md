@@ -1,8 +1,52 @@
+---
+title: Proverbs 19:20
+type: Verse
+kjv: "Hear counsel, and receive instruction, that thou mayest be wise in thy latter end."
+bsb: "Listen to counsel and accept discipline, that you may be wise the rest of your days."
+hebrew: "שְׁמַ֣ע עֵ֭צָה וְקַבֵּ֣ל מוּסָ֑ר לְ֝מַ֗עַן תֶּחְכַּ֥ם בְּאַחֲרִיתֶֽךָ׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H8085G]]"
+- "[[H6098]]"
+- "[[H9002]]"
+- "[[H6901]]"
+- "[[H4148H]]"
+- "[[H4616]]"
+- "[[H2449]]"
+- "[[H9003]]"
+- "[[H0319]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:20**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear counsel, and receive instruction, that thou mayest be wise in thy latter end.
 <small><sub>**BSB:**</sub></small>
 Listen to counsel and accept discipline, that you may be wise the rest of your days.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שְׁמַ֣ע]] [[H6098\|עֵ֭צָה]] [[H9002\|וְ]][[H6901\|קַבֵּ֣ל]] [[H4148H\|מוּסָ֑ר]] [[H4616\|לְ֝מַ֗עַן]] [[H2449\|תֶּחְכַּ֥ם]] [[H9003\|בְּ]][[H0319\|אַחֲרִיתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.19|<< Proverbs 19:19]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.21|Proverbs 19:21 >>]]</td></tr></table>
 

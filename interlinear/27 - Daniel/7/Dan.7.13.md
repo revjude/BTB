@@ -1,8 +1,70 @@
+---
+title: Daniel 7:13
+type: Verse
+kjv: "I saw in the night visions, and, behold, one like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him."
+bsb: "In my vision in the night I continued to watch, and I saw One like the Son of Man coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence."
+aramaic: "חָזֵ֤ה הֲוֵית֙ בְּחֶזְוֵ֣י לֵֽילְיָ֔א וַאֲרוּ֙ עִם־ עֲנָנֵ֣י שְׁמַיָּ֔א כְּבַ֥ר אֱנָ֖שׁ אָתֵ֣ה הֲוָ֑ה וְעַד־ עַתִּ֤יק יֽוֹמַיָּא֙ מְטָ֔ה וּקְדָמ֖וֹהִי הַקְרְבֽוּהִי׃"
+pericope: "[[Dan.7.13 Daniel’s Vision of the Son of Man|Daniel’s Vision of the Son of Man]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANCIENT OF DAYS|ANCIENT OF DAYS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HORN|HORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H2370]]"
+- "[[H1934]]"
+- "[[H9003]]"
+- "[[H2376]]"
+- "[[H3916]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H0718]]"
+- "[[H5974]]"
+- "[[H9014]]"
+- "[[H6050]]"
+- "[[H8065]]"
+- "[[H9004]]"
+- "[[H1247]]"
+- "[[H0606]]"
+- "[[H0858]]"
+- "[[H5705]]"
+- "[[H6268]]"
+- "[[H3118]]"
+- "[[H4291]]"
+- "[[H6925]]"
+- "[[H9033]]"
+- "[[H7127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:13**<big><big>[[Dan.7.13 Daniel’s Vision of the Son of Man|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.
 <small><sub>**BSB:**</sub></small>
 In my vision in the night I continued to watch, and I saw One like the Son of Man coming with the clouds of heaven. He approached the Ancient of Days and was led into His presence.
+<small><sub>**Aramaic:**</sub></small>
+[[H2370\|חָזֵ֤ה]] [[H1934\|הֲוֵית֙]] [[H9003\|בְּ]][[H2376\|חֶזְוֵ֣י]] [[H3916\|לֵֽילְיָ֔]][[H9010\|א]] [[H9002\|וַ]][[H0718\|אֲרוּ֙]] [[H5974\|עִם]][[H9014\|־]] [[H6050\|עֲנָנֵ֣י]] [[H8065\|שְׁמַיָּ֔]][[H9010\|א]] [[H9004\|כְּ]][[H1247\|בַ֥ר]] [[H0606\|אֱנָ֖שׁ]] [[H0858\|אָתֵ֣ה]] [[H1934\|הֲוָ֑ה]] [[H9002\|וְ]][[H5705\|עַד]][[H9014\|־]] [[H6268\|עַתִּ֤יק]] [[H3118\|יֽוֹמַיָּ]][[H9010\|א֙]] [[H4291\|מְטָ֔ה]] [[H9002\|וּ]][[H6925\|קְדָמ֖וֹ]][[H9033\|הִי]] [[H7127\|הַקְרְבֽוּ]][[H9033\|הִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANCIENT OF DAYS|ANCIENT OF DAYS]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic HORN|HORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.12|<< Daniel 7:12]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.14|Daniel 7:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

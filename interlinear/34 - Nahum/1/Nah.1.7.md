@@ -1,8 +1,56 @@
+---
+title: Nahum 1:7
+type: Verse
+kjv: "The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him."
+bsb: "The LORD is good, a stronghold in the day of distress; He cares for those who trust in Him."
+hebrew: "ט֣וֹב יְהוָ֔ה לְמָע֖וֹז בְּי֣וֹם צָרָ֑ה וְיֹדֵ֖עַ חֹ֥סֵי בֽוֹ׃"
+pericope: "[[Nah.1.1 The Burden against Nineveh|The Burden against Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 1
+book/chapter: "[[Nah.1|Nahum 1]]"
+chronological_order: 708
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FORT|FORT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H2896A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H4581]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6869B]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H2620]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 1:7**<big><big>[[Nah.1.1 The Burden against Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] good, a strong hold in the day of trouble; and he knoweth them that trust in him.
 <small><sub>**BSB:**</sub></small>
 The LORD is good, a stronghold in the day of distress; He cares for those who trust in Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֣וֹב]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H4581\|מָע֖וֹז]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H6869B\|צָרָ֑ה]] [[H9002\|וְ]][[H3045\|יֹדֵ֖עַ]] [[H2620\|חֹ֥סֵי]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic FORT|FORT]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.1.6|<< Nahum 1:6]]</td><td align="center" style="border:none;">[[Nah.1|Nahum 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.1.8|Nahum 1:8 >>]]</td></tr></table>
 

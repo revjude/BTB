@@ -1,10 +1,65 @@
+---
+title: Romans 1:7
+type: Verse
+kjv: "To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ."
+bsb: "To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ."
+greek: "πᾶσιν τοῖς οὖσιν ἐν Ῥώμῃ ἀγαπητοῖς θεοῦ κλητοῖς ἁγίοις· χάρις ὑμῖν καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς ἡμῶν καὶ κυρίου Ἰησοῦ Χριστοῦ.¶"
+pericope: "[[Rom.1.1 Paul Greets the Saints in Rome|Paul Greets the Saints in Rome]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ROME|ROME]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4516]]"
+- "[[G0027]]"
+- "[[G2316]]"
+- "[[G2822]]"
+- "[[G0040H]]"
+- "[[G5485]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1515]]"
+- "[[G0575]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Romans 1:7**<big><big>[[Rom.1.1 Paul Greets the Saints in Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To all that be in Rome, beloved of God, called [to be] saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 To all in Rome who are loved by God and called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-To all those being in Rome beloved of God to [those] called saints: Grace to you and peace from God [the] Father of us and [the] Lord Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.6|<< Romans 1:6]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.8|Romans 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1510\|οὖσιν]]  [[G1722\|ἐν]]  [[G4516\|Ῥώμῃ]]  [[G0027\|ἀγαπητοῖς]]  [[G2316\|θεοῦ]]  [[G2822\|κλητοῖς]]  [[G0040H\|ἁγίοις·]]  [[G5485\|χάρις]]  [[G4771\|ὑμῖν]]  [[G2532\|καὶ]]  [[G1515\|εἰρήνη]]  [[G0575\|ἀπὸ]]  [[G2316\|θεοῦ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ROME|ROME]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.6|<< Romans 1:6]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.8|Romans 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Judges 20:4
+type: Verse
+kjv: "And the Levite, the husband of the woman that was slain, answered and said, I came into Gibeah that belongeth to Benjamin, I and my concubine, to lodge."
+bsb: "So the Levite, the husband of the murdered woman, answered: “I and my concubine came to Gibeah in Benjamin to spend the night."
+hebrew: "וַיַּ֜עַן הָאִ֣ישׁ הַלֵּוִ֗י אִ֛ישׁ הָאִשָּׁ֥ה הַנִּרְצָחָ֖ה וַיֹּאמַ֑ר הַגִּבְעָ֙תָה֙ אֲשֶׁ֣ר לְבִנְיָמִ֔ן בָּ֛אתִי אֲנִ֥י וּפִֽילַגְשִׁ֖י לָלֽוּן׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H3881]]"
+- "[[H0376H]]"
+- "[[H0802G]]"
+- "[[H7523]]"
+- "[[H0559]]"
+- "[[H1390H]]"
+- "[[H9011]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H1144G]]"
+- "[[H0935G]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H6370]]"
+- "[[H9020]]"
+- "[[H3885A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:4**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levite, the husband of the woman that was slain, answered and said, I came into Gibeah that [belongeth] to Benjamin, I and my concubine, to lodge.
 <small><sub>**BSB:**</sub></small>
 So the Levite, the husband of the murdered woman, answered: “I and my concubine came to Gibeah in Benjamin to spend the night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֜עַן]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הַ]][[H3881\|לֵּוִ֗י]] [[H0376H\|אִ֛ישׁ]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֥ה]] [[H9009\|הַ]][[H7523\|נִּרְצָחָ֖ה]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H9009\|הַ]][[H1390H\|גִּבְעָ֙תָ]][[H9011\|ה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H1144G\|בִנְיָמִ֔ן]] [[H0935G\|בָּ֛אתִי]] [[H0589\|אֲנִ֥י]] [[H9002\|וּ]][[H6370\|פִֽילַגְשִׁ֖]][[H9020\|י]] [[H9005\|לָ]][[H3885A\|לֽוּן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.3|<< Judges 20:3]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.5|Judges 20:5 >>]]</td></tr></table>
 

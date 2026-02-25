@@ -1,10 +1,67 @@
+---
+title: Acts 6:14
+type: Verse
+kjv: "For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us."
+bsb: "For we have heard him say that Jesus of Nazareth will destroy this place and change the customs that Moses handed down to us.”"
+greek: "ἀκηκόαμεν γὰρ αὐτοῦ λέγοντος ὅτι Ἰησοῦς ὁ Ναζωραῖος οὗτος καταλύσει τὸν τόπον τοῦτον καὶ ἀλλάξει τὰ ἔθη ἃ παρέδωκεν ἡμῖν Μωϋσῆς."
+pericope: "[[Acts.6.8 The Arrest of Stephen|The Arrest of Stephen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 6
+book/chapter: "[[Acts.6|Acts 6]]"
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic STEPHEN|STEPHEN]]"
+strongs:
+- "[[G0191]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2424G]]"
+- "[[G3588]]"
+- "[[G3480]]"
+- "[[G3778]]"
+- "[[G2647]]"
+- "[[G5117]]"
+- "[[G2532]]"
+- "[[G0236]]"
+- "[[G1485]]"
+- "[[G3739]]"
+- "[[G3860]]"
+- "[[G3165]]"
+- "[[G3475]]"
+texts:
+- NKO
+---
+
 **Acts 6:14**<big><big>[[Acts.6.8 The Arrest of Stephen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us.
 <small><sub>**BSB:**</sub></small>
 For we have heard him say that Jesus of Nazareth will destroy this place and change the customs that Moses handed down to us.”
-<small><sub>**Literal:**</sub></small>
-we have heard for him saying that Jesus <the> of Nazareth this will destroy <the> place this and will change the customs that delivered to us Moses.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.13|<< Acts 6:13]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.15|Acts 6:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἀκηκόαμεν]]  [[G1063\|γὰρ]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγοντος]]  [[G3754G\|ὅτι]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G3480\|Ναζωραῖος]]  [[G3778\|οὗτος]]  [[G2647\|καταλύσει]]  [[G3588\|τὸν]]  [[G5117\|τόπον]]  [[G3778\|τοῦτον]]  [[G2532\|καὶ]]  [[G0236\|ἀλλάξει]]  [[G3588\|τὰ]]  [[G1485\|ἔθη]]  [[G3739\|ἃ]]  [[G3860\|παρέδωκεν]]  [[G3165\|ἡμῖν]]  [[G3475\|Μωϋσῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic GREECE|GREECE]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LAW|LAW]] • [[topic PERJURY|PERJURY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic STEPHEN|STEPHEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.13|<< Acts 6:13]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.15|Acts 6:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

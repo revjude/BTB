@@ -1,6 +1,55 @@
+---
+title: LXX Psalm 84:4
+type: Verse
+lxx: "Blessed are the ones dwelling in  your house; into the eons of the eons they shall praise you. PAUSE."
+greek: "μακάριοι οι κατοικούντες εν τω οίκω σου εις τους αιώνας των αιώνων αινέσουσί σε διάψαλμα"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 84
+book/chapter: "[[Ps.84|Psalm 84]]"
+chronological_order: 514
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G3107]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165]]"
+- "[[G3588]]"
+- "[[G0165]]"
+- "[[G0134]]"
+- "[[G1473]]"
+- "[[G6908]]"
+---
+
 **LXX Psalm 84:4** 
 <small><sub>**LXX:**</sub></small>
 Blessed \[are\] the ones dwelling in  your house; into the eons of the eons they shall praise you. PAUSE. 
+<small><sub>**Greek:**</sub></small>
+[[G3107\|μακάριοι]] [[G3588\|οι]] [[G2730\|κατοικούντες]] [[G1722\|εν]] [[G3588\|τω]] [[G3624\|οίκω]] [[G1473\|σου]] [[G1519\|εις]] [[G3588\|τους]] [[G0165\|αιώνας]] [[G3588\|των]] [[G0165\|αιώνων]] [[G0134\|αινέσουσί]] [[G1473\|σε]] [[G6908\|διάψαλμα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PRAISE|PRAISE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.84.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.3|<< Psalm 84:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.5|Psalm 84:5 >>]]</td></tr></table>
 
@@ -20,6 +69,6 @@ Blessed \[are\] the ones dwelling in  your house; into the eons of the eons they
 | they shall praise | **<big>[[G0134\|αινέσουσί]]</big>** |
 | you. | **<big>[[G1473\|σε]]</big>** |
 | PAUSE. | **<big>[[G6908\|διάψαλμα]]</big>** |
-[[Ps.84.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.3|<< Psalm 84:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.5|Psalm 84:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.84.3|<< Psalm 84:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.84.5|Psalm 84:5 >>]]</td></tr></table>
 
 

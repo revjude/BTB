@@ -1,8 +1,78 @@
+---
+title: Jeremiah 35:7
+type: Verse
+kjv: "Neither shall ye build house, nor sow seed, nor plant vineyard, nor have any: but all your days ye shall dwell in tents; that ye may live many days in the land where ye be strangers."
+bsb: "Nor are you ever to build a house or sow seed or plant a vineyard. Those things are not for you. Instead, you must live in tents all your lives, so that you may live a long time in the land where you wander.’"
+hebrew: "וּבַ֣יִת לֹֽא־ תִבְנ֗וּ וְזֶ֤רַע לֹֽא־ תִזְרָ֙עוּ֙ וְכֶ֣רֶם לֹֽא־ תִטָּ֔עוּ וְלֹ֥א יִֽהְיֶ֖ה לָכֶ֑ם כִּ֠י בָּאֳהָלִ֤ים תֵּֽשְׁבוּ֙ כָּל־ יְמֵיכֶ֔ם לְמַ֨עַן תִּֽחְי֜וּ יָמִ֤ים רַבִּים֙ עַל־ פְּנֵ֣י הָאֲדָמָ֔ה אֲשֶׁ֥ר אַתֶּ֖ם גָּרִ֥ים שָֽׁם׃"
+pericope: "[[Jer.35.1 The Obedience of the Rechabites|The Obedience of the Rechabites]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic HANAN|HANAN]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1129]]"
+- "[[H2233G]]"
+- "[[H2232]]"
+- "[[H3754]]"
+- "[[H5193]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H3427]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9026]]"
+- "[[H4616]]"
+- "[[H2421]]"
+- "[[H7227A]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H1481A]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:7**<big><big>[[Jer.35.1 The Obedience of the Rechabites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall ye build house, nor sow seed, nor plant vineyard, nor have [any]: but all your days ye shall dwell in tents; that ye may live many days in the land where ye [be] strangers.
 <small><sub>**BSB:**</sub></small>
 Nor are you ever to build a house or sow seed or plant a vineyard. Those things are not for you. Instead, you must live in tents all your lives, so that you may live a long time in the land where you wander.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1004M\|בַ֣יִת]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1129\|תִבְנ֗וּ]] [[H9002\|וְ]][[H2233G\|זֶ֤רַע]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2232\|תִזְרָ֙עוּ֙]] [[H9002\|וְ]][[H3754\|כֶ֣רֶם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5193\|תִטָּ֔עוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1961\|יִֽהְיֶ֖ה]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H3588A\|כִּ֠י]] [[H9003\|בָּ]][[H0168G\|אֳהָלִ֤ים]] [[H3427\|תֵּֽשְׁבוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵי]][[H9026\|כֶ֔ם]] [[H4616\|לְמַ֨עַן]] [[H2421\|תִּֽחְי֜וּ]] [[H3117G\|יָמִ֤ים]] [[H7227A\|רַבִּים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֖ם]] [[H1481A\|גָּרִ֥ים]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic HANAN|HANAN]] • [[topic JONADAB|JONADAB]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.6|<< Jeremiah 35:6]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.8|Jeremiah 35:8 >>]]</td></tr></table>
 

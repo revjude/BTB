@@ -1,8 +1,66 @@
+---
+title: Leviticus 15:5
+type: Verse
+kjv: "And whosoever toucheth his bed shall wash his clothes, and bathe himself in water, and be unclean until the even."
+bsb: "Anyone who touches his bed must wash his clothes and bathe with water, and he will be unclean until evening."
+hebrew: "וְאִ֕ישׁ אֲשֶׁ֥ר יִגַּ֖ע בְּמִשְׁכָּב֑וֹ יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־ הָעָֽרֶב׃"
+pericope: "[[Lev.15.1 The Uncleanness of Men|The Uncleanness of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H0834A]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H4904]]"
+- "[[H9023]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H4325G]]"
+- "[[H2930A]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:5**<big><big>[[Lev.15.1 The Uncleanness of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whosoever toucheth his bed shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
 <small><sub>**BSB:**</sub></small>
 Anyone who touches his bed must wash his clothes and bathe with water, and he will be unclean until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֕ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5060\|יִגַּ֖ע]] [[H9003\|בְּ]][[H4904\|מִשְׁכָּב֑]][[H9023\|וֹ]] [[H3526H\|יְכַבֵּ֧ס]] [[H0899B\|בְּגָדָ֛י]][[H9023\|ו]] [[H9001\|וְ]][[H7364\|רָחַ֥ץ]] [[H9003\|בַּ]][[H4325G\|מַּ֖יִם]] [[H9001\|וְ]][[H2930A\|טָמֵ֥א]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.4|<< Leviticus 15:4]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.6|Leviticus 15:6 >>]]</td></tr></table>
 

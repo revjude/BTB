@@ -1,8 +1,57 @@
+---
+title: Exodus 26:20
+type: Verse
+kjv: "And for the second side of the tabernacle on the north side there shall be twenty boards:"
+bsb: "For the second side of the tabernacle, the north side, make twenty frames"
+hebrew: "וּלְצֶ֧לַע הַמִּשְׁכָּ֛ן הַשֵּׁנִ֖ית לִפְאַ֣ת צָפ֑וֹן עֶשְׂרִ֖ים קָֽרֶשׁ׃"
+pericope: "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6763]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H8145]]"
+- "[[H6285]]"
+- "[[H6828G]]"
+- "[[H6242]]"
+- "[[H7175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:20**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the second side of the tabernacle on the north side [there shall be] twenty boards:
 <small><sub>**BSB:**</sub></small>
 For the second side of the tabernacle, the north side, make twenty frames
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H6763\|צֶ֧לַע]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֛ן]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖ית]] [[H9005\|לִ]][[H6285\|פְאַ֣ת]] [[H6828G\|צָפ֑וֹן]] [[H6242\|עֶשְׂרִ֖ים]] [[H7175\|קָֽרֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.19|<< Exodus 26:19]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.21|Exodus 26:21 >>]]</td></tr></table>
 

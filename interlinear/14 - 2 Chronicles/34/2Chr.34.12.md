@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 34:12
+type: Verse
+kjv: "And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick."
+bsb: "And the men did the work faithfully. The Levites overseeing them were Jahath and Obadiah, descendants of Merari, and Zechariah and Meshullam, descendants of Kohath. Other Levites, all skilled with musical instruments,"
+hebrew: "וְהָאֲנָשִׁים֩ עֹשִׂ֨ים בֶּאֱמוּנָ֜ה בַּמְּלָאכָ֗ה וַעֲלֵיהֶ֣ם׀ מֻ֠פְקָדִים יַ֣חַת וְעֹבַדְיָ֤הוּ הַלְוִיִּם֙ מִן־ בְּנֵ֣י מְרָרִ֔י וּזְכַרְיָ֧ה וּמְשֻׁלָּ֛ם מִן־ בְּנֵ֥י הַקְּהָתִ֖ים לְנַצֵּ֑חַ וְהַ֨לְוִיִּ֔ם כָּל־ מֵבִ֖ין בִּכְלֵי־ שִֽׁיר׃"
+pericope: "[[2Chr.34.8 Josiah Repairs the Temple|Josiah Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JAHATH|JAHATH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MESHULLAM|MESHULLAM]]"
+- "[[topic OBADIAH|OBADIAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H0530]]"
+- "[[H4399]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H6485J]]"
+- "[[H3189K]]"
+- "[[H5662O]]"
+- "[[H3881]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H4847]]"
+- "[[H2148N]]"
+- "[[H4918N]]"
+- "[[H6956]]"
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H3605]]"
+- "[[H0995]]"
+- "[[H3627]]"
+- "[[H7892A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:12**<big><big>[[2Chr.34.8 Josiah Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men did the work faithfully: and the overseers of them [were] Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set [it] forward; and [other of] the Levites, all that could skill of instruments of musick.
 <small><sub>**BSB:**</sub></small>
 And the men did the work faithfully. The Levites overseeing them were Jahath and Obadiah, descendants of Merari, and Zechariah and Meshullam, descendants of Kohath. Other Levites, all skilled with musical instruments,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0582\|אֲנָשִׁים֩]] [[H6213A\|עֹשִׂ֨ים]] [[H9003\|בֶּ]][[H0530\|אֱמוּנָ֜ה]] [[H9003\|בַּ]][[H4399\|מְּלָאכָ֗ה]] [[H9002\|וַ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֣ם]][[H9015\|׀]] [[H6485J\|מֻ֠פְקָדִים]] [[H3189K\|יַ֣חַת]] [[H9002\|וְ]][[H5662O\|עֹבַדְיָ֤הוּ]] [[H9009\|הַ]][[H3881\|לְוִיִּם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H4847\|מְרָרִ֔י]] [[H9002\|וּ]][[H2148N\|זְכַרְיָ֧ה]] [[H9002\|וּ]][[H4918N\|מְשֻׁלָּ֛ם]] [[H4480A\|מִן]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H9009\|הַ]][[H6956\|קְּהָתִ֖ים]] [[H9005\|לְ]][[H5329\|נַצֵּ֑חַ]] [[H9002\|וְ]][[H9009\|הַ֨]][[H3881\|לְוִיִּ֔ם]] [[H3605\|כָּל]][[H9014\|־]] [[H0995\|מֵבִ֖ין]] [[H9003\|בִּ]][[H3627\|כְלֵי]][[H9014\|־]] [[H7892A\|שִֽׁיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAHATH|JAHATH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MESHULLAM|MESHULLAM]] • [[topic OBADIAH|OBADIAH]] • [[topic SHAPHAN|SHAPHAN]] • [[topic TEMPLE|TEMPLE]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.11|<< 2 Chronicles 34:11]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.13|2 Chronicles 34:13 >>]]</td></tr></table>
 

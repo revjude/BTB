@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 34:6
+type: Verse
+kjv: "And he buried him in a valley in the land of Moab, over against Bethpeor: but no man knoweth of his sepulchre unto this day."
+bsb: "And He buried him in a valley in the land of Moab facing Beth-peor, and no one to this day knows the location of his grave."
+hebrew: "וַיִּקְבֹּ֨ר אֹת֤וֹ בַגַּיְ֙ בְּאֶ֣רֶץ מוֹאָ֔ב מ֖וּל בֵּ֣ית פְּע֑וֹר וְלֹֽא־ יָדַ֥ע אִישׁ֙ אֶת־ קְבֻ֣רָת֔וֹ עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 34
+book/chapter: "[[Deut.34|Deuteronomy 34]]"
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BETH-PEOR|BETH-PEOR]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1516R]]"
+- "[[H0776G]]"
+- "[[H4124G]]"
+- "[[H4136]]"
+- "[[H1047]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H0376I]]"
+- "[[H6900]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 34:6**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he buried him in a valley in the land of Moab, over against Bethpeor: but no man knoweth of his sepulchre unto this day.
 <small><sub>**BSB:**</sub></small>
 And He buried him in a valley in the land of Moab facing Beth-peor, and no one to this day knows the location of his grave.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6912\|יִּקְבֹּ֨ר]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H9003\|בַ]][[H1516R\|גַּיְ֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4124G\|מוֹאָ֔ב]] [[H4136\|מ֖וּל]] [[H1047\|בֵּ֣ית]] [[H1047\|פְּע֑וֹר]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדַ֥ע]] [[H0376I\|אִישׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6900\|קְבֻ֣רָת֔]][[H9023\|וֹ]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-PEOR|BETH-PEOR]] • [[topic DEATH|DEATH]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.5|<< Deuteronomy 34:5]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.7|Deuteronomy 34:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

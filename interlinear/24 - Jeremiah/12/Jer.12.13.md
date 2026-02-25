@@ -1,8 +1,63 @@
+---
+title: Jeremiah 12:13
+type: Verse
+kjv: "They have sown wheat, but shall reap thorns: they have put themselves to pain, but shall not profit: and they shall be ashamed of your revenues because of the fierce anger of the LORD."
+bsb: "They have sown wheat but harvested thorns. They have exhausted themselves to no avail. Bear the shame of your harvest because of the fierce anger of the LORD.”"
+hebrew: "זָרְע֤וּ חִטִּים֙ וְקֹצִ֣ים קָצָ֔רוּ נֶחְל֖וּ לֹ֣א יוֹעִ֑לוּ וּבֹ֙שׁוּ֙ מִתְּבוּאֹ֣תֵיכֶ֔ם מֵחֲר֖וֹן אַף־ יְהוָֽה׃ ס"
+pericope: "[[Jer.12.5 God’s Answer to Jeremiah|God’s Answer to Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 12
+book/chapter: "[[Jer.12|Jeremiah 12]]"
+chronological_order: 729
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WHEAT|WHEAT]]"
+strongs:
+- "[[H2232]]"
+- "[[H2406]]"
+- "[[H9002]]"
+- "[[H6975]]"
+- "[[H7114B]]"
+- "[[H2470A]]"
+- "[[H3808]]"
+- "[[H3276]]"
+- "[[H0954]]"
+- "[[H9006]]"
+- "[[H8393]]"
+- "[[H9026]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 12:13**<big><big>[[Jer.12.5 God’s Answer to Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have sown wheat, but shall reap thorns: they have put themselves to pain, [but] shall not profit: and they shall be ashamed of your revenues because of the fierce anger of the LORD.
 <small><sub>**BSB:**</sub></small>
 They have sown wheat but harvested thorns. They have exhausted themselves to no avail. Bear the shame of your harvest because of the fierce anger of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2232\|זָרְע֤וּ]] [[H2406\|חִטִּים֙]] [[H9002\|וְ]][[H6975\|קֹצִ֣ים]] [[H7114B\|קָצָ֔רוּ]] [[H2470A\|נֶחְל֖וּ]] [[H3808\|לֹ֣א]] [[H3276\|יוֹעִ֑לוּ]] [[H9002\|וּ]][[H0954\|בֹ֙שׁוּ֙]] [[H9006\|מִ]][[H8393\|תְּבוּאֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9006\|מֵ]][[H2740\|חֲר֖וֹן]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic JEREMIAH|JEREMIAH]] • [[topic VANITY|VANITY]] • [[topic WHEAT|WHEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.12|<< Jeremiah 12:12]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.14|Jeremiah 12:14 >>]]</td></tr></table>
 
@@ -19,7 +74,7 @@ They have sown wheat but harvested thorns. They have exhausted themselves to no 
 | from produce\<s> your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H8393\|תְּבוּאֹ֣תֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> te.vu.'O.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] burning of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2740\|חֲר֖וֹן]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.Ron<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] anger of  |**<big>&#8207;[[H0639G\|אַף]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'af-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.12.12|<< Jeremiah 12:12]]</td><td align="center" style="border:none;">[[Jer.12|Jeremiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.12.14|Jeremiah 12:14 >>]]</td></tr></table>
 
 

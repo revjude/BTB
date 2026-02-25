@@ -1,10 +1,54 @@
+---
+title: 1 Peter 1:16
+type: Verse
+kjv: "Because it is written, Be ye holy; for I am holy."
+bsb: "for it is written: “Be holy, because I am holy.”"
+greek: "διότι γέγραπται· ὅτι ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος εἰμι."
+pericope: "[[1Pet.1.13 A Call to Holiness|A Call to Holiness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G1360]]"
+- "[[G1125]]"
+- "[[G3754G]]"
+- "[[G0040G]]"
+- "[[G1510]]"
+- "[[G3754H]]"
+- "[[G1473]]"
+texts:
+- NKO
+- no
+- N(k)(o)
+- NK
+---
+
 **1 Peter 1:16**<big><big>[[1Pet.1.13 A Call to Holiness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Because it is written, Be ye holy; for I am holy.
 <small><sub>**BSB:**</sub></small>
 for it is written: “Be holy, because I am holy.”
-<small><sub>**Literal:**</sub></small>
-because it has been written: that Holy you will be, because I myself holy am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.15|<< 1 Peter 1:15]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.17|1 Peter 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1360\|διότι]]  [[G1125\|γέγραπται·]]  [[G3754G\|ὅτι]]  [[G0040G\|ἅγιοι]]  [[G1510\|ἔσεσθε,]]  [[G3754H\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G0040G\|ἅγιος]]  [[G1510\|εἰμι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.15|<< 1 Peter 1:15]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.17|1 Peter 1:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 1:16** is...
 > $\quad$ referencing: [[LXX.Lev.11.44|Lev 11:44]] ☩ [[LXX.Lev.19.2|Lev 19:2]] ☩ [[LXX.Lev.20.7|Lev 20:7]]

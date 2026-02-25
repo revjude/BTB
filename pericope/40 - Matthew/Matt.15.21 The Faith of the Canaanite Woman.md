@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Faith of the Canaanite Woman
+type: Pericope
 pericope: "[[Matt.15.21 The Faith of the Canaanite Woman|The Faith of the Canaanite Woman]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 15
 book/chapter: "[[Matt.15|Matthew 15]]"
-genre:
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.15.21]]"
 - "[[Matt.15.22]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.15.28]]"
 ---
 
-[[Matt.15|Matthew 15:21 - Matthew 15:28]]
+<small>[[Matt.15|Matthew 15:21-28]]</small>
 *The Faith of the Canaanite Woman*
 
 [[Matt.15.21|21]] Then Jesus went thence, and departed into the coasts of Tyre and Sidon.

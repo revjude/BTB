@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Isaiah’s Message of Deliverance
+type: Pericope
 pericope: "[[Isa.37.1 Isaiah’s Message of Deliverance|Isaiah’s Message of Deliverance]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 37
 book/chapter: "[[Isa.37|Isaiah 37]]"
-genre:
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Isa.37.1]]"
 - "[[Isa.37.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Isa.37.7]]"
 ---
 
-[[Isa.37|Isaiah 37:1 - Isaiah 37:7]]
+<small>[[Isa.37|Isaiah 37:1-7]]</small>
 *Isaiah’s Message of Deliverance*
 
 [[Isa.37.1|1]] And it came to pass, when king Hezekiah heard \[it\], that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.

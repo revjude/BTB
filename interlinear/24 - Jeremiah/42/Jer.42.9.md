@@ -1,8 +1,63 @@
+---
+title: Jeremiah 42:9
+type: Verse
+kjv: "And said unto them, Thus saith the LORD, the God of Israel, unto whom ye sent me to present your supplication before him;"
+bsb: "Jeremiah told them, “Thus says the LORD, the God of Israel, to whom you sent me to present your petition:"
+hebrew: "וַיֹּ֣אמֶר אֲלֵיהֶ֔ם כֹּֽה־ אָמַ֥ר יְהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל אֲשֶׁ֨ר שְׁלַחְתֶּ֤ם אֹתִי֙ אֵלָ֔יו לְהַפִּ֥יל תְּחִנַּתְכֶ֖ם לְפָנָֽיו׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5307N]]"
+- "[[H8467]]"
+- "[[H9026]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:9**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto them, Thus saith the LORD, the God of Israel, unto whom ye sent me to present your supplication before him;
 <small><sub>**BSB:**</sub></small>
 Jeremiah told them, “Thus says the LORD, the God of Israel, to whom you sent me to present your petition:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H7971G\|שְׁלַחְתֶּ֤ם]] [[H0853\|אֹתִ]][[H9030\|י֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9005\|לְ]][[H5307N\|הַפִּ֥יל]] [[H8467\|תְּחִנַּתְ]][[H9026\|כֶ֖ם]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.8|<< Jeremiah 42:8]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.10|Jeremiah 42:10 >>]]</td></tr></table>
 

@@ -1,10 +1,69 @@
+---
+title: Revelation 2:24
+type: Verse
+kjv: "But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden."
+bsb: "But I say to the rest of you in Thyatira, who do not hold to her teaching and have not learned the so-called deep things of Satan: I will place no further burden upon you"
+jesus_said: "But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden."
+greek: "ὑμῖν δὲ λέγω τοῖς λοιποῖς τοῖς ἐν Θυατείροις, ὅσοι οὐκ ἔχουσιν τὴν διδαχὴν ταύτην, καὶ οἵτινες οὐκ ἔγνωσαν τὰ βαθέα τοῦ σατανᾶ ὡς λέγουσιν· οὐ βάλλω ἐφ᾽ ὑμᾶς ἄλλο βάρος,"
+pericope: "[[Rev.2.18 To the Church in Thyatira|To the Church in Thyatira]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic THYATIRA|THYATIRA]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G1722]]"
+- "[[G2363]]"
+- "[[G3745]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G1322]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3748]]"
+- "[[G1097]]"
+- "[[G0901]]"
+- "[[G4567]]"
+- "[[G5613]]"
+- "[[G0906H]]"
+- "[[G1909]]"
+- "[[G0243]]"
+- "[[G0922]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Revelation 2:24**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But unto you I say, and unto the rest in Thyatira, as many as have not this doctrine, and which have not known the depths of Satan, as they speak; I will put upon you none other burden.
 <small><sub>**BSB:**</sub></small>
 But I say to the rest of you in Thyatira, who do not hold to her teaching and have not learned the so-called deep things of Satan: I will place no further burden upon you
-<small><sub>**Literal:**</sub></small>
-To you however I say to the rest of those in Thyatira, as many as not have <the> teaching this, and who not have known the deeps <the> of Satan as they say: Not I do cast upon you any other burden,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.23|<< Revelation 2:23]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.25|Revelation 2:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμῖν]]  [[G1161\|δὲ]]  [[G3004G\|λέγω]]  [[G3588\|τοῖς]]  [[G3062\|λοιποῖς]]  [[G3588\|τοῖς]]  [[G1722\|ἐν]]  [[G2363\|Θυατείροις,]]  [[G3745\|ὅσοι]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν]]  [[G3588\|τὴν]]  [[G1322\|διδαχὴν]]  [[G3778\|ταύτην,]]  [[G2532\|καὶ]]  [[G3748\|οἵτινες]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνωσαν]]  [[G3588\|τὰ]]  [[G0901\|βαθέα]]  [[G3588\|τοῦ]]  [[G4567\|σατανᾶ]]  [[G5613\|ὡς]]  [[G3004G\|λέγουσιν·]]  [[G3756\|οὐ]]  [[G0906H\|βάλλω]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμᾶς]]  [[G0243\|ἄλλο]]  [[G0922\|βάρος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic SATAN|SATAN]] • [[topic THYATIRA|THYATIRA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.23|<< Revelation 2:23]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.25|Revelation 2:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

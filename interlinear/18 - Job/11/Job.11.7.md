@@ -1,8 +1,52 @@
+---
+title: Job 11:7
+type: Verse
+kjv: "Canst thou by searching find out God? canst thou find out the Almighty unto perfection?"
+bsb: "Can you fathom the deep things of God or discover the limits of the Almighty?"
+hebrew: "הַחֵ֣קֶר אֱל֣וֹהַ תִּמְצָ֑א אִ֤ם עַד־ תַּכְלִ֖ית שַׁדַּ֣י תִּמְצָֽא׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H9008]]"
+- "[[H2714]]"
+- "[[H0433]]"
+- "[[H4672]]"
+- "[[H0518H]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H8503]]"
+- "[[H7706]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:7**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou by searching find out God? canst thou find out the Almighty unto perfection?
 <small><sub>**BSB:**</sub></small>
 Can you fathom the deep things of God or discover the limits of the Almighty?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H2714\|חֵ֣קֶר]] [[H0433\|אֱל֣וֹהַ]] [[H4672\|תִּמְצָ֑א]] [[H0518H\|אִ֤ם]] [[H5704\|עַד]][[H9014\|־]] [[H8503\|תַּכְלִ֖ית]] [[H7706\|שַׁדַּ֣י]] [[H4672\|תִּמְצָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.6|<< Job 11:6]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.8|Job 11:8 >>]]</td></tr></table>
 

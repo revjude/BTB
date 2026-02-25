@@ -1,10 +1,56 @@
+---
+title: 2 Corinthians 11:10
+type: Verse
+kjv: "As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia."
+bsb: "As surely as the truth of Christ is in me, this boasting of mine will not be silenced in the regions of Achaia."
+greek: "ἔστιν ἀλήθεια Χριστοῦ ἐν ἐμοὶ ὅτι ἡ καύχησις αὕτη οὐ φραγήσεται εἰς ἐμὲ ἐν τοῖς κλίμασιν τῆς Ἀχαΐας."
+pericope: "[[2Cor.11.1 Paul and the False Apostles|Paul and the False Apostles]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ACHAIA|ACHAIA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1510]]"
+- "[[G0225]]"
+- "[[G5547]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G2746]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G5420]]"
+- "[[G1519]]"
+- "[[G2824]]"
+- "[[G0882]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 11:10**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As the truth of Christ is in me, no man shall stop me of this boasting in the regions of Achaia.
 <small><sub>**BSB:**</sub></small>
 As surely as the truth of Christ is in me, this boasting of mine will not be silenced in the regions of Achaia.
-<small><sub>**Literal:**</sub></small>
-Is [the] truth of Christ in me myself that <the> boasting this not will be stopped of mine in the regions <the> of Achaia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.9|<< 2 Corinthians 11:9]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.11|2 Corinthians 11:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἔστιν]]  [[G0225\|ἀλήθεια]]  [[G5547\|Χριστοῦ]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G3754G\|ὅτι]]  [[G3588\|ἡ]]  [[G2746\|καύχησις]]  [[G3778\|αὕτη]]  [[G3756\|οὐ]]  [[G5420\|φραγήσεται]]  [[G1519\|εἰς]]  [[G1473\|ἐμὲ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2824\|κλίμασιν]]  [[G3588\|τῆς]]  [[G0882\|Ἀχαΐας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHAIA|ACHAIA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.9|<< 2 Corinthians 11:9]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.11|2 Corinthians 11:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,72 @@
+---
+title: Genesis 38:24
+type: Verse
+kjv: "And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she is with child by whoredom. And Judah said, Bring her forth, and let her be burnt."
+bsb: "About three months later, Judah was told, “Your daughter-in-law Tamar has prostituted herself, and now she is pregnant.” “Bring her out!” Judah replied. “Let her be burned to death!”"
+hebrew: "וַיְהִ֣י׀ כְּמִשְׁלֹ֣שׁ חֳדָשִׁ֗ים וַיֻּגַּ֨ד לִֽיהוּדָ֤ה לֵֽאמֹר֙ זָֽנְתָה֙ תָּמָ֣ר כַּלָּתֶ֔ךָ וְגַ֛ם הִנֵּ֥ה הָרָ֖ה לִזְנוּנִ֑ים וַיֹּ֣אמֶר יְהוּדָ֔ה הוֹצִיא֖וּהָ וְתִשָּׂרֵֽף׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H9006]]"
+- "[[H7969]]"
+- "[[H2320G]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H0559]]"
+- "[[H2181]]"
+- "[[H8559G]]"
+- "[[H3618H]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H2009]]"
+- "[[H2030A]]"
+- "[[H2183]]"
+- "[[H3318H]]"
+- "[[H9034]]"
+- "[[H8313]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:24**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she [is] with child by whoredom. And Judah said, Bring her forth, and let her be burnt.
 <small><sub>**BSB:**</sub></small>
 About three months later, Judah was told, “Your daughter-in-law Tamar has prostituted herself, and now she is pregnant.” “Bring her out!” Judah replied. “Let her be burned to death!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9004\|כְּ]][[H9006\|מִ]][[H7969\|שְׁלֹ֣שׁ]] [[H2320G\|חֳדָשִׁ֗ים]] [[H9001\|וַ]][[H5046\|יֻּגַּ֨ד]] [[H9005\|לִֽ]][[H3063G\|יהוּדָ֤ה]] [[H9005\|לֵֽ]][[H0559\|אמֹר֙]] [[H2181\|זָֽנְתָה֙]] [[H8559G\|תָּמָ֣ר]] [[H3618H\|כַּלָּתֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H1571\|גַ֛ם]] [[H2009\|הִנֵּ֥ה]] [[H2030A\|הָרָ֖ה]] [[H9005\|לִ]][[H2183\|זְנוּנִ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3063G\|יְהוּדָ֔ה]] [[H3318H\|הוֹצִיא֖וּ]][[H9034\|הָ]] [[H9002\|וְ]][[H8313\|תִשָּׂרֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic JUDAH|JUDAH]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RULERS|RULERS]] • [[topic TAMAR|TAMAR]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.23|<< Genesis 38:23]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.25|Genesis 38:25 >>]]</td></tr></table>
 

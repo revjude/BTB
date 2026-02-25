@@ -1,10 +1,54 @@
+---
+title: John 18:24
+type: Verse
+kjv: "Now Annas had sent him bound unto Caiaphas the high priest."
+bsb: "Then Annas sent Him, still bound, to Caiaphas the high priest."
+greek: "Ἀπέστειλεν οὖν αὐτὸν ὁ Ἅννας δεδεμένον πρὸς Καϊάφαν τὸν ἀρχιερέα."
+pericope: "[[John.18.19 Jesus before the High Priest|Jesus before the High Priest]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANNAS|ANNAS]]"
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G0649]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0452]]"
+- "[[G1210]]"
+- "[[G4314]]"
+- "[[G2533G]]"
+- "[[G0749]]"
+texts:
+- NKO
+---
+
 **John 18:24**<big><big>[[John.18.19 Jesus before the High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now Annas had sent him bound unto Caiaphas the high priest.
 <small><sub>**BSB:**</sub></small>
 Then Annas sent Him, still bound, to Caiaphas the high priest.
-<small><sub>**Literal:**</sub></small>
-Sent then Him <the> Annas bound to Caiaphas the high priest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.23|<< John 18:23]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.25|John 18:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0649\|Ἀπέστειλεν]]  [[G3767\|οὖν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G0452\|Ἅννας]]  [[G1210\|δεδεμένον]]  [[G4314\|πρὸς]]  [[G2533G\|Καϊάφαν]]  [[G3588\|τὸν]]  [[G0749\|ἀρχιερέα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANNAS|ANNAS]] • [[topic CAIAPHAS|CAIAPHAS]] • [[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.23|<< John 18:23]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.25|John 18:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

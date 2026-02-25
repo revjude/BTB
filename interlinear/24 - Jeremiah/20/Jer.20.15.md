@@ -1,8 +1,63 @@
+---
+title: Jeremiah 20:15
+type: Verse
+kjv: "Cursed be the man who brought tidings to my father, saying, A man child is born unto thee; making him very glad."
+bsb: "Cursed be the man who brought my father the news, saying, “A son is born to you,” bringing him great joy."
+hebrew: "אָר֣וּר הָאִ֗ישׁ אֲשֶׁ֨ר בִּשַּׂ֤ר אֶת־ אָבִי֙ לֵאמֹ֔ר יֻֽלַּד־ לְךָ֖ בֵּ֣ן זָכָ֑ר שַׂמֵּ֖חַ שִׂמֳּחָֽהוּ׃"
+pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[H0779]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H1319]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3205]]"
+- "[[H9031]]"
+- "[[H1121A]]"
+- "[[H2145]]"
+- "[[H8055]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:15**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] the man who brought tidings to my father, saying, A man child is born unto thee; making him very glad.
 <small><sub>**BSB:**</sub></small>
 Cursed be the man who brought my father the news, saying, “A son is born to you,” bringing him great joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H0779\|אָר֣וּר]] [[H9009\|הָ]][[H0376G\|אִ֗ישׁ]] [[H0834A\|אֲשֶׁ֨ר]] [[H1319\|בִּשַּׂ֤ר]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ]][[H9020\|י֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3205\|יֻֽלַּד]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H1121A\|בֵּ֣ן]] [[H2145\|זָכָ֑ר]] [[H8055\|שַׂמֵּ֖חַ]] [[H8055\|שִׂמֳּחָֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JEREMIAH|JEREMIAH]] • [[topic LIFE|LIFE]] • [[topic MURMURING|MURMURING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.14|<< Jeremiah 20:14]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.16|Jeremiah 20:16 >>]]</td></tr></table>
 

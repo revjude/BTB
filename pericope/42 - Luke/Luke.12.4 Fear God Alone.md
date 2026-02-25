@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Fear God Alone
+type: Pericope
 pericope: "[[Luke.12.4 Fear God Alone|Fear God Alone]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 12
 book/chapter: "[[Luke.12|Luke 12]]"
-genre:
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.12.4]]"
 - "[[Luke.12.5]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.12.7]]"
 ---
 
-[[Luke.12|Luke 12:4 - Luke 12:7]]
+<small>[[Luke.12|Luke 12:4-7]]</small>
 *Fear God Alone*
 
 [[Luke.12.4|4]] And I say unto you my friends, Be not afraid of them that kill the body, and after that have no more that they can do.

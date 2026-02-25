@@ -1,8 +1,53 @@
+---
+title: Job 39:20
+type: Verse
+kjv: "Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible."
+bsb: "Do you make him leap like a locust, striking terror with his proud snorting?"
+hebrew: "הְֽ֭תַרְעִישֶׁנּוּ כָּאַרְבֶּ֑ה ה֖וֹד נַחְר֣וֹ אֵימָֽה׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic LOCUST|LOCUST]]"
+strongs:
+- "[[H9008]]"
+- "[[H7493]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H0697]]"
+- "[[H1935]]"
+- "[[H5170A]]"
+- "[[H9023]]"
+- "[[H0367]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:20**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Canst thou make him afraid as a grasshopper? the glory of his nostrils [is] terrible.
 <small><sub>**BSB:**</sub></small>
 Do you make him leap like a locust, striking terror with his proud snorting?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הְֽ֭]][[H7493\|תַרְעִישֶׁ]][[H9033\|נּוּ]] [[H9004\|כָּ]][[H0697\|אַרְבֶּ֑ה]] [[H1935\|ה֖וֹד]] [[H5170A\|נַחְר֣]][[H9023\|וֹ]] [[H0367\|אֵימָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HORSE|HORSE]] • [[topic LOCUST|LOCUST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.19|<< Job 39:19]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.21|Job 39:21 >>]]</td></tr></table>
 

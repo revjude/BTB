@@ -1,8 +1,61 @@
+---
+title: Ezekiel 45:20
+type: Verse
+kjv: "And so thou shalt do the seventh day of the month for every one that erreth, and for him that is simple: so shall ye reconcile the house."
+bsb: "You must do the same thing on the seventh day of the month for anyone who strays unintentionally or in ignorance. In this way you will make atonement for the temple."
+hebrew: "וְכֵ֤ן תַּֽעֲשֶׂה֙ בְּשִׁבְעָ֣ה בַחֹ֔דֶשׁ מֵאִ֥ישׁ שֹׁגֶ֖ה וּמִפֶּ֑תִי וְכִפַּרְתֶּ֖ם אֶת־ הַבָּֽיִת׃"
+pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H7651]]"
+- "[[H2320G]]"
+- "[[H9006]]"
+- "[[H0376I]]"
+- "[[H7686]]"
+- "[[H6612A]]"
+- "[[H9001]]"
+- "[[H3722A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:20**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And so thou shalt do the seventh [day] of the month for every one that erreth, and for [him that is] simple: so shall ye reconcile the house.
 <small><sub>**BSB:**</sub></small>
 You must do the same thing on the seventh day of the month for anyone who strays unintentionally or in ignorance. In this way you will make atonement for the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3651C\|כֵ֤ן]] [[H6213A\|תַּֽעֲשֶׂה֙]] [[H9003\|בְּ]][[H7651\|שִׁבְעָ֣ה]] [[H9003\|בַ]][[H2320G\|חֹ֔דֶשׁ]] [[H9006\|מֵ]][[H0376I\|אִ֥ישׁ]] [[H7686\|שֹׁגֶ֖ה]] [[H9002\|וּ]][[H9006\|מִ]][[H6612A\|פֶּ֑תִי]] [[H9001\|וְ]][[H3722A\|כִפַּרְתֶּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.19|<< Ezekiel 45:19]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.21|Ezekiel 45:21 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Numbers 5:2
+type: Verse
+kjv: "Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:"
+bsb: "“Command the Israelites to send away from the camp anyone with a skin disease, anyone who has a bodily discharge, and anyone who is defiled by a dead body."
+hebrew: "צַ֚ו אֶת־ בְּנֵ֣י יִשְׂרָאֵ֔ל וִֽישַׁלְּחוּ֙ מִן־ הַֽמַּחֲנֶ֔ה כָּל־ צָר֖וּעַ וְכָל־ זָ֑ב וְכֹ֖ל טָמֵ֥א לָנָֽפֶשׁ׃"
+pericope: "[[Num.5.1 Cleansing the Camps|Cleansing the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H7971H]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H3605]]"
+- "[[H6879]]"
+- "[[H2100H]]"
+- "[[H2931]]"
+- "[[H9005]]"
+- "[[H5315M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:2**<big><big>[[Num.5.1 Cleansing the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command the children of Israel, that they put out of the camp every leper, and every one that hath an issue, and whosoever is defiled by the dead:
 <small><sub>**BSB:**</sub></small>
 “Command the Israelites to send away from the camp anyone with a skin disease, anyone who has a bodily discharge, and anyone who is defiled by a dead body.
+<small><sub>**Hebrew:**</sub></small>
+[[H6680\|צַ֚ו]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וִֽ]][[H7971H\|ישַׁלְּחוּ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H3605\|כָּל]][[H9014\|־]] [[H6879\|צָר֖וּעַ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2100H\|זָ֑ב]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H2931\|טָמֵ֥א]] [[H9005\|לָ]][[H5315M\|נָֽפֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic LEPROSY|LEPROSY]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.1|<< Numbers 5:1]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.3|Numbers 5:3 >>]]</td></tr></table>
 

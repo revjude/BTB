@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 32:31
+type: Verse
+kjv: "Howbeit in the business of the ambassadors of the princes of Babylon, who sent unto him to inquire of the wonder that was done in the land, God left him, to try him, that he might know all that was in his heart."
+bsb: "And so when ambassadors of the rulers of Babylon were sent to him to inquire about the wonder that had happened in the land, God left him alone to test him, that He might know all that was in Hezekiah’s heart."
+hebrew: "וְכֵ֞ן בִּמְלִיצֵ֣י׀ שָׂרֵ֣י בָּבֶ֗ל הַֽמְשַׁלְּחִ֤ים עָלָיו֙ לִדְרֹ֗שׁ הַמּוֹפֵת֙ אֲשֶׁ֣ר הָיָ֣ה בָאָ֔רֶץ עֲזָב֖וֹ הָֽאֱלֹהִ֑ים לְנַ֨סּוֹת֔וֹ לָדַ֖עַת כָּל־ בִּלְבָבֽוֹ׃"
+pericope: "[[2Chr.32.24 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3651C]]"
+- "[[H9003]]"
+- "[[H3887]]"
+- "[[H9015]]"
+- "[[H8269]]"
+- "[[H0894]]"
+- "[[H9009]]"
+- "[[H7971G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H4159]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H0776G]]"
+- "[[H5800A]]"
+- "[[H0430G]]"
+- "[[H5254G]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:31**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit in [the business of] the ambassadors of the princes of Babylon, who sent unto him to inquire of the wonder that was [done] in the land, God left him, to try him, that he might know all [that was] in his heart.
 <small><sub>**BSB:**</sub></small>
 And so when ambassadors of the rulers of Babylon were sent to him to inquire about the wonder that had happened in the land, God left him alone to test him, that He might know all that was in Hezekiah’s heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3651C\|כֵ֞ן]] [[H9003\|בִּ]][[H3887\|מְלִיצֵ֣י]][[H9015\|׀]] [[H8269\|שָׂרֵ֣י]] [[H0894\|בָּבֶ֗ל]] [[H9009\|הַֽ]][[H7971G\|מְשַׁלְּחִ֤ים]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H9005\|לִ]][[H1875\|דְרֹ֗שׁ]] [[H9009\|הַ]][[H4159\|מּוֹפֵת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָיָ֣ה]] [[H9003\|בָ]][[H0776G\|אָ֔רֶץ]] [[H5800A\|עֲזָב֖]][[H9033\|וֹ]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֑ים]] [[H9005\|לְ]][[H5254G\|נַ֨סּוֹת֔]][[H9033\|וֹ]] [[H9005\|לָ]][[H3045\|דַ֖עַת]] [[H3605\|כָּל]][[H9014\|־]] [[H9003\|בִּ]][[H3824\|לְבָבֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic INTERPRETER|INTERPRETER]] • [[topic PRIDE|PRIDE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.30|<< 2 Chronicles 32:30]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.32|2 Chronicles 32:32 >>]]</td></tr></table>
 

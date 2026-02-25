@@ -1,8 +1,88 @@
+---
+title: Daniel 5:7
+type: Verse
+kjv: "The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. And the king spake, and said to the wise men of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and have a chain of gold about his neck, and shall be the third ruler in the kingdom."
+bsb: "The king called out for the enchanters, astrologers, and diviners to be brought in, and he said to these wise men of Babylon, “Whoever reads this inscription and tells me its interpretation will be clothed in purple and have a gold chain placed around his neck, and he will be made the third highest ruler in the kingdom.”"
+aramaic: "קָרֵ֤א מַלְכָּא֙ בְּחַ֔יִל לְהֶֽעָלָה֙ לְאָ֣שְׁפַיָּ֔א כַּשְׂדָּאֵ֖י וְגָזְרַיָּ֑א עָנֵ֨ה מַלְכָּ֜א וְאָמַ֣ר׀ לְחַכִּימֵ֣י בָבֶ֗ל דִּ֣י כָל־ אֱ֠נָשׁ דִּֽי־ יִקְרֵ֞ה כְּתָבָ֣ה דְנָ֗ה וּפִשְׁרֵהּ֙ יְחַוִּנַּ֔נִי אַרְגְּוָנָ֣א יִלְבַּ֗שׁ וְהַֽמְנִיכָ֤א דִֽי־ דַהֲבָא֙ עַֽל־ צַוְּארֵ֔הּ וְתַלְתִּ֥י בְמַלְכוּתָ֖א יִשְׁלַֽט׃ ס"
+pericope: "[[Dan.5.5 The Handwriting on the Wall|The Handwriting on the Wall]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ASTROLOGY|ASTROLOGY]]"
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic CHALDEANS|CHALDEANS]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H7123]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H9003]]"
+- "[[H2429]]"
+- "[[H9005]]"
+- "[[H5954]]"
+- "[[H0826]]"
+- "[[H3779]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1505]]"
+- "[[H6032]]"
+- "[[H0560]]"
+- "[[H9015]]"
+- "[[H2445]]"
+- "[[H0895]]"
+- "[[H1768]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H0606]]"
+- "[[H3792]]"
+- "[[H1836]]"
+- "[[H6591]]"
+- "[[H9023]]"
+- "[[H2324]]"
+- "[[H9030]]"
+- "[[H0711]]"
+- "[[H3848]]"
+- "[[H2002]]"
+- "[[H1722]]"
+- "[[H5922]]"
+- "[[H6676]]"
+- "[[H8523A]]"
+- "[[H4437]]"
+- "[[H7981]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 5:7**<big><big>[[Dan.5.5 The Handwriting on the Wall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king cried aloud to bring in the astrologers, the Chaldeans, and the soothsayers. [And] the king spake, and said to the wise [men] of Babylon, Whosoever shall read this writing, and shew me the interpretation thereof, shall be clothed with scarlet, and [have] a chain of gold about his neck, and shall be the third ruler in the kingdom.
 <small><sub>**BSB:**</sub></small>
 The king called out for the enchanters, astrologers, and diviners to be brought in, and he said to these wise men of Babylon, “Whoever reads this inscription and tells me its interpretation will be clothed in purple and have a gold chain placed around his neck, and he will be made the third highest ruler in the kingdom.”
+<small><sub>**Aramaic:**</sub></small>
+[[H7123\|קָרֵ֤א]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H9003\|בְּ]][[H2429\|חַ֔יִל]] [[H9005\|לְ]][[H5954\|הֶֽעָלָה֙]] [[H9005\|לְ]][[H0826\|אָ֣שְׁפַיָּ֔]][[H9010\|א]] [[H3779\|כַּשְׂדָּ]][[H9020\|אֵ֖י]] [[H9002\|וְ]][[H1505\|גָזְרַיָּ֑]][[H9010\|א]] [[H6032\|עָנֵ֨ה]] [[H4430\|מַלְכָּ֜]][[H9010\|א]] [[H9002\|וְ]][[H0560\|אָמַ֣ר]][[H9015\|׀]] [[H9005\|לְ]][[H2445\|חַכִּימֵ֣י]] [[H0895\|בָבֶ֗ל]] [[H1768\|דִּ֣י]] [[H3606\|כָל]][[H9014\|־]] [[H0606\|אֱ֠נָשׁ]] [[H1768\|דִּֽי]][[H9014\|־]] [[H7123\|יִקְרֵ֞ה]] [[H3792\|כְּתָבָ֣]][[H9010\|ה]] [[H1836\|דְנָ֗ה]] [[H9002\|וּ]][[H6591\|פִשְׁרֵ]][[H9023\|הּ֙]] [[H2324\|יְחַוִּנַּ֔]][[H9030\|נִי]] [[H0711\|אַרְגְּוָנָ֣]][[H9010\|א]] [[H3848\|יִלְבַּ֗שׁ]] [[H9002\|וְ]][[H2002\|הַֽמְנִיכָ֤]][[H9010\|א]] [[H1768\|דִֽי]][[H9014\|־]] [[H1722\|דַהֲבָ]][[H9010\|א֙]] [[H5922\|עַֽל]][[H9014\|־]] [[H6676\|צַוְּארֵ֔]][[H9023\|הּ]] [[H9002\|וְ]][[H8523A\|תַלְתִּ֥י]] [[H9003\|בְ]][[H4437\|מַלְכוּתָ֖]][[H9010\|א]] [[H7981\|יִשְׁלַֽט]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTROLOGY|ASTROLOGY]] • [[topic BELSHAZZAR|BELSHAZZAR]] • [[topic CHAINS|CHAINS]] • [[topic CHALDEANS|CHALDEANS]] • [[topic COLORS|COLORS]] • [[topic DRESS|DRESS]] • [[topic SORCERY|SORCERY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.6|<< Daniel 5:6]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.8|Daniel 5:8 >>]]</td></tr></table>
 
@@ -38,11 +118,11 @@ The king called out for the enchanters, astrologers, and diviners to be brought 
 | neck his  |**<big>&#8207;[[H6676\|צַוְּארֵ֔]]&#8207;&#8207;[[H9023\|הּ]]&#8207; </big>**| tza.ve.Re<small><sup>[[ANcbsc]]</sup></small> h<small><sup>[[ASp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and third  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8523A\|תַלְתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[AC]]</sup></small> tal.Ti<small><sup>[[ANcbsd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in kingdom the  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H4437\|מַלְכוּתָ֖]]&#8207;&#8207;[[H9010\|א]]&#8207; </big>**| ve.<small><sup>[[AR]]</sup></small> mal.khu.Ta<small><sup>[[ANcfsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will rule  |**<big>&#8207;[[H7981\|יִשְׁלַֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yish.Lat<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will rule  |**<big>&#8207;[[H7981\|יִשְׁלַֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yish.Lat<small><sup>[[AVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.6|<< Daniel 5:6]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.8|Daniel 5:8 >>]]</td></tr></table>
 
-[^1]: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַּשְׂדָּיֵ]]</big> ** | kas.di<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
-[^2]: Chaldeans the  | **<big>[[H9010|א]]</big><big>[[H3779|כַּשְׂדָּיֵ]]</big> ** | kas.di<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^1]: Chaldeans the  | **<big>[[H3779|כַּשְׂדָּיֵ]]</big><big>[[H9010|א]]</big> ** | kas.di<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
+[^2]: Chaldeans the  | **<big>[[H3779|כַּשְׂדָּיֵ]]</big><big>[[H9010|א]]</big> ** | kas.di<small><sup>[[ANgmpd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>כַּשְׂדָּיאֵ֖</big></span>**
 [^4]: L spelled: **<span class="asaramaic"><big>וְהַֽמְונִכָ֤/א</big></span>**
 [^5]: K spelled: **<span class="asaramaic"><big>וְהַמּוֹנְכָ/א</big></span>**

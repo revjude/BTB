@@ -1,8 +1,57 @@
+---
+title: Psalm 31:17
+type: Verse
+kjv: "Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave."
+bsb: "O LORD, let me not be ashamed, for I have called on You. Let the wicked be put to shame; let them lie silent in Sheol."
+hebrew: "יְֽהוָ֗ה אַל־ אֵ֭בוֹשָׁה כִּ֣י קְרָאתִ֑יךָ יֵבֹ֥שׁוּ רְ֝שָׁעִ֗ים יִדְּמ֥וּ לִשְׁאֽוֹל׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H3588A]]"
+- "[[H7121G]]"
+- "[[H9031]]"
+- "[[H7563]]"
+- "[[H1826H]]"
+- "[[H9005]]"
+- "[[H7585]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:17**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, [and] let them be silent in the grave.
 <small><sub>**BSB:**</sub></small>
 O LORD, let me not be ashamed, for I have called on You. Let the wicked be put to shame; let them lie silent in Sheol.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְֽהוָ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H0954\|אֵ֭בוֹשָׁה]] [[H3588A\|כִּ֣י]] [[H7121G\|קְרָאתִ֑י]][[H9031\|ךָ]] [[H0954\|יֵבֹ֥שׁוּ]] [[H7563\|רְ֝שָׁעִ֗ים]] [[H1826H\|יִדְּמ֥וּ]] [[H9005\|לִ]][[H7585\|שְׁאֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HELL|HELL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.16|<< Psalms 31:16]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.18|Psalms 31:18 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: Acts 27:28
+type: Verse
+kjv: "And sounded, and found it twenty fathoms: and when they had gone a little further, they sounded again, and found it fifteen fathoms."
+bsb: "They took soundings and found that the water was twenty fathoms deep. Going a little farther, they took another set of soundings that read fifteen fathoms."
+greek: "καὶ βολίσαντες εὗρον ὀργυιὰς εἴκοσι, βραχὺ δὲ διαστήσαντες καὶ πάλιν βολίσαντες εὗρον ὀργυιὰς δεκαπέντε·"
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FATHOM|FATHOM]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic NAVIGATION|NAVIGATION]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SOUNDING|SOUNDING]]"
+strongs:
+- "[[G2532]]"
+- "[[G1001]]"
+- "[[G2147]]"
+- "[[G3712]]"
+- "[[G1501]]"
+- "[[G1024]]"
+- "[[G1161]]"
+- "[[G1339]]"
+- "[[G3825]]"
+- "[[G1178]]"
+texts:
+- NKO
+---
+
 **Acts 27:28**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And sounded, and found [it] twenty fathoms: and when they had gone a little further, they sounded again, and found [it] fifteen fathoms.
 <small><sub>**BSB:**</sub></small>
 They took soundings and found that the water was twenty fathoms deep. Going a little farther, they took another set of soundings that read fifteen fathoms.
-<small><sub>**Literal:**</sub></small>
-And having taken soundings they found fathoms twenty, A little then having gone farther and again having taken soundings they found fathoms fifteen;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.27|<< Acts 27:27]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.29|Acts 27:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1001\|βολίσαντες]]  [[G2147\|εὗρον]]  [[G3712\|ὀργυιὰς]]  [[G1501\|εἴκοσι,]]  [[G1024\|βραχὺ]]  [[G1161\|δὲ]]  [[G1339\|διαστήσαντες]]  [[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G1001\|βολίσαντες]]  [[G2147\|εὗρον]]  [[G3712\|ὀργυιὰς]]  [[G1178\|δεκαπέντε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FATHOM|FATHOM]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic MEASURE|MEASURE]] • [[topic NAVIGATION|NAVIGATION]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic SOUNDING|SOUNDING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.27|<< Acts 27:27]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.29|Acts 27:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

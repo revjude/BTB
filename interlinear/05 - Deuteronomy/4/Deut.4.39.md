@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 4:39
+type: Verse
+kjv: "Know therefore this day, and consider it in thine heart, that the LORD he is God in heaven above, and upon the earth beneath: there is none else."
+bsb: "Know therefore this day and take to heart that the LORD is God in heaven above and on the earth below; there is no other."
+hebrew: "וְיָדַעְתָּ֣ הַיּ֗וֹם וַהֲשֵׁבֹתָ֮ אֶל־ לְבָבֶךָ֒ כִּ֤י יְהוָה֙ ה֣וּא הָֽאֱלֹהִ֔ים בַּשָּׁמַ֣יִם מִמַּ֔עַל וְעַל־ הָאָ֖רֶץ מִתָּ֑חַת אֵ֖ין עֽוֹד׃"
+pericope: "[[Deut.4.32 The LORD Alone Is God|The LORD Alone Is God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H7725N]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H1931]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H8478G]]"
+- "[[H0369]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:39**<big><big>[[Deut.4.32 The LORD Alone Is God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know therefore this day, and consider [it] in thine heart, that the LORD he [is] God in heaven above, and upon the earth beneath: [there is] none else.
 <small><sub>**BSB:**</sub></small>
 Know therefore this day and take to heart that the LORD is God in heaven above and on the earth below; there is no other.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדַעְתָּ֣]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H9001\|וַ]][[H7725N\|הֲשֵׁבֹתָ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H3824\|לְבָבֶ]][[H9021\|ךָ֒]] [[H3588A\|כִּ֤י]] [[H3068G\|יְהוָה֙]] [[H1931\|ה֣וּא]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֣יִם]] [[H9006\|מִ]][[H4605\|מַּ֔עַל]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9006\|מִ]][[H8478G\|תָּ֑חַת]] [[H0369\|אֵ֖ין]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OBLIGATION|OBLIGATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.38|<< Deuteronomy 4:38]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.40|Deuteronomy 4:40 >>]]</td></tr></table>
 

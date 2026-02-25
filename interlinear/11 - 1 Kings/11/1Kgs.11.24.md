@@ -1,8 +1,67 @@
+---
+title: 1 Kings 11:24
+type: Verse
+kjv: "And he gathered men unto him, and became captain over a band, when David slew them of Zobah: and they went to Damascus, and dwelt therein, and reigned in Damascus."
+bsb: "and had gathered men to himself. When David killed the Zobaites, Rezon captained a band of raiders and went to Damascus, where they settled and gained control."
+hebrew: "וַיִּקְבֹּ֤ץ עָלָיו֙ אֲנָשִׁ֔ים וַיְהִ֣י שַׂר־ גְּד֔וּד בַּהֲרֹ֥ג דָּוִ֖ד אֹתָ֑ם וַיֵּלְכ֤וּ דַמֶּ֙שֶׂק֙ וַיֵּ֣שְׁבוּ בָ֔הּ וַֽיִּמְלְכ֖וּ בְּדַמָּֽשֶׂק׃"
+pericope: "[[1Kgs.11.23 Rezon’s Hostility|Rezon’s Hostility]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REZON|REZON]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0582]]"
+- "[[H1961]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H1416]]"
+- "[[H9003]]"
+- "[[H2026]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H1980G]]"
+- "[[H1834]]"
+- "[[H3427]]"
+- "[[H9034]]"
+- "[[H4427A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:24**<big><big>[[1Kgs.11.23 Rezon’s Hostility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he gathered men unto him, and became captain over a band, when David slew them [of Zobah]: and they went to Damascus, and dwelt therein, and reigned in Damascus.
 <small><sub>**BSB:**</sub></small>
 and had gathered men to himself. When David killed the Zobaites, Rezon captained a band of raiders and went to Damascus, where they settled and gained control.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6908\|יִּקְבֹּ֤ץ]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H0582\|אֲנָשִׁ֔ים]] [[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H8269\|שַׂר]][[H9014\|־]] [[H1416\|גְּד֔וּד]] [[H9003\|בַּ]][[H2026\|הֲרֹ֥ג]] [[H1732\|דָּוִ֖ד]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֤וּ]] [[H1834\|דַמֶּ֙שֶׂק֙]] [[H9001\|וַ]][[H3427\|יֵּ֣שְׁבוּ]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H9001\|וַֽ]][[H4427A\|יִּמְלְכ֖וּ]] [[H9003\|בְּ]][[H1834\|דַמָּֽשֶׂק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CITIZENS|CITIZENS]] • [[topic DAMASCUS|DAMASCUS]] • [[topic GOD|GOD]] • [[topic REZON|REZON]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.23|<< 1 Kings 11:23]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.25|1 Kings 11:25 >>]]</td></tr></table>
 

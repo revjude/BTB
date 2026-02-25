@@ -1,8 +1,59 @@
+---
+title: Daniel 11:13
+type: Verse
+kjv: "For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches."
+bsb: "For the king of the North will raise another army, larger than the first, and after some years he will advance with a great army and many supplies."
+hebrew: "וְשָׁב֙ מֶ֣לֶךְ הַצָּפ֔וֹן וְהֶעֱמִ֣יד הָמ֔וֹן רַ֖ב מִן־ הָרִאשׁ֑וֹן וּלְקֵ֨ץ הָֽעִתִּ֤ים שָׁנִים֙ יָ֣בוֹא ב֔וֹא בְּחַ֥יִל גָּד֖וֹל וּבִרְכ֥וּשׁ רָֽב׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H6828G]]"
+- "[[H5975I]]"
+- "[[H1995A]]"
+- "[[H7227A]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H7223G]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H7093]]"
+- "[[H6256]]"
+- "[[H8141]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H2428A]]"
+- "[[H1419A]]"
+- "[[H7399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:13**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches.
 <small><sub>**BSB:**</sub></small>
 For the king of the North will raise another army, larger than the first, and after some years he will advance with a great army and many supplies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725J\|שָׁב֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H6828G\|צָּפ֔וֹן]] [[H9001\|וְ]][[H5975I\|הֶעֱמִ֣יד]] [[H1995A\|הָמ֔וֹן]] [[H7227A\|רַ֖ב]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H7223G\|רִאשׁ֑וֹן]] [[H9002\|וּ]][[H9005\|לְ]][[H7093\|קֵ֨ץ]] [[H9009\|הָֽ]][[H6256\|עִתִּ֤ים]] [[H8141\|שָׁנִים֙]] [[H0935G\|יָ֣בוֹא]] [[H0935G\|ב֔וֹא]] [[H9003\|בְּ]][[H2428A\|חַ֥יִל]] [[H1419A\|גָּד֖וֹל]] [[H9002\|וּ]][[H9003\|בִ]][[H7399\|רְכ֥וּשׁ]] [[H7227A\|רָֽב]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.12|<< Daniel 11:12]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.14|Daniel 11:14 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals a Paralytic
+type: Pericope
 pericope: "[[Matt.9.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 9
 book/chapter: "[[Matt.9|Matthew 9]]"
-genre:
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.9.1]]"
 - "[[Matt.9.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.9.8]]"
 ---
 
-[[Matt.9|Matthew 9:1 - Matthew 9:8]]
+<small>[[Matt.9|Matthew 9:1-8]]</small>
 *Jesus Heals a Paralytic*
 
 [[Matt.9.1|1]] And he entered into a ship, and passed over, and came into his own city.

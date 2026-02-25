@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 17:9
+type: Verse
+kjv: "And thou shalt come unto the priests the Levites, and unto the judge that shall be in those days, and inquire; and they shall shew thee the sentence of judgment:"
+bsb: "You are to go to the Levitical priests and to the judge who presides at that time. Inquire of them, and they will give you a verdict in the case."
+hebrew: "וּבָאתָ֗ אֶל־ הַכֹּהֲנִים֙ הַלְוִיִּ֔ם וְאֶל־ הַשֹּׁפֵ֔ט אֲשֶׁ֥ר יִהְיֶ֖ה בַּיָּמִ֣ים הָהֵ֑ם וְדָרַשְׁתָּ֙ וְהִגִּ֣ידוּ לְךָ֔ אֵ֖ת דְּבַ֥ר הַמִּשְׁפָּֽט׃"
+pericope: "[[Deut.17.8 Courts of Law|Courts of Law]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H9002]]"
+- "[[H8199]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1992]]"
+- "[[H1875]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H1697J]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 17:9**<big><big>[[Deut.17.8 Courts of Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt come unto the priests the Levites, and unto the judge that shall be in those days, and inquire; and they shall shew thee the sentence of judgment:
 <small><sub>**BSB:**</sub></small>
 You are to go to the Levitical priests and to the judge who presides at that time. Inquire of them, and they will give you a verdict in the case.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָאתָ֗]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִים֙]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8199\|שֹּׁפֵ֔ט]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|יִהְיֶ֖ה]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֑ם]] [[H9001\|וְ]][[H1875\|דָרַשְׁתָּ֙]] [[H9001\|וְ]][[H5046\|הִגִּ֣ידוּ]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H0853\|אֵ֖ת]] [[H1697J\|דְּבַ֥ר]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSAULT AND BATTERY|ASSAULT AND BATTERY]] • [[topic CHURCH|CHURCH]] • [[topic COURT|COURT]] • [[topic JUDGE|JUDGE]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.8|<< Deuteronomy 17:8]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.10|Deuteronomy 17:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

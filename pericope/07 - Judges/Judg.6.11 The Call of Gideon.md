@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Call of Gideon
+type: Pericope
 pericope: "[[Judg.6.11 The Call of Gideon|The Call of Gideon]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 6
 book/chapter: "[[Judg.6|Judges 6]]"
-genre:
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 14
 verses:
 - "[[Judg.6.11]]"
 - "[[Judg.6.12]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Judg.6.24]]"
 ---
 
-[[Judg.6|Judges 6:11 - Judges 6:24]]
+<small>[[Judg.6|Judges 6:11-24]]</small>
 *The Call of Gideon*
 
 [[Judg.6.11|11]] And there came an angel of the LORD, and sat under an oak which \[was\] in Ophrah, that \[pertained\] unto Joash the Abiezrite: and his son Gideon threshed wheat by the winepress, to hide \[it\] from the Midianites.

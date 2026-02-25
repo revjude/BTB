@@ -1,10 +1,63 @@
+---
+title: Luke 17:24
+type: Verse
+kjv: "For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day."
+bsb: "For just as the lightning flashes and lights up the sky from one end to the other, so will be the Son of Man in His day."
+jesus_said: "For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day."
+greek: "ὥσπερ γὰρ ἡ ἀστραπὴ ἡ ἀστράπτουσα ἐκ τῆς ὑπὸ τὸν οὐρανὸν εἰς τὴν ὑπ᾽ οὐρανὸν λάμπει, οὕτως ἔσται καὶ ὁ υἱὸς τοῦ ἀνθρώπου ἐν τῇ ἡμέρᾳ αὐτοῦ.¶"
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5618]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0796]]"
+- "[[G0797]]"
+- "[[G1537]]"
+- "[[G5259G]]"
+- "[[G3772]]"
+- "[[G1519]]"
+- "[[G2989]]"
+- "[[G3779]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G0846]]"
+texts:
+- NKO
+- ko
+- no
+- k
+---
+
 **Luke 17:24**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For as the lightning, that lighteneth out of the one [part] under heaven, shineth unto the other [part] under heaven; so shall also the Son of man be in his day.
 <small><sub>**BSB:**</sub></small>
 For just as the lightning flashes and lights up the sky from one end to the other, so will be the Son of Man in His day.
-<small><sub>**Literal:**</sub></small>
-As for the lightning which is flashing from the [one end] under the sky to the [other end] under [the] sky shines, thus will be also the Son <the> of Man in the day of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.23|<< Luke 17:23]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.25|Luke 17:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5618\|ὥσπερ]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G0796\|ἀστραπὴ]]  [[G3588\|ἡ]]  [[G0797\|ἀστράπτουσα]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5259G\|ὑπὸ]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5259G\|ὑπ᾽]]  [[G3772\|οὐρανὸν]]  [[G2989\|λάμπει,]]  [[G3779\|οὕτως]]  [[G1510\|ἔσται]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.23|<< Luke 17:23]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.25|Luke 17:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

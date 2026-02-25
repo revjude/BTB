@@ -1,10 +1,53 @@
+---
+title: Luke 20:22
+type: Verse
+kjv: "Is it lawful for us to give tribute unto Caesar, or no?"
+bsb: "Is it lawful for us to pay taxes to Caesar or not?”"
+greek: "ἔξεστιν ἡμᾶς Καίσαρι φόρον δοῦναι ἢ οὔ;"
+pericope: "[[Luke.20.19 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAESAR|CAESAR]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[G1832]]"
+- "[[G3165]]"
+- "[[G2541]]"
+- "[[G5411]]"
+- "[[G1325]]"
+- "[[G2228]]"
+- "[[G3756]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 20:22**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Is it lawful for us to give tribute unto Caesar, or no?
 <small><sub>**BSB:**</sub></small>
 Is it lawful for us to pay taxes to Caesar or not?”
-<small><sub>**Literal:**</sub></small>
-Is it lawful for us to Caesar tribute to give or not?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.21|<< Luke 20:21]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.23|Luke 20:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1832\|ἔξεστιν]]  [[G3165\|ἡμᾶς]]  [[G2541\|Καίσαρι]]  [[G5411\|φόρον]]  [[G1325\|δοῦναι]]  [[G2228\|ἢ]]  [[G3756\|οὔ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAR|CAESAR]] • [[topic CITIZENS|CITIZENS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.21|<< Luke 20:21]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.23|Luke 20:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

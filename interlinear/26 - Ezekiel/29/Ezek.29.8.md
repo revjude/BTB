@@ -1,8 +1,58 @@
+---
+title: Ezekiel 29:8
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee."
+bsb: "Therefore this is what the Lord GOD says: I will bring a sword against you and cut off from you man and beast."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִ֛י מֵבִ֥יא עָלַ֖יִךְ חָ֑רֶב וְהִכְרַתִּ֥י מִמֵּ֖ךְ אָדָ֥ם וּבְהֵמָֽה׃"
+pericope: "[[Ezek.29.8 The Desolation of Egypt|The Desolation of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H2719]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H4480A]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 29:8**<big><big>[[Ezek.29.8 The Desolation of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Behold, I will bring a sword upon thee, and cut off man and beast out of thee.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: I will bring a sword against you and cut off from you man and beast.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֛י]] [[H0935P\|מֵבִ֥יא]] [[H5921A\|עָלַ֖יִ]][[H9032\|ךְ]] [[H2719\|חָ֑רֶב]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֥י]] [[H4480A\|מִמֵּ֖]][[H9032\|ךְ]] [[H0120G\|אָדָ֥ם]] [[H9002\|וּ]][[H0929\|בְהֵמָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.7|<< Ezekiel 29:7]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.9|Ezekiel 29:9 >>]]</td></tr></table>
 

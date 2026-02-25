@@ -1,8 +1,60 @@
+---
+title: Amos 5:26
+type: Verse
+kjv: "But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves."
+bsb: "You have taken along Sakkuth your king and Kaiwan your star god, the idols you made for yourselves."
+hebrew: "וּנְשָׂאתֶ֗ם אֵ֚ת סִכּ֣וּת מַלְכְּכֶ֔ם וְאֵ֖ת כִּיּ֣וּן צַלְמֵיכֶ֑ם כּוֹכַב֙ אֱלֹ֣הֵיכֶ֔ם אֲשֶׁ֥ר עֲשִׂיתֶ֖ם לָכֶֽם׃"
+pericope: "[[Amos.5.16 Woe to Rebellious Israel|Woe to Rebellious Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHIUN|CHIUN]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STARS|STARS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H5522]]"
+- "[[H4428G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H3594]]"
+- "[[H6754]]"
+- "[[H3556]]"
+- "[[H0430]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:26**<big><big>[[Amos.5.16 Woe to Rebellious Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.
 <small><sub>**BSB:**</sub></small>
 You have taken along Sakkuth your king and Kaiwan your star god, the idols you made for yourselves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5375G\|נְשָׂאתֶ֗ם]] [[H0853\|אֵ֚ת]] [[H5522\|סִכּ֣וּת]] [[H4428G\|מַלְכְּ]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3594\|כִּיּ֣וּן]] [[H6754\|צַלְמֵי]][[H9026\|כֶ֑ם]] [[H3556\|כּוֹכַב֙]] [[H0430\|אֱלֹ֣הֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עֲשִׂיתֶ֖ם]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIUN|CHIUN]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STARS|STARS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.25|<< Amos 5:25]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.27|Amos 5:27 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

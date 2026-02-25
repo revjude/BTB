@@ -1,8 +1,62 @@
+---
+title: Jeremiah 19:12
+type: Verse
+kjv: "Thus will I do unto this place, saith the LORD, and to the inhabitants thereof, and even make this city as Tophet:"
+bsb: "This is what I will do to this place and to its residents, declares the LORD. I will make this city like Topheth."
+hebrew: "כֵּֽן־ אֶעֱשֶׂ֞ה לַמָּק֥וֹם הַזֶּ֛ה נְאֻם־ יְהוָ֖ה וּלְיֽוֹשְׁבָ֑יו וְלָתֵ֛ת אֶת־ הָעִ֥יר הַזֹּ֖את כְּתֹֽפֶת׃"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic TOPHET|TOPHET]]"
+strongs:
+- "[[H3651C]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H9023]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9004]]"
+- "[[H8612]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 19:12**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I do unto this place, saith the LORD, and to the inhabitants thereof, and [even] make this city as Tophet:
 <small><sub>**BSB:**</sub></small>
 This is what I will do to this place and to its residents, declares the LORD. I will make this city like Topheth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּֽן]][[H9014\|־]] [[H6213A\|אֶעֱשֶׂ֞ה]] [[H9005\|לַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וּ]][[H9005\|לְ]][[H3427\|יֽוֹשְׁבָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H9005\|לָ]][[H5414I\|תֵ֛ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9004\|כְּ]][[H8612\|תֹֽפֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic TOPHET|TOPHET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.11|<< Jeremiah 19:11]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.13|Jeremiah 19:13 >>]]</td></tr></table>
 

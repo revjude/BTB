@@ -1,8 +1,73 @@
+---
+title: Exodus 17:9
+type: Verse
+kjv: "And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand."
+bsb: "So Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I will stand on the hilltop with the staff of God in my hand.”"
+hebrew: "וַיֹּ֨אמֶר מֹשֶׁ֤ה אֶל־ יְהוֹשֻׁ֙עַ֙ בְּחַר־ לָ֣נוּ אֲנָשִׁ֔ים וְצֵ֖א הִלָּחֵ֣ם בַּעֲמָלֵ֑ק מָחָ֗ר אָנֹכִ֤י נִצָּב֙ עַל־ רֹ֣אשׁ הַגִּבְעָ֔ה וּמַטֵּ֥ה הָאֱלֹהִ֖ים בְּיָדִֽי׃"
+pericope: "[[Exod.17.8 The Defeat of the Amalekites|The Defeat of the Amalekites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 17
+book/chapter: "[[Exod.17|Exodus 17]]"
+chronological_order: 109
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H0977]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H0582]]"
+- "[[H9002]]"
+- "[[H3318G]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H6002G]]"
+- "[[H4279]]"
+- "[[H0595]]"
+- "[[H5324]]"
+- "[[H5921A]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H1389I]]"
+- "[[H4294G]]"
+- "[[H0430G]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 17:9**<big><big>[[Exod.17.8 The Defeat of the Amalekites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: to morrow I will stand on the top of the hill with the rod of God in mine hand.
 <small><sub>**BSB:**</sub></small>
 So Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I will stand on the hilltop with the staff of God in my hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H4872\|מֹשֶׁ֤ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H0977\|בְּחַר]][[H9014\|־]] [[H9005\|לָ֣]][[H9035\|נוּ]] [[H0582\|אֲנָשִׁ֔ים]] [[H9002\|וְ]][[H3318G\|צֵ֖א]] [[H3898A\|הִלָּחֵ֣ם]] [[H9003\|בַּ]][[H6002G\|עֲמָלֵ֑ק]] [[H4279\|מָחָ֗ר]] [[H0595\|אָנֹכִ֤י]] [[H5324\|נִצָּב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218I\|רֹ֣אשׁ]] [[H9009\|הַ]][[H1389I\|גִּבְעָ֔ה]] [[H9002\|וּ]][[H4294G\|מַטֵּ֥ה]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בְּ]][[H3027G\|יָדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.17.8|<< Exodus 17:8]]</td><td align="center" style="border:none;">[[Exod.17|Exodus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.17.10|Exodus 17:10 >>]]</td></tr></table>
 

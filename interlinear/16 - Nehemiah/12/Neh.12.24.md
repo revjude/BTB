@@ -1,8 +1,69 @@
+---
+title: Nehemiah 12:24
+type: Verse
+kjv: "And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward."
+bsb: "The leaders of the Levites were Hashabiah, Sherebiah, and Jeshua son of Kadmiel, along with their associates, who stood across from them to give praise and thanksgiving as one section alternated with the other, as prescribed by David the man of God."
+hebrew: "וְרָאשֵׁ֣י הַ֠לְוִיִּם חֲשַׁבְיָ֨ה שֵֽׁרֵבְיָ֜ה וְיֵשׁ֤וּעַ בֶּן־ קַדְמִיאֵל֙ וַאֲחֵיהֶ֣ם לְנֶגְדָּ֔ם לְהַלֵּ֣ל לְהוֹד֔וֹת בְּמִצְוַ֖ת דָּוִ֣יד אִישׁ־ הָאֱלֹהִ֑ים מִשְׁמָ֖ר לְעֻמַּ֥ת מִשְׁמָֽר׃"
+pericope: "[[Neh.12.1 The Priests and Levites Who Returned|The Priests and Levites Who Returned]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic HASHABIAH|HASHABIAH]]"
+- "[[topic KADMIEL|KADMIEL]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SHEREBIAH|SHEREBIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H2811M]]"
+- "[[H8274H]]"
+- "[[H3442N]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6934]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H9038]]"
+- "[[H1984B]]"
+- "[[H3034]]"
+- "[[H9003]]"
+- "[[H4687]]"
+- "[[H1732]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H4929]]"
+- "[[H5980]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 12:24**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise [and] to give thanks, according to the commandment of David the man of God, ward over against ward.
 <small><sub>**BSB:**</sub></small>
 The leaders of the Levites were Hashabiah, Sherebiah, and Jeshua son of Kadmiel, along with their associates, who stood across from them to give praise and thanksgiving as one section alternated with the other, as prescribed by David the man of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7218H\|רָאשֵׁ֣י]] [[H9009\|הַ֠]][[H3881\|לְוִיִּם]] [[H2811M\|חֲשַׁבְיָ֨ה]] [[H8274H\|שֵֽׁרֵבְיָ֜ה]] [[H9002\|וְ]][[H3442N\|יֵשׁ֤וּעַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6934\|קַדְמִיאֵל֙]] [[H9002\|וַ]][[H0251H\|אֲחֵי]][[H9028\|הֶ֣ם]] [[H9005\|לְ]][[H5048\|נֶגְדָּ֔]][[H9038\|ם]] [[H9005\|לְ]][[H1984B\|הַלֵּ֣ל]] [[H9005\|לְ]][[H3034\|הוֹד֔וֹת]] [[H9003\|בְּ]][[H4687\|מִצְוַ֖ת]] [[H1732\|דָּוִ֣יד]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H4929\|מִשְׁמָ֖ר]] [[H9005\|לְ]][[H5980\|עֻמַּ֥ת]] [[H4929\|מִשְׁמָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HASHABIAH|HASHABIAH]] • [[topic KADMIEL|KADMIEL]] • [[topic MUSIC|MUSIC]] • [[topic SHEREBIAH|SHEREBIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.23|<< Nehemiah 12:23]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.25|Nehemiah 12:25 >>]]</td></tr></table>
 

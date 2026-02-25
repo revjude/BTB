@@ -1,8 +1,69 @@
+---
+title: Isaiah 38:12
+type: Verse
+kjv: "Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt thou make an end of me."
+bsb: "My dwelling has been picked up and removed from me like a shepherd’s tent. I have rolled up my life like a weaver; He cuts me off from the loom; from day until night You make an end of me."
+hebrew: "דּוֹרִ֗י נִסַּ֧ע וְנִגְלָ֛ה מִנִּ֖י כְּאֹ֣הֶל רֹעִ֑י קִפַּ֨דְתִּי כָאֹרֵ֤ג חַיַּי֙ מִדַּלָּ֣ה יְבַצְּעֵ֔נִי מִיּ֥וֹם עַד־ לַ֖יְלָה תַּשְׁלִימֵֽנִי׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic TENT|TENT]]"
+- "[[topic WEAVING|WEAVING]]"
+strongs:
+- "[[H1755]]"
+- "[[H9020]]"
+- "[[H5265]]"
+- "[[H9002]]"
+- "[[H1540K]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H0168G]]"
+- "[[H7462B]]"
+- "[[H7088]]"
+- "[[H0707]]"
+- "[[H2416E]]"
+- "[[H9006]]"
+- "[[H1803A]]"
+- "[[H1214G]]"
+- "[[H3117G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3915]]"
+- "[[H7999A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:12**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine age is departed, and is removed from me as a shepherd’s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day [even] to night wilt thou make an end of me.
 <small><sub>**BSB:**</sub></small>
 My dwelling has been picked up and removed from me like a shepherd’s tent. I have rolled up my life like a weaver; He cuts me off from the loom; from day until night You make an end of me.
+<small><sub>**Hebrew:**</sub></small>
+[[H1755\|דּוֹרִ֗]][[H9020\|י]] [[H5265\|נִסַּ֧ע]] [[H9002\|וְ]][[H1540K\|נִגְלָ֛ה]] [[H4480A\|מִ]][[H9030\|נִּ֖י]] [[H9004\|כְּ]][[H0168G\|אֹ֣הֶל]] [[H7462B\|רֹעִ֑]][[H9020\|י]] [[H7088\|קִפַּ֨דְתִּי]] [[H9004\|כָ]][[H0707\|אֹרֵ֤ג]] [[H2416E\|חַיַּ]][[H9020\|י֙]] [[H9006\|מִ]][[H1803A\|דַּלָּ֣ה]] [[H1214G\|יְבַצְּעֵ֔]][[H9030\|נִי]] [[H9006\|מִ]][[H3117G\|יּ֥וֹם]] [[H5704\|עַד]][[H9014\|־]] [[H3915\|לַ֖יְלָה]] [[H7999A\|תַּשְׁלִימֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LIFE|LIFE]] • [[topic MURMURING|MURMURING]] • [[topic PSALMS|PSALMS]] • [[topic TENT|TENT]] • [[topic WEAVING|WEAVING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.11|<< Isaiah 38:11]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.13|Isaiah 38:13 >>]]</td></tr></table>
 

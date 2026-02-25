@@ -1,8 +1,51 @@
+---
+title: Obadiah 1:17
+type: Verse
+kjv: "But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions."
+bsb: "But on Mount Zion there will be deliverance, and it will be holy, and the house of Jacob will reclaim their possession."
+hebrew: "וּבְהַ֥ר צִיּ֛וֹן תִּהְיֶ֥ה פְלֵיטָ֖ה וְהָ֣יָה קֹ֑דֶשׁ וְיָֽרְשׁוּ֙ בֵּ֣ית יַֽעֲקֹ֔ב אֵ֖ת מוֹרָֽשֵׁיהֶם׃"
+pericope: "[[Obad.1.15 The Deliverance of Israel|The Deliverance of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H6726]]"
+- "[[H1961]]"
+- "[[H6413]]"
+- "[[H9001]]"
+- "[[H6944G]]"
+- "[[H3423H]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H0853]]"
+- "[[H4180]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:17**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.
 <small><sub>**BSB:**</sub></small>
 But on Mount Zion there will be deliverance, and it will be holy, and the house of Jacob will reclaim their possession.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H2022G\|הַ֥ר]] [[H6726\|צִיּ֛וֹן]] [[H1961\|תִּהְיֶ֥ה]] [[H6413\|פְלֵיטָ֖ה]] [[H9001\|וְ]][[H1961\|הָ֣יָה]] [[H6944G\|קֹ֑דֶשׁ]] [[H9001\|וְ]][[H3423H\|יָֽרְשׁוּ֙]] [[H1004M\|בֵּ֣ית]] [[H3290\|יַֽעֲקֹ֔ב]] [[H0853\|אֵ֖ת]] [[H4180\|מוֹרָֽשֵׁי]][[H9028\|הֶם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.16|<< Obadiah 1:16]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.18|Obadiah 1:18 >>]]</td></tr></table>
 

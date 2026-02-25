@@ -1,8 +1,75 @@
+---
+title: 1 Kings 13:18
+type: Verse
+kjv: "He said unto him, I am a prophet also as thou art; and an angel spake unto me by the word of the LORD, saying, Bring him back with thee into thine house, that he may eat bread and drink water. But he lied unto him."
+bsb: "Then the prophet replied, “I too am a prophet like you, and an angel spoke to me by the word of the LORD, saying, ‘Bring him back with you to your house, so that he may eat bread and drink water.’” The old prophet was lying to him,"
+hebrew: "וַיֹּ֣אמֶר ל֗וֹ גַּם־ אֲנִ֣י נָבִיא֮ כָּמוֹךָ֒ וּמַלְאָ֡ךְ דִּבֶּ֣ר אֵלַי֩ בִּדְבַ֨ר יְהוָ֜ה לֵאמֹ֗ר הֲשִׁבֵ֤הוּ אִתְּךָ֙ אֶל־ בֵּיתֶ֔ךָ וְיֹ֥אכַל לֶ֖חֶם וְיֵ֣שְׁתְּ מָ֑יִם כִּחֵ֖שׁ לֽוֹ׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5030]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H4397H]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H7725G]]"
+- "[[H0854]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H0398]]"
+- "[[H3899H]]"
+- "[[H8354]]"
+- "[[H4325G]]"
+- "[[H3584]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:18**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He said unto him, I [am] a prophet also as thou [art]; and an angel spake unto me by the word of the LORD, saying, Bring him back with thee into thine house, that he may eat bread and drink water. [But] he lied unto him.
 <small><sub>**BSB:**</sub></small>
 Then the prophet replied, “I too am a prophet like you, and an angel spoke to me by the word of the LORD, saying, ‘Bring him back with you to your house, so that he may eat bread and drink water.’” The old prophet was lying to him,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H1571\|גַּם]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H5030\|נָבִיא֮]] [[H3644G\|כָּמוֹ]][[H9031\|ךָ֒]] [[H9002\|וּ]][[H4397H\|מַלְאָ֡ךְ]] [[H1696G\|דִּבֶּ֣ר]] [[H0413\|אֵלַ]][[H9030\|י֩]] [[H9003\|בִּ]][[H1697G\|דְבַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H7725G\|הֲשִׁבֵ֤]][[H9033\|הוּ]] [[H0854\|אִתְּ]][[H9031\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּיתֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H0398\|יֹ֥אכַל]] [[H3899H\|לֶ֖חֶם]] [[H9002\|וְ]][[H8354\|יֵ֣שְׁתְּ]] [[H4325G\|מָ֑יִם]] [[H3584\|כִּחֵ֖שׁ]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.17|<< 1 Kings 13:17]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.19|1 Kings 13:19 >>]]</td></tr></table>
 

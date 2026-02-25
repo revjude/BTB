@@ -1,8 +1,58 @@
+---
+title: Numbers 28:16
+type: Verse
+kjv: "And in the fourteenth day of the first month is the passover of the LORD."
+bsb: "The fourteenth day of the first month is the LORD’s Passover."
+hebrew: "וּבַחֹ֣דֶשׁ הָרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר י֖וֹם לַחֹ֑דֶשׁ פֶּ֖סַח לַיהוָֽה׃"
+pericope: "[[Num.28.16 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H6453]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:16**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the fourteenth day of the first month [is] the passover of the LORD.
 <small><sub>**BSB:**</sub></small>
 The fourteenth day of the first month is the LORD’s Passover.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֗וֹן]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֛ר]] [[H3117G\|י֖וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H6453\|פֶּ֖סַח]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic PASSOVER|PASSOVER]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.15|<< Numbers 28:15]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.17|Numbers 28:17 >>]]</td></tr></table>
 

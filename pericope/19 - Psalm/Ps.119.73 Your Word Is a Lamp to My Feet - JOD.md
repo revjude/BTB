@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Your Word Is a Lamp to My Feet - JOD
+type: Pericope
 pericope: "[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|Your Word Is a Lamp to My Feet - JOD]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 119
 book/chapter: "[[Ps.119|Psalm 119]]"
-genre:
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.119.73]]"
 - "[[Ps.119.74]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.119.80]]"
 ---
 
-[[Ps.119|Psalm 119:73 - Psalm 119:80]]
+<small>[[Ps.119|Psalm 119:73-80]]</small>
 *Your Word Is a Lamp to My Feet - JOD*
 
 [[Ps.119.73|73]] Thy hands have made me and fashioned me: give me understanding, that I may learn thy commandments.

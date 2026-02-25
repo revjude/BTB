@@ -1,10 +1,56 @@
+---
+title: John 5:12
+type: Verse
+kjv: "Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?"
+bsb: "“Who is this man who told you to pick it up and walk?” they asked."
+greek: "ἠρώτησαν οὖν αὐτόν· τίς ἐστιν ὁ ἄνθρωπος ὁ εἰπών σοι· ἆρον τὸν κράββατον σου καὶ περιπάτει;"
+pericope: "[[John.5.1 The Pool of Bethesda|The Pool of Bethesda]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G2065]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G0142]]"
+- "[[G2895]]"
+- "[[G2532]]"
+- "[[G4043]]"
+texts:
+- NKO
+- KO
+---
+
 **John 5:12**<big><big>[[John.5.1 The Pool of Bethesda|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?
 <small><sub>**BSB:**</sub></small>
 “Who is this man who told you to pick it up and walk?” they asked.
-<small><sub>**Literal:**</sub></small>
-They asked therefore him; Who is the man <the> having said to you; do take up the mat of you and do walk?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.11|<< John 5:11]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.13|John 5:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2065\|ἠρώτησαν]]  [[G3767\|οὖν]]  [[G0846\|αὐτόν·]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3588\|ὁ]]  [[G2036\|εἰπών]]  [[G4771\|σοι·]]  [[G0142\|ἆρον]]  [[G3588\|τὸν]]  [[G2895\|κράββατον]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G4043\|περιπάτει;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.11|<< John 5:11]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.13|John 5:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

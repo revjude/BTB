@@ -1,8 +1,62 @@
+---
+title: Isaiah 37:35
+type: Verse
+kjv: "For I will defend this city to save it for mine own sake, and for my servant David’s sake."
+bsb: "‘I will defend this city and save it for My own sake and for the sake of My servant David.’”"
+hebrew: "וְגַנּוֹתִ֛י עַל־ הָעִ֥יר הַזֹּ֖את לְהֽוֹשִׁיעָ֑הּ לְמַֽעֲנִ֔י וּלְמַ֖עַן דָּוִ֥ד עַבְדִּֽי׃ ס"
+pericope: "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1598]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H3467]]"
+- "[[H9034]]"
+- "[[H4616]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 37:35**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will defend this city to save it for mine own sake, and for my servant David’s sake.
 <small><sub>**BSB:**</sub></small>
 ‘I will defend this city and save it for My own sake and for the sake of My servant David.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1598\|גַנּוֹתִ֛י]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9005\|לְ]][[H3467\|הֽוֹשִׁיעָ֑]][[H9034\|הּ]] [[H4616\|לְמַֽעֲנִ֔]][[H9030\|י]] [[H9002\|וּ]][[H4616\|לְמַ֖עַן]] [[H1732\|דָּוִ֥ד]] [[H5650\|עַבְדִּֽ]][[H9020\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.34|<< Isaiah 37:34]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.36|Isaiah 37:36 >>]]</td></tr></table>
 
@@ -16,7 +70,7 @@ For I will defend this city to save it for mine own sake, and for my servant Dav
 | for own sake my  |**<big>&#8207;[[H4616\|לְמַֽעֲנִ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| le.ma.'a.<small><sup>[[HTc]]</sup></small> Ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and for [the] sake of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4616\|לְמַ֖עַן]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | David  |**<big>&#8207;[[H1732\|דָּוִ֥ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| servant my  |**<big>&#8207;[[H5650\|עַבְדִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| servant my  |**<big>&#8207;[[H5650\|עַבְדִּֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'av.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.34|<< Isaiah 37:34]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.36|Isaiah 37:36 >>]]</td></tr></table>
 
 

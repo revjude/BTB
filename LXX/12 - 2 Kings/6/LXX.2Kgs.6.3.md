@@ -1,6 +1,45 @@
+---
+title: LXX 2 Kings 6:3
+type: Verse
+lxx: "And one said, Please come with  your servants. And he said, I will go."
+greek: "και είπεν ο εις επιεικώς δεύρο μετά των δούλων σου και είπεν εγώ πορεύσομαι"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G1520]]"
+- "[[G7406]]"
+- "[[G1204]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G4198]]"
+---
+
 **LXX 2 Kings 6:3** 
 <small><sub>**LXX:**</sub></small>
 And one said, Please come with  your servants. And he said, I will go. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G3588\|ο]] [[G1520\|εις]] [[G7406\|επιεικώς]] [[G1204\|δεύρο]] [[G3326\|μετά]] [[G3588\|των]] [[G1401\|δούλων]] [[G1473\|σου]] [[G2532\|και]] [[G2036\|είπεν]] [[G1473\|εγώ]] [[G4198\|πορεύσομαι]]
 <small><sub>**MT:**</sub></small>
 [[2Kgs.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.2|<< 2 Kings 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.4|2 Kings 6:4 >>]]</td></tr></table>
 
@@ -19,6 +58,6 @@ And one said, Please come with  your servants. And he said, I will go.
 | he said, | **<big>[[G2036\|είπεν]]</big>** |
 | I | **<big>[[G1473\|εγώ]]</big>** |
 | will go. | **<big>[[G4198\|πορεύσομαι]]</big>** |
-[[2Kgs.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.2|<< 2 Kings 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.4|2 Kings 6:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.6.2|<< 2 Kings 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.6.4|2 Kings 6:4 >>]]</td></tr></table>
 
 

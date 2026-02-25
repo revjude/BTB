@@ -1,8 +1,63 @@
+---
+title: Ezekiel 20:20
+type: Verse
+kjv: "And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I am the LORD your God."
+bsb: "Keep My Sabbaths holy, that they may be a sign between us, so that you may know that I am the LORD your God.’"
+hebrew: "וְאֶת־ שַׁבְּתוֹתַ֖י קַדֵּ֑שׁוּ וְהָי֤וּ לְאוֹת֙ בֵּינִ֣י וּבֵֽינֵיכֶ֔ם לָדַ֕עַת כִּ֛י אֲנִ֥י יְהוָ֖ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7676]]"
+- "[[H9020]]"
+- "[[H6942G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0226H]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9036]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:20**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 Keep My Sabbaths holy, that they may be a sign between us, so that you may know that I am the LORD your God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתוֹתַ֖]][[H9020\|י]] [[H6942G\|קַדֵּ֑שׁוּ]] [[H9001\|וְ]][[H1961\|הָי֤וּ]] [[H9005\|לְ]][[H0226H\|אוֹת֙]] [[H0996G\|בֵּינִ֣]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵֽינֵי]][[H9036\|כֶ֔ם]] [[H9005\|לָ]][[H3045\|דַ֕עַת]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.19|<< Ezekiel 20:19]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.21|Ezekiel 20:21 >>]]</td></tr></table>
 

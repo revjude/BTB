@@ -1,8 +1,61 @@
+---
+title: Jeremiah 22:12
+type: Verse
+kjv: "But he shall die in the place whither they have led him captive, and shall see this land no more."
+bsb: "but he will die in the place to which he was exiled; he will never see this land again.”"
+hebrew: "כִּ֗י בִּמְק֛וֹם אֲשֶׁר־ הִגְל֥וּ אֹת֖וֹ שָׁ֣ם יָמ֑וּת וְאֶת־ הָאָ֥רֶץ הַזֹּ֖את לֹֽא־ יִרְאֶ֥ה עֽוֹד׃ ס"
+pericope: "[[Jer.22.10 A Warning about Shallum|A Warning about Shallum]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1540K]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H5750]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 22:12**<big><big>[[Jer.22.10 A Warning about Shallum|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he shall die in the place whither they have led him captive, and shall see this land no more.
 <small><sub>**BSB:**</sub></small>
 but he will die in the place to which he was exiled; he will never see this land again.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֗י]] [[H9003\|בִּ]][[H4725\|מְק֛וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1540K\|הִגְל֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H8033G\|שָׁ֣ם]] [[H4191\|יָמ֑וּת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|יִרְאֶ֥ה]] [[H5750\|עֽוֹד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOAHAZ|JEHOAHAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.11|<< Jeremiah 22:11]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.13|Jeremiah 22:13 >>]]</td></tr></table>
 
@@ -20,7 +73,7 @@ but he will die in the place to which he was exiled; he will never see this land
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּ֖את]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will see  |**<big>&#8207;[[H7200G\|יִרְאֶ֥ה]]&#8207; </big>**| yir.'Eh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.11|<< Jeremiah 22:11]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.13|Jeremiah 22:13 >>]]</td></tr></table>
 
 

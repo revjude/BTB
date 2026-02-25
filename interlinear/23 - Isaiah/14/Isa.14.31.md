@@ -1,8 +1,64 @@
+---
+title: Isaiah 14:31
+type: Verse
+kjv: "Howl, O gate; cry, O city; thou, whole Palestina, art dissolved: for there shall come from the north a smoke, and none shall be alone in his appointed times."
+bsb: "Wail, O gate! Cry out, O city! Melt away, all you Philistines! For a cloud of smoke comes from the north, and there are no stragglers in its ranks."
+hebrew: "הֵילִ֤ילִֽי שַׁ֙עַר֙ זַֽעֲקִי־ עִ֔יר נָמ֖וֹג פְּלֶ֣שֶׁת כֻּלֵּ֑ךְ כִּ֤י מִצָּפוֹן֙ עָשָׁ֣ן בָּ֔א וְאֵ֥ין בּוֹדֵ֖ד בְּמוֹעָדָֽיו׃"
+pericope: "[[Isa.14.28 Philistia Will Be Destroyed|Philistia Will Be Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H3213]]"
+- "[[H8179G]]"
+- "[[H2199]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H4127]]"
+- "[[H6429]]"
+- "[[H3605]]"
+- "[[H9022]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H6227]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H0909]]"
+- "[[H9003]]"
+- "[[H4151]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:31**<big><big>[[Isa.14.28 Philistia Will Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howl, O gate; cry, O city; thou, whole Palestina, [art] dissolved: for there shall come from the north a smoke, and none [shall be] alone in his appointed times.
 <small><sub>**BSB:**</sub></small>
 Wail, O gate! Cry out, O city! Melt away, all you Philistines! For a cloud of smoke comes from the north, and there are no stragglers in its ranks.
+<small><sub>**Hebrew:**</sub></small>
+[[H3213\|הֵילִ֤ילִֽי]] [[H8179G\|שַׁ֙עַר֙]] [[H2199\|זַֽעֲקִי]][[H9014\|־]] [[H5892B\|עִ֔יר]] [[H4127\|נָמ֖וֹג]] [[H6429\|פְּלֶ֣שֶׁת]] [[H3605\|כֻּלֵּ֑]][[H9022\|ךְ]] [[H3588A\|כִּ֤י]] [[H9006\|מִ]][[H6828G\|צָּפוֹן֙]] [[H6227\|עָשָׁ֣ן]] [[H0935G\|בָּ֔א]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H0909\|בּוֹדֵ֖ד]] [[H9003\|בְּ]][[H4151\|מוֹעָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ISAIAH|ISAIAH]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.30|<< Isaiah 14:30]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.32|Isaiah 14:32 >>]]</td></tr></table>
 

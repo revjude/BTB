@@ -1,8 +1,62 @@
+---
+title: Isaiah 25:1
+type: Verse
+kjv: "O LORD, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things; thy counsels of old are faithfulness and truth."
+bsb: "O LORD, You are my God! I will exalt You; I will praise Your name. For You have worked wonders—plans formed long ago—in perfect faithfulness."
+hebrew: "יְהוָ֤ה אֱלֹהַי֙ אַתָּ֔ה אֲרֽוֹמִמְךָ֙ אוֹדֶ֣ה שִׁמְךָ֔ כִּ֥י עָשִׂ֖יתָ פֶּ֑לֶא עֵצ֥וֹת מֵֽרָח֖וֹק אֱמ֥וּנָה אֹֽמֶן׃"
+pericope: "[[Isa.25.1 Praise to the Victorious God|Praise to the Victorious God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 25
+book/chapter: "[[Isa.25|Isaiah 25]]"
+chronological_order: 668
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H7311A]]"
+- "[[H9031]]"
+- "[[H3034]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H6213A]]"
+- "[[H6382]]"
+- "[[H6098]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H0530]]"
+- "[[H0544]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 25:1**<big><big>[[Isa.25.1 Praise to the Victorious God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, thou [art] my God; I will exalt thee, I will praise thy name; for thou hast done wonderful [things; thy] counsels of old [are] faithfulness [and] truth.
 <small><sub>**BSB:**</sub></small>
 O LORD, You are my God! I will exalt You; I will praise Your name. For You have worked wonders—plans formed long ago—in perfect faithfulness.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהַ]][[H9020\|י֙]] [[H0859A\|אַתָּ֔ה]] [[H7311A\|אֲרֽוֹמִמְ]][[H9031\|ךָ֙]] [[H3034\|אוֹדֶ֣ה]] [[H8034\|שִׁמְ]][[H9021\|ךָ֔]] [[H3588A\|כִּ֥י]] [[H6213A\|עָשִׂ֖יתָ]] [[H6382\|פֶּ֑לֶא]] [[H6098\|עֵצ֥וֹת]] [[H9006\|מֵֽ]][[H7350\|רָח֖וֹק]] [[H0530\|אֱמ֥וּנָה]] [[H0544\|אֹֽמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic TRUTH|TRUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.23|<< Isaiah 24:23]]</td><td align="center" style="border:none;">[[Isa.25|Isaiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.25.2|Isaiah 25:2 >>]]</td></tr></table>
 

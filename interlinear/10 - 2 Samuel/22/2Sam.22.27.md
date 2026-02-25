@@ -1,8 +1,49 @@
+---
+title: 2 Samuel 22:27
+type: Verse
+kjv: "With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself unsavoury."
+bsb: "to the pure You show Yourself pure, but to the crooked You show Yourself shrewd."
+hebrew: "עִם־ נָבָ֖ר תִּתָּבָ֑ר וְעִם־ עִקֵּ֖שׁ תִּתַּפָּֽל׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1305]]"
+- "[[H9002]]"
+- "[[H6141]]"
+- "[[H6617]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:27**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself unsavoury.
 <small><sub>**BSB:**</sub></small>
 to the pure You show Yourself pure, but to the crooked You show Yourself shrewd.
+<small><sub>**Hebrew:**</sub></small>
+[[H5973A\|עִם]][[H9014\|־]] [[H1305\|נָבָ֖ר]] [[H1305\|תִּתָּבָ֑ר]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H6141\|עִקֵּ֖שׁ]] [[H6617\|תִּתַּפָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.26|<< 2 Samuel 22:26]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.28|2 Samuel 22:28 >>]]</td></tr></table>
 

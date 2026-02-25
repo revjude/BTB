@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 9:17
+type: Verse
+kjv: "And I took the two tables, and cast them out of my two hands, and brake them before your eyes."
+bsb: "So I took the two tablets and threw them out of my hands, shattering them before your eyes."
+hebrew: "וָאֶתְפֹּשׂ֙ בִּשְׁנֵ֣י הַלֻּחֹ֔ת וָֽאַשְׁלִכֵ֔ם מֵעַ֖ל שְׁתֵּ֣י יָדָ֑י וָאֲשַׁבְּרֵ֖ם לְעֵינֵיכֶֽם׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8610]]"
+- "[[H9003]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H3871]]"
+- "[[H7993]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H7665]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:17**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I took the two tables, and cast them out of my two hands, and brake them before your eyes.
 <small><sub>**BSB:**</sub></small>
 So I took the two tablets and threw them out of my hands, shattering them before your eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H8610\|אֶתְפֹּשׂ֙]] [[H9003\|בִּ]][[H8147\|שְׁנֵ֣י]] [[H9009\|הַ]][[H3871\|לֻּחֹ֔ת]] [[H9001\|וָֽ]][[H7993\|אַשְׁלִכֵ֔]][[H9038\|ם]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H8147\|שְׁתֵּ֣י]] [[H3027G\|יָדָ֑]][[H9020\|י]] [[H9001\|וָ]][[H7665\|אֲשַׁבְּרֵ֖]][[H9038\|ם]] [[H9005\|לְ]][[H5869J\|עֵינֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.16|<< Deuteronomy 9:16]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.18|Deuteronomy 9:18 >>]]</td></tr></table>
 

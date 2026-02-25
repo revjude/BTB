@@ -1,10 +1,64 @@
+---
+title: 1 Corinthians 1:17
+type: Verse
+kjv: "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect."
+bsb: "For Christ did not send me to baptize, but to preach the gospel, not with words of wisdom, lest the cross of Christ be emptied of its power."
+greek: "οὐ γὰρ ἀπέστειλέν με Χριστὸς βαπτίζειν ἀλλ᾽ εὐαγγελίζεσθαι· οὐκ ἐν σοφίᾳ λόγου, ἵνα μὴ κενωθῇ ὁ σταυρὸς τοῦ Χριστοῦ.¶"
+pericope: "[[1Cor.1.10 Unity in the Church|Unity in the Church]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G0649]]"
+- "[[G3165]]"
+- "[[G5547]]"
+- "[[G0907]]"
+- "[[G0235]]"
+- "[[G2097]]"
+- "[[G1722]]"
+- "[[G4678]]"
+- "[[G3056]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G2758]]"
+- "[[G3588]]"
+- "[[G4716]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:17**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect.
 <small><sub>**BSB:**</sub></small>
 For Christ did not send me to baptize, but to preach the gospel, not with words of wisdom, lest the cross of Christ be emptied of its power.
-<small><sub>**Literal:**</sub></small>
-Not for sent me Christ to baptize but to evangelise; not in wisdom of discourse, that not may be emptied of power the cross of the Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.16|<< 1 Corinthians 1:16]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.18|1 Corinthians 1:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G0649\|ἀπέστειλέν]]  [[G3165\|με]]  [[G5547\|Χριστὸς]]  [[G0907\|βαπτίζειν]]  [[G0235\|ἀλλ᾽]]  [[G2097\|εὐαγγελίζεσθαι·]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G4678\|σοφίᾳ]]  [[G3056\|λόγου,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G2758\|κενωθῇ]]  [[G3588\|ὁ]]  [[G4716\|σταυρὸς]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BAPTISM|BAPTISM]] • [[topic BOASTING|BOASTING]] • [[topic CROSS|CROSS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic PREACHING|PREACHING]] • [[topic SUFFERING|SUFFERING]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.16|<< 1 Corinthians 1:16]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.18|1 Corinthians 1:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

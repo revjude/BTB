@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rejection and Flight of Moses
+type: Pericope
 pericope: "[[Acts.7.23 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Acts
 chapter: 7
 book/chapter: "[[Acts.7|Acts 7]]"
-genre:
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 7
 verses:
 - "[[Acts.7.23]]"
 - "[[Acts.7.24]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Acts.7.29]]"
 ---
 
-[[Acts.7|Acts 7:23 - Acts 7:29]]
+<small>[[Acts.7|Acts 7:23-29]]</small>
 *The Rejection and Flight of Moses*
 
 [[Acts.7.23|23]] And when he was full forty years old, it came into his heart to visit his brethren the children of Israel.

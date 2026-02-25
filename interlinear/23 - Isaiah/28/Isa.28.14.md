@@ -1,8 +1,63 @@
+---
+title: Isaiah 28:14
+type: Verse
+kjv: "Wherefore hear the word of the LORD, ye scornful men, that rule this people which is in Jerusalem."
+bsb: "Therefore hear the word of the LORD, O scoffers who rule this people in Jerusalem."
+hebrew: "לָכֵ֛ן שִׁמְע֥וּ דְבַר־ יְהוָ֖ה אַנְשֵׁ֣י לָצ֑וֹן מֹֽשְׁלֵי֙ הָעָ֣ם הַזֶּ֔ה אֲשֶׁ֖ר בִּירוּשָׁלִָֽם׃"
+pericope: "[[Isa.28.14 A Cornerstone in Zion|A Cornerstone in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0582]]"
+- "[[H3944]]"
+- "[[H4910]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:14**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore hear the word of the LORD, ye scornful men, that rule this people which [is] in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Therefore hear the word of the LORD, O scoffers who rule this people in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֛ן]] [[H8085G\|שִׁמְע֥וּ]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0582\|אַנְשֵׁ֣י]] [[H3944\|לָצ֑וֹן]] [[H4910\|מֹֽשְׁלֵי֙]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RULERS|RULERS]] • [[topic SCOFFING|SCOFFING]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.13|<< Isaiah 28:13]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.15|Isaiah 28:15 >>]]</td></tr></table>
 

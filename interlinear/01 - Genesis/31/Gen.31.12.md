@@ -1,8 +1,70 @@
+---
+title: Genesis 31:12
+type: Verse
+kjv: "And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle are ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee."
+bsb: "‘Look up,’ he said, ‘and see that all the males that are mating with the flock are streaked, spotted, or speckled; for I have seen all that Laban has done to you."
+hebrew: "וַיֹּ֗אמֶר שָׂא־ נָ֨א עֵינֶ֤יךָ וּרְאֵה֙ כָּל־ הָֽעַתֻּדִים֙ הָעֹלִ֣ים עַל־ הַצֹּ֔אן עֲקֻדִּ֥ים נְקֻדִּ֖ים וּבְרֻדִּ֑ים כִּ֣י רָאִ֔יתִי אֵ֛ת כָּל־ אֲשֶׁ֥ר לָבָ֖ן עֹ֥שֶׂה לָּֽךְ׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5375M]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H6260]]"
+- "[[H5927K]]"
+- "[[H5921A]]"
+- "[[H6629G]]"
+- "[[H6124]]"
+- "[[H5348]]"
+- "[[H1261]]"
+- "[[H3588A]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H3837A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:12**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle [are] ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee.
 <small><sub>**BSB:**</sub></small>
 ‘Look up,’ he said, ‘and see that all the males that are mating with the flock are streaked, spotted, or speckled; for I have seen all that Laban has done to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H5375M\|שָׂא]][[H9014\|־]] [[H4994\|נָ֨א]] [[H5869A\|עֵינֶ֤י]][[H9021\|ךָ]] [[H9002\|וּ]][[H7200G\|רְאֵה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָֽ]][[H6260\|עַתֻּדִים֙]] [[H9009\|הָ]][[H5927K\|עֹלִ֣ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֔אן]] [[H6124\|עֲקֻדִּ֥ים]] [[H5348\|נְקֻדִּ֖ים]] [[H9002\|וּ]][[H1261\|בְרֻדִּ֑ים]] [[H3588A\|כִּ֣י]] [[H7200G\|רָאִ֔יתִי]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H3837A\|לָבָ֖ן]] [[H6213A\|עֹ֥שֶׂה]] [[H9005\|לָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.11|<< Genesis 31:11]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.13|Genesis 31:13 >>]]</td></tr></table>
 

@@ -1,8 +1,82 @@
+---
+title: 2 Samuel 19:35
+type: Verse
+kjv: "I am this day fourscore years old: and can I discern between good and evil? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king?"
+bsb: "I am now eighty years old. Can I discern what is good and what is not? Can your servant taste what he eats or drinks? Can I still hear the voice of singing men and women? Why should your servant be an added burden to my lord the king?"
+hebrew: "בֶּן־ שְׁמֹנִ֣ים שָׁנָה֩ אָנֹכִ֨י הַיּ֜וֹם הַאֵדַ֣ע׀ בֵּין־ ט֣וֹב לְרָ֗ע אִם־ יִטְעַ֤ם עַבְדְּךָ֙ אֶת־ אֲשֶׁ֤ר אֹכַל֙ וְאֶת־ אֲשֶׁ֣ר אֶשְׁתֶּ֔ה אִם־ אֶשְׁמַ֣ע ע֔וֹד בְּק֖וֹל שָׁרִ֣ים וְשָׁר֑וֹת וְלָמָּה֩ יִֽהְיֶ֨ה עַבְדְּךָ֥ עוֹד֙ לְמַשָּׂ֔א אֶל־ אֲדֹנִ֖י הַמֶּֽלֶךְ׃"
+pericope: "[[2Sam.19.31 David’s Kindness to Barzillai|David’s Kindness to Barzillai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic TASTE|TASTE]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8084]]"
+- "[[H8141]]"
+- "[[H0595]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9008]]"
+- "[[H3045]]"
+- "[[H9015]]"
+- "[[H0996G]]"
+- "[[H2896B]]"
+- "[[H9005]]"
+- "[[H7451A]]"
+- "[[H0518I]]"
+- "[[H2938]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H8354]]"
+- "[[H8085G]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H7891]]"
+- "[[H4100]]"
+- "[[H1961]]"
+- "[[H4853A]]"
+- "[[H0413]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:35**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] this day fourscore years old: [and] can I discern between good and evil? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king?
 <small><sub>**BSB:**</sub></small>
 I am now eighty years old. Can I discern what is good and what is not? Can your servant taste what he eats or drinks? Can I still hear the voice of singing men and women? Why should your servant be an added burden to my lord the king?
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H8084\|שְׁמֹנִ֣ים]] [[H8141\|שָׁנָה֩]] [[H0595\|אָנֹכִ֨י]] [[H9009\|הַ]][[H3117L\|יּ֜וֹם]] [[H9008\|הַ]][[H3045\|אֵדַ֣ע]][[H9015\|׀]] [[H0996G\|בֵּין]][[H9014\|־]] [[H2896B\|ט֣וֹב]] [[H9005\|לְ]][[H7451A\|רָ֗ע]] [[H0518I\|אִם]][[H9014\|־]] [[H2938\|יִטְעַ֤ם]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0834A\|אֲשֶׁ֤ר]] [[H0398\|אֹכַל֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H8354\|אֶשְׁתֶּ֔ה]] [[H0518I\|אִם]][[H9014\|־]] [[H8085G\|אֶשְׁמַ֣ע]] [[H5750\|ע֔וֹד]] [[H9003\|בְּ]][[H6963A\|ק֖וֹל]] [[H7891\|שָׁרִ֣ים]] [[H9002\|וְ]][[H7891\|שָׁר֑וֹת]] [[H9002\|וְ]][[H9005\|לָ]][[H4100\|מָּה֩]] [[H1961\|יִֽהְיֶ֨ה]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H5750\|עוֹד֙]] [[H9005\|לְ]][[H4853A\|מַשָּׂ֔א]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic DAVID|DAVID]] • [[topic MUSIC|MUSIC]] • [[topic OLD AGE|OLD AGE]] • [[topic TASTE|TASTE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.34|<< 2 Samuel 19:34]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.36|2 Samuel 19:36 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws for Sin Offerings
+type: Pericope
 pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
-verse_count: 35
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 4
 book/chapter: "[[Lev.4|Leviticus 4]]"
-genre:
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 35
 verses:
 - "[[Lev.4.1]]"
 - "[[Lev.4.2]]"
@@ -58,7 +65,7 @@ verses:
 - "[[Lev.4.35]]"
 ---
 
-[[Lev.4|Leviticus 4:1 - Leviticus 4:35]]
+<small>[[Lev.4|Leviticus 4:1-35]]</small>
 *Laws for Sin Offerings*
 
 [[Lev.4.1|1]] And the LORD spake unto Moses, saying,

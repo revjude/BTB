@@ -1,8 +1,65 @@
+---
+title: Joshua 4:24
+type: Verse
+kjv: "That all the people of the earth might know the hand of the LORD, that it is mighty: that ye might fear the LORD your God for ever."
+bsb: "He did this so that all the peoples of the earth may know that the hand of the LORD is mighty, and so that you may always fear the LORD your God.”"
+hebrew: "לְ֠מַעַן דַּ֜עַת כָּל־ עַמֵּ֤י הָאָ֙רֶץ֙ אֶת־ יַ֣ד יְהוָ֔ה כִּ֥י חֲזָקָ֖ה הִ֑יא לְמַ֧עַן יְרָאתֶ֛ם אֶת־ יְהוָ֥ה אֱלֹהֵיכֶ֖ם כָּל־ הַיָּמִֽים׃ ס"
+pericope: "[[Josh.4.19 The Camp at Gilgal|The Camp at Gilgal]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAND|HAND]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H4616]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H3027H]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H2389]]"
+- "[[H1931]]"
+- "[[H3372H]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H3117K]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 4:24**<big><big>[[Josh.4.19 The Camp at Gilgal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That all the people of the earth might know the hand of the LORD, that it [is] mighty: that ye might fear the LORD your God for ever.
 <small><sub>**BSB:**</sub></small>
 He did this so that all the peoples of the earth may know that the hand of the LORD is mighty, and so that you may always fear the LORD your God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְ֠מַעַן]] [[H3045\|דַּ֜עַת]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמֵּ֤י]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3027H\|יַ֣ד]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֥י]] [[H2389\|חֲזָקָ֖ה]] [[H1931\|הִ֑יא]] [[H4616\|לְמַ֧עַן]] [[H3372H\|יְרָאתֶ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILGAL|GILGAL]] • [[topic GOD|GOD]] • [[topic HAND|HAND]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MIRACLES|MIRACLES]] • [[topic REVERENCE|REVERENCE]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.23|<< Joshua 4:23]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.1|Joshua 5:1 >>]]</td></tr></table>
 
@@ -25,7 +82,7 @@ He did this so that all the peoples of the earth may know that the hand of the L
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117K\|יָּמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the days  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117K\|יָּמִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Mim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.23|<< Joshua 4:23]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.1|Joshua 5:1 >>]]</td></tr></table>
 
 

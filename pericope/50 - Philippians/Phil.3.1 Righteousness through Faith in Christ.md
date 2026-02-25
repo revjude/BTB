@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Righteousness through Faith in Christ
+type: Pericope
 pericope: "[[Phil.3.1 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Philippians
 chapter: 3
 book/chapter: "[[Phil.3|Philippians 3]]"
-genre:
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - pastoral letter
+verse_count: 11
 verses:
 - "[[Phil.3.1]]"
 - "[[Phil.3.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Phil.3.11]]"
 ---
 
-[[Phil.3|Philippians 3:1 - Philippians 3:11]]
+<small>[[Phil.3|Philippians 3:1-11]]</small>
 *Righteousness through Faith in Christ*
 
 [[Phil.3.1|1]] Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed \[is\] not grievous, but for you \[it is\] safe.

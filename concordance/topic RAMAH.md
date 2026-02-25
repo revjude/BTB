@@ -5,7 +5,7 @@
 
 - A city allotted to the tribe of Benjamin [[Josh.18.25|Jos 18:25]]; [[Judg.19.13|Jud 19:13]]
 
-- Attempted fortification of, by King Baasha; destruction of, by  Asa [[1Kgs.15.17|1Ki 15:17]]-[[1Kgs.15.22|22]]; [[2Chr.16.1|2Ch 16:1]]-[[2Chr.16.6|6]]
+- Attempted fortification of, by King Baasha; destruction of, by  Asa [[1Kgs.15.17|1Ki 15:17-22]]; [[2Chr.16.1|2Ch 16:1-6]]
 
 - People of, return from the Babylonian captivity [[Ezra.2.26|Ezr 2:26]]; [[Neh.7.30|Ne 7:30]]; [[Neh.11.33|11:33]]
 

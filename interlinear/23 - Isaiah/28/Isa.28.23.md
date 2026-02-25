@@ -1,8 +1,50 @@
+---
+title: Isaiah 28:23
+type: Verse
+kjv: "Give ye ear, and hear my voice; hearken, and hear my speech."
+bsb: "Listen and hear my voice. Pay attention and hear what I say."
+hebrew: "הַאֲזִ֥ינוּ וְשִׁמְע֖וּ קוֹלִ֑י הַקְשִׁ֥יבוּ וְשִׁמְע֖וּ אִמְרָתִֽי׃"
+pericope: "[[Isa.28.23 Listen and Hear|Listen and Hear]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[H0238]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H7181]]"
+- "[[H0565A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:23**<big><big>[[Isa.28.23 Listen and Hear|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give ye ear, and hear my voice; hearken, and hear my speech.
 <small><sub>**BSB:**</sub></small>
 Listen and hear my voice. Pay attention and hear what I say.
+<small><sub>**Hebrew:**</sub></small>
+[[H0238\|הַאֲזִ֥ינוּ]] [[H9002\|וְ]][[H8085G\|שִׁמְע֖וּ]] [[H6963A\|קוֹלִ֑]][[H9020\|י]] [[H7181\|הַקְשִׁ֥יבוּ]] [[H9002\|וְ]][[H8085G\|שִׁמְע֖וּ]] [[H0565A\|אִמְרָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic PARABLES|PARABLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.22|<< Isaiah 28:22]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.24|Isaiah 28:24 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: Ezekiel 3:3
+type: Verse
+kjv: "And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat it; and it was in my mouth as honey for sweetness."
+bsb: "“Son of man,” He said to me, “eat and fill your stomach with this scroll I am giving you.” So I ate, and it was as sweet as honey in my mouth."
+hebrew: "וַיֹּ֣אמֶר אֵלַ֗י בֶּן־ אָדָם֙ בִּטְנְךָ֤ תַֽאֲכֵל֙ וּמֵעֶ֣יךָ תְמַלֵּ֔א אֵ֚ת הַמְּגִלָּ֣ה הַזֹּ֔את אֲשֶׁ֥ר אֲנִ֖י נֹתֵ֣ן אֵלֶ֑יךָ וָאֹ֣כְלָ֔ה וַתְּהִ֥י בְּפִ֖י כִּדְבַ֥שׁ לְמָתֽוֹק׃ פ"
+pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0990G]]"
+- "[[H9021]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H4578]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4039]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H5414G]]"
+- "[[H9031]]"
+- "[[H9012]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H1706]]"
+- "[[H9005]]"
+- "[[H4966]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 3:3**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels with this roll that I give thee. Then did I eat [it]; and it was in my mouth as honey for sweetness.
 <small><sub>**BSB:**</sub></small>
 “Son of man,” He said to me, “eat and fill your stomach with this scroll I am giving you.” So I ate, and it was as sweet as honey in my mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H0990G\|בִּטְנְ]][[H9021\|ךָ֤]] [[H0398\|תַֽאֲכֵל֙]] [[H9002\|וּ]][[H4578\|מֵעֶ֣י]][[H9021\|ךָ]] [[H4390\|תְמַלֵּ֔א]] [[H0853\|אֵ֚ת]] [[H9009\|הַ]][[H4039\|מְּגִלָּ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0834A\|אֲשֶׁ֥ר]] [[H0589\|אֲנִ֖י]] [[H5414G\|נֹתֵ֣ן]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H9001\|וָ]][[H0398\|אֹ֣כְלָ֔]][[H9012\|ה]] [[H9001\|וַ]][[H1961\|תְּהִ֥י]] [[H9003\|בְּ]][[H6310G\|פִ֖]][[H9020\|י]] [[H9004\|כִּ]][[H1706\|דְבַ֥שׁ]] [[H9005\|לְ]][[H4966\|מָתֽוֹק]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.2|<< Ezekiel 3:2]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.4|Ezekiel 3:4 >>]]</td></tr></table>
 
@@ -27,7 +95,7 @@ And he said unto me, Son of man, cause thy belly to eat, and fill thy bowels wit
 | and it was  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|תְּהִ֥י]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> te.Hi<small><sup>[[HVqw3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in mouth my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6310G\|פִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> F<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like honey  |**<big>&#8207;[[H9004\|כִּ]]&#8207;&#8207;[[H1706\|דְבַ֥שׁ]]&#8207; </big>**| ki<small><sup>[[HR]]</sup></small> d.Vash<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to sweet  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4966\|מָתֽוֹק]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Tok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to sweet  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4966\|מָתֽוֹק]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Tok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.2|<< Ezekiel 3:2]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.4|Ezekiel 3:4 >>]]</td></tr></table>
 
 

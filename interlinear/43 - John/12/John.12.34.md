@@ -1,10 +1,67 @@
+---
+title: John 12:34
+type: Verse
+kjv: "The people answered him, We have heard out of the law that Christ abideth for ever: and how sayest thou, The Son of man must be lifted up? who is this Son of man?"
+bsb: "The crowd replied, “We have heard from the Law that the Christ will remain forever. So how can You say that the Son of Man must be lifted up? Who is this Son of Man?”"
+greek: "Ἀπεκρίθη οὖν αὐτῷ ὁ ὄχλος· ἡμεῖς ἠκούσαμεν ἐκ τοῦ νόμου ὅτι ὁ χριστὸς μένει εἰς τὸν αἰῶνα, καὶ πῶς λέγεις σὺ ὅτι δεῖ ὑψωθῆναι τὸν υἱὸν τοῦ ἀνθρώπου; τίς ἐστιν οὗτος ὁ υἱὸς τοῦ ἀνθρώπου;¶"
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3165]]"
+- "[[G0191]]"
+- "[[G1537]]"
+- "[[G3551]]"
+- "[[G3754G]]"
+- "[[G5547]]"
+- "[[G3306]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+- "[[G2532]]"
+- "[[G4459]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1163]]"
+- "[[G5312]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3778]]"
+texts:
+- NKO
+- NO
+---
+
 **John 12:34**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The people answered him, We have heard out of the law that Christ abideth for ever: and how sayest thou, The Son of man must be lifted up? who is this Son of man?
 <small><sub>**BSB:**</sub></small>
 The crowd replied, “We have heard from the Law that the Christ will remain forever. So how can You say that the Son of Man must be lifted up? Who is this Son of Man?”
-<small><sub>**Literal:**</sub></small>
-Answered therefore to Him the crowd; We ourselves heard from the law that the Christ abides to the age, and how say you yourself that it behooves to be lifted up the Son <the> of Man? Who is this <the> Son <the> of Man?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.33|<< John 12:33]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.35|John 12:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος·]]  [[G3165\|ἡμεῖς]]  [[G0191\|ἠκούσαμεν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3306\|μένει]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα,]]  [[G2532\|καὶ]]  [[G4459\|πῶς]]  [[G3004G\|λέγεις]]  [[G4771\|σὺ]]  [[G3754G\|ὅτι]]  [[G1163\|δεῖ]]  [[G5312\|ὑψωθῆναι]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου;]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3778\|οὗτος]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.33|<< John 12:33]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.35|John 12:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 12:34** is...
 > $\quad$ alluding to: [[LXX.2Sam.7.13|2Sam 7:13]] ☩ [[LXX.Ps.89.30|Ps 89:30]] ☩ [[LXX.Ps.110.4|Ps 110:4]] ☩ [[LXX.Isa.9.7|Isa 9:7]]

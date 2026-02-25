@@ -1,10 +1,67 @@
+---
+title: Philippians 2:12
+type: Verse
+kjv: "Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling."
+bsb: "Therefore, my beloved, just as you have always obeyed, not only in my presence, but now even more in my absence, continue to work out your salvation with fear and trembling."
+greek: "Ὥστε, ἀγαπητοί μου, καθὼς πάντοτε ὑπηκούσατε, μὴ ὡς ἐν τῇ παρουσίᾳ μου μόνον ἀλλὰ νῦν πολλῷ μᾶλλον ἐν τῇ ἀπουσίᾳ μου, μετὰ φόβου καὶ τρόμου τὴν ἑαυτῶν σωτηρίαν κατεργάζεσθε·"
+pericope: "[[Phil.2.12 Lights in the World|Lights in the World]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G5620]]"
+- "[[G0027]]"
+- "[[G3165]]"
+- "[[G2531]]"
+- "[[G3842]]"
+- "[[G5219]]"
+- "[[G3361]]"
+- "[[G5613]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3952]]"
+- "[[G3441]]"
+- "[[G0235]]"
+- "[[G3568]]"
+- "[[G4183]]"
+- "[[G3123G]]"
+- "[[G0666]]"
+- "[[G3326]]"
+- "[[G5401]]"
+- "[[G2532]]"
+- "[[G5156]]"
+- "[[G1438]]"
+- "[[G4991]]"
+- "[[G2716]]"
+texts:
+- NKO
+---
+
 **Philippians 2:12**<big><big>[[Phil.2.12 Lights in the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.
 <small><sub>**BSB:**</sub></small>
 Therefore, my beloved, just as you have always obeyed, not only in my presence, but now even more in my absence, continue to work out your salvation with fear and trembling.
-<small><sub>**Literal:**</sub></small>
-Therefore, beloved of mine, even as always you have obeyed, not as in the presence of me only but now much more in the absence of me, with fear and trembling <the> your own salvation do work out;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.11|<< Philippians 2:11]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.13|Philippians 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|Ὥστε,]]  [[G0027\|ἀγαπητοί]]  [[G3165\|μου,]]  [[G2531\|καθὼς]]  [[G3842\|πάντοτε]]  [[G5219\|ὑπηκούσατε,]]  [[G3361\|μὴ]]  [[G5613\|ὡς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3952\|παρουσίᾳ]]  [[G3165\|μου]]  [[G3441\|μόνον]]  [[G0235\|ἀλλὰ]]  [[G3568\|νῦν]]  [[G4183\|πολλῷ]]  [[G3123G\|μᾶλλον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0666\|ἀπουσίᾳ]]  [[G3165\|μου,]]  [[G3326\|μετὰ]]  [[G5401\|φόβου]]  [[G2532\|καὶ]]  [[G5156\|τρόμου]]  [[G3588\|τὴν]]  [[G1438\|ἑαυτῶν]]  [[G4991\|σωτηρίαν]]  [[G2716\|κατεργάζεσθε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.11|<< Philippians 2:11]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.13|Philippians 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

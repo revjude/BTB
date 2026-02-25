@@ -1,8 +1,75 @@
+---
+title: Exodus 12:16
+type: Verse
+kjv: "And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you."
+bsb: "On the first day you are to hold a sacred assembly, and another on the seventh day. You must not do any work on those days, except to prepare the meals—that is all you may do."
+hebrew: "וּבַיּ֤וֹם הָרִאשׁוֹן֙ מִקְרָא־ קֹ֔דֶשׁ וּבַיּוֹם֙ הַשְּׁבִיעִ֔י מִקְרָא־ קֹ֖דֶשׁ יִהְיֶ֣ה לָכֶ֑ם כָּל־ מְלָאכָה֙ לֹא־ יֵעָשֶׂ֣ה בָהֶ֔ם אַ֚ךְ אֲשֶׁ֣ר יֵאָכֵ֣ל לְכָל־ נֶ֔פֶשׁ ה֥וּא לְבַדּ֖וֹ יֵעָשֶׂ֥ה לָכֶֽם׃"
+pericope: "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H7637]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H0389]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H5315J]]"
+- "[[H1931]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:16**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the first day [there shall be] an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save [that] which every man must eat, that only may be done of you.
 <small><sub>**BSB:**</sub></small>
 On the first day you are to hold a sacred assembly, and another on the seventh day. You must not do any work on those days, except to prepare the meals—that is all you may do.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֤וֹם]] [[H9009\|הָ]][[H7223G\|רִאשׁוֹן֙]] [[H4744\|מִקְרָא]][[H9014\|־]] [[H6944G\|קֹ֔דֶשׁ]] [[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּוֹם֙]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔י]] [[H4744\|מִקְרָא]][[H9014\|־]] [[H6944G\|קֹ֖דֶשׁ]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלָאכָה֙]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|יֵעָשֶׂ֣ה]] [[H9003\|בָ]][[H9038\|הֶ֔ם]] [[H0389\|אַ֚ךְ]] [[H0834A\|אֲשֶׁ֣ר]] [[H0398\|יֵאָכֵ֣ל]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5315J\|נֶ֔פֶשׁ]] [[H1931\|ה֥וּא]] [[H9005\|לְ]][[H0905H\|בַדּ֖]][[H9033\|וֹ]] [[H6213H\|יֵעָשֶׂ֥ה]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.15|<< Exodus 12:15]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.17|Exodus 12:17 >>]]</td></tr></table>
 

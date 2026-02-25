@@ -1,8 +1,78 @@
+---
+title: Leviticus 22:4
+type: Verse
+kjv: "What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;"
+bsb: "If a descendant of Aaron has a skin disease or a discharge, he may not eat the sacred offerings until he is clean. Whoever touches anything defiled by a corpse or by a man who has an emission of semen,"
+hebrew: "אִ֣ישׁ אִ֞ישׁ מִזֶּ֣רַע אַהֲרֹ֗ן וְה֤וּא צָר֙וּעַ֙ א֣וֹ זָ֔ב בַּקֳּדָשִׁים֙ לֹ֣א יֹאכַ֔ל עַ֖ד אֲשֶׁ֣ר יִטְהָ֑ר וְהַנֹּגֵ֙עַ֙ בְּכָל־ טְמֵא־ נֶ֔פֶשׁ א֣וֹ אִ֔ישׁ אֲשֶׁר־ תֵּצֵ֥א מִמֶּ֖נּוּ שִׁכְבַת־ זָֽרַע׃"
+pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6879]]"
+- "[[H0176A]]"
+- "[[H2100H]]"
+- "[[H9003]]"
+- "[[H6944G]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H2891]]"
+- "[[H9009]]"
+- "[[H5060]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2931]]"
+- "[[H5315M]]"
+- "[[H0376I]]"
+- "[[H3318L]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H7902]]"
+- "[[H2233I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:4**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What man soever of the seed of Aaron [is] a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing [that is] unclean [by] the dead, or a man whose seed goeth from him;
 <small><sub>**BSB:**</sub></small>
 If a descendant of Aaron has a skin disease or a discharge, he may not eat the sacred offerings until he is clean. Whoever touches anything defiled by a corpse or by a man who has an emission of semen,
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִ֣ישׁ]] [[H0376G\|אִ֞ישׁ]] [[H9006\|מִ]][[H2233H\|זֶּ֣רַע]] [[H0175\|אַהֲרֹ֗ן]] [[H9002\|וְ]][[H1931\|ה֤וּא]] [[H6879\|צָר֙וּעַ֙]] [[H0176A\|א֣וֹ]] [[H2100H\|זָ֔ב]] [[H9003\|בַּ]][[H6944G\|קֳּדָשִׁים֙]] [[H3808\|לֹ֣א]] [[H0398\|יֹאכַ֔ל]] [[H5704\|עַ֖ד]] [[H0834A\|אֲשֶׁ֣ר]] [[H2891\|יִטְהָ֑ר]] [[H9002\|וְ]][[H9009\|הַ]][[H5060\|נֹּגֵ֙עַ֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2931\|טְמֵא]][[H9014\|־]] [[H5315M\|נֶ֔פֶשׁ]] [[H0176A\|א֣וֹ]] [[H0376I\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318L\|תֵּצֵ֥א]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H7902\|שִׁכְבַת]][[H9014\|־]] [[H2233I\|זָֽרַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic DISEASE|DISEASE]] • [[topic LEPROSY|LEPROSY]] • [[topic SANITATION|SANITATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.3|<< Leviticus 22:3]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.5|Leviticus 22:5 >>]]</td></tr></table>
 

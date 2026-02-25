@@ -1,8 +1,67 @@
+---
+title: Isaiah 39:1
+type: Verse
+kjv: "At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered."
+bsb: "At that time Merodach-baladan son of Baladan king of Babylon sent letters and a gift to Hezekiah, for he had heard about Hezekiah’s illness and recovery."
+hebrew: "בָּעֵ֣ת הַהִ֡וא שָׁלַ֡ח מְרֹדַ֣ךְ בַּ֠לְאֲדָן בֶּֽן־ בַּלְאֲדָ֧ן מֶֽלֶךְ־ בָּבֶ֛ל סְפָרִ֥ים וּמִנְחָ֖ה אֶל־ חִזְקִיָּ֑הוּ וַיִּשְׁמַ֕ע כִּ֥י חָלָ֖ה וַֽיֶּחֱזָֽק׃"
+pericope: "[[Isa.39.1 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 39
+book/chapter: "[[Isa.39|Isaiah 39]]"
+chronological_order: 666
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic MERODACH-BALADAN|MERODACH-BALADAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H7971G]]"
+- "[[H4757]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1081]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H5612A]]"
+- "[[H9002]]"
+- "[[H4503H]]"
+- "[[H0413]]"
+- "[[H2396G]]"
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3588A]]"
+- "[[H2470H]]"
+- "[[H2388G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 39:1**<big><big>[[Isa.39.1 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At that time Merodachbaladan, the son of Baladan, king of Babylon, sent letters and a present to Hezekiah: for he had heard that he had been sick, and was recovered.
 <small><sub>**BSB:**</sub></small>
 At that time Merodach-baladan son of Baladan king of Babylon sent letters and a gift to Hezekiah, for he had heard about Hezekiah’s illness and recovery.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֡וא]] [[H7971G\|שָׁלַ֡ח]] [[H4757\|מְרֹדַ֣ךְ]] [[H4757\|בַּ֠לְאֲדָן]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H1081\|בַּלְאֲדָ֧ן]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H5612A\|סְפָרִ֥ים]] [[H9002\|וּ]][[H4503H\|מִנְחָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֑הוּ]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַ֕ע]] [[H3588A\|כִּ֥י]] [[H2470H\|חָלָ֖ה]] [[H9001\|וַֽ]][[H2388G\|יֶּחֱזָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic ISAIAH|ISAIAH]] • [[topic LETTERS|LETTERS]] • [[topic MERODACH-BALADAN|MERODACH-BALADAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.39.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.22|<< Isaiah 38:22]]</td><td align="center" style="border:none;">[[Isa.39|Isaiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.39.2|Isaiah 39:2 >>]]</td></tr></table>
 

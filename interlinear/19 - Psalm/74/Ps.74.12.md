@@ -1,8 +1,57 @@
+---
+title: Psalm 74:12
+type: Verse
+kjv: "For God is my King of old, working salvation in the midst of the earth."
+bsb: "Yet God is my King from ancient times, working salvation on the earth."
+hebrew: "וֵ֭אלֹהִים מַלְכִּ֣י מִקֶּ֑דֶם פֹּעֵ֥ל יְ֝שׁוּע֗וֹת בְּקֶ֣רֶב הָאָֽרֶץ׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H4428G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H6924H]]"
+- "[[H6466]]"
+- "[[H3444]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 74:12**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For God [is] my King of old, working salvation in the midst of the earth.
 <small><sub>**BSB:**</sub></small>
 Yet God is my King from ancient times, working salvation on the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וֵ֭]][[H0430G\|אלֹהִים]] [[H4428G\|מַלְכִּ֣]][[H9020\|י]] [[H9006\|מִ]][[H6924H\|קֶּ֑דֶם]] [[H6466\|פֹּעֵ֥ל]] [[H3444\|יְ֝שׁוּע֗וֹת]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.11|<< Psalms 74:11]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.13|Psalms 74:13 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Luke 8:3
+type: Verse
+kjv: "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance."
+bsb: "Joanna the wife of Herod’s household manager Chuza, Susanna, and many others. These women were ministering to them out of their own means."
+greek: "καὶ Ἰωάννα γυνὴ Χουζᾶ ἐπιτρόπου Ἡρῴδου καὶ Σουσάννα καὶ ἕτεραι πολλαὶ αἵτινες διηκόνουν αὐτοῖς ἐκ τῶν ὑπαρχόντων αὐταῖς.¶"
+pericope: "[[Luke.8.1 Women Minister to Jesus|Women Minister to Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHUZA|CHUZA]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOANNA|JOANNA]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic SUSANNA|SUSANNA]]"
+strongs:
+- "[[G2532]]"
+- "[[G2489]]"
+- "[[G1135H]]"
+- "[[G5529]]"
+- "[[G2012]]"
+- "[[G2264H]]"
+- "[[G4677]]"
+- "[[G2087]]"
+- "[[G4183]]"
+- "[[G3748]]"
+- "[[G1247]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5225]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 8:3**<big><big>[[Luke.8.1 Women Minister to Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance.
 <small><sub>**BSB:**</sub></small>
 Joanna the wife of Herod’s household manager Chuza, Susanna, and many others. These women were ministering to them out of their own means.
-<small><sub>**Literal:**</sub></small>
-and Joanna wife of Chuza a steward of Herod and Susanna and others many who were ministering to them out of the possessions of theirs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.2|<< Luke 8:2]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.4|Luke 8:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2489\|Ἰωάννα]]  [[G1135H\|γυνὴ]]  [[G5529\|Χουζᾶ]]  [[G2012\|ἐπιτρόπου]]  [[G2264H\|Ἡρῴδου]]  [[G2532\|καὶ]]  [[G4677\|Σουσάννα]]  [[G2532\|καὶ]]  [[G2087\|ἕτεραι]]  [[G4183\|πολλαὶ]]  [[G3748\|αἵτινες]]  [[G1247\|διηκόνουν]]  [[G0846\|αὐτοῖς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G5225\|ὑπαρχόντων]]  [[G0846\|αὐταῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHUZA|CHUZA]] • [[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOANNA|JOANNA]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic STEWARD|STEWARD]] • [[topic SUSANNA|SUSANNA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.2|<< Luke 8:2]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.4|Luke 8:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

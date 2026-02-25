@@ -1,10 +1,62 @@
+---
+title: Acts 12:13
+type: Verse
+kjv: "And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda."
+bsb: "He knocked at the outer gate, and a servant girl named Rhoda came to answer it."
+greek: "κρούσαντος δὲ τοῦ αὐτοῦ τὴν θύραν τοῦ πυλῶνος προσῆλθεν παιδίσκη ὑπακοῦσαι ὀνόματι Ῥόδη·"
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RHODA|RHODA]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2925]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G2374]]"
+- "[[G4440]]"
+- "[[G4334]]"
+- "[[G3814]]"
+- "[[G5219]]"
+- "[[G3686]]"
+- "[[G4498]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Acts 12:13**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.
 <small><sub>**BSB:**</sub></small>
 He knocked at the outer gate, and a servant girl named Rhoda came to answer it.
-<small><sub>**Literal:**</sub></small>
-When was knocking then <the> he [at] the door of the gate came a girl to answer named Rhoda;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.12|<< Acts 12:12]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.14|Acts 12:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2925\|κρούσαντος]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G2374\|θύραν]]  [[G3588\|τοῦ]]  [[G4440\|πυλῶνος]]  [[G4334\|προσῆλθεν]]  [[G3814\|παιδίσκη]]  [[G5219\|ὑπακοῦσαι]]  [[G3686\|ὀνόματι]]  [[G4498\|Ῥόδη·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic RHODA|RHODA]] • [[topic RULERS|RULERS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.12|<< Acts 12:12]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.14|Acts 12:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

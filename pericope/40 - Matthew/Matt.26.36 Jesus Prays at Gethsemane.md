@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Prays at Gethsemane
+type: Pericope
 pericope: "[[Matt.26.36 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 26
 book/chapter: "[[Matt.26|Matthew 26]]"
-genre:
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.26.36]]"
 - "[[Matt.26.37]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.26.46]]"
 ---
 
-[[Matt.26|Matthew 26:36 - Matthew 26:46]]
+<small>[[Matt.26|Matthew 26:36-46]]</small>
 *Jesus Prays at Gethsemane*
 
 [[Matt.26.36|36]] Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit ye here, while I go and pray yonder.

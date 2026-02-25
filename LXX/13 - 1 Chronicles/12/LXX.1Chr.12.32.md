@@ -1,6 +1,63 @@
+---
+title: LXX 1 Chronicles 12:32
+type: Verse
+lxx: "And of the sons of Issachar, ones perceiving with understanding concerning the times, knowing what Israel shall do in  their companies -- two hundred; and all their brethren with them."
+greek: "και από των υιών Ισσάχαρ γινώσκοντες σύνεσιν εις τους καιρούς γινώσκοντες τι ποιήσει Ισραήλ εις τας αρχάς αυτών διακόσιοι και πάντες αδελφοί αυτών μετ΄ αυτών"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2466]]"
+- "[[G1097]]"
+- "[[G4907]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1097]]"
+- "[[G5100]]"
+- "[[G4160]]"
+- "[[G2474]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0746]]"
+- "[[G1473]]"
+- "[[G1250]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G3326]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Chronicles 12:32** 
 <small><sub>**LXX:**</sub></small>
 And of the sons of Issachar, ones perceiving with understanding concerning the times, knowing what Israel shall do in  their companies -- two hundred; and all their brethren with them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0575\|από]] [[G3588\|των]] [[G5207\|υιών]] [[G2466\|Ισσάχαρ]] [[G1097\|γινώσκοντες]] [[G4907\|σύνεσιν]] [[G1519\|εις]] [[G3588\|τους]] [[G2540\|καιρούς]] [[G1097\|γινώσκοντες]] [[G5100\|τι]] [[G4160\|ποιήσει]] [[G2474\|Ισραήλ]] [[G1519\|εις]] [[G3588\|τας]] [[G0746\|αρχάς]] [[G1473\|αυτών]] [[G1250\|διακόσιοι]] [[G2532\|και]] [[G3956\|πάντες]] [[G0080\|αδελφοί]] [[G1473\|αυτών]] [[G3326\|μετ΄]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ISRAEL|ISRAEL]] • [[topic ISSACHAR|ISSACHAR]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.12.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.31|<< 1 Chronicles 12:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.33|1 Chronicles 12:33 >>]]</td></tr></table>
 
@@ -28,6 +85,6 @@ And of the sons of Issachar, ones perceiving with understanding concerning the t
 | their brethren | **<big>[[G0080\|αδελφοί]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 | with | **<big>[[G3326\|μετ΄]]</big>** |
 | them. | **<big>[[G1473\|αυτών]]</big>** |
-[[1Chr.12.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.31|<< 1 Chronicles 12:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.33|1 Chronicles 12:33 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.12.31|<< 1 Chronicles 12:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.12.33|1 Chronicles 12:33 >>]]</td></tr></table>
 
 

@@ -1,10 +1,61 @@
+---
+title: 2 John 1:12
+type: Verse
+kjv: "Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full."
+bsb: "I have many things to write to you, but I would prefer not to do so with paper and ink. Instead, I hope to come and speak with you face to face, so that our joy may be complete."
+greek: "Πολλὰ ἔχων ὑμῖν γράφειν οὐκ ἐβουλήθην διὰ χάρτου καὶ μέλανος· ἀλλ᾽ ἐλπίζω γενέσθαι πρὸς ὑμᾶς καὶ στόμα πρὸς στόμα λαλῆσαι ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη ᾖ."
+pericope: "[[2John.1.12 Conclusion|Conclusion]]"
+original_language: Greek
+testament: New
+book: 2 John
+chapter: 1
+book/chapter: "[[2John.1|2 John 1]]"
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+- polemical
+strongs:
+- "[[G4183]]"
+- "[[G2192]]"
+- "[[G4771]]"
+- "[[G1125]]"
+- "[[G3756]]"
+- "[[G1014]]"
+- "[[G1223]]"
+- "[[G5489]]"
+- "[[G2532]]"
+- "[[G3188]]"
+- "[[G0235]]"
+- "[[G1679]]"
+- "[[G1096]]"
+- "[[G4314]]"
+- "[[G4750]]"
+- "[[G2980]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G5479]]"
+- "[[G3165]]"
+- "[[G4137]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **2 John 1:12**<big><big>[[2John.1.12 Conclusion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having many things to write unto you, I would not [write] with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full.
 <small><sub>**BSB:**</sub></small>
 I have many things to write to you, but I would prefer not to do so with paper and ink. Instead, I hope to come and speak with you face to face, so that our joy may be complete.
-<small><sub>**Literal:**</sub></small>
-Many things having to you to write not I purposed with paper and ink; but I hope to come to you and mouth to mouth to speak so that the joy of us completed may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.11|<< 2 John 1:11]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.13|2 John 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|Πολλὰ]]  [[G2192\|ἔχων]]  [[G4771\|ὑμῖν]]  [[G1125\|γράφειν]]  [[G3756\|οὐκ]]  [[G1014\|ἐβουλήθην]]  [[G1223\|διὰ]]  [[G5489\|χάρτου]]  [[G2532\|καὶ]]  [[G3188\|μέλανος·]]  [[G0235\|ἀλλ᾽]]  [[G1679\|ἐλπίζω]]  [[G1096\|γενέσθαι]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G4750\|στόμα]]  [[G4314\|πρὸς]]  [[G4750\|στόμα]]  [[G2980\|λαλῆσαι]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G5479\|χαρὰ]]  [[G3165\|ἡμῶν]]  [[G4137\|πεπληρωμένη]]  [[G1510\|ᾖ.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.11|<< 2 John 1:11]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.13|2 John 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The God of All Comfort
+type: Pericope
 pericope: "[[2Cor.1.3 The God of All Comfort|The God of All Comfort]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 1
 book/chapter: "[[2Cor.1|2 Corinthians 1]]"
-genre:
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 9
 verses:
 - "[[2Cor.1.3]]"
 - "[[2Cor.1.4]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Cor.1.11]]"
 ---
 
-[[2Cor.1|2 Corinthians 1:3 - 2 Corinthians 1:11]]
+<small>[[2Cor.1|2 Corinthians 1:3-11]]</small>
 *The God of All Comfort*
 
 [[2Cor.1.3|3]] Blessed \[be\] God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;

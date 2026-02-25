@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 8:5
+type: Verse
+kjv: "And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men."
+bsb: "When the Arameans of Damascus came to help King Hadadezer of Zobah, David struck down twenty-two thousand of their men."
+hebrew: "וַתָּבֹא֙ אֲרַ֣ם דַּמֶּ֔שֶׂק לַעְזֹ֕ר לַהֲדַדְעֶ֖זֶר מֶ֣לֶךְ צוֹבָ֑ה וַיַּ֤ךְ דָּוִד֙ בַּֽאֲרָ֔ם עֶשְׂרִֽים־ וּשְׁנַ֥יִם אֶ֖לֶף אִֽישׁ׃"
+pericope: "[[2Sam.8.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 8
+book/chapter: "[[2Sam.8|2 Samuel 8]]"
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0758I]]"
+- "[[H1834]]"
+- "[[H9005]]"
+- "[[H5826]]"
+- "[[H1909]]"
+- "[[H4428G]]"
+- "[[H6678G]]"
+- "[[H5221]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H6242]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 8:5**<big><big>[[2Sam.8.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men.
 <small><sub>**BSB:**</sub></small>
 When the Arameans of Damascus came to help King Hadadezer of Zobah, David struck down twenty-two thousand of their men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|תָּבֹא֙]] [[H0758I\|אֲרַ֣ם]] [[H1834\|דַּמֶּ֔שֶׂק]] [[H9005\|לַ]][[H5826\|עְזֹ֕ר]] [[H9005\|לַ]][[H1909\|הֲדַדְעֶ֖זֶר]] [[H4428G\|מֶ֣לֶךְ]] [[H6678G\|צוֹבָ֑ה]] [[H9001\|וַ]][[H5221\|יַּ֤ךְ]] [[H1732\|דָּוִד֙]] [[H9003\|בַּֽ]][[H0758I\|אֲרָ֔ם]] [[H6242\|עֶשְׂרִֽים]][[H9014\|־]] [[H9002\|וּ]][[H8147\|שְׁנַ֥יִם]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAMASCUS|DAMASCUS]] • [[topic HADADEZER|HADADEZER]] • [[topic SYRIA|SYRIA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.8.4|<< 2 Samuel 8:4]]</td><td align="center" style="border:none;">[[2Sam.8|2 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.8.6|2 Samuel 8:6 >>]]</td></tr></table>
 

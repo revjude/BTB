@@ -1,8 +1,70 @@
+---
+title: Judges 7:15
+type: Verse
+kjv: "And it was so, when Gideon heard the telling of the dream, and the interpretation thereof, that he worshipped, and returned into the host of Israel, and said, Arise; for the LORD hath delivered into your hand the host of Midian."
+bsb: "When Gideon heard the dream and its interpretation, he bowed in worship. He returned to the camp of Israel and said, “Get up, for the LORD has delivered the camp of Midian into your hand.”"
+hebrew: "וַיְהִי֩ כִשְׁמֹ֨עַ גִּדְע֜וֹן אֶת־ מִסְפַּ֧ר הַחֲל֛וֹם וְאֶת־ שִׁבְר֖וֹ וַיִּשְׁתָּ֑חוּ וַיָּ֙שָׁב֙ אֶל־ מַחֲנֵ֣ה יִשְׂרָאֵ֔ל וַיֹּ֣אמֶר ק֔וּמוּ כִּֽי־ נָתַ֧ן יְהוָ֛ה בְּיֶדְכֶ֖ם אֶת־ מַחֲנֵ֥ה מִדְיָֽן׃"
+pericope: "[[Judg.7.15 Gideon Defeats Midian|Gideon Defeats Midian]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic PITCHER|PITCHER]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H1439]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4557]]"
+- "[[H9009]]"
+- "[[H2472]]"
+- "[[H9002]]"
+- "[[H7667]]"
+- "[[H9023]]"
+- "[[H7812]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H4264]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H6965B]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9026]]"
+- "[[H4080H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:15**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], when Gideon heard the telling of the dream, and the interpretation thereof, that he worshipped, and returned into the host of Israel, and said, Arise; for the LORD hath delivered into your hand the host of Midian.
 <small><sub>**BSB:**</sub></small>
 When Gideon heard the dream and its interpretation, he bowed in worship. He returned to the camp of Israel and said, “Get up, for the LORD has delivered the camp of Midian into your hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כִ]][[H8085G\|שְׁמֹ֨עַ]] [[H1439\|גִּדְע֜וֹן]] [[H0853\|אֶת]][[H9014\|־]] [[H4557\|מִסְפַּ֧ר]] [[H9009\|הַ]][[H2472\|חֲל֛וֹם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7667\|שִׁבְר֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H7812\|יִּשְׁתָּ֑חוּ]] [[H9001\|וַ]][[H7725G\|יָּ֙שָׁב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4264\|מַחֲנֵ֣ה]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H6965B\|ק֔וּמוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתַ֧ן]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9026\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4264\|מַחֲנֵ֥ה]] [[H4080H\|מִדְיָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic PITCHER|PITCHER]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.14|<< Judges 7:14]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.16|Judges 7:16 >>]]</td></tr></table>
 

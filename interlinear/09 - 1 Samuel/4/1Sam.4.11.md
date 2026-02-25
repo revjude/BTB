@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 4:11
+type: Verse
+kjv: "And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain."
+bsb: "The ark of God was captured, and Eli’s two sons, Hophni and Phinehas, died."
+hebrew: "וַאֲר֥וֹן אֱלֹהִ֖ים נִלְקָ֑ח וּשְׁנֵ֤י בְנֵֽי־ עֵלִי֙ מֵ֔תוּ חָפְנִ֖י וּפִֽינְחָֽס׃"
+pericope: "[[1Sam.4.1 The Philistines Capture the Ark|The Philistines Capture the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic ARK|ARK]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H3947G]]"
+- "[[H8147]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5941]]"
+- "[[H4191]]"
+- "[[H2652]]"
+- "[[H6372H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 4:11**<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ark of God was taken; and the two sons of Eli, Hophni and Phinehas, were slain.
 <small><sub>**BSB:**</sub></small>
 The ark of God was captured, and Eli’s two sons, Hophni and Phinehas, died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0727\|אֲר֥וֹן]] [[H0430G\|אֱלֹהִ֖ים]] [[H3947G\|נִלְקָ֑ח]] [[H9002\|וּ]][[H8147\|שְׁנֵ֤י]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H5941\|עֵלִי֙]] [[H4191\|מֵ֔תוּ]] [[H2652\|חָפְנִ֖י]] [[H9002\|וּ]][[H6372H\|פִֽינְחָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic ARK|ARK]] • [[topic ARMIES|ARMIES]] • [[topic ELI|ELI]] • [[topic HOPHNI|HOPHNI]] • [[topic ISRAEL|ISRAEL]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.10|<< 1 Samuel 4:10]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.12|1 Samuel 4:12 >>]]</td></tr></table>
 

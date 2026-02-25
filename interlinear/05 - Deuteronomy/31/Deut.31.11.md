@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 31:11
+type: Verse
+kjv: "When all Israel is come to appear before the LORD thy God in the place which he shall choose, thou shalt read this law before all Israel in their hearing."
+bsb: "when all Israel comes before the LORD your God at the place He will choose, you are to read this law in the hearing of all Israel."
+hebrew: "בְּב֣וֹא כָל־ יִשְׂרָאֵ֗ל לֵרָאוֹת֙ אֶת־ פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בַּמָּק֖וֹם אֲשֶׁ֣ר יִבְחָ֑ר תִּקְרָ֞א אֶת־ הַתּוֹרָ֥ה הַזֹּ֛את נֶ֥גֶד כָּל־ יִשְׂרָאֵ֖ל בְּאָזְנֵיהֶֽם׃"
+pericope: "[[Deut.31.9 The Reading of the Law|The Reading of the Law]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H0854]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H7121J]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8451]]"
+- "[[H2063]]"
+- "[[H5048]]"
+- "[[H0241H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:11**<big><big>[[Deut.31.9 The Reading of the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When all Israel is come to appear before the LORD thy God in the place which he shall choose, thou shalt read this law before all Israel in their hearing.
 <small><sub>**BSB:**</sub></small>
 when all Israel comes before the LORD your God at the place He will choose, you are to read this law in the hearing of all Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0935G\|ב֣וֹא]] [[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9005\|לֵ]][[H7200G\|רָאוֹת֙]] [[H0854\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9003\|בַּ]][[H4725\|מָּק֖וֹם]] [[H0834A\|אֲשֶׁ֣ר]] [[H0977\|יִבְחָ֑ר]] [[H7121J\|תִּקְרָ֞א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8451\|תּוֹרָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H5048\|נֶ֥גֶד]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H0241H\|אָזְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic LAW|LAW]] • [[topic PRIEST|PRIEST]] • [[topic REVERENCE|REVERENCE]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SCHOOL|SCHOOL]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.10|<< Deuteronomy 31:10]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.12|Deuteronomy 31:12 >>]]</td></tr></table>
 

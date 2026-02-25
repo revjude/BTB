@@ -1,8 +1,65 @@
+---
+title: Leviticus 11:43
+type: Verse
+kjv: "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby."
+bsb: "Do not defile yourselves by any crawling creature; do not become unclean or defiled by them."
+hebrew: "אַל־ תְּשַׁקְּצוּ֙ אֶת־ נַפְשֹׁ֣תֵיכֶ֔ם בְּכָל־ הַשֶּׁ֖רֶץ הַשֹּׁרֵ֑ץ וְלֹ֤א תִֽטַּמְּאוּ֙ בָּהֶ֔ם וְנִטְמֵתֶ֖ם בָּֽם׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8262]]"
+- "[[H0853]]"
+- "[[H5315I]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H8318]]"
+- "[[H8317]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:43**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.
 <small><sub>**BSB:**</sub></small>
 Do not defile yourselves by any crawling creature; do not become unclean or defiled by them.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H8262\|תְּשַׁקְּצוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5315I\|נַפְשֹׁ֣תֵי]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8318\|שֶּׁ֖רֶץ]] [[H9009\|הַ]][[H8317\|שֹּׁרֵ֑ץ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H2930A\|תִֽטַּמְּאוּ֙]] [[H9003\|בָּ]][[H9038\|הֶ֔ם]] [[H9001\|וְ]][[H2930A\|נִטְמֵתֶ֖ם]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREEPING THINGS|CREEPING THINGS]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.42|<< Leviticus 11:42]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.44|Leviticus 11:44 >>]]</td></tr></table>
 

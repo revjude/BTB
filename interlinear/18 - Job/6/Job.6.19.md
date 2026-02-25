@@ -1,8 +1,52 @@
+---
+title: Job 6:19
+type: Verse
+kjv: "The troops of Tema looked, the companies of Sheba waited for them."
+bsb: "The caravans of Tema look for water; the travelers of Sheba hope to find it."
+hebrew: "הִ֭בִּיטוּ אָרְח֣וֹת תֵּמָ֑א הֲלִיכֹ֥ת שְׁ֝בָ֗א קִוּוּ־ לָֽמוֹ׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic TEMA|TEMA]]"
+strongs:
+- "[[H5027]]"
+- "[[H0734]]"
+- "[[H8485H]]"
+- "[[H1979]]"
+- "[[H7614J]]"
+- "[[H6960A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:19**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The troops of Tema looked, the companies of Sheba waited for them.
 <small><sub>**BSB:**</sub></small>
 The caravans of Tema look for water; the travelers of Sheba hope to find it.
+<small><sub>**Hebrew:**</sub></small>
+[[H5027\|הִ֭בִּיטוּ]] [[H0734\|אָרְח֣וֹת]] [[H8485H\|תֵּמָ֑א]] [[H1979\|הֲלִיכֹ֥ת]] [[H7614J\|שְׁ֝בָ֗א]] [[H6960A\|קִוּוּ]][[H9014\|־]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic TEMA|TEMA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.18|<< Job 6:18]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.20|Job 6:20 >>]]</td></tr></table>
 

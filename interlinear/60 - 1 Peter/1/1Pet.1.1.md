@@ -1,10 +1,57 @@
+---
+title: 1 Peter 1:1
+type: Verse
+kjv: "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+bsb: "Peter, an apostle of Jesus Christ, To the elect who are exiles of the Dispersion throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, chosen"
+greek: "Πέτρος ἀπόστολος Ἰησοῦ Χριστοῦ ἐκλεκτοῖς παρεπιδήμοις διασπορᾶς Πόντου, Γαλατίας, Καππαδοκίας, Ἀσίας, καὶ Βιθυνίας,"
+pericope: "[[1Pet.1.1 A Greeting from Peter|A Greeting from Peter]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic BITHYNIA|BITHYNIA]]"
+- "[[topic CAPPADOCIA|CAPPADOCIA]]"
+- "[[topic GALATIA|GALATIA]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PONTUS|PONTUS]]"
+strongs:
+- "[[G4074G]]"
+- "[[G0652]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1588]]"
+- "[[G3927]]"
+- "[[G1290]]"
+- "[[G4195]]"
+- "[[G1053]]"
+- "[[G2587]]"
+- "[[G0773]]"
+- "[[G2532]]"
+- "[[G0978]]"
+texts:
+- NKO
+---
+
 **1 Peter 1:1**<big><big>[[1Pet.1.1 A Greeting from Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
 <small><sub>**BSB:**</sub></small>
 Peter, an apostle of Jesus Christ, To the elect who are exiles of the Dispersion throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, chosen
-<small><sub>**Literal:**</sub></small>
-Peter an apostle of Jesus Christ To [the] elect sojourners of [the] Dispersion of Pontus, Galatia, Cappadocia, Asia, and Bithynia,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.20|<< James 5:20]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.2|1 Peter 1:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4074G\|Πέτρος]]  [[G0652\|ἀπόστολος]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1588\|ἐκλεκτοῖς]]  [[G3927\|παρεπιδήμοις]]  [[G1290\|διασπορᾶς]]  [[G4195\|Πόντου,]]  [[G1053\|Γαλατίας,]]  [[G2587\|Καππαδοκίας,]]  [[G0773\|Ἀσίας,]]  [[G2532\|καὶ]]  [[G0978\|Βιθυνίας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BITHYNIA|BITHYNIA]] • [[topic CAPPADOCIA|CAPPADOCIA]] • [[topic GALATIA|GALATIA]] • [[topic PETER|PETER]] • [[topic PONTUS|PONTUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.5.20|<< James 5:20]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.2|1 Peter 1:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

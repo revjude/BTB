@@ -1,10 +1,59 @@
+---
+title: Romans 10:16
+type: Verse
+kjv: "But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?"
+bsb: "But not all of them welcomed the good news. For Isaiah says, “Lord, who has believed our message?”"
+greek: "ἀλλ᾽ οὐ πάντες ὑπήκουσαν τῷ εὐαγγελίῳ· Ἠσαΐας γὰρ λέγει· κύριε, τίς ἐπίστευσεν τῇ ἀκοῇ ἡμῶν;"
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G3956]]"
+- "[[G5219]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G2268]]"
+- "[[G1063]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G5101]]"
+- "[[G4100]]"
+- "[[G0189]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Romans 10:16**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?
 <small><sub>**BSB:**</sub></small>
 But not all of them welcomed the good news. For Isaiah says, “Lord, who has believed our message?”
-<small><sub>**Literal:**</sub></small>
-But not all heeded the good news; Isaiah for says; Lord, who has believed the report of us?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.15|<< Romans 10:15]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.17|Romans 10:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3756\|οὐ]]  [[G3956\|πάντες]]  [[G5219\|ὑπήκουσαν]]  [[G3588\|τῷ]]  [[G2098\|εὐαγγελίῳ·]]  [[G2268\|Ἠσαΐας]]  [[G1063\|γὰρ]]  [[G3004G\|λέγει·]]  [[G2962G\|κύριε,]]  [[G5101\|τίς]]  [[G4100\|ἐπίστευσεν]]  [[G3588\|τῇ]]  [[G0189\|ἀκοῇ]]  [[G3165\|ἡμῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.15|<< Romans 10:15]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.17|Romans 10:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:16** is...
 > $\quad$ referencing: [[LXX.Isa.53.1|Isa 53:1]]

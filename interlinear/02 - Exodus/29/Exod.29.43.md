@@ -1,8 +1,59 @@
+---
+title: Exodus 29:43
+type: Verse
+kjv: "And there I will meet with the children of Israel, and the tabernacle shall be sanctified by my glory."
+bsb: "I will also meet with the Israelites there, and that place will be consecrated by My glory."
+hebrew: "וְנֹעַדְתִּ֥י שָׁ֖מָּה לִבְנֵ֣י יִשְׂרָאֵ֑ל וְנִקְדַּ֖שׁ בִּכְבֹדִֽי׃"
+pericope: "[[Exod.29.38 The Daily Offerings|The Daily Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H3259]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H6942G]]"
+- "[[H9003]]"
+- "[[H3519]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:43**<big><big>[[Exod.29.38 The Daily Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there I will meet with the children of Israel, and [the tabernacle] shall be sanctified by my glory.
 <small><sub>**BSB:**</sub></small>
 I will also meet with the Israelites there, and that place will be consecrated by My glory.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3259\|נֹעַדְתִּ֥י]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וְ]][[H6942G\|נִקְדַּ֖שׁ]] [[H9003\|בִּ]][[H3519\|כְבֹדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANCTIFICATION|SANCTIFICATION]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.42|<< Exodus 29:42]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.44|Exodus 29:44 >>]]</td></tr></table>
 

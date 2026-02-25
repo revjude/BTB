@@ -1,8 +1,69 @@
+---
+title: Numbers 26:63
+type: Verse
+kjv: "These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan near Jericho."
+bsb: "These were the ones numbered by Moses and Eleazar the priest when they counted the Israelites on the plains of Moab by the Jordan, across from Jericho."
+hebrew: "אֵ֚לֶּה פְּקוּדֵ֣י מֹשֶׁ֔ה וְאֶלְעָזָ֖ר הַכֹּהֵ֑ן אֲשֶׁ֨ר פָּֽקְד֜וּ אֶת־ בְּנֵ֤י יִשְׂרָאֵל֙ בְּעַֽרְבֹ֣ת מוֹאָ֔ב עַ֖ל יַרְדֵּ֥ן יְרֵחֽוֹ׃"
+pericope: "[[Num.26.63 Only Caleb and Joshua Remain|Only Caleb and Joshua Remain]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MOAB|MOAB]]"
+strongs:
+- "[[H0428]]"
+- "[[H6485A]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0834A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H6160I]]"
+- "[[H4124I]]"
+- "[[H5921A]]"
+- "[[H3383]]"
+- "[[H3405G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:63**<big><big>[[Num.26.63 Only Caleb and Joshua Remain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan [near] Jericho.
 <small><sub>**BSB:**</sub></small>
 These were the ones numbered by Moses and Eleazar the priest when they counted the Israelites on the plains of Moab by the Jordan, across from Jericho.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֚לֶּה]] [[H6485A\|פְּקוּדֵ֣י]] [[H4872\|מֹשֶׁ֔ה]] [[H9002\|וְ]][[H0499G\|אֶלְעָזָ֖ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H0834A\|אֲשֶׁ֨ר]] [[H6485A\|פָּֽקְד֜וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9003\|בְּ]][[H6160I\|עַֽרְבֹ֣ת]] [[H4124I\|מוֹאָ֔ב]] [[H5921A\|עַ֖ל]] [[H3383\|יַרְדֵּ֥ן]] [[H3405G\|יְרֵחֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic ISRAEL|ISRAEL]] • [[topic JORDAN|JORDAN]] • [[topic JOSHUA|JOSHUA]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MOAB|MOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.62|<< Numbers 26:62]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.64|Numbers 26:64 >>]]</td></tr></table>
 

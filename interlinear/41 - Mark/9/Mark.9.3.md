@@ -1,10 +1,65 @@
+---
+title: Mark 9:3
+type: Verse
+kjv: "And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them."
+bsb: "His clothes became radiantly white, brighter than any launderer on earth could bleach them."
+greek: "καὶ τὰ ἱμάτια αὐτοῦ ἐγένετο στίλβοντα, λευκὰ λίαν ὡς χιών, οἷα γναφεὺς ἐπὶ τῆς γῆς οὐ δύναται οὕτως λευκᾶναι."
+pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic FULLER|FULLER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2440]]"
+- "[[G0846]]"
+- "[[G1096]]"
+- "[[G4744]]"
+- "[[G3022]]"
+- "[[G3029]]"
+- "[[G5613]]"
+- "[[G5510]]"
+- "[[G3634]]"
+- "[[G1102]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G3779]]"
+- "[[G3021]]"
+texts:
+- NKO
+- NK(o)
+- K
+- no
+---
+
 **Mark 9:3**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.
 <small><sub>**BSB:**</sub></small>
 His clothes became radiantly white, brighter than any launderer on earth could bleach them.
-<small><sub>**Literal:**</sub></small>
-and the garments of Him was shining white exceedingly as snow such as a launderer on the earth not is able thus to whiten.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.2|<< Mark 9:2]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.4|Mark 9:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτοῦ]]  [[G1096\|ἐγένετο]]  [[G4744\|στίλβοντα,]]  [[G3022\|λευκὰ]]  [[G3029\|λίαν]]  [[G5613\|ὡς]]  [[G5510\|χιών,]]  [[G3634\|οἷα]]  [[G1102\|γναφεὺς]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G3779\|οὕτως]]  [[G3021\|λευκᾶναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic FULLER|FULLER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.2|<< Mark 9:2]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.4|Mark 9:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

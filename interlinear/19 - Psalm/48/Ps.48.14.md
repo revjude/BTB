@@ -1,8 +1,59 @@
+---
+title: Psalm 48:14
+type: Verse
+kjv: "For this God is our God for ever and ever: he will be our guide even unto death."
+bsb: "For this God is our God forever and ever; He will be our guide even till death."
+hebrew: "כִּ֤י זֶ֨ה׀ אֱלֹהִ֣ים אֱ֭לֹהֵינוּ עוֹלָ֣ם וָעֶ֑ד ה֖וּא יְנַהֲגֵ֣נוּ עַל־ מֽוּת׃"
+pericope: "[[Ps.48.1 Broken Bondage|Broken Bondage]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 48
+book/chapter: "[[Ps.48|Psalm 48]]"
+chronological_order: 503
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2088]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H5703]]"
+- "[[H1931]]"
+- "[[H5090A]]"
+- "[[H9035]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 48:14**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this God [is] our God for ever and ever: he will be our guide [even] unto death.
 <small><sub>**BSB:**</sub></small>
 For this God is our God forever and ever; He will be our guide even till death.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H2088\|זֶ֨ה]][[H9015\|׀]] [[H0430G\|אֱלֹהִ֣ים]] [[H0430G\|אֱ֭לֹהֵי]][[H9025\|נוּ]] [[H5769G\|עוֹלָ֣ם]] [[H9002\|וָ]][[H5703\|עֶ֑ד]] [[H1931\|ה֖וּא]] [[H5090A\|יְנַהֲגֵ֣]][[H9035\|נוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4191\|מֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.13|<< Psalms 48:13]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.0|Psalms 49:0 >>]]</td></tr></table>
 

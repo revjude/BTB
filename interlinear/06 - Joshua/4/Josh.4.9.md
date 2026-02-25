@@ -1,8 +1,67 @@
+---
+title: Joshua 4:9
+type: Verse
+kjv: "And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day."
+bsb: "Joshua also set up twelve stones in the middle of the Jordan, in the place where the priests who carried the ark of the covenant stood. And the stones are there to this day."
+hebrew: "וּשְׁתֵּ֧ים עֶשְׂרֵ֣ה אֲבָנִ֗ים הֵקִ֣ים יְהוֹשֻׁעַ֮ בְּת֣וֹךְ הַיַּרְדֵּן֒ תַּ֗חַת מַצַּב֙ רַגְלֵ֣י הַכֹּהֲנִ֔ים נֹשְׂאֵ֖י אֲר֣וֹן הַבְּרִ֑ית וַיִּ֣הְיוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H0068G]]"
+- "[[H6965I]]"
+- "[[H3091G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H8478I]]"
+- "[[H4673]]"
+- "[[H7272]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:9**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day.
 <small><sub>**BSB:**</sub></small>
 Joshua also set up twelve stones in the middle of the Jordan, in the place where the priests who carried the ark of the covenant stood. And the stones are there to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8147\|שְׁתֵּ֧ים]] [[H6240\|עֶשְׂרֵ֣ה]] [[H0068G\|אֲבָנִ֗ים]] [[H6965I\|הֵקִ֣ים]] [[H3091G\|יְהוֹשֻׁעַ֮]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֒]] [[H8478I\|תַּ֗חַת]] [[H4673\|מַצַּב֙]] [[H7272\|רַגְלֵ֣י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֔ים]] [[H5375H\|נֹשְׂאֵ֖י]] [[H0727\|אֲר֣וֹן]] [[H9009\|הַ]][[H1285\|בְּרִ֑ית]] [[H9001\|וַ]][[H1961\|יִּ֣הְיוּ]] [[H8033G\|שָׁ֔ם]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PILLAR|PILLAR]] • [[topic STONES|STONES]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.8|<< Joshua 4:8]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.10|Joshua 4:10 >>]]</td></tr></table>
 

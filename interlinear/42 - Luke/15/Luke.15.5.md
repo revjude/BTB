@@ -1,10 +1,58 @@
+---
+title: Luke 15:5
+type: Verse
+kjv: "And when he hath found it, he layeth it on his shoulders, rejoicing."
+bsb: "And when he finds it, he joyfully puts it on his shoulders,"
+jesus_said: "And when he hath found it, he layeth it on his shoulders, rejoicing."
+greek: "καὶ εὑρὼν ἐπιτίθησιν ἐπὶ τοὺς ὤμους αὐτοῦ χαίρων,"
+pericope: "[[Luke.15.1 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOST SHEEP|LOST SHEEP]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G2007]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5606]]"
+- "[[G0846]]"
+- "[[G5463]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 15:5**<big><big>[[Luke.15.1 The Parable of the Lost Sheep|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he hath found [it], he layeth [it] on his shoulders, rejoicing.
 <small><sub>**BSB:**</sub></small>
 And when he finds it, he joyfully puts it on his shoulders,
-<small><sub>**Literal:**</sub></small>
-And having found [it] he lays [it] on the shoulders of him rejoicing,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.4|<< Luke 15:4]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.6|Luke 15:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2147\|εὑρὼν]]  [[G2007\|ἐπιτίθησιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G5606\|ὤμους]]  [[G0846\|αὐτοῦ]]  [[G5463\|χαίρων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOST SHEEP|LOST SHEEP]] • [[topic PENITENT|PENITENT]] • [[topic PHARISEES|PHARISEES]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SHEEP|SHEEP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.4|<< Luke 15:4]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.6|Luke 15:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: Isaiah 13:11
+type: Verse
+kjv: "And I will punish the world for their evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible."
+bsb: "I will punish the world for its evil and the wicked for their iniquity. I will end the haughtiness of the arrogant and lay low the pride of the ruthless."
+hebrew: "וּפָקַדְתִּ֤י עַל־ תֵּבֵל֙ רָעָ֔ה וְעַל־ רְשָׁעִ֖ים עֲוֹנָ֑ם וְהִשְׁבַּתִּי֙ גְּא֣וֹן זֵדִ֔ים וְגַאֲוַ֥ת עָרִיצִ֖ים אַשְׁפִּֽיל׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARROGANCE|ARROGANCE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8398]]"
+- "[[H7451I]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H5771G]]"
+- "[[H9028]]"
+- "[[H7673A]]"
+- "[[H1347]]"
+- "[[H2086]]"
+- "[[H1346]]"
+- "[[H6184]]"
+- "[[H8213]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:11**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will punish the world for [their] evil, and the wicked for their iniquity; and I will cause the arrogancy of the proud to cease, and will lay low the haughtiness of the terrible.
 <small><sub>**BSB:**</sub></small>
 I will punish the world for its evil and the wicked for their iniquity. I will end the haughtiness of the arrogant and lay low the pride of the ruthless.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6485H\|פָקַדְתִּ֤י]] [[H5921A\|עַל]][[H9014\|־]] [[H8398\|תֵּבֵל֙]] [[H7451I\|רָעָ֔ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7563\|רְשָׁעִ֖ים]] [[H5771G\|עֲוֹנָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּי֙]] [[H1347\|גְּא֣וֹן]] [[H2086\|זֵדִ֔ים]] [[H9002\|וְ]][[H1346\|גַאֲוַ֥ת]] [[H6184\|עָרִיצִ֖ים]] [[H8213\|אַשְׁפִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROGANCE|ARROGANCE]] • [[topic PRIDE|PRIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.10|<< Isaiah 13:10]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.12|Isaiah 13:12 >>]]</td></tr></table>
 

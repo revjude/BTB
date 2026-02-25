@@ -1,10 +1,48 @@
+---
+title: 1 Corinthians 15:46
+type: Verse
+kjv: "Howbeit that was not first which is spiritual, but that which is natural; and afterward that which is spiritual."
+bsb: "The spiritual, however, was not first, but the natural, and then the spiritual."
+greek: "ἀλλ᾽ οὐ πρῶτον τὸ πνευματικὸν ἀλλὰ τὸ ψυχικόν, ἔπειτα τὸ πνευματικόν.¶"
+pericope: "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G4413G]]"
+- "[[G3588]]"
+- "[[G4152]]"
+- "[[G5591]]"
+- "[[G1899]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:46**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit that [was] not first which is spiritual, but that which is natural; and afterward that which is spiritual.
 <small><sub>**BSB:**</sub></small>
 The spiritual, however, was not first, but the natural, and then the spiritual.
-<small><sub>**Literal:**</sub></small>
-However not first [was] the spiritual but the natural, then the spiritual.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.45|<< 1 Corinthians 15:45]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.47|1 Corinthians 15:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3756\|οὐ]]  [[G4413G\|πρῶτον]]  [[G3588\|τὸ]]  [[G4152\|πνευματικὸν]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸ]]  [[G5591\|ψυχικόν,]]  [[G1899\|ἔπειτα]]  [[G3588\|τὸ]]  [[G4152\|πνευματικόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.45|<< 1 Corinthians 15:45]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.47|1 Corinthians 15:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

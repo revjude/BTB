@@ -1,8 +1,71 @@
+---
+title: Numbers 5:13
+type: Verse
+kjv: "And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and there be no witness against her, neither she be taken with the manner;"
+bsb: "by sleeping with another man, and it is concealed from her husband and her impurity is undetected (since there is no witness against her and she was not caught in the act),"
+hebrew: "וְשָׁכַ֨ב אִ֣ישׁ אֹתָהּ֮ שִׁכְבַת־ זֶרַע֒ וְנֶעְלַם֙ מֵעֵינֵ֣י אִישָׁ֔הּ וְנִסְתְּרָ֖ה וְהִ֣יא נִטְמָ֑אָה וְעֵד֙ אֵ֣ין בָּ֔הּ וְהִ֖וא לֹ֥א נִתְפָּֽשָׂה׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901I]]"
+- "[[H0376G]]"
+- "[[H0854]]"
+- "[[H9034]]"
+- "[[H7902]]"
+- "[[H9014]]"
+- "[[H2233I]]"
+- "[[H5956]]"
+- "[[H9006]]"
+- "[[H5869A]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H5641]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H2930A]]"
+- "[[H5707]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H8610]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:13**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a man lie with her carnally, and it be hid from the eyes of her husband, and be kept close, and she be defiled, and [there be] no witness against her, neither she be taken [with the manner];
 <small><sub>**BSB:**</sub></small>
 by sleeping with another man, and it is concealed from her husband and her impurity is undetected (since there is no witness against her and she was not caught in the act),
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7901I\|שָׁכַ֨ב]] [[H0376G\|אִ֣ישׁ]] [[H0854\|אֹתָ]][[H9034\|הּ֮]] [[H7902\|שִׁכְבַת]][[H9014\|־]] [[H2233I\|זֶרַע֒]] [[H9001\|וְ]][[H5956\|נֶעְלַם֙]] [[H9006\|מֵ]][[H5869A\|עֵינֵ֣י]] [[H0376H\|אִישָׁ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H5641\|נִסְתְּרָ֖ה]] [[H9002\|וְ]][[H1931\|הִ֣יא]] [[H2930A\|נִטְמָ֑אָה]] [[H9002\|וְ]][[H5707\|עֵד֙]] [[H0369\|אֵ֣ין]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H1931\|הִ֖וא]] [[H3808\|לֹ֥א]] [[H8610\|נִתְפָּֽשָׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.12|<< Numbers 5:12]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.14|Numbers 5:14 >>]]</td></tr></table>
 

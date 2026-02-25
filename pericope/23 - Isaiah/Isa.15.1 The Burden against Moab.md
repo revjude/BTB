@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burden against Moab
+type: Pericope
 pericope: "[[Isa.15.1 The Burden against Moab|The Burden against Moab]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 15
 book/chapter: "[[Isa.15|Isaiah 15]]"
-genre:
+chronological_order: 632
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 9
 verses:
 - "[[Isa.15.1]]"
 - "[[Isa.15.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Isa.15.9]]"
 ---
 
-[[Isa.15|Isaiah 15:1 - Isaiah 15:9]]
+<small>[[Isa.15|Isaiah 15:1-9]]</small>
 *The Burden against Moab*
 
 [[Isa.15.1|1]] The burden of Moab. Because in the night Ar of Moab is laid waste, \[and\] brought to silence; because in the night Kir of Moab is laid waste, \[and\] brought to silence;

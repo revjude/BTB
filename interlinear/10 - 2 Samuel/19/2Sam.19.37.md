@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 19:37
+type: Verse
+kjv: "Let thy servant, I pray thee, turn back again, that I may die in mine own city, and be buried by the grave of my father and of my mother. But behold thy servant Chimham; let him go over with my lord the king; and do to him what shall seem good unto thee."
+bsb: "Please let your servant return, that I may die in my own city near the tomb of my father and mother. But here is your servant Chimham. Let him cross over with my lord the king, and do for him what is good in your sight.”"
+hebrew: "יָֽשָׁב־ נָ֤א עַבְדְּךָ֙ וְאָמֻ֣ת בְּעִירִ֔י עִ֛ם קֶ֥בֶר אָבִ֖י וְאִמִּ֑י וְהִנֵּ֣ה׀ עַבְדְּךָ֣ כִמְהָ֗ם יַֽעֲבֹר֙ עִם־ אֲדֹנִ֣י הַמֶּ֔לֶךְ וַעֲשֵׂה־ ל֕וֹ אֵ֥ת אֲשֶׁר־ ט֖וֹב בְּעֵינֶֽיךָ׃ ס"
+pericope: "[[2Sam.19.31 David’s Kindness to Barzillai|David’s Kindness to Barzillai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic CHIMHAM|CHIMHAM]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H7725G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9020]]"
+- "[[H5973A]]"
+- "[[H6913]]"
+- "[[H0001G]]"
+- "[[H0517]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H3643]]"
+- "[[H5674A]]"
+- "[[H0113]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H2895]]"
+- "[[H5869I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 19:37**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy servant, I pray thee, turn back again, that I may die in mine own city, [and be buried] by the grave of my father and of my mother. But behold thy servant Chimham; let him go over with my lord the king; and do to him what shall seem good unto thee.
 <small><sub>**BSB:**</sub></small>
 Please let your servant return, that I may die in my own city near the tomb of my father and mother. But here is your servant Chimham. Let him cross over with my lord the king, and do for him what is good in your sight.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7725G\|יָֽשָׁב]][[H9014\|־]] [[H4994\|נָ֤א]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H4191\|אָמֻ֣ת]] [[H9003\|בְּ]][[H5892B\|עִירִ֔]][[H9020\|י]] [[H5973A\|עִ֛ם]] [[H6913\|קֶ֥בֶר]] [[H0001G\|אָבִ֖]][[H9020\|י]] [[H9002\|וְ]][[H0517\|אִמִּ֑]][[H9020\|י]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֣]] [[H3643\|כִמְהָ֗ם]] [[H5674A\|יַֽעֲבֹר֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וַ]][[H6213A\|עֲשֵׂה]][[H9014\|־]] [[H9005\|ל֕]][[H9033\|וֹ]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2895\|ט֖וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֶֽי]][[H9021\|ךָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic CHIMHAM|CHIMHAM]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic DAVID|DAVID]] • [[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.36|<< 2 Samuel 19:36]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.38|2 Samuel 19:38 >>]]</td></tr></table>
 
@@ -29,7 +96,7 @@ Please let your servant return, that I may die in my own city near the tomb of m
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֥ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [that] which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it is good  |**<big>&#8207;[[H2895\|ט֖וֹב]]&#8207; </big>**| Tov<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in view your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in view your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינֶֽי]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Nei.<small><sup>[[HNcfdc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.36|<< 2 Samuel 19:36]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.38|2 Samuel 19:38 >>]]</td></tr></table>
 
 

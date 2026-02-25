@@ -1,8 +1,78 @@
+---
+title: Isaiah 49:6
+type: Verse
+kjv: "And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth."
+bsb: "He says: “It is not enough for You to be My Servant, to raise up the tribes of Jacob, and to restore the protected ones of Israel. I will also make You a light for the nations, to bring My salvation to the ends of the earth.”"
+hebrew: "וַיֹּ֗אמֶר נָקֵ֨ל מִֽהְיוֹתְךָ֥ לִי֙ עֶ֔בֶד לְהָקִים֙ אֶת־ שִׁבְטֵ֣י יַעֲקֹ֔ב וּנְצוּרֵ֥י יִשְׂרָאֵ֖ל לְהָשִׁ֑יב וּנְתַתִּ֙יךָ֙ לְא֣וֹר גּוֹיִ֔ם לִֽהְי֥וֹת יְשׁוּעָתִ֖י עַד־ קְצֵ֥ה הָאָֽרֶץ׃ ס"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7043]]"
+- "[[H9006]]"
+- "[[H1961]]"
+- "[[H9041]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5650]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7626H]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H5336]]"
+- "[[H5341]]"
+- "[[H3478]]"
+- "[[H7725G]]"
+- "[[H5414I]]"
+- "[[H9031]]"
+- "[[H0216]]"
+- "[[H1471A]]"
+- "[[H3444]]"
+- "[[H9020]]"
+- "[[H5704]]"
+- "[[H7097A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 49:6**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.
 <small><sub>**BSB:**</sub></small>
 He says: “It is not enough for You to be My Servant, to raise up the tribes of Jacob, and to restore the protected ones of Israel. I will also make You a light for the nations, to bring My salvation to the ends of the earth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H7043\|נָקֵ֨ל]] [[H9006\|מִֽ]][[H1961\|הְיוֹתְ]][[H9041\|ךָ֥]] [[H9005\|לִ]][[H9030\|י֙]] [[H5650\|עֶ֔בֶד]] [[H9005\|לְ]][[H6965I\|הָקִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7626H\|שִׁבְטֵ֣י]] [[H3290\|יַעֲקֹ֔ב]] [[H9002\|וּ]][[H5341\|נְצוּרֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H7725G\|הָשִׁ֑יב]] [[H9001\|וּ]][[H5414I\|נְתַתִּ֙י]][[H9031\|ךָ֙]] [[H9005\|לְ]][[H0216\|א֣וֹר]] [[H1471A\|גּוֹיִ֔ם]] [[H9005\|לִֽ]][[H1961\|הְי֥וֹת]] [[H3444\|יְשׁוּעָתִ֖]][[H9020\|י]] [[H5704\|עַד]][[H9014\|־]] [[H7097A\|קְצֵ֥ה]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHT|LIGHT]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.5|<< Isaiah 49:5]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.7|Isaiah 49:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -31,10 +101,10 @@ He says: “It is not enough for You to be My Servant, to raise up the tribes of
 | salvation my  |**<big>&#8207;[[H3444\|יְשׁוּעָתִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ye.shu.'a.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] end of  |**<big>&#8207;[[H7097A\|קְצֵ֥ה]]&#8207; </big>**| ke.Tzeh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the earth  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.5|<< Isaiah 49:5]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.7|Isaiah 49:7 >>]]</td></tr></table>
 
-[^1]: and [the] preserved [ones] of  | **<big>[[H5336|נְצִירֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ne.tzi.rei<small><sup>[[HAampc]]</sup></small> | K
-[^2]: and [the] preserved [ones] of  | **<big>[[H5336|נְצִירֵי]]</big><big>[[H9002|וּ]]</big> ** | u.<small><sup>[[HC]]</sup></small> ne.tzi.rei<small><sup>[[HAampc]]</sup></small> | K
+[^1]: and [the] preserved [ones] of  | **<big>[[H9002|וּ]]</big><big>[[H5336|נְצִירֵי]]</big> ** | u.<small><sup>[[HC]]</sup></small> ne.tzi.rei<small><sup>[[HAampc]]</sup></small> | K
+[^2]: and [the] preserved [ones] of  | **<big>[[H9002|וּ]]</big><big>[[H5336|נְצִירֵי]]</big> ** | u.<small><sup>[[HC]]</sup></small> ne.tzi.rei<small><sup>[[HAampc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וּנְציּרֵ֥י</big></span>**
 

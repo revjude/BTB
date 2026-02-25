@@ -1,8 +1,67 @@
+---
+title: Genesis 8:20
+type: Verse
+kjv: "And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar."
+bsb: "Then Noah built an altar to the LORD. And taking from every kind of clean animal and clean bird, he offered burnt offerings on the altar."
+hebrew: "וַיִּ֥בֶן נֹ֛חַ מִזְבֵּ֖חַ לַֽיהוָ֑ה וַיִּקַּ֞ח מִכֹּ֣ל׀ הַבְּהֵמָ֣ה הַטְּהוֹרָ֗ה וּמִכֹּל֙ הָע֣וֹף הַטָּהֹ֔ר וַיַּ֥עַל עֹלֹ֖ת בַּמִּזְבֵּֽחַ׃"
+pericope: "[[Gen.8.20 Noah Builds an Altar|Noah Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H5146]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H0929]]"
+- "[[H2889]]"
+- "[[H9002]]"
+- "[[H5775]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:20**<big><big>[[Gen.8.20 Noah Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar.
 <small><sub>**BSB:**</sub></small>
 Then Noah built an altar to the LORD. And taking from every kind of clean animal and clean bird, he offered burnt offerings on the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּ֥בֶן]] [[H5146\|נֹ֛חַ]] [[H4196\|מִזְבֵּ֖חַ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H9001\|וַ]][[H3947G\|יִּקַּ֞ח]] [[H9006\|מִ]][[H3605\|כֹּ֣ל]][[H9015\|׀]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֣ה]] [[H9009\|הַ]][[H2889\|טְּהוֹרָ֗ה]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כֹּל֙]] [[H9009\|הָ]][[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H2889\|טָּהֹ֔ר]] [[H9001\|וַ]][[H5927I\|יַּ֥עַל]] [[H5930A\|עֹלֹ֖ת]] [[H9003\|בַּ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic COVENANT|COVENANT]] • [[topic FLOOD|FLOOD]] • [[topic NOAH|NOAH]] • [[topic SHEEP|SHEEP]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.19|<< Genesis 8:19]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.21|Genesis 8:21 >>]]</td></tr></table>
 

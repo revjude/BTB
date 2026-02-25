@@ -1,8 +1,53 @@
+---
+title: Nahum 3:18
+type: Verse
+kjv: "Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them."
+bsb: "O king of Assyria, your shepherds slumber; your officers sleep. Your people are scattered on the mountains with no one to gather them."
+hebrew: "נָמ֤וּ רֹעֶ֙יךָ֙ מֶ֣לֶךְ אַשּׁ֔וּר יִשְׁכְּנ֖וּ אַדִּירֶ֑יךָ נָפֹ֧שׁוּ עַמְּךָ֛ עַל־ הֶהָרִ֖ים וְאֵ֥ין מְקַבֵּֽץ׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H5123]]"
+- "[[H7462B]]"
+- "[[H9021]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H7931]]"
+- "[[H0117]]"
+- "[[H6335B]]"
+- "[[H5971A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H6908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 3:18**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy shepherds slumber, O king of Assyria: thy nobles shall dwell [in the dust]: thy people is scattered upon the mountains, and no man gathereth [them].
 <small><sub>**BSB:**</sub></small>
 O king of Assyria, your shepherds slumber; your officers sleep. Your people are scattered on the mountains with no one to gather them.
+<small><sub>**Hebrew:**</sub></small>
+[[H5123\|נָמ֤וּ]] [[H7462B\|רֹעֶ֙י]][[H9021\|ךָ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֔וּר]] [[H7931\|יִשְׁכְּנ֖וּ]] [[H0117\|אַדִּירֶ֑י]][[H9021\|ךָ]] [[H6335B\|נָפֹ֧שׁוּ]] [[H5971A\|עַמְּ]][[H9021\|ךָ֛]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶ]][[H2022G\|הָרִ֖ים]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H6908\|מְקַבֵּֽץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.17|<< Nahum 3:17]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.19|Nahum 3:19 >>]]</td></tr></table>
 

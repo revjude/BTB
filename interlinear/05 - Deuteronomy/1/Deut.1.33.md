@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 1:33
+type: Verse
+kjv: "Who went in the way before you, to search you out a place to pitch your tents in, in fire by night, to shew you by what way ye should go, and in a cloud by day."
+bsb: "who went before you on the journey, in the fire by night and in the cloud by day, to seek out a place for you to camp and to show you the road to travel."
+hebrew: "הַהֹלֵ֨ךְ לִפְנֵיכֶ֜ם בַּדֶּ֗רֶךְ לָת֥וּר לָכֶ֛ם מָק֖וֹם לַֽחֲנֹֽתְכֶ֑ם בָּאֵ֣שׁ׀ לַ֗יְלָה לַרְאֹֽתְכֶם֙ בַּדֶּ֙רֶךְ֙ אֲשֶׁ֣ר תֵּֽלְכוּ־ בָ֔הּ וּבֶעָנָ֖ן יוֹמָֽם׃"
+pericope: "[[Deut.1.26 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9009]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H8446]]"
+- "[[H9036]]"
+- "[[H4725]]"
+- "[[H2583]]"
+- "[[H0784]]"
+- "[[H9015]]"
+- "[[H3915]]"
+- "[[H7200G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H6051]]"
+- "[[H3119]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:33**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who went in the way before you, to search you out a place to pitch your tents [in], in fire by night, to shew you by what way ye should go, and in a cloud by day.
 <small><sub>**BSB:**</sub></small>
 who went before you on the journey, in the fire by night and in the cloud by day, to seek out a place for you to camp and to show you the road to travel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1980G\|הֹלֵ֨ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֜ם]] [[H9003\|בַּ]][[H1870K\|דֶּ֗רֶךְ]] [[H9005\|לָ]][[H8446\|ת֥וּר]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H4725\|מָק֖וֹם]] [[H9005\|לַֽ]][[H2583\|חֲנֹֽתְ]][[H9036\|כֶ֑ם]] [[H9003\|בָּ]][[H0784\|אֵ֣שׁ]][[H9015\|׀]] [[H3915\|לַ֗יְלָה]] [[H9005\|לַ]][[H7200G\|רְאֹֽתְ]][[H9036\|כֶם֙]] [[H9003\|בַּ]][[H1870K\|דֶּ֙רֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1980G\|תֵּֽלְכוּ]][[H9014\|־]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H9002\|וּ]][[H9003\|בֶ]][[H6051\|עָנָ֖ן]] [[H3119\|יוֹמָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.32|<< Deuteronomy 1:32]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.34|Deuteronomy 1:34 >>]]</td></tr></table>
 

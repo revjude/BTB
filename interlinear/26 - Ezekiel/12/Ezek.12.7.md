@@ -1,8 +1,73 @@
+---
+title: Ezekiel 12:7
+type: Verse
+kjv: "And I did so as I was commanded: I brought forth my stuff by day, as stuff for captivity, and in the even I digged through the wall with mine hand; I brought it forth in the twilight, and I bare it upon my shoulder in their sight."
+bsb: "So I did as I was commanded. I brought out my bags for exile by day, and in the evening I dug through the wall by hand. I took my belongings out at dusk, carrying them on my shoulder as they watched."
+hebrew: "וָאַ֣עַשׂ כֵּן֮ כַּאֲשֶׁ֣ר צֻוֵּיתִי֒ כֵּ֠לַי הוֹצֵ֜אתִי כִּכְלֵ֤י גוֹלָה֙ יוֹמָ֔ם וּבָעֶ֛רֶב חָתַֽרְתִּי־ לִ֥י בַקִּ֖יר בְּיָ֑ד בָּעֲלָטָ֥ה הוֹצֵ֛אתִי עַל־ כָּתֵ֥ף נָשָׂ֖אתִי לְעֵינֵיהֶֽם׃ פ"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3627]]"
+- "[[H9020]]"
+- "[[H3318H]]"
+- "[[H1473]]"
+- "[[H3119]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6153]]"
+- "[[H2864]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H7023]]"
+- "[[H3027G]]"
+- "[[H5939]]"
+- "[[H5921A]]"
+- "[[H3802]]"
+- "[[H5375H]]"
+- "[[H5869H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 12:7**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I did so as I was commanded: I brought forth my stuff by day, as stuff for captivity, and in the even I digged through the wall with mine hand; I brought [it] forth in the twilight, [and] I bare [it] upon [my] shoulder in their sight.
 <small><sub>**BSB:**</sub></small>
 So I did as I was commanded. I brought out my bags for exile by day, and in the evening I dug through the wall by hand. I took my belongings out at dusk, carrying them on my shoulder as they watched.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6213A\|אַ֣עַשׂ]] [[H3651C\|כֵּן֮]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6680\|צֻוֵּיתִי֒]] [[H3627\|כֵּ֠לַ]][[H9020\|י]] [[H3318H\|הוֹצֵ֜אתִי]] [[H9004\|כִּ]][[H3627\|כְלֵ֤י]] [[H1473\|גוֹלָה֙]] [[H3119\|יוֹמָ֔ם]] [[H9002\|וּ]][[H9003\|בָ]][[H6153\|עֶ֛רֶב]] [[H2864\|חָתַֽרְתִּי]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H9003\|בַ]][[H7023\|קִּ֖יר]] [[H9003\|בְּ]][[H3027G\|יָ֑ד]] [[H9003\|בָּ]][[H5939\|עֲלָטָ֥ה]] [[H3318H\|הוֹצֵ֛אתִי]] [[H5921A\|עַל]][[H9014\|־]] [[H3802\|כָּתֵ֥ף]] [[H5375H\|נָשָׂ֖אתִי]] [[H9005\|לְ]][[H5869H\|עֵינֵי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.6|<< Ezekiel 12:6]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.8|Ezekiel 12:8 >>]]</td></tr></table>
 
@@ -27,7 +92,7 @@ So I did as I was commanded. I brought out my bags for exile by day, and in the 
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a shoulder  |**<big>&#8207;[[H3802\|כָּתֵ֥ף]]&#8207; </big>**| ka.Tef<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I lifted [it] up  |**<big>&#8207;[[H5375H\|נָשָׂ֖אתִי]]&#8207; </big>**| na.Sa.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to eyes their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5869H\|עֵינֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to eyes their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5869H\|עֵינֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.6|<< Ezekiel 12:6]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.8|Ezekiel 12:8 >>]]</td></tr></table>
 
 

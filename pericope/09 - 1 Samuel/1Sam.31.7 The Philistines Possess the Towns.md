@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Philistines Possess the Towns
+type: Pericope
 pericope: "[[1Sam.31.7 The Philistines Possess the Towns|The Philistines Possess the Towns]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 31
 book/chapter: "[[1Sam.31|1 Samuel 31]]"
-genre:
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[1Sam.31.7]]"
 - "[[1Sam.31.8]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Sam.31.10]]"
 ---
 
-[[1Sam.31|1 Samuel 31:7 - 1 Samuel 31:10]]
+<small>[[1Sam.31|1 Samuel 31:7-10]]</small>
 *The Philistines Possess the Towns*
 
 [[1Sam.31.7|7]] And when the men of Israel that \[were\] on the other side of the valley, and \[they\] that \[were\] on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them.

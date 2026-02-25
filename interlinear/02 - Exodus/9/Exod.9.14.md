@@ -1,8 +1,73 @@
+---
+title: Exodus 9:14
+type: Verse
+kjv: "For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that there is none like me in all the earth."
+bsb: "Otherwise, I will send all My plagues against you and your officials and your people, so you may know that there is no one like Me in all the earth."
+hebrew: "כִּ֣י׀ בַּפַּ֣עַם הַזֹּ֗את אֲנִ֨י שֹׁלֵ֜חַ אֶת־ כָּל־ מַגֵּפֹתַי֙ אֶֽל־ לִבְּךָ֔ וּבַעֲבָדֶ֖יךָ וּבְעַמֶּ֑ךָ בַּעֲב֣וּר תֵּדַ֔ע כִּ֛י אֵ֥ין כָּמֹ֖נִי בְּכָל־ הָאָֽרֶץ׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H6471]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H0589]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H4046]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H5971A]]"
+- "[[H5668]]"
+- "[[H3045]]"
+- "[[H0369]]"
+- "[[H3644G]]"
+- "[[H9030]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:14**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that [there is] none like me in all the earth.
 <small><sub>**BSB:**</sub></small>
 Otherwise, I will send all My plagues against you and your officials and your people, so you may know that there is no one like Me in all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H9003\|בַּ]][[H6471\|פַּ֣עַם]] [[H9009\|הַ]][[H2063\|זֹּ֗את]] [[H0589\|אֲנִ֨י]] [[H7971G\|שֹׁלֵ֜חַ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4046\|מַגֵּפֹתַ]][[H9020\|י֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3820A\|לִבְּ]][[H9021\|ךָ֔]] [[H9002\|וּ]][[H9003\|בַ]][[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H5971A\|עַמֶּ֑]][[H9021\|ךָ]] [[H9003\|בַּ]][[H5668\|עֲב֣וּר]] [[H3045\|תֵּדַ֔ע]] [[H3588A\|כִּ֛י]] [[H0369\|אֵ֥ין]] [[H3644G\|כָּמֹ֖]][[H9030\|נִי]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MIRACLES|MIRACLES]] • [[topic SUFFERING|SUFFERING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.13|<< Exodus 9:13]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.15|Exodus 9:15 >>]]</td></tr></table>
 

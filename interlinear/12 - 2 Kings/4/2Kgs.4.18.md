@@ -1,8 +1,58 @@
+---
+title: 2 Kings 4:18
+type: Verse
+kjv: "And when the child was grown, it fell on a day, that he went out to his father to the reapers."
+bsb: "And the child grew, and one day he went out to his father, who was with the harvesters."
+hebrew: "וַיִּגְדַּ֖ל הַיָּ֑לֶד וַיְהִ֣י הַיּ֔וֹם וַיֵּצֵ֥א אֶל־ אָבִ֖יו אֶל־ הַקֹּצְרִֽים׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H7114B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:18**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the child was grown, it fell on a day, that he went out to his father to the reapers.
 <small><sub>**BSB:**</sub></small>
 And the child grew, and one day he went out to his father, who was with the harvesters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1431\|יִּגְדַּ֖ל]] [[H9009\|הַ]][[H3206\|יָּ֑לֶד]] [[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7114B\|קֹּצְרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic ELISHA|ELISHA]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.17|<< 2 Kings 4:17]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.19|2 Kings 4:19 >>]]</td></tr></table>
 

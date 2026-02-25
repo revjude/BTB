@@ -1,8 +1,56 @@
+---
+title: Isaiah 40:18
+type: Verse
+kjv: "To whom then will ye liken God? or what likeness will ye compare unto him?"
+bsb: "To whom will you liken God? To what image will you compare Him?"
+hebrew: "וְאֶל־ מִ֖י תְּדַמְּי֣וּן אֵ֑ל וּמַה־ דְּמ֖וּת תַּ֥עַרְכוּ לֽוֹ׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H1819]]"
+- "[[H9013]]"
+- "[[H0410G]]"
+- "[[H4100]]"
+- "[[H1823]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:18**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom then will ye liken God? or what likeness will ye compare unto him?
 <small><sub>**BSB:**</sub></small>
 To whom will you liken God? To what image will you compare Him?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4310\|מִ֖י]] [[H1819\|תְּדַמְּי֣וּ]][[H9013\|ן]] [[H0410G\|אֵ֑ל]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H1823\|דְּמ֖וּת]] [[H6186A\|תַּ֥עַרְכוּ]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.17|<< Isaiah 40:17]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.19|Isaiah 40:19 >>]]</td></tr></table>
 

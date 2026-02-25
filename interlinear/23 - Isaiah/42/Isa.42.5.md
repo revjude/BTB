@@ -1,8 +1,73 @@
+---
+title: Isaiah 42:5
+type: Verse
+kjv: "Thus saith God the LORD, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:"
+bsb: "This is what God the LORD says—He who created the heavens and stretched them out, who spread out the earth and its offspring, who gives breath to the people on it and life to those who walk in it:"
+hebrew: "כֹּֽה־ אָמַ֞ר הָאֵ֣ל׀ יְהוָ֗ה בּוֹרֵ֤א הַשָּׁמַ֙יִם֙ וְנ֣וֹטֵיהֶ֔ם רֹקַ֥ע הָאָ֖רֶץ וְצֶאֱצָאֶ֑יהָ נֹתֵ֤ן נְשָׁמָה֙ לָעָ֣ם עָלֶ֔יהָ וְר֖וּחַ לַהֹלְכִ֥ים בָּֽהּ׃"
+pericope: "[[Isa.42.1 Here Is My Servant|Here Is My Servant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H1254A]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H5186]]"
+- "[[H9038]]"
+- "[[H7554]]"
+- "[[H0776G]]"
+- "[[H6631]]"
+- "[[H9024]]"
+- "[[H5414G]]"
+- "[[H5397]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H7307G]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:5**<big><big>[[Isa.42.1 Here Is My Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith God the LORD, he that created the heavens, and stretched them out; he that spread forth the earth, and that which cometh out of it; he that giveth breath unto the people upon it, and spirit to them that walk therein:
 <small><sub>**BSB:**</sub></small>
 This is what God the LORD says—He who created the heavens and stretched them out, who spread out the earth and its offspring, who gives breath to the people on it and life to those who walk in it:
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H9009\|הָ]][[H0410G\|אֵ֣ל]][[H9015\|׀]] [[H3068G\|יְהוָ֗ה]] [[H1254A\|בּוֹרֵ֤א]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9002\|וְ]][[H5186\|נ֣וֹטֵי]][[H9038\|הֶ֔ם]] [[H7554\|רֹקַ֥ע]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H6631\|צֶאֱצָאֶ֑י]][[H9024\|הָ]] [[H5414G\|נֹתֵ֤ן]] [[H5397\|נְשָׁמָה֙]] [[H9005\|לָ]][[H5971A\|עָ֣ם]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9002\|וְ]][[H7307G\|ר֖וּחַ]] [[H9005\|לַ]][[H1980I\|הֹלְכִ֥ים]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.4|<< Isaiah 42:4]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.6|Isaiah 42:6 >>]]</td></tr></table>
 

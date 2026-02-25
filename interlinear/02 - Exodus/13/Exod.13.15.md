@@ -1,8 +1,85 @@
+---
+title: Exodus 13:15
+type: Verse
+kjv: "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem."
+bsb: "And when Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in the land of Egypt, both of man and beast. This is why I sacrifice to the LORD the firstborn male of every womb, but I redeem all the firstborn of my sons.’"
+hebrew: "וַיְהִ֗י כִּֽי־ הִקְשָׁ֣ה פַרְעֹה֮ לְשַׁלְּחֵנוּ֒ וַיַּהֲרֹ֨ג יְהֹוָ֤ה כָּל־ בְּכוֹר֙ בְּאֶ֣רֶץ מִצְרַ֔יִם מִבְּכֹ֥ר אָדָ֖ם וְעַד־ בְּכ֣וֹר בְּהֵמָ֑ה עַל־ כֵּן֩ אֲנִ֨י זֹבֵ֜חַ לַֽיהוָ֗ה כָּל־ פֶּ֤טֶר רֶ֙חֶם֙ הַזְּכָרִ֔ים וְכָל־ בְּכ֥וֹר בָּנַ֖י אֶפְדֶּֽה׃"
+pericope: "[[Exod.13.1 The Dedication of the Firstborn|The Dedication of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic FRONTLETS|FRONTLETS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MEMORIAL|MEMORIAL]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7185]]"
+- "[[H6547J]]"
+- "[[H9005]]"
+- "[[H7971H]]"
+- "[[H9035]]"
+- "[[H2026]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H1060]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9006]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0929]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H0589]]"
+- "[[H2076]]"
+- "[[H6363A]]"
+- "[[H7358]]"
+- "[[H9009]]"
+- "[[H2145]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H6299]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:15**<big><big>[[Exod.13.1 The Dedication of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem.
 <small><sub>**BSB:**</sub></small>
 And when Pharaoh stubbornly refused to let us go, the LORD killed every firstborn in the land of Egypt, both of man and beast. This is why I sacrifice to the LORD the firstborn male of every womb, but I redeem all the firstborn of my sons.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7185\|הִקְשָׁ֣ה]] [[H6547J\|פַרְעֹה֮]] [[H9005\|לְ]][[H7971H\|שַׁלְּחֵ]][[H9035\|נוּ֒]] [[H9001\|וַ]][[H2026\|יַּהֲרֹ֨ג]] [[H3068G\|יְהֹוָ֤ה]] [[H3605\|כָּל]][[H9014\|־]] [[H1060\|בְּכוֹר֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9006\|מִ]][[H1060\|בְּכֹ֥ר]] [[H0120G\|אָדָ֖ם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1060\|בְּכ֣וֹר]] [[H0929\|בְּהֵמָ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֩]] [[H0589\|אֲנִ֨י]] [[H2076\|זֹבֵ֜חַ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֗ה]] [[H3605\|כָּל]][[H9014\|־]] [[H6363A\|פֶּ֤טֶר]] [[H7358\|רֶ֙חֶם֙]] [[H9009\|הַ]][[H2145\|זְּכָרִ֔ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1060\|בְּכ֥וֹר]] [[H1121A\|בָּנַ֖]][[H9020\|י]] [[H6299\|אֶפְדֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic FRONTLETS|FRONTLETS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic ISRAEL|ISRAEL]] • [[topic MEMORIAL|MEMORIAL]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.14|<< Exodus 13:14]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.16|Exodus 13:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

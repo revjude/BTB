@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Decries His Comforters
+type: Pericope
 pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 16
 book/chapter: "[[Job.16|Job 16]]"
-genre:
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 22
 verses:
 - "[[Job.16.1]]"
 - "[[Job.16.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Job.16.22]]"
 ---
 
-[[Job.16|Job 16:1 - Job 16:22]]
+<small>[[Job.16|Job 16:1-22]]</small>
 *Job Decries His Comforters*
 
 [[Job.16.1|1]] Then Job answered and said,

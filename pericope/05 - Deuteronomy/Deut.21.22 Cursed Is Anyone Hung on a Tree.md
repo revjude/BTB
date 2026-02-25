@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cursed Is Anyone Hung on a Tree
+type: Pericope
 pericope: "[[Deut.21.22 Cursed Is Anyone Hung on a Tree|Cursed Is Anyone Hung on a Tree]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 21
 book/chapter: "[[Deut.21|Deuteronomy 21]]"
-genre:
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,12 +26,13 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 2
 verses:
 - "[[Deut.21.22]]"
 - "[[Deut.21.23]]"
 ---
 
-[[Deut.21|Deuteronomy 21:22 - Deuteronomy 21:23]]
+<small>[[Deut.21|Deuteronomy 21:22-23]]</small>
 *Cursed Is Anyone Hung on a Tree*
 
 [[Deut.21.22|22]] And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:

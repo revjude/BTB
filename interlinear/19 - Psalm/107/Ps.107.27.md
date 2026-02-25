@@ -1,8 +1,59 @@
+---
+title: Psalm 107:27
+type: Verse
+kjv: "They reel to and fro, and stagger like a drunken man, and are at their wits’ end."
+bsb: "They reeled and staggered like drunkards, and all their skill was useless."
+hebrew: "יָח֣וֹגּוּ וְ֭יָנוּעוּ כַּשִּׁכּ֑וֹר וְכָל־ חָ֝כְמָתָ֗ם תִּתְבַּלָּֽע׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+strongs:
+- "[[H2287]]"
+- "[[H9002]]"
+- "[[H5128]]"
+- "[[H9004]]"
+- "[[H7910]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2451]]"
+- "[[H9028]]"
+- "[[H1104]]"
+- "[[H9016]]"
+texts:
+- L
+- LB(ah)
+---
+
 **Psalms 107:27**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They reel to and fro, and stagger like a drunken man, and are at their wits’ end.
 <small><sub>**BSB:**</sub></small>
 They reeled and staggered like drunkards, and all their skill was useless.
+<small><sub>**Hebrew:**</sub></small>
+[[H2287\|יָח֣וֹגּוּ]] [[H9002\|וְ֭]][[H5128\|יָנוּעוּ]] [[H9004\|כַּ]][[H7910\|שִּׁכּ֑וֹר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2451\|חָ֝כְמָתָ֗]][[H9028\|ם]] [[H1104\|תִּתְבַּלָּֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic COMMERCE|COMMERCE]] • [[topic GOD|GOD]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.26|<< Psalms 107:26]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.28|Psalms 107:28 >>]]</td></tr></table>
 

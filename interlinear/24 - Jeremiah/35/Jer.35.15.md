@@ -1,8 +1,87 @@
+---
+title: Jeremiah 35:15
+type: Verse
+kjv: "I have sent also unto you all my servants the prophets, rising up early and sending them, saying, Return ye now every man from his evil way, and amend your doings, and go not after other gods to serve them, and ye shall dwell in the land which I have given to you and to your fathers: but ye have not inclined your ear, nor hearkened unto me."
+bsb: "Again and again I have sent you all My servants the prophets, proclaiming: ‘Turn now, each of you, from your wicked ways, and correct your actions. Do not go after other gods to serve them. Live in the land that I have given to you and your fathers.’ But you have not inclined your ear or listened to Me."
+hebrew: "וָאֶשְׁלַ֣ח אֲלֵיכֶ֣ם אֶת־ כָּל־ עֲבָדַ֣י הַנְּבִאִ֣ים׀ הַשְׁכֵּ֣ים וְשָׁלֹ֣חַ׀ לֵאמֹ֡ר שֻׁבוּ־ נָ֡א אִישׁ֩ מִדַּרְכּ֨וֹ הָרָעָ֜ה וְהֵיטִ֣יבוּ מַֽעַלְלֵיכֶ֗ם וְאַל־ תֵּ֨לְכ֜וּ אַחֲרֵ֨י אֱלֹהִ֤ים אֲחֵרִים֙ לְעָבְדָ֔ם וּשְׁבוּ֙ אֶל־ הָ֣אֲדָמָ֔ה אֲשֶׁר־ נָתַ֥תִּי לָכֶ֖ם וְלַאֲבֹֽתֵיכֶ֑ם וְלֹ֤א הִטִּיתֶם֙ אֶֽת־ אָזְנְכֶ֔ם וְלֹ֥א שְׁמַעְתֶּ֖ם אֵלָֽי׃"
+pericope: "[[Jer.35.12 Judah Rebuked|Judah Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9015]]"
+- "[[H7925]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7725O]]"
+- "[[H4994]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H7451H]]"
+- "[[H3190]]"
+- "[[H4611]]"
+- "[[H9026]]"
+- "[[H0408]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H5647H]]"
+- "[[H9038]]"
+- "[[H3427]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H0001G]]"
+- "[[H3808]]"
+- "[[H5186]]"
+- "[[H0241G]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:15**<big><big>[[Jer.35.12 Judah Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have sent also unto you all my servants the prophets, rising up early and sending [them], saying, Return ye now every man from his evil way, and amend your doings, and go not after other gods to serve them, and ye shall dwell in the land which I have given to you and to your fathers: but ye have not inclined your ear, nor hearkened unto me.
 <small><sub>**BSB:**</sub></small>
 Again and again I have sent you all My servants the prophets, proclaiming: ‘Turn now, each of you, from your wicked ways, and correct your actions. Do not go after other gods to serve them. Live in the land that I have given to you and your fathers.’ But you have not inclined your ear or listened to Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7971G\|אֶשְׁלַ֣ח]] [[H0413\|אֲלֵי]][[H9036\|כֶ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5650\|עֲבָדַ֣]][[H9020\|י]] [[H9009\|הַ]][[H5030\|נְּבִאִ֣ים]][[H9015\|׀]] [[H7925\|הַשְׁכֵּ֣ים]] [[H9002\|וְ]][[H7971G\|שָׁלֹ֣חַ]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹ֡ר]] [[H7725O\|שֻׁבוּ]][[H9014\|־]] [[H4994\|נָ֡א]] [[H0376I\|אִישׁ֩]] [[H9006\|מִ]][[H1870G\|דַּרְכּ֨]][[H9023\|וֹ]] [[H9009\|הָ]][[H7451H\|רָעָ֜ה]] [[H9002\|וְ]][[H3190\|הֵיטִ֣יבוּ]] [[H4611\|מַֽעַלְלֵי]][[H9026\|כֶ֗ם]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1980N\|תֵּ֨לְכ֜וּ]] [[H0310A\|אַחֲרֵ֨י]] [[H0430\|אֱלֹהִ֤ים]] [[H0312\|אֲחֵרִים֙]] [[H9005\|לְ]][[H5647H\|עָבְדָ֔]][[H9038\|ם]] [[H9002\|וּ]][[H3427\|שְׁבוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥תִּי]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9002\|וְ]][[H9005\|לַ]][[H0001G\|אֲבֹֽתֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H5186\|הִטִּיתֶם֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0241G\|אָזְנְ]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שְׁמַעְתֶּ֖ם]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.14|<< Jeremiah 35:14]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.16|Jeremiah 35:16 >>]]</td></tr></table>
 

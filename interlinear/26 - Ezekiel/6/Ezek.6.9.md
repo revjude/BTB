@@ -1,8 +1,78 @@
+---
+title: Ezekiel 6:9
+type: Verse
+kjv: "And they that escape of you shall remember me among the nations whither they shall be carried captives, because I am broken with their whorish heart, which hath departed from me, and with their eyes, which go a whoring after their idols: and they shall lothe themselves for the evils which they have committed in all their abominations."
+bsb: "Then in the nations to which they have been carried captive, your survivors will remember Me—how I have been grieved by their adulterous hearts that turned away from Me, and by their eyes that lusted after idols. So they will loathe themselves for the evil they have done and for all their abominations."
+hebrew: "וְזָכְר֨וּ פְלִֽיטֵיכֶ֜ם אוֹתִ֗י בַּגּוֹיִם֮ אֲשֶׁ֣ר נִשְׁבּוּ־ שָׁם֒ אֲשֶׁ֨ר נִשְׁבַּ֜רְתִּי אֶת־ לִבָּ֣ם הַזּוֹנֶ֗ה אֲשֶׁר־ סָר֙ מֵֽעָלַ֔י וְאֵת֙ עֵֽינֵיהֶ֔ם הַזֹּנ֕וֹת אַחֲרֵ֖י גִּלּֽוּלֵיהֶ֑ם וְנָקֹ֙טּוּ֙ בִּפְנֵיהֶ֔ם אֶל־ הָֽרָעוֹת֙ אֲשֶׁ֣ר עָשׂ֔וּ לְכֹ֖ל תּוֹעֲבֹתֵיהֶֽם׃"
+pericope: "[[Ezek.6.8 A Remnant to Be Blessed|A Remnant to Be Blessed]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H6412A]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H7617]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H7665]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H2181]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H5869A]]"
+- "[[H0310A]]"
+- "[[H1544]]"
+- "[[H6962]]"
+- "[[H6440L]]"
+- "[[H0413]]"
+- "[[H7451I]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H8441]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 6:9**<big><big>[[Ezek.6.8 A Remnant to Be Blessed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that escape of you shall remember me among the nations whither they shall be carried captives, because I am broken with their whorish heart, which hath departed from me, and with their eyes, which go a whoring after their idols: and they shall lothe themselves for the evils which they have committed in all their abominations.
 <small><sub>**BSB:**</sub></small>
 Then in the nations to which they have been carried captive, your survivors will remember Me—how I have been grieved by their adulterous hearts that turned away from Me, and by their eyes that lusted after idols. So they will loathe themselves for the evil they have done and for all their abominations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2142\|זָכְר֨וּ]] [[H6412A\|פְלִֽיטֵי]][[H9026\|כֶ֜ם]] [[H0853\|אוֹתִ֗]][[H9030\|י]] [[H9003\|בַּ]][[H1471A\|גּוֹיִם֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H7617\|נִשְׁבּוּ]][[H9014\|־]] [[H8033G\|שָׁם֒]] [[H0834A\|אֲשֶׁ֨ר]] [[H7665\|נִשְׁבַּ֜רְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבָּ֣]][[H9028\|ם]] [[H9009\|הַ]][[H2181\|זּוֹנֶ֗ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5493H\|סָר֙]] [[H9006\|מֵֽ]][[H5921A\|עָלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H0854\|אֵת֙]] [[H5869A\|עֵֽינֵי]][[H9028\|הֶ֔ם]] [[H9009\|הַ]][[H2181\|זֹּנ֕וֹת]] [[H0310A\|אַחֲרֵ֖י]] [[H1544\|גִּלּֽוּלֵי]][[H9028\|הֶ֑ם]] [[H9001\|וְ]][[H6962\|נָקֹ֙טּוּ֙]] [[H9003\|בִּ]][[H6440L\|פְנֵי]][[H9028\|הֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָֽ]][[H7451I\|רָעוֹת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָשׂ֔וּ]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H8441\|תּוֹעֲבֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.8|<< Ezekiel 6:8]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.10|Ezekiel 6:10 >>]]</td></tr></table>
 

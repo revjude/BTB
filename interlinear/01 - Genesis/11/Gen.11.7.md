@@ -1,8 +1,67 @@
+---
+title: Genesis 11:7
+type: Verse
+kjv: "Go to, let us go down, and there confound their language, that they may not understand one another’s speech."
+bsb: "Come, let Us go down and confuse their language, so that they will not understand one another’s speech.”"
+hebrew: "הָ֚בָה נֵֽרְדָ֔ה וְנָבְלָ֥ה שָׁ֖ם שְׂפָתָ֑ם אֲשֶׁר֙ לֹ֣א יִשְׁמְע֔וּ אִ֖ישׁ שְׂפַ֥ת רֵעֵֽהוּ׃"
+pericope: "[[Gen.11.1 The Tower of Babel|The Tower of Babel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 11
+book/chapter: "[[Gen.11|Genesis 11]]"
+chronological_order: 11
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic BABEL|BABEL]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONFUSION|CONFUSION]]"
+- "[[topic DISPERSION|DISPERSION]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H3051]]"
+- "[[H9012]]"
+- "[[H3381]]"
+- "[[H9002]]"
+- "[[H1101A]]"
+- "[[H8033G]]"
+- "[[H8193K]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H8085J]]"
+- "[[H0376I]]"
+- "[[H8193H]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 11:7**<big><big>[[Gen.11.1 The Tower of Babel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go to, let us go down, and there confound their language, that they may not understand one another’s speech.
 <small><sub>**BSB:**</sub></small>
 Come, let Us go down and confuse their language, so that they will not understand one another’s speech.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3051\|הָ֚בָ]][[H9012\|ה]] [[H3381\|נֵֽרְדָ֔ה]] [[H9002\|וְ]][[H1101A\|נָבְלָ֥ה]] [[H8033G\|שָׁ֖ם]] [[H8193K\|שְׂפָתָ֑]][[H9028\|ם]] [[H0834A\|אֲשֶׁר֙]] [[H3808\|לֹ֣א]] [[H8085J\|יִשְׁמְע֔וּ]] [[H0376I\|אִ֖ישׁ]] [[H8193H\|שְׂפַ֥ת]] [[H7453\|רֵעֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic BABEL|BABEL]] • [[topic BABYLON|BABYLON]] • [[topic CONFUSION|CONFUSION]] • [[topic DISPERSION|DISPERSION]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic TONGUE|TONGUE]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.11.6|<< Genesis 11:6]]</td><td align="center" style="border:none;">[[Gen.11|Genesis 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.11.8|Genesis 11:8 >>]]</td></tr></table>
 

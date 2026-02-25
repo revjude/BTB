@@ -1,8 +1,71 @@
+---
+title: Nehemiah 2:6
+type: Verse
+kjv: "And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time."
+bsb: "Then the king, with the queen seated beside him, asked me, “How long will your journey take, and when will you return?” So it pleased the king to send me, and I set a time."
+hebrew: "וַיֹּאמֶר֩ לִ֨י הַמֶּ֜לֶךְ וְהַשֵּׁגַ֣ל׀ יוֹשֶׁ֣בֶת אֶצְל֗וֹ עַד־ מָתַ֛י יִהְיֶ֥ה מַֽהֲלָכֲךָ֖ וּמָתַ֣י תָּשׁ֑וּב וַיִּיטַ֤ב לִפְנֵֽי־ הַמֶּ֙לֶךְ֙ וַיִּשְׁלָחֵ֔נִי וָֽאֶתְּנָ֥ה ל֖וֹ זְמָֽן׃"
+pericope: "[[Neh.2.1 Nehemiah Sent to Jerusalem|Nehemiah Sent to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H7694]]"
+- "[[H9015]]"
+- "[[H3427]]"
+- "[[H0681]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H1961]]"
+- "[[H4109]]"
+- "[[H9021]]"
+- "[[H7725G]]"
+- "[[H3190]]"
+- "[[H6440L]]"
+- "[[H7971G]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H2165]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:6**<big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time.
 <small><sub>**BSB:**</sub></small>
 Then the king, with the queen seated beside him, asked me, “How long will your journey take, and when will you return?” So it pleased the king to send me, and I set a time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H9005\|לִ֨]][[H9030\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9002\|וְ]][[H9009\|הַ]][[H7694\|שֵּׁגַ֣ל]][[H9015\|׀]] [[H3427\|יוֹשֶׁ֣בֶת]] [[H0681\|אֶצְל֗]][[H9033\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֛י]] [[H1961\|יִהְיֶ֥ה]] [[H4109\|מַֽהֲלָכֲ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H4970\|מָתַ֣י]] [[H7725G\|תָּשׁ֑וּב]] [[H9001\|וַ]][[H3190\|יִּיטַ֤ב]] [[H9005\|לִ]][[H6440L\|פְנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9001\|וַ]][[H7971G\|יִּשְׁלָחֵ֔]][[H9030\|נִי]] [[H9001\|וָֽ]][[H5414G\|אֶתְּנָ֥]][[H9012\|ה]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H2165\|זְמָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic NEHEMIAH|NEHEMIAH]] • [[topic PERSIA|PERSIA]] • [[topic QUEEN|QUEEN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.5|<< Nehemiah 2:5]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.7|Nehemiah 2:7 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Leviticus 25:11
+type: Verse
+kjv: "A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather the grapes in it of thy vine undressed."
+bsb: "The fiftieth year will be a Jubilee for you; you are not to sow the land or reap its aftergrowth or harvest the untended vines."
+hebrew: "יוֹבֵ֣ל הִ֗וא שְׁנַ֛ת הַחֲמִשִּׁ֥ים שָׁנָ֖ה תִּהְיֶ֣ה לָכֶ֑ם לֹ֣א תִזְרָ֔עוּ וְלֹ֤א תִקְצְרוּ֙ אֶת־ סְפִיחֶ֔יהָ וְלֹ֥א תִבְצְר֖וּ אֶת־ נְזִרֶֽיהָ׃"
+pericope: "[[Lev.25.8 The Year of Jubilee|The Year of Jubilee]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H3104]]"
+- "[[H1931]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H2572]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H3808]]"
+- "[[H2232]]"
+- "[[H9002]]"
+- "[[H7114B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5599B]]"
+- "[[H9024]]"
+- "[[H1219]]"
+- "[[H5139]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:11**<big><big>[[Lev.25.8 The Year of Jubilee|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A jubile shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather [the grapes] in it of thy vine undressed.
 <small><sub>**BSB:**</sub></small>
 The fiftieth year will be a Jubilee for you; you are not to sow the land or reap its aftergrowth or harvest the untended vines.
+<small><sub>**Hebrew:**</sub></small>
+[[H3104\|יוֹבֵ֣ל]] [[H1931\|הִ֗וא]] [[H8141\|שְׁנַ֛ת]] [[H9009\|הַ]][[H2572\|חֲמִשִּׁ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H1961\|תִּהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H3808\|לֹ֣א]] [[H2232\|תִזְרָ֔עוּ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H7114B\|תִקְצְרוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5599B\|סְפִיחֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1219\|תִבְצְר֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5139\|נְזִרֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic GRAPE|GRAPE]] • [[topic JUBILEE|JUBILEE]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.10|<< Leviticus 25:10]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.12|Leviticus 25:12 >>]]</td></tr></table>
 

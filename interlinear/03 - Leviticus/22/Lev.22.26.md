@@ -1,8 +1,50 @@
+---
+title: Leviticus 22:26
+type: Verse
+kjv: "And the LORD spake unto Moses, saying,"
+bsb: "Then the LORD said to Moses,"
+hebrew: "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:26**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses, saying,
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H9005\|לֵּ]][[H0559\|אמֹֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.25|<< Leviticus 22:25]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.27|Leviticus 22:27 >>]]</td></tr></table>
 

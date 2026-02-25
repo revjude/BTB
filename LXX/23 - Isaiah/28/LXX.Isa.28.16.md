@@ -1,9 +1,76 @@
+---
+title: LXX Isaiah 28:16
+type: Verse
+lxx: "On account of this, thus says the lord, Behold, I shall put for the foundations of Zion a very costly chosen cornering stone of value for  its foundations; and the one trusting upon it in no way should be disgraced."
+greek: "διά τούτο ούτω λέγει κύριος ιδού εγώ εμβαλλώ εις τα θεμέλια Σιών λίθον πολυτελή εκλεκτόν ακρογωνιαίον έντιμον εις τα θεμέλια αυτής και ο πιστεύων επ΄ αυτώ ου μη καταισχυνθή"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORNERSTONE|CORNERSTONE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3779]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G1685]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2310]]"
+- "[[G4622]]"
+- "[[G3037]]"
+- "[[G4185]]"
+- "[[G1588]]"
+- "[[G0204]]"
+- "[[G1784]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2310]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3364]]"
+- "[[G2617]]"
+---
+
 **LXX Isaiah 28:16** 
 
 ***The Cornerstone in Zion***
 
 <small><sub>**LXX:**</sub></small>
 On account of this, thus says \[the\] <span class="smallcaps">lord</span>, Behold, I shall put for the foundations of Zion a very costly chosen cornering stone of value for  its foundations; and the one trusting upon it in no way should be disgraced. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G3779\|ούτω]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G1685\|εμβαλλώ]] [[G1519\|εις]] [[G3588\|τα]] [[G2310\|θεμέλια]] [[G4622\|Σιών]] [[G3037\|λίθον]] [[G4185\|πολυτελή]] [[G1588\|εκλεκτόν]] [[G0204\|ακρογωνιαίον]] [[G1784\|έντιμον]] [[G1519\|εις]] [[G3588\|τα]] [[G2310\|θεμέλια]] [[G1473\|αυτής]] [[G2532\|και]] [[G3588\|ο]] [[G4100\|πιστεύων]] [[G1909\|επ΄]] [[G1473\|αυτώ]] [[G3364\|ου μη]] [[G2617\|καταισχυνθή]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CORNERSTONE|CORNERSTONE]] • [[topic FAITH|FAITH]] • [[topic HOUSE|HOUSE]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PROPHECY|PROPHECY]] • [[topic STONES|STONES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.15|<< Isaiah 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.17|Isaiah 28:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -40,6 +107,6 @@ On account of this, thus says \[the\] <span class="smallcaps">lord</span>, Behol
 | it | **<big>[[G1473\|αυτώ]]</big>** |
 | in no way | **<big>[[G3364\|ου μη]]</big>** |
 | should be disgraced. | **<big>[[G2617\|καταισχυνθή]]</big>** |
-[[Isa.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.15|<< Isaiah 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.17|Isaiah 28:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.28.15|<< Isaiah 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.28.17|Isaiah 28:17 >>]]</td></tr></table>
 
 

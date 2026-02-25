@@ -1,8 +1,62 @@
+---
+title: 2 Kings 17:32
+type: Verse
+kjv: "So they feared the LORD, and made unto themselves of the lowest of them priests of the high places, which sacrificed for them in the houses of the high places."
+bsb: "So the new residents worshiped the LORD, but they also appointed for themselves priests of all sorts to serve in the shrines of the high places."
+hebrew: "וַיִּהְי֥וּ יְרֵאִ֖ים אֶת־ יְהוָ֑ה וַיַּעֲשׂ֨וּ לָהֶ֤ם מִקְצוֹתָם֙ כֹּהֲנֵ֣י בָמ֔וֹת וַיִּהְי֛וּ עֹשִׂ֥ים לָהֶ֖ם בְּבֵ֥ית הַבָּמֽוֹת׃"
+pericope: "[[2Kgs.17.24 Samaria Resettled|Samaria Resettled]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3373]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H9028]]"
+- "[[H3548]]"
+- "[[H1116]]"
+- "[[H6213I]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:32**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they feared the LORD, and made unto themselves of the lowest of them priests of the high places, which sacrificed for them in the houses of the high places.
 <small><sub>**BSB:**</sub></small>
 So the new residents worshiped the LORD, but they also appointed for themselves priests of all sorts to serve in the shrines of the high places.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֥וּ]] [[H3373\|יְרֵאִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H6213H\|יַּעֲשׂ֨וּ]] [[H9005\|לָ]][[H9038\|הֶ֤ם]] [[H9006\|מִ]][[H7098\|קְצוֹתָ]][[H9028\|ם֙]] [[H3548\|כֹּהֲנֵ֣י]] [[H1116\|בָמ֔וֹת]] [[H9001\|וַ]][[H1961\|יִּהְי֛וּ]] [[H6213I\|עֹשִׂ֥ים]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9003\|בְּ]][[H1004B\|בֵ֥ית]] [[H9009\|הַ]][[H1116\|בָּמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RULERS|RULERS]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.31|<< 2 Kings 17:31]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.33|2 Kings 17:33 >>]]</td></tr></table>
 

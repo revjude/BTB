@@ -1,10 +1,66 @@
+---
+title: John 9:22
+type: Verse
+kjv: "These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue."
+bsb: "His parents said this because they were afraid of the Jews. For the Jews had already determined that anyone who confessed Jesus as the Christ would be put out of the synagogue."
+greek: "Ταῦτα εἶπαν οἱ γονεῖς αὐτοῦ, ὅτι ἐφοβοῦντο τοὺς Ἰουδαίους· ἤδη γὰρ συνετέθειντο οἱ Ἰουδαῖοι ἵνα ἐάν τις αὐτὸν ὁμολογήσῃ χριστόν, ἀποσυνάγωγος γένηται."
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G1118]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G5399]]"
+- "[[G2453]]"
+- "[[G2235]]"
+- "[[G1063]]"
+- "[[G4934]]"
+- "[[G2443]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G3670]]"
+- "[[G5547]]"
+- "[[G0656]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **John 9:22**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These [words] spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.
 <small><sub>**BSB:**</sub></small>
 His parents said this because they were afraid of the Jews. For the Jews had already determined that anyone who confessed Jesus as the Christ would be put out of the synagogue.
-<small><sub>**Literal:**</sub></small>
-These things said the parents of Him because they were afraid of the Jews; already for had agreed together the Jews that if anyone Him shall confess Christ, expelled from the synagogue he shall be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.21|<< John 9:21]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.23|John 9:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G2036\|εἶπαν]]  [[G3588\|οἱ]]  [[G1118\|γονεῖς]]  [[G0846\|αὐτοῦ,]]  [[G3754H\|ὅτι]]  [[G5399\|ἐφοβοῦντο]]  [[G3588\|τοὺς]]  [[G2453\|Ἰουδαίους·]]  [[G2235\|ἤδη]]  [[G1063\|γὰρ]]  [[G4934\|συνετέθειντο]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G2443\|ἵνα]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G0846\|αὐτὸν]]  [[G3670\|ὁμολογήσῃ]]  [[G5547\|χριστόν,]]  [[G0656\|ἀποσυνάγωγος]]  [[G1096\|γένηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic COWARDICE|COWARDICE]] • [[topic FAITH|FAITH]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.21|<< John 9:21]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.23|John 9:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

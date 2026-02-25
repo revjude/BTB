@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fifth Seal：The Martyrs
+type: Pericope
 pericope: "[[Rev.6.9 The Fifth Seal：The Martyrs|The Fifth Seal：The Martyrs]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 6
 book/chapter: "[[Rev.6|Revelation 6]]"
-genre:
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 3
 verses:
 - "[[Rev.6.9]]"
 - "[[Rev.6.10]]"
 - "[[Rev.6.11]]"
 ---
 
-[[Rev.6|Revelation 6:9 - Revelation 6:11]]
+<small>[[Rev.6|Revelation 6:9-11]]</small>
 *The Fifth Seal：The Martyrs*
 
 [[Rev.6.9|9]] And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:

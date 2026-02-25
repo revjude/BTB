@@ -1,8 +1,56 @@
+---
+title: Joshua 21:10
+type: Verse
+kjv: "Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot."
+bsb: "to the descendants of Aaron from the Kohathite clans of the Levites, because the first lot fell to them:"
+hebrew: "וַֽיְהִי֙ לִבְנֵ֣י אַהֲרֹ֔ן מִמִּשְׁפְּח֥וֹת הַקְּהָתִ֖י מִבְּנֵ֣י לֵוִ֑י כִּ֥י לָהֶ֛ם הָיָ֥ה הַגּוֹרָ֖ל רִיאשֹׁנָֽה׃"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H9006]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H6956]]"
+- "[[H3878]]"
+- "[[H3588A]]"
+- "[[H9038]]"
+- "[[H1486]]"
+- "[[H7223G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 21:10**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which the children of Aaron, [being] of the families of the Kohathites, [who were] of the children of Levi, had: for theirs was the first lot.
 <small><sub>**BSB:**</sub></small>
 to the descendants of Aaron from the Kohathite clans of the Levites, because the first lot fell to them:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H0175\|אַהֲרֹ֔ן]] [[H9006\|מִ]][[H4940\|מִּשְׁפְּח֥וֹת]] [[H9009\|הַ]][[H6956\|קְּהָתִ֖י]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H3878\|לֵוִ֑י]] [[H3588A\|כִּ֥י]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H1961\|הָיָ֥ה]] [[H9009\|הַ]][[H1486\|גּוֹרָ֖ל]] [[H7223G\|רִיאשֹׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.9|<< Joshua 21:9]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.11|Joshua 21:11 >>]]</td></tr></table>
 

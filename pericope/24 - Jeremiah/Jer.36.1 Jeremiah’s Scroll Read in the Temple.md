@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah’s Scroll Read in the Temple
+type: Pericope
 pericope: "[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|Jeremiah’s Scroll Read in the Temple]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 36
 book/chapter: "[[Jer.36|Jeremiah 36]]"
-genre:
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 10
 verses:
 - "[[Jer.36.1]]"
 - "[[Jer.36.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Jer.36.10]]"
 ---
 
-[[Jer.36|Jeremiah 36:1 - Jeremiah 36:10]]
+<small>[[Jer.36|Jeremiah 36:1-10]]</small>
 *Jeremiah’s Scroll Read in the Temple*
 
 [[Jer.36.1|1]] And it came to pass in the fourth year of Jehoiakim the son of Josiah king of Judah, \[that\] this word came unto Jeremiah from the LORD, saying,

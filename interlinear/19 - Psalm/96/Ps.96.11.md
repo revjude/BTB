@@ -1,8 +1,55 @@
+---
+title: Psalm 96:11
+type: Verse
+kjv: "Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof."
+bsb: "Let the heavens be glad and the earth rejoice; let the sea resound, and all that fills it."
+hebrew: "יִשְׂמְח֣וּ הַ֭שָּׁמַיִם וְתָגֵ֣ל הָאָ֑רֶץ יִֽרְעַ֥ם הַ֝יָּ֗ם וּמְלֹאֽוֹ׃"
+pericope: "[[Ps.96.1 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 96
+book/chapter: "[[Ps.96|Psalm 96]]"
+chronological_order: 523
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H8055]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H1523]]"
+- "[[H0776G]]"
+- "[[H7481]]"
+- "[[H3220G]]"
+- "[[H4393]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 96:11**<big><big>[[Ps.96.1 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.
 <small><sub>**BSB:**</sub></small>
 Let the heavens be glad and the earth rejoice; let the sea resound, and all that fills it.
+<small><sub>**Hebrew:**</sub></small>
+[[H8055\|יִשְׂמְח֣וּ]] [[H9009\|הַ֭]][[H8064\|שָּׁמַיִם]] [[H9002\|וְ]][[H1523\|תָגֵ֣ל]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H7481\|יִֽרְעַ֥ם]] [[H9009\|הַ֝]][[H3220G\|יָּ֗ם]] [[H9002\|וּ]][[H4393\|מְלֹאֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.96.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.10|<< Psalms 96:10]]</td><td align="center" style="border:none;">[[Ps.96|Psalms 96]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.12|Psalms 96:12 >>]]</td></tr></table>
 

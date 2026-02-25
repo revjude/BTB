@@ -1,8 +1,69 @@
+---
+title: Malachi 1:4
+type: Verse
+kjv: "Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the LORD of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the LORD hath indignation for ever."
+bsb: "Though Edom may say, “We have been devastated, but we will rebuild the ruins,” this is what the LORD of Hosts says: “They may build, but I will demolish. They will be called the Land of Wickedness, and a people with whom the LORD is indignant forever."
+hebrew: "כִּֽי־ תֹאמַ֨ר אֱד֜וֹם רֻשַּׁ֗שְׁנוּ וְנָשׁוּב֙ וְנִבְנֶ֣ה חֳרָב֔וֹת כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הֵ֥מָּה יִבְנ֖וּ וַאֲנִ֣י אֶהֱר֑וֹס וְקָרְא֤וּ לָהֶם֙ גְּב֣וּל רִשְׁעָ֔ה וְהָעָ֛ם אֲשֶׁר־ זָעַ֥ם יְהוָ֖ה עַד־ עוֹלָֽם׃"
+pericope: "[[Mal.1.1 The LORD’s Love for Israel|The LORD’s Love for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0123G]]"
+- "[[H7567]]"
+- "[[H9002]]"
+- "[[H7725H]]"
+- "[[H1129]]"
+- "[[H2723]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H1992]]"
+- "[[H0589]]"
+- "[[H2040]]"
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1366H]]"
+- "[[H7564]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H2194]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 1:4**<big><big>[[Mal.1.1 The LORD’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whereas Edom saith, We are impoverished, but we will return and build the desolate places; thus saith the LORD of hosts, They shall build, but I will throw down; and they shall call them, The border of wickedness, and, The people against whom the LORD hath indignation for ever.
 <small><sub>**BSB:**</sub></small>
 Though Edom may say, “We have been devastated, but we will rebuild the ruins,” this is what the LORD of Hosts says: “They may build, but I will demolish. They will be called the Land of Wickedness, and a people with whom the LORD is indignant forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|תֹאמַ֨ר]] [[H0123G\|אֱד֜וֹם]] [[H7567\|רֻשַּׁ֗שְׁנוּ]] [[H9002\|וְ]][[H7725H\|נָשׁוּב֙]] [[H9002\|וְ]][[H1129\|נִבְנֶ֣ה]] [[H2723\|חֳרָב֔וֹת]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H1992\|הֵ֥מָּה]] [[H1129\|יִבְנ֖וּ]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H2040\|אֶהֱר֑וֹס]] [[H9001\|וְ]][[H7121H\|קָרְא֤וּ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H1366H\|גְּב֣וּל]] [[H7564\|רִשְׁעָ֔ה]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2194\|זָעַ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.3|<< Malachi 1:3]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.1.5|Malachi 1:5 >>]]</td></tr></table>
 

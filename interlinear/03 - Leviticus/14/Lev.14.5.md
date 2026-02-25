@@ -1,8 +1,61 @@
+---
+title: Leviticus 14:5
+type: Verse
+kjv: "And the priest shall command that one of the birds be killed in an earthen vessel over running water:"
+bsb: "Then the priest shall command that one of the birds be slaughtered over fresh water in a clay pot."
+hebrew: "וְצִוָּה֙ הַכֹּהֵ֔ן וְשָׁחַ֖ט אֶת־ הַצִּפּ֣וֹר הָאֶחָ֑ת אֶל־ כְּלִי־ חֶ֖רֶשׂ עַל־ מַ֥יִם חַיִּֽים׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SCAPEBIRD|SCAPEBIRD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H7819A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6833]]"
+- "[[H0259]]"
+- "[[H0413]]"
+- "[[H3627]]"
+- "[[H2789]]"
+- "[[H5921A]]"
+- "[[H4325G]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:5**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall command that one of the birds be killed in an earthen vessel over running water:
 <small><sub>**BSB:**</sub></small>
 Then the priest shall command that one of the birds be slaughtered over fresh water in a clay pot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6680\|צִוָּה֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9001\|וְ]][[H7819A\|שָׁחַ֖ט]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6833\|צִּפּ֣וֹר]] [[H9009\|הָ]][[H0259\|אֶחָ֑ת]] [[H0413\|אֶל]][[H9014\|־]] [[H3627\|כְּלִי]][[H9014\|־]] [[H2789\|חֶ֖רֶשׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H4325G\|מַ֥יִם]] [[H2416A\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SCAPEBIRD|SCAPEBIRD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.4|<< Leviticus 14:4]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.6|Leviticus 14:6 >>]]</td></tr></table>
 

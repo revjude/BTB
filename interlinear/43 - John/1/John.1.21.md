@@ -1,10 +1,54 @@
+---
+title: John 1:21
+type: Verse
+kjv: "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No."
+bsb: "“Then who are you?” they inquired. “Are you Elijah?” He said, “I am not.” “Are you the Prophet?” He answered, “No.”"
+greek: "Καὶ ἠρώτησαν αὐτόν· τί οὖν; σὺ Ἠλίας εἶ; καὶ λέγει· οὐκ εἰμί. ὁ προφήτης εἶ σύ; καὶ ἀπεκρίθη· οὔ."
+pericope: "[[John.1.19 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G4771]]"
+- "[[G2243]]"
+- "[[G1510]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G4396]]"
+- "[[G0611]]"
+texts:
+- NKO
+---
+
 **John 1:21**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.
 <small><sub>**BSB:**</sub></small>
 “Then who are you?” they inquired. “Are you Elijah?” He said, “I am not.” “Are you the Prophet?” He answered, “No.”
-<small><sub>**Literal:**</sub></small>
-And they asked him; What then? You yourself Elijah are And he says; Not I am. The prophet are you yourself? And he answered; No.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.20|<< John 1:20]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.22|John 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2065\|ἠρώτησαν]]  [[G0846\|αὐτόν·]]  [[G5101\|τί]]  [[G3767\|οὖν;]]  [[G4771\|σὺ]]  [[G2243\|Ἠλίας]]  [[G1510\|εἶ;]]  [[G2532\|καὶ]]  [[G3004G\|λέγει·]]  [[G3756\|οὐκ]]  [[G1510\|εἰμί.]]  [[G3588\|ὁ]]  [[G4396\|προφήτης]]  [[G1510\|εἶ]]  [[G4771\|σύ;]]  [[G2532\|καὶ]]  [[G0611\|ἀπεκρίθη·]]  [[G3756\|οὔ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.20|<< John 1:20]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.22|John 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

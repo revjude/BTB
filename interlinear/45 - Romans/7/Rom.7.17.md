@@ -1,10 +1,55 @@
+---
+title: Romans 7:17
+type: Verse
+kjv: "Now then it is no more I that do it, but sin that dwelleth in me."
+bsb: "In that case, it is no longer I who do it, but it is sin living in me that does it."
+greek: "νυνὶ δὲ οὐκέτι οὐκέτι ἐγὼ κατεργάζομαι αὐτὸ ἀλλ᾽ ἡ οἰκοῦσα ἐν ἐμοὶ ἁμαρτία."
+pericope: "[[Rom.7.13 Struggling with Sin|Struggling with Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G1473]]"
+- "[[G2716]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G3611]]"
+- "[[G1722]]"
+- "[[G0266]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Romans 7:17**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now then it is no more I that do it, but sin that dwelleth in me.
 <small><sub>**BSB:**</sub></small>
 In that case, it is no longer I who do it, but it is sin living in me that does it.
-<small><sub>**Literal:**</sub></small>
-In that case now no longer I myself am doing it but that which is dwelling in me myself sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.16|<< Romans 7:16]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.18|Romans 7:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3570\|νυνὶ]]  [[G1161\|δὲ]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1473\|ἐγὼ]]  [[G2716\|κατεργάζομαι]]  [[G0846\|αὐτὸ]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ἡ]]  [[G3611\|οἰκοῦσα]]  [[G1722\|ἐν]]  [[G1473\|ἐμοὶ]]  [[G0266\|ἁμαρτία.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic MAN|MAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.16|<< Romans 7:16]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.18|Romans 7:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

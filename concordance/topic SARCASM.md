@@ -13,7 +13,7 @@
 
 - Joshua to the descendants of Joseph [[Josh.17.15|Jos 17:15]]
 
-- By Jotham [[Judg.9.7|Jud 9:7]]-[[Judg.9.19|19]]
+- By Jotham [[Judg.9.7|Jud 9:7-19]]
 
 - By Samson [[Judg.14.18|Jud 14:18]]
 

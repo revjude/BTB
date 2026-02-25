@@ -1,8 +1,75 @@
+---
+title: Amos 1:11
+type: Verse
+kjv: "Thus saith the LORD; For three transgressions of Edom, and for four, I will not turn away the punishment thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:"
+bsb: "This is what the LORD says: “For three transgressions of Edom, even four, I will not revoke My judgment, because he pursued his brother with the sword and stifled all compassion; his anger raged continually, and his fury flamed incessantly."
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה עַל־ שְׁלֹשָׁה֙ פִּשְׁעֵ֣י אֱד֔וֹם וְעַל־ אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַל־ רָדְפ֨וֹ בַחֶ֤רֶב אָחִיו֙ וְשִׁחֵ֣ת רַחֲמָ֔יו וַיִּטְרֹ֤ף לָעַד֙ אַפּ֔וֹ וְעֶבְרָת֖וֹ שְׁמָ֥רָה נֶֽצַח׃"
+pericope: "[[Amos.1.1 Judgment on Israel’s Neighbors|Judgment on Israel’s Neighbors]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 1
+book/chapter: "[[Amos.1|Amos 1]]"
+chronological_order: 598
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic REVENGE|REVENGE]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H6588]]"
+- "[[H0123G]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H3808]]"
+- "[[H7725O]]"
+- "[[H9033]]"
+- "[[H7291]]"
+- "[[H9043]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7843]]"
+- "[[H7356B]]"
+- "[[H2963]]"
+- "[[H9005]]"
+- "[[H5703]]"
+- "[[H0639G]]"
+- "[[H5678]]"
+- "[[H8104G]]"
+- "[[H9034]]"
+- "[[H5331]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 1:11**<big><big>[[Amos.1.1 Judgment on Israel’s Neighbors|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; For three transgressions of Edom, and for four, I will not turn away [the punishment] thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “For three transgressions of Edom, even four, I will not revoke My judgment, because he pursued his brother with the sword and stifled all compassion; his anger raged continually, and his fury flamed incessantly.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7969\|שְׁלֹשָׁה֙]] [[H6588\|פִּשְׁעֵ֣י]] [[H0123G\|אֱד֔וֹם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבָּעָ֖ה]] [[H3808\|לֹ֣א]] [[H7725O\|אֲשִׁיבֶ֑]][[H9033\|נּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H7291\|רָדְפ֨]][[H9043\|וֹ]] [[H9003\|בַ]][[H2719\|חֶ֤רֶב]] [[H0251G\|אָחִי]][[H9023\|ו֙]] [[H9001\|וְ]][[H7843\|שִׁחֵ֣ת]] [[H7356B\|רַחֲמָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H2963\|יִּטְרֹ֤ף]] [[H9005\|לָ]][[H5703\|עַד֙]] [[H0639G\|אַפּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H5678\|עֶבְרָת֖]][[H9023\|וֹ]] [[H8104G\|שְׁמָ֥רָ]][[H9034\|ה]] [[H5331\|נֶֽצַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic EDOMITES|EDOMITES]] • [[topic MALICE|MALICE]] • [[topic REVENGE|REVENGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.1.10|<< Amos 1:10]]</td><td align="center" style="border:none;">[[Amos.1|Amos 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.1.12|Amos 1:12 >>]]</td></tr></table>
 

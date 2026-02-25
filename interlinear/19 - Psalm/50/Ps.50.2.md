@@ -1,8 +1,51 @@
+---
+title: Psalm 50:2
+type: Verse
+kjv: "Out of Zion, the perfection of beauty, God hath shined."
+bsb: "From Zion, perfect in beauty, God shines forth."
+hebrew: "מִצִּיּ֥וֹן מִכְלַל־ יֹ֗פִי אֱלֹהִ֥ים הוֹפִֽיעַ׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9006]]"
+- "[[H6726]]"
+- "[[H4359]]"
+- "[[H9014]]"
+- "[[H3308]]"
+- "[[H0430G]]"
+- "[[H3313]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:2**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of Zion, the perfection of beauty, God hath shined.
 <small><sub>**BSB:**</sub></small>
 From Zion, perfect in beauty, God shines forth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6726\|צִּיּ֥וֹן]] [[H4359\|מִכְלַל]][[H9014\|־]] [[H3308\|יֹ֗פִי]] [[H0430G\|אֱלֹהִ֥ים]] [[H3313\|הוֹפִֽיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.1|<< Psalms 50:1]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.3|Psalms 50:3 >>]]</td></tr></table>
 

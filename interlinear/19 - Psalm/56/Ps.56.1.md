@@ -1,8 +1,57 @@
+---
+title: Psalm 56:1
+type: Verse
+kjv: "Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me."
+bsb: "For the choirmaster. To the tune of “A Dove on Distant Oaks.” A Miktam of David, when the Philistines seized him in Gath. Be merciful to me, O God, for men are hounding me; all day they press their attack."
+hebrew: "חָנֵּ֣נִי אֱ֭לֹהִים כִּֽי־ שְׁאָפַ֣נִי אֱנ֑וֹשׁ כָּל־ הַ֝יּ֗וֹם לֹחֵ֥ם יִלְחָצֵֽנִי׃"
+pericope: "[[Ps.56.1 Be Merciful to Me, O God|Be Merciful to Me, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 56
+book/chapter: "[[Ps.56|Psalm 56]]"
+chronological_order: 315
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H2603A]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7602B]]"
+- "[[H0582]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3898A]]"
+- "[[H3905]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 56:1**<big><big>[[Ps.56.1 Be Merciful to Me, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be merciful unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “A Dove on Distant Oaks.” A Miktam of David, when the Philistines seized him in Gath. Be merciful to me, O God, for men are hounding me; all day they press their attack.
+<small><sub>**Hebrew:**</sub></small>
+[[H2603A\|חָנֵּ֣]][[H9030\|נִי]] [[H0430G\|אֱ֭לֹהִים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7602B\|שְׁאָפַ֣]][[H9030\|נִי]] [[H0582\|אֱנ֑וֹשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֝]][[H3117G\|יּ֗וֹם]] [[H3898A\|לֹחֵ֥ם]] [[H3905\|יִלְחָצֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.56.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.56.0|<< Psalms 56:0]]</td><td align="center" style="border:none;">[[Ps.56|Psalms 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.2|Psalms 56:2 >>]]</td></tr></table>
 

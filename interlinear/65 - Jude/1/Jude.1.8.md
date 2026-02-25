@@ -1,10 +1,48 @@
+---
+title: Jude 1:8
+type: Verse
+kjv: "Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities."
+bsb: "Yet in the same way these dreamers defile their bodies, reject authority, and slander glorious beings."
+greek: "ὁμοίως μέντοι καὶ οὗτοι ἐνυπνιαζόμενοι σάρκα μὲν μιαίνουσιν, κυριότητα δὲ ἀθετοῦσιν, δόξας δὲ βλασφημοῦσιν."
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G3668]]"
+- "[[G3305]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G1797]]"
+- "[[G4561]]"
+- "[[G3303]]"
+- "[[G3392]]"
+- "[[G2963]]"
+- "[[G1161]]"
+- "[[G0114]]"
+- "[[G1391]]"
+- "[[G0987]]"
+texts:
+- NKO
+---
+
 **Jude 1:8**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Likewise also these [filthy] dreamers defile the flesh, despise dominion, and speak evil of dignities.
 <small><sub>**BSB:**</sub></small>
 Yet in the same way these dreamers defile their bodies, reject authority, and slander glorious beings.
-<small><sub>**Literal:**</sub></small>
-Likewise yet also these dreaming [ones] [the] flesh indeed defile, authority however they set aside, glorious [ones] however they blaspheme.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.7|<< Jude 1:7]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.9|Jude 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3668\|ὁμοίως]]  [[G3305\|μέντοι]]  [[G2532\|καὶ]]  [[G3778\|οὗτοι]]  [[G1797\|ἐνυπνιαζόμενοι]]  [[G4561\|σάρκα]]  [[G3303\|μὲν]]  [[G3392\|μιαίνουσιν,]]  [[G2963\|κυριότητα]]  [[G1161\|δὲ]]  [[G0114\|ἀθετοῦσιν,]]  [[G1391\|δόξας]]  [[G1161\|δὲ]]  [[G0987\|βλασφημοῦσιν.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.7|<< Jude 1:7]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.9|Jude 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

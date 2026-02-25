@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Redemption for God’s People
+type: Pericope
 pericope: "[[Jer.50.17 Redemption for God’s People|Redemption for God’s People]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 50
 book/chapter: "[[Jer.50|Jeremiah 50]]"
-genre:
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 4
 verses:
 - "[[Jer.50.17]]"
 - "[[Jer.50.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jer.50.20]]"
 ---
 
-[[Jer.50|Jeremiah 50:17 - Jeremiah 50:20]]
+<small>[[Jer.50|Jeremiah 50:17-20]]</small>
 *Redemption for God’s People*
 
 [[Jer.50.17|17]] Israel \[is\] a scattered sheep; the lions have driven \[him\] away: first the king of Assyria hath devoured him; and last this Nebuchadrezzar king of Babylon hath broken his bones.

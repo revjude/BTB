@@ -1,8 +1,54 @@
+---
+title: Jeremiah 35:12
+type: Verse
+kjv: "Then came the word of the LORD unto Jeremiah, saying,"
+bsb: "Then the word of the LORD came to Jeremiah:"
+hebrew: "וַֽיְהִי֙ דְּבַר־ יְהוָ֔ה אֶֽל־ יִרְמְיָ֖הוּ לֵאמֹֽר׃"
+pericope: "[[Jer.35.12 Judah Rebuked|Judah Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:12**<big><big>[[Jer.35.12 Judah Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came the word of the LORD unto Jeremiah, saying,
 <small><sub>**BSB:**</sub></small>
 Then the word of the LORD came to Jeremiah:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.11|<< Jeremiah 35:11]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.13|Jeremiah 35:13 >>]]</td></tr></table>
 

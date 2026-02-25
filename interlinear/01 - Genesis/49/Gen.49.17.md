@@ -1,8 +1,66 @@
+---
+title: Genesis 49:17
+type: Verse
+kjv: "Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward."
+bsb: "He will be a snake by the road, a viper in the path that bites the horse’s heels so that its rider tumbles backward."
+hebrew: "יְהִי־ דָן֙ נָחָ֣שׁ עֲלֵי־ דֶ֔רֶךְ שְׁפִיפֹ֖ן עֲלֵי־ אֹ֑רַח הַנֹּשֵׁךְ֙ עִקְּבֵי־ ס֔וּס וַיִּפֹּ֥ל רֹכְב֖וֹ אָחֽוֹר׃"
+pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADDER|ADDER]]"
+- "[[topic DAN|DAN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SERPENT|SERPENT]]"
+strongs:
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H1835H]]"
+- "[[H5175]]"
+- "[[H5921A]]"
+- "[[H1870L]]"
+- "[[H8207]]"
+- "[[H0734]]"
+- "[[H9009]]"
+- "[[H5391A]]"
+- "[[H6119]]"
+- "[[H5483M]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H7392]]"
+- "[[H9023]]"
+- "[[H0268]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 49:17**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dan shall be a serpent by the way, an adder in the path, that biteth the horse heels, so that his rider shall fall backward.
 <small><sub>**BSB:**</sub></small>
 He will be a snake by the road, a viper in the path that bites the horse’s heels so that its rider tumbles backward.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יְהִי]][[H9014\|־]] [[H1835H\|דָן֙]] [[H5175\|נָחָ֣שׁ]] [[H5921A\|עֲלֵי]][[H9014\|־]] [[H1870L\|דֶ֔רֶךְ]] [[H8207\|שְׁפִיפֹ֖ן]] [[H5921A\|עֲלֵי]][[H9014\|־]] [[H0734\|אֹ֑רַח]] [[H9009\|הַ]][[H5391A\|נֹּשֵׁךְ֙]] [[H6119\|עִקְּבֵי]][[H9014\|־]] [[H5483M\|ס֔וּס]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֥ל]] [[H7392\|רֹכְב֖]][[H9023\|וֹ]] [[H0268\|אָחֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADDER|ADDER]] • [[topic DAN|DAN]] • [[topic DEATH|DEATH]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic SERPENT|SERPENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.16|<< Genesis 49:16]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.18|Genesis 49:18 >>]]</td></tr></table>
 

@@ -1,10 +1,70 @@
+---
+title: Titus 3:3
+type: Verse
+kjv: "For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another."
+bsb: "For at one time we too were foolish, disobedient, misled, and enslaved to all sorts of desires and pleasures—living in malice and envy, being hated and hating one another."
+greek: "ἦμεν γάρ ποτε καὶ ἡμεῖς ἀνόητοι, ἀπειθεῖς, πλανώμενοι, δουλεύοντες ἐπιθυμίαις καὶ ἡδοναῖς ποικίλαις, ἐν κακίᾳ καὶ φθόνῳ διάγοντες, στυγητοί, μισοῦντες ἀλλήλους.¶"
+pericope: "[[Titus.3.1 Heirs of Grace|Heirs of Grace]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 3
+book/chapter: "[[Titus.3|Titus 3]]"
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G4218]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G0453]]"
+- "[[G0545]]"
+- "[[G4105]]"
+- "[[G1398]]"
+- "[[G1939]]"
+- "[[G2237]]"
+- "[[G4164]]"
+- "[[G1722]]"
+- "[[G2549]]"
+- "[[G5355]]"
+- "[[G1236]]"
+- "[[G4767]]"
+- "[[G3404]]"
+- "[[G0240]]"
+texts:
+- NKO
+---
+
 **Titus 3:3**<big><big>[[Titus.3.1 Heirs of Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, [and] hating one another.
 <small><sub>**BSB:**</sub></small>
 For at one time we too were foolish, disobedient, misled, and enslaved to all sorts of desires and pleasures—living in malice and envy, being hated and hating one another.
-<small><sub>**Literal:**</sub></small>
-Were for once also we ourselves foolish, disobedient, being deceived, serving lusts and pleasures various, in malice and envy living, hateful, hating one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.2|<< Titus 3:2]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.4|Titus 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦμεν]]  [[G1063\|γάρ]]  [[G4218\|ποτε]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G0453\|ἀνόητοι,]]  [[G0545\|ἀπειθεῖς,]]  [[G4105\|πλανώμενοι,]]  [[G1398\|δουλεύοντες]]  [[G1939\|ἐπιθυμίαις]]  [[G2532\|καὶ]]  [[G2237\|ἡδοναῖς]]  [[G4164\|ποικίλαις,]]  [[G1722\|ἐν]]  [[G2549\|κακίᾳ]]  [[G2532\|καὶ]]  [[G5355\|φθόνῳ]]  [[G1236\|διάγοντες,]]  [[G4767\|στυγητοί,]]  [[G3404\|μισοῦντες]]  [[G0240\|ἀλλήλους.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic CHARACTER|CHARACTER]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic ENVY|ENVY]] • [[topic FOOL|FOOL]] • [[topic MALICE|MALICE]] • [[topic PLEASURE|PLEASURE]] • [[topic SALVATION|SALVATION]] • [[topic STRIFE|STRIFE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.2|<< Titus 3:2]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.4|Titus 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

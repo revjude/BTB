@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Extol Him, All You Peoples
+type: Pericope
 pericope: "[[Ps.117.1 Extol Him, All You Peoples|Extol Him, All You Peoples]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 117
 book/chapter: "[[Ps.117|Psalm 117]]"
-genre:
+chronological_order: 879
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,12 +24,13 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 2
 verses:
 - "[[Ps.117.1]]"
 - "[[Ps.117.2]]"
 ---
 
-[[Ps.117|Psalm 117:1 - Psalm 117:2]]
+<small>[[Ps.117|Psalm 117:1-2]]</small>
 *Extol Him, All You Peoples*
 
 [[Ps.117.1|1]] O praise the LORD, all ye nations: praise him, all ye people.

@@ -1,6 +1,54 @@
+---
+title: LXX Esther 2:10
+type: Verse
+lxx: "But Esther did not plainly show  her race, nor her fatherland.  For Mordecai gave charge to her not to report it."
+greek: "και ουχ υπέδειξεν Εσθήρ το γένος αυτής ουδέ την πατρίδα ο γαρ Μαρδοχαίος ενετείλατο αυτή μη απαγγείλαι"
+original_language: Greek
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G5263]]"
+- "[[H0635]]"
+- "[[G3588]]"
+- "[[G1085]]"
+- "[[G1473]]"
+- "[[G3761]]"
+- "[[G3588]]"
+- "[[G3968]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[H4782]]"
+- "[[G1781]]"
+- "[[G1473]]"
+- "[[G3361]]"
+- "[[G0518]]"
+---
+
 **LXX Esther 2:10** 
 <small><sub>**LXX:**</sub></small>
 But Esther did not plainly show  her race, nor \[her\] fatherland.  For Mordecai gave charge to her not to report \[it\]. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3756\|ουχ]] [[G5263\|υπέδειξεν]] [[H0635\|Εσθήρ]] [[G3588\|το]] [[G1085\|γένος]] [[G1473\|αυτής]] [[G3761\|ουδέ]] [[G3588\|την]] [[G3968\|πατρίδα]] [[G3588\|ο]] [[G1063\|γαρ]] [[H4782\|Μαρδοχαίος]] [[G1781\|ενετείλατο]] [[G1473\|αυτή]] [[G3361\|μη]] [[G0518\|απαγγείλαι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic TACT|TACT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Esth.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.9|<< Esther 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.11|Esther 2:11 >>]]</td></tr></table>
 
@@ -22,6 +70,6 @@ But Esther did not plainly show  her race, nor \[her\] fatherland.  For Mordecai
 | to her | **<big>[[G1473\|αυτή]]</big>** |
 | not | **<big>[[G3361\|μη]]</big>** |
 | to report \[it\]. | **<big>[[G0518\|απαγγείλαι]]</big>** |
-[[Esth.2.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.9|<< Esther 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.11|Esther 2:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.2.9|<< Esther 2:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.2.11|Esther 2:11 >>]]</td></tr></table>
 
 

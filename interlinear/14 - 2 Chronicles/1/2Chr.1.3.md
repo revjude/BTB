@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 1:3
+type: Verse
+kjv: "So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness."
+bsb: "And Solomon and the whole assembly went to the high place at Gibeon because it was the location of God’s Tent of Meeting, which Moses the servant of the LORD had made in the wilderness."
+hebrew: "וַיֵּלְכ֗וּ שְׁלֹמֹה֙ וְכָל־ הַקָּהָ֣ל עִמּ֔וֹ לַבָּמָ֖ה אֲשֶׁ֣ר בְּגִבְע֑וֹן כִּי־ שָׁ֣ם הָיָ֗ה אֹ֤הֶל מוֹעֵד֙ הָֽאֱלֹהִ֔ים אֲשֶׁ֥ר עָשָׂ֛ה מֹשֶׁ֥ה עֶֽבֶד־ יְהוָ֖ה בַּמִּדְבָּֽר׃"
+pericope: "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H8010]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H1116]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1391]]"
+- "[[H3588A]]"
+- "[[H8033G]]"
+- "[[H1961]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H0430G]]"
+- "[[H6213H]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 1:3**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Solomon, and all the congregation with him, went to the high place that [was] at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.
 <small><sub>**BSB:**</sub></small>
 And Solomon and the whole assembly went to the high place at Gibeon because it was the location of God’s Tent of Meeting, which Moses the servant of the LORD had made in the wilderness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכ֗וּ]] [[H8010\|שְׁלֹמֹה֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָ֣ל]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9005\|לַ]][[H1116\|בָּמָ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H1391\|גִבְע֑וֹן]] [[H3588A\|כִּי]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H1961\|הָיָ֗ה]] [[H0168G\|אֹ֤הֶל]] [[H4150I\|מוֹעֵד֙]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עָשָׂ֛ה]] [[H4872\|מֹשֶׁ֥ה]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEON|GIBEON]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.2|<< 2 Chronicles 1:2]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.4|2 Chronicles 1:4 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Isaiah 47:12
+type: Verse
+kjv: "Stand now with thine enchantments, and with the multitude of thy sorceries, wherein thou hast laboured from thy youth; if so be thou shalt be able to profit, if so be thou mayest prevail."
+bsb: "So take your stand with your spells and with your many sorceries, with which you have wearied yourself from your youth. Perhaps you will succeed; perhaps you will inspire terror!"
+hebrew: "עִמְדִי־ נָ֤א בַחֲבָרַ֙יִךְ֙ וּבְרֹ֣ב כְּשָׁפַ֔יִךְ בַּאֲשֶׁ֥ר יָגַ֖עַתְּ מִנְּעוּרָ֑יִךְ אוּלַ֛י תּוּכְלִ֥י הוֹעִ֖יל אוּלַ֥י תַּעֲרֽוֹצִי׃"
+pericope: "[[Isa.47.1 The Humiliation of Babylon|The Humiliation of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 47
+book/chapter: "[[Isa.47|Isaiah 47]]"
+chronological_order: 686
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H5975G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9003]]"
+- "[[H2267]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H7230]]"
+- "[[H3785]]"
+- "[[H0834B]]"
+- "[[H3021]]"
+- "[[H9006]]"
+- "[[H5271A]]"
+- "[[H0194]]"
+- "[[H3201]]"
+- "[[H3276]]"
+- "[[H6206]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 47:12**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Stand now with thine enchantments, and with the multitude of thy sorceries, wherein thou hast laboured from thy youth; if so be thou shalt be able to profit, if so be thou mayest prevail.
 <small><sub>**BSB:**</sub></small>
 So take your stand with your spells and with your many sorceries, with which you have wearied yourself from your youth. Perhaps you will succeed; perhaps you will inspire terror!
+<small><sub>**Hebrew:**</sub></small>
+[[H5975G\|עִמְדִי]][[H9014\|־]] [[H4994\|נָ֤א]] [[H9003\|בַ]][[H2267\|חֲבָרַ֙יִ]][[H9022\|ךְ֙]] [[H9002\|וּ]][[H9003\|בְ]][[H7230\|רֹ֣ב]] [[H3785\|כְּשָׁפַ֔יִ]][[H9022\|ךְ]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֥ר]] [[H3021\|יָגַ֖עַתְּ]] [[H9006\|מִ]][[H5271A\|נְּעוּרָ֑יִ]][[H9022\|ךְ]] [[H0194\|אוּלַ֛י]] [[H3201\|תּוּכְלִ֥י]] [[H3276\|הוֹעִ֖יל]] [[H0194\|אוּלַ֥י]] [[H6206\|תַּעֲרֽוֹצִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.11|<< Isaiah 47:11]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.13|Isaiah 47:13 >>]]</td></tr></table>
 

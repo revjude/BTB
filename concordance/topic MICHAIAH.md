@@ -11,5 +11,5 @@
 
 4. A priest of the family of Asaph [[Neh.12.35|Ne 12:35]],[[Neh.12.41|41]]
 
-5. Son of Gemariah .Who expounds to the prophecies of Jeremiah  read by to the people [[Jer.36.11|Jer 36:11]]-[[Jer.36.14|14]]
+5. Son of Gemariah .Who expounds to the prophecies of Jeremiah  read by to the people [[Jer.36.11|Jer 36:11-14]]
 

@@ -1,10 +1,70 @@
+---
+title: Luke 8:27
+type: Verse
+kjv: "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs."
+bsb: "When Jesus stepped ashore, He was met by a demon-possessed man from the town. For a long time this man had not worn clothing or lived in a house, but he stayed in the tombs."
+greek: "Ἐξελθόντι δὲ αὐτῷ ἐπὶ τὴν γῆν ὑπήντησεν αὐτῷ ἀνήρ τις ἐκ τῆς πόλεως ὃς ἔχων δαιμόνια. καὶ ἐκ χρόνῳ ἱκανῷ οὐκ ἐνεδύσατο ἱμάτιον καὶ ἐν οἰκίᾳ οὐκ ἔμενεν ἀλλ᾽ ἐν τοῖς μνήμασιν."
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1831]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1093H]]"
+- "[[G5221]]"
+- "[[G0435G]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G4172]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G1140]]"
+- "[[G2532]]"
+- "[[G5550]]"
+- "[[G2425]]"
+- "[[G3756]]"
+- "[[G1746]]"
+- "[[G2440]]"
+- "[[G1722]]"
+- "[[G3614G]]"
+- "[[G3306]]"
+- "[[G0235]]"
+- "[[G3418]]"
+texts:
+- NKO
+- ko
+- N(k)O
+- k
+---
+
 **Luke 8:27**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in [any] house, but in the tombs.
 <small><sub>**BSB:**</sub></small>
 When Jesus stepped ashore, He was met by a demon-possessed man from the town. For a long time this man had not worn clothing or lived in a house, but he stayed in the tombs.
-<small><sub>**Literal:**</sub></small>
-Having gone forth then to Him upon the land met with him a man certain out of the city who is having demons. and from time a long not was wearing clothing and in a house not was abiding but in the tombs.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.26|<< Luke 8:26]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.28|Luke 8:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|Ἐξελθόντι]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1093H\|γῆν]]  [[G5221\|ὑπήντησεν]]  [[G0846\|αὐτῷ]]  [[G0435G\|ἀνήρ]]  [[G5100\|τις]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G3739\|ὃς]]  [[G2192\|ἔχων]]  [[G1140\|δαιμόνια.]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G5550\|χρόνῳ]]  [[G2425\|ἱκανῷ]]  [[G3756\|οὐκ]]  [[G1746\|ἐνεδύσατο]]  [[G2440\|ἱμάτιον]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3614G\|οἰκίᾳ]]  [[G3756\|οὐκ]]  [[G3306\|ἔμενεν]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3418\|μνήμασιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.26|<< Luke 8:26]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.28|Luke 8:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

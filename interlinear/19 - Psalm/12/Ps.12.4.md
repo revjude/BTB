@@ -1,8 +1,58 @@
+---
+title: Psalm 12:4
+type: Verse
+kjv: "Who have said, With our tongue will we prevail; our lips are our own: who is lord over us?"
+bsb: "They say, “With our tongues we will prevail. We own our lips—who can be our master?”"
+hebrew: "אֲשֶׁ֤ר אָֽמְר֨וּ׀ לִלְשֹׁנֵ֣נוּ נַ֭גְבִּיר שְׂפָתֵ֣ינוּ אִתָּ֑נוּ מִ֖י אָד֣וֹן לָֽנוּ׃"
+pericope: "[[Ps.12.1 The Godly Are No More|The Godly Are No More]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 12
+book/chapter: "[[Ps.12|Psalm 12]]"
+chronological_order: 346
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H3956G]]"
+- "[[H9025]]"
+- "[[H1396]]"
+- "[[H8193G]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H4310]]"
+- "[[H0113]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 12:4**<big><big>[[Ps.12.1 The Godly Are No More|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who have said, With our tongue will we prevail; our lips [are] our own: who [is] lord over us?
 <small><sub>**BSB:**</sub></small>
 They say, “With our tongues we will prevail. We own our lips—who can be our master?”
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֤ר]] [[H0559\|אָֽמְר֨וּ]][[H9015\|׀]] [[H9005\|לִ]][[H3956G\|לְשֹׁנֵ֣]][[H9025\|נוּ]] [[H1396\|נַ֭גְבִּיר]] [[H8193G\|שְׂפָתֵ֣י]][[H9025\|נוּ]] [[H0854\|אִתָּ֑]][[H9035\|נוּ]] [[H4310\|מִ֖י]] [[H0113\|אָד֣וֹן]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic PRIDE|PRIDE]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.12.3|<< Psalms 12:3]]</td><td align="center" style="border:none;">[[Ps.12|Psalms 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.12.5|Psalms 12:5 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: Revelation 17:4
+type: Verse
+kjv: "And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:"
+bsb: "The woman was dressed in purple and scarlet, and adorned with gold and precious stones and pearls. She held in her hand a golden cup full of abominations and the impurities of her sexual immorality."
+greek: "καὶ ἡ γυνὴ ἦν περιβεβλημένη πορφυροῦν καὶ κόκκινον καὶ κεχρυσωμένη χρυσίῳ καὶ λίθῳ τιμίῳ καὶ μαργαρίταις, ἔχουσα ποτήριον χρυσοῦν ἐν τῇ χειρὶ αὐτῆς γέμον βδελυγμάτων καὶ τὰ ἀκάθαρτα τῆς πορνείας αὐτῆς."
+pericope: "[[Rev.17.1 The Woman on the Beast|The Woman on the Beast]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic HORN|HORN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PEARL|PEARL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G1510]]"
+- "[[G4016]]"
+- "[[G4210]]"
+- "[[G2847]]"
+- "[[G5558]]"
+- "[[G5553]]"
+- "[[G3037]]"
+- "[[G5093]]"
+- "[[G3135]]"
+- "[[G2192]]"
+- "[[G4221]]"
+- "[[G5552]]"
+- "[[G1722]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G1073]]"
+- "[[G0946]]"
+- "[[G0169]]"
+- "[[G4202]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 17:4**<big><big>[[Rev.17.1 The Woman on the Beast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:
 <small><sub>**BSB:**</sub></small>
 The woman was dressed in purple and scarlet, and adorned with gold and precious stones and pearls. She held in her hand a golden cup full of abominations and the impurities of her sexual immorality.
-<small><sub>**Literal:**</sub></small>
-And the woman was clothed in purple and scarlet and adorned with gold and with stone precious and with pearls, holding a cup golden in the hand of her being full of abominations and the unclean [things] of the sexual immorality of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.3|<< Revelation 17:3]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.5|Revelation 17:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G1510\|ἦν]]  [[G4016\|περιβεβλημένη]]  [[G4210\|πορφυροῦν]]  [[G2532\|καὶ]]  [[G2847\|κόκκινον]]  [[G2532\|καὶ]]  [[G5558\|κεχρυσωμένη]]  [[G5553\|χρυσίῳ]]  [[G2532\|καὶ]]  [[G3037\|λίθῳ]]  [[G5093\|τιμίῳ]]  [[G2532\|καὶ]]  [[G3135\|μαργαρίταις,]]  [[G2192\|ἔχουσα]]  [[G4221\|ποτήριον]]  [[G5552\|χρυσοῦν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5495\|χειρὶ]]  [[G0846\|αὐτῆς]]  [[G1073\|γέμον]]  [[G0946\|βδελυγμάτων]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G0169\|ἀκάθαρτα]]  [[G3588\|τῆς]]  [[G4202\|πορνείας]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic HORN|HORN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PEARL|PEARL]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.3|<< Revelation 17:3]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.5|Revelation 17:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 17:4** is...
 > $\quad$ possibly alluding to: [[LXX.Jer.51.7|Jer 51:7]]

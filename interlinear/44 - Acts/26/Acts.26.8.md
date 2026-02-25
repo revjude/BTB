@@ -1,10 +1,55 @@
+---
+title: Acts 26:8
+type: Verse
+kjv: "Why should it be thought a thing incredible with you, that God should raise the dead?"
+bsb: "Why would any of you consider it incredible that God raises the dead?"
+greek: "τί ἄπιστον κρίνεται παρ᾽ ὑμῖν εἰ ὁ θεὸς νεκροὺς ἐγείρει;¶"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5101]]"
+- "[[G0571]]"
+- "[[G2919]]"
+- "[[G3844]]"
+- "[[G4771]]"
+- "[[G1487K]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3498]]"
+- "[[G1453]]"
+texts:
+- NKO
+---
+
 **Acts 26:8**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Why should it be thought a thing incredible with you, that God should raise the dead?
 <small><sub>**BSB:**</sub></small>
 Why would any of you consider it incredible that God raises the dead?
-<small><sub>**Literal:**</sub></small>
-Why incredible is it judged by you if <the> God [the] dead raises?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.7|<< Acts 26:7]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.9|Acts 26:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G0571\|ἄπιστον]]  [[G2919\|κρίνεται]]  [[G3844\|παρ᾽]]  [[G4771\|ὑμῖν]]  [[G1487K\|εἰ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3498\|νεκροὺς]]  [[G1453\|ἐγείρει;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.7|<< Acts 26:7]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.9|Acts 26:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

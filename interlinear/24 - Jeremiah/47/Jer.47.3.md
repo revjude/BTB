@@ -1,8 +1,64 @@
+---
+title: Jeremiah 47:3
+type: Verse
+kjv: "At the noise of the stamping of the hoofs of his strong horses, at the rushing of his chariots, and at the rumbling of his wheels, the fathers shall not look back to their children for feebleness of hands;"
+bsb: "at the sound of the galloping hooves of stallions, the rumbling of chariots, and the clatter of their wheels. The fathers will not turn back for their sons; their hands will hang limp."
+hebrew: "מִקּ֗וֹל שַֽׁעֲטַת֙ פַּרְס֣וֹת אַבִּירָ֔יו מֵרַ֣עַשׁ לְרִכְבּ֔וֹ הֲמ֖וֹן גַּלְגִּלָּ֑יו לֹֽא־ הִפְנ֤וּ אָבוֹת֙ אֶל־ בָּנִ֔ים מֵֽרִפְי֖וֹן יָדָֽיִם׃"
+pericope: "[[Jer.47.1 Judgment on the Philistines|Judgment on the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 47
+book/chapter: "[[Jer.47|Jeremiah 47]]"
+chronological_order: 770
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H8161]]"
+- "[[H6541]]"
+- "[[H0047H]]"
+- "[[H9023]]"
+- "[[H7494]]"
+- "[[H9005]]"
+- "[[H7393G]]"
+- "[[H1995A]]"
+- "[[H1534]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6437G]]"
+- "[[H0001G]]"
+- "[[H0413]]"
+- "[[H1121A]]"
+- "[[H7510]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 47:3**<big><big>[[Jer.47.1 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the noise of the stamping of the hoofs of his strong [horses], at the rushing of his chariots, [and at] the rumbling of his wheels, the fathers shall not look back to [their] children for feebleness of hands;
 <small><sub>**BSB:**</sub></small>
 at the sound of the galloping hooves of stallions, the rumbling of chariots, and the clatter of their wheels. The fathers will not turn back for their sons; their hands will hang limp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6963H\|קּ֗וֹל]] [[H8161\|שַֽׁעֲטַת֙]] [[H6541\|פַּרְס֣וֹת]] [[H0047H\|אַבִּירָ֔י]][[H9023\|ו]] [[H9006\|מֵ]][[H7494\|רַ֣עַשׁ]] [[H9005\|לְ]][[H7393G\|רִכְבּ֔]][[H9023\|וֹ]] [[H1995A\|הֲמ֖וֹן]] [[H1534\|גַּלְגִּלָּ֑י]][[H9023\|ו]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6437G\|הִפְנ֤וּ]] [[H0001G\|אָבוֹת֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121A\|בָּנִ֔ים]] [[H9006\|מֵֽ]][[H7510\|רִפְי֖וֹן]] [[H3027G\|יָדָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic HORSE|HORSE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.47.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.2|<< Jeremiah 47:2]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.4|Jeremiah 47:4 >>]]</td></tr></table>
 

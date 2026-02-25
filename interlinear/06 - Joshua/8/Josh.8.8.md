@@ -1,8 +1,62 @@
+---
+title: Joshua 8:8
+type: Verse
+kjv: "And it shall be, when ye have taken the city, that ye shall set the city on fire: according to the commandment of the LORD shall ye do. See, I have commanded you."
+bsb: "And when you have taken the city, set it on fire. Do as the LORD has commanded! See, I have given you orders.”"
+hebrew: "וְהָיָ֞ה כְּתָפְשְׂכֶ֣ם אֶת־ הָעִ֗יר תַּצִּ֤יתוּ אֶת־ הָעִיר֙ בָּאֵ֔שׁ כִּדְבַ֥ר יְהוָ֖ה תַּעֲשׂ֑וּ רְא֖וּ צִוִּ֥יתִי אֶתְכֶֽם׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8610]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3341]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H7200I]]"
+- "[[H6680]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:8**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when ye have taken the city, [that] ye shall set the city on fire: according to the commandment of the LORD shall ye do. See, I have commanded you.
 <small><sub>**BSB:**</sub></small>
 And when you have taken the city, set it on fire. Do as the LORD has commanded! See, I have given you orders.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֞ה]] [[H9004\|כְּ]][[H8610\|תָפְשְׂ]][[H9046\|כֶ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֗יר]] [[H3341\|תַּצִּ֤יתוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H9004\|כִּ]][[H1697G\|דְבַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H6213A\|תַּעֲשׂ֑וּ]] [[H7200I\|רְא֖וּ]] [[H6680\|צִוִּ֥יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic JOSHUA|JOSHUA]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.7|<< Joshua 8:7]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.9|Joshua 8:9 >>]]</td></tr></table>
 

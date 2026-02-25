@@ -1,8 +1,62 @@
+---
+title: Jeremiah 7:5
+type: Verse
+kjv: "For if ye throughly amend your ways and your doings; if ye throughly execute judgment between a man and his neighbour;"
+bsb: "For if you really correct your ways and deeds, if you act justly toward one another,"
+hebrew: "כִּ֤י אִם־ הֵיטֵיב֙ תֵּיטִ֔יבוּ אֶת־ דַּרְכֵיכֶ֖ם וְאֶת־ מַֽעַלְלֵיכֶ֑ם אִם־ עָשׂ֤וֹ תַֽעֲשׂוּ֙ מִשְׁפָּ֔ט בֵּ֥ין אִ֖ישׁ וּבֵ֥ין רֵעֵֽהוּ׃"
+pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H3190]]"
+- "[[H0853]]"
+- "[[H1870G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H4611]]"
+- "[[H0518A]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H0996G]]"
+- "[[H0376I]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:5**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For if ye throughly amend your ways and your doings; if ye throughly execute judgment between a man and his neighbour;
 <small><sub>**BSB:**</sub></small>
 For if you really correct your ways and deeds, if you act justly toward one another,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֤י]] [[H0518B\|אִם]][[H9014\|־]] [[H3190\|הֵיטֵיב֙]] [[H3190\|תֵּיטִ֔יבוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּרְכֵי]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4611\|מַֽעַלְלֵי]][[H9026\|כֶ֑ם]] [[H0518A\|אִם]][[H9014\|־]] [[H6213A\|עָשׂ֤וֹ]] [[H6213A\|תַֽעֲשׂוּ֙]] [[H4941H\|מִשְׁפָּ֔ט]] [[H0996G\|בֵּ֥ין]] [[H0376I\|אִ֖ישׁ]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H7453\|רֵעֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic INTEGRITY|INTEGRITY]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.4|<< Jeremiah 7:4]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.6|Jeremiah 7:6 >>]]</td></tr></table>
 

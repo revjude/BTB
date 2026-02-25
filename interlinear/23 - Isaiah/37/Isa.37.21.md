@@ -1,8 +1,64 @@
+---
+title: Isaiah 37:21
+type: Verse
+kjv: "Then Isaiah the son of Amoz sent unto Hezekiah, saying, Thus saith the LORD God of Israel, Whereas thou hast prayed to me against Sennacherib king of Assyria:"
+bsb: "Then Isaiah son of Amoz sent a message to Hezekiah: “This is what the LORD, the God of Israel, says: Because you have prayed to Me concerning Sennacherib king of Assyria,"
+hebrew: "וַיִּשְׁלַח֙ יְשַֽׁעְיָ֣הוּ בֶן־ אָמ֔וֹץ אֶל־ חִזְקִיָּ֖הוּ לֵאמֹ֑ר כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר֙ הִתְפַּלַּ֣לְתָּ אֵלַ֔י אֶל־ סַנְחֵרִ֖יב מֶ֥לֶךְ אַשּֽׁוּר׃"
+pericope: "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3470A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0531]]"
+- "[[H0413]]"
+- "[[H2396G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H6419]]"
+- "[[H9030]]"
+- "[[H5576]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:21**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Isaiah the son of Amoz sent unto Hezekiah, saying, Thus saith the LORD God of Israel, Whereas thou hast prayed to me against Sennacherib king of Assyria:
 <small><sub>**BSB:**</sub></small>
 Then Isaiah son of Amoz sent a message to Hezekiah: “This is what the LORD, the God of Israel, says: Because you have prayed to Me concerning Sennacherib king of Assyria,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַח֙]] [[H3470A\|יְשַֽׁעְיָ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0531\|אָמ֔וֹץ]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁר֙]] [[H6419\|הִתְפַּלַּ֣לְתָּ]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H5576\|סַנְחֵרִ֖יב]] [[H4428G\|מֶ֥לֶךְ]] [[H0804G\|אַשּֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.20|<< Isaiah 37:20]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.22|Isaiah 37:22 >>]]</td></tr></table>
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Restoration Promised
+type: Pericope
 pericope: "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Joel
 chapter: 2
 book/chapter: "[[Joel.2|Joel 2]]"
-genre:
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 10
 verses:
 - "[[Joel.2.18]]"
 - "[[Joel.2.19]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Joel.2.27]]"
 ---
 
-[[Joel.2|Joel 2:18 - Joel 2:27]]
+<small>[[Joel.2|Joel 2:18-27]]</small>
 *Restoration Promised*
 
 [[Joel.2.18|18]] Then will the LORD be jealous for his land, and pity his people.

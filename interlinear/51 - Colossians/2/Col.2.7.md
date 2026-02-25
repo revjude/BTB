@@ -1,10 +1,57 @@
+---
+title: Colossians 2:7
+type: Verse
+kjv: "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving."
+bsb: "rooted and built up in Him, established in the faith as you were taught, and overflowing with thankfulness."
+greek: "ἐρριζωμένοι καὶ ἐποικοδομούμενοι ἐν αὐτῷ καὶ βεβαιούμενοι ἐν τῇ πίστει καθὼς ἐδιδάχθητε, περισσεύοντες ἐν αὐτῇ ἐν εὐχαριστίᾳ.¶"
+pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G4492]]"
+- "[[G2532]]"
+- "[[G2026]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G0950]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G2531]]"
+- "[[G1321]]"
+- "[[G4052]]"
+- "[[G2169]]"
+texts:
+- NKO
+- ko
+---
+
 **Colossians 2:7**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.
 <small><sub>**BSB:**</sub></small>
 rooted and built up in Him, established in the faith as you were taught, and overflowing with thankfulness.
-<small><sub>**Literal:**</sub></small>
-rooted and being built up in Him and being strengthened in in the faith even as you were taught, abounding in to her with thanksgiving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.6|<< Colossians 2:6]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.8|Colossians 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4492\|ἐρριζωμένοι]]  [[G2532\|καὶ]]  [[G2026\|ἐποικοδομούμενοι]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G0950\|βεβαιούμενοι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4102G\|πίστει]]  [[G2531\|καθὼς]]  [[G1321\|ἐδιδάχθητε,]]  [[G4052\|περισσεύοντες]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G1722\|ἐν]]  [[G2169\|εὐχαριστίᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.6|<< Colossians 2:6]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.8|Colossians 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

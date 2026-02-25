@@ -7,7 +7,7 @@
 
 → Ephraim, a cake unturned [[Hos.7.8|Ho 7:8]]
 
-→ In the temple [[Ezek.46.19|Eze 46:19]]-[[Ezek.46.24|24]]
+→ In the temple [[Ezek.46.19|Eze 46:19-24]]
 
 → See [[topic BREAD|BREAD]]
 

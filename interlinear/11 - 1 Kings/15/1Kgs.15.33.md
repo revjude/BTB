@@ -1,8 +1,65 @@
+---
+title: 1 Kings 15:33
+type: Verse
+kjv: "In the third year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, twenty and four years."
+bsb: "In the third year of Asa’s reign over Judah, Baasha son of Ahijah became king of all Israel, and he reigned in Tirzah twenty-four years."
+hebrew: "בִּשְׁנַ֣ת שָׁלֹ֔שׁ לְאָסָ֖א מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַךְ בַּעְשָׁ֨א בֶן־ אֲחִיָּ֤ה עַל־ כָּל־ יִשְׂרָאֵל֙ בְּתִרְצָ֔ה עֶשְׂרִ֥ים וְאַרְבַּ֖ע שָׁנָֽה׃"
+pericope: "[[1Kgs.15.33 Baasha Reigns in Israel|Baasha Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TIRZAH|TIRZAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H0609G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H1201]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0281I]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H8656H]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:33**<big><big>[[1Kgs.15.33 Baasha Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, twenty and four years.
 <small><sub>**BSB:**</sub></small>
 In the third year of Asa’s reign over Judah, Baasha son of Ahijah became king of all Israel, and he reigned in Tirzah twenty-four years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H7969\|שָׁלֹ֔שׁ]] [[H9005\|לְ]][[H0609G\|אָסָ֖א]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H4427A\|מָ֠לַךְ]] [[H1201\|בַּעְשָׁ֨א]] [[H1121A\|בֶן]][[H9014\|־]] [[H0281I\|אֲחִיָּ֤ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9003\|בְּ]][[H8656H\|תִרְצָ֔ה]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H0702\|אַרְבַּ֖ע]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic BAASHA|BAASHA]] • [[topic RULERS|RULERS]] • [[topic TIRZAH|TIRZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.32|<< 1 Kings 15:32]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.34|1 Kings 15:34 >>]]</td></tr></table>
 

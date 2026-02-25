@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Righteousness through Faith in Christ
+type: Pericope
 pericope: "[[Rom.3.21 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Romans
 chapter: 3
 book/chapter: "[[Rom.3|Romans 3]]"
-genre:
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 11
 verses:
 - "[[Rom.3.21]]"
 - "[[Rom.3.22]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Rom.3.31]]"
 ---
 
-[[Rom.3|Romans 3:21 - Romans 3:31]]
+<small>[[Rom.3|Romans 3:21-31]]</small>
 *Righteousness through Faith in Christ*
 
 [[Rom.3.21|21]] But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;

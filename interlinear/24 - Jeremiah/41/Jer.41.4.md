@@ -1,8 +1,63 @@
+---
+title: Jeremiah 41:4
+type: Verse
+kjv: "And it came to pass the second day after he had slain Gedaliah, and no man knew it,"
+bsb: "On the second day after the murder of Gedaliah, when no one yet knew about it,"
+hebrew: "וַיְהִ֛י בַּיּ֥וֹם הַשֵּׁנִ֖י לְהָמִ֣ית אֶת־ גְּדַלְיָ֑הוּ וְאִ֖ישׁ לֹ֥א יָדָֽע׃"
+pericope: "[[Jer.41.1 The Murder of Gedaliah|The Murder of Gedaliah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1436B]]"
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:4**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass the second day after he had slain Gedaliah, and no man knew [it],
 <small><sub>**BSB:**</sub></small>
 On the second day after the murder of Gedaliah, when no one yet knew about it,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖י]] [[H9005\|לְ]][[H4191\|הָמִ֣ית]] [[H0853\|אֶת]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֑הוּ]] [[H9002\|וְ]][[H0376I\|אִ֖ישׁ]] [[H3808\|לֹ֥א]] [[H3045\|יָדָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GEDALIAH|GEDALIAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.3|<< Jeremiah 41:3]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.5|Jeremiah 41:5 >>]]</td></tr></table>
 

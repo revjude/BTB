@@ -1,8 +1,61 @@
+---
+title: Isaiah 14:30
+type: Verse
+kjv: "And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill thy root with famine, and he shall slay thy remnant."
+bsb: "Then the firstborn of the poor will find pasture, and the needy will lie down in safety, but I will kill your root by famine, and your remnant will be slain."
+hebrew: "וְרָעוּ֙ בְּכוֹרֵ֣י דַלִּ֔ים וְאֶבְיוֹנִ֖ים לָבֶ֣טַח יִרְבָּ֑צוּ וְהֵמַתִּ֤י בָֽרָעָב֙ שָׁרְשֵׁ֔ךְ וּשְׁאֵרִיתֵ֖ךְ יַהֲרֹֽג׃"
+pericope: "[[Isa.14.28 Philistia Will Be Destroyed|Philistia Will Be Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7462B]]"
+- "[[H1060]]"
+- "[[H1800]]"
+- "[[H9002]]"
+- "[[H0034]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H7257]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H7458]]"
+- "[[H8328]]"
+- "[[H9022]]"
+- "[[H7611]]"
+- "[[H2026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:30**<big><big>[[Isa.14.28 Philistia Will Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the firstborn of the poor shall feed, and the needy shall lie down in safety: and I will kill thy root with famine, and he shall slay thy remnant.
 <small><sub>**BSB:**</sub></small>
 Then the firstborn of the poor will find pasture, and the needy will lie down in safety, but I will kill your root by famine, and your remnant will be slain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7462B\|רָעוּ֙]] [[H1060\|בְּכוֹרֵ֣י]] [[H1800\|דַלִּ֔ים]] [[H9002\|וְ]][[H0034\|אֶבְיוֹנִ֖ים]] [[H9005\|לָ]][[H0983\|בֶ֣טַח]] [[H7257\|יִרְבָּ֑צוּ]] [[H9001\|וְ]][[H4191\|הֵמַתִּ֤י]] [[H9003\|בָֽ]][[H7458\|רָעָב֙]] [[H8328\|שָׁרְשֵׁ֔]][[H9022\|ךְ]] [[H9002\|וּ]][[H7611\|שְׁאֵרִיתֵ֖]][[H9022\|ךְ]] [[H2026\|יַהֲרֹֽג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic ISAIAH|ISAIAH]] • [[topic PHILISTINES|PHILISTINES]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.29|<< Isaiah 14:29]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.31|Isaiah 14:31 >>]]</td></tr></table>
 

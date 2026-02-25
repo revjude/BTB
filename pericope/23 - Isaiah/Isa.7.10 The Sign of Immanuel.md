@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sign of Immanuel
+type: Pericope
 pericope: "[[Isa.7.10 The Sign of Immanuel|The Sign of Immanuel]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 7
 book/chapter: "[[Isa.7|Isaiah 7]]"
-genre:
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 7
 verses:
 - "[[Isa.7.10]]"
 - "[[Isa.7.11]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Isa.7.16]]"
 ---
 
-[[Isa.7|Isaiah 7:10 - Isaiah 7:16]]
+<small>[[Isa.7|Isaiah 7:10-16]]</small>
 *The Sign of Immanuel*
 
 [[Isa.7.10|10]] Moreover the LORD spake again unto Ahaz, saying,

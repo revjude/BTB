@@ -1,10 +1,60 @@
+---
+title: John 11:16
+type: Verse
+kjv: "Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him."
+bsb: "Then Thomas called Didymus said to his fellow disciples, “Let us also go, so that we may die with Him.”"
+greek: "Εἶπεν οὖν Θωμᾶς ὁ λεγόμενος Δίδυμος τοῖς συμμαθηταῖς· ἄγωμεν καὶ ἡμεῖς ἵνα ἀποθάνωμεν μετ᾽ αὐτοῦ."
+pericope: "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DIDYMUS (TWIN)|DIDYMUS (TWIN)]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic THOMAS|THOMAS]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G2381]]"
+- "[[G3588]]"
+- "[[G3004H]]"
+- "[[G1324]]"
+- "[[G4827]]"
+- "[[G0071]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G0599]]"
+- "[[G3326]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 11:16**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Thomas, which is called Didymus, unto his fellowdisciples, Let us also go, that we may die with him.
 <small><sub>**BSB:**</sub></small>
 Then Thomas called Didymus said to his fellow disciples, “Let us also go, so that we may die with Him.”
-<small><sub>**Literal:**</sub></small>
-Said therefore Thomas who is being named Didymus to the fellow disciples; Let us go also us that we may die with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.15|<< John 11:15]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.17|John 11:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G3767\|οὖν]]  [[G2381\|Θωμᾶς]]  [[G3588\|ὁ]]  [[G3004H\|λεγόμενος]]  [[G1324\|Δίδυμος]]  [[G3588\|τοῖς]]  [[G4827\|συμμαθηταῖς·]]  [[G0071\|ἄγωμεν]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G2443\|ἵνα]]  [[G0599\|ἀποθάνωμεν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic DIDYMUS (TWIN)|DIDYMUS (TWIN)]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MIRACLES|MIRACLES]] • [[topic THOMAS|THOMAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.15|<< John 11:15]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.17|John 11:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

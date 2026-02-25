@@ -1,8 +1,78 @@
+---
+title: Jeremiah 43:2
+type: Verse
+kjv: "Then spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying unto Jeremiah, Thou speakest falsely: the LORD our God hath not sent thee to say, Go not into Egypt to sojourn there:"
+bsb: "Azariah son of Hoshaiah, Johanan son of Kareah, and all the arrogant men said to Jeremiah, “You are lying! The LORD our God has not sent you to say, ‘You must not go to Egypt to reside there.’"
+hebrew: "וַיֹּ֨אמֶר עֲזַרְיָ֤ה בֶן־ הוֹשַֽׁעְיָה֙ וְיוֹחָנָ֣ן בֶּן־ קָרֵ֔חַ וְכָל־ הָאֲנָשִׁ֖ים הַזֵּדִ֑ים אֹמְרִ֣ים אֶֽל־ יִרְמְיָ֗הוּ שֶׁ֚קֶר אַתָּ֣ה מְדַבֵּ֔ר לֹ֣א שְׁלָחֲךָ֞ יְהוָ֤ה אֱלֹהֵ֙ינוּ֙ לֵאמֹ֔ר לֹֽא־ תָבֹ֥אוּ מִצְרַ֖יִם לָג֥וּר שָֽׁם׃"
+pericope: "[[Jer.43.1 Jeremiah Taken to Egypt|Jeremiah Taken to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 43
+book/chapter: "[[Jer.43|Jeremiah 43]]"
+chronological_order: 766
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic HOSHAIAH|HOSHAIAH]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5838y]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1955H]]"
+- "[[H9002]]"
+- "[[H3110G]]"
+- "[[H7143]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H2086]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H8267]]"
+- "[[H0859A]]"
+- "[[H1696G]]"
+- "[[H3808]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H1481A]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 43:2**<big><big>[[Jer.43.1 Jeremiah Taken to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying unto Jeremiah, Thou speakest falsely: the LORD our God hath not sent thee to say, Go not into Egypt to sojourn there:
 <small><sub>**BSB:**</sub></small>
 Azariah son of Hoshaiah, Johanan son of Kareah, and all the arrogant men said to Jeremiah, “You are lying! The LORD our God has not sent you to say, ‘You must not go to Egypt to reside there.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H5838y\|עֲזַרְיָ֤ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H1955H\|הוֹשַֽׁעְיָה֙]] [[H9002\|וְ]][[H3110G\|יוֹחָנָ֣ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7143\|קָרֵ֔חַ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֖ים]] [[H9009\|הַ]][[H2086\|זֵּדִ֑ים]] [[H0559\|אֹמְרִ֣ים]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֗הוּ]] [[H8267\|שֶׁ֚קֶר]] [[H0859A\|אַתָּ֣ה]] [[H1696G\|מְדַבֵּ֔ר]] [[H3808\|לֹ֣א]] [[H7971G\|שְׁלָחֲ]][[H9031\|ךָ֞]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֵ֙י]][[H9025\|נוּ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0935G\|תָבֹ֥אוּ]] [[H4714G\|מִצְרַ֖יִם]] [[H9005\|לָ]][[H1481A\|ג֥וּר]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic AZARIAH|AZARIAH]] • [[topic HOSHAIAH|HOSHAIAH]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JEREMIAH|JEREMIAH]] • [[topic JOHANAN|JOHANAN]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.43.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.43.1|<< Jeremiah 43:1]]</td><td align="center" style="border:none;">[[Jer.43|Jeremiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.43.3|Jeremiah 43:3 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Ezekiel 48:35
+type: Verse
+kjv: "It was round about eighteen thousand measures: and the name of the city from that day shall be, The LORD is there."
+bsb: "The perimeter of the city will be 18,000 cubits, and from that day on the name of the city will be: THE LORD IS THERE.”"
+hebrew: "סָבִ֕יב שְׁמֹנָ֥ה עָשָׂ֖ר אָ֑לֶף וְשֵׁם־ הָעִ֥יר מִיּ֖וֹם יְהוָ֥ה׀ שָֽׁמָּה׃"
+pericope: "[[Ezek.48.30 The City Gates and Dimensions|The City Gates and Dimensions]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H5439G]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H3068H]]"
+- "[[H9015]]"
+- "[[H8033H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:35**<big><big>[[Ezek.48.30 The City Gates and Dimensions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It was] round about eighteen thousand [measures]: and the name of the city from [that] day [shall be], The LORD [is] there.
 <small><sub>**BSB:**</sub></small>
 The perimeter of the city will be 18,000 cubits, and from that day on the name of the city will be: THE LORD IS THERE.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5439G\|סָבִ֕יב]] [[H8083\|שְׁמֹנָ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H0505G\|אָ֑לֶף]] [[H9002\|וְ]][[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9006\|מִ]][[H3117G\|יּ֖וֹם]] [[H3068H\|יְהוָ֥ה]][[H9015\|׀]] [[H8033H\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.34|<< Ezekiel 48:34]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.1|Daniel 1:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

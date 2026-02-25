@@ -1,10 +1,68 @@
+---
+title: Matthew 24:51
+type: Verse
+kjv: "And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth."
+bsb: "Then he will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth."
+jesus_said: "And shall cut him asunder, and appoint him his portion with the hypocrites: there shall be weeping and gnashing of teeth."
+greek: "καὶ διχοτομήσει αὐτὸν καὶ τὸ μέρος αὐτοῦ μετὰ τῶν ὑποκριτῶν θήσει· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων.¶"
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GNASHING OF TEETH|GNASHING OF TEETH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic TEETH|TEETH]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic WEEPING|WEEPING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1371]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3313]]"
+- "[[G3326]]"
+- "[[G5273]]"
+- "[[G5087]]"
+- "[[G1563]]"
+- "[[G1510]]"
+- "[[G2805]]"
+- "[[G1030]]"
+- "[[G3599]]"
+texts:
+- NKO
+---
+
 **Matthew 24:51**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And shall cut him asunder, and appoint [him] his portion with the hypocrites: there shall be weeping and gnashing of teeth.
 <small><sub>**BSB:**</sub></small>
 Then he will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
-<small><sub>**Literal:**</sub></small>
-and will cut in pieces him and the place of him with the hypocrites will appoint; there will be the weeping and the gnashing <the> of teeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.50|<< Matthew 24:50]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.1|Matthew 25:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1371\|διχοτομήσει]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G3313\|μέρος]]  [[G0846\|αὐτοῦ]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G5273\|ὑποκριτῶν]]  [[G5087\|θήσει·]]  [[G1563\|ἐκεῖ]]  [[G1510\|ἔσται]]  [[G3588\|ὁ]]  [[G2805\|κλαυθμὸς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1030\|βρυγμὸς]]  [[G3588\|τῶν]]  [[G3599\|ὀδόντων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GNASHING OF TEETH|GNASHING OF TEETH]] • [[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SERVANT|SERVANT]] • [[topic SORROW|SORROW]] • [[topic TEETH|TEETH]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic WEEPING|WEEPING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.50|<< Matthew 24:50]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.1|Matthew 25:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

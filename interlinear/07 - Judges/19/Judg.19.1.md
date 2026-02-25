@@ -1,8 +1,70 @@
+---
+title: Judges 19:1
+type: Verse
+kjv: "And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Bethlehemjudah."
+bsb: "Now in those days, when there was no king in Israel, a Levite who lived in the remote hill country of Ephraim took for himself a concubine from Bethlehem in Judah."
+hebrew: "וַיְהִי֙ בַּיָּמִ֣ים הָהֵ֔ם וּמֶ֖לֶךְ אֵ֣ין בְּיִשְׂרָאֵ֑ל וַיְהִ֣י׀ אִ֣ישׁ לֵוִ֗י גָּ֚ר בְּיַרְכְּתֵ֣י הַר־ אֶפְרַ֔יִם וַיִּֽקַּֽח־ לוֹ֙ אִשָּׁ֣ה פִילֶ֔גֶשׁ מִבֵּ֥ית לֶ֖חֶם יְהוּדָֽה׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic FRIENDS|FRIENDS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H0369]]"
+- "[[H3478]]"
+- "[[H9015]]"
+- "[[H0376G]]"
+- "[[H3881]]"
+- "[[H1481A]]"
+- "[[H3411]]"
+- "[[H2022H]]"
+- "[[H9014]]"
+- "[[H0669G]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H6370]]"
+- "[[H9006]]"
+- "[[H1035G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:1**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in those days, when [there was] no king in Israel, that there was a certain Levite sojourning on the side of mount Ephraim, who took to him a concubine out of Bethlehemjudah.
 <small><sub>**BSB:**</sub></small>
 Now in those days, when there was no king in Israel, a Levite who lived in the remote hill country of Ephraim took for himself a concubine from Bethlehem in Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H9002\|וּ]][[H4428G\|מֶ֖לֶךְ]] [[H0369\|אֵ֣ין]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H0376G\|אִ֣ישׁ]] [[H3881\|לֵוִ֗י]] [[H1481A\|גָּ֚ר]] [[H9003\|בְּ]][[H3411\|יַרְכְּתֵ֣י]] [[H2022H\|הַר]][[H9014\|־]] [[H0669G\|אֶפְרַ֔יִם]] [[H9001\|וַ]][[H3947G\|יִּֽקַּֽח]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0802H\|אִשָּׁ֣ה]] [[H6370\|פִילֶ֔גֶשׁ]] [[H9006\|מִ]][[H1035G\|בֵּ֥ית]] [[H1035G\|לֶ֖חֶם]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BETHLEHEM|BETHLEHEM]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic FRIENDS|FRIENDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.31|<< Judges 18:31]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.2|Judges 19:2 >>]]</td></tr></table>
 

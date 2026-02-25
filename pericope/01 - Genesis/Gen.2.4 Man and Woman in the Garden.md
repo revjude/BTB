@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Man and Woman in the Garden
+type: Pericope
 pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 2
 book/chapter: "[[Gen.2|Genesis 2]]"
-genre:
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 22
 verses:
 - "[[Gen.2.4]]"
 - "[[Gen.2.5]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Gen.2.25]]"
 ---
 
-[[Gen.2|Genesis 2:4 - Genesis 2:25]]
+<small>[[Gen.2|Genesis 2:4-25]]</small>
 *Man and Woman in the Garden*
 
 [[Gen.2.4|4]] These \[are\] the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,

@@ -1,8 +1,51 @@
+---
+title: Psalm 68:7
+type: Verse
+kjv: "O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:"
+bsb: "O God, when You went out before Your people, when You marched through the wasteland, Selah"
+hebrew: "אֱֽלֹהִ֗ים בְּ֭צֵאתְךָ לִפְנֵ֣י עַמֶּ֑ךָ בְּצַעְדְּךָ֖ בִֽישִׁימ֣וֹן סֶֽלָה׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H9041]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H6805]]"
+- "[[H3452H]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:7**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O God, when thou wentest forth before thy people, when thou didst march through the wilderness; Selah:
 <small><sub>**BSB:**</sub></small>
 O God, when You went out before Your people, when You marched through the wasteland, Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H0430G\|אֱֽלֹהִ֗ים]] [[H9003\|בְּ֭]][[H3318G\|צֵאתְ]][[H9041\|ךָ]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H5971A\|עַמֶּ֑]][[H9021\|ךָ]] [[H9003\|בְּ]][[H6805\|צַעְדְּ]][[H9041\|ךָ֖]] [[H9003\|בִֽ]][[H3452H\|ישִׁימ֣וֹן]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.6|<< Psalms 68:6]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.8|Psalms 68:8 >>]]</td></tr></table>
 

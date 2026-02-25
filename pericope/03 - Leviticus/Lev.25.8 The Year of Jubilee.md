@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Year of Jubilee
+type: Pericope
 pericope: "[[Lev.25.8 The Year of Jubilee|The Year of Jubilee]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 25
 book/chapter: "[[Lev.25|Leviticus 25]]"
-genre:
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 5
 verses:
 - "[[Lev.25.8]]"
 - "[[Lev.25.9]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Lev.25.12]]"
 ---
 
-[[Lev.25|Leviticus 25:8 - Leviticus 25:12]]
+<small>[[Lev.25|Leviticus 25:8-12]]</small>
 *The Year of Jubilee*
 
 [[Lev.25.8|8]] And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.

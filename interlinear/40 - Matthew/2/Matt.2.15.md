@@ -1,10 +1,66 @@
+---
+title: Matthew 2:15
+type: Verse
+kjv: "And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son."
+bsb: "where he stayed until the death of Herod. This fulfilled what the Lord had spoken through the prophet: “Out of Egypt I called My Son.”"
+greek: "καὶ ἦν ἐκεῖ ἕως τῆς τελευτῆς Ἡρῴδου, ἵνα πληρωθῇ τὸ ῥηθὲν ὑπὸ τοῦ κυρίου διὰ τοῦ προφήτου λέγοντος· ἐξ Αἰγύπτου ἐκάλεσα τὸν υἱόν μου.¶"
+pericope: "[[Matt.2.13 The Flight to Egypt|The Flight to Egypt]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic FUGITIVES|FUGITIVES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1563]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G5054]]"
+- "[[G2264G]]"
+- "[[G2443]]"
+- "[[G4137]]"
+- "[[G2046]]"
+- "[[G5259G]]"
+- "[[G2962G]]"
+- "[[G1223]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+- "[[G1537]]"
+- "[[G0125]]"
+- "[[G2564G]]"
+- "[[G5207]]"
+- "[[G3165]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 2:15**<big><big>[[Matt.2.13 The Flight to Egypt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And was there until the death of Herod: that it might be fulfilled which was spoken of the Lord by the prophet, saying, Out of Egypt have I called my son.
 <small><sub>**BSB:**</sub></small>
 where he stayed until the death of Herod. This fulfilled what the Lord had spoken through the prophet: “Out of Egypt I called My Son.”
-<small><sub>**Literal:**</sub></small>
-and he was remaining there until the death of Herod, so that it may be fulfilled that having been spoken by the Lord through the prophet saying; Out of Egypt I called the Son of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.14|<< Matthew 2:14]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.16|Matthew 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G1563\|ἐκεῖ]]  [[G2193\|ἕως]]  [[G3588\|τῆς]]  [[G5054\|τελευτῆς]]  [[G2264G\|Ἡρῴδου,]]  [[G2443\|ἵνα]]  [[G4137\|πληρωθῇ]]  [[G3588\|τὸ]]  [[G2046\|ῥηθὲν]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G3004G\|λέγοντος·]]  [[G1537\|ἐξ]]  [[G0125\|Αἰγύπτου]]  [[G2564G\|ἐκάλεσα]]  [[G3588\|τὸν]]  [[G5207\|υἱόν]]  [[G3165\|μου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic FUGITIVES|FUGITIVES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MIRACLES|MIRACLES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.14|<< Matthew 2:14]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.16|Matthew 2:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 2:15** is...
 > $\quad$ referencing: [[LXX.Hos.11.1|Hos 11:1]]

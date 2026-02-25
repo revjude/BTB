@@ -1,10 +1,60 @@
+---
+title: Acts 10:47
+type: Verse
+kjv: "Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?"
+bsb: "“Can anyone withhold the water to baptize these people? They have received the Holy Spirit just as we have!”"
+greek: "μήτι τὸ ὕδωρ δύναται κωλῦσαί τις τοῦ μὴ βαπτισθῆναι τούτους, οἵτινες τὸ πνεῦμα τὸ ἅγιον ἔλαβον ὡς καὶ ἡμεῖς;"
+pericope: "[[Acts.10.44 The Gentiles Receive the Holy Spirit|The Gentiles Receive the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3385]]"
+- "[[G3588]]"
+- "[[G5204]]"
+- "[[G1410]]"
+- "[[G2967]]"
+- "[[G5100]]"
+- "[[G3361]]"
+- "[[G0907]]"
+- "[[G3778]]"
+- "[[G3748]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2983]]"
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 10:47**<big><big>[[Acts.10.44 The Gentiles Receive the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Can any man forbid water, that these should not be baptized, which have received the Holy Ghost as well as we?
 <small><sub>**BSB:**</sub></small>
 “Can anyone withhold the water to baptize these people? They have received the Holy Spirit just as we have!”
-<small><sub>**Literal:**</sub></small>
-surely not ever the water is able to withhold anyone <the> not to baptize these who the Spirit <the> Holy have received as also [have] we ourselves?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.46|<< Acts 10:46]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.48|Acts 10:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3385\|μήτι]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ]]  [[G1410\|δύναται]]  [[G2967\|κωλῦσαί]]  [[G5100\|τις]]  [[G3588\|τοῦ]]  [[G3361\|μὴ]]  [[G0907\|βαπτισθῆναι]]  [[G3778\|τούτους,]]  [[G3748\|οἵτινες]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G2983\|ἔλαβον]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAMILY|FAMILY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.46|<< Acts 10:46]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.48|Acts 10:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

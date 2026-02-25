@@ -1,8 +1,58 @@
+---
+title: Psalm 74:8
+type: Verse
+kjv: "They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land."
+bsb: "They said in their hearts, “We will crush them completely.” They burned down every place where God met us in the land."
+hebrew: "אָמְר֣וּ בְ֭לִבָּם נִינָ֣ם יָ֑חַד שָׂרְפ֖וּ כָל־ מוֹעֲדֵי־ אֵ֣ל בָּאָֽרֶץ׃"
+pericope: "[[Ps.74.1 Why Have You Rejected Us Forever？|Why Have You Rejected Us Forever？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 74
+book/chapter: "[[Ps.74|Psalm 74]]"
+chronological_order: 781
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ARSON|ARSON]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H3238]]"
+- "[[H9038]]"
+- "[[H3162A]]"
+- "[[H8313]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4150I]]"
+- "[[H0410G]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 74:8**<big><big>[[Ps.74.1 Why Have You Rejected Us Forever？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land.
 <small><sub>**BSB:**</sub></small>
 They said in their hearts, “We will crush them completely.” They burned down every place where God met us in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמְר֣וּ]] [[H9003\|בְ֭]][[H3820A\|לִבָּ]][[H9028\|ם]] [[H3238\|נִינָ֣]][[H9038\|ם]] [[H3162A\|יָ֑חַד]] [[H8313\|שָׂרְפ֖וּ]] [[H3605\|כָל]][[H9014\|־]] [[H4150I\|מוֹעֲדֵי]][[H9014\|־]] [[H0410G\|אֵ֣ל]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARSON|ARSON]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.74.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.74.7|<< Psalms 74:7]]</td><td align="center" style="border:none;">[[Ps.74|Psalms 74]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.74.9|Psalms 74:9 >>]]</td></tr></table>
 

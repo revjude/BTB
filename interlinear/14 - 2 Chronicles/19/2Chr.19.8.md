@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 19:8
+type: Verse
+kjv: "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem."
+bsb: "Moreover, Jehoshaphat appointed in Jerusalem some of the Levites, priests, and heads of the Israelite families to judge on behalf of the LORD and to settle disputes. And they lived in Jerusalem."
+hebrew: "וְגַ֣ם בִּ֠ירוּשָׁלִַם הֶעֱמִ֨יד יְהוֹשָׁפָ֜ט מִן־ הַלְוִיִּ֣ם וְהַכֹּהֲנִ֗ים וּמֵרָאשֵׁ֤י הָאָבוֹת֙ לְיִשְׂרָאֵ֔ל לְמִשְׁפַּ֥ט יְהוָ֖ה וְלָרִ֑יב וַיָּשֻׁ֖בוּ יְרוּשָׁלִָֽם׃"
+pericope: "[[2Chr.19.4 Jehoshaphat’s Reforms|Jehoshaphat’s Reforms]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 19
+book/chapter: "[[2Chr.19|2 Chronicles 19]]"
+chronological_order: 572
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H5975H]]"
+- "[[H3092I]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3548]]"
+- "[[H9006]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H4941G]]"
+- "[[H3068G]]"
+- "[[H7379]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 19:8**<big><big>[[2Chr.19.4 Jehoshaphat’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover in Jerusalem did Jehoshaphat set of the Levites, and [of] the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Moreover, Jehoshaphat appointed in Jerusalem some of the Levites, priests, and heads of the Israelite families to judge on behalf of the LORD and to settle disputes. And they lived in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֣ם]] [[H9003\|בִּ֠]][[H3389\|ירוּשָׁלִַם]] [[H5975H\|הֶעֱמִ֨יד]] [[H3092I\|יְהוֹשָׁפָ֜ט]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֣ם]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֲנִ֗ים]] [[H9002\|וּ]][[H9006\|מֵ]][[H7218H\|רָאשֵׁ֤י]] [[H9009\|הָ]][[H0001G\|אָבוֹת֙]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לְ]][[H4941G\|מִשְׁפַּ֥ט]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H9005\|לָ]][[H7379\|רִ֑יב]] [[H9001\|וַ]][[H7725G\|יָּשֻׁ֖בוּ]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JUDGE|JUDGE]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.7|<< 2 Chronicles 19:7]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.9|2 Chronicles 19:9 >>]]</td></tr></table>
 

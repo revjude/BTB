@@ -1,10 +1,60 @@
+---
+title: Luke 1:45
+type: Verse
+kjv: "And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord."
+bsb: "Blessed is she who has believed that the Lord’s word to her will be fulfilled.”"
+greek: "καὶ μακαρία ἡ πιστεύσασα ὅτι ἔσται τελείωσις τοῖς λελαλημένοις αὐτῇ παρὰ κυρίου.¶"
+pericope: "[[Luke.1.39 Mary Visits Elizabeth|Mary Visits Elizabeth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PROPHETESSES|PROPHETESSES]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3107]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G1510]]"
+- "[[G5050]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G3844]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Luke 1:45**<big><big>[[Luke.1.39 Mary Visits Elizabeth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And blessed [is] she that believed: for there shall be a performance of those things which were told her from the Lord.
 <small><sub>**BSB:**</sub></small>
 Blessed is she who has believed that the Lord’s word to her will be fulfilled.”
-<small><sub>**Literal:**</sub></small>
-And blessed [is] the [one] having believed that there will be a fulfillment to the [things] spoken to her from [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.44|<< Luke 1:44]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.46|Luke 1:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3107\|μακαρία]]  [[G3588\|ἡ]]  [[G4100\|πιστεύσασα]]  [[G3754G\|ὅτι]]  [[G1510\|ἔσται]]  [[G5050\|τελείωσις]]  [[G3588\|τοῖς]]  [[G2980\|λελαλημένοις]]  [[G0846\|αὐτῇ]]  [[G3844\|παρὰ]]  [[G2962G\|κυρίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic POETRY|POETRY]] • [[topic PROPHETESSES|PROPHETESSES]] • [[topic PSALMS|PSALMS]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.44|<< Luke 1:44]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.46|Luke 1:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

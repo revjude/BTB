@@ -1,10 +1,68 @@
+---
+title: Luke 7:4
+type: Verse
+kjv: "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:"
+bsb: "They came to Jesus and pleaded with Him earnestly, “This man is worthy to have You grant this,"
+greek: "οἱ δὲ παραγενόμενοι πρὸς τὸν Ἰησοῦν παρεκάλουν αὐτὸν σπουδαίως λέγοντες ὅτι ἄξιός ἐστιν ᾧ παρέξῃ τοῦτο·"
+pericope: "[[Luke.7.1 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3854]]"
+- "[[G4314]]"
+- "[[G2424G]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G4709]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G0514]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G3930]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 7:4**<big><big>[[Luke.7.1 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:
 <small><sub>**BSB:**</sub></small>
 They came to Jesus and pleaded with Him earnestly, “This man is worthy to have You grant this,
-<small><sub>**Literal:**</sub></small>
-<the> And having come to <the> Jesus they were begging Him earnestly saying that Worthy he is to whom You will grant this;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.3|<< Luke 7:3]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.5|Luke 7:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3854\|παραγενόμενοι]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G3870\|παρεκάλουν]]  [[G0846\|αὐτὸν]]  [[G4709\|σπουδαίως]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G0514\|ἄξιός]]  [[G1510\|ἐστιν]]  [[G3739\|ᾧ]]  [[G3930\|παρέξῃ]]  [[G3778\|τοῦτο·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINDNESS|KINDNESS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.3|<< Luke 7:3]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.5|Luke 7:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

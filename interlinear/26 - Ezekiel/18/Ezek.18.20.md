@@ -1,8 +1,72 @@
+---
+title: Ezekiel 18:20
+type: Verse
+kjv: "The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him."
+bsb: "The soul who sins is the one who will die. A son will not bear the iniquity of his father, and a father will not bear the iniquity of his son. The righteousness of the righteous man will fall upon him, and the wickedness of the wicked man will fall upon him."
+hebrew: "הַנֶּ֥פֶשׁ הַחֹטֵ֖את הִ֣יא תָמ֑וּת בֵּ֞ן לֹא־ יִשָּׂ֣א׀ בַּעֲוֹ֣ן הָאָ֗ב וְאָב֙ לֹ֤א יִשָּׂא֙ בַּעֲוֹ֣ן הַבֵּ֔ן צִדְקַ֤ת הַצַּדִּיק֙ עָלָ֣יו תִּֽהְיֶ֔ה וְרִשְׁעַ֥ת הָרָשָׁ֖ע עָלָ֥יו תִּֽהְיֶֽה׃ ס"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9009]]"
+- "[[H5315G]]"
+- "[[H2398]]"
+- "[[H1931]]"
+- "[[H4191]]"
+- "[[H1121A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5375J]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H5771G]]"
+- "[[H0001G]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H6662]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H7564]]"
+- "[[H7563]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 18:20**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The soul that sinneth, it shall die. The son shall not bear the iniquity of the father, neither shall the father bear the iniquity of the son: the righteousness of the righteous shall be upon him, and the wickedness of the wicked shall be upon him.
 <small><sub>**BSB:**</sub></small>
 The soul who sins is the one who will die. A son will not bear the iniquity of his father, and a father will not bear the iniquity of his son. The righteousness of the righteous man will fall upon him, and the wickedness of the wicked man will fall upon him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5315G\|נֶּ֥פֶשׁ]] [[H9009\|הַ]][[H2398\|חֹטֵ֖את]] [[H1931\|הִ֣יא]] [[H4191\|תָמ֑וּת]] [[H1121A\|בֵּ֞ן]] [[H3808\|לֹא]][[H9014\|־]] [[H5375J\|יִשָּׂ֣א]][[H9015\|׀]] [[H9003\|בַּ]][[H5771G\|עֲוֹ֣ן]] [[H9009\|הָ]][[H0001G\|אָ֗ב]] [[H9002\|וְ]][[H0001G\|אָב֙]] [[H3808\|לֹ֤א]] [[H5375J\|יִשָּׂא֙]] [[H9003\|בַּ]][[H5771G\|עֲוֹ֣ן]] [[H9009\|הַ]][[H1121A\|בֵּ֔ן]] [[H6666\|צִדְקַ֤ת]] [[H9009\|הַ]][[H6662\|צַּדִּיק֙]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H1961\|תִּֽהְיֶ֔ה]] [[H9002\|וְ]][[H7564\|רִשְׁעַ֥ת]] [[H9009\|הָ]][[H7563\|רָשָׁ֖ע]] [[H5921A\|עָלָ֥י]][[H9033\|ו]] [[H1961\|תִּֽהְיֶֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HEREDITY|HEREDITY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.19|<< Ezekiel 18:19]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.21|Ezekiel 18:21 >>]]</td></tr></table>
 
@@ -29,7 +93,7 @@ The soul who sins is the one who will die. A son will not bear the iniquity of h
 | and [the] wickedness of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7564\|רִשְׁעַ֥ת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> rish.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the wicked [person]  [^2]|**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7563\|רָשָׁ֖ע]]&#8207; </big>**[^3] | ha.<small><sup>[[HTd]]</sup></small> ra.sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֥י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be  |**<big>&#8207;[[H1961\|תִּֽהְיֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Tih.Yeh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.19|<< Ezekiel 18:19]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.21|Ezekiel 18:21 >>]]</td></tr></table>
 
 [^1]: a wicked [person]  | **<big>[[H7563|רָשָׁע]]</big> ** | ra.sha'<small><sup>[[HNcbsa]]</sup></small> | K

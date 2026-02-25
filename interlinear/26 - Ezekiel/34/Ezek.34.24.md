@@ -1,8 +1,63 @@
+---
+title: Ezekiel 34:24
+type: Verse
+kjv: "And I the LORD will be their God, and my servant David a prince among them; I the LORD have spoken it."
+bsb: "I, the LORD, will be their God, and My servant David will be a prince among them. I, the LORD, have spoken."
+hebrew: "וַאֲנִ֣י יְהוָ֗ה אֶהְיֶ֤ה לָהֶם֙ לֵֽאלֹהִ֔ים וְעַבְדִּ֥י דָוִ֖ד נָשִׂ֣יא בְתוֹכָ֑ם אֲנִ֥י יְהוָ֖ה דִּבַּֽרְתִּי׃"
+pericope: "[[Ezek.34.11 The Good Shepherd|The Good Shepherd]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 34
+book/chapter: "[[Ezek.34|Ezekiel 34]]"
+chronological_order: 825
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0430G]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H1732]]"
+- "[[H5387A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 34:24**<big><big>[[Ezek.34.11 The Good Shepherd|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I the LORD will be their God, and my servant David a prince among them; I the LORD have spoken [it].
 <small><sub>**BSB:**</sub></small>
 I, the LORD, will be their God, and My servant David will be a prince among them. I, the LORD, have spoken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֗ה]] [[H1961\|אֶהְיֶ֤ה]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֔ים]] [[H9002\|וְ]][[H5650\|עַבְדִּ֥]][[H9020\|י]] [[H1732\|דָוִ֖ד]] [[H5387A\|נָשִׂ֣יא]] [[H9003\|בְ]][[H8432\|תוֹכָ֑]][[H9028\|ם]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1696G\|דִּבַּֽרְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DAVID|DAVID]] • [[topic GOSPEL|GOSPEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.34.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.34.23|<< Ezekiel 34:23]]</td><td align="center" style="border:none;">[[Ezek.34|Ezekiel 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.34.25|Ezekiel 34:25 >>]]</td></tr></table>
 

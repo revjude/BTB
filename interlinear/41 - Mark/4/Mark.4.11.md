@@ -1,10 +1,69 @@
+---
+title: Mark 4:11
+type: Verse
+kjv: "And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:"
+bsb: "He replied, “The mystery of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables,"
+jesus_said: "Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:"
+greek: "καὶ ἔλεγεν αὐτοῖς· ὑμῖν γνῶναι τὸ μυστήριον δέδοται τῆς βασιλείας τοῦ θεοῦ, ἐκείνοις δὲ τοῖς ἔξω ἐν παραβολαῖς τὰ πάντα γίνεται"
+pericope: "[[Mark.4.10 The Purpose of Jesus’ Parables|The Purpose of Jesus’ Parables]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METAPHOR|METAPHOR]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4771]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G3466]]"
+- "[[G1325]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G1565]]"
+- "[[G1161]]"
+- "[[G1854]]"
+- "[[G1722]]"
+- "[[G3850]]"
+- "[[G3956]]"
+- "[[G1096]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 4:11**<big><big>[[Mark.4.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all [these] things are done in parables:
 <small><sub>**BSB:**</sub></small>
 He replied, “The mystery of the kingdom of God has been given to you, but to those on the outside everything is expressed in parables,
-<small><sub>**Literal:**</sub></small>
-And He was saying to them; To you to know the mystery has been given of the kingdom <the> of God, To those however who are outside in parables <the> everything is done<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.10|<< Mark 4:10]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.12|Mark 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς·]]  [[G4771\|ὑμῖν]]  [[G1097\|γνῶναι]]  [[G3588\|τὸ]]  [[G3466\|μυστήριον]]  [[G1325\|δέδοται]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G1565\|ἐκείνοις]]  [[G1161\|δὲ]]  [[G3588\|τοῖς]]  [[G1854\|ἔξω]]  [[G1722\|ἐν]]  [[G3850\|παραβολαῖς]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G1096\|γίνεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METAPHOR|METAPHOR]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic SALVATION|SALVATION]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.10|<< Mark 4:10]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.12|Mark 4:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

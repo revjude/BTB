@@ -1,8 +1,74 @@
+---
+title: Daniel 9:16
+type: Verse
+kjv: "O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people are become a reproach to all that are about us."
+bsb: "O Lord, in keeping with all Your righteous acts, I pray that Your anger and wrath may turn away from Your city Jerusalem, Your holy mountain; for because of our sins and the iniquities of our fathers, Jerusalem and Your people are a reproach to all around us."
+hebrew: "אֲדֹנָ֗י כְּכָל־ צִדְקֹתֶ֙ךָ֙ יָֽשָׁב־ נָ֤א אַפְּךָ֙ וַחֲמָ֣תְךָ֔ מֵעִֽירְךָ֥ יְרוּשָׁלִַ֖ם הַר־ קָדְשֶׁ֑ךָ כִּ֤י בַחֲטָאֵ֙ינוּ֙ וּבַעֲוֹנ֣וֹת אֲבֹתֵ֔ינוּ יְרוּשָׁלִַ֧ם וְעַמְּךָ֛ לְחֶרְפָּ֖ה לְכָל־ סְבִיבֹתֵֽינוּ׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H0136]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6666]]"
+- "[[H9021]]"
+- "[[H7725I]]"
+- "[[H4994]]"
+- "[[H0639G]]"
+- "[[H9002]]"
+- "[[H2534]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H3389]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H2399]]"
+- "[[H9025]]"
+- "[[H5771G]]"
+- "[[H0001G]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H2781]]"
+- "[[H5439G]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:16**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Lord, according to all thy righteousness, I beseech thee, let thine anger and thy fury be turned away from thy city Jerusalem, thy holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and thy people [are become] a reproach to all [that are] about us.
 <small><sub>**BSB:**</sub></small>
 O Lord, in keeping with all Your righteous acts, I pray that Your anger and wrath may turn away from Your city Jerusalem, Your holy mountain; for because of our sins and the iniquities of our fathers, Jerusalem and Your people are a reproach to all around us.
+<small><sub>**Hebrew:**</sub></small>
+[[H0136\|אֲדֹנָ֗י]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H6666\|צִדְקֹתֶ֙]][[H9021\|ךָ֙]] [[H7725I\|יָֽשָׁב]][[H9014\|־]] [[H4994\|נָ֤א]] [[H0639G\|אַפְּ]][[H9021\|ךָ֙]] [[H9002\|וַ]][[H2534\|חֲמָ֣תְ]][[H9021\|ךָ֔]] [[H9006\|מֵ]][[H5892B\|עִֽירְ]][[H9021\|ךָ֥]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H2022G\|הַר]][[H9014\|־]] [[H6944G\|קָדְשֶׁ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֤י]] [[H9003\|בַ]][[H2399\|חֲטָאֵ֙י]][[H9025\|נוּ֙]] [[H9002\|וּ]][[H9003\|בַ]][[H5771G\|עֲוֹנ֣וֹת]] [[H0001G\|אֲבֹתֵ֔י]][[H9025\|נוּ]] [[H3389\|יְרוּשָׁלִַ֧ם]] [[H9002\|וְ]][[H5971A\|עַמְּ]][[H9021\|ךָ֛]] [[H9005\|לְ]][[H2781\|חֶרְפָּ֖ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5439G\|סְבִיבֹתֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JERUSALEM|JERUSALEM]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.15|<< Daniel 9:15]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.17|Daniel 9:17 >>]]</td></tr></table>
 

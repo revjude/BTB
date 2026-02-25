@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Woman Caught in Adultery
+type: Pericope
 pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: John
 chapter: 8
 book/chapter: "[[John.8|John 8]]"
-genre:
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 11
 verses:
 - "[[John.8.1]]"
 - "[[John.8.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[John.8.11]]"
 ---
 
-[[John.8|John 8:1 - John 8:11]]
+<small>[[John.8|John 8:1-11]]</small>
 *The Woman Caught in Adultery*
 
 [[John.8.1|1]] Jesus went unto the mount of Olives.

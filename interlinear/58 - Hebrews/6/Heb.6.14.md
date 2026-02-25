@@ -1,10 +1,52 @@
+---
+title: Hebrews 6:14
+type: Verse
+kjv: "Saying, Surely blessing I will bless thee, and multiplying I will multiply thee."
+bsb: "saying, “I will surely bless you and multiply your descendants.”"
+greek: "λέγων· εἰ μὴν εὐλογῶν εὐλογήσω σε καὶ πληθύνων πληθυνῶ σε·"
+pericope: "[[Heb.6.13 God’s Unchangeable Promise|God’s Unchangeable Promise]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OATH|OATH]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1487K]]"
+- "[[G3375]]"
+- "[[G2127]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G4129]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 6:14**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, Surely blessing I will bless thee, and multiplying I will multiply thee.
 <small><sub>**BSB:**</sub></small>
 saying, “I will surely bless you and multiply your descendants.”
-<small><sub>**Literal:**</sub></small>
-saying; If surely blessing I will bless you and multiplying I will multiply you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.13|<< Hebrews 6:13]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.15|Hebrews 6:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων·]]  [[G1487K\|εἰ]]  [[G3375\|μὴν]]  [[G2127\|εὐλογῶν]]  [[G2127\|εὐλογήσω]]  [[G4771\|σε]]  [[G2532\|καὶ]]  [[G4129\|πληθύνων]]  [[G4129\|πληθυνῶ]]  [[G4771\|σε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic OATH|OATH]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.13|<< Hebrews 6:13]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.15|Hebrews 6:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 6:14** is...
 > $\quad$ referencing: [[LXX.Gen.22.16|Gen 22:16-17]]

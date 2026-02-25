@@ -1,8 +1,61 @@
+---
+title: Isaiah 18:3
+type: Verse
+kjv: "All ye inhabitants of the world, and dwellers on the earth, see ye, when he lifteth up an ensign on the mountains; and when he bloweth a trumpet, hear ye."
+bsb: "All you people of the world and dwellers of the earth, when a banner is raised on the mountains, you will see it; when a ram’s horn sounds, you will hear it."
+hebrew: "כָּל־ יֹשְׁבֵ֥י תֵבֵ֖ל וְשֹׁ֣כְנֵי אָ֑רֶץ כִּנְשֹׂא־ נֵ֤ס הָרִים֙ תִּרְא֔וּ וְכִתְקֹ֥עַ שׁוֹפָ֖ר תִּשְׁמָֽעוּ׃ ס"
+pericope: "[[Isa.18.1 A Message to Cush|A Message to Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 18
+book/chapter: "[[Isa.18|Isaiah 18]]"
+chronological_order: 635
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ENSIGN|ENSIGN]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic SIGNAL|SIGNAL]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H8398]]"
+- "[[H9002]]"
+- "[[H7931]]"
+- "[[H0776G]]"
+- "[[H9004]]"
+- "[[H5375G]]"
+- "[[H5251H]]"
+- "[[H2022G]]"
+- "[[H7200G]]"
+- "[[H8628]]"
+- "[[H7782]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 18:3**<big><big>[[Isa.18.1 A Message to Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All ye inhabitants of the world, and dwellers on the earth, see ye, when he lifteth up an ensign on the mountains; and when he bloweth a trumpet, hear ye.
 <small><sub>**BSB:**</sub></small>
 All you people of the world and dwellers of the earth, when a banner is raised on the mountains, you will see it; when a ram’s horn sounds, you will hear it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֥י]] [[H8398\|תֵבֵ֖ל]] [[H9002\|וְ]][[H7931\|שֹׁ֣כְנֵי]] [[H0776G\|אָ֑רֶץ]] [[H9004\|כִּ]][[H5375G\|נְשֹׂא]][[H9014\|־]] [[H5251H\|נֵ֤ס]] [[H2022G\|הָרִים֙]] [[H7200G\|תִּרְא֔וּ]] [[H9002\|וְ]][[H9004\|כִ]][[H8628\|תְקֹ֥עַ]] [[H7782\|שׁוֹפָ֖ר]] [[H8085G\|תִּשְׁמָֽעוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENSIGN|ENSIGN]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic SIGNAL|SIGNAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.2|<< Isaiah 18:2]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.4|Isaiah 18:4 >>]]</td></tr></table>
 
@@ -19,7 +72,7 @@ All you people of the world and dwellers of the earth, when a banner is raised o
 | you will see [it]  |**<big>&#8207;[[H7200G\|תִּרְא֔וּ]]&#8207; </big>**| tir.'U<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and just as sounds  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H8628\|תְקֹ֥עַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HR]]</sup></small> t.Ko.a'<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a trumpet  |**<big>&#8207;[[H7782\|שׁוֹפָ֖ר]]&#8207; </big>**| sho.Far<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will hear [it]  |**<big>&#8207;[[H8085G\|תִּשְׁמָֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tish.Ma.'u<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will hear [it]  |**<big>&#8207;[[H8085G\|תִּשְׁמָֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tish.Ma.'u<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.18.2|<< Isaiah 18:2]]</td><td align="center" style="border:none;">[[Isa.18|Isaiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.18.4|Isaiah 18:4 >>]]</td></tr></table>
 
 

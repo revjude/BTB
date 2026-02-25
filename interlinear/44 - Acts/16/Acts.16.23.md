@@ -1,10 +1,63 @@
+---
+title: Acts 16:23
+type: Verse
+kjv: "And when they had laid many stripes upon them, they cast them into prison, charging the jailor to keep them safely:"
+bsb: "And after striking them with many blows, they threw them into prison and ordered the jailer to guard them securely."
+greek: "πολλάς τε ἐπιθέντες αὐτοῖς πληγὰς ἔβαλον εἰς φυλακὴν παραγγείλαντες τῷ δεσμοφύλακι ἀσφαλῶς τηρεῖν αὐτούς·"
+pericope: "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic HERESY|HERESY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SCOURGING|SCOURGING]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G4183]]"
+- "[[G5037]]"
+- "[[G2007]]"
+- "[[G0846]]"
+- "[[G4127]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G5438G]]"
+- "[[G3853]]"
+- "[[G3588]]"
+- "[[G1200]]"
+- "[[G0806]]"
+- "[[G5083H]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 16:23**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had laid many stripes upon them, they cast [them] into prison, charging the jailor to keep them safely:
 <small><sub>**BSB:**</sub></small>
 And after striking them with many blows, they threw them into prison and ordered the jailer to guard them securely.
-<small><sub>**Literal:**</sub></small>
-Many then having laid on them blows they cast [them] into prison having charged the to jailer strictly to keep them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.22|<< Acts 16:22]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.24|Acts 16:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|πολλάς]]  [[G5037\|τε]]  [[G2007\|ἐπιθέντες]]  [[G0846\|αὐτοῖς]]  [[G4127\|πληγὰς]]  [[G0906G\|ἔβαλον]]  [[G1519\|εἰς]]  [[G5438G\|φυλακὴν]]  [[G3853\|παραγγείλαντες]]  [[G3588\|τῷ]]  [[G1200\|δεσμοφύλακι]]  [[G0806\|ἀσφαλῶς]]  [[G5083H\|τηρεῖν]]  [[G0846\|αὐτούς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CRIMINALS|CRIMINALS]] • [[topic HERESY|HERESY]] • [[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SCOURGING|SCOURGING]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.22|<< Acts 16:22]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.24|Acts 16:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

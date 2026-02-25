@@ -1,8 +1,74 @@
+---
+title: Numbers 24:13
+type: Verse
+kjv: "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?"
+bsb: "that even if Balak were to give me his house full of silver and gold, I could not do anything of my own accord, good or bad, to go beyond the command of the LORD? I must speak whatever the LORD says."
+hebrew: "אִם־ יִתֶּן־ לִ֨י בָלָ֜ק מְלֹ֣א בֵיתוֹ֮ כֶּ֣סֶף וְזָהָב֒ לֹ֣א אוּכַ֗ל לַעֲבֹר֙ אֶת־ פִּ֣י יְהוָ֔ה לַעֲשׂ֥וֹת טוֹבָ֛ה א֥וֹ רָעָ֖ה מִלִּבִּ֑י אֲשֶׁר־ יְדַבֵּ֥ר יְהוָ֖ה אֹת֥וֹ אֲדַבֵּֽר׃"
+pericope: "[[Num.24.10 Balak Dismisses Balaam|Balak Dismisses Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 24
+book/chapter: "[[Num.24|Numbers 24]]"
+chronological_order: 184
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1111]]"
+- "[[H4393]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H5674D]]"
+- "[[H0853]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H2896C]]"
+- "[[H0176A]]"
+- "[[H7451A]]"
+- "[[H9006]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 24:13**<big><big>[[Num.24.10 Balak Dismisses Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do [either] good or bad of mine own mind; [but] what the LORD saith, that will I speak?
 <small><sub>**BSB:**</sub></small>
 that even if Balak were to give me his house full of silver and gold, I could not do anything of my own accord, good or bad, to go beyond the command of the LORD? I must speak whatever the LORD says.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5414G\|יִתֶּן]][[H9014\|־]] [[H9005\|לִ֨]][[H9030\|י]] [[H1111\|בָלָ֜ק]] [[H4393\|מְלֹ֣א]] [[H1004B\|בֵית]][[H9023\|וֹ֮]] [[H3701G\|כֶּ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָב֒]] [[H3808\|לֹ֣א]] [[H3201\|אוּכַ֗ל]] [[H9005\|לַ]][[H5674D\|עֲבֹר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H2896C\|טוֹבָ֛ה]] [[H0176A\|א֥וֹ]] [[H7451A\|רָעָ֖ה]] [[H9006\|מִ]][[H3820A\|לִּבִּ֑]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|יְדַבֵּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֹת֥]][[H9033\|וֹ]] [[H1696G\|אֲדַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.24.12|<< Numbers 24:12]]</td><td align="center" style="border:none;">[[Num.24|Numbers 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.14|Numbers 24:14 >>]]</td></tr></table>
 

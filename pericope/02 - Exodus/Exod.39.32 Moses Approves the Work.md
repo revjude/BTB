@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Approves the Work
+type: Pericope
 pericope: "[[Exod.39.32 Moses Approves the Work|Moses Approves the Work]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 39
 book/chapter: "[[Exod.39|Exodus 39]]"
-genre:
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 12
 verses:
 - "[[Exod.39.32]]"
 - "[[Exod.39.33]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Exod.39.43]]"
 ---
 
-[[Exod.39|Exodus 39:32 - Exodus 39:43]]
+<small>[[Exod.39|Exodus 39:32-43]]</small>
 *Moses Approves the Work*
 
 [[Exod.39.32|32]] Thus was all the work of the tabernacle of the tent of the congregation finished: and the children of Israel did according to all that the LORD commanded Moses, so did they.

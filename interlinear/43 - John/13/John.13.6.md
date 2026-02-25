@@ -1,10 +1,61 @@
+---
+title: John 13:6
+type: Verse
+kjv: "Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?"
+bsb: "He came to Simon Peter, who asked Him, “Lord, are You going to wash my feet?”"
+greek: "Ἔρχεται οὖν πρὸς Σίμωνα Πέτρον· καὶ λέγει αὐτῷ ἐκεῖνος· κύριε, σύ μου νίπτεις τοὺς πόδας;"
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic FEET|FEET]]"
+- "[[topic FOOT|FOOT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2064]]"
+- "[[G3767]]"
+- "[[G4314]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1565]]"
+- "[[G2962G]]"
+- "[[G4771]]"
+- "[[G3165]]"
+- "[[G3538]]"
+- "[[G3588]]"
+- "[[G4228]]"
+texts:
+- NKO
+- k
+- ko
+---
+
 **John 13:6**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then cometh he to Simon Peter: and Peter saith unto him, Lord, dost thou wash my feet?
 <small><sub>**BSB:**</sub></small>
 He came to Simon Peter, who asked Him, “Lord, are You going to wash my feet?”
-<small><sub>**Literal:**</sub></small>
-He comes then to Simon Peter; and who says to Him that [question]; Lord, You yourself my do wash <the> feet?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.5|<< John 13:5]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.7|John 13:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|Ἔρχεται]]  [[G3767\|οὖν]]  [[G4314\|πρὸς]]  [[G4613O\|Σίμωνα]]  [[G4074G\|Πέτρον·]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G1565\|ἐκεῖνος·]]  [[G2962G\|κύριε,]]  [[G4771\|σύ]]  [[G3165\|μου]]  [[G3538\|νίπτεις]]  [[G3588\|τοὺς]]  [[G4228\|πόδας;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic FEET|FEET]] • [[topic FOOT|FOOT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.5|<< John 13:5]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.7|John 13:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

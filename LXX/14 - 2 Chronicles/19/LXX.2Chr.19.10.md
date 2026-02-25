@@ -1,6 +1,93 @@
+---
+title: LXX 2 Chronicles 19:10
+type: Verse
+lxx: "Every man with a judgment  coming unto you  of your brethren  dwelling in  their cities, whether between blood for blood, and between the order and commandment, and for ordinances and judgments, that you shall warn them, that they shall not sin against the lord, that there will not be anger against you, and against  your brethren -- thus you shall do, and you shall not sin."
+greek: "πας ανήρ κρίσιν την ελθούσαν εφ΄ υμάς των αδελφών υμών των κατοικούντων εν ταις πόλεσιν αυτών αναμέσον αίματος και αίματος και αναμέσον του προστάγματος και εντολής και εις δικαιώματα και κρίματα και διαστελείτε αυτοίς και ουχ αμαρτήσονται τω κυρίω και ουκ έσται οργή εφ΄ υμάς και επί τους αδελφούς υμών ούτω ποιήσατε και ουχ αμαρτήσεσθε"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 19
+book/chapter: "[[2Chr.19|2 Chronicles 19]]"
+chronological_order: 572
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[G3956]]"
+- "[[G0435]]"
+- "[[G2920]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1473]]"
+- "[[G6271]]"
+- "[[G0129]]"
+- "[[G2532]]"
+- "[[G0129]]"
+- "[[G2532]]"
+- "[[G6271]]"
+- "[[G3588]]"
+- "[[G8943]]"
+- "[[G2532]]"
+- "[[G1785]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G1345]]"
+- "[[G2532]]"
+- "[[G2917]]"
+- "[[G2532]]"
+- "[[G1291]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0264]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3709]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G3779]]"
+- "[[G4160]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0264]]"
+---
+
 **LXX 2 Chronicles 19:10** 
 <small><sub>**LXX:**</sub></small>
 Every man \[with\] a judgment  coming unto you  of your brethren  dwelling in  their cities, \[whether\] between blood for blood, and between the order and commandment, and for ordinances and judgments, that you shall warn them, that they shall not sin against the <span class="smallcaps">lord</span>, that there will not be anger against you, and against  your brethren -- thus you shall do, and you shall not sin. 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πας]] [[G0435\|ανήρ]] [[G2920\|κρίσιν]] [[G3588\|την]] [[G2064\|ελθούσαν]] [[G1909\|εφ΄]] [[G1473\|υμάς]] [[G3588\|των]] [[G0080\|αδελφών]] [[G1473\|υμών]] [[G3588\|των]] [[G2730\|κατοικούντων]] [[G1722\|εν]] [[G3588\|ταις]] [[G4172\|πόλεσιν]] [[G1473\|αυτών]] [[G6271\|αναμέσον]] [[G0129\|αίματος]] [[G2532\|και]] [[G0129\|αίματος]] [[G2532\|και]] [[G6271\|αναμέσον]] [[G3588\|του]] [[G8943\|προστάγματος]] [[G2532\|και]] [[G1785\|εντολής]] [[G2532\|και]] [[G1519\|εις]] [[G1345\|δικαιώματα]] [[G2532\|και]] [[G2917\|κρίματα]] [[G2532\|και]] [[G1291\|διαστελείτε]] [[G1473\|αυτοίς]] [[G2532\|και]] [[G3756\|ουχ]] [[G0264\|αμαρτήσονται]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G2532\|και]] [[G3756\|ουκ]] [[G1510\|έσται]] [[G3709\|οργή]] [[G1909\|εφ΄]] [[G1473\|υμάς]] [[G2532\|και]] [[G1909\|επί]] [[G3588\|τους]] [[G0080\|αδελφούς]] [[G1473\|υμών]] [[G3779\|ούτω]] [[G4160\|ποιήσατε]] [[G2532\|και]] [[G3756\|ουχ]] [[G0264\|αμαρτήσεσθε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JUDGE|JUDGE]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.9|<< 2 Chronicles 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.11|2 Chronicles 19:11 >>]]</td></tr></table>
 
@@ -57,6 +144,6 @@ Every man \[with\] a judgment  coming unto you  of your brethren  dwelling in  t
 | you shall do, | **<big>[[G4160\|ποιήσατε]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | you shall not sin. | **<big>[[G3756\|ουχ]]</big>** **<big>[[G0264\|αμαρτήσεσθε]]</big>** |
-[[2Chr.19.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.9|<< 2 Chronicles 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.11|2 Chronicles 19:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.19.9|<< 2 Chronicles 19:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.19.11|2 Chronicles 19:11 >>]]</td></tr></table>
 
 

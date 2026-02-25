@@ -1,8 +1,62 @@
+---
+title: Genesis 45:16
+type: Verse
+kjv: "And the fame thereof was heard in Pharaoh’s house, saying, Joseph’s brethren are come: and it pleased Pharaoh well, and his servants."
+bsb: "When the news reached Pharaoh’s house that Joseph’s brothers had come, Pharaoh and his servants were pleased."
+hebrew: "וְהַקֹּ֣ל נִשְׁמַ֗ע בֵּ֤ית פַּרְעֹה֙ לֵאמֹ֔ר בָּ֖אוּ אֲחֵ֣י יוֹסֵ֑ף וַיִּיטַב֙ בְּעֵינֵ֣י פַרְעֹ֔ה וּבְעֵינֵ֖י עֲבָדָֽיו׃"
+pericope: "[[Gen.45.16 Pharaoh Invites Jacob to Egypt|Pharaoh Invites Jacob to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6963J]]"
+- "[[H8085G]]"
+- "[[H1004M]]"
+- "[[H6547H]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0935G]]"
+- "[[H0251G]]"
+- "[[H3130G]]"
+- "[[H9001]]"
+- "[[H3190]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:16**<big><big>[[Gen.45.16 Pharaoh Invites Jacob to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fame thereof was heard in Pharaoh’s house, saying, Joseph’s brethren are come: and it pleased Pharaoh well, and his servants.
 <small><sub>**BSB:**</sub></small>
 When the news reached Pharaoh’s house that Joseph’s brothers had come, Pharaoh and his servants were pleased.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H6963J\|קֹּ֣ל]] [[H8085G\|נִשְׁמַ֗ע]] [[H1004M\|בֵּ֤ית]] [[H6547H\|פַּרְעֹה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0935G\|בָּ֖אוּ]] [[H0251G\|אֲחֵ֣י]] [[H3130G\|יוֹסֵ֑ף]] [[H9001\|וַ]][[H3190\|יִּיטַב֙]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H6547H\|פַרְעֹ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H5869I\|עֵינֵ֖י]] [[H5650\|עֲבָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.15|<< Genesis 45:15]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.17|Genesis 45:17 >>]]</td></tr></table>
 

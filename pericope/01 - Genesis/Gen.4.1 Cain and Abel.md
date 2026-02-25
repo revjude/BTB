@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cain and Abel
+type: Pericope
 pericope: "[[Gen.4.1 Cain and Abel|Cain and Abel]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 4
 book/chapter: "[[Gen.4|Genesis 4]]"
-genre:
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 16
 verses:
 - "[[Gen.4.1]]"
 - "[[Gen.4.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Gen.4.16]]"
 ---
 
-[[Gen.4|Genesis 4:1 - Genesis 4:16]]
+<small>[[Gen.4|Genesis 4:1-16]]</small>
 *Cain and Abel*
 
 [[Gen.4.1|1]] And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.

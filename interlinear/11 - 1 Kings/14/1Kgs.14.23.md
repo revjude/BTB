@@ -1,8 +1,64 @@
+---
+title: 1 Kings 14:23
+type: Verse
+kjv: "For they also built them high places, and images, and groves, on every high hill, and under every green tree."
+bsb: "They also built for themselves high places, sacred pillars, and Asherah poles on every high hill and under every green tree."
+hebrew: "וַיִּבְנ֨וּ גַם־ הֵ֧מָּה לָהֶ֛ם בָּמ֥וֹת וּמַצֵּב֖וֹת וַאֲשֵׁרִ֑ים עַ֚ל כָּל־ גִּבְעָ֣ה גְבֹהָ֔ה וְתַ֖חַת כָּל־ עֵ֥ץ רַעֲנָֽן׃"
+pericope: "[[1Kgs.14.21 Rehoboam Reigns in Judah|Rehoboam Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GROVES|GROVES]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1116]]"
+- "[[H9002]]"
+- "[[H4676]]"
+- "[[H0842]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H1389I]]"
+- "[[H1364]]"
+- "[[H8478G]]"
+- "[[H6086H]]"
+- "[[H7488B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:23**<big><big>[[1Kgs.14.21 Rehoboam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they also built them high places, and images, and groves, on every high hill, and under every green tree.
 <small><sub>**BSB:**</sub></small>
 They also built for themselves high places, sacred pillars, and Asherah poles on every high hill and under every green tree.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּבְנ֨וּ]] [[H1571\|גַם]][[H9014\|־]] [[H1992\|הֵ֧מָּה]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H1116\|בָּמ֥וֹת]] [[H9002\|וּ]][[H4676\|מַצֵּב֖וֹת]] [[H9002\|וַ]][[H0842\|אֲשֵׁרִ֑ים]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1389I\|גִּבְעָ֣ה]] [[H1364\|גְבֹהָ֔ה]] [[H9002\|וְ]][[H8478G\|תַ֖חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֥ץ]] [[H7488B\|רַעֲנָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GROVES|GROVES]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MOUNTAIN|MOUNTAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.22|<< 1 Kings 14:22]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.24|1 Kings 14:24 >>]]</td></tr></table>
 

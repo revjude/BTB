@@ -1,8 +1,60 @@
+---
+title: Psalm 66:16
+type: Verse
+kjv: "Come and hear, all ye that fear God, and I will declare what he hath done for my soul."
+bsb: "Come and listen, all you who fear God, and I will declare what He has done for me."
+hebrew: "לְכֽוּ־ שִׁמְע֣וּ וַ֭אֲסַפְּרָה כָּל־ יִרְאֵ֣י אֱלֹהִ֑ים אֲשֶׁ֖ר עָשָׂ֣ה לְנַפְשִֽׁי׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H1980K]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H5608A]]"
+- "[[H3605]]"
+- "[[H3373]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:16**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come [and] hear, all ye that fear God, and I will declare what he hath done for my soul.
 <small><sub>**BSB:**</sub></small>
 Come and listen, all you who fear God, and I will declare what He has done for me.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980K\|לְכֽוּ]][[H9014\|־]] [[H8085G\|שִׁמְע֣וּ]] [[H9002\|וַ֭]][[H5608A\|אֲסַפְּרָה]] [[H3605\|כָּל]][[H9014\|־]] [[H3373\|יִרְאֵ֣י]] [[H0430G\|אֱלֹהִ֑ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H6213A\|עָשָׂ֣ה]] [[H9005\|לְ]][[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic REVERENCE|REVERENCE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.15|<< Psalms 66:15]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.17|Psalms 66:17 >>]]</td></tr></table>
 

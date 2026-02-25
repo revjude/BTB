@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Spiritual Gifts
+type: Pericope
 pericope: "[[1Cor.12.1 Spiritual Gifts|Spiritual Gifts]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 12
 book/chapter: "[[1Cor.12|1 Corinthians 12]]"
-genre:
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 11
 verses:
 - "[[1Cor.12.1]]"
 - "[[1Cor.12.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Cor.12.11]]"
 ---
 
-[[1Cor.12|1 Corinthians 12:1 - 1 Corinthians 12:11]]
+<small>[[1Cor.12|1 Corinthians 12:1-11]]</small>
 *Spiritual Gifts*
 
 [[1Cor.12.1|1]] Now concerning spiritual \[gifts\], brethren, I would not have you ignorant.

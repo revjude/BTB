@@ -1,8 +1,66 @@
+---
+title: Exodus 26:13
+type: Verse
+kjv: "And a cubit on the one side, and a cubit on the other side of that which remaineth in the length of the curtains of the tent, it shall hang over the sides of the tabernacle on this side and on that side, to cover it."
+bsb: "And the tent curtains will be a cubit longer on either side, and the excess will hang over the sides of the tabernacle to cover it."
+hebrew: "וְהָאַמָּ֨ה מִזֶּ֜ה וְהָאַמָּ֤ה מִזֶּה֙ בָּעֹדֵ֔ף בְּאֹ֖רֶךְ יְרִיעֹ֣ת הָאֹ֑הֶל יִהְיֶ֨ה סָר֜וּחַ עַל־ צִדֵּ֧י הַמִּשְׁכָּ֛ן מִזֶּ֥ה וּמִזֶּ֖ה לְכַסֹּתֽוֹ׃"
+pericope: "[[Exod.26.7 The Eleven Curtains of Goat Hair|The Eleven Curtains of Goat Hair]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0520A]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H5736]]"
+- "[[H0753]]"
+- "[[H3407]]"
+- "[[H0168G]]"
+- "[[H1961]]"
+- "[[H5628]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6654]]"
+- "[[H4908]]"
+- "[[H9005]]"
+- "[[H3680]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:13**<big><big>[[Exod.26.7 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a cubit on the one side, and a cubit on the other side of that which remaineth in the length of the curtains of the tent, it shall hang over the sides of the tabernacle on this side and on that side, to cover it.
 <small><sub>**BSB:**</sub></small>
 And the tent curtains will be a cubit longer on either side, and the excess will hang over the sides of the tabernacle to cover it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0520A\|אַמָּ֨ה]] [[H9006\|מִ]][[H2088\|זֶּ֜ה]] [[H9002\|וְ]][[H9009\|הָ]][[H0520A\|אַמָּ֤ה]] [[H9006\|מִ]][[H2088\|זֶּה֙]] [[H9003\|בָּ]][[H5736\|עֹדֵ֔ף]] [[H9003\|בְּ]][[H0753\|אֹ֖רֶךְ]] [[H3407\|יְרִיעֹ֣ת]] [[H9009\|הָ]][[H0168G\|אֹ֑הֶל]] [[H1961\|יִהְיֶ֨ה]] [[H5628\|סָר֜וּחַ]] [[H5921A\|עַל]][[H9014\|־]] [[H6654\|צִדֵּ֧י]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֛ן]] [[H9006\|מִ]][[H2088\|זֶּ֥ה]] [[H9002\|וּ]][[H9006\|מִ]][[H2088\|זֶּ֖ה]] [[H9005\|לְ]][[H3680\|כַסֹּתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.12|<< Exodus 26:12]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.14|Exodus 26:14 >>]]</td></tr></table>
 

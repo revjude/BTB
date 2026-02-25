@@ -1,15 +1,73 @@
+---
+title: Lamentations 1:6
+type: Verse
+kjv: "And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer."
+bsb: "All the splendor has departed from the Daughter of Zion. Her princes are like deer that find no pasture; they lack the strength to flee in the face of the hunter."
+hebrew: "וַיֵּצֵ֥א   מִבַּת צִיּ֖וֹן כָּל־ הֲדָרָ֑הּ הָי֣וּ שָׂרֶ֗יהָ כְּאַיָּלִים֙ לֹא־ מָצְא֣וּ מִרְעֶ֔ה וַיֵּלְכ֥וּ בְלֹא־ כֹ֖חַ לִפְנֵ֥י רוֹדֵֽף׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H9006]]"
+- "[[H6726]]"
+- "[[H3605]]"
+- "[[H1926]]"
+- "[[H9024]]"
+- "[[H1961]]"
+- "[[H8269]]"
+- "[[H9004]]"
+- "[[H0354]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H4829]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H7291]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Lamentations 1:6**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from the daughter of Zion all her beauty is departed: her princes are become like harts [that] find no pasture, and they are gone without strength before the pursuer.
 <small><sub>**BSB:**</sub></small>
 All the splendor has departed from the Daughter of Zion. Her princes are like deer that find no pasture; they lack the strength to flee in the face of the hunter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]]   [[H9006\|מִ]][[H1323G\|בַּת]] [[H6726\|צִיּ֖וֹן]] [[H3605\|כָּל]][[H9014\|־]] [[H1926\|הֲדָרָ֑]][[H9024\|הּ]] [[H1961\|הָי֣וּ]] [[H8269\|שָׂרֶ֗י]][[H9024\|הָ]] [[H9004\|כְּ]][[H0354\|אַיָּלִים֙]] [[H3808\|לֹא]][[H9014\|־]] [[H4672\|מָצְא֣וּ]] [[H4829\|מִרְעֶ֔ה]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֥וּ]] [[H9003\|בְ]][[H3808\|לֹא]][[H9014\|־]] [[H3581B\|כֹ֖חַ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H7291\|רוֹדֵֽף]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.5|<< Lamentations 1:5]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.7|Lamentations 1:7 >>]]</td></tr></table>
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |
 | and it has gone out  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3318G\|יֵּצֵ֥א]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Tze'<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [ ]  [^1]|**<big>&#8207;[[\|]]&#8207; </big>**[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| [ ]  [^1]|**<big> </big>**[^2] | [ ] | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | from [the] daughter of  [^4]|**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1323G\|בַּת]]&#8207; </big>**[^5] | mi.<small><sup>[[HR]]</sup></small> vat-<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֖וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -24,10 +82,10 @@ All the splendor has departed from the Daughter of Zion. Her princes are like de
 | with not  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | strength  |**<big>&#8207;[[H3581B\|כֹ֖חַ]]&#8207; </big>**| Kho.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵ֥י]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a pursuer  |**<big>&#8207;[[H7291\|רוֹדֵֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ro.Def<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a pursuer  |**<big>&#8207;[[H7291\|רוֹדֵֽף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ro.Def<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.5|<< Lamentations 1:5]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.7|Lamentations 1:7 >>]]</td></tr></table>
 
-[^1]: from  | **<big>[[H9014|־]]</big><big>[[H4480A|מִן]]</big> ** | min-<small><sup>[[HR]]</sup></small> | K
+[^1]: from  | **<big>[[H4480A|מִן]]</big><big>[[H9014|־]]</big> ** | min-<small><sup>[[HR]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>מִן\־</big></span>**
 [^3]: [the] daughter of  | **<big>[[H1323G|בַּת]]</big> ** | vat-<small><sup>[[HNcfsc]]</sup></small> | K
 [^4]: [the] daughter of  | **<big>[[H1323G|בַּת]]</big> ** | vat-<small><sup>[[HNcfsc]]</sup></small> | K

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: John Greets the Seven Churches
+type: Pericope
 pericope: "[[Rev.1.4 John Greets the Seven Churches|John Greets the Seven Churches]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 1
 book/chapter: "[[Rev.1|Revelation 1]]"
-genre:
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.1.4]]"
 - "[[Rev.1.5]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.1.8]]"
 ---
 
-[[Rev.1|Revelation 1:4 - Revelation 1:8]]
+<small>[[Rev.1|Revelation 1:4-8]]</small>
 *John Greets the Seven Churches*
 
 [[Rev.1.4|4]] John to the seven churches which are in Asia: Grace \[be\] unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;

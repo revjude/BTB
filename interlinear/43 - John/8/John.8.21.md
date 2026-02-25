@@ -1,10 +1,62 @@
+---
+title: John 8:21
+type: Verse
+kjv: "Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come."
+bsb: "Again He said to them, “I am going away, and you will look for Me, but you will die in your sin. Where I am going, you cannot come.”"
+jesus_said: "I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come."
+greek: "Εἶπεν οὖν πάλιν αὐτοῖς ὁ Ἰησοῦς· ἐγὼ ὑπάγω, καὶ ζητήσετέ με καὶ ἐν τῇ ἁμαρτίᾳ ὑμῶν ἀποθανεῖσθε· ὅπου ἐγὼ ὑπάγω ὑμεῖς οὐ δύνασθε ἐλθεῖν."
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3825]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1473]]"
+- "[[G5217]]"
+- "[[G2532]]"
+- "[[G2212]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G0266]]"
+- "[[G4771]]"
+- "[[G0599]]"
+- "[[G3699]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2064]]"
+texts:
+- NKO
+- k
+---
+
 **John 8:21**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.
 <small><sub>**BSB:**</sub></small>
 Again He said to them, “I am going away, and you will look for Me, but you will die in your sin. Where I am going, you cannot come.”
-<small><sub>**Literal:**</sub></small>
-He said then again to them <the> Jesus: I myself am going away and you will seek Me and in the sin of you you will die; where I myself go you yourselves not are able to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.20|<< John 8:20]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.22|John 8:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G3767\|οὖν]]  [[G3825\|πάλιν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1473\|ἐγὼ]]  [[G5217\|ὑπάγω,]]  [[G2532\|καὶ]]  [[G2212\|ζητήσετέ]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0266\|ἁμαρτίᾳ]]  [[G4771\|ὑμῶν]]  [[G0599\|ἀποθανεῖσθε·]]  [[G3699\|ὅπου]]  [[G1473\|ἐγὼ]]  [[G5217\|ὑπάγω]]  [[G4771\|ὑμεῖς]]  [[G3756\|οὐ]]  [[G1410\|δύνασθε]]  [[G2064\|ἐλθεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.20|<< John 8:20]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.22|John 8:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

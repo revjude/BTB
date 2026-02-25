@@ -1,10 +1,62 @@
+---
+title: Revelation 4:3
+type: Verse
+kjv: "And he that sat was to look upon like a jasper and a sardine stone: and there was a rainbow round about the throne, in sight like unto an emerald."
+bsb: "The One seated there looked like jasper and carnelian, and a rainbow that gleamed like an emerald encircled the throne."
+greek: "καὶ ὁ καθήμενος ἦν ὅμοιος ὁράσει λίθῳ ἰάσπιδι καὶ σαρδίῳ καὶ ἶρις κυκλόθεν τοῦ θρόνου ὅμοιος ὁράσει σμαραγδίνῳ."
+pericope: "[[Rev.4.1 The Throne in Heaven|The Throne in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BOW|BOW]]"
+- "[[topic EMERALD|EMERALD]]"
+- "[[topic RAINBOW|RAINBOW]]"
+- "[[topic SARDIUS|SARDIUS]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G1510]]"
+- "[[G3664]]"
+- "[[G3706]]"
+- "[[G3037]]"
+- "[[G2393]]"
+- "[[G4556]]"
+- "[[G2463]]"
+- "[[G2943]]"
+- "[[G2362]]"
+- "[[G4664]]"
+texts:
+- NKO
+- k
+- NK(o)
+- N(k)O
+---
+
 **Revelation 4:3**<big><big>[[Rev.4.1 The Throne in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that sat was to look upon like a jasper and a sardine stone: and [there was] a rainbow round about the throne, in sight like unto an emerald.
 <small><sub>**BSB:**</sub></small>
 The One seated there looked like jasper and carnelian, and a rainbow that gleamed like an emerald encircled the throne.
-<small><sub>**Literal:**</sub></small>
-and the [One] sitting was like in appearance stone jasper and sardius And a rainbow [was] around the throne like in appearance an emerald.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.2|<< Revelation 4:2]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.4|Revelation 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2521\|καθήμενος]]  [[G1510\|ἦν]]  [[G3664\|ὅμοιος]]  [[G3706\|ὁράσει]]  [[G3037\|λίθῳ]]  [[G2393\|ἰάσπιδι]]  [[G2532\|καὶ]]  [[G4556\|σαρδίῳ]]  [[G2532\|καὶ]]  [[G2463\|ἶρις]]  [[G2943\|κυκλόθεν]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G3664\|ὅμοιος]]  [[G3706\|ὁράσει]]  [[G4664\|σμαραγδίνῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOW|BOW]] • [[topic EMERALD|EMERALD]] • [[topic RAINBOW|RAINBOW]] • [[topic SARDIUS|SARDIUS]] • [[topic THRONE|THRONE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.2|<< Revelation 4:2]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.4|Revelation 4:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 4:3** is...
 > $\quad$ possibly alluding to: [[LXX.Ezek.1.26|Ezek 1:26]][[LXX.Ezek.1.28|, 28]]

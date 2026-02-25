@@ -1,10 +1,64 @@
+---
+title: Galatians 3:1
+type: Verse
+kjv: "O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?"
+bsb: "O foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified."
+greek: "Ὦ ἀνόητοι Γαλάται, τίς ὑμᾶς ἐβάσκανεν τῇ ἀληθείᾳ μὴ πείθεσθαι, οἷς κατ᾽ ὀφθαλμοὺς Ἰησοῦς Χριστὸς προεγράφη ἐν ὑμῖν ἐσταυρωμένος;"
+pericope: "[[Gal.3.1 Faith and Belief|Faith and Belief]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5599]]"
+- "[[G0453]]"
+- "[[G1052]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G0940]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G3361]]"
+- "[[G3982]]"
+- "[[G3739]]"
+- "[[G2596]]"
+- "[[G3788]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G4270]]"
+- "[[G1722]]"
+- "[[G4717]]"
+texts:
+- NKO
+- K
+---
+
 **Galatians 3:1**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 O foolish Galatians, who hath bewitched you, that ye should not obey the truth, before whose eyes Jesus Christ hath been evidently set forth, crucified among you?
 <small><sub>**BSB:**</sub></small>
 O foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified.
-<small><sub>**Literal:**</sub></small>
-O foolish Galatians! Who you has bewitched the truth not to obey whose before eyes Jesus Christ was publicly portrayed among you [as] crucified?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.21|<< Galatians 2:21]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.2|Galatians 3:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5599\|Ὦ]]  [[G0453\|ἀνόητοι]]  [[G1052\|Γαλάται,]]  [[G5101\|τίς]]  [[G4771\|ὑμᾶς]]  [[G0940\|ἐβάσκανεν]]  [[G3588\|τῇ]]  [[G0225\|ἀληθείᾳ]]  [[G3361\|μὴ]]  [[G3982\|πείθεσθαι,]]  [[G3739\|οἷς]]  [[G2596\|κατ᾽]]  [[G3788\|ὀφθαλμοὺς]]  [[G2424G\|Ἰησοῦς]]  [[G5547\|Χριστὸς]]  [[G4270\|προεγράφη]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G4717\|ἐσταυρωμένος;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FAITH|FAITH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic SALVATION|SALVATION]] • [[topic TRUTH|TRUTH]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.21|<< Galatians 2:21]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.2|Galatians 3:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

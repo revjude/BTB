@@ -1,6 +1,69 @@
+---
+title: LXX Genesis 30:30
+type: Verse
+lxx: "For there was little as much as was to you before me, and it was grown into a multitude; and the lord blessed you by  my foot. Now then, when I also produce for myself a house?"
+greek: "μικρά γαρ ην όσα σοι ην εναντίον μού και ηυξήθη εις πλήθος και ευλόγησέ σε κύριος επί τω ποδί μου νυν ουν πότε ποιήσω καγώ εμαυτώ οίκον"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[G3398]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3745]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1726]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0837]]"
+- "[[G1519]]"
+- "[[G4128]]"
+- "[[G2532]]"
+- "[[G2127]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G1473]]"
+- "[[G3568]]"
+- "[[G3767]]"
+- "[[G4219]]"
+- "[[G4160]]"
+- "[[G2504]]"
+- "[[G1683]]"
+- "[[G3624]]"
+---
+
 **LXX Genesis 30:30** 
 <small><sub>**LXX:**</sub></small>
 For there was little as much as was to you before me, and it was grown into a multitude; and \[the\] <span class="smallcaps">lord</span> blessed you by  my foot. Now then, when I also produce for myself a house? 
+<small><sub>**Greek:**</sub></small>
+[[G3398\|μικρά]] [[G1063\|γαρ]] [[G1510\|ην]] [[G3745\|όσα]] [[G1473\|σοι]] [[G1510\|ην]] [[G1726\|εναντίον]] [[G1473\|μού]] [[G2532\|και]] [[G0837\|ηυξήθη]] [[G1519\|εις]] [[G4128\|πλήθος]] [[G2532\|και]] [[G2127\|ευλόγησέ]] [[G1473\|σε]] [[G2962\|κύριος]] [[G1909\|επί]] [[G3588\|τω]] [[G4228\|ποδί]] [[G1473\|μου]] [[G3568\|νυν]] [[G3767\|ουν]] [[G4219\|πότε]] [[G4160\|ποιήσω]] [[G2504\|καγώ]] [[G1683\|εμαυτώ]] [[G3624\|οίκον]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic LABAN|LABAN]] • [[topic RACHEL|RACHEL]] • [[topic SERVANT|SERVANT]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.30.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.29|<< Genesis 30:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.31|Genesis 30:31 >>]]</td></tr></table>
 
@@ -31,6 +94,6 @@ For there was little as much as was to you before me, and it was grown into a mu
 | I also | **<big>[[G2504\|καγώ]]</big>** |
 | for myself | **<big>[[G1683\|εμαυτώ]]</big>** |
 | a house? | **<big>[[G3624\|οίκον]]</big>** |
-[[Gen.30.30|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.29|<< Genesis 30:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.31|Genesis 30:31 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.30.29|<< Genesis 30:29]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.30.31|Genesis 30:31 >>]]</td></tr></table>
 
 

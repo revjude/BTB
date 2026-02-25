@@ -1,10 +1,57 @@
+---
+title: Mark 15:33
+type: Verse
+kjv: "And when the sixth hour was come, there was darkness over the whole land until the ninth hour."
+bsb: "From the sixth hour until the ninth hour darkness came over all the land."
+greek: "Καὶ γενομένης δὲ ὥρας ἕκτης σκότος ἐγένετο ἐφ᾽ ὅλην τὴν γῆν ἕως ὥρας ἐνάτης."
+pericope: "[[Mark.15.33 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G5610]]"
+- "[[G1623]]"
+- "[[G4655]]"
+- "[[G1909]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G1093H]]"
+- "[[G2193]]"
+- "[[G1766]]"
+texts:
+- no
+- NKO
+- k
+---
+
 **Mark 15:33**<big><big>[[Mark.15.33 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the sixth hour was come, there was darkness over the whole land until the ninth hour.
 <small><sub>**BSB:**</sub></small>
 From the sixth hour until the ninth hour darkness came over all the land.
-<small><sub>**Literal:**</sub></small>
-And when was arriving now [the] hour sixth darkness came over all the land until [the] hour ninth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.32|<< Mark 15:32]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.34|Mark 15:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|γενομένης]]  [[G1161\|δὲ]]  [[G5610\|ὥρας]]  [[G1623\|ἕκτης]]  [[G4655\|σκότος]]  [[G1096\|ἐγένετο]]  [[G1909\|ἐφ᾽]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G1093H\|γῆν]]  [[G2193\|ἕως]]  [[G5610\|ὥρας]]  [[G1766\|ἐνάτης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SUN|SUN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.32|<< Mark 15:32]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.34|Mark 15:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

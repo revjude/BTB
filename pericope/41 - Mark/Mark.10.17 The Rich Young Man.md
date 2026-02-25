@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rich Young Man
+type: Pericope
 pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Mark
 chapter: 10
 book/chapter: "[[Mark.10|Mark 10]]"
-genre:
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 15
 verses:
 - "[[Mark.10.17]]"
 - "[[Mark.10.18]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Mark.10.31]]"
 ---
 
-[[Mark.10|Mark 10:17 - Mark 10:31]]
+<small>[[Mark.10|Mark 10:17-31]]</small>
 *The Rich Young Man*
 
 [[Mark.10.17|17]] And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?

@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 17:45
+type: Verse
+kjv: "Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied."
+bsb: "But David said to the Philistine, “You come against me with sword and spear and javelin, but I come against you in the name of the LORD of Hosts, the God of the armies of Israel, whom you have defied."
+hebrew: "וַיֹּ֤אמֶר דָּוִד֙ אֶל־ הַפְּלִשְׁתִּ֔י אַתָּה֙ בָּ֣א אֵלַ֔י בְּחֶ֖רֶב וּבַחֲנִ֣ית וּבְכִיד֑וֹן וְאָנֹכִ֣י בָֽא־ אֵלֶ֗יךָ בְּשֵׁם֙ יְהוָ֣ה צְבָא֔וֹת אֱלֹהֵ֛י מַעַרְכ֥וֹת יִשְׂרָאֵ֖ל אֲשֶׁ֥ר חֵרַֽפְתָּ׃"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SLING|SLING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H0859A]]"
+- "[[H0935G]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H2595]]"
+- "[[H3591]]"
+- "[[H0595]]"
+- "[[H9031]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H4634]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H2778A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:45**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said David to the Philistine, Thou comest to me with a sword, and with a spear, and with a shield: but I come to thee in the name of the LORD of hosts, the God of the armies of Israel, whom thou hast defied.
 <small><sub>**BSB:**</sub></small>
 But David said to the Philistine, “You come against me with sword and spear and javelin, but I come against you in the name of the LORD of Hosts, the God of the armies of Israel, whom you have defied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1732\|דָּוִד֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֔י]] [[H0859A\|אַתָּה֙]] [[H0935G\|בָּ֣א]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9003\|בְּ]][[H2719\|חֶ֖רֶב]] [[H9002\|וּ]][[H9003\|בַ]][[H2595\|חֲנִ֣ית]] [[H9002\|וּ]][[H9003\|בְ]][[H3591\|כִיד֑וֹן]] [[H9002\|וְ]][[H0595\|אָנֹכִ֣י]] [[H0935G\|בָֽא]][[H9014\|־]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H8034\|שֵׁם֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H0430G\|אֱלֹהֵ֛י]] [[H4634\|מַעַרְכ֥וֹת]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H2778A\|חֵרַֽפְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic SLING|SLING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.44|<< 1 Samuel 17:44]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.46|1 Samuel 17:46 >>]]</td></tr></table>
 

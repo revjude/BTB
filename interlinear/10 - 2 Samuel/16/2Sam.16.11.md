@@ -1,8 +1,79 @@
+---
+title: 2 Samuel 16:11
+type: Verse
+kjv: "And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the LORD hath bidden him."
+bsb: "Then David said to Abishai and to all his servants, “Behold, my own son, my own flesh and blood, seeks my life. How much more, then, this Benjamite! Leave him alone and let him curse me, for the LORD has told him so."
+hebrew: "וַיֹּ֨אמֶר דָּוִ֤ד אֶל־ אֲבִישַׁי֙ וְאֶל־ כָּל־ עֲבָדָ֔יו הִנֵּ֥ה בְנִ֛י אֲשֶׁר־ יָצָ֥א מִמֵּעַ֖י מְבַקֵּ֣שׁ אֶת־ נַפְשִׁ֑י וְאַ֨ף כִּֽי־ עַתָּ֜ה בֶּן־ הַיְמִינִ֗י הַנִּ֤חוּ לוֹ֙ וִֽיקַלֵּ֔ל כִּ֥י אָֽמַר־ ל֖וֹ יְהוָֽה׃"
+pericope: "[[2Sam.16.5 Shimei Curses David|Shimei Curses David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CLEMENCY|CLEMENCY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic SHIMEI|SHIMEI]]"
+- "[[topic ZERUIAH|ZERUIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0052]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H2009]]"
+- "[[H1121G]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H3318M]]"
+- "[[H9006]]"
+- "[[H4578]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H5315H]]"
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H1145]]"
+- "[[H9009]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7043]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 16:11**<big><big>[[2Sam.16.5 Shimei Curses David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now [may this] Benjamite [do it]? let him alone, and let him curse; for the LORD hath bidden him.
 <small><sub>**BSB:**</sub></small>
 Then David said to Abishai and to all his servants, “Behold, my own son, my own flesh and blood, seeks my life. How much more, then, this Benjamite! Leave him alone and let him curse me, for the LORD has told him so.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֤ד]] [[H0413\|אֶל]][[H9014\|־]] [[H0052\|אֲבִישַׁי֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H2009\|הִנֵּ֥ה]] [[H1121G\|בְנִ֛]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318M\|יָצָ֥א]] [[H9006\|מִ]][[H4578\|מֵּעַ֖]][[H9020\|י]] [[H1245\|מְבַקֵּ֣שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5315H\|נַפְשִׁ֑]][[H9020\|י]] [[H9002\|וְ]][[H0637\|אַ֨ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6258\|עַתָּ֜ה]] [[H1145\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H1145\|יְמִינִ֗י]] [[H5117\|הַנִּ֤חוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9002\|וִֽ]][[H7043\|יקַלֵּ֔ל]] [[H3588A\|כִּ֥י]] [[H0559\|אָֽמַר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLEMENCY|CLEMENCY]] • [[topic DAVID|DAVID]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PRAYER|PRAYER]] • [[topic RESIGNATION|RESIGNATION]] • [[topic SHIMEI|SHIMEI]] • [[topic ZERUIAH|ZERUIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.10|<< 2 Samuel 16:10]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.12|2 Samuel 16:12 >>]]</td></tr></table>
 

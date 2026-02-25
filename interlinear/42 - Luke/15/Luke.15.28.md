@@ -1,10 +1,63 @@
+---
+title: Luke 15:28
+type: Verse
+kjv: "And he was angry, and would not go in: therefore came his father out, and intreated him."
+bsb: "The older son became angry and refused to go in. So his father came out and pleaded with him."
+jesus_said: "And he was angry, and would not go in: therefore came his father out, and intreated him."
+greek: "ὠργίσθη δὲ καὶ οὐκ ἤθελεν εἰσελθεῖν. ὁ δὲ πατὴρ αὐτοῦ ἐξελθὼν παρεκάλει αὐτόν.¶"
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3710]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G1525]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G1831]]"
+- "[[G3870]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 15:28**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he was angry, and would not go in: therefore came his father out, and intreated him.
 <small><sub>**BSB:**</sub></small>
 The older son became angry and refused to go in. So his father came out and pleaded with him.
-<small><sub>**Literal:**</sub></small>
-He was angry however and not he was willing to go in. <the> And the father of him having gone he was begging him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.27|<< Luke 15:27]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.29|Luke 15:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3710\|ὠργίσθη]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2309\|ἤθελεν]]  [[G1525\|εἰσελθεῖν.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G3962\|πατὴρ]]  [[G0846\|αὐτοῦ]]  [[G1831\|ἐξελθὼν]]  [[G3870\|παρεκάλει]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.27|<< Luke 15:27]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.29|Luke 15:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 11:10
+type: Verse
+kjv: "Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you."
+bsb: "Then the men of Jabesh said to Nahash, “Tomorrow we will come out, and you can do with us whatever seems good to you.”"
+hebrew: "וַֽיֹּאמְרוּ֙ אַנְשֵׁ֣י יָבֵ֔ישׁ מָחָ֖ר נֵצֵ֣א אֲלֵיכֶ֑ם וַעֲשִׂיתֶ֣ם לָּ֔נוּ כְּכָל־ הַטּ֖וֹב בְּעֵינֵיכֶֽם׃ ס"
+pericope: "[[1Sam.11.1 Saul Defeats the Ammonites|Saul Defeats the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 11
+book/chapter: "[[1Sam.11|1 Samuel 11]]"
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic NAHASH|NAHASH]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0582]]"
+- "[[H3003G]]"
+- "[[H4279]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9026]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 11:10**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the men of Jabesh said, To morrow we will come out unto you, and ye shall do with us all that seemeth good unto you.
 <small><sub>**BSB:**</sub></small>
 Then the men of Jabesh said to Nahash, “Tomorrow we will come out, and you can do with us whatever seems good to you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H0559\|יֹּאמְרוּ֙]] [[H0582\|אַנְשֵׁ֣י]] [[H3003G\|יָבֵ֔ישׁ]] [[H4279\|מָחָ֖ר]] [[H3318G\|נֵצֵ֣א]] [[H0413\|אֲלֵי]][[H9036\|כֶ֑ם]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתֶ֣ם]] [[H9005\|לָּ֔]][[H9035\|נוּ]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H2896A\|טּ֖וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic NAHASH|NAHASH]] • [[topic SARCASM|SARCASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.9|<< 1 Samuel 11:9]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.11|1 Samuel 11:11 >>]]</td></tr></table>
 
@@ -18,7 +73,7 @@ Then the men of Jabesh said to Nahash, “Tomorrow we will come out, and you can
 | to \<the> us  |**<big>&#8207;[[H9005\|לָּ֔]]&#8207;&#8207;[[H9035\|נוּ]]&#8207; </big>**| La.<small><sup>[[HRd]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | according to all  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> khol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the good  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2896A\|טּ֖וֹב]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Tov<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in view your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in view your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869I\|עֵינֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.nei.<small><sup>[[HNcfdc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.9|<< 1 Samuel 11:9]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.11|1 Samuel 11:11 >>]]</td></tr></table>
 
 

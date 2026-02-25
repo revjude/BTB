@@ -1,8 +1,66 @@
+---
+title: Genesis 16:8
+type: Verse
+kjv: "And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai."
+bsb: "“Hagar, servant of Sarai,” he said, “where have you come from, and where are you going?” “I am running away from my mistress Sarai,” she replied."
+hebrew: "וַיֹּאמַ֗ר הָגָ֞ר שִׁפְחַ֥ת שָׂרַ֛י אֵֽי־ מִזֶּ֥ה בָ֖את וְאָ֣נָה תֵלֵ֑כִי וַתֹּ֕אמֶר מִפְּנֵי֙ שָׂרַ֣י גְּבִרְתִּ֔י אָנֹכִ֖י בֹּרַֽחַת׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic LAHAI-ROI|LAHAI-ROI]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1904]]"
+- "[[H8198]]"
+- "[[H8297]]"
+- "[[H0335]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H0575]]"
+- "[[H1980G]]"
+- "[[H6440L]]"
+- "[[H1404]]"
+- "[[H9020]]"
+- "[[H0595]]"
+- "[[H1272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:8**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Hagar, Sarai’s maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai.
 <small><sub>**BSB:**</sub></small>
 “Hagar, servant of Sarai,” he said, “where have you come from, and where are you going?” “I am running away from my mistress Sarai,” she replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמַ֗ר]] [[H1904\|הָגָ֞ר]] [[H8198\|שִׁפְחַ֥ת]] [[H8297\|שָׂרַ֛י]] [[H0335\|אֵֽי]][[H9014\|־]] [[H9006\|מִ]][[H2088\|זֶּ֥ה]] [[H0935G\|בָ֖את]] [[H9002\|וְ]][[H0575\|אָ֣נָה]] [[H1980G\|תֵלֵ֑כִי]] [[H9001\|וַ]][[H0559\|תֹּ֕אמֶר]] [[H9006\|מִ]][[H6440L\|פְּנֵי֙]] [[H8297\|שָׂרַ֣י]] [[H1404\|גְּבִרְתִּ֔]][[H9020\|י]] [[H0595\|אָנֹכִ֖י]] [[H1272\|בֹּרַֽחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMUNION|COMMUNION]] • [[topic LAHAI-ROI|LAHAI-ROI]] • [[topic PRAYER|PRAYER]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.7|<< Genesis 16:7]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.9|Genesis 16:9 >>]]</td></tr></table>
 

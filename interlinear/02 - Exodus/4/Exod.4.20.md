@@ -1,8 +1,68 @@
+---
+title: Exodus 4:20
+type: Verse
+kjv: "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand."
+bsb: "So Moses took his wife and sons, put them on a donkey, and headed back to Egypt. And he took the staff of God in his hand."
+hebrew: "וַיִּקַּ֨ח מֹשֶׁ֜ה אֶת־ אִשְׁתּ֣וֹ וְאֶת־ בָּנָ֗יו וַיַּרְכִּבֵם֙ עַֽל־ הַחֲמֹ֔ר וַיָּ֖שָׁב אַ֣רְצָה מִצְרָ֑יִם וַיִּקַּ֥ח מֹשֶׁ֛ה אֶת־ מַטֵּ֥ה הָאֱלֹהִ֖ים בְּיָדֽוֹ׃"
+pericope: "[[Exod.4.18 Moses Leaves for Egypt|Moses Leaves for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H7392]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2543]]"
+- "[[H7725G]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H4714G]]"
+- "[[H4294G]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:20**<big><big>[[Exod.4.18 Moses Leaves for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand.
 <small><sub>**BSB:**</sub></small>
 So Moses took his wife and sons, put them on a donkey, and headed back to Egypt. And he took the staff of God in his hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֨ח]] [[H4872\|מֹשֶׁ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתּ֣]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H7392\|יַּרְכִּבֵ]][[H9038\|ם֙]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמֹ֔ר]] [[H9001\|וַ]][[H7725G\|יָּ֖שָׁב]] [[H0776G\|אַ֣רְצָ]][[H9011\|ה]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וַ]][[H3947G\|יִּקַּ֥ח]] [[H4872\|מֹשֶׁ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4294G\|מַטֵּ֥ה]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בְּ]][[H3027G\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.19|<< Exodus 4:19]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.21|Exodus 4:21 >>]]</td></tr></table>
 

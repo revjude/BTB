@@ -7,13 +7,13 @@
 
 → Sent by Gibeonites to the Israelites [[Josh.9.4|Jos 9:4]]
 
-→ Israelites to various nations [[Judg.11.12|Jud 11:12]]-[[Judg.11.28|28]]
+→ Israelites to various nations [[Judg.11.12|Jud 11:12-28]]
 
 → Hiram to David [[2Sam.5.11|2Sa 5:11]]
 
 → And Solomon [[1Kgs.5.1|1Ki 5:1]]
 
-→ Benhadad to Ahab [[1Kgs.20.2|1Ki 20:2]]-[[1Kgs.20.6|6]]
+→ Benhadad to Ahab [[1Kgs.20.2|1Ki 20:2-6]]
 
 → Amaziah to Jehoash [[2Kgs.14.8|2Ki 14:8]]
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Outer Court
+type: Pericope
 pericope: "[[Ezek.40.17 The Outer Court|The Outer Court]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 40
 book/chapter: "[[Ezek.40|Ezekiel 40]]"
-genre:
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,13 +24,14 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 3
 verses:
 - "[[Ezek.40.17]]"
 - "[[Ezek.40.18]]"
 - "[[Ezek.40.19]]"
 ---
 
-[[Ezek.40|Ezekiel 40:17 - Ezekiel 40:19]]
+<small>[[Ezek.40|Ezekiel 40:17-19]]</small>
 *The Outer Court*
 
 [[Ezek.40.17|17]] Then brought he me into the outward court, and, lo, \[there were\] chambers, and a pavement made for the court round about: thirty chambers \[were\] upon the pavement.

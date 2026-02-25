@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 7:25
+type: Verse
+kjv: "The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold that is on them, nor take it unto thee, lest thou be snared therein: for it is an abomination to the LORD thy God."
+bsb: "You must burn up the images of their gods; do not covet the silver and gold that is on them or take it for yourselves, or you will be ensnared by it; for it is detestable to the LORD your God."
+hebrew: "פְּסִילֵ֥י אֱלֹהֵיהֶ֖ם תִּשְׂרְפ֣וּן בָּאֵ֑שׁ לֹֽא־ תַחְמֹד֩ כֶּ֨סֶף וְזָהָ֤ב עֲלֵיהֶם֙ וְלָקַחְתָּ֣ לָ֔ךְ פֶּ֚ן תִּוָּקֵ֣שׁ בּ֔וֹ כִּ֧י תוֹעֲבַ֛ת יְהוָ֥ה אֱלֹהֶ֖יךָ הֽוּא׃"
+pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H6456]]"
+- "[[H0430]]"
+- "[[H9028]]"
+- "[[H8313]]"
+- "[[H9013]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2530A]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6435]]"
+- "[[H3369]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H8441]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:25**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The graven images of their gods shall ye burn with fire: thou shalt not desire the silver or gold [that is] on them, nor take [it] unto thee, lest thou be snared therein: for it [is] an abomination to the LORD thy God.
 <small><sub>**BSB:**</sub></small>
 You must burn up the images of their gods; do not covet the silver and gold that is on them or take it for yourselves, or you will be ensnared by it; for it is detestable to the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H6456\|פְּסִילֵ֥י]] [[H0430\|אֱלֹהֵי]][[H9028\|הֶ֖ם]] [[H8313\|תִּשְׂרְפ֣וּ]][[H9013\|ן]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2530A\|תַחְמֹד֩]] [[H3701G\|כֶּ֨סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֤ב]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H9001\|וְ]][[H3947G\|לָקַחְתָּ֣]] [[H9005\|לָ֔]][[H9031\|ךְ]] [[H6435\|פֶּ֚ן]] [[H3369\|תִּוָּקֵ֣שׁ]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H3588A\|כִּ֧י]] [[H8441\|תוֹעֲבַ֛ת]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.24|<< Deuteronomy 7:24]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.26|Deuteronomy 7:26 >>]]</td></tr></table>
 

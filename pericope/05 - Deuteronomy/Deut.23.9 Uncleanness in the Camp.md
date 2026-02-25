@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Uncleanness in the Camp
+type: Pericope
 pericope: "[[Deut.23.9 Uncleanness in the Camp|Uncleanness in the Camp]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 23
 book/chapter: "[[Deut.23|Deuteronomy 23]]"
-genre:
+chronological_order: 219
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 6
 verses:
 - "[[Deut.23.9]]"
 - "[[Deut.23.10]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Deut.23.14]]"
 ---
 
-[[Deut.23|Deuteronomy 23:9 - Deuteronomy 23:14]]
+<small>[[Deut.23|Deuteronomy 23:9-14]]</small>
 *Uncleanness in the Camp*
 
 [[Deut.23.9|9]] When the host goeth forth against thine enemies, then keep thee from every wicked thing.

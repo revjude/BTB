@@ -1,6 +1,70 @@
+---
+title: LXX Ezekiel 28:16
+type: Verse
+lxx: "From the abundance  of your trade you filled  your storerooms with lawlessness, and sinned. And you were wounded from the mountain  of God, and the cherub overshadowing led you from out of the midst of the stones of fire."
+greek: "από πλήθους της εμπορίας σου έπλησας τα ταμεία σου ανομίας και ήμαρτες και ετραυματίσθης από όρους του θεού και ήγαγέ σε το χερούβ το συσκιάζον εκ μέσων λίθων πυρίνων"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic LAMENTATIONS|LAMENTATIONS]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G0575]]"
+- "[[G4128]]"
+- "[[G3588]]"
+- "[[G1711]]"
+- "[[G1473]]"
+- "[[G4130]]"
+- "[[G3588]]"
+- "[[G5009]]"
+- "[[G1473]]"
+- "[[G0458]]"
+- "[[G2532]]"
+- "[[G0264]]"
+- "[[G2532]]"
+- "[[G5135]]"
+- "[[G0575]]"
+- "[[G3735]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G0071]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G9717]]"
+- "[[G3588]]"
+- "[[G9353]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G3037]]"
+- "[[G4447]]"
+---
+
 **LXX Ezekiel 28:16** 
 <small><sub>**LXX:**</sub></small>
 From \[the\] abundance  of your trade you filled  your storerooms with lawlessness, and sinned. And you were wounded from \[the\] mountain  of God, and the cherub overshadowing led you from out of \[the\] midst of \[the\] stones of fire. 
+<small><sub>**Greek:**</sub></small>
+[[G0575\|από]] [[G4128\|πλήθους]] [[G3588\|της]] [[G1711\|εμπορίας]] [[G1473\|σου]] [[G4130\|έπλησας]] [[G3588\|τα]] [[G5009\|ταμεία]] [[G1473\|σου]] [[G0458\|ανομίας]] [[G2532\|και]] [[G0264\|ήμαρτες]] [[G2532\|και]] [[G5135\|ετραυματίσθης]] [[G0575\|από]] [[G3735\|όρους]] [[G3588\|του]] [[G2316\|θεού]] [[G2532\|και]] [[G0071\|ήγαγέ]] [[G1473\|σε]] [[G3588\|το]] [[G9717\|χερούβ]] [[G3588\|το]] [[G9353\|συσκιάζον]] [[G1537\|εκ]] [[G3319\|μέσων]] [[G3037\|λίθων]] [[G4447\|πυρίνων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic COMMERCE|COMMERCE]] • [[topic LAMENTATIONS|LAMENTATIONS]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.15|<< Ezekiel 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.17|Ezekiel 28:17 >>]]</td></tr></table>
 
@@ -33,6 +97,6 @@ From \[the\] abundance  of your trade you filled  your storerooms with lawlessne
 | \[the\] midst | **<big>[[G3319\|μέσων]]</big>** |
 | of \[the\] stones | **<big>[[G3037\|λίθων]]</big>** |
 | of fire. | **<big>[[G4447\|πυρίνων]]</big>** |
-[[Ezek.28.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.15|<< Ezekiel 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.17|Ezekiel 28:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.15|<< Ezekiel 28:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.17|Ezekiel 28:17 >>]]</td></tr></table>
 
 

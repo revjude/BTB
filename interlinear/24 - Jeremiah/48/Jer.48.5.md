@@ -1,8 +1,59 @@
+---
+title: Jeremiah 48:5
+type: Verse
+kjv: "For in the going up of Luhith continual weeping shall go up; for in the going down of Horonaim the enemies have heard a cry of destruction."
+bsb: "For on the ascent to Luhith they weep bitterly as they go, and on the descent to Horonaim cries of distress resound over the destruction:"
+hebrew: "כִּ֚י מַעֲלֵ֣ה הַלּוּחִ֔ית בִּבְכִ֖י יַֽעֲלֶה־ בֶּ֑כִי כִּ֚י בְּמוֹרַ֣ד חוֹרֹנַ֔יִם צָרֵ֥י צַֽעֲקַת־ שֶׁ֖בֶר שָׁמֵֽעוּ׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HORONAIM|HORONAIM]]"
+- "[[topic LUHITH|LUHITH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4608]]"
+- "[[H9009]]"
+- "[[H3872]]"
+- "[[H9003]]"
+- "[[H1065]]"
+- "[[H5927G]]"
+- "[[H9014]]"
+- "[[H4174]]"
+- "[[H2773]]"
+- "[[H6862B]]"
+- "[[H6818]]"
+- "[[H7667]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 48:5**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For in the going up of Luhith continual weeping shall go up; for in the going down of Horonaim the enemies have heard a cry of destruction.
 <small><sub>**BSB:**</sub></small>
 For on the ascent to Luhith they weep bitterly as they go, and on the descent to Horonaim cries of distress resound over the destruction:
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H4608\|מַעֲלֵ֣ה]] [[H9009\|הַ]][[H3872\|לּוּחִ֔ית]] [[H9003\|בִּ]][[H1065\|בְכִ֖י]] [[H5927G\|יַֽעֲלֶה]][[H9014\|־]] [[H1065\|בֶּ֑כִי]] [[H3588A\|כִּ֚י]] [[H9003\|בְּ]][[H4174\|מוֹרַ֣ד]] [[H2773\|חוֹרֹנַ֔יִם]] [[H6862B\|צָרֵ֥י]] [[H6818\|צַֽעֲקַת]][[H9014\|־]] [[H7667\|שֶׁ֖בֶר]] [[H8085G\|שָׁמֵֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORONAIM|HORONAIM]] • [[topic LUHITH|LUHITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.4|<< Jeremiah 48:4]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.6|Jeremiah 48:6 >>]]</td></tr></table>
 
@@ -23,7 +74,7 @@ For on the ascent to Luhith they weep bitterly as they go, and on the descent to
 | people will hear  |**<big>&#8207;[[H8085G\|שָׁמֵֽעוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| sha.Me.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.4|<< Jeremiah 48:4]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.6|Jeremiah 48:6 >>]]</td></tr></table>
 
-[^1]: \<the> Luhoth  | **<big>[[H3872|לֻּחוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> lu.chot<small><sup>[[HNpl]]</sup></small> | K
-[^2]: \<the> Luhoth  | **<big>[[H3872|לֻּחוֹת]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> lu.chot<small><sup>[[HNpl]]</sup></small> | K
+[^1]: \<the> Luhoth  | **<big>[[H9009|הַ]]</big><big>[[H3872|לֻּחוֹת]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> lu.chot<small><sup>[[HNpl]]</sup></small> | K
+[^2]: \<the> Luhoth  | **<big>[[H9009|הַ]]</big><big>[[H3872|לֻּחוֹת]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> lu.chot<small><sup>[[HNpl]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַלֻּחִ֔ות</big></span>**
 

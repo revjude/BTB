@@ -9,13 +9,13 @@
 
 → Esau intermarries with [[Gen.26.34|Ge 26:34]]; [[Gen.36.2|36:2]]
 
-→ Dwelling place of [[Gen.23.17|Ge 23:17]]-[[Gen.23.20|20]]; [[Num.13.29|Nu 13:29]]; [[Josh.1.4|Jos 1:4]]; [[Judg.1.26|Jud  1:26]]
+→ Dwelling place of [[Gen.23.17|Ge 23:17-20]]; [[Num.13.29|Nu 13:29]]; [[Josh.1.4|Jos 1:4]]; [[Judg.1.26|Jud  1:26]]
 
 → Their land given to the Israelites [[Exod.3.8|Ex 3:8]]; [[Deut.7.1|De 7:1]];  [[Josh.1.4|Jos 1:4]]
 
 → Conquered by Joshua [[Josh.9.1|Jos 9:1]],[[Josh.9.2|2]]; [[Josh.10|10]]; [[Josh.11|11]]; [[Josh.12|12]]; [[Josh.24.11|24:11]]
 
-→ Intermarry with the Israelites [[Judg.3.5|Jud 3:5]]-[[Judg.3.7|7]]; [[Ezra.9.1|Ezr 9:1]]
+→ Intermarry with the Israelites [[Judg.3.5|Jud 3:5-7]]; [[Ezra.9.1|Ezr 9:1]]
 
 → Solomon interrmarries with [[1Kgs.11.1|1Ki 11:1]]; [[2Chr.8.7|2Ch 8:7]],[[2Chr.8.8|8]]
 

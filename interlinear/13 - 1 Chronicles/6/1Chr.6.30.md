@@ -1,8 +1,50 @@
+---
+title: 1 Chronicles 6:30
+type: Verse
+kjv: "Shimea his son, Haggiah his son, Asaiah his son."
+bsb: "Shimea his son, Haggiah his son, and Asaiah his son."
+hebrew: "שִׁמְעָ֥א בְנ֛וֹ חַגִּיָּ֥ה בְנ֖וֹ עֲשָׂיָ֥ה בְנֽוֹ׃ פ"
+pericope: "[[1Chr.6.1 The Descendants of Levi|The Descendants of Levi]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASAIAH|ASAIAH]]"
+- "[[topic HAGGIAH|HAGGIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic SHIMEA|SHIMEA]]"
+strongs:
+- "[[H8092G]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H2293]]"
+- "[[H6222I]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:30**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shimea his son, Haggiah his son, Asaiah his son.
 <small><sub>**BSB:**</sub></small>
 Shimea his son, Haggiah his son, and Asaiah his son.
+<small><sub>**Hebrew:**</sub></small>
+[[H8092G\|שִׁמְעָ֥א]] [[H1121A\|בְנ֛]][[H9023\|וֹ]] [[H2293\|חַגִּיָּ֥ה]] [[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H6222I\|עֲשָׂיָ֥ה]] [[H1121A\|בְנֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAIAH|ASAIAH]] • [[topic HAGGIAH|HAGGIAH]] • [[topic LEVITES|LEVITES]] • [[topic SHIMEA|SHIMEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.29|<< 1 Chronicles 6:29]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.31|1 Chronicles 6:31 >>]]</td></tr></table>
 
@@ -13,7 +55,7 @@ Shimea his son, Haggiah his son, and Asaiah his son.
 | Haggiah  |**<big>&#8207;[[H2293\|חַגִּיָּ֥ה]]&#8207; </big>**| cha.gi.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asaiah  |**<big>&#8207;[[H6222I\|עֲשָׂיָ֥ה]]&#8207; </big>**| 'a.sa.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| son his  |**<big>&#8207;[[H1121A\|בְנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| son his  |**<big>&#8207;[[H1121A\|בְנֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.29|<< 1 Chronicles 6:29]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.31|1 Chronicles 6:31 >>]]</td></tr></table>
 
 

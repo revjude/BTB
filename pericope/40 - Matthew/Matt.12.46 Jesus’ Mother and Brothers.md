@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus’ Mother and Brothers
+type: Pericope
 pericope: "[[Matt.12.46 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 12
 book/chapter: "[[Matt.12|Matthew 12]]"
-genre:
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.12.46]]"
 - "[[Matt.12.47]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.12.50]]"
 ---
 
-[[Matt.12|Matthew 12:46 - Matthew 12:50]]
+<small>[[Matt.12|Matthew 12:46-50]]</small>
 *Jesus’ Mother and Brothers*
 
 [[Matt.12.46|46]] While he yet talked to the people, behold, \[his\] mother and his brethren stood without, desiring to speak with him.

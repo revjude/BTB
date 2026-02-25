@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 14:3
+type: Verse
+kjv: "And Ahiah, the son of Ahitub, Ichabod’s brother, the son of Phinehas, the son of Eli, the LORD’S priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone."
+bsb: "including Ahijah, who was wearing an ephod. He was the son of Ichabod’s brother Ahitub son of Phinehas, the son of Eli the priest of the LORD in Shiloh. But the troops did not know that Jonathan had left."
+hebrew: "וַאֲחִיָּ֣ה בֶן־ אֲחִט֡וּב אֲחִ֡י אִיכָב֣וֹד׀ בֶּן־ פִּינְחָ֨ס בֶּן־ עֵלִ֜י כֹּהֵ֧ן׀ יְהוָ֛ה בְּשִׁל֖וֹ נֹשֵׂ֣א אֵפ֑וֹד וְהָעָם֙ לֹ֣א יָדַ֔ע כִּ֥י הָלַ֖ךְ יוֹנָתָֽן׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHIAH|AHIAH]]"
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic AHITUB|AHITUB]]"
+- "[[topic I-CHABOD|I-CHABOD]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0281O]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0285G]]"
+- "[[H0251G]]"
+- "[[H0350]]"
+- "[[H9015]]"
+- "[[H6372H]]"
+- "[[H5941]]"
+- "[[H3548]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7887]]"
+- "[[H5375H]]"
+- "[[H0646]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H1980G]]"
+- "[[H3129N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:3**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahiah, the son of Ahitub, Ichabod’s brother, the son of Phinehas, the son of Eli, the LORD’S priest in Shiloh, wearing an ephod. And the people knew not that Jonathan was gone.
 <small><sub>**BSB:**</sub></small>
 including Ahijah, who was wearing an ephod. He was the son of Ichabod’s brother Ahitub son of Phinehas, the son of Eli the priest of the LORD in Shiloh. But the troops did not know that Jonathan had left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0281O\|אֲחִיָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0285G\|אֲחִט֡וּב]] [[H0251G\|אֲחִ֡י]] [[H0350\|אִיכָב֣וֹד]][[H9015\|׀]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6372H\|פִּינְחָ֨ס]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5941\|עֵלִ֜י]] [[H3548\|כֹּהֵ֧ן]][[H9015\|׀]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בְּ]][[H7887\|שִׁל֖וֹ]] [[H5375H\|נֹשֵׂ֣א]] [[H0646\|אֵפ֑וֹד]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָם֙]] [[H3808\|לֹ֣א]] [[H3045\|יָדַ֔ע]] [[H3588A\|כִּ֥י]] [[H1980G\|הָלַ֖ךְ]] [[H3129N\|יוֹנָתָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIAH|AHIAH]] • [[topic AHIJAH|AHIJAH]] • [[topic AHITUB|AHITUB]] • [[topic I-CHABOD|I-CHABOD]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.2|<< 1 Samuel 14:2]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.4|1 Samuel 14:4 >>]]</td></tr></table>
 

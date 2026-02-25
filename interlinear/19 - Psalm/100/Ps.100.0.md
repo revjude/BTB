@@ -1,6 +1,39 @@
+---
+title: Psalm 100:0
+type: Verse
+kjv: "A Psalm of praise."
+hebrew: "מִזְמ֥וֹר לְתוֹדָ֑ה"
+pericope: "[[Ps.100.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 100
+book/chapter: "[[Ps.100|Psalm 100]]"
+chronological_order: 527
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H4210]]"
+- "[[H9005]]"
+- "[[H8426]]"
+texts:
+- L
+---
+
 **Psalms 100:0**<big><big>[[Ps.100.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A Psalm of praise.
+<small><sub>**Hebrew:**</sub></small>
+[[H4210\|מִזְמ֥וֹר]] [[H9005\|לְ]][[H8426\|תוֹדָ֑ה]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.100.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99.9|<< Psalms 99:9]]</td><td align="center" style="border:none;">[[Ps.100|Psalms 100]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.100.1|Psalms 100:1 >>]]</td></tr></table>
 

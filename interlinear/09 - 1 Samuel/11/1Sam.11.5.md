@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 11:5
+type: Verse
+kjv: "And, behold, Saul came after the herd out of the field; and Saul said, What aileth the people that they weep? And they told him the tidings of the men of Jabesh."
+bsb: "Just then Saul was returning from the field, behind his oxen. “What troubles the people?” asked Saul. “Why are they weeping?” And they relayed to him the words of the men from Jabesh."
+hebrew: "וְהִנֵּ֣ה שָׁא֗וּל בָּ֣א אַחֲרֵ֤י הַבָּקָר֙ מִן־ הַשָּׂדֶ֔ה וַיֹּ֣אמֶר שָׁא֔וּל מַה־ לָּעָ֖ם כִּ֣י יִבְכּ֑וּ וַיְסַ֨פְּרוּ־ ל֔וֹ אֶת־ דִּבְרֵ֖י אַנְשֵׁ֥י יָבֵֽישׁ׃"
+pericope: "[[1Sam.11.1 Saul Defeats the Ammonites|Saul Defeats the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 11
+book/chapter: "[[1Sam.11|1 Samuel 11]]"
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic NAHASH|NAHASH]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7586G]]"
+- "[[H0935G]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H1241]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H7704G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H3588A]]"
+- "[[H1058]]"
+- "[[H5608A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H1697K]]"
+- "[[H0582]]"
+- "[[H3003G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 11:5**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, Saul came after the herd out of the field; and Saul said, What [aileth] the people that they weep? And they told him the tidings of the men of Jabesh.
 <small><sub>**BSB:**</sub></small>
 Just then Saul was returning from the field, behind his oxen. “What troubles the people?” asked Saul. “Why are they weeping?” And they relayed to him the words of the men from Jabesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H7586G\|שָׁא֗וּל]] [[H0935G\|בָּ֣א]] [[H0310A\|אַחֲרֵ֤י]] [[H9009\|הַ]][[H1241\|בָּקָר֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H7586G\|שָׁא֔וּל]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לָּ]][[H5971A\|עָ֖ם]] [[H3588A\|כִּ֣י]] [[H1058\|יִבְכּ֑וּ]] [[H9001\|וַ]][[H5608A\|יְסַ֨פְּרוּ]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697K\|דִּבְרֵ֖י]] [[H0582\|אַנְשֵׁ֥י]] [[H3003G\|יָבֵֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic NAHASH|NAHASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.4|<< 1 Samuel 11:4]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.6|1 Samuel 11:6 >>]]</td></tr></table>
 

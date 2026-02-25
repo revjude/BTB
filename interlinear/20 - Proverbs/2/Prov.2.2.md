@@ -1,8 +1,52 @@
+---
+title: Proverbs 2:2
+type: Verse
+kjv: "So that thou incline thine ear unto wisdom, and apply thine heart to understanding;"
+bsb: "if you incline your ear to wisdom and direct your heart to understanding,"
+hebrew: "לְהַקְשִׁ֣יב לַֽחָכְמָ֣ה אָזְנֶ֑ךָ תַּטֶּ֥ה לִ֝בְּךָ֗ לַתְּבוּנָֽה׃"
+pericope: "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PERSONIFICATION|PERSONIFICATION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H7181]]"
+- "[[H2451]]"
+- "[[H0241G]]"
+- "[[H9021]]"
+- "[[H5186]]"
+- "[[H3820A]]"
+- "[[H8394]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 2:2**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that thou incline thine ear unto wisdom, [and] apply thine heart to understanding;
 <small><sub>**BSB:**</sub></small>
 if you incline your ear to wisdom and direct your heart to understanding,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H7181\|הַקְשִׁ֣יב]] [[H9005\|לַֽ]][[H2451\|חָכְמָ֣ה]] [[H0241G\|אָזְנֶ֑]][[H9021\|ךָ]] [[H5186\|תַּטֶּ֥ה]] [[H3820A\|לִ֝בְּ]][[H9021\|ךָ֗]] [[H9005\|לַ]][[H8394\|תְּבוּנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic PERSONIFICATION|PERSONIFICATION]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.1|<< Proverbs 2:1]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.3|Proverbs 2:3 >>]]</td></tr></table>
 

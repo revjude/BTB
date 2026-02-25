@@ -1,29 +1,36 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rezon’s Hostility
+type: Pericope
 pericope: "[[1Kgs.11.23 Rezon’s Hostility|Rezon’s Hostility]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 11
 book/chapter: "[[1Kgs.11|1 Kings 11]]"
-genre:
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 3
 verses:
 - "[[1Kgs.11.23]]"
 - "[[1Kgs.11.24]]"
 - "[[1Kgs.11.25]]"
 ---
 
-[[1Kgs.11|1 Kings 11:23 - 1 Kings 11:25]]
+<small>[[1Kgs.11|1 Kings 11:23-25]]</small>
 *Rezon’s Hostility*
 
 [[1Kgs.11.23|23]] And God stirred him up \[another\] adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:

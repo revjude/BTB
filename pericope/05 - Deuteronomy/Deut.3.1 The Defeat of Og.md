@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defeat of Og
+type: Pericope
 pericope: "[[Deut.3.1 The Defeat of Og|The Defeat of Og]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 3
 book/chapter: "[[Deut.3|Deuteronomy 3]]"
-genre:
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 11
 verses:
 - "[[Deut.3.1]]"
 - "[[Deut.3.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Deut.3.11]]"
 ---
 
-[[Deut.3|Deuteronomy 3:1 - Deuteronomy 3:11]]
+<small>[[Deut.3|Deuteronomy 3:1-11]]</small>
 *The Defeat of Og*
 
 [[Deut.3.1|1]] Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter Denies Jesus
+type: Pericope
 pericope: "[[Mark.14.66 Peter Denies Jesus|Peter Denies Jesus]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Mark
 chapter: 14
 book/chapter: "[[Mark.14|Mark 14]]"
-genre:
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Mark.14.66]]"
 - "[[Mark.14.67]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mark.14.72]]"
 ---
 
-[[Mark.14|Mark 14:66 - Mark 14:72]]
+<small>[[Mark.14|Mark 14:66-72]]</small>
 *Peter Denies Jesus*
 
 [[Mark.14.66|66]] And as Peter was beneath in the palace, there cometh one of the maids of the high priest:

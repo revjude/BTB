@@ -1,8 +1,53 @@
+---
+title: Job 38:21
+type: Verse
+kjv: "Knowest thou it, because thou wast then born? or because the number of thy days is great?"
+bsb: "Surely you know, for you were already born! And the number of your days is great!"
+hebrew: "יָ֭דַעְתָּ כִּי־ אָ֣ז תִּוָּלֵ֑ד וּמִסְפַּ֖ר יָמֶ֣יךָ רַבִּֽים׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0227A]]"
+- "[[H3205]]"
+- "[[H9002]]"
+- "[[H4557]]"
+- "[[H3117G]]"
+- "[[H9021]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:21**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Knowest thou [it], because thou wast then born? or [because] the number of thy days [is] great?
 <small><sub>**BSB:**</sub></small>
 Surely you know, for you were already born! And the number of your days is great!
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יָ֭דַעְתָּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0227A\|אָ֣ז]] [[H3205\|תִּוָּלֵ֑ד]] [[H9002\|וּ]][[H4557\|מִסְפַּ֖ר]] [[H3117G\|יָמֶ֣י]][[H9021\|ךָ]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.20|<< Job 38:20]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.22|Job 38:22 >>]]</td></tr></table>
 

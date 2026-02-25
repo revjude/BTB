@@ -1,8 +1,71 @@
+---
+title: Numbers 16:13
+type: Verse
+kjv: "Is it a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us?"
+bsb: "Is it not enough that you have brought us up out of a land flowing with milk and honey to kill us in the wilderness? Must you also appoint yourself as ruler over us?"
+hebrew: "הַמְעַ֗ט כִּ֤י הֶֽעֱלִיתָ֙נוּ֙ מֵאֶ֨רֶץ זָבַ֤ת חָלָב֙ וּדְבַ֔שׁ לַהֲמִיתֵ֖נוּ בַּמִּדְבָּ֑ר כִּֽי־ תִשְׂתָּרֵ֥ר עָלֵ֖ינוּ גַּם־ הִשְׂתָּרֵֽר׃"
+pericope: "[[Num.16.1 Korah’s Rebellion|Korah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9008]]"
+- "[[H4592]]"
+- "[[H3588A]]"
+- "[[H5927H]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9014]]"
+- "[[H8323A]]"
+- "[[H5921A]]"
+- "[[H1571]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:13**<big><big>[[Num.16.1 Korah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it] a small thing that thou hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except thou make thyself altogether a prince over us?
 <small><sub>**BSB:**</sub></small>
 Is it not enough that you have brought us up out of a land flowing with milk and honey to kill us in the wilderness? Must you also appoint yourself as ruler over us?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H4592\|מְעַ֗ט]] [[H3588A\|כִּ֤י]] [[H5927H\|הֶֽעֱלִיתָ֙]][[H9035\|נוּ֙]] [[H9006\|מֵ]][[H0776G\|אֶ֨רֶץ]] [[H2100G\|זָבַ֤ת]] [[H2461\|חָלָב֙]] [[H9002\|וּ]][[H1706\|דְבַ֔שׁ]] [[H9005\|לַ]][[H4191\|הֲמִיתֵ֖]][[H9035\|נוּ]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8323A\|תִשְׂתָּרֵ֥ר]] [[H5921A\|עָלֵ֖י]][[H9035\|נוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H8323A\|הִשְׂתָּרֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]] • [[topic MURMURING|MURMURING]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.12|<< Numbers 16:12]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.14|Numbers 16:14 >>]]</td></tr></table>
 

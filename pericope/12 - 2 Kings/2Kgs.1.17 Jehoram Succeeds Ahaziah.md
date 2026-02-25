@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoram Succeeds Ahaziah
+type: Pericope
 pericope: "[[2Kgs.1.17 Jehoram Succeeds Ahaziah|Jehoram Succeeds Ahaziah]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 1
 book/chapter: "[[2Kgs.1|2 Kings 1]]"
-genre:
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 2
 verses:
 - "[[2Kgs.1.17]]"
 - "[[2Kgs.1.18]]"
 ---
 
-[[2Kgs.1|2 Kings 1:17 - 2 Kings 1:18]]
+<small>[[2Kgs.1|2 Kings 1:17-18]]</small>
 *Jehoram Succeeds Ahaziah*
 
 [[2Kgs.1.17|17]] So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.

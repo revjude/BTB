@@ -1,8 +1,62 @@
+---
+title: Ezekiel 43:25
+type: Verse
+kjv: "Seven days shalt thou prepare every day a goat for a sin offering: they shall also prepare a young bullock, and a ram out of the flock, without blemish."
+bsb: "For seven days you are to provide a male goat daily for a sin offering; you are also to provide a young bull and a ram from the flock, both unblemished."
+hebrew: "שִׁבְעַ֣ת יָמִ֔ים תַּעֲשֶׂ֥ה שְׂעִיר־ חַטָּ֖את לַיּ֑וֹם וּפַ֧ר בֶּן־ בָּקָ֛ר וְאַ֥יִל מִן־ הַצֹּ֖אן תְּמִימִ֥ים יַעֲשֽׂוּ׃"
+pericope: "[[Ezek.43.13 The Altar of Sacrifice|The Altar of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H6213I]]"
+- "[[H8163B]]"
+- "[[H9014]]"
+- "[[H2403H]]"
+- "[[H9005]]"
+- "[[H3117J]]"
+- "[[H9002]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H1241]]"
+- "[[H0352A]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H8549G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:25**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seven days shalt thou prepare every day a goat [for] a sin offering: they shall also prepare a young bullock, and a ram out of the flock, without blemish.
 <small><sub>**BSB:**</sub></small>
 For seven days you are to provide a male goat daily for a sin offering; you are also to provide a young bull and a ram from the flock, both unblemished.
+<small><sub>**Hebrew:**</sub></small>
+[[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֔ים]] [[H6213I\|תַּעֲשֶׂ֥ה]] [[H8163B\|שְׂעִיר]][[H9014\|־]] [[H2403H\|חַטָּ֖את]] [[H9005\|לַ]][[H3117J\|יּ֑וֹם]] [[H9002\|וּ]][[H6499\|פַ֧ר]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֛ר]] [[H9002\|וְ]][[H0352A\|אַ֥יִל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֖אן]] [[H8549G\|תְּמִימִ֥ים]] [[H6213I\|יַעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.24|<< Ezekiel 43:24]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.26|Ezekiel 43:26 >>]]</td></tr></table>
 

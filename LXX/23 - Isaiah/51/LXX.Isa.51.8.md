@@ -1,6 +1,69 @@
+---
+title: LXX Isaiah 51:8
+type: Verse
+lxx: "For as a garment will be eaten upon time, and as wool shall be eaten by a moth; but the righteousness of mine will be into the eon; and the deliverance of mine for generations of generations."
+greek: "ως γαρ ιμάτιον βρωθήσεται υπό χρόνου και ως έρια βρωθήσεται υπό σητός η δε δικαιοσύνη μου εις τον αιώνα έσται το δε σωτήριόν μου εις γενεάς γενεών"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 51
+book/chapter: "[[Isa.51|Isaiah 51]]"
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MOTH|MOTH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G5613]]"
+- "[[G1063]]"
+- "[[G2440]]"
+- "[[G0977]]"
+- "[[G5259]]"
+- "[[G5550]]"
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[G2053]]"
+- "[[G0977]]"
+- "[[G5259]]"
+- "[[G4597]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1343]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4992]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G1074]]"
+- "[[G1074]]"
+---
+
 **LXX Isaiah 51:8** 
 <small><sub>**LXX:**</sub></small>
 For as a garment will be eaten upon time, and as wool shall be eaten by a moth; but the righteousness of mine will be into the eon; and the deliverance of mine for generations of generations. 
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ως]] [[G1063\|γαρ]] [[G2440\|ιμάτιον]] [[G0977\|βρωθήσεται]] [[G5259\|υπό]] [[G5550\|χρόνου]] [[G2532\|και]] [[G5613\|ως]] [[G2053\|έρια]] [[G0977\|βρωθήσεται]] [[G5259\|υπό]] [[G4597\|σητός]] [[G3588\|η]] [[G1161\|δε]] [[G1343\|δικαιοσύνη]] [[G1473\|μου]] [[G1519\|εις]] [[G3588\|τον]] [[G0165\|αιώνα]] [[G1510\|έσται]] [[G3588\|το]] [[G1161\|δε]] [[G4992\|σωτήριόν]] [[G1473\|μου]] [[G1519\|εις]] [[G1074\|γενεάς]] [[G1074\|γενεών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MOTH|MOTH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.51.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.7|<< Isaiah 51:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.9|Isaiah 51:9 >>]]</td></tr></table>
 
@@ -30,6 +93,6 @@ For as a garment will be eaten upon time, and as wool shall be eaten by a moth; 
 | for | **<big>[[G1519\|εις]]</big>** |
 | generations | **<big>[[G1074\|γενεάς]]</big>** |
 | of generations. | **<big>[[G1074\|γενεών]]</big>** |
-[[Isa.51.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.7|<< Isaiah 51:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.9|Isaiah 51:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.51.7|<< Isaiah 51:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.51.9|Isaiah 51:9 >>]]</td></tr></table>
 
 

@@ -1,8 +1,56 @@
+---
+title: Isaiah 15:1
+type: Verse
+kjv: "The burden of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;"
+bsb: "This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir in Moab is devastated, destroyed in a night!"
+hebrew: "מַשָּׂ֖א מוֹאָ֑ב כִּ֠י בְּלֵ֞יל שֻׁדַּ֨ד עָ֤ר מוֹאָב֙ נִדְמָ֔ה כִּ֗י בְּלֵ֛יל שֻׁדַּ֥ד קִיר־ מוֹאָ֖ב נִדְמָֽה׃"
+pericope: "[[Isa.15.1 The Burden against Moab|The Burden against Moab]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 15
+book/chapter: "[[Isa.15|Isaiah 15]]"
+chronological_order: 632
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AR|AR]]"
+- "[[topic BURDEN|BURDEN]]"
+- "[[topic KIR-HARASETH|KIR-HARASETH]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H4853B]]"
+- "[[H4124G]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H7703]]"
+- "[[H6144]]"
+- "[[H1820]]"
+- "[[H7024A]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 15:1**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of Moab. Because in the night Ar of Moab is laid waste, [and] brought to silence; because in the night Kir of Moab is laid waste, [and] brought to silence;
 <small><sub>**BSB:**</sub></small>
 This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir in Moab is devastated, destroyed in a night!
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֖א]] [[H4124G\|מוֹאָ֑ב]] [[H3588A\|כִּ֠י]] [[H9003\|בְּ]][[H3915\|לֵ֞יל]] [[H7703\|שֻׁדַּ֨ד]] [[H6144\|עָ֤ר]] [[H4124G\|מוֹאָב֙]] [[H1820\|נִדְמָ֔ה]] [[H3588A\|כִּ֗י]] [[H9003\|בְּ]][[H3915\|לֵ֛יל]] [[H7703\|שֻׁדַּ֥ד]] [[H7024A\|קִיר]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H1820\|נִדְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AR|AR]] • [[topic BURDEN|BURDEN]] • [[topic KIR-HARASETH|KIR-HARASETH]] • [[topic NIGHT|NIGHT]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.32|<< Isaiah 14:32]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.2|Isaiah 15:2 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Nahum 2:13
+type: Verse
+kjv: "Behold, I am against thee, saith the LORD of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard."
+bsb: "“Behold, I am against you,” declares the LORD of Hosts. “I will reduce your chariots to cinders, and the sword will devour your young lions. I will cut off your prey from the earth, and the voices of your messengers will no longer be heard.”"
+hebrew: "הִנְנִ֣י אֵלַ֗יִךְ נְאֻם֙ יְהוָ֣ה צְבָא֔וֹת וְהִבְעַרְתִּ֤י בֶֽעָשָׁן֙ רִכְבָּ֔הּ וּכְפִירַ֖יִךְ תֹּ֣אכַל חָ֑רֶב וְהִכְרַתִּ֤י מֵאֶ֙רֶץ֙ טַרְפֵּ֔ךְ וְלֹֽא־ יִשָּׁמַ֥ע ע֖וֹד ק֥וֹל מַלְאָכֵֽכֵה׃ ס"
+pericope: "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9001]]"
+- "[[H1197A]]"
+- "[[H9003]]"
+- "[[H6227]]"
+- "[[H7393G]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H3715A]]"
+- "[[H9022]]"
+- "[[H0398]]"
+- "[[H2719]]"
+- "[[H3772G]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H2964]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H5750]]"
+- "[[H6963A]]"
+- "[[H4397G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nahum 2:13**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I [am] against thee, saith the LORD of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard.
 <small><sub>**BSB:**</sub></small>
 “Behold, I am against you,” declares the LORD of Hosts. “I will reduce your chariots to cinders, and the sword will devour your young lions. I will cut off your prey from the earth, and the voices of your messengers will no longer be heard.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H0413\|אֵלַ֗יִ]][[H9032\|ךְ]] [[H5002\|נְאֻם֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9001\|וְ]][[H1197A\|הִבְעַרְתִּ֤י]] [[H9003\|בֶֽ]][[H6227\|עָשָׁן֙]] [[H7393G\|רִכְבָּ֔]][[H9024\|הּ]] [[H9002\|וּ]][[H3715A\|כְפִירַ֖יִ]][[H9022\|ךְ]] [[H0398\|תֹּ֣אכַל]] [[H2719\|חָ֑רֶב]] [[H9001\|וְ]][[H3772G\|הִכְרַתִּ֤י]] [[H9006\|מֵ]][[H0776G\|אֶ֙רֶץ֙]] [[H2964\|טַרְפֵּ֔]][[H9022\|ךְ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8085G\|יִשָּׁמַ֥ע]] [[H5750\|ע֖וֹד]] [[H6963A\|ק֥וֹל]] [[H4397G\|מַלְאָכֵֽ]][[H9022\|כֵה]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.12|<< Nahum 2:12]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.1|Nahum 3:1 >>]]</td></tr></table>
 
@@ -26,7 +84,7 @@ Behold, I [am] against thee, saith the LORD of hosts, and I will burn her chario
 | it will be heard  |**<big>&#8207;[[H8085G\|יִשָּׁמַ֥ע]]&#8207; </big>**| yi.sha.Ma'<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֖וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] voice of  |**<big>&#8207;[[H6963A\|ק֥וֹל]]&#8207; </big>**| Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| messengers your  |**<big>&#8207;[[H4397G\|מַלְאָכֵֽ]]&#8207;&#8207;[[H9022\|כֵה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mal.'a.Khe.<small><sup>[[HNcmsc]]</sup></small> kheh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| messengers your  |**<big>&#8207;[[H4397G\|מַלְאָכֵֽ]]&#8207;&#8207;[[H9022\|כֵה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mal.'a.Khe.<small><sup>[[HNcmsc]]</sup></small> kheh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.12|<< Nahum 2:12]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.1|Nahum 3:1 >>]]</td></tr></table>
 
 

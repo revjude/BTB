@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 17:4
+type: Verse
+kjv: "And it be told thee, and thou hast heard of it, and inquired diligently, and, behold, it be true, and the thing certain, that such abomination is wrought in Israel:"
+bsb: "and if it is reported and you hear about it, you must investigate it thoroughly. If the report is true and such an abomination has happened in Israel,"
+hebrew: "וְהֻֽגַּד־ לְךָ֖ וְשָׁמָ֑עְתָּ וְדָרַשְׁתָּ֣ הֵיטֵ֔ב וְהִנֵּ֤ה אֱמֶת֙ נָכ֣וֹן הַדָּבָ֔ר נֶעֶשְׂתָ֛ה הַתּוֹעֵבָ֥ה הַזֹּ֖את בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Deut.17.2 Purge the Idolater|Purge the Idolater]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H8085G]]"
+- "[[H1875]]"
+- "[[H3190]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0571H]]"
+- "[[H3559K]]"
+- "[[H9009]]"
+- "[[H1697J]]"
+- "[[H6213A]]"
+- "[[H8441]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 17:4**<big><big>[[Deut.17.2 Purge the Idolater|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it be told thee, and thou hast heard [of it], and inquired diligently, and, behold, [it be] true, [and] the thing certain, [that] such abomination is wrought in Israel:
 <small><sub>**BSB:**</sub></small>
 and if it is reported and you hear about it, you must investigate it thoroughly. If the report is true and such an abomination has happened in Israel,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5046\|הֻֽגַּד]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9001\|וְ]][[H8085G\|שָׁמָ֑עְתָּ]] [[H9001\|וְ]][[H1875\|דָרַשְׁתָּ֣]] [[H3190\|הֵיטֵ֔ב]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H0571H\|אֱמֶת֙]] [[H3559K\|נָכ֣וֹן]] [[H9009\|הַ]][[H1697J\|דָּבָ֔ר]] [[H6213A\|נֶעֶשְׂתָ֛ה]] [[H9009\|הַ]][[H8441\|תּוֹעֵבָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.3|<< Deuteronomy 17:3]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.5|Deuteronomy 17:5 >>]]</td></tr></table>
 

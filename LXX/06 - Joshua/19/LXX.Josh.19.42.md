@@ -1,6 +1,44 @@
+---
+title: LXX Joshua 19:42
+type: Verse
+lxx: "and Shaalabbin, and Ajalon, and Jethlah,"
+greek: "και Σααλαβίν και Ελών και Ιεθλά"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AJALON|AJALON]]"
+- "[[topic DAN|DAN]]"
+- "[[topic JETHLAH|JETHLAH]]"
+- "[[topic SHAALBIM|SHAALBIM]]"
+strongs:
+- "[[G2532]]"
+- "[[H8169]]"
+- "[[G2532]]"
+- "[[H0356]]"
+- "[[G2532]]"
+- "[[H3494]]"
+---
+
 **LXX Joshua 19:42** 
 <small><sub>**LXX:**</sub></small>
 and Shaalabbin, and Ajalon, and Jethlah, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[H8169\|Σααλαβίν]] [[G2532\|και]] [[H0356\|Ελών]] [[G2532\|και]] [[H3494\|Ιεθλά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AJALON|AJALON]] • [[topic DAN|DAN]] • [[topic JETHLAH|JETHLAH]] • [[topic SHAALBIM|SHAALBIM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.19.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.41|<< Joshua 19:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.43|Joshua 19:43 >>]]</td></tr></table>
 
@@ -12,6 +50,6 @@ and Shaalabbin, and Ajalon, and Jethlah,
 | Ajalon, | **<big>[[H0356\|Ελών]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | Jethlah, | **<big>[[H3494\|Ιεθλά]]</big>** |
-[[Josh.19.42|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.41|<< Joshua 19:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.43|Joshua 19:43 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.19.41|<< Joshua 19:41]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.19.43|Joshua 19:43 >>]]</td></tr></table>
 
 

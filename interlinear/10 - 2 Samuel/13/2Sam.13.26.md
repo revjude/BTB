@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 13:26
+type: Verse
+kjv: "Then said Absalom, If not, I pray thee, let my brother Amnon go with us. And the king said unto him, Why should he go with thee?"
+bsb: "“If not,” said Absalom, “please let my brother Amnon go with us.” “Why should he go with you?” the king asked."
+hebrew: "וַיֹּ֙אמֶר֙ אַבְשָׁל֔וֹם וָלֹ֕א יֵֽלֶךְ־ נָ֥א אִתָּ֖נוּ אַמְנ֣וֹן אָחִ֑י וַיֹּ֤אמֶר לוֹ֙ הַמֶּ֔לֶךְ לָ֥מָּה יֵלֵ֖ךְ עִמָּֽךְ׃"
+pericope: "[[2Sam.13.23 Absalom’s Revenge on Amnon|Absalom’s Revenge on Amnon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0053]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H0550G]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4100]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:26**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Absalom, If not, I pray thee, let my brother Amnon go with us. And the king said unto him, Why should he go with thee?
 <small><sub>**BSB:**</sub></small>
 “If not,” said Absalom, “please let my brother Amnon go with us.” “Why should he go with you?” the king asked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0053\|אַבְשָׁל֔וֹם]] [[H9002\|וָ]][[H3808\|לֹ֕א]] [[H1980G\|יֵֽלֶךְ]][[H9014\|־]] [[H4994\|נָ֥א]] [[H0854\|אִתָּ֖]][[H9035\|נוּ]] [[H0550G\|אַמְנ֣וֹן]] [[H0251G\|אָחִ֑]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H1980G\|יֵלֵ֖ךְ]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DECEPTION|DECEPTION]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RAPE|RAPE]] • [[topic REVENGE|REVENGE]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.25|<< 2 Samuel 13:25]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.27|2 Samuel 13:27 >>]]</td></tr></table>
 

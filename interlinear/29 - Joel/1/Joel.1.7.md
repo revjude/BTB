@@ -1,8 +1,57 @@
+---
+title: Joel 1:7
+type: Verse
+kjv: "He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white."
+bsb: "It has laid waste My grapevine and splintered My fig tree. It has stripped off the bark and thrown it away; the branches have turned white."
+hebrew: "שָׂ֤ם גַּפְנִי֙ לְשַׁמָּ֔ה וּתְאֵנָתִ֖י לִקְצָפָ֑ה חָשֹׂ֤ף חֲשָׂפָהּ֙ וְהִשְׁלִ֔יךְ הִלְבִּ֖ינוּ שָׂרִיגֶֽיהָ׃"
+pericope: "[[Joel.1.1 The Invasion of Locusts|The Invasion of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H7760A]]"
+- "[[H1612]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H8047G]]"
+- "[[H9002]]"
+- "[[H8384]]"
+- "[[H7111]]"
+- "[[H2834]]"
+- "[[H9034]]"
+- "[[H7993]]"
+- "[[H3835A]]"
+- "[[H8299]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:7**<big><big>[[Joel.1.1 The Invasion of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast [it] away; the branches thereof are made white.
 <small><sub>**BSB:**</sub></small>
 It has laid waste My grapevine and splintered My fig tree. It has stripped off the bark and thrown it away; the branches have turned white.
+<small><sub>**Hebrew:**</sub></small>
+[[H7760A\|שָׂ֤ם]] [[H1612\|גַּפְנִ]][[H9020\|י֙]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֔ה]] [[H9002\|וּ]][[H8384\|תְאֵנָתִ֖]][[H9020\|י]] [[H9005\|לִ]][[H7111\|קְצָפָ֑ה]] [[H2834\|חָשֹׂ֤ף]] [[H2834\|חֲשָׂפָ]][[H9034\|הּ֙]] [[H9002\|וְ]][[H7993\|הִשְׁלִ֔יךְ]] [[H3835A\|הִלְבִּ֖ינוּ]] [[H8299\|שָׂרִיגֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOCUST|LOCUST]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.6|<< Joel 1:6]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.8|Joel 1:8 >>]]</td></tr></table>
 

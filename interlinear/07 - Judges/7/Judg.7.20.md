@@ -1,8 +1,70 @@
+---
+title: Judges 7:20
+type: Verse
+kjv: "And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow withal: and they cried, The sword of the LORD, and of Gideon."
+bsb: "The three companies blew their horns and shattered their jars. Holding the torches in their left hands and the horns in their right hands, they shouted, “A sword for the LORD and for Gideon!”"
+hebrew: "וַֽ֠יִּתְקְעוּ שְׁלֹ֨שֶׁת הָרָאשִׁ֥ים בַּשּֽׁוֹפָרוֹת֮ וַיִּשְׁבְּר֣וּ הַכַּדִּים֒ וַיַּחֲזִ֤יקוּ בְיַד־ שְׂמאוֹלָם֙ בַּלַּפִּדִ֔ים וּבְיַ֨ד־ יְמִינָ֔ם הַשּׁוֹפָר֖וֹת לִתְק֑וֹעַ וַֽיִּקְרְא֔וּ חֶ֥רֶב לַֽיהוָ֖ה וּלְגִדְעֽוֹן׃"
+pericope: "[[Judg.7.15 Gideon Defeats Midian|Gideon Defeats Midian]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BATTLE|BATTLE]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PITCHER|PITCHER]]"
+- "[[topic STRATEGY|STRATEGY]]"
+- "[[topic SWORD|SWORD]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H7218K]]"
+- "[[H9003]]"
+- "[[H7782]]"
+- "[[H7665]]"
+- "[[H3537]]"
+- "[[H2388H]]"
+- "[[H3027G]]"
+- "[[H9014]]"
+- "[[H8040G]]"
+- "[[H9028]]"
+- "[[H3940]]"
+- "[[H9002]]"
+- "[[H3225G]]"
+- "[[H9005]]"
+- "[[H7121I]]"
+- "[[H2719]]"
+- "[[H3068G]]"
+- "[[H1439]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:20**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow [withal]: and they cried, The sword of the LORD, and of Gideon.
 <small><sub>**BSB:**</sub></small>
 The three companies blew their horns and shattered their jars. Holding the torches in their left hands and the horns in their right hands, they shouted, “A sword for the LORD and for Gideon!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֠]][[H8628\|יִּתְקְעוּ]] [[H7969\|שְׁלֹ֨שֶׁת]] [[H9009\|הָ]][[H7218K\|רָאשִׁ֥ים]] [[H9003\|בַּ]][[H7782\|שּֽׁוֹפָרוֹת֮]] [[H9001\|וַ]][[H7665\|יִּשְׁבְּר֣וּ]] [[H9009\|הַ]][[H3537\|כַּדִּים֒]] [[H9001\|וַ]][[H2388H\|יַּחֲזִ֤יקוּ]] [[H9003\|בְ]][[H3027G\|יַד]][[H9014\|־]] [[H8040G\|שְׂמאוֹלָ]][[H9028\|ם֙]] [[H9003\|בַּ]][[H3940\|לַּפִּדִ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3027G\|יַ֨ד]][[H9014\|־]] [[H3225G\|יְמִינָ֔]][[H9028\|ם]] [[H9009\|הַ]][[H7782\|שּׁוֹפָר֖וֹת]] [[H9005\|לִ]][[H8628\|תְק֑וֹעַ]] [[H9001\|וַֽ]][[H7121I\|יִּקְרְא֔וּ]] [[H2719\|חֶ֥רֶב]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H9002\|וּ]][[H9005\|לְ]][[H1439\|גִדְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BATTLE|BATTLE]] • [[topic COURAGE|COURAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic PITCHER|PITCHER]] • [[topic STRATEGY|STRATEGY]] • [[topic SWORD|SWORD]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.19|<< Judges 7:19]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.21|Judges 7:21 >>]]</td></tr></table>
 

@@ -1,6 +1,67 @@
+---
+title: LXX 2 Samuel 18:26
+type: Verse
+lxx: "And the watchman saw another man running. And the watchman yelled out at the gate, and said, Behold, another man is running alone. And the king said, Also this one is announcing good news."
+greek: "και είδεν ο σκοπός άνδρα έτερον τρέχοντα και ανεβόησεν ο σκοπός προς τη πύλη και είπεν ιδού ανήρ έτερος τρέχων μόνος και είπεν ο βασιλεύς και ούτος ευαγγελιζόμενός εστι"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 18
+book/chapter: "[[2Sam.18|2 Samuel 18]]"
+chronological_order: 417
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic CUSHI|CUSHI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492]]"
+- "[[G3588]]"
+- "[[G4649]]"
+- "[[G0435]]"
+- "[[G2087]]"
+- "[[G5143]]"
+- "[[G2532]]"
+- "[[G0310]]"
+- "[[G3588]]"
+- "[[G4649]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G4439]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2400]]"
+- "[[G0435]]"
+- "[[G2087]]"
+- "[[G5143]]"
+- "[[G3441]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2097]]"
+- "[[G1510]]"
+---
+
 **LXX 2 Samuel 18:26** 
 <small><sub>**LXX:**</sub></small>
 And the watchman saw another man running. And the watchman yelled out at the gate, and said, Behold, another man \[is\] running alone. And the king said, Also this one is announcing good news. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1492\|είδεν]] [[G3588\|ο]] [[G4649\|σκοπός]] [[G0435\|άνδρα]] [[G2087\|έτερον]] [[G5143\|τρέχοντα]] [[G2532\|και]] [[G0310\|ανεβόησεν]] [[G3588\|ο]] [[G4649\|σκοπός]] [[G4314\|προς]] [[G3588\|τη]] [[G4439\|πύλη]] [[G2532\|και]] [[G2036\|είπεν]] [[G2400\|ιδού]] [[G0435\|ανήρ]] [[G2087\|έτερος]] [[G5143\|τρέχων]] [[G3441\|μόνος]] [[G2532\|και]] [[G2036\|είπεν]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G2532\|και]] [[G3778\|ούτος]] [[G2097\|ευαγγελιζόμενός]] [[G1510\|εστι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIMAAZ|AHIMAAZ]] • [[topic CUSHI|CUSHI]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.25|<< 2 Samuel 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.27|2 Samuel 18:27 >>]]</td></tr></table>
 
@@ -35,6 +96,6 @@ And the watchman saw another man running. And the watchman yelled out at the gat
 | this one | **<big>[[G3778\|ούτος]]</big>** |
 | announcing good news | **<big>[[G2097\|ευαγγελιζόμενός]]</big>** |
 | is | **<big>[[G1510\|εστι]]</big>** |
-[[2Sam.18.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.25|<< 2 Samuel 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.27|2 Samuel 18:27 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.18.25|<< 2 Samuel 18:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.18.27|2 Samuel 18:27 >>]]</td></tr></table>
 
 

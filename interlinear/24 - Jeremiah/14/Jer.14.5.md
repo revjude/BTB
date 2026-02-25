@@ -1,8 +1,58 @@
+---
+title: Jeremiah 14:5
+type: Verse
+kjv: "Yea, the hind also calved in the field, and forsook it, because there was no grass."
+bsb: "Even the doe in the field deserts her newborn fawn because there is no grass."
+hebrew: "כִּ֤י גַם־ אַיֶּ֙לֶת֙ בַּשָּׂדֶ֔ה יָלְדָ֖ה וְעָז֑וֹב כִּ֥י לֹֽא־ הָיָ֖ה דֶּֽשֶׁא׃"
+pericope: "[[Jer.14.1 Drought, Famine, Sword, and Plague|Drought, Famine, Sword, and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DEER|DEER]]"
+- "[[topic DROUGHT|DROUGHT]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0355]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H3205]]"
+- "[[H9002]]"
+- "[[H5800A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H1877]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 14:5**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, the hind also calved in the field, and forsook [it], because there was no grass.
 <small><sub>**BSB:**</sub></small>
 Even the doe in the field deserts her newborn fawn because there is no grass.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H1571\|גַם]][[H9014\|־]] [[H0355\|אַיֶּ֙לֶת֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H3205\|יָלְדָ֖ה]] [[H9002\|וְ]][[H5800A\|עָז֑וֹב]] [[H3588A\|כִּ֥י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיָ֖ה]] [[H1877\|דֶּֽשֶׁא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEER|DEER]] • [[topic DROUGHT|DROUGHT]] • [[topic FAMINE|FAMINE]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.4|<< Jeremiah 14:4]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.6|Jeremiah 14:6 >>]]</td></tr></table>
 

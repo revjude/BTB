@@ -1,10 +1,62 @@
+---
+title: Mark 14:1
+type: Verse
+kjv: "After two days was the feast of the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put him to death."
+bsb: "Now the Passover and the Feast of Unleavened Bread were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him."
+greek: "Ἦν δὲ τὸ πάσχα καὶ τὰ ἄζυμα μετὰ δύο ἡμέρας, καὶ ἐζήτουν οἱ ἀρχιερεῖς καὶ οἱ γραμματεῖς πῶς αὐτὸν ἐν δόλῳ κρατήσαντες ἀποκτείνωσιν·"
+pericope: "[[Mark.14.1 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3957]]"
+- "[[G2532]]"
+- "[[G0106]]"
+- "[[G3326]]"
+- "[[G1417]]"
+- "[[G2250]]"
+- "[[G2212]]"
+- "[[G0749]]"
+- "[[G1122]]"
+- "[[G4459]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G1388]]"
+- "[[G2902]]"
+- "[[G0615]]"
+texts:
+- NKO
+---
+
 **Mark 14:1**<big><big>[[Mark.14.1 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After two days was [the feast of] the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put [him] to death.
 <small><sub>**BSB:**</sub></small>
 Now the Passover and the Feast of Unleavened Bread were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him.
-<small><sub>**Literal:**</sub></small>
-It was now the Passover and the [Feast of] Unleavened Bread after two days, And were seeking the chief priests and the scribes how Him by stealth having taken they may kill [Him];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.37|<< Mark 13:37]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.2|Mark 14:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦν]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G3957\|πάσχα]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G0106\|ἄζυμα]]  [[G3326\|μετὰ]]  [[G1417\|δύο]]  [[G2250\|ἡμέρας,]]  [[G2532\|καὶ]]  [[G2212\|ἐζήτουν]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G4459\|πῶς]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G1388\|δόλῳ]]  [[G2902\|κρατήσαντες]]  [[G0615\|ἀποκτείνωσιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic PASSOVER|PASSOVER]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SCRIBE (S)|SCRIBE (S)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.37|<< Mark 13:37]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.2|Mark 14:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

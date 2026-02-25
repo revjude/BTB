@@ -1,10 +1,58 @@
+---
+title: Hebrews 11:15
+type: Verse
+kjv: "And truly, if they had been mindful of that country from whence they came out, they might have had opportunity to have returned."
+bsb: "If they had been thinking of the country they had left, they would have had opportunity to return."
+greek: "καὶ εἰ μὲν ἐκείνης ἐμνημόνευον ἀφ᾽ ἧς ἐξέβησαν, εἶχον ἂν καιρὸν ἀνακάμψαι·"
+pericope: "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1487G]]"
+- "[[G3303]]"
+- "[[G1565]]"
+- "[[G3421]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G6092]]"
+- "[[G2192]]"
+- "[[G0302]]"
+- "[[G2540]]"
+- "[[G0344]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Hebrews 11:15**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And truly, if they had been mindful of that [country] from whence they came out, they might have had opportunity to have returned.
 <small><sub>**BSB:**</sub></small>
 If they had been thinking of the country they had left, they would have had opportunity to return.
-<small><sub>**Literal:**</sub></small>
-And if indeed that [one] they were remembering from where they came out, they had then would opportunity to return;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.14|<< Hebrews 11:14]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.16|Hebrews 11:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1487G\|εἰ]]  [[G3303\|μὲν]]  [[G1565\|ἐκείνης]]  [[G3421\|ἐμνημόνευον]]  [[G0575\|ἀφ᾽]]  [[G3739\|ἧς]]  [[G6092\|ἐξέβησαν,]]  [[G2192\|εἶχον]]  [[G0302\|ἂν]]  [[G2540\|καιρὸν]]  [[G0344\|ἀνακάμψαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FAITH|FAITH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.14|<< Hebrews 11:14]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.16|Hebrews 11:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

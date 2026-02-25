@@ -1,8 +1,68 @@
+---
+title: Jeremiah 50:20
+type: Verse
+kjv: "In those days, and in that time, saith the LORD, the iniquity of Israel shall be sought for, and there shall be none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve."
+bsb: "In those days and at that time, declares the LORD, a search will be made for Israel’s guilt, but there will be none, and for Judah’s sins, but they will not be found; for I will forgive the remnant I preserve."
+hebrew: "בַּיָּמִ֣ים הָהֵם֩ וּבָעֵ֨ת הַהִ֜יא נְאֻם־ יְהוָ֗ה יְבֻקַּ֞שׁ אֶת־ עֲוֹ֤ן יִשְׂרָאֵל֙ וְאֵינֶ֔נּוּ וְאֶת־ חַטֹּ֥את יְהוּדָ֖ה וְלֹ֣א תִמָּצֶ֑אינָה כִּ֥י אֶסְלַ֖ח לַאֲשֶׁ֥ר אַשְׁאִֽיר׃"
+pericope: "[[Jer.50.17 Redemption for God’s People|Redemption for God’s People]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H5771G]]"
+- "[[H3478]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H2403B]]"
+- "[[H3063G]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H3588A]]"
+- "[[H5545]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H7604]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:20**<big><big>[[Jer.50.17 Redemption for God’s People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days, and in that time, saith the LORD, the iniquity of Israel shall be sought for, and [there shall be] none; and the sins of Judah, and they shall not be found: for I will pardon them whom I reserve.
 <small><sub>**BSB:**</sub></small>
 In those days and at that time, declares the LORD, a search will be made for Israel’s guilt, but there will be none, and for Judah’s sins, but they will not be found; for I will forgive the remnant I preserve.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵם֩]] [[H9002\|וּ]][[H9003\|בָ]][[H6256\|עֵ֨ת]] [[H9009\|הַ]][[H1931\|הִ֜יא]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H1245\|יְבֻקַּ֞שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5771G\|עֲוֹ֤ן]] [[H3478\|יִשְׂרָאֵל֙]] [[H9002\|וְ]][[H0369\|אֵינֶ֔]][[H9043\|נּוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2403B\|חַטֹּ֥את]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4672\|תִמָּצֶ֑אינָה]] [[H3588A\|כִּ֥י]] [[H5545\|אֶסְלַ֖ח]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֥ר]] [[H7604\|אַשְׁאִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.19|<< Jeremiah 50:19]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.21|Jeremiah 50:21 >>]]</td></tr></table>
 

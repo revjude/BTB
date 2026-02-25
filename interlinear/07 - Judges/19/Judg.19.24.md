@@ -1,8 +1,70 @@
+---
+title: Judges 19:24
+type: Verse
+kjv: "Behold, here is my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing."
+bsb: "Look, let me bring out my virgin daughter and the man’s concubine, and you can use them and do with them as you wish. But do not do such a vile thing to this man.”"
+hebrew: "הִנֵּה֩ בִתִּ֨י הַבְּתוּלָ֜ה וּפִֽילַגְשֵׁ֗הוּ אוֹצִֽיאָה־ נָּ֤א אוֹתָם֙ וְעַנּ֣וּ אוֹתָ֔ם וַעֲשׂ֣וּ לָהֶ֔ם הַטּ֖וֹב בְּעֵינֵיכֶ֑ם וְלָאִ֤ישׁ הַזֶּה֙ לֹ֣א תַעֲשׂ֔וּ דְּבַ֖ר הַנְּבָלָ֥ה הַזֹּֽאת׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RAPE|RAPE]]"
+strongs:
+- "[[H2009]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H1330]]"
+- "[[H9002]]"
+- "[[H6370]]"
+- "[[H9023]]"
+- "[[H3318H]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H6031B]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9026]]"
+- "[[H0376G]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H1697I]]"
+- "[[H5039]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:24**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, [here is] my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing.
 <small><sub>**BSB:**</sub></small>
 Look, let me bring out my virgin daughter and the man’s concubine, and you can use them and do with them as you wish. But do not do such a vile thing to this man.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה֩]] [[H1323G\|בִתִּ֨]][[H9020\|י]] [[H9009\|הַ]][[H1330\|בְּתוּלָ֜ה]] [[H9002\|וּ]][[H6370\|פִֽילַגְשֵׁ֗]][[H9023\|הוּ]] [[H3318H\|אוֹצִֽיאָה]][[H9014\|־]] [[H4994\|נָּ֤א]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9002\|וְ]][[H6031B\|עַנּ֣וּ]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9002\|וַ]][[H6213A\|עֲשׂ֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9009\|הַ]][[H2896A\|טּ֖וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H9005\|לָ]][[H0376G\|אִ֤ישׁ]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֔וּ]] [[H1697I\|דְּבַ֖ר]] [[H9009\|הַ]][[H5039\|נְּבָלָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic GIBEAH|GIBEAH]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RAPE|RAPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.23|<< Judges 19:23]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.25|Judges 19:25 >>]]</td></tr></table>
 

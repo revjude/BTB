@@ -1,6 +1,57 @@
+---
+title: LXX Psalm 35:4
+type: Verse
+lxx: "the ones seeking my soul be ashamed and feel remorse! Let them be turned to the rear, and the ones considering evils against me be disgraced!"
+greek: "αισχυνθήτωσαν και εντραπήτωσαν οι ζητούντες την ψυχήν μου αποστραφήτωσαν εις τα οπίσω και καταισχυνθήτωσαν οι λογιζόμενοί μοι κακά"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G0153]]"
+- "[[G2532]]"
+- "[[G1788]]"
+- "[[G3588]]"
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+- "[[G0654]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3694]]"
+- "[[G2532]]"
+- "[[G2617]]"
+- "[[G3588]]"
+- "[[G3049]]"
+- "[[G1473]]"
+- "[[G2556]]"
+---
+
 **LXX Psalm 35:4** 
 <small><sub>**LXX:**</sub></small>
 the ones seeking my soul be ashamed and feel remorse! Let them be turned to the rear, and the ones considering evils against me be disgraced! 
+<small><sub>**Greek:**</sub></small>
+[[G0153\|αισχυνθήτωσαν]] [[G2532\|και]] [[G1788\|εντραπήτωσαν]] [[G3588\|οι]] [[G2212\|ζητούντες]] [[G3588\|την]] [[G5590\|ψυχήν]] [[G1473\|μου]] [[G0654\|αποστραφήτωσαν]] [[G1519\|εις]] [[G3588\|τα]] [[G3694\|οπίσω]] [[G2532\|και]] [[G2617\|καταισχυνθήτωσαν]] [[G3588\|οι]] [[G3049\|λογιζόμενοί]] [[G1473\|μοι]] [[G2556\|κακά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENEMY|ENEMY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.3|<< Psalm 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.5|Psalm 35:5 >>]]</td></tr></table>
 
@@ -22,6 +73,6 @@ the ones seeking my soul be ashamed and feel remorse! Let them be turned to the 
 | the ones | **<big>[[G3588\|οι]]</big>** |
 | considering | **<big>[[G3049\|λογιζόμενοί]]</big>** |
 | evils against me | **<big>[[G1473\|μοι]]</big>** **<big>[[G2556\|κακά]]</big>** |
-[[Ps.35.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.3|<< Psalm 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.5|Psalm 35:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.35.3|<< Psalm 35:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.35.5|Psalm 35:5 >>]]</td></tr></table>
 
 

@@ -1,10 +1,73 @@
+---
+title: Matthew 12:4
+type: Verse
+kjv: "How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?"
+bsb: "He entered the house of God, and he and his companions ate the consecrated bread, which was not lawful for them to eat, but only for the priests."
+jesus_said: "How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?"
+greek: "πῶς εἰσῆλθεν εἰς τὸν οἶκον τοῦ θεοῦ καὶ τοὺς ἄρτους τῆς προθέσεως ἔφαγον, ὃ οὐκ ἐξὸν ἦν αὐτῷ φαγεῖν οὐδὲ τοῖς μετ᾽ αὐτοῦ εἰ μὴ τοῖς ἱερεῦσιν μόνοις;¶"
+pericope: "[[Matt.12.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic FORM|FORM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G4459]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G0740]]"
+- "[[G4286]]"
+- "[[G5315]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G3761]]"
+- "[[G3326]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G2409]]"
+- "[[G3441]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 12:4**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?
 <small><sub>**BSB:**</sub></small>
 He entered the house of God, and he and his companions ate the consecrated bread, which was not lawful for them to eat, but only for the priests.
-<small><sub>**Literal:**</sub></small>
-how he entered into the house <the> of God and the loaves of the presentation they ate, that which not lawful it was for him to eat nor for those with him only except for the priests alone?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.3|<< Matthew 12:3]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.5|Matthew 12:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4459\|πῶς]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0740\|ἄρτους]]  [[G3588\|τῆς]]  [[G4286\|προθέσεως]]  [[G5315\|ἔφαγον,]]  [[G3739\|ὃ]]  [[G3756\|οὐκ]]  [[G1832\|ἐξὸν]]  [[G1510\|ἦν]]  [[G0846\|αὐτῷ]]  [[G5315\|φαγεῖν]]  [[G3761\|οὐδὲ]]  [[G3588\|τοῖς]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τοῖς]]  [[G2409\|ἱερεῦσιν]]  [[G3441\|μόνοις;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CHURCH|CHURCH]] • [[topic DAVID|DAVID]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic FORM|FORM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic PRIEST|PRIEST]] • [[topic SABBATH|SABBATH]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.3|<< Matthew 12:3]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.5|Matthew 12:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

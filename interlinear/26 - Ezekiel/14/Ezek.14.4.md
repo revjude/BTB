@@ -1,8 +1,86 @@
+---
+title: Ezekiel 14:4
+type: Verse
+kjv: "Therefore speak unto them, and say unto them, Thus saith the Lord GOD; Every man of the house of Israel that setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to the prophet; I the LORD will answer him that cometh according to the multitude of his idols;"
+bsb: "Therefore speak to them and tell them that this is what the Lord GOD says: ‘When any Israelite sets up idols in his heart and puts a wicked stumbling block before his face, and then comes to the prophet, I the LORD will answer him according to his great idolatry,"
+hebrew: "לָכֵ֣ן דַּבֵּר־ א֠וֹתָם וְאָמַרְתָּ֨ אֲלֵיהֶ֜ם כֹּה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהוִ֗ה אִ֣ישׁ אִ֣ישׁ מִבֵּ֣ית יִשְׂרָאֵ֡ל אֲשֶׁר֩ יַעֲלֶ֨ה אֶת־ גִּלּוּלָ֜יו אֶל־ לִבּ֗וֹ וּמִכְשׁ֤וֹל עֲוֹנוֹ֙ יָשִׂים֙ נֹ֣כַח פָּנָ֔יו וּבָ֖א אֶל־ הַנָּבִ֑יא אֲנִ֣י יְהוָ֗ה נַעֲנֵ֧יתִי ל֦וֹ בָ֖א בְּרֹ֥ב גִּלּוּלָֽיו׃"
+pericope: "[[Ezek.14.1 Idolatrous Elders Condemned|Idolatrous Elders Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic STUMBLING|STUMBLING]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H1696G]]"
+- "[[H9014]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H1544]]"
+- "[[H9023]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H4383]]"
+- "[[H5771G]]"
+- "[[H7760A]]"
+- "[[H5227]]"
+- "[[H6440H]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H6030B]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H7230]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 14:4**<big><big>[[Ezek.14.1 Idolatrous Elders Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore speak unto them, and say unto them, Thus saith the Lord GOD; Every man of the house of Israel that setteth up his idols in his heart, and putteth the stumblingblock of his iniquity before his face, and cometh to the prophet; I the LORD will answer him that cometh according to the multitude of his idols;
 <small><sub>**BSB:**</sub></small>
 Therefore speak to them and tell them that this is what the Lord GOD says: ‘When any Israelite sets up idols in his heart and puts a wicked stumbling block before his face, and then comes to the prophet, I the LORD will answer him according to his great idolatry,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֣ן]] [[H1696G\|דַּבֵּר]][[H9014\|־]] [[H0854\|א֠וֹתָ]][[H9038\|ם]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֨]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H0376G\|אִ֣ישׁ]] [[H0376G\|אִ֣ישׁ]] [[H9006\|מִ]][[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֡ל]] [[H0834A\|אֲשֶׁר֩]] [[H5927H\|יַעֲלֶ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1544\|גִּלּוּלָ֜י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבּ֗]][[H9023\|וֹ]] [[H9002\|וּ]][[H4383\|מִכְשׁ֤וֹל]] [[H5771G\|עֲוֹנ]][[H9023\|וֹ֙]] [[H7760A\|יָשִׂים֙]] [[H5227\|נֹ֣כַח]] [[H6440H\|פָּנָ֔י]][[H9023\|ו]] [[H9001\|וּ]][[H0935G\|בָ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נָּבִ֑יא]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֗ה]] [[H6030B\|נַעֲנֵ֧יתִי]] [[H9005\|ל֦]][[H9033\|וֹ]] [[H0935G\|בָ֖א]] [[H9003\|בְּ]][[H7230\|רֹ֥ב]] [[H1544\|גִּלּוּלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic STUMBLING|STUMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.3|<< Ezekiel 14:3]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.5|Ezekiel 14:5 >>]]</td></tr></table>
 
@@ -44,6 +122,6 @@ Therefore speak to them and tell them that this is what the Lord GOD says: ‘Wh
 | idols his  |**<big>&#8207;[[H1544\|גִּלּוּלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| gi.lu.La<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.3|<< Ezekiel 14:3]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.5|Ezekiel 14:5 >>]]</td></tr></table>
 
-[^1]: with it  | **<big>[[H9034|הּ]]</big><big>[[H9003|בָ]]</big> ** | va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^1]: with it  | **<big>[[H9003|בָ]]</big><big>[[H9034|הּ]]</big> ** | va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>בָ֖ה</big></span>**
 

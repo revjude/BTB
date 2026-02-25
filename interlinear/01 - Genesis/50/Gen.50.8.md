@@ -1,8 +1,63 @@
+---
+title: Genesis 50:8
+type: Verse
+kjv: "And all the house of Joseph, and his brethren, and his father’s house: only their little ones, and their flocks, and their herds, they left in the land of Goshen."
+bsb: "along with all of Joseph’s household, and his brothers, and his father’s household. Only their children and flocks and herds were left in Goshen."
+hebrew: "וְכֹל֙ בֵּ֣ית יוֹסֵ֔ף וְאֶחָ֖יו וּבֵ֣ית אָבִ֑יו רַ֗ק טַפָּם֙ וְצֹאנָ֣ם וּבְקָרָ֔ם עָזְב֖וּ בְּאֶ֥רֶץ גֹּֽשֶׁן׃"
+pericope: "[[Gen.50.1 Mourning and Burial for Jacob|Mourning and Burial for Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H3130G]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H0001G]]"
+- "[[H7535]]"
+- "[[H2945]]"
+- "[[H9028]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H5800A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H1657G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:8**<big><big>[[Gen.50.1 Mourning and Burial for Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the house of Joseph, and his brethren, and his father’s house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.
 <small><sub>**BSB:**</sub></small>
 along with all of Joseph’s household, and his brothers, and his father’s household. Only their children and flocks and herds were left in Goshen.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹל֙]] [[H1004M\|בֵּ֣ית]] [[H3130G\|יוֹסֵ֔ף]] [[H9002\|וְ]][[H0251G\|אֶחָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H1004M\|בֵ֣ית]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H7535\|רַ֗ק]] [[H2945\|טַפָּ]][[H9028\|ם֙]] [[H9002\|וְ]][[H6629G\|צֹאנָ֣]][[H9028\|ם]] [[H9002\|וּ]][[H1241\|בְקָרָ֔]][[H9028\|ם]] [[H5800A\|עָזְב֖וּ]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H1657G\|גֹּֽשֶׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic CHILDREN|CHILDREN]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.7|<< Genesis 50:7]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.9|Genesis 50:9 >>]]</td></tr></table>
 

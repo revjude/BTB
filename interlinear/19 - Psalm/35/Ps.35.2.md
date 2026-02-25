@@ -1,8 +1,57 @@
+---
+title: Psalm 35:2
+type: Verse
+kjv: "Take hold of shield and buckler, and stand up for mine help."
+bsb: "Take up Your shield and buckler; arise and come to my aid."
+hebrew: "הַחֲזֵ֣ק מָגֵ֣ן וְצִנָּ֑ה וְ֝ק֗וּמָה בְּעֶזְרָתִֽי׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H2388H]]"
+- "[[H4043]]"
+- "[[H9002]]"
+- "[[H6793C]]"
+- "[[H6965B]]"
+- "[[H9012]]"
+- "[[H9003]]"
+- "[[H5833]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:2**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take hold of shield and buckler, and stand up for mine help.
 <small><sub>**BSB:**</sub></small>
 Take up Your shield and buckler; arise and come to my aid.
+<small><sub>**Hebrew:**</sub></small>
+[[H2388H\|הַחֲזֵ֣ק]] [[H4043\|מָגֵ֣ן]] [[H9002\|וְ]][[H6793C\|צִנָּ֑ה]] [[H9002\|וְ֝]][[H6965B\|ק֗וּמָ]][[H9012\|ה]] [[H9003\|בְּ]][[H5833\|עֶזְרָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic ENEMY|ENEMY]] • [[topic SHIELD|SHIELD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.1|<< Psalms 35:1]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.3|Psalms 35:3 >>]]</td></tr></table>
 

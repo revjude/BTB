@@ -1,10 +1,50 @@
+---
+title: Revelation 18:24
+type: Verse
+kjv: "And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth."
+bsb: "And there was found in her the blood of prophets and saints, and of all who had been slain on the earth."
+greek: "καὶ ἐν αὐτῇ αἷμα προφητῶν καὶ ἁγίων εὑρέθη καὶ πάντων τῶν ἐσφαγμένων ἐπὶ τῆς γῆς.¶"
+pericope: "[[Rev.18.21 The Doom of Babylon|The Doom of Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G0129G]]"
+- "[[G4396]]"
+- "[[G0040H]]"
+- "[[G2147]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4969]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 18:24**<big><big>[[Rev.18.21 The Doom of Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in her was found the blood of prophets, and of saints, and of all that were slain upon the earth.
 <small><sub>**BSB:**</sub></small>
 And there was found in her the blood of prophets and saints, and of all who had been slain on the earth.
-<small><sub>**Literal:**</sub></small>
-And in her [the] blood of prophets and of saints was found and of all those slain on the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.23|<< Revelation 18:23]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.1|Revelation 19:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G0129G\|αἷμα]]  [[G4396\|προφητῶν]]  [[G2532\|καὶ]]  [[G0040H\|ἁγίων]]  [[G2147\|εὑρέθη]]  [[G2532\|καὶ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G4969\|ἐσφαγμένων]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.23|<< Revelation 18:23]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.1|Revelation 19:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 18:24** is...
 > $\quad$ alluding to: [[LXX.Jer.51.49|Jer 51:49]]

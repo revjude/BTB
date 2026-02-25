@@ -1,10 +1,64 @@
+---
+title: Matthew 4:24
+type: Verse
+kjv: "And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them."
+bsb: "News about Him spread all over Syria, and people brought to Him all who were ill with various diseases, those suffering acute pain, the demon-possessed, those having seizures, and the paralyzed, and He healed them."
+greek: "Καὶ ἀπῆλθεν ἡ ἀκοὴ αὐτοῦ εἰς ὅλην τὴν Συρίαν· καὶ προσήνεγκαν αὐτῷ πάντας τοὺς κακῶς ἔχοντας, ποικίλαις νόσοις καὶ βασάνοις συνεχομένους, καὶ δαιμονιζομένους καὶ σεληνιαζομένους καὶ παραλυτικούς· καὶ ἐθεράπευσεν αὐτούς."
+pericope: "[[Matt.4.23 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic INSANITY|INSANITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PARALYSIS|PARALYSIS]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G3588]]"
+- "[[G0189]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3650]]"
+- "[[G4947]]"
+- "[[G4374]]"
+- "[[G3956]]"
+- "[[G2560]]"
+- "[[G2192]]"
+- "[[G4164]]"
+- "[[G3554]]"
+- "[[G0931]]"
+- "[[G4912]]"
+- "[[G1139]]"
+- "[[G4583]]"
+- "[[G3885]]"
+- "[[G2323]]"
+texts:
+- NKO
+---
+
 **Matthew 4:24**<big><big>[[Matt.4.23 Jesus Heals the Multitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
 <small><sub>**BSB:**</sub></small>
 News about Him spread all over Syria, and people brought to Him all who were ill with various diseases, those suffering acute pain, the demon-possessed, those having seizures, and the paralyzed, and He healed them.
-<small><sub>**Literal:**</sub></small>
-And went out the news of Him into all <the> Syria; And they brought to Him all the sick having various diseases and by pains oppressing, and those being demonised and those being epileptic and those paralytic; and He healed them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.23|<< Matthew 4:23]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.25|Matthew 4:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0565\|ἀπῆλθεν]]  [[G3588\|ἡ]]  [[G0189\|ἀκοὴ]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3650\|ὅλην]]  [[G3588\|τὴν]]  [[G4947\|Συρίαν·]]  [[G2532\|καὶ]]  [[G4374\|προσήνεγκαν]]  [[G0846\|αὐτῷ]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G2560\|κακῶς]]  [[G2192\|ἔχοντας,]]  [[G4164\|ποικίλαις]]  [[G3554\|νόσοις]]  [[G2532\|καὶ]]  [[G0931\|βασάνοις]]  [[G4912\|συνεχομένους,]]  [[G2532\|καὶ]]  [[G1139\|δαιμονιζομένους]]  [[G2532\|καὶ]]  [[G4583\|σεληνιαζομένους]]  [[G2532\|καὶ]]  [[G3885\|παραλυτικούς·]]  [[G2532\|καὶ]]  [[G2323\|ἐθεράπευσεν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic INSANITY|INSANITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PARALYSIS|PARALYSIS]] • [[topic SYRIA|SYRIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.23|<< Matthew 4:23]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.25|Matthew 4:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Job 41:24
+type: Verse
+kjv: "His heart is as firm as a stone; yea, as hard as a piece of the nether millstone."
+bsb: "His chest is as hard as a rock, as hard as a lower millstone!"
+hebrew: "לִ֭בּוֹ יָצ֣וּק כְּמוֹ־ אָ֑בֶן וְ֝יָצ֗וּק כְּפֶ֣לַח תַּחְתִּֽית׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MILL|MILL]]"
+- "[[topic MILLSTONE|MILLSTONE]]"
+strongs:
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H3332J]]"
+- "[[H3644G]]"
+- "[[H9014]]"
+- "[[H0068G]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H6400]]"
+- "[[H8482]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:24**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His heart is as firm as a stone; yea, as hard as a piece of the nether [millstone].
 <small><sub>**BSB:**</sub></small>
 His chest is as hard as a rock, as hard as a lower millstone!
+<small><sub>**Hebrew:**</sub></small>
+[[H3820A\|לִ֭בּ]][[H9023\|וֹ]] [[H3332J\|יָצ֣וּק]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H0068G\|אָ֑בֶן]] [[H9002\|וְ֝]][[H3332J\|יָצ֗וּק]] [[H9004\|כְּ]][[H6400\|פֶ֣לַח]] [[H8482\|תַּחְתִּֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MILL|MILL]] • [[topic MILLSTONE|MILLSTONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.23|<< Job 41:23]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.25|Job 41:25 >>]]</td></tr></table>
 

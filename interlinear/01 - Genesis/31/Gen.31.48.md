@@ -1,8 +1,69 @@
+---
+title: Genesis 31:48
+type: Verse
+kjv: "And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed;"
+bsb: "Then Laban declared, “This mound is a witness between you and me this day.” Therefore the place was called Galeed."
+hebrew: "וַיֹּ֣אמֶר לָבָ֔ן הַגַּ֨ל הַזֶּ֥ה עֵ֛ד בֵּינִ֥י וּבֵינְךָ֖ הַיּ֑וֹם עַל־ כֵּ֥ן קָרָֽא־ שְׁמ֖וֹ גַּלְעֵֽד׃"
+pericope: "[[Gen.31.43 Jacob’s Covenant with Laban|Jacob’s Covenant with Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GALEED|GALEED]]"
+- "[[topic JEGAR-SAHADUTHA|JEGAR-SAHADUTHA]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3837A]]"
+- "[[H9009]]"
+- "[[H1530G]]"
+- "[[H2088]]"
+- "[[H5707]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H3117G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H1567]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **Genesis 31:48**<big><big>[[Gen.31.43 Jacob’s Covenant with Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Laban said, This heap [is] a witness between me and thee this day. Therefore was the name of it called Galeed;
 <small><sub>**BSB:**</sub></small>
 Then Laban declared, “This mound is a witness between you and me this day.” Therefore the place was called Galeed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3837A\|לָבָ֔ן]] [[H9009\|הַ]][[H1530G\|גַּ֨ל]] [[H9009\|הַ]][[H2088\|זֶּ֥ה]] [[H5707\|עֵ֛ד]] [[H0996G\|בֵּינִ֥]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינְ]][[H9031\|ךָ֖]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H7121H\|קָרָֽא]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H1567\|גַּלְעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic GALEED|GALEED]] • [[topic JEGAR-SAHADUTHA|JEGAR-SAHADUTHA]] • [[topic LABAN|LABAN]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.47|<< Genesis 31:47]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.49|Genesis 31:49 >>]]</td></tr></table>
 

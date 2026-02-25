@@ -1,10 +1,69 @@
+---
+title: Acts 16:18
+type: Verse
+kjv: "And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour."
+bsb: "She continued this for many days. Eventually Paul grew so aggravated that he turned and said to the spirit, “In the name of Jesus Christ I command you to come out of her!” And the spirit left her at that very moment."
+greek: "τοῦτο δὲ ἐποίει ἐπὶ πολλὰς ἡμέρας. διαπονηθεὶς δὲ ὁ Παῦλος καὶ ἐπιστρέψας τῷ πνεύματι εἶπεν· παραγγέλλω σοι ἐν τῷ ὀνόματι Ἰησοῦ Χριστοῦ ἐξελθεῖν ἀπ᾽ αὐτῆς. καὶ ἐξῆλθεν αὐτῇ τῇ ὥρᾳ."
+pericope: "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G1909]]"
+- "[[G4183]]"
+- "[[G2250]]"
+- "[[G1278]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G2532]]"
+- "[[G1994]]"
+- "[[G4151G]]"
+- "[[G2036]]"
+- "[[G3853]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1831]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G5610]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 16:18**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour.
 <small><sub>**BSB:**</sub></small>
 She continued this for many days. Eventually Paul grew so aggravated that he turned and said to the spirit, “In the name of Jesus Christ I command you to come out of her!” And the spirit left her at that very moment.
-<small><sub>**Literal:**</sub></small>
-This then she was continuing for many days. Having been distressed then <the> Paul and having turned to the spirit he said; I command you in the name of Jesus Christ to come out from her. And it came out on [the] same <the> hour.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.17|<< Acts 16:17]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.19|Acts 16:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G4160G\|ἐποίει]]  [[G1909\|ἐπὶ]]  [[G4183\|πολλὰς]]  [[G2250\|ἡμέρας.]]  [[G1278\|διαπονηθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G2532\|καὶ]]  [[G1994\|ἐπιστρέψας]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G2036\|εἶπεν·]]  [[G3853\|παραγγέλλω]]  [[G4771\|σοι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1831\|ἐξελθεῖν]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῆς.]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G0846\|αὐτῇ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.17|<< Acts 16:17]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.19|Acts 16:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

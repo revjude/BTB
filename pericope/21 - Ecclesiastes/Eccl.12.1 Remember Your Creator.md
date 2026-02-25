@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Remember Your Creator
+type: Pericope
 pericope: "[[Eccl.12.1 Remember Your Creator|Remember Your Creator]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 12
 book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
-genre:
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 8
 verses:
 - "[[Eccl.12.1]]"
 - "[[Eccl.12.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Eccl.12.8]]"
 ---
 
-[[Eccl.12|Ecclesiastes 12:1 - Ecclesiastes 12:8]]
+<small>[[Eccl.12|Ecclesiastes 12:1-8]]</small>
 *Remember Your Creator*
 
 [[Eccl.12.1|1]] Remember now thy Creator in the days of thy youth, while the evil days come not, nor the years draw nigh, when thou shalt say, I have no pleasure in them;

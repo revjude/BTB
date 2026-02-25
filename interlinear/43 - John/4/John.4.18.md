@@ -1,10 +1,59 @@
+---
+title: John 4:18
+type: Verse
+kjv: "For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly."
+bsb: "In fact, you have had five husbands, and the man you now have is not your husband. You have spoken truthfully.”"
+jesus_said: "For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly."
+greek: "πέντε γὰρ ἄνδρας ἔσχες, καὶ νῦν ὃν ἔχεις οὐκ ἔστιν σου ἀνήρ· τοῦτο ἀληθὲς εἴρηκας.¶"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G4002]]"
+- "[[G1063]]"
+- "[[G0435H]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G3778]]"
+- "[[G0227]]"
+- "[[G2046]]"
+texts:
+- NKO
+---
+
 **John 4:18**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For thou hast had five husbands; and he whom thou now hast is not thy husband: in that saidst thou truly.
 <small><sub>**BSB:**</sub></small>
 In fact, you have had five husbands, and the man you now have is not your husband. You have spoken truthfully.”
-<small><sub>**Literal:**</sub></small>
-Five for husbands you have had, and now he whom you have not is your husband; this truly you have spoken.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.17|<< John 4:17]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.19|John 4:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4002\|πέντε]]  [[G1063\|γὰρ]]  [[G0435H\|ἄνδρας]]  [[G2192\|ἔσχες,]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G3739\|ὃν]]  [[G2192\|ἔχεις]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G4771\|σου]]  [[G0435H\|ἀνήρ·]]  [[G3778\|τοῦτο]]  [[G0227\|ἀληθὲς]]  [[G2046\|εἴρηκας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.17|<< John 4:17]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.19|John 4:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

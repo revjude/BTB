@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 9:25
+type: Verse
+kjv: "And Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen; whom he bestowed in the chariot cities, and with the king at Jerusalem."
+bsb: "Solomon had 4,000 stalls for horses and chariots, and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem."
+hebrew: "וַיְהִ֨י לִשְׁלֹמֹ֜ה אַרְבַּעַת֩ אֲלָפִ֨ים אֻֽרְי֤וֹת סוּסִים֙ וּמַרְכָּב֔וֹת וּשְׁנֵים־ עָשָׂ֥ר אֶ֖לֶף פָּרָשִׁ֑ים וַיַּנִּיחֵם֙ בְּעָרֵ֣י הָרֶ֔כֶב וְעִם־ הַמֶּ֖לֶךְ בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.9.13 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic KING|KING]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H0723]]"
+- "[[H5483M]]"
+- "[[H9002]]"
+- "[[H4818]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H6571B]]"
+- "[[H5117]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H5973A]]"
+- "[[H4428G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:25**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen; whom he bestowed in the chariot cities, and with the king at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Solomon had 4,000 stalls for horses and chariots, and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֜ה]] [[H0702\|אַרְבַּעַת֩]] [[H0505G\|אֲלָפִ֨ים]] [[H0723\|אֻֽרְי֤וֹת]] [[H5483M\|סוּסִים֙]] [[H9002\|וּ]][[H4818\|מַרְכָּב֔וֹת]] [[H9002\|וּ]][[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H0505G\|אֶ֖לֶף]] [[H6571B\|פָּרָשִׁ֑ים]] [[H9001\|וַ]][[H5117\|יַּנִּיחֵ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H9009\|הָ]][[H7393G\|רֶ֔כֶב]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVALRY|CAVALRY]] • [[topic CHARIOT|CHARIOT]] • [[topic CITIES|CITIES]] • [[topic HORSE|HORSE]] • [[topic KING|KING]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.24|<< 2 Chronicles 9:24]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.26|2 Chronicles 9:26 >>]]</td></tr></table>
 

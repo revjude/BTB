@@ -1,8 +1,76 @@
+---
+title: Judges 16:30
+type: Verse
+kjv: "And Samson said, Let me die with the Philistines. And he bowed himself with all his might; and the house fell upon the lords, and upon all the people that were therein. So the dead which he slew at his death were more than they which he slew in his life."
+bsb: "Samson said, “Let me die with the Philistines.” Then he pushed with all his might, and the temple fell on the lords and all the people in it. So in his death he killed more than he had killed in his life."
+hebrew: "וַיֹּ֣אמֶר שִׁמְשׁ֗וֹן תָּמ֣וֹת נַפְשִׁי֮ עִם־ פְּלִשְׁתִּים֒ וַיֵּ֣ט בְּכֹ֔חַ וַיִּפֹּ֤ל הַבַּ֙יִת֙ עַל־ הַסְּרָנִ֔ים וְעַל־ כָּל־ הָעָ֖ם אֲשֶׁר־ בּ֑וֹ וַיִּהְי֤וּ הַמֵּתִים֙ אֲשֶׁ֣ר הֵמִ֣ית בְּמוֹת֔וֹ רַבִּ֕ים מֵאֲשֶׁ֥ר הֵמִ֖ית בְּחַיָּֽיו׃"
+pericope: "[[Judg.16.23 Samson’s Vengeance and Death|Samson’s Vengeance and Death]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GAZA|GAZA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic SUICIDE|SUICIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8123]]"
+- "[[H4191]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H6430G]]"
+- "[[H5186]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H5307G]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H5921A]]"
+- "[[H5633A]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H4194]]"
+- "[[H9023]]"
+- "[[H7227A]]"
+- "[[H9006]]"
+- "[[H0834C]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:30**<big><big>[[Judg.16.23 Samson’s Vengeance and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Samson said, Let me die with the Philistines. And he bowed himself with [all his] might; and the house fell upon the lords, and upon all the people that [were] therein. So the dead which he slew at his death were more than [they] which he slew in his life.
 <small><sub>**BSB:**</sub></small>
 Samson said, “Let me die with the Philistines.” Then he pushed with all his might, and the temple fell on the lords and all the people in it. So in his death he killed more than he had killed in his life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H8123\|שִׁמְשׁ֗וֹן]] [[H4191\|תָּמ֣וֹת]] [[H5315I\|נַפְשִׁ]][[H9020\|י֮]] [[H5973A\|עִם]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּים֒]] [[H9001\|וַ]][[H5186\|יֵּ֣ט]] [[H9003\|בְּ]][[H3581B\|כֹ֔חַ]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֤ל]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5633A\|סְּרָנִ֔ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H1961\|יִּהְי֤וּ]] [[H9009\|הַ]][[H4191\|מֵּתִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H4191\|הֵמִ֣ית]] [[H9003\|בְּ]][[H4194\|מוֹת֔]][[H9023\|וֹ]] [[H7227A\|רַבִּ֕ים]] [[H9006\|מֵ]][[H0834C\|אֲשֶׁ֥ר]] [[H4191\|הֵמִ֖ית]] [[H9003\|בְּ]][[H2416E\|חַיָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAZA|GAZA]] • [[topic MIRACLES|MIRACLES]] • [[topic PHILISTINES|PHILISTINES]] • [[topic PRAYER|PRAYER]] • [[topic REVENGE|REVENGE]] • [[topic SAMSON|SAMSON]] • [[topic SUICIDE|SUICIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.29|<< Judges 16:29]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.31|Judges 16:31 >>]]</td></tr></table>
 

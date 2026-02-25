@@ -1,6 +1,64 @@
+---
+title: LXX Genesis 41:18
+type: Verse
+lxx: "And as if from out of the river ascended seven oxen, good to the sight and choice in the flesh, and they fed at the reed-grass."
+greek: "και ώσπερ εκ του ποταμού ανέβαινον επτά βόες καλαί τω είδει και εκλεκταί ταις σαρξί και ενέμοντο εν τω άχι"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G5618]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4215]]"
+- "[[G0305]]"
+- "[[G2033]]"
+- "[[G1016]]"
+- "[[G2570]]"
+- "[[G3588]]"
+- "[[G1491]]"
+- "[[G2532]]"
+- "[[G1588]]"
+- "[[G3588]]"
+- "[[G4561]]"
+- "[[G2532]]"
+- "[[G8385]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G6636]]"
+---
+
 **LXX Genesis 41:18** 
 <small><sub>**LXX:**</sub></small>
 And as if from out of the river ascended seven oxen, good to the sight and choice in the flesh, and they fed at the reed-grass. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G5618\|ώσπερ]] [[G1537\|εκ]] [[G3588\|του]] [[G4215\|ποταμού]] [[G0305\|ανέβαινον]] [[G2033\|επτά]] [[G1016\|βόες]] [[G2570\|καλαί]] [[G3588\|τω]] [[G1491\|είδει]] [[G2532\|και]] [[G1588\|εκλεκταί]] [[G3588\|ταις]] [[G4561\|σαρξί]] [[G2532\|και]] [[G8385\|ενέμοντο]] [[G1722\|εν]] [[G3588\|τω]] [[G6636\|άχι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.41.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.17|<< Genesis 41:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.19|Genesis 41:19 >>]]</td></tr></table>
 
@@ -26,6 +84,6 @@ And as if from out of the river ascended seven oxen, good to the sight and choic
 | at | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|τω]]</big>** |
 | reed-grass. | **<big>[[G6636\|άχι]]</big>** |
-[[Gen.41.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.17|<< Genesis 41:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.19|Genesis 41:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.41.17|<< Genesis 41:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.41.19|Genesis 41:19 >>]]</td></tr></table>
 
 

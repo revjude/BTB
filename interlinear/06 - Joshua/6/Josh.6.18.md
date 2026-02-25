@@ -1,8 +1,62 @@
+---
+title: Joshua 6:18
+type: Verse
+kjv: "And ye, in any wise keep yourselves from the accursed thing, lest ye make yourselves accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it."
+bsb: "But keep away from the things devoted to destruction, lest you yourself be set apart for destruction. If you take any of these, you will set apart the camp of Israel for destruction and bring disaster upon it."
+hebrew: "וְרַק־ אַתֶּם֙ שִׁמְר֣וּ מִן־ הַחֵ֔רֶם פֶּֽן־ תַּחֲרִ֖ימוּ וּלְקַחְתֶּ֣ם מִן־ הַחֵ֑רֶם וְשַׂמְתֶּ֞ם אֶת־ מַחֲנֵ֤ה יִשְׂרָאֵל֙ לְחֵ֔רֶם וַעֲכַרְתֶּ֖ם אוֹתֽוֹ׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic RAHAB|RAHAB]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H7535]]"
+- "[[H9014]]"
+- "[[H0859D]]"
+- "[[H8104H]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H2764A]]"
+- "[[H6435]]"
+- "[[H2763A]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H4264]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H5916]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:18**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye, in any wise keep [yourselves] from the accursed thing, lest ye make [yourselves] accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it.
 <small><sub>**BSB:**</sub></small>
 But keep away from the things devoted to destruction, lest you yourself be set apart for destruction. If you take any of these, you will set apart the camp of Israel for destruction and bring disaster upon it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7535\|רַק]][[H9014\|־]] [[H0859D\|אַתֶּם֙]] [[H8104H\|שִׁמְר֣וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2764A\|חֵ֔רֶם]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H2763A\|תַּחֲרִ֖ימוּ]] [[H9001\|וּ]][[H3947G\|לְקַחְתֶּ֣ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2764A\|חֵ֑רֶם]] [[H9001\|וְ]][[H7760A\|שַׂמְתֶּ֞ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4264\|מַחֲנֵ֤ה]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לְ]][[H2764A\|חֵ֔רֶם]] [[H9001\|וַ]][[H5916\|עֲכַרְתֶּ֖ם]] [[H0853\|אוֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic RAHAB|RAHAB]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.17|<< Joshua 6:17]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.19|Joshua 6:19 >>]]</td></tr></table>
 

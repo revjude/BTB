@@ -1,8 +1,75 @@
+---
+title: Jeremiah 30:10
+type: Verse
+kjv: "Therefore fear thou not, O my servant Jacob, saith the LORD; neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make him afraid."
+bsb: "As for you, O Jacob My servant, do not be afraid, declares the LORD, and do not be dismayed, O Israel. For I will surely save you out of a distant place, your descendants from the land of their captivity! Jacob will return to quiet and ease, with no one to make him afraid."
+hebrew: "וְאַתָּ֡ה אַל־ תִּירָא֩ עַבְדִּ֨י יַעֲקֹ֤ב נְאֻם־ יְהֹוָה֙ וְאַל־ תֵּחַ֣ת יִשְׂרָאֵ֔ל כִּ֠י הִנְנִ֤י מוֹשִֽׁיעֲךָ֙ מֵֽרָח֔וֹק וְאֶֽת־ זַרְעֲךָ֖ מֵאֶ֣רֶץ שִׁבְיָ֑ם וְשָׁ֧ב יַעֲקֹ֛ב וְשָׁקַ֥ט וְשַׁאֲנַ֖ן וְאֵ֥ין מַחֲרִֽיד׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3290]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H2865]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H3467]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H0853]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H0776G]]"
+- "[[H7628A]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H8252]]"
+- "[[H7599]]"
+- "[[H0369]]"
+- "[[H2729]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:10**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore fear thou not, O my servant Jacob, saith the LORD; neither be dismayed, O Israel: for, lo, I will save thee from afar, and thy seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make [him] afraid.
 <small><sub>**BSB:**</sub></small>
 As for you, O Jacob My servant, do not be afraid, declares the LORD, and do not be dismayed, O Israel. For I will surely save you out of a distant place, your descendants from the land of their captivity! Jacob will return to quiet and ease, with no one to make him afraid.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֡ה]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָא֩]] [[H5650\|עַבְדִּ֨]][[H9020\|י]] [[H3290\|יַעֲקֹ֤ב]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהֹוָה֙]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2865\|תֵּחַ֣ת]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3588A\|כִּ֠י]] [[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H3467\|מוֹשִֽׁיעֲ]][[H9031\|ךָ֙]] [[H9006\|מֵֽ]][[H7350\|רָח֔וֹק]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֖]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H7628A\|שִׁבְיָ֑]][[H9028\|ם]] [[H9001\|וְ]][[H7725G\|שָׁ֧ב]] [[H3290\|יַעֲקֹ֛ב]] [[H9001\|וְ]][[H8252\|שָׁקַ֥ט]] [[H9001\|וְ]][[H7599\|שַׁאֲנַ֖ן]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H2729\|מַחֲרִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.9|<< Jeremiah 30:9]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.11|Jeremiah 30:11 >>]]</td></tr></table>
 

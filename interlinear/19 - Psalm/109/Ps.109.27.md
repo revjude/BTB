@@ -1,8 +1,56 @@
+---
+title: Psalm 109:27
+type: Verse
+kjv: "That they may know that this is thy hand; that thou, LORD, hast done it."
+bsb: "Let them know that this is Your hand, that You, O LORD, have done it."
+hebrew: "וְֽ֭יֵדְעוּ כִּי־ יָ֣דְךָ זֹּ֑את אַתָּ֖ה יְהוָ֣ה עֲשִׂיתָֽהּ׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H2063]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:27**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may know that this [is] thy hand; [that] thou, LORD, hast done it.
 <small><sub>**BSB:**</sub></small>
 Let them know that this is Your hand, that You, O LORD, have done it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ֭]][[H3045\|יֵדְעוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3027G\|יָ֣דְ]][[H9021\|ךָ]] [[H2063\|זֹּ֑את]] [[H0859A\|אַתָּ֖ה]] [[H3068G\|יְהוָ֣ה]] [[H6213A\|עֲשִׂיתָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.26|<< Psalms 109:26]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.28|Psalms 109:28 >>]]</td></tr></table>
 

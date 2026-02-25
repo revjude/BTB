@@ -1,10 +1,62 @@
+---
+title: Romans 12:19
+type: Verse
+kjv: "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord."
+bsb: "Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.”"
+greek: "μὴ ἑαυτοὺς ἐκδικοῦντες, ἀγαπητοί, ἀλλὰ δότε τόπον τῇ ὀργῇ· γέγραπται γάρ· ἐμοὶ ἐκδίκησις, ἐγὼ ἀνταποδώσω, λέγει κύριος."
+pericope: "[[Rom.12.14 Forgiveness|Forgiveness]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 12
+book/chapter: "[[Rom.12|Romans 12]]"
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic VENGEANCE|VENGEANCE]]"
+strongs:
+- "[[G3361]]"
+- "[[G1438]]"
+- "[[G1556]]"
+- "[[G0027]]"
+- "[[G0235]]"
+- "[[G1325]]"
+- "[[G5117]]"
+- "[[G3588]]"
+- "[[G3709]]"
+- "[[G1125]]"
+- "[[G1063]]"
+- "[[G1473]]"
+- "[[G1557]]"
+- "[[G0467]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Romans 12:19**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Dearly beloved, avenge not yourselves, but [rather] give place unto wrath: for it is written, Vengeance [is] mine; I will repay, saith the Lord.
 <small><sub>**BSB:**</sub></small>
 Do not avenge yourselves, beloved, but leave room for God’s wrath. For it is written: “Vengeance is Mine; I will repay, says the Lord.”
-<small><sub>**Literal:**</sub></small>
-never yourselves avenging, beloved, instead do give place <the> to wrath; it has been written for: Mine [is] vengeance, I myself will repay, says [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.18|<< Romans 12:18]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.20|Romans 12:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G1438\|ἑαυτοὺς]]  [[G1556\|ἐκδικοῦντες,]]  [[G0027\|ἀγαπητοί,]]  [[G0235\|ἀλλὰ]]  [[G1325\|δότε]]  [[G5117\|τόπον]]  [[G3588\|τῇ]]  [[G3709\|ὀργῇ·]]  [[G1125\|γέγραπται]]  [[G1063\|γάρ·]]  [[G1473\|ἐμοὶ]]  [[G1557\|ἐκδίκησις,]]  [[G1473\|ἐγὼ]]  [[G0467\|ἀνταποδώσω,]]  [[G3004G\|λέγει]]  [[G2962G\|κύριος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic MALICE|MALICE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic RETALIATION|RETALIATION]] • [[topic REVENGE|REVENGE]] • [[topic VENGEANCE|VENGEANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.18|<< Romans 12:18]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.20|Romans 12:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 12:19** is...
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]] ☩ [[LXX.Deut.32.35|Deut 32:35]]

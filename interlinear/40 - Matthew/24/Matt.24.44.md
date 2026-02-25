@@ -1,10 +1,59 @@
+---
+title: Matthew 24:44
+type: Verse
+kjv: "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh."
+bsb: "For this reason, you also must be ready, because the Son of Man will come at an hour you do not expect."
+jesus_said: "Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh."
+greek: "διὰ τοῦτο καὶ ὑμεῖς γίνεσθε ἕτοιμοι· ὅτι ᾗ οὐ δοκεῖτε ὥρᾳ, ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεται.¶"
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1096]]"
+- "[[G2092]]"
+- "[[G3754H]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1380]]"
+- "[[G5610]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2064]]"
+texts:
+- NKO
+---
+
 **Matthew 24:44**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore be ye also ready: for in such an hour as ye think not the Son of man cometh.
 <small><sub>**BSB:**</sub></small>
 For this reason, you also must be ready, because the Son of Man will come at an hour you do not expect.
-<small><sub>**Literal:**</sub></small>
-Because of this also you yourselves do be ready; for in that not you expect hour, the Son <the> of Man comes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.43|<< Matthew 24:43]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.45|Matthew 24:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G1096\|γίνεσθε]]  [[G2092\|ἕτοιμοι·]]  [[G3754H\|ὅτι]]  [[G3739\|ᾗ]]  [[G3756\|οὐ]]  [[G1380\|δοκεῖτε]]  [[G5610\|ὥρᾳ,]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2064\|ἔρχεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.43|<< Matthew 24:43]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.45|Matthew 24:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,67 @@
+---
+title: Zechariah 3:2
+type: Verse
+kjv: "And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: is not this a brand plucked out of the fire?"
+bsb: "And the LORD said to Satan: “The LORD rebukes you, Satan! Indeed, the LORD, who has chosen Jerusalem, rebukes you! Is not this man a firebrand snatched from the fire?”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ הַשָּׂטָ֗ן יִגְעַ֨ר יְהוָ֤ה בְּךָ֙ הַשָּׂטָ֔ן וְיִגְעַ֤ר יְהוָה֙ בְּךָ֔ הַבֹּחֵ֖ר בִּירֽוּשָׁלִָ֑ם הֲל֧וֹא זֶ֦ה א֖וּד מֻצָּ֥ל מֵאֵֽשׁ׃"
+pericope: "[[Zech.3.1 The Vision of Joshua the High Priest|The Vision of Joshua the High Priest]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 3
+book/chapter: "[[Zech.3|Zechariah 3]]"
+chronological_order: 859
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FIREBRAND|FIREBRAND]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7854]]"
+- "[[H1605]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H0977]]"
+- "[[H3389]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H2088]]"
+- "[[H0181]]"
+- "[[H5337]]"
+- "[[H9006]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 3:2**<big><big>[[Zech.3.1 The Vision of Joshua the High Priest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Satan, The LORD rebuke thee, O Satan; even the LORD that hath chosen Jerusalem rebuke thee: [is] not this a brand plucked out of the fire?
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Satan: “The LORD rebukes you, Satan! Indeed, the LORD, who has chosen Jerusalem, rebukes you! Is not this man a firebrand snatched from the fire?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7854\|שָּׂטָ֗ן]] [[H1605\|יִגְעַ֨ר]] [[H3068G\|יְהוָ֤ה]] [[H9003\|בְּ]][[H9031\|ךָ֙]] [[H9009\|הַ]][[H7854\|שָּׂטָ֔ן]] [[H9002\|וְ]][[H1605\|יִגְעַ֤ר]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H9031\|ךָ֔]] [[H9009\|הַ]][[H0977\|בֹּחֵ֖ר]] [[H9003\|בִּ]][[H3389\|ירֽוּשָׁלִָ֑ם]] [[H9008\|הֲ]][[H3808\|ל֧וֹא]] [[H2088\|זֶ֦ה]] [[H0181\|א֖וּד]] [[H5337\|מֻצָּ֥ל]] [[H9006\|מֵ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FIREBRAND|FIREBRAND]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SATAN|SATAN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3.1|<< Zechariah 3:1]]</td><td align="center" style="border:none;">[[Zech.3|Zechariah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3.3|Zechariah 3:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

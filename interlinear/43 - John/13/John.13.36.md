@@ -1,10 +1,63 @@
+---
+title: John 13:36
+type: Verse
+kjv: "Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, Whither I go, thou canst not follow me now; but thou shalt follow me afterwards."
+bsb: "“Lord, where are You going?” Simon Peter asked. Jesus answered, “Where I am going, you cannot follow Me now, but you will follow later.”"
+jesus_said: "Whither I go, thou canst not follow me now; but thou shalt follow me afterwards."
+greek: "λέγει αὐτῷ Σίμων Πέτρος· κύριε, ποῦ ὑπάγεις; ἀπεκρίθη αὐτῷ ὁ Ἰησοῦς· ὅπου ὑπάγω οὐ δύνασαί μοι νῦν ἀκολουθῆσαι· ἀκολουθήσεις δὲ ὕστερον μοι."
+pericope: "[[John.13.36 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2962G]]"
+- "[[G4226]]"
+- "[[G5217]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3699]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G3165]]"
+- "[[G3568]]"
+- "[[G0190]]"
+- "[[G1161]]"
+- "[[G5306]]"
+texts:
+- NKO
+- k
+---
+
 **John 13:36**<big><big>[[John.13.36 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Simon Peter said unto him, Lord, whither goest thou? Jesus answered him, Whither I go, thou canst not follow me now; but thou shalt follow me afterwards.
 <small><sub>**BSB:**</sub></small>
 “Lord, where are You going?” Simon Peter asked. Jesus answered, “Where I am going, you cannot follow Me now, but you will follow later.”
-<small><sub>**Literal:**</sub></small>
-Says to Him Simon Peter; Lord, where go You? Answered to him <the> Jesus; Where I go not you are able Me now to follow; you will follow however afterward to me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.35|<< John 13:35]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.37|John 13:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος·]]  [[G2962G\|κύριε,]]  [[G4226\|ποῦ]]  [[G5217\|ὑπάγεις;]]  [[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3699\|ὅπου]]  [[G5217\|ὑπάγω]]  [[G3756\|οὐ]]  [[G1410\|δύνασαί]]  [[G3165\|μοι]]  [[G3568\|νῦν]]  [[G0190\|ἀκολουθῆσαι·]]  [[G0190\|ἀκολουθήσεις]]  [[G1161\|δὲ]]  [[G5306\|ὕστερον]]  [[G3165\|μοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.35|<< John 13:35]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.37|John 13:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

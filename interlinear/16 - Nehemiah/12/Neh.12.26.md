@@ -1,8 +1,59 @@
+---
+title: Nehemiah 12:26
+type: Verse
+kjv: "These were in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe."
+bsb: "They served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor and Ezra the priest and scribe."
+hebrew: "אֵ֕לֶּה בִּימֵ֛י יוֹיָקִ֥ים בֶּן־ יֵשׁ֖וּעַ בֶּן־ יוֹצָדָ֑ק וּבִימֵי֙ נְחֶמְיָ֣ה הַפֶּחָ֔ה וְעֶזְרָ֥א הַכֹּהֵ֖ן הַסּוֹפֵֽר׃ פ"
+pericope: "[[Neh.12.1 The Priests and Levites Who Returned|The Priests and Levites Who Returned]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 12
+book/chapter: "[[Neh.12|Nehemiah 12]]"
+chronological_order: 924
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic JEHOZADAK|JEHOZADAK]]"
+- "[[topic JOIAKIM|JOIAKIM]]"
+strongs:
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3113]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3442P]]"
+- "[[H3136A]]"
+- "[[H9002]]"
+- "[[H5166H]]"
+- "[[H9009]]"
+- "[[H6346]]"
+- "[[H5830G]]"
+- "[[H3548]]"
+- "[[H5608B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 12:26**<big><big>[[Neh.12.1 The Priests and Levites Who Returned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.
 <small><sub>**BSB:**</sub></small>
 They served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor and Ezra the priest and scribe.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֕לֶּה]] [[H9003\|בִּ]][[H3117G\|ימֵ֛י]] [[H3113\|יוֹיָקִ֥ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3442P\|יֵשׁ֖וּעַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3136A\|יוֹצָדָ֑ק]] [[H9002\|וּ]][[H9003\|בִ]][[H3117G\|ימֵי֙]] [[H5166H\|נְחֶמְיָ֣ה]] [[H9009\|הַ]][[H6346\|פֶּחָ֔ה]] [[H9002\|וְ]][[H5830G\|עֶזְרָ֥א]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9009\|הַ]][[H5608B\|סּוֹפֵֽר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOZADAK|JEHOZADAK]] • [[topic JOIAKIM|JOIAKIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.12.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.25|<< Nehemiah 12:25]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.27|Nehemiah 12:27 >>]]</td></tr></table>
 
@@ -20,7 +71,7 @@ They served in the days of Joiakim son of Jeshua, the son of Jozadak, and in the
 | the governor  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6346\|פֶּחָ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> pe.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Ezra  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5830G\|עֶזְרָ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ez.Ra'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the priest  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3548\|כֹּהֵ֖ן]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ko.Hen<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the scribe  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5608B\|סּוֹפֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> so.Fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the scribe  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5608B\|סּוֹפֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> so.Fer<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.12.25|<< Nehemiah 12:25]]</td><td align="center" style="border:none;">[[Neh.12|Nehemiah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.12.27|Nehemiah 12:27 >>]]</td></tr></table>
 
 

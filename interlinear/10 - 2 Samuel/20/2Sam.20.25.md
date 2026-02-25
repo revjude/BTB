@@ -1,8 +1,56 @@
+---
+title: 2 Samuel 20:25
+type: Verse
+kjv: "And Sheva was scribe: and Zadok and Abiathar were the priests:"
+bsb: "Sheva was the scribe; Zadok and Abiathar were priests;"
+hebrew: "וּשְׁוָ֖א סֹפֵ֑ר וְצָד֥וֹק וְאֶבְיָתָ֖ר כֹּהֲנִֽים׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic CABINET|CABINET]]"
+- "[[topic KING|KING]]"
+- "[[topic OFFICER|OFFICER]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9002]]"
+- "[[H7864]]"
+- "[[H7724H]]"
+- "[[H5608B]]"
+- "[[H6659G]]"
+- "[[H0054]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **2 Samuel 20:25**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sheva [was] scribe: and Zadok and Abiathar [were] the priests:
 <small><sub>**BSB:**</sub></small>
 Sheva was the scribe; Zadok and Abiathar were priests;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7724H\|שְׁוָ֖א]] [[H5608B\|סֹפֵ֑ר]] [[H9002\|וְ]][[H6659G\|צָד֥וֹק]] [[H9002\|וְ]][[H0054\|אֶבְיָתָ֖ר]] [[H3548\|כֹּהֲנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic CABINET|CABINET]] • [[topic KING|KING]] • [[topic OFFICER|OFFICER]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SERAIAH|SERAIAH]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.24|<< 2 Samuel 20:24]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.26|2 Samuel 20:26 >>]]</td></tr></table>
 
@@ -15,7 +63,7 @@ Sheva was the scribe; Zadok and Abiathar were priests;
 | [were] priests  |**<big>&#8207;[[H3548\|כֹּהֲנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ko.ha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.24|<< 2 Samuel 20:24]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.26|2 Samuel 20:26 >>]]</td></tr></table>
 
-[^1]: and Sheya  | **<big>[[H7864|שֵׁיָא]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.ya'<small><sup>[[HNpm]]</sup></small> | K
-[^2]: and Sheya  | **<big>[[H7864|שֵׁיָא]]</big><big>[[H9002|וְ]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.ya'<small><sup>[[HNpm]]</sup></small> | K
+[^1]: and Sheya  | **<big>[[H9002|וְ]]</big><big>[[H7864|שֵׁיָא]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.ya'<small><sup>[[HNpm]]</sup></small> | K
+[^2]: and Sheya  | **<big>[[H9002|וְ]]</big><big>[[H7864|שֵׁיָא]]</big> ** | u.<small><sup>[[HC]]</sup></small> she.ya'<small><sup>[[HNpm]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וּשְׁיָ֖א</big></span>**
 

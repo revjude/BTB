@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 14:6
+type: Verse
+kjv: "And every beast that parteth the hoof, and cleaveth the cleft into two claws, and cheweth the cud among the beasts, that ye shall eat."
+bsb: "You may eat any animal that has a split hoof divided in two and that chews the cud."
+hebrew: "וְכָל־ בְּהֵמָ֞ה מַפְרֶ֣סֶת פַּרְסָ֗ה וְשֹׁסַ֤עַת שֶׁ֙סַע֙ שְׁתֵּ֣י פְרָס֔וֹת מַעֲלַ֥ת גֵּרָ֖ה בַּבְּהֵמָ֑ה אֹתָ֖הּ תֹּאכֵֽלוּ׃"
+pericope: "[[Deut.14.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CUD|CUD]]"
+- "[[topic HOOF|HOOF]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0929]]"
+- "[[H6536]]"
+- "[[H6541]]"
+- "[[H8156]]"
+- "[[H8157]]"
+- "[[H8147]]"
+- "[[H5927M]]"
+- "[[H1625]]"
+- "[[H9003]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:6**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every beast that parteth the hoof, and cleaveth the cleft into two claws, [and] cheweth the cud among the beasts, that ye shall eat.
 <small><sub>**BSB:**</sub></small>
 You may eat any animal that has a split hoof divided in two and that chews the cud.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0929\|בְּהֵמָ֞ה]] [[H6536\|מַפְרֶ֣סֶת]] [[H6541\|פַּרְסָ֗ה]] [[H9002\|וְ]][[H8156\|שֹׁסַ֤עַת]] [[H8157\|שֶׁ֙סַע֙]] [[H8147\|שְׁתֵּ֣י]] [[H6541\|פְרָס֔וֹת]] [[H5927M\|מַעֲלַ֥ת]] [[H1625\|גֵּרָ֖ה]] [[H9003\|בַּ]][[H0929\|בְּהֵמָ֑ה]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H0398\|תֹּאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CUD|CUD]] • [[topic HOOF|HOOF]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.5|<< Deuteronomy 14:5]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.7|Deuteronomy 14:7 >>]]</td></tr></table>
 

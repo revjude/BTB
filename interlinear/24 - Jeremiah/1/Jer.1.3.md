@@ -1,8 +1,68 @@
+---
+title: Jeremiah 1:3
+type: Verse
+kjv: "It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month."
+bsb: "and through the days of Jehoiakim son of Josiah king of Judah, until the fifth month of the eleventh year of Zedekiah son of Josiah king of Judah, when the people of Jerusalem went into exile."
+hebrew: "וַיְהִ֗י בִּימֵ֨י יְהוֹיָקִ֤ים בֶּן־ יֹאשִׁיָּ֙הוּ֙ מֶ֣לֶךְ יְהוּדָ֔ה עַד־ תֹּם֙ עַשְׁתֵּ֣י עֶשְׂרֵ֣ה שָׁנָ֔ה לְצִדְקִיָּ֥הוּ בֶן־ יֹאשִׁיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה עַד־ גְּל֥וֹת יְרוּשָׁלִַ֖ם בַּחֹ֥דֶשׁ הַחֲמִישִֽׁי׃ ס"
+pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3079]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2977G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H6249]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H6667H]]"
+- "[[H1540K]]"
+- "[[H3389]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 1:3**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.
 <small><sub>**BSB:**</sub></small>
 and through the days of Jehoiakim son of Josiah king of Judah, until the fifth month of the eleventh year of Zedekiah son of Josiah king of Judah, when the people of Jerusalem went into exile.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בִּ]][[H3117G\|ימֵ֨י]] [[H3079\|יְהוֹיָקִ֤ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּ֙הוּ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H8552\|תֹּם֙]] [[H6249\|עַשְׁתֵּ֣י]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לְ]][[H6667H\|צִדְקִיָּ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H2977G\|יֹאשִׁיָּ֖הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H5704\|עַד]][[H9014\|־]] [[H1540K\|גְּל֥וֹת]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9003\|בַּ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הַ]][[H2549\|חֲמִישִֽׁי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.2|<< Jeremiah 1:2]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.4|Jeremiah 1:4 >>]]</td></tr></table>
 
@@ -29,7 +89,7 @@ and through the days of Jehoiakim son of Josiah king of Judah, until the fifth m
 | went into exile  |**<big>&#8207;[[H1540K\|גְּל֥וֹת]]&#8207; </big>**| ge.Lot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֖ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the month  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H2320G\|חֹ֥דֶשׁ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Cho.desh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> fifth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2549\|חֲמִישִֽׁי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.mi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> fifth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2549\|חֲמִישִֽׁי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> cha.mi.Shi<small><sup>[[HAomsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.2|<< Jeremiah 1:2]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.4|Jeremiah 1:4 >>]]</td></tr></table>
 
 

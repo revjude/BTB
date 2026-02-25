@@ -1,8 +1,69 @@
+---
+title: Leviticus 26:32
+type: Verse
+kjv: "And I will bring the land into desolation: and your enemies which dwell therein shall be astonished at it."
+bsb: "And I will lay waste the land, so that your enemies who dwell in it will be appalled."
+hebrew: "וַהֲשִׁמֹּתִ֥י אֲנִ֖י אֶת־ הָאָ֑רֶץ וְשָֽׁמְמ֤וּ עָלֶ֙יהָ֙ אֹֽיְבֵיכֶ֔ם הַיֹּשְׁבִ֖ים בָּֽהּ׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H8074G]]"
+- "[[H0589]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8074H]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H0341]]"
+- "[[H9026]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:32**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring the land into desolation: and your enemies which dwell therein shall be astonished at it.
 <small><sub>**BSB:**</sub></small>
 And I will lay waste the land, so that your enemies who dwell in it will be appalled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8074G\|הֲשִׁמֹּתִ֥י]] [[H0589\|אֲנִ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H8074H\|שָֽׁמְמ֤וּ]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H0341\|אֹֽיְבֵי]][[H9026\|כֶ֔ם]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֖ים]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.31|<< Leviticus 26:31]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.33|Leviticus 26:33 >>]]</td></tr></table>
 

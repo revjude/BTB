@@ -1,10 +1,53 @@
+---
+title: Hebrews 11:18
+type: Verse
+kjv: "Of whom it was said, That in Isaac shall thy seed be called:"
+bsb: "even though God had said to him, “Through Isaac your offspring will be reckoned.”"
+greek: "πρὸς ὃν ἐλαλήθη ὅτι ἐν Ἰσαὰκ κληθήσεταί σοι σπέρμα·"
+pericope: "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G4314]]"
+- "[[G3739]]"
+- "[[G2980]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G2464]]"
+- "[[G2564H]]"
+- "[[G4771]]"
+- "[[G4690G]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:18**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Of whom it was said, That in Isaac shall thy seed be called:
 <small><sub>**BSB:**</sub></small>
 even though God had said to him, “Through Isaac your offspring will be reckoned.”
-<small><sub>**Literal:**</sub></small>
-as to whom it was said that In Isaac will be reckoned your offspring;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.17|<< Hebrews 11:17]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.19|Hebrews 11:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4314\|πρὸς]]  [[G3739\|ὃν]]  [[G2980\|ἐλαλήθη]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G2464\|Ἰσαὰκ]]  [[G2564H\|κληθήσεταί]]  [[G4771\|σοι]]  [[G4690G\|σπέρμα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.17|<< Hebrews 11:17]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.19|Hebrews 11:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:18** is...
 > $\quad$ referencing: [[LXX.Gen.21.12|Gen 21:12]]

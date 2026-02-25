@@ -1,10 +1,69 @@
+---
+title: Acts 5:4
+type: Verse
+kjv: "Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God."
+bsb: "Did it not belong to you before it was sold? And after it was sold, was it not at your disposal? How could you conceive such a deed in your heart? You have not lied to men, but to God!”"
+greek: "οὐχὶ μένον σοὶ ἔμενεν καὶ πραθὲν ἐν τῇ σῇ ἐξουσίᾳ ὑπῆρχεν; τί ὅτι ἔθου ἐν τῇ καρδίᾳ σου τὸ πρᾶγμα τοῦτο; οὐκ ἐψεύσω ἀνθρώποις ἀλλὰ τῷ θεῷ."
+pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAPPHIRA|SAPPHIRA]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3780]]"
+- "[[G3306]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G4097]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1849]]"
+- "[[G5225]]"
+- "[[G5101]]"
+- "[[G3754H]]"
+- "[[G5087]]"
+- "[[G2588]]"
+- "[[G4229]]"
+- "[[G3778]]"
+- "[[G3756]]"
+- "[[G5574]]"
+- "[[G0444]]"
+- "[[G0235]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 5:4**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whiles it remained, was it not thine own? and after it was sold, was it not in thine own power? why hast thou conceived this thing in thine heart? thou hast not lied unto men, but unto God.
 <small><sub>**BSB:**</sub></small>
 Did it not belong to you before it was sold? And after it was sold, was it not at your disposal? How could you conceive such a deed in your heart? You have not lied to men, but to God!”
-<small><sub>**Literal:**</sub></small>
-Surely remaining to you it was remaining And having been sold in the own authority it was? Why for did you purpose in the heart of you <the> deed this? Not you have lied to men but <the> to God!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.3|<< Acts 5:3]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.5|Acts 5:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3780\|οὐχὶ]]  [[G3306\|μένον]]  [[G4771\|σοὶ]]  [[G3306\|ἔμενεν]]  [[G2532\|καὶ]]  [[G4097\|πραθὲν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4771\|σῇ]]  [[G1849\|ἐξουσίᾳ]]  [[G5225\|ὑπῆρχεν;]]  [[G5101\|τί]]  [[G3754H\|ὅτι]]  [[G5087\|ἔθου]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G4771\|σου]]  [[G3588\|τὸ]]  [[G4229\|πρᾶγμα]]  [[G3778\|τοῦτο;]]  [[G3756\|οὐκ]]  [[G5574\|ἐψεύσω]]  [[G0444\|ἀνθρώποις]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic COMMUNISM|COMMUNISM]] • [[topic DEATH|DEATH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LAND|LAND]] • [[topic PETER|PETER]] • [[topic SAPPHIRA|SAPPHIRA]] • [[topic VOWS|VOWS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.3|<< Acts 5:3]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.5|Acts 5:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

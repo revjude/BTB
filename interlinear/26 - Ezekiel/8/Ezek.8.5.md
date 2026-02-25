@@ -1,8 +1,73 @@
+---
+title: Ezekiel 8:5
+type: Verse
+kjv: "Then said he unto me, Son of man, lift up thine eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry."
+bsb: "“Son of man,” He said to me, “now lift up your eyes to the north.” So I lifted up my eyes to the north, and in the entrance north of the Altar Gate I saw this idol of jealousy."
+hebrew: "וַיֹּ֣אמֶר אֵלַ֔י בֶּן־ אָדָ֕ם שָׂא־ נָ֥א עֵינֶ֖יךָ דֶּ֣רֶךְ צָפ֑וֹנָה וָאֶשָּׂ֤א עֵינַי֙ דֶּ֣רֶךְ צָפ֔וֹנָה וְהִנֵּ֤ה מִצָּפוֹן֙ לְשַׁ֣עַר הַמִּזְבֵּ֔חַ סֵ֛מֶל הַקִּנְאָ֥ה הַזֶּ֖ה בַּבִּאָֽה׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMAGE|IMAGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5375M]]"
+- "[[H4994]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H1870J]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H5566]]"
+- "[[H7068]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H0872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:5**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said he unto me, Son of man, lift up thine eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry.
 <small><sub>**BSB:**</sub></small>
 “Son of man,” He said to me, “now lift up your eyes to the north.” So I lifted up my eyes to the north, and in the entrance north of the Altar Gate I saw this idol of jealousy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H5375M\|שָׂא]][[H9014\|־]] [[H4994\|נָ֥א]] [[H5869A\|עֵינֶ֖י]][[H9021\|ךָ]] [[H1870J\|דֶּ֣רֶךְ]] [[H6828G\|צָפ֑וֹנָ]][[H9011\|ה]] [[H9001\|וָ]][[H5375M\|אֶשָּׂ֤א]] [[H5869A\|עֵינַ]][[H9020\|י֙]] [[H1870J\|דֶּ֣רֶךְ]] [[H6828G\|צָפ֔וֹנָ]][[H9011\|ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H9006\|מִ]][[H6828G\|צָּפוֹן֙]] [[H9005\|לְ]][[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H5566\|סֵ֛מֶל]] [[H9009\|הַ]][[H7068\|קִּנְאָ֥ה]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בַּ]][[H0872\|בִּאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMAGE|IMAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.4|<< Ezekiel 8:4]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.6|Ezekiel 8:6 >>]]</td></tr></table>
 

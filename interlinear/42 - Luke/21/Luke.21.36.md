@@ -1,10 +1,65 @@
+---
+title: Luke 21:36
+type: Verse
+kjv: "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."
+bsb: "So keep watch at all times, and pray that you may have the strength to escape all that is about to happen and to stand before the Son of Man.”"
+jesus_said: "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."
+greek: "ἀγρυπνεῖτε δὲ ἐν παντὶ καιρῷ δεόμενοι ἵνα κατισχύσητε ἐκφυγεῖν ταῦτα πάντα τὰ μέλλοντα γίνεσθαι καὶ σταθῆναι ἔμπροσθεν τοῦ υἱοῦ τοῦ ἀνθρώπου.¶"
+pericope: "[[Luke.21.34 Be Watchful for the Day|Be Watchful for the Day]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G0069]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G2540]]"
+- "[[G1189]]"
+- "[[G2443]]"
+- "[[G2729]]"
+- "[[G1628]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3195]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G1715]]"
+- "[[G5207]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 21:36**<big><big>[[Luke.21.34 Be Watchful for the Day|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man.
 <small><sub>**BSB:**</sub></small>
 So keep watch at all times, and pray that you may have the strength to escape all that is about to happen and to stand before the Son of Man.”
-<small><sub>**Literal:**</sub></small>
-do watch also at every season praying that you may have strength to escape these things all that are soon to come to pass and to stand before the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.35|<< Luke 21:35]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.37|Luke 21:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0069\|ἀγρυπνεῖτε]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G2540\|καιρῷ]]  [[G1189\|δεόμενοι]]  [[G2443\|ἵνα]]  [[G2729\|κατισχύσητε]]  [[G1628\|ἐκφυγεῖν]]  [[G3778\|ταῦτα]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G3195\|μέλλοντα]]  [[G1096\|γίνεσθαι]]  [[G2532\|καὶ]]  [[G2476\|σταθῆναι]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.35|<< Luke 21:35]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.37|Luke 21:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

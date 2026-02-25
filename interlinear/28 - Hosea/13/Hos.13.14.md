@@ -1,8 +1,65 @@
+---
+title: Hosea 13:14
+type: Verse
+kjv: "I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes."
+bsb: "I will ransom them from the power of Sheol; I will redeem them from Death. Where, O Death, are your plagues? Where, O Sheol, is your sting? Compassion is hidden from My eyes."
+hebrew: "מִיַּ֤ד שְׁאוֹל֙ אֶפְדֵּ֔ם מִמָּ֖וֶת אֶגְאָלֵ֑ם אֱהִ֨י דְבָרֶיךָ֜ מָ֗וֶת אֱהִ֤י קָֽטָבְךָ֙ שְׁא֔וֹל נֹ֖חַם יִסָּתֵ֥ר מֵעֵינָֽי׃"
+pericope: "[[Hos.13.9 Death and Resurrection|Death and Resurrection]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic APOSTROPHE|APOSTROPHE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRAVE|GRAVE]]"
+- "[[topic HELL|HELL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RANSOM|RANSOM]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H7585]]"
+- "[[H6299]]"
+- "[[H9038]]"
+- "[[H4194]]"
+- "[[H1350A]]"
+- "[[H0165]]"
+- "[[H1698]]"
+- "[[H9021]]"
+- "[[H6987]]"
+- "[[H5164]]"
+- "[[H5641]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 13:14**<big><big>[[Hos.13.9 Death and Resurrection|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.
 <small><sub>**BSB:**</sub></small>
 I will ransom them from the power of Sheol; I will redeem them from Death. Where, O Death, are your plagues? Where, O Sheol, is your sting? Compassion is hidden from My eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3027H\|יַּ֤ד]] [[H7585\|שְׁאוֹל֙]] [[H6299\|אֶפְדֵּ֔]][[H9038\|ם]] [[H9006\|מִ]][[H4194\|מָּ֖וֶת]] [[H1350A\|אֶגְאָלֵ֑]][[H9038\|ם]] [[H0165\|אֱהִ֨י]] [[H1698\|דְבָרֶי]][[H9021\|ךָ֜]] [[H4194\|מָ֗וֶת]] [[H0165\|אֱהִ֤י]] [[H6987\|קָֽטָבְ]][[H9021\|ךָ֙]] [[H7585\|שְׁא֔וֹל]] [[H5164\|נֹ֖חַם]] [[H5641\|יִסָּתֵ֥ר]] [[H9006\|מֵ]][[H5869A\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTROPHE|APOSTROPHE]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic GRAVE|GRAVE]] • [[topic HELL|HELL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RANSOM|RANSOM]] • [[topic RESURRECTION|RESURRECTION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.13|<< Hosea 13:13]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.15|Hosea 13:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

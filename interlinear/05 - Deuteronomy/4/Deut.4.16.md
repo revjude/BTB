@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 4:16
+type: Verse
+kjv: "Lest ye corrupt yourselves, and make you a graven image, the similitude of any figure, the likeness of male or female,"
+bsb: "that you do not act corruptly and make an idol for yourselves of any form or shape, whether in the likeness of a male or female,"
+hebrew: "פֶּ֨ן־ תַּשְׁחִת֔וּן וַעֲשִׂיתֶ֥ם לָכֶ֛ם פֶּ֖סֶל תְּמוּנַ֣ת כָּל־ סָ֑מֶל תַּבְנִ֥ית זָכָ֖ר א֥וֹ נְקֵבָֽה׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H7843]]"
+- "[[H9013]]"
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H6459]]"
+- "[[H8544]]"
+- "[[H3605]]"
+- "[[H5566]]"
+- "[[H8403]]"
+- "[[H2145]]"
+- "[[H0176A]]"
+- "[[H5347]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:16**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest ye corrupt [yourselves], and make you a graven image, the similitude of any figure, the likeness of male or female,
 <small><sub>**BSB:**</sub></small>
 that you do not act corruptly and make an idol for yourselves of any form or shape, whether in the likeness of a male or female,
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּ֨ן]][[H9014\|־]] [[H7843\|תַּשְׁחִת֔וּ]][[H9013\|ן]] [[H9001\|וַ]][[H6213H\|עֲשִׂיתֶ֥ם]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H6459\|פֶּ֖סֶל]] [[H8544\|תְּמוּנַ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H5566\|סָ֑מֶל]] [[H8403\|תַּבְנִ֥ית]] [[H2145\|זָכָ֖ר]] [[H0176A\|א֥וֹ]] [[H5347\|נְקֵבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.15|<< Deuteronomy 4:15]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.17|Deuteronomy 4:17 >>]]</td></tr></table>
 

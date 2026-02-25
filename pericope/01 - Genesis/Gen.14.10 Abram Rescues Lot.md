@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abram Rescues Lot
+type: Pericope
 pericope: "[[Gen.14.10 Abram Rescues Lot|Abram Rescues Lot]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 14
 book/chapter: "[[Gen.14|Genesis 14]]"
-genre:
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.14.10]]"
 - "[[Gen.14.11]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.14.16]]"
 ---
 
-[[Gen.14|Genesis 14:10 - Genesis 14:16]]
+<small>[[Gen.14|Genesis 14:10-16]]</small>
 *Abram Rescues Lot*
 
 [[Gen.14.10|10]] And the vale of Siddim \[was full of\] slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.

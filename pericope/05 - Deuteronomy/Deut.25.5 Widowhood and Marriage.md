@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Widowhood and Marriage
+type: Pericope
 pericope: "[[Deut.25.5 Widowhood and Marriage|Widowhood and Marriage]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 25
 book/chapter: "[[Deut.25|Deuteronomy 25]]"
-genre:
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.25.5]]"
 - "[[Deut.25.6]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.25.12]]"
 ---
 
-[[Deut.25|Deuteronomy 25:5 - Deuteronomy 25:12]]
+<small>[[Deut.25|Deuteronomy 25:5-12]]</small>
 *Widowhood and Marriage*
 
 [[Deut.25.5|5]] If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her.

@@ -1,8 +1,55 @@
+---
+title: Psalm 88:11
+type: Verse
+kjv: "Shall thy lovingkindness be declared in the grave? or thy faithfulness in destruction?"
+bsb: "Can Your loving devotion be proclaimed in the grave, Your faithfulness in Abaddon?"
+hebrew: "הַיְסֻפַּ֣ר בַּקֶּ֣בֶר חַסְדֶּ֑ךָ אֱ֝מֽוּנָתְךָ֗ בָּאֲבַדּֽוֹן׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HADES|HADES]]"
+strongs:
+- "[[H9008]]"
+- "[[H5608A]]"
+- "[[H9003]]"
+- "[[H6913]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H0530]]"
+- "[[H0011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:11**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall thy lovingkindness be declared in the grave? [or] thy faithfulness in destruction?
 <small><sub>**BSB:**</sub></small>
 Can Your loving devotion be proclaimed in the grave, Your faithfulness in Abaddon?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H5608A\|יְסֻפַּ֣ר]] [[H9003\|בַּ]][[H6913\|קֶּ֣בֶר]] [[H2617A\|חַסְדֶּ֑]][[H9021\|ךָ]] [[H0530\|אֱ֝מֽוּנָתְ]][[H9021\|ךָ֗]] [[H9003\|בָּ]][[H0011\|אֲבַדּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HADES|HADES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.88.10|<< Psalms 88:10]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.12|Psalms 88:12 >>]]</td></tr></table>
 

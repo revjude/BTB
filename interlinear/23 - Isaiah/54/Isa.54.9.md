@@ -1,8 +1,66 @@
+---
+title: Isaiah 54:9
+type: Verse
+kjv: "For this is as the waters of Noah unto me: for as I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee."
+bsb: "“For to Me this is like the days of Noah, when I swore that the waters of Noah would never again cover the earth. So I have sworn that I will not be angry with you or rebuke you."
+hebrew: "כִּי־ מֵ֥י נֹ֙חַ֙ זֹ֣את לִ֔י אֲשֶׁ֣ר נִשְׁבַּ֗עְתִּי מֵעֲבֹ֥ר מֵי־ נֹ֛חַ ע֖וֹד עַל־ הָאָ֑רֶץ כֵּ֥ן נִשְׁבַּ֛עְתִּי מִקְּצֹ֥ף עָלַ֖יִךְ וּמִגְּעָר־ בָּֽךְ׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H5146]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9006]]"
+- "[[H5674A]]"
+- "[[H5750]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3651C]]"
+- "[[H7107]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H1605]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 54:9**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this [is as] the waters of Noah unto me: for [as] I have sworn that the waters of Noah should no more go over the earth; so have I sworn that I would not be wroth with thee, nor rebuke thee.
 <small><sub>**BSB:**</sub></small>
 “For to Me this is like the days of Noah, when I swore that the waters of Noah would never again cover the earth. So I have sworn that I will not be angry with you or rebuke you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H4325G\|מֵ֥י]] [[H5146\|נֹ֙חַ֙]] [[H2063\|זֹ֣את]] [[H9005\|לִ֔]][[H9030\|י]] [[H0834A\|אֲשֶׁ֣ר]] [[H7650\|נִשְׁבַּ֗עְתִּי]] [[H9006\|מֵ]][[H5674A\|עֲבֹ֥ר]] [[H4325G\|מֵי]][[H9014\|־]] [[H5146\|נֹ֛חַ]] [[H5750\|ע֖וֹד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3651C\|כֵּ֥ן]] [[H7650\|נִשְׁבַּ֛עְתִּי]] [[H9006\|מִ]][[H7107\|קְּצֹ֥ף]] [[H5921A\|עָלַ֖יִ]][[H9032\|ךְ]] [[H9002\|וּ]][[H9006\|מִ]][[H1605\|גְּעָר]][[H9014\|־]] [[H9003\|בָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FLOOD|FLOOD]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.8|<< Isaiah 54:8]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.10|Isaiah 54:10 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Proverbs 19:7
+type: Verse
+kjv: "All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him."
+bsb: "All the brothers of a poor man hate him—how much more do his friends avoid him! He may pursue them with pleading, but they are nowhere to be found."
+hebrew: "כָּ֥ל אֲחֵי־ רָ֨שׁ׀ שְֽׂנֵאֻ֗הוּ אַ֤ף כִּ֣י מְ֭רֵעֵהוּ רָחֲק֣וּ מִמֶּ֑נּוּ מְרַדֵּ֖ף אֲמָרִ֣ים לוֹ הֵֽמָּה׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3605]]"
+- "[[H0251G]]"
+- "[[H9014]]"
+- "[[H7326]]"
+- "[[H9015]]"
+- "[[H8130]]"
+- "[[H9033]]"
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H4828]]"
+- "[[H9023]]"
+- "[[H7368]]"
+- "[[H4480A]]"
+- "[[H7291]]"
+- "[[H0561]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 19:7**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth [them with] words, [yet] they [are] wanting [to him].
 <small><sub>**BSB:**</sub></small>
 All the brothers of a poor man hate him—how much more do his friends avoid him! He may pursue them with pleading, but they are nowhere to be found.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּ֥ל]] [[H0251G\|אֲחֵי]][[H9014\|־]] [[H7326\|רָ֨שׁ]][[H9015\|׀]] [[H8130\|שְֽׂנֵאֻ֗]][[H9033\|הוּ]] [[H0637\|אַ֤ף]] [[H3588A\|כִּ֣י]] [[H4828\|מְ֭רֵעֵ]][[H9023\|הוּ]] [[H7368\|רָחֲק֣וּ]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H7291\|מְרַדֵּ֖ף]] [[H0561\|אֲמָרִ֣ים]] [[H9005\|ל]][[H9033\|וֹ]] [[H1992\|הֵֽמָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.6|<< Proverbs 19:6]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.8|Proverbs 19:8 >>]]</td></tr></table>
 

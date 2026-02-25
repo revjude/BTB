@@ -1,8 +1,58 @@
+---
+title: Leviticus 7:6
+type: Verse
+kjv: "Every male among the priests shall eat thereof: it shall be eaten in the holy place: it is most holy."
+bsb: "Every male among the priests may eat of it. It must be eaten in a holy place; it is most holy."
+hebrew: "כָּל־ זָכָ֥ר בַּכֹּהֲנִ֖ים יֹאכְלֶ֑נּוּ בְּמָק֤וֹם קָדוֹשׁ֙ יֵאָכֵ֔ל קֹ֥דֶשׁ קָֽדָשִׁ֖ים הֽוּא׃"
+pericope: "[[Lev.7.1 The Guilt Offering|The Guilt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H9003]]"
+- "[[H3548]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H4725]]"
+- "[[H6918G]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:6**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Every male among the priests shall eat thereof: it shall be eaten in the holy place: it [is] most holy.
 <small><sub>**BSB:**</sub></small>
 Every male among the priests may eat of it. It must be eaten in a holy place; it is most holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֥ר]] [[H9003\|בַּ]][[H3548\|כֹּהֲנִ֖ים]] [[H0398\|יֹאכְלֶ֑]][[H9033\|נּוּ]] [[H9003\|בְּ]][[H4725\|מָק֤וֹם]] [[H6918G\|קָדוֹשׁ֙]] [[H0398\|יֵאָכֵ֔ל]] [[H6944G\|קֹ֥דֶשׁ]] [[H6944G\|קָֽדָשִׁ֖ים]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.5|<< Leviticus 7:5]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.7|Leviticus 7:7 >>]]</td></tr></table>
 

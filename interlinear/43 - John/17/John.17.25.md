@@ -1,10 +1,60 @@
+---
+title: John 17:25
+type: Verse
+kjv: "O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me."
+bsb: "Righteous Father, although the world has not known You, I know You, and they know that You sent Me."
+jesus_said: "O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me."
+greek: "πάτερ δίκαιε, καὶ ὁ κόσμος σε οὐκ ἔγνω, ἐγὼ δέ σε ἔγνων, καὶ οὗτοι ἔγνωσαν ὅτι σύ με ἀπέστειλας·"
+pericope: "[[John.17.20 Prayer for All Believers|Prayer for All Believers]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3962]]"
+- "[[G1342]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G3754G]]"
+- "[[G3165]]"
+- "[[G0649]]"
+texts:
+- NK(o)
+- NKO
+---
+
 **John 17:25**<big><big>[[John.17.20 Prayer for All Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 O righteous Father, the world hath not known thee: but I have known thee, and these have known that thou hast sent me.
 <small><sub>**BSB:**</sub></small>
 Righteous Father, although the world has not known You, I know You, and they know that You sent Me.
-<small><sub>**Literal:**</sub></small>
-Father righteous, although the world You not has known, I myself now You have known, and these have known that You yourself Me sent;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.24|<< John 17:24]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.26|John 17:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3962\|πάτερ]]  [[G1342\|δίκαιε,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G4771\|σε]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνω,]]  [[G1473\|ἐγὼ]]  [[G1161\|δέ]]  [[G4771\|σε]]  [[G1097\|ἔγνων,]]  [[G2532\|καὶ]]  [[G3778\|οὗτοι]]  [[G1097\|ἔγνωσαν]]  [[G3754G\|ὅτι]]  [[G4771\|σύ]]  [[G3165\|με]]  [[G0649\|ἀπέστειλας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.24|<< John 17:24]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.26|John 17:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

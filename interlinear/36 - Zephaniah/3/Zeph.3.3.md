@@ -1,8 +1,58 @@
+---
+title: Zephaniah 3:3
+type: Verse
+kjv: "Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow."
+bsb: "Her princes are roaring lions; her judges are evening wolves, leaving nothing for the morning."
+hebrew: "שָׂרֶ֣יהָ בְקִרְבָּ֔הּ אֲרָי֖וֹת שֹֽׁאֲגִ֑ים שֹׁפְטֶ֙יהָ֙ זְאֵ֣בֵי עֶ֔רֶב לֹ֥א גָרְמ֖וּ לַבֹּֽקֶר׃"
+pericope: "[[Zeph.3.1 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOLF|WOLF]]"
+strongs:
+- "[[H8269]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H0738A]]"
+- "[[H7580]]"
+- "[[H8199]]"
+- "[[H9034]]"
+- "[[H2061]]"
+- "[[H6153]]"
+- "[[H3808]]"
+- "[[H1633A]]"
+- "[[H9005]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 3:3**<big><big>[[Zeph.3.1 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her princes within her [are] roaring lions; her judges [are] evening wolves; they gnaw not the bones till the morrow.
 <small><sub>**BSB:**</sub></small>
 Her princes are roaring lions; her judges are evening wolves, leaving nothing for the morning.
+<small><sub>**Hebrew:**</sub></small>
+[[H8269\|שָׂרֶ֣י]][[H9024\|הָ]] [[H9003\|בְ]][[H7130G\|קִרְבָּ֔]][[H9024\|הּ]] [[H0738A\|אֲרָי֖וֹת]] [[H7580\|שֹֽׁאֲגִ֑ים]] [[H8199\|שֹׁפְטֶ֙י]][[H9034\|הָ֙]] [[H2061\|זְאֵ֣בֵי]] [[H6153\|עֶ֔רֶב]] [[H3808\|לֹ֥א]] [[H1633A\|גָרְמ֖וּ]] [[H9005\|לַ]][[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]] • [[topic WOLF|WOLF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.2|<< Zephaniah 3:2]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.4|Zephaniah 3:4 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Exodus 36:21
+type: Verse
+kjv: "The length of a board was ten cubits, and the breadth of a board one cubit and a half."
+bsb: "Each frame was ten cubits long and a cubit and a half wide."
+hebrew: "עֶ֥שֶׂר אַמֹּ֖ות אֹ֣רֶךְ הַקָּ֑רֶשׁ וְאַמָּה֙ וַחֲצִ֣י הָֽאַמָּ֔ה רֹ֖חַב הַקֶּ֥רֶשׁ הָאֶחָֽד׃"
+pericope: "[[Exod.36.20 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H6235]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H9009]]"
+- "[[H7175]]"
+- "[[H9002]]"
+- "[[H2677]]"
+- "[[H7341]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Exodus 36:21**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The length of a board [was] ten cubits, and the breadth of a board one cubit and a half.
 <small><sub>**BSB:**</sub></small>
 Each frame was ten cubits long and a cubit and a half wide.
+<small><sub>**Hebrew:**</sub></small>
+[[H6235\|עֶ֥שֶׂר]] [[H0520A\|אַמֹּ֖ות]] [[H0753\|אֹ֣רֶךְ]] [[H9009\|הַ]][[H7175\|קָּ֑רֶשׁ]] [[H9002\|וְ]][[H0520A\|אַמָּה֙]] [[H9002\|וַ]][[H2677\|חֲצִ֣י]] [[H9009\|הָֽ]][[H0520A\|אַמָּ֔ה]] [[H7341\|רֹ֖חַב]] [[H9009\|הַ]][[H7175\|קֶּ֥רֶשׁ]] [[H9009\|הָ]][[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.20|<< Exodus 36:20]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.22|Exodus 36:22 >>]]</td></tr></table>
 

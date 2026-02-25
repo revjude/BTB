@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Covenant with David
+type: Pericope
 pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 7
 book/chapter: "[[2Sam.7|2 Samuel 7]]"
-genre:
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 17
 verses:
 - "[[2Sam.7.1]]"
 - "[[2Sam.7.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[2Sam.7.17]]"
 ---
 
-[[2Sam.7|2 Samuel 7:1 - 2 Samuel 7:17]]
+<small>[[2Sam.7|2 Samuel 7:1-17]]</small>
 *God’s Covenant with David*
 
 [[2Sam.7.1|1]] And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies;

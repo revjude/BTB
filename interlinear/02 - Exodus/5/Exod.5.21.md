@@ -1,8 +1,80 @@
+---
+title: Exodus 5:21
+type: Verse
+kjv: "And they said unto them, The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us."
+bsb: "“May the LORD look upon you and judge you,” the foremen said, “for you have made us a stench before Pharaoh and his officials; you have placed in their hand a sword to kill us!”"
+hebrew: "וַיֹּאמְר֣וּ אֲלֵהֶ֔ם יֵ֧רֶא יְהוָ֛ה עֲלֵיכֶ֖ם וְיִשְׁפֹּ֑ט אֲשֶׁ֧ר הִבְאַשְׁתֶּ֣ם אֶת־ רֵיחֵ֗נוּ בְּעֵינֵ֤י פַרְעֹה֙ וּבְעֵינֵ֣י עֲבָדָ֔יו לָֽתֶת־ חֶ֥רֶב בְּיָדָ֖ם לְהָרְגֵֽנוּ׃"
+pericope: "[[Exod.5.15 The Cry of the Israelites|The Cry of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H8199]]"
+- "[[H0834A]]"
+- "[[H0887]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7381]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H6547J]]"
+- "[[H5869I]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5414H]]"
+- "[[H2719]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H2026]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:21**<big><big>[[Exod.5.15 The Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto them, The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us.
 <small><sub>**BSB:**</sub></small>
 “May the LORD look upon you and judge you,” the foremen said, “for you have made us a stench before Pharaoh and his officials; you have placed in their hand a sword to kill us!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H7200G\|יֵ֧רֶא]] [[H3068G\|יְהוָ֛ה]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H9002\|וְ]][[H8199\|יִשְׁפֹּ֑ט]] [[H0834A\|אֲשֶׁ֧ר]] [[H0887\|הִבְאַשְׁתֶּ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7381\|רֵיחֵ֗]][[H9025\|נוּ]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֤י]] [[H6547J\|פַרְעֹה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H5869I\|עֵינֵ֣י]] [[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H9005\|לָֽ]][[H5414H\|תֶת]][[H9014\|־]] [[H2719\|חֶ֥רֶב]] [[H9003\|בְּ]][[H3027G\|יָדָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H2026\|הָרְגֵֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic GOD|GOD]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.20|<< Exodus 5:20]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.22|Exodus 5:22 >>]]</td></tr></table>
 

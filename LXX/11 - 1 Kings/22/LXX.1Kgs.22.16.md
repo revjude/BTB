@@ -1,6 +1,56 @@
+---
+title: LXX 1 Kings 22:16
+type: Verse
+lxx: "And the king said to him, How often shall I adjure you that you should speak to me the truth in the name of the lord?"
+greek: "και είπεν αυτώ ο βασιλεύς ποσάκις εγώ ορκίζω σε όπως λαλήσης προς με αλήθειαν εν ονόματι κυρίου"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G4212]]"
+- "[[G1473]]"
+- "[[G3726]]"
+- "[[G1473]]"
+- "[[G3704]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G0225]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G2962]]"
+---
+
 **LXX 1 Kings 22:16** 
 <small><sub>**LXX:**</sub></small>
 And the king said to him, How often shall I adjure you that you should speak to me \[the\] truth in \[the\] name of \[the\] <span class="smallcaps">lord</span>? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτώ]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G4212\|ποσάκις]] [[G1473\|εγώ]] [[G3726\|ορκίζω]] [[G1473\|σε]] [[G3704\|όπως]] [[G2980\|λαλήσης]] [[G4314\|προς]] [[G1473\|με]] [[G0225\|αλήθειαν]] [[G1722\|εν]] [[G3686\|ονόματι]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic MICAIAH|MICAIAH]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.15|<< 1 Kings 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.17|1 Kings 22:17 >>]]</td></tr></table>
 
@@ -23,6 +73,6 @@ And the king said to him, How often shall I adjure you that you should speak to 
 | in | **<big>[[G1722\|εν]]</big>** |
 | \[the\] name | **<big>[[G3686\|ονόματι]]</big>** |
 | of \[the\] <span class="smallcaps">lord</span>? | **<big>[[G2962\|κυρίου]]</big>** |
-[[1Kgs.22.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.15|<< 1 Kings 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.17|1 Kings 22:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.22.15|<< 1 Kings 22:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.22.17|1 Kings 22:17 >>]]</td></tr></table>
 
 

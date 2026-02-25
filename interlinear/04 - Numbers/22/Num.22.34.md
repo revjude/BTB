@@ -1,8 +1,71 @@
+---
+title: Numbers 22:34
+type: Verse
+kjv: "And Balaam said unto the angel of the LORD, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again."
+bsb: "“I have sinned,” Balaam said to the angel of the LORD, “for I did not realize that you were standing in the road to confront me. And now, if this is displeasing in your sight, I will go back home.”"
+hebrew: "וַיֹּ֨אמֶר בִּלְעָ֜ם אֶל־ מַלְאַ֤ךְ יְהוָה֙ חָטָ֔אתִי כִּ֚י לֹ֣א יָדַ֔עְתִּי כִּ֥י אַתָּ֛ה נִצָּ֥ב לִקְרָאתִ֖י בַּדָּ֑רֶךְ וְעַתָּ֛ה אִם־ רַ֥ע בְּעֵינֶ֖יךָ אָשׁ֥וּבָה לִּֽי׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1109A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H2398]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0859A]]"
+- "[[H5324]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0518A]]"
+- "[[H7489A]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:34**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balaam said unto the angel of the LORD, I have sinned; for I knew not that thou stoodest in the way against me: now therefore, if it displease thee, I will get me back again.
 <small><sub>**BSB:**</sub></small>
 “I have sinned,” Balaam said to the angel of the LORD, “for I did not realize that you were standing in the road to confront me. And now, if this is displeasing in your sight, I will go back home.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1109A\|בִּלְעָ֜ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4397H\|מַלְאַ֤ךְ]] [[H3068G\|יְהוָה֙]] [[H2398\|חָטָ֔אתִי]] [[H3588A\|כִּ֚י]] [[H3808\|לֹ֣א]] [[H3045\|יָדַ֔עְתִּי]] [[H3588A\|כִּ֥י]] [[H0859A\|אַתָּ֛ה]] [[H5324\|נִצָּ֥ב]] [[H9005\|לִ]][[H7122H\|קְרָאתִ֖]][[H9030\|י]] [[H9003\|בַּ]][[H1870K\|דָּ֑רֶךְ]] [[H9002\|וְ]][[H6258\|עַתָּ֛ה]] [[H0518A\|אִם]][[H9014\|־]] [[H7489A\|רַ֥ע]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֖י]][[H9021\|ךָ]] [[H7725G\|אָשׁ֥וּבָה]] [[H9005\|לִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.33|<< Numbers 22:33]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.35|Numbers 22:35 >>]]</td></tr></table>
 

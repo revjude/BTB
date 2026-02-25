@@ -1,8 +1,52 @@
+---
+title: Genesis 35:24
+type: Verse
+kjv: "The sons of Rachel; Joseph, and Benjamin:"
+bsb: "The sons of Rachel were Joseph and Benjamin."
+hebrew: "בְּנֵ֣י רָחֵ֔ל יוֹסֵ֖ף וּבִנְיָמִֽן׃"
+pericope: "[[Gen.35.21 The Sons of Jacob|The Sons of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic RACHEL|RACHEL]]"
+strongs:
+- "[[H1121A]]"
+- "[[H7354]]"
+- "[[H3130G]]"
+- "[[H9002]]"
+- "[[H1144G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:24**<big><big>[[Gen.35.21 The Sons of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sons of Rachel; Joseph, and Benjamin:
 <small><sub>**BSB:**</sub></small>
 The sons of Rachel were Joseph and Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵ֣י]] [[H7354\|רָחֵ֔ל]] [[H3130G\|יוֹסֵ֖ף]] [[H9002\|וּ]][[H1144G\|בִנְיָמִֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JACOB|JACOB]] • [[topic RACHEL|RACHEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.23|<< Genesis 35:23]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.25|Genesis 35:25 >>]]</td></tr></table>
 

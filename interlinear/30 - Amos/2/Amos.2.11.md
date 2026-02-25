@@ -1,8 +1,64 @@
+---
+title: Amos 2:11
+type: Verse
+kjv: "And I raised up of your sons for prophets, and of your young men for Nazarites. Is it not even thus, O ye children of Israel? saith the LORD."
+bsb: "I raised up prophets from your sons and Nazirites from your young men. Is this not true, O children of Israel?” declares the LORD."
+hebrew: "וָאָקִ֤ים מִבְּנֵיכֶם֙ לִנְבִיאִ֔ים וּמִבַּחוּרֵיכֶ֖ם לִנְזִרִ֑ים הַאַ֥ף אֵֽין־ זֹ֛את בְּנֵ֥י יִשְׂרָאֵ֖ל נְאֻם־ יְהוָֽה׃"
+pericope: "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NAZARITE|NAZARITE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H5030]]"
+- "[[H9002]]"
+- "[[H0970]]"
+- "[[H5139]]"
+- "[[H9008]]"
+- "[[H0637]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 2:11**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I raised up of your sons for prophets, and of your young men for Nazarites. [Is it] not even thus, O ye children of Israel? saith the LORD.
 <small><sub>**BSB:**</sub></small>
 I raised up prophets from your sons and Nazirites from your young men. Is this not true, O children of Israel?” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6965I\|אָקִ֤ים]] [[H9006\|מִ]][[H1121A\|בְּנֵי]][[H9026\|כֶם֙]] [[H9005\|לִ]][[H5030\|נְבִיאִ֔ים]] [[H9002\|וּ]][[H9006\|מִ]][[H0970\|בַּחוּרֵי]][[H9026\|כֶ֖ם]] [[H9005\|לִ]][[H5139\|נְזִרִ֑ים]] [[H9008\|הַ]][[H0637\|אַ֥ף]] [[H0369\|אֵֽין]][[H9014\|־]] [[H2063\|זֹ֛את]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NAZARITE|NAZARITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.10|<< Amos 2:10]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.12|Amos 2:12 >>]]</td></tr></table>
 

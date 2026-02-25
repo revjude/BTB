@@ -1,8 +1,60 @@
+---
+title: Ezekiel 46:7
+type: Verse
+kjv: "And he shall prepare a meat offering, an ephah for a bullock, and an ephah for a ram, and for the lambs according as his hand shall attain unto, and an hin of oil to an ephah."
+bsb: "He is to provide a grain offering of an ephah with the bull, an ephah with the ram, and as much as he is able with the lambs, along with a hin of oil per ephah."
+hebrew: "וְאֵיפָ֨ה לַפָּ֜ר וְאֵיפָ֤ה לָאַ֙יִל֙ יַעֲשֶׂ֣ה מִנְחָ֔ה וְלַ֨כְּבָשִׂ֔ים כַּאֲשֶׁ֥ר תַּשִּׂ֖יג יָד֑וֹ וְשֶׁ֖מֶן הִ֥ין לָאֵיפָֽה׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic MEASURE|MEASURE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0374]]"
+- "[[H9005]]"
+- "[[H6499]]"
+- "[[H0352A]]"
+- "[[H6213I]]"
+- "[[H4503G]]"
+- "[[H3532]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5381]]"
+- "[[H3027I]]"
+- "[[H9023]]"
+- "[[H8081]]"
+- "[[H1969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:7**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall prepare a meat offering, an ephah for a bullock, and an ephah for a ram, and for the lambs according as his hand shall attain unto, and an hin of oil to an ephah.
 <small><sub>**BSB:**</sub></small>
 He is to provide a grain offering of an ephah with the bull, an ephah with the ram, and as much as he is able with the lambs, along with a hin of oil per ephah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0374\|אֵיפָ֨ה]] [[H9005\|לַ]][[H6499\|פָּ֜ר]] [[H9002\|וְ]][[H0374\|אֵיפָ֤ה]] [[H9005\|לָ]][[H0352A\|אַ֙יִל֙]] [[H6213I\|יַעֲשֶׂ֣ה]] [[H4503G\|מִנְחָ֔ה]] [[H9002\|וְ]][[H9005\|לַ֨]][[H3532\|כְּבָשִׂ֔ים]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H5381\|תַּשִּׂ֖יג]] [[H3027I\|יָד֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H8081\|שֶׁ֖מֶן]] [[H1969\|הִ֥ין]] [[H9005\|לָ]][[H0374\|אֵיפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic MEASURE|MEASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.6|<< Ezekiel 46:6]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.8|Ezekiel 46:8 >>]]</td></tr></table>
 

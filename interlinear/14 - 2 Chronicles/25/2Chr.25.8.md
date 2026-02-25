@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 25:8
+type: Verse
+kjv: "But if thou wilt go, do it, be strong for the battle: God shall make thee fall before the enemy: for God hath power to help, and to cast down."
+bsb: "Even if you go and fight bravely in battle, God will overthrow you before the enemy, for God has power to help and power to overthrow.”"
+hebrew: "כִּ֚י אִם־ בֹּ֣א אַתָּ֔ה עֲשֵׂ֖ה חֲזַ֣ק לַמִּלְחָמָ֑ה יַכְשִֽׁילְךָ֤ הָֽאֱלֹהִים֙ לִפְנֵ֣י אוֹיֵ֔ב כִּ֥י יֶשׁ־ כֹּ֛חַ בֵּאלֹהִ֖ים לַעְז֥וֹר וּלְהַכְשִֽׁיל׃"
+pericope: "[[2Chr.25.5 Amaziah’s Victories|Amaziah’s Victories]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H0859A]]"
+- "[[H6213A]]"
+- "[[H2388G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H3782]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H3581B]]"
+- "[[H9003]]"
+- "[[H5826]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:8**<big><big>[[2Chr.25.5 Amaziah’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou wilt go, do [it], be strong for the battle: God shall make thee fall before the enemy: for God hath power to help, and to cast down.
 <small><sub>**BSB:**</sub></small>
 Even if you go and fight bravely in battle, God will overthrow you before the enemy, for God has power to help and power to overthrow.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֚י]] [[H0518B\|אִם]][[H9014\|־]] [[H0935G\|בֹּ֣א]] [[H0859A\|אַתָּ֔ה]] [[H6213A\|עֲשֵׂ֖ה]] [[H2388G\|חֲזַ֣ק]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H3782\|יַכְשִֽׁילְ]][[H9031\|ךָ֤]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0341\|אוֹיֵ֔ב]] [[H3588A\|כִּ֥י]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H3581B\|כֹּ֛חַ]] [[H9003\|בֵּ]][[H0430G\|אלֹהִ֖ים]] [[H9005\|לַ]][[H5826\|עְז֥וֹר]] [[H9002\|וּ]][[H9005\|לְ]][[H3782\|הַכְשִֽׁיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.7|<< 2 Chronicles 25:7]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.9|2 Chronicles 25:9 >>]]</td></tr></table>
 

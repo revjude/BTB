@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Moab
+type: Pericope
 pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
-verse_count: 47
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 48
 book/chapter: "[[Jer.48|Jeremiah 48]]"
-genre:
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 47
 verses:
 - "[[Jer.48.1]]"
 - "[[Jer.48.2]]"
@@ -67,7 +74,7 @@ verses:
 - "[[Jer.48.47]]"
 ---
 
-[[Jer.48|Jeremiah 48:1 - Jeremiah 48:47]]
+<small>[[Jer.48|Jeremiah 48:1-47]]</small>
 *Judgment on Moab*
 
 [[Jer.48.1|1]] Against Moab thus saith the LORD of hosts, the God of Israel; Woe unto Nebo! for it is spoiled: Kiriathaim is confounded \[and\] taken: Misgab is confounded and dismayed.

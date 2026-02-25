@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Coming of the Kingdom
+type: Pericope
 pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
-verse_count: 17
+original_language: Greek
 testament: New
 book: Luke
 chapter: 17
 book/chapter: "[[Luke.17|Luke 17]]"
-genre:
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 17
 verses:
 - "[[Luke.17.20]]"
 - "[[Luke.17.21]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Luke.17.37]]"
 ---
 
-[[Luke.17|Luke 17:20 - Luke 17:37]]
+<small>[[Luke.17|Luke 17:20-37]]</small>
 *The Coming of the Kingdom*
 
 [[Luke.17.20|20]] And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:

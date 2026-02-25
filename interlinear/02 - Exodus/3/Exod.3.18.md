@@ -1,8 +1,83 @@
+---
+title: Exodus 3:18
+type: Verse
+kjv: "And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The LORD God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the LORD our God."
+bsb: "The elders of Israel will listen to what you say, and you must go with them to the king of Egypt and tell him, ‘The LORD, the God of the Hebrews, has met with us. Now please let us take a three-day journey into the wilderness, so that we may sacrifice to the LORD our God.’"
+hebrew: "וְשָׁמְע֖וּ לְקֹלֶ֑ךָ וּבָאתָ֡ אַתָּה֩ וְזִקְנֵ֨י יִשְׂרָאֵ֜ל אֶל־ מֶ֣לֶךְ מִצְרַ֗יִם וַאֲמַרְתֶּ֤ם אֵלָיו֙ יְהוָ֞ה אֱלֹהֵ֤י הָֽעִבְרִיִּים֙ נִקְרָ֣ה עָלֵ֔ינוּ וְעַתָּ֗ה נֵֽלֲכָה־ נָּ֞א דֶּ֣רֶךְ שְׁלֹ֤שֶׁת יָמִים֙ בַּמִּדְבָּ֔ר וְנִזְבְּחָ֖ה לַֽיהוָ֥ה אֱלֹהֵֽינוּ׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H6963A]]"
+- "[[H9021]]"
+- "[[H0935G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H7136A]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H6258]]"
+- "[[H1980G]]"
+- "[[H4994]]"
+- "[[H1870L]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H2076]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 3:18**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The LORD God of the Hebrews hath met with us: and now let us go, we beseech thee, three days’ journey into the wilderness, that we may sacrifice to the LORD our God.
 <small><sub>**BSB:**</sub></small>
 The elders of Israel will listen to what you say, and you must go with them to the king of Egypt and tell him, ‘The LORD, the God of the Hebrews, has met with us. Now please let us take a three-day journey into the wilderness, so that we may sacrifice to the LORD our God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8085G\|שָׁמְע֖וּ]] [[H9005\|לְ]][[H6963A\|קֹלֶ֑]][[H9021\|ךָ]] [[H9001\|וּ]][[H0935G\|בָאתָ֡]] [[H0859A\|אַתָּה֩]] [[H9002\|וְ]][[H2205G\|זִקְנֵ֨י]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרַ֗יִם]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֤ם]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H3068G\|יְהוָ֞ה]] [[H0430G\|אֱלֹהֵ֤י]] [[H9009\|הָֽ]][[H5680\|עִבְרִיִּים֙]] [[H7136A\|נִקְרָ֣ה]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H1980G\|נֵֽלֲכָה]][[H9014\|־]] [[H4994\|נָּ֞א]] [[H1870L\|דֶּ֣רֶךְ]] [[H7969\|שְׁלֹ֤שֶׁת]] [[H3117G\|יָמִים֙]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֔ר]] [[H9002\|וְ]][[H2076\|נִזְבְּחָ֖ה]] [[H9005\|לַֽ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.17|<< Exodus 3:17]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.3.19|Exodus 3:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,73 @@
+---
+title: 1 Kings 11:23
+type: Verse
+kjv: "And God stirred him up another adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:"
+bsb: "And God raised up against Solomon another adversary, Rezon the son of Eliada, who had fled from his master, Hadadezer king of Zobah,"
+hebrew: "וַיָּ֨קֶם אֱלֹהִ֥ים לוֹ֙ שָׂטָ֔ן אֶת־ רְז֖וֹן בֶּן־ אֶלְיָדָ֑ע אֲשֶׁ֣ר בָּרַ֗ח מֵאֵ֛ת הֲדַדְעֶ֥זֶר מֶֽלֶךְ־ צוֹבָ֖ה אֲדֹנָֽיו׃"
+pericope: "[[1Kgs.11.23 Rezon’s Hostility|Rezon’s Hostility]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic ELIADAH|ELIADAH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic REZON|REZON]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965H]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7854]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7331]]"
+- "[[H1121A]]"
+- "[[H0450H]]"
+- "[[H0834A]]"
+- "[[H1272]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H1909]]"
+- "[[H4428G]]"
+- "[[H6678G]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:23**<big><big>[[1Kgs.11.23 Rezon’s Hostility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God stirred him up [another] adversary, Rezon the son of Eliadah, which fled from his lord Hadadezer king of Zobah:
 <small><sub>**BSB:**</sub></small>
 And God raised up against Solomon another adversary, Rezon the son of Eliada, who had fled from his master, Hadadezer king of Zobah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965H\|יָּ֨קֶם]] [[H0430G\|אֱלֹהִ֥ים]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H7854\|שָׂטָ֔ן]] [[H0853\|אֶת]][[H9014\|־]] [[H7331\|רְז֖וֹן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0450H\|אֶלְיָדָ֑ע]] [[H0834A\|אֲשֶׁ֣ר]] [[H1272\|בָּרַ֗ח]] [[H9006\|מֵ]][[H0854\|אֵ֛ת]] [[H1909\|הֲדַדְעֶ֥זֶר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H6678G\|צוֹבָ֖ה]] [[H0113\|אֲדֹנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CITIZENS|CITIZENS]] • [[topic DAMASCUS|DAMASCUS]] • [[topic ELIADAH|ELIADAH]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HADADEZER|HADADEZER]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic REZON|REZON]] • [[topic SYRIA|SYRIA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.22|<< 1 Kings 11:22]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.24|1 Kings 11:24 >>]]</td></tr></table>
 

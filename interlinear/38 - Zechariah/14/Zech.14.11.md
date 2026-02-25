@@ -1,8 +1,60 @@
+---
+title: Zechariah 14:11
+type: Verse
+kjv: "And men shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited."
+bsb: "People will live there, and never again will there be an utter destruction. So Jerusalem will dwell securely."
+hebrew: "וְיָ֣שְׁבוּ בָ֔הּ וְחֵ֖רֶם לֹ֣א יִֽהְיֶה־ ע֑וֹד וְיָשְׁבָ֥ה יְרוּשָׁלִַ֖ם לָבֶֽטַח׃"
+pericope: "[[Zech.14.1 The Destroyers of Jerusalem Destroyed|The Destroyers of Jerusalem Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 14
+book/chapter: "[[Zech.14|Zechariah 14]]"
+chronological_order: 870
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H2764A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 14:11**<big><big>[[Zech.14.1 The Destroyers of Jerusalem Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [men] shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.
 <small><sub>**BSB:**</sub></small>
 People will live there, and never again will there be an utter destruction. So Jerusalem will dwell securely.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3427\|יָ֣שְׁבוּ]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H2764A\|חֵ֖רֶם]] [[H3808\|לֹ֣א]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H5750\|ע֑וֹד]] [[H9001\|וְ]][[H3427\|יָשְׁבָ֥ה]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9005\|לָ]][[H0983\|בֶֽטַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.14.10|<< Zechariah 14:10]]</td><td align="center" style="border:none;">[[Zech.14|Zechariah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.14.12|Zechariah 14:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

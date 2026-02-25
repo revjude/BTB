@@ -1,8 +1,67 @@
+---
+title: 2 Kings 20:8
+type: Verse
+kjv: "And Hezekiah said unto Isaiah, What shall be the sign that the LORD will heal me, and that I shall go up into the house of the LORD the third day?"
+bsb: "Now Hezekiah had asked Isaiah, “What will be the sign that the LORD will heal me and that I will go up to the house of the LORD on the third day?”"
+hebrew: "וַיֹּ֤אמֶר חִזְקִיָּ֙הוּ֙ אֶֽל־ יְשַׁעְיָ֔הוּ מָ֣ה א֔וֹת כִּֽי־ יִרְפָּ֥א יְהוָ֖ה לִ֑י וְעָלִ֛יתִי בַּיּ֥וֹם הַשְּׁלִישִׁ֖י בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Kgs.20.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIGN|SIGN]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2396G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3470A]]"
+- "[[H4100]]"
+- "[[H0226G]]"
+- "[[H3588A]]"
+- "[[H7495]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7992]]"
+- "[[H1004Q]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 20:8**<big><big>[[2Kgs.20.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah said unto Isaiah, What [shall be] the sign that the LORD will heal me, and that I shall go up into the house of the LORD the third day?
 <small><sub>**BSB:**</sub></small>
 Now Hezekiah had asked Isaiah, “What will be the sign that the LORD will heal me and that I will go up to the house of the LORD on the third day?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H2396G\|חִזְקִיָּ֙הוּ֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3470A\|יְשַׁעְיָ֔הוּ]] [[H4100\|מָ֣ה]] [[H0226G\|א֔וֹת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7495\|יִרְפָּ֥א]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לִ֑]][[H9030\|י]] [[H9001\|וְ]][[H5927G\|עָלִ֛יתִי]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֖י]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DISEASE|DISEASE]] • [[topic FAITH|FAITH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic RULERS|RULERS]] • [[topic SIGN|SIGN]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.7|<< 2 Kings 20:7]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.9|2 Kings 20:9 >>]]</td></tr></table>
 

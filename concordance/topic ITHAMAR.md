@@ -9,5 +9,5 @@
 
 → Forbidden to lament the death of his brothers, Nadab and Abihu [[Lev.10.6|Le 10:6]],[[Lev.10.7|7]]
 
-→ Descendants of [[1Chr.24.1|1Ch 24:1]]-[[1Chr.24.19|19]]
+→ Descendants of [[1Chr.24.1|1Ch 24:1-19]]
 

@@ -1,8 +1,66 @@
+---
+title: Amos 2:6
+type: Verse
+kjv: "Thus saith the LORD; For three transgressions of Israel, and for four, I will not turn away the punishment thereof; because they sold the righteous for silver, and the poor for a pair of shoes;"
+bsb: "This is what the LORD says: “For three transgressions of Israel, even four, I will not revoke My judgment, because they sell the righteous for silver and the needy for a pair of sandals."
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה עַל־ שְׁלֹשָׁה֙ פִּשְׁעֵ֣י יִשְׂרָאֵ֔ל וְעַל־ אַרְבָּעָ֖ה לֹ֣א אֲשִׁיבֶ֑נּוּ עַל־ מִכְרָ֤ם בַּכֶּ֙סֶף֙ צַדִּ֔יק וְאֶבְי֖וֹן בַּעֲב֥וּר נַעֲלָֽיִם׃"
+pericope: "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SHOE|SHOE]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H6588]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H3808]]"
+- "[[H7725O]]"
+- "[[H9033]]"
+- "[[H4376]]"
+- "[[H9048]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H6662]]"
+- "[[H0034]]"
+- "[[H5668]]"
+- "[[H5275]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 2:6**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; For three transgressions of Israel, and for four, I will not turn away [the punishment] thereof; because they sold the righteous for silver, and the poor for a pair of shoes;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “For three transgressions of Israel, even four, I will not revoke My judgment, because they sell the righteous for silver and the needy for a pair of sandals.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7969\|שְׁלֹשָׁה֙]] [[H6588\|פִּשְׁעֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבָּעָ֖ה]] [[H3808\|לֹ֣א]] [[H7725O\|אֲשִׁיבֶ֑]][[H9033\|נּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4376\|מִכְרָ֤]][[H9048\|ם]] [[H9003\|בַּ]][[H3701G\|כֶּ֙סֶף֙]] [[H6662\|צַדִּ֔יק]] [[H9002\|וְ]][[H0034\|אֶבְי֖וֹן]] [[H9003\|בַּ]][[H5668\|עֲב֥וּר]] [[H5275\|נַעֲלָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic POOR|POOR]] • [[topic SHOE|SHOE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.5|<< Amos 2:5]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.7|Amos 2:7 >>]]</td></tr></table>
 

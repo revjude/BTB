@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 1:43
+type: Verse
+kjv: "Now these are the kings that reigned in the land of Edom before any king reigned over the children of Israel; Bela the son of Beor: and the name of his city was Dinhabah."
+bsb: "These are the kings who reigned in the land of Edom before any king reigned over the Israelites: Bela son of Beor. His city was named Dinhabah."
+hebrew: "וְאֵ֣לֶּה הַמְּלָכִ֗ים אֲשֶׁ֤ר מָלְכוּ֙ בְּאֶ֣רֶץ אֱד֔וֹם לִפְנֵ֥י מְלָךְ־ מֶ֖לֶךְ לִבְנֵ֣י יִשְׂרָאֵ֑ל בֶּ֚לַע בֶּן־ בְּע֔וֹר וְשֵׁ֥ם עִיר֖וֹ דִּנְהָֽבָה׃"
+pericope: "[[1Chr.1.43 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 1
+book/chapter: "[[1Chr.1|1 Chronicles 1]]"
+chronological_order: 320
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BELA|BELA]]"
+- "[[topic BEOR|BEOR]]"
+- "[[topic DINHABAH|DINHABAH]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic KING|KING]]"
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0123G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1106G]]"
+- "[[H1121A]]"
+- "[[H1160G]]"
+- "[[H8034]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H1838]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 1:43**<big><big>[[1Chr.1.43 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the kings that reigned in the land of Edom before [any] king reigned over the children of Israel; Bela the son of Beor: and the name of his city [was] Dinhabah.
 <small><sub>**BSB:**</sub></small>
 These are the kings who reigned in the land of Edom before any king reigned over the Israelites: Bela son of Beor. His city was named Dinhabah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֣לֶּה]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H4427A\|מָלְכוּ֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H0123G\|אֱד֔וֹם]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4427A\|מְלָךְ]][[H9014\|־]] [[H4428G\|מֶ֖לֶךְ]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H1106G\|בֶּ֚לַע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1160G\|בְּע֔וֹר]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H5892B\|עִיר֖]][[H9023\|וֹ]] [[H1838\|דִּנְהָֽבָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELA|BELA]] • [[topic BEOR|BEOR]] • [[topic DINHABAH|DINHABAH]] • [[topic EDOMITES|EDOMITES]] • [[topic GENEALOGY|GENEALOGY]] • [[topic KING|KING]] • [[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.1.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.1.42|<< 1 Chronicles 1:42]]</td><td align="center" style="border:none;">[[1Chr.1|1 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.1.44|1 Chronicles 1:44 >>]]</td></tr></table>
 

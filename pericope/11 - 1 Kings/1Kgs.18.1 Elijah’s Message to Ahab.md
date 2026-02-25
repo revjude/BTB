@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elijah’s Message to Ahab
+type: Pericope
 pericope: "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 18
 book/chapter: "[[1Kgs.18|1 Kings 18]]"
-genre:
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 15
 verses:
 - "[[1Kgs.18.1]]"
 - "[[1Kgs.18.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[1Kgs.18.15]]"
 ---
 
-[[1Kgs.18|1 Kings 18:1 - 1 Kings 18:15]]
+<small>[[1Kgs.18|1 Kings 18:1-15]]</small>
 *Elijah’s Message to Ahab*
 
 [[1Kgs.18.1|1]] And it came to pass \[after\] many days, that the word of the LORD came to Elijah in the third year, saying, Go, shew thyself unto Ahab; and I will send rain upon the earth.

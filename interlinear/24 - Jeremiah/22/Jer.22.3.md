@@ -1,8 +1,78 @@
+---
+title: Jeremiah 22:3
+type: Verse
+kjv: "Thus saith the LORD; Execute ye judgment and righteousness, and deliver the spoiled out of the hand of the oppressor: and do no wrong, do no violence to the stranger, the fatherless, nor the widow, neither shed innocent blood in this place."
+bsb: "This is what the LORD says: Administer justice and righteousness. Rescue the victim of robbery from the hand of his oppressor. Do no wrong or violence to the foreigner, the fatherless, or the widow. Do not shed innocent blood in this place."
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה עֲשׂ֤וּ מִשְׁפָּט֙ וּצְדָקָ֔ה וְהַצִּ֥ילוּ גָז֖וּל מִיַּ֣ד עָשׁ֑וֹק וְגֵר֩ יָת֨וֹם וְאַלְמָנָ֤ה אַל־ תֹּנוּ֙ אַל־ תַּחְמֹ֔סוּ וְדָ֣ם נָקִ֔י אַֽל־ תִּשְׁפְּכ֖וּ בַּמָּק֥וֹם הַזֶּֽה׃"
+pericope: "[[Jer.22.1 A Warning to Judah’s Kings|A Warning to Judah’s Kings]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H5337]]"
+- "[[H1497]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H6216]]"
+- "[[H1616]]"
+- "[[H3490]]"
+- "[[H0490]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3238]]"
+- "[[H2554]]"
+- "[[H1818]]"
+- "[[H5355A]]"
+- "[[H8210H]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:3**<big><big>[[Jer.22.1 A Warning to Judah’s Kings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Execute ye judgment and righteousness, and deliver the spoiled out of the hand of the oppressor: and do no wrong, do no violence to the stranger, the fatherless, nor the widow, neither shed innocent blood in this place.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: Administer justice and righteousness. Rescue the victim of robbery from the hand of his oppressor. Do no wrong or violence to the foreigner, the fatherless, or the widow. Do not shed innocent blood in this place.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H6213A\|עֲשׂ֤וּ]] [[H4941H\|מִשְׁפָּט֙]] [[H9002\|וּ]][[H6666\|צְדָקָ֔ה]] [[H9002\|וְ]][[H5337\|הַצִּ֥ילוּ]] [[H1497\|גָז֖וּל]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H6216\|עָשׁ֑וֹק]] [[H9002\|וְ]][[H1616\|גֵר֩]] [[H3490\|יָת֨וֹם]] [[H9002\|וְ]][[H0490\|אַלְמָנָ֤ה]] [[H0408\|אַל]][[H9014\|־]] [[H3238\|תֹּנוּ֙]] [[H0408\|אַל]][[H9014\|־]] [[H2554\|תַּחְמֹ֔סוּ]] [[H9002\|וְ]][[H1818\|דָ֣ם]] [[H5355A\|נָקִ֔י]] [[H0408\|אַֽל]][[H9014\|־]] [[H8210H\|תִּשְׁפְּכ֖וּ]] [[H9003\|בַּ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]] • [[topic ORPHAN|ORPHAN]] • [[topic REWARD|REWARD]] • [[topic RULERS|RULERS]] • [[topic STRANGERS|STRANGERS]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.2|<< Jeremiah 22:2]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.4|Jeremiah 22:4 >>]]</td></tr></table>
 

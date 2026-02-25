@@ -1,8 +1,70 @@
+---
+title: 1 Kings 22:15
+type: Verse
+kjv: "So he came to the king. And the king said unto him, Micaiah, shall we go against Ramothgilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the LORD shall deliver it into the hand of the king."
+bsb: "When Micaiah arrived, the king asked him, “Micaiah, should we go to war against Ramoth-gilead, or should we refrain?” “Go up and triumph,” Micaiah replied, “for the LORD will deliver it into the hand of the king.”"
+hebrew: "וַיָּבוֹא֮ אֶל־ הַמֶּלֶךְ֒ וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֵלָ֗יו מִיכָ֙יְהוּ֙ הֲנֵלֵ֞ךְ אֶל־ רָמֹ֥ת גִּלְעָ֛ד לַמִּלְחָמָ֖ה אִם־ נֶחְדָּ֑ל וַיֹּ֤אמֶר אֵלָיו֙ עֲלֵ֣ה וְהַצְלַ֔ח וְנָתַ֥ן יְהוָ֖ה בְּיַ֥ד הַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.22.13 Micaiah Prophesies against Ahab|Micaiah Prophesies against Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H4321G]]"
+- "[[H9008]]"
+- "[[H1980G]]"
+- "[[H7418G]]"
+- "[[H1568M]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H0518A]]"
+- "[[H2308]]"
+- "[[H5927G]]"
+- "[[H9002]]"
+- "[[H6743B]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:15**<big><big>[[1Kgs.22.13 Micaiah Prophesies against Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he came to the king. And the king said unto him, Micaiah, shall we go against Ramothgilead to battle, or shall we forbear? And he answered him, Go, and prosper: for the LORD shall deliver [it] into the hand of the king.
 <small><sub>**BSB:**</sub></small>
 When Micaiah arrived, the king asked him, “Micaiah, should we go to war against Ramoth-gilead, or should we refrain?” “Go up and triumph,” Micaiah replied, “for the LORD will deliver it into the hand of the king.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבוֹא֮]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּלֶךְ֒]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H4321G\|מִיכָ֙יְהוּ֙]] [[H9008\|הֲ]][[H1980G\|נֵלֵ֞ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H7418G\|רָמֹ֥ת]] [[H1568M\|גִּלְעָ֛ד]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H0518A\|אִם]][[H9014\|־]] [[H2308\|נֶחְדָּ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H5927G\|עֲלֵ֣ה]] [[H9002\|וְ]][[H6743B\|הַצְלַ֔ח]] [[H9001\|וְ]][[H5414G\|נָתַ֥ן]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic IRONY|IRONY]] • [[topic MICAIAH|MICAIAH]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.14|<< 1 Kings 22:14]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.16|1 Kings 22:16 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: 1 Timothy 3:7
+type: Verse
+kjv: "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil."
+bsb: "Furthermore, he must have a good reputation with outsiders, so that he will not fall into disgrace and into the snare of the devil."
+greek: "δεῖ δὲ αὐτὸν καὶ μαρτυρίαν καλὴν ἔχειν ἀπὸ τῶν ἔξωθεν, ἵνα μὴ εἰς ὀνειδισμὸν ἐμπέσῃ καὶ παγίδα τοῦ διαβόλου.¶"
+pericope: "[[1Tim.3.1 Qualifications for Overseers|Qualifications for Overseers]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BISHOP|BISHOP]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G1163]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3141]]"
+- "[[G2570G]]"
+- "[[G2192]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1855]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1519]]"
+- "[[G3680]]"
+- "[[G1706]]"
+- "[[G3803]]"
+- "[[G1228]]"
+texts:
+- NKO
+- k
+---
+
 **1 Timothy 3:7**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil.
 <small><sub>**BSB:**</sub></small>
 Furthermore, he must have a good reputation with outsiders, so that he will not fall into disgrace and into the snare of the devil.
-<small><sub>**Literal:**</sub></small>
-It behooves now him also a testimony good to have from those outside, so that not into reproach he may fall and [the] snare of the devil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.6|<< 1 Timothy 3:6]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.8|1 Timothy 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1163\|δεῖ]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3141\|μαρτυρίαν]]  [[G2570G\|καλὴν]]  [[G2192\|ἔχειν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G1855\|ἔξωθεν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1519\|εἰς]]  [[G3680\|ὀνειδισμὸν]]  [[G1706\|ἐμπέσῃ]]  [[G2532\|καὶ]]  [[G3803\|παγίδα]]  [[G3588\|τοῦ]]  [[G1228\|διαβόλου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BISHOP|BISHOP]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.6|<< 1 Timothy 3:6]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.8|1 Timothy 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

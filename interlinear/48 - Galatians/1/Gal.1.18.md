@@ -1,10 +1,57 @@
+---
+title: Galatians 1:18
+type: Verse
+kjv: "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
+bsb: "Only after three years did I go up to Jerusalem to confer with Cephas, and I stayed with him fifteen days."
+greek: "ἔπειτα μετὰ ἔτη τρία ἀνῆλθον εἰς Ἱεροσόλυμα ἱστορῆσαι Κηφᾶν καὶ ἐπέμεινα πρὸς αὐτὸν ἡμέρας δεκαπέντε·"
+pericope: "[[Gal.1.10 Paul Preaches the Gospel|Paul Preaches the Gospel]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G1899]]"
+- "[[G3326]]"
+- "[[G2094]]"
+- "[[G5140]]"
+- "[[G0424]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G2477]]"
+- "[[G2786]]"
+- "[[G2532]]"
+- "[[G1961]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2250]]"
+- "[[G1178]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Galatians 1:18**<big><big>[[Gal.1.10 Paul Preaches the Gospel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.
 <small><sub>**BSB:**</sub></small>
 Only after three years did I go up to Jerusalem to confer with Cephas, and I stayed with him fifteen days.
-<small><sub>**Literal:**</sub></small>
-Then after years three I went up to Jerusalem to make acquaintance with Cephas and I remained with him days fifteen;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.17|<< Galatians 1:17]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.19|Galatians 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1899\|ἔπειτα]]  [[G3326\|μετὰ]]  [[G2094\|ἔτη]]  [[G5140\|τρία]]  [[G0424\|ἀνῆλθον]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G2477\|ἱστορῆσαι]]  [[G2786\|Κηφᾶν]]  [[G2532\|καὶ]]  [[G1961\|ἐπέμεινα]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2250\|ἡμέρας]]  [[G1178\|δεκαπέντε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.17|<< Galatians 1:17]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.19|Galatians 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

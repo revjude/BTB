@@ -1,8 +1,55 @@
+---
+title: Proverbs 15:23
+type: Verse
+kjv: "A man hath joy by the answer of his mouth: and a word spoken in due season, how good is it!"
+bsb: "A man takes joy in a fitting reply—and how good is a timely word!"
+hebrew: "שִׂמְחָ֣ה לָ֭אִישׁ בְּמַעֲנֵה־ פִ֑יו וְדָבָ֖ר בְּעִתּ֣וֹ מַה־ טּֽוֹב׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H8057]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H9003]]"
+- "[[H4617]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H6256]]"
+- "[[H4100]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:23**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man hath joy by the answer of his mouth: and a word [spoken] in due season, how good [is it]!
 <small><sub>**BSB:**</sub></small>
 A man takes joy in a fitting reply—and how good is a timely word!
+<small><sub>**Hebrew:**</sub></small>
+[[H8057\|שִׂמְחָ֣ה]] [[H9005\|לָ֭]][[H0376G\|אִישׁ]] [[H9003\|בְּ]][[H4617\|מַעֲנֵה]][[H9014\|־]] [[H6310G\|פִ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H1697G\|דָבָ֖ר]] [[H9003\|בְּ]][[H6256\|עִתּ֣]][[H9023\|וֹ]] [[H4100\|מַה]][[H9014\|־]] [[H2896A\|טּֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]] • [[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.22|<< Proverbs 15:22]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.24|Proverbs 15:24 >>]]</td></tr></table>
 

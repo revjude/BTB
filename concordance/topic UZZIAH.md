@@ -19,9 +19,9 @@
 
 - Promotes cattle raising and agriculture [[2Chr.26.10|2Ch 26:10]]
 
-- Military establishment of [[2Chr.26.11|2Ch 26:11]]-[[2Chr.26.15|15]]
+- Military establishment of [[2Chr.26.11|2Ch 26:11-15]]
 
-- Is presumptuous in burning incense; stricken with leprosy; quarantined [[2Chr.26.16|2Ch 26:16]]-[[2Chr.26.21|21]]; [[2Kgs.15.5|2Ki 15:5]]
+- Is presumptuous in burning incense; stricken with leprosy; quarantined [[2Chr.26.16|2Ch 26:16-21]]; [[2Kgs.15.5|2Ki 15:5]]
 
 - Jotham regent during quarantine of [[2Kgs.15.5|2Ki 15:5]]; [[2Chr.26.21|2Ch 26:21]]
 

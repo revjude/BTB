@@ -1,10 +1,59 @@
+---
+title: Luke 22:68
+type: Verse
+kjv: "And if I also ask you, ye will not answer me, nor let me go."
+bsb: "And if I ask you a question, you will not answer."
+jesus_said: "And if I also ask you, ye will not answer me, nor let me go."
+greek: "ἐὰν δὲ καὶ ἐρωτήσω, οὐ μὴ ἀποκριθῆτε μοι, ἢ ἀπολύσητε."
+pericope: "[[Luke.22.66 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2065]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0611]]"
+- "[[G3165]]"
+- "[[G2228]]"
+- "[[G0630G]]"
+texts:
+- NKO
+- k
+- KO
+---
+
 **Luke 22:68**<big><big>[[Luke.22.66 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if I also ask [you], ye will not answer me, nor let [me] go.
 <small><sub>**BSB:**</sub></small>
 And if I ask you a question, you will not answer.
-<small><sub>**Literal:**</sub></small>
-if then and I shall ask [you], certainly not you shall answer to me nor shall you release [me].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.67|<< Luke 22:67]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.69|Luke 22:69 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2065\|ἐρωτήσω,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0611\|ἀποκριθῆτε]]  [[G3165\|μοι,]]  [[G2228\|ἢ]]  [[G0630G\|ἀπολύσητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.67|<< Luke 22:67]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.69|Luke 22:69 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

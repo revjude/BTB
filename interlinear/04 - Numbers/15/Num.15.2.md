@@ -1,8 +1,63 @@
+---
+title: Numbers 15:2
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you,"
+bsb: "“Speak to the Israelites and tell them: After you enter the land that I am giving you as a home"
+hebrew: "דַּבֵּר֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם כִּ֣י תָבֹ֗אוּ אֶל־ אֶ֙רֶץ֙ מוֹשְׁבֹ֣תֵיכֶ֔ם אֲשֶׁ֥ר אֲנִ֖י נֹתֵ֥ן לָכֶֽם׃"
+pericope: "[[Num.15.1 Laws about Offerings|Laws about Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H4186]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:2**<big><big>[[Num.15.1 Laws about Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, When ye be come into the land of your habitations, which I give unto you,
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and tell them: After you enter the land that I am giving you as a home
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H3588A\|כִּ֣י]] [[H0935G\|תָבֹ֗אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֙רֶץ֙]] [[H4186\|מוֹשְׁבֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0589\|אֲנִ֖י]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.1|<< Numbers 15:1]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.3|Numbers 15:3 >>]]</td></tr></table>
 

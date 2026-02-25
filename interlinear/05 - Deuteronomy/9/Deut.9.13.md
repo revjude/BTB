@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 9:13
+type: Verse
+kjv: "Furthermore the LORD spake unto me, saying, I have seen this people, and, behold, it is a stiffnecked people:"
+bsb: "The LORD also said to me, “I have seen this people, and they are indeed a stiff-necked people."
+hebrew: "וַיֹּ֥אמֶר יְהוָ֖ה אֵלַ֣י לֵאמֹ֑ר רָאִ֙יתִי֙ אֶת־ הָעָ֣ם הַזֶּ֔ה וְהִנֵּ֥ה עַם־ קְשֵׁה־ עֹ֖רֶף הֽוּא׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H7186]]"
+- "[[H6203]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:13**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Furthermore the LORD spake unto me, saying, I have seen this people, and, behold, it [is] a stiffnecked people:
 <small><sub>**BSB:**</sub></small>
 The LORD also said to me, “I have seen this people, and they are indeed a stiff-necked people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלַ֣]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H7200G\|רָאִ֙יתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H5971A\|עַם]][[H9014\|־]] [[H7186\|קְשֵׁה]][[H9014\|־]] [[H6203\|עֹ֖רֶף]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic HUMILITY|HUMILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic SELF-WILL|SELF-WILL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.12|<< Deuteronomy 9:12]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.14|Deuteronomy 9:14 >>]]</td></tr></table>
 

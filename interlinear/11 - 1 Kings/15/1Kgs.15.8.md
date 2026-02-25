@@ -1,8 +1,63 @@
+---
+title: 1 Kings 15:8
+type: Verse
+kjv: "And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead."
+bsb: "And Abijam rested with his fathers and was buried in the City of David, and his son Asa reigned in his place."
+hebrew: "וַיִּשְׁכַּ֤ב אֲבִיָּם֙ עִם־ אֲבֹתָ֔יו וַיִּקְבְּר֥וּ אֹת֖וֹ בְּעִ֣יר דָּוִ֑ד וַיִּמְלֹ֛ךְ אָסָ֥א בְנ֖וֹ תַּחְתָּֽיו׃ פ"
+pericope: "[[1Kgs.15.1 Abijam Reigns in Judah|Abijam Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAM|ABIJAM]]"
+- "[[topic ASA|ASA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901J]]"
+- "[[H0038]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H4427A]]"
+- "[[H0609G]]"
+- "[[H1121A]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 15:8**<big><big>[[1Kgs.15.1 Abijam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 And Abijam rested with his fathers and was buried in the City of David, and his son Asa reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901J\|יִּשְׁכַּ֤ב]] [[H0038\|אֲבִיָּם֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H6912\|יִּקְבְּר֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֑ד]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H0609G\|אָסָ֥א]] [[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAM|ABIJAM]] • [[topic ASA|ASA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.7|<< 1 Kings 15:7]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.9|1 Kings 15:9 >>]]</td></tr></table>
 
@@ -19,7 +74,7 @@ And Abijam rested with his fathers and was buried in the City of David, and his 
 | and he became king  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יִּמְלֹ֛ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Asa  |**<big>&#8207;[[H0609G\|אָסָ֥א]]&#8207; </big>**| 'a.Sa'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | son his  |**<big>&#8207;[[H1121A\|בְנ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ve.N<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in place of him  |**<big>&#8207;[[H8478H\|תַּחְתָּֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tach.Ta<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.7|<< 1 Kings 15:7]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.9|1 Kings 15:9 >>]]</td></tr></table>
 
 

@@ -1,8 +1,64 @@
+---
+title: Isaiah 43:3
+type: Verse
+kjv: "For I am the LORD thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee."
+bsb: "For I am the LORD your God, the Holy One of Israel, your Savior; I give Egypt for your ransom, Cush and Seba in your place."
+hebrew: "כִּ֗י אֲנִי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ קְד֥וֹשׁ יִשְׂרָאֵ֖ל מוֹשִׁיעֶ֑ךָ נָתַ֤תִּי כָפְרְךָ֙ מִצְרַ֔יִם כּ֥וּשׁ וּסְבָ֖א תַּחְתֶּֽיךָ׃"
+pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SABEANS|SABEANS]]"
+- "[[topic SEBA|SEBA]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H3467]]"
+- "[[H9031]]"
+- "[[H5414G]]"
+- "[[H3724A]]"
+- "[[H4714G]]"
+- "[[H3568A]]"
+- "[[H9002]]"
+- "[[H5434H]]"
+- "[[H8478H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:3**<big><big>[[Isa.43.1 Israel’s Only Savior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [am] the LORD thy God, the Holy One of Israel, thy Saviour: I gave Egypt [for] thy ransom, Ethiopia and Seba for thee.
 <small><sub>**BSB:**</sub></small>
 For I am the LORD your God, the Holy One of Israel, your Savior; I give Egypt for your ransom, Cush and Seba in your place.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֗י]] [[H0589\|אֲנִי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H6918G\|קְד֥וֹשׁ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3467\|מוֹשִׁיעֶ֑]][[H9031\|ךָ]] [[H5414G\|נָתַ֤תִּי]] [[H3724A\|כָפְרְ]][[H9021\|ךָ֙]] [[H4714G\|מִצְרַ֔יִם]] [[H3568A\|כּ֥וּשׁ]] [[H9002\|וּ]][[H5434H\|סְבָ֖א]] [[H8478H\|תַּחְתֶּֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic SABEANS|SABEANS]] • [[topic SEBA|SEBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.2|<< Isaiah 43:2]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.4|Isaiah 43:4 >>]]</td></tr></table>
 

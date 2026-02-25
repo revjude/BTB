@@ -1,8 +1,56 @@
+---
+title: Proverbs 5:17
+type: Verse
+kjv: "Let them be only thine own, and not strangers’ with thee."
+bsb: "Let them be yours alone, never to be shared with strangers."
+hebrew: "יִֽהְיוּ־ לְךָ֥ לְבַדֶּ֑ךָ וְאֵ֖ין לְזָרִ֣ים אִתָּֽךְ׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0905H]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H2114A]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:17**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be only thine own, and not strangers’ with thee.
 <small><sub>**BSB:**</sub></small>
 Let them be yours alone, never to be shared with strangers.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יִֽהְיוּ]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H9005\|לְ]][[H0905H\|בַדֶּ֑]][[H9031\|ךָ]] [[H9002\|וְ]][[H0369\|אֵ֖ין]] [[H9005\|לְ]][[H2114A\|זָרִ֣ים]] [[H0854\|אִתָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HUSBAND|HUSBAND]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.16|<< Proverbs 5:16]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.18|Proverbs 5:18 >>]]</td></tr></table>
 

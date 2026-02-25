@@ -11,11 +11,11 @@
 
 3. A cor, equal to one homer or ten ephahs, equal to about eleven  and one-ninth bushels [[1Kgs.4.22|1Ki 4:22]]; [[1Kgs.5.11|5:11]]; [[2Chr.2.10|2Ch 2:10]]; [[2Chr.27.5|27:5]]; [[Ezra.7.22|Ezr 7:22]]
 
-4. An ephah, equal to three seah, and in liquid, to a bath, containing  about a bushel and a half [[Exod.16.36|Ex 16:36]]; [[Lev.5.11|Le 5:11]]; [[Lev.6.20|6:20]]; [[Lev.19.36|19:36]]; [[Num.5.15|Nu 5:15]]; [[Num.28.5|28:5]]; [[Judg.6.19|Jud 6:19]]; [[Ruth.2.17|Ru 2:17]]; [[1Sam.1.24|1Sa 1:24]]; [[1Sam.17.17|17:17]]; [[Isa.5.10|Isa 5:10]]; [[Ezek.45.10|Eze 45:10]],[[Ezek.45.11|11]],[[Ezek.45.13|13]],[[Ezek.45.24|24]]; [[Ezek.46.5|46:5]],[[Ezek.46.7|7]],[[Ezek.46.11|11]],[[Ezek.46.14|14]]; [[Amos.8.5|Am 8:5]]; [[Zech.5.6|Zec 5:6]]-[[Zech.5.10|10]]
+4. An ephah, equal to three seah, and in liquid, to a bath, containing  about a bushel and a half [[Exod.16.36|Ex 16:36]]; [[Lev.5.11|Le 5:11]]; [[Lev.6.20|6:20]]; [[Lev.19.36|19:36]]; [[Num.5.15|Nu 5:15]]; [[Num.28.5|28:5]]; [[Judg.6.19|Jud 6:19]]; [[Ruth.2.17|Ru 2:17]]; [[1Sam.1.24|1Sa 1:24]]; [[1Sam.17.17|17:17]]; [[Isa.5.10|Isa 5:10]]; [[Ezek.45.10|Eze 45:10]],[[Ezek.45.11|11]],[[Ezek.45.13|13]],[[Ezek.45.24|24]]; [[Ezek.46.5|46:5]],[[Ezek.46.7|7]],[[Ezek.46.11|11]],[[Ezek.46.14|14]]; [[Amos.8.5|Am 8:5]]; [[Zech.5.6|Zec 5:6-10]]
 
 5. A half-homer, about five and a half bushels [[Hos.3.2|Ho 3:2]]
 
-6. A homer, about eleven bushels, equal to a cor or ten ephahs [[Lev.27.16|Le 27:16]]; [[Num.11.32|Nu 11:32]]; [[Isa.5.10|Isa 5:10]]; [[Ezek.45.11|Eze 45:11]]-[[Ezek.45.14|14]]; [[Hos.3.2|Ho 3:2]]
+6. A homer, about eleven bushels, equal to a cor or ten ephahs [[Lev.27.16|Le 27:16]]; [[Num.11.32|Nu 11:32]]; [[Isa.5.10|Isa 5:10]]; [[Ezek.45.11|Eze 45:11-14]]; [[Hos.3.2|Ho 3:2]]
 
 7. An omer, about one bushel [[Exod.16.16|Ex 16:16]],[[Exod.16.18|18]]
 
@@ -29,7 +29,7 @@
 
 2. A firkin, nearly nine gallons [[John.2.6|Joh 2:6]]
 
-3. A hin, about a gallon and a half [[Exod.29.40|Ex 29:40]]; [[Exod.30.24|30:24]]; [[Lev.19.36|Le 19:36]]; [[Lev.23.13|23:13]]; [[Num.15.4|Nu 15:4]]-[[Num.15.10|10]]; [[Num.28.5|28:5]],[[Num.28.7|7]],[[Num.28.14|14]]; [[Ezek.4.11|Eze 4:11]]
+3. A hin, about a gallon and a half [[Exod.29.40|Ex 29:40]]; [[Exod.30.24|30:24]]; [[Lev.19.36|Le 19:36]]; [[Lev.23.13|23:13]]; [[Num.15.4|Nu 15:4-10]]; [[Num.28.5|28:5]],[[Num.28.7|7]],[[Num.28.14|14]]; [[Ezek.4.11|Eze 4:11]]
 
 4. A log, about a pint, one-twelfth of a hin [[Lev.14.10|Le 14:10]],[[Lev.14.12|12]],[[Lev.14.15|15]],[[Lev.14.21|21]],[[Lev.14.24|24]]
 
@@ -59,7 +59,7 @@
 
 → 10. A Sabbath day's journey, two thousand paces [[Acts.1.12|Ac  1:12]]
 
-→ MUST BE JUST [[Lev.19.35|Le 19:35]],[[Lev.19.36|36]]; [[Deut.25.13|De 25:13]]-[[Deut.25.16|16]]; [[Prov.11.1|Pr 11:1]]; [[Prov.16.11|16:11]]; [[Prov.20.10|20:10]],[[Prov.20.23|23]]; [[Hos.12.7|Ho 12:7]]-[[Hos.12.9|9]]; [[Mic.6.10|Mic 6:10]]-[[Mic.6.12|12]]
+→ MUST BE JUST [[Lev.19.35|Le 19:35]],[[Lev.19.36|36]]; [[Deut.25.13|De 25:13-16]]; [[Prov.11.1|Pr 11:1]]; [[Prov.16.11|16:11]]; [[Prov.20.10|20:10]],[[Prov.20.23|23]]; [[Hos.12.7|Ho 12:7-9]]; [[Mic.6.10|Mic 6:10-12]]
 
 - See [[topic DISHONESTY|DISHONESTY]]
 

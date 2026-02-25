@@ -1,10 +1,66 @@
+---
+title: Mark 9:50
+type: Verse
+kjv: "Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another."
+bsb: "Salt is good, but if the salt loses its saltiness, with what will you season it? Have salt among yourselves, and be at peace with one another.”"
+jesus_said: "Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another."
+greek: "καλὸν τὸ ἅλας· ἐὰν δὲ τὸ ἅλας ἄναλον γένηται, ἐν τίνι αὐτὸ ἀρτύσετε; ἔχετε ἐν ἑαυτοῖς ἅλα καὶ εἰρηνεύετε ἐν ἀλλήλοις.¶"
+pericope: "[[Mark.9.49 Good Salt|Good Salt]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic SALT|SALT]]"
+strongs:
+- "[[G2570G]]"
+- "[[G3588]]"
+- "[[G0217]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G0358]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G5101]]"
+- "[[G0846]]"
+- "[[G0741]]"
+- "[[G2192]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G1514]]"
+- "[[G0240]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 9:50**<big><big>[[Mark.9.49 Good Salt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Salt [is] good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another.
 <small><sub>**BSB:**</sub></small>
 Salt is good, but if the salt loses its saltiness, with what will you season it? Have salt among yourselves, and be at peace with one another.”
-<small><sub>**Literal:**</sub></small>
-Good [is] the salt; if however the salt unsalty may become, with what it will you season? do have in yourselves salt and do be at peace with one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.49|<< Mark 9:49]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.1|Mark 10:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2570G\|καλὸν]]  [[G3588\|τὸ]]  [[G0217\|ἅλας·]]  [[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G0217\|ἅλας]]  [[G0358\|ἄναλον]]  [[G1096\|γένηται,]]  [[G1722\|ἐν]]  [[G5101\|τίνι]]  [[G0846\|αὐτὸ]]  [[G0741\|ἀρτύσετε;]]  [[G2192\|ἔχετε]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς]]  [[G0217\|ἅλα]]  [[G2532\|καὶ]]  [[G1514\|εἰρηνεύετε]]  [[G1722\|ἐν]]  [[G0240\|ἀλλήλοις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HOLINESS|HOLINESS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PEACE|PEACE]] • [[topic SALT|SALT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.49|<< Mark 9:49]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.1|Mark 10:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

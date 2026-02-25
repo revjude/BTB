@@ -1,10 +1,64 @@
+---
+title: Mark 6:16
+type: Verse
+kjv: "But when Herod heard thereof, he said, It is John, whom I beheaded: he is risen from the dead."
+bsb: "But when Herod heard this, he said, “John, whom I beheaded, has risen from the dead!”"
+greek: "ἀκούσας δὲ ὁ Ἡρῴδης ἔλεγεν ὅτι· ὃν ἐγὼ ἀπεκεφάλισα Ἰωάννην, οὗτος ἐστιν αὐτὸς ἠγέρθη ἐκ νεκρῶν."
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2264H]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G0607]]"
+- "[[G2491G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+- N(k)O
+- k
+- ko
+---
+
 **Mark 6:16**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when Herod heard [thereof], he said, It is John, whom I beheaded: he is risen from the dead.
 <small><sub>**BSB:**</sub></small>
 But when Herod heard this, he said, “John, whom I beheaded, has risen from the dead!”
-<small><sub>**Literal:**</sub></small>
-Having heard now <the> Herod was saying that: Whom I myself beheaded John — he [it] is he himself is risen from dead.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.15|<< Mark 6:15]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.17|Mark 6:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἀκούσας]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2264H\|Ἡρῴδης]]  [[G3004G\|ἔλεγεν]]  [[G3754G\|ὅτι·]]  [[G3739\|ὃν]]  [[G1473\|ἐγὼ]]  [[G0607\|ἀπεκεφάλισα]]  [[G2491G\|Ἰωάννην,]]  [[G3778\|οὗτος]]  [[G1510\|ἐστιν]]  [[G0846\|αὐτὸς]]  [[G1453\|ἠγέρθη]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.15|<< Mark 6:15]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.17|Mark 6:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

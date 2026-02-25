@@ -1,8 +1,75 @@
+---
+title: 2 Kings 12:11
+type: Verse
+kjv: "And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the LORD: and they laid it out to the carpenters and builders, that wrought upon the house of the LORD,"
+bsb: "Then they would put the counted money into the hands of those who supervised the work on the house of the LORD, who in turn would pay those doing the work—the carpenters, builders,"
+hebrew: "וְנָתְנוּ֙ אֶת־ הַכֶּ֣סֶף הַֽמְתֻכָּ֔ן עַל־ יְדֵי֙ עֹשֵׂ֣י הַמְּלָאכָ֔ה הַמֻּפְקָדִ֖ים בֵּ֣ית יְהוָ֑ה וַיּוֹצִיאֻ֜הוּ לְחָרָשֵׁ֤י הָעֵץ֙ וְלַבֹּנִ֔ים הָעֹשִׂ֖ים בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Kgs.12.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 12
+book/chapter: "[[2Kgs.12|2 Kings 12]]"
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CARPENTRY|CARPENTRY]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H8505]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H6213J]]"
+- "[[H4399]]"
+- "[[H6485J]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3318H]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H2796]]"
+- "[[H6086K]]"
+- "[[H9002]]"
+- "[[H1129]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 12:11**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the LORD: and they laid it out to the carpenters and builders, that wrought upon the house of the LORD,
 <small><sub>**BSB:**</sub></small>
 Then they would put the counted money into the hands of those who supervised the work on the house of the LORD, who in turn would pay those doing the work—the carpenters, builders,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתְנוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֣סֶף]] [[H9009\|הַֽ]][[H8505\|מְתֻכָּ֔ן]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יְדֵי֙]] [[H6213J\|עֹשֵׂ֣י]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֔ה]] [[H9009\|הַ]][[H6485J\|מֻּפְקָדִ֖ים]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H3318H\|יּוֹצִיאֻ֜]][[H9033\|הוּ]] [[H9005\|לְ]][[H2796\|חָרָשֵׁ֤י]] [[H9009\|הָ]][[H6086K\|עֵץ֙]] [[H9002\|וְ]][[H9005\|לַ]][[H1129\|בֹּנִ֔ים]] [[H9009\|הָ]][[H6213A\|עֹשִׂ֖ים]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARPENTRY|CARPENTRY]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIADA|JEHOIADA]] • [[topic JOASH|JOASH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONEY|MONEY]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.10|<< 2 Kings 12:10]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.12|2 Kings 12:12 >>]]</td></tr></table>
 
@@ -30,7 +97,7 @@ Then they would put the counted money into the hands of those who supervised the
 
 [^1]: [the] hand of  | **<big>[[H3027G|יַד]]</big> ** | yad<small><sup>[[HNcbsc]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>יְדֵ֙</big></span>**
-[^3]: who were appointed  | **<big>[[H6485J|פְּקֻדִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.ku.dim<small><sup>[[HVqsmpa]]</sup></small> | K
-[^4]: who were appointed  | **<big>[[H6485J|פְּקֻדִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.ku.dim<small><sup>[[HVqsmpa]]</sup></small> | K
+[^3]: who were appointed  | **<big>[[H9009|הַ]]</big><big>[[H6485J|פְּקֻדִים]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.ku.dim<small><sup>[[HVqsmpa]]</sup></small> | K
+[^4]: who were appointed  | **<big>[[H9009|הַ]]</big><big>[[H6485J|פְּקֻדִים]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> pe.ku.dim<small><sup>[[HVqsmpa]]</sup></small> | K
 [^5]: L spelled: **<span class="ashebrew"><big>הַֻפְּקָדִ֖ים</big></span>**
 

@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 16:8
+type: Verse
+kjv: "Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the LORD chosen this."
+bsb: "Then Jesse called Abinadab and presented him to Samuel, who said, “The LORD has not chosen this one either.”"
+hebrew: "וַיִּקְרָ֤א יִשַׁי֙ אֶל־ אֲבִ֣ינָדָ֔ב וַיַּעֲבִרֵ֖הוּ לִפְנֵ֣י שְׁמוּאֵ֑ל וַיֹּ֕אמֶר גַּם־ בָּזֶ֖ה לֹֽא־ בָחַ֥ר יְהוָֽה׃"
+pericope: "[[1Sam.16.1 Samuel Anoints David|Samuel Anoints David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 16
+book/chapter: "[[1Sam.16|1 Samuel 16]]"
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABINADAB|ABINADAB]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H3448]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0041I]]"
+- "[[H5674A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H8050G]]"
+- "[[H0559]]"
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H0977]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 16:8**<big><big>[[1Sam.16.1 Samuel Anoints David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jesse called Abinadab, and made him pass before Samuel. And he said, Neither hath the LORD chosen this.
 <small><sub>**BSB:**</sub></small>
 Then Jesse called Abinadab and presented him to Samuel, who said, “The LORD has not chosen this one either.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֤א]] [[H3448\|יִשַׁי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0041I\|אֲבִ֣ינָדָ֔ב]] [[H9001\|וַ]][[H5674A\|יַּעֲבִרֵ֖]][[H9033\|הוּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H8050G\|שְׁמוּאֵ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H1571\|גַּם]][[H9014\|־]] [[H9003\|בָּ]][[H2088\|זֶ֖ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0977\|בָחַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABINADAB|ABINADAB]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic JESSE|JESSE]] • [[topic KING|KING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.16.7|<< 1 Samuel 16:7]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.9|1 Samuel 16:9 >>]]</td></tr></table>
 

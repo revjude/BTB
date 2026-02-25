@@ -1,10 +1,65 @@
+---
+title: Revelation 6:10
+type: Verse
+kjv: "And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?"
+bsb: "And they cried out in a loud voice, “How long, O Lord, holy and true, until You judge those who dwell upon the earth and avenge our blood?”"
+greek: "καὶ ἔκραξαν φωνῇ μεγάλῃ λέγοντες· ἕως πότε, ὁ δεσπότης ὁ ἅγιος καὶ ὁ ἀληθινός, οὐ κρίνεις καὶ ἐκδικεῖς τὸ αἷμα ἡμῶν ἐκ τῶν κατοικούντων ἐπὶ τῆς γῆς;"
+pericope: "[[Rev.6.9 The Fifth Seal：The Martyrs|The Fifth Seal：The Martyrs]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 6
+book/chapter: "[[Rev.6|Revelation 6]]"
+chronological_order: 1173
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2896]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G3004G]]"
+- "[[G2193]]"
+- "[[G4219]]"
+- "[[G3588]]"
+- "[[G1203]]"
+- "[[G0040G]]"
+- "[[G0228]]"
+- "[[G3756]]"
+- "[[G2919]]"
+- "[[G1556]]"
+- "[[G0129G]]"
+- "[[G3165]]"
+- "[[G1537]]"
+- "[[G2730]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 6:10**<big><big>[[Rev.6.9 The Fifth Seal：The Martyrs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
 <small><sub>**BSB:**</sub></small>
 And they cried out in a loud voice, “How long, O Lord, holy and true, until You judge those who dwell upon the earth and avenge our blood?”
-<small><sub>**Literal:**</sub></small>
-And they were crying in a voice loud saying; Until when, O Lord <the> holy and <the> true, not do You judge and you avenge the blood of us from those dwelling upon the earth?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.9|<< Revelation 6:9]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.11|Revelation 6:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2896\|ἔκραξαν]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ]]  [[G3004G\|λέγοντες·]]  [[G2193\|ἕως]]  [[G4219\|πότε,]]  [[G3588\|ὁ]]  [[G1203\|δεσπότης]]  [[G3588\|ὁ]]  [[G0040G\|ἅγιος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0228\|ἀληθινός,]]  [[G3756\|οὐ]]  [[G2919\|κρίνεις]]  [[G2532\|καὶ]]  [[G1556\|ἐκδικεῖς]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G3165\|ἡμῶν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2730\|κατοικούντων]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.6.9|<< Revelation 6:9]]</td><td align="center" style="border:none;">[[Rev.6|Revelation 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.6.11|Revelation 6:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

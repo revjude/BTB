@@ -1,8 +1,64 @@
+---
+title: Leviticus 27:9
+type: Verse
+kjv: "And if it be a beast, whereof men bring an offering unto the LORD, all that any man giveth of such unto the LORD shall be holy."
+bsb: "If he vows an animal that may be brought as an offering to the LORD, any such animal given to the LORD shall be holy."
+hebrew: "וְאִם־ בְּהֵמָ֔ה אֲשֶׁ֨ר יַקְרִ֧יבוּ מִמֶּ֛נָּה קָרְבָּ֖ן לַֽיהוָ֑ה כֹּל֩ אֲשֶׁ֨ר יִתֵּ֥ן מִמֶּ֛נּוּ לַיהוָ֖ה יִֽהְיֶה־ קֹּֽדֶשׁ׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0929]]"
+- "[[H0834A]]"
+- "[[H7126H]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H7133A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:9**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if [it be] a beast, whereof men bring an offering unto the LORD, all that [any man] giveth of such unto the LORD shall be holy.
 <small><sub>**BSB:**</sub></small>
 If he vows an animal that may be brought as an offering to the LORD, any such animal given to the LORD shall be holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H0929\|בְּהֵמָ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H7126H\|יַקְרִ֧יבוּ]] [[H4480A\|מִמֶּ֛]][[H9034\|נָּה]] [[H7133A\|קָרְבָּ֖ן]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H3605\|כֹּל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|יִתֵּ֥ן]] [[H4480A\|מִמֶּ֛]][[H9033\|נּוּ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.8|<< Leviticus 27:8]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.10|Leviticus 27:10 >>]]</td></tr></table>
 

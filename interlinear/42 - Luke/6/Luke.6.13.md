@@ -1,10 +1,59 @@
+---
+title: Luke 6:13
+type: Verse
+kjv: "And when it was day, he called unto him his disciples: and of them he chose twelve, whom also he named apostles;"
+bsb: "When daylight came, He called His disciples to Him and chose twelve of them, whom He also designated as apostles:"
+greek: "καὶ ὅτε ἐγένετο ἡμέρα, προσεφώνησεν τοὺς μαθητὰς αὐτοῦ, καὶ ἐκλεξάμενος ἀπ᾽ αὐτῶν δώδεκα οὓς καὶ ἀποστόλους ὠνόμασεν·"
+pericope: "[[Luke.6.12 The Twelve Apostles|The Twelve Apostles]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CALL|CALL]]"
+- "[[topic ELECTION|ELECTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G1096]]"
+- "[[G2250]]"
+- "[[G4377]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1586]]"
+- "[[G0575]]"
+- "[[G1427]]"
+- "[[G3739]]"
+- "[[G0652]]"
+- "[[G3687]]"
+texts:
+- NKO
+---
+
 **Luke 6:13**<big><big>[[Luke.6.12 The Twelve Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when it was day, he called [unto him] his disciples: and of them he chose twelve, whom also he named apostles;
 <small><sub>**BSB:**</sub></small>
 When daylight came, He called His disciples to Him and chose twelve of them, whom He also designated as apostles:
-<small><sub>**Literal:**</sub></small>
-And when it became day, He called to [Him] the disciples of Him, also having chosen out from them twelve whom also apostles He named:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.12|<< Luke 6:12]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.14|Luke 6:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3753\|ὅτε]]  [[G1096\|ἐγένετο]]  [[G2250\|ἡμέρα,]]  [[G4377\|προσεφώνησεν]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G1586\|ἐκλεξάμενος]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν]]  [[G1427\|δώδεκα]]  [[G3739\|οὓς]]  [[G2532\|καὶ]]  [[G0652\|ἀποστόλους]]  [[G3687\|ὠνόμασεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CALL|CALL]] • [[topic ELECTION|ELECTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.12|<< Luke 6:12]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.14|Luke 6:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

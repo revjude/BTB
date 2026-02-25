@@ -1,8 +1,58 @@
+---
+title: Judges 21:11
+type: Verse
+kjv: "And this is the thing that ye shall do, Ye shall utterly destroy every male, and every woman that hath lain by man."
+bsb: "This is what you are to do: Devote to destruction every male, as well as every female who has had relations with a man.”"
+hebrew: "וְזֶ֥ה הַדָּבָ֖ר אֲשֶׁ֣ר תַּעֲשׂ֑וּ כָּל־ זָכָ֗ר וְכָל־ אִשָּׁ֛ה יֹדַ֥עַת מִשְׁכַּב־ זָכָ֖ר תַּחֲרִֽימוּ׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H0802G]]"
+- "[[H3045]]"
+- "[[H4904]]"
+- "[[H2763A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:11**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this [is] the thing that ye shall do, Ye shall utterly destroy every male, and every woman that hath lain by man.
 <small><sub>**BSB:**</sub></small>
 This is what you are to do: Devote to destruction every male, as well as every female who has had relations with a man.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֥ה]] [[H9009\|הַ]][[H1697I\|דָּבָ֖ר]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|תַּעֲשׂ֑וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֗ר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0802G\|אִשָּׁ֛ה]] [[H3045\|יֹדַ֥עַת]] [[H4904\|מִשְׁכַּב]][[H9014\|־]] [[H2145\|זָכָ֖ר]] [[H2763A\|תַּחֲרִֽימוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.10|<< Judges 21:10]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.12|Judges 21:12 >>]]</td></tr></table>
 

@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 3:17
+type: Verse
+kjv: "If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are."
+bsb: "If anyone destroys God’s temple, God will destroy him; for God’s temple is holy, and you are that temple."
+greek: "εἴ τις τὸν ναὸν τοῦ θεοῦ φθείρει, φθερεῖ τοῦτον ὁ θεός· ὁ γὰρ ναὸς τοῦ θεοῦ ἅγιός ἐστιν, οἵτινές ἐστε ὑμεῖς.¶"
+pericope: "[[1Cor.3.16 God’s Temple and God’s Wisdom|God’s Temple and God’s Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic HOUSE OF GOD|HOUSE OF GOD]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G3485]]"
+- "[[G2316]]"
+- "[[G5351]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G0040G]]"
+- "[[G1510]]"
+- "[[G3748]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 3:17**<big><big>[[1Cor.3.16 God’s Temple and God’s Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which [temple] ye are.
 <small><sub>**BSB:**</sub></small>
 If anyone destroys God’s temple, God will destroy him; for God’s temple is holy, and you are that temple.
-<small><sub>**Literal:**</sub></small>
-If anyone the temple <the> of God destroys, will destroy him <the> God; <the> for the temple <the> of God holy is, which are you yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.16|<< 1 Corinthians 3:16]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.18|1 Corinthians 3:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G5100\|τις]]  [[G3588\|τὸν]]  [[G3485\|ναὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5351\|φθείρει,]]  [[G5351\|φθερεῖ]]  [[G3778\|τοῦτον]]  [[G3588\|ὁ]]  [[G2316\|θεός·]]  [[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G3485\|ναὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0040G\|ἅγιός]]  [[G1510\|ἐστιν,]]  [[G3748\|οἵτινές]]  [[G1510\|ἐστε]]  [[G4771\|ὑμεῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HOLINESS|HOLINESS]] • [[topic HOUSE OF GOD|HOUSE OF GOD]] • [[topic SACRILEGE|SACRILEGE]] • [[topic TEMPLE|TEMPLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.16|<< 1 Corinthians 3:16]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.18|1 Corinthians 3:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

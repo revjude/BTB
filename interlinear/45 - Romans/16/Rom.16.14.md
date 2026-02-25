@@ -1,10 +1,56 @@
+---
+title: Romans 16:14
+type: Verse
+kjv: "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them."
+bsb: "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers with them."
+greek: "ἀσπάσασθε Ἀσύγκριτον, Φλέγοντα, Ἑρμῆν, Πατροβᾶν, Ἑρμᾶν καὶ τοὺς σὺν αὐτοῖς ἀδελφούς.¶"
+pericope: "[[Rom.16.1 Personal Greetings and Love|Personal Greetings and Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ASYNCRITUS|ASYNCRITUS]]"
+- "[[topic HERMAS|HERMAS]]"
+- "[[topic HERMES|HERMES]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PATROBAS|PATROBAS]]"
+- "[[topic PHLEGON|PHLEGON]]"
+- "[[topic ROME|ROME]]"
+strongs:
+- "[[G0782]]"
+- "[[G0799]]"
+- "[[G5393]]"
+- "[[G2060H]]"
+- "[[G3969]]"
+- "[[G2057]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G0080]]"
+texts:
+- NKO
+---
+
 **Romans 16:14**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.
 <small><sub>**BSB:**</sub></small>
 Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers with them.
-<small><sub>**Literal:**</sub></small>
-do greet Asyncritus, Phlegon, Hermes Patrobas, Hermas and the with them brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.13|<< Romans 16:13]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.15|Romans 16:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|ἀσπάσασθε]]  [[G0799\|Ἀσύγκριτον,]]  [[G5393\|Φλέγοντα,]]  [[G2060H\|Ἑρμῆν,]]  [[G3969\|Πατροβᾶν,]]  [[G2057\|Ἑρμᾶν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς]]  [[G0080\|ἀδελφούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASYNCRITUS|ASYNCRITUS]] • [[topic HERMAS|HERMAS]] • [[topic HERMES|HERMES]] • [[topic LOVE|LOVE]] • [[topic PATROBAS|PATROBAS]] • [[topic PHLEGON|PHLEGON]] • [[topic ROME|ROME]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.13|<< Romans 16:13]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.15|Romans 16:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

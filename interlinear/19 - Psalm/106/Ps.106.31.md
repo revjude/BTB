@@ -1,8 +1,56 @@
+---
+title: Psalm 106:31
+type: Verse
+kjv: "And that was counted unto him for righteousness unto all generations for evermore."
+bsb: "It was credited to him as righteousness for endless generations to come."
+hebrew: "וַתֵּחָ֣שֶׁב ל֭וֹ לִצְדָקָ֑ה לְדֹ֥ר וָ֝דֹ֗ר עַד־ עוֹלָֽם׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2803H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6666]]"
+- "[[H1755]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:31**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that was counted unto him for righteousness unto all generations for evermore.
 <small><sub>**BSB:**</sub></small>
 It was credited to him as righteousness for endless generations to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2803H\|תֵּחָ֣שֶׁב]] [[H9005\|ל֭]][[H9033\|וֹ]] [[H9005\|לִ]][[H6666\|צְדָקָ֑ה]] [[H9005\|לְ]][[H1755\|דֹ֥ר]] [[H9002\|וָ֝]][[H1755\|דֹ֗ר]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.30|<< Psalms 106:30]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.32|Psalms 106:32 >>]]</td></tr></table>
 

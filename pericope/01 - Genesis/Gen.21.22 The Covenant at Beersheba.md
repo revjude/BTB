@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Covenant at Beersheba
+type: Pericope
 pericope: "[[Gen.21.22 The Covenant at Beersheba|The Covenant at Beersheba]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 21
 book/chapter: "[[Gen.21|Genesis 21]]"
-genre:
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 13
 verses:
 - "[[Gen.21.22]]"
 - "[[Gen.21.23]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Gen.21.34]]"
 ---
 
-[[Gen.21|Genesis 21:22 - Genesis 21:34]]
+<small>[[Gen.21|Genesis 21:22-34]]</small>
 *The Covenant at Beersheba*
 
 [[Gen.21.22|22]] And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God \[is\] with thee in all that thou doest:

@@ -1,10 +1,69 @@
+---
+title: Acts 13:34
+type: Verse
+kjv: "And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David."
+bsb: "In fact, God raised Him from the dead, never to see decay. As He has said: ‘I will give you the holy and sure blessings promised to David.’"
+greek: "ὅτι δὲ ἀνέστησεν αὐτὸν ἐκ νεκρῶν μηκέτι μέλλοντα ὑποστρέφειν εἰς διαφθοράν, οὕτως εἴρηκεν ὅτι δώσω ὑμῖν τὰ ὅσια Δαυὶδ τὰ πιστά."
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1161]]"
+- "[[G0450]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G3371]]"
+- "[[G3195]]"
+- "[[G5290]]"
+- "[[G1519]]"
+- "[[G1312]]"
+- "[[G3779]]"
+- "[[G2046]]"
+- "[[G3754G]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3741]]"
+- "[[G1138]]"
+- "[[G4103]]"
+texts:
+- NKO
+---
+
 **Acts 13:34**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as concerning that he raised him up from the dead, [now] no more to return to corruption, he said on this wise, I will give you the sure mercies of David.
 <small><sub>**BSB:**</sub></small>
 In fact, God raised Him from the dead, never to see decay. As He has said: ‘I will give you the holy and sure blessings promised to David.’
-<small><sub>**Literal:**</sub></small>
-for then He raised Him out from [the] dead no more being about to return to decay, thus He has spoken that I will give to you the holy [blessings] of David the sure [blessings].’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.33|<< Acts 13:33]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.35|Acts 13:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1161\|δὲ]]  [[G0450\|ἀνέστησεν]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G3371\|μηκέτι]]  [[G3195\|μέλλοντα]]  [[G5290\|ὑποστρέφειν]]  [[G1519\|εἰς]]  [[G1312\|διαφθοράν,]]  [[G3779\|οὕτως]]  [[G2046\|εἴρηκεν]]  [[G3754G\|ὅτι]]  [[G1325\|δώσω]]  [[G4771\|ὑμῖν]]  [[G3588\|τὰ]]  [[G3741\|ὅσια]]  [[G1138\|Δαυὶδ]]  [[G3588\|τὰ]]  [[G4103\|πιστά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CORRUPTION|CORRUPTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.33|<< Acts 13:33]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.35|Acts 13:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 13:34** is...
 > $\quad$ referencing: [[LXX.Isa.55.3|Isa 55:3]]

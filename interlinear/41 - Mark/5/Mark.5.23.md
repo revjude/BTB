@@ -1,10 +1,61 @@
+---
+title: Mark 5:23
+type: Verse
+kjv: "And besought him greatly, saying, My little daughter lieth at the point of death: I pray thee, come and lay thy hands on her, that she may be healed; and she shall live."
+bsb: "and pleaded with Him urgently, “My little daughter is near death. Please come and place Your hands on her, so that she will be healed and live.”"
+greek: "καὶ παρακαλεῖ αὐτὸν πολλὰ λέγων ὅτι τὸ θυγάτριόν μου ἐσχάτως ἔχει, ἵνα ἐλθὼν ἐπιθῇς τὰς χεῖρας αὐτῇ ἵνα σωθῇ καὶ ζήσῃ.¶"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G4183]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G2365]]"
+- "[[G3165]]"
+- "[[G2079]]"
+- "[[G2192]]"
+- "[[G2443]]"
+- "[[G2064]]"
+- "[[G2007]]"
+- "[[G5495]]"
+- "[[G4982]]"
+- "[[G2198]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 5:23**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And besought him greatly, saying, My little daughter lieth at the point of death: [I pray thee], come and lay thy hands on her, that she may be healed; and she shall live.
 <small><sub>**BSB:**</sub></small>
 and pleaded with Him urgently, “My little daughter is near death. Please come and place Your hands on her, so that she will be healed and live.”
-<small><sub>**Literal:**</sub></small>
-and he begs Him much saying that The little daughter of mine at the end is holding, that having come may you lay the hands on her so that she may be cured and she may live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.22|<< Mark 5:22]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.24|Mark 5:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3870\|παρακαλεῖ]]  [[G0846\|αὐτὸν]]  [[G4183\|πολλὰ]]  [[G3004G\|λέγων]]  [[G3754G\|ὅτι]]  [[G3588\|τὸ]]  [[G2365\|θυγάτριόν]]  [[G3165\|μου]]  [[G2079\|ἐσχάτως]]  [[G2192\|ἔχει,]]  [[G2443\|ἵνα]]  [[G2064\|ἐλθὼν]]  [[G2007\|ἐπιθῇς]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G0846\|αὐτῇ]]  [[G2443\|ἵνα]]  [[G4982\|σωθῇ]]  [[G2532\|καὶ]]  [[G2198\|ζήσῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PARENTS|PARENTS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.22|<< Mark 5:22]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.24|Mark 5:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

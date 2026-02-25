@@ -1,10 +1,57 @@
+---
+title: Mark 8:26
+type: Verse
+kjv: "And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town."
+bsb: "Jesus sent him home and said, “Do not go back into the village.”"
+jesus_said: "Neither go into the town, nor tell it to any in the town."
+greek: "καὶ ἀπέστειλεν αὐτὸν εἰς τὸν οἶκον αὐτοῦ λέγων· μηδὲ εἰς τὴν κώμην εἰσέλθῃς μηδὲ εἴπῃς τινὶ ἐν τῇ κώμῃ.¶"
+pericope: "[[Mark.8.22 The Blind Man at Bethsaida|The Blind Man at Bethsaida]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G3004G]]"
+- "[[G3366]]"
+- "[[G2968]]"
+- "[[G1525]]"
+- "[[G2036]]"
+- "[[G5100]]"
+- "[[G1722]]"
+texts:
+- NKO
+- k
+- KO
+---
+
 **Mark 8:26**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he sent him away to his house, saying, Neither go into the town, nor tell [it] to any in the town.
 <small><sub>**BSB:**</sub></small>
 Jesus sent him home and said, “Do not go back into the village.”
-<small><sub>**Literal:**</sub></small>
-And He sent him to the home of him saying; Not into the village shall you enter nor may you speak to anyone in <the> village.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.25|<< Mark 8:25]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.27|Mark 8:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0649\|ἀπέστειλεν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγων·]]  [[G3366\|μηδὲ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2968\|κώμην]]  [[G1525\|εἰσέλθῃς]]  [[G3366\|μηδὲ]]  [[G2036\|εἴπῃς]]  [[G5100\|τινὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2968\|κώμῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.25|<< Mark 8:25]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.27|Mark 8:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

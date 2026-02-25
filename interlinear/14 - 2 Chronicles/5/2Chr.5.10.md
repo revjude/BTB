@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 5:10
+type: Verse
+kjv: "There was nothing in the ark save the two tables which Moses put therein at Horeb, when the LORD made a covenant with the children of Israel, when they came out of Egypt."
+bsb: "There was nothing in the ark except the two tablets that Moses had placed in it at Horeb, where the LORD had made a covenant with the Israelites after they had come out of Egypt."
+hebrew: "אֵ֚ין בָּֽאָר֔וֹן רַ֚ק שְׁנֵ֣י הַלֻּח֔וֹת אֲשֶׁר־ נָתַ֥ן מֹשֶׁ֖ה בְּחֹרֵ֑ב אֲשֶׁ֨ר כָּרַ֤ת יְהוָה֙ עִם־ בְּנֵ֣י יִשְׂרָאֵ֔ל בְּצֵאתָ֖ם מִמִּצְרָֽיִם׃ פ"
+pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic HOREB|HOREB]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H0727]]"
+- "[[H7535]]"
+- "[[H8147]]"
+- "[[H9009]]"
+- "[[H3871]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5414H]]"
+- "[[H4872]]"
+- "[[H2722]]"
+- "[[H3772H]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3318G]]"
+- "[[H9048]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 5:10**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [There was] nothing in the ark save the two tables which Moses put [therein] at Horeb, when the LORD made [a covenant] with the children of Israel, when they came out of Egypt.
 <small><sub>**BSB:**</sub></small>
 There was nothing in the ark except the two tablets that Moses had placed in it at Horeb, where the LORD had made a covenant with the Israelites after they had come out of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵ֚ין]] [[H9003\|בָּֽ]][[H0727\|אָר֔וֹן]] [[H7535\|רַ֚ק]] [[H8147\|שְׁנֵ֣י]] [[H9009\|הַ]][[H3871\|לֻּח֔וֹת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414H\|נָתַ֥ן]] [[H4872\|מֹשֶׁ֖ה]] [[H9003\|בְּ]][[H2722\|חֹרֵ֑ב]] [[H0834A\|אֲשֶׁ֨ר]] [[H3772H\|כָּרַ֤ת]] [[H3068G\|יְהוָה֙]] [[H5973A\|עִם]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בְּ]][[H3318G\|צֵאתָ֖]][[H9048\|ם]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic HOREB|HOREB]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.9|<< 2 Chronicles 5:9]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.11|2 Chronicles 5:11 >>]]</td></tr></table>
 
@@ -24,7 +81,7 @@ There was nothing in the ark except the two tablets that Moses had placed in it 
 | [the] people of  |**<big>&#8207;[[H1121G\|בְּנֵ֣י]]&#8207; </big>**| be.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֔ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when came out they  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3318G\|צֵאתָ֖]]&#8207;&#8207;[[H9048\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> tze.Ta<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Egypt  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4714G\|מִּצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Egypt  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4714G\|מִּצְרָֽיִם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.9|<< 2 Chronicles 5:9]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.11|2 Chronicles 5:11 >>]]</td></tr></table>
 
 

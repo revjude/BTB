@@ -1,8 +1,56 @@
+---
+title: Proverbs 2:9
+type: Verse
+kjv: "Then shalt thou understand righteousness, and judgment, and equity; yea, every good path."
+bsb: "Then you will discern righteousness and justice and equity—every good path."
+hebrew: "אָ֗ז תָּ֭בִין צֶ֣דֶק וּמִשְׁפָּ֑ט וּ֝מֵישָׁרִ֗ים כָּל־ מַעְגַּל־ טֽוֹב׃"
+pericope: "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PERSONIFICATION|PERSONIFICATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0227A]]"
+- "[[H0995]]"
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H4941H]]"
+- "[[H4339]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4570]]"
+- "[[H2896B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 2:9**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou understand righteousness, and judgment, and equity; [yea], every good path.
 <small><sub>**BSB:**</sub></small>
 Then you will discern righteousness and justice and equity—every good path.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֗ז]] [[H0995\|תָּ֭בִין]] [[H6664G\|צֶ֣דֶק]] [[H9002\|וּ]][[H4941H\|מִשְׁפָּ֑ט]] [[H9002\|וּ֝]][[H4339\|מֵישָׁרִ֗ים]] [[H3605\|כָּל]][[H9014\|־]] [[H4570\|מַעְגַּל]][[H9014\|־]] [[H2896B\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic PERSONIFICATION|PERSONIFICATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.8|<< Proverbs 2:8]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.10|Proverbs 2:10 >>]]</td></tr></table>
 

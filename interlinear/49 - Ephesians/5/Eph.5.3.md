@@ -1,10 +1,58 @@
+---
+title: Ephesians 5:3
+type: Verse
+kjv: "But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;"
+bsb: "But among you, as is proper among the saints, there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed."
+greek: "Πορνεία δὲ καὶ ἀκαθαρσία πᾶσα ἢ πλεονεξία μηδὲ ὀνομαζέσθω ἐν ὑμῖν καθὼς πρέπει ἁγίοις"
+pericope: "[[Eph.5.1 Imitators of God|Imitators of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+strongs:
+- "[[G4202]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G0167]]"
+- "[[G3956]]"
+- "[[G2228]]"
+- "[[G4124]]"
+- "[[G3366]]"
+- "[[G3687]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G2531]]"
+- "[[G4241]]"
+- "[[G0040H]]"
+texts:
+- NKO
+---
+
 **Ephesians 5:3**<big><big>[[Eph.5.1 Imitators of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But fornication, and all uncleanness, or covetousness, let it not be once named among you, as becometh saints;
 <small><sub>**BSB:**</sub></small>
 But among you, as is proper among the saints, there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed.
-<small><sub>**Literal:**</sub></small>
-Sexual immorality however and impurity all or covetousness not even should be named among you as is proper to saints<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.2|<< Ephesians 5:2]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.4|Ephesians 5:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4202\|Πορνεία]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G0167\|ἀκαθαρσία]]  [[G3956\|πᾶσα]]  [[G2228\|ἢ]]  [[G4124\|πλεονεξία]]  [[G3366\|μηδὲ]]  [[G3687\|ὀνομαζέσθω]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G2531\|καθὼς]]  [[G4241\|πρέπει]]  [[G0040H\|ἁγίοις]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HOLINESS|HOLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.2|<< Ephesians 5:2]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.4|Ephesians 5:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

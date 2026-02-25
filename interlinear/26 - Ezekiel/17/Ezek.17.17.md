@@ -1,8 +1,70 @@
+---
+title: Ezekiel 17:17
+type: Verse
+kjv: "Neither shall Pharaoh with his mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:"
+bsb: "Pharaoh with his mighty army and vast horde will not help him in battle, when ramps are built and siege walls constructed to destroy many lives."
+hebrew: "וְלֹא֩ בְחַ֨יִל גָּד֜וֹל וּבְקָהָ֣ל רָ֗ב יַעֲשֶׂ֨ה אוֹת֤וֹ פַרְעֹה֙ בַּמִּלְחָמָ֔ה בִּשְׁפֹּ֥ךְ סֹלְלָ֖ה וּבִבְנ֣וֹת דָּיֵ֑ק לְהַכְרִ֖ית נְפָשׁ֥וֹת רַבּֽוֹת׃"
+pericope: "[[Ezek.17.11 The Parable Explained|The Parable Explained]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FORT|FORT]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H2428A]]"
+- "[[H1419A]]"
+- "[[H6951]]"
+- "[[H7227A]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H6547R]]"
+- "[[H4421]]"
+- "[[H8210I]]"
+- "[[H5550]]"
+- "[[H1129]]"
+- "[[H1785]]"
+- "[[H9005]]"
+- "[[H3772I]]"
+- "[[H5315H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:17**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither shall Pharaoh with [his] mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:
 <small><sub>**BSB:**</sub></small>
 Pharaoh with his mighty army and vast horde will not help him in battle, when ramps are built and siege walls constructed to destroy many lives.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא֩]] [[H9003\|בְ]][[H2428A\|חַ֨יִל]] [[H1419A\|גָּד֜וֹל]] [[H9002\|וּ]][[H9003\|בְ]][[H6951\|קָהָ֣ל]] [[H7227A\|רָ֗ב]] [[H6213A\|יַעֲשֶׂ֨ה]] [[H0853\|אוֹת֤]][[H9033\|וֹ]] [[H6547R\|פַרְעֹה֙]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֔ה]] [[H9003\|בִּ]][[H8210I\|שְׁפֹּ֥ךְ]] [[H5550\|סֹלְלָ֖ה]] [[H9002\|וּ]][[H9003\|בִ]][[H1129\|בְנ֣וֹת]] [[H1785\|דָּיֵ֑ק]] [[H9005\|לְ]][[H3772I\|הַכְרִ֖ית]] [[H5315H\|נְפָשׁ֥וֹת]] [[H7227A\|רַבּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ARMIES|ARMIES]] • [[topic CITIZENS|CITIZENS]] • [[topic COVENANT|COVENANT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FORT|FORT]] • [[topic PHARAOH|PHARAOH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.16|<< Ezekiel 17:16]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.18|Ezekiel 17:18 >>]]</td></tr></table>
 

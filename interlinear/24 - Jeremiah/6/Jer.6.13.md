@@ -1,8 +1,60 @@
+---
+title: Jeremiah 6:13
+type: Verse
+kjv: "For from the least of them even unto the greatest of them every one is given to covetousness; and from the prophet even unto the priest every one dealeth falsely."
+bsb: "“For from the least of them to the greatest, all are greedy for gain; from prophet to priest, all practice deceit."
+hebrew: "כִּ֤י מִקְּטַנָּם֙ וְעַד־ גְּדוֹלָ֔ם כֻּלּ֖וֹ בּוֹצֵ֣עַ בָּ֑צַע וּמִנָּבִיא֙ וְעַד־ כֹּהֵ֔ן כֻּלּ֖וֹ עֹ֥שֶׂה שָּֽׁקֶר׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H6996A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H1214I]]"
+- "[[H1215]]"
+- "[[H5030]]"
+- "[[H3548]]"
+- "[[H6213A]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:13**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For from the least of them even unto the greatest of them every one [is] given to covetousness; and from the prophet even unto the priest every one dealeth falsely.
 <small><sub>**BSB:**</sub></small>
 “For from the least of them to the greatest, all are greedy for gain; from prophet to priest, all practice deceit.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H9006\|מִ]][[H6996A\|קְּטַנָּ]][[H9028\|ם֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גְּדוֹלָ֔]][[H9028\|ם]] [[H3605\|כֻּלּ֖]][[H9023\|וֹ]] [[H1214I\|בּוֹצֵ֣עַ]] [[H1215\|בָּ֑צַע]] [[H9002\|וּ]][[H9006\|מִ]][[H5030\|נָּבִיא֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3548\|כֹּהֵ֔ן]] [[H3605\|כֻּלּ֖]][[H9023\|וֹ]] [[H6213A\|עֹ֥שֶׂה]] [[H8267\|שָּֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.12|<< Jeremiah 6:12]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.14|Jeremiah 6:14 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Joel 2:24
+type: Verse
+kjv: "And the floors shall be full of wheat, and the fats shall overflow with wine and oil."
+bsb: "The threshing floors will be full of grain, and the vats will overflow with new wine and oil."
+hebrew: "וּמָלְא֥וּ הַגֳּרָנ֖וֹת בָּ֑ר וְהֵשִׁ֥יקוּ הַיְקָבִ֖ים תִּיר֥וֹשׁ וְיִצְהָֽר׃"
+pericope: "[[Joel.2.18 Restoration Promised|Restoration Promised]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic THRESHING|THRESHING]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H1637]]"
+- "[[H1250A]]"
+- "[[H7783]]"
+- "[[H3342]]"
+- "[[H8492]]"
+- "[[H9002]]"
+- "[[H3323]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:24**<big><big>[[Joel.2.18 Restoration Promised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the floors shall be full of wheat, and the fats shall overflow with wine and oil.
 <small><sub>**BSB:**</sub></small>
 The threshing floors will be full of grain, and the vats will overflow with new wine and oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4390\|מָלְא֥וּ]] [[H9009\|הַ]][[H1637\|גֳּרָנ֖וֹת]] [[H1250A\|בָּ֑ר]] [[H9001\|וְ]][[H7783\|הֵשִׁ֥יקוּ]] [[H9009\|הַ]][[H3342\|יְקָבִ֖ים]] [[H8492\|תִּיר֥וֹשׁ]] [[H9002\|וְ]][[H3323\|יִצְהָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HARVEST|HARVEST]] • [[topic THRESHING|THRESHING]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.23|<< Joel 2:23]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.25|Joel 2:25 >>]]</td></tr></table>
 

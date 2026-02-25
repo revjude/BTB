@@ -1,8 +1,62 @@
+---
+title: Ezekiel 3:13
+type: Verse
+kjv: "I heard also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing."
+bsb: "It was the sound of the wings of the living creatures brushing against one another and the sound of the wheels beside them, a great rumbling sound."
+hebrew: "וְק֣וֹל׀ כַּנְפֵ֣י הַחַיּ֗וֹת מַשִּׁיקוֹת֙ אִשָּׁ֣ה אֶל־ אֲחוֹתָ֔הּ וְק֥וֹל הָאוֹפַנִּ֖ים לְעֻמָּתָ֑ם וְק֖וֹל רַ֥עַשׁ גָּדֽוֹל׃"
+pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H6963H]]"
+- "[[H9015]]"
+- "[[H3671]]"
+- "[[H9009]]"
+- "[[H2416C]]"
+- "[[H5401A]]"
+- "[[H0802I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0269]]"
+- "[[H9024]]"
+- "[[H0212]]"
+- "[[H9005]]"
+- "[[H5980]]"
+- "[[H9038]]"
+- "[[H7494]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:13**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [I heard] also the noise of the wings of the living creatures that touched one another, and the noise of the wheels over against them, and a noise of a great rushing.
 <small><sub>**BSB:**</sub></small>
 It was the sound of the wings of the living creatures brushing against one another and the sound of the wheels beside them, a great rumbling sound.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6963H\|ק֣וֹל]][[H9015\|׀]] [[H3671\|כַּנְפֵ֣י]] [[H9009\|הַ]][[H2416C\|חַיּ֗וֹת]] [[H5401A\|מַשִּׁיקוֹת֙]] [[H0802I\|אִשָּׁ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0269\|אֲחוֹתָ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H6963H\|ק֥וֹל]] [[H9009\|הָ]][[H0212\|אוֹפַנִּ֖ים]] [[H9005\|לְ]][[H5980\|עֻמָּתָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H6963H\|ק֖וֹל]] [[H7494\|רַ֥עַשׁ]] [[H1419A\|גָּדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.12|<< Ezekiel 3:12]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.14|Ezekiel 3:14 >>]]</td></tr></table>
 

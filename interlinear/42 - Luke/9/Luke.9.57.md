@@ -1,10 +1,66 @@
+---
+title: Luke 9:57
+type: Verse
+kjv: "And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest."
+bsb: "As they were walking along the road, someone said to Jesus, “I will follow You wherever You go.”"
+greek: "Καὶ ἐγένετο δὲ πορευομένων αὐτῶν ἐν τῇ ὁδῷ εἶπέν τις πρὸς αὐτόν· ἀκολουθήσω σοι ὅπου ἐὰν ἀπέρχῃ κύριε."
+pericope: "[[Luke.9.57 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CARE|CARE]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G4198]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G2036]]"
+- "[[G5100]]"
+- "[[G4314]]"
+- "[[G0190]]"
+- "[[G4771]]"
+- "[[G3699]]"
+- "[[G1437]]"
+- "[[G0565]]"
+- "[[G2962G]]"
+texts:
+- no
+- KO
+- k
+- NKO
+- N(k)O
+---
+
 **Luke 9:57**<big><big>[[Luke.9.57 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that, as they went in the way, a certain [man] said unto him, Lord, I will follow thee whithersoever thou goest.
 <small><sub>**BSB:**</sub></small>
 As they were walking along the road, someone said to Jesus, “I will follow You wherever You go.”
-<small><sub>**Literal:**</sub></small>
-And it came to pass now when are going they along the road said someone to Him; I will follow You wherever maybe You shall go Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.56|<< Luke 9:56]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.58|Luke 9:58 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1161\|δὲ]]  [[G4198\|πορευομένων]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ]]  [[G2036\|εἶπέν]]  [[G5100\|τις]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G0190\|ἀκολουθήσω]]  [[G4771\|σοι]]  [[G3699\|ὅπου]]  [[G1437\|ἐὰν]]  [[G0565\|ἀπέρχῃ]]  [[G2962G\|κύριε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARE|CARE]] • [[topic INSTABILITY|INSTABILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.56|<< Luke 9:56]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.58|Luke 9:58 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

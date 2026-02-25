@@ -1,6 +1,60 @@
+---
+title: LXX Joshua 9:21
+type: Verse
+lxx: "And the rulers said to them, They shall live, and they shall be woodcutters and water-carriers to all the congregation, just as the rulers said to them."
+greek: "και είπαν αυτοίς οι άρχοντες ζήσονται και έσονται ξυλοκόποι και υδροφόροι πάση τη συναγωγή καθάπερ είπαν αυτοίς οι άρχοντες"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G2198]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G8428]]"
+- "[[G2532]]"
+- "[[G9530]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G2509]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0758]]"
+---
+
 **LXX Joshua 9:21** 
 <small><sub>**LXX:**</sub></small>
 And the rulers said to them, They shall live, and they shall be woodcutters and water-carriers to all the congregation, just as the rulers said to them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπαν]] [[G1473\|αυτοίς]] [[G3588\|οι]] [[G0758\|άρχοντες]] [[G2198\|ζήσονται]] [[G2532\|και]] [[G1510\|έσονται]] [[G8428\|ξυλοκόποι]] [[G2532\|και]] [[G9530\|υδροφόροι]] [[G3956\|πάση]] [[G3588\|τη]] [[G4864\|συναγωγή]] [[G2509\|καθάπερ]] [[G2036\|είπαν]] [[G1473\|αυτοίς]] [[G3588\|οι]] [[G0758\|άρχοντες]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic SERVANT|SERVANT]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.20|<< Joshua 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.22|Joshua 9:22 >>]]</td></tr></table>
 
@@ -25,6 +79,6 @@ And the rulers said to them, They shall live, and they shall be woodcutters and 
 | to them | **<big>[[G1473\|αυτοίς]]</big>** |
 | the | **<big>[[G3588\|οι]]</big>** |
 | rulers | **<big>[[G0758\|άρχοντες]]</big>** |
-[[Josh.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.20|<< Joshua 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.22|Joshua 9:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.9.20|<< Joshua 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.9.22|Joshua 9:22 >>]]</td></tr></table>
 
 

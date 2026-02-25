@@ -1,10 +1,54 @@
+---
+title: Acts 19:30
+type: Verse
+kjv: "And when Paul would have entered in unto the people, the disciples suffered him not."
+bsb: "Paul wanted to go before the assembly, but the disciples would not allow him."
+greek: "Τοῦ Παύλου δὲ βουλομένου εἰσελθεῖν εἰς τὸν δῆμον οὐκ εἴων αὐτὸν οἱ μαθηταί·"
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1161]]"
+- "[[G1014]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G1218]]"
+- "[[G3756]]"
+- "[[G1439]]"
+- "[[G0846]]"
+- "[[G3101]]"
+texts:
+- k
+- NKO
+---
+
 **Acts 19:30**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Paul would have entered in unto the people, the disciples suffered him not.
 <small><sub>**BSB:**</sub></small>
 Paul wanted to go before the assembly, but the disciples would not allow him.
-<small><sub>**Literal:**</sub></small>
-<the> Paul however intending to go in to the people not were allowing him the disciples;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.29|<< Acts 19:29]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.31|Acts 19:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τοῦ]]  [[G3972G\|Παύλου]]  [[G1161\|δὲ]]  [[G1014\|βουλομένου]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G1218\|δῆμον]]  [[G3756\|οὐκ]]  [[G1439\|εἴων]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMETRIUS|DEMETRIUS]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.29|<< Acts 19:29]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.31|Acts 19:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

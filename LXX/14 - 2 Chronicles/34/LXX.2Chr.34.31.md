@@ -1,6 +1,87 @@
+---
+title: LXX 2 Chronicles 34:31
+type: Verse
+lxx: "And the king stood upon the column, and he ordained a covenant before the lord,  to go before the lord,  to guard  his commandments, and  his testimonies, and  his orders, with the entire heart, and with the entire soul, so as to observe the words of the covenant  having been written upon  this scroll."
+greek: "και έστη ο βασιλεύς επί τον στύλον και διέθετο διαθήκην εναντίον κυρίου του πορευθήναι ενώπιον κυρίου του φυλάσσειν τας εντολάς αυτού και τα μαρτύρια αυτού και τα προστάγματα αυτού εν όλη καρδία και εν όλη ψυχή ώστε ποιείν τους λόγους της διαθήκης τους γεγραμμένους επί τω βιβλίω τούτω"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4769]]"
+- "[[G2532]]"
+- "[[G1303]]"
+- "[[G1242]]"
+- "[[G1726]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G4198]]"
+- "[[G1799]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G5442]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3142]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8943]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G2588]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G5590]]"
+- "[[G5620]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3588]]"
+- "[[G1242]]"
+- "[[G3588]]"
+- "[[G1125]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0975]]"
+- "[[G3778]]"
+---
+
 **LXX 2 Chronicles 34:31** 
 <small><sub>**LXX:**</sub></small>
 And the king stood upon the column, and he ordained a covenant before \[the\] <span class="smallcaps">lord</span>,  to go before \[the\] <span class="smallcaps">lord</span>,  to guard  his commandments, and  his testimonies, and  his orders, with \[the\] entire heart, and with \[the\] entire soul, so as to observe the words of the covenant  having been written upon  this scroll. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2476\|έστη]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G1909\|επί]] [[G3588\|τον]] [[G4769\|στύλον]] [[G2532\|και]] [[G1303\|διέθετο]] [[G1242\|διαθήκην]] [[G1726\|εναντίον]] [[G2962\|κυρίου]] [[G3588\|του]] [[G4198\|πορευθήναι]] [[G1799\|ενώπιον]] [[G2962\|κυρίου]] [[G3588\|του]] [[G5442\|φυλάσσειν]] [[G3588\|τας]] [[G1785\|εντολάς]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|τα]] [[G3142\|μαρτύρια]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|τα]] [[G8943\|προστάγματα]] [[G1473\|αυτού]] [[G1722\|εν]] [[G3650\|όλη]] [[G2588\|καρδία]] [[G2532\|και]] [[G1722\|εν]] [[G3650\|όλη]] [[G5590\|ψυχή]] [[G5620\|ώστε]] [[G4160\|ποιείν]] [[G3588\|τους]] [[G3056\|λόγους]] [[G3588\|της]] [[G1242\|διαθήκης]] [[G3588\|τους]] [[G1125\|γεγραμμένους]] [[G1909\|επί]] [[G3588\|τω]] [[G0975\|βιβλίω]] [[G3778\|τούτω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic DECISION|DECISION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSIAH|JOSIAH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.30|<< 2 Chronicles 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.32|2 Chronicles 34:32 >>]]</td></tr></table>
 
@@ -50,6 +131,6 @@ And the king stood upon the column, and he ordained a covenant before \[the\] <s
 | upon | **<big>[[G1909\|επί]]</big>** |
 | \<obj.> | **<big>[[G3588\|τω]]</big>** |
 | this scroll. | **<big>[[G0975\|βιβλίω]]</big>** **<big>[[G3778\|τούτω]]</big>** |
-[[2Chr.34.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.30|<< 2 Chronicles 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.32|2 Chronicles 34:32 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.34.30|<< 2 Chronicles 34:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.34.32|2 Chronicles 34:32 >>]]</td></tr></table>
 
 

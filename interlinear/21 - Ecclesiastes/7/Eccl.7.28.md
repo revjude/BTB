@@ -1,8 +1,58 @@
+---
+title: Ecclesiastes 7:28
+type: Verse
+kjv: "Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found."
+bsb: "While my soul was still searching but not finding, among a thousand I have found one upright man, but among all these I have not found one such woman."
+hebrew: "אֲשֶׁ֛ר עוֹד־ בִּקְשָׁ֥ה נַפְשִׁ֖י וְלֹ֣א מָצָ֑אתִי אָדָ֞ם אֶחָ֤ד מֵאֶ֙לֶף֙ מָצָ֔אתִי וְאִשָּׁ֥ה בְכָל־ אֵ֖לֶּה לֹ֥א מָצָֽאתִי׃"
+pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0834A]]"
+- "[[H5750]]"
+- "[[H9014]]"
+- "[[H1245]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H0120G]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H0505G]]"
+- "[[H0802G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:28**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.
 <small><sub>**BSB:**</sub></small>
 While my soul was still searching but not finding, among a thousand I have found one upright man, but among all these I have not found one such woman.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֛ר]] [[H5750\|עוֹד]][[H9014\|־]] [[H1245\|בִּקְשָׁ֥ה]] [[H5315G\|נַפְשִׁ֖]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4672\|מָצָ֑אתִי]] [[H0120G\|אָדָ֞ם]] [[H0259\|אֶחָ֤ד]] [[H9006\|מֵ]][[H0505G\|אֶ֙לֶף֙]] [[H4672\|מָצָ֔אתִי]] [[H9002\|וְ]][[H0802G\|אִשָּׁ֥ה]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H0428\|אֵ֖לֶּה]] [[H3808\|לֹ֥א]] [[H4672\|מָצָֽאתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.27|<< Ecclesiastes 7:27]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.29|Ecclesiastes 7:29 >>]]</td></tr></table>
 

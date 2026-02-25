@@ -1,10 +1,65 @@
+---
+title: John 5:30
+type: Verse
+kjv: "I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me."
+bsb: "I can do nothing by Myself; I judge only as I hear. And My judgment is just, because I do not seek My own will, but the will of Him who sent Me."
+jesus_said: "I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me."
+greek: "οὐ δύναμαι ἐγὼ ποιεῖν ἀπ᾽ ἐμαυτοῦ οὐδέν· καθὼς ἀκούω κρίνω, καὶ ἡ κρίσις ἡ ἐμὴ δικαία ἐστίν, ὅτι οὐ ζητῶ τὸ θέλημα τὸ ἐμὸν ἀλλὰ τὸ θέλημα τοῦ πέμψαντός με πατρός.¶"
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G1473]]"
+- "[[G4160G]]"
+- "[[G0575]]"
+- "[[G3762]]"
+- "[[G2531]]"
+- "[[G0191]]"
+- "[[G2919]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2920]]"
+- "[[G1342]]"
+- "[[G1510]]"
+- "[[G3754H]]"
+- "[[G2212]]"
+- "[[G2307]]"
+- "[[G0235]]"
+- "[[G3992]]"
+- "[[G3165]]"
+- "[[G3962]]"
+texts:
+- NKO
+- K
+---
+
 **John 5:30**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me.
 <small><sub>**BSB:**</sub></small>
 I can do nothing by Myself; I judge only as I hear. And My judgment is just, because I do not seek My own will, but the will of Him who sent Me.
-<small><sub>**Literal:**</sub></small>
-Not am able I myself to do of Myself no [thing]; even as I hear I judge, and the judgment <the> of Mine just is, because not I seek the will <the> of Me but the will of the [One who] having sent Me [the] Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.29|<< John 5:29]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.31|John 5:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1410\|δύναμαι]]  [[G1473\|ἐγὼ]]  [[G4160G\|ποιεῖν]]  [[G0575\|ἀπ᾽]]  [[G1473\|ἐμαυτοῦ]]  [[G3762\|οὐδέν·]]  [[G2531\|καθὼς]]  [[G0191\|ἀκούω]]  [[G2919\|κρίνω,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G2920\|κρίσις]]  [[G3588\|ἡ]]  [[G1473\|ἐμὴ]]  [[G1342\|δικαία]]  [[G1510\|ἐστίν,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐ]]  [[G2212\|ζητῶ]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τὸ]]  [[G1473\|ἐμὸν]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G3992\|πέμψαντός]]  [[G3165\|με]]  [[G3962\|πατρός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.29|<< John 5:29]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.31|John 5:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

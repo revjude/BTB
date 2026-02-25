@@ -1,8 +1,62 @@
+---
+title: Daniel 1:14
+type: Verse
+kjv: "So he consented to them in this matter, and proved them ten days."
+bsb: "So he consented to this and tested them for ten days."
+hebrew: "וַיִּשְׁמַ֥ע לָהֶ֖ם לַדָּבָ֣ר הַזֶּ֑ה וַיְנַסֵּ֖ם יָמִ֥ים עֲשָׂרָֽה׃"
+pericope: "[[Dan.1.8 Daniel’s Faithfulness|Daniel’s Faithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]]"
+- "[[topic APPETITE|APPETITE]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MELZAR|MELZAR]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1697I]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H5254G]]"
+- "[[H3117G]]"
+- "[[H6235]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:14**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he consented to them in this matter, and proved them ten days.
 <small><sub>**BSB:**</sub></small>
 So he consented to this and tested them for ten days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֥ע]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וַ]][[H5254G\|יְנַסֵּ֖]][[H9038\|ם]] [[H3117G\|יָמִ֥ים]] [[H6235\|עֲשָׂרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]] • [[topic APPETITE|APPETITE]] • [[topic DANIEL|DANIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MELZAR|MELZAR]] • [[topic MISHAEL|MISHAEL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SCHOOL|SCHOOL]] • [[topic TEMPERANCE|TEMPERANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.13|<< Daniel 1:13]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.15|Daniel 1:15 >>]]</td></tr></table>
 

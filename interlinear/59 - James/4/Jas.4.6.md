@@ -1,10 +1,54 @@
+---
+title: James 4:6
+type: Verse
+kjv: "But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble."
+bsb: "But He gives us more grace. This is why it says: “God opposes the proud, but gives grace to the humble.”"
+greek: "μείζονα δὲ δίδωσιν χάριν· διὸ λέγει· ὁ θεὸς ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσιν χάριν.¶"
+pericope: "[[Jas.4.1 A Warning against Pride|A Warning against Pride]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3173]]"
+- "[[G1161]]"
+- "[[G1325]]"
+- "[[G5485]]"
+- "[[G1352]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G5244]]"
+- "[[G0498]]"
+- "[[G5011]]"
+texts:
+- NKO
+---
+
 **James 4:6**<big><big>[[Jas.4.1 A Warning against Pride|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble.
 <small><sub>**BSB:**</sub></small>
 But He gives us more grace. This is why it says: “God opposes the proud, but gives grace to the humble.”
-<small><sub>**Literal:**</sub></small>
-Greater however He gives grace; Therefore it says: <the> God [the] proud opposes, to [the] humble however gives grace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.5|<< James 4:5]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.7|James 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3173\|μείζονα]]  [[G1161\|δὲ]]  [[G1325\|δίδωσιν]]  [[G5485\|χάριν·]]  [[G1352\|διὸ]]  [[G3004G\|λέγει·]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G5244\|ὑπερηφάνοις]]  [[G0498\|ἀντιτάσσεται,]]  [[G5011\|ταπεινοῖς]]  [[G1161\|δὲ]]  [[G1325\|δίδωσιν]]  [[G5485\|χάριν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic PRIDE|PRIDE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.5|<< James 4:5]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.7|James 4:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **James 4:6** is...
 > $\quad$ referencing: [[LXX.Prov.3.34|Prov 3:34]]

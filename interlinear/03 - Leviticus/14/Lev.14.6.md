@@ -1,8 +1,73 @@
+---
+title: Leviticus 14:6
+type: Verse
+kjv: "As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water:"
+bsb: "And he is to take the live bird together with the cedar wood, scarlet yarn, and hyssop, and dip them into the blood of the bird that was slaughtered over the fresh water."
+hebrew: "אֶת־ הַצִּפֹּ֤ר הַֽחַיָּה֙ יִקַּ֣ח אֹתָ֔הּ וְאֶת־ עֵ֥ץ הָאֶ֛רֶז וְאֶת־ שְׁנִ֥י הַתּוֹלַ֖עַת וְאֶת־ הָאֵזֹ֑ב וְטָבַ֨ל אוֹתָ֜ם וְאֵ֣ת׀ הַצִּפֹּ֣ר הַֽחַיָּ֗ה בְּדַם֙ הַצִּפֹּ֣ר הַשְּׁחֻטָ֔ה עַ֖ל הַמַּ֥יִם הַֽחַיִּֽים׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic HYSSOP|HYSSOP]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SCAPEBIRD|SCAPEBIRD]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6833]]"
+- "[[H2416A]]"
+- "[[H3947G]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H6086G]]"
+- "[[H0730]]"
+- "[[H8144]]"
+- "[[H8438B]]"
+- "[[H0231]]"
+- "[[H9001]]"
+- "[[H2881]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H7819A]]"
+- "[[H5921A]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:6**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird [that was] killed over the running water:
 <small><sub>**BSB:**</sub></small>
 And he is to take the live bird together with the cedar wood, scarlet yarn, and hyssop, and dip them into the blood of the bird that was slaughtered over the fresh water.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6833\|צִּפֹּ֤ר]] [[H9009\|הַֽ]][[H2416A\|חַיָּה֙]] [[H3947G\|יִקַּ֣ח]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6086G\|עֵ֥ץ]] [[H9009\|הָ]][[H0730\|אֶ֛רֶז]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8144\|שְׁנִ֥י]] [[H9009\|הַ]][[H8438B\|תּוֹלַ֖עַת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0231\|אֵזֹ֑ב]] [[H9001\|וְ]][[H2881\|טָבַ֨ל]] [[H0853\|אוֹתָ֜]][[H9038\|ם]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H9009\|הַ]][[H6833\|צִּפֹּ֣ר]] [[H9009\|הַֽ]][[H2416A\|חַיָּ֗ה]] [[H9003\|בְּ]][[H1818\|דַם֙]] [[H9009\|הַ]][[H6833\|צִּפֹּ֣ר]] [[H9009\|הַ]][[H7819A\|שְּׁחֻטָ֔ה]] [[H5921A\|עַ֖ל]] [[H9009\|הַ]][[H4325G\|מַּ֥יִם]] [[H9009\|הַֽ]][[H2416A\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic CEDAR|CEDAR]] • [[topic COLORS|COLORS]] • [[topic HYSSOP|HYSSOP]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SCAPEBIRD|SCAPEBIRD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.5|<< Leviticus 14:5]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.7|Leviticus 14:7 >>]]</td></tr></table>
 

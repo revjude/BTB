@@ -1,8 +1,61 @@
+---
+title: 1 Kings 15:15
+type: Verse
+kjv: "And he brought in the things which his father had dedicated, and the things which himself had dedicated, into the house of the LORD, silver, and gold, and vessels."
+bsb: "And he brought into the house of the LORD the silver and gold and the articles that he and his father had dedicated."
+hebrew: "וַיָּבֵא֙ אֶת־ קָדְשֵׁ֣י אָבִ֔יו וְקָדְשֵׁ֖י בֵּ֣ית יְהוָ֑ה כֶּ֥סֶף וְזָהָ֖ב וְכֵלִֽים׃"
+pericope: "[[1Kgs.15.9 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ASA|ASA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H3627]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 15:15**<big><big>[[1Kgs.15.9 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought in the things which his father had dedicated, and the things which himself had dedicated, into the house of the LORD, silver, and gold, and vessels.
 <small><sub>**BSB:**</sub></small>
 And he brought into the house of the LORD the silver and gold and the articles that he and his father had dedicated.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6944G\|קָדְשֵׁ֣י]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H6944G\|קָדְשֵׁ֖י]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H3701G\|כֶּ֥סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֖ב]] [[H9002\|וְ]][[H3627\|כֵלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASA|ASA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RULERS|RULERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.14|<< 1 Kings 15:14]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.16|1 Kings 15:16 >>]]</td></tr></table>
 
@@ -20,7 +73,7 @@ And he brought into the house of the LORD the silver and gold and the articles t
 | and utensils  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3627\|כֵלִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khe.Lim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.14|<< 1 Kings 15:14]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.16|1 Kings 15:16 >>]]</td></tr></table>
 
-[^1]: and own holy thing his  | **<big>[[H9023|וֹ]]</big><big>[[H6944G|קָדְשׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.de.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: and own holy thing his  | **<big>[[H9023|וֹ]]</big><big>[[H6944G|קָדְשׁ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.de.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: and own holy thing his  | **<big>[[H9002|וְ]]</big><big>[[H6944G|קָדְשׁ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.de.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and own holy thing his  | **<big>[[H9002|וְ]]</big><big>[[H6944G|קָדְשׁ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> ka.de.sho<small><sup>[[HNcbsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְקָדְשֵׁ֖/ו</big></span>**
 

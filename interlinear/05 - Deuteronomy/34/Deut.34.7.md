@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 34:7
+type: Verse
+kjv: "And Moses was an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated."
+bsb: "Moses was a hundred and twenty years old when he died, yet his eyes were not weak, and his vitality had not diminished."
+hebrew: "וּמֹשֶׁ֗ה בֶּן־ מֵאָ֧ה וְעֶשְׂרִ֛ים שָׁנָ֖ה בְּמֹת֑וֹ לֹֽא־ כָהֲתָ֥ה עֵינ֖וֹ וְלֹא־ נָ֥ס לֵחֹֽה׃"
+pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 34
+book/chapter: "[[Deut.34|Deuteronomy 34]]"
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic INFIRMITY|INFIRMITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4872]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H4191]]"
+- "[[H9043]]"
+- "[[H3808]]"
+- "[[H3543A]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H5127]]"
+- "[[H3893]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 34:7**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses [was] an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.
 <small><sub>**BSB:**</sub></small>
 Moses was a hundred and twenty years old when he died, yet his eyes were not weak, and his vitality had not diminished.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4872\|מֹשֶׁ֗ה]] [[H1121L\|בֶּן]][[H9014\|־]] [[H3967\|מֵאָ֧ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֛ים]] [[H8141\|שָׁנָ֖ה]] [[H9003\|בְּ]][[H4191\|מֹת֑]][[H9043\|וֹ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3543A\|כָהֲתָ֥ה]] [[H5869A\|עֵינ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5127\|נָ֥ס]] [[H3893\|לֵחֹֽ]][[H9023\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic INFIRMITY|INFIRMITY]] • [[topic ISRAEL|ISRAEL]] • [[topic LONGEVITY|LONGEVITY]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.6|<< Deuteronomy 34:6]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.8|Deuteronomy 34:8 >>]]</td></tr></table>
 

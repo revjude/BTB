@@ -1,8 +1,54 @@
+---
+title: Job 32:10
+type: Verse
+kjv: "Therefore I said, Hearken to me; I also will shew mine opinion."
+bsb: "Therefore I say, ‘Listen to me; I too will declare what I know.’"
+hebrew: "לָכֵ֣ן אָ֭מַרְתִּי שִׁמְעָה־ לִּ֑י אֲחַוֶּ֖ה דֵּעִ֣י אַף־ אָֽנִי׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H8085G]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H2331]]"
+- "[[H1843]]"
+- "[[H9020]]"
+- "[[H0637]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:10**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I said, Hearken to me; I also will shew mine opinion.
 <small><sub>**BSB:**</sub></small>
 Therefore I say, ‘Listen to me; I too will declare what I know.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֣ן]] [[H0559\|אָ֭מַרְתִּי]] [[H8085G\|שִׁמְעָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֑]][[H9030\|י]] [[H2331\|אֲחַוֶּ֖ה]] [[H1843\|דֵּעִ֣]][[H9020\|י]] [[H0637\|אַף]][[H9014\|־]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.9|<< Job 32:9]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.11|Job 32:11 >>]]</td></tr></table>
 

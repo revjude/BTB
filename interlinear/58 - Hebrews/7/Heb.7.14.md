@@ -1,10 +1,62 @@
+---
+title: Hebrews 7:14
+type: Verse
+kjv: "For it is evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood."
+bsb: "For it is clear that our Lord descended from Judah, a tribe as to which Moses said nothing about priests."
+greek: "πρόδηλον γὰρ ὅτι ἐξ Ἰούδα ἀνατέταλκεν ὁ κύριος ἡμῶν εἰς ἣν φυλὴν περὶ ἱερέων οὐδὲν Μωϋσῆς ἐλάλησεν.¶"
+pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G4271]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G2455]]"
+- "[[G0393]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G5443]]"
+- "[[G4012]]"
+- "[[G2409]]"
+- "[[G3762]]"
+- "[[G3475]]"
+- "[[G2980]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Hebrews 7:14**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For [it is] evident that our Lord sprang out of Juda; of which tribe Moses spake nothing concerning priesthood.
 <small><sub>**BSB:**</sub></small>
 For it is clear that our Lord descended from Judah, a tribe as to which Moses said nothing about priests.
-<small><sub>**Literal:**</sub></small>
-[It is] evident for that out of Judah has sprung the Lord of us as to which a tribe concerning priests no [thing] Moses spoke.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.13|<< Hebrews 7:13]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.15|Hebrews 7:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4271\|πρόδηλον]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G1537\|ἐξ]]  [[G2455\|Ἰούδα]]  [[G0393\|ἀνατέταλκεν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G3739\|ἣν]]  [[G5443\|φυλὴν]]  [[G4012\|περὶ]]  [[G2409\|ἱερέων]]  [[G3762\|οὐδὲν]]  [[G3475\|Μωϋσῆς]]  [[G2980\|ἐλάλησεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.13|<< Hebrews 7:13]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.15|Hebrews 7:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

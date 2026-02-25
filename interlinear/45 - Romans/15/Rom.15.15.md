@@ -1,10 +1,58 @@
+---
+title: Romans 15:15
+type: Verse
+kjv: "Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,"
+bsb: "However, I have written you a bold reminder on some points, because of the grace God has given me"
+greek: "Τολμηρότερον δὲ ἔγραψα ὑμῖν ἀδελφοί ἀπὸ μέρους ὡς ἐπαναμιμνῄσκων ὑμᾶς διὰ τὴν χάριν τὴν δοθεῖσάν μοι ὑπὸ τοῦ θεοῦ"
+pericope: "[[Rom.15.14 Paul the Minister to the Gentiles|Paul the Minister to the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5112]]"
+- "[[G1161]]"
+- "[[G1125]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G0575]]"
+- "[[G3313]]"
+- "[[G5613]]"
+- "[[G1878]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G5259G]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Romans 15:15**<big><big>[[Rom.15.14 Paul the Minister to the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,
 <small><sub>**BSB:**</sub></small>
 However, I have written you a bold reminder on some points, because of the grace God has given me
-<small><sub>**Literal:**</sub></small>
-More boldly however I have written to you brothers in part as reminding you because of the grace which having been given to me by <the> God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.14|<< Romans 15:14]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.16|Romans 15:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5112\|Τολμηρότερον]]  [[G1161\|δὲ]]  [[G1125\|ἔγραψα]]  [[G4771\|ὑμῖν]]  [[G0080\|ἀδελφοί]]  [[G0575\|ἀπὸ]]  [[G3313\|μέρους]]  [[G5613\|ὡς]]  [[G1878\|ἐπαναμιμνῄσκων]]  [[G4771\|ὑμᾶς]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G5485\|χάριν]]  [[G3588\|τὴν]]  [[G1325\|δοθεῖσάν]]  [[G3165\|μοι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.14|<< Romans 15:14]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.16|Romans 15:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

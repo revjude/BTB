@@ -1,8 +1,62 @@
+---
+title: Jeremiah 20:17
+type: Verse
+kjv: "Because he slew me not from the womb; or that my mother might have been my grave, and her womb to be always great with me."
+bsb: "because he did not kill me in the womb so that my mother might have been my grave, and her womb forever enlarged."
+hebrew: "אֲשֶׁ֥ר לֹא־ מוֹתְתַ֖נִי מֵרָ֑חֶם וַתְּהִי־ לִ֤י אִמִּי֙ קִבְרִ֔י וְרַחְמָ֖הֿ הֲרַ֥ת עוֹלָֽם׃"
+pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4191]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H7358]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H6913]]"
+- "[[H9002]]"
+- "[[H9024]]"
+- "[[H2030A]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:17**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because he slew me not from the womb; or that my mother might have been my grave, and her womb [to be] always great [with me].
 <small><sub>**BSB:**</sub></small>
 because he did not kill me in the womb so that my mother might have been my grave, and her womb forever enlarged.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H4191\|מוֹתְתַ֖]][[H9030\|נִי]] [[H9006\|מֵ]][[H7358\|רָ֑חֶם]] [[H9001\|וַ]][[H1961\|תְּהִי]][[H9014\|־]] [[H9005\|לִ֤]][[H9030\|י]] [[H0517\|אִמִּ]][[H9020\|י֙]] [[H6913\|קִבְרִ֔]][[H9020\|י]] [[H9002\|וְ]][[H7358\|רַחְמָ֖]][[H9024\|הֿ]] [[H2030A\|הֲרַ֥ת]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEREMIAH|JEREMIAH]] • [[topic LIFE|LIFE]] • [[topic MURMURING|MURMURING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.16|<< Jeremiah 20:16]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.18|Jeremiah 20:18 >>]]</td></tr></table>
 

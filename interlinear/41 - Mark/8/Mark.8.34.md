@@ -1,10 +1,65 @@
+---
+title: Mark 8:34
+type: Verse
+kjv: "And when he had called the people unto him with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me."
+bsb: "Then Jesus called the crowd to Him along with His disciples, and He told them, “If anyone wants to come after Me, he must deny himself and take up his cross and follow Me."
+jesus_said: "Whosoever will come after me, let him deny himself, and take up his cross, and follow me."
+greek: "καὶ προσκαλεσάμενος τὸν ὄχλον σὺν τοῖς μαθηταῖς αὐτοῦ εἶπεν αὐτοῖς· εἴ τις θέλει ὀπίσω μου ἀκολουθεῖν, ἀπαρνησάσθω ἑαυτὸν καὶ ἀράτω τὸν σταυρὸν αὐτοῦ καὶ ἀκολουθείτω μοι."
+pericope: "[[Mark.8.34 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STOICISM|STOICISM]]"
+strongs:
+- "[[G2532]]"
+- "[[G4341]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G4862]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G2309]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G0190]]"
+- "[[G0533]]"
+- "[[G1438]]"
+- "[[G0142]]"
+- "[[G4716]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **Mark 8:34**<big><big>[[Mark.8.34 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had called the people [unto him] with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me.
 <small><sub>**BSB:**</sub></small>
 Then Jesus called the crowd to Him along with His disciples, and He told them, “If anyone wants to come after Me, he must deny himself and take up his cross and follow Me.
-<small><sub>**Literal:**</sub></small>
-And having called to [Him] the crowd with the disciples of Him He said to them; If anyone desires after Me to follow, he should deny himself and he should take up the cross of him and he should follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.33|<< Mark 8:33]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.35|Mark 8:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4341\|προσκαλεσάμενος]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G2309\|θέλει]]  [[G3694\|ὀπίσω]]  [[G3165\|μου]]  [[G0190\|ἀκολουθεῖν,]]  [[G0533\|ἀπαρνησάσθω]]  [[G1438\|ἑαυτὸν]]  [[G2532\|καὶ]]  [[G0142\|ἀράτω]]  [[G3588\|τὸν]]  [[G4716\|σταυρὸν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0190\|ἀκολουθείτω]]  [[G3165\|μοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CROSS|CROSS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STOICISM|STOICISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.33|<< Mark 8:33]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.35|Mark 8:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: Psalm 76:11
+type: Verse
+kjv: "Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared."
+bsb: "Make and fulfill your vows to the LORD your God; let all the neighboring lands bring tribute to Him who is to be feared."
+hebrew: "נִֽדֲר֣וּ וְשַׁלְּמוּ֮ לַיהוָ֪ה אֱֽלֹהֵ֫יכֶ֥ם כָּל־ סְבִיבָ֑יו יוֹבִ֥ילוּ שַׁ֝֗י לַמּוֹרָֽא׃"
+pericope: "[[Ps.76.1 God’s Name Is Great in Israel|God’s Name Is Great in Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 76
+book/chapter: "[[Ps.76|Psalm 76]]"
+chronological_order: 508
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H5087]]"
+- "[[H9002]]"
+- "[[H7999A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5439G]]"
+- "[[H9033]]"
+- "[[H2986]]"
+- "[[H7862]]"
+- "[[H4172A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 76:11**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared.
 <small><sub>**BSB:**</sub></small>
 Make and fulfill your vows to the LORD your God; let all the neighboring lands bring tribute to Him who is to be feared.
+<small><sub>**Hebrew:**</sub></small>
+[[H5087\|נִֽדֲר֣וּ]] [[H9002\|וְ]][[H7999A\|שַׁלְּמוּ֮]] [[H9005\|לַ]][[H3068G\|יהוָ֪ה]] [[H0430G\|אֱֽלֹהֵ֫י]][[H9026\|כֶ֥ם]] [[H3605\|כָּל]][[H9014\|־]] [[H5439G\|סְבִיבָ֑י]][[H9033\|ו]] [[H2986\|יוֹבִ֥ילוּ]] [[H7862\|שַׁ֝֗י]] [[H9005\|לַ]][[H4172A\|מּוֹרָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic VOWS|VOWS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.10|<< Psalms 76:10]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.12|Psalms 76:12 >>]]</td></tr></table>
 

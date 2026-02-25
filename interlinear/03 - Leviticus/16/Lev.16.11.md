@@ -1,8 +1,65 @@
+---
+title: Leviticus 16:11
+type: Verse
+kjv: "And Aaron shall bring the bullock of the sin offering, which is for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which is for himself:"
+bsb: "When Aaron presents the bull for his sin offering and makes atonement for himself and his household, he is to slaughter the bull for his own sin offering."
+hebrew: "וְהִקְרִ֨יב אַהֲרֹ֜ן אֶת־ פַּ֤ר הַֽחַטָּאת֙ אֲשֶׁר־ ל֔וֹ וְכִפֶּ֥ר בַּֽעֲד֖וֹ וּבְעַ֣ד בֵּית֑וֹ וְשָׁחַ֛ט אֶת־ פַּ֥ר הַֽחַטָּ֖את אֲשֶׁר־ לֽוֹ׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6499]]"
+- "[[H9009]]"
+- "[[H2403H]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3722A]]"
+- "[[H1157]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H7819A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:11**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall bring the bullock of the sin offering, which [is] for himself, and shall make an atonement for himself, and for his house, and shall kill the bullock of the sin offering which [is] for himself:
 <small><sub>**BSB:**</sub></small>
 When Aaron presents the bull for his sin offering and makes atonement for himself and his household, he is to slaughter the bull for his own sin offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִ֨יב]] [[H0175\|אַהֲרֹ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H6499\|פַּ֤ר]] [[H9009\|הַֽ]][[H2403H\|חַטָּאת֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וְ]][[H3722A\|כִפֶּ֥ר]] [[H1157\|בַּֽעֲד֖]][[H9033\|וֹ]] [[H9002\|וּ]][[H1157\|בְעַ֣ד]] [[H1004M\|בֵּית֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H7819A\|שָׁחַ֛ט]] [[H0853\|אֶת]][[H9014\|־]] [[H6499\|פַּ֥ר]] [[H9009\|הַֽ]][[H2403H\|חַטָּ֖את]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.10|<< Leviticus 16:10]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.12|Leviticus 16:12 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Genesis 47:13
+type: Verse
+kjv: "And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine."
+bsb: "There was no food, however, in all that region, because the famine was so severe; the lands of Egypt and Canaan had been exhausted by the famine."
+hebrew: "וְלֶ֤חֶם אֵין֙ בְּכָל־ הָאָ֔רֶץ כִּֽי־ כָבֵ֥ד הָרָעָ֖ב מְאֹ֑ד וַתֵּ֜לַהּ אֶ֤רֶץ מִצְרַ֙יִם֙ וְאֶ֣רֶץ כְּנַ֔עַן מִפְּנֵ֖י הָרָעָֽב׃"
+pericope: "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3899G]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H3515]]"
+- "[[H7458]]"
+- "[[H3966]]"
+- "[[H9001]]"
+- "[[H3856A]]"
+- "[[H4714G]]"
+- "[[H3667A]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:13**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] no bread in all the land; for the famine [was] very sore, so that the land of Egypt and [all] the land of Canaan fainted by reason of the famine.
 <small><sub>**BSB:**</sub></small>
 There was no food, however, in all that region, because the famine was so severe; the lands of Egypt and Canaan had been exhausted by the famine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3899G\|לֶ֤חֶם]] [[H0369\|אֵין֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3515\|כָבֵ֥ד]] [[H9009\|הָ]][[H7458\|רָעָ֖ב]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H3856A\|תֵּ֜לַהּ]] [[H0776G\|אֶ֤רֶץ]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9002\|וְ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנַ֔עַן]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H9009\|הָ]][[H7458\|רָעָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic EXTORTION|EXTORTION]] • [[topic JOSEPH|JOSEPH]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.12|<< Genesis 47:12]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.14|Genesis 47:14 >>]]</td></tr></table>
 

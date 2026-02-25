@@ -1,8 +1,69 @@
+---
+title: 2 Kings 21:12
+type: Verse
+kjv: "Therefore thus saith the LORD God of Israel, Behold, I am bringing such evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle."
+bsb: "this is what the LORD, the God of Israel, says: ‘Behold, I am bringing such calamity upon Jerusalem and Judah that the news will reverberate in the ears of all who hear it."
+hebrew: "לָכֵ֗ן כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִי֙ מֵבִ֣יא רָעָ֔ה עַל־ יְרוּשָׁלִַ֖ם וִֽיהוּדָ֑ה אֲשֶׁר֙ כָּל־ שֹׁ֣מְעָ֔הּ תִּצַּ֖לְנָה שְׁתֵּ֥י אָזְנָֽיו׃"
+pericope: "[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|Manasseh’s Idolatries Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H7451C]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H0834A]]"
+- "[[H3605]]"
+- "[[H8085G]]"
+- "[[H9033]]"
+- "[[H9034]]"
+- "[[H6750]]"
+- "[[H8147]]"
+- "[[H0241G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 21:12**<big><big>[[2Kgs.21.10 Manasseh’s Idolatries Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD God of Israel, Behold, I [am] bringing [such] evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.
 <small><sub>**BSB:**</sub></small>
 this is what the LORD, the God of Israel, says: ‘Behold, I am bringing such calamity upon Jerusalem and Judah that the news will reverberate in the ears of all who hear it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H2005\|הִנְ]][[H9040\|נִי֙]] [[H0935P\|מֵבִ֣יא]] [[H7451C\|רָעָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9002\|וִֽ]][[H3063G\|יהוּדָ֑ה]] [[H0834A\|אֲשֶׁר֙]] [[H3605\|כָּל]][[H9014\|־]] [[H8085G\|שֹׁ֣מְעָ֔]][[H9034\|הּ]] [[H6750\|תִּצַּ֖לְנָה]] [[H8147\|שְׁתֵּ֥י]] [[H0241G\|אָזְנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.11|<< 2 Kings 21:11]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.13|2 Kings 21:13 >>]]</td></tr></table>
 
@@ -28,7 +89,7 @@ this is what the LORD, the God of Israel, says: ‘Behold, I am bringing such ca
 | ears his  |**<big>&#8207;[[H0241G\|אָזְנָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.ze.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.11|<< 2 Kings 21:11]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.13|2 Kings 21:13 >>]]</td></tr></table>
 
-[^1]: [those who] hear of it  | **<big>[[H9033|ו]]</big><big>[[H8085G|שֹׁמְעָי]]</big> ** | sho.me.'a<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: [those who] hear of it  | **<big>[[H9033|ו]]</big><big>[[H8085G|שֹׁמְעָי]]</big> ** | sho.me.'a<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: [those who] hear of it  | **<big>[[H8085G|שֹׁמְעָי]]</big><big>[[H9033|ו]]</big> ** | sho.me.'a<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: [those who] hear of it  | **<big>[[H8085G|שֹׁמְעָי]]</big><big>[[H9033|ו]]</big> ** | sho.me.'a<small><sup>[[HVqrmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>שֹׁ֣מְעָ֔יּו</big></span>**
 

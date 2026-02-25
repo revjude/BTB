@@ -1,10 +1,59 @@
+---
+title: John 7:12
+type: Verse
+kjv: "And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people."
+bsb: "Many in the crowds were whispering about Him. Some said, “He is a good man.” But others replied, “No, He deceives the people.”"
+greek: "καὶ γογγυσμὸς περὶ αὐτοῦ ἦν πολὺς ἐν τοῖς ὄχλοις. οἱ μὲν ἔλεγον ὅτι ἀγαθός ἐστιν, ἄλλοι δὲ ἔλεγον· οὔ, ἀλλὰ πλανᾷ τὸν ὄχλον."
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1112]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G4183]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3303]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G0018]]"
+- "[[G0243]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G0235]]"
+- "[[G4105]]"
+texts:
+- NKO
+---
+
 **John 7:12**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.
 <small><sub>**BSB:**</sub></small>
 Many in the crowds were whispering about Him. Some said, “He is a good man.” But others replied, “No, He deceives the people.”
-<small><sub>**Literal:**</sub></small>
-And murmuring about Him there was much among the crowds. Some indeed were saying that Good He is, Others however were saying; No, but He deceives the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.11|<< John 7:11]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.13|John 7:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1112\|γογγυσμὸς]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ]]  [[G1510\|ἦν]]  [[G4183\|πολὺς]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3793\|ὄχλοις.]]  [[G3588\|οἱ]]  [[G3303\|μὲν]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι]]  [[G0018\|ἀγαθός]]  [[G1510\|ἐστιν,]]  [[G0243\|ἄλλοι]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγον·]]  [[G3756\|οὔ,]]  [[G0235\|ἀλλὰ]]  [[G4105\|πλανᾷ]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.11|<< John 7:11]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.13|John 7:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

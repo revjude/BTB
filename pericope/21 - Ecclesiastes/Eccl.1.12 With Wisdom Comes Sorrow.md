@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: With Wisdom Comes Sorrow
+type: Pericope
 pericope: "[[Eccl.1.12 With Wisdom Comes Sorrow|With Wisdom Comes Sorrow]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 1
 book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
-genre:
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 7
 verses:
 - "[[Eccl.1.12]]"
 - "[[Eccl.1.13]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Eccl.1.18]]"
 ---
 
-[[Eccl.1|Ecclesiastes 1:12 - Ecclesiastes 1:18]]
+<small>[[Eccl.1|Ecclesiastes 1:12-18]]</small>
 *With Wisdom Comes Sorrow*
 
 [[Eccl.1.12|12]] I the Preacher was king over Israel in Jerusalem.

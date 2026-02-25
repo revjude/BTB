@@ -1,8 +1,70 @@
+---
+title: Isaiah 26:9
+type: Verse
+kjv: "With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments are in the earth, the inhabitants of the world will learn righteousness."
+bsb: "My soul longs for You in the night; indeed, my spirit seeks You at dawn. For when Your judgments come upon the earth, the people of the world learn righteousness."
+hebrew: "נַפְשִׁ֤י אִוִּיתִ֙יךָ֙ בַּלַּ֔יְלָה אַף־ רוּחִ֥י בְקִרְבִּ֖י אֲשַֽׁחֲרֶ֑ךָּ כִּ֞י כַּאֲשֶׁ֤ר מִשְׁפָּטֶ֙יךָ֙ לָאָ֔רֶץ צֶ֥דֶק לָמְד֖וּ יֹשְׁבֵ֥י תֵבֵֽל׃"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MAN|MAN]]"
+- "[[topic RISING|RISING]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H0183]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H7130G]]"
+- "[[H7836]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H4941G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H6664G]]"
+- "[[H3925H]]"
+- "[[H3427]]"
+- "[[H8398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 26:9**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With my soul have I desired thee in the night; yea, with my spirit within me will I seek thee early: for when thy judgments [are] in the earth, the inhabitants of the world will learn righteousness.
 <small><sub>**BSB:**</sub></small>
 My soul longs for You in the night; indeed, my spirit seeks You at dawn. For when Your judgments come upon the earth, the people of the world learn righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315G\|נַפְשִׁ֤]][[H9020\|י]] [[H0183\|אִוִּיתִ֙י]][[H9031\|ךָ֙]] [[H9003\|בַּ]][[H3915\|לַּ֔יְלָה]] [[H0637\|אַף]][[H9014\|־]] [[H7307G\|רוּחִ֥]][[H9020\|י]] [[H9003\|בְ]][[H7130G\|קִרְבִּ֖]][[H9020\|י]] [[H7836\|אֲשַֽׁחֲרֶ֑]][[H9031\|ךָּ]] [[H3588A\|כִּ֞י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H4941G\|מִשְׁפָּטֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לָ]][[H0776G\|אָ֔רֶץ]] [[H6664G\|צֶ֥דֶק]] [[H3925H\|לָמְד֖וּ]] [[H3427\|יֹשְׁבֵ֥י]] [[H8398\|תֵבֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]] • [[topic HOLINESS|HOLINESS]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MAN|MAN]] • [[topic RISING|RISING]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.8|<< Isaiah 26:8]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.26.10|Isaiah 26:10 >>]]</td></tr></table>
 

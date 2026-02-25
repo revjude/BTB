@@ -1,8 +1,57 @@
+---
+title: Numbers 29:27
+type: Verse
+kjv: "And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, shall be according to their number, after the manner:"
+bsb: "along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed."
+hebrew: "וּמִנְחָתָ֣ם וְנִסְכֵּיהֶ֡ם לַ֠פָּרִים לָאֵילִ֧ם וְלַכְּבָשִׂ֛ים בְּמִסְפָּרָ֖ם כַּמִּשְׁפָּֽט׃"
+pericope: "[[Num.29.12 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H9028]]"
+- "[[H5262]]"
+- "[[H9005]]"
+- "[[H6499]]"
+- "[[H0352A]]"
+- "[[H3532]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H9004]]"
+- "[[H4941I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:27**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their meat offering and their drink offerings for the bullocks, for the rams, and for the lambs, [shall be] according to their number, after the manner:
 <small><sub>**BSB:**</sub></small>
 along with the grain and drink offerings for the bulls, rams, and lambs, according to the number prescribed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4503G\|מִנְחָתָ֣]][[H9028\|ם]] [[H9002\|וְ]][[H5262\|נִסְכֵּי]][[H9028\|הֶ֡ם]] [[H9005\|לַ֠]][[H6499\|פָּרִים]] [[H9005\|לָ]][[H0352A\|אֵילִ֧ם]] [[H9002\|וְ]][[H9005\|לַ]][[H3532\|כְּבָשִׂ֛ים]] [[H9003\|בְּ]][[H4557\|מִסְפָּרָ֖]][[H9028\|ם]] [[H9004\|כַּ]][[H4941I\|מִּשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.26|<< Numbers 29:26]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.28|Numbers 29:28 >>]]</td></tr></table>
 

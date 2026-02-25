@@ -1,10 +1,54 @@
+---
+title: John 2:2
+type: Verse
+kjv: "And both Jesus was called, and his disciples, to the marriage."
+bsb: "and Jesus and His disciples had also been invited to the wedding."
+greek: "ἐκλήθη δὲ καὶ ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὸν γάμον."
+pericope: "[[John.2.1 The Wedding at Cana|The Wedding at Cana]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CANA|CANA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G2564G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1062]]"
+texts:
+- NKO
+---
+
 **John 2:2**<big><big>[[John.2.1 The Wedding at Cana|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And both Jesus was called, and his disciples, to the marriage.
 <small><sub>**BSB:**</sub></small>
 and Jesus and His disciples had also been invited to the wedding.
-<small><sub>**Literal:**</sub></small>
-Was invited then also <the> Jesus and the disciples of Him to the wedding.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.1|<< John 2:1]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.3|John 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2564G\|ἐκλήθη]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G1062\|γάμον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANA|CANA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.1|<< John 2:1]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.3|John 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

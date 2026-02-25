@@ -1,10 +1,58 @@
+---
+title: John 10:26
+type: Verse
+kjv: "But ye believe not, because ye are not of my sheep, as I said unto you."
+bsb: "But because you are not My sheep, you refuse to believe."
+jesus_said: "But ye believe not, because ye are not of my sheep, as I said unto you."
+greek: "ἀλλ᾽ ὑμεῖς οὐ πιστεύετε, ὅτι οὐκ ἐστὲ ἐκ τῶν προβάτων τῶν ἐμῶν καθὼς εἶπον ὑμῖν."
+pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G0235]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G3754H]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4263]]"
+- "[[G1473]]"
+- "[[G2531]]"
+- "[[G2036]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **John 10:26**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye believe not, because ye are not of my sheep, as I said unto you.
 <small><sub>**BSB:**</sub></small>
 But because you are not My sheep, you refuse to believe.
-<small><sub>**Literal:**</sub></small>
-But you yourselves not believe, because not you are from among the sheep <the> of Mine even as I said to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.25|<< John 10:25]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.27|John 10:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G4771\|ὑμεῖς]]  [[G3756\|οὐ]]  [[G4100\|πιστεύετε,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G1510\|ἐστὲ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G4263\|προβάτων]]  [[G3588\|τῶν]]  [[G1473\|ἐμῶν]]  [[G2531\|καθὼς]]  [[G2036\|εἶπον]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPROBACY|REPROBACY]] • [[topic TEMPLE|TEMPLE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.25|<< John 10:25]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.27|John 10:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

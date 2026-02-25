@@ -1,8 +1,66 @@
+---
+title: Ezekiel 13:10
+type: Verse
+kjv: "Because, even because they have seduced my people, saying, Peace; and there was no peace; and one built up a wall, and, lo, others daubed it with untempered morter:"
+bsb: "Because they have led My people astray, saying, ‘Peace,’ when there is no peace, and whitewashing any flimsy wall that is built,"
+hebrew: "יַ֣עַן וּבְיַ֜עַן הִטְע֧וּ אֶת־ עַמִּ֛י לֵאמֹ֥ר שָׁל֖וֹם וְאֵ֣ין שָׁל֑וֹם וְהוּא֙ בֹּ֣נֶה חַ֔יִץ וְהִנָּ֛ם טָחִ֥ים אֹת֖וֹ תָּפֵֽל׃"
+pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H3282]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2937]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7965G]]"
+- "[[H0369]]"
+- "[[H1931]]"
+- "[[H1129]]"
+- "[[H2434]]"
+- "[[H2009]]"
+- "[[H9048]]"
+- "[[H2902A]]"
+- "[[H9033]]"
+- "[[H8602B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:10**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because, even because they have seduced my people, saying, Peace; and [there was] no peace; and one built up a wall, and, lo, others daubed it with untempered [morter]:
 <small><sub>**BSB:**</sub></small>
 Because they have led My people astray, saying, ‘Peace,’ when there is no peace, and whitewashing any flimsy wall that is built,
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֣עַן]] [[H9002\|וּ]][[H9003\|בְ]][[H3282\|יַ֜עַן]] [[H2937\|הִטְע֧וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֛]][[H9020\|י]] [[H9005\|לֵ]][[H0559\|אמֹ֥ר]] [[H7965G\|שָׁל֖וֹם]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H7965G\|שָׁל֑וֹם]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H1129\|בֹּ֣נֶה]] [[H2434\|חַ֔יִץ]] [[H9002\|וְ]][[H2009\|הִנָּ֛]][[H9048\|ם]] [[H2902A\|טָחִ֥ים]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H8602B\|תָּפֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.9|<< Ezekiel 13:9]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.11|Ezekiel 13:11 >>]]</td></tr></table>
 

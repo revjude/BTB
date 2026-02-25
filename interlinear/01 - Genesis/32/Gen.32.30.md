@@ -1,8 +1,62 @@
+---
+title: Genesis 32:30
+type: Verse
+kjv: "And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved."
+bsb: "So Jacob named the place Peniel, saying, “Indeed, I have seen God face to face, and yet my life was spared.”"
+hebrew: "וַיִּקְרָ֧א יַעֲקֹ֛ב שֵׁ֥ם הַמָּק֖וֹם פְּנִיאֵ֑ל כִּֽי־ רָאִ֤יתִי אֱלֹהִים֙ פָּנִ֣ים אֶל־ פָּנִ֔ים וַתִּנָּצֵ֖ל נַפְשִֽׁי׃"
+pericope: "[[Gen.32.22 Jacob Wrestles with God|Jacob Wrestles with God]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H3290]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H6439G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H0430G]]"
+- "[[H6440H]]"
+- "[[H0413]]"
+- "[[H5337]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:30**<big><big>[[Gen.32.22 Jacob Wrestles with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
 <small><sub>**BSB:**</sub></small>
 So Jacob named the place Peniel, saying, “Indeed, I have seen God face to face, and yet my life was spared.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֧א]] [[H3290\|יַעֲקֹ֛ב]] [[H8034\|שֵׁ֥ם]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H6439G\|פְּנִיאֵ֑ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7200G\|רָאִ֤יתִי]] [[H0430G\|אֱלֹהִים֙]] [[H6440H\|פָּנִ֣ים]] [[H0413\|אֶל]][[H9014\|־]] [[H6440H\|פָּנִ֔ים]] [[H9001\|וַ]][[H5337\|תִּנָּצֵ֖ל]] [[H5315H\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.29|<< Genesis 32:29]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.31|Genesis 32:31 >>]]</td></tr></table>
 

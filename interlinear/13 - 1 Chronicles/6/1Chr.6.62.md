@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 6:62
+type: Verse
+kjv: "And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities."
+bsb: "The Gershomites, according to their clans, were allotted thirteen cities from the tribes of Issachar, Asher, Naphtali, and Manasseh in Bashan."
+hebrew: "וְלִבְנֵ֨י גֵרְשׁ֜וֹם לְמִשְׁפְּחוֹתָ֗ם מִמַּטֵּ֣ה יִ֠שָׂשכָר וּמִמַּטֵּ֨ה אָשֵׁ֜ר וּמִמַּטֵּ֣ה נַפְתָּלִ֗י וּמִמַּטֵּ֤ה מְנַשֶּׁה֙ בַּבָּשָׁ֔ן עָרִ֖ים שְׁלֹ֥שׁ עֶשְׂרֵֽה׃ ס"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H1647H]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H4294H]]"
+- "[[H3485G]]"
+- "[[H0836]]"
+- "[[H5321G]]"
+- "[[H4519G]]"
+- "[[H9003]]"
+- "[[H1316]]"
+- "[[H5892B]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:62**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to the sons of Gershom throughout their families out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.
 <small><sub>**BSB:**</sub></small>
 The Gershomites, according to their clans, were allotted thirteen cities from the tribes of Issachar, Asher, Naphtali, and Manasseh in Bashan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵ֨י]] [[H1647H\|גֵרְשׁ֜וֹם]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחוֹתָ֗]][[H9028\|ם]] [[H9006\|מִ]][[H4294H\|מַּטֵּ֣ה]] [[H3485G\|יִ֠שָׂשכָר]] [[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּטֵּ֨ה]] [[H0836\|אָשֵׁ֜ר]] [[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּטֵּ֣ה]] [[H5321G\|נַפְתָּלִ֗י]] [[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּטֵּ֤ה]] [[H4519G\|מְנַשֶּׁה֙]] [[H9003\|בַּ]][[H1316\|בָּשָׁ֔ן]] [[H5892B\|עָרִ֖ים]] [[H7969\|שְׁלֹ֥שׁ]] [[H6240\|עֶשְׂרֵֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHON|GERSHON]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.61|<< 1 Chronicles 6:61]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.63|1 Chronicles 6:63 >>]]</td></tr></table>
 
@@ -22,7 +74,7 @@ The Gershomites, according to their clans, were allotted thirteen cities from th
 | in \<the> Bashan  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1316\|בָּשָׁ֔ן]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> ba.Shan<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities  |**<big>&#8207;[[H5892B\|עָרִ֖ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thir-  |**<big>&#8207;[[H7969\|שְׁלֹ֥שׁ]]&#8207; </big>**| she.Losh<small><sup>[[HNcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'es.Reh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'es.Reh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.61|<< 1 Chronicles 6:61]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.63|1 Chronicles 6:63 >>]]</td></tr></table>
 
 

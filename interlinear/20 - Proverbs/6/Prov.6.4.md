@@ -1,8 +1,52 @@
+---
+title: Proverbs 6:4
+type: Verse
+kjv: "Give not sleep to thine eyes, nor slumber to thine eyelids."
+bsb: "Allow no sleep to your eyes or slumber to your eyelids."
+hebrew: "אַל־ תִּתֵּ֣ן שֵׁנָ֣ה לְעֵינֶ֑יךָ וּ֝תְנוּמָ֗ה לְעַפְעַפֶּֽיךָ׃"
+pericope: "[[Prov.6.1 Warnings against Foolishness|Warnings against Foolishness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 6
+book/chapter: "[[Prov.6|Proverbs 6]]"
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H8142]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8572]]"
+- "[[H6079]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 6:4**<big><big>[[Prov.6.1 Warnings against Foolishness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give not sleep to thine eyes, nor slumber to thine eyelids.
 <small><sub>**BSB:**</sub></small>
 Allow no sleep to your eyes or slumber to your eyelids.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H5414G\|תִּתֵּ֣ן]] [[H8142\|שֵׁנָ֣ה]] [[H9005\|לְ]][[H5869A\|עֵינֶ֑י]][[H9021\|ךָ]] [[H9002\|וּ֝]][[H8572\|תְנוּמָ֗ה]] [[H9005\|לְ]][[H6079\|עַפְעַפֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SURETY (GUARANTEE)|SURETY (GUARANTEE)]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.6.3|<< Proverbs 6:3]]</td><td align="center" style="border:none;">[[Prov.6|Proverbs 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.6.5|Proverbs 6:5 >>]]</td></tr></table>
 

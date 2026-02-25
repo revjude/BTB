@@ -1,8 +1,53 @@
+---
+title: Numbers 26:51
+type: Verse
+kjv: "These were the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty."
+bsb: "These men of Israel numbered 601,730 in all."
+hebrew: "אֵ֗לֶּה פְּקוּדֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל שֵׁשׁ־ מֵא֥וֹת אֶ֖לֶף וָאָ֑לֶף שְׁבַ֥ע מֵא֖וֹת וּשְׁלֹשִֽׁים׃ פ"
+pericope: "[[Num.26.48 The Tribe of Naphtali|The Tribe of Naphtali]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H0428]]"
+- "[[H6485A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H8337]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H7970]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 26:51**<big><big>[[Num.26.48 The Tribe of Naphtali|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.
 <small><sub>**BSB:**</sub></small>
 These men of Israel numbered 601,730 in all.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֗לֶּה]] [[H6485A\|פְּקוּדֵי֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וָ]][[H0505G\|אָ֑לֶף]] [[H7651\|שְׁבַ֥ע]] [[H3967\|מֵא֖וֹת]] [[H9002\|וּ]][[H7970\|שְׁלֹשִֽׁים]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.50|<< Numbers 26:50]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.52|Numbers 26:52 >>]]</td></tr></table>
 
@@ -18,7 +63,7 @@ These men of Israel numbered 601,730 in all.
 | and one thousand  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0505G\|אָ֑לֶף]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | seven  |**<big>&#8207;[[H7651\|שְׁבַ֥ע]]&#8207; </big>**| she.Va'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and thirty  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H7970\|שְׁלֹשִֽׁים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.lo.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.50|<< Numbers 26:50]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.52|Numbers 26:52 >>]]</td></tr></table>
 
 

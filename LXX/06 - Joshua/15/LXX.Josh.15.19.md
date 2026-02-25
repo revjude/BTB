@@ -1,6 +1,65 @@
+---
+title: LXX Joshua 15:19
+type: Verse
+lxx: "And she said to him, Give a blessing to me! for you have appointed me for the land of the Negev. Give to me  Golath-maim. And Caleb gave her  Golath-maim the upper part, and  Golath the part below."
+greek: "και είπεν αυτώ δος μοι ευλογίαν ότι εις γην Ναγέβ δέδωκάς με δος μοι την Γολαθμάϊμ και έδωκεν αυτή Χαλέβ την Γολαθμάϊμ την άνω και την Γολάθ την κάτω"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ACHSAH|ACHSAH]]"
+- "[[topic OTHNIEL|OTHNIEL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G2129]]"
+- "[[G3754]]"
+- "[[G1519]]"
+- "[[G1093]]"
+- "[[H5045]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[H1543]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[H3612]]"
+- "[[G3588]]"
+- "[[H1543]]"
+- "[[G3588]]"
+- "[[G0507]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H1543]]"
+- "[[G3588]]"
+- "[[G2736]]"
+---
+
 **LXX Joshua 15:19** 
 <small><sub>**LXX:**</sub></small>
 And she said to him, Give a blessing to me! for you have appointed me for \[the\] land \[of the\] Negev. Give to me  Golath-maim. And Caleb gave her  Golath-maim the upper \[part\], and  Golath the \[part\] below. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτώ]] [[G1325\|δος]] [[G1473\|μοι]] [[G2129\|ευλογίαν]] [[G3754\|ότι]] [[G1519\|εις]] [[G1093\|γην]] [[H5045\|Ναγέβ]] [[G1325\|δέδωκάς]] [[G1473\|με]] [[G1325\|δος]] [[G1473\|μοι]] [[G3588\|την]] [[H1543\|Γολαθμάϊμ]] [[G2532\|και]] [[G1325\|έδωκεν]] [[G1473\|αυτή]] [[H3612\|Χαλέβ]] [[G3588\|την]] [[H1543\|Γολαθμάϊμ]] [[G3588\|την]] [[G0507\|άνω]] [[G2532\|και]] [[G3588\|την]] [[H1543\|Γολάθ]] [[G3588\|την]] [[G2736\|κάτω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHSAH|ACHSAH]] • [[topic OTHNIEL|OTHNIEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.18|<< Joshua 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.20|Joshua 15:20 >>]]</td></tr></table>
 
@@ -34,6 +93,6 @@ And she said to him, Give a blessing to me! for you have appointed me for \[the\
 | Golath | **<big>[[H1543\|Γολάθ]]</big>** |
 | the | **<big>[[G3588\|την]]</big>** |
 | \[part\] below. | **<big>[[G2736\|κάτω]]</big>** |
-[[Josh.15.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.18|<< Joshua 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.20|Joshua 15:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.15.18|<< Joshua 15:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.15.20|Joshua 15:20 >>]]</td></tr></table>
 
 

@@ -1,8 +1,79 @@
+---
+title: Genesis 6:7
+type: Verse
+kjv: "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them."
+bsb: "So the LORD said, “I will blot out man, whom I have created, from the face of the earth—every man and beast and crawling creature and bird of the air—for I am grieved that I have made them.”"
+hebrew: "וַיֹּ֣אמֶר יְהוָ֗ה אֶמְחֶ֨ה אֶת־ הָאָדָ֤ם אֲשֶׁר־ בָּרָ֙אתִי֙ מֵעַל֙ פְּנֵ֣י הָֽאֲדָמָ֔ה מֵֽאָדָם֙ עַד־ בְּהֵמָ֔ה עַד־ רֶ֖מֶשׂ וְעַד־ ע֣וֹף הַשָּׁמָ֑יִם כִּ֥י נִחַ֖מְתִּי כִּ֥י עֲשִׂיתִֽם׃"
+pericope: "[[Gen.6.1 Corruption on the Earth|Corruption on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H4229A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H0834A]]"
+- "[[H1254A]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0127G]]"
+- "[[H5704]]"
+- "[[H0929]]"
+- "[[H7431]]"
+- "[[H9002]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H3588A]]"
+- "[[H5162H]]"
+- "[[H6213H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:7**<big><big>[[Gen.6.1 Corruption on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.
 <small><sub>**BSB:**</sub></small>
 So the LORD said, “I will blot out man, whom I have created, from the face of the earth—every man and beast and crawling creature and bird of the air—for I am grieved that I have made them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֗ה]] [[H4229A\|אֶמְחֶ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָ֤ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1254A\|בָּרָ֙אתִי֙]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֔ה]] [[H9006\|מֵֽ]][[H0120G\|אָדָם֙]] [[H5704\|עַד]][[H9014\|־]] [[H0929\|בְּהֵמָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H7431\|רֶ֖מֶשׂ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H3588A\|כִּ֥י]] [[H5162H\|נִחַ֖מְתִּי]] [[H3588A\|כִּ֥י]] [[H6213H\|עֲשִׂיתִֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.6|<< Genesis 6:6]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.8|Genesis 6:8 >>]]</td></tr></table>
 

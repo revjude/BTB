@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 16:6
+type: Verse
+kjv: "And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on his right hand and on his left."
+bsb: "He threw stones at David and at all the servants of the king, though the troops and all the mighty men were on David’s right and left."
+hebrew: "וַיְסַקֵּ֤ל בָּֽאֲבָנִים֙ אֶת־ דָּוִ֔ד וְאֶת־ כָּל־ עַבְדֵ֖י הַמֶּ֣לֶךְ דָּוִ֑ד וְכָל־ הָעָם֙ וְכָל־ הַגִּבֹּרִ֔ים מִימִינ֖וֹ וּמִשְּׂמֹאלֽוֹ׃"
+pericope: "[[2Sam.16.5 Shimei Curses David|Shimei Curses David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CLEMENCY|CLEMENCY]]"
+- "[[topic CURSING|CURSING]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SHIMEI|SHIMEI]]"
+- "[[topic TOB|TOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H5619]]"
+- "[[H9003]]"
+- "[[H0068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5971A]]"
+- "[[H1368]]"
+- "[[H9006]]"
+- "[[H3225G]]"
+- "[[H9023]]"
+- "[[H8040G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 16:6**<big><big>[[2Sam.16.5 Shimei Curses David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men [were] on his right hand and on his left.
 <small><sub>**BSB:**</sub></small>
 He threw stones at David and at all the servants of the king, though the troops and all the mighty men were on David’s right and left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5619\|יְסַקֵּ֤ל]] [[H9003\|בָּֽ]][[H0068G\|אֲבָנִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֔ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5650\|עַבְדֵ֖י]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1732\|דָּוִ֑ד]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1368\|גִּבֹּרִ֔ים]] [[H9006\|מִ]][[H3225G\|ימִינ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H9006\|מִ]][[H8040G\|שְּׂמֹאלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLEMENCY|CLEMENCY]] • [[topic CURSING|CURSING]] • [[topic MALICE|MALICE]] • [[topic SHIMEI|SHIMEI]] • [[topic TOB|TOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.5|<< 2 Samuel 16:5]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.7|2 Samuel 16:7 >>]]</td></tr></table>
 

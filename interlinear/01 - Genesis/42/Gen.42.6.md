@@ -1,8 +1,64 @@
+---
+title: Genesis 42:6
+type: Verse
+kjv: "And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him with their faces to the earth."
+bsb: "Now Joseph was the ruler of the land; he was the one who sold grain to all its people. So when his brothers arrived, they bowed down before him with their faces to the ground."
+hebrew: "וְיוֹסֵ֗ף ה֚וּא הַשַּׁלִּ֣יט עַל־ הָאָ֔רֶץ ה֥וּא הַמַּשְׁבִּ֖יר לְכָל־ עַ֣ם הָאָ֑רֶץ וַיָּבֹ֙אוּ֙ אֲחֵ֣י יוֹסֵ֔ף וַיִּשְׁתַּֽחֲווּ־ ל֥וֹ אַפַּ֖יִם אָֽרְצָה׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3130G]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H7989]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H7666]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0251G]]"
+- "[[H7812]]"
+- "[[H9033]]"
+- "[[H0639I]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:6**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph [was] the governor over the land, [and] he [it was] that sold to all the people of the land: and Joseph’s brethren came, and bowed down themselves before him [with] their faces to the earth.
 <small><sub>**BSB:**</sub></small>
 Now Joseph was the ruler of the land; he was the one who sold grain to all its people. So when his brothers arrived, they bowed down before him with their faces to the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3130G\|יוֹסֵ֗ף]] [[H1931\|ה֚וּא]] [[H9009\|הַ]][[H7989\|שַּׁלִּ֣יט]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H1931\|ה֥וּא]] [[H9009\|הַ]][[H7666\|מַּשְׁבִּ֖יר]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H0251G\|אֲחֵ֣י]] [[H3130G\|יוֹסֵ֔ף]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּֽחֲווּ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H0639I\|אַפַּ֖יִם]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.5|<< Genesis 42:5]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.7|Genesis 42:7 >>]]</td></tr></table>
 

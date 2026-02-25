@@ -1,8 +1,54 @@
+---
+title: Job 5:4
+type: Verse
+kjv: "His children are far from safety, and they are crushed in the gate, neither is there any to deliver them."
+bsb: "His sons are far from safety, crushed in court without a defender."
+hebrew: "יִרְחֲק֣וּ בָנָ֣יו מִיֶּ֑שַׁע וְיִֽדַּכְּא֥וּ בַ֝שַּׁ֗עַר וְאֵ֣ין מַצִּֽיל׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7368]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H3468]]"
+- "[[H9002]]"
+- "[[H1792]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H0369]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:4**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His children are far from safety, and they are crushed in the gate, neither [is there] any to deliver [them].
 <small><sub>**BSB:**</sub></small>
 His sons are far from safety, crushed in court without a defender.
+<small><sub>**Hebrew:**</sub></small>
+[[H7368\|יִרְחֲק֣וּ]] [[H1121A\|בָנָ֣י]][[H9023\|ו]] [[H9006\|מִ]][[H3468\|יֶּ֑שַׁע]] [[H9002\|וְ]][[H1792\|יִֽדַּכְּא֥וּ]] [[H9003\|בַ֝]][[H8179G\|שַּׁ֗עַר]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H5337\|מַצִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.3|<< Job 5:3]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.5|Job 5:5 >>]]</td></tr></table>
 

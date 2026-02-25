@@ -1,8 +1,58 @@
+---
+title: Isaiah 22:2
+type: Verse
+kjv: "Thou that art full of stirs, a tumultuous city, a joyous city: thy slain men are not slain with the sword, nor dead in battle."
+bsb: "O city of commotion, O town of revelry? Your slain did not die by the sword, nor were they killed in battle."
+hebrew: "תְּשֻׁא֣וֹת׀ מְלֵאָ֗ה עִ֚יר הֽוֹמִיָּ֔ה קִרְיָ֖ה עַלִּיזָ֑ה חֲלָלַ֙יִךְ֙ לֹ֣א חַלְלֵי־ חֶ֔רֶב וְלֹ֖א מֵתֵ֥י מִלְחָמָֽה׃"
+pericope: "[[Isa.22.1 The Valley of Vision|The Valley of Vision]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H8663]]"
+- "[[H9015]]"
+- "[[H4392]]"
+- "[[H5892B]]"
+- "[[H1993]]"
+- "[[H7151]]"
+- "[[H5947]]"
+- "[[H2491A]]"
+- "[[H9022]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H4191]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:2**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou that art full of stirs, a tumultuous city, a joyous city: thy slain [men are] not slain with the sword, nor dead in battle.
 <small><sub>**BSB:**</sub></small>
 O city of commotion, O town of revelry? Your slain did not die by the sword, nor were they killed in battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H8663\|תְּשֻׁא֣וֹת]][[H9015\|׀]] [[H4392\|מְלֵאָ֗ה]] [[H5892B\|עִ֚יר]] [[H1993\|הֽוֹמִיָּ֔ה]] [[H7151\|קִרְיָ֖ה]] [[H5947\|עַלִּיזָ֑ה]] [[H2491A\|חֲלָלַ֙יִ]][[H9022\|ךְ֙]] [[H3808\|לֹ֣א]] [[H2491A\|חַלְלֵי]][[H9014\|־]] [[H2719\|חֶ֔רֶב]] [[H9002\|וְ]][[H3808\|לֹ֖א]] [[H4191\|מֵתֵ֥י]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.1|<< Isaiah 22:1]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.3|Isaiah 22:3 >>]]</td></tr></table>
 

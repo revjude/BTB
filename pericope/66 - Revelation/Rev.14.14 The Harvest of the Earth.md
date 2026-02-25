@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Harvest of the Earth
+type: Pericope
 pericope: "[[Rev.14.14 The Harvest of the Earth|The Harvest of the Earth]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 14
 book/chapter: "[[Rev.14|Revelation 14]]"
-genre:
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 7
 verses:
 - "[[Rev.14.14]]"
 - "[[Rev.14.15]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Rev.14.20]]"
 ---
 
-[[Rev.14|Revelation 14:14 - Revelation 14:20]]
+<small>[[Rev.14|Revelation 14:14-20]]</small>
 *The Harvest of the Earth*
 
 [[Rev.14.14|14]] And I looked, and behold a white cloud, and upon the cloud \[one\] sat like unto the Son of man, having on his head a golden crown, and in his hand a sharp sickle.

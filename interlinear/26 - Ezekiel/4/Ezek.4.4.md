@@ -1,8 +1,67 @@
+---
+title: Ezekiel 4:4
+type: Verse
+kjv: "Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that thou shalt lie upon it thou shalt bear their iniquity."
+bsb: "Then lie down on your left side and place the iniquity of the house of Israel upon yourself. You are to bear their iniquity for the number of days you lie on your side."
+hebrew: "וְאַתָּ֤ה שְׁכַב֙ עַל־ צִדְּךָ֣ הַשְּׂמָאלִ֔י וְשַׂמְתָּ֛ אֶת־ עֲוֹ֥ן בֵּֽית־ יִשְׂרָאֵ֖ל עָלָ֑יו מִסְפַּ֤ר הַיָּמִים֙ אֲשֶׁ֣ר תִּשְׁכַּ֣ב עָלָ֔יו תִּשָּׂ֖א אֶת־ עֲוֹנָֽם׃"
+pericope: "[[Ezek.4.1 A Sign of Jerusalem’s Siege|A Sign of Jerusalem’s Siege]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PANTOMIME|PANTOMIME]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6654]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H8042G]]"
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H5771I]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9033]]"
+- "[[H4557]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H5375J]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 4:4**<big><big>[[Ezek.4.1 A Sign of Jerusalem’s Siege|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lie thou also upon thy left side, and lay the iniquity of the house of Israel upon it: [according] to the number of the days that thou shalt lie upon it thou shalt bear their iniquity.
 <small><sub>**BSB:**</sub></small>
 Then lie down on your left side and place the iniquity of the house of Israel upon yourself. You are to bear their iniquity for the number of days you lie on your side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֤ה]] [[H7901G\|שְׁכַב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6654\|צִדְּ]][[H9021\|ךָ֣]] [[H9009\|הַ]][[H8042G\|שְּׂמָאלִ֔י]] [[H9001\|וְ]][[H7760H\|שַׂמְתָּ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H5771I\|עֲוֹ֥ן]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H4557\|מִסְפַּ֤ר]] [[H9009\|הַ]][[H3117G\|יָּמִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7901G\|תִּשְׁכַּ֣ב]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H5375J\|תִּשָּׂ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H5771I\|עֲוֹנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PANTOMIME|PANTOMIME]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.3|<< Ezekiel 4:3]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.5|Ezekiel 4:5 >>]]</td></tr></table>
 

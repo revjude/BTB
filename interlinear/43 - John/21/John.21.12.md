@@ -1,10 +1,60 @@
+---
+title: John 21:12
+type: Verse
+kjv: "Jesus saith unto them, Come and dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord."
+bsb: "“Come, have breakfast,” Jesus said to them. None of the disciples dared to ask Him, “Who are You?” They knew it was the Lord."
+jesus_said: "Come and dine."
+greek: "Λέγει αὐτοῖς ὁ Ἰησοῦς· δεῦτε ἀριστήσατε. οὐδεὶς δὲ ἐτόλμα τῶν μαθητῶν ἐξετάσαι αὐτόν· σὺ τίς εἶ; εἰδότες ὅτι ὁ κύριός ἐστιν.¶"
+pericope: "[[John.21.1 Jesus Appears by the Sea of Tiberias|Jesus Appears by the Sea of Tiberias]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic FISH|FISH]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1205]]"
+- "[[G0709]]"
+- "[[G3762]]"
+- "[[G1161]]"
+- "[[G5111]]"
+- "[[G3101]]"
+- "[[G1833]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **John 21:12**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto them, Come [and] dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord.
 <small><sub>**BSB:**</sub></small>
 “Come, have breakfast,” Jesus said to them. None of the disciples dared to ask Him, “Who are You?” They knew it was the Lord.
-<small><sub>**Literal:**</sub></small>
-Says to them <the> Jesus; Come do have breakfast. None however was daring of the disciples to ask Him; You yourself who are? knowing that the Lord it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.11|<< John 21:11]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.13|John 21:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1205\|δεῦτε]]  [[G0709\|ἀριστήσατε.]]  [[G3762\|οὐδεὶς]]  [[G1161\|δὲ]]  [[G5111\|ἐτόλμα]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G1833\|ἐξετάσαι]]  [[G0846\|αὐτόν·]]  [[G4771\|σὺ]]  [[G5101\|τίς]]  [[G1510\|εἶ;]]  [[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2962G\|κύριός]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic FISH|FISH]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.11|<< John 21:11]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.13|John 21:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,52 @@
+---
+title: John 11:36
+type: Verse
+kjv: "Then said the Jews, Behold how he loved him!"
+bsb: "Then the Jews said, “See how He loved him!”"
+greek: "ἔλεγον οὖν οἱ Ἰουδαῖοι· ἴδε πῶς ἐφίλει αὐτόν."
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G2396]]"
+- "[[G4459]]"
+- "[[G5368]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **John 11:36**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said the Jews, Behold how he loved him!
 <small><sub>**BSB:**</sub></small>
 Then the Jews said, “See how He loved him!”
-<small><sub>**Literal:**</sub></small>
-Were saying therefore the Jews; Behold how He was loving him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.35|<< John 11:35]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.37|John 11:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι·]]  [[G2396\|ἴδε]]  [[G4459\|πῶς]]  [[G5368\|ἐφίλει]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.35|<< John 11:35]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.37|John 11:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

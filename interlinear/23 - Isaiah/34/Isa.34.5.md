@@ -1,8 +1,58 @@
+---
+title: Isaiah 34:5
+type: Verse
+kjv: "For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment."
+bsb: "When My sword has drunk its fill in the heavens, then it will come down upon Edom, upon the people I have devoted to destruction."
+hebrew: "כִּֽי־ רִוְּתָ֥ה בַשָּׁמַ֖יִם חַרְבִּ֑י הִנֵּה֙ עַל־ אֱד֣וֹם תֵּרֵ֔ד וְעַל־ עַ֥ם חֶרְמִ֖י לְמִשְׁפָּֽט׃"
+pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7301]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H2719]]"
+- "[[H9020]]"
+- "[[H2009]]"
+- "[[H5921A]]"
+- "[[H0123G]]"
+- "[[H3381]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H2764A]]"
+- "[[H9005]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 34:5**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my sword shall be bathed in heaven: behold, it shall come down upon Idumea, and upon the people of my curse, to judgment.
 <small><sub>**BSB:**</sub></small>
 When My sword has drunk its fill in the heavens, then it will come down upon Edom, upon the people I have devoted to destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7301\|רִוְּתָ֥ה]] [[H9003\|בַ]][[H8064\|שָּׁמַ֖יִם]] [[H2719\|חַרְבִּ֑]][[H9020\|י]] [[H2009\|הִנֵּה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0123G\|אֱד֣וֹם]] [[H3381\|תֵּרֵ֔ד]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H2764A\|חֶרְמִ֖]][[H9020\|י]] [[H9005\|לְ]][[H4941G\|מִשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.4|<< Isaiah 34:4]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.6|Isaiah 34:6 >>]]</td></tr></table>
 

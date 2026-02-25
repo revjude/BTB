@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Reigns!
+type: Pericope
 pericope: "[[Ps.99.1 The LORD Reigns!|The LORD Reigns!]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 99
 book/chapter: "[[Ps.99|Psalm 99]]"
-genre:
+chronological_order: 526
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.99.1]]"
 - "[[Ps.99.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.99.9]]"
 ---
 
-[[Ps.99|Psalm 99:1 - Psalm 99:9]]
+<small>[[Ps.99|Psalm 99:1-9]]</small>
 *The LORD Reigns!*
 
 [[Ps.99.1|1]] The LORD reigneth; let the people tremble: he sitteth \[between\] the cherubims; let the earth be moved.

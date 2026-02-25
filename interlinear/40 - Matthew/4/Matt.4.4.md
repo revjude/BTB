@@ -1,10 +1,67 @@
+---
+title: Matthew 4:4
+type: Verse
+kjv: "But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."
+bsb: "But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”"
+jesus_said: "It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God."
+greek: "Ὁ δὲ ἀποκριθεὶς εἶπεν· γέγραπται· οὐκ ἐπ᾽ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος, ἀλλ᾽ ἐπὶ παντὶ ῥήματι ἐκπορευομένῳ διὰ στόματος θεοῦ.¶"
+pericope: "[[Matt.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G1125]]"
+- "[[G3756]]"
+- "[[G1909]]"
+- "[[G0740]]"
+- "[[G3441]]"
+- "[[G2198]]"
+- "[[G0444]]"
+- "[[G0235]]"
+- "[[G3956]]"
+- "[[G4487]]"
+- "[[G1607]]"
+- "[[G1223]]"
+- "[[G4750]]"
+- "[[G2316]]"
+texts:
+- NKO
+- no
+- NK(o)
+---
+
 **Matthew 4:4**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”
-<small><sub>**Literal:**</sub></small>
-<the> But answering He said; It has been written: Not by bread alone will live the man, but by every declaration coming out through [the] mouth of God.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.3|<< Matthew 4:3]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.5|Matthew 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν·]]  [[G1125\|γέγραπται·]]  [[G3756\|οὐκ]]  [[G1909\|ἐπ᾽]]  [[G0740\|ἄρτῳ]]  [[G3441\|μόνῳ]]  [[G2198\|ζήσεται]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος,]]  [[G0235\|ἀλλ᾽]]  [[G1909\|ἐπὶ]]  [[G3956\|παντὶ]]  [[G4487\|ῥήματι]]  [[G1607\|ἐκπορευομένῳ]]  [[G1223\|διὰ]]  [[G4750\|στόματος]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUNGER|HUNGER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.3|<< Matthew 4:3]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.5|Matthew 4:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 4:4** is...
 > $\quad$ referencing: [[LXX.Deut.8.3|Deut 8:3]]

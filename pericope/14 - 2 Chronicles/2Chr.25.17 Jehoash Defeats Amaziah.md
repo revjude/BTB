@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoash Defeats Amaziah
+type: Pericope
 pericope: "[[2Chr.25.17 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 25
 book/chapter: "[[2Chr.25|2 Chronicles 25]]"
-genre:
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 8
 verses:
 - "[[2Chr.25.17]]"
 - "[[2Chr.25.18]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Chr.25.24]]"
 ---
 
-[[2Chr.25|2 Chronicles 25:17 - 2 Chronicles 25:24]]
+<small>[[2Chr.25|2 Chronicles 25:17-24]]</small>
 *Jehoash Defeats Amaziah*
 
 [[2Chr.25.17|17]] Then Amaziah king of Judah took advice, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us see one another in the face.

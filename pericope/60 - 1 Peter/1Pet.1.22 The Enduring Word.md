@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Enduring Word
+type: Pericope
 pericope: "[[1Pet.1.22 The Enduring Word|The Enduring Word]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 1
 book/chapter: "[[1Pet.1|1 Peter 1]]"
-genre:
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 4
 verses:
 - "[[1Pet.1.22]]"
 - "[[1Pet.1.23]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Pet.1.25]]"
 ---
 
-[[1Pet.1|1 Peter 1:22 - 1 Peter 1:25]]
+<small>[[1Pet.1|1 Peter 1:22-25]]</small>
 *The Enduring Word*
 
 [[1Pet.1.22|22]] Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, \[see that ye\] love one another with a pure heart fervently:

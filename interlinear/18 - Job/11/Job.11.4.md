@@ -1,8 +1,54 @@
+---
+title: Job 11:4
+type: Verse
+kjv: "For thou hast said, My doctrine is pure, and I am clean in thine eyes."
+bsb: "You have said, ‘My doctrine is sound, and I am pure in Your sight.’"
+hebrew: "וַ֭תֹּאמֶר זַ֣ךְ לִקְחִ֑י וּ֝בַ֗ר הָיִ֥יתִי בְעֵינֶֽיךָ׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2134]]"
+- "[[H3948]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1249]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:4**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast said, My doctrine [is] pure, and I am clean in thine eyes.
 <small><sub>**BSB:**</sub></small>
 You have said, ‘My doctrine is sound, and I am pure in Your sight.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֭]][[H0559\|תֹּאמֶר]] [[H2134\|זַ֣ךְ]] [[H3948\|לִקְחִ֑]][[H9020\|י]] [[H9002\|וּ֝]][[H1249\|בַ֗ר]] [[H1961\|הָיִ֥יתִי]] [[H9003\|בְ]][[H5869A\|עֵינֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.3|<< Job 11:3]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.5|Job 11:5 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Genesis 8:3
+type: Verse
+kjv: "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated."
+bsb: "The waters receded steadily from the earth, and after 150 days the waters had gone down."
+hebrew: "וַיָּשֻׁ֧בוּ הַמַּ֛יִם מֵעַ֥ל הָאָ֖רֶץ הָל֣וֹךְ וָשׁ֑וֹב וַיַּחְסְר֣וּ הַמַּ֔יִם מִקְצֵ֕ה חֲמִשִּׁ֥ים וּמְאַ֖ת יֽוֹם׃"
+pericope: "[[Gen.8.1 The Ark Rests on Ararat|The Ark Rests on Ararat]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H1980L]]"
+- "[[H9002]]"
+- "[[H7725J]]"
+- "[[H2637]]"
+- "[[H7097A]]"
+- "[[H2572]]"
+- "[[H3967]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:3**<big><big>[[Gen.8.1 The Ark Rests on Ararat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated.
 <small><sub>**BSB:**</sub></small>
 The waters receded steadily from the earth, and after 150 days the waters had gone down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשֻׁ֧בוּ]] [[H9009\|הַ]][[H4325G\|מַּ֛יִם]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H1980L\|הָל֣וֹךְ]] [[H9002\|וָ]][[H7725J\|שׁ֑וֹב]] [[H9001\|וַ]][[H2637\|יַּחְסְר֣וּ]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H9006\|מִ]][[H7097A\|קְצֵ֕ה]] [[H2572\|חֲמִשִּׁ֥ים]] [[H9002\|וּ]][[H3967\|מְאַ֖ת]] [[H3117G\|יֽוֹם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.2|<< Genesis 8:2]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.4|Genesis 8:4 >>]]</td></tr></table>
 

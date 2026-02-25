@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prayer for Mercy
+type: Pericope
 pericope: "[[Jer.14.19 A Prayer for Mercy|A Prayer for Mercy]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 14
 book/chapter: "[[Jer.14|Jeremiah 14]]"
-genre:
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 4
 verses:
 - "[[Jer.14.19]]"
 - "[[Jer.14.20]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jer.14.22]]"
 ---
 
-[[Jer.14|Jeremiah 14:19 - Jeremiah 14:22]]
+<small>[[Jer.14|Jeremiah 14:19-22]]</small>
 *A Prayer for Mercy*
 
 [[Jer.14.19|19]] Hast thou utterly rejected Judah? hath thy soul lothed Zion? why hast thou smitten us, and \[there is\] no healing for us? we looked for peace, and \[there is\] no good; and for the time of healing, and behold trouble!

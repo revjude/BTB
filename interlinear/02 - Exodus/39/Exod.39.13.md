@@ -1,8 +1,65 @@
+---
+title: Exodus 39:13
+type: Verse
+kjv: "And the fourth row, a beryl, an onyx, and a jasper: they were inclosed in ouches of gold in their inclosings."
+bsb: "and the fourth row had a beryl, an onyx, and a jasper. These stones were mounted in gold filigree settings."
+hebrew: "וְהַטּוּר֙ הָֽרְבִיעִ֔י תַּרְשִׁ֥ישׁ שֹׁ֖הַם וְיָשְׁפֵ֑ה מֽוּסַבֹּ֛ת מִשְׁבְּצ֥וֹת זָהָ֖ב בְּמִלֻּאֹתָֽם׃"
+pericope: "[[Exod.39.8 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BERYL|BERYL]]"
+- "[[topic ENGRAVING|ENGRAVING]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic JASPER|JASPER]]"
+- "[[topic ONYX|ONYX]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H2905]]"
+- "[[H7243]]"
+- "[[H8658]]"
+- "[[H7718]]"
+- "[[H3471]]"
+- "[[H5437H]]"
+- "[[H4865]]"
+- "[[H2091]]"
+- "[[H9003]]"
+- "[[H4396]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:13**<big><big>[[Exod.39.8 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the fourth row, a beryl, an onyx, and a jasper: [they were] inclosed in ouches of gold in their inclosings.
 <small><sub>**BSB:**</sub></small>
 and the fourth row had a beryl, an onyx, and a jasper. These stones were mounted in gold filigree settings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H2905\|טּוּר֙]] [[H9009\|הָֽ]][[H7243\|רְבִיעִ֔י]] [[H8658\|תַּרְשִׁ֥ישׁ]] [[H7718\|שֹׁ֖הַם]] [[H9002\|וְ]][[H3471\|יָשְׁפֵ֑ה]] [[H5437H\|מֽוּסַבֹּ֛ת]] [[H4865\|מִשְׁבְּצ֥וֹת]] [[H2091\|זָהָ֖ב]] [[H9003\|בְּ]][[H4396\|מִלֻּאֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERYL|BERYL]] • [[topic ENGRAVING|ENGRAVING]] • [[topic EPHOD|EPHOD]] • [[topic JASPER|JASPER]] • [[topic ONYX|ONYX]] • [[topic PRIEST|PRIEST]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.12|<< Exodus 39:12]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.14|Exodus 39:14 >>]]</td></tr></table>
 

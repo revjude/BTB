@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 13:7
+type: Verse
+kjv: "Namely, of the gods of the people which are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth;"
+bsb: "the gods of the peoples around you, whether near or far, whether from one end of the earth or the other),"
+hebrew: "מֵאֱלֹהֵ֣י הָֽעַמִּ֗ים אֲשֶׁר֙ סְבִיבֹ֣תֵיכֶ֔ם הַקְּרֹבִ֣ים אֵלֶ֔יךָ א֖וֹ הָרְחֹקִ֣ים מִמֶּ֑ךָּ מִקְצֵ֥ה הָאָ֖רֶץ וְעַד־ קְצֵ֥ה הָאָֽרֶץ׃"
+pericope: "[[Deut.13.1 Idolaters to Be Put to Death|Idolaters to Be Put to Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9006]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H9036]]"
+- "[[H7138]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0176A]]"
+- "[[H7350]]"
+- "[[H4480A]]"
+- "[[H7097A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:7**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Namely], of the gods of the people which [are] round about you, nigh unto thee, or far off from thee, from the [one] end of the earth even unto the [other] end of the earth;
 <small><sub>**BSB:**</sub></small>
 the gods of the peoples around you, whether near or far, whether from one end of the earth or the other),
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H0430\|אֱלֹהֵ֣י]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֗ים]] [[H0834A\|אֲשֶׁר֙]] [[H5439G\|סְבִיבֹ֣תֵי]][[H9036\|כֶ֔ם]] [[H9009\|הַ]][[H7138\|קְּרֹבִ֣ים]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H0176A\|א֖וֹ]] [[H9009\|הָ]][[H7350\|רְחֹקִ֣ים]] [[H4480A\|מִמֶּ֑]][[H9031\|ךָּ]] [[H9006\|מִ]][[H7097A\|קְצֵ֥ה]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H7097A\|קְצֵ֥ה]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic MARRIAGE|MARRIAGE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.6|<< Deuteronomy 13:6]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.8|Deuteronomy 13:8 >>]]</td></tr></table>
 

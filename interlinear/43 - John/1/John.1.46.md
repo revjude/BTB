@@ -1,10 +1,63 @@
+---
+title: John 1:46
+type: Verse
+kjv: "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see."
+bsb: "“Can anything good come from Nazareth?” Nathanael asked. “Come and see,” said Philip."
+greek: "καὶ εἶπεν αὐτῷ Ναθαναήλ· ἐκ Ναζαρὲτ δύναταί τι ἀγαθὸν εἶναι; λέγει αὐτῷ ὁ Φίλιππος· ἔρχου καὶ ἴδε.¶"
+pericope: "[[John.1.43 Jesus Calls Philip and Nathanael|Jesus Calls Philip and Nathanael]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NATHANAEL|NATHANAEL]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PROVERBS|PROVERBS]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3482]]"
+- "[[G1537]]"
+- "[[G3478]]"
+- "[[G1410]]"
+- "[[G5100]]"
+- "[[G0018]]"
+- "[[G1511]]"
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G5376G]]"
+- "[[G2064]]"
+- "[[G1492H]]"
+texts:
+- NKO
+- no
+---
+
 **John 1:46**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.
 <small><sub>**BSB:**</sub></small>
 “Can anything good come from Nazareth?” Nathanael asked. “Come and see,” said Philip.
-<small><sub>**Literal:**</sub></small>
-And said to him Nathanael; Out of Nazareth is able any good thing to be? Says to him <the> Philip; do come and do see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.45|<< John 1:45]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.47|John 1:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ]]  [[G3482\|Ναθαναήλ·]]  [[G1537\|ἐκ]]  [[G3478\|Ναζαρὲτ]]  [[G1410\|δύναταί]]  [[G5100\|τι]]  [[G0018\|ἀγαθὸν]]  [[G1511\|εἶναι;]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G5376G\|Φίλιππος·]]  [[G2064\|ἔρχου]]  [[G2532\|καὶ]]  [[G1492H\|ἴδε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NATHANAEL|NATHANAEL]] • [[topic NAZARETH|NAZARETH]] • [[topic PHILIP|PHILIP]] • [[topic PROVERBS|PROVERBS]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.45|<< John 1:45]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.47|John 1:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

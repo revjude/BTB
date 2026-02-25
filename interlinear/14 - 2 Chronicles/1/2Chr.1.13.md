@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 1:13
+type: Verse
+kjv: "Then Solomon came from his journey to the high place that was at Gibeon to Jerusalem, from before the tabernacle of the congregation, and reigned over Israel."
+bsb: "So Solomon went to Jerusalem from the high place in Gibeon, from before the Tent of Meeting, and he reigned over Israel."
+hebrew: "וַיָּבֹ֨א שְׁלֹמֹ֜ה לַבָּמָ֤ה אֲשֶׁר־ בְּגִבְעוֹן֙ יְר֣וּשָׁלִַ֔ם מִלִּפְנֵ֖י אֹ֣הֶל מוֹעֵ֑ד וַיִּמְלֹ֖ךְ עַל־ יִשְׂרָאֵֽל׃ פ"
+pericope: "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GIBEON|GIBEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H1116]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H1391]]"
+- "[[H3389]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 1:13**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Solomon came [from his journey] to the high place that [was] at Gibeon to Jerusalem, from before the tabernacle of the congregation, and reigned over Israel.
 <small><sub>**BSB:**</sub></small>
 So Solomon went to Jerusalem from the high place in Gibeon, from before the Tent of Meeting, and he reigned over Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H8010\|שְׁלֹמֹ֜ה]] [[H9005\|לַ]][[H1116\|בָּמָ֤ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H1391\|גִבְעוֹן֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֖י]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֖ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEON|GIBEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.12|<< 2 Chronicles 1:12]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.14|2 Chronicles 1:14 >>]]</td></tr></table>
 
@@ -19,7 +70,7 @@ So Solomon went to Jerusalem from the high place in Gibeon, from before the Tent
 | meeting  |**<big>&#8207;[[H4150I\|מוֹעֵ֑ד]]&#8207; </big>**| mo.'Ed<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he reigned  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4427A\|יִּמְלֹ֖ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yim.Lokh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.12|<< 2 Chronicles 1:12]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.14|2 Chronicles 1:14 >>]]</td></tr></table>
 
 

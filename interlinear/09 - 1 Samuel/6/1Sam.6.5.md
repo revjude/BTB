@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 6:5
+type: Verse
+kjv: "Wherefore ye shall make images of your emerods, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land."
+bsb: "Make images of your tumors and of the rats that are ravaging the land. Give glory to the God of Israel, and perhaps He will lift His hand from you and your gods and your land."
+hebrew: "וַעֲשִׂיתֶם֩ צַלְמֵ֨י טְחֹרֵיכֶ֜ם וְצַלְמֵ֣י עַכְבְּרֵיכֶ֗ם הַמַּשְׁחִיתִם֙ אֶת־ הָאָ֔רֶץ וּנְתַתֶּ֛ם לֵאלֹהֵ֥י יִשְׂרָאֵ֖ל כָּב֑וֹד אוּלַ֗י יָקֵ֤ל אֶת־ יָדוֹ֙ מֵֽעֲלֵיכֶ֔ם וּמֵעַ֥ל אֱלֹהֵיכֶ֖ם וּמֵעַ֥ל אַרְצְכֶֽם׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BOIL|BOIL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOUSE|MOUSE]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic TUMOR|TUMOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H6754]]"
+- "[[H6076B]]"
+- "[[H9026]]"
+- "[[H2914]]"
+- "[[H9002]]"
+- "[[H5909]]"
+- "[[H9009]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H3519]]"
+- "[[H0194]]"
+- "[[H7043]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0430]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 6:5**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore ye shall make images of your emerods, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land.
 <small><sub>**BSB:**</sub></small>
 Make images of your tumors and of the rats that are ravaging the land. Give glory to the God of Israel, and perhaps He will lift His hand from you and your gods and your land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|עֲשִׂיתֶם֩]] [[H6754\|צַלְמֵ֨י]] [[H2914\|טְחֹרֵי]][[H9026\|כֶ֜ם]] [[H9002\|וְ]][[H6754\|צַלְמֵ֣י]] [[H5909\|עַכְבְּרֵי]][[H9026\|כֶ֗ם]] [[H9009\|הַ]][[H7843\|מַּשְׁחִיתִם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וּ]][[H5414G\|נְתַתֶּ֛ם]] [[H9005\|לֵ]][[H0430G\|אלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3519\|כָּב֑וֹד]] [[H0194\|אוּלַ֗י]] [[H7043\|יָקֵ֤ל]] [[H0853\|אֶת]][[H9014\|־]] [[H3027H\|יָד]][[H9023\|וֹ֙]] [[H9006\|מֵֽ]][[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H9002\|וּ]][[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H0430\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H0776G\|אַרְצְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOIL|BOIL]] • [[topic MIRACLES|MIRACLES]] • [[topic MOUSE|MOUSE]] • [[topic PLAGUE|PLAGUE]] • [[topic TUMOR|TUMOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.4|<< 1 Samuel 6:4]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.6|1 Samuel 6:6 >>]]</td></tr></table>
 
@@ -31,7 +95,7 @@ Make images of your tumors and of the rats that are ravaging the land. Give glor
 | land your  |**<big>&#8207;[[H0776G\|אַרְצְ]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'ar.tze.<small><sup>[[HNcfsc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.4|<< 1 Samuel 6:4]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.6|1 Samuel 6:6 >>]]</td></tr></table>
 
-[^1]: tumors your  | **<big>[[H9026|כֶם]]</big><big>[[H6076B|עָפְלֵי]]</big> ** | a.fe.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | K
-[^2]: tumors your  | **<big>[[H9026|כֶם]]</big><big>[[H6076B|עָפְלֵי]]</big> ** | a.fe.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^1]: tumors your  | **<big>[[H6076B|עָפְלֵי]]</big><big>[[H9026|כֶם]]</big> ** | a.fe.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^2]: tumors your  | **<big>[[H6076B|עָפְלֵי]]</big><big>[[H9026|כֶם]]</big> ** | a.fe.lei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>עְפֹלֵיכֶ֜ם</big></span>**
 

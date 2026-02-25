@@ -1,10 +1,60 @@
+---
+title: 2 Corinthians 10:15
+type: Verse
+kjv: "Not boasting of things without our measure, that is, of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,"
+bsb: "Neither do we boast beyond our limits in the labors of others. But we hope that as your faith increases, our area of influence among you will greatly increase as well,"
+greek: "οὐκ εἰς τὰ ἄμετρα καυχώμενοι ἐν ἀλλοτρίοις κόποις, ἐλπίδα δὲ ἔχοντες αὐξανομένης τῆς πίστεως ὑμῶν ἐν ὑμῖν μεγαλυνθῆναι κατὰ τὸν κανόνα ἡμῶν εἰς περισσείαν,"
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0280]]"
+- "[[G2744]]"
+- "[[G1722]]"
+- "[[G0245]]"
+- "[[G2873]]"
+- "[[G1680]]"
+- "[[G1161]]"
+- "[[G2192]]"
+- "[[G0837]]"
+- "[[G4102G]]"
+- "[[G4771]]"
+- "[[G3170]]"
+- "[[G2596]]"
+- "[[G2583]]"
+- "[[G3165]]"
+- "[[G4050]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 10:15**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not boasting of things without [our] measure, [that is], of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,
 <small><sub>**BSB:**</sub></small>
 Neither do we boast beyond our limits in the labors of others. But we hope that as your faith increases, our area of influence among you will greatly increase as well,
-<small><sub>**Literal:**</sub></small>
-not to the [things] beyond measure boasting in others’ labors, hope however having increasing the faith of you among you to be enlarged according to the area of us to excess,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.14|<< 2 Corinthians 10:14]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.16|2 Corinthians 10:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G0280\|ἄμετρα]]  [[G2744\|καυχώμενοι]]  [[G1722\|ἐν]]  [[G0245\|ἀλλοτρίοις]]  [[G2873\|κόποις,]]  [[G1680\|ἐλπίδα]]  [[G1161\|δὲ]]  [[G2192\|ἔχοντες]]  [[G0837\|αὐξανομένης]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3170\|μεγαλυνθῆναι]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G2583\|κανόνα]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G4050\|περισσείαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.14|<< 2 Corinthians 10:14]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.16|2 Corinthians 10:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

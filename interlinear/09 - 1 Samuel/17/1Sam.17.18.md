@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 17:18
+type: Verse
+kjv: "And carry these ten cheeses unto the captain of their thousand, and look how thy brethren fare, and take their pledge."
+bsb: "Take also these ten portions of cheese to the commander of their unit. Check on the welfare of your brothers and bring back an assurance from them."
+hebrew: "וְ֠אֵת עֲשֶׂ֜רֶת חֲרִצֵ֤י הֶֽחָלָב֙ הָאֵ֔לֶּה תָּבִ֖יא לְשַׂר־ הָאָ֑לֶף וְאֶת־ אַחֶ֙יךָ֙ תִּפְקֹ֣ד לְשָׁל֔וֹם וְאֶת־ עֲרֻבָּתָ֖ם תִּקָּֽח׃"
+pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic CHEESE|CHEESE]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic JESSE|JESSE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H6235]]"
+- "[[H2757]]"
+- "[[H9009]]"
+- "[[H2461]]"
+- "[[H0428]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H0505G]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H6485I]]"
+- "[[H7965I]]"
+- "[[H6161]]"
+- "[[H9028]]"
+- "[[H3947J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:18**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And carry these ten cheeses unto the captain of [their] thousand, and look how thy brethren fare, and take their pledge.
 <small><sub>**BSB:**</sub></small>
 Take also these ten portions of cheese to the commander of their unit. Check on the welfare of your brothers and bring back an assurance from them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H0853\|אֵת]] [[H6235\|עֲשֶׂ֜רֶת]] [[H2757\|חֲרִצֵ֤י]] [[H9009\|הֶֽ]][[H2461\|חָלָב֙]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H0935P\|תָּבִ֖יא]] [[H9005\|לְ]][[H8269\|שַׂר]][[H9014\|־]] [[H9009\|הָ]][[H0505G\|אָ֑לֶף]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אַחֶ֙י]][[H9021\|ךָ֙]] [[H6485I\|תִּפְקֹ֣ד]] [[H9005\|לְ]][[H7965I\|שָׁל֔וֹם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6161\|עֲרֻבָּתָ֖]][[H9028\|ם]] [[H3947J\|תִּקָּֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAPTAIN|CAPTAIN]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic CHEESE|CHEESE]] • [[topic FOOD|FOOD]] • [[topic JESSE|JESSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.17|<< 1 Samuel 17:17]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.19|1 Samuel 17:19 >>]]</td></tr></table>
 

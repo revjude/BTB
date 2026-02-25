@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel in the Lions’ Den
+type: Pericope
 pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
-verse_count: 15
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 6
 book/chapter: "[[Dan.6|Daniel 6]]"
-genre:
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 15
 verses:
 - "[[Dan.6.10]]"
 - "[[Dan.6.11]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Dan.6.24]]"
 ---
 
-[[Dan.6|Daniel 6:10 - Daniel 6:24]]
+<small>[[Dan.6|Daniel 6:10-24]]</small>
 *Daniel in the Lions’ Den*
 
 [[Dan.6.10|10]] Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.

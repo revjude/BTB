@@ -1,8 +1,55 @@
+---
+title: Psalm 90:5
+type: Verse
+kjv: "Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up."
+bsb: "You sweep them away in their sleep; they are like the new grass of the morning—"
+hebrew: "זְ֭רַמְתָּם שֵׁנָ֣ה יִהְי֑וּ בַּ֝בֹּ֗קֶר כֶּחָצִ֥יר יַחֲלֹֽף׃"
+pericope: "[[Ps.90.1 From Everlasting to Everlasting|From Everlasting to Everlasting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 90
+book/chapter: "[[Ps.90|Psalm 90]]"
+chronological_order: 170
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1440–1407 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic GRASS|GRASS]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H2229]]"
+- "[[H9038]]"
+- "[[H8142]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H9004]]"
+- "[[H2682A]]"
+- "[[H2498]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 90:5**<big><big>[[Ps.90.1 From Everlasting to Everlasting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou carriest them away as with a flood; they are [as] a sleep: in the morning [they are] like grass [which] groweth up.
 <small><sub>**BSB:**</sub></small>
 You sweep them away in their sleep; they are like the new grass of the morning—
+<small><sub>**Hebrew:**</sub></small>
+[[H2229\|זְ֭רַמְתָּ]][[H9038\|ם]] [[H8142\|שֵׁנָ֣ה]] [[H1961\|יִהְי֑וּ]] [[H9003\|בַּ֝]][[H1242\|בֹּ֗קֶר]] [[H9004\|כֶּ]][[H2682A\|חָצִ֥יר]] [[H2498\|יַחֲלֹֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLOOD|FLOOD]] • [[topic GRASS|GRASS]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.90.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.90.4|<< Psalms 90:4]]</td><td align="center" style="border:none;">[[Ps.90|Psalms 90]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.90.6|Psalms 90:6 >>]]</td></tr></table>
 

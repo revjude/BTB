@@ -1,10 +1,63 @@
+---
+title: Romans 13:11
+type: Verse
+kjv: "And that, knowing the time, that now it is high time to awake out of sleep: for now is our salvation nearer than when we believed."
+bsb: "And do this, understanding the occasion. The hour has come for you to wake up from your slumber, for our salvation is nearer now than when we first believed."
+greek: "Καὶ τοῦτο εἰδότες τὸν καιρόν, ὅτι ὥρα ἤδη ὑμᾶς ἐξ ὕπνου ἐγερθῆναι· νῦν γὰρ ἐγγύτερον ἡμῶν ἡ σωτηρία ἢ ὅτε ἐπιστεύσαμεν·"
+pericope: "[[Rom.13.11 The Day Is Near|The Day Is Near]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RISING|RISING]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G6063]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G3754G]]"
+- "[[G5610]]"
+- "[[G2235]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G5258]]"
+- "[[G1453]]"
+- "[[G3568]]"
+- "[[G1063]]"
+- "[[G1452]]"
+- "[[G3165]]"
+- "[[G4991]]"
+- "[[G2228]]"
+- "[[G3753]]"
+- "[[G4100]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 13:11**<big><big>[[Rom.13.11 The Day Is Near|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that, knowing the time, that now [it is] high time to awake out of sleep: for now [is] our salvation nearer than when we believed.
 <small><sub>**BSB:**</sub></small>
 And do this, understanding the occasion. The hour has come for you to wake up from your slumber, for our salvation is nearer now than when we first believed.
-<small><sub>**Literal:**</sub></small>
-And this knowing the time, that [it is the] hour already [for] you out of sleep to awaken; now for nearer [is] of us the salvation than when first we believed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.10|<< Romans 13:10]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.12|Romans 13:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3778\|τοῦτο]]  [[G6063\|εἰδότες]]  [[G3588\|τὸν]]  [[G2540\|καιρόν,]]  [[G3754G\|ὅτι]]  [[G5610\|ὥρα]]  [[G2235\|ἤδη]]  [[G4771\|ὑμᾶς]]  [[G1537\|ἐξ]]  [[G5258\|ὕπνου]]  [[G1453\|ἐγερθῆναι·]]  [[G3568\|νῦν]]  [[G1063\|γὰρ]]  [[G1452\|ἐγγύτερον]]  [[G3165\|ἡμῶν]]  [[G3588\|ἡ]]  [[G4991\|σωτηρία]]  [[G2228\|ἢ]]  [[G3753\|ὅτε]]  [[G4100\|ἐπιστεύσαμεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RISING|RISING]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.10|<< Romans 13:10]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.12|Romans 13:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

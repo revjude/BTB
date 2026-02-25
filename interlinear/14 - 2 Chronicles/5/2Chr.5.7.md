@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 5:7
+type: Verse
+kjv: "And the priests brought in the ark of the covenant of the LORD unto his place, to the oracle of the house, into the most holy place, even under the wings of the cherubims:"
+bsb: "Then the priests brought the ark of the covenant of the LORD to its place in the inner sanctuary of the temple, the Most Holy Place, beneath the wings of the cherubim."
+hebrew: "וַיָּבִ֣יאוּ הַ֠כֹּהֲנִים אֶת־ אֲר֨וֹן בְּרִית־ יְהוָ֧ה אֶל־ מְקוֹמ֛וֹ אֶל־ דְּבִ֥יר הַבַּ֖יִת אֶל־ קֹ֣דֶשׁ הַקְּדָשִׁ֑ים אֶל־ תַּ֖חַת כַּנְפֵ֥י הַכְּרוּבִֽים׃"
+pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H1687]]"
+- "[[H1004B]]"
+- "[[H6944H]]"
+- "[[H8478G]]"
+- "[[H3671]]"
+- "[[H3742]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 5:7**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests brought in the ark of the covenant of the LORD unto his place, to the oracle of the house, into the most holy [place, even] under the wings of the cherubims:
 <small><sub>**BSB:**</sub></small>
 Then the priests brought the ark of the covenant of the LORD to its place in the inner sanctuary of the temple, the Most Holy Place, beneath the wings of the cherubim.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבִ֣יאוּ]] [[H9009\|הַ֠]][[H3548\|כֹּהֲנִים]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֨וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְקוֹמ֛]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H1687\|דְּבִ֥יר]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H0413\|אֶל]][[H9014\|־]] [[H6944H\|קֹ֣דֶשׁ]] [[H9009\|הַ]][[H6944H\|קְּדָשִׁ֑ים]] [[H0413\|אֶל]][[H9014\|־]] [[H8478G\|תַּ֖חַת]] [[H3671\|כַּנְפֵ֥י]] [[H9009\|הַ]][[H3742\|כְּרוּבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CHERUBIM|CHERUBIM]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.6|<< 2 Chronicles 5:6]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.8|2 Chronicles 5:8 >>]]</td></tr></table>
 

@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 26:2
+type: Verse
+kjv: "That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the LORD thy God giveth thee, and shalt put it in a basket, and shalt go unto the place which the LORD thy God shall choose to place his name there."
+bsb: "you are to take some of the firstfruits of all your produce from the soil of the land that the LORD your God is giving you and put them in a basket. Then go to the place the LORD your God will choose as a dwelling for His Name,"
+hebrew: "וְלָקַחְתָּ֞ מֵרֵאשִׁ֣ית׀ כָּל־ פְּרִ֣י הָאֲדָמָ֗ה אֲשֶׁ֨ר תָּבִ֧יא מֵֽאַרְצְךָ֛ אֲשֶׁ֨ר יְהוָ֧ה אֱלֹהֶ֛יךָ נֹתֵ֥ן לָ֖ךְ וְשַׂמְתָּ֣ בַטֶּ֑נֶא וְהָֽלַכְתָּ֙ אֶל־ הַמָּק֔וֹם אֲשֶׁ֤ר יִבְחַר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ לְשַׁכֵּ֥ן שְׁמ֖וֹ שָֽׁם׃"
+pericope: "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BASKET|BASKET]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H7225G]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6529]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H2935]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H4725]]"
+- "[[H0977]]"
+- "[[H7931]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:2**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that the LORD thy God giveth thee, and shalt put [it] in a basket, and shalt go unto the place which the LORD thy God shall choose to place his name there.
 <small><sub>**BSB:**</sub></small>
 you are to take some of the firstfruits of all your produce from the soil of the land that the LORD your God is giving you and put them in a basket. Then go to the place the LORD your God will choose as a dwelling for His Name,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֞]] [[H9006\|מֵ]][[H7225G\|רֵאשִׁ֣ית]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H6529\|פְּרִ֣י]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H0935P\|תָּבִ֧יא]] [[H9006\|מֵֽ]][[H0776G\|אַרְצְ]][[H9021\|ךָ֛]] [[H0834A\|אֲשֶׁ֨ר]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָ֖]][[H9031\|ךְ]] [[H9001\|וְ]][[H7760H\|שַׂמְתָּ֣]] [[H9003\|בַ]][[H2935\|טֶּ֑נֶא]] [[H9001\|וְ]][[H1980G\|הָֽלַכְתָּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֔וֹם]] [[H0834A\|אֲשֶׁ֤ר]] [[H0977\|יִבְחַר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9005\|לְ]][[H7931\|שַׁכֵּ֥ן]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASKET|BASKET]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.1|<< Deuteronomy 26:1]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.3|Deuteronomy 26:3 >>]]</td></tr></table>
 

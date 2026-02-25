@@ -1,8 +1,60 @@
+---
+title: Ezekiel 36:24
+type: Verse
+kjv: "For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land."
+bsb: "For I will take you from among the nations and gather you out of all the countries, and I will bring you back into your own land."
+hebrew: "וְלָקַחְתִּ֤י אֶתְכֶם֙ מִן־ הַגּוֹיִ֔ם וְקִבַּצְתִּ֥י אֶתְכֶ֖ם מִכָּל־ הָאֲרָצ֑וֹת וְהֵבֵאתִ֥י אֶתְכֶ֖ם אֶל־ אַדְמַתְכֶֽם׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H6908]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H0127G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:24**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.
 <small><sub>**BSB:**</sub></small>
 For I will take you from among the nations and gather you out of all the countries, and I will bring you back into your own land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתִּ֤י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9001\|וְ]][[H6908\|קִבַּצְתִּ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אֲרָצ֑וֹת]] [[H9001\|וְ]][[H0935P\|הֵבֵאתִ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0127G\|אַדְמַתְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.23|<< Ezekiel 36:23]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.25|Ezekiel 36:25 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: Luke 7:50
+type: Verse
+kjv: "And he said to the woman, Thy faith hath saved thee; go in peace."
+bsb: "And Jesus told the woman, “Your faith has saved you; go in peace.”"
+jesus_said: "Thy faith hath saved thee; go in peace."
+greek: "εἶπεν δὲ πρὸς τὴν γυναῖκα· ἡ πίστις σου σέσωκέν σε· πορεύου εἰς εἰρήνην.¶"
+pericope: "[[Luke.7.36 A Sinful Woman Anoints Jesus|A Sinful Woman Anoints Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G4102G]]"
+- "[[G4771]]"
+- "[[G4982]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G1515]]"
+texts:
+- NKO
+---
+
 **Luke 7:50**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said to the woman, Thy faith hath saved thee; go in peace.
 <small><sub>**BSB:**</sub></small>
 And Jesus told the woman, “Your faith has saved you; go in peace.”
-<small><sub>**Literal:**</sub></small>
-He said then to the woman; The faith of You has saved you; do go in peace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.49|<< Luke 7:49]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.1|Luke 8:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G1135G\|γυναῖκα·]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G4771\|σου]]  [[G4982\|σέσωκέν]]  [[G4771\|σε·]]  [[G4198\|πορεύου]]  [[G1519\|εἰς]]  [[G1515\|εἰρήνην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.49|<< Luke 7:49]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.1|Luke 8:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

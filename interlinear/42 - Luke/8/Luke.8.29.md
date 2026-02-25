@@ -1,10 +1,68 @@
+---
+title: Luke 8:29
+type: Verse
+kjv: "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)"
+bsb: "For Jesus had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was bound with chains and shackles, he had broken the chains and been driven by the demon into solitary places."
+greek: "παρήγγειλεν γὰρ τῷ πνεύματι τῷ ἀκαθάρτῳ ἐξελθεῖν ἀπὸ τοῦ ἀνθρώπου· πολλοῖς γὰρ χρόνοις συνηρπάκει αὐτόν, καὶ ἐδεσμεύετο ἁλύσεσιν καὶ πέδαις φυλασσόμενος, καὶ διαρρήσσων τὰ δεσμὰ ἠλαύνετο ὑπὸ τοῦ δαιμονίου εἰς τὰς ἐρήμους."
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3853]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G1831]]"
+- "[[G0575]]"
+- "[[G0444]]"
+- "[[G4183]]"
+- "[[G5550]]"
+- "[[G4884]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1195]]"
+- "[[G0254]]"
+- "[[G3976]]"
+- "[[G5442H]]"
+- "[[G1284]]"
+- "[[G1199]]"
+- "[[G1643]]"
+- "[[G5259G]]"
+- "[[G1140]]"
+- "[[G1519]]"
+- "[[G2048]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Luke 8:29**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)
 <small><sub>**BSB:**</sub></small>
 For Jesus had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was bound with chains and shackles, he had broken the chains and been driven by the demon into solitary places.
-<small><sub>**Literal:**</sub></small>
-He was commanding for to the spirit <the> unclean to come out from the man; Many for times it had seized him, and he was shackled with chains and in fetters being kept, and breaking the chains he was driven by the demon into the deserts.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.28|<< Luke 8:28]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.30|Luke 8:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3853\|παρήγγειλεν]]  [[G1063\|γὰρ]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G3588\|τῷ]]  [[G0169\|ἀκαθάρτῳ]]  [[G1831\|ἐξελθεῖν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου·]]  [[G4183\|πολλοῖς]]  [[G1063\|γὰρ]]  [[G5550\|χρόνοις]]  [[G4884\|συνηρπάκει]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G1195\|ἐδεσμεύετο]]  [[G0254\|ἁλύσεσιν]]  [[G2532\|καὶ]]  [[G3976\|πέδαις]]  [[G5442H\|φυλασσόμενος,]]  [[G2532\|καὶ]]  [[G1284\|διαρρήσσων]]  [[G3588\|τὰ]]  [[G1199\|δεσμὰ]]  [[G1643\|ἠλαύνετο]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G1140\|δαιμονίου]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G2048\|ἐρήμους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.28|<< Luke 8:28]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.30|Luke 8:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

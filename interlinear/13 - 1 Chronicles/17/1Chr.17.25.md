@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 17:25
+type: Verse
+kjv: "For thou, O my God, hast told thy servant that thou wilt build him an house: therefore thy servant hath found in his heart to pray before thee."
+bsb: "For You, my God, have revealed to Your servant that You will build a house for him. Therefore Your servant has found the courage to pray before You."
+hebrew: "כִּ֣י׀ אַתָּ֣ה אֱלֹהַ֗י גָּלִ֙יתָ֙ אֶת־ אֹ֣זֶן עַבְדְּךָ֔ לִבְנ֥וֹת ל֖וֹ בָּ֑יִת עַל־ כֵּן֙ מָצָ֣א עַבְדְּךָ֔ לְהִתְפַּלֵּ֖ל לְפָנֶֽיךָ׃"
+pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H0859A]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H1540H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0241I]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H9033]]"
+- "[[H1004B]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H4672]]"
+- "[[H6419]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:25**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou, O my God, hast told thy servant that thou wilt build him an house: therefore thy servant hath found [in his heart] to pray before thee.
 <small><sub>**BSB:**</sub></small>
 For You, my God, have revealed to Your servant that You will build a house for him. Therefore Your servant has found the courage to pray before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H0859A\|אַתָּ֣ה]] [[H0430G\|אֱלֹהַ֗]][[H9020\|י]] [[H1540H\|גָּלִ֙יתָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0241I\|אֹ֣זֶן]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H9005\|לִ]][[H1129\|בְנ֥וֹת]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H1004B\|בָּ֑יִת]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H4672\|מָצָ֣א]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H9005\|לְ]][[H6419\|הִתְפַּלֵּ֖ל]] [[H9005\|לְ]][[H6440G\|פָנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.24|<< 1 Chronicles 17:24]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.26|1 Chronicles 17:26 >>]]</td></tr></table>
 

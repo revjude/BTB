@@ -1,8 +1,63 @@
+---
+title: Lamentations 2:14
+type: Verse
+kjv: "Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment."
+bsb: "The visions of your prophets were empty and deceptive; they did not expose your guilt to ward off your captivity. The burdens they envisioned for you were empty and misleading."
+hebrew: "נְבִיאַ֗יִךְ חָ֤זוּ לָךְ֙ שָׁ֣וְא וְתָפֵ֔ל וְלֹֽא־ גִלּ֥וּ עַל־ עֲוֹנֵ֖ךְ לְהָשִׁ֣יב שְׁבוּתֵ֑ךְ וַיֶּ֣חֱזוּ לָ֔ךְ מַשְׂא֥וֹת שָׁ֖וְא וּמַדּוּחִֽים׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H5030]]"
+- "[[H9022]]"
+- "[[H2372]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H7723G]]"
+- "[[H9002]]"
+- "[[H8602A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1540I]]"
+- "[[H5921A]]"
+- "[[H5771G]]"
+- "[[H7725H]]"
+- "[[H7622]]"
+- "[[H9001]]"
+- "[[H4853B]]"
+- "[[H4065]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(k)
+---
+
 **Lamentations 2:14**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.
 <small><sub>**BSB:**</sub></small>
 The visions of your prophets were empty and deceptive; they did not expose your guilt to ward off your captivity. The burdens they envisioned for you were empty and misleading.
+<small><sub>**Hebrew:**</sub></small>
+[[H5030\|נְבִיאַ֗יִ]][[H9022\|ךְ]] [[H2372\|חָ֤זוּ]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H7723G\|שָׁ֣וְא]] [[H9002\|וְ]][[H8602A\|תָפֵ֔ל]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1540I\|גִלּ֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H5771G\|עֲוֹנֵ֖]][[H9022\|ךְ]] [[H9005\|לְ]][[H7725H\|הָשִׁ֣יב]] [[H7622\|שְׁבוּתֵ֑]][[H9022\|ךְ]] [[H9001\|וַ]][[H2372\|יֶּ֣חֱזוּ]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H4853B\|מַשְׂא֥וֹת]] [[H7723G\|שָׁ֖וְא]] [[H9002\|וּ]][[H4065\|מַדּוּחִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.13|<< Lamentations 2:13]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.15|Lamentations 2:15 >>]]</td></tr></table>
 
@@ -23,7 +78,7 @@ The visions of your prophets were empty and deceptive; they did not expose your 
 | for you  |**<big>&#8207;[[H9005\|לָ֔]]&#8207;&#8207;[[H9032\|ךְ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | oracles of  |**<big>&#8207;[[H4853B\|מַשְׂא֥וֹת]]&#8207; </big>**| mas.'ot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | worthlessness  |**<big>&#8207;[[H7723G\|שָׁ֖וְא]]&#8207; </big>**| shav'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and enticement\<s>  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4065\|מַדּוּחִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.du.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and enticement\<s>  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4065\|מַדּוּחִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ma.du.Chim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.13|<< Lamentations 2:13]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.15|Lamentations 2:15 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="ashebrew"><big>שְׁביּתֵ֑ךְ</big></span>**

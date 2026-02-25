@@ -1,8 +1,53 @@
+---
+title: Judges 6:1
+type: Verse
+kjv: "And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years."
+bsb: "Again the Israelites did evil in the sight of the LORD; so He delivered them into the hand of Midian for seven years,"
+hebrew: "וַיַּעֲשׂ֧וּ בְנֵי־ יִשְׂרָאֵ֛ל הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַיִּתְּנֵ֧ם יְהוָ֛ה בְּיַד־ מִדְיָ֖ן שֶׁ֥בַע שָׁנִֽים׃"
+pericope: "[[Judg.6.1 Midian Oppresses Israel|Midian Oppresses Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H4080H]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:1**<big><big>[[Judg.6.1 Midian Oppresses Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel did evil in the sight of the LORD: and the LORD delivered them into the hand of Midian seven years.
 <small><sub>**BSB:**</sub></small>
 Again the Israelites did evil in the sight of the LORD; so He delivered them into the hand of Midian for seven years,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּעֲשׂ֧וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H5414G\|יִּתְּנֵ֧]][[H9038\|ם]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H4080H\|מִדְיָ֖ן]] [[H7651\|שֶׁ֥בַע]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.31|<< Judges 5:31]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.2|Judges 6:2 >>]]</td></tr></table>
 

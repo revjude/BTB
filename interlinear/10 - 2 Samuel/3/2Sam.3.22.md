@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 3:22
+type: Verse
+kjv: "And, behold, the servants of David and Joab came from pursuing a troop, and brought in a great spoil with them: but Abner was not with David in Hebron; for he had sent him away, and he was gone in peace."
+bsb: "Just then David’s soldiers and Joab returned from a raid, bringing with them a great plunder. But Abner was not with David in Hebron, because David had sent him on his way in peace."
+hebrew: "וְהִנֵּה֩ עַבְדֵ֨י דָוִ֤ד וְיוֹאָב֙ בָּ֣א מֵֽהַגְּד֔וּד וְשָׁלָ֥ל רָ֖ב עִמָּ֣ם הֵבִ֑יאוּ וְאַבְנֵ֗ר אֵינֶ֤נּוּ עִם־ דָּוִד֙ בְּחֶבְר֔וֹן כִּ֥י שִׁלְּח֖וֹ וַיֵּ֥לֶךְ בְּשָׁלֽוֹם׃"
+pericope: "[[2Sam.3.22 Joab Murders Abner|Joab Murders Abner]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5650]]"
+- "[[H1732]]"
+- "[[H3097G]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H1416]]"
+- "[[H7998]]"
+- "[[H7227A]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H0935P]]"
+- "[[H0074]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2275A]]"
+- "[[H3588A]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:22**<big><big>[[2Sam.3.22 Joab Murders Abner|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, the servants of David and Joab came from [pursuing] a troop, and brought in a great spoil with them: but Abner [was] not with David in Hebron; for he had sent him away, and he was gone in peace.
 <small><sub>**BSB:**</sub></small>
 Just then David’s soldiers and Joab returned from a raid, bringing with them a great plunder. But Abner was not with David in Hebron, because David had sent him on his way in peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּה֩]] [[H5650\|עַבְדֵ֨י]] [[H1732\|דָוִ֤ד]] [[H9002\|וְ]][[H3097G\|יוֹאָב֙]] [[H0935G\|בָּ֣א]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H1416\|גְּד֔וּד]] [[H9002\|וְ]][[H7998\|שָׁלָ֥ל]] [[H7227A\|רָ֖ב]] [[H5973A\|עִמָּ֣]][[H9038\|ם]] [[H0935P\|הֵבִ֑יאוּ]] [[H9002\|וְ]][[H0074\|אַבְנֵ֗ר]] [[H0369\|אֵינֶ֤]][[H9043\|נּוּ]] [[H5973A\|עִם]][[H9014\|־]] [[H1732\|דָּוִד֙]] [[H9003\|בְּ]][[H2275A\|חֶבְר֔וֹן]] [[H3588A\|כִּ֥י]] [[H7971G\|שִׁלְּח֖]][[H9033\|וֹ]] [[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H9003\|בְּ]][[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.21|<< 2 Samuel 3:21]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.23|2 Samuel 3:23 >>]]</td></tr></table>
 

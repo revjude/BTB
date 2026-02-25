@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Destruction of Edom
+type: Pericope
 pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Obadiah
 chapter: 1
 book/chapter: "[[Obad.1|Obadiah 1]]"
-genre:
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 14
 verses:
 - "[[Obad.1.1]]"
 - "[[Obad.1.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Obad.1.14]]"
 ---
 
-[[Obad.1|Obadiah 1:1 - Obadiah 1:14]]
+<small>[[Obad.1|Obadiah 1:1-14]]</small>
 *The Destruction of Edom*
 
 [[Obad.1.1|1]] The vision of Obadiah. Thus saith the Lord GOD concerning Edom; We have heard a rumour from the LORD, and an ambassador is sent among the heathen, Arise ye, and let us rise up against her in battle.

@@ -1,8 +1,83 @@
+---
+title: Judges 16:17
+type: Verse
+kjv: "That he told her all his heart, and said unto her, There hath not come a rasor upon mine head; for I have been a Nazarite unto God from my mother’s womb: if I be shaven, then my strength will go from me, and I shall become weak, and be like any other man."
+bsb: "Samson told her all that was in his heart: “My hair has never been cut, because I have been a Nazirite to God from my mother’s womb. If I am shaved, my strength will leave me, and I will become as weak as any other man.”"
+hebrew: "וַיַּגֶּד־ לָ֣הּ אֶת־ כָּל־ לִבּ֗וֹ וַיֹּ֤אמֶר לָהּ֙ מוֹרָה֙ לֹֽא־ עָלָ֣ה עַל־ רֹאשִׁ֔י כִּֽי־ נְזִ֧יר אֱלֹהִ֛ים אֲנִ֖י מִבֶּ֣טֶן אִמִּ֑י אִם־ גֻּלַּ֙חְתִּי֙ וְסָ֣ר מִמֶּ֣נִּי כֹחִ֔י וְחָלִ֥יתִי וְהָיִ֖יתִי כְּכָל־ הָאָדָֽם׃"
+pericope: "[[Judg.16.15 Delilah Learns the Secret|Delilah Learns the Secret]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic BEARD|BEARD]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H4177]]"
+- "[[H3808]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H5139]]"
+- "[[H0430G]]"
+- "[[H0589]]"
+- "[[H9006]]"
+- "[[H0990H]]"
+- "[[H0517]]"
+- "[[H0518A]]"
+- "[[H1548]]"
+- "[[H5493H]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H3581B]]"
+- "[[H2470A]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:17**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he told her all his heart, and said unto her, There hath not come a rasor upon mine head; for I [have been] a Nazarite unto God from my mother’s womb: if I be shaven, then my strength will go from me, and I shall become weak, and be like any [other] man.
 <small><sub>**BSB:**</sub></small>
 Samson told her all that was in his heart: “My hair has never been cut, because I have been a Nazirite to God from my mother’s womb. If I am shaved, my strength will leave me, and I will become as weak as any other man.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגֶּד]][[H9014\|־]] [[H9005\|לָ֣]][[H9034\|הּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3820A\|לִבּ֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H4177\|מוֹרָה֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5927G\|עָלָ֣ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשִׁ֔]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5139\|נְזִ֧יר]] [[H0430G\|אֱלֹהִ֛ים]] [[H0589\|אֲנִ֖י]] [[H9006\|מִ]][[H0990H\|בֶּ֣טֶן]] [[H0517\|אִמִּ֑]][[H9020\|י]] [[H0518A\|אִם]][[H9014\|־]] [[H1548\|גֻּלַּ֙חְתִּי֙]] [[H9001\|וְ]][[H5493H\|סָ֣ר]] [[H4480A\|מִמֶּ֣]][[H9030\|נִּי]] [[H3581B\|כֹחִ֔]][[H9020\|י]] [[H9001\|וְ]][[H2470A\|חָלִ֥יתִי]] [[H9001\|וְ]][[H1961\|הָיִ֖יתִי]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic BEARD|BEARD]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic NAZARITE|NAZARITE]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.16|<< Judges 16:16]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.18|Judges 16:18 >>]]</td></tr></table>
 

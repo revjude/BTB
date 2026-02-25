@@ -1,8 +1,62 @@
+---
+title: 1 Kings 5:10
+type: Verse
+kjv: "So Hiram gave Solomon cedar trees and fir trees according to all his desire."
+bsb: "So Hiram provided Solomon with all the cedar and cypress timber he wanted,"
+hebrew: "וַיְהִ֨י חִיר֜וֹם נֹתֵ֣ן לִשְׁלֹמֹ֗ה עֲצֵ֧י אֲרָזִ֛ים וַעֲצֵ֥י בְרוֹשִׁ֖ים כָּל־ חֶפְצֽוֹ׃"
+pericope: "[[1Kgs.5.7 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREATY|TREATY]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2438G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H6086G]]"
+- "[[H0730]]"
+- "[[H9002]]"
+- "[[H1265]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2656]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 5:10**<big><big>[[1Kgs.5.7 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Hiram gave Solomon cedar trees and fir trees [according to] all his desire.
 <small><sub>**BSB:**</sub></small>
 So Hiram provided Solomon with all the cedar and cypress timber he wanted,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H2438G\|חִיר֜וֹם]] [[H5414G\|נֹתֵ֣ן]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֗ה]] [[H6086G\|עֲצֵ֧י]] [[H0730\|אֲרָזִ֛ים]] [[H9002\|וַ]][[H6086G\|עֲצֵ֥י]] [[H1265\|בְרוֹשִׁ֖ים]] [[H3605\|כָּל]][[H9014\|־]] [[H2656\|חֶפְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic CONTRACTS|CONTRACTS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic TEMPLE|TEMPLE]] • [[topic TREATY|TREATY]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.9|<< 1 Kings 5:9]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.11|1 Kings 5:11 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Daniel 4:36
+type: Verse
+kjv: "At the same time my reason returned unto me; and for the glory of my kingdom, mine honour and brightness returned unto me; and my counsellers and my lords sought unto me; and I was established in my kingdom, and excellent majesty was added unto me."
+bsb: "At the same time my sanity was restored, my honor and splendor returned to me for the glory of my kingdom. My advisers and nobles sought me out, and I was restored to my throne, and surpassing greatness was added to me."
+aramaic: "בֵּהּ־ זִמְנָ֞א מַנְדְּעִ֣י׀ יְת֣וּב עֲלַ֗י וְלִיקַ֨ר מַלְכוּתִ֜י הַדְרִ֤י וְזִוִי֙ יְת֣וּב עֲלַ֔י וְלִ֕י הַדָּֽבְרַ֥י וְרַבְרְבָנַ֖י יְבַע֑וֹן וְעַל־ מַלְכוּתִ֣י הָתְקְנַ֔ת וּרְב֥וּ יַתִּירָ֖ה ה֥וּסְפַת לִֽי׃"
+pericope: "[[Dan.4.34 Nebuchadnezzar Restored|Nebuchadnezzar Restored]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H2166]]"
+- "[[H9010]]"
+- "[[H4486]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H8421G]]"
+- "[[H5922]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3367]]"
+- "[[H4437]]"
+- "[[H1923]]"
+- "[[H2122]]"
+- "[[H1907]]"
+- "[[H7261]]"
+- "[[H1156]]"
+- "[[H8627]]"
+- "[[H7238]]"
+- "[[H3493]]"
+- "[[H3255]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:36**<big><big>[[Dan.4.34 Nebuchadnezzar Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the same time my reason returned unto me; and for the glory of my kingdom, mine honour and brightness returned unto me; and my counsellers and my lords sought unto me; and I was established in my kingdom, and excellent majesty was added unto me.
 <small><sub>**BSB:**</sub></small>
 At the same time my sanity was restored, my honor and splendor returned to me for the glory of my kingdom. My advisers and nobles sought me out, and I was restored to my throne, and surpassing greatness was added to me.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H9033\|הּ]][[H9014\|־]] [[H2166\|זִמְנָ֞]][[H9010\|א]] [[H4486\|מַנְדְּעִ֣]][[H9020\|י]][[H9015\|׀]] [[H8421G\|יְת֣וּב]] [[H5922\|עֲלַ֗]][[H9030\|י]] [[H9002\|וְ]][[H9005\|לִ]][[H3367\|יקַ֨ר]] [[H4437\|מַלְכוּתִ֜]][[H9020\|י]] [[H1923\|הַדְרִ֤]][[H9020\|י]] [[H9002\|וְ]][[H2122\|זִוִ]][[H9020\|י֙]] [[H8421G\|יְת֣וּב]] [[H5922\|עֲלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H9005\|לִ֕]][[H9030\|י]] [[H1907\|הַדָּֽבְרַ֥]][[H9020\|י]] [[H9002\|וְ]][[H7261\|רַבְרְבָנַ֖]][[H9020\|י]] [[H1156\|יְבַע֑וֹן]] [[H9002\|וְ]][[H5922\|עַל]][[H9014\|־]] [[H4437\|מַלְכוּתִ֣]][[H9020\|י]] [[H8627\|הָתְקְנַ֔ת]] [[H9002\|וּ]][[H7238\|רְב֥וּ]] [[H3493\|יַתִּירָ֖ה]] [[H3255\|ה֥וּסְפַת]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVERTS|CONVERTS]] • [[topic REASONING|REASONING]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.35|<< Daniel 4:35]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.37|Daniel 4:37 >>]]</td></tr></table>
 

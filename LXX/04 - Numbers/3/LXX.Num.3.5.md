@@ -1,6 +1,45 @@
+---
+title: LXX Numbers 3:5
+type: Verse
+lxx: "And the lord spoke to Moses, saying,"
+greek: "και ελάλησε κύριος προς Μωυσήν λέγων"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G2962]]"
+- "[[G4314]]"
+- "[[G3475]]"
+- "[[G3004]]"
+---
+
 **LXX Numbers 3:5** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> spoke to Moses, saying, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2980\|ελάλησε]] [[G2962\|κύριος]] [[G4314\|προς]] [[G3475\|Μωυσήν]] [[G3004\|λέγων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.4|<< Numbers 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.6|Numbers 3:6 >>]]</td></tr></table>
 
@@ -11,6 +50,6 @@ And \[the\] <span class="smallcaps">lord</span> spoke to Moses, saying,
 | to | **<big>[[G4314\|προς]]</big>** |
 | Moses, | **<big>[[G3475\|Μωυσήν]]</big>** |
 | saying, | **<big>[[G3004\|λέγων]]</big>** |
-[[Num.3.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.4|<< Numbers 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.6|Numbers 3:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.4|<< Numbers 3:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.6|Numbers 3:6 >>]]</td></tr></table>
 
 

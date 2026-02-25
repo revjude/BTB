@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 5:6
+type: Verse
+kjv: "Also king Solomon, and all the congregation of Israel that were assembled unto him before the ark, sacrificed sheep and oxen, which could not be told nor numbered for multitude."
+bsb: "There, before the ark, King Solomon and the whole congregation of Israel who had assembled with him sacrificed so many sheep and oxen that they could not be counted or numbered."
+hebrew: "וְהַמֶּ֣לֶךְ שְׁלֹמֹ֗ה וְכָל־ עֲדַ֧ת יִשְׂרָאֵ֛ל הַנּוֹעָדִ֥ים עָלָ֖יו לִפְנֵ֣י הָאָר֑וֹן מְזַבְּחִים֙ צֹ֣אן וּבָקָ֔ר אֲשֶׁ֧ר לֹֽא־ יִסָּפְר֛וּ וְלֹ֥א יִמָּנ֖וּ מֵרֹֽב׃"
+pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5712]]"
+- "[[H3478]]"
+- "[[H3259]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H2076]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5608A]]"
+- "[[H4487]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 5:6**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also king Solomon, and all the congregation of Israel that were assembled unto him before the ark, sacrificed sheep and oxen, which could not be told nor numbered for multitude.
 <small><sub>**BSB:**</sub></small>
 There, before the ark, King Solomon and the whole congregation of Israel who had assembled with him sacrificed so many sheep and oxen that they could not be counted or numbered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֗ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5712\|עֲדַ֧ת]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9009\|הַ]][[H3259\|נּוֹעָדִ֥ים]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הָ]][[H0727\|אָר֑וֹן]] [[H2076\|מְזַבְּחִים֙]] [[H6629G\|צֹ֣אן]] [[H9002\|וּ]][[H1241\|בָקָ֔ר]] [[H0834A\|אֲשֶׁ֧ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5608A\|יִסָּפְר֛וּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4487\|יִמָּנ֖וּ]] [[H9006\|מֵ]][[H7230\|רֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.5|<< 2 Chronicles 5:5]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.7|2 Chronicles 5:7 >>]]</td></tr></table>
 

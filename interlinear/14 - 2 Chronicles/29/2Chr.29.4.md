@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 29:4
+type: Verse
+kjv: "And he brought in the priests and the Levites, and gathered them together into the east street,"
+bsb: "Then he brought in the priests and Levites and gathered them in the square on the east side."
+hebrew: "וַיָּבֵ֥א אֶת־ הַכֹּהֲנִ֖ים וְאֶת־ הַלְוִיִּ֑ם וַיַּֽאַסְפֵ֖ם לִרְח֥וֹב הַמִּזְרָֽח׃"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3881]]"
+- "[[H0622]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H7339]]"
+- "[[H4217H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:4**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought in the priests and the Levites, and gathered them together into the east street,
 <small><sub>**BSB:**</sub></small>
 Then he brought in the priests and Levites and gathered them in the square on the east side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H9001\|וַ]][[H0622\|יַּֽאַסְפֵ֖]][[H9038\|ם]] [[H9005\|לִ]][[H7339\|רְח֥וֹב]] [[H9009\|הַ]][[H4217H\|מִּזְרָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.3|<< 2 Chronicles 29:3]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.5|2 Chronicles 29:5 >>]]</td></tr></table>
 

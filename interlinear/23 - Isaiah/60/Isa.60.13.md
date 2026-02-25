@@ -1,8 +1,66 @@
+---
+title: Isaiah 60:13
+type: Verse
+kjv: "The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious."
+bsb: "The glory of Lebanon will come to you—its cypress, elm, and boxwood together—to adorn the place of My sanctuary, and I will glorify the place of My feet."
+hebrew: "כְּב֤וֹד הַלְּבָנוֹן֙ אֵלַ֣יִךְ יָב֔וֹא בְּר֛וֹשׁ תִּדְהָ֥ר וּתְאַשּׁ֖וּר יַחְדָּ֑ו לְפָאֵר֙ מְק֣וֹם מִקְדָּשִׁ֔י וּמְק֥וֹם רַגְלַ֖י אֲכַבֵּֽד׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BOX TREE|BOX TREE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FOOTSTOOL|FOOTSTOOL]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PINE|PINE]]"
+strongs:
+- "[[H3519]]"
+- "[[H9009]]"
+- "[[H3844G]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H0935G]]"
+- "[[H1265]]"
+- "[[H8410]]"
+- "[[H9002]]"
+- "[[H8391]]"
+- "[[H3162B]]"
+- "[[H9005]]"
+- "[[H6286A]]"
+- "[[H4725]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H7272]]"
+- "[[H3513G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:13**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.
 <small><sub>**BSB:**</sub></small>
 The glory of Lebanon will come to you—its cypress, elm, and boxwood together—to adorn the place of My sanctuary, and I will glorify the place of My feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H3519\|כְּב֤וֹד]] [[H9009\|הַ]][[H3844G\|לְּבָנוֹן֙]] [[H0413\|אֵלַ֣יִ]][[H9032\|ךְ]] [[H0935G\|יָב֔וֹא]] [[H1265\|בְּר֛וֹשׁ]] [[H8410\|תִּדְהָ֥ר]] [[H9002\|וּ]][[H8391\|תְאַשּׁ֖וּר]] [[H3162B\|יַחְדָּ֑ו]] [[H9005\|לְ]][[H6286A\|פָאֵר֙]] [[H4725\|מְק֣וֹם]] [[H4720\|מִקְדָּשִׁ֔]][[H9020\|י]] [[H9002\|וּ]][[H4725\|מְק֥וֹם]] [[H7272\|רַגְלַ֖]][[H9020\|י]] [[H3513G\|אֲכַבֵּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOX TREE|BOX TREE]] • [[topic CHURCH|CHURCH]] • [[topic FOOTSTOOL|FOOTSTOOL]] • [[topic GENTILES|GENTILES]] • [[topic GLORY|GLORY]] • [[topic GOSPEL|GOSPEL]] • [[topic PINE|PINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.12|<< Isaiah 60:12]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.14|Isaiah 60:14 >>]]</td></tr></table>
 

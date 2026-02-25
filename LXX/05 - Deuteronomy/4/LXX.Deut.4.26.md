@@ -1,6 +1,76 @@
+---
+title: LXX Deuteronomy 4:26
+type: Verse
+lxx: "I call to testify against you today  both the heaven and the earth, that by destruction you shall be destroyed from the land in which you pass over the Jordan there to inherit it. You shall not delay long days upon it, but by obliteration you shall be obliterated."
+greek: "διαμαρτύρομαι υμίν σήμερον τον τε ουρανόν και την γην ότι απωλεία απολείσθε από της γης εις ην υμείς διαβαίνετε τον Ιορδάνην εκεί κληρονομήσαι αυτήν ουχί πολυχρονιείτε ημέρας επ΄ αυτής αλλ΄ η εκτριβή εκτριβήσεσθε"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G1263]]"
+- "[[G1473]]"
+- "[[G4594]]"
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3754]]"
+- "[[G0684]]"
+- "[[G0622]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1473]]"
+- "[[G1224]]"
+- "[[G3588]]"
+- "[[G2446]]"
+- "[[G1563]]"
+- "[[G2816]]"
+- "[[G1473]]"
+- "[[G3780]]"
+- "[[G8859]]"
+- "[[G2250]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G6227]]"
+- "[[G7159]]"
+- "[[G7160]]"
+---
+
 **LXX Deuteronomy 4:26** 
 <small><sub>**LXX:**</sub></small>
 I call to testify against you today  both the heaven and the earth, that by destruction you shall be destroyed from the land in which you pass over the Jordan there to inherit it. You shall not delay long days upon it, but by obliteration you shall be obliterated. 
+<small><sub>**Greek:**</sub></small>
+[[G1263\|διαμαρτύρομαι]] [[G1473\|υμίν]] [[G4594\|σήμερον]] [[G3588\|τον]] [[G5037\|τε]] [[G3772\|ουρανόν]] [[G2532\|και]] [[G3588\|την]] [[G1093\|γην]] [[G3754\|ότι]] [[G0684\|απωλεία]] [[G0622\|απολείσθε]] [[G0575\|από]] [[G3588\|της]] [[G1093\|γης]] [[G1519\|εις]] [[G3739\|ην]] [[G1473\|υμείς]] [[G1224\|διαβαίνετε]] [[G3588\|τον]] [[G2446\|Ιορδάνην]] [[G1563\|εκεί]] [[G2816\|κληρονομήσαι]] [[G1473\|αυτήν]] [[G3780\|ουχί]] [[G8859\|πολυχρονιείτε]] [[G2250\|ημέρας]] [[G1909\|επ΄]] [[G1473\|αυτής]] [[G6227\|αλλ΄ η]] [[G7159\|εκτριβή]] [[G7160\|εκτριβήσεσθε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.25|<< Deuteronomy 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.27|Deuteronomy 4:27 >>]]</td></tr></table>
 
@@ -38,6 +108,6 @@ I call to testify against you today  both the heaven and the earth, that by dest
 | but | **<big>[[G6227\|αλλ΄ η]]</big>** |
 | by obliteration | **<big>[[G7159\|εκτριβή]]</big>** |
 | you shall be obliterated. | **<big>[[G7160\|εκτριβήσεσθε]]</big>** |
-[[Deut.4.26|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.25|<< Deuteronomy 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.27|Deuteronomy 4:27 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.25|<< Deuteronomy 4:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.27|Deuteronomy 4:27 >>]]</td></tr></table>
 
 

@@ -1,8 +1,74 @@
+---
+title: 1 Kings 3:28
+type: Verse
+kjv: "And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do judgment."
+bsb: "When all Israel heard of the judgment the king had given, they stood in awe of him, for they saw that the wisdom of God was in him to administer justice."
+hebrew: "וַיִּשְׁמְע֣וּ כָל־ יִשְׂרָאֵ֗ל אֶת־ הַמִּשְׁפָּט֙ אֲשֶׁ֣ר שָׁפַ֣ט הַמֶּ֔לֶךְ וַיִּֽרְא֖וּ מִפְּנֵ֣י הַמֶּ֑לֶךְ כִּ֣י רָא֔וּ כִּֽי־ חָכְמַ֧ת אֱלֹהִ֛ים בְּקִרְבּ֖וֹ לַעֲשׂ֥וֹת מִשְׁפָּֽט׃ ס"
+pericope: "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H8199]]"
+- "[[H4428G]]"
+- "[[H3372H]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H3588A]]"
+- "[[H7200H]]"
+- "[[H2451]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Kings 3:28**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God [was] in him, to do judgment.
 <small><sub>**BSB:**</sub></small>
 When all Israel heard of the judgment the king had given, they stood in awe of him, for they saw that the wisdom of God was in him to administer justice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמְע֣וּ]] [[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּט֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H8199\|שָׁפַ֣ט]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9001\|וַ]][[H3372H\|יִּֽרְא֖וּ]] [[H9006\|מִ]][[H6440L\|פְּנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H3588A\|כִּ֣י]] [[H7200H\|רָא֔וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2451\|חָכְמַ֧ת]] [[H0430G\|אֱלֹהִ֛ים]] [[H9003\|בְּ]][[H7130G\|קִרְבּ֖]][[H9023\|וֹ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H4941H\|מִשְׁפָּֽט]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic JUDGE|JUDGE]] • [[topic PARENTS|PARENTS]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TACT|TACT]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.27|<< 1 Kings 3:27]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.1|1 Kings 4:1 >>]]</td></tr></table>
 
@@ -26,7 +92,7 @@ When all Israel heard of the judgment the king had given, they stood in awe of h
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֛ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] \<in> within him  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7130G\|קִרְבּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kir.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to do  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֥וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| justice  |**<big>&#8207;[[H4941H\|מִשְׁפָּֽט]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mish.Pat<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.27|<< 1 Kings 3:27]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.1|1 Kings 4:1 >>]]</td></tr></table>
 
 

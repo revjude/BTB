@@ -1,8 +1,59 @@
+---
+title: Psalm 135:9
+type: Verse
+kjv: "Who sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants."
+bsb: "He sent signs and wonders into your midst, O Egypt, against Pharaoh and all his servants."
+hebrew: "שָׁלַ֤ח׀ אֹת֣וֹת וּ֭מֹפְתִים בְּתוֹכֵ֣כִי מִצְרָ֑יִם בְּ֝פַרְעֹ֗ה וּבְכָל־ עֲבָדָֽיו׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H7971G]]"
+- "[[H9015]]"
+- "[[H0226G]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9022]]"
+- "[[H4714G]]"
+- "[[H6547J]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:9**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Who] sent tokens and wonders into the midst of thee, O Egypt, upon Pharaoh, and upon all his servants.
 <small><sub>**BSB:**</sub></small>
 He sent signs and wonders into your midst, O Egypt, against Pharaoh and all his servants.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|שָׁלַ֤ח]][[H9015\|׀]] [[H0226G\|אֹת֣וֹת]] [[H9002\|וּ֭]][[H4159\|מֹפְתִים]] [[H9003\|בְּ]][[H8432\|תוֹכֵ֣]][[H9022\|כִי]] [[H4714G\|מִצְרָ֑יִם]] [[H9003\|בְּ֝]][[H6547J\|פַרְעֹ֗ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.8|<< Psalms 135:8]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.10|Psalms 135:10 >>]]</td></tr></table>
 

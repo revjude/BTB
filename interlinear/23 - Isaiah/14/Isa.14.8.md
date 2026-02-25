@@ -1,8 +1,63 @@
+---
+title: Isaiah 14:8
+type: Verse
+kjv: "Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us."
+bsb: "Even the cypresses and cedars of Lebanon exult over you: “Since you have been laid low, no woodcutter comes against us.”"
+hebrew: "גַּם־ בְּרוֹשִׁ֛ים שָׂמְח֥וּ לְךָ֖ אַרְזֵ֣י לְבָנ֑וֹן מֵאָ֣ז שָׁכַ֔בְתָּ לֹֽא־ יַעֲלֶ֥ה הַכֹּרֵ֖ת עָלֵֽינוּ׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1265]]"
+- "[[H8055]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0730]]"
+- "[[H3844G]]"
+- "[[H9006]]"
+- "[[H0227B]]"
+- "[[H7901G]]"
+- "[[H3808]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H3772G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:8**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, the fir trees rejoice at thee, [and] the cedars of Lebanon, [saying], Since thou art laid down, no feller is come up against us.
 <small><sub>**BSB:**</sub></small>
 Even the cypresses and cedars of Lebanon exult over you: “Since you have been laid low, no woodcutter comes against us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H1265\|בְּרוֹשִׁ֛ים]] [[H8055\|שָׂמְח֥וּ]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0730\|אַרְזֵ֣י]] [[H3844G\|לְבָנ֑וֹן]] [[H9006\|מֵ]][[H0227B\|אָ֣ז]] [[H7901G\|שָׁכַ֔בְתָּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5927G\|יַעֲלֶ֥ה]] [[H9009\|הַ]][[H3772G\|כֹּרֵ֖ת]] [[H5921A\|עָלֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CEDAR|CEDAR]] • [[topic ISAIAH|ISAIAH]] • [[topic LEBANON|LEBANON]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.7|<< Isaiah 14:7]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.9|Isaiah 14:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

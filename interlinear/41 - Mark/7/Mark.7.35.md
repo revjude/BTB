@@ -1,10 +1,54 @@
+---
+title: Mark 7:35
+type: Verse
+kjv: "And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain."
+bsb: "Immediately the man’s ears were opened and his tongue was released, and he began to speak plainly."
+greek: "καὶ εὐθέως ἠνοίγησαν αὐτοῦ αἱ ἀκοαί, καὶ ἐλύθη ὁ δεσμὸς τῆς γλώσσης αὐτοῦ, καὶ ἐλάλει ὀρθῶς."
+pericope: "[[Mark.7.31 The Deaf and Mute Man|The Deaf and Mute Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G0455]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0189]]"
+- "[[G3089]]"
+- "[[G1199]]"
+- "[[G1100]]"
+- "[[G2980]]"
+- "[[G3723]]"
+texts:
+- NKO
+- NK
+- N(k)O
+---
+
 **Mark 7:35**<big><big>[[Mark.7.31 The Deaf and Mute Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain.
 <small><sub>**BSB:**</sub></small>
 Immediately the man’s ears were opened and his tongue was released, and he began to speak plainly.
-<small><sub>**Literal:**</sub></small>
-And immediately were opened his <the> ears, and was loosed the band of the tongue of him, and he was speaking plainly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.34|<< Mark 7:34]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.36|Mark 7:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G0455\|ἠνοίγησαν]]  [[G0846\|αὐτοῦ]]  [[G3588\|αἱ]]  [[G0189\|ἀκοαί,]]  [[G2532\|καὶ]]  [[G3089\|ἐλύθη]]  [[G3588\|ὁ]]  [[G1199\|δεσμὸς]]  [[G3588\|τῆς]]  [[G1100\|γλώσσης]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G2980\|ἐλάλει]]  [[G3723\|ὀρθῶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.34|<< Mark 7:34]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.36|Mark 7:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

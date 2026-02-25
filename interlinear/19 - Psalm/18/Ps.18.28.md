@@ -1,8 +1,55 @@
+---
+title: Psalm 18:28
+type: Verse
+kjv: "For thou wilt light my candle: the LORD my God will enlighten my darkness."
+bsb: "For You, O LORD, light my lamp; my God lights up my darkness."
+hebrew: "כִּֽי־ אַ֭תָּה תָּאִ֣יר נֵרִ֑י יְהוָ֥ה אֱ֝לֹהַ֗י יַגִּ֥יהַּ חָשְׁכִּֽי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0215]]"
+- "[[H5216A]]"
+- "[[H9020]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5050]]"
+- "[[H2822]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:28**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou wilt light my candle: the LORD my God will enlighten my darkness.
 <small><sub>**BSB:**</sub></small>
 For You, O LORD, light my lamp; my God lights up my darkness.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַ֭תָּה]] [[H0215\|תָּאִ֣יר]] [[H5216A\|נֵרִ֑]][[H9020\|י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱ֝לֹהַ֗]][[H9020\|י]] [[H5050\|יַגִּ֥יהַּ]] [[H2822\|חָשְׁכִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.27|<< Psalms 18:27]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.29|Psalms 18:29 >>]]</td></tr></table>
 

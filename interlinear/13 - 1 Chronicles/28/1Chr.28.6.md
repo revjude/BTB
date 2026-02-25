@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 28:6
+type: Verse
+kjv: "And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father."
+bsb: "And He said to me, ‘Solomon your son is the one who will build My house and My courts, for I have chosen him as My son, and I will be his Father."
+hebrew: "וַיֹּ֣אמֶר לִ֔י שְׁלֹמֹ֣ה בִנְךָ֔ הֽוּא־ יִבְנֶ֥ה בֵיתִ֖י וַחֲצֵרוֹתָ֑י כִּי־ בָחַ֨רְתִּי ב֥וֹ לִי֙ לְבֵ֔ן וַאֲנִ֖י אֶֽהְיֶה־ לּ֥וֹ לְאָֽב׃"
+pericope: "[[1Chr.28.1 David Commissions Solomon|David Commissions Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CALL|CALL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2691A]]"
+- "[[H3588A]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0589]]"
+- "[[H1961]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:6**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him [to be] my son, and I will be his father.
 <small><sub>**BSB:**</sub></small>
 And He said to me, ‘Solomon your son is the one who will build My house and My courts, for I have chosen him as My son, and I will be his Father.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לִ֔]][[H9030\|י]] [[H8010\|שְׁלֹמֹ֣ה]] [[H1121A\|בִנְ]][[H9021\|ךָ֔]] [[H1931\|הֽוּא]][[H9014\|־]] [[H1129\|יִבְנֶ֥ה]] [[H1004B\|בֵיתִ֖]][[H9020\|י]] [[H9002\|וַ]][[H2691A\|חֲצֵרוֹתָ֑]][[H9020\|י]] [[H3588A\|כִּי]][[H9014\|־]] [[H0977\|בָחַ֨רְתִּי]] [[H9003\|ב֥]][[H9033\|וֹ]] [[H9005\|לִ]][[H9030\|י֙]] [[H9005\|לְ]][[H1121A\|בֵ֔ן]] [[H9002\|וַ]][[H0589\|אֲנִ֖י]] [[H1961\|אֶֽהְיֶה]][[H9014\|־]] [[H9005\|לּ֥]][[H9033\|וֹ]] [[H9005\|לְ]][[H0001G\|אָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CALL|CALL]] • [[topic GOD|GOD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.5|<< 1 Chronicles 28:5]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.7|1 Chronicles 28:7 >>]]</td></tr></table>
 

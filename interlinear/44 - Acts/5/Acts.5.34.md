@@ -1,10 +1,68 @@
+---
+title: Acts 5:34
+type: Verse
+kjv: "Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;"
+bsb: "But a Pharisee named Gamaliel, a teacher of the law who was honored by all the people, stood up in the Sanhedrin and ordered that the men be put outside for a short time."
+greek: "Ἀναστὰς δέ τις ἐν τῷ συνεδρίῳ Φαρισαῖος ὀνόματι Γαμαλιήλ, νομοδιδάσκαλος τίμιος παντὶ τῷ λαῷ, ἐκέλευσεν ἔξω βραχὺ τί τοὺς ἀνθρώπους ποιῆσαι,"
+pericope: "[[Acts.5.33 Gamaliel’s Advice|Gamaliel’s Advice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DOCTOR|DOCTOR]]"
+- "[[topic GAMALIEL|GAMALIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SCHOOL|SCHOOL]]"
+strongs:
+- "[[G0450]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4892]]"
+- "[[G5330]]"
+- "[[G3686]]"
+- "[[G1059]]"
+- "[[G3547]]"
+- "[[G5093]]"
+- "[[G3956]]"
+- "[[G2992]]"
+- "[[G2753]]"
+- "[[G1854]]"
+- "[[G1024]]"
+- "[[G0444]]"
+- "[[G4160I]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Acts 5:34**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then stood there up one in the council, a Pharisee, named Gamaliel, a doctor of the law, had in reputation among all the people, and commanded to put the apostles forth a little space;
 <small><sub>**BSB:**</sub></small>
 But a Pharisee named Gamaliel, a teacher of the law who was honored by all the people, stood up in the Sanhedrin and ordered that the men be put outside for a short time.
-<small><sub>**Literal:**</sub></small>
-Having risen up however a certain [man] in the Council a Pharisee named Gamaliel, a teacher of the law honored by all the people, he commanded [them] outside for a short while the men to put,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.33|<< Acts 5:33]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.35|Acts 5:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0450\|Ἀναστὰς]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4892\|συνεδρίῳ]]  [[G5330\|Φαρισαῖος]]  [[G3686\|ὀνόματι]]  [[G1059\|Γαμαλιήλ,]]  [[G3547\|νομοδιδάσκαλος]]  [[G5093\|τίμιος]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G2992\|λαῷ,]]  [[G2753\|ἐκέλευσεν]]  [[G1854\|ἔξω]]  [[G1024\|βραχὺ]]  [[G5100\|τί]]  [[G3588\|τοὺς]]  [[G0444\|ἀνθρώπους]]  [[G4160I\|ποιῆσαι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DOCTOR|DOCTOR]] • [[topic GAMALIEL|GAMALIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SCHOOL|SCHOOL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.33|<< Acts 5:33]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.35|Acts 5:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,64 @@
+---
+title: Daniel 6:9
+type: Verse
+kjv: "Wherefore king Darius signed the writing and the decree."
+bsb: "Therefore King Darius signed the written decree."
+aramaic: "כָּל־ קֳבֵ֖ל דְּנָ֑ה מַלְכָּא֙ דָּֽרְיָ֔וֶשׁ רְשַׁ֥ם כְּתָבָ֖א וֶאֱסָרָֽא׃"
+pericope: "[[Dan.6.1 The Plot against Daniel|The Plot against Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic KING|KING]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SEAL|SEAL]]"
+strongs:
+- "[[H9004]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H6903H]]"
+- "[[H1836]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H1868H]]"
+- "[[H7560]]"
+- "[[H3792]]"
+- "[[H9002]]"
+- "[[H0633]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:9**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore king Darius signed the writing and the decree.
 <small><sub>**BSB:**</sub></small>
 Therefore King Darius signed the written decree.
+<small><sub>**Aramaic:**</sub></small>
+[[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵ֖ל]] [[H1836\|דְּנָ֑ה]] [[H4430\|מַלְכָּ]][[H9010\|א֙]] [[H1868H\|דָּֽרְיָ֔וֶשׁ]] [[H7560\|רְשַׁ֥ם]] [[H3792\|כְּתָבָ֖]][[H9010\|א]] [[H9002\|וֶ]][[H0633\|אֱסָרָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic KING|KING]] • [[topic MALICE|MALICE]] • [[topic PERSIA|PERSIA]] • [[topic POLITICS|POLITICS]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]] • [[topic SEAL|SEAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.8|<< Daniel 6:8]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.10|Daniel 6:10 >>]]</td></tr></table>
 

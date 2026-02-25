@@ -1,10 +1,65 @@
+---
+title: Acts 16:17
+type: Verse
+kjv: "The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation."
+bsb: "This girl followed Paul and the rest of us, shouting, “These men are servants of the Most High God, who are proclaiming to you the way of salvation!”"
+greek: "αὕτη κατακολουθοῦσα τῷ Παύλῳ καὶ ἡμῖν ἔκραζεν λέγουσα· οὗτοι οἱ ἄνθρωποι δοῦλοι τοῦ θεοῦ τοῦ ὑψίστου εἰσίν, οἵτινες καταγγέλλουσιν ὑμῖν ὁδὸν σωτηρίας."
+pericope: "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G2628]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G2896]]"
+- "[[G3004G]]"
+- "[[G0444]]"
+- "[[G1401]]"
+- "[[G2316]]"
+- "[[G5310]]"
+- "[[G1510]]"
+- "[[G3748]]"
+- "[[G2605]]"
+- "[[G4771]]"
+- "[[G3598]]"
+- "[[G4991]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 16:17**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.
 <small><sub>**BSB:**</sub></small>
 This girl followed Paul and the rest of us, shouting, “These men are servants of the Most High God, who are proclaiming to you the way of salvation!”
-<small><sub>**Literal:**</sub></small>
-She having followed <the> after Paul and us was crying out saying; These <the> men servants of the God <the> Most High are, who proclaim to you [the] way of salvation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.16|<< Acts 16:16]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.18|Acts 16:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|αὕτη]]  [[G2628\|κατακολουθοῦσα]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ]]  [[G2532\|καὶ]]  [[G3165\|ἡμῖν]]  [[G2896\|ἔκραζεν]]  [[G3004G\|λέγουσα·]]  [[G3778\|οὗτοι]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι]]  [[G1401\|δοῦλοι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G5310\|ὑψίστου]]  [[G1510\|εἰσίν,]]  [[G3748\|οἵτινες]]  [[G2605\|καταγγέλλουσιν]]  [[G4771\|ὑμῖν]]  [[G3598\|ὁδὸν]]  [[G4991\|σωτηρίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GOSPEL|GOSPEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.16|<< Acts 16:16]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.18|Acts 16:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

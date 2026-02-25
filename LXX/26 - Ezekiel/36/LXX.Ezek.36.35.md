@@ -1,6 +1,63 @@
+---
+title: LXX Ezekiel 36:35
+type: Verse
+lxx: "And they shall say,  That land, the one being obliterated was become as a garden of luxury; and the cities -- the desolate and ones having been obliterated, and having been razed, they sat fortified."
+greek: "και ερούσιν η γη εκείνη η ηφανισμένη εγενήθη ως κήπος τρυφής και αι πόλεις αι έρημοι και ηφανισμέναι και κατεσκαμμέναι οχυραί εκάθισαν"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G0853]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G2779]]"
+- "[[G5172]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3588]]"
+- "[[G2048]]"
+- "[[G2532]]"
+- "[[G0853]]"
+- "[[G2532]]"
+- "[[G2679]]"
+- "[[G8575]]"
+- "[[G2523]]"
+---
+
 **LXX Ezekiel 36:35** 
 <small><sub>**LXX:**</sub></small>
 And they shall say,  That land, the one being obliterated was become as a garden of luxury; and the cities -- the desolate and ones having been obliterated, and having been razed, they sat fortified. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2046\|ερούσιν]] [[G3588\|η]] [[G1093\|γη]] [[G1565\|εκείνη]] [[G3588\|η]] [[G0853\|ηφανισμένη]] [[G1096\|εγενήθη]] [[G5613\|ως]] [[G2779\|κήπος]] [[G5172\|τρυφής]] [[G2532\|και]] [[G3588\|αι]] [[G4172\|πόλεις]] [[G3588\|αι]] [[G2048\|έρημοι]] [[G2532\|και]] [[G0853\|ηφανισμέναι]] [[G2532\|και]] [[G2679\|κατεσκαμμέναι]] [[G8575\|οχυραί]] [[G2523\|εκάθισαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic EDEN|EDEN]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.36.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.34|<< Ezekiel 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.36|Ezekiel 36:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -31,6 +88,6 @@ And they shall say,  That land, the one being obliterated was become as a garden
 | having been razed, | **<big>[[G2679\|κατεσκαμμέναι]]</big>** |
 | fortified | **<big>[[G8575\|οχυραί]]</big>** |
 | they sat | **<big>[[G2523\|εκάθισαν]]</big>** |
-[[Ezek.36.35|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.34|<< Ezekiel 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.36|Ezekiel 36:36 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.34|<< Ezekiel 36:34]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.36|Ezekiel 36:36 >>]]</td></tr></table>
 
 

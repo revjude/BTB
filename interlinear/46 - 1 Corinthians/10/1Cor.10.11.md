@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 10:11
+type: Verse
+kjv: "Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come."
+bsb: "Now these things happened to them as examples and were written down as warnings for us, on whom the fulfillment of the ages has come."
+greek: "ταῦτα δὲ πάντα τυπικῶς συνέβαινεν ἐκείνοις, ἐγράφη δὲ πρὸς νουθεσίαν ἡμῶν εἰς οὓς τὰ τέλη τῶν αἰώνων κατήντηκεν.¶"
+pericope: "[[1Cor.10.1 Warnings from Israel’s Past|Warnings from Israel’s Past]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G9992]]"
+- "[[G4819]]"
+- "[[G1565]]"
+- "[[G1125]]"
+- "[[G4314]]"
+- "[[G3559]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G5056]]"
+- "[[G0165G]]"
+- "[[G2658]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **1 Corinthians 10:11**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now all these things happened unto them for ensamples: and they are written for our admonition, upon whom the ends of the world are come.
 <small><sub>**BSB:**</sub></small>
 Now these things happened to them as examples and were written down as warnings for us, on whom the fulfillment of the ages has come.
-<small><sub>**Literal:**</sub></small>
-These things now all typologically  it was happening to them, were written then for admonition of us to whom the ends of the ages has come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.10|<< 1 Corinthians 10:10]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.12|1 Corinthians 10:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G1161\|δὲ]]  [[G3956\|πάντα]]  [[G9992\|τυπικῶς]]  [[G4819\|συνέβαινεν]]  [[G1565\|ἐκείνοις,]]  [[G1125\|ἐγράφη]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3559\|νουθεσίαν]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G3739\|οὓς]]  [[G3588\|τὰ]]  [[G5056\|τέλη]]  [[G3588\|τῶν]]  [[G0165G\|αἰώνων]]  [[G2658\|κατήντηκεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.10|<< 1 Corinthians 10:10]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.12|1 Corinthians 10:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: Genesis 49:2
+type: Verse
+kjv: "Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father."
+bsb: "Come together and listen, O sons of Jacob; listen to your father Israel."
+hebrew: "הִקָּבְצ֥וּ וְשִׁמְע֖וּ בְּנֵ֣י יַעֲקֹ֑ב וְשִׁמְע֖וּ אֶל־ יִשְׂרָאֵ֥ל אֲבִיכֶֽם׃"
+pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H6908]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H1121A]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 49:2**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gather yourselves together, and hear, ye sons of Jacob; and hearken unto Israel your father.
 <small><sub>**BSB:**</sub></small>
 Come together and listen, O sons of Jacob; listen to your father Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H6908\|הִקָּבְצ֥וּ]] [[H9002\|וְ]][[H8085G\|שִׁמְע֖וּ]] [[H1121A\|בְּנֵ֣י]] [[H3290\|יַעֲקֹ֑ב]] [[H9002\|וְ]][[H8085G\|שִׁמְע֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H0001G\|אֲבִי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.1|<< Genesis 49:1]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.3|Genesis 49:3 >>]]</td></tr></table>
 

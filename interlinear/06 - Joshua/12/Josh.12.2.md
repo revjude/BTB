@@ -1,8 +1,70 @@
+---
+title: Joshua 12:2
+type: Verse
+kjv: "Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;"
+bsb: "Sihon king of the Amorites, who lived in Heshbon. He ruled from Aroer on the rim of the Arnon Valley, along the middle of the valley, up to the Jabbok River (the border of the Ammonites), that is, half of Gilead,"
+hebrew: "סִיחוֹן֙ מֶ֣לֶךְ הָאֱמֹרִ֔י הַיּוֹשֵׁ֖ב בְּחֶשְׁבּ֑וֹן מֹשֵׁ֡ל מֵעֲרוֹעֵ֡ר אֲשֶׁר֩ עַל־ שְׂפַת־ נַ֨חַל אַרְנ֜וֹן וְת֤וֹךְ הַנַּ֙חַל֙ וַחֲצִ֣י הַגִּלְעָ֔ד וְעַד֙ יַבֹּ֣ק הַנַּ֔חַל גְּב֖וּל בְּנֵ֥י עַמּֽוֹן׃"
+pericope: "[[Josh.12.1 The Kings Defeated East of the Jordan|The Kings Defeated East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 12
+book/chapter: "[[Josh.12|Joshua 12]]"
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic JABBOK|JABBOK]]"
+strongs:
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H2809]]"
+- "[[H4910]]"
+- "[[H9006]]"
+- "[[H6177H]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8193I]]"
+- "[[H5158N]]"
+- "[[H0769]]"
+- "[[H9002]]"
+- "[[H8432]]"
+- "[[H2677]]"
+- "[[H1568G]]"
+- "[[H5704]]"
+- "[[H2999]]"
+- "[[H5158A]]"
+- "[[H1366G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 12:2**<big><big>[[Josh.12.1 The Kings Defeated East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sihon king of the Amorites, who dwelt in Heshbon, [and] ruled from Aroer, which [is] upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, [which is] the border of the children of Ammon;
 <small><sub>**BSB:**</sub></small>
 Sihon king of the Amorites, who lived in Heshbon. He ruled from Aroer on the rim of the Arnon Valley, along the middle of the valley, up to the Jabbok River (the border of the Ammonites), that is, half of Gilead,
+<small><sub>**Hebrew:**</sub></small>
+[[H5511\|סִיחוֹן֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֔י]] [[H9009\|הַ]][[H3427\|יּוֹשֵׁ֖ב]] [[H9003\|בְּ]][[H2809\|חֶשְׁבּ֑וֹן]] [[H4910\|מֹשֵׁ֡ל]] [[H9006\|מֵ]][[H6177H\|עֲרוֹעֵ֡ר]] [[H0834A\|אֲשֶׁר֩]] [[H5921A\|עַל]][[H9014\|־]] [[H8193I\|שְׂפַת]][[H9014\|־]] [[H5158N\|נַ֨חַל]] [[H0769\|אַרְנ֜וֹן]] [[H9002\|וְ]][[H8432\|ת֤וֹךְ]] [[H9009\|הַ]][[H5158N\|נַּ֙חַל֙]] [[H9002\|וַ]][[H2677\|חֲצִ֣י]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֔ד]] [[H9002\|וְ]][[H5704\|עַד֙]] [[H2999\|יַבֹּ֣ק]] [[H9009\|הַ]][[H5158A\|נַּ֔חַל]] [[H1366G\|גְּב֖וּל]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic AMORITES|AMORITES]] • [[topic CANAAN|CANAAN]] • [[topic JABBOK|JABBOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.1|<< Joshua 12:1]]</td><td align="center" style="border:none;">[[Josh.12|Joshua 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.12.3|Joshua 12:3 >>]]</td></tr></table>
 

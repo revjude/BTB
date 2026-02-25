@@ -1,8 +1,73 @@
+---
+title: Leviticus 26:15
+type: Verse
+kjv: "And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, but that ye break my covenant:"
+bsb: "and if you reject My statutes, despise My ordinances, and neglect to carry out all My commandments, and so break My covenant,"
+hebrew: "וְאִם־ בְּחֻקֹּתַ֣י תִּמְאָ֔סוּ וְאִ֥ם אֶת־ מִשְׁפָּטַ֖י תִּגְעַ֣ל נַפְשְׁכֶ֑ם לְבִלְתִּ֤י עֲשׂוֹת֙ אֶת־ כָּל־ מִצְוֹתַ֔י לְהַפְרְכֶ֖ם אֶת־ בְּרִיתִֽי׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H2708]]"
+- "[[H9020]]"
+- "[[H3988A]]"
+- "[[H0853]]"
+- "[[H4941G]]"
+- "[[H1602]]"
+- "[[H5315I]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H6565A]]"
+- "[[H9036]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:15**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye shall despise my statutes, or if your soul abhor my judgments, so that ye will not do all my commandments, [but] that ye break my covenant:
 <small><sub>**BSB:**</sub></small>
 and if you reject My statutes, despise My ordinances, and neglect to carry out all My commandments, and so break My covenant,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H2708\|חֻקֹּתַ֣]][[H9020\|י]] [[H3988A\|תִּמְאָ֔סוּ]] [[H9002\|וְ]][[H0518A\|אִ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4941G\|מִשְׁפָּטַ֖]][[H9020\|י]] [[H1602\|תִּגְעַ֣ל]] [[H5315I\|נַפְשְׁ]][[H9026\|כֶ֑ם]] [[H9005\|לְ]][[H1115\|בִלְתִּ֤י]] [[H6213A\|עֲשׂוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹתַ֔]][[H9020\|י]] [[H9005\|לְ]][[H6565A\|הַפְרְ]][[H9036\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.14|<< Leviticus 26:14]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.16|Leviticus 26:16 >>]]</td></tr></table>
 

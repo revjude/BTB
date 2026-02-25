@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Instructs Solomon
+type: Pericope
 pericope: "[[1Kgs.2.1 David Instructs Solomon|David Instructs Solomon]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 2
 book/chapter: "[[1Kgs.2|1 Kings 2]]"
-genre:
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.2.1]]"
 - "[[1Kgs.2.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.2.9]]"
 ---
 
-[[1Kgs.2|1 Kings 2:1 - 1 Kings 2:9]]
+<small>[[1Kgs.2|1 Kings 2:1-9]]</small>
 *David Instructs Solomon*
 
 [[1Kgs.2.1|1]] Now the days of David drew nigh that he should die; and he charged Solomon his son, saying,

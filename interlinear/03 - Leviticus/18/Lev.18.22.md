@@ -1,8 +1,58 @@
+---
+title: Leviticus 18:22
+type: Verse
+kjv: "Thou shalt not lie with mankind, as with womankind: it is abomination."
+bsb: "You must not lie with a man as with a woman; that is an abomination."
+hebrew: "וְאֶ֨ת־ זָכָ֔ר לֹ֥א תִשְׁכַּ֖ב מִשְׁכְּבֵ֣י אִשָּׁ֑ה תּוֹעֵבָ֖ה הִֽוא׃"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SODOMY|SODOMY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H3808]]"
+- "[[H7901I]]"
+- "[[H4904]]"
+- "[[H0802G]]"
+- "[[H8441]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 18:22**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not lie with mankind, as with womankind: it [is] abomination.
 <small><sub>**BSB:**</sub></small>
 You must not lie with a man as with a woman; that is an abomination.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶ֨ת]][[H9014\|־]] [[H2145\|זָכָ֔ר]] [[H3808\|לֹ֥א]] [[H7901I\|תִשְׁכַּ֖ב]] [[H4904\|מִשְׁכְּבֵ֣י]] [[H0802G\|אִשָּׁ֑ה]] [[H8441\|תּוֹעֵבָ֖ה]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SODOMY|SODOMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.21|<< Leviticus 18:21]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.23|Leviticus 18:23 >>]]</td></tr></table>
 

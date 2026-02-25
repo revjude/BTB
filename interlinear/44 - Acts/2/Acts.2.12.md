@@ -1,10 +1,58 @@
+---
+title: Acts 2:12
+type: Verse
+kjv: "And they were all amazed, and were in doubt, saying one to another, What meaneth this?"
+bsb: "Astounded and perplexed, they asked one another, “What does this mean?”"
+greek: "ἐξίσταντο δὲ πάντες καὶ διηπόρουν ἄλλος πρὸς ἄλλον λέγοντες· τί ἄν θέλει τοῦτο εἶναι;"
+pericope: "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[G1839]]"
+- "[[G1161]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G1280]]"
+- "[[G0243]]"
+- "[[G4314]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G0302]]"
+- "[[G2309]]"
+- "[[G3778]]"
+- "[[G1511]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 2:12**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were all amazed, and were in doubt, saying one to another, What meaneth this?
 <small><sub>**BSB:**</sub></small>
 Astounded and perplexed, they asked one another, “What does this mean?”
-<small><sub>**Literal:**</sub></small>
-Were amazed then all and they were perplexed other to other saying; What maybe intends this to be?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.11|<< Acts 2:11]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.13|Acts 2:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1839\|ἐξίσταντο]]  [[G1161\|δὲ]]  [[G3956\|πάντες]]  [[G2532\|καὶ]]  [[G1280\|διηπόρουν]]  [[G0243\|ἄλλος]]  [[G4314\|πρὸς]]  [[G0243\|ἄλλον]]  [[G3004G\|λέγοντες·]]  [[G5101\|τί]]  [[G0302\|ἄν]]  [[G2309\|θέλει]]  [[G3778\|τοῦτο]]  [[G1511\|εἶναι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ORATOR|ORATOR]] • [[topic PROPHECY|PROPHECY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic TONGUE|TONGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.11|<< Acts 2:11]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.13|Acts 2:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: Mark 6:45
+type: Verse
+kjv: "And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people."
+bsb: "Immediately Jesus made His disciples get into the boat and go on ahead of Him to Bethsaida, while He dismissed the crowd."
+greek: "Καὶ εὐθὺς ἠνάγκασεν τοὺς μαθητὰς αὐτοῦ ἐμβῆναι εἰς τὸ πλοῖον καὶ προάγειν εἰς τὸ πέραν πρὸς Βηθσαϊδὰν ἕως αὐτὸς ἀπολύει τὸν ὄχλον."
+pericope: "[[Mark.6.45 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHSAIDA|BETHSAIDA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G0315]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1684]]"
+- "[[G1519]]"
+- "[[G4143]]"
+- "[[G4254]]"
+- "[[G4008]]"
+- "[[G4314]]"
+- "[[G0966]]"
+- "[[G2193]]"
+- "[[G0630G]]"
+- "[[G3793]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 6:45**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.
 <small><sub>**BSB:**</sub></small>
 Immediately Jesus made His disciples get into the boat and go on ahead of Him to Bethsaida, while He dismissed the crowd.
-<small><sub>**Literal:**</sub></small>
-And immediately He compelled the disciples of Him to climb into the boat and to go before to the other side to Bethsaida until He himself dismisses the crowd.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.44|<< Mark 6:44]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.46|Mark 6:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2112\|εὐθὺς]]  [[G0315\|ἠνάγκασεν]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G1684\|ἐμβῆναι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G2532\|καὶ]]  [[G4254\|προάγειν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4008\|πέραν]]  [[G4314\|πρὸς]]  [[G0966\|Βηθσαϊδὰν]]  [[G2193\|ἕως]]  [[G0846\|αὐτὸς]]  [[G0630G\|ἀπολύει]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHSAIDA|BETHSAIDA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.44|<< Mark 6:44]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.46|Mark 6:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

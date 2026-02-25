@@ -1,10 +1,60 @@
+---
+title: Hebrews 1:2
+type: Verse
+kjv: "Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;"
+bsb: "But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe."
+greek: "ἐπ᾽ ἐσχάτου τῶν ἡμερῶν τούτων ἐλάλησεν ἡμῖν ἐν υἱῷ ὃν ἔθηκεν κληρονόμον πάντων, δι᾽ οὗ καὶ ἐποίησεν τοὺς αἰῶνας,"
+pericope: "[[Heb.1.1 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 1
+book/chapter: "[[Heb.1|Hebrews 1]]"
+chronological_order: 1140
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1909]]"
+- "[[G2078]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G2980]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G5207]]"
+- "[[G3739]]"
+- "[[G5087]]"
+- "[[G2818]]"
+- "[[G3956]]"
+- "[[G1223]]"
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G0165G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 1:2**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Hath in these last days spoken unto us by [his] Son, whom he hath appointed heir of all things, by whom also he made the worlds;
 <small><sub>**BSB:**</sub></small>
 But in these last days He has spoken to us by His Son, whom He appointed heir of all things, and through whom He made the universe.
-<small><sub>**Literal:**</sub></small>
-in [this] last of the days these has spoken to us in [His] Son whom He appointed heir of all things, through whom also He made the ages<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.1|<< Hebrews 1:1]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.3|Hebrews 1:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1909\|ἐπ᾽]]  [[G2078\|ἐσχάτου]]  [[G3588\|τῶν]]  [[G2250\|ἡμερῶν]]  [[G3778\|τούτων]]  [[G2980\|ἐλάλησεν]]  [[G3165\|ἡμῖν]]  [[G1722\|ἐν]]  [[G5207\|υἱῷ]]  [[G3739\|ὃν]]  [[G5087\|ἔθηκεν]]  [[G2818\|κληρονόμον]]  [[G3956\|πάντων,]]  [[G1223\|δι᾽]]  [[G3739\|οὗ]]  [[G2532\|καὶ]]  [[G4160G\|ἐποίησεν]]  [[G3588\|τοὺς]]  [[G0165G\|αἰῶνας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.1|<< Hebrews 1:1]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.3|Hebrews 1:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

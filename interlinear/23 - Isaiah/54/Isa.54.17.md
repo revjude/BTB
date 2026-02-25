@@ -1,8 +1,71 @@
+---
+title: Isaiah 54:17
+type: Verse
+kjv: "No weapon that is formed against thee shall prosper; and every tongue that shall rise against thee in judgment thou shalt condemn. This is the heritage of the servants of the LORD, and their righteousness is of me, saith the LORD."
+bsb: "No weapon formed against you shall prosper, and you will refute every tongue that accuses you. This is the heritage of the servants of the LORD, and their vindication is from Me,” declares the LORD."
+hebrew: "כָּל־ כְּלִ֞י יוּצַ֤ר עָלַ֙יִךְ֙ לֹ֣א יִצְלָ֔ח וְכָל־ לָשׁ֛וֹן תָּֽקוּם־ אִתָּ֥ךְ לַמִּשְׁפָּ֖ט תַּרְשִׁ֑יעִי זֹ֡את נַחֲלַת֩ עַבְדֵ֨י יְהוָ֧ה וְצִדְקָתָ֛ם מֵאִתִּ֖י נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H3335G]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H3808]]"
+- "[[H6743B]]"
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H6965J]]"
+- "[[H0854]]"
+- "[[H9005]]"
+- "[[H4941G]]"
+- "[[H7561]]"
+- "[[H2063]]"
+- "[[H5159]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H6666]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 54:17**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 No weapon that is formed against thee shall prosper; and every tongue [that] shall rise against thee in judgment thou shalt condemn. This [is] the heritage of the servants of the LORD, and their righteousness [is] of me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 No weapon formed against you shall prosper, and you will refute every tongue that accuses you. This is the heritage of the servants of the LORD, and their vindication is from Me,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלִ֞י]] [[H3335G\|יוּצַ֤ר]] [[H5921A\|עָלַ֙יִ]][[H9032\|ךְ֙]] [[H3808\|לֹ֣א]] [[H6743B\|יִצְלָ֔ח]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3956G\|לָשׁ֛וֹן]] [[H6965J\|תָּֽקוּם]][[H9014\|־]] [[H0854\|אִתָּ֥]][[H9032\|ךְ]] [[H9005\|לַ]][[H4941G\|מִּשְׁפָּ֖ט]] [[H7561\|תַּרְשִׁ֑יעִי]] [[H2063\|זֹ֡את]] [[H5159\|נַחֲלַת֩]] [[H5650\|עַבְדֵ֨י]] [[H3068G\|יְהוָ֧ה]] [[H9002\|וְ]][[H6666\|צִדְקָתָ֛]][[H9028\|ם]] [[H9006\|מֵ]][[H0854\|אִתִּ֖]][[H9030\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.16|<< Isaiah 54:16]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.1|Isaiah 55:1 >>]]</td></tr></table>
 
@@ -27,7 +90,7 @@ No weapon formed against you shall prosper, and you will refute every tongue tha
 | and righteousness their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H6666\|צִדְקָתָ֛]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> tzid.ka.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from with me  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0854\|אִתִּ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'i.T<small><sup>[[HTo]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.16|<< Isaiah 54:16]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.1|Isaiah 55:1 >>]]</td></tr></table>
 
 

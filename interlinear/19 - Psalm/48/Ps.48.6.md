@@ -1,8 +1,52 @@
+---
+title: Psalm 48:6
+type: Verse
+kjv: "Fear took hold upon them there, and pain, as of a woman in travail."
+bsb: "Trembling seized them there, anguish like a woman in labor."
+hebrew: "רְ֭עָדָה אֲחָזָ֣תַם שָׁ֑ם חִ֝֗יל כַּיּוֹלֵֽדָה׃"
+pericope: "[[Ps.48.1 Broken Bondage|Broken Bondage]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 48
+book/chapter: "[[Ps.48|Psalm 48]]"
+chronological_order: 503
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BIRTH|BIRTH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7461B]]"
+- "[[H0270]]"
+- "[[H9038]]"
+- "[[H8033G]]"
+- "[[H2427A]]"
+- "[[H9004]]"
+- "[[H3205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 48:6**<big><big>[[Ps.48.1 Broken Bondage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear took hold upon them there, [and] pain, as of a woman in travail.
 <small><sub>**BSB:**</sub></small>
 Trembling seized them there, anguish like a woman in labor.
+<small><sub>**Hebrew:**</sub></small>
+[[H7461B\|רְ֭עָדָה]] [[H0270\|אֲחָזָ֣תַ]][[H9038\|ם]] [[H8033G\|שָׁ֑ם]] [[H2427A\|חִ֝֗יל]] [[H9004\|כַּ]][[H3205\|יּוֹלֵֽדָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTH|BIRTH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.48.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.5|<< Psalms 48:5]]</td><td align="center" style="border:none;">[[Ps.48|Psalms 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.48.7|Psalms 48:7 >>]]</td></tr></table>
 

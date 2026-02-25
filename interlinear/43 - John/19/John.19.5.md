@@ -1,10 +1,63 @@
+---
+title: John 19:5
+type: Verse
+kjv: "Then came Jesus forth, wearing the crown of thorns, and the purple robe. And Pilate saith unto them, Behold the man!"
+bsb: "When Jesus came out wearing the crown of thorns and the purple robe, Pilate said to them, “Here is the man!”"
+greek: "Ἐξῆλθεν οὖν ὁ Ἰησοῦς ἔξω φορῶν τὸν ἀκάνθινον στέφανον καὶ τὸ πορφυροῦν ἱμάτιον. καὶ λέγει αὐτοῖς· ἰδοὺ ὁ ἄνθρωπος."
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CROWN|CROWN]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic THORN|THORN]]"
+strongs:
+- "[[G1831]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1854]]"
+- "[[G5409]]"
+- "[[G0174]]"
+- "[[G4735]]"
+- "[[G2532]]"
+- "[[G4210]]"
+- "[[G2440]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 19:5**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then came Jesus forth, wearing the crown of thorns, and the purple robe. And [Pilate] saith unto them, Behold the man!
 <small><sub>**BSB:**</sub></small>
 When Jesus came out wearing the crown of thorns and the purple robe, Pilate said to them, “Here is the man!”
-<small><sub>**Literal:**</sub></small>
-Went forth therefore <the> Jesus outside wearing the thorny crown and the purple robe. And he says to them; behold the man!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.4|<< John 19:4]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.6|John 19:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|Ἐξῆλθεν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1854\|ἔξω]]  [[G5409\|φορῶν]]  [[G3588\|τὸν]]  [[G0174\|ἀκάνθινον]]  [[G4735\|στέφανον]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4210\|πορφυροῦν]]  [[G2440\|ἱμάτιον.]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CROWN|CROWN]] • [[topic DRESS|DRESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOCKING|MOCKING]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]] • [[topic SARCASM|SARCASM]] • [[topic THORN|THORN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.4|<< John 19:4]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.6|John 19:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 19:6
+type: Verse
+kjv: "And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who is with you in the judgment."
+bsb: "Then he said to the judges, “Consider carefully what you do, for you are not judging for man, but for the LORD, who is with you when you render judgment."
+hebrew: "וַיֹּ֣אמֶר אֶל־ הַשֹּֽׁפְטִ֗ים רְאוּ֙ מָֽה־ אַתֶּ֣ם עֹשִׂ֔ים כִּ֣י לֹ֧א לְאָדָ֛ם תִּשְׁפְּט֖וּ כִּ֣י לַיהוָ֑ה וְעִמָּכֶ֖ם בִּדְבַ֥ר מִשְׁפָּֽט׃"
+pericope: "[[2Chr.19.4 Jehoshaphat’s Reforms|Jehoshaphat’s Reforms]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 19
+book/chapter: "[[2Chr.19|2 Chronicles 19]]"
+chronological_order: 572
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8199]]"
+- "[[H7200H]]"
+- "[[H4100]]"
+- "[[H0859D]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H1697L]]"
+- "[[H4941G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 19:6**<big><big>[[2Chr.19.4 Jehoshaphat’s Reforms|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who [is] with you in the judgment.
 <small><sub>**BSB:**</sub></small>
 Then he said to the judges, “Consider carefully what you do, for you are not judging for man, but for the LORD, who is with you when you render judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8199\|שֹּֽׁפְטִ֗ים]] [[H7200H\|רְאוּ֙]] [[H4100\|מָֽה]][[H9014\|־]] [[H0859D\|אַתֶּ֣ם]] [[H6213A\|עֹשִׂ֔ים]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֧א]] [[H9005\|לְ]][[H0120G\|אָדָ֛ם]] [[H8199\|תִּשְׁפְּט֖וּ]] [[H3588A\|כִּ֣י]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9002\|וְ]][[H5973A\|עִמָּ]][[H9036\|כֶ֖ם]] [[H9003\|בִּ]][[H1697L\|דְבַ֥ר]] [[H4941G\|מִשְׁפָּֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.19.5|<< 2 Chronicles 19:5]]</td><td align="center" style="border:none;">[[2Chr.19|2 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.19.7|2 Chronicles 19:7 >>]]</td></tr></table>
 

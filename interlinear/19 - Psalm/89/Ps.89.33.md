@@ -1,8 +1,61 @@
+---
+title: Psalm 89:33
+type: Verse
+kjv: "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail."
+bsb: "But I will not withdraw My loving devotion from him, nor ever betray My faithfulness."
+hebrew: "וְ֭חַסְדִּי לֹֽא־ אָפִ֣יר מֵֽעִמּ֑וֹ וְלֹֽא־ אֲ֝שַׁקֵּ֗ר בֶּאֱמוּנָתִֽי׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H2617A]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6331]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9033]]"
+- "[[H8266]]"
+- "[[H9003]]"
+- "[[H0530]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:33**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.
 <small><sub>**BSB:**</sub></small>
 But I will not withdraw My loving devotion from him, nor ever betray My faithfulness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H2617A\|חַסְדִּ]][[H9020\|י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6331\|אָפִ֣יר]] [[H9006\|מֵֽ]][[H5973B\|עִמּ֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H8266\|אֲ֝שַׁקֵּ֗ר]] [[H9003\|בֶּ]][[H0530\|אֱמוּנָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.32|<< Psalms 89:32]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.34|Psalms 89:34 >>]]</td></tr></table>
 

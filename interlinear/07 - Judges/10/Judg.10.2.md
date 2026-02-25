@@ -1,8 +1,58 @@
+---
+title: Judges 10:2
+type: Verse
+kjv: "And he judged Israel twenty and three years, and died, and was buried in Shamir."
+bsb: "Tola judged Israel twenty-three years, and when he died, he was buried in Shamir."
+hebrew: "וַיִּשְׁפֹּט֙ אֶת־ יִשְׂרָאֵ֔ל עֶשְׂרִ֥ים וְשָׁלֹ֖שׁ שָׁנָ֑ה וַיָּ֖מָת וַיִּקָּבֵ֥ר בְּשָׁמִֽיר׃ פ"
+pericope: "[[Judg.10.1 Tola|Tola]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic SHAMIR|SHAMIR]]"
+- "[[topic TOLA|TOLA]]"
+strongs:
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H4191]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H8069H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 10:2**<big><big>[[Judg.10.1 Tola|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he judged Israel twenty and three years, and died, and was buried in Shamir.
 <small><sub>**BSB:**</sub></small>
 Tola judged Israel twenty-three years, and when he died, he was buried in Shamir.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8199\|יִּשְׁפֹּט֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H7969\|שָׁלֹ֖שׁ]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H4191\|יָּ֖מָת]] [[H9001\|וַ]][[H6912\|יִּקָּבֵ֥ר]] [[H9003\|בְּ]][[H8069H\|שָׁמִֽיר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic SHAMIR|SHAMIR]] • [[topic TOLA|TOLA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.1|<< Judges 10:1]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.3|Judges 10:3 >>]]</td></tr></table>
 
@@ -16,7 +66,7 @@ Tola judged Israel twenty-three years, and when he died, he was buried in Shamir
 | year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֑ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּ֖מָת]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he was buried  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6912\|יִּקָּבֵ֥ר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yi.ka.Ver<small><sup>[[HVNw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Shamir  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8069H\|שָׁמִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.Mir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Shamir  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8069H\|שָׁמִֽיר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> sha.Mir<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.1|<< Judges 10:1]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.3|Judges 10:3 >>]]</td></tr></table>
 
 

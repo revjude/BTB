@@ -1,10 +1,51 @@
+---
+title: Revelation 12:2
+type: Verse
+kjv: "And she being with child cried, travailing in birth, and pained to be delivered."
+bsb: "She was pregnant and crying out in the pain and agony of giving birth."
+greek: "καὶ ἐν γαστρὶ ἔχουσα, καὶ κράζει ὠδίνουσα καὶ βασανιζομένη τεκεῖν.¶"
+pericope: "[[Rev.12.1 The Woman and the Dragon|The Woman and the Dragon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1064]]"
+- "[[G2192]]"
+- "[[G2896]]"
+- "[[G5605]]"
+- "[[G0928H]]"
+- "[[G5088]]"
+texts:
+- NKO
+- no
+- NK(o)
+---
+
 **Revelation 12:2**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And she being with child cried, travailing in birth, and pained to be delivered.
 <small><sub>**BSB:**</sub></small>
 She was pregnant and crying out in the pain and agony of giving birth.
-<small><sub>**Literal:**</sub></small>
-and in womb having, And she cries out being in travail and being in pain to bring forth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.1|<< Revelation 12:1]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.3|Revelation 12:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G1064\|γαστρὶ]]  [[G2192\|ἔχουσα,]]  [[G2532\|καὶ]]  [[G2896\|κράζει]]  [[G5605\|ὠδίνουσα]]  [[G2532\|καὶ]]  [[G0928H\|βασανιζομένη]]  [[G5088\|τεκεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.1|<< Revelation 12:1]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.3|Revelation 12:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 12:2** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.66.7|Isa 66:7]] ☩ [[LXX.Mic.4.9|Mic 4:9-10]]

@@ -1,8 +1,55 @@
+---
+title: Proverbs 31:12
+type: Verse
+kjv: "She will do him good and not evil all the days of her life."
+bsb: "She brings him good and not harm all the days of her life."
+hebrew: "גְּמָלַ֣תְהוּ ט֣וֹב וְלֹא־ רָ֑ע כֹּ֝֗ל יְמֵ֣י חַיֶּֽיה׃"
+pericope: "[[Prov.31.10 The Virtues of a Noble Woman|The Virtues of a Noble Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H1580]]"
+- "[[H9033]]"
+- "[[H2896B]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7451B]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:12**<big><big>[[Prov.31.10 The Virtues of a Noble Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She will do him good and not evil all the days of her life.
 <small><sub>**BSB:**</sub></small>
 She brings him good and not harm all the days of her life.
+<small><sub>**Hebrew:**</sub></small>
+[[H1580\|גְּמָלַ֣תְ]][[H9033\|הוּ]] [[H2896B\|ט֣וֹב]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7451B\|רָ֑ע]] [[H3605\|כֹּ֝֗ל]] [[H3117G\|יְמֵ֣י]] [[H2416E\|חַיֶּֽי]][[H9024\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic POETRY|POETRY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.11|<< Proverbs 31:11]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.13|Proverbs 31:13 >>]]</td></tr></table>
 

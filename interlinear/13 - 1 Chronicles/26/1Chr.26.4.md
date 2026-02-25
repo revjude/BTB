@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 26:4
+type: Verse
+kjv: "Moreover the sons of Obededom were, Shemaiah the firstborn, Jehozabad the second, Joah the third, and Sacar the fourth, and Nethaneel the fifth,"
+bsb: "And Obed-edom also had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sachar the fourth, Nethanel the fifth,"
+hebrew: "וּלְעֹבֵ֥ד אֱדֹ֖ם בָּנִ֑ים שְׁמַֽעְיָ֤ה הַבְּכוֹר֙ יְהוֹזָבָ֣ד הַשֵּׁנִ֔י יוֹאָ֤ח הַשְּׁלִשִׁי֙ וְשָׂכָ֣ר הָרְבִיעִ֔י וּנְתַנְאֵ֖ל הַחֲמִישִֽׁי׃"
+pericope: "[[1Chr.26.1 The Divisions of the Gatekeepers|The Divisions of the Gatekeepers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JEHOZABAD|JEHOZABAD]]"
+- "[[topic JOAH|JOAH]]"
+- "[[topic NETHANEEL|NETHANEEL]]"
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+- "[[topic SACAR|SACAR]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H5654]]"
+- "[[H1121A]]"
+- "[[H8098I]]"
+- "[[H9009]]"
+- "[[H1060]]"
+- "[[H3075H]]"
+- "[[H8145]]"
+- "[[H3098I]]"
+- "[[H7992]]"
+- "[[H7940G]]"
+- "[[H7243]]"
+- "[[H5417K]]"
+- "[[H2549]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:4**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the sons of Obededom [were], Shemaiah the firstborn, Jehozabad the second, Joah the third, and Sacar the fourth, and Nethaneel the fifth,
 <small><sub>**BSB:**</sub></small>
 And Obed-edom also had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sachar the fourth, Nethanel the fifth,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H5654\|עֹבֵ֥ד]] [[H5654\|אֱדֹ֖ם]] [[H1121A\|בָּנִ֑ים]] [[H8098I\|שְׁמַֽעְיָ֤ה]] [[H9009\|הַ]][[H1060\|בְּכוֹר֙]] [[H3075H\|יְהוֹזָבָ֣ד]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H3098I\|יוֹאָ֤ח]] [[H9009\|הַ]][[H7992\|שְּׁלִשִׁי֙]] [[H9002\|וְ]][[H7940G\|שָׂכָ֣ר]] [[H9009\|הָ]][[H7243\|רְבִיעִ֔י]] [[H9002\|וּ]][[H5417K\|נְתַנְאֵ֖ל]] [[H9009\|הַ]][[H2549\|חֲמִישִֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOZABAD|JEHOZABAD]] • [[topic JOAH|JOAH]] • [[topic NETHANEEL|NETHANEEL]] • [[topic OBED-EDOM|OBED-EDOM]] • [[topic SACAR|SACAR]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.3|<< 1 Chronicles 26:3]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.5|1 Chronicles 26:5 >>]]</td></tr></table>
 

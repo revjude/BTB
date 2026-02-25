@@ -1,8 +1,64 @@
+---
+title: Ezekiel 36:35
+type: Verse
+kjv: "And they shall say, This land that was desolate is become like the garden of Eden; and the waste and desolate and ruined cities are become fenced, and are inhabited."
+bsb: "Then they will say, ‘This land that was desolate has become like the garden of Eden. The cities that were once ruined, desolate, and destroyed are now fortified and inhabited.’"
+hebrew: "וְאָמְר֗וּ הָאָ֤רֶץ הַלֵּ֙זוּ֙ הַנְּשַׁמָּ֔ה הָיְתָ֖ה כְּגַן־ עֵ֑דֶן וְהֶעָרִ֧ים הֶחֳרֵב֛וֹת וְהַֽנְשַׁמּ֥וֹת וְהַנֶּהֱרָס֖וֹת בְּצוּר֥וֹת יָשָֽׁבוּ׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1977]]"
+- "[[H8074G]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1588M]]"
+- "[[H9014]]"
+- "[[H5731B]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H2720B]]"
+- "[[H2040]]"
+- "[[H1219]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:35**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall say, This land that was desolate is become like the garden of Eden; and the waste and desolate and ruined cities [are become] fenced, [and] are inhabited.
 <small><sub>**BSB:**</sub></small>
 Then they will say, ‘This land that was desolate has become like the garden of Eden. The cities that were once ruined, desolate, and destroyed are now fortified and inhabited.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמְר֗וּ]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]] [[H1977\|הַלֵּ֙זוּ֙]] [[H9009\|הַ]][[H8074G\|נְּשַׁמָּ֔ה]] [[H1961\|הָיְתָ֖ה]] [[H9004\|כְּ]][[H1588M\|גַן]][[H9014\|־]] [[H5731B\|עֵ֑דֶן]] [[H9002\|וְ]][[H9009\|הֶ]][[H5892B\|עָרִ֧ים]] [[H9009\|הֶ]][[H2720B\|חֳרֵב֛וֹת]] [[H9002\|וְ]][[H9009\|הַֽ]][[H8074G\|נְשַׁמּ֥וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H2040\|נֶּהֱרָס֖וֹת]] [[H1219\|בְּצוּר֥וֹת]] [[H3427\|יָשָֽׁבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic EDEN|EDEN]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.34|<< Ezekiel 36:34]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.36|Ezekiel 36:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

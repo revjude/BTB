@@ -1,8 +1,61 @@
+---
+title: Ezekiel 6:10
+type: Verse
+kjv: "And they shall know that I am the LORD, and that I have not said in vain that I would do this evil unto them."
+bsb: "And they will know that I am the LORD; I did not declare in vain that I would bring this calamity upon them."
+hebrew: "וְיָדְע֖וּ כִּֽי־ אֲנִ֣י יְהוָ֑ה לֹ֤א אֶל־ חִנָּם֙ דִּבַּ֔רְתִּי לַעֲשׂ֥וֹת לָהֶ֖ם הָרָעָ֥ה הַזֹּֽאת׃ פ"
+pericope: "[[Ezek.6.8 A Remnant to Be Blessed|A Remnant to Be Blessed]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H0413]]"
+- "[[H2600]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H7451I]]"
+- "[[H2063]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 6:10**<big><big>[[Ezek.6.8 A Remnant to Be Blessed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall know that I [am] the LORD, [and that] I have not said in vain that I would do this evil unto them.
 <small><sub>**BSB:**</sub></small>
 And they will know that I am the LORD; I did not declare in vain that I would bring this calamity upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדְע֖וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H3808\|לֹ֤א]] [[H0413\|אֶל]][[H9014\|־]] [[H2600\|חִנָּם֙]] [[H1696G\|דִּבַּ֔רְתִּי]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9009\|הָ]][[H7451I\|רָעָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.9|<< Ezekiel 6:9]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.11|Ezekiel 6:11 >>]]</td></tr></table>
 
@@ -19,7 +72,7 @@ And they will know that I am the LORD; I did not declare in vain that I would br
 | to do  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשׂ֥וֹת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the calamity  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451I\|רָעָ֥ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.9|<< Ezekiel 6:9]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.11|Ezekiel 6:11 >>]]</td></tr></table>
 
 

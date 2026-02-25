@@ -1,8 +1,73 @@
+---
+title: Ezekiel 18:8
+type: Verse
+kjv: "He that hath not given forth upon usury, neither hath taken any increase, that hath withdrawn his hand from iniquity, hath executed true judgment between man and man,"
+bsb: "He does not engage in usury or take excess interest, but he withholds his hand from iniquity and executes true justice between men."
+hebrew: "בַּנֶּ֣שֶׁךְ לֹֽא־ יִתֵּ֗ן וְתַרְבִּית֙ לֹ֣א יִקָּ֔ח מֵעָ֖וֶל יָשִׁ֣יב יָד֑וֹ מִשְׁפַּ֤ט אֱמֶת֙ יַֽעֲשֶׂ֔ה בֵּ֥ין אִ֖ישׁ לְאִֽישׁ׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic INTEREST|INTEREST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic USURY|USURY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H9003]]"
+- "[[H5392]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9002]]"
+- "[[H8636]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H5766A]]"
+- "[[H7725I]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H4941H]]"
+- "[[H0571H]]"
+- "[[H6213A]]"
+- "[[H0996G]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 18:8**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He [that] hath not given forth upon usury, neither hath taken any increase, [that] hath withdrawn his hand from iniquity, hath executed true judgment between man and man,
 <small><sub>**BSB:**</sub></small>
 He does not engage in usury or take excess interest, but he withholds his hand from iniquity and executes true justice between men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H5392\|נֶּ֣שֶׁךְ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|יִתֵּ֗ן]] [[H9002\|וְ]][[H8636\|תַרְבִּית֙]] [[H3808\|לֹ֣א]] [[H3947G\|יִקָּ֔ח]] [[H9006\|מֵ]][[H5766A\|עָ֖וֶל]] [[H7725I\|יָשִׁ֣יב]] [[H3027G\|יָד֑]][[H9023\|וֹ]] [[H4941H\|מִשְׁפַּ֤ט]] [[H0571H\|אֱמֶת֙]] [[H6213A\|יַֽעֲשֶׂ֔ה]] [[H0996G\|בֵּ֥ין]] [[H0376G\|אִ֖ישׁ]] [[H9005\|לְ]][[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CHILDREN|CHILDREN]] • [[topic INTEGRITY|INTEGRITY]] • [[topic INTEREST|INTEREST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic USURY|USURY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.7|<< Ezekiel 18:7]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.9|Ezekiel 18:9 >>]]</td></tr></table>
 

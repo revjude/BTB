@@ -1,8 +1,53 @@
+---
+title: 1 Chronicles 6:74
+type: Verse
+kjv: "And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,"
+bsb: "From the tribe of Asher they were given Mashal, Abdon,"
+hebrew: "וּמִמַּטֵּ֣ה אָשֵׁ֔ר אֶת־ מָשָׁ֖ל וְאֶת־ מִגְרָשֶׁ֑יהָ וְאֶת־ עַבְדּ֖וֹן וְאֶת־ מִגְרָשֶֽׁיהָ׃"
+pericope: "[[1Chr.6.54 Territories for the Levites|Territories for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABDON|ABDON]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MASHAL|MASHAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4294H]]"
+- "[[H0836]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4913]]"
+- "[[H4054]]"
+- "[[H9024]]"
+- "[[H5658G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:74**<big><big>[[1Chr.6.54 Territories for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And out of the tribe of Asher; Mashal with her suburbs, and Abdon with her suburbs,
 <small><sub>**BSB:**</sub></small>
 From the tribe of Asher they were given Mashal, Abdon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּטֵּ֣ה]] [[H0836\|אָשֵׁ֔ר]] [[H0853\|אֶת]][[H9014\|־]] [[H4913\|מָשָׁ֖ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶׁ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5658G\|עַבְדּ֖וֹן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4054\|מִגְרָשֶֽׁי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABDON|ABDON]] • [[topic LEVITES|LEVITES]] • [[topic MASHAL|MASHAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.74|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.73|<< 1 Chronicles 6:73]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.75|1 Chronicles 6:75 >>]]</td></tr></table>
 

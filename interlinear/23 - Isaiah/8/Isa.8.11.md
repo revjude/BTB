@@ -1,8 +1,66 @@
+---
+title: Isaiah 8:11
+type: Verse
+kjv: "For the LORD spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,"
+bsb: "For this is what the LORD has spoken to me with a strong hand, instructing me not to walk in the way of this people:"
+hebrew: "כִּי֩ כֹ֨ה אָמַ֧ר יְהוָ֛ה אֵלַ֖י כְּחֶזְקַ֣ת הַיָּ֑ד וְיִסְּרֵ֕נִי מִלֶּ֛כֶת בְּדֶ֥רֶךְ הָֽעָם־ הַזֶּ֖ה לֵאמֹֽר׃"
+pericope: "[[Isa.8.11 A Call to Fear God|A Call to Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H2393]]"
+- "[[H9009]]"
+- "[[H3027H]]"
+- "[[H9001]]"
+- "[[H3256]]"
+- "[[H9006]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:11**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD spake thus to me with a strong hand, and instructed me that I should not walk in the way of this people, saying,
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD has spoken to me with a strong hand, instructing me not to walk in the way of this people:
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3541\|כֹ֨ה]] [[H0559\|אָמַ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9004\|כְּ]][[H2393\|חֶזְקַ֣ת]] [[H9009\|הַ]][[H3027H\|יָּ֑ד]] [[H9001\|וְ]][[H3256\|יִסְּרֵ֕]][[H9030\|נִי]] [[H9006\|מִ]][[H1980I\|לֶּ֛כֶת]] [[H9003\|בְּ]][[H1870G\|דֶ֥רֶךְ]] [[H9009\|הָֽ]][[H5971A\|עָם]][[H9014\|־]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic ARMIES|ARMIES]] • [[topic COMPANY|COMPANY]] • [[topic EXAMPLE|EXAMPLE]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.10|<< Isaiah 8:10]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.12|Isaiah 8:12 >>]]</td></tr></table>
 

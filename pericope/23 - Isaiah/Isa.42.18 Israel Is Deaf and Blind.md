@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel Is Deaf and Blind
+type: Pericope
 pericope: "[[Isa.42.18 Israel Is Deaf and Blind|Israel Is Deaf and Blind]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 42
 book/chapter: "[[Isa.42|Isaiah 42]]"
-genre:
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.42.18]]"
 - "[[Isa.42.19]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.42.25]]"
 ---
 
-[[Isa.42|Isaiah 42:18 - Isaiah 42:25]]
+<small>[[Isa.42|Isaiah 42:18-25]]</small>
 *Israel Is Deaf and Blind*
 
 [[Isa.42.18|18]] Hear, ye deaf; and look, ye blind, that ye may see.

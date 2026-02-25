@@ -1,8 +1,51 @@
+---
+title: Proverbs 15:28
+type: Verse
+kjv: "The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things."
+bsb: "The heart of the righteous ponders how to answer, but the mouth of the wicked blurts out evil."
+hebrew: "לֵ֣ב צַ֭דִּיק יֶהְגֶּ֣ה לַעֲנ֑וֹת וּפִ֥י רְ֝שָׁעִ֗ים יַבִּ֥יעַ רָעֽוֹת׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H3820A]]"
+- "[[H6662]]"
+- "[[H1897]]"
+- "[[H9005]]"
+- "[[H6030B]]"
+- "[[H9002]]"
+- "[[H6310G]]"
+- "[[H7563]]"
+- "[[H5042]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:28**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart of the righteous studieth to answer: but the mouth of the wicked poureth out evil things.
 <small><sub>**BSB:**</sub></small>
 The heart of the righteous ponders how to answer, but the mouth of the wicked blurts out evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H3820A\|לֵ֣ב]] [[H6662\|צַ֭דִּיק]] [[H1897\|יֶהְגֶּ֣ה]] [[H9005\|לַ]][[H6030B\|עֲנ֑וֹת]] [[H9002\|וּ]][[H6310G\|פִ֥י]] [[H7563\|רְ֝שָׁעִ֗ים]] [[H5042\|יַבִּ֥יעַ]] [[H7451H\|רָעֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.27|<< Proverbs 15:27]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.29|Proverbs 15:29 >>]]</td></tr></table>
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fellowship of Believers
+type: Pericope
 pericope: "[[Acts.2.42 The Fellowship of Believers|The Fellowship of Believers]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 2
 book/chapter: "[[Acts.2|Acts 2]]"
-genre:
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.2.42]]"
 - "[[Acts.2.43]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.2.47]]"
 ---
 
-[[Acts.2|Acts 2:42 - Acts 2:47]]
+<small>[[Acts.2|Acts 2:42-47]]</small>
 *The Fellowship of Believers*
 
 [[Acts.2.42|42]] And they continued stedfastly in the apostles’ doctrine and fellowship, and in breaking of bread, and in prayers.

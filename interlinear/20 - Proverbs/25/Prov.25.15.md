@@ -1,8 +1,56 @@
+---
+title: Proverbs 25:15
+type: Verse
+kjv: "By long forbearing is a prince persuaded, and a soft tongue breaketh the bone."
+bsb: "Through patience a ruler can be persuaded, and a gentle tongue can break a bone."
+hebrew: "בְּאֹ֣רֶךְ אַ֭פַּיִם יְפֻתֶּ֣ה קָצִ֑ין וְלָשׁ֥וֹן רַ֝כָּ֗ה תִּשְׁבָּר־ גָּֽרֶם׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic KING|KING]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9003]]"
+- "[[H0753]]"
+- "[[H0639G]]"
+- "[[H6601B]]"
+- "[[H7101]]"
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H7390]]"
+- "[[H7665]]"
+- "[[H9014]]"
+- "[[H1634]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:15**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By long forbearing is a prince persuaded, and a soft tongue breaketh the bone.
 <small><sub>**BSB:**</sub></small>
 Through patience a ruler can be persuaded, and a gentle tongue can break a bone.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0753\|אֹ֣רֶךְ]] [[H0639G\|אַ֭פַּיִם]] [[H6601B\|יְפֻתֶּ֣ה]] [[H7101\|קָצִ֑ין]] [[H9002\|וְ]][[H3956G\|לָשׁ֥וֹן]] [[H7390\|רַ֝כָּ֗ה]] [[H7665\|תִּשְׁבָּר]][[H9014\|־]] [[H1634\|גָּֽרֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic KING|KING]] • [[topic MEEKNESS|MEEKNESS]] • [[topic SPEAKING|SPEAKING]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.14|<< Proverbs 25:14]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.16|Proverbs 25:16 >>]]</td></tr></table>
 

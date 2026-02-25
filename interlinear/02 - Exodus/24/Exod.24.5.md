@@ -1,8 +1,63 @@
+---
+title: Exodus 24:5
+type: Verse
+kjv: "And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD."
+bsb: "Then he sent out some young men of Israel, and they offered burnt offerings and sacrificed young bulls as peace offerings to the LORD."
+hebrew: "וַיִּשְׁלַ֗ח אֶֽת־ נַעֲרֵי֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיַּֽעֲל֖וּ עֹלֹ֑ת וַֽיִּזְבְּח֞וּ זְבָחִ֧ים שְׁלָמִ֛ים לַיהוָ֖ה פָּרִֽים׃"
+pericope: "[[Exod.24.1 The Covenant Sealed|The Covenant Sealed]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 24
+book/chapter: "[[Exod.24|Exodus 24]]"
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PEACE OFFERINGS|PEACE OFFERINGS]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H2076]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H6499]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 24:5**<big><big>[[Exod.24.1 The Covenant Sealed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent young men of the children of Israel, which offered burnt offerings, and sacrificed peace offerings of oxen unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Then he sent out some young men of Israel, and they offered burnt offerings and sacrificed young bulls as peace offerings to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֗ח]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5288\|נַעֲרֵי֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H5927I\|יַּֽעֲל֖וּ]] [[H5930A\|עֹלֹ֑ת]] [[H9001\|וַֽ]][[H2076\|יִּזְבְּח֞וּ]] [[H2077\|זְבָחִ֧ים]] [[H8002\|שְׁלָמִ֛ים]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H6499\|פָּרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PEACE OFFERINGS|PEACE OFFERINGS]] • [[topic PURIFICATION|PURIFICATION]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.4|<< Exodus 24:4]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.6|Exodus 24:6 >>]]</td></tr></table>
 

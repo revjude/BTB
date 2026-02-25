@@ -1,8 +1,64 @@
+---
+title: Isaiah 51:23
+type: Verse
+kjv: "But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over."
+bsb: "I will place it in the hands of your tormentors, who told you: ‘Lie down, so we can walk over you,’ so that you made your back like the ground, like a street to be traversed.”"
+hebrew: "וְשַׂמְתִּ֙יהָ֙ בְּיַד־ מוֹגַ֔יִךְ אֲשֶׁר־ אָמְר֥וּ לְנַפְשֵׁ֖ךְ שְׁחִ֣י וְנַעֲבֹ֑רָה וַתָּשִׂ֤ימִי כָאָ֙רֶץ֙ גֵּוֵ֔ךְ וְכַח֖וּץ לַעֹבְרִֽים׃ ס"
+pericope: "[[Isa.51.17 God’s Fury Removed|God’s Fury Removed]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 51
+book/chapter: "[[Isa.51|Isaiah 51]]"
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9014]]"
+- "[[H3013]]"
+- "[[H9032]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5315I]]"
+- "[[H9022]]"
+- "[[H7812]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H7760A]]"
+- "[[H9004]]"
+- "[[H0776H]]"
+- "[[H1460A]]"
+- "[[H2351]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 51:23**<big><big>[[Isa.51.17 God’s Fury Removed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over.
 <small><sub>**BSB:**</sub></small>
 I will place it in the hands of your tormentors, who told you: ‘Lie down, so we can walk over you,’ so that you made your back like the ground, like a street to be traversed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760H\|שַׂמְתִּ֙י]][[H9034\|הָ֙]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H3013\|מוֹגַ֔יִ]][[H9032\|ךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|אָמְר֥וּ]] [[H9005\|לְ]][[H5315I\|נַפְשֵׁ֖]][[H9022\|ךְ]] [[H7812\|שְׁחִ֣י]] [[H9002\|וְ]][[H5674A\|נַעֲבֹ֑רָה]] [[H9001\|וַ]][[H7760A\|תָּשִׂ֤ימִי]] [[H9004\|כָ]][[H0776H\|אָ֙רֶץ֙]] [[H1460A\|גֵּוֵ֔]][[H9022\|ךְ]] [[H9002\|וְ]][[H9004\|כַ]][[H2351\|ח֖וּץ]] [[H9005\|לַ]][[H5674A\|עֹבְרִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.22|<< Isaiah 51:22]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.1|Isaiah 52:1 >>]]</td></tr></table>
 
@@ -20,7 +76,7 @@ I will place it in the hands of your tormentors, who told you: ‘Lie down, so w
 | like the ground  |**<big>&#8207;[[H9004\|כָ]]&#8207;&#8207;[[H0776H\|אָ֙רֶץ֙]]&#8207; </big>**| kha.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | back your  |**<big>&#8207;[[H1460A\|גֵּוֵ֔]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| ge.Ve<small><sup>[[HNcmsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and like the street  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H2351\|ח֖וּץ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HRd]]</sup></small> Chutz<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> [those who] pass over  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5674A\|עֹבְרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'oe.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> [those who] pass over  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5674A\|עֹבְרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'oe.Rim<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.22|<< Isaiah 51:22]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.1|Isaiah 52:1 >>]]</td></tr></table>
 
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Punishment
+type: Pericope
 pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 9
 book/chapter: "[[Hos.9|Hosea 9]]"
-genre:
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 17
 verses:
 - "[[Hos.9.1]]"
 - "[[Hos.9.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Hos.9.17]]"
 ---
 
-[[Hos.9|Hosea 9:1 - Hosea 9:17]]
+<small>[[Hos.9|Hosea 9:1-17]]</small>
 *Israel’s Punishment*
 
 [[Hos.9.1|1]] Rejoice not, O Israel, for joy, as \[other\] people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.

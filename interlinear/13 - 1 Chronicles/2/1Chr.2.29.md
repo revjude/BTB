@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 2:29
+type: Verse
+kjv: "And the name of the wife of Abishur was Abihail, and she bare him Ahban, and Molid."
+bsb: "Abishur’s wife was named Abihail, and she bore to him Ahban and Molid."
+hebrew: "וְשֵׁ֛ם אֵ֥שֶׁת אֲבִישׁ֖וּר אֲבִיהָ֑יִל וַתֵּ֣לֶד ל֔וֹ אֶת־ אַחְבָּ֖ן וְאֶת־ מוֹלִֽיד׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABIHAIL|ABIHAIL]]"
+- "[[topic ABISHUR|ABISHUR]]"
+- "[[topic AHBAN|AHBAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H0802H]]"
+- "[[H0051]]"
+- "[[H0032H]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0257]]"
+- "[[H4140]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:29**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the name of the wife of Abishur [was] Abihail, and she bare him Ahban, and Molid.
 <small><sub>**BSB:**</sub></small>
 Abishur’s wife was named Abihail, and she bore to him Ahban and Molid.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8034\|שֵׁ֛ם]] [[H0802H\|אֵ֥שֶׁת]] [[H0051\|אֲבִישׁ֖וּר]] [[H0032H\|אֲבִיהָ֑יִל]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H0257\|אַחְבָּ֖ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4140\|מוֹלִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIHAIL|ABIHAIL]] • [[topic ABISHUR|ABISHUR]] • [[topic AHBAN|AHBAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.28|<< 1 Chronicles 2:28]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.30|1 Chronicles 2:30 >>]]</td></tr></table>
 

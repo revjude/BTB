@@ -1,8 +1,62 @@
+---
+title: Ezekiel 29:9
+type: Verse
+kjv: "And the land of Egypt shall be desolate and waste; and they shall know that I am the LORD: because he hath said, The river is mine, and I have made it."
+bsb: "The land of Egypt will become a desolate wasteland. Then they will know that I am the LORD. Because you said, ‘The Nile is mine; I made it,’"
+hebrew: "וְהָיְתָ֤ה אֶֽרֶץ־ מִצְרַ֙יִם֙ לִשְׁמָמָ֣ה וְחָרְבָּ֔ה וְיָדְע֖וּ כִּֽי־ אֲנִ֣י יְהוָ֑ה יַ֧עַן אָמַ֛ר יְאֹ֥ר לִ֖י וַאֲנִ֥י עָשִֽׂיתִי׃"
+pericope: "[[Ezek.29.8 The Desolation of Egypt|The Desolation of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H8077A]]"
+- "[[H9002]]"
+- "[[H2723]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H3282]]"
+- "[[H0559]]"
+- "[[H2975G]]"
+- "[[H9030]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 29:9**<big><big>[[Ezek.29.8 The Desolation of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land of Egypt shall be desolate and waste; and they shall know that I [am] the LORD: because he hath said, The river [is] mine, and I have made [it].
 <small><sub>**BSB:**</sub></small>
 The land of Egypt will become a desolate wasteland. Then they will know that I am the LORD. Because you said, ‘The Nile is mine; I made it,’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9005\|לִ]][[H8077A\|שְׁמָמָ֣ה]] [[H9002\|וְ]][[H2723\|חָרְבָּ֔ה]] [[H9001\|וְ]][[H3045\|יָדְע֖וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H3282\|יַ֧עַן]] [[H0559\|אָמַ֛ר]] [[H2975G\|יְאֹ֥ר]] [[H9005\|לִ֖]][[H9030\|י]] [[H9002\|וַ]][[H0589\|אֲנִ֥י]] [[H6213H\|עָשִֽׂיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.8|<< Ezekiel 29:8]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.10|Ezekiel 29:10 >>]]</td></tr></table>
 

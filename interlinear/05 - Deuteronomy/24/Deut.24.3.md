@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 24:3
+type: Verse
+kjv: "And if the latter husband hate her, and write her a bill of divorcement, and giveth it in her hand, and sendeth her out of his house; or if the latter husband die, which took her to be his wife;"
+bsb: "and the second man hates her, writes her a certificate of divorce, hands it to her, and sends her away from his house, or if he dies,"
+hebrew: "וּשְׂנֵאָהּ֮ הָאִ֣ישׁ הָאַחֲרוֹן֒ וְכָ֨תַב לָ֜הּ סֵ֤פֶר כְּרִיתֻת֙ וְנָתַ֣ן בְּיָדָ֔הּ וְשִׁלְּחָ֖הּ מִבֵּית֑וֹ א֣וֹ כִ֤י יָמוּת֙ הָאִ֣ישׁ הָאַחֲר֔וֹן אֲשֶׁר־ לְקָחָ֥הּ ל֖וֹ לְאִשָּֽׁה׃"
+pericope: "[[Deut.24.1 Marriage and Divorce Laws|Marriage and Divorce Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8130]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0314]]"
+- "[[H3789]]"
+- "[[H9005]]"
+- "[[H5612A]]"
+- "[[H3748]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H7971I]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H0176A]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:3**<big><big>[[Deut.24.1 Marriage and Divorce Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [if] the latter husband hate her, and write her a bill of divorcement, and giveth [it] in her hand, and sendeth her out of his house; or if the latter husband die, which took her [to be] his wife;
 <small><sub>**BSB:**</sub></small>
 and the second man hates her, writes her a certificate of divorce, hands it to her, and sends her away from his house, or if he dies,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H8130\|שְׂנֵאָ]][[H9034\|הּ֮]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0314\|אַחֲרוֹן֒]] [[H9001\|וְ]][[H3789\|כָ֨תַב]] [[H9005\|לָ֜]][[H9034\|הּ]] [[H5612A\|סֵ֤פֶר]] [[H3748\|כְּרִיתֻת֙]] [[H9001\|וְ]][[H5414H\|נָתַ֣ן]] [[H9003\|בְּ]][[H3027G\|יָדָ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H7971I\|שִׁלְּחָ֖]][[H9034\|הּ]] [[H9006\|מִ]][[H1004B\|בֵּית֑]][[H9023\|וֹ]] [[H0176A\|א֣וֹ]] [[H3588A\|כִ֤י]] [[H4191\|יָמוּת֙]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0314\|אַחֲר֔וֹן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3947G\|לְקָחָ֥]][[H9034\|הּ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.2|<< Deuteronomy 24:2]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.4|Deuteronomy 24:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

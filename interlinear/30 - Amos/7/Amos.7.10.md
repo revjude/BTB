@@ -1,8 +1,74 @@
+---
+title: Amos 7:10
+type: Verse
+kjv: "Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words."
+bsb: "Then Amaziah the priest of Bethel sent word to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land cannot bear all his words,"
+hebrew: "וַיִּשְׁלַ֗ח אֲמַצְיָה֙ כֹּהֵ֣ן בֵּֽית־ אֵ֔ל אֶל־ יָרָבְעָ֥ם מֶֽלֶךְ־ יִשְׂרָאֵ֖ל לֵאמֹ֑ר קָשַׁ֨ר עָלֶ֜יךָ עָמ֗וֹס בְּקֶ֙רֶב֙ בֵּ֣ית יִשְׂרָאֵ֔ל לֹא־ תוּכַ֣ל הָאָ֔רֶץ לְהָכִ֖יל אֶת־ כָּל־ דְּבָרָֽיו׃"
+pericope: "[[Amos.7.10 Amaziah Accuses Amos|Amaziah Accuses Amos]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 7
+book/chapter: "[[Amos.7|Amos 7]]"
+chronological_order: 604
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic AMAZIAH|AMAZIAH]]"
+- "[[topic AMOS|AMOS]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0558J]]"
+- "[[H3548]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H3379H]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7194]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H5986]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H1004M]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3557]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 7:10**<big><big>[[Amos.7.10 Amaziah Accuses Amos|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words.
 <small><sub>**BSB:**</sub></small>
 Then Amaziah the priest of Bethel sent word to Jeroboam king of Israel, saying, “Amos has conspired against you in the midst of the house of Israel. The land cannot bear all his words,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֗ח]] [[H0558J\|אֲמַצְיָה֙]] [[H3548\|כֹּהֵ֣ן]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֔ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3379H\|יָרָבְעָ֥ם]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H7194\|קָשַׁ֨ר]] [[H5921A\|עָלֶ֜י]][[H9031\|ךָ]] [[H5986\|עָמ֗וֹס]] [[H9003\|בְּ]][[H7130G\|קֶ֙רֶב֙]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|תוּכַ֣ל]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9005\|לְ]][[H3557\|הָכִ֖יל]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דְּבָרָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic AMAZIAH|AMAZIAH]] • [[topic AMOS|AMOS]] • [[topic JEROBOAM|JEROBOAM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.9|<< Amos 7:9]]</td><td align="center" style="border:none;">[[Amos.7|Amos 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.7.11|Amos 7:11 >>]]</td></tr></table>
 

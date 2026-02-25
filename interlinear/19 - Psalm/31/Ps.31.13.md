@@ -1,8 +1,65 @@
+---
+title: Psalm 31:13
+type: Verse
+kjv: "For I have heard the slander of many: fear was on every side: while they took counsel together against me, they devised to take away my life."
+bsb: "For I hear the slander of many; there is terror on every side. They conspire against me and plot to take my life."
+hebrew: "כִּ֤י שָׁמַ֨עְתִּי׀ דִּבַּ֥ת רַבִּים֮ מָג֪וֹר מִסָּ֫בִ֥יב בְּהִוָּסְדָ֣ם יַ֣חַד עָלַ֑י לָקַ֖חַת נַפְשִׁ֣י זָמָֽמוּ׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H9015]]"
+- "[[H1681]]"
+- "[[H7227A]]"
+- "[[H4032]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H9003]]"
+- "[[H3245]]"
+- "[[H9048]]"
+- "[[H3162A]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H3947G]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H2161]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:13**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have heard the slander of many: fear [was] on every side: while they took counsel together against me, they devised to take away my life.
 <small><sub>**BSB:**</sub></small>
 For I hear the slander of many; there is terror on every side. They conspire against me and plot to take my life.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H8085G\|שָׁמַ֨עְתִּי]][[H9015\|׀]] [[H1681\|דִּבַּ֥ת]] [[H7227A\|רַבִּים֮]] [[H4032\|מָג֪וֹר]] [[H9006\|מִ]][[H5439H\|סָּ֫בִ֥יב]] [[H9003\|בְּ]][[H3245\|הִוָּסְדָ֣]][[H9048\|ם]] [[H3162A\|יַ֣חַד]] [[H5921A\|עָלַ֑]][[H9030\|י]] [[H9005\|לָ]][[H3947G\|קַ֖חַת]] [[H5315H\|נַפְשִׁ֣]][[H9020\|י]] [[H2161\|זָמָֽמוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.12|<< Psalms 31:12]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.14|Psalms 31:14 >>]]</td></tr></table>
 

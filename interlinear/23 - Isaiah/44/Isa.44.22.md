@@ -1,8 +1,59 @@
+---
+title: Isaiah 44:22
+type: Verse
+kjv: "I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee."
+bsb: "I have blotted out your transgressions like a cloud, and your sins like a mist. Return to Me, for I have redeemed you."
+hebrew: "מָחִ֤יתִי כָעָב֙ פְּשָׁעֶ֔יךָ וְכֶעָנָ֖ן חַטֹּאותֶ֑יךָ שׁוּבָ֥ה אֵלַ֖י כִּ֥י גְאַלְתִּֽיךָ׃"
+pericope: "[[Isa.44.21 Jerusalem to Be Restored|Jerusalem to Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H4229A]]"
+- "[[H9004]]"
+- "[[H5645]]"
+- "[[H6588]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6051]]"
+- "[[H2403B]]"
+- "[[H7725G]]"
+- "[[H9012]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H1350A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:22**<big><big>[[Isa.44.21 Jerusalem to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have blotted out, as a thick cloud, thy transgressions, and, as a cloud, thy sins: return unto me; for I have redeemed thee.
 <small><sub>**BSB:**</sub></small>
 I have blotted out your transgressions like a cloud, and your sins like a mist. Return to Me, for I have redeemed you.
+<small><sub>**Hebrew:**</sub></small>
+[[H4229A\|מָחִ֤יתִי]] [[H9004\|כָ]][[H5645\|עָב֙]] [[H6588\|פְּשָׁעֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H9004\|כֶ]][[H6051\|עָנָ֖ן]] [[H2403B\|חַטֹּאותֶ֑י]][[H9021\|ךָ]] [[H7725G\|שׁוּבָ֥]][[H9012\|ה]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H3588A\|כִּ֥י]] [[H1350A\|גְאַלְתִּֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.21|<< Isaiah 44:21]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.23|Isaiah 44:23 >>]]</td></tr></table>
 

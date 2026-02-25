@@ -1,8 +1,47 @@
+---
+title: Job 1:2
+type: Verse
+kjv: "And there were born unto him seven sons and three daughters."
+bsb: "He had seven sons and three daughters,"
+hebrew: "וַיִּוָּ֥לְדוּ ל֛וֹ שִׁבְעָ֥ה בָנִ֖ים וְשָׁל֥וֹשׁ בָּנֽוֹת׃"
+pericope: "[[Job.1.1 Job’s Character and Wealth|Job’s Character and Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7651]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 1:2**<big><big>[[Job.1.1 Job’s Character and Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there were born unto him seven sons and three daughters.
 <small><sub>**BSB:**</sub></small>
 He had seven sons and three daughters,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|יִּוָּ֥לְדוּ]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H7651\|שִׁבְעָ֥ה]] [[H1121A\|בָנִ֖ים]] [[H9002\|וְ]][[H7969\|שָׁל֥וֹשׁ]] [[H1323G\|בָּנֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.1|<< Job 1:1]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.3|Job 1:3 >>]]</td></tr></table>
 

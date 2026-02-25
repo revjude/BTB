@@ -1,8 +1,72 @@
+---
+title: Jeremiah 29:18
+type: Verse
+kjv: "And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them:"
+bsb: "I will pursue them with sword and famine and plague. I will make them a horror to all the kingdoms of the earth—a curse, a desolation, and an object of scorn and reproach among all the nations to which I banish them."
+hebrew: "וְרָֽדַפְתִּי֙ אַֽחֲרֵיהֶ֔ם בַּחֶ֖רֶב בָּרָעָ֣ב וּבַדָּ֑בֶר וּנְתַתִּ֨ים לְזַעֲוָ֜ה לְכֹ֣ל׀ מַמְלְכ֣וֹת הָאָ֗רֶץ לְאָלָ֤ה וּלְשַׁמָּה֙ וְלִשְׁרֵקָ֣ה וּלְחֶרְפָּ֔ה בְּכָל־ הַגּוֹיִ֖ם אֲשֶׁר־ הִדַּחְתִּ֥ים שָֽׁם׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H9002]]"
+- "[[H1698]]"
+- "[[H5414I]]"
+- "[[H9005]]"
+- "[[H2113]]"
+- "[[H2189]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H4467]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0423]]"
+- "[[H8047H]]"
+- "[[H8322]]"
+- "[[H2781]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H5080]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 29:18**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them:
 <small><sub>**BSB:**</sub></small>
 I will pursue them with sword and famine and plague. I will make them a horror to all the kingdoms of the earth—a curse, a desolation, and an object of scorn and reproach among all the nations to which I banish them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7291\|רָֽדַפְתִּי֙]] [[H0310A\|אַֽחֲרֵי]][[H9038\|הֶ֔ם]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H9003\|בָּ]][[H7458\|רָעָ֣ב]] [[H9002\|וּ]][[H9003\|בַ]][[H1698\|דָּ֑בֶר]] [[H9001\|וּ]][[H5414I\|נְתַתִּ֨י]][[H9038\|ם]] [[H9005\|לְ]][[H2189\|זַעֲוָ֜ה]] [[H9005\|לְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H4467\|מַמְלְכ֣וֹת]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H9005\|לְ]][[H0423\|אָלָ֤ה]] [[H9002\|וּ]][[H9005\|לְ]][[H8047H\|שַׁמָּה֙]] [[H9002\|וְ]][[H9005\|לִ]][[H8322\|שְׁרֵקָ֣ה]] [[H9002\|וּ]][[H9005\|לְ]][[H2781\|חֶרְפָּ֔ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5080\|הִדַּחְתִּ֥י]][[H9038\|ם]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVITY|CAPTIVITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.17|<< Jeremiah 29:17]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.19|Jeremiah 29:19 >>]]</td></tr></table>
 
@@ -29,7 +93,7 @@ I will pursue them with sword and famine and plague. I will make them a horror t
 | there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.17|<< Jeremiah 29:17]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.19|Jeremiah 29:19 >>]]</td></tr></table>
 
-[^1]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
-[^2]: into a terror  | **<big>[[H2113|זְוָעָה]]</big><big>[[H9005|לִ]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^1]: into a terror  | **<big>[[H9005|לִ]]</big><big>[[H2113|זְוָעָה]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: into a terror  | **<big>[[H9005|לִ]]</big><big>[[H2113|זְוָעָה]]</big> ** | li<small><sup>[[HR]]</sup></small> z.va.'ah<small><sup>[[HNcfsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>לְזַוֲעָ֜ה</big></span>**
 

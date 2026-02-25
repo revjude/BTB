@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gamaliel’s Advice
+type: Pericope
 pericope: "[[Acts.5.33 Gamaliel’s Advice|Gamaliel’s Advice]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 5
 book/chapter: "[[Acts.5|Acts 5]]"
-genre:
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.5.33]]"
 - "[[Acts.5.34]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.5.42]]"
 ---
 
-[[Acts.5|Acts 5:33 - Acts 5:42]]
+<small>[[Acts.5|Acts 5:33-42]]</small>
 *Gamaliel’s Advice*
 
 [[Acts.5.33|33]] When they heard \[that\], they were cut \[to the heart\], and took counsel to slay them.

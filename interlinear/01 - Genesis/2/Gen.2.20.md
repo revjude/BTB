@@ -1,8 +1,69 @@
+---
+title: Genesis 2:20
+type: Verse
+kjv: "And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him."
+bsb: "The man gave names to all the livestock, to the birds of the air, and to every beast of the field. But for Adam no suitable helper was found."
+hebrew: "וַיִּקְרָ֨א הָֽאָדָ֜ם שֵׁמ֗וֹת לְכָל־ הַבְּהֵמָה֙ וּלְע֣וֹף הַשָּׁמַ֔יִם וּלְכֹ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה וּלְאָדָ֕ם לֹֽא־ מָצָ֥א עֵ֖זֶר כְּנֶגְדּֽוֹ׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H8034]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0929]]"
+- "[[H9002]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H0121G]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H5828]]"
+- "[[H9004]]"
+- "[[H5048]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:20**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
 <small><sub>**BSB:**</sub></small>
 The man gave names to all the livestock, to the birds of the air, and to every beast of the field. But for Adam no suitable helper was found.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֨א]] [[H9009\|הָֽ]][[H0120H\|אָדָ֜ם]] [[H8034\|שֵׁמ֗וֹת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָה֙]] [[H9002\|וּ]][[H9005\|לְ]][[H5775\|ע֣וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H2416C\|חַיַּ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֑ה]] [[H9002\|וּ]][[H9005\|לְ]][[H0121G\|אָדָ֕ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4672\|מָצָ֥א]] [[H5828\|עֵ֖זֶר]] [[H9004\|כְּ]][[H5048\|נֶגְדּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic ANIMALS|ANIMALS]] • [[topic GOD|GOD]] • [[topic MAN|MAN]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.19|<< Genesis 2:19]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.21|Genesis 2:21 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Luke 19:7
+type: Verse
+kjv: "And when they saw it, they all murmured, saying, That he was gone to be guest with a man that is a sinner."
+bsb: "And all who saw this began to grumble, saying, “He has gone to be the guest of a sinful man!”"
+greek: "καὶ ἰδόντες πάντες διεγόγγυζον λέγοντες ὅτι παρὰ ἁμαρτωλῷ ἀνδρὶ εἰσῆλθεν καταλῦσαι.¶"
+pericope: "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G3956]]"
+- "[[G1234]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3844]]"
+- "[[G0268]]"
+- "[[G0435G]]"
+- "[[G1525]]"
+- "[[G2647]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 19:7**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they saw [it], they all murmured, saying, That he was gone to be guest with a man that is a sinner.
 <small><sub>**BSB:**</sub></small>
 And all who saw this began to grumble, saying, “He has gone to be the guest of a sinful man!”
-<small><sub>**Literal:**</sub></small>
-And having seen [it] all were grumbling saying that With a sinful man He has entered to stay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.6|<< Luke 19:6]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.8|Luke 19:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1492H\|ἰδόντες]]  [[G3956\|πάντες]]  [[G1234\|διεγόγγυζον]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G3844\|παρὰ]]  [[G0268\|ἁμαρτωλῷ]]  [[G0435G\|ἀνδρὶ]]  [[G1525\|εἰσῆλθεν]]  [[G2647\|καταλῦσαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUBLICANS|PUBLICANS]] • [[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.6|<< Luke 19:6]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.8|Luke 19:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

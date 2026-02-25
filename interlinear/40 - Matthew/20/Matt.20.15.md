@@ -1,10 +1,71 @@
+---
+title: Matthew 20:15
+type: Verse
+kjv: "Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?"
+bsb: "Do I not have the right to do as I please with what is mine? Or are you envious because I am generous?’"
+jesus_said: "Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?"
+greek: "ἢ οὐκ ἔξεστίν μοι ὃ θέλω ποιῆσαι ἐν τοῖς ἐμοῖς; ἢ ὁ ὀφθαλμός σου πονηρός ἐστιν ὅτι ἐγὼ ἀγαθός εἰμι;"
+pericope: "[[Matt.20.1 The Parable of the Workers|The Parable of the Workers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2228]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G2309]]"
+- "[[G4160G]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G3788]]"
+- "[[G4771]]"
+- "[[G4190]]"
+- "[[G1510]]"
+- "[[G3754H]]"
+- "[[G0018]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 20:15**<big><big>[[Matt.20.1 The Parable of the Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Is it not lawful for me to do what I will with mine own? Is thine eye evil, because I am good?
 <small><sub>**BSB:**</sub></small>
 Do I not have the right to do as I please with what is mine? Or are you envious because I am generous?’
-<small><sub>**Literal:**</sub></small>
-Or surely it is lawful for me what I want to do with that which [is] mine? Or the eye of you envious is because I myself generous am?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.14|<< Matthew 20:14]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.16|Matthew 20:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G3756\|οὐκ]]  [[G1832\|ἔξεστίν]]  [[G3165\|μοι]]  [[G3739\|ὃ]]  [[G2309\|θέλω]]  [[G4160G\|ποιῆσαι]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G1473\|ἐμοῖς;]]  [[G2228\|ἢ]]  [[G3588\|ὁ]]  [[G3788\|ὀφθαλμός]]  [[G4771\|σου]]  [[G4190\|πονηρός]]  [[G1510\|ἐστιν]]  [[G3754H\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G0018\|ἀγαθός]]  [[G1510\|εἰμι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic LABOR|LABOR]] • [[topic REWARD|REWARD]] • [[topic SERVANT|SERVANT]] • [[topic VINEYARD|VINEYARD]] • [[topic WAGES|WAGES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.14|<< Matthew 20:14]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.16|Matthew 20:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

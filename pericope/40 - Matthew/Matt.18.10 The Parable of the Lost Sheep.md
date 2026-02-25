@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Lost Sheep
+type: Pericope
 pericope: "[[Matt.18.10 The Parable of the Lost Sheep|The Parable of the Lost Sheep]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 18
 book/chapter: "[[Matt.18|Matthew 18]]"
-genre:
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.18.10]]"
 - "[[Matt.18.12]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.18.14]]"
 ---
 
-[[Matt.18|Matthew 18:10 - Matthew 18:14]]
+<small>[[Matt.18|Matthew 18:10-14]]</small>
 *The Parable of the Lost Sheep*
 
 [[Matt.18.10|10]] Take heed that ye despise not one of these little ones; for I say unto you, That in heaven their angels do always behold the face of my Father which is in heaven.

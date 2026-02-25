@@ -1,8 +1,68 @@
+---
+title: Judges 18:30
+type: Verse
+kjv: "And the children of Dan set up the graven image: and Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of Dan until the day of the captivity of the land."
+bsb: "The Danites set up idols for themselves, and Jonathan son of Gershom, the son of Moses, and his sons were priests for the tribe of Dan until the day of the captivity of the land."
+hebrew: "וַיָּקִ֧ימוּ לָהֶ֛ם בְּנֵי־ דָ֖ן אֶת־ הַפָּ֑סֶל וִ֠יהוֹנָתָן בֶּן־ גֵּרְשֹׁ֨ם בֶּן־ מְנַשֶּׁ֜ה ה֣וּא וּבָנָ֗יו הָי֤וּ כֹהֲנִים֙ לְשֵׁ֣בֶט הַדָּנִ֔י עַד־ י֖וֹם גְּל֥וֹת הָאָֽרֶץ׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GERSHOM|GERSHOM]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1835G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H6459]]"
+- "[[H9002]]"
+- "[[H3083G]]"
+- "[[H1121A]]"
+- "[[H1647G]]"
+- "[[H4519K]]"
+- "[[H1931]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H3548]]"
+- "[[H7626H]]"
+- "[[H1839]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H1540K]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:30**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Dan set up the graven image: and Jonathan, the son of Gershom, the son of Manasseh, he and his sons were priests to the tribe of Dan until the day of the captivity of the land.
 <small><sub>**BSB:**</sub></small>
 The Danites set up idols for themselves, and Jonathan son of Gershom, the son of Moses, and his sons were priests for the tribe of Dan until the day of the captivity of the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|יָּקִ֧ימוּ]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H1835G\|דָ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6459\|פָּ֑סֶל]] [[H9002\|וִ֠]][[H3083G\|יהוֹנָתָן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1647G\|גֵּרְשֹׁ֨ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4519K\|מְנַשֶּׁ֜ה]] [[H1931\|ה֣וּא]] [[H9002\|וּ]][[H1121A\|בָנָ֗י]][[H9023\|ו]] [[H1961\|הָי֤וּ]] [[H3548\|כֹהֲנִים֙]] [[H9005\|לְ]][[H7626H\|שֵׁ֣בֶט]] [[H9009\|הַ]][[H1839\|דָּנִ֔י]] [[H5704\|עַד]][[H9014\|־]] [[H3117G\|י֖וֹם]] [[H1540K\|גְּל֥וֹת]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHOM|GERSHOM]] • [[topic JONATHAN|JONATHAN]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.29|<< Judges 18:29]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.31|Judges 18:31 >>]]</td></tr></table>
 

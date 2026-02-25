@@ -1,10 +1,58 @@
+---
+title: Luke 5:9
+type: Verse
+kjv: "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:"
+bsb: "For he and his companions were astonished at the catch of fish they had taken,"
+greek: "θάμβος γὰρ περιέσχεν αὐτὸν καὶ πάντας τοὺς σὺν αὐτῷ ἐπὶ τῇ ἄγρᾳ τῶν ἰχθύων ὧν συνέλαβον,"
+pericope: "[[Luke.5.1 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2285]]"
+- "[[G1063]]"
+- "[[G4023]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4862]]"
+- "[[G1909]]"
+- "[[G0061]]"
+- "[[G2486]]"
+- "[[G3739]]"
+- "[[G4815]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 5:9**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he was astonished, and all that were with him, at the draught of the fishes which they had taken:
 <small><sub>**BSB:**</sub></small>
 For he and his companions were astonished at the catch of fish they had taken,
-<small><sub>**Literal:**</sub></small>
-Amazement for laid hold on him and on all those with him at the catch of the fish which they had taken,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.8|<< Luke 5:8]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.10|Luke 5:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2285\|θάμβος]]  [[G1063\|γὰρ]]  [[G4023\|περιέσχεν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῇ]]  [[G0061\|ἄγρᾳ]]  [[G3588\|τῶν]]  [[G2486\|ἰχθύων]]  [[G3739\|ὧν]]  [[G4815\|συνέλαβον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.8|<< Luke 5:8]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.10|Luke 5:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

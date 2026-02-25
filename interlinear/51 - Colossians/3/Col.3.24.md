@@ -1,10 +1,55 @@
+---
+title: Colossians 3:24
+type: Verse
+kjv: "Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ."
+bsb: "because you know that you will receive an inheritance from the Lord as your reward. It is the Lord Christ you are serving."
+greek: "εἰδότες ὅτι ἀπὸ κυρίου ἀπολήμψεσθε τὴν ἀνταπόδοσιν τῆς κληρονομίας· τῷ γὰρ κυρίῳ Χριστῷ δουλεύετε."
+pericope: "[[Col.3.22 Serving with Honor|Serving with Honor]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G0575]]"
+- "[[G2962G]]"
+- "[[G0618]]"
+- "[[G3588]]"
+- "[[G0469]]"
+- "[[G2817]]"
+- "[[G1063]]"
+- "[[G5547]]"
+- "[[G1398]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **Colossians 3:24**<big><big>[[Col.3.22 Serving with Honor|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Knowing that of the Lord ye shall receive the reward of the inheritance: for ye serve the Lord Christ.
 <small><sub>**BSB:**</sub></small>
 because you know that you will receive an inheritance from the Lord as your reward. It is the Lord Christ you are serving.
-<small><sub>**Literal:**</sub></small>
-knowing that from [the] Lord you will receive the reward of the inheritance; The for Lord Christ you serve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.23|<< Colossians 3:23]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.25|Colossians 3:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G0575\|ἀπὸ]]  [[G2962G\|κυρίου]]  [[G0618\|ἀπολήμψεσθε]]  [[G3588\|τὴν]]  [[G0469\|ἀνταπόδοσιν]]  [[G3588\|τῆς]]  [[G2817\|κληρονομίας·]]  [[G3588\|τῷ]]  [[G1063\|γὰρ]]  [[G2962G\|κυρίῳ]]  [[G5547\|Χριστῷ]]  [[G1398\|δουλεύετε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.23|<< Colossians 3:23]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.25|Colossians 3:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,56 @@
+---
+title: Amos 5:4
+type: Verse
+kjv: "For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:"
+bsb: "For this is what the LORD says to the house of Israel: “Seek Me and live!"
+hebrew: "כִּ֣י כֹ֥ה אָמַ֛ר יְהוָ֖ה לְבֵ֣ית יִשְׂרָאֵ֑ל דִּרְשׁ֖וּנִי וִֽחְיֽוּ׃"
+pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H1875]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:4**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD unto the house of Israel, Seek ye me, and ye shall live:
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says to the house of Israel: “Seek Me and live!
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֥ה]] [[H0559\|אָמַ֛ר]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H1875\|דִּרְשׁ֖וּ]][[H9030\|נִי]] [[H9002\|וִֽ]][[H2421\|חְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.3|<< Amos 5:3]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.5|Amos 5:5 >>]]</td></tr></table>
 

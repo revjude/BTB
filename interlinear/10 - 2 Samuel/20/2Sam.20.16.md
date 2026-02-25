@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 20:16
+type: Verse
+kjv: "Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab, Come near hither, that I may speak with thee."
+bsb: "a wise woman called out from the city, “Listen! Listen! Please tell Joab to come here so that I may speak with him.”"
+hebrew: "וַתִּקְרָ֛א אִשָּׁ֥ה חֲכָמָ֖ה מִן־ הָעִ֑יר שִׁמְע֤וּ שִׁמְעוּ֙ אִמְרוּ־ נָ֣א אֶל־ יוֹאָ֔ב קְרַ֣ב עַד־ הֵ֔נָּה וַאֲדַבְּרָ֖ה אֵלֶֽיךָ׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]]"
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0802G]]"
+- "[[H2450]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H8085G]]"
+- "[[H0559]]"
+- "[[H4994]]"
+- "[[H0413]]"
+- "[[H3097G]]"
+- "[[H7126G]]"
+- "[[H5704]]"
+- "[[H2008]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:16**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab, Come near hither, that I may speak with thee.
 <small><sub>**BSB:**</sub></small>
 a wise woman called out from the city, “Listen! Listen! Please tell Joab to come here so that I may speak with him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|תִּקְרָ֛א]] [[H0802G\|אִשָּׁ֥ה]] [[H2450\|חֲכָמָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H8085G\|שִׁמְע֤וּ]] [[H8085G\|שִׁמְעוּ֙]] [[H0559\|אִמְרוּ]][[H9014\|־]] [[H4994\|נָ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H3097G\|יוֹאָ֔ב]] [[H7126G\|קְרַ֣ב]] [[H5704\|עַד]][[H9014\|־]] [[H2008\|הֵ֔נָּה]] [[H9002\|וַ]][[H1696G\|אֲדַבְּרָ֖ה]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]] • [[topic ABISHAI|ABISHAI]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JOAB|JOAB]] • [[topic POLITICS|POLITICS]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.15|<< 2 Samuel 20:15]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.17|2 Samuel 20:17 >>]]</td></tr></table>
 

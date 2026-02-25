@@ -1,10 +1,65 @@
+---
+title: Matthew 28:9
+type: Verse
+kjv: "And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him."
+bsb: "Suddenly Jesus met them and said, “Greetings!” They came to Him, grasped His feet, and worshiped Him."
+jesus_said: "All hail."
+greek: "Ὡς δὲ ἐπορεύοντο ἀπαγγεῖλαι τοῖς μαθηταῖς αὐτοῦ καὶ ἰδοὺ ὁ Ἰησοῦς ὑπήντησεν αὐταῖς λέγων· χαίρετε. αἱ δὲ προσελθοῦσαι ἐκράτησαν αὐτοῦ τοὺς πόδας καὶ προσεκύνησαν αὐτῷ.¶"
+pericope: "[[Matt.28.1 The Resurrection|The Resurrection]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic SALUTATIONS|SALUTATIONS]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G4198]]"
+- "[[G0518]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G2424G]]"
+- "[[G5221]]"
+- "[[G3004G]]"
+- "[[G5463]]"
+- "[[G4334]]"
+- "[[G2902]]"
+- "[[G4228]]"
+- "[[G4352]]"
+texts:
+- K
+- NKO
+- ko
+- N(k)O
+---
+
 **Matthew 28:9**<big><big>[[Matt.28.1 The Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him.
 <small><sub>**BSB:**</sub></small>
 Suddenly Jesus met them and said, “Greetings!” They came to Him, grasped His feet, and worshiped Him.
-<small><sub>**Literal:**</sub></small>
-about now were going to report to the disciples of him And behold <the> Jesus met with them saying; Greetings! <the> And having come to [Him] they took hold of His <the> feet and worshiped Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.8|<< Matthew 28:8]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.10|Matthew 28:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G4198\|ἐπορεύοντο]]  [[G0518\|ἀπαγγεῖλαι]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G5221\|ὑπήντησεν]]  [[G0846\|αὐταῖς]]  [[G3004G\|λέγων·]]  [[G5463\|χαίρετε.]]  [[G3588\|αἱ]]  [[G1161\|δὲ]]  [[G4334\|προσελθοῦσαι]]  [[G2902\|ἐκράτησαν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G2532\|καὶ]]  [[G4352\|προσεκύνησαν]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]] • [[topic SALUTATIONS|SALUTATIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.8|<< Matthew 28:8]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.10|Matthew 28:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: 1 Corinthians 4:17
+type: Verse
+kjv: "For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church."
+bsb: "That is why I have sent you Timothy, my beloved and faithful child in the Lord. He will remind you of my way of life in Christ Jesus, which is exactly what I teach everywhere in every church."
+greek: "διὰ τοῦτο ἔπεμψα ὑμῖν Τιμόθεον, ὅς ἐστίν μου τέκνον ἀγαπητὸν καὶ πιστὸν ἐν κυρίῳ, ὃς ὑμᾶς ἀναμνήσει τὰς ὁδούς μου τὰς ἐν Χριστῷ Ἰησοῦ, καθὼς πανταχοῦ ἐν πάσῃ ἐκκλησίᾳ διδάσκω.¶"
+pericope: "[[1Cor.4.14 Paul’s Fatherly Warning|Paul’s Fatherly Warning]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 4
+book/chapter: "[[1Cor.4|1 Corinthians 4]]"
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic TIMOTHY|TIMOTHY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3992]]"
+- "[[G4771]]"
+- "[[G5095]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G5043]]"
+- "[[G0027]]"
+- "[[G2532]]"
+- "[[G4103]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G0363]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G2531]]"
+- "[[G3837]]"
+- "[[G3956]]"
+- "[[G1577]]"
+- "[[G1321]]"
+texts:
+- NKO
+- NO
+---
+
 **1 Corinthians 4:17**<big><big>[[1Cor.4.14 Paul’s Fatherly Warning|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.
 <small><sub>**BSB:**</sub></small>
 That is why I have sent you Timothy, my beloved and faithful child in the Lord. He will remind you of my way of life in Christ Jesus, which is exactly what I teach everywhere in every church.
-<small><sub>**Literal:**</sub></small>
-On account of this I sent to you Timothy, who is my child beloved and faithful in [the] Lord, who you will remind of the ways of mine that [are] in Christ Jesus, even as everywhere in every church I teach.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.16|<< 1 Corinthians 4:16]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.18|1 Corinthians 4:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3992\|ἔπεμψα]]  [[G4771\|ὑμῖν]]  [[G5095\|Τιμόθεον,]]  [[G3739\|ὅς]]  [[G1510\|ἐστίν]]  [[G3165\|μου]]  [[G5043\|τέκνον]]  [[G0027\|ἀγαπητὸν]]  [[G2532\|καὶ]]  [[G4103\|πιστὸν]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ,]]  [[G3739\|ὃς]]  [[G4771\|ὑμᾶς]]  [[G0363\|ἀναμνήσει]]  [[G3588\|τὰς]]  [[G3598\|ὁδούς]]  [[G3165\|μου]]  [[G3588\|τὰς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ,]]  [[G2531\|καθὼς]]  [[G3837\|πανταχοῦ]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G1577\|ἐκκλησίᾳ]]  [[G1321\|διδάσκω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TIMOTHY|TIMOTHY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.4.16|<< 1 Corinthians 4:16]]</td><td align="center" style="border:none;">[[1Cor.4|1 Corinthians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.4.18|1 Corinthians 4:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

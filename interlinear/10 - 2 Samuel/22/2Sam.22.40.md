@@ -1,8 +1,47 @@
+---
+title: 2 Samuel 22:40
+type: Verse
+kjv: "For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me."
+bsb: "You have armed me with strength for battle; You have subdued my foes beneath me."
+hebrew: "וַתַּזְרֵ֥נִי חַ֖יִל לַמִּלְחָמָ֑ה תַּכְרִ֥יעַ קָמַ֖י תַּחְתֵּֽנִי׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H9001]]"
+- "[[H0247]]"
+- "[[H9030]]"
+- "[[H2428G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H3766]]"
+- "[[H6965J]]"
+- "[[H8478G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:40**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me.
 <small><sub>**BSB:**</sub></small>
 You have armed me with strength for battle; You have subdued my foes beneath me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0247\|תַּזְרֵ֥]][[H9030\|נִי]] [[H2428G\|חַ֖יִל]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H3766\|תַּכְרִ֥יעַ]] [[H6965J\|קָמַ֖]][[H9030\|י]] [[H8478G\|תַּחְתֵּֽ]][[H9030\|נִי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.39|<< 2 Samuel 22:39]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.41|2 Samuel 22:41 >>]]</td></tr></table>
 

@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel’s Vision of the Son of Man
+type: Pericope
 pericope: "[[Dan.7.13 Daniel’s Vision of the Son of Man|Daniel’s Vision of the Son of Man]]"
-verse_count: 2
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 7
 book/chapter: "[[Dan.7|Daniel 7]]"
-genre:
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 2
 verses:
 - "[[Dan.7.13]]"
 - "[[Dan.7.14]]"
 ---
 
-[[Dan.7|Daniel 7:13 - Daniel 7:14]]
+<small>[[Dan.7|Daniel 7:13-14]]</small>
 *Daniel’s Vision of the Son of Man*
 
 [[Dan.7.13|13]] I saw in the night visions, and, behold, \[one\] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.

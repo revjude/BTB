@@ -1,8 +1,76 @@
+---
+title: Genesis 23:16
+type: Verse
+kjv: "And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current money with the merchant."
+bsb: "Abraham agreed to Ephron’s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the standard of the merchants."
+hebrew: "וַיִּשְׁמַ֣ע אַבְרָהָם֮ אֶל־ עֶפְרוֹן֒ וַיִּשְׁקֹ֤ל אַבְרָהָם֙ לְעֶפְרֹ֔ן אֶת־ הַכֶּ֕סֶף אֲשֶׁ֥ר דִּבֶּ֖ר בְּאָזְנֵ֣י בְנֵי־ חֵ֑ת אַרְבַּ֤ע מֵאוֹת֙ שֶׁ֣קֶל כֶּ֔סֶף עֹבֵ֖ר לַסֹּחֵֽר׃"
+pericope: "[[Gen.23.1 The Death and Burial of Sarah|The Death and Burial of Sarah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 23
+book/chapter: "[[Gen.23|Genesis 23]]"
+chronological_order: 65
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic EPHRON|EPHRON]]"
+- "[[topic GATES|GATES]]"
+- "[[topic HETH|HETH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0085]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6085G]]"
+- "[[H8254]]"
+- "[[H9005]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H1121G]]"
+- "[[H2845]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H8255]]"
+- "[[H5674A]]"
+- "[[H5503]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 23:16**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current [money] with the merchant.
 <small><sub>**BSB:**</sub></small>
 Abraham agreed to Ephron’s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the standard of the merchants.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֣ע]] [[H0085\|אַבְרָהָם֮]] [[H0413\|אֶל]][[H9014\|־]] [[H6085G\|עֶפְרוֹן֒]] [[H9001\|וַ]][[H8254\|יִּשְׁקֹ֤ל]] [[H0085\|אַבְרָהָם֙]] [[H9005\|לְ]][[H6085G\|עֶפְרֹ֔ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֕סֶף]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696I\|דִּבֶּ֖ר]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֣י]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H2845\|חֵ֑ת]] [[H0702\|אַרְבַּ֤ע]] [[H3967\|מֵאוֹת֙]] [[H8255\|שֶׁ֣קֶל]] [[H3701G\|כֶּ֔סֶף]] [[H5674A\|עֹבֵ֖ר]] [[H9005\|לַ]][[H5503\|סֹּחֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CAVE|CAVE]] • [[topic COMMERCE|COMMERCE]] • [[topic EPHRON|EPHRON]] • [[topic GATES|GATES]] • [[topic HETH|HETH]] • [[topic LAND|LAND]] • [[topic MERCHANT|MERCHANT]] • [[topic MONEY|MONEY]] • [[topic SILVER|SILVER]] • [[topic WITNESS|WITNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.15|<< Genesis 23:15]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.17|Genesis 23:17 >>]]</td></tr></table>
 

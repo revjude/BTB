@@ -1,8 +1,57 @@
+---
+title: 2 Kings 15:23
+type: Verse
+kjv: "In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, and reigned two years."
+bsb: "In the fiftieth year of Azariah’s reign over Judah, Pekahiah son of Menahem became king of Israel and reigned in Samaria two years."
+hebrew: "בִּשְׁנַת֙ חֲמִשִּׁ֣ים שָׁנָ֔ה לַעֲזַרְיָ֖ה מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַךְ פְּקַֽחְיָ֨ה בֶן־ מְנַחֵ֧ם עַל־ יִשְׂרָאֵ֛ל בְּשֹׁמְר֖וֹן שְׁנָתָֽיִם׃"
+pericope: "[[2Kgs.15.23 Pekahiah Reigns in Israel|Pekahiah Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic PEKAHIAH|PEKAHIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H2572]]"
+- "[[H9005]]"
+- "[[H5838x]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H6494]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H4505]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:23**<big><big>[[2Kgs.15.23 Pekahiah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, [and reigned] two years.
 <small><sub>**BSB:**</sub></small>
 In the fiftieth year of Azariah’s reign over Judah, Pekahiah son of Menahem became king of Israel and reigned in Samaria two years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַת֙]] [[H2572\|חֲמִשִּׁ֣ים]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H5838x\|עֲזַרְיָ֖ה]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H4427A\|מָ֠לַךְ]] [[H6494\|פְּקַֽחְיָ֨ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H4505\|מְנַחֵ֧ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9003\|בְּ]][[H8111\|שֹׁמְר֖וֹן]] [[H8141\|שְׁנָתָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic PEKAHIAH|PEKAHIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.22|<< 2 Kings 15:22]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.24|2 Kings 15:24 >>]]</td></tr></table>
 

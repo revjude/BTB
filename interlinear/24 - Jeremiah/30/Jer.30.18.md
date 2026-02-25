@@ -1,8 +1,67 @@
+---
+title: Jeremiah 30:18
+type: Verse
+kjv: "Thus saith the LORD; Behold, I will bring again the captivity of Jacob’s tents, and have mercy on his dwellingplaces; and the city shall be builded upon her own heap, and the palace shall remain after the manner thereof."
+bsb: "This is what the LORD says: “I will restore the fortunes of Jacob’s tents and have compassion on his dwellings. And the city will be rebuilt on her own ruins, and the palace will stand in its rightful place."
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה הִנְנִי־ שָׁב֙ שְׁבוּת֙ אָהֳלֵ֣י יַֽעֲק֔וֹב וּמִשְׁכְּנֹתָ֖יו אֲרַחֵ֑ם וְנִבְנְתָ֥ה עִיר֙ עַל־ תִּלָּ֔הּ וְאַרְמ֖וֹן עַל־ מִשְׁפָּט֥וֹ יֵשֵֽׁב׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H9014]]"
+- "[[H7725H]]"
+- "[[H7622]]"
+- "[[H0168G]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H4908]]"
+- "[[H9023]]"
+- "[[H7355]]"
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H5892B]]"
+- "[[H5921A]]"
+- "[[H8510]]"
+- "[[H9024]]"
+- "[[H0759G]]"
+- "[[H4941I]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:18**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Behold, I will bring again the captivity of Jacob’s tents, and have mercy on his dwellingplaces; and the city shall be builded upon her own heap, and the palace shall remain after the manner thereof.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “I will restore the fortunes of Jacob’s tents and have compassion on his dwellings. And the city will be rebuilt on her own ruins, and the palace will stand in its rightful place.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H2005\|הִנְ]][[H9040\|נִי]][[H9014\|־]] [[H7725H\|שָׁב֙]] [[H7622\|שְׁבוּת֙]] [[H0168G\|אָהֳלֵ֣י]] [[H3290\|יַֽעֲק֔וֹב]] [[H9002\|וּ]][[H4908\|מִשְׁכְּנֹתָ֖י]][[H9023\|ו]] [[H7355\|אֲרַחֵ֑ם]] [[H9001\|וְ]][[H1129\|נִבְנְתָ֥ה]] [[H5892B\|עִיר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H8510\|תִּלָּ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H0759G\|אַרְמ֖וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H4941I\|מִשְׁפָּט֥]][[H9023\|וֹ]] [[H3427\|יֵשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.17|<< Jeremiah 30:17]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.19|Jeremiah 30:19 >>]]</td></tr></table>
 

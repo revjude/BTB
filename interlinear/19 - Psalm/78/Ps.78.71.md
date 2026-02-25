@@ -1,8 +1,60 @@
+---
+title: Psalm 78:71
+type: Verse
+kjv: "From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance."
+bsb: "from tending the ewes He brought him to be shepherd of His people Jacob, of Israel His inheritance."
+hebrew: "מֵאַחַ֥ר עָל֗וֹת הֱ֫בִיא֥וֹ לִ֭רְעוֹת בְּיַעֲקֹ֣ב עַמּ֑וֹ וּ֝בְיִשְׂרָאֵ֗ל נַחֲלָתֽוֹ׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic PROMOTION|PROMOTION]]"
+strongs:
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H5763]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H7462B]]"
+- "[[H9003]]"
+- "[[H3290]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H5159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:71**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From following the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.
 <small><sub>**BSB:**</sub></small>
 from tending the ewes He brought him to be shepherd of His people Jacob, of Israel His inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H0310A\|אַחַ֥ר]] [[H5763\|עָל֗וֹת]] [[H0935P\|הֱ֫בִיא֥]][[H9033\|וֹ]] [[H9005\|לִ֭]][[H7462B\|רְעוֹת]] [[H9003\|בְּ]][[H3290\|יַעֲקֹ֣ב]] [[H5971A\|עַמּ֑]][[H9023\|וֹ]] [[H9002\|וּ֝]][[H9003\|בְ]][[H3478\|יִשְׂרָאֵ֗ל]] [[H5159\|נַחֲלָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic PROMOTION|PROMOTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.71|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.70|<< Psalms 78:70]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.72|Psalms 78:72 >>]]</td></tr></table>
 

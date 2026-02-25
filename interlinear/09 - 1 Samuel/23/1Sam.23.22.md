@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 23:22
+type: Verse
+kjv: "Go, I pray you, prepare yet, and know and see his place where his haunt is, and who hath seen him there: for it is told me that he dealeth very subtilly."
+bsb: "Please go and prepare further. Investigate and watch carefully where he goes and who has seen him there, for I am told that he is extremely cunning."
+hebrew: "לְכוּ־ נָ֞א הָכִ֣ינוּ ע֗וֹד וּדְע֤וּ וּרְאוּ֙ אֶת־ מְקוֹמוֹ֙ אֲשֶׁ֣ר תִּֽהְיֶ֣ה רַגְל֔וֹ מִ֥י רָאָ֖הוּ שָׁ֑ם כִּ֚י אָמַ֣ר אֵלַ֔י עָר֥וֹם יַעְרִ֖ם הֽוּא׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3559K]]"
+- "[[H5750]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H7272]]"
+- "[[H4310]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H6191]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:22**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go, I pray you, prepare yet, and know and see his place where his haunt is, [and] who hath seen him there: for it is told me [that] he dealeth very subtilly.
 <small><sub>**BSB:**</sub></small>
 Please go and prepare further. Investigate and watch carefully where he goes and who has seen him there, for I am told that he is extremely cunning.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לְכוּ]][[H9014\|־]] [[H4994\|נָ֞א]] [[H3559K\|הָכִ֣ינוּ]] [[H5750\|ע֗וֹד]] [[H9002\|וּ]][[H3045\|דְע֤וּ]] [[H9002\|וּ]][[H7200G\|רְאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4725\|מְקוֹמ]][[H9023\|וֹ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|תִּֽהְיֶ֣ה]] [[H7272\|רַגְל֔]][[H9023\|וֹ]] [[H4310\|מִ֥י]] [[H7200G\|רָאָ֖]][[H9033\|הוּ]] [[H8033G\|שָׁ֑ם]] [[H3588A\|כִּ֚י]] [[H0559\|אָמַ֣ר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H6191\|עָר֥וֹם]] [[H6191\|יַעְרִ֖ם]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.21|<< 1 Samuel 23:21]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.23|1 Samuel 23:23 >>]]</td></tr></table>
 

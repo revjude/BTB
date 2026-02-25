@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 7:7
+type: Verse
+kjv: "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines."
+bsb: "When the Philistines heard that the Israelites had gathered at Mizpah, their rulers marched up toward Israel. And when the Israelites learned of this, they feared the Philistines"
+hebrew: "וַיִּשְׁמְע֣וּ פְלִשְׁתִּ֗ים כִּֽי־ הִתְקַבְּצ֤וּ בְנֵֽי־ יִשְׂרָאֵל֙ הַמִּצְפָּ֔תָה וַיַּעֲל֥וּ סַרְנֵֽי־ פְלִשְׁתִּ֖ים אֶל־ יִשְׂרָאֵ֑ל וַֽיִּשְׁמְעוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וַיִּֽרְא֖וּ מִפְּנֵ֥י פְלִשְׁתִּֽים׃"
+pericope: "[[1Sam.7.1 Samuel Subdues the Philistines|Samuel Subdues the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H6430G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6908]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H4709G]]"
+- "[[H9011]]"
+- "[[H5927G]]"
+- "[[H5633A]]"
+- "[[H0413]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 7:7**<big><big>[[1Sam.7.1 Samuel Subdues the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard [it], they were afraid of the Philistines.
 <small><sub>**BSB:**</sub></small>
 When the Philistines heard that the Israelites had gathered at Mizpah, their rulers marched up toward Israel. And when the Israelites learned of this, they feared the Philistines
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמְע֣וּ]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6908\|הִתְקַבְּצ֤וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֔תָ]][[H9011\|ה]] [[H9001\|וַ]][[H5927G\|יַּעֲל֥וּ]] [[H5633A\|סַרְנֵֽי]][[H9014\|־]] [[H6430G\|פְלִשְׁתִּ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַֽ]][[H8085G\|יִּשְׁמְעוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H3372G\|יִּֽרְא֖וּ]] [[H9006\|מִ]][[H6440L\|פְּנֵ֥י]] [[H6430G\|פְלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PHILISTINES|PHILISTINES]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.7.6|<< 1 Samuel 7:6]]</td><td align="center" style="border:none;">[[1Sam.7|1 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.7.8|1 Samuel 7:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

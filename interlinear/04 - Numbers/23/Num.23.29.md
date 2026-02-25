@@ -1,8 +1,64 @@
+---
+title: Numbers 23:29
+type: Verse
+kjv: "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams."
+bsb: "Then Balaam said, “Build for me seven altars here, and prepare for me seven bulls and seven rams.”"
+hebrew: "וַיֹּ֤אמֶר בִּלְעָם֙ אֶל־ בָּלָ֔ק בְּנֵה־ לִ֥י בָזֶ֖ה שִׁבְעָ֣ה מִזְבְּחֹ֑ת וְהָכֵ֥ן לִי֙ בָּזֶ֔ה שִׁבְעָ֥ה פָרִ֖ים וְשִׁבְעָ֥ה אֵילִֽים׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PEOR|PEOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1109A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1111]]"
+- "[[H1129]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H2088]]"
+- "[[H7651]]"
+- "[[H4196]]"
+- "[[H9002]]"
+- "[[H3559A]]"
+- "[[H6499]]"
+- "[[H0352A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:29**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.
 <small><sub>**BSB:**</sub></small>
 Then Balaam said, “Build for me seven altars here, and prepare for me seven bulls and seven rams.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1109A\|בִּלְעָם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1111\|בָּלָ֔ק]] [[H1129\|בְּנֵה]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H9003\|בָ]][[H2088\|זֶ֖ה]] [[H7651\|שִׁבְעָ֣ה]] [[H4196\|מִזְבְּחֹ֑ת]] [[H9002\|וְ]][[H3559A\|הָכֵ֥ן]] [[H9005\|לִ]][[H9030\|י֙]] [[H9003\|בָּ]][[H2088\|זֶ֔ה]] [[H7651\|שִׁבְעָ֥ה]] [[H6499\|פָרִ֖ים]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֥ה]] [[H0352A\|אֵילִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic GOD|GOD]] • [[topic PEOR|PEOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.28|<< Numbers 23:28]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.30|Numbers 23:30 >>]]</td></tr></table>
 

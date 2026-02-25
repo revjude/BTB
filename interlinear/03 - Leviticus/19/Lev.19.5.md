@@ -1,8 +1,59 @@
+---
+title: Leviticus 19:5
+type: Verse
+kjv: "And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will."
+bsb: "When you sacrifice a peace offering to the LORD, you shall offer it for your acceptance."
+hebrew: "וְכִ֧י תִזְבְּח֛וּ זֶ֥בַח שְׁלָמִ֖ים לַיהוָ֑ה לִֽרְצֹנְכֶ֖ם תִּזְבָּחֻֽהוּ׃"
+pericope: "[[Lev.19.1 Commandments for Holiness|Commandments for Holiness]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PEACE OFFERINGS|PEACE OFFERINGS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H2076]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7522]]"
+- "[[H9026]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:5**<big><big>[[Lev.19.1 Commandments for Holiness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.
 <small><sub>**BSB:**</sub></small>
 When you sacrifice a peace offering to the LORD, you shall offer it for your acceptance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֧י]] [[H2076\|תִזְבְּח֛וּ]] [[H2077\|זֶ֥בַח]] [[H8002\|שְׁלָמִ֖ים]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9005\|לִֽ]][[H7522\|רְצֹנְ]][[H9026\|כֶ֖ם]] [[H2076\|תִּזְבָּחֻֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PEACE OFFERINGS|PEACE OFFERINGS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.4|<< Leviticus 19:4]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.6|Leviticus 19:6 >>]]</td></tr></table>
 

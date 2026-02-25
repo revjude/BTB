@@ -1,8 +1,71 @@
+---
+title: Daniel 10:11
+type: Verse
+kjv: "And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent. And when he had spoken this word unto me, I stood trembling."
+bsb: "He said to me, “Daniel, you are a man who is highly precious. Consider carefully the words that I am about to say to you. Stand up, for I have now been sent to you.” And when he had said this to me, I stood up trembling."
+hebrew: "וַיֹּ֣אמֶר אֵלַ֡י דָּנִיֵּ֣אל אִישׁ־ חֲ֠מֻדוֹת הָבֵ֨ן בַּדְּבָרִ֜ים אֲשֶׁר֩ אָנֹכִ֨י דֹבֵ֤ר אֵלֶ֙יךָ֙ וַעֲמֹ֣ד עַל־ עָמְדֶ֔ךָ כִּ֥י עַתָּ֖ה שֻׁלַּ֣חְתִּי אֵלֶ֑יךָ וּבְדַבְּר֥וֹ עִמִּ֛י אֶת־ הַדָּבָ֥ר הַזֶּ֖ה עָמַ֥דְתִּי מַרְעִֽיד׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1840G]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H2532B]]"
+- "[[H0995]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H1696G]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H5977]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H6258]]"
+- "[[H7971G]]"
+- "[[H9043]]"
+- "[[H5973A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H7460]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:11**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, O Daniel, a man greatly beloved, understand the words that I speak unto thee, and stand upright: for unto thee am I now sent. And when he had spoken this word unto me, I stood trembling.
 <small><sub>**BSB:**</sub></small>
 He said to me, “Daniel, you are a man who is highly precious. Consider carefully the words that I am about to say to you. Stand up, for I have now been sent to you.” And when he had said this to me, I stood up trembling.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֡]][[H9030\|י]] [[H1840G\|דָּנִיֵּ֣אל]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H2532B\|חֲ֠מֻדוֹת]] [[H0995\|הָבֵ֨ן]] [[H9003\|בַּ]][[H1697G\|דְּבָרִ֜ים]] [[H0834A\|אֲשֶׁר֩]] [[H0595\|אָנֹכִ֨י]] [[H1696G\|דֹבֵ֤ר]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H9002\|וַ]][[H5975G\|עֲמֹ֣ד]] [[H5921A\|עַל]][[H9014\|־]] [[H5977\|עָמְדֶ֔]][[H9021\|ךָ]] [[H3588A\|כִּ֥י]] [[H6258\|עַתָּ֖ה]] [[H7971G\|שֻׁלַּ֣חְתִּי]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H1696G\|דַבְּר֥]][[H9043\|וֹ]] [[H5973A\|עִמִּ֛]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H5975G\|עָמַ֥דְתִּי]] [[H7460\|מַרְעִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.10|<< Daniel 10:10]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.12|Daniel 10:12 >>]]</td></tr></table>
 

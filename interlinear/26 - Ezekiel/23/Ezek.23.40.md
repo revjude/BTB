@@ -1,8 +1,70 @@
+---
+title: Ezekiel 23:40
+type: Verse
+kjv: "And furthermore, that ye have sent for men to come from far, unto whom a messenger was sent; and, lo, they came: for whom thou didst wash thyself, paintedst thy eyes, and deckedst thyself with ornaments,"
+bsb: "Furthermore, you sisters sent messengers for men who came from afar; and behold, when they arrived, you bathed for them, painted your eyes, and adorned yourself with jewelry."
+hebrew: "וְאַ֗ף כִּ֤י תִשְׁלַ֙חְנָה֙ לַֽאֲנָשִׁ֔ים בָּאִ֖ים מִמֶּרְחָ֑ק אֲשֶׁ֨ר מַלְאָ֜ךְ שָׁל֤וּחַ אֲלֵיהֶם֙ וְהִנֵּה־ בָ֔אוּ לַאֲשֶׁ֥ר רָחַ֛צְתְּ כָּחַ֥לְתְּ עֵינַ֖יִךְ וְעָ֥דִית עֶֽדִי׃"
+pericope: "[[Ezek.23.36 Judgment on Both Sisters|Judgment on Both Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic COSMETICS|COSMETICS]]"
+- "[[topic EYELIDS|EYELIDS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PAINTING|PAINTING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H0582]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H4801]]"
+- "[[H0834A]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H7364]]"
+- "[[H3583]]"
+- "[[H5869A]]"
+- "[[H9022]]"
+- "[[H9001]]"
+- "[[H5710B]]"
+- "[[H5716]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:40**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And furthermore, that ye have sent for men to come from far, unto whom a messenger [was] sent; and, lo, they came: for whom thou didst wash thyself, paintedst thy eyes, and deckedst thyself with ornaments,
 <small><sub>**BSB:**</sub></small>
 Furthermore, you sisters sent messengers for men who came from afar; and behold, when they arrived, you bathed for them, painted your eyes, and adorned yourself with jewelry.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0637\|אַ֗ף]] [[H3588A\|כִּ֤י]] [[H7971G\|תִשְׁלַ֙חְנָה֙]] [[H9005\|לַֽ]][[H0582\|אֲנָשִׁ֔ים]] [[H0935G\|בָּאִ֖ים]] [[H9006\|מִ]][[H4801\|מֶּרְחָ֑ק]] [[H0834A\|אֲשֶׁ֨ר]] [[H4397G\|מַלְאָ֜ךְ]] [[H7971G\|שָׁל֤וּחַ]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H0935G\|בָ֔אוּ]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֥ר]] [[H7364\|רָחַ֛צְתְּ]] [[H3583\|כָּחַ֥לְתְּ]] [[H5869A\|עֵינַ֖יִ]][[H9022\|ךְ]] [[H9001\|וְ]][[H5710B\|עָ֥דִית]] [[H5716\|עֶֽדִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COSMETICS|COSMETICS]] • [[topic EYELIDS|EYELIDS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PAINTING|PAINTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.39|<< Ezekiel 23:39]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.41|Ezekiel 23:41 >>]]</td></tr></table>
 

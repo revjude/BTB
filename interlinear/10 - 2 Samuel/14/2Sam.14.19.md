@@ -1,8 +1,91 @@
+---
+title: 2 Samuel 14:19
+type: Verse
+kjv: "And the king said, Is not the hand of Joab with thee in all this? And the woman answered and said, As thy soul liveth, my lord the king, none can turn to the right hand or to the left from ought that my lord the king hath spoken: for thy servant Joab, he bade me, and he put all these words in the mouth of thine handmaid:"
+bsb: "So the king asked, “Is the hand of Joab behind all this?” The woman answered, “As surely as you live, my lord the king, no one can turn to the right or to the left from anything that my lord the king says. Yes, your servant Joab is the one who gave me orders; he told your maidservant exactly what to say."
+hebrew: "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ הֲיַ֥ד יוֹאָ֛ב אִתָּ֖ךְ בְּכָל־ זֹ֑את וַתַּ֣עַן הָאִשָּׁ֣ה וַתֹּ֡אמֶר חֵֽי־ נַפְשְׁךָ֩ אֲדֹנִ֨י הַמֶּ֜לֶךְ אִם־ אִ֣שׁ׀ לְהֵמִ֣ין וּלְהַשְׂמִ֗יל מִכֹּ֤ל אֲשֶׁר־ דִּבֶּר֙ אֲדֹנִ֣י הַמֶּ֔לֶךְ כִּֽי־ עַבְדְּךָ֤ יוֹאָב֙ ה֣וּא צִוָּ֔נִי וְה֗וּא שָׂ֚ם בְּפִ֣י שִׁפְחָֽתְךָ֔ אֵ֥ת כָּל־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[2Sam.14.1 Absalom’s Return to Jerusalem|Absalom’s Return to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9008]]"
+- "[[H3027H]]"
+- "[[H3097G]]"
+- "[[H0854]]"
+- "[[H9032]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H6030B]]"
+- "[[H0802G]]"
+- "[[H2416A]]"
+- "[[H5315I]]"
+- "[[H9021]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0518H]]"
+- "[[H0786]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H3231]]"
+- "[[H9002]]"
+- "[[H8041]]"
+- "[[H9006]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3588A]]"
+- "[[H5650]]"
+- "[[H1931]]"
+- "[[H6680]]"
+- "[[H9030]]"
+- "[[H7760H]]"
+- "[[H6310G]]"
+- "[[H8198]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:19**<big><big>[[2Sam.14.1 Absalom’s Return to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said, [Is not] the hand of Joab with thee in all this? And the woman answered and said, [As] thy soul liveth, my lord the king, none can turn to the right hand or to the left from ought that my lord the king hath spoken: for thy servant Joab, he bade me, and he put all these words in the mouth of thine handmaid:
 <small><sub>**BSB:**</sub></small>
 So the king asked, “Is the hand of Joab behind all this?” The woman answered, “As surely as you live, my lord the king, no one can turn to the right or to the left from anything that my lord the king says. Yes, your servant Joab is the one who gave me orders; he told your maidservant exactly what to say.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9008\|הֲ]][[H3027H\|יַ֥ד]] [[H3097G\|יוֹאָ֛ב]] [[H0854\|אִתָּ֖]][[H9032\|ךְ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H9001\|וַ]][[H6030B\|תַּ֣עַן]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֣ה]] [[H9001\|וַ]][[H0559\|תֹּ֡אמֶר]] [[H2416A\|חֵֽי]][[H9014\|־]] [[H5315I\|נַפְשְׁ]][[H9021\|ךָ֩]] [[H0113\|אֲדֹנִ֨]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0518H\|אִם]][[H9014\|־]] [[H0786\|אִ֣שׁ]][[H9015\|׀]] [[H9005\|לְ]][[H3231\|הֵמִ֣ין]] [[H9002\|וּ]][[H9005\|לְ]][[H8041\|הַשְׂמִ֗יל]] [[H9006\|מִ]][[H3605\|כֹּ֤ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּר֙]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֤]] [[H3097G\|יוֹאָב֙]] [[H1931\|ה֣וּא]] [[H6680\|צִוָּ֔]][[H9030\|נִי]] [[H9002\|וְ]][[H1931\|ה֗וּא]] [[H7760H\|שָׂ֚ם]] [[H9003\|בְּ]][[H6310G\|פִ֣י]] [[H8198\|שִׁפְחָֽתְ]][[H9021\|ךָ֔]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic DAVID|DAVID]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FLATTERY|FLATTERY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOAB|JOAB]] • [[topic KINDNESS|KINDNESS]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic TACT|TACT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.18|<< 2 Samuel 14:18]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.20|2 Samuel 14:20 >>]]</td></tr></table>
 

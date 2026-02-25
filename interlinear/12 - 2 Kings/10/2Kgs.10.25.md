@@ -1,8 +1,83 @@
+---
+title: 2 Kings 10:25
+type: Verse
+kjv: "And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in, and slay them; let none come forth. And they smote them with the edge of the sword; and the guard and the captains cast them out, and went to the city of the house of Baal."
+bsb: "When he had finished making the burnt offering, Jehu said to the guards and officers, “Go in and kill them. Do not let anyone out.” So the guards and officers put them to the sword, threw the bodies out, and went into the inner room of the temple of Baal."
+hebrew: "וַיְהִ֞י כְּכַלֹּת֣וֹ׀ לַעֲשׂ֣וֹת הָעֹלָ֗ה וַיֹּ֣אמֶר יֵ֠הוּא לָרָצִ֨ים וְלַשָּׁלִשִׁ֜ים בֹּ֤אוּ הַכּוּם֙ אִ֣ישׁ אַל־ יֵצֵ֔א וַיַּכּ֖וּם לְפִי־ חָ֑רֶב וַיַּשְׁלִ֗כוּ הָֽרָצִים֙ וְהַשָּׁ֣לִשִׁ֔ים וַיֵּלְכ֖וּ עַד־ עִ֥יר בֵּית־ הַבָּֽעַל׃"
+pericope: "[[2Kgs.10.18 Jehu Kills the Priests of Baal|Jehu Kills the Priests of Baal]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic TREACHERY|TREACHERY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H9043]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H6213I]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H0559]]"
+- "[[H3058H]]"
+- "[[H7323H]]"
+- "[[H9002]]"
+- "[[H7991C]]"
+- "[[H0935G]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H0376I]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H7993]]"
+- "[[H1980G]]"
+- "[[H5704]]"
+- "[[H5892B]]"
+- "[[H1004B]]"
+- "[[H1168A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:25**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in, [and] slay them; let none come forth. And they smote them with the edge of the sword; and the guard and the captains cast [them] out, and went to the city of the house of Baal.
 <small><sub>**BSB:**</sub></small>
 When he had finished making the burnt offering, Jehu said to the guards and officers, “Go in and kill them. Do not let anyone out.” So the guards and officers put them to the sword, threw the bodies out, and went into the inner room of the temple of Baal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כְּ]][[H3615G\|כַלֹּת֣]][[H9043\|וֹ]][[H9015\|׀]] [[H9005\|לַ]][[H6213I\|עֲשׂ֣וֹת]] [[H9009\|הָ]][[H5930A\|עֹלָ֗ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3058H\|יֵ֠הוּא]] [[H9005\|לָ]][[H7323H\|רָצִ֨ים]] [[H9002\|וְ]][[H9005\|לַ]][[H7991C\|שָּׁלִשִׁ֜ים]] [[H0935G\|בֹּ֤אוּ]] [[H5221\|הַכּוּ]][[H9038\|ם֙]] [[H0376I\|אִ֣ישׁ]] [[H0408\|אַל]][[H9014\|־]] [[H3318G\|יֵצֵ֔א]] [[H9001\|וַ]][[H5221\|יַּכּ֖וּ]][[H9038\|ם]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חָ֑רֶב]] [[H9001\|וַ]][[H7993\|יַּשְׁלִ֗כוּ]] [[H9009\|הָֽ]][[H7323H\|רָצִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H7991C\|שָּׁ֣לִשִׁ֔ים]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֖וּ]] [[H5704\|עַד]][[H9014\|־]] [[H5892B\|עִ֥יר]] [[H1004B\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H1168A\|בָּֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JEHU|JEHU]] • [[topic MASSACRE|MASSACRE]] • [[topic RELIGION|RELIGION]] • [[topic SAMARIA|SAMARIA]] • [[topic TREACHERY|TREACHERY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.24|<< 2 Kings 10:24]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.26|2 Kings 10:26 >>]]</td></tr></table>
 

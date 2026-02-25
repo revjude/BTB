@@ -1,8 +1,68 @@
+---
+title: Jeremiah 46:26
+type: Verse
+kjv: "And I will deliver them into the hand of those that seek their lives, and into the hand of Nebuchadrezzar king of Babylon, and into the hand of his servants: and afterward it shall be inhabited, as in the days of old, saith the LORD."
+bsb: "I will deliver them into the hands of those who seek their lives—of Nebuchadnezzar king of Babylon and his officers. But after this, Egypt will be inhabited as in days of old, declares the LORD."
+hebrew: "וּנְתַתִּ֗ים בְּיַד֙ מְבַקְשֵׁ֣י נַפְשָׁ֔ם וּבְיַ֛ד נְבֽוּכַדְרֶאצַּ֥ר מֶֽלֶךְ־ בָּבֶ֖ל וּבְיַד־ עֲבָדָ֑יו וְאַחֲרֵי־ כֵ֛ן תִּשְׁכֹּ֥ן כִּֽימֵי־ קֶ֖דֶם נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H7931]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H6924H]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 46:26**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will deliver them into the hand of those that seek their lives, and into the hand of Nebuchadrezzar king of Babylon, and into the hand of his servants: and afterward it shall be inhabited, as in the days of old, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 I will deliver them into the hands of those who seek their lives—of Nebuchadnezzar king of Babylon and his officers. But after this, Egypt will be inhabited as in days of old, declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5414G\|נְתַתִּ֗י]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַד֙]] [[H1245\|מְבַקְשֵׁ֣י]] [[H5315H\|נַפְשָׁ֔]][[H9028\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַ֛ד]] [[H5019\|נְבֽוּכַדְרֶאצַּ֥ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַד]][[H9014\|־]] [[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֛ן]] [[H7931\|תִּשְׁכֹּ֥ן]] [[H9004\|כִּֽ]][[H3117G\|ימֵי]][[H9014\|־]] [[H6924H\|קֶ֖דֶם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.25|<< Jeremiah 46:25]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.27|Jeremiah 46:27 >>]]</td></tr></table>
 
@@ -24,7 +84,7 @@ I will deliver them into the hands of those who seek their lives—of Nebuchadne
 | like days of  |**<big>&#8207;[[H9004\|כִּֽ]]&#8207;&#8207;[[H3117G\|ימֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki.<small><sup>[[HR]]</sup></small> mei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | antiquity  |**<big>&#8207;[[H6924H\|קֶ֖דֶם]]&#8207; </big>**| Ke.dem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.25|<< Jeremiah 46:25]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.27|Jeremiah 46:27 >>]]</td></tr></table>
 
 

@@ -1,8 +1,80 @@
+---
+title: Genesis 12:5
+type: Verse
+kjv: "And Abram took Sarai his wife, and Lot his brother’s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came."
+bsb: "And Abram took his wife Sarai, his nephew Lot, and all the possessions and people they had acquired in Haran, and set out for the land of Canaan. When they came to the land of Canaan,"
+hebrew: "וַיִּקַּ֣ח אַבְרָם֩ אֶת־ שָׂרַ֨י אִשְׁתּ֜וֹ וְאֶת־ ל֣וֹט בֶּן־ אָחִ֗יו וְאֶת־ כָּל־ רְכוּשָׁם֙ אֲשֶׁ֣ר רָכָ֔שׁוּ וְאֶת־ הַנֶּ֖פֶשׁ אֲשֶׁר־ עָשׂ֣וּ בְחָרָ֑ן וַיֵּצְא֗וּ לָלֶ֙כֶת֙ אַ֣רְצָה כְּנַ֔עַן וַיָּבֹ֖אוּ אַ֥רְצָה כְּנָֽעַן׃"
+pericope: "[[Gen.12.1 The Call of Abram|The Call of Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HARAN|HARAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0087]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8297]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3876]]"
+- "[[H1121A]]"
+- "[[H0251G]]"
+- "[[H3605]]"
+- "[[H7399]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H7408]]"
+- "[[H9009]]"
+- "[[H5315J]]"
+- "[[H6213I]]"
+- "[[H9003]]"
+- "[[H2771A]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H3667A]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:5**<big><big>[[Gen.12.1 The Call of Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abram took Sarai his wife, and Lot his brother’s son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.
 <small><sub>**BSB:**</sub></small>
 And Abram took his wife Sarai, his nephew Lot, and all the possessions and people they had acquired in Haran, and set out for the land of Canaan. When they came to the land of Canaan,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0087\|אַבְרָם֩]] [[H0853\|אֶת]][[H9014\|־]] [[H8297\|שָׂרַ֨י]] [[H0802H\|אִשְׁתּ֜]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3876\|ל֣וֹט]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0251G\|אָחִ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H7399\|רְכוּשָׁ]][[H9028\|ם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7408\|רָכָ֔שׁוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5315J\|נֶּ֖פֶשׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213I\|עָשׂ֣וּ]] [[H9003\|בְ]][[H2771A\|חָרָ֑ן]] [[H9001\|וַ]][[H3318G\|יֵּצְא֗וּ]] [[H9005\|לָ]][[H1980G\|לֶ֙כֶת֙]] [[H0776G\|אַ֣רְצָ]][[H9011\|ה]] [[H3667A\|כְּנַ֔עַן]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H0776G\|אַ֥רְצָ]][[H9011\|ה]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CANAAN|CANAAN]] • [[topic COURAGE|COURAGE]] • [[topic GENTILES|GENTILES]] • [[topic HARAN|HARAN]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.4|<< Genesis 12:4]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.12.6|Genesis 12:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

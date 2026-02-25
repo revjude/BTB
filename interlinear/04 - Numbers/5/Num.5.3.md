@@ -1,8 +1,68 @@
+---
+title: Numbers 5:3
+type: Verse
+kjv: "Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell."
+bsb: "You must send away male and female alike; send them outside the camp so they will not defile their camp, where I dwell among them.”"
+hebrew: "מִזָּכָ֤ר עַד־ נְקֵבָה֙ תְּשַׁלֵּ֔חוּ אֶל־ מִח֥וּץ לַֽמַּחֲנֶ֖ה תְּשַׁלְּח֑וּם וְלֹ֤א יְטַמְּאוּ֙ אֶת־ מַ֣חֲנֵיהֶ֔ם אֲשֶׁ֥ר אֲנִ֖י שֹׁכֵ֥ן בְּתוֹכָֽם׃"
+pericope: "[[Num.5.1 Cleansing the Camps|Cleansing the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9006]]"
+- "[[H2145]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5347]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H0853]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H7931]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:3**<big><big>[[Num.5.1 Cleansing the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both male and female shall ye put out, without the camp shall ye put them; that they defile not their camps, in the midst whereof I dwell.
 <small><sub>**BSB:**</sub></small>
 You must send away male and female alike; send them outside the camp so they will not defile their camp, where I dwell among them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H2145\|זָּכָ֤ר]] [[H5704\|עַד]][[H9014\|־]] [[H5347\|נְקֵבָה֙]] [[H7971G\|תְּשַׁלֵּ֔חוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9006\|מִ]][[H2351\|ח֥וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H7971G\|תְּשַׁלְּח֑וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H2930A\|יְטַמְּאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4264\|מַ֣חֲנֵי]][[H9028\|הֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0589\|אֲנִ֖י]] [[H7931\|שֹׁכֵ֥ן]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LEPROSY|LEPROSY]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.2|<< Numbers 5:2]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.4|Numbers 5:4 >>]]</td></tr></table>
 

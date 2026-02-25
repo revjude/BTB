@@ -1,8 +1,68 @@
+---
+title: Jeremiah 49:32
+type: Verse
+kjv: "And their camels shall be a booty, and the multitude of their cattle a spoil: and I will scatter into all winds them that are in the utmost corners; and I will bring their calamity from all sides thereof, saith the LORD."
+bsb: "Their camels will become plunder, and their large herds will be spoil. I will scatter to the wind in every direction those who shave their temples; I will bring calamity on them from all sides,” declares the LORD."
+hebrew: "וְהָי֨וּ גְמַלֵּיהֶ֜ם לָבַ֗ז וַהֲמ֤וֹן מִקְנֵיהֶם֙ לְשָׁלָ֔ל וְזֵרִתִ֥ים לְכָל־ ר֖וּחַ קְצוּצֵ֣י פֵאָ֑ה וּמִכָּל־ עֲבָרָ֛יו אָבִ֥יא אֶת־ אֵידָ֖ם נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.49.28 Judgment on Kedar and Hazor|Judgment on Kedar and Hazor]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1581]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H0957]]"
+- "[[H9002]]"
+- "[[H1995A]]"
+- "[[H4735]]"
+- "[[H7998]]"
+- "[[H2219]]"
+- "[[H9038]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H7112]]"
+- "[[H6285]]"
+- "[[H9006]]"
+- "[[H5676G]]"
+- "[[H9023]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H0343]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:32**<big><big>[[Jer.49.28 Judgment on Kedar and Hazor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their camels shall be a booty, and the multitude of their cattle a spoil: and I will scatter into all winds them [that are] in the utmost corners; and I will bring their calamity from all sides thereof, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Their camels will become plunder, and their large herds will be spoil. I will scatter to the wind in every direction those who shave their temples; I will bring calamity on them from all sides,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֨וּ]] [[H1581\|גְמַלֵּי]][[H9028\|הֶ֜ם]] [[H9005\|לָ]][[H0957\|בַ֗ז]] [[H9002\|וַ]][[H1995A\|הֲמ֤וֹן]] [[H4735\|מִקְנֵי]][[H9028\|הֶם֙]] [[H9005\|לְ]][[H7998\|שָׁלָ֔ל]] [[H9001\|וְ]][[H2219\|זֵרִתִ֥י]][[H9038\|ם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H7307H\|ר֖וּחַ]] [[H7112\|קְצוּצֵ֣י]] [[H6285\|פֵאָ֑ה]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H5676G\|עֲבָרָ֛י]][[H9023\|ו]] [[H0935P\|אָבִ֥יא]] [[H0853\|אֶת]][[H9014\|־]] [[H0343\|אֵידָ֖]][[H9028\|ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.31|<< Jeremiah 49:31]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.33|Jeremiah 49:33 >>]]</td></tr></table>
 

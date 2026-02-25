@@ -1,10 +1,69 @@
+---
+title: Luke 15:16
+type: Verse
+kjv: "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
+bsb: "He longed to fill his belly with the pods the pigs were eating, but no one would give him a thing."
+jesus_said: "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
+greek: "καὶ ἐπεθύμει χορτασθῆναι τὴν κοιλίαν αὐτοῦ ἐκ τῶν κερατίων ὧν ἤσθιον οἱ χοῖροι, καὶ οὐδεὶς ἐδίδου αὐτῷ.¶"
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSK|HUSK]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SWINE|SWINE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1937]]"
+- "[[G5526]]"
+- "[[G3588]]"
+- "[[G2836]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G2769]]"
+- "[[G3739]]"
+- "[[G2068]]"
+- "[[G5519]]"
+- "[[G3762]]"
+- "[[G1325]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **Luke 15:16**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him.
 <small><sub>**BSB:**</sub></small>
 He longed to fill his belly with the pods the pigs were eating, but no one would give him a thing.
-<small><sub>**Literal:**</sub></small>
-And he was longing to be fed the stomach of him from the pods that were eating the pigs, and no [one] was giving to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.15|<< Luke 15:15]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.17|Luke 15:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1937\|ἐπεθύμει]]  [[G5526\|χορτασθῆναι]]  [[G3588\|τὴν]]  [[G2836\|κοιλίαν]]  [[G0846\|αὐτοῦ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2769\|κερατίων]]  [[G3739\|ὧν]]  [[G2068\|ἤσθιον]]  [[G3588\|οἱ]]  [[G5519\|χοῖροι,]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G1325\|ἐδίδου]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic GOD|GOD]] • [[topic HUSK|HUSK]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SERVANT|SERVANT]] • [[topic SWINE|SWINE]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.15|<< Luke 15:15]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.17|Luke 15:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

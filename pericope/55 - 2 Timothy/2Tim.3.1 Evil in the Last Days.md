@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Evil in the Last Days
+type: Pericope
 pericope: "[[2Tim.3.1 Evil in the Last Days|Evil in the Last Days]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 3
 book/chapter: "[[2Tim.3|2 Timothy 3]]"
-genre:
+chronological_order: 1155
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 9
 verses:
 - "[[2Tim.3.1]]"
 - "[[2Tim.3.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Tim.3.9]]"
 ---
 
-[[2Tim.3|2 Timothy 3:1 - 2 Timothy 3:9]]
+<small>[[2Tim.3|2 Timothy 3:1-9]]</small>
 *Evil in the Last Days*
 
 [[2Tim.3.1|1]] This know also, that in the last days perilous times shall come.

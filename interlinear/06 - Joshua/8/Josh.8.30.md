@@ -1,8 +1,57 @@
+---
+title: Joshua 8:30
+type: Verse
+kjv: "Then Joshua built an altar unto the LORD God of Israel in mount Ebal,"
+bsb: "At that time Joshua built an altar on Mount Ebal to the LORD, the God of Israel,"
+hebrew: "אָ֣ז יִבְנֶ֤ה יְהוֹשֻׁ֙עַ֙ מִזְבֵּ֔חַ לַֽיהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל בְּהַ֖ר עֵיבָֽל׃"
+pericope: "[[Josh.8.30 Joshua Renews the Covenant|Joshua Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic EBAL|EBAL]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PILLAR|PILLAR]]"
+strongs:
+- "[[H0227A]]"
+- "[[H1129]]"
+- "[[H3091G]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H5858C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:30**<big><big>[[Josh.8.30 Joshua Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joshua built an altar unto the LORD God of Israel in mount Ebal,
 <small><sub>**BSB:**</sub></small>
 At that time Joshua built an altar on Mount Ebal to the LORD, the God of Israel,
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H1129\|יִבְנֶ֤ה]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H4196\|מִזְבֵּ֔חַ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9003\|בְּ]][[H2022G\|הַ֖ר]] [[H5858C\|עֵיבָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CURSE|CURSE]] • [[topic EBAL|EBAL]] • [[topic LAW|LAW]] • [[topic PILLAR|PILLAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.29|<< Joshua 8:29]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.31|Joshua 8:31 >>]]</td></tr></table>
 

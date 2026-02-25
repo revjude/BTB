@@ -1,8 +1,51 @@
+---
+title: Job 30:24
+type: Verse
+kjv: "Howbeit he will not stretch out his hand to the grave, though they cry in his destruction."
+bsb: "Yet no one stretches out his hand against a ruined man when he cries for help in his distress."
+hebrew: "אַ֣ךְ לֹא־ בְ֭עִי יִשְׁלַח־ יָ֑ד אִם־ בְּ֝פִיד֗וֹ לָהֶ֥ן שֽׁוּעַ׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H0389]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H5856]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H0518I]]"
+- "[[H6365]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H9039]]"
+- "[[H7769]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:24**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit he will not stretch out [his] hand to the grave, though they cry in his destruction.
 <small><sub>**BSB:**</sub></small>
 Yet no one stretches out his hand against a ruined man when he cries for help in his distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]] [[H3808\|לֹא]][[H9014\|־]] [[H9003\|בְ֭]][[H5856\|עִי]] [[H7971K\|יִשְׁלַח]][[H9014\|־]] [[H3027G\|יָ֑ד]] [[H0518I\|אִם]][[H9014\|־]] [[H9003\|בְּ֝]][[H6365\|פִיד֗]][[H9023\|וֹ]] [[H9005\|לָ]][[H9039\|הֶ֥ן]] [[H7769\|שֽׁוּעַ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.23|<< Job 30:23]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.25|Job 30:25 >>]]</td></tr></table>
 

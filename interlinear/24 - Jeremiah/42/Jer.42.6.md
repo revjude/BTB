@@ -1,8 +1,73 @@
+---
+title: Jeremiah 42:6
+type: Verse
+kjv: "Whether it be good, or whether it be evil, we will obey the voice of the LORD our God, to whom we send thee; that it may be well with us, when we obey the voice of the LORD our God."
+bsb: "Whether it is pleasant or unpleasant, we will obey the voice of the LORD our God to whom we are sending you, so that it may go well with us when we obey the voice of the LORD our God!”"
+hebrew: "אִם־ ט֣וֹב וְאִם־ רָ֔ע בְּק֣וֹל׀ יְהוָ֣ה אֱלֹהֵ֗ינוּ אֲשֶׁ֨ר אֲנַ֜חְנוּ שֹׁלְחִ֥ים אֹתְךָ֛ אֵלָ֖יו נִשְׁמָ֑ע לְמַ֙עַן֙ אֲשֶׁ֣ר יִֽיטַב־ לָ֔נוּ כִּ֣י נִשְׁמַ֔ע בְּק֖וֹל יְהוָ֥ה אֱלֹהֵֽינוּ׃ ס"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2896B]]"
+- "[[H9002]]"
+- "[[H7451B]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H0834A]]"
+- "[[H0580]]"
+- "[[H0587]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H8085H]]"
+- "[[H4616]]"
+- "[[H3190]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H3588A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 42:6**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whether [it be] good, or whether [it be] evil, we will obey the voice of the LORD our God, to whom we send thee; that it may be well with us, when we obey the voice of the LORD our God.
 <small><sub>**BSB:**</sub></small>
 Whether it is pleasant or unpleasant, we will obey the voice of the LORD our God to whom we are sending you, so that it may go well with us when we obey the voice of the LORD our God!”
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2896B\|ט֣וֹב]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7451B\|רָ֔ע]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H0834A\|אֲשֶׁ֨ר]] [[H0587\|אֲנַ֜חְנוּ]] [[H7971G\|שֹׁלְחִ֥ים]] [[H0853\|אֹתְ]][[H9031\|ךָ֛]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H8085H\|נִשְׁמָ֑ע]] [[H4616\|לְמַ֙עַן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3190\|יִֽיטַב]][[H9014\|־]] [[H9005\|לָ֔]][[H9035\|נוּ]] [[H3588A\|כִּ֣י]] [[H8085H\|נִשְׁמַ֔ע]] [[H9003\|בְּ]][[H6963A\|ק֖וֹל]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.5|<< Jeremiah 42:5]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.7|Jeremiah 42:7 >>]]</td></tr></table>
 
@@ -29,7 +94,7 @@ Whether it is pleasant or unpleasant, we will obey the voice of the LORD our God
 | we will listen  |**<big>&#8207;[[H8085H\|נִשְׁמַ֔ע]]&#8207; </big>**| nish.Ma'<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] voice of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6963A\|ק֖וֹל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.5|<< Jeremiah 42:5]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.7|Jeremiah 42:7 >>]]</td></tr></table>
 
 [^1]: we  | **<big>[[H0580|אֲנוּ]]</big> ** | 'a.nu<small><sup>[[HPp1bp]]</sup></small> | K

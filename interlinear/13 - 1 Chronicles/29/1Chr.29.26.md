@@ -1,8 +1,46 @@
+---
+title: 1 Chronicles 29:26
+type: Verse
+kjv: "Thus David the son of Jesse reigned over all Israel."
+bsb: "David son of Jesse was king over all Israel."
+hebrew: "וְדָוִיד֙ בֶּן־ יִשָׁ֔י מָלַ֖ךְ עַל־ כָּל־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Chr.29.26 David’s Reign and Death|David’s Reign and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3448]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:26**<big><big>[[1Chr.29.26 David’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus David the son of Jesse reigned over all Israel.
 <small><sub>**BSB:**</sub></small>
 David son of Jesse was king over all Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִיד֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3448\|יִשָׁ֔י]] [[H4427A\|מָלַ֖ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.25|<< 1 Chronicles 29:25]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.27|1 Chronicles 29:27 >>]]</td></tr></table>
 

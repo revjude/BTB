@@ -1,8 +1,67 @@
+---
+title: Isaiah 64:6
+type: Verse
+kjv: "But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away."
+bsb: "Each of us has become like something unclean, and all our righteous acts are like filthy rags; we all wither like a leaf, and our iniquities carry us away like the wind."
+hebrew: "וַנְּהִ֤י כַטָּמֵא֙ כֻּלָּ֔נוּ וּכְבֶ֥גֶד עִדִּ֖ים כָּל־ צִדְקֹתֵ֑ינוּ וַנָּ֤בֶל כֶּֽעָלֶה֙ כֻּלָּ֔נוּ וַעֲוֹנֵ֖נוּ כָּר֥וּחַ יִשָּׂאֻֽנוּ׃"
+pericope: "[[Isa.64.1 A Prayer for God’s Power|A Prayer for God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 64
+book/chapter: "[[Isa.64|Isaiah 64]]"
+chronological_order: 703
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H2931]]"
+- "[[H3605]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H0899B]]"
+- "[[H5708]]"
+- "[[H9014]]"
+- "[[H6666]]"
+- "[[H5034B]]"
+- "[[H5929]]"
+- "[[H5771G]]"
+- "[[H7307H]]"
+- "[[H5375H]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 64:6**<big><big>[[Isa.64.1 A Prayer for God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But we are all as an unclean [thing], and all our righteousnesses [are] as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.
 <small><sub>**BSB:**</sub></small>
 Each of us has become like something unclean, and all our righteous acts are like filthy rags; we all wither like a leaf, and our iniquities carry us away like the wind.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|נְּהִ֤י]] [[H9004\|כַ]][[H2931\|טָּמֵא֙]] [[H3605\|כֻּלָּ֔]][[H9025\|נוּ]] [[H9002\|וּ]][[H9004\|כְ]][[H0899B\|בֶ֥גֶד]] [[H5708\|עִדִּ֖ים]] [[H3605\|כָּל]][[H9014\|־]] [[H6666\|צִדְקֹתֵ֑י]][[H9025\|נוּ]] [[H9001\|וַ]][[H5034B\|נָּ֤בֶל]] [[H9004\|כֶּֽ]][[H5929\|עָלֶה֙]] [[H3605\|כֻּלָּ֔]][[H9025\|נוּ]] [[H9002\|וַ]][[H5771G\|עֲוֹנֵ֖]][[H9025\|נוּ]] [[H9004\|כָּ]][[H7307H\|ר֥וּחַ]] [[H5375H\|יִשָּׂאֻֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic DRESS|DRESS]] • [[topic LIFE|LIFE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.64.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.64.5|<< Isaiah 64:5]]</td><td align="center" style="border:none;">[[Isa.64|Isaiah 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.7|Isaiah 64:7 >>]]</td></tr></table>
 

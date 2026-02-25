@@ -1,8 +1,71 @@
+---
+title: Daniel 3:21
+type: Verse
+kjv: "Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace."
+bsb: "So they were tied up, wearing robes, trousers, turbans, and other clothes, and they were thrown into the blazing fiery furnace."
+aramaic: "בֵּאדַ֜יִן גֻּבְרַיָּ֣א אִלֵּ֗ךְ כְּפִ֙תוּ֙ בְּסַרְבָּלֵיהוֹן֙ פַּטְּשֵׁיה֔וֹן וְכַרְבְּלָתְה֖וֹן וּלְבֻשֵׁיה֑וֹן וּרְמִ֕יו לְגֽוֹא־ אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא׃"
+pericope: "[[Dan.3.19 The Fiery Furnace|The Fiery Furnace]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H1400]]"
+- "[[H9010]]"
+- "[[H0479]]"
+- "[[H3729]]"
+- "[[H5622]]"
+- "[[H9028]]"
+- "[[H6361]]"
+- "[[H9002]]"
+- "[[H3737]]"
+- "[[H3831]]"
+- "[[H7412]]"
+- "[[H9005]]"
+- "[[H1459]]"
+- "[[H9014]]"
+- "[[H0861]]"
+- "[[H5135]]"
+- "[[H3345]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 3:21**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then these men were bound in their coats, their hosen, and their hats, and their [other] garments, and were cast into the midst of the burning fiery furnace.
 <small><sub>**BSB:**</sub></small>
 So they were tied up, wearing robes, trousers, turbans, and other clothes, and they were thrown into the blazing fiery furnace.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֜יִן]] [[H1400\|גֻּבְרַיָּ֣]][[H9010\|א]] [[H0479\|אִלֵּ֗ךְ]] [[H3729\|כְּפִ֙תוּ֙]] [[H9003\|בְּ]][[H5622\|סַרְבָּלֵי]][[H9028\|הוֹן֙]] [[H6361\|פַּטְּשֵׁי]][[H9028\|ה֔וֹן]] [[H9002\|וְ]][[H3737\|כַרְבְּלָתְ]][[H9028\|ה֖וֹן]] [[H9002\|וּ]][[H3831\|לְבֻשֵׁי]][[H9028\|ה֑וֹן]] [[H9002\|וּ]][[H7412\|רְמִ֕יו]] [[H9005\|לְ]][[H1459\|גֽוֹא]][[H9014\|־]] [[H0861\|אַתּ֥וּן]] [[H5135\|נוּרָ֖]][[H9010\|א]] [[H3345\|יָקִֽדְתָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic COERCION|COERCION]] • [[topic DRESS|DRESS]] • [[topic FAITH|FAITH]] • [[topic FURNACE|FURNACE]] • [[topic MESHACH|MESHACH]] • [[topic MISHAEL|MISHAEL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.20|<< Daniel 3:20]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.22|Daniel 3:22 >>]]</td></tr></table>
 

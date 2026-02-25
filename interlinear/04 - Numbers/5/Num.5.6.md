@@ -1,8 +1,70 @@
+---
+title: Numbers 5:6
+type: Verse
+kjv: "Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;"
+bsb: "“Tell the Israelites that when a man or woman acts unfaithfully against the LORD by committing any sin against another, that person is guilty"
+hebrew: "דַּבֵּר֮ אֶל־ בְּנֵ֣י יִשְׂרָאֵל֒ אִ֣ישׁ אֽוֹ־ אִשָּׁ֗ה כִּ֤י יַעֲשׂוּ֙ מִכָּל־ חַטֹּ֣את הָֽאָדָ֔ם לִמְעֹ֥ל מַ֖עַל בַּיהוָ֑ה וְאָֽשְׁמָ֖ה הַנֶּ֥פֶשׁ הַהִֽוא׃"
+pericope: "[[Num.5.5 Confession and Restitution|Confession and Restitution]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0376G]]"
+- "[[H0176A]]"
+- "[[H0802G]]"
+- "[[H3588A]]"
+- "[[H6213H]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H2403B]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H4603]]"
+- "[[H4604]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H0816]]"
+- "[[H5315J]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:6**<big><big>[[Num.5.5 Confession and Restitution|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;
 <small><sub>**BSB:**</sub></small>
 “Tell the Israelites that when a man or woman acts unfaithfully against the LORD by committing any sin against another, that person is guilty
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּר֮]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H0376G\|אִ֣ישׁ]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H0802G\|אִשָּׁ֗ה]] [[H3588A\|כִּ֤י]] [[H6213H\|יַעֲשׂוּ֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H2403B\|חַטֹּ֣את]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H9005\|לִ]][[H4603\|מְעֹ֥ל]] [[H4604\|מַ֖עַל]] [[H9003\|בַּ]][[H3068G\|יהוָ֑ה]] [[H9001\|וְ]][[H0816\|אָֽשְׁמָ֖ה]] [[H9009\|הַ]][[H5315J\|נֶּ֥פֶשׁ]] [[H9009\|הַ]][[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.5|<< Numbers 5:5]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.7|Numbers 5:7 >>]]</td></tr></table>
 

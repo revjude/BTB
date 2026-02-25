@@ -1,8 +1,48 @@
+---
+title: Job 29:10
+type: Verse
+kjv: "The nobles held their peace, and their tongue cleaved to the roof of their mouth."
+bsb: "The voices of the nobles were hushed, and their tongues stuck to the roofs of their mouths."
+hebrew: "קוֹל־ נְגִידִ֥ים נֶחְבָּ֑אוּ וּ֝לְשׁוֹנָ֗ם לְחִכָּ֥ם דָּבֵֽקָה׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H6963A]]"
+- "[[H9014]]"
+- "[[H5057]]"
+- "[[H2244]]"
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H2441]]"
+- "[[H1692]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:10**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The nobles held their peace, and their tongue cleaved to the roof of their mouth.
 <small><sub>**BSB:**</sub></small>
 The voices of the nobles were hushed, and their tongues stuck to the roofs of their mouths.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|קוֹל]][[H9014\|־]] [[H5057\|נְגִידִ֥ים]] [[H2244\|נֶחְבָּ֑אוּ]] [[H9002\|וּ֝]][[H3956G\|לְשׁוֹנָ֗]][[H9028\|ם]] [[H9005\|לְ]][[H2441\|חִכָּ֥]][[H9028\|ם]] [[H1692\|דָּבֵֽקָה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.9|<< Job 29:9]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.11|Job 29:11 >>]]</td></tr></table>
 

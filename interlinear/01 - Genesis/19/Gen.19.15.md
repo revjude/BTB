@@ -1,8 +1,72 @@
+---
+title: Genesis 19:15
+type: Verse
+kjv: "And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city."
+bsb: "At daybreak the angels hurried Lot along, saying, “Get up! Take your wife and your two daughters who are here, or you will be swept away in the punishment of the city.”"
+hebrew: "וּכְמוֹ֙ הַשַּׁ֣חַר עָלָ֔ה וַיָּאִ֥יצוּ הַמַּלְאָכִ֖ים בְּל֣וֹט לֵאמֹ֑ר קוּם֩ קַ֨ח אֶֽת־ אִשְׁתְּךָ֜ וְאֶת־ שְׁתֵּ֤י בְנֹתֶ֙יךָ֙ הַנִּמְצָאֹ֔ת פֶּן־ תִּסָּפֶ֖ה בַּעֲוֹ֥ן הָעִֽיר׃"
+pericope: "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3644G]]"
+- "[[H9009]]"
+- "[[H7837]]"
+- "[[H5927L]]"
+- "[[H9001]]"
+- "[[H0213]]"
+- "[[H4397H]]"
+- "[[H9003]]"
+- "[[H3876]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H6965B]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9021]]"
+- "[[H8147]]"
+- "[[H1323G]]"
+- "[[H4672]]"
+- "[[H6435]]"
+- "[[H5595]]"
+- "[[H5771I]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:15**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city.
 <small><sub>**BSB:**</sub></small>
 At daybreak the angels hurried Lot along, saying, “Get up! Take your wife and your two daughters who are here, or you will be swept away in the punishment of the city.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3644G\|כְמוֹ֙]] [[H9009\|הַ]][[H7837\|שַּׁ֣חַר]] [[H5927L\|עָלָ֔ה]] [[H9001\|וַ]][[H0213\|יָּאִ֥יצוּ]] [[H9009\|הַ]][[H4397H\|מַּלְאָכִ֖ים]] [[H9003\|בְּ]][[H3876\|ל֣וֹט]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H6965B\|קוּם֩]] [[H3947G\|קַ֨ח]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0802H\|אִשְׁתְּ]][[H9021\|ךָ֜]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁתֵּ֤י]] [[H1323G\|בְנֹתֶ֙י]][[H9021\|ךָ֙]] [[H9009\|הַ]][[H4672\|נִּמְצָאֹ֔ת]] [[H6435\|פֶּן]][[H9014\|־]] [[H5595\|תִּסָּפֶ֖ה]] [[H9003\|בַּ]][[H5771I\|עֲוֹ֥ן]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHILDREN|CHILDREN]] • [[topic COMPANY|COMPANY]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.14|<< Genesis 19:14]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.16|Genesis 19:16 >>]]</td></tr></table>
 

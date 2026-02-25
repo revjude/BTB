@@ -1,8 +1,52 @@
+---
+title: Amos 5:9
+type: Verse
+kjv: "That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress."
+bsb: "He flashes destruction on the strong, so that fury comes upon the stronghold."
+hebrew: "הַמַּבְלִ֥יג שֹׁ֖ד עַל־ עָ֑ז וְשֹׁ֖ד עַל־ מִבְצָ֥ר יָבֽוֹא׃"
+pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9009]]"
+- "[[H1082]]"
+- "[[H7701]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5794]]"
+- "[[H9002]]"
+- "[[H4013]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:9**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That strengtheneth the spoiled against the strong, so that the spoiled shall come against the fortress.
 <small><sub>**BSB:**</sub></small>
 He flashes destruction on the strong, so that fury comes upon the stronghold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1082\|מַּבְלִ֥יג]] [[H7701\|שֹׁ֖ד]] [[H5921A\|עַל]][[H9014\|־]] [[H5794\|עָ֑ז]] [[H9002\|וְ]][[H7701\|שֹׁ֖ד]] [[H5921A\|עַל]][[H9014\|־]] [[H4013\|מִבְצָ֥ר]] [[H0935G\|יָבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.8|<< Amos 5:8]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.10|Amos 5:10 >>]]</td></tr></table>
 

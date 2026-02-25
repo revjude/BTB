@@ -1,10 +1,58 @@
+---
+title: Luke 23:48
+type: Verse
+kjv: "And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned."
+bsb: "And when all the people who had gathered for this spectacle saw what had happened, they returned home beating their breasts."
+greek: "καὶ πάντες οἱ συμπαραγενόμενοι ὄχλοι ἐπὶ τὴν θεωρίαν ταύτην, θεωρήσαντες τὰ γενόμενα, τύπτοντες ἑαυτῶν τὰ στήθη ὑπέστρεφον.¶"
+pericope: "[[Luke.23.44 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4836]]"
+- "[[G3793]]"
+- "[[G1909]]"
+- "[[G2335]]"
+- "[[G3778]]"
+- "[[G2334]]"
+- "[[G1096]]"
+- "[[G5180]]"
+- "[[G1438]]"
+- "[[G4738]]"
+- "[[G5290]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 23:48**<big><big>[[Luke.23.44 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the people that came together to that sight, beholding the things which were done, smote their breasts, and returned.
 <small><sub>**BSB:**</sub></small>
 And when all the people who had gathered for this spectacle saw what had happened, they returned home beating their breasts.
-<small><sub>**Literal:**</sub></small>
-And all the having come together crowds to <the> spectacle this, having seen the [things] having taken place, beating their own <the> breasts were returning [home].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.47|<< Luke 23:47]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.49|Luke 23:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G4836\|συμπαραγενόμενοι]]  [[G3793\|ὄχλοι]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G2335\|θεωρίαν]]  [[G3778\|ταύτην,]]  [[G2334\|θεωρήσαντες]]  [[G3588\|τὰ]]  [[G1096\|γενόμενα,]]  [[G5180\|τύπτοντες]]  [[G1438\|ἑαυτῶν]]  [[G3588\|τὰ]]  [[G4738\|στήθη]]  [[G5290\|ὑπέστρεφον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.47|<< Luke 23:47]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.49|Luke 23:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

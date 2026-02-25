@@ -1,8 +1,53 @@
+---
+title: Isaiah 22:19
+type: Verse
+kjv: "And I will drive thee from thy station, and from thy state shall he pull thee down."
+bsb: "I will remove you from office, and you will be ousted from your position."
+hebrew: "וַהֲדַפְתִּ֖יךָ מִמַּצָּבֶ֑ךָ וּמִמַּעֲמָֽדְךָ֖ יֶהֶרְסֶֽךָ׃"
+pericope: "[[Isa.22.15 A Message for Shebna|A Message for Shebna]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1920]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H4673]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4612]]"
+- "[[H2040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:19**<big><big>[[Isa.22.15 A Message for Shebna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will drive thee from thy station, and from thy state shall he pull thee down.
 <small><sub>**BSB:**</sub></small>
 I will remove you from office, and you will be ousted from your position.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1920\|הֲדַפְתִּ֖י]][[H9031\|ךָ]] [[H9006\|מִ]][[H4673\|מַּצָּבֶ֑]][[H9021\|ךָ]] [[H9002\|וּ]][[H9006\|מִ]][[H4612\|מַּעֲמָֽדְ]][[H9021\|ךָ֖]] [[H2040\|יֶהֶרְסֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic PRIDE|PRIDE]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.18|<< Isaiah 22:18]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.20|Isaiah 22:20 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Isaiah 26:21
+type: Verse
+kjv: "For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain."
+bsb: "For behold, the LORD is coming out of His dwelling to punish the inhabitants of the earth for their iniquity. The earth will reveal her bloodshed and will no longer conceal her slain."
+hebrew: "כִּֽי־ הִנֵּ֤ה יְהוָה֙ יֹצֵ֣א מִמְּקוֹמ֔וֹ לִפְקֹ֛ד עֲוֹ֥ן יֹֽשֵׁב־ הָאָ֖רֶץ עָלָ֑יו וְגִלְּתָ֤ה הָאָ֙רֶץ֙ אֶת־ דָּמֶ֔יהָ וְלֹֽא־ תְכַסֶּ֥ה ע֖וֹד עַל־ הֲרוּגֶֽיהָ׃ ס"
+pericope: "[[Isa.26.1 A Song of Salvation|A Song of Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 26
+book/chapter: "[[Isa.26|Isaiah 26]]"
+chronological_order: 669
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H3068G]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6485H]]"
+- "[[H5771G]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H1540H]]"
+- "[[H0853]]"
+- "[[H1818]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3680]]"
+- "[[H5750]]"
+- "[[H2026]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 26:21**<big><big>[[Isa.26.1 A Song of Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.
 <small><sub>**BSB:**</sub></small>
 For behold, the LORD is coming out of His dwelling to punish the inhabitants of the earth for their iniquity. The earth will reveal her bloodshed and will no longer conceal her slain.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֤ה]] [[H3068G\|יְהוָה֙]] [[H3318G\|יֹצֵ֣א]] [[H9006\|מִ]][[H4725\|מְּקוֹמ֔]][[H9023\|וֹ]] [[H9005\|לִ]][[H6485H\|פְקֹ֛ד]] [[H5771G\|עֲוֹ֥ן]] [[H3427\|יֹֽשֵׁב]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9001\|וְ]][[H1540H\|גִלְּתָ֤ה]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3680\|תְכַסֶּ֥ה]] [[H5750\|ע֖וֹד]] [[H5921A\|עַל]][[H9014\|־]] [[H2026\|הֲרוּגֶֽי]][[H9024\|הָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.20|<< Isaiah 26:20]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.1|Isaiah 27:1 >>]]</td></tr></table>
 
@@ -26,7 +88,7 @@ For behold, the LORD is coming out of His dwelling to punish the inhabitants of 
 | it will cover  |**<big>&#8207;[[H3680\|תְכַסֶּ֥ה]]&#8207; </big>**| te.kha.Seh<small><sup>[[HVpi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | still  |**<big>&#8207;[[H5750\|ע֖וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| slain [ones] its  |**<big>&#8207;[[H2026\|הֲרוּגֶֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.ru.Gei.<small><sup>[[HVqsmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| slain [ones] its  |**<big>&#8207;[[H2026\|הֲרוּגֶֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.ru.Gei.<small><sup>[[HVqsmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.26.20|<< Isaiah 26:20]]</td><td align="center" style="border:none;">[[Isa.26|Isaiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.1|Isaiah 27:1 >>]]</td></tr></table>
 
 

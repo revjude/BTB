@@ -1,10 +1,59 @@
+---
+title: Titus 1:12
+type: Verse
+kjv: "One of themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies."
+bsb: "As one of their own prophets has said, “Cretans are always liars, evil beasts, lazy gluttons.”"
+greek: "εἶπέν τις ἐξ αὐτῶν ἴδιος αὐτῶν προφήτης· Κρῆτες ἀεὶ ψεῦσται, κακὰ θηρία, γαστέρες ἀργαί."
+pericope: "[[Titus.1.10 Correcting False Teachers|Correcting False Teachers]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 1
+book/chapter: "[[Titus.1|Titus 1]]"
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BELLY|BELLY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CRETE|CRETE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POET|POET]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G2398]]"
+- "[[G4396]]"
+- "[[G2912]]"
+- "[[G0104]]"
+- "[[G5583]]"
+- "[[G2556G]]"
+- "[[G2342]]"
+- "[[G1064]]"
+- "[[G0692]]"
+texts:
+- NKO
+---
+
 **Titus 1:12**<big><big>[[Titus.1.10 Correcting False Teachers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 One of themselves, [even] a prophet of their own, said, The Cretians [are] alway liars, evil beasts, slow bellies.
 <small><sub>**BSB:**</sub></small>
 As one of their own prophets has said, “Cretans are always liars, evil beasts, lazy gluttons.”
-<small><sub>**Literal:**</sub></small>
-Said one of them own of them a prophet; Cretans [are] always liars, evil beasts, gluttons lazy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.11|<< Titus 1:11]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.13|Titus 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπέν]]  [[G5100\|τις]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G2398\|ἴδιος]]  [[G0846\|αὐτῶν]]  [[G4396\|προφήτης·]]  [[G2912\|Κρῆτες]]  [[G0104\|ἀεὶ]]  [[G5583\|ψεῦσται,]]  [[G2556G\|κακὰ]]  [[G2342\|θηρία,]]  [[G1064\|γαστέρες]]  [[G0692\|ἀργαί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELLY|BELLY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CRETE|CRETE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POET|POET]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.11|<< Titus 1:11]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.13|Titus 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

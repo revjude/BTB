@@ -1,10 +1,56 @@
+---
+title: John 1:22
+type: Verse
+kjv: "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?"
+bsb: "So they said to him, “Who are you? We need an answer for those who sent us. What do you say about yourself?”"
+greek: "εἶπαν οὖν αὐτῷ· τίς εἶ; ἵνα ἀπόκρισιν δῶμεν τοῖς πέμψασιν ἡμᾶς· τί λέγεις περὶ σεαυτοῦ;"
+pericope: "[[John.1.19 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G2443]]"
+- "[[G0612]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G3992]]"
+- "[[G3165]]"
+- "[[G3004G]]"
+- "[[G4012]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **John 1:22**<big><big>[[John.1.19 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?
 <small><sub>**BSB:**</sub></small>
 So they said to him, “Who are you? We need an answer for those who sent us. What do you say about yourself?”
-<small><sub>**Literal:**</sub></small>
-They said therefore to him; Who are you? That an answer we may give to those having sent us; what say you about yourself?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.21|<< John 1:21]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.23|John 1:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπαν]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ·]]  [[G5101\|τίς]]  [[G1510\|εἶ;]]  [[G2443\|ἵνα]]  [[G0612\|ἀπόκρισιν]]  [[G1325\|δῶμεν]]  [[G3588\|τοῖς]]  [[G3992\|πέμψασιν]]  [[G3165\|ἡμᾶς·]]  [[G5101\|τί]]  [[G3004G\|λέγεις]]  [[G4012\|περὶ]]  [[G4771\|σεαυτοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.21|<< John 1:21]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.23|John 1:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

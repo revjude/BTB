@@ -1,8 +1,65 @@
+---
+title: Nehemiah 13:7
+type: Verse
+kjv: "And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God."
+bsb: "to return to Jerusalem. Then I discovered the evil that Eliashib had done on behalf of Tobiah by providing him a room in the courts of the house of God."
+hebrew: "וָאָב֖וֹא לִֽירוּשָׁלִָ֑ם וָאָבִ֣ינָה בָרָעָ֗ה אֲשֶׁ֨ר עָשָׂ֤ה אֶלְיָשִׁיב֙ לְט֣וֹבִיָּ֔ה לַעֲשׂ֥וֹת לוֹ֙ נִשְׁכָּ֔ה בְּחַצְרֵ֖י בֵּ֥ית הָאֱלֹהִֽים׃"
+pericope: "[[Neh.13.4 The Temple Cleansed|The Temple Cleansed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ELIASHIB|ELIASHIB]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TOBIAH|TOBIAH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H3389]]"
+- "[[H0995]]"
+- "[[H9012]]"
+- "[[H9003]]"
+- "[[H7451I]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H0475O]]"
+- "[[H2900I]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H5393]]"
+- "[[H2691A]]"
+- "[[H1004Q]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:7**<big><big>[[Neh.13.4 The Temple Cleansed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I came to Jerusalem, and understood of the evil that Eliashib did for Tobiah, in preparing him a chamber in the courts of the house of God.
 <small><sub>**BSB:**</sub></small>
 to return to Jerusalem. Then I discovered the evil that Eliashib had done on behalf of Tobiah by providing him a room in the courts of the house of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0935G\|אָב֖וֹא]] [[H9005\|לִֽ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9001\|וָ]][[H0995\|אָבִ֣ינָ]][[H9012\|ה]] [[H9003\|בָ]][[H7451I\|רָעָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשָׂ֤ה]] [[H0475O\|אֶלְיָשִׁיב֙]] [[H9005\|לְ]][[H2900I\|ט֣וֹבִיָּ֔ה]] [[H9005\|לַ]][[H6213H\|עֲשׂ֥וֹת]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H5393\|נִשְׁכָּ֔ה]] [[H9003\|בְּ]][[H2691A\|חַצְרֵ֖י]] [[H1004Q\|בֵּ֥ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIASHIB|ELIASHIB]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic TOBIAH|TOBIAH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.6|<< Nehemiah 13:6]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.8|Nehemiah 13:8 >>]]</td></tr></table>
 

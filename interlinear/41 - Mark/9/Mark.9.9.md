@@ -1,10 +1,66 @@
+---
+title: Mark 9:9
+type: Verse
+kjv: "And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead."
+bsb: "As they were coming down the mountain, Jesus admonished them not to tell anyone what they had seen until the Son of Man had risen from the dead."
+greek: "Καὶ καταβαινόντων δὲ αὐτῶν ἐκ τοῦ ὄρους διεστείλατο αὐτοῖς ἵνα μηδενὶ ἃ εἶδον διηγήσωνται εἰ μὴ ὅταν ὁ υἱὸς τοῦ ἀνθρώπου ἐκ νεκρῶν ἀναστῇ."
+pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G1291]]"
+- "[[G2443]]"
+- "[[G3367]]"
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G1334]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3752]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3498]]"
+- "[[G0450]]"
+texts:
+- no
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 9:9**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.
 <small><sub>**BSB:**</sub></small>
 As they were coming down the mountain, Jesus admonished them not to tell anyone what they had seen until the Son of Man had risen from the dead.
-<small><sub>**Literal:**</sub></small>
-And when are descending now they from the mountain He instructed them that to no one what they had seen they may tell only except when the Son <the> of Man out from [the] dead he may rise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.8|<< Mark 9:8]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.10|Mark 9:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2597\|καταβαινόντων]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3735\|ὄρους]]  [[G1291\|διεστείλατο]]  [[G0846\|αὐτοῖς]]  [[G2443\|ἵνα]]  [[G3367\|μηδενὶ]]  [[G3739\|ἃ]]  [[G1492H\|εἶδον]]  [[G1334\|διηγήσωνται]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3752\|ὅταν]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G0450\|ἀναστῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.8|<< Mark 9:8]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.10|Mark 9:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

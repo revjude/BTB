@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Intermarriage with Neighboring Peoples
+type: Pericope
 pericope: "[[Ezra.9.1 Intermarriage with Neighboring Peoples|Intermarriage with Neighboring Peoples]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 9
 book/chapter: "[[Ezra.9|Ezra 9]]"
-genre:
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 4
 verses:
 - "[[Ezra.9.1]]"
 - "[[Ezra.9.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Ezra.9.4]]"
 ---
 
-[[Ezra.9|Ezra 9:1 - Ezra 9:4]]
+<small>[[Ezra.9|Ezra 9:1-4]]</small>
 *Intermarriage with Neighboring Peoples*
 
 [[Ezra.9.1|1]] Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands, \[doing\] according to their abominations, \[even\] of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.

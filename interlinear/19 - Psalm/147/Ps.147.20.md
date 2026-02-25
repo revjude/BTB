@@ -1,8 +1,60 @@
+---
+title: Psalm 147:20
+type: Verse
+kjv: "He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD."
+bsb: "He has done this for no other nation; they do not know His judgments. Hallelujah!"
+hebrew: "לֹ֘א עָ֤שָׂה כֵ֨ן׀ לְכָל־ גּ֗וֹי וּמִשְׁפָּטִ֥ים בַּל־ יְדָע֗וּם הַֽלְלוּ־ יָֽהּ׃"
+pericope: "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H1077]]"
+- "[[H3045]]"
+- "[[H9038]]"
+- "[[H1984B]]"
+- "[[H3050]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 147:20**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath not dealt so with any nation: and [as for his] judgments, they have not known them. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
 He has done this for no other nation; they do not know His judgments. Hallelujah!
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֘א]] [[H6213A\|עָ֤שָׂה]] [[H3651C\|כֵ֨ן]][[H9015\|׀]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1471A\|גּ֗וֹי]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטִ֥ים]] [[H1077\|בַּל]][[H9014\|־]] [[H3045\|יְדָע֗וּ]][[H9038\|ם]] [[H1984B\|הַֽלְלוּ]][[H9014\|־]] [[H3050\|יָֽהּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.19|<< Psalms 147:19]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.148.1|Psalms 148:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

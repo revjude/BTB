@@ -1,8 +1,54 @@
+---
+title: Proverbs 11:9
+type: Verse
+kjv: "An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered."
+bsb: "With his mouth the ungodly man destroys his neighbor, but through knowledge the righteous are rescued."
+hebrew: "בְּפֶ֗ה חָ֭נֵף יַשְׁחִ֣ת רֵעֵ֑הוּ וּ֝בְדַ֗עַת צַדִּיקִ֥ים יֵחָלֵֽצוּ׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H2611]]"
+- "[[H7843]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H6662]]"
+- "[[H2502A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:9**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An hypocrite with [his] mouth destroyeth his neighbour: but through knowledge shall the just be delivered.
 <small><sub>**BSB:**</sub></small>
 With his mouth the ungodly man destroys his neighbor, but through knowledge the righteous are rescued.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H6310G\|פֶ֗ה]] [[H2611\|חָ֭נֵף]] [[H7843\|יַשְׁחִ֣ת]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9002\|וּ֝]][[H9003\|בְ]][[H1847\|דַ֗עַת]] [[H6662\|צַדִּיקִ֥ים]] [[H2502A\|יֵחָלֵֽצוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SLANDER|SLANDER]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.8|<< Proverbs 11:8]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.10|Proverbs 11:10 >>]]</td></tr></table>
 

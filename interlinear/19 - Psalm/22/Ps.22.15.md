@@ -1,8 +1,62 @@
+---
+title: Psalm 22:15
+type: Verse
+kjv: "My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death."
+bsb: "My strength is dried up like a potsherd, and my tongue sticks to the roof of my mouth. You lay me in the dust of death."
+hebrew: "יָ֘בֵ֤שׁ כַּחֶ֨רֶשׂ׀ כֹּחִ֗י וּ֭לְשׁוֹנִי מֻדְבָּ֣ק מַלְקוֹחָ֑י וְֽלַעֲפַר־ מָ֥וֶת תִּשְׁפְּתֵֽנִי׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FEVER|FEVER]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H3001]]"
+- "[[H9004]]"
+- "[[H2789]]"
+- "[[H9015]]"
+- "[[H3581B]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H1692]]"
+- "[[H4455B]]"
+- "[[H9005]]"
+- "[[H6083]]"
+- "[[H9014]]"
+- "[[H4194]]"
+- "[[H8239]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:15**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and thou hast brought me into the dust of death.
 <small><sub>**BSB:**</sub></small>
 My strength is dried up like a potsherd, and my tongue sticks to the roof of my mouth. You lay me in the dust of death.
+<small><sub>**Hebrew:**</sub></small>
+[[H3001\|יָ֘בֵ֤שׁ]] [[H9004\|כַּ]][[H2789\|חֶ֨רֶשׂ]][[H9015\|׀]] [[H3581B\|כֹּחִ֗]][[H9020\|י]] [[H9002\|וּ֭]][[H3956G\|לְשׁוֹנִ]][[H9020\|י]] [[H1692\|מֻדְבָּ֣ק]] [[H4455B\|מַלְקוֹחָ֑]][[H9020\|י]] [[H9002\|וְֽ]][[H9005\|לַ]][[H6083\|עֲפַר]][[H9014\|־]] [[H4194\|מָ֥וֶת]] [[H8239\|תִּשְׁפְּתֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FEVER|FEVER]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.14|<< Psalms 22:14]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.16|Psalms 22:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

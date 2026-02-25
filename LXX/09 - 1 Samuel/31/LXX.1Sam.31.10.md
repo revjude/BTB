@@ -1,6 +1,56 @@
+---
+title: LXX 1 Samuel 31:10
+type: Verse
+lxx: "And they presented  his weapons in the Astartion. And  his body they fastened down on the wall in Beth-shan."
+greek: "και ανέθηκαν τα σκεύη αυτού εις το Αστάρτιον και το σώμα αυτού κατέπηξαν εν τω τείχει Βαιθσάμ"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 31
+book/chapter: "[[1Sam.31|1 Samuel 31]]"
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASHTORETH|ASHTORETH]]"
+- "[[topic BETH-SHEAN|BETH-SHEAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TROPHIES|TROPHIES]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+strongs:
+- "[[G2532]]"
+- "[[G0394]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[H6252]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G1473]]"
+- "[[G7893]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5038]]"
+- "[[H1052]]"
+---
+
 **LXX 1 Samuel 31:10** 
 <small><sub>**LXX:**</sub></small>
 And they presented  his weapons in the Astartion. And  his body they fastened down on the wall in Beth-shan. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0394\|ανέθηκαν]] [[G3588\|τα]] [[G4632\|σκεύη]] [[G1473\|αυτού]] [[G1519\|εις]] [[G3588\|το]] [[H6252\|Αστάρτιον]] [[G2532\|και]] [[G3588\|το]] [[G4983\|σώμα]] [[G1473\|αυτού]] [[G7893\|κατέπηξαν]] [[G1722\|εν]] [[G3588\|τω]] [[G5038\|τείχει]] [[H1052\|Βαιθσάμ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHTORETH|ASHTORETH]] • [[topic BETH-SHEAN|BETH-SHEAN]] • [[topic TEMPLE|TEMPLE]] • [[topic TROPHIES|TROPHIES]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.9|<< 1 Samuel 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.11|1 Samuel 31:11 >>]]</td></tr></table>
 
@@ -21,6 +71,6 @@ And they presented  his weapons in the Astartion. And  his body they fastened do
 | the | **<big>[[G3588\|τω]]</big>** |
 | wall | **<big>[[G5038\|τείχει]]</big>** |
 | in Beth-shan. | **<big>[[H1052\|Βαιθσάμ]]</big>** |
-[[1Sam.31.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.9|<< 1 Samuel 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.11|1 Samuel 31:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.31.9|<< 1 Samuel 31:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.31.11|1 Samuel 31:11 >>]]</td></tr></table>
 
 

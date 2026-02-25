@@ -1,6 +1,81 @@
+---
+title: LXX Ecclesiastes 6:2
+type: Verse
+lxx: "A man to whom God shall give to him wealth, and possessions, and glory, and there is nothing lacking to his soul from all things which he shall desire; yet God shall not give authority to him  to eat from it; for a man, a stranger, shall eat it. And this is folly and an evil sickness."
+greek: "ανήρ ω δώσει αυτώ ο θεός πλούτον και υπάρχοντα και δόξαν και ουκ έστιν υστερών τη ψυχή αυτού από πάντων ων επιθυμήσει και ουκ εξουσιάσει αυτώ ο θεός του φαγείν απ΄ αυτού ότι ανήρ ξένος φάγεται αυτόν και γε τούτο ματαιότης και αρρωστία πονηρά εστιν"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic RICHES|RICHES]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[G0435]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4149]]"
+- "[[G2532]]"
+- "[[G5225]]"
+- "[[G2532]]"
+- "[[G1391]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5302]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G1937]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1850]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G2068]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G0435]]"
+- "[[G3581]]"
+- "[[G2068]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1065]]"
+- "[[G3778]]"
+- "[[G3153]]"
+- "[[G2532]]"
+- "[[G6543]]"
+- "[[G4190]]"
+- "[[G1510]]"
+---
+
 **LXX Ecclesiastes 6:2** 
 <small><sub>**LXX:**</sub></small>
 A man to whom God shall give to him wealth, and possessions, and glory, and there is nothing lacking to his soul from all \[things\] which he shall desire; yet God shall not give authority to him  to eat from it; for a man, a stranger, shall eat it. And this is folly and an evil sickness. 
+<small><sub>**Greek:**</sub></small>
+[[G0435\|ανήρ]] [[G3739\|ω]] [[G1325\|δώσει]] [[G1473\|αυτώ]] [[G3588\|ο]] [[G2316\|θεός]] [[G4149\|πλούτον]] [[G2532\|και]] [[G5225\|υπάρχοντα]] [[G2532\|και]] [[G1391\|δόξαν]] [[G2532\|και]] [[G3756\|ουκ]] [[G1510\|έστιν]] [[G5302\|υστερών]] [[G3588\|τη]] [[G5590\|ψυχή]] [[G1473\|αυτού]] [[G0575\|από]] [[G3956\|πάντων]] [[G3739\|ων]] [[G1937\|επιθυμήσει]] [[G2532\|και]] [[G3756\|ουκ]] [[G1850\|εξουσιάσει]] [[G1473\|αυτώ]] [[G3588\|ο]] [[G2316\|θεός]] [[G3588\|του]] [[G2068\|φαγείν]] [[G0575\|απ΄]] [[G1473\|αυτού]] [[G3754\|ότι]] [[G0435\|ανήρ]] [[G3581\|ξένος]] [[G2068\|φάγεται]] [[G1473\|αυτόν]] [[G2532\|και]] [[G1065\|γε]] [[G3778\|τούτο]] [[G3153\|ματαιότης]] [[G2532\|και]] [[G6543\|αρρωστία]] [[G4190\|πονηρά]] [[G1510\|εστιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RICHES|RICHES]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Eccl.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.1|<< Ecclesiastes 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.3|Ecclesiastes 6:3 >>]]</td></tr></table>
 
@@ -47,6 +122,6 @@ A man to whom God shall give to him wealth, and possessions, and glory, and ther
 | sickness | **<big>[[G6543\|αρρωστία]]</big>** |
 | an evil | **<big>[[G4190\|πονηρά]]</big>** |
 | is | **<big>[[G1510\|εστιν]]</big>** |
-[[Eccl.6.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.1|<< Ecclesiastes 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.3|Ecclesiastes 6:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.6.1|<< Ecclesiastes 6:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.6.3|Ecclesiastes 6:3 >>]]</td></tr></table>
 
 

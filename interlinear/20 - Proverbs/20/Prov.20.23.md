@@ -1,8 +1,55 @@
+---
+title: Proverbs 20:23
+type: Verse
+kjv: "Divers weights are an abomination unto the LORD; and a false balance is not good."
+bsb: "Unequal weights are detestable to the LORD, and dishonest scales are no good."
+hebrew: "תּוֹעֲבַ֣ת יְ֭הוָה אֶ֣בֶן וָאָ֑בֶן וּמֹאזְנֵ֖י מִרְמָ֣ה לֹא־ טֽוֹב׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic BALANCES|BALANCES]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic WEIGHTS|WEIGHTS]]"
+strongs:
+- "[[H8441]]"
+- "[[H3068G]]"
+- "[[H0068H]]"
+- "[[H9002]]"
+- "[[H3976]]"
+- "[[H4820]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:23**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Divers weights [are] an abomination unto the LORD; and a false balance [is] not good.
 <small><sub>**BSB:**</sub></small>
 Unequal weights are detestable to the LORD, and dishonest scales are no good.
+<small><sub>**Hebrew:**</sub></small>
+[[H8441\|תּוֹעֲבַ֣ת]] [[H3068G\|יְ֭הוָה]] [[H0068H\|אֶ֣בֶן]] [[H9002\|וָ]][[H0068H\|אָ֑בֶן]] [[H9002\|וּ]][[H3976\|מֹאזְנֵ֖י]] [[H4820\|מִרְמָ֣ה]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic BALANCES|BALANCES]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HONESTY|HONESTY]] • [[topic MEASURE|MEASURE]] • [[topic WEIGHTS|WEIGHTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.22|<< Proverbs 20:22]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.24|Proverbs 20:24 >>]]</td></tr></table>
 

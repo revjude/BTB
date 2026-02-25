@@ -1,10 +1,69 @@
+---
+title: Luke 11:24
+type: Verse
+kjv: "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out."
+bsb: "When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it. Then it says, ‘I will return to the house I left.’"
+jesus_said: "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out."
+greek: "Ὅταν τὸ ἀκάθαρτον πνεῦμα ἐξέλθῃ ἀπὸ τοῦ ἀνθρώπου, διέρχεται δι᾽ ἀνύδρων τόπων ζητοῦν ἀνάπαυσιν. καὶ μὴ εὑρίσκον τότε λέγει· ὑποστρέψω εἰς τὸν οἶκόν μου ὅθεν ἐξῆλθον."
+pericope: "[[Luke.11.24 An Unclean Spirit Returns|An Unclean Spirit Returns]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G3752]]"
+- "[[G3588]]"
+- "[[G0169]]"
+- "[[G4151G]]"
+- "[[G1831]]"
+- "[[G0575]]"
+- "[[G0444]]"
+- "[[G1330]]"
+- "[[G1223]]"
+- "[[G0504]]"
+- "[[G5117]]"
+- "[[G2212]]"
+- "[[G0372]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2147]]"
+- "[[G5119]]"
+- "[[G3004G]]"
+- "[[G5290]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G3165]]"
+- "[[G3606]]"
+texts:
+- NKO
+- NO
+---
+
 **Luke 11:24**<big><big>[[Luke.11.24 An Unclean Spirit Returns|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out.
 <small><sub>**BSB:**</sub></small>
 When an unclean spirit comes out of a man, it passes through arid places seeking rest and does not find it. Then it says, ‘I will return to the house I left.’
-<small><sub>**Literal:**</sub></small>
-When the unclean spirit is gone out from the man, it passes through waterless places seeking rest. and not finding [any] then it says; I will return to the house of mine from where I came out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.23|<< Luke 11:23]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.25|Luke 11:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|Ὅταν]]  [[G3588\|τὸ]]  [[G0169\|ἀκάθαρτον]]  [[G4151G\|πνεῦμα]]  [[G1831\|ἐξέλθῃ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου,]]  [[G1330\|διέρχεται]]  [[G1223\|δι᾽]]  [[G0504\|ἀνύδρων]]  [[G5117\|τόπων]]  [[G2212\|ζητοῦν]]  [[G0372\|ἀνάπαυσιν.]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2147\|εὑρίσκον]]  [[G5119\|τότε]]  [[G3004G\|λέγει·]]  [[G5290\|ὑποστρέψω]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκόν]]  [[G3165\|μου]]  [[G3606\|ὅθεν]]  [[G1831\|ἐξῆλθον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.23|<< Luke 11:23]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.25|Luke 11:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

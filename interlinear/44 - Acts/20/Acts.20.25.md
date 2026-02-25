@@ -1,10 +1,65 @@
+---
+title: Acts 20:25
+type: Verse
+kjv: "And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more."
+bsb: "Now I know that none of you among whom I have preached the kingdom will see my face again."
+greek: "καὶ νῦν ἰδοὺ ἐγὼ οἶδα ὅτι οὐκέτι οὐκέτι ὄψεσθε τὸ πρόσωπόν μου ὑμεῖς πάντες, ἐν οἷς διῆλθον κηρύσσων τὴν βασιλείαν τοῦ θεοῦ."
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3700]]"
+- "[[G3588]]"
+- "[[G4383]]"
+- "[[G3165]]"
+- "[[G4771]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1330]]"
+- "[[G2784]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 20:25**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.
 <small><sub>**BSB:**</sub></small>
 Now I know that none of you among whom I have preached the kingdom will see my face again.
-<small><sub>**Literal:**</sub></small>
-And now behold I myself know that no longer you will behold the face of me you yourselves all among whom I have gone about proclaiming the kingdom of the God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.24|<< Acts 20:24]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.26|Acts 20:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγὼ]]  [[G6063\|οἶδα]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3700\|ὄψεσθε]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπόν]]  [[G3165\|μου]]  [[G4771\|ὑμεῖς]]  [[G3956\|πάντες,]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G1330\|διῆλθον]]  [[G2784\|κηρύσσων]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.24|<< Acts 20:24]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.26|Acts 20:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

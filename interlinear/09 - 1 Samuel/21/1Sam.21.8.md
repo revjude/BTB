@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 21:8
+type: Verse
+kjv: "And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste."
+bsb: "Then David asked Ahimelech, “Is there not a spear or sword on hand here? For I have brought neither my sword nor my weapons with me, because the king’s mission was urgent.”"
+hebrew: "וַיֹּ֤אמֶר דָּוִד֙ לַאֲחִימֶ֔לֶךְ וְאִ֛ין יֶשׁ־ פֹּ֥ה תַֽחַת־ יָדְךָ֖ חֲנִ֣ית אוֹ־ חָ֑רֶב כִּ֣י גַם־ חַרְבִּ֤י וְגַם־ כֵּלַי֙ לֹֽא־ לָקַ֣חְתִּי בְיָדִ֔י כִּֽי־ הָיָ֥ה דְבַר־ הַמֶּ֖לֶךְ נָחֽוּץ׃ ס"
+pericope: "[[1Sam.21.8 David Flees to Gath|David Flees to Gath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 21
+book/chapter: "[[1Sam.21|1 Samuel 21]]"
+chronological_order: 300
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H0288G]]"
+- "[[H9002]]"
+- "[[H0371]]"
+- "[[H3426]]"
+- "[[H9014]]"
+- "[[H6311]]"
+- "[[H8478K]]"
+- "[[H3027W]]"
+- "[[H9021]]"
+- "[[H2595]]"
+- "[[H0176A]]"
+- "[[H2719]]"
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H9020]]"
+- "[[H3627]]"
+- "[[H3808]]"
+- "[[H3947J]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H1697I]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5169]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 21:8**<big><big>[[1Sam.21.8 David Flees to Gath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste.
 <small><sub>**BSB:**</sub></small>
 Then David asked Ahimelech, “Is there not a spear or sword on hand here? For I have brought neither my sword nor my weapons with me, because the king’s mission was urgent.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1732\|דָּוִד֙]] [[H9005\|לַ]][[H0288G\|אֲחִימֶ֔לֶךְ]] [[H9002\|וְ]][[H0371\|אִ֛ין]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H6311\|פֹּ֥ה]] [[H8478K\|תַֽחַת]][[H9014\|־]] [[H3027W\|יָדְ]][[H9021\|ךָ֖]] [[H2595\|חֲנִ֣ית]] [[H0176A\|אוֹ]][[H9014\|־]] [[H2719\|חָ֑רֶב]] [[H3588A\|כִּ֣י]] [[H1571\|גַם]][[H9014\|־]] [[H2719\|חַרְבִּ֤]][[H9020\|י]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H3627\|כֵּלַ]][[H9020\|י֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3947J\|לָקַ֣חְתִּי]] [[H9003\|בְ]][[H3027W\|יָדִ֔]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H1697I\|דְבַר]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H5169\|נָחֽוּץ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.7|<< 1 Samuel 21:7]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.9|1 Samuel 21:9 >>]]</td></tr></table>
 
@@ -31,7 +93,7 @@ Then David asked Ahimelech, “Is there not a spear or sword on hand here? For I
 | it was  |**<big>&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] matter of  |**<big>&#8207;[[H1697I\|דְבַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| de.var-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֖לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| urgent  |**<big>&#8207;[[H5169\|נָחֽוּץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| na.Chutz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| urgent  |**<big>&#8207;[[H5169\|נָחֽוּץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| na.Chutz<small><sup>[[HVqsmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.21.7|<< 1 Samuel 21:7]]</td><td align="center" style="border:none;">[[1Sam.21|1 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.9|1 Samuel 21:9 >>]]</td></tr></table>
 
 

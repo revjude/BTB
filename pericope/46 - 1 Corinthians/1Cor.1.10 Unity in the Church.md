@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Unity in the Church
+type: Pericope
 pericope: "[[1Cor.1.10 Unity in the Church|Unity in the Church]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 1
 book/chapter: "[[1Cor.1|1 Corinthians 1]]"
-genre:
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 8
 verses:
 - "[[1Cor.1.10]]"
 - "[[1Cor.1.11]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Cor.1.17]]"
 ---
 
-[[1Cor.1|1 Corinthians 1:10 - 1 Corinthians 1:17]]
+<small>[[1Cor.1|1 Corinthians 1:10-17]]</small>
 *Unity in the Church*
 
 [[1Cor.1.10|10]] Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and \[that\] there be no divisions among you; but \[that\] ye be perfectly joined together in the same mind and in the same judgment.

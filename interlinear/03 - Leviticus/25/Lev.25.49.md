@@ -1,8 +1,62 @@
+---
+title: Leviticus 25:49
+type: Verse
+kjv: "Either his uncle, or his uncle’s son, may redeem him, or any that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself."
+bsb: "either his uncle or cousin or any close relative from his clan may redeem him. Or if he prospers, he may redeem himself."
+hebrew: "אוֹ־ דֹד֞וֹ א֤וֹ בֶן־ דֹּדוֹ֙ יִגְאָלֶ֔נּוּ אֽוֹ־ מִשְּׁאֵ֧ר בְּשָׂר֛וֹ מִמִּשְׁפַּחְתּ֖וֹ יִגְאָלֶ֑נּוּ אֽוֹ־ הִשִּׂ֥יגָה יָד֖וֹ וְנִגְאָֽל׃"
+pericope: "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H1730I]]"
+- "[[H9023]]"
+- "[[H1121G]]"
+- "[[H1350A]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H7607]]"
+- "[[H1320]]"
+- "[[H4940]]"
+- "[[H5381]]"
+- "[[H3027I]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:49**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Either his uncle, or his uncle’s son, may redeem him, or [any] that is nigh of kin unto him of his family may redeem him; or if he be able, he may redeem himself.
 <small><sub>**BSB:**</sub></small>
 either his uncle or cousin or any close relative from his clan may redeem him. Or if he prospers, he may redeem himself.
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|אוֹ]][[H9014\|־]] [[H1730I\|דֹד֞]][[H9023\|וֹ]] [[H0176A\|א֤וֹ]] [[H1121G\|בֶן]][[H9014\|־]] [[H1730I\|דֹּד]][[H9023\|וֹ֙]] [[H1350A\|יִגְאָלֶ֔]][[H9033\|נּוּ]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H9006\|מִ]][[H7607\|שְּׁאֵ֧ר]] [[H1320\|בְּשָׂר֛]][[H9023\|וֹ]] [[H9006\|מִ]][[H4940\|מִּשְׁפַּחְתּ֖]][[H9023\|וֹ]] [[H1350A\|יִגְאָלֶ֑]][[H9033\|נּוּ]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H5381\|הִשִּׂ֥יגָה]] [[H3027I\|יָד֖]][[H9023\|וֹ]] [[H9001\|וְ]][[H1350A\|נִגְאָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.48|<< Leviticus 25:48]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.50|Leviticus 25:50 >>]]</td></tr></table>
 

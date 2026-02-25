@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Purpose of Jesus’ Parables
+type: Pericope
 pericope: "[[Mark.4.10 The Purpose of Jesus’ Parables|The Purpose of Jesus’ Parables]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Mark
 chapter: 4
 book/chapter: "[[Mark.4|Mark 4]]"
-genre:
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 3
 verses:
 - "[[Mark.4.10]]"
 - "[[Mark.4.11]]"
 - "[[Mark.4.12]]"
 ---
 
-[[Mark.4|Mark 4:10 - Mark 4:12]]
+<small>[[Mark.4|Mark 4:10-12]]</small>
 *The Purpose of Jesus’ Parables*
 
 [[Mark.4.10|10]] And when he was alone, they that were about him with the twelve asked of him the parable.

@@ -1,10 +1,63 @@
+---
+title: Luke 6:12
+type: Verse
+kjv: "And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God."
+bsb: "In those days Jesus went out to the mountain to pray, and He spent the night in prayer to God."
+greek: "Ἐγένετο δὲ ἐν ταῖς ἡμέραις ταύταις ἐξελθεῖν αὐτὸν εἰς τὸ ὄρος προσεύξασθαι· καὶ ἦν διανυκτερεύων ἐν τῇ προσευχῇ τοῦ θεοῦ."
+pericope: "[[Luke.6.12 The Twelve Apostles|The Twelve Apostles]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+- "[[G1831]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3735]]"
+- "[[G4336]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1273]]"
+- "[[G4335]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Luke 6:12**<big><big>[[Luke.6.12 The Twelve Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass in those days, that he went out into a mountain to pray, and continued all night in prayer to God.
 <small><sub>**BSB:**</sub></small>
 In those days Jesus went out to the mountain to pray, and He spent the night in prayer to God.
-<small><sub>**Literal:**</sub></small>
-It came to pass then in the days those to go out He to the mountain to pray; and He was spending the night in <the> prayer <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.11|<< Luke 6:11]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.13|Luke 6:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3778\|ταύταις]]  [[G1831\|ἐξελθεῖν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G4336\|προσεύξασθαι·]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G1273\|διανυκτερεύων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4335\|προσευχῇ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic NIGHT|NIGHT]] • [[topic PRAYER|PRAYER]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.11|<< Luke 6:11]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.13|Luke 6:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

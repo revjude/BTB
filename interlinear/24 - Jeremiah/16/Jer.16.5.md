@@ -1,8 +1,67 @@
+---
+title: Jeremiah 16:5
+type: Verse
+kjv: "For thus saith the LORD, Enter not into the house of mourning, neither go to lament nor bemoan them: for I have taken away my peace from this people, saith the LORD, even lovingkindness and mercies."
+bsb: "Indeed, this is what the LORD says: “Do not enter a house where there is a funeral meal. Do not go to mourn or show sympathy, for I have removed from this people My peace, My loving devotion, and My compassion,” declares the LORD."
+hebrew: "כִּֽי־ כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה אַל־ תָּבוֹא֙ בֵּ֣ית מַרְזֵ֔חַ וְאַל־ תֵּלֵ֣ךְ לִסְפּ֔וֹד וְאַל־ תָּנֹ֖ד לָהֶ֑ם כִּֽי־ אָסַ֨פְתִּי אֶת־ שְׁלוֹמִ֜י מֵאֵ֨ת הָעָ֤ם־ הַזֶּה֙ נְאֻם־ יְהוָ֔ה אֶת־ הַחֶ֖סֶד וְאֶת־ הָֽרַחֲמִֽים׃"
+pericope: "[[Jer.16.1 Disaster Predicted|Disaster Predicted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H0935G]]"
+- "[[H1004B]]"
+- "[[H4798]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H5594]]"
+- "[[H5110]]"
+- "[[H9038]]"
+- "[[H0622]]"
+- "[[H0853]]"
+- "[[H7965G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H5002]]"
+- "[[H2617A]]"
+- "[[H7356B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 16:5**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD, Enter not into the house of mourning, neither go to lament nor bemoan them: for I have taken away my peace from this people, saith the LORD, [even] lovingkindness and mercies.
 <small><sub>**BSB:**</sub></small>
 Indeed, this is what the LORD says: “Do not enter a house where there is a funeral meal. Do not go to mourn or show sympathy, for I have removed from this people My peace, My loving devotion, and My compassion,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3541\|כֹ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H0935G\|תָּבוֹא֙]] [[H1004B\|בֵּ֣ית]] [[H4798\|מַרְזֵ֔חַ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1980G\|תֵּלֵ֣ךְ]] [[H9005\|לִ]][[H5594\|סְפּ֔וֹד]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5110\|תָּנֹ֖ד]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0622\|אָסַ֨פְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H7965G\|שְׁלוֹמִ֜]][[H9020\|י]] [[H9006\|מֵ]][[H0854\|אֵ֨ת]] [[H9009\|הָ]][[H5971A\|עָ֤ם]][[H9014\|־]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2617A\|חֶ֖סֶד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H7356B\|רַחֲמִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.4|<< Jeremiah 16:4]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.6|Jeremiah 16:6 >>]]</td></tr></table>
 

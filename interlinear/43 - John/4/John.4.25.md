@@ -1,10 +1,58 @@
+---
+title: John 4:25
+type: Verse
+kjv: "The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things."
+bsb: "The woman said, “I know that Messiah” (called Christ) “is coming. When He comes, He will explain everything to us.”"
+greek: "Λέγει αὐτῷ ἡ γυνή· οἶδα ὅτι Μεσσίας ἔρχεται, ὁ λεγόμενος χριστός, ὅταν ἔλθῃ ἐκεῖνος, ἀναγγελεῖ ἡμῖν ἅπαντα."
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3323]]"
+- "[[G2064]]"
+- "[[G5547]]"
+- "[[G3752]]"
+- "[[G1565]]"
+- "[[G0312]]"
+- "[[G3165]]"
+- "[[G0537]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 4:25**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The woman saith unto him, I know that Messias cometh, which is called Christ: when he is come, he will tell us all things.
 <small><sub>**BSB:**</sub></small>
 The woman said, “I know that Messiah” (called Christ) “is coming. When He comes, He will explain everything to us.”
-<small><sub>**Literal:**</sub></small>
-Says to Him the woman; I know that Messiah is coming, who is called Christ, when may come He, He will tell us all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.24|<< John 4:24]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.26|John 4:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ἡ]]  [[G1135G\|γυνή·]]  [[G6063\|οἶδα]]  [[G3754G\|ὅτι]]  [[G3323\|Μεσσίας]]  [[G2064\|ἔρχεται,]]  [[G3588\|ὁ]]  [[G3004G\|λεγόμενος]]  [[G5547\|χριστός,]]  [[G3752\|ὅταν]]  [[G2064\|ἔλθῃ]]  [[G1565\|ἐκεῖνος,]]  [[G0312\|ἀναγγελεῖ]]  [[G3165\|ἡμῖν]]  [[G0537\|ἅπαντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.24|<< John 4:24]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.26|John 4:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

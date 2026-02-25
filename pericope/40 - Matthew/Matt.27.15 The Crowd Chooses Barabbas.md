@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Crowd Chooses Barabbas
+type: Pericope
 pericope: "[[Matt.27.15 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 27
 book/chapter: "[[Matt.27|Matthew 27]]"
-genre:
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Matt.27.15]]"
 - "[[Matt.27.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Matt.27.23]]"
 ---
 
-[[Matt.27|Matthew 27:15 - Matthew 27:23]]
+<small>[[Matt.27|Matthew 27:15-23]]</small>
 *The Crowd Chooses Barabbas*
 
 [[Matt.27.15|15]] Now at \[that\] feast the governor was wont to release unto the people a prisoner, whom they would.

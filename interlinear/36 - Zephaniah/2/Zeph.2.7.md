@@ -1,8 +1,68 @@
+---
+title: Zephaniah 2:7
+type: Verse
+kjv: "And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity."
+bsb: "The coast will belong to the remnant of the house of Judah; there they will find pasture. They will lie down in the evening among the houses of Ashkelon, for the LORD their God will attend to them and restore their captives."
+hebrew: "וְהָ֣יָה חֶ֗בֶל לִשְׁאֵרִ֛ית בֵּ֥ית יְהוּדָ֖ה עֲלֵיהֶ֣ם יִרְע֑וּן בְּבָתֵּ֣י אַשְׁקְל֗וֹן בָּעֶ֙רֶב֙ יִרְבָּצ֔וּן כִּ֧י יִפְקְדֵ֛ם יְהוָ֥ה אֱלֹהֵיהֶ֖ם וְשָׁ֥ב שְׁבִיתָֽם׃"
+pericope: "[[Zeph.2.4 Judgment on the Philistines|Judgment on the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ASHKELON|ASHKELON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H2256M]]"
+- "[[H9005]]"
+- "[[H7611]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7462B]]"
+- "[[H9013]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0831]]"
+- "[[H6153]]"
+- "[[H7257]]"
+- "[[H3588A]]"
+- "[[H6485I]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H7725H]]"
+- "[[H7622]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Zephaniah 2:7**<big><big>[[Zeph.2.4 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast shall be for the remnant of the house of Judah; they shall feed thereupon: in the houses of Ashkelon shall they lie down in the evening: for the LORD their God shall visit them, and turn away their captivity.
 <small><sub>**BSB:**</sub></small>
 The coast will belong to the remnant of the house of Judah; there they will find pasture. They will lie down in the evening among the houses of Ashkelon, for the LORD their God will attend to them and restore their captives.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָ֣יָה]] [[H2256M\|חֶ֗בֶל]] [[H9005\|לִ]][[H7611\|שְׁאֵרִ֛ית]] [[H1004M\|בֵּ֥ית]] [[H3063G\|יְהוּדָ֖ה]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֣ם]] [[H7462B\|יִרְע֑וּ]][[H9013\|ן]] [[H9003\|בְּ]][[H1004B\|בָתֵּ֣י]] [[H0831\|אַשְׁקְל֗וֹן]] [[H9003\|בָּ]][[H6153\|עֶ֙רֶב֙]] [[H7257\|יִרְבָּצ֔וּ]][[H9013\|ן]] [[H3588A\|כִּ֧י]] [[H6485I\|יִפְקְדֵ֛]][[H9038\|ם]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֖ם]] [[H9001\|וְ]][[H7725H\|שָׁ֥ב]] [[H7622\|שְׁבִיתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHKELON|ASHKELON]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.6|<< Zephaniah 2:6]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.8|Zephaniah 2:8 >>]]</td></tr></table>
 

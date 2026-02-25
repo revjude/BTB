@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nebuchadnezzar Restored
+type: Pericope
 pericope: "[[Dan.4.34 Nebuchadnezzar Restored|Nebuchadnezzar Restored]]"
-verse_count: 4
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 4
 book/chapter: "[[Dan.4|Daniel 4]]"
-genre:
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 4
 verses:
 - "[[Dan.4.34]]"
 - "[[Dan.4.35]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Dan.4.37]]"
 ---
 
-[[Dan.4|Daniel 4:34 - Daniel 4:37]]
+<small>[[Dan.4|Daniel 4:34-37]]</small>
 *Nebuchadnezzar Restored*
 
 [[Dan.4.34|34]] And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the most High, and I praised and honoured him that liveth for ever, whose dominion \[is\] an everlasting dominion, and his kingdom \[is\] from generation to generation:

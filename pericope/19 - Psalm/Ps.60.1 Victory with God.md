@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Victory with God
+type: Pericope
 pericope: "[[Ps.60.1 Victory with God|Victory with God]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 60
 book/chapter: "[[Ps.60|Psalm 60]]"
-genre:
+chronological_order: 409
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.60.0]]"
 - "[[Ps.60.1]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.60.12]]"
 ---
 
-[[Ps.60|Psalm 60:1 - Psalm 60:12]]
+<small>[[Ps.60|Psalm 60:1-12]]</small>
 *Victory with God*
 
 [[Ps.60.0|0]] To the chief Musician upon Shushaneduth, Michtam of David, to teach; when he strove with Aramnaharaim and with Aramzobah, when Joab returned, and smote of Edom in the valley of salt twelve thousand.

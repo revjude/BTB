@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals on the Sabbath
+type: Pericope
 pericope: "[[Luke.6.6 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 6
 book/chapter: "[[Luke.6|Luke 6]]"
-genre:
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.6.6]]"
 - "[[Luke.6.7]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.6.11]]"
 ---
 
-[[Luke.6|Luke 6:6 - Luke 6:11]]
+<small>[[Luke.6|Luke 6:6-11]]</small>
 *Jesus Heals on the Sabbath*
 
 [[Luke.6.6|6]] And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered.

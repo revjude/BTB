@@ -1,8 +1,77 @@
+---
+title: Genesis 41:45
+type: Verse
+kjv: "And Pharaoh called Joseph’s name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah priest of On. And Joseph went out over all the land of Egypt."
+bsb: "Pharaoh gave Joseph the name Zaphenath-paneah, and he gave him Asenath daughter of Potiphera, priest of On, to be his wife. And Joseph took charge of all the land of Egypt."
+hebrew: "וַיִּקְרָ֨א פַרְעֹ֣ה שֵׁם־ יוֹסֵף֮ צָֽפְנַ֣ת פַּעְנֵחַ֒ וַיִּתֶּן־ ל֣וֹ אֶת־ אָֽסְנַ֗ת בַּת־ פּ֥וֹטִי פֶ֛רַע כֹּהֵ֥ן אֹ֖ן לְאִשָּׁ֑ה וַיֵּצֵ֥א יוֹסֵ֖ף עַל־ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Gen.41.37 Joseph Given Charge of Egypt|Joseph Given Charge of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ASENATH|ASENATH]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic ON|ON]]"
+- "[[topic POTI-PHERAH|POTI-PHERAH]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic ZAPHNATH-PAANEAH|ZAPHNATH-PAANEAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H6547H]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H6847]]"
+- "[[H5414O]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H0621]]"
+- "[[H1323G]]"
+- "[[H6319]]"
+- "[[H3548]]"
+- "[[H0204]]"
+- "[[H0802H]]"
+- "[[H3318G]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:45**<big><big>[[Gen.41.37 Joseph Given Charge of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh called Joseph’s name Zaphnathpaaneah; and he gave him to wife Asenath the daughter of Potipherah priest of On. And Joseph went out over [all] the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 Pharaoh gave Joseph the name Zaphenath-paneah, and he gave him Asenath daughter of Potiphera, priest of On, to be his wife. And Joseph took charge of all the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֨א]] [[H6547H\|פַרְעֹ֣ה]] [[H8034\|שֵׁם]][[H9014\|־]] [[H3130G\|יוֹסֵף֮]] [[H6847\|צָֽפְנַ֣ת]] [[H6847\|פַּעְנֵחַ֒]] [[H9001\|וַ]][[H5414O\|יִּתֶּן]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H0621\|אָֽסְנַ֗ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H6319\|פּ֥וֹטִי]] [[H6319\|פֶ֛רַע]] [[H3548\|כֹּהֵ֥ן]] [[H0204\|אֹ֖ן]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֑ה]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H3130G\|יוֹסֵ֖ף]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASENATH|ASENATH]] • [[topic CAPTIVE|CAPTIVE]] • [[topic ECONOMICS|ECONOMICS]] • [[topic EGYPT|EGYPT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic ON|ON]] • [[topic POTI-PHERAH|POTI-PHERAH]] • [[topic PROMOTION|PROMOTION]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic ZAPHNATH-PAANEAH|ZAPHNATH-PAANEAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.44|<< Genesis 41:44]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.46|Genesis 41:46 >>]]</td></tr></table>
 

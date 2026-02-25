@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Marrying a Captive Woman
+type: Pericope
 pericope: "[[Deut.21.10 Marrying a Captive Woman|Marrying a Captive Woman]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 21
 book/chapter: "[[Deut.21|Deuteronomy 21]]"
-genre:
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 5
 verses:
 - "[[Deut.21.10]]"
 - "[[Deut.21.11]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Deut.21.14]]"
 ---
 
-[[Deut.21|Deuteronomy 21:10 - Deuteronomy 21:14]]
+<small>[[Deut.21|Deuteronomy 21:10-14]]</small>
 *Marrying a Captive Woman*
 
 [[Deut.21.10|10]] When thou goest forth to war against thine enemies, and the LORD thy God hath delivered them into thine hands, and thou hast taken them captive,

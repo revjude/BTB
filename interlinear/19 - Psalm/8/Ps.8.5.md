@@ -1,8 +1,61 @@
+---
+title: Psalm 8:5
+type: Verse
+kjv: "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour."
+bsb: "You made him a little lower than the angels; You crowned him with glory and honor."
+hebrew: "וַתְּחַסְּרֵ֣הוּ מְּ֭עַט מֵאֱלֹהִ֑ים וְכָב֖וֹד וְהָדָ֣ר תְּעַטְּרֵֽהוּ׃"
+pericope: "[[Ps.8.1 How Majestic Is Your Name!|How Majestic Is Your Name!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 8
+book/chapter: "[[Ps.8|Psalm 8]]"
+chronological_order: 342
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H2637]]"
+- "[[H9033]]"
+- "[[H4592]]"
+- "[[H9006]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H1926]]"
+- "[[H5849B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 8:5**<big><big>[[Ps.8.1 How Majestic Is Your Name!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
 <small><sub>**BSB:**</sub></small>
 You made him a little lower than the angels; You crowned him with glory and honor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2637\|תְּחַסְּרֵ֣]][[H9033\|הוּ]] [[H4592\|מְּ֭עַט]] [[H9006\|מֵ]][[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H3519\|כָב֖וֹד]] [[H9002\|וְ]][[H1926\|הָדָ֣ר]] [[H5849B\|תְּעַטְּרֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BIRDS|BIRDS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic MAN|MAN]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.8.4|<< Psalms 8:4]]</td><td align="center" style="border:none;">[[Ps.8|Psalms 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.8.6|Psalms 8:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

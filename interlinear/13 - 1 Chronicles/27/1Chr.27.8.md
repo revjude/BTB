@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 27:8
+type: Verse
+kjv: "The fifth captain for the fifth month was Shamhuth the Izrahite: and in his course were twenty and four thousand."
+bsb: "The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There were 24,000 men in his division."
+hebrew: "הַחַמִישִׁי֙ לַחֹ֣דֶשׁ הַחֲמִישִׁ֔י הַשַּׂ֖ר שַׁמְה֣וּת הַיִּזְרָ֑ח וְעַל֙ מַחֲלֻקְתּ֔וֹ עֶשְׂרִ֥ים וְאַרְבָּעָ֖ה אָֽלֶף׃ ס"
+pericope: "[[1Chr.27.1 Twelve Captains for Twelve Months|Twelve Captains for Twelve Months]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic SHAMHUTH|SHAMHUTH]]"
+strongs:
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H8269]]"
+- "[[H8049]]"
+- "[[H3155]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H4256]]"
+- "[[H9023]]"
+- "[[H6242]]"
+- "[[H0702]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:8**<big><big>[[1Chr.27.1 Twelve Captains for Twelve Months|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fifth captain for the fifth month [was] Shamhuth the Izrahite: and in his course [were] twenty and four thousand.
 <small><sub>**BSB:**</sub></small>
 The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There were 24,000 men in his division.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H2549\|חַמִישִׁי֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H2549\|חֲמִישִׁ֔י]] [[H9009\|הַ]][[H8269\|שַּׂ֖ר]] [[H8049\|שַׁמְה֣וּת]] [[H9009\|הַ]][[H3155\|יִּזְרָ֑ח]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H4256\|מַחֲלֻקְתּ֔]][[H9023\|וֹ]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וְ]][[H0702\|אַרְבָּעָ֖ה]] [[H0505G\|אָֽלֶף]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic MONTH|MONTH]] • [[topic SHAMHUTH|SHAMHUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.7|<< 1 Chronicles 27:7]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.9|1 Chronicles 27:9 >>]]</td></tr></table>
 
@@ -18,7 +68,7 @@ The fifth, for the fifth month, was the commander Shamhuth the Izrahite. There w
 | division his  |**<big>&#8207;[[H4256\|מַחֲלֻקְתּ֔]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ma.cha.luk.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | twenty  |**<big>&#8207;[[H6242\|עֶשְׂרִ֥ים]]&#8207; </big>**| 'es.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבָּעָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.ba.'Ah<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| thousand  |**<big>&#8207;[[H0505G\|אָֽלֶף]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.lef<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.7|<< 1 Chronicles 27:7]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.9|1 Chronicles 27:9 >>]]</td></tr></table>
 
 

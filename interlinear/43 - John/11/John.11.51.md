@@ -1,10 +1,65 @@
+---
+title: John 11:51
+type: Verse
+kjv: "And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;"
+bsb: "Caiaphas did not say this on his own. Instead, as high priest that year, he was prophesying that Jesus would die for the nation,"
+greek: "τοῦτο δὲ ἀφ᾽ ἑαυτοῦ οὐκ εἶπεν, ἀλλ᾽ ἀρχιερεὺς ὢν τοῦ ἐνιαυτοῦ ἐκείνου ἐπροφήτευσεν ὅτι ἔμελλεν ὁ Ἰησοῦς ἀποθνῄσκειν ὑπὲρ τοῦ ἔθνους,"
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G0575]]"
+- "[[G1438]]"
+- "[[G3756]]"
+- "[[G2036]]"
+- "[[G0235]]"
+- "[[G0749]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1763]]"
+- "[[G1565]]"
+- "[[G4395]]"
+- "[[G3754G]]"
+- "[[G3195]]"
+- "[[G2424G]]"
+- "[[G0599]]"
+- "[[G5228]]"
+- "[[G1484]]"
+texts:
+- NKO
+- k
+---
+
 **John 11:51**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
 <small><sub>**BSB:**</sub></small>
 Caiaphas did not say this on his own. Instead, as high priest that year, he was prophesying that Jesus would die for the nation,
-<small><sub>**Literal:**</sub></small>
-This now from himself not he said, but high priest being on the year that he prophesied that was about <the> Jesus to die for the nation,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.50|<< John 11:50]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.52|John 11:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G0575\|ἀφ᾽]]  [[G1438\|ἑαυτοῦ]]  [[G3756\|οὐκ]]  [[G2036\|εἶπεν,]]  [[G0235\|ἀλλ᾽]]  [[G0749\|ἀρχιερεὺς]]  [[G1510\|ὢν]]  [[G3588\|τοῦ]]  [[G1763\|ἐνιαυτοῦ]]  [[G1565\|ἐκείνου]]  [[G4395\|ἐπροφήτευσεν]]  [[G3754G\|ὅτι]]  [[G3195\|ἔμελλεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0599\|ἀποθνῄσκειν]]  [[G5228\|ὑπὲρ]]  [[G3588\|τοῦ]]  [[G1484\|ἔθνους,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CAIAPHAS|CAIAPHAS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.50|<< John 11:50]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.52|John 11:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

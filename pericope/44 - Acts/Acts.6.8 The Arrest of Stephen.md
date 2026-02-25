@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Arrest of Stephen
+type: Pericope
 pericope: "[[Acts.6.8 The Arrest of Stephen|The Arrest of Stephen]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Acts
 chapter: 6
 book/chapter: "[[Acts.6|Acts 6]]"
-genre:
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 8
 verses:
 - "[[Acts.6.8]]"
 - "[[Acts.6.9]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Acts.6.15]]"
 ---
 
-[[Acts.6|Acts 6:8 - Acts 6:15]]
+<small>[[Acts.6|Acts 6:8-15]]</small>
 *The Arrest of Stephen*
 
 [[Acts.6.8|8]] And Stephen, full of faith and power, did great wonders and miracles among the people.

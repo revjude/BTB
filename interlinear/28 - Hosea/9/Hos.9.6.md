@@ -1,8 +1,63 @@
+---
+title: Hosea 9:6
+type: Verse
+kjv: "For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles."
+bsb: "For even if they flee destruction, Egypt will gather them and Memphis will bury them. Their precious silver will be taken over by thistles, and thorns will overrun their tents."
+hebrew: "כִּֽי־ הִנֵּ֤ה הָֽלְכוּ֙ מִשֹּׁ֔ד מִצְרַ֥יִם תְּקַבְּצֵ֖ם מֹ֣ף תְּקַבְּרֵ֑ם מַחְמַ֣ד לְכַסְפָּ֗ם קִמּוֹשׂ֙ יִֽירָשֵׁ֔ם ח֖וֹחַ בְּאָהֳלֵיהֶֽם׃"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic MEMPHIS|MEMPHIS]]"
+- "[[topic NETTLES|NETTLES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2009]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H7701]]"
+- "[[H4714G]]"
+- "[[H6908]]"
+- "[[H9038]]"
+- "[[H4644]]"
+- "[[H6912]]"
+- "[[H4261]]"
+- "[[H9005]]"
+- "[[H3701G]]"
+- "[[H9028]]"
+- "[[H7057]]"
+- "[[H3423G]]"
+- "[[H2336]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 9:6**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant [places] for their silver, nettles shall possess them: thorns [shall be] in their tabernacles.
 <small><sub>**BSB:**</sub></small>
 For even if they flee destruction, Egypt will gather them and Memphis will bury them. Their precious silver will be taken over by thistles, and thorns will overrun their tents.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2009\|הִנֵּ֤ה]] [[H1980G\|הָֽלְכוּ֙]] [[H9006\|מִ]][[H7701\|שֹּׁ֔ד]] [[H4714G\|מִצְרַ֥יִם]] [[H6908\|תְּקַבְּצֵ֖]][[H9038\|ם]] [[H4644\|מֹ֣ף]] [[H6912\|תְּקַבְּרֵ֑]][[H9038\|ם]] [[H4261\|מַחְמַ֣ד]] [[H9005\|לְ]][[H3701G\|כַסְפָּ֗]][[H9028\|ם]] [[H7057\|קִמּוֹשׂ֙]] [[H3423G\|יִֽירָשֵׁ֔]][[H9038\|ם]] [[H2336\|ח֖וֹחַ]] [[H9003\|בְּ]][[H0168G\|אָהֳלֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic MEMPHIS|MEMPHIS]] • [[topic NETTLES|NETTLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.5|<< Hosea 9:5]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.7|Hosea 9:7 >>]]</td></tr></table>
 

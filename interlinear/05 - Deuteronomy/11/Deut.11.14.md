@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 11:14
+type: Verse
+kjv: "That I will give you the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil."
+bsb: "then I will provide rain for your land in season, the autumn and spring rains, that you may gather your grain, new wine, and oil."
+hebrew: "וְנָתַתִּ֧י מְטַֽר־ אַרְצְכֶ֛ם בְּעִתּ֖וֹ יוֹרֶ֣ה וּמַלְק֑וֹשׁ וְאָסַפְתָּ֣ דְגָנֶ֔ךָ וְתִֽירֹשְׁךָ֖ וְיִצְהָרֶֽךָ׃"
+pericope: "[[Deut.11.8 God’s Great Blessings|God’s Great Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H4306]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9023]]"
+- "[[H3138]]"
+- "[[H9002]]"
+- "[[H4456]]"
+- "[[H0622]]"
+- "[[H1715]]"
+- "[[H9021]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:14**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I will give [you] the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.
 <small><sub>**BSB:**</sub></small>
 then I will provide rain for your land in season, the autumn and spring rains, that you may gather your grain, new wine, and oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֧י]] [[H4306\|מְטַֽר]][[H9014\|־]] [[H0776G\|אַרְצְ]][[H9026\|כֶ֛ם]] [[H9003\|בְּ]][[H6256\|עִתּ֖]][[H9023\|וֹ]] [[H3138\|יוֹרֶ֣ה]] [[H9002\|וּ]][[H4456\|מַלְק֑וֹשׁ]] [[H9001\|וְ]][[H0622\|אָסַפְתָּ֣]] [[H1715\|דְגָנֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H8492\|תִֽירֹשְׁ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H3323\|יִצְהָרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DILIGENCE|DILIGENCE]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RAIN|RAIN]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.13|<< Deuteronomy 11:13]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.15|Deuteronomy 11:15 >>]]</td></tr></table>
 

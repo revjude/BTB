@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prophecy of Simeon
+type: Pericope
 pericope: "[[Luke.2.25 The Prophecy of Simeon|The Prophecy of Simeon]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Luke
 chapter: 2
 book/chapter: "[[Luke.2|Luke 2]]"
-genre:
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 11
 verses:
 - "[[Luke.2.25]]"
 - "[[Luke.2.26]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Luke.2.35]]"
 ---
 
-[[Luke.2|Luke 2:25 - Luke 2:35]]
+<small>[[Luke.2|Luke 2:25-35]]</small>
 *The Prophecy of Simeon*
 
 [[Luke.2.25|25]] And, behold, there was a man in Jerusalem, whose name \[was\] Simeon; and the same man \[was\] just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him.

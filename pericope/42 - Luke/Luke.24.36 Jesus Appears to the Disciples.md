@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Appears to the Disciples
+type: Pericope
 pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Luke
 chapter: 24
 book/chapter: "[[Luke.24|Luke 24]]"
-genre:
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 14
 verses:
 - "[[Luke.24.36]]"
 - "[[Luke.24.37]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Luke.24.49]]"
 ---
 
-[[Luke.24|Luke 24:36 - Luke 24:49]]
+<small>[[Luke.24|Luke 24:36-49]]</small>
 *Jesus Appears to the Disciples*
 
 [[Luke.24.36|36]] And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace \[be\] unto you.

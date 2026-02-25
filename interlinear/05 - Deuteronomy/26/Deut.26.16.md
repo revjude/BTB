@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 26:16
+type: Verse
+kjv: "This day the LORD thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul."
+bsb: "The LORD your God commands you this day to follow these statutes and ordinances. You must be careful to follow them with all your heart and with all your soul."
+hebrew: "הַיּ֣וֹם הַזֶּ֗ה יְהוָ֨ה אֱלֹהֶ֜יךָ מְצַוְּךָ֧ לַעֲשׂ֛וֹת אֶת־ הַחֻקִּ֥ים הָאֵ֖לֶּה וְאֶת־ הַמִּשְׁפָּטִ֑ים וְשָׁמַרְתָּ֤ וְעָשִׂ֙יתָ֙ אוֹתָ֔ם בְּכָל־ לְבָבְךָ֖ וּבְכָל־ נַפְשֶֽׁךָ׃"
+pericope: "[[Deut.26.16 Obey the LORD’s Commands|Obey the LORD’s Commands]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEART|HEART]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+strongs:
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2706G]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H4941G]]"
+- "[[H9001]]"
+- "[[H8104J]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:16**<big><big>[[Deut.26.16 Obey the LORD’s Commands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This day the LORD thy God hath commanded thee to do these statutes and judgments: thou shalt therefore keep and do them with all thine heart, and with all thy soul.
 <small><sub>**BSB:**</sub></small>
 The LORD your God commands you this day to follow these statutes and ordinances. You must be careful to follow them with all your heart and with all your soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֧]] [[H9005\|לַ]][[H6213A\|עֲשׂ֛וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2706G\|חֻקִּ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֑ים]] [[H9001\|וְ]][[H8104J\|שָׁמַרְתָּ֤]] [[H9001\|וְ]][[H6213A\|עָשִׂ֙יתָ֙]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HEART|HEART]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OBLIGATION|OBLIGATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.15|<< Deuteronomy 26:15]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.17|Deuteronomy 26:17 >>]]</td></tr></table>
 

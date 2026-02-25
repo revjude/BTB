@@ -1,8 +1,80 @@
+---
+title: Daniel 9:18
+type: Verse
+kjv: "O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies."
+bsb: "Incline Your ear, O my God, and hear; open Your eyes and see the desolation of the city that bears Your name. For we are not presenting our petitions before You because of our righteous acts, but because of Your great compassion."
+hebrew: "הַטֵּ֨ה אֱלֹהַ֥י׀ אָזְנְךָ֮ וּֽשֲׁמָע֒ פְּקַ֣ח עֵינֶ֗יךָ וּרְאֵה֙ שֹֽׁמְמֹתֵ֔ינוּ וְהָעִ֕יר אֲשֶׁר־ נִקְרָ֥א שִׁמְךָ֖ עָלֶ֑יהָ כִּ֣י׀ לֹ֣א עַל־ צִדְקֹתֵ֗ינוּ אֲנַ֨חְנוּ מַפִּילִ֤ים תַּחֲנוּנֵ֙ינוּ֙ לְפָנֶ֔יךָ כִּ֖י עַל־ רַחֲמֶ֥יךָ הָרַבִּֽים׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H5186]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H0241G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H6491]]"
+- "[[H9012]]"
+- "[[H5869A]]"
+- "[[H7200G]]"
+- "[[H8074G]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H6666]]"
+- "[[H0587]]"
+- "[[H5307N]]"
+- "[[H8469]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H7356B]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Daniel 9:18**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my God, incline thine ear, and hear; open thine eyes, and behold our desolations, and the city which is called by thy name: for we do not present our supplications before thee for our righteousnesses, but for thy great mercies.
 <small><sub>**BSB:**</sub></small>
 Incline Your ear, O my God, and hear; open Your eyes and see the desolation of the city that bears Your name. For we are not presenting our petitions before You because of our righteous acts, but because of Your great compassion.
+<small><sub>**Hebrew:**</sub></small>
+[[H5186\|הַטֵּ֨ה]] [[H0430G\|אֱלֹהַ֥]][[H9020\|י]][[H9015\|׀]] [[H0241G\|אָזְנְ]][[H9021\|ךָ֮]] [[H9002\|וּֽ]][[H8085G\|שֲׁמָע֒]] [[H6491\|פְּקַ֣ח]] [[H5869A\|עֵינֶ֗י]][[H9021\|ךָ]] [[H9002\|וּ]][[H7200G\|רְאֵה֙]] [[H8074G\|שֹֽׁמְמֹתֵ֔י]][[H9025\|נוּ]] [[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֕יר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121H\|נִקְרָ֥א]] [[H8034\|שִׁמְ]][[H9021\|ךָ֖]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H3808\|לֹ֣א]] [[H5921A\|עַל]][[H9014\|־]] [[H6666\|צִדְקֹתֵ֗י]][[H9025\|נוּ]] [[H0587\|אֲנַ֨חְנוּ]] [[H5307N\|מַפִּילִ֤ים]] [[H8469\|תַּחֲנוּנֵ֙י]][[H9025\|נוּ֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H7356B\|רַחֲמֶ֥י]][[H9021\|ךָ]] [[H9009\|הָ]][[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.17|<< Daniel 9:17]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.19|Daniel 9:19 >>]]</td></tr></table>
 
@@ -35,6 +107,6 @@ Incline Your ear, O my God, and hear; open Your eyes and see the desolation of t
 | \<the> great  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7227A\|רַבִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.17|<< Daniel 9:17]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.19|Daniel 9:19 >>]]</td></tr></table>
 
-[^1]: open !  | **<big>[[H9012|ה]]</big><big>[[H6491|פִּקְחָ]]</big> ** | pik.cha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
+[^1]: open !  | **<big>[[H6491|פִּקְחָ]]</big><big>[[H9012|ה]]</big> ** | pik.cha<small><sup>[[HVqv2ms]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>פְּקַ֣חה</big></span>**
 

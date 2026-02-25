@@ -1,8 +1,60 @@
+---
+title: Jeremiah 1:1
+type: Verse
+kjv: "The words of Jeremiah the son of Hilkiah, of the priests that were in Anathoth in the land of Benjamin:"
+bsb: "These are the words of Jeremiah son of Hilkiah, one of the priests in Anathoth in the territory of Benjamin."
+hebrew: "דִּבְרֵ֥י יִרְמְיָ֖הוּ בֶּן־ חִלְקִיָּ֑הוּ מִן־ הַכֹּֽהֲנִים֙ אֲשֶׁ֣ר בַּעֲנָת֔וֹת בְּאֶ֖רֶץ בִּנְיָמִֽן׃"
+pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANATHOTH|ANATHOTH]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H1697G]]"
+- "[[H3414L]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2518M]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H6068G]]"
+- "[[H0776G]]"
+- "[[H1144G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 1:1**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of Jeremiah the son of Hilkiah, of the priests that [were] in Anathoth in the land of Benjamin:
 <small><sub>**BSB:**</sub></small>
 These are the words of Jeremiah son of Hilkiah, one of the priests in Anathoth in the territory of Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H1697G\|דִּבְרֵ֥י]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2518M\|חִלְקִיָּ֑הוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H6068G\|עֲנָת֔וֹת]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H1144G\|בִּנְיָמִֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANATHOTH|ANATHOTH]] • [[topic EXCUSES|EXCUSES]] • [[topic HILKIAH|HILKIAH]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.24|<< Isaiah 66:24]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.2|Jeremiah 1:2 >>]]</td></tr></table>
 

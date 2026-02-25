@@ -1,8 +1,50 @@
+---
+title: Leviticus 17:1
+type: Verse
+kjv: "And the LORD spake unto Moses, saying,"
+bsb: "Then the LORD said to Moses,"
+hebrew: "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃"
+pericope: "[[Lev.17.1 The Place of Sacrifice|The Place of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 17
+book/chapter: "[[Lev.17|Leviticus 17]]"
+chronological_order: 149
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 17:1**<big><big>[[Lev.17.1 The Place of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses, saying,
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H9005\|לֵּ]][[H0559\|אמֹֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.34|<< Leviticus 16:34]]</td><td align="center" style="border:none;">[[Lev.17|Leviticus 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.17.2|Leviticus 17:2 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Exodus 10:22
+type: Verse
+kjv: "And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:"
+bsb: "So Moses stretched out his hand toward heaven, and total darkness covered all the land of Egypt for three days."
+hebrew: "וַיֵּ֥ט מֹשֶׁ֛ה אֶת־ יָד֖וֹ עַל־ הַשָּׁמָ֑יִם וַיְהִ֧י חֹֽשֶׁךְ־ אֲפֵלָ֛ה בְּכָל־ אֶ֥רֶץ מִצְרַ֖יִם שְׁלֹ֥שֶׁת יָמִֽים׃"
+pericope: "[[Exod.10.21 The Ninth Plague：Darkness|The Ninth Plague：Darkness]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H1961]]"
+- "[[H2822]]"
+- "[[H0653]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:22**<big><big>[[Exod.10.21 The Ninth Plague：Darkness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:
 <small><sub>**BSB:**</sub></small>
 So Moses stretched out his hand toward heaven, and total darkness covered all the land of Egypt for three days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5186\|יֵּ֥ט]] [[H4872\|מֹשֶׁ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָד֖]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9001\|וַ]][[H1961\|יְהִ֧י]] [[H2822\|חֹֽשֶׁךְ]][[H9014\|־]] [[H0653\|אֲפֵלָ֛ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרַ֖יִם]] [[H7969\|שְׁלֹ֥שֶׁת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DARKNESS|DARKNESS]] • [[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PLAGUE|PLAGUE]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.21|<< Exodus 10:21]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.23|Exodus 10:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

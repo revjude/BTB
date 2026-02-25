@@ -1,10 +1,54 @@
+---
+title: Luke 7:18
+type: Verse
+kjv: "And the disciples of John shewed him of all these things."
+bsb: "Then John’s disciples informed him about all these things."
+greek: "Καὶ ἀπήγγειλαν Ἰωάννῃ οἱ μαθηταὶ αὐτοῦ περὶ πάντων τούτων. καὶ προσκαλεσάμενος δύο τινὰς τῶν μαθητῶν αὐτοῦ ὁ Ἰωάννης"
+pericope: "[[Luke.7.18 John’s Inquiry|John’s Inquiry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0518]]"
+- "[[G2491G]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G3778]]"
+- "[[G4341]]"
+- "[[G1417]]"
+- "[[G5100]]"
+texts:
+- NKO
+---
+
 **Luke 7:18**<big><big>[[Luke.7.18 John’s Inquiry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the disciples of John shewed him of all these things.
 <small><sub>**BSB:**</sub></small>
 Then John’s disciples informed him about all these things.
-<small><sub>**Literal:**</sub></small>
-And brought word to John the disciples of him concerning all these things. [19] And having called near two certain the disciples of him <the> John<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.17|<< Luke 7:17]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.19|Luke 7:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0518\|ἀπήγγειλαν]]  [[G2491G\|Ἰωάννῃ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G3778\|τούτων.]]  [[G2532\|καὶ]]  [[G4341\|προσκαλεσάμενος]]  [[G1417\|δύο]]  [[G5100\|τινὰς]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ]]  [[G3588\|ὁ]]  [[G2491G\|Ἰωάννης]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.17|<< Luke 7:17]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.19|Luke 7:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,74 @@
+---
+title: Judges 15:14
+type: Verse
+kjv: "And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands."
+bsb: "When Samson arrived in Lehi, the Philistines came out shouting against him. And the Spirit of the LORD came mightily upon him. The ropes on his arms became like burnt flax, and the bonds broke loose from his hands."
+hebrew: "הוּא־ בָ֣א עַד־ לֶ֔חִי וּפִלְשִׁתִּ֖ים הֵרִ֣יעוּ לִקְרָאת֑וֹ וַתִּצְלַ֨ח עָלָ֜יו ר֣וּחַ יְהוָ֗ה וַתִּהְיֶ֨ינָה הָעֲבֹתִ֜ים אֲשֶׁ֣ר עַל־ זְרוֹעוֹתָ֗יו כַּפִּשְׁתִּים֙ אֲשֶׁ֣ר בָּעֲר֣וּ בָאֵ֔שׁ וַיִּמַּ֥סּוּ אֱסוּרָ֖יו מֵעַ֥ל יָדָֽיו׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic LEHI|LEHI]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H3896]]"
+- "[[H9002]]"
+- "[[H6430G]]"
+- "[[H7321]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H6743A]]"
+- "[[H5921A]]"
+- "[[H7307G]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5688]]"
+- "[[H0834A]]"
+- "[[H2220]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H6593]]"
+- "[[H1197A]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H4549]]"
+- "[[H0612]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 15:14**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that [were] upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands.
 <small><sub>**BSB:**</sub></small>
 When Samson arrived in Lehi, the Philistines came out shouting against him. And the Spirit of the LORD came mightily upon him. The ropes on his arms became like burnt flax, and the bonds broke loose from his hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|הוּא]][[H9014\|־]] [[H0935G\|בָ֣א]] [[H5704\|עַד]][[H9014\|־]] [[H3896\|לֶ֔חִי]] [[H9002\|וּ]][[H6430G\|פִלְשִׁתִּ֖ים]] [[H7321\|הֵרִ֣יעוּ]] [[H9005\|לִ]][[H7122H\|קְרָאת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H6743A\|תִּצְלַ֨ח]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H7307G\|ר֣וּחַ]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H1961\|תִּהְיֶ֨ינָה]] [[H9009\|הָ]][[H5688\|עֲבֹתִ֜ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H2220\|זְרוֹעוֹתָ֗י]][[H9023\|ו]] [[H9004\|כַּ]][[H6593\|פִּשְׁתִּים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1197A\|בָּעֲר֣וּ]] [[H9003\|בָ]][[H0784\|אֵ֔שׁ]] [[H9001\|וַ]][[H4549\|יִּמַּ֥סּוּ]] [[H0612\|אֱסוּרָ֖י]][[H9023\|ו]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H3027G\|יָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEHI|LEHI]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.13|<< Judges 15:13]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.15|Judges 15:15 >>]]</td></tr></table>
 

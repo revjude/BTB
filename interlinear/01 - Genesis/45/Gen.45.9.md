@@ -1,8 +1,72 @@
+---
+title: Genesis 45:9
+type: Verse
+kjv: "Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:"
+bsb: "Now return quickly to my father and tell him, ‘This is what your son Joseph says: God has made me lord of all Egypt. Come down to me without delay."
+hebrew: "מַהֲרוּ֮ וַעֲל֣וּ אֶל־ אָבִי֒ וַאֲמַרְתֶּ֣ם אֵלָ֗יו כֹּ֤ה אָמַר֙ בִּנְךָ֣ יוֹסֵ֔ף שָׂמַ֧נִי אֱלֹהִ֛ים לְאָד֖וֹן לְכָל־ מִצְרָ֑יִם רְדָ֥ה אֵלַ֖י אַֽל־ תַּעֲמֹֽד׃"
+pericope: "[[Gen.45.9 Joseph Sends for His Father|Joseph Sends for His Father]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H4116A]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H3130G]]"
+- "[[H7760A]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H0113]]"
+- "[[H3605]]"
+- "[[H4714G]]"
+- "[[H3381]]"
+- "[[H9012]]"
+- "[[H0408]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:9**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:
 <small><sub>**BSB:**</sub></small>
 Now return quickly to my father and tell him, ‘This is what your son Joseph says: God has made me lord of all Egypt. Come down to me without delay.
+<small><sub>**Hebrew:**</sub></small>
+[[H4116A\|מַהֲרוּ֮]] [[H9002\|וַ]][[H5927G\|עֲל֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ]][[H9020\|י֒]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֣ם]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H1121A\|בִּנְ]][[H9021\|ךָ֣]] [[H3130G\|יוֹסֵ֔ף]] [[H7760A\|שָׂמַ֧]][[H9030\|נִי]] [[H0430G\|אֱלֹהִ֛ים]] [[H9005\|לְ]][[H0113\|אָד֖וֹן]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4714G\|מִצְרָ֑יִם]] [[H3381\|רְדָ֥]][[H9012\|ה]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H0408\|אַֽל]][[H9014\|־]] [[H5975G\|תַּעֲמֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JOSEPH|JOSEPH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.8|<< Genesis 45:8]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.10|Genesis 45:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

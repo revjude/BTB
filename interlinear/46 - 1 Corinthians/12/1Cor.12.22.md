@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 12:22
+type: Verse
+kjv: "Nay, much more those members of the body, which seem to be more feeble, are necessary:"
+bsb: "On the contrary, the parts of the body that seem to be weaker are indispensable,"
+greek: "ἀλλὰ πολλῷ μᾶλλον τὰ δοκοῦντα μέλη τοῦ σώματος ἀσθενέστερα ὑπάρχειν ἀναγκαῖά ἐστιν,"
+pericope: "[[1Cor.12.12 The Body of Christ|The Body of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[G0235]]"
+- "[[G4183]]"
+- "[[G3123G]]"
+- "[[G3588]]"
+- "[[G1380]]"
+- "[[G3196]]"
+- "[[G4983]]"
+- "[[G0772G]]"
+- "[[G5225]]"
+- "[[G0316]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 12:22**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nay, much more those members of the body, which seem to be more feeble, are necessary:
 <small><sub>**BSB:**</sub></small>
 On the contrary, the parts of the body that seem to be weaker are indispensable,
-<small><sub>**Literal:**</sub></small>
-But much rather those seeming members of the body weaker to be indispensable are,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.21|<< 1 Corinthians 12:21]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.23|1 Corinthians 12:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G4183\|πολλῷ]]  [[G3123G\|μᾶλλον]]  [[G3588\|τὰ]]  [[G1380\|δοκοῦντα]]  [[G3196\|μέλη]]  [[G3588\|τοῦ]]  [[G4983\|σώματος]]  [[G0772G\|ἀσθενέστερα]]  [[G5225\|ὑπάρχειν]]  [[G0316\|ἀναγκαῖά]]  [[G1510\|ἐστιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.21|<< 1 Corinthians 12:21]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.23|1 Corinthians 12:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

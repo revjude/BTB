@@ -1,8 +1,71 @@
+---
+title: Jeremiah 6:20
+type: Verse
+kjv: "To what purpose cometh there to me incense from Sheba, and the sweet cane from a far country? your burnt offerings are not acceptable, nor your sacrifices sweet unto me."
+bsb: "What use to Me is frankincense from Sheba or sweet cane from a distant land? Your burnt offerings are not acceptable; your sacrifices do not please Me.”"
+hebrew: "לָמָּה־ זֶּ֨ה לִ֤י לְבוֹנָה֙ מִשְּׁבָ֣א תָב֔וֹא וְקָנֶ֥ה הַטּ֖וֹב מֵאֶ֣רֶץ מֶרְחָ֑ק עֹלֽוֹתֵיכֶם֙ לֹ֣א לְרָצ֔וֹן וְזִבְחֵיכֶ֖ם לֹא־ עָ֥רְבוּ לִֽי׃ ס"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CALAMUS|CALAMUS]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SHEBA|SHEBA]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H9030]]"
+- "[[H3828]]"
+- "[[H9006]]"
+- "[[H7614J]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H7070H]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H0776G]]"
+- "[[H4801]]"
+- "[[H5930A]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H7522]]"
+- "[[H2077]]"
+- "[[H6149]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 6:20**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To what purpose cometh there to me incense from Sheba, and the sweet cane from a far country? your burnt offerings [are] not acceptable, nor your sacrifices sweet unto me.
 <small><sub>**BSB:**</sub></small>
 What use to Me is frankincense from Sheba or sweet cane from a distant land? Your burnt offerings are not acceptable; your sacrifices do not please Me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H4100\|מָּה]][[H9014\|־]] [[H2088\|זֶּ֨ה]] [[H9005\|לִ֤]][[H9030\|י]] [[H3828\|לְבוֹנָה֙]] [[H9006\|מִ]][[H7614J\|שְּׁבָ֣א]] [[H0935G\|תָב֔וֹא]] [[H9002\|וְ]][[H7070H\|קָנֶ֥ה]] [[H9009\|הַ]][[H2896A\|טּ֖וֹב]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4801\|מֶרְחָ֑ק]] [[H5930A\|עֹלֽוֹתֵי]][[H9026\|כֶם֙]] [[H3808\|לֹ֣א]] [[H9005\|לְ]][[H7522\|רָצ֔וֹן]] [[H9002\|וְ]][[H2077\|זִבְחֵי]][[H9026\|כֶ֖ם]] [[H3808\|לֹא]][[H9014\|־]] [[H6149\|עָ֥רְבוּ]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALAMUS|CALAMUS]] • [[topic COMMERCE|COMMERCE]] • [[topic FORMALISM|FORMALISM]] • [[topic FRANKINCENSE|FRANKINCENSE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SHEBA|SHEBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.19|<< Jeremiah 6:19]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.21|Jeremiah 6:21 >>]]</td></tr></table>
 
@@ -24,7 +87,7 @@ What use to Me is frankincense from Sheba or sweet cane from a distant land? You
 | and sacrifices your  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2077\|זִבְחֵי]]&#8207;&#8207;[[H9026\|כֶ֖ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ziv.chei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they are pleasing  |**<big>&#8207;[[H6149\|עָ֥רְבוּ]]&#8207; </big>**| 'A.re.vu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> me  |**<big>&#8207;[[H9005\|לִֽ]]&#8207;&#8207;[[H9030\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| L<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.19|<< Jeremiah 6:19]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.21|Jeremiah 6:21 >>]]</td></tr></table>
 
 

@@ -1,8 +1,66 @@
+---
+title: Exodus 22:5
+type: Verse
+kjv: "If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution."
+bsb: "If a man grazes his livestock in a field or vineyard and allows them to stray so that they graze in someone else’s field, he must make restitution from the best of his own field or vineyard."
+hebrew: "כִּ֤י יַבְעֶר־ אִישׁ֙ שָׂדֶ֣ה אוֹ־ כֶ֔רֶם וְשִׁלַּח֙ אֶת־ בְּעִיר֔וֹ וּבִעֵ֖ר בִּשְׂדֵ֣ה אַחֵ֑ר מֵיטַ֥ב שָׂדֵ֛הוּ וּמֵיטַ֥ב כַּרְמ֖וֹ יְשַׁלֵּֽם׃ ס"
+pericope: "[[Exod.22.1 Property Laws|Property Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BULLOCK|BULLOCK]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1197B]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H7704G]]"
+- "[[H0176A]]"
+- "[[H3754]]"
+- "[[H9001]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H1165]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0312]]"
+- "[[H4315]]"
+- "[[H9002]]"
+- "[[H7999A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Exodus 22:5**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution.
 <small><sub>**BSB:**</sub></small>
 If a man grazes his livestock in a field or vineyard and allows them to stray so that they graze in someone else’s field, he must make restitution from the best of his own field or vineyard.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H1197B\|יַבְעֶר]][[H9014\|־]] [[H0376I\|אִישׁ֙]] [[H7704G\|שָׂדֶ֣ה]] [[H0176A\|אוֹ]][[H9014\|־]] [[H3754\|כֶ֔רֶם]] [[H9001\|וְ]][[H7971H\|שִׁלַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1165\|בְּעִיר֔]][[H9023\|וֹ]] [[H9001\|וּ]][[H1197B\|בִעֵ֖ר]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֣ה]] [[H0312\|אַחֵ֑ר]] [[H4315\|מֵיטַ֥ב]] [[H7704G\|שָׂדֵ֛]][[H9023\|הוּ]] [[H9002\|וּ]][[H4315\|מֵיטַ֥ב]] [[H3754\|כַּרְמ֖]][[H9023\|וֹ]] [[H7999A\|יְשַׁלֵּֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BULLOCK|BULLOCK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.4|<< Exodus 22:4]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.6|Exodus 22:6 >>]]</td></tr></table>
 
@@ -24,10 +82,10 @@ If a man grazes his livestock in a field or vineyard and allows them to stray so
 | field his  |**<big>&#8207;[[H7704G\|שָׂדֵ֛]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| sa.De.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] best of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4315\|מֵיטַ֥ב]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mei.Tav<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | vineyard his  |**<big>&#8207;[[H3754\|כַּרְמ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| kar.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will make compensation  |**<big>&#8207;[[H7999A\|יְשַׁלֵּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.sha.Lem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make compensation  |**<big>&#8207;[[H7999A\|יְשַׁלֵּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.sha.Lem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.4|<< Exodus 22:4]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.6|Exodus 22:6 >>]]</td></tr></table>
 
-[^1]: cattle his  | **<big>[[H9023|ה]]</big><big>[[H1165|בְּעִירֹ]]</big> ** | be.'i.ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: cattle his  | **<big>[[H9023|ה]]</big><big>[[H1165|בְּעִירֹ]]</big> ** | be.'i.ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: cattle his  | **<big>[[H1165|בְּעִירֹ]]</big><big>[[H9023|ה]]</big> ** | be.'i.ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: cattle his  | **<big>[[H1165|בְּעִירֹ]]</big><big>[[H9023|ה]]</big> ** | be.'i.ra<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בְּעִירֹ֔ה</big></span>**
 

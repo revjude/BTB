@@ -1,8 +1,61 @@
+---
+title: Exodus 40:27
+type: Verse
+kjv: "And he burnt sweet incense thereon; as the LORD commanded Moses."
+bsb: "and he burned fragrant incense on it, just as the LORD had commanded him."
+hebrew: "וַיַּקְטֵ֥ר עָלָ֖יו קְטֹ֣רֶת סַמִּ֑ים כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃ פ"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic INCENSE|INCENSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7004]]"
+- "[[H5561]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 40:27**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he burnt sweet incense thereon; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 and he burned fragrant incense on it, just as the LORD had commanded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6999A\|יַּקְטֵ֥ר]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H7004\|קְטֹ֣רֶת]] [[H5561\|סַמִּ֑ים]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic INCENSE|INCENSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.26|<< Exodus 40:26]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.28|Exodus 40:28 >>]]</td></tr></table>
 
@@ -16,7 +69,7 @@ and he burned fragrant incense on it, just as the LORD had commanded him.
 | he had commanded  |**<big>&#8207;[[H6680\|צִוָּ֥ה]]&#8207; </big>**| tzi.Vah<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Moses  |**<big>&#8207;[[H4872\|מֹשֶֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mo.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.26|<< Exodus 40:26]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.28|Exodus 40:28 >>]]</td></tr></table>
 
 

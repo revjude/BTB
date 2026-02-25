@@ -1,10 +1,50 @@
+---
+title: Revelation 3:22
+type: Verse
+kjv: "He that hath an ear, let him hear what the Spirit saith unto the churches."
+bsb: "He who has an ear, let him hear what the Spirit says to the churches.”"
+jesus_said: "He that hath an ear, let him hear what the Spirit saith unto the churches."
+greek: "ὁ ἔχων οὖς ἀκουσάτω τί τὸ πνεῦμα λέγει ταῖς ἐκκλησίαις.¶"
+pericope: "[[Rev.3.14 To the Church in Laodicea|To the Church in Laodicea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 3
+book/chapter: "[[Rev.3|Revelation 3]]"
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic LAODICEA|LAODICEA]]"
+strongs:
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G3775]]"
+- "[[G0191]]"
+- "[[G5101]]"
+- "[[G4151G]]"
+- "[[G3004G]]"
+- "[[G1577]]"
+texts:
+- NKO
+---
+
 **Revelation 3:22**<big><big>[[Rev.3.14 To the Church in Laodicea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that hath an ear, let him hear what the Spirit saith unto the churches.
 <small><sub>**BSB:**</sub></small>
 He who has an ear, let him hear what the Spirit says to the churches.”
-<small><sub>**Literal:**</sub></small>
-The [one] having an ear he should hear what the Spirit says to the churches.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.21|<< Revelation 3:21]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.1|Revelation 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3775\|οὖς]]  [[G0191\|ἀκουσάτω]]  [[G5101\|τί]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3004G\|λέγει]]  [[G3588\|ταῖς]]  [[G1577\|ἐκκλησίαις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAODICEA|LAODICEA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.3.21|<< Revelation 3:21]]</td><td align="center" style="border:none;">[[Rev.3|Revelation 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.1|Revelation 4:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

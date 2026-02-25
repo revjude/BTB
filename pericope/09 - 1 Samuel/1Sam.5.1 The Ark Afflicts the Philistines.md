@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ark Afflicts the Philistines
+type: Pericope
 pericope: "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 5
 book/chapter: "[[1Sam.5|1 Samuel 5]]"
-genre:
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 12
 verses:
 - "[[1Sam.5.1]]"
 - "[[1Sam.5.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Sam.5.12]]"
 ---
 
-[[1Sam.5|1 Samuel 5:1 - 1 Samuel 5:12]]
+<small>[[1Sam.5|1 Samuel 5:1-12]]</small>
 *The Ark Afflicts the Philistines*
 
 [[1Sam.5.1|1]] And the Philistines took the ark of God, and brought it from Ebenezer unto Ashdod.

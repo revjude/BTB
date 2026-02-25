@@ -1,8 +1,72 @@
+---
+title: Ezekiel 27:27
+type: Verse
+kjv: "Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that are in thee, and in all thy company which is in the midst of thee, shall fall into the midst of the seas in the day of thy ruin."
+bsb: "Your wealth, wares, and merchandise, your sailors, captains, and shipwrights, your merchants and all the warriors within you, with all the other people on board, will sink into the heart of the sea on the day of your downfall."
+hebrew: "הוֹנֵךְ֙ וְעִזְבוֹנַ֔יִךְ מַעֲרָבֵ֕ךְ מַלָּחַ֖יִךְ וְחֹבְלָ֑יִךְ מַחֲזִיקֵ֣י בִדְקֵ֣ך וְֽעֹרְבֵ֣י מַ֠עֲרָבֵךְ וְכָל־ אַנְשֵׁ֨י מִלְחַמְתֵּ֜ךְ אֲשֶׁר־ בָּ֗ךְ וּבְכָל־ קְהָלֵךְ֙ אֲשֶׁ֣ר בְּתוֹכֵ֔ךְ יִפְּלוּ֙ בְּלֵ֣ב יַמִּ֔ים בְּי֖וֹם מַפַּלְתֵּֽךְ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CALKERS (CAULKERS)|CALKERS (CAULKERS)]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic PILOT|PILOT]]"
+strongs:
+- "[[H1952]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H5801]]"
+- "[[H4627]]"
+- "[[H4419]]"
+- "[[H2259]]"
+- "[[H2388G]]"
+- "[[H0919]]"
+- "[[H6148]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H6951]]"
+- "[[H8432]]"
+- "[[H5307G]]"
+- "[[H3820A]]"
+- "[[H3220G]]"
+- "[[H3117G]]"
+- "[[H4658]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:27**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that [are] in thee, and in all thy company which [is] in the midst of thee, shall fall into the midst of the seas in the day of thy ruin.
 <small><sub>**BSB:**</sub></small>
 Your wealth, wares, and merchandise, your sailors, captains, and shipwrights, your merchants and all the warriors within you, with all the other people on board, will sink into the heart of the sea on the day of your downfall.
+<small><sub>**Hebrew:**</sub></small>
+[[H1952\|הוֹנֵ]][[H9022\|ךְ֙]] [[H9002\|וְ]][[H5801\|עִזְבוֹנַ֔יִ]][[H9022\|ךְ]] [[H4627\|מַעֲרָבֵ֕]][[H9022\|ךְ]] [[H4419\|מַלָּחַ֖יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H2259\|חֹבְלָ֑יִ]][[H9022\|ךְ]] [[H2388G\|מַחֲזִיקֵ֣י]] [[H0919\|בִדְקֵ֣]][[H9022\|ך]] [[H9002\|וְֽ]][[H6148\|עֹרְבֵ֣י]] [[H4627\|מַ֠עֲרָבֵ]][[H9022\|ךְ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0582\|אַנְשֵׁ֨י]] [[H4421\|מִלְחַמְתֵּ֜]][[H9022\|ךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֗]][[H9032\|ךְ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H6951\|קְהָלֵ]][[H9022\|ךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H8432\|תוֹכֵ֔]][[H9022\|ךְ]] [[H5307G\|יִפְּלוּ֙]] [[H9003\|בְּ]][[H3820A\|לֵ֣ב]] [[H3220G\|יַמִּ֔ים]] [[H9003\|בְּ]][[H3117G\|י֖וֹם]] [[H4658\|מַפַּלְתֵּֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CALKERS (CAULKERS)|CALKERS (CAULKERS)]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic MERCHANT|MERCHANT]] • [[topic PILOT|PILOT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.26|<< Ezekiel 27:26]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.28|Ezekiel 27:28 >>]]</td></tr></table>
 

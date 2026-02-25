@@ -1,10 +1,57 @@
+---
+title: John 11:13
+type: Verse
+kjv: "Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep."
+bsb: "They thought that Jesus was talking about actual sleep, but He was speaking about the death of Lazarus."
+greek: "εἰρήκει δὲ ὁ Ἰησοῦς περὶ τοῦ θανάτου αὐτοῦ· ἐκεῖνοι δὲ ἔδοξαν ὅτι περὶ τῆς κοιμήσεως τοῦ ὕπνου λέγει.¶"
+pericope: "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4012]]"
+- "[[G2288]]"
+- "[[G0846]]"
+- "[[G1565]]"
+- "[[G1380]]"
+- "[[G3754G]]"
+- "[[G2838]]"
+- "[[G5258]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **John 11:13**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit Jesus spake of his death: but they thought that he had spoken of taking of rest in sleep.
 <small><sub>**BSB:**</sub></small>
 They thought that Jesus was talking about actual sleep, but He was speaking about the death of Lazarus.
-<small><sub>**Literal:**</sub></small>
-Had spoken however <the> Jesus of the death of him; they however thought that of the rest <the> of sleep He speaks.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.12|<< John 11:12]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.14|John 11:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἰρήκει]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου]]  [[G0846\|αὐτοῦ·]]  [[G1565\|ἐκεῖνοι]]  [[G1161\|δὲ]]  [[G1380\|ἔδοξαν]]  [[G3754G\|ὅτι]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G2838\|κοιμήσεως]]  [[G3588\|τοῦ]]  [[G5258\|ὕπνου]]  [[G3004G\|λέγει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.12|<< John 11:12]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.14|John 11:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

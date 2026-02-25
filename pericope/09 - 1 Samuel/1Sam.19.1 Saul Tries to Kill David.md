@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Tries to Kill David
+type: Pericope
 pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 19
 book/chapter: "[[1Sam.19|1 Samuel 19]]"
-genre:
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 24
 verses:
 - "[[1Sam.19.1]]"
 - "[[1Sam.19.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[1Sam.19.24]]"
 ---
 
-[[1Sam.19|1 Samuel 19:1 - 1 Samuel 19:24]]
+<small>[[1Sam.19|1 Samuel 19:1-24]]</small>
 *Saul Tries to Kill David*
 
 [[1Sam.19.1|1]] And Saul spake to Jonathan his son, and to all his servants, that they should kill David.

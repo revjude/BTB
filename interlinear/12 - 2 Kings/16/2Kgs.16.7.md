@@ -1,8 +1,74 @@
+---
+title: 2 Kings 16:7
+type: Verse
+kjv: "So Ahaz sent messengers to Tiglathpileser king of Assyria, saying, I am thy servant and thy son: come up, and save me out of the hand of the king of Syria, and out of the hand of the king of Israel, which rise up against me."
+bsb: "So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, “I am your servant and your son. Come up and save me from the hands of the kings of Aram and Israel, who are rising up against me.”"
+hebrew: "וַיִּשְׁלַ֨ח אָחָ֜ז מַלְאָכִ֗ים אֶל־ תִּ֠גְלַת פְּלֶ֤סֶר מֶֽלֶךְ־ אַשּׁוּר֙ לֵאמֹ֔ר עַבְדְּךָ֥ וּבִנְךָ֖ אָ֑נִי עֲלֵ֨ה וְהוֹשִׁעֵ֜נִי מִכַּ֣ף מֶֽלֶךְ־ אֲרָ֗ם וּמִכַּף֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל הַקּוֹמִ֖ים עָלָֽי׃"
+pericope: "[[2Kgs.16.1 Ahaz Reigns in Judah|Ahaz Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REZIN|REZIN]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic TIGLATH-PILESER|TIGLATH-PILESER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0271G]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8407]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H0589]]"
+- "[[H5927G]]"
+- "[[H3467]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H3709G]]"
+- "[[H0758I]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H6965J]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:7**<big><big>[[2Kgs.16.1 Ahaz Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Ahaz sent messengers to Tiglathpileser king of Assyria, saying, I [am] thy servant and thy son: come up, and save me out of the hand of the king of Syria, and out of the hand of the king of Israel, which rise up against me.
 <small><sub>**BSB:**</sub></small>
 So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, “I am your servant and your son. Come up and save me from the hands of the kings of Aram and Israel, who are rising up against me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H0271G\|אָחָ֜ז]] [[H4397G\|מַלְאָכִ֗ים]] [[H0413\|אֶל]][[H9014\|־]] [[H8407\|תִּ֠גְלַת]] [[H8407\|פְּלֶ֤סֶר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁוּר֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֥]] [[H9002\|וּ]][[H1121A\|בִנְ]][[H9021\|ךָ֖]] [[H0589\|אָ֑נִי]] [[H5927G\|עֲלֵ֨ה]] [[H9002\|וְ]][[H3467\|הוֹשִׁעֵ֜]][[H9030\|נִי]] [[H9006\|מִ]][[H3709G\|כַּ֣ף]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0758I\|אֲרָ֗ם]] [[H9002\|וּ]][[H9006\|מִ]][[H3709G\|כַּף֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9009\|הַ]][[H6965J\|קּוֹמִ֖ים]] [[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ALLIANCES|ALLIANCES]] • [[topic AMBASSADORS|AMBASSADORS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REZIN|REZIN]] • [[topic SYRIA|SYRIA]] • [[topic TIGLATH-PILESER|TIGLATH-PILESER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.6|<< 2 Kings 16:6]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.8|2 Kings 16:8 >>]]</td></tr></table>
 

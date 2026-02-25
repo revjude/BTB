@@ -5,7 +5,7 @@
 
 → Signify a place of idolatrous worship [[Num.22.41|Nu 22:41]]; [[1Kgs.11.7|1Ki  11:7]]; [[1Kgs.12.31|12:31]]; [[1Kgs.14.23|14:23]]; [[1Kgs.15.14|15:14]]; [[1Kgs.22.43|22:43]]; [[2Kgs.17.9|2Ki 17:9]],[[2Kgs.17.29|29]]; [[Jer.7.31|Jer 7:31]]
 
-→ Licentious practices at [[Ezek.16.24|Eze 16:24]]-[[Ezek.16.43|43]]
+→ Licentious practices at [[Ezek.16.24|Eze 16:24-43]]
 
 → The idolatrous, to be destroyed [[Lev.26.30|Le 26:30]]; [[Num.33.52|Nu 33:52]]
 

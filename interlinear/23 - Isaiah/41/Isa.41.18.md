@@ -1,8 +1,61 @@
+---
+title: Isaiah 41:18
+type: Verse
+kjv: "I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water."
+bsb: "I will open rivers on the barren heights, and fountains in the middle of the valleys. I will turn the desert into a pool of water, and the dry land into flowing springs."
+hebrew: "אֶפְתַּ֤ח עַל־ שְׁפָיִים֙ נְהָר֔וֹת וּבְת֥וֹךְ בְּקָע֖וֹת מַעְיָנ֑וֹת אָשִׂ֤ים מִדְבָּר֙ לַאֲגַם־ מַ֔יִם וְאֶ֥רֶץ צִיָּ֖ה לְמוֹצָ֥אֵי מָֽיִם׃"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H6605A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8205]]"
+- "[[H5104H]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1237K]]"
+- "[[H4599]]"
+- "[[H7760A]]"
+- "[[H4057B]]"
+- "[[H9005]]"
+- "[[H0098]]"
+- "[[H4325G]]"
+- "[[H0776G]]"
+- "[[H6723]]"
+- "[[H4161]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:18**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will open rivers in high places, and fountains in the midst of the valleys: I will make the wilderness a pool of water, and the dry land springs of water.
 <small><sub>**BSB:**</sub></small>
 I will open rivers on the barren heights, and fountains in the middle of the valleys. I will turn the desert into a pool of water, and the dry land into flowing springs.
+<small><sub>**Hebrew:**</sub></small>
+[[H6605A\|אֶפְתַּ֤ח]] [[H5921A\|עַל]][[H9014\|־]] [[H8205\|שְׁפָיִים֙]] [[H5104H\|נְהָר֔וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H8432\|ת֥וֹךְ]] [[H1237K\|בְּקָע֖וֹת]] [[H4599\|מַעְיָנ֑וֹת]] [[H7760A\|אָשִׂ֤ים]] [[H4057B\|מִדְבָּר֙]] [[H9005\|לַ]][[H0098\|אֲגַם]][[H9014\|־]] [[H4325G\|מַ֔יִם]] [[H9002\|וְ]][[H0776G\|אֶ֥רֶץ]] [[H6723\|צִיָּ֖ה]] [[H9005\|לְ]][[H4161\|מוֹצָ֥אֵי]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.17|<< Isaiah 41:17]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.19|Isaiah 41:19 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Jeremiah 28:16
+type: Verse
+kjv: "Therefore thus saith the LORD; Behold, I will cast thee from off the face of the earth: this year thou shalt die, because thou hast taught rebellion against the LORD."
+bsb: "Therefore this is what the LORD says: ‘I am about to remove you from the face of the earth. You will die this year because you have preached rebellion against the LORD.’”"
+hebrew: "לָכֵ֗ן כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִי֙ מְשַֽׁלֵּֽחֲךָ֔ מֵעַ֖ל פְּנֵ֣י הָאֲדָמָ֑ה הַשָּׁנָה֙ אַתָּ֣ה מֵ֔ת כִּֽי־ סָרָ֥ה דִבַּ֖רְתָּ אֶל־ יְהוָֽה׃"
+pericope: "[[Jer.28.1 Hananiah’s False Prophecy|Hananiah’s False Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 28
+book/chapter: "[[Jer.28|Jeremiah 28]]"
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H0127I]]"
+- "[[H8141]]"
+- "[[H0859A]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5627]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 28:16**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD; Behold, I will cast thee from off the face of the earth: this year thou shalt die, because thou hast taught rebellion against the LORD.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD says: ‘I am about to remove you from the face of the earth. You will die this year because you have preached rebellion against the LORD.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2005\|הִנְ]][[H9040\|נִי֙]] [[H7971G\|מְשַֽׁלֵּֽחֲ]][[H9031\|ךָ֔]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הָ]][[H0127I\|אֲדָמָ֑ה]] [[H9009\|הַ]][[H8141\|שָּׁנָה֙]] [[H0859A\|אַתָּ֣ה]] [[H4191\|מֵ֔ת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5627\|סָרָ֥ה]] [[H1696G\|דִבַּ֖רְתָּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.15|<< Jeremiah 28:15]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.17|Jeremiah 28:17 >>]]</td></tr></table>
 

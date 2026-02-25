@@ -1,8 +1,61 @@
+---
+title: Jeremiah 11:2
+type: Verse
+kjv: "Hear ye the words of this covenant, and speak unto the men of Judah, and to the inhabitants of Jerusalem;"
+bsb: "“Listen to the words of this covenant and tell them to the men of Judah and the residents of Jerusalem."
+hebrew: "שִׁמְע֕וּ אֶת־ דִּבְרֵ֖י הַבְּרִ֣ית הַזֹּ֑את וְדִבַּרְתָּם֙ אֶל־ אִ֣ישׁ יְהוּדָ֔ה וְעַל־ יֹשְׁבֵ֖י יְרוּשָׁלִָֽם׃"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+strongs:
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H1285]]"
+- "[[H2063]]"
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H9038]]"
+- "[[H0413]]"
+- "[[H0376I]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 11:2**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear ye the words of this covenant, and speak unto the men of Judah, and to the inhabitants of Jerusalem;
 <small><sub>**BSB:**</sub></small>
 “Listen to the words of this covenant and tell them to the men of Judah and the residents of Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֕וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֖י]] [[H9009\|הַ]][[H1285\|בְּרִ֣ית]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9001\|וְ]][[H1696G\|דִבַּרְתָּ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0376I\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֖י]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.1|<< Jeremiah 11:1]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.3|Jeremiah 11:3 >>]]</td></tr></table>
 

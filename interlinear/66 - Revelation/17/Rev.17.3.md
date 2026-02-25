@@ -1,10 +1,69 @@
+---
+title: Revelation 17:3
+type: Verse
+kjv: "So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns."
+bsb: "And the angel carried me away in the Spirit into a wilderness, where I saw a woman sitting on a scarlet beast that was covered with blasphemous names and had seven heads and ten horns."
+greek: "Καὶ ἀπήνεγκέν με εἰς ἔρημον ἐν πνεύματι. καὶ εἶδον γυναῖκα καθημένην ἐπὶ θηρίον κόκκινον γέμοντα τὰ ὀνόματα βλασφημίας, ἔχων κεφαλὰς ἑπτὰ καὶ κέρατα δέκα."
+pericope: "[[Rev.17.1 The Woman on the Beast|The Woman on the Beast]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 17
+book/chapter: "[[Rev.17|Revelation 17]]"
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic HORN|HORN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0667]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G2048]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G1492H]]"
+- "[[G1135G]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G2342]]"
+- "[[G2847]]"
+- "[[G1073]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G0988]]"
+- "[[G2192]]"
+- "[[G2776]]"
+- "[[G2033]]"
+- "[[G2768]]"
+- "[[G1176]]"
+texts:
+- NKO
+- N(k)O
+- o
+---
+
 **Revelation 17:3**<big><big>[[Rev.17.1 The Woman on the Beast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns.
 <small><sub>**BSB:**</sub></small>
 And the angel carried me away in the Spirit into a wilderness, where I saw a woman sitting on a scarlet beast that was covered with blasphemous names and had seven heads and ten horns.
-<small><sub>**Literal:**</sub></small>
-and he carried away me into a wilderness in [the] Spirit. and I saw a woman sitting upon a beast scarlet being full of the names of blasphemy, having heads seven and horns ten.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.2|<< Revelation 17:2]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.4|Revelation 17:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0667\|ἀπήνεγκέν]]  [[G3165\|με]]  [[G1519\|εἰς]]  [[G2048\|ἔρημον]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι.]]  [[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G1135G\|γυναῖκα]]  [[G2521\|καθημένην]]  [[G1909\|ἐπὶ]]  [[G2342\|θηρίον]]  [[G2847\|κόκκινον]]  [[G1073\|γέμοντα]]  [[G3588\|τὰ]]  [[G3686\|ὀνόματα]]  [[G0988\|βλασφημίας,]]  [[G2192\|ἔχων]]  [[G2776\|κεφαλὰς]]  [[G2033\|ἑπτὰ]]  [[G2532\|καὶ]]  [[G2768\|κέρατα]]  [[G1176\|δέκα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic COLORS|COLORS]] • [[topic HORN|HORN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SEVEN|SEVEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.17.2|<< Revelation 17:2]]</td><td align="center" style="border:none;">[[Rev.17|Revelation 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.17.4|Revelation 17:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 17:3** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.7.7|Dan 7:7-8]] ☩ [[LXX.Dan.7.25|Dan 7:25]]

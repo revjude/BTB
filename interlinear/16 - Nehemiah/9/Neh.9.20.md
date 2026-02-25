@@ -1,8 +1,66 @@
+---
+title: Nehemiah 9:20
+type: Verse
+kjv: "Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst."
+bsb: "You gave Your good Spirit to instruct them. You did not withhold Your manna from their mouths, and You gave them water for their thirst."
+hebrew: "וְרוּחֲךָ֨ הַטּוֹבָ֔ה נָתַ֖תָּ לְהַשְׂכִּילָ֑ם וּמַנְךָ֙ לֹא־ מָנַ֣עְתָּ מִפִּיהֶ֔ם וּמַ֛יִם נָתַ֥תָּה לָהֶ֖ם לִצְמָאָֽם׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H7919A]]"
+- "[[H9038]]"
+- "[[H4478A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4513]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H4325G]]"
+- "[[H6772]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:20**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst.
 <small><sub>**BSB:**</sub></small>
 You gave Your good Spirit to instruct them. You did not withhold Your manna from their mouths, and You gave them water for their thirst.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7307G\|רוּחֲ]][[H9021\|ךָ֨]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֔ה]] [[H5414G\|נָתַ֖תָּ]] [[H9005\|לְ]][[H7919A\|הַשְׂכִּילָ֑]][[H9038\|ם]] [[H9002\|וּ]][[H4478A\|מַנְ]][[H9021\|ךָ֙]] [[H3808\|לֹא]][[H9014\|־]] [[H4513\|מָנַ֣עְתָּ]] [[H9006\|מִ]][[H6310G\|פִּי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H4325G\|מַ֛יִם]] [[H5414G\|נָתַ֥תָּה]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לִ]][[H6772\|צְמָאָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MANNA|MANNA]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.19|<< Nehemiah 9:19]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.21|Nehemiah 9:21 >>]]</td></tr></table>
 

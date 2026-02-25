@@ -1,8 +1,57 @@
+---
+title: Ezekiel 2:9
+type: Verse
+kjv: "And when I looked, behold, an hand was sent unto me; and, lo, a roll of a book was therein;"
+bsb: "Then I looked and saw a hand reaching out to me, and in it was a scroll,"
+hebrew: "וָאֶרְאֶ֕ה וְהִנֵּה־ יָ֖ד שְׁלוּחָ֣ה אֵלָ֑י וְהִנֵּה־ ב֖וֹ מְגִלַּת־ סֵֽפֶר׃"
+pericope: "[[Ezek.2.1 Ezekiel’s Call|Ezekiel’s Call]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 2
+book/chapter: "[[Ezek.2|Ezekiel 2]]"
+chronological_order: 793
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H7971K]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4039]]"
+- "[[H5612H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 2:9**<big><big>[[Ezek.2.1 Ezekiel’s Call|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I looked, behold, an hand [was] sent unto me; and, lo, a roll of a book [was] therein;
 <small><sub>**BSB:**</sub></small>
 Then I looked and saw a hand reaching out to me, and in it was a scroll,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֶרְאֶ֕ה]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H3027G\|יָ֖ד]] [[H7971K\|שְׁלוּחָ֣ה]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H4039\|מְגִלַּת]][[H9014\|־]] [[H5612H\|סֵֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.8|<< Ezekiel 2:8]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.10|Ezekiel 2:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

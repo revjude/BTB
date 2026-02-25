@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 15:12
+type: Verse
+kjv: "And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto the place that I have prepared for it."
+bsb: "And he said to them, “You are the heads of the Levitical families. You and your relatives must consecrate yourselves so that you may bring the ark of the LORD, the God of Israel, to the place I have prepared for it."
+hebrew: "וַיֹּ֣אמֶר לָהֶ֔ם אַתֶּ֛ם רָאשֵׁ֥י הָאָב֖וֹת לַלְוִיִּ֑ם הִֽתְקַדְּשׁוּ֙ אַתֶּ֣ם וַאֲחֵיכֶ֔ם וְהַֽעֲלִיתֶ֗ם אֵ֣ת אֲר֤וֹן יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֶל־ הֲכִינ֖וֹתִי לֽוֹ׃"
+pericope: "[[1Chr.15.1 Preparing to Move the Ark|Preparing to Move the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic URIEL|URIEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0859D]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H3881]]"
+- "[[H6942G]]"
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9026]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3559A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:12**<big><big>[[1Chr.15.1 Preparing to Move the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto them, Ye [are] the chief of the fathers of the Levites: sanctify yourselves, [both] ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto [the place that] I have prepared for it.
 <small><sub>**BSB:**</sub></small>
 And he said to them, “You are the heads of the Levitical families. You and your relatives must consecrate yourselves so that you may bring the ark of the LORD, the God of Israel, to the place I have prepared for it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H0859D\|אַתֶּ֛ם]] [[H7218H\|רָאשֵׁ֥י]] [[H9009\|הָ]][[H0001G\|אָב֖וֹת]] [[H9005\|לַ]][[H3881\|לְוִיִּ֑ם]] [[H6942G\|הִֽתְקַדְּשׁוּ֙]] [[H0859D\|אַתֶּ֣ם]] [[H9002\|וַ]][[H0251H\|אֲחֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H5927H\|הַֽעֲלִיתֶ֗ם]] [[H0853\|אֵ֣ת]] [[H0727\|אֲר֤וֹן]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3559A\|הֲכִינ֖וֹתִי]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic URIEL|URIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.11|<< 1 Chronicles 15:11]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.13|1 Chronicles 15:13 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 132:3
+type: Verse
+kjv: "Surely I will not come into the tabernacle of my house, nor go up into my bed;"
+bsb: "“I will not enter my house or get into my bed,"
+hebrew: "אִם־ אָ֭בֹא בְּאֹ֣הֶל בֵּיתִ֑י אִם־ אֶ֝עֱלֶ֗ה עַל־ עֶ֥רֶשׂ יְצוּעָֽי׃"
+pericope: "[[Ps.132.1 The LORD Has Chosen Zion|The LORD Has Chosen Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 132
+book/chapter: "[[Ps.132|Psalm 132]]"
+chronological_order: 401
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H0168H]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H6210]]"
+- "[[H3326A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 132:3**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely I will not come into the tabernacle of my house, nor go up into my bed;
 <small><sub>**BSB:**</sub></small>
 “I will not enter my house or get into my bed,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518H\|אִם]][[H9014\|־]] [[H0935G\|אָ֭בֹא]] [[H9003\|בְּ]][[H0168H\|אֹ֣הֶל]] [[H1004B\|בֵּיתִ֑]][[H9020\|י]] [[H0518H\|אִם]][[H9014\|־]] [[H5927G\|אֶ֝עֱלֶ֗ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6210\|עֶ֥רֶשׂ]] [[H3326A\|יְצוּעָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.2|<< Psalms 132:2]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.4|Psalms 132:4 >>]]</td></tr></table>
 

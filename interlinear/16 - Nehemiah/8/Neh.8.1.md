@@ -1,8 +1,75 @@
+---
+title: Nehemiah 8:1
+type: Verse
+kjv: "And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel."
+bsb: "At that time all the people gathered together in the square before the Water Gate, and they asked Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had commanded for Israel."
+hebrew: "וַיֵּאָסְפ֤וּ כָל־ הָעָם֙ כְּאִ֣ישׁ אֶחָ֔ד אֶל־ הָ֣רְח֔וֹב אֲשֶׁ֖ר לִפְנֵ֣י שַֽׁעַר־ הַמָּ֑יִם וַיֹּֽאמְרוּ֙ לְעֶזְרָ֣א הַסֹּפֵ֔ר לְהָבִ֗יא אֶת־ סֵ֙פֶר֙ תּוֹרַ֣ת מֹשֶׁ֔ה אֲשֶׁר־ צִוָּ֥ה יְהוָ֖ה אֶת־ יִשְׂרָאֵֽל׃"
+pericope: "[[Neh.8.1 Ezra Reads the Law|Ezra Reads the Law]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 8
+book/chapter: "[[Neh.8|Nehemiah 8]]"
+chronological_order: 920
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H0413]]"
+- "[[H7339]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H8179G]]"
+- "[[H4325H]]"
+- "[[H0559]]"
+- "[[H5830G]]"
+- "[[H5608B]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H5612H]]"
+- "[[H8451]]"
+- "[[H4872]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 8:1**<big><big>[[Neh.8.1 Ezra Reads the Law|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people gathered themselves together as one man into the street that [was] before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel.
 <small><sub>**BSB:**</sub></small>
 At that time all the people gathered together in the square before the Water Gate, and they asked Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had commanded for Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יֵּאָסְפ֤וּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9004\|כְּ]][[H0376G\|אִ֣ישׁ]] [[H0259\|אֶחָ֔ד]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ֣]][[H7339\|רְח֔וֹב]] [[H0834A\|אֲשֶׁ֖ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H8179G\|שַֽׁעַר]][[H9014\|־]] [[H9009\|הַ]][[H4325H\|מָּ֑יִם]] [[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H9005\|לְ]][[H5830G\|עֶזְרָ֣א]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֔ר]] [[H9005\|לְ]][[H0935P\|הָבִ֗יא]] [[H0853\|אֶת]][[H9014\|־]] [[H5612H\|סֵ֙פֶר֙]] [[H8451\|תּוֹרַ֣ת]] [[H4872\|מֹשֶׁ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LAW|LAW]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.73|<< Nehemiah 7:73]]</td><td align="center" style="border:none;">[[Neh.8|Nehemiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.8.2|Nehemiah 8:2 >>]]</td></tr></table>
 

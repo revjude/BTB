@@ -1,8 +1,53 @@
+---
+title: Job 21:23
+type: Verse
+kjv: "One dieth in his full strength, being wholly at ease and quiet."
+bsb: "One man dies full of vigor, completely secure and at ease."
+hebrew: "זֶ֗ה יָ֭מוּת בְּעֶ֣צֶם תֻּמּ֑וֹ כֻּ֝לּ֗וֹ שַׁלְאֲנַ֥ן וְשָׁלֵֽיו׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2088]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H6106G]]"
+- "[[H8537]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H7946]]"
+- "[[H9002]]"
+- "[[H7961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:23**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One dieth in his full strength, being wholly at ease and quiet.
 <small><sub>**BSB:**</sub></small>
 One man dies full of vigor, completely secure and at ease.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֗ה]] [[H4191\|יָ֭מוּת]] [[H9003\|בְּ]][[H6106G\|עֶ֣צֶם]] [[H8537\|תֻּמּ֑]][[H9023\|וֹ]] [[H3605\|כֻּ֝לּ֗]][[H9023\|וֹ]] [[H7946\|שַׁלְאֲנַ֥ן]] [[H9002\|וְ]][[H7961\|שָׁלֵֽיו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.22|<< Job 21:22]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.24|Job 21:24 >>]]</td></tr></table>
 

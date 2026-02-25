@@ -1,8 +1,60 @@
+---
+title: Ezekiel 32:16
+type: Verse
+kjv: "This is the lamentation wherewith they shall lament her: the daughters of the nations shall lament her: they shall lament for her, even for Egypt, and for all her multitude, saith the Lord GOD."
+bsb: "This is the lament they will chant for her; the daughters of the nations will chant it. Over Egypt and all her multitudes they will chant it, declares the Lord GOD.”"
+hebrew: "קִינָ֥ה הִיא֙ וְק֣וֹנְנ֔וּהָ בְּנ֥וֹת הַגּוֹיִ֖ם תְּקוֹנֵ֣נָּה אוֹתָ֑הּ עַל־ מִצְרַ֤יִם וְעַל־ כָּל־ הֲמוֹנָהּ֙ תְּקוֹנֵ֣נָּה אוֹתָ֔הּ נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ"
+pericope: "[[Ezek.32.1 A Lament for Pharaoh King of Egypt|A Lament for Pharaoh King of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H7015]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H6969]]"
+- "[[H9034]]"
+- "[[H1323G]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0853]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1995A]]"
+- "[[H9024]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 32:16**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the lamentation wherewith they shall lament her: the daughters of the nations shall lament her: they shall lament for her, [even] for Egypt, and for all her multitude, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 This is the lament they will chant for her; the daughters of the nations will chant it. Over Egypt and all her multitudes they will chant it, declares the Lord GOD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7015\|קִינָ֥ה]] [[H1931\|הִיא֙]] [[H9001\|וְ]][[H6969\|ק֣וֹנְנ֔וּ]][[H9034\|הָ]] [[H1323G\|בְּנ֥וֹת]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H6969\|תְּקוֹנֵ֣נָּה]] [[H0853\|אוֹתָ֑]][[H9034\|הּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרַ֤יִם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1995A\|הֲמוֹנָ]][[H9024\|הּ֙]] [[H6969\|תְּקוֹנֵ֣נָּה]] [[H0853\|אוֹתָ֔]][[H9034\|הּ]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.15|<< Ezekiel 32:15]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.17|Ezekiel 32:17 >>]]</td></tr></table>
 
@@ -24,7 +76,7 @@ This is the lament they will chant for her; the daughters of the nations will ch
 | \<obj.> it  |**<big>&#8207;[[H0853\|אוֹתָ֔]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.15|<< Ezekiel 32:15]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.17|Ezekiel 32:17 >>]]</td></tr></table>
 
 

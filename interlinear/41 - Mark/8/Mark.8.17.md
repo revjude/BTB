@@ -1,10 +1,64 @@
+---
+title: Mark 8:17
+type: Verse
+kjv: "And when Jesus knew it, he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?"
+bsb: "Aware of their conversation, Jesus asked them, “Why are you debating about having no bread? Do you still not see or understand? Do you have such hard hearts?"
+jesus_said: "Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?"
+greek: "καὶ γνοὺς ὁ Ἰησοῦς λέγει αὐτοῖς· τί διαλογίζεσθε ὅτι ἄρτους οὐκ ἔχετε; οὔπω νοεῖτε οὐδὲ συνίετε; ἔτι πεπωρωμένην ἔχετε τὴν καρδίαν ὑμῶν;"
+pericope: "[[Mark.8.14 The Leaven of the Pharisees and of Herod|The Leaven of the Pharisees and of Herod]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G1260]]"
+- "[[G3754G]]"
+- "[[G0740]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G3768]]"
+- "[[G3539]]"
+- "[[G3761]]"
+- "[[G4920]]"
+- "[[G2089]]"
+- "[[G4456]]"
+- "[[G2588]]"
+- "[[G4771]]"
+texts:
+- NKO
+- ko
+- K
+---
+
 **Mark 8:17**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when Jesus knew [it], he saith unto them, Why reason ye, because ye have no bread? perceive ye not yet, neither understand? have ye your heart yet hardened?
 <small><sub>**BSB:**</sub></small>
 Aware of their conversation, Jesus asked them, “Why are you debating about having no bread? Do you still not see or understand? Do you have such hard hearts?
-<small><sub>**Literal:**</sub></small>
-And having known [it] <the> Jesus He says to them; Why reason you because loaves not you have? Not yet do you perceive nor understand? still Hardened do you have the heart of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.16|<< Mark 8:16]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.18|Mark 8:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1097\|γνοὺς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G1260\|διαλογίζεσθε]]  [[G3754G\|ὅτι]]  [[G0740\|ἄρτους]]  [[G3756\|οὐκ]]  [[G2192\|ἔχετε;]]  [[G3768\|οὔπω]]  [[G3539\|νοεῖτε]]  [[G3761\|οὐδὲ]]  [[G4920\|συνίετε;]]  [[G2089\|ἔτι]]  [[G4456\|πεπωρωμένην]]  [[G2192\|ἔχετε]]  [[G3588\|τὴν]]  [[G2588\|καρδίαν]]  [[G4771\|ὑμῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.16|<< Mark 8:16]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.18|Mark 8:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

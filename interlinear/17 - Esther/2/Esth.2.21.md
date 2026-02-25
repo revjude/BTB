@@ -1,8 +1,71 @@
+---
+title: Esther 2:21
+type: Verse
+kjv: "In those days, while Mordecai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus."
+bsb: "In those days, while Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s eunuchs who guarded the entrance, grew angry and conspired to assassinate King Xerxes."
+hebrew: "בַּיָּמִ֣ים הָהֵ֔ם וּמָרְדֳּכַ֖י יֹשֵׁ֣ב בְּשַֽׁעַר־ הַמֶּ֑לֶךְ קָצַף֩ בִּגְתָ֨ן וָתֶ֜רֶשׁ שְׁנֵֽי־ סָרִיסֵ֤י הַמֶּ֙לֶךְ֙ מִשֹּׁמְרֵ֣י הַסַּ֔ף וַיְבַקְשׁוּ֙ לִשְׁלֹ֣חַ יָ֔ד בַּמֶּ֖לֶךְ אֲחַשְׁוֵֽרֹשׁ׃"
+pericope: "[[Esth.2.21 Mordecai Uncovers a Conspiracy|Mordecai Uncovers a Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic BIGTHAN|BIGTHAN]]"
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic MORDECAI|MORDECAI]]"
+- "[[topic TERESH|TERESH]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H4782H]]"
+- "[[H3427]]"
+- "[[H8179G]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H7107]]"
+- "[[H0904]]"
+- "[[H8657]]"
+- "[[H8147]]"
+- "[[H5631]]"
+- "[[H9006]]"
+- "[[H8104H]]"
+- "[[H5592B]]"
+- "[[H9001]]"
+- "[[H1245]]"
+- "[[H9005]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H0325]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:21**<big><big>[[Esth.2.21 Mordecai Uncovers a Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days, while Mordecai sat in the king’s gate, two of the king’s chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus.
 <small><sub>**BSB:**</sub></small>
 In those days, while Mordecai was sitting at the king’s gate, Bigthan and Teresh, two of the king’s eunuchs who guarded the entrance, grew angry and conspired to assassinate King Xerxes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H9002\|וּ]][[H4782H\|מָרְדֳּכַ֖י]] [[H3427\|יֹשֵׁ֣ב]] [[H9003\|בְּ]][[H8179G\|שַֽׁעַר]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H7107\|קָצַף֩]] [[H0904\|בִּגְתָ֨ן]] [[H9002\|וָ]][[H8657\|תֶ֜רֶשׁ]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H5631\|סָרִיסֵ֤י]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9006\|מִ]][[H8104H\|שֹּׁמְרֵ֣י]] [[H9009\|הַ]][[H5592B\|סַּ֔ף]] [[H9001\|וַ]][[H1245\|יְבַקְשׁוּ֙]] [[H9005\|לִ]][[H7971K\|שְׁלֹ֣חַ]] [[H3027G\|יָ֔ד]] [[H9003\|בַּ]][[H4428G\|מֶּ֖לֶךְ]] [[H0325\|אֲחַשְׁוֵֽרֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGTHAN|BIGTHAN]] • [[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic CITIZENS|CITIZENS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic LOYALTY|LOYALTY]] • [[topic MORDECAI|MORDECAI]] • [[topic TERESH|TERESH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.20|<< Esther 2:20]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.22|Esther 2:22 >>]]</td></tr></table>
 

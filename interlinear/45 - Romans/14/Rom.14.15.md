@@ -1,10 +1,72 @@
+---
+title: Romans 14:15
+type: Verse
+kjv: "But if thy brother be grieved with thy meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died."
+bsb: "If your brother is distressed by what you eat, you are no longer acting in love. Do not by your eating destroy your brother, for whom Christ died."
+greek: "εἰ γὰρ διὰ βρῶμα ὁ ἀδελφός σου λυπεῖται, οὐκέτι οὐκέτι κατὰ ἀγάπην περιπατεῖς. μὴ τῷ βρώματί σου ἐκεῖνον ἀπόλλυε ὑπὲρ οὗ Χριστὸς ἀπέθανεν."
+pericope: "[[Rom.14.13 The Law of Love|The Law of Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ROME|ROME]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G1223]]"
+- "[[G1033]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G4771]]"
+- "[[G3076]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G2596]]"
+- "[[G0026]]"
+- "[[G4043]]"
+- "[[G3361]]"
+- "[[G1565]]"
+- "[[G0622]]"
+- "[[G5228]]"
+- "[[G3739]]"
+- "[[G5547]]"
+- "[[G0599]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 14:15**<big><big>[[Rom.14.13 The Law of Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if thy brother be grieved with [thy] meat, now walkest thou not charitably. Destroy not him with thy meat, for whom Christ died.
 <small><sub>**BSB:**</sub></small>
 If your brother is distressed by what you eat, you are no longer acting in love. Do not by your eating destroy your brother, for whom Christ died.
-<small><sub>**Literal:**</sub></small>
-If for on account of food the brother of you is grieved, no longer according to love are you walking. Not with the food of you that one do destroy for whom Christ died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.14|<< Romans 14:14]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.16|Romans 14:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G1223\|διὰ]]  [[G1033\|βρῶμα]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφός]]  [[G4771\|σου]]  [[G3076\|λυπεῖται,]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G2596\|κατὰ]]  [[G0026\|ἀγάπην]]  [[G4043\|περιπατεῖς.]]  [[G3361\|μὴ]]  [[G3588\|τῷ]]  [[G1033\|βρώματί]]  [[G4771\|σου]]  [[G1565\|ἐκεῖνον]]  [[G0622\|ἀπόλλυε]]  [[G5228\|ὑπὲρ]]  [[G3739\|οὗ]]  [[G5547\|Χριστὸς]]  [[G0599\|ἀπέθανεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ROME|ROME]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic SUFFERING|SUFFERING]] • [[topic TEMPTATION|TEMPTATION]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.14|<< Romans 14:14]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.16|Romans 14:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

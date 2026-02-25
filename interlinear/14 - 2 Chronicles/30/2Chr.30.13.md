@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 30:13
+type: Verse
+kjv: "And there assembled at Jerusalem much people to keep the feast of unleavened bread in the second month, a very great congregation."
+bsb: "In the second month, a very great assembly gathered in Jerusalem to celebrate the Feast of Unleavened Bread."
+hebrew: "וַיֵּֽאָסְפ֤וּ יְרוּשָׁלִַ֙ם֙ עַם־ רָ֔ב לַעֲשׂ֛וֹת אֶת־ חַ֥ג הַמַּצּ֖וֹת בַּחֹ֣דֶשׁ הַשֵּׁנִ֑י קָהָ֖ל לָרֹ֥ב מְאֹֽד׃"
+pericope: "[[2Chr.30.13 Hezekiah Celebrates the Passover|Hezekiah Celebrates the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 30
+book/chapter: "[[2Chr.30|2 Chronicles 30]]"
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H3389]]"
+- "[[H5971A]]"
+- "[[H9014]]"
+- "[[H7227A]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H2282]]"
+- "[[H9009]]"
+- "[[H4682]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H8145]]"
+- "[[H6951]]"
+- "[[H7230]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 30:13**<big><big>[[2Chr.30.13 Hezekiah Celebrates the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there assembled at Jerusalem much people to keep the feast of unleavened bread in the second month, a very great congregation.
 <small><sub>**BSB:**</sub></small>
 In the second month, a very great assembly gathered in Jerusalem to celebrate the Feast of Unleavened Bread.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יֵּֽאָסְפ֤וּ]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H5971A\|עַם]][[H9014\|־]] [[H7227A\|רָ֔ב]] [[H9005\|לַ]][[H6213A\|עֲשׂ֛וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H2282\|חַ֥ג]] [[H9009\|הַ]][[H4682\|מַּצּ֖וֹת]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֑י]] [[H6951\|קָהָ֖ל]] [[H9005\|לָ]][[H7230\|רֹ֥ב]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.12|<< 2 Chronicles 30:12]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.14|2 Chronicles 30:14 >>]]</td></tr></table>
 

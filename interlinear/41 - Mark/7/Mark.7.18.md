@@ -1,10 +1,63 @@
+---
+title: Mark 7:18
+type: Verse
+kjv: "And he saith unto them, Are ye so without understanding also? Do ye not perceive, that whatsoever thing from without entereth into the man, it cannot defile him;"
+bsb: "“Are you still so dull?” He asked. “Do you not understand? Nothing that enters a man from the outside can defile him,"
+jesus_said: "Are ye so without understanding also? Do ye not perceive, that whatsoever thing from without entereth into the man, it cannot defile him;"
+greek: "καὶ λέγει αὐτοῖς· οὕτως καὶ ὑμεῖς ἀσύνετοί ἐστε; οὐ νοεῖτε ὅτι πᾶν τὸ ἔξωθεν εἰσπορευόμενον εἰς τὸν ἄνθρωπον οὐ δύναται αὐτὸν κοινῶσαι;"
+pericope: "[[Mark.7.14 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3779]]"
+- "[[G4771]]"
+- "[[G0801]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G3539]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1855]]"
+- "[[G1531]]"
+- "[[G1519]]"
+- "[[G0444]]"
+- "[[G1410]]"
+- "[[G2840]]"
+texts:
+- NKO
+---
+
 **Mark 7:18**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto them, Are ye so without understanding also? Do ye not perceive, that whatsoever thing from without entereth into the man, [it] cannot defile him;
 <small><sub>**BSB:**</sub></small>
 “Are you still so dull?” He asked. “Do you not understand? Nothing that enters a man from the outside can defile him,
-<small><sub>**Literal:**</sub></small>
-And He says to them; Thus also you yourselves without understanding are? Surely you understand that everything <the> outside entering into the man not is able him to defile?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.17|<< Mark 7:17]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.19|Mark 7:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G0801\|ἀσύνετοί]]  [[G1510\|ἐστε;]]  [[G3756\|οὐ]]  [[G3539\|νοεῖτε]]  [[G3754G\|ὅτι]]  [[G3956\|πᾶν]]  [[G3588\|τὸ]]  [[G1855\|ἔξωθεν]]  [[G1531\|εἰσπορευόμενον]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G0846\|αὐτὸν]]  [[G2840\|κοινῶσαι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHIDING|CHIDING]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.17|<< Mark 7:17]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.19|Mark 7:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

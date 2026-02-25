@@ -1,8 +1,59 @@
+---
+title: 1 Kings 3:19
+type: Verse
+kjv: "And this woman’s child died in the night; because she overlaid it."
+bsb: "During the night this woman’s son died because she rolled over on him."
+hebrew: "וַיָּ֛מָת בֶּן־ הָאִשָּׁ֥ה הַזֹּ֖את לָ֑יְלָה אֲשֶׁ֥ר שָׁכְבָ֖ה עָלָֽיו׃"
+pericope: "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H2063]]"
+- "[[H3915]]"
+- "[[H0834A]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:19**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this woman’s child died in the night; because she overlaid it.
 <small><sub>**BSB:**</sub></small>
 During the night this woman’s son died because she rolled over on him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֛מָת]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H3915\|לָ֑יְלָה]] [[H0834A\|אֲשֶׁ֥ר]] [[H7901G\|שָׁכְבָ֖ה]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.18|<< 1 Kings 3:18]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.20|1 Kings 3:20 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Ezekiel 37:13
+type: Verse
+kjv: "And ye shall know that I am the LORD, when I have opened your graves, O my people, and brought you up out of your graves,"
+bsb: "Then you, My people, will know that I am the LORD, when I open your graves and bring you up from them."
+hebrew: "וִֽידַעְתֶּ֖ם כִּֽי־ אֲנִ֣י יְהוָ֑ה בְּפִתְחִ֣י אֶת־ קִבְרֽוֹתֵיכֶ֗ם וּבְהַעֲלוֹתִ֥י אֶתְכֶ֛ם מִקִּבְרוֹתֵיכֶ֖ם עַמִּֽי׃"
+pericope: "[[Ezek.37.1 The Valley of Dry Bones|The Valley of Dry Bones]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BONES|BONES]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic POWER|POWER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6605A]]"
+- "[[H9040]]"
+- "[[H0853]]"
+- "[[H6913]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H5927H]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:13**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall know that I [am] the LORD, when I have opened your graves, O my people, and brought you up out of your graves,
 <small><sub>**BSB:**</sub></small>
 Then you, My people, will know that I am the LORD, when I open your graves and bring you up from them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֖ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בְּ]][[H6605A\|פִתְחִ֣]][[H9040\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H6913\|קִבְרֽוֹתֵי]][[H9026\|כֶ֗ם]] [[H9002\|וּ]][[H9003\|בְ]][[H5927H\|הַעֲלוֹתִ֥]][[H9040\|י]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H9006\|מִ]][[H6913\|קִּבְרוֹתֵי]][[H9026\|כֶ֖ם]] [[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONES|BONES]] • [[topic EZEKIEL|EZEKIEL]] • [[topic POWER|POWER]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.12|<< Ezekiel 37:12]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.14|Ezekiel 37:14 >>]]</td></tr></table>
 

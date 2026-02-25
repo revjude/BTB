@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 6:6
+type: Verse
+kjv: "Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people go, and they departed?"
+bsb: "Why harden your hearts as the Egyptians and Pharaoh hardened theirs? When He afflicted them, did they not send the people out so they could go on their way?"
+hebrew: "וְלָ֤מָּה תְכַבְּדוּ֙ אֶת־ לְבַבְכֶ֔ם כַּאֲשֶׁ֧ר כִּבְּד֛וּ מִצְרַ֥יִם וּפַרְעֹ֖ה אֶת־ לִבָּ֑ם הֲלוֹא֙ כַּאֲשֶׁ֣ר הִתְעַלֵּ֣ל בָּהֶ֔ם וַֽיְשַׁלְּח֖וּם וַיֵּלֵֽכוּ׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3513H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H4713]]"
+- "[[H6547J]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H5953A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 6:6**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people go, and they departed?
 <small><sub>**BSB:**</sub></small>
 Why harden your hearts as the Egyptians and Pharaoh hardened theirs? When He afflicted them, did they not send the people out so they could go on their way?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ֤]][[H4100\|מָּה]] [[H3513H\|תְכַבְּדוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֔ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֧ר]] [[H3513H\|כִּבְּד֛וּ]] [[H4713\|מִצְרַ֥יִם]] [[H9002\|וּ]][[H6547J\|פַרְעֹ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבָּ֑]][[H9028\|ם]] [[H9008\|הֲ]][[H3808\|לוֹא֙]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H5953A\|הִתְעַלֵּ֣ל]] [[H9003\|בָּ]][[H9038\|הֶ֔ם]] [[H9001\|וַֽ]][[H7971G\|יְשַׁלְּח֖וּ]][[H9038\|ם]] [[H9001\|וַ]][[H1980G\|יֵּלֵֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.5|<< 1 Samuel 6:5]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.7|1 Samuel 6:7 >>]]</td></tr></table>
 

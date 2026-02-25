@@ -1,8 +1,71 @@
+---
+title: Jonah 3:6
+type: Verse
+kjv: "For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered him with sackcloth, and sat in ashes."
+bsb: "When word reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes."
+hebrew: "וַיִּגַּ֤ע הַדָּבָר֙ אֶל־ מֶ֣לֶך נִֽינְוֵ֔ה וַיָּ֙קָם֙ מִכִּסְא֔וֹ וַיַּעֲבֵ֥ר אַדַּרְתּ֖וֹ מֵֽעָלָ֑יו וַיְכַ֣ס שַׂ֔ק וַיֵּ֖שֶׁב עַל־ הָאֵֽפֶר׃"
+pericope: "[[Jonah.3.1 The Ninevites Repent|The Ninevites Repent]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 3
+book/chapter: "[[Jonah.3|Jonah 3]]"
+chronological_order: 596
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic ASHES|ASHES]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5060]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H5210]]"
+- "[[H6965B]]"
+- "[[H9006]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H5674C]]"
+- "[[H0155]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H3680]]"
+- "[[H8242]]"
+- "[[H3427]]"
+- "[[H0665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 3:6**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For word came unto the king of Nineveh, and he arose from his throne, and he laid his robe from him, and covered [him] with sackcloth, and sat in ashes.
 <small><sub>**BSB:**</sub></small>
 When word reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5060\|יִּגַּ֤ע]] [[H9009\|הַ]][[H1697G\|דָּבָר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶך]] [[H5210\|נִֽינְוֵ֔ה]] [[H9001\|וַ]][[H6965B\|יָּ֙קָם֙]] [[H9006\|מִ]][[H3678G\|כִּסְא֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5674C\|יַּעֲבֵ֥ר]] [[H0155\|אַדַּרְתּ֖]][[H9023\|וֹ]] [[H9006\|מֵֽ]][[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H3680\|יְכַ֣ס]] [[H8242\|שַׂ֔ק]] [[H9001\|וַ]][[H3427\|יֵּ֖שֶׁב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0665\|אֵֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHES|ASHES]] • [[topic FASTING|FASTING]] • [[topic HEATHEN|HEATHEN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic ORATOR|ORATOR]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVIVALS|REVIVALS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.3.5|<< Jonah 3:5]]</td><td align="center" style="border:none;">[[Jonah.3|Jonah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3.7|Jonah 3:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

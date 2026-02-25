@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals the Multitudes
+type: Pericope
 pericope: "[[Mark.3.7 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Mark
 chapter: 3
 book/chapter: "[[Mark.3|Mark 3]]"
-genre:
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Mark.3.7]]"
 - "[[Mark.3.8]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mark.3.12]]"
 ---
 
-[[Mark.3|Mark 3:7 - Mark 3:12]]
+<small>[[Mark.3|Mark 3:7-12]]</small>
 *Jesus Heals the Multitudes*
 
 [[Mark.3.7|7]] But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,

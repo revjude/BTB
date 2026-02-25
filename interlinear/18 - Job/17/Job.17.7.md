@@ -1,8 +1,54 @@
+---
+title: Job 17:7
+type: Verse
+kjv: "Mine eye also is dim by reason of sorrow, and all my members are as a shadow."
+bsb: "My eyes have grown dim with grief, and my whole body is but a shadow."
+hebrew: "וַתֵּ֣כַהּ מִכַּ֣עַשׂ עֵינִ֑י וִֽיצֻרַ֖י כַּצֵּ֣ל כֻּלָּֽם׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3543A]]"
+- "[[H9006]]"
+- "[[H3708B]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3338]]"
+- "[[H9004]]"
+- "[[H6738]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:7**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eye also is dim by reason of sorrow, and all my members [are] as a shadow.
 <small><sub>**BSB:**</sub></small>
 My eyes have grown dim with grief, and my whole body is but a shadow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3543A\|תֵּ֣כַהּ]] [[H9006\|מִ]][[H3708B\|כַּ֣עַשׂ]] [[H5869A\|עֵינִ֑]][[H9020\|י]] [[H9002\|וִֽ]][[H3338\|יצֻרַ֖]][[H9020\|י]] [[H9004\|כַּ]][[H6738\|צֵּ֣ל]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.6|<< Job 17:6]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.8|Job 17:8 >>]]</td></tr></table>
 

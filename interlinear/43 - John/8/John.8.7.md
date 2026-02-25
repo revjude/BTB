@@ -1,10 +1,64 @@
+---
+title: John 8:7
+type: Verse
+kjv: "So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her."
+bsb: "When they continued to question Him, He straightened up and said to them, “Let him who is without sin among you be the first to cast a stone at her.”"
+jesus_said: "He that is without sin among you, let him first cast a stone at her."
+greek: "ὡς δὲ ἐπέμενον ἐρωτῶντες αὐτόν, ἀνακύψας καὶ εἶπεν πρὸς αὐτούς, ὁ ἀναμάρτητος ὑμῶν, πρῶτος ἐπ᾽ αὐτὴν τὸν βαλέτω λίθον·"
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1961]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G0352]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0361]]"
+- "[[G4771]]"
+- "[[G4413G]]"
+- "[[G1909]]"
+- "[[G0906G]]"
+- "[[G3037]]"
+texts:
+- KO
+- K(o)
+- o
+- K
+---
+
 **John 8:7**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.
 <small><sub>**BSB:**</sub></small>
 When they continued to question Him, He straightened up and said to them, “Let him who is without sin among you be the first to cast a stone at her.”
-<small><sub>**Literal:**</sub></small>
-As however they were continuing asking Him, having stood up also He said to them The [one] sinless among you, [the] first at her <the> he should cast stone;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.6|<< John 8:6]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.8|John 8:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G1961\|ἐπέμενον]]  [[G2065\|ἐρωτῶντες]]  [[G0846\|αὐτόν,]]  [[G0352\|ἀνακύψας]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς,]]  [[G3588\|ὁ]]  [[G0361\|ἀναμάρτητος]]  [[G4771\|ὑμῶν,]]  [[G4413G\|πρῶτος]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὴν]]  [[G3588\|τὸν]]  [[G0906G\|βαλέτω]]  [[G3037\|λίθον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic REPROOF|REPROOF]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.6|<< John 8:6]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.8|John 8:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

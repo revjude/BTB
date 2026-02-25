@@ -1,10 +1,70 @@
+---
+title: Matthew 13:15
+type: Verse
+kjv: "For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them."
+bsb: "For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’"
+jesus_said: "For this people’s heart is waxed gross, and their ears are dull of hearing, and their eyes they have closed; lest at any time they should see with their eyes, and hear with their ears, and should understand with their heart, and should be converted, and I should heal them."
+greek: "ἐπαχύνθη γὰρ ἡ καρδία τοῦ λαοῦ τούτου, καὶ τοῖς ὠσὶν βαρέως ἤκουσαν, καὶ τοὺς ὀφθαλμοὺς αὐτῶν ἐκάμμυσαν· μήποτε μήποτε ἴδωσιν τοῖς ὀφθαλμοῖς καὶ τοῖς ὠσὶν ἀκούσωσιν καὶ τῇ καρδίᾳ συνῶσιν καὶ ἐπιστρέψωσιν καὶ ἰάσομαι αὐτούς.¶"
+pericope: "[[Matt.13.10 The Purpose of Jesus’ Parables|The Purpose of Jesus’ Parables]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEAFNESS|DEAFNESS]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3975]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G2992]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3775]]"
+- "[[G0917]]"
+- "[[G0191]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G2576]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G1492H]]"
+- "[[G4920]]"
+- "[[G1994]]"
+- "[[G2390]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 13:15**<big><big>[[Matt.13.10 The Purpose of Jesus’ Parables|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this people’s heart is waxed gross, and [their] ears are dull of hearing, and their eyes they have closed; lest at any time they should see with [their] eyes, and hear with [their] ears, and should understand with [their] heart, and should be converted, and I should heal them.
 <small><sub>**BSB:**</sub></small>
 For this people’s heart has grown callous; they hardly hear with their ears, and they have closed their eyes. Otherwise they might see with their eyes, hear with their ears, understand with their hearts, and turn, and I would heal them.’
-<small><sub>**Literal:**</sub></small>
-Has grown dull for the heart of the people this, and with the ears barely they have heard, and the eyes of them they have closed; otherwise they may see with the eyes and with the ears they may hear and with the heart they may understand and may return and I will heal them.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.14|<< Matthew 13:14]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.16|Matthew 13:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3975\|ἐπαχύνθη]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G2588\|καρδία]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G3778\|τούτου,]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G3775\|ὠσὶν]]  [[G0917\|βαρέως]]  [[G0191\|ἤκουσαν,]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτῶν]]  [[G2576\|ἐκάμμυσαν·]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G1492H\|ἴδωσιν]]  [[G3588\|τοῖς]]  [[G3788\|ὀφθαλμοῖς]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G3775\|ὠσὶν]]  [[G0191\|ἀκούσωσιν]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G4920\|συνῶσιν]]  [[G2532\|καὶ]]  [[G1994\|ἐπιστρέψωσιν]]  [[G2532\|καὶ]]  [[G2390\|ἰάσομαι]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DEAFNESS|DEAFNESS]] • [[topic HEARERS|HEARERS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPROBACY|REPROBACY]] • [[topic SERMON|SERMON]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.14|<< Matthew 13:14]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.16|Matthew 13:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 13:15** is...
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]

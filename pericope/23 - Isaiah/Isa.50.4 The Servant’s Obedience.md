@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Servant’s Obedience
+type: Pericope
 pericope: "[[Isa.50.4 The Servant’s Obedience|The Servant’s Obedience]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 50
 book/chapter: "[[Isa.50|Isaiah 50]]"
-genre:
+chronological_order: 689
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.50.4]]"
 - "[[Isa.50.5]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.50.11]]"
 ---
 
-[[Isa.50|Isaiah 50:4 - Isaiah 50:11]]
+<small>[[Isa.50|Isaiah 50:4-11]]</small>
 *The Servant’s Obedience*
 
 [[Isa.50.4|4]] The Lord GOD hath given me the tongue of the learned, that I should know how to speak a word in season to \[him that is\] weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.

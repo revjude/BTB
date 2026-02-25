@@ -1,8 +1,67 @@
+---
+title: Leviticus 26:42
+type: Verse
+kjv: "Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land."
+bsb: "then I will remember My covenant with Jacob and My covenant with Isaac and My covenant with Abraham, and I will remember the land."
+hebrew: "וְזָכַרְתִּ֖י אֶת־ בְּרִיתִ֣י יַעֲק֑וֹב וְאַף֩ אֶת־ בְּרִיתִ֨י יִצְחָ֜ק וְאַ֨ף אֶת־ בְּרִיתִ֧י אַבְרָהָ֛ם אֶזְכֹּ֖ר וְהָאָ֥רֶץ אֶזְכֹּֽר׃"
+pericope: "[[Lev.26.40 God Remembers Those Who Repent|God Remembers Those Who Repent]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H0637]]"
+- "[[H3327]]"
+- "[[H0085]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:42**<big><big>[[Lev.26.40 God Remembers Those Who Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham will I remember; and I will remember the land.
 <small><sub>**BSB:**</sub></small>
 then I will remember My covenant with Jacob and My covenant with Isaac and My covenant with Abraham, and I will remember the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2142\|זָכַרְתִּ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֣]][[H9020\|י]] [[H3290\|יַעֲק֑וֹב]] [[H9002\|וְ]][[H0637\|אַף֩]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֨]][[H9020\|י]] [[H3327\|יִצְחָ֜ק]] [[H9002\|וְ]][[H0637\|אַ֨ף]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֧]][[H9020\|י]] [[H0085\|אַבְרָהָ֛ם]] [[H2142\|אֶזְכֹּ֖ר]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֥רֶץ]] [[H2142\|אֶזְכֹּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic GOD|GOD]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.41|<< Leviticus 26:41]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.43|Leviticus 26:43 >>]]</td></tr></table>
 

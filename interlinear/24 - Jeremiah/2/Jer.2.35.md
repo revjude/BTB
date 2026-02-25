@@ -1,8 +1,65 @@
+---
+title: Jeremiah 2:35
+type: Verse
+kjv: "Yet thou sayest, Because I am innocent, surely his anger shall turn from me. Behold, I will plead with thee, because thou sayest, I have not sinned."
+bsb: "you say, ‘I am innocent. Surely His anger will turn from me.’ Behold, I will judge you, because you say, ‘I have not sinned.’"
+hebrew: "וַתֹּֽאמְרִי֙ כִּ֣י נִקֵּ֔יתִי אַ֛ךְ שָׁ֥ב אַפּ֖וֹ מִמֶּ֑נִּי הִנְנִי֙ נִשְׁפָּ֣ט אוֹתָ֔ךְ עַל־ אָמְרֵ֖ךְ לֹ֥א חָטָֽאתִי׃"
+pericope: "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INNOCENCY|INNOCENCY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H5352]]"
+- "[[H0389]]"
+- "[[H7725I]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H8199]]"
+- "[[H0854]]"
+- "[[H9032]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9042]]"
+- "[[H3808]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:35**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet thou sayest, Because I am innocent, surely his anger shall turn from me. Behold, I will plead with thee, because thou sayest, I have not sinned.
 <small><sub>**BSB:**</sub></small>
 you say, ‘I am innocent. Surely His anger will turn from me.’ Behold, I will judge you, because you say, ‘I have not sinned.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּֽאמְרִי֙]] [[H3588A\|כִּ֣י]] [[H5352\|נִקֵּ֔יתִי]] [[H0389\|אַ֛ךְ]] [[H7725I\|שָׁ֥ב]] [[H0639G\|אַפּ֖]][[H9023\|וֹ]] [[H4480A\|מִמֶּ֑]][[H9030\|נִּי]] [[H2005\|הִנְ]][[H9040\|נִי֙]] [[H8199\|נִשְׁפָּ֣ט]] [[H0854\|אוֹתָ֔]][[H9032\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H0559\|אָמְרֵ֖]][[H9042\|ךְ]] [[H3808\|לֹ֥א]] [[H2398\|חָטָֽאתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INNOCENCY|INNOCENCY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.34|<< Jeremiah 2:34]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.36|Jeremiah 2:36 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 78:15
+type: Verse
+kjv: "He clave the rocks in the wilderness, and gave them drink as out of the great depths."
+bsb: "He split the rocks in the wilderness and gave them drink as abundant as the seas."
+hebrew: "יְבַקַּ֣ע צֻ֭רִים בַּמִּדְבָּ֑ר וַ֝יַּ֗שְׁקְ כִּתְהֹמ֥וֹת רַבָּֽה׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ROCK|ROCK]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1234]]"
+- "[[H6697H]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9001]]"
+- "[[H8248H]]"
+- "[[H9004]]"
+- "[[H8415]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:15**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He clave the rocks in the wilderness, and gave [them] drink as [out of] the great depths.
 <small><sub>**BSB:**</sub></small>
 He split the rocks in the wilderness and gave them drink as abundant as the seas.
+<small><sub>**Hebrew:**</sub></small>
+[[H1234\|יְבַקַּ֣ע]] [[H6697H\|צֻ֭רִים]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H9001\|וַ֝]][[H8248H\|יַּ֗שְׁקְ]] [[H9004\|כִּ]][[H8415\|תְהֹמ֥וֹת]] [[H7227A\|רַבָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic ROCK|ROCK]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.14|<< Psalms 78:14]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.16|Psalms 78:16 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Matthew 13:54
+type: Verse
+kjv: "And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?"
+bsb: "Coming to His hometown, He taught the people in their synagogue, and they were astonished. “Where did this man get such wisdom and miraculous powers?” they asked."
+greek: "καὶ ἐλθὼν εἰς τὴν πατρίδα αὐτοῦ ἐδίδασκεν αὐτοὺς ἐν τῇ συναγωγῇ αὐτῶν ὥστε ἐκπλήσσεσθαι αὐτοὺς καὶ λέγειν· πόθεν τούτῳ ἡ σοφία αὕτη καὶ αἱ δυνάμεις;"
+pericope: "[[Matt.13.53 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEOPLE, COMMON|PEOPLE, COMMON]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3968]]"
+- "[[G0846]]"
+- "[[G1321]]"
+- "[[G1722]]"
+- "[[G4864]]"
+- "[[G5620]]"
+- "[[G1605]]"
+- "[[G3004G]]"
+- "[[G4159]]"
+- "[[G3778]]"
+- "[[G4678]]"
+- "[[G1411]]"
+texts:
+- NKO
+---
+
 **Matthew 13:54**<big><big>[[Matt.13.53 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this [man] this wisdom, and [these] mighty works?
 <small><sub>**BSB:**</sub></small>
 Coming to His hometown, He taught the people in their synagogue, and they were astonished. “Where did this man get such wisdom and miraculous powers?” they asked.
-<small><sub>**Literal:**</sub></small>
-And having come into the region of Him He was teaching them in the synagogue of them so that to be astonished they and to say: From where [came] to this [man] <the> wisdom this and the miraculous powers?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.53|<< Matthew 13:53]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.55|Matthew 13:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθὼν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3968\|πατρίδα]]  [[G0846\|αὐτοῦ]]  [[G1321\|ἐδίδασκεν]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4864\|συναγωγῇ]]  [[G0846\|αὐτῶν]]  [[G5620\|ὥστε]]  [[G1605\|ἐκπλήσσεσθαι]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G3004G\|λέγειν·]]  [[G4159\|πόθεν]]  [[G3778\|τούτῳ]]  [[G3588\|ἡ]]  [[G4678\|σοφία]]  [[G3778\|αὕτη]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G1411\|δυνάμεις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEOPLE, COMMON|PEOPLE, COMMON]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.53|<< Matthew 13:53]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.55|Matthew 13:55 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

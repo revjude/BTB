@@ -1,8 +1,61 @@
+---
+title: Genesis 49:33
+type: Verse
+kjv: "And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people."
+bsb: "When Jacob had finished instructing his sons, he pulled his feet into the bed and breathed his last, and he was gathered to his people."
+hebrew: "וַיְכַ֤ל יַעֲקֹב֙ לְצַוֹּ֣ת אֶת־ בָּנָ֔יו וַיֶּאֱסֹ֥ף רַגְלָ֖יו אֶל־ הַמִּטָּ֑ה וַיִּגְוַ֖ע וַיֵּאָ֥סֶף אֶל־ עַמָּֽיו׃"
+pericope: "[[Gen.49.29 The Death of Jacob|The Death of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H3290]]"
+- "[[H9005]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0622]]"
+- "[[H7272]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4296]]"
+- "[[H1478]]"
+- "[[H5971B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 49:33**<big><big>[[Gen.49.29 The Death of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.
 <small><sub>**BSB:**</sub></small>
 When Jacob had finished instructing his sons, he pulled his feet into the bed and breathed his last, and he was gathered to his people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615G\|יְכַ֤ל]] [[H3290\|יַעֲקֹב֙]] [[H9005\|לְ]][[H6680\|צַוֹּ֣ת]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0622\|יֶּאֱסֹ֥ף]] [[H7272\|רַגְלָ֖י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4296\|מִּטָּ֑ה]] [[H9001\|וַ]][[H1478\|יִּגְוַ֖ע]] [[H9001\|וַ]][[H0622\|יֵּאָ֥סֶף]] [[H0413\|אֶל]][[H9014\|־]] [[H5971B\|עַמָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.32|<< Genesis 49:32]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.1|Genesis 50:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

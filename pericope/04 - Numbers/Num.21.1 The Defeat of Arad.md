@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defeat of Arad
+type: Pericope
 pericope: "[[Num.21.1 The Defeat of Arad|The Defeat of Arad]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 21
 book/chapter: "[[Num.21|Numbers 21]]"
-genre:
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,13 +25,14 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 3
 verses:
 - "[[Num.21.1]]"
 - "[[Num.21.2]]"
 - "[[Num.21.3]]"
 ---
 
-[[Num.21|Numbers 21:1 - Numbers 21:3]]
+<small>[[Num.21|Numbers 21:1-3]]</small>
 *The Defeat of Arad*
 
 [[Num.21.1|1]] And \[when\] king Arad the Canaanite, which dwelt in the south, heard tell that Israel came by the way of the spies; then he fought against Israel, and took \[some\] of them prisoners.

@@ -1,8 +1,61 @@
+---
+title: Isaiah 37:11
+type: Verse
+kjv: "Behold, thou hast heard what the kings of Assyria have done to all lands by destroying them utterly; and shalt thou be delivered?"
+bsb: "Surely you have heard what the kings of Assyria have done to all the other countries, devoting them to destruction. Will you then be spared?"
+hebrew: "הִנֵּ֣ה׀ אַתָּ֣ה שָׁמַ֗עְתָּ אֲשֶׁ֨ר עָשׂ֜וּ מַלְכֵ֥י אַשּׁ֛וּר לְכָל־ הָאֲרָצ֖וֹת לְהַחֲרִימָ֑ם וְאַתָּ֖ה תִּנָּצֵֽל׃"
+pericope: "[[Isa.37.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H0859A]]"
+- "[[H8085G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2763A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:11**<big><big>[[Isa.37.8 Sennacherib’s Blasphemous Letter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, thou hast heard what the kings of Assyria have done to all lands by destroying them utterly; and shalt thou be delivered?
 <small><sub>**BSB:**</sub></small>
 Surely you have heard what the kings of Assyria have done to all the other countries, devoting them to destruction. Will you then be spared?
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H0859A\|אַתָּ֣ה]] [[H8085G\|שָׁמַ֗עְתָּ]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשׂ֜וּ]] [[H4428G\|מַלְכֵ֥י]] [[H0804G\|אַשּׁ֛וּר]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אֲרָצ֖וֹת]] [[H9005\|לְ]][[H2763A\|הַחֲרִימָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H5337\|תִּנָּצֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic LETTERS|LETTERS]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.10|<< Isaiah 37:10]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.12|Isaiah 37:12 >>]]</td></tr></table>
 

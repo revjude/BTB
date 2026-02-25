@@ -1,8 +1,77 @@
+---
+title: Numbers 20:12
+type: Verse
+kjv: "And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them."
+bsb: "But the LORD said to Moses and Aaron, “Because you did not trust Me to show My holiness in the sight of the Israelites, you will not bring this assembly into the land that I have given them.”"
+hebrew: "וַיֹּ֣אמֶר יְהוָה֮ אֶל־ מֹשֶׁ֣ה וְאֶֽל־ אַהֲרֹן֒ יַ֚עַן לֹא־ הֶאֱמַנְתֶּ֣ם בִּ֔י לְהַ֨קְדִּישֵׁ֔נִי לְעֵינֵ֖י בְּנֵ֣י יִשְׂרָאֵ֑ל לָכֵ֗ן לֹ֤א תָבִ֙יאוּ֙ אֶת־ הַקָּהָ֣ל הַזֶּ֔ה אֶל־ הָאָ֖רֶץ אֲשֶׁר־ נָתַ֥תִּי לָהֶֽם׃"
+pericope: "[[Num.20.1 Water from the Rock|Water from the Rock]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 20
+book/chapter: "[[Num.20|Numbers 20]]"
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H3282]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H6942G]]"
+- "[[H5869A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3651C]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H2088]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 20:12**<big><big>[[Num.20.1 Water from the Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses and Aaron, Because ye believed me not, to sanctify me in the eyes of the children of Israel, therefore ye shall not bring this congregation into the land which I have given them.
 <small><sub>**BSB:**</sub></small>
 But the LORD said to Moses and Aaron, “Because you did not trust Me to show My holiness in the sight of the Israelites, you will not bring this assembly into the land that I have given them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָה֮]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֣ה]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹן֒]] [[H3282\|יַ֚עַן]] [[H3808\|לֹא]][[H9014\|־]] [[H0539\|הֶאֱמַנְתֶּ֣ם]] [[H9003\|בִּ֔]][[H9030\|י]] [[H9005\|לְ]][[H6942G\|הַ֨קְדִּישֵׁ֔]][[H9030\|נִי]] [[H9005\|לְ]][[H5869A\|עֵינֵ֖י]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3808\|לֹ֤א]] [[H0935P\|תָבִ֙יאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָ֣ל]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥תִּי]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ISRAEL|ISRAEL]] • [[topic RASHNESS|RASHNESS]] • [[topic TROUBLE|TROUBLE]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.20.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.20.11|<< Numbers 20:11]]</td><td align="center" style="border:none;">[[Num.20|Numbers 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.20.13|Numbers 20:13 >>]]</td></tr></table>
 

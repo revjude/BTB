@@ -1,8 +1,70 @@
+---
+title: Genesis 43:8
+type: Verse
+kjv: "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, and also our little ones."
+bsb: "And Judah said to his father Israel, “Send the boy with me, and we will go at once, so that we may live and not die—neither we, nor you, nor our children."
+hebrew: "וַיֹּ֨אמֶר יְהוּדָ֜ה אֶל־ יִשְׂרָאֵ֣ל אָבִ֗יו שִׁלְחָ֥ה הַנַּ֛עַר אִתִּ֖י וְנָק֣וּמָה וְנֵלֵ֑כָה וְנִֽחְיֶה֙ וְלֹ֣א נָמ֔וּת גַּם־ אֲנַ֥חְנוּ גַם־ אַתָּ֖ה גַּם־ טַפֵּֽנוּ׃"
+pericope: "[[Gen.43.1 The Return to Egypt with Benjamin|The Return to Egypt with Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 43
+book/chapter: "[[Gen.43|Genesis 43]]"
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3063G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H7971G]]"
+- "[[H9012]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H2421]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H1571]]"
+- "[[H0587]]"
+- "[[H0859A]]"
+- "[[H2945]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 43:8**<big><big>[[Gen.43.1 The Return to Egypt with Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, [and] also our little ones.
 <small><sub>**BSB:**</sub></small>
 And Judah said to his father Israel, “Send the boy with me, and we will go at once, so that we may live and not die—neither we, nor you, nor our children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3063G\|יְהוּדָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H0001G\|אָבִ֗י]][[H9023\|ו]] [[H7971G\|שִׁלְחָ֥]][[H9012\|ה]] [[H9009\|הַ]][[H5288\|נַּ֛עַר]] [[H0854\|אִתִּ֖]][[H9030\|י]] [[H9002\|וְ]][[H6965B\|נָק֣וּמָה]] [[H9002\|וְ]][[H1980G\|נֵלֵ֑כָה]] [[H9002\|וְ]][[H2421\|נִֽחְיֶה֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4191\|נָמ֔וּת]] [[H1571\|גַּם]][[H9014\|־]] [[H0587\|אֲנַ֥חְנוּ]] [[H1571\|גַם]][[H9014\|־]] [[H0859A\|אַתָּ֖ה]] [[H1571\|גַּם]][[H9014\|־]] [[H2945\|טַפֵּֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.43.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.43.7|<< Genesis 43:7]]</td><td align="center" style="border:none;">[[Gen.43|Genesis 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.43.9|Genesis 43:9 >>]]</td></tr></table>
 

@@ -1,10 +1,62 @@
+---
+title: Hebrews 7:1
+type: Verse
+kjv: "For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;"
+bsb: "This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the slaughter of the kings and blessed him,"
+greek: "Οὗτος γὰρ ὁ Μελχισέδεκ, βασιλεὺς Σαλήμ, ἱερεὺς τοῦ θεοῦ τοῦ ὑψίστου, ὁ συναντήσας Ἀβραὰμ ὑποστρέφοντι ἀπὸ τῆς κοπῆς τῶν βασιλέων καὶ εὐλογήσας αὐτόν,"
+pericope: "[[Heb.7.1 Melchizedek and Abraham|Melchizedek and Abraham]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3198]]"
+- "[[G0935]]"
+- "[[G4532]]"
+- "[[G2409]]"
+- "[[G2316]]"
+- "[[G5310]]"
+- "[[G4876]]"
+- "[[G0011]]"
+- "[[G5290]]"
+- "[[G0575]]"
+- "[[G2871]]"
+- "[[G2532]]"
+- "[[G2127]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 7:1**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this Melchisedec, king of Salem, priest of the most high God, who met Abraham returning from the slaughter of the kings, and blessed him;
 <small><sub>**BSB:**</sub></small>
 This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the slaughter of the kings and blessed him,
-<small><sub>**Literal:**</sub></small>
-This for <the> Melchizedek, king of Salem, priest <the> of God <the> Most High, who having met with Abraham returning from the slaughter of the kings and having blessed him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.20|<< Hebrews 6:20]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.2|Hebrews 7:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Οὗτος]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G3198\|Μελχισέδεκ,]]  [[G0935\|βασιλεὺς]]  [[G4532\|Σαλήμ,]]  [[G2409\|ἱερεὺς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G5310\|ὑψίστου,]]  [[G3588\|ὁ]]  [[G4876\|συναντήσας]]  [[G0011\|Ἀβραὰμ]]  [[G5290\|ὑποστρέφοντι]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2871\|κοπῆς]]  [[G3588\|τῶν]]  [[G0935\|βασιλέων]]  [[G2532\|καὶ]]  [[G2127\|εὐλογήσας]]  [[G0846\|αὐτόν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.20|<< Hebrews 6:20]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.2|Hebrews 7:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 7:1** is...
 > $\quad$ referencing: [[LXX.Gen.14.17|Gen 14:17-20]]

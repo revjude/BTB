@@ -1,8 +1,72 @@
+---
+title: Genesis 23:9
+type: Verse
+kjv: "That he may give me the cave of Machpelah, which he hath, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you."
+bsb: "to sell me the cave of Machpelah that belongs to him; it is at the end of his field. Let him sell it to me in your presence for full price, so that I may have a burial site.”"
+hebrew: "וְיִתֶּן־ לִ֗י אֶת־ מְעָרַ֤ת הַמַּכְפֵּלָה֙ אֲשֶׁר־ ל֔וֹ אֲשֶׁ֖ר בִּקְצֵ֣ה שָׂדֵ֑הוּ בְּכֶ֨סֶף מָלֵ֜א יִתְּנֶ֥נָּה לִ֛י בְּתוֹכְכֶ֖ם לַאֲחֻזַּת־ קָֽבֶר׃"
+pericope: "[[Gen.23.1 The Death and Burial of Sarah|The Death and Burial of Sarah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 23
+book/chapter: "[[Gen.23|Genesis 23]]"
+chronological_order: 65
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic EPHRON|EPHRON]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MACHPELAH|MACHPELAH]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H4631]]"
+- "[[H9009]]"
+- "[[H4375]]"
+- "[[H0834A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7097A]]"
+- "[[H7704G]]"
+- "[[H9023]]"
+- "[[H3701H]]"
+- "[[H4392]]"
+- "[[H9034]]"
+- "[[H8432]]"
+- "[[H9026]]"
+- "[[H0272]]"
+- "[[H6913]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 23:9**<big><big>[[Gen.23.1 The Death and Burial of Sarah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That he may give me the cave of Machpelah, which he hath, which [is] in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you.
 <small><sub>**BSB:**</sub></small>
 to sell me the cave of Machpelah that belongs to him; it is at the end of his field. Let him sell it to me in your presence for full price, so that I may have a burial site.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5414G\|יִתֶּן]][[H9014\|־]] [[H9005\|לִ֗]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H4631\|מְעָרַ֤ת]] [[H9009\|הַ]][[H4375\|מַּכְפֵּלָה֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בִּ]][[H7097A\|קְצֵ֣ה]] [[H7704G\|שָׂדֵ֑]][[H9023\|הוּ]] [[H9003\|בְּ]][[H3701H\|כֶ֨סֶף]] [[H4392\|מָלֵ֜א]] [[H5414G\|יִתְּנֶ֥]][[H9034\|נָּה]] [[H9005\|לִ֛]][[H9030\|י]] [[H9003\|בְּ]][[H8432\|תוֹכְ]][[H9026\|כֶ֖ם]] [[H9005\|לַ]][[H0272\|אֲחֻזַּת]][[H9014\|־]] [[H6913\|קָֽבֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BURIAL|BURIAL]] • [[topic CAVE|CAVE]] • [[topic EPHRON|EPHRON]] • [[topic LAND|LAND]] • [[topic MACHPELAH|MACHPELAH]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.23.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.23.8|<< Genesis 23:8]]</td><td align="center" style="border:none;">[[Gen.23|Genesis 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.23.10|Genesis 23:10 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Temple Destruction and Other Signs
+type: Pericope
 pericope: "[[Mark.13.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Mark
 chapter: 13
 book/chapter: "[[Mark.13|Mark 13]]"
-genre:
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Mark.13.1]]"
 - "[[Mark.13.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mark.13.8]]"
 ---
 
-[[Mark.13|Mark 13:1 - Mark 13:8]]
+<small>[[Mark.13|Mark 13:1-8]]</small>
 *Temple Destruction and Other Signs*
 
 [[Mark.13.1|1]] And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings \[are here\]!

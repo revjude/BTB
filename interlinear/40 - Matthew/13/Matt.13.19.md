@@ -1,10 +1,69 @@
+---
+title: Matthew 13:19
+type: Verse
+kjv: "When any one heareth the word of the kingdom, and understandeth it not, then cometh the wicked one, and catcheth away that which was sown in his heart. This is he which received seed by the way side."
+bsb: "When anyone hears the message of the kingdom but does not understand it, the evil one comes and snatches away what was sown in his heart. This is the seed sown along the path."
+jesus_said: "When any one heareth the word of the kingdom, and understandeth it not, then cometh the wicked one, and catcheth away that which was sown in his heart. This is he which received seed by the way side."
+greek: "παντὸς ἀκούοντος τὸν λόγον τῆς βασιλείας καὶ μὴ συνιέντος ἔρχεται ὁ πονηρὸς καὶ ἁρπάζει τὸ ἐσπαρμένον ἐν τῇ καρδίᾳ αὐτοῦ· οὗτός ἐστιν ὁ παρὰ τὴν ὁδὸν σπαρείς."
+pericope: "[[Matt.13.18 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3956]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G0932]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G4920]]"
+- "[[G2064]]"
+- "[[G4190]]"
+- "[[G0726]]"
+- "[[G4687]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3844]]"
+- "[[G3598]]"
+texts:
+- NKO
+---
+
 **Matthew 13:19**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When any one heareth the word of the kingdom, and understandeth [it] not, then cometh the wicked [one], and catcheth away that which was sown in his heart. This is he which received seed by the way side.
 <small><sub>**BSB:**</sub></small>
 When anyone hears the message of the kingdom but does not understand it, the evil one comes and snatches away what was sown in his heart. This is the seed sown along the path.
-<small><sub>**Literal:**</sub></small>
-Everyone hearing the word of the kingdom and not understanding comes the evil one and snatches away that having been sown in the heart of him; This is the [one] on the path having been sown.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.18|<< Matthew 13:18]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.20|Matthew 13:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|παντὸς]]  [[G0191\|ἀκούοντος]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G4920\|συνιέντος]]  [[G2064\|ἔρχεται]]  [[G3588\|ὁ]]  [[G4190\|πονηρὸς]]  [[G2532\|καὶ]]  [[G0726\|ἁρπάζει]]  [[G3588\|τὸ]]  [[G4687\|ἐσπαρμένον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G0846\|αὐτοῦ·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G4687\|σπαρείς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHARACTER|CHARACTER]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic HEARERS|HEARERS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]] • [[topic SERMON|SERMON]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.18|<< Matthew 13:18]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.20|Matthew 13:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

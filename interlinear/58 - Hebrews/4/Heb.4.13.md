@@ -1,10 +1,58 @@
+---
+title: Hebrews 4:13
+type: Verse
+kjv: "Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do."
+bsb: "Nothing in all creation is hidden from God’s sight; everything is uncovered and exposed before the eyes of Him to whom we must give account."
+greek: "καὶ οὐκ ἔστιν κτίσις ἀφανὴς ἐνώπιον αὐτοῦ· πάντα δὲ γυμνὰ καὶ τετραχηλισμένα τοῖς ὀφθαλμοῖς αὐτοῦ πρὸς ὃν ἡμῖν ὁ λόγος.¶"
+pericope: "[[Heb.4.12 The Living Word|The Living Word]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SECRET|SECRET]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2937]]"
+- "[[G0852]]"
+- "[[G1799]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G1161]]"
+- "[[G1131]]"
+- "[[G5136]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G4314]]"
+- "[[G3739]]"
+- "[[G3165]]"
+- "[[G3056]]"
+texts:
+- NKO
+---
+
 **Hebrews 4:13**<big><big>[[Heb.4.12 The Living Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither is there any creature that is not manifest in his sight: but all things [are] naked and opened unto the eyes of him with whom we have to do.
 <small><sub>**BSB:**</sub></small>
 Nothing in all creation is hidden from God’s sight; everything is uncovered and exposed before the eyes of Him to whom we must give account.
-<small><sub>**Literal:**</sub></small>
-And not there is creature hidden before Him; all things however [are] uncovered and laid bare to the eyes of Him to whom [is] our <the> reckoning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.12|<< Hebrews 4:12]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.14|Hebrews 4:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G2937\|κτίσις]]  [[G0852\|ἀφανὴς]]  [[G1799\|ἐνώπιον]]  [[G0846\|αὐτοῦ·]]  [[G3956\|πάντα]]  [[G1161\|δὲ]]  [[G1131\|γυμνὰ]]  [[G2532\|καὶ]]  [[G5136\|τετραχηλισμένα]]  [[G3588\|τοῖς]]  [[G3788\|ὀφθαλμοῖς]]  [[G0846\|αὐτοῦ]]  [[G4314\|πρὸς]]  [[G3739\|ὃν]]  [[G3165\|ἡμῖν]]  [[G3588\|ὁ]]  [[G3056\|λόγος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SECRET|SECRET]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.12|<< Hebrews 4:12]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.14|Hebrews 4:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

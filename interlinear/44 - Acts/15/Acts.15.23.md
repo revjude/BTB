@@ -1,10 +1,69 @@
+---
+title: Acts 15:23
+type: Verse
+kjv: "And they wrote letters by them after this manner; The apostles and elders and brethren send greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia:"
+bsb: "and sent them with this letter: The apostles and the elders, your brothers, To the brothers among the Gentiles in Antioch, Syria, and Cilicia: Greetings."
+greek: "γράψαντες διὰ χειρὸς αὐτῶν τάδε·¶ Οἱ ἀπόστολοι καὶ οἱ πρεσβύτεροι καὶ οἱ ἀδελφοὶ τοῖς κατὰ τὴν Ἀντιόχειαν καὶ Συρίαν καὶ Κιλικίαν ἀδελφοῖς τοῖς ἐξ ἐθνῶν χαίρειν.¶"
+pericope: "[[Acts.15.22 The Letter to the Gentile Believers|The Letter to the Gentile Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CILICIA|CILICIA]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic EPISTLES|EPISTLES]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1125]]"
+- "[[G1223]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G3592]]"
+- "[[G3588]]"
+- "[[G0652]]"
+- "[[G2532]]"
+- "[[G4245G]]"
+- "[[G0080]]"
+- "[[G2596]]"
+- "[[G0490G]]"
+- "[[G4947]]"
+- "[[G2791]]"
+- "[[G1537]]"
+- "[[G1484]]"
+- "[[G5463]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 15:23**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they wrote [letters] by them after this manner; The apostles and elders and brethren [send] greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia:
 <small><sub>**BSB:**</sub></small>
 and sent them with this letter: The apostles and the elders, your brothers, To the brothers among the Gentiles in Antioch, Syria, and Cilicia: Greetings.
-<small><sub>**Literal:**</sub></small>
-having written through [the] hand of them these things: The apostles and the elders and the brothers To those in <the> Antioch and Syria and Cilicia to brothers <the> among the Gentiles Greeting.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.22|<< Acts 15:22]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.24|Acts 15:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1125\|γράψαντες]]  [[G1223\|διὰ]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτῶν]]  [[G3592\|τάδε·¶]]  [[G3588\|Οἱ]]  [[G0652\|ἀπόστολοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4245G\|πρεσβύτεροι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G3588\|τοῖς]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G0490G\|Ἀντιόχειαν]]  [[G2532\|καὶ]]  [[G4947\|Συρίαν]]  [[G2532\|καὶ]]  [[G2791\|Κιλικίαν]]  [[G0080\|ἀδελφοῖς]]  [[G3588\|τοῖς]]  [[G1537\|ἐξ]]  [[G1484\|ἐθνῶν]]  [[G5463\|χαίρειν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CILICIA|CILICIA]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic EPISTLES|EPISTLES]] • [[topic GENTILES|GENTILES]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic LAW|LAW]] • [[topic SILAS|SILAS]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.22|<< Acts 15:22]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.24|Acts 15:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

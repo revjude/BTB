@@ -1,8 +1,59 @@
+---
+title: 2 Kings 23:23
+type: Verse
+kjv: "But in the eighteenth year of king Josiah, wherein this passover was holden to the LORD in Jerusalem."
+bsb: "But in the eighteenth year of Josiah’s reign, this Passover was observed to the LORD in Jerusalem."
+hebrew: "כִּ֗י אִם־ בִּשְׁמֹנֶ֤ה עֶשְׂרֵה֙ שָׁנָ֔ה לַמֶּ֖לֶךְ יֹֽאשִׁיָּ֑הוּ נַעֲשָׂ֞ה הַפֶּ֧סַח הַזֶּ֛ה לַיהוָ֖ה בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Kgs.23.21 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H2977G]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H2088]]"
+- "[[H3068G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:23**<big><big>[[2Kgs.23.21 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in the eighteenth year of king Josiah, [wherein] this passover was holden to the LORD in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 But in the eighteenth year of Josiah’s reign, this Passover was observed to the LORD in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֗י]] [[H0518B\|אִם]][[H9014\|־]] [[H9003\|בִּ]][[H8083\|שְׁמֹנֶ֤ה]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H2977G\|יֹֽאשִׁיָּ֑הוּ]] [[H6213A\|נַעֲשָׂ֞ה]] [[H9009\|הַ]][[H6453\|פֶּ֧סַח]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.22|<< 2 Kings 23:22]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.24|2 Kings 23:24 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Exodus 26:27
+type: Verse
+kjv: "And five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle, for the two sides westward."
+bsb: "five for those on the other side, and five for those on the rear side of the tabernacle, to the west."
+hebrew: "וַחֲמִשָּׁ֣ה בְרִיחִ֔ם לְקַרְשֵׁ֥י צֶֽלַע־ הַמִּשְׁכָּ֖ן הַשֵּׁנִ֑ית וַחֲמִשָּׁ֣ה בְרִיחִ֗ם לְקַרְשֵׁי֙ צֶ֣לַע הַמִּשְׁכָּ֔ן לַיַּרְכָתַ֖יִם יָֽמָּה׃"
+pericope: "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H1280]]"
+- "[[H9005]]"
+- "[[H7175]]"
+- "[[H6763]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H8145]]"
+- "[[H3411]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:27**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle, for the two sides westward.
 <small><sub>**BSB:**</sub></small>
 five for those on the other side, and five for those on the rear side of the tabernacle, to the west.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H2568\|חֲמִשָּׁ֣ה]] [[H1280\|בְרִיחִ֔ם]] [[H9005\|לְ]][[H7175\|קַרְשֵׁ֥י]] [[H6763\|צֶֽלַע]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֖ן]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֑ית]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֣ה]] [[H1280\|בְרִיחִ֗ם]] [[H9005\|לְ]][[H7175\|קַרְשֵׁי֙]] [[H6763\|צֶ֣לַע]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֔ן]] [[H9005\|לַ]][[H3411\|יַּרְכָתַ֖יִם]] [[H3220H\|יָֽמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.26|<< Exodus 26:26]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.28|Exodus 26:28 >>]]</td></tr></table>
 

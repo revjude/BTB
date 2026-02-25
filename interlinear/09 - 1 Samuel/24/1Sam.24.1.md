@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 24:1
+type: Verse
+kjv: "And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of Engedi."
+bsb: "After Saul had returned from pursuing the Philistines, he was told, “David is in the wilderness of En-gedi.”"
+hebrew: "וַיְהִ֗י כַּֽאֲשֶׁר֙ שָׁ֣ב שָׁא֔וּל מֵאַחֲרֵ֖י פְּלִשְׁתִּ֑ים וַיַּגִּ֤דוּ לוֹ֙ לֵאמֹ֔ר הִנֵּ֣ה דָוִ֔ד בְּמִדְבַּ֖ר עֵ֥ין גֶּֽדִי׃ ס"
+pericope: "[[1Sam.24.1 David Spares Saul|David Spares Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 24
+book/chapter: "[[1Sam.24|1 Samuel 24]]"
+chronological_order: 303
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SAUL|SAUL]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7725G]]"
+- "[[H7586G]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H6430G]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H5872]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 24:1**<big><big>[[1Sam.24.1 David Spares Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David [is] in the wilderness of Engedi.
 <small><sub>**BSB:**</sub></small>
 After Saul had returned from pursuing the Philistines, he was told, “David is in the wilderness of En-gedi.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר֙]] [[H7725G\|שָׁ֣ב]] [[H7586G\|שָׁא֔וּל]] [[H9006\|מֵ]][[H0310A\|אַחֲרֵ֖י]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9001\|וַ]][[H5046\|יַּגִּ֤דוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2009\|הִנֵּ֣ה]] [[H1732\|דָוִ֔ד]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֖ר]] [[H5872\|עֵ֥ין]] [[H5872\|גֶּֽדִי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAUL|SAUL]] • [[topic SELF-CONTROL|SELF-CONTROL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.29|<< 1 Samuel 23:29]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.2|1 Samuel 24:2 >>]]</td></tr></table>
 
@@ -21,7 +74,7 @@ After Saul had returned from pursuing the Philistines, he was told, “David is 
 | David  |**<big>&#8207;[[H1732\|דָוִ֔ד]]&#8207; </big>**| da.Vid<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] in [the] wilderness of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H4057B\|מִדְבַּ֖ר]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> mid.Bar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | En  |**<big>&#8207;[[H5872\|עֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Gedi  |**<big>&#8207;[[H5872\|גֶּֽדִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ge.di<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Gedi  |**<big>&#8207;[[H5872\|גֶּֽדִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ge.di<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.29|<< 1 Samuel 23:29]]</td><td align="center" style="border:none;">[[1Sam.24|1 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.24.2|1 Samuel 24:2 >>]]</td></tr></table>
 
 

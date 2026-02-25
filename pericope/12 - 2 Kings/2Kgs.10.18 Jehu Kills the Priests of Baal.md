@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehu Kills the Priests of Baal
+type: Pericope
 pericope: "[[2Kgs.10.18 Jehu Kills the Priests of Baal|Jehu Kills the Priests of Baal]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 10
 book/chapter: "[[2Kgs.10|2 Kings 10]]"
-genre:
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 10
 verses:
 - "[[2Kgs.10.18]]"
 - "[[2Kgs.10.19]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Kgs.10.27]]"
 ---
 
-[[2Kgs.10|2 Kings 10:18 - 2 Kings 10:27]]
+<small>[[2Kgs.10|2 Kings 10:18-27]]</small>
 *Jehu Kills the Priests of Baal*
 
 [[2Kgs.10.18|18]] And Jehu gathered all the people together, and said unto them, Ahab served Baal a little; \[but\] Jehu shall serve him much.

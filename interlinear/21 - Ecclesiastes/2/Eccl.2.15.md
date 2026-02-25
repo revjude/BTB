@@ -1,8 +1,68 @@
+---
+title: Ecclesiastes 2:15
+type: Verse
+kjv: "Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also is vanity."
+bsb: "So I said to myself, “The fate of the fool will also befall me. What then have I gained by being wise?” And I said to myself that this too is futile."
+hebrew: "וְאָמַ֨רְתִּֽי אֲנִ֜י בְּלִבִּ֗י כְּמִקְרֵ֤ה הַכְּסִיל֙ גַּם־ אֲנִ֣י יִקְרֵ֔נִי וְלָ֧מָּה חָכַ֛מְתִּי אֲנִ֖י אָ֣ז יוֹתֵ֑ר וְדִבַּ֣רְתִּי בְלִבִּ֔י שֶׁגַּם־ זֶ֖ה הָֽבֶל׃"
+pericope: "[[Eccl.2.12 The Wise and the Foolish|The Wise and the Foolish]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic MAN|MAN]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H4745]]"
+- "[[H9009]]"
+- "[[H3684]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H7136A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2449]]"
+- "[[H0227A]]"
+- "[[H3148]]"
+- "[[H1696G]]"
+- "[[H9007]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:15**<big><big>[[Eccl.2.12 The Wise and the Foolish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also [is] vanity.
 <small><sub>**BSB:**</sub></small>
 So I said to myself, “The fate of the fool will also befall me. What then have I gained by being wise?” And I said to myself that this too is futile.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַ֨רְתִּֽי]] [[H0589\|אֲנִ֜י]] [[H9003\|בְּ]][[H3820A\|לִבִּ֗]][[H9020\|י]] [[H9004\|כְּ]][[H4745\|מִקְרֵ֤ה]] [[H9009\|הַ]][[H3684\|כְּסִיל֙]] [[H1571\|גַּם]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H7136A\|יִקְרֵ֔]][[H9030\|נִי]] [[H9002\|וְ]][[H9005\|לָ֧]][[H4100\|מָּה]] [[H2449\|חָכַ֛מְתִּי]] [[H0589\|אֲנִ֖י]] [[H0227A\|אָ֣ז]] [[H3148\|יוֹתֵ֑ר]] [[H9001\|וְ]][[H1696G\|דִבַּ֣רְתִּי]] [[H9003\|בְ]][[H3820A\|לִבִּ֔]][[H9020\|י]] [[H9007\|שֶׁ]][[H1571\|גַּם]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H1892\|הָֽבֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic MAN|MAN]] • [[topic VANITY|VANITY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.14|<< Ecclesiastes 2:14]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.16|Ecclesiastes 2:16 >>]]</td></tr></table>
 

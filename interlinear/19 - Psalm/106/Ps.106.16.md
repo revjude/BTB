@@ -1,8 +1,54 @@
+---
+title: Psalm 106:16
+type: Verse
+kjv: "They envied Moses also in the camp, and Aaron the saint of the LORD."
+bsb: "In the camp they envied Moses, as well as Aaron, the holy one of the LORD."
+hebrew: "וַיְקַנְא֣וּ לְ֭מֹשֶׁה בַּֽמַּחֲנֶ֑ה לְ֝אַהֲרֹ֗ן קְד֣וֹשׁ יְהוָֽה׃"
+pericope: "[[Ps.106.1 Give Thanks to the LORD, for He Is Good|Give Thanks to the LORD, for He Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ENVY|ENVY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7065]]"
+- "[[H9005]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H0175]]"
+- "[[H6918H]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 106:16**<big><big>[[Ps.106.1 Give Thanks to the LORD, for He Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They envied Moses also in the camp, [and] Aaron the saint of the LORD.
 <small><sub>**BSB:**</sub></small>
 In the camp they envied Moses, as well as Aaron, the holy one of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7065\|יְקַנְא֣וּ]] [[H9005\|לְ֭]][[H4872\|מֹשֶׁה]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H9005\|לְ֝]][[H0175\|אַהֲרֹ֗ן]] [[H6918H\|קְד֣וֹשׁ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ENVY|ENVY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.106.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.106.15|<< Psalms 106:15]]</td><td align="center" style="border:none;">[[Ps.106|Psalms 106]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.17|Psalms 106:17 >>]]</td></tr></table>
 

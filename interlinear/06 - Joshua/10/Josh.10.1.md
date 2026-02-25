@@ -1,8 +1,75 @@
+---
+title: Joshua 10:1
+type: Verse
+kjv: "Now it came to pass, when Adonizedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;"
+bsb: "Now Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction—doing to Ai and its king as he had done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living near them."
+hebrew: "וַיְהִי֩ כִשְׁמֹ֨עַ אֲדֹֽנִי־ צֶ֜דֶק מֶ֣לֶךְ יְרוּשָׁלִַ֗ם כִּֽי־ לָכַ֨ד יְהוֹשֻׁ֣עַ אֶת־ הָעַי֮ וַיַּחֲרִימָהּ֒ כַּאֲשֶׁ֨ר עָשָׂ֤ה לִֽירִיחוֹ֙ וּלְמַלְכָּ֔הּ כֵּן־ עָשָׂ֥ה לָעַ֖י וּלְמַלְכָּ֑הּ וְכִ֨י הִשְׁלִ֜ימוּ יֹשְׁבֵ֤י גִבְעוֹן֙ אֶת־ יִשְׂרָאֵ֔ל וַיִּֽהְי֖וּ בְּקִרְבָּֽם׃"
+pericope: "[[Josh.10.1 The Day the Sun Stood Still|The Day the Sun Stood Still]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CONFEDERACIES|CONFEDERACIES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H0139]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3389]]"
+- "[[H3588A]]"
+- "[[H3920]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H2763A]]"
+- "[[H9034]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3405G]]"
+- "[[H9002]]"
+- "[[H9024]]"
+- "[[H3651C]]"
+- "[[H7999B]]"
+- "[[H3427]]"
+- "[[H1391]]"
+- "[[H0854]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:1**<big><big>[[Josh.10.1 The Day the Sun Stood Still|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, when Adonizedek king of Jerusalem had heard how Joshua had taken Ai, and had utterly destroyed it; as he had done to Jericho and her king, so he had done to Ai and her king; and how the inhabitants of Gibeon had made peace with Israel, and were among them;
 <small><sub>**BSB:**</sub></small>
 Now Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction—doing to Ai and its king as he had done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living near them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כִ]][[H8085G\|שְׁמֹ֨עַ]] [[H0139\|אֲדֹֽנִי]][[H9014\|־]] [[H0139\|צֶ֜דֶק]] [[H4428G\|מֶ֣לֶךְ]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3920\|לָכַ֨ד]] [[H3091G\|יְהוֹשֻׁ֣עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5857G\|עַי֮]] [[H9001\|וַ]][[H2763A\|יַּחֲרִימָ]][[H9034\|הּ֒]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H6213A\|עָשָׂ֤ה]] [[H9005\|לִֽ]][[H3405G\|ירִיחוֹ֙]] [[H9002\|וּ]][[H9005\|לְ]][[H4428G\|מַלְכָּ֔]][[H9024\|הּ]] [[H3651C\|כֵּן]][[H9014\|־]] [[H6213A\|עָשָׂ֥ה]] [[H9005\|לָ]][[H5857G\|עַ֖י]] [[H9002\|וּ]][[H9005\|לְ]][[H4428G\|מַלְכָּ֑]][[H9024\|הּ]] [[H9002\|וְ]][[H3588A\|כִ֨י]] [[H7999B\|הִשְׁלִ֜ימוּ]] [[H3427\|יֹשְׁבֵ֤י]] [[H1391\|גִבְעוֹן֙]] [[H0854\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H1961\|יִּֽהְי֖וּ]] [[H9003\|בְּ]][[H7130G\|קִרְבָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic ARMIES|ARMIES]] • [[topic CONFEDERACIES|CONFEDERACIES]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.27|<< Joshua 9:27]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.2|Joshua 10:2 >>]]</td></tr></table>
 

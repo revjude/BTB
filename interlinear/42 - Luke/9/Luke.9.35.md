@@ -1,10 +1,58 @@
+---
+title: Luke 9:35
+type: Verse
+kjv: "And there came a voice out of the cloud, saying, This is my beloved Son: hear him."
+bsb: "And a voice came from the cloud, saying, “This is My Son, whom I have chosen. Listen to Him!”"
+greek: "καὶ φωνὴ ἐγένετο ἐκ τῆς νεφέλης λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἐκλελεγμένος, αὐτοῦ ἀκούετε.¶"
+pericope: "[[Luke.9.28 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G5456G]]"
+- "[[G1096]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3507]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G1586]]"
+- "[[G0846]]"
+- "[[G0191]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 9:35**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there came a voice out of the cloud, saying, This is my beloved Son: hear him.
 <small><sub>**BSB:**</sub></small>
 And a voice came from the cloud, saying, “This is My Son, whom I have chosen. Listen to Him!”
-<small><sub>**Literal:**</sub></small>
-And a voice came out of the cloud saying; This is the Son of Mine the  chosen, to Him do listen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.34|<< Luke 9:34]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.36|Luke 9:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5456G\|φωνὴ]]  [[G1096\|ἐγένετο]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3507\|νεφέλης]]  [[G3004G\|λέγουσα·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G1586\|ἐκλελεγμένος,]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούετε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.34|<< Luke 9:34]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.36|Luke 9:36 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 9:35** is...
 > $\quad$ alluding to: [[LXX.Deut.18.15|Deut 18:15]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]

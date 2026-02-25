@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus before the Sanhedrin
+type: Pericope
 pericope: "[[Matt.26.57 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 26
 book/chapter: "[[Matt.26|Matthew 26]]"
-genre:
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 12
 verses:
 - "[[Matt.26.57]]"
 - "[[Matt.26.58]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Matt.26.68]]"
 ---
 
-[[Matt.26|Matthew 26:57 - Matthew 26:68]]
+<small>[[Matt.26|Matthew 26:57-68]]</small>
 *Jesus before the Sanhedrin*
 
 [[Matt.26.57|57]] And they that had laid hold on Jesus led \[him\] away to Caiaphas the high priest, where the scribes and the elders were assembled.

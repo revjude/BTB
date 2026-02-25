@@ -1,8 +1,81 @@
+---
+title: Genesis 21:12
+type: Verse
+kjv: "And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called."
+bsb: "But God said to Abraham, “Do not be distressed about the boy and your maidservant. Listen to everything that Sarah tells you, for through Isaac your offspring will be reckoned."
+hebrew: "וַיֹּ֨אמֶר אֱלֹהִ֜ים אֶל־ אַבְרָהָ֗ם אַל־ יֵרַ֤ע בְּעֵינֶ֙יךָ֙ עַל־ הַנַּ֣עַר וְעַל־ אֲמָתֶ֔ךָ כֹּל֩ אֲשֶׁ֨ר תֹּאמַ֥ר אֵלֶ֛יךָ שָׂרָ֖ה שְׁמַ֣ע בְּקֹלָ֑הּ כִּ֣י בְיִצְחָ֔ק יִקָּרֵ֥א לְךָ֖ זָֽרַע׃"
+pericope: "[[Gen.21.9 Sarah Turns against Hagar|Sarah Turns against Hagar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0085]]"
+- "[[H0408]]"
+- "[[H7489A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9002]]"
+- "[[H0519]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9031]]"
+- "[[H8283]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H3327]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H2233H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:12**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called.
 <small><sub>**BSB:**</sub></small>
 But God said to Abraham, “Do not be distressed about the boy and your maidservant. Listen to everything that Sarah tells you, for through Isaac your offspring will be reckoned.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0430G\|אֱלֹהִ֜ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0085\|אַבְרָהָ֗ם]] [[H0408\|אַל]][[H9014\|־]] [[H7489A\|יֵרַ֤ע]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֣עַר]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0519\|אֲמָתֶ֔]][[H9021\|ךָ]] [[H3605\|כֹּל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H0559\|תֹּאמַ֥ר]] [[H0413\|אֵלֶ֛י]][[H9031\|ךָ]] [[H8283\|שָׂרָ֖ה]] [[H8085H\|שְׁמַ֣ע]] [[H9003\|בְּ]][[H6963A\|קֹלָ֑]][[H9024\|הּ]] [[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H3327\|יִצְחָ֔ק]] [[H7121H\|יִקָּרֵ֥א]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H2233H\|זָֽרַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CHILDREN|CHILDREN]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic CRUELTY|CRUELTY]] • [[topic ISAAC|ISAAC]] • [[topic ISHMAEL|ISHMAEL]] • [[topic POLYGAMY|POLYGAMY]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.11|<< Genesis 21:11]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.13|Genesis 21:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

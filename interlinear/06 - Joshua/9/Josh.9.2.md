@@ -1,8 +1,56 @@
+---
+title: Joshua 9:2
+type: Verse
+kjv: "That they gathered themselves together, to fight with Joshua and with Israel, with one accord."
+bsb: "they came together to wage war against Joshua and Israel."
+hebrew: "וַיִּֽתְקַבְּצ֣וּ יַחְדָּ֔ו לְהִלָּחֵ֥ם עִם־ יְהוֹשֻׁ֖עַ וְעִם־ יִשְׂרָאֵ֑ל פֶּ֖ה אֶחָֽד׃ פ"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic JOSHUA|JOSHUA]]"
+strongs:
+- "[[H9001]]"
+- "[[H6908]]"
+- "[[H3162B]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H6310G]]"
+- "[[H0259]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 9:2**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they gathered themselves together, to fight with Joshua and with Israel, with one accord.
 <small><sub>**BSB:**</sub></small>
 they came together to wage war against Joshua and Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6908\|יִּֽתְקַבְּצ֣וּ]] [[H3162B\|יַחְדָּ֔ו]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֥ם]] [[H5973A\|עִם]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H6310G\|פֶּ֖ה]] [[H0259\|אֶחָֽד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic HITTITES|HITTITES]] • [[topic JOSHUA|JOSHUA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.1|<< Joshua 9:1]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.3|Joshua 9:3 >>]]</td></tr></table>
 
@@ -16,7 +64,7 @@ they came together to wage war against Joshua and Israel.
 | and with  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5973A\|עִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'im-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | mouth  |**<big>&#8207;[[H6310G\|פֶּ֖ה]]&#8207; </big>**| peh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  |**<big>&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.1|<< Joshua 9:1]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.3|Joshua 9:3 >>]]</td></tr></table>
 
 

@@ -1,8 +1,58 @@
+---
+title: Isaiah 46:10
+type: Verse
+kjv: "Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:"
+bsb: "I declare the end from the beginning, and from ancient times what is still to come. I say, ‘My purpose will stand, and all My good pleasure I will accomplish.’"
+hebrew: "מַגִּ֤יד מֵֽרֵאשִׁית֙ אַחֲרִ֔ית וּמִקֶּ֖דֶם אֲשֶׁ֣ר לֹא־ נַעֲשׂ֑וּ אֹמֵר֙ עֲצָתִ֣י תָק֔וּם וְכָל־ חֶפְצִ֖י אֶעֱשֶֽׂה׃"
+pericope: "[[Isa.46.1 Babylon’s Idols|Babylon’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 46
+book/chapter: "[[Isa.46|Isaiah 46]]"
+chronological_order: 685
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H5046]]"
+- "[[H9006]]"
+- "[[H7225G]]"
+- "[[H0319]]"
+- "[[H9002]]"
+- "[[H6924H]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0559]]"
+- "[[H6098]]"
+- "[[H9020]]"
+- "[[H6965I]]"
+- "[[H3605]]"
+- "[[H2656]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 46:10**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Declaring the end from the beginning, and from ancient times [the things] that are not [yet] done, saying, My counsel shall stand, and I will do all my pleasure:
 <small><sub>**BSB:**</sub></small>
 I declare the end from the beginning, and from ancient times what is still to come. I say, ‘My purpose will stand, and all My good pleasure I will accomplish.’
+<small><sub>**Hebrew:**</sub></small>
+[[H5046\|מַגִּ֤יד]] [[H9006\|מֵֽ]][[H7225G\|רֵאשִׁית֙]] [[H0319\|אַחֲרִ֔ית]] [[H9002\|וּ]][[H9006\|מִ]][[H6924H\|קֶּ֖דֶם]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|נַעֲשׂ֑וּ]] [[H0559\|אֹמֵר֙]] [[H6098\|עֲצָתִ֣]][[H9020\|י]] [[H6965I\|תָק֔וּם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2656\|חֶפְצִ֖]][[H9020\|י]] [[H6213A\|אֶעֱשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.9|<< Isaiah 46:9]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.11|Isaiah 46:11 >>]]</td></tr></table>
 

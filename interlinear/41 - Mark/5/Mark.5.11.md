@@ -1,10 +1,55 @@
+---
+title: Mark 5:11
+type: Verse
+kjv: "Now there was there nigh unto the mountains a great herd of swine feeding."
+bsb: "There on the nearby hillside a large herd of pigs was feeding."
+greek: "ἦν δὲ ἐκεῖ πρὸς τῷ ὄρει ἀγέλη χοίρων μεγάλη βοσκομένη·"
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1563]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G0034]]"
+- "[[G5519]]"
+- "[[G3173]]"
+- "[[G1006]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 5:11**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now there was there nigh unto the mountains a great herd of swine feeding.
 <small><sub>**BSB:**</sub></small>
 There on the nearby hillside a large herd of pigs was feeding.
-<small><sub>**Literal:**</sub></small>
-There was now there near the hill a herd of pigs great feeding;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.10|<< Mark 5:10]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.12|Mark 5:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G1563\|ἐκεῖ]]  [[G4314\|πρὸς]]  [[G3588\|τῷ]]  [[G3735\|ὄρει]]  [[G0034\|ἀγέλη]]  [[G5519\|χοίρων]]  [[G3173\|μεγάλη]]  [[G1006\|βοσκομένη·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.10|<< Mark 5:10]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.12|Mark 5:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

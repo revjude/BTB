@@ -1,10 +1,68 @@
+---
+title: Revelation 13:8
+type: Verse
+kjv: "And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world."
+bsb: "And all who dwell on the earth will worship the beast—all whose names have not been written from the foundation of the world in the Book of Life belonging to the Lamb who was slain."
+greek: "καὶ προσκυνήσουσιν αὐτὸν πάντες οἱ κατοικοῦντες ἐπὶ τῆς γῆς, οὗ οὐ γέγραπται τὸ ὄνομα αὐτοῦ ἐν τῷ βιβλίῳ τῆς ζωῆς τοῦ ἀρνίου τοῦ ἐσφαγμένου ἀπὸ καταβολῆς κόσμου.¶"
+pericope: "[[Rev.13.1 The Beast from the Sea|The Beast from the Sea]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 13
+book/chapter: "[[Rev.13|Revelation 13]]"
+chronological_order: 1180
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BOOK|BOOK]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4352]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1125]]"
+- "[[G3686]]"
+- "[[G1722]]"
+- "[[G0975]]"
+- "[[G2222]]"
+- "[[G0721]]"
+- "[[G4969]]"
+- "[[G0575]]"
+- "[[G2602]]"
+- "[[G2889]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Revelation 13:8**<big><big>[[Rev.13.1 The Beast from the Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
 <small><sub>**BSB:**</sub></small>
 And all who dwell on the earth will worship the beast—all whose names have not been written from the foundation of the world in the Book of Life belonging to the Lamb who was slain.
-<small><sub>**Literal:**</sub></small>
-And will worship it all those dwelling on the earth, each of whom not have been written the name of him in the book <the> of life of the Lamb which slain from [the] founding of [the] world.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.7|<< Revelation 13:7]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.9|Revelation 13:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4352\|προσκυνήσουσιν]]  [[G0846\|αὐτὸν]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G2730\|κατοικοῦντες]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G3739\|οὗ]]  [[G3756\|οὐ]]  [[G1125\|γέγραπται]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0975\|βιβλίῳ]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς]]  [[G3588\|τοῦ]]  [[G0721\|ἀρνίου]]  [[G3588\|τοῦ]]  [[G4969\|ἐσφαγμένου]]  [[G0575\|ἀπὸ]]  [[G2602\|καταβολῆς]]  [[G2889\|κόσμου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BOOK|BOOK]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.13.7|<< Revelation 13:7]]</td><td align="center" style="border:none;">[[Rev.13|Revelation 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.9|Revelation 13:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

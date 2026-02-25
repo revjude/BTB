@@ -1,8 +1,64 @@
+---
+title: Ezekiel 16:30
+type: Verse
+kjv: "How weak is thine heart, saith the Lord GOD, seeing thou doest all these things, the work of an imperious whorish woman;"
+bsb: "How weak-willed is your heart, declares the Lord GOD, while you do all these things, the acts of a shameless prostitute!"
+hebrew: "מָ֤ה אֲמֻלָה֙ לִבָּתֵ֔ךְ נְאֻ֖ם אֲדֹנָ֣י יְהוִ֑ה בַּעֲשׂוֹתֵךְ֙ אֶת־ כָּל־ אֵ֔לֶּה מַעֲשֵׂ֥ה אִשָּֽׁה־ זוֹנָ֖ה שַׁלָּֽטֶת׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+strongs:
+- "[[H4100]]"
+- "[[H0535]]"
+- "[[H3826]]"
+- "[[H9022]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9003]]"
+- "[[H6213A]]"
+- "[[H9042]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H4639K]]"
+- "[[H0802G]]"
+- "[[H2181]]"
+- "[[H7986]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:30**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How weak is thine heart, saith the Lord GOD, seeing thou doest all these [things], the work of an imperious whorish woman;
 <small><sub>**BSB:**</sub></small>
 How weak-willed is your heart, declares the Lord GOD, while you do all these things, the acts of a shameless prostitute!
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מָ֤ה]] [[H0535\|אֲמֻלָה֙]] [[H3826\|לִבָּתֵ֔]][[H9022\|ךְ]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9003\|בַּ]][[H6213A\|עֲשׂוֹתֵ]][[H9042\|ךְ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֔לֶּה]] [[H4639K\|מַעֲשֵׂ֥ה]] [[H0802G\|אִשָּֽׁה]][[H9014\|־]] [[H2181\|זוֹנָ֖ה]] [[H7986\|שַׁלָּֽטֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LUKEWARMNESS|LUKEWARMNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.29|<< Ezekiel 16:29]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.31|Ezekiel 16:31 >>]]</td></tr></table>
 

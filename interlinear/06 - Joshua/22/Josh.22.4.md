@@ -1,8 +1,71 @@
+---
+title: Joshua 22:4
+type: Verse
+kjv: "And now the LORD your God hath given rest unto your brethren, as he promised them: therefore now return ye, and get you unto your tents, and unto the land of your possession, which Moses the servant of the LORD gave you on the other side Jordan."
+bsb: "And now that the LORD your God has given your brothers rest as He promised them, you may return to your homes in the land that Moses the servant of the LORD gave you across the Jordan."
+hebrew: "וְעַתָּ֗ה הֵנִ֨יחַ יְהוָ֤ה אֱלֹֽהֵיכֶם֙ לַֽאֲחֵיכֶ֔ם כַּאֲשֶׁ֖ר דִּבֶּ֣ר לָהֶ֑ם וְעַתָּ֡ה פְּנוּ֩ וּלְכ֨וּ לָכֶ֜ם לְאָהֳלֵיכֶ֗ם אֶל־ אֶ֙רֶץ֙ אֲחֻזַּתְכֶ֔ם אֲשֶׁ֣ר׀ נָתַ֣ן לָכֶ֗ם מֹשֶׁה֙ עֶ֣בֶד יְהוָ֔ה בְּעֵ֖בֶר הַיַּרְדֵּֽן׃"
+pericope: "[[Josh.22.1 The Eastern Tribes Return Home|The Eastern Tribes Return Home]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H0251I]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H9038]]"
+- "[[H6437G]]"
+- "[[H1980G]]"
+- "[[H9036]]"
+- "[[H0168G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H0272]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H5414G]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9003]]"
+- "[[H5676G]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:4**<big><big>[[Josh.22.1 The Eastern Tribes Return Home|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now the LORD your God hath given rest unto your brethren, as he promised them: therefore now return ye, and get you unto your tents, [and] unto the land of your possession, which Moses the servant of the LORD gave you on the other side Jordan.
 <small><sub>**BSB:**</sub></small>
 And now that the LORD your God has given your brothers rest as He promised them, you may return to your homes in the land that Moses the servant of the LORD gave you across the Jordan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H5117\|הֵנִ֨יחַ]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶם֙]] [[H9005\|לַֽ]][[H0251I\|אֲחֵי]][[H9026\|כֶ֔ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1696I\|דִּבֶּ֣ר]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וְ]][[H6258\|עַתָּ֡ה]] [[H6437G\|פְּנוּ֩]] [[H9002\|וּ]][[H1980G\|לְכ֨וּ]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H9005\|לְ]][[H0168G\|אָהֳלֵי]][[H9026\|כֶ֗ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֙רֶץ֙]] [[H0272\|אֲחֻזַּתְ]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H5414G\|נָתַ֣ן]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H4872\|מֹשֶׁה֙]] [[H5650\|עֶ֣בֶד]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H5676G\|עֵ֖בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.3|<< Joshua 22:3]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.5|Joshua 22:5 >>]]</td></tr></table>
 

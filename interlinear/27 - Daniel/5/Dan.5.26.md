@@ -1,8 +1,62 @@
+---
+title: Daniel 5:26
+type: Verse
+kjv: "This is the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it."
+bsb: "And this is the interpretation of the message: MENE means that God has numbered the days of your reign and brought it to an end."
+aramaic: "דְּנָ֖ה פְּשַֽׁר־ מִלְּתָ֑א מְנֵ֕א מְנָֽה־ אֱלָהָ֥א מַלְכוּתָ֖ךְ וְהַשְׁלְמַֽהּ׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic MENE|MENE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1836]]"
+- "[[H6591]]"
+- "[[H9014]]"
+- "[[H4406]]"
+- "[[H9010]]"
+- "[[H4484]]"
+- "[[H4483]]"
+- "[[H0426]]"
+- "[[H4437]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8000]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 5:26**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.
 <small><sub>**BSB:**</sub></small>
 And this is the interpretation of the message: MENE means that God has numbered the days of your reign and brought it to an end.
+<small><sub>**Aramaic:**</sub></small>
+[[H1836\|דְּנָ֖ה]] [[H6591\|פְּשַֽׁר]][[H9014\|־]] [[H4406\|מִלְּתָ֑]][[H9010\|א]] [[H4484\|מְנֵ֕א]] [[H4483\|מְנָֽה]][[H9014\|־]] [[H0426\|אֱלָהָ֥]][[H9010\|א]] [[H4437\|מַלְכוּתָ֖]][[H9021\|ךְ]] [[H9002\|וְ]][[H8000\|הַשְׁלְמַֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BELSHAZZAR|BELSHAZZAR]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEATHEN|HEATHEN]] • [[topic MENE|MENE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.25|<< Daniel 5:25]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.27|Daniel 5:27 >>]]</td></tr></table>
 

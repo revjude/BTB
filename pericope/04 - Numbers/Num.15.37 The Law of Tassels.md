@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Law of Tassels
+type: Pericope
 pericope: "[[Num.15.37 The Law of Tassels|The Law of Tassels]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 15
 book/chapter: "[[Num.15|Numbers 15]]"
-genre:
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 5
 verses:
 - "[[Num.15.37]]"
 - "[[Num.15.38]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Num.15.41]]"
 ---
 
-[[Num.15|Numbers 15:37 - Numbers 15:41]]
+<small>[[Num.15|Numbers 15:37-41]]</small>
 *The Law of Tassels*
 
 [[Num.15.37|37]] And the LORD spake unto Moses, saying,

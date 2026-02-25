@@ -1,8 +1,73 @@
+---
+title: 1 Kings 9:4
+type: Verse
+kjv: "And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, and wilt keep my statutes and my judgments:"
+bsb: "And as for you, if you walk before Me as your father David walked, with a heart of integrity and uprightness, doing all I have commanded you, and if you keep My statutes and ordinances,"
+hebrew: "וְאַתָּ֞ה אִם־ תֵּלֵ֣ךְ לְפָנַ֗י כַּאֲשֶׁ֨ר הָלַ֜ךְ דָּוִ֤ד אָבִ֙יךָ֙ בְּתָם־ לֵבָ֣ב וּבְיֹ֔שֶׁר לַעֲשׂ֕וֹת כְּכֹ֖ל אֲשֶׁ֣ר צִוִּיתִ֑יךָ חֻקַּ֥י וּמִשְׁפָּטַ֖י תִּשְׁמֹֽר׃"
+pericope: "[[1Kgs.9.1 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1980I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H8537]]"
+- "[[H3824]]"
+- "[[H3476]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H8104G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:4**<big><big>[[1Kgs.9.1 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness, to do according to all that I have commanded thee, [and] wilt keep my statutes and my judgments:
 <small><sub>**BSB:**</sub></small>
 And as for you, if you walk before Me as your father David walked, with a heart of integrity and uprightness, doing all I have commanded you, and if you keep My statutes and ordinances,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֞ה]] [[H0518A\|אִם]][[H9014\|־]] [[H1980I\|תֵּלֵ֣ךְ]] [[H9005\|לְ]][[H6440G\|פָנַ֗]][[H9020\|י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H1980I\|הָלַ֜ךְ]] [[H1732\|דָּוִ֤ד]] [[H0001G\|אָבִ֙י]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H8537\|תָם]][[H9014\|־]] [[H3824\|לֵבָ֣ב]] [[H9002\|וּ]][[H9003\|בְ]][[H3476\|יֹ֔שֶׁר]] [[H9005\|לַ]][[H6213A\|עֲשׂ֕וֹת]] [[H9004\|כְּ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוִּיתִ֑י]][[H9031\|ךָ]] [[H2706G\|חֻקַּ֥]][[H9020\|י]] [[H9002\|וּ]][[H4941G\|מִשְׁפָּטַ֖]][[H9020\|י]] [[H8104G\|תִּשְׁמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic PROBATION|PROBATION]] • [[topic SOLOMON|SOLOMON]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.3|<< 1 Kings 9:3]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.5|1 Kings 9:5 >>]]</td></tr></table>
 

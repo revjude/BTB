@@ -1,8 +1,55 @@
+---
+title: Job 10:11
+type: Verse
+kjv: "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews."
+bsb: "You clothed me with skin and flesh, and knit me together with bones and sinews."
+hebrew: "ע֣וֹר וּ֭בָשָׂר תַּלְבִּישֵׁ֑נִי וּֽבַעֲצָמ֥וֹת וְ֝גִידִ֗ים תְּסֹכְכֵֽנִי׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANATOMY|ANATOMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic PHYSIOLOGY|PHYSIOLOGY]]"
+- "[[topic SINEWS|SINEWS]]"
+strongs:
+- "[[H5785]]"
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H3847]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H6106G]]"
+- "[[H1517]]"
+- "[[H5526F]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:11**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.
 <small><sub>**BSB:**</sub></small>
 You clothed me with skin and flesh, and knit me together with bones and sinews.
+<small><sub>**Hebrew:**</sub></small>
+[[H5785\|ע֣וֹר]] [[H9002\|וּ֭]][[H1320\|בָשָׂר]] [[H3847\|תַּלְבִּישֵׁ֑]][[H9030\|נִי]] [[H9002\|וּֽ]][[H9003\|בַ]][[H6106G\|עֲצָמ֥וֹת]] [[H9002\|וְ֝]][[H1517\|גִידִ֗ים]] [[H5526F\|תְּסֹכְכֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANATOMY|ANATOMY]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic PHYSIOLOGY|PHYSIOLOGY]] • [[topic SINEWS|SINEWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.10|<< Job 10:10]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.12|Job 10:12 >>]]</td></tr></table>
 

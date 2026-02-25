@@ -1,7 +1,7 @@
 
 **SHALLUM**
 
-1. King of Israel [[2Kgs.15.10|2Ki 15:10]],[[2Kgs.15.13|13]]-[[2Kgs.15.15|15]]
+1. King of Israel [[2Kgs.15.10|2Ki 15:10]],[[2Kgs.15.13|13-15]]
 
 2. The husband of Huldah, the prophetess [[2Kgs.22.14|2Ki 22:14]];  [[2Chr.34.22|2Ch 34:22]]
 

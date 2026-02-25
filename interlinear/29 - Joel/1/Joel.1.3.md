@@ -1,8 +1,54 @@
+---
+title: Joel 1:3
+type: Verse
+kjv: "Tell ye your children of it, and let your children tell their children, and their children another generation."
+bsb: "Tell it to your children; let your children tell it to their children, and their children to the next generation."
+hebrew: "עָלֶ֖יהָ לִבְנֵיכֶ֣ם סַפֵּ֑רוּ וּבְנֵיכֶם֙ לִבְנֵיהֶ֔ם וּבְנֵיהֶ֖ם לְד֥וֹר אַחֵֽר׃"
+pericope: "[[Joel.1.1 The Invasion of Locusts|The Invasion of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H5608A]]"
+- "[[H9002]]"
+- "[[H9028]]"
+- "[[H1755]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:3**<big><big>[[Joel.1.1 The Invasion of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tell ye your children of it, and [let] your children [tell] their children, and their children another generation.
 <small><sub>**BSB:**</sub></small>
 Tell it to your children; let your children tell it to their children, and their children to the next generation.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עָלֶ֖]][[H9034\|יהָ]] [[H9005\|לִ]][[H1121A\|בְנֵי]][[H9026\|כֶ֣ם]] [[H5608A\|סַפֵּ֑רוּ]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9026\|כֶם֙]] [[H9005\|לִ]][[H1121A\|בְנֵי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H1755\|ד֥וֹר]] [[H0312\|אַחֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic NATION|NATION]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.2|<< Joel 1:2]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.4|Joel 1:4 >>]]</td></tr></table>
 

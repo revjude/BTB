@@ -1,10 +1,56 @@
+---
+title: Romans 15:28
+type: Verse
+kjv: "When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain."
+bsb: "So after I have completed this service and have safely delivered this bounty to them, I will set off to Spain by way of you."
+greek: "τοῦτο οὖν ἐπιτελέσας καὶ σφραγισάμενος αὐτοῖς τὸν καρπὸν τοῦτον ἀπελεύσομαι δι᾽ ὑμῶν εἰς τὴν Σπανίαν."
+pericope: "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic SPAIN|SPAIN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G3767]]"
+- "[[G2005]]"
+- "[[G2532]]"
+- "[[G4972]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2590]]"
+- "[[G0565]]"
+- "[[G1223]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G4681]]"
+texts:
+- NKO
+- k
+---
+
 **Romans 15:28**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain.
 <small><sub>**BSB:**</sub></small>
 So after I have completed this service and have safely delivered this bounty to them, I will set off to Spain by way of you.
-<small><sub>**Literal:**</sub></small>
-This therefore having finished and having sealed to them <the> fruit this I will set off through you into <the> Spain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.27|<< Romans 15:27]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.29|Romans 15:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G3767\|οὖν]]  [[G2005\|ἐπιτελέσας]]  [[G2532\|καὶ]]  [[G4972\|σφραγισάμενος]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸν]]  [[G2590\|καρπὸν]]  [[G3778\|τοῦτον]]  [[G0565\|ἀπελεύσομαι]]  [[G1223\|δι᾽]]  [[G4771\|ὑμῶν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4681\|Σπανίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic SEAL|SEAL]] • [[topic SPAIN|SPAIN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.27|<< Romans 15:27]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.29|Romans 15:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

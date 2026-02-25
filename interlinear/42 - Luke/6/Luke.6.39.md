@@ -1,10 +1,63 @@
+---
+title: Luke 6:39
+type: Verse
+kjv: "And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?"
+bsb: "Jesus also told them a parable: “Can a blind man lead a blind man? Will they not both fall into a pit?"
+jesus_said: "Can the blind lead the blind? shall they not both fall into the ditch?"
+greek: "εἶπεν δὲ καὶ παραβολὴν αὐτοῖς· μήτι δύναται τυφλὸς τυφλὸν ὁδηγεῖν; οὐχὶ ἀμφότεροι εἰς βόθυνον ἐμπεσοῦνται;¶"
+pericope: "[[Luke.6.37 Judging Others|Judging Others]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3850]]"
+- "[[G0846]]"
+- "[[G3385]]"
+- "[[G1410]]"
+- "[[G5185]]"
+- "[[G3594]]"
+- "[[G3780]]"
+- "[[G0297]]"
+- "[[G1519]]"
+- "[[G0999]]"
+- "[[G1706]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 6:39**<big><big>[[Luke.6.37 Judging Others|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he spake a parable unto them, Can the blind lead the blind? shall they not both fall into the ditch?
 <small><sub>**BSB:**</sub></small>
 Jesus also told them a parable: “Can a blind man lead a blind man? Will they not both fall into a pit?
-<small><sub>**Literal:**</sub></small>
-He spoke then also a parable to them; surely not ever is able a blind [man] a blind [man] to lead? Surely both into a pit will fall in?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.38|<< Luke 6:38]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.40|Luke 6:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3850\|παραβολὴν]]  [[G0846\|αὐτοῖς·]]  [[G3385\|μήτι]]  [[G1410\|δύναται]]  [[G5185\|τυφλὸς]]  [[G5185\|τυφλὸν]]  [[G3594\|ὁδηγεῖν;]]  [[G3780\|οὐχὶ]]  [[G0297\|ἀμφότεροι]]  [[G1519\|εἰς]]  [[G0999\|βόθυνον]]  [[G1706\|ἐμπεσοῦνται;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERMON|SERMON]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.38|<< Luke 6:38]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.40|Luke 6:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

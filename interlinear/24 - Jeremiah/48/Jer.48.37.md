@@ -1,8 +1,57 @@
+---
+title: Jeremiah 48:37
+type: Verse
+kjv: "For every head shall be bald, and every beard clipped: upon all the hands shall be cuttings, and upon the loins sackcloth."
+bsb: "For every head is shaved and every beard is clipped; on every hand is a gash, and around every waist is sackcloth."
+hebrew: "כִּ֤י כָל־ רֹאשׁ֙ קָרְחָ֔ה וְכָל־ זָקָ֖ן גְּרֻעָ֑ה עַ֤ל כָּל־ יָדַ֙יִם֙ גְּדֻדֹ֔ת וְעַל־ מָתְנַ֖יִם שָֽׂק׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic BEARD|BEARD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H7144]]"
+- "[[H9002]]"
+- "[[H2206]]"
+- "[[H1639]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H1417]]"
+- "[[H4975]]"
+- "[[H8242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:37**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For every head [shall be] bald, and every beard clipped: upon all the hands [shall be] cuttings, and upon the loins sackcloth.
 <small><sub>**BSB:**</sub></small>
 For every head is shaved and every beard is clipped; on every hand is a gash, and around every waist is sackcloth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3605\|כָל]][[H9014\|־]] [[H7218A\|רֹאשׁ֙]] [[H7144\|קָרְחָ֔ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2206\|זָקָ֖ן]] [[H1639\|גְּרֻעָ֑ה]] [[H5921A\|עַ֤ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3027G\|יָדַ֙יִם֙]] [[H1417\|גְּדֻדֹ֔ת]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4975\|מָתְנַ֖יִם]] [[H8242\|שָֽׂק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALDNESS|BALDNESS]] • [[topic BEARD|BEARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.36|<< Jeremiah 48:36]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.38|Jeremiah 48:38 >>]]</td></tr></table>
 

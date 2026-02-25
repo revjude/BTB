@@ -1,8 +1,68 @@
+---
+title: Zechariah 2:11
+type: Verse
+kjv: "And many nations shall be joined to the LORD in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the LORD of hosts hath sent me unto thee."
+bsb: "“On that day many nations will join themselves to the LORD, and they will become My people. I will dwell among you, and you will know that the LORD of Hosts has sent Me to you."
+hebrew: "וְנִלְווּ֩ גוֹיִ֨ם רַבִּ֤ים אֶל־ יְהוָה֙ בַּיּ֣וֹם הַה֔וּא וְהָ֥יוּ לִ֖י לְעָ֑ם וְשָׁכַנְתִּ֣י בְתוֹכֵ֔ךְ וְיָדַ֕עַתְּ כִּי־ יְהוָ֥ה צְבָא֖וֹת שְׁלָחַ֥נִי אֵלָֽיִךְ׃"
+pericope: "[[Zech.2.6 The Redemption of Zion|The Redemption of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 2
+book/chapter: "[[Zech.2|Zechariah 2]]"
+chronological_order: 858
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3867A]]"
+- "[[H1471A]]"
+- "[[H7227A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H7931]]"
+- "[[H8432]]"
+- "[[H9022]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H6635B]]"
+- "[[H7971G]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 2:11**<big><big>[[Zech.2.6 The Redemption of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And many nations shall be joined to the LORD in that day, and shall be my people: and I will dwell in the midst of thee, and thou shalt know that the LORD of hosts hath sent me unto thee.
 <small><sub>**BSB:**</sub></small>
 “On that day many nations will join themselves to the LORD, and they will become My people. I will dwell among you, and you will know that the LORD of Hosts has sent Me to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3867A\|נִלְווּ֩]] [[H1471A\|גוֹיִ֨ם]] [[H7227A\|רַבִּ֤ים]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9001\|וְ]][[H1961\|הָ֥יוּ]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לְ]][[H5971A\|עָ֑ם]] [[H9001\|וְ]][[H7931\|שָׁכַנְתִּ֣י]] [[H9003\|בְ]][[H8432\|תוֹכֵ֔]][[H9022\|ךְ]] [[H9001\|וְ]][[H3045\|יָדַ֕עַתְּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H7971G\|שְׁלָחַ֥]][[H9030\|נִי]] [[H0413\|אֵלָֽיִ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.2.10|<< Zechariah 2:10]]</td><td align="center" style="border:none;">[[Zech.2|Zechariah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.2.12|Zechariah 2:12 >>]]</td></tr></table>
 

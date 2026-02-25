@@ -1,8 +1,57 @@
+---
+title: Song of Solomon 8:12
+type: Verse
+kjv: "My vineyard, which is mine, is before me: thou, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred."
+bsb: "But my own vineyard is mine to give; the thousand shekels are for you, O Solomon, and two hundred are for those who tend its fruit."
+hebrew: "כַּרְמִ֥י שֶׁלִּ֖י לְפָנָ֑י הָאֶ֤לֶף לְךָ֙ שְׁלֹמֹ֔ה וּמָאתַ֖יִם לְנֹטְרִ֥ים אֶת־ פִּרְיֽוֹ׃"
+pericope: "[[Song.8.10 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic VINEYARD|VINEYARD]]"
+strongs:
+- "[[H3754]]"
+- "[[H9020]]"
+- "[[H9007]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H0505G]]"
+- "[[H9031]]"
+- "[[H8010]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H5201]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 8:12**<big><big>[[Song.8.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My vineyard, which [is] mine, [is] before me: thou, O Solomon, [must have] a thousand, and those that keep the fruit thereof two hundred.
 <small><sub>**BSB:**</sub></small>
 But my own vineyard is mine to give; the thousand shekels are for you, O Solomon, and two hundred are for those who tend its fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H3754\|כַּרְמִ֥]][[H9020\|י]] [[H9007\|שֶׁ]][[H9005\|לִּ֖]][[H9030\|י]] [[H9005\|לְ]][[H6440G\|פָנָ֑]][[H9020\|י]] [[H9009\|הָ]][[H0505G\|אֶ֤לֶף]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9002\|וּ]][[H3967\|מָאתַ֖יִם]] [[H9005\|לְ]][[H5201\|נֹטְרִ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H6529\|פִּרְיֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VINEYARD|VINEYARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.11|<< Song of Solomon 8:11]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.13|Song of Solomon 8:13 >>]]</td></tr></table>
 

@@ -1,10 +1,53 @@
+---
+title: Acts 19:3
+type: Verse
+kjv: "And he said unto them, Unto what then were ye baptized? And they said, Unto John’s baptism."
+bsb: "“Into what, then, were you baptized?” Paul asked. “The baptism of John,” they replied."
+greek: "εἶπέν τε πρὸς αὐτούς· εἰς τί οὖν ἐβαπτίσθητε; οἱ δὲ εἶπαν· εἰς τὸ Ἰωάννου βάπτισμα.¶"
+pericope: "[[Acts.19.1 The Holy Spirit Received at Ephesus|The Holy Spirit Received at Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+strongs:
+- "[[G2036]]"
+- "[[G5037]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G0907]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2491G]]"
+- "[[G0908]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 19:3**<big><big>[[Acts.19.1 The Holy Spirit Received at Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Unto what then were ye baptized? And they said, Unto John’s baptism.
 <small><sub>**BSB:**</sub></small>
 “Into what, then, were you baptized?” Paul asked. “The baptism of John,” they replied.
-<small><sub>**Literal:**</sub></small>
-He said then to them: Into what then were you baptized? <the> And they said; Into <the> John's baptism.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.2|<< Acts 19:2]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.4|Acts 19:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπέν]]  [[G5037\|τε]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G1519\|εἰς]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G0907\|ἐβαπτίσθητε;]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν·]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2491G\|Ἰωάννου]]  [[G0908\|βάπτισμα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic HOLY SPIRIT|HOLY SPIRIT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.2|<< Acts 19:2]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.4|Acts 19:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

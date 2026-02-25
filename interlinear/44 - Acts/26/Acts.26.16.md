@@ -1,10 +1,71 @@
+---
+title: Acts 26:16
+type: Verse
+kjv: "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;"
+bsb: "‘But get up and stand on your feet. For I have appeared to you to appoint you as a servant and as a witness of what you have seen from Me and what I will show you."
+jesus_said: "But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;"
+greek: "ἀλλ᾽ ἀνάστηθι καὶ στῆθι ἐπὶ τοὺς πόδας σου· εἰς τοῦτο γὰρ ὤφθην σοι προχειρίσασθαί σε ὑπηρέτην καὶ μάρτυρα ὧν τε εἶδές με ὧν τε ὀφθήσομαί σοι,"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G0450]]"
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G3700]]"
+- "[[G4400]]"
+- "[[G5257]]"
+- "[[G3144]]"
+- "[[G3739]]"
+- "[[G5037]]"
+- "[[G1492H]]"
+- "[[G3165]]"
+texts:
+- NKO
+- NO
+---
+
 **Acts 26:16**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But rise, and stand upon thy feet: for I have appeared unto thee for this purpose, to make thee a minister and a witness both of these things which thou hast seen, and of those things in the which I will appear unto thee;
 <small><sub>**BSB:**</sub></small>
 ‘But get up and stand on your feet. For I have appeared to you to appoint you as a servant and as a witness of what you have seen from Me and what I will show you.
-<small><sub>**Literal:**</sub></small>
-But do rise up and do stand on the feet of you; to this [purpose] for I have appeared to you to appoint you a servant and a witness of that which both you have seen of Me of the things in which then I will appear to you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.15|<< Acts 26:15]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.17|Acts 26:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G0450\|ἀνάστηθι]]  [[G2532\|καὶ]]  [[G2476\|στῆθι]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G4771\|σου·]]  [[G1519\|εἰς]]  [[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G3700\|ὤφθην]]  [[G4771\|σοι]]  [[G4400\|προχειρίσασθαί]]  [[G4771\|σε]]  [[G5257\|ὑπηρέτην]]  [[G2532\|καὶ]]  [[G3144\|μάρτυρα]]  [[G3739\|ὧν]]  [[G5037\|τε]]  [[G1492H\|εἶδές]]  [[G3165\|με]]  [[G3739\|ὧν]]  [[G5037\|τε]]  [[G3700\|ὀφθήσομαί]]  [[G4771\|σοι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic COURT|COURT]] • [[topic DAMASCUS|DAMASCUS]] • [[topic DEFENSE|DEFENSE]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic PAUL|PAUL]] • [[topic SIN|SIN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.15|<< Acts 26:15]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.17|Acts 26:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

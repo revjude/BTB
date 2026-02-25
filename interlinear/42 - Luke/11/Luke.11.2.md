@@ -1,10 +1,73 @@
+---
+title: Luke 11:2
+type: Verse
+kjv: "And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth."
+bsb: "So Jesus told them, “When you pray, say: ‘Father, hallowed be Your name. Your kingdom come."
+jesus_said: "When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth."
+greek: "εἶπεν δὲ αὐτοῖς· ὅταν προσεύχησθε, λέγετε· πάτερ ἡμῶν ὁ ἐν τοῖς οὐρανοις, ἁγιασθήτω τὸ ὄνομά σου· ἐλθέτω ἡ βασιλεία σου γενηθήτω τὸ θέλημά σου ὡς ἐν οὐρανῳ καὶ ἐπὶ τῆς γῆς·"
+pericope: "[[Luke.11.1 The Lord’s Prayer|The Lord’s Prayer]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LORD'S PRAYER|LORD'S PRAYER]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3752]]"
+- "[[G4336]]"
+- "[[G3004G]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G0037]]"
+- "[[G3686]]"
+- "[[G4771]]"
+- "[[G2064]]"
+- "[[G0932]]"
+- "[[G1096]]"
+- "[[G2307]]"
+- "[[G5613]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- K
+- KO
+---
+
 **Luke 11:2**<big><big>[[Luke.11.1 The Lord’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, When ye pray, say, Our Father which art in heaven, Hallowed be thy name. Thy kingdom come. Thy will be done, as in heaven, so in earth.
 <small><sub>**BSB:**</sub></small>
 So Jesus told them, “When you pray, say: ‘Father, hallowed be Your name. Your kingdom come.
-<small><sub>**Literal:**</sub></small>
-He said then to them; When you may pray, do say: Father of us <the> in to the heavens should be hallowed the name of You; should come the kingdom of You should be [done] the will of you as in heaven and upon <the> earth;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.1|<< Luke 11:1]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.3|Luke 11:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς·]]  [[G3752\|ὅταν]]  [[G4336\|προσεύχησθε,]]  [[G3004G\|λέγετε·]]  [[G3962\|πάτερ]]  [[G3165\|ἡμῶν]]  [[G3588\|ὁ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοις,]]  [[G0037\|ἁγιασθήτω]]  [[G3588\|τὸ]]  [[G3686\|ὄνομά]]  [[G4771\|σου·]]  [[G2064\|ἐλθέτω]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G4771\|σου]]  [[G1096\|γενηθήτω]]  [[G3588\|τὸ]]  [[G2307\|θέλημά]]  [[G4771\|σου]]  [[G5613\|ὡς]]  [[G1722\|ἐν]]  [[G3772\|οὐρανῳ]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LORD'S PRAYER|LORD'S PRAYER]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRAYER|PRAYER]] • [[topic RESIGNATION|RESIGNATION]] • [[topic WILL|WILL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.1|<< Luke 11:1]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.3|Luke 11:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

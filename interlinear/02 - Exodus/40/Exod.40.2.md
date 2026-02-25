@@ -1,8 +1,61 @@
+---
+title: Exodus 40:2
+type: Verse
+kjv: "On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation."
+bsb: "“On the first day of the first month you are to set up the tabernacle, the Tent of Meeting."
+hebrew: "בְּיוֹם־ הַחֹ֥דֶשׁ הָרִאשׁ֖וֹן בְּאֶחָ֣ד לַחֹ֑דֶשׁ תָּקִ֕ים אֶת־ מִשְׁכַּ֖ן אֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABIB|ABIB]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2320G]]"
+- "[[H7223G]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H6965H]]"
+- "[[H0853]]"
+- "[[H4908]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:2**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation.
 <small><sub>**BSB:**</sub></small>
 “On the first day of the first month you are to set up the tabernacle, the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3117G\|יוֹם]][[H9014\|־]] [[H9009\|הַ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֖וֹן]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H6965H\|תָּקִ֕ים]] [[H0853\|אֶת]][[H9014\|־]] [[H4908\|מִשְׁכַּ֖ן]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIB|ABIB]] • [[topic MONTH|MONTH]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.1|<< Exodus 40:1]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.3|Exodus 40:3 >>]]</td></tr></table>
 

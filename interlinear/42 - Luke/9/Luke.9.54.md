@@ -1,10 +1,72 @@
+---
+title: Luke 9:54
+type: Verse
+kjv: "And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?"
+bsb: "When the disciples James and John saw this, they asked, “Lord, do You want us to call down fire from heaven to consume them?”"
+greek: "ἰδόντες δὲ οἱ μαθηταὶ αὐτοῦ Ἰάκωβος καὶ Ἰωάννης εἶπαν· κύριε, θέλεις εἴπωμεν πῦρ καταβῆναι ἀπὸ τοῦ οὐρανοῦ καὶ ἀναλῶσαι αὐτούς ὡς καὶ Ἠλίας ἐποίησεν;"
+pericope: "[[Luke.9.51 The Samaritans Reject Jesus|The Samaritans Reject Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic REVENGE|REVENGE]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2385G]]"
+- "[[G2532]]"
+- "[[G2491H]]"
+- "[[G2036]]"
+- "[[G2962G]]"
+- "[[G2309]]"
+- "[[G4442]]"
+- "[[G2597]]"
+- "[[G0575]]"
+- "[[G3772]]"
+- "[[G0355]]"
+- "[[G5613]]"
+- "[[G2243]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- ko
+- K
+---
+
 **Luke 9:54**<big><big>[[Luke.9.51 The Samaritans Reject Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when his disciples James and John saw [this], they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?
 <small><sub>**BSB:**</sub></small>
 When the disciples James and John saw this, they asked, “Lord, do You want us to call down fire from heaven to consume them?”
-<small><sub>**Literal:**</sub></small>
-Having seen [it] now the disciples of him James and John said; Lord, do you want [that] we may call fire to come down from <the> heaven and to consume them as and Elijah did?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.53|<< Luke 9:53]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.55|Luke 9:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδόντες]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G2385G\|Ἰάκωβος]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννης]]  [[G2036\|εἶπαν·]]  [[G2962G\|κύριε,]]  [[G2309\|θέλεις]]  [[G2036\|εἴπωμεν]]  [[G4442\|πῦρ]]  [[G2597\|καταβῆναι]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2532\|καὶ]]  [[G0355\|ἀναλῶσαι]]  [[G0846\|αὐτούς]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G2243\|Ἠλίας]]  [[G4160G\|ἐποίησεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic BIGOTRY|BIGOTRY]] • [[topic ELIJAH|ELIJAH]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MALICE|MALICE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RASHNESS|RASHNESS]] • [[topic RETALIATION|RETALIATION]] • [[topic REVENGE|REVENGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.53|<< Luke 9:53]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.55|Luke 9:55 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 9:54** is...
 > $\quad$ referencing: [[LXX.2Kgs.1.10|2Kgs 1:10]] ☩ [[LXX.2Kgs.1.12|2Kgs 1:12]]

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Net
+type: Pericope
 pericope: "[[Matt.13.47 The Parable of the Net|The Parable of the Net]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 13
 book/chapter: "[[Matt.13|Matthew 13]]"
-genre:
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.13.47]]"
 - "[[Matt.13.48]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.13.52]]"
 ---
 
-[[Matt.13|Matthew 13:47 - Matthew 13:52]]
+<small>[[Matt.13|Matthew 13:47-52]]</small>
 *The Parable of the Net*
 
 [[Matt.13.47|47]] Again, the kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:

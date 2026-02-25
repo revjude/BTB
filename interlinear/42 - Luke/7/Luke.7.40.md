@@ -1,10 +1,60 @@
+---
+title: Luke 7:40
+type: Verse
+kjv: "And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on."
+bsb: "But Jesus answered him, “Simon, I have something to tell you.” “Tell me, Teacher,” he said."
+jesus_said: "Simon, I have somewhat to say unto thee."
+greek: "Καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν πρὸς αὐτόν· Σίμων, ἔχω σοί τι εἰπεῖν. ὁ δέ· διδάσκαλε εἰπέ, φησίν."
+pericope: "[[Luke.7.36 A Sinful Woman Anoints Jesus|A Sinful Woman Anoints Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G4613I]]"
+- "[[G2192]]"
+- "[[G4771]]"
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G1320]]"
+- "[[G5346]]"
+texts:
+- NKO
+---
+
 **Luke 7:40**<big><big>[[Luke.7.36 A Sinful Woman Anoints Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered him, “Simon, I have something to tell you.” “Tell me, Teacher,” he said.
-<small><sub>**Literal:**</sub></small>
-And answering <the> Jesus said to him; Simon, I have to you something to say. <the> And; Teacher do say [it], he says.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.39|<< Luke 7:39]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.41|Luke 7:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G4613I\|Σίμων,]]  [[G2192\|ἔχω]]  [[G4771\|σοί]]  [[G5100\|τι]]  [[G2036\|εἰπεῖν.]]  [[G3588\|ὁ]]  [[G1161\|δέ·]]  [[G1320\|διδάσκαλε]]  [[G2036\|εἰπέ,]]  [[G5346\|φησίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.39|<< Luke 7:39]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.41|Luke 7:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

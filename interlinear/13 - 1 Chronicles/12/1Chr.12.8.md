@@ -1,8 +1,72 @@
+---
+title: 1 Chronicles 12:8
+type: Verse
+kjv: "And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men of war fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains;"
+bsb: "Some Gadites defected to David at his stronghold in the wilderness. They were mighty men of valor, trained for battle, experts with the shield and spear, whose faces were like the faces of lions and who were as swift as gazelles on the mountains:"
+hebrew: "וּמִן־ הַגָּדִ֡י נִבְדְּל֣וּ אֶל־ דָּוִיד֩ לַמְצַ֨ד מִדְבָּ֜רָה גִּבֹּרֵ֣י הַחַ֗יִל אַנְשֵׁ֤י צָבָא֙ לַמִּלְחָמָ֔ה עֹרְכֵ֥י צִנָּ֖ה וָרֹ֑מַח וּפְנֵ֤י אַרְיֵה֙ פְּנֵיהֶ֔ם וְכִצְבָאיִ֥ם עַל־ הֶהָרִ֖ים לְמַהֵֽר׃ ס"
+pericope: "[[1Chr.12.1 The Mighty Men Join David at Ziklag|The Mighty Men Join David at Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEER|DEER]]"
+- "[[topic GAD|GAD]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1425]]"
+- "[[H0914]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H4679]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H0582]]"
+- "[[H6635H]]"
+- "[[H4421]]"
+- "[[H6186A]]"
+- "[[H6793C]]"
+- "[[H7420]]"
+- "[[H6440H]]"
+- "[[H0738B]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H6643B]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H4116A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:8**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, [and] men of war [fit] for the battle, that could handle shield and buckler, whose faces [were like] the faces of lions, and [were] as swift as the roes upon the mountains;
 <small><sub>**BSB:**</sub></small>
 Some Gadites defected to David at his stronghold in the wilderness. They were mighty men of valor, trained for battle, experts with the shield and spear, whose faces were like the faces of lions and who were as swift as gazelles on the mountains:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1425\|גָּדִ֡י]] [[H0914\|נִבְדְּל֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִיד֩]] [[H9005\|לַ]][[H4679\|מְצַ֨ד]] [[H4057B\|מִדְבָּ֜רָ]][[H9011\|ה]] [[H1368\|גִּבֹּרֵ֣י]] [[H9009\|הַ]][[H2428G\|חַ֗יִל]] [[H0582\|אַנְשֵׁ֤י]] [[H6635H\|צָבָא֙]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֔ה]] [[H6186A\|עֹרְכֵ֥י]] [[H6793C\|צִנָּ֖ה]] [[H9002\|וָ]][[H7420\|רֹ֑מַח]] [[H9002\|וּ]][[H6440H\|פְנֵ֤י]] [[H0738B\|אַרְיֵה֙]] [[H6440H\|פְּנֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H9004\|כִ]][[H6643B\|צְבָאיִ֥ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶ]][[H2022G\|הָרִ֖ים]] [[H9005\|לְ]][[H4116A\|מַהֵֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic DEER|DEER]] • [[topic GAD|GAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.7|<< 1 Chronicles 12:7]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.9|1 Chronicles 12:9 >>]]</td></tr></table>
 
@@ -29,7 +93,7 @@ Some Gadites defected to David at his stronghold in the wilderness. They were mi
 | and like gazelles  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כִ]]&#8207;&#8207;[[H6643B\|צְבָאיִ֥ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khi<small><sup>[[HR]]</sup></small> tz.va.Yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the mountains  |**<big>&#8207;[[H9009\|הֶ]]&#8207;&#8207;[[H2022G\|הָרִ֖ים]]&#8207; </big>**| he.<small><sup>[[HTd]]</sup></small> ha.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to hastening  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4116A\|מַהֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Her<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to hastening  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4116A\|מַהֵֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.Her<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.7|<< 1 Chronicles 12:7]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.9|1 Chronicles 12:9 >>]]</td></tr></table>
 
 

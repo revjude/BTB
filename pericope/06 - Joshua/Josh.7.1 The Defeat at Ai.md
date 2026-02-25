@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defeat at Ai
+type: Pericope
 pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 7
 book/chapter: "[[Josh.7|Joshua 7]]"
-genre:
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 15
 verses:
 - "[[Josh.7.1]]"
 - "[[Josh.7.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Josh.7.15]]"
 ---
 
-[[Josh.7|Joshua 7:1 - Joshua 7:15]]
+<small>[[Josh.7|Joshua 7:1-15]]</small>
 *The Defeat at Ai*
 
 [[Josh.7.1|1]] But the children of Israel committed a trespass in the accursed thing: for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took of the accursed thing: and the anger of the LORD was kindled against the children of Israel.

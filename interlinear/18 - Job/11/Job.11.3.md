@@ -1,8 +1,51 @@
+---
+title: Job 11:3
+type: Verse
+kjv: "Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?"
+bsb: "Should your babbling put others to silence? Will you scoff without rebuke?"
+hebrew: "בַּ֭דֶּיךָ מְתִ֣ים יַחֲרִ֑ישׁו וַ֝תִּלְעַ֗ג וְאֵ֣ין מַכְלִֽם׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H0907]]"
+- "[[H9021]]"
+- "[[H4962]]"
+- "[[H2790B]]"
+- "[[H9001]]"
+- "[[H3932]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H3637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:3**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?
 <small><sub>**BSB:**</sub></small>
 Should your babbling put others to silence? Will you scoff without rebuke?
+<small><sub>**Hebrew:**</sub></small>
+[[H0907\|בַּ֭דֶּי]][[H9021\|ךָ]] [[H4962\|מְתִ֣ים]] [[H2790B\|יַחֲרִ֑ישׁו]] [[H9001\|וַ֝]][[H3932\|תִּלְעַ֗ג]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H3637\|מַכְלִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.2|<< Job 11:2]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.4|Job 11:4 >>]]</td></tr></table>
 

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ananias Baptizes Saul
+type: Pericope
 pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Acts
 chapter: 9
 book/chapter: "[[Acts.9|Acts 9]]"
-genre:
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 10
 verses:
 - "[[Acts.9.10]]"
 - "[[Acts.9.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Acts.9.19]]"
 ---
 
-[[Acts.9|Acts 9:10 - Acts 9:19]]
+<small>[[Acts.9|Acts 9:10-19]]</small>
 *Ananias Baptizes Saul*
 
 [[Acts.9.10|10]] And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I \[am here\], Lord.

@@ -1,10 +1,60 @@
+---
+title: John 18:5
+type: Verse
+kjv: "They answered him, Jesus of Nazareth. Jesus saith unto them, I am he. And Judas also, which betrayed him, stood with them."
+bsb: "“Jesus of Nazareth,” they answered. Jesus said, “I am He.” And Judas His betrayer was standing there with them."
+jesus_said: "I am he."
+greek: "ἀπεκρίθησαν αὐτῷ· Ἰησοῦν τὸν Ναζωραῖον. λέγει αὐτοῖς ὁ Ἰησοῦς· ἐγώ εἰμι. εἱστήκει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν μετ᾽ αὐτῶν."
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G3588]]"
+- "[[G3480]]"
+- "[[G3004G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2476]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2455H]]"
+- "[[G3860]]"
+- "[[G3326]]"
+texts:
+- NKO
+- ko
+---
+
 **John 18:5**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They answered him, Jesus of Nazareth. Jesus saith unto them, I am [he]. And Judas also, which betrayed him, stood with them.
 <small><sub>**BSB:**</sub></small>
 “Jesus of Nazareth,” they answered. Jesus said, “I am He.” And Judas His betrayer was standing there with them.
-<small><sub>**Literal:**</sub></small>
-They answered to Him; Jesus <the> of Nazareth. He says to them <the> Jesus: I myself am [He]. Had been standing now also Judas who is delivering up Him with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.4|<< John 18:4]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.6|John 18:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G0846\|αὐτῷ·]]  [[G2424G\|Ἰησοῦν]]  [[G3588\|τὸν]]  [[G3480\|Ναζωραῖον.]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι.]]  [[G2476\|εἱστήκει]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2455H\|Ἰούδας]]  [[G3588\|ὁ]]  [[G3860\|παραδιδοὺς]]  [[G0846\|αὐτὸν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PRISONERS|PRISONERS]] • [[topic PROPHECY|PROPHECY]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.4|<< John 18:4]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.6|John 18:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

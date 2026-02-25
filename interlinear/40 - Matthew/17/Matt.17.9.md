@@ -1,10 +1,63 @@
+---
+title: Matthew 17:9
+type: Verse
+kjv: "And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead."
+bsb: "As they were coming down the mountain, Jesus commanded them, “Do not tell anyone about this vision until the Son of Man has been raised from the dead.”"
+jesus_said: "Tell the vision to no man, until the Son of man be risen again from the dead."
+greek: "Καὶ καταβαινόντων αὐτῶν ἐκ τοῦ ὄρους ἐνετείλατο αὐτοῖς ὁ Ἰησοῦς λέγων· μηδενὶ εἴπητε τὸ ὅραμα ἕως οὗ ὁ υἱὸς τοῦ ἀνθρώπου ἐκ νεκρῶν ἐγερθῇ.¶"
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G1781]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G3367]]"
+- "[[G2036]]"
+- "[[G3705]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3498]]"
+- "[[G1453]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 17:9**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as they came down from the mountain, Jesus charged them, saying, Tell the vision to no man, until the Son of man be risen again from the dead.
 <small><sub>**BSB:**</sub></small>
 As they were coming down the mountain, Jesus commanded them, “Do not tell anyone about this vision until the Son of Man has been raised from the dead.”
-<small><sub>**Literal:**</sub></small>
-And when are descending they from the mountain instructed them <the> Jesus saying; To no one shall tell the vision until that the Son <the> of Man out from [the] dead may be risen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.8|<< Matthew 17:8]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.10|Matthew 17:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2597\|καταβαινόντων]]  [[G0846\|αὐτῶν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3735\|ὄρους]]  [[G1781\|ἐνετείλατο]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγων·]]  [[G3367\|μηδενὶ]]  [[G2036\|εἴπητε]]  [[G3588\|τὸ]]  [[G3705\|ὅραμα]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]  [[G1453\|ἐγερθῇ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic TRANSFIGURATION|TRANSFIGURATION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.8|<< Matthew 17:8]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.10|Matthew 17:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

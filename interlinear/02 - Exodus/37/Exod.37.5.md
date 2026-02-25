@@ -1,8 +1,60 @@
+---
+title: Exodus 37:5
+type: Verse
+kjv: "And he put the staves into the rings by the sides of the ark, to bear the ark."
+bsb: "He inserted the poles into the rings on the sides of the ark in order to carry it."
+hebrew: "וַיָּבֵ֤א אֶת־ הַבַּדִּים֙ בַּטַּבָּעֹ֔ת עַ֖ל צַלְעֹ֣ת הָאָרֹ֑ן לָשֵׂ֖את אֶת־ הָאָרֹֽן׃"
+pericope: "[[Exod.37.1 Constructing the Ark|Constructing the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0905G]]"
+- "[[H9003]]"
+- "[[H2885]]"
+- "[[H5921A]]"
+- "[[H6763]]"
+- "[[H0727]]"
+- "[[H9005]]"
+- "[[H5375H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:5**<big><big>[[Exod.37.1 Constructing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put the staves into the rings by the sides of the ark, to bear the ark.
 <small><sub>**BSB:**</sub></small>
 He inserted the poles into the rings on the sides of the ark in order to carry it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֤א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0905G\|בַּדִּים֙]] [[H9003\|בַּ]][[H2885\|טַּבָּעֹ֔ת]] [[H5921A\|עַ֖ל]] [[H6763\|צַלְעֹ֣ת]] [[H9009\|הָ]][[H0727\|אָרֹ֑ן]] [[H9005\|לָ]][[H5375H\|שֵׂ֖את]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָרֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic GOLD|GOLD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.4|<< Exodus 37:4]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.6|Exodus 37:6 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Genesis 24:2
+type: Verse
+kjv: "And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:"
+bsb: "So Abraham instructed the chief servant of his household, who managed all he owned, “Place your hand under my thigh,"
+hebrew: "וַיֹּ֣אמֶר אַבְרָהָ֗ם אֶל־ עַבְדּוֹ֙ זְקַ֣ן בֵּית֔וֹ הַמֹּשֵׁ֖ל בְּכָל־ אֲשֶׁר־ ל֑וֹ שִֽׂים־ נָ֥א יָדְךָ֖ תַּ֥חַת יְרֵכִֽי׃"
+pericope: "[[Gen.24.1 A Wife for Isaac|A Wife for Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0085]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H2205H]]"
+- "[[H1004M]]"
+- "[[H9009]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7760H]]"
+- "[[H4994]]"
+- "[[H3027X]]"
+- "[[H9021]]"
+- "[[H8478L]]"
+- "[[H3409]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:2**<big><big>[[Gen.24.1 A Wife for Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:
 <small><sub>**BSB:**</sub></small>
 So Abraham instructed the chief servant of his household, who managed all he owned, “Place your hand under my thigh,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0085\|אַבְרָהָ֗ם]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עַבְדּ]][[H9023\|וֹ֙]] [[H2205H\|זְקַ֣ן]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H9009\|הַ]][[H4910\|מֹּשֵׁ֖ל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H7760H\|שִֽׂים]][[H9014\|־]] [[H4994\|נָ֥א]] [[H3027X\|יָדְ]][[H9021\|ךָ֖]] [[H8478L\|תַּ֥חַת]] [[H3409\|יְרֵכִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.1|<< Genesis 24:1]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.3|Genesis 24:3 >>]]</td></tr></table>
 

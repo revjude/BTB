@@ -1,10 +1,52 @@
+---
+title: Philemon 1:9
+type: Verse
+kjv: "Yet for love’s sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ."
+bsb: "I prefer to appeal on the basis of love. For I, Paul, am now aged, and a prisoner of Christ Jesus as well."
+greek: "διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ, τοιοῦτος ὢν ὡς Παῦλος πρεσβύτης νυνὶ δὲ καὶ δέσμιος Χριστοῦ Ἰησοῦ·"
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G3123H]]"
+- "[[G3870]]"
+- "[[G5108]]"
+- "[[G1510]]"
+- "[[G5613]]"
+- "[[G3972G]]"
+- "[[G4246]]"
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1198]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Philemon 1:9**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yet for love’s sake I rather beseech [thee], being such an one as Paul the aged, and now also a prisoner of Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 I prefer to appeal on the basis of love. For I, Paul, am now aged, and a prisoner of Christ Jesus as well.
-<small><sub>**Literal:**</sub></small>
-for the sake of <the> love rather I exhort [you], such a one being as Paul aged now then also a prisoner of Christ Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.8|<< Philemon 1:8]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.10|Philemon 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G0026\|ἀγάπην]]  [[G3123H\|μᾶλλον]]  [[G3870\|παρακαλῶ,]]  [[G5108\|τοιοῦτος]]  [[G1510\|ὢν]]  [[G5613\|ὡς]]  [[G3972G\|Παῦλος]]  [[G4246\|πρεσβύτης]]  [[G3570\|νυνὶ]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1198\|δέσμιος]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.8|<< Philemon 1:8]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.10|Philemon 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Exodus 39:10
+type: Verse
+kjv: "And they set in it four rows of stones: the first row was a sardius, a topaz, and a carbuncle: this was the first row."
+bsb: "And they mounted on it four rows of gemstones: The first row had a ruby, a topaz, and an emerald;"
+hebrew: "וַיְמַלְאוּ־ ב֔וֹ אַרְבָּעָ֖ה ט֣וּרֵי אָ֑בֶן ט֗וּר אֹ֤דֶם פִּטְדָה֙ וּבָרֶ֔קֶת הַטּ֖וּר הָאֶחָֽד׃"
+pericope: "[[Exod.39.8 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CARBUNCLE|CARBUNCLE]]"
+- "[[topic ENGRAVING|ENGRAVING]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SARDIUS|SARDIUS]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOPAZ|TOPAZ]]"
+strongs:
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0702]]"
+- "[[H2905]]"
+- "[[H0068G]]"
+- "[[H0124]]"
+- "[[H6357]]"
+- "[[H9002]]"
+- "[[H1304A]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:10**<big><big>[[Exod.39.8 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they set in it four rows of stones: [the first] row [was] a sardius, a topaz, and a carbuncle: this [was] the first row.
 <small><sub>**BSB:**</sub></small>
 And they mounted on it four rows of gemstones: The first row had a ruby, a topaz, and an emerald;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4390\|יְמַלְאוּ]][[H9014\|־]] [[H9003\|ב֔]][[H9033\|וֹ]] [[H0702\|אַרְבָּעָ֖ה]] [[H2905\|ט֣וּרֵי]] [[H0068G\|אָ֑בֶן]] [[H2905\|ט֗וּר]] [[H0124\|אֹ֤דֶם]] [[H6357\|פִּטְדָה֙]] [[H9002\|וּ]][[H1304A\|בָרֶ֔קֶת]] [[H9009\|הַ]][[H2905\|טּ֖וּר]] [[H9009\|הָ]][[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARBUNCLE|CARBUNCLE]] • [[topic ENGRAVING|ENGRAVING]] • [[topic EPHOD|EPHOD]] • [[topic PRIEST|PRIEST]] • [[topic SARDIUS|SARDIUS]] • [[topic STONES|STONES]] • [[topic TOPAZ|TOPAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.9|<< Exodus 39:9]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.11|Exodus 39:11 >>]]</td></tr></table>
 

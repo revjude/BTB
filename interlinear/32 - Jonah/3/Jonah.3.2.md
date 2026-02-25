@@ -1,8 +1,62 @@
+---
+title: Jonah 3:2
+type: Verse
+kjv: "Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee."
+bsb: "“Get up! Go to the great city of Nineveh and proclaim to it the message that I give you.”"
+hebrew: "ק֛וּם לֵ֥ךְ אֶל־ נִֽינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה וִּקְרָ֤א אֵלֶ֙יהָ֙ אֶת־ הַקְּרִיאָ֔ה אֲשֶׁ֥ר אָנֹכִ֖י דֹּבֵ֥ר אֵלֶֽיךָ׃"
+pericope: "[[Jonah.3.1 The Ninevites Repent|The Ninevites Repent]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 3
+book/chapter: "[[Jonah.3|Jonah 3]]"
+chronological_order: 596
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5210]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H7121I]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H7150]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H1696G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 3:2**<big><big>[[Jonah.3.1 The Ninevites Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, go unto Nineveh, that great city, and preach unto it the preaching that I bid thee.
 <small><sub>**BSB:**</sub></small>
 “Get up! Go to the great city of Nineveh and proclaim to it the message that I give you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֛וּם]] [[H1980G\|לֵ֥ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H5210\|נִֽינְוֵ֖ה]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֑ה]] [[H9002\|וִּ]][[H7121I\|קְרָ֤א]] [[H0413\|אֵלֶ֙י]][[H9034\|הָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7150\|קְּרִיאָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0595\|אָנֹכִ֖י]] [[H1696G\|דֹּבֵ֥ר]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MISSIONS|MISSIONS]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.3.1|<< Jonah 3:1]]</td><td align="center" style="border:none;">[[Jonah.3|Jonah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.3.3|Jonah 3:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

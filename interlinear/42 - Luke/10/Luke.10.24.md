@@ -1,10 +1,57 @@
+---
+title: Luke 10:24
+type: Verse
+kjv: "For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
+bsb: "For I tell you that many prophets and kings desired to see what you see but did not see it, and to hear what you hear but did not hear it.”"
+jesus_said: "For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them."
+greek: "λέγω γὰρ ὑμῖν ὅτι πολλοὶ προφῆται καὶ βασιλεῖς ἠθέλησαν ἰδεῖν ἃ ὑμεῖς βλέπετε καὶ οὐκ εἶδαν, καὶ ἀκοῦσαι ἃ ἀκούετε καὶ οὐκ ἤκουσαν.¶"
+pericope: "[[Luke.10.21 Jesus’ Prayer of Thanksgiving|Jesus’ Prayer of Thanksgiving]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G4183]]"
+- "[[G4396]]"
+- "[[G2532]]"
+- "[[G0935]]"
+- "[[G2309]]"
+- "[[G1492H]]"
+- "[[G3739]]"
+- "[[G0991]]"
+- "[[G3756]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **Luke 10:24**<big><big>[[Luke.10.21 Jesus’ Prayer of Thanksgiving|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I tell you, that many prophets and kings have desired to see those things which ye see, and have not seen [them]; and to hear those things which ye hear, and have not heard [them].
 <small><sub>**BSB:**</sub></small>
 For I tell you that many prophets and kings desired to see what you see but did not see it, and to hear what you hear but did not hear it.”
-<small><sub>**Literal:**</sub></small>
-I say for to you that many prophets and kings desired to see what you yourselves see and not saw, and to hear what you hear and not heard.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.23|<< Luke 10:23]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.25|Luke 10:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G4183\|πολλοὶ]]  [[G4396\|προφῆται]]  [[G2532\|καὶ]]  [[G0935\|βασιλεῖς]]  [[G2309\|ἠθέλησαν]]  [[G1492H\|ἰδεῖν]]  [[G3739\|ἃ]]  [[G4771\|ὑμεῖς]]  [[G0991\|βλέπετε]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1492H\|εἶδαν,]]  [[G2532\|καὶ]]  [[G0191\|ἀκοῦσαι]]  [[G3739\|ἃ]]  [[G0191\|ἀκούετε]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0191\|ἤκουσαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.23|<< Luke 10:23]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.25|Luke 10:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

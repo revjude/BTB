@@ -1,8 +1,62 @@
+---
+title: Jeremiah 14:4
+type: Verse
+kjv: "Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads."
+bsb: "The ground is cracked because no rain has fallen on the land. The farmers are ashamed; they cover their heads."
+hebrew: "בַּעֲב֤וּר הָאֲדָמָה֙ חַ֔תָּה כִּ֛י לֹא־ הָיָ֥ה גֶ֖שֶׁם בָּאָ֑רֶץ בֹּ֥שׁוּ אִכָּרִ֖ים חָפ֥וּ רֹאשָֽׁם׃"
+pericope: "[[Jer.14.1 Drought, Famine, Sword, and Plague|Drought, Famine, Sword, and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DROUGHT|DROUGHT]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H2865]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H1653]]"
+- "[[H0776G]]"
+- "[[H0954]]"
+- "[[H0406]]"
+- "[[H2645]]"
+- "[[H7218A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 14:4**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads.
 <small><sub>**BSB:**</sub></small>
 The ground is cracked because no rain has fallen on the land. The farmers are ashamed; they cover their heads.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H5668\|עֲב֤וּר]] [[H9009\|הָ]][[H0127G\|אֲדָמָה֙]] [[H2865\|חַ֔תָּה]] [[H3588A\|כִּ֛י]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H1653\|גֶ֖שֶׁם]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H0954\|בֹּ֥שׁוּ]] [[H0406\|אִכָּרִ֖ים]] [[H2645\|חָפ֥וּ]] [[H7218A\|רֹאשָֽׁ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DROUGHT|DROUGHT]] • [[topic FAMINE|FAMINE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.3|<< Jeremiah 14:3]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.5|Jeremiah 14:5 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Job 16:10
+type: Verse
+kjv: "They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me."
+bsb: "They open their mouths against me and strike my cheeks with contempt; they join together against me."
+hebrew: "פָּעֲר֬וּ עָלַ֨י׀ בְּפִיהֶ֗ם בְּ֭חֶרְפָּה הִכּ֣וּ לְחָיָ֑י יַ֝֗חַד עָלַ֥י יִתְמַלָּאֽוּן׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H6473]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9028]]"
+- "[[H2781]]"
+- "[[H5221]]"
+- "[[H3895H]]"
+- "[[H9020]]"
+- "[[H3162A]]"
+- "[[H4390]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:10**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.
 <small><sub>**BSB:**</sub></small>
 They open their mouths against me and strike my cheeks with contempt; they join together against me.
+<small><sub>**Hebrew:**</sub></small>
+[[H6473\|פָּעֲר֬וּ]] [[H5921A\|עָלַ֨]][[H9030\|י]][[H9015\|׀]] [[H9003\|בְּ]][[H6310G\|פִי]][[H9028\|הֶ֗ם]] [[H9003\|בְּ֭]][[H2781\|חֶרְפָּה]] [[H5221\|הִכּ֣וּ]] [[H3895H\|לְחָיָ֑]][[H9020\|י]] [[H3162A\|יַ֝֗חַד]] [[H5921A\|עָלַ֥]][[H9030\|י]] [[H4390\|יִתְמַלָּאֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.9|<< Job 16:9]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.11|Job 16:11 >>]]</td></tr></table>
 

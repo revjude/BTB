@@ -1,8 +1,56 @@
+---
+title: Exodus 22:20
+type: Verse
+kjv: "He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed."
+bsb: "If anyone sacrifices to any god other than the LORD alone, he must be set apart for destruction."
+hebrew: "זֹבֵ֥חַ לָאֱלֹהִ֖ים יָֽחֳרָ֑ם בִּלְתִּ֥י לַיהוָ֖ה לְבַדּֽוֹ׃"
+pericope: "[[Exod.22.16 Laws of Social Responsibility|Laws of Social Responsibility]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+strongs:
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H0430]]"
+- "[[H2763A]]"
+- "[[H1115]]"
+- "[[H3068G]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 22:20**<big><big>[[Exod.22.16 Laws of Social Responsibility|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that sacrificeth unto [any] god, save unto the LORD only, he shall be utterly destroyed.
 <small><sub>**BSB:**</sub></small>
 If anyone sacrifices to any god other than the LORD alone, he must be set apart for destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H2076\|זֹבֵ֥חַ]] [[H9005\|לָ]][[H0430\|אֱלֹהִ֖ים]] [[H2763A\|יָֽחֳרָ֑ם]] [[H1115\|בִּלְתִּ֥י]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9005\|לְ]][[H0905H\|בַדּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic PUNISHMENT|PUNISHMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.19|<< Exodus 22:19]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.21|Exodus 22:21 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Joshua 8:20
+type: Verse
+kjv: "And when the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers."
+bsb: "When the men of Ai turned and looked back, the smoke of the city was rising into the sky. They could not escape in any direction, and the troops who had fled to the wilderness now turned against their pursuers."
+hebrew: "וַיִּפְנ֣וּ אַנְשֵׁי֩ הָעַ֨י אַחֲרֵיהֶ֜ם וַיִּרְא֗וּ וְהִנֵּ֨ה עָלָ֜ה עֲשַׁ֤ן הָעִיר֙ הַשָּׁמַ֔יְמָה וְלֹא־ הָיָ֨ה בָהֶ֥ם יָדַ֛יִם לָנ֖וּס הֵ֣נָּה וָהֵ֑נָּה וְהָעָם֙ הַנָּ֣ס הַמִּדְבָּ֔ר נֶהְפַּ֖ךְ אֶל־ הָרוֹדֵֽף׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H7200I]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5927G]]"
+- "[[H6227]]"
+- "[[H5892B]]"
+- "[[H8064]]"
+- "[[H9011]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9005]]"
+- "[[H5127]]"
+- "[[H2008]]"
+- "[[H5971A]]"
+- "[[H4057B]]"
+- "[[H2015]]"
+- "[[H0413]]"
+- "[[H7291]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:20**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the men of Ai looked behind them, they saw, and, behold, the smoke of the city ascended up to heaven, and they had no power to flee this way or that way: and the people that fled to the wilderness turned back upon the pursuers.
 <small><sub>**BSB:**</sub></small>
 When the men of Ai turned and looked back, the smoke of the city was rising into the sky. They could not escape in any direction, and the troops who had fled to the wilderness now turned against their pursuers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּפְנ֣וּ]] [[H0582\|אַנְשֵׁי֩]] [[H9009\|הָ]][[H5857G\|עַ֨י]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֜ם]] [[H9001\|וַ]][[H7200I\|יִּרְא֗וּ]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H5927G\|עָלָ֜ה]] [[H6227\|עֲשַׁ֤ן]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יְמָ]][[H9011\|ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָיָ֨ה]] [[H9003\|בָ]][[H9038\|הֶ֥ם]] [[H3027H\|יָדַ֛יִם]] [[H9005\|לָ]][[H5127\|נ֖וּס]] [[H2008\|הֵ֣נָּה]] [[H9002\|וָ]][[H2008\|הֵ֑נָּה]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָם֙]] [[H9009\|הַ]][[H5127\|נָּ֣ס]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֔ר]] [[H2015\|נֶהְפַּ֖ךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H7291\|רוֹדֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.19|<< Joshua 8:19]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.21|Joshua 8:21 >>]]</td></tr></table>
 

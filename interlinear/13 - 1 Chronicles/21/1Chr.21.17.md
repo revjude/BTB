@@ -1,8 +1,85 @@
+---
+title: 1 Chronicles 21:17
+type: Verse
+kjv: "And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done evil indeed; but as for these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father’s house; but not on thy people, that they should be plagued."
+bsb: "And David said to God, “Was it not I who gave the order to count the people? I am the one who has sinned and acted wickedly. But these sheep, what have they done? O LORD my God, please let Your hand fall upon me and my father’s house, but do not let this plague remain upon Your people.”"
+hebrew: "וַיֹּ֣אמֶר דָּוִ֣יד אֶֽל־ הָאֱלֹהִ֡ים הֲלֹא֩ אֲנִ֨י אָמַ֜רְתִּי לִמְנ֣וֹת בָּעָ֗ם וַאֲנִי־ ה֤וּא הָֽרֹעֶה אֲשֶׁר־ חָטָ֙אתִי֙ וְהָרֵ֣עַ הֲרֵע֔וֹתִי וְאֵ֥לֶּה הַצֹּ֖אן מֶ֣ה עָשׂ֑וּ יְהוָ֣ה אֱלֹהַ֗י תְּהִ֨י נָ֤א יָֽדְךָ֙ בִּ֚י וּבְבֵ֣ית אָבִ֔י וּֽבְעַמְּךָ֖ לֹ֥א לְמַגֵּפָֽה׃ ס"
+pericope: "[[1Chr.21.14 A Plague on Israel|A Plague on Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARAUNAH|ARAUNAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NATION|NATION]]"
+- "[[topic ORNAN|ORNAN]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0589]]"
+- "[[H9005]]"
+- "[[H4487]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H7462B]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H7489A]]"
+- "[[H0428]]"
+- "[[H6629G]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9020]]"
+- "[[H1961]]"
+- "[[H4994]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9030]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H4046]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- X
+---
+
 **1 Chronicles 21:17**<big><big>[[1Chr.21.14 A Plague on Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto God, [Is it] not I [that] commanded the people to be numbered? even I it is that have sinned and done evil indeed; but [as for] these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father’s house; but not on thy people, that they should be plagued.
 <small><sub>**BSB:**</sub></small>
 And David said to God, “Was it not I who gave the order to count the people? I am the one who has sinned and acted wickedly. But these sheep, what have they done? O LORD my God, please let Your hand fall upon me and my father’s house, but do not let this plague remain upon Your people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֣יד]] [[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֡ים]] [[H9008\|הֲ]][[H3808\|לֹא֩]] [[H0589\|אֲנִ֨י]] [[H0559\|אָמַ֜רְתִּי]] [[H9005\|לִ]][[H4487\|מְנ֣וֹת]] [[H9003\|בָּ]][[H5971A\|עָ֗ם]] [[H9002\|וַ]][[H0589\|אֲנִי]][[H9014\|־]] [[H1931\|ה֤וּא]] [[H9009\|הָֽ]][[H7462B\|רֹעֶה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2398\|חָטָ֙אתִי֙]] [[H9002\|וְ]][[H7489A\|הָרֵ֣עַ]] [[H7489A\|הֲרֵע֔וֹתִי]] [[H9002\|וְ]][[H0428\|אֵ֥לֶּה]] [[H9009\|הַ]][[H6629G\|צֹּ֖אן]] [[H4100\|מֶ֣ה]] [[H6213A\|עָשׂ֑וּ]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהַ֗]][[H9020\|י]] [[H1961\|תְּהִ֨י]] [[H4994\|נָ֤א]] [[H3027H\|יָֽדְ]][[H9021\|ךָ֙]] [[H9003\|בִּ֚]][[H9030\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H9002\|וּֽ]][[H9003\|בְ]][[H5971A\|עַמְּ]][[H9021\|ךָ֖]] [[H3808\|לֹ֥א]] [[H9005\|לְ]][[H4046\|מַגֵּפָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAUNAH|ARAUNAH]] • [[topic MIRACLES|MIRACLES]] • [[topic NATION|NATION]] • [[topic ORNAN|ORNAN]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SHEEP|SHEEP]] • [[topic SIN|SIN]] • [[topic UNSELFISHNESS|UNSELFISHNESS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.16|<< 1 Chronicles 21:16]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.18|1 Chronicles 21:18 >>]]</td></tr></table>
 
@@ -38,7 +115,7 @@ And David said to God, “Was it not I who gave the order to count the people? I
 | father my  |**<big>&#8207;[[H0001G\|אָבִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.V<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and on people your  |**<big>&#8207;[[H9002\|וּֽ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H5971A\|עַמְּ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HR]]</sup></small> 'a.me.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to a plague  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4046\|מַגֵּפָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.ge.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to a plague  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4046\|מַגֵּפָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ma.ge.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.16|<< 1 Chronicles 21:16]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.18|1 Chronicles 21:18 >>]]</td></tr></table>
 
 

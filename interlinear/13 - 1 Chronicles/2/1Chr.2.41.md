@@ -1,8 +1,50 @@
+---
+title: 1 Chronicles 2:41
+type: Verse
+kjv: "And Shallum begat Jekamiah, and Jekamiah begat Elishama."
+bsb: "Shallum was the father of Jekamiah, and Jekamiah was the father of Elishama."
+hebrew: "וְשַׁלּוּם֙ הוֹלִ֣יד אֶת־ יְקַמְיָ֔ה וִֽיקַמְיָ֖ה הֹלִ֥יד אֶת־ אֱלִישָׁמָֽע׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ELISHAMA|ELISHAMA]]"
+- "[[topic JEKAMIAH|JEKAMIAH]]"
+- "[[topic SHALLUM|SHALLUM]]"
+strongs:
+- "[[H9002]]"
+- "[[H7967I]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3359G]]"
+- "[[H0476J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:41**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shallum begat Jekamiah, and Jekamiah begat Elishama.
 <small><sub>**BSB:**</sub></small>
 Shallum was the father of Jekamiah, and Jekamiah was the father of Elishama.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7967I\|שַׁלּוּם֙]] [[H3205\|הוֹלִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H3359G\|יְקַמְיָ֔ה]] [[H9002\|וִֽ]][[H3359G\|יקַמְיָ֖ה]] [[H3205\|הֹלִ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H0476J\|אֱלִישָׁמָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHAMA|ELISHAMA]] • [[topic JEKAMIAH|JEKAMIAH]] • [[topic SHALLUM|SHALLUM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.40|<< 1 Chronicles 2:40]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.42|1 Chronicles 2:42 >>]]</td></tr></table>
 

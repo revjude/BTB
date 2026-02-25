@@ -1,10 +1,72 @@
+---
+title: Revelation 9:17
+type: Verse
+kjv: "And thus I saw the horses in the vision, and them that sat on them, having breastplates of fire, and of jacinth, and brimstone: and the heads of the horses were as the heads of lions; and out of their mouths issued fire and smoke and brimstone."
+bsb: "Now the horses and riders in my vision looked like this: The riders had breastplates the colors of fire, sapphire, and sulfur. The heads of the horses were like the heads of lions, and out of their mouths proceeded fire, smoke, and sulfur."
+greek: "Καὶ οὕτως εἶδον τοὺς ἵππους ἐν τῇ ὁράσει καὶ τοὺς καθημένους ἐπ᾽ αὐτῶν ἔχοντας θώρακας πυρίνους καὶ ὑακινθίνους καὶ θειώδεις. καὶ αἱ κεφαλαὶ τῶν ἵππων ὡς κεφαλαὶ λεόντων, καὶ ἐκ τῶν στομάτων αὐτῶν ἐκπορεύεται πῦρ καὶ καπνὸς καὶ θεῖον."
+pericope: "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 9
+book/chapter: "[[Rev.9|Revelation 9]]"
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BREASTPLATE|BREASTPLATE]]"
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic CAVALRY|CAVALRY]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic JACINTH|JACINTH]]"
+- "[[topic LION|LION]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3779]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G2462]]"
+- "[[G1722]]"
+- "[[G3706]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G2382]]"
+- "[[G4447]]"
+- "[[G5191]]"
+- "[[G2306]]"
+- "[[G2776]]"
+- "[[G5613]]"
+- "[[G3023]]"
+- "[[G1537]]"
+- "[[G4750]]"
+- "[[G1607]]"
+- "[[G4442]]"
+- "[[G2586]]"
+- "[[G2303]]"
+texts:
+- NKO
+---
+
 **Revelation 9:17**<big><big>[[Rev.9.13 The Sixth Trumpet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And thus I saw the horses in the vision, and them that sat on them, having breastplates of fire, and of jacinth, and brimstone: and the heads of the horses [were] as the heads of lions; and out of their mouths issued fire and smoke and brimstone.
 <small><sub>**BSB:**</sub></small>
 Now the horses and riders in my vision looked like this: The riders had breastplates the colors of fire, sapphire, and sulfur. The heads of the horses were like the heads of lions, and out of their mouths proceeded fire, smoke, and sulfur.
-<small><sub>**Literal:**</sub></small>
-And thus I saw the horses in the vision and those sitting on them having breastplates fiery and hyacinthine and brimstone. And the heads of the horses [were] like heads of lions, and out of the mouths of them proceed fire and smoke and brimstone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.16|<< Revelation 9:16]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.18|Revelation 9:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3779\|οὕτως]]  [[G1492H\|εἶδον]]  [[G3588\|τοὺς]]  [[G2462\|ἵππους]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3706\|ὁράσει]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G2521\|καθημένους]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτῶν]]  [[G2192\|ἔχοντας]]  [[G2382\|θώρακας]]  [[G4447\|πυρίνους]]  [[G2532\|καὶ]]  [[G5191\|ὑακινθίνους]]  [[G2532\|καὶ]]  [[G2306\|θειώδεις.]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G2776\|κεφαλαὶ]]  [[G3588\|τῶν]]  [[G2462\|ἵππων]]  [[G5613\|ὡς]]  [[G2776\|κεφαλαὶ]]  [[G3023\|λεόντων,]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G4750\|στομάτων]]  [[G0846\|αὐτῶν]]  [[G1607\|ἐκπορεύεται]]  [[G4442\|πῦρ]]  [[G2532\|καὶ]]  [[G2586\|καπνὸς]]  [[G2532\|καὶ]]  [[G2303\|θεῖον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREASTPLATE|BREASTPLATE]] • [[topic BRIMSTONE|BRIMSTONE]] • [[topic CAVALRY|CAVALRY]] • [[topic HORSE|HORSE]] • [[topic JACINTH|JACINTH]] • [[topic LION|LION]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.9.16|<< Revelation 9:16]]</td><td align="center" style="border:none;">[[Rev.9|Revelation 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.9.18|Revelation 9:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

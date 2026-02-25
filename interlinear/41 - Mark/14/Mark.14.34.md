@@ -1,10 +1,57 @@
+---
+title: Mark 14:34
+type: Verse
+kjv: "And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, and watch."
+bsb: "Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch.”"
+jesus_said: "My soul is exceeding sorrowful unto death: tarry ye here, and watch."
+greek: "καὶ λέγει αὐτοῖς· περίλυπός ἐστιν ἡ ψυχή μου ἕως θανάτου. μείνατε ὧδε καὶ γρηγορεῖτε."
+pericope: "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4036]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5590I]]"
+- "[[G3165]]"
+- "[[G2193]]"
+- "[[G2288]]"
+- "[[G3306]]"
+- "[[G5602]]"
+- "[[G1127]]"
+texts:
+- NKO
+---
+
 **Mark 14:34**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saith unto them, My soul is exceeding sorrowful unto death: tarry ye here, and watch.
 <small><sub>**BSB:**</sub></small>
 Then He said to them, “My soul is consumed with sorrow to the point of death. Stay here and keep watch.”
-<small><sub>**Literal:**</sub></small>
-And He says to them; Very sorrowful is the soul of Mine until death. do remain here and do watch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.33|<< Mark 14:33]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.35|Mark 14:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G4036\|περίλυπός]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G5590I\|ψυχή]]  [[G3165\|μου]]  [[G2193\|ἕως]]  [[G2288\|θανάτου.]]  [[G3306\|μείνατε]]  [[G5602\|ὧδε]]  [[G2532\|καὶ]]  [[G1127\|γρηγορεῖτε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.33|<< Mark 14:33]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.35|Mark 14:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 14:34** is...
 > $\quad$ referencing: [[LXX.Ps.42.5|Ps 42:5]][[LXX.Ps.42.11|, 11]] ☩ [[LXX.Ps.43.5|Ps 43:5]]

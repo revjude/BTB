@@ -1,10 +1,49 @@
+---
+title: 1 Corinthians 16:16
+type: Verse
+kjv: "That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth."
+bsb: "to submit to such as these, and to every fellow worker and laborer."
+greek: "ἵνα καὶ ὑμεῖς ὑποτάσσησθε τοῖς τοιούτοις καὶ παντὶ τῷ συνεργοῦντι καὶ κοπιῶντι.¶"
+pericope: "[[1Cor.16.13 Concluding Exhortations|Concluding Exhortations]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2443]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G5293]]"
+- "[[G3588]]"
+- "[[G5108]]"
+- "[[G3956]]"
+- "[[G4903]]"
+- "[[G2872]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:16**<big><big>[[1Cor.16.13 Concluding Exhortations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye submit yourselves unto such, and to every one that helpeth with [us], and laboureth.
 <small><sub>**BSB:**</sub></small>
 to submit to such as these, and to every fellow worker and laborer.
-<small><sub>**Literal:**</sub></small>
-that also you yourselves may be subject <the> to such as these and to everyone who is joining in the work and laboring.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.15|<< 1 Corinthians 16:15]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.17|1 Corinthians 16:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G5293\|ὑποτάσσησθε]]  [[G3588\|τοῖς]]  [[G5108\|τοιούτοις]]  [[G2532\|καὶ]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G4903\|συνεργοῦντι]]  [[G2532\|καὶ]]  [[G2872\|κοπιῶντι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.15|<< 1 Corinthians 16:15]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.17|1 Corinthians 16:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

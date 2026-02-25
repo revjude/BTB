@@ -1,8 +1,70 @@
+---
+title: Exodus 29:21
+type: Verse
+kjv: "And thou shalt take of the blood that is upon the altar, and of the anointing oil, and sprinkle it upon Aaron, and upon his garments, and upon his sons, and upon the garments of his sons with him: and he shall be hallowed, and his garments, and his sons, and his sons’ garments with him."
+bsb: "And take some of the blood on the altar and some of the anointing oil and sprinkle it on Aaron and his garments, as well as on his sons and their garments. Then he and his garments will be consecrated, as well as his sons and their garments."
+hebrew: "וְלָקַחְתָּ֞ מִן־ הַדָּ֨ם אֲשֶׁ֥ר עַֽל־ הַמִּזְבֵּחַ֮ וּמִשֶּׁ֣מֶן הַמִּשְׁחָה֒ וְהִזֵּיתָ֤ עַֽל־ אַהֲרֹן֙ וְעַל־ בְּגָדָ֔יו וְעַל־ בָּנָ֛יו וְעַל־ בִּגְדֵ֥י בָנָ֖יו אִתּ֑וֹ וְקָדַ֥שׁ הוּא֙ וּבְגָדָ֔יו וּבָנָ֛יו וּבִגְדֵ֥י בָנָ֖יו אִתּֽוֹ׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H8081]]"
+- "[[H4888A]]"
+- "[[H5137A]]"
+- "[[H0175]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H1121A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H6942G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:21**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take of the blood that [is] upon the altar, and of the anointing oil, and sprinkle [it] upon Aaron, and upon his garments, and upon his sons, and upon the garments of his sons with him: and he shall be hallowed, and his garments, and his sons, and his sons’ garments with him.
 <small><sub>**BSB:**</sub></small>
 And take some of the blood on the altar and some of the anointing oil and sprinkle it on Aaron and his garments, as well as on his sons and their garments. Then he and his garments will be consecrated, as well as his sons and their garments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֞]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֨ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּחַ֮]] [[H9002\|וּ]][[H9006\|מִ]][[H8081\|שֶּׁ֣מֶן]] [[H9009\|הַ]][[H4888A\|מִּשְׁחָה֒]] [[H9001\|וְ]][[H5137A\|הִזֵּיתָ֤]] [[H5921A\|עַֽל]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0899B\|בְּגָדָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנָ֛י]][[H9023\|ו]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0899B\|בִּגְדֵ֥י]] [[H1121A\|בָנָ֖י]][[H9023\|ו]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H6942G\|קָדַ֥שׁ]] [[H1931\|הוּא֙]] [[H9002\|וּ]][[H0899B\|בְגָדָ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H1121A\|בָנָ֛י]][[H9023\|ו]] [[H9002\|וּ]][[H0899B\|בִגְדֵ֥י]] [[H1121A\|בָנָ֖י]][[H9023\|ו]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.20|<< Exodus 29:20]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.22|Exodus 29:22 >>]]</td></tr></table>
 

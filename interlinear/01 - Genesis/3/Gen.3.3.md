@@ -1,8 +1,74 @@
+---
+title: Genesis 3:3
+type: Verse
+kjv: "But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die."
+bsb: "but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’”"
+hebrew: "וּמִפְּרִ֣י הָעֵץ֮ אֲשֶׁ֣ר בְּתוֹךְ־ הַגָּן֒ אָמַ֣ר אֱלֹהִ֗ים לֹ֤א תֹֽאכְלוּ֙ מִמֶּ֔נּוּ וְלֹ֥א תִגְּע֖וּ בּ֑וֹ פֶּן־ תְּמֻתֽוּן׃"
+pericope: "[[Gen.3.1 The Serpent’s Deception|The Serpent’s Deception]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic TREE|TREE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H6529]]"
+- "[[H9009]]"
+- "[[H6086H]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9014]]"
+- "[[H1588M]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H5060]]"
+- "[[H6435]]"
+- "[[H4191]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 3:3**<big><big>[[Gen.3.1 The Serpent’s Deception|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But of the fruit of the tree which [is] in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
 <small><sub>**BSB:**</sub></small>
 but about the fruit of the tree in the middle of the garden, God has said, ‘You must not eat of it or touch it, or you will die.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H6529\|פְּרִ֣י]] [[H9009\|הָ]][[H6086H\|עֵץ֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הַ]][[H1588M\|גָּן֒]] [[H0559\|אָמַ֣ר]] [[H0430G\|אֱלֹהִ֗ים]] [[H3808\|לֹ֤א]] [[H0398\|תֹֽאכְלוּ֙]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5060\|תִגְּע֖וּ]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H6435\|פֶּן]][[H9014\|־]] [[H4191\|תְּמֻתֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINGENCIES|CONTINGENCIES]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic INFLUENCE|INFLUENCE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PROBATION|PROBATION]] • [[topic SERPENT|SERPENT]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic TREE|TREE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.2|<< Genesis 3:2]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.4|Genesis 3:4 >>]]</td></tr></table>
 

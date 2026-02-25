@@ -1,8 +1,54 @@
+---
+title: Zechariah 11:4
+type: Verse
+kjv: "Thus saith the LORD my God; Feed the flock of the slaughter;"
+bsb: "This is what the LORD my God says: “Pasture the flock marked for slaughter,"
+hebrew: "כֹּ֥ה אָמַ֖ר יְהוָ֣ה אֱלֹהָ֑י רְעֵ֖ה אֶת־ צֹ֥אן הַהֲרֵגָֽה׃"
+pericope: "[[Zech.11.1 The Doomed Flock|The Doomed Flock]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 11
+book/chapter: "[[Zech.11|Zechariah 11]]"
+chronological_order: 867
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H7462B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H9009]]"
+- "[[H2028H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 11:4**<big><big>[[Zech.11.1 The Doomed Flock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD my God; Feed the flock of the slaughter;
 <small><sub>**BSB:**</sub></small>
 This is what the LORD my God says: “Pasture the flock marked for slaughter,
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H7462B\|רְעֵ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹ֥אן]] [[H9009\|הַ]][[H2028H\|הֲרֵגָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.3|<< Zechariah 11:3]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.5|Zechariah 11:5 >>]]</td></tr></table>
 

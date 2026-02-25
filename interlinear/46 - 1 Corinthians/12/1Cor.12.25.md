@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 12:25
+type: Verse
+kjv: "That there should be no schism in the body; but that the members should have the same care one for another."
+bsb: "so that there should be no division in the body, but that its members should have mutual concern for one another."
+greek: "ἵνα μὴ ᾖ σχίσμα ἐν τῷ σώματι, ἀλλὰ τὸ αὐτὸ ὑπὲρ ἀλλήλων μεριμνῶσιν τὰ μέλη·"
+pericope: "[[1Cor.12.12 The Body of Christ|The Body of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G4978]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G0235]]"
+- "[[G0846]]"
+- "[[G5228]]"
+- "[[G0240]]"
+- "[[G3309]]"
+- "[[G3196]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 12:25**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That there should be no schism in the body; but [that] the members should have the same care one for another.
 <small><sub>**BSB:**</sub></small>
 so that there should be no division in the body, but that its members should have mutual concern for one another.
-<small><sub>**Literal:**</sub></small>
-so that not there may be division in the body, but the same for one another may have concern the members;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.24|<< 1 Corinthians 12:24]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.26|1 Corinthians 12:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1510\|ᾖ]]  [[G4978\|σχίσμα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4983\|σώματι,]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G5228\|ὑπὲρ]]  [[G0240\|ἀλλήλων]]  [[G3309\|μεριμνῶσιν]]  [[G3588\|τὰ]]  [[G3196\|μέλη·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.24|<< 1 Corinthians 12:24]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.26|1 Corinthians 12:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

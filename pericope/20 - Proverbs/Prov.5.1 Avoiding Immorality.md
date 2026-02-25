@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Avoiding Immorality
+type: Pericope
 pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 5
 book/chapter: "[[Prov.5|Proverbs 5]]"
-genre:
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 23
 verses:
 - "[[Prov.5.1]]"
 - "[[Prov.5.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Prov.5.23]]"
 ---
 
-[[Prov.5|Proverbs 5:1 - Proverbs 5:23]]
+<small>[[Prov.5|Proverbs 5:1-23]]</small>
 *Avoiding Immorality*
 
 [[Prov.5.1|1]] My son, attend unto my wisdom, \[and\] bow thine ear to my understanding:

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Edom
+type: Pericope
 pericope: "[[Ezek.25.12 A Prophecy against Edom|A Prophecy against Edom]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 25
 book/chapter: "[[Ezek.25|Ezekiel 25]]"
-genre:
+chronological_order: 816
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,13 +24,14 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 3
 verses:
 - "[[Ezek.25.12]]"
 - "[[Ezek.25.13]]"
 - "[[Ezek.25.14]]"
 ---
 
-[[Ezek.25|Ezekiel 25:12 - Ezekiel 25:14]]
+<small>[[Ezek.25|Ezekiel 25:12-14]]</small>
 *A Prophecy against Edom*
 
 [[Ezek.25.12|12]] Thus saith the Lord GOD; Because that Edom hath dealt against the house of Judah by taking vengeance, and hath greatly offended, and revenged himself upon them;

@@ -1,8 +1,62 @@
+---
+title: Exodus 28:37
+type: Verse
+kjv: "And thou shalt put it on a blue lace, that it may be upon the mitre; upon the forefront of the mitre it shall be."
+bsb: "Fasten to it a blue cord to mount it on the turban; it shall be on the front of the turban."
+hebrew: "וְשַׂמְתָּ֤ אֹתוֹ֙ עַל־ פְּתִ֣יל תְּכֵ֔לֶת וְהָיָ֖ה עַל־ הַמִּצְנָ֑פֶת אֶל־ מ֥וּל פְּנֵֽי־ הַמִּצְנֶ֖פֶת יִהְיֶֽה׃"
+pericope: "[[Exod.28.31 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic MITER|MITER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6616]]"
+- "[[H8504]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4701]]"
+- "[[H0413]]"
+- "[[H4136]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:37**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put it on a blue lace, that it may be upon the mitre; upon the forefront of the mitre it shall be.
 <small><sub>**BSB:**</sub></small>
 Fasten to it a blue cord to mount it on the turban; it shall be on the front of the turban.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760H\|שַׂמְתָּ֤]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6616\|פְּתִ֣יל]] [[H8504\|תְּכֵ֔לֶת]] [[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4701\|מִּצְנָ֑פֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H4136\|מ֥וּל]] [[H6440G\|פְּנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H4701\|מִּצְנֶ֖פֶת]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic MITER|MITER]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.36|<< Exodus 28:36]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.38|Exodus 28:38 >>]]</td></tr></table>
 

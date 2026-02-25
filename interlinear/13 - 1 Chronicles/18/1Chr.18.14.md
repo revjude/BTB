@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 18:14
+type: Verse
+kjv: "So David reigned over all Israel, and executed judgment and justice among all his people."
+bsb: "Thus David reigned over all Israel and administered justice and righteousness for all his people:"
+hebrew: "וַיִּמְלֹ֥ךְ דָּוִ֖יד עַל־ כָּל־ יִשְׂרָאֵ֑ל וַיְהִ֗י עֹשֶׂ֛ה מִשְׁפָּ֥ט וּצְדָקָ֖ה לְכָל־ עַמּֽוֹ׃"
+pericope: "[[1Chr.18.14 David’s Officers|David’s Officers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 18
+book/chapter: "[[1Chr.18|1 Chronicles 18]]"
+chronological_order: 405
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 18:14**<big><big>[[1Chr.18.14 David’s Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David reigned over all Israel, and executed judgment and justice among all his people.
 <small><sub>**BSB:**</sub></small>
 Thus David reigned over all Israel and administered justice and righteousness for all his people:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4427A\|יִּמְלֹ֥ךְ]] [[H1732\|דָּוִ֖יד]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H6213A\|עֹשֶׂ֛ה]] [[H4941H\|מִשְׁפָּ֥ט]] [[H9002\|וּ]][[H6666\|צְדָקָ֖ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.13|<< 1 Chronicles 18:13]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.15|1 Chronicles 18:15 >>]]</td></tr></table>
 

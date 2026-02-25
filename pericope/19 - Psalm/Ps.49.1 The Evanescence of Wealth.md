@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Evanescence of Wealth
+type: Pericope
 pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 49
 book/chapter: "[[Ps.49|Psalm 49]]"
-genre:
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 21
 verses:
 - "[[Ps.49.0]]"
 - "[[Ps.49.1]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Ps.49.20]]"
 ---
 
-[[Ps.49|Psalm 49:1 - Psalm 49:20]]
+<small>[[Ps.49|Psalm 49:1-20]]</small>
 *The Evanescence of Wealth*
 
 [[Ps.49.0|0]] To the chief Musician, A Psalm for the sons of Korah.

@@ -1,10 +1,50 @@
+---
+title: 2 Timothy 1:4
+type: Verse
+kjv: "Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy;"
+bsb: "Recalling your tears, I long to see you so that I may be filled with joy."
+greek: "ἐπιποθῶν σε ἰδεῖν, μεμνημένος σου τῶν δακρύων, ἵνα χαρᾶς πληρωθῶ"
+pericope: "[[2Tim.1.3 Faithfulness under Persecution|Faithfulness under Persecution]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+strongs:
+- "[[G1971]]"
+- "[[G4771]]"
+- "[[G1492H]]"
+- "[[G3403]]"
+- "[[G3588]]"
+- "[[G1144]]"
+- "[[G2443]]"
+- "[[G5479]]"
+- "[[G4137]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:4**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Greatly desiring to see thee, being mindful of thy tears, that I may be filled with joy;
 <small><sub>**BSB:**</sub></small>
 Recalling your tears, I long to see you so that I may be filled with joy.
-<small><sub>**Literal:**</sub></small>
-longing you to see, having yourself recalled your <the> tears, so that with joy I may be filled<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.3|<< 2 Timothy 1:3]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.5|2 Timothy 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1971\|ἐπιποθῶν]]  [[G4771\|σε]]  [[G1492H\|ἰδεῖν,]]  [[G3403\|μεμνημένος]]  [[G4771\|σου]]  [[G3588\|τῶν]]  [[G1144\|δακρύων,]]  [[G2443\|ἵνα]]  [[G5479\|χαρᾶς]]  [[G4137\|πληρωθῶ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic TIMOTHY|TIMOTHY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.3|<< 2 Timothy 1:3]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.5|2 Timothy 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

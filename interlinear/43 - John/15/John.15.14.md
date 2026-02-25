@@ -1,10 +1,58 @@
+---
+title: John 15:14
+type: Verse
+kjv: "Ye are my friends, if ye do whatsoever I command you."
+bsb: "You are My friends if you do what I command you."
+jesus_said: "Ye are my friends, if ye do whatsoever I command you."
+greek: "ὑμεῖς φίλοι μού ἐστε ἐὰν ποιῆτε ἃ ὅσα ἐγὼ ἐντέλλομαι ὑμῖν."
+pericope: "[[John.15.9 No Greater Love|No Greater Love]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4771]]"
+- "[[G5384]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G1437]]"
+- "[[G4160G]]"
+- "[[G3739]]"
+- "[[G3745]]"
+- "[[G1473]]"
+- "[[G1781]]"
+texts:
+- NKO
+- n(o)
+- K
+---
+
 **John 15:14**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye are my friends, if ye do whatsoever I command you.
 <small><sub>**BSB:**</sub></small>
 You are My friends if you do what I command you.
-<small><sub>**Literal:**</sub></small>
-You yourselves friends of Mine are if you shall do what things as much as I myself command you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.13|<< John 15:13]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.15|John 15:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G5384\|φίλοι]]  [[G3165\|μού]]  [[G1510\|ἐστε]]  [[G1437\|ἐὰν]]  [[G4160G\|ποιῆτε]]  [[G3739\|ἃ]]  [[G3745\|ὅσα]]  [[G1473\|ἐγὼ]]  [[G1781\|ἐντέλλομαι]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic FRIENDS|FRIENDS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.13|<< John 15:13]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.15|John 15:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

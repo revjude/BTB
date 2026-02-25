@@ -1,8 +1,54 @@
+---
+title: Proverbs 4:21
+type: Verse
+kjv: "Let them not depart from thine eyes; keep them in the midst of thine heart."
+bsb: "Do not lose sight of them; keep them within your heart."
+hebrew: "אַל־ יַלִּ֥יזוּ מֵעֵינֶ֑יךָ שָׁ֝מְרֵ֗ם בְּת֣וֹךְ לְבָבֶֽךָ׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3868]]"
+- "[[H9006]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H8104G]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H3824]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:21**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them not depart from thine eyes; keep them in the midst of thine heart.
 <small><sub>**BSB:**</sub></small>
 Do not lose sight of them; keep them within your heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H3868\|יַלִּ֥יזוּ]] [[H9006\|מֵ]][[H5869H\|עֵינֶ֑י]][[H9021\|ךָ]] [[H8104G\|שָׁ֝מְרֵ֗]][[H9038\|ם]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H3824\|לְבָבֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.20|<< Proverbs 4:20]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.22|Proverbs 4:22 >>]]</td></tr></table>
 

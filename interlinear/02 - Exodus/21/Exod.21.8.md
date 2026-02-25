@@ -1,8 +1,73 @@
+---
+title: Exodus 21:8
+type: Verse
+kjv: "If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her."
+bsb: "If she is displeasing in the eyes of her master who had designated her for himself, he must allow her to be redeemed. He has no right to sell her to foreigners, since he has broken faith with her."
+hebrew: "אִם־ רָעָ֞ה בְּעֵינֵ֧י אֲדֹנֶ֛יהָ אֲשֶׁר־ ל֥וֹ יְעָדָ֖הּ וְהֶפְדָּ֑הּ לְעַ֥ם נָכְרִ֛י לֹא־ יִמְשֹׁ֥ל לְמָכְרָ֖הּ בְּבִגְדוֹ־ בָֽהּ׃"
+pericope: "[[Exod.21.1 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic DAUGHTER|DAUGHTER]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7489A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H0113]]"
+- "[[H9024]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3259]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H6299]]"
+- "[[H5971A]]"
+- "[[H5237]]"
+- "[[H4910]]"
+- "[[H4376]]"
+- "[[H0898]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Exodus 21:8**<big><big>[[Exod.21.1 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If she please not her master, who hath betrothed her to himself, then shall he let her be redeemed: to sell her unto a strange nation he shall have no power, seeing he hath dealt deceitfully with her.
 <small><sub>**BSB:**</sub></small>
 If she is displeasing in the eyes of her master who had designated her for himself, he must allow her to be redeemed. He has no right to sell her to foreigners, since he has broken faith with her.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7489A\|רָעָ֞ה]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֧י]] [[H0113\|אֲדֹנֶ֛י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H3259\|יְעָדָ֖]][[H9034\|הּ]] [[H9001\|וְ]][[H6299\|הֶפְדָּ֑]][[H9034\|הּ]] [[H9005\|לְ]][[H5971A\|עַ֥ם]] [[H5237\|נָכְרִ֛י]] [[H3808\|לֹא]][[H9014\|־]] [[H4910\|יִמְשֹׁ֥ל]] [[H9005\|לְ]][[H4376\|מָכְרָ֖]][[H9034\|הּ]] [[H9003\|בְּ]][[H0898\|בִגְד]][[H9043\|וֹ]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic DAUGHTER|DAUGHTER]] • [[topic DIVORCE|DIVORCE]] • [[topic SERVANT|SERVANT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.7|<< Exodus 21:7]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.9|Exodus 21:9 >>]]</td></tr></table>
 

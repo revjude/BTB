@@ -1,8 +1,52 @@
+---
+title: Amos 5:2
+type: Verse
+kjv: "The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; there is none to raise her up."
+bsb: "“Fallen is Virgin Israel, never to rise again. She lies abandoned on her land, with no one to raise her up.”"
+hebrew: "נָֽפְלָה֙ לֹֽא־ תוֹסִ֣יף ק֔וּם בְּתוּלַ֖ת יִשְׂרָאֵ֑ל נִטְּשָׁ֥ה עַל־ אַדְמָתָ֖הּ אֵ֥ין מְקִימָֽהּ׃"
+pericope: "[[Amos.5.1 A Lamentation against Israel|A Lamentation against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+strongs:
+- "[[H5307G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H6965B]]"
+- "[[H1330]]"
+- "[[H3478]]"
+- "[[H5203]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9024]]"
+- "[[H0369]]"
+- "[[H6965H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:2**<big><big>[[Amos.5.1 A Lamentation against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The virgin of Israel is fallen; she shall no more rise: she is forsaken upon her land; [there is] none to raise her up.
 <small><sub>**BSB:**</sub></small>
 “Fallen is Virgin Israel, never to rise again. She lies abandoned on her land, with no one to raise her up.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5307G\|נָֽפְלָה֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|תוֹסִ֣יף]] [[H6965B\|ק֔וּם]] [[H1330\|בְּתוּלַ֖ת]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5203\|נִטְּשָׁ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמָתָ֖]][[H9024\|הּ]] [[H0369\|אֵ֥ין]] [[H6965H\|מְקִימָֽ]][[H9034\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.1|<< Amos 5:1]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.3|Amos 5:3 >>]]</td></tr></table>
 

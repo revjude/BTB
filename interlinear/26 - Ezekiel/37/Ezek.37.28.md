@@ -1,8 +1,66 @@
+---
+title: Ezekiel 37:28
+type: Verse
+kjv: "And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore."
+bsb: "Then the nations will know that I the LORD sanctify Israel, when My sanctuary is among them forever.’”"
+hebrew: "וְיָֽדְעוּ֙ הַגּוֹיִ֔ם כִּ֚י אֲנִ֣י יְהוָ֔ה מְקַדֵּ֖שׁ אֶת־ יִשְׂרָאֵ֑ל בִּהְי֧וֹת מִקְדָּשִׁ֛י בְּתוֹכָ֖ם לְעוֹלָֽם׃ ס"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H1961]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 37:28**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the heathen shall know that I the LORD do sanctify Israel, when my sanctuary shall be in the midst of them for evermore.
 <small><sub>**BSB:**</sub></small>
 Then the nations will know that I the LORD sanctify Israel, when My sanctuary is among them forever.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָֽדְעוּ֙]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H3588A\|כִּ֚י]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֔ה]] [[H6942G\|מְקַדֵּ֖שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9003\|בִּ]][[H1961\|הְי֧וֹת]] [[H4720\|מִקְדָּשִׁ֛]][[H9020\|י]] [[H9003\|בְּ]][[H8432\|תוֹכָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.27|<< Ezekiel 37:27]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.1|Ezekiel 38:1 >>]]</td></tr></table>
 
@@ -19,7 +77,7 @@ Then the nations will know that I the LORD sanctify Israel, when My sanctuary is
 | when is  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H1961\|הְי֧וֹת]]&#8207; </big>**| bi<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sanctuary my  |**<big>&#8207;[[H4720\|מִקְדָּשִׁ֛]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| mik.da.Sh<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in midst of them  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תוֹכָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for ever  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.27|<< Ezekiel 37:27]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.1|Ezekiel 38:1 >>]]</td></tr></table>
 
 

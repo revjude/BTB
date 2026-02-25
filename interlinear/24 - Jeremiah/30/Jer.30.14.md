@@ -1,8 +1,66 @@
+---
+title: Jeremiah 30:14
+type: Verse
+kjv: "All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; because thy sins were increased."
+bsb: "All your lovers have forgotten you; they no longer seek you, for I have struck you as an enemy would, with the discipline of someone cruel, because of your great iniquity and your numerous sins."
+hebrew: "כָּל־ מְאַהֲבַ֣יִךְ שְׁכֵח֔וּךְ אוֹתָ֖ךְ לֹ֣א יִדְרֹ֑שׁוּ כִּי֩ מַכַּ֨ת אוֹיֵ֤ב הִכִּיתִיךְ֙ מוּסַ֣ר אַכְזָרִ֔י עַ֚ל רֹ֣ב עֲוֹנֵ֔ךְ עָצְמ֖וּ חַטֹּאתָֽיִךְ׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0157G]]"
+- "[[H9032]]"
+- "[[H7911]]"
+- "[[H0853]]"
+- "[[H3808]]"
+- "[[H1875]]"
+- "[[H3588A]]"
+- "[[H4347]]"
+- "[[H0341]]"
+- "[[H5221]]"
+- "[[H4148G]]"
+- "[[H0394]]"
+- "[[H5921A]]"
+- "[[H7230]]"
+- "[[H5771H]]"
+- "[[H9022]]"
+- "[[H6105A]]"
+- "[[H2403B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:14**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All thy lovers have forgotten thee; they seek thee not; for I have wounded thee with the wound of an enemy, with the chastisement of a cruel one, for the multitude of thine iniquity; [because] thy sins were increased.
 <small><sub>**BSB:**</sub></small>
 All your lovers have forgotten you; they no longer seek you, for I have struck you as an enemy would, with the discipline of someone cruel, because of your great iniquity and your numerous sins.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0157G\|מְאַהֲבַ֣יִ]][[H9032\|ךְ]] [[H7911\|שְׁכֵח֔וּ]][[H9032\|ךְ]] [[H0853\|אוֹתָ֖]][[H9032\|ךְ]] [[H3808\|לֹ֣א]] [[H1875\|יִדְרֹ֑שׁוּ]] [[H3588A\|כִּי֩]] [[H4347\|מַכַּ֨ת]] [[H0341\|אוֹיֵ֤ב]] [[H5221\|הִכִּיתִי]][[H9032\|ךְ֙]] [[H4148G\|מוּסַ֣ר]] [[H0394\|אַכְזָרִ֔י]] [[H5921A\|עַ֚ל]] [[H7230\|רֹ֣ב]] [[H5771H\|עֲוֹנֵ֔]][[H9022\|ךְ]] [[H6105A\|עָצְמ֖וּ]] [[H2403B\|חַטֹּאתָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHASTISEMENT|CHASTISEMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.13|<< Jeremiah 30:13]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.15|Jeremiah 30:15 >>]]</td></tr></table>
 

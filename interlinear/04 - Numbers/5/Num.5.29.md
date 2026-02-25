@@ -1,8 +1,62 @@
+---
+title: Numbers 5:29
+type: Verse
+kjv: "This is the law of jealousies, when a wife goeth aside to another instead of her husband, and is defiled;"
+bsb: "This is the law of jealousy when a wife goes astray and defiles herself while under her husband’s authority,"
+hebrew: "זֹ֥את תּוֹרַ֖ת הַקְּנָאֹ֑ת אֲשֶׁ֨ר תִּשְׂטֶ֥ה אִשָּׁ֛ה תַּ֥חַת אִישָׁ֖הּ וְנִטְמָֽאָה׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H2063]]"
+- "[[H8451]]"
+- "[[H9009]]"
+- "[[H7068]]"
+- "[[H0834A]]"
+- "[[H7847]]"
+- "[[H0802H]]"
+- "[[H8478G]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:29**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the law of jealousies, when a wife goeth aside [to another] instead of her husband, and is defiled;
 <small><sub>**BSB:**</sub></small>
 This is the law of jealousy when a wife goes astray and defiles herself while under her husband’s authority,
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֥את]] [[H8451\|תּוֹרַ֖ת]] [[H9009\|הַ]][[H7068\|קְּנָאֹ֑ת]] [[H0834A\|אֲשֶׁ֨ר]] [[H7847\|תִּשְׂטֶ֥ה]] [[H0802H\|אִשָּׁ֛ה]] [[H8478G\|תַּ֥חַת]] [[H0376H\|אִישָׁ֖]][[H9024\|הּ]] [[H9001\|וְ]][[H2930A\|נִטְמָֽאָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic PRIEST|PRIEST]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.28|<< Numbers 5:28]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.30|Numbers 5:30 >>]]</td></tr></table>
 

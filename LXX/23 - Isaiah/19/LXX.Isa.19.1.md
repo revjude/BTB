@@ -1,9 +1,68 @@
+---
+title: LXX Isaiah 19:1
+type: Verse
+lxx: "The vision of Egypt. Behold, the lord sits upon a nimble cloud, and shall come to Egypt. And the handmade idols of Egypt shall be shaken before his face, and  their heart shall be vanquished in them."
+greek: "όρασις Αιγύπτου ιδού κύριος κάθηται επί νεφέλης κούφης και ήξει εις Αίγυπτον και σεισθήσεται τα χειροποίητα Αιγύπτου από προσώπου αυτού και η καρδία αυτών ηττηθήσεται εν αυτοίς"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BURDEN|BURDEN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[G3706]]"
+- "[[G0125]]"
+- "[[G2400]]"
+- "[[G2962]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G3507]]"
+- "[[G8080]]"
+- "[[G2532]]"
+- "[[G2240]]"
+- "[[G1519]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G4579]]"
+- "[[G3588]]"
+- "[[G5499]]"
+- "[[G0125]]"
+- "[[G0575]]"
+- "[[G4383]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G2274]]"
+- "[[G1722]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 19:1** 
 
 ***The Vision of Egypt***
 
 <small><sub>**LXX:**</sub></small>
 \[The\] vision of Egypt. Behold, \[the\] <span class="smallcaps">lord</span> sits upon a nimble cloud, and shall come to Egypt. And the handmade \[idols\] of Egypt shall be shaken before his face, and  their heart shall be vanquished in them. 
+<small><sub>**Greek:**</sub></small>
+[[G3706\|όρασις]] [[G0125\|Αιγύπτου]] [[G2400\|ιδού]] [[G2962\|κύριος]] [[G2521\|κάθηται]] [[G1909\|επί]] [[G3507\|νεφέλης]] [[G8080\|κούφης]] [[G2532\|και]] [[G2240\|ήξει]] [[G1519\|εις]] [[G0125\|Αίγυπτον]] [[G2532\|και]] [[G4579\|σεισθήσεται]] [[G3588\|τα]] [[G5499\|χειροποίητα]] [[G0125\|Αιγύπτου]] [[G0575\|από]] [[G4383\|προσώπου]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|η]] [[G2588\|καρδία]] [[G1473\|αυτών]] [[G2274\|ηττηθήσεται]] [[G1722\|εν]] [[G1473\|αυτοίς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURDEN|BURDEN]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.7|<< Isaiah 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.2|Isaiah 19:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -38,6 +97,6 @@
 | shall be vanquished | **<big>[[G2274\|ηττηθήσεται]]</big>** |
 | in | **<big>[[G1722\|εν]]</big>** |
 | them. | **<big>[[G1473\|αυτοίς]]</big>** |
-[[Isa.19.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.7|<< Isaiah 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.2|Isaiah 19:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.18.7|<< Isaiah 18:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.19.2|Isaiah 19:2 >>]]</td></tr></table>
 
 

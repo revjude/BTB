@@ -1,8 +1,100 @@
+---
+title: Daniel 5:23
+type: Verse
+kjv: "But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath is, and whose are all thy ways, hast thou not glorified:"
+bsb: "Instead, you have exalted yourself against the Lord of heaven. The vessels from His house were brought to you, and as you drank wine from them with your nobles, wives, and concubines, you praised your gods of silver and gold, bronze and iron, wood and stone, which cannot see or hear or understand. But you have failed to glorify the God who holds in His hand your very breath and all your ways."
+aramaic: "וְעַ֣ל מָרֵֽא־ שְׁמַיָּ֣א׀ הִתְרוֹמַ֡מְתָּ וּלְמָֽאנַיָּ֨א דִֽי־ בַיְתֵ֜הּ הַיְתִ֣יו קָֽדָמָ֗ךְ וְאַ֨נְתְּ וְרַבְרְבָנָ֜ךְ שֵֽׁגְלָתָ֣ךְ וּלְחֵנָתָךְ֮ חַמְרָא֮ שָׁתַ֣יִן בְּהוֹן֒ וְלֵֽאלָהֵ֣י כַסְפָּֽא־ וְ֠דַהֲבָא נְחָשָׁ֨א פַרְזְלָ֜א אָעָ֣א וְאַבְנָ֗א דִּ֠י לָֽא־ חָזַ֧יִן וְלָא־ שָׁמְעִ֛ין וְלָ֥א יָדְעִ֖ין שַׁבַּ֑חְתָּ וְלֵֽאלָהָ֞א דִּֽי־ נִשְׁמְתָ֥ךְ בִּידֵ֛הּ וְכָל־ אֹרְחָתָ֥ךְ לֵ֖הּ לָ֥א הַדַּֽרְתָּ׃"
+pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 5
+book/chapter: "[[Dan.5|Daniel 5]]"
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BELSHAZZAR|BELSHAZZAR]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic IRON|IRON]]"
+- "[[topic KING|KING]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H5922]]"
+- "[[H4756]]"
+- "[[H9014]]"
+- "[[H8065]]"
+- "[[H9010]]"
+- "[[H9015]]"
+- "[[H7313]]"
+- "[[H9005]]"
+- "[[H3984]]"
+- "[[H1768]]"
+- "[[H1005]]"
+- "[[H9023]]"
+- "[[H0858]]"
+- "[[H6925]]"
+- "[[H9031]]"
+- "[[H0607]]"
+- "[[H7261]]"
+- "[[H9021]]"
+- "[[H7695]]"
+- "[[H3904]]"
+- "[[H2562]]"
+- "[[H8355]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0426]]"
+- "[[H3702]]"
+- "[[H1722]]"
+- "[[H5174]]"
+- "[[H6523]]"
+- "[[H0636]]"
+- "[[H0069]]"
+- "[[H3809]]"
+- "[[H2370]]"
+- "[[H8086]]"
+- "[[H3046]]"
+- "[[H7624]]"
+- "[[H5396]]"
+- "[[H3028]]"
+- "[[H3606]]"
+- "[[H0735]]"
+- "[[H9033]]"
+- "[[H1922]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 5:23**<big><big>[[Dan.5.13 Daniel Interprets the Handwriting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath [is], and whose [are] all thy ways, hast thou not glorified:
 <small><sub>**BSB:**</sub></small>
 Instead, you have exalted yourself against the Lord of heaven. The vessels from His house were brought to you, and as you drank wine from them with your nobles, wives, and concubines, you praised your gods of silver and gold, bronze and iron, wood and stone, which cannot see or hear or understand. But you have failed to glorify the God who holds in His hand your very breath and all your ways.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H5922\|עַ֣ל]] [[H4756\|מָרֵֽא]][[H9014\|־]] [[H8065\|שְׁמַיָּ֣]][[H9010\|א]][[H9015\|׀]] [[H7313\|הִתְרוֹמַ֡מְתָּ]] [[H9002\|וּ]][[H9005\|לְ]][[H3984\|מָֽאנַיָּ֨]][[H9010\|א]] [[H1768\|דִֽי]][[H9014\|־]] [[H1005\|בַיְתֵ֜]][[H9023\|הּ]] [[H0858\|הַיְתִ֣יו]] [[H6925\|קָֽדָמָ֗]][[H9031\|ךְ]] [[H9002\|וְ]][[H0607\|אַ֨נְתְּ]] [[H9002\|וְ]][[H7261\|רַבְרְבָנָ֜]][[H9021\|ךְ]] [[H7695\|שֵֽׁגְלָתָ֣]][[H9021\|ךְ]] [[H9002\|וּ]][[H3904\|לְחֵנָתָ]][[H9021\|ךְ֮]] [[H2562\|חַמְרָ]][[H9010\|א֮]] [[H8355\|שָׁתַ֣יִן]] [[H9003\|בְּ]][[H9038\|הוֹן֒]] [[H9002\|וְ]][[H9005\|לֵֽ]][[H0426\|אלָהֵ֣י]] [[H3702\|כַסְפָּֽ]][[H9010\|א]][[H9014\|־]] [[H9002\|וְ֠]][[H1722\|דַהֲבָ]][[H9010\|א]] [[H5174\|נְחָשָׁ֨]][[H9010\|א]] [[H6523\|פַרְזְלָ֜]][[H9010\|א]] [[H0636\|אָעָ֣]][[H9010\|א]] [[H9002\|וְ]][[H0069\|אַבְנָ֗]][[H9010\|א]] [[H1768\|דִּ֠י]] [[H3809\|לָֽא]][[H9014\|־]] [[H2370\|חָזַ֧יִן]] [[H9002\|וְ]][[H3809\|לָא]][[H9014\|־]] [[H8086\|שָׁמְעִ֛ין]] [[H9002\|וְ]][[H3809\|לָ֥א]] [[H3046\|יָדְעִ֖ין]] [[H7624\|שַׁבַּ֑חְתָּ]] [[H9002\|וְ]][[H9005\|לֵֽ]][[H0426\|אלָהָ֞]][[H9010\|א]] [[H1768\|דִּֽי]][[H9014\|־]] [[H5396\|נִשְׁמְתָ֥]][[H9021\|ךְ]] [[H9003\|בִּ]][[H3028\|ידֵ֛]][[H9023\|הּ]] [[H9002\|וְ]][[H3606\|כָל]][[H9014\|־]] [[H0735\|אֹרְחָתָ֥]][[H9021\|ךְ]] [[H9005\|לֵ֖]][[H9033\|הּ]] [[H3809\|לָ֥א]] [[H1922\|הַדַּֽרְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELSHAZZAR|BELSHAZZAR]] • [[topic DANIEL|DANIEL]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEAVEN|HEAVEN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic IRON|IRON]] • [[topic KING|KING]] • [[topic REPROOF|REPROOF]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.5.22|<< Daniel 5:22]]</td><td align="center" style="border:none;">[[Dan.5|Daniel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.5.24|Daniel 5:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 33:4
+type: Verse
+kjv: "Also he built altars in the house of the LORD, whereof the LORD had said, In Jerusalem shall my name be for ever."
+bsb: "Manasseh also built altars in the house of the LORD, of which the LORD had said, “My Name will remain in Jerusalem forever.”"
+hebrew: "וּבָנָ֥ה מִזְבְּח֖וֹת בְּבֵ֣ית יְהוָ֑ה אֲשֶׁר֙ אָמַ֣ר יְהוָ֔ה בִּירוּשָׁלִַ֥ם יִֽהְיֶה־ שְּׁמִ֖י לְעוֹלָֽם׃"
+pericope: "[[2Chr.33.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H4196]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H3389]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 33:4**<big><big>[[2Chr.33.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also he built altars in the house of the LORD, whereof the LORD had said, In Jerusalem shall my name be for ever.
 <small><sub>**BSB:**</sub></small>
 Manasseh also built altars in the house of the LORD, of which the LORD had said, “My Name will remain in Jerusalem forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H1129\|בָנָ֥ה]] [[H4196\|מִזְבְּח֖וֹת]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁר֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִַ֥ם]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H8034\|שְּׁמִ֖]][[H9020\|י]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.3|<< 2 Chronicles 33:3]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.5|2 Chronicles 33:5 >>]]</td></tr></table>
 

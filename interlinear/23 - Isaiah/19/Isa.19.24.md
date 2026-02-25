@@ -1,8 +1,57 @@
+---
+title: Isaiah 19:24
+type: Verse
+kjv: "In that day shall Israel be the third with Egypt and with Assyria, even a blessing in the midst of the land:"
+bsb: "In that day Israel will join a three-party alliance with Egypt and Assyria—a blessing upon the earth."
+hebrew: "בַּיּ֣וֹם הַה֗וּא יִהְיֶ֤ה יִשְׂרָאֵל֙ שְׁלִ֣ישִׁיָּ֔ה לְמִצְרַ֖יִם וּלְאַשּׁ֑וּר בְּרָכָ֖ה בְּקֶ֥רֶב הָאָֽרֶץ׃"
+pericope: "[[Isa.19.16 A Blessing upon the Earth|A Blessing upon the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H3478]]"
+- "[[H7992]]"
+- "[[H9005]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H0804G]]"
+- "[[H1293]]"
+- "[[H7130G]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 19:24**<big><big>[[Isa.19.16 A Blessing upon the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall Israel be the third with Egypt and with Assyria, [even] a blessing in the midst of the land:
 <small><sub>**BSB:**</sub></small>
 In that day Israel will join a three-party alliance with Egypt and Assyria—a blessing upon the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H1961\|יִהְיֶ֤ה]] [[H3478\|יִשְׂרָאֵל֙]] [[H7992\|שְׁלִ֣ישִׁיָּ֔ה]] [[H9005\|לְ]][[H4714G\|מִצְרַ֖יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H0804G\|אַשּׁ֑וּר]] [[H1293\|בְּרָכָ֖ה]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.23|<< Isaiah 19:23]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.25|Isaiah 19:25 >>]]</td></tr></table>
 

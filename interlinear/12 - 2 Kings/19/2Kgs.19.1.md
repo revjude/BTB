@@ -1,8 +1,61 @@
+---
+title: 2 Kings 19:1
+type: Verse
+kjv: "And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD."
+bsb: "On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD."
+hebrew: "וַיְהִ֗י כִּשְׁמֹ֙עַ֙ הַמֶּ֣לֶךְ חִזְקִיָּ֔הוּ וַיִּקְרַ֖ע אֶת־ בְּגָדָ֑יו וַיִּתְכַּ֣ס בַּשָּׂ֔ק וַיָּבֹ֖א בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Kgs.19.1 Isaiah’s Message of Deliverance|Isaiah’s Message of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RENDING|RENDING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2396G]]"
+- "[[H7167]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H3680]]"
+- "[[H9003]]"
+- "[[H8242]]"
+- "[[H0935G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:1**<big><big>[[2Kgs.19.1 Isaiah’s Message of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when king Hezekiah heard [it], that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֙עַ֙]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H2396G\|חִזְקִיָּ֔הוּ]] [[H9001\|וַ]][[H7167\|יִּקְרַ֖ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H3680\|יִּתְכַּ֣ס]] [[H9003\|בַּ]][[H8242\|שָּׂ֔ק]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic MOURNING|MOURNING]] • [[topic RENDING|RENDING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.37|<< 2 Kings 18:37]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.2|2 Kings 19:2 >>]]</td></tr></table>
 

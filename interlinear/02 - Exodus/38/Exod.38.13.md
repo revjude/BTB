@@ -1,8 +1,54 @@
+---
+title: Exodus 38:13
+type: Verse
+kjv: "And for the east side eastward fifty cubits."
+bsb: "And the east side, toward the sunrise, was also fifty cubits long."
+hebrew: "וְלִפְאַ֛ת קֵ֥דְמָה מִזְרָ֖חָה חֲמִשִּׁ֥ים אַמָּֽה׃"
+pericope: "[[Exod.38.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6285]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H4217H]]"
+- "[[H2572]]"
+- "[[H0520A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:13**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the east side eastward fifty cubits.
 <small><sub>**BSB:**</sub></small>
 And the east side, toward the sunrise, was also fifty cubits long.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H6285\|פְאַ֛ת]] [[H6924B\|קֵ֥דְמָ]][[H9011\|ה]] [[H4217H\|מִזְרָ֖חָ]][[H9011\|ה]] [[H2572\|חֲמִשִּׁ֥ים]] [[H0520A\|אַמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.12|<< Exodus 38:12]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.14|Exodus 38:14 >>]]</td></tr></table>
 

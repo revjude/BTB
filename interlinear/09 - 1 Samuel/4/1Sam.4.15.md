@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 4:15
+type: Verse
+kjv: "Now Eli was ninety and eight years old; and his eyes were dim, that he could not see."
+bsb: "Now Eli was ninety-eight years old, and his gaze was fixed because he could not see."
+hebrew: "וְעֵלִ֕י בֶּן־ תִּשְׁעִ֥ים וּשְׁמֹנֶ֖ה שָׁנָ֑ה וְעֵינָ֣יו קָ֔מָה וְלֹ֥א יָכ֖וֹל לִרְאֽוֹת׃"
+pericope: "[[1Sam.4.12 The Death of Eli|The Death of Eli]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic ELI|ELI]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9002]]"
+- "[[H5941]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8673]]"
+- "[[H8083]]"
+- "[[H8141]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H6965I]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 4:15**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Eli was ninety and eight years old; and his eyes were dim, that he could not see.
 <small><sub>**BSB:**</sub></small>
 Now Eli was ninety-eight years old, and his gaze was fixed because he could not see.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5941\|עֵלִ֕י]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8673\|תִּשְׁעִ֥ים]] [[H9002\|וּ]][[H8083\|שְׁמֹנֶ֖ה]] [[H8141\|שָׁנָ֑ה]] [[H9002\|וְ]][[H5869A\|עֵינָ֣י]][[H9023\|ו]] [[H6965I\|קָ֔מָה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|יָכ֖וֹל]] [[H9005\|לִ]][[H7200G\|רְאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic BLINDNESS|BLINDNESS]] • [[topic ELI|ELI]] • [[topic LONGEVITY|LONGEVITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.14|<< 1 Samuel 4:14]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.16|1 Samuel 4:16 >>]]</td></tr></table>
 

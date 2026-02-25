@@ -1,8 +1,54 @@
+---
+title: Proverbs 13:12
+type: Verse
+kjv: "Hope deferred maketh the heart sick: but when the desire cometh, it is a tree of life."
+bsb: "Hope deferred makes the heart sick, but desire fulfilled is a tree of life."
+hebrew: "תּוֹחֶ֣לֶת מְ֭מֻשָּׁכָה מַחֲלָה־ לֵ֑ב וְעֵ֥ץ חַ֝יִּ֗ים תַּאֲוָ֥ה בָאָֽה׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H8431]]"
+- "[[H4900]]"
+- "[[H2470H]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H6086H]]"
+- "[[H2416E]]"
+- "[[H8378]]"
+- "[[H0935M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:12**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hope deferred maketh the heart sick: but [when] the desire cometh, [it is] a tree of life.
 <small><sub>**BSB:**</sub></small>
 Hope deferred makes the heart sick, but desire fulfilled is a tree of life.
+<small><sub>**Hebrew:**</sub></small>
+[[H8431\|תּוֹחֶ֣לֶת]] [[H4900\|מְ֭מֻשָּׁכָה]] [[H2470H\|מַחֲלָה]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H9002\|וְ]][[H6086H\|עֵ֥ץ]] [[H2416E\|חַ֝יִּ֗ים]] [[H8378\|תַּאֲוָ֥ה]] [[H0935M\|בָאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic HOPE|HOPE]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.11|<< Proverbs 13:11]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.13|Proverbs 13:13 >>]]</td></tr></table>
 

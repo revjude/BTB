@@ -1,8 +1,57 @@
+---
+title: Numbers 36:10
+type: Verse
+kjv: "Even as the LORD commanded Moses, so did the daughters of Zelophehad:"
+bsb: "So the daughters of Zelophehad did as the LORD had commanded Moses."
+hebrew: "כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶׁ֑ה כֵּ֥ן עָשׂ֖וּ בְּנ֥וֹת צְלָפְחָֽד׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LAND|LAND]]"
+- "[[topic MILCAH|MILCAH]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H1323G]]"
+- "[[H6765]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:10**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even as the LORD commanded Moses, so did the daughters of Zelophehad:
 <small><sub>**BSB:**</sub></small>
 So the daughters of Zelophehad did as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֑ה]] [[H3651C\|כֵּ֥ן]] [[H6213A\|עָשׂ֖וּ]] [[H1323G\|בְּנ֥וֹת]] [[H6765\|צְלָפְחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAND|LAND]] • [[topic MILCAH|MILCAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.9|<< Numbers 36:9]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.11|Numbers 36:11 >>]]</td></tr></table>
 

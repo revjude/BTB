@@ -1,10 +1,64 @@
+---
+title: Luke 9:60
+type: Verse
+kjv: "Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God."
+bsb: "But Jesus told him, “Let the dead bury their own dead. You, however, go and proclaim the kingdom of God.”"
+jesus_said: "Let the dead bury their dead: but go thou and preach the kingdom of God."
+greek: "Εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς· ἄφες τοὺς νεκροὺς θάψαι τοὺς ἑαυτῶν νεκρούς. σὺ δὲ ἀπελθὼν διάγγελλε τὴν βασιλείαν τοῦ θεοῦ.¶"
+pericope: "[[Luke.9.57 The Cost of Discipleship|The Cost of Discipleship]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CARE|CARE]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0863G]]"
+- "[[G3498]]"
+- "[[G2290]]"
+- "[[G1438]]"
+- "[[G4771]]"
+- "[[G0565]]"
+- "[[G1229]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 9:60**<big><big>[[Luke.9.57 The Cost of Discipleship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 But Jesus told him, “Let the dead bury their own dead. You, however, go and proclaim the kingdom of God.”
-<small><sub>**Literal:**</sub></small>
-He said then to him <the> Jesus: do leave the dead to bury the their own dead. you yourself however having gone forth do declare the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.59|<< Luke 9:59]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.61|Luke 9:61 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0863G\|ἄφες]]  [[G3588\|τοὺς]]  [[G3498\|νεκροὺς]]  [[G2290\|θάψαι]]  [[G3588\|τοὺς]]  [[G1438\|ἑαυτῶν]]  [[G3498\|νεκρούς.]]  [[G4771\|σὺ]]  [[G1161\|δὲ]]  [[G0565\|ἀπελθὼν]]  [[G1229\|διάγγελλε]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARE|CARE]] • [[topic CHARACTER|CHARACTER]] • [[topic DECISION|DECISION]] • [[topic EXCUSES|EXCUSES]] • [[topic INSTABILITY|INSTABILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.59|<< Luke 9:59]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.61|Luke 9:61 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,68 @@
+---
+title: Ezekiel 33:4
+type: Verse
+kjv: "Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head."
+bsb: "Then if anyone hears the sound of the horn but fails to heed the warning, and the sword comes and takes him away, his blood will be on his own head."
+hebrew: "וְשָׁמַ֨ע הַשֹּׁמֵ֜עַ אֶת־ ק֤וֹל הַשּׁוֹפָר֙ וְלֹ֣א נִזְהָ֔ר וַתָּ֥בוֹא חֶ֖רֶב וַתִּקָּחֵ֑הוּ דָּמ֥וֹ בְרֹאשׁ֖וֹ יִֽהְיֶֽה׃"
+pericope: "[[Ezek.33.1 Ezekiel the Watchman for Israel|Ezekiel the Watchman for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WATCHMAN|WATCHMAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2094B]]"
+- "[[H0935G]]"
+- "[[H2719]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:4**<big><big>[[Ezek.33.1 Ezekiel the Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then whosoever heareth the sound of the trumpet, and taketh not warning; if the sword come, and take him away, his blood shall be upon his own head.
 <small><sub>**BSB:**</sub></small>
 Then if anyone hears the sound of the horn but fails to heed the warning, and the sword comes and takes him away, his blood will be on his own head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8085G\|שָׁמַ֨ע]] [[H9009\|הַ]][[H8085G\|שֹּׁמֵ֜עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H6963H\|ק֤וֹל]] [[H9009\|הַ]][[H7782\|שּׁוֹפָר֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2094B\|נִזְהָ֔ר]] [[H9001\|וַ]][[H0935G\|תָּ֥בוֹא]] [[H2719\|חֶ֖רֶב]] [[H9001\|וַ]][[H3947G\|תִּקָּחֵ֑]][[H9033\|הוּ]] [[H1818\|דָּמ֥]][[H9023\|וֹ]] [[H9003\|בְ]][[H7218A\|רֹאשׁ֖]][[H9023\|וֹ]] [[H1961\|יִֽהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic TRUMPET|TRUMPET]] • [[topic WATCHMAN|WATCHMAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.3|<< Ezekiel 33:3]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.5|Ezekiel 33:5 >>]]</td></tr></table>
 

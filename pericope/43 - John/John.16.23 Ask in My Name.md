@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ask in My Name
+type: Pericope
 pericope: "[[John.16.23 Ask in My Name|Ask in My Name]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: John
 chapter: 16
 book/chapter: "[[John.16|John 16]]"
-genre:
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 11
 verses:
 - "[[John.16.23]]"
 - "[[John.16.24]]"
@@ -29,7 +36,7 @@ verses:
 - "[[John.16.33]]"
 ---
 
-[[John.16|John 16:23 - John 16:33]]
+<small>[[John.16|John 16:23-33]]</small>
 *Ask in My Name*
 
 [[John.16.23|23]] And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give \[it\] you.

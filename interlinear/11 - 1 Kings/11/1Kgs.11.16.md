@@ -1,8 +1,63 @@
+---
+title: 1 Kings 11:16
+type: Verse
+kjv: "(For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)"
+bsb: "Joab and all Israel had stayed there six months, until he had killed every male in Edom."
+hebrew: "כִּ֣י שֵׁ֧שֶׁת חֳדָשִׁ֛ים יָֽשַׁב־ שָׁ֥ם יוֹאָ֖ב וְכָל־ יִשְׂרָאֵ֑ל עַד־ הִכְרִ֥ית כָּל־ זָכָ֖ר בֶּאֱדֽוֹם׃"
+pericope: "[[1Kgs.11.14 Hadad’s Return|Hadad’s Return]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HADAD|HADAD]]"
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H3588A]]"
+- "[[H8337]]"
+- "[[H2320G]]"
+- "[[H3427]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H5704]]"
+- "[[H3772I]]"
+- "[[H2145]]"
+- "[[H9003]]"
+- "[[H0123G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:16**<big><big>[[1Kgs.11.14 Hadad’s Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 (For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)
 <small><sub>**BSB:**</sub></small>
 Joab and all Israel had stayed there six months, until he had killed every male in Edom.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H8337\|שֵׁ֧שֶׁת]] [[H2320G\|חֳדָשִׁ֛ים]] [[H3427\|יָֽשַׁב]][[H9014\|־]] [[H8033G\|שָׁ֥ם]] [[H3097G\|יוֹאָ֖ב]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5704\|עַד]][[H9014\|־]] [[H3772I\|הִכְרִ֥ית]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֖ר]] [[H9003\|בֶּ]][[H0123G\|אֱדֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CITIZENS|CITIZENS]] • [[topic EDOMITES|EDOMITES]] • [[topic GOD|GOD]] • [[topic HADAD|HADAD]] • [[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.15|<< 1 Kings 11:15]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.17|1 Kings 11:17 >>]]</td></tr></table>
 

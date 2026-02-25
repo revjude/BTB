@@ -1,8 +1,60 @@
+---
+title: Genesis 7:19
+type: Verse
+kjv: "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered."
+bsb: "Finally, the waters completely prevailed upon the earth, so that all the high mountains under all the heavens were covered."
+hebrew: "וְהַמַּ֗יִם גָּֽבְר֛וּ מְאֹ֥ד מְאֹ֖ד עַל־ הָאָ֑רֶץ וַיְכֻסּ֗וּ כָּל־ הֶֽהָרִים֙ הַגְּבֹהִ֔ים אֲשֶׁר־ תַּ֖חַת כָּל־ הַשָּׁמָֽיִם׃"
+pericope: "[[Gen.7.1 The Great Flood|The Great Flood]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 7
+book/chapter: "[[Gen.7|Genesis 7]]"
+chronological_order: 7
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H1396]]"
+- "[[H3966]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H3680]]"
+- "[[H3605]]"
+- "[[H2022G]]"
+- "[[H1364]]"
+- "[[H0834A]]"
+- "[[H8478G]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 7:19**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the waters prevailed exceedingly upon the earth; and all the high hills, that [were] under the whole heaven, were covered.
 <small><sub>**BSB:**</sub></small>
 Finally, the waters completely prevailed upon the earth, so that all the high mountains under all the heavens were covered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4325G\|מַּ֗יִם]] [[H1396\|גָּֽבְר֛וּ]] [[H3966\|מְאֹ֥ד]] [[H3966\|מְאֹ֖ד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H3680\|יְכֻסּ֗וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2022G\|הָרִים֙]] [[H9009\|הַ]][[H1364\|גְּבֹהִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8478G\|תַּ֖חַת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.18|<< Genesis 7:18]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.20|Genesis 7:20 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 2:37
+type: Verse
+kjv: "Only unto the land of the children of Ammon thou camest not, nor unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us."
+bsb: "But you did not go near the land of the Ammonites, or the land along the banks of the Jabbok River, or the cities of the hill country, or any place that the LORD our God had forbidden."
+hebrew: "רַ֛ק אֶל־ אֶ֥רֶץ בְּנֵי־ עַמּ֖וֹן לֹ֣א קָרָ֑בְתָּ כָּל־ יַ֞ד נַ֤חַל יַבֹּק֙ וְעָרֵ֣י הָהָ֔ר וְכֹ֥ל אֲשֶׁר־ צִוָּ֖ה יְהוָ֥ה אֱלֹהֵֽינוּ׃"
+pericope: "[[Deut.2.24 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H7535]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H1121A]]"
+- "[[H5983]]"
+- "[[H3808]]"
+- "[[H7126G]]"
+- "[[H3605]]"
+- "[[H3027K]]"
+- "[[H5158A]]"
+- "[[H2999]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:37**<big><big>[[Deut.2.24 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only unto the land of the children of Ammon thou camest not, [nor] unto any place of the river Jabbok, nor unto the cities in the mountains, nor unto whatsoever the LORD our God forbad us.
 <small><sub>**BSB:**</sub></small>
 But you did not go near the land of the Ammonites, or the land along the banks of the Jabbok River, or the cities of the hill country, or any place that the LORD our God had forbidden.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֛ק]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H5983\|עַמּ֖וֹן]] [[H3808\|לֹ֣א]] [[H7126G\|קָרָ֑בְתָּ]] [[H3605\|כָּל]][[H9014\|־]] [[H3027K\|יַ֞ד]] [[H5158A\|נַ֤חַל]] [[H2999\|יַבֹּק֙]] [[H9002\|וְ]][[H5892B\|עָרֵ֣י]] [[H9009\|הָ]][[H2022H\|הָ֔ר]] [[H9002\|וְ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֖ה]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.36|<< Deuteronomy 2:36]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.1|Deuteronomy 3:1 >>]]</td></tr></table>
 

@@ -1,10 +1,49 @@
+---
+title: Titus 2:1
+type: Verse
+kjv: "But speak thou the things which become sound doctrine:"
+bsb: "But as for you, speak the things that are consistent with sound doctrine."
+greek: "Σὺ δὲ λάλει ἃ πρέπει τῇ ὑγιαινούσῃ διδασκαλίᾳ.¶"
+pericope: "[[Titus.2.1 Teaching Sound Doctrine|Teaching Sound Doctrine]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 2
+book/chapter: "[[Titus.2|Titus 2]]"
+chronological_order: 1133
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G2980]]"
+- "[[G3739]]"
+- "[[G4241]]"
+- "[[G3588]]"
+- "[[G5198]]"
+- "[[G1319]]"
+texts:
+- NKO
+---
+
 **Titus 2:1**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But speak thou the things which become sound doctrine:
 <small><sub>**BSB:**</sub></small>
 But as for you, speak the things that are consistent with sound doctrine.
-<small><sub>**Literal:**</sub></small>
-You yourself however do speak [the things] that are consistent with <the> sound doctrine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.16|<< Titus 1:16]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.2|Titus 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|Σὺ]]  [[G1161\|δὲ]]  [[G2980\|λάλει]]  [[G3739\|ἃ]]  [[G4241\|πρέπει]]  [[G3588\|τῇ]]  [[G5198\|ὑγιαινούσῃ]]  [[G1319\|διδασκαλίᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.16|<< Titus 1:16]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.2|Titus 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

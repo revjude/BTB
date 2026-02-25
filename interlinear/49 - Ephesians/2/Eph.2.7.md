@@ -1,10 +1,60 @@
+---
+title: Ephesians 2:7
+type: Verse
+kjv: "That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus."
+bsb: "in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus."
+greek: "ἵνα ἐνδείξηται ἐν τοῖς αἰῶσιν τοῖς ἐπερχομένοις τὸ ὑπερβάλλον πλοῦτος τῆς χάριτος αὐτοῦ ἐν χρηστότητι ἐφ᾽ ἡμᾶς ἐν Χριστῷ Ἰησοῦ.¶"
+pericope: "[[Eph.2.1 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2443]]"
+- "[[G1731]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0165G]]"
+- "[[G1904]]"
+- "[[G5235]]"
+- "[[G4149]]"
+- "[[G5485]]"
+- "[[G0846]]"
+- "[[G5544]]"
+- "[[G1909]]"
+- "[[G3165]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Ephesians 2:7**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That in the ages to come he might shew the exceeding riches of his grace in [his] kindness toward us through Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 in order that in the coming ages He might display the surpassing riches of His grace, demonstrated by His kindness to us in Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-in order that He may show in the ages that [are] coming the surpassing riches of the grace of Him in kindness toward us in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.6|<< Ephesians 2:6]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.8|Ephesians 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G1731\|ἐνδείξηται]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G0165G\|αἰῶσιν]]  [[G3588\|τοῖς]]  [[G1904\|ἐπερχομένοις]]  [[G3588\|τὸ]]  [[G5235\|ὑπερβάλλον]]  [[G4149\|πλοῦτος]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G0846\|αὐτοῦ]]  [[G1722\|ἐν]]  [[G5544\|χρηστότητι]]  [[G1909\|ἐφ᾽]]  [[G3165\|ἡμᾶς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.6|<< Ephesians 2:6]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.8|Ephesians 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,53 @@
+---
+title: Galatians 5:7
+type: Verse
+kjv: "Ye did run well; who did hinder you that ye should not obey the truth?"
+bsb: "You were running so well. Who has obstructed you from obeying the truth?"
+greek: "ἐτρέχετε καλῶς· τίς ὑμᾶς ἐνέκοψεν τῇ ἀληθείᾳ μὴ πείθεσθαι;"
+pericope: "[[Gal.5.1 Freedom in Christ|Freedom in Christ]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic GAMES|GAMES]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic RACE|RACE]]"
+strongs:
+- "[[G5143]]"
+- "[[G2573]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G1465]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G3361]]"
+- "[[G3982]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 5:7**<big><big>[[Gal.5.1 Freedom in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye did run well; who did hinder you that ye should not obey the truth?
 <small><sub>**BSB:**</sub></small>
 You were running so well. Who has obstructed you from obeying the truth?
-<small><sub>**Literal:**</sub></small>
-You were running well; Who you impeded the truth not to obey?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.6|<< Galatians 5:6]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.8|Galatians 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5143\|ἐτρέχετε]]  [[G2573\|καλῶς·]]  [[G5101\|τίς]]  [[G4771\|ὑμᾶς]]  [[G1465\|ἐνέκοψεν]]  [[G3588\|τῇ]]  [[G0225\|ἀληθείᾳ]]  [[G3361\|μὴ]]  [[G3982\|πείθεσθαι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic GAMES|GAMES]] • [[topic INFLUENCE|INFLUENCE]] • [[topic RACE|RACE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.6|<< Galatians 5:6]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.8|Galatians 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

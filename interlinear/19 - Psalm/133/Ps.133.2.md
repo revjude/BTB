@@ -1,8 +1,64 @@
+---
+title: Psalm 133:2
+type: Verse
+kjv: "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron’s beard: that went down to the skirts of his garments;"
+bsb: "It is like fine oil on the head, running down on the beard, running down Aaron’s beard over the collar of his robes."
+hebrew: "כַּשֶּׁ֤מֶן הַטּ֨וֹב׀ עַל־ הָרֹ֗אשׁ יֹרֵ֗ד עַֽל־ הַזָּקָ֥ן זְקַֽן־ אַהֲרֹ֑ן שֶׁ֝יֹּרֵ֗ד עַל־ פִּ֥י מִדּוֹתָֽיו׃"
+pericope: "[[Ps.133.1 How Pleasant to Live in Harmony!|How Pleasant to Live in Harmony!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 133
+book/chapter: "[[Ps.133|Psalm 133]]"
+chronological_order: 893
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BEARD|BEARD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[H9004]]"
+- "[[H8081]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H3381]]"
+- "[[H2206]]"
+- "[[H0175]]"
+- "[[H9007]]"
+- "[[H6310H]]"
+- "[[H4060A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 133:2**<big><big>[[Ps.133.1 How Pleasant to Live in Harmony!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] like the precious ointment upon the head, that ran down upon the beard, [even] Aaron’s beard: that went down to the skirts of his garments;
 <small><sub>**BSB:**</sub></small>
 It is like fine oil on the head, running down on the beard, running down Aaron’s beard over the collar of his robes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H8081\|שֶּׁ֤מֶן]] [[H9009\|הַ]][[H2896A\|טּ֨וֹב]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H7218A\|רֹ֗אשׁ]] [[H3381\|יֹרֵ֗ד]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H2206\|זָּקָ֥ן]] [[H2206\|זְקַֽן]][[H9014\|־]] [[H0175\|אַהֲרֹ֑ן]] [[H9007\|שֶׁ֝]][[H3381\|יֹּרֵ֗ד]] [[H5921A\|עַל]][[H9014\|־]] [[H6310H\|פִּ֥י]] [[H4060A\|מִדּוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BEARD|BEARD]] • [[topic CHURCH|CHURCH]] • [[topic COMMUNION|COMMUNION]] • [[topic FRATERNITY|FRATERNITY]] • [[topic LOVE|LOVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.133.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.133.1|<< Psalms 133:1]]</td><td align="center" style="border:none;">[[Ps.133|Psalms 133]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.133.3|Psalms 133:3 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Psalm 118:27
+type: Verse
+kjv: "God is the LORD, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar."
+bsb: "The LORD is God; He has made His light to shine upon us. Bind the festal sacrifice with cords to the horns of the altar."
+hebrew: "אֵ֤ל׀ יְהוָה֮ וַיָּ֪אֶר לָ֥נוּ אִסְרוּ־ חַ֥ג בַּעֲבֹתִ֑ים עַד־ קַ֝רְנ֗וֹת הַמִּזְבֵּֽחַ׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CORD|CORD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H0410G]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H0215]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H0631]]"
+- "[[H9014]]"
+- "[[H2282]]"
+- "[[H9003]]"
+- "[[H5688]]"
+- "[[H5704]]"
+- "[[H7161A]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:27**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God [is] the LORD, which hath shewed us light: bind the sacrifice with cords, [even] unto the horns of the altar.
 <small><sub>**BSB:**</sub></small>
 The LORD is God; He has made His light to shine upon us. Bind the festal sacrifice with cords to the horns of the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H0410G\|אֵ֤ל]][[H9015\|׀]] [[H3068G\|יְהוָה֮]] [[H9001\|וַ]][[H0215\|יָּ֪אֶר]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H0631\|אִסְרוּ]][[H9014\|־]] [[H2282\|חַ֥ג]] [[H9003\|בַּ]][[H5688\|עֲבֹתִ֑ים]] [[H5704\|עַד]][[H9014\|־]] [[H7161A\|קַ֝רְנ֗וֹת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CORD|CORD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.26|<< Psalms 118:26]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.28|Psalms 118:28 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Matthew 27:5
+type: Verse
+kjv: "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself."
+bsb: "So Judas threw the silver into the temple and left. Then he went away and hanged himself."
+greek: "καὶ ῥίψας τὰ ἀργύρια εἰς τὸν ναὸν ἀνεχώρησεν, καὶ ἀπελθὼν ἀπήγξατο.¶"
+pericope: "[[Matt.27.3 Judas Hangs Himself|Judas Hangs Himself]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONSCIENCE MONEY|CONSCIENCE MONEY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic MORTIFICATION|MORTIFICATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SUICIDE|SUICIDE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4496]]"
+- "[[G3588]]"
+- "[[G0694]]"
+- "[[G1519]]"
+- "[[G3485]]"
+- "[[G0402]]"
+- "[[G0565]]"
+- "[[G0519]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 27:5**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he cast down the pieces of silver in the temple, and departed, and went and hanged himself.
 <small><sub>**BSB:**</sub></small>
 So Judas threw the silver into the temple and left. Then he went away and hanged himself.
-<small><sub>**Literal:**</sub></small>
-And having cast down the pieces of silver into the temple he withdrew, and having gone away hanged himself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.4|<< Matthew 27:4]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.6|Matthew 27:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4496\|ῥίψας]]  [[G3588\|τὰ]]  [[G0694\|ἀργύρια]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3485\|ναὸν]]  [[G0402\|ἀνεχώρησεν,]]  [[G2532\|καὶ]]  [[G0565\|ἀπελθὼν]]  [[G0519\|ἀπήγξατο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BRIBERY|BRIBERY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONSCIENCE MONEY|CONSCIENCE MONEY]] • [[topic CONVICTION|CONVICTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MONEY|MONEY]] • [[topic MORTIFICATION|MORTIFICATION]] • [[topic PROPHECY|PROPHECY]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVERENCE|REVERENCE]] • [[topic SUICIDE|SUICIDE]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.4|<< Matthew 27:4]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.6|Matthew 27:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

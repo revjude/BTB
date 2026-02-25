@@ -43,31 +43,31 @@
 
 - Beauty of [[Isa.64.11|Isa 64:11]]
 
-- Holiness of [[1Kgs.8.10|1Ki 8:10]]; [[1Kgs.9.3|9:3]]; [[Lam.1.10|La 1:10]]; [[Matt.23.17|Mt 23:17]]; [[John.2.14|Joh 2:14]]-[[John.2.16|16]]
+- Holiness of [[1Kgs.8.10|1Ki 8:10]]; [[1Kgs.9.3|9:3]]; [[Lam.1.10|La 1:10]]; [[Matt.23.17|Mt 23:17]]; [[John.2.14|Joh 2:14-16]]
 
-- David undertakes the building of [[2Sam.7.2|2Sa 7:2]],[[2Sam.7.3|3]]; [[1Chr.22.7|1Ch 22:7]];  [[1Chr.28.2|28:2]]; [[Ps.132.2|Ps 132:2]]-[[Ps.132.5|5]]; [[Acts.7.46|Ac 7:46]]
+- David undertakes the building of [[2Sam.7.2|2Sa 7:2]],[[2Sam.7.3|3]]; [[1Chr.22.7|1Ch 22:7]];  [[1Chr.28.2|28:2]]; [[Ps.132.2|Ps 132:2-5]]; [[Acts.7.46|Ac 7:46]]
 
-- Forbidden by God because David was a man of war [[2Sam.7.4|2Sa  7:4]]-[[2Sam.7.12|12]]; [[1Kgs.5.3|1Ki 5:3]]; [[1Chr.22.8|1Ch 22:8]]; [[1Chr.28.3|28:3]]
+- Forbidden by God because David was a man of war [[2Sam.7.4|2Sa  7:4-12]]; [[1Kgs.5.3|1Ki 5:3]]; [[1Chr.22.8|1Ch 22:8]]; [[1Chr.28.3|28:3]]
 
 - Not asked for by God [[2Sam.7.7|2Sa 7:7]]
 
 - The building of, committed to Solomon [[2Sam.7.13|2Sa 7:13]]
 
-- David makes preparation for [[1Chr.22|1Ch 22]]; [[1Chr.28.14|28:14]]-[[1Chr.28.18|18]]; [[1Chr.29.1|29:1]]-[[1Chr.29.5|5]];  [[2Chr.3.1|2Ch 3:1]]; [[2Chr.5.1|5:1]]
+- David makes preparation for [[1Chr.22|1Ch 22]]; [[1Chr.28.14|28:14-18]]; [[1Chr.29.1|29:1-5]];  [[2Chr.3.1|2Ch 3:1]]; [[2Chr.5.1|5:1]]
 
 - Built by Solomon [[Acts.7.47|Ac 7:47]]
 
-- Solomon drafts men for the building of [[1Kgs.5.13|1Ki 5:13]]-[[1Kgs.5.16|16]];  [[2Chr.2.2|2Ch 2:2]],[[2Chr.2.17|17]],[[2Chr.2.18|18]]
+- Solomon drafts men for the building of [[1Kgs.5.13|1Ki 5:13-16]];  [[2Chr.2.2|2Ch 2:2]],[[2Chr.2.17|17]],[[2Chr.2.18|18]]
 
-- Materials for, furnished by Hiram [[1Kgs.5.8|1Ki 5:8]]-[[1Kgs.5.18|18]]
+- Materials for, furnished by Hiram [[1Kgs.5.8|1Ki 5:8-18]]
 
-- Pattern and building of [[1Kgs.6|1Ki 6]]; [[1Kgs.7.13|7:13]]-[[1Kgs.7.51|51]]; [[1Chr.28.11|1Ch 28:11]]-[[1Chr.28.19|19]];  [[2Chr.3|2Ch 3]]; [[2Chr.4|4]]; [[Acts.7.47|Ac 7:47]]
+- Pattern and building of [[1Kgs.6|1Ki 6]]; [[1Kgs.7.13|7:13-51]]; [[1Chr.28.11|1Ch 28:11-19]];  [[2Chr.3|2Ch 3]]; [[2Chr.4|4]]; [[Acts.7.47|Ac 7:47]]
 
 - The time when begun [[1Kgs.6.1|1Ki 6:1]],[[1Kgs.6.37|37]]; [[2Chr.3.2|2Ch 3:2]]
 
 - The time when finished  [[1Kgs.6.38|1Ki 6:38]]
 
-- Site of [[1Chr.21.28|1Ch 21:28]]-[[1Chr.21.30|30]]; [[1Chr.22.1|22:1]]; [[2Chr.3.1|2Ch 3:1]]
+- Site of [[1Chr.21.28|1Ch 21:28-30]]; [[1Chr.22.1|22:1]]; [[2Chr.3.1|2Ch 3:1]]
 
 - Where Abraham offered Isaac [[Gen.22.2|Ge 22:2]],[[Gen.22.4|4]]
 
@@ -87,15 +87,15 @@
 
 - THE HOLIEST OF ALL [[Heb.9.3|Heb 9:3]]
 
-- Description of [[1Kgs.6.16|1Ki 6:16]],[[1Kgs.6.19|19]]-[[1Kgs.6.35|35]]; [[2Chr.3.8|2Ch 3:8]]-[[2Chr.3.14|14]]; [[2Chr.4.22|4:22]]
+- Description of [[1Kgs.6.16|1Ki 6:16]],[[1Kgs.6.19|19-35]]; [[2Chr.3.8|2Ch 3:8-14]]; [[2Chr.4.22|4:22]]
 
-- Gold used in [[2Chr.3.8|2Ch 3:8]]-[[2Chr.3.10|10]]
+- Gold used in [[2Chr.3.8|2Ch 3:8-10]]
 
 - Contents of the Holy of Holies
 
-- The ark of the covenant [[1Kgs.6.19|1Ki 6:19]]; [[1Kgs.8.6|8:6]]; [[2Chr.5.2|2Ch 5:2]]-[[2Chr.5.10|10]]
+- The ark of the covenant [[1Kgs.6.19|1Ki 6:19]]; [[1Kgs.8.6|8:6]]; [[2Chr.5.2|2Ch 5:2-10]]
 
-- The cherubs [[1Kgs.6.23|1Ki 6:23]]-[[1Kgs.6.28|28]]; [[2Chr.3.10|2Ch 3:10]]-[[2Chr.3.13|13]]; [[2Chr.5.7|5:7]],[[2Chr.5.8|8]]
+- The cherubs [[1Kgs.6.23|1Ki 6:23-28]]; [[2Chr.3.10|2Ch 3:10-13]]; [[2Chr.5.7|5:7]],[[2Chr.5.8|8]]
 
 - See [[topic ARK|ARK]]
 
@@ -111,7 +111,7 @@
 
 - Called TEMPLE [[1Kgs.6.17|1Ki 6:17]]
 
-- Description of [[1Kgs.6.15|1Ki 6:15]]-[[1Kgs.6.18|18]]; [[2Chr.3.3|2Ch 3:3]],[[2Chr.3.5|5]]-[[2Chr.3.7|7]],[[2Chr.3.14|14]]-[[2Chr.3.17|17]]
+- Description of [[1Kgs.6.15|1Ki 6:15-18]]; [[2Chr.3.3|2Ch 3:3]],[[2Chr.3.5|5-7]],[[2Chr.3.14|14-17]]
 
 - Contents of the Holy Place
 
@@ -121,7 +121,7 @@
 
 - Other tables of gold and silver [[1Chr.28.16|1Ch 28:16]]; [[2Chr.4.18|2Ch 4:18]],[[2Chr.4.19|19]]
 
-- The lampstands and their utensils [[1Kgs.7.49|1Ki 7:49]],[[1Kgs.7.50|50]]; [[1Chr.28.15|1Ch  28:15]]; [[2Chr.4.7|2Ch 4:7]],[[2Chr.4.20|20]]-[[2Chr.4.22|22]]
+- The lampstands and their utensils [[1Kgs.7.49|1Ki 7:49]],[[1Kgs.7.50|50]]; [[1Chr.28.15|1Ch  28:15]]; [[2Chr.4.7|2Ch 4:7]],[[2Chr.4.20|20-22]]
 
 - See [[topic CANDLESTICK|CANDLESTICK]] (lampstand)
 
@@ -137,11 +137,11 @@
 
 - Overlaid with gold [[2Chr.3.4|2Ch 3:4]]
 
-- Pillars of [[1Kgs.7.15|1Ki 7:15]]-[[1Kgs.7.22|22]]; [[2Kgs.11.14|2Ki 11:14]]; [[2Kgs.23.3|23:3]]; [[2Kgs.25.17|25:17]]; [[2Chr.3.15|2Ch  3:15]]-[[2Chr.3.17|17]]; [[2Chr.4.12|4:12]],[[2Chr.4.13|13]]
+- Pillars of [[1Kgs.7.15|1Ki 7:15-22]]; [[2Kgs.11.14|2Ki 11:14]]; [[2Kgs.23.3|23:3]]; [[2Kgs.25.17|25:17]]; [[2Chr.3.15|2Ch  3:15-17]]; [[2Chr.4.12|4:12]],[[2Chr.4.13|13]]
 
-- Chambers of [[1Kgs.6.5|1Ki 6:5]]-[[1Kgs.6.10|10]]; [[2Kgs.11.2|2Ki 11:2]],[[2Kgs.11.3|3]]
+- Chambers of [[1Kgs.6.5|1Ki 6:5-10]]; [[2Kgs.11.2|2Ki 11:2]],[[2Kgs.11.3|3]]
 
-- Offerings brought to [[Neh.10.37|Ne 10:37]]-[[Neh.10.39|39]]
+- Offerings brought to [[Neh.10.37|Ne 10:37-39]]
 
 - Treasuries in
 
@@ -161,9 +161,9 @@
 
 - See [[topic ALTAR|ALTAR]]
 
-- The bronze sea [[1Kgs.7.23|1Ki 7:23]]-[[1Kgs.7.37|37]],[[1Kgs.7.44|44]],[[1Kgs.7.46|46]]; [[2Chr.4.2|2Ch 4:2]]-[[2Chr.4.5|5]],[[2Chr.4.10|10]]
+- The bronze sea [[1Kgs.7.23|1Ki 7:23-37]],[[1Kgs.7.44|44]],[[1Kgs.7.46|46]]; [[2Chr.4.2|2Ch 4:2-5]],[[2Chr.4.10|10]]
 
-- The ten lavers [[1Kgs.7.38|1Ki 7:38]]-[[1Kgs.7.46|46]]; [[2Chr.4.6|2Ch 4:6]]
+- The ten lavers [[1Kgs.7.38|1Ki 7:38-46]]; [[2Chr.4.6|2Ch 4:6]]
 
 - The great courtyard of [[2Chr.4.9|2Ch 4:9]]; [[Jer.19.14|Jer 19:14]]; [[Jer.26.2|26:2]]
 
@@ -179,11 +179,11 @@
 
 - Eastern gate, closed on working days, open on the Sabbath day [[Ezek.46.1|Eze 46:1]],[[Ezek.46.12|12]]
 
-- Gifts received at [[2Chr.24.8|2Ch 24:8]]-[[2Chr.24.11|11]]
+- Gifts received at [[2Chr.24.8|2Ch 24:8-11]]
 
 - Uses of the temple
 
-- A dwelling place of the Lord [[1Kgs.8.10|1Ki 8:10]],[[1Kgs.8.11|11]],[[1Kgs.8.13|13]]; [[1Kgs.9.3|9:3]]; [[2Kgs.21.7|2Ki  21:7]]; [[1Chr.29.1|1Ch 29:1]]; [[2Chr.5.13|2Ch 5:13]],[[2Chr.5.14|14]]; [[2Chr.7.1|7:1]]-[[2Chr.7.3|3]],[[2Chr.7.16|16]]; [[Ezek.10.3|Eze 10:3]],[[Ezek.10.4|4]]; [[Mic.1.2|Mic 1:2]]
+- A dwelling place of the Lord [[1Kgs.8.10|1Ki 8:10]],[[1Kgs.8.11|11]],[[1Kgs.8.13|13]]; [[1Kgs.9.3|9:3]]; [[2Kgs.21.7|2Ki  21:7]]; [[1Chr.29.1|1Ch 29:1]]; [[2Chr.5.13|2Ch 5:13]],[[2Chr.5.14|14]]; [[2Chr.7.1|7:1-3]],[[2Chr.7.16|16]]; [[Ezek.10.3|Eze 10:3]],[[Ezek.10.4|4]]; [[Mic.1.2|Mic 1:2]]
 
 - To contain the ark of the covenant [[1Kgs.8.21|1Ki 8:21]]
 
@@ -209,15 +209,15 @@
 
 - By Jehoash, king of Israel [[2Kgs.14.14|2Ki 14:14]]
 
-- Repaired by Jehoash, king of Judah [[2Kgs.12.4|2Ki 12:4]]-[[2Kgs.12.14|14]]; [[2Chr.24.7|2Ch  24:7]]-[[2Chr.24.14|14]]
+- Repaired by Jehoash, king of Judah [[2Kgs.12.4|2Ki 12:4-14]]; [[2Chr.24.7|2Ch  24:7-14]]
 
-- By Josiah [[2Kgs.22.3|2Ki 22:3]]-[[2Kgs.22.7|7]]; [[2Chr.34.8|2Ch 34:8]]-[[2Chr.34.13|13]]
+- By Josiah [[2Kgs.22.3|2Ki 22:3-7]]; [[2Chr.34.8|2Ch 34:8-13]]
 
-- Ahaz changes the pattern of the altar in [[2Kgs.16.10|2Ki 16:10]]-[[2Kgs.16.17|17]]
+- Ahaz changes the pattern of the altar in [[2Kgs.16.10|2Ki 16:10-17]]
 
-- Purified by Hezekiah [[2Chr.29.15|2Ch 29:15]]-[[2Chr.29.19|19]]
+- Purified by Hezekiah [[2Chr.29.15|2Ch 29:15-19]]
 
-- Converted into an idolatrous shrine by Manasseh [[2Kgs.21.4|2Ki  21:4]]-[[2Kgs.21.7|7]]; [[2Chr.33.4|2Ch 33:4]]-[[2Chr.33.7|7]]
+- Converted into an idolatrous shrine by Manasseh [[2Kgs.21.4|2Ki  21:4-7]]; [[2Chr.33.4|2Ch 33:4-7]]
 
 - Treasures of, used in the purchase of peace
 
@@ -229,31 +229,31 @@
 
 - Ezekiel' s vision concerning [[Ezek.8.16|Eze 8:16]]
 
-- Jews swore by [[Matt.23.16|Mt 23:16]]-[[Matt.23.22|22]]
+- Jews swore by [[Matt.23.16|Mt 23:16-22]]
 
-- Destroyed by Nebuchadnezzar, and the valuable contents carried  to Babylon [[2Kgs.24.13|2Ki 24:13]]; [[2Kgs.25.9|25:9]]-[[2Kgs.25.17|17]]; [[2Chr.36.7|2Ch 36:7]],[[2Chr.36.19|19]]; [[Ps.79.1|Ps 79:1]]; [[Isa.64.11|Isa 64:11]]; [[Jer.27.16|Jer 27:16]],[[Jer.27.19|19]]-[[Jer.27.22|22]];  [[Jer.28.3|28:3]]; [[Jer.52.13|52:13]],[[Jer.52.17|17]]-[[Jer.52.23|23]]; [[Lam.2.7|La 2:7]]; [[Lam.4.1|4:1]]; [[Ezra.1.7|Ezr 1:7]]
+- Destroyed by Nebuchadnezzar, and the valuable contents carried  to Babylon [[2Kgs.24.13|2Ki 24:13]]; [[2Kgs.25.9|25:9-17]]; [[2Chr.36.7|2Ch 36:7]],[[2Chr.36.19|19]]; [[Ps.79.1|Ps 79:1]]; [[Isa.64.11|Isa 64:11]]; [[Jer.27.16|Jer 27:16]],[[Jer.27.19|19-22]];  [[Jer.28.3|28:3]]; [[Jer.52.13|52:13]],[[Jer.52.17|17-23]]; [[Lam.2.7|La 2:7]]; [[Lam.4.1|4:1]]; [[Ezra.1.7|Ezr 1:7]]
 
 - Vessels of, used by Belshazzar [[Dan.5.2|Da 5:2]],[[Dan.5.3|3]]
 
-- Destruction of, foretold [[Isa.66.6|Isa 66:6]]; [[Jer.27.18|Jer 27:18]]-[[Jer.27.22|22]]; [[Ezek.7.22|Eze  7:22]],[[Ezek.7.25|25]]; [[Matt.24.2|Mt 24:2]]; [[Mark.13.2|Mr 13:2]]
+- Destruction of, foretold [[Isa.66.6|Isa 66:6]]; [[Jer.27.18|Jer 27:18-22]]; [[Ezek.7.22|Eze  7:22]],[[Ezek.7.25|25]]; [[Matt.24.2|Mt 24:2]]; [[Mark.13.2|Mr 13:2]]
 
-- Restoration of, ordered by Cyrus [[Ezra.1.7|Ezr 1:7]]-[[Ezra.1.11|11]]
+- Restoration of, ordered by Cyrus [[Ezra.1.7|Ezr 1:7-11]]
 
 → THE SECOND
 
-- Restored by Zerubbabel [[Ezra.1|Ezr 1]]; [[Ezra.2.68|2:68]],[[Ezra.2.69|69]]; [[Ezra.3.2|3:2]]-[[Ezra.3.13|13]]; [[Ezra.4|4]]; [[Ezra.5.2|5:2]]-[[Ezra.5.17|17]];  [[Ezra.6.3|6:3]]-[[Ezra.6.5|5]]; [[Neh.7.70|Ne 7:70]]-[[Neh.7.72|72]]; [[Isa.44.28|Isa 44:28]]; [[Hag.2.3|Hag 2:3]]
+- Restored by Zerubbabel [[Ezra.1|Ezr 1]]; [[Ezra.2.68|2:68]],[[Ezra.2.69|69]]; [[Ezra.3.2|3:2-13]]; [[Ezra.4|4]]; [[Ezra.5.2|5:2-17]];  [[Ezra.6.3|6:3-5]]; [[Neh.7.70|Ne 7:70-72]]; [[Isa.44.28|Isa 44:28]]; [[Hag.2.3|Hag 2:3]]
 
 - Building of, suspended [[Ezra.4|Ezr 4]]
 
-- Resumed [[Ezra.4.24|Ezr 4:24]]; [[Ezra.5|5]]; [[Ezra.6|6]]; [[Hag.1.2|Hag 1:2]]-[[Hag.1.9|9]]; [[Hag.2.15|2:15]]; [[Zech.8.9|Zec 8:9]]
+- Resumed [[Ezra.4.24|Ezr 4:24]]; [[Ezra.5|5]]; [[Ezra.6|6]]; [[Hag.1.2|Hag 1:2-9]]; [[Hag.2.15|2:15]]; [[Zech.8.9|Zec 8:9]]
 
 - Finished [[Ezra.6.14|Ezr 6:14]],[[Ezra.6.15|15]]
 
-- Dedicated [[Ezra.6.15|Ezr 6:15]]-[[Ezra.6.18|18]]
+- Dedicated [[Ezra.6.15|Ezr 6:15-18]]
 
-- Artaxerxes' favorable action toward [[Ezra.7.11|Ezr 7:11]]-[[Ezra.7.28|28]]; [[Ezra.8.25|8:25]]-[[Ezra.8.34|34]]
+- Artaxerxes' favorable action toward [[Ezra.7.11|Ezr 7:11-28]]; [[Ezra.8.25|8:25-34]]
 
-- Prophecies of its restoration [[Isa.44.28|Isa 44:28]]; [[Dan.8.13|Da 8:13]],[[Dan.8.14|14]];  [[Hag.1|Hag 1]]; [[Hag.2|2]]; [[Zech.1.16|Zec 1:16]]; [[Zech.4.8|4:8]]-[[Zech.4.10|10]]; [[Zech.6.12|6:12]]-[[Zech.6.15|15]]; [[Zech.8.9|8:9]]-[[Zech.8.15|15]]; [[Mal.3.1|Mal 3:1]]
+- Prophecies of its restoration [[Isa.44.28|Isa 44:28]]; [[Dan.8.13|Da 8:13]],[[Dan.8.14|14]];  [[Hag.1|Hag 1]]; [[Hag.2|2]]; [[Zech.1.16|Zec 1:16]]; [[Zech.4.8|4:8-10]]; [[Zech.6.12|6:12-15]]; [[Zech.8.9|8:9-15]]; [[Mal.3.1|Mal 3:1]]
 
 → EZEKIEL' S VISION OF [[Ezek.37.26|Eze 37:26]],[[Ezek.37.28|28]]; [[Ezek.40.48|40:48]]
 
@@ -269,25 +269,25 @@
 
 - Solomon' s Porch (portico) [[John.10.23|Joh 10:23]]; [[Acts.3.11|Ac 3:11]]; [[Acts.5.12|5:12]]
 
-- Treasury of [[Mark.12.41|Mr 12:41]]-[[Mark.12.44|44]]
+- Treasury of [[Mark.12.41|Mr 12:41-44]]
 
-- Zacharias, officiating priest in, has a vision of an angel; receives  promise of a son [[Luke.1.5|Lu 1:5]]-[[Luke.1.23|23]]; with 1:57-64
+- Zacharias, officiating priest in, has a vision of an angel; receives  promise of a son [[Luke.1.5|Lu 1:5-23]]; with 1:57-64
 
-- Jesus brought to, according to the law and custom [[Luke.2.21|Lu 2:21]]-[[Luke.2.39|39]]
+- Jesus brought to, according to the law and custom [[Luke.2.21|Lu 2:21-39]]
 
-- Simeon blesses the infant Jesus in [[Luke.2.25|Lu 2:25]]-[[Luke.2.35|35]]
+- Simeon blesses the infant Jesus in [[Luke.2.25|Lu 2:25-35]]
 
 - Anna, the prophetess, lives in [[Luke.2.36|Lu 2:36]],[[Luke.2.37|37]]
 
 - Jesus in, when a youth [[Luke.2.46|Lu 2:46]]
 
-- Jesus taken to the pinnacle of, during his temptation [[Matt.4.5|Mt 4:5]]-[[Matt.4.7|7]]; [[Luke.4.9|Lu 4:9]]-[[Luke.4.12|12]]
+- Jesus taken to the pinnacle of, during his temptation [[Matt.4.5|Mt 4:5-7]]; [[Luke.4.9|Lu 4:9-12]]
 
-- Jesus teaches in [[Mark.11.27|Mr 11:27]]-[[Mark.11.33|33]]; [[Mark.12.35|12:35]]-[[Mark.12.44|44]]; [[Mark.14.49|14:49]]; [[John.5.14|Joh  5:14]]-[[John.5.17|17]]; [[John.7.14|7:14]]-[[John.7.28|28]]; [[John.8|8]]; [[John.10.23|10:23]]-[[John.10.38|38]]; [[John.18.20|18:20]]
+- Jesus teaches in [[Mark.11.27|Mr 11:27-33]]; [[Mark.12.35|12:35-44]]; [[Mark.14.49|14:49]]; [[John.5.14|Joh  5:14-17]]; [[John.7.14|7:14-28]]; [[John.8|8]]; [[John.10.23|10:23-38]]; [[John.18.20|18:20]]
 
 - Jesus performs miracles in [[Matt.21.14|Mt 21:14]],[[Matt.21.15|15]]
 
-- Jesus expels money-exchangers from [[Matt.21.12|Mt 21:12]],[[Matt.21.13|13]]; [[Mark.11.15|Mr  11:15]]-[[Mark.11.17|17]]; [[Luke.19.45|Lu 19:45]],[[Luke.19.46|46]]; [[John.2.15|Joh 2:15]],[[John.2.16|16]]
+- Jesus expels money-exchangers from [[Matt.21.12|Mt 21:12]],[[Matt.21.13|13]]; [[Mark.11.15|Mr  11:15-17]]; [[Luke.19.45|Lu 19:45]],[[Luke.19.46|46]]; [[John.2.15|Joh 2:15]],[[John.2.16|16]]
 
 - Captains of (i. e. the temple security guard)  [[Luke.22.52|Lu 22:52]];  [[Acts.4.1|Ac 4:1]]; [[Acts.5.24|5:24]],[[Acts.5.26|26]]
 
@@ -297,17 +297,17 @@
 
 - The disciples worship in, after the resurrection [[Luke.24.53|Lu  24:53]]; [[Acts.2.46|Ac 2:46]]; [[Acts.3.1|3:1]]
 
-- Peter heals the lame man at the gate of [[Acts.3.1|Ac 3:1]]-[[Acts.3.16|16]]
+- Peter heals the lame man at the gate of [[Acts.3.1|Ac 3:1-16]]
 
 - Disciples preach in [[Acts.5.20|Ac 5:20]],[[Acts.5.21|21]],[[Acts.5.42|42]]
 
-- Paul' s vision in [[Acts.22.17|Ac 22:17]]-[[Acts.22.21|21]]
+- Paul' s vision in [[Acts.22.17|Ac 22:17-21]]
 
-- Paul observes the rights of [[Acts.21.26|Ac 21:26]]-[[Acts.21.30|30]]
+- Paul observes the rights of [[Acts.21.26|Ac 21:26-30]]
 
 - Paul is apprehended in [[Acts.21.33|Ac 21:33]]
 
-- Prophecies concerning its destruction, by Daniel [[Dan.8.11|Da  8:11]]-[[Dan.8.15|15]]; [[Dan.11.30|11:30]],[[Dan.11.31|31]]
+- Prophecies concerning its destruction, by Daniel [[Dan.8.11|Da  8:11-15]]; [[Dan.11.30|11:30]],[[Dan.11.31|31]]
 
 - Jesus foretells the destruction of [[Matt.24|Mt 24]]; [[Mark.13.2|Mr 13:2]];  [[Luke.21.6|Lu 21:6]]
 
@@ -323,7 +323,7 @@
 
 - Of Christ, the head of the ekklesia (his community, his body,  cf [[Eph.1.22|Eph 1:22]],[[Eph.1.23|23]]; [[Col.1.18|Col 1:18]],[[Col.1.24|24]]
 
-- Sending forth the forces of righteousness against the powers  of evil [[Rev.15.5|Re 15:5]]-[[Rev.15.8|8]]; [[Rev.16.1|16:1]]-[[Rev.16.17|17]]
+- Sending forth the forces of righteousness against the powers  of evil [[Rev.15.5|Re 15:5-8]]; [[Rev.16.1|16:1-17]]
 
 → IDOLATROUS
 

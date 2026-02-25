@@ -1,10 +1,70 @@
+---
+title: Acts 23:21
+type: Verse
+kjv: "But do not thou yield unto them: for there lie in wait for him of them more than forty men, which have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from thee."
+bsb: "Do not let them persuade you, because more than forty men are waiting to ambush him. They have bound themselves with an oath not to eat or drink until they have killed him; they are ready now, awaiting your consent.”"
+greek: "σὺ οὖν μὴ πεισθῇς αὐτοῖς, ἐνεδρεύουσιν γὰρ αὐτὸν ἐξ αὐτῶν ἄνδρες πλείους τεσσεράκοντα, οἵτινες ἀνεθεμάτισαν ἑαυτοὺς μήτε φαγεῖν μήτε πιεῖν ἕως οὗ ἀνέλωσιν αὐτὸν καὶ νῦν εἰσιν ἕτοιμοι προσδεχόμενοι τὴν ἀπὸ σοῦ ἐπαγγελίαν.¶"
+pericope: "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G3361]]"
+- "[[G3982]]"
+- "[[G0846]]"
+- "[[G1748]]"
+- "[[G1063]]"
+- "[[G1537]]"
+- "[[G0435G]]"
+- "[[G4183]]"
+- "[[G5062]]"
+- "[[G3748]]"
+- "[[G0332]]"
+- "[[G1438]]"
+- "[[G3383]]"
+- "[[G5315]]"
+- "[[G4095]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G0337]]"
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G1510]]"
+- "[[G2092]]"
+- "[[G4327]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G1860]]"
+texts:
+- NKO
+---
+
 **Acts 23:21**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But do not thou yield unto them: for there lie in wait for him of them more than forty men, which have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from thee.
 <small><sub>**BSB:**</sub></small>
 Do not let them persuade you, because more than forty men are waiting to ambush him. They have bound themselves with an oath not to eat or drink until they have killed him; they are ready now, awaiting your consent.”
-<small><sub>**Literal:**</sub></small>
-You yourself therefore not may be persuaded by them, Lie in wait indeed for him of them men more than forty, who was put under an oath themselves neither to eat nor to drink until that they may execute him and now they are ready awaiting the from you promise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.20|<< Acts 23:20]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.22|Acts 23:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|σὺ]]  [[G3767\|οὖν]]  [[G3361\|μὴ]]  [[G3982\|πεισθῇς]]  [[G0846\|αὐτοῖς,]]  [[G1748\|ἐνεδρεύουσιν]]  [[G1063\|γὰρ]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐξ]]  [[G0846\|αὐτῶν]]  [[G0435G\|ἄνδρες]]  [[G4183\|πλείους]]  [[G5062\|τεσσεράκοντα,]]  [[G3748\|οἵτινες]]  [[G0332\|ἀνεθεμάτισαν]]  [[G1438\|ἑαυτοὺς]]  [[G3383\|μήτε]]  [[G5315\|φαγεῖν]]  [[G3383\|μήτε]]  [[G4095\|πιεῖν]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G0337\|ἀνέλωσιν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G1510\|εἰσιν]]  [[G2092\|ἕτοιμοι]]  [[G4327\|προσδεχόμενοι]]  [[G3588\|τὴν]]  [[G0575\|ἀπὸ]]  [[G4771\|σοῦ]]  [[G1860\|ἐπαγγελίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.20|<< Acts 23:20]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.22|Acts 23:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

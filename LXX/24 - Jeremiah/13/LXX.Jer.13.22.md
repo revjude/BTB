@@ -1,6 +1,64 @@
+---
+title: LXX Jeremiah 13:22
+type: Verse
+lxx: "And if you shall say in  your heart, Why have these things met up with me? On account of the magnitude  of your iniquity your posteriors were uncovered, to make an example of  your heels."
+greek: "και εάν είπης εν τη καρδία σου διατί απήντησέ μοι ταύτα διά το πλήθος της αδικίας σου ανεκαλύφθη τα οπίσθιά σου παραδειγματίσθηναι τας πτέρνας σου"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G1302]]"
+- "[[G0528]]"
+- "[[G1473]]"
+- "[[G3778]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4128]]"
+- "[[G3588]]"
+- "[[G0093]]"
+- "[[G1473]]"
+- "[[G0343]]"
+- "[[G3588]]"
+- "[[G8531]]"
+- "[[G1473]]"
+- "[[G3856]]"
+- "[[G3588]]"
+- "[[G4418]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 13:22** 
 <small><sub>**LXX:**</sub></small>
 And if you shall say in  your heart, Why \[have\] these \[things\] met up with me? On account of the magnitude  of your iniquity your posteriors were uncovered, to make an example of  your heels. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1437\|εάν]] [[G2036\|είπης]] [[G1722\|εν]] [[G3588\|τη]] [[G2588\|καρδία]] [[G1473\|σου]] [[G1302\|διατί]] [[G0528\|απήντησέ]] [[G1473\|μοι]] [[G3778\|ταύτα]] [[G1223\|διά]] [[G3588\|το]] [[G4128\|πλήθος]] [[G3588\|της]] [[G0093\|αδικίας]] [[G1473\|σου]] [[G0343\|ανεκαλύφθη]] [[G3588\|τα]] [[G8531\|οπίσθιά]] [[G1473\|σου]] [[G3856\|παραδειγματίσθηναι]] [[G3588\|τας]] [[G4418\|πτέρνας]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.21|<< Jeremiah 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.23|Jeremiah 13:23 >>]]</td></tr></table>
 
@@ -27,6 +85,6 @@ And if you shall say in  your heart, Why \[have\] these \[things\] met up with m
 | to make an example of | **<big>[[G3856\|παραδειγματίσθηναι]]</big>** |
 | \<obj.> | **<big>[[G3588\|τας]]</big>** |
 | your heels. | **<big>[[G4418\|πτέρνας]]</big>** **<big>[[G1473\|σου]]</big>** |
-[[Jer.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.21|<< Jeremiah 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.23|Jeremiah 13:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.21|<< Jeremiah 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.23|Jeremiah 13:23 >>]]</td></tr></table>
 
 

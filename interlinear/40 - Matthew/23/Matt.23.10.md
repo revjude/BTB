@@ -1,10 +1,59 @@
+---
+title: Matthew 23:10
+type: Verse
+kjv: "Neither be ye called masters: for one is your Master, even Christ."
+bsb: "Nor are you to be called instructors, for you have one Instructor, the Christ."
+jesus_said: "Neither be ye called masters: for one is your Master, even Christ."
+greek: "μηδὲ κληθῆτε καθηγηταί, ὅτι ὁ καθηγητὴς ὑμῶν ἐστιν εἷς, ὁ Χριστός."
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+strongs:
+- "[[G3366]]"
+- "[[G2564G]]"
+- "[[G2519]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G1520]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Matthew 23:10**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither be ye called masters: for one is your Master, [even] Christ.
 <small><sub>**BSB:**</sub></small>
 Nor are you to be called instructors, for you have one Instructor, the Christ.
-<small><sub>**Literal:**</sub></small>
-Neither may be called instructors, since the instructor of you is One the Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.9|<< Matthew 23:9]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.11|Matthew 23:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3366\|μηδὲ]]  [[G2564G\|κληθῆτε]]  [[G2519\|καθηγηταί,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G2519\|καθηγητὴς]]  [[G4771\|ὑμῶν]]  [[G1510\|ἐστιν]]  [[G1520\|εἷς,]]  [[G3588\|ὁ]]  [[G5547\|Χριστός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic PRIDE|PRIDE]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.9|<< Matthew 23:9]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.11|Matthew 23:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

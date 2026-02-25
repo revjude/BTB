@@ -1,8 +1,54 @@
+---
+title: Proverbs 15:22
+type: Verse
+kjv: "Without counsel purposes are disappointed: but in the multitude of counsellers they are established."
+bsb: "Plans fail for lack of counsel, but with many advisers they succeed."
+hebrew: "הָפֵ֣ר מַ֭חֲשָׁבוֹת בְּאֵ֣ין ס֑וֹד וּבְרֹ֖ב יוֹעֲצִ֣ים תָּקֽוּם׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CONVENTION|CONVENTION]]"
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic UNION|UNION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H6565A]]"
+- "[[H4284]]"
+- "[[H9003]]"
+- "[[H0369]]"
+- "[[H5475]]"
+- "[[H9002]]"
+- "[[H7230]]"
+- "[[H3289]]"
+- "[[H6965I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:22**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Without counsel purposes are disappointed: but in the multitude of counsellers they are established.
 <small><sub>**BSB:**</sub></small>
 Plans fail for lack of counsel, but with many advisers they succeed.
+<small><sub>**Hebrew:**</sub></small>
+[[H6565A\|הָפֵ֣ר]] [[H4284\|מַ֭חֲשָׁבוֹת]] [[H9003\|בְּ]][[H0369\|אֵ֣ין]] [[H5475\|ס֑וֹד]] [[H9002\|וּ]][[H9003\|בְ]][[H7230\|רֹ֖ב]] [[H3289\|יוֹעֲצִ֣ים]] [[H6965I\|תָּקֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVENTION|CONVENTION]] • [[topic COUNSEL|COUNSEL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic UNION|UNION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.21|<< Proverbs 15:21]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.23|Proverbs 15:23 >>]]</td></tr></table>
 

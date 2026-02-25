@@ -1,8 +1,65 @@
+---
+title: Judges 4:10
+type: Verse
+kjv: "And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him."
+bsb: "where he summoned Zebulun and Naphtali. Ten thousand men followed him, and Deborah also went with him."
+hebrew: "וַיַּזְעֵ֨ק בָּרָ֜ק אֶת־ זְבוּלֻ֤ן וְאֶת־ נַפְתָּלִי֙ קֶ֔דְשָׁה וַיַּ֣עַל בְּרַגְלָ֔יו עֲשֶׂ֥רֶת אַלְפֵ֖י אִ֑ישׁ וַתַּ֥עַל עִמּ֖וֹ דְּבוֹרָֽה׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2199]]"
+- "[[H1301]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2074]]"
+- "[[H9002]]"
+- "[[H5321G]]"
+- "[[H6943G]]"
+- "[[H9011]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H6235]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H1683H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:10**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.
 <small><sub>**BSB:**</sub></small>
 where he summoned Zebulun and Naphtali. Ten thousand men followed him, and Deborah also went with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2199\|יַּזְעֵ֨ק]] [[H1301\|בָּרָ֜ק]] [[H0853\|אֶת]][[H9014\|־]] [[H2074\|זְבוּלֻ֤ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5321G\|נַפְתָּלִי֙]] [[H6943G\|קֶ֔דְשָׁ]][[H9011\|ה]] [[H9001\|וַ]][[H5927G\|יַּ֣עַל]] [[H9003\|בְּ]][[H7272\|רַגְלָ֔י]][[H9023\|ו]] [[H6235\|עֲשֶׂ֥רֶת]] [[H0505G\|אַלְפֵ֖י]] [[H0376G\|אִ֑ישׁ]] [[H9001\|וַ]][[H5927G\|תַּ֥עַל]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H1683H\|דְּבוֹרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic NAPHTALI|NAPHTALI]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.9|<< Judges 4:9]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.11|Judges 4:11 >>]]</td></tr></table>
 

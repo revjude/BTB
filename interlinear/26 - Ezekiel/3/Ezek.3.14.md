@@ -1,8 +1,61 @@
+---
+title: Ezekiel 3:14
+type: Verse
+kjv: "So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the LORD was strong upon me."
+bsb: "So the Spirit lifted me up and took me away, and I went in bitterness and in the anger of my spirit, with the strong hand of the LORD upon me."
+hebrew: "וְר֥וּחַ נְשָׂאַ֖תְנִי וַתִּקָּחֵ֑נִי וָאֵלֵ֥ךְ מַר֙ בַּחֲמַ֣ת רוּחִ֔י וְיַד־ יְהוָ֥ה עָלַ֖י חָזָֽקָה׃"
+pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H5375G]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H1980G]]"
+- "[[H4751]]"
+- "[[H9003]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H2388G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:14**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the spirit lifted me up, and took me away, and I went in bitterness, in the heat of my spirit; but the hand of the LORD was strong upon me.
 <small><sub>**BSB:**</sub></small>
 So the Spirit lifted me up and took me away, and I went in bitterness and in the anger of my spirit, with the strong hand of the LORD upon me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7307G\|ר֥וּחַ]] [[H5375G\|נְשָׂאַ֖תְ]][[H9030\|נִי]] [[H9001\|וַ]][[H3947G\|תִּקָּחֵ֑]][[H9030\|נִי]] [[H9001\|וָ]][[H1980G\|אֵלֵ֥ךְ]] [[H4751\|מַר֙]] [[H9003\|בַּ]][[H2534\|חֲמַ֣ת]] [[H7307G\|רוּחִ֔]][[H9020\|י]] [[H9002\|וְ]][[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H5921A\|עָלַ֖]][[H9030\|י]] [[H2388G\|חָזָֽקָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.13|<< Ezekiel 3:13]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.15|Ezekiel 3:15 >>]]</td></tr></table>
 

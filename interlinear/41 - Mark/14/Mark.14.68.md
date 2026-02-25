@@ -1,10 +1,63 @@
+---
+title: Mark 14:68
+type: Verse
+kjv: "But he denied, saying, I know not, neither understand I what thou sayest. And he went out into the porch; and the cock crew."
+bsb: "But he denied it. “I do not know or even understand what you are talking about,” he said. Then he went out to the gateway, and the rooster crowed."
+greek: "ὁ δὲ ἠρνήσατο λέγων· οὔτε οἶδα οὔτε ἐπίσταμαι σὺ τί λέγεις. καὶ ἐξῆλθεν ἔξω εἰς τὸ προαύλιον, καὶ ἀλέκτωρ ἐφώνησεν."
+pericope: "[[Mark.14.66 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COCK CROWING|COCK CROWING]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0720]]"
+- "[[G3004G]]"
+- "[[G3777]]"
+- "[[G6063]]"
+- "[[G1987]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G1854]]"
+- "[[G1519]]"
+- "[[G4259]]"
+- "[[G0220]]"
+- "[[G5455]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 14:68**<big><big>[[Mark.14.66 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he denied, saying, I know not, neither understand I what thou sayest. And he went out into the porch; and the cock crew.
 <small><sub>**BSB:**</sub></small>
 But he denied it. “I do not know or even understand what you are talking about,” he said. Then he went out to the gateway, and the rooster crowed.
-<small><sub>**Literal:**</sub></small>
-<the> But he denied [it] saying; Neither I know nor even understand you yourself what say. And he went forth out into the porch, and [the] rooster crowed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.67|<< Mark 14:67]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.69|Mark 14:69 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0720\|ἠρνήσατο]]  [[G3004G\|λέγων·]]  [[G3777\|οὔτε]]  [[G6063\|οἶδα]]  [[G3777\|οὔτε]]  [[G1987\|ἐπίσταμαι]]  [[G4771\|σὺ]]  [[G5101\|τί]]  [[G3004G\|λέγεις.]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G1854\|ἔξω]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4259\|προαύλιον,]]  [[G2532\|καὶ]]  [[G0220\|ἀλέκτωρ]]  [[G5455\|ἐφώνησεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COCK CROWING|COCK CROWING]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRISONERS|PRISONERS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.67|<< Mark 14:67]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.69|Mark 14:69 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

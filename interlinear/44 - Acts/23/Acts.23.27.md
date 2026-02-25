@@ -1,10 +1,64 @@
+---
+title: Acts 23:27
+type: Verse
+kjv: "This man was taken of the Jews, and should have been killed of them: then came I with an army, and rescued him, having understood that he was a Roman."
+bsb: "This man was seized by the Jews, and they were about to kill him when I came with my troops to rescue him. For I had learned that he is a Roman citizen,"
+greek: "τὸν ἄνδρα τοῦτον συλλημφθέντα ὑπὸ τῶν Ἰουδαίων καὶ μέλλοντα ἀναιρεῖσθαι ὑπ᾽ αὐτῶν, ἐπιστὰς σὺν τῷ στρατεύματι ἐξειλάμην αὐτόν μαθὼν ὅτι Ῥωμαῖός ἐστιν·"
+pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G3778]]"
+- "[[G4815]]"
+- "[[G5259G]]"
+- "[[G2453]]"
+- "[[G2532]]"
+- "[[G3195]]"
+- "[[G0337]]"
+- "[[G0846]]"
+- "[[G2186]]"
+- "[[G4862]]"
+- "[[G4753]]"
+- "[[G1807]]"
+- "[[G3129]]"
+- "[[G3754G]]"
+- "[[G4514]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 23:27**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This man was taken of the Jews, and should have been killed of them: then came I with an army, and rescued him, having understood that he was a Roman.
 <small><sub>**BSB:**</sub></small>
 This man was seized by the Jews, and they were about to kill him when I came with my troops to rescue him. For I had learned that he is a Roman citizen,
-<small><sub>**Literal:**</sub></small>
-<the> man this having been seized by the Jews and being about to be executed by them, having come up with the troop I rescued him having learned that a Roman he is;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.26|<< Acts 23:26]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.28|Acts 23:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸν]]  [[G0435G\|ἄνδρα]]  [[G3778\|τοῦτον]]  [[G4815\|συλλημφθέντα]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G2532\|καὶ]]  [[G3195\|μέλλοντα]]  [[G0337\|ἀναιρεῖσθαι]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτῶν,]]  [[G2186\|ἐπιστὰς]]  [[G4862\|σὺν]]  [[G3588\|τῷ]]  [[G4753\|στρατεύματι]]  [[G1807\|ἐξειλάμην]]  [[G0846\|αὐτόν]]  [[G3129\|μαθὼν]]  [[G3754G\|ὅτι]]  [[G4514\|Ῥωμαῖός]]  [[G1510\|ἐστιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic FELIX|FELIX]] • [[topic LETTERS|LETTERS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.26|<< Acts 23:26]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.28|Acts 23:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

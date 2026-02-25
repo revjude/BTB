@@ -9,7 +9,7 @@
 
 - The evil children of Beth-el deride Elisha [[2Kgs.2.23|2Ki 2:23]]
 
-- The people of Israel scoff at Hezekiah [[2Chr.30.1|2Ch 30:1]]-[[2Chr.30.10|10]]
+- The people of Israel scoff at Hezekiah [[2Chr.30.1|2Ch 30:1-10]]
 
 - See [[topic IRONY|IRONY]]
 

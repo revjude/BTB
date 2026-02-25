@@ -1,8 +1,59 @@
+---
+title: Leviticus 20:10
+type: Verse
+kjv: "And the man that committeth adultery with another man’s wife, even he that committeth adultery with his neighbour’s wife, the adulterer and the adulteress shall surely be put to death."
+bsb: "If a man commits adultery with another man’s wife—with the wife of his neighbor—both the adulterer and the adulteress must surely be put to death."
+hebrew: "וְאִ֗ישׁ אֲשֶׁ֤ר יִנְאַף֙ אֶת־ אֵ֣שֶׁת אִ֔ישׁ אֲשֶׁ֥ר יִנְאַ֖ף אֶת־ אֵ֣שֶׁת רֵעֵ֑הוּ מֽוֹת־ יוּמַ֥ת הַנֹּאֵ֖ף וְהַנֹּאָֽפֶת׃"
+pericope: "[[Lev.20.10 Punishments for Sexual Immorality|Punishments for Sexual Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H5003]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H4191]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:10**<big><big>[[Lev.20.10 Punishments for Sexual Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man that committeth adultery with [another] man’s wife, [even he] that committeth adultery with his neighbour’s wife, the adulterer and the adulteress shall surely be put to death.
 <small><sub>**BSB:**</sub></small>
 If a man commits adultery with another man’s wife—with the wife of his neighbor—both the adulterer and the adulteress must surely be put to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֗ישׁ]] [[H0834A\|אֲשֶׁ֤ר]] [[H5003\|יִנְאַף֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אֵ֣שֶׁת]] [[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5003\|יִנְאַ֖ף]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אֵ֣שֶׁת]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H4191\|מֽוֹת]][[H9014\|־]] [[H4191\|יוּמַ֥ת]] [[H9009\|הַ]][[H5003\|נֹּאֵ֖ף]] [[H9002\|וְ]][[H9009\|הַ]][[H5003\|נֹּאָֽפֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.9|<< Leviticus 20:9]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.11|Leviticus 20:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

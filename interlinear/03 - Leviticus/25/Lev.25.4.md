@@ -1,8 +1,66 @@
+---
+title: Leviticus 25:4
+type: Verse
+kjv: "But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard."
+bsb: "But in the seventh year there shall be a Sabbath of complete rest for the land—a Sabbath to the LORD. You are not to sow your field or prune your vineyard."
+hebrew: "וּבַשָּׁנָ֣ה הַשְּׁבִיעִ֗ת שַׁבַּ֤ת שַׁבָּתוֹן֙ יִהְיֶ֣ה לָאָ֔רֶץ שַׁבָּ֖ת לַיהוָ֑ה שָֽׂדְךָ֙ לֹ֣א תִזְרָ֔ע וְכַרְמְךָ֖ לֹ֥א תִזְמֹֽר׃"
+pericope: "[[Lev.25.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic HOLIDAY|HOLIDAY]]"
+- "[[topic PRUNING|PRUNING]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H7676]]"
+- "[[H7677]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H3068G]]"
+- "[[H7704G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H2232]]"
+- "[[H3754]]"
+- "[[H2168]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:4**<big><big>[[Lev.25.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the LORD: thou shalt neither sow thy field, nor prune thy vineyard.
 <small><sub>**BSB:**</sub></small>
 But in the seventh year there shall be a Sabbath of complete rest for the land—a Sabbath to the LORD. You are not to sow your field or prune your vineyard.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H8141\|שָּׁנָ֣ה]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗ת]] [[H7676\|שַׁבַּ֤ת]] [[H7677\|שַׁבָּתוֹן֙]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H0776G\|אָ֔רֶץ]] [[H7676\|שַׁבָּ֖ת]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H7704G\|שָֽׂדְ]][[H9021\|ךָ֙]] [[H3808\|לֹ֣א]] [[H2232\|תִזְרָ֔ע]] [[H9002\|וְ]][[H3754\|כַרְמְ]][[H9021\|ךָ֖]] [[H3808\|לֹ֥א]] [[H2168\|תִזְמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic HOLIDAY|HOLIDAY]] • [[topic PRUNING|PRUNING]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.3|<< Leviticus 25:3]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.5|Leviticus 25:5 >>]]</td></tr></table>
 

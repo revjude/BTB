@@ -1,8 +1,65 @@
+---
+title: Leviticus 25:54
+type: Verse
+kjv: "And if he be not redeemed in these years, then he shall go out in the year of jubile, both he, and his children with him."
+bsb: "Even if he is not redeemed in any of these ways, he and his children shall be released in the Year of Jubilee."
+hebrew: "וְאִם־ לֹ֥א יִגָּאֵ֖ל בְּאֵ֑לֶּה וְיָצָא֙ בִּשְׁנַ֣ת הַיֹּבֵ֔ל ה֖וּא וּבָנָ֥יו עִמּֽוֹ׃"
+pericope: "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H1350A]]"
+- "[[H9003]]"
+- "[[H0428]]"
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H3104]]"
+- "[[H1931]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:54**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he be not redeemed in these [years], then he shall go out in the year of jubile, [both] he, and his children with him.
 <small><sub>**BSB:**</sub></small>
 Even if he is not redeemed in any of these ways, he and his children shall be released in the Year of Jubilee.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H1350A\|יִגָּאֵ֖ל]] [[H9003\|בְּ]][[H0428\|אֵ֑לֶּה]] [[H9001\|וְ]][[H3318H\|יָצָא֙]] [[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H9009\|הַ]][[H3104\|יֹּבֵ֔ל]] [[H1931\|ה֖וּא]] [[H9002\|וּ]][[H1121A\|בָנָ֥י]][[H9023\|ו]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.53|<< Leviticus 25:53]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.55|Leviticus 25:55 >>]]</td></tr></table>
 

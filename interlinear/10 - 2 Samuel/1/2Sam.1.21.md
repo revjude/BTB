@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 1:21
+type: Verse
+kjv: "Ye mountains of Gilboa, let there be no dew, neither let there be rain, upon you, nor fields of offerings: for there the shield of the mighty is vilely cast away, the shield of Saul, as though he had not been anointed with oil."
+bsb: "O mountains of Gilboa, may you have no dew or rain, no fields yielding offerings of grain. For there the shield of the mighty was defiled, the shield of Saul, no longer anointed with oil."
+hebrew: "הָרֵ֣י בַגִּלְבֹּ֗עַ אַל־ טַ֧ל וְאַל־ מָטָ֛ר עֲלֵיכֶ֖ם וּשְׂדֵ֣י תְרוּמֹ֑ת כִּ֣י שָׁ֤ם נִגְעַל֙ מָגֵ֣ן גִּבּוֹרִ֔ים מָגֵ֣ן שָׁא֔וּל בְּלִ֖י מָשִׁ֥יחַ בַּשָּֽׁמֶן׃"
+pericope: "[[2Sam.1.17 David’s Song for Saul and Jonathan|David’s Song for Saul and Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELEGY|ELEGY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic IMPRECATION|IMPRECATION]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H2022G]]"
+- "[[H9003]]"
+- "[[H1533G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2919]]"
+- "[[H9002]]"
+- "[[H4306]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H7704G]]"
+- "[[H8641]]"
+- "[[H3588A]]"
+- "[[H8033G]]"
+- "[[H1602]]"
+- "[[H4043]]"
+- "[[H1368]]"
+- "[[H7586G]]"
+- "[[H1097]]"
+- "[[H4899]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:21**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye mountains of Gilboa, [let there be] no dew, neither [let there be] rain, upon you, nor fields of offerings: for there the shield of the mighty is vilely cast away, the shield of Saul, [as though he had] not [been] anointed with oil.
 <small><sub>**BSB:**</sub></small>
 O mountains of Gilboa, may you have no dew or rain, no fields yielding offerings of grain. For there the shield of the mighty was defiled, the shield of Saul, no longer anointed with oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H2022G\|הָרֵ֣י]] [[H9003\|בַ]][[H1533G\|גִּלְבֹּ֗עַ]] [[H0408\|אַל]][[H9014\|־]] [[H2919\|טַ֧ל]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H4306\|מָטָ֛ר]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H9002\|וּ]][[H7704G\|שְׂדֵ֣י]] [[H8641\|תְרוּמֹ֑ת]] [[H3588A\|כִּ֣י]] [[H8033G\|שָׁ֤ם]] [[H1602\|נִגְעַל֙]] [[H4043\|מָגֵ֣ן]] [[H1368\|גִּבּוֹרִ֔ים]] [[H4043\|מָגֵ֣ן]] [[H7586G\|שָׁא֔וּל]] [[H1097\|בְּלִ֖י]] [[H4899\|מָשִׁ֥יחַ]] [[H9003\|בַּ]][[H8081\|שָּֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ELEGY|ELEGY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic IMPRECATION|IMPRECATION]] • [[topic JONATHAN|JONATHAN]] • [[topic MOURNING|MOURNING]] • [[topic POETRY|POETRY]] • [[topic SHIELD|SHIELD]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.20|<< 2 Samuel 1:20]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.22|2 Samuel 1:22 >>]]</td></tr></table>
 

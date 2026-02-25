@@ -1,9 +1,70 @@
+---
+title: LXX Isaiah 66:1
+type: Verse
+lxx: "Thus says the lord, The heaven is my throne, and the earth a footstool  for my feet. What kind of house shall you build to me? and what kind of place  for my rest?"
+greek: "ούτως λέγει κύριος ο ουρανός μοι θρόνος και η γη υποπόδιον των ποδών μου ποίον οίκον οικοδομήσετέ μοι και ποίος τόπος της καταπαύσεώς μου"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic FOOTSTOOL|FOOTSTOOL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STOOL|STOOL]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G3779]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1473]]"
+- "[[G2362]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G5286]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G1473]]"
+- "[[G4169]]"
+- "[[G3624]]"
+- "[[G3618]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4169]]"
+- "[[G5117]]"
+- "[[G3588]]"
+- "[[G2663]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 66:1** 
 
 ***Judgment and Hope***
 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span>, The heaven \[is\] my throne, and the earth a footstool  for my feet. What kind of house shall you build to me? and what kind of place  for my rest? 
+<small><sub>**Greek:**</sub></small>
+[[G3779\|ούτως]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G3588\|ο]] [[G3772\|ουρανός]] [[G1473\|μοι]] [[G2362\|θρόνος]] [[G2532\|και]] [[G3588\|η]] [[G1093\|γη]] [[G5286\|υποπόδιον]] [[G3588\|των]] [[G4228\|ποδών]] [[G1473\|μου]] [[G4169\|ποίον]] [[G3624\|οίκον]] [[G3618\|οικοδομήσετέ]] [[G1473\|μοι]] [[G2532\|και]] [[G4169\|ποίος]] [[G5117\|τόπος]] [[G3588\|της]] [[G2663\|καταπαύσεώς]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic FOOTSTOOL|FOOTSTOOL]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STOOL|STOOL]] • [[topic THRONE|THRONE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.66.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.25|<< Isaiah 65:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.2|Isaiah 66:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -35,6 +96,6 @@ Thus says \[the\] <span class="smallcaps">lord</span>, The heaven \[is\] my thro
 | place | **<big>[[G5117\|τόπος]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | for my rest? | **<big>[[G2663\|καταπαύσεώς]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Isa.66.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.25|<< Isaiah 65:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.2|Isaiah 66:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.65.25|<< Isaiah 65:25]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.66.2|Isaiah 66:2 >>]]</td></tr></table>
 
 

@@ -1,8 +1,78 @@
+---
+title: Jeremiah 19:11
+type: Verse
+kjv: "And shalt say unto them, Thus saith the LORD of hosts; Even so will I break this people and this city, as one breaketh a potter’s vessel, that cannot be made whole again: and they shall bury them in Tophet, till there be no place to bury."
+bsb: "and you are to proclaim to them that this is what the LORD of Hosts says: I will shatter this nation and this city, like one shatters a potter’s jar that can never again be repaired. They will bury the dead in Topheth until there is no more room to bury them."
+hebrew: "וְאָמַרְתָּ֨ אֲלֵיהֶ֜ם כֹּה־ אָמַ֣ר׀ יְהוָ֣ה צְבָא֗וֹת כָּ֣כָה אֶשְׁבֹּ֞ר אֶת־ הָעָ֤ם הַזֶּה֙ וְאֶת־ הָעִ֣יר הַזֹּ֔את כַּאֲשֶׁ֤ר יִשְׁבֹּר֙ אֶת־ כְּלִ֣י הַיּוֹצֵ֔ר אֲשֶׁ֛ר לֹֽא־ יוּכַ֥ל לְהֵרָפֵ֖ה ע֑וֹד וּבְתֹ֣פֶת יִקְבְּר֔וּ מֵאֵ֥ין מָק֖וֹם לִקְבּֽוֹר׃"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic TOPHET|TOPHET]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H3602]]"
+- "[[H7665]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3627]]"
+- "[[H3335H]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H7495]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H8612]]"
+- "[[H6912]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 19:11**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shalt say unto them, Thus saith the LORD of hosts; Even so will I break this people and this city, as [one] breaketh a potter’s vessel, that cannot be made whole again: and they shall bury [them] in Tophet, till [there be] no place to bury.
 <small><sub>**BSB:**</sub></small>
 and you are to proclaim to them that this is what the LORD of Hosts says: I will shatter this nation and this city, like one shatters a potter’s jar that can never again be repaired. They will bury the dead in Topheth until there is no more room to bury them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֨]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֗וֹת]] [[H3602\|כָּ֣כָה]] [[H7665\|אֶשְׁבֹּ֞ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֤ם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H7665\|יִשְׁבֹּר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3627\|כְּלִ֣י]] [[H9009\|הַ]][[H3335H\|יּוֹצֵ֔ר]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3201\|יוּכַ֥ל]] [[H9005\|לְ]][[H7495\|הֵרָפֵ֖ה]] [[H5750\|ע֑וֹד]] [[H9002\|וּ]][[H9003\|בְ]][[H8612\|תֹ֣פֶת]] [[H6912\|יִקְבְּר֔וּ]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H4725\|מָק֖וֹם]] [[H9005\|לִ]][[H6912\|קְבּֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic TOPHET|TOPHET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.10|<< Jeremiah 19:10]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.12|Jeremiah 19:12 >>]]</td></tr></table>
 

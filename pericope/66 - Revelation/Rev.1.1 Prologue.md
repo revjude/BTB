@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Prologue
+type: Pericope
 pericope: "[[Rev.1.1 Prologue|Prologue]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 1
 book/chapter: "[[Rev.1|Revelation 1]]"
-genre:
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 3
 verses:
 - "[[Rev.1.1]]"
 - "[[Rev.1.2]]"
 - "[[Rev.1.3]]"
 ---
 
-[[Rev.1|Revelation 1:1 - Revelation 1:3]]
+<small>[[Rev.1|Revelation 1:1-3]]</small>
 *Prologue*
 
 [[Rev.1.1|1]] The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified \[it\] by his angel unto his servant John:

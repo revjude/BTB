@@ -1,8 +1,64 @@
+---
+title: Ezekiel 38:12
+type: Verse
+kjv: "To take a spoil, and to take a prey; to turn thine hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land."
+bsb: "in order to seize the spoil and carry off the plunder, to turn a hand against the desolate places now inhabited and against a people gathered from the nations, who have acquired livestock and possessions and who live at the center of the land.’"
+hebrew: "לִשְׁלֹ֥ל שָׁלָ֖ל וְלָבֹ֣ז בַּ֑ז לְהָשִׁ֨יב יָדְךָ֜ עַל־ חֳרָב֣וֹת נוֹשָׁבֹ֗ת וְאֶל־ עַם֙ מְאֻסָּ֣ף מִגּוֹיִ֔ם עֹשֶׂה֙ מִקְנֶ֣ה וְקִנְיָ֔ן יֹשְׁבֵ֖י עַל־ טַבּ֥וּר הָאָֽרֶץ׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9005]]"
+- "[[H7997B]]"
+- "[[H7998]]"
+- "[[H9002]]"
+- "[[H0962]]"
+- "[[H0957]]"
+- "[[H7725G]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2723]]"
+- "[[H3427]]"
+- "[[H0413]]"
+- "[[H5971A]]"
+- "[[H0622]]"
+- "[[H9006]]"
+- "[[H1471A]]"
+- "[[H6213I]]"
+- "[[H4735]]"
+- "[[H7075]]"
+- "[[H2872]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:12**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To take a spoil, and to take a prey; to turn thine hand upon the desolate places [that are now] inhabited, and upon the people [that are] gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land.
 <small><sub>**BSB:**</sub></small>
 in order to seize the spoil and carry off the plunder, to turn a hand against the desolate places now inhabited and against a people gathered from the nations, who have acquired livestock and possessions and who live at the center of the land.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H7997B\|שְׁלֹ֥ל]] [[H7998\|שָׁלָ֖ל]] [[H9002\|וְ]][[H9005\|לָ]][[H0962\|בֹ֣ז]] [[H0957\|בַּ֑ז]] [[H9005\|לְ]][[H7725G\|הָשִׁ֨יב]] [[H3027H\|יָדְ]][[H9021\|ךָ֜]] [[H5921A\|עַל]][[H9014\|־]] [[H2723\|חֳרָב֣וֹת]] [[H3427\|נוֹשָׁבֹ֗ת]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַם֙]] [[H0622\|מְאֻסָּ֣ף]] [[H9006\|מִ]][[H1471A\|גּוֹיִ֔ם]] [[H6213I\|עֹשֶׂה֙]] [[H4735\|מִקְנֶ֣ה]] [[H9002\|וְ]][[H7075\|קִנְיָ֔ן]] [[H3427\|יֹשְׁבֵ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H2872\|טַבּ֥וּר]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.11|<< Ezekiel 38:11]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.13|Ezekiel 38:13 >>]]</td></tr></table>
 

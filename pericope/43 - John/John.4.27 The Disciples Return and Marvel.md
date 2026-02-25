@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Disciples Return and Marvel
+type: Pericope
 pericope: "[[John.4.27 The Disciples Return and Marvel|The Disciples Return and Marvel]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: John
 chapter: 4
 book/chapter: "[[John.4|John 4]]"
-genre:
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 12
 verses:
 - "[[John.4.27]]"
 - "[[John.4.28]]"
@@ -30,7 +37,7 @@ verses:
 - "[[John.4.38]]"
 ---
 
-[[John.4|John 4:27 - John 4:38]]
+<small>[[John.4|John 4:27-38]]</small>
 *The Disciples Return and Marvel*
 
 [[John.4.27|27]] And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?

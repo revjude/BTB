@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 23:10
+type: Verse
+kjv: "And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about."
+bsb: "He stationed all the troops, with their weapons in hand, surrounding the king by the altar and the temple, from the south side to the north side of the temple."
+hebrew: "וַיַּעֲמֵ֨ד אֶת־ כָּל־ הָעָ֜ם וְאִ֣ישׁ׀ שִׁלְח֣וֹ בְיָד֗וֹ מִכֶּ֨תֶף הַבַּ֤יִת הַיְמָנִית֙ עַד־ כֶּ֤תֶף הַבַּ֙יִת֙ הַשְּׂמָאלִ֔ית לַמִּזְבֵּ֖חַ וְלַבָּ֑יִת עַל־ הַמֶּ֖לֶךְ סָבִֽיב׃"
+pericope: "[[2Chr.23.1 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 23
+book/chapter: "[[2Chr.23|2 Chronicles 23]]"
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H9015]]"
+- "[[H7973]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9006]]"
+- "[[H3802]]"
+- "[[H1004B]]"
+- "[[H3233H]]"
+- "[[H5704]]"
+- "[[H8042H]]"
+- "[[H9005]]"
+- "[[H4196]]"
+- "[[H5921A]]"
+- "[[H4428G]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 23:10**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about.
 <small><sub>**BSB:**</sub></small>
 He stationed all the troops, with their weapons in hand, surrounding the king by the altar and the temple, from the south side to the north side of the temple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975H\|יַּעֲמֵ֨ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H9002\|וְ]][[H0376I\|אִ֣ישׁ]][[H9015\|׀]] [[H7973\|שִׁלְח֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H3027G\|יָד֗]][[H9023\|וֹ]] [[H9006\|מִ]][[H3802\|כֶּ֨תֶף]] [[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H9009\|הַ]][[H3233H\|יְמָנִית֙]] [[H5704\|עַד]][[H9014\|־]] [[H3802\|כֶּ֤תֶף]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H9009\|הַ]][[H8042H\|שְּׂמָאלִ֔ית]] [[H9005\|לַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9002\|וְ]][[H9005\|לַ]][[H1004B\|בָּ֑יִת]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.9|<< 2 Chronicles 23:9]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.11|2 Chronicles 23:11 >>]]</td></tr></table>
 

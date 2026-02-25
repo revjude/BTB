@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 7:12
+type: Verse
+kjv: "And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom."
+bsb: "And when your days are fulfilled and you rest with your fathers, I will raise up your descendant after you, who will come from your own body, and I will establish his kingdom."
+hebrew: "כִּ֣י׀ יִמְלְא֣וּ יָמֶ֗יךָ וְשָֽׁכַבְתָּ֙ אֶת־ אֲבֹתֶ֔יךָ וַהֲקִימֹתִ֤י אֶֽת־ זַרְעֲךָ֙ אַחֲרֶ֔יךָ אֲשֶׁ֥ר יֵצֵ֖א מִמֵּעֶ֑יךָ וַהֲכִינֹתִ֖י אֶת־ מַמְלַכְתּֽוֹ׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H4390]]"
+- "[[H3117G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H7901G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H2233H]]"
+- "[[H0310A]]"
+- "[[H9031]]"
+- "[[H0834A]]"
+- "[[H3318M]]"
+- "[[H9006]]"
+- "[[H4578]]"
+- "[[H3559H]]"
+- "[[H4467]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:12**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom.
 <small><sub>**BSB:**</sub></small>
 And when your days are fulfilled and you rest with your fathers, I will raise up your descendant after you, who will come from your own body, and I will establish his kingdom.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H4390\|יִמְלְא֣וּ]] [[H3117G\|יָמֶ֗י]][[H9021\|ךָ]] [[H9001\|וְ]][[H7901G\|שָֽׁכַבְתָּ֙]] [[H0854\|אֶת]][[H9014\|־]] [[H0001G\|אֲבֹתֶ֔י]][[H9021\|ךָ]] [[H9001\|וַ]][[H6965I\|הֲקִימֹתִ֤י]] [[H0853\|אֶֽת]][[H9014\|־]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֙]] [[H0310A\|אַחֲרֶ֔י]][[H9031\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H3318M\|יֵצֵ֖א]] [[H9006\|מִ]][[H4578\|מֵּעֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H3559H\|הֲכִינֹתִ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H4467\|מַמְלַכְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic NATHAN|NATHAN]] • [[topic SOLOMON|SOLOMON]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.11|<< 2 Samuel 7:11]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.13|2 Samuel 7:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

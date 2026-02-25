@@ -1,10 +1,54 @@
+---
+title: John 3:9
+type: Verse
+kjv: "Nicodemus answered and said unto him, How can these things be?"
+bsb: "“How can this be?” Nicodemus asked."
+greek: "Ἀπεκρίθη Νικόδημος καὶ εἶπεν αὐτῷ· πῶς δύναται ταῦτα γενέσθαι;¶"
+pericope: "[[John.3.1 Jesus and Nicodemus|Jesus and Nicodemus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic NICODEMUS|NICODEMUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G0611]]"
+- "[[G3530]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4459]]"
+- "[[G1410]]"
+- "[[G3778]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **John 3:9**<big><big>[[John.3.1 Jesus and Nicodemus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nicodemus answered and said unto him, How can these things be?
 <small><sub>**BSB:**</sub></small>
 “How can this be?” Nicodemus asked.
-<small><sub>**Literal:**</sub></small>
-Answered Nicodemus and said to Him; How are able these things to be?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.8|<< John 3:8]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.10|John 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3530\|Νικόδημος]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G4459\|πῶς]]  [[G1410\|δύναται]]  [[G3778\|ταῦτα]]  [[G1096\|γενέσθαι;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MYSTERIES|MYSTERIES]] • [[topic NICODEMUS|NICODEMUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.8|<< John 3:8]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.10|John 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

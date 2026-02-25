@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Only Savior
+type: Pericope
 pericope: "[[Isa.43.1 Israel’s Only Savior|Israel’s Only Savior]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 43
 book/chapter: "[[Isa.43|Isaiah 43]]"
-genre:
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 13
 verses:
 - "[[Isa.43.1]]"
 - "[[Isa.43.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Isa.43.13]]"
 ---
 
-[[Isa.43|Isaiah 43:1 - Isaiah 43:13]]
+<small>[[Isa.43|Isaiah 43:1-13]]</small>
 *Israel’s Only Savior*
 
 [[Isa.43.1|1]] But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called \[thee\] by thy name; thou \[art\] mine.

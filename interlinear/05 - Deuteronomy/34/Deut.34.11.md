@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 34:11
+type: Verse
+kjv: "In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,"
+bsb: "no prophet who did all the signs and wonders that the LORD sent Moses to do in the land of Egypt to Pharaoh and to all his officials and all his land,"
+hebrew: "לְכָל־ הָ֨אֹת֜וֹת וְהַמּוֹפְתִ֗ים אֲשֶׁ֤ר שְׁלָחוֹ֙ יְהוָ֔ה לַעֲשׂ֖וֹת בְּאֶ֣רֶץ מִצְרָ֑יִם לְפַרְעֹ֥ה וּלְכָל־ עֲבָדָ֖יו וּלְכָל־ אַרְצֽוֹ׃"
+pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 34
+book/chapter: "[[Deut.34|Deuteronomy 34]]"
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0226G]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H6547J]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 34:11**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,
 <small><sub>**BSB:**</sub></small>
 no prophet who did all the signs and wonders that the LORD sent Moses to do in the land of Egypt to Pharaoh and to all his officials and all his land,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֨]][[H0226G\|אֹת֜וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H4159\|מּוֹפְתִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H7971G\|שְׁלָח]][[H9033\|וֹ֙]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9005\|לְ]][[H6547J\|פַרְעֹ֥ה]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.10|<< Deuteronomy 34:10]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.12|Deuteronomy 34:12 >>]]</td></tr></table>
 

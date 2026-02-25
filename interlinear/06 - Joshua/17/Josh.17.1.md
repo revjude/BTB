@@ -1,8 +1,64 @@
+---
+title: Joshua 17:1
+type: Verse
+kjv: "There was also a lot for the tribe of Manasseh; for he was the firstborn of Joseph; to wit, for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan."
+bsb: "Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son, namely for Machir the firstborn of Manasseh and father of the Gileadites, who had received Gilead and Bashan because Machir was a man of war."
+hebrew: "וַיְהִ֤י הַגּוֹרָל֙ לְמַטֵּ֣ה מְנַשֶּׁ֔ה כִּי־ ה֖וּא בְּכ֣וֹר יוֹסֵ֑ף לְמָכִיר֩ בְּכ֨וֹר מְנַשֶּׁ֜ה אֲבִ֣י הַגִּלְעָ֗ד כִּ֣י ה֤וּא הָיָה֙ אִ֣ישׁ מִלְחָמָ֔ה וַֽיְהִי־ ל֖וֹ הַגִּלְעָ֥ד וְהַבָּשָֽׁן׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MACHIR|MACHIR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H1486]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H4519G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H1060]]"
+- "[[H3130G]]"
+- "[[H4353G]]"
+- "[[H0001G]]"
+- "[[H1568H]]"
+- "[[H0376G]]"
+- "[[H4421]]"
+- "[[H9033]]"
+- "[[H1568G]]"
+- "[[H9002]]"
+- "[[H1316]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:1**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There was also a lot for the tribe of Manasseh; for he [was] the firstborn of Joseph; [to wit], for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.
 <small><sub>**BSB:**</sub></small>
 Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son, namely for Machir the firstborn of Manasseh and father of the Gileadites, who had received Gilead and Bashan because Machir was a man of war.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9009\|הַ]][[H1486\|גּוֹרָל֙]] [[H9005\|לְ]][[H4294H\|מַטֵּ֣ה]] [[H4519G\|מְנַשֶּׁ֔ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H1060\|בְּכ֣וֹר]] [[H3130G\|יוֹסֵ֑ף]] [[H9005\|לְ]][[H4353G\|מָכִיר֩]] [[H1060\|בְּכ֨וֹר]] [[H4519G\|מְנַשֶּׁ֜ה]] [[H0001G\|אֲבִ֣י]] [[H9009\|הַ]][[H1568H\|גִּלְעָ֗ד]] [[H3588A\|כִּ֣י]] [[H1931\|ה֤וּא]] [[H1961\|הָיָה֙]] [[H0376G\|אִ֣ישׁ]] [[H4421\|מִלְחָמָ֔ה]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9009\|הַ]][[H1568G\|גִּלְעָ֥ד]] [[H9002\|וְ]][[H9009\|הַ]][[H1316\|בָּשָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic GILEAD|GILEAD]] • [[topic MACHIR|MACHIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.10|<< Joshua 16:10]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.2|Joshua 17:2 >>]]</td></tr></table>
 

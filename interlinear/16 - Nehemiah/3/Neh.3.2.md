@@ -1,8 +1,56 @@
+---
+title: Nehemiah 3:2
+type: Verse
+kjv: "And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri."
+bsb: "The men of Jericho built next to Eliashib, and Zaccur son of Imri built next to them."
+hebrew: "וְעַל־ יָד֥וֹ בָנ֖וּ אַנְשֵׁ֣י יְרֵח֑וֹ ס וְעַל־ יָד֣וֹ בָנָ֔ה זַכּ֖וּר בֶּן־ אִמְרִֽי׃ ס"
+pericope: "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic IMRI|IMRI]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic ZACCUR|ZACCUR]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027I]]"
+- "[[H9023]]"
+- "[[H1129]]"
+- "[[H0582]]"
+- "[[H3405G]]"
+- "[[H9018]]"
+- "[[H2139L]]"
+- "[[H1121A]]"
+- "[[H0566H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 3:2**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri.
 <small><sub>**BSB:**</sub></small>
 The men of Jericho built next to Eliashib, and Zaccur son of Imri built next to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3027I\|יָד֥]][[H9023\|וֹ]] [[H1129\|בָנ֖וּ]] [[H0582\|אַנְשֵׁ֣י]] [[H3405G\|יְרֵח֑וֹ]] [[H9018\|ס]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3027I\|יָד֣]][[H9023\|וֹ]] [[H1129\|בָנָ֔ה]] [[H2139L\|זַכּ֖וּר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0566H\|אִמְרִֽי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMRI|IMRI]] • [[topic JERICHO|JERICHO]] • [[topic ZACCUR|ZACCUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.1|<< Nehemiah 3:1]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.3|Nehemiah 3:3 >>]]</td></tr></table>
 
@@ -12,13 +60,13 @@ The men of Jericho built next to Eliashib, and Zaccur son of Imri built next to 
 | hand his  |**<big>&#8207;[[H3027I\|יָד֥]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they built  |**<big>&#8207;[[H1129\|בָנ֖וּ]]&#8207; </big>**| va.Nu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֣י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jericho  |**<big>&#8207;[[H3405G\|יְרֵח֑וֹ]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.re.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jericho  |**<big>&#8207;[[H3405G\|יְרֵח֑וֹ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.re.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and on  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hand his  |**<big>&#8207;[[H3027I\|יָד֣]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| ya.D<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he built  |**<big>&#8207;[[H1129\|בָנָ֔ה]]&#8207; </big>**| va.Nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zaccur  |**<big>&#8207;[[H2139L\|זַכּ֖וּר]]&#8207; </big>**| za.Kur<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Imri  |**<big>&#8207;[[H0566H\|אִמְרִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'im.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Imri  |**<big>&#8207;[[H0566H\|אִמְרִֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'im.Ri<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.1|<< Nehemiah 3:1]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.3|Nehemiah 3:3 >>]]</td></tr></table>
 
 

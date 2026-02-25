@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 20:3
+type: Verse
+kjv: "And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly as the LORD liveth, and as thy soul liveth, there is but a step between me and death."
+bsb: "But David again vowed, “Your father knows very well that I have found favor in your eyes, and he has said, ‘Jonathan must not know of this, or he will be grieved.’ As surely as the LORD lives and as you yourself live, there is but a step between me and death.”"
+hebrew: "וַיִּשָּׁבַ֨ע ע֜וֹד דָּוִ֗ד וַיֹּ֙אמֶר֙ יָדֹ֨עַ יָדַ֜ע אָבִ֗יךָ כִּֽי־ מָצָ֤אתִי חֵן֙ בְּעֵינֶ֔יךָ וַיֹּ֛אמֶר אַל־ יֵֽדַע־ זֹ֥את יְהוֹנָתָ֖ן פֶּן־ יֵֽעָצֵ֑ב וְאוּלָ֗ם חַי־ יְהוָה֙ וְחֵ֣י נַפְשֶׁ֔ךָ כִּ֣י כְפֶ֔שַׂע בֵּינִ֖י וּבֵ֥ין הַמָּֽוֶת׃"
+pericope: "[[1Sam.20.1 Jonathan Helps David|Jonathan Helps David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7650]]"
+- "[[H5750]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H3045]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H0408]]"
+- "[[H2063]]"
+- "[[H3083H]]"
+- "[[H6435]]"
+- "[[H6087A]]"
+- "[[H9002]]"
+- "[[H0199]]"
+- "[[H2416A]]"
+- "[[H3068G]]"
+- "[[H5315G]]"
+- "[[H9004]]"
+- "[[H6587]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H4194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:3**<big><big>[[1Sam.20.1 Jonathan Helps David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David sware moreover, and said, Thy father certainly knoweth that I have found grace in thine eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly [as] the LORD liveth, and [as] thy soul liveth, [there is] but a step between me and death.
 <small><sub>**BSB:**</sub></small>
 But David again vowed, “Your father knows very well that I have found favor in your eyes, and he has said, ‘Jonathan must not know of this, or he will be grieved.’ As surely as the LORD lives and as you yourself live, there is but a step between me and death.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7650\|יִּשָּׁבַ֨ע]] [[H5750\|ע֜וֹד]] [[H1732\|דָּוִ֗ד]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3045\|יָדֹ֨עַ]] [[H3045\|יָדַ֜ע]] [[H0001G\|אָבִ֗י]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4672\|מָצָ֤אתִי]] [[H2580\|חֵן֙]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֔י]][[H9021\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H0408\|אַל]][[H9014\|־]] [[H3045\|יֵֽדַע]][[H9014\|־]] [[H2063\|זֹ֥את]] [[H3083H\|יְהוֹנָתָ֖ן]] [[H6435\|פֶּן]][[H9014\|־]] [[H6087A\|יֵֽעָצֵ֑ב]] [[H9002\|וְ]][[H0199\|אוּלָ֗ם]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9002\|וְ]][[H2416A\|חֵ֣י]] [[H5315G\|נַפְשֶׁ֔]][[H9021\|ךָ]] [[H3588A\|כִּ֣י]] [[H9004\|כְ]][[H6587\|פֶ֔שַׂע]] [[H0996G\|בֵּינִ֖]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H9009\|הַ]][[H4194\|מָּֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic LIFE|LIFE]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.2|<< 1 Samuel 20:2]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.4|1 Samuel 20:4 >>]]</td></tr></table>
 

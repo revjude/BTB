@@ -1,8 +1,53 @@
+---
+title: Proverbs 11:26
+type: Verse
+kjv: "He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it."
+bsb: "The people will curse the hoarder of grain, but blessing will crown the one who sells it."
+hebrew: "מֹ֣נֵֽעַ בָּ֭ר יִקְּבֻ֣הוּ לְא֑וֹם וּ֝בְרָכָ֗ה לְרֹ֣אשׁ מַשְׁבִּֽיר׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic MONOPOLY|MONOPOLY]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+strongs:
+- "[[H4513]]"
+- "[[H1250A]]"
+- "[[H6895]]"
+- "[[H9033]]"
+- "[[H3816]]"
+- "[[H9002]]"
+- "[[H1293]]"
+- "[[H9005]]"
+- "[[H7218A]]"
+- "[[H7666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:26**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that withholdeth corn, the people shall curse him: but blessing [shall be] upon the head of him that selleth [it].
 <small><sub>**BSB:**</sub></small>
 The people will curse the hoarder of grain, but blessing will crown the one who sells it.
+<small><sub>**Hebrew:**</sub></small>
+[[H4513\|מֹ֣נֵֽעַ]] [[H1250A\|בָּ֭ר]] [[H6895\|יִקְּבֻ֣]][[H9033\|הוּ]] [[H3816\|לְא֑וֹם]] [[H9002\|וּ֝]][[H1293\|בְרָכָ֗ה]] [[H9005\|לְ]][[H7218A\|רֹ֣אשׁ]] [[H7666\|מַשְׁבִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic MONOPOLY|MONOPOLY]] • [[topic SELFISHNESS|SELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.25|<< Proverbs 11:25]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.27|Proverbs 11:27 >>]]</td></tr></table>
 

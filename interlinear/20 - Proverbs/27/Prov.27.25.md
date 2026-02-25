@@ -1,8 +1,53 @@
+---
+title: Proverbs 27:25
+type: Verse
+kjv: "The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered."
+bsb: "When hay is removed and new growth appears and the grass from the hills is gathered,"
+hebrew: "גָּלָ֣ה חָ֭צִיר וְנִרְאָה־ דֶ֑שֶׁא וְ֝נֶאֶסְפ֗וּ עִשְּׂב֥וֹת הָרִֽים׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic HAY|HAY]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic SPRING|SPRING]]"
+strongs:
+- "[[H1540K]]"
+- "[[H2682A]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H1877]]"
+- "[[H0622]]"
+- "[[H6212]]"
+- "[[H2022G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:25**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hay appeareth, and the tender grass sheweth itself, and herbs of the mountains are gathered.
 <small><sub>**BSB:**</sub></small>
 When hay is removed and new growth appears and the grass from the hills is gathered,
+<small><sub>**Hebrew:**</sub></small>
+[[H1540K\|גָּלָ֣ה]] [[H2682A\|חָ֭צִיר]] [[H9001\|וְ]][[H7200G\|נִרְאָה]][[H9014\|־]] [[H1877\|דֶ֑שֶׁא]] [[H9001\|וְ֝]][[H0622\|נֶאֶסְפ֗וּ]] [[H6212\|עִשְּׂב֥וֹת]] [[H2022G\|הָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic HAY|HAY]] • [[topic INDUSTRY|INDUSTRY]] • [[topic SPRING|SPRING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.24|<< Proverbs 27:24]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.26|Proverbs 27:26 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 105:27
+type: Verse
+kjv: "They shewed his signs among them, and wonders in the land of Ham."
+bsb: "They performed His miraculous signs among them, and wonders in the land of Ham."
+hebrew: "שָֽׂמוּ־ בָ֭ם דִּבְרֵ֣י אֹתוֹתָ֑יו וּ֝מֹפְתִ֗ים בְּאֶ֣רֶץ חָֽם׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HAM|HAM]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H7760H]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1697M]]"
+- "[[H0226G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H0776G]]"
+- "[[H2526H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:27**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shewed his signs among them, and wonders in the land of Ham.
 <small><sub>**BSB:**</sub></small>
 They performed His miraculous signs among them, and wonders in the land of Ham.
+<small><sub>**Hebrew:**</sub></small>
+[[H7760H\|שָֽׂמוּ]][[H9014\|־]] [[H9003\|בָ֭]][[H9038\|ם]] [[H1697M\|דִּבְרֵ֣י]] [[H0226G\|אֹתוֹתָ֑י]][[H9023\|ו]] [[H9002\|וּ֝]][[H4159\|מֹפְתִ֗ים]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H2526H\|חָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HAM|HAM]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.26|<< Psalms 105:26]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.28|Psalms 105:28 >>]]</td></tr></table>
 

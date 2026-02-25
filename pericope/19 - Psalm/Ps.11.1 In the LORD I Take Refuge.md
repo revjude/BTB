@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: In the LORD I Take Refuge
+type: Pericope
 pericope: "[[Ps.11.1 In the LORD I Take Refuge|In the LORD I Take Refuge]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 11
 book/chapter: "[[Ps.11|Psalm 11]]"
-genre:
+chronological_order: 345
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.11.0]]"
 - "[[Ps.11.1]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.11.7]]"
 ---
 
-[[Ps.11|Psalm 11:1 - Psalm 11:7]]
+<small>[[Ps.11|Psalm 11:1-7]]</small>
 *In the LORD I Take Refuge*
 
 [[Ps.11.0|0]] To the chief Musician, \[A Psalm\] of David.

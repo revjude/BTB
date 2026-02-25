@@ -1,8 +1,82 @@
+---
+title: 2 Kings 18:26
+type: Verse
+kjv: "Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand it: and talk not with us in the Jews’ language in the ears of the people that are on the wall."
+bsb: "Then Eliakim son of Hilkiah, along with Shebnah and Joah, said to the Rabshakeh, “Please speak to your servants in Aramaic, since we understand it. Do not speak with us in Hebrew in the hearing of the people on the wall.”"
+hebrew: "וַיֹּ֣אמֶר אֶלְיָקִ֣ים בֶּן־ חִ֠לְקִיָּהוּ וְשֶׁבְנָ֨ה וְיוֹאָ֜ח אֶל־ רַב־ שָׁקֵ֗ה דַּבֶּר־ נָ֤א אֶל־ עֲבָדֶ֙יךָ֙ אֲרָמִ֔ית כִּ֥י שֹׁמְעִ֖ים אֲנָ֑חְנוּ וְאַל־ תְּדַבֵּ֤ר עִמָּ֙נוּ֙ יְהוּדִ֔ית בְּאָזְנֵ֣י הָעָ֔ם אֲשֶׁ֖ר עַל־ הַחֹמָֽה׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HILKIAH|HILKIAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JOAH|JOAH]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0471G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2518G]]"
+- "[[H9002]]"
+- "[[H7644]]"
+- "[[H3098G]]"
+- "[[H0413]]"
+- "[[H7262]]"
+- "[[H1696G]]"
+- "[[H4994]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0762]]"
+- "[[H3588A]]"
+- "[[H8085J]]"
+- "[[H0587]]"
+- "[[H0408]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H3066]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H2346G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:26**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand [it]: and talk not with us in the Jews’ language in the ears of the people that [are] on the wall.
 <small><sub>**BSB:**</sub></small>
 Then Eliakim son of Hilkiah, along with Shebnah and Joah, said to the Rabshakeh, “Please speak to your servants in Aramaic, since we understand it. Do not speak with us in Hebrew in the hearing of the people on the wall.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0471G\|אֶלְיָקִ֣ים]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2518G\|חִ֠לְקִיָּהוּ]] [[H9002\|וְ]][[H7644\|שֶׁבְנָ֨ה]] [[H9002\|וְ]][[H3098G\|יוֹאָ֜ח]] [[H0413\|אֶל]][[H9014\|־]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵ֗ה]] [[H1696G\|דַּבֶּר]][[H9014\|־]] [[H4994\|נָ֤א]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עֲבָדֶ֙י]][[H9021\|ךָ֙]] [[H0762\|אֲרָמִ֔ית]] [[H3588A\|כִּ֥י]] [[H8085J\|שֹׁמְעִ֖ים]] [[H0587\|אֲנָ֑חְנוּ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1696G\|תְּדַבֵּ֤ר]] [[H5973A\|עִמָּ֙]][[H9035\|נוּ֙]] [[H3066\|יְהוּדִ֔ית]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2346G\|חֹמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HILKIAH|HILKIAH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JOAH|JOAH]] • [[topic LANGUAGE|LANGUAGE]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.25|<< 2 Kings 18:25]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.27|2 Kings 18:27 >>]]</td></tr></table>
 

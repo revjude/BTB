@@ -1,7 +1,7 @@
 
 **KISH**
 
-1. Father of Saul [[1Sam.9.1|1Sa 9:1]]-[[1Sam.9.3|3]]; [[1Sam.10.21|10:21]]; [[2Sam.21.14|2Sa 21:14]]
+1. Father of Saul [[1Sam.9.1|1Sa 9:1-3]]; [[1Sam.10.21|10:21]]; [[2Sam.21.14|2Sa 21:14]]
 
 - Called CIS (A. V.) in [[Acts.13.21|Ac 13:21]]
 

@@ -1,8 +1,61 @@
+---
+title: Exodus 1:5
+type: Verse
+kjv: "And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already."
+bsb: "The descendants of Jacob numbered seventy in all, including Joseph, who was already in Egypt."
+hebrew: "וַֽיְהִ֗י כָּל־ נֶ֛פֶשׁ יֹצְאֵ֥י יֶֽרֶךְ־ יַעֲקֹ֖ב שִׁבְעִ֣ים נָ֑פֶשׁ וְיוֹסֵ֖ף הָיָ֥ה בְמִצְרָֽיִם׃"
+pericope: "[[Exod.1.1 The Israelites Multiply in Egypt|The Israelites Multiply in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5315J]]"
+- "[[H3318M]]"
+- "[[H3409]]"
+- "[[H3290]]"
+- "[[H7657]]"
+- "[[H9002]]"
+- "[[H3130G]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 1:5**<big><big>[[Exod.1.1 The Israelites Multiply in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt [already].
 <small><sub>**BSB:**</sub></small>
 The descendants of Jacob numbered seventy in all, including Joseph, who was already in Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִ֗י]] [[H3605\|כָּל]][[H9014\|־]] [[H5315J\|נֶ֛פֶשׁ]] [[H3318M\|יֹצְאֵ֥י]] [[H3409\|יֶֽרֶךְ]][[H9014\|־]] [[H3290\|יַעֲקֹ֖ב]] [[H7657\|שִׁבְעִ֣ים]] [[H5315J\|נָ֑פֶשׁ]] [[H9002\|וְ]][[H3130G\|יוֹסֵ֖ף]] [[H1961\|הָיָ֥ה]] [[H9003\|בְ]][[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.4|<< Exodus 1:4]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.6|Exodus 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

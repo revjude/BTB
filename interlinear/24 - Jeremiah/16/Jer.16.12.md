@@ -1,8 +1,69 @@
+---
+title: Jeremiah 16:12
+type: Verse
+kjv: "And ye have done worse than your fathers; for, behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me:"
+bsb: "And you have done more evil than your fathers. See how each of you follows the stubbornness of his evil heart instead of obeying Me."
+hebrew: "וְאַתֶּ֛ם הֲרֵעֹתֶ֥ם לַעֲשׂ֖וֹת מֵאֲבֽוֹתֵיכֶ֑ם וְהִנְּכֶ֣ם הֹלְכִ֗ים אִ֚ישׁ אַֽחֲרֵי֙ שְׁרִר֣וּת לִבּֽוֹ־ הָרָ֔ע לְבִלְתִּ֖י שְׁמֹ֥עַ אֵלָֽי׃"
+pericope: "[[Jer.16.1 Disaster Predicted|Disaster Predicted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H7489A]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9006]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H2005]]"
+- "[[H9046]]"
+- "[[H1980N]]"
+- "[[H0376I]]"
+- "[[H0310A]]"
+- "[[H8307]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H1115]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 16:12**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye have done worse than your fathers; for, behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me:
 <small><sub>**BSB:**</sub></small>
 And you have done more evil than your fathers. See how each of you follows the stubbornness of his evil heart instead of obeying Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּ֛ם]] [[H7489A\|הֲרֵעֹתֶ֥ם]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H9006\|מֵ]][[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H2005\|הִנְּ]][[H9046\|כֶ֣ם]] [[H1980N\|הֹלְכִ֗ים]] [[H0376I\|אִ֚ישׁ]] [[H0310A\|אַֽחֲרֵי֙]] [[H8307\|שְׁרִר֣וּת]] [[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9014\|־]] [[H9009\|הָ]][[H7451H\|רָ֔ע]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H8085H\|שְׁמֹ֥עַ]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic EXAMPLE|EXAMPLE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.11|<< Jeremiah 16:11]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.13|Jeremiah 16:13 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Genesis 24:51
+type: Verse
+kjv: "Behold, Rebekah is before thee, take her, and go, and let her be thy master’s son’s wife, as the LORD hath spoken."
+bsb: "Rebekah is here before you. Take her and go, and let her become the wife of your master’s son, just as the LORD has decreed.”"
+hebrew: "הִנֵּֽה־ רִבְקָ֥ה לְפָנֶ֖יךָ קַ֣ח וָלֵ֑ךְ וּתְהִ֤י אִשָּׁה֙ לְבֶן־ אֲדֹנֶ֔יךָ כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H7259]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H3947G]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H1961]]"
+- "[[H0802H]]"
+- "[[H1121A]]"
+- "[[H0113]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:51**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, Rebekah [is] before thee, take [her], and go, and let her be thy master’s son’s wife, as the LORD hath spoken.
 <small><sub>**BSB:**</sub></small>
 Rebekah is here before you. Take her and go, and let her become the wife of your master’s son, just as the LORD has decreed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּֽה]][[H9014\|־]] [[H7259\|רִבְקָ֥ה]] [[H9005\|לְ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H3947G\|קַ֣ח]] [[H9002\|וָ]][[H1980G\|לֵ֑ךְ]] [[H9002\|וּ]][[H1961\|תְהִ֤י]] [[H0802H\|אִשָּׁה֙]] [[H9005\|לְ]][[H1121A\|בֶן]][[H9014\|־]] [[H0113\|אֲדֹנֶ֔י]][[H9021\|ךָ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.50|<< Genesis 24:50]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.52|Genesis 24:52 >>]]</td></tr></table>
 

@@ -1,10 +1,70 @@
+---
+title: 1 Peter 3:20
+type: Verse
+kjv: "Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water."
+bsb: "who disobeyed long ago when God waited patiently in the days of Noah while the ark was being built. In the ark a few people, only eight souls, were saved through water."
+greek: "ἀπειθήσασίν ποτε, ὅτε ἀπεξεδέχετο ἡ τοῦ θεοῦ μακροθυμία ἐν ἡμέραις Νῶε κατασκευαζομένης κιβωτοῦ, εἰς ἣν ὀλίγοι, τοῦτ᾽ ἔστιν ὀκτὼ ψυχαί, διεσώθησαν δι᾽ ὕδατος·"
+pericope: "[[1Pet.3.14 Suffering for Righteousness|Suffering for Righteousness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ARK|ARK]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G0544]]"
+- "[[G4218]]"
+- "[[G3753]]"
+- "[[G0553]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3115]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G3575]]"
+- "[[G2680]]"
+- "[[G2787H]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G3641]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3638]]"
+- "[[G5590J]]"
+- "[[G1295]]"
+- "[[G1223]]"
+- "[[G5204]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Peter 3:20**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water.
 <small><sub>**BSB:**</sub></small>
 who disobeyed long ago when God waited patiently in the days of Noah while the ark was being built. In the ark a few people, only eight souls, were saved through water.
-<small><sub>**Literal:**</sub></small>
-having disobeyed at one time, when he was expecting the <the> of God longsuffering in [the] days of Noah when is being prepared [the] ark, in which few That is eight souls — were saved through water;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.19|<< 1 Peter 3:19]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.21|1 Peter 3:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0544\|ἀπειθήσασίν]]  [[G4218\|ποτε,]]  [[G3753\|ὅτε]]  [[G0553\|ἀπεξεδέχετο]]  [[G3588\|ἡ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3115\|μακροθυμία]]  [[G1722\|ἐν]]  [[G2250\|ἡμέραις]]  [[G3575\|Νῶε]]  [[G2680\|κατασκευαζομένης]]  [[G2787H\|κιβωτοῦ,]]  [[G1519\|εἰς]]  [[G3739\|ἣν]]  [[G3641\|ὀλίγοι,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G3638\|ὀκτὼ]]  [[G5590J\|ψυχαί,]]  [[G1295\|διεσώθησαν]]  [[G1223\|δι᾽]]  [[G5204\|ὕδατος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ARK|ARK]] • [[topic BAPTISM|BAPTISM]] • [[topic FLOOD|FLOOD]] • [[topic GOD|GOD]] • [[topic NOAH|NOAH]] • [[topic SIN|SIN]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.19|<< 1 Peter 3:19]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.21|1 Peter 3:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 3:20** is...
 > $\quad$ alluding to: [[LXX.Gen.6.3|Gen 6:3]] ☩ [[LXX.Gen.6.12|Gen 6:12]]

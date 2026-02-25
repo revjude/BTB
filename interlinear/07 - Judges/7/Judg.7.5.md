@@ -1,8 +1,73 @@
+---
+title: Judges 7:5
+type: Verse
+kjv: "So he brought down the people unto the water: and the LORD said unto Gideon, Every one that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink."
+bsb: "So Gideon brought the men down to the water, and the LORD said to him, “Separate those who lap the water with their tongues like a dog from those who kneel to drink.”"
+hebrew: "וַיּ֥וֹרֶד אֶת־ הָעָ֖ם אֶל־ הַמָּ֑יִם ס וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ גִּדְע֗וֹן כֹּ֣ל אֲשֶׁר־ יָלֹק֩ בִּלְשׁוֹנ֨וֹ מִן־ הַמַּ֜יִם כַּאֲשֶׁ֧ר יָלֹ֣ק הַכֶּ֗לֶב תַּצִּ֤יג אוֹתוֹ֙ לְבָ֔ד וְכֹ֛ל אֲשֶׁר־ יִכְרַ֥ע עַל־ בִּרְכָּ֖יו לִשְׁתּֽוֹת׃"
+pericope: "[[Judg.7.1 Gideon’s Army of Three Hundred|Gideon’s Army of Three Hundred]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DOG|DOG]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H0413]]"
+- "[[H4325G]]"
+- "[[H9018]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H1439]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H3952]]"
+- "[[H9003]]"
+- "[[H3956G]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3611]]"
+- "[[H3322]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9002]]"
+- "[[H3766]]"
+- "[[H5921A]]"
+- "[[H1290]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:5**<big><big>[[Judg.7.1 Gideon’s Army of Three Hundred|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he brought down the people unto the water: and the LORD said unto Gideon, Every one that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink.
 <small><sub>**BSB:**</sub></small>
 So Gideon brought the men down to the water, and the LORD said to him, “Separate those who lap the water with their tongues like a dog from those who kneel to drink.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יּ֥וֹרֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971K\|עָ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מָּ֑יִם]] [[H9018\|ס]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1439\|גִּדְע֗וֹן]] [[H3605\|כֹּ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3952\|יָלֹק֩]] [[H9003\|בִּ]][[H3956G\|לְשׁוֹנ֨]][[H9023\|וֹ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֜יִם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֧ר]] [[H3952\|יָלֹ֣ק]] [[H9009\|הַ]][[H3611\|כֶּ֗לֶב]] [[H3322\|תַּצִּ֤יג]] [[H0853\|אוֹת]][[H9033\|וֹ֙]] [[H9005\|לְ]][[H0905H\|בָ֔ד]] [[H9002\|וְ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3766\|יִכְרַ֥ע]] [[H5921A\|עַל]][[H9014\|־]] [[H1290\|בִּרְכָּ֖י]][[H9023\|ו]] [[H9005\|לִ]][[H8354\|שְׁתּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOG|DOG]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.4|<< Judges 7:4]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.6|Judges 7:6 >>]]</td></tr></table>
 
@@ -12,7 +77,7 @@ So Gideon brought the men down to the water, and the LORD said to him, “Separa
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971K\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the water  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מָּ֑יִם]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the water  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4325G\|מָּ֑יִם]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֨אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֜ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,8 +1,51 @@
+---
+title: Job 19:28
+type: Verse
+kjv: "But ye should say, Why persecute we him, seeing the root of the matter is found in me?"
+bsb: "If you say, ‘Let us persecute him, since the root of the matter lies with him,’"
+hebrew: "כִּ֣י תֹ֭אמְרוּ מַה־ נִּרְדָּף־ ל֑וֹ וְשֹׁ֥רֶשׁ דָּ֝בָ֗ר נִמְצָא־ בִֽי׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H7291]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H8328]]"
+- "[[H1697I]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:28**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye should say, Why persecute we him, seeing the root of the matter is found in me?
 <small><sub>**BSB:**</sub></small>
 If you say, ‘Let us persecute him, since the root of the matter lies with him,’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H0559\|תֹ֭אמְרוּ]] [[H4100\|מַה]][[H9014\|־]] [[H7291\|נִּרְדָּף]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְ]][[H8328\|שֹׁ֥רֶשׁ]] [[H1697I\|דָּ֝בָ֗ר]] [[H4672\|נִמְצָא]][[H9014\|־]] [[H9003\|בִֽ]][[H9030\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.27|<< Job 19:27]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.29|Job 19:29 >>]]</td></tr></table>
 

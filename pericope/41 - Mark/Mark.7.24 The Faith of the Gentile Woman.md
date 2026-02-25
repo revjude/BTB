@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Faith of the Gentile Woman
+type: Pericope
 pericope: "[[Mark.7.24 The Faith of the Gentile Woman|The Faith of the Gentile Woman]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Mark
 chapter: 7
 book/chapter: "[[Mark.7|Mark 7]]"
-genre:
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Mark.7.24]]"
 - "[[Mark.7.25]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mark.7.30]]"
 ---
 
-[[Mark.7|Mark 7:24 - Mark 7:30]]
+<small>[[Mark.7|Mark 7:24-30]]</small>
 *The Faith of the Gentile Woman*
 
 [[Mark.7.24|24]] And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know \[it\]: but he could not be hid.

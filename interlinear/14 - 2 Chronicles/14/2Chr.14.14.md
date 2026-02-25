@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 14:14
+type: Verse
+kjv: "And they smote all the cities round about Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was exceeding much spoil in them."
+bsb: "and attacked all the cities around Gerar, because the terror of the LORD had fallen upon them. They plundered all the cities, since there was much plunder there."
+hebrew: "וַיַּכּ֗וּ אֵ֤ת כָּל־ הֶֽעָרִים֙ סְבִיב֣וֹת גְּרָ֔ר כִּי־ הָיָ֥ה פַֽחַד־ יְהוָ֖ה עֲלֵיהֶ֑ם וַיָּבֹ֙זּוּ֙ אֶת־ כָּל־ הֶ֣עָרִ֔ים כִּֽי־ בִזָּ֥ה רַבָּ֖ה הָיְתָ֥ה בָהֶֽם׃"
+pericope: "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 14
+book/chapter: "[[2Chr.14|2 Chronicles 14]]"
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic GERAR|GERAR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic ZERAH|ZERAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H5439G]]"
+- "[[H1642]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H6343]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0962]]"
+- "[[H0961]]"
+- "[[H7227A]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 14:14**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they smote all the cities round about Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was exceeding much spoil in them.
 <small><sub>**BSB:**</sub></small>
 and attacked all the cities around Gerar, because the terror of the LORD had fallen upon them. They plundered all the cities, since there was much plunder there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכּ֗וּ]] [[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הֶֽ]][[H5892B\|עָרִים֙]] [[H5439G\|סְבִיב֣וֹת]] [[H1642\|גְּרָ֔ר]] [[H3588A\|כִּי]][[H9014\|־]] [[H1961\|הָיָ֥ה]] [[H6343\|פַֽחַד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H0962\|יָּבֹ֙זּוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הֶ֣]][[H5892B\|עָרִ֔ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0961\|בִזָּ֥ה]] [[H7227A\|רַבָּ֖ה]] [[H1961\|הָיְתָ֥ה]] [[H9003\|בָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]] • [[topic GERAR|GERAR]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic ZERAH|ZERAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.14.13|<< 2 Chronicles 14:13]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.15|2 Chronicles 14:15 >>]]</td></tr></table>
 

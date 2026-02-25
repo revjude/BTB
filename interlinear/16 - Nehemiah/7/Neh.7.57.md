@@ -1,8 +1,54 @@
+---
+title: Nehemiah 7:57
+type: Verse
+kjv: "The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Perida,"
+bsb: "The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Sophereth, the descendants of Perida,"
+hebrew: "בְּנֵ֖י עַבְדֵ֣י שְׁלֹמֹ֑ה בְּנֵי־ סוֹטַ֥י בְּנֵי־ סוֹפֶ֖רֶת בְּנֵ֥י פְרִידָֽא׃"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PERIDA|PERIDA]]"
+- "[[topic PERUDA|PERUDA]]"
+- "[[topic SOPHERETH|SOPHERETH]]"
+- "[[topic SOTAI|SOTAI]]"
+strongs:
+- "[[H1121G]]"
+- "[[H5650]]"
+- "[[H8010]]"
+- "[[H9014]]"
+- "[[H5479]]"
+- "[[H5618]]"
+- "[[H6514]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 7:57**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Perida,
 <small><sub>**BSB:**</sub></small>
 The descendants of the servants of Solomon: the descendants of Sotai, the descendants of Sophereth, the descendants of Perida,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֖י]] [[H5650\|עַבְדֵ֣י]] [[H8010\|שְׁלֹמֹ֑ה]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H5479\|סוֹטַ֥י]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H5618\|סוֹפֶ֖רֶת]] [[H1121G\|בְּנֵ֥י]] [[H6514\|פְרִידָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic PERIDA|PERIDA]] • [[topic PERUDA|PERUDA]] • [[topic SOPHERETH|SOPHERETH]] • [[topic SOTAI|SOTAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.56|<< Nehemiah 7:56]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.58|Nehemiah 7:58 >>]]</td></tr></table>
 

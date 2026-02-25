@@ -1,8 +1,64 @@
+---
+title: Zechariah 10:7
+type: Verse
+kjv: "And they of Ephraim shall be like a mighty man, and their heart shall rejoice as through wine: yea, their children shall see it, and be glad; their heart shall rejoice in the LORD."
+bsb: "Ephraim will be like a mighty man, and their hearts will be glad as with wine. Their children will see it and be joyful; their hearts will rejoice in the LORD."
+hebrew: "וְהָי֤וּ כְגִבּוֹר֙ אֶפְרַ֔יִם וְשָׂמַ֥ח לִבָּ֖ם כְּמוֹ־ יָ֑יִן וּבְנֵיהֶם֙ יִרְא֣וּ וְשָׂמֵ֔חוּ יָגֵ֥ל לִבָּ֖ם בַּיהוָֽה׃"
+pericope: "[[Zech.10.1 Judah and Israel Will Be Restored|Judah and Israel Will Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 10
+book/chapter: "[[Zech.10|Zechariah 10]]"
+chronological_order: 866
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic HEART|HEART]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOY|JOY]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1368]]"
+- "[[H0669G]]"
+- "[[H8055]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H3644G]]"
+- "[[H9014]]"
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H7200G]]"
+- "[[H1523]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 10:7**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [they of] Ephraim shall be like a mighty [man], and their heart shall rejoice as through wine: yea, their children shall see [it], and be glad; their heart shall rejoice in the LORD.
 <small><sub>**BSB:**</sub></small>
 Ephraim will be like a mighty man, and their hearts will be glad as with wine. Their children will see it and be joyful; their hearts will rejoice in the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָי֤וּ]] [[H9004\|כְ]][[H1368\|גִבּוֹר֙]] [[H0669G\|אֶפְרַ֔יִם]] [[H9001\|וְ]][[H8055\|שָׂמַ֥ח]] [[H3820A\|לִבָּ֖]][[H9028\|ם]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H3196\|יָ֑יִן]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9028\|הֶם֙]] [[H7200G\|יִרְא֣וּ]] [[H9001\|וְ]][[H8055\|שָׂמֵ֔חוּ]] [[H1523\|יָגֵ֥ל]] [[H3820A\|לִבָּ֖]][[H9028\|ם]] [[H9003\|בַּ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic HEART|HEART]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOY|JOY]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.6|<< Zechariah 10:6]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.8|Zechariah 10:8 >>]]</td></tr></table>
 

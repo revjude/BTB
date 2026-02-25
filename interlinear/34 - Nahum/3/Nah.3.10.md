@@ -1,8 +1,64 @@
+---
+title: Nahum 3:10
+type: Verse
+kjv: "Yet was she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains."
+bsb: "Yet she became an exile; she went into captivity. Her infants were dashed to pieces at the head of every street. They cast lots for her dignitaries, and all her nobles were bound in chains."
+hebrew: "גַּם־ הִ֗יא לַגֹּלָה֙ הָלְכָ֣ה בַשֶּׁ֔בִי גַּ֧ם עֹלָלֶ֛יהָ יְרֻטְּשׁ֖וּ בְּרֹ֣אשׁ כָּל־ חוּצ֑וֹת וְעַל־ נִכְבַּדֶּ֙יהָ֙ יַדּ֣וּ גוֹרָ֔ל וְכָל־ גְּדוֹלֶ֖יהָ רֻתְּק֥וּ בַזִּקִּֽים׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H1473]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H7628A]]"
+- "[[H5768]]"
+- "[[H9024]]"
+- "[[H7376]]"
+- "[[H7218I]]"
+- "[[H3605]]"
+- "[[H2351]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H3513G]]"
+- "[[H9034]]"
+- "[[H3032]]"
+- "[[H1486]]"
+- "[[H1419A]]"
+- "[[H7576]]"
+- "[[H2131B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 3:10**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet [was] she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains.
 <small><sub>**BSB:**</sub></small>
 Yet she became an exile; she went into captivity. Her infants were dashed to pieces at the head of every street. They cast lots for her dignitaries, and all her nobles were bound in chains.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H1931\|הִ֗יא]] [[H9005\|לַ]][[H1473\|גֹּלָה֙]] [[H1980G\|הָלְכָ֣ה]] [[H9003\|בַ]][[H7628A\|שֶּׁ֔בִי]] [[H1571\|גַּ֧ם]] [[H5768\|עֹלָלֶ֛י]][[H9024\|הָ]] [[H7376\|יְרֻטְּשׁ֖וּ]] [[H9003\|בְּ]][[H7218I\|רֹ֣אשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H2351\|חוּצ֑וֹת]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3513G\|נִכְבַּדֶּ֙י]][[H9034\|הָ֙]] [[H3032\|יַדּ֣וּ]] [[H1486\|גוֹרָ֔ל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1419A\|גְּדוֹלֶ֖י]][[H9024\|הָ]] [[H7576\|רֻתְּק֥וּ]] [[H9003\|בַ]][[H2131B\|זִּקִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.9|<< Nahum 3:9]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.11|Nahum 3:11 >>]]</td></tr></table>
 

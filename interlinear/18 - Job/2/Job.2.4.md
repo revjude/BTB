@@ -1,8 +1,65 @@
+---
+title: Job 2:4
+type: Verse
+kjv: "And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life."
+bsb: "“Skin for skin!” Satan replied. “A man will give up all he owns in exchange for his life."
+hebrew: "וַיַּ֧עַן הַשָּׂטָ֛ן אֶת־ יְהוָ֖ה וַיֹּאמַ֑ר ע֣וֹר בְּעַד־ ע֗וֹר וְכֹל֙ אֲשֶׁ֣ר לָאִ֔ישׁ יִתֵּ֖ן בְּעַ֥ד נַפְשֽׁוֹ׃"
+pericope: "[[Job.2.1 Job Loses His Health|Job Loses His Health]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 2
+book/chapter: "[[Job.2|Job 2]]"
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9009]]"
+- "[[H7854]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H5785]]"
+- "[[H1157]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H5414G]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 2:4**<big><big>[[Job.2.1 Job Loses His Health|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.
 <small><sub>**BSB:**</sub></small>
 “Skin for skin!” Satan replied. “A man will give up all he owns in exchange for his life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֧עַן]] [[H9009\|הַ]][[H7854\|שָּׂטָ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H5785\|ע֣וֹר]] [[H1157\|בְּעַד]][[H9014\|־]] [[H5785\|ע֗וֹר]] [[H9002\|וְ]][[H3605\|כֹל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לָ]][[H0376G\|אִ֔ישׁ]] [[H5414G\|יִתֵּ֖ן]] [[H1157\|בְּעַ֥ד]] [[H5315H\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic MOTIVE|MOTIVE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.2.3|<< Job 2:3]]</td><td align="center" style="border:none;">[[Job.2|Job 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.2.5|Job 2:5 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Acts 24:23
+type: Verse
+kjv: "And he commanded a centurion to keep Paul, and to let him have liberty, and that he should forbid none of his acquaintance to minister or come unto him."
+bsb: "He ordered the centurion to keep Paul under guard, but to allow him some freedom and permit his friends to minister to his needs."
+greek: "διαταξάμενος τε τῷ ἑκατοντάρχῃ τηρεῖσθαι τὸν αὐτὸν, ἔχειν τε ἄνεσιν καὶ μηδένα κωλύειν τῶν ἰδίων αὐτοῦ ὑπηρετεῖν ἢ προσέρχεσθαι αὐτῷ.¶"
+pericope: "[[Acts.24.22 The Verdict Postponed|The Verdict Postponed]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1299]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G1543]]"
+- "[[G5083H]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G0425]]"
+- "[[G2532]]"
+- "[[G3367]]"
+- "[[G2967]]"
+- "[[G2398]]"
+- "[[G5256]]"
+- "[[G2228]]"
+- "[[G4334]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Acts 24:23**<big><big>[[Acts.24.22 The Verdict Postponed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he commanded a centurion to keep Paul, and to let [him] have liberty, and that he should forbid none of his acquaintance to minister or come unto him.
 <small><sub>**BSB:**</sub></small>
 He ordered the centurion to keep Paul under guard, but to allow him some freedom and permit his friends to minister to his needs.
-<small><sub>**Literal:**</sub></small>
-having commanded also to the centurion to keep <the> him, to [let him] have then ease and not to forbid the private [friends] of him to minister or to come near to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.22|<< Acts 24:22]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.24|Acts 24:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1299\|διαταξάμενος]]  [[G5037\|τε]]  [[G3588\|τῷ]]  [[G1543\|ἑκατοντάρχῃ]]  [[G5083H\|τηρεῖσθαι]]  [[G3588\|τὸν]]  [[G0846\|αὐτὸν,]]  [[G2192\|ἔχειν]]  [[G5037\|τε]]  [[G0425\|ἄνεσιν]]  [[G2532\|καὶ]]  [[G3367\|μηδένα]]  [[G2967\|κωλύειν]]  [[G3588\|τῶν]]  [[G2398\|ἰδίων]]  [[G0846\|αὐτοῦ]]  [[G5256\|ὑπηρετεῖν]]  [[G2228\|ἢ]]  [[G4334\|προσέρχεσθαι]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENTURION|CENTURION]] • [[topic KINDNESS|KINDNESS]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.22|<< Acts 24:22]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.24|Acts 24:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

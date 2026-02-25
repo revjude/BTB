@@ -1,8 +1,54 @@
+---
+title: Job 19:20
+type: Verse
+kjv: "My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth."
+bsb: "My skin and flesh cling to my bones; I have escaped by the skin of my teeth."
+hebrew: "בְּעוֹרִ֣י וּ֭בִבְשָׂרִי דָּבְקָ֣ה עַצְמִ֑י וָ֝אֶתְמַלְּטָ֗ה בְּע֣וֹר שִׁנָּֽי׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H1692]]"
+- "[[H6106G]]"
+- "[[H9001]]"
+- "[[H4422]]"
+- "[[H9012]]"
+- "[[H8127G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:20**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My bone cleaveth to my skin and to my flesh, and I am escaped with the skin of my teeth.
 <small><sub>**BSB:**</sub></small>
 My skin and flesh cling to my bones; I have escaped by the skin of my teeth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5785\|עוֹרִ֣]][[H9020\|י]] [[H9002\|וּ֭]][[H9003\|בִ]][[H1320\|בְשָׂרִ]][[H9020\|י]] [[H1692\|דָּבְקָ֣ה]] [[H6106G\|עַצְמִ֑]][[H9020\|י]] [[H9001\|וָ֝]][[H4422\|אֶתְמַלְּטָ֗]][[H9012\|ה]] [[H9003\|בְּ]][[H5785\|ע֣וֹר]] [[H8127G\|שִׁנָּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.19|<< Job 19:19]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.21|Job 19:21 >>]]</td></tr></table>
 

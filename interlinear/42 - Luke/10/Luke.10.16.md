@@ -1,10 +1,54 @@
+---
+title: Luke 10:16
+type: Verse
+kjv: "He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me."
+bsb: "Whoever listens to you listens to Me; whoever rejects you rejects Me; and whoever rejects Me rejects the One who sent Me.”"
+jesus_said: "He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me."
+greek: "Ὁ ἀκούων ὑμῶν ἐμοῦ ἀκούει, καὶ ὁ ἀθετῶν ὑμᾶς ἐμὲ ἀθετεῖ· ὁ δὲ ἐμὲ ἀθετῶν ἀθετεῖ τὸν ἀποστείλαντά με.¶"
+pericope: "[[Luke.10.13 Woe to the Unrepentant|Woe to the Unrepentant]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SEVENTY|SEVENTY]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0114]]"
+- "[[G1161]]"
+- "[[G0649]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Luke 10:16**<big><big>[[Luke.10.13 Woe to the Unrepentant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that heareth you heareth me; and he that despiseth you despiseth me; and he that despiseth me despiseth him that sent me.
 <small><sub>**BSB:**</sub></small>
 Whoever listens to you listens to Me; whoever rejects you rejects Me; and whoever rejects Me rejects the One who sent Me.”
-<small><sub>**Literal:**</sub></small>
-The [one] hearing you Me hears, and the [one] rejecting you Me myself rejects; the [one] now Me myself rejecting he rejects the [One] having sent Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.15|<< Luke 10:15]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.17|Luke 10:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G0191\|ἀκούων]]  [[G4771\|ὑμῶν]]  [[G1473\|ἐμοῦ]]  [[G0191\|ἀκούει,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G0114\|ἀθετῶν]]  [[G4771\|ὑμᾶς]]  [[G1473\|ἐμὲ]]  [[G0114\|ἀθετεῖ·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1473\|ἐμὲ]]  [[G0114\|ἀθετῶν]]  [[G0114\|ἀθετεῖ]]  [[G3588\|τὸν]]  [[G0649\|ἀποστείλαντά]]  [[G3165\|με.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SEVENTY|SEVENTY]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.15|<< Luke 10:15]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.17|Luke 10:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

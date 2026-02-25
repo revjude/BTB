@@ -1,10 +1,63 @@
+---
+title: Hebrews 2:2
+type: Verse
+kjv: "For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;"
+bsb: "For if the message spoken by angels was binding, and every transgression and disobedience received its just punishment,"
+greek: "Εἰ γὰρ ὁ δι᾽ ἀγγέλων λαληθεὶς λόγος ἐγένετο βέβαιος, καὶ πᾶσα παράβασις καὶ παρακοὴ ἔλαβεν ἔνδικον μισθαποδοσίαν,"
+pericope: "[[Heb.2.1 Salvation Confirmed|Salvation Confirmed]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1223]]"
+- "[[G0032G]]"
+- "[[G2980]]"
+- "[[G3056]]"
+- "[[G1096]]"
+- "[[G0949]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3847]]"
+- "[[G3876]]"
+- "[[G2983]]"
+- "[[G1738]]"
+- "[[G3405]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:2**<big><big>[[Heb.2.1 Salvation Confirmed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;
 <small><sub>**BSB:**</sub></small>
 For if the message spoken by angels was binding, and every transgression and disobedience received its just punishment,
-<small><sub>**Literal:**</sub></small>
-If for the through angels having been spoken word was unalterable, and every transgression and disobedience received a just recompense,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.1|<< Hebrews 2:1]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.3|Hebrews 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G1223\|δι᾽]]  [[G0032G\|ἀγγέλων]]  [[G2980\|λαληθεὶς]]  [[G3056\|λόγος]]  [[G1096\|ἐγένετο]]  [[G0949\|βέβαιος,]]  [[G2532\|καὶ]]  [[G3956\|πᾶσα]]  [[G3847\|παράβασις]]  [[G2532\|καὶ]]  [[G3876\|παρακοὴ]]  [[G2983\|ἔλαβεν]]  [[G1738\|ἔνδικον]]  [[G3405\|μισθαποδοσίαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ESCAPE|ESCAPE]] • [[topic JUDGMENT|JUDGMENT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LAW|LAW]] • [[topic PROPHETS|PROPHETS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.1|<< Hebrews 2:1]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.3|Hebrews 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

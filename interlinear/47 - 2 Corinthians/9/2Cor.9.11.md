@@ -1,10 +1,54 @@
+---
+title: 2 Corinthians 9:11
+type: Verse
+kjv: "Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God."
+bsb: "You will be enriched in every way to be generous on every occasion, and through us your generosity will produce thanksgiving to God."
+greek: "ἐν παντὶ πλουτιζόμενοι εἰς πᾶσαν ἁπλότητα, ἥτις κατεργάζεται δι᾽ ἡμῶν εὐχαριστίαν τῷ θεῷ,"
+pericope: "[[2Cor.9.1 God Loves a Cheerful Giver|God Loves a Cheerful Giver]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 9
+book/chapter: "[[2Cor.9|2 Corinthians 9]]"
+chronological_order: 1082
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G4148]]"
+- "[[G1519]]"
+- "[[G0572]]"
+- "[[G3748]]"
+- "[[G2716]]"
+- "[[G1223]]"
+- "[[G3165]]"
+- "[[G2169]]"
+- "[[G3588]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 9:11**<big><big>[[2Cor.9.1 God Loves a Cheerful Giver|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Being enriched in every thing to all bountifulness, which causeth through us thanksgiving to God.
 <small><sub>**BSB:**</sub></small>
 You will be enriched in every way to be generous on every occasion, and through us your generosity will produce thanksgiving to God.
-<small><sub>**Literal:**</sub></small>
-in every [way] enriching you to all generosity, which produces through us thanksgiving <the> to God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.10|<< 2 Corinthians 9:10]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.12|2 Corinthians 9:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G4148\|πλουτιζόμενοι]]  [[G1519\|εἰς]]  [[G3956\|πᾶσαν]]  [[G0572\|ἁπλότητα,]]  [[G3748\|ἥτις]]  [[G2716\|κατεργάζεται]]  [[G1223\|δι᾽]]  [[G3165\|ἡμῶν]]  [[G2169\|εὐχαριστίαν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.10|<< 2 Corinthians 9:10]]</td><td align="center" style="border:none;">[[2Cor.9|2 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.9.12|2 Corinthians 9:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

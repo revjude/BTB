@@ -1,8 +1,64 @@
+---
+title: Ezekiel 45:25
+type: Verse
+kjv: "In the seventh month, in the fifteenth day of the month, shall he do the like in the feast of the seven days, according to the sin offering, according to the burnt offering, and according to the meat offering, and according to the oil."
+bsb: "During the seven days of the feast that begins on the fifteenth day of the seventh month, he is to make the same provision for sin offerings, burnt offerings, grain offerings, and oil.’"
+hebrew: "בַּשְּׁבִיעִ֡י בַּחֲמִשָּׁה֩ עָשָׂ֨ר י֤וֹם לַחֹ֙דֶשׁ֙ בֶּחָ֔ג יַעֲשֶׂ֥ה כָאֵ֖לֶּה שִׁבְעַ֣ת הַיָּמִ֑ים כַּֽחַטָּאת֙ כָּעֹלָ֔ה וְכַמִּנְחָ֖ה וְכַשָּֽׁמֶן׃ ס"
+pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9003]]"
+- "[[H7637]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H2282]]"
+- "[[H6213H]]"
+- "[[H9004]]"
+- "[[H0428]]"
+- "[[H7651]]"
+- "[[H9009]]"
+- "[[H2403H]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H8081]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 45:25**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the seventh [month], in the fifteenth day of the month, shall he do the like in the feast of the seven days, according to the sin offering, according to the burnt offering, and according to the meat offering, and according to the oil.
 <small><sub>**BSB:**</sub></small>
 During the seven days of the feast that begins on the fifteenth day of the seventh month, he is to make the same provision for sin offerings, burnt offerings, grain offerings, and oil.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H7637\|שְּׁבִיעִ֡י]] [[H9003\|בַּ]][[H2568\|חֲמִשָּׁה֩]] [[H6240\|עָשָׂ֨ר]] [[H3117G\|י֤וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֙דֶשׁ֙]] [[H9003\|בֶּ]][[H2282\|חָ֔ג]] [[H6213H\|יַעֲשֶׂ֥ה]] [[H9004\|כָ]][[H0428\|אֵ֖לֶּה]] [[H7651\|שִׁבְעַ֣ת]] [[H9009\|הַ]][[H3117G\|יָּמִ֑ים]] [[H9004\|כַּֽ]][[H2403H\|חַטָּאת֙]] [[H9004\|כָּ]][[H5930A\|עֹלָ֔ה]] [[H9002\|וְ]][[H9004\|כַ]][[H4503G\|מִּנְחָ֖ה]] [[H9002\|וְ]][[H9004\|כַ]][[H8081\|שָּֽׁמֶן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.24|<< Ezekiel 45:24]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.1|Ezekiel 46:1 >>]]</td></tr></table>
 
@@ -21,7 +77,7 @@ During the seven days of the feast that begins on the fifteenth day of the seven
 | like the sin offering  |**<big>&#8207;[[H9004\|כַּֽ]]&#8207;&#8207;[[H2403H\|חַטָּאת֙]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> cha.taT<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | like the burnt offering  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H5930A\|עֹלָ֔ה]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and like the grain offering  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H4503G\|מִּנְחָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HRd]]</sup></small> min.Chah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and like the oil  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H8081\|שָּֽׁמֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HRd]]</sup></small> Sha.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and like the oil  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9004\|כַ]]&#8207;&#8207;[[H8081\|שָּֽׁמֶן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> kha.<small><sup>[[HRd]]</sup></small> Sha.men<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.24|<< Ezekiel 45:24]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.1|Ezekiel 46:1 >>]]</td></tr></table>
 
 

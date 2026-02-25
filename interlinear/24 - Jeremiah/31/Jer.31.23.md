@@ -1,8 +1,71 @@
+---
+title: Jeremiah 31:23
+type: Verse
+kjv: "Thus saith the LORD of hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The LORD bless thee, O habitation of justice, and mountain of holiness."
+bsb: "This is what the LORD of Hosts, the God of Israel, says: “When I restore them from captivity, they will once again speak this word in the land of Judah and in its cities: ‘May the LORD bless you, O righteous dwelling place, O holy mountain.’"
+hebrew: "כֹּֽה־ אָמַ֞ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל ע֣וֹד יֹאמְר֞וּ אֶת־ הַדָּבָ֣ר הַזֶּ֗ה בְּאֶ֤רֶץ יְהוּדָה֙ וּבְעָרָ֔יו בְּשׁוּבִ֖י אֶת־ שְׁבוּתָ֑ם יְבָרֶכְךָ֧ יְהוָ֛ה נְוֵה־ צֶ֖דֶק הַ֥ר הַקֹּֽדֶשׁ׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5750]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H7725H]]"
+- "[[H9040]]"
+- "[[H7622]]"
+- "[[H9028]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H5116A]]"
+- "[[H6664G]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:23**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, the God of Israel; As yet they shall use this speech in the land of Judah and in the cities thereof, when I shall bring again their captivity; The LORD bless thee, O habitation of justice, [and] mountain of holiness.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts, the God of Israel, says: “When I restore them from captivity, they will once again speak this word in the land of Judah and in its cities: ‘May the LORD bless you, O righteous dwelling place, O holy mountain.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5750\|ע֣וֹד]] [[H0559\|יֹאמְר֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H9003\|בְּ]][[H0776G\|אֶ֤רֶץ]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H5892B\|עָרָ֔י]][[H9023\|ו]] [[H9003\|בְּ]][[H7725H\|שׁוּבִ֖]][[H9040\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁבוּתָ֑]][[H9028\|ם]] [[H1288\|יְבָרֶכְ]][[H9031\|ךָ֧]] [[H3068G\|יְהוָ֛ה]] [[H5116A\|נְוֵה]][[H9014\|־]] [[H6664G\|צֶ֖דֶק]] [[H2022G\|הַ֥ר]] [[H9009\|הַ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.22|<< Jeremiah 31:22]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.24|Jeremiah 31:24 >>]]</td></tr></table>
 

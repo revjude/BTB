@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 2:10
+type: Verse
+kjv: "But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God."
+bsb: "But God has revealed it to us by the Spirit. The Spirit searches all things, even the deep things of God."
+greek: "ἡμῖν δὲ ἀπεκάλυψεν ὁ θεὸς διὰ τοῦ πνεύματος αὐτοῦ· τὸ γὰρ πνεῦμα πάντα ἐραυνᾷ, καὶ τὰ βάθη τοῦ θεοῦ."
+pericope: "[[1Cor.2.6 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G0601]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G4151G]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G3956]]"
+- "[[G2045]]"
+- "[[G2532]]"
+- "[[G0899]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **1 Corinthians 2:10**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But God hath revealed [them] unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
 <small><sub>**BSB:**</sub></small>
 But God has revealed it to us by the Spirit. The Spirit searches all things, even the deep things of God.
-<small><sub>**Literal:**</sub></small>
-To us and revealed [it] <the> God through the Spirit of him; The for Spirit all things searches, even the depths <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.9|<< 1 Corinthians 2:9]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.11|1 Corinthians 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμῖν]]  [[G1161\|δὲ]]  [[G0601\|ἀπεκάλυψεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G0846\|αὐτοῦ·]]  [[G3588\|τὸ]]  [[G1063\|γὰρ]]  [[G4151G\|πνεῦμα]]  [[G3956\|πάντα]]  [[G2045\|ἐραυνᾷ,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G0899\|βάθη]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic REASONING|REASONING]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TRINITY|TRINITY]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.9|<< 1 Corinthians 2:9]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.11|1 Corinthians 2:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

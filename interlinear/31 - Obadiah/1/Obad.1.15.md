@@ -1,8 +1,56 @@
+---
+title: Obadiah 1:15
+type: Verse
+kjv: "For the day of the LORD is near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head."
+bsb: "For the Day of the LORD is near for all the nations. As you have done, it will be done to you; your recompense will return upon your own head."
+hebrew: "כִּֽי־ קָר֥וֹב יוֹם־ יְהוָ֖ה עַל־ כָּל־ הַגּוֹיִ֑ם כַּאֲשֶׁ֤ר עָשִׂ֙יתָ֙ יֵעָ֣שֶׂה לָּ֔ךְ גְּמֻלְךָ֖ יָשׁ֥וּב בְּרֹאשֶֽׁךָ׃"
+pericope: "[[Obad.1.15 The Deliverance of Israel|The Deliverance of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7138]]"
+- "[[H3117G]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H1576]]"
+- "[[H9021]]"
+- "[[H7725G]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:15**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the day of the LORD [is] near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.
 <small><sub>**BSB:**</sub></small>
 For the Day of the LORD is near for all the nations. As you have done, it will be done to you; your recompense will return upon your own head.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7138\|קָר֥וֹב]] [[H3117G\|יוֹם]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H6213A\|עָשִׂ֙יתָ֙]] [[H6213A\|יֵעָ֣שֶׂה]] [[H9005\|לָּ֔]][[H9032\|ךְ]] [[H1576\|גְּמֻלְ]][[H9021\|ךָ֖]] [[H7725G\|יָשׁ֥וּב]] [[H9003\|בְּ]][[H7218A\|רֹאשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.14|<< Obadiah 1:14]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.16|Obadiah 1:16 >>]]</td></tr></table>
 

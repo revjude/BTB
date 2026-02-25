@@ -1,8 +1,63 @@
+---
+title: Psalm 10:6
+type: Verse
+kjv: "He hath said in his heart, I shall not be moved: for I shall never be in adversity."
+bsb: "He says to himself, “I will not be moved; from age to age I am free of distress.”"
+hebrew: "אָמַ֣ר בְּ֭לִבּוֹ בַּל־ אֶמּ֑וֹט לְדֹ֥ר וָ֝דֹ֗ר אֲשֶׁ֣ר לֹֽא־ בְרָֽע׃"
+pericope: "[[Ps.10.1 The Perils of the Pilgrim|The Perils of the Pilgrim]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 10
+book/chapter: "[[Ps.10|Psalm 10]]"
+chronological_order: 344
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H4131]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 10:6**<big><big>[[Ps.10.1 The Perils of the Pilgrim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath said in his heart, I shall not be moved: for [I shall] never [be] in adversity.
 <small><sub>**BSB:**</sub></small>
 He says to himself, “I will not be moved; from age to age I am free of distress.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֣ר]] [[H9003\|בְּ֭]][[H3820A\|לִבּ]][[H9023\|וֹ]] [[H1077\|בַּל]][[H9014\|־]] [[H4131\|אֶמּ֑וֹט]] [[H9005\|לְ]][[H1755\|דֹ֥ר]] [[H9002\|וָ֝]][[H1755\|דֹ֗ר]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H9003\|בְ]][[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PRIDE|PRIDE]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.10.5|<< Psalms 10:5]]</td><td align="center" style="border:none;">[[Ps.10|Psalms 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.10.7|Psalms 10:7 >>]]</td></tr></table>
 

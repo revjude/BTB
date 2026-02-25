@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Beheading of John
+type: Pericope
 pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Mark
 chapter: 6
 book/chapter: "[[Mark.6|Mark 6]]"
-genre:
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 16
 verses:
 - "[[Mark.6.14]]"
 - "[[Mark.6.15]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Mark.6.29]]"
 ---
 
-[[Mark.6|Mark 6:14 - Mark 6:29]]
+<small>[[Mark.6|Mark 6:14-29]]</small>
 *The Beheading of John*
 
 [[Mark.6.14|14]] And king Herod heard \[of him\]; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.

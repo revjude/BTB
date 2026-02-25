@@ -1,8 +1,68 @@
+---
+title: Jeremiah 41:3
+type: Verse
+kjv: "Ishmael also slew all the Jews that were with him, even with Gedaliah, at Mizpah, and the Chaldeans that were found there, and the men of war."
+bsb: "Ishmael also killed all the Jews who were with Gedaliah at Mizpah, as well as the Chaldean soldiers who were there."
+hebrew: "וְאֵ֣ת כָּל־ הַיְּהוּדִ֗ים אֲשֶׁר־ הָי֨וּ אִתּ֤וֹ אֶת־ גְּדַלְיָ֙הוּ֙ בַּמִּצְפָּ֔ה וְאֶת־ הַכַּשְׂדִּ֖ים אֲשֶׁ֣ר נִמְצְאוּ־ שָׁ֑ם אֵ֚ת אַנְשֵׁ֣י הַמִּלְחָמָ֔ה הִכָּ֖ה יִשְׁמָעֵֽאל׃"
+pericope: "[[Jer.41.1 The Murder of Gedaliah|The Murder of Gedaliah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H1436B]]"
+- "[[H9003]]"
+- "[[H4709G]]"
+- "[[H3778]]"
+- "[[H4672]]"
+- "[[H8033G]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H5221]]"
+- "[[H3458H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:3**<big><big>[[Jer.41.1 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ishmael also slew all the Jews that were with him, [even] with Gedaliah, at Mizpah, and the Chaldeans that were found there, [and] the men of war.
 <small><sub>**BSB:**</sub></small>
 Ishmael also killed all the Jews who were with Gedaliah at Mizpah, as well as the Chaldean soldiers who were there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֗ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|הָי֨וּ]] [[H0854\|אִתּ֤]][[H9033\|וֹ]] [[H0854\|אֶת]][[H9014\|־]] [[H1436B\|גְּדַלְיָ֙הוּ֙]] [[H9003\|בַּ]][[H4709G\|מִּצְפָּ֔ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H4672\|נִמְצְאוּ]][[H9014\|־]] [[H8033G\|שָׁ֑ם]] [[H0853\|אֵ֚ת]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֔ה]] [[H5221\|הִכָּ֖ה]] [[H3458H\|יִשְׁמָעֵֽאל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GEDALIAH|GEDALIAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.2|<< Jeremiah 41:2]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.4|Jeremiah 41:4 >>]]</td></tr></table>
 

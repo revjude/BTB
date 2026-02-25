@@ -1,10 +1,65 @@
+---
+title: John 13:10
+type: Verse
+kjv: "Jesus saith to him, He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all."
+bsb: "Jesus told him, “Whoever has already bathed needs only to wash his feet, and he will be completely clean. And you are clean, though not all of you.”"
+jesus_said: "He that is washed needeth not save to wash his feet, but is clean every whit: and ye are clean, but not all."
+greek: "Λέγει αὐτῷ ὁ Ἰησοῦς· ὁ λελουμένος οὐκ ἔχει χρείαν εἰ μὴ τοὺς πόδας νίψασθαι, ἀλλ᾽ ἔστιν καθαρὸς ὅλος· καὶ ὑμεῖς καθαροί ἐστε ἀλλ᾽ οὐχὶ πάντες."
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FEET|FEET]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3068]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G5532]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G4228]]"
+- "[[G3538]]"
+- "[[G0235]]"
+- "[[G1510]]"
+- "[[G2513]]"
+- "[[G3650]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3780]]"
+- "[[G3956]]"
+texts:
+- NKO
+- no
+- N(K)O
+---
+
 **John 13:10**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith to him, He that is washed needeth not save to wash [his] feet, but is clean every whit: and ye are clean, but not all.
 <small><sub>**BSB:**</sub></small>
 Jesus told him, “Whoever has already bathed needs only to wash his feet, and he will be completely clean. And you are clean, though not all of you.”
-<small><sub>**Literal:**</sub></small>
-Says to him <the> Jesus; The [one] having bathed himself not has need only except the feet to wash, but is clean wholly; and you yourselves clean are but not all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.9|<< John 13:9]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.11|John 13:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3588\|ὁ]]  [[G3068\|λελουμένος]]  [[G3756\|οὐκ]]  [[G2192\|ἔχει]]  [[G5532\|χρείαν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3538\|νίψασθαι,]]  [[G0235\|ἀλλ᾽]]  [[G1510\|ἔστιν]]  [[G2513\|καθαρὸς]]  [[G3650\|ὅλος·]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G2513\|καθαροί]]  [[G1510\|ἐστε]]  [[G0235\|ἀλλ᾽]]  [[G3780\|οὐχὶ]]  [[G3956\|πάντες.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEET|FEET]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.9|<< John 13:9]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.11|John 13:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,64 @@
+---
+title: Nehemiah 3:29
+type: Verse
+kjv: "After them repaired Zadok the son of Immer over against his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate."
+bsb: "Next to them, Zadok son of Immer made repairs opposite his house, and next to him, Shemaiah son of Shecaniah, the guard of the East Gate, made repairs."
+hebrew: "אַחֲרָ֧יו הֶחֱזִ֛יק צָד֥וֹק בֶּן־ אִמֵּ֖ר נֶ֣גֶד בֵּית֑וֹ ס וְאַחֲרָ֤יו הֶחֱזִיק֙ שְׁמַֽעְיָ֣ה בֶן־ שְׁכַנְיָ֔ה שֹׁמֵ֖ר שַׁ֥עַר הַמִּזְרָֽח׃ ס"
+pericope: "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic IMMER|IMMER]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SHECHANIAH|SHECHANIAH]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H2388G]]"
+- "[[H6659K]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0564J]]"
+- "[[H5048]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9018]]"
+- "[[H9002]]"
+- "[[H8098R]]"
+- "[[H7935L]]"
+- "[[H8104H]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H4217G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 3:29**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After them repaired Zadok the son of Immer over against his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate.
 <small><sub>**BSB:**</sub></small>
 Next to them, Zadok son of Immer made repairs opposite his house, and next to him, Shemaiah son of Shecaniah, the guard of the East Gate, made repairs.
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַחֲרָ֧י]][[H9033\|ו]] [[H2388G\|הֶחֱזִ֛יק]] [[H6659K\|צָד֥וֹק]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0564J\|אִמֵּ֖ר]] [[H5048\|נֶ֣גֶד]] [[H1004B\|בֵּית֑]][[H9023\|וֹ]] [[H9018\|ס]] [[H9002\|וְ]][[H0310A\|אַחֲרָ֤י]][[H9033\|ו]] [[H2388G\|הֶחֱזִיק֙]] [[H8098R\|שְׁמַֽעְיָ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H7935L\|שְׁכַנְיָ֔ה]] [[H8104H\|שֹׁמֵ֖ר]] [[H8179G\|שַׁ֥עַר]] [[H9009\|הַ]][[H4217G\|מִּזְרָֽח]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMER|IMMER]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SHECHANIAH|SHECHANIAH]] • [[topic SHEMAIAH|SHEMAIAH]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.28|<< Nehemiah 3:28]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.30|Nehemiah 3:30 >>]]</td></tr></table>
 
@@ -14,7 +70,7 @@ Next to them, Zadok son of Immer made repairs opposite his house, and next to hi
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Immer  |**<big>&#8207;[[H0564J\|אִמֵּ֖ר]]&#8207; </big>**| 'i.Mer<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | before  |**<big>&#8207;[[H5048\|נֶ֣גֶד]]&#8207; </big>**| Ne.ged<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| own house his  |**<big>&#8207;[[H1004B\|בֵּית֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| bei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| own house his  |**<big>&#8207;[[H1004B\|בֵּית֑]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| bei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and after him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0310A\|אַחֲרָ֤י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.cha.Ra<small><sup>[[HAcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he repaired  |**<big>&#8207;[[H2388G\|הֶחֱזִיק֙]]&#8207; </big>**| he.che.Zik<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Shemaiah  |**<big>&#8207;[[H8098R\|שְׁמַֽעְיָ֣ה]]&#8207; </big>**| she.ma'.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
@@ -22,7 +78,7 @@ Next to them, Zadok son of Immer made repairs opposite his house, and next to hi
 | Shecaniah  |**<big>&#8207;[[H7935L\|שְׁכַנְיָ֔ה]]&#8207; </big>**| she.khan.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] keeper of  |**<big>&#8207;[[H8104H\|שֹׁמֵ֖ר]]&#8207; </big>**| sho.Mer<small><sup>[[HVqrmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] gate of  |**<big>&#8207;[[H8179G\|שַׁ֥עַר]]&#8207; </big>**| Sha.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the east  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4217G\|מִּזְרָֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Rach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the east  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4217G\|מִּזְרָֽח]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Rach<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.28|<< Nehemiah 3:28]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.30|Nehemiah 3:30 >>]]</td></tr></table>
 
 

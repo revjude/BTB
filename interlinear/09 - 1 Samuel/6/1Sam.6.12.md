@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 6:12
+type: Verse
+kjv: "And the kine took the straight way to the way of Bethshemesh, and went along the highway, lowing as they went, and turned not aside to the right hand or to the left; and the lords of the Philistines went after them unto the border of Bethshemesh."
+bsb: "And the cows headed straight up the road toward Beth-shemesh, staying on that one highway and lowing as they went, never straying to the right or to the left. The rulers of the Philistines followed behind them to the border of Beth-shemesh."
+hebrew: "וַיִשַּׁ֨רְנָה הַפָּר֜וֹת בַּדֶּ֗רֶךְ עַל־ דֶּ֙רֶךְ֙ בֵּ֣ית שֶׁ֔מֶשׁ בִּמְסִלָּ֣ה אַחַ֗ת הָלְכ֤וּ הָלֹךְ֙ וְגָע֔וֹ וְלֹא־ סָ֖רוּ יָמִ֣ין וּשְׂמֹ֑אול וְסַרְנֵ֤י פְלִשְׁתִּים֙ הֹלְכִ֣ים אַחֲרֵיהֶ֔ם עַד־ גְּב֖וּל בֵּ֥ית שָֽׁמֶשׁ׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-SHEMESH|BETH-SHEMESH]]"
+- "[[topic CART|CART]]"
+- "[[topic COW|COW]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3474]]"
+- "[[H9009]]"
+- "[[H6510]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1870J]]"
+- "[[H1053G]]"
+- "[[H4546]]"
+- "[[H0259]]"
+- "[[H1980I]]"
+- "[[H1980M]]"
+- "[[H9002]]"
+- "[[H1600]]"
+- "[[H3808]]"
+- "[[H5493I]]"
+- "[[H3225G]]"
+- "[[H8040G]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H5704]]"
+- "[[H1366G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 6:12**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the kine took the straight way to the way of Bethshemesh, [and] went along the highway, lowing as they went, and turned not aside [to] the right hand or [to] the left; and the lords of the Philistines went after them unto the border of Bethshemesh.
 <small><sub>**BSB:**</sub></small>
 And the cows headed straight up the road toward Beth-shemesh, staying on that one highway and lowing as they went, never straying to the right or to the left. The rulers of the Philistines followed behind them to the border of Beth-shemesh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3474\|יִשַּׁ֨רְנָה]] [[H9009\|הַ]][[H6510\|פָּר֜וֹת]] [[H9003\|בַּ]][[H1870L\|דֶּ֗רֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H1870J\|דֶּ֙רֶךְ֙]] [[H1053G\|בֵּ֣ית]] [[H1053G\|שֶׁ֔מֶשׁ]] [[H9003\|בִּ]][[H4546\|מְסִלָּ֣ה]] [[H0259\|אַחַ֗ת]] [[H1980I\|הָלְכ֤וּ]] [[H1980M\|הָלֹךְ֙]] [[H9002\|וְ]][[H1600\|גָע֔וֹ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5493I\|סָ֖רוּ]] [[H3225G\|יָמִ֣ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹ֑אול]] [[H9002\|וְ]][[H5633A\|סַרְנֵ֤י]] [[H6430G\|פְלִשְׁתִּים֙]] [[H1980N\|הֹלְכִ֣ים]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֔ם]] [[H5704\|עַד]][[H9014\|־]] [[H1366G\|גְּב֖וּל]] [[H1053G\|בֵּ֥ית]] [[H1053G\|שָֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-SHEMESH|BETH-SHEMESH]] • [[topic CART|CART]] • [[topic COW|COW]] • [[topic MIRACLES|MIRACLES]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.11|<< 1 Samuel 6:11]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.13|1 Samuel 6:13 >>]]</td></tr></table>
 

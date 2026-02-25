@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment for David’s Sin
+type: Pericope
 pericope: "[[1Chr.21.7 Judgment for David’s Sin|Judgment for David’s Sin]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 21
 book/chapter: "[[1Chr.21|1 Chronicles 21]]"
-genre:
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 7
 verses:
 - "[[1Chr.21.7]]"
 - "[[1Chr.21.8]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Chr.21.13]]"
 ---
 
-[[1Chr.21|1 Chronicles 21:7 - 1 Chronicles 21:13]]
+<small>[[1Chr.21|1 Chronicles 21:7-13]]</small>
 *Judgment for David’s Sin*
 
 [[1Chr.21.7|7]] And God was displeased with this thing; therefore he smote Israel.

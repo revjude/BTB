@@ -1,8 +1,58 @@
+---
+title: Psalm 66:3
+type: Verse
+kjv: "Say unto God, How terrible art thou in thy works! through the greatness of thy power shall thine enemies submit themselves unto thee."
+bsb: "Say to God, “How awesome are Your deeds! So great is Your power that Your enemies cower before You."
+hebrew: "אִמְר֣וּ לֵ֭אלֹהִים מַה־ נּוֹרָ֣א מַעֲשֶׂ֑יךָ בְּרֹ֥ב עֻ֝זְּךָ֗ יְֽכַחֲשׁ֖וּ לְךָ֣ אֹיְבֶֽיךָ׃"
+pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 66
+book/chapter: "[[Ps.66|Psalm 66]]"
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H3372H]]"
+- "[[H4639K]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H7230]]"
+- "[[H5797]]"
+- "[[H3584]]"
+- "[[H9031]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 66:3**<big><big>[[Ps.66.1 Make a Joyful Noise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say unto God, How terrible [art thou in] thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.
 <small><sub>**BSB:**</sub></small>
 Say to God, “How awesome are Your deeds! So great is Your power that Your enemies cower before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אִמְר֣וּ]] [[H9005\|לֵ֭]][[H0430G\|אלֹהִים]] [[H4100\|מַה]][[H9014\|־]] [[H3372H\|נּוֹרָ֣א]] [[H4639K\|מַעֲשֶׂ֑י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H7230\|רֹ֥ב]] [[H5797\|עֻ֝זְּ]][[H9021\|ךָ֗]] [[H3584\|יְֽכַחֲשׁ֖וּ]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H0341\|אֹיְבֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.66.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.66.2|<< Psalms 66:2]]</td><td align="center" style="border:none;">[[Ps.66|Psalms 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.66.4|Psalms 66:4 >>]]</td></tr></table>
 

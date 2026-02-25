@@ -1,10 +1,58 @@
+---
+title: Colossians 4:7
+type: Verse
+kjv: "All my state shall Tychicus declare unto you, who is a beloved brother, and a faithful minister and fellowservant in the Lord:"
+bsb: "Tychicus will tell you all the news about me. He is a beloved brother, a faithful minister, and a fellow servant in the Lord."
+greek: "Τὰ κατ᾽ ἐμὲ πάντα γνωρίσει ὑμῖν Τύχικος ὁ ἀγαπητὸς ἀδελφὸς καὶ πιστὸς διάκονος καὶ σύνδουλος ἐν κυρίῳ,"
+pericope: "[[Col.4.7 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TYCHICUS|TYCHICUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G1107]]"
+- "[[G4771]]"
+- "[[G5190]]"
+- "[[G0027]]"
+- "[[G0080]]"
+- "[[G2532]]"
+- "[[G4103]]"
+- "[[G1249]]"
+- "[[G4889]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+texts:
+- NKO
+---
+
 **Colossians 4:7**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All my state shall Tychicus declare unto you, [who is] a beloved brother, and a faithful minister and fellowservant in the Lord:
 <small><sub>**BSB:**</sub></small>
 Tychicus will tell you all the news about me. He is a beloved brother, a faithful minister, and a fellow servant in the Lord.
-<small><sub>**Literal:**</sub></small>
-The [things] concerning me myself all will make known to you Tychicus the beloved brother and faithful servant and fellow bond-servant in [the] Lord,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.6|<< Colossians 4:6]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.8|Colossians 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τὰ]]  [[G2596\|κατ᾽]]  [[G1473\|ἐμὲ]]  [[G3956\|πάντα]]  [[G1107\|γνωρίσει]]  [[G4771\|ὑμῖν]]  [[G5190\|Τύχικος]]  [[G3588\|ὁ]]  [[G0027\|ἀγαπητὸς]]  [[G0080\|ἀδελφὸς]]  [[G2532\|καὶ]]  [[G4103\|πιστὸς]]  [[G1249\|διάκονος]]  [[G2532\|καὶ]]  [[G4889\|σύνδουλος]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TYCHICUS|TYCHICUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.6|<< Colossians 4:6]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.8|Colossians 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

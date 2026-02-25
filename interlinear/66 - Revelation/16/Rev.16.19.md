@@ -1,10 +1,66 @@
+---
+title: Revelation 16:19
+type: Verse
+kjv: "And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath."
+bsb: "The great city was split into three parts, and the cities of the nations collapsed. And God remembered Babylon the great and gave her the cup of the wine of the fury of His wrath."
+greek: "καὶ ἐγένετο ἡ πόλις ἡ μεγάλη εἰς τρία μέρη, καὶ αἱ πόλεις τῶν ἐθνῶν ἔπεσαν. καὶ Βαβυλὼν ἡ μεγάλη ἐμνήσθη ἐνώπιον τοῦ θεοῦ δοῦναι αὐτῇ τὸ ποτήριον τοῦ οἴνου τοῦ θυμοῦ τῆς ὀργῆς αὐτοῦ."
+pericope: "[[Rev.16.17 The Seventh Bowl of Wrath|The Seventh Bowl of Wrath]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 16
+book/chapter: "[[Rev.16|Revelation 16]]"
+chronological_order: 1183
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3173]]"
+- "[[G1519]]"
+- "[[G5140]]"
+- "[[G3313]]"
+- "[[G1484]]"
+- "[[G4098]]"
+- "[[G0897]]"
+- "[[G3403]]"
+- "[[G1799]]"
+- "[[G2316]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4221]]"
+- "[[G3631]]"
+- "[[G2372]]"
+- "[[G3709]]"
+texts:
+- NKO
+---
+
 **Revelation 16:19**<big><big>[[Rev.16.17 The Seventh Bowl of Wrath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath.
 <small><sub>**BSB:**</sub></small>
 The great city was split into three parts, and the cities of the nations collapsed. And God remembered Babylon the great and gave her the cup of the wine of the fury of His wrath.
-<small><sub>**Literal:**</sub></small>
-And was [split] the city <the> great into three parts, and the cities of the nations fell. and Babylon the great was remembered before <the> God to give to her the cup of the wine of the fury the wrath of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.18|<< Revelation 16:18]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.20|Revelation 16:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη]]  [[G1519\|εἰς]]  [[G5140\|τρία]]  [[G3313\|μέρη,]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G4172\|πόλεις]]  [[G3588\|τῶν]]  [[G1484\|ἐθνῶν]]  [[G4098\|ἔπεσαν.]]  [[G2532\|καὶ]]  [[G0897\|Βαβυλὼν]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη]]  [[G3403\|ἐμνήσθη]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1325\|δοῦναι]]  [[G0846\|αὐτῇ]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3588\|τοῦ]]  [[G3631\|οἴνου]]  [[G3588\|τοῦ]]  [[G2372\|θυμοῦ]]  [[G3588\|τῆς]]  [[G3709\|ὀργῆς]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BABYLON|BABYLON]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.16.18|<< Revelation 16:18]]</td><td align="center" style="border:none;">[[Rev.16|Revelation 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.16.20|Revelation 16:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph Sold into Egypt
+type: Pericope
 pericope: "[[Acts.7.9 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 7
 book/chapter: "[[Acts.7|Acts 7]]"
-genre:
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.7.9]]"
 - "[[Acts.7.10]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.7.14]]"
 ---
 
-[[Acts.7|Acts 7:9 - Acts 7:14]]
+<small>[[Acts.7|Acts 7:9-14]]</small>
 *Joseph Sold into Egypt*
 
 [[Acts.7.9|9]] And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,

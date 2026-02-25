@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon Blesses the LORD
+type: Pericope
 pericope: "[[2Chr.6.1 Solomon Blesses the LORD|Solomon Blesses the LORD]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 6
 book/chapter: "[[2Chr.6|2 Chronicles 6]]"
-genre:
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 11
 verses:
 - "[[2Chr.6.1]]"
 - "[[2Chr.6.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Chr.6.11]]"
 ---
 
-[[2Chr.6|2 Chronicles 6:1 - 2 Chronicles 6:11]]
+<small>[[2Chr.6|2 Chronicles 6:1-11]]</small>
 *Solomon Blesses the LORD*
 
 [[2Chr.6.1|1]] Then said Solomon, The LORD hath said that he would dwell in the thick darkness.

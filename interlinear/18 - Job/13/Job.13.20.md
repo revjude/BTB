@@ -1,8 +1,55 @@
+---
+title: Job 13:20
+type: Verse
+kjv: "Only do not two things unto me: then will I not hide myself from thee."
+bsb: "Only grant these two things to me, so that I need not hide from You:"
+hebrew: "אַךְ־ שְׁ֭תַּיִם אַל־ תַּ֣עַשׂ עִמָּדִ֑י אָ֥ז מִ֝פָּנֶ֗יךָ לֹ֣א אֶסָּתֵֽר׃"
+pericope: "[[Job.13.1 Job Prepares His Case|Job Prepares His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 13
+book/chapter: "[[Job.13|Job 13]]"
+chronological_order: 24
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic REASONING|REASONING]]"
+strongs:
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H0408]]"
+- "[[H6213I]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H0227A]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H5641]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 13:20**<big><big>[[Job.13.1 Job Prepares His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only do not two [things] unto me: then will I not hide myself from thee.
 <small><sub>**BSB:**</sub></small>
 Only grant these two things to me, so that I need not hide from You:
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַךְ]][[H9014\|־]] [[H8147\|שְׁ֭תַּיִם]] [[H0408\|אַל]][[H9014\|־]] [[H6213I\|תַּ֣עַשׂ]] [[H5978\|עִמָּדִ֑]][[H9030\|י]] [[H0227A\|אָ֥ז]] [[H9006\|מִ֝]][[H6440H\|פָּנֶ֗י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H5641\|אֶסָּתֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REASONING|REASONING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.13.19|<< Job 13:19]]</td><td align="center" style="border:none;">[[Job.13|Job 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.13.21|Job 13:21 >>]]</td></tr></table>
 

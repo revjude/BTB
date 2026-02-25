@@ -1,10 +1,66 @@
+---
+title: Colossians 4:12
+type: Verse
+kjv: "Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God."
+bsb: "Epaphras, who is one of you and a servant of Christ Jesus, sends you greetings. He is always wrestling in prayer for you, so that you may stand mature and fully assured in the full will of God."
+greek: "Ἀσπάζεται ὑμᾶς Ἐπαφρᾶς ὁ ἐξ ὑμῶν, δοῦλος Χριστοῦ Ἰησοῦ, πάντοτε ἀγωνιζόμενος ὑπὲρ ὑμῶν ἐν ταῖς προσευχαῖς, ἵνα σταθῆτε τέλειοι καὶ πεπληροφορημένοι ἐν παντὶ θελήματι τοῦ θεοῦ."
+pericope: "[[Col.4.7 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic EPAPHRAS|EPAPHRAS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERFECTION|PERFECTION]]"
+strongs:
+- "[[G0782]]"
+- "[[G4771]]"
+- "[[G1889]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G1401]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3842]]"
+- "[[G0075]]"
+- "[[G5228]]"
+- "[[G1722]]"
+- "[[G4335]]"
+- "[[G2443]]"
+- "[[G2476]]"
+- "[[G5046]]"
+- "[[G2532]]"
+- "[[G4135]]"
+- "[[G3956]]"
+- "[[G2307]]"
+- "[[G2316]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **Colossians 4:12**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Epaphras, who is [one] of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God.
 <small><sub>**BSB:**</sub></small>
 Epaphras, who is one of you and a servant of Christ Jesus, sends you greetings. He is always wrestling in prayer for you, so that you may stand mature and fully assured in the full will of God.
-<small><sub>**Literal:**</sub></small>
-Greets you Epaphras who [is] [one] of you, a servant of Christ Jesus, always struggling for you in the prayers, so that you may be stood mature and fully complete in all [the] will <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.11|<< Colossians 4:11]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.13|Colossians 4:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάζεται]]  [[G4771\|ὑμᾶς]]  [[G1889\|Ἐπαφρᾶς]]  [[G3588\|ὁ]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν,]]  [[G1401\|δοῦλος]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ,]]  [[G3842\|πάντοτε]]  [[G0075\|ἀγωνιζόμενος]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G4335\|προσευχαῖς,]]  [[G2443\|ἵνα]]  [[G2476\|σταθῆτε]]  [[G5046\|τέλειοι]]  [[G2532\|καὶ]]  [[G4135\|πεπληροφορημένοι]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G2307\|θελήματι]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPAPHRAS|EPAPHRAS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERFECTION|PERFECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.11|<< Colossians 4:11]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.13|Colossians 4:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

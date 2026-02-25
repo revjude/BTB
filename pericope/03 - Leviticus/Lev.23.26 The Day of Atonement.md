@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Day of Atonement
+type: Pericope
 pericope: "[[Lev.23.26 The Day of Atonement|The Day of Atonement]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 23
 book/chapter: "[[Lev.23|Leviticus 23]]"
-genre:
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 7
 verses:
 - "[[Lev.23.26]]"
 - "[[Lev.23.27]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Lev.23.32]]"
 ---
 
-[[Lev.23|Leviticus 23:26 - Leviticus 23:32]]
+<small>[[Lev.23|Leviticus 23:26-32]]</small>
 *The Day of Atonement*
 
 [[Lev.23.26|26]] And the LORD spake unto Moses, saying,

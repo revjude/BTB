@@ -1,8 +1,63 @@
+---
+title: Psalm 104:25
+type: Verse
+kjv: "So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts."
+bsb: "Here is the sea, vast and wide, teeming with creatures beyond number, living things both great and small."
+hebrew: "זֶ֤ה׀ הַיָּ֥ם גָּדוֹל֮ וּרְחַ֪ב יָ֫דָ֥יִם שָֽׁם־ רֶ֭מֶשׂ וְאֵ֣ין מִסְפָּ֑ר חַיּ֥וֹת קְ֝טַנּ֗וֹת עִם־ גְּדֹלֽוֹת׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2088]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H7342H]]"
+- "[[H3027Q]]"
+- "[[H8033G]]"
+- "[[H9014]]"
+- "[[H7431]]"
+- "[[H0369]]"
+- "[[H4557]]"
+- "[[H2416C]]"
+- "[[H6996A]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:25**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [So is] this great and wide sea, wherein [are] things creeping innumerable, both small and great beasts.
 <small><sub>**BSB:**</sub></small>
 Here is the sea, vast and wide, teeming with creatures beyond number, living things both great and small.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֤ה]][[H9015\|׀]] [[H9009\|הַ]][[H3220G\|יָּ֥ם]] [[H1419A\|גָּדוֹל֮]] [[H9002\|וּ]][[H7342H\|רְחַ֪ב]] [[H3027Q\|יָ֫דָ֥יִם]] [[H8033G\|שָֽׁם]][[H9014\|־]] [[H7431\|רֶ֭מֶשׂ]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H4557\|מִסְפָּ֑ר]] [[H2416C\|חַיּ֥וֹת]] [[H6996A\|קְ֝טַנּ֗וֹת]] [[H5973A\|עִם]][[H9014\|־]] [[H1419A\|גְּדֹלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BLESSING|BLESSING]] • [[topic CREEPING THINGS|CREEPING THINGS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.24|<< Psalms 104:24]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.26|Psalms 104:26 >>]]</td></tr></table>
 

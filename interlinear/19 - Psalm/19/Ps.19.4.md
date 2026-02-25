@@ -1,8 +1,67 @@
+---
+title: Psalm 19:4
+type: Verse
+kjv: "Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,"
+bsb: "their voice has gone out into all the earth, their words to the ends of the world. In the heavens He has pitched a tent for the sun."
+hebrew: "בְּכָל־ הָאָ֨רֶץ׀ יָ֘צָ֤א קַוָּ֗ם וּבִקְצֵ֣ה תֵ֭בֵל מִלֵּיהֶ֑ם לַ֝שֶּׁ֗מֶשׁ שָֽׂם־ אֹ֥הֶל בָּהֶֽם׃"
+pericope: "[[Ps.19.1 The Heavens Declare the Glory of God|The Heavens Declare the Glory of God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 19
+book/chapter: "[[Ps.19|Psalm 19]]"
+chronological_order: 352
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9015]]"
+- "[[H3318O]]"
+- "[[H6957B]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H7097A]]"
+- "[[H8398]]"
+- "[[H4405]]"
+- "[[H9005]]"
+- "[[H8121]]"
+- "[[H7760A]]"
+- "[[H0168G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 19:4**<big><big>[[Ps.19.1 The Heavens Declare the Glory of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,
 <small><sub>**BSB:**</sub></small>
 their voice has gone out into all the earth, their words to the ends of the world. In the heavens He has pitched a tent for the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֨רֶץ]][[H9015\|׀]] [[H3318O\|יָ֘צָ֤א]] [[H6957B\|קַוָּ֗]][[H9028\|ם]] [[H9002\|וּ]][[H9003\|בִ]][[H7097A\|קְצֵ֣ה]] [[H8398\|תֵ֭בֵל]] [[H4405\|מִלֵּי]][[H9028\|הֶ֑ם]] [[H9005\|לַ֝]][[H8121\|שֶּׁ֗מֶשׁ]] [[H7760A\|שָֽׂם]][[H9014\|־]] [[H0168G\|אֹ֥הֶל]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.19.3|<< Psalms 19:3]]</td><td align="center" style="border:none;">[[Ps.19|Psalms 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.19.5|Psalms 19:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

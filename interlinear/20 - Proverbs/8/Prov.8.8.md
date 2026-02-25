@@ -1,8 +1,54 @@
+---
+title: Proverbs 8:8
+type: Verse
+kjv: "All the words of my mouth are in righteousness; there is nothing froward or perverse in them."
+bsb: "All the words of my mouth are righteous; none are crooked or perverse."
+hebrew: "בְּצֶ֥דֶק כָּל־ אִמְרֵי־ פִ֑י אֵ֥ין בָּ֝הֶ֗ם נִפְתָּ֥ל וְעִקֵּֽשׁ׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9003]]"
+- "[[H6664G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0561]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H0369]]"
+- "[[H9038]]"
+- "[[H6617]]"
+- "[[H9002]]"
+- "[[H6141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:8**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the words of my mouth [are] in righteousness; [there is] nothing froward or perverse in them.
 <small><sub>**BSB:**</sub></small>
 All the words of my mouth are righteous; none are crooked or perverse.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H6664G\|צֶ֥דֶק]] [[H3605\|כָּל]][[H9014\|־]] [[H0561\|אִמְרֵי]][[H9014\|־]] [[H6310G\|פִ֑]][[H9020\|י]] [[H0369\|אֵ֥ין]] [[H9003\|בָּ֝]][[H9038\|הֶ֗ם]] [[H6617\|נִפְתָּ֥ל]] [[H9002\|וְ]][[H6141\|עִקֵּֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.7|<< Proverbs 8:7]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.9|Proverbs 8:9 >>]]</td></tr></table>
 

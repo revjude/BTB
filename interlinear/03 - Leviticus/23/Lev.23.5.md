@@ -1,8 +1,58 @@
+---
+title: Leviticus 23:5
+type: Verse
+kjv: "In the fourteenth day of the first month at even is the LORD’S passover."
+bsb: "The Passover to the LORD begins at twilight on the fourteenth day of the first month."
+hebrew: "בַּחֹ֣דֶשׁ הָרִאשׁ֗וֹן בְּאַרְבָּעָ֥ה עָשָׂ֛ר לַחֹ֖דֶשׁ בֵּ֣ין הָעַרְבָּ֑יִם פֶּ֖סַח לַיהוָֽה׃"
+pericope: "[[Lev.23.4 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0702]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H0996G]]"
+- "[[H6153]]"
+- "[[H6453]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:5**<big><big>[[Lev.23.4 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the fourteenth [day] of the first month at even [is] the LORD’S passover.
 <small><sub>**BSB:**</sub></small>
 The Passover to the LORD begins at twilight on the fourteenth day of the first month.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H7223G\|רִאשׁ֗וֹן]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֛ר]] [[H9005\|לַ]][[H2320G\|חֹ֖דֶשׁ]] [[H0996G\|בֵּ֣ין]] [[H9009\|הָ]][[H6153\|עַרְבָּ֑יִם]] [[H6453\|פֶּ֖סַח]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.4|<< Leviticus 23:4]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.6|Leviticus 23:6 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Proverbs 20:24
+type: Verse
+kjv: "Man’s goings are of the LORD; how can a man then understand his own way?"
+bsb: "A man’s steps are from the LORD, so how can anyone understand his own way?"
+hebrew: "מֵיהוָ֥ה מִצְעֲדֵי־ גָ֑בֶר וְ֝אָדָ֗ם מַה־ יָּבִ֥ין דַּרְכּֽוֹ׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H4703]]"
+- "[[H9014]]"
+- "[[H1397]]"
+- "[[H9002]]"
+- "[[H0120G]]"
+- "[[H4100]]"
+- "[[H0995]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:24**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Man’s goings [are] of the LORD; how can a man then understand his own way?
 <small><sub>**BSB:**</sub></small>
 A man’s steps are from the LORD, so how can anyone understand his own way?
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H3068G\|יהוָ֥ה]] [[H4703\|מִצְעֲדֵי]][[H9014\|־]] [[H1397\|גָ֑בֶר]] [[H9002\|וְ֝]][[H0120G\|אָדָ֗ם]] [[H4100\|מַה]][[H9014\|־]] [[H0995\|יָּבִ֥ין]] [[H1870G\|דַּרְכּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.23|<< Proverbs 20:23]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.25|Proverbs 20:25 >>]]</td></tr></table>
 

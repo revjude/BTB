@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Plague on Israel
+type: Pericope
 pericope: "[[1Chr.21.14 A Plague on Israel|A Plague on Israel]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 21
 book/chapter: "[[1Chr.21|1 Chronicles 21]]"
-genre:
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 4
 verses:
 - "[[1Chr.21.14]]"
 - "[[1Chr.21.15]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Chr.21.17]]"
 ---
 
-[[1Chr.21|1 Chronicles 21:14 - 1 Chronicles 21:17]]
+<small>[[1Chr.21|1 Chronicles 21:14-17]]</small>
 *A Plague on Israel*
 
 [[1Chr.21.14|14]] So the LORD sent pestilence upon Israel: and there fell of Israel seventy thousand men.

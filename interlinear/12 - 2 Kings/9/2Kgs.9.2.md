@@ -1,8 +1,69 @@
+---
+title: 2 Kings 9:2
+type: Verse
+kjv: "And when thou comest thither, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brethren, and carry him to an inner chamber;"
+bsb: "When you arrive, look for Jehu son of Jehoshaphat, the son of Nimshi. Go in, get him away from his companions, and take him to an inner room."
+hebrew: "וּבָ֖אתָ שָׁ֑מָּה וּרְאֵֽה־ שָׁ֠ם יֵה֨וּא בֶן־ יְהוֹשָׁפָ֜ט בֶּן־ נִמְשִׁ֗י וּבָ֙אתָ֙ וַהֲקֵֽמֹתוֹ֙ מִתּ֣וֹך אֶחָ֔יו וְהֵבֵיאתָ֥ אֹת֖וֹ חֶ֥דֶר בְּחָֽדֶר׃"
+pericope: "[[2Kgs.9.1 Jehu Anointed King of Israel|Jehu Anointed King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BOX|BOX]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic NIMSHI|NIMSHI]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H3058H]]"
+- "[[H1121A]]"
+- "[[H3092J]]"
+- "[[H5250]]"
+- "[[H6965B]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H2315]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:2**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when thou comest thither, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brethren, and carry him to an inner chamber;
 <small><sub>**BSB:**</sub></small>
 When you arrive, look for Jehu son of Jehoshaphat, the son of Nimshi. Go in, get him away from his companions, and take him to an inner room.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֖אתָ]] [[H8033G\|שָׁ֑מָּ]][[H9011\|ה]] [[H9002\|וּ]][[H7200G\|רְאֵֽה]][[H9014\|־]] [[H8033G\|שָׁ֠ם]] [[H3058H\|יֵה֨וּא]] [[H1121A\|בֶן]][[H9014\|־]] [[H3092J\|יְהוֹשָׁפָ֜ט]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5250\|נִמְשִׁ֗י]] [[H9001\|וּ]][[H0935G\|בָ֙אתָ֙]] [[H9001\|וַ]][[H6965B\|הֲקֵֽמֹת]][[H9033\|וֹ֙]] [[H9006\|מִ]][[H8432\|תּ֣וֹך]] [[H0251I\|אֶחָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H0935G\|הֵבֵיאתָ֥]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H2315\|חֶ֥דֶר]] [[H9003\|בְּ]][[H2315\|חָֽדֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BOX|BOX]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ELISHA|ELISHA]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JEHU|JEHU]] • [[topic NIMSHI|NIMSHI]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.1|<< 2 Kings 9:1]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.3|2 Kings 9:3 >>]]</td></tr></table>
 

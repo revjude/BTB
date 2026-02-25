@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 18:7
+type: Verse
+kjv: "Then he shall minister in the name of the LORD his God, as all his brethren the Levites do, which stand there before the LORD."
+bsb: "then he shall serve in the name of the LORD his God like all his fellow Levites who stand there before the LORD."
+hebrew: "וְשֵׁרֵ֕ת בְּשֵׁ֖ם יְהוָ֣ה אֱלֹהָ֑יו כְּכָל־ אֶחָיו֙ הַלְוִיִּ֔ם הָעֹמְדִ֥ים שָׁ֖ם לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Deut.18.1 Provision for Priests and Levites|Provision for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H8334]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0251I]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H5975G]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:7**<big><big>[[Deut.18.1 Provision for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he shall minister in the name of the LORD his God, as all his brethren the Levites [do], which stand there before the LORD.
 <small><sub>**BSB:**</sub></small>
 then he shall serve in the name of the LORD his God like all his fellow Levites who stand there before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8334\|שֵׁרֵ֕ת]] [[H9003\|בְּ]][[H8034\|שֵׁ֖ם]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑י]][[H9023\|ו]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H0251I\|אֶחָי]][[H9023\|ו֙]] [[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9009\|הָ]][[H5975G\|עֹמְדִ֥ים]] [[H8033G\|שָׁ֖ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.6|<< Deuteronomy 18:6]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.8|Deuteronomy 18:8 >>]]</td></tr></table>
 

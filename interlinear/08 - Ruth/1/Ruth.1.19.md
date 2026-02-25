@@ -1,8 +1,65 @@
+---
+title: Ruth 1:19
+type: Verse
+kjv: "So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, Is this Naomi?"
+bsb: "So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women of the town exclaimed, “Can this be Naomi?”"
+hebrew: "וַתֵּלַ֣כְנָה שְׁתֵּיהֶ֔ם עַד־ בֹּאָ֖נָה בֵּ֣ית לָ֑חֶם וַיְהִ֗י כְּבֹאָ֙נָה֙ בֵּ֣ית לֶ֔חֶם וַתֵּהֹ֤ם כָּל־ הָעִיר֙ עֲלֵיהֶ֔ן וַתֹּאמַ֖רְנָה הֲזֹ֥את נָעֳמִֽי׃"
+pericope: "[[Ruth.1.19 The Return to Bethlehem|The Return to Bethlehem]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9049]]"
+- "[[H1035G]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1949]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H5921A]]"
+- "[[H9039]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H2063]]"
+- "[[H5281]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:19**<big><big>[[Ruth.1.19 The Return to Bethlehem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, [Is] this Naomi?
 <small><sub>**BSB:**</sub></small>
 So Naomi and Ruth traveled until they came to Bethlehem. When they entered Bethlehem, the whole town was stirred because of them, and the women of the town exclaimed, “Can this be Naomi?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|תֵּלַ֣כְנָה]] [[H8147\|שְׁתֵּי]][[H9028\|הֶ֔ם]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּאָ֖]][[H9049\|נָה]] [[H1035G\|בֵּ֣ית]] [[H1035G\|לָ֑חֶם]] [[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כְּ]][[H0935G\|בֹאָ֙]][[H9049\|נָה֙]] [[H1035G\|בֵּ֣ית]] [[H1035G\|לֶ֔חֶם]] [[H9001\|וַ]][[H1949\|תֵּהֹ֤ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H5921A\|עֲלֵי]][[H9039\|הֶ֔ן]] [[H9001\|וַ]][[H0559\|תֹּאמַ֖רְנָה]] [[H9008\|הֲ]][[H2063\|זֹ֥את]] [[H5281\|נָעֳמִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RUTH|RUTH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.18|<< Ruth 1:18]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.20|Ruth 1:20 >>]]</td></tr></table>
 

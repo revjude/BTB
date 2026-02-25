@@ -1,10 +1,67 @@
+---
+title: 1 John 4:10
+type: Verse
+kjv: "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."
+bsb: "And love consists in this: not that we loved God, but that He loved us and sent His Son as the atoning sacrifice for our sins."
+greek: "ἐν τούτῳ ἐστὶν ἡ ἀγάπη, οὐχ ὅτι ἡμεῖς ἠγαπήκαμεν τὸν θεόν, ἀλλ᾽ ὅτι αὐτὸς ἠγάπησεν ἡμᾶς καὶ ἀπέστειλεν τὸν υἱὸν αὐτοῦ ἱλασμὸν περὶ τῶν ἁμαρτιῶν ἡμῶν.¶"
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPITIATION|PROPITIATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G3756]]"
+- "[[G3754G]]"
+- "[[G3165]]"
+- "[[G0025]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G5207]]"
+- "[[G2434]]"
+- "[[G4012]]"
+- "[[G0266]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 John 4:10**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Herein is love, not that we loved God, but that he loved us, and sent his Son [to be] the propitiation for our sins.
 <small><sub>**BSB:**</sub></small>
 And love consists in this: not that we loved God, but that He loved us and sent His Son as the atoning sacrifice for our sins.
-<small><sub>**Literal:**</sub></small>
-In this is <the> love, not that we ourselves have loved <the> God, but that He himself loved us and He sent the Son of Him [as] a propitiation for the sins of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.9|<< 1 John 4:9]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.11|1 John 4:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη,]]  [[G3756\|οὐχ]]  [[G3754G\|ὅτι]]  [[G3165\|ἡμεῖς]]  [[G0025\|ἠγαπήκαμεν]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G0235\|ἀλλ᾽]]  [[G3754G\|ὅτι]]  [[G0846\|αὐτὸς]]  [[G0025\|ἠγάπησεν]]  [[G3165\|ἡμᾶς]]  [[G2532\|καὶ]]  [[G0649\|ἀπέστειλεν]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G0846\|αὐτοῦ]]  [[G2434\|ἱλασμὸν]]  [[G4012\|περὶ]]  [[G3588\|τῶν]]  [[G0266\|ἁμαρτιῶν]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPITIATION|PROPITIATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.9|<< 1 John 4:9]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.11|1 John 4:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

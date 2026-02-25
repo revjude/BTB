@@ -1,10 +1,65 @@
+---
+title: Mark 4:8
+type: Verse
+kjv: "And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred."
+bsb: "Still other seed fell on good soil, where it sprouted, grew up, and produced a crop—one bearing thirtyfold, another sixtyfold, and another a hundredfold.”"
+jesus_said: "And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred."
+greek: "καὶ ἄλλα ἔπεσεν εἰς τὴν γῆν τὴν καλὴν καὶ ἐδίδου καρπὸν ἀναβαίνοντα καὶ αὐξανόμενα καὶ ἔφερεν ἓν τριάκοντα καὶ ἓν ἑξήκοντα καὶ ἓν ἑκατόν."
+pericope: "[[Mark.4.1 The Parable of the Sower|The Parable of the Sower]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G0243]]"
+- "[[G4098]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1093I]]"
+- "[[G2570G]]"
+- "[[G1325]]"
+- "[[G2590]]"
+- "[[G0305]]"
+- "[[G0837]]"
+- "[[G5342]]"
+- "[[G1520]]"
+- "[[G5144]]"
+- "[[G1835]]"
+- "[[G1540]]"
+texts:
+- NKO
+- N(k)O
+- N(k)(o)
+---
+
 **Mark 4:8**<big><big>[[Mark.4.1 The Parable of the Sower|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred.
 <small><sub>**BSB:**</sub></small>
 Still other seed fell on good soil, where it sprouted, grew up, and produced a crop—one bearing thirtyfold, another sixtyfold, and another a hundredfold.”
-<small><sub>**Literal:**</sub></small>
-And others fell into the soil <the> good and was yielding fruit growing up and increasing and was bearing one thirtyfold and one sixty and one a hundred.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.7|<< Mark 4:7]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.9|Mark 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0243\|ἄλλα]]  [[G4098\|ἔπεσεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093I\|γῆν]]  [[G3588\|τὴν]]  [[G2570G\|καλὴν]]  [[G2532\|καὶ]]  [[G1325\|ἐδίδου]]  [[G2590\|καρπὸν]]  [[G0305\|ἀναβαίνοντα]]  [[G2532\|καὶ]]  [[G0837\|αὐξανόμενα]]  [[G2532\|καὶ]]  [[G5342\|ἔφερεν]]  [[G1520\|ἓν]]  [[G5144\|τριάκοντα]]  [[G2532\|καὶ]]  [[G1520\|ἓν]]  [[G1835\|ἑξήκοντα]]  [[G2532\|καὶ]]  [[G1520\|ἓν]]  [[G1540\|ἑκατόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.7|<< Mark 4:7]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.9|Mark 4:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

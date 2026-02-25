@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 2:6
+type: Verse
+kjv: "But who is able to build him an house, seeing the heaven and heaven of heavens cannot contain him? who am I then, that I should build him an house, save only to burn sacrifice before him?"
+bsb: "But who is able to build a house for Him, since the heavens, even the highest heavens, cannot contain Him? Who then am I, that I should build a house for Him, except as a place to burn sacrifices before Him?"
+hebrew: "וּמִ֤י יַעֲצָר־ כֹּ֙חַ֙ לִבְנֽוֹת־ ל֣וֹ בַ֔יִת כִּ֧י הַשָּׁמַ֛יִם וּשְׁמֵ֥י הַשָּׁמַ֖יִם לֹ֣א יְכַלְכְּלֻ֑הוּ וּמִ֤י אֲנִי֙ אֲשֶׁ֣ר אֶבְנֶה־ לּ֣וֹ בַ֔יִת כִּ֖י אִם־ לְהַקְטִ֥יר לְפָנָֽיו׃"
+pericope: "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4310]]"
+- "[[H6113]]"
+- "[[H9014]]"
+- "[[H3581B]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H9033]]"
+- "[[H1004B]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H3808]]"
+- "[[H3557]]"
+- "[[H0589]]"
+- "[[H0834A]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H6999H]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:6**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But who is able to build him an house, seeing the heaven and heaven of heavens cannot contain him? who [am] I then, that I should build him an house, save only to burn sacrifice before him?
 <small><sub>**BSB:**</sub></small>
 But who is able to build a house for Him, since the heavens, even the highest heavens, cannot contain Him? Who then am I, that I should build a house for Him, except as a place to burn sacrifices before Him?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4310\|מִ֤י]] [[H6113\|יַעֲצָר]][[H9014\|־]] [[H3581B\|כֹּ֙חַ֙]] [[H9005\|לִ]][[H1129\|בְנֽוֹת]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H1004B\|בַ֔יִת]] [[H3588A\|כִּ֧י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֛יִם]] [[H9002\|וּ]][[H8064\|שְׁמֵ֥י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H3808\|לֹ֣א]] [[H3557\|יְכַלְכְּלֻ֑]][[H9033\|הוּ]] [[H9002\|וּ]][[H4310\|מִ֤י]] [[H0589\|אֲנִי֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1129\|אֶבְנֶה]][[H9014\|־]] [[H9005\|לּ֣]][[H9033\|וֹ]] [[H1004B\|בַ֔יִת]] [[H3588B\|כִּ֖י]] [[H0518B\|אִם]][[H9014\|־]] [[H9005\|לְ]][[H6999H\|הַקְטִ֥יר]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic HIRAM|HIRAM]] • [[topic HUMILITY|HUMILITY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.5|<< 2 Chronicles 2:5]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.7|2 Chronicles 2:7 >>]]</td></tr></table>
 

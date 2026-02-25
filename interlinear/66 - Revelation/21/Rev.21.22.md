@@ -1,10 +1,60 @@
+---
+title: Revelation 21:22
+type: Verse
+kjv: "And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it."
+bsb: "But I saw no temple in the city, because the Lord God Almighty and the Lamb are its temple."
+greek: "καὶ ναὸν οὐκ εἶδον ἐν αὐτῇ· ὁ γὰρ κύριος ὁ θεὸς ὁ παντοκράτωρ ναὸς αὐτῆς ἐστιν καὶ τὸ ἀρνίον."
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3485]]"
+- "[[G3756]]"
+- "[[G1492H]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G3841]]"
+- "[[G1510]]"
+- "[[G0721]]"
+texts:
+- NKO
+---
+
 **Revelation 21:22**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
 <small><sub>**BSB:**</sub></small>
 But I saw no temple in the city, because the Lord God Almighty and the Lamb are its temple.
-<small><sub>**Literal:**</sub></small>
-And temple not I saw in it; <the> for the Lord <the> God <the> Almighty temple of it is and the Lamb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.21|<< Revelation 21:21]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.23|Revelation 21:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3485\|ναὸν]]  [[G3756\|οὐκ]]  [[G1492H\|εἶδον]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ·]]  [[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G2962G\|κύριος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G3841\|παντοκράτωρ]]  [[G3485\|ναὸς]]  [[G0846\|αὐτῆς]]  [[G1510\|ἐστιν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0721\|ἀρνίον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.21|<< Revelation 21:21]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.23|Revelation 21:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Proverbs 5:20
+type: Verse
+kjv: "And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?"
+bsb: "Why be captivated, my son, by an adulteress, or embrace the bosom of a stranger?"
+hebrew: "וְלָ֤מָּה תִשְׁגֶּ֣ה בְנִ֣י בְזָרָ֑ה וּ֝תְחַבֵּ֗ק חֵ֣ק נָכְרִיָּֽה׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7686]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H2114A]]"
+- "[[H2263]]"
+- "[[H2436G]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:20**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?
 <small><sub>**BSB:**</sub></small>
 Why be captivated, my son, by an adulteress, or embrace the bosom of a stranger?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ֤]][[H4100\|מָּה]] [[H7686\|תִשְׁגֶּ֣ה]] [[H1121A\|בְנִ֣]][[H9020\|י]] [[H9003\|בְ]][[H2114A\|זָרָ֑ה]] [[H9002\|וּ֝]][[H2263\|תְחַבֵּ֗ק]] [[H2436G\|חֵ֣ק]] [[H5237\|נָכְרִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.19|<< Proverbs 5:19]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.21|Proverbs 5:21 >>]]</td></tr></table>
 

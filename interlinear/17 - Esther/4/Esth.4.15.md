@@ -1,8 +1,50 @@
+---
+title: Esther 4:15
+type: Verse
+kjv: "Then Esther bade them return Mordecai this answer,"
+bsb: "Then Esther sent this reply to Mordecai:"
+hebrew: "וַתֹּ֥אמֶר אֶסְתֵּ֖ר לְהָשִׁ֥יב אֶֽל־ מָרְדֳּכָֽי׃"
+pericope: "[[Esth.4.1 Mordecai Appeals to Esther|Mordecai Appeals to Esther]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 4
+book/chapter: "[[Esth.4|Esther 4]]"
+chronological_order: 902
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0635]]"
+- "[[H9005]]"
+- "[[H7725M]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4782H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 4:15**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Esther bade [them] return Mordecai [this answer],
 <small><sub>**BSB:**</sub></small>
 Then Esther sent this reply to Mordecai:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֥אמֶר]] [[H0635\|אֶסְתֵּ֖ר]] [[H9005\|לְ]][[H7725M\|הָשִׁ֥יב]] [[H0413\|אֶֽל]][[H9014\|־]] [[H4782H\|מָרְדֳּכָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.14|<< Esther 4:14]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.16|Esther 4:16 >>]]</td></tr></table>
 

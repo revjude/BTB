@@ -1,8 +1,67 @@
+---
+title: Leviticus 14:4
+type: Verse
+kjv: "Then shall the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:"
+bsb: "the priest shall order that two live clean birds, cedar wood, scarlet yarn, and hyssop be brought for the one to be cleansed."
+hebrew: "וְצִוָּה֙ הַכֹּהֵ֔ן וְלָקַ֧ח לַמִּטַּהֵ֛ר שְׁתֵּֽי־ צִפֳּרִ֥ים חַיּ֖וֹת טְהֹר֑וֹת וְעֵ֣ץ אֶ֔רֶז וּשְׁנִ֥י תוֹלַ֖עַת וְאֵזֹֽב׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic HYSSOP|HYSSOP]]"
+- "[[topic SCAPEBIRD|SCAPEBIRD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3947G]]"
+- "[[H9005]]"
+- "[[H2891]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H6833]]"
+- "[[H2416A]]"
+- "[[H2889]]"
+- "[[H9002]]"
+- "[[H6086G]]"
+- "[[H0730]]"
+- "[[H8144]]"
+- "[[H8438B]]"
+- "[[H0231]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:4**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the priest command to take for him that is to be cleansed two birds alive [and] clean, and cedar wood, and scarlet, and hyssop:
 <small><sub>**BSB:**</sub></small>
 the priest shall order that two live clean birds, cedar wood, scarlet yarn, and hyssop be brought for the one to be cleansed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6680\|צִוָּה֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9001\|וְ]][[H3947G\|לָקַ֧ח]] [[H9005\|לַ]][[H2891\|מִּטַּהֵ֛ר]] [[H8147\|שְׁתֵּֽי]][[H9014\|־]] [[H6833\|צִפֳּרִ֥ים]] [[H2416A\|חַיּ֖וֹת]] [[H2889\|טְהֹר֑וֹת]] [[H9002\|וְ]][[H6086G\|עֵ֣ץ]] [[H0730\|אֶ֔רֶז]] [[H9002\|וּ]][[H8144\|שְׁנִ֥י]] [[H8438B\|תוֹלַ֖עַת]] [[H9002\|וְ]][[H0231\|אֵזֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic COLORS|COLORS]] • [[topic HYSSOP|HYSSOP]] • [[topic SCAPEBIRD|SCAPEBIRD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.3|<< Leviticus 14:3]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.5|Leviticus 14:5 >>]]</td></tr></table>
 

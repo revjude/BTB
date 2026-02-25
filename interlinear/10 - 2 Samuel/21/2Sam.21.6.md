@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 21:6
+type: Verse
+kjv: "Let seven men of his sons be delivered unto us, and we will hang them up unto the LORD in Gibeah of Saul, whom the LORD did choose. And the king said, I will give them."
+bsb: "let seven of his male descendants be delivered to us so that we may hang them before the LORD at Gibeah of Saul, the chosen of the LORD.” “I will give them to you,” said the king."
+hebrew: "יֻתַּן לָ֜נוּ שִׁבְעָ֤ה אֲנָשִׁים֙ מִבָּנָ֔יו וְהוֹקַֽעֲנוּם֙ לַֽיהוָ֔ה בְּגִבְעַ֥ת שָׁא֖וּל בְּחִ֣יר יְהוָ֑ה ס וַיֹּ֥אמֶר הַמֶּ֖לֶךְ אֲנִ֥י אֶתֵּֽן׃"
+pericope: "[[2Sam.21.1 David Avenges the Gibeonites|David Avenges the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H7651]]"
+- "[[H0582]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3363]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H1390H]]"
+- "[[H7586G]]"
+- "[[H0972]]"
+- "[[H9018]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **2 Samuel 21:6**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let seven men of his sons be delivered unto us, and we will hang them up unto the LORD in Gibeah of Saul, [whom] the LORD did choose. And the king said, I will give [them].
 <small><sub>**BSB:**</sub></small>
 let seven of his male descendants be delivered to us so that we may hang them before the LORD at Gibeah of Saul, the chosen of the LORD.” “I will give them to you,” said the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H5414G\|יֻתַּן]] [[H9005\|לָ֜]][[H9035\|נוּ]] [[H7651\|שִׁבְעָ֤ה]] [[H0582\|אֲנָשִׁים֙]] [[H9006\|מִ]][[H1121G\|בָּנָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H3363\|הוֹקַֽעֲנוּ]][[H9038\|ם֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9003\|בְּ]][[H1390H\|גִבְעַ֥ת]] [[H7586G\|שָׁא֖וּל]] [[H0972\|בְּחִ֣יר]] [[H3068G\|יְהוָ֑ה]] [[H9018\|ס]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0589\|אֲנִ֥י]] [[H5414G\|אֶתֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GIBEON|GIBEON]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.5|<< 2 Samuel 21:5]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.7|2 Samuel 21:7 >>]]</td></tr></table>
 
@@ -18,7 +77,7 @@ let seven of his male descendants be delivered to us so that we may hang them be
 | at Gibeah of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1390H\|גִבְעַ֥ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> giv.'At<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֖וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] chosen one of  |**<big>&#8207;[[H0972\|בְּחִ֣יר]]&#8207; </big>**| be.Chir<small><sup>[[HAamsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֑ה]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֥אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֖לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |

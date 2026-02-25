@@ -1,10 +1,60 @@
+---
+title: Romans 6:6
+type: Verse
+kjv: "Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin."
+bsb: "We know that our old self was crucified with Him so that the body of sin might be rendered powerless, that we should no longer be slaves to sin."
+greek: "τοῦτο γινώσκοντες ὅτι ὁ παλαιὸς ἡμῶν ἄνθρωπος συνεσταυρώθη, ἵνα καταργηθῇ τὸ σῶμα τῆς ἁμαρτίας τοῦ μηκέτι δουλεύειν ἡμᾶς τῇ ἁμαρτίᾳ."
+pericope: "[[Rom.6.1 Dead to Sin, Alive to God|Dead to Sin, Alive to God]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 6
+book/chapter: "[[Rom.6|Romans 6]]"
+chronological_order: 1092
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic CRUCIFIXION|CRUCIFIXION]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G3778]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G3820]]"
+- "[[G3165]]"
+- "[[G0444]]"
+- "[[G4957]]"
+- "[[G2443]]"
+- "[[G2673]]"
+- "[[G4983]]"
+- "[[G0266]]"
+- "[[G3371]]"
+- "[[G1398]]"
+texts:
+- NKO
+---
+
 **Romans 6:6**<big><big>[[Rom.6.1 Dead to Sin, Alive to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Knowing this, that our old man is crucified with [him], that the body of sin might be destroyed, that henceforth we should not serve sin.
 <small><sub>**BSB:**</sub></small>
 We know that our old self was crucified with Him so that the body of sin might be rendered powerless, that we should no longer be slaves to sin.
-<small><sub>**Literal:**</sub></small>
-this knowing that the old of us self was crucified with [Him], so that may be annulled the body <the> of sin [that] no longer being enslaved we <the> to sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.5|<< Romans 6:5]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.7|Romans 6:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1097\|γινώσκοντες]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G3820\|παλαιὸς]]  [[G3165\|ἡμῶν]]  [[G0444\|ἄνθρωπος]]  [[G4957\|συνεσταυρώθη,]]  [[G2443\|ἵνα]]  [[G2673\|καταργηθῇ]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τῆς]]  [[G0266\|ἁμαρτίας]]  [[G3588\|τοῦ]]  [[G3371\|μηκέτι]]  [[G1398\|δουλεύειν]]  [[G3165\|ἡμᾶς]]  [[G3588\|τῇ]]  [[G0266\|ἁμαρτίᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic CRUCIFIXION|CRUCIFIXION]] • [[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HOLINESS|HOLINESS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.6.5|<< Romans 6:5]]</td><td align="center" style="border:none;">[[Rom.6|Romans 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.6.7|Romans 6:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

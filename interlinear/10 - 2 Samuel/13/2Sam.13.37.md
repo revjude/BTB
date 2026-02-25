@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 13:37
+type: Verse
+kjv: "But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And David mourned for his son every day."
+bsb: "Now Absalom fled and went to Talmai son of Ammihud, the king of Geshur. But David mourned for his son every day."
+hebrew: "וְאַבְשָׁל֣וֹם בָּרַ֔ח וַיֵּ֛לֶךְ אֶל־ תַּלְמַ֥י בֶּן־ עַמִּיה֖וּד מֶ֣לֶךְ גְּשׁ֑וּר וַיִּתְאַבֵּ֥ל עַל־ בְּנ֖וֹ כָּל־ הַיָּמִֽים׃"
+pericope: "[[2Sam.13.34 Absalom Flees to Geshur|Absalom Flees to Geshur]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic AMMIHUD|AMMIHUD]]"
+- "[[topic FUGITIVES|FUGITIVES]]"
+- "[[topic TALMAI|TALMAI]]"
+strongs:
+- "[[H9002]]"
+- "[[H0053]]"
+- "[[H1272]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8526H]]"
+- "[[H1121A]]"
+- "[[H5991]]"
+- "[[H5989J]]"
+- "[[H4428G]]"
+- "[[H1650]]"
+- "[[H0056]]"
+- "[[H5921A]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117J]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 13:37**<big><big>[[2Sam.13.34 Absalom Flees to Geshur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Absalom fled, and went to Talmai, the son of Ammihud, king of Geshur. And [David] mourned for his son every day.
 <small><sub>**BSB:**</sub></small>
 Now Absalom fled and went to Talmai son of Ammihud, the king of Geshur. But David mourned for his son every day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0053\|אַבְשָׁל֣וֹם]] [[H1272\|בָּרַ֔ח]] [[H9001\|וַ]][[H1980G\|יֵּ֛לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H8526H\|תַּלְמַ֥י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5989J\|עַמִּיה֖וּד]] [[H4428G\|מֶ֣לֶךְ]] [[H1650\|גְּשׁ֑וּר]] [[H9001\|וַ]][[H0056\|יִּתְאַבֵּ֥ל]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117J\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic AMMIHUD|AMMIHUD]] • [[topic FUGITIVES|FUGITIVES]] • [[topic TALMAI|TALMAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.36|<< 2 Samuel 13:36]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.38|2 Samuel 13:38 >>]]</td></tr></table>
 

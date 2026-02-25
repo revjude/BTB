@@ -1,8 +1,56 @@
+---
+title: 2 Samuel 1:3
+type: Verse
+kjv: "And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped."
+bsb: "“Where have you come from?” David asked. “I have escaped from the Israelite camp,” he replied."
+hebrew: "וַיֹּ֤אמֶר לוֹ֙ דָּוִ֔ד אֵ֥י מִזֶּ֖ה תָּב֑וֹא וַיֹּ֣אמֶר אֵלָ֔יו מִמַּחֲנֵ֥ה יִשְׂרָאֵ֖ל נִמְלָֽטְתִּי׃"
+pericope: "[[2Sam.1.1 Saul’s Death Reported to David|Saul’s Death Reported to David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GESHUR|GESHUR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1732]]"
+- "[[H0335]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4264]]"
+- "[[H3478]]"
+- "[[H4422]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:3**<big><big>[[2Sam.1.1 Saul’s Death Reported to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto him, From whence comest thou? And he said unto him, Out of the camp of Israel am I escaped.
 <small><sub>**BSB:**</sub></small>
 “Where have you come from?” David asked. “I have escaped from the Israelite camp,” he replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H1732\|דָּוִ֔ד]] [[H0335\|אֵ֥י]] [[H9006\|מִ]][[H2088\|זֶּ֖ה]] [[H0935G\|תָּב֑וֹא]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9006\|מִ]][[H4264\|מַּחֲנֵ֥ה]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H4422\|נִמְלָֽטְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GESHUR|GESHUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.2|<< 2 Samuel 1:2]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.4|2 Samuel 1:4 >>]]</td></tr></table>
 

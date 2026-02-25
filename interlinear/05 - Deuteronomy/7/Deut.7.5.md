@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 7:5
+type: Verse
+kjv: "But thus shall ye deal with them; ye shall destroy their altars, and break down their images, and cut down their groves, and burn their graven images with fire."
+bsb: "Instead, this is what you are to do to them: tear down their altars, smash their sacred pillars, cut down their Asherah poles, and burn their idols in the fire."
+hebrew: "כִּֽי־ אִם־ כֹּ֤ה תַעֲשׂוּ֙ לָהֶ֔ם מִזְבְּחֹתֵיהֶ֣ם תִּתֹּ֔צוּ וּמַצֵּבֹתָ֖ם תְּשַׁבֵּ֑רוּ וַאֲשֵֽׁירֵהֶם֙ תְּגַדֵּע֔וּן וּפְסִילֵיהֶ֖ם תִּשְׂרְפ֥וּן בָּאֵֽשׁ׃"
+pericope: "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CARVING|CARVING]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0518B]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4196]]"
+- "[[H9028]]"
+- "[[H5422]]"
+- "[[H9002]]"
+- "[[H4676]]"
+- "[[H7665]]"
+- "[[H0842]]"
+- "[[H1438]]"
+- "[[H9013]]"
+- "[[H6456]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:5**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thus shall ye deal with them; ye shall destroy their altars, and break down their images, and cut down their groves, and burn their graven images with fire.
 <small><sub>**BSB:**</sub></small>
 Instead, this is what you are to do to them: tear down their altars, smash their sacred pillars, cut down their Asherah poles, and burn their idols in the fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0518B\|אִם]][[H9014\|־]] [[H3541\|כֹּ֤ה]] [[H6213A\|תַעֲשׂוּ֙]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H4196\|מִזְבְּחֹתֵי]][[H9028\|הֶ֣ם]] [[H5422\|תִּתֹּ֔צוּ]] [[H9002\|וּ]][[H4676\|מַצֵּבֹתָ֖]][[H9028\|ם]] [[H7665\|תְּשַׁבֵּ֑רוּ]] [[H9002\|וַ]][[H0842\|אֲשֵֽׁירֵ]][[H9028\|הֶם֙]] [[H1438\|תְּגַדֵּע֔וּ]][[H9013\|ן]] [[H9002\|וּ]][[H6456\|פְסִילֵי]][[H9028\|הֶ֖ם]] [[H8313\|תִּשְׂרְפ֥וּ]][[H9013\|ן]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARVING|CARVING]] • [[topic ICONOCLASM|ICONOCLASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.4|<< Deuteronomy 7:4]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.6|Deuteronomy 7:6 >>]]</td></tr></table>
 

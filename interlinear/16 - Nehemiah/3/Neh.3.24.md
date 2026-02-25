@@ -1,8 +1,60 @@
+---
+title: Nehemiah 3:24
+type: Verse
+kjv: "After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning of the wall, even unto the corner."
+bsb: "After him, Binnui son of Henadad repaired another section, from the house of Azariah to the angle and the corner,"
+hebrew: "אַחֲרָ֣יו הֶחֱזִ֗יק בִּנּ֛וּי בֶּן־ חֵנָדָ֖ד מִדָּ֣ה שֵׁנִ֑ית מִבֵּ֣ית עֲזַרְיָ֔ה עַד־ הַמִּקְצ֖וֹעַ וְעַד־ הַפִּנָּֽה׃"
+pericope: "[[Neh.3.1 The Builders of the Walls|The Builders of the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BINNUI|BINNUI]]"
+- "[[topic HENADAD|HENADAD]]"
+strongs:
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H2388G]]"
+- "[[H1131K]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2582I]]"
+- "[[H4060A]]"
+- "[[H8145]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H5838W]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H4740H]]"
+- "[[H9002]]"
+- "[[H6438H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 3:24**<big><big>[[Neh.3.1 The Builders of the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning [of the wall], even unto the corner.
 <small><sub>**BSB:**</sub></small>
 After him, Binnui son of Henadad repaired another section, from the house of Azariah to the angle and the corner,
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַחֲרָ֣י]][[H9033\|ו]] [[H2388G\|הֶחֱזִ֗יק]] [[H1131K\|בִּנּ֛וּי]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2582I\|חֵנָדָ֖ד]] [[H4060A\|מִדָּ֣ה]] [[H8145\|שֵׁנִ֑ית]] [[H9006\|מִ]][[H1004B\|בֵּ֣ית]] [[H5838W\|עֲזַרְיָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H4740H\|מִּקְצ֖וֹעַ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H6438H\|פִּנָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BINNUI|BINNUI]] • [[topic HENADAD|HENADAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.3.23|<< Nehemiah 3:23]]</td><td align="center" style="border:none;">[[Neh.3|Nehemiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.3.25|Nehemiah 3:25 >>]]</td></tr></table>
 

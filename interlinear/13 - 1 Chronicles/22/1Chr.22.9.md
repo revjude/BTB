@@ -1,8 +1,75 @@
+---
+title: 1 Chronicles 22:9
+type: Verse
+kjv: "Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days."
+bsb: "But a son will be born to you who will be a man of rest. I will give him rest from all his enemies on every side; for his name will be Solomon, and I will grant to Israel peace and quiet during his reign."
+hebrew: "הִנֵּה־ בֵ֞ן נוֹלָ֣ד לָ֗ךְ ה֤וּא יִהְיֶה֙ אִ֣ישׁ מְנוּחָ֔ה וַהֲנִח֥וֹתִי ל֛וֹ מִכָּל־ אוֹיְבָ֖יו מִסָּבִ֑יב כִּ֤י שְׁלֹמֹה֙ יִהְיֶ֣ה שְׁמ֔וֹ וְשָׁל֥וֹם וָשֶׁ֛קֶט אֶתֵּ֥ן עַל־ יִשְׂרָאֵ֖ל בְּיָמָֽיו׃"
+pericope: "[[1Chr.22.6 Solomon Anointed to Build the Temple|Solomon Anointed to Build the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H0376G]]"
+- "[[H4496H]]"
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H5439G]]"
+- "[[H3588A]]"
+- "[[H8010]]"
+- "[[H8034]]"
+- "[[H9002]]"
+- "[[H7965G]]"
+- "[[H8253]]"
+- "[[H5414G]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:9**<big><big>[[1Chr.22.6 Solomon Anointed to Build the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days.
 <small><sub>**BSB:**</sub></small>
 But a son will be born to you who will be a man of rest. I will give him rest from all his enemies on every side; for his name will be Solomon, and I will grant to Israel peace and quiet during his reign.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה]][[H9014\|־]] [[H1121A\|בֵ֞ן]] [[H3205\|נוֹלָ֣ד]] [[H9005\|לָ֗]][[H9031\|ךְ]] [[H1931\|ה֤וּא]] [[H1961\|יִהְיֶה֙]] [[H0376G\|אִ֣ישׁ]] [[H4496H\|מְנוּחָ֔ה]] [[H9001\|וַ]][[H5117\|הֲנִח֥וֹתִי]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0341\|אוֹיְבָ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H5439G\|סָּבִ֑יב]] [[H3588A\|כִּ֤י]] [[H8010\|שְׁלֹמֹה֙]] [[H1961\|יִהְיֶ֣ה]] [[H8034\|שְׁמ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H7965G\|שָׁל֥וֹם]] [[H9002\|וָ]][[H8253\|שֶׁ֛קֶט]] [[H5414G\|אֶתֵּ֥ן]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H3117G\|יָמָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DAVID|DAVID]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic NATION|NATION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.8|<< 1 Chronicles 22:8]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.10|1 Chronicles 22:10 >>]]</td></tr></table>
 

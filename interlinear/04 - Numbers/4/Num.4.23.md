@@ -1,8 +1,71 @@
+---
+title: Numbers 4:23
+type: Verse
+kjv: "From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation."
+bsb: "from thirty to fifty years old, counting everyone who comes to serve in the work at the Tent of Meeting."
+hebrew: "מִבֶּן֩ שְׁלֹשִׁ֨ים שָׁנָ֜ה וָמַ֗עְלָה עַ֛ד בֶּן־ חֲמִשִּׁ֥ים שָׁנָ֖ה תִּפְקֹ֣ד אוֹתָ֑ם כָּל־ הַבָּא֙ לִצְבֹ֣א צָבָ֔א לַעֲבֹ֥ד עֲבֹדָ֖ה בְּאֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Num.4.21 The Duties of the Gershonites|The Duties of the Gershonites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GERSHON|GERSHON]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H7970]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2572]]"
+- "[[H6485A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H6633]]"
+- "[[H6635I]]"
+- "[[H5647H]]"
+- "[[H5656H]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:23**<big><big>[[Num.4.21 The Duties of the Gershonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From thirty years old and upward until fifty years old shalt thou number them; all that enter in to perform the service, to do the work in the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
 from thirty to fifty years old, counting everyone who comes to serve in the work at the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H1121L\|בֶּן֩]] [[H7970\|שְׁלֹשִׁ֨ים]] [[H8141\|שָׁנָ֜ה]] [[H9002\|וָ]][[H4605\|מַ֗עְלָ]][[H9011\|ה]] [[H5704\|עַ֛ד]] [[H1121L\|בֶּן]][[H9014\|־]] [[H2572\|חֲמִשִּׁ֥ים]] [[H8141\|שָׁנָ֖ה]] [[H6485A\|תִּפְקֹ֣ד]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0935G\|בָּא֙]] [[H9005\|לִ]][[H6633\|צְבֹ֣א]] [[H6635I\|צָבָ֔א]] [[H9005\|לַ]][[H5647H\|עֲבֹ֥ד]] [[H5656H\|עֲבֹדָ֖ה]] [[H9003\|בְּ]][[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHON|GERSHON]] • [[topic LEVITES|LEVITES]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.22|<< Numbers 4:22]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.24|Numbers 4:24 >>]]</td></tr></table>
 

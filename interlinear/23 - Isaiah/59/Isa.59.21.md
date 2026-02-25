@@ -1,8 +1,76 @@
+---
+title: Isaiah 59:21
+type: Verse
+kjv: "As for me, this is my covenant with them, saith the LORD; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever."
+bsb: "“As for Me, this is My covenant with them,” says the LORD. “My Spirit will not depart from you, and My words that I have put in your mouth will not depart from your mouth or from the mouths of your children and grandchildren, from now on and forevermore,” says the LORD."
+hebrew: "וַאֲנִ֗י זֹ֣את בְּרִיתִ֤י אוֹתָם֙ אָמַ֣ר יְהוָ֔ה רוּחִי֙ אֲשֶׁ֣ר עָלֶ֔יךָ וּדְבָרַ֖י אֲשֶׁר־ שַׂ֣מְתִּי בְּפִ֑יךָ לֹֽא־ יָמ֡וּשׁוּ מִפִּיךָ֩ וּמִפִּ֨י זַרְעֲךָ֜ וּמִפִּ֨י זֶ֤רַע זַרְעֲךָ֙ אָמַ֣ר יְהוָ֔ה מֵעַתָּ֖ה וְעַד־ עוֹלָֽם׃ ס"
+pericope: "[[Isa.59.18 The Covenant of the Redeemer|The Covenant of the Redeemer]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2063]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H7307G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H4185]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H6258]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 59:21**<big><big>[[Isa.59.18 The Covenant of the Redeemer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for me, this [is] my covenant with them, saith the LORD; My spirit that [is] upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever.
 <small><sub>**BSB:**</sub></small>
 “As for Me, this is My covenant with them,” says the LORD. “My Spirit will not depart from you, and My words that I have put in your mouth will not depart from your mouth or from the mouths of your children and grandchildren, from now on and forevermore,” says the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֗י]] [[H2063\|זֹ֣את]] [[H1285\|בְּרִיתִ֤]][[H9020\|י]] [[H0854\|אוֹתָ]][[H9038\|ם֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H7307G\|רוּחִ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9002\|וּ]][[H1697G\|דְבָרַ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760H\|שַׂ֣מְתִּי]] [[H9003\|בְּ]][[H6310G\|פִ֑י]][[H9021\|ךָ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4185\|יָמ֡וּשׁוּ]] [[H9006\|מִ]][[H6310G\|פִּי]][[H9021\|ךָ֩]] [[H9002\|וּ]][[H9006\|מִ]][[H6310G\|פִּ֨י]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֜]] [[H9002\|וּ]][[H9006\|מִ]][[H6310G\|פִּ֨י]] [[H2233H\|זֶ֤רַע]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מֵ]][[H6258\|עַתָּ֖ה]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.20|<< Isaiah 59:20]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.1|Isaiah 60:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -37,7 +105,7 @@ As for me, this [is] my covenant with them, saith the LORD; My spirit that [is] 
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from now  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H6258\|עַתָּ֖ה]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'a.Tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and until  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.20|<< Isaiah 59:20]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.1|Isaiah 60:1 >>]]</td></tr></table>
 
 

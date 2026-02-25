@@ -1,8 +1,64 @@
+---
+title: Jeremiah 52:27
+type: Verse
+kjv: "And the king of Babylon smote them, and put them to death in Riblah in the land of Hamath. Thus Judah was carried away captive out of his own land."
+bsb: "There at Riblah in the land of Hamath, the king of Babylon struck them down and put them to death. So Judah was taken into exile, away from its own land."
+hebrew: "וַיַּכֶּ֣ה אוֹתָם֩ מֶ֨לֶךְ בָּבֶ֧ל וַיְמִתֵ֛ם בְּרִבְלָ֖ה בְּאֶ֣רֶץ חֲמָ֑ת וַיִּ֥גֶל יְהוּדָ֖ה מֵעַ֥ל אַדְמָתֽוֹ׃"
+pericope: "[[Jer.52.24 Captives Carried to Babylon|Captives Carried to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H7247H]]"
+- "[[H0776G]]"
+- "[[H2574G]]"
+- "[[H1540K]]"
+- "[[H3063G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:27**<big><big>[[Jer.52.24 Captives Carried to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Babylon smote them, and put them to death in Riblah in the land of Hamath. Thus Judah was carried away captive out of his own land.
 <small><sub>**BSB:**</sub></small>
 There at Riblah in the land of Hamath, the king of Babylon struck them down and put them to death. So Judah was taken into exile, away from its own land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכֶּ֣ה]] [[H0853\|אוֹתָ]][[H9038\|ם֩]] [[H4428G\|מֶ֨לֶךְ]] [[H0894\|בָּבֶ֧ל]] [[H9001\|וַ]][[H4191\|יְמִתֵ֛]][[H9038\|ם]] [[H9003\|בְּ]][[H7247H\|רִבְלָ֖ה]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H2574G\|חֲמָ֑ת]] [[H9001\|וַ]][[H1540K\|יִּ֥גֶל]] [[H3063G\|יְהוּדָ֖ה]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H0127G\|אַדְמָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic SERAIAH|SERAIAH]] • [[topic ZEDEKIAH|ZEDEKIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.26|<< Jeremiah 52:26]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.28|Jeremiah 52:28 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Numbers 30:11
+type: Verse
+kjv: "And her husband heard it, and held his peace at her, and disallowed her not: then all her vows shall stand, and every bond wherewith she bound her soul shall stand."
+bsb: "and her husband hears of it but says nothing to her and does not prohibit her, then all the vows or pledges by which she has bound herself shall stand."
+hebrew: "וְשָׁמַ֤ע אִישָׁהּ֙ וְהֶחֱרִ֣שׁ לָ֔הּ לֹ֥א הֵנִ֖יא אֹתָ֑הּ וְקָ֙מוּ֙ כָּל־ נְדָרֶ֔יהָ וְכָל־ אִסָּ֛ר אֲשֶׁר־ אָסְרָ֥ה עַל־ נַפְשָׁ֖הּ יָקֽוּם׃"
+pericope: "[[Num.30.1 Laws about Vows|Laws about Vows]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 30
+book/chapter: "[[Num.30|Numbers 30]]"
+chronological_order: 190
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic VOWS|VOWS]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H2790B]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H5106]]"
+- "[[H0853]]"
+- "[[H6965I]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5088]]"
+- "[[H9002]]"
+- "[[H0632]]"
+- "[[H0834A]]"
+- "[[H0631]]"
+- "[[H5921A]]"
+- "[[H5315I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 30:11**<big><big>[[Num.30.1 Laws about Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her husband heard [it], and held his peace at her, [and] disallowed her not: then all her vows shall stand, and every bond wherewith she bound her soul shall stand.
 <small><sub>**BSB:**</sub></small>
 and her husband hears of it but says nothing to her and does not prohibit her, then all the vows or pledges by which she has bound herself shall stand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8085G\|שָׁמַ֤ע]] [[H0376H\|אִישָׁ]][[H9024\|הּ֙]] [[H9001\|וְ]][[H2790B\|הֶחֱרִ֣שׁ]] [[H9005\|לָ֔]][[H9034\|הּ]] [[H3808\|לֹ֥א]] [[H5106\|הֵנִ֖יא]] [[H0853\|אֹתָ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H6965I\|קָ֙מוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5088\|נְדָרֶ֔י]][[H9024\|הָ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0632\|אִסָּ֛ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0631\|אָסְרָ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5315I\|נַפְשָׁ֖]][[H9024\|הּ]] [[H6965I\|יָקֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.30.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.30.10|<< Numbers 30:10]]</td><td align="center" style="border:none;">[[Num.30|Numbers 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.30.12|Numbers 30:12 >>]]</td></tr></table>
 

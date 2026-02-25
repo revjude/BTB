@@ -1,8 +1,57 @@
+---
+title: Psalm 89:25
+type: Verse
+kjv: "I will set his hand also in the sea, and his right hand in the rivers."
+bsb: "I will set his hand over the sea, and his right hand upon the rivers."
+hebrew: "וְשַׂמְתִּ֣י בַיָּ֣ם יָד֑וֹ וּֽבַנְּהָר֥וֹת יְמִינֽוֹ׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5104H]]"
+- "[[H3225G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:25**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will set his hand also in the sea, and his right hand in the rivers.
 <small><sub>**BSB:**</sub></small>
 I will set his hand over the sea, and his right hand upon the rivers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתִּ֣י]] [[H9003\|בַ]][[H3220G\|יָּ֣ם]] [[H3027G\|יָד֑]][[H9023\|וֹ]] [[H9002\|וּֽ]][[H9003\|בַ]][[H5104H\|נְּהָר֥וֹת]] [[H3225G\|יְמִינֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.24|<< Psalms 89:24]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.26|Psalms 89:26 >>]]</td></tr></table>
 

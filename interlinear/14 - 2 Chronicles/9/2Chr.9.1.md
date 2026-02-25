@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 9:1
+type: Verse
+kjv: "And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart."
+bsb: "Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. And she came to Solomon and spoke with him about all that was on her mind."
+hebrew: "וּמַֽלְכַּת־ שְׁבָ֗א שָֽׁמְעָה֮ אֶת־ שֵׁ֣מַע שְׁלֹמֹה֒ וַתָּב֣וֹא לְנַסּוֹת֩ אֶת־ שְׁלֹמֹ֨ה בְחִיד֜וֹת בִּירֽוּשָׁלִַ֗ם בְּחַ֣יִל כָּבֵ֣ד מְאֹ֡ד וּ֠גְמַלִּים נֹשְׂאִ֨ים בְּשָׂמִ֧ים וְזָהָ֛ב לָרֹ֖ב וְאֶ֣בֶן יְקָרָ֑ה וַתָּבוֹא֙ אֶל־ שְׁלֹמֹ֔ה וַתְּדַבֵּ֣ר עִמּ֔וֹ אֵ֛ת כָּל־ אֲשֶׁ֥ר הָיָ֖ה עִם־ לְבָבָֽהּ׃"
+pericope: "[[2Chr.9.1 The Queen of Sheba|The Queen of Sheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic SHEBA|SHEBA]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H4436G]]"
+- "[[H9014]]"
+- "[[H7614J]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H8088B]]"
+- "[[H8010]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H5254G]]"
+- "[[H9003]]"
+- "[[H2420]]"
+- "[[H3389]]"
+- "[[H2428H]]"
+- "[[H3515]]"
+- "[[H3966]]"
+- "[[H1581]]"
+- "[[H5375H]]"
+- "[[H1314]]"
+- "[[H2091]]"
+- "[[H7230]]"
+- "[[H0068G]]"
+- "[[H3368]]"
+- "[[H0413]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H3824]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:1**<big><big>[[2Chr.9.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
 <small><sub>**BSB:**</sub></small>
 Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. And she came to Solomon and spoke with him about all that was on her mind.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4436G\|מַֽלְכַּת]][[H9014\|־]] [[H7614J\|שְׁבָ֗א]] [[H8085G\|שָֽׁמְעָה֮]] [[H0853\|אֶת]][[H9014\|־]] [[H8088B\|שֵׁ֣מַע]] [[H8010\|שְׁלֹמֹה֒]] [[H9001\|וַ]][[H0935G\|תָּב֣וֹא]] [[H9005\|לְ]][[H5254G\|נַסּוֹת֩]] [[H0853\|אֶת]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֨ה]] [[H9003\|בְ]][[H2420\|חִיד֜וֹת]] [[H9003\|בִּ]][[H3389\|ירֽוּשָׁלִַ֗ם]] [[H9003\|בְּ]][[H2428H\|חַ֣יִל]] [[H3515\|כָּבֵ֣ד]] [[H3966\|מְאֹ֡ד]] [[H9002\|וּ֠]][[H1581\|גְמַלִּים]] [[H5375H\|נֹשְׂאִ֨ים]] [[H1314\|בְּשָׂמִ֧ים]] [[H9002\|וְ]][[H2091\|זָהָ֛ב]] [[H9005\|לָ]][[H7230\|רֹ֖ב]] [[H9002\|וְ]][[H0068G\|אֶ֣בֶן]] [[H3368\|יְקָרָ֑ה]] [[H9001\|וַ]][[H0935G\|תָּבוֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9001\|וַ]][[H1696G\|תְּדַבֵּ֣ר]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|הָיָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H3824\|לְבָבָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEBA|SHEBA]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.18|<< 2 Chronicles 8:18]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.2|2 Chronicles 9:2 >>]]</td></tr></table>
 

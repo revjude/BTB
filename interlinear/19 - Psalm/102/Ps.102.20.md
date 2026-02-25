@@ -1,8 +1,56 @@
+---
+title: Psalm 102:20
+type: Verse
+kjv: "To hear the groaning of the prisoner; to loose those that are appointed to death;"
+bsb: "to hear a prisoner’s groaning, to release those condemned to death,"
+hebrew: "לִ֭שְׁמֹעַ אֶנְקַ֣ת אָסִ֑יר לְ֝פַתֵּ֗חַ בְּנֵ֣י תְמוּתָֽה׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H0603]]"
+- "[[H0615]]"
+- "[[H6605A]]"
+- "[[H1121G]]"
+- "[[H8546]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:20**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To hear the groaning of the prisoner; to loose those that are appointed to death;
 <small><sub>**BSB:**</sub></small>
 to hear a prisoner’s groaning, to release those condemned to death,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ֭]][[H8085G\|שְׁמֹעַ]] [[H0603\|אֶנְקַ֣ת]] [[H0615\|אָסִ֑יר]] [[H9005\|לְ֝]][[H6605A\|פַתֵּ֗חַ]] [[H1121G\|בְּנֵ֣י]] [[H8546\|תְמוּתָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.19|<< Psalms 102:19]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.21|Psalms 102:21 >>]]</td></tr></table>
 

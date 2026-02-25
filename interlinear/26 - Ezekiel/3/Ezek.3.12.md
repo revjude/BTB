@@ -1,8 +1,62 @@
+---
+title: Ezekiel 3:12
+type: Verse
+kjv: "Then the spirit took me up, and I heard behind me a voice of a great rushing, saying, Blessed be the glory of the LORD from his place."
+bsb: "Then the Spirit lifted me up, and I heard a great rumbling sound behind me: “Blessed be the glory of the LORD in His dwelling place!”"
+hebrew: "וַתִּשָּׂאֵ֣נִי ר֔וּחַ וָאֶשְׁמַ֣ע אַחֲרַ֔י ק֖וֹל רַ֣עַשׁ גָּד֑וֹל בָּר֥וּךְ כְּבוֹד־ יְהוָ֖ה מִמְּקוֹמֽוֹ׃"
+pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H9030]]"
+- "[[H7307G]]"
+- "[[H8085G]]"
+- "[[H0310A]]"
+- "[[H6963A]]"
+- "[[H7494]]"
+- "[[H1419A]]"
+- "[[H1288]]"
+- "[[H3519]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:12**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the spirit took me up, and I heard behind me a voice of a great rushing, [saying], Blessed [be] the glory of the LORD from his place.
 <small><sub>**BSB:**</sub></small>
 Then the Spirit lifted me up, and I heard a great rumbling sound behind me: “Blessed be the glory of the LORD in His dwelling place!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375G\|תִּשָּׂאֵ֣]][[H9030\|נִי]] [[H7307G\|ר֔וּחַ]] [[H9001\|וָ]][[H8085G\|אֶשְׁמַ֣ע]] [[H0310A\|אַחֲרַ֔]][[H9030\|י]] [[H6963A\|ק֖וֹל]] [[H7494\|רַ֣עַשׁ]] [[H1419A\|גָּד֑וֹל]] [[H1288\|בָּר֥וּךְ]] [[H3519\|כְּבוֹד]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מִ]][[H4725\|מְּקוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.11|<< Ezekiel 3:11]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.13|Ezekiel 3:13 >>]]</td></tr></table>
 

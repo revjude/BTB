@@ -1,8 +1,51 @@
+---
+title: Job 41:26
+type: Verse
+kjv: "The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon."
+bsb: "The sword that reaches him has no effect, nor does the spear or dart or arrow."
+hebrew: "מַשִּׂיגֵ֣הוּ חֶ֭רֶב בְּלִ֣י תָק֑וּם חֲנִ֖ית מַסָּ֣ע וְשִׁרְיָֽה׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H5381]]"
+- "[[H9033]]"
+- "[[H2719]]"
+- "[[H1097]]"
+- "[[H6965I]]"
+- "[[H2595]]"
+- "[[H4551B]]"
+- "[[H9002]]"
+- "[[H8302A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:26**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sword of him that layeth at him cannot hold: the spear, the dart, nor the habergeon.
 <small><sub>**BSB:**</sub></small>
 The sword that reaches him has no effect, nor does the spear or dart or arrow.
+<small><sub>**Hebrew:**</sub></small>
+[[H5381\|מַשִּׂיגֵ֣]][[H9033\|הוּ]] [[H2719\|חֶ֭רֶב]] [[H1097\|בְּלִ֣י]] [[H6965I\|תָק֑וּם]] [[H2595\|חֲנִ֖ית]] [[H4551B\|מַסָּ֣ע]] [[H9002\|וְ]][[H8302A\|שִׁרְיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.25|<< Job 41:25]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.27|Job 41:27 >>]]</td></tr></table>
 

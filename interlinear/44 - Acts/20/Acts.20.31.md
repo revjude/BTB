@@ -1,10 +1,61 @@
+---
+title: Acts 20:31
+type: Verse
+kjv: "Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears."
+bsb: "Therefore be alert and remember that for three years I never stopped warning each of you night and day with tears."
+greek: "διὸ γρηγορεῖτε μνημονεύοντες ὅτι τριετίαν νύκτα καὶ ἡμέραν οὐκ ἐπαυσάμην μετὰ δακρύων νουθετῶν ἕνα ἕκαστον."
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ELDER|ELDER]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1352]]"
+- "[[G1127]]"
+- "[[G3421]]"
+- "[[G3754G]]"
+- "[[G5148]]"
+- "[[G3571]]"
+- "[[G2532]]"
+- "[[G2250]]"
+- "[[G3756]]"
+- "[[G3973]]"
+- "[[G3326]]"
+- "[[G1144]]"
+- "[[G3560]]"
+- "[[G1520]]"
+- "[[G1538]]"
+texts:
+- NKO
+---
+
 **Acts 20:31**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears.
 <small><sub>**BSB:**</sub></small>
 Therefore be alert and remember that for three years I never stopped warning each of you night and day with tears.
-<small><sub>**Literal:**</sub></small>
-Therefore do watch remembering that three years night and day not I ceased with tears admonishing one each.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.30|<< Acts 20:30]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.32|Acts 20:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G1127\|γρηγορεῖτε]]  [[G3421\|μνημονεύοντες]]  [[G3754G\|ὅτι]]  [[G5148\|τριετίαν]]  [[G3571\|νύκτα]]  [[G2532\|καὶ]]  [[G2250\|ἡμέραν]]  [[G3756\|οὐκ]]  [[G3973\|ἐπαυσάμην]]  [[G3326\|μετὰ]]  [[G1144\|δακρύων]]  [[G3560\|νουθετῶν]]  [[G1520\|ἕνα]]  [[G1538\|ἕκαστον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELDER|ELDER]] • [[topic EPHESUS|EPHESUS]] • [[topic LOVE|LOVE]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.30|<< Acts 20:30]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.32|Acts 20:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

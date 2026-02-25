@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 15:51
+type: Verse
+kjv: "Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,"
+bsb: "Listen, I tell you a mystery: We will not all sleep, but we will all be changed—"
+greek: "ἰδοὺ μυστήριον ὑμῖν λέγω· πάντες μὲν οὐ κοιμηθησόμεθα, πάντες δὲ ἀλλαγησόμεθα"
+pericope: "[[1Cor.15.50 Where, O Death, Is Your Victory？|Where, O Death, Is Your Victory？]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2400]]"
+- "[[G3466]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G3956]]"
+- "[[G3303]]"
+- "[[G3756]]"
+- "[[G2837]]"
+- "[[G1161]]"
+- "[[G0236]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 15:51**<big><big>[[1Cor.15.50 Where, O Death, Is Your Victory？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, I shew you a mystery; We shall not all sleep, but we shall all be changed,
 <small><sub>**BSB:**</sub></small>
 Listen, I tell you a mystery: We will not all sleep, but we will all be changed—
-<small><sub>**Literal:**</sub></small>
-Behold a mystery to you I tell; All indeed not we will sleep, all however we will be changed —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.50|<< 1 Corinthians 15:50]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.52|1 Corinthians 15:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G3466\|μυστήριον]]  [[G4771\|ὑμῖν]]  [[G3004G\|λέγω·]]  [[G3956\|πάντες]]  [[G3303\|μὲν]]  [[G3756\|οὐ]]  [[G2837\|κοιμηθησόμεθα,]]  [[G3956\|πάντες]]  [[G1161\|δὲ]]  [[G0236\|ἀλλαγησόμεθα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.50|<< 1 Corinthians 15:50]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.52|1 Corinthians 15:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

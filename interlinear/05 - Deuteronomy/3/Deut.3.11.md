@@ -1,8 +1,84 @@
+---
+title: Deuteronomy 3:11
+type: Verse
+kjv: "For only Og king of Bashan remained of the remnant of giants; behold, his bedstead was a bedstead of iron; is it not in Rabbath of the children of Ammon? nine cubits was the length thereof, and four cubits the breadth of it, after the cubit of a man."
+bsb: "(For only Og king of Bashan had remained of the remnant of the Rephaim. His bed of iron, nine cubits long and four cubits wide, is still in Rabbah of the Ammonites.)"
+hebrew: "כִּ֣י רַק־ ע֞וֹג מֶ֣לֶךְ הַבָּשָׁ֗ן נִשְׁאַר֮ מִיֶּ֣תֶר הָרְפָאִים֒ הִנֵּ֤ה עַרְשׂוֹ֙ עֶ֣רֶשׂ בַּרְזֶ֔ל הֲלֹ֣ה הִ֔וא בְּרַבַּ֖ת בְּנֵ֣י עַמּ֑וֹן תֵּ֧שַׁע אַמּ֣וֹת אָרְכָּ֗הּ וְאַרְבַּ֥ע אַמּ֛וֹת רָחְבָּ֖הּ בְּאַמַּת־ אִֽישׁ׃"
+pericope: "[[Deut.3.1 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic BED|BED]]"
+- "[[topic CUBIT|CUBIT]]"
+- "[[topic IRON|IRON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic RABBAH|RABBAH]]"
+- "[[topic REPHAIM|REPHAIM]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7535]]"
+- "[[H9014]]"
+- "[[H5747]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H1316]]"
+- "[[H7604]]"
+- "[[H9006]]"
+- "[[H3499A]]"
+- "[[H7497B]]"
+- "[[H2009]]"
+- "[[H6210]]"
+- "[[H9023]]"
+- "[[H1270]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H7237]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H8672]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H7341]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:11**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For only Og king of Bashan remained of the remnant of giants; behold, his bedstead [was] a bedstead of iron; [is] it not in Rabbath of the children of Ammon? nine cubits [was] the length thereof, and four cubits the breadth of it, after the cubit of a man.
 <small><sub>**BSB:**</sub></small>
 (For only Og king of Bashan had remained of the remnant of the Rephaim. His bed of iron, nine cubits long and four cubits wide, is still in Rabbah of the Ammonites.)
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H7535\|רַק]][[H9014\|־]] [[H5747\|ע֞וֹג]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H1316\|בָּשָׁ֗ן]] [[H7604\|נִשְׁאַר֮]] [[H9006\|מִ]][[H3499A\|יֶּ֣תֶר]] [[H9009\|הָ]][[H7497B\|רְפָאִים֒]] [[H2009\|הִנֵּ֤ה]] [[H6210\|עַרְשׂ]][[H9023\|וֹ֙]] [[H6210\|עֶ֣רֶשׂ]] [[H1270\|בַּרְזֶ֔ל]] [[H9008\|הֲ]][[H3808\|לֹ֣ה]] [[H1931\|הִ֔וא]] [[H9003\|בְּ]][[H7237\|רַבַּ֖ת]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֑וֹן]] [[H8672\|תֵּ֧שַׁע]] [[H0520A\|אַמּ֣וֹת]] [[H0753\|אָרְכָּ֗]][[H9024\|הּ]] [[H9002\|וְ]][[H0702\|אַרְבַּ֥ע]] [[H0520A\|אַמּ֛וֹת]] [[H7341\|רָחְבָּ֖]][[H9024\|הּ]] [[H9003\|בְּ]][[H0520A\|אַמַּת]][[H9014\|־]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic BED|BED]] • [[topic CUBIT|CUBIT]] • [[topic IRON|IRON]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic RABBAH|RABBAH]] • [[topic REPHAIM|REPHAIM]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.10|<< Deuteronomy 3:10]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.12|Deuteronomy 3:12 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Proverbs 10:29
+type: Verse
+kjv: "The way of the LORD is strength to the upright: but destruction shall be to the workers of iniquity."
+bsb: "The way of the LORD is a refuge to the upright, but destruction awaits those who do evil."
+hebrew: "מָע֣וֹז לַ֭תֹּם דֶּ֣רֶךְ יְהוָ֑ה וּ֝מְחִתָּ֗ה לְפֹ֣עֲלֵי אָֽוֶן׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4581]]"
+- "[[H9005]]"
+- "[[H8537]]"
+- "[[H1870G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H4288]]"
+- "[[H6466]]"
+- "[[H0205G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:29**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The way of the LORD [is] strength to the upright: but destruction [shall be] to the workers of iniquity.
 <small><sub>**BSB:**</sub></small>
 The way of the LORD is a refuge to the upright, but destruction awaits those who do evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H4581\|מָע֣וֹז]] [[H9005\|לַ֭]][[H8537\|תֹּם]] [[H1870G\|דֶּ֣רֶךְ]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּ֝]][[H4288\|מְחִתָּ֗ה]] [[H9005\|לְ]][[H6466\|פֹ֣עֲלֵי]] [[H0205G\|אָֽוֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.28|<< Proverbs 10:28]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.30|Proverbs 10:30 >>]]</td></tr></table>
 

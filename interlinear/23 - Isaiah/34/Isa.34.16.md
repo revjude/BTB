@@ -1,8 +1,66 @@
+---
+title: Isaiah 34:16
+type: Verse
+kjv: "Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them."
+bsb: "Search and read the scroll of the LORD: Not one of these will go missing, not one will lack her mate, because He has ordered it by His mouth, and He will gather them by His Spirit."
+hebrew: "דִּרְשׁ֨וּ מֵֽעַל־ סֵ֤פֶר יְהוָה֙ וּֽקְרָ֔אוּ אַחַ֤ת מֵהֵ֙נָּה֙ לֹ֣א נֶעְדָּ֔רָה אִשָּׁ֥ה רְעוּתָ֖הּ לֹ֣א פָקָ֑דוּ כִּֽי־ פִי֙ ה֣וּא צִוָּ֔ה וְרוּח֖וֹ ה֥וּא קִבְּצָֽן׃"
+pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H1875]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5612H]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H7121J]]"
+- "[[H0259]]"
+- "[[H9039]]"
+- "[[H3808]]"
+- "[[H5737C]]"
+- "[[H0802I]]"
+- "[[H7468]]"
+- "[[H9024]]"
+- "[[H6485K]]"
+- "[[H3588A]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H1931]]"
+- "[[H6680]]"
+- "[[H7307G]]"
+- "[[H9023]]"
+- "[[H6908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 34:16**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seek ye out of the book of the LORD, and read: no one of these shall fail, none shall want her mate: for my mouth it hath commanded, and his spirit it hath gathered them.
 <small><sub>**BSB:**</sub></small>
 Search and read the scroll of the LORD: Not one of these will go missing, not one will lack her mate, because He has ordered it by His mouth, and He will gather them by His Spirit.
+<small><sub>**Hebrew:**</sub></small>
+[[H1875\|דִּרְשׁ֨וּ]] [[H9006\|מֵֽ]][[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֤פֶר]] [[H3068G\|יְהוָה֙]] [[H9002\|וּֽ]][[H7121J\|קְרָ֔אוּ]] [[H0259\|אַחַ֤ת]] [[H9006\|מֵ]][[H9039\|הֵ֙נָּה֙]] [[H3808\|לֹ֣א]] [[H5737C\|נֶעְדָּ֔רָה]] [[H0802I\|אִשָּׁ֥ה]] [[H7468\|רְעוּתָ֖]][[H9024\|הּ]] [[H3808\|לֹ֣א]] [[H6485K\|פָקָ֑דוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6310G\|פִ]][[H9020\|י֙]] [[H1931\|ה֣וּא]] [[H6680\|צִוָּ֔ה]] [[H9002\|וְ]][[H7307G\|רוּח֖]][[H9023\|וֹ]] [[H1931\|ה֥וּא]] [[H6908\|קִבְּצָֽ]][[H9039\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.15|<< Isaiah 34:15]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.17|Isaiah 34:17 >>]]</td></tr></table>
 

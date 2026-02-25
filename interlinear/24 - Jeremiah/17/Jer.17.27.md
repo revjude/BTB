@@ -1,8 +1,73 @@
+---
+title: Jeremiah 17:27
+type: Verse
+kjv: "But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched."
+bsb: "But if you do not listen to Me to keep the Sabbath day holy by not carrying a load while entering the gates of Jerusalem on the Sabbath day, then I will kindle an unquenchable fire in its gates to consume the citadels of Jerusalem.’”"
+hebrew: "וְאִם־ לֹ֨א תִשְׁמְע֜וּ אֵלַ֗י לְקַדֵּשׁ֙ אֶת־ י֣וֹם הַשַּׁבָּ֔ת וּלְבִלְתִּ֣י׀ שְׂאֵ֣ת מַשָּׂ֗א וּבֹ֛א בְּשַׁעֲרֵ֥י יְרוּשָׁלִַ֖ם בְּי֣וֹם הַשַּׁבָּ֑ת וְהִצַּ֧תִּי אֵ֣שׁ בִּשְׁעָרֶ֗יהָ וְאָֽכְלָ֛ה אַרְמְנ֥וֹת יְרוּשָׁלִַ֖ם וְלֹ֥א תִכְבֶּֽה׃ פ"
+pericope: "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H1115]]"
+- "[[H9015]]"
+- "[[H5375H]]"
+- "[[H4853A]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H3341]]"
+- "[[H0784]]"
+- "[[H9024]]"
+- "[[H0398]]"
+- "[[H0759G]]"
+- "[[H3518]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 17:27**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched.
 <small><sub>**BSB:**</sub></small>
 But if you do not listen to Me to keep the Sabbath day holy by not carrying a load while entering the gates of Jerusalem on the Sabbath day, then I will kindle an unquenchable fire in its gates to consume the citadels of Jerusalem.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֨א]] [[H8085H\|תִשְׁמְע֜וּ]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H9005\|לְ]][[H6942G\|קַדֵּשׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֔ת]] [[H9002\|וּ]][[H9005\|לְ]][[H1115\|בִלְתִּ֣י]][[H9015\|׀]] [[H5375H\|שְׂאֵ֣ת]] [[H4853A\|מַשָּׂ֗א]] [[H9002\|וּ]][[H0935G\|בֹ֛א]] [[H9003\|בְּ]][[H8179G\|שַׁעֲרֵ֥י]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֑ת]] [[H9001\|וְ]][[H3341\|הִצַּ֧תִּי]] [[H0784\|אֵ֣שׁ]] [[H9003\|בִּ]][[H8179G\|שְׁעָרֶ֗י]][[H9024\|הָ]] [[H9001\|וְ]][[H0398\|אָֽכְלָ֛ה]] [[H0759G\|אַרְמְנ֥וֹת]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3518\|תִכְבֶּֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.26|<< Jeremiah 17:26]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.1|Jeremiah 18:1 >>]]</td></tr></table>
 
@@ -31,7 +96,7 @@ But if you do not listen to Me to keep the Sabbath day holy by not carrying a lo
 | [the] fortresses of  |**<big>&#8207;[[H0759G\|אַרְמְנ֥וֹת]]&#8207; </big>**| 'ar.me.Not<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֖ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be extinguished  |**<big>&#8207;[[H3518\|תִכְבֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tikh.Beh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be extinguished  |**<big>&#8207;[[H3518\|תִכְבֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tikh.Beh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.26|<< Jeremiah 17:26]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.1|Jeremiah 18:1 >>]]</td></tr></table>
 
 

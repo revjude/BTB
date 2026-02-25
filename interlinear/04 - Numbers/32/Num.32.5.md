@@ -1,8 +1,72 @@
+---
+title: Numbers 32:5
+type: Verse
+kjv: "Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, and bring us not over Jordan."
+bsb: "“If we have found favor in your sight,” they said, “let this land be given to your servants as a possession. Do not make us cross the Jordan.”"
+hebrew: "וַיֹּאמְר֗וּ אִם־ מָצָ֤אנוּ חֵן֙ בְּעֵינֶ֔יךָ יֻתַּ֞ן אֶת־ הָאָ֧רֶץ הַזֹּ֛את לַעֲבָדֶ֖יךָ לַאֲחֻזָּ֑ה אַל־ תַּעֲבִרֵ֖נוּ אֶת־ הַיַּרְדֵּֽן׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H0272]]"
+- "[[H0408]]"
+- "[[H5674A]]"
+- "[[H9035]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:5**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore, said they, if we have found grace in thy sight, let this land be given unto thy servants for a possession, [and] bring us not over Jordan.
 <small><sub>**BSB:**</sub></small>
 “If we have found favor in your sight,” they said, “let this land be given to your servants as a possession. Do not make us cross the Jordan.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H0518A\|אִם]][[H9014\|־]] [[H4672\|מָצָ֤אנוּ]] [[H2580\|חֵן֙]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֔י]][[H9021\|ךָ]] [[H5414G\|יֻתַּ֞ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֧רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֛את]] [[H9005\|לַ]][[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H9005\|לַ]][[H0272\|אֲחֻזָּ֑ה]] [[H0408\|אַל]][[H9014\|־]] [[H5674A\|תַּעֲבִרֵ֖]][[H9035\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PETITION|PETITION]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.4|<< Numbers 32:4]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.6|Numbers 32:6 >>]]</td></tr></table>
 

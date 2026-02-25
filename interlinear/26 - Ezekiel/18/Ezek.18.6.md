@@ -1,8 +1,73 @@
+---
+title: Ezekiel 18:6
+type: Verse
+kjv: "And hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, neither hath come near to a menstruous woman,"
+bsb: "He does not eat at the mountain or look to the idols of the house of Israel. He does not defile his neighbor’s wife or approach a woman during her period."
+hebrew: "אֶל־ הֶֽהָרִים֙ לֹ֣א אָכָ֔ל וְעֵינָיו֙ לֹ֣א נָשָׂ֔א אֶל־ גִּלּוּלֵ֖י בֵּ֣ית יִשְׂרָאֵ֑ל וְאֶת־ אֵ֤שֶׁת רֵעֵ֙הוּ֙ לֹ֣א טִמֵּ֔א וְאֶל־ אִשָּׁ֥ה נִדָּ֖ה לֹ֥א יִקְרָֽב׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MENSTRUATION|MENSTRUATION]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H5375M]]"
+- "[[H1544]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H0802H]]"
+- "[[H7453]]"
+- "[[H2930A]]"
+- "[[H0802G]]"
+- "[[H5079]]"
+- "[[H7126G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 18:6**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] hath not eaten upon the mountains, neither hath lifted up his eyes to the idols of the house of Israel, neither hath defiled his neighbour’s wife, neither hath come near to a menstruous woman,
 <small><sub>**BSB:**</sub></small>
 He does not eat at the mountain or look to the idols of the house of Israel. He does not defile his neighbor’s wife or approach a woman during her period.
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2022G\|הָרִים֙]] [[H3808\|לֹ֣א]] [[H0398\|אָכָ֔ל]] [[H9002\|וְ]][[H5869A\|עֵינָי]][[H9023\|ו֙]] [[H3808\|לֹ֣א]] [[H5375M\|נָשָׂ֔א]] [[H0413\|אֶל]][[H9014\|־]] [[H1544\|גִּלּוּלֵ֖י]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אֵ֤שֶׁת]] [[H7453\|רֵעֵ֙]][[H9023\|הוּ֙]] [[H3808\|לֹ֣א]] [[H2930A\|טִמֵּ֔א]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0802G\|אִשָּׁ֥ה]] [[H5079\|נִדָּ֖ה]] [[H3808\|לֹ֥א]] [[H7126G\|יִקְרָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHILDREN|CHILDREN]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MENSTRUATION|MENSTRUATION]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.5|<< Ezekiel 18:5]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.7|Ezekiel 18:7 >>]]</td></tr></table>
 

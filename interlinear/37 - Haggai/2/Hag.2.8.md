@@ -1,8 +1,52 @@
+---
+title: Haggai 2:8
+type: Verse
+kjv: "The silver is mine, and the gold is mine, saith the LORD of hosts."
+bsb: "The silver is Mine, and the gold is Mine, declares the LORD of Hosts."
+hebrew: "לִ֥י הַכֶּ֖סֶף וְלִ֣י הַזָּהָ֑ב נְאֻ֖ם יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Hag.2.1 The Coming Glory of God’s House|The Coming Glory of God’s House]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:8**<big><big>[[Hag.2.1 The Coming Glory of God’s House|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The silver [is] mine, and the gold [is] mine, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 The silver is Mine, and the gold is Mine, declares the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ֥]][[H9030\|י]] [[H9009\|הַ]][[H3701G\|כֶּ֖סֶף]] [[H9002\|וְ]][[H9005\|לִ֣]][[H9030\|י]] [[H9009\|הַ]][[H2091\|זָּהָ֑ב]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.7|<< Haggai 2:7]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.9|Haggai 2:9 >>]]</td></tr></table>
 

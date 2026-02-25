@@ -1,8 +1,55 @@
+---
+title: Proverbs 30:22
+type: Verse
+kjv: "For a servant when he reigneth; and a fool when he is filled with meat;"
+bsb: "a servant who becomes king, a fool who is filled with food,"
+hebrew: "תַּֽחַת־ עֶ֭בֶד כִּ֣י יִמְל֑וֹךְ וְ֝נָבָ֗ל כִּ֣י יִֽשְׂבַּֽע־ לָֽחֶם׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic RIDDLE|RIDDLE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H8478H]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H3588A]]"
+- "[[H4427A]]"
+- "[[H9002]]"
+- "[[H5036]]"
+- "[[H7646]]"
+- "[[H3899G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:22**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a servant when he reigneth; and a fool when he is filled with meat;
 <small><sub>**BSB:**</sub></small>
 a servant who becomes king, a fool who is filled with food,
+<small><sub>**Hebrew:**</sub></small>
+[[H8478H\|תַּֽחַת]][[H9014\|־]] [[H5650\|עֶ֭בֶד]] [[H3588A\|כִּ֣י]] [[H4427A\|יִמְל֑וֹךְ]] [[H9002\|וְ֝]][[H5036\|נָבָ֗ל]] [[H3588A\|כִּ֣י]] [[H7646\|יִֽשְׂבַּֽע]][[H9014\|־]] [[H3899G\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLUTTONY|GLUTTONY]] • [[topic RIDDLE|RIDDLE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.21|<< Proverbs 30:21]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.23|Proverbs 30:23 >>]]</td></tr></table>
 

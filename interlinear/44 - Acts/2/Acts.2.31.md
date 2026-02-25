@@ -1,10 +1,69 @@
+---
+title: Acts 2:31
+type: Verse
+kjv: "He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption."
+bsb: "Foreseeing this, David spoke about the resurrection of the Christ, that He was not abandoned to Hades, nor did His body see decay."
+greek: "προϊδὼν ἐλάλησεν περὶ τῆς ἀναστάσεως τοῦ Χριστοῦ ὅτι οὔτε ἐγκατελείφθη ἡ ψυχὴ αὐτοῦ εἰς ᾅδην οὔτε ἡ σὰρξ αὐτοῦ εἶδεν διαφθοράν."
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HADES|HADES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4308]]"
+- "[[G2980]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G0386]]"
+- "[[G5547]]"
+- "[[G3754G]]"
+- "[[G3777]]"
+- "[[G1459]]"
+- "[[G5590G]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G0086]]"
+- "[[G4561]]"
+- "[[G1492H]]"
+- "[[G1312]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Acts 2:31**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.
 <small><sub>**BSB:**</sub></small>
 Foreseeing this, David spoke about the resurrection of the Christ, that He was not abandoned to Hades, nor did His body see decay.
-<small><sub>**Literal:**</sub></small>
-Having foreseen he spoke concerning the resurrection of the Christ that neither was He left behind the soul of him into Hades nor the flesh of Him saw decay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.30|<< Acts 2:30]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.32|Acts 2:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4308\|προϊδὼν]]  [[G2980\|ἐλάλησεν]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G0386\|ἀναστάσεως]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G3754G\|ὅτι]]  [[G3777\|οὔτε]]  [[G1459\|ἐγκατελείφθη]]  [[G3588\|ἡ]]  [[G5590G\|ψυχὴ]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G0086\|ᾅδην]]  [[G3777\|οὔτε]]  [[G3588\|ἡ]]  [[G4561\|σὰρξ]]  [[G0846\|αὐτοῦ]]  [[G1492H\|εἶδεν]]  [[G1312\|διαφθοράν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORRUPTION|CORRUPTION]] • [[topic DAVID|DAVID]] • [[topic HADES|HADES]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PROPHECY|PROPHECY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RESURRECTION|RESURRECTION]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.30|<< Acts 2:30]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.32|Acts 2:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 2:31** is...
 > $\quad$ referencing: [[LXX.Ps.16.10|Ps 16:10]]

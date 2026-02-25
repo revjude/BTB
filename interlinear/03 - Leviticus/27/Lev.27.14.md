@@ -1,8 +1,71 @@
+---
+title: Leviticus 27:14
+type: Verse
+kjv: "And when a man shall sanctify his house to be holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand."
+bsb: "Now if a man consecrates his house as holy to the LORD, then the priest shall value it either as good or bad. The price will stand just as the priest values it."
+hebrew: "וְאִ֗ישׁ כִּֽי־ יַקְדִּ֨שׁ אֶת־ בֵּית֥וֹ קֹ֙דֶשׁ֙ לַֽיהוָ֔ה וְהֶעֱרִיכוֹ֙ הַכֹּהֵ֔ן בֵּ֥ין ט֖וֹב וּבֵ֣ין רָ֑ע כַּאֲשֶׁ֨ר יַעֲרִ֥יךְ אֹת֛וֹ הַכֹּהֵ֖ן כֵּ֥ן יָקֽוּם׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6942H]]"
+- "[[H0853]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H6944G]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H6186B]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0996G]]"
+- "[[H2896A]]"
+- "[[H7451A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3651C]]"
+- "[[H6965I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:14**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when a man shall sanctify his house [to be] holy unto the LORD, then the priest shall estimate it, whether it be good or bad: as the priest shall estimate it, so shall it stand.
 <small><sub>**BSB:**</sub></small>
 Now if a man consecrates his house as holy to the LORD, then the priest shall value it either as good or bad. The price will stand just as the priest values it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֗ישׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6942H\|יַקְדִּ֨שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּית֥]][[H9023\|וֹ]] [[H6944G\|קֹ֙דֶשׁ֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9001\|וְ]][[H6186B\|הֶעֱרִיכ]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H0996G\|בֵּ֥ין]] [[H2896A\|ט֖וֹב]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H7451A\|רָ֑ע]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H6186B\|יַעֲרִ֥יךְ]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H3651C\|כֵּ֥ן]] [[H6965I\|יָקֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.13|<< Leviticus 27:13]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.15|Leviticus 27:15 >>]]</td></tr></table>
 

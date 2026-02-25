@@ -1,10 +1,61 @@
+---
+title: Acts 7:30
+type: Verse
+kjv: "And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush."
+bsb: "After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai."
+greek: "καὶ πληρωθέντων ἐτῶν τεσσεράκοντα ὤφθη αὐτῷ ἐν τῇ ἐρήμῳ τοῦ ὄρους Σινᾶ ἄγγελος κυρίου ἐν φλογὶ πυρὸς βάτου."
+pericope: "[[Acts.7.30 The Call of Moses|The Call of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BURNING BUSH|BURNING BUSH]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[G2532]]"
+- "[[G4137]]"
+- "[[G2094]]"
+- "[[G5062]]"
+- "[[G3700]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2048]]"
+- "[[G3735]]"
+- "[[G4614]]"
+- "[[G0032G]]"
+- "[[G2962G]]"
+- "[[G5395]]"
+- "[[G4442]]"
+- "[[G0942]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 7:30**<big><big>[[Acts.7.30 The Call of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
 <small><sub>**BSB:**</sub></small>
 After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.
-<small><sub>**Literal:**</sub></small>
-And when were passing years forty appeared to him in the wilderness of the Mount Sinai an angel of [the] Lord in a flame of fire of a bush.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.29|<< Acts 7:29]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.31|Acts 7:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4137\|πληρωθέντων]]  [[G2094\|ἐτῶν]]  [[G5062\|τεσσεράκοντα]]  [[G3700\|ὤφθη]]  [[G0846\|αὐτῷ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ]]  [[G3588\|τοῦ]]  [[G3735\|ὄρους]]  [[G4614\|Σινᾶ]]  [[G0032G\|ἄγγελος]]  [[G2962G\|κυρίου]]  [[G1722\|ἐν]]  [[G5395\|φλογὶ]]  [[G4442\|πυρὸς]]  [[G0942\|βάτου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BURNING BUSH|BURNING BUSH]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SINAI|SINAI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.29|<< Acts 7:29]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.31|Acts 7:31 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:30** is...
 > $\quad$ referencing: [[LXX.Exod.3.2|Exod 3:2]]

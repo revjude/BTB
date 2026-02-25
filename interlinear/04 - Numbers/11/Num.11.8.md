@@ -1,8 +1,75 @@
+---
+title: Numbers 11:8
+type: Verse
+kjv: "And the people went about, and gathered it, and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil."
+bsb: "The people walked around and gathered it, ground it on a handmill or crushed it in a mortar, then boiled it in a cooking pot or shaped it into cakes. It tasted like pastry baked with fine oil."
+hebrew: "שָׁטוּ֩ הָעָ֨ם וְלָֽקְט֜וּ וְטָחֲנ֣וּ בָרֵחַ֗יִם א֤וֹ דָכוּ֙ בַּמְּדֹכָ֔ה וּבִשְּׁלוּ֙ בַּפָּר֔וּר וְעָשׂ֥וּ אֹת֖וֹ עֻג֑וֹת וְהָיָ֣ה טַעְמ֔וֹ כְּטַ֖עַם לְשַׁ֥ד הַשָּֽׁמֶן׃"
+pericope: "[[Num.11.1 The Complaints of the People|The Complaints of the People]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALMOND|ALMOND]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MILL|MILL]]"
+- "[[topic MORTAR|MORTAR]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H7751A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9001]]"
+- "[[H3950]]"
+- "[[H2912]]"
+- "[[H9003]]"
+- "[[H7347]]"
+- "[[H0176A]]"
+- "[[H1743]]"
+- "[[H4085]]"
+- "[[H1310]]"
+- "[[H6517]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5692]]"
+- "[[H1961]]"
+- "[[H2940]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H3955]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:8**<big><big>[[Num.11.1 The Complaints of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] the people went about, and gathered [it], and ground [it] in mills, or beat [it] in a mortar, and baked [it] in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
 <small><sub>**BSB:**</sub></small>
 The people walked around and gathered it, ground it on a handmill or crushed it in a mortar, then boiled it in a cooking pot or shaped it into cakes. It tasted like pastry baked with fine oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H7751A\|שָׁטוּ֩]] [[H9009\|הָ]][[H5971A\|עָ֨ם]] [[H9001\|וְ]][[H3950\|לָֽקְט֜וּ]] [[H9001\|וְ]][[H2912\|טָחֲנ֣וּ]] [[H9003\|בָ]][[H7347\|רֵחַ֗יִם]] [[H0176A\|א֤וֹ]] [[H1743\|דָכוּ֙]] [[H9003\|בַּ]][[H4085\|מְּדֹכָ֔ה]] [[H9001\|וּ]][[H1310\|בִשְּׁלוּ֙]] [[H9003\|בַּ]][[H6517\|פָּר֔וּר]] [[H9001\|וְ]][[H6213H\|עָשׂ֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H5692\|עֻג֑וֹת]] [[H9001\|וְ]][[H1961\|הָיָ֣ה]] [[H2940\|טַעְמ֔]][[H9023\|וֹ]] [[H9004\|כְּ]][[H2940\|טַ֖עַם]] [[H3955\|לְשַׁ֥ד]] [[H9009\|הַ]][[H8081\|שָּֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMOND|ALMOND]] • [[topic BLESSING|BLESSING]] • [[topic BREAD|BREAD]] • [[topic MANNA|MANNA]] • [[topic MILL|MILL]] • [[topic MORTAR|MORTAR]] • [[topic MURMURING|MURMURING]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.7|<< Numbers 11:7]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.9|Numbers 11:9 >>]]</td></tr></table>
 

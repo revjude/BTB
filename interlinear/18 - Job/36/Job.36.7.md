@@ -1,8 +1,60 @@
+---
+title: Job 36:7
+type: Verse
+kjv: "He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted."
+bsb: "He does not take His eyes off the righteous, but He enthrones them with kings and exalts them forever."
+hebrew: "לֹֽא־ יִגְרַ֥ע מִצַּדִּ֗יק עֵ֫ינָ֥יו וְאֶת־ מְלָכִ֥ים לַכִּסֵּ֑א וַיֹּשִׁיבֵ֥ם לָ֝נֶ֗צַח וַיִּגְבָּֽהוּ׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1639]]"
+- "[[H9006]]"
+- "[[H6662]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H3678G]]"
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9038]]"
+- "[[H5331]]"
+- "[[H1361]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:7**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He withdraweth not his eyes from the righteous: but with kings [are they] on the throne; yea, he doth establish them for ever, and they are exalted.
 <small><sub>**BSB:**</sub></small>
 He does not take His eyes off the righteous, but He enthrones them with kings and exalts them forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H1639\|יִגְרַ֥ע]] [[H9006\|מִ]][[H6662\|צַּדִּ֗יק]] [[H5869A\|עֵ֫ינָ֥י]][[H9023\|ו]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H4428G\|מְלָכִ֥ים]] [[H9005\|לַ]][[H3678G\|כִּסֵּ֑א]] [[H9001\|וַ]][[H3427\|יֹּשִׁיבֵ֥]][[H9038\|ם]] [[H9005\|לָ֝]][[H5331\|נֶ֗צַח]] [[H9001\|וַ]][[H1361\|יִּגְבָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.6|<< Job 36:6]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.8|Job 36:8 >>]]</td></tr></table>
 

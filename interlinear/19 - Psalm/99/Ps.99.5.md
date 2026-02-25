@@ -1,8 +1,60 @@
+---
+title: Psalm 99:5
+type: Verse
+kjv: "Exalt ye the LORD our God, and worship at his footstool; for he is holy."
+bsb: "Exalt the LORD our God, and worship at His footstool; He is holy!"
+hebrew: "רֽוֹמְמ֡וּ יְה֘וָ֤ה אֱלֹהֵ֗ינוּ וְֽ֭הִשְׁתַּחֲווּ לַהֲדֹ֥ם רַגְלָ֗יו קָד֥וֹשׁ הֽוּא׃"
+pericope: "[[Ps.99.1 The LORD Reigns!|The LORD Reigns!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 99
+book/chapter: "[[Ps.99|Psalm 99]]"
+chronological_order: 526
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic STOOL|STOOL]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H7311A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H1916]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H6918G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 99:5**<big><big>[[Ps.99.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Exalt ye the LORD our God, and worship at his footstool; [for] he [is] holy.
 <small><sub>**BSB:**</sub></small>
 Exalt the LORD our God, and worship at His footstool; He is holy!
+<small><sub>**Hebrew:**</sub></small>
+[[H7311A\|רֽוֹמְמ֡וּ]] [[H3068G\|יְה֘וָ֤ה]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H9002\|וְֽ֭]][[H7812\|הִשְׁתַּחֲווּ]] [[H9005\|לַ]][[H1916\|הֲדֹ֥ם]] [[H7272\|רַגְלָ֗י]][[H9023\|ו]] [[H6918G\|קָד֥וֹשׁ]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic STOOL|STOOL]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.99.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99.4|<< Psalms 99:4]]</td><td align="center" style="border:none;">[[Ps.99|Psalms 99]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.6|Psalms 99:6 >>]]</td></tr></table>
 

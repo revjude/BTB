@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 21:18
+type: Verse
+kjv: "And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which was of the sons of the giant."
+bsb: "Some time later at Gob, there was another battle with the Philistines. At that time Sibbecai the Hushathite killed Saph, a descendant of Rapha."
+hebrew: "וַֽיְהִי֙ אַֽחֲרֵי־ כֵ֔ן וַתְּהִי־ ע֧וֹד הַמִּלְחָמָ֛ה בְּג֖וֹב עִם־ פְּלִשְׁתִּ֑ים אָ֣ז הִכָּ֗ה סִבְּכַי֙ הַחֻ֣שָׁתִ֔י אֶת־ סַ֕ף אֲשֶׁ֖ר בִּילִדֵ֥י הָרָפָֽה׃ פ"
+pericope: "[[2Sam.21.15 Four Battles against the Philistines|Four Battles against the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GEZER|GEZER]]"
+- "[[topic GOLIATH|GOLIATH]]"
+- "[[topic SAPH|SAPH]]"
+- "[[topic SIBBECHAI|SIBBECHAI]]"
+- "[[topic SIPPAI|SIPPAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5750]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H1359]]"
+- "[[H5973A]]"
+- "[[H6430G]]"
+- "[[H0227A]]"
+- "[[H5221]]"
+- "[[H5444]]"
+- "[[H2843]]"
+- "[[H0853]]"
+- "[[H5593]]"
+- "[[H0834A]]"
+- "[[H3211]]"
+- "[[H7497A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Samuel 21:18**<big><big>[[2Sam.21.15 Four Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which [was] of the sons of the giant.
 <small><sub>**BSB:**</sub></small>
 Some time later at Gob, there was another battle with the Philistines. At that time Sibbecai the Hushathite killed Saph, a descendant of Rapha.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H0310A\|אַֽחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֔ן]] [[H9001\|וַ]][[H1961\|תְּהִי]][[H9014\|־]] [[H5750\|ע֧וֹד]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֛ה]] [[H9003\|בְּ]][[H1359\|ג֖וֹב]] [[H5973A\|עִם]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H0227A\|אָ֣ז]] [[H5221\|הִכָּ֗ה]] [[H5444\|סִבְּכַי֙]] [[H9009\|הַ]][[H2843\|חֻ֣שָׁתִ֔י]] [[H0853\|אֶת]][[H9014\|־]] [[H5593\|סַ֕ף]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בִּ]][[H3211\|ילִדֵ֥י]] [[H9009\|הָ]][[H7497A\|רָפָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DAVID|DAVID]] • [[topic GEZER|GEZER]] • [[topic GOLIATH|GOLIATH]] • [[topic SAPH|SAPH]] • [[topic SIBBECHAI|SIBBECHAI]] • [[topic SIPPAI|SIPPAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.17|<< 2 Samuel 21:17]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.19|2 Samuel 21:19 >>]]</td></tr></table>
 
@@ -25,7 +88,7 @@ Some time later at Gob, there was another battle with the Philistines. At that t
 | Saph  |**<big>&#8207;[[H5593\|סַ֕ף]]&#8207; </big>**| saf<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] among those born of  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3211\|ילִדֵ֥י]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> li.Dei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the Raphah  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7497A\|רָפָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Fah<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the Raphah  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7497A\|רָפָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.Fah<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.17|<< 2 Samuel 21:17]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.19|2 Samuel 21:19 >>]]</td></tr></table>
 
 

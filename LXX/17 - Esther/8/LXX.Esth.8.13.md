@@ -1,6 +1,58 @@
+---
+title: LXX Esther 8:13
+type: Verse
+lxx: "And the copies, let them be displayed clear to the eyes in all the kingdom, and for all the Jews to be prepared for this  day, for them to wage war against their opponents."
+greek: "τα δε αντίγραφα εκτιθέσθωσαν οφθαλμοφανώς εν πάση τη βασιλεία ετοίμους τε είναι πάντας τους Ιουδαίους εις ταύτην την ημέραν πολεμήσαι αυτών τους υπεναντίους"
+original_language: Greek
+testament: Old
+book: Esther
+chapter: 8
+book/chapter: "[[Esth.8|Esther 8]]"
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G6360]]"
+- "[[G1620]]"
+- "[[G8571]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2092]]"
+- "[[G5037]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G1519]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G4170]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G5227]]"
+---
+
 **LXX Esther 8:13** 
 <small><sub>**LXX:**</sub></small>
 And the copies, let them be displayed clear to the eyes in all the kingdom, and for all the Jews to be prepared for this  day, for them to wage war against their opponents. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τα]] [[G1161\|δε]] [[G6360\|αντίγραφα]] [[G1620\|εκτιθέσθωσαν]] [[G8571\|οφθαλμοφανώς]] [[G1722\|εν]] [[G3956\|πάση]] [[G3588\|τη]] [[G0932\|βασιλεία]] [[G2092\|ετοίμους]] [[G5037\|τε]] [[G1510\|είναι]] [[G3956\|πάντας]] [[G3588\|τους]] [[G2453\|Ιουδαίους]] [[G1519\|εις]] [[G3778\|ταύτην]] [[G3588\|την]] [[G2250\|ημέραν]] [[G4170\|πολεμήσαι]] [[G1473\|αυτών]] [[G3588\|τους]] [[G5227\|υπεναντίους]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROCLAMATION|PROCLAMATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Esth.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.12|<< Esther 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.14|Esther 8:14 >>]]</td></tr></table>
 
@@ -27,6 +79,6 @@ And the copies, let them be displayed clear to the eyes in all the kingdom, and 
 | for them to wage war against | **<big>[[G4170\|πολεμήσαι]]</big>** **<big>[[G1473\|αυτών]]</big>** |
 | their | **<big>[[G3588\|τους]]</big>** |
 | opponents. | **<big>[[G5227\|υπεναντίους]]</big>** |
-[[Esth.8.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.12|<< Esther 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.14|Esther 8:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Esth.8.12|<< Esther 8:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Esth.8.14|Esther 8:14 >>]]</td></tr></table>
 
 

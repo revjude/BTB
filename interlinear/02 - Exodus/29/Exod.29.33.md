@@ -1,8 +1,66 @@
+---
+title: Exodus 29:33
+type: Verse
+kjv: "And they shall eat those things wherewith the atonement was made, to consecrate and to sanctify them: but a stranger shall not eat thereof, because they are holy."
+bsb: "They must eat those things by which atonement was made for their ordination and consecration. But no outsider may eat them, because these things are sacred."
+hebrew: "וְאָכְל֤וּ אֹתָם֙ אֲשֶׁ֣ר כֻּפַּ֣ר בָּהֶ֔ם לְמַלֵּ֥א אֶת־ יָדָ֖ם לְקַדֵּ֣שׁ אֹתָ֑ם וְזָ֥ר לֹא־ יֹאכַ֖ל כִּי־ קֹ֥דֶשׁ הֵֽם׃"
+pericope: "[[Exod.29.31 Food for the Priests|Food for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0834A]]"
+- "[[H3722A]]"
+- "[[H9003]]"
+- "[[H9005]]"
+- "[[H4390]]"
+- "[[H9014]]"
+- "[[H3027R]]"
+- "[[H9028]]"
+- "[[H6942G]]"
+- "[[H9002]]"
+- "[[H2114A]]"
+- "[[H3808]]"
+- "[[H3588A]]"
+- "[[H6944G]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:33**<big><big>[[Exod.29.31 Food for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall eat those things wherewith the atonement was made, to consecrate [and] to sanctify them: but a stranger shall not eat [thereof], because they [are] holy.
 <small><sub>**BSB:**</sub></small>
 They must eat those things by which atonement was made for their ordination and consecration. But no outsider may eat them, because these things are sacred.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0398\|אָכְל֤וּ]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3722A\|כֻּפַּ֣ר]] [[H9003\|בָּ]][[H9038\|הֶ֔ם]] [[H9005\|לְ]][[H4390\|מַלֵּ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H3027R\|יָדָ֖]][[H9028\|ם]] [[H9005\|לְ]][[H6942G\|קַדֵּ֣שׁ]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H2114A\|זָ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H0398\|יֹאכַ֖ל]] [[H3588A\|כִּי]][[H9014\|־]] [[H6944G\|קֹ֥דֶשׁ]] [[H1992\|הֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.32|<< Exodus 29:32]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.34|Exodus 29:34 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Titus 2:10
+type: Verse
+kjv: "Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things."
+bsb: "not stealing from them, but showing all good faith, so that in every respect they will adorn the teaching about God our Savior."
+greek: "μὴ νοσφιζομένους ἀλλὰ πᾶσαν πίστιν ἐνδεικνυμένους ἀγαθήν, ἵνα τὴν διδασκαλίαν τὴν τοῦ σωτῆρος ἡμῶν θεοῦ κοσμῶσιν ἐν πᾶσιν.¶"
+pericope: "[[Titus.2.1 Teaching Sound Doctrine|Teaching Sound Doctrine]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 2
+book/chapter: "[[Titus.2|Titus 2]]"
+chronological_order: 1133
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G3361]]"
+- "[[G3557]]"
+- "[[G0235]]"
+- "[[G3956]]"
+- "[[G4102G]]"
+- "[[G1731]]"
+- "[[G0018]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G1319]]"
+- "[[G4990]]"
+- "[[G3165]]"
+- "[[G2316]]"
+- "[[G2885]]"
+- "[[G1722]]"
+texts:
+- NKO
+- no
+- NK(O)
+---
+
 **Titus 2:10**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
 <small><sub>**BSB:**</sub></small>
 not stealing from them, but showing all good faith, so that in every respect they will adorn the teaching about God our Savior.
-<small><sub>**Literal:**</sub></small>
-not pilfering but all fidelity showing good, so that the doctrine which [is] of the Savior of us God they may adorn in all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.9|<< Titus 2:9]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.11|Titus 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G3557\|νοσφιζομένους]]  [[G0235\|ἀλλὰ]]  [[G3956\|πᾶσαν]]  [[G4102G\|πίστιν]]  [[G1731\|ἐνδεικνυμένους]]  [[G0018\|ἀγαθήν,]]  [[G2443\|ἵνα]]  [[G3588\|τὴν]]  [[G1319\|διδασκαλίαν]]  [[G3588\|τὴν]]  [[G3588\|τοῦ]]  [[G4990\|σωτῆρος]]  [[G3165\|ἡμῶν]]  [[G2316\|θεοῦ]]  [[G2885\|κοσμῶσιν]]  [[G1722\|ἐν]]  [[G3956\|πᾶσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic SERVANT|SERVANT]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.9|<< Titus 2:9]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.11|Titus 2:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

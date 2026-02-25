@@ -1,8 +1,67 @@
+---
+title: Exodus 23:20
+type: Verse
+kjv: "Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared."
+bsb: "Behold, I am sending an angel before you to protect you along the way and to bring you to the place I have prepared."
+hebrew: "הִנֵּ֨ה אָנֹכִ֜י שֹׁלֵ֤חַ מַלְאָךְ֙ לְפָנֶ֔יךָ לִשְׁמָרְךָ֖ בַּדָּ֑רֶךְ וְלַהֲבִ֣יאֲךָ֔ אֶל־ הַמָּק֖וֹם אֲשֶׁ֥ר הֲכִנֹֽתִי׃"
+pericope: "[[Exod.23.20 God’s Angel to Lead|God’s Angel to Lead]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H7971G]]"
+- "[[H4397H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H8104H]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H9002]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H3559A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:20**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared.
 <small><sub>**BSB:**</sub></small>
 Behold, I am sending an angel before you to protect you along the way and to bring you to the place I have prepared.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֜י]] [[H7971G\|שֹׁלֵ֤חַ]] [[H4397H\|מַלְאָךְ֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H9005\|לִ]][[H8104H\|שְׁמָרְ]][[H9031\|ךָ֖]] [[H9003\|בַּ]][[H1870L\|דָּ֑רֶךְ]] [[H9002\|וְ]][[H9005\|לַ]][[H0935P\|הֲבִ֣יאֲ]][[H9031\|ךָ֔]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3559A\|הֲכִנֹֽתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.19|<< Exodus 23:19]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.21|Exodus 23:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

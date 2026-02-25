@@ -1,10 +1,51 @@
+---
+title: 1 Timothy 1:8
+type: Verse
+kjv: "But we know that the law is good, if a man use it lawfully;"
+bsb: "Now we know that the law is good, if one uses it legitimately."
+greek: "Οἴδαμεν δὲ ὅτι καλὸς ὁ νόμος ἐάν τις αὐτῷ νομίμως χρῆται,"
+pericope: "[[1Tim.1.3 Correcting False Teachers|Correcting False Teachers]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 1
+book/chapter: "[[1Tim.1|1 Timothy 1]]"
+chronological_order: 1126
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[G6063]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G2570G]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G3545]]"
+- "[[G5530]]"
+texts:
+- NKO
+---
+
 **1 Timothy 1:8**<big><big>[[1Tim.1.3 Correcting False Teachers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we know that the law [is] good, if a man use it lawfully;
 <small><sub>**BSB:**</sub></small>
 Now we know that the law is good, if one uses it legitimately.
-<small><sub>**Literal:**</sub></small>
-We know now that good [is] the law if one it lawfully shall use,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.7|<< 1 Timothy 1:7]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.9|1 Timothy 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|Οἴδαμεν]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G2570G\|καλὸς]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G0846\|αὐτῷ]]  [[G3545\|νομίμως]]  [[G5530\|χρῆται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.7|<< 1 Timothy 1:7]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.9|1 Timothy 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: Mark 14:15
+type: Verse
+kjv: "And he will shew you a large upper room furnished and prepared: there make ready for us."
+bsb: "And he will show you a large upper room, furnished and ready. Make preparations for us there.”"
+jesus_said: "And he will shew you a large upper room furnished and prepared: there make ready for us."
+greek: "καὶ αὐτὸς ὑμῖν δείξει ἀνάγαιον μέγα ἐστρωμένον ἕτοιμον· καὶ ἐκεῖ ἑτοιμάσατε ἡμῖν."
+pericope: "[[Mark.14.12 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G4771]]"
+- "[[G1166]]"
+- "[[G0508]]"
+- "[[G3173]]"
+- "[[G4766]]"
+- "[[G2092]]"
+- "[[G1563]]"
+- "[[G2090]]"
+- "[[G3165]]"
+texts:
+- NKO
+- no
+---
+
 **Mark 14:15**<big><big>[[Mark.14.12 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he will shew you a large upper room furnished [and] prepared: there make ready for us.
 <small><sub>**BSB:**</sub></small>
 And he will show you a large upper room, furnished and ready. Make preparations for us there.”
-<small><sub>**Literal:**</sub></small>
-And he himself you will show an upper room large furnished [and] ready; And there do prepare for us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.14|<< Mark 14:14]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.16|Mark 14:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G4771\|ὑμῖν]]  [[G1166\|δείξει]]  [[G0508\|ἀνάγαιον]]  [[G3173\|μέγα]]  [[G4766\|ἐστρωμένον]]  [[G2092\|ἕτοιμον·]]  [[G2532\|καὶ]]  [[G1563\|ἐκεῖ]]  [[G2090\|ἑτοιμάσατε]]  [[G3165\|ἡμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.14|<< Mark 14:14]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.16|Mark 14:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Song of Solomon 5:15
+type: Verse
+kjv: "His legs are as pillars of marble, set upon sockets of fine gold: his countenance is as Lebanon, excellent as the cedars."
+bsb: "His legs are pillars of marble set on bases of pure gold. His appearance is like Lebanon, as majestic as the cedars."
+hebrew: "שׁוֹקָיו֙ עַמּ֣וּדֵי שֵׁ֔שׁ מְיֻסָּדִ֖ים עַל־ אַדְנֵי־ פָ֑ז מַרְאֵ֙הוּ֙ כַּלְּבָנ֔וֹן בָּח֖וּר כָּאֲרָזִֽים׃"
+pericope: "[[Song.5.10 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 5
+book/chapter: "[[Song.5|Song of Solomon 5]]"
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic MARBLE|MARBLE]]"
+strongs:
+- "[[H7785]]"
+- "[[H9023]]"
+- "[[H5982G]]"
+- "[[H8336A]]"
+- "[[H3245]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0134]]"
+- "[[H6337]]"
+- "[[H4758]]"
+- "[[H9004]]"
+- "[[H3844G]]"
+- "[[H0977]]"
+- "[[H0730]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 5:15**<big><big>[[Song.5.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His legs [are as] pillars of marble, set upon sockets of fine gold: his countenance [is] as Lebanon, excellent as the cedars.
 <small><sub>**BSB:**</sub></small>
 His legs are pillars of marble set on bases of pure gold. His appearance is like Lebanon, as majestic as the cedars.
+<small><sub>**Hebrew:**</sub></small>
+[[H7785\|שׁוֹקָי]][[H9023\|ו֙]] [[H5982G\|עַמּ֣וּדֵי]] [[H8336A\|שֵׁ֔שׁ]] [[H3245\|מְיֻסָּדִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H0134\|אַדְנֵי]][[H9014\|־]] [[H6337\|פָ֑ז]] [[H4758\|מַרְאֵ֙]][[H9023\|הוּ֙]] [[H9004\|כַּ]][[H3844G\|לְּבָנ֔וֹן]] [[H0977\|בָּח֖וּר]] [[H9004\|כָּ]][[H0730\|אֲרָזִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARBLE|MARBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.14|<< Song of Solomon 5:14]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.16|Song of Solomon 5:16 >>]]</td></tr></table>
 

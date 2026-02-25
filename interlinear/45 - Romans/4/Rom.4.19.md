@@ -1,10 +1,63 @@
+---
+title: Romans 4:19
+type: Verse
+kjv: "And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara’s womb:"
+bsb: "Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb."
+greek: "καὶ μὴ ἀσθενήσας τῇ πίστει οὐ κατενόησεν τὸ ἑαυτοῦ σῶμα ἤδη νενεκρωμένον, ἑκατονταετής που ὑπάρχων, καὶ τὴν νέκρωσιν τῆς μήτρας Σάρρας,"
+pericope: "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G0770G]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G3756]]"
+- "[[G2657]]"
+- "[[G1438]]"
+- "[[G4983]]"
+- "[[G2235]]"
+- "[[G3499]]"
+- "[[G1541]]"
+- "[[G4225]]"
+- "[[G5225]]"
+- "[[G3500]]"
+- "[[G3388]]"
+- "[[G4564]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 4:19**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And being not weak in faith, he considered not his own body now dead, when he was about an hundred years old, neither yet the deadness of Sara’s womb:
 <small><sub>**BSB:**</sub></small>
 Without weakening in his faith, he acknowledged the decrepitness of his body (since he was about a hundred years old) and the lifelessness of Sarah’s womb.
-<small><sub>**Literal:**</sub></small>
-And not having become weak in the faith not he considered <the> his own body already expired, a hundred years old about being, and the lifelessness of the womb of Sarah,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.18|<< Romans 4:18]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.20|Romans 4:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G0770G\|ἀσθενήσας]]  [[G3588\|τῇ]]  [[G4102G\|πίστει]]  [[G3756\|οὐ]]  [[G2657\|κατενόησεν]]  [[G3588\|τὸ]]  [[G1438\|ἑαυτοῦ]]  [[G4983\|σῶμα]]  [[G2235\|ἤδη]]  [[G3499\|νενεκρωμένον,]]  [[G1541\|ἑκατονταετής]]  [[G4225\|που]]  [[G5225\|ὑπάρχων,]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3500\|νέκρωσιν]]  [[G3588\|τῆς]]  [[G3388\|μήτρας]]  [[G4564\|Σάρρας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.18|<< Romans 4:18]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.20|Romans 4:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

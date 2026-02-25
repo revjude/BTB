@@ -1,8 +1,58 @@
+---
+title: Esther 9:17
+type: Verse
+kjv: "On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness."
+bsb: "This was done on the thirteenth day of the month of Adar, and on the fourteenth day they rested, making it a day of feasting and joy."
+hebrew: "בְּיוֹם־ שְׁלֹשָׁ֥ה עָשָׂ֖ר לְחֹ֣דֶשׁ אֲדָ֑ר וְנ֗וֹחַ בְּאַרְבָּעָ֤ה עָשָׂר֙ בּ֔וֹ וְעָשֹׂ֣ה אֹת֔וֹ י֖וֹם מִשְׁתֶּ֥ה וְשִׂמְחָֽה׃"
+pericope: "[[Esth.9.11 Haman’s Sons Hanged|Haman’s Sons Hanged]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H0143]]"
+- "[[H9002]]"
+- "[[H5117]]"
+- "[[H0702]]"
+- "[[H9033]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H4960]]"
+- "[[H8057]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:17**<big><big>[[Esth.9.11 Haman’s Sons Hanged|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness.
 <small><sub>**BSB:**</sub></small>
 This was done on the thirteenth day of the month of Adar, and on the fourteenth day they rested, making it a day of feasting and joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3117G\|יוֹם]][[H9014\|־]] [[H7969\|שְׁלֹשָׁ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H9005\|לְ]][[H2320G\|חֹ֣דֶשׁ]] [[H0143\|אֲדָ֑ר]] [[H9002\|וְ]][[H5117\|נ֗וֹחַ]] [[H9003\|בְּ]][[H0702\|אַרְבָּעָ֤ה]] [[H6240\|עָשָׂר֙]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H6213H\|עָשֹׂ֣ה]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H3117G\|י֖וֹם]] [[H4960\|מִשְׁתֶּ֥ה]] [[H9002\|וְ]][[H8057\|שִׂמְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.16|<< Esther 9:16]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.18|Esther 9:18 >>]]</td></tr></table>
 

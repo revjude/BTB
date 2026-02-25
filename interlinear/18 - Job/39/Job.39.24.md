@@ -1,8 +1,56 @@
+---
+title: Job 39:24
+type: Verse
+kjv: "He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet."
+bsb: "Trembling with excitement, he devours the distance; he cannot stand still when the ram’s horn sounds."
+hebrew: "בְּרַ֣עַשׁ וְ֭רֹגֶז יְגַמֶּא־ אָ֑רֶץ וְלֹֽא־ יַ֝אֲמִ֗ין כִּי־ ק֥וֹל שׁוֹפָֽר׃"
+pericope: "[[Job.39.1 The LORD Speaks of His Creation|The LORD Speaks of His Creation]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 39
+book/chapter: "[[Job.39|Job 39]]"
+chronological_order: 50
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9003]]"
+- "[[H7494]]"
+- "[[H9002]]"
+- "[[H7267]]"
+- "[[H1572]]"
+- "[[H9014]]"
+- "[[H0776H]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H3588A]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 39:24**<big><big>[[Job.39.1 The LORD Speaks of His Creation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He swalloweth the ground with fierceness and rage: neither believeth he that [it is] the sound of the trumpet.
 <small><sub>**BSB:**</sub></small>
 Trembling with excitement, he devours the distance; he cannot stand still when the ram’s horn sounds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7494\|רַ֣עַשׁ]] [[H9002\|וְ֭]][[H7267\|רֹגֶז]] [[H1572\|יְגַמֶּא]][[H9014\|־]] [[H0776H\|אָ֑רֶץ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0539\|יַ֝אֲמִ֗ין]] [[H3588A\|כִּי]][[H9014\|־]] [[H6963H\|ק֥וֹל]] [[H7782\|שׁוֹפָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HORSE|HORSE]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.39.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.39.23|<< Job 39:23]]</td><td align="center" style="border:none;">[[Job.39|Job 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.25|Job 39:25 >>]]</td></tr></table>
 

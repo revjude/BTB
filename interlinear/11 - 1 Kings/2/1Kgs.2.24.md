@@ -1,8 +1,77 @@
+---
+title: 1 Kings 2:24
+type: Verse
+kjv: "Now therefore, as the LORD liveth, which hath established me, and set me on the throne of David my father, and who hath made me an house, as he promised, Adonijah shall be put to death this day."
+bsb: "And now, as surely as the LORD lives—the One who established me, who set me on the throne of my father David, and who founded for me a dynasty as He promised—surely Adonijah shall be put to death today!”"
+hebrew: "וְעַתָּ֗ה חַי־ יְהוָה֙ אֲשֶׁ֣ר הֱכִינַ֗נִי וַיּֽוֹשִׁיבַ֙נִי֙ עַל־ כִּסֵּא֙ דָּוִ֣ד אָבִ֔י וַאֲשֶׁ֧ר עָֽשָׂה־ לִ֛י בַּ֖יִת כַּאֲשֶׁ֣ר דִּבֵּ֑ר כִּ֣י הַיּ֔וֹם יוּמַ֖ת אֲדֹנִיָּֽהוּ׃"
+pericope: "[[1Kgs.2.13 The Execution of Adonijah|The Execution of Adonijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABISHAG|ABISHAG]]"
+- "[[topic ADONIJAH|ADONIJAH]]"
+- "[[topic FRATRICIDE|FRATRICIDE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3559H]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H4191]]"
+- "[[H0138G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Kings 2:24**<big><big>[[1Kgs.2.13 The Execution of Adonijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, [as] the LORD liveth, which hath established me, and set me on the throne of David my father, and who hath made me an house, as he promised, Adonijah shall be put to death this day.
 <small><sub>**BSB:**</sub></small>
 And now, as surely as the LORD lives—the One who established me, who set me on the throne of my father David, and who founded for me a dynasty as He promised—surely Adonijah shall be put to death today!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3559H\|הֱכִינַ֗]][[H9030\|נִי]] [[H9001\|וַ]][[H3427\|יּֽוֹשִׁיבַ֙]][[H9030\|נִי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּא֙]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֧ר]] [[H6213H\|עָֽשָׂה]][[H9014\|־]] [[H9005\|לִ֛]][[H9030\|י]] [[H1004B\|בַּ֖יִת]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H1696I\|דִּבֵּ֑ר]] [[H3588A\|כִּ֣י]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H4191\|יוּמַ֖ת]] [[H0138G\|אֲדֹנִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAG|ABISHAG]] • [[topic ADONIJAH|ADONIJAH]] • [[topic FRATRICIDE|FRATRICIDE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.23|<< 1 Kings 2:23]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.25|1 Kings 2:25 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Genesis 37:33
+type: Verse
+kjv: "And he knew it, and said, It is my son’s coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces."
+bsb: "His father recognized it and said, “It is my son’s robe! A vicious animal has devoured him. Joseph has surely been torn to pieces!”"
+hebrew: "וַיַּכִּירָ֤הּ וַיֹּ֙אמֶר֙ כְּתֹ֣נֶת בְּנִ֔י חַיָּ֥ה רָעָ֖ה אֲכָלָ֑תְהוּ טָרֹ֥ף טֹרַ֖ף יוֹסֵֽף׃"
+pericope: "[[Gen.37.31 Jacob Mourns Joseph|Jacob Mourns Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5234A]]"
+- "[[H9034]]"
+- "[[H0559]]"
+- "[[H3801]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H2416C]]"
+- "[[H7451A]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H2963]]"
+- "[[H3130G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:33**<big><big>[[Gen.37.31 Jacob Mourns Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he knew it, and said, [It is] my son’s coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces.
 <small><sub>**BSB:**</sub></small>
 His father recognized it and said, “It is my son’s robe! A vicious animal has devoured him. Joseph has surely been torn to pieces!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5234A\|יַּכִּירָ֤]][[H9034\|הּ]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3801\|כְּתֹ֣נֶת]] [[H1121A\|בְּנִ֔]][[H9020\|י]] [[H2416C\|חַיָּ֥ה]] [[H7451A\|רָעָ֖ה]] [[H0398\|אֲכָלָ֑תְ]][[H9033\|הוּ]] [[H2963\|טָרֹ֥ף]] [[H2963\|טֹרַ֖ף]] [[H3130G\|יוֹסֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.32|<< Genesis 37:32]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.34|Genesis 37:34 >>]]</td></tr></table>
 

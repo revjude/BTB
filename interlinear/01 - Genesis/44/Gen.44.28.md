@@ -1,8 +1,63 @@
+---
+title: Genesis 44:28
+type: Verse
+kjv: "And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:"
+bsb: "When one of them was gone, I said: “Surely he has been torn to pieces.” And I have not seen him since."
+hebrew: "וַיֵּצֵ֤א הָֽאֶחָד֙ מֵֽאִתִּ֔י וָאֹמַ֕ר אַ֖ךְ טָרֹ֣ף טֹרָ֑ף וְלֹ֥א רְאִיתִ֖יו עַד־ הֵֽנָּה׃"
+pericope: "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H0389]]"
+- "[[H2963]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2008]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:28**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:
 <small><sub>**BSB:**</sub></small>
 When one of them was gone, I said: “Surely he has been torn to pieces.” And I have not seen him since.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֤א]] [[H9009\|הָֽ]][[H0259\|אֶחָד֙]] [[H9006\|מֵֽ]][[H0854\|אִתִּ֔]][[H9030\|י]] [[H9001\|וָ]][[H0559\|אֹמַ֕ר]] [[H0389\|אַ֖ךְ]] [[H2963\|טָרֹ֣ף]] [[H2963\|טֹרָ֑ף]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7200G\|רְאִיתִ֖י]][[H9033\|ו]] [[H5704\|עַד]][[H9014\|־]] [[H2008\|הֵֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JUDAH|JUDAH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.27|<< Genesis 44:27]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.29|Genesis 44:29 >>]]</td></tr></table>
 

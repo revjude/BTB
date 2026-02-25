@@ -1,8 +1,60 @@
+---
+title: Jeremiah 17:23
+type: Verse
+kjv: "But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction."
+bsb: "Yet they would not listen or incline their ear, but they stiffened their necks and would not listen or receive My discipline."
+hebrew: "וְלֹ֣א שָֽׁמְע֔וּ וְלֹ֥א הִטּ֖וּ אֶת־ אָזְנָ֑ם וַיַּקְשׁוּ֙ אֶת־ עָרְפָּ֔ם לְבִלְתִּ֣י שְׁמ֔וֹעַ וּלְבִלְתִּ֖י קַ֥חַת מוּסָֽר׃"
+pericope: "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H5186]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0241G]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H7185]]"
+- "[[H6203]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H3947H]]"
+- "[[H4148H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 17:23**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction.
 <small><sub>**BSB:**</sub></small>
 Yet they would not listen or incline their ear, but they stiffened their necks and would not listen or receive My discipline.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8085G\|שָֽׁמְע֔וּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5186\|הִטּ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0241G\|אָזְנָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H7185\|יַּקְשׁוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6203\|עָרְפָּ֔]][[H9028\|ם]] [[H9005\|לְ]][[H1115\|בִלְתִּ֣י]] [[H8085G\|שְׁמ֔וֹעַ]] [[H9002\|וּ]][[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H3947H\|קַ֥חַת]] [[H4148H\|מוּסָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.22|<< Jeremiah 17:22]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.24|Jeremiah 17:24 >>]]</td></tr></table>
 

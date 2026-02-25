@@ -1,8 +1,53 @@
+---
+title: Psalm 114:1
+type: Verse
+kjv: "When Israel went out of Egypt, the house of Jacob from a people of strange language;"
+bsb: "When Israel departed from Egypt, the house of Jacob from a people of foreign tongue,"
+hebrew: "בְּצֵ֣את יִ֭שְׂרָאֵל מִמִּצְרָ֑יִם בֵּ֥ית יַ֝עֲקֹ֗ב מֵעַ֥ם לֹעֵֽז׃"
+pericope: "[[Ps.114.1 A Psalm of Exodus|A Psalm of Exodus]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 114
+book/chapter: "[[Ps.114|Psalm 114]]"
+chronological_order: 876
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic LANGUAGE|LANGUAGE]]"
+strongs:
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H5971A]]"
+- "[[H3937]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 114:1**<big><big>[[Ps.114.1 A Psalm of Exodus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Israel went out of Egypt, the house of Jacob from a people of strange language;
 <small><sub>**BSB:**</sub></small>
 When Israel departed from Egypt, the house of Jacob from a people of foreign tongue,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3318G\|צֵ֣את]] [[H3478\|יִ֭שְׂרָאֵל]] [[H9006\|מִ]][[H4714G\|מִּצְרָ֑יִם]] [[H1004M\|בֵּ֥ית]] [[H3290\|יַ֝עֲקֹ֗ב]] [[H9006\|מֵ]][[H5971A\|עַ֥ם]] [[H3937\|לֹעֵֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LANGUAGE|LANGUAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.114.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.113.9|<< Psalms 113:9]]</td><td align="center" style="border:none;">[[Ps.114|Psalms 114]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.114.2|Psalms 114:2 >>]]</td></tr></table>
 

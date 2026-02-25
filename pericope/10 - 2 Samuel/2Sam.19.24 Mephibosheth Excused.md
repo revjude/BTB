@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mephibosheth Excused
+type: Pericope
 pericope: "[[2Sam.19.24 Mephibosheth Excused|Mephibosheth Excused]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 19
 book/chapter: "[[2Sam.19|2 Samuel 19]]"
-genre:
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 7
 verses:
 - "[[2Sam.19.24]]"
 - "[[2Sam.19.25]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Sam.19.30]]"
 ---
 
-[[2Sam.19|2 Samuel 19:24 - 2 Samuel 19:30]]
+<small>[[2Sam.19|2 Samuel 19:24-30]]</small>
 *Mephibosheth Excused*
 
 [[2Sam.19.24|24]] And Mephibosheth the son of Saul came down to meet the king, and had neither dressed his feet, nor trimmed his beard, nor washed his clothes, from the day the king departed until the day he came \[again\] in peace.

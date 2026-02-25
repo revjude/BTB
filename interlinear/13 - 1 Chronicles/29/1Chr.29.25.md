@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 29:25
+type: Verse
+kjv: "And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel."
+bsb: "The LORD highly exalted Solomon in the sight of all Israel and bestowed on him royal majesty such as had not been bestowed on any king in Israel before him."
+hebrew: "וַיְגַדֵּ֨ל יְהוָ֤ה אֶת־ שְׁלֹמֹה֙ לְמַ֔עְלָה לְעֵינֵ֖י כָּל־ יִשְׂרָאֵ֑ל וַיִּתֵּ֤ן עָלָיו֙ ה֣וֹד מַלְכ֔וּת אֲ֠שֶׁר לֹֽא־ הָיָ֧ה עַל־ כָּל־ מֶ֛לֶךְ לְפָנָ֖יו עַל־ יִשְׂרָאֵֽל׃ פ"
+pericope: "[[1Chr.29.21 Solomon Anointed King|Solomon Anointed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H5869H]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H5414G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1935]]"
+- "[[H4438]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H4428G]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:25**<big><big>[[1Chr.29.21 Solomon Anointed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him [such] royal majesty as had not been on any king before him in Israel.
 <small><sub>**BSB:**</sub></small>
 The LORD highly exalted Solomon in the sight of all Israel and bestowed on him royal majesty such as had not been bestowed on any king in Israel before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1431\|יְגַדֵּ֨ל]] [[H3068G\|יְהוָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H8010\|שְׁלֹמֹה֙]] [[H9005\|לְ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֤ן]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H1935\|ה֣וֹד]] [[H4438\|מַלְכ֔וּת]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיָ֧ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4428G\|מֶ֛לֶךְ]] [[H9005\|לְ]][[H6440G\|פָנָ֖י]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.24|<< 1 Chronicles 29:24]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.26|1 Chronicles 29:26 >>]]</td></tr></table>
 
@@ -28,7 +87,7 @@ The LORD highly exalted Solomon in the sight of all Israel and bestowed on him r
 | king  |**<big>&#8207;[[H4428G\|מֶ֛לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H6440G\|פָנָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> fa.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | over  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.24|<< 1 Chronicles 29:24]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.26|1 Chronicles 29:26 >>]]</td></tr></table>
 
 

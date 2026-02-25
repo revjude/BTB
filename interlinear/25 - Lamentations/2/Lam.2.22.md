@@ -1,8 +1,68 @@
+---
+title: Lamentations 2:22
+type: Verse
+kjv: "Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD’S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed."
+bsb: "You summoned my terrors on every side, as for the day of an appointed feast. In the day of the LORD’s anger no one escaped or survived; my enemy has destroyed those I nurtured and reared."
+hebrew: "תִּקְרָא֩ כְי֨וֹם מוֹעֵ֤ד מְגוּרַי֙ מִסָּבִ֔יב וְלֹ֥א הָיָ֛ה בְּי֥וֹם אַף־ יְהוָ֖ה פָּלִ֣יט וְשָׂרִ֑יד אֲשֶׁר־ טִפַּ֥חְתִּי וְרִבִּ֖יתִי אֹיְבִ֥י כִלָּֽם׃ פ"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic DAY|DAY]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SWADDLE|SWADDLE]]"
+strongs:
+- "[[H7121G]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H4150H]]"
+- "[[H4032]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6412A]]"
+- "[[H8300]]"
+- "[[H0834A]]"
+- "[[H2946]]"
+- "[[H7235A]]"
+- "[[H0341]]"
+- "[[H3615H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Lamentations 2:22**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast called as in a solemn day my terrors round about, so that in the day of the LORD’S anger none escaped nor remained: those that I have swaddled and brought up hath mine enemy consumed.
 <small><sub>**BSB:**</sub></small>
 You summoned my terrors on every side, as for the day of an appointed feast. In the day of the LORD’s anger no one escaped or survived; my enemy has destroyed those I nurtured and reared.
+<small><sub>**Hebrew:**</sub></small>
+[[H7121G\|תִּקְרָא֩]] [[H9004\|כְ]][[H3117G\|י֨וֹם]] [[H4150H\|מוֹעֵ֤ד]] [[H4032\|מְגוּרַ]][[H9020\|י֙]] [[H9006\|מִ]][[H5439H\|סָּבִ֔יב]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1961\|הָיָ֛ה]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H6412A\|פָּלִ֣יט]] [[H9002\|וְ]][[H8300\|שָׂרִ֑יד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2946\|טִפַּ֥חְתִּי]] [[H9002\|וְ]][[H7235A\|רִבִּ֖יתִי]] [[H0341\|אֹיְבִ֥]][[H9020\|י]] [[H3615H\|כִלָּֽ]][[H9038\|ם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]] • [[topic FAMINE|FAMINE]] • [[topic NATION|NATION]] • [[topic SWADDLE|SWADDLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.21|<< Lamentations 2:21]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.1|Lamentations 3:1 >>]]</td></tr></table>
 
@@ -24,7 +84,7 @@ You summoned my terrors on every side, as for the day of an appointed feast. In 
 | I had given birth  |**<big>&#8207;[[H2946\|טִפַּ֥חְתִּי]]&#8207; </big>**| ti.Pach.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I had reared  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7235A\|רִבִּ֖יתִי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ri.Bi.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemy my  |**<big>&#8207;[[H0341\|אֹיְבִ֥]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'o.ye.V<small><sup>[[HVqrmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has made an end of them  |**<big>&#8207;[[H3615H\|כִלָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| khi.La<small><sup>[[HVpp3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has made an end of them  |**<big>&#8207;[[H3615H\|כִלָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| khi.La<small><sup>[[HVpp3ms]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.21|<< Lamentations 2:21]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.1|Lamentations 3:1 >>]]</td></tr></table>
 
 

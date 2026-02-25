@@ -11,7 +11,7 @@
 
 - Spices [[Gen.37.25|Ge 37:25]]
 
-→ Of Tyre [[Ezek.27.12|Eze 27:12]]-[[Ezek.27.25|25]]
+→ Of Tyre [[Ezek.27.12|Eze 27:12-25]]
 
 → See [[topic COMMERCE|COMMERCE]]
 

@@ -9,15 +9,15 @@
 
 → Recalled from the land of Tob by the elders of Gilead [[Judg.11.5|Jud 11:5]]
 
-→ Made captain of the army [[Judg.11.5|Jud 11:5]]-[[Judg.11.11|11]]
+→ Made captain of the army [[Judg.11.5|Jud 11:5-11]]
 
-→ Made head of the land of Gilead [[Judg.11.7|Jud 11:7]]-[[Judg.11.11|11]]
+→ Made head of the land of Gilead [[Judg.11.7|Jud 11:7-11]]
 
-→ His message to the king of the Ammonites [[Judg.11.12|Jud 11:12]]-[[Judg.11.28|28]]
+→ His message to the king of the Ammonites [[Judg.11.12|Jud 11:12-28]]
 
-→ Leads the army of Israel against the Ammonites [[Judg.11.29|Jud  11:29]]-[[Judg.11.33|33]]
+→ Leads the army of Israel against the Ammonites [[Judg.11.29|Jud  11:29-33]]
 
-→ His rash vow concerning bis daughter [[Judg.11.31|Jud 11:31]],[[Judg.11.34|34]]-[[Judg.11.40|40]]
+→ His rash vow concerning bis daughter [[Judg.11.31|Jud 11:31]],[[Judg.11.34|34-40]]
 
 → Falsely accused by the Ephraimites [[Judg.12.1|Jud 12:1]]
 

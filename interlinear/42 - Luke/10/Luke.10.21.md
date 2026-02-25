@@ -1,10 +1,79 @@
+---
+title: Luke 10:21
+type: Verse
+kjv: "In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight."
+bsb: "At that time Jesus rejoiced in the Holy Spirit and declared, “I praise You, Father, Lord of heaven and earth, because You have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for this was well-pleasing in Your sight."
+jesus_said: "I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight."
+greek: "Ἐν αὐτῇ τῇ ὥρᾳ ἠγαλλιάσατο ἐν τῷ πνεύματι τῷ ἁγίῳ καὶ εἶπεν· ἐξομολογοῦμαί σοι, πάτερ, κύριε τοῦ οὐρανοῦ καὶ τῆς γῆς, ὅτι ἀπέκρυψας ταῦτα ἀπὸ σοφῶν καὶ συνετῶν καὶ ἀπεκάλυψας αὐτὰ νηπίοις. ναὶ ὁ πατήρ, ὅτι οὕτως εὐδοκία ἐγένετο ἔμπροσθέν σου."
+pericope: "[[Luke.10.21 Jesus’ Prayer of Thanksgiving|Jesus’ Prayer of Thanksgiving]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic BABES|BABES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5610]]"
+- "[[G0021]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1843]]"
+- "[[G4771]]"
+- "[[G3962]]"
+- "[[G2962G]]"
+- "[[G3772]]"
+- "[[G1093G]]"
+- "[[G3754H]]"
+- "[[G0613]]"
+- "[[G3778]]"
+- "[[G0575]]"
+- "[[G4680]]"
+- "[[G4908]]"
+- "[[G0601]]"
+- "[[G3516]]"
+- "[[G3483]]"
+- "[[G3779]]"
+- "[[G2107]]"
+- "[[G1096]]"
+- "[[G1715]]"
+texts:
+- NKO
+- n
+- N(k)O
+---
+
 **Luke 10:21**<big><big>[[Luke.10.21 Jesus’ Prayer of Thanksgiving|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In that hour Jesus rejoiced in spirit, and said, I thank thee, O Father, Lord of heaven and earth, that thou hast hid these things from the wise and prudent, and hast revealed them unto babes: even so, Father; for so it seemed good in thy sight.
 <small><sub>**BSB:**</sub></small>
 At that time Jesus rejoiced in the Holy Spirit and declared, “I praise You, Father, Lord of heaven and earth, because You have hidden these things from the wise and learned, and revealed them to little children. Yes, Father, for this was well-pleasing in Your sight.
-<small><sub>**Literal:**</sub></small>
-In [the] same <the> hour He rejoiced in the Spirit <the> Holy and said; I fully consent to You, Father, Lord of the heaven and of the earth, for You have hidden these things from wise and intelligent and revealed them to little children. yes O Father, for thus well-pleasing was it before You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.20|<< Luke 10:20]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.22|Luke 10:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G0846\|αὐτῇ]]  [[G3588\|τῇ]]  [[G5610\|ὥρᾳ]]  [[G0021\|ἠγαλλιάσατο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G3588\|τῷ]]  [[G0040G\|ἁγίῳ]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G1843\|ἐξομολογοῦμαί]]  [[G4771\|σοι,]]  [[G3962\|πάτερ,]]  [[G2962G\|κύριε]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G3754H\|ὅτι]]  [[G0613\|ἀπέκρυψας]]  [[G3778\|ταῦτα]]  [[G0575\|ἀπὸ]]  [[G4680\|σοφῶν]]  [[G2532\|καὶ]]  [[G4908\|συνετῶν]]  [[G2532\|καὶ]]  [[G0601\|ἀπεκάλυψας]]  [[G0846\|αὐτὰ]]  [[G3516\|νηπίοις.]]  [[G3483\|ναὶ]]  [[G3588\|ὁ]]  [[G3962\|πατήρ,]]  [[G3754H\|ὅτι]]  [[G3779\|οὕτως]]  [[G2107\|εὐδοκία]]  [[G1096\|ἐγένετο]]  [[G1715\|ἔμπροσθέν]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic BABES|BABES]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.20|<< Luke 10:20]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.22|Luke 10:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

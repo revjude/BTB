@@ -1,8 +1,71 @@
+---
+title: Leviticus 8:11
+type: Verse
+kjv: "And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them."
+bsb: "He sprinkled some of the oil on the altar seven times, anointing the altar and all its utensils, and the basin with its stand, to consecrate them."
+hebrew: "וַיַּ֥ז מִמֶּ֛נּוּ עַל־ הַמִּזְבֵּ֖חַ שֶׁ֣בַע פְּעָמִ֑ים וַיִּמְשַׁ֨ח אֶת־ הַמִּזְבֵּ֜חַ וְאֶת־ כָּל־ כֵּלָ֗יו וְאֶת־ הַכִּיֹּ֛ר וְאֶת־ כַּנּ֖וֹ לְקַדְּשָֽׁם׃"
+pericope: "[[Lev.8.1 Moses Consecrates Aaron and His Sons|Moses Consecrates Aaron and His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LAVER|LAVER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5137A]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H7651]]"
+- "[[H6471]]"
+- "[[H4886]]"
+- "[[H0853]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H3595]]"
+- "[[H3653]]"
+- "[[H9005]]"
+- "[[H6942G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:11**<big><big>[[Lev.8.1 Moses Consecrates Aaron and His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sprinkled thereof upon the altar seven times, and anointed the altar and all his vessels, both the laver and his foot, to sanctify them.
 <small><sub>**BSB:**</sub></small>
 He sprinkled some of the oil on the altar seven times, anointing the altar and all its utensils, and the basin with its stand, to consecrate them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5137A\|יַּ֥ז]] [[H4480A\|מִמֶּ֛]][[H9033\|נּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H7651\|שֶׁ֣בַע]] [[H6471\|פְּעָמִ֑ים]] [[H9001\|וַ]][[H4886\|יִּמְשַׁ֨ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֜חַ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3595\|כִּיֹּ֛ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3653\|כַּנּ֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H6942G\|קַדְּשָֽׁ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ANOINTING|ANOINTING]] • [[topic CHURCH|CHURCH]] • [[topic LAVER|LAVER]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.10|<< Leviticus 8:10]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.12|Leviticus 8:12 >>]]</td></tr></table>
 

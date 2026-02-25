@@ -1,8 +1,60 @@
+---
+title: Ezekiel 5:5
+type: Verse
+kjv: "Thus saith the Lord GOD; This is Jerusalem: I have set it in the midst of the nations and countries that are round about her."
+bsb: "This is what the Lord GOD says: ‘This is Jerusalem, which I have set in the center of the nations, with countries all around her."
+hebrew: "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהֹוִ֔ה זֹ֚את יְר֣וּשָׁלִַ֔ם בְּת֥וֹךְ הַגּוֹיִ֖ם שַׂמְתִּ֑יהָ וּסְבִיבוֹתֶ֖יהָ אֲרָצֽוֹת׃"
+pericope: "[[Ezek.5.1 The Razor of Judgment|The Razor of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2063]]"
+- "[[H3389]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H7760A]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H5439G]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 5:5**<big><big>[[Ezek.5.1 The Razor of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; This [is] Jerusalem: I have set it in the midst of the nations and countries [that are] round about her.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘This is Jerusalem, which I have set in the center of the nations, with countries all around her.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֔ה]] [[H2063\|זֹ֚את]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H7760A\|שַׂמְתִּ֑י]][[H9034\|הָ]] [[H9002\|וּ]][[H5439G\|סְבִיבוֹתֶ֖י]][[H9034\|הָ]] [[H0776G\|אֲרָצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.4|<< Ezekiel 5:4]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.6|Ezekiel 5:6 >>]]</td></tr></table>
 

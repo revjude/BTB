@@ -1,8 +1,70 @@
+---
+title: Numbers 29:7
+type: Verse
+kjv: "And ye shall have on the tenth day of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work therein:"
+bsb: "On the tenth day of this seventh month, you are to hold a sacred assembly, and you shall humble yourselves; you must not do any work."
+hebrew: "וּבֶעָשׂוֹר֩ לַחֹ֨דֶשׁ הַשְּׁבִיעִ֜י הַזֶּ֗ה מִֽקְרָא־ קֹ֙דֶשׁ֙ יִהְיֶ֣ה לָכֶ֔ם וְעִנִּיתֶ֖ם אֶת־ נַפְשֹׁתֵיכֶ֑ם כָּל־ מְלָאכָ֖ה לֹ֥א תַעֲשֽׂוּ׃"
+pericope: "[[Num.29.7 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic REST|REST]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6218]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H2088]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H6031B]]"
+- "[[H0853]]"
+- "[[H5315I]]"
+- "[[H9026]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:7**<big><big>[[Num.29.7 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall have on the tenth [day] of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work [therein]:
 <small><sub>**BSB:**</sub></small>
 On the tenth day of this seventh month, you are to hold a sacred assembly, and you shall humble yourselves; you must not do any work.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בֶ]][[H6218\|עָשׂוֹר֩]] [[H9005\|לַ]][[H2320G\|חֹ֨דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֜י]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H4744\|מִֽקְרָא]][[H9014\|־]] [[H6944G\|קֹ֙דֶשׁ֙]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H6031B\|עִנִּיתֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5315I\|נַפְשֹׁתֵי]][[H9026\|כֶ֑ם]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלָאכָ֖ה]] [[H3808\|לֹ֥א]] [[H6213A\|תַעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic OFFERINGS|OFFERINGS]] • [[topic REST|REST]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.6|<< Numbers 29:6]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.8|Numbers 29:8 >>]]</td></tr></table>
 

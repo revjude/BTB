@@ -1,6 +1,69 @@
+---
+title: LXX 1 Samuel 30:13
+type: Verse
+lxx: "And David said to him, Who are you, and from what place are you? And the Egyptian servant-lad said, I am a servant of a man, an Amalekite; and my master left me for I was unwell, today being three days."
+greek: "και είπεν αυτώ Δαυίδ τίνος συ ει και πόθεν ει και είπε το παιδάριον το Αιγύπτιον εγώ ειμι δούλος ανδρός Αμαληκίτου και κατέλιπέ με ο κυριός μου ότι ηνωχλήθην εγώ σήμερον τριταίος"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G4622]]"
+- "[[G5100]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G4159]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3808]]"
+- "[[G3588]]"
+- "[[G0125]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1401]]"
+- "[[G0435]]"
+- "[[H6002]]"
+- "[[G2532]]"
+- "[[G2641]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G1776]]"
+- "[[G1473]]"
+- "[[G4594]]"
+- "[[G9497]]"
+---
+
 **LXX 1 Samuel 30:13** 
 <small><sub>**LXX:**</sub></small>
 And David said to him, Who are you, and from what place are you? And the Egyptian servant-lad said, I am a servant of a man, an Amalekite; and my master left me for I was unwell, today being three days. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[G1473\|αυτώ]] [[G4622\|Δαυίδ]] [[G5100\|τίνος]] [[G1473\|συ]] [[G1510\|ει]] [[G2532\|και]] [[G4159\|πόθεν]] [[G1510\|ει]] [[G2532\|και]] [[G2036\|είπε]] [[G3588\|το]] [[G3808\|παιδάριον]] [[G3588\|το]] [[G0125\|Αιγύπτιον]] [[G1473\|εγώ]] [[G1510\|ειμι]] [[G1401\|δούλος]] [[G0435\|ανδρός]] [[H6002\|Αμαληκίτου]] [[G2532\|και]] [[G2641\|κατέλιπέ]] [[G1473\|με]] [[G3588\|ο]] [[G2962\|κυριός]] [[G1473\|μου]] [[G3754\|ότι]] [[G1776\|ηνωχλήθην]] [[G1473\|εγώ]] [[G4594\|σήμερον]] [[G9497\|τριταίος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.12|<< 1 Samuel 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.14|1 Samuel 30:14 >>]]</td></tr></table>
 
@@ -35,6 +98,6 @@ And David said to him, Who are you, and from what place are you? And the Egyptia
 | I was unwell, | **<big>[[G1776\|ηνωχλήθην]]</big>** **<big>[[G1473\|εγώ]]</big>** |
 | today | **<big>[[G4594\|σήμερον]]</big>** |
 | being three days. | **<big>[[G9497\|τριταίος]]</big>** |
-[[1Sam.30.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.12|<< 1 Samuel 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.14|1 Samuel 30:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.30.12|<< 1 Samuel 30:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.30.14|1 Samuel 30:14 >>]]</td></tr></table>
 
 

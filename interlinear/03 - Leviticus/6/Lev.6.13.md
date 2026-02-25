@@ -1,8 +1,57 @@
+---
+title: Leviticus 6:13
+type: Verse
+kjv: "The fire shall ever be burning upon the altar; it shall never go out."
+bsb: "The fire shall be kept burning on the altar continually; it must not be extinguished."
+hebrew: "אֵ֗שׁ תָּמִ֛יד תּוּקַ֥ד עַל־ הַמִּזְבֵּ֖חַ לֹ֥א תִכְבֶֽה׃ ס"
+pericope: "[[Lev.6.8 The Burnt Offering|The Burnt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H0784]]"
+- "[[H8548]]"
+- "[[H3344]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H3808]]"
+- "[[H3518]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 6:13**<big><big>[[Lev.6.8 The Burnt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fire shall ever be burning upon the altar; it shall never go out.
 <small><sub>**BSB:**</sub></small>
 The fire shall be kept burning on the altar continually; it must not be extinguished.
+<small><sub>**Hebrew:**</sub></small>
+[[H0784\|אֵ֗שׁ]] [[H8548\|תָּמִ֛יד]] [[H3344\|תּוּקַ֥ד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H3808\|לֹ֥א]] [[H3518\|תִכְבֶֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.12|<< Leviticus 6:12]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.14|Leviticus 6:14 >>]]</td></tr></table>
 
@@ -14,7 +63,7 @@ The fire shall be kept burning on the altar continually; it must not be extingui
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the altar  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֖חַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be extinguished  |**<big>&#8207;[[H3518\|תִכְבֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tikh.Veh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be extinguished  |**<big>&#8207;[[H3518\|תִכְבֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tikh.Veh<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.12|<< Leviticus 6:12]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.14|Leviticus 6:14 >>]]</td></tr></table>
 
 

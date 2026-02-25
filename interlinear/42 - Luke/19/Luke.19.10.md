@@ -1,10 +1,58 @@
+---
+title: Luke 19:10
+type: Verse
+kjv: "For the Son of man is come to seek and to save that which was lost."
+bsb: "For the Son of Man came to seek and to save the lost.”"
+jesus_said: "For the Son of man is come to seek and to save that which was lost."
+greek: "ἦλθεν γὰρ ὁ υἱὸς τοῦ ἀνθρώπου ζητῆσαι καὶ σῶσαι τὸ ἀπολωλός.¶"
+pericope: "[[Luke.19.1 Jesus and Zacchaeus|Jesus and Zacchaeus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]"
+strongs:
+- "[[G2064]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2212]]"
+- "[[G2532]]"
+- "[[G4982]]"
+- "[[G0622]]"
+texts:
+- NKO
+---
+
 **Luke 19:10**<big><big>[[Luke.19.1 Jesus and Zacchaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Son of man is come to seek and to save that which was lost.
 <small><sub>**BSB:**</sub></small>
 For the Son of Man came to seek and to save the lost.”
-<small><sub>**Literal:**</sub></small>
-Came for the Son <the> of Man to seek and to save that having been lost.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.9|<< Luke 19:9]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.11|Luke 19:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2064\|ἦλθεν]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2212\|ζητῆσαι]]  [[G2532\|καὶ]]  [[G4982\|σῶσαι]]  [[G3588\|τὸ]]  [[G0622\|ἀπολωλός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PENITENT|PENITENT]] • [[topic PUBLICANS|PUBLICANS]] • [[topic SALVATION|SALVATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZACCHAEUS (ZACCHEUS)|ZACCHAEUS (ZACCHEUS)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.9|<< Luke 19:9]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.11|Luke 19:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

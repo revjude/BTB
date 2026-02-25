@@ -1,8 +1,54 @@
+---
+title: Job 42:4
+type: Verse
+kjv: "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me."
+bsb: "You said, ‘Listen now, and I will speak. I will question you, and you shall inform Me.’"
+hebrew: "שְֽׁמַֽע־ נָ֭א וְאָנֹכִ֣י אֲדַבֵּ֑ר אֶ֝שְׁאָלְךָ֗ וְהוֹדִיעֵֽנִי׃"
+pericope: "[[Job.42.1 Job Submits Himself to the LORD|Job Submits Himself to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JOB|JOB]]"
+strongs:
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H1696G]]"
+- "[[H7592]]"
+- "[[H9031]]"
+- "[[H3045]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 42:4**<big><big>[[Job.42.1 Job Submits Himself to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.
 <small><sub>**BSB:**</sub></small>
 You said, ‘Listen now, and I will speak. I will question you, and you shall inform Me.’
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שְֽׁמַֽע]][[H9014\|־]] [[H4994\|נָ֭א]] [[H9002\|וְ]][[H0595\|אָנֹכִ֣י]] [[H1696G\|אֲדַבֵּ֑ר]] [[H7592\|אֶ֝שְׁאָלְ]][[H9031\|ךָ֗]] [[H9002\|וְ]][[H3045\|הוֹדִיעֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic JOB|JOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.3|<< Job 42:3]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.5|Job 42:5 >>]]</td></tr></table>
 

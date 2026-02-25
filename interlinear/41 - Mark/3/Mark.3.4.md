@@ -1,10 +1,58 @@
+---
+title: Mark 3:4
+type: Verse
+kjv: "And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace."
+bsb: "And He asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?” But they were silent."
+jesus_said: "Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill?"
+greek: "καὶ λέγει αὐτοῖς· ἔξεστιν τοῖς σάββασιν ἀγαθὸν ποιῆσαι ἢ κακοποιῆσαι, ψυχὴν σῶσαι ἢ ἀποκτεῖναι; οἱ δὲ ἐσιώπων."
+pericope: "[[Mark.3.1 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1832]]"
+- "[[G3588]]"
+- "[[G4521]]"
+- "[[G0018]]"
+- "[[G4160G]]"
+- "[[G2228]]"
+- "[[G2554]]"
+- "[[G5590H]]"
+- "[[G4982]]"
+- "[[G0615]]"
+- "[[G1161]]"
+- "[[G4623]]"
+texts:
+- NKO
+---
+
 **Mark 3:4**<big><big>[[Mark.3.1 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.
 <small><sub>**BSB:**</sub></small>
 And He asked them, “Which is lawful on the Sabbath: to do good or to do evil, to save life or to destroy it?” But they were silent.
-<small><sub>**Literal:**</sub></small>
-And He says to them; Is it lawful on the Sabbaths good to do or to do evil? Life to save or to kill? <the> But they were silent.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.3|<< Mark 3:3]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.5|Mark 3:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G1832\|ἔξεστιν]]  [[G3588\|τοῖς]]  [[G4521\|σάββασιν]]  [[G0018\|ἀγαθὸν]]  [[G4160G\|ποιῆσαι]]  [[G2228\|ἢ]]  [[G2554\|κακοποιῆσαι,]]  [[G5590H\|ψυχὴν]]  [[G4982\|σῶσαι]]  [[G2228\|ἢ]]  [[G0615\|ἀποκτεῖναι;]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G4623\|ἐσιώπων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.3|<< Mark 3:3]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.5|Mark 3:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

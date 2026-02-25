@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 10:21
+type: Verse
+kjv: "When he had caused the tribe of Benjamin to come near by their families, the family of Matri was taken, and Saul the son of Kish was taken: and when they sought him, he could not be found."
+bsb: "Then he had the tribe of Benjamin come forward by its clans, and the clan of Matri was selected. Finally, Saul son of Kish was selected. But when they looked for him, they could not find him."
+hebrew: "וַיַּקְרֵ֞ב אֶת־ שֵׁ֤בֶט בִּנְיָמִן֙ לְמִשְׁפְּחֹתָ֔יו וַתִּלָּכֵ֖ד מִשְׁפַּ֣חַת הַמַּטְרִ֑י וַיִּלָּכֵד֙ שָׁא֣וּל בֶּן־ קִ֔ישׁ וַיְבַקְשֻׁ֖הוּ וְלֹ֥א נִמְצָֽא׃"
+pericope: "[[1Sam.10.17 Saul Proclaimed King|Saul Proclaimed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic KING|KING]]"
+- "[[topic KISH|KISH]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic MATRI|MATRI]]"
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7626H]]"
+- "[[H1144G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9023]]"
+- "[[H3920]]"
+- "[[H9009]]"
+- "[[H4309]]"
+- "[[H7586G]]"
+- "[[H1121A]]"
+- "[[H7027G]]"
+- "[[H1245]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 10:21**<big><big>[[1Sam.10.17 Saul Proclaimed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he had caused the tribe of Benjamin to come near by their families, the family of Matri was taken, and Saul the son of Kish was taken: and when they sought him, he could not be found.
 <small><sub>**BSB:**</sub></small>
 Then he had the tribe of Benjamin come forward by its clans, and the clan of Matri was selected. Finally, Saul son of Kish was selected. But when they looked for him, they could not find him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126H\|יַּקְרֵ֞ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7626H\|שֵׁ֤בֶט]] [[H1144G\|בִּנְיָמִן֙]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H3920\|תִּלָּכֵ֖ד]] [[H4940\|מִשְׁפַּ֣חַת]] [[H9009\|הַ]][[H4309\|מַּטְרִ֑י]] [[H9001\|וַ]][[H3920\|יִּלָּכֵד֙]] [[H7586G\|שָׁא֣וּל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7027G\|קִ֔ישׁ]] [[H9001\|וַ]][[H1245\|יְבַקְשֻׁ֖]][[H9033\|הוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4672\|נִמְצָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic KING|KING]] • [[topic KISH|KISH]] • [[topic LOT, THE|LOT, THE]] • [[topic MATRI|MATRI]] • [[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.20|<< 1 Samuel 10:20]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.22|1 Samuel 10:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -29,8 +88,8 @@ Then he had the tribe of Benjamin come forward by its clans, and the clan of Mat
 | he was found  |**<big>&#8207;[[H4672\|נִמְצָֽא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| nim.Tza'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.20|<< 1 Samuel 10:20]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.22|1 Samuel 10:22 >>]]</td></tr></table>
 
-[^1]: to family its  | **<big>[[H9023|וֹ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: to family its  | **<big>[[H9023|וֹ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^3]: to family its  | **<big>[[H9023|וֹ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: to family its  | **<big>[[H9005|לְ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9023|וֹ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: to family its  | **<big>[[H9005|לְ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9023|וֹ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: to family its  | **<big>[[H9005|לְ]]</big><big>[[H4940|מִשְׁפַּחְתּ]]</big><big>[[H9023|וֹ]]</big> ** | le.<small><sup>[[HR]]</sup></small> mish.pe.cho.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>לְמִשְׁפְּחֹתָ֔/ו</big></span>**
 

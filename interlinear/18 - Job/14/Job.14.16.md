@@ -1,8 +1,52 @@
+---
+title: Job 14:16
+type: Verse
+kjv: "For now thou numberest my steps: dost thou not watch over my sin?"
+bsb: "For then You would count my steps, but would not keep track of my sin."
+hebrew: "כִּֽי־ עַ֭תָּה צְעָדַ֣י תִּסְפּ֑וֹר לֹֽא־ תִ֝שְׁמ֗וֹר עַל־ חַטָּאתִֽי׃"
+pericope: "[[Job.14.1 Job Laments the Finality of Death|Job Laments the Finality of Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 14
+book/chapter: "[[Job.14|Job 14]]"
+chronological_order: 25
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6258]]"
+- "[[H6806]]"
+- "[[H9020]]"
+- "[[H5608A]]"
+- "[[H3808]]"
+- "[[H8104I]]"
+- "[[H5921A]]"
+- "[[H2403B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 14:16**<big><big>[[Job.14.1 Job Laments the Finality of Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For now thou numberest my steps: dost thou not watch over my sin?
 <small><sub>**BSB:**</sub></small>
 For then You would count my steps, but would not keep track of my sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6258\|עַ֭תָּה]] [[H6806\|צְעָדַ֣]][[H9020\|י]] [[H5608A\|תִּסְפּ֑וֹר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8104I\|תִ֝שְׁמ֗וֹר]] [[H5921A\|עַל]][[H9014\|־]] [[H2403B\|חַטָּאתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.14.15|<< Job 14:15]]</td><td align="center" style="border:none;">[[Job.14|Job 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.14.17|Job 14:17 >>]]</td></tr></table>
 

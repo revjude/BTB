@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 12:8
+type: Verse
+kjv: "Ye shall not do after all the things that we do here this day, every man whatsoever is right in his own eyes."
+bsb: "You are not to do as we are doing here today, where everyone does what seems right in his own eyes."
+hebrew: "לֹ֣א תַעֲשׂ֔וּן כְּ֠כֹל אֲשֶׁ֨ר אֲנַ֧חְנוּ עֹשִׂ֛ים פֹּ֖ה הַיּ֑וֹם אִ֖ישׁ כָּל־ הַיָּשָׁ֥ר בְּעֵינָֽיו׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic REASONING|REASONING]]"
+strongs:
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9013]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0587]]"
+- "[[H6311]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0376I]]"
+- "[[H9014]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:8**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not do after all [the things] that we do here this day, every man whatsoever [is] right in his own eyes.
 <small><sub>**BSB:**</sub></small>
 You are not to do as we are doing here today, where everyone does what seems right in his own eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֔וּ]][[H9013\|ן]] [[H9004\|כְּ֠]][[H3605\|כֹל]] [[H0834A\|אֲשֶׁ֨ר]] [[H0587\|אֲנַ֧חְנוּ]] [[H6213A\|עֹשִׂ֛ים]] [[H6311\|פֹּ֖ה]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H0376I\|אִ֖ישׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֥ר]] [[H9003\|בְּ]][[H5869I\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REASONING|REASONING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.7|<< Deuteronomy 12:7]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.9|Deuteronomy 12:9 >>]]</td></tr></table>
 

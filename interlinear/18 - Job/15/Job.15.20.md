@@ -1,8 +1,55 @@
+---
+title: Job 15:20
+type: Verse
+kjv: "The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor."
+bsb: "A wicked man writhes in pain all his days; only a few years are reserved for the ruthless."
+hebrew: "כָּל־ יְמֵ֣י רָ֭שָׁע ה֣וּא מִתְחוֹלֵ֑ל וּמִסְפַּ֥ר שָׁ֝נִ֗ים נִצְפְּנ֥וּ לֶעָרִֽיץ׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H7563]]"
+- "[[H1931]]"
+- "[[H2342I]]"
+- "[[H9002]]"
+- "[[H4557]]"
+- "[[H8141]]"
+- "[[H6845]]"
+- "[[H9005]]"
+- "[[H6184]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:20**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked man travaileth with pain all [his] days, and the number of years is hidden to the oppressor.
 <small><sub>**BSB:**</sub></small>
 A wicked man writhes in pain all his days; only a few years are reserved for the ruthless.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H7563\|רָ֭שָׁע]] [[H1931\|ה֣וּא]] [[H2342I\|מִתְחוֹלֵ֑ל]] [[H9002\|וּ]][[H4557\|מִסְפַּ֥ר]] [[H8141\|שָׁ֝נִ֗ים]] [[H6845\|נִצְפְּנ֥וּ]] [[H9005\|לֶ]][[H6184\|עָרִֽיץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.19|<< Job 15:19]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.21|Job 15:21 >>]]</td></tr></table>
 

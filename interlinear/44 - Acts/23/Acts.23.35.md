@@ -1,10 +1,63 @@
+---
+title: Acts 23:35
+type: Verse
+kjv: "I will hear thee, said he, when thine accusers are also come. And he commanded him to be kept in Herod’s judgment hall."
+bsb: "he said, “I will hear your case when your accusers arrive.” Then he ordered that Paul be kept under guard in Herod’s Praetorium."
+greek: "διακούσομαί σου, ἔφη, ὅταν καὶ οἱ κατήγοροί σου παραγένωνται. κελεύσας τε ἐν τῷ πραιτωρίῳ τοῦ Ἡρῴδου φυλάσσεσθαι αὐτόν.¶"
+pericope: "[[Acts.23.23 Paul Sent to Felix|Paul Sent to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic FELIX|FELIX]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRETORIUM|PRETORIUM]]"
+strongs:
+- "[[G1251]]"
+- "[[G4771]]"
+- "[[G5346]]"
+- "[[G3752]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2725]]"
+- "[[G3854]]"
+- "[[G2753]]"
+- "[[G5037]]"
+- "[[G1722]]"
+- "[[G4232]]"
+- "[[G2264G]]"
+- "[[G5442H]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Acts 23:35**<big><big>[[Acts.23.23 Paul Sent to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I will hear thee, said he, when thine accusers are also come. And he commanded him to be kept in Herod’s judgment hall.
 <small><sub>**BSB:**</sub></small>
 he said, “I will hear your case when your accusers arrive.” Then he ordered that Paul be kept under guard in Herod’s Praetorium.
-<small><sub>**Literal:**</sub></small>
-I will hear fully you, he was saying, when also the accusers of you may have arrived. having commanded then in the Praetorium <the> of Herod to be guarded him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.34|<< Acts 23:34]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.1|Acts 24:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1251\|διακούσομαί]]  [[G4771\|σου,]]  [[G5346\|ἔφη,]]  [[G3752\|ὅταν]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G2725\|κατήγοροί]]  [[G4771\|σου]]  [[G3854\|παραγένωνται.]]  [[G2753\|κελεύσας]]  [[G5037\|τε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4232\|πραιτωρίῳ]]  [[G3588\|τοῦ]]  [[G2264G\|Ἡρῴδου]]  [[G5442H\|φυλάσσεσθαι]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic FELIX|FELIX]] • [[topic JUDGE|JUDGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRETORIUM|PRETORIUM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.34|<< Acts 23:34]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.1|Acts 24:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

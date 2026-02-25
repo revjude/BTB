@@ -1,10 +1,63 @@
+---
+title: 1 Corinthians 16:24
+type: Verse
+kjv: "My love be with you all in Christ Jesus. Amen."
+bsb: "My love be with all of you in Christ Jesus. Amen."
+greek: "ἡ ἀγάπη μου μετὰ πάντων ὑμῶν ἐν Χριστῷ Ἰησοῦ. ἀμήν πρός Κορινθίους πρώτη ἐγράφη ἀπό Φιλίππων διά Στεφανᾶ καί φουρτουνάτου καί Ἀχαϊκοῦ καί Τιμοθέου.¶"
+pericope: "[[1Cor.16.19 Signature and Final Greetings|Signature and Final Greetings]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CORINTH|CORINTH]]"
+strongs:
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G3165]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G0281]]"
+- "[[G4314]]"
+- "[[G2881]]"
+- "[[G4413G]]"
+- "[[G1125]]"
+- "[[G0575]]"
+- "[[G5375]]"
+- "[[G1223]]"
+- "[[G4734]]"
+- "[[G2532]]"
+- "[[G5415]]"
+- "[[G0883]]"
+- "[[G5095]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **1 Corinthians 16:24**<big><big>[[1Cor.16.19 Signature and Final Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 My love [be] with you all in Christ Jesus. Amen.
 <small><sub>**BSB:**</sub></small>
 My love be with all of you in Christ Jesus. Amen.
-<small><sub>**Literal:**</sub></small>
-The love of Mine [be] with all you in Christ Jesus. Amen to Corinthians first it was written from Philippi through of Stephanas and Fortunatus and Achaicus and Timothy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.23|<< 1 Corinthians 16:23]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.1|2 Corinthians 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G3165\|μου]]  [[G3326\|μετὰ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ.]]  [[G0281\|ἀμήν]]  [[G4314\|πρός]]  [[G2881\|Κορινθίους]]  [[G4413G\|πρώτη]]  [[G1125\|ἐγράφη]]  [[G0575\|ἀπό]]  [[G5375\|Φιλίππων]]  [[G1223\|διά]]  [[G4734\|Στεφανᾶ]]  [[G2532\|καί]]  [[G5415\|φουρτουνάτου]]  [[G2532\|καί]]  [[G0883\|Ἀχαϊκοῦ]]  [[G2532\|καί]]  [[G5095\|Τιμοθέου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORINTH|CORINTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.23|<< 1 Corinthians 16:23]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.1|2 Corinthians 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Fiery Furnace
+type: Pericope
 pericope: "[[Dan.3.19 The Fiery Furnace|The Fiery Furnace]]"
-verse_count: 12
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 3
 book/chapter: "[[Dan.3|Daniel 3]]"
-genre:
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 12
 verses:
 - "[[Dan.3.19]]"
 - "[[Dan.3.20]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Dan.3.30]]"
 ---
 
-[[Dan.3|Daniel 3:19 - Daniel 3:30]]
+<small>[[Dan.3|Daniel 3:19-30]]</small>
 *The Fiery Furnace*
 
 [[Dan.3.19|19]] Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: \[therefore\] he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.

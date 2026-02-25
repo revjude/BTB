@@ -1,10 +1,52 @@
+---
+title: Luke 24:14
+type: Verse
+kjv: "And they talked together of all these things which had happened."
+bsb: "They were talking with each other about everything that had happened."
+greek: "καὶ αὐτοὶ ὡμίλουν πρὸς ἀλλήλους περὶ πάντων τῶν συμβεβηκότων τούτων."
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G3656]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4819]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Luke 24:14**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they talked together of all these things which had happened.
 <small><sub>**BSB:**</sub></small>
 They were talking with each other about everything that had happened.
-<small><sub>**Literal:**</sub></small>
-and they themselves were talking with one another about all which having taken place these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.13|<< Luke 24:13]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.15|Luke 24:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G3656\|ὡμίλουν]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους]]  [[G4012\|περὶ]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G4819\|συμβεβηκότων]]  [[G3778\|τούτων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.13|<< Luke 24:13]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.15|Luke 24:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

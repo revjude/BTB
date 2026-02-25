@@ -1,8 +1,66 @@
+---
+title: Genesis 46:6
+type: Verse
+kjv: "And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:"
+bsb: "They also took the livestock and possessions they had acquired in the land of Canaan, and Jacob and all his offspring went to Egypt."
+hebrew: "וַיִּקְח֣וּ אֶת־ מִקְנֵיהֶ֗ם וְאֶת־ רְכוּשָׁם֙ אֲשֶׁ֤ר רָֽכְשׁוּ֙ בְּאֶ֣רֶץ כְּנַ֔עַן וַיָּבֹ֖אוּ מִצְרָ֑יְמָה יַעֲקֹ֖ב וְכָל־ זַרְע֥וֹ אִתּֽוֹ׃"
+pericope: "[[Gen.46.1 Jacob’s Journey to Egypt|Jacob’s Journey to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4735]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H7399]]"
+- "[[H0834A]]"
+- "[[H7408]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H3290]]"
+- "[[H3605]]"
+- "[[H2233H]]"
+- "[[H9023]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:6**<big><big>[[Gen.46.1 Jacob’s Journey to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:
 <small><sub>**BSB:**</sub></small>
 They also took the livestock and possessions they had acquired in the land of Canaan, and Jacob and all his offspring went to Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקְח֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4735\|מִקְנֵי]][[H9028\|הֶ֗ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7399\|רְכוּשָׁ]][[H9028\|ם֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H7408\|רָֽכְשׁוּ֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנַ֔עַן]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H4714G\|מִצְרָ֑יְמָ]][[H9011\|ה]] [[H3290\|יַעֲקֹ֖ב]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2233H\|זַרְע֥]][[H9023\|וֹ]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.5|<< Genesis 46:5]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.7|Genesis 46:7 >>]]</td></tr></table>
 

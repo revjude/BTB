@@ -1,8 +1,66 @@
+---
+title: Ezekiel 14:6
+type: Verse
+kjv: "Therefore say unto the house of Israel, Thus saith the Lord GOD; Repent, and turn yourselves from your idols; and turn away your faces from all your abominations."
+bsb: "Therefore tell the house of Israel that this is what the Lord GOD says: ‘Repent and turn away from your idols; turn your faces away from all your abominations."
+hebrew: "לָכֵ֞ן אֱמֹ֣ר׀ אֶל־ בֵּ֣ית יִשְׂרָאֵ֗ל כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה שׁ֣וּבוּ וְהָשִׁ֔יבוּ מֵעַ֖ל גִּלּֽוּלֵיכֶ֑ם וּמֵעַ֥ל כָּל־ תּוֹעֲבֹתֵיכֶ֖ם הָשִׁ֥יבוּ פְנֵיכֶֽם׃"
+pericope: "[[Ezek.14.1 Idolatrous Elders Condemned|Idolatrous Elders Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H7725O]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H1544]]"
+- "[[H9026]]"
+- "[[H3605]]"
+- "[[H8441]]"
+- "[[H7725I]]"
+- "[[H6440H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 14:6**<big><big>[[Ezek.14.1 Idolatrous Elders Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore say unto the house of Israel, Thus saith the Lord GOD; Repent, and turn [yourselves] from your idols; and turn away your faces from all your abominations.
 <small><sub>**BSB:**</sub></small>
 Therefore tell the house of Israel that this is what the Lord GOD says: ‘Repent and turn away from your idols; turn your faces away from all your abominations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H0559\|אֱמֹ֣ר]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H7725O\|שׁ֣וּבוּ]] [[H9002\|וְ]][[H7725O\|הָשִׁ֔יבוּ]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H1544\|גִּלּֽוּלֵי]][[H9026\|כֶ֑ם]] [[H9002\|וּ]][[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H8441\|תּוֹעֲבֹתֵי]][[H9026\|כֶ֖ם]] [[H7725I\|הָשִׁ֥יבוּ]] [[H6440H\|פְנֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.5|<< Ezekiel 14:5]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.7|Ezekiel 14:7 >>]]</td></tr></table>
 

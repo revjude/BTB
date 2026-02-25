@@ -1,8 +1,51 @@
+---
+title: Job 29:8
+type: Verse
+kjv: "The young men saw me, and hid themselves: and the aged arose, and stood up."
+bsb: "the young men saw me and withdrew, and the old men rose to their feet."
+hebrew: "רָא֣וּנִי נְעָרִ֣ים וְנֶחְבָּ֑אוּ וִֽ֝ישִׁישִׁים קָ֣מוּ עָמָֽדוּ׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic MANNERS|MANNERS]]"
+strongs:
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H5288]]"
+- "[[H9001]]"
+- "[[H2244]]"
+- "[[H9002]]"
+- "[[H3453]]"
+- "[[H6965B]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:8**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The young men saw me, and hid themselves: and the aged arose, [and] stood up.
 <small><sub>**BSB:**</sub></small>
 the young men saw me and withdrew, and the old men rose to their feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָא֣וּ]][[H9030\|נִי]] [[H5288\|נְעָרִ֣ים]] [[H9001\|וְ]][[H2244\|נֶחְבָּ֑אוּ]] [[H9002\|וִֽ֝]][[H3453\|ישִׁישִׁים]] [[H6965B\|קָ֣מוּ]] [[H5975G\|עָמָֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANNERS|MANNERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.7|<< Job 29:7]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.9|Job 29:9 >>]]</td></tr></table>
 

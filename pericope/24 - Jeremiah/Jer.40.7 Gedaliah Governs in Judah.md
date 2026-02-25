@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gedaliah Governs in Judah
+type: Pericope
 pericope: "[[Jer.40.7 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 40
 book/chapter: "[[Jer.40|Jeremiah 40]]"
-genre:
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.40.7]]"
 - "[[Jer.40.8]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.40.12]]"
 ---
 
-[[Jer.40|Jeremiah 40:7 - Jeremiah 40:12]]
+<small>[[Jer.40|Jeremiah 40:7-12]]</small>
 *Gedaliah Governs in Judah*
 
 [[Jer.40.7|7]] Now when all the captains of the forces which \[were\] in the fields, \[even\] they and their men, heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land, and had committed unto him men, and women, and children, and of the poor of the land, of them that were not carried away captive to Babylon;

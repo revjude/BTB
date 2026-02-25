@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Earth Swallows Korah
+type: Pericope
 pericope: "[[Num.16.28 The Earth Swallows Korah|The Earth Swallows Korah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 16
 book/chapter: "[[Num.16|Numbers 16]]"
-genre:
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 8
 verses:
 - "[[Num.16.28]]"
 - "[[Num.16.29]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Num.16.35]]"
 ---
 
-[[Num.16|Numbers 16:28 - Numbers 16:35]]
+<small>[[Num.16|Numbers 16:28-35]]</small>
 *The Earth Swallows Korah*
 
 [[Num.16.28|28]] And Moses said, Hereby ye shall know that the LORD hath sent me to do all these works; for \[I have\] not \[done them\] of mine own mind.

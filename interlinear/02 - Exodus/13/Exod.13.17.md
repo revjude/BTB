@@ -1,8 +1,77 @@
+---
+title: Exodus 13:17
+type: Verse
+kjv: "And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:"
+bsb: "When Pharaoh let the people go, God did not lead them along the road through the land of the Philistines, though it was shorter. For God said, “If the people face war, they might change their minds and return to Egypt.”"
+hebrew: "וַיְהִ֗י בְּשַׁלַּ֣ח פַּרְעֹה֮ אֶת־ הָעָם֒ וְלֹא־ נָחָ֣ם אֱלֹהִ֗ים דֶּ֚רֶךְ אֶ֣רֶץ פְּלִשְׁתִּ֔ים כִּ֥י קָר֖וֹב ה֑וּא כִּ֣י׀ אָמַ֣ר אֱלֹהִ֗ים פֶּֽן־ יִנָּחֵ֥ם הָעָ֛ם בִּרְאֹתָ֥ם מִלְחָמָ֖ה וְשָׁ֥בוּ מִצְרָֽיְמָה׃"
+pericope: "[[Exod.13.17 The Pillars of Cloud and Fire|The Pillars of Cloud and Fire]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7971H]]"
+- "[[H6547J]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5148]]"
+- "[[H9038]]"
+- "[[H0430G]]"
+- "[[H1870K]]"
+- "[[H0776G]]"
+- "[[H6430G]]"
+- "[[H3588A]]"
+- "[[H7138]]"
+- "[[H1931]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H6435]]"
+- "[[H5162H]]"
+- "[[H7200G]]"
+- "[[H9048]]"
+- "[[H4421]]"
+- "[[H7725G]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 13:17**<big><big>[[Exod.13.17 The Pillars of Cloud and Fire|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Pharaoh had let the people go, that God led them not [through] the way of the land of the Philistines, although that [was] near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:
 <small><sub>**BSB:**</sub></small>
 When Pharaoh let the people go, God did not lead them along the road through the land of the Philistines, though it was shorter. For God said, “If the people face war, they might change their minds and return to Egypt.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בְּ]][[H7971H\|שַׁלַּ֣ח]] [[H6547J\|פַּרְעֹה֮]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֒]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5148\|נָחָ֣]][[H9038\|ם]] [[H0430G\|אֱלֹהִ֗ים]] [[H1870K\|דֶּ֚רֶךְ]] [[H0776G\|אֶ֣רֶץ]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H3588A\|כִּ֥י]] [[H7138\|קָר֖וֹב]] [[H1931\|ה֑וּא]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H0430G\|אֱלֹהִ֗ים]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H5162H\|יִנָּחֵ֥ם]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H9003\|בִּ]][[H7200G\|רְאֹתָ֥]][[H9048\|ם]] [[H4421\|מִלְחָמָ֖ה]] [[H9001\|וְ]][[H7725G\|שָׁ֥בוּ]] [[H4714G\|מִצְרָֽיְמָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.13.16|<< Exodus 13:16]]</td><td align="center" style="border:none;">[[Exod.13|Exodus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.13.18|Exodus 13:18 >>]]</td></tr></table>
 

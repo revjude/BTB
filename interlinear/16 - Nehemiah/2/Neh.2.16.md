@@ -1,8 +1,63 @@
+---
+title: Nehemiah 2:16
+type: Verse
+kjv: "And the rulers knew not whither I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work."
+bsb: "The officials did not know where I had gone or what I was doing, for I had not yet told the Jews or priests or nobles or officials or any other workers."
+hebrew: "וְהַסְּגָנִ֗ים לֹ֤א יָדְעוּ֙ אָ֣נָה הָלַ֔כְתִּי וּמָ֖ה אֲנִ֣י עֹשֶׂ֑ה וְלַיְּהוּדִ֨ים וְלַכֹּהֲנִ֜ים וְלַחֹרִ֣ים וְלַסְּגָנִ֗ים וּלְיֶ֙תֶר֙ עֹשֵׂ֣ה הַמְּלָאכָ֔ה עַד־ כֵּ֖ן לֹ֥א הִגַּֽדְתִּי׃"
+pericope: "[[Neh.2.11 Nehemiah Inspects the Walls|Nehemiah Inspects the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5461]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0575]]"
+- "[[H1980G]]"
+- "[[H4100]]"
+- "[[H0589]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3064]]"
+- "[[H3548]]"
+- "[[H2715]]"
+- "[[H3499A]]"
+- "[[H4399]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5046]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:16**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rulers knew not whither I went, or what I did; neither had I as yet told [it] to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.
 <small><sub>**BSB:**</sub></small>
 The officials did not know where I had gone or what I was doing, for I had not yet told the Jews or priests or nobles or officials or any other workers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5461\|סְּגָנִ֗ים]] [[H3808\|לֹ֤א]] [[H3045\|יָדְעוּ֙]] [[H0575\|אָ֣נָה]] [[H1980G\|הָלַ֔כְתִּי]] [[H9002\|וּ]][[H4100\|מָ֖ה]] [[H0589\|אֲנִ֣י]] [[H6213A\|עֹשֶׂ֑ה]] [[H9002\|וְ]][[H9005\|לַ]][[H3064\|יְּהוּדִ֨ים]] [[H9002\|וְ]][[H9005\|לַ]][[H3548\|כֹּהֲנִ֜ים]] [[H9002\|וְ]][[H9005\|לַ]][[H2715\|חֹרִ֣ים]] [[H9002\|וְ]][[H9005\|לַ]][[H5461\|סְּגָנִ֗ים]] [[H9002\|וּ]][[H9005\|לְ]][[H3499A\|יֶ֙תֶר֙]] [[H6213A\|עֹשֵׂ֣ה]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֔ה]] [[H5704\|עַד]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H3808\|לֹ֥א]] [[H5046\|הִגַּֽדְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.15|<< Nehemiah 2:15]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.17|Nehemiah 2:17 >>]]</td></tr></table>
 

@@ -1,8 +1,76 @@
+---
+title: 2 Kings 20:3
+type: Verse
+kjv: "I beseech thee, O LORD, remember now how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore."
+bsb: "“Please, O LORD, remember how I have walked before You faithfully and with wholehearted devotion; I have done what is good in Your sight.” And Hezekiah wept bitterly."
+hebrew: "אָנָּ֣ה יְהוָ֗ה זְכָר־ נָ֞א אֵ֣ת אֲשֶׁ֧ר הִתְהַלַּ֣כְתִּי לְפָנֶ֗יךָ בֶּֽאֱמֶת֙ וּבְלֵבָ֣ב שָׁלֵ֔ם וְהַטּ֥וֹב בְּעֵינֶ֖יךָ עָשִׂ֑יתִי וַיֵּ֥בְךְּ חִזְקִיָּ֖הוּ בְּכִ֥י גָדֽוֹל׃ ס"
+pericope: "[[2Kgs.20.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H0577]]"
+- "[[H3068G]]"
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H1980I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H0571G]]"
+- "[[H9002]]"
+- "[[H3824]]"
+- "[[H8003]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H5869H]]"
+- "[[H6213A]]"
+- "[[H9001]]"
+- "[[H1058]]"
+- "[[H2396G]]"
+- "[[H1065]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Kings 20:3**<big><big>[[2Kgs.20.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I beseech thee, O LORD, remember now how I have walked before thee in truth and with a perfect heart, and have done [that which is] good in thy sight. And Hezekiah wept sore.
 <small><sub>**BSB:**</sub></small>
 “Please, O LORD, remember how I have walked before You faithfully and with wholehearted devotion; I have done what is good in Your sight.” And Hezekiah wept bitterly.
+<small><sub>**Hebrew:**</sub></small>
+[[H0577\|אָנָּ֣ה]] [[H3068G\|יְהוָ֗ה]] [[H2142\|זְכָר]][[H9014\|־]] [[H4994\|נָ֞א]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁ֧ר]] [[H1980I\|הִתְהַלַּ֣כְתִּי]] [[H9005\|לְ]][[H6440G\|פָנֶ֗י]][[H9021\|ךָ]] [[H9003\|בֶּֽ]][[H0571G\|אֱמֶת֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3824\|לֵבָ֣ב]] [[H8003\|שָׁלֵ֔ם]] [[H9002\|וְ]][[H9009\|הַ]][[H2896A\|טּ֥וֹב]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֖י]][[H9021\|ךָ]] [[H6213A\|עָשִׂ֑יתִי]] [[H9001\|וַ]][[H1058\|יֵּ֥בְךְּ]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H1065\|בְּכִ֥י]] [[H1419A\|גָדֽוֹל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DISEASE|DISEASE]] • [[topic FAITH|FAITH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]] • [[topic TRUTH|TRUTH]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.2|<< 2 Kings 20:2]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.4|2 Kings 20:4 >>]]</td></tr></table>
 
@@ -25,7 +93,7 @@ I beseech thee, O LORD, remember now how I have walked before thee in truth and 
 | and he wept  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1058\|יֵּ֥בְךְּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.vek<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Hezekiah  |**<big>&#8207;[[H2396G\|חִזְקִיָּ֖הוּ]]&#8207; </big>**| chiz.ki.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | weeping  |**<big>&#8207;[[H1065\|בְּכִ֥י]]&#8207; </big>**| be.Khi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| great  |**<big>&#8207;[[H1419A\|גָדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| great  |**<big>&#8207;[[H1419A\|גָדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.2|<< 2 Kings 20:2]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.4|2 Kings 20:4 >>]]</td></tr></table>
 
 

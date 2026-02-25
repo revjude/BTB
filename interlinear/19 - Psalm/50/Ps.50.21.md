@@ -1,8 +1,65 @@
+---
+title: Psalm 50:21
+type: Verse
+kjv: "These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes."
+bsb: "You have done these things, and I kept silent; you thought I was just like you. But now I rebuke you and accuse you to your face."
+hebrew: "אֵ֤לֶּה עָשִׂ֨יתָ׀ וְֽהֶחֱרַ֗שְׁתִּי דִּמִּ֗יתָ הֱֽיוֹת־ אֶֽהְיֶ֥ה כָמ֑וֹךָ אוֹכִיחֲךָ֖ וְאֶֽעֶרְכָ֣ה לְעֵינֶֽיךָ׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SECURITY|SECURITY]]"
+strongs:
+- "[[H0428]]"
+- "[[H6213A]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H2790B]]"
+- "[[H1819]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H3198]]"
+- "[[H6186A]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:21**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [things] hast thou done, and I kept silence; thou thoughtest that I was altogether [such an one] as thyself: [but] I will reprove thee, and set [them] in order before thine eyes.
 <small><sub>**BSB:**</sub></small>
 You have done these things, and I kept silent; you thought I was just like you. But now I rebuke you and accuse you to your face.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֤לֶּה]] [[H6213A\|עָשִׂ֨יתָ]][[H9015\|׀]] [[H9002\|וְֽ]][[H2790B\|הֶחֱרַ֗שְׁתִּי]] [[H1819\|דִּמִּ֗יתָ]] [[H1961\|הֱֽיוֹת]][[H9014\|־]] [[H1961\|אֶֽהְיֶ֥ה]] [[H3644G\|כָמ֑וֹ]][[H9031\|ךָ]] [[H3198\|אוֹכִיחֲ]][[H9031\|ךָ֖]] [[H9002\|וְ]][[H6186A\|אֶֽעֶרְכָ֣ה]] [[H9005\|לְ]][[H5869J\|עֵינֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SECURITY|SECURITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.20|<< Psalms 50:20]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.22|Psalms 50:22 >>]]</td></tr></table>
 

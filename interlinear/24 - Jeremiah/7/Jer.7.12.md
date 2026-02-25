@@ -1,8 +1,72 @@
+---
+title: Jeremiah 7:12
+type: Verse
+kjv: "But go ye now unto my place which was in Shiloh, where I set my name at the first, and see what I did to it for the wickedness of my people Israel."
+bsb: "But go now to the place in Shiloh where I first made a dwelling for My Name, and see what I did to it because of the wickedness of My people Israel."
+hebrew: "כִּ֣י לְכוּ־ נָ֗א אֶל־ מְקוֹמִי֙ אֲשֶׁ֣ר בְּשִׁיל֔וֹ אֲשֶׁ֨ר שִׁכַּ֧נְתִּֽי שְׁמִ֛י שָׁ֖ם בָּרִֽאשׁוֹנָ֑ה וּרְאוּ֙ אֵ֣ת אֲשֶׁר־ עָשִׂ֣יתִי ל֔וֹ מִפְּנֵ֕י רָעַ֖ת עַמִּ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SHILOH|SHILOH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0413]]"
+- "[[H4725]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7887]]"
+- "[[H7931]]"
+- "[[H8034]]"
+- "[[H8033G]]"
+- "[[H7223G]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H7451I]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:12**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But go ye now unto my place which [was] in Shiloh, where I set my name at the first, and see what I did to it for the wickedness of my people Israel.
 <small><sub>**BSB:**</sub></small>
 But go now to the place in Shiloh where I first made a dwelling for My Name, and see what I did to it because of the wickedness of My people Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H1980G\|לְכוּ]][[H9014\|־]] [[H4994\|נָ֗א]] [[H0413\|אֶל]][[H9014\|־]] [[H4725\|מְקוֹמִ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H7887\|שִׁיל֔וֹ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7931\|שִׁכַּ֧נְתִּֽי]] [[H8034\|שְׁמִ֛]][[H9020\|י]] [[H8033G\|שָׁ֖ם]] [[H9003\|בָּ]][[H7223G\|רִֽאשׁוֹנָ֑ה]] [[H9002\|וּ]][[H7200G\|רְאוּ֙]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשִׂ֣יתִי]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9006\|מִ]][[H6440I\|פְּנֵ֕י]] [[H7451I\|רָעַ֖ת]] [[H5971A\|עַמִּ֥]][[H9020\|י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SHILOH|SHILOH]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.11|<< Jeremiah 7:11]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.13|Jeremiah 7:13 >>]]</td></tr></table>
 

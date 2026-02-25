@@ -1,8 +1,54 @@
+---
+title: Isaiah 42:14
+type: Verse
+kjv: "I have long time holden my peace; I have been still, and refrained myself: now will I cry like a travailing woman; I will destroy and devour at once."
+bsb: "“I have kept silent from ages past; I have remained quiet and restrained. But now I will groan like a woman in labor; I will at once gasp and pant."
+hebrew: "הֶחֱשֵׁ֙יתִי֙ מֵֽעוֹלָ֔ם אַחֲרִ֖ישׁ אֶתְאַפָּ֑ק כַּיּוֹלֵדָ֣ה אֶפְעֶ֔ה אֶשֹּׁ֥ם וְאֶשְׁאַ֖ף יָֽחַד׃"
+pericope: "[[Isa.42.10 A New Song of Praise|A New Song of Praise]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 42
+book/chapter: "[[Isa.42|Isaiah 42]]"
+chronological_order: 681
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H2814]]"
+- "[[H9006]]"
+- "[[H5769J]]"
+- "[[H2790B]]"
+- "[[H0662]]"
+- "[[H9004]]"
+- "[[H3205]]"
+- "[[H6463]]"
+- "[[H5395]]"
+- "[[H9002]]"
+- "[[H7602A]]"
+- "[[H3162A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 42:14**<big><big>[[Isa.42.10 A New Song of Praise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have long time holden my peace; I have been still, [and] refrained myself: [now] will I cry like a travailing woman; I will destroy and devour at once.
 <small><sub>**BSB:**</sub></small>
 “I have kept silent from ages past; I have remained quiet and restrained. But now I will groan like a woman in labor; I will at once gasp and pant.
+<small><sub>**Hebrew:**</sub></small>
+[[H2814\|הֶחֱשֵׁ֙יתִי֙]] [[H9006\|מֵֽ]][[H5769J\|עוֹלָ֔ם]] [[H2790B\|אַחֲרִ֖ישׁ]] [[H0662\|אֶתְאַפָּ֑ק]] [[H9004\|כַּ]][[H3205\|יּוֹלֵדָ֣ה]] [[H6463\|אֶפְעֶ֔ה]] [[H5395\|אֶשֹּׁ֥ם]] [[H9002\|וְ]][[H7602A\|אֶשְׁאַ֖ף]] [[H3162A\|יָֽחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.42.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.42.13|<< Isaiah 42:13]]</td><td align="center" style="border:none;">[[Isa.42|Isaiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.42.15|Isaiah 42:15 >>]]</td></tr></table>
 

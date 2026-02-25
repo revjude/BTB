@@ -1,10 +1,61 @@
+---
+title: Mark 12:38
+type: Verse
+kjv: "And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,"
+bsb: "In His teaching Jesus also said, “Watch out for the scribes. They like to walk around in long robes, to receive greetings in the marketplaces,"
+jesus_said: "Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,"
+greek: "Καὶ αὐτοῖς ἐν τῇ διδαχῇ αὐτοῦ ἔλεγεν· βλέπετε ἀπὸ τῶν γραμματέων τῶν θελόντων ἐν στολαῖς περιπατεῖν καὶ ἀσπασμοὺς ἐν ταῖς ἀγοραῖς"
+pericope: "[[Mark.12.38 Beware of the Scribes|Beware of the Scribes]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1322]]"
+- "[[G3004G]]"
+- "[[G0991]]"
+- "[[G0575]]"
+- "[[G1122]]"
+- "[[G2309]]"
+- "[[G4749]]"
+- "[[G4043]]"
+- "[[G0783]]"
+- "[[G0058]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 12:38**<big><big>[[Mark.12.38 Beware of the Scribes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and [love] salutations in the marketplaces,
 <small><sub>**BSB:**</sub></small>
 In His teaching Jesus also said, “Watch out for the scribes. They like to walk around in long robes, to receive greetings in the marketplaces,
-<small><sub>**Literal:**</sub></small>
-And to them in the teaching of Him He was saying; do beware of the scribes who are desiring in robes to walk about and greetings in the marketplaces<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.37|<< Mark 12:37]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.39|Mark 12:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0846\|αὐτοῖς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1322\|διδαχῇ]]  [[G0846\|αὐτοῦ]]  [[G3004G\|ἔλεγεν·]]  [[G0991\|βλέπετε]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G1122\|γραμματέων]]  [[G3588\|τῶν]]  [[G2309\|θελόντων]]  [[G1722\|ἐν]]  [[G4749\|στολαῖς]]  [[G4043\|περιπατεῖν]]  [[G2532\|καὶ]]  [[G0783\|ἀσπασμοὺς]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G0058\|ἀγοραῖς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIDE|PRIDE]] • [[topic SATIRE|SATIRE]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.37|<< Mark 12:37]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.39|Mark 12:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,64 @@
+---
+title: Ezekiel 13:6
+type: Verse
+kjv: "They have seen vanity and lying divination, saying, The LORD saith: and the LORD hath not sent them: and they have made others to hope that they would confirm the word."
+bsb: "They see false visions and speak lying divinations. They claim, ‘Thus declares the LORD,’ when the LORD did not send them; yet they wait for the fulfillment of their message."
+hebrew: "חָ֤זוּ שָׁוְא֙ וְקֶ֣סֶם כָּזָ֔ב הָאֹֽמְרִים֙ נְאֻם־ יְהוָ֔ה וַֽיהוָ֖ה לֹ֣א שְׁלָחָ֑ם וְיִֽחֲל֖וּ לְקַיֵּ֥ם דָּבָֽר׃"
+pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H2372]]"
+- "[[H7723G]]"
+- "[[H9002]]"
+- "[[H7081]]"
+- "[[H3577]]"
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H3176H]]"
+- "[[H9005]]"
+- "[[H6965I]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:6**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have seen vanity and lying divination, saying, The LORD saith: and the LORD hath not sent them: and they have made [others] to hope that they would confirm the word.
 <small><sub>**BSB:**</sub></small>
 They see false visions and speak lying divinations. They claim, ‘Thus declares the LORD,’ when the LORD did not send them; yet they wait for the fulfillment of their message.
+<small><sub>**Hebrew:**</sub></small>
+[[H2372\|חָ֤זוּ]] [[H7723G\|שָׁוְא֙]] [[H9002\|וְ]][[H7081\|קֶ֣סֶם]] [[H3577\|כָּזָ֔ב]] [[H9009\|הָ]][[H0559\|אֹֽמְרִים֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וַֽ]][[H3068G\|יהוָ֖ה]] [[H3808\|לֹ֣א]] [[H7971G\|שְׁלָחָ֑]][[H9038\|ם]] [[H9001\|וְ]][[H3176H\|יִֽחֲל֖וּ]] [[H9005\|לְ]][[H6965I\|קַיֵּ֥ם]] [[H1697G\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.5|<< Ezekiel 13:5]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.7|Ezekiel 13:7 >>]]</td></tr></table>
 

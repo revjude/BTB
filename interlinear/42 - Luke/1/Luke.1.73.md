@@ -1,10 +1,65 @@
+---
+title: Luke 1:73
+type: Verse
+kjv: "The oath which he sware to our father Abraham,"
+bsb: "the oath He swore to our father Abraham, to grant us"
+greek: "ὅρκον ὃν ὤμοσεν πρὸς Ἀβραὰμ τὸν πατέρα ἡμῶν, τοῦ δοῦναι ἡμῖν"
+pericope: "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OATH|OATH]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G3727]]"
+- "[[G3739]]"
+- "[[G3660]]"
+- "[[G4314]]"
+- "[[G0011]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1325]]"
+texts:
+- NKO
+---
+
 **Luke 1:73**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The oath which he sware to our father Abraham,
 <small><sub>**BSB:**</sub></small>
 the oath He swore to our father Abraham, to grant us
-<small><sub>**Literal:**</sub></small>
-[the] oath that He swore to Abraham the father of us, [74] <the> to grant us<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.72|<< Luke 1:72]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.74|Luke 1:74 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3727\|ὅρκον]]  [[G3739\|ὃν]]  [[G3660\|ὤμοσεν]]  [[G4314\|πρὸς]]  [[G0011\|Ἀβραὰμ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3165\|ἡμῶν,]]  [[G3588\|τοῦ]]  [[G1325\|δοῦναι]]  [[G3165\|ἡμῖν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MIRACLES|MIRACLES]] • [[topic OATH|OATH]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PROPHECY|PROPHECY]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.72|<< Luke 1:72]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.74|Luke 1:74 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 1:73** is...
 > $\quad$ alluding to: [[LXX.Gen.12.3|Gen 12:3]] ☩ [[LXX.Gen.22.16|Gen 22:16]]

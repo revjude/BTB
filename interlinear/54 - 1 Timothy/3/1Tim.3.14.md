@@ -1,10 +1,51 @@
+---
+title: 1 Timothy 3:14
+type: Verse
+kjv: "These things write I unto thee, hoping to come unto thee shortly:"
+bsb: "Although I hope to come to you soon, I am writing you these things"
+greek: "Ταῦτά σοι γράφω ἐλπίζων ἐλθεῖν πρὸς σὲ ἐν τάχει·"
+pericope: "[[1Tim.3.14 The Mystery of Godliness|The Mystery of Godliness]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3778]]"
+- "[[G4771]]"
+- "[[G1125]]"
+- "[[G1679]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G1722]]"
+- "[[G5034]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **1 Timothy 3:14**<big><big>[[1Tim.3.14 The Mystery of Godliness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These things write I unto thee, hoping to come unto thee shortly:
 <small><sub>**BSB:**</sub></small>
 Although I hope to come to you soon, I am writing you these things
-<small><sub>**Literal:**</sub></small>
-These things to you I am writing hoping to come to you with speed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.13|<< 1 Timothy 3:13]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.15|1 Timothy 3:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτά]]  [[G4771\|σοι]]  [[G1125\|γράφω]]  [[G1679\|ἐλπίζων]]  [[G2064\|ἐλθεῖν]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G1722\|ἐν]]  [[G5034\|τάχει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.13|<< 1 Timothy 3:13]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.15|1 Timothy 3:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

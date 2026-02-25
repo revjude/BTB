@@ -1,8 +1,69 @@
+---
+title: Leviticus 23:3
+type: Verse
+kjv: "Six days shall work be done: but the seventh day is the sabbath of rest, an holy convocation; ye shall do no work therein: it is the sabbath of the LORD in all your dwellings."
+bsb: "For six days work may be done, but the seventh day is a Sabbath of complete rest, a day of sacred assembly. You must not do any work; wherever you live, it is a Sabbath to the LORD."
+hebrew: "שֵׁ֣שֶׁת יָמִים֮ תֵּעָשֶׂ֣ה מְלָאכָה֒ וּבַיּ֣וֹם הַשְּׁבִיעִ֗י שַׁבַּ֤ת שַׁבָּתוֹן֙ מִקְרָא־ קֹ֔דֶשׁ כָּל־ מְלָאכָ֖ה לֹ֣א תַעֲשׂ֑וּ שַׁבָּ֥ת הִוא֙ לַֽיהוָ֔ה בְּכֹ֖ל מֽוֹשְׁבֹתֵיכֶֽם׃ פ"
+pericope: "[[Lev.23.1 Feasts and Sabbaths|Feasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H8337]]"
+- "[[H3117G]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H7676]]"
+- "[[H7677]]"
+- "[[H4744]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H3605]]"
+- "[[H3808]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H4186]]"
+- "[[H9026]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 23:3**<big><big>[[Lev.23.1 Feasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Six days shall work be done: but the seventh day [is] the sabbath of rest, an holy convocation; ye shall do no work [therein]: it [is] the sabbath of the LORD in all your dwellings.
 <small><sub>**BSB:**</sub></small>
 For six days work may be done, but the seventh day is a Sabbath of complete rest, a day of sacred assembly. You must not do any work; wherever you live, it is a Sabbath to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H8337\|שֵׁ֣שֶׁת]] [[H3117G\|יָמִים֮]] [[H6213A\|תֵּעָשֶׂ֣ה]] [[H4399\|מְלָאכָה֒]] [[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֗י]] [[H7676\|שַׁבַּ֤ת]] [[H7677\|שַׁבָּתוֹן֙]] [[H4744\|מִקְרָא]][[H9014\|־]] [[H6944G\|קֹ֔דֶשׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלָאכָ֖ה]] [[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֑וּ]] [[H7676\|שַׁבָּ֥ת]] [[H1931\|הִוא֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H4186\|מֽוֹשְׁבֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PARENTS|PARENTS]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.2|<< Leviticus 23:2]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.4|Leviticus 23:4 >>]]</td></tr></table>
 
@@ -26,7 +87,7 @@ For six days work may be done, but the seventh day is a Sabbath of complete rest
 | it  |**<big>&#8207;[[H1931\|הִוא֙]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to Yahweh  |**<big>&#8207;[[H9005\|לַֽ]]&#8207;&#8207;[[H3068G\|יהוָ֔ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in all  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3605\|כֹ֖ל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| dwelling places your  |**<big>&#8207;[[H4186\|מֽוֹשְׁבֹתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Mo.o.she.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| dwelling places your  |**<big>&#8207;[[H4186\|מֽוֹשְׁבֹתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Mo.o.she.vo.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.2|<< Leviticus 23:2]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.4|Leviticus 23:4 >>]]</td></tr></table>
 
 

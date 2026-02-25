@@ -1,10 +1,75 @@
+---
+title: Revelation 5:5
+type: Verse
+kjv: "And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof."
+bsb: "Then one of the elders said to me, “Do not weep! Behold, the Lion of the tribe of Judah, the Root of David, has triumphed to open the scroll and its seven seals.”"
+greek: "καὶ εἷς ἐκ τῶν πρεσβυτέρων λέγει μοι· μὴ κλαῖε. ἰδοὺ ἐνίκησεν ὁ λέων ὁ ὢν ἐκ τῆς φυλῆς Ἰούδα, ἡ ῥίζα Δαυίδ, ὁ ἀνοῖξαι τὸ βιβλίον καὶ λῦσαι τὰς ἑπτὰ σφραγῖδας αὐτοῦ."
+pericope: "[[Rev.5.1 The Lamb Takes the Scroll|The Lamb Takes the Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 5
+book/chapter: "[[Rev.5|Revelation 5]]"
+chronological_order: 1172
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic LION|LION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic VISION|VISION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4245G]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G3361]]"
+- "[[G2799]]"
+- "[[G2400]]"
+- "[[G3528]]"
+- "[[G3023]]"
+- "[[G1510]]"
+- "[[G5443]]"
+- "[[G2455]]"
+- "[[G4491]]"
+- "[[G1138]]"
+- "[[G0455]]"
+- "[[G0975]]"
+- "[[G3089]]"
+- "[[G2033]]"
+- "[[G4973]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- o
+- NK(o)
+---
+
 **Revelation 5:5**<big><big>[[Rev.5.1 The Lamb Takes the Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And one of the elders saith unto me, Weep not: behold, the Lion of the tribe of Juda, the Root of David, hath prevailed to open the book, and to loose the seven seals thereof.
 <small><sub>**BSB:**</sub></small>
 Then one of the elders said to me, “Do not weep! Behold, the Lion of the tribe of Judah, the Root of David, has triumphed to open the scroll and its seven seals.”
-<small><sub>**Literal:**</sub></small>
-And one of the elders says to me; Not do weep. Behold has overcome the Lion who is being of the tribe of Judah, the root of David, The [one]  to open the scroll and to untie the seven seals of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.4|<< Revelation 5:4]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.6|Revelation 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1520\|εἷς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G3004G\|λέγει]]  [[G3165\|μοι·]]  [[G3361\|μὴ]]  [[G2799\|κλαῖε.]]  [[G2400\|ἰδοὺ]]  [[G3528\|ἐνίκησεν]]  [[G3588\|ὁ]]  [[G3023\|λέων]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5443\|φυλῆς]]  [[G2455\|Ἰούδα,]]  [[G3588\|ἡ]]  [[G4491\|ῥίζα]]  [[G1138\|Δαυίδ,]]  [[G3588\|ὁ]]  [[G0455\|ἀνοῖξαι]]  [[G3588\|τὸ]]  [[G0975\|βιβλίον]]  [[G2532\|καὶ]]  [[G3089\|λῦσαι]]  [[G3588\|τὰς]]  [[G2033\|ἑπτὰ]]  [[G4973\|σφραγῖδας]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ELDER|ELDER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAH|JUDAH]] • [[topic LION|LION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SALVATION|SALVATION]] • [[topic VISION|VISION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.5.4|<< Revelation 5:4]]</td><td align="center" style="border:none;">[[Rev.5|Revelation 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.5.6|Revelation 5:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

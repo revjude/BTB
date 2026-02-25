@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Cry Out before You
+type: Pericope
 pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 88
 book/chapter: "[[Ps.88|Psalm 88]]"
-genre:
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 19
 verses:
 - "[[Ps.88.0]]"
 - "[[Ps.88.1]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Ps.88.18]]"
 ---
 
-[[Ps.88|Psalm 88:1 - Psalm 88:18]]
+<small>[[Ps.88|Psalm 88:1-18]]</small>
 *I Cry Out before You*
 
 [[Ps.88.0|0]] A Song \[or\] Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite.

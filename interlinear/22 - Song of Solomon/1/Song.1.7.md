@@ -1,8 +1,61 @@
+---
+title: Song of Solomon 1:7
+type: Verse
+kjv: "Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?"
+bsb: "Tell me, O one I love, where do you pasture your sheep? Where do you rest them at midday? Why should I be like a veiled woman beside the flocks of your companions?"
+hebrew: "הַגִּ֣ידָה לִּ֗י שֶׁ֤אָהֲבָה֙ נַפְשִׁ֔י אֵיכָ֣ה תִרְעֶ֔ה אֵיכָ֖ה תַּרְבִּ֣יץ בַּֽצָּהֳרָ֑יִם שַׁלָּמָ֤ה אֶֽהְיֶה֙ כְּעֹ֣טְיָ֔ה עַ֖ל עֶדְרֵ֥י חֲבֵרֶֽיךָ׃"
+pericope: "[[Song.1.5 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 1
+book/chapter: "[[Song.1|Song of Solomon 1]]"
+chronological_order: 448
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H5046]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9007]]"
+- "[[H0157G]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H0349B]]"
+- "[[H7462B]]"
+- "[[H7257]]"
+- "[[H9003]]"
+- "[[H6672A]]"
+- "[[H4100]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H5844A]]"
+- "[[H5921A]]"
+- "[[H5739]]"
+- "[[H2270]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 1:7**<big><big>[[Song.1.5 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Tell me, O thou whom my soul loveth, where thou feedest, where thou makest [thy flock] to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?
 <small><sub>**BSB:**</sub></small>
 Tell me, O one I love, where do you pasture your sheep? Where do you rest them at midday? Why should I be like a veiled woman beside the flocks of your companions?
+<small><sub>**Hebrew:**</sub></small>
+[[H5046\|הַגִּ֣ידָ]][[H9012\|ה]] [[H9005\|לִּ֗]][[H9030\|י]] [[H9007\|שֶׁ֤]][[H0157G\|אָהֲבָה֙]] [[H5315G\|נַפְשִׁ֔]][[H9020\|י]] [[H0349B\|אֵיכָ֣ה]] [[H7462B\|תִרְעֶ֔ה]] [[H0349B\|אֵיכָ֖ה]] [[H7257\|תַּרְבִּ֣יץ]] [[H9003\|בַּֽ]][[H6672A\|צָּהֳרָ֑יִם]] [[H9007\|שַׁ]][[H9005\|לָּ]][[H4100\|מָ֤ה]] [[H1961\|אֶֽהְיֶה֙]] [[H9004\|כְּ]][[H5844A\|עֹ֣טְיָ֔ה]] [[H5921A\|עַ֖ל]] [[H5739\|עֶדְרֵ֥י]] [[H2270\|חֲבֵרֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.6|<< Song of Solomon 1:6]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.8|Song of Solomon 1:8 >>]]</td></tr></table>
 

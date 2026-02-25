@@ -1,6 +1,69 @@
+---
+title: LXX 1 Chronicles 26:31
+type: Verse
+lxx: "Of the Hebronites, Jerijah was the ruler of the Hebronites according to their generations, and according to their families. In the fortieth year of the kingship of David they were numbered, and the mighty man was found among them in Jazer of the Gileadite."
+greek: "του Χεβρωνί Ιωρίας ο άρχων των Χεβρωνί κατά γενέσεις αυτών και κατά πατριάς αυτων εν τω έτει τω τεσσαρακοστώ της βασιλείας Δαυίδ επεσκέπησαν και ευρέθη ανήρ δυνατός εν αυτοίς εν Ιαζήρ της Γαλααδίτιδος"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JERIAH|JERIAH]]"
+strongs:
+- "[[G3588]]"
+- "[[H2275b]]"
+- "[[H3404]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G3588]]"
+- "[[H2275b]]"
+- "[[G2596]]"
+- "[[G1078]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G3965]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2094]]"
+- "[[G3588]]"
+- "[[G9432]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G4622]]"
+- "[[G1980]]"
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G0435]]"
+- "[[G1415]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[H3270]]"
+- "[[G3588]]"
+- "[[H1568]]"
+---
+
 **LXX 1 Chronicles 26:31** 
 <small><sub>**LXX:**</sub></small>
 Of the Hebronites, Jerijah \[was\] the ruler of the Hebronites according to their generations, and according to their families. In the fortieth year of the kingship of David they were numbered, and \[the\] mighty man was found among them in Jazer of the Gileadite. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|του]] [[H2275b\|Χεβρωνί]] [[H3404\|Ιωρίας]] [[G3588\|ο]] [[G0758\|άρχων]] [[G3588\|των]] [[H2275b\|Χεβρωνί]] [[G2596\|κατά]] [[G1078\|γενέσεις]] [[G1473\|αυτών]] [[G2532\|και]] [[G2596\|κατά]] [[G3965\|πατριάς]] [[G1473\|αυτων]] [[G1722\|εν]] [[G3588\|τω]] [[G2094\|έτει]] [[G3588\|τω]] [[G9432\|τεσσαρακοστώ]] [[G3588\|της]] [[G0932\|βασιλείας]] [[G4622\|Δαυίδ]] [[G1980\|επεσκέπησαν]] [[G2532\|και]] [[G2147\|ευρέθη]] [[G0435\|ανήρ]] [[G1415\|δυνατός]] [[G1722\|εν]] [[G1473\|αυτοίς]] [[G1722\|εν]] [[H3270\|Ιαζήρ]] [[G3588\|της]] [[H1568\|Γαλααδίτιδος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JERIAH|JERIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.26.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.30|<< 1 Chronicles 26:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.32|1 Chronicles 26:32 >>]]</td></tr></table>
 
@@ -37,6 +100,6 @@ Of the Hebronites, Jerijah \[was\] the ruler of the Hebronites according to thei
 | Jazer | **<big>[[H3270\|Ιαζήρ]]</big>** |
 | of the | **<big>[[G3588\|της]]</big>** |
 | Gileadite. | **<big>[[H1568\|Γαλααδίτιδος]]</big>** |
-[[1Chr.26.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.30|<< 1 Chronicles 26:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.32|1 Chronicles 26:32 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.26.30|<< 1 Chronicles 26:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.26.32|1 Chronicles 26:32 >>]]</td></tr></table>
 
 

@@ -1,6 +1,57 @@
+---
+title: LXX 2 Chronicles 20:8
+type: Verse
+lxx: "And they dwell in it, and built to you in it a sanctuary to your name, saying,"
+greek: "και κατώκησαν εν αυτή και ωκοδόμησάν σοι εν αυτή αγίασμα τω ονόματί σου λέγοντες"
+original_language: Greek
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- septuagint
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BATTLE|BATTLE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3618]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G6114]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G3004]]"
+---
+
 **LXX 2 Chronicles 20:8** 
 <small><sub>**LXX:**</sub></small>
 And they dwell in it, and built to you in it a sanctuary \[to\] your name, saying, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2730\|κατώκησαν]] [[G1722\|εν]] [[G1473\|αυτή]] [[G2532\|και]] [[G3618\|ωκοδόμησάν]] [[G1473\|σοι]] [[G1722\|εν]] [[G1473\|αυτή]] [[G6114\|αγίασμα]] [[G3588\|τω]] [[G3686\|ονόματί]] [[G1473\|σου]] [[G3004\|λέγοντες]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BATTLE|BATTLE]] • [[topic CHURCH|CHURCH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Chr.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.7|<< 2 Chronicles 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.9|2 Chronicles 20:9 >>]]</td></tr></table>
 
@@ -19,6 +70,6 @@ And they dwell in it, and built to you in it a sanctuary \[to\] your name, sayin
 | \[to\]\<obj.> | **<big>[[G3588\|τω]]</big>** |
 | your name, | **<big>[[G3686\|ονόματί]]</big>** **<big>[[G1473\|σου]]</big>** |
 | saying, | **<big>[[G3004\|λέγοντες]]</big>** |
-[[2Chr.20.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.7|<< 2 Chronicles 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.9|2 Chronicles 20:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Chr.20.7|<< 2 Chronicles 20:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Chr.20.9|2 Chronicles 20:9 >>]]</td></tr></table>
 
 

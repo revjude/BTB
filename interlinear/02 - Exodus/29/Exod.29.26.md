@@ -1,8 +1,68 @@
+---
+title: Exodus 29:26
+type: Verse
+kjv: "And thou shalt take the breast of the ram of Aaron’s consecration, and wave it for a wave offering before the LORD: and it shall be thy part."
+bsb: "Take the breast of the ram of Aaron’s ordination and wave it before the LORD as a wave offering, and it will be your portion."
+hebrew: "וְלָקַחְתָּ֣ אֶת־ הֶֽחָזֶ֗ה מֵאֵ֤יל הַמִּלֻּאִים֙ אֲשֶׁ֣ר לְאַהֲרֹ֔ן וְהֵנַפְתָּ֥ אֹת֛וֹ תְּנוּפָ֖ה לִפְנֵ֣י יְהוָ֑ה וְהָיָ֥ה לְךָ֖ לְמָנָֽה׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2373]]"
+- "[[H9006]]"
+- "[[H0352A]]"
+- "[[H4394]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H5130B]]"
+- "[[H9033]]"
+- "[[H8573]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9031]]"
+- "[[H4490]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:26**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take the breast of the ram of Aaron’s consecration, and wave it [for] a wave offering before the LORD: and it shall be thy part.
 <small><sub>**BSB:**</sub></small>
 Take the breast of the ram of Aaron’s ordination and wave it before the LORD as a wave offering, and it will be your portion.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֣]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶֽ]][[H2373\|חָזֶ֗ה]] [[H9006\|מֵ]][[H0352A\|אֵ֤יל]] [[H9009\|הַ]][[H4394\|מִּלֻּאִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֔ן]] [[H9001\|וְ]][[H5130B\|הֵנַפְתָּ֥]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H8573\|תְּנוּפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H4490\|מָנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.25|<< Exodus 29:25]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.27|Exodus 29:27 >>]]</td></tr></table>
 

@@ -1,8 +1,78 @@
+---
+title: Nehemiah 13:19
+type: Verse
+kjv: "And it came to pass, that when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened till after the sabbath: and some of my servants set I at the gates, that there should no burden be brought in on the sabbath day."
+bsb: "When the evening shadows began to fall on the gates of Jerusalem, just before the Sabbath, I ordered that the gates be shut and not opened until after the Sabbath. I posted some of my servants at the gates so that no load could enter on the Sabbath day."
+hebrew: "וַיְהִ֡י כַּאֲשֶׁ֣ר צָֽלֲלוּ֩ שַׁעֲרֵ֨י יְרוּשָׁלִַ֜ם לִפְנֵ֣י הַשַּׁבָּ֗ת וָאֹֽמְרָה֙ וַיִּסָּגְר֣וּ הַדְּלָת֔וֹת וָאֹ֣מְרָ֔ה אֲשֶׁר֙ לֹ֣א יִפְתָּח֔וּם עַ֖ד אַחַ֣ר הַשַּׁבָּ֑ת וּמִנְּעָרַ֗י הֶֽעֱמַ֙דְתִּי֙ עַל־ הַשְּׁעָרִ֔ים לֹא־ יָב֥וֹא מַשָּׂ֖א בְּי֥וֹם הַשַּׁבָּֽת׃"
+pericope: "[[Neh.13.15 The Sabbath Restored|The Sabbath Restored]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GATES|GATES]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRAFFIC|TRAFFIC]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6751]]"
+- "[[H8179G]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H0559]]"
+- "[[H9012]]"
+- "[[H5462]]"
+- "[[H1817C]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H6605A]]"
+- "[[H9038]]"
+- "[[H5704]]"
+- "[[H0310A]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H5288]]"
+- "[[H9020]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H4853A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:19**<big><big>[[Neh.13.15 The Sabbath Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that when the gates of Jerusalem began to be dark before the sabbath, I commanded that the gates should be shut, and charged that they should not be opened till after the sabbath: and [some] of my servants set I at the gates, [that] there should no burden be brought in on the sabbath day.
 <small><sub>**BSB:**</sub></small>
 When the evening shadows began to fall on the gates of Jerusalem, just before the Sabbath, I ordered that the gates be shut and not opened until after the Sabbath. I posted some of my servants at the gates so that no load could enter on the Sabbath day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6751\|צָֽלֲלוּ֩]] [[H8179G\|שַׁעֲרֵ֨י]] [[H3389\|יְרוּשָׁלִַ֜ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֗ת]] [[H9001\|וָ]][[H0559\|אֹֽמְרָ]][[H9012\|ה֙]] [[H9001\|וַ]][[H5462\|יִּסָּגְר֣וּ]] [[H9009\|הַ]][[H1817C\|דְּלָת֔וֹת]] [[H9001\|וָ]][[H0559\|אֹ֣מְרָ֔]][[H9012\|ה]] [[H0834A\|אֲשֶׁר֙]] [[H3808\|לֹ֣א]] [[H6605A\|יִפְתָּח֔וּ]][[H9038\|ם]] [[H5704\|עַ֖ד]] [[H0310A\|אַחַ֣ר]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֑ת]] [[H9002\|וּ]][[H9006\|מִ]][[H5288\|נְּעָרַ֗]][[H9020\|י]] [[H5975G\|הֶֽעֱמַ֙דְתִּי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H8179G\|שְּׁעָרִ֔ים]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|יָב֥וֹא]] [[H4853A\|מַשָּׂ֖א]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]] • [[topic HARVEST|HARVEST]] • [[topic SABBATH|SABBATH]] • [[topic TRAFFIC|TRAFFIC]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.18|<< Nehemiah 13:18]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.20|Nehemiah 13:20 >>]]</td></tr></table>
 

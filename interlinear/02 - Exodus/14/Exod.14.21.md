@@ -1,8 +1,77 @@
+---
+title: Exodus 14:21
+type: Verse
+kjv: "And Moses stretched out his hand over the sea; and the LORD caused the sea to go back by a strong east wind all that night, and made the sea dry land, and the waters were divided."
+bsb: "Then Moses stretched out his hand over the sea, and all that night the LORD drove back the sea with a strong east wind that turned it into dry land. So the waters were divided,"
+hebrew: "וַיֵּ֨ט מֹשֶׁ֣ה אֶת־ יָדוֹ֮ עַל־ הַיָּם֒ וַיּ֣וֹלֶךְ יְהוָ֣ה׀ אֶת־ הַ֠יָּם בְּר֨וּחַ קָדִ֤ים עַזָּה֙ כָּל־ הַלַּ֔יְלָה וַיָּ֥שֶׂם אֶת־ הַיָּ֖ם לֶחָרָבָ֑ה וַיִּבָּקְע֖וּ הַמָּֽיִם׃"
+pericope: "[[Exod.14.15 Parting the Red Sea|Parting the Red Sea]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5186]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H1980O]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7307H]]"
+- "[[H6921]]"
+- "[[H5794]]"
+- "[[H3605]]"
+- "[[H3915]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H2724]]"
+- "[[H1234]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:21**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses stretched out his hand over the sea; and the LORD caused the sea to go [back] by a strong east wind all that night, and made the sea dry [land], and the waters were divided.
 <small><sub>**BSB:**</sub></small>
 Then Moses stretched out his hand over the sea, and all that night the LORD drove back the sea with a strong east wind that turned it into dry land. So the waters were divided,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5186\|יֵּ֨ט]] [[H4872\|מֹשֶׁ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָד]][[H9023\|וֹ֮]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּם֒]] [[H9001\|וַ]][[H1980O\|יּ֣וֹלֶךְ]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֠]][[H3220G\|יָּם]] [[H9003\|בְּ]][[H7307H\|ר֨וּחַ]] [[H6921\|קָדִ֤ים]] [[H5794\|עַזָּה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לַּ֔יְלָה]] [[H9001\|וַ]][[H7760A\|יָּ֥שֶׂם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9005\|לֶ]][[H2724\|חָרָבָ֑ה]] [[H9001\|וַ]][[H1234\|יִּבָּקְע֖וּ]] [[H9009\|הַ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAYER|PRAYER]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.20|<< Exodus 14:20]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.22|Exodus 14:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

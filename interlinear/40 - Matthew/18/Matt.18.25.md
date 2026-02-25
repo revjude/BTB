@@ -1,10 +1,68 @@
+---
+title: Matthew 18:25
+type: Verse
+kjv: "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made."
+bsb: "Since the man was unable to pay, the master ordered that he be sold to pay his debt, along with his wife and children and everything he owned."
+jesus_said: "But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made."
+greek: "μὴ ἔχοντος δὲ αὐτοῦ ἀποδοῦναι ἐκέλευσεν αὐτὸν ὁ κύριος αὐτοῦ πραθῆναι καὶ τὴν γυναῖκα αὐτοῦ καὶ τὰ τέκνα καὶ πάντα ὅσα ἔχει καὶ ἀποδοθῆναι.¶"
+pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3361]]"
+- "[[G2192]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0591]]"
+- "[[G2753]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G4097]]"
+- "[[G2532]]"
+- "[[G1135H]]"
+- "[[G5043]]"
+- "[[G3956]]"
+- "[[G3745]]"
+texts:
+- NKO
+- k
+- ko
+- N(k)O
+---
+
 **Matthew 18:25**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.
 <small><sub>**BSB:**</sub></small>
 Since the man was unable to pay, the master ordered that he be sold to pay his debt, along with his wife and children and everything he owned.
-<small><sub>**Literal:**</sub></small>
-[When] not is having [anything] now he to pay he commanded him the master of him to be sold and the wife of him and the children and all as much as he has and payment to be made.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.24|<< Matthew 18:24]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.26|Matthew 18:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G2192\|ἔχοντος]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G0591\|ἀποδοῦναι]]  [[G2753\|ἐκέλευσεν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G0846\|αὐτοῦ]]  [[G4097\|πραθῆναι]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G5043\|τέκνα]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G3745\|ὅσα]]  [[G2192\|ἔχει]]  [[G2532\|καὶ]]  [[G0591\|ἀποδοθῆναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CHILDREN|CHILDREN]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SERVANT|SERVANT]] • [[topic SIN|SIN]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.24|<< Matthew 18:24]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.26|Matthew 18:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

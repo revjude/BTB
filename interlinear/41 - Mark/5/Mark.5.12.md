@@ -1,10 +1,58 @@
+---
+title: Mark 5:12
+type: Verse
+kjv: "And all the devils besought him, saying, Send us into the swine, that we may enter into them."
+bsb: "So the demons begged Jesus, “Send us to the pigs, so that we may enter them.”"
+greek: "καὶ παρεκάλεσαν αὐτὸν πάντες οἱ δαίμονες λέγοντες· πέμψον ἡμᾶς εἰς τοὺς χοίρους ἵνα εἰς αὐτοὺς εἰσέλθωμεν."
+pericope: "[[Mark.5.1 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic GADARENES|GADARENES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1142]]"
+- "[[G3004G]]"
+- "[[G3992]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G5519]]"
+- "[[G2443]]"
+- "[[G1525]]"
+texts:
+- NKO
+- K
+---
+
 **Mark 5:12**<big><big>[[Mark.5.1 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the devils besought him, saying, Send us into the swine, that we may enter into them.
 <small><sub>**BSB:**</sub></small>
 So the demons begged Jesus, “Send us to the pigs, so that we may enter them.”
-<small><sub>**Literal:**</sub></small>
-And they begged Him all <the> demons saying; do send us into the pigs so that into them let us enter.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.11|<< Mark 5:11]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.13|Mark 5:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3870\|παρεκάλεσαν]]  [[G0846\|αὐτὸν]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G1142\|δαίμονες]]  [[G3004G\|λέγοντες·]]  [[G3992\|πέμψον]]  [[G3165\|ἡμᾶς]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G5519\|χοίρους]]  [[G2443\|ἵνα]]  [[G1519\|εἰς]]  [[G0846\|αὐτοὺς]]  [[G1525\|εἰσέλθωμεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic GADARENES|GADARENES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SWINE|SWINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.11|<< Mark 5:11]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.13|Mark 5:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

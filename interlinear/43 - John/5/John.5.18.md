@@ -1,10 +1,67 @@
+---
+title: John 5:18
+type: Verse
+kjv: "Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God."
+bsb: "Because of this, the Jews tried all the harder to kill Him. Not only was He breaking the Sabbath, but He was even calling God His own Father, making Himself equal with God."
+greek: "διὰ τοῦτο οὖν μᾶλλον ἐζήτουν αὐτὸν οἱ Ἰουδαῖοι ἀποκτεῖναι, ὅτι οὐ μόνον ἔλυεν τὸ σάββατον, ἀλλὰ καὶ πατέρα ἴδιον ἔλεγεν τὸν θεὸν ἴσον ἑαυτὸν ποιῶν τῷ θεῷ."
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3767]]"
+- "[[G3123G]]"
+- "[[G2212]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G0615]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G3089]]"
+- "[[G4521]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G2398]]"
+- "[[G3004H]]"
+- "[[G2316]]"
+- "[[G2470]]"
+- "[[G1438]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **John 5:18**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.
 <small><sub>**BSB:**</sub></small>
 Because of this, the Jews tried all the harder to kill Him. Not only was He breaking the Sabbath, but He was even calling God His own Father, making Himself equal with God.
-<small><sub>**Literal:**</sub></small>
-Because of this therefore [the] more were seeking Him the Jews to kill, because not only was He breaking the Sabbath, but also Father His own He was naming <the> God equal Himself making <the> to God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.17|<< John 5:17]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.19|John 5:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3767\|οὖν]]  [[G3123G\|μᾶλλον]]  [[G2212\|ἐζήτουν]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G0615\|ἀποκτεῖναι,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G3089\|ἔλυεν]]  [[G3588\|τὸ]]  [[G4521\|σάββατον,]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3962\|πατέρα]]  [[G2398\|ἴδιον]]  [[G3004H\|ἔλεγεν]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2470\|ἴσον]]  [[G1438\|ἑαυτὸν]]  [[G4160G\|ποιῶν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic SLANDER|SLANDER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.17|<< John 5:17]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.19|John 5:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

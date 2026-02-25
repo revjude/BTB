@@ -1,8 +1,62 @@
+---
+title: Jeremiah 51:56
+type: Verse
+kjv: "Because the spoiler is come upon her, even upon Babylon, and her mighty men are taken, every one of their bows is broken: for the LORD God of recompences shall surely requite."
+bsb: "For a destroyer is coming against her—against Babylon. Her warriors will be captured, and their bows will be broken, for the LORD is a God of retribution; He will repay in full."
+hebrew: "כִּי֩ בָ֨א עָלֶ֤יהָ עַל־ בָּבֶל֙ שׁוֹדֵ֔ד וְנִלְכְּדוּ֙ גִּבּוֹרֶ֔יהָ חִתְּתָ֖ה קַשְּׁתוֹתָ֑ם כִּ֣י אֵ֧ל גְּמֻל֛וֹת יְהוָ֖ה שַׁלֵּ֥ם יְשַׁלֵּֽם׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H7703]]"
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H1368]]"
+- "[[H9024]]"
+- "[[H2865]]"
+- "[[H7198]]"
+- "[[H9028]]"
+- "[[H0410G]]"
+- "[[H1578]]"
+- "[[H3068G]]"
+- "[[H7999A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:56**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because the spoiler is come upon her, [even] upon Babylon, and her mighty men are taken, every one of their bows is broken: for the LORD God of recompences shall surely requite.
 <small><sub>**BSB:**</sub></small>
 For a destroyer is coming against her—against Babylon. Her warriors will be captured, and their bows will be broken, for the LORD is a God of retribution; He will repay in full.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H0935G\|בָ֨א]] [[H5921A\|עָלֶ֤י]][[H9034\|הָ]] [[H5921A\|עַל]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H7703\|שׁוֹדֵ֔ד]] [[H9001\|וְ]][[H3920\|נִלְכְּדוּ֙]] [[H1368\|גִּבּוֹרֶ֔י]][[H9024\|הָ]] [[H2865\|חִתְּתָ֖ה]] [[H7198\|קַשְּׁתוֹתָ֑]][[H9028\|ם]] [[H3588A\|כִּ֣י]] [[H0410G\|אֵ֧ל]] [[H1578\|גְּמֻל֛וֹת]] [[H3068G\|יְהוָ֖ה]] [[H7999A\|שַׁלֵּ֥ם]] [[H7999A\|יְשַׁלֵּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.55|<< Jeremiah 51:55]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.57|Jeremiah 51:57 >>]]</td></tr></table>
 

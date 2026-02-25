@@ -1,10 +1,67 @@
+---
+title: Matthew 17:12
+type: Verse
+kjv: "But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them."
+bsb: "But I tell you that Elijah has already come, and they did not recognize him, but have done to him whatever they wished. In the same way, the Son of Man will suffer at their hands.”"
+jesus_said: "But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them."
+greek: "λέγω δὲ ὑμῖν ὅτι Ἠλίας ἤδη ἦλθεν, καὶ οὐκ ἐπέγνωσαν αὐτὸν ἀλλ᾽ ἐποίησαν ἐν αὐτῷ ὅσα ἠθέλησαν· οὕτως καὶ ὁ υἱὸς τοῦ ἀνθρώπου μέλλει πάσχειν ὑπ᾽ αὐτῶν."
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2243]]"
+- "[[G2235]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1921]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G4160G]]"
+- "[[G1722]]"
+- "[[G3745]]"
+- "[[G2309]]"
+- "[[G3779]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3195]]"
+- "[[G3958]]"
+- "[[G5259G]]"
+texts:
+- NKO
+---
+
 **Matthew 17:12**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I say unto you, That Elias is come already, and they knew him not, but have done unto him whatsoever they listed. Likewise shall also the Son of man suffer of them.
 <small><sub>**BSB:**</sub></small>
 But I tell you that Elijah has already come, and they did not recognize him, but have done to him whatever they wished. In the same way, the Son of Man will suffer at their hands.”
-<small><sub>**Literal:**</sub></small>
-I say however to you that Elijah already is come, and not they knew him but did to him as much as they desired; Thus also the Son <the> of Man is about to suffer from them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.11|<< Matthew 17:11]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.13|Matthew 17:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G2243\|Ἠλίας]]  [[G2235\|ἤδη]]  [[G2064\|ἦλθεν,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1921\|ἐπέγνωσαν]]  [[G0846\|αὐτὸν]]  [[G0235\|ἀλλ᾽]]  [[G4160G\|ἐποίησαν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3745\|ὅσα]]  [[G2309\|ἠθέλησαν·]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3195\|μέλλει]]  [[G3958\|πάσχειν]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.11|<< Matthew 17:11]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.13|Matthew 17:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

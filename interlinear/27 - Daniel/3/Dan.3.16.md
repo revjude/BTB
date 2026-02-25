@@ -1,8 +1,70 @@
+---
+title: Daniel 3:16
+type: Verse
+kjv: "Shadrach, Meshach, and Abednego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer thee in this matter."
+bsb: "Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we have no need to answer you in this matter."
+aramaic: "עֲנ֗וֹ שַׁדְרַ֤ךְ מֵישַׁךְ֙ וַעֲבֵ֣ד נְג֔וֹ וְאָמְרִ֖ין לְמַלְכָּ֑א נְבֽוּכַדְנֶצַּ֔ר לָֽא־ חַשְׁחִ֨ין אֲנַ֧חְנָה עַל־ דְּנָ֛ה פִּתְגָ֖ם לַהֲתָבוּתָֽךְ׃"
+pericope: "[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|Shadrach, Meshach, and Abednego Accused]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H6032]]"
+- "[[H7715]]"
+- "[[H4336]]"
+- "[[H9002]]"
+- "[[H5665]]"
+- "[[H0560]]"
+- "[[H9005]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H5020]]"
+- "[[H3809]]"
+- "[[H9014]]"
+- "[[H2818A]]"
+- "[[H0586]]"
+- "[[H5922]]"
+- "[[H1836]]"
+- "[[H6600]]"
+- "[[H8421I]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 3:16**<big><big>[[Dan.3.8 Shadrach, Meshach, and Abednego Accused|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shadrach, Meshach, and Abednego, answered and said to the king, O Nebuchadnezzar, we [are] not careful to answer thee in this matter.
 <small><sub>**BSB:**</sub></small>
 Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we have no need to answer you in this matter.
+<small><sub>**Aramaic:**</sub></small>
+[[H6032\|עֲנ֗וֹ]] [[H7715\|שַׁדְרַ֤ךְ]] [[H4336\|מֵישַׁךְ֙]] [[H9002\|וַ]][[H5665\|עֲבֵ֣ד]] [[H5665\|נְג֔וֹ]] [[H9002\|וְ]][[H0560\|אָמְרִ֖ין]] [[H9005\|לְ]][[H4430\|מַלְכָּ֑]][[H9010\|א]] [[H5020\|נְבֽוּכַדְנֶצַּ֔ר]] [[H3809\|לָֽא]][[H9014\|־]] [[H2818A\|חַשְׁחִ֨ין]] [[H0586\|אֲנַ֧חְנָה]] [[H5922\|עַל]][[H9014\|־]] [[H1836\|דְּנָ֛ה]] [[H6600\|פִּתְגָ֖ם]] [[H9005\|לַ]][[H8421I\|הֲתָבוּתָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic COERCION|COERCION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic FURNACE|FURNACE]] • [[topic MESHACH|MESHACH]] • [[topic MISHAEL|MISHAEL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.15|<< Daniel 3:15]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.17|Daniel 3:17 >>]]</td></tr></table>
 

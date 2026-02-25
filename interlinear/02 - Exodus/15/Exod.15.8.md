@@ -1,8 +1,72 @@
+---
+title: Exodus 15:8
+type: Verse
+kjv: "And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, and the depths were congealed in the heart of the sea."
+bsb: "At the blast of Your nostrils the waters piled up; like a wall the currents stood firm; the depths congealed in the heart of the sea."
+hebrew: "וּבְר֤וּחַ אַפֶּ֙יךָ֙ נֶ֣עֶרְמוּ מַ֔יִם נִצְּב֥וּ כְמוֹ־ נֵ֖ד נֹזְלִ֑ים קָֽפְא֥וּ תְהֹמֹ֖ת בְּלֶב־ יָֽם׃"
+pericope: "[[Exod.15.1 The Song at the Sea|The Song at the Sea]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 15
+book/chapter: "[[Exod.15|Exodus 15]]"
+chronological_order: 107
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLASTING|BLASTING]]"
+- "[[topic EPIC|EPIC]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SONG|SONG]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7307H]]"
+- "[[H0639H]]"
+- "[[H9021]]"
+- "[[H6192]]"
+- "[[H4325G]]"
+- "[[H5324]]"
+- "[[H3644G]]"
+- "[[H9014]]"
+- "[[H5067]]"
+- "[[H5140]]"
+- "[[H7087A]]"
+- "[[H8415]]"
+- "[[H3820A]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 15:8**<big><big>[[Exod.15.1 The Song at the Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with the blast of thy nostrils the waters were gathered together, the floods stood upright as an heap, [and] the depths were congealed in the heart of the sea.
 <small><sub>**BSB:**</sub></small>
 At the blast of Your nostrils the waters piled up; like a wall the currents stood firm; the depths congealed in the heart of the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H7307H\|ר֤וּחַ]] [[H0639H\|אַפֶּ֙י]][[H9021\|ךָ֙]] [[H6192\|נֶ֣עֶרְמוּ]] [[H4325G\|מַ֔יִם]] [[H5324\|נִצְּב֥וּ]] [[H3644G\|כְמוֹ]][[H9014\|־]] [[H5067\|נֵ֖ד]] [[H5140\|נֹזְלִ֑ים]] [[H7087A\|קָֽפְא֥וּ]] [[H8415\|תְהֹמֹ֖ת]] [[H9003\|בְּ]][[H3820A\|לֶב]][[H9014\|־]] [[H3220G\|יָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASTING|BLASTING]] • [[topic EPIC|EPIC]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JOY|JOY]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SONG|SONG]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.15.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.7|<< Exodus 15:7]]</td><td align="center" style="border:none;">[[Exod.15|Exodus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.15.9|Exodus 15:9 >>]]</td></tr></table>
 

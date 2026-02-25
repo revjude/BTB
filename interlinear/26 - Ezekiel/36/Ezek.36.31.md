@@ -1,8 +1,66 @@
+---
+title: Ezekiel 36:31
+type: Verse
+kjv: "Then shall ye remember your own evil ways, and your doings that were not good, and shall lothe yourselves in your own sight for your iniquities and for your abominations."
+bsb: "Then you will remember your evil ways and wicked deeds, and you will loathe yourselves for your iniquities and abominations."
+hebrew: "וּזְכַרְתֶּם֙ אֶת־ דַּרְכֵיכֶ֣ם הָרָעִ֔ים וּמַעַלְלֵיכֶ֖ם אֲשֶׁ֣ר לֹֽא־ טוֹבִ֑ים וּנְקֹֽטֹתֶם֙ בִּפְנֵיכֶ֔ם עַ֚ל עֲוֹנֹ֣תֵיכֶ֔ם וְעַ֖ל תּוֹעֲבֽוֹתֵיכֶֽם׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H4611]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H2896A]]"
+- "[[H6962]]"
+- "[[H9003]]"
+- "[[H6440L]]"
+- "[[H5921A]]"
+- "[[H5771G]]"
+- "[[H8441]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:31**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall ye remember your own evil ways, and your doings that [were] not good, and shall lothe yourselves in your own sight for your iniquities and for your abominations.
 <small><sub>**BSB:**</sub></small>
 Then you will remember your evil ways and wicked deeds, and you will loathe yourselves for your iniquities and abominations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H2142\|זְכַרְתֶּם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1870G\|דַּרְכֵי]][[H9026\|כֶ֣ם]] [[H9009\|הָ]][[H7451H\|רָעִ֔ים]] [[H9002\|וּ]][[H4611\|מַעַלְלֵי]][[H9026\|כֶ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2896A\|טוֹבִ֑ים]] [[H9001\|וּ]][[H6962\|נְקֹֽטֹתֶם֙]] [[H9003\|בִּ]][[H6440L\|פְנֵי]][[H9026\|כֶ֔ם]] [[H5921A\|עַ֚ל]] [[H5771G\|עֲוֹנֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H8441\|תּוֹעֲבֽוֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.30|<< Ezekiel 36:30]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.32|Ezekiel 36:32 >>]]</td></tr></table>
 

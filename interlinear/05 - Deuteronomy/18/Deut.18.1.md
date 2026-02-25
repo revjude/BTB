@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 18:1
+type: Verse
+kjv: "The priests the Levites, and all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance."
+bsb: "The Levitical priests—indeed the whole tribe of Levi—shall have no portion or inheritance with Israel. They are to eat the food offerings to the LORD; that is their inheritance."
+hebrew: "לֹֽא־ יִ֠הְיֶה לַכֹּהֲנִ֨ים הַלְוִיִּ֜ם כָּל־ שֵׁ֧בֶט לֵוִ֛י חֵ֥לֶק וְנַחֲלָ֖ה עִם־ יִשְׂרָאֵ֑ל אִשֵּׁ֧י יְהוָ֛ה וְנַחֲלָת֖וֹ יֹאכֵלֽוּן׃"
+pericope: "[[Deut.18.1 Provision for Priests and Levites|Provision for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3605]]"
+- "[[H7626H]]"
+- "[[H3878]]"
+- "[[H2506A]]"
+- "[[H9002]]"
+- "[[H5159]]"
+- "[[H5973A]]"
+- "[[H3478]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H9023]]"
+- "[[H0398]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:1**<big><big>[[Deut.18.1 Provision for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The priests the Levites, [and] all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance.
 <small><sub>**BSB:**</sub></small>
 The Levitical priests—indeed the whole tribe of Levi—shall have no portion or inheritance with Israel. They are to eat the food offerings to the LORD; that is their inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִ֠הְיֶה]] [[H9005\|לַ]][[H3548\|כֹּהֲנִ֨ים]] [[H9009\|הַ]][[H3881\|לְוִיִּ֜ם]] [[H3605\|כָּל]][[H9014\|־]] [[H7626H\|שֵׁ֧בֶט]] [[H3878\|לֵוִ֛י]] [[H2506A\|חֵ֥לֶק]] [[H9002\|וְ]][[H5159\|נַחֲלָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0801\|אִשֵּׁ֧י]] [[H3068G\|יְהוָ֛ה]] [[H9002\|וְ]][[H5159\|נַחֲלָת֖]][[H9023\|וֹ]] [[H0398\|יֹאכֵלֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.20|<< Deuteronomy 17:20]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.2|Deuteronomy 18:2 >>]]</td></tr></table>
 

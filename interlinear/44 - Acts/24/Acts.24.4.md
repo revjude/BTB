@@ -1,10 +1,54 @@
+---
+title: Acts 24:4
+type: Verse
+kjv: "Notwithstanding, that I be not further tedious unto thee, I pray thee that thou wouldest hear us of thy clemency a few words."
+bsb: "But in order not to delay you any further, I beg your indulgence to hear us briefly."
+greek: "ἵνα δὲ μὴ ἐπὶ πλεῖόν σε ἐγκόπτω, παρακαλῶ ἀκοῦσαί σε ἡμῶν συντόμως τῇ σῇ ἐπιεικείᾳ."
+pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADVOCATE|ADVOCATE]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2443]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1909]]"
+- "[[G4119]]"
+- "[[G4771]]"
+- "[[G1465]]"
+- "[[G3870]]"
+- "[[G0191]]"
+- "[[G3165]]"
+- "[[G4935]]"
+- "[[G3588]]"
+- "[[G1932]]"
+texts:
+- NKO
+---
+
 **Acts 24:4**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Notwithstanding, that I be not further tedious unto thee, I pray thee that thou wouldest hear us of thy clemency a few words.
 <small><sub>**BSB:**</sub></small>
 But in order not to delay you any further, I beg your indulgence to hear us briefly.
-<small><sub>**Literal:**</sub></small>
-In order that however not to any longer you I may be a hindrance, I implore to hear you us briefly <the> in your kindness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.3|<< Acts 24:3]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.5|Acts 24:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G1909\|ἐπὶ]]  [[G4119\|πλεῖόν]]  [[G4771\|σε]]  [[G1465\|ἐγκόπτω,]]  [[G3870\|παρακαλῶ]]  [[G0191\|ἀκοῦσαί]]  [[G4771\|σε]]  [[G3165\|ἡμῶν]]  [[G4935\|συντόμως]]  [[G3588\|τῇ]]  [[G4771\|σῇ]]  [[G1932\|ἐπιεικείᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADVOCATE|ADVOCATE]] • [[topic FLATTERY|FLATTERY]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.3|<< Acts 24:3]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.5|Acts 24:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

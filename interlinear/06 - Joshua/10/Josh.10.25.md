@@ -1,8 +1,76 @@
+---
+title: Joshua 10:25
+type: Verse
+kjv: "And Joshua said unto them, Fear not, nor be dismayed, be strong and of good courage: for thus shall the LORD do to all your enemies against whom ye fight."
+bsb: "“Do not be afraid or discouraged,” Joshua said. “Be strong and courageous, for the LORD will do this to all the enemies you fight.”"
+hebrew: "וַיֹּ֤אמֶר אֲלֵיהֶם֙ יְהוֹשֻׁ֔עַ אַל־ תִּֽירְא֖וּ וְאַל־ תֵּחָ֑תּוּ חִזְק֣וּ וְאִמְצ֔וּ כִּ֣י כָ֗כָה יַעֲשֶׂ֤ה יְהוָה֙ לְכָל־ אֹ֣יְבֵיכֶ֔ם אֲשֶׁ֥ר אַתֶּ֖ם נִלְחָמִ֥ים אוֹתָֽם׃"
+pericope: "[[Josh.10.16 The Victory at Makkedah|The Victory at Makkedah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MAKKEDAH|MAKKEDAH]]"
+- "[[topic PIRAM|PIRAM]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3091G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H9002]]"
+- "[[H2865]]"
+- "[[H2388G]]"
+- "[[H0553]]"
+- "[[H3588A]]"
+- "[[H3602]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H0341]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H3898A]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:25**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto them, Fear not, nor be dismayed, be strong and of good courage: for thus shall the LORD do to all your enemies against whom ye fight.
 <small><sub>**BSB:**</sub></small>
 “Do not be afraid or discouraged,” Joshua said. “Be strong and courageous, for the LORD will do this to all the enemies you fight.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְא֖וּ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2865\|תֵּחָ֑תּוּ]] [[H2388G\|חִזְק֣וּ]] [[H9002\|וְ]][[H0553\|אִמְצ֔וּ]] [[H3588A\|כִּ֣י]] [[H3602\|כָ֗כָה]] [[H6213A\|יַעֲשֶׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0341\|אֹ֣יְבֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֖ם]] [[H3898A\|נִלְחָמִ֥ים]] [[H0853\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic CAVE|CAVE]] • [[topic DEBIR|DEBIR]] • [[topic FAITH|FAITH]] • [[topic HEBRON|HEBRON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MAKKEDAH|MAKKEDAH]] • [[topic PIRAM|PIRAM]] • [[topic PRISONERS|PRISONERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.24|<< Joshua 10:24]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.26|Joshua 10:26 >>]]</td></tr></table>
 

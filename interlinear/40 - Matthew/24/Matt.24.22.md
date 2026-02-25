@@ -1,10 +1,62 @@
+---
+title: Matthew 24:22
+type: Verse
+kjv: "And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened."
+bsb: "If those days had not been cut short, nobody would be saved. But for the sake of the elect, those days will be cut short."
+jesus_said: "And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened."
+greek: "καὶ εἰ μὴ ἐκολοβώθησαν αἱ ἡμέραι ἐκεῖναι, οὐκ ἂν ἐσώθη πᾶσα σάρξ· διὰ δὲ τοὺς ἐκλεκτοὺς κολοβωθήσονται αἱ ἡμέραι ἐκεῖναι.¶"
+pericope: "[[Matt.24.15 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1487G]]"
+- "[[G3361]]"
+- "[[G2856]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G3756]]"
+- "[[G0302]]"
+- "[[G4982]]"
+- "[[G3956]]"
+- "[[G4561]]"
+- "[[G1223]]"
+- "[[G1161]]"
+- "[[G1588]]"
+texts:
+- NKO
+---
+
 **Matthew 24:22**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And except those days should be shortened, there should no flesh be saved: but for the elect’s sake those days shall be shortened.
 <small><sub>**BSB:**</sub></small>
 If those days had not been cut short, nobody would be saved. But for the sake of the elect, those days will be cut short.
-<small><sub>**Literal:**</sub></small>
-And only unless was shortened the days those, not then would there have been saved any flesh; because of however the elect will be shortened the days those.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.21|<< Matthew 24:21]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.23|Matthew 24:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1487G\|εἰ]]  [[G3361\|μὴ]]  [[G2856\|ἐκολοβώθησαν]]  [[G3588\|αἱ]]  [[G2250\|ἡμέραι]]  [[G1565\|ἐκεῖναι,]]  [[G3756\|οὐκ]]  [[G0302\|ἂν]]  [[G4982\|ἐσώθη]]  [[G3956\|πᾶσα]]  [[G4561\|σάρξ·]]  [[G1223\|διὰ]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G1588\|ἐκλεκτοὺς]]  [[G2856\|κολοβωθήσονται]]  [[G3588\|αἱ]]  [[G2250\|ἡμέραι]]  [[G1565\|ἐκεῖναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.21|<< Matthew 24:21]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.23|Matthew 24:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

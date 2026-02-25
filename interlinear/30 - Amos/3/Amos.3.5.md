@@ -1,8 +1,62 @@
+---
+title: Amos 3:5
+type: Verse
+kjv: "Can a bird fall in a snare upon the earth, where no gin is for him? shall one take up a snare from the earth, and have taken nothing at all?"
+bsb: "Does a bird land in a snare where no bait has been set? Does a trap spring from the ground when it has nothing to catch?"
+hebrew: "הֲתִפֹּ֤ל צִפּוֹר֙ עַל־ פַּ֣ח הָאָ֔רֶץ וּמוֹקֵ֖שׁ אֵ֣ין לָ֑הּ הֲיַֽעֲלֶה־ פַּח֙ מִן־ הָ֣אֲדָמָ֔ה וְלָכ֖וֹד לֹ֥א יִלְכּֽוֹד׃"
+pericope: "[[Amos.3.1 Witnesses against Israel|Witnesses against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 3
+book/chapter: "[[Amos.3|Amos 3]]"
+chronological_order: 600
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GIN|GIN]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic SNARE|SNARE]]"
+strongs:
+- "[[H9008]]"
+- "[[H5307G]]"
+- "[[H6833]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6341A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H4170]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H0127G]]"
+- "[[H3920]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 3:5**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can a bird fall in a snare upon the earth, where no gin [is] for him? shall [one] take up a snare from the earth, and have taken nothing at all?
 <small><sub>**BSB:**</sub></small>
 Does a bird land in a snare where no bait has been set? Does a trap spring from the ground when it has nothing to catch?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H5307G\|תִפֹּ֤ל]] [[H6833\|צִפּוֹר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6341A\|פַּ֣ח]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וּ]][[H4170\|מוֹקֵ֖שׁ]] [[H0369\|אֵ֣ין]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H9008\|הֲ]][[H5927G\|יַֽעֲלֶה]][[H9014\|־]] [[H6341A\|פַּח֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H9002\|וְ]][[H3920\|לָכ֖וֹד]] [[H3808\|לֹ֥א]] [[H3920\|יִלְכּֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIN|GIN]] • [[topic HUNTING|HUNTING]] • [[topic SNARE|SNARE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.4|<< Amos 3:4]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.3.6|Amos 3:6 >>]]</td></tr></table>
 

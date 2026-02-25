@@ -1,8 +1,66 @@
+---
+title: Genesis 19:3
+type: Verse
+kjv: "And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat."
+bsb: "But Lot insisted so strongly that they followed him into his house. He prepared a feast for them and baked unleavened bread, and they ate."
+hebrew: "וַיִּפְצַר־ בָּ֣ם מְאֹ֔ד וַיָּסֻ֣רוּ אֵלָ֔יו וַיָּבֹ֖אוּ אֶל־ בֵּית֑וֹ וַיַּ֤עַשׂ לָהֶם֙ מִשְׁתֶּ֔ה וּמַצּ֥וֹת אָפָ֖ה וַיֹּאכֵֽלוּ׃"
+pericope: "[[Gen.19.1 Lot Welcomes the Angels|Lot Welcomes the Angels]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6484]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3966]]"
+- "[[H5493I]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0935G]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H4960]]"
+- "[[H9002]]"
+- "[[H4682]]"
+- "[[H0644]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:3**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat.
 <small><sub>**BSB:**</sub></small>
 But Lot insisted so strongly that they followed him into his house. He prepared a feast for them and baked unleavened bread, and they ate.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6484\|יִּפְצַר]][[H9014\|־]] [[H9003\|בָּ֣]][[H9038\|ם]] [[H3966\|מְאֹ֔ד]] [[H9001\|וַ]][[H5493I\|יָּסֻ֣רוּ]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּית֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H6213H\|יַּ֤עַשׂ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H4960\|מִשְׁתֶּ֔ה]] [[H9002\|וּ]][[H4682\|מַצּ֥וֹת]] [[H0644\|אָפָ֖ה]] [[H9001\|וַ]][[H0398\|יֹּאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BREAD|BREAD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.2|<< Genesis 19:2]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.4|Genesis 19:4 >>]]</td></tr></table>
 

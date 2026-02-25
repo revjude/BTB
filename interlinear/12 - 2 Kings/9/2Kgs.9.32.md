@@ -1,8 +1,67 @@
+---
+title: 2 Kings 9:32
+type: Verse
+kjv: "And he lifted up his face to the window, and said, Who is on my side? who? And there looked out to him two or three eunuchs."
+bsb: "He looked up at the window and called out, “Who is on my side? Who?” And two or three eunuchs looked down at him."
+hebrew: "וַיִּשָּׂ֤א פָנָיו֙ אֶל־ הַ֣חַלּ֔וֹן וַיֹּ֕אמֶר מִ֥י אִתִּ֖י מִ֑י וַיַּשְׁקִ֣יפוּ אֵלָ֔יו שְׁנַ֥יִם שְׁלֹשָׁ֖ה סָרִיסִֽים׃"
+pericope: "[[2Kgs.9.30 Jezebel’s Violent Death|Jezebel’s Violent Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H6440N]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2474]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H8259]]"
+- "[[H9033]]"
+- "[[H8147]]"
+- "[[H7969]]"
+- "[[H5631]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:32**<big><big>[[2Kgs.9.30 Jezebel’s Violent Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he lifted up his face to the window, and said, Who [is] on my side? who? And there looked out to him two [or] three eunuchs.
 <small><sub>**BSB:**</sub></small>
 He looked up at the window and called out, “Who is on my side? Who?” And two or three eunuchs looked down at him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375G\|יִּשָּׂ֤א]] [[H6440N\|פָנָי]][[H9023\|ו֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ֣]][[H2474\|חַלּ֔וֹן]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H4310\|מִ֥י]] [[H0854\|אִתִּ֖]][[H9030\|י]] [[H4310\|מִ֑י]] [[H9001\|וַ]][[H8259\|יַּשְׁקִ֣יפוּ]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H8147\|שְׁנַ֥יִם]] [[H7969\|שְׁלֹשָׁ֖ה]] [[H5631\|סָרִיסִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic JEZEBEL|JEZEBEL]] • [[topic JEZREEL|JEZREEL]] • [[topic NABOTH|NABOTH]] • [[topic USURPATION|USURPATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.31|<< 2 Kings 9:31]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.33|2 Kings 9:33 >>]]</td></tr></table>
 

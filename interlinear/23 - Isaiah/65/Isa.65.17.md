@@ -1,8 +1,63 @@
+---
+title: Isaiah 65:17
+type: Verse
+kjv: "For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind."
+bsb: "For behold, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind."
+hebrew: "כִּֽי־ הִנְנִ֥י בוֹרֵ֛א שָׁמַ֥יִם חֲדָשִׁ֖ים וָאָ֣רֶץ חֲדָשָׁ֑ה וְלֹ֤א תִזָּכַ֙רְנָה֙ הָרִ֣אשֹׁנ֔וֹת וְלֹ֥א תַעֲלֶ֖ינָה עַל־ לֵֽב׃"
+pericope: "[[Isa.65.17 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H1254A]]"
+- "[[H8064]]"
+- "[[H2319H]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H9009]]"
+- "[[H7223H]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:17**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.
 <small><sub>**BSB:**</sub></small>
 For behold, I will create new heavens and a new earth. The former things will not be remembered, nor will they come to mind.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H1254A\|בוֹרֵ֛א]] [[H8064\|שָׁמַ֥יִם]] [[H2319H\|חֲדָשִׁ֖ים]] [[H9002\|וָ]][[H0776G\|אָ֣רֶץ]] [[H2319H\|חֲדָשָׁ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H2142\|תִזָּכַ֙רְנָה֙]] [[H9009\|הָ]][[H7223H\|רִ֣אשֹׁנ֔וֹת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5927G\|תַעֲלֶ֖ינָה]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EARTH|EARTH]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.16|<< Isaiah 65:16]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.18|Isaiah 65:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

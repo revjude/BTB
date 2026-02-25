@@ -1,10 +1,63 @@
+---
+title: Luke 6:3
+type: Verse
+kjv: "And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;"
+bsb: "Jesus replied, “Have you not read what David did when he and his companions were hungry?"
+jesus_said: "Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;"
+greek: "καὶ ἀποκριθεὶς πρὸς αὐτοὺς εἶπεν ὁ Ἰησοῦς· οὐδὲ τοῦτο ἀνέγνωτε ὃ ἐποίησεν Δαυίδ, ὅτε ἐπείνασεν αὐτὸς καὶ οἱ μετ᾽ αὐτοῦ ὄντες;"
+pericope: "[[Luke.6.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3761]]"
+- "[[G3778]]"
+- "[[G0314]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G1138]]"
+- "[[G3753]]"
+- "[[G3983]]"
+- "[[G3326]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 6:3**<big><big>[[Luke.6.1 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Have you not read what David did when he and his companions were hungry?
-<small><sub>**Literal:**</sub></small>
-And answering to them said <the> Jesus; Surely this have you read what did David, when was hungry he himself and those who with him being?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.2|<< Luke 6:2]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.4|Luke 6:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3761\|οὐδὲ]]  [[G3778\|τοῦτο]]  [[G0314\|ἀνέγνωτε]]  [[G3739\|ὃ]]  [[G4160G\|ἐποίησεν]]  [[G1138\|Δαυίδ,]]  [[G3753\|ὅτε]]  [[G3983\|ἐπείνασεν]]  [[G0846\|αὐτὸς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ]]  [[G1510\|ὄντες;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.2|<< Luke 6:2]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.4|Luke 6:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 6:3** is...
 > $\quad$ alluding to: [[LXX.1Sam.21.6|1Sam 21:6]]

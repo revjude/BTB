@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Additional Achievements
+type: Pericope
 pericope: "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 8
 book/chapter: "[[2Chr.8|2 Chronicles 8]]"
-genre:
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 18
 verses:
 - "[[2Chr.8.1]]"
 - "[[2Chr.8.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[2Chr.8.18]]"
 ---
 
-[[2Chr.8|2 Chronicles 8:1 - 2 Chronicles 8:18]]
+<small>[[2Chr.8|2 Chronicles 8:1-18]]</small>
 *Solomon’s Additional Achievements*
 
 [[2Chr.8.1|1]] And it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house,

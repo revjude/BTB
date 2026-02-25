@@ -1,8 +1,73 @@
+---
+title: 2 Kings 21:8
+type: Verse
+kjv: "Neither will I make the feet of Israel move any more out of the land which I gave their fathers; only if they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them."
+bsb: "I will never again cause the feet of the Israelites to wander from the land that I gave to their fathers, if only they are careful to do all I have commanded them—the whole Law that My servant Moses commanded them.”"
+hebrew: "וְלֹ֣א אֹסִ֗יף לְהָנִיד֙ רֶ֣גֶל יִשְׂרָאֵ֔ל מִן־ הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר נָתַ֖תִּי לַֽאֲבוֹתָ֑ם רַ֣ק׀ אִם־ יִשְׁמְר֣וּ לַעֲשׂ֗וֹת כְּכֹל֙ אֲשֶׁ֣ר צִוִּיתִ֔ים וּלְכָל־ הַ֨תּוֹרָ֔ה אֲשֶׁר־ צִוָּ֥ה אֹתָ֖ם עַבְדִּ֥י מֹשֶֽׁה׃"
+pericope: "[[2Kgs.21.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 21
+book/chapter: "[[2Kgs.21|2 Kings 21]]"
+chronological_order: 706
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H5110]]"
+- "[[H7272]]"
+- "[[H3478]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H7535]]"
+- "[[H9015]]"
+- "[[H0518A]]"
+- "[[H8104J]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H6680]]"
+- "[[H9038]]"
+- "[[H8451]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 21:8**<big><big>[[2Kgs.21.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither will I make the feet of Israel move any more out of the land which I gave their fathers; only if they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.
 <small><sub>**BSB:**</sub></small>
 I will never again cause the feet of the Israelites to wander from the land that I gave to their fathers, if only they are careful to do all I have commanded them—the whole Law that My servant Moses commanded them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3254G\|אֹסִ֗יף]] [[H9005\|לְ]][[H5110\|הָנִיד֙]] [[H7272\|רֶ֣גֶל]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לַֽ]][[H0001G\|אֲבוֹתָ֑]][[H9028\|ם]] [[H7535\|רַ֣ק]][[H9015\|׀]] [[H0518A\|אִם]][[H9014\|־]] [[H8104J\|יִשְׁמְר֣וּ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֗וֹת]] [[H9004\|כְּ]][[H3605\|כֹל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוִּיתִ֔י]][[H9038\|ם]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ֨]][[H8451\|תּוֹרָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H5650\|עַבְדִּ֥]][[H9020\|י]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.21.7|<< 2 Kings 21:7]]</td><td align="center" style="border:none;">[[2Kgs.21|2 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.21.9|2 Kings 21:9 >>]]</td></tr></table>
 

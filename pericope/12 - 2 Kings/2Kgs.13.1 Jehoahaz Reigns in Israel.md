@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoahaz Reigns in Israel
+type: Pericope
 pericope: "[[2Kgs.13.1 Jehoahaz Reigns in Israel|Jehoahaz Reigns in Israel]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 13
 book/chapter: "[[2Kgs.13|2 Kings 13]]"
-genre:
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 9
 verses:
 - "[[2Kgs.13.1]]"
 - "[[2Kgs.13.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Kgs.13.9]]"
 ---
 
-[[2Kgs.13|2 Kings 13:1 - 2 Kings 13:9]]
+<small>[[2Kgs.13|2 Kings 13:1-9]]</small>
 *Jehoahaz Reigns in Israel*
 
 [[2Kgs.13.1|1]] In the three and twentieth year of Joash the son of Ahaziah king of Judah Jehoahaz the son of Jehu began to reign over Israel in Samaria, \[and reigned\] seventeen years.

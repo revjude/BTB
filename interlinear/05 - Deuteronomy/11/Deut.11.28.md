@@ -1,8 +1,80 @@
+---
+title: Deuteronomy 11:28
+type: Verse
+kjv: "And a curse, if ye will not obey the commandments of the LORD your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known."
+bsb: "but a curse if you disobey the commandments of the LORD your God and turn aside from the path I command you today by following other gods, which you have not known."
+hebrew: "וְהַקְּלָלָ֗ה אִם־ לֹ֤א תִשְׁמְעוּ֙ אֶל־ מִצְוֹת֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם וְסַרְתֶּ֣ם מִן־ הַדֶּ֔רֶךְ אֲשֶׁ֧ר אָנֹכִ֛י מְצַוֶּ֥ה אֶתְכֶ֖ם הַיּ֑וֹם לָלֶ֗כֶת אַחֲרֵ֛י אֱלֹהִ֥ים אֲחֵרִ֖ים אֲשֶׁ֥ר לֹֽא־ יְדַעְתֶּֽם׃ ס"
+pericope: "[[Deut.11.26 A Blessing and a Curse|A Blessing and a Curse]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7045]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H0413]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H5493I]]"
+- "[[H4480A]]"
+- "[[H1870G]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H3045]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:28**<big><big>[[Deut.11.26 A Blessing and a Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a curse, if ye will not obey the commandments of the LORD your God, but turn aside out of the way which I command you this day, to go after other gods, which ye have not known.
 <small><sub>**BSB:**</sub></small>
 but a curse if you disobey the commandments of the LORD your God and turn aside from the path I command you today by following other gods, which you have not known.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H7045\|קְּלָלָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֤א]] [[H8085H\|תִשְׁמְעוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4687\|מִצְוֹת֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H5493I\|סַרְתֶּ֣ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1870G\|דֶּ֔רֶךְ]] [[H0834A\|אֲשֶׁ֧ר]] [[H0595\|אָנֹכִ֛י]] [[H6680\|מְצַוֶּ֥ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9005\|לָ]][[H1980N\|לֶ֗כֶת]] [[H0310A\|אַחֲרֵ֛י]] [[H0430\|אֱלֹהִ֥ים]] [[H0312\|אֲחֵרִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יְדַעְתֶּֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REWARD|REWARD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.27|<< Deuteronomy 11:27]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.29|Deuteronomy 11:29 >>]]</td></tr></table>
 
@@ -30,7 +102,7 @@ but a curse if you disobey the commandments of the LORD your God and turn aside 
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֖ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹֽא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have known  |**<big>&#8207;[[H3045\|יְדַעְתֶּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.da'.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have known  |**<big>&#8207;[[H3045\|יְדַעְתֶּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ye.da'.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.27|<< Deuteronomy 11:27]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.29|Deuteronomy 11:29 >>]]</td></tr></table>
 
 

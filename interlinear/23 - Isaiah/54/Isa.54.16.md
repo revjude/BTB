@@ -1,8 +1,63 @@
+---
+title: Isaiah 54:16
+type: Verse
+kjv: "Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy."
+bsb: "Behold, I have created the craftsman who fans the coals into flame and forges a weapon fit for its task; and I have created the destroyer to wreak havoc."
+hebrew: "הִנֵּ֤ה אָֽנֹכִי֙ בָּרָ֣אתִי חָרָ֔שׁ נֹפֵ֙חַ֙ בְּאֵ֣שׁ פֶּחָ֔ם וּמוֹצִ֥יא כְלִ֖י לְמַעֲשֵׂ֑הוּ וְאָנֹכִ֛י בָּרָ֥אתִי מַשְׁחִ֖ית לְחַבֵּֽל׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SMITH|SMITH]]"
+strongs:
+- "[[H2005]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H1254A]]"
+- "[[H2796]]"
+- "[[H5301]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H6352]]"
+- "[[H9002]]"
+- "[[H3318M]]"
+- "[[H3627]]"
+- "[[H9005]]"
+- "[[H4639G]]"
+- "[[H9023]]"
+- "[[H7843]]"
+- "[[H2254B]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Isaiah 54:16**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have created the smith that bloweth the coals in the fire, and that bringeth forth an instrument for his work; and I have created the waster to destroy.
 <small><sub>**BSB:**</sub></small>
 Behold, I have created the craftsman who fans the coals into flame and forges a weapon fit for its task; and I have created the destroyer to wreak havoc.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]] [[H0595\|אָֽנֹכִי֙]] [[H1254A\|בָּרָ֣אתִי]] [[H2796\|חָרָ֔שׁ]] [[H5301\|נֹפֵ֙חַ֙]] [[H9003\|בְּ]][[H0784\|אֵ֣שׁ]] [[H6352\|פֶּחָ֔ם]] [[H9002\|וּ]][[H3318M\|מוֹצִ֥יא]] [[H3627\|כְלִ֖י]] [[H9005\|לְ]][[H4639G\|מַעֲשֵׂ֑]][[H9023\|הוּ]] [[H9002\|וְ]][[H0595\|אָנֹכִ֛י]] [[H1254A\|בָּרָ֥אתִי]] [[H7843\|מַשְׁחִ֖ית]] [[H9005\|לְ]][[H2254B\|חַבֵּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SMITH|SMITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.15|<< Isaiah 54:15]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.17|Isaiah 54:17 >>]]</td></tr></table>
 

@@ -1,6 +1,72 @@
+---
+title: LXX Numbers 19:12
+type: Verse
+lxx: "This one shall be purified on the third day and the seventh day, and he will be clean. But if he should not be purified on the third day, and on the seventh day, he will not be clean."
+greek: "ούτος αγνισθήσεται τη ημέρα τη τρίτη και τη ημέρα τη εβδόμη και καθαρός έσται εάν δε μη αφαγνισθή τη ημέρα τη τρίτη και τη ημέρα τη εβδόμη ου καθαρός έσται"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G3778]]"
+- "[[G0048]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G5154]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G1442]]"
+- "[[G2532]]"
+- "[[G2513]]"
+- "[[G1510]]"
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G6615]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G5154]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G1442]]"
+- "[[G3756]]"
+- "[[G2513]]"
+- "[[G1510]]"
+---
+
 **LXX Numbers 19:12** 
 <small><sub>**LXX:**</sub></small>
 This one shall be purified on the third day and the seventh day, and he will be clean. But if he should not be purified on the third day, and on the seventh day, he will not be clean. 
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ούτος]] [[G0048\|αγνισθήσεται]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3588\|τη]] [[G5154\|τρίτη]] [[G2532\|και]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3588\|τη]] [[G1442\|εβδόμη]] [[G2532\|και]] [[G2513\|καθαρός]] [[G1510\|έσται]] [[G1437\|εάν]] [[G1161\|δε]] [[G3361\|μη]] [[G6615\|αφαγνισθή]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3588\|τη]] [[G5154\|τρίτη]] [[G2532\|και]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3588\|τη]] [[G1442\|εβδόμη]] [[G3756\|ου]] [[G2513\|καθαρός]] [[G1510\|έσται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic MOURNING|MOURNING]] • [[topic SANITATION|SANITATION]] • [[topic WATER|WATER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.11|<< Numbers 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.13|Numbers 19:13 >>]]</td></tr></table>
 
@@ -33,6 +99,6 @@ This one shall be purified on the third day and the seventh day, and he will be 
 | seventh | **<big>[[G1442\|εβδόμη]]</big>** |
 | he will not | **<big>[[G3756\|ου]]</big>** |
 | be clean. | **<big>[[G2513\|καθαρός]]</big>** **<big>[[G1510\|έσται]]</big>** |
-[[Num.19.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.11|<< Numbers 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.13|Numbers 19:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.19.11|<< Numbers 19:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.19.13|Numbers 19:13 >>]]</td></tr></table>
 
 

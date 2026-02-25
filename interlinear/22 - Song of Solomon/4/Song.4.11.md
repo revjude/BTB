@@ -1,8 +1,56 @@
+---
+title: Song of Solomon 4:11
+type: Verse
+kjv: "Thy lips, O my spouse, drop as the honeycomb: honey and milk are under thy tongue; and the smell of thy garments is like the smell of Lebanon."
+bsb: "Your lips, my bride, drip sweetness like the honeycomb; honey and milk are under your tongue, and the fragrance of your garments is like the aroma of Lebanon."
+hebrew: "נֹ֛פֶת תִּטֹּ֥פְנָה שִׂפְתוֹתַ֖יִךְ כַּלָּ֑ה דְּבַ֤שׁ וְחָלָב֙ תַּ֣חַת לְשׁוֹנֵ֔ךְ וְרֵ֥יחַ שַׂלְמֹתַ֖יִךְ כְּרֵ֥יחַ לְבָנֽוֹן׃ ס"
+pericope: "[[Song.4.1 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 4
+book/chapter: "[[Song.4|Song of Solomon 4]]"
+chronological_order: 451
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic HONEY|HONEY]]"
+strongs:
+- "[[H5317]]"
+- "[[H5197]]"
+- "[[H8193G]]"
+- "[[H9022]]"
+- "[[H3618G]]"
+- "[[H1706]]"
+- "[[H9002]]"
+- "[[H2461]]"
+- "[[H8478G]]"
+- "[[H3956G]]"
+- "[[H7381]]"
+- "[[H8008]]"
+- "[[H9004]]"
+- "[[H3844G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Song of Solomon 4:11**<big><big>[[Song.4.1 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy lips, O [my] spouse, drop [as] the honeycomb: honey and milk [are] under thy tongue; and the smell of thy garments [is] like the smell of Lebanon.
 <small><sub>**BSB:**</sub></small>
 Your lips, my bride, drip sweetness like the honeycomb; honey and milk are under your tongue, and the fragrance of your garments is like the aroma of Lebanon.
+<small><sub>**Hebrew:**</sub></small>
+[[H5317\|נֹ֛פֶת]] [[H5197\|תִּטֹּ֥פְנָה]] [[H8193G\|שִׂפְתוֹתַ֖יִ]][[H9022\|ךְ]] [[H3618G\|כַּלָּ֑ה]] [[H1706\|דְּבַ֤שׁ]] [[H9002\|וְ]][[H2461\|חָלָב֙]] [[H8478G\|תַּ֣חַת]] [[H3956G\|לְשׁוֹנֵ֔]][[H9022\|ךְ]] [[H9002\|וְ]][[H7381\|רֵ֥יחַ]] [[H8008\|שַׂלְמֹתַ֖יִ]][[H9022\|ךְ]] [[H9004\|כְּ]][[H7381\|רֵ֥יחַ]] [[H3844G\|לְבָנֽוֹן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic HONEY|HONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.10|<< Song of Solomon 4:10]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.12|Song of Solomon 4:12 >>]]</td></tr></table>
 
@@ -19,7 +67,7 @@ Your lips, my bride, drip sweetness like the honeycomb; honey and milk are under
 | and [the] odor of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H7381\|רֵ֥יחַ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | garments your  |**<big>&#8207;[[H8008\|שַׂלְמֹתַ֖יִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207; </big>**| sal.mo.Ta.yi<small><sup>[[HNcfpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] like [the] odor of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H7381\|רֵ֥יחַ]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Rei.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Lebanon  |**<big>&#8207;[[H3844G\|לְבָנֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Lebanon  |**<big>&#8207;[[H3844G\|לְבָנֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.4.10|<< Song of Solomon 4:10]]</td><td align="center" style="border:none;">[[Song.4|Song of Solomon 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.4.12|Song of Solomon 4:12 >>]]</td></tr></table>
 
 

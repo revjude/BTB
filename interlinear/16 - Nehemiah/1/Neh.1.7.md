@@ -1,8 +1,66 @@
+---
+title: Nehemiah 1:7
+type: Verse
+kjv: "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses."
+bsb: "We have behaved corruptly against You and have not kept the commandments, statutes, and ordinances that You gave Your servant Moses."
+hebrew: "חֲבֹ֖ל חָבַ֣לְנוּ לָ֑ךְ וְלֹא־ שָׁמַ֣רְנוּ אֶת־ הַמִּצְוֹ֗ת וְאֶת־ הַֽחֻקִּים֙ וְאֶת־ הַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר צִוִּ֖יתָ אֶת־ מֹשֶׁ֥ה עַבְדֶּֽךָ׃"
+pericope: "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 1
+book/chapter: "[[Neh.1|Nehemiah 1]]"
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2254B]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 1:7**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.
 <small><sub>**BSB:**</sub></small>
 We have behaved corruptly against You and have not kept the commandments, statutes, and ordinances that You gave Your servant Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H2254B\|חֲבֹ֖ל]] [[H2254B\|חָבַ֣לְנוּ]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8104G\|שָׁמַ֣רְנוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוֹ֗ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H2706G\|חֻקִּים֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוִּ֖יתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H5650\|עַבְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LAW|LAW]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.6|<< Nehemiah 1:6]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.8|Nehemiah 1:8 >>]]</td></tr></table>
 

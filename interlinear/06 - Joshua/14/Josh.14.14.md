@@ -1,8 +1,66 @@
+---
+title: Joshua 14:14
+type: Verse
+kjv: "Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the LORD God of Israel."
+bsb: "Therefore Hebron belongs to Caleb son of Jephunneh the Kenizzite as an inheritance to this day, because he wholly followed the LORD, the God of Israel."
+hebrew: "עַל־ כֵּ֣ן הָיְתָֽה־ חֶ֠בְרוֹן לְכָלֵ֨ב בֶּן־ יְפֻנֶּ֤ה הַקְּנִזִּי֙ לְֽנַחֲלָ֔ה עַ֖ד הַיּ֣וֹם הַזֶּ֑ה יַ֚עַן אֲשֶׁ֣ר מִלֵּ֔א אַחֲרֵ֕י יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Josh.14.6 Caleb Requests Hebron|Caleb Requests Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1961]]"
+- "[[H2275A]]"
+- "[[H9005]]"
+- "[[H3612G]]"
+- "[[H1121A]]"
+- "[[H3312G]]"
+- "[[H9009]]"
+- "[[H7074H]]"
+- "[[H5159]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H4390]]"
+- "[[H0310A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 14:14**<big><big>[[Josh.14.6 Caleb Requests Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
 Therefore Hebron belongs to Caleb son of Jephunneh the Kenizzite as an inheritance to this day, because he wholly followed the LORD, the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֣ן]] [[H1961\|הָיְתָֽה]][[H9014\|־]] [[H2275A\|חֶ֠בְרוֹן]] [[H9005\|לְ]][[H3612G\|כָלֵ֨ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3312G\|יְפֻנֶּ֤ה]] [[H9009\|הַ]][[H7074H\|קְּנִזִּי֙]] [[H9005\|לְֽ]][[H5159\|נַחֲלָ֔ה]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3282\|יַ֚עַן]] [[H0834A\|אֲשֶׁ֣ר]] [[H4390\|מִלֵּ֔א]] [[H0310A\|אַחֲרֵ֕י]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic DECISION|DECISION]] • [[topic HEBRON|HEBRON]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.13|<< Joshua 14:13]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.15|Joshua 14:15 >>]]</td></tr></table>
 

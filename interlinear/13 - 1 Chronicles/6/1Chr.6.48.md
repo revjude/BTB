@@ -1,8 +1,50 @@
+---
+title: 1 Chronicles 6:48
+type: Verse
+kjv: "Their brethren also the Levites were appointed unto all manner of service of the tabernacle of the house of God."
+bsb: "Their fellow Levites were assigned to every kind of service of the tabernacle, the house of God."
+hebrew: "וַאֲחֵיהֶ֖ם הַלְוִיִּ֑ם נְתוּנִ֕ים לְכָ֨ל־ עֲבוֹדַ֔ת מִשְׁכַּ֖ן בֵּ֥ית הָאֱלֹהִֽים׃"
+pericope: "[[1Chr.6.48 The Descendants of Aaron|The Descendants of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5656H]]"
+- "[[H4908]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:48**<big><big>[[1Chr.6.48 The Descendants of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their brethren also the Levites [were] appointed unto all manner of service of the tabernacle of the house of God.
 <small><sub>**BSB:**</sub></small>
 Their fellow Levites were assigned to every kind of service of the tabernacle, the house of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0251G\|אֲחֵי]][[H9028\|הֶ֖ם]] [[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H5414H\|נְתוּנִ֕ים]] [[H9005\|לְ]][[H3605\|כָ֨ל]][[H9014\|־]] [[H5656H\|עֲבוֹדַ֔ת]] [[H4908\|מִשְׁכַּ֖ן]] [[H1004Q\|בֵּ֥ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.47|<< 1 Chronicles 6:47]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.49|1 Chronicles 6:49 >>]]</td></tr></table>
 

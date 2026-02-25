@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Shrewd Manager
+type: Pericope
 pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Luke
 chapter: 16
 book/chapter: "[[Luke.16|Luke 16]]"
-genre:
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 13
 verses:
 - "[[Luke.16.1]]"
 - "[[Luke.16.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Luke.16.13]]"
 ---
 
-[[Luke.16|Luke 16:1 - Luke 16:13]]
+<small>[[Luke.16|Luke 16:1-13]]</small>
 *The Parable of the Shrewd Manager*
 
 [[Luke.16.1|1]] And he said also unto his disciples, There was a certain rich man, which had a steward; and the same was accused unto him that he had wasted his goods.

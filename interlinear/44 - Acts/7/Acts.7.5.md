@@ -1,10 +1,59 @@
+---
+title: Acts 7:5
+type: Verse
+kjv: "And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child."
+bsb: "He gave him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child."
+greek: "καὶ οὐκ ἔδωκεν αὐτῷ κληρονομίαν ἐν αὐτῇ οὐδὲ βῆμα ποδὸς καὶ ἐπηγγείλατο δοῦναι αὐτῷ εἰς κατάσχεσιν αὐτὴν καὶ τῷ σπέρματι αὐτοῦ μετ᾽ αὐτόν, οὐκ ὄντος αὐτῷ τέκνου."
+pericope: "[[Acts.7.1 Stephen’s Address：The Call of Abraham|Stephen’s Address：The Call of Abraham]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G2817]]"
+- "[[G1722]]"
+- "[[G3761]]"
+- "[[G0968]]"
+- "[[G4228]]"
+- "[[G1861]]"
+- "[[G1519]]"
+- "[[G2697]]"
+- "[[G3588]]"
+- "[[G4690G]]"
+- "[[G3326]]"
+- "[[G1510]]"
+- "[[G5043]]"
+texts:
+- NKO
+---
+
 **Acts 7:5**<big><big>[[Acts.7.1 Stephen’s Address：The Call of Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he gave him none inheritance in it, no, not [so much as] to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when [as yet] he had no child.
 <small><sub>**BSB:**</sub></small>
 He gave him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child.
-<small><sub>**Literal:**</sub></small>
-And not He did give to him an inheritance in it not even [give] [the] length of a foot but He promised to give to him for a possession it and to the descendants of him after him, not there being to him a child.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.4|<< Acts 7:4]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.6|Acts 7:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτῷ]]  [[G2817\|κληρονομίαν]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G3761\|οὐδὲ]]  [[G0968\|βῆμα]]  [[G4228\|ποδὸς]]  [[G2532\|καὶ]]  [[G1861\|ἐπηγγείλατο]]  [[G1325\|δοῦναι]]  [[G0846\|αὐτῷ]]  [[G1519\|εἰς]]  [[G2697\|κατάσχεσιν]]  [[G0846\|αὐτὴν]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G4690G\|σπέρματι]]  [[G0846\|αὐτοῦ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτόν,]]  [[G3756\|οὐκ]]  [[G1510\|ὄντος]]  [[G0846\|αὐτῷ]]  [[G5043\|τέκνου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.4|<< Acts 7:4]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.6|Acts 7:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:5** is...
 > $\quad$ alluding to: [[LXX.Gen.12.7|Gen 12:7]] ☩ [[LXX.Gen.13.15|Gen 13:15]]

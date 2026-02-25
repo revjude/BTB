@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Preaches at Rome
+type: Pericope
 pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: Acts
 chapter: 28
 book/chapter: "[[Acts.28|Acts 28]]"
-genre:
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 15
 verses:
 - "[[Acts.28.16]]"
 - "[[Acts.28.17]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Acts.28.31]]"
 ---
 
-[[Acts.28|Acts 28:16 - Acts 28:31]]
+<small>[[Acts.28|Acts 28:16-31]]</small>
 *Paul Preaches at Rome*
 
 [[Acts.28.16|16]] And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.

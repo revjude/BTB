@@ -1,8 +1,59 @@
+---
+title: Psalm 105:23
+type: Verse
+kjv: "Israel also came into Egypt; and Jacob sojourned in the land of Ham."
+bsb: "Then Israel entered Egypt; Jacob dwelt in the land of Ham."
+hebrew: "וַיָּבֹ֣א יִשְׂרָאֵ֣ל מִצְרָ֑יִם וְ֝יַעֲקֹ֗ב גָּ֣ר בְּאֶֽרֶץ־ חָֽם׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAM|HAM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3478]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H2526H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:23**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Israel also came into Egypt; and Jacob sojourned in the land of Ham.
 <small><sub>**BSB:**</sub></small>
 Then Israel entered Egypt; Jacob dwelt in the land of Ham.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H4714G\|מִצְרָ֑יִם]] [[H9002\|וְ֝]][[H3290\|יַעֲקֹ֗ב]] [[H1481A\|גָּ֣ר]] [[H9003\|בְּ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H2526H\|חָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic GOD|GOD]] • [[topic HAM|HAM]] • [[topic JACOB|JACOB]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.22|<< Psalms 105:22]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.24|Psalms 105:24 >>]]</td></tr></table>
 

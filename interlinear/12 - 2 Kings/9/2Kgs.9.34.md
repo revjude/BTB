@@ -1,8 +1,70 @@
+---
+title: 2 Kings 9:34
+type: Verse
+kjv: "And when he was come in, he did eat and drink, and said, Go, see now this cursed woman, and bury her: for she is a king’s daughter."
+bsb: "Then Jehu went in and ate and drank. “Take care of this cursed woman,” he said, “and bury her, for she was the daughter of a king.”"
+hebrew: "וַיָּבֹ֖א וַיֹּ֣אכַל וַיֵּ֑שְׁתְּ וַיֹּ֗אמֶר פִּקְדוּ־ נָ֞א אֶת־ הָאֲרוּרָ֤ה הַזֹּאת֙ וְקִבְר֔וּהָ כִּ֥י בַת־ מֶ֖לֶךְ הִֽיא׃"
+pericope: "[[2Kgs.9.30 Jezebel’s Violent Death|Jezebel’s Violent Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H0559]]"
+- "[[H6485I]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0779]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H6912]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H1323G]]"
+- "[[H4428G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:34**<big><big>[[2Kgs.9.30 Jezebel’s Violent Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he was come in, he did eat and drink, and said, Go, see now this cursed [woman], and bury her: for she [is] a king’s daughter.
 <small><sub>**BSB:**</sub></small>
 Then Jehu went in and ate and drank. “Take care of this cursed woman,” he said, “and bury her, for she was the daughter of a king.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H9001\|וַ]][[H0398\|יֹּ֣אכַל]] [[H9001\|וַ]][[H8354\|יֵּ֑שְׁתְּ]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H6485I\|פִּקְדוּ]][[H9014\|־]] [[H4994\|נָ֞א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0779\|אֲרוּרָ֤ה]] [[H9009\|הַ]][[H2063\|זֹּאת֙]] [[H9002\|וְ]][[H6912\|קִבְר֔וּ]][[H9034\|הָ]] [[H3588A\|כִּ֥י]] [[H1323G\|בַת]][[H9014\|־]] [[H4428G\|מֶ֖לֶךְ]] [[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic JEZEBEL|JEZEBEL]] • [[topic JEZREEL|JEZREEL]] • [[topic NABOTH|NABOTH]] • [[topic PROPHECY|PROPHECY]] • [[topic USURPATION|USURPATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.33|<< 2 Kings 9:33]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.35|2 Kings 9:35 >>]]</td></tr></table>
 

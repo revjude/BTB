@@ -1,8 +1,73 @@
+---
+title: Genesis 25:20
+type: Verse
+kjv: "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian."
+bsb: "and Isaac was forty years old when he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean."
+hebrew: "וַיְהִ֤י יִצְחָק֙ בֶּן־ אַרְבָּעִ֣ים שָׁנָ֔ה בְּקַחְתּ֣וֹ אֶת־ רִבְקָ֗ה בַּת־ בְּתוּאֵל֙ הָֽאֲרַמִּ֔י מִפַּדַּ֖ן אֲרָ֑ם אֲח֛וֹת לָבָ֥ן הָאֲרַמִּ֖י ל֥וֹ לְאִשָּֽׁה׃"
+pericope: "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETHUEL|BETHUEL]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MESOPOTAMIA|MESOPOTAMIA]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3327]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H3947I]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H7259]]"
+- "[[H1323G]]"
+- "[[H1328A]]"
+- "[[H9009]]"
+- "[[H0761J]]"
+- "[[H9006]]"
+- "[[H6307]]"
+- "[[H0758L]]"
+- "[[H0269]]"
+- "[[H3837A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:20**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian.
 <small><sub>**BSB:**</sub></small>
 and Isaac was forty years old when he married Rebekah, the daughter of Bethuel the Aramean from Paddan-aram and the sister of Laban the Aramean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H3327\|יִצְחָק֙]] [[H1121L\|בֶּן]][[H9014\|־]] [[H0705\|אַרְבָּעִ֣ים]] [[H8141\|שָׁנָ֔ה]] [[H9003\|בְּ]][[H3947I\|קַחְתּ֣]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H7259\|רִבְקָ֗ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H1328A\|בְּתוּאֵל֙]] [[H9009\|הָֽ]][[H0761J\|אֲרַמִּ֔י]] [[H9006\|מִ]][[H6307\|פַּדַּ֖ן]] [[H0758L\|אֲרָ֑ם]] [[H0269\|אֲח֛וֹת]] [[H3837A\|לָבָ֥ן]] [[H9009\|הָ]][[H0761J\|אֲרַמִּ֖י]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHUEL|BETHUEL]] • [[topic ESAU|ESAU]] • [[topic ISAAC|ISAAC]] • [[topic MESOPOTAMIA|MESOPOTAMIA]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.19|<< Genesis 25:19]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.21|Genesis 25:21 >>]]</td></tr></table>
 

@@ -17,7 +17,7 @@
 
 - Jesus resides in [[Matt.17.22|Mt 17:22]]; [[Matt.19.1|19:1]]; [[John.7.1|Joh 7:1]],[[John.7.9|9]]
 
-- Teaching and miracles of Jesus in [[Matt.4.23|Mt 4:23]],[[Matt.4.25|25]]; [[Matt.15.29|15:29]]-[[Matt.15.31|31]];  [[Mark.1.14|Mr 1:14]]
+- Teaching and miracles of Jesus in [[Matt.4.23|Mt 4:23]],[[Matt.4.25|25]]; [[Matt.15.29|15:29-31]];  [[Mark.1.14|Mr 1:14]]
 
 - People of, receive Jesus [[John.4.45|Joh 4:45]],[[John.4.53|53]]
 
@@ -27,7 +27,7 @@
 
 - Jesus appeared to his disciples in, after his resurrection [[Matt.26.32|Mt 26:32]]; [[Matt.28.7|28:7]],[[Matt.28.10|10]],[[Matt.28.16|16]],[[Matt.28.17|17]]; [[Mark.14.28|Mr 14:28]]; [[Mark.16.7|16:7]]; [[John.21|Joh 21]]
 
-- Routes from, to Judaea [[Judg.21.19|Jud 21:19]]; [[John.4.3|Joh 4:3]]-[[John.4.5|5]]
+- Routes from, to Judaea [[Judg.21.19|Jud 21:19]]; [[John.4.3|Joh 4:3-5]]
 
 - Dialect of [[Mark.14.70|Mr 14:70]]
 
@@ -45,9 +45,9 @@
 
 - Called SEA OF CHINNEROTH [[Josh.12.3|Jos 12:3]]
 
-- Jesus calls disciples on the shore of [[Matt.4.18|Mt 4:18]]-[[Matt.4.22|22]]; [[Luke.5.1|Lu  5:1]]-[[Luke.5.11|11]]
+- Jesus calls disciples on the shore of [[Matt.4.18|Mt 4:18-22]]; [[Luke.5.1|Lu  5:1-11]]
 
-- Jesus teaches from a ship on [[Matt.13.1|Mt 13:1]]-[[Matt.13.3|3]]
+- Jesus teaches from a ship on [[Matt.13.1|Mt 13:1-3]]
 
-- Miracles of Jesus on [[Matt.8.24|Mt 8:24]]-[[Matt.8.32|32]]; [[Matt.14.22|14:22]]-[[Matt.14.33|33]]; [[Matt.17.27|17:27]]; [[Mark.4.37|Mr  4:37]]-[[Mark.4.39|39]]; [[Luke.5.1|Lu 5:1]]-[[Luke.5.9|9]]; [[Luke.8.22|8:22]]-[[Luke.8.24|24]]; [[John.21.1|Joh 21:1]]-[[John.21.11|11]]
+- Miracles of Jesus on [[Matt.8.24|Mt 8:24-32]]; [[Matt.14.22|14:22-33]]; [[Matt.17.27|17:27]]; [[Mark.4.37|Mr  4:37-39]]; [[Luke.5.1|Lu 5:1-9]]; [[Luke.8.22|8:22-24]]; [[John.21.1|Joh 21:1-11]]
 

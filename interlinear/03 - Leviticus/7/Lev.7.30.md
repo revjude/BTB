@@ -1,8 +1,62 @@
+---
+title: Leviticus 7:30
+type: Verse
+kjv: "His own hands shall bring the offerings of the LORD made by fire, the fat with the breast, it shall he bring, that the breast may be waved for a wave offering before the LORD."
+bsb: "With his own hands he is to bring the food offerings to the LORD; he shall bring the fat, together with the breast, and wave the breast as a wave offering before the LORD."
+hebrew: "יָדָ֣יו תְּבִיאֶ֔ינָה אֵ֖ת אִשֵּׁ֣י יְהוָ֑ה אֶת־ הַחֵ֤לֶב עַל־ הֶֽחָזֶה֙ יְבִיאֶ֔נּוּ אֵ֣ת הֶחָזֶ֗ה לְהָנִ֥יף אֹת֛וֹ תְּנוּפָ֖ה לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Lev.7.28 The Priests’ Portion|The Priests’ Portion]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2459]]"
+- "[[H5921A]]"
+- "[[H2373]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5130B]]"
+- "[[H8573]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:30**<big><big>[[Lev.7.28 The Priests’ Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His own hands shall bring the offerings of the LORD made by fire, the fat with the breast, it shall he bring, that the breast may be waved [for] a wave offering before the LORD.
 <small><sub>**BSB:**</sub></small>
 With his own hands he is to bring the food offerings to the LORD; he shall bring the fat, together with the breast, and wave the breast as a wave offering before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3027G\|יָדָ֣י]][[H9023\|ו]] [[H0935P\|תְּבִיאֶ֔ינָה]] [[H0853\|אֵ֖ת]] [[H0801\|אִשֵּׁ֣י]] [[H3068G\|יְהוָ֑ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2459\|חֵ֤לֶב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הֶֽ]][[H2373\|חָזֶה֙]] [[H0935P\|יְבִיאֶ֔]][[H9033\|נּוּ]] [[H0853\|אֵ֣ת]] [[H9009\|הֶ]][[H2373\|חָזֶ֗ה]] [[H9005\|לְ]][[H5130B\|הָנִ֥יף]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H8573\|תְּנוּפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.29|<< Leviticus 7:29]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.31|Leviticus 7:31 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mission of John the Baptist
+type: Pericope
 pericope: "[[John.1.19 The Mission of John the Baptist|The Mission of John the Baptist]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: John
 chapter: 1
 book/chapter: "[[John.1|John 1]]"
-genre:
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 10
 verses:
 - "[[John.1.19]]"
 - "[[John.1.20]]"
@@ -28,7 +35,7 @@ verses:
 - "[[John.1.28]]"
 ---
 
-[[John.1|John 1:19 - John 1:28]]
+<small>[[John.1|John 1:19-28]]</small>
 *The Mission of John the Baptist*
 
 [[John.1.19|19]] And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?

@@ -1,8 +1,74 @@
+---
+title: Ezekiel 20:31
+type: Verse
+kjv: "For when ye offer your gifts, when ye make your sons to pass through the fire, ye pollute yourselves with all your idols, even unto this day: and shall I be inquired of by you, O house of Israel? As I live, saith the Lord GOD, I will not be inquired of by you."
+bsb: "When you offer your gifts, sacrificing your sons in the fire, you continue to defile yourselves with all your idols to this day. So should I be consulted by you, O house of Israel? As surely as I live, declares the Lord GOD, I will not be consulted by you!"
+hebrew: "וּבִשְׂאֵ֣ת מַתְּנֹֽתֵיכֶ֡ם בְּֽהַעֲבִיר֩ בְּנֵיכֶ֨ם בָּאֵ֜שׁ אַתֶּם֩ נִטְמְאִ֤֨ים לְכָל־ גִּלּֽוּלֵיכֶם֙ עַד־ הַיּ֔וֹם וַאֲנִ֛י אִדָּרֵ֥שׁ לָכֶ֖ם בֵּ֣ית יִשְׂרָאֵ֑ל חַי־ אָ֗נִי נְאֻם֙ אֲדֹנָ֣י יְהוִ֔ה אִם־ אִדָּרֵ֖שׁ לָכֶֽם׃"
+pericope: "[[Ezek.20.27 Israel’s Rebellion in the Land|Israel’s Rebellion in the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5375H]]"
+- "[[H4979]]"
+- "[[H9026]]"
+- "[[H5674A]]"
+- "[[H1121A]]"
+- "[[H0784]]"
+- "[[H0859D]]"
+- "[[H2930A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1544]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H0589]]"
+- "[[H1875]]"
+- "[[H9036]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H2416A]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0518H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:31**<big><big>[[Ezek.20.27 Israel’s Rebellion in the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For when ye offer your gifts, when ye make your sons to pass through the fire, ye pollute yourselves with all your idols, even unto this day: and shall I be inquired of by you, O house of Israel? [As] I live, saith the Lord GOD, I will not be inquired of by you.
 <small><sub>**BSB:**</sub></small>
 When you offer your gifts, sacrificing your sons in the fire, you continue to defile yourselves with all your idols to this day. So should I be consulted by you, O house of Israel? As surely as I live, declares the Lord GOD, I will not be consulted by you!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H5375H\|שְׂאֵ֣ת]] [[H4979\|מַתְּנֹֽתֵי]][[H9026\|כֶ֡ם]] [[H9003\|בְּֽ]][[H5674A\|הַעֲבִיר֩]] [[H1121A\|בְּנֵי]][[H9026\|כֶ֨ם]] [[H9003\|בָּ]][[H0784\|אֵ֜שׁ]] [[H0859D\|אַתֶּם֩]] [[H2930A\|נִטְמְאִ֤֨ים]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1544\|גִּלּֽוּלֵי]][[H9026\|כֶם֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H9002\|וַ]][[H0589\|אֲנִ֛י]] [[H1875\|אִדָּרֵ֥שׁ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָ֗נִי]] [[H5002\|נְאֻם֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H0518H\|אִם]][[H9014\|־]] [[H1875\|אִדָּרֵ֖שׁ]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic MOLECH|MOLECH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.30|<< Ezekiel 20:30]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.32|Ezekiel 20:32 >>]]</td></tr></table>
 

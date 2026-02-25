@@ -1,8 +1,74 @@
+---
+title: Ezekiel 38:20
+type: Verse
+kjv: "So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that are upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground."
+bsb: "The fish of the sea, the birds of the air, the beasts of the field, every creature that crawls upon the ground, and all mankind on the face of the earth will tremble at My presence. The mountains will be thrown down, the cliffs will collapse, and every wall will fall to the ground."
+hebrew: "וְרָעֲשׁ֣וּ מִפָּנַ֡י דְּגֵ֣י הַיָּם֩ וְע֨וֹף הַשָּׁמַ֜יִם וְחַיַּ֣ת הַשָּׂדֶ֗ה וְכָל־ הָרֶ֙מֶשׂ֙ הָרֹמֵ֣שׂ עַל־ הָֽאֲדָמָ֔ה וְכֹל֙ הָֽאָדָ֔ם אֲשֶׁ֖ר עַל־ פְּנֵ֣י הָאֲדָמָ֑ה וְנֶהֶרְס֣וּ הֶהָרִ֗ים וְנָֽפְלוּ֙ הַמַּדְרֵג֔וֹת וְכָל־ חוֹמָ֖ה לָאָ֥רֶץ תִּפּֽוֹל׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7493]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9020]]"
+- "[[H1709H]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9002]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7431]]"
+- "[[H7430]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H0120G]]"
+- "[[H0834A]]"
+- "[[H6440H]]"
+- "[[H0127I]]"
+- "[[H2040]]"
+- "[[H2022G]]"
+- "[[H5307G]]"
+- "[[H4095]]"
+- "[[H2346G]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:20**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that [are] upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground.
 <small><sub>**BSB:**</sub></small>
 The fish of the sea, the birds of the air, the beasts of the field, every creature that crawls upon the ground, and all mankind on the face of the earth will tremble at My presence. The mountains will be thrown down, the cliffs will collapse, and every wall will fall to the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7493\|רָעֲשׁ֣וּ]] [[H9006\|מִ]][[H6440I\|פָּנַ֡]][[H9020\|י]] [[H1709H\|דְּגֵ֣י]] [[H9009\|הַ]][[H3220G\|יָּם֩]] [[H9002\|וְ]][[H5775\|ע֨וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֜יִם]] [[H9002\|וְ]][[H2416C\|חַיַּ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֗ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H7431\|רֶ֙מֶשׂ֙]] [[H9009\|הָ]][[H7430\|רֹמֵ֣שׂ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֔ה]] [[H9002\|וְ]][[H3605\|כֹל֙]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵ֣י]] [[H9009\|הָ]][[H0127I\|אֲדָמָ֑ה]] [[H9001\|וְ]][[H2040\|נֶהֶרְס֣וּ]] [[H9009\|הֶ]][[H2022G\|הָרִ֗ים]] [[H9001\|וְ]][[H5307G\|נָֽפְלוּ֙]] [[H9009\|הַ]][[H4095\|מַּדְרֵג֔וֹת]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2346G\|חוֹמָ֖ה]] [[H9005\|לָ]][[H0776H\|אָ֥רֶץ]] [[H5307G\|תִּפּֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOUNTAIN|MOUNTAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.19|<< Ezekiel 38:19]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.21|Ezekiel 38:21 >>]]</td></tr></table>
 

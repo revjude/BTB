@@ -1,8 +1,75 @@
+---
+title: Isaiah 39:2
+type: Verse
+kjv: "And Hezekiah was glad of them, and shewed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not."
+bsb: "And Hezekiah welcomed the envoys gladly and showed them what was in his treasure house—the silver, the gold, the spices, and the precious oil, as well as his entire armory—all that was found in his storehouses. There was nothing in his palace or in all his dominion that Hezekiah did not show them."
+hebrew: "וַיִּשְׂמַ֣ח עֲלֵיהֶם֮ חִזְקִיָּהוּ֒ וַיַּרְאֵ֣ם אֶת־ בֵּ֣ית נְכֹת֡וֹ אֶת־ הַכֶּסֶף֩ וְאֶת־ הַזָּהָ֨ב וְאֶת־ הַבְּשָׂמִ֜ים וְאֵ֣ת׀ הַשֶּׁ֣מֶן הַטּ֗וֹב וְאֵת֙ כָּל־ בֵּ֣ית כֵּלָ֔יו וְאֵ֛ת כָּל־ אֲשֶׁ֥ר נִמְצָ֖א בְּאֹֽצְרֹתָ֑יו לֹֽא־ הָיָ֣ה דָבָ֗ר אֲ֠שֶׁר לֹֽא־ הֶרְאָ֧ם חִזְקִיָּ֛הוּ בְּבֵית֖וֹ וּבְכָל־ מֶמְשַׁלְתּֽוֹ׃"
+pericope: "[[Isa.39.1 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 39
+book/chapter: "[[Isa.39|Isaiah 39]]"
+chronological_order: 666
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic ARMORY|ARMORY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H8055]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H2396G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H5238]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H1314]]"
+- "[[H9015]]"
+- "[[H8081]]"
+- "[[H2896A]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H0214]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H1697I]]"
+- "[[H4475]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 39:2**<big><big>[[Isa.39.1 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah was glad of them, and shewed them the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.
 <small><sub>**BSB:**</sub></small>
 And Hezekiah welcomed the envoys gladly and showed them what was in his treasure house—the silver, the gold, the spices, and the precious oil, as well as his entire armory—all that was found in his storehouses. There was nothing in his palace or in all his dominion that Hezekiah did not show them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8055\|יִּשְׂמַ֣ח]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֮]] [[H2396G\|חִזְקִיָּהוּ֒]] [[H9001\|וַ]][[H7200G\|יַּרְאֵ֣]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H5238\|נְכֹת֡]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּסֶף֩]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2091\|זָּהָ֨ב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1314\|בְּשָׂמִ֜ים]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H9009\|הַ]][[H8081\|שֶּׁ֣מֶן]] [[H9009\|הַ]][[H2896A\|טּ֗וֹב]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H3627\|כֵּלָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H4672\|נִמְצָ֖א]] [[H9003\|בְּ]][[H0214\|אֹֽצְרֹתָ֑י]][[H9023\|ו]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיָ֣ה]] [[H1697I\|דָבָ֗ר]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|הֶרְאָ֧]][[H9038\|ם]] [[H2396G\|חִזְקִיָּ֛הוּ]] [[H9003\|בְּ]][[H1004B\|בֵית֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H4475\|מֶמְשַׁלְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic ARMORY|ARMORY]] • [[topic PRIDE|PRIDE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.39.1|<< Isaiah 39:1]]</td><td align="center" style="border:none;">[[Isa.39|Isaiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.39.3|Isaiah 39:3 >>]]</td></tr></table>
 
@@ -45,7 +112,7 @@ And Hezekiah welcomed the envoys gladly and showed them what was in his treasure
 | realm his  |**<big>&#8207;[[H4475\|מֶמְשַׁלְתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mem.shal.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.39.1|<< Isaiah 39:1]]</td><td align="center" style="border:none;">[[Isa.39|Isaiah 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.39.3|Isaiah 39:3 >>]]</td></tr></table>
 
-[^1]: treasure his  | **<big>[[H9023|ה]]</big><big>[[H5238|נְכֹתָ]]</big> ** | ne.kho.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: treasure his  | **<big>[[H9023|ה]]</big><big>[[H5238|נְכֹתָ]]</big> ** | ne.kho.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: treasure his  | **<big>[[H5238|נְכֹתָ]]</big><big>[[H9023|ה]]</big> ** | ne.kho.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: treasure his  | **<big>[[H5238|נְכֹתָ]]</big><big>[[H9023|ה]]</big> ** | ne.kho.ta<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>נְכֹתֹ֡ה</big></span>**
 

@@ -1,10 +1,70 @@
+---
+title: John 20:19
+type: Verse
+kjv: "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you."
+bsb: "It was the first day of the week, and that very evening, while the disciples were together with the doors locked for fear of the Jews, Jesus came and stood among them. “Peace be with you!” He said to them."
+jesus_said: "Peace be unto you."
+greek: "Οὔσης οὖν ὀψίας τῇ ἡμέρᾳ ἐκείνῃ τῇ μιᾷ τῶν σαββάτων καὶ τῶν θυρῶν κεκλεισμένων ὅπου ἦσαν οἱ μαθηταὶ συνηγμένοι διὰ τὸν φόβον τῶν Ἰουδαίων, ἦλθεν ὁ Ἰησοῦς καὶ ἔστη εἰς τὸ μέσον καὶ λέγει αὐτοῖς· εἰρήνη ὑμῖν."
+pericope: "[[John.20.19 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G1510]]"
+- "[[G3767]]"
+- "[[G3798]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G1520]]"
+- "[[G4521]]"
+- "[[G2532]]"
+- "[[G2374]]"
+- "[[G2808]]"
+- "[[G3699]]"
+- "[[G3101]]"
+- "[[G4863]]"
+- "[[G1223]]"
+- "[[G5401]]"
+- "[[G2453]]"
+- "[[G2064]]"
+- "[[G2424G]]"
+- "[[G2476]]"
+- "[[G1519]]"
+- "[[G3319]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1515]]"
+- "[[G4771]]"
+texts:
+- NKO
+- k
+---
+
 **John 20:19**<big><big>[[John.20.19 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the same day at evening, being the first [day] of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace [be] unto you.
 <small><sub>**BSB:**</sub></small>
 It was the first day of the week, and that very evening, while the disciples were together with the doors locked for fear of the Jews, Jesus came and stood among them. “Peace be with you!” He said to them.
-<small><sub>**Literal:**</sub></small>
-When is being therefore evening of the day same the first <the> of [the] week and the doors shut where were the disciples assembled through the fear of the Jews, came <the> Jesus and stood in the midst and He says to them; Peace to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.18|<< John 20:18]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.20|John 20:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Οὔσης]]  [[G3767\|οὖν]]  [[G3798\|ὀψίας]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G1520\|μιᾷ]]  [[G3588\|τῶν]]  [[G4521\|σαββάτων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G2374\|θυρῶν]]  [[G2808\|κεκλεισμένων]]  [[G3699\|ὅπου]]  [[G1510\|ἦσαν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G4863\|συνηγμένοι]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G5401\|φόβον]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων,]]  [[G2064\|ἦλθεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2476\|ἔστη]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3319\|μέσον]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G1515\|εἰρήνη]]  [[G4771\|ὑμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.18|<< John 20:18]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.20|John 20:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

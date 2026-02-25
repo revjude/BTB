@@ -1,8 +1,60 @@
+---
+title: Numbers 15:41
+type: Verse
+kjv: "I am the LORD your God, which brought you out of the land of Egypt, to be your God: I am the LORD your God."
+bsb: "I am the LORD your God who brought you out of the land of Egypt to be your God. I am the LORD your God.”"
+hebrew: "אֲנִ֞י יְהוָ֣ה אֱלֹֽהֵיכֶ֗ם אֲשֶׁ֨ר הוֹצֵ֤אתִי אֶתְכֶם֙ מֵאֶ֣רֶץ מִצְרַ֔יִם לִהְי֥וֹת לָכֶ֖ם לֵאלֹהִ֑ים אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃ פ"
+pericope: "[[Num.15.37 The Law of Tassels|The Law of Tassels]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FRINGES|FRINGES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 15:41**<big><big>[[Num.15.37 The Law of Tassels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] the LORD your God, which brought you out of the land of Egypt, to be your God: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 I am the LORD your God who brought you out of the land of Egypt to be your God. I am the LORD your God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֞י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֗ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3318H\|הוֹצֵ֤אתִי]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לֵ]][[H0430G\|אלֹהִ֑ים]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRINGES|FRINGES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.40|<< Numbers 15:40]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.1|Numbers 16:1 >>]]</td></tr></table>
 
@@ -21,7 +73,7 @@ I am the LORD your God who brought you out of the land of Egypt to be your God. 
 | \<into> God  |**<big>&#8207;[[H9005\|לֵ]]&#8207;&#8207;[[H0430G\|אלֹהִ֑ים]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.40|<< Numbers 15:40]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.1|Numbers 16:1 >>]]</td></tr></table>
 
 

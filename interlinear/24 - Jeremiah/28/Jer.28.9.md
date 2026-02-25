@@ -1,8 +1,54 @@
+---
+title: Jeremiah 28:9
+type: Verse
+kjv: "The prophet which prophesieth of peace, when the word of the prophet shall come to pass, then shall the prophet be known, that the LORD hath truly sent him."
+bsb: "As for the prophet who prophesies peace, only if the word of the prophet comes true will the prophet be recognized as one the LORD has truly sent.”"
+hebrew: "הַנָּבִ֕יא אֲשֶׁ֥ר יִנָּבֵ֖א לְשָׁל֑וֹם בְּבֹא֙ דְּבַ֣ר הַנָּבִ֗יא יִוָּדַע֙ הַנָּבִ֔יא אֲשֶׁר־ שְׁלָח֥וֹ יְהוָ֖ה בֶּאֱמֶֽת׃"
+pericope: "[[Jer.28.1 Hananiah’s False Prophecy|Hananiah’s False Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 28
+book/chapter: "[[Jer.28|Jeremiah 28]]"
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0834A]]"
+- "[[H5012]]"
+- "[[H9005]]"
+- "[[H7965G]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H1697G]]"
+- "[[H3045]]"
+- "[[H9014]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H0571H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 28:9**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The prophet which prophesieth of peace, when the word of the prophet shall come to pass, [then] shall the prophet be known, that the LORD hath truly sent him.
 <small><sub>**BSB:**</sub></small>
 As for the prophet who prophesies peace, only if the word of the prophet comes true will the prophet be recognized as one the LORD has truly sent.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5030\|נָּבִ֕יא]] [[H0834A\|אֲשֶׁ֥ר]] [[H5012\|יִנָּבֵ֖א]] [[H9005\|לְ]][[H7965G\|שָׁל֑וֹם]] [[H9003\|בְּ]][[H0935G\|בֹא֙]] [[H1697G\|דְּבַ֣ר]] [[H9009\|הַ]][[H5030\|נָּבִ֗יא]] [[H3045\|יִוָּדַע֙]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שְׁלָח֥]][[H9033\|וֹ]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בֶּ]][[H0571H\|אֱמֶֽת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.8|<< Jeremiah 28:8]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.10|Jeremiah 28:10 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Job 29:16
+type: Verse
+kjv: "I was a father to the poor: and the cause which I knew not I searched out."
+bsb: "I was a father to the needy, and I took up the case of the stranger."
+hebrew: "אָ֣ב אָ֭נֹכִֽי לָֽאֶבְיוֹנִ֑ים וְרִ֖ב לֹא־ יָדַ֣עְתִּי אֶחְקְרֵֽהוּ׃"
+pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 29
+book/chapter: "[[Job.29|Job 29]]"
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H0001G]]"
+- "[[H0595]]"
+- "[[H9005]]"
+- "[[H0034]]"
+- "[[H9002]]"
+- "[[H7379]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H2713]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 29:16**<big><big>[[Job.29.1 Job’s Former Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [was] a father to the poor: and the cause [which] I knew not I searched out.
 <small><sub>**BSB:**</sub></small>
 I was a father to the needy, and I took up the case of the stranger.
+<small><sub>**Hebrew:**</sub></small>
+[[H0001G\|אָ֣ב]] [[H0595\|אָ֭נֹכִֽי]] [[H9005\|לָֽ]][[H0034\|אֶבְיוֹנִ֑ים]] [[H9002\|וְ]][[H7379\|רִ֖ב]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֣עְתִּי]] [[H2713\|אֶחְקְרֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.29.15|<< Job 29:15]]</td><td align="center" style="border:none;">[[Job.29|Job 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.29.17|Job 29:17 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Psalm 109:3
+type: Verse
+kjv: "They compassed me about also with words of hatred; and fought against me without a cause."
+bsb: "They surround me with hateful words and attack me without cause."
+hebrew: "וְדִבְרֵ֣י שִׂנְאָ֣ה סְבָב֑וּנִי וַיִּֽלָּחֲמ֥וּנִי חִנָּֽם׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H8135]]"
+- "[[H5437H]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H3898A]]"
+- "[[H2600]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:3**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They compassed me about also with words of hatred; and fought against me without a cause.
 <small><sub>**BSB:**</sub></small>
 They surround me with hateful words and attack me without cause.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1697G\|דִבְרֵ֣י]] [[H8135\|שִׂנְאָ֣ה]] [[H5437H\|סְבָב֑וּ]][[H9030\|נִי]] [[H9001\|וַ]][[H3898A\|יִּֽלָּחֲמ֥וּ]][[H9030\|נִי]] [[H2600\|חִנָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ENEMY|ENEMY]] • [[topic MALICE|MALICE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.2|<< Psalms 109:2]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.4|Psalms 109:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

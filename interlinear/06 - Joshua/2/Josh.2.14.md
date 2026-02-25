@@ -1,8 +1,75 @@
+---
+title: Joshua 2:14
+type: Verse
+kjv: "And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the LORD hath given us the land, that we will deal kindly and truly with thee."
+bsb: "“Our lives for your lives!” the men agreed. “If you do not report our mission, we will show you kindness and faithfulness when the LORD gives us the land.”"
+hebrew: "וַיֹּ֧אמְרוּ לָ֣הּ הָאֲנָשִׁ֗ים נַפְשֵׁ֤נוּ תַחְתֵּיכֶם֙ לָמ֔וּת אִ֚ם לֹ֣א תַגִּ֔ידוּ אֶת־ דְּבָרֵ֖נוּ זֶ֑ה וְהָיָ֗ה בְּתֵת־ יְהוָ֥ה לָ֙נוּ֙ אֶת־ הָאָ֔רֶץ וְעָשִׂ֥ינוּ עִמָּ֖ךְ חֶ֥סֶד וֶאֱמֶֽת׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H5315H]]"
+- "[[H9025]]"
+- "[[H8478H]]"
+- "[[H9036]]"
+- "[[H4191]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H5046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9035]]"
+- "[[H0776G]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H0571G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:14**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men answered her, Our life for yours, if ye utter not this our business. And it shall be, when the LORD hath given us the land, that we will deal kindly and truly with thee.
 <small><sub>**BSB:**</sub></small>
 “Our lives for your lives!” the men agreed. “If you do not report our mission, we will show you kindness and faithfulness when the LORD gives us the land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמְרוּ]] [[H9005\|לָ֣]][[H9034\|הּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H5315H\|נַפְשֵׁ֤]][[H9025\|נוּ]] [[H8478H\|תַחְתֵּי]][[H9036\|כֶם֙]] [[H9005\|לָ]][[H4191\|מ֔וּת]] [[H0518A\|אִ֚ם]] [[H3808\|לֹ֣א]] [[H5046\|תַגִּ֔ידוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697I\|דְּבָרֵ֖]][[H9025\|נוּ]] [[H2088\|זֶ֑ה]] [[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9003\|בְּ]][[H5414G\|תֵת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H6213A\|עָשִׂ֥ינוּ]] [[H5973A\|עִמָּ֖]][[H9032\|ךְ]] [[H2617A\|חֶ֥סֶד]] [[H9002\|וֶ]][[H0571G\|אֱמֶֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]] • [[topic OATH|OATH]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.13|<< Joshua 2:13]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.15|Joshua 2:15 >>]]</td></tr></table>
 

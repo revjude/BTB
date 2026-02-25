@@ -1,8 +1,69 @@
+---
+title: Judges 11:26
+type: Verse
+kjv: "While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that be along by the coasts of Arnon, three hundred years? why therefore did ye not recover them within that time?"
+bsb: "For three hundred years Israel has lived in Heshbon, Aroer, and their villages, as well as all the cities along the banks of the Arnon. Why did you not take them back during that time?"
+hebrew: "בְּשֶׁ֣בֶת יִ֠שְׂרָאֵל בְּחֶשְׁבּ֨וֹן וּבִבְנוֹתֶ֜יהָ וּבְעַרְע֣וֹר וּבִבְנוֹתֶ֗יהָ וּבְכָל־ הֶֽעָרִים֙ אֲשֶׁר֙ עַל־ יְדֵ֣י אַרְנ֔וֹן שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וּמַדּ֥וּעַ לֹֽא־ הִצַּלְתֶּ֖ם בָּעֵ֥ת הַהִֽיא׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic AROER|AROER]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9003]]"
+- "[[H3427]]"
+- "[[H3478]]"
+- "[[H2809]]"
+- "[[H9002]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H6177H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H3027P]]"
+- "[[H0769]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H8141]]"
+- "[[H4069]]"
+- "[[H3808]]"
+- "[[H5337]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:26**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that [be] along by the coasts of Arnon, three hundred years? why therefore did ye not recover [them] within that time?
 <small><sub>**BSB:**</sub></small>
 For three hundred years Israel has lived in Heshbon, Aroer, and their villages, as well as all the cities along the banks of the Arnon. Why did you not take them back during that time?
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3427\|שֶׁ֣בֶת]] [[H3478\|יִ֠שְׂרָאֵל]] [[H9003\|בְּ]][[H2809\|חֶשְׁבּ֨וֹן]] [[H9002\|וּ]][[H9003\|בִ]][[H1323H\|בְנוֹתֶ֜י]][[H9024\|הָ]] [[H9002\|וּ]][[H9003\|בְ]][[H6177H\|עַרְע֣וֹר]] [[H9002\|וּ]][[H9003\|בִ]][[H1323H\|בְנוֹתֶ֗י]][[H9024\|הָ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הֶֽ]][[H5892B\|עָרִים֙]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3027P\|יְדֵ֣י]] [[H0769\|אַרְנ֔וֹן]] [[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָ֑ה]] [[H9002\|וּ]][[H4069\|מַדּ֥וּעַ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5337\|הִצַּלְתֶּ֖ם]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic AROER|AROER]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.25|<< Judges 11:25]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.27|Judges 11:27 >>]]</td></tr></table>
 

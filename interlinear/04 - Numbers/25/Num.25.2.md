@@ -1,8 +1,58 @@
+---
+title: Numbers 25:2
+type: Verse
+kjv: "And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods."
+bsb: "who also invited them to the sacrifices for their gods. And the people ate and bowed down to these gods."
+hebrew: "וַתִּקְרֶ֣אןָ לָעָ֔ם לְזִבְחֵ֖י אֱלֹהֵיהֶ֑ן וַיֹּ֣אכַל הָעָ֔ם וַיִּֽשְׁתַּחֲוּ֖וּ לֵֽאלֹהֵיהֶֽן׃"
+pericope: "[[Num.25.1 Moab Seduces Israel|Moab Seduces Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 25
+book/chapter: "[[Num.25|Numbers 25]]"
+chronological_order: 185
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H2077]]"
+- "[[H0430]]"
+- "[[H9029]]"
+- "[[H0398]]"
+- "[[H9009]]"
+- "[[H7812]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 25:2**<big><big>[[Num.25.1 Moab Seduces Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.
 <small><sub>**BSB:**</sub></small>
 who also invited them to the sacrifices for their gods. And the people ate and bowed down to these gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|תִּקְרֶ֣אןָ]] [[H9005\|לָ]][[H5971A\|עָ֔ם]] [[H9005\|לְ]][[H2077\|זִבְחֵ֖י]] [[H0430\|אֱלֹהֵי]][[H9029\|הֶ֑ן]] [[H9001\|וַ]][[H0398\|יֹּ֣אכַל]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וַ]][[H7812\|יִּֽשְׁתַּחֲוּ֖וּ]] [[H9005\|לֵֽ]][[H0430\|אלֹהֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL|ISRAEL]] • [[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.1|<< Numbers 25:1]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.3|Numbers 25:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

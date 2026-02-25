@@ -1,8 +1,54 @@
+---
+title: Isaiah 17:1
+type: Verse
+kjv: "The burden of Damascus. Behold, Damascus is taken away from being a city, and it shall be a ruinous heap."
+bsb: "This is the burden against Damascus: “Behold, Damascus is no longer a city; it has become a heap of ruins."
+hebrew: "מַשָּׂ֖א דַּמָּ֑שֶׂק הִנֵּ֤ה דַמֶּ֙שֶׂק֙ מוּסָ֣ר מֵעִ֔יר וְהָיְתָ֖ה מְעִ֥י מַפָּלָֽה׃"
+pericope: "[[Isa.17.1 The Burden against Damascus|The Burden against Damascus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 17
+book/chapter: "[[Isa.17|Isaiah 17]]"
+chronological_order: 634
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BURDEN|BURDEN]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H4853B]]"
+- "[[H1834]]"
+- "[[H2009]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H5892B]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4596]]"
+- "[[H4654A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 17:1**<big><big>[[Isa.17.1 The Burden against Damascus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The burden of Damascus. Behold, Damascus is taken away from [being] a city, and it shall be a ruinous heap.
 <small><sub>**BSB:**</sub></small>
 This is the burden against Damascus: “Behold, Damascus is no longer a city; it has become a heap of ruins.
+<small><sub>**Hebrew:**</sub></small>
+[[H4853B\|מַשָּׂ֖א]] [[H1834\|דַּמָּ֑שֶׂק]] [[H2009\|הִנֵּ֤ה]] [[H1834\|דַמֶּ֙שֶׂק֙]] [[H5493H\|מוּסָ֣ר]] [[H9006\|מֵ]][[H5892B\|עִ֔יר]] [[H9001\|וְ]][[H1961\|הָיְתָ֖ה]] [[H4596\|מְעִ֥י]] [[H4654A\|מַפָּלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURDEN|BURDEN]] • [[topic DAMASCUS|DAMASCUS]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.16.14|<< Isaiah 16:14]]</td><td align="center" style="border:none;">[[Isa.17|Isaiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.17.2|Isaiah 17:2 >>]]</td></tr></table>
 

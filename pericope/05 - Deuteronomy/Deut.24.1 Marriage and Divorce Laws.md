@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Marriage and Divorce Laws
+type: Pericope
 pericope: "[[Deut.24.1 Marriage and Divorce Laws|Marriage and Divorce Laws]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 24
 book/chapter: "[[Deut.24|Deuteronomy 24]]"
-genre:
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 5
 verses:
 - "[[Deut.24.1]]"
 - "[[Deut.24.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Deut.24.5]]"
 ---
 
-[[Deut.24|Deuteronomy 24:1 - Deuteronomy 24:5]]
+<small>[[Deut.24|Deuteronomy 24:1-5]]</small>
 *Marriage and Divorce Laws*
 
 [[Deut.24.1|1]] When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give \[it\] in her hand, and send her out of his house.

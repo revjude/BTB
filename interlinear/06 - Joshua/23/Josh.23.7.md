@@ -1,8 +1,64 @@
+---
+title: Joshua 23:7
+type: Verse
+kjv: "That ye come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear by them, neither serve them, nor bow yourselves unto them:"
+bsb: "So you are not to associate with these nations that remain among you. You must not call on the names of their gods or swear by them, and you must not serve them or bow down to them."
+hebrew: "לְבִלְתִּי־ בוֹא֙ בַּגּוֹיִ֣ם הָאֵ֔לֶּה הַנִּשְׁאָרִ֥ים הָאֵ֖לֶּה אִתְּכֶ֑ם וּבְשֵׁ֨ם אֱלֹהֵיהֶ֤ם לֹא־ תַזְכִּ֙ירוּ֙ וְלֹ֣א תַשְׁבִּ֔יעוּ וְלֹ֣א תַעַבְד֔וּם וְלֹ֥א תִֽשְׁתַּחֲו֖וּ לָהֶֽם׃"
+pericope: "[[Josh.23.1 Joshua’s Charge to Leaders|Joshua’s Charge to Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 23
+book/chapter: "[[Josh.23|Joshua 23]]"
+chronological_order: 253
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9009]]"
+- "[[H0428]]"
+- "[[H7604]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H0430]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H7650]]"
+- "[[H5647H]]"
+- "[[H9038]]"
+- "[[H7812]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 23:7**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That ye come not among these nations, these that remain among you; neither make mention of the name of their gods, nor cause to swear [by them], neither serve them, nor bow yourselves unto them:
 <small><sub>**BSB:**</sub></small>
 So you are not to associate with these nations that remain among you. You must not call on the names of their gods or swear by them, and you must not serve them or bow down to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H1115\|בִלְתִּי]][[H9014\|־]] [[H0935G\|בוֹא֙]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֣ם]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9002\|וּ]][[H9003\|בְ]][[H8034\|שֵׁ֨ם]] [[H0430\|אֱלֹהֵי]][[H9028\|הֶ֤ם]] [[H3808\|לֹא]][[H9014\|־]] [[H2142\|תַזְכִּ֙ירוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7650\|תַשְׁבִּ֔יעוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5647H\|תַעַבְד֔וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7812\|תִֽשְׁתַּחֲו֖וּ]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.6|<< Joshua 23:6]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.8|Joshua 23:8 >>]]</td></tr></table>
 

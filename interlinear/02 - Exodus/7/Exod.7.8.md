@@ -1,8 +1,51 @@
+---
+title: Exodus 7:8
+type: Verse
+kjv: "And the LORD spake unto Moses and unto Aaron, saying,"
+bsb: "The LORD said to Moses and Aaron,"
+hebrew: "וַיֹּ֣אמֶר יְהוָ֔ה אֶל־ מֹשֶׁ֥ה וְאֶֽל־ אַהֲרֹ֖ן לֵאמֹֽר׃"
+pericope: "[[Exod.7.8 Aaron’s Staff|Aaron’s Staff]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 7
+book/chapter: "[[Exod.7|Exodus 7]]"
+chronological_order: 99
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 7:8**<big><big>[[Exod.7.8 Aaron’s Staff|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses and unto Aaron, saying,
 <small><sub>**BSB:**</sub></small>
 The LORD said to Moses and Aaron,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.7.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.7|<< Exodus 7:7]]</td><td align="center" style="border:none;">[[Exod.7|Exodus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.9|Exodus 7:9 >>]]</td></tr></table>
 

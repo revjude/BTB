@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David and Ziba
+type: Pericope
 pericope: "[[2Sam.16.1 David and Ziba|David and Ziba]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 16
 book/chapter: "[[2Sam.16|2 Samuel 16]]"
-genre:
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 4
 verses:
 - "[[2Sam.16.1]]"
 - "[[2Sam.16.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Sam.16.4]]"
 ---
 
-[[2Sam.16|2 Samuel 16:1 - 2 Samuel 16:4]]
+<small>[[2Sam.16|2 Samuel 16:1-4]]</small>
 *David and Ziba*
 
 [[2Sam.16.1|1]] And when David was a little past the top \[of the hill\], behold, Ziba the servant of Mephibosheth met him, with a couple of asses saddled, and upon them two hundred \[loaves\] of bread, and an hundred bunches of raisins, and an hundred of summer fruits, and a bottle of wine.

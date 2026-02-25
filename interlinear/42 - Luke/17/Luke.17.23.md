@@ -1,10 +1,53 @@
+---
+title: Luke 17:23
+type: Verse
+kjv: "And they shall say to you, See here; or, see there: go not after them, nor follow them."
+bsb: "People will tell you, ‘Look, there He is!’ or ‘Look, here He is!’ Do not go out or chase after them."
+jesus_said: "And they shall say to you, See here; or, see there: go not after them, nor follow them."
+greek: "καὶ ἐροῦσιν ὑμῖν· ἰδοὺ ἐκεῖ ἢ ἰδοὺ ὧδε. μὴ ἀπέλθητε μηδὲ διώξητε."
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G4483]]"
+- "[[G4771]]"
+- "[[G2400]]"
+- "[[G1563]]"
+- "[[G2228]]"
+- "[[G5602]]"
+- "[[G3361]]"
+- "[[G0565]]"
+- "[[G3366]]"
+- "[[G1377]]"
+texts:
+- NKO
+---
+
 **Luke 17:23**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they shall say to you, See here; or, see there: go not after [them], nor follow [them].
 <small><sub>**BSB:**</sub></small>
 People will tell you, ‘Look, there He is!’ or ‘Look, here He is!’ Do not go out or chase after them.
-<small><sub>**Literal:**</sub></small>
-And they will say to you; Behold there or Behold here. Not may go forth nor may follow.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.22|<< Luke 17:22]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.24|Luke 17:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4483\|ἐροῦσιν]]  [[G4771\|ὑμῖν·]]  [[G2400\|ἰδοὺ]]  [[G1563\|ἐκεῖ]]  [[G2228\|ἢ]]  [[G2400\|ἰδοὺ]]  [[G5602\|ὧδε.]]  [[G3361\|μὴ]]  [[G0565\|ἀπέλθητε]]  [[G3366\|μηδὲ]]  [[G1377\|διώξητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.22|<< Luke 17:22]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.24|Luke 17:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

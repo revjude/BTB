@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Captives Carried to Babylon
+type: Pericope
 pericope: "[[Jer.52.24 Captives Carried to Babylon|Captives Carried to Babylon]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 52
 book/chapter: "[[Jer.52|Jeremiah 52]]"
-genre:
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 7
 verses:
 - "[[Jer.52.24]]"
 - "[[Jer.52.25]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Jer.52.30]]"
 ---
 
-[[Jer.52|Jeremiah 52:24 - Jeremiah 52:30]]
+<small>[[Jer.52|Jeremiah 52:24-30]]</small>
 *Captives Carried to Babylon*
 
 [[Jer.52.24|24]] And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:

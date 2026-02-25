@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 5:9
+type: Verse
+kjv: "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward."
+bsb: "So David took up residence in the fortress and called it the City of David. He built it up all the way around, from the supporting terraces inward."
+hebrew: "וַיֵּ֤שֶׁב דָּוִד֙ בַּמְּצֻדָ֔ה וַיִּקְרָא־ לָ֖הּ עִ֣יר דָּוִ֑ד וַיִּ֤בֶן דָּוִד֙ סָבִ֔יב מִן־ הַמִּלּ֖וֹא וָבָֽיְתָה׃"
+pericope: "[[2Sam.5.6 David Conquers Jerusalem|David Conquers Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MILLO|MILLO]]"
+- "[[topic SIEGE|SIEGE]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H1732]]"
+- "[[H9003]]"
+- "[[H4686B]]"
+- "[[H7121H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H5892B]]"
+- "[[H1129]]"
+- "[[H5439G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H4407]]"
+- "[[H9002]]"
+- "[[H1004O]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 5:9**<big><big>[[2Sam.5.6 David Conquers Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward.
 <small><sub>**BSB:**</sub></small>
 So David took up residence in the fortress and called it the City of David. He built it up all the way around, from the supporting terraces inward.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּ֤שֶׁב]] [[H1732\|דָּוִד֙]] [[H9003\|בַּ]][[H4686B\|מְּצֻדָ֔ה]] [[H9001\|וַ]][[H7121H\|יִּקְרָא]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֑ד]] [[H9001\|וַ]][[H1129\|יִּ֤בֶן]] [[H1732\|דָּוִד֙]] [[H5439G\|סָבִ֔יב]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4407\|מִּלּ֖וֹא]] [[H9002\|וָ]][[H1004O\|בָֽיְתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JEBUSITES|JEBUSITES]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MILLO|MILLO]] • [[topic SIEGE|SIEGE]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.8|<< 2 Samuel 5:8]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.10|2 Samuel 5:10 >>]]</td></tr></table>
 

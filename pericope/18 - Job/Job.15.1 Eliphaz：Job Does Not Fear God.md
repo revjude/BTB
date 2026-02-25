@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Eliphaz：Job Does Not Fear God
+type: Pericope
 pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
-verse_count: 35
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 15
 book/chapter: "[[Job.15|Job 15]]"
-genre:
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 35
 verses:
 - "[[Job.15.1]]"
 - "[[Job.15.2]]"
@@ -54,7 +61,7 @@ verses:
 - "[[Job.15.35]]"
 ---
 
-[[Job.15|Job 15:1 - Job 15:35]]
+<small>[[Job.15|Job 15:1-35]]</small>
 *Eliphaz：Job Does Not Fear God*
 
 [[Job.15.1|1]] Then answered Eliphaz the Temanite, and said,

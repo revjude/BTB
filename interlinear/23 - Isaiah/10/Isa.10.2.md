@@ -1,8 +1,66 @@
+---
+title: Isaiah 10:2
+type: Verse
+kjv: "To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and that they may rob the fatherless!"
+bsb: "to deprive the poor of fair treatment and withhold justice from the oppressed of My people, to make widows their prey and orphans their plunder."
+hebrew: "לְהַטּ֤וֹת מִדִּין֙ דַּלִּ֔ים וְלִגְזֹ֕ל מִשְׁפַּ֖ט עֲנִיֵּ֣י עַמִּ֑י לִהְי֤וֹת אַלְמָנוֹת֙ שְׁלָלָ֔ם וְאֶת־ יְתוֹמִ֖ים יָבֹֽזּוּ׃"
+pericope: "[[Isa.10.1 Woe to Tyrants|Woe to Tyrants]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9005]]"
+- "[[H5186]]"
+- "[[H9006]]"
+- "[[H1779]]"
+- "[[H1800]]"
+- "[[H9002]]"
+- "[[H1497]]"
+- "[[H4941H]]"
+- "[[H6041]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H1961]]"
+- "[[H0490]]"
+- "[[H7998]]"
+- "[[H9028]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3490]]"
+- "[[H0962]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:2**<big><big>[[Isa.10.1 Woe to Tyrants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and [that] they may rob the fatherless!
 <small><sub>**BSB:**</sub></small>
 to deprive the poor of fair treatment and withhold justice from the oppressed of My people, to make widows their prey and orphans their plunder.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H5186\|הַטּ֤וֹת]] [[H9006\|מִ]][[H1779\|דִּין֙]] [[H1800\|דַּלִּ֔ים]] [[H9002\|וְ]][[H9005\|לִ]][[H1497\|גְזֹ֕ל]] [[H4941H\|מִשְׁפַּ֖ט]] [[H6041\|עֲנִיֵּ֣י]] [[H5971A\|עַמִּ֑]][[H9020\|י]] [[H9005\|לִ]][[H1961\|הְי֤וֹת]] [[H0490\|אַלְמָנוֹת֙]] [[H7998\|שְׁלָלָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3490\|יְתוֹמִ֖ים]] [[H0962\|יָבֹֽזּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic ISAIAH|ISAIAH]] • [[topic ORPHAN|ORPHAN]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.1|<< Isaiah 10:1]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.3|Isaiah 10:3 >>]]</td></tr></table>
 

@@ -1,10 +1,75 @@
+---
+title: Revelation 14:7
+type: Verse
+kjv: "Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters."
+bsb: "And he said in a loud voice, “Fear God and give Him glory, because the hour of His judgment has come. Worship the One who made the heavens and the earth and the sea and the springs of waters.”"
+greek: "λέγων ἐν φωνῇ μεγάλῃ· φοβήθητε τὸν θεὸν καὶ δότε αὐτῷ δόξαν, ὅτι ἦλθεν ἡ ὥρα τῆς κρίσεως αὐτοῦ, καὶ προσκυνήσατε τῷ αὐτὸν ποιήσαντι τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θάλασσαν καὶ πηγὰς ὑδάτων.¶"
+pericope: "[[Rev.14.6 The Three Angels and Babylon’s Fall|The Three Angels and Babylon’s Fall]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G5399]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G1391]]"
+- "[[G3754H]]"
+- "[[G2064]]"
+- "[[G5610]]"
+- "[[G2920]]"
+- "[[G4352]]"
+- "[[G4160G]]"
+- "[[G3772]]"
+- "[[G1093G]]"
+- "[[G2281]]"
+- "[[G4077]]"
+- "[[G5204]]"
+texts:
+- N(k)O
+- NKO
+- NK(O)
+- o
+---
+
 **Revelation 14:7**<big><big>[[Rev.14.6 The Three Angels and Babylon’s Fall|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
 <small><sub>**BSB:**</sub></small>
 And he said in a loud voice, “Fear God and give Him glory, because the hour of His judgment has come. Worship the One who made the heavens and the earth and the sea and the springs of waters.”
-<small><sub>**Literal:**</sub></small>
-saying in a voice loud; do fear <the> God and do give to Him glory, because has come the hour of the judgment of Him, And do worship the [One] him [who] having made <the> heaven and the earth and <the> sea and springs of waters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.6|<< Revelation 14:6]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.8|Revelation 14:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων]]  [[G1722\|ἐν]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ·]]  [[G5399\|φοβήθητε]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2532\|καὶ]]  [[G1325\|δότε]]  [[G0846\|αὐτῷ]]  [[G1391\|δόξαν,]]  [[G3754H\|ὅτι]]  [[G2064\|ἦλθεν]]  [[G3588\|ἡ]]  [[G5610\|ὥρα]]  [[G3588\|τῆς]]  [[G2920\|κρίσεως]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G4352\|προσκυνήσατε]]  [[G3588\|τῷ]]  [[G0846\|αὐτὸν]]  [[G4160G\|ποιήσαντι]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G2532\|καὶ]]  [[G4077\|πηγὰς]]  [[G5204\|ὑδάτων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic HEAVEN|HEAVEN]] • [[topic MISSIONS|MISSIONS]] • [[topic PRAISE|PRAISE]] • [[topic REVERENCE|REVERENCE]] • [[topic VISION|VISION]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.6|<< Revelation 14:6]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.8|Revelation 14:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 14:7** is...
 > $\quad$ alluding to: [[LXX.Exod.20.11|Exod 20:11]] ☩ [[LXX.Ps.146.6|Ps 146:6]]

@@ -1,8 +1,72 @@
+---
+title: Isaiah 4:5
+type: Verse
+kjv: "And the LORD will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory shall be a defence."
+bsb: "Then the LORD will create over all of Mount Zion and over her assemblies a cloud of smoke by day and a glowing flame of fire by night. For over all the glory there will be a canopy,"
+hebrew: "וּבָרָ֣א יְהוָ֡ה עַל֩ כָּל־ מְכ֨וֹן הַר־ צִיּ֜וֹן וְעַל־ מִקְרָאֶ֗הָ עָנָ֤ן׀ יוֹמָם֙ וְעָשָׁ֔ן וְנֹ֛גַהּ אֵ֥שׁ לֶהָבָ֖ה לָ֑יְלָה כִּ֥י עַל־ כָּל־ כָּב֖וֹד חֻפָּֽה׃"
+pericope: "[[Isa.4.1 A Remnant in Zion|A Remnant in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 4
+book/chapter: "[[Isa.4|Isaiah 4]]"
+chronological_order: 612
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H1254A]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4349]]"
+- "[[H2022G]]"
+- "[[H6726]]"
+- "[[H9002]]"
+- "[[H4744]]"
+- "[[H9024]]"
+- "[[H6051]]"
+- "[[H9015]]"
+- "[[H3119]]"
+- "[[H6227]]"
+- "[[H5051]]"
+- "[[H0784]]"
+- "[[H3852]]"
+- "[[H3915]]"
+- "[[H3588A]]"
+- "[[H3519]]"
+- "[[H2646]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 4:5**<big><big>[[Isa.4.1 A Remnant in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD will create upon every dwelling place of mount Zion, and upon her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night: for upon all the glory [shall be] a defence.
 <small><sub>**BSB:**</sub></small>
 Then the LORD will create over all of Mount Zion and over her assemblies a cloud of smoke by day and a glowing flame of fire by night. For over all the glory there will be a canopy,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H1254A\|בָרָ֣א]] [[H3068G\|יְהוָ֡ה]] [[H5921A\|עַל֩]] [[H3605\|כָּל]][[H9014\|־]] [[H4349\|מְכ֨וֹן]] [[H2022G\|הַר]][[H9014\|־]] [[H6726\|צִיּ֜וֹן]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4744\|מִקְרָאֶ֗]][[H9024\|הָ]] [[H6051\|עָנָ֤ן]][[H9015\|׀]] [[H3119\|יוֹמָם֙]] [[H9002\|וְ]][[H6227\|עָשָׁ֔ן]] [[H9002\|וְ]][[H5051\|נֹ֛גַהּ]] [[H0784\|אֵ֥שׁ]] [[H3852\|לֶהָבָ֖ה]] [[H3915\|לָ֑יְלָה]] [[H3588A\|כִּ֥י]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3519\|כָּב֖וֹד]] [[H2646\|חֻפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CLOUD|CLOUD]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.4|<< Isaiah 4:4]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.6|Isaiah 4:6 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Zephaniah 3:7
+type: Verse
+kjv: "I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings."
+bsb: "I said, ‘Surely you will fear Me and accept correction.’ Then her dwelling place would not be cut off despite all for which I punished her. But they rose early to corrupt all their deeds."
+hebrew: "אָמַ֜רְתִּי אַךְ־ תִּירְאִ֤י אוֹתִי֙ תִּקְחִ֣י מוּסָ֔ר וְלֹֽא־ יִכָּרֵ֣ת מְעוֹנָ֔הּ כֹּ֥ל אֲשֶׁר־ פָּקַ֖דְתִּי עָלֶ֑יהָ אָכֵן֙ הִשְׁכִּ֣ימוּ הִשְׁחִ֔יתוּ כֹּ֖ל עֲלִילוֹתָֽם׃"
+pericope: "[[Zeph.3.6 Purification of the Nations|Purification of the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RISING|RISING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0559]]"
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H3947H]]"
+- "[[H4148G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3772I]]"
+- "[[H4583]]"
+- "[[H9024]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6485J]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H0403]]"
+- "[[H7925]]"
+- "[[H7843]]"
+- "[[H5949]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 3:7**<big><big>[[Zeph.3.6 Purification of the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, [and] corrupted all their doings.
 <small><sub>**BSB:**</sub></small>
 I said, ‘Surely you will fear Me and accept correction.’ Then her dwelling place would not be cut off despite all for which I punished her. But they rose early to corrupt all their deeds.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֜רְתִּי]] [[H0389\|אַךְ]][[H9014\|־]] [[H3372H\|תִּירְאִ֤י]] [[H0853\|אוֹתִ]][[H9030\|י֙]] [[H3947H\|תִּקְחִ֣י]] [[H4148G\|מוּסָ֔ר]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3772I\|יִכָּרֵ֣ת]] [[H4583\|מְעוֹנָ֔]][[H9024\|הּ]] [[H3605\|כֹּ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6485J\|פָּקַ֖דְתִּי]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H0403\|אָכֵן֙]] [[H7925\|הִשְׁכִּ֣ימוּ]] [[H7843\|הִשְׁחִ֔יתוּ]] [[H3605\|כֹּ֖ל]] [[H5949\|עֲלִילוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic REVERENCE|REVERENCE]] • [[topic RISING|RISING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.6|<< Zephaniah 3:6]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.8|Zephaniah 3:8 >>]]</td></tr></table>
 

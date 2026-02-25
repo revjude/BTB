@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Grain Offering
+type: Pericope
 pericope: "[[Lev.6.14 The Grain Offering|The Grain Offering]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 6
 book/chapter: "[[Lev.6|Leviticus 6]]"
-genre:
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 10
 verses:
 - "[[Lev.6.14]]"
 - "[[Lev.6.15]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Lev.6.23]]"
 ---
 
-[[Lev.6|Leviticus 6:14 - Leviticus 6:23]]
+<small>[[Lev.6|Leviticus 6:14-23]]</small>
 *The Grain Offering*
 
 [[Lev.6.14|14]] And this \[is\] the law of the meat offering: the sons of Aaron shall offer it before the LORD, before the altar.

@@ -1,8 +1,65 @@
+---
+title: Genesis 1:20
+type: Verse
+kjv: "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven."
+bsb: "And God said, “Let the waters teem with living creatures, and let birds fly above the earth in the open expanse of the sky.”"
+hebrew: "וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־ הָאָ֔רֶץ עַל־ פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃"
+pericope: "[[Gen.1.20 The Fifth Day|The Fifth Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic FIRMAMENT|FIRMAMENT]]"
+- "[[topic FISH|FISH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H8317]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H8318]]"
+- "[[H5315K]]"
+- "[[H2416A]]"
+- "[[H9002]]"
+- "[[H5775]]"
+- "[[H5774A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H6440J]]"
+- "[[H7549]]"
+- "[[H8064]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:20**<big><big>[[Gen.1.20 The Fifth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl [that] may fly above the earth in the open firmament of heaven.
 <small><sub>**BSB:**</sub></small>
 And God said, “Let the waters teem with living creatures, and let birds fly above the earth in the open expanse of the sky.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0430G\|אֱלֹהִ֔ים]] [[H8317\|יִשְׁרְצ֣וּ]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H8318\|שֶׁ֖רֶץ]] [[H5315K\|נֶ֣פֶשׁ]] [[H2416A\|חַיָּ֑ה]] [[H9002\|וְ]][[H5775\|עוֹף֙]] [[H5774A\|יְעוֹפֵ֣ף]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֖י]] [[H7549\|רְקִ֥יעַ]] [[H9009\|הַ]][[H8064\|שָּׁמָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRDS|BIRDS]] • [[topic FIRMAMENT|FIRMAMENT]] • [[topic FISH|FISH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.19|<< Genesis 1:19]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.21|Genesis 1:21 >>]]</td></tr></table>
 

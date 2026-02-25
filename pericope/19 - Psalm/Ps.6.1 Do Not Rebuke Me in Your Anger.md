@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Do Not Rebuke Me in Your Anger
+type: Pericope
 pericope: "[[Ps.6.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 6
 book/chapter: "[[Ps.6|Psalm 6]]"
-genre:
+chronological_order: 341
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 11
 verses:
 - "[[Ps.6.0]]"
 - "[[Ps.6.1]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ps.6.10]]"
 ---
 
-[[Ps.6|Psalm 6:1 - Psalm 6:10]]
+<small>[[Ps.6|Psalm 6:1-10]]</small>
 *Do Not Rebuke Me in Your Anger*
 
 [[Ps.6.0|0]] To the chief Musician on Neginoth upon Sheminith, A Psalm of David.

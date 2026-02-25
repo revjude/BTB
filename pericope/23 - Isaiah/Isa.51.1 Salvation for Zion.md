@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Salvation for Zion
+type: Pericope
 pericope: "[[Isa.51.1 Salvation for Zion|Salvation for Zion]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 51
 book/chapter: "[[Isa.51|Isaiah 51]]"
-genre:
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 16
 verses:
 - "[[Isa.51.1]]"
 - "[[Isa.51.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Isa.51.16]]"
 ---
 
-[[Isa.51|Isaiah 51:1 - Isaiah 51:16]]
+<small>[[Isa.51|Isaiah 51:1-16]]</small>
 *Salvation for Zion*
 
 [[Isa.51.1|1]] Hearken to me, ye that follow after righteousness, ye that seek the LORD: look unto the rock \[whence\] ye are hewn, and to the hole of the pit \[whence\] ye are digged.

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Prodigal Son
+type: Pericope
 pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
-verse_count: 22
+original_language: Greek
 testament: New
 book: Luke
 chapter: 15
 book/chapter: "[[Luke.15|Luke 15]]"
-genre:
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 22
 verses:
 - "[[Luke.15.11]]"
 - "[[Luke.15.12]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Luke.15.32]]"
 ---
 
-[[Luke.15|Luke 15:11 - Luke 15:32]]
+<small>[[Luke.15|Luke 15:11-32]]</small>
 *The Parable of the Prodigal Son*
 
 [[Luke.15.11|11]] And he said, A certain man had two sons:

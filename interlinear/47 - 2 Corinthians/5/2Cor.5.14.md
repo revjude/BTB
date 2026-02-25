@@ -1,10 +1,63 @@
+---
+title: 2 Corinthians 5:14
+type: Verse
+kjv: "For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:"
+bsb: "For Christ’s love compels us, because we are convinced that One died for all, therefore all died."
+greek: "ἡ γὰρ ἀγάπη τοῦ Χριστοῦ συνέχει ἡμᾶς κρίναντας τοῦτο, ὅτι εἰ εἷς ὑπὲρ πάντων ἀπέθανεν· ἄρα οἱ πάντες ἀπέθανον."
+pericope: "[[2Cor.5.11 Ambassadors for Christ|Ambassadors for Christ]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 5
+book/chapter: "[[2Cor.5|2 Corinthians 5]]"
+chronological_order: 1078
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G0026]]"
+- "[[G5547]]"
+- "[[G4912]]"
+- "[[G3165]]"
+- "[[G2919]]"
+- "[[G3778]]"
+- "[[G3754G]]"
+- "[[G1487G]]"
+- "[[G1520]]"
+- "[[G5228]]"
+- "[[G3956]]"
+- "[[G0599]]"
+- "[[G0686]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 5:14**<big><big>[[2Cor.5.11 Ambassadors for Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the love of Christ constraineth us; because we thus judge, that if one died for all, then were all dead:
 <small><sub>**BSB:**</sub></small>
 For Christ’s love compels us, because we are convinced that One died for all, therefore all died.
-<small><sub>**Literal:**</sub></small>
-The for love <the> of Christ compels us having concluded this, that if One for all has died; therefore <the> all have died.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.13|<< 2 Corinthians 5:13]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.15|2 Corinthians 5:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G0026\|ἀγάπη]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G4912\|συνέχει]]  [[G3165\|ἡμᾶς]]  [[G2919\|κρίναντας]]  [[G3778\|τοῦτο,]]  [[G3754G\|ὅτι]]  [[G1487G\|εἰ]]  [[G1520\|εἷς]]  [[G5228\|ὑπὲρ]]  [[G3956\|πάντων]]  [[G0599\|ἀπέθανεν·]]  [[G0686\|ἄρα]]  [[G3588\|οἱ]]  [[G3956\|πάντες]]  [[G0599\|ἀπέθανον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SUFFERING|SUFFERING]] • [[topic UNSELFISHNESS|UNSELFISHNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.5.13|<< 2 Corinthians 5:13]]</td><td align="center" style="border:none;">[[2Cor.5|2 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.5.15|2 Corinthians 5:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Deliverance Promised to Israel
+type: Pericope
 pericope: "[[Isa.48.12 Deliverance Promised to Israel|Deliverance Promised to Israel]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 48
 book/chapter: "[[Isa.48|Isaiah 48]]"
-genre:
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 11
 verses:
 - "[[Isa.48.12]]"
 - "[[Isa.48.13]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Isa.48.22]]"
 ---
 
-[[Isa.48|Isaiah 48:12 - Isaiah 48:22]]
+<small>[[Isa.48|Isaiah 48:12-22]]</small>
 *Deliverance Promised to Israel*
 
 [[Isa.48.12|12]] Hearken unto me, O Jacob and Israel, my called; I \[am\] he; I \[am\] the first, I also \[am\] the last.

@@ -1,8 +1,56 @@
+---
+title: Ezekiel 41:2
+type: Verse
+kjv: "And the breadth of the door was ten cubits; and the sides of the door were five cubits on the one side, and five cubits on the other side: and he measured the length thereof, forty cubits: and the breadth, twenty cubits."
+bsb: "The width of the entrance was ten cubits, and the sides of the entrance were five cubits on each side. He also measured the length of the outer sanctuary to be forty cubits, and the width to be twenty cubits."
+hebrew: "וְרֹ֣חַב הַפֶּתַח֮ עֶ֣שֶׂר אַמּוֹת֒ וְכִתְפ֣וֹת הַפֶּ֔תַח חָמֵ֤שׁ אַמּוֹת֙ מִפּ֔וֹ וְחָמֵ֥שׁ אַמּ֖וֹת מִפּ֑וֹ וַיָּ֤מָד אָרְכּוֹ֙ אַרְבָּעִ֣ים אַמָּ֔ה וְרֹ֖חַב עֶשְׂרִ֥ים אַמָּֽה׃"
+pericope: "[[Ezek.41.1 Inside the Temple|Inside the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H9009]]"
+- "[[H6607]]"
+- "[[H6235]]"
+- "[[H0520A]]"
+- "[[H3802]]"
+- "[[H2568]]"
+- "[[H9006]]"
+- "[[H6311]]"
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H0705]]"
+- "[[H6242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:2**<big><big>[[Ezek.41.1 Inside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the breadth of the door [was] ten cubits; and the sides of the door [were] five cubits on the one side, and five cubits on the other side: and he measured the length thereof, forty cubits: and the breadth, twenty cubits.
 <small><sub>**BSB:**</sub></small>
 The width of the entrance was ten cubits, and the sides of the entrance were five cubits on each side. He also measured the length of the outer sanctuary to be forty cubits, and the width to be twenty cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7341\|רֹ֣חַב]] [[H9009\|הַ]][[H6607\|פֶּתַח֮]] [[H6235\|עֶ֣שֶׂר]] [[H0520A\|אַמּוֹת֒]] [[H9002\|וְ]][[H3802\|כִתְפ֣וֹת]] [[H9009\|הַ]][[H6607\|פֶּ֔תַח]] [[H2568\|חָמֵ֤שׁ]] [[H0520A\|אַמּוֹת֙]] [[H9006\|מִ]][[H6311\|פּ֔וֹ]] [[H9002\|וְ]][[H2568\|חָמֵ֥שׁ]] [[H0520A\|אַמּ֖וֹת]] [[H9006\|מִ]][[H6311\|פּ֑וֹ]] [[H9001\|וַ]][[H4058\|יָּ֤מָד]] [[H0753\|אָרְכּ]][[H9023\|וֹ֙]] [[H0705\|אַרְבָּעִ֣ים]] [[H0520A\|אַמָּ֔ה]] [[H9002\|וְ]][[H7341\|רֹ֖חַב]] [[H6242\|עֶשְׂרִ֥ים]] [[H0520A\|אַמָּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.1|<< Ezekiel 41:1]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.3|Ezekiel 41:3 >>]]</td></tr></table>
 

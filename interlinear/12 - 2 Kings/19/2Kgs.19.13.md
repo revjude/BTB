@@ -1,8 +1,57 @@
+---
+title: 2 Kings 19:13
+type: Verse
+kjv: "Where is the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?"
+bsb: "Where are the kings of Hamath, Arpad, Sepharvaim, Hena, and Ivvah?’”"
+hebrew: "אַיּ֤וֹ מֶֽלֶךְ־ חֲמָת֙ וּמֶ֣לֶךְ אַרְפָּ֔ד וּמֶ֖לֶךְ לָעִ֣יר סְפַרְוָ֑יִם הֵנַ֖ע וְעִוָּֽה׃"
+pericope: "[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARPAD|ARPAD]]"
+- "[[topic AVA|AVA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HENA|HENA]]"
+- "[[topic IVAH|IVAH]]"
+- "[[topic SEPHARVAIM|SEPHARVAIM]]"
+strongs:
+- "[[H0335]]"
+- "[[H9043]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H2574G]]"
+- "[[H9002]]"
+- "[[H0774]]"
+- "[[H5892B]]"
+- "[[H5617]]"
+- "[[H2012]]"
+- "[[H5755]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:13**<big><big>[[2Kgs.19.8 Sennacherib’s Blasphemous Letter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [is] the king of Hamath, and the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivah?
 <small><sub>**BSB:**</sub></small>
 Where are the kings of Hamath, Arpad, Sepharvaim, Hena, and Ivvah?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H0335\|אַיּ֤]][[H9043\|וֹ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H2574G\|חֲמָת֙]] [[H9002\|וּ]][[H4428G\|מֶ֣לֶךְ]] [[H0774\|אַרְפָּ֔ד]] [[H9002\|וּ]][[H4428G\|מֶ֖לֶךְ]] [[H5892B\|לָעִ֣יר]] [[H5617\|סְפַרְוָ֑יִם]] [[H2012\|הֵנַ֖ע]] [[H9002\|וְ]][[H5755\|עִוָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARPAD|ARPAD]] • [[topic AVA|AVA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HENA|HENA]] • [[topic IVAH|IVAH]] • [[topic SEPHARVAIM|SEPHARVAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.12|<< 2 Kings 19:12]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.14|2 Kings 19:14 >>]]</td></tr></table>
 

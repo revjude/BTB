@@ -1,8 +1,70 @@
+---
+title: Leviticus 13:28
+type: Verse
+kjv: "And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a rising of the burning, and the priest shall pronounce him clean: for it is an inflammation of the burning."
+bsb: "But if the spot is unchanged and has not spread on the skin but has faded, it is a swelling from the burn, and the priest is to pronounce him clean; for it is only the scar from the burn."
+hebrew: "וְאִם־ תַּחְתֶּיהָ֩ תַעֲמֹ֨ד הַבַּהֶ֜רֶת לֹא־ פָשְׂתָ֤ה בָעוֹר֙ וְהִ֣וא כֵהָ֔ה שְׂאֵ֥ת הַמִּכְוָ֖ה הִ֑וא וְטִֽהֲרוֹ֙ הַכֹּהֵ֔ן כִּֽי־ צָרֶ֥בֶת הַמִּכְוָ֖ה הִֽוא׃ פ"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CONGESTION|CONGESTION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8478I]]"
+- "[[H9034]]"
+- "[[H5975G]]"
+- "[[H9009]]"
+- "[[H0934]]"
+- "[[H3808]]"
+- "[[H6581]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H1931]]"
+- "[[H3544]]"
+- "[[H7613]]"
+- "[[H4348]]"
+- "[[H9001]]"
+- "[[H2891]]"
+- "[[H9033]]"
+- "[[H3548]]"
+- "[[H3588A]]"
+- "[[H6867B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Leviticus 13:28**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the bright spot stay in his place, [and] spread not in the skin, but it [be] somewhat dark; it [is] a rising of the burning, and the priest shall pronounce him clean: for it [is] an inflammation of the burning.
 <small><sub>**BSB:**</sub></small>
 But if the spot is unchanged and has not spread on the skin but has faded, it is a swelling from the burn, and the priest is to pronounce him clean; for it is only the scar from the burn.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H8478I\|תַּחְתֶּי]][[H9034\|הָ֩]] [[H5975G\|תַעֲמֹ֨ד]] [[H9009\|הַ]][[H0934\|בַּהֶ֜רֶת]] [[H3808\|לֹא]][[H9014\|־]] [[H6581\|פָשְׂתָ֤ה]] [[H9003\|בָ]][[H5785\|עוֹר֙]] [[H9002\|וְ]][[H1931\|הִ֣וא]] [[H3544\|כֵהָ֔ה]] [[H7613\|שְׂאֵ֥ת]] [[H9009\|הַ]][[H4348\|מִּכְוָ֖ה]] [[H1931\|הִ֑וא]] [[H9001\|וְ]][[H2891\|טִֽהֲר]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6867B\|צָרֶ֥בֶת]] [[H9009\|הַ]][[H4348\|מִּכְוָ֖ה]] [[H1931\|הִֽוא]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONGESTION|CONGESTION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.27|<< Leviticus 13:27]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.29|Leviticus 13:29 >>]]</td></tr></table>
 
@@ -25,7 +87,7 @@ But if the spot is unchanged and has not spread on the skin but has faded, it is
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] [the] scar of  |**<big>&#8207;[[H6867B\|צָרֶ֥בֶת]]&#8207; </big>**| tza.Re.vet<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the burn  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4348\|מִּכְוָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mikh.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it  |**<big>&#8207;[[H1931\|הִֽוא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it  |**<big>&#8207;[[H1931\|הִֽוא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.27|<< Leviticus 13:27]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.29|Leviticus 13:29 >>]]</td></tr></table>
 
 

@@ -1,8 +1,68 @@
+---
+title: 2 Kings 23:7
+type: Verse
+kjv: "And he brake down the houses of the sodomites, that were by the house of the LORD, where the women wove hangings for the grove."
+bsb: "He also tore down the quarters of the male shrine prostitutes that were in the house of the LORD, where the women had woven tapestries for Asherah."
+hebrew: "וַיִּתֹּץ֙ אֶת־ בָּתֵּ֣י הַקְּדֵשִׁ֔ים אֲשֶׁ֖ר בְּבֵ֣ית יְהוָ֑ה אֲשֶׁ֣ר הַנָּשִׁ֗ים אֹרְג֥וֹת שָׁ֛ם בָּתִּ֖ים לָאֲשֵׁרָֽה׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SODOMITES|SODOMITES]]"
+- "[[topic SODOMY|SODOMY]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+- "[[topic WEAVING|WEAVING]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5422]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H6945]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0802G]]"
+- "[[H0707]]"
+- "[[H8033G]]"
+- "[[H1004N]]"
+- "[[H9005]]"
+- "[[H0842]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:7**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brake down the houses of the sodomites, that [were] by the house of the LORD, where the women wove hangings for the grove.
 <small><sub>**BSB:**</sub></small>
 He also tore down the quarters of the male shrine prostitutes that were in the house of the LORD, where the women had woven tapestries for Asherah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5422\|יִּתֹּץ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בָּתֵּ֣י]] [[H9009\|הַ]][[H6945\|קְּדֵשִׁ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֗ים]] [[H0707\|אֹרְג֥וֹת]] [[H8033G\|שָׁ֛ם]] [[H1004N\|בָּתִּ֖ים]] [[H9005\|לָ]][[H0842\|אֲשֵׁרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic PROPHECY|PROPHECY]] • [[topic SODOMITES|SODOMITES]] • [[topic SODOMY|SODOMY]] • [[topic TAPESTRY|TAPESTRY]] • [[topic WEAVING|WEAVING]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.6|<< 2 Kings 23:6]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.8|2 Kings 23:8 >>]]</td></tr></table>
 

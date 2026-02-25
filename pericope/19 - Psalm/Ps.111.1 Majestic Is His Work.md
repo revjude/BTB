@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Majestic Is His Work
+type: Pericope
 pericope: "[[Ps.111.1 Majestic Is His Work|Majestic Is His Work]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 111
 book/chapter: "[[Ps.111|Psalm 111]]"
-genre:
+chronological_order: 873
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 10
 verses:
 - "[[Ps.111.1]]"
 - "[[Ps.111.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ps.111.10]]"
 ---
 
-[[Ps.111|Psalm 111:1 - Psalm 111:10]]
+<small>[[Ps.111|Psalm 111:1-10]]</small>
 *Majestic Is His Work*
 
 [[Ps.111.1|1]] Praise ye the LORD. I will praise the LORD with \[my\] whole heart, in the assembly of the upright, and \[in\] the congregation.

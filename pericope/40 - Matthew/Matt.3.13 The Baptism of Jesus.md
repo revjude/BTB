@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Baptism of Jesus
+type: Pericope
 pericope: "[[Matt.3.13 The Baptism of Jesus|The Baptism of Jesus]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 3
 book/chapter: "[[Matt.3|Matthew 3]]"
-genre:
+chronological_order: 935
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.3.13]]"
 - "[[Matt.3.14]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.3.17]]"
 ---
 
-[[Matt.3|Matthew 3:13 - Matthew 3:17]]
+<small>[[Matt.3|Matthew 3:13-17]]</small>
 *The Baptism of Jesus*
 
 [[Matt.3.13|13]] Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.

@@ -1,10 +1,59 @@
+---
+title: Mark 1:40
+type: Verse
+kjv: "And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean."
+bsb: "Then a leper came to Jesus, begging on his knees: “If You are willing, You can make me clean.”"
+greek: "Καὶ ἔρχεται πρὸς αὐτὸν λεπρὸς παρακαλῶν αὐτὸν καὶ γονυπετῶν αὐτὸν καὶ λέγων αὐτῷ ὅτι ἐὰν θέλῃς δύνασαί με καθαρίσαι."
+pericope: "[[Mark.1.40 The Leper’s Prayer|The Leper’s Prayer]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3015]]"
+- "[[G3870]]"
+- "[[G1120]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G2309]]"
+- "[[G1410]]"
+- "[[G3165]]"
+- "[[G2511]]"
+texts:
+- NKO
+- ko
+---
+
 **Mark 1:40**<big><big>[[Mark.1.40 The Leper’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If thou wilt, thou canst make me clean.
 <small><sub>**BSB:**</sub></small>
 Then a leper came to Jesus, begging on his knees: “If You are willing, You can make me clean.”
-<small><sub>**Literal:**</sub></small>
-And comes to Him a leper imploring Him and kneeling down to him and saying to Him that If You may be willing You are able me to cleanse.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.39|<< Mark 1:39]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.41|Mark 1:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἔρχεται]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3015\|λεπρὸς]]  [[G3870\|παρακαλῶν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G1120\|γονυπετῶν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|λέγων]]  [[G0846\|αὐτῷ]]  [[G3754G\|ὅτι]]  [[G1437\|ἐὰν]]  [[G2309\|θέλῃς]]  [[G1410\|δύνασαί]]  [[G3165\|με]]  [[G2511\|καθαρίσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.39|<< Mark 1:39]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.41|Mark 1:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

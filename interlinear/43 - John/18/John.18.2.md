@@ -1,10 +1,60 @@
+---
+title: John 18:2
+type: Verse
+kjv: "And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples."
+bsb: "Now Judas His betrayer also knew the place, because Jesus had often met there with His disciples."
+greek: "ἤιδει δὲ καὶ Ἰούδας ὁ παραδιδοὺς αὐτὸν τὸν τόπον, ὅτι πολλάκις συνήχθη ὁ Ἰησοῦς ἐκεῖ μετὰ τῶν μαθητῶν αὐτοῦ.¶"
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G1492I]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2455H]]"
+- "[[G3588]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G5117]]"
+- "[[G3754H]]"
+- "[[G4178]]"
+- "[[G4863]]"
+- "[[G2424G]]"
+- "[[G1563]]"
+- "[[G3326]]"
+- "[[G3101]]"
+texts:
+- NKO
+- ko
+---
+
 **John 18:2**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Judas also, which betrayed him, knew the place: for Jesus ofttimes resorted thither with his disciples.
 <small><sub>**BSB:**</sub></small>
 Now Judas His betrayer also knew the place, because Jesus had often met there with His disciples.
-<small><sub>**Literal:**</sub></small>
-Knew now also Judas who is delivering up Him the place, because often gathered together <the> Jesus there with the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.1|<< John 18:1]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.3|John 18:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492I\|ἤιδει]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2455H\|Ἰούδας]]  [[G3588\|ὁ]]  [[G3860\|παραδιδοὺς]]  [[G0846\|αὐτὸν]]  [[G3588\|τὸν]]  [[G5117\|τόπον,]]  [[G3754H\|ὅτι]]  [[G4178\|πολλάκις]]  [[G4863\|συνήχθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1563\|ἐκεῖ]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PROPHECY|PROPHECY]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.1|<< John 18:1]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.3|John 18:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

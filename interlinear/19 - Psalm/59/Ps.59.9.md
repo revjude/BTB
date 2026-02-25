@@ -1,8 +1,56 @@
+---
+title: Psalm 59:9
+type: Verse
+kjv: "Because of his strength will I wait upon thee: for God is my defence."
+bsb: "I will keep watch for You, O my strength, because You, O God, are my fortress."
+hebrew: "עֻ֭זּוֹ אֵלֶ֣יךָ אֶשְׁמֹ֑רָה כִּֽי־ אֱ֝לֹהִ֗ים מִשְׂגַּבִּֽי׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H5797]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H8104I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H4869A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:9**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Because of] his strength will I wait upon thee: for God [is] my defence.
 <small><sub>**BSB:**</sub></small>
 I will keep watch for You, O my strength, because You, O God, are my fortress.
+<small><sub>**Hebrew:**</sub></small>
+[[H5797\|עֻ֭זּ]][[H9023\|וֹ]] [[H0413\|אֵלֶ֣י]][[H9031\|ךָ]] [[H8104I\|אֶשְׁמֹ֑רָה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0430G\|אֱ֝לֹהִ֗ים]] [[H4869A\|מִשְׂגַּבִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.8|<< Psalms 59:8]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.10|Psalms 59:10 >>]]</td></tr></table>
 

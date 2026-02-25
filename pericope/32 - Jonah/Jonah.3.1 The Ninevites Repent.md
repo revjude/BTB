@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ninevites Repent
+type: Pericope
 pericope: "[[Jonah.3.1 The Ninevites Repent|The Ninevites Repent]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Jonah
 chapter: 3
 book/chapter: "[[Jonah.3|Jonah 3]]"
-genre:
+chronological_order: 596
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
 - latter prophets
 - minor prophets
 - narrative
 - prophetic narrative
 - parable
+verse_count: 10
 verses:
 - "[[Jonah.3.1]]"
 - "[[Jonah.3.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jonah.3.10]]"
 ---
 
-[[Jonah.3|Jonah 3:1 - Jonah 3:10]]
+<small>[[Jonah.3|Jonah 3:1-10]]</small>
 *The Ninevites Repent*
 
 [[Jonah.3.1|1]] And the word of the LORD came unto Jonah the second time, saying,

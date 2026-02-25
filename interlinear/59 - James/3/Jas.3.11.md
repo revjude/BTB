@@ -1,10 +1,51 @@
+---
+title: James 3:11
+type: Verse
+kjv: "Doth a fountain send forth at the same place sweet water and bitter?"
+bsb: "Can both fresh water and salt water flow from the same spring?"
+greek: "μήτι ἡ πηγὴ ἐκ τῆς αὐτῆς ὀπῆς βρύει τὸ γλυκὺ καὶ τὸ πικρόν;"
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SPRING|SPRING]]"
+strongs:
+- "[[G3385]]"
+- "[[G3588]]"
+- "[[G4077]]"
+- "[[G1537]]"
+- "[[G0846]]"
+- "[[G3692]]"
+- "[[G1032]]"
+- "[[G1099]]"
+- "[[G2532]]"
+- "[[G4089]]"
+texts:
+- NKO
+---
+
 **James 3:11**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Doth a fountain send forth at the same place sweet [water] and bitter?
 <small><sub>**BSB:**</sub></small>
 Can both fresh water and salt water flow from the same spring?
-<small><sub>**Literal:**</sub></small>
-surely not ever the spring out of the same opening pours forth <the> [both] fresh and <the> bitter?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.10|<< James 3:10]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.12|James 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3385\|μήτι]]  [[G3588\|ἡ]]  [[G4077\|πηγὴ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G0846\|αὐτῆς]]  [[G3692\|ὀπῆς]]  [[G1032\|βρύει]]  [[G3588\|τὸ]]  [[G1099\|γλυκὺ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4089\|πικρόν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SPRING|SPRING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.10|<< James 3:10]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.12|James 3:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,68 @@
+---
+title: Ezekiel 28:26
+type: Verse
+kjv: "And they shall dwell safely therein, and shall build houses, and plant vineyards; yea, they shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I am the LORD their God."
+bsb: "And there they will dwell securely, build houses, and plant vineyards. They will dwell securely when I execute judgments against all those around them who treat them with contempt. Then they will know that I am the LORD their God.’”"
+hebrew: "וְיָשְׁב֣וּ עָלֶיהָ֮ לָבֶטַח֒ וּבָנ֤וּ בָתִּים֙ וְנָטְע֣וּ כְרָמִ֔ים וְיָשְׁב֖וּ לָבֶ֑טַח בַּעֲשׂוֹתִ֣י שְׁפָטִ֗ים בְּכֹ֨ל הַשָּׁאטִ֤ים אֹתָם֙ מִסְּבִ֣יבוֹתָ֔ם וְיָ֣דְע֔וּ כִּ֛י אֲנִ֥י יְהוָ֖ה אֱלֹהֵיהֶֽם׃ ס"
+pericope: "[[Ezek.28.25 The Restoration of Israel|The Restoration of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H5193]]"
+- "[[H3754]]"
+- "[[H9003]]"
+- "[[H6213A]]"
+- "[[H9040]]"
+- "[[H8201]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7590]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H5439J]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 28:26**<big><big>[[Ezek.28.25 The Restoration of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall dwell safely therein, and shall build houses, and plant vineyards; yea, they shall dwell with confidence, when I have executed judgments upon all those that despise them round about them; and they shall know that I [am] the LORD their God.
 <small><sub>**BSB:**</sub></small>
 And there they will dwell securely, build houses, and plant vineyards. They will dwell securely when I execute judgments against all those around them who treat them with contempt. Then they will know that I am the LORD their God.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3427\|יָשְׁב֣וּ]] [[H5921A\|עָלֶי]][[H9034\|הָ֮]] [[H9005\|לָ]][[H0983\|בֶטַח֒]] [[H9001\|וּ]][[H1129\|בָנ֤וּ]] [[H1004B\|בָתִּים֙]] [[H9001\|וְ]][[H5193\|נָטְע֣וּ]] [[H3754\|כְרָמִ֔ים]] [[H9001\|וְ]][[H3427\|יָשְׁב֖וּ]] [[H9005\|לָ]][[H0983\|בֶ֑טַח]] [[H9003\|בַּ]][[H6213A\|עֲשׂוֹתִ֣]][[H9040\|י]] [[H8201\|שְׁפָטִ֗ים]] [[H9003\|בְּ]][[H3605\|כֹ֨ל]] [[H9009\|הַ]][[H7590\|שָּׁאטִ֤ים]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9006\|מִ]][[H5439J\|סְּבִ֣יבוֹתָ֔]][[H9038\|ם]] [[H9001\|וְ]][[H3045\|יָ֣דְע֔וּ]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.25|<< Ezekiel 28:25]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.1|Ezekiel 29:1 >>]]</td></tr></table>
 
@@ -27,7 +87,7 @@ And there they will dwell securely, build houses, and plant vineyards. They will
 | that  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God their  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God their  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.25|<< Ezekiel 28:25]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.1|Ezekiel 29:1 >>]]</td></tr></table>
 
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Deliverance of Israel
+type: Pericope
 pericope: "[[Obad.1.15 The Deliverance of Israel|The Deliverance of Israel]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Obadiah
 chapter: 1
 book/chapter: "[[Obad.1|Obadiah 1]]"
-genre:
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 7
 verses:
 - "[[Obad.1.15]]"
 - "[[Obad.1.16]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Obad.1.21]]"
 ---
 
-[[Obad.1|Obadiah 1:15 - Obadiah 1:21]]
+<small>[[Obad.1|Obadiah 1:15-21]]</small>
 *The Deliverance of Israel*
 
 [[Obad.1.15|15]] For the day of the LORD \[is\] near upon all the heathen: as thou hast done, it shall be done unto thee: thy reward shall return upon thine own head.

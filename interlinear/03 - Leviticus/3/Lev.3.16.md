@@ -1,8 +1,63 @@
+---
+title: Leviticus 3:16
+type: Verse
+kjv: "And the priest shall burn them upon the altar: it is the food of the offering made by fire for a sweet savour: all the fat is the LORD’S."
+bsb: "Then the priest is to burn the food on the altar as a food offering, a pleasing aroma. All the fat is the LORD’s."
+hebrew: "וְהִקְטִירָ֥ם הַכֹּהֵ֖ן הַמִּזְבֵּ֑חָה לֶ֤חֶם אִשֶּׁה֙ לְרֵ֣יחַ נִיחֹ֔חַ כָּל־ חֵ֖לֶב לַיהוָֽה׃"
+pericope: "[[Lev.3.1 Laws for Peace Offerings|Laws for Peace Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 3
+book/chapter: "[[Lev.3|Leviticus 3]]"
+chronological_order: 135
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAT|FAT]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H3899G]]"
+- "[[H0801]]"
+- "[[H9005]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2459]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 3:16**<big><big>[[Lev.3.1 Laws for Peace Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall burn them upon the altar: [it is] the food of the offering made by fire for a sweet savour: all the fat [is] the LORD’S.
 <small><sub>**BSB:**</sub></small>
 Then the priest is to burn the food on the altar as a food offering, a pleasing aroma. All the fat is the LORD’s.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6999A\|הִקְטִירָ֥]][[H9038\|ם]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חָ]][[H9011\|ה]] [[H3899G\|לֶ֤חֶם]] [[H0801\|אִשֶּׁה֙]] [[H9005\|לְ]][[H7381\|רֵ֣יחַ]] [[H5207\|נִיחֹ֔חַ]] [[H3605\|כָּל]][[H9014\|־]] [[H2459\|חֵ֖לֶב]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.3.15|<< Leviticus 3:15]]</td><td align="center" style="border:none;">[[Lev.3|Leviticus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.3.17|Leviticus 3:17 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: 1 Kings 22:9
+type: Verse
+kjv: "Then the king of Israel called an officer, and said, Hasten hither Micaiah the son of Imlah."
+bsb: "So the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”"
+hebrew: "וַיִּקְרָא֙ מֶ֣לֶךְ יִשְׂרָאֵ֔ל אֶל־ סָרִ֖יס אֶחָ֑ד וַיֹּ֕אמֶר מַהֲרָ֖ה מִיכָ֥יְהוּ בֶן־ יִמְלָֽה׃"
+pericope: "[[1Kgs.22.1 Ahab and the False Prophets|Ahab and the False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5631]]"
+- "[[H0259]]"
+- "[[H0559]]"
+- "[[H4116A]]"
+- "[[H9012]]"
+- "[[H4321G]]"
+- "[[H1121A]]"
+- "[[H3229]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:9**<big><big>[[1Kgs.22.1 Ahab and the False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king of Israel called an officer, and said, Hasten [hither] Micaiah the son of Imlah.
 <small><sub>**BSB:**</sub></small>
 So the king of Israel called one of his officials and said, “Bring Micaiah son of Imlah at once.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָא֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0413\|אֶל]][[H9014\|־]] [[H5631\|סָרִ֖יס]] [[H0259\|אֶחָ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H4116A\|מַהֲרָ֖]][[H9012\|ה]] [[H4321G\|מִיכָ֥יְהוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3229\|יִמְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic MICAIAH|MICAIAH]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.8|<< 1 Kings 22:8]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.10|1 Kings 22:10 >>]]</td></tr></table>
 

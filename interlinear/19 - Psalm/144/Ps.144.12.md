@@ -1,8 +1,61 @@
+---
+title: Psalm 144:12
+type: Verse
+kjv: "That our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the similitude of a palace:"
+bsb: "Then our sons will be like plants nurtured in their youth, our daughters like corner pillars carved to adorn a palace."
+hebrew: "אֲשֶׁ֤ר בָּנֵ֨ינוּ׀ כִּנְטִעִים֮ מְגֻדָּלִ֪ים בִּֽנְעוּרֵ֫יהֶ֥ם בְּנוֹתֵ֥ינוּ כְזָוִיֹּ֑ת מְ֝חֻטָּב֗וֹת תַּבְנִ֥ית הֵיכָֽל׃"
+pericope: "[[Ps.144.1 Blessed Be the LORD, My Rock|Blessed Be the LORD, My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 144
+book/chapter: "[[Ps.144|Psalm 144]]"
+chronological_order: 390
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CORNERSTONE|CORNERSTONE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOUSE|HOUSE]]"
+strongs:
+- "[[H0834A]]"
+- "[[H1121G]]"
+- "[[H9025]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H5195]]"
+- "[[H1431]]"
+- "[[H9003]]"
+- "[[H5271A]]"
+- "[[H9028]]"
+- "[[H1323G]]"
+- "[[H2106]]"
+- "[[H2404]]"
+- "[[H8403]]"
+- "[[H1964H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 144:12**<big><big>[[Ps.144.1 Blessed Be the LORD, My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That our sons [may be] as plants grown up in their youth; [that] our daughters [may be] as corner stones, polished [after] the similitude of a palace:
 <small><sub>**BSB:**</sub></small>
 Then our sons will be like plants nurtured in their youth, our daughters like corner pillars carved to adorn a palace.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֤ר]] [[H1121G\|בָּנֵ֨י]][[H9025\|נוּ]][[H9015\|׀]] [[H9004\|כִּ]][[H5195\|נְטִעִים֮]] [[H1431\|מְגֻדָּלִ֪ים]] [[H9003\|בִּֽ]][[H5271A\|נְעוּרֵ֫י]][[H9028\|הֶ֥ם]] [[H1323G\|בְּנוֹתֵ֥י]][[H9025\|נוּ]] [[H9004\|כְ]][[H2106\|זָוִיֹּ֑ת]] [[H2404\|מְ֝חֻטָּב֗וֹת]] [[H8403\|תַּבְנִ֥ית]] [[H1964H\|הֵיכָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORNERSTONE|CORNERSTONE]] • [[topic GOD|GOD]] • [[topic HOUSE|HOUSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.144.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.144.11|<< Psalms 144:11]]</td><td align="center" style="border:none;">[[Ps.144|Psalms 144]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.144.13|Psalms 144:13 >>]]</td></tr></table>
 

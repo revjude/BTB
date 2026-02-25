@@ -1,8 +1,71 @@
+---
+title: Ecclesiastes 9:12
+type: Verse
+kjv: "For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them."
+bsb: "For surely no man knows his time: Like fish caught in a cruel net or birds trapped in a snare, so men are ensnared in an evil time that suddenly falls upon them."
+hebrew: "כִּ֡י גַּם֩ לֹֽא־ יֵדַ֨ע הָאָדָ֜ם אֶת־ עִתּ֗וֹ כַּדָּגִים֙ שֶׁנֶּֽאֱחָזִים֙ בִּמְצוֹדָ֣ה רָעָ֔ה וְכַ֨צִּפֳּרִ֔ים הָאֲחֻז֖וֹת בַּפָּ֑ח כָּהֵ֗ם יֽוּקָשִׁים֙ בְּנֵ֣י הָֽאָדָ֔ם לְעֵ֣ת רָעָ֔ה כְּשֶׁתִּפּ֥וֹל עֲלֵיהֶ֖ם פִּתְאֹֽם׃"
+pericope: "[[Eccl.9.7 Enjoy Your Portion in This Life|Enjoy Your Portion in This Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic NET|NET]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H0853]]"
+- "[[H6256]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H1709H]]"
+- "[[H9007]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H4685C]]"
+- "[[H7451H]]"
+- "[[H9002]]"
+- "[[H6833]]"
+- "[[H6341A]]"
+- "[[H9038]]"
+- "[[H3369]]"
+- "[[H1121A]]"
+- "[[H9005]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H6597]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 9:12**<big><big>[[Eccl.9.7 Enjoy Your Portion in This Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so [are] the sons of men snared in an evil time, when it falleth suddenly upon them.
 <small><sub>**BSB:**</sub></small>
 For surely no man knows his time: Like fish caught in a cruel net or birds trapped in a snare, so men are ensnared in an evil time that suddenly falls upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֡י]] [[H1571\|גַּם֩]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יֵדַ֨ע]] [[H9009\|הָ]][[H0120G\|אָדָ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6256\|עִתּ֗]][[H9023\|וֹ]] [[H9004\|כַּ]][[H1709H\|דָּגִים֙]] [[H9007\|שֶׁ]][[H0270\|נֶּֽאֱחָזִים֙]] [[H9003\|בִּ]][[H4685C\|מְצוֹדָ֣ה]] [[H7451H\|רָעָ֔ה]] [[H9002\|וְ]][[H9004\|כַ֨]][[H6833\|צִּפֳּרִ֔ים]] [[H9009\|הָ]][[H0270\|אֲחֻז֖וֹת]] [[H9003\|בַּ]][[H6341A\|פָּ֑ח]] [[H9004\|כָּ]][[H9038\|הֵ֗ם]] [[H3369\|יֽוּקָשִׁים֙]] [[H1121A\|בְּנֵ֣י]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H9005\|לְ]][[H6256\|עֵ֣ת]] [[H7451H\|רָעָ֔ה]] [[H9004\|כְּ]][[H9007\|שֶׁ]][[H5307G\|תִּפּ֥וֹל]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H6597\|פִּתְאֹֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic HUNTING|HUNTING]] • [[topic IGNORANCE|IGNORANCE]] • [[topic NET|NET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.11|<< Ecclesiastes 9:11]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.13|Ecclesiastes 9:13 >>]]</td></tr></table>
 

@@ -1,6 +1,57 @@
+---
+title: LXX Jeremiah 6:8
+type: Verse
+lxx: "In misery and with a whip you shall be corrected, O Jerusalem, lest my soul should depart from you; lest I should make you an untrodden land, which shall not be settled in."
+greek: "πόνω και μάστιγι παιδευθήση Ιερουσαλήμ μη αποστή η ψυχή μου από σου μη ποιήσω σε άβατον γην ήτις ου κατοικισθήσεται"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[G4192]]"
+- "[[G2532]]"
+- "[[G3148]]"
+- "[[G3811]]"
+- "[[G2419]]"
+- "[[G3361]]"
+- "[[G0868]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G1473]]"
+- "[[G3361]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G6101]]"
+- "[[G1093]]"
+- "[[G3748]]"
+- "[[G3756]]"
+- "[[G6052]]"
+---
+
 **LXX Jeremiah 6:8** 
 <small><sub>**LXX:**</sub></small>
 In misery and \[with\] a whip you shall be corrected, O Jerusalem, lest my soul should depart from you; lest I should make you an untrodden land, which shall not be settled in. 
+<small><sub>**Greek:**</sub></small>
+[[G4192\|πόνω]] [[G2532\|και]] [[G3148\|μάστιγι]] [[G3811\|παιδευθήση]] [[G2419\|Ιερουσαλήμ]] [[G3361\|μη]] [[G0868\|αποστή]] [[G3588\|η]] [[G5590\|ψυχή]] [[G1473\|μου]] [[G0575\|από]] [[G1473\|σου]] [[G3361\|μη]] [[G4160\|ποιήσω]] [[G1473\|σε]] [[G6101\|άβατον]] [[G1093\|γην]] [[G3748\|ήτις]] [[G3756\|ου]] [[G6052\|κατοικισθήσεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.7|<< Jeremiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.9|Jeremiah 6:9 >>]]</td></tr></table>
 
@@ -25,6 +76,6 @@ In misery and \[with\] a whip you shall be corrected, O Jerusalem, lest my soul 
 | which | **<big>[[G3748\|ήτις]]</big>** |
 | shall not | **<big>[[G3756\|ου]]</big>** |
 | be settled in. | **<big>[[G6052\|κατοικισθήσεται]]</big>** |
-[[Jer.6.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.7|<< Jeremiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.9|Jeremiah 6:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.6.7|<< Jeremiah 6:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.6.9|Jeremiah 6:9 >>]]</td></tr></table>
 
 

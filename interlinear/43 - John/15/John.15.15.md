@@ -1,10 +1,65 @@
+---
+title: John 15:15
+type: Verse
+kjv: "Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you."
+bsb: "No longer do I call you servants, for a servant does not understand what his master is doing. But I have called you friends, because everything I have learned from My Father I have made known to you."
+jesus_said: "Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you."
+greek: "οὐκέτι οὐκέτι λέγω ὑμᾶς δούλους, ὅτι ὁ δοῦλος οὐκ οἶδεν τί ποιεῖ αὐτοῦ ὁ κύριος· ὑμᾶς δὲ εἴρηκα φίλους, ὅτι πάντα ἃ ἤκουσα παρὰ τοῦ πατρός μου ἐγνώρισα ὑμῖν.¶"
+pericope: "[[John.15.9 No Greater Love|No Greater Love]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3004H]]"
+- "[[G4771]]"
+- "[[G1401]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G6063]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G0846]]"
+- "[[G2962H]]"
+- "[[G1161]]"
+- "[[G2046]]"
+- "[[G5384]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G0191]]"
+- "[[G3844]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1107]]"
+texts:
+- NKO
+---
+
 **John 15:15**<big><big>[[John.15.9 No Greater Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.
 <small><sub>**BSB:**</sub></small>
 No longer do I call you servants, for a servant does not understand what his master is doing. But I have called you friends, because everything I have learned from My Father I have made known to you.
-<small><sub>**Literal:**</sub></small>
-no longer I name you servants, for the servant not knows what is doing his <the> master; You however I have called friends, because all things that I heard from the Father of Mine I have made known to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.14|<< John 15:14]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.16|John 15:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3004H\|λέγω]]  [[G4771\|ὑμᾶς]]  [[G1401\|δούλους,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G1401\|δοῦλος]]  [[G3756\|οὐκ]]  [[G6063\|οἶδεν]]  [[G5101\|τί]]  [[G4160G\|ποιεῖ]]  [[G0846\|αὐτοῦ]]  [[G3588\|ὁ]]  [[G2962H\|κύριος·]]  [[G4771\|ὑμᾶς]]  [[G1161\|δὲ]]  [[G2046\|εἴρηκα]]  [[G5384\|φίλους,]]  [[G3754H\|ὅτι]]  [[G3956\|πάντα]]  [[G3739\|ἃ]]  [[G0191\|ἤκουσα]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G1107\|ἐγνώρισα]]  [[G4771\|ὑμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDS|FRIENDS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.14|<< John 15:14]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.16|John 15:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

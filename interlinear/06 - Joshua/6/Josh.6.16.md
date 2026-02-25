@@ -1,8 +1,65 @@
+---
+title: Joshua 6:16
+type: Verse
+kjv: "And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for the LORD hath given you the city."
+bsb: "After the seventh time around, the priests blew the horns, and Joshua commanded the people, “Shout! For the LORD has given you the city!"
+hebrew: "וַיְהִי֙ בַּפַּ֣עַם הַשְּׁבִיעִ֔ית תָּקְע֥וּ הַכֹּהֲנִ֖ים בַּשּׁוֹפָר֑וֹת וַיֹּ֨אמֶר יְהוֹשֻׁ֤עַ אֶל־ הָעָם֙ הָרִ֔יעוּ כִּֽי־ נָתַ֧ן יְהוָ֛ה לָכֶ֖ם אֶת־ הָעִֽיר׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6471]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H8628]]"
+- "[[H3548]]"
+- "[[H7782]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H7321]]"
+- "[[H3588A]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:16**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the seventh time, when the priests blew with the trumpets, Joshua said unto the people, Shout; for the LORD hath given you the city.
 <small><sub>**BSB:**</sub></small>
 After the seventh time around, the priests blew the horns, and Joshua commanded the people, “Shout! For the LORD has given you the city!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9003\|בַּ]][[H6471\|פַּ֣עַם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔ית]] [[H8628\|תָּקְע֥וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָר֑וֹת]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3091G\|יְהוֹשֻׁ֤עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H7321\|הָרִ֔יעוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414G\|נָתַ֧ן]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic JOSHUA|JOSHUA]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.15|<< Joshua 6:15]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.17|Joshua 6:17 >>]]</td></tr></table>
 

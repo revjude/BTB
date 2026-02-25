@@ -1,10 +1,57 @@
+---
+title: Acts 1:6
+type: Verse
+kjv: "When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?"
+bsb: "So when they came together, they asked Him, “Lord, will You at this time restore the kingdom to Israel?”"
+greek: "Οἱ μὲν οὖν συνελθόντες ἠρώτων αὐτὸν λέγοντες· κύριε, εἰ ἐν τῷ χρόνῳ τούτῳ ἀποκαθιστάνεις τὴν βασιλείαν τῷ Ἰσραήλ;"
+pericope: "[[Acts.1.6 The Ascension|The Ascension]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G4905]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G1487G]]"
+- "[[G1722]]"
+- "[[G5550]]"
+- "[[G3778]]"
+- "[[G0600]]"
+- "[[G0932]]"
+- "[[G2474]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 1:6**<big><big>[[Acts.1.6 The Ascension|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When they therefore were come together, they asked of him, saying, Lord, wilt thou at this time restore again the kingdom to Israel?
 <small><sub>**BSB:**</sub></small>
 So when they came together, they asked Him, “Lord, will You at this time restore the kingdom to Israel?”
-<small><sub>**Literal:**</sub></small>
-Those indeed therefore having come together were asking Him saying; Lord, if at <the> time this are you restoring the kingdom <the> to Israel?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.5|<< Acts 1:5]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.7|Acts 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G4905\|συνελθόντες]]  [[G2065\|ἠρώτων]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντες·]]  [[G2962G\|κύριε,]]  [[G1487G\|εἰ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5550\|χρόνῳ]]  [[G3778\|τούτῳ]]  [[G0600\|ἀποκαθιστάνεις]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τῷ]]  [[G2474\|Ἰσραήλ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CURIOSITY|CURIOSITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.5|<< Acts 1:5]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.7|Acts 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

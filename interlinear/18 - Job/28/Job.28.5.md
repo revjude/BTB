@@ -1,8 +1,53 @@
+---
+title: Job 28:5
+type: Verse
+kjv: "As for the earth, out of it cometh bread: and under it is turned up as it were fire."
+bsb: "Food may come from the earth, but from below it is transformed as by fire."
+hebrew: "אֶ֗רֶץ מִמֶּ֥נָּה יֵֽצֵא־ לָ֑חֶם וְ֝תַחְתֶּ֗יהָ נֶהְפַּ֥ךְ כְּמוֹ־ אֵֽשׁ׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H0776H]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H3318M]]"
+- "[[H9014]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H8478G]]"
+- "[[H2015]]"
+- "[[H3644G]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:5**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] the earth, out of it cometh bread: and under it is turned up as it were fire.
 <small><sub>**BSB:**</sub></small>
 Food may come from the earth, but from below it is transformed as by fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H0776H\|אֶ֗רֶץ]] [[H4480A\|מִמֶּ֥]][[H9034\|נָּה]] [[H3318M\|יֵֽצֵא]][[H9014\|־]] [[H3899H\|לָ֑חֶם]] [[H9002\|וְ֝]][[H8478G\|תַחְתֶּ֗י]][[H9034\|הָ]] [[H2015\|נֶהְפַּ֥ךְ]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.4|<< Job 28:4]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.6|Job 28:6 >>]]</td></tr></table>
 

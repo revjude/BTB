@@ -1,8 +1,60 @@
+---
+title: Ezekiel 25:8
+type: Verse
+kjv: "Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;"
+bsb: "This is what the Lord GOD says: ‘Because Moab and Seir said, “Look, the house of Judah is like all the other nations,”"
+hebrew: "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה יַ֗עַן אֲמֹ֤ר מוֹאָב֙ וְשֵׂעִ֔יר הִנֵּ֥ה כְּכָֽל־ הַגּוֹיִ֖ם בֵּ֥ית יְהוּדָֽה׃"
+pericope: "[[Ezek.25.8 A Prophecy against Moab|A Prophecy against Moab]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 25
+book/chapter: "[[Ezek.25|Ezekiel 25]]"
+chronological_order: 816
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H4124G]]"
+- "[[H9002]]"
+- "[[H8165A]]"
+- "[[H2009]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 25:8**<big><big>[[Ezek.25.8 A Prophecy against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah [is] like unto all the heathen;
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: ‘Because Moab and Seir said, “Look, the house of Judah is like all the other nations,”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H3282\|יַ֗עַן]] [[H0559\|אֲמֹ֤ר]] [[H4124G\|מוֹאָב֙]] [[H9002\|וְ]][[H8165A\|שֵׂעִ֔יר]] [[H2009\|הִנֵּ֥ה]] [[H9004\|כְּ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H1004M\|בֵּ֥ית]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.7|<< Ezekiel 25:7]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.9|Ezekiel 25:9 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 12:14
+type: Verse
+kjv: "If ye will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both ye and also the king that reigneth over you continue following the LORD your God:"
+bsb: "If you fear the LORD and serve Him and obey His voice, and if you do not rebel against the command of the LORD, and if both you and the king who rules over you follow the LORD your God, then all will be well."
+hebrew: "אִם־ תִּֽירְא֣וּ אֶת־ יְהוָ֗ה וַעֲבַדְתֶּ֤ם אֹתוֹ֙ וּשְׁמַעְתֶּ֣ם בְּקֹל֔וֹ וְלֹ֥א תַמְר֖וּ אֶת־ פִּ֣י יְהוָ֑ה וִהְיִתֶ֣ם גַּם־ אַתֶּ֗ם וְגַם־ הַמֶּ֙לֶךְ֙ אֲשֶׁ֣ר מָלַ֣ךְ עֲלֵיכֶ֔ם אַחַ֖ר יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H5647G]]"
+- "[[H9033]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4784]]"
+- "[[H6310I]]"
+- "[[H1961]]"
+- "[[H1571]]"
+- "[[H0859D]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0310A]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 12:14**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both ye and also the king that reigneth over you continue following the LORD your God:
 <small><sub>**BSB:**</sub></small>
 If you fear the LORD and serve Him and obey His voice, and if you do not rebel against the command of the LORD, and if both you and the king who rules over you follow the LORD your God, then all will be well.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3372H\|תִּֽירְא֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9001\|וַ]][[H5647G\|עֲבַדְתֶּ֤ם]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9001\|וּ]][[H8085H\|שְׁמַעְתֶּ֣ם]] [[H9003\|בְּ]][[H6963A\|קֹל֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4784\|תַמְר֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וִ]][[H1961\|הְיִתֶ֣ם]] [[H1571\|גַּם]][[H9014\|־]] [[H0859D\|אַתֶּ֗ם]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H4427A\|מָלַ֣ךְ]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H0310A\|אַחַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.13|<< 1 Samuel 12:13]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.15|1 Samuel 12:15 >>]]</td></tr></table>
 

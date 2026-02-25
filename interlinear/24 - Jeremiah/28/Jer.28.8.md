@@ -1,8 +1,62 @@
+---
+title: Jeremiah 28:8
+type: Verse
+kjv: "The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence."
+bsb: "The prophets of old who preceded you and me prophesied war, disaster, and plague against many lands and great kingdoms."
+hebrew: "הַנְּבִיאִ֗ים אֲשֶׁ֨ר הָי֧וּ לְפָנַ֛י וּלְפָנֶ֖יךָ מִן־ הָֽעוֹלָ֑ם וַיִּנָּ֨בְא֜וּ אֶל־ אֲרָצ֤וֹת רַבּוֹת֙ וְעַל־ מַמְלָכ֣וֹת גְּדֹל֔וֹת לְמִלְחָמָ֖ה וּלְרָעָ֥ה וּלְדָֽבֶר׃"
+pericope: "[[Jer.28.1 Hananiah’s False Prophecy|Hananiah’s False Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 28
+book/chapter: "[[Jer.28|Jeremiah 28]]"
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H9021]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H5769J]]"
+- "[[H9001]]"
+- "[[H5012]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H7227A]]"
+- "[[H5921A]]"
+- "[[H4467]]"
+- "[[H1419A]]"
+- "[[H4421]]"
+- "[[H7451C]]"
+- "[[H1698]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 28:8**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
 <small><sub>**BSB:**</sub></small>
 The prophets of old who preceded you and me prophesied war, disaster, and plague against many lands and great kingdoms.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H5030\|נְּבִיאִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָי֧וּ]] [[H9005\|לְ]][[H6440G\|פָנַ֛]][[H9020\|י]] [[H9002\|וּ]][[H9005\|לְ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָֽ]][[H5769J\|עוֹלָ֑ם]] [[H9001\|וַ]][[H5012\|יִּנָּ֨בְא֜וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֲרָצ֤וֹת]] [[H7227A\|רַבּוֹת֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4467\|מַמְלָכ֣וֹת]] [[H1419A\|גְּדֹל֔וֹת]] [[H9005\|לְ]][[H4421\|מִלְחָמָ֖ה]] [[H9002\|וּ]][[H9005\|לְ]][[H7451C\|רָעָ֥ה]] [[H9002\|וּ]][[H9005\|לְ]][[H1698\|דָֽבֶר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.7|<< Jeremiah 28:7]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.9|Jeremiah 28:9 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: 2 Corinthians 11:16
+type: Verse
+kjv: "I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little."
+bsb: "I repeat: Let no one take me for a fool. But if you do, then receive me as a fool, so that I too may boast a little."
+greek: "Πάλιν λέγω, μή τίς με δόξῃ ἄφρονα εἶναι· εἰ δὲ μή γε, κἂν κἂν ὡς ἄφρονα δέξασθέ με, ἵνα κἀγὼ κἀγὼ μικρόν τι καυχήσωμαι."
+pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G3825]]"
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G3165]]"
+- "[[G1380]]"
+- "[[G0878]]"
+- "[[G1511]]"
+- "[[G1487L]]"
+- "[[G1161]]"
+- "[[G1065]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G5613]]"
+- "[[G1209]]"
+- "[[G2443]]"
+- "[[G1473]]"
+- "[[G3398]]"
+- "[[G2744]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 11:16**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I say again, Let no man think me a fool; if otherwise, yet as a fool receive me, that I may boast myself a little.
 <small><sub>**BSB:**</sub></small>
 I repeat: Let no one take me for a fool. But if you do, then receive me as a fool, so that I too may boast a little.
-<small><sub>**Literal:**</sub></small>
-Again I say, no one me may think a fool to be; lest then except indeed even as a fool do receive me, that I myself also little a may boast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.15|<< 2 Corinthians 11:15]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.17|2 Corinthians 11:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|Πάλιν]]  [[G3004G\|λέγω,]]  [[G3361\|μή]]  [[G5100\|τίς]]  [[G3165\|με]]  [[G1380\|δόξῃ]]  [[G0878\|ἄφρονα]]  [[G1511\|εἶναι·]]  [[G1487L\|εἰ]]  [[G1161\|δὲ]]  [[G3361\|μή]]  [[G1065\|γε,]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G5613\|ὡς]]  [[G0878\|ἄφρονα]]  [[G1209\|δέξασθέ]]  [[G3165\|με,]]  [[G2443\|ἵνα]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G3398\|μικρόν]]  [[G5100\|τι]]  [[G2744\|καυχήσωμαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.15|<< 2 Corinthians 11:15]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.17|2 Corinthians 11:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,67 @@
+---
+title: Luke 4:16
+type: Verse
+kjv: "And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read."
+bsb: "Then Jesus came to Nazareth, where He had been brought up. As was His custom, He entered the synagogue on the Sabbath. And when He stood up to read,"
+greek: "Καὶ ἦλθεν εἰς τὴν Ναζαρὰ οὗ ἦν τεθραμμένος, καὶ εἰσῆλθεν κατὰ τὸ εἰωθὸς αὐτῷ ἐν τῇ ἡμέρᾳ τῶν σαββάτων εἰς τὴν συναγωγὴν καὶ ἀνέστη ἀναγνῶναι."
+pericope: "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3478]]"
+- "[[G3757]]"
+- "[[G1510]]"
+- "[[G5142]]"
+- "[[G1525]]"
+- "[[G2596]]"
+- "[[G1486]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G4521]]"
+- "[[G4864]]"
+- "[[G0450]]"
+- "[[G0314]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 4:16**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he came to Nazareth, where he had been brought up: and, as his custom was, he went into the synagogue on the sabbath day, and stood up for to read.
 <small><sub>**BSB:**</sub></small>
 Then Jesus came to Nazareth, where He had been brought up. As was His custom, He entered the synagogue on the Sabbath. And when He stood up to read,
-<small><sub>**Literal:**</sub></small>
-And He came to <the> Nazareth where He was raised, and He entered according to the being customary to Him on the day of the Sabbaths into the synagogue and stood up to read.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.15|<< Luke 4:15]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.17|Luke 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἦλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3478\|Ναζαρὰ]]  [[G3757\|οὗ]]  [[G1510\|ἦν]]  [[G5142\|τεθραμμένος,]]  [[G2532\|καὶ]]  [[G1525\|εἰσῆλθεν]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G1486\|εἰωθὸς]]  [[G0846\|αὐτῷ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τῶν]]  [[G4521\|σαββάτων]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4864\|συναγωγὴν]]  [[G2532\|καὶ]]  [[G0450\|ἀνέστη]]  [[G0314\|ἀναγνῶναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic NAZARETH|NAZARETH]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.15|<< Luke 4:15]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.17|Luke 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

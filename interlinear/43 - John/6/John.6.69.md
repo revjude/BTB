@@ -1,10 +1,57 @@
+---
+title: John 6:69
+type: Verse
+kjv: "And we believe and are sure that thou art that Christ, the Son of the living God."
+bsb: "We believe and know that You are the Holy One of God.”"
+greek: "καὶ ἡμεῖς πεπιστεύκαμεν καὶ ἐγνώκαμεν ὅτι σὺ εἶ ὁ χριστὸς ὁ ἅγιος τοῦ θεοῦ τοῦ ζῶντος."
+pericope: "[[John.6.67 Peter’s Confession of Faith|Peter’s Confession of Faith]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G4100]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G0040G]]"
+- "[[G2316]]"
+- "[[G2198]]"
+texts:
+- NKO
+- K
+- N(K)O
+---
+
 **John 6:69**<big><big>[[John.6.67 Peter’s Confession of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And we believe and are sure that thou art that Christ, the Son of the living God.
 <small><sub>**BSB:**</sub></small>
 We believe and know that You are the Holy One of God.”
-<small><sub>**Literal:**</sub></small>
-and we ourselves have believed and have known that You yourself are <the> Christ the Holy One <the> of God who is living.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.68|<< John 6:68]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.70|John 6:70 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G4100\|πεπιστεύκαμεν]]  [[G2532\|καὶ]]  [[G1097\|ἐγνώκαμεν]]  [[G3754G\|ὅτι]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3588\|ὁ]]  [[G0040G\|ἅγιος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τοῦ]]  [[G2198\|ζῶντος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.68|<< John 6:68]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.70|John 6:70 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

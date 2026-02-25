@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Philistines Capture the Ark
+type: Pericope
 pericope: "[[1Sam.4.1 The Philistines Capture the Ark|The Philistines Capture the Ark]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 4
 book/chapter: "[[1Sam.4|1 Samuel 4]]"
-genre:
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 11
 verses:
 - "[[1Sam.4.1]]"
 - "[[1Sam.4.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Sam.4.11]]"
 ---
 
-[[1Sam.4|1 Samuel 4:1 - 1 Samuel 4:11]]
+<small>[[1Sam.4|1 Samuel 4:1-11]]</small>
 *The Philistines Capture the Ark*
 
 [[1Sam.4.1|1]] And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Ebenezer: and the Philistines pitched in Aphek.

@@ -1,8 +1,88 @@
+---
+title: 1 Samuel 16:1
+type: Verse
+kjv: "And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons."
+bsb: "Now the LORD said to Samuel, “How long are you going to mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have selected from his sons a king for Myself.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ שְׁמוּאֵ֗ל עַד־ מָתַי֙ אַתָּה֙ מִתְאַבֵּ֣ל אֶל־ שָׁא֔וּל וַאֲנִ֣י מְאַסְתִּ֔יו מִמְּלֹ֖ךְ עַל־ יִשְׂרָאֵ֑ל מַלֵּ֨א קַרְנְךָ֜ שֶׁ֗מֶן וְלֵ֤ךְ אֶֽשְׁלָחֲךָ֙ אֶל־ יִשַׁ֣י בֵּֽית־ הַלַּחְמִ֔י כִּֽי־ רָאִ֧יתִי בְּבָנָ֛יו לִ֖י מֶֽלֶךְ׃"
+pericope: "[[1Sam.16.1 Samuel Anoints David|Samuel Anoints David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 16
+book/chapter: "[[1Sam.16|1 Samuel 16]]"
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HORN|HORN]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OIL|OIL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H5704]]"
+- "[[H4970]]"
+- "[[H0859A]]"
+- "[[H0056]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3988A]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H4390]]"
+- "[[H7161A]]"
+- "[[H9021]]"
+- "[[H8081]]"
+- "[[H1980G]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H3448]]"
+- "[[H1022]]"
+- "[[H9009]]"
+- "[[H3588A]]"
+- "[[H7200J]]"
+- "[[H9003]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 16:1**<big><big>[[1Sam.16.1 Samuel Anoints David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons.
 <small><sub>**BSB:**</sub></small>
 Now the LORD said to Samuel, “How long are you going to mourn for Saul, since I have rejected him as king over Israel? Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have selected from his sons a king for Myself.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H8050G\|שְׁמוּאֵ֗ל]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַי֙]] [[H0859A\|אַתָּה֙]] [[H0056\|מִתְאַבֵּ֣ל]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H3988A\|מְאַסְתִּ֔י]][[H9033\|ו]] [[H9006\|מִ]][[H4427A\|מְּלֹ֖ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H4390\|מַלֵּ֨א]] [[H7161A\|קַרְנְ]][[H9021\|ךָ֜]] [[H8081\|שֶׁ֗מֶן]] [[H9002\|וְ]][[H1980G\|לֵ֤ךְ]] [[H7971G\|אֶֽשְׁלָחֲ]][[H9031\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3448\|יִשַׁ֣י]] [[H1022\|בֵּֽית]][[H9014\|־]] [[H9009\|הַ]][[H1022\|לַּחְמִ֔י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7200J\|רָאִ֧יתִי]] [[H9003\|בְּ]][[H1121A\|בָנָ֛י]][[H9023\|ו]] [[H9005\|לִ֖]][[H9030\|י]] [[H4428G\|מֶֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic DAVID|DAVID]] • [[topic DOUBTING|DOUBTING]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HORN|HORN]] • [[topic JESSE|JESSE]] • [[topic KING|KING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OIL|OIL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.35|<< 1 Samuel 15:35]]</td><td align="center" style="border:none;">[[1Sam.16|1 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.16.2|1 Samuel 16:2 >>]]</td></tr></table>
 

@@ -1,8 +1,84 @@
+---
+title: Numbers 14:14
+type: Verse
+kjv: "And they will tell it to the inhabitants of this land: for they have heard that thou LORD art among this people, that thou LORD art seen face to face, and that thy cloud standeth over them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night."
+bsb: "And they will tell it to the inhabitants of this land. They have already heard that You, O LORD, are in the midst of this people, that You, O LORD, have been seen face to face, that Your cloud stands over them, and that You go before them in a pillar of cloud by day and a pillar of fire by night."
+hebrew: "וְאָמְר֗וּ אֶל־ יוֹשֵׁב֮ הָאָ֣רֶץ הַזֹּאת֒ שָֽׁמְעוּ֙ כִּֽי־ אַתָּ֣ה יְהוָ֔ה בְּקֶ֖רֶב הָעָ֣ם הַזֶּ֑ה אֲשֶׁר־ עַ֨יִן בְּעַ֜יִן נִרְאָ֣ה׀ אַתָּ֣ה יְהוָ֗ה וַעֲנָֽנְךָ֙ עֹמֵ֣ד עֲלֵהֶ֔ם וּבְעַמֻּ֣ד עָנָ֗ן אַתָּ֨ה הֹלֵ֤ךְ לִפְנֵיהֶם֙ יוֹמָ֔ם וּבְעַמּ֥וּד אֵ֖שׁ לָֽיְלָה׃"
+pericope: "[[Num.14.13 Moses Intercedes for Israel|Moses Intercedes for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H8085G]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H5869A]]"
+- "[[H7200G]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H6051]]"
+- "[[H9021]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5982G]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H3119]]"
+- "[[H0784]]"
+- "[[H3915]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:14**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they will tell [it] to the inhabitants of this land: [for] they have heard that thou LORD [art] among this people, that thou LORD art seen face to face, and [that] thy cloud standeth over them, and [that] thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.
 <small><sub>**BSB:**</sub></small>
 And they will tell it to the inhabitants of this land. They have already heard that You, O LORD, are in the midst of this people, that You, O LORD, have been seen face to face, that Your cloud stands over them, and that You go before them in a pillar of cloud by day and a pillar of fire by night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמְר֗וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3427\|יוֹשֵׁב֮]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּאת֒]] [[H8085G\|שָֽׁמְעוּ֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H7130G\|קֶ֖רֶב]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5869A\|עַ֨יִן]] [[H9003\|בְּ]][[H5869A\|עַ֜יִן]] [[H7200G\|נִרְאָ֣ה]][[H9015\|׀]] [[H0859A\|אַתָּ֣ה]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וַ]][[H6051\|עֲנָֽנְ]][[H9021\|ךָ֙]] [[H5975G\|עֹמֵ֣ד]] [[H5921A\|עֲלֵ]][[H9038\|הֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H5982G\|עַמֻּ֣ד]] [[H6051\|עָנָ֗ן]] [[H0859A\|אַתָּ֨ה]] [[H1980G\|הֹלֵ֤ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶם֙]] [[H3119\|יוֹמָ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H5982G\|עַמּ֥וּד]] [[H0784\|אֵ֖שׁ]] [[H3915\|לָֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.13|<< Numbers 14:13]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.15|Numbers 14:15 >>]]</td></tr></table>
 

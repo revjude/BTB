@@ -1,8 +1,62 @@
+---
+title: 1 Kings 6:15
+type: Verse
+kjv: "And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: and he covered them on the inside with wood, and covered the floor of the house with planks of fir."
+bsb: "He lined the interior walls with cedar paneling from the floor of the temple to the ceiling, and he covered the floor with cypress boards."
+hebrew: "וַיִּבֶן֩ אֶת־ קִיר֨וֹת הַבַּ֤יִת מִבַּ֙יְתָה֙ בְּצַלְע֣וֹת אֲרָזִ֔ים מִקַּרְקַ֤ע הַבַּ֙יִת֙ עַד־ קִיר֣וֹת הַסִּפֻּ֔ן צִפָּ֥ה עֵ֖ץ מִבָּ֑יִת וַיְצַ֛ף אֶת־ קַרְקַ֥ע הַבַּ֖יִת בְּצַלְע֥וֹת בְּרוֹשִֽׁים׃"
+pericope: "[[1Kgs.6.14 The Temple’s Interior|The Temple’s Interior]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic FIR TREE|FIR TREE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7023]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9006]]"
+- "[[H9011]]"
+- "[[H9003]]"
+- "[[H6763]]"
+- "[[H0730]]"
+- "[[H7172]]"
+- "[[H5704]]"
+- "[[H5604]]"
+- "[[H6823]]"
+- "[[H6086G]]"
+- "[[H1265]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:15**<big><big>[[1Kgs.6.14 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he built the walls of the house within with boards of cedar, both the floor of the house, and the walls of the cieling: [and] he covered [them] on the inside with wood, and covered the floor of the house with planks of fir.
 <small><sub>**BSB:**</sub></small>
 He lined the interior walls with cedar paneling from the floor of the temple to the ceiling, and he covered the floor with cypress boards.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּבֶן֩]] [[H0853\|אֶת]][[H9014\|־]] [[H7023\|קִיר֨וֹת]] [[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H9006\|מִ]][[H1004B\|בַּ֙יְתָ]][[H9011\|ה֙]] [[H9003\|בְּ]][[H6763\|צַלְע֣וֹת]] [[H0730\|אֲרָזִ֔ים]] [[H9006\|מִ]][[H7172\|קַּרְקַ֤ע]] [[H9009\|הַ]][[H1004B\|בַּ֙יִת֙]] [[H5704\|עַד]][[H9014\|־]] [[H7023\|קִיר֣וֹת]] [[H9009\|הַ]][[H5604\|סִּפֻּ֔ן]] [[H6823\|צִפָּ֥ה]] [[H6086G\|עֵ֖ץ]] [[H9006\|מִ]][[H1004B\|בָּ֑יִת]] [[H9001\|וַ]][[H6823\|יְצַ֛ף]] [[H0853\|אֶת]][[H9014\|־]] [[H7172\|קַרְקַ֥ע]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H9003\|בְּ]][[H6763\|צַלְע֥וֹת]] [[H1265\|בְּרוֹשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIR TREE|FIR TREE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.14|<< 1 Kings 6:14]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.16|1 Kings 6:16 >>]]</td></tr></table>
 

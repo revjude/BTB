@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Shunammite Woman
+type: Pericope
 pericope: "[[2Kgs.4.8 The Shunammite Woman|The Shunammite Woman]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 4
 book/chapter: "[[2Kgs.4|2 Kings 4]]"
-genre:
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 10
 verses:
 - "[[2Kgs.4.8]]"
 - "[[2Kgs.4.9]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Kgs.4.17]]"
 ---
 
-[[2Kgs.4|2 Kings 4:8 - 2 Kings 4:17]]
+<small>[[2Kgs.4|2 Kings 4:8-17]]</small>
 *The Shunammite Woman*
 
 [[2Kgs.4.8|8]] And it fell on a day, that Elisha passed to Shunem, where \[was\] a great woman; and she constrained him to eat bread. And \[so\] it was, \[that\] as oft as he passed by, he turned in thither to eat bread.

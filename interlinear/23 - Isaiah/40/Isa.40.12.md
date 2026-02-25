@@ -1,8 +1,68 @@
+---
+title: Isaiah 40:12
+type: Verse
+kjv: "Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?"
+bsb: "Who has measured the waters in the hollow of his hand, or marked off the heavens with the span of his hand? Who has held the dust of the earth in a basket, or weighed the mountains on a scale and the hills with a balance?"
+hebrew: "מִֽי־ מָדַ֨ד בְּשָׁעֳל֜וֹ מַ֗יִם וְשָׁמַ֙יִם֙ בַּזֶּ֣רֶת תִּכֵּ֔ן וְכָ֥ל בַּשָּׁלִ֖שׁ עֲפַ֣ר הָאָ֑רֶץ וְשָׁקַ֤ל בַּפֶּ֙לֶס֙ הָרִ֔ים וּגְבָע֖וֹת בְּמֹאזְנָֽיִם׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BALANCES|BALANCES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H4058]]"
+- "[[H9003]]"
+- "[[H8168]]"
+- "[[H9023]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H8064]]"
+- "[[H2239]]"
+- "[[H8505]]"
+- "[[H3557]]"
+- "[[H7991A]]"
+- "[[H6083]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H8254]]"
+- "[[H6425]]"
+- "[[H2022G]]"
+- "[[H1389I]]"
+- "[[H3976]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:12**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath measured the waters in the hollow of his hand, and meted out heaven with the span, and comprehended the dust of the earth in a measure, and weighed the mountains in scales, and the hills in a balance?
 <small><sub>**BSB:**</sub></small>
 Who has measured the waters in the hollow of his hand, or marked off the heavens with the span of his hand? Who has held the dust of the earth in a basket, or weighed the mountains on a scale and the hills with a balance?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H4058\|מָדַ֨ד]] [[H9003\|בְּ]][[H8168\|שָׁעֳל֜]][[H9023\|וֹ]] [[H4325G\|מַ֗יִם]] [[H9002\|וְ]][[H8064\|שָׁמַ֙יִם֙]] [[H9003\|בַּ]][[H2239\|זֶּ֣רֶת]] [[H8505\|תִּכֵּ֔ן]] [[H9002\|וְ]][[H3557\|כָ֥ל]] [[H9003\|בַּ]][[H7991A\|שָּׁלִ֖שׁ]] [[H6083\|עֲפַ֣ר]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H8254\|שָׁקַ֤ל]] [[H9003\|בַּ]][[H6425\|פֶּ֙לֶס֙]] [[H2022G\|הָרִ֔ים]] [[H9002\|וּ]][[H1389I\|גְבָע֖וֹת]] [[H9003\|בְּ]][[H3976\|מֹאזְנָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALANCES|BALANCES]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MEASURE|MEASURE]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.11|<< Isaiah 40:11]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.13|Isaiah 40:13 >>]]</td></tr></table>
 

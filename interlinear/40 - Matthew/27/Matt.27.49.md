@@ -1,10 +1,63 @@
+---
+title: Matthew 27:49
+type: Verse
+kjv: "The rest said, Let be, let us see whether Elias will come to save him."
+bsb: "But the others said, “Leave Him alone. Let us see if Elijah comes to save Him.”"
+greek: "οἱ δὲ λοιποὶ ἔλεγον· ἄφες, ἴδωμεν εἰ ἔρχεται Ἠλίας σώσων αὐτόν.¶ Ἄλλος δὲ λαβὼν λόγχην ἔνυξεν αὐτοῦ τὴν πλευράν, καὶ ἐξῆλθεν ὕδωρ καὶ αἷμα."
+pericope: "[[Matt.27.45 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3062]]"
+- "[[G3004G]]"
+- "[[G0863G]]"
+- "[[G1492H]]"
+- "[[G1487G]]"
+- "[[G2064]]"
+- "[[G2243]]"
+- "[[G4982]]"
+- "[[G0846]]"
+- "[[G0243]]"
+- "[[G2983]]"
+- "[[G3057]]"
+- "[[G3572]]"
+- "[[G4125]]"
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G5204]]"
+- "[[G0129G]]"
+texts:
+- NKO
+- NK(o)
+- O
+---
+
 **Matthew 27:49**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The rest said, Let be, let us see whether Elias will come to save him.
 <small><sub>**BSB:**</sub></small>
 But the others said, “Leave Him alone. Let us see if Elijah comes to save Him.”
-<small><sub>**Literal:**</sub></small>
-<the> And the rest were saying; Wait! let us see whether comes Elijah to then save Him. another now having taken a spear pierced of him <the> side and went out water and blood.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.48|<< Matthew 27:48]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.50|Matthew 27:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3062\|λοιποὶ]]  [[G3004G\|ἔλεγον·]]  [[G0863G\|ἄφες,]]  [[G1492H\|ἴδωμεν]]  [[G1487G\|εἰ]]  [[G2064\|ἔρχεται]]  [[G2243\|Ἠλίας]]  [[G4982\|σώσων]]  [[G0846\|αὐτόν.¶]]  [[G0243\|Ἄλλος]]  [[G1161\|δὲ]]  [[G2983\|λαβὼν]]  [[G3057\|λόγχην]]  [[G3572\|ἔνυξεν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G4125\|πλευράν,]]  [[G2532\|καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G5204\|ὕδωρ]]  [[G2532\|καὶ]]  [[G0129G\|αἷμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.48|<< Matthew 27:48]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.50|Matthew 27:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

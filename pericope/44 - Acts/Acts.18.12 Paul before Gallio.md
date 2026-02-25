@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul before Gallio
+type: Pericope
 pericope: "[[Acts.18.12 Paul before Gallio|Paul before Gallio]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 18
 book/chapter: "[[Acts.18|Acts 18]]"
-genre:
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.18.12]]"
 - "[[Acts.18.13]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.18.17]]"
 ---
 
-[[Acts.18|Acts 18:12 - Acts 18:17]]
+<small>[[Acts.18|Acts 18:12-17]]</small>
 *Paul before Gallio*
 
 [[Acts.18.12|12]] And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,

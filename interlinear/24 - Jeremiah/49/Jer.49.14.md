@@ -1,8 +1,60 @@
+---
+title: Jeremiah 49:14
+type: Verse
+kjv: "I have heard a rumour from the LORD, and an ambassador is sent unto the heathen, saying, Gather ye together, and come against her, and rise up to the battle."
+bsb: "I have heard a message from the LORD; an envoy has been sent to the nations: “Assemble yourselves to march against her! Rise up for battle!”"
+hebrew: "שְׁמוּעָ֤ה שָׁמַ֙עְתִּי֙ מֵאֵ֣ת יְהוָ֔ה וְצִ֖יר בַּגּוֹיִ֣ם שָׁל֑וּחַ הִֽתְקַבְּצוּ֙ וּבֹ֣אוּ עָלֶ֔יהָ וְק֖וּמוּ לַמִּלְחָמָֽה׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H8052]]"
+- "[[H8085G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H6735A]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H7971G]]"
+- "[[H6908]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H6965B]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:14**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have heard a rumour from the LORD, and an ambassador is sent unto the heathen, [saying], Gather ye together, and come against her, and rise up to the battle.
 <small><sub>**BSB:**</sub></small>
 I have heard a message from the LORD; an envoy has been sent to the nations: “Assemble yourselves to march against her! Rise up for battle!”
+<small><sub>**Hebrew:**</sub></small>
+[[H8052\|שְׁמוּעָ֤ה]] [[H8085G\|שָׁמַ֙עְתִּי֙]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H6735A\|צִ֖יר]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֣ם]] [[H7971G\|שָׁל֑וּחַ]] [[H6908\|הִֽתְקַבְּצוּ֙]] [[H9002\|וּ]][[H0935G\|בֹ֣אוּ]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9002\|וְ]][[H6965B\|ק֖וּמוּ]] [[H9005\|לַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.13|<< Jeremiah 49:13]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.15|Jeremiah 49:15 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 29:1
+type: Verse
+kjv: "Hezekiah began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother’s name was Abijah, the daughter of Zechariah."
+bsb: "Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah, the daughter of Zechariah."
+hebrew: "יְחִזְקִיָּ֣הוּ מָלַ֗ךְ בֶּן־ עֶשְׂרִ֤ים וְחָמֵשׁ֙ שָׁנָ֔ה וְעֶשְׂרִ֤ים וָתֵ֙שַׁע֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ אֲבִיָּ֖ה בַּת־ זְכַרְיָֽהוּ׃"
+pericope: "[[2Chr.29.1 Hezekiah Cleanses the Temple|Hezekiah Cleanses the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ABI|ABI]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ZACHARIAH|ZACHARIAH]]"
+strongs:
+- "[[H2396G]]"
+- "[[H4427A]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H8672]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H0029N]]"
+- "[[H1323G]]"
+- "[[H2148C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:1**<big><big>[[2Chr.29.1 Hezekiah Cleanses the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hezekiah began to reign [when he was] five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother’s name [was] Abijah, the daughter of Zechariah.
 <small><sub>**BSB:**</sub></small>
 Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah, the daughter of Zechariah.
+<small><sub>**Hebrew:**</sub></small>
+[[H2396G\|יְחִזְקִיָּ֣הוּ]] [[H4427A\|מָלַ֗ךְ]] [[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וְ]][[H2568\|חָמֵשׁ֙]] [[H8141\|שָׁנָ֔ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וָ]][[H8672\|תֵ֙שַׁע֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H0029N\|אֲבִיָּ֖ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H2148C\|זְכַרְיָֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABI|ABI]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ZACHARIAH|ZACHARIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.27|<< 2 Chronicles 28:27]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.2|2 Chronicles 29:2 >>]]</td></tr></table>
 

@@ -1,8 +1,86 @@
+---
+title: 2 Samuel 11:11
+type: Verse
+kjv: "And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife? as thou livest, and as thy soul liveth, I will not do this thing."
+bsb: "Uriah answered, “The ark and Israel and Judah are dwelling in tents, and my master Joab and his soldiers are camped in the open field. How can I go to my house to eat and drink and sleep with my wife? As surely as you live, and as your soul lives, I will not do such a thing!”"
+hebrew: "וַיֹּ֨אמֶר אוּרִיָּ֜ה אֶל־ דָּוִ֗ד הָ֠אָרוֹן וְיִשְׂרָאֵ֨ל וִֽיהוּדָ֜ה יֹשְׁבִ֣ים בַּסֻּכּ֗וֹת וַאדֹנִ֨י יוֹאָ֜ב וְעַבְדֵ֤י אֲדֹנִ֨י עַל־ פְּנֵ֤י הַשָּׂדֶה֙ חֹנִ֔ים וַאֲנִ֞י אָב֧וֹא אֶל־ בֵּיתִ֛י לֶאֱכֹ֥ל וְלִשְׁתּ֖וֹת וְלִשְׁכַּ֣ב עִם־ אִשְׁתִּ֑י חַיֶּ֙ךָ֙ וְחֵ֣י נַפְשֶׁ֔ךָ אִֽם־ אֶעֱשֶׂ֖ה אֶת־ הַדָּבָ֥ר הַזֶּֽה׃"
+pericope: "[[2Sam.11.1 David and Bathsheba|David and Bathsheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 11
+book/chapter: "[[2Sam.11|2 Samuel 11]]"
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic URIAH|URIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0223A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H9009]]"
+- "[[H0727]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5521]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H3097G]]"
+- "[[H5650]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H7704G]]"
+- "[[H2583]]"
+- "[[H0589]]"
+- "[[H0935G]]"
+- "[[H1004B]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H7901G]]"
+- "[[H5973A]]"
+- "[[H0802H]]"
+- "[[H2416A]]"
+- "[[H9021]]"
+- "[[H5315G]]"
+- "[[H0518H]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 11:11**<big><big>[[2Sam.11.1 David and Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife? [as] thou livest, and [as] thy soul liveth, I will not do this thing.
 <small><sub>**BSB:**</sub></small>
 Uriah answered, “The ark and Israel and Judah are dwelling in tents, and my master Joab and his soldiers are camped in the open field. How can I go to my house to eat and drink and sleep with my wife? As surely as you live, and as your soul lives, I will not do such a thing!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0223A\|אוּרִיָּ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֗ד]] [[H9009\|הָ֠]][[H0727\|אָרוֹן]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵ֨ל]] [[H9002\|וִֽ]][[H3063G\|יהוּדָ֜ה]] [[H3427\|יֹשְׁבִ֣ים]] [[H9003\|בַּ]][[H5521\|סֻּכּ֗וֹת]] [[H9002\|וַ]][[H0113\|אדֹנִ֨]][[H9020\|י]] [[H3097G\|יוֹאָ֜ב]] [[H9002\|וְ]][[H5650\|עַבְדֵ֤י]] [[H0113\|אֲדֹנִ֨]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֤י]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֙]] [[H2583\|חֹנִ֔ים]] [[H9002\|וַ]][[H0589\|אֲנִ֞י]] [[H0935G\|אָב֧וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּיתִ֛]][[H9020\|י]] [[H9005\|לֶ]][[H0398\|אֱכֹ֥ל]] [[H9002\|וְ]][[H9005\|לִ]][[H8354\|שְׁתּ֖וֹת]] [[H9002\|וְ]][[H9005\|לִ]][[H7901G\|שְׁכַּ֣ב]] [[H5973A\|עִם]][[H9014\|־]] [[H0802H\|אִשְׁתִּ֑]][[H9020\|י]] [[H2416A\|חַיֶּ֙]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H2416A\|חֵ֣י]] [[H5315G\|נַפְשֶׁ֔]][[H9021\|ךָ]] [[H0518H\|אִֽם]][[H9014\|־]] [[H6213A\|אֶעֱשֶׂ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENCE|CONTINENCE]] • [[topic DAVID|DAVID]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic URIAH|URIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.10|<< 2 Samuel 11:10]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.12|2 Samuel 11:12 >>]]</td></tr></table>
 

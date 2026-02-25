@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul Ministers in Corinth
+type: Pericope
 pericope: "[[Acts.18.1 Paul Ministers in Corinth|Paul Ministers in Corinth]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Acts
 chapter: 18
 book/chapter: "[[Acts.18|Acts 18]]"
-genre:
+chronological_order: 1047
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 11
 verses:
 - "[[Acts.18.1]]"
 - "[[Acts.18.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Acts.18.11]]"
 ---
 
-[[Acts.18|Acts 18:1 - Acts 18:11]]
+<small>[[Acts.18|Acts 18:1-11]]</small>
 *Paul Ministers in Corinth*
 
 [[Acts.18.1|1]] After these things Paul departed from Athens, and came to Corinth;

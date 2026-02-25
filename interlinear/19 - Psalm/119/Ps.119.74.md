@@ -1,8 +1,58 @@
+---
+title: Psalm 119:74
+type: Verse
+kjv: "They that fear thee will be glad when they see me; because I have hoped in thy word."
+bsb: "May those who fear You see me and rejoice, for I have hoped in Your word."
+hebrew: "יְ֭רֵאֶיךָ יִרְא֣וּנִי וְיִשְׂמָ֑חוּ כִּ֖י לִדְבָרְךָ֣ יִחָֽלְתִּי׃"
+pericope: "[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|Your Word Is a Lamp to My Feet - JOD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3373]]"
+- "[[H9021]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H1697M]]"
+- "[[H3176H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:74**<big><big>[[Ps.119.73 Your Word Is a Lamp to My Feet - JOD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that fear thee will be glad when they see me; because I have hoped in thy word.
 <small><sub>**BSB:**</sub></small>
 May those who fear You see me and rejoice, for I have hoped in Your word.
+<small><sub>**Hebrew:**</sub></small>
+[[H3373\|יְ֭רֵאֶי]][[H9021\|ךָ]] [[H7200G\|יִרְא֣וּ]][[H9030\|נִי]] [[H9002\|וְ]][[H8055\|יִשְׂמָ֑חוּ]] [[H3588A\|כִּ֖י]] [[H9005\|לִ]][[H1697M\|דְבָרְ]][[H9021\|ךָ֣]] [[H3176H\|יִחָֽלְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HOPE|HOPE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic REVERENCE|REVERENCE]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.74|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.73|<< Psalms 119:73]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.75|Psalms 119:75 >>]]</td></tr></table>
 

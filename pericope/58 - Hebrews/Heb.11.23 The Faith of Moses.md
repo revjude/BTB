@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Faith of Moses
+type: Pericope
 pericope: "[[Heb.11.23 The Faith of Moses|The Faith of Moses]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 11
 book/chapter: "[[Heb.11|Hebrews 11]]"
-genre:
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 7
 verses:
 - "[[Heb.11.23]]"
 - "[[Heb.11.24]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Heb.11.29]]"
 ---
 
-[[Heb.11|Hebrews 11:23 - Hebrews 11:29]]
+<small>[[Heb.11|Hebrews 11:23-29]]</small>
 *The Faith of Moses*
 
 [[Heb.11.23|23]] By faith Moses, when he was born, was hid three months of his parents, because they saw \[he was\] a proper child; and they were not afraid of the king’s commandment.

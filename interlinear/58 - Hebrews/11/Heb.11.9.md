@@ -1,10 +1,61 @@
+---
+title: Hebrews 11:9
+type: Verse
+kjv: "By faith he sojourned in the land of promise, as in a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:"
+bsb: "By faith he dwelt in the promised land as a stranger in a foreign country. He lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise."
+greek: "Πίστει παρῴκησεν εἰς τὴν γῆν τῆς ἐπαγγελίας ὡς ἀλλοτρίαν ἐν σκηναῖς κατοικήσας μετὰ Ἰσαὰκ καὶ Ἰακὼβ τῶν συγκληρονόμων τῆς ἐπαγγελίας τῆς αὐτῆς·"
+pericope: "[[Heb.11.8 The Faith of Abraham and Sarah|The Faith of Abraham and Sarah]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G4102G]]"
+- "[[G3939]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1093H]]"
+- "[[G1860]]"
+- "[[G5613]]"
+- "[[G0245]]"
+- "[[G1722]]"
+- "[[G4633]]"
+- "[[G2730]]"
+- "[[G3326]]"
+- "[[G2464]]"
+- "[[G2532]]"
+- "[[G2384G]]"
+- "[[G4789]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **Hebrews 11:9**<big><big>[[Heb.11.8 The Faith of Abraham and Sarah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith he sojourned in the land of promise, as [in] a strange country, dwelling in tabernacles with Isaac and Jacob, the heirs with him of the same promise:
 <small><sub>**BSB:**</sub></small>
 By faith he dwelt in the promised land as a stranger in a foreign country. He lived in tents, as did Isaac and Jacob, who were heirs with him of the same promise.
-<small><sub>**Literal:**</sub></small>
-By faith he sojourned in the land of the promise as [in] a foreign [country] in tents having dwelt with Isaac and Jacob the joint-heirs of the promise <the> same;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.8|<< Hebrews 11:8]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.10|Hebrews 11:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G3939\|παρῴκησεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093H\|γῆν]]  [[G3588\|τῆς]]  [[G1860\|ἐπαγγελίας]]  [[G5613\|ὡς]]  [[G0245\|ἀλλοτρίαν]]  [[G1722\|ἐν]]  [[G4633\|σκηναῖς]]  [[G2730\|κατοικήσας]]  [[G3326\|μετὰ]]  [[G2464\|Ἰσαὰκ]]  [[G2532\|καὶ]]  [[G2384G\|Ἰακὼβ]]  [[G3588\|τῶν]]  [[G4789\|συγκληρονόμων]]  [[G3588\|τῆς]]  [[G1860\|ἐπαγγελίας]]  [[G3588\|τῆς]]  [[G0846\|αὐτῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CANAAN|CANAAN]] • [[topic FAITH|FAITH]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.8|<< Hebrews 11:8]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.10|Hebrews 11:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:9** is...
 > $\quad$ alluding to: [[LXX.Gen.12.5|Gen 12:5]] ☩ [[LXX.Gen.27.11|Gen 27:11-12]] ☩ [[LXX.Gen.27.14|Gen 27:14]]

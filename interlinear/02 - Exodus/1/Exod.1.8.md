@@ -1,8 +1,59 @@
+---
+title: Exodus 1:8
+type: Verse
+kjv: "Now there arose up a new king over Egypt, which knew not Joseph."
+bsb: "Then a new king, who did not know Joseph, came to power in Egypt."
+hebrew: "וַיָּ֥קָם מֶֽלֶךְ־ חָדָ֖שׁ עַל־ מִצְרָ֑יִם אֲשֶׁ֥ר לֹֽא־ יָדַ֖ע אֶת־ יוֹסֵֽף׃"
+pericope: "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H2319H]]"
+- "[[H5921A]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H3130G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 1:8**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now there arose up a new king over Egypt, which knew not Joseph.
 <small><sub>**BSB:**</sub></small>
 Then a new king, who did not know Joseph, came to power in Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֥קָם]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H2319H\|חָדָ֖שׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרָ֑יִם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדַ֖ע]] [[H0853\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.7|<< Exodus 1:7]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.9|Exodus 1:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

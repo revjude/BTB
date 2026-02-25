@@ -1,8 +1,66 @@
+---
+title: Ezekiel 10:16
+type: Verse
+kjv: "And when the cherubims went, the wheels went by them: and when the cherubims lifted up their wings to mount up from the earth, the same wheels also turned not from beside them."
+bsb: "When the cherubim moved, the wheels moved beside them, and even when they spread their wings to rise from the ground, the wheels did not veer away from their side."
+hebrew: "וּבְלֶ֙כֶת֙ הַכְּרוּבִ֔ים יֵלְכ֥וּ הָאוֹפַנִּ֖ים אֶצְלָ֑ם וּבִשְׂאֵ֨ת הַכְּרוּבִ֜ים אֶת־ כַּנְפֵיהֶ֗ם לָרוּם֙ מֵעַ֣ל הָאָ֔רֶץ לֹא־ יִסַּ֧בּוּ הָאוֹפַנִּ֛ים גַּם־ הֵ֖ם מֵאֶצְלָֽם׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H0212]]"
+- "[[H0681]]"
+- "[[H9038]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3671]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H7311A]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H5437G]]"
+- "[[H1571]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:16**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the cherubims went, the wheels went by them: and when the cherubims lifted up their wings to mount up from the earth, the same wheels also turned not from beside them.
 <small><sub>**BSB:**</sub></small>
 When the cherubim moved, the wheels moved beside them, and even when they spread their wings to rise from the ground, the wheels did not veer away from their side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H1980G\|לֶ֙כֶת֙]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֔ים]] [[H1980G\|יֵלְכ֥וּ]] [[H9009\|הָ]][[H0212\|אוֹפַנִּ֖ים]] [[H0681\|אֶצְלָ֑]][[H9038\|ם]] [[H9002\|וּ]][[H9003\|בִ]][[H5375G\|שְׂאֵ֨ת]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֜ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3671\|כַּנְפֵי]][[H9028\|הֶ֗ם]] [[H9005\|לָ]][[H7311A\|רוּם֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3808\|לֹא]][[H9014\|־]] [[H5437G\|יִסַּ֧בּוּ]] [[H9009\|הָ]][[H0212\|אוֹפַנִּ֛ים]] [[H1571\|גַּם]][[H9014\|־]] [[H1992\|הֵ֖ם]] [[H9006\|מֵ]][[H0681\|אֶצְלָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.15|<< Ezekiel 10:15]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.17|Ezekiel 10:17 >>]]</td></tr></table>
 

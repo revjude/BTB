@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel Has Forsaken God
+type: Pericope
 pericope: "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 2
 book/chapter: "[[Jer.2|Jeremiah 2]]"
-genre:
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 13
 verses:
 - "[[Jer.2.1]]"
 - "[[Jer.2.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Jer.2.13]]"
 ---
 
-[[Jer.2|Jeremiah 2:1 - Jeremiah 2:13]]
+<small>[[Jer.2|Jeremiah 2:1-13]]</small>
 *Israel Has Forsaken God*
 
 [[Jer.2.1|1]] Moreover the word of the LORD came to me, saying,

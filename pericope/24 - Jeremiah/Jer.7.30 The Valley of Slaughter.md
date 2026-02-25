@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Valley of Slaughter
+type: Pericope
 pericope: "[[Jer.7.30 The Valley of Slaughter|The Valley of Slaughter]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 7
 book/chapter: "[[Jer.7|Jeremiah 7]]"
-genre:
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 5
 verses:
 - "[[Jer.7.30]]"
 - "[[Jer.7.31]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Jer.7.34]]"
 ---
 
-[[Jer.7|Jeremiah 7:30 - Jeremiah 7:34]]
+<small>[[Jer.7|Jeremiah 7:30-34]]</small>
 *The Valley of Slaughter*
 
 [[Jer.7.30|30]] For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it.

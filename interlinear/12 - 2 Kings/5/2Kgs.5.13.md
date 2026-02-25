@@ -1,8 +1,73 @@
+---
+title: 2 Kings 5:13
+type: Verse
+kjv: "And his servants came near, and spake unto him, and said, My father, if the prophet had bid thee do some great thing, wouldest thou not have done it? how much rather then, when he saith to thee, Wash, and be clean?"
+bsb: "Naaman’s servants, however, approached him and said, “My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, ‘Wash and be cleansed’?”"
+hebrew: "וַיִּגְּשׁ֣וּ עֲבָדָיו֮ וַיְדַבְּר֣וּ אֵלָיו֒ וַיֹּאמְר֗וּ אָבִי֙ דָּבָ֣ר גָּד֗וֹל הַנָּבִ֛יא דִּבֶּ֥ר אֵלֶ֖יךָ הֲל֣וֹא תַעֲשֶׂ֑ה וְאַ֛ף כִּֽי־ אָמַ֥ר אֵלֶ֖יךָ רְחַ֥ץ וּטְהָֽר׃"
+pericope: "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0001G]]"
+- "[[H1697I]]"
+- "[[H1419A]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H9031]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7364]]"
+- "[[H2891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:13**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his servants came near, and spake unto him, and said, My father, [if] the prophet had bid thee [do some] great thing, wouldest thou not have done [it]? how much rather then, when he saith to thee, Wash, and be clean?
 <small><sub>**BSB:**</sub></small>
 Naaman’s servants, however, approached him and said, “My father, if the prophet had told you to do some great thing, would you not have done it? How much more, then, when he tells you, ‘Wash and be cleansed’?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066G\|יִּגְּשׁ֣וּ]] [[H5650\|עֲבָדָי]][[H9023\|ו֮]] [[H9001\|וַ]][[H1696G\|יְדַבְּר֣וּ]] [[H0413\|אֵלָי]][[H9033\|ו֒]] [[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H0001G\|אָבִי֙]] [[H1697I\|דָּבָ֣ר]] [[H1419A\|גָּד֗וֹל]] [[H9009\|הַ]][[H5030\|נָּבִ֛יא]] [[H1696G\|דִּבֶּ֥ר]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H6213A\|תַעֲשֶׂ֑ה]] [[H9002\|וְ]][[H0637\|אַ֛ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H7364\|רְחַ֥ץ]] [[H9002\|וּ]][[H2891\|טְהָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic EXCUSES|EXCUSES]] • [[topic JORAM|JORAM]] • [[topic JORDAN|JORDAN]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic NAAMAN|NAAMAN]] • [[topic PRIDE|PRIDE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.12|<< 2 Kings 5:12]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.14|2 Kings 5:14 >>]]</td></tr></table>
 

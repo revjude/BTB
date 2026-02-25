@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: An Unclean Spirit Returns
+type: Pericope
 pericope: "[[Matt.12.43 An Unclean Spirit Returns|An Unclean Spirit Returns]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 12
 book/chapter: "[[Matt.12|Matthew 12]]"
-genre:
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 3
 verses:
 - "[[Matt.12.43]]"
 - "[[Matt.12.44]]"
 - "[[Matt.12.45]]"
 ---
 
-[[Matt.12|Matthew 12:43 - Matthew 12:45]]
+<small>[[Matt.12|Matthew 12:43-45]]</small>
 *An Unclean Spirit Returns*
 
 [[Matt.12.43|43]] When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.

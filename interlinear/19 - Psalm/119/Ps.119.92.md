@@ -1,8 +1,55 @@
+---
+title: Psalm 119:92
+type: Verse
+kjv: "Unless thy law had been my delights, I should then have perished in mine affliction."
+bsb: "If Your law had not been my delight, then I would have perished in my affliction."
+hebrew: "לוּלֵ֣י ת֭וֹרָתְךָ שַׁעֲשֻׁעָ֑י אָ֝֗ז אָבַ֥דְתִּי בְעָנְיִֽי׃"
+pericope: "[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|Your Word Is a Lamp to My Feet - LAMED]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3884]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H8191]]"
+- "[[H9020]]"
+- "[[H0227A]]"
+- "[[H0006]]"
+- "[[H9003]]"
+- "[[H6040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:92**<big><big>[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unless thy law [had been] my delights, I should then have perished in mine affliction.
 <small><sub>**BSB:**</sub></small>
 If Your law had not been my delight, then I would have perished in my affliction.
+<small><sub>**Hebrew:**</sub></small>
+[[H3884\|לוּלֵ֣י]] [[H8451\|ת֭וֹרָתְ]][[H9021\|ךָ]] [[H8191\|שַׁעֲשֻׁעָ֑]][[H9020\|י]] [[H0227A\|אָ֝֗ז]] [[H0006\|אָבַ֥דְתִּי]] [[H9003\|בְ]][[H6040\|עָנְיִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.92|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.91|<< Psalms 119:91]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.93|Psalms 119:93 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Joshua 18:6
+type: Verse
+kjv: "Ye shall therefore describe the land into seven parts, and bring the description hither to me, that I may cast lots for you here before the LORD our God."
+bsb: "When you have mapped out the seven portions of land and brought it to me, I will cast lots for you here in the presence of the LORD our God."
+hebrew: "וְאַתֶּ֞ם תִּכְתְּב֤וּ אֶת־ הָאָ֙רֶץ֙ שִׁבְעָ֣ה חֲלָקִ֔ים וַֽהֲבֵאתֶ֥ם אֵלַ֖י הֵ֑נָּה וְיָרִ֨יתִי לָכֶ֤ם גּוֹרָל֙ פֹּ֔ה לִפְנֵ֖י יְהוָ֥ה אֱלֹהֵֽינוּ׃"
+pericope: "[[Josh.18.1 The Remainder Divided|The Remainder Divided]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H3789]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7651]]"
+- "[[H2506A]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H2008]]"
+- "[[H3384A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H1486]]"
+- "[[H6311]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:6**<big><big>[[Josh.18.1 The Remainder Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall therefore describe the land [into] seven parts, and bring [the description] hither to me, that I may cast lots for you here before the LORD our God.
 <small><sub>**BSB:**</sub></small>
 When you have mapped out the seven portions of land and brought it to me, I will cast lots for you here in the presence of the LORD our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּ֞ם]] [[H3789\|תִּכְתְּב֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H7651\|שִׁבְעָ֣ה]] [[H2506A\|חֲלָקִ֔ים]] [[H9001\|וַֽ]][[H0935P\|הֲבֵאתֶ֥ם]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H2008\|הֵ֑נָּה]] [[H9001\|וְ]][[H3384A\|יָרִ֨יתִי]] [[H9005\|לָ]][[H9036\|כֶ֤ם]] [[H1486\|גּוֹרָל֙]] [[H6311\|פֹּ֔ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDAH|JUDAH]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.5|<< Joshua 18:5]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.7|Joshua 18:7 >>]]</td></tr></table>
 

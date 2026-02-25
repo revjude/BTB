@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 29:23
+type: Verse
+kjv: "And they brought forth the he goats for the sin offering before the king and the congregation; and they laid their hands upon them:"
+bsb: "Then they brought the goats for the sin offering before the king and the assembly, who laid their hands on them."
+hebrew: "וַיַּגִּ֙ישׁוּ֙ אֶת־ שְׂעִירֵ֣י הַֽחַטָּ֔את לִפְנֵ֥י הַמֶּ֖לֶךְ וְהַקָּהָ֑ל וַיִּסְמְכ֥וּ יְדֵיהֶ֖ם עֲלֵיהֶֽם׃"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8163B]]"
+- "[[H9009]]"
+- "[[H2403H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H6951]]"
+- "[[H5564]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:23**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought forth the he goats [for] the sin offering before the king and the congregation; and they laid their hands upon them:
 <small><sub>**BSB:**</sub></small>
 Then they brought the goats for the sin offering before the king and the assembly, who laid their hands on them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066H\|יַּגִּ֙ישׁוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8163B\|שְׂעִירֵ֣י]] [[H9009\|הַֽ]][[H2403H\|חַטָּ֔את]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9002\|וְ]][[H9009\|הַ]][[H6951\|קָּהָ֑ל]] [[H9001\|וַ]][[H5564\|יִּסְמְכ֥וּ]] [[H3027G\|יְדֵי]][[H9028\|הֶ֖ם]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic ASAPH|ASAPH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.22|<< 2 Chronicles 29:22]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.29.24|2 Chronicles 29:24 >>]]</td></tr></table>
 

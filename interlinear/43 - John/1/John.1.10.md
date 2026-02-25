@@ -1,10 +1,55 @@
+---
+title: John 1:10
+type: Verse
+kjv: "He was in the world, and the world was made by him, and the world knew him not."
+bsb: "He was in the world, and though the world was made through Him, the world did not recognize Him."
+greek: "ἐν τῷ κόσμῳ ἦν, καὶ ὁ κόσμος δι᾽ αὐτοῦ ἐγένετο, καὶ ὁ κόσμος αὐτὸν οὐκ ἔγνω."
+pericope: "[[John.1.6 The Witness of John|The Witness of John]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G1096]]"
+- "[[G3756]]"
+- "[[G1097]]"
+texts:
+- NKO
+---
+
 **John 1:10**<big><big>[[John.1.6 The Witness of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He was in the world, and the world was made by him, and the world knew him not.
 <small><sub>**BSB:**</sub></small>
 He was in the world, and though the world was made through Him, the world did not recognize Him.
-<small><sub>**Literal:**</sub></small>
-In the world He was, and the world through Him came into being, and the world Him not knew.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.9|<< John 1:9]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.11|John 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G1510\|ἦν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ]]  [[G1096\|ἐγένετο,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G0846\|αὐτὸν]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.9|<< John 1:9]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.11|John 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -23,7 +23,7 @@
 
 6. A Pharisee
 
-- Jesus dines with [[Luke.7.36|Lu 7:36]]-[[Luke.7.44|44]]
+- Jesus dines with [[Luke.7.36|Lu 7:36-44]]
 
 7. The father of Judas Iscariot [[John.6.71|Joh 6:71]]; [[John.12.4|12:4]]; [[John.13.2|13:2]],[[John.13.26|26]]
 
@@ -31,7 +31,7 @@
 
 - Converted by Philip
 
-- Rebuked by Peter [[Acts.8.9|Ac 8:9]]-[[Acts.8.13|13]],[[Acts.8.18|18]]-[[Acts.8.24|24]]
+- Rebuked by Peter [[Acts.8.9|Ac 8:9-13]],[[Acts.8.18|18-24]]
 
 9. A tanner
 

@@ -1,10 +1,55 @@
+---
+title: Galatians 2:17
+type: Verse
+kjv: "But if, while we seek to be justified by Christ, we ourselves also are found sinners, is therefore Christ the minister of sin? God forbid."
+bsb: "But if, while we seek to be justified in Christ, we ourselves are found to be sinners, does that make Christ a minister of sin? Certainly not!"
+greek: "εἰ δὲ ζητοῦντες δικαιωθῆναι ἐν Χριστῷ εὑρέθημεν καὶ αὐτοὶ ἁμαρτωλοί, ἆρα Χριστὸς ἁμαρτίας διάκονος; μὴ γένοιτο."
+pericope: "[[Gal.2.11 Paul Confronts Cephas|Paul Confronts Cephas]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G2212]]"
+- "[[G1344]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2147]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G0268]]"
+- "[[G0687]]"
+- "[[G0266]]"
+- "[[G1249]]"
+- "[[G3361]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Galatians 2:17**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if, while we seek to be justified by Christ, we ourselves also are found sinners, [is] therefore Christ the minister of sin? God forbid.
 <small><sub>**BSB:**</sub></small>
 But if, while we seek to be justified in Christ, we ourselves are found to be sinners, does that make Christ a minister of sin? Certainly not!
-<small><sub>**Literal:**</sub></small>
-If however seeking to be justified in Christ have been found also we ourselves sinners, surely not [is] Christ of sin a minister? Never would it be!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.16|<< Galatians 2:16]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.18|Galatians 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G2212\|ζητοῦντες]]  [[G1344\|δικαιωθῆναι]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2147\|εὑρέθημεν]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G0268\|ἁμαρτωλοί,]]  [[G0687\|ἆρα]]  [[G5547\|Χριστὸς]]  [[G0266\|ἁμαρτίας]]  [[G1249\|διάκονος;]]  [[G3361\|μὴ]]  [[G1096\|γένοιτο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic JUSTIFICATION|JUSTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.16|<< Galatians 2:16]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.18|Galatians 2:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

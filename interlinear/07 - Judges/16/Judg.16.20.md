@@ -1,8 +1,70 @@
+---
+title: Judges 16:20
+type: Verse
+kjv: "And she said, The Philistines be upon thee, Samson. And he awoke out of his sleep, and said, I will go out as at other times before, and shake myself. And he wist not that the LORD was departed from him."
+bsb: "Then she called out, “Samson, the Philistines are here!” When Samson awoke from his sleep, he thought, “I will escape as I did before and shake myself free.” But he did not know that the LORD had departed from him."
+hebrew: "וַתֹּ֕אמֶר פְּלִשְׁתִּ֥ים עָלֶ֖יךָ שִׁמְשׁ֑וֹן וַיִּקַ֣ץ מִשְּׁנָת֗וֹ וַיֹּ֙אמֶר֙ אֵצֵ֞א כְּפַ֤עַם בְּפַ֙עַם֙ וְאִנָּעֵ֔ר וְהוּא֙ לֹ֣א יָדַ֔ע כִּ֥י יְהוָ֖ה סָ֥ר מֵעָלָֽיו׃"
+pericope: "[[Judg.16.15 Delilah Learns the Secret|Delilah Learns the Secret]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6430G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H8123]]"
+- "[[H3364]]"
+- "[[H9006]]"
+- "[[H8142]]"
+- "[[H9023]]"
+- "[[H3318G]]"
+- "[[H9004]]"
+- "[[H6471]]"
+- "[[H9003]]"
+- "[[H9002]]"
+- "[[H5287]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H5493H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:20**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, The Philistines [be] upon thee, Samson. And he awoke out of his sleep, and said, I will go out as at other times before, and shake myself. And he wist not that the LORD was departed from him.
 <small><sub>**BSB:**</sub></small>
 Then she called out, “Samson, the Philistines are here!” When Samson awoke from his sleep, he thought, “I will escape as I did before and shake myself free.” But he did not know that the LORD had departed from him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֕אמֶר]] [[H6430G\|פְּלִשְׁתִּ֥ים]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H8123\|שִׁמְשׁ֑וֹן]] [[H9001\|וַ]][[H3364\|יִּקַ֣ץ]] [[H9006\|מִ]][[H8142\|שְּׁנָת֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3318G\|אֵצֵ֞א]] [[H9004\|כְּ]][[H6471\|פַ֤עַם]] [[H9003\|בְּ]][[H6471\|פַ֙עַם֙]] [[H9002\|וְ]][[H5287\|אִנָּעֵ֔ר]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H3808\|לֹ֣א]] [[H3045\|יָדַ֔ע]] [[H3588A\|כִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H5493H\|סָ֥ר]] [[H9006\|מֵ]][[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic FRIENDS|FRIENDS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.19|<< Judges 16:19]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.21|Judges 16:21 >>]]</td></tr></table>
 

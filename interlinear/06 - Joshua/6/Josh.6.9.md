@@ -1,8 +1,57 @@
+---
+title: Joshua 6:9
+type: Verse
+kjv: "And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, the priests going on, and blowing with the trumpets."
+bsb: "While the horns continued to sound, the armed troops marched ahead of the priests who blew the horns, and the rear guard followed the ark."
+hebrew: "וְהֶחָל֣וּץ הֹלֵ֔ךְ לִפְנֵי֙ הַכֹּ֣הֲנִ֔ים תֹּקְעֵ֖י הַשּֽׁוֹפָר֑וֹת וְהַֽמְאַסֵּ֗ף הֹלֵךְ֙ אַחֲרֵ֣י הָאָר֔וֹן הָל֖וֹךְ וְתָק֥וֹעַ בַּשּׁוֹפָרֽוֹת׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H2502B]]"
+- "[[H1980I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3548]]"
+- "[[H8628]]"
+- "[[H7782]]"
+- "[[H0622]]"
+- "[[H0310A]]"
+- "[[H0727]]"
+- "[[H1980L]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 6:9**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the armed men went before the priests that blew with the trumpets, and the rereward came after the ark, [the priests] going on, and blowing with the trumpets.
 <small><sub>**BSB:**</sub></small>
 While the horns continued to sound, the armed troops marched ahead of the priests who blew the horns, and the rear guard followed the ark.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הֶ]][[H2502B\|חָל֣וּץ]] [[H1980I\|הֹלֵ֔ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H8628\|תֹּקְעֵ֖י]] [[H9009\|הַ]][[H7782\|שּֽׁוֹפָר֑וֹת]] [[H9002\|וְ]][[H9009\|הַֽ]][[H0622\|מְאַסֵּ֗ף]] [[H1980I\|הֹלֵךְ֙]] [[H0310A\|אַחֲרֵ֣י]] [[H9009\|הָ]][[H0727\|אָר֔וֹן]] [[H1980L\|הָל֖וֹךְ]] [[H9002\|וְ]][[H8628\|תָק֥וֹעַ]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.8|<< Joshua 6:8]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.10|Joshua 6:10 >>]]</td></tr></table>
 

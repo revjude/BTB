@@ -1,8 +1,57 @@
+---
+title: Isaiah 48:3
+type: Verse
+kjv: "I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did them suddenly, and they came to pass."
+bsb: "I foretold the former things long ago; they came out of My mouth and I proclaimed them. Suddenly I acted, and they came to pass."
+hebrew: "הָרִֽאשֹׁנוֹת֙ מֵאָ֣ז הִגַּ֔דְתִּי וּמִפִּ֥י יָצְא֖וּ וְאַשְׁמִיעֵ֑ם פִּתְאֹ֥ם עָשִׂ֖יתִי וַתָּבֹֽאנָה׃"
+pericope: "[[Isa.48.1 Israel’s Stubbornness|Israel’s Stubbornness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9009]]"
+- "[[H7223H]]"
+- "[[H9006]]"
+- "[[H0227B]]"
+- "[[H5046]]"
+- "[[H9002]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H3318O]]"
+- "[[H8085I]]"
+- "[[H9038]]"
+- "[[H6597]]"
+- "[[H6213A]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:3**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have declared the former things from the beginning; and they went forth out of my mouth, and I shewed them; I did [them] suddenly, and they came to pass.
 <small><sub>**BSB:**</sub></small>
 I foretold the former things long ago; they came out of My mouth and I proclaimed them. Suddenly I acted, and they came to pass.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H7223H\|רִֽאשֹׁנוֹת֙]] [[H9006\|מֵ]][[H0227B\|אָ֣ז]] [[H5046\|הִגַּ֔דְתִּי]] [[H9002\|וּ]][[H9006\|מִ]][[H6310G\|פִּ֥]][[H9020\|י]] [[H3318O\|יָצְא֖וּ]] [[H9002\|וְ]][[H8085I\|אַשְׁמִיעֵ֑]][[H9038\|ם]] [[H6597\|פִּתְאֹ֥ם]] [[H6213A\|עָשִׂ֖יתִי]] [[H9001\|וַ]][[H0935G\|תָּבֹֽאנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.2|<< Isaiah 48:2]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.4|Isaiah 48:4 >>]]</td></tr></table>
 

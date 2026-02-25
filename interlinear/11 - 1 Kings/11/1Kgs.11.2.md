@@ -1,8 +1,79 @@
+---
+title: 1 Kings 11:2
+type: Verse
+kjv: "Of the nations concerning which the LORD said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: for surely they will turn away your heart after their gods: Solomon clave unto these in love."
+bsb: "These women were from the nations about which the LORD had told the Israelites, “You must not intermarry with them, for surely they will turn your hearts after their gods.” Yet Solomon clung to these women in love."
+hebrew: "מִן־ הַגּוֹיִ֗ם אֲשֶׁ֣ר אָֽמַר־ יְהוָה֩ אֶל־ בְּנֵ֨י יִשְׂרָאֵ֜ל לֹֽא־ תָבֹ֣אוּ בָהֶ֗ם וְהֵם֙ לֹא־ יָבֹ֣אוּ בָכֶ֔ם אָכֵן֙ יַטּ֣וּ אֶת־ לְבַבְכֶ֔ם אַחֲרֵ֖י אֱלֹהֵיהֶ֑ם בָּהֶ֛ם דָּבַ֥ק שְׁלֹמֹ֖ה לְאַהֲבָֽה׃"
+pericope: "[[1Kgs.11.1 Solomon’s Foreign Wives|Solomon’s Foreign Wives]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H0935L]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H9036]]"
+- "[[H0403]]"
+- "[[H5186]]"
+- "[[H0853]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H9028]]"
+- "[[H1692]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H0160]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:2**<big><big>[[1Kgs.11.1 Solomon’s Foreign Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the nations [concerning] which the LORD said unto the children of Israel, Ye shall not go in to them, neither shall they come in unto you: [for] surely they will turn away your heart after their gods: Solomon clave unto these in love.
 <small><sub>**BSB:**</sub></small>
 These women were from the nations about which the LORD had told the Israelites, “You must not intermarry with them, for surely they will turn your hearts after their gods.” Yet Solomon clung to these women in love.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֗ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָֽמַר]][[H9014\|־]] [[H3068G\|יְהוָה֩]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֨י]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0935L\|תָבֹ֣אוּ]] [[H9003\|בָ]][[H9038\|הֶ֗ם]] [[H9002\|וְ]][[H1992\|הֵם֙]] [[H3808\|לֹא]][[H9014\|־]] [[H0935L\|יָבֹ֣אוּ]] [[H9003\|בָ]][[H9036\|כֶ֔ם]] [[H0403\|אָכֵן֙]] [[H5186\|יַטּ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֔ם]] [[H0310A\|אַחֲרֵ֖י]] [[H0430\|אֱלֹהֵי]][[H9028\|הֶ֑ם]] [[H9003\|בָּ]][[H9038\|הֶ֛ם]] [[H1692\|דָּבַ֥ק]] [[H8010\|שְׁלֹמֹ֖ה]] [[H9005\|לְ]][[H0160\|אַהֲבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MOLECH|MOLECH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.1|<< 1 Kings 11:1]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.3|1 Kings 11:3 >>]]</td></tr></table>
 

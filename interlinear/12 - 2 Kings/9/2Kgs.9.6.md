@@ -1,8 +1,70 @@
+---
+title: 2 Kings 9:6
+type: Verse
+kjv: "And he arose, and went into the house; and he poured the oil on his head, and said unto him, Thus saith the LORD God of Israel, I have anointed thee king over the people of the LORD, even over Israel."
+bsb: "So Jehu got up and went into the house, where the young prophet poured the oil on his head and declared, “This is what the LORD, the God of Israel, says: ‘I anoint you king over the LORD’s people Israel."
+hebrew: "וַיָּ֙קָם֙ וַיָּבֹ֣א הַבַּ֔יְתָה וַיִּצֹ֥ק הַשֶּׁ֖מֶן אֶל־ רֹאשׁ֑וֹ וַיֹּ֣אמֶר ל֗וֹ כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל מְשַׁחְתִּ֧יךָֽ לְמֶ֛לֶךְ אֶל־ עַ֥ם יְהוָ֖ה אֶל־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.9.1 Jehu Anointed King of Israel|Jehu Anointed King of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CALL|CALL]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H3332G]]"
+- "[[H8081]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H4886]]"
+- "[[H9031]]"
+- "[[H4428G]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:6**<big><big>[[2Kgs.9.1 Jehu Anointed King of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he arose, and went into the house; and he poured the oil on his head, and said unto him, Thus saith the LORD God of Israel, I have anointed thee king over the people of the LORD, [even] over Israel.
 <small><sub>**BSB:**</sub></small>
 So Jehu got up and went into the house, where the young prophet poured the oil on his head and declared, “This is what the LORD, the God of Israel, says: ‘I anoint you king over the LORD’s people Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֙קָם֙]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H9009\|הַ]][[H1004B\|בַּ֔יְתָ]][[H9011\|ה]] [[H9001\|וַ]][[H3332G\|יִּצֹ֥ק]] [[H9009\|הַ]][[H8081\|שֶּׁ֖מֶן]] [[H0413\|אֶל]][[H9014\|־]] [[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H4886\|מְשַׁחְתִּ֧י]][[H9031\|ךָֽ]] [[H9005\|לְ]][[H4428G\|מֶ֛לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic ANOINTING|ANOINTING]] • [[topic CALL|CALL]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic JEHU|JEHU]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.5|<< 2 Kings 9:5]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.7|2 Kings 9:7 >>]]</td></tr></table>
 

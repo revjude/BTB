@@ -1,8 +1,69 @@
+---
+title: Jeremiah 16:9
+type: Verse
+kjv: "For thus saith the LORD of hosts, the God of Israel; Behold, I will cause to cease out of this place in your eyes, and in your days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride."
+bsb: "For this is what the LORD of Hosts, the God of Israel, says: I am going to remove from this place, before your very eyes and in your days, the sounds of joy and gladness, the voices of the bride and bridegroom."
+hebrew: "כִּי֩ כֹ֨ה אָמַ֜ר יְהוָ֤ה צְבָאוֹת֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הִנְנִ֨י מַשְׁבִּ֜ית מִן־ הַמָּק֥וֹם הַזֶּ֛ה לְעֵינֵיכֶ֖ם וּבִֽימֵיכֶ֑ם ק֤וֹל שָׂשׂוֹן֙ וְק֣וֹל שִׂמְחָ֔ה ק֥וֹל חָתָ֖ן וְק֥וֹל כַּלָּֽה׃"
+pericope: "[[Jer.16.1 Disaster Predicted|Disaster Predicted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7673A]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6963A]]"
+- "[[H8342]]"
+- "[[H8057]]"
+- "[[H2860]]"
+- "[[H3618G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 16:9**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts, the God of Israel; Behold, I will cause to cease out of this place in your eyes, and in your days, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts, the God of Israel, says: I am going to remove from this place, before your very eyes and in your days, the sounds of joy and gladness, the voices of the bride and bridegroom.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3541\|כֹ֨ה]] [[H0559\|אָמַ֜ר]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H7673A\|מַשְׁבִּ֜ית]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H9005\|לְ]][[H5869A\|עֵינֵי]][[H9026\|כֶ֖ם]] [[H9002\|וּ]][[H9003\|בִֽ]][[H3117G\|ימֵי]][[H9026\|כֶ֑ם]] [[H6963A\|ק֤וֹל]] [[H8342\|שָׂשׂוֹן֙]] [[H9002\|וְ]][[H6963A\|ק֣וֹל]] [[H8057\|שִׂמְחָ֔ה]] [[H6963A\|ק֥וֹל]] [[H2860\|חָתָ֖ן]] [[H9002\|וְ]][[H6963A\|ק֥וֹל]] [[H3618G\|כַּלָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.8|<< Jeremiah 16:8]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.10|Jeremiah 16:10 >>]]</td></tr></table>
 

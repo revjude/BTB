@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning against Pride
+type: Pericope
 pericope: "[[Jas.4.1 A Warning against Pride|A Warning against Pride]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: James
 chapter: 4
 book/chapter: "[[Jas.4|James 4]]"
-genre:
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 6
 verses:
 - "[[Jas.4.1]]"
 - "[[Jas.4.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jas.4.6]]"
 ---
 
-[[Jas.4|James 4:1 - James 4:6]]
+<small>[[Jas.4|James 4:1-6]]</small>
 *A Warning against Pride*
 
 [[Jas.4.1|1]] From whence \[come\] wars and fightings among you? \[come they\] not hence, \[even\] of your lusts that war in your members?

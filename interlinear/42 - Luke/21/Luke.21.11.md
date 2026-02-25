@@ -1,10 +1,59 @@
+---
+title: Luke 21:11
+type: Verse
+kjv: "And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven."
+bsb: "There will be great earthquakes, famines, and pestilences in various places, along with fearful sights and great signs from heaven."
+jesus_said: "And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven."
+greek: "σεισμοί τε μεγάλοι καὶ κατὰ τόπους λιμοὶ καὶ λοιμοὶ ἔσονται, φόβητρά τε καὶ ἀπ᾽ οὐρανοῦ σημεῖα μεγάλα ἔσται.¶"
+pericope: "[[Luke.21.10 Witnessing to All Nations|Witnessing to All Nations]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G4578]]"
+- "[[G5037]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G5117]]"
+- "[[G3042]]"
+- "[[G3061]]"
+- "[[G1510]]"
+- "[[G5400]]"
+- "[[G0575]]"
+- "[[G3772]]"
+- "[[G4592]]"
+texts:
+- NKO
+---
+
 **Luke 21:11**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven.
 <small><sub>**BSB:**</sub></small>
 There will be great earthquakes, famines, and pestilences in various places, along with fearful sights and great signs from heaven.
-<small><sub>**Literal:**</sub></small>
-Earthquakes both great and in different places famines and pestilences there will be, fearful sights also and from heaven signs great will there be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.10|<< Luke 21:10]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.12|Luke 21:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4578\|σεισμοί]]  [[G5037\|τε]]  [[G3173\|μεγάλοι]]  [[G2532\|καὶ]]  [[G2596\|κατὰ]]  [[G5117\|τόπους]]  [[G3042\|λιμοὶ]]  [[G2532\|καὶ]]  [[G3061\|λοιμοὶ]]  [[G1510\|ἔσονται,]]  [[G5400\|φόβητρά]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G0575\|ἀπ᾽]]  [[G3772\|οὐρανοῦ]]  [[G4592\|σημεῖα]]  [[G3173\|μεγάλα]]  [[G1510\|ἔσται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTHQUAKES|EARTHQUAKES]] • [[topic FAMINE|FAMINE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.10|<< Luke 21:10]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.12|Luke 21:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

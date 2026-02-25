@@ -1,8 +1,61 @@
+---
+title: Numbers 33:14
+type: Verse
+kjv: "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink."
+bsb: "They set out from Alush and camped at Rephidim, where there was no water for the people to drink."
+hebrew: "וַיִּסְע֖וּ מֵאָל֑וּשׁ וַֽיַּחֲנוּ֙ בִּרְפִידִ֔ם וְלֹא־ הָ֨יָה שָׁ֥ם מַ֛יִם לָעָ֖ם לִשְׁתּֽוֹת׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic REPHIDIM|REPHIDIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H0442]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H7508]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H4325G]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:14**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.
 <small><sub>**BSB:**</sub></small>
 They set out from Alush and camped at Rephidim, where there was no water for the people to drink.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְע֖וּ]] [[H9006\|מֵ]][[H0442\|אָל֑וּשׁ]] [[H9001\|וַֽ]][[H2583\|יַּחֲנוּ֙]] [[H9003\|בִּ]][[H7508\|רְפִידִ֔ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֨יָה]] [[H8033G\|שָׁ֥ם]] [[H4325G\|מַ֛יִם]] [[H9005\|לָ]][[H5971A\|עָ֖ם]] [[H9005\|לִ]][[H8354\|שְׁתּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPHIDIM|REPHIDIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.13|<< Numbers 33:13]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.15|Numbers 33:15 >>]]</td></tr></table>
 

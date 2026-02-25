@@ -1,8 +1,72 @@
+---
+title: Esther 6:10
+type: Verse
+kjv: "Then the king said to Haman, Make haste, and take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king’s gate: let nothing fail of all that thou hast spoken."
+bsb: "“Hurry,” said the king to Haman, “and do just as you proposed. Take the robe and the horse to Mordecai the Jew, who is sitting at the king’s gate. Do not neglect anything that you have suggested.”"
+hebrew: "וַיֹּ֨אמֶר הַמֶּ֜לֶךְ לְהָמָ֗ן מַ֠הֵר קַ֣ח אֶת־ הַלְּב֤וּשׁ וְאֶת־ הַסּוּס֙ כַּאֲשֶׁ֣ר דִּבַּ֔רְתָּ וַֽעֲשֵׂה־ כֵן֙ לְמָרְדֳּכַ֣י הַיְּהוּדִ֔י הַיּוֹשֵׁ֖ב בְּשַׁ֣עַר הַמֶּ֑לֶךְ אַל־ תַּפֵּ֣ל דָּבָ֔ר מִכֹּ֖ל אֲשֶׁ֥ר דִּבַּֽרְתָּ׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MORDECAI|MORDECAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H2001]]"
+- "[[H4116A]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3830]]"
+- "[[H9002]]"
+- "[[H5483M]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H4782H]]"
+- "[[H3064]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H0408]]"
+- "[[H5307G]]"
+- "[[H1697I]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:10**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king said to Haman, Make haste, [and] take the apparel and the horse, as thou hast said, and do even so to Mordecai the Jew, that sitteth at the king’s gate: let nothing fail of all that thou hast spoken.
 <small><sub>**BSB:**</sub></small>
 “Hurry,” said the king to Haman, “and do just as you proposed. Take the robe and the horse to Mordecai the Jew, who is sitting at the king’s gate. Do not neglect anything that you have suggested.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9005\|לְ]][[H2001\|הָמָ֗ן]] [[H4116A\|מַ֠הֵר]] [[H3947G\|קַ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3830\|לְּב֤וּשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5483M\|סּוּס֙]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H1696G\|דִּבַּ֔רְתָּ]] [[H9002\|וַֽ]][[H6213A\|עֲשֵׂה]][[H9014\|־]] [[H3651C\|כֵן֙]] [[H9005\|לְ]][[H4782H\|מָרְדֳּכַ֣י]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֔י]] [[H9009\|הַ]][[H3427\|יּוֹשֵׁ֖ב]] [[H9003\|בְּ]][[H8179G\|שַׁ֣עַר]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H0408\|אַל]][[H9014\|־]] [[H5307G\|תַּפֵּ֣ל]] [[H1697I\|דָּבָ֔ר]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבַּֽרְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOD|GOD]] • [[topic MORDECAI|MORDECAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.9|<< Esther 6:9]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.11|Esther 6:11 >>]]</td></tr></table>
 

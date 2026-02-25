@@ -1,8 +1,55 @@
+---
+title: Proverbs 20:20
+type: Verse
+kjv: "Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness."
+bsb: "Whoever curses his father or mother, his lamp will be extinguished in deepest darkness."
+hebrew: "מְ֭קַלֵּל אָבִ֣יו וְאִמּ֑וֹ יִֽדְעַ֥ךְ נֵ֝ר֗וֹ בֶּאֱשׁ֥וּן חֹֽשֶׁךְ׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic LAMP|LAMP]]"
+- "[[topic MOTHER|MOTHER]]"
+strongs:
+- "[[H7043]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H1846]]"
+- "[[H5216A]]"
+- "[[H9003]]"
+- "[[H0380]]"
+- "[[H2822]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 20:20**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso curseth his father or his mother, his lamp shall be put out in obscure darkness.
 <small><sub>**BSB:**</sub></small>
 Whoever curses his father or mother, his lamp will be extinguished in deepest darkness.
+<small><sub>**Hebrew:**</sub></small>
+[[H7043\|מְ֭קַלֵּל]] [[H0001G\|אָבִ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H1846\|יִֽדְעַ֥ךְ]] [[H5216A\|נֵ֝ר֗]][[H9023\|וֹ]] [[H9003\|בֶּ]][[H0380\|אֱשׁ֥וּן]] [[H2822\|חֹֽשֶׁךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DARKNESS|DARKNESS]] • [[topic LAMP|LAMP]] • [[topic MOTHER|MOTHER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.19|<< Proverbs 20:19]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.21|Proverbs 20:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -21,7 +68,7 @@ Whoever curses his father or mother, his lamp will be extinguished in deepest da
 | darkness  |**<big>&#8207;[[H2822\|חֹֽשֶׁךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Cho.shekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.19|<< Proverbs 20:19]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.21|Proverbs 20:21 >>]]</td></tr></table>
 
-[^1]: in [the] middle of  | **<big>[[H0380|אִישׁוֹן]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'i.shon<small><sup>[[HNcbsc]]</sup></small> | K
-[^2]: in [the] middle of  | **<big>[[H0380|אִישׁוֹן]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'i.shon<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: in [the] middle of  | **<big>[[H9003|בְּ]]</big><big>[[H0380|אִישׁוֹן]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'i.shon<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: in [the] middle of  | **<big>[[H9003|בְּ]]</big><big>[[H0380|אִישׁוֹן]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'i.shon<small><sup>[[HNcbsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בֶּאֱישׁ֥וּן</big></span>**
 

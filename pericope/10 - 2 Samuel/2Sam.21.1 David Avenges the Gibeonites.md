@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Avenges the Gibeonites
+type: Pericope
 pericope: "[[2Sam.21.1 David Avenges the Gibeonites|David Avenges the Gibeonites]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 21
 book/chapter: "[[2Sam.21|2 Samuel 21]]"
-genre:
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 14
 verses:
 - "[[2Sam.21.1]]"
 - "[[2Sam.21.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Sam.21.14]]"
 ---
 
-[[2Sam.21|2 Samuel 21:1 - 2 Samuel 21:14]]
+<small>[[2Sam.21|2 Samuel 21:1-14]]</small>
 *David Avenges the Gibeonites*
 
 [[2Sam.21.1|1]] Then there was a famine in the days of David three years, year after year; and David inquired of the LORD. And the LORD answered, \[It is\] for Saul, and for \[his\] bloody house, because he slew the Gibeonites.

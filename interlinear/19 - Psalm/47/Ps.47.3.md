@@ -1,8 +1,53 @@
+---
+title: Psalm 47:3
+type: Verse
+kjv: "He shall subdue the people under us, and the nations under our feet."
+bsb: "He subdues nations beneath us, and peoples under our feet."
+hebrew: "יַדְבֵּ֣ר עַמִּ֣ים תַּחְתֵּ֑ינוּ וּ֝לְאֻמִּ֗ים תַּ֣חַת רַגְלֵֽינוּ׃"
+pericope: "[[Ps.47.1 Clap Your Hands, All You Peoples|Clap Your Hands, All You Peoples]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 47
+book/chapter: "[[Ps.47|Psalm 47]]"
+chronological_order: 502
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H1696H]]"
+- "[[H5971A]]"
+- "[[H8478G]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3816]]"
+- "[[H7272]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 47:3**<big><big>[[Ps.47.1 Clap Your Hands, All You Peoples|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall subdue the people under us, and the nations under our feet.
 <small><sub>**BSB:**</sub></small>
 He subdues nations beneath us, and peoples under our feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696H\|יַדְבֵּ֣ר]] [[H5971A\|עַמִּ֣ים]] [[H8478G\|תַּחְתֵּ֑י]][[H9035\|נוּ]] [[H9002\|וּ֝]][[H3816\|לְאֻמִּ֗ים]] [[H8478G\|תַּ֣חַת]] [[H7272\|רַגְלֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.47.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.47.2|<< Psalms 47:2]]</td><td align="center" style="border:none;">[[Ps.47|Psalms 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.47.4|Psalms 47:4 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 23:11
+type: Verse
+kjv: "Then they brought out the king’s son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king."
+bsb: "Then Jehoiada and his sons brought out the king’s son, put the crown on him, presented him with the Testimony, and proclaimed him king. They anointed him and shouted, “Long live the king!”"
+hebrew: "וַיּוֹצִ֣יאוּ אֶת־ בֶּן־ הַמֶּ֗לֶךְ וַיִּתְּנ֤וּ עָלָיו֙ אֶת־ הַנֵּ֙זֶר֙ וְאֶת־ הָ֣עֵד֔וּת וַיַּמְלִ֖יכוּ אֹת֑וֹ וַיִּמְשָׁחֻ֙הוּ֙ יְהוֹיָדָ֣ע וּבָנָ֔יו וַיֹּאמְר֖וּ יְחִ֥י הַמֶּֽלֶךְ׃ ס"
+pericope: "[[2Chr.23.1 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 23
+book/chapter: "[[2Chr.23|2 Chronicles 23]]"
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KING|KING]]"
+- "[[topic LAW|LAW]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5145H]]"
+- "[[H9002]]"
+- "[[H5715]]"
+- "[[H4427A]]"
+- "[[H4886]]"
+- "[[H3077H]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H2421]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 23:11**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they brought out the king’s son, and put upon him the crown, and [gave him] the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.
 <small><sub>**BSB:**</sub></small>
 Then Jehoiada and his sons brought out the king’s son, put the crown on him, presented him with the Testimony, and proclaimed him king. They anointed him and shouted, “Long live the king!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יּוֹצִ֣יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9001\|וַ]][[H5414H\|יִּתְּנ֤וּ]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5145H\|נֵּ֙זֶר֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H5715\|עֵד֔וּת]] [[H9001\|וַ]][[H4427A\|יַּמְלִ֖יכוּ]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H4886\|יִּמְשָׁחֻ֙]][[H9033\|הוּ֙]] [[H3077H\|יְהוֹיָדָ֣ע]] [[H9002\|וּ]][[H1121A\|בָנָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H2421\|יְחִ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KING|KING]] • [[topic LAW|LAW]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.10|<< 2 Chronicles 23:10]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.12|2 Chronicles 23:12 >>]]</td></tr></table>
 
@@ -25,7 +82,7 @@ Then Jehoiada and his sons brought out the king’s son, put the crown on him, p
 | and sons his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1121A\|בָנָ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.Na<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may he live  |**<big>&#8207;[[H2421\|יְחִ֥י]]&#8207; </big>**| ye.Chi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.10|<< 2 Chronicles 23:10]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.12|2 Chronicles 23:12 >>]]</td></tr></table>
 
 

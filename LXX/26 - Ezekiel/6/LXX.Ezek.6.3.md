@@ -1,6 +1,70 @@
+---
+title: LXX Ezekiel 6:3
+type: Verse
+lxx: "And you shall say, O mountains of Israel, hear the word of Adonai the lord! Thus says Adonai the lord to the mountains, and to the hills, and to the ravines, and to the groves; Behold, I bring upon you a broadsword, and your high places will be utterly destroyed."
+greek: "και ερείς τα όρη Ισραήλ ακούσατε τον λόγον Αδωναϊ κυρίου τάδε λέγει Αδωναϊ κύριος τοις όρεσι και τοις βουνοίς και ταις φάραγξι και ταις νάπαις ιδού εγώ επάγω εφ΄ υμάς ρομφαίαν και εξολοθρευθήσεται τα υψηλά υμών"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G2474]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1015]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5327]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8375]]"
+- "[[G2400]]"
+- "[[G1473]]"
+- "[[G1863]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G4501]]"
+- "[[G2532]]"
+- "[[G1842]]"
+- "[[G3588]]"
+- "[[G5308]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 6:3** 
 <small><sub>**LXX:**</sub></small>
 And you shall say, O mountains of Israel, hear the word \[of\] Adonai \[the\] <span class="smallcaps">lord</span>! Thus says Adonai \[the\] <span class="smallcaps">lord</span> to the mountains, and to the hills, and to the ravines, and to the groves; Behold, I bring upon you a broadsword, and your high \[places\] will be utterly destroyed. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2046\|ερείς]] [[G3588\|τα]] [[G3735\|όρη]] [[G2474\|Ισραήλ]] [[G0191\|ακούσατε]] [[G3588\|τον]] [[G3056\|λόγον]] [[H0113\|Αδωναϊ]] [[G2962\|κυρίου]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G3588\|τοις]] [[G3735\|όρεσι]] [[G2532\|και]] [[G3588\|τοις]] [[G1015\|βουνοίς]] [[G2532\|και]] [[G3588\|ταις]] [[G5327\|φάραγξι]] [[G2532\|και]] [[G3588\|ταις]] [[G8375\|νάπαις]] [[G2400\|ιδού]] [[G1473\|εγώ]] [[G1863\|επάγω]] [[G1909\|εφ΄]] [[G1473\|υμάς]] [[G4501\|ρομφαίαν]] [[G2532\|και]] [[G1842\|εξολοθρευθήσεται]] [[G3588\|τα]] [[G5308\|υψηλά]] [[G1473\|υμών]]
 <small><sub>**MT:**</sub></small>
 [[Ezek.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.2|<< Ezekiel 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.4|Ezekiel 6:4 >>]]</td></tr></table>
 
@@ -41,6 +105,6 @@ And you shall say, O mountains of Israel, hear the word \[of\] Adonai \[the\] <s
 | will be utterly destroyed | **<big>[[G1842\|εξολοθρευθήσεται]]</big>** |
 | \<obj.> | **<big>[[G3588\|τα]]</big>** |
 | your high \[places\] | **<big>[[G5308\|υψηλά]]</big>** **<big>[[G1473\|υμών]]</big>** |
-[[Ezek.6.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.2|<< Ezekiel 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.4|Ezekiel 6:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.6.2|<< Ezekiel 6:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.6.4|Ezekiel 6:4 >>]]</td></tr></table>
 
 

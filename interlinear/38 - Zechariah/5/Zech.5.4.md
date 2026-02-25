@@ -1,8 +1,77 @@
+---
+title: Zechariah 5:4
+type: Verse
+kjv: "I will bring it forth, saith the LORD of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof."
+bsb: "I will send it out, declares the LORD of Hosts, and it will enter the house of the thief and the house of him who swears falsely by My name. It will remain inside his house and destroy it, down to its timbers and stones.”"
+hebrew: "הוֹצֵאתִ֗יהָ נְאֻם֙ יְהוָ֣ה צְבָא֔וֹת וּבָ֙אָה֙ אֶל־ בֵּ֣ית הַגַּנָּ֔ב וְאֶל־ בֵּ֛ית הַנִּשְׁבָּ֥ע בִּשְׁמִ֖י לַשָּׁ֑קֶר וְלָ֙נֶה֙ בְּת֣וֹךְ בֵּית֔וֹ וְכִלַּ֖תּוּ וְאֶת־ עֵצָ֥יו וְאֶת־ אֲבָנָֽיו׃"
+pericope: "[[Zech.5.1 The Vision of the Flying Scroll|The Vision of the Flying Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 5
+book/chapter: "[[Zech.5|Zechariah 5]]"
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3318H]]"
+- "[[H9034]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H1590]]"
+- "[[H9002]]"
+- "[[H7650]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H8267]]"
+- "[[H3885A]]"
+- "[[H8432]]"
+- "[[H9023]]"
+- "[[H3615H]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H6086G]]"
+- "[[H0068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 5:4**<big><big>[[Zech.5.1 The Vision of the Flying Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will bring it forth, saith the LORD of hosts, and it shall enter into the house of the thief, and into the house of him that sweareth falsely by my name: and it shall remain in the midst of his house, and shall consume it with the timber thereof and the stones thereof.
 <small><sub>**BSB:**</sub></small>
 I will send it out, declares the LORD of Hosts, and it will enter the house of the thief and the house of him who swears falsely by My name. It will remain inside his house and destroy it, down to its timbers and stones.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3318H\|הוֹצֵאתִ֗י]][[H9034\|הָ]] [[H5002\|נְאֻם֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9001\|וּ]][[H0935G\|בָ֙אָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H1590\|גַּנָּ֔ב]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֛ית]] [[H9009\|הַ]][[H7650\|נִּשְׁבָּ֥ע]] [[H9003\|בִּ]][[H8034\|שְׁמִ֖]][[H9020\|י]] [[H9005\|לַ]][[H8267\|שָּׁ֑קֶר]] [[H9001\|וְ]][[H3885A\|לָ֙נֶה֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H1004B\|בֵּית֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H3615H\|כִלַּ֖תּ]][[H9033\|וּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6086G\|עֵצָ֥י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0068G\|אֲבָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic PERJURY|PERJURY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SYMBOLS|SYMBOLS]] • [[topic VISION|VISION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.3|<< Zechariah 5:3]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.5|Zechariah 5:5 >>]]</td></tr></table>
 

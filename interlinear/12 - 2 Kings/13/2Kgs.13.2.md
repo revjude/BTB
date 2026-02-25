@@ -1,8 +1,65 @@
+---
+title: 2 Kings 13:2
+type: Verse
+kjv: "And he did that which was evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom."
+bsb: "And he did evil in the sight of the LORD and followed the sins that Jeroboam son of Nebat had caused Israel to commit; he did not turn away from them."
+hebrew: "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וַ֠יֵּלֶךְ אַחַ֨ר חַטֹּ֜את יָרָבְעָ֧ם בֶּן־ נְבָ֛ט אֲשֶׁר־ הֶחֱטִ֥יא אֶת־ יִשְׂרָאֵ֖ל לֹא־ סָ֥ר מִמֶּֽנָּה׃"
+pericope: "[[2Kgs.13.1 Jehoahaz Reigns in Israel|Jehoahaz Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 13
+book/chapter: "[[2Kgs.13|2 Kings 13]]"
+chronological_order: 590
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~798–782 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H2403B]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5028]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H3808]]"
+- "[[H5493H]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 13:2**<big><big>[[2Kgs.13.1 Jehoahaz Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] evil in the sight of the LORD, and followed the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.
 <small><sub>**BSB:**</sub></small>
 And he did evil in the sight of the LORD and followed the sins that Jeroboam son of Nebat had caused Israel to commit; he did not turn away from them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ֠]][[H1980N\|יֵּלֶךְ]] [[H0310A\|אַחַ֨ר]] [[H2403B\|חַטֹּ֜את]] [[H3379G\|יָרָבְעָ֧ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָ֛ט]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2398\|הֶחֱטִ֥יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3808\|לֹא]][[H9014\|־]] [[H5493H\|סָ֥ר]] [[H4480A\|מִמֶּֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JEHOAHAZ|JEHOAHAZ]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.1|<< 2 Kings 13:1]]</td><td align="center" style="border:none;">[[2Kgs.13|2 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.13.3|2 Kings 13:3 >>]]</td></tr></table>
 

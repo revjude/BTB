@@ -7,7 +7,7 @@
 
 → Jacob [[Gen.28.1|Ge 28:1]]
 
-→ Moses [[Exod.34.12|Ex 34:12]]-[[Exod.34.16|16]]; [[Deut.7.3|De 7:3]],[[Deut.7.4|4]]
+→ Moses [[Exod.34.12|Ex 34:12-16]]; [[Deut.7.3|De 7:3]],[[Deut.7.4|4]]
 
 → Joshua [[Josh.23.12|Jos 23:12]]
 
@@ -21,5 +21,5 @@
 
 - Esau [[Gen.26.34|Ge 26:34]],[[Gen.26.35|35]]
 
-- Israel [[Num.25.1|Nu 25:1]],[[Num.25.6|6]]-[[Num.25.8|8]]; [[Judg.3.5|Jud 3:5]]-[[Judg.3.8|8]]
+- Israel [[Num.25.1|Nu 25:1]],[[Num.25.6|6-8]]; [[Judg.3.5|Jud 3:5-8]]
 

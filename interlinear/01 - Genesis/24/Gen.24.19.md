@@ -1,8 +1,60 @@
+---
+title: Genesis 24:19
+type: Verse
+kjv: "And when she had done giving him drink, she said, I will draw water for thy camels also, until they have done drinking."
+bsb: "After she had given him a drink, she said, “I will also draw water for your camels, until they have had enough to drink.”"
+hebrew: "וַתְּכַ֖ל לְהַשְׁקֹת֑וֹ וַתֹּ֗אמֶר גַּ֤ם לִגְמַלֶּ֙יךָ֙ אֶשְׁאָ֔ב עַ֥ד אִם־ כִּלּ֖וּ לִשְׁתֹּֽת׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H9005]]"
+- "[[H8248H]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H1571]]"
+- "[[H1581]]"
+- "[[H9021]]"
+- "[[H7579]]"
+- "[[H5704]]"
+- "[[H0518J]]"
+- "[[H9014]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:19**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when she had done giving him drink, she said, I will draw [water] for thy camels also, until they have done drinking.
 <small><sub>**BSB:**</sub></small>
 After she had given him a drink, she said, “I will also draw water for your camels, until they have had enough to drink.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615G\|תְּכַ֖ל]] [[H9005\|לְ]][[H8248H\|הַשְׁקֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H1571\|גַּ֤ם]] [[H9005\|לִ]][[H1581\|גְמַלֶּ֙י]][[H9021\|ךָ֙]] [[H7579\|אֶשְׁאָ֔ב]] [[H5704\|עַ֥ד]] [[H0518J\|אִם]][[H9014\|־]] [[H3615G\|כִּלּ֖וּ]] [[H9005\|לִ]][[H8354\|שְׁתֹּֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.18|<< Genesis 24:18]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.20|Genesis 24:20 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Job 22:2
+type: Verse
+kjv: "Can a man be profitable unto God, as he that is wise may be profitable unto himself?"
+bsb: "“Can a man be of use to God? Can even a wise man benefit Him?"
+hebrew: "הַלְאֵ֥ל יִסְכָּן־ גָּ֑בֶר כִּֽי־ יִסְכֹּ֖ן עָלֵ֣ימוֹ מַשְׂכִּֽיל׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic MAN|MAN]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9008]]"
+- "[[H9005]]"
+- "[[H0410G]]"
+- "[[H5532]]"
+- "[[H9014]]"
+- "[[H1397]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7919A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:2**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Can a man be profitable unto God, as he that is wise may be profitable unto himself?
 <small><sub>**BSB:**</sub></small>
 “Can a man be of use to God? Can even a wise man benefit Him?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H9005\|לְ]][[H0410G\|אֵ֥ל]] [[H5532\|יִסְכָּן]][[H9014\|־]] [[H1397\|גָּ֑בֶר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5532\|יִסְכֹּ֖ן]] [[H5921A\|עָלֵ֣י]][[H9038\|מוֹ]] [[H7919A\|מַשְׂכִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic MAN|MAN]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.1|<< Job 22:1]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.3|Job 22:3 >>]]</td></tr></table>
 

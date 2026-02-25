@@ -1,10 +1,62 @@
+---
+title: John 9:34
+type: Verse
+kjv: "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out."
+bsb: "They replied, “You were born in utter sin, and you are instructing us?” And they threw him out."
+greek: "ἀπεκρίθησαν καὶ εἶπαν αὐτῷ· ἐν ἁμαρτίαις σὺ ἐγεννήθης ὅλος καὶ σὺ διδάσκεις ἡμᾶς; καὶ ἐξέβαλον αὐτὸν ἔξω."
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G0611]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G0266]]"
+- "[[G4771]]"
+- "[[G1080]]"
+- "[[G3650]]"
+- "[[G1321]]"
+- "[[G3165]]"
+- "[[G1544]]"
+- "[[G1854]]"
+texts:
+- NKO
+---
+
 **John 9:34**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out.
 <small><sub>**BSB:**</sub></small>
 They replied, “You were born in utter sin, and you are instructing us?” And they threw him out.
-<small><sub>**Literal:**</sub></small>
-They answered and they said to him; In sins you yourself were born entirely and you yourself teach us? And they cast him out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.33|<< John 9:33]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.35|John 9:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G1722\|ἐν]]  [[G0266\|ἁμαρτίαις]]  [[G4771\|σὺ]]  [[G1080\|ἐγεννήθης]]  [[G3650\|ὅλος]]  [[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G1321\|διδάσκεις]]  [[G3165\|ἡμᾶς;]]  [[G2532\|καὶ]]  [[G1544\|ἐξέβαλον]]  [[G0846\|αὐτὸν]]  [[G1854\|ἔξω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SABBATH|SABBATH]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.33|<< John 9:33]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.35|John 9:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

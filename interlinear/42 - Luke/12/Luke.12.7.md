@@ -1,10 +1,62 @@
+---
+title: Luke 12:7
+type: Verse
+kjv: "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows."
+bsb: "And even the very hairs of your head are all numbered. So do not be afraid; you are worth more than many sparrows."
+jesus_said: "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows."
+greek: "ἀλλὰ καὶ αἱ τρίχες τῆς κεφαλῆς ὑμῶν πᾶσαι ἠρίθμηνται. μὴ οὖν φοβεῖσθε· πολλῶν στρουθίων διαφέρετε.¶"
+pericope: "[[Luke.12.4 Fear God Alone|Fear God Alone]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAIR|HAIR]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2359]]"
+- "[[G2776]]"
+- "[[G4771]]"
+- "[[G3956]]"
+- "[[G0705]]"
+- "[[G3361]]"
+- "[[G3767]]"
+- "[[G5399]]"
+- "[[G4183]]"
+- "[[G4765]]"
+- "[[G1308]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 12:7**<big><big>[[Luke.12.4 Fear God Alone|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.
 <small><sub>**BSB:**</sub></small>
 And even the very hairs of your head are all numbered. So do not be afraid; you are worth more than many sparrows.
-<small><sub>**Literal:**</sub></small>
-But even the hairs of the head of you all have been numbered. Not therefore do fear; than many sparrows you are more valuable.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.6|<< Luke 12:6]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.8|Luke 12:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G2359\|τρίχες]]  [[G3588\|τῆς]]  [[G2776\|κεφαλῆς]]  [[G4771\|ὑμῶν]]  [[G3956\|πᾶσαι]]  [[G0705\|ἠρίθμηνται.]]  [[G3361\|μὴ]]  [[G3767\|οὖν]]  [[G5399\|φοβεῖσθε·]]  [[G4183\|πολλῶν]]  [[G4765\|στρουθίων]]  [[G1308\|διαφέρετε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic HAIR|HAIR]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.6|<< Luke 12:6]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.8|Luke 12:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

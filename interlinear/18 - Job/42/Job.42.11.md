@@ -1,8 +1,78 @@
+---
+title: Job 42:11
+type: Verse
+kjv: "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold."
+bsb: "All his brothers and sisters and prior acquaintances came and dined with him in his house. They consoled him and comforted him over all the adversity that the LORD had brought upon him. And each one gave him a piece of silver and a gold ring."
+hebrew: "וַיָּבֹ֣אוּ אֵ֠לָיו כָּל־ אֶחָ֨יו וְכָל־ אַחְיוֹתָ֜יו וְכָל־ יֹדְעָ֣יו לְפָנִ֗ים וַיֹּאכְל֨וּ עִמּ֣וֹ לֶחֶם֮ בְּבֵיתוֹ֒ וַיָּנֻ֤דוּ לוֹ֙ וַיְנַחֲמ֣וּ אֹת֔וֹ עַ֚ל כָּל־ הָ֣רָעָ֔ה אֲשֶׁר־ הֵבִ֥יא יְהוָ֖ה עָלָ֑יו וַיִּתְּנוּ־ ל֗וֹ אִ֚ישׁ קְשִׂיטָ֣ה אֶחָ֔ת וְאִ֕ישׁ נֶ֥זֶם זָהָ֖ב אֶחָֽד׃ ס"
+pericope: "[[Job.42.10 The LORD Blesses Job|The LORD Blesses Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JOB|JOB]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0269]]"
+- "[[H3045]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0398]]"
+- "[[H5973A]]"
+- "[[H3899H]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H5110]]"
+- "[[H5162G]]"
+- "[[H0853]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H7451I]]"
+- "[[H0834A]]"
+- "[[H0935P]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H0376I]]"
+- "[[H7192]]"
+- "[[H0259]]"
+- "[[H5141]]"
+- "[[H2091]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(k)
+---
+
 **Job 42:11**<big><big>[[Job.42.10 The LORD Blesses Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold.
 <small><sub>**BSB:**</sub></small>
 All his brothers and sisters and prior acquaintances came and dined with him in his house. They consoled him and comforted him over all the adversity that the LORD had brought upon him. And each one gave him a piece of silver and a gold ring.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H0413\|אֵ֠לָי]][[H9033\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H0251G\|אֶחָ֨י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0269\|אַחְיוֹתָ֜י]][[H9023\|ו]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3045\|יֹדְעָ֣י]][[H9033\|ו]] [[H9005\|לְ]][[H6440G\|פָנִ֗ים]] [[H9001\|וַ]][[H0398\|יֹּאכְל֨וּ]] [[H5973A\|עִמּ֣]][[H9033\|וֹ]] [[H3899H\|לֶחֶם֮]] [[H9003\|בְּ]][[H1004B\|בֵית]][[H9023\|וֹ֒]] [[H9001\|וַ]][[H5110\|יָּנֻ֤דוּ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9001\|וַ]][[H5162G\|יְנַחֲמ֣וּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H7451I\|רָעָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935P\|הֵבִ֥יא]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H5414G\|יִּתְּנוּ]][[H9014\|־]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H0376I\|אִ֚ישׁ]] [[H7192\|קְשִׂיטָ֣ה]] [[H0259\|אֶחָ֔ת]] [[H9002\|וְ]][[H0376I\|אִ֕ישׁ]] [[H5141\|נֶ֥זֶם]] [[H2091\|זָהָ֖ב]] [[H0259\|אֶחָֽד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOB|JOB]] • [[topic LOVE|LOVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.10|<< Job 42:10]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.12|Job 42:12 >>]]</td></tr></table>
 
@@ -40,7 +110,7 @@ All his brothers and sisters and prior acquaintances came and dined with him in 
 | and each one  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0376I\|אִ֕ישׁ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a ring of  |**<big>&#8207;[[H5141\|נֶ֥זֶם]]&#8207; </big>**| Ne.zem<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gold  |**<big>&#8207;[[H2091\|זָהָ֖ב]]&#8207; </big>**| za.Hav<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| one  |**<big>&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| one  |**<big>&#8207;[[H0259\|אֶחָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.Chad<small><sup>[[HAcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.10|<< Job 42:10]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.12|Job 42:12 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="ashebrew"><big>אַחְיֹתָ֜יו</big></span>**

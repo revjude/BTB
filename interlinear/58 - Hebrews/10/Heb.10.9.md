@@ -1,10 +1,60 @@
+---
+title: Hebrews 10:9
+type: Verse
+kjv: "Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second."
+bsb: "Then He adds, “Here I am, I have come to do Your will.” He takes away the first to establish the second."
+greek: "τότε εἴρηκεν· ἰδοὺ ἥκω τοῦ ποιῆσαι ὁ θεός τὸ θέλημά σου. ἀναιρεῖ τὸ πρῶτον ἵνα τὸ δεύτερον στήσῃ·"
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G5119]]"
+- "[[G2046]]"
+- "[[G2400]]"
+- "[[G2240]]"
+- "[[G3588]]"
+- "[[G4160G]]"
+- "[[G2316]]"
+- "[[G2307]]"
+- "[[G4771]]"
+- "[[G0337]]"
+- "[[G4413G]]"
+- "[[G2443]]"
+- "[[G1208]]"
+- "[[G2476]]"
+texts:
+- NKO
+- K
+---
+
 **Hebrews 10:9**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said he, Lo, I come to do thy will, O God. He taketh away the first, that he may establish the second.
 <small><sub>**BSB:**</sub></small>
 Then He adds, “Here I am, I have come to do Your will.” He takes away the first to establish the second.
-<small><sub>**Literal:**</sub></small>
-then He has said; Behold I have come <the> to do of the God the will of You. He takes away the first that the second He may establish;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.8|<< Hebrews 10:8]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.10|Hebrews 10:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G2046\|εἴρηκεν·]]  [[G2400\|ἰδοὺ]]  [[G2240\|ἥκω]]  [[G3588\|τοῦ]]  [[G4160G\|ποιῆσαι]]  [[G3588\|ὁ]]  [[G2316\|θεός]]  [[G3588\|τὸ]]  [[G2307\|θέλημά]]  [[G4771\|σου.]]  [[G0337\|ἀναιρεῖ]]  [[G3588\|τὸ]]  [[G4413G\|πρῶτον]]  [[G2443\|ἵνα]]  [[G3588\|τὸ]]  [[G1208\|δεύτερον]]  [[G2476\|στήσῃ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.8|<< Hebrews 10:8]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.10|Hebrews 10:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 10:9** is...
 > $\quad$ referencing: [[LXX.Ps.40.7|Ps 40:7]]

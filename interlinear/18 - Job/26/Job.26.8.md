@@ -1,8 +1,56 @@
+---
+title: Job 26:8
+type: Verse
+kjv: "He bindeth up the waters in his thick clouds; and the cloud is not rent under them."
+bsb: "He wraps up the waters in His clouds, yet the clouds do not burst under their own weight."
+hebrew: "צֹרֵֽר־ מַ֥יִם בְּעָבָ֑יו וְלֹא־ נִבְקַ֖ע עָנָ֣ן תַּחְתָּֽם׃"
+pericope: "[[Job.26.1 Job：Who Can Understand God’s Majesty？|Job：Who Can Understand God’s Majesty？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 26
+book/chapter: "[[Job.26|Job 26]]"
+chronological_order: 37
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SCIENCE|SCIENCE]]"
+strongs:
+- "[[H6887B]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9003]]"
+- "[[H5645]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1234]]"
+- "[[H6051]]"
+- "[[H8478G]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 26:8**<big><big>[[Job.26.1 Job：Who Can Understand God’s Majesty？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He bindeth up the waters in his thick clouds; and the cloud is not rent under them.
 <small><sub>**BSB:**</sub></small>
 He wraps up the waters in His clouds, yet the clouds do not burst under their own weight.
+<small><sub>**Hebrew:**</sub></small>
+[[H6887B\|צֹרֵֽר]][[H9014\|־]] [[H4325G\|מַ֥יִם]] [[H9003\|בְּ]][[H5645\|עָבָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1234\|נִבְקַ֖ע]] [[H6051\|עָנָ֣ן]] [[H8478G\|תַּחְתָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SCIENCE|SCIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.7|<< Job 26:7]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.9|Job 26:9 >>]]</td></tr></table>
 

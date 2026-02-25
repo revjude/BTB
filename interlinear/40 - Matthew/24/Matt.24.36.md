@@ -1,10 +1,65 @@
+---
+title: Matthew 24:36
+type: Verse
+kjv: "But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only."
+bsb: "No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father."
+jesus_said: "But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only."
+greek: "Περὶ δὲ τῆς ἡμέρας ἐκείνης καὶ τῆς ὥρας οὐδεὶς οἶδεν οὐδὲ οἱ ἄγγελοι τῶν οὐρανῶν οὐδὲ ὁ υἱός, εἰ μὴ ὁ πατὴρ μου μόνος."
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4012]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G5610]]"
+- "[[G3762]]"
+- "[[G6063]]"
+- "[[G3761]]"
+- "[[G0032G]]"
+- "[[G3772]]"
+- "[[G5207]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3441]]"
+texts:
+- NKO
+- k
+- NO
+---
+
 **Matthew 24:36**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But of that day and hour knoweth no [man], no, not the angels of heaven, but my Father only.
 <small><sub>**BSB:**</sub></small>
 No one knows about that day or hour, not even the angels in heaven, nor the Son, but only the Father.
-<small><sub>**Literal:**</sub></small>
-Concerning however <the> day that [very] and <the> hour no [one] knows not even the angels of the heavens nor the Son, only except the Father of mine alone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.35|<< Matthew 24:35]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.37|Matthew 24:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|Περὶ]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G1565\|ἐκείνης]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G5610\|ὥρας]]  [[G3762\|οὐδεὶς]]  [[G6063\|οἶδεν]]  [[G3761\|οὐδὲ]]  [[G3588\|οἱ]]  [[G0032G\|ἄγγελοι]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G3761\|οὐδὲ]]  [[G3588\|ὁ]]  [[G5207\|υἱός,]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G3165\|μου]]  [[G3441\|μόνος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic EARTH|EARTH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.35|<< Matthew 24:35]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.37|Matthew 24:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

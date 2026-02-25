@@ -1,8 +1,58 @@
+---
+title: 2 Kings 16:16
+type: Verse
+kjv: "Thus did Urijah the priest, according to all that king Ahaz commanded."
+bsb: "So Uriah the priest did just as King Ahaz had commanded."
+hebrew: "וַיַּ֖עַשׂ אוּרִיָּ֣ה הַכֹּהֵ֑ן כְּכֹ֥ל אֲשֶׁר־ צִוָּ֖ה הַמֶּ֥לֶךְ אָחָֽז׃"
+pericope: "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic URIJAH|URIJAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H0223G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H4428G]]"
+- "[[H0271G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 16:16**<big><big>[[2Kgs.16.10 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus did Urijah the priest, according to all that king Ahaz commanded.
 <small><sub>**BSB:**</sub></small>
 So Uriah the priest did just as King Ahaz had commanded.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֖עַשׂ]] [[H0223G\|אוּרִיָּ֣ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֖ה]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H0271G\|אָחָֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ALTAR|ALTAR]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic TEMPLE|TEMPLE]] • [[topic URIJAH|URIJAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.15|<< 2 Kings 16:15]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.17|2 Kings 16:17 >>]]</td></tr></table>
 

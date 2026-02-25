@@ -1,8 +1,57 @@
+---
+title: Psalm 51:19
+type: Verse
+kjv: "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar."
+bsb: "Then You will delight in righteous sacrifices, in whole burnt offerings; then bulls will be offered on Your altar."
+hebrew: "אָ֤ז תַּחְפֹּ֣ץ זִבְחֵי־ צֶ֭דֶק עוֹלָ֣ה וְכָלִ֑יל אָ֤ז יַעֲל֖וּ עַל־ מִזְבַּחֲךָ֣ פָרִֽים׃"
+pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0227A]]"
+- "[[H2654A]]"
+- "[[H2077]]"
+- "[[H9014]]"
+- "[[H6664G]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H3632]]"
+- "[[H5927I]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9021]]"
+- "[[H6499]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 51:19**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.
 <small><sub>**BSB:**</sub></small>
 Then You will delight in righteous sacrifices, in whole burnt offerings; then bulls will be offered on Your altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֤ז]] [[H2654A\|תַּחְפֹּ֣ץ]] [[H2077\|זִבְחֵי]][[H9014\|־]] [[H6664G\|צֶ֭דֶק]] [[H5930A\|עוֹלָ֣ה]] [[H9002\|וְ]][[H3632\|כָלִ֑יל]] [[H0227A\|אָ֤ז]] [[H5927I\|יַעֲל֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4196\|מִזְבַּחֲ]][[H9021\|ךָ֣]] [[H6499\|פָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.18|<< Psalms 51:18]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.0|Psalms 52:0 >>]]</td></tr></table>
 

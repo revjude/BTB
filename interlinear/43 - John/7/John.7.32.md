@@ -1,10 +1,55 @@
+---
+title: John 7:32
+type: Verse
+kjv: "The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him."
+bsb: "When the Pharisees heard the crowd whispering these things about Jesus, they and the chief priests sent officers to arrest Him."
+greek: "ἤκουσαν οἱ Φαρισαῖοι τοῦ ὄχλου γογγύζοντος περὶ αὐτοῦ ταῦτα, καὶ ἀπέστειλαν οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι ὑπηρέτας ἵνα πιάσωσιν αὐτόν.¶"
+pericope: "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G3793]]"
+- "[[G1111]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G0749]]"
+- "[[G5257]]"
+- "[[G2443]]"
+- "[[G4084]]"
+texts:
+- NKO
+---
+
 **John 7:32**<big><big>[[John.7.25 Is Jesus the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.
 <small><sub>**BSB:**</sub></small>
 When the Pharisees heard the crowd whispering these things about Jesus, they and the chief priests sent officers to arrest Him.
-<small><sub>**Literal:**</sub></small>
-Heard the Pharisees the crowd murmuring about Him these things, and sent the chief priests and the Pharisees officers that they may seize Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.31|<< John 7:31]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.33|John 7:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἤκουσαν]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου]]  [[G1111\|γογγύζοντος]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ]]  [[G3778\|ταῦτα,]]  [[G2532\|καὶ]]  [[G0649\|ἀπέστειλαν]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G5257\|ὑπηρέτας]]  [[G2443\|ἵνα]]  [[G4084\|πιάσωσιν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.31|<< John 7:31]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.33|John 7:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

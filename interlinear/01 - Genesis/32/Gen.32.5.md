@@ -1,8 +1,66 @@
+---
+title: Genesis 32:5
+type: Verse
+kjv: "And I have oxen, and asses, flocks, and menservants, and womenservants: and I have sent to tell my lord, that I may find grace in thy sight."
+bsb: "I have oxen, donkeys, flocks, menservants, and maidservants. I have sent this message to inform my master, so that I may find favor in your sight.’”"
+hebrew: "וַֽיְהִי־ לִי֙ שׁ֣וֹר וַחֲמ֔וֹר צֹ֖אן וְעֶ֣בֶד וְשִׁפְחָ֑ה וָֽאֶשְׁלְחָה֙ לְהַגִּ֣יד לַֽאדֹנִ֔י לִמְצֹא־ חֵ֖ן בְּעֵינֶֽיךָ׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H7794]]"
+- "[[H9002]]"
+- "[[H2543]]"
+- "[[H6629G]]"
+- "[[H5650]]"
+- "[[H8198]]"
+- "[[H7971G]]"
+- "[[H9012]]"
+- "[[H5046]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:5**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have oxen, and asses, flocks, and menservants, and womenservants: and I have sent to tell my lord, that I may find grace in thy sight.
 <small><sub>**BSB:**</sub></small>
 I have oxen, donkeys, flocks, menservants, and maidservants. I have sent this message to inform my master, so that I may find favor in your sight.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H7794\|שׁ֣וֹר]] [[H9002\|וַ]][[H2543\|חֲמ֔וֹר]] [[H6629G\|צֹ֖אן]] [[H9002\|וְ]][[H5650\|עֶ֣בֶד]] [[H9002\|וְ]][[H8198\|שִׁפְחָ֑ה]] [[H9001\|וָֽ]][[H7971G\|אֶשְׁלְחָ]][[H9012\|ה֙]] [[H9005\|לְ]][[H5046\|הַגִּ֣יד]] [[H9005\|לַֽ]][[H0113\|אדֹנִ֔]][[H9020\|י]] [[H9005\|לִ]][[H4672\|מְצֹא]][[H9014\|־]] [[H2580\|חֵ֖ן]] [[H9003\|בְּ]][[H5869H\|עֵינֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.4|<< Genesis 32:4]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.6|Genesis 32:6 >>]]</td></tr></table>
 

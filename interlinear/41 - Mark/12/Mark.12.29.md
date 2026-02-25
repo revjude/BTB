@@ -1,10 +1,66 @@
+---
+title: Mark 12:29
+type: Verse
+kjv: "And Jesus answered him, The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord:"
+bsb: "Jesus replied, “This is the most important: ‘Hear, O Israel, the Lord our God, the Lord is One."
+jesus_said: "The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord:"
+greek: "δὲ ἀπεκρίθη ὁ Ἰησοῦς αὐτῷ ὅτι πρώτη ἐστίν πασῶν τῶν ἐντολῶν· ἄκουε Ἰσραήλ, κύριος ὁ θεὸς ἡμῶν κύριος εἷς ἐστιν·"
+pericope: "[[Mark.12.28 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G4413J]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G1785]]"
+- "[[G0191]]"
+- "[[G2474]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G1520]]"
+texts:
+- k
+- NKO
+- ko
+- no
+- K(o)
+---
+
 **Mark 12:29**<big><big>[[Mark.12.28 The Greatest Commandment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered him, The first of all the commandments [is], Hear, O Israel; The Lord our God is one Lord:
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “This is the most important: ‘Hear, O Israel, the Lord our God, the Lord is One.
-<small><sub>**Literal:**</sub></small>
-now Answered <the> Jesus to him The first is of all <the> commandments: do listen O Israel: [The] Lord the God of us [the] Lord One is;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.28|<< Mark 12:28]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.30|Mark 12:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1161\|δὲ]]  [[G0611\|ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0846\|αὐτῷ]]  [[G3754G\|ὅτι]]  [[G4413J\|πρώτη]]  [[G1510\|ἐστίν]]  [[G3956\|πασῶν]]  [[G3588\|τῶν]]  [[G1785\|ἐντολῶν·]]  [[G0191\|ἄκουε]]  [[G2474\|Ἰσραήλ,]]  [[G2962G\|κύριος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3165\|ἡμῶν]]  [[G2962G\|κύριος]]  [[G1520\|εἷς]]  [[G1510\|ἐστιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic LOVE|LOVE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.28|<< Mark 12:28]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.30|Mark 12:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 12:29** is...
 > $\quad$ referencing: [[LXX.Deut.6.4|Deut 6:4-5]]

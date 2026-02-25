@@ -1,10 +1,55 @@
+---
+title: Acts 14:18
+type: Verse
+kjv: "And with these sayings scarce restrained they the people, that they had not done sacrifice unto them."
+bsb: "Even with these words, Paul and Barnabas could hardly stop the crowds from sacrificing to them."
+greek: "καὶ ταῦτα λέγοντες μόλις κατέπαυσαν τοὺς ὄχλους τοῦ μὴ θύειν αὐτοῖς.¶"
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G3433]]"
+- "[[G2664]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3361]]"
+- "[[G2380]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 14:18**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And with these sayings scarce restrained they the people, that they had not done sacrifice unto them.
 <small><sub>**BSB:**</sub></small>
 Even with these words, Paul and Barnabas could hardly stop the crowds from sacrificing to them.
-<small><sub>**Literal:**</sub></small>
-And these things saying hardly they stopped the crowds <the> not sacrificing to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.17|<< Acts 14:17]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.19|Acts 14:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G3004G\|λέγοντες]]  [[G3433\|μόλις]]  [[G2664\|κατέπαυσαν]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους]]  [[G3588\|τοῦ]]  [[G3361\|μὴ]]  [[G2380\|θύειν]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic HOMAGE|HOMAGE]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.17|<< Acts 14:17]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.19|Acts 14:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

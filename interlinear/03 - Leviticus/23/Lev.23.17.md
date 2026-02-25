@@ -1,8 +1,68 @@
+---
+title: Leviticus 23:17
+type: Verse
+kjv: "Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; they are the firstfruits unto the LORD."
+bsb: "Bring two loaves of bread from your dwellings as a wave offering, each made from two-tenths of an ephah of fine flour, baked with leaven, as the firstfruits to the LORD."
+hebrew: "מִמּוֹשְׁבֹ֨תֵיכֶ֜ם תָּבִ֣יאּוּ׀ לֶ֣חֶם תְּנוּפָ֗ה שְׁ֚תַּיִם שְׁנֵ֣י עֶשְׂרֹנִ֔ים סֹ֣לֶת תִּהְיֶ֔ינָה חָמֵ֖ץ תֵּאָפֶ֑ינָה בִּכּוּרִ֖ים לַֽיהוָֽה׃"
+pericope: "[[Lev.23.15 The Feast of Weeks|The Feast of Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PENTECOST|PENTECOST]]"
+strongs:
+- "[[H9006]]"
+- "[[H4186]]"
+- "[[H9026]]"
+- "[[H0935P]]"
+- "[[H9015]]"
+- "[[H3899H]]"
+- "[[H8573]]"
+- "[[H8147]]"
+- "[[H6241]]"
+- "[[H5560]]"
+- "[[H1961]]"
+- "[[H2557A]]"
+- "[[H0644]]"
+- "[[H1061]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:17**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall bring out of your habitations two wave loaves of two tenth deals: they shall be of fine flour; they shall be baken with leaven; [they are] the firstfruits unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Bring two loaves of bread from your dwellings as a wave offering, each made from two-tenths of an ephah of fine flour, baked with leaven, as the firstfruits to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H4186\|מּוֹשְׁבֹ֨תֵי]][[H9026\|כֶ֜ם]] [[H0935P\|תָּבִ֣יאּוּ]][[H9015\|׀]] [[H3899H\|לֶ֣חֶם]] [[H8573\|תְּנוּפָ֗ה]] [[H8147\|שְׁ֚תַּיִם]] [[H8147\|שְׁנֵ֣י]] [[H6241\|עֶשְׂרֹנִ֔ים]] [[H5560\|סֹ֣לֶת]] [[H1961\|תִּהְיֶ֔ינָה]] [[H2557A\|חָמֵ֖ץ]] [[H0644\|תֵּאָפֶ֑ינָה]] [[H1061\|בִּכּוּרִ֖ים]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic FIRST FRUITS|FIRST FRUITS]] • [[topic HARVEST|HARVEST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PENTECOST|PENTECOST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.16|<< Leviticus 23:16]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.18|Leviticus 23:18 >>]]</td></tr></table>
 

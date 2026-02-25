@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zebulun’s Inheritance
+type: Pericope
 pericope: "[[Josh.19.10 Zebulun’s Inheritance|Zebulun’s Inheritance]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 19
 book/chapter: "[[Josh.19|Joshua 19]]"
-genre:
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 7
 verses:
 - "[[Josh.19.10]]"
 - "[[Josh.19.11]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Josh.19.16]]"
 ---
 
-[[Josh.19|Joshua 19:10 - Joshua 19:16]]
+<small>[[Josh.19|Joshua 19:10-16]]</small>
 *Zebulun’s Inheritance*
 
 [[Josh.19.10|10]] And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:

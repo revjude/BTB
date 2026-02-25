@@ -1,8 +1,56 @@
+---
+title: Daniel 7:15
+type: Verse
+kjv: "I Daniel was grieved in my spirit in the midst of my body, and the visions of my head troubled me."
+bsb: "I, Daniel, was grieved in my spirit, and the visions in my mind alarmed me."
+aramaic: "אֶתְכְּרִיַּ֥ת רוּחִ֛י אֲנָ֥ה דָנִיֵּ֖אל בְּג֣וֹא נִדְנֶ֑ה וְחֶזְוֵ֥י רֵאשִׁ֖י יְבַהֲלֻנַּֽנִי׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic HORN|HORN]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H3735]]"
+- "[[H7308]]"
+- "[[H9020]]"
+- "[[H0576B]]"
+- "[[H1841H]]"
+- "[[H9003]]"
+- "[[H1459]]"
+- "[[H5085]]"
+- "[[H9002]]"
+- "[[H2376]]"
+- "[[H7217]]"
+- "[[H0927]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:15**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I Daniel was grieved in my spirit in the midst of [my] body, and the visions of my head troubled me.
 <small><sub>**BSB:**</sub></small>
 I, Daniel, was grieved in my spirit, and the visions in my mind alarmed me.
+<small><sub>**Aramaic:**</sub></small>
+[[H3735\|אֶתְכְּרִיַּ֥ת]] [[H7308\|רוּחִ֛]][[H9020\|י]] [[H0576B\|אֲנָ֥ה]] [[H1841H\|דָנִיֵּ֖אל]] [[H9003\|בְּ]][[H1459\|ג֣וֹא]] [[H5085\|נִדְנֶ֑ה]] [[H9002\|וְ]][[H2376\|חֶזְוֵ֥י]] [[H7217\|רֵאשִׁ֖]][[H9020\|י]] [[H0927\|יְבַהֲלֻנַּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORN|HORN]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.14|<< Daniel 7:14]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.16|Daniel 7:16 >>]]</td></tr></table>
 

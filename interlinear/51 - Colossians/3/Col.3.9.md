@@ -1,10 +1,55 @@
+---
+title: Colossians 3:9
+type: Verse
+kjv: "Lie not one to another, seeing that ye have put off the old man with his deeds;"
+bsb: "Do not lie to one another, since you have taken off the old self with its practices,"
+greek: "Μὴ ψεύδεσθε εἰς ἀλλήλους ἀπεκδυσάμενοι τὸν παλαιὸν ἄνθρωπον σὺν ταῖς πράξεσιν αὐτοῦ"
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3361]]"
+- "[[G5574]]"
+- "[[G1519]]"
+- "[[G0240]]"
+- "[[G0554]]"
+- "[[G3588]]"
+- "[[G3820]]"
+- "[[G0444]]"
+- "[[G4862]]"
+- "[[G4234]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Colossians 3:9**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Lie not one to another, seeing that ye have put off the old man with his deeds;
 <small><sub>**BSB:**</sub></small>
 Do not lie to one another, since you have taken off the old self with its practices,
-<small><sub>**Literal:**</sub></small>
-Not do lie to one another having put off the old man with the practices of him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.8|<< Colossians 3:8]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.10|Colossians 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G5574\|ψεύδεσθε]]  [[G1519\|εἰς]]  [[G0240\|ἀλλήλους]]  [[G0554\|ἀπεκδυσάμενοι]]  [[G3588\|τὸν]]  [[G3820\|παλαιὸν]]  [[G0444\|ἄνθρωπον]]  [[G4862\|σὺν]]  [[G3588\|ταῖς]]  [[G4234\|πράξεσιν]]  [[G0846\|αὐτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOLINESS|HOLINESS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.8|<< Colossians 3:8]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.10|Colossians 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

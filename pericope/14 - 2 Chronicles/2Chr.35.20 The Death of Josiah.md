@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Josiah
+type: Pericope
 pericope: "[[2Chr.35.20 The Death of Josiah|The Death of Josiah]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 35
 book/chapter: "[[2Chr.35|2 Chronicles 35]]"
-genre:
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 5
 verses:
 - "[[2Chr.35.20]]"
 - "[[2Chr.35.21]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Chr.35.24]]"
 ---
 
-[[2Chr.35|2 Chronicles 35:20 - 2 Chronicles 35:24]]
+<small>[[2Chr.35|2 Chronicles 35:20-24]]</small>
 *The Death of Josiah*
 
 [[2Chr.35.20|20]] After all this, when Josiah had prepared the temple, Necho king of Egypt came up to fight against Carchemish by Euphrates: and Josiah went out against him.

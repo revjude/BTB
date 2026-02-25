@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 12:14
+type: Verse
+kjv: "Howbeit, because by this deed thou hast given great occasion to the enemies of the LORD to blaspheme, the child also that is born unto thee shall surely die."
+bsb: "Nevertheless, because by this deed you have shown utter contempt for the word of the LORD, the son born to you will surely die.”"
+hebrew: "אֶ֗פֶס כִּֽי־ נִאֵ֤ץ נִאַ֙צְתָּ֙ אֶת־ אֹיְבֵ֣י יְהוָ֔ה בַּדָּבָ֖ר הַזֶּ֑ה גַּ֗ם הַבֵּ֛ן הַיִּלּ֥וֹד לְךָ֖ מ֥וֹת יָמֽוּת׃"
+pericope: "[[2Sam.12.13 David’s Loss and Repentance|David’s Loss and Repentance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0657A]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5006]]"
+- "[[H0853]]"
+- "[[H0341]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H1697M]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H1571]]"
+- "[[H1121A]]"
+- "[[H3209]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 12:14**<big><big>[[2Sam.12.13 David’s Loss and Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit, because by this deed thou hast given great occasion to the enemies of the LORD to blaspheme, the child also [that is] born unto thee shall surely die.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, because by this deed you have shown utter contempt for the word of the LORD, the son born to you will surely die.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0657A\|אֶ֗פֶס]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5006\|נִאֵ֤ץ]] [[H5006\|נִאַ֙צְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אֹיְבֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בַּ]][[H1697M\|דָּבָ֖ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H1571\|גַּ֗ם]] [[H9009\|הַ]][[H1121A\|בֵּ֛ן]] [[H9009\|הַ]][[H3209\|יִּלּ֥וֹד]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H4191\|מ֥וֹת]] [[H4191\|יָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic CHILDREN|CHILDREN]] • [[topic DAVID|DAVID]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATHAN|NATHAN]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.13|<< 2 Samuel 12:13]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.15|2 Samuel 12:15 >>]]</td></tr></table>
 

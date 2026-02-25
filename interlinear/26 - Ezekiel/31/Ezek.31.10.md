@@ -1,8 +1,67 @@
+---
+title: Ezekiel 31:10
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Because thou hast lifted up thyself in height, and he hath shot up his top among the thick boughs, and his heart is lifted up in his height;"
+bsb: "Therefore this is what the Lord GOD says: ‘Since it became great in height and set its top among the clouds, and it grew proud on account of its height,"
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה יַ֕עַן אֲשֶׁ֥ר גָּבַ֖הְתָּ בְּקוֹמָ֑ה וַיִּתֵּ֤ן צַמַּרְתּוֹ֙ אֶל־ בֵּ֣ין עֲבוֹתִ֔ים וְרָ֥ם לְבָב֖וֹ בְּגָבְהֽוֹ׃"
+pericope: "[[Ezek.31.1 Egypt Will Fall like Assyria|Egypt Will Fall like Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 31
+book/chapter: "[[Ezek.31|Ezekiel 31]]"
+chronological_order: 822
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H0834A]]"
+- "[[H1361]]"
+- "[[H9003]]"
+- "[[H6967]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H6788]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0996H]]"
+- "[[H5688]]"
+- "[[H7311A]]"
+- "[[H3824]]"
+- "[[H1363]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 31:10**<big><big>[[Ezek.31.1 Egypt Will Fall like Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Because thou hast lifted up thyself in height, and he hath shot up his top among the thick boughs, and his heart is lifted up in his height;
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: ‘Since it became great in height and set its top among the clouds, and it grew proud on account of its height,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H3282\|יַ֕עַן]] [[H0834A\|אֲשֶׁ֥ר]] [[H1361\|גָּבַ֖הְתָּ]] [[H9003\|בְּ]][[H6967\|קוֹמָ֑ה]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֤ן]] [[H6788\|צַמַּרְתּ]][[H9023\|וֹ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0996H\|בֵּ֣ין]] [[H5688\|עֲבוֹתִ֔ים]] [[H9001\|וְ]][[H7311A\|רָ֥ם]] [[H3824\|לְבָב֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H1363\|גָבְהֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic SELF-EXALTATION|SELF-EXALTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.31.9|<< Ezekiel 31:9]]</td><td align="center" style="border:none;">[[Ezek.31|Ezekiel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.31.11|Ezekiel 31:11 >>]]</td></tr></table>
 

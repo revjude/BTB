@@ -1,8 +1,60 @@
+---
+title: Genesis 2:13
+type: Verse
+kjv: "And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia."
+bsb: "The name of the second river is the Gihon; it winds through the whole land of Cush."
+hebrew: "וְשֵֽׁם־ הַנָּהָ֥ר הַשֵּׁנִ֖י גִּיח֑וֹן ה֣וּא הַסּוֹבֵ֔ב אֵ֖ת כָּל־ אֶ֥רֶץ כּֽוּשׁ׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CUSH|CUSH]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic GIHON|GIHON]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5104H]]"
+- "[[H8145]]"
+- "[[H1521]]"
+- "[[H1931]]"
+- "[[H5437G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H3568A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:13**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the name of the second river [is] Gihon: the same [is] it that compasseth the whole land of Ethiopia.
 <small><sub>**BSB:**</sub></small>
 The name of the second river is the Gihon; it winds through the whole land of Cush.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8034\|שֵֽׁם]][[H9014\|־]] [[H9009\|הַ]][[H5104H\|נָּהָ֥ר]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖י]] [[H1521\|גִּיח֑וֹן]] [[H1931\|ה֣וּא]] [[H9009\|הַ]][[H5437G\|סּוֹבֵ֔ב]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H3568A\|כּֽוּשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUSH|CUSH]] • [[topic EDEN|EDEN]] • [[topic GIHON|GIHON]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.12|<< Genesis 2:12]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.14|Genesis 2:14 >>]]</td></tr></table>
 

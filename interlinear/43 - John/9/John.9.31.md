@@ -1,10 +1,68 @@
+---
+title: John 9:31
+type: Verse
+kjv: "Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth."
+bsb: "We know that God does not listen to sinners, but He does listen to the one who worships Him and does His will."
+greek: "οἴδαμεν δὲ ὅτι ἁμαρτωλῶν ὁ θεὸς οὐκ ἀκούει, ἀλλ᾽ ἐάν τις θεοσεβὴς ᾖ καὶ τὸ θέλημα αὐτοῦ ποιῇ, τούτου ἀκούει."
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G6063]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G0268]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G0191]]"
+- "[[G0235]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G2318]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G2307]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G3778]]"
+texts:
+- NKO
+- k
+---
+
 **John 9:31**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.
 <small><sub>**BSB:**</sub></small>
 We know that God does not listen to sinners, but He does listen to the one who worships Him and does His will.
-<small><sub>**Literal:**</sub></small>
-We know now that to sinners <the> God not does listen, but if anyone God-fearing shall be and the will of Him shall do, to him He listens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.30|<< John 9:30]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.32|John 9:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἴδαμεν]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G0268\|ἁμαρτωλῶν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3756\|οὐκ]]  [[G0191\|ἀκούει,]]  [[G0235\|ἀλλ᾽]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G2318\|θεοσεβὴς]]  [[G1510\|ᾖ]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G0846\|αὐτοῦ]]  [[G4160G\|ποιῇ,]]  [[G3778\|τούτου]]  [[G0191\|ἀκούει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SABBATH|SABBATH]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.30|<< John 9:30]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.32|John 9:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 9:31** is...
 > $\quad$ referencing: [[LXX.Ps.82.6|Ps 82:6]]

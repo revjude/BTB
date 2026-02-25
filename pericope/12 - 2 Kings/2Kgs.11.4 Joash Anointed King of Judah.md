@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joash Anointed King of Judah
+type: Pericope
 pericope: "[[2Kgs.11.4 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 11
 book/chapter: "[[2Kgs.11|2 Kings 11]]"
-genre:
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 9
 verses:
 - "[[2Kgs.11.4]]"
 - "[[2Kgs.11.5]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Kgs.11.12]]"
 ---
 
-[[2Kgs.11|2 Kings 11:4 - 2 Kings 11:12]]
+<small>[[2Kgs.11|2 Kings 11:4-12]]</small>
 *Joash Anointed King of Judah*
 
 [[2Kgs.11.4|4]] And the seventh year Jehoiada sent and fetched the rulers over hundreds, with the captains and the guard, and brought them to him into the house of the LORD, and made a covenant with them, and took an oath of them in the house of the LORD, and shewed them the king’s son.

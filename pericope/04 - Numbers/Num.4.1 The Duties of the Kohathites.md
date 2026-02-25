@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Duties of the Kohathites
+type: Pericope
 pericope: "[[Num.4.1 The Duties of the Kohathites|The Duties of the Kohathites]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 4
 book/chapter: "[[Num.4|Numbers 4]]"
-genre:
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 20
 verses:
 - "[[Num.4.1]]"
 - "[[Num.4.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Num.4.20]]"
 ---
 
-[[Num.4|Numbers 4:1 - Numbers 4:20]]
+<small>[[Num.4|Numbers 4:1-20]]</small>
 *The Duties of the Kohathites*
 
 [[Num.4.1|1]] And the LORD spake unto Moses and unto Aaron, saying,

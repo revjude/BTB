@@ -1,8 +1,60 @@
+---
+title: Ezekiel 7:20
+type: Verse
+kjv: "As for the beauty of his ornament, he set it in majesty: but they made the images of their abominations and of their detestable things therein: therefore have I set it far from them."
+bsb: "His beautiful ornaments they transformed into pride and used them to fashion their vile images and detestable idols. Therefore I will make these into something unclean for them."
+hebrew: "וּצְבִ֤י עֶדְיוֹ֙ לְגָא֣וֹן שָׂמָ֔הוּ וְצַלְמֵ֧י תוֹעֲבֹתָ֛ם שִׁקּוּצֵיהֶ֖ם עָ֣שׂוּ ב֑וֹ עַל־ כֵּ֛ן נְתַתִּ֥יו לָהֶ֖ם לְנִדָּֽה׃"
+pericope: "[[Ezek.7.14 The Desolation of Israel|The Desolation of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H6643A]]"
+- "[[H5716]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H1347]]"
+- "[[H7760A]]"
+- "[[H9033]]"
+- "[[H6754]]"
+- "[[H8441]]"
+- "[[H9028]]"
+- "[[H8251]]"
+- "[[H6213H]]"
+- "[[H9003]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H5414I]]"
+- "[[H9038]]"
+- "[[H5079]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:20**<big><big>[[Ezek.7.14 The Desolation of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for the beauty of his ornament, he set it in majesty: but they made the images of their abominations [and] of their detestable things therein: therefore have I set it far from them.
 <small><sub>**BSB:**</sub></small>
 His beautiful ornaments they transformed into pride and used them to fashion their vile images and detestable idols. Therefore I will make these into something unclean for them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6643A\|צְבִ֤י]] [[H5716\|עֶדְי]][[H9023\|וֹ֙]] [[H9005\|לְ]][[H1347\|גָא֣וֹן]] [[H7760A\|שָׂמָ֔]][[H9033\|הוּ]] [[H9002\|וְ]][[H6754\|צַלְמֵ֧י]] [[H8441\|תוֹעֲבֹתָ֛]][[H9028\|ם]] [[H8251\|שִׁקּוּצֵי]][[H9028\|הֶ֖ם]] [[H6213H\|עָ֣שׂוּ]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֛ן]] [[H5414I\|נְתַתִּ֥י]][[H9033\|ו]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H5079\|נִדָּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.19|<< Ezekiel 7:19]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.21|Ezekiel 7:21 >>]]</td></tr></table>
 

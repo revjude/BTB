@@ -1,8 +1,65 @@
+---
+title: Hosea 14:2
+type: Verse
+kjv: "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips."
+bsb: "Bring your confessions and return to the LORD. Say to Him: “Take away all our iniquity and receive us graciously, that we may present the fruit of our lips."
+hebrew: "קְח֤וּ עִמָּכֶם֙ דְּבָרִ֔ים וְשׁ֖וּבוּ אֶל־ יְהוָ֑ה אִמְר֣וּ אֵלָ֗יו כָּל־ תִּשָּׂ֤א עָוֹן֙ וְקַח־ ט֔וֹב וּֽנְשַׁלְּמָ֥ה פָרִ֖ים שְׂפָתֵֽינוּ׃"
+pericope: "[[Hos.14.1 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 14
+book/chapter: "[[Hos.14|Hosea 14]]"
+chronological_order: 655
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CALF|CALF]]"
+- "[[topic GOD|GOD]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SACRIFICES|SACRIFICES]]"
+strongs:
+- "[[H3947G]]"
+- "[[H5973A]]"
+- "[[H9036]]"
+- "[[H1697G]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H5375I]]"
+- "[[H5771G]]"
+- "[[H3947H]]"
+- "[[H2896B]]"
+- "[[H7999A]]"
+- "[[H6499]]"
+- "[[H8193G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 14:2**<big><big>[[Hos.14.1 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive [us] graciously: so will we render the calves of our lips.
 <small><sub>**BSB:**</sub></small>
 Bring your confessions and return to the LORD. Say to Him: “Take away all our iniquity and receive us graciously, that we may present the fruit of our lips.
+<small><sub>**Hebrew:**</sub></small>
+[[H3947G\|קְח֤וּ]] [[H5973A\|עִמָּ]][[H9036\|כֶם֙]] [[H1697G\|דְּבָרִ֔ים]] [[H9002\|וְ]][[H7725G\|שׁ֖וּבוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H0559\|אִמְר֣וּ]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H5375I\|תִּשָּׂ֤א]] [[H5771G\|עָוֹן֙]] [[H9002\|וְ]][[H3947H\|קַח]][[H9014\|־]] [[H2896B\|ט֔וֹב]] [[H9002\|וּֽ]][[H7999A\|נְשַׁלְּמָ֥ה]] [[H6499\|פָרִ֖ים]] [[H8193G\|שְׂפָתֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALF|CALF]] • [[topic GOD|GOD]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SACRIFICES|SACRIFICES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.1|<< Hosea 14:1]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.14.3|Hosea 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

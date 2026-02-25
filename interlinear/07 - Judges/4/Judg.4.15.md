@@ -1,8 +1,67 @@
+---
+title: Judges 4:15
+type: Verse
+kjv: "And the LORD discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; so that Sisera lighted down off his chariot, and fled away on his feet."
+bsb: "And in front of him the LORD routed with the sword Sisera, all his charioteers, and all his army. Sisera abandoned his chariot and fled on foot."
+hebrew: "וַיָּ֣הָם יְ֠הוָה אֶת־ סִֽיסְרָ֨א וְאֶת־ כָּל־ הָרֶ֧כֶב וְאֶת־ כָּל־ הַֽמַּחֲנֶ֛ה לְפִי־ חֶ֖רֶב לִפְנֵ֣י בָרָ֑ק וַיֵּ֧רֶד סִֽיסְרָ֛א מֵעַ֥ל הַמֶּרְכָּבָ֖ה וַיָּ֥נָס בְּרַגְלָֽיו׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2000]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5516G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H4264]]"
+- "[[H9005]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H6440G]]"
+- "[[H1301]]"
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4818]]"
+- "[[H5127]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:15**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD discomfited Sisera, and all [his] chariots, and all [his] host, with the edge of the sword before Barak; so that Sisera lighted down off [his] chariot, and fled away on his feet.
 <small><sub>**BSB:**</sub></small>
 And in front of him the LORD routed with the sword Sisera, all his charioteers, and all his army. Sisera abandoned his chariot and fled on foot.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2000\|יָּ֣הָם]] [[H3068G\|יְ֠הוָה]] [[H0853\|אֶת]][[H9014\|־]] [[H5516G\|סִֽיסְרָ֨א]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7393G\|רֶ֧כֶב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֛ה]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חֶ֖רֶב]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H1301\|בָרָ֑ק]] [[H9001\|וַ]][[H3381\|יֵּ֧רֶד]] [[H5516G\|סִֽיסְרָ֛א]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H9009\|הַ]][[H4818\|מֶּרְכָּבָ֖ה]] [[H9001\|וַ]][[H5127\|יָּ֥נָס]] [[H9003\|בְּ]][[H7272\|רַגְלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.14|<< Judges 4:14]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.16|Judges 4:16 >>]]</td></tr></table>
 

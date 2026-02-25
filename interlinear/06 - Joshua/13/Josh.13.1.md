@@ -1,8 +1,58 @@
+---
+title: Joshua 13:1
+type: Verse
+kjv: "Now Joshua was old and stricken in years; and the LORD said unto him, Thou art old and stricken in years, and there remaineth yet very much land to be possessed."
+bsb: "Now Joshua was old and well along in years, and the LORD said to him, “You are old and well along in years, but very much of the land remains to be possessed."
+hebrew: "וִיהוֹשֻׁ֣עַ זָקֵ֔ן בָּ֖א בַּיָּמִ֑ים וַיֹּ֨אמֶר יְהוָ֜ה אֵלָ֗יו אַתָּ֤ה זָקַ֙נְתָּה֙ בָּ֣אתָ בַיָּמִ֔ים וְהָאָ֛רֶץ נִשְׁאֲרָ֥ה הַרְבֵּֽה־ מְאֹ֖ד לְרִשְׁתָּֽהּ׃"
+pericope: "[[Josh.13.1 Lands Yet Unconquered|Lands Yet Unconquered]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9002]]"
+- "[[H3091G]]"
+- "[[H2204]]"
+- "[[H0935J]]"
+- "[[H9003]]"
+- "[[H3117I]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0859A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7604]]"
+- "[[H7235A]]"
+- "[[H9014]]"
+- "[[H3966]]"
+- "[[H9005]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:1**<big><big>[[Josh.13.1 Lands Yet Unconquered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Joshua was old [and] stricken in years; and the LORD said unto him, Thou art old [and] stricken in years, and there remaineth yet very much land to be possessed.
 <small><sub>**BSB:**</sub></small>
 Now Joshua was old and well along in years, and the LORD said to him, “You are old and well along in years, but very much of the land remains to be possessed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִ]][[H3091G\|יהוֹשֻׁ֣עַ]] [[H2204\|זָקֵ֔ן]] [[H0935J\|בָּ֖א]] [[H9003\|בַּ]][[H3117I\|יָּמִ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H0859A\|אַתָּ֤ה]] [[H2204\|זָקַ֙נְתָּה֙]] [[H0935J\|בָּ֣אתָ]] [[H9003\|בַ]][[H3117I\|יָּמִ֔ים]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H7604\|נִשְׁאֲרָ֥ה]] [[H7235A\|הַרְבֵּֽה]][[H9014\|־]] [[H3966\|מְאֹ֖ד]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּֽ]][[H9034\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.12.24|<< Joshua 12:24]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.2|Joshua 13:2 >>]]</td></tr></table>
 

@@ -1,8 +1,89 @@
+---
+title: 1 Kings 2:5
+type: Verse
+kjv: "Moreover thou knowest also what Joab the son of Zeruiah did to me, and what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that was about his loins, and in his shoes that were on his feet."
+bsb: "Moreover, you know what Joab son of Zeruiah did to me—what he did to Abner son of Ner and Amasa son of Jether, the two commanders of the armies of Israel. He killed them in peacetime to avenge the blood of war. He stained with the blood of war the belt around his waist and the sandals on his feet."
+hebrew: "וְגַ֣ם אַתָּ֣ה יָדַ֡עְתָּ אֵת֩ אֲשֶׁר־ עָ֨שָׂה לִ֜י יוֹאָ֣ב בֶּן־ צְרוּיָ֗ה אֲשֶׁ֣ר עָשָׂ֣ה לִשְׁנֵֽי־ שָׂרֵ֣י צִבְא֣וֹת יִ֠שְׂרָאֵל לְאַבְנֵ֨ר בֶּן־ נֵ֜ר וְלַעֲמָשָׂ֤א בֶן־ יֶ֙תֶר֙ וַיַּ֣הַרְגֵ֔ם וַיָּ֥שֶׂם דְּמֵֽי־ מִלְחָמָ֖ה בְּשָׁלֹ֑ם וַיִּתֵּ֞ן דְּמֵ֣י מִלְחָמָ֗ה בַּחֲגֹֽרָתוֹ֙ אֲשֶׁ֣ר בְּמָתְנָ֔יו וּֽבְנַעֲל֖וֹ אֲשֶׁ֥ר בְּרַגְלָֽיו׃"
+pericope: "[[1Kgs.2.1 David Instructs Solomon|David Instructs Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 2
+book/chapter: "[[1Kgs.2|1 Kings 2]]"
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AMASA|AMASA]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic JETHER|JETHER]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3097G]]"
+- "[[H1121A]]"
+- "[[H6870]]"
+- "[[H8147]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H3478]]"
+- "[[H0074]]"
+- "[[H5369G]]"
+- "[[H6021G]]"
+- "[[H3500H]]"
+- "[[H9001]]"
+- "[[H2026]]"
+- "[[H9038]]"
+- "[[H7760H]]"
+- "[[H1818]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H7965G]]"
+- "[[H5414H]]"
+- "[[H2290B]]"
+- "[[H9023]]"
+- "[[H4975]]"
+- "[[H5275]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 2:5**<big><big>[[1Kgs.2.1 David Instructs Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover thou knowest also what Joab the son of Zeruiah did to me, [and] what he did to the two captains of the hosts of Israel, unto Abner the son of Ner, and unto Amasa the son of Jether, whom he slew, and shed the blood of war in peace, and put the blood of war upon his girdle that [was] about his loins, and in his shoes that [were] on his feet.
 <small><sub>**BSB:**</sub></small>
 Moreover, you know what Joab son of Zeruiah did to me—what he did to Abner son of Ner and Amasa son of Jether, the two commanders of the armies of Israel. He killed them in peacetime to avenge the blood of war. He stained with the blood of war the belt around his waist and the sandals on his feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֣ם]] [[H0859A\|אַתָּ֣ה]] [[H3045\|יָדַ֡עְתָּ]] [[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָ֨שָׂה]] [[H9005\|לִ֜]][[H9030\|י]] [[H3097G\|יוֹאָ֣ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6870\|צְרוּיָ֗ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֣ה]] [[H9005\|לִ]][[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H8269\|שָׂרֵ֣י]] [[H6635A\|צִבְא֣וֹת]] [[H3478\|יִ֠שְׂרָאֵל]] [[H9005\|לְ]][[H0074\|אַבְנֵ֨ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5369G\|נֵ֜ר]] [[H9002\|וְ]][[H9005\|לַ]][[H6021G\|עֲמָשָׂ֤א]] [[H1121A\|בֶן]][[H9014\|־]] [[H3500H\|יֶ֙תֶר֙]] [[H9001\|וַ]][[H2026\|יַּ֣הַרְגֵ֔]][[H9038\|ם]] [[H9001\|וַ]][[H7760H\|יָּ֥שֶׂם]] [[H1818\|דְּמֵֽי]][[H9014\|־]] [[H4421\|מִלְחָמָ֖ה]] [[H9003\|בְּ]][[H7965G\|שָׁלֹ֑ם]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֞ן]] [[H1818\|דְּמֵ֣י]] [[H4421\|מִלְחָמָ֗ה]] [[H9003\|בַּ]][[H2290B\|חֲגֹֽרָת]][[H9023\|וֹ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H4975\|מָתְנָ֔י]][[H9023\|ו]] [[H9002\|וּֽ]][[H9003\|בְ]][[H5275\|נַעֲל֖]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H7272\|רַגְלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMASA|AMASA]] • [[topic DAVID|DAVID]] • [[topic DEATH|DEATH]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic FRIENDS|FRIENDS]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic JETHER|JETHER]] • [[topic JOAB|JOAB]] • [[topic MALICE|MALICE]] • [[topic RETALIATION|RETALIATION]] • [[topic WILL|WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.2.4|<< 1 Kings 2:4]]</td><td align="center" style="border:none;">[[1Kgs.2|1 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.2.6|1 Kings 2:6 >>]]</td></tr></table>
 

@@ -3,9 +3,9 @@
 
 → Creation of [[Gen.1.9|Ge 1:9]],[[Gen.1.10|10]]; [[Ps.95.5|Ps 95:5]]; [[Ps.148.4|148:4]],[[Ps.148.5|5]]
 
-→ Lake Galilee calmed by Jesus [[Matt.8.24|Mt 8:24]]-[[Matt.8.26|26]]; [[Mark.4.37|Mr 4:37]]-[[Mark.4.39|39]]
+→ Lake Galilee calmed by Jesus [[Matt.8.24|Mt 8:24-26]]; [[Mark.4.37|Mr 4:37-39]]
 
-→ Jesus walked upon Lake Galilee [[Matt.14.25|Mt 14:25]]-[[Matt.14.31|31]]
+→ Jesus walked upon Lake Galilee [[Matt.14.25|Mt 14:25-31]]
 
 → The Dead, to be given up by the, at the resurrection [[Rev.20.13|Re 20:13]]
 

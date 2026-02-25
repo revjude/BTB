@@ -1,10 +1,56 @@
+---
+title: Mark 7:14
+type: Verse
+kjv: "And when he had called all the people unto him, he said unto them, Hearken unto me every one of you, and understand:"
+bsb: "Once again Jesus called the crowd to Him and said, “All of you, listen to Me and understand:"
+jesus_said: "Hearken unto me every one of you, and understand:"
+greek: "Καὶ προσκαλεσάμενος πάλιν τὸν ὄχλον ἔλεγεν αὐτοῖς· ἀκούσατέ μου πάντες καὶ σύνετε."
+pericope: "[[Mark.7.14 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4341]]"
+- "[[G3825]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G0191]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G4920]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 7:14**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had called all the people [unto him], he said unto them, Hearken unto me every one [of you], and understand:
 <small><sub>**BSB:**</sub></small>
 Once again Jesus called the crowd to Him and said, “All of you, listen to Me and understand:
-<small><sub>**Literal:**</sub></small>
-And having called to [Him] again the crowd He was saying to them; do listen to Me all and do understand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.13|<< Mark 7:13]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.15|Mark 7:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4341\|προσκαλεσάμενος]]  [[G3825\|πάλιν]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς·]]  [[G0191\|ἀκούσατέ]]  [[G3165\|μου]]  [[G3956\|πάντες]]  [[G2532\|καὶ]]  [[G4920\|σύνετε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.13|<< Mark 7:13]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.15|Mark 7:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

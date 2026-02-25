@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: No Other Gospel
+type: Pericope
 pericope: "[[Gal.1.6 No Other Gospel|No Other Gospel]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 1
 book/chapter: "[[Gal.1|Galatians 1]]"
-genre:
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 4
 verses:
 - "[[Gal.1.6]]"
 - "[[Gal.1.7]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Gal.1.9]]"
 ---
 
-[[Gal.1|Galatians 1:6 - Galatians 1:9]]
+<small>[[Gal.1|Galatians 1:6-9]]</small>
 *No Other Gospel*
 
 [[Gal.1.6|6]] I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:

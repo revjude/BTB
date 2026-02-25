@@ -1,8 +1,55 @@
+---
+title: Jeremiah 2:12
+type: Verse
+kjv: "Be astonished, O ye heavens, at this, and be horribly afraid, be ye very desolate, saith the LORD."
+bsb: "Be stunned by this, O heavens; be shocked and utterly appalled,” declares the LORD."
+hebrew: "שֹׁ֥מּוּ שָׁמַ֖יִם עַל־ זֹ֑את וְשַׂעֲר֛וּ חָרְב֥וּ מְאֹ֖ד נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.2.1 Israel Has Forsaken God|Israel Has Forsaken God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H8074H]]"
+- "[[H8064]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9002]]"
+- "[[H8175A]]"
+- "[[H2717B]]"
+- "[[H3966]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:12**<big><big>[[Jer.2.1 Israel Has Forsaken God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be astonished, O ye heavens, at this, and be horribly afraid, be ye very desolate, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Be stunned by this, O heavens; be shocked and utterly appalled,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H8074H\|שֹׁ֥מּוּ]] [[H8064\|שָׁמַ֖יִם]] [[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H9002\|וְ]][[H8175A\|שַׂעֲר֛וּ]] [[H2717B\|חָרְב֥וּ]] [[H3966\|מְאֹ֖ד]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.11|<< Jeremiah 2:11]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.13|Jeremiah 2:13 >>]]</td></tr></table>
 

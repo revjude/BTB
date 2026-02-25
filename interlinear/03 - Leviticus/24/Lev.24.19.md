@@ -1,8 +1,61 @@
+---
+title: Leviticus 24:19
+type: Verse
+kjv: "And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him;"
+bsb: "If anyone injures his neighbor, whatever he has done must be done to him:"
+hebrew: "וְאִ֕ישׁ כִּֽי־ יִתֵּ֥ן מ֖וּם בַּעֲמִית֑וֹ כַּאֲשֶׁ֣ר עָשָׂ֔ה כֵּ֖ן יֵעָ֥שֶׂה לּֽוֹ׃"
+pericope: "[[Lev.24.17 An Eye for an Eye|An Eye for an Eye]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic RETALIATION|RETALIATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5414P]]"
+- "[[H3971B]]"
+- "[[H9003]]"
+- "[[H5997]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 24:19**<big><big>[[Lev.24.17 An Eye for an Eye|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man cause a blemish in his neighbour; as he hath done, so shall it be done to him;
 <small><sub>**BSB:**</sub></small>
 If anyone injures his neighbor, whatever he has done must be done to him:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֕ישׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5414P\|יִתֵּ֥ן]] [[H3971B\|מ֖וּם]] [[H9003\|בַּ]][[H5997\|עֲמִית֑]][[H9023\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֔ה]] [[H3651C\|כֵּ֖ן]] [[H6213A\|יֵעָ֥שֶׂה]] [[H9005\|לּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RETALIATION|RETALIATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.18|<< Leviticus 24:18]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.20|Leviticus 24:20 >>]]</td></tr></table>
 

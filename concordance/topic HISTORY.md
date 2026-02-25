@@ -1,7 +1,7 @@
 
 **HISTORY**
 
-→ General scriptures concerning [[Job.8.8|Job 8:8]]-[[Job.8.10|10]]
+→ General scriptures concerning [[Job.8.8|Job 8:8-10]]
 
 → See [[topic BOOK|BOOKS]]
 

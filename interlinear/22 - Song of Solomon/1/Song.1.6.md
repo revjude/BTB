@@ -1,8 +1,61 @@
+---
+title: Song of Solomon 1:6
+type: Verse
+kjv: "Look not upon me, because I am black, because the sun hath looked upon me: my mother’s children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept."
+bsb: "Do not stare because I am dark, for the sun has gazed upon me. My mother’s sons were angry with me; they made me a keeper of the vineyards, but my own vineyard I have neglected."
+hebrew: "אַל־ תִּרְא֙וּנִי֙ שֶׁאֲנִ֣י שְׁחַרְחֹ֔רֶת שֶׁשֱּׁזָפַ֖תְנִי הַשָּׁ֑מֶשׁ בְּנֵ֧י אִמִּ֣י נִֽחֲרוּ־ בִ֗י שָׂמֻ֙נִי֙ נֹטֵרָ֣ה אֶת־ הַכְּרָמִ֔ים כַּרְמִ֥י שֶׁלִּ֖י לֹ֥א נָטָֽרְתִּי׃"
+pericope: "[[Song.1.5 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 1
+book/chapter: "[[Song.1|Song of Solomon 1]]"
+chronological_order: 448
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H9007]]"
+- "[[H0589]]"
+- "[[H7840]]"
+- "[[H7805]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H1121A]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H2734]]"
+- "[[H9003]]"
+- "[[H7760A]]"
+- "[[H5201]]"
+- "[[H0853]]"
+- "[[H3754]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 1:6**<big><big>[[Song.1.5 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look not upon me, because I [am] black, because the sun hath looked upon me: my mother’s children were angry with me; they made me the keeper of the vineyards; [but] mine own vineyard have I not kept.
 <small><sub>**BSB:**</sub></small>
 Do not stare because I am dark, for the sun has gazed upon me. My mother’s sons were angry with me; they made me a keeper of the vineyards, but my own vineyard I have neglected.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H7200G\|תִּרְא֙וּ]][[H9030\|נִי֙]] [[H9007\|שֶׁ]][[H0589\|אֲנִ֣י]] [[H7840\|שְׁחַרְחֹ֔רֶת]] [[H9007\|שֶׁ]][[H7805\|שֱּׁזָפַ֖תְ]][[H9030\|נִי]] [[H9009\|הַ]][[H8121\|שָּׁ֑מֶשׁ]] [[H1121A\|בְּנֵ֧י]] [[H0517\|אִמִּ֣]][[H9020\|י]] [[H2734\|נִֽחֲרוּ]][[H9014\|־]] [[H9003\|בִ֗]][[H9030\|י]] [[H7760A\|שָׂמֻ֙]][[H9030\|נִי֙]] [[H5201\|נֹטֵרָ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3754\|כְּרָמִ֔ים]] [[H3754\|כַּרְמִ֥]][[H9020\|י]] [[H9007\|שֶׁ]][[H9005\|לִּ֖]][[H9030\|י]] [[H3808\|לֹ֥א]] [[H5201\|נָטָֽרְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.1.5|<< Song of Solomon 1:5]]</td><td align="center" style="border:none;">[[Song.1|Song of Solomon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.1.7|Song of Solomon 1:7 >>]]</td></tr></table>
 

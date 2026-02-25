@@ -1,8 +1,64 @@
+---
+title: Ezekiel 23:38
+type: Verse
+kjv: "Moreover this they have done unto me: they have defiled my sanctuary in the same day, and have profaned my sabbaths."
+bsb: "They have also done this to Me: On that very same day, they defiled My sanctuary and profaned My Sabbaths."
+hebrew: "ע֥וֹד זֹ֖את עָ֣שׂוּ לִ֑י טִמְּא֤וּ אֶת־ מִקְדָּשִׁי֙ בַּיּ֣וֹם הַה֔וּא וְאֶת־ שַׁבְּתוֹתַ֖י חִלֵּֽלוּ׃"
+pericope: "[[Ezek.23.36 Judgment on Both Sisters|Judgment on Both Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H5750]]"
+- "[[H2063]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H2930A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4720]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H7676]]"
+- "[[H2490H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:38**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover this they have done unto me: they have defiled my sanctuary in the same day, and have profaned my sabbaths.
 <small><sub>**BSB:**</sub></small>
 They have also done this to Me: On that very same day, they defiled My sanctuary and profaned My Sabbaths.
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|ע֥וֹד]] [[H2063\|זֹ֖את]] [[H6213A\|עָ֣שׂוּ]] [[H9005\|לִ֑]][[H9030\|י]] [[H2930A\|טִמְּא֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4720\|מִקְדָּשִׁ]][[H9020\|י֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתוֹתַ֖]][[H9020\|י]] [[H2490H\|חִלֵּֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SABBATH|SABBATH]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.37|<< Ezekiel 23:37]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.39|Ezekiel 23:39 >>]]</td></tr></table>
 

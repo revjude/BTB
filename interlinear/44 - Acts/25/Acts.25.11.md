@@ -1,10 +1,69 @@
+---
+title: Acts 25:11
+type: Verse
+kjv: "For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar."
+bsb: "If, however, I am guilty of anything worthy of death, I do not refuse to die. But if there is no truth to their accusations against me, no one has the right to hand me over to them. I appeal to Caesar!”"
+greek: "εἰ μὲν οὖν ἀδικῶ καὶ ἄξιον θανάτου πέπραχά τι, οὐ παραιτοῦμαι τὸ ἀποθανεῖν· εἰ δὲ οὐδέν ἐστιν ὧν οὗτοι κατηγοροῦσίν μου, οὐδείς με δύναται αὐτοῖς χαρίσασθαι. Καίσαρα ἐπικαλοῦμαι.¶"
+pericope: "[[Acts.25.10 Paul Appeals to Caesar|Paul Appeals to Caesar]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APPEAL|APPEAL]]"
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G0091]]"
+- "[[G2532]]"
+- "[[G0514]]"
+- "[[G2288]]"
+- "[[G4238]]"
+- "[[G5100]]"
+- "[[G3756]]"
+- "[[G3868]]"
+- "[[G3588]]"
+- "[[G0599]]"
+- "[[G1161]]"
+- "[[G3762]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G3778]]"
+- "[[G2723]]"
+- "[[G3165]]"
+- "[[G1410]]"
+- "[[G0846]]"
+- "[[G5483]]"
+- "[[G2541]]"
+- "[[G1941]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 25:11**<big><big>[[Acts.25.10 Paul Appeals to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar.
 <small><sub>**BSB:**</sub></small>
 If, however, I am guilty of anything worthy of death, I do not refuse to die. But if there is no truth to their accusations against me, no one has the right to hand me over to them. I appeal to Caesar!”
-<small><sub>**Literal:**</sub></small>
-If indeed therefore I do wrong and worthy of death have done anything, not I do refuse <the> to die; If however no [thing] there is of which they [can] accuse me, no [one] me can to them giving up. To Caesar I appeal!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.10|<< Acts 25:10]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.12|Acts 25:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G0091\|ἀδικῶ]]  [[G2532\|καὶ]]  [[G0514\|ἄξιον]]  [[G2288\|θανάτου]]  [[G4238\|πέπραχά]]  [[G5100\|τι,]]  [[G3756\|οὐ]]  [[G3868\|παραιτοῦμαι]]  [[G3588\|τὸ]]  [[G0599\|ἀποθανεῖν·]]  [[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3762\|οὐδέν]]  [[G1510\|ἐστιν]]  [[G3739\|ὧν]]  [[G3778\|οὗτοι]]  [[G2723\|κατηγοροῦσίν]]  [[G3165\|μου,]]  [[G3762\|οὐδείς]]  [[G3165\|με]]  [[G1410\|δύναται]]  [[G0846\|αὐτοῖς]]  [[G5483\|χαρίσασθαι.]]  [[G2541\|Καίσαρα]]  [[G1941\|ἐπικαλοῦμαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPEAL|APPEAL]] • [[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.10|<< Acts 25:10]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.12|Acts 25:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

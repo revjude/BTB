@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 22:3
+type: Verse
+kjv: "And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;"
+bsb: "David provided a large quantity of iron to make the nails for the doors of the gateways and for the fittings, together with more bronze than could be weighed"
+hebrew: "וּבַרְזֶ֣ל׀ לָ֠רֹב לַֽמִּסְמְרִ֞ים לְדַלְת֧וֹת הַשְּׁעָרִ֛ים וְלַֽמְחַבְּר֖וֹת הֵכִ֣ין דָּוִ֑יד וּנְחֹ֥שֶׁת לָרֹ֖ב אֵ֥ין מִשְׁקָֽל׃"
+pericope: "[[1Chr.22.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic IRON|IRON]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic NAIL|NAIL]]"
+strongs:
+- "[[H9002]]"
+- "[[H1270]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H4548]]"
+- "[[H1817C]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H4226]]"
+- "[[H3559A]]"
+- "[[H1732]]"
+- "[[H5178A]]"
+- "[[H0369]]"
+- "[[H4948]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:3**<big><big>[[1Chr.22.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;
 <small><sub>**BSB:**</sub></small>
 David provided a large quantity of iron to make the nails for the doors of the gateways and for the fittings, together with more bronze than could be weighed
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1270\|בַרְזֶ֣ל]][[H9015\|׀]] [[H9005\|לָ֠]][[H7230\|רֹב]] [[H9005\|לַֽ]][[H4548\|מִּסְמְרִ֞ים]] [[H9005\|לְ]][[H1817C\|דַלְת֧וֹת]] [[H9009\|הַ]][[H8179G\|שְּׁעָרִ֛ים]] [[H9002\|וְ]][[H9005\|לַֽ]][[H4226\|מְחַבְּר֖וֹת]] [[H3559A\|הֵכִ֣ין]] [[H1732\|דָּוִ֑יד]] [[H9002\|וּ]][[H5178A\|נְחֹ֥שֶׁת]] [[H9005\|לָ]][[H7230\|רֹ֖ב]] [[H0369\|אֵ֥ין]] [[H4948\|מִשְׁקָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IRON|IRON]] • [[topic MUSIC|MUSIC]] • [[topic NAIL|NAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.22.2|<< 1 Chronicles 22:2]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.4|1 Chronicles 22:4 >>]]</td></tr></table>
 

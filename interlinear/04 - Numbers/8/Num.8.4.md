@@ -1,8 +1,69 @@
+---
+title: Numbers 8:4
+type: Verse
+kjv: "And this work of the candlestick was of beaten gold, unto the shaft thereof, unto the flowers thereof, was beaten work: according unto the pattern which the LORD had shewed Moses, so he made the candlestick."
+bsb: "This is how the lampstand was constructed: it was made of hammered gold from its base to its blossoms, fashioned according to the pattern the LORD had shown Moses."
+hebrew: "וְזֶ֨ה מַעֲשֵׂ֤ה הַמְּנֹרָה֙ מִקְשָׁ֣ה זָהָ֔ב עַד־ יְרֵכָ֥הּ עַד־ פִּרְחָ֖הּ מִקְשָׁ֣ה הִ֑וא כַּמַּרְאֶ֗ה אֲשֶׁ֨ר הֶרְאָ֤ה יְהוָה֙ אֶת־ מֹשֶׁ֔ה כֵּ֥ן עָשָׂ֖ה אֶת־ הַמְּנֹרָֽה׃ פ"
+pericope: "[[Num.8.1 The Lampstand|The Lampstand]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BEATEN WORK|BEATEN WORK]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H4639G]]"
+- "[[H9009]]"
+- "[[H4501]]"
+- "[[H4749]]"
+- "[[H2091]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3409]]"
+- "[[H9024]]"
+- "[[H6525]]"
+- "[[H1931]]"
+- "[[H9004]]"
+- "[[H4758]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H4872]]"
+- "[[H3651C]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 8:4**<big><big>[[Num.8.1 The Lampstand|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this work of the candlestick [was of] beaten gold, unto the shaft thereof, unto the flowers thereof, [was] beaten work: according unto the pattern which the LORD had shewed Moses, so he made the candlestick.
 <small><sub>**BSB:**</sub></small>
 This is how the lampstand was constructed: it was made of hammered gold from its base to its blossoms, fashioned according to the pattern the LORD had shown Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֨ה]] [[H4639G\|מַעֲשֵׂ֤ה]] [[H9009\|הַ]][[H4501\|מְּנֹרָה֙]] [[H4749\|מִקְשָׁ֣ה]] [[H2091\|זָהָ֔ב]] [[H5704\|עַד]][[H9014\|־]] [[H3409\|יְרֵכָ֥]][[H9024\|הּ]] [[H5704\|עַד]][[H9014\|־]] [[H6525\|פִּרְחָ֖]][[H9024\|הּ]] [[H4749\|מִקְשָׁ֣ה]] [[H1931\|הִ֑וא]] [[H9004\|כַּ]][[H4758\|מַּרְאֶ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H7200G\|הֶרְאָ֤ה]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H3651C\|כֵּ֥ן]] [[H6213H\|עָשָׂ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4501\|מְּנֹרָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEATEN WORK|BEATEN WORK]] • [[topic CANDLESTICK|CANDLESTICK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.3|<< Numbers 8:3]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.5|Numbers 8:5 >>]]</td></tr></table>
 
@@ -28,7 +89,7 @@ This is how the lampstand was constructed: it was made of hammered gold from its
 | so  |**<big>&#8207;[[H3651C\|כֵּ֥ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made  |**<big>&#8207;[[H6213H\|עָשָׂ֖ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the lampstand  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4501\|מְּנֹרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.no.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the lampstand  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4501\|מְּנֹרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.no.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.3|<< Numbers 8:3]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.5|Numbers 8:5 >>]]</td></tr></table>
 
 

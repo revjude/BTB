@@ -1,10 +1,67 @@
+---
+title: Revelation 21:12
+type: Verse
+kjv: "And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel:"
+bsb: "The city had a great and high wall with twelve gates inscribed with the names of the twelve tribes of Israel, and twelve angels at the gates."
+greek: "ἔχουσα τε τεῖχος μέγα καὶ ὑψηλόν, ἔχουσα πυλῶνας δώδεκα καὶ ἐπὶ τοῖς πυλῶσιν ἀγγέλους δώδεκα, καὶ ὀνόματα ἐπιγεγραμμένα, ἅ ἐστιν τὰ ὀνόματα τῶν δώδεκα φυλῶν τῶν υἱῶν Ἰσραήλ·"
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GATES|GATES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+strongs:
+- "[[G2192]]"
+- "[[G5037]]"
+- "[[G5038]]"
+- "[[G3173]]"
+- "[[G2532]]"
+- "[[G5308]]"
+- "[[G4440]]"
+- "[[G1427]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G3686]]"
+- "[[G1924]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G5443]]"
+- "[[G5207]]"
+- "[[G2474]]"
+texts:
+- NKO
+- k
+- N(k)O
+- NK(o)
+---
+
 **Revelation 21:12**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And had a wall great and high, [and] had twelve gates, and at the gates twelve angels, and names written thereon, which are [the names] of the twelve tribes of the children of Israel:
 <small><sub>**BSB:**</sub></small>
 The city had a great and high wall with twelve gates inscribed with the names of the twelve tribes of Israel, and twelve angels at the gates.
-<small><sub>**Literal:**</sub></small>
-having then a wall great and high, having gates twelve and at the gates angels twelve, and names inscribed, which are the names of the twelve tribes of the of [the] sons of Israel;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.11|<< Revelation 21:11]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.13|Revelation 21:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2192\|ἔχουσα]]  [[G5037\|τε]]  [[G5038\|τεῖχος]]  [[G3173\|μέγα]]  [[G2532\|καὶ]]  [[G5308\|ὑψηλόν,]]  [[G2192\|ἔχουσα]]  [[G4440\|πυλῶνας]]  [[G1427\|δώδεκα]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῖς]]  [[G4440\|πυλῶσιν]]  [[G0032G\|ἀγγέλους]]  [[G1427\|δώδεκα,]]  [[G2532\|καὶ]]  [[G3686\|ὀνόματα]]  [[G1924\|ἐπιγεγραμμένα,]]  [[G3739\|ἅ]]  [[G1510\|ἐστιν]]  [[G3588\|τὰ]]  [[G3686\|ὀνόματα]]  [[G3588\|τῶν]]  [[G1427\|δώδεκα]]  [[G5443\|φυλῶν]]  [[G3588\|τῶν]]  [[G5207\|υἱῶν]]  [[G2474\|Ἰσραήλ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GATES|GATES]] • [[topic ISRAEL|ISRAEL]] • [[topic JERUSALEM|JERUSALEM]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.11|<< Revelation 21:11]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.13|Revelation 21:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:12** is...
 > $\quad$ alluding to: [[LXX.Ezek.48.31|Ezek 48:31]]

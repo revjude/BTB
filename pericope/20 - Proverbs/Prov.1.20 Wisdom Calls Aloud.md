@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Wisdom Calls Aloud
+type: Pericope
 pericope: "[[Prov.1.20 Wisdom Calls Aloud|Wisdom Calls Aloud]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 1
 book/chapter: "[[Prov.1|Proverbs 1]]"
-genre:
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 14
 verses:
 - "[[Prov.1.20]]"
 - "[[Prov.1.21]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Prov.1.33]]"
 ---
 
-[[Prov.1|Proverbs 1:20 - Proverbs 1:33]]
+<small>[[Prov.1|Proverbs 1:20-33]]</small>
 *Wisdom Calls Aloud*
 
 [[Prov.1.20|20]] Wisdom crieth without; she uttereth her voice in the streets:

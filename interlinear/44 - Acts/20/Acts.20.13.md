@@ -1,10 +1,61 @@
+---
+title: Acts 20:13
+type: Verse
+kjv: "And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot."
+bsb: "We went on ahead to the ship and sailed to Assos, where we were to take Paul aboard. He had arranged this because he was going there on foot."
+greek: "ἡμεῖς δὲ προελθόντες ἐπὶ τὸ πλοῖον ἀνήχθημεν ἐπὶ τὴν Ἆσσον, ἐκεῖθεν μέλλοντες ἀναλαμβάνειν τὸν Παῦλον· οὕτως γὰρ διατεταγμένος ἦν, μέλλων αὐτὸς πεζεύειν."
+pericope: "[[Acts.20.13 From Troas to Miletus|From Troas to Miletus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ASSOS|ASSOS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G4281]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G0321]]"
+- "[[G0789]]"
+- "[[G1564]]"
+- "[[G3195]]"
+- "[[G0353]]"
+- "[[G3972G]]"
+- "[[G3779]]"
+- "[[G1063]]"
+- "[[G1299]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G3978]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Acts 20:13**<big><big>[[Acts.20.13 From Troas to Miletus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.
 <small><sub>**BSB:**</sub></small>
 We went on ahead to the ship and sailed to Assos, where we were to take Paul aboard. He had arranged this because he was going there on foot.
-<small><sub>**Literal:**</sub></small>
-We ourselves however having gone ahead to the ship sailed to <the> Assos, there being about to take in <the> Paul; Thus for having arranged himself he was readying himself to go on foot.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.12|<< Acts 20:12]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.14|Acts 20:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμεῖς]]  [[G1161\|δὲ]]  [[G4281\|προελθόντες]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G0321\|ἀνήχθημεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G0789\|Ἆσσον,]]  [[G1564\|ἐκεῖθεν]]  [[G3195\|μέλλοντες]]  [[G0353\|ἀναλαμβάνειν]]  [[G3588\|τὸν]]  [[G3972G\|Παῦλον·]]  [[G3779\|οὕτως]]  [[G1063\|γὰρ]]  [[G1299\|διατεταγμένος]]  [[G1510\|ἦν,]]  [[G3195\|μέλλων]]  [[G0846\|αὐτὸς]]  [[G3978\|πεζεύειν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSOS|ASSOS]] • [[topic PAUL|PAUL]] • [[topic SHIP|SHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.12|<< Acts 20:12]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.14|Acts 20:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

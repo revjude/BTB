@@ -1,8 +1,74 @@
+---
+title: Numbers 19:18
+type: Verse
+kjv: "And a clean person shall take hyssop, and dip it in the water, and sprinkle it upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave:"
+bsb: "Then a man who is ceremonially clean is to take some hyssop, dip it in the water, and sprinkle the tent, all the furnishings, and the people who were there. He is also to sprinkle the one who touched a bone, a grave, or a person who has died or been slain."
+hebrew: "וְלָקַ֨ח אֵז֜וֹב וְטָבַ֣ל בַּמַּיִם֮ אִ֣ישׁ טָהוֹר֒ וְהִזָּ֤ה עַל־ הָאֹ֙הֶל֙ וְעַל־ כָּל־ הַכֵּלִ֔ים וְעַל־ הַנְּפָשׁ֖וֹת אֲשֶׁ֣ר הָֽיוּ־ שָׁ֑ם וְעַל־ הַנֹּגֵ֗עַ בַּעֶ֙צֶם֙ א֣וֹ בֶֽחָלָ֔ל א֥וֹ בַמֵּ֖ת א֥וֹ בַקָּֽבֶר׃"
+pericope: "[[Num.19.11 Purification of the Unclean|Purification of the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0231]]"
+- "[[H2881]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H0376G]]"
+- "[[H2889]]"
+- "[[H5137A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H5315J]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H5060]]"
+- "[[H6106G]]"
+- "[[H0176A]]"
+- "[[H2491A]]"
+- "[[H4191]]"
+- "[[H6913]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 19:18**<big><big>[[Num.19.11 Purification of the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a clean person shall take hyssop, and dip [it] in the water, and sprinkle [it] upon the tent, and upon all the vessels, and upon the persons that were there, and upon him that touched a bone, or one slain, or one dead, or a grave:
 <small><sub>**BSB:**</sub></small>
 Then a man who is ceremonially clean is to take some hyssop, dip it in the water, and sprinkle the tent, all the furnishings, and the people who were there. He is also to sprinkle the one who touched a bone, a grave, or a person who has died or been slain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֨ח]] [[H0231\|אֵז֜וֹב]] [[H9001\|וְ]][[H2881\|טָבַ֣ל]] [[H9003\|בַּ]][[H4325G\|מַּיִם֮]] [[H0376G\|אִ֣ישׁ]] [[H2889\|טָהוֹר֒]] [[H9001\|וְ]][[H5137A\|הִזָּ֤ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0168G\|אֹ֙הֶל֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֔ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5315J\|נְּפָשׁ֖וֹת]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָֽיוּ]][[H9014\|־]] [[H8033G\|שָׁ֑ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5060\|נֹּגֵ֗עַ]] [[H9003\|בַּ]][[H6106G\|עֶ֙צֶם֙]] [[H0176A\|א֣וֹ]] [[H9003\|בֶֽ]][[H2491A\|חָלָ֔ל]] [[H0176A\|א֥וֹ]] [[H9003\|בַ]][[H4191\|מֵּ֖ת]] [[H0176A\|א֥וֹ]] [[H9003\|בַ]][[H6913\|קָּֽבֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.17|<< Numbers 19:17]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.19|Numbers 19:19 >>]]</td></tr></table>
 

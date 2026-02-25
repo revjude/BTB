@@ -1,8 +1,72 @@
+---
+title: Exodus 12:39
+type: Verse
+kjv: "And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual."
+bsb: "Since their dough had no leaven, the people baked what they had brought out of Egypt into unleavened loaves. For when they had been driven out of Egypt, they could not delay and had not prepared any provisions for themselves."
+hebrew: "וַיֹּאפ֨וּ אֶת־ הַבָּצֵ֜ק אֲשֶׁ֨ר הוֹצִ֧יאוּ מִמִּצְרַ֛יִם עֻגֹ֥ת מַצּ֖וֹת כִּ֣י לֹ֣א חָמֵ֑ץ כִּֽי־ גֹרְשׁ֣וּ מִמִּצְרַ֗יִם וְלֹ֤א יָֽכְלוּ֙ לְהִתְמַהְמֵ֔הַּ וְגַם־ צֵדָ֖ה לֹא־ עָשׂ֥וּ לָהֶֽם׃"
+pericope: "[[Exod.12.31 The Exodus Begins|The Exodus Begins]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0644]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1217]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H5692]]"
+- "[[H4682]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H2556A]]"
+- "[[H1644G]]"
+- "[[H9002]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H4102]]"
+- "[[H1571]]"
+- "[[H6720]]"
+- "[[H6213H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:39**<big><big>[[Exod.12.31 The Exodus Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they baked unleavened cakes of the dough which they brought forth out of Egypt, for it was not leavened; because they were thrust out of Egypt, and could not tarry, neither had they prepared for themselves any victual.
 <small><sub>**BSB:**</sub></small>
 Since their dough had no leaven, the people baked what they had brought out of Egypt into unleavened loaves. For when they had been driven out of Egypt, they could not delay and had not prepared any provisions for themselves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0644\|יֹּאפ֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1217\|בָּצֵ֜ק]] [[H0834A\|אֲשֶׁ֨ר]] [[H3318H\|הוֹצִ֧יאוּ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֛יִם]] [[H5692\|עֻגֹ֥ת]] [[H4682\|מַצּ֖וֹת]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֣א]] [[H2556A\|חָמֵ֑ץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1644G\|גֹרְשׁ֣וּ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֗יִם]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H3201\|יָֽכְלוּ֙]] [[H9005\|לְ]][[H4102\|הִתְמַהְמֵ֔הַּ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H6720\|צֵדָ֖ה]] [[H3808\|לֹא]][[H9014\|־]] [[H6213H\|עָשׂ֥וּ]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.38|<< Exodus 12:38]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.40|Exodus 12:40 >>]]</td></tr></table>
 

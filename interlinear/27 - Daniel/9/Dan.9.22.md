@@ -1,8 +1,57 @@
+---
+title: Daniel 9:22
+type: Verse
+kjv: "And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding."
+bsb: "He instructed me and spoke with me, saying: “O Daniel, I have come now to give you insight and understanding."
+hebrew: "וַיָּ֖בֶן וַיְדַבֵּ֣ר עִמִּ֑י וַיֹּאמַ֕ר דָּנִיֵּ֕אל עַתָּ֥ה יָצָ֖אתִי לְהַשְׂכִּילְךָ֥ בִינָֽה׃"
+pericope: "[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|Gabriel’s Prophecy of the Seventy Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0995]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H1840G]]"
+- "[[H6258]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7919A]]"
+- "[[H9031]]"
+- "[[H0998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:22**<big><big>[[Dan.9.20 Gabriel’s Prophecy of the Seventy Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he informed [me], and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.
 <small><sub>**BSB:**</sub></small>
 He instructed me and spoke with me, saying: “O Daniel, I have come now to give you insight and understanding.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0995\|יָּ֖בֶן]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H5973A\|עִמִּ֑]][[H9030\|י]] [[H9001\|וַ]][[H0559\|יֹּאמַ֕ר]] [[H1840G\|דָּנִיֵּ֕אל]] [[H6258\|עַתָּ֥ה]] [[H3318G\|יָצָ֖אתִי]] [[H9005\|לְ]][[H7919A\|הַשְׂכִּילְ]][[H9031\|ךָ֥]] [[H0998\|בִינָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.21|<< Daniel 9:21]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.23|Daniel 9:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

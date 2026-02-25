@@ -1,8 +1,54 @@
+---
+title: Ezekiel 1:14
+type: Verse
+kjv: "And the living creatures ran and returned as the appearance of a flash of lightning."
+bsb: "The creatures were darting back and forth as quickly as flashes of lightning."
+hebrew: "וְהַחַיּ֖וֹת רָצ֣וֹא וָשׁ֑וֹב כְּמַרְאֵ֖ה הַבָּזָֽק׃"
+pericope: "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic LIGHTNING|LIGHTNING]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H2416C]]"
+- "[[H7519]]"
+- "[[H7725G]]"
+- "[[H9004]]"
+- "[[H4758]]"
+- "[[H0965]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:14**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the living creatures ran and returned as the appearance of a flash of lightning.
 <small><sub>**BSB:**</sub></small>
 The creatures were darting back and forth as quickly as flashes of lightning.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H2416C\|חַיּ֖וֹת]] [[H7519\|רָצ֣וֹא]] [[H9002\|וָ]][[H7725G\|שׁ֑וֹב]] [[H9004\|כְּ]][[H4758\|מַרְאֵ֖ה]] [[H9009\|הַ]][[H0965\|בָּזָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic LIGHTNING|LIGHTNING]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.13|<< Ezekiel 1:13]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.15|Ezekiel 1:15 >>]]</td></tr></table>
 

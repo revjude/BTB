@@ -1,8 +1,79 @@
+---
+title: 1 Kings 14:21
+type: Verse
+kjv: "And Rehoboam the son of Solomon reigned in Judah. Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother’s name was Naamah an Ammonitess."
+bsb: "Meanwhile, Rehoboam son of Solomon reigned in Judah. He was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the LORD had chosen from all the tribes of Israel in which to put His Name. His mother’s name was Naamah the Ammonite."
+hebrew: "וּרְחַבְעָם֙ בֶּן־ שְׁלֹמֹ֔ה מָלַ֖ךְ בִּֽיהוּדָ֑ה בֶּן־ אַרְבָּעִ֣ים וְאַחַ֣ת שָׁנָה֩ רְחַבְעָ֨ם בְּמָלְכ֜וֹ וּֽשֲׁבַ֨ע עֶשְׂרֵ֥ה שָׁנָ֣ה׀ מָלַ֣ךְ בִּירוּשָׁלִַ֗ם הָ֠עִיר אֲשֶׁר־ בָּחַ֨ר יְהוָ֜ה לָשׂ֨וּם אֶת־ שְׁמ֥וֹ שָׁם֙ מִכֹּל֙ שִׁבְטֵ֣י יִשְׂרָאֵ֔ל וְשֵׁ֣ם אִמּ֔וֹ נַעֲמָ֖ה הָעַמֹּנִֽית׃"
+pericope: "[[1Kgs.14.21 Rehoboam Reigns in Judah|Rehoboam Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NAAMAH|NAAMAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H7346]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H8010]]"
+- "[[H4427A]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H1121L]]"
+- "[[H0705]]"
+- "[[H0259]]"
+- "[[H8141]]"
+- "[[H9043]]"
+- "[[H7651]]"
+- "[[H6240]]"
+- "[[H9015]]"
+- "[[H3389]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H8033G]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H0517]]"
+- "[[H5279A]]"
+- "[[H5984H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:21**<big><big>[[1Kgs.14.21 Rehoboam Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rehoboam the son of Solomon reigned in Judah. Rehoboam [was] forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD did choose out of all the tribes of Israel, to put his name there. And his mother’s name [was] Naamah an Ammonitess.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, Rehoboam son of Solomon reigned in Judah. He was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the LORD had chosen from all the tribes of Israel in which to put His Name. His mother’s name was Naamah the Ammonite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7346\|רְחַבְעָם֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֑ה]] [[H1121L\|בֶּן]][[H9014\|־]] [[H0705\|אַרְבָּעִ֣ים]] [[H9002\|וְ]][[H0259\|אַחַ֣ת]] [[H8141\|שָׁנָה֩]] [[H7346\|רְחַבְעָ֨ם]] [[H9003\|בְּ]][[H4427A\|מָלְכ֜]][[H9043\|וֹ]] [[H9002\|וּֽ]][[H7651\|שֲׁבַ֨ע]] [[H6240\|עֶשְׂרֵ֥ה]] [[H8141\|שָׁנָ֣ה]][[H9015\|׀]] [[H4427A\|מָלַ֣ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִַ֗ם]] [[H9009\|הָ֠]][[H5892B\|עִיר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0977\|בָּחַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H9005\|לָ]][[H7760H\|שׂ֨וּם]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֥]][[H9023\|וֹ]] [[H8033G\|שָׁם֙]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H7626H\|שִׁבְטֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H5279A\|נַעֲמָ֖ה]] [[H9009\|הָ]][[H5984H\|עַמֹּנִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NAAMAH|NAAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.20|<< 1 Kings 14:20]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.22|1 Kings 14:22 >>]]</td></tr></table>
 

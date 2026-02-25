@@ -1,8 +1,74 @@
+---
+title: Joshua 22:25
+type: Verse
+kjv: "For the LORD hath made Jordan a border between us and you, ye children of Reuben and children of Gad; ye have no part in the LORD: so shall your children make our children cease from fearing the LORD."
+bsb: "For the LORD has made the Jordan a border between us and you Reubenites and Gadites. You have no share in the LORD!’ So your descendants could cause ours to stop fearing the LORD."
+hebrew: "וּגְב֣וּל נָֽתַן־ יְ֠הוָה בֵּינֵ֨נוּ וּבֵינֵיכֶ֜ם בְּנֵי־ רְאוּבֵ֤ן וּבְנֵי־ גָד֙ אֶת־ הַיַּרְדֵּ֔ן אֵין־ לָכֶ֥ם חֵ֖לֶק בַּֽיהוָ֑ה וְהִשְׁבִּ֤יתוּ בְנֵיכֶם֙ אֶת־ בָּנֵ֔ינוּ לְבִלְתִּ֖י יְרֹ֥א אֶת־ יְהוָֽה׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1366G]]"
+- "[[H5414I]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0996G]]"
+- "[[H9035]]"
+- "[[H9036]]"
+- "[[H1121G]]"
+- "[[H7205]]"
+- "[[H1410G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H2506A]]"
+- "[[H9003]]"
+- "[[H9001]]"
+- "[[H7673A]]"
+- "[[H9026]]"
+- "[[H9025]]"
+- "[[H1115]]"
+- "[[H3372H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:25**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath made Jordan a border between us and you, ye children of Reuben and children of Gad; ye have no part in the LORD: so shall your children make our children cease from fearing the LORD.
 <small><sub>**BSB:**</sub></small>
 For the LORD has made the Jordan a border between us and you Reubenites and Gadites. You have no share in the LORD!’ So your descendants could cause ours to stop fearing the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1366G\|גְב֣וּל]] [[H5414I\|נָֽתַן]][[H9014\|־]] [[H3068G\|יְ֠הוָה]] [[H0996G\|בֵּינֵ֨]][[H9035\|נוּ]] [[H9002\|וּ]][[H0996G\|בֵינֵי]][[H9036\|כֶ֜ם]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H7205\|רְאוּבֵ֤ן]] [[H9002\|וּ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H1410G\|גָד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H2506A\|חֵ֖לֶק]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֑ה]] [[H9001\|וְ]][[H7673A\|הִשְׁבִּ֤יתוּ]] [[H1121G\|בְנֵי]][[H9026\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בָּנֵ֔י]][[H9025\|נוּ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H3372H\|יְרֹ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.24|<< Joshua 22:24]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.26|Joshua 22:26 >>]]</td></tr></table>
 

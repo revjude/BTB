@@ -1,10 +1,59 @@
+---
+title: Matthew 21:1
+type: Verse
+kjv: "And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,"
+bsb: "As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent out two disciples,"
+greek: "Καὶ ὅτε ἤγγισαν εἰς Ἱεροσόλυμα καὶ ἦλθον εἰς Βηθφαγὴ εἰς τὸ ὄρος τῶν ἐλαιῶν, τότε ὁ Ἰησοῦς ἀπέστειλεν δύο μαθητὰς"
+pericope: "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHPHAGE|BETHPHAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G1448]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G2064]]"
+- "[[G0967]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G1638]]"
+- "[[G5119]]"
+- "[[G2424G]]"
+- "[[G0649]]"
+- "[[G1417]]"
+- "[[G3101]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **Matthew 21:1**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they drew nigh unto Jerusalem, and were come to Bethphage, unto the mount of Olives, then sent Jesus two disciples,
 <small><sub>**BSB:**</sub></small>
 As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent out two disciples,
-<small><sub>**Literal:**</sub></small>
-And when they drew near to Jerusalem and came to Bethphage on the Mount <the> of Olives, then <the> Jesus sent two disciples<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.34|<< Matthew 20:34]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.2|Matthew 21:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G1448\|ἤγγισαν]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G2532\|καὶ]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G0967\|Βηθφαγὴ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G3588\|τῶν]]  [[G1638\|ἐλαιῶν,]]  [[G5119\|τότε]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0649\|ἀπέστειλεν]]  [[G1417\|δύο]]  [[G3101\|μαθητὰς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHPHAGE|BETHPHAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.34|<< Matthew 20:34]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.2|Matthew 21:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

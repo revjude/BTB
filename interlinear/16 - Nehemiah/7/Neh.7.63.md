@@ -1,8 +1,67 @@
+---
+title: Nehemiah 7:63
+type: Verse
+kjv: "And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name."
+bsb: "And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name)."
+hebrew: "וּמִן־ הַכֹּ֣הֲנִ֔ים בְּנֵ֥י חֳבַיָּ֖ה בְּנֵ֣י הַקּ֑וֹץ בְּנֵ֣י בַרְזִלַּ֗י אֲשֶׁ֣ר לָ֠קַח מִבְּנ֞וֹת בַּרְזִלַּ֤י הַגִּלְעָדִי֙ אִשָּׁ֔ה וַיִּקָּרֵ֖א עַל־ שְׁמָֽם׃"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic HABAIAH|HABAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KOZ|KOZ]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1121G]]"
+- "[[H2252]]"
+- "[[H6976I]]"
+- "[[H1271I]]"
+- "[[H0834A]]"
+- "[[H3947I]]"
+- "[[H9006]]"
+- "[[H1323G]]"
+- "[[H1569]]"
+- "[[H0802H]]"
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H5921A]]"
+- "[[H8034]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 7:63**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took [one] of the daughters of Barzillai the Gileadite to wife, and was called after their name.
 <small><sub>**BSB:**</sub></small>
 And from among the priests: the descendants of Hobaiah, the descendants of Hakkoz, and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name).
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H1121G\|בְּנֵ֥י]] [[H2252\|חֳבַיָּ֖ה]] [[H1121G\|בְּנֵ֣י]] [[H6976I\|הַקּ֑וֹץ]] [[H1121G\|בְּנֵ֣י]] [[H1271I\|בַרְזִלַּ֗י]] [[H0834A\|אֲשֶׁ֣ר]] [[H3947I\|לָ֠קַח]] [[H9006\|מִ]][[H1323G\|בְּנ֞וֹת]] [[H1271I\|בַּרְזִלַּ֤י]] [[H9009\|הַ]][[H1569\|גִּלְעָדִי֙]] [[H0802H\|אִשָּׁ֔ה]] [[H9001\|וַ]][[H7121H\|יִּקָּרֵ֖א]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic HABAIAH|HABAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KOZ|KOZ]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.63|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.62|<< Nehemiah 7:62]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.64|Nehemiah 7:64 >>]]</td></tr></table>
 

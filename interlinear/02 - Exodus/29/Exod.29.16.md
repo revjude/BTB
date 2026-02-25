@@ -1,8 +1,60 @@
+---
+title: Exodus 29:16
+type: Verse
+kjv: "And thou shalt slay the ram, and thou shalt take his blood, and sprinkle it round about upon the altar."
+bsb: "You are to slaughter the ram, take its blood, and splatter it on all sides of the altar."
+hebrew: "וְשָׁחַטְתָּ֖ אֶת־ הָאָ֑יִל וְלָֽקַחְתָּ֙ אֶת־ דָּמ֔וֹ וְזָרַקְתָּ֥ עַל־ הַמִּזְבֵּ֖חַ סָבִֽיב׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7819A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0352A]]"
+- "[[H3947G]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H2236]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H5439H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:16**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt slay the ram, and thou shalt take his blood, and sprinkle [it] round about upon the altar.
 <small><sub>**BSB:**</sub></small>
 You are to slaughter the ram, take its blood, and splatter it on all sides of the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7819A\|שָׁחַטְתָּ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אָ֑יִל]] [[H9001\|וְ]][[H3947G\|לָֽקַחְתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H2236\|זָרַקְתָּ֥]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H5439H\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.15|<< Exodus 29:15]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.17|Exodus 29:17 >>]]</td></tr></table>
 

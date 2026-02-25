@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 20:15
+type: Verse
+kjv: "But also thou shalt not cut off thy kindness from my house for ever: no, not when the LORD hath cut off the enemies of David every one from the face of the earth."
+bsb: "and do not ever cut off your loving devotion from my household—not even when the LORD cuts off every one of David’s enemies from the face of the earth.”"
+hebrew: "וְלֹֽא־ תַכְרִ֧ת אֶֽת־ חַסְדְּךָ֛ מֵעִ֥ם בֵּיתִ֖י עַד־ עוֹלָ֑ם וְלֹ֗א בְּהַכְרִ֤ת יְהוָה֙ אֶת־ אֹיְבֵ֣י דָוִ֔ד אִ֕ישׁ מֵעַ֖ל פְּנֵ֥י הָאֲדָמָֽה׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H2617A]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H1004M]]"
+- "[[H9020]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0341]]"
+- "[[H1732]]"
+- "[[H0376I]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H0127I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:15**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [also] thou shalt not cut off thy kindness from my house for ever: no, not when the LORD hath cut off the enemies of David every one from the face of the earth.
 <small><sub>**BSB:**</sub></small>
 and do not ever cut off your loving devotion from my household—not even when the LORD cuts off every one of David’s enemies from the face of the earth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3772I\|תַכְרִ֧ת]] [[H0853\|אֶֽת]][[H9014\|־]] [[H2617A\|חַסְדְּ]][[H9021\|ךָ֛]] [[H9006\|מֵ]][[H5973B\|עִ֥ם]] [[H1004M\|בֵּיתִ֖]][[H9020\|י]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָ֑ם]] [[H9002\|וְ]][[H3808\|לֹ֗א]] [[H9003\|בְּ]][[H3772I\|הַכְרִ֤ת]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אֹיְבֵ֣י]] [[H1732\|דָוִ֔ד]] [[H0376I\|אִ֕ישׁ]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127I\|אֲדָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.14|<< 1 Samuel 20:14]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.16|1 Samuel 20:16 >>]]</td></tr></table>
 

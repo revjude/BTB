@@ -1,9 +1,62 @@
+---
+title: LXX Ruth 3:1
+type: Verse
+lxx: "And she stayed with  her mother-in-law. And Naomi her mother-in-law said to her, O daughter, In no way shall I seek rest for you, that a good thing should happen to you."
+greek: "και εκάθισε μετά της πενθεράς αυτής και είπε αυτή Νοομί η πενθερά αυτής θύγατερ ου μη ζητήσω σοι ανάπαυσιν ίνα ευ γένηταί σοι"
+original_language: Greek
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- septuagint
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G3994]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[H5281]]"
+- "[[G3588]]"
+- "[[G3994]]"
+- "[[G1473]]"
+- "[[G2364]]"
+- "[[G3364]]"
+- "[[G2212]]"
+- "[[G1473]]"
+- "[[G0372]]"
+- "[[G2443]]"
+- "[[G2095]]"
+- "[[G1096]]"
+- "[[G1473]]"
+---
+
 **LXX Ruth 3:1** 
 
 ***Naomi Instructs Ruth***
 
 <small><sub>**LXX:**</sub></small>
 And she stayed with  her mother-in-law. And Naomi her mother-in-law said to her, O daughter, In no way shall I seek rest for you, that a good \[thing\] should happen to you. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2523\|εκάθισε]] [[G3326\|μετά]] [[G3588\|της]] [[G3994\|πενθεράς]] [[G1473\|αυτής]] [[G2532\|και]] [[G2036\|είπε]] [[G1473\|αυτή]] [[H5281\|Νοομί]] [[G3588\|η]] [[G3994\|πενθερά]] [[G1473\|αυτής]] [[G2364\|θύγατερ]] [[G3364\|ου μη]] [[G2212\|ζητήσω]] [[G1473\|σοι]] [[G0372\|ανάπαυσιν]] [[G2443\|ίνα]] [[G2095\|ευ]] [[G1096\|γένηταί]] [[G1473\|σοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic RUTH|RUTH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ruth.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.23|<< Ruth 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.2|Ruth 3:2 >>]]</td></tr></table>
 
@@ -29,6 +82,6 @@ And she stayed with  her mother-in-law. And Naomi her mother-in-law said to her,
 | a good \[thing\] | **<big>[[G2095\|ευ]]</big>** |
 | should happen | **<big>[[G1096\|γένηταί]]</big>** |
 | to you. | **<big>[[G1473\|σοι]]</big>** |
-[[Ruth.3.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.23|<< Ruth 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.2|Ruth 3:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ruth.2.23|<< Ruth 2:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ruth.3.2|Ruth 3:2 >>]]</td></tr></table>
 
 

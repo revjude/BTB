@@ -1,10 +1,65 @@
+---
+title: Acts 21:39
+type: Verse
+kjv: "But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people."
+bsb: "But Paul answered, “I am a Jew from Tarsus in Cilicia, a citizen of no ordinary city. Now I beg you to allow me to speak to the people.”"
+greek: "Εἶπεν δὲ ὁ Παῦλος· ἐγὼ ἄνθρωπος μέν εἰμι Ἰουδαῖος Ταρσεὺς τῆς Κιλικίας οὐκ ἀσήμου πόλεως πολίτης, δέομαι δέ σου· ἐπίτρεψόν μοι λαλῆσαι πρὸς τὸν λαόν."
+pericope: "[[Acts.21.37 Paul Addresses the Crowd|Paul Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TARSUS|TARSUS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1473]]"
+- "[[G0444]]"
+- "[[G3303]]"
+- "[[G1510]]"
+- "[[G2453]]"
+- "[[G5018]]"
+- "[[G2791]]"
+- "[[G3756]]"
+- "[[G0767]]"
+- "[[G4172]]"
+- "[[G4177]]"
+- "[[G1189]]"
+- "[[G4771]]"
+- "[[G2010]]"
+- "[[G3165]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G2992]]"
+texts:
+- NKO
+---
+
 **Acts 21:39**<big><big>[[Acts.21.37 Paul Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Paul said, I am a man [which am] a Jew of Tarsus, [a city] in Cilicia, a citizen of no mean city: and, I beseech thee, suffer me to speak unto the people.
 <small><sub>**BSB:**</sub></small>
 But Paul answered, “I am a Jew from Tarsus in Cilicia, a citizen of no ordinary city. Now I beg you to allow me to speak to the people.”
-<small><sub>**Literal:**</sub></small>
-Said however <the> Paul; I myself a man indeed am a Jew of Tarsus <the> of Cilicia not [of an] insignificant city a citizen, I implore however you; do allow me to speak to the people.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.38|<< Acts 21:38]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.40|Acts 21:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος·]]  [[G1473\|ἐγὼ]]  [[G0444\|ἄνθρωπος]]  [[G3303\|μέν]]  [[G1510\|εἰμι]]  [[G2453\|Ἰουδαῖος]]  [[G5018\|Ταρσεὺς]]  [[G3588\|τῆς]]  [[G2791\|Κιλικίας]]  [[G3756\|οὐκ]]  [[G0767\|ἀσήμου]]  [[G4172\|πόλεως]]  [[G4177\|πολίτης,]]  [[G1189\|δέομαι]]  [[G1161\|δέ]]  [[G4771\|σου·]]  [[G2010\|ἐπίτρεψόν]]  [[G3165\|μοι]]  [[G2980\|λαλῆσαι]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2992\|λαόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic TARSUS|TARSUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.38|<< Acts 21:38]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.40|Acts 21:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

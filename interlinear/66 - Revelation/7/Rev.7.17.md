@@ -1,10 +1,75 @@
+---
+title: Revelation 7:17
+type: Verse
+kjv: "For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes."
+bsb: "For the Lamb in the center of the throne will be their shepherd. ‘He will lead them to springs of living water,’ and ‘God will wipe away every tear from their eyes.’”"
+greek: "ὅτι τὸ ἀρνίον τὸ ἀνὰ μέσον τοῦ θρόνου ποιμανεῖ αὐτοὺς καὶ ὁδηγήσει αὐτοὺς ἐπὶ ζωῆς πηγὰς ὑδάτων, καὶ ἐξαλείψει ὁ θεὸς πᾶν δάκρυον ἐκ τῶν ὀφθαλμῶν αὐτῶν.¶"
+pericope: "[[Rev.7.9 Praise from the Great Multitude|Praise from the Great Multitude]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic FOUNTAIN|FOUNTAIN]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEARS|TEARS]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G0721]]"
+- "[[G0303]]"
+- "[[G3319]]"
+- "[[G2362]]"
+- "[[G4165]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3594]]"
+- "[[G1909]]"
+- "[[G2222]]"
+- "[[G4077]]"
+- "[[G5204]]"
+- "[[G1813]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G1144]]"
+- "[[G1537]]"
+- "[[G3788]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Revelation 7:17**<big><big>[[Rev.7.9 Praise from the Great Multitude|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters: and God shall wipe away all tears from their eyes.
 <small><sub>**BSB:**</sub></small>
 For the Lamb in the center of the throne will be their shepherd. ‘He will lead them to springs of living water,’ and ‘God will wipe away every tear from their eyes.’”
-<small><sub>**Literal:**</sub></small>
-because the Lamb <the> in the center of the throne will shepherd them and He will lead them to of life fountains of waters, and will wipe away <the> God every tear from the eyes of them.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.16|<< Revelation 7:16]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.1|Revelation 8:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3588\|τὸ]]  [[G0721\|ἀρνίον]]  [[G3588\|τὸ]]  [[G0303\|ἀνὰ]]  [[G3319\|μέσον]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G4165\|ποιμανεῖ]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G3594\|ὁδηγήσει]]  [[G0846\|αὐτοὺς]]  [[G1909\|ἐπὶ]]  [[G2222\|ζωῆς]]  [[G4077\|πηγὰς]]  [[G5204\|ὑδάτων,]]  [[G2532\|καὶ]]  [[G1813\|ἐξαλείψει]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3956\|πᾶν]]  [[G1144\|δάκρυον]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3788\|ὀφθαλμῶν]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic FOUNTAIN|FOUNTAIN]] • [[topic HEAVEN|HEAVEN]] • [[topic HUNGER|HUNGER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEARS|TEARS]] • [[topic THRONE|THRONE]] • [[topic WEEPING|WEEPING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.16|<< Revelation 7:16]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.1|Revelation 8:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 7:17** is...
 > $\quad$ referencing: [[LXX.Isa.25.8|Isa 25:8]]

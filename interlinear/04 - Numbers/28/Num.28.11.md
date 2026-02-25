@@ -1,8 +1,70 @@
+---
+title: Numbers 28:11
+type: Verse
+kjv: "And in the beginnings of your months ye shall offer a burnt offering unto the LORD; two young bullocks, and one ram, seven lambs of the first year without spot;"
+bsb: "At the beginning of every month, you are to present to the LORD a burnt offering of two young bulls, one ram, and seven male lambs a year old, all unblemished,"
+hebrew: "וּבְרָאשֵׁי֙ חָדְשֵׁיכֶ֔ם תַּקְרִ֥יבוּ עֹלָ֖ה לַיהוָ֑ה פָּרִ֨ים בְּנֵֽי־ בָקָ֤ר שְׁנַ֙יִם֙ וְאַ֣יִל אֶחָ֔ד כְּבָשִׂ֧ים בְּנֵי־ שָׁנָ֛ה שִׁבְעָ֖ה תְּמִימִֽם׃"
+pericope: "[[Num.28.11 The Monthly Offerings|The Monthly Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic MOON|MOON]]"
+- "[[topic NEW MOON|NEW MOON]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7218J]]"
+- "[[H2320G]]"
+- "[[H9026]]"
+- "[[H7126H]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1241]]"
+- "[[H8147]]"
+- "[[H0352A]]"
+- "[[H0259]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H7651]]"
+- "[[H8549G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:11**<big><big>[[Num.28.11 The Monthly Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the beginnings of your months ye shall offer a burnt offering unto the LORD; two young bullocks, and one ram, seven lambs of the first year without spot;
 <small><sub>**BSB:**</sub></small>
 At the beginning of every month, you are to present to the LORD a burnt offering of two young bulls, one ram, and seven male lambs a year old, all unblemished,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H7218J\|רָאשֵׁי֙]] [[H2320G\|חָדְשֵׁי]][[H9026\|כֶ֔ם]] [[H7126H\|תַּקְרִ֥יבוּ]] [[H5930A\|עֹלָ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H6499\|פָּרִ֨ים]] [[H1121H\|בְּנֵֽי]][[H9014\|־]] [[H1241\|בָקָ֤ר]] [[H8147\|שְׁנַ֙יִם֙]] [[H9002\|וְ]][[H0352A\|אַ֣יִל]] [[H0259\|אֶחָ֔ד]] [[H3532\|כְּבָשִׂ֧ים]] [[H1121L\|בְּנֵי]][[H9014\|־]] [[H8141\|שָׁנָ֛ה]] [[H7651\|שִׁבְעָ֖ה]] [[H8549G\|תְּמִימִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic MOON|MOON]] • [[topic NEW MOON|NEW MOON]] • [[topic OFFERINGS|OFFERINGS]] • [[topic YEAR|YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.10|<< Numbers 28:10]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.12|Numbers 28:12 >>]]</td></tr></table>
 

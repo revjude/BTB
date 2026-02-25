@@ -1,8 +1,61 @@
+---
+title: Psalm 22:16
+type: Verse
+kjv: "For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet."
+bsb: "For dogs surround me; a band of evil men encircles me; they have pierced my hands and feet."
+hebrew: "כִּ֥י סְבָב֗וּנִי כְּלָ֫בִ֥ים עֲדַ֣ת מְ֭רֵעִים הִקִּיפ֑וּנִי כָּ֝אֲרִ֗י יָדַ֥י וְרַגְלָֽי׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5437H]]"
+- "[[H9030]]"
+- "[[H3611]]"
+- "[[H5712]]"
+- "[[H7489A]]"
+- "[[H5362B]]"
+- "[[H3738A]]"
+- "[[H9004]]"
+- "[[H0738B]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+- L(D)
+---
+
 **Psalms 22:16**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
 <small><sub>**BSB:**</sub></small>
 For dogs surround me; a band of evil men encircles me; they have pierced my hands and feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H5437H\|סְבָב֗וּ]][[H9030\|נִי]] [[H3611\|כְּלָ֫בִ֥ים]] [[H5712\|עֲדַ֣ת]] [[H7489A\|מְ֭רֵעִים]] [[H5362B\|הִקִּיפ֑וּ]][[H9030\|נִי]] [[H9004\|כָּ֝]][[H0738B\|אֲרִ֗י]] [[H3027G\|יָדַ֥]][[H9020\|י]] [[H9002\|וְ]][[H7272\|רַגְלָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.15|<< Psalms 22:15]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.17|Psalms 22:17 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

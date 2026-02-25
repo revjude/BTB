@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Living Hope
+type: Pericope
 pericope: "[[1Pet.1.3 A Living Hope|A Living Hope]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 1
 book/chapter: "[[1Pet.1|1 Peter 1]]"
-genre:
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 10
 verses:
 - "[[1Pet.1.3]]"
 - "[[1Pet.1.4]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Pet.1.12]]"
 ---
 
-[[1Pet.1|1 Peter 1:3 - 1 Peter 1:12]]
+<small>[[1Pet.1|1 Peter 1:3-12]]</small>
 *A Living Hope*
 
 [[1Pet.1.3|3]] Blessed \[be\] the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,

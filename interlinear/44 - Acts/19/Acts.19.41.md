@@ -1,10 +1,48 @@
+---
+title: Acts 19:41
+type: Verse
+kjv: "And when he had thus spoken, he dismissed the assembly."
+bsb: "After he had said this, he dismissed the assembly."
+greek: "καὶ ταῦτα εἰπὼν ἀπέλυσεν τὴν ἐκκλησίαν.¶"
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G0630G]]"
+- "[[G3588]]"
+- "[[G1577]]"
+texts:
+- NKO
+---
+
 **Acts 19:41**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had thus spoken, he dismissed the assembly.
 <small><sub>**BSB:**</sub></small>
 After he had said this, he dismissed the assembly.
-<small><sub>**Literal:**</sub></small>
-And these things having said he dismissed the assembly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.40|<< Acts 19:40]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.1|Acts 20:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G2036\|εἰπὼν]]  [[G0630G\|ἀπέλυσεν]]  [[G3588\|τὴν]]  [[G1577\|ἐκκλησίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.40|<< Acts 19:40]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.1|Acts 20:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

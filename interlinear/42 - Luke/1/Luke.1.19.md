@@ -1,10 +1,67 @@
+---
+title: Luke 1:19
+type: Verse
+kjv: "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings."
+bsb: "“I am Gabriel,” replied the angel. “I stand in the presence of God, and I have been sent to speak to you and to bring you this good news."
+greek: "Καὶ ἀποκριθεὶς ὁ ἄγγελος εἶπεν αὐτῷ· ἐγώ εἰμι Γαβριὴλ ὁ παρεστηκὼς ἐνώπιον τοῦ θεοῦ καὶ ἀπεστάλην λαλῆσαι πρὸς σὲ καὶ εὐαγγελίσασθαί σοι ταῦτα."
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic GABRIEL|GABRIEL]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JOY|JOY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1043]]"
+- "[[G3936]]"
+- "[[G1799]]"
+- "[[G2316]]"
+- "[[G0649]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2097]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Luke 1:19**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings.
 <small><sub>**BSB:**</sub></small>
 “I am Gabriel,” replied the angel. “I stand in the presence of God, and I have been sent to speak to you and to bring you this good news.
-<small><sub>**Literal:**</sub></small>
-And answering the angel said to him; I myself am Gabriel the [one] standing before <the> God and I was sent to speak to you and to bring glad tidings to you these.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.18|<< Luke 1:18]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.20|Luke 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G1043\|Γαβριὴλ]]  [[G3588\|ὁ]]  [[G3936\|παρεστηκὼς]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G0649\|ἀπεστάλην]]  [[G2980\|λαλῆσαι]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G2532\|καὶ]]  [[G2097\|εὐαγγελίσασθαί]]  [[G4771\|σοι]]  [[G3778\|ταῦτα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BARRENNESS|BARRENNESS]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic GABRIEL|GABRIEL]] • [[topic JOHN|JOHN]] • [[topic JOY|JOY]] • [[topic TEMPLE|TEMPLE]] • [[topic VISION|VISION]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.18|<< Luke 1:18]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.20|Luke 1:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

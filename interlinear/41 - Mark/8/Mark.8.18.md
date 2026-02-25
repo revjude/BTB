@@ -1,10 +1,50 @@
+---
+title: Mark 8:18
+type: Verse
+kjv: "Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?"
+bsb: "‘Having eyes, do you not see? And having ears, do you not hear?’ And do you not remember?"
+jesus_said: "Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?"
+greek: "ὀφθαλμοὺς ἔχοντες οὐ βλέπετε, καὶ ὦτα ἔχοντες οὐκ ἀκούετε; καὶ οὐ μνημονεύετε;"
+pericope: "[[Mark.8.14 The Leaven of the Pharisees and of Herod|The Leaven of the Pharisees and of Herod]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3788]]"
+- "[[G2192]]"
+- "[[G3756]]"
+- "[[G0991]]"
+- "[[G2532]]"
+- "[[G3775]]"
+- "[[G0191]]"
+- "[[G3421]]"
+texts:
+- NKO
+---
+
 **Mark 8:18**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having eyes, see ye not? and having ears, hear ye not? and do ye not remember?
 <small><sub>**BSB:**</sub></small>
 ‘Having eyes, do you not see? And having ears, do you not hear?’ And do you not remember?
-<small><sub>**Literal:**</sub></small>
-Eyes having not do you see? And ears having not do you hear? And not do you remember?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.17|<< Mark 8:17]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.19|Mark 8:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3788\|ὀφθαλμοὺς]]  [[G2192\|ἔχοντες]]  [[G3756\|οὐ]]  [[G0991\|βλέπετε,]]  [[G2532\|καὶ]]  [[G3775\|ὦτα]]  [[G2192\|ἔχοντες]]  [[G3756\|οὐκ]]  [[G0191\|ἀκούετε;]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G3421\|μνημονεύετε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.17|<< Mark 8:17]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.19|Mark 8:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 8:18** is...
 > $\quad$ referencing: [[LXX.Jer.5.21|Jer 5:21]]

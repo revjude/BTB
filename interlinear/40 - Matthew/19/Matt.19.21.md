@@ -1,10 +1,81 @@
+---
+title: Matthew 19:21
+type: Verse
+kjv: "Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me."
+bsb: "Jesus told him, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow Me.”"
+jesus_said: "If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me."
+greek: "Ἔφη αὐτῷ ὁ Ἰησοῦς· εἰ θέλεις τέλειος εἶναι, ὕπαγε πώλησόν σου τὰ ὑπάρχοντα καὶ δὸς τοῖς πτωχοῖς· καὶ ἕξεις θησαυρὸν ἐν οὐρανοῖς, καὶ δεῦρο ἀκολούθει μοι.¶"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic TREASURE|TREASURE]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G5346]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1487G]]"
+- "[[G2309]]"
+- "[[G5046]]"
+- "[[G1511]]"
+- "[[G5217]]"
+- "[[G4453]]"
+- "[[G4771]]"
+- "[[G5225]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G4434]]"
+- "[[G2192]]"
+- "[[G2344]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G1204]]"
+- "[[G0190]]"
+- "[[G3165]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Matthew 19:21**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus said unto him, If thou wilt be perfect, go [and] sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come [and] follow me.
 <small><sub>**BSB:**</sub></small>
 Jesus told him, “If you want to be perfect, go, sell your possessions and give to the poor, and you will have treasure in heaven. Then come, follow Me.”
-<small><sub>**Literal:**</sub></small>
-Was saying to him <the> Jesus; If you desire perfect to be, do go do sell of you <the> possessions and do give to the poor; and you will have treasure in [the] heavens, and come do follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.20|<< Matthew 19:20]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.22|Matthew 19:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5346\|Ἔφη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1487G\|εἰ]]  [[G2309\|θέλεις]]  [[G5046\|τέλειος]]  [[G1511\|εἶναι,]]  [[G5217\|ὕπαγε]]  [[G4453\|πώλησόν]]  [[G4771\|σου]]  [[G3588\|τὰ]]  [[G5225\|ὑπάρχοντα]]  [[G2532\|καὶ]]  [[G1325\|δὸς]]  [[G3588\|τοῖς]]  [[G4434\|πτωχοῖς·]]  [[G2532\|καὶ]]  [[G2192\|ἕξεις]]  [[G2344\|θησαυρὸν]]  [[G1722\|ἐν]]  [[G3772\|οὐρανοῖς,]]  [[G2532\|καὶ]]  [[G1204\|δεῦρο]]  [[G0190\|ἀκολούθει]]  [[G3165\|μοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LIFE|LIFE]] • [[topic PERFECTION|PERFECTION]] • [[topic POOR|POOR]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic TREASURE|TREASURE]] • [[topic WORKS|WORKS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.20|<< Matthew 19:20]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.22|Matthew 19:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

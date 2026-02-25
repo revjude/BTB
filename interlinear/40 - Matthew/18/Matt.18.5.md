@@ -1,10 +1,59 @@
+---
+title: Matthew 18:5
+type: Verse
+kjv: "And whoso shall receive one such little child in my name receiveth me."
+bsb: "And whoever welcomes a little child like this in My name welcomes Me."
+jesus_said: "And whoso shall receive one such little child in my name receiveth me."
+greek: "καὶ ὃς ἐὰν δέξηται ἓν παιδίον τοιοῦτο ἐπὶ τῷ ὀνόματί μου, ἐμὲ δέχεται."
+pericope: "[[Matt.18.1 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BABES|BABES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G1209]]"
+- "[[G1520]]"
+- "[[G3813]]"
+- "[[G5108]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3165]]"
+- "[[G1473]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Matthew 18:5**<big><big>[[Matt.18.1 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whoso shall receive one such little child in my name receiveth me.
 <small><sub>**BSB:**</sub></small>
 And whoever welcomes a little child like this in My name welcomes Me.
-<small><sub>**Literal:**</sub></small>
-And who[ever] if shall receive one little child such in the name of Me, Me myself receives.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.4|<< Matthew 18:4]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.6|Matthew 18:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3739\|ὃς]]  [[G1437\|ἐὰν]]  [[G1209\|δέξηται]]  [[G1520\|ἓν]]  [[G3813\|παιδίον]]  [[G5108\|τοιοῦτο]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G3165\|μου,]]  [[G1473\|ἐμὲ]]  [[G1209\|δέχεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABES|BABES]] • [[topic CHILDREN|CHILDREN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.4|<< Matthew 18:4]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.6|Matthew 18:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

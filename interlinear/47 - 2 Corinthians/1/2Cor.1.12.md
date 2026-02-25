@@ -1,10 +1,75 @@
+---
+title: 2 Corinthians 1:12
+type: Verse
+kjv: "For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward."
+bsb: "For this is our boast: Our conscience testifies that we have conducted ourselves in the world, and especially in relation to you, in the holiness and sincerity that are from God—not in worldly wisdom, but in the grace of God."
+greek: "ἡ γὰρ καύχησις ἡμῶν αὕτη ἐστίν, τὸ μαρτύριον τῆς συνειδήσεως ἡμῶν, ὅτι ἐν ἁπλότητι καὶ εἰλικρινείᾳ τοῦ θεοῦ, καὶ οὐκ ἐν σοφίᾳ σαρκικῇ ἀλλ᾽ ἐν χάριτι θεοῦ ἀνεστράφημεν ἐν τῷ κόσμῳ, περισσοτέρως δὲ πρὸς ὑμᾶς."
+pericope: "[[2Cor.1.12 Paul’s Change of Plans|Paul’s Change of Plans]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JOY|JOY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2746]]"
+- "[[G3165]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3142]]"
+- "[[G4893]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G0572]]"
+- "[[G2532]]"
+- "[[G1505]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G4678]]"
+- "[[G4559]]"
+- "[[G0235]]"
+- "[[G5485]]"
+- "[[G0390]]"
+- "[[G2889]]"
+- "[[G4056]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G4771]]"
+texts:
+- NKO
+- NK(O)
+- no
+---
+
 **2 Corinthians 1:12**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.
 <small><sub>**BSB:**</sub></small>
 For this is our boast: Our conscience testifies that we have conducted ourselves in the world, and especially in relation to you, in the holiness and sincerity that are from God—not in worldly wisdom, but in the grace of God.
-<small><sub>**Literal:**</sub></small>
-<the> For boasting of us this is, the testimony of the conscience of us, that in openness and sincerity <the> of God, and not in wisdom fleshly but in [the] grace of God we have conducted ourselves in the world, more abundantly now toward you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.11|<< 2 Corinthians 1:11]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.13|2 Corinthians 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G2746\|καύχησις]]  [[G3165\|ἡμῶν]]  [[G3778\|αὕτη]]  [[G1510\|ἐστίν,]]  [[G3588\|τὸ]]  [[G3142\|μαρτύριον]]  [[G3588\|τῆς]]  [[G4893\|συνειδήσεως]]  [[G3165\|ἡμῶν,]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G0572\|ἁπλότητι]]  [[G2532\|καὶ]]  [[G1505\|εἰλικρινείᾳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1722\|ἐν]]  [[G4678\|σοφίᾳ]]  [[G4559\|σαρκικῇ]]  [[G0235\|ἀλλ᾽]]  [[G1722\|ἐν]]  [[G5485\|χάριτι]]  [[G2316\|θεοῦ]]  [[G0390\|ἀνεστράφημεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ,]]  [[G4056\|περισσοτέρως]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JOY|JOY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SINCERITY|SINCERITY]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.11|<< 2 Corinthians 1:11]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.13|2 Corinthians 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

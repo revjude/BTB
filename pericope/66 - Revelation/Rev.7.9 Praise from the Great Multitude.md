@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Praise from the Great Multitude
+type: Pericope
 pericope: "[[Rev.7.9 Praise from the Great Multitude|Praise from the Great Multitude]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 7
 book/chapter: "[[Rev.7|Revelation 7]]"
-genre:
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 9
 verses:
 - "[[Rev.7.9]]"
 - "[[Rev.7.10]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Rev.7.17]]"
 ---
 
-[[Rev.7|Revelation 7:9 - Revelation 7:17]]
+<small>[[Rev.7|Revelation 7:9-17]]</small>
 *Praise from the Great Multitude*
 
 [[Rev.7.9|9]] After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues, stood before the throne, and before the Lamb, clothed with white robes, and palms in their hands;

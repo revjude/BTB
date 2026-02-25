@@ -1,8 +1,63 @@
+---
+title: Ezekiel 36:2
+type: Verse
+kjv: "Thus saith the Lord GOD; Because the enemy hath said against you, Aha, even the ancient high places are ours in possession:"
+bsb: "This is what the Lord GOD says: Because the enemy has said of you, ‘Aha! The ancient heights have become our possession,’"
+hebrew: "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה יַ֣עַן אָמַ֧ר הָאוֹיֵ֛ב עֲלֵיכֶ֖ם הֶאָ֑ח וּבָמ֣וֹת עוֹלָ֔ם לְמֽוֹרָשָׁ֖ה הָ֥יְתָה לָּֽנוּ׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H9009]]"
+- "[[H0341]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H1889]]"
+- "[[H9002]]"
+- "[[H1116]]"
+- "[[H5769J]]"
+- "[[H9005]]"
+- "[[H4181]]"
+- "[[H1961]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:2**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; Because the enemy hath said against you, Aha, even the ancient high places are ours in possession:
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: Because the enemy has said of you, ‘Aha! The ancient heights have become our possession,’
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H3282\|יַ֣עַן]] [[H0559\|אָמַ֧ר]] [[H9009\|הָ]][[H0341\|אוֹיֵ֛ב]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֖ם]] [[H1889\|הֶאָ֑ח]] [[H9002\|וּ]][[H1116\|בָמ֣וֹת]] [[H5769J\|עוֹלָ֔ם]] [[H9005\|לְ]][[H4181\|מֽוֹרָשָׁ֖ה]] [[H1961\|הָ֥יְתָה]] [[H9005\|לָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.1|<< Ezekiel 36:1]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.3|Ezekiel 36:3 >>]]</td></tr></table>
 

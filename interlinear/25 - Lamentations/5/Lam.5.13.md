@@ -1,8 +1,52 @@
+---
+title: Lamentations 5:13
+type: Verse
+kjv: "They took the young men to grind, and the children fell under the wood."
+bsb: "Young men toil at millstones; boys stagger under loads of wood."
+hebrew: "בַּחוּרִים֙ טְח֣וֹן נָשָׂ֔אוּ וּנְעָרִ֖ים בָּעֵ֥ץ כָּשָֽׁלוּ׃"
+pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 5
+book/chapter: "[[Lam.5|Lamentations 5]]"
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic MILL|MILL]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H0970]]"
+- "[[H2911]]"
+- "[[H5375G]]"
+- "[[H9002]]"
+- "[[H5288]]"
+- "[[H9003]]"
+- "[[H6086G]]"
+- "[[H3782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 5:13**<big><big>[[Lam.5.1 A Prayer for Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They took the young men to grind, and the children fell under the wood.
 <small><sub>**BSB:**</sub></small>
 Young men toil at millstones; boys stagger under loads of wood.
+<small><sub>**Hebrew:**</sub></small>
+[[H0970\|בַּחוּרִים֙]] [[H2911\|טְח֣וֹן]] [[H5375G\|נָשָׂ֔אוּ]] [[H9002\|וּ]][[H5288\|נְעָרִ֖ים]] [[H9003\|בָּ]][[H6086G\|עֵ֥ץ]] [[H3782\|כָּשָֽׁלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic MILL|MILL]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.5.12|<< Lamentations 5:12]]</td><td align="center" style="border:none;">[[Lam.5|Lamentations 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.5.14|Lamentations 5:14 >>]]</td></tr></table>
 

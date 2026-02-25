@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The House on the Rock
+type: Pericope
 pericope: "[[Matt.7.24 The House on the Rock|The House on the Rock]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 7
 book/chapter: "[[Matt.7|Matthew 7]]"
-genre:
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.7.24]]"
 - "[[Matt.7.25]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.7.27]]"
 ---
 
-[[Matt.7|Matthew 7:24 - Matthew 7:27]]
+<small>[[Matt.7|Matthew 7:24-27]]</small>
 *The House on the Rock*
 
 [[Matt.7.24|24]] Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:

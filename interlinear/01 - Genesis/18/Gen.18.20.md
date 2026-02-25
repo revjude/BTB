@@ -1,8 +1,64 @@
+---
+title: Genesis 18:20
+type: Verse
+kjv: "And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous;"
+bsb: "Then the LORD said, “The outcry against Sodom and Gomorrah is great. Because their sin is so grievous,"
+hebrew: "וַיֹּ֣אמֶר יְהוָ֔ה זַעֲקַ֛ת סְדֹ֥ם וַעֲמֹרָ֖ה כִּי־ רָ֑בָּה וְחַ֨טָּאתָ֔ם כִּ֥י כָבְדָ֖ה מְאֹֽד׃"
+pericope: "[[Gen.18.16 Abraham Intercedes for Sodom|Abraham Intercedes for Sodom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 18
+book/chapter: "[[Gen.18|Genesis 18]]"
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2201]]"
+- "[[H5467]]"
+- "[[H9002]]"
+- "[[H6017]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7231]]"
+- "[[H2403B]]"
+- "[[H9028]]"
+- "[[H3513H]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 18:20**<big><big>[[Gen.18.16 Abraham Intercedes for Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous;
 <small><sub>**BSB:**</sub></small>
 Then the LORD said, “The outcry against Sodom and Gomorrah is great. Because their sin is so grievous,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֔ה]] [[H2201\|זַעֲקַ֛ת]] [[H5467\|סְדֹ֥ם]] [[H9002\|וַ]][[H6017\|עֲמֹרָ֖ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H7231\|רָ֑בָּה]] [[H9002\|וְ]][[H2403B\|חַ֨טָּאתָ֔]][[H9028\|ם]] [[H3588A\|כִּ֥י]] [[H3513H\|כָבְדָ֖ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic GOMORRAH|GOMORRAH]] • [[topic SIN|SIN]] • [[topic SODOM|SODOM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.18.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.18.19|<< Genesis 18:19]]</td><td align="center" style="border:none;">[[Gen.18|Genesis 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.18.21|Genesis 18:21 >>]]</td></tr></table>
 

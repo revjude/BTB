@@ -1,8 +1,65 @@
+---
+title: Isaiah 32:15
+type: Verse
+kjv: "Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest."
+bsb: "until the Spirit is poured out upon us from on high. Then the desert will be an orchard, and the orchard will seem like a forest."
+hebrew: "עַד־ יֵ֨עָרֶ֥ה עָלֵ֛ינוּ ר֖וּחַ מִמָּר֑וֹם וְהָיָ֤ה מִדְבָּר֙ לַכַּרְמֶ֔ל וְהַכַּרְמֶ֖ל לַיַּ֥עַר יֵחָשֵֽׁב׃"
+pericope: "[[Isa.32.9 The Women of Jerusalem|The Women of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H6168]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H7307G]]"
+- "[[H9006]]"
+- "[[H4791]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4057B]]"
+- "[[H9005]]"
+- "[[H3759]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3293A]]"
+- "[[H2803J]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 32:15**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until the spirit be poured upon us from on high, and the wilderness be a fruitful field, and the fruitful field be counted for a forest.
 <small><sub>**BSB:**</sub></small>
 until the Spirit is poured out upon us from on high. Then the desert will be an orchard, and the orchard will seem like a forest.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H6168\|יֵ֨עָרֶ֥ה]] [[H5921A\|עָלֵ֛י]][[H9035\|נוּ]] [[H7307G\|ר֖וּחַ]] [[H9006\|מִ]][[H4791\|מָּר֑וֹם]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H4057B\|מִדְבָּר֙]] [[H9005\|לַ]][[H3759\|כַּרְמֶ֔ל]] [[H9002\|וְ]][[H9009\|הַ]][[H3759\|כַּרְמֶ֖ל]] [[H9005\|לַ]][[H3293A\|יַּ֥עַר]] [[H2803J\|יֵחָשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REGENERATION|REGENERATION]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.14|<< Isaiah 32:14]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.16|Isaiah 32:16 >>]]</td></tr></table>
 
@@ -21,8 +78,8 @@ until the Spirit is poured out upon us from on high. Then the desert will be an 
 | it will be considered  |**<big>&#8207;[[H2803J\|יֵחָשֵֽׁב]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ye.cha.Shev<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.14|<< Isaiah 32:14]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.16|Isaiah 32:16 >>]]</td></tr></table>
 
-[^1]: and an orchard  | **<big>[[H3759|כַרְמֶל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> | K
-[^2]: and an orchard  | **<big>[[H3759|כַרְמֶל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> | K
-[^3]: and an orchard  | **<big>[[H3759|כַרְמֶל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> | K
+[^1]: and an orchard  | **<big>[[H9002|וְ]]</big><big>[[H3759|כַרְמֶל]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> | K
+[^2]: and an orchard  | **<big>[[H9002|וְ]]</big><big>[[H3759|כַרְמֶל]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> | K
+[^3]: and an orchard  | **<big>[[H9002|וְ]]</big><big>[[H3759|כַרְמֶל]]</big> ** | ve.<small><sup>[[HC]]</sup></small> khar.mel<small><sup>[[HNcbsa]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וְַכַּרְמֶ֖ל</big></span>**
 

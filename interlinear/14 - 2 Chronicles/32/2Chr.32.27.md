@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 32:27
+type: Verse
+kjv: "And Hezekiah had exceeding much riches and honour: and he made himself treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all manner of pleasant jewels;"
+bsb: "Hezekiah had very great riches and honor, and he made treasuries for his silver, gold, precious stones, spices, shields, and all kinds of valuable articles."
+hebrew: "וַיְהִ֧י לִֽיחִזְקִיָּ֛הוּ עֹ֥שֶׁר וְכָב֖וֹד הַרְבֵּ֣ה מְאֹ֑ד וְאֹֽצָר֣וֹת עָֽשָׂה־ ל֠וֹ לְכֶ֨סֶף וּלְזָהָ֜ב וּלְאֶ֣בֶן יְקָרָ֗ה וְלִבְשָׂמִים֙ וּלְמָ֣גִנִּ֔ים וּלְכֹ֖ל כְּלֵ֥י חֶמְדָּֽה׃"
+pericope: "[[2Chr.32.24 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H2396G]]"
+- "[[H6239]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H7235A]]"
+- "[[H3966]]"
+- "[[H0214]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H0068G]]"
+- "[[H3368]]"
+- "[[H1314]]"
+- "[[H4043]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H2532A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:27**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah had exceeding much riches and honour: and he made himself treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all manner of pleasant jewels;
 <small><sub>**BSB:**</sub></small>
 Hezekiah had very great riches and honor, and he made treasuries for his silver, gold, precious stones, spices, shields, and all kinds of valuable articles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֧י]] [[H9005\|לִֽ]][[H2396G\|יחִזְקִיָּ֛הוּ]] [[H6239\|עֹ֥שֶׁר]] [[H9002\|וְ]][[H3519\|כָב֖וֹד]] [[H7235A\|הַרְבֵּ֣ה]] [[H3966\|מְאֹ֑ד]] [[H9002\|וְ]][[H0214\|אֹֽצָר֣וֹת]] [[H6213H\|עָֽשָׂה]][[H9014\|־]] [[H9005\|ל֠]][[H9033\|וֹ]] [[H9005\|לְ]][[H3701G\|כֶ֨סֶף]] [[H9002\|וּ]][[H9005\|לְ]][[H2091\|זָהָ֜ב]] [[H9002\|וּ]][[H9005\|לְ]][[H0068G\|אֶ֣בֶן]] [[H3368\|יְקָרָ֗ה]] [[H9002\|וְ]][[H9005\|לִ]][[H1314\|בְשָׂמִים֙]] [[H9002\|וּ]][[H9005\|לְ]][[H4043\|מָ֣גִנִּ֔ים]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H3627\|כְּלֵ֥י]] [[H2532A\|חֶמְדָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic SHIELD|SHIELD]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.26|<< 2 Chronicles 32:26]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.28|2 Chronicles 32:28 >>]]</td></tr></table>
 

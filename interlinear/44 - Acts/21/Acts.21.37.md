@@ -1,10 +1,64 @@
+---
+title: Acts 21:37
+type: Verse
+kjv: "And as Paul was to be led into the castle, he said unto the chief captain, May I speak unto thee? Who said, Canst thou speak Greek?"
+bsb: "As they were about to take Paul into the barracks, he asked the commander, “May I say something to you?” “Do you speak Greek?” he replied."
+greek: "μέλλων τε εἰσάγεσθαι εἰς τὴν παρεμβολὴν ὁ Παῦλος λέγει τῷ χιλιάρχῳ· εἰ ἔξεστίν μοι εἰπεῖν τι πρὸς σέ; ὁ δὲ ἔφη· ἑλληνιστὶ γινώσκεις;"
+pericope: "[[Acts.21.37 Paul Addresses the Crowd|Paul Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CASTLE|CASTLE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G3195]]"
+- "[[G5037]]"
+- "[[G1521]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3925]]"
+- "[[G3972G]]"
+- "[[G3004G]]"
+- "[[G5506]]"
+- "[[G1487I]]"
+- "[[G1832]]"
+- "[[G3165]]"
+- "[[G2036]]"
+- "[[G5100]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G5346]]"
+- "[[G1676]]"
+- "[[G1097]]"
+texts:
+- NKO
+---
+
 **Acts 21:37**<big><big>[[Acts.21.37 Paul Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as Paul was to be led into the castle, he said unto the chief captain, May I speak unto thee? Who said, Canst thou speak Greek?
 <small><sub>**BSB:**</sub></small>
 As they were about to take Paul into the barracks, he asked the commander, “May I say something to you?” “Do you speak Greek?” he replied.
-<small><sub>**Literal:**</sub></small>
-Being about then to be brought into the barracks <the> Paul says to the commander; If is it permitted to me to say something to you? <the> Then he was saying; Greek do you know?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.36|<< Acts 21:36]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.38|Acts 21:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3195\|μέλλων]]  [[G5037\|τε]]  [[G1521\|εἰσάγεσθαι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3925\|παρεμβολὴν]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G5506\|χιλιάρχῳ·]]  [[G1487I\|εἰ]]  [[G1832\|ἔξεστίν]]  [[G3165\|μοι]]  [[G2036\|εἰπεῖν]]  [[G5100\|τι]]  [[G4314\|πρὸς]]  [[G4771\|σέ;]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G5346\|ἔφη·]]  [[G1676\|ἑλληνιστὶ]]  [[G1097\|γινώσκεις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CASTLE|CASTLE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.36|<< Acts 21:36]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.38|Acts 21:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

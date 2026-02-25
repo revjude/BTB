@@ -1,8 +1,55 @@
+---
+title: Job 4:15
+type: Verse
+kjv: "Then a spirit passed before my face; the hair of my flesh stood up:"
+bsb: "Then a spirit glided past my face, and the hair on my body bristled."
+hebrew: "וְ֭רוּחַ עַל־ פָּנַ֣י יַחֲלֹ֑ף תְּ֝סַמֵּ֗ר שַֽׂעֲרַ֥ת בְּשָׂרִֽי׃"
+pericope: "[[Job.4.1 Eliphaz：The Innocent Prosper|Eliphaz：The Innocent Prosper]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 4
+book/chapter: "[[Job.4|Job 4]]"
+chronological_order: 15
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H2498]]"
+- "[[H5568]]"
+- "[[H8185]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 4:15**<big><big>[[Job.4.1 Eliphaz：The Innocent Prosper|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then a spirit passed before my face; the hair of my flesh stood up:
 <small><sub>**BSB:**</sub></small>
 Then a spirit glided past my face, and the hair on my body bristled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H7307G\|רוּחַ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנַ֣]][[H9020\|י]] [[H2498\|יַחֲלֹ֑ף]] [[H5568\|תְּ֝סַמֵּ֗ר]] [[H8185\|שַֽׂעֲרַ֥ת]] [[H1320\|בְּשָׂרִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DREAM|DREAM]] • [[topic FAITH|FAITH]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.4.14|<< Job 4:14]]</td><td align="center" style="border:none;">[[Job.4|Job 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.4.16|Job 4:16 >>]]</td></tr></table>
 

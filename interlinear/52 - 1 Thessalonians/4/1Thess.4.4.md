@@ -1,10 +1,55 @@
+---
+title: 1 Thessalonians 4:4
+type: Verse
+kjv: "That every one of you should know how to possess his vessel in sanctification and honour;"
+bsb: "each of you must know how to control his own body in holiness and honor,"
+greek: "εἰδέναι ἕκαστον ὑμῶν τὸ ἑαυτοῦ σκεῦος κτᾶσθαι ἐν ἁγιασμῷ καὶ τιμῇ,"
+pericope: "[[1Thess.4.1 Living to Please God|Living to Please God]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 4
+book/chapter: "[[1Thess.4|1 Thessalonians 4]]"
+chronological_order: 1051
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[G6063]]"
+- "[[G1538]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G4632]]"
+- "[[G2932]]"
+- "[[G1722]]"
+- "[[G0038]]"
+- "[[G2532]]"
+- "[[G5092]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 4:4**<big><big>[[1Thess.4.1 Living to Please God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That every one of you should know how to possess his vessel in sanctification and honour;
 <small><sub>**BSB:**</sub></small>
 each of you must know how to control his own body in holiness and honor,
-<small><sub>**Literal:**</sub></small>
-to know each of you [how] the his own vessel to control in holiness and honor,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.3|<< 1 Thessalonians 4:3]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.5|1 Thessalonians 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|εἰδέναι]]  [[G1538\|ἕκαστον]]  [[G4771\|ὑμῶν]]  [[G3588\|τὸ]]  [[G1438\|ἑαυτοῦ]]  [[G4632\|σκεῦος]]  [[G2932\|κτᾶσθαι]]  [[G1722\|ἐν]]  [[G0038\|ἁγιασμῷ]]  [[G2532\|καὶ]]  [[G5092\|τιμῇ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic GENTILES|GENTILES]] • [[topic HOLINESS|HOLINESS]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.4.3|<< 1 Thessalonians 4:3]]</td><td align="center" style="border:none;">[[1Thess.4|1 Thessalonians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.4.5|1 Thessalonians 4:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

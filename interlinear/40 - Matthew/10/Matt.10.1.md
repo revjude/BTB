@@ -1,10 +1,61 @@
+---
+title: Matthew 10:1
+type: Verse
+kjv: "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease."
+bsb: "And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness."
+greek: "Καὶ προσκαλεσάμενος τοὺς δώδεκα μαθητὰς αὐτοῦ ἔδωκεν αὐτοῖς ἐξουσίαν πνευμάτων ἀκαθάρτων ὥστε ἐκβάλλειν αὐτὰ καὶ θεραπεύειν πᾶσαν νόσον καὶ πᾶσαν μαλακίαν.¶"
+pericope: "[[Matt.10.1 The Twelve Apostles|The Twelve Apostles]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DISCIPLE|DISCIPLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G2532]]"
+- "[[G4341]]"
+- "[[G3588]]"
+- "[[G1427]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G1849]]"
+- "[[G4151G]]"
+- "[[G0169]]"
+- "[[G5620]]"
+- "[[G1544]]"
+- "[[G2323]]"
+- "[[G3956]]"
+- "[[G3554]]"
+- "[[G3119]]"
+texts:
+- NKO
+---
+
 **Matthew 10:1**<big><big>[[Matt.10.1 The Twelve Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had called unto [him] his twelve disciples, he gave them power [against] unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease.
 <small><sub>**BSB:**</sub></small>
 And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness.
-<small><sub>**Literal:**</sub></small>
-And having summoned the twelve disciples of Him He gave to them authority over spirits unclean so as to cast out them and to heal every disease and every sickness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.38|<< Matthew 9:38]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.2|Matthew 10:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4341\|προσκαλεσάμενος]]  [[G3588\|τοὺς]]  [[G1427\|δώδεκα]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτοῖς]]  [[G1849\|ἐξουσίαν]]  [[G4151G\|πνευμάτων]]  [[G0169\|ἀκαθάρτων]]  [[G5620\|ὥστε]]  [[G1544\|ἐκβάλλειν]]  [[G0846\|αὐτὰ]]  [[G2532\|καὶ]]  [[G2323\|θεραπεύειν]]  [[G3956\|πᾶσαν]]  [[G3554\|νόσον]]  [[G2532\|καὶ]]  [[G3956\|πᾶσαν]]  [[G3119\|μαλακίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHARISM|CHARISM]] • [[topic DEMONS|DEMONS]] • [[topic DISCIPLE|DISCIPLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.38|<< Matthew 9:38]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.2|Matthew 10:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

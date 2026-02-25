@@ -1,8 +1,60 @@
+---
+title: Numbers 18:29
+type: Verse
+kjv: "Out of all your gifts ye shall offer every heave offering of the LORD, of all the best thereof, even the hallowed part thereof out of it."
+bsb: "You must present the offering due the LORD from all the best of every gift, the holiest part of it.’"
+hebrew: "מִכֹּל֙ מַתְּנֹ֣תֵיכֶ֔ם תָּרִ֕ימוּ אֵ֖ת כָּל־ תְּרוּמַ֣ת יְהוָ֑ה מִכָּל־ חֶלְבּ֔וֹ אֶֽת־ מִקְדְּשׁ֖וֹ מִמֶּֽנּוּ׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H4979]]"
+- "[[H9026]]"
+- "[[H7311A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8641]]"
+- "[[H3068G]]"
+- "[[H2459]]"
+- "[[H9023]]"
+- "[[H4720]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:29**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of all your gifts ye shall offer every heave offering of the LORD, of all the best thereof, [even] the hallowed part thereof out of it.
 <small><sub>**BSB:**</sub></small>
 You must present the offering due the LORD from all the best of every gift, the holiest part of it.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3605\|כֹּל֙]] [[H4979\|מַתְּנֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H7311A\|תָּרִ֕ימוּ]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H8641\|תְּרוּמַ֣ת]] [[H3068G\|יְהוָ֑ה]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H2459\|חֶלְבּ֔]][[H9023\|וֹ]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4720\|מִקְדְּשׁ֖]][[H9023\|וֹ]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.28|<< Numbers 18:28]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.30|Numbers 18:30 >>]]</td></tr></table>
 

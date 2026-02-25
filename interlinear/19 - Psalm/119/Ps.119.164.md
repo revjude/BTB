@@ -1,8 +1,54 @@
+---
+title: Psalm 119:164
+type: Verse
+kjv: "Seven times a day do I praise thee because of thy righteous judgments."
+bsb: "Seven times a day I praise You for Your righteous judgments."
+hebrew: "שֶׁ֣בַע בַּ֭יּוֹם הִלַּלְתִּ֑יךָ עַ֝֗ל מִשְׁפְּטֵ֥י צִדְקֶֽךָ׃"
+pericope: "[[Ps.119.161 Your Word Is a Lamp to My Feet - SCHIN|Your Word Is a Lamp to My Feet - SCHIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H7651]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1984B]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H4941G]]"
+- "[[H6664G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:164**<big><big>[[Ps.119.161 Your Word Is a Lamp to My Feet - SCHIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seven times a day do I praise thee because of thy righteous judgments.
 <small><sub>**BSB:**</sub></small>
 Seven times a day I praise You for Your righteous judgments.
+<small><sub>**Hebrew:**</sub></small>
+[[H7651\|שֶׁ֣בַע]] [[H9003\|בַּ֭]][[H3117G\|יּוֹם]] [[H1984B\|הִלַּלְתִּ֑י]][[H9031\|ךָ]] [[H5921A\|עַ֝֗ל]] [[H4941G\|מִשְׁפְּטֵ֥י]] [[H6664G\|צִדְקֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.164|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.163|<< Psalms 119:163]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.165|Psalms 119:165 >>]]</td></tr></table>
 

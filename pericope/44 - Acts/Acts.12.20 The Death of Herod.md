@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Herod
+type: Pericope
 pericope: "[[Acts.12.20 The Death of Herod|The Death of Herod]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 12
 book/chapter: "[[Acts.12|Acts 12]]"
-genre:
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.12.20]]"
 - "[[Acts.12.21]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.12.25]]"
 ---
 
-[[Acts.12|Acts 12:20 - Acts 12:25]]
+<small>[[Acts.12|Acts 12:20-25]]</small>
 *The Death of Herod*
 
 [[Acts.12.20|20]] And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king’s chamberlain their friend, desired peace; because their country was nourished by the king’s \[country\].

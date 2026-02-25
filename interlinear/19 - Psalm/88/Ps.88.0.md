@@ -1,6 +1,51 @@
+---
+title: Psalm 88:0
+type: Verse
+kjv: "A Song or Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite."
+hebrew: "שִׁ֥יר מִזְמ֗וֹר לִבְנֵ֫י קֹ֥רַח לַמְנַצֵּ֣חַ עַל־ מָחֲלַ֣ת לְעַנּ֑וֹת מַ֝שְׂכִּ֗יל לְהֵימָ֥ן הָאֶזְרָחִֽי׃"
+pericope: "[[Ps.88.1 I Cry Out before You|I Cry Out before You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 88
+book/chapter: "[[Ps.88|Psalm 88]]"
+chronological_order: 516
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H7892A]]"
+- "[[H4210]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H7141I]]"
+- "[[H5329]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4257]]"
+- "[[H6030C]]"
+- "[[H4905]]"
+- "[[H1968G]]"
+- "[[H9009]]"
+- "[[H0250]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 88:0**<big><big>[[Ps.88.1 I Cry Out before You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A Song [or] Psalm for the sons of Korah, to the chief Musician upon Mahalath Leannoth, Maschil of Heman the Ezrahite.
+<small><sub>**Hebrew:**</sub></small>
+[[H7892A\|שִׁ֥יר]] [[H4210\|מִזְמ֗וֹר]] [[H9005\|לִ]][[H1121G\|בְנֵ֫י]] [[H7141I\|קֹ֥רַח]] [[H9005\|לַ]][[H5329\|מְנַצֵּ֣חַ]] [[H5921A\|עַל]][[H9014\|־]] [[H4257\|מָחֲלַ֣ת]] [[H9005\|לְ]][[H6030C\|עַנּ֑וֹת]] [[H4905\|מַ֝שְׂכִּ֗יל]] [[H9005\|לְ]][[H1968G\|הֵימָ֥ן]] [[H9009\|הָ]][[H0250\|אֶזְרָחִֽי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.88.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.87.7|<< Psalms 87:7]]</td><td align="center" style="border:none;">[[Ps.88|Psalms 88]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.88.1|Psalms 88:1 >>]]</td></tr></table>
 

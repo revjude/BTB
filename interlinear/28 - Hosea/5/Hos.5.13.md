@@ -1,8 +1,70 @@
+---
+title: Hosea 5:13
+type: Verse
+kjv: "When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound."
+bsb: "When Ephraim saw his sickness and Judah his wound, then Ephraim turned to Assyria and sent to the great king. But he cannot cure you or heal your wound."
+hebrew: "וַיַּ֨רְא אֶפְרַ֜יִם אֶת־ חָלְי֗וֹ וִֽיהוּדָה֙ אֶת־ מְזֹר֔וֹ וַיֵּ֤לֶךְ אֶפְרַ֙יִם֙ אֶל־ אַשּׁ֔וּר וַיִּשְׁלַ֖ח אֶל־ מֶ֣לֶךְ יָרֵ֑ב וְה֗וּא לֹ֤א יוּכַל֙ לִרְפֹּ֣א לָכֶ֔ם וְלֹֽא־ יִגְהֶ֥ה מִכֶּ֖ם מָזֽוֹר׃"
+pericope: "[[Hos.5.1 Judgment on Israel and Judah|Judgment on Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 5
+book/chapter: "[[Hos.5|Hosea 5]]"
+chronological_order: 646
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic JAREB|JAREB]]"
+- "[[topic SICK, THE|SICK, THE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0669G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2483]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H4205]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H0804G]]"
+- "[[H7971G]]"
+- "[[H4428G]]"
+- "[[H3377]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H7495]]"
+- "[[H9036]]"
+- "[[H1455]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 5:13**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Ephraim saw his sickness, and Judah [saw] his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.
 <small><sub>**BSB:**</sub></small>
 When Ephraim saw his sickness and Judah his wound, then Ephraim turned to Assyria and sent to the great king. But he cannot cure you or heal your wound.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֨רְא]] [[H0669G\|אֶפְרַ֜יִם]] [[H0853\|אֶת]][[H9014\|־]] [[H2483\|חָלְי֗]][[H9023\|וֹ]] [[H9002\|וִֽ]][[H3063G\|יהוּדָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4205\|מְזֹר֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H0669G\|אֶפְרַ֙יִם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0804G\|אַשּׁ֔וּר]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֖ח]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3377\|יָרֵ֑ב]] [[H9002\|וְ]][[H1931\|ה֗וּא]] [[H3808\|לֹ֤א]] [[H3201\|יוּכַל֙]] [[H9005\|לִ]][[H7495\|רְפֹּ֣א]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1455\|יִגְהֶ֥ה]] [[H9006\|מִ]][[H9036\|כֶּ֖ם]] [[H4205\|מָזֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic JAREB|JAREB]] • [[topic SICK, THE|SICK, THE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.12|<< Hosea 5:12]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.14|Hosea 5:14 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Judges 8:20
+type: Verse
+kjv: "And he said unto Jether his firstborn, Up, and slay them. But the youth drew not his sword: for he feared, because he was yet a youth."
+bsb: "So he said to Jether, his firstborn, “Get up and kill them.” But the young man did not draw his sword; he was fearful because he was still a youth."
+hebrew: "וַיֹּ֙אמֶר֙ לְיֶ֣תֶר בְּכוֹר֔וֹ ק֖וּם הֲרֹ֣ג אוֹתָ֑ם וְלֹא־ שָׁלַ֨ף הַנַּ֤עַר חַרְבּוֹ֙ כִּ֣י יָרֵ֔א כִּ֥י עוֹדֶ֖נּוּ נָֽעַר׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JETHER|JETHER]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3500G]]"
+- "[[H1060]]"
+- "[[H9023]]"
+- "[[H6965B]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8025]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H2719]]"
+- "[[H3588A]]"
+- "[[H3372G]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:20**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto Jether his firstborn, Up, [and] slay them. But the youth drew not his sword: for he feared, because he [was] yet a youth.
 <small><sub>**BSB:**</sub></small>
 So he said to Jether, his firstborn, “Get up and kill them.” But the young man did not draw his sword; he was fearful because he was still a youth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9005\|לְ]][[H3500G\|יֶ֣תֶר]] [[H1060\|בְּכוֹר֔]][[H9023\|וֹ]] [[H6965B\|ק֖וּם]] [[H2026\|הֲרֹ֣ג]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8025\|שָׁלַ֨ף]] [[H9009\|הַ]][[H5288\|נַּ֤עַר]] [[H2719\|חַרְבּ]][[H9023\|וֹ֙]] [[H3588A\|כִּ֣י]] [[H3372G\|יָרֵ֔א]] [[H3588A\|כִּ֥י]] [[H5750\|עוֹדֶ֖]][[H9043\|נּוּ]] [[H5288\|נָֽעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic JETHER|JETHER]] • [[topic RETALIATION|RETALIATION]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.19|<< Judges 8:19]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.21|Judges 8:21 >>]]</td></tr></table>
 

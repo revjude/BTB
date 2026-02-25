@@ -1,10 +1,65 @@
+---
+title: Romans 16:18
+type: Verse
+kjv: "For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple."
+bsb: "For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the hearts of the naive."
+greek: "οἱ γὰρ τοιοῦτοι τῷ κυρίῳ ἡμῶν Ἰησοῦ Χριστῷ οὐ δουλεύουσιν ἀλλὰ τῇ ἑαυτῶν κοιλίᾳ, καὶ διὰ τῆς χρηστολογίας καὶ εὐλογίας ἐξαπατῶσιν τὰς καρδίας τῶν ἀκάκων."
+pericope: "[[Rom.16.17 Avoid Divisions|Avoid Divisions]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G5108]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3756]]"
+- "[[G1398]]"
+- "[[G0235]]"
+- "[[G1438]]"
+- "[[G2836]]"
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G5542]]"
+- "[[G2129]]"
+- "[[G1818]]"
+- "[[G2588]]"
+- "[[G0172]]"
+texts:
+- NKO
+- K
+---
+
 **Romans 16:18**<big><big>[[Rom.16.17 Avoid Divisions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
 <small><sub>**BSB:**</sub></small>
 For such people are not serving our Lord Christ, but their own appetites. By smooth talk and flattery they deceive the hearts of the naive.
-<small><sub>**Literal:**</sub></small>
-<the> For such the Lord of us Jesus Christ not serve but the their own belly, and through <the> smooth talk and flattery they deceive the hearts of the naive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.17|<< Romans 16:17]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.19|Romans 16:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1063\|γὰρ]]  [[G5108\|τοιοῦτοι]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστῷ]]  [[G3756\|οὐ]]  [[G1398\|δουλεύουσιν]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῇ]]  [[G1438\|ἑαυτῶν]]  [[G2836\|κοιλίᾳ,]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G5542\|χρηστολογίας]]  [[G2532\|καὶ]]  [[G2129\|εὐλογίας]]  [[G1818\|ἐξαπατῶσιν]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G3588\|τῶν]]  [[G0172\|ἀκάκων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic DECEIT|DECEIT]] • [[topic DOCTRINES|DOCTRINES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic STRIFE|STRIFE]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.17|<< Romans 16:17]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.19|Romans 16:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

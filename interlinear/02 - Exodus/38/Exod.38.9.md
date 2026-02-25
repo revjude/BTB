@@ -1,8 +1,64 @@
+---
+title: Exodus 38:9
+type: Verse
+kjv: "And he made the court: on the south side southward the hangings of the court were of fine twined linen, an hundred cubits:"
+bsb: "Then he constructed the courtyard. The south side of the courtyard was a hundred cubits long and had curtains of finely spun linen,"
+hebrew: "וַיַּ֖עַשׂ אֶת־ הֶחָצֵ֑ר לִפְאַ֣ת׀ נֶ֣גֶב תֵּימָ֗נָה קַלְעֵ֤י הֶֽחָצֵר֙ שֵׁ֣שׁ מָשְׁזָ֔ר מֵאָ֖ה בָּאַמָּֽה׃"
+pericope: "[[Exod.38.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H9005]]"
+- "[[H6285]]"
+- "[[H9015]]"
+- "[[H5045H]]"
+- "[[H8486]]"
+- "[[H9011]]"
+- "[[H7050B]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H3967]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:9**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the court: on the south side southward the hangings of the court [were of] fine twined linen, an hundred cubits:
 <small><sub>**BSB:**</sub></small>
 Then he constructed the courtyard. The south side of the courtyard was a hundred cubits long and had curtains of finely spun linen,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֖עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֑ר]] [[H9005\|לִ]][[H6285\|פְאַ֣ת]][[H9015\|׀]] [[H5045H\|נֶ֣גֶב]] [[H8486\|תֵּימָ֗נָ]][[H9011\|ה]] [[H7050B\|קַלְעֵ֤י]] [[H9009\|הֶֽ]][[H2691A\|חָצֵר֙]] [[H8336B\|שֵׁ֣שׁ]] [[H7806\|מָשְׁזָ֔ר]] [[H3967\|מֵאָ֖ה]] [[H9003\|בָּ]][[H0520A\|אַמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.8|<< Exodus 38:8]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.10|Exodus 38:10 >>]]</td></tr></table>
 

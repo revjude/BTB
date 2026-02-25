@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Lament over Zion
+type: Pericope
 pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 9
 book/chapter: "[[Jer.9|Jeremiah 9]]"
-genre:
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 26
 verses:
 - "[[Jer.9.1]]"
 - "[[Jer.9.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Jer.9.26]]"
 ---
 
-[[Jer.9|Jeremiah 9:1 - Jeremiah 9:26]]
+<small>[[Jer.9|Jeremiah 9:1-26]]</small>
 *A Lament over Zion*
 
 [[Jer.9.1|1]] Oh that my head were waters, and mine eyes a fountain of tears, that I might weep day and night for the slain of the daughter of my people!

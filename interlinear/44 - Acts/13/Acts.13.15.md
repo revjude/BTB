@@ -1,10 +1,65 @@
+---
+title: Acts 13:15
+type: Verse
+kjv: "And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, Ye men and brethren, if ye have any word of exhortation for the people, say on."
+bsb: "After the reading from the Law and the Prophets, the synagogue leaders sent word to them: “Brothers, if you have a word of encouragement for the people, please speak.”"
+greek: "μετὰ δὲ τὴν ἀνάγνωσιν τοῦ νόμου καὶ τῶν προφητῶν ἀπέστειλαν οἱ ἀρχισυνάγωγοι πρὸς αὐτοὺς λέγοντες· ἄνδρες ἀδελφοί, εἴ τίς ἐστιν ἐν ὑμῖν λόγος παρακλήσεως πρὸς τὸν λαόν, λέγετε.¶"
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0320]]"
+- "[[G3551]]"
+- "[[G2532]]"
+- "[[G4396]]"
+- "[[G0649]]"
+- "[[G0752]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G3056]]"
+- "[[G3874]]"
+- "[[G2992]]"
+texts:
+- NKO
+---
+
 **Acts 13:15**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after the reading of the law and the prophets the rulers of the synagogue sent unto them, saying, [Ye] men [and] brethren, if ye have any word of exhortation for the people, say on.
 <small><sub>**BSB:**</sub></small>
 After the reading from the Law and the Prophets, the synagogue leaders sent word to them: “Brothers, if you have a word of encouragement for the people, please speak.”
-<small><sub>**Literal:**</sub></small>
-After then the reading of the law and of the Prophets sent the rulers of the synagogue to them saying; Men brothers, if any there is among you a word of exhortation toward the people, do speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.14|<< Acts 13:14]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.16|Acts 13:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|μετὰ]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G0320\|ἀνάγνωσιν]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν]]  [[G0649\|ἀπέστειλαν]]  [[G3588\|οἱ]]  [[G0752\|ἀρχισυνάγωγοι]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3004G\|λέγοντες·]]  [[G0435G\|ἄνδρες]]  [[G0080\|ἀδελφοί,]]  [[G1487G\|εἴ]]  [[G5100\|τίς]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3056\|λόγος]]  [[G3874\|παρακλήσεως]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2992\|λαόν,]]  [[G3004G\|λέγετε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic LAW|LAW]] • [[topic PAUL|PAUL]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.14|<< Acts 13:14]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.16|Acts 13:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

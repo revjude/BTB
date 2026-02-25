@@ -1,8 +1,66 @@
+---
+title: Ezekiel 45:19
+type: Verse
+kjv: "And the priest shall take of the blood of the sin offering, and put it upon the posts of the house, and upon the four corners of the settle of the altar, and upon the posts of the gate of the inner court."
+bsb: "And the priest is to take some of the blood from the sin offering and put it on the doorposts of the temple, on the four corners of the ledge of the altar, and on the gateposts of the inner court."
+hebrew: "וְלָקַ֨ח הַכֹּהֵ֜ן מִדַּ֣ם הַחַטָּ֗את וְנָתַן֙ אֶל־ מְזוּזַ֣ת הַבַּ֔יִת וְאֶל־ אַרְבַּ֛ע פִּנּ֥וֹת הָעֲזָרָ֖ה לַמִּזְבֵּ֑חַ וְעַ֨ל־ מְזוּזַ֔ת שַׁ֖עַר הֶחָצֵ֥ר הַפְּנִימִֽית׃"
+pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H2403H]]"
+- "[[H5414H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4201]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H0702]]"
+- "[[H6438H]]"
+- "[[H5835]]"
+- "[[H9005]]"
+- "[[H4196]]"
+- "[[H5921A]]"
+- "[[H8179G]]"
+- "[[H2691A]]"
+- "[[H6442]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:19**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall take of the blood of the sin offering, and put [it] upon the posts of the house, and upon the four corners of the settle of the altar, and upon the posts of the gate of the inner court.
 <small><sub>**BSB:**</sub></small>
 And the priest is to take some of the blood from the sin offering and put it on the doorposts of the temple, on the four corners of the ledge of the altar, and on the gateposts of the inner court.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֨ח]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H9006\|מִ]][[H1818\|דַּ֣ם]] [[H9009\|הַ]][[H2403H\|חַטָּ֗את]] [[H9001\|וְ]][[H5414H\|נָתַן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4201\|מְזוּזַ֣ת]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0702\|אַרְבַּ֛ע]] [[H6438H\|פִּנּ֥וֹת]] [[H9009\|הָ]][[H5835\|עֲזָרָ֖ה]] [[H9005\|לַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9002\|וְ]][[H5921A\|עַ֨ל]][[H9014\|־]] [[H4201\|מְזוּזַ֔ת]] [[H8179G\|שַׁ֖עַר]] [[H9009\|הֶ]][[H2691A\|חָצֵ֥ר]] [[H9009\|הַ]][[H6442\|פְּנִימִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.18|<< Ezekiel 45:18]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.20|Ezekiel 45:20 >>]]</td></tr></table>
 

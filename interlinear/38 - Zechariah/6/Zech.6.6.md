@@ -1,8 +1,60 @@
+---
+title: Zechariah 6:6
+type: Verse
+kjv: "The black horses which are therein go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country."
+bsb: "The one with the black horses is going toward the land of the north, the one with the white horses toward the west, and the one with the dappled horses toward the south.”"
+hebrew: "אֲשֶׁר־ בָּ֞הּ הַסּוּסִ֣ים הַשְּׁחֹרִ֗ים יֹֽצְאִים֙ אֶל־ אֶ֣רֶץ צָפ֔וֹן וְהַלְּבָנִ֔ים יָצְא֖וּ אֶל־ אַֽחֲרֵיהֶ֑ם וְהַ֨בְּרֻדִּ֔ים יָצְא֖וּ אֶל־ אֶ֥רֶץ הַתֵּימָֽן׃"
+pericope: "[[Zech.6.1 The Vision of the Four Chariots|The Vision of the Four Chariots]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 6
+book/chapter: "[[Zech.6|Zechariah 6]]"
+chronological_order: 862
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H5483M]]"
+- "[[H7838]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H6828G]]"
+- "[[H9002]]"
+- "[[H3836]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H1261]]"
+- "[[H8486]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 6:6**<big><big>[[Zech.6.1 The Vision of the Four Chariots|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The black horses which [are] therein go forth into the north country; and the white go forth after them; and the grisled go forth toward the south country.
 <small><sub>**BSB:**</sub></small>
 The one with the black horses is going toward the land of the north, the one with the white horses toward the west, and the one with the dappled horses toward the south.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בָּ֞]][[H9034\|הּ]] [[H9009\|הַ]][[H5483M\|סּוּסִ֣ים]] [[H9009\|הַ]][[H7838\|שְּׁחֹרִ֗ים]] [[H3318G\|יֹֽצְאִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H6828G\|צָפ֔וֹן]] [[H9002\|וְ]][[H9009\|הַ]][[H3836\|לְּבָנִ֔ים]] [[H3318G\|יָצְא֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0310A\|אַֽחֲרֵי]][[H9038\|הֶ֑ם]] [[H9002\|וְ]][[H9009\|הַ֨]][[H1261\|בְּרֻדִּ֔ים]] [[H3318G\|יָצְא֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H9009\|הַ]][[H8486\|תֵּימָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.6.5|<< Zechariah 6:5]]</td><td align="center" style="border:none;">[[Zech.6|Zechariah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.6.7|Zechariah 6:7 >>]]</td></tr></table>
 

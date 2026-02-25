@@ -1,8 +1,59 @@
+---
+title: Numbers 34:28
+type: Verse
+kjv: "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud."
+bsb: "and Pedahel son of Ammihud, a leader from the tribe of Naphtali.”"
+hebrew: "וּלְמַטֵּ֥ה בְנֵֽי־ נַפְתָּלִ֖י נָשִׂ֑יא פְּדַהְאֵ֖ל בֶּן־ עַמִּיהֽוּד׃"
+pericope: "[[Num.34.16 Leaders to Divide the Land|Leaders to Divide the Land]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMMIHUD|AMMIHUD]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PEDAHEL|PEDAHEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H5321G]]"
+- "[[H5387A]]"
+- "[[H6300]]"
+- "[[H1121A]]"
+- "[[H5989I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 34:28**<big><big>[[Num.34.16 Leaders to Divide the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud.
 <small><sub>**BSB:**</sub></small>
 and Pedahel son of Ammihud, a leader from the tribe of Naphtali.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H4294H\|מַטֵּ֥ה]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H5321G\|נַפְתָּלִ֖י]] [[H5387A\|נָשִׂ֑יא]] [[H6300\|פְּדַהְאֵ֖ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5989I\|עַמִּיהֽוּד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMIHUD|AMMIHUD]] • [[topic CANAAN|CANAAN]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic PEDAHEL|PEDAHEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.27|<< Numbers 34:27]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.29|Numbers 34:29 >>]]</td></tr></table>
 

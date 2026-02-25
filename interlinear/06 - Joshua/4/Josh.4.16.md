@@ -1,8 +1,54 @@
+---
+title: Joshua 4:16
+type: Verse
+kjv: "Command the priests that bear the ark of the testimony, that they come up out of Jordan."
+bsb: "“Command the priests who carry the ark of the Testimony to come up from the Jordan.”"
+hebrew: "צַוֵּה֙ אֶת־ הַכֹּ֣הֲנִ֔ים נֹשְׂאֵ֖י אֲר֣וֹן הָעֵד֑וּת וְיַעֲל֖וּ מִן־ הַיַּרְדֵּֽן׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H5375H]]"
+- "[[H0727]]"
+- "[[H5715]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:16**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Command the priests that bear the ark of the testimony, that they come up out of Jordan.
 <small><sub>**BSB:**</sub></small>
 “Command the priests who carry the ark of the Testimony to come up from the Jordan.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6680\|צַוֵּה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H5375H\|נֹשְׂאֵ֖י]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H5715\|עֵד֑וּת]] [[H9002\|וְ]][[H5927G\|יַעֲל֖וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIRACLES|MIRACLES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.15|<< Joshua 4:15]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.17|Joshua 4:17 >>]]</td></tr></table>
 

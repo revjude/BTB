@@ -1,8 +1,66 @@
+---
+title: Jeremiah 11:22
+type: Verse
+kjv: "Therefore thus saith the LORD of hosts, Behold, I will punish them: the young men shall die by the sword; their sons and their daughters shall die by famine:"
+bsb: "So this is what the LORD of Hosts says: “I will punish them. Their young men will die by the sword, their sons and daughters by famine."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הִנְנִ֥י פֹקֵ֖ד עֲלֵיהֶ֑ם הַבַּֽחוּרִים֙ יָמֻ֣תוּ בַחֶ֔רֶב בְּנֵיהֶם֙ וּבְנ֣וֹתֵיהֶ֔ם יָמֻ֖תוּ בָּרָעָֽב׃"
+pericope: "[[Jer.11.18 A Plot against Jeremiah|A Plot against Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANATHOTH|ANATHOTH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H0970]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H7458]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 11:22**<big><big>[[Jer.11.18 A Plot against Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD of hosts, Behold, I will punish them: the young men shall die by the sword; their sons and their daughters shall die by famine:
 <small><sub>**BSB:**</sub></small>
 So this is what the LORD of Hosts says: “I will punish them. Their young men will die by the sword, their sons and daughters by famine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H6485H\|פֹקֵ֖ד]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9009\|הַ]][[H0970\|בַּֽחוּרִים֙]] [[H4191\|יָמֻ֣תוּ]] [[H9003\|בַ]][[H2719\|חֶ֔רֶב]] [[H1121A\|בְּנֵי]][[H9028\|הֶם֙]] [[H9002\|וּ]][[H1323G\|בְנ֣וֹתֵי]][[H9028\|הֶ֔ם]] [[H4191\|יָמֻ֖תוּ]] [[H9003\|בָּ]][[H7458\|רָעָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANATHOTH|ANATHOTH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.21|<< Jeremiah 11:21]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.23|Jeremiah 11:23 >>]]</td></tr></table>
 

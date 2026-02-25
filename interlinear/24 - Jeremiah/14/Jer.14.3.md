@@ -1,8 +1,68 @@
+---
+title: Jeremiah 14:3
+type: Verse
+kjv: "And their nobles have sent their little ones to the waters: they came to the pits, and found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads."
+bsb: "The nobles send their servants for water; they go to the cisterns, but find no water; their jars return empty. They are ashamed and humiliated; they cover their heads."
+hebrew: "וְאַדִּ֣רֵיהֶ֔ם שָׁלְח֥וּ צְעִירֵיהֶ֖ם לַמָּ֑יִם בָּ֣אוּ עַל־ גֵּבִ֞ים לֹא־ מָ֣צְאוּ מַ֗יִם שָׁ֤בוּ כְלֵיהֶם֙ רֵיקָ֔ם בֹּ֥שׁוּ וְהָכְלְמ֖וּ וְחָפ֥וּ רֹאשָֽׁם׃"
+pericope: "[[Jer.14.1 Drought, Famine, Sword, and Plague|Drought, Famine, Sword, and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DROUGHT|DROUGHT]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0117]]"
+- "[[H9028]]"
+- "[[H7971G]]"
+- "[[H6810]]"
+- "[[H9005]]"
+- "[[H4325G]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1356A]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H7725G]]"
+- "[[H3627]]"
+- "[[H7387]]"
+- "[[H0954]]"
+- "[[H3637]]"
+- "[[H9001]]"
+- "[[H2645]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 14:3**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their nobles have sent their little ones to the waters: they came to the pits, [and] found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads.
 <small><sub>**BSB:**</sub></small>
 The nobles send their servants for water; they go to the cisterns, but find no water; their jars return empty. They are ashamed and humiliated; they cover their heads.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0117\|אַדִּ֣רֵי]][[H9028\|הֶ֔ם]] [[H7971G\|שָׁלְח֥וּ]] [[H6810\|צְעִירֵי]][[H9028\|הֶ֖ם]] [[H9005\|לַ]][[H4325G\|מָּ֑יִם]] [[H0935G\|בָּ֣אוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1356A\|גֵּבִ֞ים]] [[H3808\|לֹא]][[H9014\|־]] [[H4672\|מָ֣צְאוּ]] [[H4325G\|מַ֗יִם]] [[H7725G\|שָׁ֤בוּ]] [[H3627\|כְלֵי]][[H9028\|הֶם֙]] [[H7387\|רֵיקָ֔ם]] [[H0954\|בֹּ֥שׁוּ]] [[H9002\|וְ]][[H3637\|הָכְלְמ֖וּ]] [[H9001\|וְ]][[H2645\|חָפ֥וּ]] [[H7218A\|רֹאשָֽׁ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DROUGHT|DROUGHT]] • [[topic FAMINE|FAMINE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.2|<< Jeremiah 14:2]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.4|Jeremiah 14:4 >>]]</td></tr></table>
 
@@ -27,7 +87,7 @@ The nobles send their servants for water; they go to the cisterns, but find no w
 | head their  |**<big>&#8207;[[H7218A\|רֹאשָֽׁ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ro.Sha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.2|<< Jeremiah 14:2]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.4|Jeremiah 14:4 >>]]</td></tr></table>
 
-[^1]: small [ones] their  | **<big>[[H9028|הֶם]]</big><big>[[H6810|צְעוֹרֵי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
-[^2]: small [ones] their  | **<big>[[H9028|הֶם]]</big><big>[[H6810|צְעוֹרֵי]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^1]: small [ones] their  | **<big>[[H6810|צְעוֹרֵי]]</big><big>[[H9028|הֶם]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: small [ones] their  | **<big>[[H6810|צְעוֹרֵי]]</big><big>[[H9028|הֶם]]</big> ** | tze.'o.rei.<small><sup>[[HAampc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>צְעִורֵיהֶ֖ם</big></span>**
 

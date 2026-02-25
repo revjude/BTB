@@ -1,8 +1,67 @@
+---
+title: Genesis 40:19
+type: Verse
+kjv: "Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee."
+bsb: "Within three days Pharaoh will lift off your head and hang you on a tree. Then the birds will eat the flesh of your body.”"
+hebrew: "בְּע֣וֹד׀ שְׁלֹ֣שֶׁת יָמִ֗ים יִשָּׂ֨א פַרְעֹ֤ה אֶת־ רֹֽאשְׁךָ֙ מֵֽעָלֶ֔יךָ וְתָלָ֥ה אוֹתְךָ֖ עַל־ עֵ֑ץ וְאָכַ֥ל הָע֛וֹף אֶת־ בְּשָׂרְךָ֖ מֵעָלֶֽיךָ׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HANGING|HANGING]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H9015]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H5375G]]"
+- "[[H6547H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H8518]]"
+- "[[H6086H]]"
+- "[[H0398]]"
+- "[[H9009]]"
+- "[[H5775]]"
+- "[[H1320]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:19**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
 <small><sub>**BSB:**</sub></small>
 Within three days Pharaoh will lift off your head and hang you on a tree. Then the birds will eat the flesh of your body.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H5750\|ע֣וֹד]][[H9015\|׀]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֗ים]] [[H5375G\|יִשָּׂ֨א]] [[H6547H\|פַרְעֹ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹֽאשְׁ]][[H9021\|ךָ֙]] [[H9006\|מֵֽ]][[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H8518\|תָלָ֥ה]] [[H0853\|אוֹתְ]][[H9031\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H6086H\|עֵ֑ץ]] [[H9001\|וְ]][[H0398\|אָכַ֥ל]] [[H9009\|הָ]][[H5775\|ע֛וֹף]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂרְ]][[H9021\|ךָ֖]] [[H9006\|מֵ]][[H5921A\|עָלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HANGING|HANGING]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.18|<< Genesis 40:18]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.20|Genesis 40:20 >>]]</td></tr></table>
 

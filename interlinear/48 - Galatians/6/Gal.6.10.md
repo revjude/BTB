@@ -1,10 +1,59 @@
+---
+title: Galatians 6:10
+type: Verse
+kjv: "As we have therefore opportunity, let us do good unto all men, especially unto them who are of the household of faith."
+bsb: "Therefore, as we have opportunity, let us do good to everyone, and especially to the family of faith."
+greek: "ἄρα οὖν ὡς καιρὸν ἔχομεν ἐργαζώμεθα τὸ ἀγαθὸν πρὸς πάντας, μάλιστα δὲ πρὸς τοὺς οἰκείους τῆς πίστεως.¶"
+pericope: "[[Gal.6.1 Carry One Another’s Burdens|Carry One Another’s Burdens]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 6
+book/chapter: "[[Gal.6|Galatians 6]]"
+chronological_order: 1044
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[G0686]]"
+- "[[G3767]]"
+- "[[G5613]]"
+- "[[G2540]]"
+- "[[G2192]]"
+- "[[G2038]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G4314]]"
+- "[[G3956]]"
+- "[[G3122]]"
+- "[[G1161]]"
+- "[[G3609]]"
+- "[[G4102G]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Galatians 6:10**<big><big>[[Gal.6.1 Carry One Another’s Burdens|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As we have therefore opportunity, let us do good unto all [men], especially unto them who are of the household of faith.
 <small><sub>**BSB:**</sub></small>
 Therefore, as we have opportunity, let us do good to everyone, and especially to the family of faith.
-<small><sub>**Literal:**</sub></small>
-So then as occasion we have we may work <the> good toward all, especially now toward those of the household of the of faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.9|<< Galatians 6:9]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.11|Galatians 6:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0686\|ἄρα]]  [[G3767\|οὖν]]  [[G5613\|ὡς]]  [[G2540\|καιρὸν]]  [[G2192\|ἔχομεν]]  [[G2038\|ἐργαζώμεθα]]  [[G3588\|τὸ]]  [[G0018\|ἀγαθὸν]]  [[G4314\|πρὸς]]  [[G3956\|πάντας,]]  [[G3122\|μάλιστα]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3609\|οἰκείους]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic POOR|POOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.9|<< Galatians 6:9]]</td><td align="center" style="border:none;">[[Gal.6|Galatians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.6.11|Galatians 6:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

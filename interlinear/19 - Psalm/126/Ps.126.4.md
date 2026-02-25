@@ -1,8 +1,56 @@
+---
+title: Psalm 126:4
+type: Verse
+kjv: "Turn again our captivity, O LORD, as the streams in the south."
+bsb: "Restore our captives, O LORD, like streams in the Negev."
+hebrew: "שׁוּבָ֣ה יְ֭הוָה אֶת־ שְׁבִיתֵ֑נוּ כַּאֲפִיקִ֥ים בַּנֶּֽגֶב׃"
+pericope: "[[Ps.126.1 Zion’s Captives Restored|Zion’s Captives Restored]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 126
+book/chapter: "[[Ps.126|Psalm 126]]"
+chronological_order: 888
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H7725H]]"
+- "[[H9012]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7622]]"
+- "[[H9025]]"
+- "[[H9004]]"
+- "[[H0650]]"
+- "[[H9003]]"
+- "[[H5045G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Psalms 126:4**<big><big>[[Ps.126.1 Zion’s Captives Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn again our captivity, O LORD, as the streams in the south.
 <small><sub>**BSB:**</sub></small>
 Restore our captives, O LORD, like streams in the Negev.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725H\|שׁוּבָ֣]][[H9012\|ה]] [[H3068G\|יְ֭הוָה]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁבִיתֵ֑]][[H9025\|נוּ]] [[H9004\|כַּ]][[H0650\|אֲפִיקִ֥ים]] [[H9003\|בַּ]][[H5045G\|נֶּֽגֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.126.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.126.3|<< Psalms 126:3]]</td><td align="center" style="border:none;">[[Ps.126|Psalms 126]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.126.5|Psalms 126:5 >>]]</td></tr></table>
 

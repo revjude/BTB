@@ -1,10 +1,60 @@
+---
+title: Matthew 27:6
+type: Verse
+kjv: "And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood."
+bsb: "The chief priests picked up the pieces of silver and said, “It is unlawful to put this into the treasury, since it is blood money.”"
+greek: "Οἱ δὲ ἀρχιερεῖς λαβόντες τὰ ἀργύρια εἶπαν· οὐκ ἔξεστιν βαλεῖν αὐτὰ εἰς τὸν κορβανᾶν ἐπεὶ τιμὴ αἵματός ἐστιν.¶"
+pericope: "[[Matt.27.3 Judas Hangs Himself|Judas Hangs Himself]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0749]]"
+- "[[G2983]]"
+- "[[G0694]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G0906H]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2878]]"
+- "[[G1893]]"
+- "[[G5092]]"
+- "[[G0129G]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Matthew 27:6**<big><big>[[Matt.27.3 Judas Hangs Himself|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.
 <small><sub>**BSB:**</sub></small>
 The chief priests picked up the pieces of silver and said, “It is unlawful to put this into the treasury, since it is blood money.”
-<small><sub>**Literal:**</sub></small>
-<the> And the chief priests having taken the pieces of silver said; Not it is lawful to put them into the treasury since [the] price of blood it is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.5|<< Matthew 27:5]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.7|Matthew 27:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G0749\|ἀρχιερεῖς]]  [[G2983\|λαβόντες]]  [[G3588\|τὰ]]  [[G0694\|ἀργύρια]]  [[G2036\|εἶπαν·]]  [[G3756\|οὐκ]]  [[G1832\|ἔξεστιν]]  [[G0906H\|βαλεῖν]]  [[G0846\|αὐτὰ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2878\|κορβανᾶν]]  [[G1893\|ἐπεὶ]]  [[G5092\|τιμὴ]]  [[G0129G\|αἵματός]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.5|<< Matthew 27:5]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.7|Matthew 27:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

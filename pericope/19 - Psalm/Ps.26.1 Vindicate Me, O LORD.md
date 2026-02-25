@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Vindicate Me, O LORD
+type: Pericope
 pericope: "[[Ps.26.1 Vindicate Me, O LORD|Vindicate Me, O LORD]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 26
 book/chapter: "[[Ps.26|Psalm 26]]"
-genre:
+chronological_order: 358
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.26.0]]"
 - "[[Ps.26.1]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.26.12]]"
 ---
 
-[[Ps.26|Psalm 26:1 - Psalm 26:12]]
+<small>[[Ps.26|Psalm 26:1-12]]</small>
 *Vindicate Me, O LORD*
 
 [[Ps.26.0|0]] \[A Psalm\] of David.

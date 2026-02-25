@@ -1,6 +1,53 @@
+---
+title: LXX Numbers 1:37
+type: Verse
+lxx: "their numbering from the tribe of Benjamin -- five and thirty thousand and four hundred."
+greek: "η επίσκεψις αυτών εκ της φυλής Βενιαμίν πέντε και τριάκοντα χιλιάδες και τετρακόσιοι"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[G3588]]"
+- "[[G7448]]"
+- "[[G1473]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G5443]]"
+- "[[G0958]]"
+- "[[G4002]]"
+- "[[G2532]]"
+- "[[G5144]]"
+- "[[G5505]]"
+- "[[G2532]]"
+- "[[G5071]]"
+---
+
 **LXX Numbers 1:37** 
 <small><sub>**LXX:**</sub></small>
  their numbering from the tribe of Benjamin -- five and thirty thousand and four hundred. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|η]] [[G7448\|επίσκεψις]] [[G1473\|αυτών]] [[G1537\|εκ]] [[G3588\|της]] [[G5443\|φυλής]] [[G0958\|Βενιαμίν]] [[G4002\|πέντε]] [[G2532\|και]] [[G5144\|τριάκοντα]] [[G5505\|χιλιάδες]] [[G2532\|και]] [[G5071\|τετρακόσιοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.1.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.36|<< Numbers 1:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.38|Numbers 1:38 >>]]</td></tr></table>
 
@@ -18,6 +65,6 @@
 | thousand | **<big>[[G5505\|χιλιάδες]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | four hundred. | **<big>[[G5071\|τετρακόσιοι]]</big>** |
-[[Num.1.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.36|<< Numbers 1:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.38|Numbers 1:38 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.1.36|<< Numbers 1:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.1.38|Numbers 1:38 >>]]</td></tr></table>
 
 

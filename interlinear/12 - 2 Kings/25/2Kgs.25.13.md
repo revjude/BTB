@@ -1,8 +1,66 @@
+---
+title: 2 Kings 25:13
+type: Verse
+kjv: "And the pillars of brass that were in the house of the LORD, and the bases, and the brasen sea that was in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon."
+bsb: "Moreover, the Chaldeans broke up the bronze pillars and stands and the bronze Sea in the house of the LORD, and they carried the bronze to Babylon."
+hebrew: "וְאֶת־ עַמּוּדֵ֨י הַנְּחֹ֜שֶׁת אֲשֶׁ֣ר בֵּית־ יְהוָ֗ה וְֽאֶת־ הַמְּכֹנ֞וֹת וְאֶת־ יָ֧ם הַנְּחֹ֛שֶׁת אֲשֶׁ֥ר בְּבֵית־ יְהוָ֖ה שִׁבְּר֣וּ כַשְׂדִּ֑ים וַיִּשְׂא֥וּ אֶת־ נְחֻשְׁתָּ֖ם בָּבֶֽלָה׃"
+pericope: "[[2Kgs.25.8 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LAVER|LAVER]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5982G]]"
+- "[[H9009]]"
+- "[[H5178A]]"
+- "[[H0834A]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H4350]]"
+- "[[H3220G]]"
+- "[[H9003]]"
+- "[[H7665]]"
+- "[[H3778]]"
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H9028]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:13**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the pillars of brass that [were] in the house of the LORD, and the bases, and the brasen sea that [was] in the house of the LORD, did the Chaldees break in pieces, and carried the brass of them to Babylon.
 <small><sub>**BSB:**</sub></small>
 Moreover, the Chaldeans broke up the bronze pillars and stands and the bronze Sea in the house of the LORD, and they carried the bronze to Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5982G\|עַמּוּדֵ֨י]] [[H9009\|הַ]][[H5178A\|נְּחֹ֜שֶׁת]] [[H0834A\|אֲשֶׁ֣ר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4350\|מְּכֹנ֞וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3220G\|יָ֧ם]] [[H9009\|הַ]][[H5178A\|נְּחֹ֛שֶׁת]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H7665\|שִׁבְּר֣וּ]] [[H3778\|כַשְׂדִּ֑ים]] [[H9001\|וַ]][[H5375H\|יִּשְׂא֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5178A\|נְחֻשְׁתָּ֖]][[H9028\|ם]] [[H0894\|בָּבֶֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LAVER|LAVER]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PILLAR|PILLAR]] • [[topic PROPHECY|PROPHECY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.12|<< 2 Kings 25:12]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.14|2 Kings 25:14 >>]]</td></tr></table>
 

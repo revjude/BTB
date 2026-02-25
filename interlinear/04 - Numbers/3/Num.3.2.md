@@ -1,8 +1,58 @@
+---
+title: Numbers 3:2
+type: Verse
+kjv: "And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar."
+bsb: "These are the names of the sons of Aaron: Nadab the firstborn, then Abihu, Eleazar, and Ithamar."
+hebrew: "וְאֵ֛לֶּה שְׁמ֥וֹת בְּֽנֵי־ אַהֲרֹ֖ן הַבְּכ֣וֹר׀ נָדָ֑ב וַאֲבִיה֕וּא אֶלְעָזָ֖ר וְאִיתָמָֽר׃"
+pericope: "[[Num.3.1 The Sons of Aaron|The Sons of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABIHU|ABIHU]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H9009]]"
+- "[[H1060]]"
+- "[[H9015]]"
+- "[[H5070G]]"
+- "[[H0030]]"
+- "[[H0499G]]"
+- "[[H0385]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:2**<big><big>[[Num.3.1 The Sons of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
 <small><sub>**BSB:**</sub></small>
 These are the names of the sons of Aaron: Nadab the firstborn, then Abihu, Eleazar, and Ithamar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֛לֶּה]] [[H8034\|שְׁמ֥וֹת]] [[H1121A\|בְּֽנֵי]][[H9014\|־]] [[H0175\|אַהֲרֹ֖ן]] [[H9009\|הַ]][[H1060\|בְּכ֣וֹר]][[H9015\|׀]] [[H5070G\|נָדָ֑ב]] [[H9002\|וַ]][[H0030\|אֲבִיה֕וּא]] [[H0499G\|אֶלְעָזָ֖ר]] [[H9002\|וְ]][[H0385\|אִיתָמָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIHU|ABIHU]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.1|<< Numbers 3:1]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.3|Numbers 3:3 >>]]</td></tr></table>
 

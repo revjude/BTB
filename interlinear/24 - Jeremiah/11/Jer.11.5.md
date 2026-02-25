@@ -1,8 +1,74 @@
+---
+title: Jeremiah 11:5
+type: Verse
+kjv: "That I may perform the oath which I have sworn unto your fathers, to give them a land flowing with milk and honey, as it is this day. Then answered I, and said, So be it, O LORD."
+bsb: "This was in order to establish the oath I swore to your forefathers, to give them a land flowing with milk and honey, as it is to this day.” “Amen, LORD,” I answered."
+hebrew: "לְמַעַן֩ הָקִ֨ים אֶת־ הַשְּׁבוּעָ֜ה אֲשֶׁר־ נִשְׁבַּ֣עְתִּי לַאֲבֽוֹתֵיכֶ֗ם לָתֵ֤ת לָהֶם֙ אֶ֣רֶץ זָבַ֥ת חָלָ֛ב וּדְבַ֖שׁ כַּיּ֣וֹם הַזֶּ֑ה וָאַ֥עַן וָאֹמַ֖ר אָמֵ֥ן׀ יְהוָֽה׃ ס"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BEARD|BEARD]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic MILK|MILK]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H4616]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7621]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H2100G]]"
+- "[[H2461]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0559]]"
+- "[[H0543]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 11:5**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I may perform the oath which I have sworn unto your fathers, to give them a land flowing with milk and honey, as [it is] this day. Then answered I, and said, So be it, O LORD.
 <small><sub>**BSB:**</sub></small>
 This was in order to establish the oath I swore to your forefathers, to give them a land flowing with milk and honey, as it is to this day.” “Amen, LORD,” I answered.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַעַן֩]] [[H6965I\|הָקִ֨ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7621\|שְּׁבוּעָ֜ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֣עְתִּי]] [[H9005\|לַ]][[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶ֗ם]] [[H9005\|לָ]][[H5414G\|תֵ֤ת]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H0776G\|אֶ֣רֶץ]] [[H2100G\|זָבַ֥ת]] [[H2461\|חָלָ֛ב]] [[H9002\|וּ]][[H1706\|דְבַ֖שׁ]] [[H9004\|כַּ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וָ]][[H6030B\|אַ֥עַן]] [[H9001\|וָ]][[H0559\|אֹמַ֖ר]] [[H0543\|אָמֵ֥ן]][[H9015\|׀]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEARD|BEARD]] • [[topic BLESSING|BLESSING]] • [[topic MILK|MILK]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.4|<< Jeremiah 11:4]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.6|Jeremiah 11:6 >>]]</td></tr></table>
 
@@ -26,7 +92,7 @@ This was in order to establish the oath I swore to your forefathers, to give the
 | and I answered  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H6030B\|אַ֥עַן]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'A.'an<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I said  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H0559\|אֹמַ֖ר]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'o.Mar<small><sup>[[HVqw1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | amen  |**<big>&#8207;[[H0543\|אָמֵ֥ן]]&#8207;&#8207;[[H9015\|׀]]&#8207; </big>**| 'a.Men<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| O Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.4|<< Jeremiah 11:4]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.6|Jeremiah 11:6 >>]]</td></tr></table>
 
 

@@ -1,10 +1,58 @@
+---
+title: Acts 10:24
+type: Verse
+kjv: "And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends."
+bsb: "The following day he arrived in Caesarea, where Cornelius was expecting them and had called together his relatives and close friends."
+greek: "Καὶ τῇ δὲ ἐπαύριον εἰσῆλθεν εἰς τὴν Καισάρειαν· ὁ δὲ Κορνήλιος ἦν προσδοκῶν αὐτοὺς συγκαλεσάμενος τοὺς συγγενεῖς αὐτοῦ καὶ τοὺς ἀναγκαίους φίλους."
+pericope: "[[Acts.10.24 Peter Visits Cornelius|Peter Visits Cornelius]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1887]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G2542H]]"
+- "[[G2883]]"
+- "[[G1510]]"
+- "[[G4328]]"
+- "[[G0846]]"
+- "[[G4779]]"
+- "[[G4773]]"
+- "[[G0316]]"
+- "[[G5384]]"
+texts:
+- k
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 10:24**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends.
 <small><sub>**BSB:**</sub></small>
 The following day he arrived in Caesarea, where Cornelius was expecting them and had called together his relatives and close friends.
-<small><sub>**Literal:**</sub></small>
-and On the now next day he entered into <the> Caesarea; <the> and Cornelius was expecting them having called together the relatives of him and <the> close friends.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.23|<< Acts 10:23]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.25|Acts 10:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|τῇ]]  [[G1161\|δὲ]]  [[G1887\|ἐπαύριον]]  [[G1525\|εἰσῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2542H\|Καισάρειαν·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2883\|Κορνήλιος]]  [[G1510\|ἦν]]  [[G4328\|προσδοκῶν]]  [[G0846\|αὐτοὺς]]  [[G4779\|συγκαλεσάμενος]]  [[G3588\|τοὺς]]  [[G4773\|συγγενεῖς]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0316\|ἀναγκαίους]]  [[G5384\|φίλους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic CATHOLICITY|CATHOLICITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.23|<< Acts 10:23]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.25|Acts 10:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

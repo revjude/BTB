@@ -1,8 +1,77 @@
+---
+title: Numbers 11:17
+type: Verse
+kjv: "And I will come down and talk with thee there: and I will take of the spirit which is upon thee, and will put it upon them; and they shall bear the burden of the people with thee, that thou bear it not thyself alone."
+bsb: "And I will come down and speak with you there, and I will take some of the Spirit that is on you and put that Spirit on them. They will help you bear the burden of the people, so that you do not have to bear it by yourself."
+hebrew: "וְיָרַדְתִּ֗י וְדִבַּרְתִּ֣י עִמְּךָ֮ שָׁם֒ וְאָצַלְתִּ֗י מִן־ הָר֛וּחַ אֲשֶׁ֥ר עָלֶ֖יךָ וְשַׂמְתִּ֣י עֲלֵיהֶ֑ם וְנָשְׂא֤וּ אִתְּךָ֙ בְּמַשָּׂ֣א הָעָ֔ם וְלֹא־ תִשָּׂ֥א אַתָּ֖ה לְבַדֶּֽךָ׃"
+pericope: "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic JURY|JURY]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H8033G]]"
+- "[[H0680]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7307G]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H7760H]]"
+- "[[H9038]]"
+- "[[H5375H]]"
+- "[[H0854]]"
+- "[[H9003]]"
+- "[[H4853A]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0859A]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:17**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will come down and talk with thee there: and I will take of the spirit which [is] upon thee, and will put [it] upon them; and they shall bear the burden of the people with thee, that thou bear [it] not thyself alone.
 <small><sub>**BSB:**</sub></small>
 And I will come down and speak with you there, and I will take some of the Spirit that is on you and put that Spirit on them. They will help you bear the burden of the people, so that you do not have to bear it by yourself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3381\|יָרַדְתִּ֗י]] [[H9001\|וְ]][[H1696G\|דִבַּרְתִּ֣י]] [[H5973A\|עִמְּ]][[H9031\|ךָ֮]] [[H8033G\|שָׁם֒]] [[H9001\|וְ]][[H0680\|אָצַלְתִּ֗י]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H7307G\|ר֛וּחַ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H9001\|וְ]][[H7760H\|שַׂמְתִּ֣י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9001\|וְ]][[H5375H\|נָשְׂא֤וּ]] [[H0854\|אִתְּ]][[H9031\|ךָ֙]] [[H9003\|בְּ]][[H4853A\|מַשָּׂ֣א]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5375H\|תִשָּׂ֥א]] [[H0859A\|אַתָּ֖ה]] [[H9005\|לְ]][[H0905H\|בַדֶּֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INSPIRATION|INSPIRATION]] • [[topic JURY|JURY]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.16|<< Numbers 11:16]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.18|Numbers 11:18 >>]]</td></tr></table>
 

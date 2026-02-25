@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 9:11
+type: Verse
+kjv: "And the king made of the algum trees terraces to the house of the LORD, and to the king’s palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah."
+bsb: "The king made the algum wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had anything like them been seen in the land of Judah.)"
+hebrew: "וַיַּ֣עַשׂ הַ֠מֶּלֶךְ אֶת־ עֲצֵ֨י הָֽאַלְגּוּמִּ֜ים מְסִלּ֤וֹת לְבֵית־ יְהוָה֙ וּלְבֵ֣ית הַמֶּ֔לֶךְ וְכִנֹּר֥וֹת וּנְבָלִ֖ים לַשָּׁרִ֑ים וְלֹא־ נִרְא֥וּ כָהֵ֛ם לְפָנִ֖ים בְּאֶ֥רֶץ יְהוּדָֽה׃"
+pericope: "[[2Chr.9.1 The Queen of Sheba|The Queen of Sheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ALGUM|ALGUM]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SHEBA|SHEBA]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6086G]]"
+- "[[H0418]]"
+- "[[H4546]]"
+- "[[H9005]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H3658]]"
+- "[[H5035B]]"
+- "[[H7891]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9004]]"
+- "[[H9038]]"
+- "[[H6440G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:11**<big><big>[[2Chr.9.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king made [of] the algum trees terraces to the house of the LORD, and to the king’s palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah.
 <small><sub>**BSB:**</sub></small>
 The king made the algum wood into steps for the house of the LORD and for the king’s palace, and into lyres and harps for the singers. Never before had anything like them been seen in the land of Judah.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֣עַשׂ]] [[H9009\|הַ֠]][[H4428G\|מֶּלֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H6086G\|עֲצֵ֨י]] [[H9009\|הָֽ]][[H0418\|אַלְגּוּמִּ֜ים]] [[H4546\|מְסִלּ֤וֹת]] [[H9005\|לְ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9002\|וּ]][[H9005\|לְ]][[H1004B\|בֵ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H3658\|כִנֹּר֥וֹת]] [[H9002\|וּ]][[H5035B\|נְבָלִ֖ים]] [[H9005\|לַ]][[H7891\|שָּׁרִ֑ים]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7200G\|נִרְא֥וּ]] [[H9004\|כָ]][[H9038\|הֵ֛ם]] [[H9005\|לְ]][[H6440G\|פָנִ֖ים]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALGUM|ALGUM]] • [[topic MUSIC|MUSIC]] • [[topic SHEBA|SHEBA]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.10|<< 2 Chronicles 9:10]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.12|2 Chronicles 9:12 >>]]</td></tr></table>
 

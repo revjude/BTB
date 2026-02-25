@@ -1,8 +1,70 @@
+---
+title: Ezra 8:18
+type: Verse
+kjv: "And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;"
+bsb: "And since the gracious hand of our God was upon us, they brought us Sherebiah—a man of insight from the descendants of Mahli son of Levi, the son of Israel—along with his sons and brothers, 18 men;"
+hebrew: "וַיָּבִ֨יאּוּ לָ֜נוּ כְּיַד־ אֱלֹהֵ֨ינוּ הַטּוֹבָ֤ה עָלֵ֙ינוּ֙ אִ֣ישׁ שֶׂ֔כֶל מִבְּנֵ֣י מַחְלִ֔י בֶּן־ לֵוִ֖י בֶּן־ יִשְׂרָאֵ֑ל וְשֵׁרֵֽבְיָ֛ה וּבָנָ֥יו וְאֶחָ֖יו שְׁמֹנָ֥ה עָשָֽׂר׃"
+pericope: "[[Ezra.8.15 Ezra Sends for the Levites|Ezra Sends for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MAHLI|MAHLI]]"
+- "[[topic SHEREBIAH|SHEREBIAH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9004]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H5921A]]"
+- "[[H0376G]]"
+- "[[H7922]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H4249G]]"
+- "[[H1121A]]"
+- "[[H3881]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H8274G]]"
+- "[[H9023]]"
+- "[[H0251H]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 8:18**<big><big>[[Ezra.8.15 Ezra Sends for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;
 <small><sub>**BSB:**</sub></small>
 And since the gracious hand of our God was upon us, they brought us Sherebiah—a man of insight from the descendants of Mahli son of Levi, the son of Israel—along with his sons and brothers, 18 men;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבִ֨יאּוּ]] [[H9005\|לָ֜]][[H9035\|נוּ]] [[H9004\|כְּ]][[H3027H\|יַד]][[H9014\|־]] [[H0430G\|אֱלֹהֵ֨י]][[H9025\|נוּ]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֤ה]] [[H5921A\|עָלֵ֙י]][[H9035\|נוּ֙]] [[H0376G\|אִ֣ישׁ]] [[H7922\|שֶׂ֔כֶל]] [[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H4249G\|מַחְלִ֔י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3881\|לֵוִ֖י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H8274G\|שֵׁרֵֽבְיָ֛ה]] [[H9002\|וּ]][[H1121G\|בָנָ֥י]][[H9023\|ו]] [[H9002\|וְ]][[H0251H\|אֶחָ֖י]][[H9023\|ו]] [[H8083\|שְׁמֹנָ֥ה]] [[H6240\|עָשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]] • [[topic MAHLI|MAHLI]] • [[topic SHEREBIAH|SHEREBIAH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.17|<< Ezra 8:17]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.19|Ezra 8:19 >>]]</td></tr></table>
 

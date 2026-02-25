@@ -1,8 +1,54 @@
+---
+title: Isaiah 48:10
+type: Verse
+kjv: "Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction."
+bsb: "See, I have refined you, but not as silver; I have tested you in the furnace of affliction."
+hebrew: "הִנֵּ֥ה צְרַפְתִּ֖יךָ וְלֹ֣א בְכָ֑סֶף בְּחַרְתִּ֖יךָ בְּכ֥וּר עֹֽנִי׃"
+pericope: "[[Isa.48.1 Israel’s Stubbornness|Israel’s Stubbornness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic REFINING|REFINING]]"
+strongs:
+- "[[H2009]]"
+- "[[H6884]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H0977]]"
+- "[[H3564]]"
+- "[[H6040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:10**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.
 <small><sub>**BSB:**</sub></small>
 See, I have refined you, but not as silver; I have tested you in the furnace of affliction.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֥ה]] [[H6884\|צְרַפְתִּ֖י]][[H9031\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9003\|בְ]][[H3701G\|כָ֑סֶף]] [[H0977\|בְּחַרְתִּ֖י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H3564\|כ֥וּר]] [[H6040\|עֹֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FURNACE|FURNACE]] • [[topic REFINING|REFINING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.9|<< Isaiah 48:9]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.11|Isaiah 48:11 >>]]</td></tr></table>
 

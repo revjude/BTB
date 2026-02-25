@@ -1,8 +1,70 @@
+---
+title: Daniel 1:5
+type: Verse
+kjv: "And the king appointed them a daily provision of the king’s meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king."
+bsb: "The king assigned them daily provisions of the royal food and wine. They were to be trained for three years, after which they were to enter the king’s service."
+hebrew: "וַיְמַן֩ לָהֶ֨ם הַמֶּ֜לֶךְ דְּבַר־ י֣וֹם בְּיוֹמ֗וֹ מִפַּת־ בַּ֤ג הַמֶּ֙לֶךְ֙ וּמִיֵּ֣ין מִשְׁתָּ֔יו וּֽלְגַדְּלָ֖ם שָׁנִ֣ים שָׁל֑וֹשׁ וּמִ֨קְצָתָ֔ם יַֽעַמְד֖וּ לִפְנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[Dan.1.1 Daniel Removed to Babylon|Daniel Removed to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4487]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1697N]]"
+- "[[H9014]]"
+- "[[H3117J]]"
+- "[[H9003]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H6598]]"
+- "[[H9002]]"
+- "[[H3196]]"
+- "[[H4960]]"
+- "[[H1431]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H7117]]"
+- "[[H9028]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:5**<big><big>[[Dan.1.1 Daniel Removed to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king appointed them a daily provision of the king’s meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king.
 <small><sub>**BSB:**</sub></small>
 The king assigned them daily provisions of the royal food and wine. They were to be trained for three years, after which they were to enter the king’s service.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4487\|יְמַן֩]] [[H9005\|לָ]][[H9038\|הֶ֨ם]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H1697N\|דְּבַר]][[H9014\|־]] [[H3117J\|י֣וֹם]] [[H9003\|בְּ]][[H3117J\|יוֹמ֗]][[H9023\|וֹ]] [[H9006\|מִ]][[H6598\|פַּת]][[H9014\|־]] [[H6598\|בַּ֤ג]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9002\|וּ]][[H9006\|מִ]][[H3196\|יֵּ֣ין]] [[H4960\|מִשְׁתָּ֔י]][[H9023\|ו]] [[H9002\|וּֽ]][[H9005\|לְ]][[H1431\|גַדְּלָ֖]][[H9038\|ם]] [[H8141\|שָׁנִ֣ים]] [[H7969\|שָׁל֑וֹשׁ]] [[H9002\|וּ]][[H9006\|מִ֨]][[H7117\|קְצָתָ֔]][[H9028\|ם]] [[H5975G\|יַֽעַמְד֖וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SCHOOL|SCHOOL]] • [[topic STATECRAFT|STATECRAFT]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.4|<< Daniel 1:4]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.6|Daniel 1:6 >>]]</td></tr></table>
 

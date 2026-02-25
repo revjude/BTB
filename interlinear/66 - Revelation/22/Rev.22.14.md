@@ -1,10 +1,63 @@
+---
+title: Revelation 22:14
+type: Verse
+kjv: "Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city."
+bsb: "Blessed are those who wash their robes, so that they may have the right to the tree of life and may enter the city by its gates."
+greek: "Μακάριοι οἱ πλύνοντες τὰς στολὰς αὐτῶν, ἵνα ἔσται ἡ ἐξουσία αὐτῶν ἐπὶ τὸ ξύλον τῆς ζωῆς, καὶ τοῖς πυλῶσιν εἰσέλθωσιν εἰς τὴν πόλιν.¶"
+pericope: "[[Rev.22.6 Jesus Is Coming|Jesus Is Coming]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TREE|TREE]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3107]]"
+- "[[G3588]]"
+- "[[G4150]]"
+- "[[G4749]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G1510]]"
+- "[[G1849]]"
+- "[[G1909]]"
+- "[[G3586]]"
+- "[[G2222]]"
+- "[[G2532]]"
+- "[[G4440]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G4172]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Revelation 22:14**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Blessed [are] they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
 <small><sub>**BSB:**</sub></small>
 Blessed are those who wash their robes, so that they may have the right to the tree of life and may enter the city by its gates.
-<small><sub>**Literal:**</sub></small>
-Blessed [are] those washing the robes of them, that will be the right of them to the tree <the> of life, and by the gates they may enter into the city.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.13|<< Revelation 22:13]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.15|Revelation 22:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3107\|Μακάριοι]]  [[G3588\|οἱ]]  [[G4150\|πλύνοντες]]  [[G3588\|τὰς]]  [[G4749\|στολὰς]]  [[G0846\|αὐτῶν,]]  [[G2443\|ἵνα]]  [[G1510\|ἔσται]]  [[G3588\|ἡ]]  [[G1849\|ἐξουσία]]  [[G0846\|αὐτῶν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3586\|ξύλον]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς,]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G4440\|πυλῶσιν]]  [[G1525\|εἰσέλθωσιν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4172\|πόλιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TREE|TREE]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.13|<< Revelation 22:13]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.15|Revelation 22:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

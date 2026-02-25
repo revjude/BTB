@@ -1,8 +1,61 @@
+---
+title: Nahum 3:5
+type: Verse
+kjv: "Behold, I am against thee, saith the LORD of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame."
+bsb: "“Behold, I am against you,” declares the LORD of Hosts. “I will lift your skirts over your face. I will show your nakedness to the nations and your shame to the kingdoms."
+hebrew: "הִנְנִ֣י אֵלַ֗יִךְ נְאֻם֙ יְהוָ֣ה צְבָא֔וֹת וְגִלֵּיתִ֥י שׁוּלַ֖יִךְ עַל־ פָּנָ֑יִךְ וְהַרְאֵיתִ֤י גוֹיִם֙ מַעְרֵ֔ךְ וּמַמְלָכ֖וֹת קְלוֹנֵֽךְ׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9001]]"
+- "[[H1540I]]"
+- "[[H7757]]"
+- "[[H9022]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H7200G]]"
+- "[[H1471A]]"
+- "[[H4626]]"
+- "[[H9002]]"
+- "[[H4467]]"
+- "[[H7036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 3:5**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I [am] against thee, saith the LORD of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame.
 <small><sub>**BSB:**</sub></small>
 “Behold, I am against you,” declares the LORD of Hosts. “I will lift your skirts over your face. I will show your nakedness to the nations and your shame to the kingdoms.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H0413\|אֵלַ֗יִ]][[H9032\|ךְ]] [[H5002\|נְאֻם֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9001\|וְ]][[H1540I\|גִלֵּיתִ֥י]] [[H7757\|שׁוּלַ֖יִ]][[H9022\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנָ֑יִ]][[H9022\|ךְ]] [[H9001\|וְ]][[H7200G\|הַרְאֵיתִ֤י]] [[H1471A\|גוֹיִם֙]] [[H4626\|מַעְרֵ֔]][[H9022\|ךְ]] [[H9002\|וּ]][[H4467\|מַמְלָכ֖וֹת]] [[H7036\|קְלוֹנֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.4|<< Nahum 3:4]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.6|Nahum 3:6 >>]]</td></tr></table>
 

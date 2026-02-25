@@ -1,8 +1,57 @@
+---
+title: Ezekiel 42:8
+type: Verse
+kjv: "For the length of the chambers that were in the utter court was fifty cubits: and, lo, before the temple were an hundred cubits."
+bsb: "For the chambers on the outer court were fifty cubits long, while those facing the temple were a hundred cubits long."
+hebrew: "כִּֽי־ אֹ֣רֶךְ הַלְּשָׁכ֗וֹת אֲשֶׁ֛ר לֶחָצֵ֥ר הַחִֽצוֹנָ֖ה חֲמִשִּׁ֣ים אַמָּ֑ה וְהִנֵּ֛ה עַל־ פְּנֵ֥י הַהֵיכָ֖ל מֵאָ֥ה אַמָּֽה׃"
+pericope: "[[Ezek.42.1 Chambers for the Priests|Chambers for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0753]]"
+- "[[H9009]]"
+- "[[H3957]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H2691A]]"
+- "[[H2435]]"
+- "[[H2572]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H1964I]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:8**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the length of the chambers that [were] in the utter court [was] fifty cubits: and, lo, before the temple [were] an hundred cubits.
 <small><sub>**BSB:**</sub></small>
 For the chambers on the outer court were fifty cubits long, while those facing the temple were a hundred cubits long.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0753\|אֹ֣רֶךְ]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֗וֹת]] [[H0834A\|אֲשֶׁ֛ר]] [[H9005\|לֶ]][[H2691A\|חָצֵ֥ר]] [[H9009\|הַ]][[H2435\|חִֽצוֹנָ֖ה]] [[H2572\|חֲמִשִּׁ֣ים]] [[H0520A\|אַמָּ֑ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֥י]] [[H9009\|הַ]][[H1964I\|הֵיכָ֖ל]] [[H3967\|מֵאָ֥ה]] [[H0520A\|אַמָּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.7|<< Ezekiel 42:7]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.9|Ezekiel 42:9 >>]]</td></tr></table>
 

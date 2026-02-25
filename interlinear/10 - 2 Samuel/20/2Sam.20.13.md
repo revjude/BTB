@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 20:13
+type: Verse
+kjv: "When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri."
+bsb: "As soon as Amasa’s body was removed from the road, all the men went on with Joab to pursue Sheba son of Bichri."
+hebrew: "כַּאֲשֶׁ֥ר הֹגָ֖ה מִן־ הַֽמְסִלָּ֑ה עָבַ֤ר כָּל־ אִישׁ֙ אַחֲרֵ֣י יוֹאָ֔ב לִרְדֹּ֕ף אַחֲרֵ֖י שֶׁ֥בַע בֶּן־ בִּכְרִֽי׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3014]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4546]]"
+- "[[H5674A]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H0310A]]"
+- "[[H3097G]]"
+- "[[H9005]]"
+- "[[H7291]]"
+- "[[H7652A]]"
+- "[[H1121A]]"
+- "[[H1075]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:13**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri.
 <small><sub>**BSB:**</sub></small>
 As soon as Amasa’s body was removed from the road, all the men went on with Joab to pursue Sheba son of Bichri.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H3014\|הֹגָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H4546\|מְסִלָּ֑ה]] [[H5674A\|עָבַ֤ר]] [[H3605\|כָּל]][[H9014\|־]] [[H0376G\|אִישׁ֙]] [[H0310A\|אַחֲרֵ֣י]] [[H3097G\|יוֹאָ֔ב]] [[H9005\|לִ]][[H7291\|רְדֹּ֕ף]] [[H0310A\|אַחֲרֵ֖י]] [[H7652A\|שֶׁ֥בַע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1075\|בִּכְרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.12|<< 2 Samuel 20:12]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.14|2 Samuel 20:14 >>]]</td></tr></table>
 

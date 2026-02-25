@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Testimony to Agrippa
+type: Pericope
 pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
-verse_count: 23
+original_language: Greek
 testament: New
 book: Acts
 chapter: 26
 book/chapter: "[[Acts.26|Acts 26]]"
-genre:
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 23
 verses:
 - "[[Acts.26.1]]"
 - "[[Acts.26.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Acts.26.23]]"
 ---
 
-[[Acts.26|Acts 26:1 - Acts 26:23]]
+<small>[[Acts.26|Acts 26:1-23]]</small>
 *Paul’s Testimony to Agrippa*
 
 [[Acts.26.1|1]] Then Agrippa said unto Paul, Thou art permitted to speak for thyself. Then Paul stretched forth the hand, and answered for himself:

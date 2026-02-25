@@ -1,8 +1,52 @@
+---
+title: Psalm 68:11
+type: Verse
+kjv: "The Lord gave the word: great was the company of those that published it."
+bsb: "The Lord gives the command; a great company of women proclaim it:"
+hebrew: "אֲדֹנָ֥י יִתֶּן־ אֹ֑מֶר הַֽ֝מְבַשְּׂר֗וֹת צָבָ֥א רָֽב׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H0136]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H0562]]"
+- "[[H9009]]"
+- "[[H1319]]"
+- "[[H6635A]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:11**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord gave the word: great [was] the company of those that published [it].
 <small><sub>**BSB:**</sub></small>
 The Lord gives the command; a great company of women proclaim it:
+<small><sub>**Hebrew:**</sub></small>
+[[H0136\|אֲדֹנָ֥י]] [[H5414G\|יִתֶּן]][[H9014\|־]] [[H0562\|אֹ֑מֶר]] [[H9009\|הַֽ֝]][[H1319\|מְבַשְּׂר֗וֹת]] [[H6635A\|צָבָ֥א]] [[H7227A\|רָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.10|<< Psalms 68:10]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.12|Psalms 68:12 >>]]</td></tr></table>
 

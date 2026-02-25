@@ -1,8 +1,63 @@
+---
+title: 1 Kings 22:33
+type: Verse
+kjv: "And it came to pass, when the captains of the chariots perceived that it was not the king of Israel, that they turned back from pursuing him."
+bsb: "And when the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him."
+hebrew: "וַיְהִ֗י כִּרְאוֹת֙ שָׂרֵ֣י הָרֶ֔כֶב כִּֽי־ לֹא־ מֶ֥לֶךְ יִשְׂרָאֵ֖ל ה֑וּא וַיָּשׁ֖וּבוּ מֵאַחֲרָֽיו׃"
+pericope: "[[1Kgs.22.29 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H1931]]"
+- "[[H7725G]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:33**<big><big>[[1Kgs.22.29 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the captains of the chariots perceived that it [was] not the king of Israel, that they turned back from pursuing him.
 <small><sub>**BSB:**</sub></small>
 And when the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כִּ]][[H7200G\|רְאוֹת֙]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הָ]][[H7393G\|רֶ֔כֶב]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3808\|לֹא]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1931\|ה֑וּא]] [[H9001\|וַ]][[H7725G\|יָּשׁ֖וּבוּ]] [[H9006\|מֵ]][[H0310A\|אַחֲרָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic CHARIOT|CHARIOT]] • [[topic PROPHECY|PROPHECY]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.32|<< 1 Kings 22:32]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.34|1 Kings 22:34 >>]]</td></tr></table>
 

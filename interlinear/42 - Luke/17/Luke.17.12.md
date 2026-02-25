@@ -1,10 +1,60 @@
+---
+title: Luke 17:12
+type: Verse
+kjv: "And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:"
+bsb: "As He entered one of the villages, He was met by ten lepers. They stood at a distance"
+greek: "καὶ εἰσερχομένου αὐτοῦ εἴς τινα κώμην ἀπήντησαν αὐτῷ δέκα λεπροὶ ἄνδρες, οἳ ἔστησαν πόρρωθεν."
+pericope: "[[Luke.17.11 The Ten Lepers|The Ten Lepers]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G5100]]"
+- "[[G2968]]"
+- "[[G0528]]"
+- "[[G1176]]"
+- "[[G3015]]"
+- "[[G0435G]]"
+- "[[G3739]]"
+- "[[G2476]]"
+- "[[G4207]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Luke 17:12**<big><big>[[Luke.17.11 The Ten Lepers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:
 <small><sub>**BSB:**</sub></small>
 As He entered one of the villages, He was met by ten lepers. They stood at a distance
-<small><sub>**Literal:**</sub></small>
-And when is entering He into a certain village met with Him ten leprous men, who stood afar off.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.11|<< Luke 17:11]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.13|Luke 17:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1525\|εἰσερχομένου]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἴς]]  [[G5100\|τινα]]  [[G2968\|κώμην]]  [[G0528\|ἀπήντησαν]]  [[G0846\|αὐτῷ]]  [[G1176\|δέκα]]  [[G3015\|λεπροὶ]]  [[G0435G\|ἄνδρες,]]  [[G3739\|οἳ]]  [[G2476\|ἔστησαν]]  [[G4207\|πόρρωθεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEPROSY|LEPROSY]] • [[topic MIRACLES|MIRACLES]] • [[topic SAMARIA|SAMARIA]] • [[topic SANITATION|SANITATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.11|<< Luke 17:11]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.13|Luke 17:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

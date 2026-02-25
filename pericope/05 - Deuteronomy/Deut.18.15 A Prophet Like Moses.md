@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophet Like Moses
+type: Pericope
 pericope: "[[Deut.18.15 A Prophet Like Moses|A Prophet Like Moses]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 18
 book/chapter: "[[Deut.18|Deuteronomy 18]]"
-genre:
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 8
 verses:
 - "[[Deut.18.15]]"
 - "[[Deut.18.16]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Deut.18.22]]"
 ---
 
-[[Deut.18|Deuteronomy 18:15 - Deuteronomy 18:22]]
+<small>[[Deut.18|Deuteronomy 18:15-22]]</small>
 *A Prophet Like Moses*
 
 [[Deut.18.15|15]] The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;

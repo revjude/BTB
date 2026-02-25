@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 17:16
+type: Verse
+kjv: "But he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he should multiply horses: forasmuch as the LORD hath said unto you, Ye shall henceforth return no more that way."
+bsb: "But the king must not acquire many horses for himself or send the people back to Egypt to acquire more horses, for the LORD has said, ‘You are never to go back that way again.’"
+hebrew: "רַק֮ לֹא־ יַרְבֶּה־ לּ֣וֹ סוּסִים֒ וְלֹֽא־ יָשִׁ֤יב אֶת־ הָעָם֙ מִצְרַ֔יְמָה לְמַ֖עַן הַרְבּ֣וֹת ס֑וּס וַֽיהוָה֙ אָמַ֣ר לָכֶ֔ם לֹ֣א תֹסִפ֗וּן לָשׁ֛וּב בַּדֶּ֥רֶךְ הַזֶּ֖ה עֽוֹד׃"
+pericope: "[[Deut.17.14 Guidelines for a King|Guidelines for a King]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HORSE|HORSE]]"
+- "[[topic KING|KING]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H7535]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7235A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5483M]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H4616]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9036]]"
+- "[[H3254G]]"
+- "[[H9013]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H2088]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 17:16**<big><big>[[Deut.17.14 Guidelines for a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he should multiply horses: forasmuch as the LORD hath said unto you, Ye shall henceforth return no more that way.
 <small><sub>**BSB:**</sub></small>
 But the king must not acquire many horses for himself or send the people back to Egypt to acquire more horses, for the LORD has said, ‘You are never to go back that way again.’
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַק֮]] [[H3808\|לֹא]][[H9014\|־]] [[H7235A\|יַרְבֶּה]][[H9014\|־]] [[H9005\|לּ֣]][[H9033\|וֹ]] [[H5483M\|סוּסִים֒]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|יָשִׁ֤יב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H4714G\|מִצְרַ֔יְמָ]][[H9011\|ה]] [[H4616\|לְמַ֖עַן]] [[H7235A\|הַרְבּ֣וֹת]] [[H5483M\|ס֑וּס]] [[H9002\|וַֽ]][[H3068G\|יהוָה֙]] [[H0559\|אָמַ֣ר]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H3808\|לֹ֣א]] [[H3254G\|תֹסִפ֗וּ]][[H9013\|ן]] [[H9005\|לָ]][[H7725G\|שׁ֛וּב]] [[H9003\|בַּ]][[H1870K\|דֶּ֥רֶךְ]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HORSE|HORSE]] • [[topic KING|KING]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.17.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.17.15|<< Deuteronomy 17:15]]</td><td align="center" style="border:none;">[[Deut.17|Deuteronomy 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.17.17|Deuteronomy 17:17 >>]]</td></tr></table>
 

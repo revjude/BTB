@@ -1,8 +1,50 @@
+---
+title: 1 Samuel 10:15
+type: Verse
+kjv: "And Saul’s uncle said, Tell me, I pray thee, what Samuel said unto you."
+bsb: "“Tell me,” Saul’s uncle asked, “what did Samuel say to you?”"
+hebrew: "וַיֹּ֖אמֶר דּ֣וֹד שָׁא֑וּל הַגִּֽידָה־ נָּ֣א לִ֔י מָֽה־ אָמַ֥ר לָכֶ֖ם שְׁמוּאֵֽל׃"
+pericope: "[[1Sam.10.9 Samuel’s Signs Fulfilled|Samuel’s Signs Fulfilled]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1730I]]"
+- "[[H7586G]]"
+- "[[H5046]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4100]]"
+- "[[H9036]]"
+- "[[H8050G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 10:15**<big><big>[[1Sam.10.9 Samuel’s Signs Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul’s uncle said, Tell me, I pray thee, what Samuel said unto you.
 <small><sub>**BSB:**</sub></small>
 “Tell me,” Saul’s uncle asked, “what did Samuel say to you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H1730I\|דּ֣וֹד]] [[H7586G\|שָׁא֑וּל]] [[H5046\|הַגִּֽידָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H9005\|לִ֔]][[H9030\|י]] [[H4100\|מָֽה]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H8050G\|שְׁמוּאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.14|<< 1 Samuel 10:14]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.16|1 Samuel 10:16 >>]]</td></tr></table>
 

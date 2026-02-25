@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph Falsely Imprisoned
+type: Pericope
 pericope: "[[Gen.39.13 Joseph Falsely Imprisoned|Joseph Falsely Imprisoned]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 39
 book/chapter: "[[Gen.39|Genesis 39]]"
-genre:
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 11
 verses:
 - "[[Gen.39.13]]"
 - "[[Gen.39.14]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Gen.39.23]]"
 ---
 
-[[Gen.39|Genesis 39:13 - Genesis 39:23]]
+<small>[[Gen.39|Genesis 39:13-23]]</small>
 *Joseph Falsely Imprisoned*
 
 [[Gen.39.13|13]] And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,

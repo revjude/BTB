@@ -1,8 +1,63 @@
+---
+title: Genesis 16:10
+type: Verse
+kjv: "And the angel of the LORD said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude."
+bsb: "Then the angel added, “I will greatly multiply your offspring so that they will be too numerous to count.”"
+hebrew: "וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהוָ֔ה הַרְבָּ֥ה אַרְבֶּ֖ה אֶת־ זַרְעֵ֑ךְ וְלֹ֥א יִסָּפֵ֖ר מֵרֹֽב׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic LAHAI-ROI|LAHAI-ROI]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2233H]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5608A]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:10**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude.
 <small><sub>**BSB:**</sub></small>
 Then the angel added, “I will greatly multiply your offspring so that they will be too numerous to count.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֔ה]] [[H7235A\|הַרְבָּ֥ה]] [[H7235A\|אַרְבֶּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2233H\|זַרְעֵ֑]][[H9022\|ךְ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5608A\|יִסָּפֵ֖ר]] [[H9006\|מֵ]][[H7230\|רֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMUNION|COMMUNION]] • [[topic LAHAI-ROI|LAHAI-ROI]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.9|<< Genesis 16:9]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.11|Genesis 16:11 >>]]</td></tr></table>
 

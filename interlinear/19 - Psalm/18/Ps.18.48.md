@@ -1,8 +1,53 @@
+---
+title: Psalm 18:48
+type: Verse
+kjv: "He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man."
+bsb: "who delivers me from my enemies. You exalt me above my foes; You rescue me from violent men."
+hebrew: "מְפַלְּטִ֗י מֵאֹ֫יְבָ֥י אַ֣ף מִן־ קָ֭מַי תְּרוֹמְמֵ֑נִי מֵאִ֥ישׁ חָ֝מָ֗ס תַּצִּילֵֽנִי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H6403]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H0637]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H6965B]]"
+- "[[H7311A]]"
+- "[[H0376G]]"
+- "[[H2555]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:48**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He delivereth me from mine enemies: yea, thou liftest me up above those that rise up against me: thou hast delivered me from the violent man.
 <small><sub>**BSB:**</sub></small>
 who delivers me from my enemies. You exalt me above my foes; You rescue me from violent men.
+<small><sub>**Hebrew:**</sub></small>
+[[H6403\|מְפַלְּטִ֗]][[H9030\|י]] [[H9006\|מֵ]][[H0341\|אֹ֫יְבָ֥]][[H9020\|י]] [[H0637\|אַ֣ף]] [[H4480A\|מִן]][[H9014\|־]] [[H6965B\|קָ֭מַ]][[H9030\|י]] [[H7311A\|תְּרוֹמְמֵ֑]][[H9030\|נִי]] [[H9006\|מֵ]][[H0376G\|אִ֥ישׁ]] [[H2555\|חָ֝מָ֗ס]] [[H5337\|תַּצִּילֵֽ]][[H9030\|נִי]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.47|<< Psalms 18:47]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.49|Psalms 18:49 >>]]</td></tr></table>
 

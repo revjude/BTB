@@ -1,10 +1,60 @@
+---
+title: 1 John 2:17
+type: Verse
+kjv: "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever."
+bsb: "The world is passing away, along with its desires; but whoever does the will of God remains forever."
+greek: "καὶ ὁ κόσμος παράγεται καὶ ἡ ἐπιθυμία αὐτοῦ· ὁ δὲ ποιῶν τὸ θέλημα τοῦ θεοῦ μένει εἰς τὸν αἰῶνα.¶"
+pericope: "[[1John.2.15 Do Not Love the World|Do Not Love the World]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic LUST|LUST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G3855]]"
+- "[[G1939]]"
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G3306]]"
+- "[[G1519]]"
+- "[[G0165H]]"
+texts:
+- NKO
+---
+
 **1 John 2:17**<big><big>[[1John.2.15 Do Not Love the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.
 <small><sub>**BSB:**</sub></small>
 The world is passing away, along with its desires; but whoever does the will of God remains forever.
-<small><sub>**Literal:**</sub></small>
-And the world is passing away and the desire of it; the [one] however doing the will <the> of God abides to the age.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.16|<< 1 John 2:16]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.18|1 John 2:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G3855\|παράγεται]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1939\|ἐπιθυμία]]  [[G0846\|αὐτοῦ·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4160G\|ποιῶν]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3306\|μένει]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic LUST|LUST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORLDLINESS|WORLDLINESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.16|<< 1 John 2:16]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.18|1 John 2:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

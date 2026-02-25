@@ -1,8 +1,65 @@
+---
+title: Judges 11:12
+type: Verse
+kjv: "And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?"
+bsb: "Then Jephthah sent messengers to the king of the Ammonites, saying, “What do you have against me that you have come to fight against my land?”"
+hebrew: "וַיִּשְׁלַ֤ח יִפְתָּח֙ מַלְאָכִ֔ים אֶל־ מֶ֥לֶךְ בְּנֵֽי־ עַמּ֖וֹן לֵאמֹ֑ר מַה־ לִּ֣י וָלָ֔ךְ כִּֽי־ בָ֥אתָ אֵלַ֖י לְהִלָּחֵ֥ם בְּאַרְצִֽי׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3316H]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9032]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:12**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jephthah sent messengers unto the king of the children of Ammon, saying, What hast thou to do with me, that thou art come against me to fight in my land?
 <small><sub>**BSB:**</sub></small>
 Then Jephthah sent messengers to the king of the Ammonites, saying, “What do you have against me that you have come to fight against my land?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H3316H\|יִפְתָּח֙]] [[H4397G\|מַלְאָכִ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֖וֹן]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לִּ֣]][[H9030\|י]] [[H9002\|וָ]][[H9005\|לָ֔]][[H9032\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|בָ֥אתָ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֥ם]] [[H9003\|בְּ]][[H0776G\|אַרְצִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.11|<< Judges 11:11]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.13|Judges 11:13 >>]]</td></tr></table>
 

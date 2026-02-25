@@ -1,8 +1,53 @@
+---
+title: Joshua 24:28
+type: Verse
+kjv: "So Joshua let the people depart, every man unto his inheritance."
+bsb: "Then Joshua sent the people away, each to his own inheritance."
+hebrew: "וַיְשַׁלַּ֤ח יְהוֹשֻׁ֙עַ֙ אֶת־ הָעָ֔ם אִ֖ישׁ לְנַחֲלָתֽוֹ׃ פ"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 24:28**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joshua let the people depart, every man unto his inheritance.
 <small><sub>**BSB:**</sub></small>
 Then Joshua sent the people away, each to his own inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יְשַׁלַּ֤ח]] [[H3091G\|יְהוֹשֻׁ֙עַ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0376I\|אִ֖ישׁ]] [[H9005\|לְ]][[H5159\|נַחֲלָתֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.27|<< Joshua 24:27]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.29|Joshua 24:29 >>]]</td></tr></table>
 
@@ -13,7 +58,7 @@ Then Joshua sent the people away, each to his own inheritance.
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֔ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | everyone  |**<big>&#8207;[[H0376I\|אִ֖ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to own inheritance his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5159\|נַחֲלָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> na.cha.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to own inheritance his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5159\|נַחֲלָתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> na.cha.la.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.27|<< Joshua 24:27]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.29|Joshua 24:29 >>]]</td></tr></table>
 
 

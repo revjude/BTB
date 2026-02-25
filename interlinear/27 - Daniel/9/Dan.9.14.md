@@ -1,8 +1,72 @@
+---
+title: Daniel 9:14
+type: Verse
+kjv: "Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all his works which he doeth: for we obeyed not his voice."
+bsb: "Therefore the LORD has kept the calamity in store and brought it upon us. For the LORD our God is righteous in all He does; yet we have not obeyed His voice."
+hebrew: "וַיִּשְׁקֹ֤ד יְהוָה֙ עַל־ הָ֣רָעָ֔ה וַיְבִיאֶ֖הָ עָלֵ֑ינוּ כִּֽי־ צַדִּ֞יק יְהוָ֣ה אֱלֹהֵ֗ינוּ עַל־ כָּל־ מַֽעֲשָׂיו֙ אֲשֶׁ֣ר עָשָׂ֔ה וְלֹ֥א שָׁמַ֖עְנוּ בְּקֹלֽוֹ׃"
+pericope: "[[Dan.9.1 Daniel’s Prayer for His People|Daniel’s Prayer for His People]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 9
+book/chapter: "[[Dan.9|Daniel 9]]"
+chronological_order: 845
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H8245]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H0935P]]"
+- "[[H9034]]"
+- "[[H9035]]"
+- "[[H3588A]]"
+- "[[H6662]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H3605]]"
+- "[[H4639K]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 9:14**<big><big>[[Dan.9.1 Daniel’s Prayer for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God [is] righteous in all his works which he doeth: for we obeyed not his voice.
 <small><sub>**BSB:**</sub></small>
 Therefore the LORD has kept the calamity in store and brought it upon us. For the LORD our God is righteous in all He does; yet we have not obeyed His voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8245\|יִּשְׁקֹ֤ד]] [[H3068G\|יְהוָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ֣]][[H7451C\|רָעָ֔ה]] [[H9001\|וַ]][[H0935P\|יְבִיאֶ֖]][[H9034\|הָ]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6662\|צַדִּ֞יק]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4639K\|מַֽעֲשָׂי]][[H9023\|ו֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085H\|שָׁמַ֖עְנוּ]] [[H9003\|בְּ]][[H6963A\|קֹלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PRAYER|PRAYER]] • [[topic PROPHETS|PROPHETS]] • [[topic RESIGNATION|RESIGNATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.9.13|<< Daniel 9:13]]</td><td align="center" style="border:none;">[[Dan.9|Daniel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.15|Daniel 9:15 >>]]</td></tr></table>
 

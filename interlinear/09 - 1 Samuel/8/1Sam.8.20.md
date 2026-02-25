@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 8:20
+type: Verse
+kjv: "That we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles."
+bsb: "Then we will be like all the other nations, with a king to judge us, to go out before us, and to fight our battles.”"
+hebrew: "וְהָיִ֥ינוּ גַם־ אֲנַ֖חְנוּ כְּכָל־ הַגּוֹיִ֑ם וּשְׁפָטָ֤נוּ מַלְכֵּ֙נוּ֙ וְיָצָ֣א לְפָנֵ֔ינוּ וְנִלְחַ֖ם אֶת־ מִלְחֲמֹתֵֽנוּ׃"
+pericope: "[[1Sam.8.19 God Grants the Request|God Grants the Request]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0587]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H8199]]"
+- "[[H9035]]"
+- "[[H4428G]]"
+- "[[H9025]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3898A]]"
+- "[[H0853]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 8:20**<big><big>[[1Sam.8.19 God Grants the Request|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles.
 <small><sub>**BSB:**</sub></small>
 Then we will be like all the other nations, with a king to judge us, to go out before us, and to fight our battles.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיִ֥ינוּ]] [[H1571\|גַם]][[H9014\|־]] [[H0587\|אֲנַ֖חְנוּ]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H9001\|וּ]][[H8199\|שְׁפָטָ֤]][[H9035\|נוּ]] [[H4428G\|מַלְכֵּ֙]][[H9025\|נוּ֙]] [[H9001\|וְ]][[H3318G\|יָצָ֣א]] [[H9005\|לְ]][[H6440G\|פָנֵ֔י]][[H9025\|נוּ]] [[H9001\|וְ]][[H3898A\|נִלְחַ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4421\|מִלְחֲמֹתֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic SAMUEL|SAMUEL]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.19|<< 1 Samuel 8:19]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.21|1 Samuel 8:21 >>]]</td></tr></table>
 

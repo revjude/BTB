@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Delilah Learns the Secret
+type: Pericope
 pericope: "[[Judg.16.15 Delilah Learns the Secret|Delilah Learns the Secret]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 16
 book/chapter: "[[Judg.16|Judges 16]]"
-genre:
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 8
 verses:
 - "[[Judg.16.15]]"
 - "[[Judg.16.16]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Judg.16.22]]"
 ---
 
-[[Judg.16|Judges 16:15 - Judges 16:22]]
+<small>[[Judg.16|Judges 16:15-22]]</small>
 *Delilah Learns the Secret*
 
 [[Judg.16.15|15]] And she said unto him, How canst thou say, I love thee, when thine heart \[is\] not with me? thou hast mocked me these three times, and hast not told me wherein thy great strength \[lieth\].

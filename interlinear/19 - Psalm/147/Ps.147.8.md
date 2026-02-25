@@ -1,8 +1,60 @@
+---
+title: Psalm 147:8
+type: Verse
+kjv: "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains."
+bsb: "who covers the sky with clouds, who prepares rain for the earth, who makes grass to grow on the hills."
+hebrew: "הַֽמְכַסֶּ֬ה שָׁמַ֨יִם׀ בְּעָבִ֗ים הַמֵּכִ֣ין לָאָ֣רֶץ מָטָ֑ר הַמַּצְמִ֖יחַ הָרִ֣ים חָצִֽיר׃"
+pericope: "[[Ps.147.1 It Is Good to Sing Praises|It Is Good to Sing Praises]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 147
+book/chapter: "[[Ps.147|Psalm 147]]"
+chronological_order: 895
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H9009]]"
+- "[[H3680]]"
+- "[[H8064]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H5645]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H4306]]"
+- "[[H6779]]"
+- "[[H2022G]]"
+- "[[H2682A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 147:8**<big><big>[[Ps.147.1 It Is Good to Sing Praises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.
 <small><sub>**BSB:**</sub></small>
 who covers the sky with clouds, who prepares rain for the earth, who makes grass to grow on the hills.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַֽ]][[H3680\|מְכַסֶּ֬ה]] [[H8064\|שָׁמַ֨יִם]][[H9015\|׀]] [[H9003\|בְּ]][[H5645\|עָבִ֗ים]] [[H9009\|הַ]][[H3559A\|מֵּכִ֣ין]] [[H9005\|לָ]][[H0776G\|אָ֣רֶץ]] [[H4306\|מָטָ֑ר]] [[H9009\|הַ]][[H6779\|מַּצְמִ֖יחַ]] [[H2022G\|הָרִ֣ים]] [[H2682A\|חָצִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.147.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.147.7|<< Psalms 147:7]]</td><td align="center" style="border:none;">[[Ps.147|Psalms 147]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.147.9|Psalms 147:9 >>]]</td></tr></table>
 

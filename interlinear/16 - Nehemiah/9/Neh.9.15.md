@@ -1,8 +1,70 @@
+---
+title: Nehemiah 9:15
+type: Verse
+kjv: "And gavest them bread from heaven for their hunger, and broughtest forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which thou hadst sworn to give them."
+bsb: "In their hunger You gave them bread from heaven; in their thirst You brought them water from the rock. You told them to go in and possess the land that You had sworn to give them."
+hebrew: "וְ֠לֶחֶם מִשָּׁמַ֜יִם נָתַ֤תָּה לָהֶם֙ לִרְעָבָ֔ם וּמַ֗יִם מִסֶּ֛לַע הוֹצֵ֥אתָ לָהֶ֖ם לִצְמָאָ֑ם וַתֹּ֣אמֶר לָהֶ֗ם לָבוֹא֙ לָרֶ֣שֶׁת אֶת־ הָאָ֔רֶץ אֲשֶׁר־ נָשָׂ֥אתָ אֶת־ יָדְךָ֖ לָתֵ֥ת לָהֶֽם׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3899H]]"
+- "[[H9006]]"
+- "[[H8064]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7458]]"
+- "[[H9028]]"
+- "[[H4325G]]"
+- "[[H5553H]]"
+- "[[H3318L]]"
+- "[[H6772]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0935G]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5375P]]"
+- "[[H3027S]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:15**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And gavest them bread from heaven for their hunger, and broughtest forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which thou hadst sworn to give them.
 <small><sub>**BSB:**</sub></small>
 In their hunger You gave them bread from heaven; in their thirst You brought them water from the rock. You told them to go in and possess the land that You had sworn to give them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H3899H\|לֶחֶם]] [[H9006\|מִ]][[H8064\|שָּׁמַ֜יִם]] [[H5414G\|נָתַ֤תָּה]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לִ]][[H7458\|רְעָבָ֔]][[H9028\|ם]] [[H9002\|וּ]][[H4325G\|מַ֗יִם]] [[H9006\|מִ]][[H5553H\|סֶּ֛לַע]] [[H3318L\|הוֹצֵ֥אתָ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לִ]][[H6772\|צְמָאָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H9005\|לָ]][[H0935G\|בוֹא֙]] [[H9005\|לָ]][[H3423H\|רֶ֣שֶׁת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5375P\|נָשָׂ֥אתָ]] [[H0853\|אֶת]][[H9014\|־]] [[H3027S\|יָדְ]][[H9021\|ךָ֖]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.14|<< Nehemiah 9:14]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.16|Nehemiah 9:16 >>]]</td></tr></table>
 

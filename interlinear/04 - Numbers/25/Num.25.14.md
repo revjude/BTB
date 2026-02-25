@@ -1,8 +1,65 @@
+---
+title: Numbers 25:14
+type: Verse
+kjv: "Now the name of the Israelite that was slain, even that was slain with the Midianitish woman, was Zimri, the son of Salu, a prince of a chief house among the Simeonites."
+bsb: "The name of the Israelite who was slain with the Midianite woman was Zimri son of Salu, the leader of a Simeonite family."
+hebrew: "וְשֵׁם֩ אִ֨ישׁ יִשְׂרָאֵ֜ל הַמֻּכֶּ֗ה אֲשֶׁ֤ר הֻכָּה֙ אֶת־ הַמִּדְיָנִ֔ית זִמְרִ֖י בֶּן־ סָל֑וּא נְשִׂ֥יא בֵֽית־ אָ֖ב לַשִּׁמְעֹנִֽי׃"
+pericope: "[[Num.25.6 The Zeal of Phinehas|The Zeal of Phinehas]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 25
+book/chapter: "[[Num.25|Numbers 25]]"
+chronological_order: 185
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic ZIMRI|ZIMRI]]"
+strongs:
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H5221]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H4084]]"
+- "[[H2174G]]"
+- "[[H1121A]]"
+- "[[H5543C]]"
+- "[[H5387A]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H8099]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 25:14**<big><big>[[Num.25.6 The Zeal of Phinehas|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the name of the Israelite that was slain, [even] that was slain with the Midianitish woman, [was] Zimri, the son of Salu, a prince of a chief house among the Simeonites.
 <small><sub>**BSB:**</sub></small>
 The name of the Israelite who was slain with the Midianite woman was Zimri son of Salu, the leader of a Simeonite family.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8034\|שֵׁם֩]] [[H0376G\|אִ֨ישׁ]] [[H3478\|יִשְׂרָאֵ֜ל]] [[H9009\|הַ]][[H5221\|מֻּכֶּ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H5221\|הֻכָּה֙]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4084\|מִּדְיָנִ֔ית]] [[H2174G\|זִמְרִ֖י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5543C\|סָל֑וּא]] [[H5387A\|נְשִׂ֥יא]] [[H1004M\|בֵֽית]][[H9014\|־]] [[H0001G\|אָ֖ב]] [[H9005\|לַ]][[H8099\|שִּׁמְעֹנִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PHINEHAS|PHINEHAS]] • [[topic ZIMRI|ZIMRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.25.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.25.13|<< Numbers 25:13]]</td><td align="center" style="border:none;">[[Num.25|Numbers 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.25.15|Numbers 25:15 >>]]</td></tr></table>
 

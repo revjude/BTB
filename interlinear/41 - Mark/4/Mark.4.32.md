@@ -1,10 +1,65 @@
+---
+title: Mark 4:32
+type: Verse
+kjv: "But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it."
+bsb: "But after it is planted, it grows to be the largest of all garden plants and puts forth great branches, so that the birds of the air nest in its shade.”"
+jesus_said: "But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it."
+greek: "καὶ ὅταν σπαρῇ, ἀναβαίνει καὶ γίνεται μεῖζον πάντων τῶν λαχάνων καὶ ποιεῖ κλάδους μεγάλους ὥστε δύνασθαι ὑπὸ τὴν σκιὰν αὐτοῦ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνοῦν.¶"
+pericope: "[[Mark.4.30 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3752]]"
+- "[[G4687]]"
+- "[[G0305]]"
+- "[[G1096]]"
+- "[[G3173]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3001]]"
+- "[[G4160G]]"
+- "[[G2798]]"
+- "[[G5620]]"
+- "[[G1410]]"
+- "[[G5259G]]"
+- "[[G4639]]"
+- "[[G0846]]"
+- "[[G4071]]"
+- "[[G3772]]"
+- "[[G2681]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 4:32**<big><big>[[Mark.4.30 The Parable of the Mustard Seed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it.
 <small><sub>**BSB:**</sub></small>
 But after it is planted, it grows to be the largest of all garden plants and puts forth great branches, so that the birds of the air nest in its shade.”
-<small><sub>**Literal:**</sub></small>
-and when it may be sown, it grows up and becomes greater than all the garden plants and it produces branches great so that to be able under the shadow of it the birds of the air to perch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.31|<< Mark 4:31]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.33|Mark 4:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G4687\|σπαρῇ,]]  [[G0305\|ἀναβαίνει]]  [[G2532\|καὶ]]  [[G1096\|γίνεται]]  [[G3173\|μεῖζον]]  [[G3956\|πάντων]]  [[G3588\|τῶν]]  [[G3001\|λαχάνων]]  [[G2532\|καὶ]]  [[G4160G\|ποιεῖ]]  [[G2798\|κλάδους]]  [[G3173\|μεγάλους]]  [[G5620\|ὥστε]]  [[G1410\|δύνασθαι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τὴν]]  [[G4639\|σκιὰν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὰ]]  [[G4071\|πετεινὰ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2681\|κατασκηνοῦν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERMON|SERMON]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.31|<< Mark 4:31]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.33|Mark 4:33 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 4:32** is...
 > $\quad$ referencing: [[LXX.Ps.104.12|Ps 104:12]]

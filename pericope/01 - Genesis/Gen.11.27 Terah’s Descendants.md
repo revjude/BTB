@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Terah’s Descendants
+type: Pericope
 pericope: "[[Gen.11.27 Terah’s Descendants|Terah’s Descendants]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 11
 book/chapter: "[[Gen.11|Genesis 11]]"
-genre:
+chronological_order: 11
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.11.27]]"
 - "[[Gen.11.28]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.11.32]]"
 ---
 
-[[Gen.11|Genesis 11:27 - Genesis 11:32]]
+<small>[[Gen.11|Genesis 11:27-32]]</small>
 *Terah’s Descendants*
 
 [[Gen.11.27|27]] Now these \[are\] the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.

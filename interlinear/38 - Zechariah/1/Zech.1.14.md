@@ -1,8 +1,67 @@
+---
+title: Zechariah 1:14
+type: Verse
+kjv: "So the angel that communed with me said unto me, Cry thou, saying, Thus saith the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy."
+bsb: "Then the angel who was speaking with me said, “Proclaim this word: This is what the LORD of Hosts says: ‘I am very jealous for Jerusalem and Zion,"
+hebrew: "וַיֹּ֣אמֶר אֵלַ֗י הַמַּלְאָךְ֙ הַדֹּבֵ֣ר בִּ֔י קְרָ֣א לֵאמֹ֔ר כֹּ֥ה אָמַ֖ר יְהוָ֣ה צְבָא֑וֹת קִנֵּ֧אתִי לִירוּשָׁלִַ֛ם וּלְצִיּ֖וֹן קִנְאָ֥ה גְדוֹלָֽה׃"
+pericope: "[[Zech.1.7 The Vision of the Horses|The Vision of the Horses]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 1
+book/chapter: "[[Zech.1|Zechariah 1]]"
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H4397H]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H7121I]]"
+- "[[H9005]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H7065]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H6726]]"
+- "[[H7068]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 1:14**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the angel that communed with me said unto me, Cry thou, saying, Thus saith the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.
 <small><sub>**BSB:**</sub></small>
 Then the angel who was speaking with me said, “Proclaim this word: This is what the LORD of Hosts says: ‘I am very jealous for Jerusalem and Zion,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H9009\|הַ]][[H4397H\|מַּלְאָךְ֙]] [[H9009\|הַ]][[H1696G\|דֹּבֵ֣ר]] [[H9003\|בִּ֔]][[H9030\|י]] [[H7121I\|קְרָ֣א]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H7065\|קִנֵּ֧אתִי]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִַ֛ם]] [[H9002\|וּ]][[H9005\|לְ]][[H6726\|צִיּ֖וֹן]] [[H7068\|קִנְאָ֥ה]] [[H1419A\|גְדוֹלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEALOUSY|JEALOUSY]] • [[topic PROPHETS|PROPHETS]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.13|<< Zechariah 1:13]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.15|Zechariah 1:15 >>]]</td></tr></table>
 

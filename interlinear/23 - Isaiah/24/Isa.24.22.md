@@ -1,8 +1,56 @@
+---
+title: Isaiah 24:22
+type: Verse
+kjv: "And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited."
+bsb: "They will be gathered together like prisoners in a pit. They will be confined to a dungeon and punished after many days."
+hebrew: "וְאֻסְּפ֨וּ אֲסֵפָ֤ה אַסִּיר֙ עַל־ בּ֔וֹר וְסֻגְּר֖וּ עַל־ מַסְגֵּ֑ר וּמֵרֹ֥ב יָמִ֖ים יִפָּקֵֽדוּ׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CRIMINALS|CRIMINALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H0626]]"
+- "[[H0616]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0953A]]"
+- "[[H5462]]"
+- "[[H4525]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H7230]]"
+- "[[H3117G]]"
+- "[[H6485H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:22**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall be gathered together, [as] prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited.
 <small><sub>**BSB:**</sub></small>
 They will be gathered together like prisoners in a pit. They will be confined to a dungeon and punished after many days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0622\|אֻסְּפ֨וּ]] [[H0626\|אֲסֵפָ֤ה]] [[H0616\|אַסִּיר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0953A\|בּ֔וֹר]] [[H9001\|וְ]][[H5462\|סֻגְּר֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4525\|מַסְגֵּ֑ר]] [[H9002\|וּ]][[H9006\|מֵ]][[H7230\|רֹ֥ב]] [[H3117G\|יָמִ֖ים]] [[H6485H\|יִפָּקֵֽדוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIMINALS|CRIMINALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.21|<< Isaiah 24:21]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.23|Isaiah 24:23 >>]]</td></tr></table>
 

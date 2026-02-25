@@ -1,10 +1,64 @@
+---
+title: Mark 13:2
+type: Verse
+kjv: "And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down."
+bsb: "“Do you see all these great buildings?” Jesus replied. “Not one stone here will be left on another; every one will be thrown down.”"
+jesus_said: "Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down."
+greek: "Καὶ ὁ Ἰησοῦς ἀποκριθεὶς εἶπεν αὐτῷ· βλέπεις ταύτας τὰς μεγάλας οἰκοδομάς; οὐ μὴ ἀφεθῇ ὧδε λίθος ἐπὶ λίθον ὃς οὐ μὴ καταλυθῇ.¶"
+pericope: "[[Mark.13.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G0991]]"
+- "[[G3778]]"
+- "[[G3173]]"
+- "[[G3619]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0863G]]"
+- "[[G5602]]"
+- "[[G3037]]"
+- "[[G1909]]"
+- "[[G3739]]"
+- "[[G2647]]"
+texts:
+- NKO
+- k
+- NO
+- N(k)O
+---
+
 **Mark 13:2**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering said unto him, Seest thou these great buildings? there shall not be left one stone upon another, that shall not be thrown down.
 <small><sub>**BSB:**</sub></small>
 “Do you see all these great buildings?” Jesus replied. “Not one stone here will be left on another; every one will be thrown down.”
-<small><sub>**Literal:**</sub></small>
-And <the> Jesus answering said to him; See you these <the> great buildings? certainly not may be left here stone upon stone which certainly not may be thrown down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.1|<< Mark 13:1]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.3|Mark 13:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G0991\|βλέπεις]]  [[G3778\|ταύτας]]  [[G3588\|τὰς]]  [[G3173\|μεγάλας]]  [[G3619\|οἰκοδομάς;]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0863G\|ἀφεθῇ]]  [[G5602\|ὧδε]]  [[G3037\|λίθος]]  [[G1909\|ἐπὶ]]  [[G3037\|λίθον]]  [[G3739\|ὃς]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G2647\|καταλυθῇ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.1|<< Mark 13:1]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.3|Mark 13:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

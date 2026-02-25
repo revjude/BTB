@@ -1,8 +1,69 @@
+---
+title: Exodus 27:9
+type: Verse
+kjv: "And thou shalt make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen of an hundred cubits long for one side:"
+bsb: "You are also to make a courtyard for the tabernacle. On the south side of the courtyard make curtains of finely spun linen, a hundred cubits long on one side,"
+hebrew: "וְעָשִׂ֕יתָ אֵ֖ת חֲצַ֣ר הַמִּשְׁכָּ֑ן לִפְאַ֣ת נֶֽגֶב־ תֵּ֠ימָנָה קְלָעִ֨ים לֶחָצֵ֜ר שֵׁ֣שׁ מָשְׁזָ֗ר מֵאָ֤ה בָֽאַמָּה֙ אֹ֔רֶךְ לַפֵּאָ֖ה הָאֶחָֽת׃"
+pericope: "[[Exod.27.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H2691A]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H9005]]"
+- "[[H6285]]"
+- "[[H5045H]]"
+- "[[H9014]]"
+- "[[H8486]]"
+- "[[H9011]]"
+- "[[H7050B]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H3967]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H0753]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 27:9**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make the court of the tabernacle: for the south side southward [there shall be] hangings for the court [of] fine twined linen of an hundred cubits long for one side:
 <small><sub>**BSB:**</sub></small>
 You are also to make a courtyard for the tabernacle. On the south side of the courtyard make curtains of finely spun linen, a hundred cubits long on one side,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֕יתָ]] [[H0853\|אֵ֖ת]] [[H2691A\|חֲצַ֣ר]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֑ן]] [[H9005\|לִ]][[H6285\|פְאַ֣ת]] [[H5045H\|נֶֽגֶב]][[H9014\|־]] [[H8486\|תֵּ֠ימָנָ]][[H9011\|ה]] [[H7050B\|קְלָעִ֨ים]] [[H9005\|לֶ]][[H2691A\|חָצֵ֜ר]] [[H8336B\|שֵׁ֣שׁ]] [[H7806\|מָשְׁזָ֗ר]] [[H3967\|מֵאָ֤ה]] [[H9003\|בָֽ]][[H0520A\|אַמָּה֙]] [[H0753\|אֹ֔רֶךְ]] [[H9005\|לַ]][[H6285\|פֵּאָ֖ה]] [[H9009\|הָ]][[H0259\|אֶחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURTAINS|CURTAINS]] • [[topic LINEN|LINEN]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.8|<< Exodus 27:8]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.10|Exodus 27:10 >>]]</td></tr></table>
 

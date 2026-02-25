@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 16:3
+type: Verse
+kjv: "And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem."
+bsb: "Then, on my arrival, I will send letters with those you recommend to carry your gift to Jerusalem."
+greek: "ὅταν δὲ παραγένωμαι, οὓς ἐὰν δοκιμάσητε, δι᾽ ἐπιστολῶν τούτους πέμψω ἀπενεγκεῖν τὴν χάριν ὑμῶν εἰς Ἰερουσαλήμ·"
+pericope: "[[1Cor.16.1 The Collection for the Saints|The Collection for the Saints]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G3854]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G1381]]"
+- "[[G1223]]"
+- "[[G1992]]"
+- "[[G3778]]"
+- "[[G3992]]"
+- "[[G0667]]"
+- "[[G3588]]"
+- "[[G5485]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G2419]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Corinthians 16:3**<big><big>[[1Cor.16.1 The Collection for the Saints|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when I come, whomsoever ye shall approve by [your] letters, them will I send to bring your liberality unto Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Then, on my arrival, I will send letters with those you recommend to carry your gift to Jerusalem.
-<small><sub>**Literal:**</sub></small>
-When then I may have arrived, whomever maybe you shall approve, with letters these I will send to carry the bounty of you to Jerusalem;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.2|<< 1 Corinthians 16:2]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.4|1 Corinthians 16:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|ὅταν]]  [[G1161\|δὲ]]  [[G3854\|παραγένωμαι,]]  [[G3739\|οὓς]]  [[G1437\|ἐὰν]]  [[G1381\|δοκιμάσητε,]]  [[G1223\|δι᾽]]  [[G1992\|ἐπιστολῶν]]  [[G3778\|τούτους]]  [[G3992\|πέμψω]]  [[G0667\|ἀπενεγκεῖν]]  [[G3588\|τὴν]]  [[G5485\|χάριν]]  [[G4771\|ὑμῶν]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic CHURCH|CHURCH]] • [[topic LIBERALITY|LIBERALITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.2|<< 1 Corinthians 16:2]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.4|1 Corinthians 16:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,67 @@
+---
+title: 1 Kings 21:29
+type: Verse
+kjv: "Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: but in his son’s days will I bring the evil upon his house."
+bsb: "“Have you seen how Ahab has humbled himself before Me? Because he has humbled himself before Me, I will not bring the calamity during his days, but I will bring it upon his house in the days of his son.”"
+hebrew: "הֲֽרָאִ֔יתָ כִּֽי־ נִכְנַ֥ע אַחְאָ֖ב מִלְּפָנָ֑י יַ֜עַן כִּֽי־ נִכְנַ֣ע מִפָּנַ֗י לֹֽא־ אָבִ֤יא הָֽרָעָה֙ בְּיָמָ֔יו בִּימֵ֣י בְנ֔וֹ אָבִ֥יא הָרָעָ֖ה עַל־ בֵּיתֽוֹ׃"
+pericope: "[[1Kgs.21.25 Ahab’s Repentance|Ahab’s Repentance]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+strongs:
+- "[[H9008]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3665]]"
+- "[[H0256G]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H3282]]"
+- "[[H3808]]"
+- "[[H0935P]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H1121A]]"
+- "[[H5921A]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Kings 21:29**<big><big>[[1Kgs.21.25 Ahab’s Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seest thou how Ahab humbleth himself before me? because he humbleth himself before me, I will not bring the evil in his days: [but] in his son’s days will I bring the evil upon his house.
 <small><sub>**BSB:**</sub></small>
 “Have you seen how Ahab has humbled himself before Me? Because he has humbled himself before Me, I will not bring the calamity during his days, but I will bring it upon his house in the days of his son.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲֽ]][[H7200G\|רָאִ֔יתָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3665\|נִכְנַ֥ע]] [[H0256G\|אַחְאָ֖ב]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנָ֑]][[H9020\|י]] [[H3282\|יַ֜עַן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3665\|נִכְנַ֣ע]] [[H9006\|מִ]][[H6440G\|פָּנַ֗]][[H9020\|י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0935P\|אָבִ֤יא]] [[H9009\|הָֽ]][[H7451C\|רָעָה֙]] [[H9003\|בְּ]][[H3117G\|יָמָ֔י]][[H9023\|ו]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H1121A\|בְנ֔]][[H9023\|וֹ]] [[H0935P\|אָבִ֥יא]] [[H9009\|הָ]][[H7451C\|רָעָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic ELIJAH|ELIJAH]] • [[topic HUMILITY|HUMILITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.28|<< 1 Kings 21:28]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.1|1 Kings 22:1 >>]]</td></tr></table>
 

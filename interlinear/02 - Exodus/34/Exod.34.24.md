@@ -1,8 +1,75 @@
+---
+title: Exodus 34:24
+type: Verse
+kjv: "For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the LORD thy God thrice in the year."
+bsb: "For I will drive out the nations before you and enlarge your borders, and no one will covet your land when you go up three times a year to appear before the LORD your God."
+hebrew: "כִּֽי־ אוֹרִ֤ישׁ גּוֹיִם֙ מִפָּנֶ֔יךָ וְהִרְחַבְתִּ֖י אֶת־ גְּבוּלֶ֑ךָ וְלֹא־ יַחְמֹ֥ד אִישׁ֙ אֶֽת־ אַרְצְךָ֔ בַּעֲלֹֽתְךָ֗ לֵרָאוֹת֙ אֶת־ פְּנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָֽה׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3423H]]"
+- "[[H1471A]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H7337]]"
+- "[[H0853]]"
+- "[[H1366G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2530A]]"
+- "[[H0376I]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H5927G]]"
+- "[[H9041]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:24**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the LORD thy God thrice in the year.
 <small><sub>**BSB:**</sub></small>
 For I will drive out the nations before you and enlarge your borders, and no one will covet your land when you go up three times a year to appear before the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3423H\|אוֹרִ֤ישׁ]] [[H1471A\|גּוֹיִם֙]] [[H9006\|מִ]][[H6440G\|פָּנֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H7337\|הִרְחַבְתִּ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H1366G\|גְּבוּלֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2530A\|יַחְמֹ֥ד]] [[H0376I\|אִישׁ֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0776G\|אַרְצְ]][[H9021\|ךָ֔]] [[H9003\|בַּ]][[H5927G\|עֲלֹֽתְ]][[H9041\|ךָ֗]] [[H9005\|לֵ]][[H7200G\|רָאוֹת֙]] [[H0854\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H7969\|שָׁלֹ֥שׁ]] [[H6471\|פְּעָמִ֖ים]] [[H9003\|בַּ]][[H8141\|שָּׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FEASTS|FEASTS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.23|<< Exodus 34:23]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.25|Exodus 34:25 >>]]</td></tr></table>
 

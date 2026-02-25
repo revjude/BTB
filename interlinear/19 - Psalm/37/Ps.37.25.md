@@ -1,8 +1,63 @@
+---
+title: Psalm 37:25
+type: Verse
+kjv: "I have been young, and now am old; yet have I not seen the righteous forsaken, nor his seed begging bread."
+bsb: "I once was young and now am old, yet never have I seen the righteous abandoned or their children begging for bread."
+hebrew: "נַ֤עַר׀ הָיִ֗יתִי גַּם־ זָ֫קַ֥נְתִּי וְֽלֹא־ רָ֭אִיתִי צַדִּ֣יק נֶעֱזָ֑ב וְ֝זַרְע֗וֹ מְבַקֶּשׁ־ לָֽחֶם׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BEGGARS|BEGGARS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H5288]]"
+- "[[H9015]]"
+- "[[H1961]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H2204]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H6662]]"
+- "[[H5800A]]"
+- "[[H2233H]]"
+- "[[H9023]]"
+- "[[H1245]]"
+- "[[H3899H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:25**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have been young, and [now] am old; yet have I not seen the righteous forsaken, nor his seed begging bread.
 <small><sub>**BSB:**</sub></small>
 I once was young and now am old, yet never have I seen the righteous abandoned or their children begging for bread.
+<small><sub>**Hebrew:**</sub></small>
+[[H5288\|נַ֤עַר]][[H9015\|׀]] [[H1961\|הָיִ֗יתִי]] [[H1571\|גַּם]][[H9014\|־]] [[H2204\|זָ֫קַ֥נְתִּי]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H7200G\|רָ֭אִיתִי]] [[H6662\|צַדִּ֣יק]] [[H5800A\|נֶעֱזָ֑ב]] [[H9002\|וְ֝]][[H2233H\|זַרְע֗]][[H9023\|וֹ]] [[H1245\|מְבַקֶּשׁ]][[H9014\|־]] [[H3899H\|לָֽחֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEGGARS|BEGGARS]] • [[topic GOD|GOD]] • [[topic LENDING|LENDING]] • [[topic MERCY|MERCY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.24|<< Psalms 37:24]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.26|Psalms 37:26 >>]]</td></tr></table>
 

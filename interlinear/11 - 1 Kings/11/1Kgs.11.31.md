@@ -1,8 +1,74 @@
+---
+title: 1 Kings 11:31
+type: Verse
+kjv: "And he said to Jeroboam, Take thee ten pieces: for thus saith the LORD, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:"
+bsb: "and said to Jeroboam, “Take ten pieces for yourself, for this is what the LORD, the God of Israel, says: ‘Behold, I will tear the kingdom out of the hand of Solomon, and I will give you ten tribes."
+hebrew: "וַיֹּ֙אמֶר֙ לְיָֽרָבְעָ֔ם קַח־ לְךָ֖ עֲשָׂרָ֣ה קְרָעִ֑ים כִּ֣י כֹה֩ אָמַ֨ר יְהוָ֜ה אֱלֹהֵ֣י יִשְׂרָאֵ֗ל הִנְנִ֨י קֹרֵ֤עַ אֶת־ הַמַּמְלָכָה֙ מִיַּ֣ד שְׁלֹמֹ֔ה וְנָתַתִּ֣י לְךָ֔ אֵ֖ת עֲשָׂרָ֥ה הַשְּׁבָטִֽים׃"
+pericope: "[[1Kgs.11.26 Jeroboam’s Rebellion|Jeroboam’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHIJAH|AHIJAH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic PROMOTION|PROMOTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3379G]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H9031]]"
+- "[[H6235]]"
+- "[[H7168]]"
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7167]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H8010]]"
+- "[[H5414G]]"
+- "[[H7626H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:31**<big><big>[[1Kgs.11.26 Jeroboam’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said to Jeroboam, Take thee ten pieces: for thus saith the LORD, the God of Israel, Behold, I will rend the kingdom out of the hand of Solomon, and will give ten tribes to thee:
 <small><sub>**BSB:**</sub></small>
 and said to Jeroboam, “Take ten pieces for yourself, for this is what the LORD, the God of Israel, says: ‘Behold, I will tear the kingdom out of the hand of Solomon, and I will give you ten tribes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9005\|לְ]][[H3379G\|יָֽרָבְעָ֔ם]] [[H3947G\|קַח]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H6235\|עֲשָׂרָ֣ה]] [[H7168\|קְרָעִ֑ים]] [[H3588A\|כִּ֣י]] [[H3541\|כֹה֩]] [[H0559\|אָמַ֨ר]] [[H3068G\|יְהוָ֜ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H7167\|קֹרֵ֤עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4467\|מַּמְלָכָה֙]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֣י]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H0853\|אֵ֖ת]] [[H6235\|עֲשָׂרָ֥ה]] [[H9009\|הַ]][[H7626H\|שְּׁבָטִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIJAH|AHIJAH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CANAAN|CANAAN]] • [[topic GOD|GOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PARABLES|PARABLES]] • [[topic PROMOTION|PROMOTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.30|<< 1 Kings 11:30]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.32|1 Kings 11:32 >>]]</td></tr></table>
 

@@ -1,8 +1,86 @@
+---
+title: Ezekiel 33:12
+type: Verse
+kjv: "Therefore, thou son of man, say unto the children of thy people, The righteousness of the righteous shall not deliver him in the day of his transgression: as for the wickedness of the wicked, he shall not fall thereby in the day that he turneth from his wickedness; neither shall the righteous be able to live for his righteousness in the day that he sinneth."
+bsb: "Therefore, son of man, say to your people: ‘The righteousness of the righteous man will not deliver him in the day of his transgression; neither will the wickedness of the wicked man cause him to stumble on the day he turns from his wickedness. Nor will the righteous man be able to survive by his righteousness on the day he sins.’"
+hebrew: "וְאַתָּ֣ה בֶן־ אָדָ֗ם אֱמֹ֤ר אֶל־ בְּנֵֽי־ עַמְּךָ֙ צִדְקַ֣ת הַצַּדִּ֗יק לֹ֤א תַצִּילֶ֙נּוּ֙ בְּי֣וֹם פִּשְׁע֔וֹ וְרִשְׁעַ֤ת הָֽרָשָׁע֙ לֹֽא־ יִכָּ֣שֶׁל בָּ֔הּ בְּי֖וֹם שׁוּב֣וֹ מֵֽרִשְׁע֑וֹ וְצַדִּ֗יק לֹ֥א יוּכַ֛ל לִֽחְי֥וֹת בָּ֖הּ בְּי֥וֹם חֲטֹאתֽוֹ׃"
+pericope: "[[Ezek.33.10 The Message of the Watchman|The Message of the Watchman]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SUPEREROGATION|SUPEREROGATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H6666]]"
+- "[[H9009]]"
+- "[[H6662]]"
+- "[[H3808]]"
+- "[[H5337]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6588]]"
+- "[[H9023]]"
+- "[[H7564]]"
+- "[[H7563]]"
+- "[[H3782]]"
+- "[[H9034]]"
+- "[[H7725O]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H7562]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H2421]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:12**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, thou son of man, say unto the children of thy people, The righteousness of the righteous shall not deliver him in the day of his transgression: as for the wickedness of the wicked, he shall not fall thereby in the day that he turneth from his wickedness; neither shall the righteous be able to live for his [righteousness] in the day that he sinneth.
 <small><sub>**BSB:**</sub></small>
 Therefore, son of man, say to your people: ‘The righteousness of the righteous man will not deliver him in the day of his transgression; neither will the wickedness of the wicked man cause him to stumble on the day he turns from his wickedness. Nor will the righteous man be able to survive by his righteousness on the day he sins.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H0559\|אֱמֹ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֙]] [[H6666\|צִדְקַ֣ת]] [[H9009\|הַ]][[H6662\|צַּדִּ֗יק]] [[H3808\|לֹ֤א]] [[H5337\|תַצִּילֶ֙]][[H9033\|נּוּ֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H6588\|פִּשְׁע֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H7564\|רִשְׁעַ֤ת]] [[H9009\|הָֽ]][[H7563\|רָשָׁע֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3782\|יִכָּ֣שֶׁל]] [[H9003\|בָּ֔]][[H9034\|הּ]] [[H9003\|בְּ]][[H3117G\|י֖וֹם]] [[H7725O\|שׁוּב֣]][[H9043\|וֹ]] [[H9006\|מֵֽ]][[H7562\|רִשְׁע֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H6662\|צַדִּ֗יק]] [[H3808\|לֹ֥א]] [[H3201\|יוּכַ֛ל]] [[H9005\|לִֽ]][[H2421\|חְי֥וֹת]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H2398\|חֲטֹאתֽ]][[H9043\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SUPEREROGATION|SUPEREROGATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.11|<< Ezekiel 33:11]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.13|Ezekiel 33:13 >>]]</td></tr></table>
 

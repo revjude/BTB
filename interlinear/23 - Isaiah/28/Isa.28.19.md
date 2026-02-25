@@ -1,8 +1,66 @@
+---
+title: Isaiah 28:19
+type: Verse
+kjv: "From the time that it goeth forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only to understand the report."
+bsb: "As often as it passes through, it will carry you away; it will sweep through morning after morning, by day and by night.” The understanding of this message will bring sheer terror."
+hebrew: "מִדֵּ֤י עָבְרוֹ֙ יִקַּ֣ח אֶתְכֶ֔ם כִּֽי־ בַבֹּ֧קֶר בַּבֹּ֛קֶר יַעֲבֹ֖ר בַּיּ֣וֹם וּבַלָּ֑יְלָה וְהָיָ֥ה רַק־ זְוָעָ֖ה הָבִ֥ין שְׁמוּעָֽה׃"
+pericope: "[[Isa.28.14 A Cornerstone in Zion|A Cornerstone in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9006]]"
+- "[[H1767]]"
+- "[[H5674A]]"
+- "[[H9043]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7535]]"
+- "[[H2113]]"
+- "[[H0995]]"
+- "[[H8052]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:19**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the time that it goeth forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only [to] understand the report.
 <small><sub>**BSB:**</sub></small>
 As often as it passes through, it will carry you away; it will sweep through morning after morning, by day and by night.” The understanding of this message will bring sheer terror.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H1767\|דֵּ֤י]] [[H5674A\|עָבְר]][[H9043\|וֹ֙]] [[H3947G\|יִקַּ֣ח]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בַ]][[H1242\|בֹּ֧קֶר]] [[H9003\|בַּ]][[H1242\|בֹּ֛קֶר]] [[H5674A\|יַעֲבֹ֖ר]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9002\|וּ]][[H9003\|בַ]][[H3915\|לָּ֑יְלָה]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H7535\|רַק]][[H9014\|־]] [[H2113\|זְוָעָ֖ה]] [[H0995\|הָבִ֥ין]] [[H8052\|שְׁמוּעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.18|<< Isaiah 28:18]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.20|Isaiah 28:20 >>]]</td></tr></table>
 

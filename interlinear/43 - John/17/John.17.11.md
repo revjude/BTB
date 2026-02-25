@@ -1,10 +1,71 @@
+---
+title: John 17:11
+type: Verse
+kjv: "And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are."
+bsb: "I will no longer be in the world, but they are in the world, and I am coming to You. Holy Father, protect them by Your name, the name You gave Me, so that they may be one as We are one."
+jesus_said: "And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we are."
+greek: "καὶ οὐκέτι οὐκέτι εἰμὶ ἐν τῷ κόσμῳ, καὶ αὐτοὶ ἐν τῷ κόσμῳ εἰσίν, κἀγὼ κἀγὼ πρὸς σὲ ἔρχομαι.¶ Πάτερ ἅγιε, τήρησον αὐτοὺς ἐν τῷ ὀνόματί σου ᾧ δέδωκάς μοι ἵνα ὦσιν ἓν καθὼς καὶ ἡμεῖς."
+pericope: "[[John.17.6 Prayer for the Disciples|Prayer for the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 17
+book/chapter: "[[John.17|John 17]]"
+chronological_order: 1005
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G0846]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2064]]"
+- "[[G3962]]"
+- "[[G0040G]]"
+- "[[G5083I]]"
+- "[[G3686]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G1520]]"
+- "[[G2531]]"
+texts:
+- NKO
+- N(k)O
+- o
+---
+
 **John 17:11**<big><big>[[John.17.6 Prayer for the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now I am no more in the world, but these are in the world, and I come to thee. Holy Father, keep through thine own name those whom thou hast given me, that they may be one, as we [are].
 <small><sub>**BSB:**</sub></small>
 I will no longer be in the world, but they are in the world, and I am coming to You. Holy Father, protect them by Your name, the name You gave Me, so that they may be one as We are one.
-<small><sub>**Literal:**</sub></small>
-And no longer I am in the world, and yet themselves in the world they are, and I myself to You am coming. Father Holy, do keep them in the name of You which [name] You have given to Me that they may be one even as also we ourselves [are].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.10|<< John 17:10]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.12|John 17:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1510\|εἰμὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ,]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G1510\|εἰσίν,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G2064\|ἔρχομαι.¶]]  [[G3962\|Πάτερ]]  [[G0040G\|ἅγιε,]]  [[G5083I\|τήρησον]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G4771\|σου]]  [[G3739\|ᾧ]]  [[G1325\|δέδωκάς]]  [[G3165\|μοι]]  [[G2443\|ἵνα]]  [[G1510\|ὦσιν]]  [[G1520\|ἓν]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.10|<< John 17:10]]</td><td align="center" style="border:none;">[[John.17|John 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.17.12|John 17:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

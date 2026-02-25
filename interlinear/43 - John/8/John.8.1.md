@@ -1,10 +1,47 @@
+---
+title: John 8:1
+type: Verse
+kjv: "Jesus went unto the mount of Olives."
+bsb: "But Jesus went to the Mount of Olives."
+greek: "Ἰησοῦς δὲ ἐπορεύθη εἰς τὸ ὄρος τῶν ἐλαιῶν."
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2424G]]"
+- "[[G1161]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G1638]]"
+texts:
+- KO
+---
+
 **John 8:1**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus went unto the mount of Olives.
 <small><sub>**BSB:**</sub></small>
 But Jesus went to the Mount of Olives.
-<small><sub>**Literal:**</sub></small>
-Jesus however went to the Mount <the> of Olives.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.53|<< John 7:53]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.2|John 8:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2424G\|Ἰησοῦς]]  [[G1161\|δὲ]]  [[G4198\|ἐπορεύθη]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G3588\|τῶν]]  [[G1638\|ἐλαιῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.53|<< John 7:53]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.2|John 8:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

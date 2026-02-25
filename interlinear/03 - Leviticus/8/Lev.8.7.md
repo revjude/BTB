@@ -1,8 +1,64 @@
+---
+title: Leviticus 8:7
+type: Verse
+kjv: "And he put upon him the coat, and girded him with the girdle, and clothed him with the robe, and put the ephod upon him, and he girded him with the curious girdle of the ephod, and bound it unto him therewith."
+bsb: "He put the tunic on Aaron, tied the sash around him, clothed him with the robe, and put the ephod on him. He tied the woven band of the ephod around him and fastened it to him."
+hebrew: "וַיִּתֵּ֨ן עָלָ֜יו אֶת־ הַכֻּתֹּ֗נֶת וַיַּחְגֹּ֤ר אֹתוֹ֙ בָּֽאַבְנֵ֔ט וַיַּלְבֵּ֤שׁ אֹתוֹ֙ אֶֽת־ הַמְּעִ֔יל וַיִּתֵּ֥ן עָלָ֖יו אֶת־ הָאֵפֹ֑ד וַיַּחְגֹּ֣ר אֹת֗וֹ בְּחֵ֙שֶׁב֙ הָֽאֵפֹ֔ד וַיֶּאְפֹּ֥ד ל֖וֹ בּֽוֹ׃"
+pericope: "[[Lev.8.1 Moses Consecrates Aaron and His Sons|Moses Consecrates Aaron and His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3801]]"
+- "[[H2296]]"
+- "[[H9003]]"
+- "[[H0073]]"
+- "[[H3847]]"
+- "[[H4598]]"
+- "[[H0646]]"
+- "[[H2805]]"
+- "[[H0640]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:7**<big><big>[[Lev.8.1 Moses Consecrates Aaron and His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put upon him the coat, and girded him with the girdle, and clothed him with the robe, and put the ephod upon him, and he girded him with the curious girdle of the ephod, and bound [it] unto him therewith.
 <small><sub>**BSB:**</sub></small>
 He put the tunic on Aaron, tied the sash around him, clothed him with the robe, and put the ephod on him. He tied the woven band of the ephod around him and fastened it to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414H\|יִּתֵּ֨ן]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3801\|כֻּתֹּ֗נֶת]] [[H9001\|וַ]][[H2296\|יַּחְגֹּ֤ר]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9003\|בָּֽ]][[H0073\|אַבְנֵ֔ט]] [[H9001\|וַ]][[H3847\|יַּלְבֵּ֤שׁ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H4598\|מְּעִ֔יל]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֥ן]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0646\|אֵפֹ֑ד]] [[H9001\|וַ]][[H2296\|יַּחְגֹּ֣ר]] [[H0853\|אֹת֗]][[H9033\|וֹ]] [[H9003\|בְּ]][[H2805\|חֵ֙שֶׁב֙]] [[H9009\|הָֽ]][[H0646\|אֵפֹ֔ד]] [[H9001\|וַ]][[H0640\|יֶּאְפֹּ֥ד]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIRDLE|GIRDLE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.6|<< Leviticus 8:6]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.8|Leviticus 8:8 >>]]</td></tr></table>
 

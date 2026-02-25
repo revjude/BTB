@@ -1,8 +1,60 @@
+---
+title: Ruth 3:8
+type: Verse
+kjv: "And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet."
+bsb: "At midnight, Boaz was startled, turned over, and there lying at his feet was a woman!"
+hebrew: "וַיְהִי֙ בַּחֲצִ֣י הַלַּ֔יְלָה וַיֶּחֱרַ֥ד הָאִ֖ישׁ וַיִּלָּפֵ֑ת וְהִנֵּ֣ה אִשָּׁ֔ה שֹׁכֶ֖בֶת מַרְגְּלֹתָֽיו׃"
+pericope: "[[Ruth.3.1 Ruth’s Redemption Assured|Ruth’s Redemption Assured]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 3
+book/chapter: "[[Ruth.3|Ruth 3]]"
+chronological_order: 278
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H2677]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H2729]]"
+- "[[H0376G]]"
+- "[[H3943]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0802G]]"
+- "[[H7901G]]"
+- "[[H4772]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 3:8**<big><big>[[Ruth.3.1 Ruth’s Redemption Assured|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at midnight, that the man was afraid, and turned himself: and, behold, a woman lay at his feet.
 <small><sub>**BSB:**</sub></small>
 At midnight, Boaz was startled, turned over, and there lying at his feet was a woman!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9003\|בַּ]][[H2677\|חֲצִ֣י]] [[H9009\|הַ]][[H3915\|לַּ֔יְלָה]] [[H9001\|וַ]][[H2729\|יֶּחֱרַ֥ד]] [[H9009\|הָ]][[H0376G\|אִ֖ישׁ]] [[H9001\|וַ]][[H3943\|יִּלָּפֵ֑ת]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H0802G\|אִשָּׁ֔ה]] [[H7901G\|שֹׁכֶ֖בֶת]] [[H4772\|מַרְגְּלֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic INHERITANCE|INHERITANCE]] • [[topic RUTH|RUTH]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.3.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.3.7|<< Ruth 3:7]]</td><td align="center" style="border:none;">[[Ruth.3|Ruth 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.3.9|Ruth 3:9 >>]]</td></tr></table>
 

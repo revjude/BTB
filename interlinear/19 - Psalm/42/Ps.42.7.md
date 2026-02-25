@@ -1,8 +1,60 @@
+---
+title: Psalm 42:7
+type: Verse
+kjv: "Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me."
+bsb: "Deep calls to deep in the roar of Your waterfalls; all Your breakers and waves have rolled over me."
+hebrew: "תְּהֽוֹם־ אֶל־ תְּה֣וֹם ק֭וֹרֵא לְק֣וֹל צִנּוֹרֶ֑יךָ כָּֽל־ מִשְׁבָּרֶ֥יךָ וְ֝גַלֶּ֗יךָ עָלַ֥י עָבָֽרוּ׃"
+pericope: "[[Ps.42.1 As the Deer Pants for the Water|As the Deer Pants for the Water]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 42
+book/chapter: "[[Ps.42|Psalm 42]]"
+chronological_order: 497
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESIRE|DESIRE]]"
+strongs:
+- "[[H8415]]"
+- "[[H9014]]"
+- "[[H0413]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H6963H]]"
+- "[[H6794]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H4867]]"
+- "[[H9002]]"
+- "[[H1530H]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 42:7**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deep calleth unto deep at the noise of thy waterspouts: all thy waves and thy billows are gone over me.
 <small><sub>**BSB:**</sub></small>
 Deep calls to deep in the roar of Your waterfalls; all Your breakers and waves have rolled over me.
+<small><sub>**Hebrew:**</sub></small>
+[[H8415\|תְּהֽוֹם]][[H9014\|־]] [[H0413\|אֶל]][[H9014\|־]] [[H8415\|תְּה֣וֹם]] [[H7121G\|ק֭וֹרֵא]] [[H9005\|לְ]][[H6963H\|ק֣וֹל]] [[H6794\|צִנּוֹרֶ֑י]][[H9021\|ךָ]] [[H3605\|כָּֽל]][[H9014\|־]] [[H4867\|מִשְׁבָּרֶ֥י]][[H9021\|ךָ]] [[H9002\|וְ֝]][[H1530H\|גַלֶּ֗י]][[H9021\|ךָ]] [[H5921A\|עָלַ֥]][[H9030\|י]] [[H5674A\|עָבָֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESIRE|DESIRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.6|<< Psalms 42:6]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.8|Psalms 42:8 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Proverbs 12:2
+type: Verse
+kjv: "A good man obtaineth favour of the LORD: but a man of wicked devices will he condemn."
+bsb: "The good man obtains favor from the LORD, but the LORD condemns a man who devises evil."
+hebrew: "ט֗וֹב יָפִ֣יק רָ֭צוֹן מֵיְהוָ֑ה וְאִ֖ישׁ מְזִמּ֣וֹת יַרְשִֽׁיעַ׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2896A]]"
+- "[[H6329]]"
+- "[[H7522]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H4209]]"
+- "[[H7561]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:2**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A good [man] obtaineth favour of the LORD: but a man of wicked devices will he condemn.
 <small><sub>**BSB:**</sub></small>
 The good man obtains favor from the LORD, but the LORD condemns a man who devises evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֗וֹב]] [[H6329\|יָפִ֣יק]] [[H7522\|רָ֭צוֹן]] [[H9006\|מֵ]][[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0376G\|אִ֖ישׁ]] [[H4209\|מְזִמּ֣וֹת]] [[H7561\|יַרְשִֽׁיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.1|<< Proverbs 12:1]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.3|Proverbs 12:3 >>]]</td></tr></table>
 

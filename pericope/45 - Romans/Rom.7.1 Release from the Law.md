@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Release from the Law
+type: Pericope
 pericope: "[[Rom.7.1 Release from the Law|Release from the Law]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Romans
 chapter: 7
 book/chapter: "[[Rom.7|Romans 7]]"
-genre:
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 6
 verses:
 - "[[Rom.7.1]]"
 - "[[Rom.7.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rom.7.6]]"
 ---
 
-[[Rom.7|Romans 7:1 - Romans 7:6]]
+<small>[[Rom.7|Romans 7:1-6]]</small>
 *Release from the Law*
 
 [[Rom.7.1|1]] Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?

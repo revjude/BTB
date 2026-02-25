@@ -1,8 +1,77 @@
+---
+title: Habakkuk 2:5
+type: Verse
+kjv: "Yea also, because he transgresseth by wine, he is a proud man, neither keepeth at home, who enlargeth his desire as hell, and is as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:"
+bsb: "and wealth indeed betrays him. He is an arrogant man never at rest. He enlarges his appetite like Sheol, and like Death, he is never satisfied. He gathers all the nations to himself and collects all the peoples as his own."
+hebrew: "וְאַף֙ כִּֽי־ הַיַּ֣יִן בּוֹגֵ֔ד גֶּ֥בֶר יָהִ֖יר וְלֹ֣א יִנְוֶ֑ה אֲשֶׁר֩ הִרְחִ֨יב כִּשְׁא֜וֹל נַפְשׁ֗וֹ וְה֤וּא כַמָּ֙וֶת֙ וְלֹ֣א יִשְׂבָּ֔ע וַיֶּאֱסֹ֤ף אֵלָיו֙ כָּל־ הַגּוֹיִ֔ם וַיִּקְבֹּ֥ץ אֵלָ֖יו כָּל־ הָעַמִּֽים׃"
+pericope: "[[Hab.2.1 The LORD Answers Again|The LORD Answers Again]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 2
+book/chapter: "[[Hab.2|Habakkuk 2]]"
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HELL|HELL]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3196]]"
+- "[[H0898]]"
+- "[[H1397]]"
+- "[[H3093]]"
+- "[[H3808]]"
+- "[[H5115B]]"
+- "[[H0834A]]"
+- "[[H7337]]"
+- "[[H9004]]"
+- "[[H7585]]"
+- "[[H5315L]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H4194]]"
+- "[[H7646]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H1471A]]"
+- "[[H6908]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 2:5**<big><big>[[Hab.2.1 The LORD Answers Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea also, because he transgresseth by wine, [he is] a proud man, neither keepeth at home, who enlargeth his desire as hell, and [is] as death, and cannot be satisfied, but gathereth unto him all nations, and heapeth unto him all people:
 <small><sub>**BSB:**</sub></small>
 and wealth indeed betrays him. He is an arrogant man never at rest. He enlarges his appetite like Sheol, and like Death, he is never satisfied. He gathers all the nations to himself and collects all the peoples as his own.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0637\|אַף֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9009\|הַ]][[H3196\|יַּ֣יִן]] [[H0898\|בּוֹגֵ֔ד]] [[H1397\|גֶּ֥בֶר]] [[H3093\|יָהִ֖יר]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5115B\|יִנְוֶ֑ה]] [[H0834A\|אֲשֶׁר֩]] [[H7337\|הִרְחִ֨יב]] [[H9004\|כִּ]][[H7585\|שְׁא֜וֹל]] [[H5315L\|נַפְשׁ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H1931\|ה֤וּא]] [[H9004\|כַ]][[H4194\|מָּ֙וֶת֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7646\|יִשְׂבָּ֔ע]] [[H9001\|וַ]][[H0622\|יֶּאֱסֹ֤ף]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H9001\|וַ]][[H6908\|יִּקְבֹּ֥ץ]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HELL|HELL]] • [[topic OPPRESSION|OPPRESSION]] • [[topic PRIDE|PRIDE]] • [[topic RULERS|RULERS]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.4|<< Habakkuk 2:4]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.6|Habakkuk 2:6 >>]]</td></tr></table>
 

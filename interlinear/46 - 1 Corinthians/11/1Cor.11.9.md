@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 11:9
+type: Verse
+kjv: "Neither was the man created for the woman; but the woman for the man."
+bsb: "Neither was man created for woman, but woman for man."
+greek: "καὶ γὰρ οὐκ ἐκτίσθη ἀνὴρ διὰ τὴν γυναῖκα ἀλλὰ γυνὴ διὰ τὸν ἄνδρα·"
+pericope: "[[1Cor.11.1 Roles in Worship|Roles in Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 11
+book/chapter: "[[1Cor.11|1 Corinthians 11]]"
+chronological_order: 1068
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G3756]]"
+- "[[G2936]]"
+- "[[G0435G]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G1135G]]"
+- "[[G0235]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 11:9**<big><big>[[1Cor.11.1 Roles in Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither was the man created for the woman; but the woman for the man.
 <small><sub>**BSB:**</sub></small>
 Neither was man created for woman, but woman for man.
-<small><sub>**Literal:**</sub></small>
-Truly for not was created man on account of the woman but woman on account of the man;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.8|<< 1 Corinthians 11:8]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.10|1 Corinthians 11:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G3756\|οὐκ]]  [[G2936\|ἐκτίσθη]]  [[G0435G\|ἀνὴρ]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G1135G\|γυναῖκα]]  [[G0235\|ἀλλὰ]]  [[G1135G\|γυνὴ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G0435G\|ἄνδρα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.11.8|<< 1 Corinthians 11:8]]</td><td align="center" style="border:none;">[[1Cor.11|1 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.11.10|1 Corinthians 11:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

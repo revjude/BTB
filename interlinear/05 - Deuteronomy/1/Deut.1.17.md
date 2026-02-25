@@ -1,8 +1,81 @@
+---
+title: Deuteronomy 1:17
+type: Verse
+kjv: "Ye shall not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God’s: and the cause that is too hard for you, bring it unto me, and I will hear it."
+bsb: "Show no partiality in judging; hear both small and great alike. Do not be intimidated by anyone, for judgment belongs to God. And bring to me any case too difficult for you, and I will hear it.”"
+hebrew: "לֹֽא־ תַכִּ֨ירוּ פָנִ֜ים בַּמִּשְׁפָּ֗ט כַּקָּטֹ֤ן כַּגָּדֹל֙ תִּשְׁמָע֔וּן לֹ֤א תָג֙וּרוּ֙ מִפְּנֵי־ אִ֔ישׁ כִּ֥י הַמִּשְׁפָּ֖ט לֵאלֹהִ֣ים ה֑וּא וְהַדָּבָר֙ אֲשֶׁ֣ר יִקְשֶׁ֣ה מִכֶּ֔ם תַּקְרִב֥וּן אֵלַ֖י וּשְׁמַעְתִּֽיו׃"
+pericope: "[[Deut.1.9 Moses Appoints Leaders|Moses Appoints Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5234A]]"
+- "[[H6440N]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H9004]]"
+- "[[H6996B]]"
+- "[[H1419A]]"
+- "[[H8085G]]"
+- "[[H9013]]"
+- "[[H1481C]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H0376I]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H1697L]]"
+- "[[H0834A]]"
+- "[[H7185]]"
+- "[[H9036]]"
+- "[[H7126H]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:17**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall not respect persons in judgment; [but] ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment [is] God’s: and the cause that is too hard for you, bring [it] unto me, and I will hear it.
 <small><sub>**BSB:**</sub></small>
 Show no partiality in judging; hear both small and great alike. Do not be intimidated by anyone, for judgment belongs to God. And bring to me any case too difficult for you, and I will hear it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H5234A\|תַכִּ֨ירוּ]] [[H6440N\|פָנִ֜ים]] [[H9003\|בַּ]][[H4941G\|מִּשְׁפָּ֗ט]] [[H9004\|כַּ]][[H6996B\|קָּטֹ֤ן]] [[H9004\|כַּ]][[H1419A\|גָּדֹל֙]] [[H8085G\|תִּשְׁמָע֔וּ]][[H9013\|ן]] [[H3808\|לֹ֤א]] [[H1481C\|תָג֙וּרוּ֙]] [[H9006\|מִ]][[H6440L\|פְּנֵי]][[H9014\|־]] [[H0376I\|אִ֔ישׁ]] [[H3588A\|כִּ֥י]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּ֖ט]] [[H9005\|לֵ]][[H0430G\|אלֹהִ֣ים]] [[H1931\|ה֑וּא]] [[H9002\|וְ]][[H9009\|הַ]][[H1697L\|דָּבָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7185\|יִקְשֶׁ֣ה]] [[H9006\|מִ]][[H9036\|כֶּ֔ם]] [[H7126H\|תַּקְרִב֥וּ]][[H9013\|ן]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9001\|וּ]][[H8085G\|שְׁמַעְתִּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic MOSES|MOSES]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.16|<< Deuteronomy 1:16]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.18|Deuteronomy 1:18 >>]]</td></tr></table>
 

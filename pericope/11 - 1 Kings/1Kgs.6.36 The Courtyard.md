@@ -1,29 +1,36 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Courtyard
+type: Pericope
 pericope: "[[1Kgs.6.36 The Courtyard|The Courtyard]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 6
 book/chapter: "[[1Kgs.6|1 Kings 6]]"
-genre:
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 3
 verses:
 - "[[1Kgs.6.36]]"
 - "[[1Kgs.6.37]]"
 - "[[1Kgs.6.38]]"
 ---
 
-[[1Kgs.6|1 Kings 6:36 - 1 Kings 6:38]]
+<small>[[1Kgs.6|1 Kings 6:36-38]]</small>
 *The Courtyard*
 
 [[1Kgs.6.36|36]] And he built the inner court with three rows of hewed stone, and a row of cedar beams.

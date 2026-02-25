@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sennacherib Threatens Jerusalem
+type: Pericope
 pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 32
 book/chapter: "[[2Chr.32|2 Chronicles 32]]"
-genre:
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 11
 verses:
 - "[[2Chr.32.9]]"
 - "[[2Chr.32.10]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Chr.32.19]]"
 ---
 
-[[2Chr.32|2 Chronicles 32:9 - 2 Chronicles 32:19]]
+<small>[[2Chr.32|2 Chronicles 32:9-19]]</small>
 *Sennacherib Threatens Jerusalem*
 
 [[2Chr.32.9|9]] After this did Sennacherib king of Assyria send his servants to Jerusalem, (but he \[himself laid siege\] against Lachish, and all his power with him,) unto Hezekiah king of Judah, and unto all Judah that \[were\] at Jerusalem, saying,

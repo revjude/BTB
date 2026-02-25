@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ten Commandments
+type: Pericope
 pericope: "[[Deut.5.5 The Ten Commandments|The Ten Commandments]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 5
 book/chapter: "[[Deut.5|Deuteronomy 5]]"
-genre:
+chronological_order: 201
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 17
 verses:
 - "[[Deut.5.5]]"
 - "[[Deut.5.6]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Deut.5.21]]"
 ---
 
-[[Deut.5|Deuteronomy 5:5 - Deuteronomy 5:21]]
+<small>[[Deut.5|Deuteronomy 5:5-21]]</small>
 *The Ten Commandments*
 
 [[Deut.5.5|5]] (I stood between the LORD and you at that time, to shew you the word of the LORD: for ye were afraid by reason of the fire, and went not up into the mount;) saying,

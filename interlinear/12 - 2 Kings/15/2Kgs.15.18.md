@@ -1,8 +1,65 @@
+---
+title: 2 Kings 15:18
+type: Verse
+kjv: "And he did that which was evil in the sight of the LORD: he departed not all his days from the sins of Jeroboam the son of Nebat, who made Israel to sin."
+bsb: "And he did evil in the sight of the LORD, and throughout his reign he did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit."
+hebrew: "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה לֹ֣א סָ֠ר מֵעַ֨ל חַטֹּ֜אות יָרָבְעָ֧ם בֶּן־ נְבָ֛ט אֲשֶׁר־ הֶחֱטִ֥יא אֶת־ יִשְׂרָאֵ֖ל כָּל־ יָמָֽיו׃"
+pericope: "[[2Kgs.15.17 Menahem Reigns in Israel|Menahem Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MENAHEM|MENAHEM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H2403B]]"
+- "[[H3379G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5028]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:18**<big><big>[[2Kgs.15.17 Menahem Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] evil in the sight of the LORD: he departed not all his days from the sins of Jeroboam the son of Nebat, who made Israel to sin.
 <small><sub>**BSB:**</sub></small>
 And he did evil in the sight of the LORD, and throughout his reign he did not turn away from the sins that Jeroboam son of Nebat had caused Israel to commit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H3808\|לֹ֣א]] [[H5493H\|סָ֠ר]] [[H9006\|מֵ]][[H5921A\|עַ֨ל]] [[H2403B\|חַטֹּ֜אות]] [[H3379G\|יָרָבְעָ֧ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5028\|נְבָ֛ט]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2398\|הֶחֱטִ֥יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יָמָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MENAHEM|MENAHEM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.17|<< 2 Kings 15:17]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.19|2 Kings 15:19 >>]]</td></tr></table>
 

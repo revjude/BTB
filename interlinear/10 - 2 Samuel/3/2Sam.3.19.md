@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 3:19
+type: Verse
+kjv: "And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin."
+bsb: "Abner also spoke to the Benjamites. Then he went to Hebron to tell David all that seemed good to Israel and to the whole house of Benjamin."
+hebrew: "וַיְדַבֵּ֥ר גַּם־ אַבְנֵ֖ר בְּאָזְנֵ֣י בִנְיָמִ֑ין וַיֵּ֣לֶךְ גַּם־ אַבְנֵ֗ר לְדַבֵּ֞ר בְּאָזְנֵ֤י דָוִד֙ בְּחֶבְר֔וֹן אֵ֤ת כָּל־ אֲשֶׁר־ טוֹב֙ בְּעֵינֵ֣י יִשְׂרָאֵ֔ל וּבְעֵינֵ֖י כָּל־ בֵּ֥ית בִּנְיָמִֽן׃"
+pericope: "[[2Sam.3.6 Abner Joins David|Abner Joins David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0074]]"
+- "[[H9003]]"
+- "[[H0241I]]"
+- "[[H1144G]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H2275A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H2895]]"
+- "[[H5869I]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:19**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin.
 <small><sub>**BSB:**</sub></small>
 Abner also spoke to the Benjamites. Then he went to Hebron to tell David all that seemed good to Israel and to the whole house of Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H1571\|גַּם]][[H9014\|־]] [[H0074\|אַבְנֵ֖ר]] [[H9003\|בְּ]][[H0241I\|אָזְנֵ֣י]] [[H1144G\|בִנְיָמִ֑ין]] [[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H1571\|גַּם]][[H9014\|־]] [[H0074\|אַבְנֵ֗ר]] [[H9005\|לְ]][[H1696G\|דַבֵּ֞ר]] [[H9003\|בְּ]][[H0241I\|אָזְנֵ֤י]] [[H1732\|דָוִד֙]] [[H9003\|בְּ]][[H2275A\|חֶבְר֔וֹן]] [[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2895\|טוֹב֙]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וּ]][[H9003\|בְ]][[H5869I\|עֵינֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H1144G\|בִּנְיָמִֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic BENJAMIN|BENJAMIN]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.18|<< 2 Samuel 3:18]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.20|2 Samuel 3:20 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Exodus 38:12
+type: Verse
+kjv: "And for the west side were hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars and their fillets of silver."
+bsb: "The west side was fifty cubits long and had curtains, with ten posts and ten bases. The hooks and bands of the posts were silver."
+hebrew: "וְלִפְאַת־ יָ֗ם קְלָעִים֙ חֲמִשִּׁ֣ים בָּֽאַמָּ֔ה עַמּוּדֵיהֶ֥ם עֲשָׂרָ֔ה וְאַדְנֵיהֶ֖ם עֲשָׂרָ֑ה וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשׁוּקֵיהֶ֖ם כָּֽסֶף׃"
+pericope: "[[Exod.38.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HOOKS|HOOKS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6285]]"
+- "[[H9014]]"
+- "[[H3220H]]"
+- "[[H7050B]]"
+- "[[H2572]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H5982G]]"
+- "[[H9028]]"
+- "[[H6235]]"
+- "[[H0134]]"
+- "[[H2053]]"
+- "[[H9009]]"
+- "[[H2838]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:12**<big><big>[[Exod.38.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And for the west side [were] hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars and their fillets [of] silver.
 <small><sub>**BSB:**</sub></small>
 The west side was fifty cubits long and had curtains, with ten posts and ten bases. The hooks and bands of the posts were silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H6285\|פְאַת]][[H9014\|־]] [[H3220H\|יָ֗ם]] [[H7050B\|קְלָעִים֙]] [[H2572\|חֲמִשִּׁ֣ים]] [[H9003\|בָּֽ]][[H0520A\|אַמָּ֔ה]] [[H5982G\|עַמּוּדֵי]][[H9028\|הֶ֥ם]] [[H6235\|עֲשָׂרָ֔ה]] [[H9002\|וְ]][[H0134\|אַדְנֵי]][[H9028\|הֶ֖ם]] [[H6235\|עֲשָׂרָ֑ה]] [[H2053\|וָוֵ֧י]] [[H9009\|הָ]][[H5982G\|עַמֻּדִ֛ים]] [[H9002\|וַ]][[H2838\|חֲשׁוּקֵי]][[H9028\|הֶ֖ם]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOOKS|HOOKS]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.11|<< Exodus 38:11]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.13|Exodus 38:13 >>]]</td></tr></table>
 

@@ -1,8 +1,48 @@
+---
+title: Joshua 18:27
+type: Verse
+kjv: "And Rekem, and Irpeel, and Taralah,"
+bsb: "Rekem, Irpeel, Taralah,"
+hebrew: "וְרֶ֥קֶם וְיִרְפְּאֵ֖ל וְתַרְאֲלָֽה׃"
+pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 18
+book/chapter: "[[Josh.18|Joshua 18]]"
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic IRPEEL|IRPEEL]]"
+- "[[topic REKEM|REKEM]]"
+- "[[topic TARALAH|TARALAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H7552H]]"
+- "[[H3416]]"
+- "[[H8634]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 18:27**<big><big>[[Josh.18.11 Benjamin’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rekem, and Irpeel, and Taralah,
 <small><sub>**BSB:**</sub></small>
 Rekem, Irpeel, Taralah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7552H\|רֶ֥קֶם]] [[H9002\|וְ]][[H3416\|יִרְפְּאֵ֖ל]] [[H9002\|וְ]][[H8634\|תַרְאֲלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic IRPEEL|IRPEEL]] • [[topic REKEM|REKEM]] • [[topic TARALAH|TARALAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.18.26|<< Joshua 18:26]]</td><td align="center" style="border:none;">[[Josh.18|Joshua 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.18.28|Joshua 18:28 >>]]</td></tr></table>
 

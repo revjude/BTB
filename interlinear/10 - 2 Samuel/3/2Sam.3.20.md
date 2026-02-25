@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 3:20
+type: Verse
+kjv: "So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that were with him a feast."
+bsb: "When Abner and twenty of his men came to David at Hebron, David held a feast for them."
+hebrew: "וַיָּבֹ֨א אַבְנֵ֤ר אֶל־ דָּוִד֙ חֶבְר֔וֹן וְאִתּ֖וֹ עֶשְׂרִ֣ים אֲנָשִׁ֑ים וַיַּ֨עַשׂ דָּוִ֧ד לְאַבְנֵ֛ר וְלַאֲנָשִׁ֥ים אֲשֶׁר־ אִתּ֖וֹ מִשְׁתֶּֽה׃"
+pericope: "[[2Sam.3.6 Abner Joins David|Abner Joins David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 3
+book/chapter: "[[2Sam.3|2 Samuel 3]]"
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0074]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H2275A]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H6242]]"
+- "[[H0582]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H4960]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 3:20**<big><big>[[2Sam.3.6 Abner Joins David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that [were] with him a feast.
 <small><sub>**BSB:**</sub></small>
 When Abner and twenty of his men came to David at Hebron, David held a feast for them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H0074\|אַבְנֵ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִד֙]] [[H2275A\|חֶבְר֔וֹן]] [[H9002\|וְ]][[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H6242\|עֶשְׂרִ֣ים]] [[H0582\|אֲנָשִׁ֑ים]] [[H9001\|וַ]][[H6213H\|יַּ֨עַשׂ]] [[H1732\|דָּוִ֧ד]] [[H9005\|לְ]][[H0074\|אַבְנֵ֛ר]] [[H9002\|וְ]][[H9005\|לַ]][[H0582\|אֲנָשִׁ֥ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H4960\|מִשְׁתֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.3.19|<< 2 Samuel 3:19]]</td><td align="center" style="border:none;">[[2Sam.3|2 Samuel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.3.21|2 Samuel 3:21 >>]]</td></tr></table>
 

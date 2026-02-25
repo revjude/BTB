@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Mourns for Abner
+type: Pericope
 pericope: "[[2Sam.3.31 David Mourns for Abner|David Mourns for Abner]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 3
 book/chapter: "[[2Sam.3|2 Samuel 3]]"
-genre:
+chronological_order: 331
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 9
 verses:
 - "[[2Sam.3.31]]"
 - "[[2Sam.3.32]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Sam.3.39]]"
 ---
 
-[[2Sam.3|2 Samuel 3:31 - 2 Samuel 3:39]]
+<small>[[2Sam.3|2 Samuel 3:31-39]]</small>
 *David Mourns for Abner*
 
 [[2Sam.3.31|31]] And David said to Joab, and to all the people that \[were\] with him, Rend your clothes, and gird you with sackcloth, and mourn before Abner. And king David \[himself\] followed the bier.

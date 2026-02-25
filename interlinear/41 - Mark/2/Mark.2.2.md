@@ -1,10 +1,57 @@
+---
+title: Mark 2:2
+type: Verse
+kjv: "And straightway many were gathered together, insomuch that there was no room to receive them, no, not so much as about the door: and he preached the word unto them."
+bsb: "they gathered in such large numbers that there was no more room, not even outside the door, as Jesus spoke the word to them."
+greek: "καὶ εὐθέως συνήχθησαν πολλοὶ ὥστε μηκέτι χωρεῖν μηδὲ τὰ πρὸς τὴν θύραν, καὶ ἐλάλει αὐτοῖς τὸν λόγον.¶"
+pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G4863]]"
+- "[[G4183]]"
+- "[[G5620]]"
+- "[[G3371]]"
+- "[[G5562]]"
+- "[[G3366]]"
+- "[[G3588]]"
+- "[[G4314]]"
+- "[[G2374]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G3056]]"
+texts:
+- NKO
+- KO
+---
+
 **Mark 2:2**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And straightway many were gathered together, insomuch that there was no room to receive [them], no, not so much as about the door: and he preached the word unto them.
 <small><sub>**BSB:**</sub></small>
 they gathered in such large numbers that there was no more room, not even outside the door, as Jesus spoke the word to them.
-<small><sub>**Literal:**</sub></small>
-And immediately were gathered together many so that no more to have space not even [space] <the> at the door, and He was speaking to them the word.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.1|<< Mark 2:1]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.3|Mark 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G4863\|συνήχθησαν]]  [[G4183\|πολλοὶ]]  [[G5620\|ὥστε]]  [[G3371\|μηκέτι]]  [[G5562\|χωρεῖν]]  [[G3366\|μηδὲ]]  [[G3588\|τὰ]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G2374\|θύραν,]]  [[G2532\|καὶ]]  [[G2980\|ἐλάλει]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὸν]]  [[G3056\|λόγον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PREACHING|PREACHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.1|<< Mark 2:1]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.3|Mark 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

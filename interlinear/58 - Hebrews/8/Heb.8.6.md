@@ -1,10 +1,60 @@
+---
+title: Hebrews 8:6
+type: Verse
+kjv: "But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises."
+bsb: "Now, however, Jesus has received a much more excellent ministry, just as the covenant He mediates is better and is founded on better promises."
+greek: "νυνὶ δὲ διαφορωτέρας τέτυχεν λειτουργίας, ὅσῳ καὶ κρείττονός ἐστιν διαθήκης μεσίτης, ἥτις ἐπὶ κρείττοσιν ἐπαγγελίαις νενομοθέτηται."
+pericope: "[[Heb.8.6 The New Covenant|The New Covenant]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 8
+book/chapter: "[[Heb.8|Hebrews 8]]"
+chronological_order: 1147
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G1313]]"
+- "[[G5177]]"
+- "[[G3009]]"
+- "[[G3745]]"
+- "[[G2532]]"
+- "[[G2908]]"
+- "[[G1510]]"
+- "[[G1242]]"
+- "[[G3316]]"
+- "[[G3748]]"
+- "[[G1909]]"
+- "[[G1860]]"
+- "[[G3549]]"
+texts:
+- NK(o)
+- NKO
+- N(k)O
+---
+
 **Hebrews 8:6**<big><big>[[Heb.8.6 The New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
 <small><sub>**BSB:**</sub></small>
 Now, however, Jesus has received a much more excellent ministry, just as the covenant He mediates is better and is founded on better promises.
-<small><sub>**Literal:**</sub></small>
-now however more excellent He has obtained a ministry, as much as also of a better He is covenant [the] mediator, which upon better promises has been enacted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.5|<< Hebrews 8:5]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.7|Hebrews 8:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3570\|νυνὶ]]  [[G1161\|δὲ]]  [[G1313\|διαφορωτέρας]]  [[G5177\|τέτυχεν]]  [[G3009\|λειτουργίας,]]  [[G3745\|ὅσῳ]]  [[G2532\|καὶ]]  [[G2908\|κρείττονός]]  [[G1510\|ἐστιν]]  [[G1242\|διαθήκης]]  [[G3316\|μεσίτης,]]  [[G3748\|ἥτις]]  [[G1909\|ἐπὶ]]  [[G2908\|κρείττοσιν]]  [[G1860\|ἐπαγγελίαις]]  [[G3549\|νενομοθέτηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.8.5|<< Hebrews 8:5]]</td><td align="center" style="border:none;">[[Heb.8|Hebrews 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.8.7|Hebrews 8:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

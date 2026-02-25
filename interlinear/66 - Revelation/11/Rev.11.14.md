@@ -1,10 +1,49 @@
+---
+title: Revelation 11:14
+type: Verse
+kjv: "The second woe is past; and, behold, the third woe cometh quickly."
+bsb: "The second woe has passed. Behold, the third woe is coming shortly."
+greek: "ἡ οὐαὶ ἡ δευτέρα ἀπῆλθεν· ἰδοὺ ἡ οὐαὶ ἡ τρίτη ἔρχεται ταχύ.¶"
+pericope: "[[Rev.11.7 The Witnesses Killed and Raised|The Witnesses Killed and Raised]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3588]]"
+- "[[G3759]]"
+- "[[G1208]]"
+- "[[G0565]]"
+- "[[G2400]]"
+- "[[G5154]]"
+- "[[G2064]]"
+- "[[G5035]]"
+texts:
+- NKO
+---
+
 **Revelation 11:14**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The second woe is past; [and], behold, the third woe cometh quickly.
 <small><sub>**BSB:**</sub></small>
 The second woe has passed. Behold, the third woe is coming shortly.
-<small><sub>**Literal:**</sub></small>
-The woe <the> second has passed; Behold the woe <the> third is coming quickly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.13|<< Revelation 11:13]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.15|Revelation 11:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G3759\|οὐαὶ]]  [[G3588\|ἡ]]  [[G1208\|δευτέρα]]  [[G0565\|ἀπῆλθεν·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ἡ]]  [[G3759\|οὐαὶ]]  [[G3588\|ἡ]]  [[G5154\|τρίτη]]  [[G2064\|ἔρχεται]]  [[G5035\|ταχύ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.13|<< Revelation 11:13]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.15|Revelation 11:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

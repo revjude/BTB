@@ -1,10 +1,58 @@
+---
+title: Luke 14:14
+type: Verse
+kjv: "And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just."
+bsb: "and you will be blessed. Since they cannot repay you, you will be repaid at the resurrection of the righteous.”"
+jesus_said: "And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just."
+greek: "καὶ μακάριος ἔσῃ, ὅτι οὐκ ἔχουσιν ἀνταποδοῦναί σοι· ἀνταποδοθήσεται γάρ σοι ἐν τῇ ἀναστάσει τῶν δικαίων.¶"
+pericope: "[[Luke.14.7 The Parable of the Guests|The Parable of the Guests]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3107]]"
+- "[[G1510]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G0467]]"
+- "[[G4771]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0386]]"
+- "[[G1342]]"
+texts:
+- NKO
+---
+
 **Luke 14:14**<big><big>[[Luke.14.7 The Parable of the Guests|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And thou shalt be blessed; for they cannot recompense thee: for thou shalt be recompensed at the resurrection of the just.
 <small><sub>**BSB:**</sub></small>
 and you will be blessed. Since they cannot repay you, you will be repaid at the resurrection of the righteous.”
-<small><sub>**Literal:**</sub></small>
-and blessed you will be, because nothing they have to repay you; It will be recompensed for to you in the resurrection of the righteous.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.13|<< Luke 14:13]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.15|Luke 14:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3107\|μακάριος]]  [[G1510\|ἔσῃ,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν]]  [[G0467\|ἀνταποδοῦναί]]  [[G4771\|σοι·]]  [[G0467\|ἀνταποδοθήσεται]]  [[G1063\|γάρ]]  [[G4771\|σοι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0386\|ἀναστάσει]]  [[G3588\|τῶν]]  [[G1342\|δικαίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POOR|POOR]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.13|<< Luke 14:13]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.15|Luke 14:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

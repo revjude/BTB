@@ -1,10 +1,72 @@
+---
+title: Matthew 8:8
+type: Verse
+kjv: "The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed."
+bsb: "The centurion answered, “Lord, I am not worthy to have You come under my roof. But just say the word, and my servant will be healed."
+greek: "καὶ ἀποκριθεὶς δὲ ὁ ἑκατόνταρχος ἔφη· κύριε, οὐκ εἰμὶ ἱκανὸς ἵνα μου ὑπὸ τὴν στέγην εἰσέλθῃς, ἀλλὰ μόνον εἰπὲ λόγῳ, καὶ ἰαθήσεται ὁ παῖς μου."
+pericope: "[[Matt.8.5 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1543]]"
+- "[[G5346]]"
+- "[[G2962G]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2425]]"
+- "[[G2443]]"
+- "[[G3165]]"
+- "[[G5259H]]"
+- "[[G4721]]"
+- "[[G1525]]"
+- "[[G0235]]"
+- "[[G3441]]"
+- "[[G2036]]"
+- "[[G3056]]"
+- "[[G2390]]"
+- "[[G3816]]"
+texts:
+- NKO
+- o
+- N(k)O
+---
+
 **Matthew 8:8**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The centurion answered and said, Lord, I am not worthy that thou shouldest come under my roof: but speak the word only, and my servant shall be healed.
 <small><sub>**BSB:**</sub></small>
 The centurion answered, “Lord, I am not worthy to have You come under my roof. But just say the word, and my servant will be healed.
-<small><sub>**Literal:**</sub></small>
-And answering now the centurion was saying; Lord, not I am worthy that my under the roof You may come, but only do speak a word, and will be healed the servant of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.7|<< Matthew 8:7]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.9|Matthew 8:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G1543\|ἑκατόνταρχος]]  [[G5346\|ἔφη·]]  [[G2962G\|κύριε,]]  [[G3756\|οὐκ]]  [[G1510\|εἰμὶ]]  [[G2425\|ἱκανὸς]]  [[G2443\|ἵνα]]  [[G3165\|μου]]  [[G5259H\|ὑπὸ]]  [[G3588\|τὴν]]  [[G4721\|στέγην]]  [[G1525\|εἰσέλθῃς,]]  [[G0235\|ἀλλὰ]]  [[G3441\|μόνον]]  [[G2036\|εἰπὲ]]  [[G3056\|λόγῳ,]]  [[G2532\|καὶ]]  [[G2390\|ἰαθήσεται]]  [[G3588\|ὁ]]  [[G3816\|παῖς]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.7|<< Matthew 8:7]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.9|Matthew 8:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

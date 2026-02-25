@@ -1,8 +1,56 @@
+---
+title: Psalm 102:28
+type: Verse
+kjv: "The children of thy servants shall continue, and their seed shall be established before thee."
+bsb: "The children of Your servants will dwell securely, and their descendants will be established before You.”"
+hebrew: "בְּנֵֽי־ עֲבָדֶ֥יךָ יִשְׁכּ֑וֹנוּ וְ֝זַרְעָ֗ם לְפָנֶ֥יךָ יִכּֽוֹן׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H7931]]"
+- "[[H9002]]"
+- "[[H2233H]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3559H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:28**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of thy servants shall continue, and their seed shall be established before thee.
 <small><sub>**BSB:**</sub></small>
 The children of Your servants will dwell securely, and their descendants will be established before You.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H5650\|עֲבָדֶ֥י]][[H9021\|ךָ]] [[H7931\|יִשְׁכּ֑וֹנוּ]] [[H9002\|וְ֝]][[H2233H\|זַרְעָ֗]][[H9028\|ם]] [[H9005\|לְ]][[H6440G\|פָנֶ֥י]][[H9021\|ךָ]] [[H3559H\|יִכּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic IMMORTALITY|IMMORTALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.27|<< Psalms 102:27]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.0|Psalms 103:0 >>]]</td></tr></table>
 

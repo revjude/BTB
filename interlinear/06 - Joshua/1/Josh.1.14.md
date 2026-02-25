@@ -1,8 +1,70 @@
+---
+title: Joshua 1:14
+type: Verse
+kjv: "Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;"
+bsb: "Your wives, your young children, and your livestock may remain in the land that Moses gave you on this side of the Jordan. But all your mighty men of valor must be armed for battle to cross over ahead of your brothers and help them,"
+hebrew: "נְשֵׁיכֶ֣ם טַפְּכֶם֮ וּמִקְנֵיכֶם֒ יֵשְׁב֕וּ בָּאָ֕רֶץ אֲשֶׁ֨ר נָתַ֥ן לָכֶ֛ם מֹשֶׁ֖ה בְּעֵ֣בֶר הַיַּרְדֵּ֑ן וְאַתֶּם֩ תַּעַבְר֨וּ חֲמֻשִׁ֜ים לִפְנֵ֣י אֲחֵיכֶ֗ם כֹּ֚ל גִּבּוֹרֵ֣י הַחַ֔יִל וַעֲזַרְתֶּ֖ם אוֹתָֽם׃"
+pericope: "[[Josh.1.10 Joshua Takes Charge|Joshua Takes Charge]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H0802H]]"
+- "[[H9026]]"
+- "[[H2945]]"
+- "[[H9002]]"
+- "[[H4735]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H4872]]"
+- "[[H5676H]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0859D]]"
+- "[[H5674A]]"
+- "[[H2571]]"
+- "[[H6440G]]"
+- "[[H0251I]]"
+- "[[H3605]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H9001]]"
+- "[[H5826]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:14**<big><big>[[Josh.1.10 Joshua Takes Charge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;
 <small><sub>**BSB:**</sub></small>
 Your wives, your young children, and your livestock may remain in the land that Moses gave you on this side of the Jordan. But all your mighty men of valor must be armed for battle to cross over ahead of your brothers and help them,
+<small><sub>**Hebrew:**</sub></small>
+[[H0802H\|נְשֵׁי]][[H9026\|כֶ֣ם]] [[H2945\|טַפְּ]][[H9026\|כֶם֮]] [[H9002\|וּ]][[H4735\|מִקְנֵי]][[H9026\|כֶם֒]] [[H3427\|יֵשְׁב֕וּ]] [[H9003\|בָּ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|נָתַ֥ן]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H4872\|מֹשֶׁ֖ה]] [[H9003\|בְּ]][[H5676H\|עֵ֣בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9002\|וְ]][[H0859D\|אַתֶּם֩]] [[H5674A\|תַּעַבְר֨וּ]] [[H2571\|חֲמֻשִׁ֜ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0251I\|אֲחֵי]][[H9026\|כֶ֗ם]] [[H3605\|כֹּ֚ל]] [[H1368\|גִּבּוֹרֵ֣י]] [[H9009\|הַ]][[H2428G\|חַ֔יִל]] [[H9001\|וַ]][[H5826\|עֲזַרְתֶּ֖ם]] [[H0853\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.13|<< Joshua 1:13]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.15|Joshua 1:15 >>]]</td></tr></table>
 

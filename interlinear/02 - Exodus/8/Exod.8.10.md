@@ -1,8 +1,66 @@
+---
+title: Exodus 8:10
+type: Verse
+kjv: "And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the LORD our God."
+bsb: "“Tomorrow,” Pharaoh answered. “May it be as you say,” Moses replied, “so that you may know that there is no one like the LORD our God."
+hebrew: "וַיֹּ֖אמֶר לְמָחָ֑ר וַיֹּ֙אמֶר֙ כִּדְבָ֣רְךָ֔ לְמַ֣עַן תֵּדַ֔ע כִּי־ אֵ֖ין כַּיהוָ֥ה אֱלֹהֵֽינוּ׃"
+pericope: "[[Exod.8.1 The Second Plague：Frogs|The Second Plague：Frogs]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FROGS|FROGS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4279]]"
+- "[[H9004]]"
+- "[[H1697H]]"
+- "[[H9021]]"
+- "[[H4616]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:10**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, To morrow. And he said, [Be it] according to thy word: that thou mayest know that [there is] none like unto the LORD our God.
 <small><sub>**BSB:**</sub></small>
 “Tomorrow,” Pharaoh answered. “May it be as you say,” Moses replied, “so that you may know that there is no one like the LORD our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H9005\|לְ]][[H4279\|מָחָ֑ר]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9004\|כִּ]][[H1697H\|דְבָ֣רְ]][[H9021\|ךָ֔]] [[H4616\|לְמַ֣עַן]] [[H3045\|תֵּדַ֔ע]] [[H3588A\|כִּי]][[H9014\|־]] [[H0369\|אֵ֖ין]] [[H9004\|כַּ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FROGS|FROGS]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.9|<< Exodus 8:9]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.11|Exodus 8:11 >>]]</td></tr></table>
 

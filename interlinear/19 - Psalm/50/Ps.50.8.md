@@ -1,8 +1,57 @@
+---
+title: Psalm 50:8
+type: Verse
+kjv: "I will not reprove thee for thy sacrifices or thy burnt offerings, to have been continually before me."
+bsb: "I do not rebuke you for your sacrifices, and your burnt offerings are ever before Me."
+hebrew: "לֹ֣א עַל־ זְ֭בָחֶיךָ אוֹכִיחֶ֑ךָ וְעוֹלֹתֶ֖יךָ לְנֶגְדִּ֣י תָמִֽיד׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H3808]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2077]]"
+- "[[H9021]]"
+- "[[H3198]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H9030]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:8**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not reprove thee for thy sacrifices or thy burnt offerings, [to have been] continually before me.
 <small><sub>**BSB:**</sub></small>
 I do not rebuke you for your sacrifices, and your burnt offerings are ever before Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H5921A\|עַל]][[H9014\|־]] [[H2077\|זְ֭בָחֶי]][[H9021\|ךָ]] [[H3198\|אוֹכִיחֶ֑]][[H9031\|ךָ]] [[H9002\|וְ]][[H5930A\|עוֹלֹתֶ֖י]][[H9021\|ךָ]] [[H9005\|לְ]][[H5048\|נֶגְדִּ֣]][[H9030\|י]] [[H8548\|תָמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.7|<< Psalms 50:7]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.9|Psalms 50:9 >>]]</td></tr></table>
 

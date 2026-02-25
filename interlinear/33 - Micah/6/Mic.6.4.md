@@ -1,8 +1,66 @@
+---
+title: Micah 6:4
+type: Verse
+kjv: "For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam."
+bsb: "For I brought you up from the land of Egypt and redeemed you from the house of slavery. I sent Moses before you, as well as Aaron and Miriam."
+hebrew: "כִּ֤י הֶעֱלִתִ֙יךָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם וּמִבֵּ֥ית עֲבָדִ֖ים פְּדִיתִ֑יךָ וָאֶשְׁלַ֣ח לְפָנֶ֔יךָ אֶת־ מֹשֶׁ֖ה אַהֲרֹ֥ן וּמִרְיָֽם׃"
+pericope: "[[Mic.6.1 The Case against Israel|The Case against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 6
+book/chapter: "[[Mic.6|Micah 6]]"
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic MIRIAM|MIRIAM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5927H]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H5650]]"
+- "[[H6299]]"
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0175]]"
+- "[[H4813G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 6:4**<big><big>[[Mic.6.1 The Case against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.
 <small><sub>**BSB:**</sub></small>
 For I brought you up from the land of Egypt and redeemed you from the house of slavery. I sent Moses before you, as well as Aaron and Miriam.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H5927H\|הֶעֱלִתִ֙י]][[H9031\|ךָ֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9002\|וּ]][[H9006\|מִ]][[H1004B\|בֵּ֥ית]] [[H5650\|עֲבָדִ֖ים]] [[H6299\|פְּדִיתִ֑י]][[H9031\|ךָ]] [[H9001\|וָ]][[H7971G\|אֶשְׁלַ֣ח]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֖ה]] [[H0175\|אַהֲרֹ֥ן]] [[H9002\|וּ]][[H4813G\|מִרְיָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic MIRIAM|MIRIAM]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.3|<< Micah 6:3]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.5|Micah 6:5 >>]]</td></tr></table>
 

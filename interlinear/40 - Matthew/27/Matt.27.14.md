@@ -1,10 +1,58 @@
+---
+title: Matthew 27:14
+type: Verse
+kjv: "And he answered him to never a word; insomuch that the governor marvelled greatly."
+bsb: "But Jesus gave no answer, not even to a single charge, much to the governor’s amazement."
+greek: "καὶ οὐκ ἀπεκρίθη αὐτῷ πρὸς οὐδὲ ἓν ῥῆμα ὥστε θαυμάζειν τὸν ἡγεμόνα λίαν.¶"
+pericope: "[[Matt.27.11 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-CONTROL|SELF-CONTROL]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G3761]]"
+- "[[G1520]]"
+- "[[G4487]]"
+- "[[G5620]]"
+- "[[G2296]]"
+- "[[G3588]]"
+- "[[G2232]]"
+- "[[G3029]]"
+texts:
+- NKO
+---
+
 **Matthew 27:14**<big><big>[[Matt.27.11 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he answered him to never a word; insomuch that the governor marvelled greatly.
 <small><sub>**BSB:**</sub></small>
 But Jesus gave no answer, not even to a single charge, much to the governor’s amazement.
-<small><sub>**Literal:**</sub></small>
-And not He did answer him to not even one word so as to amaze the governor exceedingly.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.13|<< Matthew 27:13]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.15|Matthew 27:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῷ]]  [[G4314\|πρὸς]]  [[G3761\|οὐδὲ]]  [[G1520\|ἓν]]  [[G4487\|ῥῆμα]]  [[G5620\|ὥστε]]  [[G2296\|θαυμάζειν]]  [[G3588\|τὸν]]  [[G2232\|ἡγεμόνα]]  [[G3029\|λίαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic RULERS|RULERS]] • [[topic SELF-CONTROL|SELF-CONTROL]] • [[topic SELF-DEFENSE|SELF-DEFENSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.13|<< Matthew 27:13]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.15|Matthew 27:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

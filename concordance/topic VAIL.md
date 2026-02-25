@@ -7,7 +7,7 @@
 
 - Called the second veil [[Heb.6.19|Heb 6:19]]; [[Heb.9.3|9:3]]
 
-- Ordinances prescribing [[Exod.26.31|Ex 26:31]]-[[Exod.26.33|33]]
+- Ordinances prescribing [[Exod.26.31|Ex 26:31-33]]
 
 - Made by Bezaleel and Aholiab [[Exod.36.35|Ex 36:35]],[[Exod.36.36|36]]
 

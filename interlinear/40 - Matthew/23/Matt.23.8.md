@@ -1,10 +1,70 @@
+---
+title: Matthew 23:8
+type: Verse
+kjv: "But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren."
+bsb: "But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers."
+jesus_said: "But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren."
+greek: "ὑμεῖς δὲ μὴ κληθῆτε ῥαββί· εἷς γάρ ἐστιν ὑμῶν ὁ διδάσκαλος ὁ Χριστός, πάντες δὲ ὑμεῖς ἀδελφοί ἐστε.¶"
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RABBI|RABBI]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic UNITY|UNITY]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G2564G]]"
+- "[[G4461]]"
+- "[[G1520]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1320]]"
+- "[[G5547]]"
+- "[[G3956]]"
+- "[[G0080]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Matthew 23:8**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But be not ye called Rabbi: for one is your Master, [even] Christ; and all ye are brethren.
 <small><sub>**BSB:**</sub></small>
 But you are not to be called ‘Rabbi,’ for you have one Teacher, and you are all brothers.
-<small><sub>**Literal:**</sub></small>
-you yourselves however not may be called Rabbi; One for is of you the Teacher <the> Christ all now you yourselves brothers are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.7|<< Matthew 23:7]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.9|Matthew 23:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G3361\|μὴ]]  [[G2564G\|κληθῆτε]]  [[G4461\|ῥαββί·]]  [[G1520\|εἷς]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G4771\|ὑμῶν]]  [[G3588\|ὁ]]  [[G1320\|διδάσκαλος]]  [[G3588\|ὁ]]  [[G5547\|Χριστός,]]  [[G3956\|πάντες]]  [[G1161\|δὲ]]  [[G4771\|ὑμεῖς]]  [[G0080\|ἀδελφοί]]  [[G1510\|ἐστε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic MASTER|MASTER]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic PRIDE|PRIDE]] • [[topic RABBI|RABBI]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]] • [[topic UNITY|UNITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.7|<< Matthew 23:7]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.9|Matthew 23:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

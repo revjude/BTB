@@ -1,8 +1,59 @@
+---
+title: 2 Kings 1:7
+type: Verse
+kjv: "And he said unto them, What manner of man was he which came up to meet you, and told you these words?"
+bsb: "The king asked them, “What sort of man came up to meet you and spoke these words to you?”"
+hebrew: "וַיְדַבֵּ֣ר אֲלֵהֶ֔ם מֶ֚ה מִשְׁפַּ֣ט הָאִ֔ישׁ אֲשֶׁ֥ר עָלָ֖ה לִקְרַאתְכֶ֑ם וַיְדַבֵּ֣ר אֲלֵיכֶ֔ם אֶת־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[2Kgs.1.1 Elijah Denounces Ahaziah|Elijah Denounces Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 1
+book/chapter: "[[2Kgs.1|2 Kings 1]]"
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H4100]]"
+- "[[H4941H]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H5927G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 1:7**<big><big>[[2Kgs.1.1 Elijah Denounces Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, What manner of man [was he] which came up to meet you, and told you these words?
 <small><sub>**BSB:**</sub></small>
 The king asked them, “What sort of man came up to meet you and spoke these words to you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H4100\|מֶ֚ה]] [[H4941H\|מִשְׁפַּ֣ט]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5927G\|עָלָ֖ה]] [[H9005\|לִ]][[H7122G\|קְרַאתְ]][[H9036\|כֶ֑ם]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.1.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.1.6|<< 2 Kings 1:6]]</td><td align="center" style="border:none;">[[2Kgs.1|2 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.1.8|2 Kings 1:8 >>]]</td></tr></table>
 

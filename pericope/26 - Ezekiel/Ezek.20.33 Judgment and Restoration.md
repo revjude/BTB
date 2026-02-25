@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment and Restoration
+type: Pericope
 pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 20
 book/chapter: "[[Ezek.20|Ezekiel 20]]"
-genre:
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 12
 verses:
 - "[[Ezek.20.33]]"
 - "[[Ezek.20.34]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ezek.20.44]]"
 ---
 
-[[Ezek.20|Ezekiel 20:33 - Ezekiel 20:44]]
+<small>[[Ezek.20|Ezekiel 20:33-44]]</small>
 *Judgment and Restoration*
 
 [[Ezek.20.33|33]] \[As\] I live, saith the Lord GOD, surely with a mighty hand, and with a stretched out arm, and with fury poured out, will I rule over you:

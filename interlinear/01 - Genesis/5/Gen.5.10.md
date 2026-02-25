@@ -1,8 +1,62 @@
+---
+title: Genesis 5:10
+type: Verse
+kjv: "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+bsb: "And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters."
+hebrew: "וַֽיְחִ֣י אֱנ֗וֹשׁ אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־ קֵינָ֔ן חֲמֵ֤שׁ עֶשְׂרֵה֙ שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃"
+pericope: "[[Gen.5.1 The Descendants of Adam|The Descendants of Adam]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CAINAN|CAINAN]]"
+- "[[topic ENOS|ENOS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H0583]]"
+- "[[H0310A]]"
+- "[[H3205]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7018]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H8083]]"
+- "[[H3967]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:10**<big><big>[[Gen.5.1 The Descendants of Adam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:
 <small><sub>**BSB:**</sub></small>
 And after he had become the father of Kenan, Enosh lived 815 years and had other sons and daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2421\|יְחִ֣י]] [[H0583\|אֱנ֗וֹשׁ]] [[H0310A\|אַֽחֲרֵי֙]] [[H3205\|הוֹלִיד֣]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H7018\|קֵינָ֔ן]] [[H2568\|חֲמֵ֤שׁ]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H9002\|וּ]][[H8083\|שְׁמֹנֶ֥ה]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H3205\|יּ֥וֹלֶד]] [[H1121A\|בָּנִ֖ים]] [[H9002\|וּ]][[H1323G\|בָנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAINAN|CAINAN]] • [[topic ENOS|ENOS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.9|<< Genesis 5:9]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.11|Genesis 5:11 >>]]</td></tr></table>
 

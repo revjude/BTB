@@ -1,8 +1,62 @@
+---
+title: Ezekiel 28:4
+type: Verse
+kjv: "With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:"
+bsb: "By your wisdom and understanding you have gained your wealth and amassed gold and silver for your treasuries."
+hebrew: "בְּחָכְמָֽתְךָ֙ וּבִתְבוּנָ֣תְךָ֔ עָשִׂ֥יתָ לְּךָ֖ חָ֑יִל וַתַּ֛עַשׂ זָהָ֥ב וָכֶ֖סֶף בְּאוֹצְרוֹתֶֽיךָ׃"
+pericope: "[[Ezek.28.1 A Prophecy against the Ruler of Tyre|A Prophecy against the Ruler of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOLD|GOLD]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9003]]"
+- "[[H2451]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H8394]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H2428H]]"
+- "[[H9001]]"
+- "[[H6213I]]"
+- "[[H2091]]"
+- "[[H3701G]]"
+- "[[H0214]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 28:4**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 With thy wisdom and with thine understanding thou hast gotten thee riches, and hast gotten gold and silver into thy treasures:
 <small><sub>**BSB:**</sub></small>
 By your wisdom and understanding you have gained your wealth and amassed gold and silver for your treasuries.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2451\|חָכְמָֽתְ]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H9003\|בִ]][[H8394\|תְבוּנָ֣תְ]][[H9021\|ךָ֔]] [[H6213H\|עָשִׂ֥יתָ]] [[H9005\|לְּ]][[H9031\|ךָ֖]] [[H2428H\|חָ֑יִל]] [[H9001\|וַ]][[H6213I\|תַּ֛עַשׂ]] [[H2091\|זָהָ֥ב]] [[H9002\|וָ]][[H3701G\|כֶ֖סֶף]] [[H9003\|בְּ]][[H0214\|אוֹצְרוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOLD|GOLD]] • [[topic IRONY|IRONY]] • [[topic MONEY|MONEY]] • [[topic PRIDE|PRIDE]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.3|<< Ezekiel 28:3]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.5|Ezekiel 28:5 >>]]</td></tr></table>
 

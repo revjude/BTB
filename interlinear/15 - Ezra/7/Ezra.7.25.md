@@ -1,8 +1,75 @@
+---
+title: Ezra 7:25
+type: Verse
+kjv: "And thou, Ezra, after the wisdom of thy God, that is in thine hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of thy God; and teach ye them that know them not."
+bsb: "And you, Ezra, according to the wisdom of your God, which you possess, are to appoint magistrates and judges to judge all the people west of the Euphrates—all who know the laws of your God. And you are to teach these laws to anyone who does not know them."
+aramaic: "וְאַ֣נְתְּ עֶזְרָ֗א כְּחָכְמַ֨ת אֱלָהָ֤ךְ דִּֽי־ בִידָךְ֙ מֶ֣נִּי שָׁפְטִ֞ין וְדַיָּנִ֗ין דִּי־ לֶהֱוֹ֤ן דָּאיְנִין֙ לְכָל־ עַמָּה֙ דִּ֚י בַּעֲבַ֣ר נַהֲרָ֔ה לְכָל־ יָדְעֵ֖י דָּתֵ֣י אֱלָהָ֑ךְ וְדִ֧י לָ֦א יָדַ֖ע תְּהוֹדְעֽוּן׃"
+pericope: "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MAGISTRATE|MAGISTRATE]]"
+- "[[topic OFFICER|OFFICER]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0607]]"
+- "[[H5831]]"
+- "[[H9004]]"
+- "[[H2452]]"
+- "[[H0426]]"
+- "[[H9021]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H3028]]"
+- "[[H4483]]"
+- "[[H8200]]"
+- "[[H1782]]"
+- "[[H1934]]"
+- "[[H1778]]"
+- "[[H9005]]"
+- "[[H3606]]"
+- "[[H5972]]"
+- "[[H9010]]"
+- "[[H5675]]"
+- "[[H5103G]]"
+- "[[H3046]]"
+- "[[H1882]]"
+- "[[H3809]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezra 7:25**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou, Ezra, after the wisdom of thy God, that [is] in thine hand, set magistrates and judges, which may judge all the people that [are] beyond the river, all such as know the laws of thy God; and teach ye them that know [them] not.
 <small><sub>**BSB:**</sub></small>
 And you, Ezra, according to the wisdom of your God, which you possess, are to appoint magistrates and judges to judge all the people west of the Euphrates—all who know the laws of your God. And you are to teach these laws to anyone who does not know them.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H0607\|אַ֣נְתְּ]] [[H5831\|עֶזְרָ֗א]] [[H9004\|כְּ]][[H2452\|חָכְמַ֨ת]] [[H0426\|אֱלָהָ֤]][[H9021\|ךְ]] [[H1768\|דִּֽי]][[H9014\|־]] [[H9003\|בִ]][[H3028\|ידָ]][[H9021\|ךְ֙]] [[H4483\|מֶ֣נִּי]] [[H8200\|שָׁפְטִ֞ין]] [[H9002\|וְ]][[H1782\|דַיָּנִ֗ין]] [[H1768\|דִּי]][[H9014\|־]] [[H1934\|לֶהֱוֹ֤ן]] [[H1778\|דָּאיְנִין֙]] [[H9005\|לְ]][[H3606\|כָל]][[H9014\|־]] [[H5972\|עַמָּ]][[H9010\|ה֙]] [[H1768\|דִּ֚י]] [[H9003\|בַּ]][[H5675\|עֲבַ֣ר]] [[H5103G\|נַהֲרָ֔]][[H9010\|ה]] [[H9005\|לְ]][[H3606\|כָל]][[H9014\|־]] [[H3046\|יָדְעֵ֖י]] [[H1882\|דָּתֵ֣י]] [[H0426\|אֱלָהָ֑]][[H9021\|ךְ]] [[H9002\|וְ]][[H1768\|דִ֧י]] [[H3809\|לָ֦א]] [[H3046\|יָדַ֖ע]] [[H3046\|תְּהוֹדְעֽוּן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGE|JUDGE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MAGISTRATE|MAGISTRATE]] • [[topic OFFICER|OFFICER]] • [[topic PERSIA|PERSIA]] • [[topic RULERS|RULERS]] • [[topic TEMPLE|TEMPLE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.24|<< Ezra 7:24]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.26|Ezra 7:26 >>]]</td></tr></table>
 

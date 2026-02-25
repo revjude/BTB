@@ -1,8 +1,60 @@
+---
+title: Genesis 50:18
+type: Verse
+kjv: "And his brethren also went and fell down before his face; and they said, Behold, we be thy servants."
+bsb: "His brothers also came to him, bowed down before him, and said, “We are your slaves!”"
+hebrew: "וַיֵּלְכוּ֙ גַּם־ אֶחָ֔יו וַֽיִּפְּל֖וּ לְפָנָ֑יו וַיֹּ֣אמְר֔וּ הִנֶּ֥נּֽוּ לְךָ֖ לַעֲבָדִֽים׃"
+pericope: "[[Gen.50.15 Joseph Comforts His Brothers|Joseph Comforts His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980H]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H5307G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H9045]]"
+- "[[H9031]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:18**<big><big>[[Gen.50.15 Joseph Comforts His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brethren also went and fell down before his face; and they said, Behold, we [be] thy servants.
 <small><sub>**BSB:**</sub></small>
 His brothers also came to him, bowed down before him, and said, “We are your slaves!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980H\|יֵּלְכוּ֙]] [[H1571\|גַּם]][[H9014\|־]] [[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H9001\|וַֽ]][[H5307G\|יִּפְּל֖וּ]] [[H9005\|לְ]][[H6440G\|פָנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H2009\|הִנֶּ֥]][[H9045\|נּֽוּ]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לַ]][[H5650\|עֲבָדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic FAMILY|FAMILY]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.17|<< Genesis 50:17]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.19|Genesis 50:19 >>]]</td></tr></table>
 

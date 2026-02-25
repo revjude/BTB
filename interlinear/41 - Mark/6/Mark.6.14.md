@@ -1,10 +1,67 @@
+---
+title: Mark 6:14
+type: Verse
+kjv: "And king Herod heard of him; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him."
+bsb: "Now King Herod heard about this, for Jesus’ name had become well known, and people were saying, “John the Baptist has risen from the dead! That is why miraculous powers are at work in him.”"
+greek: "Καὶ ἤκουσεν ὁ βασιλεὺς Ἡρῴδης· φανερὸν γὰρ ἐγένετο τὸ ὄνομα αὐτοῦ. καὶ ἔλεγον ὅτι Ἰωάννης ὁ βαπτίζων ἐγήγερται ἐκ νεκρῶν, καὶ διὰ τοῦτο ἐνεργοῦσιν αἱ δυνάμεις ἐν αὐτῷ."
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2264H]]"
+- "[[G5318]]"
+- "[[G1063]]"
+- "[[G1096]]"
+- "[[G3686]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2491G]]"
+- "[[G0907]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1754]]"
+- "[[G1411]]"
+- "[[G1722]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 6:14**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And king Herod heard [of him]; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.
 <small><sub>**BSB:**</sub></small>
 Now King Herod heard about this, for Jesus’ name had become well known, and people were saying, “John the Baptist has risen from the dead! That is why miraculous powers are at work in him.”
-<small><sub>**Literal:**</sub></small>
-And heard <the> King Herod; well known for became the name of Him. And they were saying that John the [one] baptizing he has been raised out from [the] dead and because of this operate the miraculous powers in him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.13|<< Mark 6:13]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.15|Mark 6:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἤκουσεν]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G2264H\|Ἡρῴδης·]]  [[G5318\|φανερὸν]]  [[G1063\|γὰρ]]  [[G1096\|ἐγένετο]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ.]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγον]]  [[G3754G\|ὅτι]]  [[G2491G\|Ἰωάννης]]  [[G3588\|ὁ]]  [[G0907\|βαπτίζων]]  [[G1453\|ἐγήγερται]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G1754\|ἐνεργοῦσιν]]  [[G3588\|αἱ]]  [[G1411\|δυνάμεις]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic SUPERSTITION|SUPERSTITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.13|<< Mark 6:13]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.15|Mark 6:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

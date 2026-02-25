@@ -1,10 +1,62 @@
+---
+title: Luke 12:3
+type: Verse
+kjv: "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops."
+bsb: "What you have spoken in the dark will be heard in the daylight, and what you have whispered in the inner rooms will be proclaimed from the housetops."
+jesus_said: "Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops."
+greek: "ἀνθ᾽ ὧν ὅσα ἐν τῇ σκοτίᾳ εἴπατε ἐν τῷ φωτὶ ἀκουσθήσεται, καὶ ὃ πρὸς τὸ οὖς ἐλαλήσατε ἐν τοῖς ταμείοις κηρυχθήσεται ἐπὶ τῶν δωμάτων.¶"
+pericope: "[[Luke.12.1 The Leaven of the Pharisees|The Leaven of the Pharisees]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G0473]]"
+- "[[G3739]]"
+- "[[G3745]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4653]]"
+- "[[G2036]]"
+- "[[G5457]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G3775]]"
+- "[[G2980]]"
+- "[[G5009]]"
+- "[[G2784]]"
+- "[[G1909]]"
+- "[[G1430]]"
+texts:
+- NKO
+---
+
 **Luke 12:3**<big><big>[[Luke.12.1 The Leaven of the Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore whatsoever ye have spoken in darkness shall be heard in the light; and that which ye have spoken in the ear in closets shall be proclaimed upon the housetops.
 <small><sub>**BSB:**</sub></small>
 What you have spoken in the dark will be heard in the daylight, and what you have whispered in the inner rooms will be proclaimed from the housetops.
-<small><sub>**Literal:**</sub></small>
-Instead that as much as in the darkness you have said in the light will be heard, and what into the ear you have spoken in the inner rooms will be proclaimed upon the housetops.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.2|<< Luke 12:2]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.4|Luke 12:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0473\|ἀνθ᾽]]  [[G3739\|ὧν]]  [[G3745\|ὅσα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4653\|σκοτίᾳ]]  [[G2036\|εἴπατε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5457\|φωτὶ]]  [[G0191\|ἀκουσθήσεται,]]  [[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G3775\|οὖς]]  [[G2980\|ἐλαλήσατε]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G5009\|ταμείοις]]  [[G2784\|κηρυχθήσεται]]  [[G1909\|ἐπὶ]]  [[G3588\|τῶν]]  [[G1430\|δωμάτων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.2|<< Luke 12:2]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.4|Luke 12:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

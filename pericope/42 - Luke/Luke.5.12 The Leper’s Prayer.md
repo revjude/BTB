@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Leper’s Prayer
+type: Pericope
 pericope: "[[Luke.5.12 The Leper’s Prayer|The Leper’s Prayer]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 5
 book/chapter: "[[Luke.5|Luke 5]]"
-genre:
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.5.12]]"
 - "[[Luke.5.13]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.5.16]]"
 ---
 
-[[Luke.5|Luke 5:12 - Luke 5:16]]
+<small>[[Luke.5|Luke 5:12-16]]</small>
 *The Leper’s Prayer*
 
 [[Luke.5.12|12]] And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on \[his\] face, and besought him, saying, Lord, if thou wilt, thou canst make me clean.

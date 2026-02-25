@@ -1,8 +1,69 @@
+---
+title: Joshua 11:17
+type: Verse
+kjv: "Even from the mount Halak, that goeth up to Seir, even unto Baalgad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them."
+bsb: "from Mount Halak, which rises toward Seir, as far as Baal-gad in the Valley of Lebanon at the foot of Mount Hermon. He captured all their kings and struck them down, putting them to death."
+hebrew: "מִן־ הָהָ֤ר הֶֽחָלָק֙ הָעוֹלֶ֣ה שֵׂעִ֔יר וְעַד־ בַּ֤עַל גָּד֙ בְּבִקְעַ֣ת הַלְּבָנ֔וֹן תַּ֖חַת הַר־ חֶרְמ֑וֹן וְאֵ֤ת כָּל־ מַלְכֵיהֶם֙ לָכַ֔ד וַיַּכֵּ֖ם וַיְמִיתֵֽם׃"
+pericope: "[[Josh.11.16 Joshua Takes the Whole Land|Joshua Takes the Whole Land]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BAAL-GAD|BAAL-GAD]]"
+- "[[topic HALAK|HALAK]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic SEIR|SEIR]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H2510]]"
+- "[[H5927G]]"
+- "[[H8165A]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H1171]]"
+- "[[H9003]]"
+- "[[H1237I]]"
+- "[[H3844I]]"
+- "[[H8478G]]"
+- "[[H2768]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H4428G]]"
+- "[[H9028]]"
+- "[[H3920]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:17**<big><big>[[Josh.11.16 Joshua Takes the Whole Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Even] from the mount Halak, that goeth up to Seir, even unto Baalgad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them.
 <small><sub>**BSB:**</sub></small>
 from Mount Halak, which rises toward Seir, as far as Baal-gad in the Valley of Lebanon at the foot of Mount Hermon. He captured all their kings and struck them down, putting them to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H2022G\|הָ֤ר]] [[H9009\|הֶֽ]][[H2510\|חָלָק֙]] [[H9009\|הָ]][[H5927G\|עוֹלֶ֣ה]] [[H8165A\|שֵׂעִ֔יר]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1171\|בַּ֤עַל]] [[H1171\|גָּד֙]] [[H9003\|בְּ]][[H1237I\|בִקְעַ֣ת]] [[H9009\|הַ]][[H3844I\|לְּבָנ֔וֹן]] [[H8478G\|תַּ֖חַת]] [[H2022G\|הַר]][[H9014\|־]] [[H2768\|חֶרְמ֑וֹן]] [[H9002\|וְ]][[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H4428G\|מַלְכֵי]][[H9028\|הֶם֙]] [[H3920\|לָכַ֔ד]] [[H9001\|וַ]][[H5221\|יַּכֵּ֖]][[H9038\|ם]] [[H9001\|וַ]][[H4191\|יְמִיתֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-GAD|BAAL-GAD]] • [[topic HALAK|HALAK]] • [[topic LEBANON|LEBANON]] • [[topic SEIR|SEIR]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.16|<< Joshua 11:16]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.18|Joshua 11:18 >>]]</td></tr></table>
 

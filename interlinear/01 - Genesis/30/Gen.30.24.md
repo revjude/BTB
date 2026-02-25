@@ -1,8 +1,63 @@
+---
+title: Genesis 30:24
+type: Verse
+kjv: "And she called his name Joseph; and said, The LORD shall add to me another son."
+bsb: "She named him Joseph, and said, “May the LORD add to me another son.”"
+hebrew: "וַתִּקְרָ֧א אֶת־ שְׁמ֛וֹ יוֹסֵ֖ף לֵאמֹ֑ר יֹסֵ֧ף יְהוָ֛ה לִ֖י בֵּ֥ן אַחֵֽר׃"
+pericope: "[[Gen.30.22 Joseph|Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic RACHEL|RACHEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3130G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3254H]]"
+- "[[H3068G]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:24**<big><big>[[Gen.30.22 Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she called his name Joseph; and said, The LORD shall add to me another son.
 <small><sub>**BSB:**</sub></small>
 She named him Joseph, and said, “May the LORD add to me another son.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|תִּקְרָ֧א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֛]][[H9023\|וֹ]] [[H3130G\|יוֹסֵ֖ף]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3254H\|יֹסֵ֧ף]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לִ֖]][[H9030\|י]] [[H1121A\|בֵּ֥ן]] [[H0312\|אַחֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic EMULATION|EMULATION]] • [[topic FAMILY|FAMILY]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic RACHEL|RACHEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.23|<< Genesis 30:23]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.25|Genesis 30:25 >>]]</td></tr></table>
 

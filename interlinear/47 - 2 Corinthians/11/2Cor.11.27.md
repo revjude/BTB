@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 11:27
+type: Verse
+kjv: "In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness."
+bsb: "in labor and toil and often without sleep, in hunger and thirst and often without food, in cold and exposure."
+greek: "ἐν κόπῳ καὶ μόχθῳ, ἐν ἀγρυπνίαις πολλάκις, ἐν λιμῷ καὶ δίψει, ἐν νηστείαις πολλάκις, ἐν ψύχει καὶ γυμνότητι·"
+pericope: "[[2Cor.11.16 Paul’s Suffering and Service|Paul’s Suffering and Service]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FASTING|FASTING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1722]]"
+- "[[G2873]]"
+- "[[G2532]]"
+- "[[G3449]]"
+- "[[G0070]]"
+- "[[G4178]]"
+- "[[G3042]]"
+- "[[G1373]]"
+- "[[G3521]]"
+- "[[G5592]]"
+- "[[G1132]]"
+texts:
+- k
+- NKO
+---
+
 **2 Corinthians 11:27**<big><big>[[2Cor.11.16 Paul’s Suffering and Service|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In weariness and painfulness, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness.
 <small><sub>**BSB:**</sub></small>
 in labor and toil and often without sleep, in hunger and thirst and often without food, in cold and exposure.
-<small><sub>**Literal:**</sub></small>
-in labor and toil, in watchings often, in hunger and thirst, in fastings often, in cold and nakedness;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.26|<< 2 Corinthians 11:26]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.28|2 Corinthians 11:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G2873\|κόπῳ]]  [[G2532\|καὶ]]  [[G3449\|μόχθῳ,]]  [[G1722\|ἐν]]  [[G0070\|ἀγρυπνίαις]]  [[G4178\|πολλάκις,]]  [[G1722\|ἐν]]  [[G3042\|λιμῷ]]  [[G2532\|καὶ]]  [[G1373\|δίψει,]]  [[G1722\|ἐν]]  [[G3521\|νηστείαις]]  [[G4178\|πολλάκις,]]  [[G1722\|ἐν]]  [[G5592\|ψύχει]]  [[G2532\|καὶ]]  [[G1132\|γυμνότητι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FASTING|FASTING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.26|<< 2 Corinthians 11:26]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.28|2 Corinthians 11:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

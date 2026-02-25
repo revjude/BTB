@@ -1,8 +1,69 @@
+---
+title: 1 Kings 10:17
+type: Verse
+kjv: "And he made three hundred shields of beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon."
+bsb: "He also made three hundred small shields of hammered gold; three minas of gold went into each shield. And the king put them in the House of the Forest of Lebanon."
+hebrew: "וּשְׁלֹשׁ־ מֵא֤וֹת מָֽגִנִּים֙ זָהָ֣ב שָׁח֔וּט שְׁלֹ֤שֶׁת מָנִים֙ זָהָ֔ב יַעֲלֶ֖ה עַל־ הַמָּגֵ֣ן הָאֶחָ֑ת וַיִּתְּנֵ֣ם הַמֶּ֔לֶךְ בֵּ֖ית יַ֥עַר הַלְּבָנֽוֹן׃ פ"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARMORY|ARMORY]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic KING|KING]]"
+- "[[topic MANEH|MANEH]]"
+- "[[topic POUND|POUND]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H4043]]"
+- "[[H2091]]"
+- "[[H7820]]"
+- "[[H4488]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H9038]]"
+- "[[H4428G]]"
+- "[[H1004K]]"
+- "[[H3293I]]"
+- "[[H3844J]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 10:17**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [he made] three hundred shields [of] beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.
 <small><sub>**BSB:**</sub></small>
 He also made three hundred small shields of hammered gold; three minas of gold went into each shield. And the king put them in the House of the Forest of Lebanon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7969\|שְׁלֹשׁ]][[H9014\|־]] [[H3967\|מֵא֤וֹת]] [[H4043\|מָֽגִנִּים֙]] [[H2091\|זָהָ֣ב]] [[H7820\|שָׁח֔וּט]] [[H7969\|שְׁלֹ֤שֶׁת]] [[H4488\|מָנִים֙]] [[H2091\|זָהָ֔ב]] [[H5927G\|יַעֲלֶ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4043\|מָּגֵ֣ן]] [[H9009\|הָ]][[H0259\|אֶחָ֑ת]] [[H9001\|וַ]][[H5414H\|יִּתְּנֵ֣]][[H9038\|ם]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H1004K\|בֵּ֖ית]] [[H3293I\|יַ֥עַר]] [[H9009\|הַ]][[H3844J\|לְּבָנֽוֹן]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMORY|ARMORY]] • [[topic GOLD|GOLD]] • [[topic KING|KING]] • [[topic MANEH|MANEH]] • [[topic POUND|POUND]] • [[topic SHIELD|SHIELD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.16|<< 1 Kings 10:16]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.18|1 Kings 10:18 >>]]</td></tr></table>
 
@@ -24,7 +85,7 @@ He also made three hundred small shields of hammered gold; three minas of gold w
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֔לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] House of  |**<big>&#8207;[[H1004K\|בֵּ֖ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Forest of  |**<big>&#8207;[[H3293I\|יַ֥עַר]]&#8207; </big>**| Ya.'ar<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Lebanon  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3844J\|לְּבָנֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Lebanon  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3844J\|לְּבָנֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> le.va.Non<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.16|<< 1 Kings 10:16]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.18|1 Kings 10:18 >>]]</td></tr></table>
 
 

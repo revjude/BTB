@@ -1,8 +1,50 @@
+---
+title: Psalm 79:4
+type: Verse
+kjv: "We are become a reproach to our neighbours, a scorn and derision to them that are round about us."
+bsb: "We have become a reproach to our neighbors, a scorn and derision to those around us."
+hebrew: "הָיִ֣ינוּ חֶ֭רְפָּה לִשְׁכֵנֵ֑ינוּ לַ֥עַג וָ֝קֶ֗לֶס לִסְבִיבוֹתֵֽינוּ׃"
+pericope: "[[Ps.79.1 A Prayer for Deliverance|A Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 79
+book/chapter: "[[Ps.79|Psalm 79]]"
+chronological_order: 782
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H1961]]"
+- "[[H2781]]"
+- "[[H9005]]"
+- "[[H7934]]"
+- "[[H9025]]"
+- "[[H3933]]"
+- "[[H9002]]"
+- "[[H7047]]"
+- "[[H5439G]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 79:4**<big><big>[[Ps.79.1 A Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We are become a reproach to our neighbours, a scorn and derision to them that are round about us.
 <small><sub>**BSB:**</sub></small>
 We have become a reproach to our neighbors, a scorn and derision to those around us.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הָיִ֣ינוּ]] [[H2781\|חֶ֭רְפָּה]] [[H9005\|לִ]][[H7934\|שְׁכֵנֵ֑י]][[H9025\|נוּ]] [[H3933\|לַ֥עַג]] [[H9002\|וָ֝]][[H7047\|קֶ֗לֶס]] [[H9005\|לִ]][[H5439G\|סְבִיבוֹתֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.79.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.79.3|<< Psalms 79:3]]</td><td align="center" style="border:none;">[[Ps.79|Psalms 79]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.79.5|Psalms 79:5 >>]]</td></tr></table>
 

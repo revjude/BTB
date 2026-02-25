@@ -1,10 +1,56 @@
+---
+title: Mark 13:30
+type: Verse
+kjv: "Verily I say unto you, that this generation shall not pass, till all these things be done."
+bsb: "Truly I tell you, this generation will not pass away until all these things have happened."
+jesus_said: "Verily I say unto you, that this generation shall not pass, till all these things be done."
+greek: "Ἀμὴν λέγω ὑμῖν ὅτι οὐ μὴ παρέλθῃ ἡ γενεὰ αὕτη μέχρις οὗ ταῦτα πάντα γένηται."
+pericope: "[[Mark.13.28 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G3928]]"
+- "[[G3588]]"
+- "[[G1074]]"
+- "[[G3778]]"
+- "[[G3360]]"
+- "[[G3739]]"
+- "[[G3956]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Mark 13:30**<big><big>[[Mark.13.28 The Lesson of the Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, that this generation shall not pass, till all these things be done.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, this generation will not pass away until all these things have happened.
-<small><sub>**Literal:**</sub></small>
-Amen I say to you that certainly not may have passed away <the> generation this until when these things all may happen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.29|<< Mark 13:29]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.31|Mark 13:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G3928\|παρέλθῃ]]  [[G3588\|ἡ]]  [[G1074\|γενεὰ]]  [[G3778\|αὕτη]]  [[G3360\|μέχρις]]  [[G3739\|οὗ]]  [[G3778\|ταῦτα]]  [[G3956\|πάντα]]  [[G1096\|γένηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.29|<< Mark 13:29]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.31|Mark 13:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

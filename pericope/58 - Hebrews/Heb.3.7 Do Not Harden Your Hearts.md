@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Do Not Harden Your Hearts
+type: Pericope
 pericope: "[[Heb.3.7 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 3
 book/chapter: "[[Heb.3|Hebrews 3]]"
-genre:
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 5
 verses:
 - "[[Heb.3.7]]"
 - "[[Heb.3.8]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Heb.3.11]]"
 ---
 
-[[Heb.3|Hebrews 3:7 - Hebrews 3:11]]
+<small>[[Heb.3|Hebrews 3:7-11]]</small>
 *Do Not Harden Your Hearts*
 
 [[Heb.3.7|7]] Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,

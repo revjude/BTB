@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: War between Asa and Baasha
+type: Pericope
 pericope: "[[1Kgs.15.16 War between Asa and Baasha|War between Asa and Baasha]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 15
 book/chapter: "[[1Kgs.15|1 Kings 15]]"
-genre:
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 7
 verses:
 - "[[1Kgs.15.16]]"
 - "[[1Kgs.15.17]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Kgs.15.22]]"
 ---
 
-[[1Kgs.15|1 Kings 15:16 - 1 Kings 15:22]]
+<small>[[1Kgs.15|1 Kings 15:16-22]]</small>
 *War between Asa and Baasha*
 
 [[1Kgs.15.16|16]] And there was war between Asa and Baasha king of Israel all their days.

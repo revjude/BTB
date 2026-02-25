@@ -1,8 +1,64 @@
+---
+title: Song of Solomon 8:6
+type: Verse
+kjv: "Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame."
+bsb: "Set me as a seal over your heart, as a seal upon your arm. For love is as strong as death, its jealousy as unrelenting as Sheol. Its sparks are fiery flames, the fiercest blaze of all."
+hebrew: "שִׂימֵ֨נִי כַֽחוֹתָ֜ם עַל־ לִבֶּ֗ךָ כַּֽחוֹתָם֙ עַל־ זְרוֹעֶ֔ךָ כִּֽי־ עַזָּ֤ה כַמָּ֙וֶת֙ אַהֲבָ֔ה קָשָׁ֥ה כִשְׁא֖וֹל קִנְאָ֑ה רְשָׁפֶ֕יהָ רִשְׁפֵּ֕י אֵ֖שׁ שַׁלְהֶ֥בֶתְיָֽה׃"
+pericope: "[[Song.8.6 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic ENVY|ENVY]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[H7760A]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H2368]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H2220]]"
+- "[[H3588A]]"
+- "[[H5794]]"
+- "[[H4194]]"
+- "[[H0160]]"
+- "[[H7186]]"
+- "[[H7585]]"
+- "[[H7068]]"
+- "[[H7565]]"
+- "[[H9024]]"
+- "[[H0784]]"
+- "[[H7957]]"
+- "[[H3050]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 8:6**<big><big>[[Song.8.6 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Set me as a seal upon thine heart, as a seal upon thine arm: for love [is] strong as death; jealousy [is] cruel as the grave: the coals thereof [are] coals of fire, [which hath] a most vehement flame.
 <small><sub>**BSB:**</sub></small>
 Set me as a seal over your heart, as a seal upon your arm. For love is as strong as death, its jealousy as unrelenting as Sheol. Its sparks are fiery flames, the fiercest blaze of all.
+<small><sub>**Hebrew:**</sub></small>
+[[H7760A\|שִׂימֵ֨]][[H9030\|נִי]] [[H9004\|כַֽ]][[H2368\|חוֹתָ֜ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לִבֶּ֗]][[H9021\|ךָ]] [[H9004\|כַּֽ]][[H2368\|חוֹתָם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H2220\|זְרוֹעֶ֔]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5794\|עַזָּ֤ה]] [[H9004\|כַ]][[H4194\|מָּ֙וֶת֙]] [[H0160\|אַהֲבָ֔ה]] [[H7186\|קָשָׁ֥ה]] [[H9004\|כִ]][[H7585\|שְׁא֖וֹל]] [[H7068\|קִנְאָ֑ה]] [[H7565\|רְשָׁפֶ֕י]][[H9024\|הָ]] [[H7565\|רִשְׁפֵּ֕י]] [[H0784\|אֵ֖שׁ]] [[H7957\|שַׁלְהֶ֥בֶתְ]][[H3050\|יָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENVY|ENVY]] • [[topic HELL|HELL]] • [[topic JEALOUSY|JEALOUSY]] • [[topic LOVE|LOVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.5|<< Song of Solomon 8:5]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.7|Song of Solomon 8:7 >>]]</td></tr></table>
 

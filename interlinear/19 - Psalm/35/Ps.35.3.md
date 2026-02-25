@@ -1,8 +1,61 @@
+---
+title: Psalm 35:3
+type: Verse
+kjv: "Draw out also the spear, and stop the way against them that persecute me: say unto my soul, I am thy salvation."
+bsb: "Draw the spear and javelin against my pursuers; say to my soul: “I am your salvation.”"
+hebrew: "וְהָ֘רֵ֤ק חֲנִ֣ית וּ֭סְגֹר לִקְרַ֣את רֹדְפָ֑י אֱמֹ֥ר לְ֝נַפְשִׁ֗י יְֽשֻׁעָתֵ֥ךְ אָֽנִי׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H7324]]"
+- "[[H2595]]"
+- "[[H5462]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H7291]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H3444]]"
+- "[[H9022]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:3**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Draw out also the spear, and stop [the way] against them that persecute me: say unto my soul, I [am] thy salvation.
 <small><sub>**BSB:**</sub></small>
 Draw the spear and javelin against my pursuers; say to my soul: “I am your salvation.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7324\|הָ֘רֵ֤ק]] [[H2595\|חֲנִ֣ית]] [[H9002\|וּ֭]][[H5462\|סְגֹר]] [[H9005\|לִ]][[H7122H\|קְרַ֣את]] [[H7291\|רֹדְפָ֑]][[H9030\|י]] [[H0559\|אֱמֹ֥ר]] [[H9005\|לְ֝]][[H5315G\|נַפְשִׁ֗]][[H9020\|י]] [[H3444\|יְֽשֻׁעָתֵ֥]][[H9022\|ךְ]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic ENEMY|ENEMY]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.2|<< Psalms 35:2]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.4|Psalms 35:4 >>]]</td></tr></table>
 

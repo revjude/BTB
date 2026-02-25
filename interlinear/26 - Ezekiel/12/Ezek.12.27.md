@@ -1,8 +1,63 @@
+---
+title: Ezekiel 12:27
+type: Verse
+kjv: "Son of man, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of the times that are far off."
+bsb: "“Son of man, take note that the house of Israel is saying, ‘The vision that he sees is for many years from now; he prophesies about the distant future.’"
+hebrew: "בֶּן־ אָדָ֗ם הִנֵּ֤ה בֵֽית־ יִשְׂרָאֵל֙ אֹֽמְרִ֔ים הֶחָז֛וֹן אֲשֶׁר־ ה֥וּא חֹזֶ֖ה לְיָמִ֣ים רַבִּ֑ים וּלְעִתִּ֥ים רְחוֹק֖וֹת ה֥וּא נִבָּֽא׃"
+pericope: "[[Ezek.12.21 The Presumptuous Proverb|The Presumptuous Proverb]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H2009]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H2377]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H2372]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H6256]]"
+- "[[H7350]]"
+- "[[H5012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:27**<big><big>[[Ezek.12.21 The Presumptuous Proverb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, behold, [they of] the house of Israel say, The vision that he seeth [is] for many days [to come], and he prophesieth of the times [that are] far off.
 <small><sub>**BSB:**</sub></small>
 “Son of man, take note that the house of Israel is saying, ‘The vision that he sees is for many years from now; he prophesies about the distant future.’
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H2009\|הִנֵּ֤ה]] [[H1004M\|בֵֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H0559\|אֹֽמְרִ֔ים]] [[H9009\|הֶ]][[H2377\|חָז֛וֹן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֥וּא]] [[H2372\|חֹזֶ֖ה]] [[H9005\|לְ]][[H3117G\|יָמִ֣ים]] [[H7227A\|רַבִּ֑ים]] [[H9002\|וּ]][[H9005\|לְ]][[H6256\|עִתִּ֥ים]] [[H7350\|רְחוֹק֖וֹת]] [[H1931\|ה֥וּא]] [[H5012\|נִבָּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROCRASTINATION|PROCRASTINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.26|<< Ezekiel 12:26]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.28|Ezekiel 12:28 >>]]</td></tr></table>
 

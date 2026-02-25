@@ -1,8 +1,52 @@
+---
+title: Proverbs 29:23
+type: Verse
+kjv: "A man’s pride shall bring him low: but honour shall uphold the humble in spirit."
+bsb: "A man’s pride will bring him low, but a humble spirit will obtain honor."
+hebrew: "גַּאֲוַ֣ת אָ֭דָם תַּשְׁפִּילֶ֑נּוּ וּשְׁפַל־ ר֝֗וּחַ יִתְמֹ֥ךְ כָּבֽוֹד׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H1346]]"
+- "[[H0120G]]"
+- "[[H8213]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H8217]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H8551]]"
+- "[[H3519]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:23**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man’s pride shall bring him low: but honour shall uphold the humble in spirit.
 <small><sub>**BSB:**</sub></small>
 A man’s pride will bring him low, but a humble spirit will obtain honor.
+<small><sub>**Hebrew:**</sub></small>
+[[H1346\|גַּאֲוַ֣ת]] [[H0120G\|אָ֭דָם]] [[H8213\|תַּשְׁפִּילֶ֑]][[H9033\|נּוּ]] [[H9002\|וּ]][[H8217\|שְׁפַל]][[H9014\|־]] [[H7307G\|ר֝֗וּחַ]] [[H8551\|יִתְמֹ֥ךְ]] [[H3519\|כָּבֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.22|<< Proverbs 29:22]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.24|Proverbs 29:24 >>]]</td></tr></table>
 

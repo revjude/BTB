@@ -1,8 +1,65 @@
+---
+title: Zechariah 11:7
+type: Verse
+kjv: "And I will feed the flock of slaughter, even you, O poor of the flock. And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock."
+bsb: "So I pastured the flock marked for slaughter, especially the afflicted of the flock. Then I took for myself two staffs, calling one Favor and the other Union, and I pastured the flock."
+hebrew: "וָֽאֶרְעֶה֙ אֶת־ צֹ֣אן הַֽהֲרֵגָ֔ה לָכֵ֖ן עֲנִיֵּ֣י הַצֹּ֑אן וָאֶקַּֽח־ לִ֞י שְׁנֵ֣י מַקְל֗וֹת לְאַחַ֞ד קָרָ֤אתִי נֹ֙עַם֙ וּלְאַחַד֙ קָרָ֣אתִי חֹֽבְלִ֔ים וָאֶרְעֶ֖ה אֶת־ הַצֹּֽאן׃"
+pericope: "[[Zech.11.1 The Doomed Flock|The Doomed Flock]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 11
+book/chapter: "[[Zech.11|Zechariah 11]]"
+chronological_order: 867
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BEAUTY AND BANDS|BEAUTY AND BANDS]]"
+- "[[topic POOR|POOR]]"
+- "[[topic STAVES (LONG POLES)|STAVES (LONG POLES)]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7462B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H9009]]"
+- "[[H2028H]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H6041]]"
+- "[[H3947G]]"
+- "[[H9030]]"
+- "[[H8147]]"
+- "[[H4731]]"
+- "[[H0259]]"
+- "[[H7121H]]"
+- "[[H5278]]"
+- "[[H9002]]"
+- "[[H2256C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 11:7**<big><big>[[Zech.11.1 The Doomed Flock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will feed the flock of slaughter, [even] you, O poor of the flock. And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.
 <small><sub>**BSB:**</sub></small>
 So I pastured the flock marked for slaughter, especially the afflicted of the flock. Then I took for myself two staffs, calling one Favor and the other Union, and I pastured the flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H7462B\|אֶרְעֶה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹ֣אן]] [[H9009\|הַֽ]][[H2028H\|הֲרֵגָ֔ה]] [[H9005\|לָ]][[H3651C\|כֵ֖ן]] [[H6041\|עֲנִיֵּ֣י]] [[H9009\|הַ]][[H6629G\|צֹּ֑אן]] [[H9001\|וָ]][[H3947G\|אֶקַּֽח]][[H9014\|־]] [[H9005\|לִ֞]][[H9030\|י]] [[H8147\|שְׁנֵ֣י]] [[H4731\|מַקְל֗וֹת]] [[H9005\|לְ]][[H0259\|אַחַ֞ד]] [[H7121H\|קָרָ֤אתִי]] [[H5278\|נֹ֙עַם֙]] [[H9002\|וּ]][[H9005\|לְ]][[H0259\|אַחַד֙]] [[H7121H\|קָרָ֣אתִי]] [[H2256C\|חֹֽבְלִ֔ים]] [[H9001\|וָ]][[H7462B\|אֶרְעֶ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּֽאן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAUTY AND BANDS|BEAUTY AND BANDS]] • [[topic POOR|POOR]] • [[topic STAVES (LONG POLES)|STAVES (LONG POLES)]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.6|<< Zechariah 11:6]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.8|Zechariah 11:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

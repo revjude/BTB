@@ -9,7 +9,7 @@
 
 → Of the disciples, when the ointment was poured upon Jesus [[Matt.26.8|Mt 26:8]],[[Matt.26.9|9]]; [[John.12.4|Joh 12:4]],[[John.12.5|5]]
 
-→ Punishment of [[Hag.1.9|Hag 1:9]]-[[Hag.1.11|11]]
+→ Punishment of [[Hag.1.9|Hag 1:9-11]]
 
 → See [[topic LIBERALITY|LIBERALITY]]
 

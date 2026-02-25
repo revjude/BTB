@@ -1,8 +1,67 @@
+---
+title: Numbers 22:26
+type: Verse
+kjv: "And the angel of the LORD went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left."
+bsb: "And the angel of the LORD moved on ahead and stood in a narrow place where there was no room to turn to the right or left."
+hebrew: "וַיּ֥וֹסֶף מַלְאַךְ־ יְהוָ֖ה עֲב֑וֹר וַֽיַּעֲמֹד֙ בְּמָק֣וֹם צָ֔ר אֲשֶׁ֛ר אֵֽין־ דֶּ֥רֶךְ לִנְט֖וֹת יָמִ֥ין וּשְׂמֹֽאול׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H4397H]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5674A]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H6862A]]"
+- "[[H0834A]]"
+- "[[H0369]]"
+- "[[H1870L]]"
+- "[[H9005]]"
+- "[[H5186]]"
+- "[[H3225G]]"
+- "[[H9002]]"
+- "[[H8040G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:26**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD went further, and stood in a narrow place, where [was] no way to turn either to the right hand or to the left.
 <small><sub>**BSB:**</sub></small>
 And the angel of the LORD moved on ahead and stood in a narrow place where there was no room to turn to the right or left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254H\|יּ֥וֹסֶף]] [[H4397H\|מַלְאַךְ]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H5674A\|עֲב֑וֹר]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹד֙]] [[H9003\|בְּ]][[H4725\|מָק֣וֹם]] [[H6862A\|צָ֔ר]] [[H0834A\|אֲשֶׁ֛ר]] [[H0369\|אֵֽין]][[H9014\|־]] [[H1870L\|דֶּ֥רֶךְ]] [[H9005\|לִ]][[H5186\|נְט֖וֹת]] [[H3225G\|יָמִ֥ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹֽאול]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BALAAM|BALAAM]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.25|<< Numbers 22:25]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.27|Numbers 22:27 >>]]</td></tr></table>
 

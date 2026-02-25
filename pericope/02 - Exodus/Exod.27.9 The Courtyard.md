@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Courtyard
+type: Pericope
 pericope: "[[Exod.27.9 The Courtyard|The Courtyard]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 27
 book/chapter: "[[Exod.27|Exodus 27]]"
-genre:
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 11
 verses:
 - "[[Exod.27.9]]"
 - "[[Exod.27.10]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Exod.27.19]]"
 ---
 
-[[Exod.27|Exodus 27:9 - Exodus 27:19]]
+<small>[[Exod.27|Exodus 27:9-19]]</small>
 *The Courtyard*
 
 [[Exod.27.9|9]] And thou shalt make the court of the tabernacle: for the south side southward \[there shall be\] hangings for the court \[of\] fine twined linen of an hundred cubits long for one side:

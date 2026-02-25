@@ -1,8 +1,48 @@
+---
+title: Proverbs 21:12
+type: Verse
+kjv: "The righteous man wisely considereth the house of the wicked: but God overthroweth the wicked for their wickedness."
+bsb: "The Righteous One considers the house of the wicked and brings the wicked to ruin."
+hebrew: "מַשְׂכִּ֣יל צַ֭דִּיק לְבֵ֣ית רָשָׁ֑ע מְסַלֵּ֖ף רְשָׁעִ֣ים לָרָֽע׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7919A]]"
+- "[[H6662]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H7563]]"
+- "[[H5557]]"
+- "[[H7451B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:12**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The righteous [man] wisely considereth the house of the wicked: [but God] overthroweth the wicked for [their] wickedness.
 <small><sub>**BSB:**</sub></small>
 The Righteous One considers the house of the wicked and brings the wicked to ruin.
+<small><sub>**Hebrew:**</sub></small>
+[[H7919A\|מַשְׂכִּ֣יל]] [[H6662\|צַ֭דִּיק]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H7563\|רָשָׁ֑ע]] [[H5557\|מְסַלֵּ֖ף]] [[H7563\|רְשָׁעִ֣ים]] [[H9005\|לָ]][[H7451B\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.11|<< Proverbs 21:11]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.13|Proverbs 21:13 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Mark 14:24
+type: Verse
+kjv: "And he said unto them, This is my blood of the new testament, which is shed for many."
+bsb: "He said to them, “This is My blood of the covenant, which is poured out for many."
+jesus_said: "This is my blood of the new testament, which is shed for many."
+greek: "καὶ εἶπεν αὐτοῖς· τοῦτό ἐστιν τὸ αἷμά μου τὸ τῆς καινῆς διαθήκης τὸ ἐκχυννόμενον ὑπὲρ πολλῶν."
+pericope: "[[Mark.14.17 The Last Supper|The Last Supper]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TESTAMENT|TESTAMENT]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0129G]]"
+- "[[G3165]]"
+- "[[G2537]]"
+- "[[G1242]]"
+- "[[G1632]]"
+- "[[G5228]]"
+- "[[G4183]]"
+texts:
+- NKO
+- ko
+- K
+- N(k)O
+---
+
 **Mark 14:24**<big><big>[[Mark.14.17 The Last Supper|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, This is my blood of the new testament, which is shed for many.
 <small><sub>**BSB:**</sub></small>
 He said to them, “This is My blood of the covenant, which is poured out for many.
-<small><sub>**Literal:**</sub></small>
-And He said to them; This is the blood of Me which [is] <the> of a new covenant which is being poured out for many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.23|<< Mark 14:23]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.25|Mark 14:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3778\|τοῦτό]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G0129G\|αἷμά]]  [[G3165\|μου]]  [[G3588\|τὸ]]  [[G3588\|τῆς]]  [[G2537\|καινῆς]]  [[G1242\|διαθήκης]]  [[G3588\|τὸ]]  [[G1632\|ἐκχυννόμενον]]  [[G5228\|ὑπὲρ]]  [[G4183\|πολλῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TESTAMENT|TESTAMENT]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.23|<< Mark 14:23]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.25|Mark 14:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

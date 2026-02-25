@@ -1,8 +1,68 @@
+---
+title: Micah 1:1
+type: Verse
+kjv: "The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem."
+bsb: "This is the word of the LORD that came to Micah the Moreshite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah—what he saw regarding Samaria and Jerusalem:"
+hebrew: "דְּבַר־ יְהוָ֣ה׀ אֲשֶׁ֣ר הָיָ֗ה אֶל־ מִיכָה֙ הַמֹּ֣רַשְׁתִּ֔י בִּימֵ֥י יוֹתָ֛ם אָחָ֥ז יְחִזְקִיָּ֖ה מַלְכֵ֣י יְהוּדָ֑ה אֲשֶׁר־ חָזָ֥ה עַל־ שֹׁמְר֖וֹן וִירֽוּשָׁלִָֽם׃"
+pericope: "[[Mic.1.1 Judgment to Come|Judgment to Come]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H4318K]]"
+- "[[H9009]]"
+- "[[H4183]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3147H]]"
+- "[[H0271G]]"
+- "[[H3169H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H2372]]"
+- "[[H5921A]]"
+- "[[H8111]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 1:1**<big><big>[[Mic.1.1 Judgment to Come|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, [and] Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.
 <small><sub>**BSB:**</sub></small>
 This is the word of the LORD that came to Micah the Moreshite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah—what he saw regarding Samaria and Jerusalem:
+<small><sub>**Hebrew:**</sub></small>
+[[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָיָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4318K\|מִיכָה֙]] [[H9009\|הַ]][[H4183\|מֹּ֣רַשְׁתִּ֔י]] [[H9003\|בִּ]][[H3117G\|ימֵ֥י]] [[H3147H\|יוֹתָ֛ם]] [[H0271G\|אָחָ֥ז]] [[H3169H\|יְחִזְקִיָּ֖ה]] [[H4428G\|מַלְכֵ֣י]] [[H3063G\|יְהוּדָ֑ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2372\|חָזָ֥ה]] [[H5921A\|עַל]][[H9014\|־]] [[H8111\|שֹׁמְר֖וֹן]] [[H9002\|וִ]][[H3389\|ירֽוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MICAH|MICAH]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.11|<< Jonah 4:11]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.2|Micah 1:2 >>]]</td></tr></table>
 

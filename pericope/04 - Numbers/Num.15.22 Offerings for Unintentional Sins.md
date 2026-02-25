@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Offerings for Unintentional Sins
+type: Pericope
 pericope: "[[Num.15.22 Offerings for Unintentional Sins|Offerings for Unintentional Sins]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 15
 book/chapter: "[[Num.15|Numbers 15]]"
-genre:
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 10
 verses:
 - "[[Num.15.22]]"
 - "[[Num.15.23]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Num.15.31]]"
 ---
 
-[[Num.15|Numbers 15:22 - Numbers 15:31]]
+<small>[[Num.15|Numbers 15:22-31]]</small>
 *Offerings for Unintentional Sins*
 
 [[Num.15.22|22]] And if ye have erred, and not observed all these commandments, which the LORD hath spoken unto Moses,

@@ -1,8 +1,62 @@
+---
+title: Exodus 26:8
+type: Verse
+kjv: "The length of one curtain shall be thirty cubits, and the breadth of one curtain four cubits: and the eleven curtains shall be all of one measure."
+bsb: "Each of the eleven curtains is to be the same size—thirty cubits long and four cubits wide."
+hebrew: "אֹ֣רֶךְ׀ הַיְרִיעָ֣ה הָֽאַחַ֗ת שְׁלֹשִׁים֙ בָּֽאַמָּ֔ה וְרֹ֙חַב֙ אַרְבַּ֣ע בָּאַמָּ֔ה הַיְרִיעָ֖ה הָאֶחָ֑ת מִדָּ֣ה אַחַ֔ת לְעַשְׁתֵּ֥י עֶשְׂרֵ֖ה יְרִיעֹֽת׃"
+pericope: "[[Exod.26.7 The Eleven Curtains of Goat Hair|The Eleven Curtains of Goat Hair]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H0753]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H3407]]"
+- "[[H0259]]"
+- "[[H7970]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H0702]]"
+- "[[H4060A]]"
+- "[[H9005]]"
+- "[[H6249]]"
+- "[[H6240]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:8**<big><big>[[Exod.26.7 The Eleven Curtains of Goat Hair|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The length of one curtain [shall be] thirty cubits, and the breadth of one curtain four cubits: and the eleven curtains [shall be all] of one measure.
 <small><sub>**BSB:**</sub></small>
 Each of the eleven curtains is to be the same size—thirty cubits long and four cubits wide.
+<small><sub>**Hebrew:**</sub></small>
+[[H0753\|אֹ֣רֶךְ]][[H9015\|׀]] [[H9009\|הַ]][[H3407\|יְרִיעָ֣ה]] [[H9009\|הָֽ]][[H0259\|אַחַ֗ת]] [[H7970\|שְׁלֹשִׁים֙]] [[H9003\|בָּֽ]][[H0520A\|אַמָּ֔ה]] [[H9002\|וְ]][[H7341\|רֹ֙חַב֙]] [[H0702\|אַרְבַּ֣ע]] [[H9003\|בָּ]][[H0520A\|אַמָּ֔ה]] [[H9009\|הַ]][[H3407\|יְרִיעָ֖ה]] [[H9009\|הָ]][[H0259\|אֶחָ֑ת]] [[H4060A\|מִדָּ֣ה]] [[H0259\|אַחַ֔ת]] [[H9005\|לְ]][[H6249\|עַשְׁתֵּ֥י]] [[H6240\|עֶשְׂרֵ֖ה]] [[H3407\|יְרִיעֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.7|<< Exodus 26:7]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.9|Exodus 26:9 >>]]</td></tr></table>
 

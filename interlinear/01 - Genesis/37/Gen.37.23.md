@@ -1,8 +1,64 @@
+---
+title: Genesis 37:23
+type: Verse
+kjv: "And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, his coat of many colours that was on him;"
+bsb: "So when Joseph came to his brothers, they stripped him of his robe—the robe of many colors he was wearing—"
+hebrew: "וַֽיְהִ֕י כַּֽאֲשֶׁר־ בָּ֥א יוֹסֵ֖ף אֶל־ אֶחָ֑יו וַיַּפְשִׁ֤יטוּ אֶת־ יוֹסֵף֙ אֶת־ כֻּתָּנְתּ֔וֹ אֶת־ כְּתֹ֥נֶת הַפַּסִּ֖ים אֲשֶׁ֥ר עָלָֽיו׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic REUBEN|REUBEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H3130G]]"
+- "[[H0413]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H6584]]"
+- "[[H0853]]"
+- "[[H3801]]"
+- "[[H9009]]"
+- "[[H6446]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:23**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, [his] coat of [many] colours that [was] on him;
 <small><sub>**BSB:**</sub></small>
 So when Joseph came to his brothers, they stripped him of his robe—the robe of many colors he was wearing—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִ֕י]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥א]] [[H3130G\|יוֹסֵ֖ף]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אֶחָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H6584\|יַּפְשִׁ֤יטוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵף֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3801\|כֻּתָּנְתּ֔]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H3801\|כְּתֹ֥נֶת]] [[H9009\|הַ]][[H6446\|פַּסִּ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic REUBEN|REUBEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.22|<< Genesis 37:22]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.24|Genesis 37:24 >>]]</td></tr></table>
 

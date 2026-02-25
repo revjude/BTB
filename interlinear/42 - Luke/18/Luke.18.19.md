@@ -1,10 +1,61 @@
+---
+title: Luke 18:19
+type: Verse
+kjv: "And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God."
+bsb: "“Why do you call Me good?” Jesus replied. “No one is good except God alone."
+jesus_said: "Why callest thou me good? none is good, save one, that is, God."
+greek: "εἶπεν δὲ αὐτῷ ὁ Ἰησοῦς· τί με λέγεις ἀγαθόν; οὐδεὶς ἀγαθὸς εἰ μὴ εἷς ὁ θεός."
+pericope: "[[Luke.18.18 The Rich Young Ruler|The Rich Young Ruler]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G3004H]]"
+- "[[G0018]]"
+- "[[G3762]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1520]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Luke 18:19**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Why callest thou me good? none [is] good, save one, [that is], God.
 <small><sub>**BSB:**</sub></small>
 “Why do you call Me good?” Jesus replied. “No one is good except God alone.
-<small><sub>**Literal:**</sub></small>
-Said then to him <the> Jesus; Why Me you call good? No [one is] good only except one <the> God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.18|<< Luke 18:18]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.20|Luke 18:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G5101\|τί]]  [[G3165\|με]]  [[G3004H\|λέγεις]]  [[G0018\|ἀγαθόν;]]  [[G3762\|οὐδεὶς]]  [[G0018\|ἀγαθὸς]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1520\|εἷς]]  [[G3588\|ὁ]]  [[G2316\|θεός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.18|<< Luke 18:18]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.20|Luke 18:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

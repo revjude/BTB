@@ -1,8 +1,68 @@
+---
+title: Joshua 14:4
+type: Verse
+kjv: "For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell in, with their suburbs for their cattle and for their substance."
+bsb: "The descendants of Joseph became two tribes, Manasseh and Ephraim. And no portion of the land was given to the Levites, except for cities in which to live, along with pasturelands for their flocks and herds."
+hebrew: "כִּֽי־ הָי֧וּ בְנֵֽי־ יוֹסֵ֛ף שְׁנֵ֥י מַטּ֖וֹת מְנַשֶּׁ֣ה וְאֶפְרָ֑יִם וְלֹֽא־ נָתְנוּ֩ חֵ֨לֶק לַלְוִיִּ֜ם בָּאָ֗רֶץ כִּ֤י אִם־ עָרִים֙ לָשֶׁ֔בֶת וּמִ֨גְרְשֵׁיהֶ֔ם לְמִקְנֵיהֶ֖ם וּלְקִנְיָנָֽם׃"
+pericope: "[[Josh.14.1 Land Division West of the Jordan|Land Division West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CITIES|CITIES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SUBURBS|SUBURBS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H3130G]]"
+- "[[H8147]]"
+- "[[H4294H]]"
+- "[[H4519G]]"
+- "[[H9002]]"
+- "[[H0669G]]"
+- "[[H3808]]"
+- "[[H5414G]]"
+- "[[H2506A]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H5892B]]"
+- "[[H3427]]"
+- "[[H4054]]"
+- "[[H9028]]"
+- "[[H4735]]"
+- "[[H7075]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 14:4**<big><big>[[Josh.14.1 Land Division West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell [in], with their suburbs for their cattle and for their substance.
 <small><sub>**BSB:**</sub></small>
 The descendants of Joseph became two tribes, Manasseh and Ephraim. And no portion of the land was given to the Levites, except for cities in which to live, along with pasturelands for their flocks and herds.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָי֧וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3130G\|יוֹסֵ֛ף]] [[H8147\|שְׁנֵ֥י]] [[H4294H\|מַטּ֖וֹת]] [[H4519G\|מְנַשֶּׁ֣ה]] [[H9002\|וְ]][[H0669G\|אֶפְרָ֑יִם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|נָתְנוּ֩]] [[H2506A\|חֵ֨לֶק]] [[H9005\|לַ]][[H3881\|לְוִיִּ֜ם]] [[H9003\|בָּ]][[H0776G\|אָ֗רֶץ]] [[H3588B\|כִּ֤י]] [[H0518B\|אִם]][[H9014\|־]] [[H5892B\|עָרִים֙]] [[H9005\|לָ]][[H3427\|שֶׁ֔בֶת]] [[H9002\|וּ]][[H4054\|מִ֨גְרְשֵׁי]][[H9028\|הֶ֔ם]] [[H9005\|לְ]][[H4735\|מִקְנֵי]][[H9028\|הֶ֖ם]] [[H9002\|וּ]][[H9005\|לְ]][[H7075\|קִנְיָנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIES|CITIES]] • [[topic ISRAEL|ISRAEL]] • [[topic SUBURBS|SUBURBS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.3|<< Joshua 14:3]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.5|Joshua 14:5 >>]]</td></tr></table>
 

@@ -1,8 +1,82 @@
+---
+title: Genesis 20:6
+type: Verse
+kjv: "And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her."
+bsb: "Then God said to Abimelech in the dream, “Yes, I know that you did this with a clear conscience, and so I have kept you from sinning against Me. That is why I did not let you touch her."
+hebrew: "וַיֹּאמֶר֩ אֵלָ֨יו הָֽאֱלֹהִ֜ים בַּחֲלֹ֗ם גַּ֣ם אָנֹכִ֤י יָדַ֙עְתִּי֙ כִּ֤י בְתָם־ לְבָבְךָ֙ עָשִׂ֣יתָ זֹּ֔את וָאֶחְשֹׂ֧ךְ גַּם־ אָנֹכִ֛י אֽוֹתְךָ֖ מֵחֲטוֹ־ לִ֑י עַל־ כֵּ֥ן לֹא־ נְתַתִּ֖יךָ לִנְגֹּ֥עַ אֵלֶֽיהָ׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H2472]]"
+- "[[H1571]]"
+- "[[H0595]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H8537]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H2820]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H5414K]]"
+- "[[H5060]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:6**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.
 <small><sub>**BSB:**</sub></small>
 Then God said to Abimelech in the dream, “Yes, I know that you did this with a clear conscience, and so I have kept you from sinning against Me. That is why I did not let you touch her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H0413\|אֵלָ֨י]][[H9033\|ו]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֜ים]] [[H9003\|בַּ]][[H2472\|חֲלֹ֗ם]] [[H1571\|גַּ֣ם]] [[H0595\|אָנֹכִ֤י]] [[H3045\|יָדַ֙עְתִּי֙]] [[H3588A\|כִּ֤י]] [[H9003\|בְ]][[H8537\|תָם]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֙]] [[H6213A\|עָשִׂ֣יתָ]] [[H2063\|זֹּ֔את]] [[H9001\|וָ]][[H2820\|אֶחְשֹׂ֧ךְ]] [[H1571\|גַּם]][[H9014\|־]] [[H0595\|אָנֹכִ֛י]] [[H0853\|אֽוֹתְ]][[H9031\|ךָ֖]] [[H9006\|מֵ]][[H2398\|חֲטוֹ]][[H9014\|־]] [[H9005\|לִ֑]][[H9030\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H3808\|לֹא]][[H9014\|־]] [[H5414K\|נְתַתִּ֖י]][[H9031\|ךָ]] [[H9005\|לִ]][[H5060\|נְגֹּ֥עַ]] [[H0413\|אֵלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic COWARDICE|COWARDICE]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic IGNORANCE|IGNORANCE]] • [[topic SARAH|SARAH]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.5|<< Genesis 20:5]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.7|Genesis 20:7 >>]]</td></tr></table>
 

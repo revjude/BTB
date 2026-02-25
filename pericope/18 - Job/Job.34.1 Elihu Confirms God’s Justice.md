@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elihu Confirms God’s Justice
+type: Pericope
 pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
-verse_count: 37
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 34
 book/chapter: "[[Job.34|Job 34]]"
-genre:
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 37
 verses:
 - "[[Job.34.1]]"
 - "[[Job.34.2]]"
@@ -56,7 +63,7 @@ verses:
 - "[[Job.34.37]]"
 ---
 
-[[Job.34|Job 34:1 - Job 34:37]]
+<small>[[Job.34|Job 34:1-37]]</small>
 *Elihu Confirms God’s Justice*
 
 [[Job.34.1|1]] Furthermore Elihu answered and said,

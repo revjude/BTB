@@ -1,6 +1,53 @@
+---
+title: LXX Ecclesiastes 4:13
+type: Verse
+lxx: "Better a needy and wise child, than an older and foolish king who does not know  to take heed any longer."
+greek: "αγαθός παις πένης και σοφός υπέρ βασιλέα πρεσβύτερον και άφρονα ος ουκ έγνω του προσέχειν έτι"
+original_language: Greek
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G0018]]"
+- "[[G3816]]"
+- "[[G3993]]"
+- "[[G2532]]"
+- "[[G4680]]"
+- "[[G5228]]"
+- "[[G0935]]"
+- "[[G4245]]"
+- "[[G2532]]"
+- "[[G0878]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G3588]]"
+- "[[G4337]]"
+- "[[G2089]]"
+---
+
 **LXX Ecclesiastes 4:13** 
 <small><sub>**LXX:**</sub></small>
 Better a needy and wise child, than an older and foolish king who does not know  to take heed any longer. 
+<small><sub>**Greek:**</sub></small>
+[[G0018\|αγαθός]] [[G3816\|παις]] [[G3993\|πένης]] [[G2532\|και]] [[G4680\|σοφός]] [[G5228\|υπέρ]] [[G0935\|βασιλέα]] [[G4245\|πρεσβύτερον]] [[G2532\|και]] [[G0878\|άφρονα]] [[G3739\|ος]] [[G3756\|ουκ]] [[G1097\|έγνω]] [[G3588\|του]] [[G4337\|προσέχειν]] [[G2089\|έτι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Eccl.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.12|<< Ecclesiastes 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.14|Ecclesiastes 4:14 >>]]</td></tr></table>
 
@@ -22,6 +69,6 @@ Better a needy and wise child, than an older and foolish king who does not know 
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | to take heed | **<big>[[G4337\|προσέχειν]]</big>** |
 | any longer. | **<big>[[G2089\|έτι]]</big>** |
-[[Eccl.4.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.12|<< Ecclesiastes 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.14|Ecclesiastes 4:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Eccl.4.12|<< Ecclesiastes 4:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Eccl.4.14|Ecclesiastes 4:14 >>]]</td></tr></table>
 
 

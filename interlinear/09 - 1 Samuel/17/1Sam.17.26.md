@@ -1,8 +1,77 @@
+---
+title: 1 Samuel 17:26
+type: Verse
+kjv: "And David spake to the men that stood by him, saying, What shall be done to the man that killeth this Philistine, and taketh away the reproach from Israel? for who is this uncircumcised Philistine, that he should defy the armies of the living God?"
+bsb: "David asked the men who were standing with him, “What will be done for the man who kills this Philistine and removes this disgrace from Israel? Just who is this uncircumcised Philistine, that he should defy the armies of the living God?”"
+hebrew: "וַיֹּ֣אמֶר דָּוִ֗ד אֶֽל־ הָאֲנָשִׁ֞ים הָעֹמְדִ֣ים עִמּוֹ֮ לֵאמֹר֒ מַה־ יֵּעָשֶׂ֗ה לָאִישׁ֙ אֲשֶׁ֤ר יַכֶּה֙ אֶת־ הַפְּלִשְׁתִּ֣י הַלָּ֔ז וְהֵסִ֥יר חֶרְפָּ֖ה מֵעַ֣ל יִשְׂרָאֵ֑ל כִּ֣י מִ֗י הַפְּלִשְׁתִּ֤י הֶֽעָרֵל֙ הַזֶּ֔ה כִּ֣י חֵרֵ֔ף מַעַרְכ֖וֹת אֱלֹהִ֥ים חַיִּֽים׃"
+pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H5975G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H6430G]]"
+- "[[H1975]]"
+- "[[H5493G]]"
+- "[[H2781]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H6189]]"
+- "[[H2088]]"
+- "[[H2778A]]"
+- "[[H4634]]"
+- "[[H0430G]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:26**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David spake to the men that stood by him, saying, What shall be done to the man that killeth this Philistine, and taketh away the reproach from Israel? for who [is] this uncircumcised Philistine, that he should defy the armies of the living God?
 <small><sub>**BSB:**</sub></small>
 David asked the men who were standing with him, “What will be done for the man who kills this Philistine and removes this disgrace from Israel? Just who is this uncircumcised Philistine, that he should defy the armies of the living God?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֗ד]] [[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֞ים]] [[H9009\|הָ]][[H5975G\|עֹמְדִ֣ים]] [[H5973A\|עִמּ]][[H9033\|וֹ֮]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H4100\|מַה]][[H9014\|־]] [[H6213A\|יֵּעָשֶׂ֗ה]] [[H9005\|לָ]][[H0376G\|אִישׁ֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H5221\|יַכֶּה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֣י]] [[H1975\|הַלָּ֔ז]] [[H9001\|וְ]][[H5493G\|הֵסִ֥יר]] [[H2781\|חֶרְפָּ֖ה]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H3588A\|כִּ֣י]] [[H4310\|מִ֗י]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֤י]] [[H9009\|הֶֽ]][[H6189\|עָרֵל֙]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3588A\|כִּ֣י]] [[H2778A\|חֵרֵ֔ף]] [[H4634\|מַעַרְכ֖וֹת]] [[H0430G\|אֱלֹהִ֥ים]] [[H2416A\|חַיִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DECISION|DECISION]] • [[topic JESSE|JESSE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.25|<< 1 Samuel 17:25]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.27|1 Samuel 17:27 >>]]</td></tr></table>
 

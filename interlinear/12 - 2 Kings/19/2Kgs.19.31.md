@@ -1,8 +1,61 @@
+---
+title: 2 Kings 19:31
+type: Verse
+kjv: "For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD of hosts shall do this."
+bsb: "For a remnant will go forth from Jerusalem, and survivors from Mount Zion. The zeal of the LORD of Hosts will accomplish this."
+hebrew: "כִּ֤י מִירוּשָׁלִַ֙ם֙ תֵּצֵ֣א שְׁאֵרִ֔ית וּפְלֵיטָ֖ה מֵהַ֣ר צִיּ֑וֹן קִנְאַ֛ת יְהוָ֥ה צְבָא֖וֹת תַּֽעֲשֶׂה־ זֹּֽאת׃ ס"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H3318G]]"
+- "[[H7611]]"
+- "[[H9002]]"
+- "[[H6413]]"
+- "[[H2022G]]"
+- "[[H6726]]"
+- "[[H7068]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 19:31**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD [of hosts] shall do this.
 <small><sub>**BSB:**</sub></small>
 For a remnant will go forth from Jerusalem, and survivors from Mount Zion. The zeal of the LORD of Hosts will accomplish this.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H9006\|מִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H3318G\|תֵּצֵ֣א]] [[H7611\|שְׁאֵרִ֔ית]] [[H9002\|וּ]][[H6413\|פְלֵיטָ֖ה]] [[H9006\|מֵ]][[H2022G\|הַ֣ר]] [[H6726\|צִיּ֑וֹן]] [[H7068\|קִנְאַ֛ת]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H6213A\|תַּֽעֲשֶׂה]][[H9014\|־]] [[H2063\|זֹּֽאת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.30|<< 2 Kings 19:30]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.32|2 Kings 19:32 >>]]</td></tr></table>
 
@@ -16,9 +69,9 @@ For a remnant will go forth from Jerusalem, and survivors from Mount Zion. The z
 | from [the] mountain of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2022G\|הַ֣ר]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Har<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Zion  |**<big>&#8207;[[H6726\|צִיּ֑וֹן]]&#8207; </big>**| tzi.Yon<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] zeal of  |**<big>&#8207;[[H7068\|קִנְאַ֛ת]]&#8207; </big>**| kin.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  of hosts  [^3]|**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**[^4] | Yah.weh<small><sup>[[HNpt]]</sup></small>   tze.Va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| Yahweh  of hosts  [^3]|**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207;&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**[^4] | Yah.weh<small><sup>[[HNpt]]</sup></small>   tze.Va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | it will accomplish  |**<big>&#8207;[[H6213A\|תַּֽעֲשֶׂה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ta.'a.seh-<small><sup>[[HVqi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  |**<big>&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H2063\|זֹּֽאת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.30|<< 2 Kings 19:30]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.32|2 Kings 19:32 >>]]</td></tr></table>
 
 [^1]: Yahweh  | **<big>[[H3068G|יְהוָ֥ה]]</big> ** | Yah.weh<small><sup>[[HNpt]]</sup></small> | K

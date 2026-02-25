@@ -1,8 +1,67 @@
+---
+title: Leviticus 23:15
+type: Verse
+kjv: "And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:"
+bsb: "From the day after the Sabbath, the day you brought the sheaf of the wave offering, you are to count off seven full weeks."
+hebrew: "וּסְפַרְתֶּ֤ם לָכֶם֙ מִמָּחֳרַ֣ת הַשַּׁבָּ֔ת מִיּוֹם֙ הֲבִ֣יאֲכֶ֔ם אֶת־ עֹ֖מֶר הַתְּנוּפָ֑ה שֶׁ֥בַע שַׁבָּת֖וֹת תְּמִימֹ֥ת תִּהְיֶֽינָה׃"
+pericope: "[[Lev.23.15 The Feast of Weeks|The Feast of Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic PENTECOST|PENTECOST]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H3117G]]"
+- "[[H0935P]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6016A]]"
+- "[[H8573]]"
+- "[[H7651]]"
+- "[[H8549I]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:15**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall count unto you from the morrow after the sabbath, from the day that ye brought the sheaf of the wave offering; seven sabbaths shall be complete:
 <small><sub>**BSB:**</sub></small>
 From the day after the Sabbath, the day you brought the sheaf of the wave offering, you are to count off seven full weeks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5608A\|סְפַרְתֶּ֤ם]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9006\|מִ]][[H4283\|מָּחֳרַ֣ת]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֔ת]] [[H9006\|מִ]][[H3117G\|יּוֹם֙]] [[H0935P\|הֲבִ֣יאֲ]][[H9046\|כֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6016A\|עֹ֖מֶר]] [[H9009\|הַ]][[H8573\|תְּנוּפָ֑ה]] [[H7651\|שֶׁ֥בַע]] [[H7676\|שַׁבָּת֖וֹת]] [[H8549I\|תְּמִימֹ֥ת]] [[H1961\|תִּהְיֶֽינָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARVEST|HARVEST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic PENTECOST|PENTECOST]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.14|<< Leviticus 23:14]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.16|Leviticus 23:16 >>]]</td></tr></table>
 

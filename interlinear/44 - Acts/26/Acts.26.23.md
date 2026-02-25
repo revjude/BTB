@@ -1,10 +1,62 @@
+---
+title: Acts 26:23
+type: Verse
+kjv: "That Christ should suffer, and that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles."
+bsb: "that the Christ would suffer, and as the first to rise from the dead, would proclaim light to our people and to the Gentiles.”"
+greek: "εἰ παθητὸς ὁ χριστός, εἰ πρῶτος ἐξ ἀναστάσεως νεκρῶν φῶς μέλλει καταγγέλλειν τῷ τε λαῷ καὶ τοῖς ἔθνεσιν.¶"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1487K]]"
+- "[[G3805]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G4413G]]"
+- "[[G1537]]"
+- "[[G0386]]"
+- "[[G3498]]"
+- "[[G5457]]"
+- "[[G3195]]"
+- "[[G2605]]"
+- "[[G5037]]"
+- "[[G2992]]"
+- "[[G2532]]"
+- "[[G1484]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 26:23**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That Christ should suffer, [and] that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.
 <small><sub>**BSB:**</sub></small>
 that the Christ would suffer, and as the first to rise from the dead, would proclaim light to our people and to the Gentiles.”
-<small><sub>**Literal:**</sub></small>
-that would suffer the Christ, as first through resurrection from [the] dead light He is about to preach <the> to both our people and to the Gentiles.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.22|<< Acts 26:22]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.24|Acts 26:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487K\|εἰ]]  [[G3805\|παθητὸς]]  [[G3588\|ὁ]]  [[G5547\|χριστός,]]  [[G1487K\|εἰ]]  [[G4413G\|πρῶτος]]  [[G1537\|ἐξ]]  [[G0386\|ἀναστάσεως]]  [[G3498\|νεκρῶν]]  [[G5457\|φῶς]]  [[G3195\|μέλλει]]  [[G2605\|καταγγέλλειν]]  [[G3588\|τῷ]]  [[G5037\|τε]]  [[G2992\|λαῷ]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic PROPHECY|PROPHECY]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.22|<< Acts 26:22]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.24|Acts 26:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

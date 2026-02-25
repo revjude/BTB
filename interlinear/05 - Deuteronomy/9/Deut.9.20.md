@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 9:20
+type: Verse
+kjv: "And the LORD was very angry with Aaron to have destroyed him: and I prayed for Aaron also the same time."
+bsb: "The LORD was angry enough with Aaron to destroy him, but at that time I also prayed for Aaron."
+hebrew: "וּֽבְאַהֲרֹ֗ן הִתְאַנַּ֧ף יְהוָ֛ה מְאֹ֖ד לְהַשְׁמִיד֑וֹ וָֽאֶתְפַּלֵּ֛ל גַּם־ בְּעַ֥ד אַהֲרֹ֖ן בָּעֵ֥ת הַהִֽוא"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0175]]"
+- "[[H0599]]"
+- "[[H3068G]]"
+- "[[H3966]]"
+- "[[H9005]]"
+- "[[H8045]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H6419]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1157]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+texts:
+- L
+- L(abh)
+---
+
 **Deuteronomy 9:20**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD was very angry with Aaron to have destroyed him: and I prayed for Aaron also the same time.
 <small><sub>**BSB:**</sub></small>
 The LORD was angry enough with Aaron to destroy him, but at that time I also prayed for Aaron.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H9003\|בְ]][[H0175\|אַהֲרֹ֗ן]] [[H0599\|הִתְאַנַּ֧ף]] [[H3068G\|יְהוָ֛ה]] [[H3966\|מְאֹ֖ד]] [[H9005\|לְ]][[H8045\|הַשְׁמִיד֑]][[H9033\|וֹ]] [[H9001\|וָֽ]][[H6419\|אֶתְפַּלֵּ֛ל]] [[H1571\|גַּם]][[H9014\|־]] [[H1157\|בְּעַ֥ד]] [[H0175\|אַהֲרֹ֖ן]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִֽוא]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ANGER|ANGER]] • [[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.19|<< Deuteronomy 9:19]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.21|Deuteronomy 9:21 >>]]</td></tr></table>
 

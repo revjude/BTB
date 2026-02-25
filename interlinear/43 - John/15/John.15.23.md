@@ -1,10 +1,51 @@
+---
+title: John 15:23
+type: Verse
+kjv: "He that hateth me hateth my Father also."
+bsb: "Whoever hates Me hates My Father as well."
+jesus_said: "He that hateth me hateth my Father also."
+greek: "ὁ ἐμὲ μισῶν καὶ τὸν πατέρα μου μισεῖ."
+pericope: "[[John.15.18 The Hatred of the World|The Hatred of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 15
+book/chapter: "[[John.15|John 15]]"
+chronological_order: 1003
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G3404]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **John 15:23**<big><big>[[John.15.18 The Hatred of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that hateth me hateth my Father also.
 <small><sub>**BSB:**</sub></small>
 Whoever hates Me hates My Father as well.
-<small><sub>**Literal:**</sub></small>
-The [one] Me myself hating also the Father of Mine hates.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.22|<< John 15:22]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.24|John 15:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1473\|ἐμὲ]]  [[G3404\|μισῶν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3165\|μου]]  [[G3404\|μισεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HATRED|HATRED]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESPONSIBILITY|RESPONSIBILITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.15.22|<< John 15:22]]</td><td align="center" style="border:none;">[[John.15|John 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.15.24|John 15:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

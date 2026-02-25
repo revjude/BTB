@@ -1,8 +1,56 @@
+---
+title: Ecclesiastes 10:1
+type: Verse
+kjv: "Dead flies cause the ointment of the apothecary to send forth a stinking savour: so doth a little folly him that is in reputation for wisdom and honour."
+bsb: "As dead flies bring a stench to the perfumer’s oil, so a little folly outweighs wisdom and honor."
+hebrew: "זְב֣וּבֵי מָ֔וֶת יַבְאִ֥ישׁ יַבִּ֖יעַ שֶׁ֣מֶן רוֹקֵ֑חַ יָקָ֛ר מֵחָכְמָ֥ה מִכָּב֖וֹד סִכְל֥וּת מְעָֽט׃"
+pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 10
+book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic APOTHECARY|APOTHECARY]]"
+- "[[topic FLIES|FLIES]]"
+- "[[topic OINTMENT|OINTMENT]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H2070]]"
+- "[[H4194]]"
+- "[[H0887]]"
+- "[[H5042]]"
+- "[[H8081]]"
+- "[[H7543]]"
+- "[[H3368]]"
+- "[[H9006]]"
+- "[[H2451]]"
+- "[[H3519]]"
+- "[[H5531B]]"
+- "[[H4592]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 10:1**<big><big>[[Eccl.10.1 Wisdom and Folly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dead flies cause the ointment of the apothecary to send forth a stinking savour: [so doth] a little folly him that is in reputation for wisdom [and] honour.
 <small><sub>**BSB:**</sub></small>
 As dead flies bring a stench to the perfumer’s oil, so a little folly outweighs wisdom and honor.
+<small><sub>**Hebrew:**</sub></small>
+[[H2070\|זְב֣וּבֵי]] [[H4194\|מָ֔וֶת]] [[H0887\|יַבְאִ֥ישׁ]] [[H5042\|יַבִּ֖יעַ]] [[H8081\|שֶׁ֣מֶן]] [[H7543\|רוֹקֵ֑חַ]] [[H3368\|יָקָ֛ר]] [[H9006\|מֵ]][[H2451\|חָכְמָ֥ה]] [[H9006\|מִ]][[H3519\|כָּב֖וֹד]] [[H5531B\|סִכְל֥וּת]] [[H4592\|מְעָֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOTHECARY|APOTHECARY]] • [[topic FLIES|FLIES]] • [[topic OINTMENT|OINTMENT]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.18|<< Ecclesiastes 9:18]]</td><td align="center" style="border:none;">[[Eccl.10|Ecclesiastes 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.10.2|Ecclesiastes 10:2 >>]]</td></tr></table>
 

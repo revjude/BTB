@@ -1,8 +1,70 @@
+---
+title: Leviticus 11:42
+type: Verse
+kjv: "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination."
+bsb: "Do not eat any creature that moves along the ground, whether it crawls on its belly or walks on four or more feet; for such creatures are detestable."
+hebrew: "כֹּל֩ הוֹלֵ֨ךְ עַל־ גָּח֜וֹן וְכֹ֣ל׀ הוֹלֵ֣ךְ עַל־ אַרְבַּ֗ע עַ֚ד כָּל־ מַרְבֵּ֣ה רַגְלַ֔יִם לְכָל־ הַשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־ הָאָ֑רֶץ לֹ֥א תֹאכְל֖וּם כִּי־ שֶׁ֥קֶץ הֵֽם׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H3605]]"
+- "[[H1980I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1512]]"
+- "[[H9002]]"
+- "[[H9015]]"
+- "[[H0702]]"
+- "[[H5704]]"
+- "[[H7235A]]"
+- "[[H7272]]"
+- "[[H9005]]"
+- "[[H9009]]"
+- "[[H8318]]"
+- "[[H8317]]"
+- "[[H0776H]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H8263]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:42**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whatsoever goeth upon the belly, and whatsoever goeth upon [all] four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they [are] an abomination.
 <small><sub>**BSB:**</sub></small>
 Do not eat any creature that moves along the ground, whether it crawls on its belly or walks on four or more feet; for such creatures are detestable.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֹּל֩]] [[H1980I\|הוֹלֵ֨ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H1512\|גָּח֜וֹן]] [[H9002\|וְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H1980I\|הוֹלֵ֣ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבַּ֗ע]] [[H5704\|עַ֚ד]] [[H3605\|כָּל]][[H9014\|־]] [[H7235A\|מַרְבֵּ֣ה]] [[H7272\|רַגְלַ֔יִם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8318\|שֶּׁ֖רֶץ]] [[H9009\|הַ]][[H8317\|שֹּׁרֵ֣ץ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָ֑רֶץ]] [[H3808\|לֹ֥א]] [[H0398\|תֹאכְל֖וּ]][[H9038\|ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H8263\|שֶׁ֥קֶץ]] [[H1992\|הֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREEPING THINGS|CREEPING THINGS]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.41|<< Leviticus 11:41]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.43|Leviticus 11:43 >>]]</td></tr></table>
 

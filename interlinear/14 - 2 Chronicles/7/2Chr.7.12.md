@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 7:12
+type: Verse
+kjv: "And the LORD appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice."
+bsb: "the LORD appeared to him at night and said to him: “I have heard your prayer and have chosen this place for Myself as a house of sacrifice."
+hebrew: "וַיֵּרָ֧א יְהוָ֛ה אֶל־ שְׁלֹמֹ֖ה בַּלָּ֑יְלָה וַיֹּ֣אמֶר ל֗וֹ שָׁמַ֙עְתִּי֙ אֶת־ תְּפִלָּתֶ֔ךָ וּבָחַ֜רְתִּי בַּמָּק֥וֹם הַזֶּ֛ה לִ֖י לְבֵ֥ית זָֽבַח׃"
+pericope: "[[2Chr.7.11 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8010]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H8605]]"
+- "[[H9021]]"
+- "[[H0977]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H9030]]"
+- "[[H1004B]]"
+- "[[H2077]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:12**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice.
 <small><sub>**BSB:**</sub></small>
 the LORD appeared to him at night and said to him: “I have heard your prayer and have chosen this place for Myself as a house of sacrifice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יֵּרָ֧א]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֖ה]] [[H9003\|בַּ]][[H3915\|לָּ֑יְלָה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H8085G\|שָׁמַ֙עְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8605\|תְּפִלָּתֶ֔]][[H9021\|ךָ]] [[H9001\|וּ]][[H0977\|בָחַ֜רְתִּי]] [[H9003\|בַּ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לְ]][[H1004B\|בֵ֥ית]] [[H2077\|זָֽבַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SOLOMON|SOLOMON]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.11|<< 2 Chronicles 7:11]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.13|2 Chronicles 7:13 >>]]</td></tr></table>
 

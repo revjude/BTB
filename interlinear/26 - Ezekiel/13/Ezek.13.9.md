@@ -1,8 +1,74 @@
+---
+title: Ezekiel 13:9
+type: Verse
+kjv: "And mine hand shall be upon the prophets that see vanity, and that divine lies: they shall not be in the assembly of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I am the Lord GOD."
+bsb: "My hand will be against the prophets who see false visions and speak lying divinations. They will not belong to the council of My people or be recorded in the register of the house of Israel, nor will they enter the land of Israel. Then you will know that I am the Lord GOD."
+hebrew: "וְהָיְתָ֣ה יָדִ֗י אֶֽל־ הַנְּבִיאִ֞ים הַחֹזִ֣ים שָׁוְא֮ וְהַקֹּסְמִ֣ים כָּזָב֒ בְּס֧וֹד עַמִּ֣י לֹֽא־ יִהְי֗וּ וּבִכְתָ֤ב בֵּֽית־ יִשְׂרָאֵל֙ לֹ֣א יִכָּתֵ֔בוּ וְאֶל־ אַדְמַ֥ת יִשְׂרָאֵ֖ל לֹ֣א יָבֹ֑אוּ וִידַעְתֶּ֕ם כִּ֥י אֲנִ֖י אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H2372]]"
+- "[[H7723G]]"
+- "[[H9002]]"
+- "[[H7080]]"
+- "[[H3577]]"
+- "[[H9003]]"
+- "[[H5475]]"
+- "[[H5971A]]"
+- "[[H3808]]"
+- "[[H3791]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H3789]]"
+- "[[H0127G]]"
+- "[[H0935G]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:9**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And mine hand shall be upon the prophets that see vanity, and that divine lies: they shall not be in the assembly of my people, neither shall they be written in the writing of the house of Israel, neither shall they enter into the land of Israel; and ye shall know that I [am] the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 My hand will be against the prophets who see false visions and speak lying divinations. They will not belong to the council of My people or be recorded in the register of the house of Israel, nor will they enter the land of Israel. Then you will know that I am the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֣ה]] [[H3027H\|יָדִ֗]][[H9020\|י]] [[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֞ים]] [[H9009\|הַ]][[H2372\|חֹזִ֣ים]] [[H7723G\|שָׁוְא֮]] [[H9002\|וְ]][[H9009\|הַ]][[H7080\|קֹּסְמִ֣ים]] [[H3577\|כָּזָב֒]] [[H9003\|בְּ]][[H5475\|ס֧וֹד]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְי֗וּ]] [[H9002\|וּ]][[H9003\|בִ]][[H3791\|כְתָ֤ב]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H3808\|לֹ֣א]] [[H3789\|יִכָּתֵ֔בוּ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0127G\|אַדְמַ֥ת]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H3808\|לֹ֣א]] [[H0935G\|יָבֹ֑אוּ]] [[H9001\|וִ]][[H3045\|ידַעְתֶּ֕ם]] [[H3588A\|כִּ֥י]] [[H0589\|אֲנִ֖י]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.8|<< Ezekiel 13:8]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.10|Ezekiel 13:10 >>]]</td></tr></table>
 

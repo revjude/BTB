@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Thanksgiving
+type: Pericope
 pericope: "[[1Cor.1.4 Thanksgiving|Thanksgiving]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 1
 book/chapter: "[[1Cor.1|1 Corinthians 1]]"
-genre:
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 6
 verses:
 - "[[1Cor.1.4]]"
 - "[[1Cor.1.5]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Cor.1.9]]"
 ---
 
-[[1Cor.1|1 Corinthians 1:4 - 1 Corinthians 1:9]]
+<small>[[1Cor.1|1 Corinthians 1:4-9]]</small>
 *Thanksgiving*
 
 [[1Cor.1.4|4]] I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;

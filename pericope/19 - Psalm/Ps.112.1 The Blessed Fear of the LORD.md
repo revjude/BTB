@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Blessed Fear of the LORD
+type: Pericope
 pericope: "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 112
 book/chapter: "[[Ps.112|Psalm 112]]"
-genre:
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 10
 verses:
 - "[[Ps.112.1]]"
 - "[[Ps.112.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ps.112.10]]"
 ---
 
-[[Ps.112|Psalm 112:1 - Psalm 112:10]]
+<small>[[Ps.112|Psalm 112:1-10]]</small>
 *The Blessed Fear of the LORD*
 
 [[Ps.112.1|1]] Praise ye the LORD. Blessed \[is\] the man \[that\] feareth the LORD, \[that\] delighteth greatly in his commandments.

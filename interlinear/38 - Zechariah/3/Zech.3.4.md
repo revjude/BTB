@@ -1,8 +1,70 @@
+---
+title: Zechariah 3:4
+type: Verse
+kjv: "And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment."
+bsb: "So the angel said to those standing before him, “Take off his filthy clothes!” Then he said to Joshua, “See, I have removed your iniquity, and I will clothe you with splendid robes.”"
+hebrew: "וַיַּ֣עַן וַיֹּ֗אמֶר אֶל־ הָעֹמְדִ֤ים לְפָנָיו֙ לֵאמֹ֔ר הָסִ֛ירוּ הַבְּגָדִ֥ים הַצֹּאִ֖ים מֵעָלָ֑יו וַיֹּ֣אמֶר אֵלָ֗יו רְאֵ֨ה הֶעֱבַ֤רְתִּי מֵעָלֶ֙יךָ֙ עֲוֹנֶ֔ךָ וְהַלְבֵּ֥שׁ אֹתְךָ֖ מַחֲלָצֽוֹת׃"
+pericope: "[[Zech.3.1 The Vision of Joshua the High Priest|The Vision of Joshua the High Priest]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 3
+book/chapter: "[[Zech.3|Zechariah 3]]"
+chronological_order: 859
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic DRESS|DRESS]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H5493G]]"
+- "[[H0899B]]"
+- "[[H6674]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7200I]]"
+- "[[H5674C]]"
+- "[[H9031]]"
+- "[[H5771G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3847]]"
+- "[[H0853]]"
+- "[[H4254]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 3:4**<big><big>[[Zech.3.1 The Vision of Joshua the High Priest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he answered and spake unto those that stood before him, saying, Take away the filthy garments from him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with change of raiment.
 <small><sub>**BSB:**</sub></small>
 So the angel said to those standing before him, “Take off his filthy clothes!” Then he said to Joshua, “See, I have removed your iniquity, and I will clothe you with splendid robes.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֣עַן]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5975G\|עֹמְדִ֤ים]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5493G\|הָסִ֛ירוּ]] [[H9009\|הַ]][[H0899B\|בְּגָדִ֥ים]] [[H9009\|הַ]][[H6674\|צֹּאִ֖ים]] [[H9006\|מֵ]][[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H7200I\|רְאֵ֨ה]] [[H5674C\|הֶעֱבַ֤רְתִּי]] [[H9006\|מֵ]][[H5921A\|עָלֶ֙י]][[H9031\|ךָ֙]] [[H5771G\|עֲוֹנֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H3847\|הַלְבֵּ֥שׁ]] [[H0853\|אֹתְ]][[H9031\|ךָ֖]] [[H4254\|מַחֲלָצֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRESS|DRESS]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3.3|<< Zechariah 3:3]]</td><td align="center" style="border:none;">[[Zech.3|Zechariah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3.5|Zechariah 3:5 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Amos 2:2
+type: Verse
+kjv: "But I will send a fire upon Moab, and it shall devour the palaces of Kerioth: and Moab shall die with tumult, with shouting, and with the sound of the trumpet:"
+bsb: "So I will send fire against Moab to consume the citadels of Kerioth. Moab will die in tumult, amid war cries and the sound of the ram’s horn."
+hebrew: "וְשִׁלַּחְתִּי־ אֵ֣שׁ בְּמוֹאָ֔ב וְאָכְלָ֖ה אַרְמְנ֣וֹת הַקְּרִיּ֑וֹת וּמֵ֤ת בְּשָׁאוֹן֙ מוֹאָ֔ב בִּתְרוּעָ֖ה בְּק֥וֹל שׁוֹפָֽר׃"
+pericope: "[[Amos.2.1 Judgment on Moab, Judah, and Israel|Judgment on Moab, Judah, and Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 2
+book/chapter: "[[Amos.2|Amos 2]]"
+chronological_order: 599
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic FIRE|FIRE]]"
+- "[[topic KERIOTH|KERIOTH]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H9003]]"
+- "[[H4124G]]"
+- "[[H0398]]"
+- "[[H0759H]]"
+- "[[H9009]]"
+- "[[H7152H]]"
+- "[[H4191]]"
+- "[[H7588]]"
+- "[[H8643]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 2:2**<big><big>[[Amos.2.1 Judgment on Moab, Judah, and Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will send a fire upon Moab, and it shall devour the palaces of Kerioth: and Moab shall die with tumult, with shouting, [and] with the sound of the trumpet:
 <small><sub>**BSB:**</sub></small>
 So I will send fire against Moab to consume the citadels of Kerioth. Moab will die in tumult, amid war cries and the sound of the ram’s horn.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7971G\|שִׁלַּחְתִּי]][[H9014\|־]] [[H0784\|אֵ֣שׁ]] [[H9003\|בְּ]][[H4124G\|מוֹאָ֔ב]] [[H9001\|וְ]][[H0398\|אָכְלָ֖ה]] [[H0759H\|אַרְמְנ֣וֹת]] [[H9009\|הַ]][[H7152H\|קְּרִיּ֑וֹת]] [[H9001\|וּ]][[H4191\|מֵ֤ת]] [[H9003\|בְּ]][[H7588\|שָׁאוֹן֙]] [[H4124G\|מוֹאָ֔ב]] [[H9003\|בִּ]][[H8643\|תְרוּעָ֖ה]] [[H9003\|בְּ]][[H6963H\|ק֥וֹל]] [[H7782\|שׁוֹפָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRE|FIRE]] • [[topic KERIOTH|KERIOTH]] • [[topic PALACE|PALACE]] • [[topic TRUMPET|TRUMPET]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.2.1|<< Amos 2:1]]</td><td align="center" style="border:none;">[[Amos.2|Amos 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.2.3|Amos 2:3 >>]]</td></tr></table>
 

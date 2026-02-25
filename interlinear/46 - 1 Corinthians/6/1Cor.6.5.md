@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 6:5
+type: Verse
+kjv: "I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?"
+bsb: "I say this to your shame. Is there really no one among you wise enough to arbitrate between his brothers?"
+greek: "πρὸς ἐντροπὴν ὑμῖν λέγω. οὕτως οὐκ ἔνι ἐν ὑμῖν οὐδεὶς σοφός, ὃς δυνήσεται διακρῖναι ἀνὰ μέσον τοῦ ἀδελφοῦ αὐτοῦ;"
+pericope: "[[1Cor.6.1 Lawsuits among Believers|Lawsuits among Believers]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 6
+book/chapter: "[[1Cor.6|1 Corinthians 6]]"
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LAWSUITS|LAWSUITS]]"
+- "[[topic LITIGATION|LITIGATION]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G4314]]"
+- "[[G1791]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G3779]]"
+- "[[G3756]]"
+- "[[G1762]]"
+- "[[G1722]]"
+- "[[G3762]]"
+- "[[G4680]]"
+- "[[G3739]]"
+- "[[G1410]]"
+- "[[G1252]]"
+- "[[G0303]]"
+- "[[G3319]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 6:5**<big><big>[[1Cor.6.1 Lawsuits among Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?
 <small><sub>**BSB:**</sub></small>
 I say this to your shame. Is there really no one among you wise enough to arbitrate between his brothers?
-<small><sub>**Literal:**</sub></small>
-For shame to you I say this. Thus not is there among you no [one] wise, who will be able to decide in between the brother of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.4|<< 1 Corinthians 6:4]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.6|1 Corinthians 6:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4314\|πρὸς]]  [[G1791\|ἐντροπὴν]]  [[G4771\|ὑμῖν]]  [[G3004G\|λέγω.]]  [[G3779\|οὕτως]]  [[G3756\|οὐκ]]  [[G1762\|ἔνι]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3762\|οὐδεὶς]]  [[G4680\|σοφός,]]  [[G3739\|ὃς]]  [[G1410\|δυνήσεται]]  [[G1252\|διακρῖναι]]  [[G0303\|ἀνὰ]]  [[G3319\|μέσον]]  [[G3588\|τοῦ]]  [[G0080\|ἀδελφοῦ]]  [[G0846\|αὐτοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic FRATERNITY|FRATERNITY]] • [[topic LAWSUITS|LAWSUITS]] • [[topic LITIGATION|LITIGATION]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.4|<< 1 Corinthians 6:4]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.6|1 Corinthians 6:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

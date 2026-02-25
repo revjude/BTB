@@ -3,7 +3,7 @@
 
 → Law concerning dedicated things [[Lev.27|Le 27]]; [[Num.18.14|Nu 18:14]]; [[1Chr.26.26|1Ch  26:26]],[[1Chr.26.27|27]]
 
-→ Must be without blemish [[Lev.22.18|Le 22:18]]-[[Lev.22.23|23]]; [[Mal.1.14|Mal 1:14]]
+→ Must be without blemish [[Lev.22.18|Le 22:18-23]]; [[Mal.1.14|Mal 1:14]]
 
 → Not redeemable [[Lev.27.28|Le 27:28]],[[Lev.27.29|29]]
 
@@ -19,7 +19,7 @@
 
 → Second temple [[Ezra.6.16|Ezr 6:16]],[[Ezra.6.17|17]]
 
-→ Of the wall of Jerusalem [[Neh.12.27|Ne 12:27]]-[[Neh.12.43|43]]
+→ Of the wall of Jerusalem [[Neh.12.27|Ne 12:27-43]]
 
 → Of houses [[Deut.20.5|De 20:5]]
 
@@ -33,5 +33,5 @@
 
 See [[topic LIBERALITY|LIBERALITY]]
 
-- See FEAST OF DEDICATION [[John.10.22|Joh 10:22]]; [[1Kgs.8.65|1Ki 8:65]]; [[2Chr.7.8|2Ch 7:8]]-[[2Chr.7.10|10]]
+- See FEAST OF DEDICATION [[John.10.22|Joh 10:22]]; [[1Kgs.8.65|1Ki 8:65]]; [[2Chr.7.8|2Ch 7:8-10]]
 

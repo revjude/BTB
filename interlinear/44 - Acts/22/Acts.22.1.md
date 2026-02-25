@@ -1,10 +1,51 @@
+---
+title: Acts 22:1
+type: Verse
+kjv: "Men, brethren, and fathers, hear ye my defence which I make now unto you."
+bsb: "“Brothers and fathers, listen now to my defense before you.”"
+greek: "Ἄνδρες ἀδελφοὶ καὶ πατέρες, ἀκούσατέ μου τῆς πρὸς ὑμᾶς νυνὶ ἀπολογίας."
+pericope: "[[Acts.22.1 Paul’s Defense to the Crowd|Paul’s Defense to the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G0191]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G3570]]"
+- "[[G0627]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 22:1**<big><big>[[Acts.22.1 Paul’s Defense to the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Men, brethren, and fathers, hear ye my defence [which I make] now unto you.
 <small><sub>**BSB:**</sub></small>
 “Brothers and fathers, listen now to my defense before you.”
-<small><sub>**Literal:**</sub></small>
-Men brothers and fathers, do hear of me the to you now defense.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.40|<< Acts 21:40]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.2|Acts 22:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0435G\|Ἄνδρες]]  [[G0080\|ἀδελφοὶ]]  [[G2532\|καὶ]]  [[G3962\|πατέρες,]]  [[G0191\|ἀκούσατέ]]  [[G3165\|μου]]  [[G3588\|τῆς]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G3570\|νυνὶ]]  [[G0627\|ἀπολογίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.40|<< Acts 21:40]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.2|Acts 22:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

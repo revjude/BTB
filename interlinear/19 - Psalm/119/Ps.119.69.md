@@ -1,8 +1,63 @@
+---
+title: Psalm 119:69
+type: Verse
+kjv: "The proud have forged a lie against me: but I will keep thy precepts with my whole heart."
+bsb: "Though the arrogant have smeared me with lies, I keep Your precepts with all my heart."
+hebrew: "טָפְל֬וּ עָלַ֣י שֶׁ֣קֶר זֵדִ֑ים אֲ֝נִ֗י בְּכָל־ לֵ֤ב׀ אֱצֹּ֬ר פִּקּוּדֶֽיךָ׃"
+pericope: "[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|Your Word Is a Lamp to My Feet - TETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H2950]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H8267]]"
+- "[[H2086]]"
+- "[[H0589]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9015]]"
+- "[[H5341]]"
+- "[[H6490]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:69**<big><big>[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The proud have forged a lie against me: [but] I will keep thy precepts with [my] whole heart.
 <small><sub>**BSB:**</sub></small>
 Though the arrogant have smeared me with lies, I keep Your precepts with all my heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H2950\|טָפְל֬וּ]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H8267\|שֶׁ֣קֶר]] [[H2086\|זֵדִ֑ים]] [[H0589\|אֲ֝נִ֗י]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3820A\|לֵ֤ב]][[H9015\|׀]] [[H5341\|אֱצֹּ֬ר]] [[H6490\|פִּקּוּדֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic HEART|HEART]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.69|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.68|<< Psalms 119:68]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.70|Psalms 119:70 >>]]</td></tr></table>
 

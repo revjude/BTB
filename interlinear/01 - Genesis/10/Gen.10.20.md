@@ -1,8 +1,58 @@
+---
+title: Genesis 10:20
+type: Verse
+kjv: "These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations."
+bsb: "These are the sons of Ham according to their clans, languages, lands, and nations."
+hebrew: "אֵ֣לֶּה בְנֵי־ חָ֔ם לְמִשְׁפְּחֹתָ֖ם לִלְשֹֽׁנֹתָ֑ם בְּאַרְצֹתָ֖ם בְּגוֹיֵהֶֽם׃ ס"
+pericope: "[[Gen.10.6 The Hamites|The Hamites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HAM|HAM]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic TONGUE|TONGUE]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2526G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H3956H]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 10:20**<big><big>[[Gen.10.6 The Hamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Ham, after their families, after their tongues, in their countries, [and] in their nations.
 <small><sub>**BSB:**</sub></small>
 These are the sons of Ham according to their clans, languages, lands, and nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H1121A\|בְנֵי]][[H9014\|־]] [[H2526G\|חָ֔ם]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֖]][[H9028\|ם]] [[H9005\|לִ]][[H3956H\|לְשֹֽׁנֹתָ֑]][[H9028\|ם]] [[H9003\|בְּ]][[H0776G\|אַרְצֹתָ֖]][[H9028\|ם]] [[H9003\|בְּ]][[H1471A\|גוֹיֵ]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAM|HAM]] • [[topic LANGUAGE|LANGUAGE]] • [[topic TONGUE|TONGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.19|<< Genesis 10:19]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.21|Genesis 10:21 >>]]</td></tr></table>
 
@@ -14,7 +64,7 @@ These are the sons of Ham according to their clans, languages, lands, and nation
 | to clans their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4940\|מִשְׁפְּחֹתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mish.pe.cho.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to languages their  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3956H\|לְשֹֽׁנֹתָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> l.sho.no.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in lands their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אַרְצֹתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.tzo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in nations their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1471A\|גוֹיֵ]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> go.ye.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in nations their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1471A\|גוֹיֵ]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> go.ye.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.19|<< Genesis 10:19]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.21|Genesis 10:21 >>]]</td></tr></table>
 
 

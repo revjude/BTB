@@ -1,10 +1,57 @@
+---
+title: 1 Thessalonians 3:12
+type: Verse
+kjv: "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:"
+bsb: "And may the Lord cause you to increase and overflow with love for one another and for everyone else, just as our love for you overflows,"
+greek: "ὑμᾶς δὲ ὁ κύριος πλεονάσαι καὶ περισσεύσαι τῇ ἀγάπῃ εἰς ἀλλήλους καὶ εἰς πάντας καθάπερ καὶ ἡμεῖς εἰς ὑμᾶς"
+pericope: "[[1Thess.3.6 Timothy’s Encouraging Report|Timothy’s Encouraging Report]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 3
+book/chapter: "[[1Thess.3|1 Thessalonians 3]]"
+chronological_order: 1050
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G4121]]"
+- "[[G2532]]"
+- "[[G4052]]"
+- "[[G0026]]"
+- "[[G1519]]"
+- "[[G0240]]"
+- "[[G3956]]"
+- "[[G2509]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **1 Thessalonians 3:12**<big><big>[[1Thess.3.6 Timothy’s Encouraging Report|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Lord make you to increase and abound in love one toward another, and toward all [men], even as we [do] toward you:
 <small><sub>**BSB:**</sub></small>
 And may the Lord cause you to increase and overflow with love for one another and for everyone else, just as our love for you overflows,
-<small><sub>**Literal:**</sub></small>
-You now the Lord would make to increase and He would abound <the> in love toward one another and toward all just as also we ourselves toward you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.11|<< 1 Thessalonians 3:11]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.13|1 Thessalonians 3:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμᾶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G4121\|πλεονάσαι]]  [[G2532\|καὶ]]  [[G4052\|περισσεύσαι]]  [[G3588\|τῇ]]  [[G0026\|ἀγάπῃ]]  [[G1519\|εἰς]]  [[G0240\|ἀλλήλους]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3956\|πάντας]]  [[G2509\|καθάπερ]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.3.11|<< 1 Thessalonians 3:11]]</td><td align="center" style="border:none;">[[1Thess.3|1 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.3.13|1 Thessalonians 3:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

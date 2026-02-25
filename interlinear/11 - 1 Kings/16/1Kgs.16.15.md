@@ -1,8 +1,66 @@
+---
+title: 1 Kings 16:15
+type: Verse
+kjv: "In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines."
+bsb: "In the twenty-seventh year of Asa’s reign over Judah, Zimri reigned in Tirzah for seven days. Now the troops were encamped against Gibbethon of the Philistines,"
+hebrew: "בִּשְׁנַת֩ עֶשְׂרִ֨ים וָשֶׁ֜בַע שָׁנָ֗ה לְאָסָא֙ מֶ֣לֶךְ יְהוּדָ֔ה מָלַ֥ךְ זִמְרִ֛י שִׁבְעַ֥ת יָמִ֖ים בְּתִרְצָ֑ה וְהָעָ֣ם חֹנִ֔ים עַֽל־ גִּבְּת֖וֹן אֲשֶׁ֥ר לַפְּלִשְׁתִּֽים׃"
+pericope: "[[1Kgs.16.15 Zimri Reigns in Israel|Zimri Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic GIBBETHON|GIBBETHON]]"
+- "[[topic TIRZAH|TIRZAH]]"
+- "[[topic ZIMRI|ZIMRI]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H9005]]"
+- "[[H0609G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H2174A]]"
+- "[[H3117G]]"
+- "[[H8656H]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1405]]"
+- "[[H0834A]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:15**<big><big>[[1Kgs.16.15 Zimri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people [were] encamped against Gibbethon, which [belonged] to the Philistines.
 <small><sub>**BSB:**</sub></small>
 In the twenty-seventh year of Asa’s reign over Judah, Zimri reigned in Tirzah for seven days. Now the troops were encamped against Gibbethon of the Philistines,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַת֩]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וָ]][[H7651\|שֶׁ֜בַע]] [[H8141\|שָׁנָ֗ה]] [[H9005\|לְ]][[H0609G\|אָסָא֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H4427A\|מָלַ֥ךְ]] [[H2174A\|זִמְרִ֛י]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H9003\|בְּ]][[H8656H\|תִרְצָ֑ה]] [[H9002\|וְ]][[H9009\|הָ]][[H5971K\|עָ֣ם]] [[H2583\|חֹנִ֔ים]] [[H5921A\|עַֽל]][[H9014\|־]] [[H1405\|גִּבְּת֖וֹן]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לַ]][[H6430G\|פְּלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBBETHON|GIBBETHON]] • [[topic TIRZAH|TIRZAH]] • [[topic ZIMRI|ZIMRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.14|<< 1 Kings 16:14]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.16|1 Kings 16:16 >>]]</td></tr></table>
 

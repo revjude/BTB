@@ -1,10 +1,52 @@
+---
+title: Matthew 12:30
+type: Verse
+kjv: "He that is not with me is against me; and he that gathereth not with me scattereth abroad."
+bsb: "He who is not with Me is against Me, and he who does not gather with Me scatters."
+jesus_said: "He that is not with me is against me; and he that gathereth not with me scattereth abroad."
+greek: "Ὁ μὴ ὢν μετ᾽ ἐμοῦ κατ᾽ ἐμοῦ ἐστιν, καὶ ὁ μὴ συνάγων μετ᾽ ἐμοῦ σκορπίζει."
+pericope: "[[Matt.12.22 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G4650]]"
+texts:
+- NKO
+---
+
 **Matthew 12:30**<big><big>[[Matt.12.22 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that is not with me is against me; and he that gathereth not with me scattereth abroad.
 <small><sub>**BSB:**</sub></small>
 He who is not with Me is against Me, and he who does not gather with Me scatters.
-<small><sub>**Literal:**</sub></small>
-The [one] not being with Me against Me is, and the [one] not gathering with Me scatters.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.29|<< Matthew 12:29]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.31|Matthew 12:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3361\|μὴ]]  [[G1510\|ὢν]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G2596\|κατ᾽]]  [[G1473\|ἐμοῦ]]  [[G1510\|ἐστιν,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3361\|μὴ]]  [[G4863\|συνάγων]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G4650\|σκορπίζει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.29|<< Matthew 12:29]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.31|Matthew 12:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

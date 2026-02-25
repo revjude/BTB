@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 24:23
+type: Verse
+kjv: "And it came to pass at the end of the year, that the host of Syria came up against him: and they came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all the spoil of them unto the king of Damascus."
+bsb: "In the spring, the army of Aram went to war against Joash. They entered Judah and Jerusalem and destroyed all the leaders of the people, and they sent all the plunder to their king in Damascus."
+hebrew: "וַיְהִ֣י׀ לִתְקוּפַ֣ת הַשָּׁנָ֗ה עָלָ֣ה עָלָיו֮ חֵ֣יל אֲרָם֒ וַיָּבֹ֗אוּ אֶל־ יְהוּדָה֙ וִיר֣וּשָׁלִַ֔ם וַיַּשְׁחִ֛יתוּ אֶת־ כָּל־ שָׂרֵ֥י הָעָ֖ם מֵעָ֑ם וְכָל־ שְׁלָלָ֥ם שִׁלְּח֖וּ לְמֶ֥לֶךְ דַּרְמָֽשֶׂק׃"
+pericope: "[[2Chr.24.23 The Death of Joash|The Death of Joash]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOASH|JOASH]]"
+- "[[topic KING|KING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H8622]]"
+- "[[H9009]]"
+- "[[H8141]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H2428A]]"
+- "[[H0758I]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H8269]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H7998]]"
+- "[[H9028]]"
+- "[[H7971G]]"
+- "[[H4428G]]"
+- "[[H1834]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:23**<big><big>[[2Chr.24.23 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at the end of the year, [that] the host of Syria came up against him: and they came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all the spoil of them unto the king of Damascus.
 <small><sub>**BSB:**</sub></small>
 In the spring, the army of Aram went to war against Joash. They entered Judah and Jerusalem and destroyed all the leaders of the people, and they sent all the plunder to their king in Damascus.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9005\|לִ]][[H8622\|תְקוּפַ֣ת]] [[H9009\|הַ]][[H8141\|שָּׁנָ֗ה]] [[H5927G\|עָלָ֣ה]] [[H5921A\|עָלָי]][[H9033\|ו֮]] [[H2428A\|חֵ֣יל]] [[H0758I\|אֲרָם֒]] [[H9001\|וַ]][[H0935G\|יָּבֹ֗אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9001\|וַ]][[H7843\|יַּשְׁחִ֛יתוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H8269\|שָׂרֵ֥י]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9006\|מֵ]][[H5971A\|עָ֑ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7998\|שְׁלָלָ֥]][[H9028\|ם]] [[H7971G\|שִׁלְּח֖וּ]] [[H9005\|לְ]][[H4428G\|מֶ֥לֶךְ]] [[H1834\|דַּרְמָֽשֶׂק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOASH|JOASH]] • [[topic KING|KING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.22|<< 2 Chronicles 24:22]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.24|2 Chronicles 24:24 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Psalm 43:5
+type: Verse
+kjv: "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God."
+bsb: "Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God."
+hebrew: "מַה־ תִּשְׁתּ֬וֹחֲחִ֨י׀ נַפְשִׁי֮ וּֽמַה־ תֶּהֱמִ֪י עָ֫לָ֥י הוֹחִ֣ילִי לֵֽ֭אלֹהִים כִּי־ ע֣וֹד אוֹדֶ֑נּוּ יְשׁוּעֹ֥ת פָּ֝נַ֗י וֵֽאלֹהָֽי׃"
+pericope: "[[Ps.43.1 Send Out Your Light|Send Out Your Light]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 43
+book/chapter: "[[Ps.43|Psalm 43]]"
+chronological_order: 498
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOPE|HOPE]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H7817]]"
+- "[[H9015]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1993]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H3176H]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H5750]]"
+- "[[H3034]]"
+- "[[H9033]]"
+- "[[H3444]]"
+- "[[H6440L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 43:5**<big><big>[[Ps.43.1 Send Out Your Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, [who is] the health of my countenance, and my God.
 <small><sub>**BSB:**</sub></small>
 Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H7817\|תִּשְׁתּ֬וֹחֲחִ֨י]][[H9015\|׀]] [[H5315G\|נַפְשִׁ]][[H9020\|י֮]] [[H9002\|וּֽ]][[H4100\|מַה]][[H9014\|־]] [[H1993\|תֶּהֱמִ֪י]] [[H5921A\|עָ֫לָ֥]][[H9030\|י]] [[H3176H\|הוֹחִ֣ילִי]] [[H9005\|לֵֽ֭]][[H0430G\|אלֹהִים]] [[H3588A\|כִּי]][[H9014\|־]] [[H5750\|ע֣וֹד]] [[H3034\|אוֹדֶ֑]][[H9033\|נּוּ]] [[H3444\|יְשׁוּעֹ֥ת]] [[H6440L\|פָּ֝נַ֗]][[H9020\|י]] [[H9002\|וֵֽ]][[H0430G\|אלֹהָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COUNTENANCE|COUNTENANCE]] • [[topic FAITH|FAITH]] • [[topic HOPE|HOPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.43.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43.4|<< Psalms 43:4]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.0|Psalms 44:0 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

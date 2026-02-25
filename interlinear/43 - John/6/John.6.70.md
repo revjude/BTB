@@ -1,10 +1,57 @@
+---
+title: John 6:70
+type: Verse
+kjv: "Jesus answered them, Have not I chosen you twelve, and one of you is a devil?"
+bsb: "Jesus answered them, “Have I not chosen you, the Twelve? Yet one of you is a devil!”"
+jesus_said: "Have not I chosen you twelve, and one of you is a devil?"
+greek: "ἀπεκρίθη αὐτοῖς ὁ Ἰησοῦς· οὐκ ἐγὼ ὑμᾶς τοὺς δώδεκα ἐξελεξάμην, καὶ ἐξ ὑμῶν εἷς διάβολός ἐστιν;"
+pericope: "[[John.6.67 Peter’s Confession of Faith|Peter’s Confession of Faith]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3756]]"
+- "[[G1473]]"
+- "[[G4771]]"
+- "[[G1427]]"
+- "[[G1586]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G1520]]"
+- "[[G1228]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **John 6:70**<big><big>[[John.6.67 Peter’s Confession of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered them, Have not I chosen you twelve, and one of you is a devil?
 <small><sub>**BSB:**</sub></small>
 Jesus answered them, “Have I not chosen you, the Twelve? Yet one of you is a devil!”
-<small><sub>**Literal:**</sub></small>
-Answered them <the> Jesus; Not I myself you the Twelve did choose, and of you one a devil is?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.69|<< John 6:69]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.71|John 6:71 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3756\|οὐκ]]  [[G1473\|ἐγὼ]]  [[G4771\|ὑμᾶς]]  [[G3588\|τοὺς]]  [[G1427\|δώδεκα]]  [[G1586\|ἐξελεξάμην,]]  [[G2532\|καὶ]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G1520\|εἷς]]  [[G1228\|διάβολός]]  [[G1510\|ἐστιν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.69|<< John 6:69]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.71|John 6:71 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 16:10
+type: Verse
+kjv: "Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also do."
+bsb: "If Timothy comes, see to it that he has nothing to fear while he is with you, for he is doing the work of the Lord, just as I am."
+greek: "Ἐὰν δὲ ἔλθῃ Τιμόθεος, βλέπετε ἵνα ἀφόβως γένηται πρὸς ὑμᾶς· τὸ γὰρ ἔργον κυρίου ἐργάζεται ὡς κἀγώ. κἀγώ."
+pericope: "[[1Cor.16.10 Timothy and Apollos|Timothy and Apollos]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 16
+book/chapter: "[[1Cor.16|1 Corinthians 16]]"
+chronological_order: 1073
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G5095]]"
+- "[[G0991]]"
+- "[[G2443]]"
+- "[[G0870]]"
+- "[[G1096]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G1063]]"
+- "[[G2041]]"
+- "[[G2962G]]"
+- "[[G2038]]"
+- "[[G5613]]"
+- "[[G1473]]"
+- "[[G2532]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 16:10**<big><big>[[1Cor.16.10 Timothy and Apollos|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now if Timotheus come, see that he may be with you without fear: for he worketh the work of the Lord, as I also [do].
 <small><sub>**BSB:**</sub></small>
 If Timothy comes, see to it that he has nothing to fear while he is with you, for he is doing the work of the Lord, just as I am.
-<small><sub>**Literal:**</sub></small>
-If now may come Timothy, do see that without fear he shall be with you; the for work of [the] Lord he is doing as also I myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.9|<< 1 Corinthians 16:9]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.11|1 Corinthians 16:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|Ἐὰν]]  [[G1161\|δὲ]]  [[G2064\|ἔλθῃ]]  [[G5095\|Τιμόθεος,]]  [[G0991\|βλέπετε]]  [[G2443\|ἵνα]]  [[G0870\|ἀφόβως]]  [[G1096\|γένηται]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς·]]  [[G3588\|τὸ]]  [[G1063\|γὰρ]]  [[G2041\|ἔργον]]  [[G2962G\|κυρίου]]  [[G2038\|ἐργάζεται]]  [[G5613\|ὡς]]  [[G1473\|κἀγώ.]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic TIMOTHY|TIMOTHY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.16.9|<< 1 Corinthians 16:9]]</td><td align="center" style="border:none;">[[1Cor.16|1 Corinthians 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.11|1 Corinthians 16:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

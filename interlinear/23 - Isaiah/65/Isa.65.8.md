@@ -1,8 +1,71 @@
+---
+title: Isaiah 65:8
+type: Verse
+kjv: "Thus saith the LORD, As the new wine is found in the cluster, and one saith, Destroy it not; for a blessing is in it: so will I do for my servants’ sakes, that I may not destroy them all."
+bsb: "This is what the LORD says: “As the new wine is found in a cluster of grapes, and men say, ‘Do not destroy it, for it contains a blessing,’ so I will act on behalf of My servants; I will not destroy them all."
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה כַּאֲשֶׁ֨ר יִמָּצֵ֤א הַתִּירוֹשׁ֙ בָּֽאֶשְׁכּ֔וֹל וְאָמַר֙ אַל־ תַּשְׁחִיתֵ֔הוּ כִּ֥י בְרָכָ֖ה בּ֑וֹ כֵּ֤ן אֶֽעֱשֶׂה֙ לְמַ֣עַן עֲבָדַ֔י לְבִלְתִּ֖י הַֽשְׁחִ֥ית הַכֹּֽל׃"
+pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H4672]]"
+- "[[H9009]]"
+- "[[H8492]]"
+- "[[H9003]]"
+- "[[H0811]]"
+- "[[H9001]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7843]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H1293]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H4616]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:8**<big><big>[[Isa.65.1 Judgments and Promises|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, As the new wine is found in the cluster, and [one] saith, Destroy it not; for a blessing [is] in it: so will I do for my servants’ sakes, that I may not destroy them all.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “As the new wine is found in a cluster of grapes, and men say, ‘Do not destroy it, for it contains a blessing,’ so I will act on behalf of My servants; I will not destroy them all.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H4672\|יִמָּצֵ֤א]] [[H9009\|הַ]][[H8492\|תִּירוֹשׁ֙]] [[H9003\|בָּֽ]][[H0811\|אֶשְׁכּ֔וֹל]] [[H9001\|וְ]][[H0559\|אָמַר֙]] [[H0408\|אַל]][[H9014\|־]] [[H7843\|תַּשְׁחִיתֵ֔]][[H9033\|הוּ]] [[H3588A\|כִּ֥י]] [[H1293\|בְרָכָ֖ה]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H3651C\|כֵּ֤ן]] [[H6213A\|אֶֽעֱשֶׂה֙]] [[H4616\|לְמַ֣עַן]] [[H5650\|עֲבָדַ֔]][[H9020\|י]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H7843\|הַֽשְׁחִ֥ית]] [[H9009\|הַ]][[H3605\|כֹּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.7|<< Isaiah 65:7]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.9|Isaiah 65:9 >>]]</td></tr></table>
 

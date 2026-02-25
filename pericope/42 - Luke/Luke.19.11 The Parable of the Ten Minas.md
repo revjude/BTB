@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Ten Minas
+type: Pericope
 pericope: "[[Luke.19.11 The Parable of the Ten Minas|The Parable of the Ten Minas]]"
-verse_count: 17
+original_language: Greek
 testament: New
 book: Luke
 chapter: 19
 book/chapter: "[[Luke.19|Luke 19]]"
-genre:
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 17
 verses:
 - "[[Luke.19.11]]"
 - "[[Luke.19.12]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Luke.19.27]]"
 ---
 
-[[Luke.19|Luke 19:11 - Luke 19:27]]
+<small>[[Luke.19|Luke 19:11-27]]</small>
 *The Parable of the Ten Minas*
 
 [[Luke.19.11|11]] And as they heard these things, he added and spake a parable, because he was nigh to Jerusalem, and because they thought that the kingdom of God should immediately appear.

@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 7:26
+type: Verse
+kjv: "And let thy name be magnified for ever, saying, The LORD of hosts is the God over Israel: and let the house of thy servant David be established before thee."
+bsb: "so that Your name will be magnified forever when it is said, ‘The LORD of Hosts is God over Israel.’ And the house of Your servant David will be established before You."
+hebrew: "וְיִגְדַּ֨ל שִׁמְךָ֤ עַד־ עוֹלָם֙ לֵאמֹ֔ר יְהוָ֣ה צְבָא֔וֹת אֱלֹהִ֖ים עַל־ יִשְׂרָאֵ֑ל וּבֵית֙ עַבְדְּךָ֣ דָוִ֔ד יִהְיֶ֥ה נָכ֖וֹן לְפָנֶֽיךָ׃"
+pericope: "[[2Sam.7.18 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H1431]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H1004M]]"
+- "[[H5650]]"
+- "[[H1732]]"
+- "[[H1961]]"
+- "[[H3559H]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:26**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let thy name be magnified for ever, saying, The LORD of hosts [is] the God over Israel: and let the house of thy servant David be established before thee.
 <small><sub>**BSB:**</sub></small>
 so that Your name will be magnified forever when it is said, ‘The LORD of Hosts is God over Israel.’ And the house of Your servant David will be established before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1431\|יִגְדַּ֨ל]] [[H8034\|שִׁמְ]][[H9021\|ךָ֤]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H0430G\|אֱלֹהִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וּ]][[H1004M\|בֵית֙]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֣]] [[H1732\|דָוִ֔ד]] [[H1961\|יִהְיֶ֥ה]] [[H3559H\|נָכ֖וֹן]] [[H9005\|לְ]][[H6440G\|פָנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.25|<< 2 Samuel 7:25]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.27|2 Samuel 7:27 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Genesis 2:23
+type: Verse
+kjv: "And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man."
+bsb: "And the man said: “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for out of man she was taken.”"
+hebrew: "וַיֹּאמֶר֮ הָֽאָדָם֒ זֹ֣את הַפַּ֗עַם עֶ֚צֶם מֵֽעֲצָמַ֔י וּבָשָׂ֖ר מִבְּשָׂרִ֑י לְזֹאת֙ יִקָּרֵ֣א אִשָּׁ֔ה כִּ֥י מֵאִ֖ישׁ לֻֽקֳחָה־ זֹּֽאת׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic EVE|EVE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H2063]]"
+- "[[H6471]]"
+- "[[H6106G]]"
+- "[[H9006]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H9005]]"
+- "[[H7121H]]"
+- "[[H0802G]]"
+- "[[H3588A]]"
+- "[[H0376G]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:23**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adam said, This [is] now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man.
 <small><sub>**BSB:**</sub></small>
 And the man said: “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for out of man she was taken.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֮]] [[H9009\|הָֽ]][[H0120H\|אָדָם֒]] [[H2063\|זֹ֣את]] [[H9009\|הַ]][[H6471\|פַּ֗עַם]] [[H6106G\|עֶ֚צֶם]] [[H9006\|מֵֽ]][[H6106G\|עֲצָמַ֔]][[H9020\|י]] [[H9002\|וּ]][[H1320\|בָשָׂ֖ר]] [[H9006\|מִ]][[H1320\|בְּשָׂרִ֑]][[H9020\|י]] [[H9005\|לְ]][[H2063\|זֹאת֙]] [[H7121H\|יִקָּרֵ֣א]] [[H0802G\|אִשָּׁ֔ה]] [[H3588A\|כִּ֥י]] [[H9006\|מֵ]][[H0376G\|אִ֖ישׁ]] [[H3947G\|לֻֽקֳחָה]][[H9014\|־]] [[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic EVE|EVE]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.22|<< Genesis 2:22]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.24|Genesis 2:24 >>]]</td></tr></table>
 

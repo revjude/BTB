@@ -1,8 +1,64 @@
+---
+title: Genesis 48:11
+type: Verse
+kjv: "And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed."
+bsb: "“I never expected to see your face again,” Israel said to Joseph, “but now God has let me see your children as well.”"
+hebrew: "וַיֹּ֤אמֶר יִשְׂרָאֵל֙ אֶל־ יוֹסֵ֔ף רְאֹ֥ה פָנֶ֖יךָ לֹ֣א פִלָּ֑לְתִּי וְהִנֵּ֨ה הֶרְאָ֥ה אֹתִ֛י אֱלֹהִ֖ים גַּ֥ם אֶת־ זַרְעֶֽךָ׃"
+pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H7200G]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H6419]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H1571]]"
+- "[[H2233H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 48:11**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Israel said unto Joseph, I had not thought to see thy face: and, lo, God hath shewed me also thy seed.
 <small><sub>**BSB:**</sub></small>
 “I never expected to see your face again,” Israel said to Joseph, “but now God has let me see your children as well.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3478\|יִשְׂרָאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H7200G\|רְאֹ֥ה]] [[H6440H\|פָנֶ֖י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H6419\|פִלָּ֑לְתִּי]] [[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H7200G\|הֶרְאָ֥ה]] [[H0853\|אֹתִ֛]][[H9030\|י]] [[H0430G\|אֱלֹהִ֖ים]] [[H1571\|גַּ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H2233H\|זַרְעֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]] • [[topic PARENTS|PARENTS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.10|<< Genesis 48:10]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.12|Genesis 48:12 >>]]</td></tr></table>
 

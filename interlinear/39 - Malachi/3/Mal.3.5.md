@@ -1,8 +1,88 @@
+---
+title: Malachi 3:5
+type: Verse
+kjv: "And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me, saith the LORD of hosts."
+bsb: "“Then I will draw near to you for judgment. And I will be a swift witness against sorcerers and adulterers and perjurers, against oppressors of the widowed and fatherless, and against those who defraud laborers of their wages and deny justice to the foreigner but do not fear Me,” says the LORD of Hosts."
+hebrew: "וְקָרַבְתִּ֣י אֲלֵיכֶם֮ לַמִּשְׁפָּט֒ וְהָיִ֣יתִי׀ עֵ֣ד מְמַהֵ֗ר בַּֽמְכַשְּׁפִים֙ וּבַמְנָ֣אֲפִ֔ים וּבַנִּשְׁבָּעִ֖ים לַשָּׁ֑קֶר וּבְעֹשְׁקֵ֣י שְׂכַר־ שָׂ֠כִיר אַלְמָנָ֨ה וְיָת֤וֹם וּמַטֵּי־ גֵר֙ וְלֹ֣א יְרֵא֔וּנִי אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Mal.3.1 I Will Send My Messenger|I Will Send My Messenger]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HIRELING|HIRELING]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic WAGES|WAGES]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H4941G]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H5707]]"
+- "[[H4116A]]"
+- "[[H9003]]"
+- "[[H3784]]"
+- "[[H9002]]"
+- "[[H5003]]"
+- "[[H7650]]"
+- "[[H8267]]"
+- "[[H6231]]"
+- "[[H7939]]"
+- "[[H9014]]"
+- "[[H7916]]"
+- "[[H0490]]"
+- "[[H3490]]"
+- "[[H5186]]"
+- "[[H1616]]"
+- "[[H3808]]"
+- "[[H3372H]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:5**<big><big>[[Mal.3.1 I Will Send My Messenger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will come near to you to judgment; and I will be a swift witness against the sorcerers, and against the adulterers, and against false swearers, and against those that oppress the hireling in [his] wages, the widow, and the fatherless, and that turn aside the stranger [from his right], and fear not me, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 “Then I will draw near to you for judgment. And I will be a swift witness against sorcerers and adulterers and perjurers, against oppressors of the widowed and fatherless, and against those who defraud laborers of their wages and deny justice to the foreigner but do not fear Me,” says the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126G\|קָרַבְתִּ֣י]] [[H0413\|אֲלֵי]][[H9036\|כֶם֮]] [[H9005\|לַ]][[H4941G\|מִּשְׁפָּט֒]] [[H9001\|וְ]][[H1961\|הָיִ֣יתִי]][[H9015\|׀]] [[H5707\|עֵ֣ד]] [[H4116A\|מְמַהֵ֗ר]] [[H9003\|בַּֽ]][[H3784\|מְכַשְּׁפִים֙]] [[H9002\|וּ]][[H9003\|בַ]][[H5003\|מְנָ֣אֲפִ֔ים]] [[H9002\|וּ]][[H9003\|בַ]][[H7650\|נִּשְׁבָּעִ֖ים]] [[H9005\|לַ]][[H8267\|שָּׁ֑קֶר]] [[H9002\|וּ]][[H9003\|בְ]][[H6231\|עֹשְׁקֵ֣י]] [[H7939\|שְׂכַר]][[H9014\|־]] [[H7916\|שָׂ֠כִיר]] [[H0490\|אַלְמָנָ֨ה]] [[H9002\|וְ]][[H3490\|יָת֤וֹם]] [[H9002\|וּ]][[H5186\|מַטֵּי]][[H9014\|־]] [[H1616\|גֵר֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3372H\|יְרֵא֔וּ]][[H9030\|נִי]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic CHILDREN|CHILDREN]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic GOD|GOD]] • [[topic HIRELING|HIRELING]] • [[topic LABOR|LABOR]] • [[topic MALACHI|MALACHI]] • [[topic MASTER|MASTER]] • [[topic OPPRESSION|OPPRESSION]] • [[topic ORPHAN|ORPHAN]] • [[topic PERJURY|PERJURY]] • [[topic SERVANT|SERVANT]] • [[topic SORCERY|SORCERY]] • [[topic STRANGERS|STRANGERS]] • [[topic WAGES|WAGES]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.4|<< Malachi 3:4]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.6|Malachi 3:6 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Genesis 48:9
+type: Verse
+kjv: "And Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray thee, unto me, and I will bless them."
+bsb: "Joseph said to his father, “They are the sons God has given me in this place.” So Jacob said, “Please bring them to me, that I may bless them.”"
+hebrew: "וַיֹּ֤אמֶר יוֹסֵף֙ אֶל־ אָבִ֔יו בָּנַ֣י הֵ֔ם אֲשֶׁר־ נָֽתַן־ לִ֥י אֱלֹהִ֖ים בָּזֶ֑ה וַיֹּאמַ֕ר קָֽחֶם־ נָ֥א אֵלַ֖י וַאֲבָרֲכֵֽם׃"
+pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3130G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H1992]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H2088]]"
+- "[[H3947J]]"
+- "[[H9038]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 48:9**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph said unto his father, They [are] my sons, whom God hath given me in this [place]. And he said, Bring them, I pray thee, unto me, and I will bless them.
 <small><sub>**BSB:**</sub></small>
 Joseph said to his father, “They are the sons God has given me in this place.” So Jacob said, “Please bring them to me, that I may bless them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3130G\|יוֹסֵף֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H1121A\|בָּנַ֣]][[H9020\|י]] [[H1992\|הֵ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָֽתַן]][[H9014\|־]] [[H9005\|לִ֥]][[H9030\|י]] [[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בָּ]][[H2088\|זֶ֑ה]] [[H9001\|וַ]][[H0559\|יֹּאמַ֕ר]] [[H3947J\|קָֽחֶ]][[H9038\|ם]][[H9014\|־]] [[H4994\|נָ֥א]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9002\|וַ]][[H1288\|אֲבָרֲכֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.8|<< Genesis 48:8]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.10|Genesis 48:10 >>]]</td></tr></table>
 

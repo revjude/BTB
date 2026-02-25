@@ -1,10 +1,57 @@
+---
+title: James 1:24
+type: Verse
+kjv: "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was."
+bsb: "and after observing himself goes away and immediately forgets what he looks like."
+greek: "κατενόησεν γὰρ ἑαυτὸν καὶ ἀπελήλυθεν καὶ εὐθέως ἐπελάθετο ὁποῖος ἦν."
+pericope: "[[Jas.1.19 Hearing and Doing|Hearing and Doing]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic DOER|DOER]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MIRROR|MIRROR]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic STABILITY|STABILITY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2657]]"
+- "[[G1063]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G2112]]"
+- "[[G1950]]"
+- "[[G3697]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **James 1:24**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.
 <small><sub>**BSB:**</sub></small>
 and after observing himself goes away and immediately forgets what he looks like.
-<small><sub>**Literal:**</sub></small>
-he has viewed for himself and has gone away and immediately he has forgotten what like he was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.23|<< James 1:23]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.25|James 1:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2657\|κατενόησεν]]  [[G1063\|γὰρ]]  [[G1438\|ἑαυτὸν]]  [[G2532\|καὶ]]  [[G0565\|ἀπελήλυθεν]]  [[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G1950\|ἐπελάθετο]]  [[G3697\|ὁποῖος]]  [[G1510\|ἦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOER|DOER]] • [[topic HEARERS|HEARERS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MIRROR|MIRROR]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARABLES|PARABLES]] • [[topic STABILITY|STABILITY]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.23|<< James 1:23]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.25|James 1:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

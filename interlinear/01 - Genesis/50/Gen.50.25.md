@@ -1,8 +1,64 @@
+---
+title: Genesis 50:25
+type: Verse
+kjv: "And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence."
+bsb: "And Joseph made the sons of Israel take an oath and said, “God will surely attend to you, and then you must carry my bones up from this place.”"
+hebrew: "וַיַּשְׁבַּ֣ע יוֹסֵ֔ף אֶת־ בְּנֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר פָּקֹ֨ד יִפְקֹ֤ד אֱלֹהִים֙ אֶתְכֶ֔ם וְהַעֲלִתֶ֥ם אֶת־ עַצְמֹתַ֖י מִזֶּֽה׃"
+pericope: "[[Gen.50.22 The Death of Joseph|The Death of Joseph]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7650]]"
+- "[[H3130G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H6485I]]"
+- "[[H0430G]]"
+- "[[H9036]]"
+- "[[H5927H]]"
+- "[[H6106G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:25**<big><big>[[Gen.50.22 The Death of Joseph|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
 <small><sub>**BSB:**</sub></small>
 And Joseph made the sons of Israel take an oath and said, “God will surely attend to you, and then you must carry my bones up from this place.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7650\|יַּשְׁבַּ֣ע]] [[H3130G\|יוֹסֵ֔ף]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H6485I\|פָּקֹ֨ד]] [[H6485I\|יִפְקֹ֤ד]] [[H0430G\|אֱלֹהִים֙]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H5927H\|הַעֲלִתֶ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6106G\|עַצְמֹתַ֖]][[H9020\|י]] [[H9006\|מִ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic BURIAL|BURIAL]] • [[topic JOSEPH|JOSEPH]] • [[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.24|<< Genesis 50:24]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.26|Genesis 50:26 >>]]</td></tr></table>
 

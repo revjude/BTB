@@ -1,8 +1,61 @@
+---
+title: Isaiah 54:6
+type: Verse
+kjv: "For the LORD hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God."
+bsb: "For the LORD has called you back, like a wife deserted and wounded in spirit, like the rejected wife of one’s youth,” says your God."
+hebrew: "כִּֽי־ כְאִשָּׁ֧ה עֲזוּבָ֛ה וַעֲצ֥וּבַת ר֖וּחַ קְרָאָ֣ךְ יְהוָ֑ה וְאֵ֧שֶׁת נְעוּרִ֛ים כִּ֥י תִמָּאֵ֖ס אָמַ֥ר אֱלֹהָֽיִךְ׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9004]]"
+- "[[H0802H]]"
+- "[[H5800A]]"
+- "[[H9002]]"
+- "[[H6087A]]"
+- "[[H7307G]]"
+- "[[H7121G]]"
+- "[[H9032]]"
+- "[[H3068G]]"
+- "[[H5271A]]"
+- "[[H3988A]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 54:6**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD hath called thee as a woman forsaken and grieved in spirit, and a wife of youth, when thou wast refused, saith thy God.
 <small><sub>**BSB:**</sub></small>
 For the LORD has called you back, like a wife deserted and wounded in spirit, like the rejected wife of one’s youth,” says your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9004\|כְ]][[H0802H\|אִשָּׁ֧ה]] [[H5800A\|עֲזוּבָ֛ה]] [[H9002\|וַ]][[H6087A\|עֲצ֥וּבַת]] [[H7307G\|ר֖וּחַ]] [[H7121G\|קְרָאָ֣]][[H9032\|ךְ]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0802H\|אֵ֧שֶׁת]] [[H5271A\|נְעוּרִ֛ים]] [[H3588A\|כִּ֥י]] [[H3988A\|תִמָּאֵ֖ס]] [[H0559\|אָמַ֥ר]] [[H0430G\|אֱלֹהָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HUSBAND|HUSBAND]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.5|<< Isaiah 54:5]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.7|Isaiah 54:7 >>]]</td></tr></table>
 

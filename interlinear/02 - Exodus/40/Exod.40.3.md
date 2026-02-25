@@ -1,8 +1,53 @@
+---
+title: Exodus 40:3
+type: Verse
+kjv: "And thou shalt put therein the ark of the testimony, and cover the ark with the vail."
+bsb: "Put the ark of the Testimony in it and screen off the ark with the veil."
+hebrew: "וְשַׂמְתָּ֣ שָׁ֔ם אֵ֖ת אֲר֣וֹן הָעֵד֑וּת וְסַכֹּתָ֥ עַל־ הָאָרֹ֖ן אֶת־ הַפָּרֹֽכֶת׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H5715]]"
+- "[[H5526B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6532]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:3**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put therein the ark of the testimony, and cover the ark with the vail.
 <small><sub>**BSB:**</sub></small>
 Put the ark of the Testimony in it and screen off the ark with the veil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760H\|שַׂמְתָּ֣]] [[H8033G\|שָׁ֔ם]] [[H0853\|אֵ֖ת]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H5715\|עֵד֑וּת]] [[H9001\|וְ]][[H5526B\|סַכֹּתָ֥]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָרֹ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6532\|פָּרֹֽכֶת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.2|<< Exodus 40:2]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.4|Exodus 40:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 26:30
+type: Verse
+kjv: "And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king."
+bsb: "From the Hebronites, Hashabiah and his relatives, 1,700 capable men, had charge of the affairs of Israel west of the Jordan for all the work of the LORD and for the service of the king."
+hebrew: "לַֽחֶבְרוֹנִ֡י חֲשַׁבְיָהוּ֩ וְאֶחָ֨יו בְּנֵי־ חַ֜יִל אֶ֣לֶף וּשְׁבַע־ מֵא֗וֹת עַ֚ל פְּקֻדַּ֣ת יִשְׂרָאֵ֔ל מֵעֵ֥בֶר לַיַּרְדֵּ֖ן מַעְרָ֑בָה לְכֹל֙ מְלֶ֣אכֶת יְהוָ֔ה וְלַעֲבֹדַ֖ת הַמֶּֽלֶךְ׃"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic HASHABIAH|HASHABIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H2276]]"
+- "[[H2811J]]"
+- "[[H9002]]"
+- "[[H0251H]]"
+- "[[H9023]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H2428G]]"
+- "[[H0505G]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H5921A]]"
+- "[[H6486]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5676G]]"
+- "[[H3383]]"
+- "[[H4628]]"
+- "[[H9011]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H3068G]]"
+- "[[H5656G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:30**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, [were] officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king.
 <small><sub>**BSB:**</sub></small>
 From the Hebronites, Hashabiah and his relatives, 1,700 capable men, had charge of the affairs of Israel west of the Jordan for all the work of the LORD and for the service of the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַֽ]][[H2276\|חֶבְרוֹנִ֡י]] [[H2811J\|חֲשַׁבְיָהוּ֩]] [[H9002\|וְ]][[H0251H\|אֶחָ֨י]][[H9023\|ו]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H2428G\|חַ֜יִל]] [[H0505G\|אֶ֣לֶף]] [[H9002\|וּ]][[H7651\|שְׁבַע]][[H9014\|־]] [[H3967\|מֵא֗וֹת]] [[H5921A\|עַ֚ל]] [[H6486\|פְּקֻדַּ֣ת]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מֵ]][[H5676G\|עֵ֥בֶר]] [[H9005\|לַ]][[H3383\|יַּרְדֵּ֖ן]] [[H4628\|מַעְרָ֑בָ]][[H9011\|ה]] [[H9005\|לְ]][[H3605\|כֹל֙]] [[H4399\|מְלֶ֣אכֶת]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H9005\|לַ]][[H5656G\|עֲבֹדַ֖ת]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic HASHABIAH|HASHABIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.29|<< 1 Chronicles 26:29]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.31|1 Chronicles 26:31 >>]]</td></tr></table>
 

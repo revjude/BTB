@@ -1,8 +1,57 @@
+---
+title: Job 5:13
+type: Verse
+kjv: "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong."
+bsb: "He catches the wise in their craftiness, and sweeps away the plans of the cunning."
+hebrew: "לֹכֵ֣ד חֲכָמִ֣ים בְּעָרְמָ֑ם וַעֲצַ֖ת נִפְתָּלִ֣ים נִמְהָֽרָה׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3920]]"
+- "[[H2450]]"
+- "[[H9003]]"
+- "[[H6191]]"
+- "[[H9048]]"
+- "[[H9002]]"
+- "[[H6098]]"
+- "[[H6617]]"
+- "[[H4116A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:13**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.
 <small><sub>**BSB:**</sub></small>
 He catches the wise in their craftiness, and sweeps away the plans of the cunning.
+<small><sub>**Hebrew:**</sub></small>
+[[H3920\|לֹכֵ֣ד]] [[H2450\|חֲכָמִ֣ים]] [[H9003\|בְּ]][[H6191\|עָרְמָ֑]][[H9048\|ם]] [[H9002\|וַ]][[H6098\|עֲצַ֖ת]] [[H6617\|נִפְתָּלִ֣ים]] [[H4116A\|נִמְהָֽרָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.12|<< Job 5:12]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.14|Job 5:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

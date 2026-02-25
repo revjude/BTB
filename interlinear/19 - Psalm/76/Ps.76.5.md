@@ -1,8 +1,60 @@
+---
+title: Psalm 76:5
+type: Verse
+kjv: "The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands."
+bsb: "The valiant lie plundered; they sleep their last sleep. No men of might could lift a hand."
+hebrew: "אֶשְׁתּוֹלְל֨וּ׀ אַבִּ֣ירֵי לֵ֭ב נָמ֣וּ שְׁנָתָ֑ם וְלֹא־ מָצְא֖וּ כָל־ אַנְשֵׁי־ חַ֣יִל יְדֵיהֶֽם׃"
+pericope: "[[Ps.76.1 God’s Name Is Great in Israel|God’s Name Is Great in Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 76
+book/chapter: "[[Ps.76|Psalm 76]]"
+chronological_order: 508
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic VICTORIES|VICTORIES]]"
+strongs:
+- "[[H7997B]]"
+- "[[H9015]]"
+- "[[H0047I]]"
+- "[[H3820A]]"
+- "[[H5123]]"
+- "[[H8142]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H3605]]"
+- "[[H0582]]"
+- "[[H2428A]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 76:5**<big><big>[[Ps.76.1 God’s Name Is Great in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.
 <small><sub>**BSB:**</sub></small>
 The valiant lie plundered; they sleep their last sleep. No men of might could lift a hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H7997B\|אֶשְׁתּוֹלְל֨וּ]][[H9015\|׀]] [[H0047I\|אַבִּ֣ירֵי]] [[H3820A\|לֵ֭ב]] [[H5123\|נָמ֣וּ]] [[H8142\|שְׁנָתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H4672\|מָצְא֖וּ]] [[H3605\|כָל]][[H9014\|־]] [[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H2428A\|חַ֣יִל]] [[H3027G\|יְדֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic VICTORIES|VICTORIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.76.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.76.4|<< Psalms 76:4]]</td><td align="center" style="border:none;">[[Ps.76|Psalms 76]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.6|Psalms 76:6 >>]]</td></tr></table>
 

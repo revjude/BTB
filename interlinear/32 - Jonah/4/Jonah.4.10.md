@@ -1,8 +1,65 @@
+---
+title: Jonah 4:10
+type: Verse
+kjv: "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:"
+bsb: "But the LORD said, “You cared about the plant, which you neither tended nor made grow. It sprang up in a night and perished in a night."
+hebrew: "וַיֹּ֣אמֶר יְהוָ֔ה אַתָּ֥ה חַ֙סְתָּ֙ עַל־ הַקִּ֣יקָי֔וֹן אֲשֶׁ֛ר לֹא־ עָמַ֥לְתָּ בּ֖וֹ וְלֹ֣א גִדַּלְתּ֑וֹ שֶׁבִּן־ לַ֥יְלָה הָיָ֖ה וּבִן־ לַ֥יְלָה אָבָֽד׃"
+pericope: "[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|Jonah’s Anger at the LORD’s Compassion]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 4
+book/chapter: "[[Jonah.4|Jonah 4]]"
+chronological_order: 597
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOURD|GOURD]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0859A]]"
+- "[[H2347]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7021]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5998]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1431]]"
+- "[[H9007]]"
+- "[[H1121I]]"
+- "[[H3915]]"
+- "[[H1961]]"
+- "[[H0006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 4:10**<big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:
 <small><sub>**BSB:**</sub></small>
 But the LORD said, “You cared about the plant, which you neither tended nor made grow. It sprang up in a night and perished in a night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֔ה]] [[H0859A\|אַתָּ֥ה]] [[H2347\|חַ֙סְתָּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7021\|קִּ֣יקָי֔וֹן]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹא]][[H9014\|־]] [[H5998\|עָמַ֥לְתָּ]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1431\|גִדַּלְתּ֑]][[H9033\|וֹ]] [[H9007\|שֶׁ]][[H1121I\|בִּן]][[H9014\|־]] [[H3915\|לַ֥יְלָה]] [[H1961\|הָיָ֖ה]] [[H9002\|וּ]][[H1121I\|בִן]][[H9014\|־]] [[H3915\|לַ֥יְלָה]] [[H0006\|אָבָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOURD|GOURD]] • [[topic PARABLES|PARABLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.9|<< Jonah 4:9]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.4.11|Jonah 4:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

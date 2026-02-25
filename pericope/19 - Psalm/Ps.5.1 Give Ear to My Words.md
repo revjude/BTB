@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Give Ear to My Words
+type: Pericope
 pericope: "[[Ps.5.1 Give Ear to My Words|Give Ear to My Words]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 5
 book/chapter: "[[Ps.5|Psalm 5]]"
-genre:
+chronological_order: 340
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.5.0]]"
 - "[[Ps.5.1]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.5.12]]"
 ---
 
-[[Ps.5|Psalm 5:1 - Psalm 5:12]]
+<small>[[Ps.5|Psalm 5:1-12]]</small>
 *Give Ear to My Words*
 
 [[Ps.5.0|0]] To the chief Musician upon Nehiloth, A Psalm of David.

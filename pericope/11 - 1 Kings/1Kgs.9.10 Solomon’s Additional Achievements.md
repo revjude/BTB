@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Additional Achievements
+type: Pericope
 pericope: "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 9
 book/chapter: "[[1Kgs.9|1 Kings 9]]"
-genre:
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 19
 verses:
 - "[[1Kgs.9.10]]"
 - "[[1Kgs.9.11]]"
@@ -39,7 +46,7 @@ verses:
 - "[[1Kgs.9.28]]"
 ---
 
-[[1Kgs.9|1 Kings 9:10 - 1 Kings 9:28]]
+<small>[[1Kgs.9|1 Kings 9:10-28]]</small>
 *Solomon’s Additional Achievements*
 
 [[1Kgs.9.10|10]] And it came to pass at the end of twenty years, when Solomon had built the two houses, the house of the LORD, and the king’s house,

@@ -1,8 +1,64 @@
+---
+title: Ezekiel 13:8
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Because ye have spoken vanity, and seen lies, therefore, behold, I am against you, saith the Lord GOD."
+bsb: "Therefore this is what the Lord GOD says: Because you have uttered vain words and seen false visions, I am against you, declares the Lord GOD."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה יַ֚עַן דַּבֶּרְכֶ֣ם שָׁ֔וְא וַחֲזִיתֶ֖ם כָּזָ֑ב לָכֵן֙ הִנְנִ֣י אֲלֵיכֶ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3282]]"
+- "[[H1696G]]"
+- "[[H9046]]"
+- "[[H7723G]]"
+- "[[H9001]]"
+- "[[H2372]]"
+- "[[H3577]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:8**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Because ye have spoken vanity, and seen lies, therefore, behold, I [am] against you, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: Because you have uttered vain words and seen false visions, I am against you, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H3282\|יַ֚עַן]] [[H1696G\|דַּבֶּרְ]][[H9046\|כֶ֣ם]] [[H7723G\|שָׁ֔וְא]] [[H9001\|וַ]][[H2372\|חֲזִיתֶ֖ם]] [[H3577\|כָּזָ֑ב]] [[H9005\|לָ]][[H3651C\|כֵן֙]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H0413\|אֲלֵי]][[H9036\|כֶ֔ם]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.7|<< Ezekiel 13:7]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.9|Ezekiel 13:9 >>]]</td></tr></table>
 

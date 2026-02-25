@@ -1,8 +1,66 @@
+---
+title: Jeremiah 13:21
+type: Verse
+kjv: "What wilt thou say when he shall punish thee? for thou hast taught them to be captains, and as chief over thee: shall not sorrows take thee, as a woman in travail?"
+bsb: "What will you say when He sets over you close allies whom you yourself trained? Will not pangs of anguish grip you, as they do a woman in labor?"
+hebrew: "מַה־ תֹּֽאמְרִי֙ כִּֽי־ יִפְקֹ֣ד עָלַ֔יִךְ וְ֠אַתְּ לִמַּ֨דְתְּ אֹתָ֥ם עָלַ֛יִךְ אַלֻּפִ֖ים לְרֹ֑אשׁ הֲל֤וֹא חֲבָלִים֙ יֹאחֱז֔וּךְ כְּמ֖וֹ אֵ֥שֶׁת לֵדָֽה׃"
+pericope: "[[Jer.13.15 Captivity Threatened|Captivity Threatened]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H6485J]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H0859C]]"
+- "[[H3925G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0441A]]"
+- "[[H9005]]"
+- "[[H7218H]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H2256B]]"
+- "[[H0270]]"
+- "[[H3644G]]"
+- "[[H0802G]]"
+- "[[H3205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 13:21**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What wilt thou say when he shall punish thee? for thou hast taught them [to be] captains, [and] as chief over thee: shall not sorrows take thee, as a woman in travail?
 <small><sub>**BSB:**</sub></small>
 What will you say when He sets over you close allies whom you yourself trained? Will not pangs of anguish grip you, as they do a woman in labor?
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מַה]][[H9014\|־]] [[H0559\|תֹּֽאמְרִי֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6485J\|יִפְקֹ֣ד]] [[H5921A\|עָלַ֔יִ]][[H9032\|ךְ]] [[H9002\|וְ֠]][[H0859C\|אַתְּ]] [[H3925G\|לִמַּ֨דְתְּ]] [[H0853\|אֹתָ֥]][[H9038\|ם]] [[H5921A\|עָלַ֛יִ]][[H9032\|ךְ]] [[H0441A\|אַלֻּפִ֖ים]] [[H9005\|לְ]][[H7218H\|רֹ֑אשׁ]] [[H9008\|הֲ]][[H3808\|ל֤וֹא]] [[H2256B\|חֲבָלִים֙]] [[H0270\|יֹאחֱז֔וּ]][[H9032\|ךְ]] [[H3644G\|כְּמ֖וֹ]] [[H0802G\|אֵ֥שֶׁת]] [[H3205\|לֵדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.20|<< Jeremiah 13:20]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.22|Jeremiah 13:22 >>]]</td></tr></table>
 

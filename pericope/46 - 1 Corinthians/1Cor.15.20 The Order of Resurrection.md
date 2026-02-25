@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Order of Resurrection
+type: Pericope
 pericope: "[[1Cor.15.20 The Order of Resurrection|The Order of Resurrection]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 15
 book/chapter: "[[1Cor.15|1 Corinthians 15]]"
-genre:
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 15
 verses:
 - "[[1Cor.15.20]]"
 - "[[1Cor.15.21]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Cor.15.34]]"
 ---
 
-[[1Cor.15|1 Corinthians 15:20 - 1 Corinthians 15:34]]
+<small>[[1Cor.15|1 Corinthians 15:20-34]]</small>
 *The Order of Resurrection*
 
 [[1Cor.15.20|20]] But now is Christ risen from the dead, \[and\] become the firstfruits of them that slept.

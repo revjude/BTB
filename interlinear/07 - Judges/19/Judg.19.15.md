@@ -1,8 +1,63 @@
+---
+title: Judges 19:15
+type: Verse
+kjv: "And they turned aside thither, to go in and to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for there was no man that took them into his house to lodging."
+bsb: "They stopped to go in and lodge in Gibeah. The Levite went in and sat down in the city square, but no one would take them into his home for the night."
+hebrew: "וַיָּסֻ֣רוּ שָׁ֔ם לָב֖וֹא לָל֣וּן בַּגִּבְעָ֑ה וַיָּבֹ֗א וַיֵּ֙שֶׁב֙ בִּרְח֣וֹב הָעִ֔יר וְאֵ֥ין אִ֛ישׁ מְאַסֵּֽף־ אוֹתָ֥ם הַבַּ֖יְתָה לָלֽוּן׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493I]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H3885A]]"
+- "[[H9003]]"
+- "[[H1390H]]"
+- "[[H3427]]"
+- "[[H7339]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H0376I]]"
+- "[[H0622]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:15**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they turned aside thither, to go in [and] to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for [there was] no man that took them into his house to lodging.
 <small><sub>**BSB:**</sub></small>
 They stopped to go in and lodge in Gibeah. The Levite went in and sat down in the city square, but no one would take them into his home for the night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493I\|יָּסֻ֣רוּ]] [[H8033G\|שָׁ֔ם]] [[H9005\|לָ]][[H0935G\|ב֖וֹא]] [[H9005\|לָ]][[H3885A\|ל֣וּן]] [[H9003\|בַּ]][[H1390H\|גִּבְעָ֑ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֗א]] [[H9001\|וַ]][[H3427\|יֵּ֙שֶׁב֙]] [[H9003\|בִּ]][[H7339\|רְח֣וֹב]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H0376I\|אִ֛ישׁ]] [[H0622\|מְאַסֵּֽף]][[H9014\|־]] [[H0853\|אוֹתָ֥]][[H9038\|ם]] [[H9009\|הַ]][[H1004B\|בַּ֖יְתָ]][[H9011\|ה]] [[H9005\|לָ]][[H3885A\|לֽוּן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.14|<< Judges 19:14]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.16|Judges 19:16 >>]]</td></tr></table>
 

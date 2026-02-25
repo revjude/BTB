@@ -1,8 +1,65 @@
+---
+title: Ecclesiastes 9:6
+type: Verse
+kjv: "Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun."
+bsb: "Their love, their hate, and their envy have already vanished, and they will never again have a share in all that is done under the sun."
+hebrew: "גַּ֣ם אַהֲבָתָ֧ם גַּם־ שִׂנְאָתָ֛ם גַּם־ קִנְאָתָ֖ם כְּבָ֣ר אָבָ֑דָה וְחֵ֨לֶק אֵין־ לָהֶ֥ם עוֹד֙ לְעוֹלָ֔ם בְּכֹ֥ל אֲשֶֽׁר־ נַעֲשָׂ֖ה תַּ֥חַת הַשָּֽׁמֶשׁ׃"
+pericope: "[[Eccl.9.1 Death Comes to Good and Bad|Death Comes to Good and Bad]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HADES|HADES]]"
+strongs:
+- "[[H1571]]"
+- "[[H0160]]"
+- "[[H9028]]"
+- "[[H9014]]"
+- "[[H8135]]"
+- "[[H7068]]"
+- "[[H3528]]"
+- "[[H0006]]"
+- "[[H9002]]"
+- "[[H2506A]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5750]]"
+- "[[H5769G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 9:6**<big><big>[[Eccl.9.1 Death Comes to Good and Bad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any [thing] that is done under the sun.
 <small><sub>**BSB:**</sub></small>
 Their love, their hate, and their envy have already vanished, and they will never again have a share in all that is done under the sun.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֣ם]] [[H0160\|אַהֲבָתָ֧]][[H9028\|ם]] [[H1571\|גַּם]][[H9014\|־]] [[H8135\|שִׂנְאָתָ֛]][[H9028\|ם]] [[H1571\|גַּם]][[H9014\|־]] [[H7068\|קִנְאָתָ֖]][[H9028\|ם]] [[H3528\|כְּבָ֣ר]] [[H0006\|אָבָ֑דָה]] [[H9002\|וְ]][[H2506A\|חֵ֨לֶק]] [[H0369\|אֵין]][[H9014\|־]] [[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H5750\|עוֹד֙]] [[H9005\|לְ]][[H5769G\|עוֹלָ֔ם]] [[H9003\|בְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H6213A\|נַעֲשָׂ֖ה]] [[H8478G\|תַּ֥חַת]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DEATH|DEATH]] • [[topic HADES|HADES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.5|<< Ecclesiastes 9:5]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.7|Ecclesiastes 9:7 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 28:37
+type: Verse
+kjv: "And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee."
+bsb: "You will become an object of horror, scorn, and ridicule among all the nations to which the LORD will drive you."
+hebrew: "וְהָיִ֣יתָ לְשַׁמָּ֔ה לְמָשָׁ֖ל וְלִשְׁנִינָ֑ה בְּכֹל֙ הָֽעַמִּ֔ים אֲשֶׁר־ יְנַהֶגְךָ֥ יְהוָ֖ה שָֽׁמָּה׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8047H]]"
+- "[[H4912]]"
+- "[[H9002]]"
+- "[[H8148]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5090A]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:37**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee.
 <small><sub>**BSB:**</sub></small>
 You will become an object of horror, scorn, and ridicule among all the nations to which the LORD will drive you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיִ֣יתָ]] [[H9005\|לְ]][[H8047H\|שַׁמָּ֔ה]] [[H9005\|לְ]][[H4912\|מָשָׁ֖ל]] [[H9002\|וְ]][[H9005\|לִ]][[H8148\|שְׁנִינָ֑ה]] [[H9003\|בְּ]][[H3605\|כֹל֙]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5090A\|יְנַהֶגְ]][[H9031\|ךָ֥]] [[H3068G\|יְהוָ֖ה]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.36|<< Deuteronomy 28:36]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.38|Deuteronomy 28:38 >>]]</td></tr></table>
 

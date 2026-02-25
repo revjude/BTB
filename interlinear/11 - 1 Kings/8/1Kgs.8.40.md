@@ -1,8 +1,66 @@
+---
+title: 1 Kings 8:40
+type: Verse
+kjv: "That they may fear thee all the days that they live in the land which thou gavest unto our fathers."
+bsb: "so that they may fear You all the days they live in the land that You gave to our fathers."
+hebrew: "לְמַ֙עַן֙ יִֽרָא֔וּךָ כָּל־ הַ֨יָּמִ֔ים אֲשֶׁר־ הֵ֥ם חַיִּ֖ים עַל־ פְּנֵ֣י הָאֲדָמָ֑ה אֲשֶׁ֥ר נָתַ֖תָּה לַאֲבֹתֵֽינוּ׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H4616]]"
+- "[[H3372G]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H2416A]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0127G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:40**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they may fear thee all the days that they live in the land which thou gavest unto our fathers.
 <small><sub>**BSB:**</sub></small>
 so that they may fear You all the days they live in the land that You gave to our fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֙עַן֙]] [[H3372G\|יִֽרָא֔וּ]][[H9031\|ךָ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֨]][[H3117G\|יָּמִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֥ם]] [[H2416A\|חַיִּ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֑ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תָּה]] [[H9005\|לַ]][[H0001G\|אֲבֹתֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVERENCE|REVERENCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.39|<< 1 Kings 8:39]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.41|1 Kings 8:41 >>]]</td></tr></table>
 

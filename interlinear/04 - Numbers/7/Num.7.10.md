@@ -1,8 +1,61 @@
+---
+title: Numbers 7:10
+type: Verse
+kjv: "And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar."
+bsb: "When the altar was anointed, the leaders approached with their offerings for its dedication and presented them before the altar."
+hebrew: "וַיַּקְרִ֣יבוּ הַנְּשִׂאִ֗ים אֵ֚ת חֲנֻכַּ֣ת הַמִּזְבֵּ֔חַ בְּי֖וֹם הִמָּשַׁ֣ח אֹת֑וֹ וַיַּקְרִ֧יבוּ הַנְּשִׂיאִ֛ם אֶת־ קָרְבָּנָ֖ם לִפְנֵ֥י הַמִּזְבֵּֽחַ׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H0853]]"
+- "[[H2598]]"
+- "[[H4196]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H4886]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H7133A]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:10**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar.
 <small><sub>**BSB:**</sub></small>
 When the altar was anointed, the leaders approached with their offerings for its dedication and presented them before the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7126H\|יַּקְרִ֣יבוּ]] [[H9009\|הַ]][[H5387A\|נְּשִׂאִ֗ים]] [[H0853\|אֵ֚ת]] [[H2598\|חֲנֻכַּ֣ת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9003\|בְּ]][[H3117G\|י֖וֹם]] [[H4886\|הִמָּשַׁ֣ח]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H7126H\|יַּקְרִ֧יבוּ]] [[H9009\|הַ]][[H5387A\|נְּשִׂיאִ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבָּנָ֖]][[H9028\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.9|<< Numbers 7:9]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.11|Numbers 7:11 >>]]</td></tr></table>
 

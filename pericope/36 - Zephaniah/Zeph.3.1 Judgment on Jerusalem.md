@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Jerusalem
+type: Pericope
 pericope: "[[Zeph.3.1 Judgment on Jerusalem|Judgment on Jerusalem]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 3
 book/chapter: "[[Zeph.3|Zephaniah 3]]"
-genre:
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 5
 verses:
 - "[[Zeph.3.1]]"
 - "[[Zeph.3.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Zeph.3.5]]"
 ---
 
-[[Zeph.3|Zephaniah 3:1 - Zephaniah 3:5]]
+<small>[[Zeph.3|Zephaniah 3:1-5]]</small>
 *Judgment on Jerusalem*
 
 [[Zeph.3.1|1]] Woe to her that is filthy and polluted, to the oppressing city!

@@ -1,8 +1,71 @@
+---
+title: Joshua 4:7
+type: Verse
+kjv: "Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the LORD; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel for ever."
+bsb: "you are to tell them, ‘The waters of the Jordan were cut off before the ark of the covenant of the LORD. When it crossed the Jordan, the waters were cut off.’ Therefore these stones will be a memorial to the Israelites forever.”"
+hebrew: "וַאֲמַרְתֶּ֣ם לָהֶ֗ם אֲשֶׁ֨ר נִכְרְת֜וּ מֵימֵ֤י הַיַּרְדֵּן֙ מִפְּנֵי֙ אֲר֣וֹן בְּרִית־ יְהוָ֔ה בְּעָבְרוֹ֙ בַּיַּרְדֵּ֔ן נִכְרְת֖וּ מֵ֣י הַיַּרְדֵּ֑ן וְ֠הָיוּ הָאֲבָנִ֨ים הָאֵ֧לֶּה לְזִכָּר֛וֹן לִבְנֵ֥י יִשְׂרָאֵ֖ל עַד־ עוֹלָֽם׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0834A]]"
+- "[[H3772G]]"
+- "[[H4325G]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H1285]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5674A]]"
+- "[[H9043]]"
+- "[[H1961]]"
+- "[[H0068G]]"
+- "[[H0428]]"
+- "[[H2146]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5704]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:7**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the LORD; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel for ever.
 <small><sub>**BSB:**</sub></small>
 you are to tell them, ‘The waters of the Jordan were cut off before the ark of the covenant of the LORD. When it crossed the Jordan, the waters were cut off.’ Therefore these stones will be a memorial to the Israelites forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֣ם]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3772G\|נִכְרְת֜וּ]] [[H4325G\|מֵימֵ֤י]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי֙]] [[H0727\|אֲר֣וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H5674A\|עָבְר]][[H9043\|וֹ֙]] [[H9003\|בַּ]][[H3383\|יַּרְדֵּ֔ן]] [[H3772G\|נִכְרְת֖וּ]] [[H4325G\|מֵ֣י]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9001\|וְ֠]][[H1961\|הָיוּ]] [[H9009\|הָ]][[H0068G\|אֲבָנִ֨ים]] [[H9009\|הָ]][[H0428\|אֵ֧לֶּה]] [[H9005\|לְ]][[H2146\|זִכָּר֛וֹן]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PILLAR|PILLAR]] • [[topic STONES|STONES]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.6|<< Joshua 4:6]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.8|Joshua 4:8 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Birth of Jesus
+type: Pericope
 pericope: "[[Matt.1.18 The Birth of Jesus|The Birth of Jesus]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 1
 book/chapter: "[[Matt.1|Matthew 1]]"
-genre:
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.1.18]]"
 - "[[Matt.1.19]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.1.25]]"
 ---
 
-[[Matt.1|Matthew 1:18 - Matthew 1:25]]
+<small>[[Matt.1|Matthew 1:18-25]]</small>
 *The Birth of Jesus*
 
 [[Matt.1.18|18]] Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.

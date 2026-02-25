@@ -1,8 +1,62 @@
+---
+title: Isaiah 61:7
+type: Verse
+kjv: "For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them."
+bsb: "Instead of shame, My people will have a double portion, and instead of humiliation, they will rejoice in their share; and so they will inherit a double portion in their land, and everlasting joy will be theirs."
+hebrew: "תַּ֤חַת בָּשְׁתְּכֶם֙ מִשְׁנֶ֔ה וּכְלִמָּ֖ה יָרֹ֣נּוּ חֶלְקָ֑ם לָכֵ֤ן בְּאַרְצָם֙ מִשְׁנֶ֣ה יִירָ֔שׁוּ שִׂמְחַ֥ת עוֹלָ֖ם תִּֽהְיֶ֥ה לָהֶֽם׃"
+pericope: "[[Isa.61.1 The Year of the LORD’s Favor|The Year of the LORD’s Favor]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 61
+book/chapter: "[[Isa.61|Isaiah 61]]"
+chronological_order: 700
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H8478H]]"
+- "[[H1322]]"
+- "[[H9026]]"
+- "[[H4932H]]"
+- "[[H9002]]"
+- "[[H3639]]"
+- "[[H7442B]]"
+- "[[H2506A]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3423G]]"
+- "[[H8057]]"
+- "[[H5769G]]"
+- "[[H1961]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 61:7**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For your shame [ye shall have] double; and [for] confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.
 <small><sub>**BSB:**</sub></small>
 Instead of shame, My people will have a double portion, and instead of humiliation, they will rejoice in their share; and so they will inherit a double portion in their land, and everlasting joy will be theirs.
+<small><sub>**Hebrew:**</sub></small>
+[[H8478H\|תַּ֤חַת]] [[H1322\|בָּשְׁתְּ]][[H9026\|כֶם֙]] [[H4932H\|מִשְׁנֶ֔ה]] [[H9002\|וּ]][[H3639\|כְלִמָּ֖ה]] [[H7442B\|יָרֹ֣נּוּ]] [[H2506A\|חֶלְקָ֑]][[H9028\|ם]] [[H9005\|לָ]][[H3651C\|כֵ֤ן]] [[H9003\|בְּ]][[H0776G\|אַרְצָ]][[H9028\|ם֙]] [[H4932H\|מִשְׁנֶ֣ה]] [[H3423G\|יִירָ֔שׁוּ]] [[H8057\|שִׂמְחַ֥ת]] [[H5769G\|עוֹלָ֖ם]] [[H1961\|תִּֽהְיֶ֥ה]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.6|<< Isaiah 61:6]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.8|Isaiah 61:8 >>]]</td></tr></table>
 

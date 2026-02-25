@@ -1,8 +1,69 @@
+---
+title: Jeremiah 27:13
+type: Verse
+kjv: "Why will ye die, thou and thy people, by the sword, by the famine, and by the pestilence, as the LORD hath spoken against the nation that will not serve the king of Babylon?"
+bsb: "Why should you and your people die by sword and famine and plague, as the LORD has decreed against any nation that does not serve the king of Babylon?"
+hebrew: "לָ֤מָּה תָמ֙וּתוּ֙ אַתָּ֣ה וְעַמֶּ֔ךָ בַּחֶ֖רֶב בָּרָעָ֣ב וּבַדָּ֑בֶר֙ כַּֽאֲשֶׁר֙ דִּבֶּ֣ר יְהוָ֔ה אֶל־ הַגּ֕וֹי אֲשֶׁ֥ר לֹֽא־ יַעֲבֹ֖ד אֶת־ מֶ֥לֶךְ בָּבֶֽל׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H4191]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H1698]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:13**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Why will ye die, thou and thy people, by the sword, by the famine, and by the pestilence, as the LORD hath spoken against the nation that will not serve the king of Babylon?
 <small><sub>**BSB:**</sub></small>
 Why should you and your people die by sword and famine and plague, as the LORD has decreed against any nation that does not serve the king of Babylon?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֤]][[H4100\|מָּה]] [[H4191\|תָמ֙וּתוּ֙]] [[H0859A\|אַתָּ֣ה]] [[H9002\|וְ]][[H5971A\|עַמֶּ֔]][[H9021\|ךָ]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H9003\|בָּ]][[H7458\|רָעָ֣ב]] [[H9002\|וּ]][[H9003\|בַ]][[H1698\|דָּ֑בֶר֙]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר֙]] [[H1696G\|דִּבֶּ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּ֕וֹי]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5647G\|יַעֲבֹ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.12|<< Jeremiah 27:12]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.14|Jeremiah 27:14 >>]]</td></tr></table>
 

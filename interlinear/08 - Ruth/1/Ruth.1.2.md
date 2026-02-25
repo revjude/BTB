@@ -1,8 +1,68 @@
+---
+title: Ruth 1:2
+type: Verse
+kjv: "And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there."
+bsb: "The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there."
+hebrew: "וְשֵׁ֣ם הָאִ֣ישׁ אֱֽלִימֶ֡לֶךְ וְשֵׁם֩ אִשְׁתּ֨וֹ נָעֳמִ֜י וְשֵׁ֥ם שְׁנֵֽי־ בָנָ֣יו׀ מַחְל֤וֹן וְכִלְיוֹן֙ אֶפְרָתִ֔ים מִבֵּ֥ית לֶ֖חֶם יְהוּדָ֑ה וַיָּבֹ֥אוּ שְׂדֵי־ מוֹאָ֖ב וַיִּֽהְיוּ־ שָֽׁם׃"
+pericope: "[[Ruth.1.1 Naomi Becomes a Widow|Naomi Becomes a Widow]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CHILION|CHILION]]"
+- "[[topic ELIMELECH|ELIMELECH]]"
+- "[[topic MAHLON|MAHLON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0458]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H5281]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9015]]"
+- "[[H4248]]"
+- "[[H3630]]"
+- "[[H0673H]]"
+- "[[H9006]]"
+- "[[H1035G]]"
+- "[[H3063G]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H7704G]]"
+- "[[H4124G]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:2**<big><big>[[Ruth.1.1 Naomi Becomes a Widow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the name of the man [was] Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.
 <small><sub>**BSB:**</sub></small>
 The man’s name was Elimelech, his wife’s name was Naomi, and the names of his two sons were Mahlon and Chilion. They were Ephrathites from Bethlehem in Judah, and they entered the land of Moab and settled there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H0458\|אֱֽלִימֶ֡לֶךְ]] [[H9002\|וְ]][[H8034\|שֵׁם֩]] [[H0802H\|אִשְׁתּ֨]][[H9023\|וֹ]] [[H5281\|נָעֳמִ֜י]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H1121A\|בָנָ֣י]][[H9023\|ו]][[H9015\|׀]] [[H4248\|מַחְל֤וֹן]] [[H9002\|וְ]][[H3630\|כִלְיוֹן֙]] [[H0673H\|אֶפְרָתִ֔ים]] [[H9006\|מִ]][[H1035G\|בֵּ֥ית]] [[H1035G\|לֶ֖חֶם]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥אוּ]] [[H7704G\|שְׂדֵי]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H9001\|וַ]][[H1961\|יִּֽהְיוּ]][[H9014\|־]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILION|CHILION]] • [[topic ELIMELECH|ELIMELECH]] • [[topic MAHLON|MAHLON]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.1|<< Ruth 1:1]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.3|Ruth 1:3 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 30:1
+type: Verse
+kjv: "And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the LORD at Jerusalem, to keep the passover unto the LORD God of Israel."
+bsb: "Then Hezekiah sent word throughout all Israel and Judah, and he also wrote letters to Ephraim and Manasseh inviting them to come to the house of the LORD in Jerusalem to keep the Passover of the LORD, the God of Israel."
+hebrew: "וַיִּשְׁלַ֨ח יְחִזְקִיָּ֜הוּ עַל־ כָּל־ יִשְׂרָאֵ֣ל וִֽיהוּדָ֗ה וְגַֽם־ אִגְּרוֹת֙ כָּתַב֙ עַל־ אֶפְרַ֣יִם וּמְנַשֶּׁ֔ה לָב֥וֹא לְבֵית־ יְהוָ֖ה בִּֽירוּשָׁלִָ֑ם לַעֲשׂ֣וֹת פֶּ֔סַח לַיהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.30.1 Hezekiah Proclaims a Passover|Hezekiah Proclaims a Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 30
+book/chapter: "[[2Chr.30|2 Chronicles 30]]"
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DERISION|DERISION]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H2396G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H1571]]"
+- "[[H0107]]"
+- "[[H3789]]"
+- "[[H0669G]]"
+- "[[H4519G]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H6213A]]"
+- "[[H6453]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 30:1**<big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the LORD at Jerusalem, to keep the passover unto the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
 Then Hezekiah sent word throughout all Israel and Judah, and he also wrote letters to Ephraim and Manasseh inviting them to come to the house of the LORD in Jerusalem to keep the Passover of the LORD, the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H2396G\|יְחִזְקִיָּ֜הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H9002\|וִֽ]][[H3063G\|יהוּדָ֗ה]] [[H9002\|וְ]][[H1571\|גַֽם]][[H9014\|־]] [[H0107\|אִגְּרוֹת֙]] [[H3789\|כָּתַב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0669G\|אֶפְרַ֣יִם]] [[H9002\|וּ]][[H4519G\|מְנַשֶּׁ֔ה]] [[H9005\|לָ]][[H0935G\|ב֥וֹא]] [[H9005\|לְ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בִּֽ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H6453\|פֶּ֔סַח]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DERISION|DERISION]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic PROCLAMATION|PROCLAMATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.36|<< 2 Chronicles 29:36]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.2|2 Chronicles 30:2 >>]]</td></tr></table>
 

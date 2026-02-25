@@ -1,8 +1,73 @@
+---
+title: Judges 8:5
+type: Verse
+kjv: "And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they be faint, and I am pursuing after Zebah and Zalmunna, kings of Midian."
+bsb: "So Gideon said to the men of Succoth, “Please give my troops some bread, for they are exhausted, and I am still pursuing Zebah and Zalmunna, the kings of Midian.”"
+hebrew: "וַיֹּ֙אמֶר֙ לְאַנְשֵׁ֣י סֻכּ֔וֹת תְּנוּ־ נָא֙ כִּכְּר֣וֹת לֶ֔חֶם לָעָ֖ם אֲשֶׁ֣ר בְּרַגְלָ֑י כִּי־ עֲיֵפִ֣ים הֵ֔ם וְאָנֹכִ֗י רֹדֵ֛ף אַחֲרֵ֛י זֶ֥בַח וְצַלְמֻנָּ֖ע מַלְכֵ֥י מִדְיָֽן׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H0582]]"
+- "[[H5523G]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3603H]]"
+- "[[H3899H]]"
+- "[[H5971K]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H5889]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H2078]]"
+- "[[H6759]]"
+- "[[H4428G]]"
+- "[[H4080H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:5**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they [be] faint, and I am pursuing after Zebah and Zalmunna, kings of Midian.
 <small><sub>**BSB:**</sub></small>
 So Gideon said to the men of Succoth, “Please give my troops some bread, for they are exhausted, and I am still pursuing Zebah and Zalmunna, the kings of Midian.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H9005\|לְ]][[H0582\|אַנְשֵׁ֣י]] [[H5523G\|סֻכּ֔וֹת]] [[H5414G\|תְּנוּ]][[H9014\|־]] [[H4994\|נָא֙]] [[H3603H\|כִּכְּר֣וֹת]] [[H3899H\|לֶ֔חֶם]] [[H9005\|לָ]][[H5971K\|עָ֖ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H7272\|רַגְלָ֑]][[H9020\|י]] [[H3588A\|כִּי]][[H9014\|־]] [[H5889\|עֲיֵפִ֣ים]] [[H1992\|הֵ֔ם]] [[H9002\|וְ]][[H0595\|אָנֹכִ֗י]] [[H7291\|רֹדֵ֛ף]] [[H0310A\|אַחֲרֵ֛י]] [[H2078\|זֶ֥בַח]] [[H9002\|וְ]][[H6759\|צַלְמֻנָּ֖ע]] [[H4428G\|מַלְכֵ֥י]] [[H4080H\|מִדְיָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEON|GIDEON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SUCCOTH|SUCCOTH]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.4|<< Judges 8:4]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.6|Judges 8:6 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Leviticus 24:5
+type: Verse
+kjv: "And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake."
+bsb: "You are also to take fine flour and bake twelve loaves, using two-tenths of an ephah for each loaf,"
+hebrew: "וְלָקַחְתָּ֣ סֹ֔לֶת וְאָפִיתָ֣ אֹתָ֔הּ שְׁתֵּ֥ים עֶשְׂרֵ֖ה חַלּ֑וֹת שְׁנֵי֙ עֶשְׂרֹנִ֔ים יִהְיֶ֖ה הַֽחַלָּ֥ה הָאֶחָֽת׃"
+pericope: "[[Lev.24.5 The Showbread|The Showbread]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H5560]]"
+- "[[H0644]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H2471]]"
+- "[[H6241]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 24:5**<big><big>[[Lev.24.5 The Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake.
 <small><sub>**BSB:**</sub></small>
 You are also to take fine flour and bake twelve loaves, using two-tenths of an ephah for each loaf,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֣]] [[H5560\|סֹ֔לֶת]] [[H9001\|וְ]][[H0644\|אָפִיתָ֣]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H8147\|שְׁתֵּ֥ים]] [[H6240\|עֶשְׂרֵ֖ה]] [[H2471\|חַלּ֑וֹת]] [[H8147\|שְׁנֵי֙]] [[H6241\|עֶשְׂרֹנִ֔ים]] [[H1961\|יִהְיֶ֖ה]] [[H9009\|הַֽ]][[H2471\|חַלָּ֥ה]] [[H9009\|הָ]][[H0259\|אֶחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic PRIEST|PRIEST]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.4|<< Leviticus 24:4]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.6|Leviticus 24:6 >>]]</td></tr></table>
 

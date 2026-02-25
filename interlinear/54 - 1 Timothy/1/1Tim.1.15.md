@@ -1,10 +1,61 @@
+---
+title: 1 Timothy 1:15
+type: Verse
+kjv: "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief."
+bsb: "This is a trustworthy saying, worthy of full acceptance: Christ Jesus came into the world to save sinners, of whom I am the worst."
+greek: "Πιστὸς ὁ λόγος καὶ πάσης ἀποδοχῆς ἄξιος ὅτι Χριστὸς Ἰησοῦς ἦλθεν εἰς τὸν κόσμον ἁμαρτωλοὺς σῶσαι, ὧν πρῶτός εἰμι ἐγώ·"
+pericope: "[[1Tim.1.12 God’s Grace to Paul|God’s Grace to Paul]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 1
+book/chapter: "[[1Tim.1|1 Timothy 1]]"
+chronological_order: 1126
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G4103]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0594]]"
+- "[[G0514]]"
+- "[[G3754G]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G2889]]"
+- "[[G0268]]"
+- "[[G4982]]"
+- "[[G3739]]"
+- "[[G4413J]]"
+- "[[G1510]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **1 Timothy 1:15**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This [is] a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief.
 <small><sub>**BSB:**</sub></small>
 This is a trustworthy saying, worthy of full acceptance: Christ Jesus came into the world to save sinners, of whom I am the worst.
-<small><sub>**Literal:**</sub></small>
-Trustworthy [is] the saying and of full acceptance worthy that Christ Jesus came into the world sinners to save, of whom [the] foremost am I myself;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.14|<< 1 Timothy 1:14]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.16|1 Timothy 1:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4103\|Πιστὸς]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G2532\|καὶ]]  [[G3956\|πάσης]]  [[G0594\|ἀποδοχῆς]]  [[G0514\|ἄξιος]]  [[G3754G\|ὅτι]]  [[G5547\|Χριστὸς]]  [[G2424G\|Ἰησοῦς]]  [[G2064\|ἦλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G0268\|ἁμαρτωλοὺς]]  [[G4982\|σῶσαι,]]  [[G3739\|ὧν]]  [[G4413J\|πρῶτός]]  [[G1510\|εἰμι]]  [[G1473\|ἐγώ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.14|<< 1 Timothy 1:14]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.16|1 Timothy 1:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

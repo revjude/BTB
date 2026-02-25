@@ -1,8 +1,58 @@
+---
+title: Job 31:17
+type: Verse
+kjv: "Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;"
+bsb: "if I have eaten my morsel alone, not sharing it with the fatherless—"
+hebrew: "וְאֹכַ֣ל פִּתִּ֣י לְבַדִּ֑י וְלֹא־ אָכַ֖ל יָת֣וֹם מִמֶּֽנָּה׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0398]]"
+- "[[H6595A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3490]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:17**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or have eaten my morsel myself alone, and the fatherless hath not eaten thereof;
 <small><sub>**BSB:**</sub></small>
 if I have eaten my morsel alone, not sharing it with the fatherless—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0398\|אֹכַ֣ל]] [[H6595A\|פִּתִּ֣]][[H9020\|י]] [[H9005\|לְ]][[H0905H\|בַדִּ֑]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0398\|אָכַ֖ל]] [[H3490\|יָת֣וֹם]] [[H4480A\|מִמֶּֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ORPHAN|ORPHAN]] • [[topic POOR|POOR]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.16|<< Job 31:16]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.18|Job 31:18 >>]]</td></tr></table>
 

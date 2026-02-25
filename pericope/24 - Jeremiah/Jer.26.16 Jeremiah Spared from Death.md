@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Spared from Death
+type: Pericope
 pericope: "[[Jer.26.16 Jeremiah Spared from Death|Jeremiah Spared from Death]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 26
 book/chapter: "[[Jer.26|Jeremiah 26]]"
-genre:
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 4
 verses:
 - "[[Jer.26.16]]"
 - "[[Jer.26.17]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jer.26.19]]"
 ---
 
-[[Jer.26|Jeremiah 26:16 - Jeremiah 26:19]]
+<small>[[Jer.26|Jeremiah 26:16-19]]</small>
 *Jeremiah Spared from Death*
 
 [[Jer.26.16|16]] Then said the princes and all the people unto the priests and to the prophets; This man \[is\] not worthy to die: for he hath spoken to us in the name of the LORD our God.

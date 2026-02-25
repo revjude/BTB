@@ -1,10 +1,75 @@
+---
+title: Acts 9:11
+type: Verse
+kjv: "And the Lord said unto him, Arise, and go into the street which is called Straight, and inquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
+bsb: "“Get up!” the Lord told him. “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying."
+jesus_said: "Arise, and go into the street which is called Straight, and enquire in the house of Judas for one called Saul, of Tarsus: for, behold, he prayeth,"
+greek: "ὁ δὲ κύριος πρὸς αὐτόν· ἀναστὰς πορεύθητι ἐπὶ τὴν ῥύμην τὴν καλουμένην εὐθεῖαν καὶ ζήτησον ἐν οἰκίᾳ Ἰούδα Σαῦλον ὀνόματι Ταρσέα· ἰδοὺ γὰρ προσεύχεται"
+pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic STRAIGHT|STRAIGHT]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic TARSUS|TARSUS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2962G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G0450]]"
+- "[[G4198]]"
+- "[[G1909]]"
+- "[[G4505]]"
+- "[[G2564G]]"
+- "[[G2117]]"
+- "[[G2532]]"
+- "[[G2212]]"
+- "[[G1722]]"
+- "[[G3614G]]"
+- "[[G2455L]]"
+- "[[G4569G]]"
+- "[[G3686]]"
+- "[[G5018]]"
+- "[[G2400]]"
+- "[[G1063]]"
+- "[[G4336]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 9:11**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Lord [said] unto him, Arise, and go into the street which is called Straight, and inquire in the house of Judas for [one] called Saul, of Tarsus: for, behold, he prayeth,
 <small><sub>**BSB:**</sub></small>
 “Get up!” the Lord told him. “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying.
-<small><sub>**Literal:**</sub></small>
-<the> And the Lord to him [said]; Having risen up do go into the street which is being called Straight and do seek in [the] house of Judas Saul named of Tarsus; Behold for he is praying<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.10|<< Acts 9:10]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.12|Acts 9:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2962G\|κύριος]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G0450\|ἀναστὰς]]  [[G4198\|πορεύθητι]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G4505\|ῥύμην]]  [[G3588\|τὴν]]  [[G2564G\|καλουμένην]]  [[G2117\|εὐθεῖαν]]  [[G2532\|καὶ]]  [[G2212\|ζήτησον]]  [[G1722\|ἐν]]  [[G3614G\|οἰκίᾳ]]  [[G2455L\|Ἰούδα]]  [[G4569G\|Σαῦλον]]  [[G3686\|ὀνόματι]]  [[G5018\|Ταρσέα·]]  [[G2400\|ἰδοὺ]]  [[G1063\|γὰρ]]  [[G4336\|προσεύχεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic CONVERTS|CONVERTS]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRAYER|PRAYER]] • [[topic REGENERATION|REGENERATION]] • [[topic STRAIGHT|STRAIGHT]] • [[topic SYRIA|SYRIA]] • [[topic TARSUS|TARSUS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.10|<< Acts 9:10]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.12|Acts 9:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 1:8
+type: Verse
+kjv: "Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them."
+bsb: "See, I have placed the land before you. Enter and possess the land that the LORD swore He would give to your fathers Abraham, Isaac, and Jacob, and to their descendants after them.”"
+hebrew: "רְאֵ֛ה נָתַ֥תִּי לִפְנֵיכֶ֖ם אֶת־ הָאָ֑רֶץ בֹּ֚אוּ וּרְשׁ֣וּ אֶת־ הָאָ֔רֶץ אֲשֶׁ֣ר נִשְׁבַּ֣ע יְ֠הוָה לַאֲבֹ֨תֵיכֶ֜ם לְאַבְרָהָ֨ם לְיִצְחָ֤ק וּֽלְיַעֲקֹב֙ לָתֵ֣ת לָהֶ֔ם וּלְזַרְעָ֖ם אַחֲרֵיהֶֽם׃"
+pericope: "[[Deut.1.1 The Command to Leave Horeb|The Command to Leave Horeb]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic JACOB|JACOB]]"
+strongs:
+- "[[H7200I]]"
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H3423H]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H3068G]]"
+- "[[H0001G]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H3290]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H2233H]]"
+- "[[H9028]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:8**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.
 <small><sub>**BSB:**</sub></small>
 See, I have placed the land before you. Enter and possess the land that the LORD swore He would give to your fathers Abraham, Isaac, and Jacob, and to their descendants after them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7200I\|רְאֵ֛ה]] [[H5414H\|נָתַ֥תִּי]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0935G\|בֹּ֚אוּ]] [[H9002\|וּ]][[H3423H\|רְשׁ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7650\|נִשְׁבַּ֣ע]] [[H3068G\|יְ֠הוָה]] [[H9005\|לַ]][[H0001G\|אֲבֹ֨תֵי]][[H9026\|כֶ֜ם]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֨ם]] [[H9005\|לְ]][[H3327\|יִצְחָ֤ק]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3290\|יַעֲקֹב֙]] [[H9005\|לָ]][[H5414G\|תֵ֣ת]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9002\|וּ]][[H9005\|לְ]][[H2233H\|זַרְעָ֖]][[H9028\|ם]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.7|<< Deuteronomy 1:7]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.9|Deuteronomy 1:9 >>]]</td></tr></table>
 

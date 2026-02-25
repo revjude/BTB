@@ -1,6 +1,69 @@
+---
+title: LXX Jeremiah 24:9
+type: Verse
+lxx: "And I will appoint them for being dispersed into all the kingdoms of the earth, and they will be for scorning, and for a parable, and for hatred, and for a curse in every place where I shall push them there."
+greek: "και δώσω αυτούς εις διασκορπισμόν εις πάσας τας βασιλείας της γης και έσονται εις ονειδισμόν και εις παραβολήν και εις μίσος και εις κατάραν εν παντί τόπω ου εξώσω αυτούς εκεί"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 24
+book/chapter: "[[Jer.24|Jeremiah 24]]"
+chronological_order: 747
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DISPERSION|DISPERSION]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G6879]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1519]]"
+- "[[G3680]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G3850]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G8332]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G2671]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G5117]]"
+- "[[G3739]]"
+- "[[G1856]]"
+- "[[G1473]]"
+- "[[G1563]]"
+---
+
 **LXX Jeremiah 24:9** 
 <small><sub>**LXX:**</sub></small>
 And I will appoint them for being dispersed into all the kingdoms of the earth, and they will be for scorning, and for a parable, and for hatred, and for a curse in every place where I shall push them there. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1325\|δώσω]] [[G1473\|αυτούς]] [[G1519\|εις]] [[G6879\|διασκορπισμόν]] [[G1519\|εις]] [[G3956\|πάσας]] [[G3588\|τας]] [[G0932\|βασιλείας]] [[G3588\|της]] [[G1093\|γης]] [[G2532\|και]] [[G1510\|έσονται]] [[G1519\|εις]] [[G3680\|ονειδισμόν]] [[G2532\|και]] [[G1519\|εις]] [[G3850\|παραβολήν]] [[G2532\|και]] [[G1519\|εις]] [[G8332\|μίσος]] [[G2532\|και]] [[G1519\|εις]] [[G2671\|κατάραν]] [[G1722\|εν]] [[G3956\|παντί]] [[G5117\|τόπω]] [[G3739\|ου]] [[G1856\|εξώσω]] [[G1473\|αυτούς]] [[G1563\|εκεί]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISPERSION|DISPERSION]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.8|<< Jeremiah 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.10|Jeremiah 24:10 >>]]</td></tr></table>
 
@@ -37,6 +100,6 @@ And I will appoint them for being dispersed into all the kingdoms of the earth, 
 | I shall push | **<big>[[G1856\|εξώσω]]</big>** |
 | them | **<big>[[G1473\|αυτούς]]</big>** |
 | there. | **<big>[[G1563\|εκεί]]</big>** |
-[[Jer.24.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.8|<< Jeremiah 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.10|Jeremiah 24:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.24.8|<< Jeremiah 24:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.24.10|Jeremiah 24:10 >>]]</td></tr></table>
 
 

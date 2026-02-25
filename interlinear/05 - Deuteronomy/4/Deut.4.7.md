@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 4:7
+type: Verse
+kjv: "For what nation is there so great, who hath God so nigh unto them, as the LORD our God is in all things that we call upon him for?"
+bsb: "For what nation is great enough to have a god as near to them as the LORD our God is to us whenever we call on Him?"
+hebrew: "כִּ֚י מִי־ ג֣וֹי גָּד֔וֹל אֲשֶׁר־ ל֥וֹ אֱלֹהִ֖ים קְרֹבִ֣ים אֵלָ֑יו כַּיהוָ֣ה אֱלֹהֵ֔ינוּ בְּכָל־ קָרְאֵ֖נוּ אֵלָֽיו׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H7138]]"
+- "[[H0413]]"
+- "[[H9004]]"
+- "[[H3068G]]"
+- "[[H9025]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H7121G]]"
+- "[[H9045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:7**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For what nation [is there so] great, who [hath] God [so] nigh unto them, as the LORD our God [is] in all [things that] we call upon him [for]?
 <small><sub>**BSB:**</sub></small>
 For what nation is great enough to have a god as near to them as the LORD our God is to us whenever we call on Him?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֚י]] [[H4310\|מִי]][[H9014\|־]] [[H1471A\|ג֣וֹי]] [[H1419A\|גָּד֔וֹל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H0430G\|אֱלֹהִ֖ים]] [[H7138\|קְרֹבִ֣ים]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9004\|כַּ]][[H3068G\|יהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H7121G\|קָרְאֵ֖]][[H9045\|נוּ]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.6|<< Deuteronomy 4:6]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.8|Deuteronomy 4:8 >>]]</td></tr></table>
 

@@ -1,10 +1,67 @@
+---
+title: Revelation 4:4
+type: Verse
+kjv: "And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold."
+bsb: "Surrounding the throne were twenty-four other thrones, and on these thrones sat twenty-four elders dressed in white, with golden crowns on their heads."
+greek: "καὶ κυκλόθεν τοῦ θρόνου θρόνους εἴκοσι καὶ τέσσαρες, καὶ ἐπὶ τοὺς θρόνους εἴδον τοὺς εἴκοσι καὶ τέσσαρας πρεσβυτέρους καθημένους, περιβεβλημένους ἐν ἱματίοις λευκοῖς, καὶ ἔσχον ἐπὶ τὰς κεφαλὰς αὐτῶν στεφάνους χρυσοῦς."
+pericope: "[[Rev.4.1 The Throne in Heaven|The Throne in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 4
+book/chapter: "[[Rev.4|Revelation 4]]"
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2943]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G1501]]"
+- "[[G5064]]"
+- "[[G1909]]"
+- "[[G1492H]]"
+- "[[G4245G]]"
+- "[[G2521]]"
+- "[[G4016]]"
+- "[[G1722]]"
+- "[[G2440]]"
+- "[[G3022]]"
+- "[[G2192]]"
+- "[[G2776]]"
+- "[[G0846]]"
+- "[[G4735]]"
+- "[[G5552]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 4:4**<big><big>[[Rev.4.1 The Throne in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And round about the throne [were] four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
 <small><sub>**BSB:**</sub></small>
 Surrounding the throne were twenty-four other thrones, and on these thrones sat twenty-four elders dressed in white, with golden crowns on their heads.
-<small><sub>**Literal:**</sub></small>
-And around the throne thrones [were] twenty and four, and on the thrones I saw <the> twenty and four elders sitting, having clothed themselves in garments white, and had on the heads of them crowns golden.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.3|<< Revelation 4:3]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.5|Revelation 4:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2943\|κυκλόθεν]]  [[G3588\|τοῦ]]  [[G2362\|θρόνου]]  [[G2362\|θρόνους]]  [[G1501\|εἴκοσι]]  [[G2532\|καὶ]]  [[G5064\|τέσσαρες,]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G2362\|θρόνους]]  [[G1492H\|εἴδον]]  [[G3588\|τοὺς]]  [[G1501\|εἴκοσι]]  [[G2532\|καὶ]]  [[G5064\|τέσσαρας]]  [[G4245G\|πρεσβυτέρους]]  [[G2521\|καθημένους,]]  [[G4016\|περιβεβλημένους]]  [[G1722\|ἐν]]  [[G2440\|ἱματίοις]]  [[G3022\|λευκοῖς,]]  [[G2532\|καὶ]]  [[G2192\|ἔσχον]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰς]]  [[G2776\|κεφαλὰς]]  [[G0846\|αὐτῶν]]  [[G4735\|στεφάνους]]  [[G5552\|χρυσοῦς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic CROWN|CROWN]] • [[topic ELDER|ELDER]] • [[topic HEAVEN|HEAVEN]] • [[topic THRONE|THRONE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.4.3|<< Revelation 4:3]]</td><td align="center" style="border:none;">[[Rev.4|Revelation 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.4.5|Revelation 4:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

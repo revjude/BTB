@@ -1,10 +1,65 @@
+---
+title: Luke 21:4
+type: Verse
+kjv: "For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had."
+bsb: "For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”"
+jesus_said: "For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had."
+greek: "πάντες γὰρ οὗτοι ἐκ τοῦ περισσεύοντος αὐτοῖς ἔβαλον εἰς τὰ δῶρα τοῦ θεοῦ, αὕτη δὲ ἐκ τοῦ ὑστερήματος αὐτῆς πάντα τὸν βίον ὃν εἶχεν ἔβαλεν.¶"
+pericope: "[[Luke.21.1 The Poor Widow’s Offering|The Poor Widow’s Offering]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DUTY|DUTY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G3778]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4052]]"
+- "[[G0846]]"
+- "[[G0906H]]"
+- "[[G1519]]"
+- "[[G1435]]"
+- "[[G2316]]"
+- "[[G1161]]"
+- "[[G5303]]"
+- "[[G0979]]"
+- "[[G3739]]"
+- "[[G2192]]"
+texts:
+- N(k)O
+- NKO
+- KO
+---
+
 **Luke 21:4**<big><big>[[Luke.21.1 The Poor Widow’s Offering|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had.
 <small><sub>**BSB:**</sub></small>
 For they all contributed out of their surplus, but she out of her poverty has put in all she had to live on.”
-<small><sub>**Literal:**</sub></small>
-all for these out of that which was abounding to them they cast in the gifts <the> of God she however out of the poverty of her all the livelihood that she had did cast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.3|<< Luke 21:3]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.5|Luke 21:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντες]]  [[G1063\|γὰρ]]  [[G3778\|οὗτοι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4052\|περισσεύοντος]]  [[G0846\|αὐτοῖς]]  [[G0906H\|ἔβαλον]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G1435\|δῶρα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3778\|αὕτη]]  [[G1161\|δὲ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G5303\|ὑστερήματος]]  [[G0846\|αὐτῆς]]  [[G3956\|πάντα]]  [[G3588\|τὸν]]  [[G0979\|βίον]]  [[G3739\|ὃν]]  [[G2192\|εἶχεν]]  [[G0906H\|ἔβαλεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUTY|DUTY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.3|<< Luke 21:3]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.5|Luke 21:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

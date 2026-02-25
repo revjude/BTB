@@ -1,10 +1,62 @@
+---
+title: Luke 17:4
+type: Verse
+kjv: "And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him."
+bsb: "Even if he sins against you seven times in a day, and seven times returns to say, ‘I repent,’ you must forgive him.”"
+jesus_said: "And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him."
+greek: "καὶ ἐὰν ἑπτάκις τῆς ἡμέρας ἁμαρτήσῃ εἰς σὲ καὶ ἑπτάκις τῆς ἡμέρας ἐπιστρέψῃ πρὸς σὲ λέγων· μετανοῶ, ἀφήσεις αὐτῷ.¶"
+pericope: "[[Luke.17.1 Temptations and Trespasses|Temptations and Trespasses]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic TRESPASS|TRESPASS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2034]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G0264]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G1994]]"
+- "[[G4314]]"
+- "[[G3004G]]"
+- "[[G3340]]"
+- "[[G0863H]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 17:4**<big><big>[[Luke.17.1 Temptations and Trespasses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him.
 <small><sub>**BSB:**</sub></small>
 Even if he sins against you seven times in a day, and seven times returns to say, ‘I repent,’ you must forgive him.”
-<small><sub>**Literal:**</sub></small>
-And if seven times in the day he shall sin against you and seven times <the> day shall return to you saying: I repent, you will forgive him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.3|<< Luke 17:3]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.5|Luke 17:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G2034\|ἑπτάκις]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G0264\|ἁμαρτήσῃ]]  [[G1519\|εἰς]]  [[G4771\|σὲ]]  [[G2532\|καὶ]]  [[G2034\|ἑπτάκις]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας]]  [[G1994\|ἐπιστρέψῃ]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G3004G\|λέγων·]]  [[G3340\|μετανοῶ,]]  [[G0863H\|ἀφήσεις]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPROOF|REPROOF]] • [[topic TRESPASS|TRESPASS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.3|<< Luke 17:3]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.5|Luke 17:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

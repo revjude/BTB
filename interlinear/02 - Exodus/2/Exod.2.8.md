@@ -1,8 +1,66 @@
+---
+title: Exodus 2:8
+type: Verse
+kjv: "And Pharaoh’s daughter said to her, Go. And the maid went and called the child’s mother."
+bsb: "“Go ahead,” Pharaoh’s daughter told her. And the girl went and called the boy’s mother."
+hebrew: "וַתֹּֽאמֶר־ לָ֥הּ בַּת־ פַּרְעֹ֖ה לֵ֑כִי וַתֵּ֙לֶךְ֙ הָֽעַלְמָ֔ה וַתִּקְרָ֖א אֶת־ אֵ֥ם הַיָּֽלֶד׃"
+pericope: "[[Exod.2.1 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOCHEBED|JOCHEBED]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MIRIAM|MIRIAM]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H1323G]]"
+- "[[H6547I]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H5959]]"
+- "[[H7121G]]"
+- "[[H0853]]"
+- "[[H0517]]"
+- "[[H3206]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 2:8**<big><big>[[Exod.2.1 The Birth and Adoption of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh’s daughter said to her, Go. And the maid went and called the child’s mother.
 <small><sub>**BSB:**</sub></small>
 “Go ahead,” Pharaoh’s daughter told her. And the girl went and called the boy’s mother.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּֽאמֶר]][[H9014\|־]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H1323G\|בַּת]][[H9014\|־]] [[H6547I\|פַּרְעֹ֖ה]] [[H1980G\|לֵ֑כִי]] [[H9001\|וַ]][[H1980G\|תֵּ֙לֶךְ֙]] [[H9009\|הָֽ]][[H5959\|עַלְמָ֔ה]] [[H9001\|וַ]][[H7121G\|תִּקְרָ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H0517\|אֵ֥ם]] [[H9009\|הַ]][[H3206\|יָּֽלֶד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic JOCHEBED|JOCHEBED]] • [[topic KINDNESS|KINDNESS]] • [[topic MIRIAM|MIRIAM]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.7|<< Exodus 2:7]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.9|Exodus 2:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

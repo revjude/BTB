@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Children of Bilhah
+type: Pericope
 pericope: "[[Gen.46.23 The Children of Bilhah|The Children of Bilhah]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 46
 book/chapter: "[[Gen.46|Genesis 46]]"
-genre:
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.46.23]]"
 - "[[Gen.46.24]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.46.27]]"
 ---
 
-[[Gen.46|Genesis 46:23 - Genesis 46:27]]
+<small>[[Gen.46|Genesis 46:23-27]]</small>
 *The Children of Bilhah*
 
 [[Gen.46.23|23]] And the sons of Dan; Hushim.

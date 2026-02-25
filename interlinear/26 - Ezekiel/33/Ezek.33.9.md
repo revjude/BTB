@@ -1,8 +1,72 @@
+---
+title: Ezekiel 33:9
+type: Verse
+kjv: "Nevertheless, if thou warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but thou hast delivered thy soul."
+bsb: "But if you warn the wicked man to turn from his way, and he does not turn from it, he will die in his iniquity, but you will have saved your life."
+hebrew: "וְ֠אַתָּה כִּֽי־ הִזְהַ֨רְתָּ רָשָׁ֤ע מִדַּרְכּוֹ֙ לָשׁ֣וּב מִמֶּ֔נָּה וְלֹא־ שָׁ֖ב מִדַּרְכּ֑וֹ ה֚וּא בַּעֲוֹנ֣וֹ יָמ֔וּת וְאַתָּ֖ה נַפְשְׁךָ֥ הִצַּֽלְתָּ׃ ס"
+pericope: "[[Ezek.33.1 Ezekiel the Watchman for Israel|Ezekiel the Watchman for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2094B]]"
+- "[[H7563]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H7725O]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H5771G]]"
+- "[[H4191]]"
+- "[[H5315G]]"
+- "[[H9021]]"
+- "[[H5337]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 33:9**<big><big>[[Ezek.33.1 Ezekiel the Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless, if thou warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but thou hast delivered thy soul.
 <small><sub>**BSB:**</sub></small>
 But if you warn the wicked man to turn from his way, and he does not turn from it, he will die in his iniquity, but you will have saved your life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H0859A\|אַתָּה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2094B\|הִזְהַ֨רְתָּ]] [[H7563\|רָשָׁ֤ע]] [[H9006\|מִ]][[H1870G\|דַּרְכּ]][[H9023\|וֹ֙]] [[H9005\|לָ]][[H7725O\|שׁ֣וּב]] [[H4480A\|מִמֶּ֔]][[H9034\|נָּה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7725O\|שָׁ֖ב]] [[H9006\|מִ]][[H1870G\|דַּרְכּ֑]][[H9023\|וֹ]] [[H1931\|ה֚וּא]] [[H9003\|בַּ]][[H5771G\|עֲוֹנ֣]][[H9023\|וֹ]] [[H4191\|יָמ֔וּת]] [[H9002\|וְ]][[H0859A\|אַתָּ֖ה]] [[H5315G\|נַפְשְׁ]][[H9021\|ךָ֥]] [[H5337\|הִצַּֽלְתָּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.8|<< Ezekiel 33:8]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.10|Ezekiel 33:10 >>]]</td></tr></table>
 
@@ -23,7 +87,7 @@ But if you warn the wicked man to turn from his way, and he does not turn from i
 | he will die  |**<big>&#8207;[[H4191\|יָמ֔וּת]]&#8207; </big>**| ya.Mut<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֖ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | life your  |**<big>&#8207;[[H5315G\|נַפְשְׁ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| naf.she.<small><sup>[[HNcfsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you have delivered  |**<big>&#8207;[[H5337\|הִצַּֽלְתָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hi.Tzal.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you have delivered  |**<big>&#8207;[[H5337\|הִצַּֽלְתָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| hi.Tzal.ta<small><sup>[[HVhp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.8|<< Ezekiel 33:8]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.10|Ezekiel 33:10 >>]]</td></tr></table>
 
 

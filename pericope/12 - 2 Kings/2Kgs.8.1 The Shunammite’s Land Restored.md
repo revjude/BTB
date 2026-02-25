@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Shunammite’s Land Restored
+type: Pericope
 pericope: "[[2Kgs.8.1 The Shunammite’s Land Restored|The Shunammite’s Land Restored]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 8
 book/chapter: "[[2Kgs.8|2 Kings 8]]"
-genre:
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[2Kgs.8.1]]"
 - "[[2Kgs.8.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Kgs.8.6]]"
 ---
 
-[[2Kgs.8|2 Kings 8:1 - 2 Kings 8:6]]
+<small>[[2Kgs.8|2 Kings 8:1-6]]</small>
 *The Shunammite’s Land Restored*
 
 [[2Kgs.8.1|1]] Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years.

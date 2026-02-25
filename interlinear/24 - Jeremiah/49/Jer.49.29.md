@@ -1,8 +1,64 @@
+---
+title: Jeremiah 49:29
+type: Verse
+kjv: "Their tents and their flocks shall they take away: they shall take to themselves their curtains, and all their vessels, and their camels; and they shall cry unto them, Fear is on every side."
+bsb: "They will take their tents and flocks, their tent curtains and all their goods. They will take their camels for themselves. They will shout to them: ‘Terror is on every side!’"
+hebrew: "אָהֳלֵיהֶ֤ם וְצֹאנָם֙ יִקָּ֔חוּ יְרִיעוֹתֵיהֶ֧ם וְכָל־ כְּלֵיהֶ֛ם וּגְמַלֵּיהֶ֖ם יִשְׂא֣וּ לָהֶ֑ם וְקָרְא֧וּ עֲלֵיהֶ֛ם מָג֖וֹר מִסָּבִֽיב׃"
+pericope: "[[Jer.49.28 Judgment on Kedar and Hazor|Judgment on Kedar and Hazor]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+strongs:
+- "[[H0168G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H3947G]]"
+- "[[H3407]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H1581]]"
+- "[[H5375H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H5921A]]"
+- "[[H4032]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:29**<big><big>[[Jer.49.28 Judgment on Kedar and Hazor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their tents and their flocks shall they take away: they shall take to themselves their curtains, and all their vessels, and their camels; and they shall cry unto them, Fear [is] on every side.
 <small><sub>**BSB:**</sub></small>
 They will take their tents and flocks, their tent curtains and all their goods. They will take their camels for themselves. They will shout to them: ‘Terror is on every side!’
+<small><sub>**Hebrew:**</sub></small>
+[[H0168G\|אָהֳלֵי]][[H9028\|הֶ֤ם]] [[H9002\|וְ]][[H6629G\|צֹאנָ]][[H9028\|ם֙]] [[H3947G\|יִקָּ֔חוּ]] [[H3407\|יְרִיעוֹתֵי]][[H9028\|הֶ֧ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3627\|כְּלֵי]][[H9028\|הֶ֛ם]] [[H9002\|וּ]][[H1581\|גְמַלֵּי]][[H9028\|הֶ֖ם]] [[H5375H\|יִשְׂא֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9001\|וְ]][[H7121I\|קָרְא֧וּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H4032\|מָג֖וֹר]] [[H9006\|מִ]][[H5439H\|סָּבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CURTAINS|CURTAINS]] • [[topic DAMASCUS|DAMASCUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.28|<< Jeremiah 49:28]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.30|Jeremiah 49:30 >>]]</td></tr></table>
 

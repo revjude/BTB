@@ -1,8 +1,74 @@
+---
+title: Genesis 27:25
+type: Verse
+kjv: "And he said, Bring it near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought it near to him, and he did eat: and he brought him wine, and he drank."
+bsb: "“Serve me,” said Isaac, “and let me eat some of my son’s game, so that I may bless you.” Jacob brought it to him, and he ate; then he brought him wine, and he drank."
+hebrew: "וַיֹּ֗אמֶר הַגִּ֤שָׁה לִּי֙ וְאֹֽכְלָה֙ מִצֵּ֣יד בְּנִ֔י לְמַ֥עַן תְּבָֽרֶכְךָ֖ נַפְשִׁ֑י וַיַּגֶּשׁ־ לוֹ֙ וַיֹּאכַ֔ל וַיָּ֧בֵא ל֦וֹ יַ֖יִן וַיֵּֽשְׁתְּ׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5066H]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H6718A]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H4616]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H5315I]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H0935P]]"
+- "[[H3196]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:25**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Bring [it] near to me, and I will eat of my son’s venison, that my soul may bless thee. And he brought [it] near to him, and he did eat: and he brought him wine, and he drank.
 <small><sub>**BSB:**</sub></small>
 “Serve me,” said Isaac, “and let me eat some of my son’s game, so that I may bless you.” Jacob brought it to him, and he ate; then he brought him wine, and he drank.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H5066H\|הַגִּ֤שָׁ]][[H9012\|ה]] [[H9005\|לִּ]][[H9030\|י֙]] [[H9002\|וְ]][[H0398\|אֹֽכְלָה֙]] [[H9006\|מִ]][[H6718A\|צֵּ֣יד]] [[H1121A\|בְּנִ֔]][[H9020\|י]] [[H4616\|לְמַ֥עַן]] [[H1288\|תְּבָֽרֶכְ]][[H9031\|ךָ֖]] [[H5315I\|נַפְשִׁ֑]][[H9020\|י]] [[H9001\|וַ]][[H5066H\|יַּגֶּשׁ]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9001\|וַ]][[H0398\|יֹּאכַ֔ל]] [[H9001\|וַ]][[H0935P\|יָּ֧בֵא]] [[H9005\|ל֦]][[H9033\|וֹ]] [[H3196\|יַ֖יִן]] [[H9001\|וַ]][[H8354\|יֵּֽשְׁתְּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DEATH|DEATH]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FAMILY|FAMILY]] • [[topic ISAAC|ISAAC]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.24|<< Genesis 27:24]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.26|Genesis 27:26 >>]]</td></tr></table>
 

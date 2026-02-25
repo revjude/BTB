@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Blessed Fear of the LORD
+type: Pericope
 pericope: "[[Ps.128.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 128
 book/chapter: "[[Ps.128|Psalm 128]]"
-genre:
+chronological_order: 889
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 7
 verses:
 - "[[Ps.128.0]]"
 - "[[Ps.128.1]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ps.128.6]]"
 ---
 
-[[Ps.128|Psalm 128:1 - Psalm 128:6]]
+<small>[[Ps.128|Psalm 128:1-6]]</small>
 *The Blessed Fear of the LORD*
 
 [[Ps.128.0|0]] A Song of degrees.

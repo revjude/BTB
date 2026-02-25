@@ -1,10 +1,55 @@
+---
+title: Romans 11:19
+type: Verse
+kjv: "Thou wilt say then, The branches were broken off, that I might be graffed in."
+bsb: "You will say then, “Branches were broken off so that I could be grafted in.”"
+greek: "ἐρεῖς οὖν· ἐξεκλάσθησαν οἵ κλάδοι ἵνα ἐγὼ ἐγκεντρισθῶ."
+pericope: "[[Rom.11.11 The Ingrafting of the Gentiles|The Ingrafting of the Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GRAFTING|GRAFTING]]"
+- "[[topic OLIVE|OLIVE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G4483]]"
+- "[[G3767]]"
+- "[[G1575]]"
+- "[[G3588]]"
+- "[[G2798]]"
+- "[[G2443]]"
+- "[[G1473]]"
+- "[[G1461]]"
+texts:
+- NKO
+- k
+---
+
 **Romans 11:19**<big><big>[[Rom.11.11 The Ingrafting of the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou wilt say then, The branches were broken off, that I might be graffed in.
 <small><sub>**BSB:**</sub></small>
 You will say then, “Branches were broken off so that I could be grafted in.”
-<small><sub>**Literal:**</sub></small>
-You will say then; Were broken off <the> branches that I myself may be grafted in.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.18|<< Romans 11:18]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.20|Romans 11:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4483\|ἐρεῖς]]  [[G3767\|οὖν·]]  [[G1575\|ἐξεκλάσθησαν]]  [[G3588\|οἵ]]  [[G2798\|κλάδοι]]  [[G2443\|ἵνα]]  [[G1473\|ἐγὼ]]  [[G1461\|ἐγκεντρισθῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic GENTILES|GENTILES]] • [[topic GRAFTING|GRAFTING]] • [[topic OLIVE|OLIVE]] • [[topic PRIDE|PRIDE]] • [[topic REPROBACY|REPROBACY]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.18|<< Romans 11:18]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.20|Romans 11:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

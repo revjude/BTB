@@ -1,10 +1,50 @@
+---
+title: Mark 11:6
+type: Verse
+kjv: "And they said unto them even as Jesus had commanded: and they let them go."
+bsb: "The disciples answered as Jesus had instructed them, and the people gave them permission."
+greek: "οἱ δὲ εἶπαν αὐτοῖς καθὼς εἶπεν ὁ Ἰησοῦς, καὶ ἀφῆκαν αὐτούς."
+pericope: "[[Mark.11.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 11
+book/chapter: "[[Mark.11|Mark 11]]"
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2531]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G0863G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 11:6**<big><big>[[Mark.11.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said unto them even as Jesus had commanded: and they let them go.
 <small><sub>**BSB:**</sub></small>
 The disciples answered as Jesus had instructed them, and the people gave them permission.
-<small><sub>**Literal:**</sub></small>
-<the> And they spoke to them even as had commanded <the> Jesus, and they allowed them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.5|<< Mark 11:5]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.7|Mark 11:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτοῖς]]  [[G2531\|καθὼς]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G2532\|καὶ]]  [[G0863G\|ἀφῆκαν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.11.5|<< Mark 11:5]]</td><td align="center" style="border:none;">[[Mark.11|Mark 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.11.7|Mark 11:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

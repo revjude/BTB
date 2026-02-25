@@ -1,8 +1,76 @@
+---
+title: Isaiah 30:33
+type: Verse
+kjv: "For Tophet is ordained of old; yea, for the king it is prepared; he hath made it deep and large: the pile thereof is fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it."
+bsb: "For Topheth has long been prepared; it has been made ready for the king. Its funeral pyre is deep and wide, with plenty of fire and wood. The breath of the LORD, like a torrent of burning sulfur, sets it ablaze."
+hebrew: "כִּֽי־ עָר֤וּךְ מֵֽאֶתְמוּל֙ תָּפְתֶּ֔ה גַּם־ הִ֛יא לַמֶּ֥לֶךְ הוּכָ֖ן הֶעְמִ֣יק הִרְחִ֑ב מְדֻרָתָ֗הּ אֵ֤שׁ וְעֵצִים֙ הַרְבֵּ֔ה נִשְׁמַ֤ת יְהוָה֙ כְּנַ֣חַל גָּפְרִ֔ית בֹּעֲרָ֖ה בָּֽהּ׃ ס"
+pericope: "[[Isa.30.18 God Will Be Gracious|God Will Be Gracious]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BREATH|BREATH]]"
+- "[[topic BRIMSTONE|BRIMSTONE]]"
+- "[[topic HELL|HELL]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic TOPHET|TOPHET]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6186A]]"
+- "[[H9006]]"
+- "[[H0865]]"
+- "[[H8613]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3559A]]"
+- "[[H6009]]"
+- "[[H7337]]"
+- "[[H4071]]"
+- "[[H9024]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H6086G]]"
+- "[[H7235A]]"
+- "[[H5397]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H5158A]]"
+- "[[H1614]]"
+- "[[H1197A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 30:33**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Tophet [is] ordained of old; yea, for the king it is prepared; he hath made [it] deep [and] large: the pile thereof [is] fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it.
 <small><sub>**BSB:**</sub></small>
 For Topheth has long been prepared; it has been made ready for the king. Its funeral pyre is deep and wide, with plenty of fire and wood. The breath of the LORD, like a torrent of burning sulfur, sets it ablaze.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H6186A\|עָר֤וּךְ]] [[H9006\|מֵֽ]][[H0865\|אֶתְמוּל֙]] [[H8613\|תָּפְתֶּ֔ה]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|הִ֛יא]] [[H9005\|לַ]][[H4428G\|מֶּ֥לֶךְ]] [[H3559A\|הוּכָ֖ן]] [[H6009\|הֶעְמִ֣יק]] [[H7337\|הִרְחִ֑ב]] [[H4071\|מְדֻרָתָ֗]][[H9024\|הּ]] [[H0784\|אֵ֤שׁ]] [[H9002\|וְ]][[H6086G\|עֵצִים֙]] [[H7235A\|הַרְבֵּ֔ה]] [[H5397\|נִשְׁמַ֤ת]] [[H3068G\|יְהוָה֙]] [[H9004\|כְּ]][[H5158A\|נַ֣חַל]] [[H1614\|גָּפְרִ֔ית]] [[H1197A\|בֹּעֲרָ֖ה]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BREATH|BREATH]] • [[topic BRIMSTONE|BRIMSTONE]] • [[topic HELL|HELL]] • [[topic RULERS|RULERS]] • [[topic TOPHET|TOPHET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.32|<< Isaiah 30:32]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.1|Isaiah 31:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -31,7 +99,7 @@ For Topheth has long been prepared; it has been made ready for the king. Its fun
 | like a torrent of  |**<big>&#8207;[[H9004\|כְּ]]&#8207;&#8207;[[H5158A\|נַ֣חַל]]&#8207; </big>**| ke.<small><sup>[[HR]]</sup></small> Na.chal<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | sulfur  |**<big>&#8207;[[H1614\|גָּפְרִ֔ית]]&#8207; </big>**| ga.fe.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] about to burn  |**<big>&#8207;[[H1197A\|בֹּעֲרָ֖ה]]&#8207; </big>**| bo.'a.Rah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> \<the> it  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ba<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> \<the> it  |**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Ba<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.32|<< Isaiah 30:32]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.31.1|Isaiah 31:1 >>]]</td></tr></table>
 
 [^1]: it  | **<big>[[H1931|הוּא]]</big> ** | hu'<small><sup>[[HPp3ms]]</sup></small> | K

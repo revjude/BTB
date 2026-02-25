@@ -1,8 +1,75 @@
+---
+title: Ezekiel 24:17
+type: Verse
+kjv: "Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not thy lips, and eat not the bread of men."
+bsb: "Groan quietly; do not mourn for the dead. Put on your turban and strap your sandals on your feet; do not cover your lips or eat the bread of mourners.”"
+hebrew: "הֵאָנֵ֣ק׀ דֹּ֗ם מֵתִים֙ אֵ֣בֶל לֹֽא־ תַֽעֲשֶׂ֔ה פְאֵֽרְךָ֙ חֲב֣וֹשׁ עָלֶ֔יךָ וּנְעָלֶ֖יךָ תָּשִׂ֣ים בְּרַגְלֶ֑יךָ וְלֹ֤א תַעְטֶה֙ עַל־ שָׂפָ֔ם וְלֶ֥חֶם אֲנָשִׁ֖ים לֹ֥א תֹאכֵֽל׃"
+pericope: "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic SHOE|SHOE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TIRE|TIRE]]"
+strongs:
+- "[[H0602]]"
+- "[[H9015]]"
+- "[[H1826H]]"
+- "[[H4191]]"
+- "[[H0060]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H6287]]"
+- "[[H9021]]"
+- "[[H2280]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H5275]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H5844A]]"
+- "[[H8222]]"
+- "[[H3899H]]"
+- "[[H0582]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:17**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forbear to cry, make no mourning for the dead, bind the tire of thine head upon thee, and put on thy shoes upon thy feet, and cover not [thy] lips, and eat not the bread of men.
 <small><sub>**BSB:**</sub></small>
 Groan quietly; do not mourn for the dead. Put on your turban and strap your sandals on your feet; do not cover your lips or eat the bread of mourners.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0602\|הֵאָנֵ֣ק]][[H9015\|׀]] [[H1826H\|דֹּ֗ם]] [[H4191\|מֵתִים֙]] [[H0060\|אֵ֣בֶל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6213H\|תַֽעֲשֶׂ֔ה]] [[H6287\|פְאֵֽרְ]][[H9021\|ךָ֙]] [[H2280\|חֲב֣וֹשׁ]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9002\|וּ]][[H5275\|נְעָלֶ֖י]][[H9021\|ךָ]] [[H7760H\|תָּשִׂ֣ים]] [[H9003\|בְּ]][[H7272\|רַגְלֶ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H5844A\|תַעְטֶה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H8222\|שָׂפָ֔ם]] [[H9002\|וְ]][[H3899H\|לֶ֥חֶם]] [[H0582\|אֲנָשִׁ֖ים]] [[H3808\|לֹ֥א]] [[H0398\|תֹאכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREAVEMENT|BEREAVEMENT]] • [[topic DRESS|DRESS]] • [[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOURNING|MOURNING]] • [[topic SHOE|SHOE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TIRE|TIRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.16|<< Ezekiel 24:16]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.18|Ezekiel 24:18 >>]]</td></tr></table>
 

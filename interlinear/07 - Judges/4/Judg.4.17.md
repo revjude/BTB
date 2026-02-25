@@ -1,8 +1,69 @@
+---
+title: Judges 4:17
+type: Verse
+kjv: "Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for there was peace between Jabin the king of Hazor and the house of Heber the Kenite."
+bsb: "Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Kenite, because there was peace between Jabin king of Hazor and the house of Heber the Kenite."
+hebrew: "וְסִֽיסְרָא֙ נָ֣ס בְּרַגְלָ֔יו אֶל־ אֹ֣הֶל יָעֵ֔ל אֵ֖שֶּׁת חֶ֣בֶר הַקֵּינִ֑י כִּ֣י שָׁל֗וֹם בֵּ֚ין יָבִ֣ין מֶֽלֶךְ־ חָצ֔וֹר וּבֵ֕ין בֵּ֖ית חֶ֥בֶר הַקֵּינִֽי׃"
+pericope: "[[Judg.4.17 Jael Kills Sisera|Jael Kills Sisera]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic HEBER|HEBER]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JABIN|JABIN]]"
+- "[[topic JAEL|JAEL]]"
+- "[[topic KENITES|KENITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5516G]]"
+- "[[H5127]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0168G]]"
+- "[[H3278]]"
+- "[[H0802H]]"
+- "[[H2268H]]"
+- "[[H9009]]"
+- "[[H7017]]"
+- "[[H3588A]]"
+- "[[H7965G]]"
+- "[[H0996G]]"
+- "[[H2985H]]"
+- "[[H4428G]]"
+- "[[H2674G]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 4:17**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for [there was] peace between Jabin the king of Hazor and the house of Heber the Kenite.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, Sisera had fled on foot to the tent of Jael, the wife of Heber the Kenite, because there was peace between Jabin king of Hazor and the house of Heber the Kenite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5516G\|סִֽיסְרָא֙]] [[H5127\|נָ֣ס]] [[H9003\|בְּ]][[H7272\|רַגְלָ֔י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H3278\|יָעֵ֔ל]] [[H0802H\|אֵ֖שֶּׁת]] [[H2268H\|חֶ֣בֶר]] [[H9009\|הַ]][[H7017\|קֵּינִ֑י]] [[H3588A\|כִּ֣י]] [[H7965G\|שָׁל֗וֹם]] [[H0996G\|בֵּ֚ין]] [[H2985H\|יָבִ֣ין]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H2674G\|חָצ֔וֹר]] [[H9002\|וּ]][[H0996G\|בֵ֕ין]] [[H1004M\|בֵּ֖ית]] [[H2268H\|חֶ֥בֶר]] [[H9009\|הַ]][[H7017\|קֵּינִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic HAZOR|HAZOR]] • [[topic HEBER|HEBER]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JABIN|JABIN]] • [[topic JAEL|JAEL]] • [[topic KENITES|KENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.16|<< Judges 4:16]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.18|Judges 4:18 >>]]</td></tr></table>
 

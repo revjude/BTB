@@ -1,6 +1,81 @@
+---
+title: LXX 1 Kings 20:31
+type: Verse
+lxx: "And his servants said to him, Indeed behold we heard that the kings of the house of Israel are kings of mercy. We should place indeed sackcloths upon  our loins, and rough cords upon  our heads, and we should go forth to the king of Israel; if by any means he shall bring forth alive  our lives."
+greek: "και είπον οι παίδες αυτού προς αυτόν ιδου δη ηκούσαμεν ότι βασιλείς οίκου Ισραήλ βασιλείς ελέους εισίν επιθώμεθα δη σάκκους επί τας οσφύας ημών και σχοινία επί τας κεφαλάς ημών και εξέλθωμεν προς τον βασιλέα Ισραήλ ει πως ζωογονήσει τας ψυχάς ημών"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CORD|CORD]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic ROPE|ROPE]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2400]]"
+- "[[G1211]]"
+- "[[G0191]]"
+- "[[G3754]]"
+- "[[G0935]]"
+- "[[G3624]]"
+- "[[G2474]]"
+- "[[G0935]]"
+- "[[G1656]]"
+- "[[G1510]]"
+- "[[G2007]]"
+- "[[G1211]]"
+- "[[G4526]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3751]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4979]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2474]]"
+- "[[G1513]]"
+- "[[G2225]]"
+- "[[G3588]]"
+- "[[G5590]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Kings 20:31** 
 <small><sub>**LXX:**</sub></small>
 And his servants said to him, Indeed behold we heard that \[the\] kings of \[the\] house of Israel are kings of mercy. We should place indeed sackcloths upon  our loins, and rough cords upon  our heads, and we should go forth to the king of Israel; if by any means he shall bring forth alive  our lives. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπον]] [[G3588\|οι]] [[G3816\|παίδες]] [[G1473\|αυτού]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G2400\|ιδου]] [[G1211\|δη]] [[G0191\|ηκούσαμεν]] [[G3754\|ότι]] [[G0935\|βασιλείς]] [[G3624\|οίκου]] [[G2474\|Ισραήλ]] [[G0935\|βασιλείς]] [[G1656\|ελέους]] [[G1510\|εισίν]] [[G2007\|επιθώμεθα]] [[G1211\|δη]] [[G4526\|σάκκους]] [[G1909\|επί]] [[G3588\|τας]] [[G3751\|οσφύας]] [[G1473\|ημών]] [[G2532\|και]] [[G4979\|σχοινία]] [[G1909\|επί]] [[G3588\|τας]] [[G2776\|κεφαλάς]] [[G1473\|ημών]] [[G2532\|και]] [[G1831\|εξέλθωμεν]] [[G4314\|προς]] [[G3588\|τον]] [[G0935\|βασιλέα]] [[G2474\|Ισραήλ]] [[G1513\|ει πως]] [[G2225\|ζωογονήσει]] [[G3588\|τας]] [[G5590\|ψυχάς]] [[G1473\|ημών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORD|CORD]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic ROPE|ROPE]] • [[topic SACKCLOTH|SACKCLOTH]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.20.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.30|<< 1 Kings 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.32|1 Kings 20:32 >>]]</td></tr></table>
 
@@ -42,6 +117,6 @@ And his servants said to him, Indeed behold we heard that \[the\] kings of \[the
 | he shall bring forth alive | **<big>[[G2225\|ζωογονήσει]]</big>** |
 | \<obj.> | **<big>[[G3588\|τας]]</big>** |
 | our lives. | **<big>[[G5590\|ψυχάς]]</big>** **<big>[[G1473\|ημών]]</big>** |
-[[1Kgs.20.31|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.30|<< 1 Kings 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.32|1 Kings 20:32 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.20.30|<< 1 Kings 20:30]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.20.32|1 Kings 20:32 >>]]</td></tr></table>
 
 

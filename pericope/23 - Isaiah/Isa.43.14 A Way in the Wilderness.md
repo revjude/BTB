@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Way in the Wilderness
+type: Pericope
 pericope: "[[Isa.43.14 A Way in the Wilderness|A Way in the Wilderness]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 43
 book/chapter: "[[Isa.43|Isaiah 43]]"
-genre:
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.43.14]]"
 - "[[Isa.43.15]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.43.21]]"
 ---
 
-[[Isa.43|Isaiah 43:14 - Isaiah 43:21]]
+<small>[[Isa.43|Isaiah 43:14-21]]</small>
 *A Way in the Wilderness*
 
 [[Isa.43.14|14]] Thus saith the LORD, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry \[is\] in the ships.

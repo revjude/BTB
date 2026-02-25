@@ -1,8 +1,67 @@
+---
+title: Ezekiel 12:13
+type: Verse
+kjv: "My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon to the land of the Chaldeans; yet shall he not see it, though he shall die there."
+bsb: "But I will spread My net over him, and he will be caught in My snare. I will bring him to Babylon, the land of the Chaldeans; yet he will not see it, and there he will die."
+hebrew: "וּפָרַשְׂתִּ֤י אֶת־ רִשְׁתִּי֙ עָלָ֔יו וְנִתְפַּ֖שׂ בִּמְצֽוּדָתִ֑י וְהֵבֵאתִ֨י אֹת֤וֹ בָבֶ֙לָה֙ אֶ֣רֶץ כַּשְׂדִּ֔ים וְאוֹתָ֥הּ לֹֽא־ יִרְאֶ֖ה וְשָׁ֥ם יָמֽוּת׃"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6566]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7568]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H8610]]"
+- "[[H9003]]"
+- "[[H4686A]]"
+- "[[H0935P]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H0776G]]"
+- "[[H3778]]"
+- "[[H9002]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H8033G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:13**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon [to] the land of the Chaldeans; yet shall he not see it, though he shall die there.
 <small><sub>**BSB:**</sub></small>
 But I will spread My net over him, and he will be caught in My snare. I will bring him to Babylon, the land of the Chaldeans; yet he will not see it, and there he will die.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6566\|פָרַשְׂתִּ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H7568\|רִשְׁתִּ]][[H9020\|י֙]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9001\|וְ]][[H8610\|נִתְפַּ֖שׂ]] [[H9003\|בִּ]][[H4686A\|מְצֽוּדָתִ֑]][[H9020\|י]] [[H9001\|וְ]][[H0935P\|הֵבֵאתִ֨י]] [[H0853\|אֹת֤]][[H9033\|וֹ]] [[H0894\|בָבֶ֙לָ]][[H9011\|ה֙]] [[H0776G\|אֶ֣רֶץ]] [[H3778\|כַּשְׂדִּ֔ים]] [[H9002\|וְ]][[H0853\|אוֹתָ֥]][[H9034\|הּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|יִרְאֶ֖ה]] [[H9002\|וְ]][[H8033G\|שָׁ֥ם]] [[H4191\|יָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.12|<< Ezekiel 12:12]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.14|Ezekiel 12:14 >>]]</td></tr></table>
 

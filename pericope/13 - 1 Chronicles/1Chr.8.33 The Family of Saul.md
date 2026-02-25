@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Family of Saul
+type: Pericope
 pericope: "[[1Chr.8.33 The Family of Saul|The Family of Saul]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 8
 book/chapter: "[[1Chr.8|1 Chronicles 8]]"
-genre:
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 8
 verses:
 - "[[1Chr.8.33]]"
 - "[[1Chr.8.34]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Chr.8.40]]"
 ---
 
-[[1Chr.8|1 Chronicles 8:33 - 1 Chronicles 8:40]]
+<small>[[1Chr.8|1 Chronicles 8:33-40]]</small>
 *The Family of Saul*
 
 [[1Chr.8.33|33]] And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal.

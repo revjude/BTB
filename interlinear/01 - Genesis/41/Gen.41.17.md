@@ -1,8 +1,66 @@
+---
+title: Genesis 41:17
+type: Verse
+kjv: "And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:"
+bsb: "Then Pharaoh said to Joseph: “In my dream I was standing on the bank of the Nile,"
+hebrew: "וַיְדַבֵּ֥ר פַּרְעֹ֖ה אֶל־ יוֹסֵ֑ף בַּחֲלֹמִ֕י הִנְנִ֥י עֹמֵ֖ד עַל־ שְׂפַ֥ת הַיְאֹֽר׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H6547H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H9003]]"
+- "[[H2472]]"
+- "[[H9020]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H8193J]]"
+- "[[H9009]]"
+- "[[H2975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:17**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh said unto Joseph, In my dream, behold, I stood upon the bank of the river:
 <small><sub>**BSB:**</sub></small>
 Then Pharaoh said to Joseph: “In my dream I was standing on the bank of the Nile,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H6547H\|פַּרְעֹ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֑ף]] [[H9003\|בַּ]][[H2472\|חֲלֹמִ֕]][[H9020\|י]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H5975G\|עֹמֵ֖ד]] [[H5921A\|עַל]][[H9014\|־]] [[H8193J\|שְׂפַ֥ת]] [[H9009\|הַ]][[H2975G\|יְאֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic HEATHEN|HEATHEN]] • [[topic JOSEPH|JOSEPH]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.16|<< Genesis 41:16]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.18|Genesis 41:18 >>]]</td></tr></table>
 

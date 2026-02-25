@@ -1,10 +1,62 @@
+---
+title: Colossians 2:14
+type: Verse
+kjv: "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;"
+bsb: "having canceled the debt ascribed to us in the decrees that stood against us. He took it away, nailing it to the cross!"
+greek: "ἐξαλείψας τὸ καθ᾽ ἡμῶν χειρόγραφον τοῖς δόγμασιν ὃ ἦν ὑπεναντίον ἡμῖν, καὶ αὐτὸ ἦρκεν ἐκ τοῦ μέσου προσηλώσας αὐτὸ τῷ σταυρῷ·"
+pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G1813]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G3165]]"
+- "[[G5498]]"
+- "[[G1378]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G5227]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G0142]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G4338]]"
+- "[[G4716]]"
+texts:
+- NKO
+---
+
 **Colossians 2:14**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;
 <small><sub>**BSB:**</sub></small>
 having canceled the debt ascribed to us in the decrees that stood against us. He took it away, nailing it to the cross!
-<small><sub>**Literal:**</sub></small>
-having blotted out the against us handwriting in the decrees which was adverse to us, and it He has taken out of the way having nailed it to the cross;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.13|<< Colossians 2:13]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.15|Colossians 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1813\|ἐξαλείψας]]  [[G3588\|τὸ]]  [[G2596\|καθ᾽]]  [[G3165\|ἡμῶν]]  [[G5498\|χειρόγραφον]]  [[G3588\|τοῖς]]  [[G1378\|δόγμασιν]]  [[G3739\|ὃ]]  [[G1510\|ἦν]]  [[G5227\|ὑπεναντίον]]  [[G3165\|ἡμῖν,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸ]]  [[G0142\|ἦρκεν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3319\|μέσου]]  [[G4338\|προσηλώσας]]  [[G0846\|αὐτὸ]]  [[G3588\|τῷ]]  [[G4716\|σταυρῷ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic CROSS|CROSS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic ORDINANCE|ORDINANCE]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.13|<< Colossians 2:13]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.15|Colossians 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

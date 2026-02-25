@@ -1,8 +1,64 @@
+---
+title: Numbers 35:4
+type: Verse
+kjv: "And the suburbs of the cities, which ye shall give unto the Levites, shall reach from the wall of the city and outward a thousand cubits round about."
+bsb: "The pasturelands around the cities you are to give the Levites will extend a thousand cubits from the wall on every side."
+hebrew: "וּמִגְרְשֵׁי֙ הֶֽעָרִ֔ים אֲשֶׁ֥ר תִּתְּנ֖וּ לַלְוִיִּ֑ם מִקִּ֤יר הָעִיר֙ וָח֔וּצָה אֶ֥לֶף אַמָּ֖ה סָבִֽיב׃"
+pericope: "[[Num.35.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUBURBS|SUBURBS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4054]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H7023]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H0505G]]"
+- "[[H0520A]]"
+- "[[H5439G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:4**<big><big>[[Num.35.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the suburbs of the cities, which ye shall give unto the Levites, [shall reach] from the wall of the city and outward a thousand cubits round about.
 <small><sub>**BSB:**</sub></small>
 The pasturelands around the cities you are to give the Levites will extend a thousand cubits from the wall on every side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4054\|מִגְרְשֵׁי֙]] [[H9009\|הֶֽ]][[H5892B\|עָרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|תִּתְּנ֖וּ]] [[H9005\|לַ]][[H3881\|לְוִיִּ֑ם]] [[H9006\|מִ]][[H7023\|קִּ֤יר]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H9002\|וָ]][[H2351\|ח֔וּצָ]][[H9011\|ה]] [[H0505G\|אֶ֥לֶף]] [[H0520A\|אַמָּ֖ה]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic CITIES|CITIES]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic SUBURBS|SUBURBS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.3|<< Numbers 35:3]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.5|Numbers 35:5 >>]]</td></tr></table>
 

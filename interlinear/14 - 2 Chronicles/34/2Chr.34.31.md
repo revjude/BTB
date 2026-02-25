@@ -1,8 +1,75 @@
+---
+title: 2 Chronicles 34:31
+type: Verse
+kjv: "And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book."
+bsb: "So the king stood by the pillar and made a covenant before the LORD to follow the LORD and to keep His commandments, decrees, and statutes with all his heart and all his soul, and to carry out the words of the covenant that were written in this book."
+hebrew: "וַיַּעֲמֹ֨ד הַמֶּ֜לֶךְ עַל־ עָמְד֗וֹ וַיִּכְרֹ֣ת אֶֽת־ הַבְּרִית֮ לִפְנֵ֣י יְהוָה֒ לָלֶ֜כֶת אַחֲרֵ֣י יְהוָ֗ה וְלִשְׁמ֤וֹר אֶת־ מִצְוֹתָיו֙ וְעֵֽדְוֹתָ֣יו וְחֻקָּ֔יו בְּכָל־ לְבָב֖וֹ וּבְכָל־ נַפְשׁ֑וֹ לַעֲשׂוֹת֙ אֶת־ דִּבְרֵ֣י הַבְּרִ֔ית הַכְּתוּבִ֖ים עַל־ הַסֵּ֥פֶר הַזֶּֽה׃"
+pericope: "[[2Chr.34.29 Josiah Renews the Covenant|Josiah Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5977]]"
+- "[[H9023]]"
+- "[[H3772H]]"
+- "[[H0853]]"
+- "[[H1285]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H1980I]]"
+- "[[H0310A]]"
+- "[[H9002]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H5715]]"
+- "[[H2706G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H5315G]]"
+- "[[H6213A]]"
+- "[[H1697G]]"
+- "[[H3789]]"
+- "[[H5612H]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:31**<big><big>[[2Chr.34.29 Josiah Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book.
 <small><sub>**BSB:**</sub></small>
 So the king stood by the pillar and made a covenant before the LORD to follow the LORD and to keep His commandments, decrees, and statutes with all his heart and all his soul, and to carry out the words of the covenant that were written in this book.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5975G\|יַּעֲמֹ֨ד]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H5977\|עָמְד֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H3772H\|יִּכְרֹ֣ת]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H1285\|בְּרִית֮]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָה֒]] [[H9005\|לָ]][[H1980I\|לֶ֜כֶת]] [[H0310A\|אַחֲרֵ֣י]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְ]][[H9005\|לִ]][[H8104G\|שְׁמ֤וֹר]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹתָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H5715\|עֵֽדְוֹתָ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H2706G\|חֻקָּ֔י]][[H9023\|ו]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָב֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשׁ֑]][[H9023\|וֹ]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H9009\|הַ]][[H3789\|כְּתוּבִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5612H\|סֵּ֥פֶר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic DECISION|DECISION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSIAH|JOSIAH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.30|<< 2 Chronicles 34:30]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.32|2 Chronicles 34:32 >>]]</td></tr></table>
 

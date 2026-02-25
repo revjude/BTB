@@ -1,8 +1,61 @@
+---
+title: Isaiah 1:2
+type: Verse
+kjv: "Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me."
+bsb: "Listen, O heavens, and give ear, O earth, for the LORD has spoken: “I have raised children and brought them up, but they have rebelled against Me."
+hebrew: "שִׁמְע֤וּ שָׁמַ֙יִם֙ וְהַאֲזִ֣ינִי אֶ֔רֶץ כִּ֥י יְהוָ֖ה דִּבֵּ֑ר בָּנִים֙ גִּדַּ֣לְתִּי וְרוֹמַ֔מְתִּי וְהֵ֖ם פָּ֥שְׁעוּ בִֽי׃"
+pericope: "[[Isa.1.1 Judah’s Rebellion|Judah’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H8085G]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0238]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H1121A]]"
+- "[[H1431]]"
+- "[[H7311A]]"
+- "[[H1992]]"
+- "[[H6586]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:2**<big><big>[[Isa.1.1 Judah’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me.
 <small><sub>**BSB:**</sub></small>
 Listen, O heavens, and give ear, O earth, for the LORD has spoken: “I have raised children and brought them up, but they have rebelled against Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שִׁמְע֤וּ]] [[H8064\|שָׁמַ֙יִם֙]] [[H9002\|וְ]][[H0238\|הַאֲזִ֣ינִי]] [[H0776G\|אֶ֔רֶץ]] [[H3588A\|כִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1696G\|דִּבֵּ֑ר]] [[H1121A\|בָּנִים֙]] [[H1431\|גִּדַּ֣לְתִּי]] [[H9002\|וְ]][[H7311A\|רוֹמַ֔מְתִּי]] [[H9002\|וְ]][[H1992\|הֵ֖ם]] [[H6586\|פָּ֥שְׁעוּ]] [[H9003\|בִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.1|<< Isaiah 1:1]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.3|Isaiah 1:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

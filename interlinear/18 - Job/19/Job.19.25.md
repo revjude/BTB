@@ -1,8 +1,57 @@
+---
+title: Job 19:25
+type: Verse
+kjv: "For I know that my redeemer liveth, and that he shall stand at the latter day upon the earth:"
+bsb: "But I know that my Redeemer lives, and in the end He will stand upon the earth."
+hebrew: "וַאֲנִ֣י יָ֭דַעְתִּי גֹּ֣אֲלִי חָ֑י וְ֝אַחֲר֗וֹן עַל־ עָפָ֥ר יָקֽוּם׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3045]]"
+- "[[H1350A]]"
+- "[[H9020]]"
+- "[[H2416A]]"
+- "[[H0314]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6083]]"
+- "[[H6965I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:25**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I know [that] my redeemer liveth, and [that] he shall stand at the latter [day] upon the earth:
 <small><sub>**BSB:**</sub></small>
 But I know that my Redeemer lives, and in the end He will stand upon the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H3045\|יָ֭דַעְתִּי]] [[H1350A\|גֹּ֣אֲלִ]][[H9020\|י]] [[H2416A\|חָ֑י]] [[H9002\|וְ֝]][[H0314\|אַחֲר֗וֹן]] [[H5921A\|עַל]][[H9014\|־]] [[H6083\|עָפָ֥ר]] [[H6965I\|יָקֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.24|<< Job 19:24]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.26|Job 19:26 >>]]</td></tr></table>
 

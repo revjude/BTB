@@ -1,8 +1,57 @@
+---
+title: Song of Solomon 2:9
+type: Verse
+kjv: "My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice."
+bsb: "My beloved is like a gazelle or a young stag. Look, he stands behind our wall, gazing through the windows, peering through the lattice."
+hebrew: "דּוֹמֶ֤ה דוֹדִי֙ לִצְבִ֔י א֖וֹ לְעֹ֣פֶר הָֽאַיָּלִ֑ים הִנֵּה־ זֶ֤ה עוֹמֵד֙ אַחַ֣ר כָּתְלֵ֔נוּ מַשְׁגִּ֙יחַ֙ מִן־ הַֽחֲלֹּנ֔וֹת מֵצִ֖יץ מִן־ הַֽחֲרַכִּֽים׃"
+pericope: "[[Song.2.3 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H1819]]"
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H6643B]]"
+- "[[H0176A]]"
+- "[[H6082]]"
+- "[[H9009]]"
+- "[[H0354]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H5975G]]"
+- "[[H0310A]]"
+- "[[H3796]]"
+- "[[H9025]]"
+- "[[H7688]]"
+- "[[H4480A]]"
+- "[[H2474]]"
+- "[[H6692B]]"
+- "[[H2762]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:9**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved is like a roe or a young hart: behold, he standeth behind our wall, he looketh forth at the windows, shewing himself through the lattice.
 <small><sub>**BSB:**</sub></small>
 My beloved is like a gazelle or a young stag. Look, he stands behind our wall, gazing through the windows, peering through the lattice.
+<small><sub>**Hebrew:**</sub></small>
+[[H1819\|דּוֹמֶ֤ה]] [[H1730G\|דוֹדִ]][[H9020\|י֙]] [[H9005\|לִ]][[H6643B\|צְבִ֔י]] [[H0176A\|א֖וֹ]] [[H9005\|לְ]][[H6082\|עֹ֣פֶר]] [[H9009\|הָֽ]][[H0354\|אַיָּלִ֑ים]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H2088\|זֶ֤ה]] [[H5975G\|עוֹמֵד֙]] [[H0310A\|אַחַ֣ר]] [[H3796\|כָּתְלֵ֔]][[H9025\|נוּ]] [[H7688\|מַשְׁגִּ֙יחַ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H2474\|חֲלֹּנ֔וֹת]] [[H6692B\|מֵצִ֖יץ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַֽ]][[H2762\|חֲרַכִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.8|<< Song of Solomon 2:8]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.10|Song of Solomon 2:10 >>]]</td></tr></table>
 

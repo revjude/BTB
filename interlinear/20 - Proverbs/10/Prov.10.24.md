@@ -1,8 +1,54 @@
+---
+title: Proverbs 10:24
+type: Verse
+kjv: "The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted."
+bsb: "What the wicked man dreads will overtake him, but the desire of the righteous will be granted."
+hebrew: "מְגוֹרַ֣ת רָ֭שָׁע הִ֣יא תְבוֹאֶ֑נּוּ וְתַאֲוַ֖ת צַדִּיקִ֣ים יִתֵּֽן׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H4034]]"
+- "[[H7563]]"
+- "[[H1931]]"
+- "[[H0935G]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H8378]]"
+- "[[H6662]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:24**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.
 <small><sub>**BSB:**</sub></small>
 What the wicked man dreads will overtake him, but the desire of the righteous will be granted.
+<small><sub>**Hebrew:**</sub></small>
+[[H4034\|מְגוֹרַ֣ת]] [[H7563\|רָ֭שָׁע]] [[H1931\|הִ֣יא]] [[H0935G\|תְבוֹאֶ֑]][[H9033\|נּוּ]] [[H9002\|וְ]][[H8378\|תַאֲוַ֖ת]] [[H6662\|צַדִּיקִ֣ים]] [[H5414G\|יִתֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic REVERENCE|REVERENCE]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.23|<< Proverbs 10:23]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.25|Proverbs 10:25 >>]]</td></tr></table>
 

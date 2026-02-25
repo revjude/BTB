@@ -1,8 +1,58 @@
+---
+title: Proverbs 14:12
+type: Verse
+kjv: "There is a way which seemeth right unto a man, but the end thereof are the ways of death."
+bsb: "There is a way that seems right to a man, but its end is the way of death."
+hebrew: "יֵ֤שׁ דֶּ֣רֶךְ יָ֭שָׁר לִפְנֵי־ אִ֑ישׁ וְ֝אַחֲרִיתָ֗הּ דַּרְכֵי־ מָֽוֶת׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H3426]]"
+- "[[H1870G]]"
+- "[[H3477G]]"
+- "[[H9005]]"
+- "[[H6440L]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H0319]]"
+- "[[H9024]]"
+- "[[H4194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:12**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is a way which seemeth right unto a man, but the end thereof [are] the ways of death.
 <small><sub>**BSB:**</sub></small>
 There is a way that seems right to a man, but its end is the way of death.
+<small><sub>**Hebrew:**</sub></small>
+[[H3426\|יֵ֤שׁ]] [[H1870G\|דֶּ֣רֶךְ]] [[H3477G\|יָ֭שָׁר]] [[H9005\|לִ]][[H6440L\|פְנֵי]][[H9014\|־]] [[H0376G\|אִ֑ישׁ]] [[H9002\|וְ֝]][[H0319\|אַחֲרִיתָ֗]][[H9024\|הּ]] [[H1870G\|דַּרְכֵי]][[H9014\|־]] [[H4194\|מָֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DEATH|DEATH]] • [[topic REASONING|REASONING]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.11|<< Proverbs 14:11]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.13|Proverbs 14:13 >>]]</td></tr></table>
 

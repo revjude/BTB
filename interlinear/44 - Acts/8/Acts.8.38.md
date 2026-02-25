@@ -1,10 +1,58 @@
+---
+title: Acts 8:38
+type: Verse
+kjv: "And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him."
+bsb: "And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water, and Philip baptized him."
+greek: "καὶ ἐκέλευσεν στῆναι τὸ ἅρμα, καὶ κατέβησαν ἀμφότεροι εἰς τὸ ὕδωρ, ὅ τε Φίλιππος καὶ ὁ εὐνοῦχος, καὶ ἐβάπτισεν αὐτόν."
+pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G2532]]"
+- "[[G2753]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G0716]]"
+- "[[G2597]]"
+- "[[G0297]]"
+- "[[G1519]]"
+- "[[G5204]]"
+- "[[G5037]]"
+- "[[G5376J]]"
+- "[[G2135]]"
+- "[[G0907]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 8:38**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him.
 <small><sub>**BSB:**</sub></small>
 And he gave orders to stop the chariot. Then both Philip and the eunuch went down into the water, and Philip baptized him.
-<small><sub>**Literal:**</sub></small>
-And he commanded to stop the chariot, And they went down both to the water, <the> both Philip and the eunuch, and he baptized him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.37|<< Acts 8:37]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.39|Acts 8:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2753\|ἐκέλευσεν]]  [[G2476\|στῆναι]]  [[G3588\|τὸ]]  [[G0716\|ἅρμα,]]  [[G2532\|καὶ]]  [[G2597\|κατέβησαν]]  [[G0297\|ἀμφότεροι]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G5204\|ὕδωρ,]]  [[G3588\|ὅ]]  [[G5037\|τε]]  [[G5376J\|Φίλιππος]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2135\|εὐνοῦχος,]]  [[G2532\|καὶ]]  [[G0907\|ἐβάπτισεν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CONVERTS|CONVERTS]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic GAZA|GAZA]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.37|<< Acts 8:37]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.39|Acts 8:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

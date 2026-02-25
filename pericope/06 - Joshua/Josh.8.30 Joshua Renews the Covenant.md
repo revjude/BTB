@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua Renews the Covenant
+type: Pericope
 pericope: "[[Josh.8.30 Joshua Renews the Covenant|Joshua Renews the Covenant]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 8
 book/chapter: "[[Josh.8|Joshua 8]]"
-genre:
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 6
 verses:
 - "[[Josh.8.30]]"
 - "[[Josh.8.31]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Josh.8.35]]"
 ---
 
-[[Josh.8|Joshua 8:30 - Joshua 8:35]]
+<small>[[Josh.8|Joshua 8:30-35]]</small>
 *Joshua Renews the Covenant*
 
 [[Josh.8.30|30]] Then Joshua built an altar unto the LORD God of Israel in mount Ebal,

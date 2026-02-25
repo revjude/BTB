@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 4:10
+type: Verse
+kjv: "And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen."
+bsb: "So the Philistines fought, and Israel was defeated, and each man fled to his tent. The slaughter was very great—thirty thousand foot soldiers of Israel fell."
+hebrew: "וַיִּלָּחֲמ֣וּ פְלִשְׁתִּ֗ים וַיִּנָּ֤גֶף יִשְׂרָאֵל֙ וַיָּנֻ֙סוּ֙ אִ֣ישׁ לְאֹהָלָ֔יו וַתְּהִ֥י הַמַּכָּ֖ה גְּדוֹלָ֣ה מְאֹ֑ד וַיִּפֹּל֙ מִיִּשְׂרָאֵ֔ל שְׁלֹשִׁ֥ים אֶ֖לֶף רַגְלִֽי׃"
+pericope: "[[1Sam.4.1 The Philistines Capture the Ark|The Philistines Capture the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic APHEK|APHEK]]"
+- "[[topic ARK|ARK]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3898A]]"
+- "[[H6430G]]"
+- "[[H5062]]"
+- "[[H3478]]"
+- "[[H5127]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H0168H]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H4347]]"
+- "[[H1419A]]"
+- "[[H3966]]"
+- "[[H5307J]]"
+- "[[H9006]]"
+- "[[H7970]]"
+- "[[H0505G]]"
+- "[[H7273]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 4:10**<big><big>[[1Sam.4.1 The Philistines Capture the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.
 <small><sub>**BSB:**</sub></small>
 So the Philistines fought, and Israel was defeated, and each man fled to his tent. The slaughter was very great—thirty thousand foot soldiers of Israel fell.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3898A\|יִּלָּחֲמ֣וּ]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H9001\|וַ]][[H5062\|יִּנָּ֤גֶף]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וַ]][[H5127\|יָּנֻ֙סוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H9005\|לְ]][[H0168H\|אֹהָלָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H1961\|תְּהִ֥י]] [[H9009\|הַ]][[H4347\|מַּכָּ֖ה]] [[H1419A\|גְּדוֹלָ֣ה]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H5307J\|יִּפֹּל֙]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵ֔ל]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H7273\|רַגְלִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHEK|APHEK]] • [[topic ARK|ARK]] • [[topic ARMIES|ARMIES]] • [[topic ISRAEL|ISRAEL]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.9|<< 1 Samuel 4:9]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.11|1 Samuel 4:11 >>]]</td></tr></table>
 

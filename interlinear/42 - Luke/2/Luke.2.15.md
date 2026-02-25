@@ -1,10 +1,73 @@
+---
+title: Luke 2:15
+type: Verse
+kjv: "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us."
+bsb: "When the angels had left them and gone into heaven, the shepherds said to one another, “Let us go to Bethlehem and see this thing that has happened, which the Lord has made known to us.”"
+greek: "Καὶ ἐγένετο ὡς ἀπῆλθον ἀπ᾽ αὐτῶν εἰς τὸν οὐρανὸν οἱ ἄγγελοι, καὶ οἱ ἄνθρωποι οἱ ποιμένες ἐλάλουν πρὸς ἀλλήλους· διέλθωμεν δὴ ἕως Βηθλέεμ καὶ ἴδωμεν τὸ ῥῆμα τοῦτο τὸ γεγονὸς ὃ ὁ κύριος ἐγνώρισεν ἡμῖν."
+pericope: "[[Luke.2.8 The Shepherds and the Angels|The Shepherds and the Angels]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G0565]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G0032G]]"
+- "[[G0444]]"
+- "[[G4166]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G1330]]"
+- "[[G1211]]"
+- "[[G2193]]"
+- "[[G0965]]"
+- "[[G1492H]]"
+- "[[G4487]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G2962G]]"
+- "[[G1107]]"
+- "[[G3165]]"
+texts:
+- NKO
+- ko
+- N(k)O
+---
+
 **Luke 2:15**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us.
 <small><sub>**BSB:**</sub></small>
 When the angels had left them and gone into heaven, the shepherds said to one another, “Let us go to Bethlehem and see this thing that has happened, which the Lord has made known to us.”
-<small><sub>**Literal:**</sub></small>
-And it came to pass as they were departing from them into the heaven the angels, and the men <the> shepherds were speaking to one another; Let us go through indeed until Bethlehem and let us see <the> declaration this that having happened which the Lord has made known to us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.14|<< Luke 2:14]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.16|Luke 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G5613\|ὡς]]  [[G0565\|ἀπῆλθον]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G3588\|οἱ]]  [[G0032G\|ἄγγελοι,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι]]  [[G3588\|οἱ]]  [[G4166\|ποιμένες]]  [[G2980\|ἐλάλουν]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους·]]  [[G1330\|διέλθωμεν]]  [[G1211\|δὴ]]  [[G2193\|ἕως]]  [[G0965\|Βηθλέεμ]]  [[G2532\|καὶ]]  [[G1492H\|ἴδωμεν]]  [[G3588\|τὸ]]  [[G4487\|ῥῆμα]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G1096\|γεγονὸς]]  [[G3739\|ὃ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G1107\|ἐγνώρισεν]]  [[G3165\|ἡμῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BETHLEHEM|BETHLEHEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.14|<< Luke 2:14]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.16|Luke 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

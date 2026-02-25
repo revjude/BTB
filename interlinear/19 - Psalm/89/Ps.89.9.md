@@ -1,8 +1,57 @@
+---
+title: Psalm 89:9
+type: Verse
+kjv: "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them."
+bsb: "You rule the raging sea; when its waves mount up, You still them."
+hebrew: "אַתָּ֣ה מ֭וֹשֵׁל בְּגֵא֣וּת הַיָּ֑ם בְּשׂ֥וֹא גַ֝לָּ֗יו אַתָּ֥ה תְשַׁבְּחֵֽם׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H0859A]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H1348]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H5375G]]"
+- "[[H1530H]]"
+- "[[H9023]]"
+- "[[H7623A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:9**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.
 <small><sub>**BSB:**</sub></small>
 You rule the raging sea; when its waves mount up, You still them.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּ֣ה]] [[H4910\|מ֭וֹשֵׁל]] [[H9003\|בְּ]][[H1348\|גֵא֣וּת]] [[H9009\|הַ]][[H3220G\|יָּ֑ם]] [[H9003\|בְּ]][[H5375G\|שׂ֥וֹא]] [[H1530H\|גַ֝לָּ֗י]][[H9023\|ו]] [[H0859A\|אַתָּ֥ה]] [[H7623A\|תְשַׁבְּחֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.8|<< Psalms 89:8]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.10|Psalms 89:10 >>]]</td></tr></table>
 

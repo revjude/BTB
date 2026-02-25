@@ -1,8 +1,75 @@
+---
+title: Genesis 20:9
+type: Verse
+kjv: "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done."
+bsb: "Then Abimelech called Abraham and asked, “What have you done to us? How have I sinned against you, that you have brought such tremendous guilt upon me and my kingdom? You have done things to me that should not be done.”"
+hebrew: "וַיִּקְרָ֨א אֲבִימֶ֜לֶךְ לְאַבְרָהָ֗ם וַיֹּ֨אמֶר ל֜וֹ מֶֽה־ עָשִׂ֤יתָ לָּ֙נוּ֙ וּמֶֽה־ חָטָ֣אתִי לָ֔ךְ כִּֽי־ הֵבֵ֧אתָ עָלַ֛י וְעַל־ מַמְלַכְתִּ֖י חֲטָאָ֣ה גְדֹלָ֑ה מַעֲשִׂים֙ אֲשֶׁ֣ר לֹא־ יֵֽעָשׂ֔וּ עָשִׂ֖יתָ עִמָּדִֽי׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0040G]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H2398]]"
+- "[[H9032]]"
+- "[[H3588A]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H4467]]"
+- "[[H9020]]"
+- "[[H2401]]"
+- "[[H1419A]]"
+- "[[H4639K]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5978]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:9**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done.
 <small><sub>**BSB:**</sub></small>
 Then Abimelech called Abraham and asked, “What have you done to us? How have I sinned against you, that you have brought such tremendous guilt upon me and my kingdom? You have done things to me that should not be done.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֨א]] [[H0040G\|אֲבִימֶ֜לֶךְ]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֗ם]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H4100\|מֶֽה]][[H9014\|־]] [[H6213A\|עָשִׂ֤יתָ]] [[H9005\|לָּ֙]][[H9035\|נוּ֙]] [[H9002\|וּ]][[H4100\|מֶֽה]][[H9014\|־]] [[H2398\|חָטָ֣אתִי]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935P\|הֵבֵ֧אתָ]] [[H5921A\|עָלַ֛]][[H9030\|י]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4467\|מַמְלַכְתִּ֖]][[H9020\|י]] [[H2401\|חֲטָאָ֣ה]] [[H1419A\|גְדֹלָ֑ה]] [[H4639K\|מַעֲשִׂים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|יֵֽעָשׂ֔וּ]] [[H6213A\|עָשִׂ֖יתָ]] [[H5978\|עִמָּדִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic NATION|NATION]] • [[topic SARAH|SARAH]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.8|<< Genesis 20:8]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.10|Genesis 20:10 >>]]</td></tr></table>
 

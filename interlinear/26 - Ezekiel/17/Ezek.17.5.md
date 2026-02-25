@@ -1,8 +1,62 @@
+---
+title: Ezekiel 17:5
+type: Verse
+kjv: "He took also of the seed of the land, and planted it in a fruitful field; he placed it by great waters, and set it as a willow tree."
+bsb: "He took some of the seed of the land and planted it in fertile soil; he placed it by abundant waters and set it out like a willow."
+hebrew: "וַיִּקַּח֙ מִזֶּ֣רַע הָאָ֔רֶץ וַֽיִּתְּנֵ֖הוּ בִּשְׂדֵה־ זָ֑רַע קָ֚ח עַל־ מַ֣יִם רַבִּ֔ים צַפְצָפָ֖ה שָׂמֽוֹ׃"
+pericope: "[[Ezek.17.1 The Parable of Two Eagles and a Vine|The Parable of Two Eagles and a Vine]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic WILLOW|WILLOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H2233G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5414H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H7704B]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H6851]]"
+- "[[H7760A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:5**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He took also of the seed of the land, and planted it in a fruitful field; he placed [it] by great waters, [and] set it [as] a willow tree.
 <small><sub>**BSB:**</sub></small>
 He took some of the seed of the land and planted it in fertile soil; he placed it by abundant waters and set it out like a willow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּח֙]] [[H9006\|מִ]][[H2233G\|זֶּ֣רַע]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וַֽ]][[H5414H\|יִּתְּנֵ֖]][[H9033\|הוּ]] [[H9003\|בִּ]][[H7704B\|שְׂדֵה]][[H9014\|־]] [[H2233G\|זָ֑רַע]] [[H3947G\|קָ֚ח]] [[H5921A\|עַל]][[H9014\|־]] [[H4325G\|מַ֣יִם]] [[H7227A\|רַבִּ֔ים]] [[H6851\|צַפְצָפָ֖ה]] [[H7760A\|שָׂמֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic PARABLES|PARABLES]] • [[topic WILLOW|WILLOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.4|<< Ezekiel 17:4]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.6|Ezekiel 17:6 >>]]</td></tr></table>
 

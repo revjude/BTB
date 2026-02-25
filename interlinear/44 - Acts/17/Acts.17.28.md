@@ -1,10 +1,63 @@
+---
+title: Acts 17:28
+type: Verse
+kjv: "For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring."
+bsb: "‘For in Him we live and move and have our being.’ As some of your own poets have said, ‘We are His offspring.’"
+greek: "ἐν αὐτῷ γὰρ ζῶμεν καὶ κινούμεθα καὶ ἐσμέν, ὡς καί τινες τῶν καθ᾽ ὑμᾶς ποιητῶν εἰρήκασιν· τοῦ γὰρ καὶ γένος ἐσμέν."
+pericope: "[[Acts.17.22 Paul’s Address in the Areopagus|Paul’s Address in the Areopagus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic POET|POET]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G2198]]"
+- "[[G2532]]"
+- "[[G2795]]"
+- "[[G1510]]"
+- "[[G5613]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G4771]]"
+- "[[G4163]]"
+- "[[G2046]]"
+- "[[G1085G]]"
+texts:
+- NKO
+---
+
 **Acts 17:28**<big><big>[[Acts.17.22 Paul’s Address in the Areopagus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.
 <small><sub>**BSB:**</sub></small>
 ‘For in Him we live and move and have our being.’ As some of your own poets have said, ‘We are His offspring.’
-<small><sub>**Literal:**</sub></small>
-In Him for we live and move and are,’ As also some of the among you poets have said; of [Him] For also offspring we are.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.27|<< Acts 17:27]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.29|Acts 17:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G1063\|γὰρ]]  [[G2198\|ζῶμεν]]  [[G2532\|καὶ]]  [[G2795\|κινούμεθα]]  [[G2532\|καὶ]]  [[G1510\|ἐσμέν,]]  [[G5613\|ὡς]]  [[G2532\|καί]]  [[G5100\|τινες]]  [[G3588\|τῶν]]  [[G2596\|καθ᾽]]  [[G4771\|ὑμᾶς]]  [[G4163\|ποιητῶν]]  [[G2046\|εἰρήκασιν·]]  [[G3588\|τοῦ]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G1085G\|γένος]]  [[G1510\|ἐσμέν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHENS|ATHENS]] • [[topic GOD|GOD]] • [[topic GREECE|GREECE]] • [[topic LIFE|LIFE]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]] • [[topic POET|POET]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.27|<< Acts 17:27]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.29|Acts 17:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

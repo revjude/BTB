@@ -1,8 +1,57 @@
+---
+title: Nehemiah 4:17
+type: Verse
+kjv: "They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon."
+bsb: "who were rebuilding the wall. The laborers who carried materials worked with one hand and held a weapon with the other."
+hebrew: "הַבּוֹנִ֧ים בַּחוֹמָ֛ה וְהַנֹּשְׂאִ֥ים בַּסֶּ֖בֶל עֹמְשִׂ֑ים בְּאַחַ֤ת יָדוֹ֙ עֹשֶׂ֣ה בַמְּלָאכָ֔ה וְאַחַ֖ת מַחֲזֶ֥קֶת הַשָּֽׁלַח׃"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9009]]"
+- "[[H1129]]"
+- "[[H9003]]"
+- "[[H2346G]]"
+- "[[H9002]]"
+- "[[H5375H]]"
+- "[[H5447]]"
+- "[[H6006]]"
+- "[[H0259]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H2388H]]"
+- "[[H7973]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 4:17**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They which builded on the wall, and they that bare burdens, with those that laded, [every one] with one of his hands wrought in the work, and with the other [hand] held a weapon.
 <small><sub>**BSB:**</sub></small>
 who were rebuilding the wall. The laborers who carried materials worked with one hand and held a weapon with the other.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1129\|בּוֹנִ֧ים]] [[H9003\|בַּ]][[H2346G\|חוֹמָ֛ה]] [[H9002\|וְ]][[H9009\|הַ]][[H5375H\|נֹּשְׂאִ֥ים]] [[H9003\|בַּ]][[H5447\|סֶּ֖בֶל]] [[H6006\|עֹמְשִׂ֑ים]] [[H9003\|בְּ]][[H0259\|אַחַ֤ת]] [[H3027G\|יָד]][[H9023\|וֹ֙]] [[H6213A\|עֹשֶׂ֣ה]] [[H9003\|בַ]][[H4399\|מְּלָאכָ֔ה]] [[H9002\|וְ]][[H0259\|אַחַ֖ת]] [[H2388H\|מַחֲזֶ֥קֶת]] [[H9009\|הַ]][[H7973\|שָּֽׁלַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.16|<< Nehemiah 4:16]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.18|Nehemiah 4:18 >>]]</td></tr></table>
 

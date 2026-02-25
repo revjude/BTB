@@ -1,8 +1,64 @@
+---
+title: Jeremiah 27:14
+type: Verse
+kjv: "Therefore hearken not unto the words of the prophets that speak unto you, saying, Ye shall not serve the king of Babylon: for they prophesy a lie unto you."
+bsb: "Do not listen to the words of the prophets who say, ‘You must not serve the king of Babylon,’ for they are prophesying to you a lie."
+hebrew: "וְאַֽל־ תִּשְׁמְע֞וּ אֶל־ דִּבְרֵ֣י הַנְּבִאִ֗ים הָאֹמְרִ֤ים אֲלֵיכֶם֙ לֵאמֹ֔ר לֹ֥א תַעַבְד֖וּ אֶת־ מֶ֣לֶךְ בָּבֶ֑ל כִּ֣י שֶׁ֔קֶר הֵ֖ם נִבְּאִ֥ים לָכֶֽם׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0559]]"
+- "[[H9036]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H3588A]]"
+- "[[H8267]]"
+- "[[H1992]]"
+- "[[H5012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:14**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore hearken not unto the words of the prophets that speak unto you, saying, Ye shall not serve the king of Babylon: for they prophesy a lie unto you.
 <small><sub>**BSB:**</sub></small>
 Do not listen to the words of the prophets who say, ‘You must not serve the king of Babylon,’ for they are prophesying to you a lie.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0408\|אַֽל]][[H9014\|־]] [[H8085G\|תִּשְׁמְע֞וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H9009\|הַ]][[H5030\|נְּבִאִ֗ים]] [[H9009\|הָ]][[H0559\|אֹמְרִ֤ים]] [[H0413\|אֲלֵי]][[H9036\|כֶם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3808\|לֹ֥א]] [[H5647G\|תַעַבְד֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֑ל]] [[H3588A\|כִּ֣י]] [[H8267\|שֶׁ֔קֶר]] [[H1992\|הֵ֖ם]] [[H5012\|נִבְּאִ֥ים]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.13|<< Jeremiah 27:13]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.15|Jeremiah 27:15 >>]]</td></tr></table>
 

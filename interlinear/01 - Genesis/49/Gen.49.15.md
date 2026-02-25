@@ -1,8 +1,67 @@
+---
+title: Genesis 49:15
+type: Verse
+kjv: "And he saw that rest was good, and the land that it was pleasant; and bowed his shoulder to bear, and became a servant unto tribute."
+bsb: "He saw that his resting place was good and that his land was pleasant, so he bent his shoulder to the burden and submitted to labor as a servant."
+hebrew: "וַיַּ֤רְא מְנֻחָה֙ כִּ֣י ט֔וֹב וְאֶת־ הָאָ֖רֶץ כִּ֣י נָעֵ֑מָה וַיֵּ֤ט שִׁכְמוֹ֙ לִסְבֹּ֔ל וַיְהִ֖י לְמַס־ עֹבֵֽד׃ ס"
+pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H4496H]]"
+- "[[H3588A]]"
+- "[[H2895]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5276]]"
+- "[[H5186]]"
+- "[[H7926]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5445]]"
+- "[[H1961]]"
+- "[[H4522]]"
+- "[[H5647G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 49:15**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he saw that rest [was] good, and the land that [it was] pleasant; and bowed his shoulder to bear, and became a servant unto tribute.
 <small><sub>**BSB:**</sub></small>
 He saw that his resting place was good and that his land was pleasant, so he bent his shoulder to the burden and submitted to labor as a servant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֤רְא]] [[H4496H\|מְנֻחָה֙]] [[H3588A\|כִּ֣י]] [[H2895\|ט֔וֹב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H3588A\|כִּ֣י]] [[H5276\|נָעֵ֑מָה]] [[H9001\|וַ]][[H5186\|יֵּ֤ט]] [[H7926\|שִׁכְמ]][[H9023\|וֹ֙]] [[H9005\|לִ]][[H5445\|סְבֹּ֔ל]] [[H9001\|וַ]][[H1961\|יְהִ֖י]] [[H9005\|לְ]][[H4522\|מַס]][[H9014\|־]] [[H5647G\|עֹבֵֽד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic ISSACHAR|ISSACHAR]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.14|<< Genesis 49:14]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.16|Genesis 49:16 >>]]</td></tr></table>
 
@@ -21,7 +80,7 @@ He saw that his resting place was good and that his land was pleasant, so he ben
 | to carry a load  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H5445\|סְבֹּ֔ל]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> s.Bol<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he became  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֖י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<into> forced labor of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4522\|מַס]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mas-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| laboring  |**<big>&#8207;[[H5647G\|עֹבֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| laboring  |**<big>&#8207;[[H5647G\|עֹבֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Ved<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.14|<< Genesis 49:14]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.16|Genesis 49:16 >>]]</td></tr></table>
 
 

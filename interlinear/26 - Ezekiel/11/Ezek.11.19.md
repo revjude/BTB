@@ -1,8 +1,67 @@
+---
+title: Ezekiel 11:19
+type: Verse
+kjv: "And I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh:"
+bsb: "And I will give them singleness of heart and put a new spirit within them; I will remove their heart of stone and give them a heart of flesh,"
+hebrew: "וְנָתַתִּ֤י לָהֶם֙ לֵ֣ב אֶחָ֔ד וְר֥וּחַ חֲדָשָׁ֖ה אֶתֵּ֣ן בְּקִרְבְּכֶ֑ם וַהֲסִ֨רֹתִ֜י לֵ֤ב הָאֶ֙בֶן֙ מִבְּשָׂרָ֔ם וְנָתַתִּ֥י לָהֶ֖ם לֵ֥ב בָּשָֽׂר׃"
+pericope: "[[Ezek.11.13 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3820A]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H7307G]]"
+- "[[H2319H]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9026]]"
+- "[[H5493G]]"
+- "[[H9009]]"
+- "[[H0068G]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 11:19**<big><big>[[Ezek.11.13 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will give them one heart, and I will put a new spirit within you; and I will take the stony heart out of their flesh, and will give them an heart of flesh:
 <small><sub>**BSB:**</sub></small>
 And I will give them singleness of heart and put a new spirit within them; I will remove their heart of stone and give them a heart of flesh,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֤י]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3820A\|לֵ֣ב]] [[H0259\|אֶחָ֔ד]] [[H9002\|וְ]][[H7307G\|ר֥וּחַ]] [[H2319H\|חֲדָשָׁ֖ה]] [[H5414H\|אֶתֵּ֣ן]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H5493G\|הֲסִ֨רֹתִ֜י]] [[H3820A\|לֵ֤ב]] [[H9009\|הָ]][[H0068G\|אֶ֙בֶן֙]] [[H9006\|מִ]][[H1320\|בְּשָׂרָ֔]][[H9028\|ם]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֥י]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H3820A\|לֵ֥ב]] [[H1320\|בָּשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic HEART|HEART]] • [[topic REGENERATION|REGENERATION]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.18|<< Ezekiel 11:18]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.20|Ezekiel 11:20 >>]]</td></tr></table>
 

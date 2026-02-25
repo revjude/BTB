@@ -1,10 +1,46 @@
+---
+title: Jude 1:20
+type: Verse
+kjv: "But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,"
+bsb: "But you, beloved, by building yourselves up in your most holy faith and praying in the Holy Spirit,"
+greek: "ὑμεῖς δέ, ἀγαπητοί, ἐποικοδομοῦντες ἑαυτοὺς τῇ ἁγιωτάτῃ ὑμῶν πίστει, ἐν πνεύματι ἁγίῳ προσευχόμενοι,"
+pericope: "[[Jude.1.17 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G0027]]"
+- "[[G2026]]"
+- "[[G1438]]"
+- "[[G3588]]"
+- "[[G0040G]]"
+- "[[G4102G]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G4336]]"
+texts:
+- NKO
+---
+
 **Jude 1:20**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,
 <small><sub>**BSB:**</sub></small>
 But you, beloved, by building yourselves up in your most holy faith and praying in the Holy Spirit,
-<small><sub>**Literal:**</sub></small>
-you yourselves however, beloved, building up yourselves in the most holy of you faith in [the] Spirit Holy praying,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.19|<< Jude 1:19]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.21|Jude 1:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G1161\|δέ,]]  [[G0027\|ἀγαπητοί,]]  [[G2026\|ἐποικοδομοῦντες]]  [[G1438\|ἑαυτοὺς]]  [[G3588\|τῇ]]  [[G0040G\|ἁγιωτάτῃ]]  [[G4771\|ὑμῶν]]  [[G4102G\|πίστει,]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ]]  [[G4336\|προσευχόμενοι,]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.19|<< Jude 1:19]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.21|Jude 1:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,59 @@
+---
+title: Luke 13:1
+type: Verse
+kjv: "There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices."
+bsb: "At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices."
+greek: "Παρῆσαν δέ τινες ἐν αὐτῷ τῷ καιρῷ ἀπαγγέλλοντες αὐτῷ περὶ τῶν Γαλιλαίων ὧν τὸ αἷμα Πιλᾶτος ἔμιξεν μετὰ τῶν θυσιῶν αὐτῶν.¶"
+pericope: "[[Luke.13.1 A Call to Repentance|A Call to Repentance]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[G3918]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G0518]]"
+- "[[G4012]]"
+- "[[G1057]]"
+- "[[G3739]]"
+- "[[G0129G]]"
+- "[[G4091]]"
+- "[[G3396]]"
+- "[[G3326]]"
+- "[[G2378]]"
+texts:
+- NKO
+---
+
 **Luke 13:1**<big><big>[[Luke.13.1 A Call to Repentance|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
 <small><sub>**BSB:**</sub></small>
 At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.
-<small><sub>**Literal:**</sub></small>
-Were present now some at the same <the> time telling to Him about the Galileans of whom the blood Pilate mingled with the sacrifices of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.59|<< Luke 12:59]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.2|Luke 13:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3918\|Παρῆσαν]]  [[G1161\|δέ]]  [[G5100\|τινες]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3588\|τῷ]]  [[G2540\|καιρῷ]]  [[G0518\|ἀπαγγέλλοντες]]  [[G0846\|αὐτῷ]]  [[G4012\|περὶ]]  [[G3588\|τῶν]]  [[G1057\|Γαλιλαίων]]  [[G3739\|ὧν]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G4091\|Πιλᾶτος]]  [[G3396\|ἔμιξεν]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G2378\|θυσιῶν]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic REPENTANCE|REPENTANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.59|<< Luke 12:59]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.2|Luke 13:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

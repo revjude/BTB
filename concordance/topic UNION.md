@@ -1,7 +1,7 @@
 
 **UNION**
 
-→ Advantages of [[Prov.15.22|Pr 15:22]]; [[Eccl.4.9|Ec 4:9]]-[[Eccl.4.12|12]]
+→ Advantages of [[Prov.15.22|Pr 15:22]]; [[Eccl.4.9|Ec 4:9-12]]
 
 → OF THE RIGHTEOUS
 

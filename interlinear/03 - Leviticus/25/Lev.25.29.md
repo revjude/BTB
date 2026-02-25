@@ -1,8 +1,71 @@
+---
+title: Leviticus 25:29
+type: Verse
+kjv: "And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; within a full year may he redeem it."
+bsb: "If a man sells a house in a walled city, he retains his right of redemption until a full year after its sale; during that year it may be redeemed."
+hebrew: "וְאִ֗ישׁ כִּֽי־ יִמְכֹּ֤ר בֵּית־ מוֹשַׁב֙ עִ֣יר חוֹמָ֔ה וְהָיְתָה֙ גְּאֻלָּת֔וֹ עַד־ תֹּ֖ם שְׁנַ֣ת מִמְכָּר֑וֹ יָמִ֖ים תִּהְיֶ֥ה גְאֻלָּתֽוֹ׃"
+pericope: "[[Lev.25.23 The Law of Redemption|The Law of Redemption]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic HOMESTEAD|HOMESTEAD]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4376]]"
+- "[[H1004B]]"
+- "[[H4186]]"
+- "[[H5892B]]"
+- "[[H2346G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1353]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H8552]]"
+- "[[H8141]]"
+- "[[H4465]]"
+- "[[H3117I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:29**<big><big>[[Lev.25.23 The Law of Redemption|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; [within] a full year may he redeem it.
 <small><sub>**BSB:**</sub></small>
 If a man sells a house in a walled city, he retains his right of redemption until a full year after its sale; during that year it may be redeemed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֗ישׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4376\|יִמְכֹּ֤ר]] [[H1004B\|בֵּית]][[H9014\|־]] [[H4186\|מוֹשַׁב֙]] [[H5892B\|עִ֣יר]] [[H2346G\|חוֹמָ֔ה]] [[H9001\|וְ]][[H1961\|הָיְתָה֙]] [[H1353\|גְּאֻלָּת֔]][[H9023\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H8552\|תֹּ֖ם]] [[H8141\|שְׁנַ֣ת]] [[H4465\|מִמְכָּר֑]][[H9023\|וֹ]] [[H3117I\|יָמִ֖ים]] [[H1961\|תִּהְיֶ֥ה]] [[H1353\|גְאֻלָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic HOMESTEAD|HOMESTEAD]] • [[topic HOUSE|HOUSE]] • [[topic JUBILEE|JUBILEE]] • [[topic LAND|LAND]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic YEAR|YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.28|<< Leviticus 25:28]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.30|Leviticus 25:30 >>]]</td></tr></table>
 

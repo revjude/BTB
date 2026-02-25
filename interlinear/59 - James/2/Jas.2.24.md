@@ -1,10 +1,56 @@
+---
+title: James 2:24
+type: Verse
+kjv: "Ye see then how that by works a man is justified, and not by faith only."
+bsb: "As you can see, a man is justified by his deeds and not by faith alone."
+greek: "ὁρᾶτε τοίνυν ὅτι ἐξ ἔργων δικαιοῦται ἄνθρωπος καὶ οὐκ ἐκ πίστεως μόνον.¶"
+pericope: "[[Jas.2.14 Faith and Works|Faith and Works]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3708]]"
+- "[[G5106]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G2041]]"
+- "[[G1344]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G4102G]]"
+- "[[G3441]]"
+texts:
+- NKO
+- K
+---
+
 **James 2:24**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye see then how that by works a man is justified, and not by faith only.
 <small><sub>**BSB:**</sub></small>
 As you can see, a man is justified by his deeds and not by faith alone.
-<small><sub>**Literal:**</sub></small>
-You see therefore that by works is justified a man and not by faith alone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.23|<< James 2:23]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.25|James 2:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3708\|ὁρᾶτε]]  [[G5106\|τοίνυν]]  [[G3754G\|ὅτι]]  [[G1537\|ἐξ]]  [[G2041\|ἔργων]]  [[G1344\|δικαιοῦται]]  [[G0444\|ἄνθρωπος]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως]]  [[G3441\|μόνον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.23|<< James 2:23]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.25|James 2:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

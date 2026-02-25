@@ -1,8 +1,60 @@
+---
+title: Psalm 50:3
+type: Verse
+kjv: "Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him."
+bsb: "Our God approaches and will not be silent! Consuming fire precedes Him, and a tempest rages around Him."
+hebrew: "יָ֤בֹ֥א אֱלֹהֵ֗ינוּ וְֽאַל־ יֶ֫חֱרַ֥שׁ אֵשׁ־ לְפָנָ֥יו תֹּאכֵ֑ל וּ֝סְבִיבָ֗יו נִשְׂעֲרָ֥ה מְאֹֽד׃"
+pericope: "[[Ps.50.1 The Mighty One Calls|The Mighty One Calls]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JUDGMENT|JUDGMENT]]"
+strongs:
+- "[[H0935G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2790B]]"
+- "[[H0784]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H0398]]"
+- "[[H5439G]]"
+- "[[H9033]]"
+- "[[H8175B]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 50:3**<big><big>[[Ps.50.1 The Mighty One Calls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Our God shall come, and shall not keep silence: a fire shall devour before him, and it shall be very tempestuous round about him.
 <small><sub>**BSB:**</sub></small>
 Our God approaches and will not be silent! Consuming fire precedes Him, and a tempest rages around Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|יָ֤בֹ֥א]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H9002\|וְֽ]][[H0408\|אַל]][[H9014\|־]] [[H2790B\|יֶ֫חֱרַ֥שׁ]] [[H0784\|אֵשׁ]][[H9014\|־]] [[H9005\|לְ]][[H6440G\|פָנָ֥י]][[H9023\|ו]] [[H0398\|תֹּאכֵ֑ל]] [[H9002\|וּ֝]][[H5439G\|סְבִיבָ֗י]][[H9033\|ו]] [[H8175B\|נִשְׂעֲרָ֥ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENT|JUDGMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.50.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.50.2|<< Psalms 50:2]]</td><td align="center" style="border:none;">[[Ps.50|Psalms 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.50.4|Psalms 50:4 >>]]</td></tr></table>
 

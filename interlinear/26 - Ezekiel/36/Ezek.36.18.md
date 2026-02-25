@@ -1,8 +1,63 @@
+---
+title: Ezekiel 36:18
+type: Verse
+kjv: "Wherefore I poured my fury upon them for the blood that they had shed upon the land, and for their idols wherewith they had polluted it:"
+bsb: "So I poured out My wrath upon them because of the blood they had shed on the land, and because they had defiled it with their idols."
+hebrew: "וָאֶשְׁפֹּ֤ךְ חֲמָתִי֙ עֲלֵיהֶ֔ם עַל־ הַדָּ֖ם אֲשֶׁר־ שָׁפְכ֣וּ עַל־ הָאָ֑רֶץ וּבְגִלּוּלֵיהֶ֖ם טִמְּאֽוּהָ׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8210G]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H0834A]]"
+- "[[H8210H]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1544]]"
+- "[[H9028]]"
+- "[[H2930A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:18**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I poured my fury upon them for the blood that they had shed upon the land, and for their idols [wherewith] they had polluted it:
 <small><sub>**BSB:**</sub></small>
 So I poured out My wrath upon them because of the blood they had shed on the land, and because they had defiled it with their idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H8210G\|אֶשְׁפֹּ֤ךְ]] [[H2534\|חֲמָתִ]][[H9020\|י֙]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּ֖ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8210H\|שָׁפְכ֣וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וּ]][[H9003\|בְ]][[H1544\|גִלּוּלֵי]][[H9028\|הֶ֖ם]] [[H2930A\|טִמְּאֽוּ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.17|<< Ezekiel 36:17]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.19|Ezekiel 36:19 >>]]</td></tr></table>
 

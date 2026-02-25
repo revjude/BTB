@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lesson of the Fig Tree
+type: Pericope
 pericope: "[[Luke.21.29 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 21
 book/chapter: "[[Luke.21|Luke 21]]"
-genre:
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.21.29]]"
 - "[[Luke.21.30]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.21.33]]"
 ---
 
-[[Luke.21|Luke 21:29 - Luke 21:33]]
+<small>[[Luke.21|Luke 21:29-33]]</small>
 *The Lesson of the Fig Tree*
 
 [[Luke.21.29|29]] And he spake to them a parable; Behold the fig tree, and all the trees;

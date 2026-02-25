@@ -1,8 +1,55 @@
+---
+title: Psalm 105:8
+type: Verse
+kjv: "He hath remembered his covenant for ever, the word which he commanded to a thousand generations."
+bsb: "He remembers His covenant forever, the word He ordained for a thousand generations—"
+hebrew: "זָכַ֣ר לְעוֹלָ֣ם בְּרִית֑וֹ דָּבָ֥ר צִ֝וָּ֗ה לְאֶ֣לֶף דּֽוֹר׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H2142]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H1285]]"
+- "[[H9023]]"
+- "[[H1697G]]"
+- "[[H6680]]"
+- "[[H0505G]]"
+- "[[H1755]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:8**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath remembered his covenant for ever, the word [which] he commanded to a thousand generations.
 <small><sub>**BSB:**</sub></small>
 He remembers His covenant forever, the word He ordained for a thousand generations—
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָכַ֣ר]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H1285\|בְּרִית֑]][[H9023\|וֹ]] [[H1697G\|דָּבָ֥ר]] [[H6680\|צִ֝וָּ֗ה]] [[H9005\|לְ]][[H0505G\|אֶ֣לֶף]] [[H1755\|דּֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.7|<< Psalms 105:7]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.9|Psalms 105:9 >>]]</td></tr></table>
 

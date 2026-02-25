@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 17:5
+type: Verse
+kjv: "For I have not dwelt in an house since the day that I brought up Israel unto this day; but have gone from tent to tent, and from one tabernacle to another."
+bsb: "For I have not dwelt in a house from the day I brought Israel up out of Egypt until this day, but I have moved from tent to tent and dwelling to dwelling."
+hebrew: "כִּ֣י לֹ֤א יָשַׁ֙בְתִּי֙ בְּבַ֔יִת מִן־ הַיּ֗וֹם אֲשֶׁ֤ר הֶעֱלֵ֙יתִי֙ אֶת־ יִשְׂרָאֵ֔ל עַ֖ד הַיּ֣וֹם הַזֶּ֑ה וָֽאֶהְיֶ֛ה מֵאֹ֥הֶל אֶל־ אֹ֖הֶל וּמִמִּשְׁכָּֽן׃"
+pericope: "[[1Chr.17.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic NATHAN|NATHAN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H0834A]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H5704]]"
+- "[[H2088]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H0168G]]"
+- "[[H0413]]"
+- "[[H9002]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:5**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have not dwelt in an house since the day that I brought up Israel unto this day; but have gone from tent to tent, and from [one] tabernacle [to another].
 <small><sub>**BSB:**</sub></small>
 For I have not dwelt in a house from the day I brought Israel up out of Egypt until this day, but I have moved from tent to tent and dwelling to dwelling.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H3427\|יָשַׁ֙בְתִּי֙]] [[H9003\|בְּ]][[H1004Q\|בַ֔יִת]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֗וֹם]] [[H0834A\|אֲשֶׁ֤ר]] [[H5927H\|הֶעֱלֵ֙יתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וָֽ]][[H1961\|אֶהְיֶ֛ה]] [[H9006\|מֵ]][[H0168G\|אֹ֥הֶל]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֖הֶל]] [[H9002\|וּ]][[H9006\|מִ]][[H4908\|מִּשְׁכָּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATHAN|NATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.4|<< 1 Chronicles 17:4]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.6|1 Chronicles 17:6 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Ezekiel 48:7
+type: Verse
+kjv: "And by the border of Reuben, from the east side unto the west side, a portion for Judah."
+bsb: "Judah will have one portion bordering the territory of Reuben from east to west."
+hebrew: "וְעַ֣ל׀ גְּב֣וּל רְאוּבֵ֗ן מִפְּאַ֥ת קָדִ֛ים עַד־ פְּאַת־ יָ֖מָּה יְהוּדָ֥ה אֶחָֽד׃"
+pericope: "[[Ezek.48.1 The Portions for the Tribes|The Portions for the Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 48
+book/chapter: "[[Ezek.48|Ezekiel 48]]"
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9015]]"
+- "[[H1366H]]"
+- "[[H7205]]"
+- "[[H9006]]"
+- "[[H6285]]"
+- "[[H6921]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H3063G]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 48:7**<big><big>[[Ezek.48.1 The Portions for the Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And by the border of Reuben, from the east side unto the west side, a [portion for] Judah.
 <small><sub>**BSB:**</sub></small>
 Judah will have one portion bordering the territory of Reuben from east to west.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַ֣ל]][[H9015\|׀]] [[H1366H\|גְּב֣וּל]] [[H7205\|רְאוּבֵ֗ן]] [[H9006\|מִ]][[H6285\|פְּאַ֥ת]] [[H6921\|קָדִ֛ים]] [[H5704\|עַד]][[H9014\|־]] [[H6285\|פְּאַת]][[H9014\|־]] [[H3220H\|יָ֖מָּ]][[H9011\|ה]] [[H3063G\|יְהוּדָ֥ה]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.48.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.48.6|<< Ezekiel 48:6]]</td><td align="center" style="border:none;">[[Ezek.48|Ezekiel 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.48.8|Ezekiel 48:8 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Setting Up the Tabernacle
+type: Pericope
 pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
-verse_count: 33
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 40
 book/chapter: "[[Exod.40|Exodus 40]]"
-genre:
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 33
 verses:
 - "[[Exod.40.1]]"
 - "[[Exod.40.2]]"
@@ -56,7 +63,7 @@ verses:
 - "[[Exod.40.33]]"
 ---
 
-[[Exod.40|Exodus 40:1 - Exodus 40:33]]
+<small>[[Exod.40|Exodus 40:1-33]]</small>
 *Setting Up the Tabernacle*
 
 [[Exod.40.1|1]] And the LORD spake unto Moses, saying,

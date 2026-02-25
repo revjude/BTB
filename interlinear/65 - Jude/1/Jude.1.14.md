@@ -1,10 +1,51 @@
+---
+title: Jude 1:14
+type: Verse
+kjv: "And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,"
+bsb: "Enoch, the seventh from Adam, also prophesied about them: “Behold, the Lord is coming with myriads of His holy ones"
+greek: "προεφήτευσεν δὲ καὶ τούτοις ἕβδομος ἀπὸ Ἀδὰμ Ἑνὼχ λέγων· ἰδοὺ ἦλθεν κύριος ἐν ἁγίαις μυριάσιν αὐτοῦ"
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G4395]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G1442]]"
+- "[[G0575]]"
+- "[[G0076]]"
+- "[[G1802]]"
+- "[[G3004G]]"
+- "[[G2400]]"
+- "[[G2064]]"
+- "[[G2962G]]"
+- "[[G1722]]"
+- "[[G0040H]]"
+- "[[G3461]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Jude 1:14**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Enoch also, the seventh from Adam, prophesied of these, saying, Behold, the Lord cometh with ten thousands of his saints,
 <small><sub>**BSB:**</sub></small>
 Enoch, the seventh from Adam, also prophesied about them: “Behold, the Lord is coming with myriads of His holy ones
-<small><sub>**Literal:**</sub></small>
-He prophesied then also to these [the] seventh from Adam Enoch saying: Behold has come [the] Lord amidst holy [ones] myriads of His<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.13|<< Jude 1:13]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.15|Jude 1:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4395\|προεφήτευσεν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3778\|τούτοις]]  [[G1442\|ἕβδομος]]  [[G0575\|ἀπὸ]]  [[G0076\|Ἀδὰμ]]  [[G1802\|Ἑνὼχ]]  [[G3004G\|λέγων·]]  [[G2400\|ἰδοὺ]]  [[G2064\|ἦλθεν]]  [[G2962G\|κύριος]]  [[G1722\|ἐν]]  [[G0040H\|ἁγίαις]]  [[G3461\|μυριάσιν]]  [[G0846\|αὐτοῦ]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.13|<< Jude 1:13]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.15|Jude 1:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jude 1:14** is...
 > $\quad$ alluding to: [[LXX.Gen.5.18|Gen 5:18]]

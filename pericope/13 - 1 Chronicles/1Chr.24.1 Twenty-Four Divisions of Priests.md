@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Twenty-Four Divisions of Priests
+type: Pericope
 pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 24
 book/chapter: "[[1Chr.24|1 Chronicles 24]]"
-genre:
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 19
 verses:
 - "[[1Chr.24.1]]"
 - "[[1Chr.24.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[1Chr.24.19]]"
 ---
 
-[[1Chr.24|1 Chronicles 24:1 - 1 Chronicles 24:19]]
+<small>[[1Chr.24|1 Chronicles 24:1-19]]</small>
 *Twenty-Four Divisions of Priests*
 
 [[1Chr.24.1|1]] Now \[these are\] the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.

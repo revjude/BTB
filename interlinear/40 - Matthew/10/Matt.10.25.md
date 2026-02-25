@@ -1,10 +1,66 @@
+---
+title: Matthew 10:25
+type: Verse
+kjv: "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?"
+bsb: "It is enough for a disciple to be like his teacher, and a servant like his master. If the head of the house has been called Beelzebul, how much more the members of his household!"
+jesus_said: "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?"
+greek: "ἀρκετὸν τῷ μαθητῇ ἵνα γένηται ὡς ὁ διδάσκαλος αὐτοῦ καὶ ὁ δοῦλος ὡς ὁ κύριος αὐτοῦ. εἰ τὸν οἰκοδεσπότην Βεελζεβοὺλ ἐπεκάλεσαν, πόσῳ μᾶλλον τοὺς οἰκιακοὺς αὐτοῦ;"
+pericope: "[[Matt.10.16 Sheep among Wolves|Sheep among Wolves]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic BEELZEBUB|BEELZEBUB]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G0713]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2443]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G1320]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1401]]"
+- "[[G2962H]]"
+- "[[G1487G]]"
+- "[[G3617]]"
+- "[[G0954]]"
+- "[[G1941]]"
+- "[[G4214]]"
+- "[[G3123G]]"
+- "[[G3615]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 10:25**<big><big>[[Matt.10.16 Sheep among Wolves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more [shall they call] them of his household?
 <small><sub>**BSB:**</sub></small>
 It is enough for a disciple to be like his teacher, and a servant like his master. If the head of the house has been called Beelzebul, how much more the members of his household!
-<small><sub>**Literal:**</sub></small>
-[It is] sufficient for the disciple that he may become as the teacher of him and the servant as the master of him. If the master of the house Beelzebul they called on, how much more those house members of him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.24|<< Matthew 10:24]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.26|Matthew 10:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0713\|ἀρκετὸν]]  [[G3588\|τῷ]]  [[G3101\|μαθητῇ]]  [[G2443\|ἵνα]]  [[G1096\|γένηται]]  [[G5613\|ὡς]]  [[G3588\|ὁ]]  [[G1320\|διδάσκαλος]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1401\|δοῦλος]]  [[G5613\|ὡς]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G0846\|αὐτοῦ.]]  [[G1487G\|εἰ]]  [[G3588\|τὸν]]  [[G3617\|οἰκοδεσπότην]]  [[G0954\|Βεελζεβοὺλ]]  [[G1941\|ἐπεκάλεσαν,]]  [[G4214\|πόσῳ]]  [[G3123G\|μᾶλλον]]  [[G3588\|τοὺς]]  [[G3615\|οἰκιακοὺς]]  [[G0846\|αὐτοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic BEELZEBUB|BEELZEBUB]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MASTER|MASTER]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.24|<< Matthew 10:24]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.26|Matthew 10:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

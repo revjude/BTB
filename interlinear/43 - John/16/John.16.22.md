@@ -1,10 +1,61 @@
+---
+title: John 16:22
+type: Verse
+kjv: "And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you."
+bsb: "So also you have sorrow now, but I will see you again and your hearts will rejoice, and no one will take away your joy."
+jesus_said: "And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you."
+greek: "Καὶ ὑμεῖς οὖν νῦν μὲν λύπην ἔχετε, πάλιν δὲ ὄψομαι ὑμᾶς καὶ χαρήσεται ὑμῶν ἡ καρδία, καὶ τὴν χαρὰν ὑμῶν οὐδεὶς αἴρει ἀφ᾽ ὑμῶν,"
+pericope: "[[John.16.17 Grief Will Turn to Joy|Grief Will Turn to Joy]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G3568]]"
+- "[[G3303]]"
+- "[[G3077]]"
+- "[[G2192]]"
+- "[[G3825]]"
+- "[[G1161]]"
+- "[[G3708]]"
+- "[[G5463]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G5479]]"
+- "[[G3762]]"
+- "[[G0142]]"
+- "[[G0575]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 16:22**<big><big>[[John.16.17 Grief Will Turn to Joy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.
 <small><sub>**BSB:**</sub></small>
 So also you have sorrow now, but I will see you again and your hearts will rejoice, and no one will take away your joy.
-<small><sub>**Literal:**</sub></small>
-Also you yourselves therefore now indeed grief have, again however I will see you and will rejoice your <the> heart, and the joy of you no [one] do take from you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.21|<< John 16:21]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.23|John 16:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4771\|ὑμεῖς]]  [[G3767\|οὖν]]  [[G3568\|νῦν]]  [[G3303\|μὲν]]  [[G3077\|λύπην]]  [[G2192\|ἔχετε,]]  [[G3825\|πάλιν]]  [[G1161\|δὲ]]  [[G3708\|ὄψομαι]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G5463\|χαρήσεται]]  [[G4771\|ὑμῶν]]  [[G3588\|ἡ]]  [[G2588\|καρδία,]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5479\|χαρὰν]]  [[G4771\|ὑμῶν]]  [[G3762\|οὐδεὶς]]  [[G0142\|αἴρει]]  [[G0575\|ἀφ᾽]]  [[G4771\|ὑμῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.21|<< John 16:21]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.23|John 16:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 16:22** is...
 > $\quad$ referencing: [[LXX.Isa.66.14|Isa 66:14]]

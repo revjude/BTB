@@ -1,10 +1,60 @@
+---
+title: 1 Thessalonians 5:10
+type: Verse
+kjv: "Who died for us, that, whether we wake or sleep, we should live together with him."
+bsb: "He died for us so that, whether we are awake or asleep, we may live together with Him."
+greek: "τοῦ ἀποθανόντος ὑπὲρ ἡμῶν, ἵνα εἴτε γρηγορῶμεν εἴτε καθεύδωμεν ἅμα σὺν αὐτῷ ζήσωμεν.¶"
+pericope: "[[1Thess.5.1 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G3588]]"
+- "[[G0599]]"
+- "[[G5228]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G1535]]"
+- "[[G1127]]"
+- "[[G2518]]"
+- "[[G0260]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G2198]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Thessalonians 5:10**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who died for us, that, whether we wake or sleep, we should live together with him.
 <small><sub>**BSB:**</sub></small>
 He died for us so that, whether we are awake or asleep, we may live together with Him.
-<small><sub>**Literal:**</sub></small>
-the [One who] having died for us, so that whether we shall watch or we shall sleep together with Him we may live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.9|<< 1 Thessalonians 5:9]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.11|1 Thessalonians 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G0599\|ἀποθανόντος]]  [[G5228\|ὑπὲρ]]  [[G3165\|ἡμῶν,]]  [[G2443\|ἵνα]]  [[G1535\|εἴτε]]  [[G1127\|γρηγορῶμεν]]  [[G1535\|εἴτε]]  [[G2518\|καθεύδωμεν]]  [[G0260\|ἅμα]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G2198\|ζήσωμεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DEATH|DEATH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.9|<< 1 Thessalonians 5:9]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.11|1 Thessalonians 5:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

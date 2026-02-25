@@ -1,8 +1,66 @@
+---
+title: Amos 9:7
+type: Verse
+kjv: "Are ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?"
+bsb: "“Are you not like the Cushites to Me, O children of Israel?” declares the LORD. “Did I not bring Israel up from the land of Egypt, the Philistines from Caphtor, and the Arameans from Kir?"
+hebrew: "הֲל֣וֹא כִבְנֵי֩ כֻשִׁיִּ֨ים אַתֶּ֥ם לִ֛י בְּנֵ֥י יִשְׂרָאֵ֖ל נְאֻם־ יְהוָ֑ה הֲל֣וֹא אֶת־ יִשְׂרָאֵ֗ל הֶעֱלֵ֙יתִי֙ מֵאֶ֣רֶץ מִצְרַ֔יִם וּפְלִשְׁתִּיִּ֥ים מִכַּפְתּ֖וֹר וַאֲרָ֥ם מִקִּֽיר׃"
+pericope: "[[Amos.9.1 The Destruction of Israel|The Destruction of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CAPHTORIM|CAPHTORIM]]"
+- "[[topic KIR|KIR]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H1121G]]"
+- "[[H3569G]]"
+- "[[H0859D]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3478]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H5927H]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H6430G]]"
+- "[[H3731]]"
+- "[[H0758I]]"
+- "[[H7024B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 9:7**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Are] ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?
 <small><sub>**BSB:**</sub></small>
 “Are you not like the Cushites to Me, O children of Israel?” declares the LORD. “Did I not bring Israel up from the land of Egypt, the Philistines from Caphtor, and the Arameans from Kir?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H9004\|כִ]][[H1121G\|בְנֵי֩]] [[H3569G\|כֻשִׁיִּ֨ים]] [[H0859D\|אַתֶּ֥ם]] [[H9005\|לִ֛]][[H9030\|י]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H5927H\|הֶעֱלֵ֙יתִי֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9002\|וּ]][[H6430G\|פְלִשְׁתִּיִּ֥ים]] [[H9006\|מִ]][[H3731\|כַּפְתּ֖וֹר]] [[H9002\|וַ]][[H0758I\|אֲרָ֥ם]] [[H9006\|מִ]][[H7024B\|קִּֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPHTORIM|CAPHTORIM]] • [[topic KIR|KIR]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.6|<< Amos 9:6]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.8|Amos 9:8 >>]]</td></tr></table>
 

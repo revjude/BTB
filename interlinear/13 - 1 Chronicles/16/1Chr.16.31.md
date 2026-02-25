@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 16:31
+type: Verse
+kjv: "Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The LORD reigneth."
+bsb: "Let the heavens be glad, and the earth rejoice. Let them say among the nations, ‘The LORD reigns!’"
+hebrew: "יִשְׂמְח֤וּ הַשָּׁמַ֙יִם֙ וְתָגֵ֣ל הָאָ֔רֶץ וְיֹאמְר֥וּ בַגּוֹיִ֖ם יְהוָ֥ה מָלָֽךְ׃"
+pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H8055]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H1523]]"
+- "[[H0776G]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H3068G]]"
+- "[[H4427A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:31**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the heavens be glad, and let the earth rejoice: and let [men] say among the nations, The LORD reigneth.
 <small><sub>**BSB:**</sub></small>
 Let the heavens be glad, and the earth rejoice. Let them say among the nations, ‘The LORD reigns!’
+<small><sub>**Hebrew:**</sub></small>
+[[H8055\|יִשְׂמְח֤וּ]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9002\|וְ]][[H1523\|תָגֵ֣ל]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H0559\|יֹאמְר֥וּ]] [[H9003\|בַ]][[H1471A\|גּוֹיִ֖ם]] [[H3068G\|יְהוָ֥ה]] [[H4427A\|מָלָֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEAVEN|HEAVEN]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.30|<< 1 Chronicles 16:30]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.32|1 Chronicles 16:32 >>]]</td></tr></table>
 

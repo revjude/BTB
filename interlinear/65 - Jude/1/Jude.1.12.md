@@ -1,10 +1,59 @@
+---
+title: Jude 1:12
+type: Verse
+kjv: "These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;"
+bsb: "These men are hidden reefs in your love feasts, shamelessly feasting with you but shepherding only themselves. They are clouds without water, carried along by the wind; fruitless trees in autumn, twice dead after being uprooted."
+greek: "Οὗτοί εἰσιν οἱ ἐν ταῖς ἀγάπαις ὑμῶν σπιλάδες, συνευωχούμενοι, ἀφόβως ἑαυτοὺς ποιμαίνοντες· νεφέλαι ἄνυδροι, ὑπὸ ἀνέμων παραφερόμεναι, δένδρα φθινοπωρινὰ ἄκαρπα, δὶς ἀποθανόντα, ἐκριζωθέντα·"
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G0026]]"
+- "[[G4771]]"
+- "[[G4694]]"
+- "[[G4910]]"
+- "[[G0870]]"
+- "[[G1438]]"
+- "[[G4165]]"
+- "[[G3507]]"
+- "[[G0504]]"
+- "[[G5259G]]"
+- "[[G0417]]"
+- "[[G3911]]"
+- "[[G1186]]"
+- "[[G5352]]"
+- "[[G0175]]"
+- "[[G1364]]"
+- "[[G0599]]"
+- "[[G1610]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Jude 1:12**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds [they are] without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;
 <small><sub>**BSB:**</sub></small>
 These men are hidden reefs in your love feasts, shamelessly feasting with you but shepherding only themselves. They are clouds without water, carried along by the wind; fruitless trees in autumn, twice dead after being uprooted.
-<small><sub>**Literal:**</sub></small>
-These are the ones in the love feasts of you hidden reefs, feasting together [with you] fearlessly themselves shepherding; clouds without water, by winds being carried away, trees autumnal without fruit, twice having died, having been uprooted;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.11|<< Jude 1:11]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.13|Jude 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Οὗτοί]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G0026\|ἀγάπαις]]  [[G4771\|ὑμῶν]]  [[G4694\|σπιλάδες,]]  [[G4910\|συνευωχούμενοι,]]  [[G0870\|ἀφόβως]]  [[G1438\|ἑαυτοὺς]]  [[G4165\|ποιμαίνοντες·]]  [[G3507\|νεφέλαι]]  [[G0504\|ἄνυδροι,]]  [[G5259G\|ὑπὸ]]  [[G0417\|ἀνέμων]]  [[G3911\|παραφερόμεναι,]]  [[G1186\|δένδρα]]  [[G5352\|φθινοπωρινὰ]]  [[G0175\|ἄκαρπα,]]  [[G1364\|δὶς]]  [[G0599\|ἀποθανόντα,]]  [[G1610\|ἐκριζωθέντα·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.11|<< Jude 1:11]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.13|Jude 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

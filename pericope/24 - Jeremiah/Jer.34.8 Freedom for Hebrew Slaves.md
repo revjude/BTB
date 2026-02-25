@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Freedom for Hebrew Slaves
+type: Pericope
 pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 34
 book/chapter: "[[Jer.34|Jeremiah 34]]"
-genre:
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 15
 verses:
 - "[[Jer.34.8]]"
 - "[[Jer.34.9]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Jer.34.22]]"
 ---
 
-[[Jer.34|Jeremiah 34:8 - Jeremiah 34:22]]
+<small>[[Jer.34|Jeremiah 34:8-22]]</small>
 *Freedom for Hebrew Slaves*
 
 [[Jer.34.8|8]] \[This is\] the word that came unto Jeremiah from the LORD, after that the king Zedekiah had made a covenant with all the people which \[were\] at Jerusalem, to proclaim liberty unto them;

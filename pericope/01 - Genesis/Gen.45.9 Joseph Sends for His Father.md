@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph Sends for His Father
+type: Pericope
 pericope: "[[Gen.45.9 Joseph Sends for His Father|Joseph Sends for His Father]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 45
 book/chapter: "[[Gen.45|Genesis 45]]"
-genre:
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 7
 verses:
 - "[[Gen.45.9]]"
 - "[[Gen.45.10]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Gen.45.15]]"
 ---
 
-[[Gen.45|Genesis 45:9 - Genesis 45:15]]
+<small>[[Gen.45|Genesis 45:9-15]]</small>
 *Joseph Sends for His Father*
 
 [[Gen.45.9|9]] Haste ye, and go up to my father, and say unto him, Thus saith thy son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:

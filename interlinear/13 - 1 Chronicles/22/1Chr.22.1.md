@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 22:1
+type: Verse
+kjv: "Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel."
+bsb: "Then David said, “Here shall be the house of the LORD God, as well as the altar of burnt offering for Israel.”"
+hebrew: "וַיֹּ֣אמֶר דָּוִ֔יד זֶ֣ה ה֔וּא בֵּ֖ית יְהוָ֣ה הָאֱלֹהִ֑ים וְזֶה־ מִּזְבֵּ֥חַ לְעֹלָ֖ה לְיִשְׂרָאֵֽל׃ ס"
+pericope: "[[1Chr.22.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 22
+book/chapter: "[[1Chr.22|1 Chronicles 22]]"
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H2088]]"
+- "[[H1931]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H5930A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 22:1**<big><big>[[1Chr.22.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then David said, This [is] the house of the LORD God, and this [is] the altar of the burnt offering for Israel.
 <small><sub>**BSB:**</sub></small>
 Then David said, “Here shall be the house of the LORD God, as well as the altar of burnt offering for Israel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔יד]] [[H2088\|זֶ֣ה]] [[H1931\|ה֔וּא]] [[H1004Q\|בֵּ֖ית]] [[H3068G\|יְהוָ֣ה]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H2088\|זֶה]][[H9014\|־]] [[H4196\|מִּזְבֵּ֥חַ]] [[H9005\|לְ]][[H5930A\|עֹלָ֖ה]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.30|<< 1 Chronicles 21:30]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.2|1 Chronicles 22:2 >>]]</td></tr></table>
 
@@ -18,7 +68,7 @@ Then David said, “Here shall be the house of the LORD God, as well as the alta
 | and this  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H2088\|זֶה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> zeh-<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is the] altar  |**<big>&#8207;[[H4196\|מִּזְבֵּ֥חַ]]&#8207; </big>**| miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for burnt offering  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5930A\|עֹלָ֖ה]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'o.Lah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for Israel  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for Israel  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.30|<< 1 Chronicles 21:30]]</td><td align="center" style="border:none;">[[1Chr.22|1 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.22.2|1 Chronicles 22:2 >>]]</td></tr></table>
 
 

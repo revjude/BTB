@@ -1,10 +1,57 @@
+---
+title: Acts 28:20
+type: Verse
+kjv: "For this cause therefore have I called for you, to see you, and to speak with you: because that for the hope of Israel I am bound with this chain."
+bsb: "So for this reason I have called to see you and speak with you. It is because of the hope of Israel that I am bound with this chain.”"
+greek: "διὰ ταύτην οὖν τὴν αἰτίαν παρεκάλεσα ὑμᾶς ἰδεῖν καὶ προσλαλῆσαι· ἕνεκεν γὰρ τῆς ἐλπίδος τοῦ Ἰσραὴλ τὴν ἅλυσιν ταύτην περίκειμαι."
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G0156]]"
+- "[[G3870]]"
+- "[[G4771]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G4354]]"
+- "[[G1752]]"
+- "[[G1063]]"
+- "[[G1680]]"
+- "[[G2474]]"
+- "[[G0254]]"
+- "[[G4029]]"
+texts:
+- NKO
+---
+
 **Acts 28:20**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this cause therefore have I called for you, to see [you], and to speak with [you]: because that for the hope of Israel I am bound with this chain.
 <small><sub>**BSB:**</sub></small>
 So for this reason I have called to see you and speak with you. It is because of the hope of Israel that I am bound with this chain.”
-<small><sub>**Literal:**</sub></small>
-For this therefore <the> cause I have called you to see and to speak to [you]; because of for the hope <the> of Israel <the> chain this I have around [me].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.19|<< Acts 28:19]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.21|Acts 28:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|ταύτην]]  [[G3767\|οὖν]]  [[G3588\|τὴν]]  [[G0156\|αἰτίαν]]  [[G3870\|παρεκάλεσα]]  [[G4771\|ὑμᾶς]]  [[G1492H\|ἰδεῖν]]  [[G2532\|καὶ]]  [[G4354\|προσλαλῆσαι·]]  [[G1752\|ἕνεκεν]]  [[G1063\|γὰρ]]  [[G3588\|τῆς]]  [[G1680\|ἐλπίδος]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραὴλ]]  [[G3588\|τὴν]]  [[G0254\|ἅλυσιν]]  [[G3778\|ταύτην]]  [[G4029\|περίκειμαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAINS|CHAINS]] • [[topic HOPE|HOPE]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.19|<< Acts 28:19]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.21|Acts 28:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

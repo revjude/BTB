@@ -1,8 +1,50 @@
+---
+title: Jeremiah 48:43
+type: Verse
+kjv: "Fear, and the pit, and the snare, shall be upon thee, O inhabitant of Moab, saith the LORD."
+bsb: "Terror and pit and snare await you, O dweller of Moab,” declares the LORD."
+hebrew: "פַּ֥חַד וָפַ֖חַת וָפָ֑ח עָלֶ֛יךָ יוֹשֵׁ֥ב מוֹאָ֖ב נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H6343]]"
+- "[[H9002]]"
+- "[[H6354]]"
+- "[[H6341A]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H3427]]"
+- "[[H4124G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:43**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear, and the pit, and the snare, [shall be] upon thee, O inhabitant of Moab, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Terror and pit and snare await you, O dweller of Moab,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H6343\|פַּ֥חַד]] [[H9002\|וָ]][[H6354\|פַ֖חַת]] [[H9002\|וָ]][[H6341A\|פָ֑ח]] [[H5921A\|עָלֶ֛י]][[H9031\|ךָ]] [[H3427\|יוֹשֵׁ֥ב]] [[H4124G\|מוֹאָ֖ב]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.42|<< Jeremiah 48:42]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.44|Jeremiah 48:44 >>]]</td></tr></table>
 

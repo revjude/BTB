@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Apostles Arrested and Freed
+type: Pericope
 pericope: "[[Acts.5.17 The Apostles Arrested and Freed|The Apostles Arrested and Freed]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Acts
 chapter: 5
 book/chapter: "[[Acts.5|Acts 5]]"
-genre:
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 7
 verses:
 - "[[Acts.5.17]]"
 - "[[Acts.5.18]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Acts.5.23]]"
 ---
 
-[[Acts.5|Acts 5:17 - Acts 5:23]]
+<small>[[Acts.5|Acts 5:17-23]]</small>
 *The Apostles Arrested and Freed*
 
 [[Acts.5.17|17]] Then the high priest rose up, and all they that were with him, (which is the sect of the Sadducees,) and were filled with indignation,

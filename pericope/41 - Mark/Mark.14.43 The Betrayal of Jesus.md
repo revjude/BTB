@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Betrayal of Jesus
+type: Pericope
 pericope: "[[Mark.14.43 The Betrayal of Jesus|The Betrayal of Jesus]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Mark
 chapter: 14
 book/chapter: "[[Mark.14|Mark 14]]"
-genre:
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 10
 verses:
 - "[[Mark.14.43]]"
 - "[[Mark.14.44]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Mark.14.52]]"
 ---
 
-[[Mark.14|Mark 14:43 - Mark 14:52]]
+<small>[[Mark.14|Mark 14:43-52]]</small>
 *The Betrayal of Jesus*
 
 [[Mark.14.43|43]] And immediately, while he yet spake, cometh Judas, one of the twelve, and with him a great multitude with swords and staves, from the chief priests and the scribes and the elders.

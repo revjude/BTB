@@ -1,8 +1,42 @@
+---
+title: Ecclesiastes 12:8
+type: Verse
+kjv: "Vanity of vanities, saith the preacher; all is vanity."
+bsb: "“Futility of futilities,” says the Teacher. “Everything is futile!”"
+hebrew: "הֲבֵ֧ל הֲבָלִ֛ים אָמַ֥ר הַקּוֹהֶ֖לֶת הַכֹּ֥ל הָֽבֶל׃"
+pericope: "[[Eccl.12.1 Remember Your Creator|Remember Your Creator]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 12
+book/chapter: "[[Eccl.12|Ecclesiastes 12]]"
+chronological_order: 550
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[H1892]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H6953]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 12:8**<big><big>[[Eccl.12.1 Remember Your Creator|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Vanity of vanities, saith the preacher; all [is] vanity.
 <small><sub>**BSB:**</sub></small>
 “Futility of futilities,” says the Teacher. “Everything is futile!”
+<small><sub>**Hebrew:**</sub></small>
+[[H1892\|הֲבֵ֧ל]] [[H1892\|הֲבָלִ֛ים]] [[H0559\|אָמַ֥ר]] [[H9009\|הַ]][[H6953\|קּוֹהֶ֖לֶת]] [[H9009\|הַ]][[H3605\|כֹּ֥ל]] [[H1892\|הָֽבֶל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.12.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.12.7|<< Ecclesiastes 12:7]]</td><td align="center" style="border:none;">[[Eccl.12|Ecclesiastes 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.12.9|Ecclesiastes 12:9 >>]]</td></tr></table>
 

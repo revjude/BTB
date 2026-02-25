@@ -1,6 +1,68 @@
+---
+title: LXX Numbers 11:11
+type: Verse
+lxx: "And Moses said to the lord, Why do you afflict  your attendant? And why have I not found favor before you to place the thrust  of this people upon me?"
+greek: "και είπε Μωυσής προς κύριον ινατί εκάκωσας τον θεράποντά σου και διατί ουχ εύρηκα χάριν εναντίον σου επιθείναι την ορμήν του λαού τούτου επ΄ εμέ"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3475]]"
+- "[[G4314]]"
+- "[[G2962]]"
+- "[[G2444]]"
+- "[[G2559]]"
+- "[[G3588]]"
+- "[[G2324]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1302]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G5485]]"
+- "[[G1726]]"
+- "[[G1473]]"
+- "[[G2007]]"
+- "[[G3588]]"
+- "[[G3730]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3778]]"
+- "[[G1909]]"
+- "[[G1473]]"
+---
+
 **LXX Numbers 11:11** 
 <small><sub>**LXX:**</sub></small>
 And Moses said to \[the\] <span class="smallcaps">lord</span>, Why do you afflict  your attendant? And why have I not found favor before you to place the thrust  of this people upon me? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G3475\|Μωυσής]] [[G4314\|προς]] [[G2962\|κύριον]] [[G2444\|ινατί]] [[G2559\|εκάκωσας]] [[G3588\|τον]] [[G2324\|θεράποντά]] [[G1473\|σου]] [[G2532\|και]] [[G1302\|διατί]] [[G3756\|ουχ]] [[G2147\|εύρηκα]] [[G5485\|χάριν]] [[G1726\|εναντίον]] [[G1473\|σου]] [[G2007\|επιθείναι]] [[G3588\|την]] [[G3730\|ορμήν]] [[G3588\|του]] [[G2992\|λαού]] [[G3778\|τούτου]] [[G1909\|επ΄]] [[G1473\|εμέ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic PRAYER|PRAYER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.10|<< Numbers 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.12|Numbers 11:12 >>]]</td></tr></table>
 
@@ -28,6 +90,6 @@ And Moses said to \[the\] <span class="smallcaps">lord</span>, Why do you afflic
 | of this people | **<big>[[G2992\|λαού]]</big>** **<big>[[G3778\|τούτου]]</big>** |
 | upon | **<big>[[G1909\|επ΄]]</big>** |
 | me? | **<big>[[G1473\|εμέ]]</big>** |
-[[Num.11.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.10|<< Numbers 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.12|Numbers 11:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.11.10|<< Numbers 11:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.11.12|Numbers 11:12 >>]]</td></tr></table>
 
 

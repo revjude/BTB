@@ -1,8 +1,74 @@
+---
+title: Leviticus 26:20
+type: Verse
+kjv: "And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits."
+bsb: "and your strength will be spent in vain. For your land will not yield its produce, and the trees of the land will not bear their fruit."
+hebrew: "וְתַ֥ם לָרִ֖יק כֹּחֲכֶ֑ם וְלֹֽא־ תִתֵּ֤ן אַרְצְכֶם֙ אֶת־ יְבוּלָ֔הּ וְעֵ֣ץ הָאָ֔רֶץ לֹ֥א יִתֵּ֖ן פִּרְיֽוֹ׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H8552]]"
+- "[[H9005]]"
+- "[[H7385]]"
+- "[[H3581B]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H2981]]"
+- "[[H9024]]"
+- "[[H6086H]]"
+- "[[H9009]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 26:20**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your strength shall be spent in vain: for your land shall not yield her increase, neither shall the trees of the land yield their fruits.
 <small><sub>**BSB:**</sub></small>
 and your strength will be spent in vain. For your land will not yield its produce, and the trees of the land will not bear their fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8552\|תַ֥ם]] [[H9005\|לָ]][[H7385\|רִ֖יק]] [[H3581B\|כֹּחֲ]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|תִתֵּ֤ן]] [[H0776G\|אַרְצְ]][[H9026\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2981\|יְבוּלָ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H6086H\|עֵ֣ץ]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3808\|לֹ֥א]] [[H5414G\|יִתֵּ֖ן]] [[H6529\|פִּרְיֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic FAMINE|FAMINE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SEVEN|SEVEN]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.19|<< Leviticus 26:19]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.21|Leviticus 26:21 >>]]</td></tr></table>
 

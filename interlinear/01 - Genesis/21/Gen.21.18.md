@@ -1,8 +1,63 @@
+---
+title: Genesis 21:18
+type: Verse
+kjv: "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation."
+bsb: "Get up, lift up the boy, and take him by the hand, for I will make him into a great nation.”"
+hebrew: "ק֚וּמִי שְׂאִ֣י אֶת־ הַנַּ֔עַר וְהַחֲזִ֥יקִי אֶת־ יָדֵ֖ךְ בּ֑וֹ כִּֽי־ לְג֥וֹי גָּד֖וֹל אֲשִׂימֶֽנּוּ׃"
+pericope: "[[Gen.21.9 Sarah Turns against Hagar|Sarah Turns against Hagar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[H6965B]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9002]]"
+- "[[H2388H]]"
+- "[[H3027G]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H7760A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:18**<big><big>[[Gen.21.9 Sarah Turns against Hagar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation.
 <small><sub>**BSB:**</sub></small>
 Get up, lift up the boy, and take him by the hand, for I will make him into a great nation.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֚וּמִי]] [[H5375G\|שְׂאִ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֔עַר]] [[H9002\|וְ]][[H2388H\|הַחֲזִ֥יקִי]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדֵ֖]][[H9022\|ךְ]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H1471A\|ג֥וֹי]] [[H1419A\|גָּד֖וֹל]] [[H7760A\|אֲשִׂימֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-SHEBA|BEER-SHEBA]] • [[topic ISHMAEL|ISHMAEL]] • [[topic SORROW|SORROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.17|<< Genesis 21:17]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.19|Genesis 21:19 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Kohathites
+type: Pericope
 pericope: "[[1Chr.23.12 The Kohathites|The Kohathites]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 23
 book/chapter: "[[1Chr.23|1 Chronicles 23]]"
-genre:
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 9
 verses:
 - "[[1Chr.23.12]]"
 - "[[1Chr.23.13]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Chr.23.20]]"
 ---
 
-[[1Chr.23|1 Chronicles 23:12 - 1 Chronicles 23:20]]
+<small>[[1Chr.23|1 Chronicles 23:12-20]]</small>
 *The Kohathites*
 
 [[1Chr.23.12|12]] The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.

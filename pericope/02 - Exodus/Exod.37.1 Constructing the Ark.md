@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Constructing the Ark
+type: Pericope
 pericope: "[[Exod.37.1 Constructing the Ark|Constructing the Ark]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 37
 book/chapter: "[[Exod.37|Exodus 37]]"
-genre:
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 5
 verses:
 - "[[Exod.37.1]]"
 - "[[Exod.37.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Exod.37.5]]"
 ---
 
-[[Exod.37|Exodus 37:1 - Exodus 37:5]]
+<small>[[Exod.37|Exodus 37:1-5]]</small>
 *Constructing the Ark*
 
 [[Exod.37.1|1]] And Bezaleel made the ark \[of\] shittim wood: two cubits and a half \[was\] the length of it, and a cubit and a half the breadth of it, and a cubit and a half the height of it:

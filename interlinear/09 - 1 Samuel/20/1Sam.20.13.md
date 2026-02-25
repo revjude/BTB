@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 20:13
+type: Verse
+kjv: "The LORD do so and much more to Jonathan: but if it please my father to do thee evil, then I will shew it thee, and send thee away, that thou mayest go in peace: and the LORD be with thee, as he hath been with my father."
+bsb: "But if my father intends to bring evil on you, then may the LORD punish me, and ever so severely, if I do not tell you and send you on your way in safety. May the LORD be with you, just as He has been with my father."
+hebrew: "כֹּֽה־ יַעֲשֶׂה֩ יְהוָ֨ה לִֽיהוֹנָתָ֜ן וְכֹ֣ה יֹסִ֗יף כִּֽי־ יֵיטִ֨ב אֶל־ אָבִ֤י אֶת־ הָֽרָעָה֙ עָלֶ֔יךָ וְגָלִ֙יתִי֙ אֶת־ אָזְנֶ֔ךָ וְשִׁלַּחְתִּ֖יךָ וְהָלַכְתָּ֣ לְשָׁל֑וֹם וִיהִ֤י יְהוָה֙ עִמָּ֔ךְ כַּאֲשֶׁ֥ר הָיָ֖ה עִם־ אָבִֽי׃"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic OATH|OATH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H3083H]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H3588A]]"
+- "[[H3190]]"
+- "[[H0413]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H1540H]]"
+- "[[H0241I]]"
+- "[[H9021]]"
+- "[[H7971G]]"
+- "[[H1980G]]"
+- "[[H7965I]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:13**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD do so and much more to Jonathan: but if it please my father [to do] thee evil, then I will shew it thee, and send thee away, that thou mayest go in peace: and the LORD be with thee, as he hath been with my father.
 <small><sub>**BSB:**</sub></small>
 But if my father intends to bring evil on you, then may the LORD punish me, and ever so severely, if I do not tell you and send you on your way in safety. May the LORD be with you, just as He has been with my father.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H6213A\|יַעֲשֶׂה֩]] [[H3068G\|יְהוָ֨ה]] [[H9005\|לִֽ]][[H3083H\|יהוֹנָתָ֜ן]] [[H9002\|וְ]][[H3541\|כֹ֣ה]] [[H3254H\|יֹסִ֗יף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3190\|יֵיטִ֨ב]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֤]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H7451C\|רָעָה֙]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H1540H\|גָלִ֙יתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0241I\|אָזְנֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H7971G\|שִׁלַּחְתִּ֖י]][[H9031\|ךָ]] [[H9001\|וְ]][[H1980G\|הָלַכְתָּ֣]] [[H9005\|לְ]][[H7965I\|שָׁל֑וֹם]] [[H9002\|וִ]][[H1961\|יהִ֤י]] [[H3068G\|יְהוָה֙]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1961\|הָיָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OATH|OATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.12|<< 1 Samuel 20:12]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.14|1 Samuel 20:14 >>]]</td></tr></table>
 

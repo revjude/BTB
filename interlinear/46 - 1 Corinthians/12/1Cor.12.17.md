@@ -1,10 +1,47 @@
+---
+title: 1 Corinthians 12:17
+type: Verse
+kjv: "If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?"
+bsb: "If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be?"
+greek: "εἰ ὅλον τὸ σῶμα ὀφθαλμός, ποῦ ἡ ἀκοή; εἰ ὅλον ἀκοή, ποῦ ἡ ὄσφρησις;"
+pericope: "[[1Cor.12.12 The Body of Christ|The Body of Christ]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G3788]]"
+- "[[G4226]]"
+- "[[G0189]]"
+- "[[G3750]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 12:17**<big><big>[[1Cor.12.12 The Body of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If the whole body [were] an eye, where [were] the hearing? If the whole [were] hearing, where [were] the smelling?
 <small><sub>**BSB:**</sub></small>
 If the whole body were an eye, where would the sense of hearing be? If the whole body were an ear, where would the sense of smell be?
-<small><sub>**Literal:**</sub></small>
-If all the body [were] an eye, where [would be] the hearing? If all [were] hearing, where [would be] the sense of smell?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.16|<< 1 Corinthians 12:16]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.18|1 Corinthians 12:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3788\|ὀφθαλμός,]]  [[G4226\|ποῦ]]  [[G3588\|ἡ]]  [[G0189\|ἀκοή;]]  [[G1487G\|εἰ]]  [[G3650\|ὅλον]]  [[G0189\|ἀκοή,]]  [[G4226\|ποῦ]]  [[G3588\|ἡ]]  [[G3750\|ὄσφρησις;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.16|<< 1 Corinthians 12:16]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.18|1 Corinthians 12:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

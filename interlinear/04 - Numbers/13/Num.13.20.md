@@ -1,8 +1,68 @@
+---
+title: Numbers 13:20
+type: Verse
+kjv: "And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the firstripe grapes."
+bsb: "Is the soil fertile or unproductive? Are there trees in it or not? Be courageous and bring back some of the fruit of the land.” (It was the season for the first ripe grapes.)"
+hebrew: "וּמָ֣ה הָ֠אָרֶץ הַשְּׁמֵנָ֨ה הִ֜וא אִם־ רָזָ֗ה הֲיֵֽשׁ־ בָּ֥הּ עֵץ֙ אִם־ אַ֔יִן וְהִ֨תְחַזַּקְתֶּ֔ם וּלְקַחְתֶּ֖ם מִפְּרִ֣י הָאָ֑רֶץ וְהַ֨יָּמִ֔ים יְמֵ֖י בִּכּוּרֵ֥י עֲנָבִֽים׃"
+pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9008]]"
+- "[[H8082]]"
+- "[[H1931]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7330]]"
+- "[[H3426]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H6086H]]"
+- "[[H0369]]"
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H3947J]]"
+- "[[H9006]]"
+- "[[H6529]]"
+- "[[H3117G]]"
+- "[[H1061]]"
+- "[[H6025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:20**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And what the land [is], whether it [be] fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time [was] the time of the firstripe grapes.
 <small><sub>**BSB:**</sub></small>
 Is the soil fertile or unproductive? Are there trees in it or not? Be courageous and bring back some of the fruit of the land.” (It was the season for the first ripe grapes.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4100\|מָ֣ה]] [[H9009\|הָ֠]][[H0776G\|אָרֶץ]] [[H9008\|הַ]][[H8082\|שְּׁמֵנָ֨ה]] [[H1931\|הִ֜וא]] [[H0518A\|אִם]][[H9014\|־]] [[H7330\|רָזָ֗ה]] [[H9008\|הֲ]][[H3426\|יֵֽשׁ]][[H9014\|־]] [[H9003\|בָּ֥]][[H9034\|הּ]] [[H6086H\|עֵץ֙]] [[H0518A\|אִם]][[H9014\|־]] [[H0369\|אַ֔יִן]] [[H9001\|וְ]][[H2388G\|הִ֨תְחַזַּקְתֶּ֔ם]] [[H9001\|וּ]][[H3947J\|לְקַחְתֶּ֖ם]] [[H9006\|מִ]][[H6529\|פְּרִ֣י]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H9009\|הַ֨]][[H3117G\|יָּמִ֔ים]] [[H3117G\|יְמֵ֖י]] [[H1061\|בִּכּוּרֵ֥י]] [[H6025\|עֲנָבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.19|<< Numbers 13:19]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.21|Numbers 13:21 >>]]</td></tr></table>
 

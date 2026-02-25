@@ -1,8 +1,63 @@
+---
+title: Numbers 21:27
+type: Verse
+kjv: "Wherefore they that speak in proverbs say, Come into Heshbon, let the city of Sihon be built and prepared:"
+bsb: "That is why the poets say: “Come to Heshbon, let it be rebuilt; let the city of Sihon be restored."
+hebrew: "עַל־ כֵּ֛ן יֹאמְר֥וּ הַמֹּשְׁלִ֖ים בֹּ֣אוּ חֶשְׁבּ֑וֹן תִּבָּנֶ֥ה וְתִכּוֹנֵ֖ן עִ֥יר סִיחֽוֹן׃"
+pericope: "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic AR|AR]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIHON|SIHON]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4911B]]"
+- "[[H0935G]]"
+- "[[H2809]]"
+- "[[H1129]]"
+- "[[H9002]]"
+- "[[H3559I]]"
+- "[[H5892B]]"
+- "[[H5511]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:27**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore they that speak in proverbs say, Come into Heshbon, let the city of Sihon be built and prepared:
 <small><sub>**BSB:**</sub></small>
 That is why the poets say: “Come to Heshbon, let it be rebuilt; let the city of Sihon be restored.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֛ן]] [[H0559\|יֹאמְר֥וּ]] [[H9009\|הַ]][[H4911B\|מֹּשְׁלִ֖ים]] [[H0935G\|בֹּ֣אוּ]] [[H2809\|חֶשְׁבּ֑וֹן]] [[H1129\|תִּבָּנֶ֥ה]] [[H9002\|וְ]][[H3559I\|תִכּוֹנֵ֖ן]] [[H5892B\|עִ֥יר]] [[H5511\|סִיחֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic AR|AR]] • [[topic HESHBON|HESHBON]] • [[topic ISRAEL|ISRAEL]] • [[topic SIHON|SIHON]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.26|<< Numbers 21:26]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.28|Numbers 21:28 >>]]</td></tr></table>
 

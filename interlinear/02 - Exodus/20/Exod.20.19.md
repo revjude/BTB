@@ -1,8 +1,62 @@
+---
+title: Exodus 20:19
+type: Verse
+kjv: "And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die."
+bsb: "“Speak to us yourself and we will listen,” they said to Moses. “But do not let God speak to us, or we will die.”"
+hebrew: "וַיֹּֽאמְרוּ֙ אֶל־ מֹשֶׁ֔ה דַּבֵּר־ אַתָּ֥ה עִמָּ֖נוּ וְנִשְׁמָ֑עָה וְאַל־ יְדַבֵּ֥ר עִמָּ֛נוּ אֱלֹהִ֖ים פֶּן־ נָמֽוּת׃"
+pericope: "[[Exod.20.18 Moses Comforts the People|Moses Comforts the People]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 20
+book/chapter: "[[Exod.20|Exodus 20]]"
+chronological_order: 112
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H1696G]]"
+- "[[H0859A]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H0408]]"
+- "[[H0430G]]"
+- "[[H6435]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 20:19**<big><big>[[Exod.20.18 Moses Comforts the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.
 <small><sub>**BSB:**</sub></small>
 “Speak to us yourself and we will listen,” they said to Moses. “But do not let God speak to us, or we will die.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H1696G\|דַּבֵּר]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H5973A\|עִמָּ֖]][[H9035\|נוּ]] [[H9002\|וְ]][[H8085G\|נִשְׁמָ֑עָה]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H1696G\|יְדַבֵּ֥ר]] [[H5973A\|עִמָּ֛]][[H9035\|נוּ]] [[H0430G\|אֱלֹהִ֖ים]] [[H6435\|פֶּן]][[H9014\|־]] [[H4191\|נָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.20.18|<< Exodus 20:18]]</td><td align="center" style="border:none;">[[Exod.20|Exodus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.20.20|Exodus 20:20 >>]]</td></tr></table>
 

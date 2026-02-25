@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Stand Firm
+type: Pericope
 pericope: "[[2Thess.2.13 Stand Firm|Stand Firm]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 2 Thessalonians
 chapter: 2
 book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
-genre:
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 5
 verses:
 - "[[2Thess.2.13]]"
 - "[[2Thess.2.14]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Thess.2.17]]"
 ---
 
-[[2Thess.2|2 Thessalonians 2:13 - 2 Thessalonians 2:17]]
+<small>[[2Thess.2|2 Thessalonians 2:13-17]]</small>
 *Stand Firm*
 
 [[2Thess.2.13|13]] But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:

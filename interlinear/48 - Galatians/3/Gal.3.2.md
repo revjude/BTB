@@ -1,10 +1,57 @@
+---
+title: Galatians 3:2
+type: Verse
+kjv: "This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?"
+bsb: "I would like to learn just one thing from you: Did you receive the Spirit by works of the law, or by hearing with faith?"
+greek: "τοῦτο μόνον θέλω μαθεῖν ἀφ᾽ ὑμῶν· ἐξ ἔργων νόμου τὸ πνεῦμα ἐλάβετε ἢ ἐξ ἀκοῆς πίστεως;"
+pericope: "[[Gal.3.1 Faith and Belief|Faith and Belief]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3778]]"
+- "[[G3441]]"
+- "[[G2309]]"
+- "[[G3129]]"
+- "[[G0575]]"
+- "[[G4771]]"
+- "[[G1537]]"
+- "[[G2041]]"
+- "[[G3551]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G2983]]"
+- "[[G2228]]"
+- "[[G0189]]"
+- "[[G4102G]]"
+texts:
+- NKO
+---
+
 **Galatians 3:2**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This only would I learn of you, Received ye the Spirit by the works of the law, or by the hearing of faith?
 <small><sub>**BSB:**</sub></small>
 I would like to learn just one thing from you: Did you receive the Spirit by works of the law, or by hearing with faith?
-<small><sub>**Literal:**</sub></small>
-This only I wish to learn from you; by works of [the] Law the Spirit did you receive or by hearing of faith?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.1|<< Galatians 3:1]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.3|Galatians 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G3441\|μόνον]]  [[G2309\|θέλω]]  [[G3129\|μαθεῖν]]  [[G0575\|ἀφ᾽]]  [[G4771\|ὑμῶν·]]  [[G1537\|ἐξ]]  [[G2041\|ἔργων]]  [[G3551\|νόμου]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G2983\|ἐλάβετε]]  [[G2228\|ἢ]]  [[G1537\|ἐξ]]  [[G0189\|ἀκοῆς]]  [[G4102G\|πίστεως;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.1|<< Galatians 3:1]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.3|Galatians 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,53 @@
+---
+title: Luke 24:40
+type: Verse
+kjv: "And when he had thus spoken, he shewed them his hands and his feet."
+bsb: "And when He had said this, He showed them His hands and feet."
+greek: "καὶ τοῦτο εἰπὼν ἔδειξεν αὐτοῖς τὰς χεῖρας καὶ τοὺς πόδας."
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G1166]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G4228]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 24:40**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had thus spoken, he shewed them [his] hands and [his] feet.
 <small><sub>**BSB:**</sub></small>
 And when He had said this, He showed them His hands and feet.
-<small><sub>**Literal:**</sub></small>
-And this having said He showed to them the hands and the feet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.39|<< Luke 24:39]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.41|Luke 24:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|τοῦτο]]  [[G2036\|εἰπὼν]]  [[G1166\|ἔδειξεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic TROUBLE|TROUBLE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.39|<< Luke 24:39]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.41|Luke 24:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

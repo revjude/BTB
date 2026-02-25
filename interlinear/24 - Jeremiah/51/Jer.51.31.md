@@ -1,8 +1,59 @@
+---
+title: Jeremiah 51:31
+type: Verse
+kjv: "One post shall run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at one end,"
+bsb: "One courier races to meet another, and messenger follows messenger, to announce to the king of Babylon that his city has been captured from end to end."
+hebrew: "רָ֤ץ לִקְרַאת־ רָץ֙ יָר֔וּץ וּמַגִּ֖יד לִקְרַ֣את מַגִּ֑יד לְהַגִּיד֙ לְמֶ֣לֶךְ בָּבֶ֔ל כִּֽי־ נִלְכְּדָ֥ה עִיר֖וֹ מִקָּצֶֽה׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic POST|POST]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7323G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H5046]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H3588A]]"
+- "[[H3920]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:31**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One post shall run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at [one] end,
 <small><sub>**BSB:**</sub></small>
 One courier races to meet another, and messenger follows messenger, to announce to the king of Babylon that his city has been captured from end to end.
+<small><sub>**Hebrew:**</sub></small>
+[[H7323G\|רָ֤ץ]] [[H9005\|לִ]][[H7122G\|קְרַאת]][[H9014\|־]] [[H7323G\|רָץ֙]] [[H7323G\|יָר֔וּץ]] [[H9002\|וּ]][[H5046\|מַגִּ֖יד]] [[H9005\|לִ]][[H7122G\|קְרַ֣את]] [[H5046\|מַגִּ֑יד]] [[H9005\|לְ]][[H5046\|הַגִּיד֙]] [[H9005\|לְ]][[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3920\|נִלְכְּדָ֥ה]] [[H5892B\|עִיר֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H7097A\|קָּצֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic POST|POST]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.30|<< Jeremiah 51:30]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.32|Jeremiah 51:32 >>]]</td></tr></table>
 

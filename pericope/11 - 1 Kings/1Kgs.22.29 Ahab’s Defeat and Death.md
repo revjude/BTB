@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ahab’s Defeat and Death
+type: Pericope
 pericope: "[[1Kgs.22.29 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 22
 book/chapter: "[[1Kgs.22|1 Kings 22]]"
-genre:
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 12
 verses:
 - "[[1Kgs.22.29]]"
 - "[[1Kgs.22.30]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Kgs.22.40]]"
 ---
 
-[[1Kgs.22|1 Kings 22:29 - 1 Kings 22:40]]
+<small>[[1Kgs.22|1 Kings 22:29-40]]</small>
 *Ahab’s Defeat and Death*
 
 [[1Kgs.22.29|29]] So the king of Israel and Jehoshaphat the king of Judah went up to Ramothgilead.

@@ -1,8 +1,77 @@
+---
+title: Genesis 30:16
+type: Verse
+kjv: "And Jacob came out of the field in the evening, and Leah went out to meet him, and said, Thou must come in unto me; for surely I have hired thee with my son’s mandrakes. And he lay with her that night."
+bsb: "When Jacob came in from the field that evening, Leah went out to meet him and said, “You must come with me, for I have hired you with my son’s mandrakes.” So he slept with her that night."
+hebrew: "וַיָּבֹ֨א יַעֲקֹ֣ב מִן־ הַשָּׂדֶה֮ בָּעֶרֶב֒ וַתֵּצֵ֨א לֵאָ֜ה לִקְרָאת֗וֹ וַתֹּ֙אמֶר֙ אֵלַ֣י תָּב֔וֹא כִּ֚י שָׂכֹ֣ר שְׂכַרְתִּ֔יךָ בְּדוּדָאֵ֖י בְּנִ֑י וַיִּשְׁכַּ֥ב עִמָּ֖הּ בַּלַּ֥יְלָה הֽוּא׃"
+pericope: "[[Gen.30.9 Gad and Asher|Gad and Asher]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 30
+book/chapter: "[[Gen.30|Genesis 30]]"
+chronological_order: 72
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EMULATION|EMULATION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MANDRAKE|MANDRAKE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3290]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9003]]"
+- "[[H6153]]"
+- "[[H3318G]]"
+- "[[H3812]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H7936B]]"
+- "[[H9031]]"
+- "[[H1736]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H7901I]]"
+- "[[H5973A]]"
+- "[[H9034]]"
+- "[[H3915]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 30:16**<big><big>[[Gen.30.9 Gad and Asher|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob came out of the field in the evening, and Leah went out to meet him, and said, Thou must come in unto me; for surely I have hired thee with my son’s mandrakes. And he lay with her that night.
 <small><sub>**BSB:**</sub></small>
 When Jacob came in from the field that evening, Leah went out to meet him and said, “You must come with me, for I have hired you with my son’s mandrakes.” So he slept with her that night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H3290\|יַעֲקֹ֣ב]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֮]] [[H9003\|בָּ]][[H6153\|עֶרֶב֒]] [[H9001\|וַ]][[H3318G\|תֵּצֵ֨א]] [[H3812\|לֵאָ֜ה]] [[H9005\|לִ]][[H7122G\|קְרָאת֗]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|תֹּ֙אמֶר֙]] [[H0413\|אֵלַ֣]][[H9030\|י]] [[H0935G\|תָּב֔וֹא]] [[H3588A\|כִּ֚י]] [[H7936B\|שָׂכֹ֣ר]] [[H7936B\|שְׂכַרְתִּ֔י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H1736\|דוּדָאֵ֖י]] [[H1121A\|בְּנִ֑]][[H9020\|י]] [[H9001\|וַ]][[H7901I\|יִּשְׁכַּ֥ב]] [[H5973A\|עִמָּ֖]][[H9034\|הּ]] [[H9003\|בַּ]][[H3915\|לַּ֥יְלָה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMULATION|EMULATION]] • [[topic FAMILY|FAMILY]] • [[topic JACOB|JACOB]] • [[topic MANDRAKE|MANDRAKE]] • [[topic POLYGAMY|POLYGAMY]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.30.15|<< Genesis 30:15]]</td><td align="center" style="border:none;">[[Gen.30|Genesis 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.30.17|Genesis 30:17 >>]]</td></tr></table>
 

@@ -1,8 +1,83 @@
+---
+title: Daniel 6:7
+type: Verse
+kjv: "All the presidents of the kingdom, the governors, and the princes, the counsellers, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions."
+bsb: "All the royal administrators, prefects, satraps, advisers, and governors have agreed that the king should establish an ordinance and enforce a decree that for thirty days anyone who petitions any god or man except you, O king, will be thrown into the den of lions."
+aramaic: "אִתְיָעַ֜טוּ כֹּ֣ל׀ סָרְכֵ֣י מַלְכוּתָ֗א סִגְנַיָּ֤א וַֽאֲחַשְׁדַּרְפְּנַיָּא֙ הַדָּֽבְרַיָּ֣א וּפַחֲוָתָ֔א לְקַיָּמָ֤ה קְיָם֙ מַלְכָּ֔א וּלְתַקָּפָ֖ה אֱסָ֑ר דִּ֣י כָל־ דִּֽי־ יִבְעֵ֣ה בָ֠עוּ מִן־ כָּל־ אֱלָ֨הּ וֶֽאֱנָ֜שׁ עַד־ יוֹמִ֣ין תְּלָתִ֗ין לָהֵן֙ מִנָּ֣ךְ מַלְכָּ֔א יִתְרְמֵ֕א לְגֹ֖ב אַרְיָוָתָֽא׃"
+pericope: "[[Dan.6.1 The Plot against Daniel|The Plot against Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3272A]]"
+- "[[H3606]]"
+- "[[H9015]]"
+- "[[H5632]]"
+- "[[H4437]]"
+- "[[H9010]]"
+- "[[H5460]]"
+- "[[H9002]]"
+- "[[H0324]]"
+- "[[H1907]]"
+- "[[H6347]]"
+- "[[H9005]]"
+- "[[H6966I]]"
+- "[[H7010]]"
+- "[[H4430]]"
+- "[[H8631]]"
+- "[[H0633]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H1156]]"
+- "[[H1159]]"
+- "[[H4481]]"
+- "[[H0426]]"
+- "[[H0606]]"
+- "[[H5705]]"
+- "[[H3118]]"
+- "[[H8533]]"
+- "[[H3861]]"
+- "[[H9031]]"
+- "[[H7412]]"
+- "[[H1358]]"
+- "[[H0744]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:7**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the presidents of the kingdom, the governors, and the princes, the counsellers, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions.
 <small><sub>**BSB:**</sub></small>
 All the royal administrators, prefects, satraps, advisers, and governors have agreed that the king should establish an ordinance and enforce a decree that for thirty days anyone who petitions any god or man except you, O king, will be thrown into the den of lions.
+<small><sub>**Aramaic:**</sub></small>
+[[H3272A\|אִתְיָעַ֜טוּ]] [[H3606\|כֹּ֣ל]][[H9015\|׀]] [[H5632\|סָרְכֵ֣י]] [[H4437\|מַלְכוּתָ֗]][[H9010\|א]] [[H5460\|סִגְנַיָּ֤]][[H9010\|א]] [[H9002\|וַֽ]][[H0324\|אֲחַשְׁדַּרְפְּנַיָּ]][[H9010\|א֙]] [[H1907\|הַדָּֽבְרַיָּ֣]][[H9010\|א]] [[H9002\|וּ]][[H6347\|פַחֲוָתָ֔]][[H9010\|א]] [[H9005\|לְ]][[H6966I\|קַיָּמָ֤ה]] [[H7010\|קְיָם֙]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H9002\|וּ]][[H9005\|לְ]][[H8631\|תַקָּפָ֖ה]] [[H0633\|אֱסָ֑ר]] [[H1768\|דִּ֣י]] [[H3606\|כָל]][[H9014\|־]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1156\|יִבְעֵ֣ה]] [[H1159\|בָ֠עוּ]] [[H4481\|מִן]][[H9014\|־]] [[H3606\|כָּל]][[H9014\|־]] [[H0426\|אֱלָ֨הּ]] [[H9002\|וֶֽ]][[H0606\|אֱנָ֜שׁ]] [[H5705\|עַד]][[H9014\|־]] [[H3118\|יוֹמִ֣ין]] [[H8533\|תְּלָתִ֗ין]] [[H3861\|לָהֵן֙]] [[H4481\|מִנָּ֣]][[H9031\|ךְ]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H7412\|יִתְרְמֵ֕א]] [[H9005\|לְ]][[H1358\|גֹ֖ב]] [[H0744\|אַרְיָוָתָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic FLATTERY|FLATTERY]] • [[topic MALICE|MALICE]] • [[topic PERSIA|PERSIA]] • [[topic POLITICS|POLITICS]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.6|<< Daniel 6:6]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.8|Daniel 6:8 >>]]</td></tr></table>
 

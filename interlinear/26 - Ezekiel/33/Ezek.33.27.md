@@ -1,8 +1,77 @@
+---
+title: Ezekiel 33:27
+type: Verse
+kjv: "Say thou thus unto them, Thus saith the Lord GOD; As I live, surely they that are in the wastes shall fall by the sword, and him that is in the open field will I give to the beasts to be devoured, and they that be in the forts and in the caves shall die of the pestilence."
+bsb: "Tell them that this is what the Lord GOD says: ‘As surely as I live, those in the ruins will fall by the sword, those in the open field I will give to be devoured by wild animals, and those in the strongholds and caves will die by plague."
+hebrew: "כֹּֽה־ תֹאמַ֨ר אֲלֵהֶ֜ם כֹּה־ אָמַ֨ר אֲדֹנָ֣י יְהוִה֮ חַי־ אָנִי֒ אִם־ לֹ֞א אֲשֶׁ֤ר בֶּֽחֳרָבוֹת֙ בַּחֶ֣רֶב יִפֹּ֔לוּ וַֽאֲשֶׁר֙ עַל־ פְּנֵ֣י הַשָּׂדֶ֔ה לַחַיָּ֥ה נְתַתִּ֖יו לְאָכְל֑וֹ וַאֲשֶׁ֛ר בַּמְּצָד֥וֹת וּבַמְּעָר֖וֹת בַּדֶּ֥בֶר יָמֽוּתוּ׃"
+pericope: "[[Ezek.33.21 Word of Jerusalem’s Fall|Word of Jerusalem’s Fall]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2416A]]"
+- "[[H0589]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H2723]]"
+- "[[H2719]]"
+- "[[H5307J]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9005]]"
+- "[[H2416C]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H0398]]"
+- "[[H4679]]"
+- "[[H4631]]"
+- "[[H1698]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:27**<big><big>[[Ezek.33.21 Word of Jerusalem’s Fall|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say thou thus unto them, Thus saith the Lord GOD; [As] I live, surely they that [are] in the wastes shall fall by the sword, and him that [is] in the open field will I give to the beasts to be devoured, and they that [be] in the forts and in the caves shall die of the pestilence.
 <small><sub>**BSB:**</sub></small>
 Tell them that this is what the Lord GOD says: ‘As surely as I live, those in the ruins will fall by the sword, those in the open field I will give to be devoured by wild animals, and those in the strongholds and caves will die by plague.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|תֹאמַ֨ר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֜ם]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֨ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֮]] [[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָנִי֒]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֞א]] [[H0834A\|אֲשֶׁ֤ר]] [[H9003\|בֶּֽ]][[H2723\|חֳרָבוֹת֙]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]] [[H5307J\|יִפֹּ֔לוּ]] [[H9002\|וַֽ]][[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9005\|לַ]][[H2416C\|חַיָּ֥ה]] [[H5414G\|נְתַתִּ֖י]][[H9033\|ו]] [[H9005\|לְ]][[H0398\|אָכְל֑]][[H9033\|וֹ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֛ר]] [[H9003\|בַּ]][[H4679\|מְּצָד֥וֹת]] [[H9002\|וּ]][[H9003\|בַ]][[H4631\|מְּעָר֖וֹת]] [[H9003\|בַּ]][[H1698\|דֶּ֥בֶר]] [[H4191\|יָמֽוּתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAVE|CAVE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.26|<< Ezekiel 33:26]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.28|Ezekiel 33:28 >>]]</td></tr></table>
 

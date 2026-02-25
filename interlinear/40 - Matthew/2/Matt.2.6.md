@@ -1,10 +1,68 @@
+---
+title: Matthew 2:6
+type: Verse
+kjv: "And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel."
+bsb: "‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah, for out of you will come a ruler who will be the shepherd of My people Israel.’”"
+greek: "καὶ σὺ βηθλέεμ γῆ Ἰούδα, οὐδαμῶς ἐλαχίστη εἶ ἐν τοῖς ἡγεμόσιν Ἰούδα· ἐκ σοῦ γὰρ ἐξελεύσεται ἡγούμενος ὅστις ποιμανεῖ τὸν λαόν μου τὸν Ἰσραήλ.¶"
+pericope: "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHLEHEM|BETHLEHEM]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAGI|MAGI]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G0965]]"
+- "[[G1093H]]"
+- "[[G2448]]"
+- "[[G3760]]"
+- "[[G1646]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2232]]"
+- "[[G1537]]"
+- "[[G1063]]"
+- "[[G1831]]"
+- "[[G2233]]"
+- "[[G3748]]"
+- "[[G4165]]"
+- "[[G2992]]"
+- "[[G3165]]"
+- "[[G2474]]"
+texts:
+- NKO
+---
+
 **Matthew 2:6**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And thou Bethlehem, [in] the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
 <small><sub>**BSB:**</sub></small>
 ‘But you, Bethlehem, in the land of Judah, are by no means least among the rulers of Judah, for out of you will come a ruler who will be the shepherd of My people Israel.’”
-<small><sub>**Literal:**</sub></small>
-And you yourself Bethlehem land of Judah, by no means least are among the rulers of Judah; out of you for will go forth [One] leading who will shepherd the people of Mine <the> Israel.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.5|<< Matthew 2:5]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.7|Matthew 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G0965\|βηθλέεμ]]  [[G1093H\|γῆ]]  [[G2448\|Ἰούδα,]]  [[G3760\|οὐδαμῶς]]  [[G1646\|ἐλαχίστη]]  [[G1510\|εἶ]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2232\|ἡγεμόσιν]]  [[G2448\|Ἰούδα·]]  [[G1537\|ἐκ]]  [[G4771\|σοῦ]]  [[G1063\|γὰρ]]  [[G1831\|ἐξελεύσεται]]  [[G2233\|ἡγούμενος]]  [[G3748\|ὅστις]]  [[G4165\|ποιμανεῖ]]  [[G3588\|τὸν]]  [[G2992\|λαόν]]  [[G3165\|μου]]  [[G3588\|τὸν]]  [[G2474\|Ἰσραήλ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHLEHEM|BETHLEHEM]] • [[topic HEATHEN|HEATHEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAGI|MAGI]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.5|<< Matthew 2:5]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.7|Matthew 2:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 2:6** is...
 > $\quad$ referencing: [[LXX.2Sam.5.2|2Sam 5:2]] ☩ [[LXX.Mic.5.2|Mic 5:2]][[LXX.Mic.5.4|, 4]]

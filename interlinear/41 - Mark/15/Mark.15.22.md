@@ -1,10 +1,56 @@
+---
+title: Mark 15:22
+type: Verse
+kjv: "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull."
+bsb: "They brought Jesus to a place called Golgotha, which means The Place of the Skull."
+greek: "καὶ φέρουσιν αὐτὸν ἐπὶ τὸν Γολγοθᾶν τόπον, ὅ ἐστιν μεθερμηνευόμενον, κρανίου τόπος."
+pericope: "[[Mark.15.21 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CALVARY|CALVARY]]"
+- "[[topic GOLGOTHA|GOLGOTHA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5342]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1115]]"
+- "[[G5117]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3177]]"
+- "[[G2898]]"
+texts:
+- NKO
+- no
+- NK(o)
+---
+
 **Mark 15:22**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.
 <small><sub>**BSB:**</sub></small>
 They brought Jesus to a place called Golgotha, which means The Place of the Skull.
-<small><sub>**Literal:**</sub></small>
-And they bring Him to <the> Golgotha a place which is being translated, of a Skull Place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.21|<< Mark 15:21]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.23|Mark 15:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5342\|φέρουσιν]]  [[G0846\|αὐτὸν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G1115\|Γολγοθᾶν]]  [[G5117\|τόπον,]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G3177\|μεθερμηνευόμενον,]]  [[G2898\|κρανίου]]  [[G5117\|τόπος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALVARY|CALVARY]] • [[topic GOLGOTHA|GOLGOTHA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.21|<< Mark 15:21]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.23|Mark 15:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,58 @@
+---
+title: Judges 18:23
+type: Verse
+kjv: "And they cried unto the children of Dan. And they turned their faces, and said unto Micah, What aileth thee, that thou comest with such a company?"
+bsb: "When they called out after them, the Danites turned to face them and said to Micah, “What is the matter with you that you have called out such a company?”"
+hebrew: "וַֽיִּקְרְאוּ֙ אֶל־ בְּנֵי־ דָ֔ן וַיַּסֵּ֖בּוּ פְּנֵיהֶ֑ם וַיֹּאמְר֣וּ לְמִיכָ֔ה מַה־ לְּךָ֖ כִּ֥י נִזְעָֽקְתָּ׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H1835G]]"
+- "[[H5437G]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4318G]]"
+- "[[H4100]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H2199]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:23**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they cried unto the children of Dan. And they turned their faces, and said unto Micah, What aileth thee, that thou comest with such a company?
 <small><sub>**BSB:**</sub></small>
 When they called out after them, the Danites turned to face them and said to Micah, “What is the matter with you that you have called out such a company?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7121I\|יִּקְרְאוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H1835G\|דָ֔ן]] [[H9001\|וַ]][[H5437G\|יַּסֵּ֖בּוּ]] [[H6440H\|פְּנֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H9005\|לְ]][[H4318G\|מִיכָ֔ה]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֖]] [[H3588A\|כִּ֥י]] [[H2199\|נִזְעָֽקְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.22|<< Judges 18:22]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.24|Judges 18:24 >>]]</td></tr></table>
 

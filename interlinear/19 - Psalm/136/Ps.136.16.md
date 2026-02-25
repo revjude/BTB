@@ -1,8 +1,56 @@
+---
+title: Psalm 136:16
+type: Verse
+kjv: "To him which led his people through the wilderness: for his mercy endureth for ever."
+bsb: "He led His people through the wilderness. His loving devotion endures forever."
+hebrew: "לְמוֹלִ֣יךְ עַ֭מּוֹ בַּמִּדְבָּ֑ר כִּ֖י לְעוֹלָ֣ם חַסְדּֽוֹ׃"
+pericope: "[[Ps.136.1 His Loving Devotion Endures Forever|His Loving Devotion Endures Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 136
+book/chapter: "[[Ps.136|Psalm 136]]"
+chronological_order: 533
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H1980J]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H3588A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 136:16**<big><big>[[Ps.136.1 His Loving Devotion Endures Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To him which led his people through the wilderness: for his mercy [endureth] for ever.
 <small><sub>**BSB:**</sub></small>
 He led His people through the wilderness. His loving devotion endures forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H1980J\|מוֹלִ֣יךְ]] [[H5971A\|עַ֭מּ]][[H9023\|וֹ]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H2617A\|חַסְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.136.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.136.15|<< Psalms 136:15]]</td><td align="center" style="border:none;">[[Ps.136|Psalms 136]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.136.17|Psalms 136:17 >>]]</td></tr></table>
 

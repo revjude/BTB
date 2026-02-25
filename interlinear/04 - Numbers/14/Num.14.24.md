@@ -1,8 +1,76 @@
+---
+title: Numbers 14:24
+type: Verse
+kjv: "But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it."
+bsb: "But because My servant Caleb has a different spirit and has followed Me wholeheartedly, I will bring him into the land he has entered, and his descendants will inherit it."
+hebrew: "וְעַבְדִּ֣י כָלֵ֗ב עֵ֣קֶב הָֽיְתָ֞ה ר֤וּחַ אַחֶ֙רֶת֙ עִמּ֔וֹ וַיְמַלֵּ֖א אַחֲרָ֑י וַהֲבִֽיאֹתִ֗יו אֶל־ הָאָ֙רֶץ֙ אֲשֶׁר־ בָּ֣א שָׁ֔מָּה וְזַרְע֖וֹ יוֹרִשֶֽׁנָּה׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3612G]]"
+- "[[H6118]]"
+- "[[H1961]]"
+- "[[H7307G]]"
+- "[[H0312]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H2233H]]"
+- "[[H9023]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:24**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.
 <small><sub>**BSB:**</sub></small>
 But because My servant Caleb has a different spirit and has followed Me wholeheartedly, I will bring him into the land he has entered, and his descendants will inherit it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5650\|עַבְדִּ֣]][[H9020\|י]] [[H3612G\|כָלֵ֗ב]] [[H6118\|עֵ֣קֶב]] [[H1961\|הָֽיְתָ֞ה]] [[H7307G\|ר֤וּחַ]] [[H0312\|אַחֶ֙רֶת֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H4390\|יְמַלֵּ֖א]] [[H0310A\|אַחֲרָ֑]][[H9030\|י]] [[H9001\|וַ]][[H0935P\|הֲבִֽיאֹתִ֗י]][[H9033\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣א]] [[H8033G\|שָׁ֔מָּ]][[H9011\|ה]] [[H9002\|וְ]][[H2233H\|זַרְע֖]][[H9023\|וֹ]] [[H3423H\|יוֹרִשֶֽׁ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSEVERANCE|PERSEVERANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.23|<< Numbers 14:23]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.25|Numbers 14:25 >>]]</td></tr></table>
 

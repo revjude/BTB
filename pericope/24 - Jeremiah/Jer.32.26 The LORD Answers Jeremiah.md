@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Answers Jeremiah
+type: Pericope
 pericope: "[[Jer.32.26 The LORD Answers Jeremiah|The LORD Answers Jeremiah]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 32
 book/chapter: "[[Jer.32|Jeremiah 32]]"
-genre:
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 10
 verses:
 - "[[Jer.32.26]]"
 - "[[Jer.32.27]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Jer.32.35]]"
 ---
 
-[[Jer.32|Jeremiah 32:26 - Jeremiah 32:35]]
+<small>[[Jer.32|Jeremiah 32:26-35]]</small>
 *The LORD Answers Jeremiah*
 
 [[Jer.32.26|26]] Then came the word of the LORD unto Jeremiah, saying,

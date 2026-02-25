@@ -1,10 +1,50 @@
+---
+title: Philemon 1:22
+type: Verse
+kjv: "But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you."
+bsb: "In the meantime, prepare a guest room for me, because I hope that through your prayers I will be restored to you."
+greek: "ἅμα δὲ καὶ ἑτοίμαζέ μοι ξενίαν· ἐλπίζω γὰρ ὅτι διὰ τῶν προσευχῶν ὑμῶν χαρισθήσομαι ὑμῖν.¶"
+pericope: "[[Phlm.1.8 Paul’s Appeal for Onesimus|Paul’s Appeal for Onesimus]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G0260]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2090]]"
+- "[[G3165]]"
+- "[[G3578]]"
+- "[[G1679]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4335]]"
+- "[[G4771]]"
+- "[[G5483]]"
+texts:
+- NKO
+---
+
 **Philemon 1:22**<big><big>[[Phlm.1.8 Paul’s Appeal for Onesimus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.
 <small><sub>**BSB:**</sub></small>
 In the meantime, prepare a guest room for me, because I hope that through your prayers I will be restored to you.
-<small><sub>**Literal:**</sub></small>
-At the same time now also do prepare for me a lodging; I hope for that through the prayers of you I will be granted to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.21|<< Philemon 1:21]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.23|Philemon 1:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0260\|ἅμα]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2090\|ἑτοίμαζέ]]  [[G3165\|μοι]]  [[G3578\|ξενίαν·]]  [[G1679\|ἐλπίζω]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G4335\|προσευχῶν]]  [[G4771\|ὑμῶν]]  [[G5483\|χαρισθήσομαι]]  [[G4771\|ὑμῖν.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.21|<< Philemon 1:21]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.23|Philemon 1:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

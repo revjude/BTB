@@ -1,8 +1,59 @@
+---
+title: Judges 15:10
+type: Verse
+kjv: "And the men of Judah said, Why are ye come up against us? And they answered, To bind Samson are we come up, to do to him as he hath done to us."
+bsb: "“Why have you attacked us?” said the men of Judah. The Philistines replied, “We have come to arrest Samson and pay him back for what he has done to us.”"
+hebrew: "וַיֹּֽאמְרוּ֙ אִ֣ישׁ יְהוּדָ֔ה לָמָ֖ה עֲלִיתֶ֣ם עָלֵ֑ינוּ וַיֹּאמְר֗וּ לֶאֱס֤וֹר אֶת־ שִׁמְשׁוֹן֙ עָלִ֔ינוּ לַעֲשׂ֣וֹת ל֔וֹ כַּאֲשֶׁ֖ר עָ֥שָׂה לָֽנוּ׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic LEHI|LEHI]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H0631]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8123]]"
+- "[[H6213A]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:10**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Judah said, Why are ye come up against us? And they answered, To bind Samson are we come up, to do to him as he hath done to us.
 <small><sub>**BSB:**</sub></small>
 “Why have you attacked us?” said the men of Judah. The Philistines replied, “We have come to arrest Samson and pay him back for what he has done to us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H0376G\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֔ה]] [[H9005\|לָ]][[H4100\|מָ֖ה]] [[H5927G\|עֲלִיתֶ֣ם]] [[H5921A\|עָלֵ֑י]][[H9035\|נוּ]] [[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H9005\|לֶ]][[H0631\|אֱס֤וֹר]] [[H0853\|אֶת]][[H9014\|־]] [[H8123\|שִׁמְשׁוֹן֙]] [[H5927G\|עָלִ֔ינוּ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H6213A\|עָ֥שָׂה]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEHI|LEHI]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.9|<< Judges 15:9]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.11|Judges 15:11 >>]]</td></tr></table>
 

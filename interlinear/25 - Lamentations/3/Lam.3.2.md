@@ -1,8 +1,53 @@
+---
+title: Lamentations 3:2
+type: Verse
+kjv: "He hath led me, and brought me into darkness, but not into light."
+bsb: "He has driven me away and made me walk in darkness instead of light."
+hebrew: "אוֹתִ֥י נָהַ֛ג וַיֹּלַ֖ךְ חֹ֥שֶׁךְ וְלֹא־ אֽוֹר׃"
+pericope: "[[Lam.3.1 The Prophet’s Afflictions|The Prophet’s Afflictions]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H5090A]]"
+- "[[H9001]]"
+- "[[H1980J]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0216]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:2**<big><big>[[Lam.3.1 The Prophet’s Afflictions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath led me, and brought [me into] darkness, but not [into] light.
 <small><sub>**BSB:**</sub></small>
 He has driven me away and made me walk in darkness instead of light.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אוֹתִ֥]][[H9030\|י]] [[H5090A\|נָהַ֛ג]] [[H9001\|וַ]][[H1980J\|יֹּלַ֖ךְ]] [[H2822\|חֹ֥שֶׁךְ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0216\|אֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DARKNESS|DARKNESS]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.1|<< Lamentations 3:1]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.3|Lamentations 3:3 >>]]</td></tr></table>
 

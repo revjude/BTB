@@ -19,7 +19,7 @@
 
 - Denounces the idolatry of his times [[Mic.1|Mic 1]]
 
-- The oppressions of the covetous [[Mic.2.1|Mic 2:1]]-[[Mic.2.11|11]]
+- The oppressions of the covetous [[Mic.2.1|Mic 2:1-11]]
 
 - Foretells the restoration of Israel [[Mic.2.12|Mic 2:12]],[[Mic.2.13|13]]
 

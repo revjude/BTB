@@ -1,8 +1,68 @@
+---
+title: Numbers 22:8
+type: Verse
+kjv: "And he said unto them, Lodge here this night, and I will bring you word again, as the LORD shall speak unto me: and the princes of Moab abode with Balaam."
+bsb: "“Spend the night here,” Balaam replied, “and I will give you the answer that the LORD speaks to me.” So the princes of Moab stayed with Balaam."
+hebrew: "וַיֹּ֣אמֶר אֲלֵיהֶ֗ם לִ֤ינוּ פֹה֙ הַלַּ֔יְלָה וַהֲשִׁבֹתִ֤י אֶתְכֶם֙ דָּבָ֔ר כַּאֲשֶׁ֛ר יְדַבֵּ֥ר יְהוָ֖ה אֵלָ֑י וַיֵּשְׁב֥וּ שָׂרֵֽי־ מוֹאָ֖ב עִם־ בִּלְעָֽם׃"
+pericope: "[[Num.22.1 Balak Summons Balaam|Balak Summons Balaam]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3885A]]"
+- "[[H6311]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H1697G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9030]]"
+- "[[H3427]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H5973A]]"
+- "[[H1109A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:8**<big><big>[[Num.22.1 Balak Summons Balaam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Lodge here this night, and I will bring you word again, as the LORD shall speak unto me: and the princes of Moab abode with Balaam.
 <small><sub>**BSB:**</sub></small>
 “Spend the night here,” Balaam replied, “and I will give you the answer that the LORD speaks to me.” So the princes of Moab stayed with Balaam.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H3885A\|לִ֤ינוּ]] [[H6311\|פֹה֙]] [[H9009\|הַ]][[H3915\|לַּ֔יְלָה]] [[H9001\|וַ]][[H7725G\|הֲשִׁבֹתִ֤י]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H1697G\|דָּבָ֔ר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H1696G\|יְדַבֵּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֥וּ]] [[H8269\|שָׂרֵֽי]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H5973A\|עִם]][[H9014\|־]] [[H1109A\|בִּלְעָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.7|<< Numbers 22:7]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.9|Numbers 22:9 >>]]</td></tr></table>
 

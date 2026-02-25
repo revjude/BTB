@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph’s Dreams
+type: Pericope
 pericope: "[[Gen.37.1 Joseph’s Dreams|Joseph’s Dreams]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 37
 book/chapter: "[[Gen.37|Genesis 37]]"
-genre:
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 11
 verses:
 - "[[Gen.37.1]]"
 - "[[Gen.37.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Gen.37.11]]"
 ---
 
-[[Gen.37|Genesis 37:1 - Genesis 37:11]]
+<small>[[Gen.37|Genesis 37:1-11]]</small>
 *Joseph’s Dreams*
 
 [[Gen.37.1|1]] And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.

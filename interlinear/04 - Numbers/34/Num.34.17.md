@@ -1,8 +1,64 @@
+---
+title: Numbers 34:17
+type: Verse
+kjv: "These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun."
+bsb: "“These are the names of the men who are to assign the land as an inheritance for you: Eleazar the priest and Joshua son of Nun."
+hebrew: "אֵ֚לֶּה שְׁמ֣וֹת הָֽאֲנָשִׁ֔ים אֲשֶׁר־ יִנְחֲל֥וּ לָכֶ֖ם אֶת־ הָאָ֑רֶץ אֶלְעָזָר֙ הַכֹּהֵ֔ן וִיהוֹשֻׁ֖עַ בִּן־ נֽוּן׃"
+pericope: "[[Num.34.16 Leaders to Divide the Land|Leaders to Divide the Land]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H0428]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5157]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H0499G]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H5126]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 34:17**<big><big>[[Num.34.16 Leaders to Divide the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.
 <small><sub>**BSB:**</sub></small>
 “These are the names of the men who are to assign the land as an inheritance for you: Eleazar the priest and Joshua son of Nun.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֚לֶּה]] [[H8034\|שְׁמ֣וֹת]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5157\|יִנְחֲל֥וּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H0499G\|אֶלְעָזָר֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וִ]][[H3091G\|יהוֹשֻׁ֖עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נֽוּן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.16|<< Numbers 34:16]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.18|Numbers 34:18 >>]]</td></tr></table>
 

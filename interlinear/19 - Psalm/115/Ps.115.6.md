@@ -1,8 +1,53 @@
+---
+title: Psalm 115:6
+type: Verse
+kjv: "They have ears, but they hear not: noses have they, but they smell not:"
+bsb: "they have ears, but cannot hear; they have noses, but cannot smell;"
+hebrew: "אָזְנַ֣יִם לָ֭הֶם וְלֹ֣א יִשְׁמָ֑עוּ אַ֥ף לָ֝הֶ֗ם וְלֹ֣א יְרִיחֽוּן׃"
+pericope: "[[Ps.115.1 To Your Name Be the Glory|To Your Name Be the Glory]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 115
+book/chapter: "[[Ps.115|Psalm 115]]"
+chronological_order: 877
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOL|IDOL]]"
+strongs:
+- "[[H0241G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H0639H]]"
+- "[[H7306]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 115:6**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have ears, but they hear not: noses have they, but they smell not:
 <small><sub>**BSB:**</sub></small>
 they have ears, but cannot hear; they have noses, but cannot smell;
+<small><sub>**Hebrew:**</sub></small>
+[[H0241G\|אָזְנַ֣יִם]] [[H9005\|לָ֭]][[H9038\|הֶם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8085G\|יִשְׁמָ֑עוּ]] [[H0639H\|אַ֥ף]] [[H9005\|לָ֝]][[H9038\|הֶ֗ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7306\|יְרִיחֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOL|IDOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.5|<< Psalms 115:5]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.7|Psalms 115:7 >>]]</td></tr></table>
 

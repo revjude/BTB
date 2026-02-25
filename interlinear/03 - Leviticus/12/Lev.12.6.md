@@ -1,8 +1,77 @@
+---
+title: Leviticus 12:6
+type: Verse
+kjv: "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:"
+bsb: "When the days of her purification are complete, whether for a son or for a daughter, she is to bring to the priest at the entrance to the Tent of Meeting a year-old lamb for a burnt offering and a young pigeon or a turtledove for a sin offering."
+hebrew: "וּבִמְלֹ֣את׀ יְמֵ֣י טָהֳרָ֗הּ לְבֵן֮ א֣וֹ לְבַת֒ תָּבִ֞יא כֶּ֤בֶשׂ בֶּן־ שְׁנָתוֹ֙ לְעֹלָ֔ה וּבֶן־ יוֹנָ֥ה אוֹ־ תֹ֖ר לְחַטָּ֑את אֶל־ פֶּ֥תַח אֹֽהֶל־ מוֹעֵ֖ד אֶל־ הַכֹּהֵֽן׃"
+pericope: "[[Lev.12.1 Purification after Childbirth|Purification after Childbirth]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 12
+book/chapter: "[[Lev.12|Leviticus 12]]"
+chronological_order: 144
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4390]]"
+- "[[H9015]]"
+- "[[H3117G]]"
+- "[[H2892A]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H0176A]]"
+- "[[H1323G]]"
+- "[[H0935P]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H9023]]"
+- "[[H5930A]]"
+- "[[H3123]]"
+- "[[H8449]]"
+- "[[H2403H]]"
+- "[[H0413]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 12:6**<big><big>[[Lev.12.1 Purification after Childbirth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:
 <small><sub>**BSB:**</sub></small>
 When the days of her purification are complete, whether for a son or for a daughter, she is to bring to the priest at the entrance to the Tent of Meeting a year-old lamb for a burnt offering and a young pigeon or a turtledove for a sin offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H4390\|מְלֹ֣את]][[H9015\|׀]] [[H3117G\|יְמֵ֣י]] [[H2892A\|טָהֳרָ֗]][[H9024\|הּ]] [[H9005\|לְ]][[H1121A\|בֵן֮]] [[H0176A\|א֣וֹ]] [[H9005\|לְ]][[H1323G\|בַת֒]] [[H0935P\|תָּבִ֞יא]] [[H3532\|כֶּ֤בֶשׂ]] [[H1121L\|בֶּן]][[H9014\|־]] [[H8141\|שְׁנָת]][[H9023\|וֹ֙]] [[H9005\|לְ]][[H5930A\|עֹלָ֔ה]] [[H9002\|וּ]][[H1121L\|בֶן]][[H9014\|־]] [[H3123\|יוֹנָ֥ה]] [[H0176A\|אוֹ]][[H9014\|־]] [[H8449\|תֹ֖ר]] [[H9005\|לְ]][[H2403H\|חַטָּ֑את]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֥תַח]] [[H0168G\|אֹֽהֶל]][[H9014\|־]] [[H4150I\|מוֹעֵ֖ד]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PURIFICATION|PURIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.5|<< Leviticus 12:5]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.7|Leviticus 12:7 >>]]</td></tr></table>
 

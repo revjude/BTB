@@ -1,10 +1,56 @@
+---
+title: John 13:19
+type: Verse
+kjv: "Now I tell you before it come, that, when it is come to pass, ye may believe that I am he."
+bsb: "I am telling you now before it happens, so that when it comes to pass, you will believe that I am He."
+jesus_said: "Now I tell you before it come, that, when it is come to pass, ye may believe that I am he."
+greek: "Ἀπ᾽ ἄρτι λέγω ὑμῖν πρὸ τοῦ γενέσθαι, ἵνα πιστεύσητε ὅταν γένηται ὅτι ἐγώ εἰμι."
+pericope: "[[John.13.18 Jesus Predicts His Betrayal|Jesus Predicts His Betrayal]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+strongs:
+- "[[G0575]]"
+- "[[G0737]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G4253]]"
+- "[[G3588]]"
+- "[[G1096]]"
+- "[[G2443]]"
+- "[[G4100]]"
+- "[[G3752]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 13:19**<big><big>[[John.13.18 Jesus Predicts His Betrayal|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I tell you before it come, that, when it is come to pass, ye may believe that I am [he].
 <small><sub>**BSB:**</sub></small>
 I am telling you now before it happens, so that when it comes to pass, you will believe that I am He.
-<small><sub>**Literal:**</sub></small>
-From now I am telling you before <the> it comes to pass, so that you may believe when it may happen that I myself am [He].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.18|<< John 13:18]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.20|John 13:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|Ἀπ᾽]]  [[G0737\|ἄρτι]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G1096\|γενέσθαι,]]  [[G2443\|ἵνα]]  [[G4100\|πιστεύσητε]]  [[G3752\|ὅταν]]  [[G1096\|γένηται]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.18|<< John 13:18]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.20|John 13:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

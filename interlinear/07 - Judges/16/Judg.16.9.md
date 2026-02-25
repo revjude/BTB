@@ -1,8 +1,78 @@
+---
+title: Judges 16:9
+type: Verse
+kjv: "Now there were men lying in wait, abiding with her in the chamber. And she said unto him, The Philistines be upon thee, Samson. And he brake the withs, as a thread of tow is broken when it toucheth the fire. So his strength was not known."
+bsb: "While the men were hidden in her room, she called out, “Samson, the Philistines are here!” But he snapped the bowstrings like a strand of yarn seared by a flame. So the source of his strength remained unknown."
+hebrew: "וְהָאֹרֵ֗ב יֹשֵׁ֥ב לָהּ֙ בַּחֶ֔דֶר וַתֹּ֣אמֶר אֵלָ֔יו פְּלִשְׁתִּ֥ים עָלֶ֖יךָ שִׁמְשׁ֑וֹן וַיְנַתֵּק֙ אֶת־ הַיְתָרִ֔ים כַּאֲשֶׁ֨ר יִנָּתֵ֤ק פְּתִֽיל־ הַנְּעֹ֙רֶת֙ בַּהֲרִיח֣וֹ אֵ֔שׁ וְלֹ֥א נוֹדַ֖ע כֹּחֽוֹ׃"
+pericope: "[[Judg.16.4 Samson and Delilah|Samson and Delilah]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic TOW|TOW]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0693]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H2315]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H6430G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H8123]]"
+- "[[H5423]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3499B]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6616]]"
+- "[[H5296]]"
+- "[[H7306]]"
+- "[[H9043]]"
+- "[[H0784]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:9**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [there were] men lying in wait, abiding with her in the chamber. And she said unto him, The Philistines [be] upon thee, Samson. And he brake the withs, as a thread of tow is broken when it toucheth the fire. So his strength was not known.
 <small><sub>**BSB:**</sub></small>
 While the men were hidden in her room, she called out, “Samson, the Philistines are here!” But he snapped the bowstrings like a strand of yarn seared by a flame. So the source of his strength remained unknown.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0693\|אֹרֵ֗ב]] [[H3427\|יֹשֵׁ֥ב]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H9003\|בַּ]][[H2315\|חֶ֔דֶר]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H6430G\|פְּלִשְׁתִּ֥ים]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H8123\|שִׁמְשׁ֑וֹן]] [[H9001\|וַ]][[H5423\|יְנַתֵּק֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3499B\|יְתָרִ֔ים]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H5423\|יִנָּתֵ֤ק]] [[H6616\|פְּתִֽיל]][[H9014\|־]] [[H9009\|הַ]][[H5296\|נְּעֹ֙רֶת֙]] [[H9003\|בַּ]][[H7306\|הֲרִיח֣]][[H9043\|וֹ]] [[H0784\|אֵ֔שׁ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3045\|נוֹדַ֖ע]] [[H3581B\|כֹּחֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic TOW|TOW]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.8|<< Judges 16:8]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.10|Judges 16:10 >>]]</td></tr></table>
 

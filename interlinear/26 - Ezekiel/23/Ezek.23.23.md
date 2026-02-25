@@ -1,8 +1,70 @@
+---
+title: Ezekiel 23:23
+type: Verse
+kjv: "The Babylonians, and all the Chaldeans, Pekod, and Shoa, and Koa, and all the Assyrians with them: all of them desirable young men, captains and rulers, great lords and renowned, all of them riding upon horses."
+bsb: "the Babylonians and all the Chaldeans, the men of Pekod, Shoa, and Koa, and all the Assyrians with them—all desirable young men, governors and commanders, officers and men of renown, mounted on horses."
+hebrew: "בְּנֵ֧י בָבֶ֣ל וְכָל־ כַּשְׂדִּ֗ים פְּק֤וֹד וְשׁ֙וֹעַ֙ וְק֔וֹעַ כָּל־ בְּנֵ֥י אַשּׁ֖וּר אוֹתָ֑ם בַּח֨וּרֵי חֶ֜מֶד פַּח֤וֹת וּסְגָנִים֙ כֻּלָּ֔ם שָֽׁלִשִׁים֙ וּקְרוּאִ֔ים רֹכְבֵ֥י סוּסִ֖ים כֻּלָּֽם׃"
+pericope: "[[Ezek.23.22 Oholibah to Be Plagued|Oholibah to Be Plagued]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KOA|KOA]]"
+- "[[topic PEKOD|PEKOD]]"
+- "[[topic SHOA|SHOA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1121G]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3778]]"
+- "[[H6489]]"
+- "[[H7772]]"
+- "[[H6970]]"
+- "[[H0804G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H0970]]"
+- "[[H2531]]"
+- "[[H6346]]"
+- "[[H5461]]"
+- "[[H9028]]"
+- "[[H7991C]]"
+- "[[H7121H]]"
+- "[[H7392]]"
+- "[[H5483M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:23**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Babylonians, and all the Chaldeans, Pekod, and Shoa, and Koa, [and] all the Assyrians with them: all of them desirable young men, captains and rulers, great lords and renowned, all of them riding upon horses.
 <small><sub>**BSB:**</sub></small>
 the Babylonians and all the Chaldeans, the men of Pekod, Shoa, and Koa, and all the Assyrians with them—all desirable young men, governors and commanders, officers and men of renown, mounted on horses.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֧י]] [[H0894\|בָבֶ֣ל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3778\|כַּשְׂדִּ֗ים]] [[H6489\|פְּק֤וֹד]] [[H9002\|וְ]][[H7772\|שׁ֙וֹעַ֙]] [[H9002\|וְ]][[H6970\|ק֔וֹעַ]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H0804G\|אַשּׁ֖וּר]] [[H0854\|אוֹתָ֑]][[H9038\|ם]] [[H0970\|בַּח֨וּרֵי]] [[H2531\|חֶ֜מֶד]] [[H6346\|פַּח֤וֹת]] [[H9002\|וּ]][[H5461\|סְגָנִים֙]] [[H3605\|כֻּלָּ֔]][[H9028\|ם]] [[H7991C\|שָֽׁלִשִׁים֙]] [[H9002\|וּ]][[H7121H\|קְרוּאִ֔ים]] [[H7392\|רֹכְבֵ֥י]] [[H5483M\|סוּסִ֖ים]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KOA|KOA]] • [[topic PEKOD|PEKOD]] • [[topic SHOA|SHOA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.22|<< Ezekiel 23:22]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.24|Ezekiel 23:24 >>]]</td></tr></table>
 

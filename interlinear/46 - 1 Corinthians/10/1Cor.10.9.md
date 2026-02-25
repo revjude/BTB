@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 10:9
+type: Verse
+kjv: "Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents."
+bsb: "We should not test Christ, as some of them did, and were killed by snakes."
+greek: "μηδὲ ἐκπειράζωμεν τὸν Χριστόν καθώς καί τινες αὐτῶν ἐπείρασαν, καὶ ὑπὸ τῶν ὄφεων ἀπώλλυντο."
+pericope: "[[1Cor.10.1 Warnings from Israel’s Past|Warnings from Israel’s Past]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 10
+book/chapter: "[[1Cor.10|1 Corinthians 10]]"
+chronological_order: 1067
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3366]]"
+- "[[G1598]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G2531]]"
+- "[[G2532]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G3985H]]"
+- "[[G5259G]]"
+- "[[G3789]]"
+- "[[G0622]]"
+texts:
+- NKO
+- NK(O)
+- k
+- N(k)O
+---
+
 **1 Corinthians 10:9**<big><big>[[1Cor.10.1 Warnings from Israel’s Past|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
 <small><sub>**BSB:**</sub></small>
 We should not test Christ, as some of them did, and were killed by snakes.
-<small><sub>**Literal:**</sub></small>
-Neither shall we test the Christ even as and some of them tested, and by <the> serpents were destroyed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.8|<< 1 Corinthians 10:8]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.10|1 Corinthians 10:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3366\|μηδὲ]]  [[G1598\|ἐκπειράζωμεν]]  [[G3588\|τὸν]]  [[G5547\|Χριστόν]]  [[G2531\|καθώς]]  [[G2532\|καί]]  [[G5100\|τινες]]  [[G0846\|αὐτῶν]]  [[G3985H\|ἐπείρασαν,]]  [[G2532\|καὶ]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G3789\|ὄφεων]]  [[G0622\|ἀπώλλυντο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SERPENT|SERPENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.10.8|<< 1 Corinthians 10:8]]</td><td align="center" style="border:none;">[[1Cor.10|1 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.10.10|1 Corinthians 10:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 10:9** is...
 > $\quad$ alluding to: [[LXX.Num.21.6|Num 21:6]]

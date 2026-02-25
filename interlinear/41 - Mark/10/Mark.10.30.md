@@ -1,10 +1,67 @@
+---
+title: Mark 10:30
+type: Verse
+kjv: "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life."
+bsb: "will fail to receive a hundredfold in the present age—houses and brothers and sisters and mothers and children and fields, along with persecutions—and in the age to come, eternal life."
+jesus_said: "But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life."
+greek: "ἐὰν μὴ λάβῃ ἑκατονταπλασίονα νῦν ἐν τῷ καιρῷ τούτῳ οἰκίας καὶ ἀδελφοὺς καὶ ἀδελφὰς καὶ μητέρας καὶ τέκνα καὶ ἀγροὺς μετὰ διωγμῶν καὶ ἐν τῷ αἰῶνι τῷ ἐρχομένῳ ζωὴν αἰώνιον."
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G2983]]"
+- "[[G1542]]"
+- "[[G3568]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G3778]]"
+- "[[G3614G]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G0079]]"
+- "[[G3384]]"
+- "[[G5043]]"
+- "[[G0068G]]"
+- "[[G3326]]"
+- "[[G1375]]"
+- "[[G0165G]]"
+- "[[G2064]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Mark 10:30**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he shall receive an hundredfold now in this time, houses, and brethren, and sisters, and mothers, and children, and lands, with persecutions; and in the world to come eternal life.
 <small><sub>**BSB:**</sub></small>
 will fail to receive a hundredfold in the present age—houses and brothers and sisters and mothers and children and fields, along with persecutions—and in the age to come, eternal life.
-<small><sub>**Literal:**</sub></small>
-only unless shall take a hundredfold now in <the> time this — houses and brothers and sisters and mothers and children and lands with persecutions — and in the age which is coming life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.29|<< Mark 10:29]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.31|Mark 10:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G2983\|λάβῃ]]  [[G1542\|ἑκατονταπλασίονα]]  [[G3568\|νῦν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2540\|καιρῷ]]  [[G3778\|τούτῳ]]  [[G3614G\|οἰκίας]]  [[G2532\|καὶ]]  [[G0080\|ἀδελφοὺς]]  [[G2532\|καὶ]]  [[G0079\|ἀδελφὰς]]  [[G2532\|καὶ]]  [[G3384\|μητέρας]]  [[G2532\|καὶ]]  [[G5043\|τέκνα]]  [[G2532\|καὶ]]  [[G0068G\|ἀγροὺς]]  [[G3326\|μετὰ]]  [[G1375\|διωγμῶν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0165G\|αἰῶνι]]  [[G3588\|τῷ]]  [[G2064\|ἐρχομένῳ]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.29|<< Mark 10:29]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.31|Mark 10:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

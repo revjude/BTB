@@ -1,8 +1,59 @@
+---
+title: Judges 21:3
+type: Verse
+kjv: "And said, O LORD God of Israel, why is this come to pass in Israel, that there should be to day one tribe lacking in Israel?"
+bsb: "“Why, O LORD God of Israel,” they cried out, “has this happened in Israel? Today in Israel one tribe is missing!”"
+hebrew: "וַיֹּ֣אמְר֔וּ לָמָ֗ה יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל הָ֥יְתָה זֹּ֖את בְּיִשְׂרָאֵ֑ל לְהִפָּקֵ֥ד הַיּ֛וֹם מִיִּשְׂרָאֵ֖ל שֵׁ֥בֶט אֶחָֽד׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic NATION|NATION]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H6485K]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9006]]"
+- "[[H7626H]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **Judges 21:3**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, O LORD God of Israel, why is this come to pass in Israel, that there should be to day one tribe lacking in Israel?
 <small><sub>**BSB:**</sub></small>
 “Why, O LORD God of Israel,” they cried out, “has this happened in Israel? Today in Israel one tribe is missing!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H9005\|לָ]][[H4100\|מָ֗ה]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H1961\|הָ֥יְתָה]] [[H2063\|זֹּ֖את]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לְ]][[H6485K\|הִפָּקֵ֥ד]] [[H9009\|הַ]][[H3117L\|יּ֛וֹם]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵ֖ל]] [[H7626H\|שֵׁ֥בֶט]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATION|NATION]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.2|<< Judges 21:2]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.4|Judges 21:4 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: How Pleasant to Live in Harmony!
+type: Pericope
 pericope: "[[Ps.133.1 How Pleasant to Live in Harmony!|How Pleasant to Live in Harmony!]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 133
 book/chapter: "[[Ps.133|Psalm 133]]"
-genre:
+chronological_order: 893
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 4
 verses:
 - "[[Ps.133.0]]"
 - "[[Ps.133.1]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ps.133.3]]"
 ---
 
-[[Ps.133|Psalm 133:1 - Psalm 133:3]]
+<small>[[Ps.133|Psalm 133:1-3]]</small>
 *How Pleasant to Live in Harmony!*
 
 [[Ps.133.0|0]] A Song of degrees of David.

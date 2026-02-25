@@ -1,6 +1,49 @@
+---
+title: LXX Proverbs 23:18
+type: Verse
+lxx: "For if you should give heed to these things there will be a progeny for you,  and your hope will not leave."
+greek: "εάν γαρ τηρήσης αυτά έσται σοι έκγονα η δε ελπίς σου ουκ αποστήσεται"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HOPE|HOPE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G1437]]"
+- "[[G1063]]"
+- "[[G5083]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G1549]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1680]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G0868]]"
+---
+
 **LXX Proverbs 23:18** 
 <small><sub>**LXX:**</sub></small>
 For if you should give heed to these \[things\] there will be a progeny for you,  and your hope will not leave. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1063\|γαρ]] [[G5083\|τηρήσης]] [[G1473\|αυτά]] [[G1510\|έσται]] [[G1473\|σοι]] [[G1549\|έκγονα]] [[G3588\|η]] [[G1161\|δε]] [[G1680\|ελπίς]] [[G1473\|σου]] [[G3756\|ουκ]] [[G0868\|αποστήσεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOPE|HOPE]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.17|<< Proverbs 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.19|Proverbs 23:19 >>]]</td></tr></table>
 
@@ -16,6 +59,6 @@ For if you should give heed to these \[things\] there will be a progeny for you,
 | your hope | **<big>[[G1680\|ελπίς]]</big>** **<big>[[G1473\|σου]]</big>** |
 | will not | **<big>[[G3756\|ουκ]]</big>** |
 | leave. | **<big>[[G0868\|αποστήσεται]]</big>** |
-[[Prov.23.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.17|<< Proverbs 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.19|Proverbs 23:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.23.17|<< Proverbs 23:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.23.19|Proverbs 23:19 >>]]</td></tr></table>
 
 

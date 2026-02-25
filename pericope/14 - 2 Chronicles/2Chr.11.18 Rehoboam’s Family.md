@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rehoboam’s Family
+type: Pericope
 pericope: "[[2Chr.11.18 Rehoboam’s Family|Rehoboam’s Family]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 11
 book/chapter: "[[2Chr.11|2 Chronicles 11]]"
-genre:
+chronological_order: 557
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 6
 verses:
 - "[[2Chr.11.18]]"
 - "[[2Chr.11.19]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Chr.11.23]]"
 ---
 
-[[2Chr.11|2 Chronicles 11:18 - 2 Chronicles 11:23]]
+<small>[[2Chr.11|2 Chronicles 11:18-23]]</small>
 *Rehoboam’s Family*
 
 [[2Chr.11.18|18]] And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to wife, \[and\] Abihail the daughter of Eliab the son of Jesse;

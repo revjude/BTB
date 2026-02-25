@@ -1,8 +1,51 @@
+---
+title: Isaiah 33:3
+type: Verse
+kjv: "At the noise of the tumult the people fled; at the lifting up of thyself the nations were scattered."
+bsb: "The peoples flee the thunder of Your voice; the nations scatter when You rise."
+hebrew: "מִקּ֣וֹל הָמ֔וֹן נָדְד֖וּ עַמִּ֑ים מֵר֣וֹמְמֻתֶ֔ךָ נָפְצ֖וּ גּוֹיִֽם׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H1995A]]"
+- "[[H5074]]"
+- "[[H5971A]]"
+- "[[H7427]]"
+- "[[H9021]]"
+- "[[H5310B]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:3**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At the noise of the tumult the people fled; at the lifting up of thyself the nations were scattered.
 <small><sub>**BSB:**</sub></small>
 The peoples flee the thunder of Your voice; the nations scatter when You rise.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6963H\|קּ֣וֹל]] [[H1995A\|הָמ֔וֹן]] [[H5074\|נָדְד֖וּ]] [[H5971A\|עַמִּ֑ים]] [[H9006\|מֵ]][[H7427\|ר֣וֹמְמֻתֶ֔]][[H9021\|ךָ]] [[H5310B\|נָפְצ֖וּ]] [[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.2|<< Isaiah 33:2]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.4|Isaiah 33:4 >>]]</td></tr></table>
 

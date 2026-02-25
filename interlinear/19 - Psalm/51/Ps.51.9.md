@@ -1,8 +1,62 @@
+---
+title: Psalm 51:9
+type: Verse
+kjv: "Hide thy face from my sins, and blot out all mine iniquities."
+bsb: "Hide Your face from my sins and blot out all my iniquities."
+hebrew: "הַסְתֵּ֣ר פָּ֭נֶיךָ מֵחֲטָאָ֑י וְֽכָל־ עֲוֹ֖נֹתַ֣י מְחֵֽה׃"
+pericope: "[[Ps.51.1 Create in Me a Clean Heart, O God|Create in Me a Clean Heart, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 51
+book/chapter: "[[Ps.51|Psalm 51]]"
+chronological_order: 425
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H2399]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5771G]]"
+- "[[H4229A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 51:9**<big><big>[[Ps.51.1 Create in Me a Clean Heart, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hide thy face from my sins, and blot out all mine iniquities.
 <small><sub>**BSB:**</sub></small>
 Hide Your face from my sins and blot out all my iniquities.
+<small><sub>**Hebrew:**</sub></small>
+[[H5641\|הַסְתֵּ֣ר]] [[H6440H\|פָּ֭נֶי]][[H9021\|ךָ]] [[H9006\|מֵ]][[H2399\|חֲטָאָ֑]][[H9020\|י]] [[H9002\|וְֽ]][[H3605\|כָל]][[H9014\|־]] [[H5771G\|עֲוֹ֖נֹתַ֣]][[H9020\|י]] [[H4229A\|מְחֵֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic DESIRE|DESIRE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PRAYER|PRAYER]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.51.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.8|<< Psalms 51:8]]</td><td align="center" style="border:none;">[[Ps.51|Psalms 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.51.10|Psalms 51:10 >>]]</td></tr></table>
 

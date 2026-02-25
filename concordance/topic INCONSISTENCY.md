@@ -1,7 +1,7 @@
 
 **INCONSISTENCY**
 
-→ General scriptures concerning [[Matt.7.3|Mt 7:3]]-[[Matt.7.5|5]]; [[Matt.23.3|23:3]],[[Matt.23.4|4]]; [[Rom.2.1|Ro  2:1]],[[Rom.2.21|21]]-[[Rom.2.23|23]]
+→ General scriptures concerning [[Matt.7.3|Mt 7:3-5]]; [[Matt.23.3|23:3]],[[Matt.23.4|4]]; [[Rom.2.1|Ro  2:1]],[[Rom.2.21|21-23]]
 
 → See [[topic DECEIT|DECEIT]]
 
@@ -11,7 +11,7 @@
 
 → INSTANCES OF
 
-- Jehu [[2Kgs.10.16|2Ki 10:16]]-[[2Kgs.10.31|31]]
+- Jehu [[2Kgs.10.16|2Ki 10:16-31]]
 
 - The Jews, in oppressing the poor [[Neh.5.9|Ne 5:9]]
 

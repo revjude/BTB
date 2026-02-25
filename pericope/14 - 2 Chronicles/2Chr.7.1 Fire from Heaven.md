@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Fire from Heaven
+type: Pericope
 pericope: "[[2Chr.7.1 Fire from Heaven|Fire from Heaven]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 7
 book/chapter: "[[2Chr.7|2 Chronicles 7]]"
-genre:
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 3
 verses:
 - "[[2Chr.7.1]]"
 - "[[2Chr.7.2]]"
 - "[[2Chr.7.3]]"
 ---
 
-[[2Chr.7|2 Chronicles 7:1 - 2 Chronicles 7:3]]
+<small>[[2Chr.7|2 Chronicles 7:1-3]]</small>
 *Fire from Heaven*
 
 [[2Chr.7.1|1]] Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house.

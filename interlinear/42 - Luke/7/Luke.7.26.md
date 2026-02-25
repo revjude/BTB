@@ -1,10 +1,54 @@
+---
+title: Luke 7:26
+type: Verse
+kjv: "But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet."
+bsb: "What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet."
+jesus_said: "But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet."
+greek: "ἀλλὰ τί ἐξήλθατε ἰδεῖν; προφήτην; ναὶ λέγω ὑμῖν· καὶ περισσότερον προφήτου."
+pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G0235]]"
+- "[[G5101]]"
+- "[[G1831]]"
+- "[[G1492H]]"
+- "[[G4396]]"
+- "[[G3483]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G4054]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 7:26**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet.
 <small><sub>**BSB:**</sub></small>
 What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet.
-<small><sub>**Literal:**</sub></small>
-But what have you gone out to see? A prophet? Yes I say to you; and [one] more excellent than a prophet.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.25|<< Luke 7:25]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.27|Luke 7:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G5101\|τί]]  [[G1831\|ἐξήλθατε]]  [[G1492H\|ἰδεῖν;]]  [[G4396\|προφήτην;]]  [[G3483\|ναὶ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G2532\|καὶ]]  [[G4054\|περισσότερον]]  [[G4396\|προφήτου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.25|<< Luke 7:25]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.27|Luke 7:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

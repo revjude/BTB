@@ -1,8 +1,62 @@
+---
+title: Psalm 145:13
+type: Verse
+kjv: "Thy kingdom is an everlasting kingdom, and thy dominion endureth throughout all generations."
+bsb: "Your kingdom is an everlasting kingdom, and Your dominion endures through all generations. The LORD is faithful in all His words and kind in all His actions."
+hebrew: "מַֽלְכוּתְךָ֗ מַלְכ֥וּת כָּל־ עֹֽלָמִ֑ים וּ֝מֶֽמְשֶׁלְתְּךָ֗ בְּכָל־ דּ֥וֹר וָדֽוֹר׃ נֶאֱמָן יְהוָה בְּכָל־ דְּבָרָיו וְחָסִיד בְּכָל־ מַעֲשָׂיו׃"
+pericope: "[[Ps.145.1 I Will Exalt You, My God and King|I Will Exalt You, My God and King]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 145
+book/chapter: "[[Ps.145|Psalm 145]]"
+chronological_order: 391
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H4438]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H4475]]"
+- "[[H9003]]"
+- "[[H1755]]"
+- "[[H9016]]"
+- "[[H0539]]"
+- "[[H3068G]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H2623]]"
+- "[[H4639K]]"
+texts:
+- L
+- X
+---
+
 **Psalms 145:13**<big><big>[[Ps.145.1 I Will Exalt You, My God and King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy kingdom [is] an everlasting kingdom, and thy dominion [endureth] throughout all generations.
 <small><sub>**BSB:**</sub></small>
 Your kingdom is an everlasting kingdom, and Your dominion endures through all generations. The LORD is faithful in all His words and kind in all His actions.
+<small><sub>**Hebrew:**</sub></small>
+[[H4438\|מַֽלְכוּתְ]][[H9021\|ךָ֗]] [[H4438\|מַלְכ֥וּת]] [[H3605\|כָּל]][[H9014\|־]] [[H5769G\|עֹֽלָמִ֑ים]] [[H9002\|וּ֝]][[H4475\|מֶֽמְשֶׁלְתְּ]][[H9021\|ךָ֗]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1755\|דּ֥וֹר]] [[H9002\|וָ]][[H1755\|דֽוֹר]][[H9016\|׃]] [[H0539\|נֶאֱמָן]] [[H3068G\|יְהוָה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1697G\|דְּבָרָי]][[H9023\|ו]] [[H9002\|וְ]][[H2623\|חָסִיד]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4639K\|מַעֲשָׂי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.145.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.145.12|<< Psalms 145:12]]</td><td align="center" style="border:none;">[[Ps.145|Psalms 145]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.145.14|Psalms 145:14 >>]]</td></tr></table>
 

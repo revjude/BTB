@@ -1,6 +1,72 @@
+---
+title: LXX Ezekiel 36:11
+type: Verse
+lxx: "And I will multiply upon you men and cattle; and they shall be multiplied, and they shall be increased. And I will settle you as the time in your beginning. And I will do you good as the things prior of you. And you shall know that I am the lord."
+greek: "και πληθυνώ εφ΄ υμάς ανθρώπους και κτήνη και πληθυνθήσονται και αυξηθήσονται και κατοικιώ υμάς ως το εν αρχή υμών και ευ ποιήσω υμάς ώσπερ τα έμπροσθεν υμών και γνώσεσθε ότι εγώ ειμι κύριος"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[G2532]]"
+- "[[G4129]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G2934]]"
+- "[[G2532]]"
+- "[[G4129]]"
+- "[[G2532]]"
+- "[[G0837]]"
+- "[[G2532]]"
+- "[[G6052]]"
+- "[[G1473]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G0746]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2095]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G5618]]"
+- "[[G3588]]"
+- "[[G1715]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1097]]"
+- "[[G3754]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G2962]]"
+---
+
 **LXX Ezekiel 36:11** 
 <small><sub>**LXX:**</sub></small>
 And I will multiply upon you men and cattle; and they shall be multiplied, and they shall be increased. And I will settle you as the \[time\] in your beginning. And I will do you good as the \[things\] prior of you. And you shall know that I am \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4129\|πληθυνώ]] [[G1909\|εφ΄]] [[G1473\|υμάς]] [[G0444\|ανθρώπους]] [[G2532\|και]] [[G2934\|κτήνη]] [[G2532\|και]] [[G4129\|πληθυνθήσονται]] [[G2532\|και]] [[G0837\|αυξηθήσονται]] [[G2532\|και]] [[G6052\|κατοικιώ]] [[G1473\|υμάς]] [[G5613\|ως]] [[G3588\|το]] [[G1722\|εν]] [[G0746\|αρχή]] [[G1473\|υμών]] [[G2532\|και]] [[G2095\|ευ]] [[G4160\|ποιήσω]] [[G1473\|υμάς]] [[G5618\|ώσπερ]] [[G3588\|τα]] [[G1715\|έμπροσθεν]] [[G1473\|υμών]] [[G2532\|και]] [[G1097\|γνώσεσθε]] [[G3754\|ότι]] [[G1473\|εγώ]] [[G1510\|ειμι]] [[G2962\|κύριος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.36.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.10|<< Ezekiel 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.12|Ezekiel 36:12 >>]]</td></tr></table>
 
@@ -38,6 +104,6 @@ And I will multiply upon you men and cattle; and they shall be multiplied, and t
 | I | **<big>[[G1473\|εγώ]]</big>** |
 | am | **<big>[[G1510\|ειμι]]</big>** |
 | \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κύριος]]</big>** |
-[[Ezek.36.11|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.10|<< Ezekiel 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.12|Ezekiel 36:12 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.36.10|<< Ezekiel 36:10]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.36.12|Ezekiel 36:12 >>]]</td></tr></table>
 
 

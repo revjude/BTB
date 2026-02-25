@@ -1,8 +1,56 @@
+---
+title: Micah 6:11
+type: Verse
+kjv: "Shall I count them pure with the wicked balances, and with the bag of deceitful weights?"
+bsb: "Can I excuse dishonest scales or bags of false weights?"
+hebrew: "הַאֶזְכֶּ֖ה בְּמֹ֣אזְנֵי רֶ֑שַׁע וּבְכִ֖יס אַבְנֵ֥י מִרְמָֽה׃"
+pericope: "[[Mic.6.9 The Punishment of Israel|The Punishment of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 6
+book/chapter: "[[Mic.6|Micah 6]]"
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BALANCES|BALANCES]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic WEIGHTS|WEIGHTS]]"
+strongs:
+- "[[H9008]]"
+- "[[H2135]]"
+- "[[H9003]]"
+- "[[H3976]]"
+- "[[H7562]]"
+- "[[H9002]]"
+- "[[H3599]]"
+- "[[H0068H]]"
+- "[[H4820]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 6:11**<big><big>[[Mic.6.9 The Punishment of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I count [them] pure with the wicked balances, and with the bag of deceitful weights?
 <small><sub>**BSB:**</sub></small>
 Can I excuse dishonest scales or bags of false weights?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H2135\|אֶזְכֶּ֖ה]] [[H9003\|בְּ]][[H3976\|מֹ֣אזְנֵי]] [[H7562\|רֶ֑שַׁע]] [[H9002\|וּ]][[H9003\|בְ]][[H3599\|כִ֖יס]] [[H0068H\|אַבְנֵ֥י]] [[H4820\|מִרְמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALANCES|BALANCES]] • [[topic CHARACTER|CHARACTER]] • [[topic DISHONESTY|DISHONESTY]] • [[topic MEASURE|MEASURE]] • [[topic PURITY|PURITY]] • [[topic WEIGHTS|WEIGHTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.10|<< Micah 6:10]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.12|Micah 6:12 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 6:22
+type: Verse
+kjv: "And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour."
+bsb: "and I will humiliate and humble myself even more than this. Yet I will be honored by the maidservants of whom you have spoken.”"
+hebrew: "וּנְקַלֹּ֤תִי עוֹד֙ מִזֹּ֔את וְהָיִ֥יתִי שָׁפָ֖ל בְּעֵינָ֑י וְעִם־ הָֽאֲמָהוֹת֙ אֲשֶׁ֣ר אָמַ֔רְתְּ עִמָּ֖ם אִכָּבֵֽדָה׃"
+pericope: "[[2Sam.6.16 Michal’s Contempt for David|Michal’s Contempt for David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7043]]"
+- "[[H5750]]"
+- "[[H9006]]"
+- "[[H2063]]"
+- "[[H1961]]"
+- "[[H8217]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0519]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H3513G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:22**<big><big>[[2Sam.6.16 Michal’s Contempt for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour.
 <small><sub>**BSB:**</sub></small>
 and I will humiliate and humble myself even more than this. Yet I will be honored by the maidservants of whom you have spoken.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H7043\|נְקַלֹּ֤תִי]] [[H5750\|עוֹד֙]] [[H9006\|מִ]][[H2063\|זֹּ֔את]] [[H9001\|וְ]][[H1961\|הָיִ֥יתִי]] [[H8217\|שָׁפָ֖ל]] [[H9003\|בְּ]][[H5869A\|עֵינָ֑]][[H9020\|י]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H9009\|הָֽ]][[H0519\|אֲמָהוֹת֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָמַ֔רְתְּ]] [[H5973A\|עִמָּ֖]][[H9038\|ם]] [[H3513G\|אִכָּבֵֽדָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FAMILY|FAMILY]] • [[topic MALICE|MALICE]] • [[topic MICHAL|MICHAL]] • [[topic RETALIATION|RETALIATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.21|<< 2 Samuel 6:21]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.23|2 Samuel 6:23 >>]]</td></tr></table>
 

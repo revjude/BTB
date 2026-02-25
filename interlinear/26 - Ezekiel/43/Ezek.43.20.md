@@ -1,8 +1,66 @@
+---
+title: Ezekiel 43:20
+type: Verse
+kjv: "And thou shalt take of the blood thereof, and put it on the four horns of it, and on the four corners of the settle, and upon the border round about: thus shalt thou cleanse and purge it."
+bsb: "You are to take some of its blood and put it on the four horns of the altar, on the four corners of the ledge, and all around the rim; thus you will cleanse the altar and make atonement for it."
+hebrew: "וְלָקַחְתָּ֣ מִדָּמ֗וֹ וְנָ֨תַתָּ֜ה עַל־ אַרְבַּ֤ע קַרְנֹתָיו֙ וְאֶל־ אַרְבַּע֙ פִּנּ֣וֹת הָעֲזָרָ֔ה וְאֶֽל־ הַגְּב֖וּל סָבִ֑יב וְחִטֵּאתָ֥ אוֹת֖וֹ וְכִפַּרְתָּֽהוּ׃"
+pericope: "[[Ezek.43.13 The Altar of Sacrifice|The Altar of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BLOOD|BLOOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0702]]"
+- "[[H7161A]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H6438H]]"
+- "[[H9009]]"
+- "[[H5835]]"
+- "[[H1366G]]"
+- "[[H5439G]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3722A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:20**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take of the blood thereof, and put [it] on the four horns of it, and on the four corners of the settle, and upon the border round about: thus shalt thou cleanse and purge it.
 <small><sub>**BSB:**</sub></small>
 You are to take some of its blood and put it on the four horns of the altar, on the four corners of the ledge, and all around the rim; thus you will cleanse the altar and make atonement for it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֣]] [[H9006\|מִ]][[H1818\|דָּמ֗]][[H9023\|וֹ]] [[H9001\|וְ]][[H5414H\|נָ֨תַתָּ֜ה]] [[H5921A\|עַל]][[H9014\|־]] [[H0702\|אַרְבַּ֤ע]] [[H7161A\|קַרְנֹתָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0702\|אַרְבַּע֙]] [[H6438H\|פִּנּ֣וֹת]] [[H9009\|הָ]][[H5835\|עֲזָרָ֔ה]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הַ]][[H1366G\|גְּב֖וּל]] [[H5439G\|סָבִ֑יב]] [[H9001\|וְ]][[H2398\|חִטֵּאתָ֥]] [[H0853\|אוֹת֖]][[H9033\|וֹ]] [[H9001\|וְ]][[H3722A\|כִפַּרְתָּֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BLOOD|BLOOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.19|<< Ezekiel 43:19]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.21|Ezekiel 43:21 >>]]</td></tr></table>
 

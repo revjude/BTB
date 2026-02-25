@@ -1,10 +1,67 @@
+---
+title: Acts 15:25
+type: Verse
+kjv: "It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,"
+bsb: "So we all agreed to choose men to send to you along with our beloved Barnabas and Paul,"
+greek: "ἔδοξεν ἡμῖν γενομένοις ὁμοθυμαδὸν ἐκλεξαμένοις ἄνδρας πέμψαι πρὸς ὑμᾶς σὺν τοῖς ἀγαπητοῖς ἡμῶν Βαρναβᾷ καὶ Παύλῳ,"
+pericope: "[[Acts.15.22 The Letter to the Gentile Believers|The Letter to the Gentile Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic EPISTLES|EPISTLES]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1380]]"
+- "[[G3165]]"
+- "[[G1096]]"
+- "[[G3661]]"
+- "[[G1586]]"
+- "[[G0435G]]"
+- "[[G3992]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G4862]]"
+- "[[G3588]]"
+- "[[G0027]]"
+- "[[G0921G]]"
+- "[[G2532]]"
+- "[[G3972G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 15:25**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,
 <small><sub>**BSB:**</sub></small>
 So we all agreed to choose men to send to you along with our beloved Barnabas and Paul,
-<small><sub>**Literal:**</sub></small>
-it seemed good to us having come with one accord having chosen men to send to you with the beloved of us Barnabas and Paul,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.24|<< Acts 15:24]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.26|Acts 15:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1380\|ἔδοξεν]]  [[G3165\|ἡμῖν]]  [[G1096\|γενομένοις]]  [[G3661\|ὁμοθυμαδὸν]]  [[G1586\|ἐκλεξαμένοις]]  [[G0435G\|ἄνδρας]]  [[G3992\|πέμψαι]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G0027\|ἀγαπητοῖς]]  [[G3165\|ἡμῶν]]  [[G0921G\|Βαρναβᾷ]]  [[G2532\|καὶ]]  [[G3972G\|Παύλῳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic EPISTLES|EPISTLES]] • [[topic GENTILES|GENTILES]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic LAW|LAW]] • [[topic PAUL|PAUL]] • [[topic SILAS|SILAS]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.24|<< Acts 15:24]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.26|Acts 15:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

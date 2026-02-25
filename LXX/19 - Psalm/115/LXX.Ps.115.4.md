@@ -1,6 +1,49 @@
+---
+title: LXX Psalm 115:4
+type: Verse
+lxx: "The idols of the nations are silver and gold -- works of the hands of men."
+greek: "τα είδωλα των εθνών αργύριον και χρυσίον έργα χειρών ανθρώπων"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 115
+book/chapter: "[[Ps.115|Psalm 115]]"
+chronological_order: 877
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1497]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G0694]]"
+- "[[G2532]]"
+- "[[G5553]]"
+- "[[G2041]]"
+- "[[G5495]]"
+- "[[G0444]]"
+---
+
 **LXX Psalm 115:4** 
 <small><sub>**LXX:**</sub></small>
 The idols of the nations \[are\] silver and gold -- works of \[the\] hands of men. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τα]] [[G1497\|είδωλα]] [[G3588\|των]] [[G1484\|εθνών]] [[G0694\|αργύριον]] [[G2532\|και]] [[G5553\|χρυσίον]] [[G2041\|έργα]] [[G5495\|χειρών]] [[G0444\|ανθρώπων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.115.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.3|<< Psalm 115:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.5|Psalm 115:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -20,6 +63,6 @@ The idols of the nations \[are\] silver and gold -- works of \[the\] hands of me
 | works | **<big>[[G2041\|έργα]]</big>** |
 | of \[the\] hands | **<big>[[G5495\|χειρών]]</big>** |
 | of men. | **<big>[[G0444\|ανθρώπων]]</big>** |
-[[Ps.115.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.3|<< Psalm 115:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.5|Psalm 115:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.115.3|<< Psalm 115:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.115.5|Psalm 115:5 >>]]</td></tr></table>
 
 

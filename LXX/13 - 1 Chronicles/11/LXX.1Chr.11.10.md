@@ -1,6 +1,65 @@
+---
+title: LXX 1 Chronicles 11:10
+type: Verse
+lxx: "And these are the rulers of the mighty ones, the ones who were with David, the ones growing strong with him in  his kingdom with all Israel,  to give him reign, according to the word of the lord over Israel."
+greek: "και ούτοι οι άρχοντες των δυνατών οι ήσαν τω Δαυίδ οι κατισχύοντες μετ΄ αυτού εν τη βασιλεία αυτού μετά παντός Ισραήλ του βασιλεύσαι αυτόν κατά τον λόγον κυρίου επί Ισραήλ"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G3588]]"
+- "[[G1415]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G4622]]"
+- "[[G3588]]"
+- "[[G2729]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G1473]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G2474]]"
+- "[[G3588]]"
+- "[[G0936]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2962]]"
+- "[[G1909]]"
+- "[[G2474]]"
+---
+
 **LXX 1 Chronicles 11:10** 
 <small><sub>**LXX:**</sub></small>
 And these \[are\] the rulers of the mighty \[ones\], the ones \[who\] were \[with\] David, the ones growing strong with him in  his kingdom with all Israel,  to give him reign, according to the word of \[the\] <span class="smallcaps">lord</span> over Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3778\|ούτοι]] [[G3588\|οι]] [[G0758\|άρχοντες]] [[G3588\|των]] [[G1415\|δυνατών]] [[G3739\|οι]] [[G1510\|ήσαν]] [[G3588\|τω]] [[G4622\|Δαυίδ]] [[G3588\|οι]] [[G2729\|κατισχύοντες]] [[G3326\|μετ΄]] [[G1473\|αυτού]] [[G1722\|εν]] [[G3588\|τη]] [[G0932\|βασιλεία]] [[G1473\|αυτού]] [[G3326\|μετά]] [[G3956\|παντός]] [[G2474\|Ισραήλ]] [[G3588\|του]] [[G0936\|βασιλεύσαι]] [[G1473\|αυτόν]] [[G2596\|κατά]] [[G3588\|τον]] [[G3056\|λόγον]] [[G2962\|κυρίου]] [[G1909\|επί]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.9|<< 1 Chronicles 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.11|1 Chronicles 11:11 >>]]</td></tr></table>
 
@@ -34,6 +93,6 @@ And these \[are\] the rulers of the mighty \[ones\], the ones \[who\] were \[wit
 | of \[the\] <span class="smallcaps">lord</span> | **<big>[[G2962\|κυρίου]]</big>** |
 | over | **<big>[[G1909\|επί]]</big>** |
 | Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[1Chr.11.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.9|<< 1 Chronicles 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.11|1 Chronicles 11:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.11.9|<< 1 Chronicles 11:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.11.11|1 Chronicles 11:11 >>]]</td></tr></table>
 
 

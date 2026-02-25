@@ -1,8 +1,65 @@
+---
+title: Joshua 14:11
+type: Verse
+kjv: "As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in."
+bsb: "still as strong today as I was the day Moses sent me out. As my strength was then, so it is now for war, for going out, and for coming in."
+hebrew: "עוֹדֶ֨נִּי הַיּ֜וֹם חָזָ֗ק כַּֽאֲשֶׁר֙ בְּי֨וֹם שְׁלֹ֤חַ אוֹתִי֙ מֹשֶׁ֔ה כְּכֹ֥חִי אָ֖ז וּכְכֹ֣חִי עָ֑תָּה לַמִּלְחָמָ֖ה וְלָצֵ֥את וְלָבֽוֹא׃"
+pericope: "[[Josh.14.6 Caleb Requests Hebron|Caleb Requests Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic INFIRMITY|INFIRMITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H5750]]"
+- "[[H9040]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2389]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9003]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H4872]]"
+- "[[H3581B]]"
+- "[[H9020]]"
+- "[[H0227A]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H3318G]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 14:11**<big><big>[[Josh.14.6 Caleb Requests Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As yet I [am as] strong this day as [I was] in the day that Moses sent me: as my strength [was] then, even so [is] my strength now, for war, both to go out, and to come in.
 <small><sub>**BSB:**</sub></small>
 still as strong today as I was the day Moses sent me out. As my strength was then, so it is now for war, for going out, and for coming in.
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|עוֹדֶ֨]][[H9040\|נִּי]] [[H9009\|הַ]][[H3117G\|יּ֜וֹם]] [[H2389\|חָזָ֗ק]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר֙]] [[H9003\|בְּ]][[H3117G\|י֨וֹם]] [[H7971G\|שְׁלֹ֤חַ]] [[H0853\|אוֹתִ]][[H9030\|י֙]] [[H4872\|מֹשֶׁ֔ה]] [[H9004\|כְּ]][[H3581B\|כֹ֥חִ]][[H9020\|י]] [[H0227A\|אָ֖ז]] [[H9002\|וּ]][[H9004\|כְ]][[H3581B\|כֹ֣חִ]][[H9020\|י]] [[H6258\|עָ֑תָּה]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H9002\|וְ]][[H9005\|לָ]][[H3318G\|צֵ֥את]] [[H9002\|וְ]][[H9005\|לָ]][[H0935G\|בֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic HEBRON|HEBRON]] • [[topic INFIRMITY|INFIRMITY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.10|<< Joshua 14:10]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.12|Joshua 14:12 >>]]</td></tr></table>
 

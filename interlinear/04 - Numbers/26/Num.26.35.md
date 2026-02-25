@@ -1,8 +1,64 @@
+---
+title: Numbers 26:35
+type: Verse
+kjv: "These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites."
+bsb: "These were the descendants of Ephraim by their clans: The Shuthelahite clan from Shuthelah, the Becherite clan from Becher, and the Tahanite clan from Tahan."
+hebrew: "אֵ֣לֶּה בְנֵי־ אֶפְרַיִם֮ לְמִשְׁפְּחֹתָם֒ לְשׁוּתֶ֗לַח מִשְׁפַּ֙חַת֙ הַשֻּׁ֣תַלְחִ֔י לְבֶ֕כֶר מִשְׁפַּ֖חַת הַבַּכְרִ֑י לְתַ֕חַן מִשְׁפַּ֖חַת הַֽתַּחֲנִֽי׃"
+pericope: "[[Num.26.35 The Tribe of Ephraim|The Tribe of Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BECHER|BECHER]]"
+- "[[topic BERED|BERED]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SHUTHELAH|SHUTHELAH]]"
+- "[[topic TAHAN|TAHAN]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0669G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H7803G]]"
+- "[[H9009]]"
+- "[[H8364]]"
+- "[[H1071H]]"
+- "[[H1076]]"
+- "[[H8465G]]"
+- "[[H8470]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:35**<big><big>[[Num.26.35 The Tribe of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites.
 <small><sub>**BSB:**</sub></small>
 These were the descendants of Ephraim by their clans: The Shuthelahite clan from Shuthelah, the Becherite clan from Becher, and the Tahanite clan from Tahan.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H0669G\|אֶפְרַיִם֮]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ]][[H9028\|ם֒]] [[H9005\|לְ]][[H7803G\|שׁוּתֶ֗לַח]] [[H4940\|מִשְׁפַּ֙חַת֙]] [[H9009\|הַ]][[H8364\|שֻּׁ֣תַלְחִ֔י]] [[H9005\|לְ]][[H1071H\|בֶ֕כֶר]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַ]][[H1076\|בַּכְרִ֑י]] [[H9005\|לְ]][[H8465G\|תַ֕חַן]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַֽ]][[H8470\|תַּחֲנִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BECHER|BECHER]] • [[topic BERED|BERED]] • [[topic EPHRAIM|EPHRAIM]] • [[topic JOSEPH|JOSEPH]] • [[topic SHUTHELAH|SHUTHELAH]] • [[topic TAHAN|TAHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.34|<< Numbers 26:34]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.36|Numbers 26:36 >>]]</td></tr></table>
 

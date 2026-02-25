@@ -1,8 +1,70 @@
+---
+title: Genesis 27:39
+type: Verse
+kjv: "And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;"
+bsb: "His father Isaac answered him: “Behold, your dwelling place shall be away from the richness of the land, away from the dew of heaven above."
+hebrew: "וַיַּ֛עַן יִצְחָ֥ק אָבִ֖יו וַיֹּ֣אמֶר אֵלָ֑יו הִנֵּ֞ה מִשְׁמַנֵּ֤י הָאָ֙רֶץ֙ יִהְיֶ֣ה מֽוֹשָׁבֶ֔ךָ וּמִטַּ֥ל הַשָּׁמַ֖יִם מֵעָֽל׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H3327]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H9006]]"
+- "[[H4924A]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H1961]]"
+- "[[H4186]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2919]]"
+- "[[H8064]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:39**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac his father answered and said unto him, Behold, thy dwelling shall be the fatness of the earth, and of the dew of heaven from above;
 <small><sub>**BSB:**</sub></small>
 His father Isaac answered him: “Behold, your dwelling place shall be away from the richness of the land, away from the dew of heaven above.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֛עַן]] [[H3327\|יִצְחָ֥ק]] [[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H2009\|הִנֵּ֞ה]] [[H9006\|מִ]][[H4924A\|שְׁמַנֵּ֤י]] [[H9009\|הָ]][[H0776H\|אָ֙רֶץ֙]] [[H1961\|יִהְיֶ֣ה]] [[H4186\|מֽוֹשָׁבֶ֔]][[H9021\|ךָ]] [[H9002\|וּ]][[H9006\|מִ]][[H2919\|טַּ֥ל]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9006\|מֵ]][[H5921A\|עָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic DEATH|DEATH]] • [[topic EDOMITES|EDOMITES]] • [[topic FAMILY|FAMILY]] • [[topic ISAAC|ISAAC]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.38|<< Genesis 27:38]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.40|Genesis 27:40 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gideon’s Army of Three Hundred
+type: Pericope
 pericope: "[[Judg.7.1 Gideon’s Army of Three Hundred|Gideon’s Army of Three Hundred]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 7
 book/chapter: "[[Judg.7|Judges 7]]"
-genre:
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 8
 verses:
 - "[[Judg.7.1]]"
 - "[[Judg.7.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Judg.7.8]]"
 ---
 
-[[Judg.7|Judges 7:1 - Judges 7:8]]
+<small>[[Judg.7|Judges 7:1-8]]</small>
 *Gideon’s Army of Three Hundred*
 
 [[Judg.7.1|1]] Then Jerubbaal, who \[is\] Gideon, and all the people that \[were\] with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley.

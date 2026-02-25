@@ -1,8 +1,55 @@
+---
+title: Genesis 49:19
+type: Verse
+kjv: "Gad, a troop shall overcome him: but he shall overcome at the last."
+bsb: "Gad will be attacked by raiders, but he will attack their heels."
+hebrew: "גָּ֖ד גְּד֣וּד יְגוּדֶ֑נּוּ וְה֖וּא יָגֻ֥ד עָקֵֽב׃ ס"
+pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GAD|GAD]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H1410G]]"
+- "[[H1416]]"
+- "[[H1464]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6119]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Genesis 49:19**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Gad, a troop shall overcome him: but he shall overcome at the last.
 <small><sub>**BSB:**</sub></small>
 Gad will be attacked by raiders, but he will attack their heels.
+<small><sub>**Hebrew:**</sub></small>
+[[H1410G\|גָּ֖ד]] [[H1416\|גְּד֣וּד]] [[H1464\|יְגוּדֶ֑]][[H9033\|נּוּ]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H1464\|יָגֻ֥ד]] [[H6119\|עָקֵֽב]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GAD|GAD]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.18|<< Genesis 49:18]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.20|Genesis 49:20 >>]]</td></tr></table>
 
@@ -13,7 +60,7 @@ Gad will be attacked by raiders, but he will attack their heels.
 | it will attack him  |**<big>&#8207;[[H1464\|יְגוּדֶ֑]]&#8207;&#8207;[[H9033\|נּוּ]]&#8207; </big>**| ye.gu.De.<small><sup>[[HVqi3ms]]</sup></small> nu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֖וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he will attack  |**<big>&#8207;[[H1464\|יָגֻ֥ד]]&#8207; </big>**| ya.Gud<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| a heel  |**<big>&#8207;[[H6119\|עָקֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Kev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| a heel  |**<big>&#8207;[[H6119\|עָקֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.Kev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.18|<< Genesis 49:18]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.20|Genesis 49:20 >>]]</td></tr></table>
 
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning about the Palace
+type: Pericope
 pericope: "[[Jer.22.6 A Warning about the Palace|A Warning about the Palace]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 22
 book/chapter: "[[Jer.22|Jeremiah 22]]"
-genre:
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 4
 verses:
 - "[[Jer.22.6]]"
 - "[[Jer.22.7]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Jer.22.9]]"
 ---
 
-[[Jer.22|Jeremiah 22:6 - Jeremiah 22:9]]
+<small>[[Jer.22|Jeremiah 22:6-9]]</small>
 *A Warning about the Palace*
 
 [[Jer.22.6|6]] For thus saith the LORD unto the king’s house of Judah; Thou \[art\] Gilead unto me, \[and\] the head of Lebanon: \[yet\] surely I will make thee a wilderness, \[and\] cities \[which\] are not inhabited.

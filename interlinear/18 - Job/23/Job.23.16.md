@@ -1,8 +1,52 @@
+---
+title: Job 23:16
+type: Verse
+kjv: "For God maketh my heart soft, and the Almighty troubleth me:"
+bsb: "God has made my heart faint; the Almighty has terrified me."
+hebrew: "וְ֭אֵל הֵרַ֣ךְ לִבִּ֑י וְ֝שַׁדַּ֗י הִבְהִילָֽנִי׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H9002]]"
+- "[[H0410G]]"
+- "[[H7401]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H7706]]"
+- "[[H0926]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:16**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For God maketh my heart soft, and the Almighty troubleth me:
 <small><sub>**BSB:**</sub></small>
 God has made my heart faint; the Almighty has terrified me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H0410G\|אֵל]] [[H7401\|הֵרַ֣ךְ]] [[H3820A\|לִבִּ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H7706\|שַׁדַּ֗י]] [[H0926\|הִבְהִילָֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.15|<< Job 23:15]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.17|Job 23:17 >>]]</td></tr></table>
 

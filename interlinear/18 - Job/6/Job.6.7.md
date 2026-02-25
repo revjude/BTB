@@ -1,8 +1,51 @@
+---
+title: Job 6:7
+type: Verse
+kjv: "The things that my soul refused to touch are as my sorrowful meat."
+bsb: "My soul refuses to touch them; they are loathsome food to me."
+hebrew: "מֵאֲנָ֣ה לִנְגּ֣וֹעַ נַפְשִׁ֑י הֵ֝֗מָּה כִּדְוֵ֥י לַחְמִֽי׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H5060]]"
+- "[[H5315L]]"
+- "[[H9020]]"
+- "[[H1992]]"
+- "[[H9004]]"
+- "[[H1741]]"
+- "[[H3899G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:7**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The things [that] my soul refused to touch [are] as my sorrowful meat.
 <small><sub>**BSB:**</sub></small>
 My soul refuses to touch them; they are loathsome food to me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3985\|מֵאֲנָ֣ה]] [[H9005\|לִ]][[H5060\|נְגּ֣וֹעַ]] [[H5315L\|נַפְשִׁ֑]][[H9020\|י]] [[H1992\|הֵ֝֗מָּה]] [[H9004\|כִּ]][[H1741\|דְוֵ֥י]] [[H3899G\|לַחְמִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.6|<< Job 6:6]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.8|Job 6:8 >>]]</td></tr></table>
 

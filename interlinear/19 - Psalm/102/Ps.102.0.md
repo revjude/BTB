@@ -1,6 +1,49 @@
+---
+title: Psalm 102:0
+type: Verse
+kjv: "A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD."
+hebrew: "תְּ֭פִלָּה לְעָנִ֣י כִֽי־ יַעֲטֹ֑ף וְלִפְנֵ֥י יְ֝הוָ֗ה יִשְׁפֹּ֥ךְ שִׂיחֽוֹ׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H8605]]"
+- "[[H9005]]"
+- "[[H6041]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5848C]]"
+- "[[H9002]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H8210G]]"
+- "[[H7879]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:0**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A Prayer of the afflicted, when he is overwhelmed, and poureth out his complaint before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H8605\|תְּ֭פִלָּה]] [[H9005\|לְ]][[H6041\|עָנִ֣י]] [[H3588A\|כִֽי]][[H9014\|־]] [[H5848C\|יַעֲטֹ֑ף]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְ֝הוָ֗ה]] [[H8210G\|יִשְׁפֹּ֥ךְ]] [[H7879\|שִׂיחֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.8|<< Psalms 101:8]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.1|Psalms 102:1 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Joshua 10:34
+type: Verse
+kjv: "And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:"
+bsb: "So Joshua moved on from Lachish to Eglon, and all Israel with him. They laid siege to it and fought against it."
+hebrew: "וַיַּעֲבֹ֣ר יְ֠הוֹשֻׁעַ וְכָל־ יִשְׂרָאֵ֥ל עִמּ֛וֹ מִלָּכִ֖ישׁ עֶגְלֹ֑נָה וַיַּחֲנ֣וּ עָלֶ֔יהָ וַיִּֽלָּחֲמ֖וּ עָלֶֽיהָ׃"
+pericope: "[[Josh.10.29 Conquest of the Southern Cities|Conquest of the Southern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3923]]"
+- "[[H5700G]]"
+- "[[H9011]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3898A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:34**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:
 <small><sub>**BSB:**</sub></small>
 So Joshua moved on from Lachish to Eglon, and all Israel with him. They laid siege to it and fought against it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֹ֣ר]] [[H3091G\|יְ֠הוֹשֻׁעַ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H5973A\|עִמּ֛]][[H9033\|וֹ]] [[H9006\|מִ]][[H3923\|לָּכִ֖ישׁ]] [[H5700G\|עֶגְלֹ֑נָ]][[H9011\|ה]] [[H9001\|וַ]][[H2583\|יַּחֲנ֣וּ]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H9001\|וַ]][[H3898A\|יִּֽלָּחֲמ֖וּ]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic HEBRON|HEBRON]] • [[topic JOSHUA|JOSHUA]] • [[topic MASSACRE|MASSACRE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.33|<< Joshua 10:33]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.35|Joshua 10:35 >>]]</td></tr></table>
 

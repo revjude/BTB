@@ -1,6 +1,47 @@
+---
+title: LXX Psalm 18:37
+type: Verse
+lxx: "I shall pursue  my enemies and overtake them; and I will not return until whenever they should cease."
+greek: "καταδιώξω τους εχθρούς μου και καταλήψομαι αυτούς και ουκ αποστραφήσομαι έως αν εκλείπωσιν"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[G2614]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2638]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0654]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G1587]]"
+---
+
 **LXX Psalm 18:37** 
 <small><sub>**LXX:**</sub></small>
 I shall pursue  my enemies and overtake them; and I will not return until whenever they should cease. 
+<small><sub>**Greek:**</sub></small>
+[[G2614\|καταδιώξω]] [[G3588\|τους]] [[G2190\|εχθρούς]] [[G1473\|μου]] [[G2532\|και]] [[G2638\|καταλήψομαι]] [[G1473\|αυτούς]] [[G2532\|και]] [[G3756\|ουκ]] [[G0654\|αποστραφήσομαι]] [[G2193\|έως]] [[G0302\|αν]] [[G1587\|εκλείπωσιν]]
 <small><sub>**MT:**</sub></small>
 [[Ps.18.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.36|<< Psalm 18:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.38|Psalm 18:38 >>]]</td></tr></table>
 
@@ -18,6 +59,6 @@ I shall pursue  my enemies and overtake them; and I will not return until whenev
 | until | **<big>[[G2193\|έως]]</big>** |
 | whenever | **<big>[[G0302\|αν]]</big>** |
 | they should cease. | **<big>[[G1587\|εκλείπωσιν]]</big>** |
-[[Ps.18.37|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.36|<< Psalm 18:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.38|Psalm 18:38 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.18.36|<< Psalm 18:36]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.18.38|Psalm 18:38 >>]]</td></tr></table>
 
 

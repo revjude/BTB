@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 25:22
+type: Verse
+kjv: "So and more also do God unto the enemies of David, if I leave of all that pertain to him by the morning light any that pisseth against the wall."
+bsb: "May God punish David, and ever so severely, if I let one male belonging to Nabal survive until morning.”"
+hebrew: "כֹּה־ יַעֲשֶׂ֧ה אֱלֹהִ֛ים לְאֹיְבֵ֥י דָוִ֖ד וְכֹ֣ה יֹסִ֑יף אִם־ אַשְׁאִ֧יר מִכָּל־ אֲשֶׁר־ ל֛וֹ עַד־ הַבֹּ֖קֶר מַשְׁתִּ֥ין בְּקִֽיר׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FIG|FIG]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H0341]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H3254H]]"
+- "[[H0518H]]"
+- "[[H7604]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H1242]]"
+- "[[H8366]]"
+- "[[H9003]]"
+- "[[H7023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:22**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So and more also do God unto the enemies of David, if I leave of all that [pertain] to him by the morning light any that pisseth against the wall.
 <small><sub>**BSB:**</sub></small>
 May God punish David, and ever so severely, if I let one male belonging to Nabal survive until morning.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֧ה]] [[H0430G\|אֱלֹהִ֛ים]] [[H9005\|לְ]][[H0341\|אֹיְבֵ֥י]] [[H1732\|דָוִ֖ד]] [[H9002\|וְ]][[H3541\|כֹ֣ה]] [[H3254H\|יֹסִ֑יף]] [[H0518H\|אִם]][[H9014\|־]] [[H7604\|אַשְׁאִ֧יר]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1242\|בֹּ֖קֶר]] [[H8366\|מַשְׁתִּ֥ין]] [[H9003\|בְּ]][[H7023\|קִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FIG|FIG]] • [[topic NABAL|NABAL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.21|<< 1 Samuel 25:21]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.23|1 Samuel 25:23 >>]]</td></tr></table>
 

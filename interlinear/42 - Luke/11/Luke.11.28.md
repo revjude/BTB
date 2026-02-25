@@ -1,10 +1,58 @@
+---
+title: Luke 11:28
+type: Verse
+kjv: "But he said, Yea rather, blessed are they that hear the word of God, and keep it."
+bsb: "But He replied, “Blessed rather are those who hear the word of God and obey it.”"
+jesus_said: "Yea rather, blessed are they that hear the word of God, and keep it."
+greek: "αὐτὸς δὲ εἶπεν· μενοῦν μακάριοι οἱ ἀκούοντες τὸν λόγον τοῦ θεοῦ καὶ φυλάσσοντες αὐτόν.¶"
+pericope: "[[Luke.11.27 True Blessedness|True Blessedness]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DOER|DOER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G3304]]"
+- "[[G3107]]"
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G5442G]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 11:28**<big><big>[[Luke.11.27 True Blessedness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he said, Yea rather, blessed [are] they that hear the word of God, and keep it.
 <small><sub>**BSB:**</sub></small>
 But He replied, “Blessed rather are those who hear the word of God and obey it.”
-<small><sub>**Literal:**</sub></small>
-He himself then said; No rather blessed [are] those hearing the word <the> of God and keeping it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.27|<< Luke 11:27]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.29|Luke 11:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτὸς]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G3304\|μενοῦν]]  [[G3107\|μακάριοι]]  [[G3588\|οἱ]]  [[G0191\|ἀκούοντες]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G5442G\|φυλάσσοντες]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOER|DOER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PHARISEES|PHARISEES]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.27|<< Luke 11:27]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.29|Luke 11:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

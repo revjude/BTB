@@ -1,8 +1,71 @@
+---
+title: Numbers 31:49
+type: Verse
+kjv: "And they said unto Moses, Thy servants have taken the sum of the men of war which are under our charge, and there lacketh not one man of us."
+bsb: "and said, “Your servants have counted the soldiers under our command, and not one of us is missing."
+hebrew: "וַיֹּֽאמְרוּ֙ אֶל־ מֹשֶׁ֔ה עֲבָדֶ֣יךָ נָֽשְׂא֗וּ אֶת־ רֹ֛אשׁ אַנְשֵׁ֥י הַמִּלְחָמָ֖ה אֲשֶׁ֣ר בְּיָדֵ֑נוּ וְלֹא־ נִפְקַ֥ד מִמֶּ֖נּוּ אִֽישׁ׃"
+pericope: "[[Num.31.48 The Voluntary Offering|The Voluntary Offering]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SPOILS|SPOILS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H5375V]]"
+- "[[H0853]]"
+- "[[H7218H]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6485K]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H0376I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:49**<big><big>[[Num.31.48 The Voluntary Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto Moses, Thy servants have taken the sum of the men of war which [are] under our charge, and there lacketh not one man of us.
 <small><sub>**BSB:**</sub></small>
 and said, “Your servants have counted the soldiers under our command, and not one of us is missing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H5650\|עֲבָדֶ֣י]][[H9021\|ךָ]] [[H5375V\|נָֽשְׂא֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7218H\|רֹ֛אשׁ]] [[H0582\|אַנְשֵׁ֥י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֖ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H3027H\|יָדֵ֑]][[H9025\|נוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6485K\|נִפְקַ֥ד]] [[H4480A\|מִמֶּ֖]][[H9035\|נּוּ]] [[H0376I\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SPOILS|SPOILS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.49|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.48|<< Numbers 31:48]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.50|Numbers 31:50 >>]]</td></tr></table>
 

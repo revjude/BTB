@@ -1,8 +1,76 @@
+---
+title: Judges 3:16
+type: Verse
+kjv: "But Ehud made him a dagger which had two edges, of a cubit length; and he did gird it under his raiment upon his right thigh."
+bsb: "Now Ehud had made for himself a double-edged sword a cubit long. He strapped it to his right thigh under his cloak"
+hebrew: "וַיַּעַשׂ֩ ל֨וֹ אֵה֜וּד חֶ֗רֶב וְלָ֛הּ שְׁנֵ֥י פֵי֖וֹת גֹּ֣מֶד אָרְכָּ֑הּ וַיַּחְגֹּ֤ר אוֹתָהּ֙ מִתַּ֣חַת לְמַדָּ֔יו עַ֖ל יֶ֥רֶךְ יְמִינֽוֹ׃"
+pericope: "[[Judg.3.12 Ehud|Ehud]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DAGGER|DAGGER]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic EGLON|EGLON]]"
+- "[[topic EHUD|EHUD]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic REGICIDE|REGICIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0164G]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H9034]]"
+- "[[H8147]]"
+- "[[H6366]]"
+- "[[H1574]]"
+- "[[H0753]]"
+- "[[H9024]]"
+- "[[H2296]]"
+- "[[H0853]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H4055]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H3409]]"
+- "[[H3225G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:16**<big><big>[[Judg.3.12 Ehud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Ehud made him a dagger which had two edges, of a cubit length; and he did gird it under his raiment upon his right thigh.
 <small><sub>**BSB:**</sub></small>
 Now Ehud had made for himself a double-edged sword a cubit long. He strapped it to his right thigh under his cloak
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּעַשׂ֩]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H0164G\|אֵה֜וּד]] [[H2719\|חֶ֗רֶב]] [[H9002\|וְ]][[H9005\|לָ֛]][[H9034\|הּ]] [[H8147\|שְׁנֵ֥י]] [[H6366\|פֵי֖וֹת]] [[H1574\|גֹּ֣מֶד]] [[H0753\|אָרְכָּ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H2296\|יַּחְגֹּ֤ר]] [[H0853\|אוֹתָ]][[H9034\|הּ֙]] [[H9006\|מִ]][[H8478G\|תַּ֣חַת]] [[H9005\|לְ]][[H4055\|מַדָּ֔י]][[H9023\|ו]] [[H5921A\|עַ֖ל]] [[H3409\|יֶ֥רֶךְ]] [[H3225G\|יְמִינֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSASSINATION|ASSASSINATION]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DAGGER|DAGGER]] • [[topic DECEPTION|DECEPTION]] • [[topic EGLON|EGLON]] • [[topic EHUD|EHUD]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic GOD|GOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic REGICIDE|REGICIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.15|<< Judges 3:15]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.17|Judges 3:17 >>]]</td></tr></table>
 

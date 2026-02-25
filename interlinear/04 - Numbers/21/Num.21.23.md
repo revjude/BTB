@@ -1,8 +1,73 @@
+---
+title: Numbers 21:23
+type: Verse
+kjv: "And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel."
+bsb: "But Sihon would not let Israel pass through his territory. Instead, he gathered his whole army and went out to confront Israel in the wilderness. When he came to Jahaz, he fought against Israel."
+hebrew: "וְלֹא־ נָתַ֨ן סִיחֹ֣ן אֶת־ יִשְׂרָאֵל֮ עֲבֹ֣ר בִּגְבֻלוֹ֒ וַיֶּאֱסֹ֨ף סִיחֹ֜ן אֶת־ כָּל־ עַמּ֗וֹ וַיֵּצֵ֞א לִקְרַ֤את יִשְׂרָאֵל֙ הַמִּדְבָּ֔רָה וַיָּבֹ֖א יָ֑הְצָה וַיִּלָּ֖חֶם בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JAHAZ|JAHAZ]]"
+- "[[topic SIHON|SIHON]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5414K]]"
+- "[[H5511]]"
+- "[[H0853]]"
+- "[[H3478]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H1366H]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H3318G]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H9011]]"
+- "[[H0935G]]"
+- "[[H3096]]"
+- "[[H3898A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:23**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Sihon would not suffer Israel to pass through his border: but Sihon gathered all his people together, and went out against Israel into the wilderness: and he came to Jahaz, and fought against Israel.
 <small><sub>**BSB:**</sub></small>
 But Sihon would not let Israel pass through his territory. Instead, he gathered his whole army and went out to confront Israel in the wilderness. When he came to Jahaz, he fought against Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5414K\|נָתַ֨ן]] [[H5511\|סִיחֹ֣ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֮]] [[H5674A\|עֲבֹ֣ר]] [[H9003\|בִּ]][[H1366H\|גְבֻל]][[H9023\|וֹ֒]] [[H9001\|וַ]][[H0622\|יֶּאֱסֹ֨ף]] [[H5511\|סִיחֹ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַמּ֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֞א]] [[H9005\|לִ]][[H7122H\|קְרַ֤את]] [[H3478\|יִשְׂרָאֵל֙]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֔רָ]][[H9011\|ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H3096\|יָ֑הְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H3898A\|יִּלָּ֖חֶם]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic ISRAEL|ISRAEL]] • [[topic JAHAZ|JAHAZ]] • [[topic SIHON|SIHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.22|<< Numbers 21:22]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.24|Numbers 21:24 >>]]</td></tr></table>
 

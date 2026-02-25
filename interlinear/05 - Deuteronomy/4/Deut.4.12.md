@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 4:12
+type: Verse
+kjv: "And the LORD spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only ye heard a voice."
+bsb: "And the LORD spoke to you out of the fire. You heard the sound of the words but saw no form; there was only a voice."
+hebrew: "וַיְדַבֵּ֧ר יְהוָ֛ה אֲלֵיכֶ֖ם מִתּ֣וֹךְ הָאֵ֑שׁ ק֤וֹל דְּבָרִים֙ אַתֶּ֣ם שֹׁמְעִ֔ים וּתְמוּנָ֛ה אֵינְכֶ֥ם רֹאִ֖ים זוּלָתִ֥י קֽוֹל׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0784]]"
+- "[[H6963H]]"
+- "[[H1697G]]"
+- "[[H0859D]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H8544]]"
+- "[[H0369]]"
+- "[[H9046]]"
+- "[[H7200G]]"
+- "[[H2108]]"
+- "[[H6963A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:12**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto you out of the midst of the fire: ye heard the voice of the words, but saw no similitude; only [ye heard] a voice.
 <small><sub>**BSB:**</sub></small>
 And the LORD spoke to you out of the fire. You heard the sound of the words but saw no form; there was only a voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֲלֵי]][[H9036\|כֶ֖ם]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H9009\|הָ]][[H0784\|אֵ֑שׁ]] [[H6963H\|ק֤וֹל]] [[H1697G\|דְּבָרִים֙]] [[H0859D\|אַתֶּ֣ם]] [[H8085G\|שֹׁמְעִ֔ים]] [[H9002\|וּ]][[H8544\|תְמוּנָ֛ה]] [[H0369\|אֵינְ]][[H9046\|כֶ֥ם]] [[H7200G\|רֹאִ֖ים]] [[H2108\|זוּלָתִ֥י]] [[H6963A\|קֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.11|<< Deuteronomy 4:11]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.13|Deuteronomy 4:13 >>]]</td></tr></table>
 

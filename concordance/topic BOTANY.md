@@ -1,7 +1,7 @@
 
 **BOTANY**
 
-→ Laws of nature in the vegetable kingdom uniform in action  [[Matt.7.16|Mt 7:16]]-[[Matt.7.18|18]],[[Matt.7.20|20]]; [[Luke.6.43|Lu 6:43]],[[Luke.6.44|44]]; [[1Cor.15.36|1Co 15:36]]-[[1Cor.15.38|38]]; [[Gal.6.7|Ga 6:7]]
+→ Laws of nature in the vegetable kingdom uniform in action  [[Matt.7.16|Mt 7:16-18]],[[Matt.7.20|20]]; [[Luke.6.43|Lu 6:43]],[[Luke.6.44|44]]; [[1Cor.15.36|1Co 15:36-38]]; [[Gal.6.7|Ga 6:7]]
 
 → Lily, beauty of [[Matt.6.28|Mt 6:28]],[[Matt.6.29|29]]; [[2Cor.9.6|2Co 9:6]]
 

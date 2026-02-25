@@ -1,8 +1,72 @@
+---
+title: Numbers 33:54
+type: Verse
+kjv: "And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit."
+bsb: "And you are to divide the land by lot according to your clans. Give a larger inheritance to a larger clan and a smaller inheritance to a smaller one. Whatever falls to each one by lot will be his. You will receive an inheritance according to the tribes of your fathers."
+hebrew: "וְהִתְנַחַלְתֶּם֩ אֶת־ הָאָ֨רֶץ בְּגוֹרָ֜ל לְמִשְׁפְּחֹֽתֵיכֶ֗ם לָרַ֞ב תַּרְבּ֤וּ אֶת־ נַחֲלָתוֹ֙ וְלַמְעַט֙ תַּמְעִ֣יט אֶת־ נַחֲלָת֔וֹ אֶל֩ אֲשֶׁר־ יֵ֨צֵא ל֥וֹ שָׁ֛מָּה הַגּוֹרָ֖ל ל֣וֹ יִהְיֶ֑ה לְמַטּ֥וֹת אֲבֹתֵיכֶ֖ם תִּתְנֶחָֽלוּ׃"
+pericope: "[[Num.33.50 Instructions for Occupying Canaan|Instructions for Occupying Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5157]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H1486]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9026]]"
+- "[[H7227A]]"
+- "[[H7235A]]"
+- "[[H5159]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4592]]"
+- "[[H4591]]"
+- "[[H0413]]"
+- "[[H0834A]]"
+- "[[H3318J]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H1961]]"
+- "[[H4294H]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:54**<big><big>[[Num.33.50 Instructions for Occupying Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall divide the land by lot for an inheritance among your families: [and] to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s [inheritance] shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.
 <small><sub>**BSB:**</sub></small>
 And you are to divide the land by lot according to your clans. Give a larger inheritance to a larger clan and a smaller inheritance to a smaller one. Whatever falls to each one by lot will be his. You will receive an inheritance according to the tribes of your fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5157\|הִתְנַחַלְתֶּם֩]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֨רֶץ]] [[H9003\|בְּ]][[H1486\|גוֹרָ֜ל]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹֽתֵי]][[H9026\|כֶ֗ם]] [[H9005\|לָ]][[H7227A\|רַ֞ב]] [[H7235A\|תַּרְבּ֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5159\|נַחֲלָת]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H9005\|לַ]][[H4592\|מְעַט֙]] [[H4591\|תַּמְעִ֣יט]] [[H0853\|אֶת]][[H9014\|־]] [[H5159\|נַחֲלָת֔]][[H9023\|וֹ]] [[H0413\|אֶל֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318J\|יֵ֨צֵא]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H8033G\|שָׁ֛מָּ]][[H9011\|ה]] [[H9009\|הַ]][[H1486\|גּוֹרָ֖ל]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H1961\|יִהְיֶ֑ה]] [[H9005\|לְ]][[H4294H\|מַטּ֥וֹת]] [[H0001G\|אֲבֹתֵי]][[H9026\|כֶ֖ם]] [[H5157\|תִּתְנֶחָֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.53|<< Numbers 33:53]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.55|Numbers 33:55 >>]]</td></tr></table>
 

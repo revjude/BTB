@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sadducees and the Resurrection
+type: Pericope
 pericope: "[[Matt.22.23 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 22
 book/chapter: "[[Matt.22|Matthew 22]]"
-genre:
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.22.23]]"
 - "[[Matt.22.24]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.22.33]]"
 ---
 
-[[Matt.22|Matthew 22:23 - Matthew 22:33]]
+<small>[[Matt.22|Matthew 22:23-33]]</small>
 *The Sadducees and the Resurrection*
 
 [[Matt.22.23|23]] The same day came to him the Sadducees, which say that there is no resurrection, and asked him,

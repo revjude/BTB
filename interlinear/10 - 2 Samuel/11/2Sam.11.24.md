@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 11:24
+type: Verse
+kjv: "And the shooters shot from off the wall upon thy servants; and some of the king’s servants be dead, and thy servant Uriah the Hittite is dead also."
+bsb: "Then the archers shot at your servants from the wall, and some of the king’s servants were killed. And your servant Uriah the Hittite is dead as well.”"
+hebrew: "וַיֹּר֨וּ הַמּוֹרִ֤ים אֶל־ עֲבָדֶ֙ךָ֙ מֵעַ֣ל הַחוֹמָ֔ה וַיָּמ֖וּתוּ מֵעַבְדֵ֣י הַמֶּ֑לֶךְ וְגַ֗ם עַבְדְּךָ֛ אוּרִיָּ֥ה הַחִתִּ֖י מֵֽת׃ ס"
+pericope: "[[2Sam.11.14 David Arranges Uriah’s Death|David Arranges Uriah’s Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 11
+book/chapter: "[[2Sam.11|2 Samuel 11]]"
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic URIAH|URIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3372G]]"
+- "[[H3384A]]"
+- "[[H9009]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H2346G]]"
+- "[[H4191]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0223A]]"
+- "[[H2850]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- Q(K)
+- L
+---
+
 **2 Samuel 11:24**<big><big>[[2Sam.11.14 David Arranges Uriah’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the shooters shot from off the wall upon thy servants; and [some] of the king’s servants be dead, and thy servant Uriah the Hittite is dead also.
 <small><sub>**BSB:**</sub></small>
 Then the archers shot at your servants from the wall, and some of the king’s servants were killed. And your servant Uriah the Hittite is dead as well.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3384A\|יֹּר֨וּ]] [[H9009\|הַ]][[H3384A\|מּוֹרִ֤ים]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עֲבָדֶ֙]][[H9021\|ךָ֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הַ]][[H2346G\|חוֹמָ֔ה]] [[H9001\|וַ]][[H4191\|יָּמ֖וּתוּ]] [[H9006\|מֵ]][[H5650\|עַבְדֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H1571\|גַ֗ם]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֛]] [[H0223A\|אוּרִיָּ֥ה]] [[H9009\|הַ]][[H2850\|חִתִּ֖י]] [[H4191\|מֵֽת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JOAB|JOAB]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic URIAH|URIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.23|<< 2 Samuel 11:23]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.25|2 Samuel 11:25 >>]]</td></tr></table>
 
@@ -21,11 +77,11 @@ Then the archers shot at your servants from the wall, and some of the king’s s
 | servant your  |**<big>&#8207;[[H5650\|עַבְדְּ]]&#8207;&#8207;[[H9021\|ךָ֛]]&#8207; </big>**| 'av.de.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Uriah  |**<big>&#8207;[[H0223A\|אוּרִיָּ֥ה]]&#8207; </big>**| 'u.ri.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the Hittite  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2850\|חִתִּ֖י]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chi.Ti<small><sup>[[HNgmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he has died  |**<big>&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he has died  |**<big>&#8207;[[H4191\|מֵֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Met<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.23|<< 2 Samuel 11:23]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.25|2 Samuel 11:25 >>]]</td></tr></table>
 
-[^1]: and they feared  | **<big>[[H3372G|יֹּרְאוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.re.'u<small><sup>[[HVhw3mp]]</sup></small> | K
-[^2]: and they feared  | **<big>[[H3372G|יֹּרְאוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.re.'u<small><sup>[[HVhw3mp]]</sup></small> | K
+[^1]: and they feared  | **<big>[[H9001|וַ]]</big><big>[[H3372G|יֹּרְאוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.re.'u<small><sup>[[HVhw3mp]]</sup></small> | K
+[^2]: and they feared  | **<big>[[H9001|וַ]]</big><big>[[H3372G|יֹּרְאוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.re.'u<small><sup>[[HVhw3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיֹּרא֨וּ</big></span>**
 [^4]: L spelled: **<span class="ashebrew"><big>הַמּוֹרִ֤אים</big></span>**
 [^5]: K spelled: **<span class="ashebrew"><big>הַמּוֹרְאִים</big></span>**

@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 18:12
+type: Verse
+kjv: "And Saul was afraid of David, because the LORD was with him, and was departed from Saul."
+bsb: "So Saul was afraid of David, because the LORD was with David but had departed from Saul."
+hebrew: "וַיִּרָ֥א שָׁא֖וּל מִלִּפְנֵ֣י דָוִ֑ד כִּֽי־ הָיָ֤ה יְהוָה֙ עִמּ֔וֹ וּמֵעִ֥ם שָׁא֖וּל סָֽר׃"
+pericope: "[[1Sam.18.5 Saul Envies David|Saul Envies David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3372G]]"
+- "[[H7586G]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440L]]"
+- "[[H1732]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H5973B]]"
+- "[[H5493H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 18:12**<big><big>[[1Sam.18.5 Saul Envies David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul was afraid of David, because the LORD was with him, and was departed from Saul.
 <small><sub>**BSB:**</sub></small>
 So Saul was afraid of David, because the LORD was with David but had departed from Saul.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3372G\|יִּרָ֥א]] [[H7586G\|שָׁא֖וּל]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440L\|פְנֵ֣י]] [[H1732\|דָוִ֑ד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיָ֤ה]] [[H3068G\|יְהוָה֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9002\|וּ]][[H9006\|מֵ]][[H5973B\|עִ֥ם]] [[H7586G\|שָׁא֖וּל]] [[H5493H\|סָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic DAVID|DAVID]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REPROBACY|REPROBACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.11|<< 1 Samuel 18:11]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.13|1 Samuel 18:13 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Jeremiah 38:3
+type: Verse
+kjv: "Thus saith the LORD, This city shall surely be given into the hand of the king of Babylon’s army, which shall take it."
+bsb: "This is what the LORD says: This city will surely be delivered into the hands of the army of the king of Babylon, and he will capture it.”"
+hebrew: "כֹּ֖ה אָמַ֣ר יְהוָ֑ה הִנָּתֹ֨ן תִּנָּתֵ֜ן הָעִ֣יר הַזֹּ֗את בְּיַ֛ד חֵ֥יל מֶֽלֶךְ־ בָּבֶ֖ל וּלְכָדָֽהּ׃"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H2428A]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 38:3**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, This city shall surely be given into the hand of the king of Babylon’s army, which shall take it.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: This city will surely be delivered into the hands of the army of the king of Babylon, and he will capture it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֖ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H5414G\|הִנָּתֹ֨ן]] [[H5414G\|תִּנָּתֵ֜ן]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֗את]] [[H9003\|בְּ]][[H3027H\|יַ֛ד]] [[H2428A\|חֵ֥יל]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9001\|וּ]][[H3920\|לְכָדָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.2|<< Jeremiah 38:2]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.4|Jeremiah 38:4 >>]]</td></tr></table>
 

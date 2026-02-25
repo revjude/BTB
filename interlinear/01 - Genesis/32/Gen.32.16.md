@@ -1,8 +1,65 @@
+---
+title: Genesis 32:16
+type: Verse
+kjv: "And he delivered them into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space betwixt drove and drove."
+bsb: "He entrusted them to his servants in separate herds and told them, “Go on ahead of me, and keep some distance between the herds.”"
+hebrew: "וַיִּתֵּן֙ בְּיַד־ עֲבָדָ֔יו עֵ֥דֶר עֵ֖דֶר לְבַדּ֑וֹ וַ֤יֹּאמֶר אֶל־ עֲבָדָיו֙ עִבְר֣וּ לְפָנַ֔י וְרֶ֣וַח תָּשִׂ֔ימוּ בֵּ֥ין עֵ֖דֶר וּבֵ֥ין עֵֽדֶר׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027K]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H5739]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H5674A]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7305]]"
+- "[[H7760H]]"
+- "[[H0996G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:16**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he delivered [them] into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space betwixt drove and drove.
 <small><sub>**BSB:**</sub></small>
 He entrusted them to his servants in separate herds and told them, “Go on ahead of me, and keep some distance between the herds.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּן֙]] [[H9003\|בְּ]][[H3027K\|יַד]][[H9014\|־]] [[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H5739\|עֵ֥דֶר]] [[H5739\|עֵ֖דֶר]] [[H9005\|לְ]][[H0905H\|בַדּ֑]][[H9033\|וֹ]] [[H9001\|וַ֤]][[H0559\|יֹּאמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עֲבָדָי]][[H9023\|ו֙]] [[H5674A\|עִבְר֣וּ]] [[H9005\|לְ]][[H6440G\|פָנַ֔]][[H9020\|י]] [[H9002\|וְ]][[H7305\|רֶ֣וַח]] [[H7760H\|תָּשִׂ֔ימוּ]] [[H0996G\|בֵּ֥ין]] [[H5739\|עֵ֖דֶר]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H5739\|עֵֽדֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.15|<< Genesis 32:15]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.17|Genesis 32:17 >>]]</td></tr></table>
 

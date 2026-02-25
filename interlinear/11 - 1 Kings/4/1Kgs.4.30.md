@@ -1,8 +1,58 @@
+---
+title: 1 Kings 4:30
+type: Verse
+kjv: "And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt."
+bsb: "Solomon’s wisdom was greater than that of all the men of the East, greater than all the wisdom of Egypt."
+hebrew: "וַתֵּ֙רֶב֙ חָכְמַ֣ת שְׁלֹמֹ֔ה מֵֽחָכְמַ֖ת כָּל־ בְּנֵי־ קֶ֑דֶם וּמִכֹּ֖ל חָכְמַ֥ת מִצְרָֽיִם׃"
+pericope: "[[1Kgs.4.29 Solomon’s Wisdom|Solomon’s Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H2451]]"
+- "[[H8010]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H6924G]]"
+- "[[H9002]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 4:30**<big><big>[[1Kgs.4.29 Solomon’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.
 <small><sub>**BSB:**</sub></small>
 Solomon’s wisdom was greater than that of all the men of the East, greater than all the wisdom of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7235A\|תֵּ֙רֶב֙]] [[H2451\|חָכְמַ֣ת]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9006\|מֵֽ]][[H2451\|חָכְמַ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H6924G\|קֶ֑דֶם]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H2451\|חָכְמַ֥ת]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.29|<< 1 Kings 4:29]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.31|1 Kings 4:31 >>]]</td></tr></table>
 

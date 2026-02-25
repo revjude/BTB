@@ -1,8 +1,79 @@
+---
+title: 2 Samuel 17:8
+type: Verse
+kjv: "For, said Hushai, thou knowest thy father and his men, that they be mighty men, and they be chafed in their minds, as a bear robbed of her whelps in the field: and thy father is a man of war, and will not lodge with the people."
+bsb: "He continued, “You know your father and his men. They are mighty men, and as fierce as a wild bear robbed of her cubs. Moreover, your father is a man of war who will not spend the night with the troops."
+hebrew: "וַיֹּ֣אמֶר חוּשַׁ֗י אַתָּ֣ה יָ֠דַעְתָּ אֶת־ אָבִ֨יךָ וְאֶת־ אֲנָשָׁ֜יו כִּ֧י גִבֹּרִ֣ים הֵ֗מָּה וּמָרֵ֥י נֶ֙פֶשׁ֙ הֵ֔מָּה כְּדֹ֥ב שַׁכּ֖וּל בַּשָּׂדֶ֑ה וְאָבִ֙יךָ֙ אִ֣ישׁ מִלְחָמָ֔ה וְלֹ֥א יָלִ֖ין אֶת־ הָעָֽם׃"
+pericope: "[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|Hushai Counters Ahithophel’s Advice]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BEAR|BEAR]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic SPIES|SPIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2365]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H1368]]"
+- "[[H1992]]"
+- "[[H4751]]"
+- "[[H5315G]]"
+- "[[H9004]]"
+- "[[H1677]]"
+- "[[H7909]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H0376G]]"
+- "[[H4421]]"
+- "[[H3808]]"
+- "[[H3885A]]"
+- "[[H0854]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:8**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, said Hushai, thou knowest thy father and his men, that they [be] mighty men, and they [be] chafed in their minds, as a bear robbed of her whelps in the field: and thy father [is] a man of war, and will not lodge with the people.
 <small><sub>**BSB:**</sub></small>
 He continued, “You know your father and his men. They are mighty men, and as fierce as a wild bear robbed of her cubs. Moreover, your father is a man of war who will not spend the night with the troops.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H2365\|חוּשַׁ֗י]] [[H0859A\|אַתָּ֣ה]] [[H3045\|יָ֠דַעְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֨י]][[H9021\|ךָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0582\|אֲנָשָׁ֜י]][[H9023\|ו]] [[H3588A\|כִּ֧י]] [[H1368\|גִבֹּרִ֣ים]] [[H1992\|הֵ֗מָּה]] [[H9002\|וּ]][[H4751\|מָרֵ֥י]] [[H5315G\|נֶ֙פֶשׁ֙]] [[H1992\|הֵ֔מָּה]] [[H9004\|כְּ]][[H1677\|דֹ֥ב]] [[H7909\|שַׁכּ֖וּל]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֑ה]] [[H9002\|וְ]][[H0001G\|אָבִ֙י]][[H9021\|ךָ֙]] [[H0376G\|אִ֣ישׁ]] [[H4421\|מִלְחָמָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3885A\|יָלִ֖ין]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic ARMIES|ARMIES]] • [[topic BEAR|BEAR]] • [[topic COUNCIL|COUNCIL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic SPIES|SPIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.7|<< 2 Samuel 17:7]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.9|2 Samuel 17:9 >>]]</td></tr></table>
 

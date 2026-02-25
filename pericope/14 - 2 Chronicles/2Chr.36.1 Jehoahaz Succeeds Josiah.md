@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoahaz Succeeds Josiah
+type: Pericope
 pericope: "[[2Chr.36.1 Jehoahaz Succeeds Josiah|Jehoahaz Succeeds Josiah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 36
 book/chapter: "[[2Chr.36|2 Chronicles 36]]"
-genre:
+chronological_order: 743
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~609–586 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.36.1]]"
 - "[[2Chr.36.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.36.4]]"
 ---
 
-[[2Chr.36|2 Chronicles 36:1 - 2 Chronicles 36:4]]
+<small>[[2Chr.36|2 Chronicles 36:1-4]]</small>
 *Jehoahaz Succeeds Josiah*
 
 [[2Chr.36.1|1]] Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem.

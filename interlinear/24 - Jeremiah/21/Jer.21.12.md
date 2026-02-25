@@ -1,8 +1,77 @@
+---
+title: Jeremiah 21:12
+type: Verse
+kjv: "O house of David, thus saith the LORD; Execute judgment in the morning, and deliver him that is spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench it, because of the evil of your doings."
+bsb: "O house of David, this is what the LORD says: ‘Administer justice every morning, and rescue the victim of robbery from the hand of his oppressor, or My wrath will go forth like fire and burn with no one to extinguish it because of their evil deeds."
+hebrew: "בֵּ֣ית דָּוִ֗ד כֹּ֚ה אָמַ֣ר יְהוָ֔ה דִּ֤ינוּ לַבֹּ֙קֶר֙ מִשְׁפָּ֔ט וְהַצִּ֥ילוּ גָז֖וּל מִיַּ֣ד עוֹשֵׁ֑ק פֶּן־ תֵּצֵ֨א כָאֵ֜שׁ חֲמָתִ֗י וּבָעֲרָה֙ וְאֵ֣ין מְכַבֶּ֔ה מִפְּנֵ֖י רֹ֥עַ מַעַלְלֵיכֶֽם׃"
+pericope: "[[Jer.21.11 A Message to the House of David|A Message to the House of David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic KING|KING]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H1004M]]"
+- "[[H1732]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H1777]]"
+- "[[H9005]]"
+- "[[H1242]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H5337]]"
+- "[[H1497]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H6231]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H3318L]]"
+- "[[H9004]]"
+- "[[H0784]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1197A]]"
+- "[[H0369]]"
+- "[[H3518]]"
+- "[[H6440I]]"
+- "[[H7455]]"
+- "[[H4611]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9026]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 21:12**<big><big>[[Jer.21.11 A Message to the House of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O house of David, thus saith the LORD; Execute judgment in the morning, and deliver [him that is] spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench [it], because of the evil of your doings.
 <small><sub>**BSB:**</sub></small>
 O house of David, this is what the LORD says: ‘Administer justice every morning, and rescue the victim of robbery from the hand of his oppressor, or My wrath will go forth like fire and burn with no one to extinguish it because of their evil deeds.
+<small><sub>**Hebrew:**</sub></small>
+[[H1004M\|בֵּ֣ית]] [[H1732\|דָּוִ֗ד]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H1777\|דִּ֤ינוּ]] [[H9005\|לַ]][[H1242\|בֹּ֙קֶר֙]] [[H4941H\|מִשְׁפָּ֔ט]] [[H9002\|וְ]][[H5337\|הַצִּ֥ילוּ]] [[H1497\|גָז֖וּל]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H6231\|עוֹשֵׁ֑ק]] [[H6435\|פֶּן]][[H9014\|־]] [[H3318L\|תֵּצֵ֨א]] [[H9004\|כָ]][[H0784\|אֵ֜שׁ]] [[H2534\|חֲמָתִ֗]][[H9020\|י]] [[H9001\|וּ]][[H1197A\|בָעֲרָה֙]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H3518\|מְכַבֶּ֔ה]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H7455\|רֹ֥עַ]] [[H4611\|מַעַלְלֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic OPPRESSION|OPPRESSION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.11|<< Jeremiah 21:11]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.13|Jeremiah 21:13 >>]]</td></tr></table>
 
@@ -32,7 +101,7 @@ O house of David, this is what the LORD says: ‘Administer justice every mornin
 | deeds your  [^2]|**<big>&#8207;[[H4611\|מַעַלְלֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.11|<< Jeremiah 21:11]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.13|Jeremiah 21:13 >>]]</td></tr></table>
 
-[^1]: deeds their  | **<big>[[H9016|׃]]</big><big>[[H9028|הֶם]]</big><big>[[H4611|מַעַלְלֵי]]</big> ** | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
-[^2]: deeds their  | **<big>[[H9016|׃]]</big><big>[[H9028|הֶם]]</big><big>[[H4611|מַעַלְלֵי]]</big> ** | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^1]: deeds their  | **<big>[[H4611|מַעַלְלֵי]]</big><big>[[H9028|הֶם]]</big><big>[[H9016|׃]]</big> ** | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: deeds their  | **<big>[[H4611|מַעַלְלֵי]]</big><big>[[H9028|הֶם]]</big><big>[[H9016|׃]]</big> ** | ma.'a.lei.<small><sup>[[HNcmpc]]</sup></small> hem<small><sup>[[HSp3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>מַעַלְלֵיהֶֽם\׃</big></span>**
 

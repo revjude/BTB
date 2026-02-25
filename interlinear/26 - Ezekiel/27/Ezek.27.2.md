@@ -1,8 +1,49 @@
+---
+title: Ezekiel 27:2
+type: Verse
+kjv: "Now, thou son of man, take up a lamentation for Tyrus;"
+bsb: "“Now you, son of man, take up a lament for Tyre."
+hebrew: "וְאַתָּ֣ה בֶן־ אָדָ֔ם שָׂ֥א עַל־ צֹ֖ר קִינָֽה׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5375G]]"
+- "[[H5921A]]"
+- "[[H6865]]"
+- "[[H7015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:2**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, thou son of man, take up a lamentation for Tyrus;
 <small><sub>**BSB:**</sub></small>
 “Now you, son of man, take up a lament for Tyre.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֔ם]] [[H5375G\|שָׂ֥א]] [[H5921A\|עַל]][[H9014\|־]] [[H6865\|צֹ֖ר]] [[H7015\|קִינָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.1|<< Ezekiel 27:1]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.3|Ezekiel 27:3 >>]]</td></tr></table>
 

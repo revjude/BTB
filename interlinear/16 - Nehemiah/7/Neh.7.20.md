@@ -1,8 +1,51 @@
+---
+title: Nehemiah 7:20
+type: Verse
+kjv: "The children of Adin, six hundred fifty and five."
+bsb: "the descendants of Adin, 655;"
+hebrew: "בְּנֵ֣י עָדִ֔ין שֵׁ֥שׁ מֵא֖וֹת חֲמִשִּׁ֥ים וַחֲמִשָּֽׁה׃ ס"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic ADIN|ADIN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H1121G]]"
+- "[[H5720G]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H2572]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Nehemiah 7:20**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Adin, six hundred fifty and five.
 <small><sub>**BSB:**</sub></small>
 the descendants of Adin, 655;
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵ֣י]] [[H5720G\|עָדִ֔ין]] [[H8337\|שֵׁ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H2572\|חֲמִשִּׁ֥ים]] [[H9002\|וַ]][[H2568\|חֲמִשָּֽׁה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADIN|ADIN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.19|<< Nehemiah 7:19]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.21|Nehemiah 7:21 >>]]</td></tr></table>
 
@@ -13,7 +56,7 @@ the descendants of Adin, 655;
 | six  |**<big>&#8207;[[H8337\|שֵׁ֥שׁ]]&#8207; </big>**| shesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | fifty  |**<big>&#8207;[[H2572\|חֲמִשִּׁ֥ים]]&#8207; </big>**| cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמִשָּֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shah<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.19|<< Nehemiah 7:19]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.21|Nehemiah 7:21 >>]]</td></tr></table>
 
 

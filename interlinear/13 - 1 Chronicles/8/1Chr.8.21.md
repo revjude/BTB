@@ -1,8 +1,51 @@
+---
+title: 1 Chronicles 8:21
+type: Verse
+kjv: "And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;"
+bsb: "Adaiah, Beraiah, and Shimrath were the sons of Shimei."
+hebrew: "וַעֲדָיָ֧ה וּבְרָאיָ֛ה וְשִׁמְרָ֖ת בְּנֵ֥י שִׁמְעִֽי׃"
+pericope: "[[1Chr.8.1 Genealogy from Benjamin to Saul|Genealogy from Benjamin to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ADAIAH|ADAIAH]]"
+- "[[topic BERAIAH|BERAIAH]]"
+- "[[topic SHIMEI|SHIMEI]]"
+- "[[topic SHIMHI|SHIMHI]]"
+- "[[topic SHIMRATH|SHIMRATH]]"
+strongs:
+- "[[H9002]]"
+- "[[H5718H]]"
+- "[[H1256]]"
+- "[[H8119]]"
+- "[[H1121A]]"
+- "[[H8096N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 8:21**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;
 <small><sub>**BSB:**</sub></small>
 Adaiah, Beraiah, and Shimrath were the sons of Shimei.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H5718H\|עֲדָיָ֧ה]] [[H9002\|וּ]][[H1256\|בְרָאיָ֛ה]] [[H9002\|וְ]][[H8119\|שִׁמְרָ֖ת]] [[H1121A\|בְּנֵ֥י]] [[H8096N\|שִׁמְעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAIAH|ADAIAH]] • [[topic BERAIAH|BERAIAH]] • [[topic SHIMEI|SHIMEI]] • [[topic SHIMHI|SHIMHI]] • [[topic SHIMRATH|SHIMRATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.20|<< 1 Chronicles 8:20]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.22|1 Chronicles 8:22 >>]]</td></tr></table>
 

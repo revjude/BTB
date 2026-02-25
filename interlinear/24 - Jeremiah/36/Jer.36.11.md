@@ -1,8 +1,62 @@
+---
+title: Jeremiah 36:11
+type: Verse
+kjv: "When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the LORD,"
+bsb: "When Micaiah son of Gemariah, the son of Shaphan, heard all the words of the LORD from the scroll,"
+hebrew: "וַ֠יִּשְׁמַ֗ע מִכָ֨יְהוּ בֶן־ גְּמַרְיָ֧הוּ בֶן־ שָׁפָ֛ן אֶת־ כָּל־ דִּבְרֵ֥י יְהוָ֖ה מֵעַ֥ל הַסֵּֽפֶר׃"
+pericope: "[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|Jeremiah’s Scroll Read in the Palace]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic GEMARIAH|GEMARIAH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MICHAIAH|MICHAIAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H4321H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H1587H]]"
+- "[[H8227B]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H5612A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:11**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When Michaiah the son of Gemariah, the son of Shaphan, had heard out of the book all the words of the LORD,
 <small><sub>**BSB:**</sub></small>
 When Micaiah son of Gemariah, the son of Shaphan, heard all the words of the LORD from the scroll,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H8085G\|יִּשְׁמַ֗ע]] [[H4321H\|מִכָ֨יְהוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H1587H\|גְּמַרְיָ֧הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H8227B\|שָׁפָ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H9009\|הַ]][[H5612A\|סֵּֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic GEMARIAH|GEMARIAH]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MICHAIAH|MICHAIAH]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.10|<< Jeremiah 36:10]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.12|Jeremiah 36:12 >>]]</td></tr></table>
 

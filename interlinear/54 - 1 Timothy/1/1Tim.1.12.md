@@ -1,10 +1,60 @@
+---
+title: 1 Timothy 1:12
+type: Verse
+kjv: "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;"
+bsb: "I thank Christ Jesus our Lord, who has strengthened me, that He considered me faithful and appointed me to service."
+greek: "Καὶ χάριν ἔχω τῷ ἐνδυναμώσαντί με Χριστῷ Ἰησοῦ τῷ κυρίῳ ἡμῶν ὅτι πιστόν με ἡγήσατο θέμενος εἰς διακονίαν,"
+pericope: "[[1Tim.1.12 God’s Grace to Paul|God’s Grace to Paul]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 1
+book/chapter: "[[1Tim.1|1 Timothy 1]]"
+chronological_order: 1126
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5485]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G1743]]"
+- "[[G3165]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G2962G]]"
+- "[[G3754G]]"
+- "[[G4103]]"
+- "[[G2233]]"
+- "[[G5087]]"
+- "[[G1519]]"
+- "[[G1248]]"
+texts:
+- k
+- NKO
+---
+
 **1 Timothy 1:12**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;
 <small><sub>**BSB:**</sub></small>
 I thank Christ Jesus our Lord, who has strengthened me, that He considered me faithful and appointed me to service.
-<small><sub>**Literal:**</sub></small>
-and Thankfulness I have for the [One] having strengthened me for Christ Jesus the Lord of us that faithful me He esteemed having appointed [me] to service,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.11|<< 1 Timothy 1:11]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.13|1 Timothy 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G5485\|χάριν]]  [[G2192\|ἔχω]]  [[G3588\|τῷ]]  [[G1743\|ἐνδυναμώσαντί]]  [[G3165\|με]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|ἡμῶν]]  [[G3754G\|ὅτι]]  [[G4103\|πιστόν]]  [[G3165\|με]]  [[G2233\|ἡγήσατο]]  [[G5087\|θέμενος]]  [[G1519\|εἰς]]  [[G1248\|διακονίαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.11|<< 1 Timothy 1:11]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.13|1 Timothy 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

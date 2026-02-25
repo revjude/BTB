@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sharing among Believers
+type: Pericope
 pericope: "[[Acts.4.32 Sharing among Believers|Sharing among Believers]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 4
 book/chapter: "[[Acts.4|Acts 4]]"
-genre:
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.4.32]]"
 - "[[Acts.4.33]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.4.37]]"
 ---
 
-[[Acts.4|Acts 4:32 - Acts 4:37]]
+<small>[[Acts.4|Acts 4:32-37]]</small>
 *Sharing among Believers*
 
 [[Acts.4.32|32]] And the multitude of them that believed were of one heart and of one soul: neither said any \[of them\] that ought of the things which he possessed was his own; but they had all things common.

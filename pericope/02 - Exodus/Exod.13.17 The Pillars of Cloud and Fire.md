@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Pillars of Cloud and Fire
+type: Pericope
 pericope: "[[Exod.13.17 The Pillars of Cloud and Fire|The Pillars of Cloud and Fire]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 13
 book/chapter: "[[Exod.13|Exodus 13]]"
-genre:
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.13.17]]"
 - "[[Exod.13.18]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.13.22]]"
 ---
 
-[[Exod.13|Exodus 13:17 - Exodus 13:22]]
+<small>[[Exod.13|Exodus 13:17-22]]</small>
 *The Pillars of Cloud and Fire*
 
 [[Exod.13.17|17]] And it came to pass, when Pharaoh had let the people go, that God led them not \[through\] the way of the land of the Philistines, although that \[was\] near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:

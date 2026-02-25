@@ -1,6 +1,55 @@
+---
+title: LXX Psalm 142:5
+type: Verse
+lxx: "I cried out to you, O lord. I said, You are  my hope, you are my portion in the land of the living."
+greek: "εκέκραξα προς σε κύριε είπα συ ει η ελπίς μου μερίς μου ει εν γη ζώντων"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 142
+book/chapter: "[[Ps.142|Psalm 142]]"
+chronological_order: 319
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[G2896]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1680]]"
+- "[[G1473]]"
+- "[[G3310]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1093]]"
+- "[[G2198]]"
+---
+
 **LXX Psalm 142:5** 
 <small><sub>**LXX:**</sub></small>
 I cried out to you, O <span class="smallcaps">lord</span>. I said, You are  my hope, you are my portion in \[the\] land of \[the\] living. 
+<small><sub>**Greek:**</sub></small>
+[[G2896\|εκέκραξα]] [[G4314\|προς]] [[G1473\|σε]] [[G2962\|κύριε]] [[G2036\|είπα]] [[G1473\|συ]] [[G1510\|ει]] [[G3588\|η]] [[G1680\|ελπίς]] [[G1473\|μου]] [[G3310\|μερίς]] [[G1473\|μου]] [[G1510\|ει]] [[G1722\|εν]] [[G1093\|γη]] [[G2198\|ζώντων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.142.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.4|<< Psalm 142:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.6|Psalm 142:6 >>]]</td></tr></table>
 
@@ -20,6 +69,6 @@ I cried out to you, O <span class="smallcaps">lord</span>. I said, You are  my h
 | in | **<big>[[G1722\|εν]]</big>** |
 | \[the\] land | **<big>[[G1093\|γη]]</big>** |
 | of \[the\] living. | **<big>[[G2198\|ζώντων]]</big>** |
-[[Ps.142.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.4|<< Psalm 142:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.6|Psalm 142:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.142.4|<< Psalm 142:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.142.6|Psalm 142:6 >>]]</td></tr></table>
 
 

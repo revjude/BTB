@@ -1,8 +1,80 @@
+---
+title: 2 Chronicles 5:13
+type: Verse
+kjv: "It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the LORD; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the LORD, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the LORD;"
+bsb: "The trumpeters and singers joined together to praise and thank the LORD with one voice. They lifted up their voices, accompanied by trumpets, cymbals, and musical instruments, in praise to the LORD: “For He is good; His loving devotion endures forever.” And the temple, the house of the LORD, was filled with a cloud"
+hebrew: "וַיְהִ֣י כְ֠אֶחָד לַמְחַצְּרִ֨ים וְלַמְשֹֽׁרֲרִ֜ים לְהַשְׁמִ֣יעַ קוֹל־ אֶחָ֗ד לְהַלֵּ֣ל וּלְהֹדוֹת֮ לַיהוָה֒ וּכְהָרִ֣ים ק֠וֹל בַּחֲצֹצְר֨וֹת וּבִמְצִלְתַּ֜יִם וּבִכְלֵ֣י הַשִּׁ֗יר וּבְהַלֵּ֤ל לַיהוָה֙ כִּ֣י ט֔וֹב כִּ֥י לְעוֹלָ֖ם חַסְדּ֑וֹ וְהַבַּ֛יִת מָלֵ֥א עָנָ֖ן בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CYMBAL|CYMBAL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HARP|HARP]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2690]]"
+- "[[H9002]]"
+- "[[H7891]]"
+- "[[H8085G]]"
+- "[[H6963K]]"
+- "[[H9014]]"
+- "[[H1984B]]"
+- "[[H3034]]"
+- "[[H3068G]]"
+- "[[H7311A]]"
+- "[[H9003]]"
+- "[[H2689]]"
+- "[[H4700]]"
+- "[[H3627]]"
+- "[[H9009]]"
+- "[[H7892A]]"
+- "[[H3588A]]"
+- "[[H2896A]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H1004B]]"
+- "[[H4390]]"
+- "[[H6051]]"
+- "[[H1004Q]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Chronicles 5:13**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It came even to pass, as the trumpeters and singers [were] as one, to make one sound to be heard in praising and thanking the LORD; and when they lifted up [their] voice with the trumpets and cymbals and instruments of musick, and praised the LORD, [saying], For [he is] good; for his mercy [endureth] for ever: that [then] the house was filled with a cloud, [even] the house of the LORD;
 <small><sub>**BSB:**</sub></small>
 The trumpeters and singers joined together to praise and thank the LORD with one voice. They lifted up their voices, accompanied by trumpets, cymbals, and musical instruments, in praise to the LORD: “For He is good; His loving devotion endures forever.” And the temple, the house of the LORD, was filled with a cloud
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9004\|כְ֠]][[H0259\|אֶחָד]] [[H9005\|לַ]][[H2690\|מְחַצְּרִ֨ים]] [[H9002\|וְ]][[H9005\|לַ]][[H7891\|מְשֹֽׁרֲרִ֜ים]] [[H9005\|לְ]][[H8085G\|הַשְׁמִ֣יעַ]] [[H6963K\|קוֹל]][[H9014\|־]] [[H0259\|אֶחָ֗ד]] [[H9005\|לְ]][[H1984B\|הַלֵּ֣ל]] [[H9002\|וּ]][[H9005\|לְ]][[H3034\|הֹדוֹת֮]] [[H9005\|לַ]][[H3068G\|יהוָה֒]] [[H9002\|וּ]][[H9004\|כְ]][[H7311A\|הָרִ֣ים]] [[H6963K\|ק֠וֹל]] [[H9003\|בַּ]][[H2689\|חֲצֹצְר֨וֹת]] [[H9002\|וּ]][[H9003\|בִ]][[H4700\|מְצִלְתַּ֜יִם]] [[H9002\|וּ]][[H9003\|בִ]][[H3627\|כְלֵ֣י]] [[H9009\|הַ]][[H7892A\|שִּׁ֗יר]] [[H9002\|וּ]][[H9003\|בְ]][[H1984B\|הַלֵּ֤ל]] [[H9005\|לַ]][[H3068G\|יהוָה֙]] [[H3588A\|כִּ֣י]] [[H2896A\|ט֔וֹב]] [[H3588A\|כִּ֥י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H2617A\|חַסְדּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H1004B\|בַּ֛יִת]] [[H4390\|מָלֵ֥א]] [[H6051\|עָנָ֖ן]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYMBAL|CYMBAL]] • [[topic GOD|GOD]] • [[topic HARP|HARP]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic TEMPLE|TEMPLE]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TRUMPET|TRUMPET]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.12|<< 2 Chronicles 5:12]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.14|2 Chronicles 5:14 >>]]</td></tr></table>
 

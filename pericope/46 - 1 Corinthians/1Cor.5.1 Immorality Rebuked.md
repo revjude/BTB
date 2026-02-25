@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Immorality Rebuked
+type: Pericope
 pericope: "[[1Cor.5.1 Immorality Rebuked|Immorality Rebuked]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 5
 book/chapter: "[[1Cor.5|1 Corinthians 5]]"
-genre:
+chronological_order: 1062
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 8
 verses:
 - "[[1Cor.5.1]]"
 - "[[1Cor.5.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Cor.5.8]]"
 ---
 
-[[1Cor.5|1 Corinthians 5:1 - 1 Corinthians 5:8]]
+<small>[[1Cor.5|1 Corinthians 5:1-8]]</small>
 *Immorality Rebuked*
 
 [[1Cor.5.1|1]] It is reported commonly \[that there is\] fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife.

@@ -1,8 +1,70 @@
+---
+title: 2 Kings 9:19
+type: Verse
+kjv: "Then he sent out a second on horseback, which came to them, and said, Thus saith the king, Is it peace? And Jehu answered, What hast thou to do with peace? turn thee behind me."
+bsb: "So the king sent out a second horseman, who went to them and said, “This is what the king asks: ‘Have you come in peace?’” “What do you know about peace?” Jehu replied. “Fall in behind me.”"
+hebrew: "וַיִּשְׁלַ֗ח רֹכֵ֣ב סוּס֮ שֵׁנִי֒ וַיָּבֹ֣א אֲלֵהֶ֔ם וַיֹּ֛אמֶר כֹּֽה־ אָמַ֥ר הַמֶּ֖לֶךְ שָׁל֑וֹם וַיֹּ֧אמֶר יֵה֛וּא מַה־ לְּךָ֥ וּלְשָׁל֖וֹם סֹ֥ב אֶֽל־ אַחֲרָֽי׃"
+pericope: "[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|Jehu Kills Joram and Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H7392]]"
+- "[[H5483M]]"
+- "[[H8145]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H7965G]]"
+- "[[H3058H]]"
+- "[[H4100]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H5437G]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:19**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he sent out a second on horseback, which came to them, and said, Thus saith the king, [Is it] peace? And Jehu answered, What hast thou to do with peace? turn thee behind me.
 <small><sub>**BSB:**</sub></small>
 So the king sent out a second horseman, who went to them and said, “This is what the king asks: ‘Have you come in peace?’” “What do you know about peace?” Jehu replied. “Fall in behind me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֗ח]] [[H7392\|רֹכֵ֣ב]] [[H5483M\|סוּס֮]] [[H8145\|שֵׁנִי֒]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H7965G\|שָׁל֑וֹם]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H3058H\|יֵה֛וּא]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֥]] [[H9002\|וּ]][[H9005\|לְ]][[H7965G\|שָׁל֖וֹם]] [[H5437G\|סֹ֥ב]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0310A\|אַחֲרָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECISION|DECISION]] • [[topic JEHU|JEHU]] • [[topic JEZREEL|JEZREEL]] • [[topic JORAM|JORAM]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.18|<< 2 Kings 9:18]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.20|2 Kings 9:20 >>]]</td></tr></table>
 

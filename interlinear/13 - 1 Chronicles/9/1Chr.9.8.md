@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 9:8
+type: Verse
+kjv: "And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;"
+bsb: "Ibneiah son of Jeroham; Elah son of Uzzi, the son of Michri; Meshullam son of Shephatiah, the son of Reuel, the son of Ibnijah;"
+hebrew: "וְיִבְנְיָה֙ בֶּן־ יְרֹחָ֔ם וְאֵלָ֥ה בֶן־ עֻזִּ֖י בֶּן־ מִכְרִ֑י וּמְשֻׁלָּם֙ בֶּן־ שְׁפַטְיָ֔ה בֶּן־ רְעוּאֵ֖ל בֶּן־ יִבְנִיָּֽה׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ELAH|ELAH]]"
+- "[[topic IBNEIAH|IBNEIAH]]"
+- "[[topic IBNIJAH|IBNIJAH]]"
+- "[[topic JEROHAM|JEROHAM]]"
+- "[[topic MESHULLAM|MESHULLAM]]"
+- "[[topic MICHRI|MICHRI]]"
+- "[[topic REUEL|REUEL]]"
+- "[[topic SHEPHATIAH|SHEPHATIAH]]"
+- "[[topic UZZI|UZZI]]"
+strongs:
+- "[[H9002]]"
+- "[[H2997]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3395I]]"
+- "[[H0425K]]"
+- "[[H5813J]]"
+- "[[H4381]]"
+- "[[H4918L]]"
+- "[[H8203H]]"
+- "[[H7467H]]"
+- "[[H2998]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:8**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ibneiah the son of Jeroham, and Elah the son of Uzzi, the son of Michri, and Meshullam the son of Shephathiah, the son of Reuel, the son of Ibnijah;
 <small><sub>**BSB:**</sub></small>
 Ibneiah son of Jeroham; Elah son of Uzzi, the son of Michri; Meshullam son of Shephatiah, the son of Reuel, the son of Ibnijah;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2997\|יִבְנְיָה֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3395I\|יְרֹחָ֔ם]] [[H9002\|וְ]][[H0425K\|אֵלָ֥ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H5813J\|עֻזִּ֖י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4381\|מִכְרִ֑י]] [[H9002\|וּ]][[H4918L\|מְשֻׁלָּם֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8203H\|שְׁפַטְיָ֔ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7467H\|רְעוּאֵ֖ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2998\|יִבְנִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELAH|ELAH]] • [[topic IBNEIAH|IBNEIAH]] • [[topic IBNIJAH|IBNIJAH]] • [[topic JEROHAM|JEROHAM]] • [[topic MESHULLAM|MESHULLAM]] • [[topic MICHRI|MICHRI]] • [[topic REUEL|REUEL]] • [[topic SHEPHATIAH|SHEPHATIAH]] • [[topic UZZI|UZZI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.7|<< 1 Chronicles 9:7]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.9|1 Chronicles 9:9 >>]]</td></tr></table>
 

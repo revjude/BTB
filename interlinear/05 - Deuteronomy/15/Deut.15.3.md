@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 15:3
+type: Verse
+kjv: "Of a foreigner thou mayest exact it again: but that which is thine with thy brother thine hand shall release;"
+bsb: "You may collect something from a foreigner, but you must forgive whatever your brother owes you."
+hebrew: "אֶת־ הַנָּכְרִ֖י תִּגֹּ֑שׂ וַאֲשֶׁ֨ר יִהְיֶ֥ה לְךָ֛ אֶת־ אָחִ֖יךָ תַּשְׁמֵ֥ט יָדֶֽךָ׃"
+pericope: "[[Deut.15.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic STRANGERS|STRANGERS]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5237]]"
+- "[[H5065]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0854]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H8058]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:3**<big><big>[[Deut.15.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of a foreigner thou mayest exact [it again]: but [that] which is thine with thy brother thine hand shall release;
 <small><sub>**BSB:**</sub></small>
 You may collect something from a foreigner, but you must forgive whatever your brother owes you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5237\|נָּכְרִ֖י]] [[H5065\|תִּגֹּ֑שׂ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֨ר]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H0854\|אֶת]][[H9014\|־]] [[H0251I\|אָחִ֖י]][[H9021\|ךָ]] [[H8058\|תַּשְׁמֵ֥ט]] [[H3027G\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic CREDITOR|CREDITOR]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic STRANGERS|STRANGERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.2|<< Deuteronomy 15:2]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.4|Deuteronomy 15:4 >>]]</td></tr></table>
 

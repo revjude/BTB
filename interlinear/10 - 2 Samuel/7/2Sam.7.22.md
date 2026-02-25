@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 7:22
+type: Verse
+kjv: "Wherefore thou art great, O LORD God: for there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears."
+bsb: "How great You are, O Lord GOD! For there is none like You, and there is no God but You, according to everything we have heard with our own ears."
+hebrew: "עַל־ כֵּ֥ן גָּדַ֖לְתָּ אֲדֹנָ֣י יְהוִ֑ה כִּֽי־ אֵ֣ין כָּמ֗וֹךָ וְאֵ֤ין אֱלֹהִים֙ זֽוּלָתֶ֔ךָ בְּכֹ֥ל אֲשֶׁר־ שָׁמַ֖עְנוּ בְּאָזְנֵֽינוּ׃"
+pericope: "[[2Sam.7.18 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1431]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H2108]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H0241G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:22**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore thou art great, O LORD God: for [there is] none like thee, neither [is there any] God beside thee, according to all that we have heard with our ears.
 <small><sub>**BSB:**</sub></small>
 How great You are, O Lord GOD! For there is none like You, and there is no God but You, according to everything we have heard with our own ears.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H1431\|גָּדַ֖לְתָּ]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵ֣ין]] [[H3644G\|כָּמ֗וֹ]][[H9031\|ךָ]] [[H9002\|וְ]][[H0369\|אֵ֤ין]] [[H0430G\|אֱלֹהִים֙]] [[H2108\|זֽוּלָתֶ֔]][[H9031\|ךָ]] [[H9003\|בְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8085G\|שָׁמַ֖עְנוּ]] [[H9003\|בְּ]][[H0241G\|אָזְנֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic HUMILITY|HUMILITY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.21|<< 2 Samuel 7:21]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.23|2 Samuel 7:23 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter’s Confession of Faith
+type: Pericope
 pericope: "[[John.6.67 Peter’s Confession of Faith|Peter’s Confession of Faith]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: John
 chapter: 6
 book/chapter: "[[John.6|John 6]]"
-genre:
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 5
 verses:
 - "[[John.6.67]]"
 - "[[John.6.68]]"
@@ -23,7 +30,7 @@ verses:
 - "[[John.6.71]]"
 ---
 
-[[John.6|John 6:67 - John 6:71]]
+<small>[[John.6|John 6:67-71]]</small>
 *Peter’s Confession of Faith*
 
 [[John.6.67|67]] Then said Jesus unto the twelve, Will ye also go away?

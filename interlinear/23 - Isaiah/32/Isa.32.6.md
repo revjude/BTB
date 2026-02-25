@@ -1,8 +1,68 @@
+---
+title: Isaiah 32:6
+type: Verse
+kjv: "For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the LORD, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail."
+bsb: "For a fool speaks foolishness; his mind plots iniquity. He practices ungodliness and speaks falsely about the LORD; he leaves the hungry empty and deprives the thirsty of drink."
+hebrew: "כִּ֤י נָבָל֙ נְבָלָ֣ה יְדַבֵּ֔ר וְלִבּ֖וֹ יַעֲשֶׂה־ אָ֑וֶן לַעֲשׂ֣וֹת חֹ֗נֶף וּלְדַבֵּ֤ר אֶל־ יְהוָה֙ תּוֹעָ֔ה לְהָרִיק֙ נֶ֣פֶשׁ רָעֵ֔ב וּמַשְׁקֶ֥ה צָמֵ֖א יַחְסִֽיר׃"
+pericope: "[[Isa.32.1 A Righteous King|A Righteous King]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5036]]"
+- "[[H5039]]"
+- "[[H1696G]]"
+- "[[H9002]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H9014]]"
+- "[[H0205G]]"
+- "[[H9005]]"
+- "[[H2612]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H8442]]"
+- "[[H7324]]"
+- "[[H5315L]]"
+- "[[H7457]]"
+- "[[H4945B]]"
+- "[[H6771]]"
+- "[[H2637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 32:6**<big><big>[[Isa.32.1 A Righteous King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the vile person will speak villany, and his heart will work iniquity, to practise hypocrisy, and to utter error against the LORD, to make empty the soul of the hungry, and he will cause the drink of the thirsty to fail.
 <small><sub>**BSB:**</sub></small>
 For a fool speaks foolishness; his mind plots iniquity. He practices ungodliness and speaks falsely about the LORD; he leaves the hungry empty and deprives the thirsty of drink.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H5036\|נָבָל֙]] [[H5039\|נְבָלָ֣ה]] [[H1696G\|יְדַבֵּ֔ר]] [[H9002\|וְ]][[H3820A\|לִבּ֖]][[H9023\|וֹ]] [[H6213A\|יַעֲשֶׂה]][[H9014\|־]] [[H0205G\|אָ֑וֶן]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H2612\|חֹ֗נֶף]] [[H9002\|וּ]][[H9005\|לְ]][[H1696G\|דַבֵּ֤ר]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H8442\|תּוֹעָ֔ה]] [[H9005\|לְ]][[H7324\|הָרִיק֙]] [[H5315L\|נֶ֣פֶשׁ]] [[H7457\|רָעֵ֔ב]] [[H9002\|וּ]][[H4945B\|מַשְׁקֶ֥ה]] [[H6771\|צָמֵ֖א]] [[H2637\|יַחְסִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MALICE|MALICE]] • [[topic POOR|POOR]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.5|<< Isaiah 32:5]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.7|Isaiah 32:7 >>]]</td></tr></table>
 

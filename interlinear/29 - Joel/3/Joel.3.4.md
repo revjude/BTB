@@ -1,8 +1,67 @@
+---
+title: Joel 3:4
+type: Verse
+kjv: "Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly and speedily will I return your recompence upon your own head;"
+bsb: "Now what do you have against Me, O Tyre, Sidon, and all the regions of Philistia? Are you rendering against Me a recompense? If you retaliate against Me, I will swiftly and speedily return your recompense upon your heads."
+hebrew: "וְ֠גַם מָה־ אַתֶּ֥ם לִי֙ צֹ֣ר וְצִיד֔וֹן וְכֹ֖ל גְּלִיל֣וֹת פְּלָ֑שֶׁת הַגְּמ֗וּל אַתֶּם֙ מְשַׁלְּמִ֣ים עָלָ֔י וְאִם־ גֹּמְלִ֤ים אַתֶּם֙ עָלַ֔י קַ֣ל מְהֵרָ֔ה אָשִׁ֥יב גְּמֻלְכֶ֖ם בְּרֹאשְׁכֶֽם׃"
+pericope: "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JOEL|JOEL]]"
+- "[[topic SIDON|SIDON]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0859D]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6865]]"
+- "[[H6721H]]"
+- "[[H3605]]"
+- "[[H1552]]"
+- "[[H6429]]"
+- "[[H9008]]"
+- "[[H1576]]"
+- "[[H7999A]]"
+- "[[H5921A]]"
+- "[[H0518A]]"
+- "[[H1580]]"
+- "[[H7031]]"
+- "[[H4120]]"
+- "[[H7725G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 3:4**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly [and] speedily will I return your recompence upon your own head;
 <small><sub>**BSB:**</sub></small>
 Now what do you have against Me, O Tyre, Sidon, and all the regions of Philistia? Are you rendering against Me a recompense? If you retaliate against Me, I will swiftly and speedily return your recompense upon your heads.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H1571\|גַם]] [[H4100\|מָה]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H9005\|לִ]][[H9030\|י֙]] [[H6865\|צֹ֣ר]] [[H9002\|וְ]][[H6721H\|צִיד֔וֹן]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H1552\|גְּלִיל֣וֹת]] [[H6429\|פְּלָ֑שֶׁת]] [[H9008\|הַ]][[H1576\|גְּמ֗וּל]] [[H0859D\|אַתֶּם֙]] [[H7999A\|מְשַׁלְּמִ֣ים]] [[H5921A\|עָלָ֔]][[H9030\|י]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1580\|גֹּמְלִ֤ים]] [[H0859D\|אַתֶּם֙]] [[H5921A\|עָלַ֔]][[H9030\|י]] [[H7031\|קַ֣ל]] [[H4120\|מְהֵרָ֔ה]] [[H7725G\|אָשִׁ֥יב]] [[H1576\|גְּמֻלְ]][[H9026\|כֶ֖ם]] [[H9003\|בְּ]][[H7218A\|רֹאשְׁ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOEL|JOEL]] • [[topic SIDON|SIDON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.3|<< Joel 3:3]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.5|Joel 3:5 >>]]</td></tr></table>
 

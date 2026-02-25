@@ -1,8 +1,54 @@
+---
+title: Proverbs 10:18
+type: Verse
+kjv: "He that hideth hatred with lying lips, and he that uttereth a slander, is a fool."
+bsb: "The one who conceals hatred has lying lips, and whoever spreads slander is a fool."
+hebrew: "מְכַסֶּ֣ה שִׂ֭נְאָה שִׂפְתֵי־ שָׁ֑קֶר וּמוֹצִ֥א דִ֝בָּ֗ה ה֣וּא כְסִֽיל׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic HATRED|HATRED]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H3680]]"
+- "[[H8135]]"
+- "[[H8193G]]"
+- "[[H9014]]"
+- "[[H8267]]"
+- "[[H9002]]"
+- "[[H3318O]]"
+- "[[H1681]]"
+- "[[H1931]]"
+- "[[H3684]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:18**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that hideth hatred [with] lying lips, and he that uttereth a slander, [is] a fool.
 <small><sub>**BSB:**</sub></small>
 The one who conceals hatred has lying lips, and whoever spreads slander is a fool.
+<small><sub>**Hebrew:**</sub></small>
+[[H3680\|מְכַסֶּ֣ה]] [[H8135\|שִׂ֭נְאָה]] [[H8193G\|שִׂפְתֵי]][[H9014\|־]] [[H8267\|שָׁ֑קֶר]] [[H9002\|וּ]][[H3318O\|מוֹצִ֥א]] [[H1681\|דִ֝בָּ֗ה]] [[H1931\|ה֣וּא]] [[H3684\|כְסִֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic FOOL|FOOL]] • [[topic HATRED|HATRED]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.17|<< Proverbs 10:17]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.19|Proverbs 10:19 >>]]</td></tr></table>
 

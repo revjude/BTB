@@ -13,5 +13,5 @@
 
 → Is plotted against and killed by Hoshea [[2Kgs.15.30|2Ki 15:30]],[[2Kgs.15.31|31]]
 
-→ Prophecies against [[Isa.7.1|Isa 7:1]]-[[Isa.7.16|16]]; [[Isa.8.4|8:4]]-[[Isa.8.10|10]]
+→ Prophecies against [[Isa.7.1|Isa 7:1-16]]; [[Isa.8.4|8:4-10]]
 

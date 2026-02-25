@@ -1,8 +1,61 @@
+---
+title: Psalm 109:2
+type: Verse
+kjv: "For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue."
+bsb: "For wicked and deceitful mouths open against me; they speak against me with lying tongues."
+hebrew: "כִּ֤י פִ֪י רָשָׁ֡ע וּֽפִי־ מִ֭רְמָה עָלַ֣י פָּתָ֑חוּ דִּבְּר֥וּ אִ֝תִּ֗י לְשׁ֣וֹן שָֽׁקֶר׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6310G]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H4820]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H6605A]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H3956G]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:2**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.
 <small><sub>**BSB:**</sub></small>
 For wicked and deceitful mouths open against me; they speak against me with lying tongues.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H6310G\|פִ֪י]] [[H7563\|רָשָׁ֡ע]] [[H9002\|וּֽ]][[H6310G\|פִי]][[H9014\|־]] [[H4820\|מִ֭רְמָה]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H6605A\|פָּתָ֑חוּ]] [[H1696G\|דִּבְּר֥וּ]] [[H0854\|אִ֝תִּ֗]][[H9030\|י]] [[H3956G\|לְשׁ֣וֹן]] [[H8267\|שָֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ENEMY|ENEMY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic MALICE|MALICE]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.1|<< Psalms 109:1]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.3|Psalms 109:3 >>]]</td></tr></table>
 

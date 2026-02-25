@@ -1,8 +1,72 @@
+---
+title: Isaiah 5:12
+type: Verse
+kjv: "And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands."
+bsb: "At their feasts are the lyre and harp, tambourines and flutes and wine. They disregard the actions of the LORD and fail to see the work of His hands."
+hebrew: "וְהָיָ֨ה כִנּ֜וֹר וָנֶ֗בֶל תֹּ֧ף וְחָלִ֛יל וָיַ֖יִן מִשְׁתֵּיהֶ֑ם וְאֵ֨ת פֹּ֤עַל יְהוָה֙ לֹ֣א יַבִּ֔יטוּ וּמַעֲשֵׂ֥ה יָדָ֖יו לֹ֥א רָאֽוּ׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic HARP|HARP]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic VIOL|VIOL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3658]]"
+- "[[H9002]]"
+- "[[H5035B]]"
+- "[[H8596]]"
+- "[[H2485]]"
+- "[[H3196]]"
+- "[[H4960]]"
+- "[[H9028]]"
+- "[[H0853]]"
+- "[[H6467]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H5027]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:12**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands.
 <small><sub>**BSB:**</sub></small>
 At their feasts are the lyre and harp, tambourines and flutes and wine. They disregard the actions of the LORD and fail to see the work of His hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H3658\|כִנּ֜וֹר]] [[H9002\|וָ]][[H5035B\|נֶ֗בֶל]] [[H8596\|תֹּ֧ף]] [[H9002\|וְ]][[H2485\|חָלִ֛יל]] [[H9002\|וָ]][[H3196\|יַ֖יִן]] [[H4960\|מִשְׁתֵּי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H0853\|אֵ֨ת]] [[H6467\|פֹּ֤עַל]] [[H3068G\|יְהוָה֙]] [[H3808\|לֹ֣א]] [[H5027\|יַבִּ֔יטוּ]] [[H9002\|וּ]][[H4639G\|מַעֲשֵׂ֥ה]] [[H3027G\|יָדָ֖י]][[H9023\|ו]] [[H3808\|לֹ֥א]] [[H7200G\|רָאֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic FEASTS|FEASTS]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HAPPINESS|HAPPINESS]] • [[topic HARP|HARP]] • [[topic ISAIAH|ISAIAH]] • [[topic MUSIC|MUSIC]] • [[topic PLEASURE|PLEASURE]] • [[topic VIOL|VIOL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.11|<< Isaiah 5:11]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.13|Isaiah 5:13 >>]]</td></tr></table>
 

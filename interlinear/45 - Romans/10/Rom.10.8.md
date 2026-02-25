@@ -1,10 +1,60 @@
+---
+title: Romans 10:8
+type: Verse
+kjv: "But what saith it? The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach;"
+bsb: "But what does it say? “The word is near you; it is in your mouth and in your heart,” that is, the word of faith we are proclaiming:"
+greek: "ἀλλὰ τί λέγει; ἐγγύς σου τὸ ῥῆμά ἐστιν ἐν τῷ στόματί σου καὶ ἐν τῇ καρδίᾳ σου· τοῦτ᾽ ἔστιν τὸ ῥῆμα τῆς πίστεως ὃ κηρύσσομεν·"
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G0235]]"
+- "[[G5101]]"
+- "[[G3004G]]"
+- "[[G1451]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4750]]"
+- "[[G2532]]"
+- "[[G2588]]"
+- "[[G3778]]"
+- "[[G4102G]]"
+- "[[G3739]]"
+- "[[G2784]]"
+texts:
+- NKO
+---
+
 **Romans 10:8**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But what saith it? The word is nigh thee, [even] in thy mouth, and in thy heart: that is, the word of faith, which we preach;
 <small><sub>**BSB:**</sub></small>
 But what does it say? “The word is near you; it is in your mouth and in your heart,” that is, the word of faith we are proclaiming:
-<small><sub>**Literal:**</sub></small>
-But what says it? Near you the declaration is in the mouth of you and in the heart of you; That is the declaration <the> of faith which we proclaim;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.7|<< Romans 10:7]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.9|Romans 10:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G5101\|τί]]  [[G3004G\|λέγει;]]  [[G1451\|ἐγγύς]]  [[G4771\|σου]]  [[G3588\|τὸ]]  [[G4487\|ῥῆμά]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4750\|στόματί]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G4771\|σου·]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G3588\|τὸ]]  [[G4487\|ῥῆμα]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G3739\|ὃ]]  [[G2784\|κηρύσσομεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.7|<< Romans 10:7]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.9|Romans 10:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:8** is...
 > $\quad$ referencing: [[LXX.Deut.30.14|Deut 30:14]]

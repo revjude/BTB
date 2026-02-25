@@ -1,8 +1,61 @@
+---
+title: Exodus 6:19
+type: Verse
+kjv: "And the sons of Merari; Mahali and Mushi: these are the families of Levi according to their generations."
+bsb: "The sons of Merari were Mahli and Mushi. These were the clans of the Levites according to their records."
+hebrew: "וּבְנֵ֥י מְרָרִ֖י מַחְלִ֣י וּמוּשִׁ֑י אֵ֛לֶּה מִשְׁפְּחֹ֥ת הַלֵּוִ֖י לְתֹלְדֹתָֽם׃"
+pericope: "[[Exod.6.14 Genealogies of Moses and Aaron|Genealogies of Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic MAHLI|MAHLI]]"
+- "[[topic MUSHI|MUSHI]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H4847]]"
+- "[[H4249G]]"
+- "[[H4187]]"
+- "[[H0428]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H3878]]"
+- "[[H9005]]"
+- "[[H8435]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:19**<big><big>[[Exod.6.14 Genealogies of Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Merari; Mahali and Mushi: these [are] the families of Levi according to their generations.
 <small><sub>**BSB:**</sub></small>
 The sons of Merari were Mahli and Mushi. These were the clans of the Levites according to their records.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H4847\|מְרָרִ֖י]] [[H4249G\|מַחְלִ֣י]] [[H9002\|וּ]][[H4187\|מוּשִׁ֑י]] [[H0428\|אֵ֛לֶּה]] [[H4940\|מִשְׁפְּחֹ֥ת]] [[H9009\|הַ]][[H3878\|לֵּוִ֖י]] [[H9005\|לְ]][[H8435\|תֹלְדֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic GENEALOGY|GENEALOGY]] • [[topic MAHLI|MAHLI]] • [[topic MUSHI|MUSHI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.18|<< Exodus 6:18]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.20|Exodus 6:20 >>]]</td></tr></table>
 

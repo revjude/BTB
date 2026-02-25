@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Signs of the Coming Captivity
+type: Pericope
 pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 12
 book/chapter: "[[Ezek.12|Ezekiel 12]]"
-genre:
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 20
 verses:
 - "[[Ezek.12.1]]"
 - "[[Ezek.12.2]]"
@@ -41,7 +48,7 @@ verses:
 - "[[Ezek.12.20]]"
 ---
 
-[[Ezek.12|Ezekiel 12:1 - Ezekiel 12:20]]
+<small>[[Ezek.12|Ezekiel 12:1-20]]</small>
 *Signs of the Coming Captivity*
 
 [[Ezek.12.1|1]] The word of the LORD also came unto me, saying,

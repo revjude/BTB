@@ -1,6 +1,52 @@
+---
+title: LXX 2 Samuel 5:22
+type: Verse
+lxx: "And the Philistines proceeded yet again  to ascend, and they met in battle in the valley of the Titans."
+greek: "και προσέθεντο έτι αλλόφυλοι του αναβήναι και συνέπεσαν εν τη κοιλάδι των Τιτάνων"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPHAIM|REPHAIM]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G4369]]"
+- "[[G2089]]"
+- "[[G0246]]"
+- "[[G3588]]"
+- "[[G0305]]"
+- "[[G2532]]"
+- "[[G6081]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G8038]]"
+- "[[G3588]]"
+- "[[H7497b]]"
+---
+
 **LXX 2 Samuel 5:22** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] Philistines proceeded yet again  to ascend, and they met in battle in the valley of the Titans. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4369\|προσέθεντο]] [[G2089\|έτι]] [[G0246\|αλλόφυλοι]] [[G3588\|του]] [[G0305\|αναβήναι]] [[G2532\|και]] [[G6081\|συνέπεσαν]] [[G1722\|εν]] [[G3588\|τη]] [[G8038\|κοιλάδι]] [[G3588\|των]] [[H7497b\|Τιτάνων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHILISTINES|PHILISTINES]] • [[topic PRAYER|PRAYER]] • [[topic REPHAIM|REPHAIM]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.21|<< 2 Samuel 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.23|2 Samuel 5:23 >>]]</td></tr></table>
 
@@ -19,6 +65,6 @@ And \[the\] Philistines proceeded yet again  to ascend, and they met in battle i
 | valley | **<big>[[G8038\|κοιλάδι]]</big>** |
 | of the | **<big>[[G3588\|των]]</big>** |
 | Titans. | **<big>[[H7497b\|Τιτάνων]]</big>** |
-[[2Sam.5.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.21|<< 2 Samuel 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.23|2 Samuel 5:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.5.21|<< 2 Samuel 5:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.5.23|2 Samuel 5:23 >>]]</td></tr></table>
 
 

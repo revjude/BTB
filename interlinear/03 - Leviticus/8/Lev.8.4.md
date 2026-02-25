@@ -1,8 +1,59 @@
+---
+title: Leviticus 8:4
+type: Verse
+kjv: "And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation."
+bsb: "So Moses did as the LORD had commanded him, and the assembly gathered at the entrance to the Tent of Meeting."
+hebrew: "וַיַּ֣עַשׂ מֹשֶׁ֔ה כַּֽאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֹת֑וֹ וַתִּקָּהֵל֙ הָֽעֵדָ֔ה אֶל־ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Lev.8.1 Moses Consecrates Aaron and His Sons|Moses Consecrates Aaron and His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4872]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H6950]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:4**<big><big>[[Lev.8.1 Moses Consecrates Aaron and His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses did as the LORD commanded him; and the assembly was gathered together unto the door of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
 So Moses did as the LORD had commanded him, and the assembly gathered at the entrance to the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H4872\|מֹשֶׁ֔ה]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H6950\|תִּקָּהֵל֙]] [[H9009\|הָֽ]][[H5712\|עֵדָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.3|<< Leviticus 8:3]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.5|Leviticus 8:5 >>]]</td></tr></table>
 

@@ -1,8 +1,52 @@
+---
+title: Proverbs 3:17
+type: Verse
+kjv: "Her ways are ways of pleasantness, and all her paths are peace."
+bsb: "All her ways are pleasant, and all her paths are peaceful."
+hebrew: "דְּרָכֶ֥יהָ דַרְכֵי־ נֹ֑עַם וְֽכָל־ נְתִ֖יבוֹתֶ֣יהָ שָׁלֽוֹם׃"
+pericope: "[[Prov.3.13 The Blessings of Wisdom|The Blessings of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1870G]]"
+- "[[H9024]]"
+- "[[H9014]]"
+- "[[H5278]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5410B]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 3:17**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her ways [are] ways of pleasantness, and all her paths [are] peace.
 <small><sub>**BSB:**</sub></small>
 All her ways are pleasant, and all her paths are peaceful.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870G\|דְּרָכֶ֥י]][[H9024\|הָ]] [[H1870G\|דַרְכֵי]][[H9014\|־]] [[H5278\|נֹ֑עַם]] [[H9002\|וְֽ]][[H3605\|כָל]][[H9014\|־]] [[H5410B\|נְתִ֖יבוֹתֶ֣י]][[H9024\|הָ]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]] • [[topic PEACE|PEACE]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.16|<< Proverbs 3:16]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.18|Proverbs 3:18 >>]]</td></tr></table>
 

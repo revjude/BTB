@@ -1,10 +1,69 @@
+---
+title: Matthew 8:12
+type: Verse
+kjv: "But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth."
+bsb: "But the sons of the kingdom will be thrown into the outer darkness, where there will be weeping and gnashing of teeth.”"
+jesus_said: "But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth."
+greek: "οἱ δὲ υἱοὶ τῆς βασιλείας ἐκβληθήσονται εἰς τὸ σκότος τὸ ἐξώτερον· ἐκεῖ ἔσται ὁ κλαυθμὸς καὶ ὁ βρυγμὸς τῶν ὀδόντων."
+pericope: "[[Matt.8.5 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic GNASHING OF TEETH|GNASHING OF TEETH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HELL|HELL]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SORROW|SORROW]]"
+- "[[topic TEETH|TEETH]]"
+- "[[topic WEEPING|WEEPING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G5207]]"
+- "[[G0932]]"
+- "[[G1544]]"
+- "[[G1519]]"
+- "[[G4655]]"
+- "[[G1857]]"
+- "[[G1563]]"
+- "[[G1510]]"
+- "[[G2805]]"
+- "[[G2532]]"
+- "[[G1030]]"
+- "[[G3599]]"
+texts:
+- NKO
+---
+
 **Matthew 8:12**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.
 <small><sub>**BSB:**</sub></small>
 But the sons of the kingdom will be thrown into the outer darkness, where there will be weeping and gnashing of teeth.”
-<small><sub>**Literal:**</sub></small>
-the however sons of the kingdom will be cast out into the darkness the outer; there will be the weeping and the gnashing of the teeth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.11|<< Matthew 8:11]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.13|Matthew 8:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G5207\|υἱοὶ]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G1544\|ἐκβληθήσονται]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4655\|σκότος]]  [[G3588\|τὸ]]  [[G1857\|ἐξώτερον·]]  [[G1563\|ἐκεῖ]]  [[G1510\|ἔσται]]  [[G3588\|ὁ]]  [[G2805\|κλαυθμὸς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1030\|βρυγμὸς]]  [[G3588\|τῶν]]  [[G3599\|ὀδόντων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENTURION|CENTURION]] • [[topic COLORS|COLORS]] • [[topic DARKNESS|DARKNESS]] • [[topic GNASHING OF TEETH|GNASHING OF TEETH]] • [[topic HEATHEN|HEATHEN]] • [[topic HELL|HELL]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SERVANT|SERVANT]] • [[topic SORROW|SORROW]] • [[topic TEETH|TEETH]] • [[topic WEEPING|WEEPING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.11|<< Matthew 8:11]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.13|Matthew 8:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

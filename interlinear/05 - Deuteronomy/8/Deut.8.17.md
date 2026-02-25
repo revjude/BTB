@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 8:17
+type: Verse
+kjv: "And thou say in thine heart, My power and the might of mine hand hath gotten me this wealth."
+bsb: "You might say in your heart, “The power and strength of my hands have made this wealth for me.”"
+hebrew: "וְאָמַרְתָּ֖ בִּלְבָבֶ֑ךָ כֹּחִי֙ וְעֹ֣צֶם יָדִ֔י עָ֥שָׂה לִ֖י אֶת־ הַחַ֥יִל הַזֶּֽה׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H3581B]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H6108]]"
+- "[[H3027H]]"
+- "[[H6213I]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2428H]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:17**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou say in thine heart, My power and the might of [mine] hand hath gotten me this wealth.
 <small><sub>**BSB:**</sub></small>
 You might say in your heart, “The power and strength of my hands have made this wealth for me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H9003\|בִּ]][[H3824\|לְבָבֶ֑]][[H9021\|ךָ]] [[H3581B\|כֹּחִ]][[H9020\|י֙]] [[H9002\|וְ]][[H6108\|עֹ֣צֶם]] [[H3027H\|יָדִ֔]][[H9020\|י]] [[H6213I\|עָ֥שָׂה]] [[H9005\|לִ֖]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2428H\|חַ֥יִל]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRIDE|PRIDE]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RICHES|RICHES]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.16|<< Deuteronomy 8:16]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.18|Deuteronomy 8:18 >>]]</td></tr></table>
 

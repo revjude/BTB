@@ -1,8 +1,56 @@
+---
+title: Psalm 109:30
+type: Verse
+kjv: "I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude."
+bsb: "With my mouth I will thank the LORD profusely; I will praise Him in the presence of many."
+hebrew: "א֘וֹדֶ֤ה יְהוָ֣ה מְאֹ֣ד בְּפִ֑י וּבְת֖וֹךְ רַבִּ֣ים אֲהַֽלְלֶֽנּוּ׃"
+pericope: "[[Ps.109.1 The Song of the Slandered|The Song of the Slandered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 109
+book/chapter: "[[Ps.109|Psalm 109]]"
+chronological_order: 383
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H3034]]"
+- "[[H3068G]]"
+- "[[H3966]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H8432]]"
+- "[[H7227A]]"
+- "[[H1984B]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 109:30**<big><big>[[Ps.109.1 The Song of the Slandered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude.
 <small><sub>**BSB:**</sub></small>
 With my mouth I will thank the LORD profusely; I will praise Him in the presence of many.
+<small><sub>**Hebrew:**</sub></small>
+[[H3034\|א֘וֹדֶ֤ה]] [[H3068G\|יְהוָ֣ה]] [[H3966\|מְאֹ֣ד]] [[H9003\|בְּ]][[H6310G\|פִ֑]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H8432\|ת֖וֹךְ]] [[H7227A\|רַבִּ֣ים]] [[H1984B\|אֲהַֽלְלֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.109.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.109.29|<< Psalms 109:29]]</td><td align="center" style="border:none;">[[Ps.109|Psalms 109]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.109.31|Psalms 109:31 >>]]</td></tr></table>
 

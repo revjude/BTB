@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Be Merciful to Me, O God
+type: Pericope
 pericope: "[[Ps.56.1 Be Merciful to Me, O God|Be Merciful to Me, O God]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 56
 book/chapter: "[[Ps.56|Psalm 56]]"
-genre:
+chronological_order: 315
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 14
 verses:
 - "[[Ps.56.0]]"
 - "[[Ps.56.1]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ps.56.13]]"
 ---
 
-[[Ps.56|Psalm 56:1 - Psalm 56:13]]
+<small>[[Ps.56|Psalm 56:1-13]]</small>
 *Be Merciful to Me, O God*
 
 [[Ps.56.0|0]] To the chief Musician upon Jonathelemrechokim, Michtam of David, when the Philistines took him in Gath.

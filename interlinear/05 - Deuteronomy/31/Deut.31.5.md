@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 31:5
+type: Verse
+kjv: "And the LORD shall give them up before your face, that ye may do unto them according unto all the commandments which I have commanded you."
+bsb: "The LORD will deliver them over to you, and you must do to them exactly as I have commanded you."
+hebrew: "וּנְתָנָ֥ם יְהוָ֖ה לִפְנֵיכֶ֑ם וַעֲשִׂיתֶ֣ם לָהֶ֔ם כְּכָל־ הַמִּצְוָ֔ה אֲשֶׁ֥ר צִוִּ֖יתִי אֶתְכֶֽם׃"
+pericope: "[[Deut.31.1 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:5**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall give them up before your face, that ye may do unto them according unto all the commandments which I have commanded you.
 <small><sub>**BSB:**</sub></small>
 The LORD will deliver them over to you, and you must do to them exactly as I have commanded you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5414G\|נְתָנָ֥]][[H9038\|ם]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתֶ֣ם]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוִּ֖יתִי]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.4|<< Deuteronomy 31:4]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.6|Deuteronomy 31:6 >>]]</td></tr></table>
 

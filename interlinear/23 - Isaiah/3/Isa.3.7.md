@@ -1,8 +1,66 @@
+---
+title: Isaiah 3:7
+type: Verse
+kjv: "In that day shall he swear, saying, I will not be an healer; for in my house is neither bread nor clothing: make me not a ruler of the people."
+bsb: "On that day he will cry aloud: “I am not a healer. I have no food or clothing in my house. Do not make me leader of the people!”"
+hebrew: "יִשָּׂא֩ בַיּ֨וֹם הַה֤וּא׀ לֵאמֹר֙ לֹא־ אֶהְיֶ֣ה חֹבֵ֔שׁ וּבְבֵיתִ֕י אֵ֥ין לֶ֖חֶם וְאֵ֣ין שִׂמְלָ֑ה לֹ֥א תְשִׂימֻ֖נִי קְצִ֥ין עָֽם׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANARCHY|ANARCHY]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H5375N]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H2280]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H9020]]"
+- "[[H0369]]"
+- "[[H3899H]]"
+- "[[H8071]]"
+- "[[H7760A]]"
+- "[[H9030]]"
+- "[[H7101]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:7**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall he swear, saying, I will not be an healer; for in my house [is] neither bread nor clothing: make me not a ruler of the people.
 <small><sub>**BSB:**</sub></small>
 On that day he will cry aloud: “I am not a healer. I have no food or clothing in my house. Do not make me leader of the people!”
+<small><sub>**Hebrew:**</sub></small>
+[[H5375N\|יִשָּׂא֩]] [[H9003\|בַ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֤וּא]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹר֙]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|אֶהְיֶ֣ה]] [[H2280\|חֹבֵ֔שׁ]] [[H9002\|וּ]][[H9003\|בְ]][[H1004B\|בֵיתִ֕]][[H9020\|י]] [[H0369\|אֵ֥ין]] [[H3899H\|לֶ֖חֶם]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H8071\|שִׂמְלָ֑ה]] [[H3808\|לֹ֥א]] [[H7760A\|תְשִׂימֻ֖]][[H9030\|נִי]] [[H7101\|קְצִ֥ין]] [[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANARCHY|ANARCHY]] • [[topic FAMINE|FAMINE]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.6|<< Isaiah 3:6]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.8|Isaiah 3:8 >>]]</td></tr></table>
 

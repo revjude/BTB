@@ -1,8 +1,52 @@
+---
+title: Proverbs 8:15
+type: Verse
+kjv: "By me kings reign, and princes decree justice."
+bsb: "By me kings reign, and rulers enact just laws;"
+hebrew: "בִּ֭י מְלָכִ֣ים יִמְלֹ֑כוּ וְ֝רוֹזְנִ֗ים יְחֹ֣קְקוּ צֶֽדֶק׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H4428G]]"
+- "[[H4427A]]"
+- "[[H9002]]"
+- "[[H7336]]"
+- "[[H2710]]"
+- "[[H6664G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:15**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By me kings reign, and princes decree justice.
 <small><sub>**BSB:**</sub></small>
 By me kings reign, and rulers enact just laws;
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ֭]][[H9030\|י]] [[H4428G\|מְלָכִ֣ים]] [[H4427A\|יִמְלֹ֑כוּ]] [[H9002\|וְ֝]][[H7336\|רוֹזְנִ֗ים]] [[H2710\|יְחֹ֣קְקוּ]] [[H6664G\|צֶֽדֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.14|<< Proverbs 8:14]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.16|Proverbs 8:16 >>]]</td></tr></table>
 

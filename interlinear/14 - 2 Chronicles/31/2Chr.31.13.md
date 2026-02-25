@@ -1,8 +1,85 @@
+---
+title: 2 Chronicles 31:13
+type: Verse
+kjv: "And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and Eliel, and Ismachiah, and Mahath, and Benaiah, were overseers under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah the king, and Azariah the ruler of the house of God."
+bsb: "Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, and Benaiah were overseers under the authority of Conaniah and his brother Shimei, by appointment of King Hezekiah and of Azariah the chief official of the house of God."
+hebrew: "וִֽיחִיאֵ֡ל וַ֠עֲזַזְיָהוּ וְנַ֨חַת וַעֲשָׂהאֵ֜ל וִֽירִימ֤וֹת וְיוֹזָבָד֙ וֶאֱלִיאֵ֣ל וְיִסְמַכְיָ֔הוּ וּמַ֖חַת וּבְנָיָ֑הוּ פְּקִידִ֗ים מִיַּ֤ד כָּֽנַנְיָ֙הוּ֙ וְשִׁמְעִ֣י אָחִ֔יו בְּמִפְקַד֙ יְחִזְקִיָּ֣הוּ הַמֶּ֔לֶךְ וַעֲזַרְיָ֖הוּ נְגִ֥יד בֵּית־ הָאֱלֹהִֽים׃"
+pericope: "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAHEL|ASAHEL]]"
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic AZAZIAH|AZAZIAH]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONONIAH|CONONIAH]]"
+- "[[topic ELIEL|ELIEL]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISMACHIAH|ISMACHIAH]]"
+- "[[topic JEHIEL|JEHIEL]]"
+- "[[topic JOZABAD|JOZABAD]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MAHATH|MAHATH]]"
+- "[[topic NAHATH|NAHATH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHIMEI|SHIMEI]]"
+strongs:
+- "[[H9002]]"
+- "[[H3171L]]"
+- "[[H5812I]]"
+- "[[H5184H]]"
+- "[[H6214I]]"
+- "[[H3406O]]"
+- "[[H3107K]]"
+- "[[H0447N]]"
+- "[[H3253]]"
+- "[[H4287H]]"
+- "[[H1141M]]"
+- "[[H6496]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H3562]]"
+- "[[H8096Q]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4662H]]"
+- "[[H2396G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5838P]]"
+- "[[H5057]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Chronicles 31:13**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and Eliel, and Ismachiah, and Mahath, and Benaiah, [were] overseers under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah the king, and Azariah the ruler of the house of God.
 <small><sub>**BSB:**</sub></small>
 Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, and Benaiah were overseers under the authority of Conaniah and his brother Shimei, by appointment of King Hezekiah and of Azariah the chief official of the house of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִֽ]][[H3171L\|יחִיאֵ֡ל]] [[H9002\|וַ֠]][[H5812I\|עֲזַזְיָהוּ]] [[H9002\|וְ]][[H5184H\|נַ֨חַת]] [[H9002\|וַ]][[H6214I\|עֲשָׂהאֵ֜ל]] [[H9002\|וִֽ]][[H3406O\|ירִימ֤וֹת]] [[H9002\|וְ]][[H3107K\|יוֹזָבָד֙]] [[H9002\|וֶ]][[H0447N\|אֱלִיאֵ֣ל]] [[H9002\|וְ]][[H3253\|יִסְמַכְיָ֔הוּ]] [[H9002\|וּ]][[H4287H\|מַ֖חַת]] [[H9002\|וּ]][[H1141M\|בְנָיָ֑הוּ]] [[H6496\|פְּקִידִ֗ים]] [[H9006\|מִ]][[H3027G\|יַּ֤ד]] [[H3562\|כָּֽנַנְיָ֙הוּ֙]] [[H9002\|וְ]][[H8096Q\|שִׁמְעִ֣י]] [[H0251G\|אָחִ֔י]][[H9023\|ו]] [[H9003\|בְּ]][[H4662H\|מִפְקַד֙]] [[H2396G\|יְחִזְקִיָּ֣הוּ]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וַ]][[H5838P\|עֲזַרְיָ֖הוּ]] [[H5057\|נְגִ֥יד]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAHEL|ASAHEL]] • [[topic AZARIAH|AZARIAH]] • [[topic AZAZIAH|AZAZIAH]] • [[topic BENAIAH|BENAIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONONIAH|CONONIAH]] • [[topic ELIEL|ELIEL]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISMACHIAH|ISMACHIAH]] • [[topic JEHIEL|JEHIEL]] • [[topic JOZABAD|JOZABAD]] • [[topic LEVITES|LEVITES]] • [[topic MAHATH|MAHATH]] • [[topic NAHATH|NAHATH]] • [[topic PRIEST|PRIEST]] • [[topic SHIMEI|SHIMEI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.12|<< 2 Chronicles 31:12]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.14|2 Chronicles 31:14 >>]]</td></tr></table>
 

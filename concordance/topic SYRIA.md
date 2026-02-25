@@ -25,11 +25,11 @@
 
 → Conquest of
 
-- By David [[2Sam.8.3|2Sa 8:3]]-[[2Sam.8.13|13]]
+- By David [[2Sam.8.3|2Sa 8:3-13]]
 
 - By Jeroboam  [[2Kgs.14.25|2Ki 14:25]],[[2Kgs.14.28|28]]
 
-- By Tiglath-pileser, king of Assyria [[2Kgs.16.7|2Ki 16:7]]-[[2Kgs.16.9|9]]; [[2Kgs.18.33|18:33]],[[2Kgs.18.34|34]]
+- By Tiglath-pileser, king of Assyria [[2Kgs.16.7|2Ki 16:7-9]]; [[2Kgs.18.33|18:33]],[[2Kgs.18.34|34]]
 
 → People of, colonized in Samaria by the king of Assyria [[2Kgs.17.24|2Ki 17:24]]
 
@@ -41,7 +41,7 @@
 
 → The fame of Jesus extended over [[Matt.4.24|Mt 4:24]]
 
-→ Paul goes to, with letters to apprehend the Christians; is converted  and begins his evangelistic ministry [[Acts.9.1|Ac 9:1]]-[[Acts.9.31|31]]
+→ Paul goes to, with letters to apprehend the Christians; is converted  and begins his evangelistic ministry [[Acts.9.1|Ac 9:1-31]]
 
 → See [[topic PAUL|PAUL]]
 
@@ -55,5 +55,5 @@
 
 - See [[topic ISRAEL|ISRAEL]]
 
-→ Prophecies concerning [[Isa.7.8|Isa 7:8]]-[[Isa.7.16|16]]; [[Isa.8.4|8:4]]-[[Isa.8.7|7]]; [[Isa.17.1|17:1]]-[[Isa.17.3|3]]; [[Jer.1.15|Jer  1:15]]; [[Jer.49.23|49:23]]-[[Jer.49.27|27]]; [[Amos.1.3|Am 1:3]]-[[Amos.1.5|5]]; [[Zech.9.1|Zec 9:1]]
+→ Prophecies concerning [[Isa.7.8|Isa 7:8-16]]; [[Isa.8.4|8:4-7]]; [[Isa.17.1|17:1-3]]; [[Jer.1.15|Jer  1:15]]; [[Jer.49.23|49:23-27]]; [[Amos.1.3|Am 1:3-5]]; [[Zech.9.1|Zec 9:1]]
 

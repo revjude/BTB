@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lord of the Sabbath
+type: Pericope
 pericope: "[[Mark.2.23 The Lord of the Sabbath|The Lord of the Sabbath]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Mark
 chapter: 2
 book/chapter: "[[Mark.2|Mark 2]]"
-genre:
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Mark.2.23]]"
 - "[[Mark.2.24]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mark.2.28]]"
 ---
 
-[[Mark.2|Mark 2:23 - Mark 2:28]]
+<small>[[Mark.2|Mark 2:23-28]]</small>
 *The Lord of the Sabbath*
 
 [[Mark.2.23|23]] And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.

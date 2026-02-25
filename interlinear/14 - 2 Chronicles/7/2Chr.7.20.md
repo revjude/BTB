@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 7:20
+type: Verse
+kjv: "Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it to be a proverb and a byword among all nations."
+bsb: "then I will uproot Israel from the soil I have given them, and I will banish from My presence this temple I have sanctified for My Name. I will make it an object of scorn and ridicule among all the peoples."
+hebrew: "וּנְתַשְׁתִּ֗ים מֵעַ֤ל אַדְמָתִי֙ אֲשֶׁ֣ר נָתַ֣תִּי לָהֶ֔ם וְאֶת־ הַבַּ֤יִת הַזֶּה֙ אֲשֶׁ֣ר הִקְדַּ֣שְׁתִּי לִשְׁמִ֔י אַשְׁלִ֖יךְ מֵעַ֣ל פָּנָ֑י וְאֶתְּנֶ֛נּוּ לְמָשָׁ֥ל וְלִשְׁנִינָ֖ה בְּכָל־ הָעַמִּֽים׃"
+pericope: "[[2Chr.7.11 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 7
+book/chapter: "[[2Chr.7|2 Chronicles 7]]"
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5428]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0127G]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H2088]]"
+- "[[H6942G]]"
+- "[[H8034]]"
+- "[[H7993]]"
+- "[[H6440G]]"
+- "[[H5414I]]"
+- "[[H9033]]"
+- "[[H4912]]"
+- "[[H8148]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 7:20**<big><big>[[2Chr.7.11 The LORD’s Response to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it [to be] a proverb and a byword among all nations.
 <small><sub>**BSB:**</sub></small>
 then I will uproot Israel from the soil I have given them, and I will banish from My presence this temple I have sanctified for My Name. I will make it an object of scorn and ridicule among all the peoples.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5428\|נְתַשְׁתִּ֗י]][[H9038\|ם]] [[H9006\|מֵ]][[H5921A\|עַ֤ל]] [[H0127G\|אַדְמָתִ]][[H9020\|י֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָתַ֣תִּי]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֤יִת]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6942G\|הִקְדַּ֣שְׁתִּי]] [[H9005\|לִ]][[H8034\|שְׁמִ֔]][[H9020\|י]] [[H7993\|אַשְׁלִ֖יךְ]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H6440G\|פָּנָ֑]][[H9020\|י]] [[H9002\|וְ]][[H5414I\|אֶתְּנֶ֛]][[H9033\|נּוּ]] [[H9005\|לְ]][[H4912\|מָשָׁ֥ל]] [[H9002\|וְ]][[H9005\|לִ]][[H8148\|שְׁנִינָ֖ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.7.19|<< 2 Chronicles 7:19]]</td><td align="center" style="border:none;">[[2Chr.7|2 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.7.21|2 Chronicles 7:21 >>]]</td></tr></table>
 

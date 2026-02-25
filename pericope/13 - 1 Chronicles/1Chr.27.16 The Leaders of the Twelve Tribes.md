@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Leaders of the Twelve Tribes
+type: Pericope
 pericope: "[[1Chr.27.16 The Leaders of the Twelve Tribes|The Leaders of the Twelve Tribes]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 27
 book/chapter: "[[1Chr.27|1 Chronicles 27]]"
-genre:
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 9
 verses:
 - "[[1Chr.27.16]]"
 - "[[1Chr.27.17]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Chr.27.24]]"
 ---
 
-[[1Chr.27|1 Chronicles 27:16 - 1 Chronicles 27:24]]
+<small>[[1Chr.27|1 Chronicles 27:16-24]]</small>
 *The Leaders of the Twelve Tribes*
 
 [[1Chr.27.16|16]] Furthermore over the tribes of Israel: the ruler of the Reubenites \[was\] Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:

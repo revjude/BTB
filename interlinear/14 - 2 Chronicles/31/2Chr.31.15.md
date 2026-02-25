@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 31:15
+type: Verse
+kjv: "And next him were Eden, and Miniamin, and Jeshua, and Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their set office, to give to their brethren by courses, as well to the great as to the small:"
+bsb: "Under his authority, Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah faithfully distributed portions to their fellow priests in their cities, according to their divisions, old and young alike."
+hebrew: "וְעַל־ יָד֡וֹ עֵ֣דֶן וּ֠מִנְיָמִן וְיֵשׁ֨וּעַ וּֽשְׁמַֽעְיָ֜הוּ אֲמַרְיָ֧הוּ וּשְׁכַנְיָ֛הוּ בְּעָרֵ֥י הַכֹּהֲנִ֖ים בֶּאֱמוּנָ֑ה לָתֵ֤ת לַאֲחֵיהֶם֙ בְּמַחְלְק֔וֹת כַּגָּד֖וֹל כַּקָּטָֽן׃"
+pericope: "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AMARIAH|AMARIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic EDEN|EDEN]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MINIAMIN|MINIAMIN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHECANIAH|SHECANIAH]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5731G]]"
+- "[[H4509G]]"
+- "[[H3442H]]"
+- "[[H8098L]]"
+- "[[H0568K]]"
+- "[[H7935I]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0530]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H4256]]"
+- "[[H9004]]"
+- "[[H1419A]]"
+- "[[H6996A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 31:15**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And next him [were] Eden, and Miniamin, and Jeshua, and Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in [their] set office, to give to their brethren by courses, as well to the great as to the small:
 <small><sub>**BSB:**</sub></small>
 Under his authority, Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah faithfully distributed portions to their fellow priests in their cities, according to their divisions, old and young alike.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יָד֡]][[H9023\|וֹ]] [[H5731G\|עֵ֣דֶן]] [[H9002\|וּ֠]][[H4509G\|מִנְיָמִן]] [[H9002\|וְ]][[H3442H\|יֵשׁ֨וּעַ]] [[H9002\|וּֽ]][[H8098L\|שְׁמַֽעְיָ֜הוּ]] [[H0568K\|אֲמַרְיָ֧הוּ]] [[H9002\|וּ]][[H7935I\|שְׁכַנְיָ֛הוּ]] [[H9003\|בְּ]][[H5892B\|עָרֵ֥י]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9003\|בֶּ]][[H0530\|אֱמוּנָ֑ה]] [[H9005\|לָ]][[H5414G\|תֵ֤ת]] [[H9005\|לַ]][[H0251H\|אֲחֵי]][[H9028\|הֶם֙]] [[H9003\|בְּ]][[H4256\|מַחְלְק֔וֹת]] [[H9004\|כַּ]][[H1419A\|גָּד֖וֹל]] [[H9004\|כַּ]][[H6996A\|קָּטָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMARIAH|AMARIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic EDEN|EDEN]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JESHUA|JESHUA]] • [[topic LEVITES|LEVITES]] • [[topic MINIAMIN|MINIAMIN]] • [[topic PRIEST|PRIEST]] • [[topic SHECANIAH|SHECANIAH]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.14|<< 2 Chronicles 31:14]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.16|2 Chronicles 31:16 >>]]</td></tr></table>
 

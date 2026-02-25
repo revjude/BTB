@@ -1,8 +1,65 @@
+---
+title: Genesis 19:4
+type: Verse
+kjv: "But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:"
+bsb: "Before they had gone to bed, all the men of the city of Sodom, both young and old, surrounded the house."
+hebrew: "טֶרֶם֮ יִשְׁכָּבוּ֒ וְאַנְשֵׁ֨י הָעִ֜יר אַנְשֵׁ֤י סְדֹם֙ נָסַ֣בּוּ עַל־ הַבַּ֔יִת מִנַּ֖עַר וְעַד־ זָקֵ֑ן כָּל־ הָעָ֖ם מִקָּצֶֽה׃"
+pericope: "[[Gen.19.1 Lot Welcomes the Angels|Lot Welcomes the Angels]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+strongs:
+- "[[H2962]]"
+- "[[H7901G]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H5467]]"
+- "[[H5437H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9006]]"
+- "[[H5288]]"
+- "[[H5704]]"
+- "[[H2205H]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H7097A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:4**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But before they lay down, the men of the city, [even] the men of Sodom, compassed the house round, both old and young, all the people from every quarter:
 <small><sub>**BSB:**</sub></small>
 Before they had gone to bed, all the men of the city of Sodom, both young and old, surrounded the house.
+<small><sub>**Hebrew:**</sub></small>
+[[H2962\|טֶרֶם֮]] [[H7901G\|יִשְׁכָּבוּ֒]] [[H9002\|וְ]][[H0582\|אַנְשֵׁ֨י]] [[H9009\|הָ]][[H5892B\|עִ֜יר]] [[H0582\|אַנְשֵׁ֤י]] [[H5467\|סְדֹם֙]] [[H5437H\|נָסַ֣בּוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H9006\|מִ]][[H5288\|נַּ֖עַר]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H2205H\|זָקֵ֑ן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9006\|מִ]][[H7097A\|קָּצֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.3|<< Genesis 19:3]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.5|Genesis 19:5 >>]]</td></tr></table>
 

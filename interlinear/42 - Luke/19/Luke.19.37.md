@@ -1,10 +1,68 @@
+---
+title: Luke 19:37
+type: Verse
+kjv: "And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;"
+bsb: "And as He approached the descent from the Mount of Olives, the whole multitude of disciples began to praise God joyfully in a loud voice for all the miracles they had seen:"
+greek: "Ἐγγίζοντος δὲ αὐτοῦ ἤδη πρὸς τῇ καταβάσει τοῦ ὄρους τῶν ἐλαιῶν ἤρξαντο ἅπαν τὸ πλῆθος τῶν μαθητῶν χαίροντες αἰνεῖν τὸν θεὸν φωνῇ μεγάλῃ περὶ πασῶν ὧν εἶδον δυνάμεων"
+pericope: "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SHOUTING|SHOUTING]]"
+strongs:
+- "[[G1448]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2235]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2600]]"
+- "[[G3735]]"
+- "[[G1638]]"
+- "[[G0757]]"
+- "[[G0537]]"
+- "[[G4128]]"
+- "[[G3101]]"
+- "[[G5463]]"
+- "[[G0134]]"
+- "[[G2316]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G4012]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G1411]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 19:37**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was come nigh, even now at the descent of the mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen;
 <small><sub>**BSB:**</sub></small>
 And as He approached the descent from the Mount of Olives, the whole multitude of disciples began to praise God joyfully in a loud voice for all the miracles they had seen:
-<small><sub>**Literal:**</sub></small>
-When is drawing near then he already at the descent of the Mount <the> of Olives began all the multitude of the disciples rejoicing to praise <the> God in a voice loud for all which they had seen [the] mighty works<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.36|<< Luke 19:36]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.38|Luke 19:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1448\|Ἐγγίζοντος]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G2235\|ἤδη]]  [[G4314\|πρὸς]]  [[G3588\|τῇ]]  [[G2600\|καταβάσει]]  [[G3588\|τοῦ]]  [[G3735\|ὄρους]]  [[G3588\|τῶν]]  [[G1638\|ἐλαιῶν]]  [[G0757\|ἤρξαντο]]  [[G0537\|ἅπαν]]  [[G3588\|τὸ]]  [[G4128\|πλῆθος]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G5463\|χαίροντες]]  [[G0134\|αἰνεῖν]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ]]  [[G4012\|περὶ]]  [[G3956\|πασῶν]]  [[G3739\|ὧν]]  [[G1492H\|εἶδον]]  [[G1411\|δυνάμεων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OLIVES, MOUNT OF|OLIVES, MOUNT OF]] • [[topic PRAISE|PRAISE]] • [[topic SHOUTING|SHOUTING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.36|<< Luke 19:36]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.38|Luke 19:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,64 @@
+---
+title: Jeremiah 36:20
+type: Verse
+kjv: "And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king."
+bsb: "So the officials went to the king in the courtyard. And having stored the scroll in the chamber of Elishama the scribe, they reported everything to the king."
+hebrew: "וַיָּבֹ֤אוּ אֶל־ הַמֶּ֙לֶךְ֙ חָצֵ֔רָה וְאֶת־ הַמְּגִלָּ֣ה הִפְקִ֔דוּ בְּלִשְׁכַּ֖ת אֱלִישָׁמָ֣ע הַסֹּפֵ֑ר וַיַּגִּ֙ידוּ֙ בְּאָזְנֵ֣י הַמֶּ֔לֶךְ אֵ֖ת כָּל־ הַדְּבָרִֽים׃"
+pericope: "[[Jer.36.20 Jehoiakim Burns the Scroll|Jehoiakim Burns the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2691A]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H4039]]"
+- "[[H6485L]]"
+- "[[H9003]]"
+- "[[H3957]]"
+- "[[H0476L]]"
+- "[[H5608B]]"
+- "[[H5046]]"
+- "[[H0241I]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:20**<big><big>[[Jer.36.20 Jehoiakim Burns the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king.
 <small><sub>**BSB:**</sub></small>
 So the officials went to the king in the courtyard. And having stored the scroll in the chamber of Elishama the scribe, they reported everything to the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H2691A\|חָצֵ֔רָ]][[H9011\|ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4039\|מְּגִלָּ֣ה]] [[H6485L\|הִפְקִ֔דוּ]] [[H9003\|בְּ]][[H3957\|לִשְׁכַּ֖ת]] [[H0476L\|אֱלִישָׁמָ֣ע]] [[H9009\|הַ]][[H5608B\|סֹּפֵ֑ר]] [[H9001\|וַ]][[H5046\|יַּגִּ֙ידוּ֙]] [[H9003\|בְּ]][[H0241I\|אָזְנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.19|<< Jeremiah 36:19]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.21|Jeremiah 36:21 >>]]</td></tr></table>
 

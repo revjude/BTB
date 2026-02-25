@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 3:4
+type: Verse
+kjv: "For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?"
+bsb: "For when one of you says, “I follow Paul,” and another, “I follow Apollos,” are you not mere men?"
+greek: "ὅταν γὰρ λέγῃ τις· ἐγὼ μέν εἰμι Παύλου, ἕτερος δὲ ἐγὼ Ἀπολλῶ, οὐκ ἄνθρωποί ἐστε;¶"
+pericope: "[[1Cor.3.1 God’s Fellow Workers|God’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 3
+book/chapter: "[[1Cor.3|1 Corinthians 3]]"
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic APOLLOS|APOLLOS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic DISSENSION|DISSENSION]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G3752]]"
+- "[[G1063]]"
+- "[[G3004G]]"
+- "[[G5100]]"
+- "[[G1473]]"
+- "[[G3303]]"
+- "[[G1510]]"
+- "[[G3972G]]"
+- "[[G2087]]"
+- "[[G1161]]"
+- "[[G0625]]"
+- "[[G3756]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 3:4**<big><big>[[1Cor.3.1 God’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For while one saith, I am of Paul; and another, I [am] of Apollos; are ye not carnal?
 <small><sub>**BSB:**</sub></small>
 For when one of you says, “I follow Paul,” and another, “I follow Apollos,” are you not mere men?
-<small><sub>**Literal:**</sub></small>
-When for may say one; I myself indeed am of Paul, another however I myself of Apollos, surely human are you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.3|<< 1 Corinthians 3:3]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.5|1 Corinthians 3:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|ὅταν]]  [[G1063\|γὰρ]]  [[G3004G\|λέγῃ]]  [[G5100\|τις·]]  [[G1473\|ἐγὼ]]  [[G3303\|μέν]]  [[G1510\|εἰμι]]  [[G3972G\|Παύλου,]]  [[G2087\|ἕτερος]]  [[G1161\|δὲ]]  [[G1473\|ἐγὼ]]  [[G0625\|Ἀπολλῶ,]]  [[G3756\|οὐκ]]  [[G0444\|ἄνθρωποί]]  [[G1510\|ἐστε;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOLLOS|APOLLOS]] • [[topic CHURCH|CHURCH]] • [[topic CORINTH|CORINTH]] • [[topic DISSENSION|DISSENSION]] • [[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.3.3|<< 1 Corinthians 3:3]]</td><td align="center" style="border:none;">[[1Cor.3|1 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.3.5|1 Corinthians 3:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

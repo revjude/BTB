@@ -1,10 +1,67 @@
+---
+title: 2 Peter 2:1
+type: Verse
+kjv: "But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction."
+bsb: "Now there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them—bringing swift destruction on themselves."
+greek: "Ἐγένοντο δὲ καὶ ψευδοπροφῆται ἐν τῷ λαῷ ὡς καὶ ἐν ὑμῖν ἔσονται ψευδοδιδάσκαλοι, οἵτινες παρεισάξουσιν αἱρέσεις ἀπωλείας καὶ τὸν ἀγοράσαντα αὐτοὺς δεσπότην ἀρνούμενοι, ἐπάγοντες ἑαυτοῖς ταχινὴν ἀπώλειαν·"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G5578]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G5613]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G5572]]"
+- "[[G3748]]"
+- "[[G3919]]"
+- "[[G0139]]"
+- "[[G0684]]"
+- "[[G0059]]"
+- "[[G0846]]"
+- "[[G1203]]"
+- "[[G0720]]"
+- "[[G1863]]"
+- "[[G1438]]"
+- "[[G5031]]"
+texts:
+- NKO
+---
+
 **2 Peter 2:1**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.
 <small><sub>**BSB:**</sub></small>
 Now there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them—bringing swift destruction on themselves.
-<small><sub>**Literal:**</sub></small>
-There were however also false prophets among the people as also among you there will be false teachers, who will stealthily introduce heresies destructive even the having bought them Master denying, bringing upon themselves imminent destruction;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.21|<< 2 Peter 1:21]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.2|2 Peter 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένοντο]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G5578\|ψευδοπροφῆται]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G5613\|ὡς]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1510\|ἔσονται]]  [[G5572\|ψευδοδιδάσκαλοι,]]  [[G3748\|οἵτινες]]  [[G3919\|παρεισάξουσιν]]  [[G0139\|αἱρέσεις]]  [[G0684\|ἀπωλείας]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G0059\|ἀγοράσαντα]]  [[G0846\|αὐτοὺς]]  [[G1203\|δεσπότην]]  [[G0720\|ἀρνούμενοι,]]  [[G1863\|ἐπάγοντες]]  [[G1438\|ἑαυτοῖς]]  [[G5031\|ταχινὴν]]  [[G0684\|ἀπώλειαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic DOCTRINES|DOCTRINES]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.21|<< 2 Peter 1:21]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.2|2 Peter 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

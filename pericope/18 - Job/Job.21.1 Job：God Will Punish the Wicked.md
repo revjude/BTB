@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job：God Will Punish the Wicked
+type: Pericope
 pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
-verse_count: 34
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 21
 book/chapter: "[[Job.21|Job 21]]"
-genre:
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 34
 verses:
 - "[[Job.21.1]]"
 - "[[Job.21.2]]"
@@ -53,7 +60,7 @@ verses:
 - "[[Job.21.34]]"
 ---
 
-[[Job.21|Job 21:1 - Job 21:34]]
+<small>[[Job.21|Job 21:1-34]]</small>
 *Job：God Will Punish the Wicked*
 
 [[Job.21.1|1]] But Job answered and said,

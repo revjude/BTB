@@ -1,10 +1,57 @@
+---
+title: Mark 14:8
+type: Verse
+kjv: "She hath done what she could: she is come aforehand to anoint my body to the burying."
+bsb: "She has done what she could to anoint My body in advance of My burial."
+jesus_said: "She hath done what she could: she is come aforehand to anoint my body to the burying."
+greek: "ὃ ἔσχεν αὕτη ἐποίησεν, προέλαβεν μυρίσαι τὸ σῶμά μου εἰς τὸν ἐνταφιασμόν."
+pericope: "[[Mark.14.3 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G4301]]"
+- "[[G3462]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G1780]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **Mark 14:8**<big><big>[[Mark.14.3 Jesus Anointed at Bethany|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 She hath done what she could: she is come aforehand to anoint my body to the burying.
 <small><sub>**BSB:**</sub></small>
 She has done what she could to anoint My body in advance of My burial.
-<small><sub>**Literal:**</sub></small>
-What she had this she performed, She came beforehand to anoint the body of Mine for the burial.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.7|<< Mark 14:7]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.9|Mark 14:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G2192\|ἔσχεν]]  [[G3778\|αὕτη]]  [[G4160G\|ἐποίησεν,]]  [[G4301\|προέλαβεν]]  [[G3462\|μυρίσαι]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G3165\|μου]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G1780\|ἐνταφιασμόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.7|<< Mark 14:7]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.9|Mark 14:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

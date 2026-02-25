@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 24:1
+type: Verse
+kjv: "Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar."
+bsb: "These were the divisions of the descendants of Aaron. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar."
+hebrew: "וְלִבְנֵ֥י אַהֲרֹ֖ן מַחְלְקוֹתָ֑ם בְּנֵ֣י אַהֲרֹ֔ן נָדָב֙ וַאֲבִיה֔וּא אֶלְעָזָ֖ר וְאִיתָמָֽר׃"
+pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H4256]]"
+- "[[H9028]]"
+- "[[H1121A]]"
+- "[[H5070G]]"
+- "[[H0030]]"
+- "[[H0499G]]"
+- "[[H0385]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:1**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now [these are] the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 <small><sub>**BSB:**</sub></small>
 These were the divisions of the descendants of Aaron. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H0175\|אַהֲרֹ֖ן]] [[H4256\|מַחְלְקוֹתָ֑]][[H9028\|ם]] [[H1121A\|בְּנֵ֣י]] [[H0175\|אַהֲרֹ֔ן]] [[H5070G\|נָדָב֙]] [[H9002\|וַ]][[H0030\|אֲבִיה֔וּא]] [[H0499G\|אֶלְעָזָ֖ר]] [[H9002\|וְ]][[H0385\|אִיתָמָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic ITHAMAR|ITHAMAR]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.32|<< 1 Chronicles 23:32]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.2|1 Chronicles 24:2 >>]]</td></tr></table>
 

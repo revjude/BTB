@@ -1,10 +1,52 @@
+---
+title: Galatians 2:7
+type: Verse
+kjv: "But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as the gospel of the circumcision was unto Peter;"
+bsb: "On the contrary, they saw that I had been entrusted to preach the gospel to the uncircumcised, just as Peter had been to the circumcised."
+greek: "ἀλλὰ τοὐναντίον, ἰδόντες ὅτι πεπίστευμαι τὸ εὐαγγέλιον τῆς ἀκροβυστίας καθὼς Πέτρος τῆς περιτομῆς,"
+pericope: "[[Gal.2.1 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G0235]]"
+- "[[G5121]]"
+- "[[G1492H]]"
+- "[[G3754G]]"
+- "[[G4100]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G0203]]"
+- "[[G2531]]"
+- "[[G4074G]]"
+- "[[G4061]]"
+texts:
+- NKO
+---
+
 **Galatians 2:7**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But contrariwise, when they saw that the gospel of the uncircumcision was committed unto me, as [the gospel] of the circumcision [was] unto Peter;
 <small><sub>**BSB:**</sub></small>
 On the contrary, they saw that I had been entrusted to preach the gospel to the uncircumcised, just as Peter had been to the circumcised.
-<small><sub>**Literal:**</sub></small>
-But on the contrary, having seen that I have been entrusted with the gospel of the uncircumcision even as Peter [with that] of the circumcision<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.6|<< Galatians 2:6]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.8|Galatians 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G5121\|τοὐναντίον,]]  [[G1492H\|ἰδόντες]]  [[G3754G\|ὅτι]]  [[G4100\|πεπίστευμαι]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τῆς]]  [[G0203\|ἀκροβυστίας]]  [[G2531\|καθὼς]]  [[G4074G\|Πέτρος]]  [[G3588\|τῆς]]  [[G4061\|περιτομῆς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.6|<< Galatians 2:6]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.8|Galatians 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,78 @@
+---
+title: Joshua 14:12
+type: Verse
+kjv: "Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the LORD will be with me, then I shall be able to drive them out, as the LORD said."
+bsb: "Now therefore give me this hill country that the LORD promised me on that day, for you yourself heard then that the Anakim were there, with great and fortified cities. Perhaps with the LORD’s help I will drive them out, as the LORD has spoken.”"
+hebrew: "וְעַתָּ֗ה תְּנָה־ לִּי֙ אֶת־ הָהָ֣ר הַזֶּ֔ה אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה בַּיּ֣וֹם הַה֑וּא כִּ֣י אַתָּֽה־ שָׁמַעְתָּ֩ בַיּ֨וֹם הַה֜וּא כִּֽי־ עֲנָקִ֣ים שָׁ֗ם וְעָרִים֙ גְּדֹל֣וֹת בְּצֻר֔וֹת אוּלַ֨י יְהוָ֤ה אוֹתִי֙ וְה֣וֹרַשְׁתִּ֔ים כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה׃"
+pericope: "[[Josh.14.6 Caleb Requests Hebron|Caleb Requests Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ANAKIM|ANAKIM]]"
+- "[[topic CALEB|CALEB]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H2088]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H8085G]]"
+- "[[H6062]]"
+- "[[H8033G]]"
+- "[[H5892B]]"
+- "[[H1419A]]"
+- "[[H1219]]"
+- "[[H0194]]"
+- "[[H0854]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 14:12**<big><big>[[Josh.14.6 Caleb Requests Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims [were] there, and [that] the cities [were] great [and] fenced: if so be the LORD [will be] with me, then I shall be able to drive them out, as the LORD said.
 <small><sub>**BSB:**</sub></small>
 Now therefore give me this hill country that the LORD promised me on that day, for you yourself heard then that the Anakim were there, with great and fortified cities. Perhaps with the LORD’s help I will drive them out, as the LORD has spoken.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H5414G\|תְּנָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ]][[H9030\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H2022H\|הָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H3588A\|כִּ֣י]] [[H0859A\|אַתָּֽה]][[H9014\|־]] [[H8085G\|שָׁמַעְתָּ֩]] [[H9003\|בַ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6062\|עֲנָקִ֣ים]] [[H8033G\|שָׁ֗ם]] [[H9002\|וְ]][[H5892B\|עָרִים֙]] [[H1419A\|גְּדֹל֣וֹת]] [[H1219\|בְּצֻר֔וֹת]] [[H0194\|אוּלַ֨י]] [[H3068G\|יְהוָ֤ה]] [[H0854\|אוֹתִ]][[H9030\|י֙]] [[H9001\|וְ]][[H3423H\|ה֣וֹרַשְׁתִּ֔י]][[H9038\|ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANAKIM|ANAKIM]] • [[topic CALEB|CALEB]] • [[topic CITIES|CITIES]] • [[topic FAITH|FAITH]] • [[topic HEBRON|HEBRON]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.11|<< Joshua 14:11]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.13|Joshua 14:13 >>]]</td></tr></table>
 

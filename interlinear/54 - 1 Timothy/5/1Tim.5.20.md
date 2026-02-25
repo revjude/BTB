@@ -1,10 +1,55 @@
+---
+title: 1 Timothy 5:20
+type: Verse
+kjv: "Them that sin rebuke before all, that others also may fear."
+bsb: "But those who persist in sin should be rebuked in front of everyone, so that the others will stand in fear of sin."
+greek: "τοὺς δὲ ἁμαρτάνοντας ἐνώπιον πάντων ἔλεγχε, ἵνα καὶ οἱ λοιποὶ φόβον ἔχωσιν.¶"
+pericope: "[[1Tim.5.17 Honoring Elders|Honoring Elders]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 5
+book/chapter: "[[1Tim.5|1 Timothy 5]]"
+chronological_order: 1130
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0264]]"
+- "[[G1799]]"
+- "[[G3956]]"
+- "[[G1651]]"
+- "[[G2443]]"
+- "[[G2532]]"
+- "[[G3062]]"
+- "[[G5401]]"
+- "[[G2192]]"
+texts:
+- NKO
+- o
+---
+
 **1 Timothy 5:20**<big><big>[[1Tim.5.17 Honoring Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Them that sin rebuke before all, that others also may fear.
 <small><sub>**BSB:**</sub></small>
 But those who persist in sin should be rebuked in front of everyone, so that the others will stand in fear of sin.
-<small><sub>**Literal:**</sub></small>
-<the> now sinning before all do rebuke, so that also the rest fear may have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.19|<< 1 Timothy 5:19]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.21|1 Timothy 5:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοὺς]]  [[G1161\|δὲ]]  [[G0264\|ἁμαρτάνοντας]]  [[G1799\|ἐνώπιον]]  [[G3956\|πάντων]]  [[G1651\|ἔλεγχε,]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3062\|λοιποὶ]]  [[G5401\|φόβον]]  [[G2192\|ἔχωσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.19|<< 1 Timothy 5:19]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.21|1 Timothy 5:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

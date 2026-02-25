@@ -1,8 +1,66 @@
+---
+title: Leviticus 27:33
+type: Verse
+kjv: "He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed."
+bsb: "He must not inspect whether it is good or bad, and he shall not make any substitution. But if he does make a substitution, both the animal and its substitute shall become holy; they cannot be redeemed.’”"
+hebrew: "לֹ֧א יְבַקֵּ֛ר בֵּֽין־ ט֥וֹב לָרַ֖ע וְלֹ֣א יְמִירֶ֑נּוּ וְאִם־ הָמֵ֣ר יְמִירֶ֔נּוּ וְהָֽיָה־ ה֧וּא וּתְמוּרָת֛וֹ יִֽהְיֶה־ קֹ֖דֶשׁ לֹ֥א יִגָּאֵֽל׃"
+pericope: "[[Lev.27.30 Instruction on Tithes|Instruction on Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H3808]]"
+- "[[H1239]]"
+- "[[H0996G]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H7451A]]"
+- "[[H9002]]"
+- "[[H4171]]"
+- "[[H9033]]"
+- "[[H0518A]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1931]]"
+- "[[H8545]]"
+- "[[H9023]]"
+- "[[H6944G]]"
+- "[[H1350A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:33**<big><big>[[Lev.27.30 Instruction on Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall not search whether it be good or bad, neither shall he change it: and if he change it at all, then both it and the change thereof shall be holy; it shall not be redeemed.
 <small><sub>**BSB:**</sub></small>
 He must not inspect whether it is good or bad, and he shall not make any substitution. But if he does make a substitution, both the animal and its substitute shall become holy; they cannot be redeemed.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֧א]] [[H1239\|יְבַקֵּ֛ר]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H2896A\|ט֥וֹב]] [[H9005\|לָ]][[H7451A\|רַ֖ע]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4171\|יְמִירֶ֑]][[H9033\|נּוּ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H4171\|הָמֵ֣ר]] [[H4171\|יְמִירֶ֔]][[H9033\|נּוּ]] [[H9001\|וְ]][[H1961\|הָֽיָה]][[H9014\|־]] [[H1931\|ה֧וּא]] [[H9002\|וּ]][[H8545\|תְמוּרָת֛]][[H9023\|וֹ]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H6944G\|קֹ֖דֶשׁ]] [[H3808\|לֹ֥א]] [[H1350A\|יִגָּאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.32|<< Leviticus 27:32]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.34|Leviticus 27:34 >>]]</td></tr></table>
 

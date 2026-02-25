@@ -1,8 +1,53 @@
+---
+title: Genesis 44:3
+type: Verse
+kjv: "As soon as the morning was light, the men were sent away, they and their asses."
+bsb: "At daybreak, the men were sent on their way with their donkeys."
+hebrew: "הַבֹּ֖קֶר א֑וֹר וְהָאֲנָשִׁ֣ים שֻׁלְּח֔וּ הֵ֖מָּה וַחֲמֹרֵיהֶֽם׃"
+pericope: "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H9009]]"
+- "[[H1242]]"
+- "[[H0215]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H7971G]]"
+- "[[H1992]]"
+- "[[H2543]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:3**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As soon as the morning was light, the men were sent away, they and their asses.
 <small><sub>**BSB:**</sub></small>
 At daybreak, the men were sent on their way with their donkeys.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1242\|בֹּ֖קֶר]] [[H0215\|א֑וֹר]] [[H9002\|וְ]][[H9009\|הָ]][[H0582\|אֲנָשִׁ֣ים]] [[H7971G\|שֻׁלְּח֔וּ]] [[H1992\|הֵ֖מָּה]] [[H9002\|וַ]][[H2543\|חֲמֹרֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.2|<< Genesis 44:2]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.4|Genesis 44:4 >>]]</td></tr></table>
 

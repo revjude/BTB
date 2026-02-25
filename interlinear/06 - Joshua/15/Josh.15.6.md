@@ -1,8 +1,61 @@
+---
+title: Joshua 15:6
+type: Verse
+kjv: "And the border went up to Bethhogla, and passed along by the north of Betharabah; and the border went up to the stone of Bohan the son of Reuben:"
+bsb: "went up to Beth-hoglah, proceeded north of Beth-arabah, and went up to the Stone of Bohan son of Reuben."
+hebrew: "וְעָלָ֤ה הַגְּבוּל֙ בֵּ֣ית חָגְלָ֔ה וְעָבַ֕ר מִצְּפ֖וֹן לְבֵ֣ית הָעֲרָבָ֑ה וְעָלָ֣ה הַגְּב֔וּל אֶ֥בֶן בֹּ֖הַן בֶּן־ רְאוּבֵֽן׃"
+pericope: "[[Josh.15.1 Judah’s Inheritance|Judah’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BETH-ARABAH|BETH-ARABAH]]"
+- "[[topic BETH-HOGLA|BETH-HOGLA]]"
+- "[[topic BOHAN|BOHAN]]"
+- "[[topic GEDERAH|GEDERAH]]"
+- "[[topic JUDEA|JUDEA]]"
+- "[[topic PILLAR|PILLAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H1031]]"
+- "[[H5674A]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9005]]"
+- "[[H1026]]"
+- "[[H0068G]]"
+- "[[H0932]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:6**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border went up to Bethhogla, and passed along by the north of Betharabah; and the border went up to the stone of Bohan the son of Reuben:
 <small><sub>**BSB:**</sub></small>
 went up to Beth-hoglah, proceeded north of Beth-arabah, and went up to the Stone of Bohan son of Reuben.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5927G\|עָלָ֤ה]] [[H9009\|הַ]][[H1366G\|גְּבוּל֙]] [[H1031\|בֵּ֣ית]] [[H1031\|חָגְלָ֔ה]] [[H9001\|וְ]][[H5674A\|עָבַ֕ר]] [[H9006\|מִ]][[H6828G\|צְּפ֖וֹן]] [[H9005\|לְ]][[H1026\|בֵ֣ית]] [[H9009\|הָ]][[H1026\|עֲרָבָ֑ה]] [[H9001\|וְ]][[H5927G\|עָלָ֣ה]] [[H9009\|הַ]][[H1366G\|גְּב֔וּל]] [[H0068G\|אֶ֥בֶן]] [[H0932\|בֹּ֖הַן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7205\|רְאוּבֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-ARABAH|BETH-ARABAH]] • [[topic BETH-HOGLA|BETH-HOGLA]] • [[topic BOHAN|BOHAN]] • [[topic GEDERAH|GEDERAH]] • [[topic JUDEA|JUDEA]] • [[topic PILLAR|PILLAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.5|<< Joshua 15:5]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.7|Joshua 15:7 >>]]</td></tr></table>
 

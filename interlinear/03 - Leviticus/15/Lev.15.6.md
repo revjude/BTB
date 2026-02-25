@@ -1,8 +1,68 @@
+---
+title: Leviticus 15:6
+type: Verse
+kjv: "And he that sitteth on any thing whereon he sat that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even."
+bsb: "Whoever sits on furniture on which the man with the discharge was sitting must wash his clothes and bathe with water, and he will be unclean until evening."
+hebrew: "וְהַיֹּשֵׁב֙ עַֽל־ הַכְּלִ֔י אֲשֶׁר־ יֵשֵׁ֥ב עָלָ֖יו הַזָּ֑ב יְכַבֵּ֧ס בְּגָדָ֛יו וְרָחַ֥ץ בַּמַּ֖יִם וְטָמֵ֥א עַד־ הָעָֽרֶב׃"
+pericope: "[[Lev.15.1 The Uncleanness of Men|The Uncleanness of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H0834A]]"
+- "[[H9033]]"
+- "[[H2100H]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H2930A]]"
+- "[[H5704]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:6**<big><big>[[Lev.15.1 The Uncleanness of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that sitteth on [any] thing whereon he sat that hath the issue shall wash his clothes, and bathe [himself] in water, and be unclean until the even.
 <small><sub>**BSB:**</sub></small>
 Whoever sits on furniture on which the man with the discharge was sitting must wash his clothes and bathe with water, and he will be unclean until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3427\|יֹּשֵׁב֙]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כְּלִ֔י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3427\|יֵשֵׁ֥ב]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9009\|הַ]][[H2100H\|זָּ֑ב]] [[H3526H\|יְכַבֵּ֧ס]] [[H0899B\|בְּגָדָ֛י]][[H9023\|ו]] [[H9001\|וְ]][[H7364\|רָחַ֥ץ]] [[H9003\|בַּ]][[H4325G\|מַּ֖יִם]] [[H9001\|וְ]][[H2930A\|טָמֵ֥א]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.5|<< Leviticus 15:5]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.7|Leviticus 15:7 >>]]</td></tr></table>
 

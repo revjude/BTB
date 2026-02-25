@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Riot in Ephesus
+type: Pericope
 pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
-verse_count: 21
+original_language: Greek
 testament: New
 book: Acts
 chapter: 19
 book/chapter: "[[Acts.19|Acts 19]]"
-genre:
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 21
 verses:
 - "[[Acts.19.21]]"
 - "[[Acts.19.22]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Acts.19.41]]"
 ---
 
-[[Acts.19|Acts 19:21 - Acts 19:41]]
+<small>[[Acts.19|Acts 19:21-41]]</small>
 *The Riot in Ephesus*
 
 [[Acts.19.21|21]] After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome.

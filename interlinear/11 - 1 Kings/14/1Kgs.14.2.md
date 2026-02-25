@@ -1,8 +1,78 @@
+---
+title: 1 Kings 14:2
+type: Verse
+kjv: "And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there is Ahijah the prophet, which told me that I should be king over this people."
+bsb: "and Jeroboam said to his wife, “Now get up, disguise yourself so they will not recognize you as my wife, and go to Shiloh. For Ahijah the prophet is there; it was he who spoke about my kingship over this people."
+hebrew: "וַיֹּ֨אמֶר יָרָבְעָ֜ם לְאִשְׁתּ֗וֹ ק֤וּמִי נָא֙ וְהִשְׁתַּנִּ֔ית וְלֹ֣א יֵֽדְע֔וּ כִּי־ אַ֖תְּ אֵ֣שֶׁת יָרָבְעָ֑ם וְהָלַ֣כְתְּ שִׁלֹ֗ה הִנֵּה־ שָׁם֙ אֲחִיָּ֣ה הַנָּבִ֔יא הֽוּא־ דִבֶּ֥ר עָלַ֛י לְמֶ֖לֶךְ עַל־ הָעָ֥ם הַזֶּֽה׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3379G]]"
+- "[[H9005]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H6965B]]"
+- "[[H4994]]"
+- "[[H8138A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859B]]"
+- "[[H0859C]]"
+- "[[H1980G]]"
+- "[[H7887]]"
+- "[[H2009]]"
+- "[[H8033G]]"
+- "[[H0281H]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H1931]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H4428G]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Kings 14:2**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jeroboam said to his wife, Arise, I pray thee, and disguise thyself, that thou be not known to be the wife of Jeroboam; and get thee to Shiloh: behold, there [is] Ahijah the prophet, which told me that [I should be] king over this people.
 <small><sub>**BSB:**</sub></small>
 and Jeroboam said to his wife, “Now get up, disguise yourself so they will not recognize you as my wife, and go to Shiloh. For Ahijah the prophet is there; it was he who spoke about my kingship over this people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3379G\|יָרָבְעָ֜ם]] [[H9005\|לְ]][[H0802H\|אִשְׁתּ֗]][[H9023\|וֹ]] [[H6965B\|ק֤וּמִי]] [[H4994\|נָא֙]] [[H9001\|וְ]][[H8138A\|הִשְׁתַּנִּ֔ית]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3045\|יֵֽדְע֔וּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0859C\|אַ֖תְּ]] [[H0802H\|אֵ֣שֶׁת]] [[H3379G\|יָרָבְעָ֑ם]] [[H9001\|וְ]][[H1980G\|הָלַ֣כְתְּ]] [[H7887\|שִׁלֹ֗ה]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H0281H\|אֲחִיָּ֣ה]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H1931\|הֽוּא]][[H9014\|־]] [[H1696G\|דִבֶּ֥ר]] [[H5921A\|עָלַ֛]][[H9030\|י]] [[H9005\|לְ]][[H4428G\|מֶ֖לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.1|<< 1 Kings 14:1]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.3|1 Kings 14:3 >>]]</td></tr></table>
 

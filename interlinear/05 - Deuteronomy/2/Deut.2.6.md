@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 2:6
+type: Verse
+kjv: "Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink."
+bsb: "You are to pay them in silver for the food you eat and the water you drink.’”"
+hebrew: "אֹ֣כֶל תִּשְׁבְּר֧וּ מֵֽאִתָּ֛ם בַּכֶּ֖סֶף וַאֲכַלְתֶּ֑ם וְגַם־ מַ֜יִם תִּכְר֧וּ מֵאִתָּ֛ם בַּכֶּ֖סֶף וּשְׁתִיתֶֽם׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H0400]]"
+- "[[H7666]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H3739A]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:6**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.
 <small><sub>**BSB:**</sub></small>
 You are to pay them in silver for the food you eat and the water you drink.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H0400\|אֹ֣כֶל]] [[H7666\|תִּשְׁבְּר֧וּ]] [[H9006\|מֵֽ]][[H0854\|אִתָּ֛]][[H9038\|ם]] [[H9003\|בַּ]][[H3701G\|כֶּ֖סֶף]] [[H9001\|וַ]][[H0398\|אֲכַלְתֶּ֑ם]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H4325G\|מַ֜יִם]] [[H3739A\|תִּכְר֧וּ]] [[H9006\|מֵ]][[H0854\|אִתָּ֛]][[H9038\|ם]] [[H9003\|בַּ]][[H3701G\|כֶּ֖סֶף]] [[H9001\|וּ]][[H8354\|שְׁתִיתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.5|<< Deuteronomy 2:5]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.7|Deuteronomy 2:7 >>]]</td></tr></table>
 

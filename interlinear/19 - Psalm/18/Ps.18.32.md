@@ -1,8 +1,55 @@
+---
+title: Psalm 18:32
+type: Verse
+kjv: "It is God that girdeth me with strength, and maketh my way perfect."
+bsb: "It is God who arms me with strength and makes my way clear."
+hebrew: "הָ֭אֵל הַמְאַזְּרֵ֣נִי חָ֑יִל וַיִּתֵּ֖ן תָּמִ֣ים דַּרְכִּֽי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic PERFECTION|PERFECTION]]"
+strongs:
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H0247]]"
+- "[[H9030]]"
+- "[[H2428G]]"
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H8549H]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:32**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] God that girdeth me with strength, and maketh my way perfect.
 <small><sub>**BSB:**</sub></small>
 It is God who arms me with strength and makes my way clear.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ֭]][[H0410G\|אֵל]] [[H9009\|הַ]][[H0247\|מְאַזְּרֵ֣]][[H9030\|נִי]] [[H2428G\|חָ֑יִל]] [[H9001\|וַ]][[H5414I\|יִּתֵּ֖ן]] [[H8549H\|תָּמִ֣ים]] [[H1870G\|דַּרְכִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic PERFECTION|PERFECTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.31|<< Psalms 18:31]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.33|Psalms 18:33 >>]]</td></tr></table>
 

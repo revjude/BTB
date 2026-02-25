@@ -1,8 +1,71 @@
+---
+title: Genesis 27:42
+type: Verse
+kjv: "And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, purposing to kill thee."
+bsb: "When the words of her older son Esau were relayed to Rebekah, she sent for her younger son Jacob and told him, “Look, your brother Esau is consoling himself by plotting to kill you."
+hebrew: "וַיֻּגַּ֣ד לְרִבְקָ֔ה אֶת־ דִּבְרֵ֥י עֵשָׂ֖ו בְּנָ֣הּ הַגָּדֹ֑ל וַתִּשְׁלַ֞ח וַתִּקְרָ֤א לְיַעֲקֹב֙ בְּנָ֣הּ הַקָּטָ֔ן וַתֹּ֣אמֶר אֵלָ֔יו הִנֵּה֙ עֵשָׂ֣ו אָחִ֔יךָ מִתְנַחֵ֥ם לְךָ֖ לְהָרְגֶֽךָ׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H7259]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H6215G]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H9009]]"
+- "[[H1419K]]"
+- "[[H7971G]]"
+- "[[H7121G]]"
+- "[[H3290]]"
+- "[[H6996A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H5162G]]"
+- "[[H9031]]"
+- "[[H2026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:42**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, thy brother Esau, as touching thee, doth comfort himself, [purposing] to kill thee.
 <small><sub>**BSB:**</sub></small>
 When the words of her older son Esau were relayed to Rebekah, she sent for her younger son Jacob and told him, “Look, your brother Esau is consoling himself by plotting to kill you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֣ד]] [[H9005\|לְ]][[H7259\|רִבְקָ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H6215G\|עֵשָׂ֖ו]] [[H1121A\|בְּנָ֣]][[H9024\|הּ]] [[H9009\|הַ]][[H1419K\|גָּדֹ֑ל]] [[H9001\|וַ]][[H7971G\|תִּשְׁלַ֞ח]] [[H9001\|וַ]][[H7121G\|תִּקְרָ֤א]] [[H9005\|לְ]][[H3290\|יַעֲקֹב֙]] [[H1121A\|בְּנָ֣]][[H9024\|הּ]] [[H9009\|הַ]][[H6996A\|קָּטָ֔ן]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H2009\|הִנֵּה֙]] [[H6215G\|עֵשָׂ֣ו]] [[H0251G\|אָחִ֔י]][[H9021\|ךָ]] [[H5162G\|מִתְנַחֵ֥ם]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H9005\|לְ]][[H2026\|הָרְגֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic JACOB|JACOB]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.41|<< Genesis 27:41]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.43|Genesis 27:43 >>]]</td></tr></table>
 

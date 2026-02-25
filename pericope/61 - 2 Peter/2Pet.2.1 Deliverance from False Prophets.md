@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Deliverance from False Prophets
+type: Pericope
 pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
-verse_count: 22
+original_language: Greek
 testament: New
 book: 2 Peter
 chapter: 2
 book/chapter: "[[2Pet.2|2 Peter 2]]"
-genre:
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
 - epistle
 - general epistle
 - testament letter
 - polemical
+verse_count: 22
 verses:
 - "[[2Pet.2.1]]"
 - "[[2Pet.2.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[2Pet.2.22]]"
 ---
 
-[[2Pet.2|2 Peter 2:1 - 2 Peter 2:22]]
+<small>[[2Pet.2|2 Peter 2:1-22]]</small>
 *Deliverance from False Prophets*
 
 [[2Pet.2.1|1]] But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.

@@ -1,8 +1,57 @@
+---
+title: Genesis 36:3
+type: Verse
+kjv: "And Bashemath Ishmael’s daughter, sister of Nebajoth."
+bsb: "and Basemath daughter of Ishmael and sister of Nebaioth."
+hebrew: "וְאֶת־ בָּשְׂמַ֥ת בַּת־ יִשְׁמָעֵ֖אל אֲח֥וֹת נְבָיֽוֹת׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AHOLIBAMAH|AHOLIBAMAH]]"
+- "[[topic BASHEMATH|BASHEMATH]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic MAHALATH|MAHALATH]]"
+- "[[topic NEBAIOTH|NEBAIOTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1315I]]"
+- "[[H1323G]]"
+- "[[H3458G]]"
+- "[[H0269]]"
+- "[[H5032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:3**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bashemath Ishmael’s daughter, sister of Nebajoth.
 <small><sub>**BSB:**</sub></small>
 and Basemath daughter of Ishmael and sister of Nebaioth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1315I\|בָּשְׂמַ֥ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H3458G\|יִשְׁמָעֵ֖אל]] [[H0269\|אֲח֥וֹת]] [[H5032\|נְבָיֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHOLIBAMAH|AHOLIBAMAH]] • [[topic BASHEMATH|BASHEMATH]] • [[topic ESAU|ESAU]] • [[topic ISHMAEL|ISHMAEL]] • [[topic MAHALATH|MAHALATH]] • [[topic NEBAIOTH|NEBAIOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.2|<< Genesis 36:2]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.4|Genesis 36:4 >>]]</td></tr></table>
 

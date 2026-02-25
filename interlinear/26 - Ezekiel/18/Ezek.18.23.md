@@ -1,8 +1,69 @@
+---
+title: Ezekiel 18:23
+type: Verse
+kjv: "Have I any pleasure at all that the wicked should die? saith the Lord GOD: and not that he should return from his ways, and live?"
+bsb: "Do I take any pleasure in the death of the wicked? declares the Lord GOD. Wouldn’t I prefer that he turn from his ways and live?"
+hebrew: "הֶחָפֹ֤ץ אֶחְפֹּץ֙ מ֣וֹת רָשָׁ֔ע נְאֻ֖ם אֲדֹנָ֣י יְהוִ֑ה הֲל֛וֹא בְּשׁוּב֥וֹ מִדְּרָכָ֖יו וְחָיָֽה׃ ס"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9008]]"
+- "[[H2654A]]"
+- "[[H4194]]"
+- "[[H7563]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H7725O]]"
+- "[[H9043]]"
+- "[[H9006]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 18:23**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Have I any pleasure at all that the wicked should die? saith the Lord GOD: [and] not that he should return from his ways, and live?
 <small><sub>**BSB:**</sub></small>
 Do I take any pleasure in the death of the wicked? declares the Lord GOD. Wouldn’t I prefer that he turn from his ways and live?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֶ]][[H2654A\|חָפֹ֤ץ]] [[H2654A\|אֶחְפֹּץ֙]] [[H4194\|מ֣וֹת]] [[H7563\|רָשָׁ֔ע]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9008\|הֲ]][[H3808\|ל֛וֹא]] [[H9003\|בְּ]][[H7725O\|שׁוּב֥]][[H9043\|וֹ]] [[H9006\|מִ]][[H1870G\|דְּרָכָ֖י]][[H9023\|ו]] [[H9001\|וְ]][[H2421\|חָיָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SEEKERS|SEEKERS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.22|<< Ezekiel 18:22]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.24|Ezekiel 18:24 >>]]</td></tr></table>
 
@@ -18,7 +79,7 @@ Do I take any pleasure in the death of the wicked? declares the Lord GOD. Wouldn
 | ¿ not  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H3808\|ל֛וֹא]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | when turning back he  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H7725O\|שׁוּב֥]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> shu.V<small><sup>[[HVqcc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from ways his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H1870G\|דְּרָכָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> de.ra.Kha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will live  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2421\|חָיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will live  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H2421\|חָיָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> cha.Yah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.22|<< Ezekiel 18:22]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.24|Ezekiel 18:24 >>]]</td></tr></table>
 
 

@@ -1,8 +1,48 @@
+---
+title: Isaiah 24:19
+type: Verse
+kjv: "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly."
+bsb: "The earth is utterly broken apart, the earth is split open, the earth is shaken violently."
+hebrew: "רֹ֥עָה הִֽתְרֹעֲעָ֖ה הָאָ֑רֶץ פּ֤וֹר הִֽתְפּוֹרְרָה֙ אֶ֔רֶץ מ֥וֹט הִֽתְמוֹטְטָ֖ה אָֽרֶץ׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+strongs:
+- "[[H7489B]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H6565B]]"
+- "[[H4131]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:19**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.
 <small><sub>**BSB:**</sub></small>
 The earth is utterly broken apart, the earth is split open, the earth is shaken violently.
+<small><sub>**Hebrew:**</sub></small>
+[[H7489B\|רֹ֥עָה]] [[H7489B\|הִֽתְרֹעֲעָ֖ה]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H6565B\|פּ֤וֹר]] [[H6565B\|הִֽתְפּוֹרְרָה֙]] [[H0776G\|אֶ֔רֶץ]] [[H4131\|מ֥וֹט]] [[H4131\|הִֽתְמוֹטְטָ֖ה]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic EARTHQUAKES|EARTHQUAKES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.18|<< Isaiah 24:18]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.20|Isaiah 24:20 >>]]</td></tr></table>
 

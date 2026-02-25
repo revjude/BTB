@@ -1,8 +1,58 @@
+---
+title: Numbers 18:10
+type: Verse
+kjv: "In the most holy place shalt thou eat it; every male shall eat it: it shall be holy unto thee."
+bsb: "You are to eat it as a most holy offering, and every male may eat it. You shall regard it as holy."
+hebrew: "בְּקֹ֥דֶשׁ הַקֳּדָשִׁ֖ים תֹּאכֲלֶ֑נּוּ כָּל־ זָכָר֙ יֹאכַ֣ל אֹת֔וֹ קֹ֖דֶשׁ יִֽהְיֶה־ לָּֽךְ׃"
+pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 18
+book/chapter: "[[Num.18|Numbers 18]]"
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9003]]"
+- "[[H6944G]]"
+- "[[H9009]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H0853]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 18:10**<big><big>[[Num.18.8 Offerings for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the most holy [place] shalt thou eat it; every male shall eat it: it shall be holy unto thee.
 <small><sub>**BSB:**</sub></small>
 You are to eat it as a most holy offering, and every male may eat it. You shall regard it as holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H6944G\|קֹ֥דֶשׁ]] [[H9009\|הַ]][[H6944G\|קֳּדָשִׁ֖ים]] [[H0398\|תֹּאכֲלֶ֑]][[H9033\|נּוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָר֙]] [[H0398\|יֹאכַ֣ל]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H6944G\|קֹ֖דֶשׁ]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.18.9|<< Numbers 18:9]]</td><td align="center" style="border:none;">[[Num.18|Numbers 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.18.11|Numbers 18:11 >>]]</td></tr></table>
 

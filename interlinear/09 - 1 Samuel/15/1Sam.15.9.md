@@ -1,8 +1,75 @@
+---
+title: 1 Samuel 15:9
+type: Verse
+kjv: "But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly."
+bsb: "Saul and his troops spared Agag, along with the best of the sheep and cattle, the fat calves and lambs, and the best of everything else. They were unwilling to devote them to destruction, but they devoted to destruction all that was despised and worthless."
+hebrew: "וַיַּחְמֹל֩ שָׁא֨וּל וְהָעָ֜ם עַל־ אֲגָ֗ג וְעַל־ מֵיטַ֣ב הַצֹּאן֩ וְהַבָּקָ֨ר וְהַמִּשְׁנִ֤ים וְעַל־ הַכָּרִים֙ וְעַל־ כָּל־ הַטּ֔וֹב וְלֹ֥א אָב֖וּ הַחֲרִימָ֑ם וְכָל־ הַמְּלָאכָ֛ה נְמִבְזָ֥ה וְנָמֵ֖ס אֹתָ֥הּ הֶחֱרִֽימוּ׃ פ"
+pericope: "[[1Sam.15.1 Saul’s Disobedience|Saul’s Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2550]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0090H]]"
+- "[[H4315]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H4932H]]"
+- "[[H3733C]]"
+- "[[H3605]]"
+- "[[H2896B]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H2763A]]"
+- "[[H9038]]"
+- "[[H4399]]"
+- "[[H5240]]"
+- "[[H4549]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 15:9**<big><big>[[1Sam.15.1 Saul’s Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all [that was] good, and would not utterly destroy them: but every thing [that was] vile and refuse, that they destroyed utterly.
 <small><sub>**BSB:**</sub></small>
 Saul and his troops spared Agag, along with the best of the sheep and cattle, the fat calves and lambs, and the best of everything else. They were unwilling to devote them to destruction, but they devoted to destruction all that was despised and worthless.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2550\|יַּחְמֹל֩]] [[H7586G\|שָׁא֨וּל]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H5921A\|עַל]][[H9014\|־]] [[H0090H\|אֲגָ֗ג]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4315\|מֵיטַ֣ב]] [[H9009\|הַ]][[H6629G\|צֹּאן֩]] [[H9002\|וְ]][[H9009\|הַ]][[H1241\|בָּקָ֨ר]] [[H9002\|וְ]][[H9009\|הַ]][[H4932H\|מִּשְׁנִ֤ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3733C\|כָּרִים֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2896B\|טּ֔וֹב]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָב֖וּ]] [[H2763A\|הַחֲרִימָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֛ה]] [[H5240\|נְמִבְזָ֥ה]] [[H9002\|וְ]][[H4549\|נָמֵ֖ס]] [[H0853\|אֹתָ֥]][[H9034\|הּ]] [[H2763A\|הֶחֱרִֽימוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic AMALEKITES|AMALEKITES]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RETALIATION|RETALIATION]] • [[topic RULERS|RULERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.8|<< 1 Samuel 15:8]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.10|1 Samuel 15:10 >>]]</td></tr></table>
 
@@ -31,7 +98,7 @@ Saul and his troops spared Agag, along with the best of the sheep and cattle, th
 | despised  |**<big>&#8207;[[H5240\|נְמִבְזָ֥ה]]&#8207; </big>**| ne.miv.Zah<small><sup>[[HVNrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and worthless  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H4549\|נָמֵ֖ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.Mes<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> it  |**<big>&#8207;[[H0853\|אֹתָ֥]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they totally destroyed  |**<big>&#8207;[[H2763A\|הֶחֱרִֽימוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| he.che.Ri.mu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they totally destroyed  |**<big>&#8207;[[H2763A\|הֶחֱרִֽימוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| he.che.Ri.mu<small><sup>[[HVhp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.8|<< 1 Samuel 15:8]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.10|1 Samuel 15:10 >>]]</td></tr></table>
 
 

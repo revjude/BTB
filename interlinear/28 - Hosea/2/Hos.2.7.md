@@ -1,8 +1,70 @@
+---
+title: Hosea 2:7
+type: Verse
+kjv: "And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find them: then shall she say, I will go and return to my first husband; for then was it better with me than now."
+bsb: "She will pursue her lovers but not catch them; she will seek them but not find them. Then she will say, ‘I will return to my first husband, for then I was better off than now.’"
+hebrew: "וְרִדְּפָ֤ה אֶת־ מְאַהֲבֶ֙יהָ֙ וְלֹֽא־ תַשִּׂ֣יג אֹתָ֔ם וּבִקְשָׁ֖תַם וְלֹ֣א תִמְצָ֑א וְאָמְרָ֗ה אֵלְכָ֤ה וְאָשׁ֙וּבָה֙ אֶל־ אִישִׁ֣י הָֽרִאשׁ֔וֹן כִּ֣י ט֥וֹב לִ֛י אָ֖ז מֵעָֽתָּה׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7291]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0157G]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5381]]"
+- "[[H9038]]"
+- "[[H1245]]"
+- "[[H4672]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H0376H]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H3588A]]"
+- "[[H2895]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0227A]]"
+- "[[H9006]]"
+- "[[H6258]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:7**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she shall follow after her lovers, but she shall not overtake them; and she shall seek them, but shall not find [them]: then shall she say, I will go and return to my first husband; for then [was it] better with me than now.
 <small><sub>**BSB:**</sub></small>
 She will pursue her lovers but not catch them; she will seek them but not find them. Then she will say, ‘I will return to my first husband, for then I was better off than now.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7291\|רִדְּפָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0157G\|מְאַהֲבֶ֙י]][[H9034\|הָ֙]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5381\|תַשִּׂ֣יג]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9001\|וּ]][[H1245\|בִקְשָׁ֖תַ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4672\|תִמְצָ֑א]] [[H9001\|וְ]][[H0559\|אָמְרָ֗ה]] [[H1980G\|אֵלְכָ֤ה]] [[H9002\|וְ]][[H7725G\|אָשׁ֙וּבָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0376H\|אִישִׁ֣]][[H9020\|י]] [[H9009\|הָֽ]][[H7223G\|רִאשׁ֔וֹן]] [[H3588A\|כִּ֣י]] [[H2895\|ט֥וֹב]] [[H9005\|לִ֛]][[H9030\|י]] [[H0227A\|אָ֖ז]] [[H9006\|מֵ]][[H6258\|עָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.6|<< Hosea 2:6]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.8|Hosea 2:8 >>]]</td></tr></table>
 

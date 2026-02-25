@@ -1,10 +1,67 @@
+---
+title: Acts 15:28
+type: Verse
+kjv: "For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;"
+bsb: "It seemed good to the Holy Spirit and to us not to burden you with anything beyond these essential requirements:"
+greek: "ἔδοξεν γὰρ τῷ πνεύματι τῷ ἁγίῳ καὶ ἡμῖν μηδὲν πλέον ἐπιτίθεσθαι ὑμῖν βάρος πλὴν τούτων τῶν ἐπάναγκες"
+pericope: "[[Acts.15.22 The Letter to the Gentile Believers|The Letter to the Gentile Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic EPISTLES|EPISTLES]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1380]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G3367]]"
+- "[[G4119]]"
+- "[[G2007]]"
+- "[[G4771]]"
+- "[[G0922]]"
+- "[[G4133]]"
+- "[[G3778]]"
+- "[[G1876]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 15:28**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;
 <small><sub>**BSB:**</sub></small>
 It seemed good to the Holy Spirit and to us not to burden you with anything beyond these essential requirements:
-<small><sub>**Literal:**</sub></small>
-It seemed good for to the Spirit <the> Holy and to us no further to lay upon you burden except these <the> necessary things<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.27|<< Acts 15:27]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.29|Acts 15:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1380\|ἔδοξεν]]  [[G1063\|γὰρ]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G3588\|τῷ]]  [[G0040G\|ἁγίῳ]]  [[G2532\|καὶ]]  [[G3165\|ἡμῖν]]  [[G3367\|μηδὲν]]  [[G4119\|πλέον]]  [[G2007\|ἐπιτίθεσθαι]]  [[G4771\|ὑμῖν]]  [[G0922\|βάρος]]  [[G4133\|πλὴν]]  [[G3778\|τούτων]]  [[G3588\|τῶν]]  [[G1876\|ἐπάναγκες]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic EPISTLES|EPISTLES]] • [[topic GENTILES|GENTILES]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic LAW|LAW]] • [[topic SILAS|SILAS]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.27|<< Acts 15:27]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.29|Acts 15:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

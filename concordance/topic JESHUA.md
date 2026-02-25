@@ -19,9 +19,9 @@
 
 - He rebuilt the altar [[Ezra.3.2|Ezr 3:2]]
 
-- Rebuilt the temple [[Ezra.3.8|Ezr 3:8]]-[[Ezra.3.13|13]]
+- Rebuilt the temple [[Ezra.3.8|Ezr 3:8-13]]
 
-- Contends with those who sought to defeat the rebuilding of the temple [[Ezra.4.1|Ezr 4:1]]-[[Ezra.4.3|3]]; [[Ezra.5.1|5:1]],[[Ezra.5.2|2]]
+- Contends with those who sought to defeat the rebuilding of the temple [[Ezra.4.1|Ezr 4:1-3]]; [[Ezra.5.1|5:1]],[[Ezra.5.2|2]]
 
 4. Father of Jozabad [[Ezra.8.33|Ezr 8:33]]
 
@@ -39,7 +39,7 @@
 
 → SYMBOLICAL
 
-- Prophecies concerning [[Zech.3|Zec 3]]; [[Zech.6.9|6:9]]-[[Zech.6.15|15]]
+- Prophecies concerning [[Zech.3|Zec 3]]; [[Zech.6.9|6:9-15]]
 
 - See [[topic JOSHUA|JOSHUA]]
 

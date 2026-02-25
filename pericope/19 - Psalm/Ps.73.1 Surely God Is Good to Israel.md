@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Surely God Is Good to Israel
+type: Pericope
 pericope: "[[Ps.73.1 Surely God Is Good to Israel|Surely God Is Good to Israel]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 73
 book/chapter: "[[Ps.73|Psalm 73]]"
-genre:
+chronological_order: 506
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 29
 verses:
 - "[[Ps.73.0]]"
 - "[[Ps.73.1]]"
@@ -50,7 +57,7 @@ verses:
 - "[[Ps.73.28]]"
 ---
 
-[[Ps.73|Psalm 73:1 - Psalm 73:28]]
+<small>[[Ps.73|Psalm 73:1-28]]</small>
 *Surely God Is Good to Israel*
 
 [[Ps.73.0|0]] A Psalm of Asaph.

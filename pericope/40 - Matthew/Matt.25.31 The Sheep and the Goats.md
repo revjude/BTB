@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sheep and the Goats
+type: Pericope
 pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 25
 book/chapter: "[[Matt.25|Matthew 25]]"
-genre:
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 16
 verses:
 - "[[Matt.25.31]]"
 - "[[Matt.25.32]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Matt.25.46]]"
 ---
 
-[[Matt.25|Matthew 25:31 - Matthew 25:46]]
+<small>[[Matt.25|Matthew 25:31-46]]</small>
 *The Sheep and the Goats*
 
 [[Matt.25.31|31]] When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:

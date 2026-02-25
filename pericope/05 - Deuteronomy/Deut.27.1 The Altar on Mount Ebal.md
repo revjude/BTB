@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Altar on Mount Ebal
+type: Pericope
 pericope: "[[Deut.27.1 The Altar on Mount Ebal|The Altar on Mount Ebal]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 27
 book/chapter: "[[Deut.27|Deuteronomy 27]]"
-genre:
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 10
 verses:
 - "[[Deut.27.1]]"
 - "[[Deut.27.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Deut.27.10]]"
 ---
 
-[[Deut.27|Deuteronomy 27:1 - Deuteronomy 27:10]]
+<small>[[Deut.27|Deuteronomy 27:1-10]]</small>
 *The Altar on Mount Ebal*
 
 [[Deut.27.1|1]] And Moses with the elders of Israel commanded the people, saying, Keep all the commandments which I command you this day.

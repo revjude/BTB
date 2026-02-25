@@ -1,8 +1,54 @@
+---
+title: Job 27:12
+type: Verse
+kjv: "Behold, all ye yourselves have seen it; why then are ye thus altogether vain?"
+bsb: "Surely all of you have seen it for yourselves. Why then do you keep up this empty talk?"
+hebrew: "הֵן־ אַתֶּ֣ם כֻּלְּכֶ֣ם חֲזִיתֶ֑ם וְלָמָּה־ זֶּ֝֗ה הֶ֣בֶל תֶּהְבָּֽלוּ׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H0859D]]"
+- "[[H3605]]"
+- "[[H9026]]"
+- "[[H2372]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H1891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:12**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, all ye yourselves have seen [it]; why then are ye thus altogether vain?
 <small><sub>**BSB:**</sub></small>
 Surely all of you have seen it for yourselves. Why then do you keep up this empty talk?
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵן]][[H9014\|־]] [[H0859D\|אַתֶּ֣ם]] [[H3605\|כֻּלְּ]][[H9026\|כֶ֣ם]] [[H2372\|חֲזִיתֶ֑ם]] [[H9002\|וְ]][[H9005\|לָ]][[H4100\|מָּה]][[H9014\|־]] [[H2088\|זֶּ֝֗ה]] [[H1892\|הֶ֣בֶל]] [[H1891\|תֶּהְבָּֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.11|<< Job 27:11]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.13|Job 27:13 >>]]</td></tr></table>
 

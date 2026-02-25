@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 14:7
+type: Verse
+kjv: "And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?"
+bsb: "Even in the case of lifeless instruments, such as the flute or harp, how will anyone recognize the tune they are playing unless the notes are distinct?"
+greek: "ὅμως τὰ ἄψυχα φωνὴν διδόντα, εἴτε αὐλὸς εἴτε κιθάρα, ἐὰν διαστολὴν τοῖς φθόγγοις μὴ δῷ, πῶς γνωσθήσεται τὸ αὐλούμενον ἢ τὸ κιθαριζόμενον;"
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic HARP|HARP]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G3676]]"
+- "[[G3588]]"
+- "[[G0895]]"
+- "[[G5456H]]"
+- "[[G1325]]"
+- "[[G1535]]"
+- "[[G0836]]"
+- "[[G2788]]"
+- "[[G1437]]"
+- "[[G1293]]"
+- "[[G5353]]"
+- "[[G3361]]"
+- "[[G4459]]"
+- "[[G1097]]"
+- "[[G0832]]"
+- "[[G2228]]"
+- "[[G2789]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **1 Corinthians 14:7**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And even things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?
 <small><sub>**BSB:**</sub></small>
 Even in the case of lifeless instruments, such as the flute or harp, how will anyone recognize the tune they are playing unless the notes are distinct?
-<small><sub>**Literal:**</sub></small>
-Even <the> lifeless things a sound giving, whether flute or harp, if distinction to the sounds not they shall give, how will it be known what is being piped or what is being harped?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.6|<< 1 Corinthians 14:6]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.8|1 Corinthians 14:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3676\|ὅμως]]  [[G3588\|τὰ]]  [[G0895\|ἄψυχα]]  [[G5456H\|φωνὴν]]  [[G1325\|διδόντα,]]  [[G1535\|εἴτε]]  [[G0836\|αὐλὸς]]  [[G1535\|εἴτε]]  [[G2788\|κιθάρα,]]  [[G1437\|ἐὰν]]  [[G1293\|διαστολὴν]]  [[G3588\|τοῖς]]  [[G5353\|φθόγγοις]]  [[G3361\|μὴ]]  [[G1325\|δῷ,]]  [[G4459\|πῶς]]  [[G1097\|γνωσθήσεται]]  [[G3588\|τὸ]]  [[G0832\|αὐλούμενον]]  [[G2228\|ἢ]]  [[G3588\|τὸ]]  [[G2789\|κιθαριζόμενον;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARP|HARP]] • [[topic LANGUAGE|LANGUAGE]] • [[topic PREACHING|PREACHING]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.6|<< 1 Corinthians 14:6]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.8|1 Corinthians 14:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

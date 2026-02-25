@@ -1,8 +1,66 @@
+---
+title: 2 Kings 5:25
+type: Verse
+kjv: "But he went in, and stood before his master. And Elisha said unto him, Whence comest thou, Gehazi? And he said, Thy servant went no whither."
+bsb: "When Gehazi went in and stood before his master, Elisha asked him, “Gehazi, where have you been?” “Your servant did not go anywhere,” he replied."
+hebrew: "וְהוּא־ בָא֙ וַיַּעֲמֹ֣ד אֶל־ אֲדֹנָ֔יו וַיֹּ֤אמֶר אֵלָיו֙ אֱלִישָׁ֔ע מֵאַ֖יִן גֵּחֲזִ֑י וַיֹּ֕אמֶר לֹֽא־ הָלַ֥ךְ עַבְדְּךָ֖ אָ֥נֶה וָאָֽנָה׃"
+pericope: "[[2Kgs.5.15 Gehazi’s Greed and Leprosy|Gehazi’s Greed and Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic GEHAZI|GEHAZI]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H0413]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H0477]]"
+- "[[H9006]]"
+- "[[H0575]]"
+- "[[H0370]]"
+- "[[H1522]]"
+- "[[H3808]]"
+- "[[H1980G]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 5:25**<big><big>[[2Kgs.5.15 Gehazi’s Greed and Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he went in, and stood before his master. And Elisha said unto him, Whence [comest thou], Gehazi? And he said, Thy servant went no whither.
 <small><sub>**BSB:**</sub></small>
 When Gehazi went in and stood before his master, Elisha asked him, “Gehazi, where have you been?” “Your servant did not go anywhere,” he replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|הוּא]][[H9014\|־]] [[H0935G\|בָא֙]] [[H9001\|וַ]][[H5975G\|יַּעֲמֹ֣ד]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹנָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H0477\|אֱלִישָׁ֔ע]] [[H9006\|מֵ]][[H0370\|אַ֖יִן]] [[H1522\|גֵּחֲזִ֑י]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1980G\|הָלַ֥ךְ]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H0575\|אָ֥נֶה]] [[H9002\|וָ]][[H0575\|אָֽנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic GEHAZI|GEHAZI]] • [[topic JORAM|JORAM]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.24|<< 2 Kings 5:24]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.26|2 Kings 5:26 >>]]</td></tr></table>
 
@@ -26,7 +84,7 @@ When Gehazi went in and stood before his master, Elisha asked him, “Gehazi, wh
 | and where?  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H0575\|אָֽנָה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'A.nah<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.24|<< 2 Kings 5:24]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.26|2 Kings 5:26 >>]]</td></tr></table>
 
-[^1]: from where?  | **<big>[[H0575|אָן]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'an<small><sup>[[HTi]]</sup></small> | K
-[^2]: from where?  | **<big>[[H0575|אָן]]</big><big>[[H9006|מֵ]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'an<small><sup>[[HTi]]</sup></small> | K
+[^1]: from where?  | **<big>[[H9006|מֵ]]</big><big>[[H0575|אָן]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'an<small><sup>[[HTi]]</sup></small> | K
+[^2]: from where?  | **<big>[[H9006|מֵ]]</big><big>[[H0575|אָן]]</big> ** | me.<small><sup>[[HR]]</sup></small> 'an<small><sup>[[HTi]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>מֵאִַ֖ן</big></span>**
 

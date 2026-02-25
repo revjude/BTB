@@ -1,8 +1,70 @@
+---
+title: 1 Kings 1:2
+type: Verse
+kjv: "Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat."
+bsb: "So his servants said to him, “Let us search for a young virgin for our lord the king, to attend to him and care for him and lie by his side to keep him warm.”"
+hebrew: "וַיֹּ֧אמְרוּ ל֣וֹ עֲבָדָ֗יו יְבַקְשׁ֞וּ לַאדֹנִ֤י הַמֶּ֙לֶךְ֙ נַעֲרָ֣ה בְתוּלָ֔ה וְעָֽמְדָה֙ לִפְנֵ֣י הַמֶּ֔לֶךְ וּתְהִי־ ל֖וֹ סֹכֶ֑נֶת וְשָׁכְבָ֣ה בְחֵיקֶ֔ךָ וְחַ֖ם לַאדֹנִ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.1.1 Abishag Cares for David|Abishag Cares for David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABISHAG|ABISHAG]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H1245]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5291]]"
+- "[[H1330]]"
+- "[[H5975G]]"
+- "[[H6440G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H5532]]"
+- "[[H7901G]]"
+- "[[H9003]]"
+- "[[H2436G]]"
+- "[[H9021]]"
+- "[[H2552]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:2**<big><big>[[1Kgs.1.1 Abishag Cares for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat.
 <small><sub>**BSB:**</sub></small>
 So his servants said to him, “Let us search for a young virgin for our lord the king, to attend to him and care for him and lie by his side to keep him warm.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמְרוּ]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H5650\|עֲבָדָ֗י]][[H9023\|ו]] [[H1245\|יְבַקְשׁ֞וּ]] [[H9005\|לַ]][[H0113\|אדֹנִ֤]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H5291\|נַעֲרָ֣ה]] [[H1330\|בְתוּלָ֔ה]] [[H9001\|וְ]][[H5975G\|עָֽמְדָה֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וּ]][[H1961\|תְהִי]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H5532\|סֹכֶ֑נֶת]] [[H9001\|וְ]][[H7901G\|שָׁכְבָ֣ה]] [[H9003\|בְ]][[H2436G\|חֵיקֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H2552\|חַ֖ם]] [[H9005\|לַ]][[H0113\|אדֹנִ֥]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAG|ABISHAG]] • [[topic BENAIAH|BENAIAH]] • [[topic DAVID|DAVID]] • [[topic DIPLOMACY|DIPLOMACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.1|<< 1 Kings 1:1]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.3|1 Kings 1:3 >>]]</td></tr></table>
 

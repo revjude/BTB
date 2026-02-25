@@ -1,8 +1,77 @@
+---
+title: Judges 16:5
+type: Verse
+kjv: "And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength lieth, and by what means we may prevail against him, that we may bind him to afflict him: and we will give thee every one of us eleven hundred pieces of silver."
+bsb: "The lords of the Philistines went to her and said, “Entice him and find out the source of his great strength and how we can overpower him to tie him up and subdue him. Then each one of us will give you eleven hundred shekels of silver.”"
+hebrew: "וַיַּעֲל֨וּ אֵלֶ֜יהָ סַרְנֵ֣י פְלִשְׁתִּ֗ים וַיֹּ֨אמְרוּ לָ֜הּ פַּתִּ֣י אוֹת֗וֹ וּרְאִי֙ בַּמֶּה֙ כֹּח֣וֹ גָד֔וֹל וּבַמֶּה֙ נ֣וּכַל ל֔וֹ וַאֲסַרְנֻ֖הוּ לְעַנֹּת֑וֹ וַאֲנַ֙חְנוּ֙ נִתַּן־ לָ֔ךְ אִ֕ישׁ אֶ֥לֶף וּמֵאָ֖ה כָּֽסֶף׃"
+pericope: "[[Judg.16.4 Samson and Delilah|Samson and Delilah]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BRIBERY|BRIBERY]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H5633A]]"
+- "[[H6430G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6601B]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H4100]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H1419A]]"
+- "[[H3201]]"
+- "[[H0631]]"
+- "[[H6031B]]"
+- "[[H0587]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9032]]"
+- "[[H0376I]]"
+- "[[H0505G]]"
+- "[[H3967]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:5**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength [lieth], and by what [means] we may prevail against him, that we may bind him to afflict him: and we will give thee every one of us eleven hundred [pieces] of silver.
 <small><sub>**BSB:**</sub></small>
 The lords of the Philistines went to her and said, “Entice him and find out the source of his great strength and how we can overpower him to tie him up and subdue him. Then each one of us will give you eleven hundred shekels of silver.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּעֲל֨וּ]] [[H0413\|אֵלֶ֜י]][[H9034\|הָ]] [[H5633A\|סַרְנֵ֣י]] [[H6430G\|פְלִשְׁתִּ֗ים]] [[H9001\|וַ]][[H0559\|יֹּ֨אמְרוּ]] [[H9005\|לָ֜]][[H9034\|הּ]] [[H6601B\|פַּתִּ֣י]] [[H0853\|אוֹת֗]][[H9033\|וֹ]] [[H9002\|וּ]][[H7200G\|רְאִי֙]] [[H9003\|בַּ]][[H4100\|מֶּה֙]] [[H3581B\|כֹּח֣]][[H9023\|וֹ]] [[H1419A\|גָד֔וֹל]] [[H9002\|וּ]][[H9003\|בַ]][[H4100\|מֶּה֙]] [[H3201\|נ֣וּכַל]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0631\|אֲסַרְנֻ֖]][[H9033\|הוּ]] [[H9005\|לְ]][[H6031B\|עַנֹּת֑]][[H9033\|וֹ]] [[H9002\|וַ]][[H0587\|אֲנַ֙חְנוּ֙]] [[H5414G\|נִתַּן]][[H9014\|־]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H0376I\|אִ֕ישׁ]] [[H0505G\|אֶ֥לֶף]] [[H9002\|וּ]][[H3967\|מֵאָ֖ה]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIBERY|BRIBERY]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic PHILISTINES|PHILISTINES]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.4|<< Judges 16:4]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.6|Judges 16:6 >>]]</td></tr></table>
 

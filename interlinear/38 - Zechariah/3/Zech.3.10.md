@@ -1,8 +1,61 @@
+---
+title: Zechariah 3:10
+type: Verse
+kjv: "In that day, saith the LORD of hosts, shall ye call every man his neighbour under the vine and under the fig tree."
+bsb: "On that day, declares the LORD of Hosts, you will each invite your neighbor to sit under your own vine and fig tree.’”"
+hebrew: "בַּיּ֣וֹם הַה֗וּא נְאֻם֙ יְהוָ֣ה צְבָא֔וֹת תִּקְרְא֖וּ אִ֣ישׁ לְרֵעֵ֑הוּ אֶל־ תַּ֥חַת גֶּ֖פֶן וְאֶל־ תַּ֥חַת תְּאֵנָֽה׃"
+pericope: "[[Zech.3.1 The Vision of Joshua the High Priest|The Vision of Joshua the High Priest]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 3
+book/chapter: "[[Zech.3|Zechariah 3]]"
+chronological_order: 859
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H7121G]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8478G]]"
+- "[[H1612]]"
+- "[[H9002]]"
+- "[[H8384]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 3:10**<big><big>[[Zech.3.1 The Vision of Joshua the High Priest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day, saith the LORD of hosts, shall ye call every man his neighbour under the vine and under the fig tree.
 <small><sub>**BSB:**</sub></small>
 On that day, declares the LORD of Hosts, you will each invite your neighbor to sit under your own vine and fig tree.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H5002\|נְאֻם֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H7121G\|תִּקְרְא֖וּ]] [[H0376I\|אִ֣ישׁ]] [[H9005\|לְ]][[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H8478G\|תַּ֥חַת]] [[H1612\|גֶּ֖פֶן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H8478G\|תַּ֥חַת]] [[H8384\|תְּאֵנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3.9|<< Zechariah 3:9]]</td><td align="center" style="border:none;">[[Zech.3|Zechariah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.1|Zechariah 4:1 >>]]</td></tr></table>
 

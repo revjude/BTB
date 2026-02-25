@@ -7,7 +7,7 @@
 
 - The king's seer [[1Chr.25.5|1Ch 25:5]]
 
-- His sons and daughters temple musicians [[1Chr.6.33|1Ch 6:33]]; [[1Chr.25.1|25:1]]-[[1Chr.25.6|6]]
+- His sons and daughters temple musicians [[1Chr.6.33|1Ch 6:33]]; [[1Chr.25.1|25:1-6]]
 
 - &#8221;Maschil of,&#8221; title of [[Ps.88|Ps 88]]
 

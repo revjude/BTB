@@ -1,8 +1,83 @@
+---
+title: Deuteronomy 28:64
+type: Verse
+kjv: "And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, even wood and stone."
+bsb: "Then the LORD will scatter you among all the nations, from one end of the earth to the other, and there you will worship other gods, gods of wood and stone, which neither you nor your fathers have known."
+hebrew: "וֶהֱפִֽיצְךָ֤ יְהוָה֙ בְּכָל־ הָ֣עַמִּ֔ים מִקְצֵ֥ה הָאָ֖רֶץ וְעַד־ קְצֵ֣ה הָאָ֑רֶץ וְעָבַ֨דְתָּ שָּׁ֜ם אֱלֹהִ֣ים אֲחֵרִ֗ים אֲשֶׁ֧ר לֹא־ יָדַ֛עְתָּ אַתָּ֥ה וַאֲבֹתֶ֖יךָ עֵ֥ץ וָאָֽבֶן׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic STONES|STONES]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6327A]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H5647H]]"
+- "[[H8033G]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0859A]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H6086G]]"
+- "[[H0068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:64**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other gods, which neither thou nor thy fathers have known, [even] wood and stone.
 <small><sub>**BSB:**</sub></small>
 Then the LORD will scatter you among all the nations, from one end of the earth to the other, and there you will worship other gods, gods of wood and stone, which neither you nor your fathers have known.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וֶ]][[H6327A\|הֱפִֽיצְ]][[H9031\|ךָ֤]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ֣]][[H5971A\|עַמִּ֔ים]] [[H9006\|מִ]][[H7097A\|קְצֵ֥ה]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H7097A\|קְצֵ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H5647H\|עָבַ֨דְתָּ]] [[H8033G\|שָּׁ֜ם]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֗ים]] [[H0834A\|אֲשֶׁ֧ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֛עְתָּ]] [[H0859A\|אַתָּ֥ה]] [[H9002\|וַ]][[H0001G\|אֲבֹתֶ֖י]][[H9021\|ךָ]] [[H6086G\|עֵ֥ץ]] [[H9002\|וָ]][[H0068G\|אָֽבֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic STONES|STONES]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.64|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.63|<< Deuteronomy 28:63]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.65|Deuteronomy 28:65 >>]]</td></tr></table>
 

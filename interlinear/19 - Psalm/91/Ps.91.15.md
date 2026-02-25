@@ -1,8 +1,59 @@
+---
+title: Psalm 91:15
+type: Verse
+kjv: "He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him."
+bsb: "When he calls out to Me, I will answer him; I will be with him in trouble. I will deliver him and honor him."
+hebrew: "יִקְרָאֵ֨נִי׀ וְֽאֶעֱנֵ֗הוּ עִמּֽוֹ־ אָנֹכִ֥י בְצָרָ֑ה אֲ֝חַלְּצֵ֗הוּ וַֽאֲכַבְּדֵֽהוּ׃"
+pericope: "[[Ps.91.1 You Are My Refuge and My Fortress|You Are My Refuge and My Fortress]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 91
+book/chapter: "[[Ps.91|Psalm 91]]"
+chronological_order: 518
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H7121G]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H6030B]]"
+- "[[H9033]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0595]]"
+- "[[H9003]]"
+- "[[H6869B]]"
+- "[[H2502A]]"
+- "[[H3513G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 91:15**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall call upon me, and I will answer him: I [will be] with him in trouble; I will deliver him, and honour him.
 <small><sub>**BSB:**</sub></small>
 When he calls out to Me, I will answer him; I will be with him in trouble. I will deliver him and honor him.
+<small><sub>**Hebrew:**</sub></small>
+[[H7121G\|יִקְרָאֵ֨]][[H9030\|נִי]][[H9015\|׀]] [[H9002\|וְֽ]][[H6030B\|אֶעֱנֵ֗]][[H9033\|הוּ]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9014\|־]] [[H0595\|אָנֹכִ֥י]] [[H9003\|בְ]][[H6869B\|צָרָ֑ה]] [[H2502A\|אֲ֝חַלְּצֵ֗]][[H9033\|הוּ]] [[H9002\|וַֽ]][[H3513G\|אֲכַבְּדֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.91.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.14|<< Psalms 91:14]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.16|Psalms 91:16 >>]]</td></tr></table>
 

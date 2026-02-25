@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ministry of the Twelve
+type: Pericope
 pericope: "[[Luke.9.1 The Ministry of the Twelve|The Ministry of the Twelve]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 9
 book/chapter: "[[Luke.9|Luke 9]]"
-genre:
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.9.1]]"
 - "[[Luke.9.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.9.6]]"
 ---
 
-[[Luke.9|Luke 9:1 - Luke 9:6]]
+<small>[[Luke.9|Luke 9:1-6]]</small>
 *The Ministry of the Twelve*
 
 [[Luke.9.1|1]] Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.

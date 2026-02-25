@@ -1,8 +1,59 @@
+---
+title: Genesis 5:27
+type: Verse
+kjv: "And all the days of Methuselah were nine hundred sixty and nine years: and he died."
+bsb: "So Methuselah lived a total of 969 years, and then he died."
+hebrew: "וַיִּהְיוּ֙ כָּל־ יְמֵ֣י מְתוּשֶׁ֔לַח תֵּ֤שַׁע וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ פ"
+pericope: "[[Gen.5.25 From Methuselah to Noah|From Methuselah to Noah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic LAMECH|LAMECH]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic METHUSELAH|METHUSELAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H4968]]"
+- "[[H8672]]"
+- "[[H9002]]"
+- "[[H8346]]"
+- "[[H8141]]"
+- "[[H3967]]"
+- "[[H4191]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Genesis 5:27**<big><big>[[Gen.5.25 From Methuselah to Noah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the days of Methuselah were nine hundred sixty and nine years: and he died.
 <small><sub>**BSB:**</sub></small>
 So Methuselah lived a total of 969 years, and then he died.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְיוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H4968\|מְתוּשֶׁ֔לַח]] [[H8672\|תֵּ֤שַׁע]] [[H9002\|וְ]][[H8346\|שִׁשִּׁים֙]] [[H8141\|שָׁנָ֔ה]] [[H9002\|וּ]][[H8672\|תְשַׁ֥ע]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָ֑ה]] [[H9001\|וַ]][[H4191\|יָּמֹֽת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAMECH|LAMECH]] • [[topic LONGEVITY|LONGEVITY]] • [[topic METHUSELAH|METHUSELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.26|<< Genesis 5:26]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.28|Genesis 5:28 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ So Methuselah lived a total of 969 years, and then he died.
 | and nine  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8672\|תְשַׁ֥ע]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> te.Sha'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | hundred\<s>  |**<big>&#8207;[[H3967\|מֵא֖וֹת]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | year[s]  |**<big>&#8207;[[H8141\|שָׁנָ֑ה]]&#8207; </big>**| sha.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּמֹֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּמֹֽת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.26|<< Genesis 5:26]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.28|Genesis 5:28 >>]]</td></tr></table>
 
 

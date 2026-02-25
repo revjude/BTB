@@ -1,8 +1,67 @@
+---
+title: Exodus 6:5
+type: Verse
+kjv: "And I have also heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant."
+bsb: "Furthermore, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered My covenant."
+hebrew: "וְגַ֣ם׀ אֲנִ֣י שָׁמַ֗עְתִּי אֶֽת־ נַאֲקַת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁ֥ר מִצְרַ֖יִם מַעֲבִדִ֣ים אֹתָ֑ם וָאֶזְכֹּ֖ר אֶת־ בְּרִיתִֽי׃"
+pericope: "[[Exod.6.1 God Promises Deliverance|God Promises Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9015]]"
+- "[[H0589]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5009]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H4714G]]"
+- "[[H5647G]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H2142]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 6:5**<big><big>[[Exod.6.1 God Promises Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have also heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant.
 <small><sub>**BSB:**</sub></small>
 Furthermore, I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered My covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֣ם]][[H9015\|׀]] [[H0589\|אֲנִ֣י]] [[H8085G\|שָׁמַ֗עְתִּי]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5009\|נַאֲקַת֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H4714G\|מִצְרַ֖יִם]] [[H5647G\|מַעֲבִדִ֣ים]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9001\|וָ]][[H2142\|אֶזְכֹּ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.4|<< Exodus 6:4]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.6.6|Exodus 6:6 >>]]</td></tr></table>
 

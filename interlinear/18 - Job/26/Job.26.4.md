@@ -1,8 +1,48 @@
+---
+title: Job 26:4
+type: Verse
+kjv: "To whom hast thou uttered words? and whose spirit came from thee?"
+bsb: "To whom have you uttered these words? And whose spirit spoke through you?"
+hebrew: "אֶת־ מִ֭י הִגַּ֣דְתָּ מִלִּ֑ין וְנִשְׁמַת־ מִ֝י יָצְאָ֥ה מִמֶּֽךָּ׃"
+pericope: "[[Job.26.1 Job：Who Can Understand God’s Majesty？|Job：Who Can Understand God’s Majesty？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 26
+book/chapter: "[[Job.26|Job 26]]"
+chronological_order: 37
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4310]]"
+- "[[H5046]]"
+- "[[H4405]]"
+- "[[H9002]]"
+- "[[H5397]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 26:4**<big><big>[[Job.26.1 Job：Who Can Understand God’s Majesty？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom hast thou uttered words? and whose spirit came from thee?
 <small><sub>**BSB:**</sub></small>
 To whom have you uttered these words? And whose spirit spoke through you?
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H4310\|מִ֭י]] [[H5046\|הִגַּ֣דְתָּ]] [[H4405\|מִלִּ֑ין]] [[H9002\|וְ]][[H5397\|נִשְׁמַת]][[H9014\|־]] [[H4310\|מִ֝י]] [[H3318G\|יָצְאָ֥ה]] [[H4480A\|מִמֶּֽ]][[H9031\|ךָּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.26.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.3|<< Job 26:3]]</td><td align="center" style="border:none;">[[Job.26|Job 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.26.5|Job 26:5 >>]]</td></tr></table>
 

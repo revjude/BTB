@@ -1,10 +1,71 @@
+---
+title: Luke 13:35
+type: Verse
+kjv: "Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord."
+bsb: "Look, your house is left to you desolate. And I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”"
+jesus_said: "Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until the time come when ye shall say, Blessed is he that cometh in the name of the Lord."
+greek: "ἰδοὺ ἀφίεται ὑμῖν ὁ οἶκος ὑμῶν ἔρημος. ἀμὴν λέγω δὲ ὑμῖν ὅτι· οὐ μὴ ἴδητέ με ἕως ἄν ἥξει ὅτε εἴπητε· εὐλογημένος ὁ ἐρχόμενος ἐν ὀνόματι κυρίου.¶"
+pericope: "[[Luke.13.31 Lament over Jerusalem|Lament over Jerusalem]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2400]]"
+- "[[G0863G]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G2048]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G1492H]]"
+- "[[G3165]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G2240]]"
+- "[[G3753]]"
+- "[[G2036]]"
+- "[[G2127]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Luke 13:35**<big><big>[[Luke.13.31 Lament over Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Behold, your house is left unto you desolate: and verily I say unto you, Ye shall not see me, until [the time] come when ye shall say, Blessed [is] he that cometh in the name of the Lord.
 <small><sub>**BSB:**</sub></small>
 Look, your house is left to you desolate. And I tell you that you will not see Me again until you say, ‘Blessed is He who comes in the name of the Lord.’”
-<small><sub>**Literal:**</sub></small>
-Behold is left to you the house of you desolate. Amen I say now to you that: certainly not shall you see Me until when [the time] will come when you may say; Blessed [is] the [One] coming in [the] name of [the] Lord.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.34|<< Luke 13:34]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.1|Luke 14:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ἰδοὺ]]  [[G0863G\|ἀφίεται]]  [[G4771\|ὑμῖν]]  [[G3588\|ὁ]]  [[G3624G\|οἶκος]]  [[G4771\|ὑμῶν]]  [[G2048\|ἔρημος.]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι·]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G1492H\|ἴδητέ]]  [[G3165\|με]]  [[G2193\|ἕως]]  [[G0302\|ἄν]]  [[G2240\|ἥξει]]  [[G3753\|ὅτε]]  [[G2036\|εἴπητε·]]  [[G2127\|εὐλογημένος]]  [[G3588\|ὁ]]  [[G2064\|ἐρχόμενος]]  [[G1722\|ἐν]]  [[G3686\|ὀνόματι]]  [[G2962G\|κυρίου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.34|<< Luke 13:34]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.1|Luke 14:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 13:35** is...
 > $\quad$ referencing: [[LXX.Ps.118.26|Ps 118:26]]

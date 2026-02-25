@@ -1,10 +1,70 @@
+---
+title: John 19:11
+type: Verse
+kjv: "Jesus answered, Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin."
+bsb: "Jesus answered, “You would have no authority over Me if it were not given to you from above. Therefore the one who handed Me over to you is guilty of greater sin.”"
+jesus_said: "Thou couldest have no power at all against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin."
+greek: "ἀπεκρίθη αὐτῷ Ἰησοῦς· οὐκ εἶχες ἐξουσίαν κατ᾽ ἐμοῦ οὐδεμίαν, εἰ μὴ ἦν δεδομένον σοι ἄνωθεν· διὰ τοῦτο ὁ παραδούς μέ σοι μείζονα ἁμαρτίαν ἔχει."
+pericope: "[[John.19.1 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KING|KING]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G1849]]"
+- "[[G2596]]"
+- "[[G1473]]"
+- "[[G3762]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G0509]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3860]]"
+- "[[G3165]]"
+- "[[G3173]]"
+- "[[G0266]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **John 19:11**<big><big>[[John.19.1 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered, Thou couldest have no power [at all] against me, except it were given thee from above: therefore he that delivered me unto thee hath the greater sin.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “You would have no authority over Me if it were not given to you from above. Therefore the one who handed Me over to you is guilty of greater sin.”
-<small><sub>**Literal:**</sub></small>
-Answered to him Jesus; Not you were having authority against Me none, only unless it were given to you from above; Because of this the [one] having betrayed Me to you greater sin has.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.10|<< John 19:10]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.12|John 19:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῷ]]  [[G2424G\|Ἰησοῦς·]]  [[G3756\|οὐκ]]  [[G2192\|εἶχες]]  [[G1849\|ἐξουσίαν]]  [[G2596\|κατ᾽]]  [[G1473\|ἐμοῦ]]  [[G3762\|οὐδεμίαν,]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1510\|ἦν]]  [[G1325\|δεδομένον]]  [[G4771\|σοι]]  [[G0509\|ἄνωθεν·]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G3588\|ὁ]]  [[G3860\|παραδούς]]  [[G3165\|μέ]]  [[G4771\|σοι]]  [[G3173\|μείζονα]]  [[G0266\|ἁμαρτίαν]]  [[G2192\|ἔχει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMAGOGISM|DEMAGOGISM]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KING|KING]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.10|<< John 19:10]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.12|John 19:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: 1 Timothy 1:18
+type: Verse
+kjv: "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;"
+bsb: "Timothy, my child, I entrust you with this command in keeping with the previous prophecies about you, so that by them you may fight the good fight,"
+greek: "Ταύτην τὴν παραγγελίαν παρατίθεμαί σοι, τέκνον Τιμόθεε, κατὰ τὰς προαγούσας ἐπὶ σὲ προφητείας, ἵνα στρατεύῃ ἐν αὐταῖς τὴν καλὴν στρατείαν"
+pericope: "[[1Tim.1.12 God’s Grace to Paul|God’s Grace to Paul]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 1
+book/chapter: "[[1Tim.1|1 Timothy 1]]"
+chronological_order: 1126
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TIMOTHY|TIMOTHY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3852]]"
+- "[[G3908]]"
+- "[[G4771]]"
+- "[[G5043]]"
+- "[[G5095]]"
+- "[[G2596]]"
+- "[[G4254]]"
+- "[[G1909]]"
+- "[[G4394]]"
+- "[[G2443]]"
+- "[[G4754]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2570G]]"
+- "[[G4752]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Timothy 1:18**<big><big>[[1Tim.1.12 God’s Grace to Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;
 <small><sub>**BSB:**</sub></small>
 Timothy, my child, I entrust you with this command in keeping with the previous prophecies about you, so that by them you may fight the good fight,
-<small><sub>**Literal:**</sub></small>
-This <the> charge I commit to you, [my] child Timothy, according to the going before as to you prophecies, that you may war by them the good warfare<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.17|<< 1 Timothy 1:17]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.19|1 Timothy 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταύτην]]  [[G3588\|τὴν]]  [[G3852\|παραγγελίαν]]  [[G3908\|παρατίθεμαί]]  [[G4771\|σοι,]]  [[G5043\|τέκνον]]  [[G5095\|Τιμόθεε,]]  [[G2596\|κατὰ]]  [[G3588\|τὰς]]  [[G4254\|προαγούσας]]  [[G1909\|ἐπὶ]]  [[G4771\|σὲ]]  [[G4394\|προφητείας,]]  [[G2443\|ἵνα]]  [[G4754\|στρατεύῃ]]  [[G1722\|ἐν]]  [[G0846\|αὐταῖς]]  [[G3588\|τὴν]]  [[G2570G\|καλὴν]]  [[G4752\|στρατείαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TIMOTHY|TIMOTHY]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.1.17|<< 1 Timothy 1:17]]</td><td align="center" style="border:none;">[[1Tim.1|1 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.1.19|1 Timothy 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

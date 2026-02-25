@@ -1,10 +1,56 @@
+---
+title: John 20:20
+type: Verse
+kjv: "And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the Lord."
+bsb: "After He had said this, He showed them His hands and His side. The disciples rejoiced when they saw the Lord."
+greek: "καὶ τοῦτο εἰπὼν ἔδειξεν καὶ τὰς χεῖρας καὶ τὴν πλευρὰν αὐτοῦ αὐτοῖς. ἐχάρησαν οὖν οἱ μαθηταὶ ἰδόντες τὸν κύριον.¶"
+pericope: "[[John.20.19 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G1166]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G4125]]"
+- "[[G0846]]"
+- "[[G5463]]"
+- "[[G3767]]"
+- "[[G3101]]"
+- "[[G1492H]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- O
+- k
+---
+
 **John 20:20**<big><big>[[John.20.19 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had so said, he shewed unto them [his] hands and his side. Then were the disciples glad, when they saw the Lord.
 <small><sub>**BSB:**</sub></small>
 After He had said this, He showed them His hands and His side. The disciples rejoiced when they saw the Lord.
-<small><sub>**Literal:**</sub></small>
-And this having said He showed also the hands and the side of him to them. Rejoiced then the disciples having seen the Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.19|<< John 20:19]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.21|John 20:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|τοῦτο]]  [[G2036\|εἰπὼν]]  [[G1166\|ἔδειξεν]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4125\|πλευρὰν]]  [[G0846\|αὐτοῦ]]  [[G0846\|αὐτοῖς.]]  [[G5463\|ἐχάρησαν]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G1492H\|ἰδόντες]]  [[G3588\|τὸν]]  [[G2962G\|κύριον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.19|<< John 20:19]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.21|John 20:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: Luke 2:10
+type: Verse
+kjv: "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people."
+bsb: "But the angel said to them, “Do not be afraid! For behold, I bring you good news of great joy that will be for all the people:"
+greek: "καὶ εἶπεν αὐτοῖς ὁ ἄγγελος· μὴ φοβεῖσθε· ἰδοὺ γὰρ εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην ἥτις ἔσται παντὶ τῷ λαῷ"
+pericope: "[[Luke.2.8 The Shepherds and the Angels|The Shepherds and the Angels]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 2
+book/chapter: "[[Luke.2|Luke 2]]"
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G2400]]"
+- "[[G1063]]"
+- "[[G2097]]"
+- "[[G4771]]"
+- "[[G5479]]"
+- "[[G3173]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G2992]]"
+texts:
+- NKO
+---
+
 **Luke 2:10**<big><big>[[Luke.2.8 The Shepherds and the Angels|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.
 <small><sub>**BSB:**</sub></small>
 But the angel said to them, “Do not be afraid! For behold, I bring you good news of great joy that will be for all the people:
-<small><sub>**Literal:**</sub></small>
-And said to them the angel; Not do fear; behold for I bring good news to you [of] joy great which will be to all the people<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.9|<< Luke 2:9]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.11|Luke 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος·]]  [[G3361\|μὴ]]  [[G5399\|φοβεῖσθε·]]  [[G2400\|ἰδοὺ]]  [[G1063\|γὰρ]]  [[G2097\|εὐαγγελίζομαι]]  [[G4771\|ὑμῖν]]  [[G5479\|χαρὰν]]  [[G3173\|μεγάλην]]  [[G3748\|ἥτις]]  [[G1510\|ἔσται]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOSPEL|GOSPEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic SALVATION|SALVATION]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.2.9|<< Luke 2:9]]</td><td align="center" style="border:none;">[[Luke.2|Luke 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.2.11|Luke 2:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,62 @@
+---
+title: Mark 3:27
+type: Verse
+kjv: "No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house."
+bsb: "Indeed, no one can enter a strong man’s house to steal his possessions unless he first ties up the strong man. Then he can plunder his house."
+jesus_said: "No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house."
+greek: "ἀλλ᾽ οὐ δύναται οὐδεὶς εἰς τὴν οἰκίαν τοῦ ἰσχυροῦ εἰσελθὼν τὰ σκεύη αὐτοῦ διαρπάσαι, ἐὰν μὴ πρῶτον τὸν ἰσχυρὸν δήσῃ, καὶ τότε τὴν οἰκίαν αὐτοῦ διαρπάσει.¶"
+pericope: "[[Mark.3.20 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G3762]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G2478]]"
+- "[[G1525]]"
+- "[[G4632]]"
+- "[[G0846]]"
+- "[[G1283]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G4413G]]"
+- "[[G1210]]"
+- "[[G2532]]"
+- "[[G5119]]"
+texts:
+- NO
+- NKO
+- NK(o)
+---
+
 **Mark 3:27**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house.
 <small><sub>**BSB:**</sub></small>
 Indeed, no one can enter a strong man’s house to steal his possessions unless he first ties up the strong man. Then he can plunder his house.
-<small><sub>**Literal:**</sub></small>
-But not is able no [one] into the house of the strong man having entered the goods of him to plunder, only unless first the strong man he shall bind, And then the house of him he will plunder.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.26|<< Mark 3:26]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.28|Mark 3:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G3762\|οὐδεὶς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G3588\|τοῦ]]  [[G2478\|ἰσχυροῦ]]  [[G1525\|εἰσελθὼν]]  [[G3588\|τὰ]]  [[G4632\|σκεύη]]  [[G0846\|αὐτοῦ]]  [[G1283\|διαρπάσαι,]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G4413G\|πρῶτον]]  [[G3588\|τὸν]]  [[G2478\|ἰσχυρὸν]]  [[G1210\|δήσῃ,]]  [[G2532\|καὶ]]  [[G5119\|τότε]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G0846\|αὐτοῦ]]  [[G1283\|διαρπάσει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.26|<< Mark 3:26]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.28|Mark 3:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ask, Seek, Knock
+type: Pericope
 pericope: "[[Luke.11.5 Ask, Seek, Knock|Ask, Seek, Knock]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Luke
 chapter: 11
 book/chapter: "[[Luke.11|Luke 11]]"
-genre:
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 9
 verses:
 - "[[Luke.11.5]]"
 - "[[Luke.11.6]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Luke.11.13]]"
 ---
 
-[[Luke.11|Luke 11:5 - Luke 11:13]]
+<small>[[Luke.11|Luke 11:5-13]]</small>
 *Ask, Seek, Knock*
 
 [[Luke.11.5|5]] And he said unto them, Which of you shall have a friend, and shall go unto him at midnight, and say unto him, Friend, lend me three loaves;

@@ -1,8 +1,57 @@
+---
+title: Zephaniah 1:14
+type: Verse
+kjv: "The great day of the LORD is near, it is near, and hasteth greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly."
+bsb: "The great Day of the LORD is near—near and coming quickly. Listen, the Day of the LORD! Then the cry of the mighty will be bitter."
+hebrew: "קָר֤וֹב יוֹם־ יְהוָה֙ הַגָּד֔וֹל קָר֖וֹב וּמַהֵ֣ר מְאֹ֑ד ק֚וֹל י֣וֹם יְהוָ֔ה מַ֥ר צֹרֵ֖חַ שָׁ֥ם גִּבּֽוֹר׃"
+pericope: "[[Zeph.1.7 The Day of the LORD|The Day of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 1
+book/chapter: "[[Zeph.1|Zephaniah 1]]"
+chronological_order: 715
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7138]]"
+- "[[H3117G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H4118A]]"
+- "[[H3966]]"
+- "[[H6963H]]"
+- "[[H4751]]"
+- "[[H6873]]"
+- "[[H8033G]]"
+- "[[H1368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 1:14**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The great day of the LORD [is] near, [it is] near, and hasteth greatly, [even] the voice of the day of the LORD: the mighty man shall cry there bitterly.
 <small><sub>**BSB:**</sub></small>
 The great Day of the LORD is near—near and coming quickly. Listen, the Day of the LORD! Then the cry of the mighty will be bitter.
+<small><sub>**Hebrew:**</sub></small>
+[[H7138\|קָר֤וֹב]] [[H3117G\|יוֹם]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H7138\|קָר֖וֹב]] [[H9002\|וּ]][[H4118A\|מַהֵ֣ר]] [[H3966\|מְאֹ֑ד]] [[H6963H\|ק֚וֹל]] [[H3117G\|י֣וֹם]] [[H3068G\|יְהוָ֔ה]] [[H4751\|מַ֥ר]] [[H6873\|צֹרֵ֖חַ]] [[H8033G\|שָׁ֥ם]] [[H1368\|גִּבּֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.13|<< Zephaniah 1:13]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.15|Zephaniah 1:15 >>]]</td></tr></table>
 

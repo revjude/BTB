@@ -1,10 +1,74 @@
+---
+title: Matthew 25:27
+type: Verse
+kjv: "Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury."
+bsb: "Then you should have deposited my money with the bankers, and on my return I would have received it back with interest."
+jesus_said: "Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury."
+greek: "ἔδει σε οὖν βαλεῖν τὰ ἀργύριά μου τοῖς τραπεζίταις, καὶ ἐλθὼν ἐγὼ ἐκομισάμην ἂν τὸ ἐμὸν σὺν τόκῳ."
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1163]]"
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G0906H]]"
+- "[[G3588]]"
+- "[[G0694]]"
+- "[[G3165]]"
+- "[[G5133]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1473]]"
+- "[[G2865]]"
+- "[[G0302]]"
+- "[[G4862]]"
+- "[[G5110]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 25:27**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Thou oughtest therefore to have put my money to the exchangers, and [then] at my coming I should have received mine own with usury.
 <small><sub>**BSB:**</sub></small>
 Then you should have deposited my money with the bankers, and on my return I would have received it back with interest.
-<small><sub>**Literal:**</sub></small>
-It was necessary you therefore to put the coins of mine to the bankers, and having come I myself received then would <the> my own with interest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.26|<< Matthew 25:26]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.28|Matthew 25:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1163\|ἔδει]]  [[G4771\|σε]]  [[G3767\|οὖν]]  [[G0906H\|βαλεῖν]]  [[G3588\|τὰ]]  [[G0694\|ἀργύριά]]  [[G3165\|μου]]  [[G3588\|τοῖς]]  [[G5133\|τραπεζίταις,]]  [[G2532\|καὶ]]  [[G2064\|ἐλθὼν]]  [[G1473\|ἐγὼ]]  [[G2865\|ἐκομισάμην]]  [[G0302\|ἂν]]  [[G3588\|τὸ]]  [[G1473\|ἐμὸν]]  [[G4862\|σὺν]]  [[G5110\|τόκῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MONEY|MONEY]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SERVANT|SERVANT]] • [[topic SLOTHFULNESS|SLOTHFULNESS]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.26|<< Matthew 25:26]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.28|Matthew 25:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

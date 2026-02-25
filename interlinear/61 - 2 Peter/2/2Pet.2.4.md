@@ -1,10 +1,67 @@
+---
+title: 2 Peter 2:4
+type: Verse
+kjv: "For if God spared not the angels that sinned, but cast them down to hell, and delivered them into chains of darkness, to be reserved unto judgment;"
+bsb: "For if God did not spare the angels when they sinned, but cast them deep into hell, placing them in chains of darkness to be held for judgment;"
+greek: "Εἰ γὰρ ὁ θεὸς ἀγγέλων ἁμαρτησάντων οὐκ ἐφείσατο, ἀλλὰ σειραῖς ζόφου ταρταρώσας παρέδωκεν εἰς κρίσιν τηρουμένους,"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0032G]]"
+- "[[G0264]]"
+- "[[G3756]]"
+- "[[G5339]]"
+- "[[G0235]]"
+- "[[G4577]]"
+- "[[G2217]]"
+- "[[G5020]]"
+- "[[G3860]]"
+- "[[G1519]]"
+- "[[G2920]]"
+- "[[G5083H]]"
+texts:
+- NKO
+- NK(O)
+- N(k)O
+---
+
 **2 Peter 2:4**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For if God spared not the angels that sinned, but cast [them] down to hell, and delivered [them] into chains of darkness, to be reserved unto judgment;
 <small><sub>**BSB:**</sub></small>
 For if God did not spare the angels when they sinned, but cast them deep into hell, placing them in chains of darkness to be held for judgment;
-<small><sub>**Literal:**</sub></small>
-If for the God of [the] angels [who] having sinned not spared, but in chains of gloomy darkness to Tartarus He delivered [them] for judgment being kept,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.3|<< 2 Peter 2:3]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.5|2 Peter 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0032G\|ἀγγέλων]]  [[G0264\|ἁμαρτησάντων]]  [[G3756\|οὐκ]]  [[G5339\|ἐφείσατο,]]  [[G0235\|ἀλλὰ]]  [[G4577\|σειραῖς]]  [[G2217\|ζόφου]]  [[G5020\|ταρταρώσας]]  [[G3860\|παρέδωκεν]]  [[G1519\|εἰς]]  [[G2920\|κρίσιν]]  [[G5083H\|τηρουμένους,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAINS|CHAINS]] • [[topic COLORS|COLORS]] • [[topic DEMONS|DEMONS]] • [[topic DOCTRINES|DOCTRINES]] • [[topic HELL|HELL]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SATAN|SATAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.3|<< 2 Peter 2:3]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.5|2 Peter 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

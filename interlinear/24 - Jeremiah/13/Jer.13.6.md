@@ -1,8 +1,73 @@
+---
+title: Jeremiah 13:6
+type: Verse
+kjv: "And it came to pass after many days, that the LORD said unto me, Arise, go to Euphrates, and take the girdle from thence, which I commanded thee to hide there."
+bsb: "Many days later the LORD said to me, “Arise, go to Perath, and get the loincloth that I commanded you to hide there.”"
+hebrew: "וַיְהִ֕י מִקֵּ֖ץ יָמִ֣ים רַבִּ֑ים וַיֹּ֨אמֶר יְהוָ֜ה אֵלַ֗י ק֚וּם לֵ֣ךְ פְּרָ֔תָה וְקַ֤ח מִשָּׁם֙ אֶת־ הָ֣אֵז֔וֹר אֲשֶׁ֥ר צִוִּיתִ֖יךָ לְטָמְנוֹ־ שָֽׁם׃"
+pericope: "[[Jer.13.1 The Linen Loincloth|The Linen Loincloth]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H7093]]"
+- "[[H3117G]]"
+- "[[H7227A]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H6578]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H3947G]]"
+- "[[H8033G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0232]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H2934]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 13:6**<big><big>[[Jer.13.1 The Linen Loincloth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after many days, that the LORD said unto me, Arise, go to Euphrates, and take the girdle from thence, which I commanded thee to hide there.
 <small><sub>**BSB:**</sub></small>
 Many days later the LORD said to me, “Arise, go to Perath, and get the loincloth that I commanded you to hide there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9006\|מִ]][[H7093\|קֵּ֖ץ]] [[H3117G\|יָמִ֣ים]] [[H7227A\|רַבִּ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H6965B\|ק֚וּם]] [[H1980G\|לֵ֣ךְ]] [[H6578\|פְּרָ֔תָ]][[H9011\|ה]] [[H9002\|וְ]][[H3947G\|קַ֤ח]] [[H9006\|מִ]][[H8033G\|שָּׁם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0232\|אֵז֔וֹר]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוִּיתִ֖י]][[H9031\|ךָ]] [[H9005\|לְ]][[H2934\|טָמְנ]][[H9033\|וֹ]][[H9014\|־]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic GIRDLE|GIRDLE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.5|<< Jeremiah 13:5]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.7|Jeremiah 13:7 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Leviticus 13:21
+type: Verse
+kjv: "But if the priest look on it, and, behold, there be no white hairs therein, and if it be not lower than the skin, but be somewhat dark; then the priest shall shut him up seven days:"
+bsb: "But when the priest examines it, if there is no white hair in it, and it is not beneath the skin and has faded, the priest shall isolate him for seven days."
+hebrew: "וְאִ֣ם׀ יִרְאֶ֣נָּה הַכֹּהֵ֗ן וְהִנֵּ֤ה אֵֽין־ בָּהּ֙ שֵׂעָ֣ר לָבָ֔ן וּשְׁפָלָ֥ה אֵינֶ֛נָּה מִן־ הָע֖וֹר וְהִ֣יא כֵהָ֑ה וְהִסְגִּיר֥וֹ הַכֹּהֵ֖ן שִׁבְעַ֥ת יָמִֽים׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BOIL|BOIL]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9015]]"
+- "[[H7200G]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H8181]]"
+- "[[H3836]]"
+- "[[H8217]]"
+- "[[H9044]]"
+- "[[H4480A]]"
+- "[[H5785]]"
+- "[[H1931]]"
+- "[[H3544]]"
+- "[[H9001]]"
+- "[[H5462]]"
+- "[[H9033]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:21**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the priest look on it, and, behold, [there be] no white hairs therein, and [if] it [be] not lower than the skin, but [be] somewhat dark; then the priest shall shut him up seven days:
 <small><sub>**BSB:**</sub></small>
 But when the priest examines it, if there is no white hair in it, and it is not beneath the skin and has faded, the priest shall isolate him for seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִ֣ם]][[H9015\|׀]] [[H7200G\|יִרְאֶ֣]][[H9034\|נָּה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9003\|בָּ]][[H9034\|הּ֙]] [[H8181\|שֵׂעָ֣ר]] [[H3836\|לָבָ֔ן]] [[H9002\|וּ]][[H8217\|שְׁפָלָ֥ה]] [[H0369\|אֵינֶ֛]][[H9044\|נָּה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5785\|ע֖וֹר]] [[H9002\|וְ]][[H1931\|הִ֣יא]] [[H3544\|כֵהָ֑ה]] [[H9001\|וְ]][[H5462\|הִסְגִּיר֥]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOIL|BOIL]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.20|<< Leviticus 13:20]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.22|Leviticus 13:22 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Daniel 11:22
+type: Verse
+kjv: "And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant."
+bsb: "Then a flood of forces will be swept away before him and destroyed, along with a prince of the covenant."
+hebrew: "וּזְרֹע֥וֹת הַשֶּׁ֛טֶף יִשָּׁטְפ֥וּ מִלְּפָנָ֖יו וְיִשָּׁבֵ֑רוּ וְגַ֖ם נְגִ֥יד בְּרִֽית׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H9009]]"
+- "[[H7858]]"
+- "[[H7857]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H7665]]"
+- "[[H1571]]"
+- "[[H5057]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:22**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with the arms of a flood shall they be overflown from before him, and shall be broken; yea, also the prince of the covenant.
 <small><sub>**BSB:**</sub></small>
 Then a flood of forces will be swept away before him and destroyed, along with a prince of the covenant.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H2220\|זְרֹע֥וֹת]] [[H9009\|הַ]][[H7858\|שֶּׁ֛טֶף]] [[H7857\|יִשָּׁטְפ֥וּ]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנָ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H7665\|יִשָּׁבֵ֑רוּ]] [[H9002\|וְ]][[H1571\|גַ֖ם]] [[H5057\|נְגִ֥יד]] [[H1285\|בְּרִֽית]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.21|<< Daniel 11:21]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.23|Daniel 11:23 >>]]</td></tr></table>
 

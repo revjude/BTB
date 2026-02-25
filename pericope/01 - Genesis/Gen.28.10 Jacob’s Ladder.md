@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jacob’s Ladder
+type: Pericope
 pericope: "[[Gen.28.10 Jacob’s Ladder|Jacob’s Ladder]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 28
 book/chapter: "[[Gen.28|Genesis 28]]"
-genre:
+chronological_order: 70
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.28.10]]"
 - "[[Gen.28.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.28.17]]"
 ---
 
-[[Gen.28|Genesis 28:10 - Genesis 28:17]]
+<small>[[Gen.28|Genesis 28:10-17]]</small>
 *Jacob’s Ladder*
 
 [[Gen.28.10|10]] And Jacob went out from Beersheba, and went toward Haran.

@@ -1,8 +1,55 @@
+---
+title: Psalm 119:29
+type: Verse
+kjv: "Remove from me the way of lying: and grant me thy law graciously."
+bsb: "Remove me from the path of deceit and graciously grant me Your law."
+hebrew: "דֶּֽרֶךְ־ שֶׁ֭קֶר הָסֵ֣ר מִמֶּ֑נִּי וְֽתוֹרָתְךָ֥ חָנֵּֽנִי׃"
+pericope: "[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|Your Word Is a Lamp to My Feet - DALETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H1870G]]"
+- "[[H9014]]"
+- "[[H8267]]"
+- "[[H5493G]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H2603A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:29**<big><big>[[Ps.119.25 Your Word Is a Lamp to My Feet - DALETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove from me the way of lying: and grant me thy law graciously.
 <small><sub>**BSB:**</sub></small>
 Remove me from the path of deceit and graciously grant me Your law.
+<small><sub>**Hebrew:**</sub></small>
+[[H1870G\|דֶּֽרֶךְ]][[H9014\|־]] [[H8267\|שֶׁ֭קֶר]] [[H5493G\|הָסֵ֣ר]] [[H4480A\|מִמֶּ֑]][[H9030\|נִּי]] [[H9002\|וְֽ]][[H8451\|תוֹרָתְ]][[H9021\|ךָ֥]] [[H2603A\|חָנֵּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.28|<< Psalms 119:28]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.30|Psalms 119:30 >>]]</td></tr></table>
 

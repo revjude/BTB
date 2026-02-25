@@ -1,8 +1,74 @@
+---
+title: Jeremiah 27:18
+type: Verse
+kjv: "But if they be prophets, and if the word of the LORD be with them, let them now make intercession to the LORD of hosts, that the vessels which are left in the house of the LORD, and in the house of the king of Judah, and at Jerusalem, go not to Babylon."
+bsb: "If they are indeed prophets and the word of the LORD is with them, let them now plead with the LORD of Hosts that the articles remaining in the house of the LORD, in the palace of the king of Judah, and in Jerusalem, not be taken to Babylon."
+hebrew: "וְאִם־ נְבִאִ֣ים הֵ֔ם וְאִם־ יֵ֥שׁ דְּבַר־ יְהוָ֖ה אִתָּ֑ם יִפְגְּעוּ־ נָא֙ בַּֽיהוָ֣ה צְבָא֔וֹת לְבִלְתִּי־ בֹ֜אוּ הַכֵּלִ֣ים׀ הַנּוֹתָרִ֣ים בְּבֵית־ יְהוָ֗ה וּבֵ֨ית מֶ֧לֶךְ יְהוּדָ֛ה וּבִירוּשָׁלִַ֖ם בָּבֶֽלָה׃ פ"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5030]]"
+- "[[H1992]]"
+- "[[H3426]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H6293]]"
+- "[[H4994]]"
+- "[[H9003]]"
+- "[[H6635B]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3627]]"
+- "[[H9015]]"
+- "[[H3498]]"
+- "[[H1004Q]]"
+- "[[H1004P]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 27:18**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if they [be] prophets, and if the word of the LORD be with them, let them now make intercession to the LORD of hosts, that the vessels which are left in the house of the LORD, and [in] the house of the king of Judah, and at Jerusalem, go not to Babylon.
 <small><sub>**BSB:**</sub></small>
 If they are indeed prophets and the word of the LORD is with them, let them now plead with the LORD of Hosts that the articles remaining in the house of the LORD, in the palace of the king of Judah, and in Jerusalem, not be taken to Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H5030\|נְבִאִ֣ים]] [[H1992\|הֵ֔ם]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֵ֥שׁ]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0854\|אִתָּ֑]][[H9038\|ם]] [[H6293\|יִפְגְּעוּ]][[H9014\|־]] [[H4994\|נָא֙]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9005\|לְ]][[H1115\|בִלְתִּי]][[H9014\|־]] [[H0935G\|בֹ֜אוּ]] [[H9009\|הַ]][[H3627\|כֵּלִ֣ים]][[H9015\|׀]] [[H9009\|הַ]][[H3498\|נּוֹתָרִ֣ים]] [[H9003\|בְּ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וּ]][[H1004P\|בֵ֨ית]] [[H4428G\|מֶ֧לֶךְ]] [[H3063G\|יְהוּדָ֛ה]] [[H9002\|וּ]][[H9003\|בִ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H0894\|בָּבֶֽלָ]][[H9011\|ה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.17|<< Jeremiah 27:17]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.19|Jeremiah 27:19 >>]]</td></tr></table>
 
@@ -30,7 +96,7 @@ If they are indeed prophets and the word of the LORD is with them, let them now 
 | [the] king of  |**<big>&#8207;[[H4428G\|מֶ֧לֶךְ]]&#8207; </big>**| Me.lekh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֛ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and in Jerusalem  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בִ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִַ֖ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Babylon towards  |**<big>&#8207;[[H0894\|בָּבֶֽלָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.Ve.la<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Babylon towards  |**<big>&#8207;[[H0894\|בָּבֶֽלָ]]&#8207;&#8207;[[H9011\|ה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.Ve.la<small><sup>[[HNpl]]</sup></small> h<small><sup>[[HSd]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.17|<< Jeremiah 27:17]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.19|Jeremiah 27:19 >>]]</td></tr></table>
 
 

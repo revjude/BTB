@@ -1,8 +1,62 @@
+---
+title: Jeremiah 2:34
+type: Verse
+kjv: "Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these."
+bsb: "Moreover, your skirts are stained with the blood of the innocent poor, though you did not find them breaking in. But in spite of all these things"
+hebrew: "גַּ֤ם בִּכְנָפַ֙יִךְ֙ נִמְצְא֔וּ דַּ֛ם נַפְשׁ֥וֹת אֶבְיוֹנִ֖ים נְקִיִּ֑ים לֹֽא־ בַמַּחְתֶּ֥רֶת מְצָאתִ֖ים כִּ֥י עַל־ כָּל־ אֵֽלֶּה׃"
+pericope: "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H3671]]"
+- "[[H9022]]"
+- "[[H4672]]"
+- "[[H1818]]"
+- "[[H5315H]]"
+- "[[H0034]]"
+- "[[H5355A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4290]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:34**<big><big>[[Jer.2.23 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these.
 <small><sub>**BSB:**</sub></small>
 Moreover, your skirts are stained with the blood of the innocent poor, though you did not find them breaking in. But in spite of all these things
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֤ם]] [[H9003\|בִּ]][[H3671\|כְנָפַ֙יִ]][[H9022\|ךְ֙]] [[H4672\|נִמְצְא֔וּ]] [[H1818\|דַּ֛ם]] [[H5315H\|נַפְשׁ֥וֹת]] [[H0034\|אֶבְיוֹנִ֖ים]] [[H5355A\|נְקִיִּ֑ים]] [[H3808\|לֹֽא]][[H9014\|־]] [[H9003\|בַ]][[H4290\|מַּחְתֶּ֥רֶת]] [[H4672\|מְצָאתִ֖י]][[H9038\|ם]] [[H3588A\|כִּ֥י]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.33|<< Jeremiah 2:33]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.35|Jeremiah 2:35 >>]]</td></tr></table>
 

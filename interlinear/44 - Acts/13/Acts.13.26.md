@@ -1,10 +1,66 @@
+---
+title: Acts 13:26
+type: Verse
+kjv: "Men and brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent."
+bsb: "Brothers, children of Abraham, and you Gentiles who fear God, it is to us that this message of salvation has been sent."
+greek: "Ἄνδρες ἀδελφοί, υἱοὶ γένους Ἀβραὰμ καὶ οἱ ἐν ὑμῖν φοβούμενοι τὸν θεόν, ἡμῖν ὁ λόγος τῆς σωτηρίας ταύτης ἐξαπεστάλη."
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G5207]]"
+- "[[G1085G]]"
+- "[[G0011]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G5399]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G3056]]"
+- "[[G4991]]"
+- "[[G3778]]"
+- "[[G1821]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 13:26**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Men [and] brethren, children of the stock of Abraham, and whosoever among you feareth God, to you is the word of this salvation sent.
 <small><sub>**BSB:**</sub></small>
 Brothers, children of Abraham, and you Gentiles who fear God, it is to us that this message of salvation has been sent.
-<small><sub>**Literal:**</sub></small>
-Men brothers, sons of [the] family of Abraham and you who [are] among you fearing <the> God, to us the message of the salvation this was sent out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.25|<< Acts 13:25]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.27|Acts 13:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0435G\|Ἄνδρες]]  [[G0080\|ἀδελφοί,]]  [[G5207\|υἱοὶ]]  [[G1085G\|γένους]]  [[G0011\|Ἀβραὰμ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G5399\|φοβούμενοι]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G3165\|ἡμῖν]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3588\|τῆς]]  [[G4991\|σωτηρίας]]  [[G3778\|ταύτης]]  [[G1821\|ἐξαπεστάλη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic GOSPEL|GOSPEL]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic REVERENCE|REVERENCE]] • [[topic SALVATION|SALVATION]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.25|<< Acts 13:25]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.27|Acts 13:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

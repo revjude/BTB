@@ -1,8 +1,56 @@
+---
+title: 2 Samuel 1:27
+type: Verse
+kjv: "How are the mighty fallen, and the weapons of war perished!"
+bsb: "How the mighty have fallen, and the weapons of war have perished!”"
+hebrew: "אֵ֚יךְ נָפְל֣וּ גִבּוֹרִ֔ים וַיֹּאבְד֖וּ כְּלֵ֥י מִלְחָמָֽה׃ פ"
+pericope: "[[2Sam.1.17 David’s Song for Saul and Jonathan|David’s Song for Saul and Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELEGY|ELEGY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H0349A]]"
+- "[[H5307G]]"
+- "[[H1368]]"
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H3627]]"
+- "[[H4421]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Samuel 1:27**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How are the mighty fallen, and the weapons of war perished!
 <small><sub>**BSB:**</sub></small>
 How the mighty have fallen, and the weapons of war have perished!”
+<small><sub>**Hebrew:**</sub></small>
+[[H0349A\|אֵ֚יךְ]] [[H5307G\|נָפְל֣וּ]] [[H1368\|גִבּוֹרִ֔ים]] [[H9001\|וַ]][[H0006\|יֹּאבְד֖וּ]] [[H3627\|כְּלֵ֥י]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ELEGY|ELEGY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic MOURNING|MOURNING]] • [[topic POETRY|POETRY]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.26|<< 2 Samuel 1:26]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.1|2 Samuel 2:1 >>]]</td></tr></table>
 
@@ -13,7 +61,7 @@ How the mighty have fallen, and the weapons of war have perished!”
 | [the] mighty [ones]  |**<big>&#8207;[[H1368\|גִבּוֹרִ֔ים]]&#8207; </big>**| gi.bo.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they have perished  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0006\|יֹּאבְד֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yoe.Du<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] weapons of  |**<big>&#8207;[[H3627\|כְּלֵ֥י]]&#8207; </big>**| ke.Lei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| war  |**<big>&#8207;[[H4421\|מִלְחָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| war  |**<big>&#8207;[[H4421\|מִלְחָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| mil.cha.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.26|<< 2 Samuel 1:26]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.1|2 Samuel 2:1 >>]]</td></tr></table>
 
 

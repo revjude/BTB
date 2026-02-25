@@ -1,8 +1,45 @@
+---
+title: Job 27:1
+type: Verse
+kjv: "Moreover Job continued his parable, and said,"
+bsb: "Job continued his discourse:"
+hebrew: "וַיֹּ֣סֶף אִ֭יּוֹב שְׂאֵ֥ת מְשָׁל֗וֹ וַיֹּאמַֽר׃"
+pericope: "[[Job.27.1 Job Affirms His Integrity|Job Affirms His Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H0347]]"
+- "[[H5375N]]"
+- "[[H4912]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:1**<big><big>[[Job.27.1 Job Affirms His Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover Job continued his parable, and said,
 <small><sub>**BSB:**</sub></small>
 Job continued his discourse:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּ֣סֶף]] [[H0347\|אִ֭יּוֹב]] [[H5375N\|שְׂאֵ֥ת]] [[H4912\|מְשָׁל֗]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּאמַֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.26.14|<< Job 26:14]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.2|Job 27:2 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Numbers 7:1
+type: Verse
+kjv: "And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;"
+bsb: "On the day Moses finished setting up the tabernacle, he anointed and consecrated it and all its furnishings, along with the altar and all its utensils."
+hebrew: "וַיְהִ֡י בְּיוֹם֩ כַּלּ֨וֹת מֹשֶׁ֜ה לְהָקִ֣ים אֶת־ הַמִּשְׁכָּ֗ן וַיִּמְשַׁ֨ח אֹת֜וֹ וַיְקַדֵּ֤שׁ אֹתוֹ֙ וְאֶת־ כָּל־ כֵּלָ֔יו וְאֶת־ הַמִּזְבֵּ֖חַ וְאֶת־ כָּל־ כֵּלָ֑יו וַיִּמְשָׁחֵ֖ם וַיְקַדֵּ֥שׁ אֹתָֽם׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3615G]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H6965H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4908]]"
+- "[[H4886]]"
+- "[[H9033]]"
+- "[[H6942G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H4196]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:1**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;
 <small><sub>**BSB:**</sub></small>
 On the day Moses finished setting up the tabernacle, he anointed and consecrated it and all its furnishings, along with the altar and all its utensils.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H9003\|בְּ]][[H3117G\|יוֹם֩]] [[H3615G\|כַּלּ֨וֹת]] [[H4872\|מֹשֶׁ֜ה]] [[H9005\|לְ]][[H6965H\|הָקִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֗ן]] [[H9001\|וַ]][[H4886\|יִּמְשַׁ֨ח]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H9001\|וַ]][[H6942G\|יְקַדֵּ֤שׁ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H4886\|יִּמְשָׁחֵ֖]][[H9038\|ם]] [[H9001\|וַ]][[H6942G\|יְקַדֵּ֥שׁ]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic CHURCH|CHURCH]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.27|<< Numbers 6:27]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.2|Numbers 7:2 >>]]</td></tr></table>
 

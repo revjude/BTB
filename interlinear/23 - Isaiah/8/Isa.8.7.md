@@ -1,8 +1,73 @@
+---
+title: Isaiah 8:7
+type: Verse
+kjv: "Now therefore, behold, the Lord bringeth up upon them the waters of the river, strong and many, even the king of Assyria, and all his glory: and he shall come up over all his channels, and go over all his banks:"
+bsb: "the Lord will surely bring against them the mighty floodwaters of the Euphrates—the king of Assyria and all his pomp. It will overflow its channels and overrun its banks."
+hebrew: "וְלָכֵ֡ן הִנֵּ֣ה אֲדֹנָי֩ מַעֲלֶ֨ה עֲלֵיהֶ֜ם אֶת־ מֵ֣י הַנָּהָ֗ר הָעֲצוּמִים֙ וְהָ֣רַבִּ֔ים אֶת־ מֶ֥לֶךְ אַשּׁ֖וּר וְאֶת־ כָּל־ כְּבוֹד֑וֹ וְעָלָה֙ עַל־ כָּל־ אֲפִיקָ֔יו וְהָלַ֖ךְ עַל־ כָּל־ גְּדוֹתָֽיו׃"
+pericope: "[[Isa.8.1 Assyrian Invasion Prophesied|Assyrian Invasion Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REZIN|REZIN]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2009]]"
+- "[[H0136]]"
+- "[[H5927H]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9009]]"
+- "[[H5104G]]"
+- "[[H6099]]"
+- "[[H7227A]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H3605]]"
+- "[[H3519]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H0650]]"
+- "[[H1980G]]"
+- "[[H1415]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:7**<big><big>[[Isa.8.1 Assyrian Invasion Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, behold, the Lord bringeth up upon them the waters of the river, strong and many, [even] the king of Assyria, and all his glory: and he shall come up over all his channels, and go over all his banks:
 <small><sub>**BSB:**</sub></small>
 the Lord will surely bring against them the mighty floodwaters of the Euphrates—the king of Assyria and all his pomp. It will overflow its channels and overrun its banks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לָ]][[H3651C\|כֵ֡ן]] [[H2009\|הִנֵּ֣ה]] [[H0136\|אֲדֹנָי֩]] [[H5927H\|מַעֲלֶ֨ה]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4325G\|מֵ֣י]] [[H9009\|הַ]][[H5104G\|נָּהָ֗ר]] [[H9009\|הָ]][[H6099\|עֲצוּמִים֙]] [[H9002\|וְ]][[H9009\|הָ֣]][[H7227A\|רַבִּ֔ים]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0804G\|אַשּׁ֖וּר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3519\|כְּבוֹד֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H5927G\|עָלָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0650\|אֲפִיקָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H1980G\|הָלַ֖ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1415\|גְּדוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic EUPHRATES|EUPHRATES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PEKAH|PEKAH]] • [[topic REZIN|REZIN]] • [[topic SYRIA|SYRIA]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.6|<< Isaiah 8:6]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.8|Isaiah 8:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,65 @@
+---
+title: Luke 9:50
+type: Verse
+kjv: "And Jesus said unto him, Forbid him not: for he that is not against us is for us."
+bsb: "“Do not stop him,” Jesus replied, “for whoever is not against you is for you.”"
+jesus_said: "Forbid him not: for he that is not against us is for us."
+greek: "Καὶ Εἶπεν δὲ πρὸς αὐτὸν ὁ Ἰησοῦς· μὴ κωλύετε· ὃς γὰρ οὐκ ἔστιν καθ᾽ ὑμῶν ὑπὲρ ὑμῶν ἐστιν.¶"
+pericope: "[[Luke.9.46 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic TOLERATION|TOLERATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3361]]"
+- "[[G2967]]"
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2596]]"
+- "[[G4771]]"
+- "[[G5228]]"
+texts:
+- k
+- NKO
+- no
+- N(K)O
+---
+
 **Luke 9:50**<big><big>[[Luke.9.46 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus said unto him, Forbid [him] not: for he that is not against us is for us.
 <small><sub>**BSB:**</sub></small>
 “Do not stop him,” Jesus replied, “for whoever is not against you is for you.”
-<small><sub>**Literal:**</sub></small>
-and Said then to him <the> Jesus; Not do forbid; who[ever] for not is against you for you is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.49|<< Luke 9:49]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.51|Luke 9:51 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|Εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3361\|μὴ]]  [[G2967\|κωλύετε·]]  [[G3739\|ὃς]]  [[G1063\|γὰρ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G2596\|καθ᾽]]  [[G4771\|ὑμῶν]]  [[G5228\|ὑπὲρ]]  [[G4771\|ὑμῶν]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic TOLERATION|TOLERATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.49|<< Luke 9:49]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.51|Luke 9:51 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Restoring the Sabbath
+type: Pericope
 pericope: "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 17
 book/chapter: "[[Jer.17|Jeremiah 17]]"
-genre:
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 9
 verses:
 - "[[Jer.17.19]]"
 - "[[Jer.17.20]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Jer.17.27]]"
 ---
 
-[[Jer.17|Jeremiah 17:19 - Jeremiah 17:27]]
+<small>[[Jer.17|Jeremiah 17:19-27]]</small>
 *Restoring the Sabbath*
 
 [[Jer.17.19|19]] Thus said the LORD unto me; Go and stand in the gate of the children of the people, whereby the kings of Judah come in, and by the which they go out, and in all the gates of Jerusalem;

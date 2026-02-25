@@ -1,10 +1,63 @@
+---
+title: Revelation 21:24
+type: Verse
+kjv: "And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it."
+bsb: "By its light the nations will walk, and into it the kings of the earth will bring their glory."
+greek: "καὶ περιπατήσουσιν τὰ ἔθνη τῶν σωζομένων διὰ τοῦ φωτὸς αὐτῆς, καὶ οἱ βασιλεῖς τῆς γῆς φέρουσιν τὴν δόξαν καὶ τὴν τιμὴν αὐτῶν εἰς αὐτήν."
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WALKING|WALKING]]"
+strongs:
+- "[[G2532]]"
+- "[[G4043]]"
+- "[[G3588]]"
+- "[[G1484]]"
+- "[[G4982]]"
+- "[[G1223]]"
+- "[[G5457]]"
+- "[[G0846]]"
+- "[[G0935]]"
+- "[[G1093G]]"
+- "[[G5342]]"
+- "[[G1391]]"
+- "[[G5092]]"
+- "[[G1519]]"
+texts:
+- NKO
+- K
+- N(k)O
+- NK(O)
+---
+
 **Revelation 21:24**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
 <small><sub>**BSB:**</sub></small>
 By its light the nations will walk, and into it the kings of the earth will bring their glory.
-<small><sub>**Literal:**</sub></small>
-And will walk the nations those being saved through the light of it and the kings of the earth bring the glory and the honor of them into it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.23|<< Revelation 21:23]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.25|Revelation 21:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4043\|περιπατήσουσιν]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G3588\|τῶν]]  [[G4982\|σωζομένων]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G5457\|φωτὸς]]  [[G0846\|αὐτῆς,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0935\|βασιλεῖς]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G5342\|φέρουσιν]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G5092\|τιμὴν]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G0846\|αὐτήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HEAVEN|HEAVEN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WALKING|WALKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.23|<< Revelation 21:23]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.25|Revelation 21:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:24** is...
 > $\quad$ alluding to: [[LXX.Isa.60.3|Isa 60:3]] ☩ [[LXX.Isa.60.11|Isa 60:11]] ☩ [[LXX.Isa.60.20|Isa 60:20]]

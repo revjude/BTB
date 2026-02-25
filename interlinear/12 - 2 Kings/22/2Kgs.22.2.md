@@ -1,8 +1,64 @@
+---
+title: 2 Kings 22:2
+type: Verse
+kjv: "And he did that which was right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left."
+bsb: "And he did what was right in the eyes of the LORD and walked in all the ways of his father David; he did not turn aside to the right or to the left."
+hebrew: "וַיַּ֥עַשׂ הַיָּשָׁ֖ר בְּעֵינֵ֣י יְהוָ֑ה וַיֵּ֗לֶךְ בְּכָל־ דֶּ֙רֶךְ֙ דָּוִ֣ד אָבִ֔יו וְלֹא־ סָ֖ר יָמִ֥ין וּשְׂמֹֽאול׃ פ"
+pericope: "[[2Kgs.22.1 Josiah Reigns in Judah|Josiah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 22
+book/chapter: "[[2Kgs.22|2 Kings 22]]"
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3068G]]"
+- "[[H1980I]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5493I]]"
+- "[[H3225G]]"
+- "[[H8040G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 22:2**<big><big>[[2Kgs.22.1 Josiah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left.
 <small><sub>**BSB:**</sub></small>
 And he did what was right in the eyes of the LORD and walked in all the ways of his father David; he did not turn aside to the right or to the left.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֖ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H1980I\|יֵּ֗לֶךְ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1870G\|דֶּ֙רֶךְ֙]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5493I\|סָ֖ר]] [[H3225G\|יָמִ֥ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹֽאול]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.22.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.1|<< 2 Kings 22:1]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.3|2 Kings 22:3 >>]]</td></tr></table>
 
@@ -20,7 +76,7 @@ And he did what was right in the eyes of the LORD and walked in all the ways of 
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he turned aside  |**<big>&#8207;[[H5493I\|סָ֖ר]]&#8207; </big>**| sar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | right [hand]  |**<big>&#8207;[[H3225G\|יָמִ֥ין]]&#8207; </big>**| ya.Min<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and left [hand]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8040G\|שְׂמֹֽאול]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and left [hand]  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8040G\|שְׂמֹֽאול]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> se.Mol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.22.1|<< 2 Kings 22:1]]</td><td align="center" style="border:none;">[[2Kgs.22|2 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.22.3|2 Kings 22:3 >>]]</td></tr></table>
 
 

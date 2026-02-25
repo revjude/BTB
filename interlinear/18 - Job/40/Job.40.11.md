@@ -1,8 +1,53 @@
+---
+title: Job 40:11
+type: Verse
+kjv: "Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him."
+bsb: "Unleash the fury of your wrath; look on every proud man and bring him low."
+hebrew: "הָ֭פֵץ עֶבְר֣וֹת אַפֶּ֑ךָ וּרְאֵ֥ה כָל־ גֵּ֝אֶ֗ה וְהַשְׁפִּילֵֽהוּ׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H6327A]]"
+- "[[H5678]]"
+- "[[H0639G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1343]]"
+- "[[H8213]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:11**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cast abroad the rage of thy wrath: and behold every one [that is] proud, and abase him.
 <small><sub>**BSB:**</sub></small>
 Unleash the fury of your wrath; look on every proud man and bring him low.
+<small><sub>**Hebrew:**</sub></small>
+[[H6327A\|הָ֭פֵץ]] [[H5678\|עֶבְר֣וֹת]] [[H0639G\|אַפֶּ֑]][[H9021\|ךָ]] [[H9002\|וּ]][[H7200G\|רְאֵ֥ה]] [[H3605\|כָל]][[H9014\|־]] [[H1343\|גֵּ֝אֶ֗ה]] [[H9002\|וְ]][[H8213\|הַשְׁפִּילֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.10|<< Job 40:10]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.12|Job 40:12 >>]]</td></tr></table>
 

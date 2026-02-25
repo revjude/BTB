@@ -1,8 +1,56 @@
+---
+title: Psalm 119:40
+type: Verse
+kjv: "Behold, I have longed after thy precepts: quicken me in thy righteousness."
+bsb: "How I long for Your precepts! Revive me in Your righteousness."
+hebrew: "הִ֭נֵּה תָּאַ֣בְתִּי לְפִקֻּדֶ֑יךָ בְּצִדְקָתְךָ֥ חַיֵּֽנִי׃"
+pericope: "[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|Your Word Is a Lamp to My Feet - HE]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H2009]]"
+- "[[H8373]]"
+- "[[H9005]]"
+- "[[H6490]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H6666]]"
+- "[[H2421]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:40**<big><big>[[Ps.119.33 Your Word Is a Lamp to My Feet - HE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have longed after thy precepts: quicken me in thy righteousness.
 <small><sub>**BSB:**</sub></small>
 How I long for Your precepts! Revive me in Your righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִ֭נֵּה]] [[H8373\|תָּאַ֣בְתִּי]] [[H9005\|לְ]][[H6490\|פִקֻּדֶ֑י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H6666\|צִדְקָתְ]][[H9021\|ךָ֥]] [[H2421\|חַיֵּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.39|<< Psalms 119:39]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.41|Psalms 119:41 >>]]</td></tr></table>
 

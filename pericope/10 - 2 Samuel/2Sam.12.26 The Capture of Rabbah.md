@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Capture of Rabbah
+type: Pericope
 pericope: "[[2Sam.12.26 The Capture of Rabbah|The Capture of Rabbah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 12
 book/chapter: "[[2Sam.12|2 Samuel 12]]"
-genre:
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 6
 verses:
 - "[[2Sam.12.26]]"
 - "[[2Sam.12.27]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Sam.12.31]]"
 ---
 
-[[2Sam.12|2 Samuel 12:26 - 2 Samuel 12:31]]
+<small>[[2Sam.12|2 Samuel 12:26-31]]</small>
 *The Capture of Rabbah*
 
 [[2Sam.12.26|26]] And Joab fought against Rabbah of the children of Ammon, and took the royal city.

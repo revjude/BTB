@@ -1,10 +1,56 @@
+---
+title: Galatians 3:5
+type: Verse
+kjv: "He therefore that ministereth to you the Spirit, and worketh miracles among you, doeth he it by the works of the law, or by the hearing of faith?"
+bsb: "Does God lavish His Spirit on you and work miracles among you because you practice the law, or because you hear and believe?"
+greek: "Ὁ οὖν ἐπιχορηγῶν ὑμῖν τὸ πνεῦμα καὶ ἐνεργῶν δυνάμεις ἐν ὑμῖν, ἐξ ἔργων νόμου ἢ ἐξ ἀκοῆς πίστεως;"
+pericope: "[[Gal.3.1 Faith and Belief|Faith and Belief]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G2023]]"
+- "[[G4771]]"
+- "[[G4151G]]"
+- "[[G2532]]"
+- "[[G1754]]"
+- "[[G1411]]"
+- "[[G1722]]"
+- "[[G1537]]"
+- "[[G2041]]"
+- "[[G3551]]"
+- "[[G2228]]"
+- "[[G0189]]"
+- "[[G4102G]]"
+texts:
+- NKO
+---
+
 **Galatians 3:5**<big><big>[[Gal.3.1 Faith and Belief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He therefore that ministereth to you the Spirit, and worketh miracles among you, [doeth he it] by the works of the law, or by the hearing of faith?
 <small><sub>**BSB:**</sub></small>
 Does God lavish His Spirit on you and work miracles among you because you practice the law, or because you hear and believe?
-<small><sub>**Literal:**</sub></small>
-The [One] therefore supplying to you the Spirit and working miracles among you, [is it] out of works of the Law or out of hearing of faith?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.4|<< Galatians 3:4]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.6|Galatians 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3767\|οὖν]]  [[G2023\|ἐπιχορηγῶν]]  [[G4771\|ὑμῖν]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G2532\|καὶ]]  [[G1754\|ἐνεργῶν]]  [[G1411\|δυνάμεις]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]  [[G1537\|ἐξ]]  [[G2041\|ἔργων]]  [[G3551\|νόμου]]  [[G2228\|ἢ]]  [[G1537\|ἐξ]]  [[G0189\|ἀκοῆς]]  [[G4102G\|πίστεως;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.4|<< Galatians 3:4]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.6|Galatians 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

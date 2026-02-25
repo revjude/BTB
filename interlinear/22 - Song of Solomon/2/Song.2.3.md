@@ -1,8 +1,60 @@
+---
+title: Song of Solomon 2:3
+type: Verse
+kjv: "As the apple tree among the trees of the wood, so is my beloved among the sons. I sat down under his shadow with great delight, and his fruit was sweet to my taste."
+bsb: "Like an apple tree among the trees of the forest is my beloved among the young men. I delight to sit in his shade, and his fruit is sweet to my taste."
+hebrew: "כְּתַפּ֙וּחַ֙ בַּעֲצֵ֣י הַיַּ֔עַר כֵּ֥ן דּוֹדִ֖י בֵּ֣ין הַבָּנִ֑ים בְּצִלּוֹ֙ חִמַּ֣דְתִּי וְיָשַׁ֔בְתִּי וּפִרְי֖וֹ מָת֥וֹק לְחִכִּֽי׃"
+pericope: "[[Song.2.3 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic APPLE|APPLE]]"
+strongs:
+- "[[H9004]]"
+- "[[H8598]]"
+- "[[H9003]]"
+- "[[H6086H]]"
+- "[[H9009]]"
+- "[[H3293A]]"
+- "[[H3651C]]"
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H0996H]]"
+- "[[H1121G]]"
+- "[[H6738]]"
+- "[[H9023]]"
+- "[[H2530A]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H6529]]"
+- "[[H4966]]"
+- "[[H9005]]"
+- "[[H2441]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:3**<big><big>[[Song.2.3 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the apple tree among the trees of the wood, so [is] my beloved among the sons. I sat down under his shadow with great delight, and his fruit [was] sweet to my taste.
 <small><sub>**BSB:**</sub></small>
 Like an apple tree among the trees of the forest is my beloved among the young men. I delight to sit in his shade, and his fruit is sweet to my taste.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H8598\|תַפּ֙וּחַ֙]] [[H9003\|בַּ]][[H6086H\|עֲצֵ֣י]] [[H9009\|הַ]][[H3293A\|יַּ֔עַר]] [[H3651C\|כֵּ֥ן]] [[H1730G\|דּוֹדִ֖]][[H9020\|י]] [[H0996H\|בֵּ֣ין]] [[H9009\|הַ]][[H1121G\|בָּנִ֑ים]] [[H9003\|בְּ]][[H6738\|צִלּ]][[H9023\|וֹ֙]] [[H2530A\|חִמַּ֣דְתִּי]] [[H9002\|וְ]][[H3427\|יָשַׁ֔בְתִּי]] [[H9002\|וּ]][[H6529\|פִרְי֖]][[H9023\|וֹ]] [[H4966\|מָת֥וֹק]] [[H9005\|לְ]][[H2441\|חִכִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APPLE|APPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.2|<< Song of Solomon 2:2]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.4|Song of Solomon 2:4 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Mark 10:49
+type: Verse
+kjv: "And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee."
+bsb: "Jesus stopped and said, “Call him.” So they called the blind man. “Take courage!” they said. “Get up! He is calling for you.”"
+greek: "καὶ στὰς ὁ Ἰησοῦς εἶπεν· φωνήσατε αὐτόν. καὶ φωνοῦσιν τὸν τυφλὸν λέγοντες αὐτῷ· θάρσει, ἔγειρε, φωνεῖ σε."
+pericope: "[[Mark.10.46 Jesus Heals Bartimaeus|Jesus Heals Bartimaeus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G5455]]"
+- "[[G0846]]"
+- "[[G5185]]"
+- "[[G3004G]]"
+- "[[G2293]]"
+- "[[G1453]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 10:49**<big><big>[[Mark.10.46 Jesus Heals Bartimaeus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee.
 <small><sub>**BSB:**</sub></small>
 Jesus stopped and said, “Call him.” So they called the blind man. “Take courage!” they said. “Get up! He is calling for you.”
-<small><sub>**Literal:**</sub></small>
-And having stopped <the> Jesus commanded: do call him. And they call the blind [man] saying to him; take courage! do rise up He calls you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.48|<< Mark 10:48]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.50|Mark 10:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2476\|στὰς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G5455\|φωνήσατε]]  [[G0846\|αὐτόν.]]  [[G2532\|καὶ]]  [[G5455\|φωνοῦσιν]]  [[G3588\|τὸν]]  [[G5185\|τυφλὸν]]  [[G3004G\|λέγοντες]]  [[G0846\|αὐτῷ·]]  [[G2293\|θάρσει,]]  [[G1453\|ἔγειρε,]]  [[G5455\|φωνεῖ]]  [[G4771\|σε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARTIMEUS (BARTIMAEUS)|BARTIMEUS (BARTIMAEUS)]] • [[topic BLINDNESS|BLINDNESS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.48|<< Mark 10:48]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.50|Mark 10:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

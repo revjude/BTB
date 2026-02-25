@@ -1,8 +1,83 @@
+---
+title: 1 Samuel 4:18
+type: Verse
+kjv: "And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years."
+bsb: "As soon as the ark of God was mentioned, Eli fell backward from his chair by the city gate, and being old and heavy, he broke his neck and died. And Eli had judged Israel forty years."
+hebrew: "וַיְהִ֞י כְּהַזְכִּיר֣וֹ׀ אֶת־ אֲר֣וֹן הָאֱלֹהִ֗ים וַיִּפֹּ֣ל מֵֽעַל־ הַ֠כִּסֵּא אֲחֹ֨רַנִּ֜ית בְּעַ֣ד׀ יַ֣ד הַשַּׁ֗עַר וַתִּשָּׁבֵ֤ר מַפְרַקְתּוֹ֙ וַיָּמֹ֔ת כִּֽי־ זָקֵ֥ן הָאִ֖ישׁ וְכָבֵ֑ד וְה֛וּא שָׁפַ֥ט אֶת־ יִשְׂרָאֵ֖ל אַרְבָּעִ֥ים שָׁנָֽה׃"
+pericope: "[[1Sam.4.12 The Death of Eli|The Death of Eli]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 4
+book/chapter: "[[1Sam.4|1 Samuel 4]]"
+chronological_order: 283
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CORPULENCY|CORPULENCY]]"
+- "[[topic ELI|ELI]]"
+- "[[topic GATES|GATES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHILOH|SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H2142]]"
+- "[[H9043]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5307G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3678I]]"
+- "[[H0322]]"
+- "[[H1157]]"
+- "[[H3027K]]"
+- "[[H8179G]]"
+- "[[H7665]]"
+- "[[H4665]]"
+- "[[H9023]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H2204]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H3515]]"
+- "[[H1931]]"
+- "[[H8199]]"
+- "[[H3478]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 4:18**<big><big>[[1Sam.4.12 The Death of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he made mention of the ark of God, that he fell from off the seat backward by the side of the gate, and his neck brake, and he died: for he was an old man, and heavy. And he had judged Israel forty years.
 <small><sub>**BSB:**</sub></small>
 As soon as the ark of God was mentioned, Eli fell backward from his chair by the city gate, and being old and heavy, he broke his neck and died. And Eli had judged Israel forty years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כְּ]][[H2142\|הַזְכִּיר֣]][[H9043\|וֹ]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֗ים]] [[H9001\|וַ]][[H5307G\|יִּפֹּ֣ל]] [[H9006\|מֵֽ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ֠]][[H3678I\|כִּסֵּא]] [[H0322\|אֲחֹ֨רַנִּ֜ית]] [[H1157\|בְּעַ֣ד]][[H9015\|׀]] [[H3027K\|יַ֣ד]] [[H9009\|הַ]][[H8179G\|שַּׁ֗עַר]] [[H9001\|וַ]][[H7665\|תִּשָּׁבֵ֤ר]] [[H4665\|מַפְרַקְתּ]][[H9023\|וֹ֙]] [[H9001\|וַ]][[H4191\|יָּמֹ֔ת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2204\|זָקֵ֥ן]] [[H9009\|הָ]][[H0376G\|אִ֖ישׁ]] [[H9002\|וְ]][[H3515\|כָבֵ֑ד]] [[H9002\|וְ]][[H1931\|ה֛וּא]] [[H8199\|שָׁפַ֥ט]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0705\|אַרְבָּעִ֥ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CORPULENCY|CORPULENCY]] • [[topic ELI|ELI]] • [[topic GATES|GATES]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic PARENTS|PARENTS]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PRIEST|PRIEST]] • [[topic SHILOH|SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.4.17|<< 1 Samuel 4:17]]</td><td align="center" style="border:none;">[[1Sam.4|1 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.4.19|1 Samuel 4:19 >>]]</td></tr></table>
 

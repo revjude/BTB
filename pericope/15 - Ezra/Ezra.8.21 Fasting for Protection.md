@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Fasting for Protection
+type: Pericope
 pericope: "[[Ezra.8.21 Fasting for Protection|Fasting for Protection]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 8
 book/chapter: "[[Ezra.8|Ezra 8]]"
-genre:
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 3
 verses:
 - "[[Ezra.8.21]]"
 - "[[Ezra.8.22]]"
 - "[[Ezra.8.23]]"
 ---
 
-[[Ezra.8|Ezra 8:21 - Ezra 8:23]]
+<small>[[Ezra.8|Ezra 8:21-23]]</small>
 *Fasting for Protection*
 
 [[Ezra.8.21|21]] Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.

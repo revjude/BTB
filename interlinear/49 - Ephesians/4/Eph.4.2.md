@@ -1,10 +1,56 @@
+---
+title: Ephesians 4:2
+type: Verse
+kjv: "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
+bsb: "with all humility and gentleness, with patience, bearing with one another in love,"
+greek: "μετὰ πάσης ταπεινοφροσύνης καὶ πραΰτητος, μετὰ μακροθυμίας, ἀνεχόμενοι ἀλλήλων ἐν ἀγάπῃ,"
+pericope: "[[Eph.4.1 Unity in the Body|Unity in the Body]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic LONGSUFFERING|LONGSUFFERING]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+strongs:
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G5012]]"
+- "[[G2532]]"
+- "[[G4236]]"
+- "[[G3115]]"
+- "[[G0430]]"
+- "[[G0240]]"
+- "[[G1722]]"
+- "[[G0026]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:2**<big><big>[[Eph.4.1 Unity in the Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 With all lowliness and meekness, with longsuffering, forbearing one another in love;
 <small><sub>**BSB:**</sub></small>
 with all humility and gentleness, with patience, bearing with one another in love,
-<small><sub>**Literal:**</sub></small>
-with all humility and gentleness, with patience, bearing with one another in love,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.1|<< Ephesians 4:1]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.3|Ephesians 4:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|μετὰ]]  [[G3956\|πάσης]]  [[G5012\|ταπεινοφροσύνης]]  [[G2532\|καὶ]]  [[G4236\|πραΰτητος,]]  [[G3326\|μετὰ]]  [[G3115\|μακροθυμίας,]]  [[G0430\|ἀνεχόμενοι]]  [[G0240\|ἀλλήλων]]  [[G1722\|ἐν]]  [[G0026\|ἀγάπῃ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COMMUNION|COMMUNION]] • [[topic HUMILITY|HUMILITY]] • [[topic LONGSUFFERING|LONGSUFFERING]] • [[topic LOVE|LOVE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.1|<< Ephesians 4:1]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.3|Ephesians 4:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

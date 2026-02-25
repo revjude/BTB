@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 16:27
+type: Verse
+kjv: "Glory and honour are in his presence; strength and gladness are in his place."
+bsb: "Splendor and majesty are before Him; strength and joy fill His dwelling."
+hebrew: "ה֤וֹד וְהָדָר֙ לְפָנָ֔יו עֹ֥ז וְחֶדְוָ֖ה בִּמְקֹמֽוֹ׃"
+pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H1935]]"
+- "[[H9002]]"
+- "[[H1926]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H5797]]"
+- "[[H2304]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:27**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Glory and honour [are] in his presence; strength and gladness [are] in his place.
 <small><sub>**BSB:**</sub></small>
 Splendor and majesty are before Him; strength and joy fill His dwelling.
+<small><sub>**Hebrew:**</sub></small>
+[[H1935\|ה֤וֹד]] [[H9002\|וְ]][[H1926\|הָדָר֙]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H5797\|עֹ֥ז]] [[H9002\|וְ]][[H2304\|חֶדְוָ֖ה]] [[H9003\|בִּ]][[H4725\|מְקֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.26|<< 1 Chronicles 16:26]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.28|1 Chronicles 16:28 >>]]</td></tr></table>
 

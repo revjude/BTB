@@ -1,10 +1,66 @@
+---
+title: John 4:39
+type: Verse
+kjv: "And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did."
+bsb: "Many of the Samaritans from that town believed in Jesus because of the woman’s testimony, “He told me everything I ever did.”"
+greek: "ἐκ δὲ τῆς πόλεως ἐκείνης πολλοὶ ἐπίστευσαν εἰς αὐτὸν τῶν Σαμαριτῶν διὰ τὸν λόγον τῆς γυναικὸς μαρτυρούσης ὅτι εἶπέν μοι πάντα ἃ ἐποίησα."
+pericope: "[[John.4.39 Many Samaritans Believe|Many Samaritans Believe]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G1537]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1565]]"
+- "[[G4183]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G4541]]"
+- "[[G1223]]"
+- "[[G3056]]"
+- "[[G1135G]]"
+- "[[G3140]]"
+- "[[G3754G]]"
+- "[[G2036]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 4:39**<big><big>[[John.4.39 Many Samaritans Believe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.
 <small><sub>**BSB:**</sub></small>
 Many of the Samaritans from that town believed in Jesus because of the woman’s testimony, “He told me everything I ever did.”
-<small><sub>**Literal:**</sub></small>
-Out of now the city that many believed in Him of the Samaritans because of the word of the woman testifying that He told me all things whatever I did.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.38|<< John 4:38]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.40|John 4:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐκ]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G1565\|ἐκείνης]]  [[G4183\|πολλοὶ]]  [[G4100\|ἐπίστευσαν]]  [[G1519\|εἰς]]  [[G0846\|αὐτὸν]]  [[G3588\|τῶν]]  [[G4541\|Σαμαριτῶν]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τῆς]]  [[G1135G\|γυναικὸς]]  [[G3140\|μαρτυρούσης]]  [[G3754G\|ὅτι]]  [[G2036\|εἶπέν]]  [[G3165\|μοι]]  [[G3956\|πάντα]]  [[G3739\|ἃ]]  [[G4160G\|ἐποίησα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.38|<< John 4:38]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.40|John 4:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

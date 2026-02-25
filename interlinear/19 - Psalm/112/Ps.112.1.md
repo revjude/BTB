@@ -1,8 +1,61 @@
+---
+title: Psalm 112:1
+type: Verse
+kjv: "Praise ye the LORD. Blessed is the man that feareth the LORD, that delighteth greatly in his commandments."
+bsb: "Hallelujah! Blessed is the man who fears the LORD, who greatly delights in His commandments."
+hebrew: "הַ֥לְלוּ יָ֨הּ׀ אַשְׁרֵי־ אִ֭ישׁ יָרֵ֣א אֶת־ יְהוָ֑ה בְּ֝מִצְוֹתָ֗יו חָפֵ֥ץ מְאֹֽד׃"
+pericope: "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 112
+book/chapter: "[[Ps.112|Psalm 112]]"
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HALLELUJAH|HALLELUJAH]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H1984B]]"
+- "[[H3050]]"
+- "[[H9015]]"
+- "[[H0835]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H3373]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H4687]]"
+- "[[H9023]]"
+- "[[H2654A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 112:1**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Praise ye the LORD. Blessed [is] the man [that] feareth the LORD, [that] delighteth greatly in his commandments.
 <small><sub>**BSB:**</sub></small>
 Hallelujah! Blessed is the man who fears the LORD, who greatly delights in His commandments.
+<small><sub>**Hebrew:**</sub></small>
+[[H1984B\|הַ֥לְלוּ]] [[H3050\|יָ֨הּ]][[H9015\|׀]] [[H0835\|אַשְׁרֵי]][[H9014\|־]] [[H0376G\|אִ֭ישׁ]] [[H3373\|יָרֵ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בְּ֝]][[H4687\|מִצְוֹתָ֗י]][[H9023\|ו]] [[H2654A\|חָפֵ֥ץ]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HALLELUJAH|HALLELUJAH]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.111.10|<< Psalms 111:10]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.2|Psalms 112:2 >>]]</td></tr></table>
 

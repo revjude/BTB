@@ -1,8 +1,64 @@
+---
+title: Genesis 10:10
+type: Verse
+kjv: "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
+bsb: "His kingdom began in Babylon, Erech, Accad, and Calneh, in the land of Shinar."
+hebrew: "וַתְּהִ֨י רֵאשִׁ֤ית מַמְלַכְתּוֹ֙ בָּבֶ֔ל וְאֶ֖רֶךְ וְאַכַּ֣ד וְכַלְנֵ֑ה בְּאֶ֖רֶץ שִׁנְעָֽר׃"
+pericope: "[[Gen.10.6 The Hamites|The Hamites]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCAD|ACCAD]]"
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CALNEH|CALNEH]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic ERECH|ERECH]]"
+- "[[topic HAM|HAM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7225G]]"
+- "[[H4467]]"
+- "[[H9023]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H0751]]"
+- "[[H0390]]"
+- "[[H3641A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H8152]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:10**<big><big>[[Gen.10.6 The Hamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
 <small><sub>**BSB:**</sub></small>
 His kingdom began in Babylon, Erech, Accad, and Calneh, in the land of Shinar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תְּהִ֨י]] [[H7225G\|רֵאשִׁ֤ית]] [[H4467\|מַמְלַכְתּ]][[H9023\|וֹ֙]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וְ]][[H0751\|אֶ֖רֶךְ]] [[H9002\|וְ]][[H0390\|אַכַּ֣ד]] [[H9002\|וְ]][[H3641A\|כַלְנֵ֑ה]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H8152\|שִׁנְעָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCAD|ACCAD]] • [[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic CALNEH|CALNEH]] • [[topic CITIES|CITIES]] • [[topic ERECH|ERECH]] • [[topic HAM|HAM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.10.9|<< Genesis 10:9]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.11|Genesis 10:11 >>]]</td></tr></table>
 

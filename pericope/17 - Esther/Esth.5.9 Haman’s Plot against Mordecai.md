@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Haman’s Plot against Mordecai
+type: Pericope
 pericope: "[[Esth.5.9 Haman’s Plot against Mordecai|Haman’s Plot against Mordecai]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 5
 book/chapter: "[[Esth.5|Esther 5]]"
-genre:
+chronological_order: 903
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 6
 verses:
 - "[[Esth.5.9]]"
 - "[[Esth.5.10]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Esth.5.14]]"
 ---
 
-[[Esth.5|Esther 5:9 - Esther 5:14]]
+<small>[[Esth.5|Esther 5:9-14]]</small>
 *Haman’s Plot against Mordecai*
 
 [[Esth.5.9|9]] Then went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.

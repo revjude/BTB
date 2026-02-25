@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Benediction and Farewell
+type: Pericope
 pericope: "[[2Cor.13.11 Benediction and Farewell|Benediction and Farewell]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 13
 book/chapter: "[[2Cor.13|2 Corinthians 13]]"
-genre:
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 4
 verses:
 - "[[2Cor.13.11]]"
 - "[[2Cor.13.12]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Cor.13.14]]"
 ---
 
-[[2Cor.13|2 Corinthians 13:11 - 2 Corinthians 13:14]]
+<small>[[2Cor.13|2 Corinthians 13:11-14]]</small>
 *Benediction and Farewell*
 
 [[2Cor.13.11|11]] Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.

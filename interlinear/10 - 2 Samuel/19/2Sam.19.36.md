@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 19:36
+type: Verse
+kjv: "Thy servant will go a little way over Jordan with the king: and why should the king recompense it me with such a reward?"
+bsb: "Your servant will go with the king only a short distance past the Jordan; why should the king repay me with such a reward?"
+hebrew: "כִּמְעַ֞ט יַעֲבֹ֧ר עַבְדְּךָ֛ אֶת־ הַיַּרְדֵּ֖ן אֶת־ הַמֶּ֑לֶךְ וְלָ֙מָּה֙ יִגְמְלֵ֣נִי הַמֶּ֔לֶךְ הַגְּמוּלָ֖ה הַזֹּֽאת׃"
+pericope: "[[2Sam.19.31 David’s Kindness to Barzillai|David’s Kindness to Barzillai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BARZILLAI|BARZILLAI]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H9004]]"
+- "[[H4592]]"
+- "[[H5674A]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0854]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H1580]]"
+- "[[H9030]]"
+- "[[H1578]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:36**<big><big>[[2Sam.19.31 David’s Kindness to Barzillai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy servant will go a little way over Jordan with the king: and why should the king recompense it me with such a reward?
 <small><sub>**BSB:**</sub></small>
 Your servant will go with the king only a short distance past the Jordan; why should the king repay me with such a reward?
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H4592\|מְעַ֞ט]] [[H5674A\|יַעֲבֹ֧ר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H9005\|לָ֙]][[H4100\|מָּה֙]] [[H1580\|יִגְמְלֵ֣]][[H9030\|נִי]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9009\|הַ]][[H1578\|גְּמוּלָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARZILLAI|BARZILLAI]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic DAVID|DAVID]] • [[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.35|<< 2 Samuel 19:35]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.37|2 Samuel 19:37 >>]]</td></tr></table>
 

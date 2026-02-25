@@ -1,8 +1,79 @@
+---
+title: 1 Kings 8:39
+type: Verse
+kjv: "Then hear thou in heaven thy dwelling place, and forgive, and do, and give to every man according to his ways, whose heart thou knowest; (for thou, even thou only, knowest the hearts of all the children of men;)"
+bsb: "be heard by You from heaven, Your dwelling place. And may You forgive and act, and repay each man according to all his ways, since You know his heart—for You alone know the hearts of all men—"
+hebrew: "וְ֠אַתָּה תִּשְׁמַ֨ע הַשָּׁמַ֜יִם מְכ֤וֹן שִׁבְתֶּ֙ךָ֙ וְסָלַחְתָּ֣ וְעָשִׂ֔יתָ וְנָתַתָּ֤ לָאִישׁ֙ כְּכָל־ דְּרָכָ֔יו אֲשֶׁ֥ר תֵּדַ֖ע אֶת־ לְבָב֑וֹ כִּֽי־ אַתָּ֤ה יָדַ֙עְתָּ֙ לְבַדְּךָ֔ אֶת־ לְבַ֖ב כָּל־ בְּנֵ֥י הָאָדָֽם׃"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H4349]]"
+- "[[H3427]]"
+- "[[H9041]]"
+- "[[H9001]]"
+- "[[H5545]]"
+- "[[H6213A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H3824]]"
+- "[[H3588A]]"
+- "[[H0905H]]"
+- "[[H9031]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:39**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then hear thou in heaven thy dwelling place, and forgive, and do, and give to every man according to his ways, whose heart thou knowest; (for thou, [even] thou only, knowest the hearts of all the children of men;)
 <small><sub>**BSB:**</sub></small>
 be heard by You from heaven, Your dwelling place. And may You forgive and act, and repay each man according to all his ways, since You know his heart—for You alone know the hearts of all men—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H0859A\|אַתָּה]] [[H8085G\|תִּשְׁמַ֨ע]] [[H9009\|הַ]][[H8064\|שָּׁמַ֜יִם]] [[H4349\|מְכ֤וֹן]] [[H3427\|שִׁבְתֶּ֙]][[H9041\|ךָ֙]] [[H9001\|וְ]][[H5545\|סָלַחְתָּ֣]] [[H9001\|וְ]][[H6213A\|עָשִׂ֔יתָ]] [[H9001\|וְ]][[H5414G\|נָתַתָּ֤]] [[H9005\|לָ]][[H0376G\|אִישׁ֙]] [[H9004\|כְּ]][[H3605\|כָל]][[H9014\|־]] [[H1870L\|דְּרָכָ֔י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֥ר]] [[H3045\|תֵּדַ֖ע]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבָב֑]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֤ה]] [[H3045\|יָדַ֙עְתָּ֙]] [[H9005\|לְ]][[H0905H\|בַדְּ]][[H9031\|ךָ֔]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבַ֖ב]] [[H3605\|כָּל]][[H9014\|־]] [[H1121A\|בְּנֵ֥י]] [[H9009\|הָ]][[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic HEAVEN|HEAVEN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.38|<< 1 Kings 8:38]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.40|1 Kings 8:40 >>]]</td></tr></table>
 

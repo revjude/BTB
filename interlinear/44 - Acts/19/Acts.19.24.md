@@ -1,10 +1,61 @@
+---
+title: Acts 19:24
+type: Verse
+kjv: "For a certain man named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;"
+bsb: "It began with a silversmith named Demetrius who made silver shrines of Artemis, bringing much business to the craftsmen."
+greek: "Δημήτριος γάρ τις ὀνόματι, ἀργυροκόπος ποιῶν ναοὺς ἀργυροῦς Ἀρτέμιδος, παρείχετο τοῖς τεχνίταις οὐκ ὀλίγην ἐργασίαν,"
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic DIANA|DIANA]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SHRINE|SHRINE]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic SILVERSMITH|SILVERSMITH]]"
+strongs:
+- "[[G1216]]"
+- "[[G1063]]"
+- "[[G5100]]"
+- "[[G3686]]"
+- "[[G0695]]"
+- "[[G4160G]]"
+- "[[G3485]]"
+- "[[G0693]]"
+- "[[G0735]]"
+- "[[G3930]]"
+- "[[G3588]]"
+- "[[G5079]]"
+- "[[G3756]]"
+- "[[G3641]]"
+- "[[G2039]]"
+texts:
+- NKO
+---
+
 **Acts 19:24**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For a certain [man] named Demetrius, a silversmith, which made silver shrines for Diana, brought no small gain unto the craftsmen;
 <small><sub>**BSB:**</sub></small>
 It began with a silversmith named Demetrius who made silver shrines of Artemis, bringing much business to the craftsmen.
-<small><sub>**Literal:**</sub></small>
-Demetrius for a certain [man] named, a silversmith making shrines silver of Artemis, was bringing to the craftsmen no little business<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.23|<< Acts 19:23]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.25|Acts 19:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1216\|Δημήτριος]]  [[G1063\|γάρ]]  [[G5100\|τις]]  [[G3686\|ὀνόματι,]]  [[G0695\|ἀργυροκόπος]]  [[G4160G\|ποιῶν]]  [[G3485\|ναοὺς]]  [[G0693\|ἀργυροῦς]]  [[G0735\|Ἀρτέμιδος,]]  [[G3930\|παρείχετο]]  [[G3588\|τοῖς]]  [[G5079\|τεχνίταις]]  [[G3756\|οὐκ]]  [[G3641\|ὀλίγην]]  [[G2039\|ἐργασίαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DEMETRIUS|DEMETRIUS]] • [[topic DIANA|DIANA]] • [[topic IDOL|IDOL]] • [[topic PAUL|PAUL]] • [[topic SHRINE|SHRINE]] • [[topic SILVER|SILVER]] • [[topic SILVERSMITH|SILVERSMITH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.23|<< Acts 19:23]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.25|Acts 19:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

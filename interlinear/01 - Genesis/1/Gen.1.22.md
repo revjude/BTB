@@ -1,8 +1,66 @@
+---
+title: Genesis 1:22
+type: Verse
+kjv: "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth."
+bsb: "Then God blessed them and said, “Be fruitful and multiply and fill the waters of the seas, and let birds multiply on the earth.”"
+hebrew: "וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־ הַמַּ֙יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ׃"
+pericope: "[[Gen.1.20 The Fifth Day|The Fifth Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic FISH|FISH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PROPAGATION|PROPAGATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H6509]]"
+- "[[H9002]]"
+- "[[H7235A]]"
+- "[[H4390]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H5775]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:22**<big><big>[[Gen.1.20 The Fifth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.
 <small><sub>**BSB:**</sub></small>
 Then God blessed them and said, “Be fruitful and multiply and fill the waters of the seas, and let birds multiply on the earth.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1288\|יְבָ֧רֶךְ]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H6509\|פְּר֣וּ]] [[H9002\|וּ]][[H7235A\|רְב֗וּ]] [[H9002\|וּ]][[H4390\|מִלְא֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֙יִם֙]] [[H9003\|בַּ]][[H3220G\|יַּמִּ֔ים]] [[H9002\|וְ]][[H9009\|הָ]][[H5775\|ע֖וֹף]] [[H7235A\|יִ֥רֶב]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic BIRDS|BIRDS]] • [[topic FISH|FISH]] • [[topic GOD|GOD]] • [[topic PROPAGATION|PROPAGATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.21|<< Genesis 1:21]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.23|Genesis 1:23 >>]]</td></tr></table>
 

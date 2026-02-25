@@ -1,8 +1,73 @@
+---
+title: Ezekiel 12:12
+type: Verse
+kjv: "And the prince that is among them shall bear upon his shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with his eyes."
+bsb: "And at dusk the prince among them will lift his bags to his shoulder and go out. They will dig through the wall to bring him out. He will cover his face so he cannot see the land."
+hebrew: "וְהַנָּשִׂ֨יא אֲשֶׁר־ בְּתוֹכָ֜ם אֶל־ כָּתֵ֤ף יִשָּׂא֙ בָּעֲלָטָ֣ה וְיֵצֵ֔א בַּקִּ֥יר יַחְתְּר֖וּ לְה֣וֹצִיא ב֑וֹ פָּנָ֣יו יְכַסֶּ֔ה יַ֗עַן אֲשֶׁ֨ר לֹא־ יִרְאֶ֥ה לַעַ֛יִן ה֖וּא אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H0413]]"
+- "[[H3802]]"
+- "[[H5375G]]"
+- "[[H5939]]"
+- "[[H3318G]]"
+- "[[H7023]]"
+- "[[H2864]]"
+- "[[H9005]]"
+- "[[H3318H]]"
+- "[[H9033]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H3680]]"
+- "[[H3282]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:12**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the prince that [is] among them shall bear upon [his] shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with [his] eyes.
 <small><sub>**BSB:**</sub></small>
 And at dusk the prince among them will lift his bags to his shoulder and go out. They will dig through the wall to bring him out. He will cover his face so he cannot see the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5387A\|נָּשִׂ֨יא]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בְּ]][[H8432\|תוֹכָ֜]][[H9028\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3802\|כָּתֵ֤ף]] [[H5375G\|יִשָּׂא֙]] [[H9003\|בָּ]][[H5939\|עֲלָטָ֣ה]] [[H9002\|וְ]][[H3318G\|יֵצֵ֔א]] [[H9003\|בַּ]][[H7023\|קִּ֥יר]] [[H2864\|יַחְתְּר֖וּ]] [[H9005\|לְ]][[H3318H\|ה֣וֹצִיא]] [[H9003\|ב֑]][[H9033\|וֹ]] [[H6440H\|פָּנָ֣י]][[H9023\|ו]] [[H3680\|יְכַסֶּ֔ה]] [[H3282\|יַ֗עַן]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹא]][[H9014\|־]] [[H7200G\|יִרְאֶ֥ה]] [[H9005\|לַ]][[H5869A\|עַ֛יִן]] [[H1931\|ה֖וּא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.11|<< Ezekiel 12:11]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.13|Ezekiel 12:13 >>]]</td></tr></table>
 

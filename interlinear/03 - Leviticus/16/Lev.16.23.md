@@ -1,8 +1,69 @@
+---
+title: Leviticus 16:23
+type: Verse
+kjv: "And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy place, and shall leave them there:"
+bsb: "Then Aaron is to enter the Tent of Meeting, take off the linen garments he put on before entering the Most Holy Place, and leave them there."
+hebrew: "וּבָ֤א אַהֲרֹן֙ אֶל־ אֹ֣הֶל מוֹעֵ֔ד וּפָשַׁט֙ אֶת־ בִּגְדֵ֣י הַבָּ֔ד אֲשֶׁ֥ר לָבַ֖שׁ בְּבֹא֣וֹ אֶל־ הַקֹּ֑דֶשׁ וְהִנִּיחָ֖ם שָֽׁם׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0175]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H6584]]"
+- "[[H0853]]"
+- "[[H0899B]]"
+- "[[H9009]]"
+- "[[H0906]]"
+- "[[H0834A]]"
+- "[[H3847]]"
+- "[[H9003]]"
+- "[[H9043]]"
+- "[[H6944J]]"
+- "[[H5117]]"
+- "[[H9038]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:23**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Aaron shall come into the tabernacle of the congregation, and shall put off the linen garments, which he put on when he went into the holy [place], and shall leave them there:
 <small><sub>**BSB:**</sub></small>
 Then Aaron is to enter the Tent of Meeting, take off the linen garments he put on before entering the Most Holy Place, and leave them there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֤א]] [[H0175\|אַהֲרֹן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H9001\|וּ]][[H6584\|פָשַׁט֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בִּגְדֵ֣י]] [[H9009\|הַ]][[H0906\|בָּ֔ד]] [[H0834A\|אֲשֶׁ֥ר]] [[H3847\|לָבַ֖שׁ]] [[H9003\|בְּ]][[H0935G\|בֹא֣]][[H9043\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6944J\|קֹּ֑דֶשׁ]] [[H9001\|וְ]][[H5117\|הִנִּיחָ֖]][[H9038\|ם]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SCAPEGOAT|SCAPEGOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.22|<< Leviticus 16:22]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.24|Leviticus 16:24 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Walks on Water
+type: Pericope
 pericope: "[[Matt.14.22 Jesus Walks on Water|Jesus Walks on Water]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 14
 book/chapter: "[[Matt.14|Matthew 14]]"
-genre:
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 12
 verses:
 - "[[Matt.14.22]]"
 - "[[Matt.14.23]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Matt.14.33]]"
 ---
 
-[[Matt.14|Matthew 14:22 - Matthew 14:33]]
+<small>[[Matt.14|Matthew 14:22-33]]</small>
 *Jesus Walks on Water*
 
 [[Matt.14.22|22]] And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away.

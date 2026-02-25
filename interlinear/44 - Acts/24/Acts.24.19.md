@@ -1,10 +1,61 @@
+---
+title: Acts 24:19
+type: Verse
+kjv: "Who ought to have been here before thee, and object, if they had ought against me."
+bsb: "who ought to appear before you and bring charges, if they have anything against me."
+greek: "τινὲς δὲ ἀπὸ τῆς Ἀσίας Ἰουδαῖοι, οὓς ἔδει ἐπὶ σοῦ παρεῖναι καὶ κατηγορεῖν, εἴ τι ἔχοιεν πρὸς ἐμέ."
+pericope: "[[Acts.24.10 Paul’s Defense to Felix|Paul’s Defense to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5100]]"
+- "[[G1161]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0773]]"
+- "[[G2453]]"
+- "[[G3739]]"
+- "[[G1163]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G3918]]"
+- "[[G2532]]"
+- "[[G2723]]"
+- "[[G1487G]]"
+- "[[G2192]]"
+- "[[G4314]]"
+- "[[G1473]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 24:19**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who ought to have been here before thee, and object, if they had ought against me.
 <small><sub>**BSB:**</sub></small>
 who ought to appear before you and bring charges, if they have anything against me.
-<small><sub>**Literal:**</sub></small>
-Some however [are] from <the> Asia Jews [19] who it was necessary before you to appear and to make accusation, if anything they would have against me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.18|<< Acts 24:18]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.20|Acts 24:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τινὲς]]  [[G1161\|δὲ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G0773\|Ἀσίας]]  [[G2453\|Ἰουδαῖοι,]]  [[G3739\|οὓς]]  [[G1163\|ἔδει]]  [[G1909\|ἐπὶ]]  [[G4771\|σοῦ]]  [[G3918\|παρεῖναι]]  [[G2532\|καὶ]]  [[G2723\|κατηγορεῖν,]]  [[G1487G\|εἴ]]  [[G5100\|τι]]  [[G2192\|ἔχοιεν]]  [[G4314\|πρὸς]]  [[G1473\|ἐμέ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic DEFENSE|DEFENSE]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-DEFENSE|SELF-DEFENSE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.18|<< Acts 24:18]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.20|Acts 24:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

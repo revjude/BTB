@@ -1,8 +1,67 @@
+---
+title: Judges 7:18
+type: Verse
+kjv: "When I blow with a trumpet, I and all that are with me, then blow ye the trumpets also on every side of all the camp, and say, The sword of the LORD, and of Gideon."
+bsb: "When I and all who are with me blow our horns, then you are also to blow your horns from all around the camp and shout, ‘For the LORD and for Gideon!’”"
+hebrew: "וְתָקַעְתִּי֙ בַּשּׁוֹפָ֔ר אָנֹכִ֖י וְכָל־ אֲשֶׁ֣ר אִתִּ֑י וּתְקַעְתֶּ֨ם בַּשּׁוֹפָר֜וֹת גַּם־ אַתֶּ֗ם סְבִיבוֹת֙ כָּל־ הַֽמַּחֲנֶ֔ה וַאֲמַרְתֶּ֖ם לַיהוָ֥ה וּלְגִדְעֽוֹן׃ פ"
+pericope: "[[Judg.7.15 Gideon Defeats Midian|Gideon Defeats Midian]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PITCHER|PITCHER]]"
+- "[[topic STRATEGY|STRATEGY]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H7782]]"
+- "[[H0595]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H1571]]"
+- "[[H0859D]]"
+- "[[H5439H]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H1439]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 7:18**<big><big>[[Judg.7.15 Gideon Defeats Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I blow with a trumpet, I and all that [are] with me, then blow ye the trumpets also on every side of all the camp, and say, [The sword] of the LORD, and of Gideon.
 <small><sub>**BSB:**</sub></small>
 When I and all who are with me blow our horns, then you are also to blow your horns from all around the camp and shout, ‘For the LORD and for Gideon!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8628\|תָקַעְתִּי֙]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָ֔ר]] [[H0595\|אָנֹכִ֖י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתִּ֑]][[H9030\|י]] [[H9001\|וּ]][[H8628\|תְקַעְתֶּ֨ם]] [[H9003\|בַּ]][[H7782\|שּׁוֹפָר֜וֹת]] [[H1571\|גַּם]][[H9014\|־]] [[H0859D\|אַתֶּ֗ם]] [[H5439H\|סְבִיבוֹת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֖ם]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]] [[H9002\|וּ]][[H9005\|לְ]][[H1439\|גִדְעֽוֹן]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic COURAGE|COURAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic PITCHER|PITCHER]] • [[topic STRATEGY|STRATEGY]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.17|<< Judges 7:17]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.19|Judges 7:19 >>]]</td></tr></table>
 
@@ -23,7 +82,7 @@ When I and all who are with me blow our horns, then you are also to blow your ho
 | the camp  |**<big>&#8207;[[H9009\|הַֽ]]&#8207;&#8207;[[H4264\|מַּחֲנֶ֔ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ma.cha.Neh<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will say  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|אֲמַרְתֶּ֖ם]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.mar.Tem<small><sup>[[HVqq2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֥ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and for Gideon  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1439\|גִדְעֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> gid.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for Gideon  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1439\|גִדְעֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> gid.'on<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.17|<< Judges 7:17]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.19|Judges 7:19 >>]]</td></tr></table>
 
 

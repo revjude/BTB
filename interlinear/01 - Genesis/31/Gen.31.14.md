@@ -1,8 +1,64 @@
+---
+title: Genesis 31:14
+type: Verse
+kjv: "And Rachel and Leah answered and said unto him, Is there yet any portion or inheritance for us in our father’s house?"
+bsb: "And Rachel and Leah replied, “Do we have any portion or inheritance left in our father’s house?"
+hebrew: "וַתַּ֤עַן רָחֵל֙ וְלֵאָ֔ה וַתֹּאמַ֖רְנָה ל֑וֹ הַע֥וֹד לָ֛נוּ חֵ֥לֶק וְנַחֲלָ֖ה בְּבֵ֥ית אָבִֽינוּ׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic LABAN|LABAN]]"
+- "[[topic LEAH|LEAH]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H7354]]"
+- "[[H9002]]"
+- "[[H3812]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9008]]"
+- "[[H5750]]"
+- "[[H9035]]"
+- "[[H2506A]]"
+- "[[H5159]]"
+- "[[H9003]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:14**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rachel and Leah answered and said unto him, [Is there] yet any portion or inheritance for us in our father’s house?
 <small><sub>**BSB:**</sub></small>
 And Rachel and Leah replied, “Do we have any portion or inheritance left in our father’s house?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|תַּ֤עַן]] [[H7354\|רָחֵל֙]] [[H9002\|וְ]][[H3812\|לֵאָ֔ה]] [[H9001\|וַ]][[H0559\|תֹּאמַ֖רְנָה]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9008\|הַ]][[H5750\|ע֥וֹד]] [[H9005\|לָ֛]][[H9035\|נוּ]] [[H2506A\|חֵ֥לֶק]] [[H9002\|וְ]][[H5159\|נַחֲלָ֖ה]] [[H9003\|בְּ]][[H1004M\|בֵ֥ית]] [[H0001G\|אָבִֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LABAN|LABAN]] • [[topic LEAH|LEAH]] • [[topic RACHEL|RACHEL]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.13|<< Genesis 31:13]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.15|Genesis 31:15 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: 2 Thessalonians 2:17
+type: Verse
+kjv: "Comfort your hearts, and stablish you in every good word and work."
+bsb: "encourage your hearts and strengthen you in every good word and deed."
+greek: "παρακαλέσαι ὑμῶν τὰς καρδίας καὶ στηρίξαι ὑμᾶς ἐν παντὶ ἔργῳ καὶ λόγῳ ἀγαθῷ.¶"
+pericope: "[[2Thess.2.13 Stand Firm|Stand Firm]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3870]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G2532]]"
+- "[[G4741]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G2041]]"
+- "[[G3056]]"
+- "[[G0018]]"
+texts:
+- NKO
+- k
+---
+
 **2 Thessalonians 2:17**<big><big>[[2Thess.2.13 Stand Firm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Comfort your hearts, and stablish you in every good word and work.
 <small><sub>**BSB:**</sub></small>
 encourage your hearts and strengthen you in every good word and deed.
-<small><sub>**Literal:**</sub></small>
-would He encourage your <the> hearts and would He strengthen you in every work and word good.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.16|<< 2 Thessalonians 2:16]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.1|2 Thessalonians 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|παρακαλέσαι]]  [[G4771\|ὑμῶν]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G2532\|καὶ]]  [[G4741\|στηρίξαι]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G2041\|ἔργῳ]]  [[G2532\|καὶ]]  [[G3056\|λόγῳ]]  [[G0018\|ἀγαθῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.16|<< 2 Thessalonians 2:16]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.1|2 Thessalonians 3:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

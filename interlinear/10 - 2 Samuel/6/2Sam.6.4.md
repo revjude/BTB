@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 6:4
+type: Verse
+kjv: "And they brought it out of the house of Abinadab which was at Gibeah, accompanying the ark of God: and Ahio went before the ark."
+bsb: "bringing with it the ark of God. And Ahio was walking in front of the ark."
+hebrew: "וַיִּשָּׂאֻ֗הוּ מִבֵּ֤ית אֲבִֽינָדָב֙ אֲשֶׁ֣ר בַּגִּבְעָ֔ה עִ֖ם אֲר֣וֹן הָאֱלֹהִ֑ים וְאַחְי֕וֹ הֹלֵ֖ךְ לִפְנֵ֥י הָאָרֽוֹן׃"
+pericope: "[[2Sam.6.1 David Fetches the Ark|David Fetches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABINADAB|ABINADAB]]"
+- "[[topic AHIO|AHIO]]"
+- "[[topic ARK|ARK]]"
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1004M]]"
+- "[[H0041G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1389I]]"
+- "[[H5973A]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H0283G]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:4**<big><big>[[2Sam.6.1 David Fetches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought it out of the house of Abinadab which [was] at Gibeah, accompanying the ark of God: and Ahio went before the ark.
 <small><sub>**BSB:**</sub></small>
 bringing with it the ark of God. And Ahio was walking in front of the ark.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375H\|יִּשָּׂאֻ֗]][[H9033\|הוּ]] [[H9006\|מִ]][[H1004M\|בֵּ֤ית]] [[H0041G\|אֲבִֽינָדָב֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H1389I\|גִּבְעָ֔ה]] [[H5973A\|עִ֖ם]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H0283G\|אַחְי֕וֹ]] [[H1980G\|הֹלֵ֖ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H0727\|אָרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABINADAB|ABINADAB]] • [[topic AHIO|AHIO]] • [[topic ARK|ARK]] • [[topic BULLOCK|BULLOCK]] • [[topic DAVID|DAVID]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.3|<< 2 Samuel 6:3]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.5|2 Samuel 6:5 >>]]</td></tr></table>
 

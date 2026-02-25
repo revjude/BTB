@@ -1,8 +1,56 @@
+---
+title: Job 28:3
+type: Verse
+kjv: "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death."
+bsb: "Man puts an end to the darkness; he probes the farthest recesses for ore in deepest darkness."
+hebrew: "קֵ֤ץ׀ שָׂ֤ם לַחֹ֗שֶׁךְ וּֽלְכָל־ תַּ֭כְלִית ה֣וּא חוֹקֵ֑ר אֶ֖בֶן אֹ֣פֶל וְצַלְמָֽוֶת׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H7093]]"
+- "[[H9015]]"
+- "[[H7760H]]"
+- "[[H9005]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8503]]"
+- "[[H1931]]"
+- "[[H2713]]"
+- "[[H0068G]]"
+- "[[H0652]]"
+- "[[H6757]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:3**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.
 <small><sub>**BSB:**</sub></small>
 Man puts an end to the darkness; he probes the farthest recesses for ore in deepest darkness.
+<small><sub>**Hebrew:**</sub></small>
+[[H7093\|קֵ֤ץ]][[H9015\|׀]] [[H7760H\|שָׂ֤ם]] [[H9005\|לַ]][[H2822\|חֹ֗שֶׁךְ]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H8503\|תַּ֭כְלִית]] [[H1931\|ה֣וּא]] [[H2713\|חוֹקֵ֑ר]] [[H0068G\|אֶ֖בֶן]] [[H0652\|אֹ֣פֶל]] [[H9002\|וְ]][[H6757\|צַלְמָֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.2|<< Job 28:2]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.4|Job 28:4 >>]]</td></tr></table>
 

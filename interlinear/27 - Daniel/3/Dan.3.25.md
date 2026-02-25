@@ -1,8 +1,78 @@
+---
+title: Daniel 3:25
+type: Verse
+kjv: "He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God."
+bsb: "“Look!” he exclaimed. “I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods!”"
+aramaic: "עָנֵ֣ה וְאָמַ֗ר הָֽא־ אֲנָ֨ה חָזֵ֜ה גֻּבְרִ֣ין אַרְבְּעָ֗ה שְׁרַ֙יִן֙ מַהְלְכִ֣ין בְּגֽוֹא־ נוּרָ֔א וַחֲבָ֖ל לָא־ אִיתַ֣י בְּה֑וֹן וְרֵוֵהּ֙ דִּ֣י רְֽבִיעָאָ֔ה דָּמֵ֖ה לְבַר־ אֱלָהִֽין׃ ס"
+pericope: "[[Dan.3.19 The Fiery Furnace|The Fiery Furnace]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COERCION|COERCION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic MESHACH|MESHACH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MISHAEL|MISHAEL]]"
+strongs:
+- "[[H6032]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H1888A]]"
+- "[[H9014]]"
+- "[[H0576B]]"
+- "[[H2370]]"
+- "[[H1400]]"
+- "[[H0703]]"
+- "[[H8271]]"
+- "[[H1981]]"
+- "[[H9003]]"
+- "[[H1459]]"
+- "[[H5135]]"
+- "[[H9010]]"
+- "[[H2257]]"
+- "[[H3809]]"
+- "[[H0383]]"
+- "[[H9038]]"
+- "[[H7299]]"
+- "[[H9023]]"
+- "[[H1768]]"
+- "[[H7244]]"
+- "[[H1821]]"
+- "[[H9005]]"
+- "[[H1247]]"
+- "[[H0426]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 3:25**<big><big>[[Dan.3.19 The Fiery Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He answered and said, Lo, I see four men loose, walking in the midst of the fire, and they have no hurt; and the form of the fourth is like the Son of God.
 <small><sub>**BSB:**</sub></small>
 “Look!” he exclaimed. “I see four men, unbound and unharmed, walking around in the fire—and the fourth looks like a son of the gods!”
+<small><sub>**Aramaic:**</sub></small>
+[[H6032\|עָנֵ֣ה]] [[H9002\|וְ]][[H0560\|אָמַ֗ר]] [[H1888A\|הָֽא]][[H9014\|־]] [[H0576B\|אֲנָ֨ה]] [[H2370\|חָזֵ֜ה]] [[H1400\|גֻּבְרִ֣ין]] [[H0703\|אַרְבְּעָ֗ה]] [[H8271\|שְׁרַ֙יִן֙]] [[H1981\|מַהְלְכִ֣ין]] [[H9003\|בְּ]][[H1459\|גֽוֹא]][[H9014\|־]] [[H5135\|נוּרָ֔]][[H9010\|א]] [[H9002\|וַ]][[H2257\|חֲבָ֖ל]] [[H3809\|לָא]][[H9014\|־]] [[H0383\|אִיתַ֣י]] [[H9003\|בְּ]][[H9038\|ה֑וֹן]] [[H9002\|וְ]][[H7299\|רֵוֵ]][[H9023\|הּ֙]] [[H1768\|דִּ֣י]] [[H7244\|רְֽבִיעָ]][[H9010\|אָ֔ה]] [[H1821\|דָּמֵ֖ה]] [[H9005\|לְ]][[H1247\|בַר]][[H9014\|־]] [[H0426\|אֱלָהִֽין]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COERCION|COERCION]] • [[topic FAITH|FAITH]] • [[topic FURNACE|FURNACE]] • [[topic MESHACH|MESHACH]] • [[topic MIRACLES|MIRACLES]] • [[topic MISHAEL|MISHAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.24|<< Daniel 3:24]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.26|Daniel 3:26 >>]]</td></tr></table>
 
@@ -28,7 +98,7 @@ He answered and said, Lo, I see four men loose, walking in the midst of the fire
 | fourth the  |**<big>&#8207;[[H7244\|רְֽבִיעָ]]&#8207;&#8207;[[H9010\|אָ֔ה]]&#8207; </big>**[^1] [^2] | re.vi.'a.ya<small><sup>[[AAobsd]]</sup></small> '<small><sup>[[ATa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(k)</abbr> |
 | [is] like  |**<big>&#8207;[[H1821\|דָּמֵ֖ה]]&#8207; </big>**| da.Meh<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.> a son of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1247\|בַר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> var-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] gods  |**<big>&#8207;[[H0426\|אֱלָהִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.la.Hin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] gods  |**<big>&#8207;[[H0426\|אֱלָהִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.la.Hin<small><sup>[[ANcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.24|<< Daniel 3:24]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.26|Daniel 3:26 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="asaramaic"><big>רְֽבִיעָיאָ֔</big></span>**

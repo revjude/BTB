@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 28:14
+type: Verse
+kjv: "And thou shalt not go aside from any of the words which I command thee this day, to the right hand, or to the left, to go after other gods to serve them."
+bsb: "Do not turn aside to the right or to the left from any of the words I command you today, and do not go after other gods to serve them."
+hebrew: "וְלֹ֣א תָס֗וּר מִכָּל־ הַדְּבָרִים֙ אֲשֶׁ֨ר אָנֹכִ֜י מְצַוֶּ֥ה אֶתְכֶ֛ם הַיּ֖וֹם יָמִ֣ין וּשְׂמֹ֑אול לָלֶ֗כֶת אַחֲרֵ֛י אֱלֹהִ֥ים אֲחֵרִ֖ים לְעָבְדָֽם׃ ס"
+pericope: "[[Deut.28.1 The Blessings of Obedience|The Blessings of Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5493I]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H3117G]]"
+- "[[H3225G]]"
+- "[[H8040G]]"
+- "[[H9005]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H5647H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:14**<big><big>[[Deut.28.1 The Blessings of Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt not go aside from any of the words which I command thee this day, [to] the right hand, or [to] the left, to go after other gods to serve them.
 <small><sub>**BSB:**</sub></small>
 Do not turn aside to the right or to the left from any of the words I command you today, and do not go after other gods to serve them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5493I\|תָס֗וּר]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִים֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H0595\|אָנֹכִ֜י]] [[H6680\|מְצַוֶּ֥ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H3225G\|יָמִ֣ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹ֑אול]] [[H9005\|לָ]][[H1980N\|לֶ֗כֶת]] [[H0310A\|אַחֲרֵ֛י]] [[H0430\|אֱלֹהִ֥ים]] [[H0312\|אֲחֵרִ֖ים]] [[H9005\|לְ]][[H5647H\|עָבְדָֽ]][[H9038\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.13|<< Deuteronomy 28:13]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.15|Deuteronomy 28:15 >>]]</td></tr></table>
 
@@ -23,7 +87,7 @@ Do not turn aside to the right or to the left from any of the words I command yo
 | after  |**<big>&#8207;[[H0310A\|אַחֲרֵ֛י]]&#8207; </big>**| 'a.cha.Rei<small><sup>[[HAcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | gods  |**<big>&#8207;[[H0430\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | other  |**<big>&#8207;[[H0312\|אֲחֵרִ֖ים]]&#8207; </big>**| 'a.che.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to serve them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5647H\|עָבְדָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ve.Da<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to serve them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5647H\|עָבְדָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'a.ve.Da<small><sup>[[HVqcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.13|<< Deuteronomy 28:13]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.15|Deuteronomy 28:15 >>]]</td></tr></table>
 
 

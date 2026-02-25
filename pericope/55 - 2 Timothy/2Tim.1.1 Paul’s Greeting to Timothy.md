@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Greeting to Timothy
+type: Pericope
 pericope: "[[2Tim.1.1 Paul’s Greeting to Timothy|Paul’s Greeting to Timothy]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 1
 book/chapter: "[[2Tim.1|2 Timothy 1]]"
-genre:
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 2
 verses:
 - "[[2Tim.1.1]]"
 - "[[2Tim.1.2]]"
 ---
 
-[[2Tim.1|2 Timothy 1:1 - 2 Timothy 1:2]]
+<small>[[2Tim.1|2 Timothy 1:1-2]]</small>
 *Paul’s Greeting to Timothy*
 
 [[2Tim.1.1|1]] Paul, an apostle of Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,

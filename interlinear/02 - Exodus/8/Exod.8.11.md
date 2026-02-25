@@ -1,8 +1,63 @@
+---
+title: Exodus 8:11
+type: Verse
+kjv: "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only."
+bsb: "The frogs will depart from you and your houses and your officials and your people; they will remain only in the Nile.”"
+hebrew: "וְסָר֣וּ הַֽצְפַרְדְּעִ֗ים מִמְּךָ֙ וּמִבָּ֣תֶּ֔יךָ וּמֵעֲבָדֶ֖יךָ וּמֵעַמֶּ֑ךָ רַ֥ק בַּיְאֹ֖ר תִּשָּׁאַֽרְנָה׃"
+pericope: "[[Exod.8.1 The Second Plague：Frogs|The Second Plague：Frogs]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FROGS|FROGS]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493H]]"
+- "[[H9009]]"
+- "[[H6854]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H5650]]"
+- "[[H5971A]]"
+- "[[H7535]]"
+- "[[H9003]]"
+- "[[H2975G]]"
+- "[[H7604]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:11**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.
 <small><sub>**BSB:**</sub></small>
 The frogs will depart from you and your houses and your officials and your people; they will remain only in the Nile.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5493H\|סָר֣וּ]] [[H9009\|הַֽ]][[H6854\|צְפַרְדְּעִ֗ים]] [[H4480A\|מִמְּ]][[H9031\|ךָ֙]] [[H9002\|וּ]][[H9006\|מִ]][[H1004B\|בָּ֣תֶּ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9006\|מֵ]][[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9006\|מֵ]][[H5971A\|עַמֶּ֑]][[H9021\|ךָ]] [[H7535\|רַ֥ק]] [[H9003\|בַּ]][[H2975G\|יְאֹ֖ר]] [[H7604\|תִּשָּׁאַֽרְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FROGS|FROGS]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.10|<< Exodus 8:10]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.12|Exodus 8:12 >>]]</td></tr></table>
 

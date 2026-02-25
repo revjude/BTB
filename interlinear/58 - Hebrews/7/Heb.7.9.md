@@ -1,10 +1,56 @@
+---
+title: Hebrews 7:9
+type: Verse
+kjv: "And as I may so say, Levi also, who receiveth tithes, payed tithes in Abraham."
+bsb: "And so to speak, Levi, who collects the tenth, paid the tenth through Abraham."
+greek: "καὶ ὡς ἔπος εἰπεῖν· δι᾽ Ἀβραὰμ καὶ Λευὶ ὁ δεκάτας λαμβάνων δεδεκάτωται."
+pericope: "[[Heb.7.1 Melchizedek and Abraham|Melchizedek and Abraham]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G5613]]"
+- "[[G2031]]"
+- "[[G2036]]"
+- "[[G1223]]"
+- "[[G0011]]"
+- "[[G3017J]]"
+- "[[G3588]]"
+- "[[G1182]]"
+- "[[G2983]]"
+- "[[G1183]]"
+texts:
+- NKO
+---
+
 **Hebrews 7:9**<big><big>[[Heb.7.1 Melchizedek and Abraham|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as I may so say, Levi also, who receiveth tithes, payed tithes in Abraham.
 <small><sub>**BSB:**</sub></small>
 And so to speak, Levi, who collects the tenth, paid the tenth through Abraham.
-<small><sub>**Literal:**</sub></small>
-And so a word to speak; through Abraham also Levi the [one] tithes receiving has paid the tithe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.8|<< Hebrews 7:8]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.10|Hebrews 7:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5613\|ὡς]]  [[G2031\|ἔπος]]  [[G2036\|εἰπεῖν·]]  [[G1223\|δι᾽]]  [[G0011\|Ἀβραὰμ]]  [[G2532\|καὶ]]  [[G3017J\|Λευὶ]]  [[G3588\|ὁ]]  [[G1182\|δεκάτας]]  [[G2983\|λαμβάνων]]  [[G1183\|δεδεκάτωται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic SUCCESSION|SUCCESSION]] • [[topic TITHES|TITHES]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.8|<< Hebrews 7:8]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.10|Hebrews 7:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Joshua 13:19
+type: Verse
+kjv: "And Kirjathaim, and Sibmah, and Zarethshahar in the mount of the valley,"
+bsb: "Kiriathaim, Sibmah, Zereth-shahar on the hill in the valley,"
+hebrew: "וְקִרְיָתַ֣יִם וְשִׂבְמָ֔ה וְצֶ֥רֶת הַשַּׁ֖חַר בְּהַ֥ר הָעֵֽמֶק׃"
+pericope: "[[Josh.13.15 Reuben’s Inheritance|Reuben’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic KIRJATHAIM|KIRJATHAIM]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic SIBMAH|SIBMAH]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+- "[[topic ZARETH-SHAHAR|ZARETH-SHAHAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H7156G]]"
+- "[[H7643H]]"
+- "[[H6890]]"
+- "[[H9009]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H6010R]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:19**<big><big>[[Josh.13.15 Reuben’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Kirjathaim, and Sibmah, and Zarethshahar in the mount of the valley,
 <small><sub>**BSB:**</sub></small>
 Kiriathaim, Sibmah, Zereth-shahar on the hill in the valley,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7156G\|קִרְיָתַ֣יִם]] [[H9002\|וְ]][[H7643H\|שִׂבְמָ֔ה]] [[H9002\|וְ]][[H6890\|צֶ֥רֶת]] [[H9009\|הַ]][[H6890\|שַּׁ֖חַר]] [[H9003\|בְּ]][[H2022G\|הַ֥ר]] [[H9009\|הָ]][[H6010R\|עֵֽמֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic KIRJATHAIM|KIRJATHAIM]] • [[topic REUBENITES|REUBENITES]] • [[topic SIBMAH|SIBMAH]] • [[topic TOPOGRAPHY|TOPOGRAPHY]] • [[topic ZARETH-SHAHAR|ZARETH-SHAHAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.18|<< Joshua 13:18]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.20|Joshua 13:20 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 3:1
+type: Verse
+kjv: "Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei."
+bsb: "Then we turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet us in battle at Edrei."
+hebrew: "וַנֵּ֣פֶן וַנַּ֔עַל דֶּ֖רֶךְ הַבָּשָׁ֑ן וַיֵּצֵ֣א עוֹג֩ מֶֽלֶךְ־ הַבָּשָׁ֨ן לִקְרָאתֵ֜נוּ ה֧וּא וְכָל־ עַמּ֛וֹ לַמִּלְחָמָ֖ה אֶדְרֶֽעִי׃"
+pericope: "[[Deut.3.1 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic EDREI|EDREI]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H5927G]]"
+- "[[H1870K]]"
+- "[[H9009]]"
+- "[[H1316]]"
+- "[[H3318G]]"
+- "[[H5747]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9035]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H4421]]"
+- "[[H0154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:1**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then we turned, and went up the way to Bashan: and Og the king of Bashan came out against us, he and all his people, to battle at Edrei.
 <small><sub>**BSB:**</sub></small>
 Then we turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet us in battle at Edrei.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|נֵּ֣פֶן]] [[H9001\|וַ]][[H5927G\|נַּ֔עַל]] [[H1870K\|דֶּ֖רֶךְ]] [[H9009\|הַ]][[H1316\|בָּשָׁ֑ן]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]] [[H5747\|עוֹג֩]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H9009\|הַ]][[H1316\|בָּשָׁ֨ן]] [[H9005\|לִ]][[H7122H\|קְרָאתֵ֜]][[H9035\|נוּ]] [[H1931\|ה֧וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַמּ֛]][[H9023\|וֹ]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H0154\|אֶדְרֶֽעִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDREI|EDREI]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.37|<< Deuteronomy 2:37]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.2|Deuteronomy 3:2 >>]]</td></tr></table>
 

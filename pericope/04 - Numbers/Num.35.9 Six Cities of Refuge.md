@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Six Cities of Refuge
+type: Pericope
 pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 35
 book/chapter: "[[Num.35|Numbers 35]]"
-genre:
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 26
 verses:
 - "[[Num.35.9]]"
 - "[[Num.35.10]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Num.35.34]]"
 ---
 
-[[Num.35|Numbers 35:9 - Numbers 35:34]]
+<small>[[Num.35|Numbers 35:9-34]]</small>
 *Six Cities of Refuge*
 
 [[Num.35.9|9]] And the LORD spake unto Moses, saying,

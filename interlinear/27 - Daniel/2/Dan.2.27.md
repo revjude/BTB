@@ -1,8 +1,64 @@
+---
+title: Daniel 2:27
+type: Verse
+kjv: "Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise men, the astrologers, the magicians, the soothsayers, shew unto the king;"
+bsb: "Daniel answered the king, “No wise man, enchanter, medium, or magician can explain to the king the mystery of which he inquires."
+aramaic: "עָנֵ֧ה דָנִיֵּ֛אל קֳדָ֥ם מַלְכָּ֖א וְאָמַ֑ר רָזָה֙ דִּֽי־ מַלְכָּ֣א שָׁאֵ֔ל לָ֧א חַכִּימִ֣ין אָֽשְׁפִ֗ין חַרְטֻמִּין֙ גָּזְרִ֔ין יָכְלִ֖ין לְהַֽחֲוָיָ֥ה לְמַלְכָּֽא׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ASTROLOGY|ASTROLOGY]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H6032]]"
+- "[[H1841H]]"
+- "[[H6925]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H9002]]"
+- "[[H0560]]"
+- "[[H7328]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H7593]]"
+- "[[H3809]]"
+- "[[H2445]]"
+- "[[H0826]]"
+- "[[H2749]]"
+- "[[H1505]]"
+- "[[H3202]]"
+- "[[H9005]]"
+- "[[H2324]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:27**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Daniel answered in the presence of the king, and said, The secret which the king hath demanded cannot the wise [men], the astrologers, the magicians, the soothsayers, shew unto the king;
 <small><sub>**BSB:**</sub></small>
 Daniel answered the king, “No wise man, enchanter, medium, or magician can explain to the king the mystery of which he inquires.
+<small><sub>**Aramaic:**</sub></small>
+[[H6032\|עָנֵ֧ה]] [[H1841H\|דָנִיֵּ֛אל]] [[H6925\|קֳדָ֥ם]] [[H4430\|מַלְכָּ֖]][[H9010\|א]] [[H9002\|וְ]][[H0560\|אָמַ֑ר]] [[H7328\|רָזָ]][[H9010\|ה֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H4430\|מַלְכָּ֣]][[H9010\|א]] [[H7593\|שָׁאֵ֔ל]] [[H3809\|לָ֧א]] [[H2445\|חַכִּימִ֣ין]] [[H0826\|אָֽשְׁפִ֗ין]] [[H2749\|חַרְטֻמִּין֙]] [[H1505\|גָּזְרִ֔ין]] [[H3202\|יָכְלִ֖ין]] [[H9005\|לְ]][[H2324\|הַֽחֲוָיָ֥ה]] [[H9005\|לְ]][[H4430\|מַלְכָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTROLOGY|ASTROLOGY]] • [[topic BABYLON|BABYLON]] • [[topic INTERPRETER|INTERPRETER]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.26|<< Daniel 2:26]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.28|Daniel 2:28 >>]]</td></tr></table>
 

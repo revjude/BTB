@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hope for Israel and Judah
+type: Pericope
 pericope: "[[Jer.50.4 Hope for Israel and Judah|Hope for Israel and Judah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 50
 book/chapter: "[[Jer.50|Jeremiah 50]]"
-genre:
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 7
 verses:
 - "[[Jer.50.4]]"
 - "[[Jer.50.5]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Jer.50.10]]"
 ---
 
-[[Jer.50|Jeremiah 50:4 - Jeremiah 50:10]]
+<small>[[Jer.50|Jeremiah 50:4-10]]</small>
 *Hope for Israel and Judah*
 
 [[Jer.50.4|4]] In those days, and in that time, saith the LORD, the children of Israel shall come, they and the children of Judah together, going and weeping: they shall go, and seek the LORD their God.

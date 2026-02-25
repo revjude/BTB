@@ -1,8 +1,65 @@
+---
+title: Genesis 1:24
+type: Verse
+kjv: "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so."
+bsb: "And God said, “Let the earth bring forth living creatures according to their kinds: livestock, land crawlers, and beasts of the earth according to their kinds.” And it was so."
+hebrew: "וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־ אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־ כֵֽן׃"
+pericope: "[[Gen.1.24 The Sixth Day|The Sixth Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PROPAGATION|PROPAGATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H3318M]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H5315K]]"
+- "[[H2416A]]"
+- "[[H9005]]"
+- "[[H4327]]"
+- "[[H9024]]"
+- "[[H0929]]"
+- "[[H9002]]"
+- "[[H7431]]"
+- "[[H2416C]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:24**<big><big>[[Gen.1.24 The Sixth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.
 <small><sub>**BSB:**</sub></small>
 And God said, “Let the earth bring forth living creatures according to their kinds: livestock, land crawlers, and beasts of the earth according to their kinds.” And it was so.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0430G\|אֱלֹהִ֗ים]] [[H3318M\|תּוֹצֵ֨א]] [[H9009\|הָ]][[H0776H\|אָ֜רֶץ]] [[H5315K\|נֶ֤פֶשׁ]] [[H2416A\|חַיָּה֙]] [[H9005\|לְ]][[H4327\|מִינָ֔]][[H9024\|הּ]] [[H0929\|בְּהֵמָ֥ה]] [[H9002\|וָ]][[H7431\|רֶ֛מֶשׂ]] [[H9002\|וְ]][[H2416C\|חַֽיְתוֹ]][[H9014\|־]] [[H0776H\|אֶ֖רֶץ]] [[H9005\|לְ]][[H4327\|מִינָ֑]][[H9024\|הּ]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H3651C\|כֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BIRDS|BIRDS]] • [[topic GOD|GOD]] • [[topic PROPAGATION|PROPAGATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.23|<< Genesis 1:23]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.25|Genesis 1:25 >>]]</td></tr></table>
 

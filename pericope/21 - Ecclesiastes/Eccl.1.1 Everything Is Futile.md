@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Everything Is Futile
+type: Pericope
 pericope: "[[Eccl.1.1 Everything Is Futile|Everything Is Futile]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 1
 book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
-genre:
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 11
 verses:
 - "[[Eccl.1.1]]"
 - "[[Eccl.1.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Eccl.1.11]]"
 ---
 
-[[Eccl.1|Ecclesiastes 1:1 - Ecclesiastes 1:11]]
+<small>[[Eccl.1|Ecclesiastes 1:1-11]]</small>
 *Everything Is Futile*
 
 [[Eccl.1.1|1]] The words of the Preacher, the son of David, king in Jerusalem.

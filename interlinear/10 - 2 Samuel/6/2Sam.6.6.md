@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 6:6
+type: Verse
+kjv: "And when they came to Nachon’s threshingfloor, Uzzah put forth his hand to the ark of God, and took hold of it; for the oxen shook it."
+bsb: "When they came to the threshing floor of Nacon, Uzzah reached out and took hold of the ark of God, because the oxen had stumbled."
+hebrew: "וַיָּבֹ֖אוּ עַד־ גֹּ֣רֶן נָכ֑וֹן וַיִּשְׁלַ֨ח עֻזָּ֜א אֶל־ אֲר֤וֹן הָֽאֱלֹהִים֙ וַיֹּ֣אחֶז בּ֔וֹ כִּ֥י שָׁמְט֖וּ הַבָּקָֽר׃"
+pericope: "[[2Sam.6.5 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic CHIDON|CHIDON]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NACHON|NACHON]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic THRESHING|THRESHING]]"
+- "[[topic UZZAH|UZZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H1637]]"
+- "[[H5225]]"
+- "[[H7971G]]"
+- "[[H5798A]]"
+- "[[H0413]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0270]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H8058]]"
+- "[[H1241]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:6**<big><big>[[2Sam.6.5 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they came to Nachon’s threshingfloor, Uzzah put forth [his hand] to the ark of God, and took hold of it; for the oxen shook [it].
 <small><sub>**BSB:**</sub></small>
 When they came to the threshing floor of Nacon, Uzzah reached out and took hold of the ark of God, because the oxen had stumbled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1637\|גֹּ֣רֶן]] [[H5225\|נָכ֑וֹן]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H5798A\|עֻזָּ֜א]] [[H0413\|אֶל]][[H9014\|־]] [[H0727\|אֲר֤וֹן]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H9001\|וַ]][[H0270\|יֹּ֣אחֶז]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H3588A\|כִּ֥י]] [[H8058\|שָׁמְט֖וּ]] [[H9009\|הַ]][[H1241\|בָּקָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic CHIDON|CHIDON]] • [[topic DAVID|DAVID]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic MIRACLES|MIRACLES]] • [[topic NACHON|NACHON]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RASHNESS|RASHNESS]] • [[topic SACRILEGE|SACRILEGE]] • [[topic THRESHING|THRESHING]] • [[topic UZZAH|UZZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.5|<< 2 Samuel 6:5]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.7|2 Samuel 6:7 >>]]</td></tr></table>
 

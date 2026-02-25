@@ -1,10 +1,59 @@
+---
+title: John 19:17
+type: Verse
+kjv: "And he bearing his cross went forth into a place called the place of a skull, which is called in the Hebrew Golgotha:"
+bsb: "Carrying His own cross, He went out to The Place of the Skull, which in Hebrew is called Golgotha."
+greek: "καὶ βαστάζων ἑαυτῷ τὸν σταυρὸν ἐξῆλθεν εἰς τὸν λεγόμενον κρανίου τόπον, ὃ λέγεται Ἑβραϊστὶ Γολγοθα,"
+pericope: "[[John.19.16 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CALVARY|CALVARY]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOLGOTHA|GOLGOTHA]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G0941]]"
+- "[[G1438]]"
+- "[[G3588]]"
+- "[[G4716]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G3004H]]"
+- "[[G2898]]"
+- "[[G5117]]"
+- "[[G3739]]"
+- "[[G1447]]"
+- "[[G1115]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **John 19:17**<big><big>[[John.19.16 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he bearing his cross went forth into a place called [the place] of a skull, which is called in the Hebrew Golgotha:
 <small><sub>**BSB:**</sub></small>
 Carrying His own cross, He went out to The Place of the Skull, which in Hebrew is called Golgotha.
-<small><sub>**Literal:**</sub></small>
-And bearing His own <the> cross He went out to the [place] being named of the Skull Place, which is named in Hebrew Golgotha,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.16|<< John 19:16]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.18|John 19:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0941\|βαστάζων]]  [[G1438\|ἑαυτῷ]]  [[G3588\|τὸν]]  [[G4716\|σταυρὸν]]  [[G1831\|ἐξῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3004H\|λεγόμενον]]  [[G2898\|κρανίου]]  [[G5117\|τόπον,]]  [[G3739\|ὃ]]  [[G3004H\|λέγεται]]  [[G1447\|Ἑβραϊστὶ]]  [[G1115\|Γολγοθα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALVARY|CALVARY]] • [[topic CROSS|CROSS]] • [[topic DEATH|DEATH]] • [[topic GOLGOTHA|GOLGOTHA]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.16|<< John 19:16]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.18|John 19:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

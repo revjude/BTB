@@ -1,8 +1,62 @@
+---
+title: Daniel 2:32
+type: Verse
+kjv: "This image’s head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,"
+bsb: "The head of the statue was pure gold, its chest and arms were silver, its belly and thighs were bronze,"
+aramaic: "ה֣וּא צַלְמָ֗א רֵאשֵׁהּ֙ דִּֽי־ דְהַ֣ב טָ֔ב חֲד֥וֹהִי וּדְרָע֖וֹהִי דִּ֣י כְסַ֑ף מְע֥וֹהִי וְיַרְכָתֵ֖הּ דִּ֥י נְחָֽשׁ׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H1932]]"
+- "[[H6755]]"
+- "[[H9010]]"
+- "[[H7217]]"
+- "[[H9023]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H1722]]"
+- "[[H2869]]"
+- "[[H2306]]"
+- "[[H9002]]"
+- "[[H1872]]"
+- "[[H3702]]"
+- "[[H4577]]"
+- "[[H3410]]"
+- "[[H5174]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:32**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This image’s head [was] of fine gold, his breast and his arms of silver, his belly and his thighs of brass,
 <small><sub>**BSB:**</sub></small>
 The head of the statue was pure gold, its chest and arms were silver, its belly and thighs were bronze,
+<small><sub>**Aramaic:**</sub></small>
+[[H1932\|ה֣וּא]] [[H6755\|צַלְמָ֗]][[H9010\|א]] [[H7217\|רֵאשֵׁ]][[H9023\|הּ֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1722\|דְהַ֣ב]] [[H2869\|טָ֔ב]] [[H2306\|חֲד֥וֹ]][[H9023\|הִי]] [[H9002\|וּ]][[H1872\|דְרָע֖וֹ]][[H9023\|הִי]] [[H1768\|דִּ֣י]] [[H3702\|כְסַ֑ף]] [[H4577\|מְע֥וֹ]][[H9023\|הִי]] [[H9002\|וְ]][[H3410\|יַרְכָתֵ֖]][[H9023\|הּ]] [[H1768\|דִּ֥י]] [[H5174\|נְחָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BRASS|BRASS]] • [[topic GOLD|GOLD]] • [[topic PERSIA|PERSIA]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.31|<< Daniel 2:31]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.33|Daniel 2:33 >>]]</td></tr></table>
 

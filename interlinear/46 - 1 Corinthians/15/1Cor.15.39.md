@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 15:39
+type: Verse
+kjv: "All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds."
+bsb: "Not all flesh is the same: Men have one kind of flesh, animals have another, birds another, and fish another."
+greek: "Οὐ πᾶσα σὰρξ ἡ αὐτὴ σὰρξ ἀλλ᾽ ἄλλη μὲν σὰρξ ἀνθρώπων, ἄλλη δὲ σὰρξ κτηνῶν, ἄλλη δὲ σὰρξ πτηνῶν, ἄλλη δὲ ἰχθύων."
+pericope: "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G3756]]"
+- "[[G3956]]"
+- "[[G4561]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G0243]]"
+- "[[G3303]]"
+- "[[G0444]]"
+- "[[G1161]]"
+- "[[G2934]]"
+- "[[G4421]]"
+- "[[G2486]]"
+texts:
+- NKO
+- k
+- no
+---
+
 **1 Corinthians 15:39**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All flesh [is] not the same flesh: but [there is] one [kind of] flesh of men, another flesh of beasts, another of fishes, [and] another of birds.
 <small><sub>**BSB:**</sub></small>
 Not all flesh is the same: Men have one kind of flesh, animals have another, birds another, and fish another.
-<small><sub>**Literal:**</sub></small>
-Not all flesh [is] the same flesh but one indeed flesh of men, another however flesh of beasts, another however flesh of birds another however of fish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.38|<< 1 Corinthians 15:38]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.40|1 Corinthians 15:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|Οὐ]]  [[G3956\|πᾶσα]]  [[G4561\|σὰρξ]]  [[G3588\|ἡ]]  [[G0846\|αὐτὴ]]  [[G4561\|σὰρξ]]  [[G0235\|ἀλλ᾽]]  [[G0243\|ἄλλη]]  [[G3303\|μὲν]]  [[G4561\|σὰρξ]]  [[G0444\|ἀνθρώπων,]]  [[G0243\|ἄλλη]]  [[G1161\|δὲ]]  [[G4561\|σὰρξ]]  [[G2934\|κτηνῶν,]]  [[G0243\|ἄλλη]]  [[G1161\|δὲ]]  [[G4561\|σὰρξ]]  [[G4421\|πτηνῶν,]]  [[G0243\|ἄλλη]]  [[G1161\|δὲ]]  [[G2486\|ἰχθύων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.38|<< 1 Corinthians 15:38]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.40|1 Corinthians 15:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,59 @@
+---
+title: Matthew 8:6
+type: Verse
+kjv: "And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented."
+bsb: "“Lord, my servant lies at home, paralyzed and in terrible agony.”"
+greek: "καὶ λέγων· κύριε, ὁ παῖς μου βέβληται ἐν τῇ οἰκίᾳ παραλυτικὸς δεινῶς βασανιζόμενος."
+pericope: "[[Matt.8.5 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PARALYSIS|PARALYSIS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G3588]]"
+- "[[G3816]]"
+- "[[G3165]]"
+- "[[G0906H]]"
+- "[[G1722]]"
+- "[[G3614G]]"
+- "[[G3885]]"
+- "[[G1171]]"
+- "[[G0928H]]"
+texts:
+- NKO
+---
+
 **Matthew 8:6**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.
 <small><sub>**BSB:**</sub></small>
 “Lord, my servant lies at home, paralyzed and in terrible agony.”
-<small><sub>**Literal:**</sub></small>
-and saying; Lord, the servant of mine has been laid in the house paralyzed grievously being tormented.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.5|<< Matthew 8:5]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.7|Matthew 8:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγων·]]  [[G2962G\|κύριε,]]  [[G3588\|ὁ]]  [[G3816\|παῖς]]  [[G3165\|μου]]  [[G0906H\|βέβληται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3614G\|οἰκίᾳ]]  [[G3885\|παραλυτικὸς]]  [[G1171\|δεινῶς]]  [[G0928H\|βασανιζόμενος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENTURION|CENTURION]] • [[topic FAITH|FAITH]] • [[topic HEATHEN|HEATHEN]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PARALYSIS|PARALYSIS]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.5|<< Matthew 8:5]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.7|Matthew 8:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

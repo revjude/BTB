@@ -1,8 +1,65 @@
+---
+title: Habakkuk 3:17
+type: Verse
+kjv: "Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:"
+bsb: "Though the fig tree does not bud and no fruit is on the vines, though the olive crop fails and the fields produce no food, though the sheep are cut off from the fold and no cattle are in the stalls,"
+hebrew: "כִּֽי־ תְאֵנָ֣ה לֹֽא־ תִפְרָ֗ח וְאֵ֤ין יְבוּל֙ בַּגְּפָנִ֔ים כִּחֵשׁ֙ מַעֲשֵׂה־ זַ֔יִת וּשְׁדֵמ֖וֹת לֹא־ עָ֣שָׂה אֹ֑כֶל גָּזַ֤ר מִמִּכְלָה֙ צֹ֔אן וְאֵ֥ין בָּקָ֖ר בָּרְפָתִֽים׃"
+pericope: "[[Hab.3.17 Habakkuk Rejoices|Habakkuk Rejoices]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8384]]"
+- "[[H3808]]"
+- "[[H6524A]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H2981]]"
+- "[[H9003]]"
+- "[[H1612]]"
+- "[[H3584]]"
+- "[[H4639G]]"
+- "[[H2132H]]"
+- "[[H7709]]"
+- "[[H6213A]]"
+- "[[H0400]]"
+- "[[H1504]]"
+- "[[H9006]]"
+- "[[H4356]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H7517]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:17**<big><big>[[Hab.3.17 Habakkuk Rejoices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Although the fig tree shall not blossom, neither [shall] fruit [be] in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and [there shall be] no herd in the stalls:
 <small><sub>**BSB:**</sub></small>
 Though the fig tree does not bud and no fruit is on the vines, though the olive crop fails and the fields produce no food, though the sheep are cut off from the fold and no cattle are in the stalls,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8384\|תְאֵנָ֣ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6524A\|תִפְרָ֗ח]] [[H9002\|וְ]][[H0369\|אֵ֤ין]] [[H2981\|יְבוּל֙]] [[H9003\|בַּ]][[H1612\|גְּפָנִ֔ים]] [[H3584\|כִּחֵשׁ֙]] [[H4639G\|מַעֲשֵׂה]][[H9014\|־]] [[H2132H\|זַ֔יִת]] [[H9002\|וּ]][[H7709\|שְׁדֵמ֖וֹת]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|עָ֣שָׂה]] [[H0400\|אֹ֑כֶל]] [[H1504\|גָּזַ֤ר]] [[H9006\|מִ]][[H4356\|מִּכְלָה֙]] [[H6629G\|צֹ֔אן]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H1241\|בָּקָ֖ר]] [[H9003\|בָּ]][[H7517\|רְפָתִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.16|<< Habakkuk 3:16]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.18|Habakkuk 3:18 >>]]</td></tr></table>
 

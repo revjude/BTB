@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ark Returned to Israel
+type: Pericope
 pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 6
 book/chapter: "[[1Sam.6|1 Samuel 6]]"
-genre:
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 21
 verses:
 - "[[1Sam.6.1]]"
 - "[[1Sam.6.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[1Sam.6.21]]"
 ---
 
-[[1Sam.6|1 Samuel 6:1 - 1 Samuel 6:21]]
+<small>[[1Sam.6|1 Samuel 6:1-21]]</small>
 *The Ark Returned to Israel*
 
 [[1Sam.6.1|1]] And the ark of the LORD was in the country of the Philistines seven months.

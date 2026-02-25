@@ -1,8 +1,61 @@
+---
+title: Isaiah 66:10
+type: Verse
+kjv: "Rejoice ye with Jerusalem, and be glad with her, all ye that love her: rejoice for joy with her, all ye that mourn for her:"
+bsb: "Be glad for Jerusalem and rejoice over her, all who love her. Rejoice greatly with her, all who mourn over her,"
+hebrew: "שִׂמְח֧וּ אֶת־ יְרוּשָׁלִַ֛ם וְגִ֥ילוּ בָ֖הּ כָּל־ אֹהֲבֶ֑יהָ שִׂ֤ישׂוּ אִתָּהּ֙ מָשׂ֔וֹשׂ כָּל־ הַמִּֽתְאַבְּלִ֖ים עָלֶֽיהָ׃"
+pericope: "[[Isa.66.7 Rejoice with Jerusalem|Rejoice with Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H8055]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3389]]"
+- "[[H9002]]"
+- "[[H1523]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H3605]]"
+- "[[H0157G]]"
+- "[[H7797]]"
+- "[[H4885]]"
+- "[[H9009]]"
+- "[[H0056]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 66:10**<big><big>[[Isa.66.7 Rejoice with Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Rejoice ye with Jerusalem, and be glad with her, all ye that love her: rejoice for joy with her, all ye that mourn for her:
 <small><sub>**BSB:**</sub></small>
 Be glad for Jerusalem and rejoice over her, all who love her. Rejoice greatly with her, all who mourn over her,
+<small><sub>**Hebrew:**</sub></small>
+[[H8055\|שִׂמְח֧וּ]] [[H0854\|אֶת]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֛ם]] [[H9002\|וְ]][[H1523\|גִ֥ילוּ]] [[H9003\|בָ֖]][[H9034\|הּ]] [[H3605\|כָּל]][[H9014\|־]] [[H0157G\|אֹהֲבֶ֑י]][[H9034\|הָ]] [[H7797\|שִׂ֤ישׂוּ]] [[H0854\|אִתָּ]][[H9034\|הּ֙]] [[H4885\|מָשׂ֔וֹשׂ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0056\|מִּֽתְאַבְּלִ֖ים]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.9|<< Isaiah 66:9]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.11|Isaiah 66:11 >>]]</td></tr></table>
 

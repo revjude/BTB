@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Worship of the Creator
+type: Pericope
 pericope: "[[Rev.4.5 Worship of the Creator|Worship of the Creator]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 4
 book/chapter: "[[Rev.4|Revelation 4]]"
-genre:
+chronological_order: 1171
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 7
 verses:
 - "[[Rev.4.5]]"
 - "[[Rev.4.6]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Rev.4.11]]"
 ---
 
-[[Rev.4|Revelation 4:5 - Revelation 4:11]]
+<small>[[Rev.4|Revelation 4:5-11]]</small>
 *Worship of the Creator*
 
 [[Rev.4.5|5]] And out of the throne proceeded lightnings and thunderings and voices: and \[there were\] seven lamps of fire burning before the throne, which are the seven Spirits of God.

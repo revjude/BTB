@@ -1,8 +1,68 @@
+---
+title: Judges 8:14
+type: Verse
+kjv: "And caught a young man of the men of Succoth, and inquired of him: and he described unto him the princes of Succoth, and the elders thereof, even threescore and seventeen men."
+bsb: "There he captured a young man of Succoth and interrogated him. The young man wrote down for him the names of the seventy-seven leaders and elders of Succoth."
+hebrew: "וַיִּלְכָּד־ נַ֛עַר מֵאַנְשֵׁ֥י סֻכּ֖וֹת וַיִּשְׁאָלֵ֑הוּ וַיִּכְתֹּ֨ב אֵלָ֜יו אֶת־ שָׂרֵ֤י סֻכּוֹת֙ וְאֶת־ זְקֵנֶ֔יהָ שִׁבְעִ֥ים וְשִׁבְעָ֖ה אִֽישׁ׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H9014]]"
+- "[[H5288]]"
+- "[[H9006]]"
+- "[[H0582]]"
+- "[[H5523G]]"
+- "[[H7592]]"
+- "[[H9033]]"
+- "[[H3789]]"
+- "[[H0413]]"
+- "[[H0853]]"
+- "[[H8269]]"
+- "[[H9002]]"
+- "[[H2205G]]"
+- "[[H9024]]"
+- "[[H7657]]"
+- "[[H7651]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:14**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And caught a young man of the men of Succoth, and inquired of him: and he described unto him the princes of Succoth, and the elders thereof, [even] threescore and seventeen men.
 <small><sub>**BSB:**</sub></small>
 There he captured a young man of Succoth and interrogated him. The young man wrote down for him the names of the seventy-seven leaders and elders of Succoth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3920\|יִּלְכָּד]][[H9014\|־]] [[H5288\|נַ֛עַר]] [[H9006\|מֵ]][[H0582\|אַנְשֵׁ֥י]] [[H5523G\|סֻכּ֖וֹת]] [[H9001\|וַ]][[H7592\|יִּשְׁאָלֵ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H3789\|יִּכְתֹּ֨ב]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרֵ֤י]] [[H5523G\|סֻכּוֹת֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2205G\|זְקֵנֶ֔י]][[H9024\|הָ]] [[H7657\|שִׁבְעִ֥ים]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֖ה]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEON|GIDEON]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic RETALIATION|RETALIATION]] • [[topic SUCCOTH|SUCCOTH]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.13|<< Judges 8:13]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.15|Judges 8:15 >>]]</td></tr></table>
 

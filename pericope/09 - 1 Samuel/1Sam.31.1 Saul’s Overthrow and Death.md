@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul’s Overthrow and Death
+type: Pericope
 pericope: "[[1Sam.31.1 Saul’s Overthrow and Death|Saul’s Overthrow and Death]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 31
 book/chapter: "[[1Sam.31|1 Samuel 31]]"
-genre:
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[1Sam.31.1]]"
 - "[[1Sam.31.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Sam.31.6]]"
 ---
 
-[[1Sam.31|1 Samuel 31:1 - 1 Samuel 31:6]]
+<small>[[1Sam.31|1 Samuel 31:1-6]]</small>
 *Saul’s Overthrow and Death*
 
 [[1Sam.31.1|1]] Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.

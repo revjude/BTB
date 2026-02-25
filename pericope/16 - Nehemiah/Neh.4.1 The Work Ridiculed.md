@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Work Ridiculed
+type: Pericope
 pericope: "[[Neh.4.1 The Work Ridiculed|The Work Ridiculed]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 4
 book/chapter: "[[Neh.4|Nehemiah 4]]"
-genre:
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 8
 verses:
 - "[[Neh.4.1]]"
 - "[[Neh.4.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Neh.4.8]]"
 ---
 
-[[Neh.4|Nehemiah 4:1 - Nehemiah 4:8]]
+<small>[[Neh.4|Nehemiah 4:1-8]]</small>
 *The Work Ridiculed*
 
 [[Neh.4.1|1]] But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews.

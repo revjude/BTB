@@ -1,6 +1,75 @@
+---
+title: LXX Judges 16:12
+type: Verse
+lxx: "And Delilah took new ropes, and tied him with them. And she said to him, The Philistines are upon you, Samson. And the ambush sat in the storeroom. And he pulled them from  his arms as thread."
+greek: "και έλαβε Δαλιλά καλώδια καινά και έδησεν αυτόν εν αυτοίς και είπε προς αυτόν οι αλλόφυλοι επί σε Σαμψών και το ένεδρον εκάθητο εν τω ταμείω και διέσπασεν αυτά από των βραχιόνων αυτού ωσεί ράμμα"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[H1807]]"
+- "[[G7787]]"
+- "[[G2537]]"
+- "[[G2532]]"
+- "[[G1210]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0246]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G4546]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1749]]"
+- "[[G2521]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5009]]"
+- "[[G2532]]"
+- "[[G1288]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1023]]"
+- "[[G1473]]"
+- "[[G5616]]"
+- "[[G9009]]"
+---
+
 **LXX Judges 16:12** 
 <small><sub>**LXX:**</sub></small>
 And Delilah took new ropes, and tied him with them. And she said to him, The Philistines are upon you, Samson. And the ambush sat in the storeroom. And he pulled them from  his arms as thread. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2983\|έλαβε]] [[H1807\|Δαλιλά]] [[G7787\|καλώδια]] [[G2537\|καινά]] [[G2532\|και]] [[G1210\|έδησεν]] [[G1473\|αυτόν]] [[G1722\|εν]] [[G1473\|αυτοίς]] [[G2532\|και]] [[G2036\|είπε]] [[G4314\|προς]] [[G1473\|αυτόν]] [[G3588\|οι]] [[G0246\|αλλόφυλοι]] [[G1909\|επί]] [[G1473\|σε]] [[G4546\|Σαμψών]] [[G2532\|και]] [[G3588\|το]] [[G1749\|ένεδρον]] [[G2521\|εκάθητο]] [[G1722\|εν]] [[G3588\|τω]] [[G5009\|ταμείω]] [[G2532\|και]] [[G1288\|διέσπασεν]] [[G1473\|αυτά]] [[G0575\|από]] [[G3588\|των]] [[G1023\|βραχιόνων]] [[G1473\|αυτού]] [[G5616\|ωσεί]] [[G9009\|ράμμα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.11|<< Judges 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.13|Judges 16:13 >>]]</td></tr></table>
 
@@ -39,6 +108,6 @@ And Delilah took new ropes, and tied him with them. And she said to him, The Phi
 | his arms | **<big>[[G1023\|βραχιόνων]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | as | **<big>[[G5616\|ωσεί]]</big>** |
 | thread. | **<big>[[G9009\|ράμμα]]</big>** |
-[[Judg.16.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.11|<< Judges 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.13|Judges 16:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.16.11|<< Judges 16:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.16.13|Judges 16:13 >>]]</td></tr></table>
 
 

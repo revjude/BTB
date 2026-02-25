@@ -1,8 +1,66 @@
+---
+title: Nahum 3:17
+type: Verse
+kjv: "Thy crowned are as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, but when the sun ariseth they flee away, and their place is not known where they are."
+bsb: "Your guards are like the swarming locust, and your scribes like clouds of locusts that settle on the walls on a cold day. When the sun rises, they fly away, and no one knows where."
+hebrew: "מִנְּזָרַ֙יִךְ֙ כָּֽאַרְבֶּ֔ה וְטַפְסְרַ֖יִךְ כְּג֣וֹב גֹּבָ֑י הַֽחוֹנִ֤ים בַּגְּדֵרוֹת֙ בְּי֣וֹם קָרָ֔ה שֶׁ֤מֶשׁ זָֽרְחָה֙ וְנוֹדַ֔ד וְלֹֽא־ נוֹדַ֥ע מְקוֹמ֖וֹ אַיָּֽם׃"
+pericope: "[[Nah.3.1 Judgment on Nineveh|Judgment on Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic FENCE|FENCE]]"
+- "[[topic GRASSHOPPER|GRASSHOPPER]]"
+strongs:
+- "[[H4502]]"
+- "[[H9022]]"
+- "[[H9004]]"
+- "[[H0697]]"
+- "[[H9002]]"
+- "[[H2951]]"
+- "[[H1462A]]"
+- "[[H1462B]]"
+- "[[H9009]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H1448]]"
+- "[[H3117G]]"
+- "[[H7135]]"
+- "[[H8121]]"
+- "[[H2224]]"
+- "[[H5074]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H0335]]"
+- "[[H9048]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 3:17**<big><big>[[Nah.3.1 Judgment on Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy crowned [are] as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, [but] when the sun ariseth they flee away, and their place is not known where they [are].
 <small><sub>**BSB:**</sub></small>
 Your guards are like the swarming locust, and your scribes like clouds of locusts that settle on the walls on a cold day. When the sun rises, they fly away, and no one knows where.
+<small><sub>**Hebrew:**</sub></small>
+[[H4502\|מִנְּזָרַ֙יִ]][[H9022\|ךְ֙]] [[H9004\|כָּֽ]][[H0697\|אַרְבֶּ֔ה]] [[H9002\|וְ]][[H2951\|טַפְסְרַ֖יִ]][[H9022\|ךְ]] [[H9004\|כְּ]][[H1462A\|ג֣וֹב]] [[H1462B\|גֹּבָ֑י]] [[H9009\|הַֽ]][[H2583\|חוֹנִ֤ים]] [[H9003\|בַּ]][[H1448\|גְּדֵרוֹת֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H7135\|קָרָ֔ה]] [[H8121\|שֶׁ֤מֶשׁ]] [[H2224\|זָֽרְחָה֙]] [[H9002\|וְ]][[H5074\|נוֹדַ֔ד]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|נוֹדַ֥ע]] [[H4725\|מְקוֹמ֖]][[H9023\|וֹ]] [[H0335\|אַיָּֽ]][[H9048\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FENCE|FENCE]] • [[topic GRASSHOPPER|GRASSHOPPER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.3.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.3.16|<< Nahum 3:16]]</td><td align="center" style="border:none;">[[Nah.3|Nahum 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.3.18|Nahum 3:18 >>]]</td></tr></table>
 

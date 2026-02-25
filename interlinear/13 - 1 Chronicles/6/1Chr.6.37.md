@@ -1,8 +1,48 @@
+---
+title: 1 Chronicles 6:37
+type: Verse
+kjv: "The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,"
+bsb: "the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,"
+hebrew: "בֶּן־ תַּ֙חַת֙ בֶּן־ אַסִּ֔יר בֶּן־ אֶבְיָסָ֖ף בֶּן־ קֹֽרַח׃"
+pericope: "[[1Chr.6.31 The Temple Musicians|The Temple Musicians]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASSIR|ASSIR]]"
+- "[[topic TAHATH|TAHATH]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H8480H]]"
+- "[[H0617H]]"
+- "[[H0043]]"
+- "[[H7141I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:37**<big><big>[[1Chr.6.31 The Temple Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
 <small><sub>**BSB:**</sub></small>
 the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H8480H\|תַּ֙חַת֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0617H\|אַסִּ֔יר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0043\|אֶבְיָסָ֖ף]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7141I\|קֹֽרַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSIR|ASSIR]] • [[topic TAHATH|TAHATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.36|<< 1 Chronicles 6:36]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.38|1 Chronicles 6:38 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pekahiah Reigns in Israel
+type: Pericope
 pericope: "[[2Kgs.15.23 Pekahiah Reigns in Israel|Pekahiah Reigns in Israel]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 15
 book/chapter: "[[2Kgs.15|2 Kings 15]]"
-genre:
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.15.23]]"
 - "[[2Kgs.15.24]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.15.26]]"
 ---
 
-[[2Kgs.15|2 Kings 15:23 - 2 Kings 15:26]]
+<small>[[2Kgs.15|2 Kings 15:23-26]]</small>
 *Pekahiah Reigns in Israel*
 
 [[2Kgs.15.23|23]] In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, \[and reigned\] two years.

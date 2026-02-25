@@ -1,8 +1,58 @@
+---
+title: Job 38:7
+type: Verse
+kjv: "When the morning stars sang together, and all the sons of God shouted for joy?"
+bsb: "while the morning stars sang together and all the sons of God shouted for joy?"
+hebrew: "בְּרָן־ יַ֭חַד כּ֣וֹכְבֵי בֹ֑קֶר וַ֝יָּרִ֗יעוּ כָּל־ בְּנֵ֥י אֱלֹהִֽים׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic STARS|STARS]]"
+strongs:
+- "[[H9003]]"
+- "[[H7442B]]"
+- "[[H9014]]"
+- "[[H3162A]]"
+- "[[H3556]]"
+- "[[H1242]]"
+- "[[H9001]]"
+- "[[H7321]]"
+- "[[H3605]]"
+- "[[H1121A]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:7**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the morning stars sang together, and all the sons of God shouted for joy?
 <small><sub>**BSB:**</sub></small>
 while the morning stars sang together and all the sons of God shouted for joy?
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7442B\|רָן]][[H9014\|־]] [[H3162A\|יַ֭חַד]] [[H3556\|כּ֣וֹכְבֵי]] [[H1242\|בֹ֑קֶר]] [[H9001\|וַ֝]][[H7321\|יָּרִ֗יעוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H1121A\|בְּנֵ֥י]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic BLESSING|BLESSING]] • [[topic CONTINENTS|CONTINENTS]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic STARS|STARS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.6|<< Job 38:6]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.8|Job 38:8 >>]]</td></tr></table>
 

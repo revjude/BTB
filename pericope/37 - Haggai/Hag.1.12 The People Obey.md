@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The People Obey
+type: Pericope
 pericope: "[[Hag.1.12 The People Obey|The People Obey]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Haggai
 chapter: 1
 book/chapter: "[[Hag.1|Haggai 1]]"
-genre:
+chronological_order: 855
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
+verse_count: 4
 verses:
 - "[[Hag.1.12]]"
 - "[[Hag.1.13]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Hag.1.15]]"
 ---
 
-[[Hag.1|Haggai 1:12 - Haggai 1:15]]
+<small>[[Hag.1|Haggai 1:12-15]]</small>
 *The People Obey*
 
 [[Hag.1.12|12]] Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him, and the people did fear before the LORD.

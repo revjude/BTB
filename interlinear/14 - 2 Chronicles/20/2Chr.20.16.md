@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 20:16
+type: Verse
+kjv: "To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel."
+bsb: "Tomorrow you are to march down against them. You will see them coming up the Ascent of Ziz, and you will find them at the end of the valley facing the Wilderness of Jeruel."
+hebrew: "מָחָר֙ רְד֣וּ עֲלֵיהֶ֔ם הִנָּ֥ם עֹלִ֖ים בְּמַעֲלֵ֣ה הַצִּ֑יץ וּמְצָאתֶ֤ם אֹתָם֙ בְּס֣וֹף הַנַּ֔חַל פְּנֵ֖י מִדְבַּ֥ר יְרוּאֵֽל׃"
+pericope: "[[2Chr.20.14 The Prophecy of Jahaziel|The Prophecy of Jahaziel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JERUEL|JERUEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZIZ|ZIZ]]"
+strongs:
+- "[[H4279]]"
+- "[[H3381]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H4608]]"
+- "[[H9009]]"
+- "[[H6732]]"
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H5490]]"
+- "[[H5158N]]"
+- "[[H6440K]]"
+- "[[H4057B]]"
+- "[[H3385]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:16**<big><big>[[2Chr.20.14 The Prophecy of Jahaziel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel.
 <small><sub>**BSB:**</sub></small>
 Tomorrow you are to march down against them. You will see them coming up the Ascent of Ziz, and you will find them at the end of the valley facing the Wilderness of Jeruel.
+<small><sub>**Hebrew:**</sub></small>
+[[H4279\|מָחָר֙]] [[H3381\|רְד֣וּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H2005\|הִנָּ֥]][[H9048\|ם]] [[H5927G\|עֹלִ֖ים]] [[H9003\|בְּ]][[H4608\|מַעֲלֵ֣ה]] [[H9009\|הַ]][[H6732\|צִּ֑יץ]] [[H9001\|וּ]][[H4672\|מְצָאתֶ֤ם]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H5490\|ס֣וֹף]] [[H9009\|הַ]][[H5158N\|נַּ֔חַל]] [[H6440K\|פְּנֵ֖י]] [[H4057B\|מִדְבַּ֥ר]] [[H3385\|יְרוּאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JERUEL|JERUEL]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]] • [[topic ZIZ|ZIZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.15|<< 2 Chronicles 20:15]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.17|2 Chronicles 20:17 >>]]</td></tr></table>
 

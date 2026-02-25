@@ -1,8 +1,69 @@
+---
+title: Ecclesiastes 9:11
+type: Verse
+kjv: "I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all."
+bsb: "I saw something else under the sun: The race is not to the swift, nor the battle to the strong; neither is the bread to the wise, nor the wealth to the intelligent, nor the favor to the skillful. For time and chance happen to all."
+hebrew: "שַׁ֜בְתִּי וְרָאֹ֣ה תַֽחַת־ הַשֶּׁ֗מֶשׁ כִּ֣י לֹא֩ לַקַּלִּ֨ים הַמֵּר֜וֹץ וְלֹ֧א לַגִּבּוֹרִ֣ים הַמִּלְחָמָ֗ה וְ֠גַם לֹ֣א לַחֲכָמִ֥ים לֶ֙חֶם֙ וְגַ֨ם לֹ֤א לַנְּבֹנִים֙ עֹ֔שֶׁר וְגַ֛ם לֹ֥א לַיֹּדְעִ֖ים חֵ֑ן כִּי־ עֵ֥ת וָפֶ֖גַע יִקְרֶ֥ה אֶת־ כֻּלָּֽם׃"
+pericope: "[[Eccl.9.7 Enjoy Your Portion in This Life|Enjoy Your Portion in This Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 9
+book/chapter: "[[Eccl.9|Ecclesiastes 9]]"
+chronological_order: 547
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RACE|RACE]]"
+strongs:
+- "[[H7725J]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H8478G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H7031]]"
+- "[[H4793]]"
+- "[[H1368]]"
+- "[[H4421]]"
+- "[[H1571]]"
+- "[[H2450]]"
+- "[[H3899H]]"
+- "[[H0995]]"
+- "[[H6239]]"
+- "[[H3045]]"
+- "[[H2580]]"
+- "[[H6256]]"
+- "[[H6294]]"
+- "[[H7136A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 9:11**<big><big>[[Eccl.9.7 Enjoy Your Portion in This Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I returned, and saw under the sun, that the race [is] not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
 <small><sub>**BSB:**</sub></small>
 I saw something else under the sun: The race is not to the swift, nor the battle to the strong; neither is the bread to the wise, nor the wealth to the intelligent, nor the favor to the skillful. For time and chance happen to all.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725J\|שַׁ֜בְתִּי]] [[H9002\|וְ]][[H7200G\|רָאֹ֣ה]] [[H8478G\|תַֽחַת]][[H9014\|־]] [[H9009\|הַ]][[H8121\|שֶּׁ֗מֶשׁ]] [[H3588A\|כִּ֣י]] [[H3808\|לֹא֩]] [[H9005\|לַ]][[H7031\|קַּלִּ֨ים]] [[H9009\|הַ]][[H4793\|מֵּר֜וֹץ]] [[H9002\|וְ]][[H3808\|לֹ֧א]] [[H9005\|לַ]][[H1368\|גִּבּוֹרִ֣ים]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֗ה]] [[H9002\|וְ֠]][[H1571\|גַם]] [[H3808\|לֹ֣א]] [[H9005\|לַ]][[H2450\|חֲכָמִ֥ים]] [[H3899H\|לֶ֙חֶם֙]] [[H9002\|וְ]][[H1571\|גַ֨ם]] [[H3808\|לֹ֤א]] [[H9005\|לַ]][[H0995\|נְּבֹנִים֙]] [[H6239\|עֹ֔שֶׁר]] [[H9002\|וְ]][[H1571\|גַ֛ם]] [[H3808\|לֹ֥א]] [[H9005\|לַ]][[H3045\|יֹּדְעִ֖ים]] [[H2580\|חֵ֑ן]] [[H3588A\|כִּי]][[H9014\|־]] [[H6256\|עֵ֥ת]] [[H9002\|וָ]][[H6294\|פֶ֖גַע]] [[H7136A\|יִקְרֶ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RACE|RACE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.9.10|<< Ecclesiastes 9:10]]</td><td align="center" style="border:none;">[[Eccl.9|Ecclesiastes 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.9.12|Ecclesiastes 9:12 >>]]</td></tr></table>
 

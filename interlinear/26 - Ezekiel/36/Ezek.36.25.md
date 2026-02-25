@@ -1,8 +1,67 @@
+---
+title: Ezekiel 36:25
+type: Verse
+kjv: "Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you."
+bsb: "I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols."
+hebrew: "וְזָרַקְתִּ֧י עֲלֵיכֶ֛ם מַ֥יִם טְהוֹרִ֖ים וּטְהַרְתֶּ֑ם מִכֹּ֧ל טֻמְאוֹתֵיכֶ֛ם וּמִכָּל־ גִּלּ֥וּלֵיכֶ֖ם אֲטַהֵ֥ר אֶתְכֶֽם׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CLEANLINESS|CLEANLINESS]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SPRINKLING|SPRINKLING]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2236]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H4325G]]"
+- "[[H2889]]"
+- "[[H2891]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H2932]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H1544]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:25**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will I sprinkle clean water upon you, and ye shall be clean: from all your filthiness, and from all your idols, will I cleanse you.
 <small><sub>**BSB:**</sub></small>
 I will also sprinkle clean water on you, and you will be clean. I will cleanse you from all your impurities and all your idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2236\|זָרַקְתִּ֧י]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֛ם]] [[H4325G\|מַ֥יִם]] [[H2889\|טְהוֹרִ֖ים]] [[H9001\|וּ]][[H2891\|טְהַרְתֶּ֑ם]] [[H9006\|מִ]][[H3605\|כֹּ֧ל]] [[H2932\|טֻמְאוֹתֵי]][[H9026\|כֶ֛ם]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H1544\|גִּלּ֥וּלֵי]][[H9026\|כֶ֖ם]] [[H2891\|אֲטַהֵ֥ר]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLEANLINESS|CLEANLINESS]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SPRINKLING|SPRINKLING]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.24|<< Ezekiel 36:24]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.26|Ezekiel 36:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

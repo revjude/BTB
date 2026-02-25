@@ -1,10 +1,53 @@
+---
+title: Romans 11:9
+type: Verse
+kjv: "And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:"
+bsb: "And David says: “May their table become a snare and a trap, a stumbling block and a retribution to them."
+greek: "καὶ Δαυὶδ λέγει· γενηθήτω ἡ τράπεζα αὐτῶν εἰς παγίδα καὶ εἰς θήραν καὶ εἰς σκάνδαλον καὶ εἰς ἀνταπόδομα αὐτοῖς·"
+pericope: "[[Rom.11.1 A Remnant Chosen by Grace|A Remnant Chosen by Grace]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic STUMBLING|STUMBLING]]"
+strongs:
+- "[[G2532]]"
+- "[[G1138]]"
+- "[[G3004G]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G5132]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3803]]"
+- "[[G2339]]"
+- "[[G4625]]"
+- "[[G0468]]"
+texts:
+- NKO
+---
+
 **Romans 11:9**<big><big>[[Rom.11.1 A Remnant Chosen by Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
 <small><sub>**BSB:**</sub></small>
 And David says: “May their table become a snare and a trap, a stumbling block and a retribution to them.
-<small><sub>**Literal:**</sub></small>
-And David says: should be the table of them for a snare and for a trap and for a stumbling block and for a retribution to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.8|<< Romans 11:8]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.10|Romans 11:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1138\|Δαυὶδ]]  [[G3004G\|λέγει·]]  [[G1096\|γενηθήτω]]  [[G3588\|ἡ]]  [[G5132\|τράπεζα]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G3803\|παγίδα]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G2339\|θήραν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G4625\|σκάνδαλον]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G0468\|ἀνταπόδομα]]  [[G0846\|αὐτοῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]] • [[topic STUMBLING|STUMBLING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.8|<< Romans 11:8]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.10|Romans 11:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 11:9** is...
 > $\quad$ referencing: [[LXX.Ps.69.22|Ps 69:22-23]]

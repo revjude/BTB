@@ -1,8 +1,71 @@
+---
+title: Micah 4:13
+type: Verse
+kjv: "Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth."
+bsb: "Rise and thresh, O Daughter of Zion, for I will give you horns of iron and hooves of bronze to break to pieces many peoples. Then you will devote their gain to the LORD, their wealth to the Lord of all the earth."
+hebrew: "ק֧וּמִי וָד֣וֹשִׁי בַת־ צִיּ֗וֹן כִּֽי־ קַרְנֵ֞ךְ אָשִׂ֤ים בַּרְזֶל֙ וּפַרְסֹתַ֙יִךְ֙ אָשִׂ֣ים נְחוּשָׁ֔ה וַהֲדִקּ֖וֹת עַמִּ֣ים רַבִּ֑ים וְהַחֲרַמְתִּ֤י לַֽיהוָה֙ בִּצְעָ֔ם וְחֵילָ֖ם לַאֲד֥וֹן כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Mic.4.6 The Restoration of Zion|The Restoration of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 4
+book/chapter: "[[Mic.4|Micah 4]]"
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HORN|HORN]]"
+- "[[topic IRON|IRON]]"
+strongs:
+- "[[H6965B]]"
+- "[[H9002]]"
+- "[[H1758]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H6726]]"
+- "[[H3588A]]"
+- "[[H7161A]]"
+- "[[H9022]]"
+- "[[H7760A]]"
+- "[[H1270]]"
+- "[[H6541]]"
+- "[[H5154]]"
+- "[[H9001]]"
+- "[[H1854]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H2763A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H1215]]"
+- "[[H9028]]"
+- "[[H2428H]]"
+- "[[H0113]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 4:13**<big><big>[[Mic.4.6 The Restoration of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise and thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.
 <small><sub>**BSB:**</sub></small>
 Rise and thresh, O Daughter of Zion, for I will give you horns of iron and hooves of bronze to break to pieces many peoples. Then you will devote their gain to the LORD, their wealth to the Lord of all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֧וּמִי]] [[H9002\|וָ]][[H1758\|ד֣וֹשִׁי]] [[H1323G\|בַת]][[H9014\|־]] [[H6726\|צִיּ֗וֹן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7161A\|קַרְנֵ֞]][[H9022\|ךְ]] [[H7760A\|אָשִׂ֤ים]] [[H1270\|בַּרְזֶל֙]] [[H9002\|וּ]][[H6541\|פַרְסֹתַ֙יִ]][[H9022\|ךְ֙]] [[H7760A\|אָשִׂ֣ים]] [[H5154\|נְחוּשָׁ֔ה]] [[H9001\|וַ]][[H1854\|הֲדִקּ֖וֹת]] [[H5971A\|עַמִּ֣ים]] [[H7227A\|רַבִּ֑ים]] [[H9001\|וְ]][[H2763A\|הַחֲרַמְתִּ֤י]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H1215\|בִּצְעָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H2428H\|חֵילָ֖]][[H9028\|ם]] [[H9005\|לַ]][[H0113\|אֲד֥וֹן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HORN|HORN]] • [[topic IRON|IRON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.12|<< Micah 4:12]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.5.1|Micah 5:1 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Mark 15:23
+type: Verse
+kjv: "And they gave him to drink wine mingled with myrrh: but he received it not."
+bsb: "There they offered Him wine mixed with myrrh, but He did not take it."
+greek: "καὶ ἐδίδουν αὐτῷ πιεῖν ἐσμυρνισμένον οἶνον· ὃς δὲ οὐκ ἔλαβεν.¶"
+pericope: "[[Mark.15.21 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MYRRH|MYRRH]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic VINEGAR|VINEGAR]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4095]]"
+- "[[G4669]]"
+- "[[G3631]]"
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G2983]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Mark 15:23**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they gave him to drink wine mingled with myrrh: but he received [it] not.
 <small><sub>**BSB:**</sub></small>
 There they offered Him wine mixed with myrrh, but He did not take it.
-<small><sub>**Literal:**</sub></small>
-And they were offering Him to drink mixed with myrrh wine; He however not did take [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.22|<< Mark 15:22]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.24|Mark 15:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|ἐδίδουν]]  [[G0846\|αὐτῷ]]  [[G4095\|πιεῖν]]  [[G4669\|ἐσμυρνισμένον]]  [[G3631\|οἶνον·]]  [[G3739\|ὃς]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G2983\|ἔλαβεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MYRRH|MYRRH]] • [[topic SOLDIERS|SOLDIERS]] • [[topic VINEGAR|VINEGAR]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.22|<< Mark 15:22]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.24|Mark 15:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

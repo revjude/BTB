@@ -1,8 +1,79 @@
+---
+title: Leviticus 11:32
+type: Verse
+kjv: "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed."
+bsb: "When one of them dies and falls on something, that article becomes unclean; any article of wood, clothing, leather, sackcloth, or any implement used for work must be rinsed with water and will remain unclean until evening; then it will be clean."
+hebrew: "וְכֹ֣ל אֲשֶׁר־ יִפֹּל־ עָלָיו֩ מֵהֶ֨ם׀ בְּמֹתָ֜ם יִטְמָ֗א מִכָּל־ כְּלִי־ עֵץ֙ א֣וֹ בֶ֤גֶד אוֹ־ עוֹר֙ א֣וֹ שָׂ֔ק כָּל־ כְּלִ֕י אֲשֶׁר־ יֵעָשֶׂ֥ה מְלָאכָ֖ה בָּהֶ֑ם בַּמַּ֧יִם יוּבָ֛א וְטָמֵ֥א עַד־ הָעֶ֖רֶב וְטָהֵֽר׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H4194]]"
+- "[[H9028]]"
+- "[[H2930A]]"
+- "[[H3627]]"
+- "[[H6086G]]"
+- "[[H0176A]]"
+- "[[H0899B]]"
+- "[[H5785]]"
+- "[[H8242]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H4325G]]"
+- "[[H0935P]]"
+- "[[H9001]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H6153]]"
+- "[[H2891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:32**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And upon whatsoever [any] of them, when they are dead, doth fall, it shall be unclean; whether [it be] any vessel of wood, or raiment, or skin, or sack, whatsoever vessel [it be], wherein [any] work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.
 <small><sub>**BSB:**</sub></small>
 When one of them dies and falls on something, that article becomes unclean; any article of wood, clothing, leather, sackcloth, or any implement used for work must be rinsed with water and will remain unclean until evening; then it will be clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5307G\|יִפֹּל]][[H9014\|־]] [[H5921A\|עָלָי]][[H9033\|ו֩]] [[H9006\|מֵ]][[H9038\|הֶ֨ם]][[H9015\|׀]] [[H9003\|בְּ]][[H4194\|מֹתָ֜]][[H9028\|ם]] [[H2930A\|יִטְמָ֗א]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלִי]][[H9014\|־]] [[H6086G\|עֵץ֙]] [[H0176A\|א֣וֹ]] [[H0899B\|בֶ֤גֶד]] [[H0176A\|אוֹ]][[H9014\|־]] [[H5785\|עוֹר֙]] [[H0176A\|א֣וֹ]] [[H8242\|שָׂ֔ק]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלִ֕י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|יֵעָשֶׂ֥ה]] [[H4399\|מְלָאכָ֖ה]] [[H9003\|בָּ]][[H9038\|הֶ֑ם]] [[H9003\|בַּ]][[H4325G\|מַּ֧יִם]] [[H0935P\|יוּבָ֛א]] [[H9001\|וְ]][[H2930A\|טָמֵ֥א]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עֶ֖רֶב]] [[H9001\|וְ]][[H2891\|טָהֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREEPING THINGS|CREEPING THINGS]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic DRESS|DRESS]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.31|<< Leviticus 11:31]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.33|Leviticus 11:33 >>]]</td></tr></table>
 

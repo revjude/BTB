@@ -1,8 +1,63 @@
+---
+title: Genesis 47:3
+type: Verse
+kjv: "And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and also our fathers."
+bsb: "“What is your occupation?” Pharaoh asked Joseph’s brothers. “Your servants are shepherds,” they replied, “both we and our fathers.”"
+hebrew: "וַיֹּ֧אמֶר פַּרְעֹ֛ה אֶל־ אֶחָ֖יו מַה־ מַּעֲשֵׂיכֶ֑ם וַיֹּאמְר֣וּ אֶל־ פַּרְעֹ֗ה רֹעֵ֥ה צֹאן֙ עֲבָדֶ֔יךָ גַּם־ אֲנַ֖חְנוּ גַּם־ אֲבוֹתֵֽינוּ׃"
+pericope: "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6547H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H4100]]"
+- "[[H4639G]]"
+- "[[H9026]]"
+- "[[H7462B]]"
+- "[[H6629G]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H1571]]"
+- "[[H0587]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:3**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh said unto his brethren, What [is] your occupation? And they said unto Pharaoh, Thy servants [are] shepherds, both we, [and] also our fathers.
 <small><sub>**BSB:**</sub></small>
 “What is your occupation?” Pharaoh asked Joseph’s brothers. “Your servants are shepherds,” they replied, “both we and our fathers.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H6547H\|פַּרְעֹ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אֶחָ֖י]][[H9023\|ו]] [[H4100\|מַה]][[H9014\|־]] [[H4639G\|מַּעֲשֵׂי]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6547H\|פַּרְעֹ֗ה]] [[H7462B\|רֹעֵ֥ה]] [[H6629G\|צֹאן֙]] [[H5650\|עֲבָדֶ֔י]][[H9021\|ךָ]] [[H1571\|גַּם]][[H9014\|־]] [[H0587\|אֲנַ֖חְנוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H0001G\|אֲבוֹתֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.2|<< Genesis 47:2]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.4|Genesis 47:4 >>]]</td></tr></table>
 

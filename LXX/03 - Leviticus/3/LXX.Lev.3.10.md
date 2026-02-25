@@ -1,6 +1,66 @@
+---
+title: LXX Leviticus 3:10
+type: Verse
+lxx: "and both the kidneys, and the fat  upon them, and the fat upon the thighs, and the lobe  upon the liver, with the kidneys being removed."
+greek: "και αμφοτέρους τους νεφρούς και το στέαρ το επ΄ αυτών το επί των μηρίων και τον λοβόν τον επί του ήπατος συν τοις νεφροίς περιελών"
+original_language: Greek
+testament: Old
+book: Leviticus
+chapter: 3
+book/chapter: "[[Lev.3|Leviticus 3]]"
+chronological_order: 135
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CAUL|CAUL]]"
+- "[[topic FAT|FAT]]"
+strongs:
+- "[[G2532]]"
+- "[[G0297]]"
+- "[[G3588]]"
+- "[[G3510]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G9155]]"
+- "[[G3588]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G8321]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8207]]"
+- "[[G3588]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G7634]]"
+- "[[G4862]]"
+- "[[G3588]]"
+- "[[G3510]]"
+- "[[G4014]]"
+---
+
 **LXX Leviticus 3:10** 
 <small><sub>**LXX:**</sub></small>
 and both the kidneys, and the fat  upon them, \[and\] the \[fat\] upon the thighs, and the lobe  upon the liver, with the kidneys being removed. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0297\|αμφοτέρους]] [[G3588\|τους]] [[G3510\|νεφρούς]] [[G2532\|και]] [[G3588\|το]] [[G9155\|στέαρ]] [[G3588\|το]] [[G1909\|επ΄]] [[G1473\|αυτών]] [[G3588\|το]] [[G1909\|επί]] [[G3588\|των]] [[G8321\|μηρίων]] [[G2532\|και]] [[G3588\|τον]] [[G8207\|λοβόν]] [[G3588\|τον]] [[G1909\|επί]] [[G3588\|του]] [[G7634\|ήπατος]] [[G4862\|συν]] [[G3588\|τοις]] [[G3510\|νεφροίς]] [[G4014\|περιελών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAUL|CAUL]] • [[topic FAT|FAT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Lev.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.9|<< Leviticus 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.11|Leviticus 3:11 >>]]</td></tr></table>
 
@@ -31,6 +91,6 @@ and both the kidneys, and the fat  upon them, \[and\] the \[fat\] upon the thigh
 | the | **<big>[[G3588\|τοις]]</big>** |
 | kidneys | **<big>[[G3510\|νεφροίς]]</big>** |
 | being removed. | **<big>[[G4014\|περιελών]]</big>** |
-[[Lev.3.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.9|<< Leviticus 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.11|Leviticus 3:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Lev.3.9|<< Leviticus 3:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Lev.3.11|Leviticus 3:11 >>]]</td></tr></table>
 
 

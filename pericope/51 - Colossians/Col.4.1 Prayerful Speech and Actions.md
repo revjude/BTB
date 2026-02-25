@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Prayerful Speech and Actions
+type: Pericope
 pericope: "[[Col.4.1 Prayerful Speech and Actions|Prayerful Speech and Actions]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 4
 book/chapter: "[[Col.4|Colossians 4]]"
-genre:
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 6
 verses:
 - "[[Col.4.1]]"
 - "[[Col.4.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Col.4.6]]"
 ---
 
-[[Col.4|Colossians 4:1 - Colossians 4:6]]
+<small>[[Col.4|Colossians 4:1-6]]</small>
 *Prayerful Speech and Actions*
 
 [[Col.4.1|1]] Masters, give unto \[your\] servants that which is just and equal; knowing that ye also have a Master in heaven.

@@ -1,8 +1,56 @@
+---
+title: Judges 20:8
+type: Verse
+kjv: "And all the people arose as one man, saying, We will not any of us go to his tent, neither will we any of us turn into his house."
+bsb: "Then all the people stood as one man and said, “Not one of us will return to his tent or to his house."
+hebrew: "וַיָּ֙קָם֙ כָּל־ הָעָ֔ם כְּאִ֥ישׁ אֶחָ֖ד לֵאמֹ֑ר לֹ֤א נֵלֵךְ֙ אִ֣ישׁ לְאָהֳל֔וֹ וְלֹ֥א נָס֖וּר אִ֥ישׁ לְבֵיתֽוֹ׃"
+pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H1980G]]"
+- "[[H0376I]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5493H]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:8**<big><big>[[Judg.20.1 The Decree of the Assembly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people arose as one man, saying, We will not any [of us] go to his tent, neither will we any [of us] turn into his house.
 <small><sub>**BSB:**</sub></small>
 Then all the people stood as one man and said, “Not one of us will return to his tent or to his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֙קָם֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9004\|כְּ]][[H0376G\|אִ֥ישׁ]] [[H0259\|אֶחָ֖ד]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3808\|לֹ֤א]] [[H1980G\|נֵלֵךְ֙]] [[H0376I\|אִ֣ישׁ]] [[H9005\|לְ]][[H0168G\|אָהֳל֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5493H\|נָס֖וּר]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H1004B\|בֵיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.7|<< Judges 20:7]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.9|Judges 20:9 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Genesis 33:16
+type: Verse
+kjv: "So Esau returned that day on his way unto Seir."
+bsb: "So that day Esau started on his way back to Seir,"
+hebrew: "וַיָּשָׁב֩ בַּיּ֨וֹם הַה֥וּא עֵשָׂ֛ו לְדַרְכּ֖וֹ שֵׂעִֽירָה׃"
+pericope: "[[Gen.33.1 Jacob Meets Esau|Jacob Meets Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 33
+book/chapter: "[[Gen.33|Genesis 33]]"
+chronological_order: 75
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEIR|SEIR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H6215G]]"
+- "[[H9005]]"
+- "[[H1870K]]"
+- "[[H9023]]"
+- "[[H8165A]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 33:16**<big><big>[[Gen.33.1 Jacob Meets Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Esau returned that day on his way unto Seir.
 <small><sub>**BSB:**</sub></small>
 So that day Esau started on his way back to Seir,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּשָׁב֩]] [[H9003\|בַּ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֥וּא]] [[H6215G\|עֵשָׂ֛ו]] [[H9005\|לְ]][[H1870K\|דַרְכּ֖]][[H9023\|וֹ]] [[H8165A\|שֵׂעִֽירָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic SEIR|SEIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.33.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.33.15|<< Genesis 33:15]]</td><td align="center" style="border:none;">[[Gen.33|Genesis 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.33.17|Genesis 33:17 >>]]</td></tr></table>
 

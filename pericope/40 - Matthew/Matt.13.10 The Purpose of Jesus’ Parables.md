@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Purpose of Jesus’ Parables
+type: Pericope
 pericope: "[[Matt.13.10 The Purpose of Jesus’ Parables|The Purpose of Jesus’ Parables]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 13
 book/chapter: "[[Matt.13|Matthew 13]]"
-genre:
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Matt.13.10]]"
 - "[[Matt.13.11]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Matt.13.17]]"
 ---
 
-[[Matt.13|Matthew 13:10 - Matthew 13:17]]
+<small>[[Matt.13|Matthew 13:10-17]]</small>
 *The Purpose of Jesus’ Parables*
 
 [[Matt.13.10|10]] And the disciples came, and said unto him, Why speakest thou unto them in parables?

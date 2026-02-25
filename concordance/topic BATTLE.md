@@ -9,7 +9,7 @@
 
 - By Asa [[2Chr.14.11|2Ch 14:11]]
 
-- By Jehoshaphat [[2Chr.20.3|2Ch 20:3]]-[[2Chr.20.12|12]]
+- By Jehoshaphat [[2Chr.20.3|2Ch 20:3-12]]
 
 → See [[topic ARMIES|ARMIES]]
 

@@ -1,8 +1,68 @@
+---
+title: Genesis 25:33
+type: Verse
+kjv: "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob."
+bsb: "“Swear to me first,” Jacob said. So Esau swore to Jacob and sold him the birthright."
+hebrew: "וַיֹּ֣אמֶר יַעֲקֹ֗ב הִשָּׁ֤בְעָה לִּי֙ כַּיּ֔וֹם וַיִּשָּׁבַ֖ע ל֑וֹ וַיִּמְכֹּ֥ר אֶת־ בְּכֹרָת֖וֹ לְיַעֲקֹֽב׃"
+pericope: "[[Gen.25.29 Esau Sells His Birthright|Esau Sells His Birthright]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H7650]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H9033]]"
+- "[[H4376]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1062]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:33**<big><big>[[Gen.25.29 Esau Sells His Birthright|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob.
 <small><sub>**BSB:**</sub></small>
 “Swear to me first,” Jacob said. So Esau swore to Jacob and sold him the birthright.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3290\|יַעֲקֹ֗ב]] [[H7650\|הִשָּׁ֤בְעָ]][[H9012\|ה]] [[H9005\|לִּ]][[H9030\|י֙]] [[H9004\|כַּ]][[H3117L\|יּ֔וֹם]] [[H9001\|וַ]][[H7650\|יִּשָּׁבַ֖ע]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H4376\|יִּמְכֹּ֥ר]] [[H0853\|אֶת]][[H9014\|־]] [[H1062\|בְּכֹרָת֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic ESAU|ESAU]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic GLUTTONY|GLUTTONY]] • [[topic JACOB|JACOB]] • [[topic OATH|OATH]] • [[topic SACRILEGE|SACRILEGE]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.32|<< Genesis 25:32]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.34|Genesis 25:34 >>]]</td></tr></table>
 

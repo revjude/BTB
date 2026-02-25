@@ -1,8 +1,63 @@
+---
+title: Numbers 15:29
+type: Verse
+kjv: "Ye shall have one law for him that sinneth through ignorance, both for him that is born among the children of Israel, and for the stranger that sojourneth among them."
+bsb: "You shall have the same law for the one who acts in error, whether he is a native-born Israelite or a foreigner residing among you."
+hebrew: "הָֽאֶזְרָח֙ בִּבְנֵ֣י יִשְׂרָאֵ֔ל וְלַגֵּ֖ר הַגָּ֣ר בְּתוֹכָ֑ם תּוֹרָ֤ה אַחַת֙ יִהְיֶ֣ה לָכֶ֔ם לָעֹשֶׂ֖ה בִּשְׁגָגָֽה׃"
+pericope: "[[Num.15.22 Offerings for Unintentional Sins|Offerings for Unintentional Sins]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 15
+book/chapter: "[[Num.15|Numbers 15]]"
+chronological_order: 175
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LEGISLATION|LEGISLATION]]"
+strongs:
+- "[[H9009]]"
+- "[[H0249]]"
+- "[[H9003]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1616]]"
+- "[[H1481A]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H8451]]"
+- "[[H0259]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H6213A]]"
+- "[[H7684]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 15:29**<big><big>[[Num.15.22 Offerings for Unintentional Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall have one law for him that sinneth through ignorance, [both for] him that is born among the children of Israel, and for the stranger that sojourneth among them.
 <small><sub>**BSB:**</sub></small>
 You shall have the same law for the one who acts in error, whether he is a native-born Israelite or a foreigner residing among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָֽ]][[H0249\|אֶזְרָח֙]] [[H9003\|בִּ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H9005\|לַ]][[H1616\|גֵּ֖ר]] [[H9009\|הַ]][[H1481A\|גָּ֣ר]] [[H9003\|בְּ]][[H8432\|תוֹכָ֑]][[H9028\|ם]] [[H8451\|תּוֹרָ֤ה]] [[H0259\|אַחַת֙]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9005\|לָ]][[H6213A\|עֹשֶׂ֖ה]] [[H9003\|בִּ]][[H7684\|שְׁגָגָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic LEGISLATION|LEGISLATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.15.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.15.28|<< Numbers 15:28]]</td><td align="center" style="border:none;">[[Num.15|Numbers 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.15.30|Numbers 15:30 >>]]</td></tr></table>
 

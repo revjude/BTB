@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Pillars and Capitals
+type: Pericope
 pericope: "[[1Kgs.7.13 The Pillars and Capitals|The Pillars and Capitals]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 7
 book/chapter: "[[1Kgs.7|1 Kings 7]]"
-genre:
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 10
 verses:
 - "[[1Kgs.7.13]]"
 - "[[1Kgs.7.14]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Kgs.7.22]]"
 ---
 
-[[1Kgs.7|1 Kings 7:13 - 1 Kings 7:22]]
+<small>[[1Kgs.7|1 Kings 7:13-22]]</small>
 *The Pillars and Capitals*
 
 [[1Kgs.7.13|13]] And king Solomon sent and fetched Hiram out of Tyre.

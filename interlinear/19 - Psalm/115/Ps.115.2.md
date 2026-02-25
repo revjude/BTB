@@ -1,8 +1,55 @@
+---
+title: Psalm 115:2
+type: Verse
+kjv: "Wherefore should the heathen say, Where is now their God?"
+bsb: "Why should the nations say, “Where is their God?”"
+hebrew: "לָ֭מָּה יֹאמְר֣וּ הַגּוֹיִ֑ם אַיֵּה־ נָ֝֗א אֱלֹהֵיהֶֽם׃"
+pericope: "[[Ps.115.1 To Your Name Be the Glory|To Your Name Be the Glory]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 115
+book/chapter: "[[Ps.115|Psalm 115]]"
+chronological_order: 877
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0346]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 115:2**<big><big>[[Ps.115.1 To Your Name Be the Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore should the heathen say, Where [is] now their God?
 <small><sub>**BSB:**</sub></small>
 Why should the nations say, “Where is their God?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֭]][[H4100\|מָּה]] [[H0559\|יֹאמְר֣וּ]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H0346\|אַיֵּה]][[H9014\|־]] [[H4994\|נָ֝֗א]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.115.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.115.1|<< Psalms 115:1]]</td><td align="center" style="border:none;">[[Ps.115|Psalms 115]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.115.3|Psalms 115:3 >>]]</td></tr></table>
 

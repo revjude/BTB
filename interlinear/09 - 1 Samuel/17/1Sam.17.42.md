@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 17:42
+type: Verse
+kjv: "And when the Philistine looked about, and saw David, he disdained him: for he was but a youth, and ruddy, and of a fair countenance."
+bsb: "When the Philistine looked and saw David, he despised him because he was just a boy, ruddy and handsome."
+hebrew: "וַיַּבֵּ֧ט הַפְּלִשְׁתִּ֛י וַיִּרְאֶ֥ה אֶת־ דָּוִ֖ד וַיִּבְזֵ֑הוּ כִּֽי־ הָיָ֣ה נַ֔עַר וְאַדְמֹנִ֖י עִם־ יְפֵ֥ה מַרְאֶֽה׃"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic SLING|SLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5027]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H0959]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H5288]]"
+- "[[H9002]]"
+- "[[H0132]]"
+- "[[H5973A]]"
+- "[[H3303]]"
+- "[[H4758]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:42**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the Philistine looked about, and saw David, he disdained him: for he was [but] a youth, and ruddy, and of a fair countenance.
 <small><sub>**BSB:**</sub></small>
 When the Philistine looked and saw David, he despised him because he was just a boy, ruddy and handsome.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5027\|יַּבֵּ֧ט]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֛י]] [[H9001\|וַ]][[H7200G\|יִּרְאֶ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H9001\|וַ]][[H0959\|יִּבְזֵ֑]][[H9033\|הוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|הָיָ֣ה]] [[H5288\|נַ֔עַר]] [[H9002\|וְ]][[H0132\|אַדְמֹנִ֖י]] [[H5973A\|עִם]][[H9014\|־]] [[H3303\|יְפֵ֥ה]] [[H4758\|מַרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic SLING|SLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.41|<< 1 Samuel 17:41]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.43|1 Samuel 17:43 >>]]</td></tr></table>
 

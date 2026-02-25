@@ -1,10 +1,62 @@
+---
+title: Galatians 4:6
+type: Verse
+kjv: "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father."
+bsb: "And because you are sons, God sent the Spirit of His Son into our hearts, crying out, “Abba, Father!”"
+greek: "ὅτι δέ ἐστε υἱοί, ἐξαπέστειλεν ὁ θεὸς τὸ πνεῦμα τοῦ υἱοῦ αὐτοῦ εἰς τὰς καρδίας ἡμῶν κρᾶζον· αββα ὁ πατήρ."
+pericope: "[[Gal.4.1 Sons and Heirs|Sons and Heirs]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 4
+book/chapter: "[[Gal.4|Galatians 4]]"
+chronological_order: 1042
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ABBA|ABBA]]"
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G1821]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4151G]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2588]]"
+- "[[G3165]]"
+- "[[G2896]]"
+- "[[G0005]]"
+- "[[G3962]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Galatians 4:6**<big><big>[[Gal.4.1 Sons and Heirs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
 <small><sub>**BSB:**</sub></small>
 And because you are sons, God sent the Spirit of His Son into our hearts, crying out, “Abba, Father!”
-<small><sub>**Literal:**</sub></small>
-Because now you are sons, sent forth <the> God the Spirit of the Son of Him into the hearts of us crying out; Abba O Father!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.5|<< Galatians 4:5]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.7|Galatians 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1161\|δέ]]  [[G1510\|ἐστε]]  [[G5207\|υἱοί,]]  [[G1821\|ἐξαπέστειλεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G3165\|ἡμῶν]]  [[G2896\|κρᾶζον·]]  [[G0005\|αββα]]  [[G3588\|ὁ]]  [[G3962\|πατήρ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABBA|ABBA]] • [[topic ADOPTION|ADOPTION]] • [[topic COMMUNION|COMMUNION]] • [[topic GOD|GOD]] • [[topic HEIR|HEIR]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.4.5|<< Galatians 4:5]]</td><td align="center" style="border:none;">[[Gal.4|Galatians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.4.7|Galatians 4:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

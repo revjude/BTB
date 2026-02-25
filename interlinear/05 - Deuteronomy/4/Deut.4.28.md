@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 4:28
+type: Verse
+kjv: "And there ye shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell."
+bsb: "And there you will serve man-made gods of wood and stone, which cannot see or hear or eat or smell."
+hebrew: "וַעֲבַדְתֶּם־ שָׁ֣ם אֱלֹהִ֔ים מַעֲשֵׂ֖ה יְדֵ֣י אָדָ֑ם עֵ֣ץ וָאֶ֔בֶן אֲשֶׁ֤ר לֹֽא־ יִרְאוּן֙ וְלֹ֣א יִשְׁמְע֔וּן וְלֹ֥א יֹֽאכְל֖וּן וְלֹ֥א יְרִיחֻֽן׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5647H]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H0430]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H0120G]]"
+- "[[H6086G]]"
+- "[[H9002]]"
+- "[[H0068G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9013]]"
+- "[[H8085G]]"
+- "[[H0398]]"
+- "[[H7306]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:28**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there ye shall serve gods, the work of men’s hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
 <small><sub>**BSB:**</sub></small>
 And there you will serve man-made gods of wood and stone, which cannot see or hear or eat or smell.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5647H\|עֲבַדְתֶּם]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H0430\|אֱלֹהִ֔ים]] [[H4639G\|מַעֲשֵׂ֖ה]] [[H3027G\|יְדֵ֣י]] [[H0120G\|אָדָ֑ם]] [[H6086G\|עֵ֣ץ]] [[H9002\|וָ]][[H0068G\|אֶ֔בֶן]] [[H0834A\|אֲשֶׁ֤ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|יִרְאוּ]][[H9013\|ן֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H8085G\|יִשְׁמְע֔וּ]][[H9013\|ן]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0398\|יֹֽאכְל֖וּ]][[H9013\|ן]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7306\|יְרִיחֻֽ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.27|<< Deuteronomy 4:27]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.29|Deuteronomy 4:29 >>]]</td></tr></table>
 

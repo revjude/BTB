@@ -1,10 +1,55 @@
+---
+title: John 12:28
+type: Verse
+kjv: "Father, glorify thy name. Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again."
+bsb: "Father, glorify Your name!” Then a voice came from heaven: “I have glorified it, and I will glorify it again.”"
+jesus_said: "Father, glorify thy name."
+greek: "πάτερ, δόξασόν σου τὸ ὄνομα. ἦλθεν οὖν φωνὴ ἐκ τοῦ οὐρανοῦ· καὶ ἐδόξασα καὶ πάλιν δοξάσω."
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VOICE|VOICE]]"
+strongs:
+- "[[G3962]]"
+- "[[G1392]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2064]]"
+- "[[G3767]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G3825]]"
+texts:
+- NKO
+---
+
 **John 12:28**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Father, glorify thy name. Then came there a voice from heaven, [saying], I have both glorified [it], and will glorify [it] again.
 <small><sub>**BSB:**</sub></small>
 Father, glorify Your name!” Then a voice came from heaven: “I have glorified it, and I will glorify it again.”
-<small><sub>**Literal:**</sub></small>
-Father, do glorify of You the name. Came therefore a voice from <the> heaven: Both I have glorified [it] and again I will glorify [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.27|<< John 12:27]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.29|John 12:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3962\|πάτερ,]]  [[G1392\|δόξασόν]]  [[G4771\|σου]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα.]]  [[G2064\|ἦλθεν]]  [[G3767\|οὖν]]  [[G5456G\|φωνὴ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ·]]  [[G2532\|καὶ]]  [[G1392\|ἐδόξασα]]  [[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G1392\|δοξάσω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VOICE|VOICE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.27|<< John 12:27]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.29|John 12:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,53 @@
+---
+title: Hebrews 10:32
+type: Verse
+kjv: "But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;"
+bsb: "Remember the early days that you were in the light. In those days, you endured a great conflict in the face of suffering."
+greek: "Ἀναμιμνῄσκεσθε δὲ τὰς πρότερον ἡμέρας, ἐν αἷς φωτισθέντες πολλὴν ἄθλησιν ὑπεμείνατε παθημάτων,"
+pericope: "[[Heb.10.19 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FIGHT OF FAITH|FIGHT OF FAITH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G0363]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4386]]"
+- "[[G2250]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G5461]]"
+- "[[G4183]]"
+- "[[G0119]]"
+- "[[G5278]]"
+- "[[G3804]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:32**<big><big>[[Heb.10.19 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;
 <small><sub>**BSB:**</sub></small>
 Remember the early days that you were in the light. In those days, you endured a great conflict in the face of suffering.
-<small><sub>**Literal:**</sub></small>
-do remember however the former days in which having been enlightened a great conflict you endured of sufferings,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.31|<< Hebrews 10:31]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.33|Hebrews 10:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0363\|Ἀναμιμνῄσκεσθε]]  [[G1161\|δὲ]]  [[G3588\|τὰς]]  [[G4386\|πρότερον]]  [[G2250\|ἡμέρας,]]  [[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G5461\|φωτισθέντες]]  [[G4183\|πολλὴν]]  [[G0119\|ἄθλησιν]]  [[G5278\|ὑπεμείνατε]]  [[G3804\|παθημάτων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIGHT OF FAITH|FIGHT OF FAITH]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.31|<< Hebrews 10:31]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.33|Hebrews 10:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

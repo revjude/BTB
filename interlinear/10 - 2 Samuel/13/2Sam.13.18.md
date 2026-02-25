@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 13:18
+type: Verse
+kjv: "And she had a garment of divers colours upon her: for with such robes were the king’s daughters that were virgins apparelled. Then his servant brought her out, and bolted the door after her."
+bsb: "So Amnon’s attendant threw her out and bolted the door behind her. Now Tamar was wearing a robe of many colors, because this is what the king’s virgin daughters wore."
+hebrew: "וְעָלֶ֙יהָ֙ כְּתֹ֣נֶת פַּסִּ֔ים כִּי֩ כֵ֨ן תִּלְבַּ֧שְׁןָ בְנוֹת־ הַמֶּ֛לֶךְ הַבְּתוּלֹ֖ת מְעִילִ֑ים וַיֹּצֵ֨א אוֹתָ֤הּ מְשָֽׁרְתוֹ֙ הַח֔וּץ וְנָעַ֥ל הַדֶּ֖לֶת אַחֲרֶֽיהָ׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic VIRGIN|VIRGIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3801]]"
+- "[[H6446]]"
+- "[[H3588A]]"
+- "[[H3651C]]"
+- "[[H3847]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1330]]"
+- "[[H4598]]"
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H8334]]"
+- "[[H9033]]"
+- "[[H2351]]"
+- "[[H5274A]]"
+- "[[H1817C]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:18**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [she had] a garment of divers colours upon her: for with such robes were the king’s daughters [that were] virgins apparelled. Then his servant brought her out, and bolted the door after her.
 <small><sub>**BSB:**</sub></small>
 So Amnon’s attendant threw her out and bolted the door behind her. Now Tamar was wearing a robe of many colors, because this is what the king’s virgin daughters wore.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H3801\|כְּתֹ֣נֶת]] [[H6446\|פַּסִּ֔ים]] [[H3588A\|כִּי֩]] [[H3651C\|כֵ֨ן]] [[H3847\|תִּלְבַּ֧שְׁןָ]] [[H1323G\|בְנוֹת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9009\|הַ]][[H1330\|בְּתוּלֹ֖ת]] [[H4598\|מְעִילִ֑ים]] [[H9001\|וַ]][[H3318H\|יֹּצֵ֨א]] [[H0853\|אוֹתָ֤]][[H9034\|הּ]] [[H8334\|מְשָֽׁרְת]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H2351\|ח֔וּץ]] [[H9001\|וְ]][[H5274A\|נָעַ֥ל]] [[H9009\|הַ]][[H1817C\|דֶּ֖לֶת]] [[H0310A\|אַחֲרֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DRESS|DRESS]] • [[topic RAPE|RAPE]] • [[topic TAMAR|TAMAR]] • [[topic VIRGIN|VIRGIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.17|<< 2 Samuel 13:17]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.19|2 Samuel 13:19 >>]]</td></tr></table>
 

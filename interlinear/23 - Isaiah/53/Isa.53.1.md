@@ -1,8 +1,61 @@
+---
+title: Isaiah 53:1
+type: Verse
+kjv: "Who hath believed our report? and to whom is the arm of the LORD revealed?"
+bsb: "Who has believed our message? And to whom has the arm of the LORD been revealed?"
+hebrew: "מִ֥י הֶאֱמִ֖ין לִשְׁמֻעָתֵ֑נוּ וּזְר֥וֹעַ יְהוָ֖ה עַל־ מִ֥י נִגְלָֽתָה׃"
+pericope: "[[Isa.53.1 The Suffering Servant|The Suffering Servant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 53
+book/chapter: "[[Isa.53|Isaiah 53]]"
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H4310]]"
+- "[[H0539]]"
+- "[[H9005]]"
+- "[[H8052]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H2220]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1540H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 53:1**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who hath believed our report? and to whom is the arm of the LORD revealed?
 <small><sub>**BSB:**</sub></small>
 Who has believed our message? And to whom has the arm of the LORD been revealed?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֥י]] [[H0539\|הֶאֱמִ֖ין]] [[H9005\|לִ]][[H8052\|שְׁמֻעָתֵ֑]][[H9025\|נוּ]] [[H9002\|וּ]][[H2220\|זְר֥וֹעַ]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H4310\|מִ֥י]] [[H1540H\|נִגְלָֽתָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic BLINDNESS|BLINDNESS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.15|<< Isaiah 52:15]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.2|Isaiah 53:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

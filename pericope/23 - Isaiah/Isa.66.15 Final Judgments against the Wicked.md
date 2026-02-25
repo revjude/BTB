@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Final Judgments against the Wicked
+type: Pericope
 pericope: "[[Isa.66.15 Final Judgments against the Wicked|Final Judgments against the Wicked]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 66
 book/chapter: "[[Isa.66|Isaiah 66]]"
-genre:
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 10
 verses:
 - "[[Isa.66.15]]"
 - "[[Isa.66.16]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Isa.66.24]]"
 ---
 
-[[Isa.66|Isaiah 66:15 - Isaiah 66:24]]
+<small>[[Isa.66|Isaiah 66:15-24]]</small>
 *Final Judgments against the Wicked*
 
 [[Isa.66.15|15]] For, behold, the LORD will come with fire, and with his chariots like a whirlwind, to render his anger with fury, and his rebuke with flames of fire.

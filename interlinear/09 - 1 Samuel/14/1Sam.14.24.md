@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 14:24
+type: Verse
+kjv: "And the men of Israel were distressed that day: for Saul had adjured the people, saying, Cursed be the man that eateth any food until evening, that I may be avenged on mine enemies. So none of the people tasted any food."
+bsb: "Now the men of Israel were in distress that day, for Saul had placed the troops under an oath, saying, “Cursed is the man who eats any food before evening, before I have taken vengeance on my enemies.” So none of the troops tasted any food."
+hebrew: "וְאִֽישׁ־ יִשְׂרָאֵ֥ל נִגַּ֖שׂ בַּיּ֣וֹם הַה֑וּא וַיֹּאֶל֩ שָׁא֨וּל אֶת־ הָעָ֜ם לֵאמֹ֗ר אָר֣וּר הָ֠אִישׁ אֲשֶׁר־ יֹ֨אכַל לֶ֜חֶם עַד־ הָעֶ֗רֶב וְנִקַּמְתִּי֙ מֵאֹ֣יְבַ֔י וְלֹֽא טָעַ֥ם כָּל־ הָעָ֖ם לָֽחֶם׃ ס"
+pericope: "[[1Sam.14.24 Jonathan Eats the Honey|Jonathan Eats the Honey]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5065]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H0422]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0779]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H3899G]]"
+- "[[H5704]]"
+- "[[H6153]]"
+- "[[H5358]]"
+- "[[H9006]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H2938]]"
+- "[[H3605]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 14:24**<big><big>[[1Sam.14.24 Jonathan Eats the Honey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel were distressed that day: for Saul had adjured the people, saying, Cursed [be] the man that eateth [any] food until evening, that I may be avenged on mine enemies. So none of the people tasted [any] food.
 <small><sub>**BSB:**</sub></small>
 Now the men of Israel were in distress that day, for Saul had placed the troops under an oath, saying, “Cursed is the man who eats any food before evening, before I have taken vengeance on my enemies.” So none of the troops tasted any food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִֽישׁ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H5065\|נִגַּ֖שׂ]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H9001\|וַ]][[H0422\|יֹּאֶל֩]] [[H7586G\|שָׁא֨וּל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H0779\|אָר֣וּר]] [[H9009\|הָ֠]][[H0376G\|אִישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0398\|יֹ֨אכַל]] [[H3899G\|לֶ֜חֶם]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עֶ֗רֶב]] [[H9001\|וְ]][[H5358\|נִקַּמְתִּי֙]] [[H9006\|מֵ]][[H0341\|אֹ֣יְבַ֔]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹֽא]] [[H2938\|טָעַ֥ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H3899G\|לָֽחֶם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.23|<< 1 Samuel 14:23]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.25|1 Samuel 14:25 >>]]</td></tr></table>
 
@@ -31,7 +94,7 @@ Now the men of Israel were in distress that day, for Saul had placed the troops 
 | it tasted  |**<big>&#8207;[[H2938\|טָעַ֥ם]]&#8207; </big>**| ta.'Am<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| food  |**<big>&#8207;[[H3899G\|לָֽחֶם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| food  |**<big>&#8207;[[H3899G\|לָֽחֶם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La.chem<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.23|<< 1 Samuel 14:23]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.25|1 Samuel 14:25 >>]]</td></tr></table>
 
 

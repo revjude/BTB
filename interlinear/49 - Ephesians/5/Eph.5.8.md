@@ -1,10 +1,57 @@
+---
+title: Ephesians 5:8
+type: Verse
+kjv: "For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:"
+bsb: "For you were once darkness, but now you are light in the Lord. Walk as children of light,"
+greek: "ἦτε γάρ ποτε σκότος νῦν δὲ φῶς ἐν κυρίῳ· ὡς τέκνα φωτὸς περιπατεῖτε,"
+pericope: "[[Eph.5.8 Children of Light|Children of Light]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G4218]]"
+- "[[G4655]]"
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G5457]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G5613]]"
+- "[[G5043]]"
+- "[[G4043]]"
+texts:
+- NKO
+---
+
 **Ephesians 5:8**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For ye were sometimes darkness, but now [are ye] light in the Lord: walk as children of light:
 <small><sub>**BSB:**</sub></small>
 For you were once darkness, but now you are light in the Lord. Walk as children of light,
-<small><sub>**Literal:**</sub></small>
-You were for once darkness now however light in [the] Lord; as children of light do walk —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.7|<< Ephesians 5:7]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.9|Ephesians 5:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦτε]]  [[G1063\|γάρ]]  [[G4218\|ποτε]]  [[G4655\|σκότος]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G5457\|φῶς]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ·]]  [[G5613\|ὡς]]  [[G5043\|τέκνα]]  [[G5457\|φωτὸς]]  [[G4043\|περιπατεῖτε,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DARKNESS|DARKNESS]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HOLINESS|HOLINESS]] • [[topic LIGHT|LIGHT]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.7|<< Ephesians 5:7]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.9|Ephesians 5:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

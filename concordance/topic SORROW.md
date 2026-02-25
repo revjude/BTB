@@ -3,9 +3,9 @@
 
 → God takes notice
 
-- Of Hagar' s [[Gen.21.17|Ge 21:17]]-[[Gen.21.20|20]]
+- Of Hagar' s [[Gen.21.17|Ge 21:17-20]]
 
-- Of the Israelites [[Exod.3.7|Ex 3:7]]-[[Exod.3.10|10]]
+- Of the Israelites [[Exod.3.7|Ex 3:7-10]]
 
 → For sin [[2Cor.7.10|2Co 7:10]],[[2Cor.7.11|11]]
 
@@ -19,13 +19,13 @@
 
 → Of Hannah [[1Sam.1.15|1Sa 1:15]]
 
-→ Of David for Absalom  [[2Sam.18.33|2Sa 18:33]]; [[2Sam.19.1|19:1]]-[[2Sam.19.8|8]]
+→ Of David for Absalom  [[2Sam.18.33|2Sa 18:33]]; [[2Sam.19.1|19:1-8]]
 
-→ Of Mary and Martha [[John.11.19|Joh 11:19]]-[[John.11.40|40]]
+→ Of Mary and Martha [[John.11.19|Joh 11:19-40]]
 
 → Of Jeremiah [[Lam.1.12|La 1:12]]
 
-→ Of Jesus [[Isa.53.11|Isa 53:11]]; [[Matt.26.37|Mt 26:37]]-[[Matt.26.44|44]]; [[Mark.14.34|Mr 14:34]]-[[Mark.14.42|42]]; [[Luke.22.42|Lu 22:42]]-[[Luke.22.44|44]]
+→ Of Jesus [[Isa.53.11|Isa 53:11]]; [[Matt.26.37|Mt 26:37-44]]; [[Mark.14.34|Mr 14:34-42]]; [[Luke.22.42|Lu 22:42-44]]
 
 → From bereavement
 

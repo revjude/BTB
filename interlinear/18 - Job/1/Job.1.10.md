@@ -1,8 +1,73 @@
+---
+title: Job 1:10
+type: Verse
+kjv: "Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land."
+bsb: "Have You not placed a hedge on every side around him and his household and all that he owns? You have blessed the work of his hands, and his possessions have increased in the land."
+hebrew: "הֲלֹֽא־ אַ֠תָּה שַׂ֣כְתָּ בַעֲד֧וֹ וּבְעַד־ בֵּית֛וֹ וּבְעַ֥ד כָּל־ אֲשֶׁר־ ל֖וֹ מִסָּבִ֑יב מַעֲשֵׂ֤ה יָדָיו֙ בֵּרַ֔כְתָּ וּמִקְנֵ֖הוּ פָּרַ֥ץ בָּאָֽרֶץ׃"
+pericope: "[[Job.1.6 Satan’s First Attack|Satan’s First Attack]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEDGE|HEDGE]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0859C]]"
+- "[[H0859A]]"
+- "[[H7753]]"
+- "[[H1157]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H1288]]"
+- "[[H4735]]"
+- "[[H6555]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 1:10**<big><big>[[Job.1.6 Satan’s First Attack|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.
 <small><sub>**BSB:**</sub></small>
 Have You not placed a hedge on every side around him and his household and all that he owns? You have blessed the work of his hands, and his possessions have increased in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0859A\|אַ֠תָּה]] [[H7753\|שַׂ֣כְתָּ]] [[H1157\|בַעֲד֧]][[H9033\|וֹ]] [[H9002\|וּ]][[H1157\|בְעַד]][[H9014\|־]] [[H1004B\|בֵּית֛]][[H9023\|וֹ]] [[H9002\|וּ]][[H1157\|בְעַ֥ד]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H5439H\|סָּבִ֑יב]] [[H4639G\|מַעֲשֵׂ֤ה]] [[H3027G\|יָדָי]][[H9023\|ו֙]] [[H1288\|בֵּרַ֔כְתָּ]] [[H9002\|וּ]][[H4735\|מִקְנֵ֖]][[H9023\|הוּ]] [[H6555\|פָּרַ֥ץ]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic BLESSING|BLESSING]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOD|GOD]] • [[topic HEDGE|HEDGE]] • [[topic MOTIVE|MOTIVE]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.9|<< Job 1:9]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.11|Job 1:11 >>]]</td></tr></table>
 

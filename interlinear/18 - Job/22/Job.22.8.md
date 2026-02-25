@@ -1,8 +1,50 @@
+---
+title: Job 22:8
+type: Verse
+kjv: "But as for the mighty man, he had the earth; and the honourable man dwelt in it."
+bsb: "while the land belonged to a mighty man, and a man of honor lived on it."
+hebrew: "וְאִ֣ישׁ זְ֭רוֹעַ ל֣וֹ הָאָ֑רֶץ וּנְשׂ֥וּא פָ֝נִ֗ים יֵ֣שֶׁב בָּֽהּ׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H2220]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:8**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But [as for] the mighty man, he had the earth; and the honourable man dwelt in it.
 <small><sub>**BSB:**</sub></small>
 while the land belonged to a mighty man, and a man of honor lived on it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֣ישׁ]] [[H2220\|זְ֭רוֹעַ]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וּ]][[H5375Q\|נְשׂ֥וּא]] [[H6440N\|פָ֝נִ֗ים]] [[H3427\|יֵ֣שֶׁב]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.7|<< Job 22:7]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.9|Job 22:9 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Galatians 3:24
+type: Verse
+kjv: "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith."
+bsb: "So the law became our guardian to lead us to Christ, that we might be justified by faith."
+greek: "ὥστε ὁ νόμος παιδαγωγὸς ἡμῶν γέγονεν εἰς Χριστόν, ἵνα ἐκ πίστεως δικαιωθῶμεν·"
+pericope: "[[Gal.3.15 The Purpose of the Law|The Purpose of the Law]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5620]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3807]]"
+- "[[G3165]]"
+- "[[G1096]]"
+- "[[G1519]]"
+- "[[G5547]]"
+- "[[G2443]]"
+- "[[G1537]]"
+- "[[G4102G]]"
+- "[[G1344]]"
+texts:
+- NKO
+---
+
 **Galatians 3:24**<big><big>[[Gal.3.15 The Purpose of the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore the law was our schoolmaster [to bring us] unto Christ, that we might be justified by faith.
 <small><sub>**BSB:**</sub></small>
 So the law became our guardian to lead us to Christ, that we might be justified by faith.
-<small><sub>**Literal:**</sub></small>
-so that the Law trainer of us has become unto Christ, so that by faith we may be justified;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.23|<< Galatians 3:23]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.25|Galatians 3:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G3807\|παιδαγωγὸς]]  [[G3165\|ἡμῶν]]  [[G1096\|γέγονεν]]  [[G1519\|εἰς]]  [[G5547\|Χριστόν,]]  [[G2443\|ἵνα]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως]]  [[G1344\|δικαιωθῶμεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic SALVATION|SALVATION]] • [[topic SCHOOL|SCHOOL]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.23|<< Galatians 3:23]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.25|Galatians 3:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Remnant of Jacob
+type: Pericope
 pericope: "[[Mic.5.7 The Remnant of Jacob|The Remnant of Jacob]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 5
 book/chapter: "[[Mic.5|Micah 5]]"
-genre:
+chronological_order: 627
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 9
 verses:
 - "[[Mic.5.7]]"
 - "[[Mic.5.8]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Mic.5.15]]"
 ---
 
-[[Mic.5|Micah 5:7 - Micah 5:15]]
+<small>[[Mic.5|Micah 5:7-15]]</small>
 *The Remnant of Jacob*
 
 [[Mic.5.7|7]] And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men.

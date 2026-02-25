@@ -1,8 +1,71 @@
+---
+title: Jeremiah 20:9
+type: Verse
+kjv: "Then I said, I will not make mention of him, nor speak any more in his name. But his word was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not stay."
+bsb: "If I say, “I will not mention Him or speak any more in His name,” His message becomes a fire burning in my heart, shut up in my bones, and I become weary of holding it in, and I cannot prevail."
+hebrew: "וְאָמַרְתִּ֣י לֹֽא־ אֶזְכְּרֶ֗נּוּ וְלֹֽא־ אֲדַבֵּ֥ר עוֹד֙ בִּשְׁמ֔וֹ וְהָיָ֤ה בְלִבִּי֙ כְּאֵ֣שׁ בֹּעֶ֔רֶת עָצֻ֖ר בְּעַצְמֹתָ֑י וְנִלְאֵ֥יתִי כַּֽלְכֵ֖ל וְלֹ֥א אוּכָֽל׃"
+pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FIRE|FIRE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2142]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1696G]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H0784]]"
+- "[[H1197A]]"
+- "[[H6113]]"
+- "[[H6106G]]"
+- "[[H3811]]"
+- "[[H3557]]"
+- "[[H3201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:9**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I said, I will not make mention of him, nor speak any more in his name. But [his word] was in mine heart as a burning fire shut up in my bones, and I was weary with forbearing, and I could not [stay].
 <small><sub>**BSB:**</sub></small>
 If I say, “I will not mention Him or speak any more in His name,” His message becomes a fire burning in my heart, shut up in my bones, and I become weary of holding it in, and I cannot prevail.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתִּ֣י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2142\|אֶזְכְּרֶ֗]][[H9033\|נּוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1696G\|אֲדַבֵּ֥ר]] [[H5750\|עוֹד֙]] [[H9003\|בִּ]][[H8034\|שְׁמ֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9003\|בְ]][[H3820A\|לִבִּ]][[H9020\|י֙]] [[H9004\|כְּ]][[H0784\|אֵ֣שׁ]] [[H1197A\|בֹּעֶ֔רֶת]] [[H6113\|עָצֻ֖ר]] [[H9003\|בְּ]][[H6106G\|עַצְמֹתָ֑]][[H9020\|י]] [[H9001\|וְ]][[H3811\|נִלְאֵ֥יתִי]] [[H3557\|כַּֽלְכֵ֖ל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|אוּכָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRE|FIRE]] • [[topic HEART|HEART]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.8|<< Jeremiah 20:8]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.10|Jeremiah 20:10 >>]]</td></tr></table>
 

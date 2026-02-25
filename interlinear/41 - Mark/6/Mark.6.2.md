@@ -1,10 +1,70 @@
+---
+title: Mark 6:2
+type: Verse
+kjv: "And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?"
+bsb: "When the Sabbath came, He began to teach in the synagogue, and many who heard Him were astonished. “Where did this man get these ideas?” they asked. “What is this wisdom He has been given? And how can He perform such miracles?"
+greek: "καὶ γενομένου σαββάτου ἤρξατο διδάσκειν ἐν τῇ συναγωγῇ· καὶ οἱ πολλοὶ ἀκούοντες ἐξεπλήσσοντο λέγοντες· πόθεν τούτῳ ταῦτα, καὶ τίς ἡ σοφία ἡ δοθεῖσα τούτῳ ὅτι καὶ αἱ δυνάμεις τοιαῦται διὰ τῶν χειρῶν αὐτοῦ γινόμεναι;"
+pericope: "[[Mark.6.1 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEOPLE, COMMON|PEOPLE, COMMON]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G4521]]"
+- "[[G0757]]"
+- "[[G1321]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G4183]]"
+- "[[G0191]]"
+- "[[G1605]]"
+- "[[G3004G]]"
+- "[[G4159]]"
+- "[[G3778]]"
+- "[[G5101]]"
+- "[[G4678]]"
+- "[[G1325]]"
+- "[[G3754H]]"
+- "[[G1411]]"
+- "[[G5108]]"
+- "[[G1223]]"
+- "[[G5495]]"
+- "[[G0846]]"
+texts:
+- NKO
+- o
+- N(k)O
+- k
+- no
+---
+
 **Mark 6:2**<big><big>[[Mark.6.1 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the sabbath day was come, he began to teach in the synagogue: and many hearing [him] were astonished, saying, From whence hath this [man] these things? and what wisdom [is] this which is given unto him, that even such mighty works are wrought by his hands?
 <small><sub>**BSB:**</sub></small>
 When the Sabbath came, He began to teach in the synagogue, and many who heard Him were astonished. “Where did this man get these ideas?” they asked. “What is this wisdom He has been given? And how can He perform such miracles?
-<small><sub>**Literal:**</sub></small>
-And when was becoming [the] Sabbath He began to teach in the synagogue; and <the> many hearing were astonished saying; From where to this [man] these things, and what [is] the wisdom which having been given to Him for even the miracles such through the hands of Him are done?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.1|<< Mark 6:1]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.3|Mark 6:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|γενομένου]]  [[G4521\|σαββάτου]]  [[G0757\|ἤρξατο]]  [[G1321\|διδάσκειν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4864\|συναγωγῇ·]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4183\|πολλοὶ]]  [[G0191\|ἀκούοντες]]  [[G1605\|ἐξεπλήσσοντο]]  [[G3004G\|λέγοντες·]]  [[G4159\|πόθεν]]  [[G3778\|τούτῳ]]  [[G3778\|ταῦτα,]]  [[G2532\|καὶ]]  [[G5101\|τίς]]  [[G3588\|ἡ]]  [[G4678\|σοφία]]  [[G3588\|ἡ]]  [[G1325\|δοθεῖσα]]  [[G3778\|τούτῳ]]  [[G3754H\|ὅτι]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G1411\|δυνάμεις]]  [[G5108\|τοιαῦται]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G5495\|χειρῶν]]  [[G0846\|αὐτοῦ]]  [[G1096\|γινόμεναι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEOPLE, COMMON|PEOPLE, COMMON]] • [[topic SABBATH|SABBATH]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.1|<< Mark 6:1]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.3|Mark 6:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

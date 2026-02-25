@@ -1,6 +1,77 @@
+---
+title: LXX Daniel 1:2
+type: Verse
+lxx: "And the lord gave into his hand  Jehoiakim king of Judah, and from part of the items of the house of the lord. And he brought them into the land of Shinar of the house  of his god. And the items he carried into the house of the treasury  of his god."
+greek: "και έδωκέ κύριος εν χειρί αυτού τον Ιωακείμ βασιλέα Ιούδα και από μέρους των σκευών οίκου κυρίου και ήνεγκεν αυτά εις γην Σενναάρ οίκου του θεού αυτού και τα σκεύη εισήνεγκεν εις τον οίκον θησαυρού του θεού αυτού"
+original_language: Greek
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- septuagint
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[H3079]]"
+- "[[G0935]]"
+- "[[G2448]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3313]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G3624]]"
+- "[[G2532]]"
+- "[[G2532]]"
+- "[[G5342]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G1093]]"
+- "[[H8134]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G1533]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2344]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+---
+
 **LXX Daniel 1:2** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] <span class="smallcaps">lord</span> gave into his hand  Jehoiakim king of Judah, and from part of the items of \[the\] house of \[the\] <span class="smallcaps">lord</span>. And he brought them into \[the\] land of Shinar of \[the\] house  of his god. And the items he carried into the house of \[the\] treasury  of his god. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1325\|έδωκέ]] [[G2962\|κύριος]] [[G1722\|εν]] [[G5495\|χειρί]] [[G1473\|αυτού]] [[G3588\|τον]] [[H3079\|Ιωακείμ]] [[G0935\|βασιλέα]] [[G2448\|Ιούδα]] [[G2532\|και]] [[G0575\|από]] [[G3313\|μέρους]] [[G3588\|των]] [[G4632\|σκευών]] [[G3624\|οίκου]] [[G2532\|κυρίου]] [[G2532\|και]] [[G5342\|ήνεγκεν]] [[G1473\|αυτά]] [[G1519\|εις]] [[G1093\|γην]] [[H8134\|Σενναάρ]] [[G3624\|οίκου]] [[G3588\|του]] [[G2316\|θεού]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|τα]] [[G4632\|σκεύη]] [[G1533\|εισήνεγκεν]] [[G1519\|εις]] [[G3588\|τον]] [[G3624\|οίκον]] [[G2344\|θησαυρού]] [[G3588\|του]] [[G2316\|θεού]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Dan.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.1|<< Daniel 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.3|Daniel 1:3 >>]]</td></tr></table>
 
@@ -40,6 +111,6 @@ And \[the\] <span class="smallcaps">lord</span> gave into his hand  Jehoiakim ki
 | of \[the\] treasury | **<big>[[G2344\|θησαυρού]]</big>** |
 | \<obj.> | **<big>[[G3588\|του]]</big>** |
 | of his god. | **<big>[[G2316\|θεού]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Dan.1.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.1|<< Daniel 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.3|Daniel 1:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Dan.1.1|<< Daniel 1:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Dan.1.3|Daniel 1:3 >>]]</td></tr></table>
 
 

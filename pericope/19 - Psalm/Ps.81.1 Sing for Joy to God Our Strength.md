@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sing for Joy to God Our Strength
+type: Pericope
 pericope: "[[Ps.81.1 Sing for Joy to God Our Strength|Sing for Joy to God Our Strength]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 81
 book/chapter: "[[Ps.81|Psalm 81]]"
-genre:
+chronological_order: 511
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 17
 verses:
 - "[[Ps.81.0]]"
 - "[[Ps.81.1]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Ps.81.16]]"
 ---
 
-[[Ps.81|Psalm 81:1 - Psalm 81:16]]
+<small>[[Ps.81|Psalm 81:1-16]]</small>
 *Sing for Joy to God Our Strength*
 
 [[Ps.81.0|0]] To the chief Musician upon Gittith, \[A Psalm\] of Asaph.

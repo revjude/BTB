@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 1:8
+type: Verse
+kjv: "Then said Elkanah her husband to her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? am not I better to thee than ten sons?"
+bsb: "“Hannah, why are you crying?” her husband Elkanah asked. “Why won’t you eat? Why is your heart so grieved? Am I not better to you than ten sons?”"
+hebrew: "וַיֹּ֨אמֶר לָ֜הּ אֶלְקָנָ֣ה אִישָׁ֗הּ חַנָּה֙ לָ֣מֶה תִבְכִּ֗י וְלָ֙מֶה֙ לֹ֣א תֹֽאכְלִ֔י וְלָ֖מֶה יֵרַ֣ע לְבָבֵ֑ךְ הֲל֤וֹא אָֽנֹכִי֙ ט֣וֹב לָ֔ךְ מֵעֲשָׂרָ֖ה בָּנִֽים׃"
+pericope: "[[1Sam.1.1 Elkanah and His Wives|Elkanah and His Wives]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic ELKANAH|ELKANAH]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0511H]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H2584]]"
+- "[[H4100]]"
+- "[[H1058]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H3415]]"
+- "[[H3824]]"
+- "[[H9022]]"
+- "[[H9008]]"
+- "[[H0595]]"
+- "[[H2896A]]"
+- "[[H9032]]"
+- "[[H9006]]"
+- "[[H6235]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:8**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Elkanah her husband to her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? [am] not I better to thee than ten sons?
 <small><sub>**BSB:**</sub></small>
 “Hannah, why are you crying?” her husband Elkanah asked. “Why won’t you eat? Why is your heart so grieved? Am I not better to you than ten sons?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|לָ֜]][[H9034\|הּ]] [[H0511H\|אֶלְקָנָ֣ה]] [[H0376H\|אִישָׁ֗]][[H9024\|הּ]] [[H2584\|חַנָּה֙]] [[H9005\|לָ֣]][[H4100\|מֶה]] [[H1058\|תִבְכִּ֗י]] [[H9002\|וְ]][[H9005\|לָ֙]][[H4100\|מֶה֙]] [[H3808\|לֹ֣א]] [[H0398\|תֹֽאכְלִ֔י]] [[H9002\|וְ]][[H9005\|לָ֖]][[H4100\|מֶה]] [[H3415\|יֵרַ֣ע]] [[H3824\|לְבָבֵ֑]][[H9022\|ךְ]] [[H9008\|הֲ]][[H3808\|ל֤וֹא]] [[H0595\|אָֽנֹכִי֙]] [[H2896A\|ט֣וֹב]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H9006\|מֵ]][[H6235\|עֲשָׂרָ֖ה]] [[H1121A\|בָּנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic ELKANAH|ELKANAH]] • [[topic HANNAH|HANNAH]] • [[topic SAMUEL|SAMUEL]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.7|<< 1 Samuel 1:7]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.9|1 Samuel 1:9 >>]]</td></tr></table>
 

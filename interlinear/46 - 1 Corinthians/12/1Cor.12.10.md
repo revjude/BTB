@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 12:10
+type: Verse
+kjv: "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:"
+bsb: "to another the working of miracles, to another prophecy, to another distinguishing between spirits, to another speaking in various tongues, and to still another the interpretation of tongues."
+greek: "ἄλλῳ δὲ ἐνεργήματα δυνάμεων, ἄλλῳ δὲ προφητεία, ἄλλῳ δὲ διακρίσεις πνευμάτων, ἑτέρῳ δὲ γένη γλωσσῶν, ἄλλῳ δὲ ἑρμηνεία γλωσσῶν·"
+pericope: "[[1Cor.12.1 Spiritual Gifts|Spiritual Gifts]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 12
+book/chapter: "[[1Cor.12|1 Corinthians 12]]"
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G0243]]"
+- "[[G1161]]"
+- "[[G1755]]"
+- "[[G1411]]"
+- "[[G4394]]"
+- "[[G1253]]"
+- "[[G4151G]]"
+- "[[G2087]]"
+- "[[G1085H]]"
+- "[[G1100]]"
+- "[[G2058]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 12:10**<big><big>[[1Cor.12.1 Spiritual Gifts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To another the working of miracles; to another prophecy; to another discerning of spirits; to another [divers] kinds of tongues; to another the interpretation of tongues:
 <small><sub>**BSB:**</sub></small>
 to another the working of miracles, to another prophecy, to another distinguishing between spirits, to another speaking in various tongues, and to still another the interpretation of tongues.
-<small><sub>**Literal:**</sub></small>
-to another now working of miracles, to another now prophecy, to another now distinguishing of spirits, to a different one now various kinds of tongues, to another now interpretation of tongues;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.9|<< 1 Corinthians 12:9]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.11|1 Corinthians 12:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0243\|ἄλλῳ]]  [[G1161\|δὲ]]  [[G1755\|ἐνεργήματα]]  [[G1411\|δυνάμεων,]]  [[G0243\|ἄλλῳ]]  [[G1161\|δὲ]]  [[G4394\|προφητεία,]]  [[G0243\|ἄλλῳ]]  [[G1161\|δὲ]]  [[G1253\|διακρίσεις]]  [[G4151G\|πνευμάτων,]]  [[G2087\|ἑτέρῳ]]  [[G1161\|δὲ]]  [[G1085H\|γένη]]  [[G1100\|γλωσσῶν,]]  [[G0243\|ἄλλῳ]]  [[G1161\|δὲ]]  [[G2058\|ἑρμηνεία]]  [[G1100\|γλωσσῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INTERPRETER|INTERPRETER]] • [[topic LANGUAGE|LANGUAGE]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHETS|PROPHETS]] • [[topic TONGUE|TONGUE]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.12.9|<< 1 Corinthians 12:9]]</td><td align="center" style="border:none;">[[1Cor.12|1 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.12.11|1 Corinthians 12:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

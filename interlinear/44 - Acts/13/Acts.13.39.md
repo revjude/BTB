@@ -1,10 +1,65 @@
+---
+title: Acts 13:39
+type: Verse
+kjv: "And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses."
+bsb: "Through Him everyone who believes is justified from everything from which you could not be justified by the law of Moses."
+greek: "καὶ ἀπὸ πάντων ὧν οὐκ ἠδυνήθητε ἐν τῷ νόμῳ Μωϋσέως δικαιωθῆναι, ἐν τούτῳ πᾶς ὁ πιστεύων δικαιοῦται."
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G3475]]"
+- "[[G1344]]"
+- "[[G3778]]"
+- "[[G4100]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 13:39**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.
 <small><sub>**BSB:**</sub></small>
 Through Him everyone who believes is justified from everything from which you could not be justified by the law of Moses.
-<small><sub>**Literal:**</sub></small>
-And from all things from which not you were able in the law of Moses to be justified, (39) in Him everyone who is believing is justified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.38|<< Acts 13:38]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.40|Acts 13:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G3956\|πάντων]]  [[G3739\|ὧν]]  [[G3756\|οὐκ]]  [[G1410\|ἠδυνήθητε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G3475\|Μωϋσέως]]  [[G1344\|δικαιωθῆναι,]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G4100\|πιστεύων]]  [[G1344\|δικαιοῦται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PENITENT|PENITENT]] • [[topic PREACHING|PREACHING]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.38|<< Acts 13:38]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.40|Acts 13:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

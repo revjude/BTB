@@ -1,6 +1,46 @@
+---
+title: LXX Psalm 106:2
+type: Verse
+lxx: "Who shall speak the mighty deeds of the lord? Audibly, who shall offer all  his praises?"
+greek: "τις λαλήσει τας δυναστείας του κυρίου ακουστάς ποιήσει πάσας τας αινέσεις αυτού"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 106
+book/chapter: "[[Ps.106|Psalm 106]]"
+chronological_order: 530
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[G5100]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G6973]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G6200]]"
+- "[[G4160]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0133]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 106:2** 
 <small><sub>**LXX:**</sub></small>
 Who shall speak the mighty deeds of the <span class="smallcaps">lord</span>? Audibly, who shall offer all  his praises? 
+<small><sub>**Greek:**</sub></small>
+[[G5100\|τις]] [[G2980\|λαλήσει]] [[G3588\|τας]] [[G6973\|δυναστείας]] [[G3588\|του]] [[G2962\|κυρίου]] [[G6200\|ακουστάς]] [[G4160\|ποιήσει]] [[G3956\|πάσας]] [[G3588\|τας]] [[G0133\|αινέσεις]] [[G1473\|αυτού]]
 <small><sub>**MT:**</sub></small>
 [[Ps.106.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.1|<< Psalm 106:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.3|Psalm 106:3 >>]]</td></tr></table>
 
@@ -17,6 +57,6 @@ Who shall speak the mighty deeds of the <span class="smallcaps">lord</span>? Aud
 | all | **<big>[[G3956\|πάσας]]</big>** |
 | \<obj.> | **<big>[[G3588\|τας]]</big>** |
 | his praises? | **<big>[[G0133\|αινέσεις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Ps.106.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.1|<< Psalm 106:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.3|Psalm 106:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.106.1|<< Psalm 106:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.106.3|Psalm 106:3 >>]]</td></tr></table>
 
 

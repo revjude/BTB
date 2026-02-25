@@ -1,10 +1,58 @@
+---
+title: Mark 3:26
+type: Verse
+kjv: "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end."
+bsb: "And if Satan is divided and rises against himself, he cannot stand; his end has come."
+jesus_said: "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end."
+greek: "καὶ εἰ ὁ σατανᾶς ἀνέστη ἐφ᾽ ἑαυτὸν καὶ ἐμερίσθη, οὐ δύναται στῆναι ἀλλὰ τέλος ἔχει."
+pericope: "[[Mark.3.20 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G4567]]"
+- "[[G0450]]"
+- "[[G1909]]"
+- "[[G1438]]"
+- "[[G3307]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2476]]"
+- "[[G0235]]"
+- "[[G5056]]"
+- "[[G2192]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 3:26**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if Satan rise up against himself, and be divided, he cannot stand, but hath an end.
 <small><sub>**BSB:**</sub></small>
 And if Satan is divided and rises against himself, he cannot stand; his end has come.
-<small><sub>**Literal:**</sub></small>
-And if <the> Satan has risen up against himself and was divided, not he is able to stand but an end is coming to.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.25|<< Mark 3:25]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.27|Mark 3:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1487G\|εἰ]]  [[G3588\|ὁ]]  [[G4567\|σατανᾶς]]  [[G0450\|ἀνέστη]]  [[G1909\|ἐφ᾽]]  [[G1438\|ἑαυτὸν]]  [[G2532\|καὶ]]  [[G3307\|ἐμερίσθη,]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G2476\|στῆναι]]  [[G0235\|ἀλλὰ]]  [[G5056\|τέλος]]  [[G2192\|ἔχει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.25|<< Mark 3:25]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.27|Mark 3:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

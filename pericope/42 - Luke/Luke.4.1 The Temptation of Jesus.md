@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Temptation of Jesus
+type: Pericope
 pericope: "[[Luke.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Luke
 chapter: 4
 book/chapter: "[[Luke.4|Luke 4]]"
-genre:
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 13
 verses:
 - "[[Luke.4.1]]"
 - "[[Luke.4.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Luke.4.13]]"
 ---
 
-[[Luke.4|Luke 4:1 - Luke 4:13]]
+<small>[[Luke.4|Luke 4:1-13]]</small>
 *The Temptation of Jesus*
 
 [[Luke.4.1|1]] And Jesus being full of the Holy Ghost returned from Jordan, and was led by the Spirit into the wilderness,

@@ -1,8 +1,64 @@
+---
+title: 2 Kings 19:3
+type: Verse
+kjv: "And they said unto him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and there is not strength to bring forth."
+bsb: "to tell him, “This is what Hezekiah says: Today is a day of distress, rebuke, and disgrace; for children have come to the point of birth, but there is no strength to deliver them."
+hebrew: "וַיֹּאמְר֣וּ אֵלָ֗יו כֹּ֚ה אָמַ֣ר חִזְקִיָּ֔הוּ יוֹם־ צָרָ֧ה וְתוֹכֵחָ֛ה וּנְאָצָ֖ה הַיּ֣וֹם הַזֶּ֑ה כִּ֣י בָ֤אוּ בָנִים֙ עַד־ מַשְׁבֵּ֔ר וְכֹ֥חַ אַ֖יִן לְלֵדָֽה׃"
+pericope: "[[2Kgs.19.1 Isaiah’s Message of Deliverance|Isaiah’s Message of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H2396G]]"
+- "[[H3117L]]"
+- "[[H9014]]"
+- "[[H6869B]]"
+- "[[H9002]]"
+- "[[H8433A]]"
+- "[[H5007A]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H1121A]]"
+- "[[H5704]]"
+- "[[H4866]]"
+- "[[H3581B]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H3205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:3**<big><big>[[2Kgs.19.1 Isaiah’s Message of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto him, Thus saith Hezekiah, This day [is] a day of trouble, and of rebuke, and blasphemy: for the children are come to the birth, and [there is] not strength to bring forth.
 <small><sub>**BSB:**</sub></small>
 to tell him, “This is what Hezekiah says: Today is a day of distress, rebuke, and disgrace; for children have come to the point of birth, but there is no strength to deliver them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H2396G\|חִזְקִיָּ֔הוּ]] [[H3117L\|יוֹם]][[H9014\|־]] [[H6869B\|צָרָ֧ה]] [[H9002\|וְ]][[H8433A\|תוֹכֵחָ֛ה]] [[H9002\|וּ]][[H5007A\|נְאָצָ֖ה]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּ֣י]] [[H0935G\|בָ֤אוּ]] [[H1121A\|בָנִים֙]] [[H5704\|עַד]][[H9014\|־]] [[H4866\|מַשְׁבֵּ֔ר]] [[H9002\|וְ]][[H3581B\|כֹ֥חַ]] [[H0369\|אַ֖יִן]] [[H9005\|לְ]][[H3205\|לֵדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.2|<< 2 Kings 19:2]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.4|2 Kings 19:4 >>]]</td></tr></table>
 

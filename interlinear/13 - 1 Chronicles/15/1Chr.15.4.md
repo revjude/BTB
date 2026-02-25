@@ -1,8 +1,47 @@
+---
+title: 1 Chronicles 15:4
+type: Verse
+kjv: "And David assembled the children of Aaron, and the Levites:"
+bsb: "Then he gathered together the descendants of Aaron and the Levites:"
+hebrew: "וַיֶּאֱסֹ֥ף דָּוִ֛יד אֶת־ בְּנֵ֥י אַֽהֲרֹ֖ן וְאֶת־ הַלְוִיִּֽם׃"
+pericope: "[[1Chr.15.1 Preparing to Move the Ark|Preparing to Move the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:4**<big><big>[[1Chr.15.1 Preparing to Move the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David assembled the children of Aaron, and the Levites:
 <small><sub>**BSB:**</sub></small>
 Then he gathered together the descendants of Aaron and the Levites:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יֶּאֱסֹ֥ף]] [[H1732\|דָּוִ֛יד]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H0175\|אַֽהֲרֹ֖ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.3|<< 1 Chronicles 15:3]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.5|1 Chronicles 15:5 >>]]</td></tr></table>
 

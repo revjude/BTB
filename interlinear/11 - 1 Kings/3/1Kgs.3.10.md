@@ -1,8 +1,60 @@
+---
+title: 1 Kings 3:10
+type: Verse
+kjv: "And the speech pleased the Lord, that Solomon had asked this thing."
+bsb: "Now it pleased the Lord that Solomon had made this request."
+hebrew: "וַיִּיטַ֥ב הַדָּבָ֖ר בְּעֵינֵ֣י אֲדֹנָ֑י כִּ֚י שָׁאַ֣ל שְׁלֹמֹ֔ה אֶת־ הַדָּבָ֖ר הַזֶּֽה׃"
+pericope: "[[1Kgs.3.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3190]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H0136]]"
+- "[[H3588A]]"
+- "[[H7592]]"
+- "[[H8010]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:10**<big><big>[[1Kgs.3.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the speech pleased the Lord, that Solomon had asked this thing.
 <small><sub>**BSB:**</sub></small>
 Now it pleased the Lord that Solomon had made this request.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3190\|יִּיטַ֥ב]] [[H9009\|הַ]][[H1697I\|דָּבָ֖ר]] [[H9003\|בְּ]][[H5869I\|עֵינֵ֣י]] [[H0136\|אֲדֹנָ֑י]] [[H3588A\|כִּ֚י]] [[H7592\|שָׁאַ֣ל]] [[H8010\|שְׁלֹמֹ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֖ר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMUNION|COMMUNION]] • [[topic DREAM|DREAM]] • [[topic PRAYER|PRAYER]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.9|<< 1 Kings 3:9]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.11|1 Kings 3:11 >>]]</td></tr></table>
 

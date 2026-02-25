@@ -1,8 +1,67 @@
+---
+title: Isaiah 50:7
+type: Verse
+kjv: "For the Lord GOD will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed."
+bsb: "Because the Lord GOD helps Me, I have not been disgraced; therefore I have set My face like flint, and I know that I will not be put to shame."
+hebrew: "וַאדֹנָ֤י יְהוִה֙ יַֽעֲזָר־ לִ֔י עַל־ כֵּ֖ן לֹ֣א נִכְלָ֑מְתִּי עַל־ כֵּ֞ן שַׂ֤מְתִּי פָנַי֙ כַּֽחַלָּמִ֔ישׁ וָאֵדַ֖ע כִּי־ לֹ֥א אֵבֽוֹשׁ׃"
+pericope: "[[Isa.50.4 The Servant’s Obedience|The Servant’s Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 50
+book/chapter: "[[Isa.50|Isaiah 50]]"
+chronological_order: 689
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FLINT|FLINT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H5826]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H3808]]"
+- "[[H3637]]"
+- "[[H7760A]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H2496]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0954]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 50:7**<big><big>[[Isa.50.4 The Servant’s Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Lord GOD will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.
 <small><sub>**BSB:**</sub></small>
 Because the Lord GOD helps Me, I have not been disgraced; therefore I have set My face like flint, and I know that I will not be put to shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0136\|אדֹנָ֤י]] [[H3069\|יְהוִה֙]] [[H5826\|יַֽעֲזָר]][[H9014\|־]] [[H9005\|לִ֔]][[H9030\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H3808\|לֹ֣א]] [[H3637\|נִכְלָ֑מְתִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֞ן]] [[H7760A\|שַׂ֤מְתִּי]] [[H6440H\|פָנַ]][[H9020\|י֙]] [[H9004\|כַּֽ]][[H2496\|חַלָּמִ֔ישׁ]] [[H9001\|וָ]][[H3045\|אֵדַ֖ע]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H0954\|אֵבֽוֹשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic FLINT|FLINT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.50.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.50.6|<< Isaiah 50:6]]</td><td align="center" style="border:none;">[[Isa.50|Isaiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.50.8|Isaiah 50:8 >>]]</td></tr></table>
 

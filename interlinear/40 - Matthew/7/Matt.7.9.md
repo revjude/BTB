@@ -1,10 +1,63 @@
+---
+title: Matthew 7:9
+type: Verse
+kjv: "Or what man is there of you, whom if his son ask bread, will he give him a stone?"
+bsb: "Which of you, if his son asks for bread, will give him a stone?"
+jesus_said: "Or what man is there of you, whom if his son ask bread, will he give him a stone?"
+greek: "Ἢ τίς ἐστιν ἐξ ὑμῶν ἄνθρωπος ὃν ἐὰν αἰτήσει ὁ υἱὸς αὐτοῦ ἄρτον, μὴ λίθον ἐπιδώσει αὐτῷ;"
+pericope: "[[Matt.7.7 Ask, Seek, Knock|Ask, Seek, Knock]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 7
+book/chapter: "[[Matt.7|Matthew 7]]"
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G2228]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G0444]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G0154]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G0740]]"
+- "[[G3361]]"
+- "[[G3037]]"
+- "[[G1929]]"
+texts:
+- NKO
+- K
+- N(K)O
+---
+
 **Matthew 7:9**<big><big>[[Matt.7.7 Ask, Seek, Knock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Or what man is there of you, whom if his son ask bread, will he give him a stone?
 <small><sub>**BSB:**</sub></small>
 Which of you, if his son asks for bread, will give him a stone?
-<small><sub>**Literal:**</sub></small>
-Or which is of you a man whom if he will ask for the son of him bread, surely not a stone will he give to him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.8|<< Matthew 7:8]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.10|Matthew 7:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|Ἢ]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G0444\|ἄνθρωπος]]  [[G3739\|ὃν]]  [[G1437\|ἐὰν]]  [[G0154\|αἰτήσει]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G0846\|αὐτοῦ]]  [[G0740\|ἄρτον,]]  [[G3361\|μὴ]]  [[G3037\|λίθον]]  [[G1929\|ἐπιδώσει]]  [[G0846\|αὐτῷ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.8|<< Matthew 7:8]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.10|Matthew 7:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

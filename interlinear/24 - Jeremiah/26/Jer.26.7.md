@@ -1,8 +1,63 @@
+---
+title: Jeremiah 26:7
+type: Verse
+kjv: "So the priests and the prophets and all the people heard Jeremiah speaking these words in the house of the LORD."
+bsb: "Now the priests and prophets and all the people heard Jeremiah speaking these words in the house of the LORD,"
+hebrew: "וַֽיִּשְׁמְע֛וּ הַכֹּהֲנִ֥ים וְהַנְּבִאִ֖ים וְכָל־ הָעָ֑ם אֶֽת־ יִרְמְיָ֔הוּ מְדַבֵּ֛ר אֶת־ הַדְּבָרִ֥ים הָאֵ֖לֶּה בְּבֵ֥ית יְהוָֽה׃"
+pericope: "[[Jer.26.7 Jeremiah Threatened with Death|Jeremiah Threatened with Death]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H5030]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H3414L]]"
+- "[[H1696G]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 26:7**<big><big>[[Jer.26.7 Jeremiah Threatened with Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the priests and the prophets and all the people heard Jeremiah speaking these words in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 Now the priests and prophets and all the people heard Jeremiah speaking these words in the house of the LORD,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H8085G\|יִּשְׁמְע֛וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֥ים]] [[H9002\|וְ]][[H9009\|הַ]][[H5030\|נְּבִאִ֖ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H1696G\|מְדַבֵּ֛ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.6|<< Jeremiah 26:6]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.8|Jeremiah 26:8 >>]]</td></tr></table>
 

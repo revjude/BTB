@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joash Repairs the Temple
+type: Pericope
 pericope: "[[2Kgs.12.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 12
 book/chapter: "[[2Kgs.12|2 Kings 12]]"
-genre:
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 16
 verses:
 - "[[2Kgs.12.1]]"
 - "[[2Kgs.12.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[2Kgs.12.16]]"
 ---
 
-[[2Kgs.12|2 Kings 12:1 - 2 Kings 12:16]]
+<small>[[2Kgs.12|2 Kings 12:1-16]]</small>
 *Joash Repairs the Temple*
 
 [[2Kgs.12.1|1]] In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother’s name \[was\] Zibiah of Beersheba.

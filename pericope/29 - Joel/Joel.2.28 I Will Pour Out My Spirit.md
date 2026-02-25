@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: I Will Pour Out My Spirit
+type: Pericope
 pericope: "[[Joel.2.28 I Will Pour Out My Spirit|I Will Pour Out My Spirit]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Joel
 chapter: 2
 book/chapter: "[[Joel.2|Joel 2]]"
-genre:
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 5
 verses:
 - "[[Joel.2.28]]"
 - "[[Joel.2.29]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Joel.2.32]]"
 ---
 
-[[Joel.2|Joel 2:28 - Joel 2:32]]
+<small>[[Joel.2|Joel 2:28-32]]</small>
 *I Will Pour Out My Spirit*
 
 [[Joel.2.28|28]] And it shall come to pass afterward, \[that\] I will pour out my spirit upon all flesh; and your sons and your daughters shall prophesy, your old men shall dream dreams, your young men shall see visions:

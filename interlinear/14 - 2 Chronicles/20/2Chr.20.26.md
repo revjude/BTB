@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 20:26
+type: Verse
+kjv: "And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same place was called, The valley of Berachah, unto this day."
+bsb: "On the fourth day they assembled in the Valley of Beracah, where they blessed the LORD. Therefore that place is called the Valley of Beracah to this day."
+hebrew: "וּבַיּ֣וֹם הָרְבִעִ֗י נִקְהֲלוּ֙ לְעֵ֣מֶק בְּרָכָ֔ה כִּי־ שָׁ֖ם בֵּרֲכ֣וּ אֶת־ יְהוָ֑ה עַל־ כֵּ֡ן קָֽרְא֞וּ אֶת־ שֵׁ֨ם הַמָּק֥וֹם הַה֛וּא עֵ֥מֶק בְּרָכָ֖ה עַד־ הַיּֽוֹם׃"
+pericope: "[[2Chr.20.26 The Joyful Return|The Joyful Return]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 20
+book/chapter: "[[2Chr.20|2 Chronicles 20]]"
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BERACHAH|BERACHAH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117L]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H6950]]"
+- "[[H9005]]"
+- "[[H6010H]]"
+- "[[H1294H]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H4725]]"
+- "[[H1931]]"
+- "[[H5704]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 20:26**<big><big>[[2Chr.20.26 The Joyful Return|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same place was called, The valley of Berachah, unto this day.
 <small><sub>**BSB:**</sub></small>
 On the fourth day they assembled in the Valley of Beracah, where they blessed the LORD. Therefore that place is called the Valley of Beracah to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הָ]][[H7243\|רְבִעִ֗י]] [[H6950\|נִקְהֲלוּ֙]] [[H9005\|לְ]][[H6010H\|עֵ֣מֶק]] [[H1294H\|בְּרָכָ֔ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H8033G\|שָׁ֖ם]] [[H1288\|בֵּרֲכ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֡ן]] [[H7121H\|קָֽרְא֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֨ם]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H1931\|ה֛וּא]] [[H6010H\|עֵ֥מֶק]] [[H1294H\|בְּרָכָ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERACHAH|BERACHAH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic PRAYER|PRAYER]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.20.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.20.25|<< 2 Chronicles 20:25]]</td><td align="center" style="border:none;">[[2Chr.20|2 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.20.27|2 Chronicles 20:27 >>]]</td></tr></table>
 

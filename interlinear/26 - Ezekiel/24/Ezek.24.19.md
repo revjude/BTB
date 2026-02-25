@@ -1,8 +1,63 @@
+---
+title: Ezekiel 24:19
+type: Verse
+kjv: "And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so?"
+bsb: "Then the people asked me, “Won’t you tell us what these things you are doing mean to us?”"
+hebrew: "וַיֹּאמְר֥וּ אֵלַ֖י הָעָ֑ם הֲלֹֽא־ תַגִּ֥יד לָ֙נוּ֙ מָה־ אֵ֣לֶּה לָּ֔נוּ כִּ֥י אַתָּ֖ה עֹשֶֽׂה׃"
+pericope: "[[Ezek.24.15 Ezekiel’s Wife Dies|Ezekiel’s Wife Dies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H4100]]"
+- "[[H0428]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:19**<big><big>[[Ezek.24.15 Ezekiel’s Wife Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people said unto me, Wilt thou not tell us what these [things are] to us, that thou doest [so]?
 <small><sub>**BSB:**</sub></small>
 Then the people asked me, “Won’t you tell us what these things you are doing mean to us?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֥וּ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9008\|הֲ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5046\|תַגִּ֥יד]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H4100\|מָה]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]] [[H9005\|לָּ֔]][[H9035\|נוּ]] [[H3588A\|כִּ֥י]] [[H0859A\|אַתָּ֖ה]] [[H6213A\|עֹשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.18|<< Ezekiel 24:18]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.20|Ezekiel 24:20 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Isaiah 15:3
+type: Verse
+kjv: "In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly."
+bsb: "In its streets they wear sackcloth; on the rooftops and in the public squares they all wail, falling down weeping."
+hebrew: "בְּחוּצֹתָ֖יו חָ֣גְרוּ שָׂ֑ק עַ֣ל גַּגּוֹתֶ֧יהָ וּבִרְחֹבֹתֶ֛יהָ כֻּלֹּ֥ה יְיֵלִ֖יל יֹרֵ֥ד בַּבֶּֽכִי׃"
+pericope: "[[Isa.15.1 The Burden against Moab|The Burden against Moab]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 15
+book/chapter: "[[Isa.15|Isaiah 15]]"
+chronological_order: 632
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+strongs:
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H9023]]"
+- "[[H2296]]"
+- "[[H8242]]"
+- "[[H5921A]]"
+- "[[H1406]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H7339]]"
+- "[[H3605]]"
+- "[[H3213]]"
+- "[[H3381]]"
+- "[[H1065]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 15:3**<big><big>[[Isa.15.1 The Burden against Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly.
 <small><sub>**BSB:**</sub></small>
 In its streets they wear sackcloth; on the rooftops and in the public squares they all wail, falling down weeping.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2351\|חוּצֹתָ֖י]][[H9023\|ו]] [[H2296\|חָ֣גְרוּ]] [[H8242\|שָׂ֑ק]] [[H5921A\|עַ֣ל]] [[H1406\|גַּגּוֹתֶ֧י]][[H9024\|הָ]] [[H9002\|וּ]][[H9003\|בִ]][[H7339\|רְחֹבֹתֶ֛י]][[H9024\|הָ]] [[H3605\|כֻּלֹּ֥]][[H9023\|ה]] [[H3213\|יְיֵלִ֖יל]] [[H3381\|יֹרֵ֥ד]] [[H9003\|בַּ]][[H1065\|בֶּֽכִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic SACKCLOTH|SACKCLOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.15.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.15.2|<< Isaiah 15:2]]</td><td align="center" style="border:none;">[[Isa.15|Isaiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.4|Isaiah 15:4 >>]]</td></tr></table>
 

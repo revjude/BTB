@@ -1,10 +1,61 @@
+---
+title: Titus 1:9
+type: Verse
+kjv: "Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers."
+bsb: "He must hold firmly to the faithful word as it was taught, so that he can encourage others by sound teaching and refute those who contradict it."
+greek: "ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου, ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ καὶ τοὺς ἀντιλέγοντας ἐλέγχειν.¶"
+pericope: "[[Titus.1.5 Appointing Elders on Crete|Appointing Elders on Crete]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 1
+book/chapter: "[[Titus.1|Titus 1]]"
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BISHOP|BISHOP]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+strongs:
+- "[[G0472]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G1322]]"
+- "[[G4103]]"
+- "[[G3056]]"
+- "[[G2443]]"
+- "[[G1415]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G1722]]"
+- "[[G1319]]"
+- "[[G5198]]"
+- "[[G0483]]"
+- "[[G1651]]"
+texts:
+- NKO
+---
+
 **Titus 1:9**<big><big>[[Titus.1.5 Appointing Elders on Crete|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.
 <small><sub>**BSB:**</sub></small>
 He must hold firmly to the faithful word as it was taught, so that he can encourage others by sound teaching and refute those who contradict it.
-<small><sub>**Literal:**</sub></small>
-holding <the> according to the teaching of [the] faithful word, that able he may be both to encourage with <the> teaching <the> sound and those contradicting [it] to convict.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.8|<< Titus 1:8]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.10|Titus 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0472\|ἀντεχόμενον]]  [[G3588\|τοῦ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G1322\|διδαχὴν]]  [[G4103\|πιστοῦ]]  [[G3056\|λόγου,]]  [[G2443\|ἵνα]]  [[G1415\|δυνατὸς]]  [[G1510\|ᾖ]]  [[G2532\|καὶ]]  [[G3870\|παρακαλεῖν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1319\|διδασκαλίᾳ]]  [[G3588\|τῇ]]  [[G5198\|ὑγιαινούσῃ]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G0483\|ἀντιλέγοντας]]  [[G1651\|ἐλέγχειν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BISHOP|BISHOP]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic ELDER|ELDER]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.8|<< Titus 1:8]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.10|Titus 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

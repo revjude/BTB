@@ -1,9 +1,83 @@
+---
+title: LXX Nehemiah 6:1
+type: Verse
+lxx: "And it came to pass as Sanballat heard, and  Tobiah, and  Geshem the Arabian, and the rest  of our enemies, that I built the wall, that there was no breach left in it; (and indeed until  that time I did not set up the doors in the gates)"
+greek: "και εγένετο καθώς ηκούσθη τω Σαναβαλάτ και τω Τωβία και τω Γησάμ τω Αραβί και τοις καταλοίποις των εχθρών ημών ότι ωκοδόμησα το τείχος και ου κατελείφθη εν αυτώ διακοπή και γε έως του καιρού εκείνου θύρας ουκ επέστησα εν ταις πύλαις"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 6
+book/chapter: "[[Neh.6|Nehemiah 6]]"
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GASHMU|GASHMU]]"
+- "[[topic GESHEM|GESHEM]]"
+- "[[topic TOBIAH|TOBIAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G2531]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[H5571]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H2900]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[H1654]]"
+- "[[G3588]]"
+- "[[G0690]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2645]]"
+- "[[G3588]]"
+- "[[G2190]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G3618]]"
+- "[[G3588]]"
+- "[[G5038]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2641]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G6838]]"
+- "[[G2532]]"
+- "[[G1065]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1565]]"
+- "[[G2374]]"
+- "[[G3756]]"
+- "[[G2186]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4439]]"
+---
+
 **LXX Nehemiah 6:1** 
 
 ***Sanballat Attempts to Deceive Nehemiah***
 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as Sanballat heard, and  Tobiah, and  Geshem the Arabian, and the rest  of our enemies, that I built the wall, that there was no breach left in it; (and indeed until  that time I did not set up \[the\] doors in the gates) 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G2531\|καθώς]] [[G0191\|ηκούσθη]] [[G3588\|τω]] [[H5571\|Σαναβαλάτ]] [[G2532\|και]] [[G3588\|τω]] [[H2900\|Τωβία]] [[G2532\|και]] [[G3588\|τω]] [[H1654\|Γησάμ]] [[G3588\|τω]] [[G0690\|Αραβί]] [[G2532\|και]] [[G3588\|τοις]] [[G2645\|καταλοίποις]] [[G3588\|των]] [[G2190\|εχθρών]] [[G1473\|ημών]] [[G3754\|ότι]] [[G3618\|ωκοδόμησα]] [[G3588\|το]] [[G5038\|τείχος]] [[G2532\|και]] [[G3756\|ου]] [[G2641\|κατελείφθη]] [[G1722\|εν]] [[G1473\|αυτώ]] [[G6838\|διακοπή]] [[G2532\|και]] [[G1065\|γε]] [[G2193\|έως]] [[G3588\|του]] [[G2540\|καιρού]] [[G1565\|εκείνου]] [[G2374\|θύρας]] [[G3756\|ουκ]] [[G2186\|επέστησα]] [[G1722\|εν]] [[G3588\|ταις]] [[G4439\|πύλαις]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GASHMU|GASHMU]] • [[topic GESHEM|GESHEM]] • [[topic TOBIAH|TOBIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.19|<< Nehemiah 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.2|Nehemiah 6:2 >>]]</td></tr></table>
 
@@ -47,6 +121,6 @@ And it came to pass as Sanballat heard, and  Tobiah, and  Geshem the Arabian, an
 | in | **<big>[[G1722\|εν]]</big>** |
 | the | **<big>[[G3588\|ταις]]</big>** |
 | gates) | **<big>[[G4439\|πύλαις]]</big>** |
-[[Neh.6.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.19|<< Nehemiah 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.2|Nehemiah 6:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.5.19|<< Nehemiah 5:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.6.2|Nehemiah 6:2 >>]]</td></tr></table>
 
 

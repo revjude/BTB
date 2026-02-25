@@ -1,8 +1,60 @@
+---
+title: Ezekiel 30:20
+type: Verse
+kjv: "And it came to pass in the eleventh year, in the first month, in the seventh day of the month, that the word of the LORD came unto me, saying,"
+bsb: "In the eleventh year, on the seventh day of the first month, the word of the LORD came to me, saying,"
+hebrew: "וַיְהִ֗י בְּאַחַ֤ת עֶשְׂרֵה֙ שָׁנָ֔ה בָּֽרִאשׁ֖וֹן בְּשִׁבְעָ֣ה לַחֹ֑דֶשׁ הָיָ֥ה דְבַר־ יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃"
+pericope: "[[Ezek.30.20 Pharaoh’s Power Broken|Pharaoh’s Power Broken]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0259]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H7223G]]"
+- "[[H7651]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:20**<big><big>[[Ezek.30.20 Pharaoh’s Power Broken|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the eleventh year, in the first [month], in the seventh [day] of the month, [that] the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
 In the eleventh year, on the seventh day of the first month, the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בְּ]][[H0259\|אַחַ֤ת]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H9003\|בָּֽ]][[H7223G\|רִאשׁ֖וֹן]] [[H9003\|בְּ]][[H7651\|שִׁבְעָ֣ה]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H1961\|הָיָ֥ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.19|<< Ezekiel 30:19]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.21|Ezekiel 30:21 >>]]</td></tr></table>
 

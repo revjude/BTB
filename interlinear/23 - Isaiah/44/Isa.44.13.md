@@ -1,8 +1,68 @@
+---
+title: Isaiah 44:13
+type: Verse
+kjv: "The carpenter stretcheth out his rule; he marketh it out with a line; he fitteth it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house."
+bsb: "The woodworker extends a measuring line; he marks it out with a stylus; he shapes it with chisels and outlines it with a compass. He fashions it in the likeness of man, like man in all his glory, that it may dwell in a shrine."
+hebrew: "חָרַ֣שׁ עֵצִים֮ נָ֣טָה קָו֒ יְתָאֲרֵ֣הוּ בַשֶּׂ֔רֶד יַעֲשֵׂ֙הוּ֙ בַּמַּקְצֻע֔וֹת וּבַמְּחוּגָ֖ה יְתָאֳרֵ֑הוּ וַֽיַּעֲשֵׂ֙הוּ֙ כְּתַבְנִ֣ית אִ֔ישׁ כְּתִפְאֶ֥רֶת אָדָ֖ם לָשֶׁ֥בֶת בָּֽיִת׃"
+pericope: "[[Isa.44.1 The LORD Has Chosen Israel|The LORD Has Chosen Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CARPENTRY|CARPENTRY]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic COMPASSES|COMPASSES]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PLANE|PLANE]]"
+strongs:
+- "[[H2796]]"
+- "[[H6086K]]"
+- "[[H5186]]"
+- "[[H6957B]]"
+- "[[H8388B]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8279]]"
+- "[[H6213H]]"
+- "[[H4741]]"
+- "[[H9002]]"
+- "[[H4230]]"
+- "[[H9001]]"
+- "[[H9004]]"
+- "[[H8403]]"
+- "[[H0376G]]"
+- "[[H8597]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H1004Q]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 44:13**<big><big>[[Isa.44.1 The LORD Has Chosen Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The carpenter stretcheth out [his] rule; he marketh it out with a line; he fitteth it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house.
 <small><sub>**BSB:**</sub></small>
 The woodworker extends a measuring line; he marks it out with a stylus; he shapes it with chisels and outlines it with a compass. He fashions it in the likeness of man, like man in all his glory, that it may dwell in a shrine.
+<small><sub>**Hebrew:**</sub></small>
+[[H2796\|חָרַ֣שׁ]] [[H6086K\|עֵצִים֮]] [[H5186\|נָ֣טָה]] [[H6957B\|קָו֒]] [[H8388B\|יְתָאֲרֵ֣]][[H9033\|הוּ]] [[H9003\|בַ]][[H8279\|שֶּׂ֔רֶד]] [[H6213H\|יַעֲשֵׂ֙]][[H9033\|הוּ֙]] [[H9003\|בַּ]][[H4741\|מַּקְצֻע֔וֹת]] [[H9002\|וּ]][[H9003\|בַ]][[H4230\|מְּחוּגָ֖ה]] [[H8388B\|יְתָאֳרֵ֑]][[H9033\|הוּ]] [[H9001\|וַֽ]][[H6213H\|יַּעֲשֵׂ֙]][[H9033\|הוּ֙]] [[H9004\|כְּ]][[H8403\|תַבְנִ֣ית]] [[H0376G\|אִ֔ישׁ]] [[H9004\|כְּ]][[H8597\|תִפְאֶ֥רֶת]] [[H0120G\|אָדָ֖ם]] [[H9005\|לָ]][[H3427\|שֶׁ֥בֶת]] [[H1004Q\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARPENTRY|CARPENTRY]] • [[topic CARVING|CARVING]] • [[topic COMPASSES|COMPASSES]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PLANE|PLANE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.12|<< Isaiah 44:12]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.44.14|Isaiah 44:14 >>]]</td></tr></table>
 

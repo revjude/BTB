@@ -1,8 +1,64 @@
+---
+title: 2 Kings 19:21
+type: Verse
+kjv: "This is the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, and laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee."
+bsb: "This is the word that the LORD has spoken against him: ‘The Virgin Daughter of Zion despises you and mocks you; the Daughter of Jerusalem shakes her head behind you."
+hebrew: "זֶ֣ה הַדָּבָ֔ר אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה עָלָ֑יו בָּזָ֨ה לְךָ֜ לָעֲגָ֣ה לְךָ֗ בְּתוּלַת֙ בַּת־ צִיּ֔וֹן אַחֲרֶ֙יךָ֙ רֹ֣אשׁ הֵנִ֔יעָה בַּ֖ת יְרוּשָׁלִָֽם׃"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0959]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3932]]"
+- "[[H1330]]"
+- "[[H1323G]]"
+- "[[H6726]]"
+- "[[H0310A]]"
+- "[[H7218A]]"
+- "[[H5128]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:21**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised thee, [and] laughed thee to scorn; the daughter of Jerusalem hath shaken her head at thee.
 <small><sub>**BSB:**</sub></small>
 This is the word that the LORD has spoken against him: ‘The Virgin Daughter of Zion despises you and mocks you; the Daughter of Jerusalem shakes her head behind you.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֣ה]] [[H9009\|הַ]][[H1697G\|דָּבָ֔ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H0959\|בָּזָ֨ה]] [[H9005\|לְ]][[H9031\|ךָ֜]] [[H3932\|לָעֲגָ֣ה]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H1330\|בְּתוּלַת֙]] [[H1323G\|בַּת]][[H9014\|־]] [[H6726\|צִיּ֔וֹן]] [[H0310A\|אַחֲרֶ֙י]][[H9031\|ךָ֙]] [[H7218A\|רֹ֣אשׁ]] [[H5128\|הֵנִ֔יעָה]] [[H1323G\|בַּ֖ת]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.20|<< 2 Kings 19:20]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.22|2 Kings 19:22 >>]]</td></tr></table>
 

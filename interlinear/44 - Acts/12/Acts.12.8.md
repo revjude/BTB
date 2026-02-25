@@ -1,10 +1,68 @@
+---
+title: Acts 12:8
+type: Verse
+kjv: "And the angel said unto him, Gird thyself, and bind on thy sandals. And so he did. And he saith unto him, Cast thy garment about thee, and follow me."
+bsb: "“Get dressed and put on your sandals,” said the angel. Peter did so, and the angel told him, “Wrap your cloak around you and follow me.”"
+greek: "εἶπεν δὲ ὁ ἄγγελος πρὸς αὐτόν· ζῶσαι καὶ ὑπόδησαι τὰ σανδάλιά σου. ἐποίησεν δὲ οὕτως. καὶ λέγει αὐτῷ· περιβαλοῦ τὸ ἱμάτιόν σου καὶ ἀκολούθει μοι."
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2224]]"
+- "[[G2532]]"
+- "[[G5265]]"
+- "[[G4547]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+- "[[G3779]]"
+- "[[G3004G]]"
+- "[[G4016]]"
+- "[[G2440]]"
+- "[[G0190]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 12:8**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the angel said unto him, Gird thyself, and bind on thy sandals. And so he did. And he saith unto him, Cast thy garment about thee, and follow me.
 <small><sub>**BSB:**</sub></small>
 “Get dressed and put on your sandals,” said the angel. Peter did so, and the angel told him, “Wrap your cloak around you and follow me.”
-<small><sub>**Literal:**</sub></small>
-Said then the angel to him; do dress yourself and do yourself put on the sandals of you. He did and so. And he says to him; do yourself wrap around the cloak of you and do follow me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.7|<< Acts 12:7]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.9|Acts 12:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G2224\|ζῶσαι]]  [[G2532\|καὶ]]  [[G5265\|ὑπόδησαι]]  [[G3588\|τὰ]]  [[G4547\|σανδάλιά]]  [[G4771\|σου.]]  [[G4160G\|ἐποίησεν]]  [[G1161\|δὲ]]  [[G3779\|οὕτως.]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ·]]  [[G4016\|περιβαλοῦ]]  [[G3588\|τὸ]]  [[G2440\|ἱμάτιόν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G0190\|ἀκολούθει]]  [[G3165\|μοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.7|<< Acts 12:7]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.9|Acts 12:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: 1 Samuel 1:13
+type: Verse
+kjv: "Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken."
+bsb: "Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk"
+hebrew: "וְחַנָּ֗ה הִ֚יא מְדַבֶּ֣רֶת עַל־ לִבָּ֔הּ רַ֚ק שְׂפָתֶ֣יהָ נָּע֔וֹת וְקוֹלָ֖הּ לֹ֣א יִשָּׁמֵ֑עַ וַיַּחְשְׁבֶ֥הָ עֵלִ֖י לְשִׁכֹּרָֽה׃"
+pericope: "[[1Sam.1.9 Hannah Prays for a Son|Hannah Prays for a Son]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic HEART|HEART]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2584]]"
+- "[[H1931]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9024]]"
+- "[[H7535]]"
+- "[[H8193G]]"
+- "[[H5128]]"
+- "[[H6963A]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9001]]"
+- "[[H2803J]]"
+- "[[H9034]]"
+- "[[H5941]]"
+- "[[H9005]]"
+- "[[H7910]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:13**<big><big>[[1Sam.1.9 Hannah Prays for a Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.
 <small><sub>**BSB:**</sub></small>
 Hannah was praying in her heart, and though her lips were moving, her voice could not be heard. So Eli thought she was drunk
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2584\|חַנָּ֗ה]] [[H1931\|הִ֚יא]] [[H1696G\|מְדַבֶּ֣רֶת]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לִבָּ֔]][[H9024\|הּ]] [[H7535\|רַ֚ק]] [[H8193G\|שְׂפָתֶ֣י]][[H9024\|הָ]] [[H5128\|נָּע֔וֹת]] [[H9002\|וְ]][[H6963A\|קוֹלָ֖]][[H9024\|הּ]] [[H3808\|לֹ֣א]] [[H8085G\|יִשָּׁמֵ֑עַ]] [[H9001\|וַ]][[H2803J\|יַּחְשְׁבֶ֥]][[H9034\|הָ]] [[H5941\|עֵלִ֖י]] [[H9005\|לְ]][[H7910\|שִׁכֹּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic CHILDREN|CHILDREN]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic HANNAH|HANNAH]] • [[topic HEART|HEART]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PRAYER|PRAYER]] • [[topic SAMUEL|SAMUEL]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.12|<< 1 Samuel 1:12]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.14|1 Samuel 1:14 >>]]</td></tr></table>
 

@@ -1,10 +1,66 @@
+---
+title: Luke 23:11
+type: Verse
+kjv: "And Herod with his men of war set him at nought, and mocked him, and arrayed him in a gorgeous robe, and sent him again to Pilate."
+bsb: "And even Herod and his soldiers ridiculed and mocked Him. Dressing Him in a fine robe, they sent Him back to Pilate."
+greek: "ἐξουθενήσας δὲ αὐτὸν καὶ ὁ Ἡρῴδης σὺν τοῖς στρατεύμασιν αὐτοῦ καὶ ἐμπαίξας, περιβαλὼν αὐτὸν ἐσθῆτα λαμπρὰν ἀνέπεμψεν αὐτὸν τῷ Πιλάτῳ."
+pericope: "[[Luke.23.6 Jesus before Herod|Jesus before Herod]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HEROD|HEROD]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G1848]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2264H]]"
+- "[[G4862]]"
+- "[[G4753]]"
+- "[[G1702]]"
+- "[[G4016]]"
+- "[[G2066]]"
+- "[[G2986]]"
+- "[[G0375]]"
+- "[[G4091]]"
+texts:
+- NKO
+- no
+- ko
+---
+
 **Luke 23:11**<big><big>[[Luke.23.6 Jesus before Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Herod with his men of war set him at nought, and mocked [him], and arrayed him in a gorgeous robe, and sent him again to Pilate.
 <small><sub>**BSB:**</sub></small>
 And even Herod and his soldiers ridiculed and mocked Him. Dressing Him in a fine robe, they sent Him back to Pilate.
-<small><sub>**Literal:**</sub></small>
-Having set at naught then Him also <the> Herod with the troops of him and having mocked [and] having put on Him apparel splendid, sent back Him <the> to Pilate.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.10|<< Luke 23:10]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.12|Luke 23:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1848\|ἐξουθενήσας]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2264H\|Ἡρῴδης]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G4753\|στρατεύμασιν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1702\|ἐμπαίξας,]]  [[G4016\|περιβαλὼν]]  [[G0846\|αὐτὸν]]  [[G2066\|ἐσθῆτα]]  [[G2986\|λαμπρὰν]]  [[G0375\|ἀνέπεμψεν]]  [[G0846\|αὐτὸν]]  [[G3588\|τῷ]]  [[G4091\|Πιλάτῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEROD|HEROD]] • [[topic IRONY|IRONY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALICE|MALICE]] • [[topic MOCKING|MOCKING]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RULERS|RULERS]] • [[topic SARCASM|SARCASM]] • [[topic SCOFFING|SCOFFING]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.10|<< Luke 23:10]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.12|Luke 23:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

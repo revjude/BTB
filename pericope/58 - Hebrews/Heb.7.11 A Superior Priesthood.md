@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Superior Priesthood
+type: Pericope
 pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 7
 book/chapter: "[[Heb.7|Hebrews 7]]"
-genre:
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 18
 verses:
 - "[[Heb.7.11]]"
 - "[[Heb.7.12]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Heb.7.28]]"
 ---
 
-[[Heb.7|Hebrews 7:11 - Hebrews 7:28]]
+<small>[[Heb.7|Hebrews 7:11-28]]</small>
 *A Superior Priesthood*
 
 [[Heb.7.11|11]] If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need \[was there\] that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?

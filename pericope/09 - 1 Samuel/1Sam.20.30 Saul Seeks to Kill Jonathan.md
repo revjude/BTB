@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul Seeks to Kill Jonathan
+type: Pericope
 pericope: "[[1Sam.20.30 Saul Seeks to Kill Jonathan|Saul Seeks to Kill Jonathan]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 20
 book/chapter: "[[1Sam.20|1 Samuel 20]]"
-genre:
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 13
 verses:
 - "[[1Sam.20.30]]"
 - "[[1Sam.20.31]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Sam.20.42]]"
 ---
 
-[[1Sam.20|1 Samuel 20:30 - 1 Samuel 20:42]]
+<small>[[1Sam.20|1 Samuel 20:30-42]]</small>
 *Saul Seeks to Kill Jonathan*
 
 [[1Sam.20.30|30]] Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious \[woman\], do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness?

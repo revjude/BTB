@@ -1,8 +1,59 @@
+---
+title: Daniel 11:7
+type: Verse
+kjv: "But out of a branch of her roots shall one stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:"
+bsb: "But one from her family line will rise up in his place, come against the army of the king of the North, and enter his fortress, fighting and prevailing."
+hebrew: "וְעָמַ֛ד מִנֵּ֥צֶר שָׁרָשֶׁ֖יהָ כַּנּ֑וֹ וְיָבֹ֣א אֶל־ הַחַ֗יִל וְיָבֹא֙ בְּמָעוֹז֙ מֶ֣לֶךְ הַצָּפ֔וֹן וְעָשָׂ֥ה בָהֶ֖ם וְהֶחֱזִֽיק׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9001]]"
+- "[[H5975I]]"
+- "[[H9006]]"
+- "[[H5342]]"
+- "[[H8328]]"
+- "[[H9024]]"
+- "[[H3653]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2428A]]"
+- "[[H9003]]"
+- "[[H4581]]"
+- "[[H4428G]]"
+- "[[H6828G]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H2388J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:7**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But out of a branch of her roots shall [one] stand up in his estate, which shall come with an army, and shall enter into the fortress of the king of the north, and shall deal against them, and shall prevail:
 <small><sub>**BSB:**</sub></small>
 But one from her family line will rise up in his place, come against the army of the king of the North, and enter his fortress, fighting and prevailing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5975I\|עָמַ֛ד]] [[H9006\|מִ]][[H5342\|נֵּ֥צֶר]] [[H8328\|שָׁרָשֶׁ֖י]][[H9024\|הָ]] [[H3653\|כַּנּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0935G\|יָבֹ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2428A\|חַ֗יִל]] [[H9002\|וְ]][[H0935G\|יָבֹא֙]] [[H9003\|בְּ]][[H4581\|מָעוֹז֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H6828G\|צָּפ֔וֹן]] [[H9001\|וְ]][[H6213A\|עָשָׂ֥ה]] [[H9003\|בָ]][[H9038\|הֶ֖ם]] [[H9001\|וְ]][[H2388J\|הֶחֱזִֽיק]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.6|<< Daniel 11:6]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.8|Daniel 11:8 >>]]</td></tr></table>
 

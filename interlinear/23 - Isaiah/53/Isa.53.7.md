@@ -1,8 +1,66 @@
+---
+title: Isaiah 53:7
+type: Verse
+kjv: "He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth."
+bsb: "He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so He did not open His mouth."
+hebrew: "נִגַּ֨שׂ וְה֣וּא נַעֲנֶה֮ וְלֹ֣א יִפְתַּח־ פִּיו֒ כַּשֶּׂה֙ לַטֶּ֣בַח יוּבָ֔ל וּכְרָחֵ֕ל לִפְנֵ֥י גֹזְזֶ֖יהָ נֶאֱלָ֑מָה וְלֹ֥א יִפְתַּ֖ח פִּֽיו׃"
+pericope: "[[Isa.53.1 The Suffering Servant|The Suffering Servant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 53
+book/chapter: "[[Isa.53|Isaiah 53]]"
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SHEEP|SHEEP]]"
+strongs:
+- "[[H5065]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6031B]]"
+- "[[H3808]]"
+- "[[H6605A]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H7716]]"
+- "[[H9005]]"
+- "[[H2874]]"
+- "[[H2986]]"
+- "[[H7353]]"
+- "[[H6440G]]"
+- "[[H1494]]"
+- "[[H9034]]"
+- "[[H0481]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 53:7**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He was oppressed, and he was afflicted, yet he opened not his mouth: he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb, so he openeth not his mouth.
 <small><sub>**BSB:**</sub></small>
 He was oppressed and afflicted, yet He did not open His mouth. He was led like a lamb to the slaughter, and as a sheep before her shearers is silent, so He did not open His mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H5065\|נִגַּ֨שׂ]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H6031B\|נַעֲנֶה֮]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6605A\|יִפְתַּח]][[H9014\|־]] [[H6310G\|פִּי]][[H9023\|ו֒]] [[H9004\|כַּ]][[H7716\|שֶּׂה֙]] [[H9005\|לַ]][[H2874\|טֶּ֣בַח]] [[H2986\|יוּבָ֔ל]] [[H9002\|וּ]][[H9004\|כְ]][[H7353\|רָחֵ֕ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H1494\|גֹזְזֶ֖י]][[H9034\|הָ]] [[H0481\|נֶאֱלָ֑מָה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6605A\|יִפְתַּ֖ח]] [[H6310G\|פִּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PERSECUTION|PERSECUTION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SHEEP|SHEEP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.6|<< Isaiah 53:6]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.8|Isaiah 53:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

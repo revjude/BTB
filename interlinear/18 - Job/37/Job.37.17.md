@@ -1,8 +1,57 @@
+---
+title: Job 37:17
+type: Verse
+kjv: "How thy garments are warm, when he quieteth the earth by the south wind?"
+bsb: "You whose clothes get hot when the land lies hushed under the south wind,"
+hebrew: "אֲשֶׁר־ בְּגָדֶ֥יךָ חַמִּ֑ים בְּהַשְׁקִ֥ט אֶ֝֗רֶץ מִדָּרֽוֹם׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WEATHER|WEATHER]]"
+- "[[topic WIND|WIND]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H9021]]"
+- "[[H2525]]"
+- "[[H9003]]"
+- "[[H8252]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H1864]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:17**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How thy garments [are] warm, when he quieteth the earth by the south [wind]?
 <small><sub>**BSB:**</sub></small>
 You whose clothes get hot when the land lies hushed under the south wind,
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0899B\|בְּגָדֶ֥י]][[H9021\|ךָ]] [[H2525\|חַמִּ֑ים]] [[H9003\|בְּ]][[H8252\|הַשְׁקִ֥ט]] [[H0776G\|אֶ֝֗רֶץ]] [[H9006\|מִ]][[H1864\|דָּרֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic RELIGION|RELIGION]] • [[topic WEATHER|WEATHER]] • [[topic WIND|WIND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.37.16|<< Job 37:16]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.18|Job 37:18 >>]]</td></tr></table>
 

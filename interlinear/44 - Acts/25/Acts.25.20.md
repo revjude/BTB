@@ -1,10 +1,57 @@
+---
+title: Acts 25:20
+type: Verse
+kjv: "And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there be judged of these matters."
+bsb: "Since I was at a loss as to how to investigate these matters, I asked if he was willing to go to Jerusalem and be tried there on these charges."
+greek: "ἀπορούμενος δὲ ἐγὼ εἰς τὴν περὶ τούτων ζήτησιν ἔλεγον εἰ βούλοιτο πορεύεσθαι εἰς Ἱεροσόλυμα κἀκεῖ κἀκεῖ κρίνεσθαι περὶ τούτων."
+pericope: "[[Acts.25.13 Festus Consults Agrippa|Festus Consults Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 25
+book/chapter: "[[Acts.25|Acts 25]]"
+chronological_order: 1107
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic KING|KING]]"
+strongs:
+- "[[G0639]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G3778]]"
+- "[[G2214]]"
+- "[[G3004G]]"
+- "[[G1487G]]"
+- "[[G1014]]"
+- "[[G4198]]"
+- "[[G2414]]"
+- "[[G2532]]"
+- "[[G1563]]"
+- "[[G2919]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Acts 25:20**<big><big>[[Acts.25.13 Festus Consults Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And because I doubted of such manner of questions, I asked [him] whether he would go to Jerusalem, and there be judged of these matters.
 <small><sub>**BSB:**</sub></small>
 Since I was at a loss as to how to investigate these matters, I asked if he was willing to go to Jerusalem and be tried there on these charges.
-<small><sub>**Literal:**</sub></small>
-Being perplexed now I myself into <the> concerning these inquiry was asking if he would be willing to go to Jerusalem and there to be judged concerning these things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.19|<< Acts 25:19]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.21|Acts 25:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0639\|ἀπορούμενος]]  [[G1161\|δὲ]]  [[G1473\|ἐγὼ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4012\|περὶ]]  [[G3778\|τούτων]]  [[G2214\|ζήτησιν]]  [[G3004G\|ἔλεγον]]  [[G1487G\|εἰ]]  [[G1014\|βούλοιτο]]  [[G4198\|πορεύεσθαι]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G2532\|κἀκεῖ]]  <sup><small>[[G1563\| [ • ] ]]</small></sup>  [[G2919\|κρίνεσθαι]]  [[G4012\|περὶ]]  [[G3778\|τούτων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.25.19|<< Acts 25:19]]</td><td align="center" style="border:none;">[[Acts.25|Acts 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.25.21|Acts 25:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

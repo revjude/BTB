@@ -1,10 +1,57 @@
+---
+title: Colossians 3:10
+type: Verse
+kjv: "And have put on the new man, which is renewed in knowledge after the image of him that created him:"
+bsb: "and have put on the new self, which is being renewed in knowledge in the image of its Creator."
+greek: "καὶ ἐνδυσάμενοι τὸν νέον, τὸν ἀνακαινούμενον εἰς ἐπίγνωσιν κατ᾽ εἰκόνα τοῦ κτίσαντος αὐτόν·"
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G1746]]"
+- "[[G3588]]"
+- "[[G3501]]"
+- "[[G0341]]"
+- "[[G1519]]"
+- "[[G1922]]"
+- "[[G2596]]"
+- "[[G1504]]"
+- "[[G2936]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Colossians 3:10**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And have put on the new [man], which is renewed in knowledge after the image of him that created him:
 <small><sub>**BSB:**</sub></small>
 and have put on the new self, which is being renewed in knowledge in the image of its Creator.
-<small><sub>**Literal:**</sub></small>
-and having put on the new, which is being renewed in knowledge according to [the] image of the [one who] having created him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.9|<< Colossians 3:9]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.11|Colossians 3:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1746\|ἐνδυσάμενοι]]  [[G3588\|τὸν]]  [[G3501\|νέον,]]  [[G3588\|τὸν]]  [[G0341\|ἀνακαινούμενον]]  [[G1519\|εἰς]]  [[G1922\|ἐπίγνωσιν]]  [[G2596\|κατ᾽]]  [[G1504\|εἰκόνα]]  [[G3588\|τοῦ]]  [[G2936\|κτίσαντος]]  [[G0846\|αὐτόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic HOLINESS|HOLINESS]] • [[topic IMAGE|IMAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.9|<< Colossians 3:9]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.11|Colossians 3:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Colossians 3:10** is...
 > $\quad$ alluding to: [[LXX.Gen.1.26|Gen 1:26]]

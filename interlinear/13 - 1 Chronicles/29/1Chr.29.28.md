@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 29:28
+type: Verse
+kjv: "And he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead."
+bsb: "He died at a ripe old age, full of years, riches, and honor, and his son Solomon reigned in his place."
+hebrew: "וַיָּ֙מָת֙ בְּשֵׂיבָ֣ה טוֹבָ֔ה שְׂבַ֥ע יָמִ֖ים עֹ֣שֶׁר וְכָב֑וֹד וַיִּמְלֹ֛ךְ שְׁלֹמֹ֥ה בְנ֖וֹ תַּחְתָּֽיו׃"
+pericope: "[[1Chr.29.26 David’s Reign and Death|David’s Reign and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic OLD AGE|OLD AGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H7872]]"
+- "[[H2896A]]"
+- "[[H7649]]"
+- "[[H3117G]]"
+- "[[H6239]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H4427A]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **1 Chronicles 29:28**<big><big>[[1Chr.29.26 David’s Reign and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he died in a good old age, full of days, riches, and honour: and Solomon his son reigned in his stead.
 <small><sub>**BSB:**</sub></small>
 He died at a ripe old age, full of years, riches, and honor, and his son Solomon reigned in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֙מָת֙]] [[H9003\|בְּ]][[H7872\|שֵׂיבָ֣ה]] [[H2896A\|טוֹבָ֔ה]] [[H7649\|שְׂבַ֥ע]] [[H3117G\|יָמִ֖ים]] [[H6239\|עֹ֣שֶׁר]] [[H9002\|וְ]][[H3519\|כָב֑וֹד]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H8010\|שְׁלֹמֹ֥ה]] [[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic OLD AGE|OLD AGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.27|<< 1 Chronicles 29:27]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.29|1 Chronicles 29:29 >>]]</td></tr></table>
 

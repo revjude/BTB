@@ -1,8 +1,52 @@
+---
+title: Proverbs 1:3
+type: Verse
+kjv: "To receive the instruction of wisdom, justice, and judgment, and equity;"
+bsb: "and for receiving instruction in wise living and in righteousness, justice, and equity."
+hebrew: "לָ֭קַחַת מוּסַ֣ר הַשְׂכֵּ֑ל צֶ֥דֶק וּ֝מִשְׁפָּ֗ט וּמֵישָׁרִֽים׃"
+pericope: "[[Prov.1.1 The Beginning of Knowledge|The Beginning of Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PROVERBS|PROVERBS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3947H]]"
+- "[[H4148H]]"
+- "[[H7919A]]"
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H4941H]]"
+- "[[H4339]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:3**<big><big>[[Prov.1.1 The Beginning of Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To receive the instruction of wisdom, justice, and judgment, and equity;
 <small><sub>**BSB:**</sub></small>
 and for receiving instruction in wise living and in righteousness, justice, and equity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֭]][[H3947H\|קַחַת]] [[H4148H\|מוּסַ֣ר]] [[H7919A\|הַשְׂכֵּ֑ל]] [[H6664G\|צֶ֥דֶק]] [[H9002\|וּ֝]][[H4941H\|מִשְׁפָּ֗ט]] [[H9002\|וּ]][[H4339\|מֵישָׁרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PROVERBS|PROVERBS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.2|<< Proverbs 1:2]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.4|Proverbs 1:4 >>]]</td></tr></table>
 

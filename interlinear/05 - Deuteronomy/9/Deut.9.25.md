@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 9:25
+type: Verse
+kjv: "Thus I fell down before the LORD forty days and forty nights, as I fell down at the first; because the LORD had said he would destroy you."
+bsb: "So I fell down before the LORD for forty days and forty nights, because the LORD had said He would destroy you."
+hebrew: "וָֽאֶתְנַפַּ֞ל לִפְנֵ֣י יְהוָ֗ה אֵ֣ת אַרְבָּעִ֥ים הַיּ֛וֹם וְאֶת־ אַרְבָּעִ֥ים הַלַּ֖יְלָה אֲשֶׁ֣ר הִתְנַפָּ֑לְתִּי כִּֽי־ אָמַ֥ר יְהוָ֖ה לְהַשְׁמִ֥יד אֶתְכֶֽם׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FORTY|FORTY]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H0705]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H3915]]"
+- "[[H0834A]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H8045]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:25**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus I fell down before the LORD forty days and forty nights, as I fell down [at the first]; because the LORD had said he would destroy you.
 <small><sub>**BSB:**</sub></small>
 So I fell down before the LORD for forty days and forty nights, because the LORD had said He would destroy you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָֽ]][[H5307G\|אֶתְנַפַּ֞ל]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֗ה]] [[H0853\|אֵ֣ת]] [[H0705\|אַרְבָּעִ֥ים]] [[H9009\|הַ]][[H3117G\|יּ֛וֹם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0705\|אַרְבָּעִ֥ים]] [[H9009\|הַ]][[H3915\|לַּ֖יְלָה]] [[H0834A\|אֲשֶׁ֣ר]] [[H5307G\|הִתְנַפָּ֑לְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H8045\|הַשְׁמִ֥יד]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORTY|FORTY]] • [[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.24|<< Deuteronomy 9:24]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.26|Deuteronomy 9:26 >>]]</td></tr></table>
 

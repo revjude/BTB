@@ -1,8 +1,62 @@
+---
+title: Deuteronomy 32:28
+type: Verse
+kjv: "For they are a nation void of counsel, neither is there any understanding in them."
+bsb: "Israel is a nation devoid of counsel, with no understanding among them."
+hebrew: "כִּי־ ג֛וֹי אֹבַ֥ד עֵצ֖וֹת הֵ֑מָּה וְאֵ֥ין בָּהֶ֖ם תְּבוּנָֽה׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H0006]]"
+- "[[H6098]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H8394]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:28**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they [are] a nation void of counsel, neither [is there any] understanding in them.
 <small><sub>**BSB:**</sub></small>
 Israel is a nation devoid of counsel, with no understanding among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H1471A\|ג֛וֹי]] [[H0006\|אֹבַ֥ד]] [[H6098\|עֵצ֖וֹת]] [[H1992\|הֵ֑מָּה]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H9003\|בָּ]][[H9038\|הֶ֖ם]] [[H8394\|תְּבוּנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic DEATH|DEATH]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.27|<< Deuteronomy 32:27]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.29|Deuteronomy 32:29 >>]]</td></tr></table>
 

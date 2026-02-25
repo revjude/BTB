@@ -1,8 +1,71 @@
+---
+title: Psalm 40:12
+type: Verse
+kjv: "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me."
+bsb: "For evils without number surround me; my sins have overtaken me, so that I cannot see. They are more than the hairs of my head, and my heart has failed within me."
+hebrew: "כִּ֤י אָפְפ֥וּ־ עָלַ֨י׀ רָע֡וֹת עַד־ אֵ֬ין מִסְפָּ֗ר הִשִּׂיג֣וּנִי עֲ֭וֹנֹתַי וְלֹא־ יָכֹ֣לְתִּי לִרְא֑וֹת עָצְמ֥וּ מִשַּֽׂעֲר֥וֹת רֹ֝אשִׁ֗י וְלִבִּ֥י עֲזָבָֽנִי׃"
+pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0661]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9015]]"
+- "[[H7451I]]"
+- "[[H5704]]"
+- "[[H0369]]"
+- "[[H4557]]"
+- "[[H5381]]"
+- "[[H5771G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H6105A]]"
+- "[[H9006]]"
+- "[[H8185]]"
+- "[[H7218A]]"
+- "[[H3820A]]"
+- "[[H5800A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 40:12**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.
 <small><sub>**BSB:**</sub></small>
 For evils without number surround me; my sins have overtaken me, so that I cannot see. They are more than the hairs of my head, and my heart has failed within me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0661\|אָפְפ֥וּ]][[H9014\|־]] [[H5921A\|עָלַ֨]][[H9030\|י]][[H9015\|׀]] [[H7451I\|רָע֡וֹת]] [[H5704\|עַד]][[H9014\|־]] [[H0369\|אֵ֬ין]] [[H4557\|מִסְפָּ֗ר]] [[H5381\|הִשִּׂיג֣וּ]][[H9030\|נִי]] [[H5771G\|עֲ֭וֹנֹתַ]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3201\|יָכֹ֣לְתִּי]] [[H9005\|לִ]][[H7200G\|רְא֑וֹת]] [[H6105A\|עָצְמ֥וּ]] [[H9006\|מִ]][[H8185\|שַּֽׂעֲר֥וֹת]] [[H7218A\|רֹ֝אשִׁ֗]][[H9020\|י]] [[H9002\|וְ]][[H3820A\|לִבִּ֥]][[H9020\|י]] [[H5800A\|עֲזָבָֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.11|<< Psalms 40:11]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.13|Psalms 40:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

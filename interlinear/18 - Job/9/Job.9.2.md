@@ -1,8 +1,55 @@
+---
+title: Job 9:2
+type: Verse
+kjv: "I know it is so of a truth: but how should man be just with God?"
+bsb: "“Yes, I know that it is so, but how can a mortal be righteous before God?"
+hebrew: "אָ֭מְנָם יָדַ֣עְתִּי כִי־ כֵ֑ן וּמַה־ יִּצְדַּ֖ק אֱנ֣וֹשׁ עִם־ אֵֽל׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H0551]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H6663]]"
+- "[[H0582]]"
+- "[[H5973A]]"
+- "[[H0410G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:2**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know [it is] so of a truth: but how should man be just with God?
 <small><sub>**BSB:**</sub></small>
 “Yes, I know that it is so, but how can a mortal be righteous before God?
+<small><sub>**Hebrew:**</sub></small>
+[[H0551\|אָ֭מְנָם]] [[H3045\|יָדַ֣עְתִּי]] [[H3588A\|כִי]][[H9014\|־]] [[H3651C\|כֵ֑ן]] [[H9002\|וּ]][[H4100\|מַה]][[H9014\|־]] [[H6663\|יִּצְדַּ֖ק]] [[H0582\|אֱנ֣וֹשׁ]] [[H5973A\|עִם]][[H9014\|־]] [[H0410G\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.1|<< Job 9:1]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.3|Job 9:3 >>]]</td></tr></table>
 

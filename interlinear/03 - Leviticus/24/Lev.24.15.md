@@ -1,8 +1,62 @@
+---
+title: Leviticus 24:15
+type: Verse
+kjv: "And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin."
+bsb: "And you are to tell the Israelites, ‘If anyone curses his God, he shall bear the consequences of his sin."
+hebrew: "וְאֶל־ בְּנֵ֥י יִשְׂרָאֵ֖ל תְּדַבֵּ֣ר לֵאמֹ֑ר אִ֥ישׁ אִ֛ישׁ כִּֽי־ יְקַלֵּ֥ל אֱלֹהָ֖יו וְנָשָׂ֥א חֶטְאֽוֹ׃"
+pericope: "[[Lev.24.10 Punishment for Blasphemy|Punishment for Blasphemy]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 24
+book/chapter: "[[Lev.24|Leviticus 24]]"
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H3588A]]"
+- "[[H7043]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H5375J]]"
+- "[[H2399]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 24:15**<big><big>[[Lev.24.10 Punishment for Blasphemy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin.
 <small><sub>**BSB:**</sub></small>
 And you are to tell the Israelites, ‘If anyone curses his God, he shall bear the consequences of his sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1696G\|תְּדַבֵּ֣ר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H0376G\|אִ֥ישׁ]] [[H0376G\|אִ֛ישׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7043\|יְקַלֵּ֥ל]] [[H0430G\|אֱלֹהָ֖י]][[H9023\|ו]] [[H9001\|וְ]][[H5375J\|נָשָׂ֥א]] [[H2399\|חֶטְאֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.24.14|<< Leviticus 24:14]]</td><td align="center" style="border:none;">[[Lev.24|Leviticus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.24.16|Leviticus 24:16 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: Mark 5:27
+type: Verse
+kjv: "When she had heard of Jesus, came in the press behind, and touched his garment."
+bsb: "When the woman heard about Jesus, she came up through the crowd behind Him and touched His cloak."
+greek: "ἀκούσασα τὰ περὶ τοῦ Ἰησοῦ, ἐλθοῦσα ἐν τῷ ὄχλῳ ὄπισθεν ἥψατο τοῦ ἱματίου αὐτοῦ·"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HEMORRHAGE|HEMORRHAGE]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G2424G]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G3793]]"
+- "[[G3693]]"
+- "[[G0681]]"
+- "[[G2440]]"
+- "[[G0846]]"
+texts:
+- NKO
+- o
+---
+
 **Mark 5:27**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When she had heard of Jesus, came in the press behind, and touched his garment.
 <small><sub>**BSB:**</sub></small>
 When the woman heard about Jesus, she came up through the crowd behind Him and touched His cloak.
-<small><sub>**Literal:**</sub></small>
-having heard the [things] concerning <the> Jesus, having come up in the crowd behind [Him] she touched the clothing of Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.26|<< Mark 5:26]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.28|Mark 5:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἀκούσασα]]  [[G3588\|τὰ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ,]]  [[G2064\|ἐλθοῦσα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3793\|ὄχλῳ]]  [[G3693\|ὄπισθεν]]  [[G0681\|ἥψατο]]  [[G3588\|τοῦ]]  [[G2440\|ἱματίου]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEMORRHAGE|HEMORRHAGE]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.26|<< Mark 5:26]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.28|Mark 5:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

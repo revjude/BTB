@@ -1,10 +1,59 @@
+---
+title: Colossians 2:16
+type: Verse
+kjv: "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:"
+bsb: "Therefore let no one judge you by what you eat or drink, or with regard to a feast, a New Moon, or a Sabbath."
+greek: "Μὴ οὖν τις ὑμᾶς κρινέτω ἐν βρώσει καὶ ἐν πόσει ἢ ἐν μέρει ἑορτῆς ἢ νεομηνίας ἢ σαββάτων,"
+pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G3361]]"
+- "[[G3767]]"
+- "[[G5100]]"
+- "[[G4771]]"
+- "[[G2919]]"
+- "[[G1722]]"
+- "[[G1035]]"
+- "[[G2532]]"
+- "[[G4213]]"
+- "[[G2228]]"
+- "[[G3313]]"
+- "[[G1859]]"
+- "[[G3561]]"
+- "[[G4521]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Colossians 2:16**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath [days]:
 <small><sub>**BSB:**</sub></small>
 Therefore let no one judge you by what you eat or drink, or with regard to a feast, a New Moon, or a Sabbath.
-<small><sub>**Literal:**</sub></small>
-Not therefore anyone you should judge in regard to food or in regard to drink or in regard to a feast or a New Moon or Sabbaths,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.15|<< Colossians 2:15]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.17|Colossians 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G3767\|οὖν]]  [[G5100\|τις]]  [[G4771\|ὑμᾶς]]  [[G2919\|κρινέτω]]  [[G1722\|ἐν]]  [[G1035\|βρώσει]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4213\|πόσει]]  [[G2228\|ἢ]]  [[G1722\|ἐν]]  [[G3313\|μέρει]]  [[G1859\|ἑορτῆς]]  [[G2228\|ἢ]]  [[G3561\|νεομηνίας]]  [[G2228\|ἢ]]  [[G4521\|σαββάτων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LAW|LAW]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic SABBATH|SABBATH]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.15|<< Colossians 2:15]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.17|Colossians 2:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

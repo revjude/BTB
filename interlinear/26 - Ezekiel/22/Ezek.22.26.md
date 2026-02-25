@@ -1,8 +1,72 @@
+---
+title: Ezekiel 22:26
+type: Verse
+kjv: "Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them."
+bsb: "Her priests do violence to My law and profane My holy things. They make no distinction between the holy and the common, and they fail to distinguish between the clean and the unclean. They disregard My Sabbaths, so that I am profaned among them."
+hebrew: "כֹּהֲנֶ֜יהָ חָמְס֣וּ תוֹרָתִי֮ וַיְחַלְּל֣וּ קָדָשַׁי֒ בֵּֽין־ קֹ֤דֶשׁ לְחֹל֙ לֹ֣א הִבְדִּ֔ילוּ וּבֵין־ הַטָּמֵ֥א לְטָה֖וֹר לֹ֣א הוֹדִ֑יעוּ וּמִשַׁבְּתוֹתַי֙ הֶעְלִ֣ימוּ עֵֽינֵיהֶ֔ם וָאֵחַ֖ל בְּתוֹכָֽם׃"
+pericope: "[[Ezek.22.23 Israel’s Wicked Leaders|Israel’s Wicked Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H3548]]"
+- "[[H9024]]"
+- "[[H2554]]"
+- "[[H8451]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H2490H]]"
+- "[[H6944G]]"
+- "[[H0996G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H2455]]"
+- "[[H3808]]"
+- "[[H0914]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H2931]]"
+- "[[H2889]]"
+- "[[H3045]]"
+- "[[H9006]]"
+- "[[H7676]]"
+- "[[H5956]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:26**<big><big>[[Ezek.22.23 Israel’s Wicked Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed [difference] between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
 <small><sub>**BSB:**</sub></small>
 Her priests do violence to My law and profane My holy things. They make no distinction between the holy and the common, and they fail to distinguish between the clean and the unclean. They disregard My Sabbaths, so that I am profaned among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3548\|כֹּהֲנֶ֜י]][[H9024\|הָ]] [[H2554\|חָמְס֣וּ]] [[H8451\|תוֹרָתִ]][[H9020\|י֮]] [[H9001\|וַ]][[H2490H\|יְחַלְּל֣וּ]] [[H6944G\|קָדָשַׁ]][[H9020\|י֒]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H6944G\|קֹ֤דֶשׁ]] [[H9005\|לְ]][[H2455\|חֹל֙]] [[H3808\|לֹ֣א]] [[H0914\|הִבְדִּ֔ילוּ]] [[H9002\|וּ]][[H0996G\|בֵין]][[H9014\|־]] [[H9009\|הַ]][[H2931\|טָּמֵ֥א]] [[H9005\|לְ]][[H2889\|טָה֖וֹר]] [[H3808\|לֹ֣א]] [[H3045\|הוֹדִ֑יעוּ]] [[H9002\|וּ]][[H9006\|מִ]][[H7676\|שַׁבְּתוֹתַ]][[H9020\|י֙]] [[H5956\|הֶעְלִ֣ימוּ]] [[H5869A\|עֵֽינֵי]][[H9028\|הֶ֔ם]] [[H9001\|וָ]][[H2490H\|אֵחַ֖ל]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.25|<< Ezekiel 22:25]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.27|Ezekiel 22:27 >>]]</td></tr></table>
 

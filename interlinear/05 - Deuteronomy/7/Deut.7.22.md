@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 7:22
+type: Verse
+kjv: "And the LORD thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee."
+bsb: "The LORD your God will drive out these nations before you little by little. You will not be enabled to eliminate them all at once, or the wild animals would multiply around you."
+hebrew: "וְנָשַׁל֩ יְהוָ֨ה אֱלֹהֶ֜יךָ אֶת־ הַגּוֹיִ֥ם הָאֵ֛ל מִפָּנֶ֖יךָ מְעַ֣ט מְעָ֑ט לֹ֤א תוּכַל֙ כַּלֹּתָ֣ם מַהֵ֔ר פֶּן־ תִּרְבֶּ֥ה עָלֶ֖יךָ חַיַּ֥ת הַשָּׂדֶֽה׃"
+pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5394]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0411]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H4592]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H3615G]]"
+- "[[H9038]]"
+- "[[H4118B]]"
+- "[[H6435]]"
+- "[[H7235A]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H2416C]]"
+- "[[H7704I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:22**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD thy God will put out those nations before thee by little and little: thou mayest not consume them at once, lest the beasts of the field increase upon thee.
 <small><sub>**BSB:**</sub></small>
 The LORD your God will drive out these nations before you little by little. You will not be enabled to eliminate them all at once, or the wild animals would multiply around you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5394\|נָשַׁל֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֥ם]] [[H9009\|הָ]][[H0411\|אֵ֛ל]] [[H9006\|מִ]][[H6440G\|פָּנֶ֖י]][[H9021\|ךָ]] [[H4592\|מְעַ֣ט]] [[H4592\|מְעָ֑ט]] [[H3808\|לֹ֤א]] [[H3201\|תוּכַל֙]] [[H3615G\|כַּלֹּתָ֣]][[H9038\|ם]] [[H4118B\|מַהֵ֔ר]] [[H6435\|פֶּן]][[H9014\|־]] [[H7235A\|תִּרְבֶּ֥ה]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הַ]][[H7704I\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GOD|GOD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.21|<< Deuteronomy 7:21]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.23|Deuteronomy 7:23 >>]]</td></tr></table>
 

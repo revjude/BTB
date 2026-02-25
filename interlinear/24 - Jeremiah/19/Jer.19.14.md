@@ -1,8 +1,67 @@
+---
+title: Jeremiah 19:14
+type: Verse
+kjv: "Then came Jeremiah from Tophet, whither the LORD had sent him to prophesy; and he stood in the court of the LORD’S house; and said to all the people,"
+bsb: "Then Jeremiah returned from Topheth, where the LORD had sent him to prophesy, and he stood in the courtyard of the house of the LORD and proclaimed to all the people,"
+hebrew: "וַיָּבֹ֤א יִרְמְיָ֙הוּ֙ מֵֽהַתֹּ֔פֶת אֲשֶׁ֨ר שְׁלָח֧וֹ יְהוָ֛ה שָׁ֖ם לְהִנָּבֵ֑א וַֽיַּעֲמֹד֙ בַּחֲצַ֣ר בֵּית־ יְהוָ֔ה וַיֹּ֖אמֶר אֶל־ כָּל־ הָעָֽם׃ ס"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TOPHET|TOPHET]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3414L]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H8612]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H5012]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H2691A]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 19:14**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came Jeremiah from Tophet, whither the LORD had sent him to prophesy; and he stood in the court of the LORD’S house; and said to all the people,
 <small><sub>**BSB:**</sub></small>
 Then Jeremiah returned from Topheth, where the LORD had sent him to prophesy, and he stood in the courtyard of the house of the LORD and proclaimed to all the people,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H3414L\|יִרְמְיָ֙הוּ֙]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H8612\|תֹּ֔פֶת]] [[H0834A\|אֲשֶׁ֨ר]] [[H7971G\|שְׁלָח֧]][[H9033\|וֹ]] [[H3068G\|יְהוָ֛ה]] [[H8033G\|שָׁ֖ם]] [[H9005\|לְ]][[H5012\|הִנָּבֵ֑א]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹד֙]] [[H9003\|בַּ]][[H2691A\|חֲצַ֣ר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]] • [[topic TOPHET|TOPHET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.13|<< Jeremiah 19:13]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.15|Jeremiah 19:15 >>]]</td></tr></table>
 
@@ -23,7 +82,7 @@ Then Jeremiah returned from Topheth, where the LORD had sent him to prophesy, an
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֖אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the people  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H5971A\|עָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.13|<< Jeremiah 19:13]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.15|Jeremiah 19:15 >>]]</td></tr></table>
 
 

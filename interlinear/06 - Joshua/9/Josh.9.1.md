@@ -1,8 +1,73 @@
+---
+title: Joshua 9:1
+type: Verse
+kjv: "And it came to pass, when all the kings which were on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard thereof;"
+bsb: "Now when news of this reached all the kings west of the Jordan—those in the hill country, the foothills, and all along the coast of the Great Sea toward Lebanon (the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites)—"
+hebrew: "וַיְהִ֣י כִשְׁמֹ֣עַ כָּֽל־ הַמְּלָכִ֡ים אֲשֶׁר֩ בְּעֵ֨בֶר הַיַּרְדֵּ֜ן בָּהָ֣ר וּבַשְּׁפֵלָ֗ה וּבְכֹל֙ ח֚וֹף הַיָּ֣ם הַגָּד֔וֹל אֶל־ מ֖וּל הַלְּבָנ֑וֹן הַֽחִתִּי֙ וְהָ֣אֱמֹרִ֔י הַֽכְּנַעֲנִי֙ הַפְּרִזִּ֔י הַחִוִּ֖י וְהַיְבוּסִֽי׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic HIVITES|HIVITES]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H2022G]]"
+- "[[H9002]]"
+- "[[H8219]]"
+- "[[H2348]]"
+- "[[H3220G]]"
+- "[[H1419J]]"
+- "[[H0413]]"
+- "[[H4136]]"
+- "[[H3844G]]"
+- "[[H2850]]"
+- "[[H0567]]"
+- "[[H3669A]]"
+- "[[H6522]]"
+- "[[H2340]]"
+- "[[H2983G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:1**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when all the kings which [were] on this side Jordan, in the hills, and in the valleys, and in all the coasts of the great sea over against Lebanon, the Hittite, and the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard [thereof];
 <small><sub>**BSB:**</sub></small>
 Now when news of this reached all the kings west of the Jordan—those in the hill country, the foothills, and all along the coast of the Great Sea toward Lebanon (the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites)—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9004\|כִ]][[H8085G\|שְׁמֹ֣עַ]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֡ים]] [[H0834A\|אֲשֶׁר֩]] [[H9003\|בְּ]][[H5676H\|עֵ֨בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֜ן]] [[H9003\|בָּ]][[H2022G\|הָ֣ר]] [[H9002\|וּ]][[H9003\|בַ]][[H8219\|שְּׁפֵלָ֗ה]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹל֙]] [[H2348\|ח֚וֹף]] [[H9009\|הַ]][[H3220G\|יָּ֣ם]] [[H9009\|הַ]][[H1419J\|גָּד֔וֹל]] [[H0413\|אֶל]][[H9014\|־]] [[H4136\|מ֖וּל]] [[H9009\|הַ]][[H3844G\|לְּבָנ֑וֹן]] [[H9009\|הַֽ]][[H2850\|חִתִּי֙]] [[H9002\|וְ]][[H9009\|הָ֣]][[H0567\|אֱמֹרִ֔י]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִי֙]] [[H9009\|הַ]][[H6522\|פְּרִזִּ֔י]] [[H9009\|הַ]][[H2340\|חִוִּ֖י]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic HITTITES|HITTITES]] • [[topic HIVITES|HIVITES]] • [[topic JOSHUA|JOSHUA]] • [[topic LEBANON|LEBANON]] • [[topic MEDITERRANEAN SEA|MEDITERRANEAN SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.35|<< Joshua 8:35]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.2|Joshua 9:2 >>]]</td></tr></table>
 

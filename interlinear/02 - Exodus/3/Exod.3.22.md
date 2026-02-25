@@ -1,8 +1,73 @@
+---
+title: Exodus 3:22
+type: Verse
+kjv: "But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall spoil the Egyptians."
+bsb: "Every woman shall ask her neighbor and any woman staying in her house for silver and gold jewelry and clothing, and you will put them on your sons and daughters. So you will plunder the Egyptians.”"
+hebrew: "וְשָׁאֲלָ֨ה אִשָּׁ֤ה מִשְּׁכֶנְתָּהּ֙ וּמִגָּרַ֣ת בֵּיתָ֔הּ כְּלֵי־ כֶ֛סֶף וּכְלֵ֥י זָהָ֖ב וּשְׂמָלֹ֑ת וְשַׂמְתֶּ֗ם עַל־ בְּנֵיכֶם֙ וְעַל־ בְּנֹ֣תֵיכֶ֔ם וְנִצַּלְתֶּ֖ם אֶת־ מִצְרָֽיִם׃"
+pericope: "[[Exod.3.1 Moses at the Burning Bush|Moses at the Burning Bush]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 3
+book/chapter: "[[Exod.3|Exodus 3]]"
+chronological_order: 95
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BORROWING|BORROWING]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JEWELS|JEWELS]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H0802G]]"
+- "[[H9006]]"
+- "[[H7934]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H1481A]]"
+- "[[H1004B]]"
+- "[[H3627]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H8071]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H9026]]"
+- "[[H1323G]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H4713]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 3:22**<big><big>[[Exod.3.1 Moses at the Burning Bush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put [them] upon your sons, and upon your daughters; and ye shall spoil the Egyptians.
 <small><sub>**BSB:**</sub></small>
 Every woman shall ask her neighbor and any woman staying in her house for silver and gold jewelry and clothing, and you will put them on your sons and daughters. So you will plunder the Egyptians.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7592\|שָׁאֲלָ֨ה]] [[H0802G\|אִשָּׁ֤ה]] [[H9006\|מִ]][[H7934\|שְּׁכֶנְתָּ]][[H9024\|הּ֙]] [[H9002\|וּ]][[H9006\|מִ]][[H1481A\|גָּרַ֣ת]] [[H1004B\|בֵּיתָ֔]][[H9024\|הּ]] [[H3627\|כְּלֵי]][[H9014\|־]] [[H3701G\|כֶ֛סֶף]] [[H9002\|וּ]][[H3627\|כְלֵ֥י]] [[H2091\|זָהָ֖ב]] [[H9002\|וּ]][[H8071\|שְׂמָלֹ֑ת]] [[H9001\|וְ]][[H7760H\|שַׂמְתֶּ֗ם]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9026\|כֶם֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1323G\|בְּנֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H5337\|נִצַּלְתֶּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4713\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BORROWING|BORROWING]] • [[topic GOLD|GOLD]] • [[topic ISRAEL|ISRAEL]] • [[topic JEWELS|JEWELS]] • [[topic MOSES|MOSES]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.3.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.3.21|<< Exodus 3:21]]</td><td align="center" style="border:none;">[[Exod.3|Exodus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.1|Exodus 4:1 >>]]</td></tr></table>
 

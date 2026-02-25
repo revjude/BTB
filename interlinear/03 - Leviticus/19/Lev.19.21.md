@@ -1,8 +1,62 @@
+---
+title: Leviticus 19:21
+type: Verse
+kjv: "And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering."
+bsb: "The man, however, must bring a ram to the entrance to the Tent of Meeting as his guilt offering to the LORD."
+hebrew: "וְהֵבִ֤יא אֶת־ אֲשָׁמוֹ֙ לַֽיהוָ֔ה אֶל־ פֶּ֖תַח אֹ֣הֶל מוֹעֵ֑ד אֵ֖יל אָשָֽׁם׃"
+pericope: "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0817]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H0352A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:21**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, [even] a ram for a trespass offering.
 <small><sub>**BSB:**</sub></small>
 The man, however, must bring a ram to the entrance to the Tent of Meeting as his guilt offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵבִ֤יא]] [[H0853\|אֶת]][[H9014\|־]] [[H0817\|אֲשָׁמ]][[H9023\|וֹ֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H0352A\|אֵ֖יל]] [[H0817\|אָשָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CONCUBINAGE|CONCUBINAGE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.20|<< Leviticus 19:20]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.22|Leviticus 19:22 >>]]</td></tr></table>
 

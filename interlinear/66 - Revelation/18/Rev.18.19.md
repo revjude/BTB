@@ -1,10 +1,70 @@
+---
+title: Revelation 18:19
+type: Verse
+kjv: "And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas, that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate."
+bsb: "Then they will throw dust on their heads as they weep and mourn and cry out: “Woe, woe to the great city, where all who had ships on the sea were enriched by her wealth! For in a single hour she has been destroyed.”"
+greek: "καὶ ἔβαλον χοῦν ἐπὶ τὰς κεφαλὰς αὐτῶν καὶ ἔκραζον κλαίοντες καὶ πενθοῦντες καὶ λέγοντες· οὐαὶ οὐαὶ ἡ πόλις ἡ μεγάλη, ἐν ᾗ ἐπλούτησαν πάντες οἱ ἔχοντες τὰ πλοῖα ἐν τῇ θαλάσσῃ ἐκ τῆς τιμιότητος αὐτῆς, ὅτι μιᾷ ὥρᾳ ἠρημώθη."
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0906G]]"
+- "[[G5522]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G0846]]"
+- "[[G2896]]"
+- "[[G2799]]"
+- "[[G3996]]"
+- "[[G3004G]]"
+- "[[G3759]]"
+- "[[G4172]]"
+- "[[G3173]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G4147]]"
+- "[[G3956]]"
+- "[[G2192]]"
+- "[[G4143]]"
+- "[[G2281]]"
+- "[[G1537]]"
+- "[[G5094]]"
+- "[[G3754H]]"
+- "[[G1520]]"
+- "[[G5610]]"
+- "[[G2049]]"
+texts:
+- NKO
+- NK(o)
+- o
+---
+
 **Revelation 18:19**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they cast dust on their heads, and cried, weeping and wailing, saying, Alas, alas, that great city, wherein were made rich all that had ships in the sea by reason of her costliness! for in one hour is she made desolate.
 <small><sub>**BSB:**</sub></small>
 Then they will throw dust on their heads as they weep and mourn and cry out: “Woe, woe to the great city, where all who had ships on the sea were enriched by her wealth! For in a single hour she has been destroyed.”
-<small><sub>**Literal:**</sub></small>
-And they cast dust upon the heads of them and they were crying out weeping and mourning and saying: Woe woe the city <the> great, in which were enriched all those having <the> ships in the sea through the wealth of her! Since in one hour she has been desolated.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.18|<< Revelation 18:18]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.20|Revelation 18:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0906G\|ἔβαλον]]  [[G5522\|χοῦν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰς]]  [[G2776\|κεφαλὰς]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G2896\|ἔκραζον]]  [[G2799\|κλαίοντες]]  [[G2532\|καὶ]]  [[G3996\|πενθοῦντες]]  [[G2532\|καὶ]]  [[G3004G\|λέγοντες·]]  [[G3759\|οὐαὶ]]  [[G3759\|οὐαὶ]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη,]]  [[G1722\|ἐν]]  [[G3739\|ᾗ]]  [[G4147\|ἐπλούτησαν]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G2192\|ἔχοντες]]  [[G3588\|τὰ]]  [[G4143\|πλοῖα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2281\|θαλάσσῃ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5094\|τιμιότητος]]  [[G0846\|αὐτῆς,]]  [[G3754H\|ὅτι]]  [[G1520\|μιᾷ]]  [[G5610\|ὥρᾳ]]  [[G2049\|ἠρημώθη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.18|<< Revelation 18:18]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.20|Revelation 18:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

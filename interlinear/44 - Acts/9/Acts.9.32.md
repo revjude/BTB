@@ -1,10 +1,55 @@
+---
+title: Acts 9:32
+type: Verse
+kjv: "And it came to pass, as Peter passed throughout all quarters, he came down also to the saints which dwelt at Lydda."
+bsb: "As Peter traveled throughout the area, he went to visit the saints in Lydda."
+greek: "Ἐγένετο δὲ Πέτρον διερχόμενον διὰ πάντων κατελθεῖν καὶ πρὸς τοὺς ἁγίους τοὺς κατοικοῦντας Λύδδα."
+pericope: "[[Acts.9.31 The Healing of Aeneas|The Healing of Aeneas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LYDDA|LYDDA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G1330]]"
+- "[[G1223]]"
+- "[[G3956]]"
+- "[[G2718]]"
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+- "[[G2730]]"
+- "[[G3069]]"
+texts:
+- NKO
+---
+
 **Acts 9:32**<big><big>[[Acts.9.31 The Healing of Aeneas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as Peter passed throughout all [quarters], he came down also to the saints which dwelt at Lydda.
 <small><sub>**BSB:**</sub></small>
 As Peter traveled throughout the area, he went to visit the saints in Lydda.
-<small><sub>**Literal:**</sub></small>
-It came to pass that now Peter passing through all [quarters] descending also to the saints those inhabiting Lydda.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.31|<< Acts 9:31]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.33|Acts 9:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρον]]  [[G1330\|διερχόμενον]]  [[G1223\|διὰ]]  [[G3956\|πάντων]]  [[G2718\|κατελθεῖν]]  [[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G0040H\|ἁγίους]]  [[G3588\|τοὺς]]  [[G2730\|κατοικοῦντας]]  [[G3069\|Λύδδα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LYDDA|LYDDA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.31|<< Acts 9:31]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.33|Acts 9:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

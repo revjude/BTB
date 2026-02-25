@@ -1,8 +1,71 @@
+---
+title: Numbers 14:27
+type: Verse
+kjv: "How long shall I bear with this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me."
+bsb: "“How long will this wicked congregation grumble against Me? I have heard the complaints that the Israelites are making against Me."
+hebrew: "עַד־ מָתַ֗י לָעֵדָ֤ה הָֽרָעָה֙ הַזֹּ֔את אֲשֶׁ֛ר הֵ֥מָּה מַלִּינִ֖ים עָלָ֑י אֶת־ תְּלֻנּ֞וֹת בְּנֵ֣י יִשְׂרָאֵ֗ל אֲשֶׁ֨ר הֵ֧מָּה מַלִּינִ֛ים עָלַ֖י שָׁמָֽעְתִּי׃"
+pericope: "[[Num.14.20 God’s Forgiveness and Judgment|God’s Forgiveness and Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H4970]]"
+- "[[H9005]]"
+- "[[H5712]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H3885B]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H8519]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:27**<big><big>[[Num.14.20 God’s Forgiveness and Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long [shall I bear with] this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me.
 <small><sub>**BSB:**</sub></small>
 “How long will this wicked congregation grumble against Me? I have heard the complaints that the Israelites are making against Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֗י]] [[H9005\|לָ]][[H5712\|עֵדָ֤ה]] [[H9009\|הָֽ]][[H7451H\|רָעָה֙]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0834A\|אֲשֶׁ֛ר]] [[H1992\|הֵ֥מָּה]] [[H3885B\|מַלִּינִ֖ים]] [[H5921A\|עָלָ֑]][[H9030\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H8519\|תְּלֻנּ֞וֹת]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H1992\|הֵ֧מָּה]] [[H3885B\|מַלִּינִ֛ים]] [[H5921A\|עָלַ֖]][[H9030\|י]] [[H8085G\|שָׁמָֽעְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MURMURING|MURMURING]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.26|<< Numbers 14:26]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.28|Numbers 14:28 >>]]</td></tr></table>
 

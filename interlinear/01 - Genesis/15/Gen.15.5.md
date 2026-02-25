@@ -1,8 +1,72 @@
+---
+title: Genesis 15:5
+type: Verse
+kjv: "And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be."
+bsb: "And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.”"
+hebrew: "וַיּוֹצֵ֨א אֹת֜וֹ הַח֗וּצָה וַיֹּ֙אמֶר֙ הַבֶּט־ נָ֣א הַשָּׁמַ֗יְמָה וּסְפֹר֙ הַכּ֣וֹכָבִ֔ים אִם־ תּוּכַ֖ל לִסְפֹּ֣ר אֹתָ֑ם וַיֹּ֣אמֶר ל֔וֹ כֹּ֥ה יִהְיֶ֖ה זַרְעֶֽךָ׃"
+pericope: "[[Gen.15.1 God’s Covenant with Abram|God’s Covenant with Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 15
+book/chapter: "[[Gen.15|Genesis 15]]"
+chronological_order: 57
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H0559]]"
+- "[[H5027]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H5608A]]"
+- "[[H3556]]"
+- "[[H0518A]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H1961]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 15:5**<big><big>[[Gen.15.1 God’s Covenant with Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be.
 <small><sub>**BSB:**</sub></small>
 And the LORD took him outside and said, “Now look to the heavens and count the stars, if you are able.” Then He told him, “So shall your offspring be.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יּוֹצֵ֨א]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H9009\|הַ]][[H2351\|ח֗וּצָ]][[H9011\|ה]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H5027\|הַבֶּט]][[H9014\|־]] [[H4994\|נָ֣א]] [[H9009\|הַ]][[H8064\|שָּׁמַ֗יְמָ]][[H9011\|ה]] [[H9002\|וּ]][[H5608A\|סְפֹר֙]] [[H9009\|הַ]][[H3556\|כּ֣וֹכָבִ֔ים]] [[H0518A\|אִם]][[H9014\|־]] [[H3201\|תּוּכַ֖ל]] [[H9005\|לִ]][[H5608A\|סְפֹּ֣ר]] [[H0853\|אֹתָ֑]][[H9038\|ם]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H3541\|כֹּ֥ה]] [[H1961\|יִהְיֶ֖ה]] [[H2233H\|זַרְעֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FAITH|FAITH]] • [[topic ISRAEL|ISRAEL]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.15.4|<< Genesis 15:4]]</td><td align="center" style="border:none;">[[Gen.15|Genesis 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.15.6|Genesis 15:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

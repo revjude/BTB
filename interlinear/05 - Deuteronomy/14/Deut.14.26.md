@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 14:26
+type: Verse
+kjv: "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household,"
+bsb: "Then you may spend the money on anything you desire: cattle, sheep, wine, strong drink, or anything you wish. You are to feast there in the presence of the LORD your God and rejoice with your household."
+hebrew: "וְנָתַתָּ֣ה הַכֶּ֡סֶף בְּכֹל֩ אֲשֶׁר־ תְּאַוֶּ֨ה נַפְשְׁךָ֜ בַּבָּקָ֣ר וּבַצֹּ֗אן וּבַיַּ֙יִן֙ וּבַשֵּׁכָ֔ר וּבְכֹ֛ל אֲשֶׁ֥ר תִּֽשְׁאָלְךָ֖ נַפְשֶׁ֑ךָ וְאָכַ֣לְתָּ שָּׁ֗ם לִפְנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ וְשָׂמַחְתָּ֖ אַתָּ֥ה וּבֵיתֶֽךָ׃"
+pericope: "[[Deut.14.22 Giving Tithes|Giving Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0183]]"
+- "[[H5315I]]"
+- "[[H9021]]"
+- "[[H1241]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H3196]]"
+- "[[H7941]]"
+- "[[H7592]]"
+- "[[H9031]]"
+- "[[H5315L]]"
+- "[[H0398]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H8055]]"
+- "[[H0859A]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:26**<big><big>[[Deut.14.22 Giving Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household,
 <small><sub>**BSB:**</sub></small>
 Then you may spend the money on anything you desire: cattle, sheep, wine, strong drink, or anything you wish. You are to feast there in the presence of the LORD your God and rejoice with your household.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתָּ֣ה]] [[H9009\|הַ]][[H3701G\|כֶּ֡סֶף]] [[H9003\|בְּ]][[H3605\|כֹל֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0183\|תְּאַוֶּ֨ה]] [[H5315I\|נַפְשְׁ]][[H9021\|ךָ֜]] [[H9003\|בַּ]][[H1241\|בָּקָ֣ר]] [[H9002\|וּ]][[H9003\|בַ]][[H6629G\|צֹּ֗אן]] [[H9002\|וּ]][[H9003\|בַ]][[H3196\|יַּ֙יִן֙]] [[H9002\|וּ]][[H9003\|בַ]][[H7941\|שֵּׁכָ֔ר]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H7592\|תִּֽשְׁאָלְ]][[H9031\|ךָ֖]] [[H5315L\|נַפְשֶׁ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H0398\|אָכַ֣לְתָּ]] [[H8033G\|שָּׁ֗ם]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H8055\|שָׂמַחְתָּ֖]] [[H0859A\|אַתָּ֥ה]] [[H9002\|וּ]][[H1004M\|בֵיתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic MONEY|MONEY]] • [[topic SANITATION|SANITATION]] • [[topic TITHES|TITHES]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.25|<< Deuteronomy 14:25]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.27|Deuteronomy 14:27 >>]]</td></tr></table>
 

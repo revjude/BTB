@@ -1,8 +1,66 @@
+---
+title: Jeremiah 10:18
+type: Verse
+kjv: "For thus saith the LORD, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find it so."
+bsb: "For this is what the LORD says: “Behold, at this time I will sling out the inhabitants of the land and bring distress upon them so that they may be captured.”"
+hebrew: "כִּֽי־ כֹה֙ אָמַ֣ר יְהוָ֔ה הִנְנִ֥י קוֹלֵ֛עַ אֶת־ יוֹשְׁבֵ֥י הָאָ֖רֶץ בַּפַּ֣עַם הַזֹּ֑את וַהֲצֵר֥וֹתִי לָהֶ֖ם לְמַ֥עַן יִמְצָֽאוּ׃ ס"
+pericope: "[[Jer.10.17 The Coming Captivity of Judah|The Coming Captivity of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7049A]]"
+- "[[H0853]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9003]]"
+- "[[H6471]]"
+- "[[H2063]]"
+- "[[H9001]]"
+- "[[H6887B]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4616]]"
+- "[[H4672]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 10:18**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD, Behold, I will sling out the inhabitants of the land at this once, and will distress them, that they may find [it so].
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “Behold, at this time I will sling out the inhabitants of the land and bring distress upon them so that they may be captured.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3541\|כֹה֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H7049A\|קוֹלֵ֛עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H3427\|יוֹשְׁבֵ֥י]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9003\|בַּ]][[H6471\|פַּ֣עַם]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H9001\|וַ]][[H6887B\|הֲצֵר֥וֹתִי]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H4616\|לְמַ֥עַן]] [[H4672\|יִמְצָֽאוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.17|<< Jeremiah 10:17]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.19|Jeremiah 10:19 >>]]</td></tr></table>
 
@@ -22,7 +80,7 @@ For this is what the LORD says: “Behold, at this time I will sling out the inh
 | and I will cause distress  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6887B\|הֲצֵר֥וֹתִי]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> ha.tze.Ro.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so that  |**<big>&#8207;[[H4616\|לְמַ֥עַן]]&#8207; </big>**| le.Ma.'an<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they may find  |**<big>&#8207;[[H4672\|יִמְצָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yim.Tza.'u<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they may find  |**<big>&#8207;[[H4672\|יִמְצָֽאוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yim.Tza.'u<small><sup>[[HVqj3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.17|<< Jeremiah 10:17]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.19|Jeremiah 10:19 >>]]</td></tr></table>
 
 

@@ -1,8 +1,62 @@
+---
+title: Haggai 1:8
+type: Verse
+kjv: "Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the LORD."
+bsb: "Go up into the hills, bring down lumber, and build the house, so that I may take pleasure in it and be glorified, says the LORD."
+hebrew: "עֲל֥וּ הָהָ֛ר וַהֲבֵאתֶ֥ם עֵ֖ץ וּבְנ֣וּ הַבָּ֑יִת וְאֶרְצֶה־ בּ֥וֹ וְאֶכָּבְדָ֖ה אָמַ֥ר יְהוָֽה׃"
+pericope: "[[Hag.1.1 A Call to Rebuild the Temple|A Call to Rebuild the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 1
+book/chapter: "[[Hag.1|Haggai 1]]"
+chronological_order: 855
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H6086G]]"
+- "[[H9002]]"
+- "[[H1129]]"
+- "[[H1004B]]"
+- "[[H7521]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3513G]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Haggai 1:8**<big><big>[[Hag.1.1 A Call to Rebuild the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Go up into the hills, bring down lumber, and build the house, so that I may take pleasure in it and be glorified, says the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H5927G\|עֲל֥וּ]] [[H9009\|הָ]][[H2022G\|הָ֛ר]] [[H9001\|וַ]][[H0935P\|הֲבֵאתֶ֥ם]] [[H6086G\|עֵ֖ץ]] [[H9002\|וּ]][[H1129\|בְנ֣וּ]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H9002\|וְ]][[H7521\|אֶרְצֶה]][[H9014\|־]] [[H9003\|בּ֥]][[H9033\|וֹ]] [[H9002\|וְ]][[H3513G\|אֶכָּבְדָ֖ה]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic TEMPLE|TEMPLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.7|<< Haggai 1:7]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.9|Haggai 1:9 >>]]</td></tr></table>
 
@@ -21,7 +75,7 @@ Go up into the hills, bring down lumber, and build the house, so that I may take
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.7|<< Haggai 1:7]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.9|Haggai 1:9 >>]]</td></tr></table>
 
-[^1]: so I may be honored  | **<big>[[H3513G|אֶכָּבֵד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.ka.ved<small><sup>[[HVNu1cs]]</sup></small> | K
-[^2]: so I may be honored  | **<big>[[H3513G|אֶכָּבֵד]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.ka.ved<small><sup>[[HVNu1cs]]</sup></small> | K
+[^1]: so I may be honored  | **<big>[[H9002|וְ]]</big><big>[[H3513G|אֶכָּבֵד]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.ka.ved<small><sup>[[HVNu1cs]]</sup></small> | K
+[^2]: so I may be honored  | **<big>[[H9002|וְ]]</big><big>[[H3513G|אֶכָּבֵד]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'e.ka.ved<small><sup>[[HVNu1cs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וְאֶכָּבְדָ֖</big></span>**
 

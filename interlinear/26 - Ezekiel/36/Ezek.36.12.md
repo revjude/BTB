@@ -1,8 +1,66 @@
+---
+title: Ezekiel 36:12
+type: Verse
+kjv: "Yea, I will cause men to walk upon you, even my people Israel; and they shall possess thee, and thou shalt be their inheritance, and thou shalt no more henceforth bereave them of men."
+bsb: "Yes, I will cause My people Israel to walk upon you; they will possess you, and you will be their inheritance, and you will no longer deprive them of their children."
+hebrew: "וְהוֹלַכְתִּי֩ עֲלֵיכֶ֨ם אָדָ֜ם אֶת־ עַמִּ֤י יִשְׂרָאֵל֙ וִֽירֵשׁ֔וּךָ וְהָיִ֥יתָ לָהֶ֖ם לְנַחֲלָ֑ה וְלֹא־ תוֹסִ֥ף ע֖וֹד לְשַׁכְּלָֽם׃ ס"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0120G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H3423G]]"
+- "[[H9031]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5159]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H7921A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 36:12**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, I will cause men to walk upon you, [even] my people Israel; and they shall possess thee, and thou shalt be their inheritance, and thou shalt no more henceforth bereave them [of men].
 <small><sub>**BSB:**</sub></small>
 Yes, I will cause My people Israel to walk upon you; they will possess you, and you will be their inheritance, and you will no longer deprive them of their children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1980I\|הוֹלַכְתִּי֩]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֨ם]] [[H0120G\|אָדָ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֤]][[H9020\|י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וִֽ]][[H3423G\|ירֵשׁ֔וּ]][[H9031\|ךָ]] [[H9001\|וְ]][[H1961\|הָיִ֥יתָ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H5159\|נַחֲלָ֑ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3254G\|תוֹסִ֥ף]] [[H5750\|ע֖וֹד]] [[H9005\|לְ]][[H7921A\|שַׁכְּלָֽ]][[H9038\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.11|<< Ezekiel 36:11]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.13|Ezekiel 36:13 >>]]</td></tr></table>
 
@@ -21,7 +79,7 @@ Yes, I will cause My people Israel to walk upon you; they will possess you, and 
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will repeat  |**<big>&#8207;[[H3254G\|תוֹסִ֥ף]]&#8207; </big>**| to.Sif<small><sup>[[HVhi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֖וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to bereave them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7921A\|שַׁכְּלָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.ke.La<small><sup>[[HVpcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to bereave them  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7921A\|שַׁכְּלָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.ke.La<small><sup>[[HVpcc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.11|<< Ezekiel 36:11]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.13|Ezekiel 36:13 >>]]</td></tr></table>
 
 

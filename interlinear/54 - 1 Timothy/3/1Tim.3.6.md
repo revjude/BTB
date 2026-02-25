@@ -1,10 +1,54 @@
+---
+title: 1 Timothy 3:6
+type: Verse
+kjv: "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil."
+bsb: "He must not be a recent convert, or he may become conceited and fall under the same condemnation as the devil."
+greek: "μὴ νεόφυτον, ἵνα μὴ τυφωθεὶς εἰς κρίμα ἐμπέσῃ τοῦ διαβόλου."
+pericope: "[[1Tim.3.1 Qualifications for Overseers|Qualifications for Overseers]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BISHOP|BISHOP]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SATAN|SATAN]]"
+strongs:
+- "[[G3361]]"
+- "[[G3504]]"
+- "[[G2443]]"
+- "[[G5187]]"
+- "[[G1519]]"
+- "[[G2917]]"
+- "[[G1706]]"
+- "[[G3588]]"
+- "[[G1228]]"
+texts:
+- NKO
+---
+
 **1 Timothy 3:6**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not a novice, lest being lifted up with pride he fall into the condemnation of the devil.
 <small><sub>**BSB:**</sub></small>
 He must not be a recent convert, or he may become conceited and fall under the same condemnation as the devil.
-<small><sub>**Literal:**</sub></small>
-not a novice, that not having been puffed up into [the] judgment he may fall of the devil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.5|<< 1 Timothy 3:5]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.7|1 Timothy 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G3504\|νεόφυτον,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G5187\|τυφωθεὶς]]  [[G1519\|εἰς]]  [[G2917\|κρίμα]]  [[G1706\|ἐμπέσῃ]]  [[G3588\|τοῦ]]  [[G1228\|διαβόλου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BISHOP|BISHOP]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIDE|PRIDE]] • [[topic SATAN|SATAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.5|<< 1 Timothy 3:5]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.7|1 Timothy 3:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

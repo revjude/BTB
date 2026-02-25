@@ -1,8 +1,59 @@
+---
+title: Zechariah 5:7
+type: Verse
+kjv: "And, behold, there was lifted up a talent of lead: and this is a woman that sitteth in the midst of the ephah."
+bsb: "And behold, the cover of lead was raised, and there was a woman sitting inside the basket."
+hebrew: "וְהִנֵּ֛ה כִּכַּ֥ר עֹפֶ֖רֶת נִשֵּׂ֑את וְזֹאת֙ אִשָּׁ֣ה אַחַ֔ת יוֹשֶׁ֖בֶת בְּת֥וֹךְ הָאֵיפָֽה׃"
+pericope: "[[Zech.5.5 The Vision of the Woman in a Basket|The Vision of the Woman in a Basket]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 5
+book/chapter: "[[Zech.5|Zechariah 5]]"
+chronological_order: 861
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic LEAD|LEAD]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3603H]]"
+- "[[H5777]]"
+- "[[H5375G]]"
+- "[[H2063]]"
+- "[[H0802G]]"
+- "[[H0259]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0374]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 5:7**<big><big>[[Zech.5.5 The Vision of the Woman in a Basket|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, there was lifted up a talent of lead: and this [is] a woman that sitteth in the midst of the ephah.
 <small><sub>**BSB:**</sub></small>
 And behold, the cover of lead was raised, and there was a woman sitting inside the basket.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֛ה]] [[H3603H\|כִּכַּ֥ר]] [[H5777\|עֹפֶ֖רֶת]] [[H5375G\|נִשֵּׂ֑את]] [[H9002\|וְ]][[H2063\|זֹאת֙]] [[H0802G\|אִשָּׁ֣ה]] [[H0259\|אַחַ֔ת]] [[H3427\|יוֹשֶׁ֖בֶת]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הָ]][[H0374\|אֵיפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEAD|LEAD]] • [[topic MEASURE|MEASURE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.5.6|<< Zechariah 5:6]]</td><td align="center" style="border:none;">[[Zech.5|Zechariah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.5.8|Zechariah 5:8 >>]]</td></tr></table>
 

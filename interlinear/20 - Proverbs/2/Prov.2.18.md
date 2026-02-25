@@ -1,8 +1,58 @@
+---
+title: Proverbs 2:18
+type: Verse
+kjv: "For her house inclineth unto death, and her paths unto the dead."
+bsb: "For her house sinks down to death, and her tracks to the departed spirits."
+hebrew: "כִּ֤י שָׁ֣חָה אֶל־ מָ֣וֶת בֵּיתָ֑הּ וְאֶל־ רְ֝פָאִ֗ים מַעְגְּלֹתֶֽיהָ׃"
+pericope: "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7743]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4194]]"
+- "[[H1004B]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H7496]]"
+- "[[H4570]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 2:18**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For her house inclineth unto death, and her paths unto the dead.
 <small><sub>**BSB:**</sub></small>
 For her house sinks down to death, and her tracks to the departed spirits.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H7743\|שָׁ֣חָה]] [[H0413\|אֶל]][[H9014\|־]] [[H4194\|מָ֣וֶת]] [[H1004B\|בֵּיתָ֑]][[H9024\|הּ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H7496\|רְ֝פָאִ֗ים]] [[H4570\|מַעְגְּלֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.17|<< Proverbs 2:17]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.19|Proverbs 2:19 >>]]</td></tr></table>
 

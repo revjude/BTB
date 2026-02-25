@@ -1,8 +1,57 @@
+---
+title: Proverbs 24:30
+type: Verse
+kjv: "I went by the field of the slothful, and by the vineyard of the man void of understanding;"
+bsb: "I went past the field of a slacker and by the vineyard of a man lacking judgment."
+hebrew: "עַל־ שְׂדֵ֣ה אִישׁ־ עָצֵ֣ל עָבַ֑רְתִּי וְעַל־ כֶּ֝֗רֶם אָדָ֥ם חֲסַר־ לֵֽב׃"
+pericope: "[[Prov.24.23 Further Sayings of the Wise|Further Sayings of the Wise]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FENCE|FENCE]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7704G]]"
+- "[[H0376G]]"
+- "[[H6102]]"
+- "[[H5674A]]"
+- "[[H9002]]"
+- "[[H3754]]"
+- "[[H0120G]]"
+- "[[H2638]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:30**<big><big>[[Prov.24.23 Further Sayings of the Wise|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went by the field of the slothful, and by the vineyard of the man void of understanding;
 <small><sub>**BSB:**</sub></small>
 I went past the field of a slacker and by the vineyard of a man lacking judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H7704G\|שְׂדֵ֣ה]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H6102\|עָצֵ֣ל]] [[H5674A\|עָבַ֑רְתִּי]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3754\|כֶּ֝֗רֶם]] [[H0120G\|אָדָ֥ם]] [[H2638\|חֲסַר]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FENCE|FENCE]] • [[topic IDLENESS|IDLENESS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SLOTHFULNESS|SLOTHFULNESS]] • [[topic VINEYARD|VINEYARD]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.24.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.29|<< Proverbs 24:29]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.31|Proverbs 24:31 >>]]</td></tr></table>
 

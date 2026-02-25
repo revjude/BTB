@@ -1,10 +1,69 @@
+---
+title: Romans 1:32
+type: Verse
+kjv: "Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them."
+bsb: "Although they know God’s righteous decree that those who do such things are worthy of death, they not only continue to do these things, but also approve of those who practice them."
+greek: "οἵτινες τὸ δικαίωμα τοῦ θεοῦ ἐπιγνόντες ὅτι οἱ τὰ τοιαῦτα πράσσοντες ἄξιοι θανάτου εἰσίν, οὐ μόνον αὐτὰ ποιοῦσιν ἀλλὰ καὶ συνευδοκοῦσιν τοῖς πράσσουσιν.¶"
+pericope: "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic CRIME|CRIME]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic ROME|ROME]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3748]]"
+- "[[G3588]]"
+- "[[G1345]]"
+- "[[G2316]]"
+- "[[G1921]]"
+- "[[G3754G]]"
+- "[[G5108]]"
+- "[[G4238]]"
+- "[[G0514]]"
+- "[[G2288]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G0846]]"
+- "[[G4160G]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G4909]]"
+texts:
+- NKO
+---
+
 **Romans 1:32**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.
 <small><sub>**BSB:**</sub></small>
 Although they know God’s righteous decree that those who do such things are worthy of death, they not only continue to do these things, but also approve of those who practice them.
-<small><sub>**Literal:**</sub></small>
-who the righteous decree <the> of God having known that those such things doing worthy of death are, not only them they are practicing but also they are approving of those practicing [them].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.31|<< Romans 1:31]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.1|Romans 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|οἵτινες]]  [[G3588\|τὸ]]  [[G1345\|δικαίωμα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1921\|ἐπιγνόντες]]  [[G3754G\|ὅτι]]  [[G3588\|οἱ]]  [[G3588\|τὰ]]  [[G5108\|τοιαῦτα]]  [[G4238\|πράσσοντες]]  [[G0514\|ἄξιοι]]  [[G2288\|θανάτου]]  [[G1510\|εἰσίν,]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G0846\|αὐτὰ]]  [[G4160G\|ποιοῦσιν]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G4909\|συνευδοκοῦσιν]]  [[G3588\|τοῖς]]  [[G4238\|πράσσουσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic COMPLICITY|COMPLICITY]] • [[topic CRIME|CRIME]] • [[topic DEATH|DEATH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic MALICE|MALICE]] • [[topic PLEASURE|PLEASURE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic ROME|ROME]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.31|<< Romans 1:31]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.1|Romans 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

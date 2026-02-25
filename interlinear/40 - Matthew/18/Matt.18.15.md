@@ -1,10 +1,65 @@
+---
+title: Matthew 18:15
+type: Verse
+kjv: "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother."
+bsb: "If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over."
+jesus_said: "Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother."
+greek: "Ἐὰν δὲ ἁμαρτήσῃ εἰς σὲ ὁ ἀδελφός σου, ὕπαγε καὶ ἔλεγξον αὐτὸν μεταξὺ σοῦ καὶ αὐτοῦ μόνου. ἐάν σου ἀκούσῃ, ἐκέρδησας τὸν ἀδελφόν σου."
+pericope: "[[Matt.18.15 A Brother Who Sins|A Brother Who Sins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SECRET|SECRET]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TRESPASS|TRESPASS]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G0264]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G5217]]"
+- "[[G2532]]"
+- "[[G1651]]"
+- "[[G0846]]"
+- "[[G3342]]"
+- "[[G3441]]"
+- "[[G0191]]"
+- "[[G2770]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 18:15**<big><big>[[Matt.18.15 A Brother Who Sins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Moreover if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother.
 <small><sub>**BSB:**</sub></small>
 If your brother sins against you, go and confront him privately. If he listens to you, you have won your brother over.
-<small><sub>**Literal:**</sub></small>
-If now shall sin against you the brother of you, do go and do reprove him between you and him alone. If you he shall hear, you have gained the brother of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.14|<< Matthew 18:14]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.16|Matthew 18:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|Ἐὰν]]  [[G1161\|δὲ]]  [[G0264\|ἁμαρτήσῃ]]  [[G1519\|εἰς]]  [[G4771\|σὲ]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφός]]  [[G4771\|σου,]]  [[G5217\|ὕπαγε]]  [[G2532\|καὶ]]  [[G1651\|ἔλεγξον]]  [[G0846\|αὐτὸν]]  [[G3342\|μεταξὺ]]  [[G4771\|σοῦ]]  [[G2532\|καὶ]]  [[G0846\|αὐτοῦ]]  [[G3441\|μόνου.]]  [[G1437\|ἐάν]]  [[G4771\|σου]]  [[G0191\|ἀκούσῃ,]]  [[G2770\|ἐκέρδησας]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφόν]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COURT|COURT]] • [[topic FRATERNITY|FRATERNITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REPROOF|REPROOF]] • [[topic SECRET|SECRET]] • [[topic STRIFE|STRIFE]] • [[topic TRESPASS|TRESPASS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.14|<< Matthew 18:14]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.16|Matthew 18:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 18:15** is...
 > $\quad$ alluding to: [[LXX.Lev.19.17|Lev 19:17]]

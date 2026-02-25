@@ -1,10 +1,58 @@
+---
+title: Luke 21:30
+type: Verse
+kjv: "When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand."
+bsb: "When they sprout leaves, you can see for yourselves and know that summer is near."
+jesus_said: "When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand."
+greek: "ὅταν προβάλωσιν ἤδη, βλέποντες ἀφ᾽ ἑαυτῶν γινώσκετε ὅτι ἤδη ἐγγὺς τὸ θέρος ἐστίν."
+pericope: "[[Luke.21.29 The Lesson of the Fig Tree|The Lesson of the Fig Tree]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic FIG TREE|FIG TREE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SUMMER|SUMMER]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3752]]"
+- "[[G4261]]"
+- "[[G2235]]"
+- "[[G0991]]"
+- "[[G0575]]"
+- "[[G1438]]"
+- "[[G1097]]"
+- "[[G3754G]]"
+- "[[G1451]]"
+- "[[G3588]]"
+- "[[G2330]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Luke 21:30**<big><big>[[Luke.21.29 The Lesson of the Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand.
 <small><sub>**BSB:**</sub></small>
 When they sprout leaves, you can see for yourselves and know that summer is near.
-<small><sub>**Literal:**</sub></small>
-When they may sprout already, looking [on them] for yourselves you know that already near the summer is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.29|<< Luke 21:29]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.31|Luke 21:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|ὅταν]]  [[G4261\|προβάλωσιν]]  [[G2235\|ἤδη,]]  [[G0991\|βλέποντες]]  [[G0575\|ἀφ᾽]]  [[G1438\|ἑαυτῶν]]  [[G1097\|γινώσκετε]]  [[G3754G\|ὅτι]]  [[G2235\|ἤδη]]  [[G1451\|ἐγγὺς]]  [[G3588\|τὸ]]  [[G2330\|θέρος]]  [[G1510\|ἐστίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic FIG TREE|FIG TREE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SUMMER|SUMMER]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.29|<< Luke 21:29]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.31|Luke 21:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

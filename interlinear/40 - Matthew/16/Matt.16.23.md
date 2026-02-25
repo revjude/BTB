@@ -1,10 +1,62 @@
+---
+title: Matthew 16:23
+type: Verse
+kjv: "But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men."
+bsb: "But Jesus turned and said to Peter, “Get behind Me, Satan! You are a stumbling block to Me. For you do not have in mind the things of God, but the things of men.”"
+jesus_said: "Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men."
+greek: "Ὁ δὲ στραφεὶς εἶπεν τῷ Πέτρῳ· ὕπαγε ὀπίσω μου σατανᾶ, σκάνδαλον εἶ ἐμοῦ, ὅτι οὐ φρονεῖς τὰ τοῦ θεοῦ ἀλλὰ τὰ τῶν ἀνθρώπων.¶"
+pericope: "[[Matt.16.21 Christ’s Passion Foretold|Christ’s Passion Foretold]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4762]]"
+- "[[G2036]]"
+- "[[G4074G]]"
+- "[[G5217]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G4567]]"
+- "[[G4625]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G3754H]]"
+- "[[G3756]]"
+- "[[G5426]]"
+- "[[G2316]]"
+- "[[G0235]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 16:23**<big><big>[[Matt.16.21 Christ’s Passion Foretold|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men.
 <small><sub>**BSB:**</sub></small>
 But Jesus turned and said to Peter, “Get behind Me, Satan! You are a stumbling block to Me. For you do not have in mind the things of God, but the things of men.”
-<small><sub>**Literal:**</sub></small>
-<the> And having turned He said <the> to Peter; do go behind Me Satan! A stumbling block you are to me, For not your thoughts are of those <the> of God but [of] the [things] <the> of men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.22|<< Matthew 16:22]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.24|Matthew 16:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G4762\|στραφεὶς]]  [[G2036\|εἶπεν]]  [[G3588\|τῷ]]  [[G4074G\|Πέτρῳ·]]  [[G5217\|ὕπαγε]]  [[G3694\|ὀπίσω]]  [[G3165\|μου]]  [[G4567\|σατανᾶ,]]  [[G4625\|σκάνδαλον]]  [[G1510\|εἶ]]  [[G1473\|ἐμοῦ,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐ]]  [[G5426\|φρονεῖς]]  [[G3588\|τὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὰ]]  [[G3588\|τῶν]]  [[G0444\|ἀνθρώπων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.22|<< Matthew 16:22]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.24|Matthew 16:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

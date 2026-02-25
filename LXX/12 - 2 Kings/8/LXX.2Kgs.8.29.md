@@ -1,6 +1,87 @@
+---
+title: LXX 2 Kings 8:29
+type: Verse
+lxx: "And king Jehoram returned  to be treated medically in Jezreel from the wounds of which the Syrians struck him in Ramoth Gilead, during  his waging war against Hazael king of Syria. And Ahaziah, son of Jehoram king of Judah went down  to see  Jehoram son of Ahab in Jezreel, because he was infirm."
+greek: "και επέστρεψεν ο βασιλεύς Ιωράμ του ιατρευθήναι εν Ιεζραήλ από των πληγών ων επάταξαν αυτόν οι Σύροι εν Ραμάθ Γαλαάδ εν τω πολεμείν αυτόν μετά Αζαήλ βασιλέως Συρίας και Οχοζίας υιός Ιωράμ βασιλεύς Ιούδα κατέβη του ιδείν τον Ιωράμ υιόν Αχαάβ εν Ιεζραήλ ότι ηρρώστει αυτός"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1994]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2496]]"
+- "[[G3588]]"
+- "[[G7707]]"
+- "[[G1722]]"
+- "[[H3157]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4127]]"
+- "[[G3739]]"
+- "[[G3960]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G4947]]"
+- "[[G1722]]"
+- "[[H7433]]"
+- "[[H1568]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4170]]"
+- "[[G1473]]"
+- "[[G3326]]"
+- "[[H2371]]"
+- "[[G0935]]"
+- "[[G4947]]"
+- "[[G2532]]"
+- "[[H0274]]"
+- "[[G5207]]"
+- "[[G2496]]"
+- "[[G0935]]"
+- "[[G2448]]"
+- "[[G2597]]"
+- "[[G3588]]"
+- "[[G1492]]"
+- "[[G3588]]"
+- "[[G2496]]"
+- "[[G5207]]"
+- "[[H0256]]"
+- "[[G1722]]"
+- "[[H3157]]"
+- "[[G3754]]"
+- "[[G6542]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Kings 8:29** 
 <small><sub>**LXX:**</sub></small>
 And king Jehoram returned  to be treated medically in Jezreel from the wounds of which the Syrians struck him in Ramoth Gilead, during  his waging war against Hazael king of Syria. And Ahaziah, son of Jehoram king of Judah went down  to see  Jehoram son of Ahab in Jezreel, because he was infirm. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1994\|επέστρεψεν]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G2496\|Ιωράμ]] [[G3588\|του]] [[G7707\|ιατρευθήναι]] [[G1722\|εν]] [[H3157\|Ιεζραήλ]] [[G0575\|από]] [[G3588\|των]] [[G4127\|πληγών]] [[G3739\|ων]] [[G3960\|επάταξαν]] [[G1473\|αυτόν]] [[G3588\|οι]] [[G4947\|Σύροι]] [[G1722\|εν]] [[H7433\|Ραμάθ]] [[H1568\|Γαλαάδ]] [[G1722\|εν]] [[G3588\|τω]] [[G4170\|πολεμείν]] [[G1473\|αυτόν]] [[G3326\|μετά]] [[H2371\|Αζαήλ]] [[G0935\|βασιλέως]] [[G4947\|Συρίας]] [[G2532\|και]] [[H0274\|Οχοζίας]] [[G5207\|υιός]] [[G2496\|Ιωράμ]] [[G0935\|βασιλεύς]] [[G2448\|Ιούδα]] [[G2597\|κατέβη]] [[G3588\|του]] [[G1492\|ιδείν]] [[G3588\|τον]] [[G2496\|Ιωράμ]] [[G5207\|υιόν]] [[H0256\|Αχαάβ]] [[G1722\|εν]] [[H3157\|Ιεζραήλ]] [[G3754\|ότι]] [[G6542\|ηρρώστει]] [[G1473\|αυτός]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HAZAEL|HAZAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEZREEL|JEZREEL]] • [[topic JORAM|JORAM]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.28|<< 2 Kings 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.1|2 Kings 9:1 >>]]</td></tr></table>
 
@@ -50,6 +131,6 @@ And king Jehoram returned  to be treated medically in Jezreel from the wounds of
 | Jezreel, | **<big>[[H3157\|Ιεζραήλ]]</big>** |
 | because | **<big>[[G3754\|ότι]]</big>** |
 | he was infirm. | **<big>[[G6542\|ηρρώστει]]</big>** **<big>[[G1473\|αυτός]]</big>** |
-[[2Kgs.8.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.28|<< 2 Kings 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.1|2 Kings 9:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.28|<< 2 Kings 8:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.9.1|2 Kings 9:1 >>]]</td></tr></table>
 
 

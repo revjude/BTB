@@ -1,6 +1,39 @@
+---
+title: Psalm 134:0
+type: Verse
+kjv: "A Song of degrees."
+hebrew: "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת"
+pericope: "[[Ps.134.1 Bless the LORD, All You Servants|Bless the LORD, All You Servants]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 134
+book/chapter: "[[Ps.134|Psalm 134]]"
+chronological_order: 531
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H7892A]]"
+- "[[H9009]]"
+- "[[H4609B]]"
+texts:
+- L
+---
+
 **Psalms 134:0**<big><big>[[Ps.134.1 Bless the LORD, All You Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A Song of degrees.
+<small><sub>**Hebrew:**</sub></small>
+[[H7892A\|שִׁ֗יר]] [[H9009\|הַֽ]][[H4609B\|מַּ֫עֲל֥וֹת]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.134.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.133.3|<< Psalms 133:3]]</td><td align="center" style="border:none;">[[Ps.134|Psalms 134]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.134.1|Psalms 134:1 >>]]</td></tr></table>
 

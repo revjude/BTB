@@ -1,8 +1,72 @@
+---
+title: Ezekiel 14:14
+type: Verse
+kjv: "Though these three men, Noah, Daniel, and Job, were in it, they should deliver but their own souls by their righteousness, saith the Lord GOD."
+bsb: "then even if these three men—Noah, Daniel, and Job—were in it, their righteousness could deliver only themselves, declares the Lord GOD."
+hebrew: "וְ֠הָיוּ שְׁלֹ֨שֶׁת הָאֲנָשִׁ֤ים הָאֵ֙לֶּה֙ בְּתוֹכָ֔הּ נֹ֖חַ דָּנִיֵּ֣אל וְאִיּ֑וֹב הֵ֤מָּה בְצִדְקָתָם֙ יְנַצְּל֣וּ נַפְשָׁ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOB|JOB]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H7969]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H5146]]"
+- "[[H1840G]]"
+- "[[H1841H]]"
+- "[[H9002]]"
+- "[[H0347]]"
+- "[[H1992]]"
+- "[[H6666]]"
+- "[[H9028]]"
+- "[[H5337]]"
+- "[[H5315H]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 14:14**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Though these three men, Noah, Daniel, and Job, were in it, they should deliver [but] their own souls by their righteousness, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 then even if these three men—Noah, Daniel, and Job—were in it, their righteousness could deliver only themselves, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H1961\|הָיוּ]] [[H7969\|שְׁלֹ֨שֶׁת]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֤ים]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H9003\|בְּ]][[H8432\|תוֹכָ֔]][[H9024\|הּ]] [[H5146\|נֹ֖חַ]] [[H1841H\|דָּנִיֵּ֣אל]] [[H9002\|וְ]][[H0347\|אִיּ֑וֹב]] [[H1992\|הֵ֤מָּה]] [[H9003\|בְ]][[H6666\|צִדְקָתָ]][[H9028\|ם֙]] [[H5337\|יְנַצְּל֣וּ]] [[H5315H\|נַפְשָׁ֔]][[H9028\|ם]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANIEL|DANIEL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOB|JOB]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.13|<< Ezekiel 14:13]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.15|Ezekiel 14:15 >>]]</td></tr></table>
 

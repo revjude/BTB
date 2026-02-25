@@ -1,10 +1,59 @@
+---
+title: 2 Thessalonians 1:5
+type: Verse
+kjv: "Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:"
+bsb: "All this is clear evidence of God’s righteous judgment. And so you will be counted worthy of the kingdom of God, for which you are suffering."
+greek: "ἔνδειγμα τῆς δικαίας κρίσεως τοῦ θεοῦ εἰς τὸ καταξιωθῆναι ὑμᾶς τῆς βασιλείας τοῦ θεοῦ ὑπὲρ ἧς καὶ πάσχετε·"
+pericope: "[[2Thess.1.5 Christ’s Coming|Christ’s Coming]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 1
+book/chapter: "[[2Thess.1|2 Thessalonians 1]]"
+chronological_order: 1053
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1730]]"
+- "[[G3588]]"
+- "[[G1342]]"
+- "[[G2920]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G2661]]"
+- "[[G4771]]"
+- "[[G0932]]"
+- "[[G5228]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G3958]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 1:5**<big><big>[[2Thess.1.5 Christ’s Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Which is] a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:
 <small><sub>**BSB:**</sub></small>
 All this is clear evidence of God’s righteous judgment. And so you will be counted worthy of the kingdom of God, for which you are suffering.
-<small><sub>**Literal:**</sub></small>
-[This is] a plain token of the righteous judgment <the> of God unto <the> to be accounted worthy you of the kingdom <the> of God for which also you suffer;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.4|<< 2 Thessalonians 1:4]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.6|2 Thessalonians 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1730\|ἔνδειγμα]]  [[G3588\|τῆς]]  [[G1342\|δικαίας]]  [[G2920\|κρίσεως]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2661\|καταξιωθῆναι]]  [[G4771\|ὑμᾶς]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5228\|ὑπὲρ]]  [[G3739\|ἧς]]  [[G2532\|καὶ]]  [[G3958\|πάσχετε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SUFFERING|SUFFERING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.4|<< 2 Thessalonians 1:4]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.6|2 Thessalonians 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

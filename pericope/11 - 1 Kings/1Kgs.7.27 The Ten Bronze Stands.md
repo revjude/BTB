@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ten Bronze Stands
+type: Pericope
 pericope: "[[1Kgs.7.27 The Ten Bronze Stands|The Ten Bronze Stands]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 7
 book/chapter: "[[1Kgs.7|1 Kings 7]]"
-genre:
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 11
 verses:
 - "[[1Kgs.7.27]]"
 - "[[1Kgs.7.28]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Kgs.7.37]]"
 ---
 
-[[1Kgs.7|1 Kings 7:27 - 1 Kings 7:37]]
+<small>[[1Kgs.7|1 Kings 7:27-37]]</small>
 *The Ten Bronze Stands*
 
 [[1Kgs.7.27|27]] And he made ten bases of brass; four cubits \[was\] the length of one base, and four cubits the breadth thereof, and three cubits the height of it.

@@ -1,10 +1,69 @@
+---
+title: Mark 4:17
+type: Verse
+kjv: "And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended."
+bsb: "But they themselves have no root, and they remain for only a season. When trouble or persecution comes because of the word, they quickly fall away."
+jesus_said: "And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended."
+greek: "καὶ οὐκ ἔχουσιν ῥίζαν ἐν ἑαυτοῖς ἀλλὰ πρόσκαιροί εἰσιν. εἶτα γενομένης θλίψεως ἢ διωγμοῦ διὰ τὸν λόγον, εὐθὺς σκανδαλίζονται."
+pericope: "[[Mark.4.13 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G4491]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G0235]]"
+- "[[G4340]]"
+- "[[G1510]]"
+- "[[G1534]]"
+- "[[G1096]]"
+- "[[G2347]]"
+- "[[G2228]]"
+- "[[G1375]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2112]]"
+- "[[G4624]]"
+texts:
+- NKO
+---
+
 **Mark 4:17**<big><big>[[Mark.4.13 The Parable of the Sower Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended.
 <small><sub>**BSB:**</sub></small>
 But they themselves have no root, and they remain for only a season. When trouble or persecution comes because of the word, they quickly fall away.
-<small><sub>**Literal:**</sub></small>
-and not they have root in themselves but temporary are. then when was happening tribulation or persecution on account of the word, immediately they fall away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.16|<< Mark 4:16]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.18|Mark 4:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2192\|ἔχουσιν]]  [[G4491\|ῥίζαν]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς]]  [[G0235\|ἀλλὰ]]  [[G4340\|πρόσκαιροί]]  [[G1510\|εἰσιν.]]  [[G1534\|εἶτα]]  [[G1096\|γενομένης]]  [[G2347\|θλίψεως]]  [[G2228\|ἢ]]  [[G1375\|διωγμοῦ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3056\|λόγον,]]  [[G2112\|εὐθὺς]]  [[G4624\|σκανδαλίζονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHARACTER|CHARACTER]] • [[topic INSTABILITY|INSTABILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.16|<< Mark 4:16]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.18|Mark 4:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

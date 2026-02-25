@@ -1,8 +1,71 @@
+---
+title: Numbers 12:5
+type: Verse
+kjv: "And the LORD came down in the pillar of the cloud, and stood in the door of the tabernacle, and called Aaron and Miriam: and they both came forth."
+bsb: "and the LORD came down in a pillar of cloud, stood at the entrance to the Tent, and summoned Aaron and Miriam. When both of them had stepped forward,"
+hebrew: "וַיֵּ֤רֶד יְהוָה֙ בְּעַמּ֣וּד עָנָ֔ן וַֽיַּעֲמֹ֖ד פֶּ֣תַח הָאֹ֑הֶל וַיִּקְרָא֙ אַהֲרֹ֣ן וּמִרְיָ֔ם וַיֵּצְא֖וּ שְׁנֵיהֶֽם׃"
+pericope: "[[Num.12.1 The Complaint of Miriam and Aaron|The Complaint of Miriam and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 12
+book/chapter: "[[Num.12|Numbers 12]]"
+chronological_order: 172
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5982G]]"
+- "[[H6051]]"
+- "[[H5975G]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H7121G]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H4813G]]"
+- "[[H3318G]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 12:5**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD came down in the pillar of the cloud, and stood [in] the door of the tabernacle, and called Aaron and Miriam: and they both came forth.
 <small><sub>**BSB:**</sub></small>
 and the LORD came down in a pillar of cloud, stood at the entrance to the Tent, and summoned Aaron and Miriam. When both of them had stepped forward,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּ֤רֶד]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H5982G\|עַמּ֣וּד]] [[H6051\|עָנָ֔ן]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֖ד]] [[H6607\|פֶּ֣תַח]] [[H9009\|הָ]][[H0168G\|אֹ֑הֶל]] [[H9001\|וַ]][[H7121G\|יִּקְרָא֙]] [[H0175\|אַהֲרֹ֣ן]] [[H9002\|וּ]][[H4813G\|מִרְיָ֔ם]] [[H9001\|וַ]][[H3318G\|יֵּצְא֖וּ]] [[H8147\|שְׁנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CITIZENS|CITIZENS]] • [[topic CLOUD|CLOUD]] • [[topic ENVY|ENVY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LEPROSY|LEPROSY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.4|<< Numbers 12:4]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.6|Numbers 12:6 >>]]</td></tr></table>
 

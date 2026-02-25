@@ -1,8 +1,54 @@
+---
+title: Job 23:10
+type: Verse
+kjv: "But he knoweth the way that I take: when he hath tried me, I shall come forth as gold."
+bsb: "Yet He knows the way I have taken; when He has tested me, I will come forth as gold."
+hebrew: "כִּֽי־ יָ֭דַע דֶּ֣רֶךְ עִמָּדִ֑י בְּ֝חָנַ֗נִי כַּזָּהָ֥ב אֵצֵֽא׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H1870G]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H0974]]"
+- "[[H9004]]"
+- "[[H2091]]"
+- "[[H3318G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:10**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he knoweth the way that I take: [when] he hath tried me, I shall come forth as gold.
 <small><sub>**BSB:**</sub></small>
 Yet He knows the way I have taken; when He has tested me, I will come forth as gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3045\|יָ֭דַע]] [[H1870G\|דֶּ֣רֶךְ]] [[H5978\|עִמָּדִ֑]][[H9030\|י]] [[H0974\|בְּ֝חָנַ֗]][[H9030\|נִי]] [[H9004\|כַּ]][[H2091\|זָּהָ֥ב]] [[H3318G\|אֵצֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.9|<< Job 23:9]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.11|Job 23:11 >>]]</td></tr></table>
 

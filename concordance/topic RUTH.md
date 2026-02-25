@@ -9,11 +9,11 @@
 
 → Gleaned in the field of Boaz [[Ruth.2.3|Ru 2:3]]
 
-→ Receives kindness from Boaz [[Ruth.2.4|Ru 2:4]]-[[Ruth.2.17|17]]; [[Ruth.3.15|3:15]]
+→ Receives kindness from Boaz [[Ruth.2.4|Ru 2:4-17]]; [[Ruth.3.15|3:15]]
 
-→ Under Naomi' s instructions claims from Boaz the duty of a kinsman [[Ruth.3.1|Ru 3:1]]-[[Ruth.3.9|9]]
+→ Under Naomi' s instructions claims from Boaz the duty of a kinsman [[Ruth.3.1|Ru 3:1-9]]
 
-→ Marries Boaz [[Ruth.4.9|Ru 4:9]]-[[Ruth.4.13|13]]
+→ Marries Boaz [[Ruth.4.9|Ru 4:9-13]]
 
 → Becomes an ancestor of Jesus [[Ruth.4.13|Ru 4:13]],[[Ruth.4.21|21]],[[Ruth.4.22|22]]
 

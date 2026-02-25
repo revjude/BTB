@@ -1,8 +1,59 @@
+---
+title: Joshua 9:26
+type: Verse
+kjv: "And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not."
+bsb: "So Joshua did this and delivered them from the hands of the Israelites, and they did not kill the Gibeonites."
+hebrew: "וַיַּ֥עַשׂ לָהֶ֖ם כֵּ֑ן וַיַּצֵּ֥ל אוֹתָ֛ם מִיַּ֥ד בְּנֵֽי־ יִשְׂרָאֵ֖ל וְלֹ֥א הֲרָגֽוּם׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3651C]]"
+- "[[H5337]]"
+- "[[H0853]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:26**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And so did he unto them, and delivered them out of the hand of the children of Israel, that they slew them not.
 <small><sub>**BSB:**</sub></small>
 So Joshua did this and delivered them from the hands of the Israelites, and they did not kill the Gibeonites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H3651C\|כֵּ֑ן]] [[H9001\|וַ]][[H5337\|יַּצֵּ֥ל]] [[H0853\|אוֹתָ֛]][[H9038\|ם]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2026\|הֲרָגֽוּ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.25|<< Joshua 9:25]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.27|Joshua 9:27 >>]]</td></tr></table>
 

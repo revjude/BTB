@@ -1,10 +1,67 @@
+---
+title: Acts 16:15
+type: Verse
+kjv: "And when she was baptized, and her household, she besought us, saying, If ye have judged me to be faithful to the Lord, come into my house, and abide there. And she constrained us."
+bsb: "And when she and her household had been baptized, she urged us, “If you consider me a believer in the Lord, come and stay at my house.” And she persuaded us."
+greek: "ὡς δὲ ἐβαπτίσθη καὶ ὁ οἶκος αὐτῆς, παρεκάλεσεν λέγουσα· εἰ κεκρίκατέ με πιστὴν τῷ κυρίῳ εἶναι, εἰσελθόντες εἰς τὸν οἶκόν μου μένετε· καὶ παρεβιάσατο ἡμᾶς.¶"
+pericope: "[[Acts.16.11 Lydia’s Conversion in Philippi|Lydia’s Conversion in Philippi]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic LYDIA|LYDIA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G0907]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3624H]]"
+- "[[G0846]]"
+- "[[G3870]]"
+- "[[G3004G]]"
+- "[[G1487G]]"
+- "[[G2919]]"
+- "[[G3165]]"
+- "[[G4103]]"
+- "[[G2962G]]"
+- "[[G1511]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3306]]"
+- "[[G3849]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 16:15**<big><big>[[Acts.16.11 Lydia’s Conversion in Philippi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when she was baptized, and her household, she besought [us], saying, If ye have judged me to be faithful to the Lord, come into my house, and abide [there]. And she constrained us.
 <small><sub>**BSB:**</sub></small>
 And when she and her household had been baptized, she urged us, “If you consider me a believer in the Lord, come and stay at my house.” And she persuaded us.
-<small><sub>**Literal:**</sub></small>
-When then she was baptized and the house of her, she begged saying; If you have judged me faithful to the Lord to be, having entered into the house of mine do remain; And she persuaded us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.14|<< Acts 16:14]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.16|Acts 16:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G0907\|ἐβαπτίσθη]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3624H\|οἶκος]]  [[G0846\|αὐτῆς,]]  [[G3870\|παρεκάλεσεν]]  [[G3004G\|λέγουσα·]]  [[G1487G\|εἰ]]  [[G2919\|κεκρίκατέ]]  [[G3165\|με]]  [[G4103\|πιστὴν]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G1511\|εἶναι,]]  [[G1525\|εἰσελθόντες]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624H\|οἶκόν]]  [[G3165\|μου]]  [[G3306\|μένετε·]]  [[G2532\|καὶ]]  [[G3849\|παρεβιάσατο]]  [[G3165\|ἡμᾶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic CONVERTS|CONVERTS]] • [[topic FAMILY|FAMILY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic LYDIA|LYDIA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.14|<< Acts 16:14]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.16|Acts 16:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

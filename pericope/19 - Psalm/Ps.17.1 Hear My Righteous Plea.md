@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hear My Righteous Plea
+type: Pericope
 pericope: "[[Ps.17.1 Hear My Righteous Plea|Hear My Righteous Plea]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 17
 book/chapter: "[[Ps.17|Psalm 17]]"
-genre:
+chronological_order: 351
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 16
 verses:
 - "[[Ps.17.0]]"
 - "[[Ps.17.1]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Ps.17.15]]"
 ---
 
-[[Ps.17|Psalm 17:1 - Psalm 17:15]]
+<small>[[Ps.17|Psalm 17:1-15]]</small>
 *Hear My Righteous Plea*
 
 [[Ps.17.0|0]] A Prayer of David.

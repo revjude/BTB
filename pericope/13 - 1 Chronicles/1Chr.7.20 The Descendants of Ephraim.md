@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Ephraim
+type: Pericope
 pericope: "[[1Chr.7.20 The Descendants of Ephraim|The Descendants of Ephraim]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 7
 book/chapter: "[[1Chr.7|1 Chronicles 7]]"
-genre:
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 10
 verses:
 - "[[1Chr.7.20]]"
 - "[[1Chr.7.21]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Chr.7.29]]"
 ---
 
-[[1Chr.7|1 Chronicles 7:20 - 1 Chronicles 7:29]]
+<small>[[1Chr.7|1 Chronicles 7:20-29]]</small>
 *The Descendants of Ephraim*
 
 [[1Chr.7.20|20]] And the sons of Ephraim; Shuthelah, and Bered his son, and Tahath his son, and Eladah his son, and Tahath his son,

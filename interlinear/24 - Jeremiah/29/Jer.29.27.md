@@ -1,8 +1,56 @@
+---
+title: Jeremiah 29:27
+type: Verse
+kjv: "Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you?"
+bsb: "So now, why have you not rebuked Jeremiah of Anathoth, who poses as a prophet among you?"
+hebrew: "וְעַתָּ֗ה לָ֚מָּה לֹ֣א גָעַ֔רְתָּ בְּיִרְמְיָ֖הוּ הָֽעֲנְּתֹתִ֑י הַמִּתְנַבֵּ֖א לָכֶֽם׃"
+pericope: "[[Jer.29.24 The Message to Shemaiah|The Message to Shemaiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3808]]"
+- "[[H1605]]"
+- "[[H9003]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H6069]]"
+- "[[H5012]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:27**<big><big>[[Jer.29.24 The Message to Shemaiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore why hast thou not reproved Jeremiah of Anathoth, which maketh himself a prophet to you?
 <small><sub>**BSB:**</sub></small>
 So now, why have you not rebuked Jeremiah of Anathoth, who poses as a prophet among you?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H9005\|לָ֚]][[H4100\|מָּה]] [[H3808\|לֹ֣א]] [[H1605\|גָעַ֔רְתָּ]] [[H9003\|בְּ]][[H3414L\|יִרְמְיָ֖הוּ]] [[H9009\|הָֽ]][[H6069\|עֲנְּתֹתִ֑י]] [[H9009\|הַ]][[H5012\|מִּתְנַבֵּ֖א]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEMAIAH|SHEMAIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.26|<< Jeremiah 29:26]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.28|Jeremiah 29:28 >>]]</td></tr></table>
 

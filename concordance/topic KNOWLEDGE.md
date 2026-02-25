@@ -31,7 +31,7 @@
 
 → Key of [[Luke.11.52|Lu 11:52]]
 
-→ &#8220;Now we know in part&#8221; [[1Cor.13.9|1Co 13:9]]-[[1Cor.13.12|12]]
+→ &#8220;Now we know in part&#8221; [[1Cor.13.9|1Co 13:9-12]]
 
 → Of God more than burnt offering [[Hos.6.6|Ho 6:6]]
 

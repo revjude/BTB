@@ -1,10 +1,54 @@
+---
+title: Acts 7:48
+type: Verse
+kjv: "Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,"
+bsb: "However, the Most High does not dwell in houses made by human hands. As the prophet says:"
+greek: "ἀλλ᾽ οὐχ ὁ ὕψιστος ἐν χειροποιήτοις ναοῖς κατοικεῖ, καθὼς ὁ προφήτης λέγει·"
+pericope: "[[Acts.7.44 The Tabernacle of the Testimony|The Tabernacle of the Testimony]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G3588]]"
+- "[[G5310]]"
+- "[[G1722]]"
+- "[[G5499]]"
+- "[[G3485]]"
+- "[[G2730]]"
+- "[[G2531]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 7:48**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,
 <small><sub>**BSB:**</sub></small>
 However, the Most High does not dwell in houses made by human hands. As the prophet says:
-<small><sub>**Literal:**</sub></small>
-Yet not the Most High in hand-made temples dwells, Even as the prophet says:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.47|<< Acts 7:47]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.49|Acts 7:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3756\|οὐχ]]  [[G3588\|ὁ]]  [[G5310\|ὕψιστος]]  [[G1722\|ἐν]]  [[G5499\|χειροποιήτοις]]  [[G3485\|ναοῖς]]  [[G2730\|κατοικεῖ,]]  [[G2531\|καθὼς]]  [[G3588\|ὁ]]  [[G4396\|προφήτης]]  [[G3004G\|λέγει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.47|<< Acts 7:47]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.49|Acts 7:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,64 @@
+---
+title: 1 Kings 17:9
+type: Verse
+kjv: "Arise, get thee to Zarephath, which belongeth to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee."
+bsb: "“Get up and go to Zarephath of Sidon, and stay there. Behold, I have commanded a widow there to provide for you.”"
+hebrew: "ק֣וּם לֵ֤ךְ צָרְפַ֙תָה֙ אֲשֶׁ֣ר לְצִיד֔וֹן וְיָשַׁבְתָּ֖ שָׁ֑ם הִנֵּ֨ה צִוִּ֥יתִי שָׁ֛ם אִשָּׁ֥ה אַלְמָנָ֖ה לְכַלְכְּלֶֽךָ׃"
+pericope: "[[1Kgs.17.8 The Widow of Zarephath|The Widow of Zarephath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZAREPHATH|ZAREPHATH]]"
+strongs:
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H6886]]"
+- "[[H9011]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H6721H]]"
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H2009]]"
+- "[[H6680]]"
+- "[[H0802H]]"
+- "[[H0490]]"
+- "[[H3557]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:9**<big><big>[[1Kgs.17.8 The Widow of Zarephath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Arise, get thee to Zarephath, which [belongeth] to Zidon, and dwell there: behold, I have commanded a widow woman there to sustain thee.
 <small><sub>**BSB:**</sub></small>
 “Get up and go to Zarephath of Sidon, and stay there. Behold, I have commanded a widow there to provide for you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|ק֣וּם]] [[H1980G\|לֵ֤ךְ]] [[H6886\|צָרְפַ֙תָ]][[H9011\|ה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H6721H\|צִיד֔וֹן]] [[H9001\|וְ]][[H3427\|יָשַׁבְתָּ֖]] [[H8033G\|שָׁ֑ם]] [[H2009\|הִנֵּ֨ה]] [[H6680\|צִוִּ֥יתִי]] [[H8033G\|שָׁ֛ם]] [[H0802H\|אִשָּׁ֥ה]] [[H0490\|אַלְמָנָ֖ה]] [[H9005\|לְ]][[H3557\|כַלְכְּלֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WOMEN|WOMEN]] • [[topic ZAREPHATH|ZAREPHATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.8|<< 1 Kings 17:8]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.10|1 Kings 17:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

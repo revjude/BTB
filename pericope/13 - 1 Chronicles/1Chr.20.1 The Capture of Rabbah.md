@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Capture of Rabbah
+type: Pericope
 pericope: "[[1Chr.20.1 The Capture of Rabbah|The Capture of Rabbah]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 20
 book/chapter: "[[1Chr.20|1 Chronicles 20]]"
-genre:
+chronological_order: 407
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 3
 verses:
 - "[[1Chr.20.1]]"
 - "[[1Chr.20.2]]"
 - "[[1Chr.20.3]]"
 ---
 
-[[1Chr.20|1 Chronicles 20:1 - 1 Chronicles 20:3]]
+<small>[[1Chr.20|1 Chronicles 20:1-3]]</small>
 *The Capture of Rabbah*
 
 [[1Chr.20.1|1]] And it came to pass, that after the year was expired, at the time that kings go out \[to battle\], Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.

@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 15:16
+type: Verse
+kjv: "And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee;"
+bsb: "But if your servant says to you, ‘I do not want to leave you,’ because he loves you and your household and is well off with you,"
+hebrew: "וְהָיָה֙ כִּֽי־ יֹאמַ֣ר אֵלֶ֔יךָ לֹ֥א אֵצֵ֖א מֵעִמָּ֑ךְ כִּ֤י אֲהֵֽבְךָ֙ וְאֶת־ בֵּיתֶ֔ךָ כִּי־ ט֥וֹב ל֖וֹ עִמָּֽךְ׃"
+pericope: "[[Deut.15.12 Hebrew Servants|Hebrew Servants]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H0157G]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H2895]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:16**<big><big>[[Deut.15.12 Hebrew Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee;
 <small><sub>**BSB:**</sub></small>
 But if your servant says to you, ‘I do not want to leave you,’ because he loves you and your household and is well off with you,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|יֹאמַ֣ר]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H3808\|לֹ֥א]] [[H3318G\|אֵצֵ֖א]] [[H9006\|מֵ]][[H5973B\|עִמָּ֑]][[H9031\|ךְ]] [[H3588A\|כִּ֤י]] [[H0157G\|אֲהֵֽבְ]][[H9031\|ךָ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּיתֶ֔]][[H9021\|ךָ]] [[H3588A\|כִּי]][[H9014\|־]] [[H2895\|ט֥וֹב]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H5973A\|עִמָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.15|<< Deuteronomy 15:15]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.17|Deuteronomy 15:17 >>]]</td></tr></table>
 

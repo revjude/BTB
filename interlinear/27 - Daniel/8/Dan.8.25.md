@@ -1,8 +1,62 @@
+---
+title: Daniel 8:25
+type: Verse
+kjv: "And through his policy also he shall cause craft to prosper in his hand; and he shall magnify himself in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand."
+bsb: "Through his craft and by his hand, he will cause deceit to prosper, and in his own mind he will make himself great. In a time of peace he will destroy many, and he will even stand against the Prince of princes. Yet he will be broken off, but not by human hands."
+hebrew: "וְעַל־ שִׂכְל֗וֹ וְהִצְלִ֤יחַ מִרְמָה֙ בְּיָד֔וֹ וּבִלְבָב֣וֹ יַגְדִּ֔יל וּבְשַׁלְוָ֖ה יַשְׁחִ֣ית רַבִּ֑ים וְעַ֤ל־ שַׂר־ שָׂרִים֙ יַעֲמֹ֔ד וּבְאֶ֥פֶס יָ֖ד יִשָּׁבֵֽר׃"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7922]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H6743B]]"
+- "[[H4820]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3824]]"
+- "[[H1431]]"
+- "[[H7962]]"
+- "[[H7843]]"
+- "[[H7227A]]"
+- "[[H8269]]"
+- "[[H5975I]]"
+- "[[H0657A]]"
+- "[[H7665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:25**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And through his policy also he shall cause craft to prosper in his hand; and he shall magnify [himself] in his heart, and by peace shall destroy many: he shall also stand up against the Prince of princes; but he shall be broken without hand.
 <small><sub>**BSB:**</sub></small>
 Through his craft and by his hand, he will cause deceit to prosper, and in his own mind he will make himself great. In a time of peace he will destroy many, and he will even stand against the Prince of princes. Yet he will be broken off, but not by human hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H7922\|שִׂכְל֗]][[H9023\|וֹ]] [[H9001\|וְ]][[H6743B\|הִצְלִ֤יחַ]] [[H4820\|מִרְמָה֙]] [[H9003\|בְּ]][[H3027H\|יָד֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בִ]][[H3824\|לְבָב֣]][[H9023\|וֹ]] [[H1431\|יַגְדִּ֔יל]] [[H9002\|וּ]][[H9003\|בְ]][[H7962\|שַׁלְוָ֖ה]] [[H7843\|יַשְׁחִ֣ית]] [[H7227A\|רַבִּ֑ים]] [[H9002\|וְ]][[H5921A\|עַ֤ל]][[H9014\|־]] [[H8269\|שַׂר]][[H9014\|־]] [[H8269\|שָׂרִים֙]] [[H5975I\|יַעֲמֹ֔ד]] [[H9002\|וּ]][[H9003\|בְ]][[H0657A\|אֶ֥פֶס]] [[H3027H\|יָ֖ד]] [[H7665\|יִשָּׁבֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.24|<< Daniel 8:24]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.26|Daniel 8:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

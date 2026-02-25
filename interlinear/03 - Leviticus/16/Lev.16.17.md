@@ -1,8 +1,73 @@
+---
+title: Leviticus 16:17
+type: Verse
+kjv: "And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy place, until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel."
+bsb: "No one may be in the Tent of Meeting from the time Aaron goes in to make atonement in the Most Holy Place until he leaves, after he has made atonement for himself, his household, and the whole assembly of Israel."
+hebrew: "וְכָל־ אָדָ֞ם לֹא־ יִהְיֶ֣ה׀ בְּאֹ֣הֶל מוֹעֵ֗ד בְּבֹא֛וֹ לְכַפֵּ֥ר בַּקֹּ֖דֶשׁ עַד־ צֵאת֑וֹ וְכִפֶּ֤ר בַּעֲדוֹ֙ וּבְעַ֣ד בֵּית֔וֹ וּבְעַ֖ד כָּל־ קְהַ֥ל יִשְׂרָאֵֽל׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H0935G]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H3722A]]"
+- "[[H6944J]]"
+- "[[H5704]]"
+- "[[H3318G]]"
+- "[[H9001]]"
+- "[[H1157]]"
+- "[[H9033]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H6951]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:17**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be no man in the tabernacle of the congregation when he goeth in to make an atonement in the holy [place], until he come out, and have made an atonement for himself, and for his household, and for all the congregation of Israel.
 <small><sub>**BSB:**</sub></small>
 No one may be in the Tent of Meeting from the time Aaron goes in to make atonement in the Most Holy Place until he leaves, after he has made atonement for himself, his household, and the whole assembly of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0120G\|אָדָ֞ם]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]][[H9015\|׀]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֗ד]] [[H9003\|בְּ]][[H0935G\|בֹא֛]][[H9043\|וֹ]] [[H9005\|לְ]][[H3722A\|כַפֵּ֥ר]] [[H9003\|בַּ]][[H6944J\|קֹּ֖דֶשׁ]] [[H5704\|עַד]][[H9014\|־]] [[H3318G\|צֵאת֑]][[H9043\|וֹ]] [[H9001\|וְ]][[H3722A\|כִפֶּ֤ר]] [[H1157\|בַּעֲד]][[H9033\|וֹ֙]] [[H9002\|וּ]][[H1157\|בְעַ֣ד]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H1157\|בְעַ֖ד]] [[H3605\|כָּל]][[H9014\|־]] [[H6951\|קְהַ֥ל]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.16|<< Leviticus 16:16]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.18|Leviticus 16:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

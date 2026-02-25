@@ -1,8 +1,70 @@
+---
+title: 2 Kings 6:30
+type: Verse
+kjv: "And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold, he had sackcloth within upon his flesh."
+bsb: "When the king heard the words of the woman, he tore his clothes. And as he passed by on the wall, the people saw the sackcloth under his clothes next to his skin."
+hebrew: "וַיְהִי֩ כִשְׁמֹ֨עַ הַמֶּ֜לֶךְ אֶת־ דִּבְרֵ֤י הָֽאִשָּׁה֙ וַיִּקְרַ֣ע אֶת־ בְּגָדָ֔יו וְה֖וּא עֹבֵ֣ר עַל־ הַחֹמָ֑ה וַיַּ֣רְא הָעָ֔ם וְהִנֵּ֥ה הַשַּׂ֛ק עַל־ בְּשָׂר֖וֹ מִבָּֽיִת׃"
+pericope: "[[2Kgs.6.24 The Siege and Famine of Samaria|The Siege and Famine of Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H0802G]]"
+- "[[H7167]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H2346G]]"
+- "[[H7200G]]"
+- "[[H5971A]]"
+- "[[H2009]]"
+- "[[H8242]]"
+- "[[H1320]]"
+- "[[H9006]]"
+- "[[H1004O]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:30**<big><big>[[2Kgs.6.24 The Siege and Famine of Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold, [he had] sackcloth within upon his flesh.
 <small><sub>**BSB:**</sub></small>
 When the king heard the words of the woman, he tore his clothes. And as he passed by on the wall, the people saw the sackcloth under his clothes next to his skin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כִ]][[H8085G\|שְׁמֹ֨עַ]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֤י]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H9001\|וַ]][[H7167\|יִּקְרַ֣ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H5674A\|עֹבֵ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2346G\|חֹמָ֑ה]] [[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H9009\|הַ]][[H8242\|שַּׂ֛ק]] [[H5921A\|עַל]][[H9014\|־]] [[H1320\|בְּשָׂר֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H1004O\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISRAEL|ISRAEL]] • [[topic MOURNING|MOURNING]] • [[topic RENDING|RENDING]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.29|<< 2 Kings 6:29]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.31|2 Kings 6:31 >>]]</td></tr></table>
 

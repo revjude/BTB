@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Returned Exiles Keep the Passover
+type: Pericope
 pericope: "[[Ezra.6.19 The Returned Exiles Keep the Passover|The Returned Exiles Keep the Passover]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 6
 book/chapter: "[[Ezra.6|Ezra 6]]"
-genre:
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 4
 verses:
 - "[[Ezra.6.19]]"
 - "[[Ezra.6.20]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Ezra.6.22]]"
 ---
 
-[[Ezra.6|Ezra 6:19 - Ezra 6:22]]
+<small>[[Ezra.6|Ezra 6:19-22]]</small>
 *The Returned Exiles Keep the Passover*
 
 [[Ezra.6.19|19]] And the children of the captivity kept the passover upon the fourteenth \[day\] of the first month.

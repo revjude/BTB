@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 32:7
+type: Verse
+kjv: "Be strong and courageous, be not afraid nor dismayed for the king of Assyria, nor for all the multitude that is with him: for there be more with us than with him:"
+bsb: "“Be strong and courageous! Do not be afraid or discouraged before the king of Assyria and the vast army with him, for there is a greater One with us than with him."
+hebrew: "חִזְק֣וּ וְאִמְצ֔וּ אַל־ תִּֽירְא֣וּ וְאַל־ תֵּחַ֗תּוּ מִפְּנֵי֙ מֶ֣לֶךְ אַשּׁ֔וּר וּמִלִּפְנֵ֖י כָּל־ הֶהָמ֣וֹן אֲשֶׁר־ עִמּ֑וֹ כִּֽי־ עִמָּ֥נוּ רַ֖ב מֵעִמּֽוֹ׃"
+pericope: "[[2Chr.32.1 Sennacherib Invades Judah|Sennacherib Invades Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H0553]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3372G]]"
+- "[[H2865]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1995A]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9035]]"
+- "[[H7227A]]"
+- "[[H5973B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:7**<big><big>[[2Chr.32.1 Sennacherib Invades Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be strong and courageous, be not afraid nor dismayed for the king of Assyria, nor for all the multitude that [is] with him: for [there be] more with us than with him:
 <small><sub>**BSB:**</sub></small>
 “Be strong and courageous! Do not be afraid or discouraged before the king of Assyria and the vast army with him, for there is a greater One with us than with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2388G\|חִזְק֣וּ]] [[H9002\|וְ]][[H0553\|אִמְצ֔וּ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְא֣וּ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2865\|תֵּחַ֗תּוּ]] [[H9006\|מִ]][[H6440G\|פְּנֵי֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֔וּר]] [[H9002\|וּ]][[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הֶ]][[H1995A\|הָמ֣וֹן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5973A\|עִמָּ֥]][[H9035\|נוּ]] [[H7227A\|רַ֖ב]] [[H9006\|מֵ]][[H5973B\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.6|<< 2 Chronicles 32:6]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.8|2 Chronicles 32:8 >>]]</td></tr></table>
 

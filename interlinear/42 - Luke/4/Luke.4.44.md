@@ -1,10 +1,49 @@
+---
+title: Luke 4:44
+type: Verse
+kjv: "And he preached in the synagogues of Galilee."
+bsb: "And He continued to preach in the synagogues of Judea."
+greek: "καὶ ἦν κηρύσσων εἰς τὰς συναγωγὰς τῆς Ἰουδαίας.¶"
+pericope: "[[Luke.4.42 Jesus Preaches in Judea|Jesus Preaches in Judea]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G2784]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G2449]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 4:44**<big><big>[[Luke.4.42 Jesus Preaches in Judea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he preached in the synagogues of Galilee.
 <small><sub>**BSB:**</sub></small>
 And He continued to preach in the synagogues of Judea.
-<small><sub>**Literal:**</sub></small>
-And He was preaching in the synagogues <the> of Judea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.43|<< Luke 4:43]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.1|Luke 5:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G2784\|κηρύσσων]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G4864\|συναγωγὰς]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.43|<< Luke 4:43]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.1|Luke 5:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

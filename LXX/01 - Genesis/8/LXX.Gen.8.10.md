@@ -1,6 +1,52 @@
+---
+title: LXX Genesis 8:10
+type: Verse
+lxx: "And waiting still another seven days, again he sent out the dove from the ark."
+greek: "και επισχών έτι ημέρας επτά ετέρας πάλιν εξαπέστειλε την περιστεράν εκ της κιβωτού"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1907]]"
+- "[[G2089]]"
+- "[[G2250]]"
+- "[[G2033]]"
+- "[[G2087]]"
+- "[[G3825]]"
+- "[[G1821]]"
+- "[[G3588]]"
+- "[[G4058]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2787]]"
+---
+
 **LXX Genesis 8:10** 
 <small><sub>**LXX:**</sub></small>
 And waiting still another seven days, again he sent out the dove from the ark. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1907\|επισχών]] [[G2089\|έτι]] [[G2250\|ημέρας]] [[G2033\|επτά]] [[G2087\|ετέρας]] [[G3825\|πάλιν]] [[G1821\|εξαπέστειλε]] [[G3588\|την]] [[G4058\|περιστεράν]] [[G1537\|εκ]] [[G3588\|της]] [[G2787\|κιβωτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.9|<< Genesis 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.11|Genesis 8:11 >>]]</td></tr></table>
 
@@ -19,6 +65,6 @@ And waiting still another seven days, again he sent out the dove from the ark.
 | from | **<big>[[G1537\|εκ]]</big>** |
 | the | **<big>[[G3588\|της]]</big>** |
 | ark. | **<big>[[G2787\|κιβωτού]]</big>** |
-[[Gen.8.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.9|<< Genesis 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.11|Genesis 8:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.8.9|<< Genesis 8:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.8.11|Genesis 8:11 >>]]</td></tr></table>
 
 

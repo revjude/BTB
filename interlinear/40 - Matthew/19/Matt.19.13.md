@@ -1,10 +1,59 @@
+---
+title: Matthew 19:13
+type: Verse
+kjv: "Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them."
+bsb: "Then little children were brought to Jesus for Him to place His hands on them and pray for them. And the disciples rebuked those who brought them."
+greek: "Τότε προσηνέχθησαν αὐτῷ παιδία ἵνα τὰς χεῖρας ἐπιθῇ αὐτοῖς καὶ προσεύξηται· οἱ δὲ μαθηταὶ ἐπετίμησαν αὐτοῖς."
+pericope: "[[Matt.19.13 Jesus Blesses the Children|Jesus Blesses the Children]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HAND|HAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G5119]]"
+- "[[G4374]]"
+- "[[G0846]]"
+- "[[G3813]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G2007]]"
+- "[[G2532]]"
+- "[[G4336]]"
+- "[[G1161]]"
+- "[[G3101]]"
+- "[[G2008]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 19:13**<big><big>[[Matt.19.13 Jesus Blesses the Children|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then were there brought unto him little children, that he should put [his] hands on them, and pray: and the disciples rebuked them.
 <small><sub>**BSB:**</sub></small>
 Then little children were brought to Jesus for Him to place His hands on them and pray for them. And the disciples rebuked those who brought them.
-<small><sub>**Literal:**</sub></small>
-Then were brought to Him little children that the hands He may lay on them and He may pray; <the> however the disciples rebuked them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.12|<< Matthew 19:12]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.14|Matthew 19:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4374\|προσηνέχθησαν]]  [[G0846\|αὐτῷ]]  [[G3813\|παιδία]]  [[G2443\|ἵνα]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2007\|ἐπιθῇ]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G4336\|προσεύξηται·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G3101\|μαθηταὶ]]  [[G2008\|ἐπετίμησαν]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CHILDREN|CHILDREN]] • [[topic HAND|HAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.12|<< Matthew 19:12]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.14|Matthew 19:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

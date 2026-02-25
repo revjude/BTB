@@ -1,8 +1,66 @@
+---
+title: Joshua 13:12
+type: Verse
+kjv: "All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out."
+bsb: "the whole kingdom of Og in Bashan, who had reigned in Ashtaroth and Edrei and had remained as a remnant of the Rephaim. Moses had struck them down and dispossessed them,"
+hebrew: "כָּל־ מַמְלְכ֥וּת עוֹג֙ בַּבָּשָׁ֔ן אֲשֶׁר־ מָלַ֥ךְ בְּעַשְׁתָּר֖וֹת וּבְאֶדְרֶ֑עִי ה֤וּא נִשְׁאַר֙ מִיֶּ֣תֶר הָרְפָאִ֔ים וַיַּכֵּ֥ם מֹשֶׁ֖ה וַיֹּרִשֵֽׁם׃"
+pericope: "[[Josh.13.8 The Inheritance East of the Jordan|The Inheritance East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic GESHUR|GESHUR]]"
+- "[[topic OG|OG]]"
+- "[[topic REPHAIM|REPHAIM]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4468]]"
+- "[[H5747]]"
+- "[[H9003]]"
+- "[[H1316]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H6252H]]"
+- "[[H9002]]"
+- "[[H0154]]"
+- "[[H1931]]"
+- "[[H7604]]"
+- "[[H9006]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H7497B]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H4872]]"
+- "[[H3423H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:12**<big><big>[[Josh.13.8 The Inheritance East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the kingdom of Og in Bashan, which reigned in Ashtaroth and in Edrei, who remained of the remnant of the giants: for these did Moses smite, and cast them out.
 <small><sub>**BSB:**</sub></small>
 the whole kingdom of Og in Bashan, who had reigned in Ashtaroth and Edrei and had remained as a remnant of the Rephaim. Moses had struck them down and dispossessed them,
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H4468\|מַמְלְכ֥וּת]] [[H5747\|עוֹג֙]] [[H9003\|בַּ]][[H1316\|בָּשָׁ֔ן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4427A\|מָלַ֥ךְ]] [[H9003\|בְּ]][[H6252H\|עַשְׁתָּר֖וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H0154\|אֶדְרֶ֑עִי]] [[H1931\|ה֤וּא]] [[H7604\|נִשְׁאַר֙]] [[H9006\|מִ]][[H3499A\|יֶּ֣תֶר]] [[H9009\|הָ]][[H7497B\|רְפָאִ֔ים]] [[H9001\|וַ]][[H5221\|יַּכֵּ֥]][[H9038\|ם]] [[H4872\|מֹשֶׁ֖ה]] [[H9001\|וַ]][[H3423H\|יֹּרִשֵֽׁ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASHAN|BASHAN]] • [[topic GESHUR|GESHUR]] • [[topic OG|OG]] • [[topic REPHAIM|REPHAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.11|<< Joshua 13:11]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.13|Joshua 13:13 >>]]</td></tr></table>
 

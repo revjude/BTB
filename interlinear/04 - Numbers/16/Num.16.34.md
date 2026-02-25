@@ -1,8 +1,68 @@
+---
+title: Numbers 16:34
+type: Verse
+kjv: "And all Israel that were round about them fled at the cry of them: for they said, Lest the earth swallow us up also."
+bsb: "At their cries, all the people of Israel who were around them fled, saying, “The earth may swallow us too!”"
+hebrew: "וְכָל־ יִשְׂרָאֵ֗ל אֲשֶׁ֛ר סְבִיבֹתֵיהֶ֖ם נָ֣סוּ לְקֹלָ֑ם כִּ֣י אָֽמְר֔וּ פֶּן־ תִּבְלָעֵ֖נוּ הָאָֽרֶץ׃"
+pericope: "[[Num.16.28 The Earth Swallows Korah|The Earth Swallows Korah]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H9038]]"
+- "[[H5127]]"
+- "[[H9005]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H6435]]"
+- "[[H1104]]"
+- "[[H9035]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:34**<big><big>[[Num.16.28 The Earth Swallows Korah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Israel that [were] round about them fled at the cry of them: for they said, Lest the earth swallow us up [also].
 <small><sub>**BSB:**</sub></small>
 At their cries, all the people of Israel who were around them fled, saying, “The earth may swallow us too!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0834A\|אֲשֶׁ֛ר]] [[H5439G\|סְבִיבֹתֵי]][[H9038\|הֶ֖ם]] [[H5127\|נָ֣סוּ]] [[H9005\|לְ]][[H6963A\|קֹלָ֑]][[H9028\|ם]] [[H3588A\|כִּ֣י]] [[H0559\|אָֽמְר֔וּ]] [[H6435\|פֶּן]][[H9014\|־]] [[H1104\|תִּבְלָעֵ֖]][[H9035\|נוּ]] [[H9009\|הָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DATHAN|DATHAN]] • [[topic INCENSE|INCENSE]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.33|<< Numbers 16:33]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.35|Numbers 16:35 >>]]</td></tr></table>
 

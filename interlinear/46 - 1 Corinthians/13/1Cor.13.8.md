@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 13:8
+type: Verse
+kjv: "Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away."
+bsb: "Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be restrained; where there is knowledge, it will be dismissed."
+greek: "ἡ ἀγάπη οὐδέποτε πίπτει.¶ Εἴτε δὲ προφητεῖαι, καταργηθήσονται· εἴτε γλῶσσαι, παύσονται· εἴτε γνῶσις, καταργηθήσεται."
+pericope: "[[1Cor.13.1 Love|Love]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 13
+book/chapter: "[[1Cor.13|1 Corinthians 13]]"
+chronological_order: 1070
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic GRACES|GRACES]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G3763]]"
+- "[[G4098]]"
+- "[[G1535]]"
+- "[[G1161]]"
+- "[[G4394]]"
+- "[[G2673]]"
+- "[[G1100]]"
+- "[[G3973]]"
+- "[[G1108]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 13:8**<big><big>[[1Cor.13.1 Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Charity never faileth: but whether [there be] prophecies, they shall fail; whether [there be] tongues, they shall cease; whether [there be] knowledge, it shall vanish away.
 <small><sub>**BSB:**</sub></small>
 Love never fails. But where there are prophecies, they will cease; where there are tongues, they will be restrained; where there is knowledge, it will be dismissed.
-<small><sub>**Literal:**</sub></small>
-<the> Love never falls. if however [there are] prophesies, they will be abated; if tongues, they will cease; if knowledge it will be abated.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.7|<< 1 Corinthians 13:7]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.9|1 Corinthians 13:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G3763\|οὐδέποτε]]  [[G4098\|πίπτει.¶]]  [[G1535\|Εἴτε]]  [[G1161\|δὲ]]  [[G4394\|προφητεῖαι,]]  [[G2673\|καταργηθήσονται·]]  [[G1535\|εἴτε]]  [[G1100\|γλῶσσαι,]]  [[G3973\|παύσονται·]]  [[G1535\|εἴτε]]  [[G1108\|γνῶσις,]]  [[G2673\|καταργηθήσεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic GRACES|GRACES]] • [[topic LOVE|LOVE]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.13.7|<< 1 Corinthians 13:7]]</td><td align="center" style="border:none;">[[1Cor.13|1 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.13.9|1 Corinthians 13:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

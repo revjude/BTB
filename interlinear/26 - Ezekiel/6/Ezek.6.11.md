@@ -1,8 +1,68 @@
+---
+title: Ezekiel 6:11
+type: Verse
+kjv: "Thus saith the Lord GOD; Smite with thine hand, and stamp with thy foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence."
+bsb: "This is what the Lord GOD says: Clap your hands, stomp your feet, and cry out “Alas!” because of all the wicked abominations of the house of Israel, who will fall by sword and famine and plague."
+hebrew: "כֹּֽה־ אָמַ֞ר אֲדֹנָ֣י יְהוִ֗ה הַכֵּ֨ה בְכַפְּךָ֜ וּרְקַ֤ע בְּרַגְלְךָ֙ וֶֽאֱמָר־ אָ֔ח אֶ֛ל כָּל־ תּוֹעֲב֥וֹת רָע֖וֹת בֵּ֣ית יִשְׂרָאֵ֑ל אֲשֶׁ֗ר בַּחֶ֛רֶב בָּרָעָ֥ב וּבַדֶּ֖בֶר יִפֹּֽלוּ׃"
+pericope: "[[Ezek.6.8 A Remnant to Be Blessed|A Remnant to Be Blessed]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7554]]"
+- "[[H7272]]"
+- "[[H0253]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H8441]]"
+- "[[H7451H]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H1698]]"
+- "[[H5307J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 6:11**<big><big>[[Ezek.6.8 A Remnant to Be Blessed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; Smite with thine hand, and stamp with thy foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: Clap your hands, stomp your feet, and cry out “Alas!” because of all the wicked abominations of the house of Israel, who will fall by sword and famine and plague.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֞ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H5221\|הַכֵּ֨ה]] [[H9003\|בְ]][[H3709G\|כַפְּ]][[H9021\|ךָ֜]] [[H9002\|וּ]][[H7554\|רְקַ֤ע]] [[H9003\|בְּ]][[H7272\|רַגְלְ]][[H9021\|ךָ֙]] [[H9002\|וֶֽ]][[H0559\|אֱמָר]][[H9014\|־]] [[H0253\|אָ֔ח]] [[H0413\|אֶ֛ל]] [[H3605\|כָּל]][[H9014\|־]] [[H8441\|תּוֹעֲב֥וֹת]] [[H7451H\|רָע֖וֹת]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0834A\|אֲשֶׁ֗ר]] [[H9003\|בַּ]][[H2719\|חֶ֛רֶב]] [[H9003\|בָּ]][[H7458\|רָעָ֥ב]] [[H9002\|וּ]][[H9003\|בַ]][[H1698\|דֶּ֖בֶר]] [[H5307J\|יִפֹּֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.10|<< Ezekiel 6:10]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.12|Ezekiel 6:12 >>]]</td></tr></table>
 

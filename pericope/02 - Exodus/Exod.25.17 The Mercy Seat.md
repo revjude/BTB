@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mercy Seat
+type: Pericope
 pericope: "[[Exod.25.17 The Mercy Seat|The Mercy Seat]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 25
 book/chapter: "[[Exod.25|Exodus 25]]"
-genre:
+chronological_order: 117
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 6
 verses:
 - "[[Exod.25.17]]"
 - "[[Exod.25.18]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Exod.25.22]]"
 ---
 
-[[Exod.25|Exodus 25:17 - Exodus 25:22]]
+<small>[[Exod.25|Exodus 25:17-22]]</small>
 *The Mercy Seat*
 
 [[Exod.25.17|17]] And thou shalt make a mercy seat \[of\] pure gold: two cubits and a half \[shall be\] the length thereof, and a cubit and a half the breadth thereof.

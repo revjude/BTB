@@ -1,10 +1,74 @@
+---
+title: Matthew 25:9
+type: Verse
+kjv: "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
+bsb: "‘No,’ said the wise ones, ‘or there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.’"
+jesus_said: "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
+greek: "ἀπεκρίθησαν δὲ αἱ φρόνιμοι λέγουσαι· μήποτε μήποτε οὐ μὴ ἀρκέσῃ ἡμῖν καὶ ὑμῖν. πορεύεσθε δὲ μᾶλλον πρὸς τοὺς πωλοῦντας καὶ ἀγοράσατε ἑαυταῖς."
+pericope: "[[Matt.25.1 The Parable of the Ten Virgins|The Parable of the Ten Virgins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic FOOL|FOOL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5429]]"
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G3756]]"
+- "[[G0714]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G4198]]"
+- "[[G3123H]]"
+- "[[G4314]]"
+- "[[G4453]]"
+- "[[G0059]]"
+- "[[G1438]]"
+texts:
+- NKO
+- no
+- k
+---
+
 **Matthew 25:9**<big><big>[[Matt.25.1 The Parable of the Ten Virgins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the wise answered, saying, [Not so]; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.
 <small><sub>**BSB:**</sub></small>
 ‘No,’ said the wise ones, ‘or there may not be enough for both us and you. Instead, go to those who sell oil and buy some for yourselves.’
-<small><sub>**Literal:**</sub></small>
-Answered then the wise saying; otherwise certainly not even it may suffice for us and you. do go now rather to those selling and do buy for yourselves.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.8|<< Matthew 25:8]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.10|Matthew 25:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G1161\|δὲ]]  [[G3588\|αἱ]]  [[G5429\|φρόνιμοι]]  [[G3004G\|λέγουσαι·]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0714\|ἀρκέσῃ]]  [[G3165\|ἡμῖν]]  [[G2532\|καὶ]]  [[G4771\|ὑμῖν.]]  [[G4198\|πορεύεσθε]]  [[G1161\|δὲ]]  [[G3123H\|μᾶλλον]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G4453\|πωλοῦντας]]  [[G2532\|καὶ]]  [[G0059\|ἀγοράσατε]]  [[G1438\|ἑαυταῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic FOOL|FOOL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic REPROBACY|REPROBACY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic VIRGIN|VIRGIN]] • [[topic WISDOM|WISDOM]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.8|<< Matthew 25:8]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.10|Matthew 25:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

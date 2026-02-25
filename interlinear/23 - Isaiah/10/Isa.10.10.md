@@ -1,8 +1,60 @@
+---
+title: Isaiah 10:10
+type: Verse
+kjv: "As my hand hath found the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria;"
+bsb: "As my hand seized the idolatrous kingdoms whose images surpassed those of Jerusalem and Samaria,"
+hebrew: "כַּאֲשֶׁר֙ מָצְאָ֣ה יָדִ֔י לְמַמְלְכֹ֖ת הָאֱלִ֑יל וּפְסִ֣ילֵיהֶ֔ם מִירֽוּשָׁלִַ֖ם וּמִשֹּׁמְרֽוֹן׃"
+pericope: "[[Isa.10.5 Judgment on Assyria|Judgment on Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H4672]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H4467]]"
+- "[[H9009]]"
+- "[[H0457]]"
+- "[[H9002]]"
+- "[[H6456]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:10**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As my hand hath found the kingdoms of the idols, and whose graven images did excel them of Jerusalem and of Samaria;
 <small><sub>**BSB:**</sub></small>
 As my hand seized the idolatrous kingdoms whose images surpassed those of Jerusalem and Samaria,
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁר֙]] [[H4672\|מָצְאָ֣ה]] [[H3027G\|יָדִ֔]][[H9020\|י]] [[H9005\|לְ]][[H4467\|מַמְלְכֹ֖ת]] [[H9009\|הָ]][[H0457\|אֱלִ֑יל]] [[H9002\|וּ]][[H6456\|פְסִ֣ילֵי]][[H9028\|הֶ֔ם]] [[H9006\|מִ]][[H3389\|ירֽוּשָׁלִַ֖ם]] [[H9002\|וּ]][[H9006\|מִ]][[H8111\|שֹּׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BOASTING|BOASTING]] • [[topic ISAIAH|ISAIAH]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.9|<< Isaiah 10:9]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.11|Isaiah 10:11 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Esther 4:6
+type: Verse
+kjv: "So Hatach went forth to Mordecai unto the street of the city, which was before the king’s gate."
+bsb: "So Hathach went out to Mordecai in the city square in front of the king’s gate,"
+hebrew: "וַיֵּצֵ֥א הֲתָ֖ךְ אֶֽל־ מָרְדֳּכָ֑י אֶל־ רְח֣וֹב הָעִ֔יר אֲשֶׁ֖ר לִפְנֵ֥י שַֽׁעַר־ הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.4.1 Mordecai Appeals to Esther|Mordecai Appeals to Esther]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 4
+book/chapter: "[[Esth.4|Esther 4]]"
+chronological_order: 902
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic HATACH|HATACH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H2047]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4782H]]"
+- "[[H7339]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H8179G]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 4:6**<big><big>[[Esth.4.1 Mordecai Appeals to Esther|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Hatach went forth to Mordecai unto the street of the city, which [was] before the king’s gate.
 <small><sub>**BSB:**</sub></small>
-So Hathach went out to Mordecai in the city square in front of the king’s gate,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.5|<< Esther 4:5]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.7|Esther 4:7 >>]]</td></tr></table>
+So Hathach went out to Mordecai in the city square in front of the king’s gate,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H2047\|הֲתָ֖ךְ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H4782H\|מָרְדֳּכָ֑י]] [[H0413\|אֶל]][[H9014\|־]] [[H7339\|רְח֣וֹב]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H0834A\|אֲשֶׁ֖ר]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H8179G\|שַֽׁעַר]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HATACH|HATACH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.4.5|<< Esther 4:5]]</td><td align="center" style="border:none;">[[Esth.4|Esther 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.4.7|Esther 4:7 >>]]</td></tr></table>
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

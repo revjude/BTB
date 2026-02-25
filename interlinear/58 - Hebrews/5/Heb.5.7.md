@@ -1,10 +1,65 @@
+---
+title: Hebrews 5:7
+type: Verse
+kjv: "Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;"
+bsb: "During the days of Jesus’ earthly life, He offered up prayers and petitions with loud cries and tears to the One who could save Him from death, and He was heard because of His reverence."
+greek: "ὃς ἐν ταῖς ἡμέραις τῆς σαρκὸς αὐτοῦ δεήσεις τε καὶ ἱκετηρίας πρὸς τὸν δυνάμενον σῴζειν αὐτὸν ἐκ θανάτου μετὰ κραυγῆς ἰσχυρᾶς καὶ δακρύων προσενέγκας καὶ εἰσακουσθεὶς ἀπὸ τῆς εὐλαβείας,"
+pericope: "[[Heb.5.1 The Perfect High Priest|The Perfect High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 5
+book/chapter: "[[Heb.5|Hebrews 5]]"
+chronological_order: 1144
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G3739]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G4561]]"
+- "[[G0846]]"
+- "[[G1162]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G2428]]"
+- "[[G4314]]"
+- "[[G1410]]"
+- "[[G4982]]"
+- "[[G1537]]"
+- "[[G2288]]"
+- "[[G3326]]"
+- "[[G2906]]"
+- "[[G2478]]"
+- "[[G1144]]"
+- "[[G4374]]"
+- "[[G1522]]"
+- "[[G0575]]"
+- "[[G2124]]"
+texts:
+- NKO
+---
+
 **Hebrews 5:7**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;
 <small><sub>**BSB:**</sub></small>
 During the days of Jesus’ earthly life, He offered up prayers and petitions with loud cries and tears to the One who could save Him from death, and He was heard because of His reverence.
-<small><sub>**Literal:**</sub></small>
-[He] in the days of the flesh of Him prayers both and supplications to the [One] being able to save Him from death with crying loud and tears having offered up and having been heard because of <the> reverence,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.6|<< Hebrews 5:6]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.8|Hebrews 5:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3588\|τῆς]]  [[G4561\|σαρκὸς]]  [[G0846\|αὐτοῦ]]  [[G1162\|δεήσεις]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G2428\|ἱκετηρίας]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G1410\|δυνάμενον]]  [[G4982\|σῴζειν]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐκ]]  [[G2288\|θανάτου]]  [[G3326\|μετὰ]]  [[G2906\|κραυγῆς]]  [[G2478\|ἰσχυρᾶς]]  [[G2532\|καὶ]]  [[G1144\|δακρύων]]  [[G4374\|προσενέγκας]]  [[G2532\|καὶ]]  [[G1522\|εἰσακουσθεὶς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2124\|εὐλαβείας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.6|<< Hebrews 5:6]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.8|Hebrews 5:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

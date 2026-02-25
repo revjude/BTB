@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sing to the LORD, All the Earth
+type: Pericope
 pericope: "[[Ps.96.1 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 96
 book/chapter: "[[Ps.96|Psalm 96]]"
-genre:
+chronological_order: 523
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.96.1]]"
 - "[[Ps.96.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.96.13]]"
 ---
 
-[[Ps.96|Psalm 96:1 - Psalm 96:13]]
+<small>[[Ps.96|Psalm 96:1-13]]</small>
 *Sing to the LORD, All the Earth*
 
 [[Ps.96.1|1]] O sing unto the LORD a new song: sing unto the LORD, all the earth.

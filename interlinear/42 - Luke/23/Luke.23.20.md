@@ -1,10 +1,57 @@
+---
+title: Luke 23:20
+type: Verse
+kjv: "Pilate therefore, willing to release Jesus, spake again to them."
+bsb: "Wanting to release Jesus, Pilate addressed them again,"
+greek: "Πάλιν δὲ ὁ Πιλᾶτος προσεφώνησεν αὐτοῖς θέλων ἀπολῦσαι τὸν Ἰησοῦν."
+pericope: "[[Luke.23.13 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G3825]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G4377]]"
+- "[[G0846]]"
+- "[[G2309]]"
+- "[[G0630G]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 23:20**<big><big>[[Luke.23.13 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Pilate therefore, willing to release Jesus, spake again to them.
 <small><sub>**BSB:**</sub></small>
 Wanting to release Jesus, Pilate addressed them again,
-<small><sub>**Literal:**</sub></small>
-Again therefore <the> Pilate called to them wishing to release <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.19|<< Luke 23:19]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.21|Luke 23:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|Πάλιν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος]]  [[G4377\|προσεφώνησεν]]  [[G0846\|αὐτοῖς]]  [[G2309\|θέλων]]  [[G0630G\|ἀπολῦσαι]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic POLITICS|POLITICS]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.19|<< Luke 23:19]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.21|Luke 23:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

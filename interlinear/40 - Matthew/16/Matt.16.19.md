@@ -1,10 +1,66 @@
+---
+title: Matthew 16:19
+type: Verse
+kjv: "And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven."
+bsb: "I will give you the keys of the kingdom of heaven. Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.”"
+jesus_said: "And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven."
+greek: "καὶ δώσω σοι τὰς κλεῖδας τῆς βασιλείας τῶν οὐρανῶν, καὶ ὃ ἐὰν δήσῃς ἐπὶ τῆς γῆς, ἔσται δεδεμένον ἐν τοῖς οὐρανοῖς, καὶ ὃ ἐὰν λύσῃς ἐπὶ τῆς γῆς, ἔσται λελυμένον ἐν τοῖς οὐρανοῖς.¶"
+pericope: "[[Matt.16.13 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic KEY|KEY]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic VICEGERENCY|VICEGERENCY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2807]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G1210]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3089]]"
+texts:
+- ko
+- NKO
+- NK(o)
+---
+
 **Matthew 16:19**<big><big>[[Matt.16.13 Peter’s Confession of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven.
 <small><sub>**BSB:**</sub></small>
 I will give you the keys of the kingdom of heaven. Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.”
-<small><sub>**Literal:**</sub></small>
-and I will give to you the keys of the kingdom of the heavens, and whatever if you shall bind on the earth, will be bound in the heavens, and whatever maybe you shall loose on the earth, will be loosed in the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.18|<< Matthew 16:18]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.20|Matthew 16:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1325\|δώσω]]  [[G4771\|σοι]]  [[G3588\|τὰς]]  [[G2807\|κλεῖδας]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν,]]  [[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G1437\|ἐὰν]]  [[G1210\|δήσῃς]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G1510\|ἔσται]]  [[G1210\|δεδεμένον]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς,]]  [[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G1437\|ἐὰν]]  [[G3089\|λύσῃς]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G1510\|ἔσται]]  [[G3089\|λελυμένον]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic KEY|KEY]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PETER|PETER]] • [[topic VICEGERENCY|VICEGERENCY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.18|<< Matthew 16:18]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.20|Matthew 16:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

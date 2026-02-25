@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Spies Explore Canaan
+type: Pericope
 pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 13
 book/chapter: "[[Num.13|Numbers 13]]"
-genre:
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 24
 verses:
 - "[[Num.13.1]]"
 - "[[Num.13.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Num.13.24]]"
 ---
 
-[[Num.13|Numbers 13:1 - Numbers 13:24]]
+<small>[[Num.13|Numbers 13:1-24]]</small>
 *The Spies Explore Canaan*
 
 [[Num.13.1|1]] And the LORD spake unto Moses, saying,

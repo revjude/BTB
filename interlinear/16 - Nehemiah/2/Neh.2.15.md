@@ -1,8 +1,61 @@
+---
+title: Nehemiah 2:15
+type: Verse
+kjv: "Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned."
+bsb: "so I went up the valley by night and inspected the wall. Then I headed back and reentered through the Valley Gate."
+hebrew: "וָאֱהִ֨י עֹלֶ֤ה בַנַּ֙חַל֙ לַ֔יְלָה וָאֱהִ֥י שֹׂבֵ֖ר בַּחוֹמָ֑ה וָאָשׁ֗וּב וָאָב֛וֹא בְּשַׁ֥עַר הַגַּ֖יְא וָאָשֽׁוּב׃"
+pericope: "[[Neh.2.11 Nehemiah Inspects the Walls|Nehemiah Inspects the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic CEDRON|CEDRON]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic GIHON|GIHON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic KIDRON|KIDRON]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H5158N]]"
+- "[[H3915]]"
+- "[[H7663A]]"
+- "[[H2346G]]"
+- "[[H7725G]]"
+- "[[H0935G]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H1516M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:15**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and [so] returned.
 <small><sub>**BSB:**</sub></small>
 so I went up the valley by night and inspected the wall. Then I headed back and reentered through the Valley Gate.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H1961\|אֱהִ֨י]] [[H5927G\|עֹלֶ֤ה]] [[H9003\|בַ]][[H5158N\|נַּ֙חַל֙]] [[H3915\|לַ֔יְלָה]] [[H9001\|וָ]][[H1961\|אֱהִ֥י]] [[H7663A\|שֹׂבֵ֖ר]] [[H9003\|בַּ]][[H2346G\|חוֹמָ֑ה]] [[H9001\|וָ]][[H7725G\|אָשׁ֗וּב]] [[H9001\|וָ]][[H0935G\|אָב֛וֹא]] [[H9003\|בְּ]][[H8179G\|שַׁ֥עַר]] [[H9009\|הַ]][[H1516M\|גַּ֖יְא]] [[H9001\|וָ]][[H7725G\|אָשֽׁוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDRON|CEDRON]] • [[topic COUNTRY|COUNTRY]] • [[topic GIHON|GIHON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic KIDRON|KIDRON]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.14|<< Nehemiah 2:14]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.16|Nehemiah 2:16 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: Joshua 13:27
+type: Verse
+kjv: "And in the valley, Betharam, and Bethnimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and his border, even unto the edge of the sea of Chinnereth on the other side Jordan eastward."
+bsb: "and in the valley, Beth-haram, Beth-nimrah, Succoth, and Zaphon, with the rest of the kingdom of Sihon king of Heshbon (the territory on the east side of the Jordan up to the edge of the Sea of Chinnereth)."
+hebrew: "וּבָעֵ֡מֶק בֵּ֣ית הָרָם֩ וּבֵ֨ית נִמְרָ֜ה וְסֻכּ֣וֹת וְצָפ֗וֹן יֶ֚תֶר מַמְלְכ֗וּת סִיחוֹן֙ מֶ֣לֶךְ חֶשְׁבּ֔וֹן הַיַּרְדֵּ֖ן וּגְבֻ֑ל עַד־ קְצֵה֙ יָם־ כִּנֶּ֔רֶת עֵ֥בֶר הַיַּרְדֵּ֖ן מִזְרָֽחָה׃"
+pericope: "[[Josh.13.24 Gad’s Inheritance|Gad’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BETH-ARAM|BETH-ARAM]]"
+- "[[topic BETH-HARAN|BETH-HARAN]]"
+- "[[topic BETH-NIMRAH|BETH-NIMRAH]]"
+- "[[topic CHINNERETH|CHINNERETH]]"
+- "[[topic GAD|GAD]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+- "[[topic ZAPHON|ZAPHON]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6010R]]"
+- "[[H1027]]"
+- "[[H1039]]"
+- "[[H5523G]]"
+- "[[H6829]]"
+- "[[H3499A]]"
+- "[[H4468]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H2809]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H1366G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7097A]]"
+- "[[H3220G]]"
+- "[[H3672G]]"
+- "[[H5676H]]"
+- "[[H4217H]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:27**<big><big>[[Josh.13.24 Gad’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the valley, Betharam, and Bethnimrah, and Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, Jordan and [his] border, [even] unto the edge of the sea of Chinnereth on the other side Jordan eastward.
 <small><sub>**BSB:**</sub></small>
 and in the valley, Beth-haram, Beth-nimrah, Succoth, and Zaphon, with the rest of the kingdom of Sihon king of Heshbon (the territory on the east side of the Jordan up to the edge of the Sea of Chinnereth).
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בָ]][[H6010R\|עֵ֡מֶק]] [[H1027\|בֵּ֣ית]] [[H1027\|הָרָם֩]] [[H9002\|וּ]][[H1039\|בֵ֨ית]] [[H1039\|נִמְרָ֜ה]] [[H9002\|וְ]][[H5523G\|סֻכּ֣וֹת]] [[H9002\|וְ]][[H6829\|צָפ֗וֹן]] [[H3499A\|יֶ֚תֶר]] [[H4468\|מַמְלְכ֗וּת]] [[H5511\|סִיחוֹן֙]] [[H4428G\|מֶ֣לֶךְ]] [[H2809\|חֶשְׁבּ֔וֹן]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H9002\|וּ]][[H1366G\|גְבֻ֑ל]] [[H5704\|עַד]][[H9014\|־]] [[H7097A\|קְצֵה֙]] [[H3220G\|יָם]][[H9014\|־]] [[H3672G\|כִּנֶּ֔רֶת]] [[H5676H\|עֵ֥בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H4217H\|מִזְרָֽחָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-ARAM|BETH-ARAM]] • [[topic BETH-HARAN|BETH-HARAN]] • [[topic BETH-NIMRAH|BETH-NIMRAH]] • [[topic CHINNERETH|CHINNERETH]] • [[topic GAD|GAD]] • [[topic GALILEE|GALILEE]] • [[topic SUCCOTH|SUCCOTH]] • [[topic TOPOGRAPHY|TOPOGRAPHY]] • [[topic ZAPHON|ZAPHON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.26|<< Joshua 13:26]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.28|Joshua 13:28 >>]]</td></tr></table>
 

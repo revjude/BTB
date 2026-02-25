@@ -1,8 +1,62 @@
+---
+title: Isaiah 2:22
+type: Verse
+kjv: "Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of?"
+bsb: "Put no more trust in man, who has only the breath in his nostrils. Of what account is he?"
+hebrew: "חִדְל֤וּ לָכֶם֙ מִן־ הָ֣אָדָ֔ם אֲשֶׁ֥ר נְשָׁמָ֖ה בְּאַפּ֑וֹ כִּֽי־ בַמֶּ֥ה נֶחְשָׁ֖ב הֽוּא׃ פ"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H2308]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H0834A]]"
+- "[[H5397]]"
+- "[[H9003]]"
+- "[[H0639H]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H4100]]"
+- "[[H2803J]]"
+- "[[H1931]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 2:22**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cease ye from man, whose breath [is] in his nostrils: for wherein is he to be accounted of?
 <small><sub>**BSB:**</sub></small>
 Put no more trust in man, who has only the breath in his nostrils. Of what account is he?
+<small><sub>**Hebrew:**</sub></small>
+[[H2308\|חִדְל֤וּ]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0120G\|אָדָ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H5397\|נְשָׁמָ֖ה]] [[H9003\|בְּ]][[H0639H\|אַפּ֑]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בַ]][[H4100\|מֶּ֥ה]] [[H2803J\|נֶחְשָׁ֖ב]] [[H1931\|הֽוּא]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.21|<< Isaiah 2:21]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.1|Isaiah 3:1 >>]]</td></tr></table>
 
@@ -18,7 +72,7 @@ Put no more trust in man, who has only the breath in his nostrils. Of what accou
 | for  |**<big>&#8207;[[H3588A\|כִּֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> how?  |**<big>&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H4100\|מֶּ֥ה]]&#8207; </big>**| va.<small><sup>[[HR]]</sup></small> Meh<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to be accounted  |**<big>&#8207;[[H2803J\|נֶחְשָׁ֖ב]]&#8207; </big>**| nech.Shav<small><sup>[[HVNrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] he  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.21|<< Isaiah 2:21]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.1|Isaiah 3:1 >>]]</td></tr></table>
 
 

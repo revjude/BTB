@@ -1,10 +1,55 @@
+---
+title: John 11:18
+type: Verse
+kjv: "Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:"
+bsb: "Now Bethany was near Jerusalem, a little less than two miles away,"
+greek: "ἦν δὲ ἡ Βηθανία ἐγγὺς τῶν Ἱεροσολύμων ὡς ἀπὸ σταδίων δεκαπέντε.¶"
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic FURLONG|FURLONG]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0963]]"
+- "[[G1451]]"
+- "[[G2414]]"
+- "[[G5613]]"
+- "[[G0575]]"
+- "[[G4712]]"
+- "[[G1178]]"
+texts:
+- NKO
+---
+
 **John 11:18**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now Bethany was nigh unto Jerusalem, about fifteen furlongs off:
 <small><sub>**BSB:**</sub></small>
 Now Bethany was near Jerusalem, a little less than two miles away,
-<small><sub>**Literal:**</sub></small>
-Was now <the> Bethany near <the> Jerusalem about away stadia fifteen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.17|<< John 11:17]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.19|John 11:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G0963\|Βηθανία]]  [[G1451\|ἐγγὺς]]  [[G3588\|τῶν]]  [[G2414\|Ἱεροσολύμων]]  [[G5613\|ὡς]]  [[G0575\|ἀπὸ]]  [[G4712\|σταδίων]]  [[G1178\|δεκαπέντε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHANY|BETHANY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic FURLONG|FURLONG]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.17|<< John 11:17]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.19|John 11:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

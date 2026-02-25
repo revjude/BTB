@@ -1,9 +1,77 @@
+---
+title: LXX 1 Samuel 7:1
+type: Verse
+lxx: "And the men of Kirjath-jearim came, and they led up the ark of the covenant of the lord. And they brought it into the house of Abinadab  on the hill. And  they sanctified Eleazar his son to guard the ark of the covenant of the lord."
+greek: "και έρχονται οι άνδρες Καριαθιαρίμ και ανάγουσι την κιβωτόν την διαθήκης κυρίου και εισήγαγον αυτήν εις οίκον Αμιναδάβ τον εν τω βουνώ και τον Ελεάζαρ τον υιόν αυτού ηγίασαν φυλάσσειν την κιβωτόν διαθήκης κυρίου"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 7
+book/chapter: "[[1Sam.7|1 Samuel 7]]"
+chronological_order: 286
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABINADAB|ABINADAB]]"
+- "[[topic ARK|ARK]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[H7157]]"
+- "[[G2532]]"
+- "[[G0321]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G3588]]"
+- "[[G1242]]"
+- "[[G2962]]"
+- "[[G2532]]"
+- "[[G1521]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3624]]"
+- "[[G0284]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1015]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1648]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G0037]]"
+- "[[G5442]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G1242]]"
+- "[[G2962]]"
+---
+
 **LXX 1 Samuel 7:1** 
 
 ***The Ark Brought into the House of Abinadab***
 
 <small><sub>**LXX:**</sub></small>
 And the men of Kirjath-jearim came, and they led up the ark \[of\] the covenant of \[the\] <span class="smallcaps">lord</span>. And they brought it into \[the\] house of Abinadab  on the hill. And  they sanctified Eleazar his son to guard the ark of \[the\] covenant of \[the\] <span class="smallcaps">lord</span>. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2064\|έρχονται]] [[G3588\|οι]] [[G0435\|άνδρες]] [[H7157\|Καριαθιαρίμ]] [[G2532\|και]] [[G0321\|ανάγουσι]] [[G3588\|την]] [[G2787\|κιβωτόν]] [[G3588\|την]] [[G1242\|διαθήκης]] [[G2962\|κυρίου]] [[G2532\|και]] [[G1521\|εισήγαγον]] [[G1473\|αυτήν]] [[G1519\|εις]] [[G3624\|οίκον]] [[G0284\|Αμιναδάβ]] [[G3588\|τον]] [[G1722\|εν]] [[G3588\|τω]] [[G1015\|βουνώ]] [[G2532\|και]] [[G3588\|τον]] [[G1648\|Ελεάζαρ]] [[G3588\|τον]] [[G5207\|υιόν]] [[G1473\|αυτού]] [[G0037\|ηγίασαν]] [[G5442\|φυλάσσειν]] [[G3588\|την]] [[G2787\|κιβωτόν]] [[G1242\|διαθήκης]] [[G2962\|κυρίου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABINADAB|ABINADAB]] • [[topic ARK|ARK]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic GIBEAH|GIBEAH]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.21|<< 1 Samuel 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.2|1 Samuel 7:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -46,6 +114,6 @@ And the men of Kirjath-jearim came, and they led up the ark \[of\] the covenant 
 | ark | **<big>[[G2787\|κιβωτόν]]</big>** |
 | of \[the\] covenant | **<big>[[G1242\|διαθήκης]]</big>** |
 | of \[the\] <span class="smallcaps">lord</span>. | **<big>[[G2962\|κυρίου]]</big>** |
-[[1Sam.7.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.21|<< 1 Samuel 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.2|1 Samuel 7:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.6.21|<< 1 Samuel 6:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.7.2|1 Samuel 7:2 >>]]</td></tr></table>
 
 

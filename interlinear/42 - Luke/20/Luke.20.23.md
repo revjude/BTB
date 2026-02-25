@@ -1,10 +1,57 @@
+---
+title: Luke 20:23
+type: Verse
+kjv: "But he perceived their craftiness, and said unto them, Why tempt ye me?"
+bsb: "But Jesus saw through their duplicity and said to them,"
+jesus_said: "Why tempt ye me?"
+greek: "κατανοήσας δὲ αὐτῶν τὴν πανουργίαν εἶπεν πρὸς αὐτούς τί με πειράζετε·"
+pericope: "[[Luke.20.19 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[G2657]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3834]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G3985H]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **Luke 20:23**<big><big>[[Luke.20.19 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he perceived their craftiness, and said unto them, Why tempt ye me?
 <small><sub>**BSB:**</sub></small>
 But Jesus saw through their duplicity and said to them,
-<small><sub>**Literal:**</sub></small>
-having perceived however of them the craftiness He said to them why me do you test;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.22|<< Luke 20:22]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.24|Luke 20:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2657\|κατανοήσας]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G3588\|τὴν]]  [[G3834\|πανουργίαν]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς]]  [[G5101\|τί]]  [[G3165\|με]]  [[G3985H\|πειράζετε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.22|<< Luke 20:22]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.24|Luke 20:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

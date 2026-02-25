@@ -1,8 +1,69 @@
+---
+title: Amos 9:8
+type: Verse
+kjv: "Behold, the eyes of the Lord GOD are upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD."
+bsb: "Surely the eyes of the Lord GOD are on the sinful kingdom, and I will destroy it from the face of the earth. Yet I will not utterly destroy the house of Jacob,” declares the LORD."
+hebrew: "הִנֵּ֞ה עֵינֵ֣י׀ אֲדֹנָ֣י יְהוִ֗ה בַּמַּמְלָכָה֙ הַֽחַטָּאָ֔ה וְהִשְׁמַדְתִּ֣י אֹתָ֔הּ מֵעַ֖ל פְּנֵ֣י הָאֲדָמָ֑ה אֶ֗פֶס כִּ֠י לֹ֣א הַשְׁמֵ֥יד אַשְׁמִ֛יד אֶת־ בֵּ֥ית יַעֲקֹ֖ב נְאֻם־ יְהוָֽה׃"
+pericope: "[[Amos.9.1 The Destruction of Israel|The Destruction of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic EYE|EYE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2009]]"
+- "[[H5869A]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9003]]"
+- "[[H4467]]"
+- "[[H9009]]"
+- "[[H2400]]"
+- "[[H9001]]"
+- "[[H8045]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0127G]]"
+- "[[H0657A]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3290]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 9:8**<big><big>[[Amos.9.1 The Destruction of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the eyes of the Lord GOD [are] upon the sinful kingdom, and I will destroy it from off the face of the earth; saving that I will not utterly destroy the house of Jacob, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Surely the eyes of the Lord GOD are on the sinful kingdom, and I will destroy it from the face of the earth. Yet I will not utterly destroy the house of Jacob,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֞ה]] [[H5869A\|עֵינֵ֣י]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H9003\|בַּ]][[H4467\|מַּמְלָכָה֙]] [[H9009\|הַֽ]][[H2400\|חַטָּאָ֔ה]] [[H9001\|וְ]][[H8045\|הִשְׁמַדְתִּ֣י]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֑ה]] [[H0657A\|אֶ֗פֶס]] [[H3588A\|כִּ֠י]] [[H3808\|לֹ֣א]] [[H8045\|הַשְׁמֵ֥יד]] [[H8045\|אַשְׁמִ֛יד]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3290\|יַעֲקֹ֖ב]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EYE|EYE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.7|<< Amos 9:7]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.9|Amos 9:9 >>]]</td></tr></table>
 

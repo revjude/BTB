@@ -1,10 +1,60 @@
+---
+title: John 16:25
+type: Verse
+kjv: "These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father."
+bsb: "I have spoken these things to you in figures of speech. An hour is coming when I will no longer speak to you this way, but will tell you plainly about the Father."
+jesus_said: "These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father."
+greek: "Ταῦτα ἐν παροιμίαις λελάληκα ὑμῖν· ἀλλ᾽ ἔρχεται ὥρα ὅτε οὐκέτι οὐκέτι ἐν παροιμίαις λαλήσω ὑμῖν ἀλλὰ παρρησίᾳ περὶ τοῦ πατρὸς ἀπαγγελῶ ὑμῖν.¶"
+pericope: "[[John.16.23 Ask in My Name|Ask in My Name]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 16
+book/chapter: "[[John.16|John 16]]"
+chronological_order: 1004
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3778]]"
+- "[[G1722]]"
+- "[[G3942]]"
+- "[[G2980]]"
+- "[[G4771]]"
+- "[[G0235]]"
+- "[[G2064]]"
+- "[[G5610]]"
+- "[[G3753]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3954]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0518]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **John 16:25**<big><big>[[John.16.23 Ask in My Name|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father.
 <small><sub>**BSB:**</sub></small>
 I have spoken these things to you in figures of speech. An hour is coming when I will no longer speak to you this way, but will tell you plainly about the Father.
-<small><sub>**Literal:**</sub></small>
-These things in allegories I have spoken to you; but is coming an hour when no longer in allegories I will speak to you but plainly concerning the Father I will announce to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.24|<< John 16:24]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.26|John 16:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G1722\|ἐν]]  [[G3942\|παροιμίαις]]  [[G2980\|λελάληκα]]  [[G4771\|ὑμῖν·]]  [[G0235\|ἀλλ᾽]]  [[G2064\|ἔρχεται]]  [[G5610\|ὥρα]]  [[G3753\|ὅτε]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G1722\|ἐν]]  [[G3942\|παροιμίαις]]  [[G2980\|λαλήσω]]  [[G4771\|ὑμῖν]]  [[G0235\|ἀλλὰ]]  [[G3954\|παρρησίᾳ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G0518\|ἀπαγγελῶ]]  [[G4771\|ὑμῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.16.24|<< John 16:24]]</td><td align="center" style="border:none;">[[John.16|John 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.16.26|John 16:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

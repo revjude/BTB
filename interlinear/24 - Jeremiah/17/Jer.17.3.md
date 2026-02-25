@@ -1,8 +1,59 @@
+---
+title: Jeremiah 17:3
+type: Verse
+kjv: "O my mountain in the field, I will give thy substance and all thy treasures to the spoil, and thy high places for sin, throughout all thy borders."
+bsb: "O My mountain in the countryside, I will give over your wealth and all your treasures as plunder, because of the sin of your high places, within all your borders."
+hebrew: "הֲרָרִי֙ בַּשָּׂדֶ֔ה חֵילְךָ֥ כָל־ אוֹצְרוֹתֶ֖יךָ לָבַ֣ז אֶתֵּ֑ן בָּמֹתֶ֕יךָ בְּחַטָּ֖את בְּכָל־ גְּבוּלֶֽיךָ׃"
+pericope: "[[Jer.17.1 The Sin and Punishment of Judah|The Sin and Punishment of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2042]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H2428H]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0214]]"
+- "[[H9005]]"
+- "[[H0957]]"
+- "[[H5414G]]"
+- "[[H1116]]"
+- "[[H2403B]]"
+- "[[H1366H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:3**<big><big>[[Jer.17.1 The Sin and Punishment of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O my mountain in the field, I will give thy substance [and] all thy treasures to the spoil, [and] thy high places for sin, throughout all thy borders.
 <small><sub>**BSB:**</sub></small>
 O My mountain in the countryside, I will give over your wealth and all your treasures as plunder, because of the sin of your high places, within all your borders.
+<small><sub>**Hebrew:**</sub></small>
+[[H2042\|הֲרָרִ]][[H9020\|י֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H2428H\|חֵילְ]][[H9021\|ךָ֥]] [[H3605\|כָל]][[H9014\|־]] [[H0214\|אוֹצְרוֹתֶ֖י]][[H9021\|ךָ]] [[H9005\|לָ]][[H0957\|בַ֣ז]] [[H5414G\|אֶתֵּ֑ן]] [[H1116\|בָּמֹתֶ֕י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H2403B\|חַטָּ֖את]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1366H\|גְּבוּלֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.2|<< Jeremiah 17:2]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.4|Jeremiah 17:4 >>]]</td></tr></table>
 

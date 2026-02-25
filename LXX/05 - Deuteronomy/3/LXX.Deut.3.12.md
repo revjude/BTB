@@ -1,9 +1,82 @@
+---
+title: LXX Deuteronomy 3:12
+type: Verse
+lxx: "And  that land we inherited in  that time from Aroer, which is by the bank of the stream Arnon, and the half of the mountain of Gilead. And  his cities I gave  to Reuben and  Gad."
+greek: "και την γην εκείνην εκληρονομήσαμεν εν τω καιρώ εκείνω από Αροήρ η εστι παρά το χείλος χειμάρρου Αρνών και το ήμισυ του όρους Γαδαάδ και τας πόλεις αυτού έδωκα τω Ρουβήν και τω Γαδ"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AROER|AROER]]"
+- "[[topic BASHAN|BASHAN]]"
+- "[[topic GAD|GAD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OG|OG]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1565]]"
+- "[[G2816]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1565]]"
+- "[[G0575]]"
+- "[[H6177]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G5491]]"
+- "[[G5493]]"
+- "[[H0769]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2255]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[H1568]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G4502]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1045]]"
+---
+
 **LXX Deuteronomy 3:12** 
 
 ***The Israelites Inherit the Land***
 
 <small><sub>**LXX:**</sub></small>
 And  that land we inherited in  that time from Aroer, which is by the bank of \[the\] stream Arnon, and the half of the mountain of Gilead. And  his cities I gave  to Reuben and  Gad. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|την]] [[G1093\|γην]] [[G1565\|εκείνην]] [[G2816\|εκληρονομήσαμεν]] [[G1722\|εν]] [[G3588\|τω]] [[G2540\|καιρώ]] [[G1565\|εκείνω]] [[G0575\|από]] [[H6177\|Αροήρ]] [[G3739\|η]] [[G1510\|εστι]] [[G3844\|παρά]] [[G3588\|το]] [[G5491\|χείλος]] [[G5493\|χειμάρρου]] [[H0769\|Αρνών]] [[G2532\|και]] [[G3588\|το]] [[G2255\|ήμισυ]] [[G3588\|του]] [[G3735\|όρους]] [[H1568\|Γαδαάδ]] [[G2532\|και]] [[G3588\|τας]] [[G4172\|πόλεις]] [[G1473\|αυτού]] [[G1325\|έδωκα]] [[G3588\|τω]] [[G4502\|Ρουβήν]] [[G2532\|και]] [[G3588\|τω]] [[G1045\|Γαδ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AROER|AROER]] • [[topic BASHAN|BASHAN]] • [[topic GAD|GAD]] • [[topic ISRAEL|ISRAEL]] • [[topic OG|OG]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.11|<< Deuteronomy 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.13|Deuteronomy 3:13 >>]]</td></tr></table>
 
@@ -40,6 +113,6 @@ And  that land we inherited in  that time from Aroer, which is by the bank of \[
 | and | **<big>[[G2532\|και]]</big>** |
 | \<obj.> | **<big>[[G3588\|τω]]</big>** |
 | Gad. | **<big>[[G1045\|Γαδ]]</big>** |
-[[Deut.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.11|<< Deuteronomy 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.13|Deuteronomy 3:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.3.11|<< Deuteronomy 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.3.13|Deuteronomy 3:13 >>]]</td></tr></table>
 
 

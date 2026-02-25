@@ -1,8 +1,57 @@
+---
+title: Isaiah 3:3
+type: Verse
+kjv: "The captain of fifty, and the honourable man, and the counseller, and the cunning artificer, and the eloquent orator."
+bsb: "the commander of fifty and the dignitary, the counselor, the cunning magician, and the clever enchanter."
+hebrew: "שַׂר־ חֲמִשִּׁ֖ים וּנְשׂ֣וּא פָנִ֑ים וְיוֹעֵ֛ץ וַחֲכַ֥ם חֲרָשִׁ֖ים וּנְב֥וֹן לָֽחַשׁ׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic ORATOR|ORATOR]]"
+strongs:
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H2572]]"
+- "[[H9002]]"
+- "[[H5375Q]]"
+- "[[H6440N]]"
+- "[[H3289]]"
+- "[[H2450]]"
+- "[[H2791B]]"
+- "[[H0995]]"
+- "[[H3908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:3**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The captain of fifty, and the honourable man, and the counseller, and the cunning artificer, and the eloquent orator.
 <small><sub>**BSB:**</sub></small>
 the commander of fifty and the dignitary, the counselor, the cunning magician, and the clever enchanter.
+<small><sub>**Hebrew:**</sub></small>
+[[H8269\|שַׂר]][[H9014\|־]] [[H2572\|חֲמִשִּׁ֖ים]] [[H9002\|וּ]][[H5375Q\|נְשׂ֣וּא]] [[H6440N\|פָנִ֑ים]] [[H9002\|וְ]][[H3289\|יוֹעֵ֛ץ]] [[H9002\|וַ]][[H2450\|חֲכַ֥ם]] [[H2791B\|חֲרָשִׁ֖ים]] [[H9002\|וּ]][[H0995\|נְב֥וֹן]] [[H3908\|לָֽחַשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CAPTAIN|CAPTAIN]] • [[topic FAMINE|FAMINE]] • [[topic JERUSALEM|JERUSALEM]] • [[topic ORATOR|ORATOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.2|<< Isaiah 3:2]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.4|Isaiah 3:4 >>]]</td></tr></table>
 

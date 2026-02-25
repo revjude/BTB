@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 10:8
+type: Verse
+kjv: "And the children of Ammon came out, and put the battle in array at the entering in of the gate: and the Syrians of Zoba, and of Rehob, and Ishtob, and Maacah, were by themselves in the field."
+bsb: "The Ammonites marched out and arrayed themselves for battle at the entrance of the city gate, while the Arameans of Zobah and Rehob and the men of Tob and Maacah were by themselves in the open country."
+hebrew: "וַיֵּֽצְאוּ֙ בְּנֵ֣י עַמּ֔וֹן וַיַּעַרְכ֥וּ מִלְחָמָ֖ה פֶּ֣תַח הַשָּׁ֑עַר וַאֲרַ֨ם צוֹבָ֤א וּרְחוֹב֙ וְאִֽישׁ־ ט֣וֹב וּמַֽעֲכָ֔ה לְבַדָּ֖ם בַּשָּׂדֶֽה׃"
+pericope: "[[2Sam.10.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BETH-REHOB|BETH-REHOB]]"
+- "[[topic ISH-TOB|ISH-TOB]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic REHOB|REHOB]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H6186A]]"
+- "[[H4421]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H9002]]"
+- "[[H0758I]]"
+- "[[H6678G]]"
+- "[[H7340K]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H2897]]"
+- "[[H4601R]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:8**<big><big>[[2Sam.10.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Ammon came out, and put the battle in array at the entering in of the gate: and the Syrians of Zoba, and of Rehob, and Ishtob, and Maacah, [were] by themselves in the field.
 <small><sub>**BSB:**</sub></small>
 The Ammonites marched out and arrayed themselves for battle at the entrance of the city gate, while the Arameans of Zobah and Rehob and the men of Tob and Maacah were by themselves in the open country.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּֽצְאוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֔וֹן]] [[H9001\|וַ]][[H6186A\|יַּעַרְכ֥וּ]] [[H4421\|מִלְחָמָ֖ה]] [[H6607\|פֶּ֣תַח]] [[H9009\|הַ]][[H8179G\|שָּׁ֑עַר]] [[H9002\|וַ]][[H0758I\|אֲרַ֨ם]] [[H6678G\|צוֹבָ֤א]] [[H9002\|וּ]][[H7340K\|רְחוֹב֙]] [[H9002\|וְ]][[H0376G\|אִֽישׁ]][[H9014\|־]] [[H2897\|ט֣וֹב]] [[H9002\|וּ]][[H4601R\|מַֽעֲכָ֔ה]] [[H9005\|לְ]][[H0905H\|בַדָּ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-REHOB|BETH-REHOB]] • [[topic ISH-TOB|ISH-TOB]] • [[topic JOAB|JOAB]] • [[topic MAACHAH|MAACHAH]] • [[topic REHOB|REHOB]] • [[topic SYRIA|SYRIA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.7|<< 2 Samuel 10:7]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.9|2 Samuel 10:9 >>]]</td></tr></table>
 

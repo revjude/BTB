@@ -1,8 +1,75 @@
+---
+title: Exodus 9:27
+type: Verse
+kjv: "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked."
+bsb: "Then Pharaoh summoned Moses and Aaron. “This time I have sinned,” he said. “The LORD is righteous, and I and my people are wicked."
+hebrew: "וַיִּשְׁלַ֣ח פַּרְעֹ֗ה וַיִּקְרָא֙ לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֔ן וַיֹּ֥אמֶר אֲלֵהֶ֖ם חָטָ֣אתִי הַפָּ֑עַם יְהוָה֙ הַצַּדִּ֔יק וַאֲנִ֥י וְעַמִּ֖י הָרְשָׁעִֽים׃"
+pericope: "[[Exod.9.13 The Seventh Plague：Hail|The Seventh Plague：Hail]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic HAIL|HAIL]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic THUNDER|THUNDER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H6547J]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H2398]]"
+- "[[H9009]]"
+- "[[H6471]]"
+- "[[H3068G]]"
+- "[[H6662]]"
+- "[[H0589]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H7563]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:27**<big><big>[[Exod.9.13 The Seventh Plague：Hail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD [is] righteous, and I and my people [are] wicked.
 <small><sub>**BSB:**</sub></small>
 Then Pharaoh summoned Moses and Aaron. “This time I have sinned,” he said. “The LORD is righteous, and I and my people are wicked.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H6547J\|פַּרְעֹ֗ה]] [[H9001\|וַ]][[H7121G\|יִּקְרָא֙]] [[H9005\|לְ]][[H4872\|מֹשֶׁ֣ה]] [[H9002\|וּֽ]][[H9005\|לְ]][[H0175\|אַהֲרֹ֔ן]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֖ם]] [[H2398\|חָטָ֣אתִי]] [[H9009\|הַ]][[H6471\|פָּ֑עַם]] [[H3068G\|יְהוָה֙]] [[H9009\|הַ]][[H6662\|צַּדִּ֔יק]] [[H9002\|וַ]][[H0589\|אֲנִ֥י]] [[H9002\|וְ]][[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9009\|הָ]][[H7563\|רְשָׁעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic HAIL|HAIL]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PLAGUE|PLAGUE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic THUNDER|THUNDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.26|<< Exodus 9:26]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.28|Exodus 9:28 >>]]</td></tr></table>
 

@@ -1,8 +1,80 @@
+---
+title: Jeremiah 7:18
+type: Verse
+kjv: "The children gather wood, and the fathers kindle the fire, and the women knead their dough, to make cakes to the queen of heaven, and to pour out drink offerings unto other gods, that they may provoke me to anger."
+bsb: "The sons gather wood, the fathers light the fire, and the women knead the dough to make cakes for the Queen of Heaven; they pour out drink offerings to other gods to provoke Me to anger."
+hebrew: "הַבָּנִ֞ים מְלַקְּטִ֣ים עֵצִ֗ים וְהָֽאָבוֹת֙ מְבַעֲרִ֣ים אֶת־ הָאֵ֔שׁ וְהַנָּשִׁ֖ים לָשׁ֣וֹת בָּצֵ֑ק לַעֲשׂ֨וֹת כַּוָּנִ֜ים לִמְלֶ֣כֶת הַשָּׁמַ֗יִם וְהַסֵּ֤ךְ נְסָכִים֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים לְמַ֖עַן הַכְעִסֵֽנִי׃"
+pericope: "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ASHTORETH|ASHTORETH]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic DOUGH|DOUGH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MOON|MOON]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9009]]"
+- "[[H1121A]]"
+- "[[H3950]]"
+- "[[H6086G]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H1197A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H0802G]]"
+- "[[H3888]]"
+- "[[H1217]]"
+- "[[H9005]]"
+- "[[H6213H]]"
+- "[[H3561]]"
+- "[[H4446]]"
+- "[[H8064]]"
+- "[[H5258A]]"
+- "[[H5262]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H4616]]"
+- "[[H3707]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:18**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children gather wood, and the fathers kindle the fire, and the women knead [their] dough, to make cakes to the queen of heaven, and to pour out drink offerings unto other gods, that they may provoke me to anger.
 <small><sub>**BSB:**</sub></small>
 The sons gather wood, the fathers light the fire, and the women knead the dough to make cakes for the Queen of Heaven; they pour out drink offerings to other gods to provoke Me to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1121A\|בָּנִ֞ים]] [[H3950\|מְלַקְּטִ֣ים]] [[H6086G\|עֵצִ֗ים]] [[H9002\|וְ]][[H9009\|הָֽ]][[H0001G\|אָבוֹת֙]] [[H1197A\|מְבַעֲרִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0784\|אֵ֔שׁ]] [[H9002\|וְ]][[H9009\|הַ]][[H0802G\|נָּשִׁ֖ים]] [[H3888\|לָשׁ֣וֹת]] [[H1217\|בָּצֵ֑ק]] [[H9005\|לַ]][[H6213H\|עֲשׂ֨וֹת]] [[H3561\|כַּוָּנִ֜ים]] [[H9005\|לִ]][[H4446\|מְלֶ֣כֶת]] [[H9009\|הַ]][[H8064\|שָּׁמַ֗יִם]] [[H9002\|וְ]][[H5258A\|הַסֵּ֤ךְ]] [[H5262\|נְסָכִים֙]] [[H9005\|לֵ]][[H0430\|אלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H4616\|לְמַ֖עַן]] [[H3707\|הַכְעִסֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHTORETH|ASHTORETH]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BREAD|BREAD]] • [[topic CHILDREN|CHILDREN]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic DOUGH|DOUGH]] • [[topic FAMILY|FAMILY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MOON|MOON]] • [[topic QUEEN|QUEEN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.17|<< Jeremiah 7:17]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.19|Jeremiah 7:19 >>]]</td></tr></table>
 

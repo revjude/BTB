@@ -1,8 +1,83 @@
+---
+title: 2 Kings 12:18
+type: Verse
+kjv: "And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold that was found in the treasures of the house of the LORD, and in the king’s house, and sent it to Hazael king of Syria: and he went away from Jerusalem."
+bsb: "So King Joash of Judah took all the sacred objects dedicated by his fathers—Jehoshaphat, Jehoram, and Ahaziah, the kings of Judah—along with his own consecrated items and all the gold found in the treasuries of the house of the LORD and the royal palace, and he sent them to Hazael king of Aram. So Hazael withdrew from Jerusalem."
+hebrew: "וַיִּקַּ֞ח יְהוֹאָ֣שׁ מֶֽלֶךְ־ יְהוּדָ֗ה אֵ֣ת כָּל־ הַקֳּדָשִׁ֡ים אֲשֶׁר־ הִקְדִּ֣ישׁוּ יְהוֹשָׁפָ֣ט וִיהוֹרָם֩ וַאֲחַזְיָ֨הוּ אֲבֹתָ֜יו מַלְכֵ֤י יְהוּדָה֙ וְאֶת־ קֳדָשָׁ֔יו וְאֵ֣ת כָּל־ הַזָּהָ֗ב הַנִּמְצָ֛א בְּאֹצְר֥וֹת בֵּית־ יְהוָ֖ה וּבֵ֣ית הַמֶּ֑לֶךְ וַיִּשְׁלַ֗ח לַֽחֲזָאֵל֙ מֶ֣לֶךְ אֲרָ֔ם וַיַּ֖עַל מֵעַ֥ל יְרוּשָׁלִָֽם׃"
+pericope: "[[2Kgs.12.17 The Death of Joash|The Death of Joash]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 12
+book/chapter: "[[2Kgs.12|2 Kings 12]]"
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3060G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H0834A]]"
+- "[[H6942H]]"
+- "[[H3092I]]"
+- "[[H9002]]"
+- "[[H3088G]]"
+- "[[H0274H]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H2091]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H0214]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H1004B]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H2371]]"
+- "[[H0758I]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 12:18**<big><big>[[2Kgs.12.17 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold [that was] found in the treasures of the house of the LORD, and in the king’s house, and sent [it] to Hazael king of Syria: and he went away from Jerusalem.
 <small><sub>**BSB:**</sub></small>
 So King Joash of Judah took all the sacred objects dedicated by his fathers—Jehoshaphat, Jehoram, and Ahaziah, the kings of Judah—along with his own consecrated items and all the gold found in the treasuries of the house of the LORD and the royal palace, and he sent them to Hazael king of Aram. So Hazael withdrew from Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֞ח]] [[H3060G\|יְהוֹאָ֣שׁ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֳּדָשִׁ֡ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6942H\|הִקְדִּ֣ישׁוּ]] [[H3092I\|יְהוֹשָׁפָ֣ט]] [[H9002\|וִ]][[H3088G\|יהוֹרָם֩]] [[H9002\|וַ]][[H0274H\|אֲחַזְיָ֨הוּ]] [[H0001G\|אֲבֹתָ֜י]][[H9023\|ו]] [[H4428G\|מַלְכֵ֤י]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6944G\|קֳדָשָׁ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2091\|זָּהָ֗ב]] [[H9009\|הַ]][[H4672\|נִּמְצָ֛א]] [[H9003\|בְּ]][[H0214\|אֹצְר֥וֹת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וּ]][[H1004B\|בֵ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֗ח]] [[H9005\|לַֽ]][[H2371\|חֲזָאֵל֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0758I\|אֲרָ֔ם]] [[H9001\|וַ]][[H5927G\|יַּ֖עַל]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HAZAEL|HAZAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JOASH|JOASH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.17|<< 2 Kings 12:17]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.19|2 Kings 12:19 >>]]</td></tr></table>
 

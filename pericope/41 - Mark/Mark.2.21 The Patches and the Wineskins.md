@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Patches and the Wineskins
+type: Pericope
 pericope: "[[Mark.2.21 The Patches and the Wineskins|The Patches and the Wineskins]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: Mark
 chapter: 2
 book/chapter: "[[Mark.2|Mark 2]]"
-genre:
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 2
 verses:
 - "[[Mark.2.21]]"
 - "[[Mark.2.22]]"
 ---
 
-[[Mark.2|Mark 2:21 - Mark 2:22]]
+<small>[[Mark.2|Mark 2:21-22]]</small>
 *The Patches and the Wineskins*
 
 [[Mark.2.21|21]] No man also seweth a piece of new cloth on an old garment: else the new piece that filled it up taketh away from the old, and the rent is made worse.

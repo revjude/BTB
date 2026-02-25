@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Greetings to the Thessalonians
+type: Pericope
 pericope: "[[1Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: 1 Thessalonians
 chapter: 1
 book/chapter: "[[1Thess.1|1 Thessalonians 1]]"
-genre:
+chronological_order: 1048
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 10
 verses:
 - "[[1Thess.1.1]]"
 - "[[1Thess.1.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Thess.1.10]]"
 ---
 
-[[1Thess.1|1 Thessalonians 1:1 - 1 Thessalonians 1:10]]
+<small>[[1Thess.1|1 Thessalonians 1:1-10]]</small>
 *Greetings to the Thessalonians*
 
 [[1Thess.1.1|1]] Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians \[which is\] in God the Father and \[in\] the Lord Jesus Christ: Grace \[be\] unto you, and peace, from God our Father, and the Lord Jesus Christ.

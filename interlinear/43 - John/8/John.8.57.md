@@ -1,10 +1,55 @@
+---
+title: John 8:57
+type: Verse
+kjv: "Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?"
+bsb: "Then the Jews said to Him, “You are not yet fifty years old, and You have seen Abraham?”"
+greek: "εἶπον οὖν οἱ Ἰουδαῖοι πρὸς αὐτόν· πεντήκοντα ἔτη οὔπω ἔχεις, καὶ Ἀβραὰμ ἑώρακας;¶"
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G4004]]"
+- "[[G2094]]"
+- "[[G3768]]"
+- "[[G2192]]"
+- "[[G2532]]"
+- "[[G0011]]"
+- "[[G3708]]"
+texts:
+- NKO
+---
+
 **John 8:57**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said the Jews unto him, Thou art not yet fifty years old, and hast thou seen Abraham?
 <small><sub>**BSB:**</sub></small>
 Then the Jews said to Him, “You are not yet fifty years old, and You have seen Abraham?”
-<small><sub>**Literal:**</sub></small>
-Said therefore the Jews to Him; Fifty years [old] not yet are You, and Abraham You have seen?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.56|<< John 8:56]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.58|John 8:58 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπον]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G4004\|πεντήκοντα]]  [[G2094\|ἔτη]]  [[G3768\|οὔπω]]  [[G2192\|ἔχεις,]]  [[G2532\|καὶ]]  [[G0011\|Ἀβραὰμ]]  [[G3708\|ἑώρακας;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.56|<< John 8:56]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.58|John 8:58 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

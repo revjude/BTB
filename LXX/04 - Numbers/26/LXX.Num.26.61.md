@@ -1,6 +1,58 @@
+---
+title: LXX Numbers 26:61
+type: Verse
+lxx: "And Nadab and Abihu died in  their offering alien fire before the lord in the wilderness of Sinai."
+greek: "και απέθανε Ναδάβ και Αβιού εν τω προσφέρειν αυτούς πυρ αλλότριον έναντι κυρίου εν τη ερήμω Σινά"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABIHU|ABIHU]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic NADAB|NADAB]]"
+strongs:
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[H5070]]"
+- "[[G2532]]"
+- "[[H0030]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4374]]"
+- "[[G1473]]"
+- "[[G4442]]"
+- "[[G0245]]"
+- "[[G1725]]"
+- "[[G2962]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2048]]"
+- "[[H6790]]"
+---
+
 **LXX Numbers 26:61** 
 <small><sub>**LXX:**</sub></small>
 And Nadab and Abihu died in  their offering alien fire before \[the\] <span class="smallcaps">lord</span> in the wilderness of Sinai. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0599\|απέθανε]] [[H5070\|Ναδάβ]] [[G2532\|και]] [[H0030\|Αβιού]] [[G1722\|εν]] [[G3588\|τω]] [[G4374\|προσφέρειν]] [[G1473\|αυτούς]] [[G4442\|πυρ]] [[G0245\|αλλότριον]] [[G1725\|έναντι]] [[G2962\|κυρίου]] [[G1722\|εν]] [[G3588\|τη]] [[G2048\|ερήμω]] [[H6790\|Σινά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIHU|ABIHU]] • [[topic LEVITES|LEVITES]] • [[topic NADAB|NADAB]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.26.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.60|<< Numbers 26:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.62|Numbers 26:62 >>]]</td></tr></table>
 
@@ -22,6 +74,6 @@ And Nadab and Abihu died in  their offering alien fire before \[the\] <span clas
 | the | **<big>[[G3588\|τη]]</big>** |
 | wilderness | **<big>[[G2048\|ερήμω]]</big>** |
 | of Sinai. | **<big>[[H6790\|Σινά]]</big>** |
-[[Num.26.61|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.60|<< Numbers 26:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.62|Numbers 26:62 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.26.60|<< Numbers 26:60]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.26.62|Numbers 26:62 >>]]</td></tr></table>
 
 

@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 21:16
+type: Verse
+kjv: "Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn:"
+bsb: "when that man assigns his inheritance to his sons he must not appoint the son of the beloved wife as the firstborn over the son of the unloved wife."
+hebrew: "וְהָיָ֗ה בְּיוֹם֙ הַנְחִיל֣וֹ אֶת־ בָּנָ֔יו אֵ֥ת אֲשֶׁר־ יִהְיֶ֖ה ל֑וֹ לֹ֣א יוּכַ֗ל לְבַכֵּר֙ אֶת־ בֶּן־ הָ֣אֲהוּבָ֔ה עַל־ פְּנֵ֥י בֶן־ הַשְּׂנוּאָ֖ה הַבְּכֹֽר׃"
+pericope: "[[Deut.21.15 Inheritance Rights of the Firstborn|Inheritance Rights of the Firstborn]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 21
+book/chapter: "[[Deut.21|Deuteronomy 21]]"
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BIRTHRIGHT|BIRTHRIGHT]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H5157]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H1069]]"
+- "[[H9009]]"
+- "[[H0157G]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H8130]]"
+- "[[H1060]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 21:16**<big><big>[[Deut.21.15 Inheritance Rights of the Firstborn|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then it shall be, when he maketh his sons to inherit [that] which he hath, [that] he may not make the son of the beloved firstborn before the son of the hated, [which is indeed] the firstborn:
 <small><sub>**BSB:**</sub></small>
 when that man assigns his inheritance to his sons he must not appoint the son of the beloved wife as the firstborn over the son of the unloved wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H9003\|בְּ]][[H3117G\|יוֹם֙]] [[H5157\|הַנְחִיל֣]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֔י]][[H9023\|ו]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1961\|יִהְיֶ֖ה]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H3808\|לֹ֣א]] [[H3201\|יוּכַ֗ל]] [[H9005\|לְ]][[H1069\|בַכֵּר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הָ֣]][[H0157G\|אֲהוּבָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פְּנֵ֥י]] [[H1121A\|בֶן]][[H9014\|־]] [[H9009\|הַ]][[H8130\|שְּׂנוּאָ֖ה]] [[H9009\|הַ]][[H1060\|בְּכֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIRTHRIGHT|BIRTHRIGHT]] • [[topic CHILDREN|CHILDREN]] • [[topic FAVORITISM|FAVORITISM]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic POLYGAMY|POLYGAMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.21.15|<< Deuteronomy 21:15]]</td><td align="center" style="border:none;">[[Deut.21|Deuteronomy 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.21.17|Deuteronomy 21:17 >>]]</td></tr></table>
 

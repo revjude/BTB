@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Courts for Boiling and Baking
+type: Pericope
 pericope: "[[Ezek.46.19 The Courts for Boiling and Baking|The Courts for Boiling and Baking]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 46
 book/chapter: "[[Ezek.46|Ezekiel 46]]"
-genre:
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 6
 verses:
 - "[[Ezek.46.19]]"
 - "[[Ezek.46.20]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ezek.46.24]]"
 ---
 
-[[Ezek.46|Ezekiel 46:19 - Ezekiel 46:24]]
+<small>[[Ezek.46|Ezekiel 46:19-24]]</small>
 *The Courts for Boiling and Baking*
 
 [[Ezek.46.19|19]] After he brought me through the entry, which \[was\] at the side of the gate, into the holy chambers of the priests, which looked toward the north: and, behold, there \[was\] a place on the two sides westward.

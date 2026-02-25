@@ -1,10 +1,62 @@
+---
+title: Acts 13:4
+type: Verse
+kjv: "So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus."
+bsb: "So Barnabas and Saul, sent forth by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus."
+greek: "Αὐτοὶ μὲν οὖν ἐκπεμφθέντες ὑπὸ τοῦ ἁγίου τοῦ πνεύματος κατῆλθον εἰς τὴν Σελεύκειαν, ἐκεῖθέν τε ἀπέπλευσαν εἰς τὴν Κύπρον."
+pericope: "[[Acts.13.4 On Cyprus|On Cyprus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SALAMIS|SALAMIS]]"
+- "[[topic SELEUCIA|SELEUCIA]]"
+strongs:
+- "[[G0846]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G1599]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+- "[[G2718]]"
+- "[[G1519]]"
+- "[[G4581]]"
+- "[[G1564]]"
+- "[[G5037]]"
+- "[[G0636]]"
+- "[[G2954]]"
+texts:
+- N(k)O
+- NKO
+- k
+- NK(o)
+---
+
 **Acts 13:4**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.
 <small><sub>**BSB:**</sub></small>
 So Barnabas and Saul, sent forth by the Holy Spirit, went down to Seleucia and sailed from there to Cyprus.
-<small><sub>**Literal:**</sub></small>
-They themselves indeed therefore having been sent forth by of the Holy the Spirit went down to <the> Seleucia, From there then they sailed to <the> Cyprus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.3|<< Acts 13:3]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.5|Acts 13:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|Αὐτοὶ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G1599\|ἐκπεμφθέντες]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G2718\|κατῆλθον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4581\|Σελεύκειαν,]]  [[G1564\|ἐκεῖθέν]]  [[G5037\|τε]]  [[G0636\|ἀπέπλευσαν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2954\|Κύπρον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYPRUS|CYPRUS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MISSIONS|MISSIONS]] • [[topic PAUL|PAUL]] • [[topic SALAMIS|SALAMIS]] • [[topic SELEUCIA|SELEUCIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.3|<< Acts 13:3]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.5|Acts 13:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

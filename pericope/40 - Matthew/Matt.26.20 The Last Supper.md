@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Last Supper
+type: Pericope
 pericope: "[[Matt.26.20 The Last Supper|The Last Supper]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 26
 book/chapter: "[[Matt.26|Matthew 26]]"
-genre:
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.26.20]]"
 - "[[Matt.26.21]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.26.30]]"
 ---
 
-[[Matt.26|Matthew 26:20 - Matthew 26:30]]
+<small>[[Matt.26|Matthew 26:20-30]]</small>
 *The Last Supper*
 
 [[Matt.26.20|20]] Now when the even was come, he sat down with the twelve.

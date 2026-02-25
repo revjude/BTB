@@ -1,10 +1,63 @@
+---
+title: Acts 5:39
+type: Verse
+kjv: "But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God."
+bsb: "But if it is from God, you will not be able to stop them. You may even find yourselves fighting against God.”"
+greek: "εἰ δὲ ἐκ θεοῦ ἐστιν, οὐ δυνήσεσθε καταλῦσαι αὐτούς, μήποτε μήποτε καὶ θεομάχοι εὑρεθῆτε. ἐπείσθησαν δὲ αὐτῷ,"
+pericope: "[[Acts.5.33 Gamaliel’s Advice|Gamaliel’s Advice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GAMALIEL|GAMALIEL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2647]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G2532]]"
+- "[[G2314]]"
+- "[[G2147]]"
+- "[[G3982]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 5:39**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God.
 <small><sub>**BSB:**</sub></small>
 But if it is from God, you will not be able to stop them. You may even find yourselves fighting against God.”
-<small><sub>**Literal:**</sub></small>
-if however from God it is, not you will be able to overthrow them, otherwise also fighting against God You shall be found. [40] They were persuaded now by him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.38|<< Acts 5:38]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.40|Acts 5:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G1537\|ἐκ]]  [[G2316\|θεοῦ]]  [[G1510\|ἐστιν,]]  [[G3756\|οὐ]]  [[G1410\|δυνήσεσθε]]  [[G2647\|καταλῦσαι]]  [[G0846\|αὐτούς,]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G2532\|καὶ]]  [[G2314\|θεομάχοι]]  [[G2147\|εὑρεθῆτε.]]  [[G3982\|ἐπείσθησαν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GAMALIEL|GAMALIEL]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.38|<< Acts 5:38]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.40|Acts 5:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

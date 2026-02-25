@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Ram of Ordination
+type: Pericope
 pericope: "[[Lev.8.22 The Ram of Ordination|The Ram of Ordination]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 8
 book/chapter: "[[Lev.8|Leviticus 8]]"
-genre:
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 15
 verses:
 - "[[Lev.8.22]]"
 - "[[Lev.8.23]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Lev.8.36]]"
 ---
 
-[[Lev.8|Leviticus 8:22 - Leviticus 8:36]]
+<small>[[Lev.8|Leviticus 8:22-36]]</small>
 *The Ram of Ordination*
 
 [[Lev.8.22|22]] And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.

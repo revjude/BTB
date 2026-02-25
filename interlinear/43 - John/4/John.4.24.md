@@ -1,10 +1,59 @@
+---
+title: John 4:24
+type: Verse
+kjv: "God is a Spirit: and they that worship him must worship him in spirit and in truth."
+bsb: "God is Spirit, and His worshipers must worship Him in spirit and in truth.”"
+jesus_said: "God is a Spirit: and they that worship him must worship him in spirit and in truth."
+greek: "πνεῦμα ὁ θεός, καὶ τοὺς προσκυνοῦντας αὐτὸν ἐν πνεύματι καὶ ἀληθείᾳ δεῖ προσκυνεῖν.¶"
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G4151G]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G4352]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G0225]]"
+- "[[G1163]]"
+texts:
+- NKO
+---
+
 **John 4:24**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 God [is] a Spirit: and they that worship him must worship [him] in spirit and in truth.
 <small><sub>**BSB:**</sub></small>
 God is Spirit, and His worshipers must worship Him in spirit and in truth.”
-<small><sub>**Literal:**</sub></small>
-Spirit <the> God [is], and those worshiping Him in spirit and truth it behooves to worship.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.23|<< John 4:23]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.25|John 4:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4151G\|πνεῦμα]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4352\|προσκυνοῦντας]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G4151G\|πνεύματι]]  [[G2532\|καὶ]]  [[G0225\|ἀληθείᾳ]]  [[G1163\|δεῖ]]  [[G4352\|προσκυνεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic MAN|MAN]] • [[topic PRAYER|PRAYER]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic TRUTH|TRUTH]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.23|<< John 4:23]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.25|John 4:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

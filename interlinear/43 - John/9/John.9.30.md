@@ -1,10 +1,68 @@
+---
+title: John 9:30
+type: Verse
+kjv: "The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and yet he hath opened mine eyes."
+bsb: "“That is remarkable indeed!” the man said. “You do not know where He is from, and yet He opened my eyes."
+greek: "ἀπεκρίθη ὁ ἄνθρωπος καὶ εἶπεν αὐτοῖς· ἐν τούτῳ γὰρ τὸ θαυμαστόν ἐστιν ὅτι ὑμεῖς οὐκ οἴδατε πόθεν ἐστίν, καὶ ἤνοιξέν μου τοὺς ὀφθαλμούς."
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G2298]]"
+- "[[G1510]]"
+- "[[G3754G]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G4159]]"
+- "[[G0455]]"
+- "[[G3165]]"
+- "[[G3788]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **John 9:30**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and [yet] he hath opened mine eyes.
 <small><sub>**BSB:**</sub></small>
 “That is remarkable indeed!” the man said. “You do not know where He is from, and yet He opened my eyes.
-<small><sub>**Literal:**</sub></small>
-Answered the man and said to them; In this for <the> an amazing thing is that you yourselves not know from where He is, and yet He opened my <the> eyes.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.29|<< John 9:29]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.31|John 9:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G2298\|θαυμαστόν]]  [[G1510\|ἐστιν]]  [[G3754G\|ὅτι]]  [[G4771\|ὑμεῖς]]  [[G3756\|οὐκ]]  [[G6063\|οἴδατε]]  [[G4159\|πόθεν]]  [[G1510\|ἐστίν,]]  [[G2532\|καὶ]]  [[G0455\|ἤνοιξέν]]  [[G3165\|μου]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CONFESSION|CONFESSION]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.29|<< John 9:29]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.31|John 9:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

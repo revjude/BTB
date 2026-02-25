@@ -1,8 +1,56 @@
+---
+title: Ezekiel 40:37
+type: Verse
+kjv: "And the posts thereof were toward the utter court; and palm trees were upon the posts thereof, on this side, and on that side: and the going up to it had eight steps."
+bsb: "Its portico faced the outer court, and its side pillars were decorated with palm trees on each side. Eight steps led up to it."
+hebrew: "וְאֵילָ֗יו לֶֽחָצֵר֙ הַחִ֣יצוֹנָ֔ה וְתִמֹרִ֥ים אֶל־ אֵילָ֖יו מִפּ֣וֹ וּמִפּ֑וֹ וּשְׁמֹנֶ֥ה מַעֲל֖וֹת מַעֲלָֽיו׃"
+pericope: "[[Ezek.40.28 The Gates of the Inner Court|The Gates of the Inner Court]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H0352B]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2691A]]"
+- "[[H9009]]"
+- "[[H2435]]"
+- "[[H8561]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H6311]]"
+- "[[H8083]]"
+- "[[H4609B]]"
+- "[[H4608]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Ezekiel 40:37**<big><big>[[Ezek.40.28 The Gates of the Inner Court|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the posts thereof [were] toward the utter court; and palm trees [were] upon the posts thereof, on this side, and on that side: and the going up to it [had] eight steps.
 <small><sub>**BSB:**</sub></small>
 Its portico faced the outer court, and its side pillars were decorated with palm trees on each side. Eight steps led up to it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0352B\|אֵילָ֗י]][[H9023\|ו]] [[H9005\|לֶֽ]][[H2691A\|חָצֵר֙]] [[H9009\|הַ]][[H2435\|חִ֣יצוֹנָ֔ה]] [[H9002\|וְ]][[H8561\|תִמֹרִ֥ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0352B\|אֵילָ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H6311\|פּ֣וֹ]] [[H9002\|וּ]][[H9006\|מִ]][[H6311\|פּ֑וֹ]] [[H9002\|וּ]][[H8083\|שְׁמֹנֶ֥ה]] [[H4609B\|מַעֲל֖וֹת]] [[H4608\|מַעֲלָֽי]][[H9023\|ו]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.36|<< Ezekiel 40:36]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.38|Ezekiel 40:38 >>]]</td></tr></table>
 
@@ -21,14 +69,14 @@ Its portico faced the outer court, and its side pillars were decorated with palm
 | ascents its  [^9]|**<big>&#8207;[[H4608\|מַעֲלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^10] | ma.'a.lo<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.36|<< Ezekiel 40:36]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.38|Ezekiel 40:38 >>]]</td></tr></table>
 
-[^1]: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^3]: and pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: and pillar its  | **<big>[[H9002|וְ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: and pillar its  | **<big>[[H9002|וְ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^3]: and pillar its  | **<big>[[H9002|וְ]]</big><big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וְאֵילָ֗/ו</big></span>**
-[^5]: pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big> ** | 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^6]: pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big> ** | 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: pillar its  | **<big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: pillar its  | **<big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^7]: L spelled: **<span class="ashebrew"><big>אֵילָ֖ו</big></span>**
-[^8]: ascent its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H4608|מַעֲל]]</big> ** | ma.'a.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^9]: ascent its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H4608|מַעֲל]]</big> ** | ma.'a.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^8]: ascent its  | **<big>[[H4608|מַעֲל]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | ma.'a.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^9]: ascent its  | **<big>[[H4608|מַעֲל]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | ma.'a.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^10]: L spelled: **<span class="ashebrew"><big>מַעֲלָֽו\׃</big></span>**
 

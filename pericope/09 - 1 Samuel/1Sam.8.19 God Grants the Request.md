@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Grants the Request
+type: Pericope
 pericope: "[[1Sam.8.19 God Grants the Request|God Grants the Request]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 8
 book/chapter: "[[1Sam.8|1 Samuel 8]]"
-genre:
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[1Sam.8.19]]"
 - "[[1Sam.8.20]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Sam.8.22]]"
 ---
 
-[[1Sam.8|1 Samuel 8:19 - 1 Samuel 8:22]]
+<small>[[1Sam.8|1 Samuel 8:19-22]]</small>
 *God Grants the Request*
 
 [[1Sam.8.19|19]] Nevertheless the people refused to obey the voice of Samuel; and they said, Nay; but we will have a king over us;

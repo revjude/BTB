@@ -1,8 +1,64 @@
+---
+title: Joshua 3:1
+type: Verse
+kjv: "And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over."
+bsb: "Early the next morning Joshua got up and left Shittim with all the Israelites. They went as far as the Jordan, where they camped before crossing over."
+hebrew: "וַיַּשְׁכֵּם֩ יְהוֹשֻׁ֨עַ בַּבֹּ֜קֶר וַיִּסְע֣וּ מֵֽהַשִּׁטִּ֗ים וַיָּבֹ֙אוּ֙ עַד־ הַיַּרְדֵּ֔ן ה֖וּא וְכָל־ בְּנֵ֣י יִשְׂרָאֵ֑ל וַיָּלִ֥נוּ שָׁ֖ם טֶ֥רֶם יַעֲבֹֽרוּ׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic RISING|RISING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H3091G]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H7851G]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3383]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3885A]]"
+- "[[H8033G]]"
+- "[[H2962]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:1**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.
 <small><sub>**BSB:**</sub></small>
 Early the next morning Joshua got up and left Shittim with all the Israelites. They went as far as the Jordan, where they camped before crossing over.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכֵּם֩]] [[H3091G\|יְהוֹשֻׁ֨עַ]] [[H9003\|בַּ]][[H1242\|בֹּ֜קֶר]] [[H9001\|וַ]][[H5265\|יִּסְע֣וּ]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H7851G\|שִּׁטִּ֗ים]] [[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H1931\|ה֖וּא]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H3885A\|יָּלִ֥נוּ]] [[H8033G\|שָׁ֖ם]] [[H2962\|טֶ֥רֶם]] [[H5674A\|יַעֲבֹֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic RISING|RISING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.24|<< Joshua 2:24]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.2|Joshua 3:2 >>]]</td></tr></table>
 

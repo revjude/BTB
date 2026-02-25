@@ -1,10 +1,55 @@
+---
+title: Hebrews 11:21
+type: Verse
+kjv: "By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, leaning upon the top of his staff."
+bsb: "By faith Jacob, when he was dying, blessed each of Joseph’s sons and worshiped as he leaned on the top of his staff."
+greek: "Πίστει Ἰακὼβ ἀποθνῄσκων ἕκαστον τῶν υἱῶν Ἰωσὴφ εὐλόγησεν καὶ προσεκύνησεν ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ.¶"
+pericope: "[[Heb.11.20 The Faith of Isaac, Jacob, and Joseph|The Faith of Isaac, Jacob, and Joseph]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[G4102G]]"
+- "[[G2384G]]"
+- "[[G0599]]"
+- "[[G1538]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2501N]]"
+- "[[G2127]]"
+- "[[G2532]]"
+- "[[G4352]]"
+- "[[G1909]]"
+- "[[G0206]]"
+- "[[G4464]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:21**<big><big>[[Heb.11.20 The Faith of Isaac, Jacob, and Joseph|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith Jacob, when he was a dying, blessed both the sons of Joseph; and worshipped, [leaning] upon the top of his staff.
 <small><sub>**BSB:**</sub></small>
 By faith Jacob, when he was dying, blessed each of Joseph’s sons and worshiped as he leaned on the top of his staff.
-<small><sub>**Literal:**</sub></small>
-By faith Jacob dying each of the sons of Joseph blessed and worshiped on the top of the staff of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.20|<< Hebrews 11:20]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.22|Hebrews 11:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G2384G\|Ἰακὼβ]]  [[G0599\|ἀποθνῄσκων]]  [[G1538\|ἕκαστον]]  [[G3588\|τῶν]]  [[G5207\|υἱῶν]]  [[G2501N\|Ἰωσὴφ]]  [[G2127\|εὐλόγησεν]]  [[G2532\|καὶ]]  [[G4352\|προσεκύνησεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G0206\|ἄκρον]]  [[G3588\|τῆς]]  [[G4464\|ῥάβδου]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic FAITH|FAITH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.20|<< Hebrews 11:20]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.22|Hebrews 11:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:21** is...
 > $\quad$ referencing: [[LXX.Gen.47.31|Gen 47:31]]

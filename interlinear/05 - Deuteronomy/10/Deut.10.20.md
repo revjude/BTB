@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 10:20
+type: Verse
+kjv: "Thou shalt fear the LORD thy God; him shalt thou serve, and to him shalt thou cleave, and swear by his name."
+bsb: "You are to fear the LORD your God and serve Him. Hold fast to Him and take your oaths in His name."
+hebrew: "אֶת־ יְהוָ֧ה אֱלֹהֶ֛יךָ תִּירָ֖א אֹת֣וֹ תַעֲבֹ֑ד וּב֣וֹ תִדְבָּ֔ק וּבִשְׁמ֖וֹ תִּשָּׁבֵֽעַ׃"
+pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OATH|OATH]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3372H]]"
+- "[[H9033]]"
+- "[[H5647G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1692]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H7650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:20**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt fear the LORD thy God; him shalt thou serve, and to him shalt thou cleave, and swear by his name.
 <small><sub>**BSB:**</sub></small>
 You are to fear the LORD your God and serve Him. Hold fast to Him and take your oaths in His name.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H3372H\|תִּירָ֖א]] [[H0853\|אֹת֣]][[H9033\|וֹ]] [[H5647G\|תַעֲבֹ֑ד]] [[H9002\|וּ]][[H9003\|ב֣]][[H9033\|וֹ]] [[H1692\|תִדְבָּ֔ק]] [[H9002\|וּ]][[H9003\|בִ]][[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H7650\|תִּשָּׁבֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OATH|OATH]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.19|<< Deuteronomy 10:19]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.21|Deuteronomy 10:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

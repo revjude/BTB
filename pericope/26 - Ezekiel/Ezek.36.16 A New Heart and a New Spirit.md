@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A New Heart and a New Spirit
+type: Pericope
 pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 36
 book/chapter: "[[Ezek.36|Ezekiel 36]]"
-genre:
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 23
 verses:
 - "[[Ezek.36.16]]"
 - "[[Ezek.36.17]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Ezek.36.38]]"
 ---
 
-[[Ezek.36|Ezekiel 36:16 - Ezekiel 36:38]]
+<small>[[Ezek.36|Ezekiel 36:16-38]]</small>
 *A New Heart and a New Spirit*
 
 [[Ezek.36.16|16]] Moreover the word of the LORD came unto me, saying,

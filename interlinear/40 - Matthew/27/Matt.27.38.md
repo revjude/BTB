@@ -1,10 +1,56 @@
+---
+title: Matthew 27:38
+type: Verse
+kjv: "Then were there two thieves crucified with him, one on the right hand, and another on the left."
+bsb: "Two robbers were crucified with Him, one on His right and the other on His left."
+greek: "Τότε σταυροῦνται σὺν αὐτῷ δύο λῃσταί, εἷς ἐκ δεξιῶν καὶ εἷς ἐξ εὐωνύμων."
+pericope: "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CRUCIFIXION|CRUCIFIXION]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G5119]]"
+- "[[G4717]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G1417]]"
+- "[[G3027]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G2532]]"
+- "[[G2176]]"
+texts:
+- NKO
+---
+
 **Matthew 27:38**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then were there two thieves crucified with him, one on the right hand, and another on the left.
 <small><sub>**BSB:**</sub></small>
 Two robbers were crucified with Him, one on His right and the other on His left.
-<small><sub>**Literal:**</sub></small>
-At the same time are crucified with Him two robbers, one at [the] right hand and one at [the] left.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.37|<< Matthew 27:37]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.39|Matthew 27:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G4717\|σταυροῦνται]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G1417\|δύο]]  [[G3027\|λῃσταί,]]  [[G1520\|εἷς]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G2532\|καὶ]]  [[G1520\|εἷς]]  [[G1537\|ἐξ]]  [[G2176\|εὐωνύμων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRUCIFIXION|CRUCIFIXION]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.37|<< Matthew 27:37]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.39|Matthew 27:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

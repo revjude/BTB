@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Presented at the Temple
+type: Pericope
 pericope: "[[Luke.2.21 Jesus Presented at the Temple|Jesus Presented at the Temple]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 2
 book/chapter: "[[Luke.2|Luke 2]]"
-genre:
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.2.21]]"
 - "[[Luke.2.22]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.2.24]]"
 ---
 
-[[Luke.2|Luke 2:21 - Luke 2:24]]
+<small>[[Luke.2|Luke 2:21-24]]</small>
 *Jesus Presented at the Temple*
 
 [[Luke.2.21|21]] And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.

@@ -1,8 +1,57 @@
+---
+title: Jeremiah 48:35
+type: Verse
+kjv: "Moreover I will cause to cease in Moab, saith the LORD, him that offereth in the high places, and him that burneth incense to his gods."
+bsb: "In Moab, declares the LORD, I will bring an end to those who make offerings on the high places and burn incense to their gods."
+hebrew: "וְהִשְׁבַּתִּ֥י לְמוֹאָ֖ב נְאֻם־ יְהוָ֑ה מַעֲלֶ֣ה בָמָ֔ה וּמַקְטִ֖יר לֵאלֹהָֽיו׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7673A]]"
+- "[[H9005]]"
+- "[[H4124G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5927I]]"
+- "[[H1116]]"
+- "[[H9002]]"
+- "[[H6999H]]"
+- "[[H0430]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:35**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover I will cause to cease in Moab, saith the LORD, him that offereth in the high places, and him that burneth incense to his gods.
 <small><sub>**BSB:**</sub></small>
 In Moab, declares the LORD, I will bring an end to those who make offerings on the high places and burn incense to their gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּ֥י]] [[H9005\|לְ]][[H4124G\|מוֹאָ֖ב]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H5927I\|מַעֲלֶ֣ה]] [[H1116\|בָמָ֔ה]] [[H9002\|וּ]][[H6999H\|מַקְטִ֖יר]] [[H9005\|לֵ]][[H0430\|אלֹהָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HESHBON|HESHBON]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.34|<< Jeremiah 48:34]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.36|Jeremiah 48:36 >>]]</td></tr></table>
 

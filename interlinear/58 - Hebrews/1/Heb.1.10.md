@@ -1,10 +1,56 @@
+---
+title: Hebrews 1:10
+type: Verse
+kjv: "And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:"
+bsb: "And: “In the beginning, O Lord, You laid the foundations of the earth, and the heavens are the work of Your hands."
+greek: "καὶ σὺ κατ᾽ ἀρχάς, κύριε, τὴν γῆν ἐθεμελίωσας, καὶ ἔργα τῶν χειρῶν σού εἰσιν οἱ οὐρανοί·"
+pericope: "[[Heb.1.1 The Supremacy of the Son|The Supremacy of the Son]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 1
+book/chapter: "[[Heb.1|Hebrews 1]]"
+chronological_order: 1140
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G2596]]"
+- "[[G0746]]"
+- "[[G2962G]]"
+- "[[G3588]]"
+- "[[G1093G]]"
+- "[[G2311]]"
+- "[[G2041]]"
+- "[[G5495]]"
+- "[[G1510]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Hebrews 1:10**<big><big>[[Heb.1.1 The Supremacy of the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:
 <small><sub>**BSB:**</sub></small>
 And: “In the beginning, O Lord, You laid the foundations of the earth, and the heavens are the work of Your hands.
-<small><sub>**Literal:**</sub></small>
-And You yourself in [the] beginning, Lord, of the earth laid the foundation, and works of the hands of You are the heavens;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.9|<< Hebrews 1:9]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.11|Hebrews 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4771\|σὺ]]  [[G2596\|κατ᾽]]  [[G0746\|ἀρχάς,]]  [[G2962G\|κύριε,]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2311\|ἐθεμελίωσας,]]  [[G2532\|καὶ]]  [[G2041\|ἔργα]]  [[G3588\|τῶν]]  [[G5495\|χειρῶν]]  [[G4771\|σού]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G3772\|οὐρανοί·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.1.9|<< Hebrews 1:9]]</td><td align="center" style="border:none;">[[Heb.1|Hebrews 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.1.11|Hebrews 1:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 1:10** is...
 > $\quad$ referencing: [[LXX.Ps.102.25|Ps 102:25-27]]

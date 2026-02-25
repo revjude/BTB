@@ -1,10 +1,60 @@
+---
+title: Mark 7:13
+type: Verse
+kjv: "Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye."
+bsb: "Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.”"
+jesus_said: "Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye."
+greek: "ἀκυροῦντες τὸν λόγον τοῦ θεοῦ τῇ παραδόσει ὑμῶν ᾗ παρεδώκατε· καὶ παρόμοια τοιαῦτα πολλὰ ποιεῖτε.¶"
+pericope: "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0208]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G3862]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G3860]]"
+- "[[G2532]]"
+- "[[G3946]]"
+- "[[G5108]]"
+- "[[G4183]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **Mark 7:13**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Making the word of God of none effect through your tradition, which ye have delivered: and many such like things do ye.
 <small><sub>**BSB:**</sub></small>
 Thus you nullify the word of God by the tradition you have handed down. And you do so in many such matters.”
-<small><sub>**Literal:**</sub></small>
-making void the word <the> of God for the tradition of you which you have handed down; And like [things] such many you do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.12|<< Mark 7:12]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.14|Mark 7:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0208\|ἀκυροῦντες]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τῇ]]  [[G3862\|παραδόσει]]  [[G4771\|ὑμῶν]]  [[G3739\|ᾗ]]  [[G3860\|παρεδώκατε·]]  [[G2532\|καὶ]]  [[G3946\|παρόμοια]]  [[G5108\|τοιαῦτα]]  [[G4183\|πολλὰ]]  [[G4160G\|ποιεῖτε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic VOWS|VOWS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.12|<< Mark 7:12]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.14|Mark 7:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

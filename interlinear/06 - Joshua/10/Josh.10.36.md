@@ -1,8 +1,61 @@
+---
+title: Joshua 10:36
+type: Verse
+kjv: "And Joshua went up from Eglon, and all Israel with him, unto Hebron; and they fought against it:"
+bsb: "Then Joshua and all Israel with him went up from Eglon to Hebron and fought against it."
+hebrew: "וַיַּ֣עַל יְ֠הוֹשֻׁעַ וְכָֽל־ יִשְׂרָאֵ֥ל עִמּ֛וֹ מֵעֶגְל֖וֹנָה חֶבְר֑וֹנָה וַיִּֽלָּחֲמ֖וּ עָלֶֽיהָ׃"
+pericope: "[[Josh.10.29 Conquest of the Southern Cities|Conquest of the Southern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H5700G]]"
+- "[[H9011]]"
+- "[[H2275A]]"
+- "[[H3898A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:36**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua went up from Eglon, and all Israel with him, unto Hebron; and they fought against it:
 <small><sub>**BSB:**</sub></small>
 Then Joshua and all Israel with him went up from Eglon to Hebron and fought against it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֣עַל]] [[H3091G\|יְ֠הוֹשֻׁעַ]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H5973A\|עִמּ֛]][[H9033\|וֹ]] [[H9006\|מֵ]][[H5700G\|עֶגְל֖וֹנָ]][[H9011\|ה]] [[H2275A\|חֶבְר֑וֹנָ]][[H9011\|ה]] [[H9001\|וַ]][[H3898A\|יִּֽלָּחֲמ֖וּ]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic HEBRON|HEBRON]] • [[topic JOSHUA|JOSHUA]] • [[topic MASSACRE|MASSACRE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.35|<< Joshua 10:35]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.37|Joshua 10:37 >>]]</td></tr></table>
 

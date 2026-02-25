@@ -1,10 +1,58 @@
+---
+title: Titus 3:9
+type: Verse
+kjv: "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain."
+bsb: "But avoid foolish controversies, genealogies, arguments, and quarrels about the law, because these things are pointless and worthless."
+greek: "μωρὰς δὲ ζητήσεις καὶ γενεαλογίας καὶ ἔρεις καὶ μάχας νομικὰς περιΐστασο· εἰσὶν γὰρ ἀνωφελεῖς καὶ μάταιοι."
+pericope: "[[Titus.3.9 Avoid Divisions|Avoid Divisions]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 3
+book/chapter: "[[Titus.3|Titus 3]]"
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[G3474]]"
+- "[[G1161]]"
+- "[[G2214]]"
+- "[[G2532]]"
+- "[[G1076]]"
+- "[[G2054]]"
+- "[[G3163]]"
+- "[[G3544]]"
+- "[[G4026]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G0512]]"
+- "[[G3152]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Titus 3:9**<big><big>[[Titus.3.9 Avoid Divisions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.
 <small><sub>**BSB:**</sub></small>
 But avoid foolish controversies, genealogies, arguments, and quarrels about the law, because these things are pointless and worthless.
-<small><sub>**Literal:**</sub></small>
-Foolish however controversies and genealogies and arguments and quarrels about [the] Law do yourself avoid; they are for unprofitable and worthless.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.8|<< Titus 3:8]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.10|Titus 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3474\|μωρὰς]]  [[G1161\|δὲ]]  [[G2214\|ζητήσεις]]  [[G2532\|καὶ]]  [[G1076\|γενεαλογίας]]  [[G2532\|καὶ]]  [[G2054\|ἔρεις]]  [[G2532\|καὶ]]  [[G3163\|μάχας]]  [[G3544\|νομικὰς]]  [[G4026\|περιΐστασο·]]  [[G1510\|εἰσὶν]]  [[G1063\|γὰρ]]  [[G0512\|ἀνωφελεῖς]]  [[G2532\|καὶ]]  [[G3152\|μάταιοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic STRIFE|STRIFE]] • [[topic VANITY|VANITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.8|<< Titus 3:8]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.10|Titus 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

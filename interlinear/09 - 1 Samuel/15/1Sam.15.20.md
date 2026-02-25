@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 15:20
+type: Verse
+kjv: "And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites."
+bsb: "“But I did obey the LORD,” Saul replied. “I went on the mission that the LORD gave me. I brought back Agag king of Amalek and devoted the Amalekites to destruction."
+hebrew: "וַיֹּ֨אמֶר שָׁא֜וּל אֶל־ שְׁמוּאֵ֗ל אֲשֶׁ֤ר שָׁמַ֙עְתִּי֙ בְּק֣וֹל יְהוָ֔ה וָאֵלֵ֕ךְ בַּדֶּ֖רֶךְ אֲשֶׁר־ שְׁלָחַ֣נִי יְהוָ֑ה וָאָבִ֗יא אֶת־ אֲגַג֙ מֶ֣לֶךְ עֲמָלֵ֔ק וְאֶת־ עֲמָלֵ֖ק הֶחֱרַֽמְתִּי׃"
+pericope: "[[1Sam.15.10 Samuel Denounces Saul|Samuel Denounces Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 15
+book/chapter: "[[1Sam.15|1 Samuel 15]]"
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AMALEKITES|AMALEKITES]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H0834A]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H1980G]]"
+- "[[H1870L]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H0090H]]"
+- "[[H4428G]]"
+- "[[H6002G]]"
+- "[[H9002]]"
+- "[[H2763A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 15:20**<big><big>[[1Sam.15.10 Samuel Denounces Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul said unto Samuel, Yea, I have obeyed the voice of the LORD, and have gone the way which the LORD sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites.
 <small><sub>**BSB:**</sub></small>
 “But I did obey the LORD,” Saul replied. “I went on the mission that the LORD gave me. I brought back Agag king of Amalek and devoted the Amalekites to destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H7586G\|שָׁא֜וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H8050G\|שְׁמוּאֵ֗ל]] [[H0834A\|אֲשֶׁ֤ר]] [[H8085H\|שָׁמַ֙עְתִּי֙]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וָ]][[H1980G\|אֵלֵ֕ךְ]] [[H9003\|בַּ]][[H1870L\|דֶּ֖רֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שְׁלָחַ֣]][[H9030\|נִי]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וָ]][[H0935P\|אָבִ֗יא]] [[H0853\|אֶת]][[H9014\|־]] [[H0090H\|אֲגַג֙]] [[H4428G\|מֶ֣לֶךְ]] [[H6002G\|עֲמָלֵ֔ק]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6002G\|עֲמָלֵ֖ק]] [[H2763A\|הֶחֱרַֽמְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMALEKITES|AMALEKITES]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic RULERS|RULERS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SELF-WILL|SELF-WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.15.19|<< 1 Samuel 15:19]]</td><td align="center" style="border:none;">[[1Sam.15|1 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.15.21|1 Samuel 15:21 >>]]</td></tr></table>
 

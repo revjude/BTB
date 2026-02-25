@@ -1,8 +1,55 @@
+---
+title: Hosea 11:10
+type: Verse
+kjv: "They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west."
+bsb: "They will walk after the LORD; He will roar like a lion. When He roars, His children will come trembling from the west."
+hebrew: "אַחֲרֵ֧י יְהוָ֛ה יֵלְכ֖וּ כְּאַרְיֵ֣ה יִשְׁאָ֑ג כִּֽי־ ה֣וּא יִשְׁאַ֔ג וְיֶחֶרְד֥וּ בָנִ֖ים מִיָּֽם׃"
+pericope: "[[Hos.11.8 God’s Love for Israel|God’s Love for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H0310A]]"
+- "[[H3068G]]"
+- "[[H1980N]]"
+- "[[H9004]]"
+- "[[H0738B]]"
+- "[[H7580]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H2729]]"
+- "[[H1121A]]"
+- "[[H9006]]"
+- "[[H3220H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 11:10**<big><big>[[Hos.11.8 God’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.
 <small><sub>**BSB:**</sub></small>
 They will walk after the LORD; He will roar like a lion. When He roars, His children will come trembling from the west.
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַחֲרֵ֧י]] [[H3068G\|יְהוָ֛ה]] [[H1980N\|יֵלְכ֖וּ]] [[H9004\|כְּ]][[H0738B\|אַרְיֵ֣ה]] [[H7580\|יִשְׁאָ֑ג]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H7580\|יִשְׁאַ֔ג]] [[H9002\|וְ]][[H2729\|יֶחֶרְד֥וּ]] [[H1121A\|בָנִ֖ים]] [[H9006\|מִ]][[H3220H\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.9|<< Hosea 11:9]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.11.11|Hosea 11:11 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 33:8
+type: Verse
+kjv: "Neither will I any more remove the foot of Israel from out of the land which I have appointed for your fathers; so that they will take heed to do all that I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses."
+bsb: "I will never again cause the feet of the Israelites to leave the land that I assigned to your fathers, if only they are careful to do all that I have commanded them through Moses—all the laws, statutes, and judgments.”"
+hebrew: "וְלֹ֣א אוֹסִ֗יף לְהָסִיר֙ אֶת־ רֶ֣גֶל יִשְׂרָאֵ֔ל מֵעַל֙ הָֽאֲדָמָ֔ה אֲשֶׁ֥ר הֶֽעֱמַ֖דְתִּי לַאֲבֹֽתֵיכֶ֑ם רַ֣ק׀ אִם־ יִשְׁמְר֣וּ לַעֲשׂ֗וֹת אֵ֚ת כָּל־ אֲשֶׁ֣ר צִוִּיתִ֔ים לְכָל־ הַתּוֹרָ֛ה וְהַֽחֻקִּ֥ים וְהַמִּשְׁפָּטִ֖ים בְּיַד־ מֹשֶֽׁה׃"
+pericope: "[[2Chr.33.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7272]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H5975H]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H7535]]"
+- "[[H9015]]"
+- "[[H0518A]]"
+- "[[H8104J]]"
+- "[[H6213A]]"
+- "[[H3605]]"
+- "[[H6680]]"
+- "[[H9038]]"
+- "[[H8451]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 33:8**<big><big>[[2Chr.33.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither will I any more remove the foot of Israel from out of the land which I have appointed for your fathers; so that they will take heed to do all that I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
 I will never again cause the feet of the Israelites to leave the land that I assigned to your fathers, if only they are careful to do all that I have commanded them through Moses—all the laws, statutes, and judgments.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3254G\|אוֹסִ֗יף]] [[H9005\|לְ]][[H5493G\|הָסִיר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H7272\|רֶ֣גֶל]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H5975H\|הֶֽעֱמַ֖דְתִּי]] [[H9005\|לַ]][[H0001G\|אֲבֹֽתֵי]][[H9026\|כֶ֑ם]] [[H7535\|רַ֣ק]][[H9015\|׀]] [[H0518A\|אִם]][[H9014\|־]] [[H8104J\|יִשְׁמְר֣וּ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֗וֹת]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוִּיתִ֔י]][[H9038\|ם]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H8451\|תּוֹרָ֛ה]] [[H9002\|וְ]][[H9009\|הַֽ]][[H2706G\|חֻקִּ֥ים]] [[H9002\|וְ]][[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֖ים]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.7|<< 2 Chronicles 33:7]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.9|2 Chronicles 33:9 >>]]</td></tr></table>
 

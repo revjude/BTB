@@ -1,10 +1,62 @@
+---
+title: Romans 5:11
+type: Verse
+kjv: "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement."
+bsb: "Not only that, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation."
+greek: "οὐ μόνον δέ, ἀλλὰ καὶ καυχώμενοι ἐν τῷ θεῷ διὰ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ δι᾽ οὗ νῦν τὴν καταλλαγὴν ἐλάβομεν.¶"
+pericope: "[[Rom.5.6 Christ’s Sacrifice for the Ungodly|Christ’s Sacrifice for the Ungodly]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 5
+book/chapter: "[[Rom.5|Romans 5]]"
+chronological_order: 1091
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic PROPITIATION|PROPITIATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G1161]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G2744]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3739]]"
+- "[[G3568]]"
+- "[[G2643]]"
+- "[[G2983]]"
+texts:
+- NKO
+---
+
 **Romans 5:11**<big><big>[[Rom.5.6 Christ’s Sacrifice for the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And not only [so], but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.
 <small><sub>**BSB:**</sub></small>
 Not only that, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.
-<small><sub>**Literal:**</sub></small>
-Not only [so] now, but also we are rejoicing in <the> God through the Lord of us Jesus Christ through whom now the reconciliation we have received.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.10|<< Romans 5:10]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.12|Romans 5:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G1161\|δέ,]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G2744\|καυχώμενοι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1223\|δι᾽]]  [[G3739\|οὗ]]  [[G3568\|νῦν]]  [[G3588\|τὴν]]  [[G2643\|καταλλαγὴν]]  [[G2983\|ἐλάβομεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic PROPITIATION|PROPITIATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.5.10|<< Romans 5:10]]</td><td align="center" style="border:none;">[[Rom.5|Romans 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.5.12|Romans 5:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

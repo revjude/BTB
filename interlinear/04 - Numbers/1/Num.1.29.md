@@ -1,8 +1,57 @@
+---
+title: Numbers 1:29
+type: Verse
+kjv: "Those that were numbered of them, even of the tribe of Issachar, were fifty and four thousand and four hundred."
+bsb: "those registered to the tribe of Issachar numbered 54,400."
+hebrew: "פְּקֻדֵיהֶ֖ם לְמַטֵּ֣ה יִשָּׂשכָ֑ר אַרְבָּעָ֧ה וַחֲמִשִּׁ֛ים אֶ֖לֶף וְאַרְבַּ֥ע מֵאֽוֹת׃ פ"
+pericope: "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic ISSACHAR|ISSACHAR]]"
+strongs:
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H3485G]]"
+- "[[H0702]]"
+- "[[H9002]]"
+- "[[H2572]]"
+- "[[H0505G]]"
+- "[[H3967]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 1:29**<big><big>[[Num.1.17 The Number of Every Tribe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Those that were numbered of them, [even] of the tribe of Issachar, [were] fifty and four thousand and four hundred.
 <small><sub>**BSB:**</sub></small>
 those registered to the tribe of Issachar numbered 54,400.
+<small><sub>**Hebrew:**</sub></small>
+[[H6485A\|פְּקֻדֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H4294H\|מַטֵּ֣ה]] [[H3485G\|יִשָּׂשכָ֑ר]] [[H0702\|אַרְבָּעָ֧ה]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֛ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וְ]][[H0702\|אַרְבַּ֥ע]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic ISSACHAR|ISSACHAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.28|<< Numbers 1:28]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.30|Numbers 1:30 >>]]</td></tr></table>
 
@@ -15,7 +64,7 @@ those registered to the tribe of Issachar numbered 54,400.
 | and fifty  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2572\|חֲמִשִּׁ֛ים]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.mi.Shim<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and four  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0702\|אַרְבַּ֥ע]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ar.Ba'<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.28|<< Numbers 1:28]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.30|Numbers 1:30 >>]]</td></tr></table>
 
 

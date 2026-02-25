@@ -1,8 +1,47 @@
+---
+title: Zechariah 3:6
+type: Verse
+kjv: "And the angel of the LORD protested unto Joshua, saying,"
+bsb: "Then the angel of the LORD gave this charge to Joshua:"
+hebrew: "וַיָּ֙עַד֙ מַלְאַ֣ךְ יְהוָ֔ה בִּיהוֹשֻׁ֖עַ לֵאמֹֽר׃"
+pericope: "[[Zech.3.1 The Vision of Joshua the High Priest|The Vision of Joshua the High Priest]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 3
+book/chapter: "[[Zech.3|Zechariah 3]]"
+chronological_order: 859
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+strongs:
+- "[[H9001]]"
+- "[[H5749B]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3091J]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 3:6**<big><big>[[Zech.3.1 The Vision of Joshua the High Priest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD protested unto Joshua, saying,
 <small><sub>**BSB:**</sub></small>
 Then the angel of the LORD gave this charge to Joshua:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5749B\|יָּ֙עַד֙]] [[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בִּ]][[H3091J\|יהוֹשֻׁ֖עַ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3.5|<< Zechariah 3:5]]</td><td align="center" style="border:none;">[[Zech.3|Zechariah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.3.7|Zechariah 3:7 >>]]</td></tr></table>
 

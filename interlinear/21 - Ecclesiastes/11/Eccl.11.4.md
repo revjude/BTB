@@ -1,8 +1,52 @@
+---
+title: Ecclesiastes 11:4
+type: Verse
+kjv: "He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap."
+bsb: "He who watches the wind will fail to sow, and he who observes the clouds will fail to reap."
+hebrew: "שֹׁמֵ֥ר ר֖וּחַ לֹ֣א יִזְרָ֑ע וְרֹאֶ֥ה בֶעָבִ֖ים לֹ֥א יִקְצֽוֹר׃"
+pericope: "[[Eccl.11.1 Cast Your Bread upon the Waters|Cast Your Bread upon the Waters]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 11
+book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic SOWER|SOWER]]"
+strongs:
+- "[[H8104I]]"
+- "[[H7307H]]"
+- "[[H3808]]"
+- "[[H2232]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H5645]]"
+- "[[H7114B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 11:4**<big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that observeth the wind shall not sow; and he that regardeth the clouds shall not reap.
 <small><sub>**BSB:**</sub></small>
 He who watches the wind will fail to sow, and he who observes the clouds will fail to reap.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104I\|שֹׁמֵ֥ר]] [[H7307H\|ר֖וּחַ]] [[H3808\|לֹ֣א]] [[H2232\|יִזְרָ֑ע]] [[H9002\|וְ]][[H7200G\|רֹאֶ֥ה]] [[H9003\|בֶ]][[H5645\|עָבִ֖ים]] [[H3808\|לֹ֥א]] [[H7114B\|יִקְצֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic SOWER|SOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.3|<< Ecclesiastes 11:3]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.5|Ecclesiastes 11:5 >>]]</td></tr></table>
 

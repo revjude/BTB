@@ -1,8 +1,57 @@
+---
+title: 1 Kings 6:36
+type: Verse
+kjv: "And he built the inner court with three rows of hewed stone, and a row of cedar beams."
+bsb: "Solomon built the inner courtyard with three rows of dressed stone and one row of trimmed cedar beams."
+hebrew: "וַיִּ֙בֶן֙ אֶת־ הֶחָצֵ֣ר הַפְּנִימִ֔ית שְׁלֹשָׁ֖ה טוּרֵ֣י גָזִ֑ית וְט֖וּר כְּרֻתֹ֥ת אֲרָזִֽים׃"
+pericope: "[[1Kgs.6.36 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic STONES|STONES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H6442]]"
+- "[[H7969]]"
+- "[[H2905]]"
+- "[[H1496]]"
+- "[[H9002]]"
+- "[[H3773]]"
+- "[[H0730]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:36**<big><big>[[1Kgs.6.36 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he built the inner court with three rows of hewed stone, and a row of cedar beams.
 <small><sub>**BSB:**</sub></small>
 Solomon built the inner courtyard with three rows of dressed stone and one row of trimmed cedar beams.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|יִּ֙בֶן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2691A\|חָצֵ֣ר]] [[H9009\|הַ]][[H6442\|פְּנִימִ֔ית]] [[H7969\|שְׁלֹשָׁ֖ה]] [[H2905\|טוּרֵ֣י]] [[H1496\|גָזִ֑ית]] [[H9002\|וְ]][[H2905\|ט֖וּר]] [[H3773\|כְּרֻתֹ֥ת]] [[H0730\|אֲרָזִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic STONES|STONES]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.35|<< 1 Kings 6:35]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.37|1 Kings 6:37 >>]]</td></tr></table>
 

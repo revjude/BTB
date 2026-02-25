@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mountain of the House of the LORD
+type: Pericope
 pericope: "[[Mic.4.1 The Mountain of the House of the LORD|The Mountain of the House of the LORD]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 4
 book/chapter: "[[Mic.4|Micah 4]]"
-genre:
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 5
 verses:
 - "[[Mic.4.1]]"
 - "[[Mic.4.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mic.4.5]]"
 ---
 
-[[Mic.4|Micah 4:1 - Micah 4:5]]
+<small>[[Mic.4|Micah 4:1-5]]</small>
 *The Mountain of the House of the LORD*
 
 [[Mic.4.1|1]] But in the last days it shall come to pass, \[that\] the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.

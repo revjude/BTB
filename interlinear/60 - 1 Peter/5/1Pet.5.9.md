@@ -1,10 +1,58 @@
+---
+title: 1 Peter 5:9
+type: Verse
+kjv: "Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world."
+bsb: "Resist him, standing firm in your faith and in the knowledge that your brothers throughout the world are undergoing the same kinds of suffering."
+greek: "ᾧ ἀντίστητε στερεοὶ τῇ πίστει εἰδότες τὰ αὐτὰ τῶν παθημάτων τῇ ἐν τῷ κόσμῳ ὑμῶν ἀδελφότητι ἐπιτελεῖσθαι.¶"
+pericope: "[[1Pet.5.5 Cast Your Cares on Him|Cast Your Cares on Him]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3739]]"
+- "[[G0436]]"
+- "[[G4731]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G6063]]"
+- "[[G0846]]"
+- "[[G3804]]"
+- "[[G1722]]"
+- "[[G2889]]"
+- "[[G4771]]"
+- "[[G0081]]"
+- "[[G2005]]"
+texts:
+- NKO
+- no
+---
+
 **1 Peter 5:9**<big><big>[[1Pet.5.5 Cast Your Cares on Him|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.
 <small><sub>**BSB:**</sub></small>
 Resist him, standing firm in your faith and in the knowledge that your brothers throughout the world are undergoing the same kinds of suffering.
-<small><sub>**Literal:**</sub></small>
-whom do resist firm in the faith knowing the same <the> sufferings <the> throughout the world in your brotherhood [is] being accomplished.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.8|<< 1 Peter 5:8]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.10|1 Peter 5:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ᾧ]]  [[G0436\|ἀντίστητε]]  [[G4731\|στερεοὶ]]  [[G3588\|τῇ]]  [[G4102G\|πίστει]]  [[G6063\|εἰδότες]]  [[G3588\|τὰ]]  [[G0846\|αὐτὰ]]  [[G3588\|τῶν]]  [[G3804\|παθημάτων]]  [[G3588\|τῇ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ]]  [[G4771\|ὑμῶν]]  [[G0081\|ἀδελφότητι]]  [[G2005\|ἐπιτελεῖσθαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic SATAN|SATAN]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.8|<< 1 Peter 5:8]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.10|1 Peter 5:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

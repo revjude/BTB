@@ -1,10 +1,48 @@
+---
+title: Mark 15:3
+type: Verse
+kjv: "And the chief priests accused him of many things: but he answered nothing."
+bsb: "And the chief priests began to accuse Him of many things."
+greek: "καὶ κατηγόρουν αὐτοῦ οἱ ἀρχιερεῖς πολλά.¶"
+pericope: "[[Mark.15.1 Jesus Delivered to Pilate|Jesus Delivered to Pilate]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2723]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G4183]]"
+texts:
+- NKO
+---
+
 **Mark 15:3**<big><big>[[Mark.15.1 Jesus Delivered to Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the chief priests accused him of many things: but he answered nothing.
 <small><sub>**BSB:**</sub></small>
 And the chief priests began to accuse Him of many things.
-<small><sub>**Literal:**</sub></small>
-And were accusing Him the chief priests of many things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.2|<< Mark 15:2]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.4|Mark 15:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2723\|κατηγόρουν]]  [[G0846\|αὐτοῦ]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G4183\|πολλά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DEFENSE|SELF-DEFENSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.2|<< Mark 15:2]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.4|Mark 15:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

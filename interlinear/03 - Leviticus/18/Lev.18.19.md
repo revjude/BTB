@@ -1,8 +1,59 @@
+---
+title: Leviticus 18:19
+type: Verse
+kjv: "Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness."
+bsb: "You must not approach a woman to have sexual relations with her during her menstrual period."
+hebrew: "וְאֶל־ אִשָּׁ֖ה בְּנִדַּ֣ת טֻמְאָתָ֑הּ לֹ֣א תִקְרַ֔ב לְגַלּ֖וֹת עֶרְוָתָֽהּ׃"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic COPULATION|COPULATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0802G]]"
+- "[[H9003]]"
+- "[[H5079]]"
+- "[[H2932]]"
+- "[[H9024]]"
+- "[[H3808]]"
+- "[[H7126G]]"
+- "[[H9005]]"
+- "[[H1540I]]"
+- "[[H6172]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 18:19**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness.
 <small><sub>**BSB:**</sub></small>
 You must not approach a woman to have sexual relations with her during her menstrual period.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0802G\|אִשָּׁ֖ה]] [[H9003\|בְּ]][[H5079\|נִדַּ֣ת]] [[H2932\|טֻמְאָתָ֑]][[H9024\|הּ]] [[H3808\|לֹ֣א]] [[H7126G\|תִקְרַ֔ב]] [[H9005\|לְ]][[H1540I\|גַלּ֖וֹת]] [[H6172\|עֶרְוָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COPULATION|COPULATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.18|<< Leviticus 18:18]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.20|Leviticus 18:20 >>]]</td></tr></table>
 

@@ -1,10 +1,66 @@
+---
+title: Titus 3:15
+type: Verse
+kjv: "All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen."
+bsb: "All who are with me send you greetings. Greet those who love us in the faith. Grace be with all of you."
+greek: "Ἀσπάζονταί σε οἱ μετ᾽ ἐμοῦ πάντες. ἄσπασαι τοὺς φιλοῦντας ἡμᾶς ἐν πίστει.¶ Ἡ χάρις μετὰ πάντων ὑμῶν ἀμήν. πρός Τίτον τῆς Κρητῶν ἐκκλησίας πρῶτον ἐπίσκοπον χειροτονηθέντα ἐγράφη ἀπό Νικοπόλεως τῆς Κρητῶν.¶"
+pericope: "[[Titus.3.12 Final Remarks and Greetings|Final Remarks and Greetings]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 3
+book/chapter: "[[Titus.3|Titus 3]]"
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G0782]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G5368]]"
+- "[[G3165]]"
+- "[[G1722]]"
+- "[[G4102G]]"
+- "[[G5485]]"
+- "[[G0281]]"
+- "[[G4314]]"
+- "[[G5103]]"
+- "[[G2912]]"
+- "[[G1577]]"
+- "[[G4413G]]"
+- "[[G1985]]"
+- "[[G5500]]"
+- "[[G1125]]"
+- "[[G0575]]"
+- "[[G3533]]"
+- "[[G3109]]"
+texts:
+- NKO
+- KO
+- K
+---
+
 **Titus 3:15**<big><big>[[Titus.3.12 Final Remarks and Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 All that are with me salute thee. Greet them that love us in the faith. Grace [be] with you all. Amen.
 <small><sub>**BSB:**</sub></small>
 All who are with me send you greetings. Greet those who love us in the faith. Grace be with all of you.
-<small><sub>**Literal:**</sub></small>
-Greet you those with me all. do greet those loving us in [the] faith. <the> Grace [be] with all of you Amen. to Titus of the Cretan church first overseer having been chosen It was written from Nicopolis <the> of Macedonia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.14|<< Titus 3:14]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.1|Philemon 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάζονταί]]  [[G4771\|σε]]  [[G3588\|οἱ]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G3956\|πάντες.]]  [[G0782\|ἄσπασαι]]  [[G3588\|τοὺς]]  [[G5368\|φιλοῦντας]]  [[G3165\|ἡμᾶς]]  [[G1722\|ἐν]]  [[G4102G\|πίστει.¶]]  [[G3588\|Ἡ]]  [[G5485\|χάρις]]  [[G3326\|μετὰ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν]]  [[G0281\|ἀμήν.]]  [[G4314\|πρός]]  [[G5103\|Τίτον]]  [[G3588\|τῆς]]  [[G2912\|Κρητῶν]]  [[G1577\|ἐκκλησίας]]  [[G4413G\|πρῶτον]]  [[G1985\|ἐπίσκοπον]]  [[G5500\|χειροτονηθέντα]]  [[G1125\|ἐγράφη]]  [[G0575\|ἀπό]]  [[G3533\|Νικοπόλεως]]  [[G3588\|τῆς]]  [[G3109\|Κρητῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.14|<< Titus 3:14]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.1|Philemon 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

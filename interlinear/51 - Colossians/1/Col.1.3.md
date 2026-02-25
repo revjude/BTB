@@ -1,10 +1,59 @@
+---
+title: Colossians 1:3
+type: Verse
+kjv: "We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,"
+bsb: "We always thank God, the Father of our Lord Jesus Christ, when we pray for you,"
+greek: "Εὐχαριστοῦμεν τῷ θεῷ καὶ πατρὶ τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ πάντοτε περὶ ὑμῶν προσευχόμενοι,"
+pericope: "[[Col.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 1
+book/chapter: "[[Col.1|Colossians 1]]"
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2168]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3962]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3842]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G4336]]"
+texts:
+- NKO
+- ko
+- NK(o)
+---
+
 **Colossians 1:3**<big><big>[[Col.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,
 <small><sub>**BSB:**</sub></small>
 We always thank God, the Father of our Lord Jesus Christ, when we pray for you,
-<small><sub>**Literal:**</sub></small>
-We give thanks to the God and Father of the Lord of us Jesus Christ continually for you praying,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.2|<< Colossians 1:2]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.4|Colossians 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2168\|Εὐχαριστοῦμεν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G3962\|πατρὶ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3842\|πάντοτε]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν]]  [[G4336\|προσευχόμενοι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.1.2|<< Colossians 1:2]]</td><td align="center" style="border:none;">[[Col.1|Colossians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.1.4|Colossians 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

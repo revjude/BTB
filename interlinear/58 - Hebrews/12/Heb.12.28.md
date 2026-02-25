@@ -1,10 +1,65 @@
+---
+title: Hebrews 12:28
+type: Verse
+kjv: "Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:"
+bsb: "Therefore, since we are receiving an unshakable kingdom, let us be filled with gratitude, and so worship God acceptably with reverence and awe."
+greek: "διὸ βασιλείαν ἀσάλευτον παραλαμβάνοντες ἔχωμεν χάριν δι᾽ ἧς λατρεύωμεν εὐαρέστως τῷ θεῷ μετὰ εὐλαβείας καὶ δέους·"
+pericope: "[[Heb.12.18 An Unshakable Kingdom|An Unshakable Kingdom]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G1352]]"
+- "[[G0932]]"
+- "[[G0761]]"
+- "[[G3880]]"
+- "[[G2192]]"
+- "[[G5485]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G3000]]"
+- "[[G2102]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3326]]"
+- "[[G2124]]"
+- "[[G2532]]"
+- "[[G6015]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Hebrews 12:28**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore we receiving a kingdom which cannot be moved, let us have grace, whereby we may serve God acceptably with reverence and godly fear:
 <small><sub>**BSB:**</sub></small>
 Therefore, since we are receiving an unshakable kingdom, let us be filled with gratitude, and so worship God acceptably with reverence and awe.
-<small><sub>**Literal:**</sub></small>
-Therefore a kingdom not to be shaken receiving we may have grace through which we may serve well pleasingly <the> God with reverence and fear;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.27|<< Hebrews 12:27]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.29|Hebrews 12:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|διὸ]]  [[G0932\|βασιλείαν]]  [[G0761\|ἀσάλευτον]]  [[G3880\|παραλαμβάνοντες]]  [[G2192\|ἔχωμεν]]  [[G5485\|χάριν]]  [[G1223\|δι᾽]]  [[G3739\|ἧς]]  [[G3000\|λατρεύωμεν]]  [[G2102\|εὐαρέστως]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3326\|μετὰ]]  [[G2124\|εὐλαβείας]]  [[G2532\|καὶ]]  [[G6015\|δέους·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic CHURCH|CHURCH]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVERENCE|REVERENCE]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.27|<< Hebrews 12:27]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.29|Hebrews 12:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

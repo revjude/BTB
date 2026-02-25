@@ -1,10 +1,68 @@
+---
+title: Revelation 21:2
+type: Verse
+kjv: "And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband."
+bsb: "I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband."
+greek: "καὶ ἐγὼ Ἰωάννης τὴν πόλιν τὴν ἁγίαν Ἰερουσαλὴμ καινὴν εἶδον καταβαίνουσαν ἐκ τοῦ οὐρανοῦ ἀπὸ τοῦ θεοῦ ἡτοιμασμένην ὡς νύμφην κεκοσμημένην τῷ ἀνδρὶ αὐτῆς."
+pericope: "[[Rev.21.1 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RESTORATION|RESTORATION]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G2491H]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G0040G]]"
+- "[[G2419]]"
+- "[[G2537]]"
+- "[[G1492H]]"
+- "[[G2597]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G0575]]"
+- "[[G2316]]"
+- "[[G2090]]"
+- "[[G5613]]"
+- "[[G3565]]"
+- "[[G2885]]"
+- "[[G0435H]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+---
+
 **Revelation 21:2**<big><big>[[Rev.21.1 A New Heaven and a New Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I John saw the holy city, new Jerusalem, coming down from God out of heaven, prepared as a bride adorned for her husband.
 <small><sub>**BSB:**</sub></small>
 I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.
-<small><sub>**Literal:**</sub></small>
-And I myself John the city <the> holy Jerusalem new I saw coming down out of <the> heaven from <the> God prepared as a bride adorned for the husband of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.1|<< Revelation 21:1]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.3|Revelation 21:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1473\|ἐγὼ]]  [[G2491H\|Ἰωάννης]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G3588\|τὴν]]  [[G0040G\|ἁγίαν]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2537\|καινὴν]]  [[G1492H\|εἶδον]]  [[G2597\|καταβαίνουσαν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2090\|ἡτοιμασμένην]]  [[G5613\|ὡς]]  [[G3565\|νύμφην]]  [[G2885\|κεκοσμημένην]]  [[G3588\|τῷ]]  [[G0435H\|ἀνδρὶ]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic CHURCH|CHURCH]] • [[topic HEAVEN|HEAVEN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RESTORATION|RESTORATION]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.1|<< Revelation 21:1]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.3|Revelation 21:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:2** is...
 > $\quad$ possibly alluding to: [[LXX.Ezek.40.1|Ezek 40:1]] ☩ [[LXX.Ezek.48.1|Ezek 48:1]]

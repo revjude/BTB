@@ -1,8 +1,71 @@
+---
+title: Hosea 9:10
+type: Verse
+kjv: "I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: but they went to Baalpeor, and separated themselves unto that shame; and their abominations were according as they loved."
+bsb: "I found Israel like grapes in the wilderness. I saw your fathers as the firstfruits of the fig tree in its first season. But they went to Baal-peor, and consecrated themselves to Shame; so they became as detestable as the thing they loved."
+hebrew: "כַּעֲנָבִ֣ים בַּמִּדְבָּ֗ר מָצָ֙אתִי֙ יִשְׂרָאֵ֔ל כְּבִכּוּרָ֤ה בִתְאֵנָה֙ בְּרֵ֣אשִׁיתָ֔הּ רָאִ֖יתִי אֲבֽוֹתֵיכֶ֑ם הֵ֜מָּה בָּ֣אוּ בַֽעַל־ פְּע֗וֹר וַיִּנָּֽזְרוּ֙ לַבֹּ֔שֶׁת וַיִּהְי֥וּ שִׁקּוּצִ֖ים כְּאָהֳבָֽם׃"
+pericope: "[[Hos.9.1 Israel’s Punishment|Israel’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 9
+book/chapter: "[[Hos.9|Hosea 9]]"
+chronological_order: 650
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BAAL-PEOR|BAAL-PEOR]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9004]]"
+- "[[H6025]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4672]]"
+- "[[H3478]]"
+- "[[H1063]]"
+- "[[H8384]]"
+- "[[H7225G]]"
+- "[[H9024]]"
+- "[[H7200G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H1992]]"
+- "[[H0935G]]"
+- "[[H1187]]"
+- "[[H9014]]"
+- "[[H9001]]"
+- "[[H5144A]]"
+- "[[H9005]]"
+- "[[H1322]]"
+- "[[H1961]]"
+- "[[H8251]]"
+- "[[H0157G]]"
+- "[[H9048]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 9:10**<big><big>[[Hos.9.1 Israel’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I found Israel like grapes in the wilderness; I saw your fathers as the firstripe in the fig tree at her first time: [but] they went to Baalpeor, and separated themselves unto [that] shame; and [their] abominations were according as they loved.
 <small><sub>**BSB:**</sub></small>
 I found Israel like grapes in the wilderness. I saw your fathers as the firstfruits of the fig tree in its first season. But they went to Baal-peor, and consecrated themselves to Shame; so they became as detestable as the thing they loved.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H6025\|עֲנָבִ֣ים]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֗ר]] [[H4672\|מָצָ֙אתִי֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9004\|כְּ]][[H1063\|בִכּוּרָ֤ה]] [[H9003\|בִ]][[H8384\|תְאֵנָה֙]] [[H9003\|בְּ]][[H7225G\|רֵ֣אשִׁיתָ֔]][[H9024\|הּ]] [[H7200G\|רָאִ֖יתִי]] [[H0001G\|אֲבֽוֹתֵי]][[H9026\|כֶ֑ם]] [[H1992\|הֵ֜מָּה]] [[H0935G\|בָּ֣אוּ]] [[H1187\|בַֽעַל]][[H9014\|־]] [[H1187\|פְּע֗וֹר]] [[H9001\|וַ]][[H5144A\|יִּנָּֽזְרוּ֙]] [[H9005\|לַ]][[H1322\|בֹּ֔שֶׁת]] [[H9001\|וַ]][[H1961\|יִּהְי֥וּ]] [[H8251\|שִׁקּוּצִ֖ים]] [[H9004\|כְּ]][[H0157G\|אָהֳבָֽ]][[H9048\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-PEOR|BAAL-PEOR]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.9.9|<< Hosea 9:9]]</td><td align="center" style="border:none;">[[Hos.9|Hosea 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.9.11|Hosea 9:11 >>]]</td></tr></table>
 

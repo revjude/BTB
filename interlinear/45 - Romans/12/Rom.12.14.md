@@ -1,10 +1,50 @@
+---
+title: Romans 12:14
+type: Verse
+kjv: "Bless them which persecute you: bless, and curse not."
+bsb: "Bless those who persecute you. Bless and do not curse."
+greek: "εὐλογεῖτε τοὺς διώκοντας ὑμᾶς· εὐλογεῖτε καὶ μὴ καταρᾶσθε."
+pericope: "[[Rom.12.14 Forgiveness|Forgiveness]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 12
+book/chapter: "[[Rom.12|Romans 12]]"
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G2127]]"
+- "[[G3588]]"
+- "[[G1377]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2672]]"
+texts:
+- NKO
+---
+
 **Romans 12:14**<big><big>[[Rom.12.14 Forgiveness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Bless them which persecute you: bless, and curse not.
 <small><sub>**BSB:**</sub></small>
 Bless those who persecute you. Bless and do not curse.
-<small><sub>**Literal:**</sub></small>
-do bless those persecuting you; do bless and not do curse.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.13|<< Romans 12:13]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.15|Romans 12:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2127\|εὐλογεῖτε]]  [[G3588\|τοὺς]]  [[G1377\|διώκοντας]]  [[G4771\|ὑμᾶς·]]  [[G2127\|εὐλογεῖτε]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2672\|καταρᾶσθε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ENEMY|ENEMY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic MEEKNESS|MEEKNESS]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.13|<< Romans 12:13]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.15|Romans 12:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

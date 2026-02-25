@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 29:36
+type: Verse
+kjv: "And Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was done suddenly."
+bsb: "Then Hezekiah and all the people rejoiced at what God had prepared for the people, because everything had been accomplished so quickly."
+hebrew: "וַיִּשְׂמַ֤ח יְחִזְקִיָּ֙הוּ֙ וְכָל־ הָעָ֔ם עַ֛ל הַהֵכִ֥ין הָאֱלֹהִ֖ים לָעָ֑ם כִּ֥י בְּפִתְאֹ֖ם הָיָ֥ה הַדָּבָֽר׃ פ"
+pericope: "[[2Chr.29.20 Hezekiah Restores Temple Worship|Hezekiah Restores Temple Worship]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 29
+book/chapter: "[[2Chr.29|2 Chronicles 29]]"
+chronological_order: 659
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H8055]]"
+- "[[H2396G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5921A]]"
+- "[[H3559A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H6597]]"
+- "[[H1961]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 29:36**<big><big>[[2Chr.29.20 Hezekiah Restores Temple Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was [done] suddenly.
 <small><sub>**BSB:**</sub></small>
 Then Hezekiah and all the people rejoiced at what God had prepared for the people, because everything had been accomplished so quickly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8055\|יִּשְׂמַ֤ח]] [[H2396G\|יְחִזְקִיָּ֙הוּ֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H5921A\|עַ֛ל]] [[H9009\|הַ]][[H3559A\|הֵכִ֥ין]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לָ]][[H5971A\|עָ֑ם]] [[H3588A\|כִּ֥י]] [[H9003\|בְּ]][[H6597\|פִתְאֹ֖ם]] [[H1961\|הָיָ֥ה]] [[H9009\|הַ]][[H1697I\|דָּבָֽר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.29.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.35|<< 2 Chronicles 29:35]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.1|2 Chronicles 30:1 >>]]</td></tr></table>
 
@@ -19,7 +71,7 @@ Then Hezekiah and all the people rejoiced at what God had prepared for the peopl
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in suddenness  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6597\|פִתְאֹ֖ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> fit.'Om<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it had happened  |**<big>&#8207;[[H1961\|הָיָ֥ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the thing  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the thing  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1697I\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.29.35|<< 2 Chronicles 29:35]]</td><td align="center" style="border:none;">[[2Chr.29|2 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.1|2 Chronicles 30:1 >>]]</td></tr></table>
 
 

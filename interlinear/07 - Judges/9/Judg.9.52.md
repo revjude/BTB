@@ -1,8 +1,58 @@
+---
+title: Judges 9:52
+type: Verse
+kjv: "And Abimelech came unto the tower, and fought against it, and went hard unto the door of the tower to burn it with fire."
+bsb: "When Abimelech came to attack the tower, he approached its entrance to set it on fire."
+hebrew: "וַיָּבֹ֤א אֲבִימֶ֙לֶךְ֙ עַד־ הַמִּגְדָּ֔ל וַיִּלָּ֖חֶם בּ֑וֹ וַיִּגַּ֛שׁ עַד־ פֶּ֥תַח הַמִּגְדָּ֖ל לְשָׂרְפ֥וֹ בָאֵֽשׁ׃"
+pericope: "[[Judg.9.50 Abimelech’s Punishment|Abimelech’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic THEBEZ|THEBEZ]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0040H]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4026M]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5066G]]"
+- "[[H6607]]"
+- "[[H9005]]"
+- "[[H8313]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:52**<big><big>[[Judg.9.50 Abimelech’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abimelech came unto the tower, and fought against it, and went hard unto the door of the tower to burn it with fire.
 <small><sub>**BSB:**</sub></small>
 When Abimelech came to attack the tower, he approached its entrance to set it on fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H0040H\|אֲבִימֶ֙לֶךְ֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H4026M\|מִּגְדָּ֔ל]] [[H9001\|וַ]][[H3898A\|יִּלָּ֖חֶם]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H5066G\|יִּגַּ֛שׁ]] [[H5704\|עַד]][[H9014\|־]] [[H6607\|פֶּ֥תַח]] [[H9009\|הַ]][[H4026M\|מִּגְדָּ֖ל]] [[H9005\|לְ]][[H8313\|שָׂרְפ֥]][[H9033\|וֹ]] [[H9003\|בָ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGE|JUDGE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic THEBEZ|THEBEZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.52|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.51|<< Judges 9:51]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.53|Judges 9:53 >>]]</td></tr></table>
 

@@ -1,10 +1,50 @@
+---
+title: Mark 6:46
+type: Verse
+kjv: "And when he had sent them away, he departed into a mountain to pray."
+bsb: "After bidding them farewell, He went up on the mountain to pray."
+greek: "καὶ ἀποταξάμενος αὐτοῖς ἀπῆλθεν εἰς τὸ ὄρος προσεύξασθαι.¶"
+pericope: "[[Mark.6.45 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G0657]]"
+- "[[G0846]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3735]]"
+- "[[G4336]]"
+texts:
+- NKO
+---
+
 **Mark 6:46**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had sent them away, he departed into a mountain to pray.
 <small><sub>**BSB:**</sub></small>
 After bidding them farewell, He went up on the mountain to pray.
-<small><sub>**Literal:**</sub></small>
-And having taken leave of them He departed into the mountain to pray.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.45|<< Mark 6:45]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.47|Mark 6:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0657\|ἀποταξάμενος]]  [[G0846\|αὐτοῖς]]  [[G0565\|ἀπῆλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3735\|ὄρος]]  [[G4336\|προσεύξασθαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.45|<< Mark 6:45]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.47|Mark 6:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

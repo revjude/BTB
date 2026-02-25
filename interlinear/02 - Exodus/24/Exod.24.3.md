@@ -1,8 +1,73 @@
+---
+title: Exodus 24:3
+type: Verse
+kjv: "And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD hath said will we do."
+bsb: "When Moses came and told the people all the words and ordinances of the LORD, they all responded with one voice: “All the words that the LORD has spoken, we will do.”"
+hebrew: "וַיָּבֹ֣א מֹשֶׁ֗ה וַיְסַפֵּ֤ר לָעָם֙ אֵ֚ת כָּל־ דִּבְרֵ֣י יְהוָ֔ה וְאֵ֖ת כָּל־ הַמִּשְׁפָּטִ֑ים וַיַּ֨עַן כָּל־ הָעָ֜ם ק֤וֹל אֶחָד֙ וַיֹּ֣אמְר֔וּ כָּל־ הַדְּבָרִ֛ים אֲשֶׁר־ דִּבֶּ֥ר יְהוָ֖ה נַעֲשֶֽׂה׃"
+pericope: "[[Exod.24.1 The Covenant Sealed|The Covenant Sealed]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 24
+book/chapter: "[[Exod.24|Exodus 24]]"
+chronological_order: 116
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H4872]]"
+- "[[H5608A]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4941G]]"
+- "[[H6030B]]"
+- "[[H6963A]]"
+- "[[H0259]]"
+- "[[H0559]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 24:3**<big><big>[[Exod.24.1 The Covenant Sealed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses came and told the people all the words of the LORD, and all the judgments: and all the people answered with one voice, and said, All the words which the LORD hath said will we do.
 <small><sub>**BSB:**</sub></small>
 When Moses came and told the people all the words and ordinances of the LORD, they all responded with one voice: “All the words that the LORD has spoken, we will do.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H4872\|מֹשֶׁ֗ה]] [[H9001\|וַ]][[H5608A\|יְסַפֵּ֤ר]] [[H9005\|לָ]][[H5971A\|עָם֙]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֑ים]] [[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H6963A\|ק֤וֹל]] [[H0259\|אֶחָד֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֛ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H6213A\|נַעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTABILITY|INSTABILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic THEOCRACY|THEOCRACY]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.24.2|<< Exodus 24:2]]</td><td align="center" style="border:none;">[[Exod.24|Exodus 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.24.4|Exodus 24:4 >>]]</td></tr></table>
 

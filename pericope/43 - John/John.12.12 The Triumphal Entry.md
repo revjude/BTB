@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Triumphal Entry
+type: Pericope
 pericope: "[[John.12.12 The Triumphal Entry|The Triumphal Entry]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: John
 chapter: 12
 book/chapter: "[[John.12|John 12]]"
-genre:
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 8
 verses:
 - "[[John.12.12]]"
 - "[[John.12.13]]"
@@ -26,7 +33,7 @@ verses:
 - "[[John.12.19]]"
 ---
 
-[[John.12|John 12:12 - John 12:19]]
+<small>[[John.12|John 12:12-19]]</small>
 *The Triumphal Entry*
 
 [[John.12.12|12]] On the next day much people that were come to the feast, when they heard that Jesus was coming to Jerusalem,

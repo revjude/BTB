@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 23:4
+type: Verse
+kjv: "This is the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, shall be porters of the doors;"
+bsb: "This is what you are to do: A third of you priests and Levites who come on duty on the Sabbath shall keep watch at the doors,"
+hebrew: "זֶ֥ה הַדָּבָ֖ר אֲשֶׁ֣ר תַּעֲשׂ֑וּ הַשְּׁלִשִׁ֨ית מִכֶּ֜ם בָּאֵ֣י הַשַּׁבָּ֗ת לַכֹּֽהֲנִים֙ וְלַלְוִיִּ֔ם לְשֹֽׁעֲרֵ֖י הַסִּפִּֽים׃"
+pericope: "[[2Chr.23.1 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 23
+book/chapter: "[[2Chr.23|2 Chronicles 23]]"
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PORTERS|PORTERS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H7992]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H0935G]]"
+- "[[H7676]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3881]]"
+- "[[H7778]]"
+- "[[H5592B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 23:4**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, [shall be] porters of the doors;
 <small><sub>**BSB:**</sub></small>
 This is what you are to do: A third of you priests and Levites who come on duty on the Sabbath shall keep watch at the doors,
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֥ה]] [[H9009\|הַ]][[H1697I\|דָּבָ֖ר]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|תַּעֲשׂ֑וּ]] [[H9009\|הַ]][[H7992\|שְּׁלִשִׁ֨ית]] [[H9006\|מִ]][[H9036\|כֶּ֜ם]] [[H0935G\|בָּאֵ֣י]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֗ת]] [[H9005\|לַ]][[H3548\|כֹּֽהֲנִים֙]] [[H9002\|וְ]][[H9005\|לַ]][[H3881\|לְוִיִּ֔ם]] [[H9005\|לְ]][[H7778\|שֹֽׁעֲרֵ֖י]] [[H9009\|הַ]][[H5592B\|סִּפִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PORTERS|PORTERS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.23.3|<< 2 Chronicles 23:3]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.5|2 Chronicles 23:5 >>]]</td></tr></table>
 

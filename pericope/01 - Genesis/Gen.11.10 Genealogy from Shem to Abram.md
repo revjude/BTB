@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Genealogy from Shem to Abram
+type: Pericope
 pericope: "[[Gen.11.10 Genealogy from Shem to Abram|Genealogy from Shem to Abram]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 11
 book/chapter: "[[Gen.11|Genesis 11]]"
-genre:
+chronological_order: 11
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 17
 verses:
 - "[[Gen.11.10]]"
 - "[[Gen.11.11]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Gen.11.26]]"
 ---
 
-[[Gen.11|Genesis 11:10 - Genesis 11:26]]
+<small>[[Gen.11|Genesis 11:10-26]]</small>
 *Genealogy from Shem to Abram*
 
 [[Gen.11.10|10]] These \[are\] the generations of Shem: Shem \[was\] an hundred years old, and begat Arphaxad two years after the flood:

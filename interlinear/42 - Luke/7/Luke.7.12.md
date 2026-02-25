@@ -1,10 +1,64 @@
+---
+title: Luke 7:12
+type: Verse
+kjv: "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her."
+bsb: "As He approached the town gate, He saw a dead man being carried out, the only son of his mother, and she was a widow. And a large crowd from the town was with her."
+greek: "ὡς δὲ ἤγγισεν τῇ πύλῃ τῆς πόλεως, καὶ ἰδοὺ ἐξεκομίζετο τεθνηκὼς μονογενὴς υἱὸς τῇ μητρὶ αὐτοῦ, καὶ αὐτὴ ἦν χήρα· καὶ ὄχλος τῆς πόλεως ἱκανὸς ἦν σὺν αὐτῇ."
+pericope: "[[Luke.7.11 Jesus Raises a Widow’s Son|Jesus Raises a Widow’s Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1448]]"
+- "[[G3588]]"
+- "[[G4439]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1580]]"
+- "[[G2348]]"
+- "[[G3439]]"
+- "[[G5207]]"
+- "[[G3384]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G5503]]"
+- "[[G3793]]"
+- "[[G2425]]"
+- "[[G4862]]"
+texts:
+- NKO
+---
+
 **Luke 7:12**<big><big>[[Luke.7.11 Jesus Raises a Widow’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her.
 <small><sub>**BSB:**</sub></small>
 As He approached the town gate, He saw a dead man being carried out, the only son of his mother, and she was a widow. And a large crowd from the town was with her.
-<small><sub>**Literal:**</sub></small>
-As then He drew near to the gate of the town, also behold was being carried out [one] having died only begotten son from the mother of him, and she was a widow; And a crowd of the town considerable was with her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.11|<< Luke 7:11]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.13|Luke 7:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G1448\|ἤγγισεν]]  [[G3588\|τῇ]]  [[G4439\|πύλῃ]]  [[G3588\|τῆς]]  [[G4172\|πόλεως,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G1580\|ἐξεκομίζετο]]  [[G2348\|τεθνηκὼς]]  [[G3439\|μονογενὴς]]  [[G5207\|υἱὸς]]  [[G3588\|τῇ]]  [[G3384\|μητρὶ]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὴ]]  [[G1510\|ἦν]]  [[G5503\|χήρα·]]  [[G2532\|καὶ]]  [[G3793\|ὄχλος]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G2425\|ἱκανὸς]]  [[G1510\|ἦν]]  [[G4862\|σὺν]]  [[G0846\|αὐτῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic WIDOW|WIDOW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.11|<< Luke 7:11]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.13|Luke 7:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

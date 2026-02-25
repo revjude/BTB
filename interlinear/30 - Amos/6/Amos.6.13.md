@@ -1,8 +1,58 @@
+---
+title: Amos 6:13
+type: Verse
+kjv: "Ye which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?"
+bsb: "you who rejoice in Lo-debar and say, ‘Did we not take Karnaim by our own strength?’"
+hebrew: "הַשְּׂמֵחִ֖ים לְלֹ֣א דָבָ֑ר הָאֹ֣מְרִ֔ים הֲל֣וֹא בְחָזְקֵ֔נוּ לָקַ֥חְנוּ לָ֖נוּ קַרְנָֽיִם׃"
+pericope: "[[Amos.6.8 The Pride of Israel|The Pride of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic HORN|HORN]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9009]]"
+- "[[H8056]]"
+- "[[H9005]]"
+- "[[H3810]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H2392]]"
+- "[[H9025]]"
+- "[[H3947G]]"
+- "[[H9035]]"
+- "[[H7161B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 6:13**<big><big>[[Amos.6.8 The Pride of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?
 <small><sub>**BSB:**</sub></small>
 you who rejoice in Lo-debar and say, ‘Did we not take Karnaim by our own strength?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H8056\|שְּׂמֵחִ֖ים]] [[H9005\|לְ]][[H3810\|לֹ֣א]] [[H3810\|דָבָ֑ר]] [[H9009\|הָ]][[H0559\|אֹ֣מְרִ֔ים]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H9003\|בְ]][[H2392\|חָזְקֵ֔]][[H9025\|נוּ]] [[H3947G\|לָקַ֥חְנוּ]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H7161B\|קַרְנָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic HORN|HORN]] • [[topic RULERS|RULERS]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.12|<< Amos 6:12]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.14|Amos 6:14 >>]]</td></tr></table>
 

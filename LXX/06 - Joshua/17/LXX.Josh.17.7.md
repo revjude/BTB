@@ -1,6 +1,65 @@
+---
+title: LXX Joshua 17:7
+type: Verse
+lxx: "And the borders of Manasseh were from Asher to Michmethah, which is by the face of Shechem; and it goes to the borders unto Jamin and to Jassib, and to the spring Naphthoth,"
+greek: "και εγενήθη όρια Μανασσή από Ασήρ Μαχθώθ η εστι κατά πρόσωπον Σιχέμ και πορεύεται επί τα όρια επί Ιαμίν και εις Ιασήβ και επί πηγήν Ναφθώθ"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ASHER|ASHER]]"
+- "[[topic EN-TAPPUAH|EN-TAPPUAH]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic MICHMETHAH|MICHMETHAH]]"
+- "[[topic NOAH|NOAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3725]]"
+- "[[G3128]]"
+- "[[G0575]]"
+- "[[G0768]]"
+- "[[H4366]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G2596]]"
+- "[[G4383]]"
+- "[[G4966]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3725]]"
+- "[[G1909]]"
+- "[[H3232]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[H3427]]"
+- "[[G2532]]"
+- "[[G1909]]"
+- "[[G4077]]"
+- "[[H5887]]"
+---
+
 **LXX Joshua 17:7** 
 <small><sub>**LXX:**</sub></small>
 And \[the\] borders of Manasseh were from Asher to Michmethah, which is by \[the\] face of Shechem; and it goes to the borders unto Jamin and to Jassib, and to \[the\] spring Naphthoth, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγενήθη]] [[G3725\|όρια]] [[G3128\|Μανασσή]] [[G0575\|από]] [[G0768\|Ασήρ]] [[H4366\|Μαχθώθ]] [[G3739\|η]] [[G1510\|εστι]] [[G2596\|κατά]] [[G4383\|πρόσωπον]] [[G4966\|Σιχέμ]] [[G2532\|και]] [[G4198\|πορεύεται]] [[G1909\|επί]] [[G3588\|τα]] [[G3725\|όρια]] [[G1909\|επί]] [[H3232\|Ιαμίν]] [[G2532\|και]] [[G1519\|εις]] [[H3427\|Ιασήβ]] [[G2532\|και]] [[G1909\|επί]] [[G4077\|πηγήν]] [[H5887\|Ναφθώθ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHER|ASHER]] • [[topic EN-TAPPUAH|EN-TAPPUAH]] • [[topic MANASSEH|MANASSEH]] • [[topic MICHMETHAH|MICHMETHAH]] • [[topic NOAH|NOAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.6|<< Joshua 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.8|Joshua 17:8 >>]]</td></tr></table>
 
@@ -32,6 +91,6 @@ And \[the\] borders of Manasseh were from Asher to Michmethah, which is by \[the
 | to | **<big>[[G1909\|επί]]</big>** |
 | \[the\] spring | **<big>[[G4077\|πηγήν]]</big>** |
 | Naphthoth, | **<big>[[H5887\|Ναφθώθ]]</big>** |
-[[Josh.17.7|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.6|<< Joshua 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.8|Joshua 17:8 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.17.6|<< Joshua 17:6]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.17.8|Joshua 17:8 >>]]</td></tr></table>
 
 

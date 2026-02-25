@@ -1,10 +1,57 @@
+---
+title: 2 Peter 3:13
+type: Verse
+kjv: "Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness."
+bsb: "But in keeping with God’s promise, we are looking forward to a new heaven and a new earth, where righteousness dwells."
+greek: "καινοὺς δὲ οὐρανοὺς καὶ γῆν καινὴν κατὰ τὸ ἐπάγγελμα αὐτοῦ προσδοκῶμεν, ἐν οἷς δικαιοσύνη κατοικεῖ.¶"
+pericope: "[[2Pet.3.8 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2537]]"
+- "[[G1161]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1093G]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1862]]"
+- "[[G0846]]"
+- "[[G4328]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1343]]"
+- "[[G2730]]"
+texts:
+- NKO
+---
+
 **2 Peter 3:13**<big><big>[[2Pet.3.8 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.
 <small><sub>**BSB:**</sub></small>
 But in keeping with God’s promise, we are looking forward to a new heaven and a new earth, where righteousness dwells.
-<small><sub>**Literal:**</sub></small>
-New however heavens and earth a new according to the promise of Him we are awaiting, in which righteousness dwells.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.12|<< 2 Peter 3:12]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.14|2 Peter 3:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2537\|καινοὺς]]  [[G1161\|δὲ]]  [[G3772\|οὐρανοὺς]]  [[G2532\|καὶ]]  [[G1093G\|γῆν]]  [[G2537\|καινὴν]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G1862\|ἐπάγγελμα]]  [[G0846\|αὐτοῦ]]  [[G4328\|προσδοκῶμεν,]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G1343\|δικαιοσύνη]]  [[G2730\|κατοικεῖ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic FAITH|FAITH]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.12|<< 2 Peter 3:12]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.14|2 Peter 3:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Peter 3:13** is...
 > $\quad$ referencing: [[LXX.Isa.65.17|Isa 65:17]] ☩ [[LXX.Isa.66.22|Isa 66:22]]

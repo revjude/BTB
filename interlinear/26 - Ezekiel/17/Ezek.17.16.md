@@ -1,8 +1,75 @@
+---
+title: Ezekiel 17:16
+type: Verse
+kjv: "As I live, saith the Lord GOD, surely in the place where the king dwelleth that made him king, whose oath he despised, and whose covenant he brake, even with him in the midst of Babylon he shall die."
+bsb: "‘As surely as I live,’ declares the Lord GOD, ‘he will die in Babylon, in the land of the king who enthroned him, whose oath he despised and whose covenant he broke."
+hebrew: "חַי־ אָ֗נִי נְאֻם֮ אֲדֹנָ֣י יְהוִה֒ אִם־ לֹ֗א בִּמְקוֹם֙ הַמֶּ֙לֶךְ֙ הַמַּמְלִ֣יךְ אֹת֔וֹ אֲשֶׁ֤ר בָּזָה֙ אֶת־ אָ֣לָת֔וֹ וַאֲשֶׁ֥ר הֵפֵ֖ר אֶת־ בְּרִית֑וֹ אִתּ֥וֹ בְתוֹךְ־ בָּבֶ֖ל יָמֽוּת׃"
+pericope: "[[Ezek.17.11 The Parable Explained|The Parable Explained]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALLIANCES|ALLIANCES]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4427A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0834A]]"
+- "[[H0959]]"
+- "[[H0423]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6565A]]"
+- "[[H1285]]"
+- "[[H0854]]"
+- "[[H8432]]"
+- "[[H0894]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:16**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] I live, saith the Lord GOD, surely in the place [where] the king [dwelleth] that made him king, whose oath he despised, and whose covenant he brake, [even] with him in the midst of Babylon he shall die.
 <small><sub>**BSB:**</sub></small>
 ‘As surely as I live,’ declares the Lord GOD, ‘he will die in Babylon, in the land of the king who enthroned him, whose oath he despised and whose covenant he broke.
+<small><sub>**Hebrew:**</sub></small>
+[[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָ֗נִי]] [[H5002\|נְאֻם֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֗א]] [[H9003\|בִּ]][[H4725\|מְקוֹם֙]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9009\|הַ]][[H4427A\|מַּמְלִ֣יךְ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H0834A\|אֲשֶׁ֤ר]] [[H0959\|בָּזָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0423\|אָ֣לָת֔]][[H9023\|וֹ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H6565A\|הֵפֵ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִית֑]][[H9023\|וֹ]] [[H0854\|אִתּ֥]][[H9033\|וֹ]] [[H9003\|בְ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H4191\|יָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLIANCES|ALLIANCES]] • [[topic CITIZENS|CITIZENS]] • [[topic COVENANT|COVENANT]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic PHARAOH|PHARAOH]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.15|<< Ezekiel 17:15]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.17|Ezekiel 17:17 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Jeremiah 19:8
+type: Verse
+kjv: "And I will make this city desolate, and an hissing; every one that passeth thereby shall be astonished and hiss because of all the plagues thereof."
+bsb: "I will make this city a desolation and an object of scorn. All who pass by will be appalled and will scoff at all her wounds."
+hebrew: "וְשַׂמְתִּי֙ אֶת־ הָעִ֣יר הַזֹּ֔את לְשַׁמָּ֖ה וְלִשְׁרֵקָ֑ה כֹּ֚ל עֹבֵ֣ר עָלֶ֔יהָ יִשֹּׁ֥ם וְיִשְׁרֹ֖ק עַל־ כָּל־ מַכֹּתֶֽהָ׃"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H8047H]]"
+- "[[H9002]]"
+- "[[H8322]]"
+- "[[H3605]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H8074H]]"
+- "[[H8319]]"
+- "[[H4347]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 19:8**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make this city desolate, and an hissing; every one that passeth thereby shall be astonished and hiss because of all the plagues thereof.
 <small><sub>**BSB:**</sub></small>
 I will make this city a desolation and an object of scorn. All who pass by will be appalled and will scoff at all her wounds.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9005\|לְ]][[H8047H\|שַׁמָּ֖ה]] [[H9002\|וְ]][[H9005\|לִ]][[H8322\|שְׁרֵקָ֑ה]] [[H3605\|כֹּ֚ל]] [[H5674A\|עֹבֵ֣ר]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H8074H\|יִשֹּׁ֥ם]] [[H9002\|וְ]][[H8319\|יִשְׁרֹ֖ק]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4347\|מַכֹּתֶֽ]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.7|<< Jeremiah 19:7]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.9|Jeremiah 19:9 >>]]</td></tr></table>
 

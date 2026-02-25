@@ -1,8 +1,64 @@
+---
+title: Leviticus 20:20
+type: Verse
+kjv: "And if a man shall lie with his uncle’s wife, he hath uncovered his uncle’s nakedness: they shall bear their sin; they shall die childless."
+bsb: "If a man lies with his uncle’s wife, he has uncovered the nakedness of his uncle. They will bear their sin; they shall die childless."
+hebrew: "וְאִ֗ישׁ אֲשֶׁ֤ר יִשְׁכַּב֙ אֶת־ דֹּ֣דָת֔וֹ עֶרְוַ֥ת דֹּד֖וֹ גִּלָּ֑ה חֶטְאָ֥ם יִשָּׂ֖אוּ עֲרִירִ֥ים יָמֻֽתוּ׃"
+pericope: "[[Lev.20.10 Punishments for Sexual Immorality|Punishments for Sexual Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic INCEST|INCEST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H7901I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1733]]"
+- "[[H9023]]"
+- "[[H6172]]"
+- "[[H1730I]]"
+- "[[H1540I]]"
+- "[[H2399]]"
+- "[[H9028]]"
+- "[[H5375J]]"
+- "[[H6185]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:20**<big><big>[[Lev.20.10 Punishments for Sexual Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man shall lie with his uncle’s wife, he hath uncovered his uncle’s nakedness: they shall bear their sin; they shall die childless.
 <small><sub>**BSB:**</sub></small>
 If a man lies with his uncle’s wife, he has uncovered the nakedness of his uncle. They will bear their sin; they shall die childless.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֗ישׁ]] [[H0834A\|אֲשֶׁ֤ר]] [[H7901I\|יִשְׁכַּב֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1733\|דֹּ֣דָת֔]][[H9023\|וֹ]] [[H6172\|עֶרְוַ֥ת]] [[H1730I\|דֹּד֖]][[H9023\|וֹ]] [[H1540I\|גִּלָּ֑ה]] [[H2399\|חֶטְאָ֥]][[H9028\|ם]] [[H5375J\|יִשָּׂ֖אוּ]] [[H6185\|עֲרִירִ֥ים]] [[H4191\|יָמֻֽתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INCEST|INCEST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.19|<< Leviticus 20:19]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.21|Leviticus 20:21 >>]]</td></tr></table>
 

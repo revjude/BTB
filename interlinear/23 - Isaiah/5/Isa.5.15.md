@@ -1,8 +1,54 @@
+---
+title: Isaiah 5:15
+type: Verse
+kjv: "And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled:"
+bsb: "So mankind will be brought low, and each man humbled; the arrogant will lower their eyes."
+hebrew: "וַיִּשַּׁ֥ח אָדָ֖ם וַיִּשְׁפַּל־ אִ֑ישׁ וְעֵינֵ֥י גְבֹהִ֖ים תִּשְׁפַּֽלְנָה׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7817]]"
+- "[[H0120G]]"
+- "[[H8213]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H9002]]"
+- "[[H5869A]]"
+- "[[H1364]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:15**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled:
 <small><sub>**BSB:**</sub></small>
 So mankind will be brought low, and each man humbled; the arrogant will lower their eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7817\|יִּשַּׁ֥ח]] [[H0120G\|אָדָ֖ם]] [[H9001\|וַ]][[H8213\|יִּשְׁפַּל]][[H9014\|־]] [[H0376I\|אִ֑ישׁ]] [[H9002\|וְ]][[H5869A\|עֵינֵ֥י]] [[H1364\|גְבֹהִ֖ים]] [[H8213\|תִּשְׁפַּֽלְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.14|<< Isaiah 5:14]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.16|Isaiah 5:16 >>]]</td></tr></table>
 

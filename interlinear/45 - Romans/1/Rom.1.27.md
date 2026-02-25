@@ -1,10 +1,67 @@
+---
+title: Romans 1:27
+type: Verse
+kjv: "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet."
+bsb: "Likewise, the men abandoned natural relations with women and burned with lust for one another. Men committed indecent acts with other men and received in themselves the due penalty for their error."
+greek: "ὁμοίως τε καὶ οἱ ἄρσενες ἀφέντες τὴν φυσικὴν χρῆσιν τῆς θηλείας ἐξεκαύθησαν ἐν τῇ ὀρέξει αὐτῶν εἰς ἀλλήλους, ἄρσενες ἐν ἄρσεσιν τὴν ἀσχημοσύνην κατεργαζόμενοι, καὶ τὴν ἀντιμισθίαν ἣν ἔδει τῆς πλάνης αὐτῶν ἐν ἑαυτοῖς ἀπολαμβάνοντες.¶"
+pericope: "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic ROME|ROME]]"
+- "[[topic SODOMY|SODOMY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3668]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0730]]"
+- "[[G0863I]]"
+- "[[G5446]]"
+- "[[G5540]]"
+- "[[G2338]]"
+- "[[G1572]]"
+- "[[G1722]]"
+- "[[G3715]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G0240]]"
+- "[[G0808]]"
+- "[[G2716]]"
+- "[[G0489]]"
+- "[[G3739]]"
+- "[[G1163]]"
+- "[[G4106]]"
+- "[[G1438]]"
+- "[[G0618]]"
+texts:
+- NKO
+---
+
 **Romans 1:27**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.
 <small><sub>**BSB:**</sub></small>
 Likewise, the men abandoned natural relations with women and burned with lust for one another. Men committed indecent acts with other men and received in themselves the due penalty for their error.
-<small><sub>**Literal:**</sub></small>
-Likewise then also the males having left the natural use of the female were inflamed in the desire of them toward one another, males with males the shame working out, and the recompense which was fitting of the error of them in themselves receiving.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.26|<< Romans 1:26]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.28|Romans 1:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3668\|ὁμοίως]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0730\|ἄρσενες]]  [[G0863I\|ἀφέντες]]  [[G3588\|τὴν]]  [[G5446\|φυσικὴν]]  [[G5540\|χρῆσιν]]  [[G3588\|τῆς]]  [[G2338\|θηλείας]]  [[G1572\|ἐξεκαύθησαν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3715\|ὀρέξει]]  [[G0846\|αὐτῶν]]  [[G1519\|εἰς]]  [[G0240\|ἀλλήλους,]]  [[G0730\|ἄρσενες]]  [[G1722\|ἐν]]  [[G0730\|ἄρσεσιν]]  [[G3588\|τὴν]]  [[G0808\|ἀσχημοσύνην]]  [[G2716\|κατεργαζόμενοι,]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0489\|ἀντιμισθίαν]]  [[G3739\|ἣν]]  [[G1163\|ἔδει]]  [[G3588\|τῆς]]  [[G4106\|πλάνης]]  [[G0846\|αὐτῶν]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς]]  [[G0618\|ἀπολαμβάνοντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic ROME|ROME]] • [[topic SODOMY|SODOMY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.26|<< Romans 1:26]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.28|Romans 1:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

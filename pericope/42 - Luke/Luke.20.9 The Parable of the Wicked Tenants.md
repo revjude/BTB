@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Wicked Tenants
+type: Pericope
 pericope: "[[Luke.20.9 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 20
 book/chapter: "[[Luke.20|Luke 20]]"
-genre:
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.20.9]]"
 - "[[Luke.20.10]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.20.18]]"
 ---
 
-[[Luke.20|Luke 20:9 - Luke 20:18]]
+<small>[[Luke.20|Luke 20:9-18]]</small>
 *The Parable of the Wicked Tenants*
 
 [[Luke.20.9|9]] Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.

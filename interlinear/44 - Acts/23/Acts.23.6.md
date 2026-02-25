@@ -1,10 +1,72 @@
+---
+title: Acts 23:6
+type: Verse
+kjv: "But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question."
+bsb: "Then Paul, knowing that some of them were Sadducees and the others Pharisees, called out in the Sanhedrin, “Brothers, I am a Pharisee, the son of a Pharisee. It is because of my hope in the resurrection of the dead that I am on trial.”"
+greek: "Γνοὺς δὲ ὁ Παῦλος ὅτι τὸ ἓν μέρος ἐστὶν Σαδδουκαίων τὸ δὲ ἕτερον Φαρισαίων ἔκραζεν ἐν τῷ συνεδρίῳ· ἄνδρες ἀδελφοί, ἐγὼ Φαρισαῖός εἰμι, υἱὸς Φαρισαίων· περὶ ἐλπίδος καὶ ἀναστάσεως νεκρῶν ἐγὼ κρίνομαι.¶"
+pericope: "[[Acts.23.1 Paul before the Sanhedrin|Paul before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G1097]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G3754G]]"
+- "[[G1520]]"
+- "[[G3313]]"
+- "[[G1510]]"
+- "[[G4523]]"
+- "[[G2087]]"
+- "[[G5330]]"
+- "[[G2896]]"
+- "[[G1722]]"
+- "[[G4892]]"
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G5207]]"
+- "[[G4012]]"
+- "[[G1680]]"
+- "[[G2532]]"
+- "[[G0386]]"
+- "[[G3498]]"
+- "[[G2919]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 23:6**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men [and] brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
 <small><sub>**BSB:**</sub></small>
 Then Paul, knowing that some of them were Sadducees and the others Pharisees, called out in the Sanhedrin, “Brothers, I am a Pharisee, the son of a Pharisee. It is because of my hope in the resurrection of the dead that I am on trial.”
-<small><sub>**Literal:**</sub></small>
-Having known then <the> Paul that the one part consists of Sadducees <the> but the other of Pharisees he was crying out in the Council; Men brothers, I myself a Pharisee am, [the] son of Pharisees; concerning [the] hope and resurrection of [the] dead I myself am judged.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.5|<< Acts 23:5]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.7|Acts 23:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|Γνοὺς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G3754G\|ὅτι]]  [[G3588\|τὸ]]  [[G1520\|ἓν]]  [[G3313\|μέρος]]  [[G1510\|ἐστὶν]]  [[G4523\|Σαδδουκαίων]]  [[G3588\|τὸ]]  [[G1161\|δὲ]]  [[G2087\|ἕτερον]]  [[G5330\|Φαρισαίων]]  [[G2896\|ἔκραζεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4892\|συνεδρίῳ·]]  [[G0435G\|ἄνδρες]]  [[G0080\|ἀδελφοί,]]  [[G1473\|ἐγὼ]]  [[G5330\|Φαρισαῖός]]  [[G1510\|εἰμι,]]  [[G5207\|υἱὸς]]  [[G5330\|Φαρισαίων·]]  [[G4012\|περὶ]]  [[G1680\|ἐλπίδος]]  [[G2532\|καὶ]]  [[G0386\|ἀναστάσεως]]  [[G3498\|νεκρῶν]]  [[G1473\|ἐγὼ]]  [[G2919\|κρίνομαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HOPE|HOPE]] • [[topic PAUL|PAUL]] • [[topic PHARISEES|PHARISEES]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.5|<< Acts 23:5]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.7|Acts 23:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

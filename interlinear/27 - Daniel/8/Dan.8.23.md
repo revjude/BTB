@@ -1,8 +1,59 @@
+---
+title: Daniel 8:23
+type: Verse
+kjv: "And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up."
+bsb: "In the latter part of their reign, when the rebellion has reached its full measure, an insolent king, skilled in intrigue, will come to the throne."
+hebrew: "וּֽבְאַחֲרִית֙ מַלְכוּתָ֔ם כְּהָתֵ֖ם הַפֹּשְׁעִ֑ים יַעֲמֹ֛ד מֶ֥לֶךְ עַז־ פָּנִ֖ים וּמֵבִ֥ין חִידֽוֹת׃"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0319]]"
+- "[[H4438]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H8552]]"
+- "[[H9009]]"
+- "[[H6586]]"
+- "[[H5975I]]"
+- "[[H4428G]]"
+- "[[H5794]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H0995]]"
+- "[[H2420]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:23**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 <small><sub>**BSB:**</sub></small>
 In the latter part of their reign, when the rebellion has reached its full measure, an insolent king, skilled in intrigue, will come to the throne.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H9003\|בְ]][[H0319\|אַחֲרִית֙]] [[H4438\|מַלְכוּתָ֔]][[H9028\|ם]] [[H9004\|כְּ]][[H8552\|הָתֵ֖ם]] [[H9009\|הַ]][[H6586\|פֹּשְׁעִ֑ים]] [[H5975I\|יַעֲמֹ֛ד]] [[H4428G\|מֶ֥לֶךְ]] [[H5794\|עַז]][[H9014\|־]] [[H6440H\|פָּנִ֖ים]] [[H9002\|וּ]][[H0995\|מֵבִ֥ין]] [[H2420\|חִידֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.22|<< Daniel 8:22]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.24|Daniel 8:24 >>]]</td></tr></table>
 

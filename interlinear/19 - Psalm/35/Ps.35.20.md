@@ -1,8 +1,59 @@
+---
+title: Psalm 35:20
+type: Verse
+kjv: "For they speak not peace: but they devise deceitful matters against them that are quiet in the land."
+bsb: "For they do not speak peace, but they devise deceitful schemes against those who live quietly in the land."
+hebrew: "כִּ֤י לֹ֥א שָׁל֗וֹם יְדַ֫בֵּ֥רוּ וְעַ֥ל רִגְעֵי־ אֶ֑רֶץ דִּבְרֵ֥י מִ֝רְמוֹת יַחֲשֹׁבֽוּן׃"
+pericope: "[[Ps.35.1 Contend with My Opponents, O LORD|Contend with My Opponents, O LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 35
+book/chapter: "[[Ps.35|Psalm 35]]"
+chronological_order: 363
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic ENEMY|ENEMY]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7965G]]"
+- "[[H1696G]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H7282]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H1697G]]"
+- "[[H4820]]"
+- "[[H2803G]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 35:20**<big><big>[[Ps.35.1 Contend with My Opponents, O LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they speak not peace: but they devise deceitful matters against [them that are] quiet in the land.
 <small><sub>**BSB:**</sub></small>
 For they do not speak peace, but they devise deceitful schemes against those who live quietly in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3808\|לֹ֥א]] [[H7965G\|שָׁל֗וֹם]] [[H1696G\|יְדַ֫בֵּ֥רוּ]] [[H9002\|וְ]][[H5921A\|עַ֥ל]] [[H7282\|רִגְעֵי]][[H9014\|־]] [[H0776G\|אֶ֑רֶץ]] [[H1697G\|דִּבְרֵ֥י]] [[H4820\|מִ֝רְמוֹת]] [[H2803G\|יַחֲשֹׁבֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic ENEMY|ENEMY]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.35.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.35.19|<< Psalms 35:19]]</td><td align="center" style="border:none;">[[Ps.35|Psalms 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.35.21|Psalms 35:21 >>]]</td></tr></table>
 

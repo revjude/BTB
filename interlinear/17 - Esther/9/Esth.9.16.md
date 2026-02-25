@@ -1,8 +1,70 @@
+---
+title: Esther 9:16
+type: Verse
+kjv: "But the other Jews that were in the king’s provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey,"
+bsb: "The rest of the Jews in the royal provinces also assembled to defend themselves and rid themselves of their enemies. They killed 75,000 who hated them, but they did not lay a hand on the plunder."
+hebrew: "וּשְׁאָ֣ר הַיְּהוּדִ֡ים אֲשֶׁר֩ בִּמְדִינ֨וֹת הַמֶּ֜לֶךְ נִקְהֲל֣וּ׀ וְעָמֹ֣ד עַל־ נַפְשָׁ֗ם וְנ֙וֹחַ֙ מֵאֹ֣יְבֵיהֶ֔ם וְהָרֹג֙ בְּשֹׂ֣נְאֵיהֶ֔ם חֲמִשָּׁ֥ה וְשִׁבְעִ֖ים אָ֑לֶף וּבַ֨בִּזָּ֔ה לֹ֥א שָֽׁלְח֖וּ אֶת־ יָדָֽם׃"
+pericope: "[[Esth.9.11 Haman’s Sons Hanged|Haman’s Sons Hanged]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic MONTH|MONTH]]"
+strongs:
+- "[[H9002]]"
+- "[[H7605]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4082]]"
+- "[[H4428G]]"
+- "[[H6950]]"
+- "[[H9015]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5315H]]"
+- "[[H9028]]"
+- "[[H5118]]"
+- "[[H9006]]"
+- "[[H0341]]"
+- "[[H2026]]"
+- "[[H8130]]"
+- "[[H9038]]"
+- "[[H2568]]"
+- "[[H7657]]"
+- "[[H0505G]]"
+- "[[H0961]]"
+- "[[H3808]]"
+- "[[H7971K]]"
+- "[[H0853]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:16**<big><big>[[Esth.9.11 Haman’s Sons Hanged|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the other Jews that [were] in the king’s provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey,
 <small><sub>**BSB:**</sub></small>
 The rest of the Jews in the royal provinces also assembled to defend themselves and rid themselves of their enemies. They killed 75,000 who hated them, but they did not lay a hand on the plunder.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7605\|שְׁאָ֣ר]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֡ים]] [[H0834A\|אֲשֶׁר֩]] [[H9003\|בִּ]][[H4082\|מְדִינ֨וֹת]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H6950\|נִקְהֲל֣וּ]][[H9015\|׀]] [[H9002\|וְ]][[H5975G\|עָמֹ֣ד]] [[H5921A\|עַל]][[H9014\|־]] [[H5315H\|נַפְשָׁ֗]][[H9028\|ם]] [[H9002\|וְ]][[H5118\|נ֙וֹחַ֙]] [[H9006\|מֵ]][[H0341\|אֹ֣יְבֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H2026\|הָרֹג֙]] [[H9003\|בְּ]][[H8130\|שֹׂ֣נְאֵי]][[H9038\|הֶ֔ם]] [[H2568\|חֲמִשָּׁ֥ה]] [[H9002\|וְ]][[H7657\|שִׁבְעִ֖ים]] [[H0505G\|אָ֑לֶף]] [[H9002\|וּ]][[H9003\|בַ֨]][[H0961\|בִּזָּ֔ה]] [[H3808\|לֹ֥א]] [[H7971K\|שָֽׁלְח֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.15|<< Esther 9:15]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.17|Esther 9:17 >>]]</td></tr></table>
 

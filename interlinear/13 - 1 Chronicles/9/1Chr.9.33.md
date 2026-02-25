@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 9:33
+type: Verse
+kjv: "And these are the singers, chief of the fathers of the Levites, who remaining in the chambers were free: for they were employed in that work day and night."
+bsb: "Those who were musicians, the heads of Levite families, stayed in the temple chambers and were exempt from other duties because they were on duty day and night."
+hebrew: "וְאֵ֣לֶּה הַ֠מְשֹׁרְרִים רָאשֵׁ֨י אָב֧וֹת לַלְוִיִּ֛ם בַּלְּשָׁכֹ֖ת פְּטוּרִ֑ים כִּֽי־ יוֹמָ֥ם וָלַ֛יְלָה עֲלֵיהֶ֖ם בַּמְּלָאכָֽה׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H7891]]"
+- "[[H7218H]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H3881]]"
+- "[[H9003]]"
+- "[[H3957]]"
+- "[[H6359]]"
+- "[[H6362]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3119]]"
+- "[[H3915]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H4399]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Chronicles 9:33**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the singers, chief of the fathers of the Levites, [who remaining] in the chambers [were] free: for they were employed in [that] work day and night.
 <small><sub>**BSB:**</sub></small>
 Those who were musicians, the heads of Levite families, stayed in the temple chambers and were exempt from other duties because they were on duty day and night.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֣לֶּה]] [[H9009\|הַ֠]][[H7891\|מְשֹׁרְרִים]] [[H7218H\|רָאשֵׁ֨י]] [[H0001G\|אָב֧וֹת]] [[H9005\|לַ]][[H3881\|לְוִיִּ֛ם]] [[H9003\|בַּ]][[H3957\|לְּשָׁכֹ֖ת]] [[H6362\|פְּטוּרִ֑ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3119\|יוֹמָ֥ם]] [[H9002\|וָ]][[H3915\|לַ֛יְלָה]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H9003\|בַּ]][[H4399\|מְּלָאכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.32|<< 1 Chronicles 9:32]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.34|1 Chronicles 9:34 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Daniel 8:27
+type: Verse
+kjv: "And I Daniel fainted, and was sick certain days; afterward I rose up, and did the king’s business; and I was astonished at the vision, but none understood it."
+bsb: "I, Daniel, was exhausted and lay ill for days. Then I got up and went about the king’s business. I was confounded by the vision; it was beyond understanding."
+hebrew: "וַאֲנִ֣י דָנִיֵּ֗אל נִהְיֵ֤יתִי וְנֶֽחֱלֵ֙יתִי֙ יָמִ֔ים וָאָק֕וּם וָאֶֽעֱשֶׂ֖ה אֶת־ מְלֶ֣אכֶת הַמֶּ֑לֶךְ וָאֶשְׁתּוֹמֵ֥ם עַל־ הַמַּרְאֶ֖ה וְאֵ֥ין מֵבִֽין׃ פ"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic FAINTING|FAINTING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H1840G]]"
+- "[[H1961]]"
+- "[[H2470H]]"
+- "[[H3117G]]"
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8074H]]"
+- "[[H5921A]]"
+- "[[H4758]]"
+- "[[H0369]]"
+- "[[H0995]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Daniel 8:27**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I Daniel fainted, and was sick [certain] days; afterward I rose up, and did the king’s business; and I was astonished at the vision, but none understood [it].
 <small><sub>**BSB:**</sub></small>
 I, Daniel, was exhausted and lay ill for days. Then I got up and went about the king’s business. I was confounded by the vision; it was beyond understanding.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H1840G\|דָנִיֵּ֗אל]] [[H1961\|נִהְיֵ֤יתִי]] [[H9002\|וְ]][[H2470H\|נֶֽחֱלֵ֙יתִי֙]] [[H3117G\|יָמִ֔ים]] [[H9001\|וָ]][[H6965B\|אָק֕וּם]] [[H9001\|וָ]][[H6213A\|אֶֽעֱשֶׂ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4399\|מְלֶ֣אכֶת]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וָ]][[H8074H\|אֶשְׁתּוֹמֵ֥ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4758\|מַּרְאֶ֖ה]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H0995\|מֵבִֽין]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAINTING|FAINTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.26|<< Daniel 8:26]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.1|Daniel 9:1 >>]]</td></tr></table>
 
@@ -22,7 +76,7 @@ I, Daniel, was exhausted and lay ill for days. Then I got up and went about the 
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the vision  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4758\|מַּרְאֶ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mar.'Eh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [was one] giving understanding  |**<big>&#8207;[[H0995\|מֵבִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.Vin<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [was one] giving understanding  |**<big>&#8207;[[H0995\|מֵבִֽין]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| me.Vin<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.26|<< Daniel 8:26]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.9.1|Daniel 9:1 >>]]</td></tr></table>
 
 

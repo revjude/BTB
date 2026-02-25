@@ -1,8 +1,68 @@
+---
+title: Ezekiel 37:8
+type: Verse
+kjv: "And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but there was no breath in them."
+bsb: "As I looked on, tendons appeared on them, flesh grew, and skin covered them; but there was no breath in them."
+hebrew: "וְרָאִ֜יתִי וְהִנֵּֽה־ עֲלֵיהֶ֤ם גִּדִים֙ וּבָשָׂ֣ר עָלָ֔ה וַיִּקְרַ֧ם עֲלֵיהֶ֛ם ע֖וֹר מִלְמָ֑עְלָה וְר֖וּחַ אֵ֥ין בָּהֶֽם׃"
+pericope: "[[Ezek.37.1 The Valley of Dry Bones|The Valley of Dry Bones]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BONES|BONES]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SINEWS|SINEWS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H1517]]"
+- "[[H1320]]"
+- "[[H5927G]]"
+- "[[H7159]]"
+- "[[H5785]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H7307H]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:8**<big><big>[[Ezek.37.1 The Valley of Dry Bones|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when I beheld, lo, the sinews and the flesh came up upon them, and the skin covered them above: but [there was] no breath in them.
 <small><sub>**BSB:**</sub></small>
 As I looked on, tendons appeared on them, flesh grew, and skin covered them; but there was no breath in them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאִ֜יתִי]] [[H9002\|וְ]][[H2009\|הִנֵּֽה]][[H9014\|־]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֤ם]] [[H1517\|גִּדִים֙]] [[H9002\|וּ]][[H1320\|בָשָׂ֣ר]] [[H5927G\|עָלָ֔ה]] [[H9001\|וַ]][[H7159\|יִּקְרַ֧ם]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H5785\|ע֖וֹר]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9002\|וְ]][[H7307H\|ר֖וּחַ]] [[H0369\|אֵ֥ין]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONES|BONES]] • [[topic EZEKIEL|EZEKIEL]] • [[topic REGENERATION|REGENERATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SINEWS|SINEWS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.7|<< Ezekiel 37:7]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.9|Ezekiel 37:9 >>]]</td></tr></table>
 

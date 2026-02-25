@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 7:28
+type: Verse
+kjv: "And their possessions and habitations were, Bethel and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:"
+bsb: "Their holdings and settlements included Bethel and its villages, Naaran to the east, Gezer and its villages to the west, and Shechem and its villages as far as Ayyah and its villages."
+hebrew: "וַאֲחֻזָּתָם֙ וּמֹ֣שְׁבוֹתָ֔ם בֵּֽית־ אֵ֖ל וּבְנֹתֶ֑יהָ וְלַמִּזְרָ֣ח נַעֲרָ֔ן וְלַֽמַּעֲרָ֗ב גֶּ֤זֶר וּבְנֹתֶ֙יהָ֙ וּשְׁכֶ֣ם וּבְנֹתֶ֔יהָ עַד־ עַיָּ֖ה וּבְנֹתֶֽיהָ׃"
+pericope: "[[1Chr.7.20 The Descendants of Ephraim|The Descendants of Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic GEZER|GEZER]]"
+- "[[topic NAARAN|NAARAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0272]]"
+- "[[H9028]]"
+- "[[H4186]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H1323H]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H4217H]]"
+- "[[H5295]]"
+- "[[H4628]]"
+- "[[H1507]]"
+- "[[H7927G]]"
+- "[[H5704]]"
+- "[[H5804]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:28**<big><big>[[1Chr.7.20 The Descendants of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And their possessions and habitations [were], Bethel and the towns thereof, and eastward Naaran, and westward Gezer, with the towns thereof; Shechem also and the towns thereof, unto Gaza and the towns thereof:
 <small><sub>**BSB:**</sub></small>
 Their holdings and settlements included Bethel and its villages, Naaran to the east, Gezer and its villages to the west, and Shechem and its villages as far as Ayyah and its villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0272\|אֲחֻזָּתָ]][[H9028\|ם֙]] [[H9002\|וּ]][[H4186\|מֹ֣שְׁבוֹתָ֔]][[H9028\|ם]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֖ל]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H9005\|לַ]][[H4217H\|מִּזְרָ֣ח]] [[H5295\|נַעֲרָ֔ן]] [[H9002\|וְ]][[H9005\|לַֽ]][[H4628\|מַּעֲרָ֗ב]] [[H1507\|גֶּ֤זֶר]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֙י]][[H9024\|הָ֙]] [[H9002\|וּ]][[H7927G\|שְׁכֶ֣ם]] [[H9002\|וּ]][[H1323H\|בְנֹתֶ֔י]][[H9024\|הָ]] [[H5704\|עַד]][[H9014\|־]] [[H5804\|עַיָּ֖ה]] [[H9002\|וּ]][[H1323H\|בְנֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic GAZA|GAZA]] • [[topic GEZER|GEZER]] • [[topic NAARAN|NAARAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.27|<< 1 Chronicles 7:27]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.29|1 Chronicles 7:29 >>]]</td></tr></table>
 

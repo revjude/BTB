@@ -1,10 +1,61 @@
+---
+title: John 18:31
+type: Verse
+kjv: "Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:"
+bsb: "“You take Him and judge Him by your own law,” Pilate told them. “We are not permitted to execute anyone,” the Jews replied."
+greek: "εἶπεν οὖν αὐτοῖς ὁ Πιλᾶτος· λάβετε αὐτὸν ὑμεῖς καὶ κατὰ τὸν νόμον ὑμῶν κρίνατε αὐτόν. εἶπον οὖν αὐτῷ οἱ Ἰουδαῖοι· ἡμῖν οὐκ ἔξεστιν ἀποκτεῖναι οὐδένα·"
+pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G2983]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G3551]]"
+- "[[G2919]]"
+- "[[G2453]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G0615]]"
+- "[[G3762]]"
+texts:
+- NKO
+- KO
+---
+
 **John 18:31**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Pilate unto them, Take ye him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:
 <small><sub>**BSB:**</sub></small>
 “You take Him and judge Him by your own law,” Pilate told them. “We are not permitted to execute anyone,” the Jews replied.
-<small><sub>**Literal:**</sub></small>
-Said therefore to them <the> Pilate; do take Him yourselves and according to the law of you do judge Him. Said therefore to him the Jews; To us not it is permitted to put to death no [one];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.30|<< John 18:30]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.32|John 18:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος·]]  [[G2983\|λάβετε]]  [[G0846\|αὐτὸν]]  [[G4771\|ὑμεῖς]]  [[G2532\|καὶ]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G3551\|νόμον]]  [[G4771\|ὑμῶν]]  [[G2919\|κρίνατε]]  [[G0846\|αὐτόν.]]  [[G2036\|εἶπον]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι·]]  [[G3165\|ἡμῖν]]  [[G3756\|οὐκ]]  [[G1832\|ἔξεστιν]]  [[G0615\|ἀποκτεῖναι]]  [[G3762\|οὐδένα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.30|<< John 18:30]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.32|John 18:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

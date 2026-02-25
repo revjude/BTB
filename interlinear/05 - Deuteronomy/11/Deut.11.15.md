@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 11:15
+type: Verse
+kjv: "And I will send grass in thy fields for thy cattle, that thou mayest eat and be full."
+bsb: "And I will provide grass in the fields for your livestock, and you will eat and be satisfied."
+hebrew: "וְנָתַתִּ֛י עֵ֥שֶׂב בְּשָׂדְךָ֖ לִבְהֶמְתֶּ֑ךָ וְאָכַלְתָּ֖ וְשָׂבָֽעְתָּ׃"
+pericope: "[[Deut.11.8 God’s Great Blessings|God’s Great Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H6212]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H0929]]"
+- "[[H0398]]"
+- "[[H7646]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:15**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will send grass in thy fields for thy cattle, that thou mayest eat and be full.
 <small><sub>**BSB:**</sub></small>
 And I will provide grass in the fields for your livestock, and you will eat and be satisfied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתִּ֛י]] [[H6212\|עֵ֥שֶׂב]] [[H9003\|בְּ]][[H7704G\|שָׂדְ]][[H9021\|ךָ֖]] [[H9005\|לִ]][[H0929\|בְהֶמְתֶּ֑]][[H9021\|ךָ]] [[H9001\|וְ]][[H0398\|אָכַלְתָּ֖]] [[H9001\|וְ]][[H7646\|שָׂבָֽעְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REWARD|REWARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.14|<< Deuteronomy 11:14]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.16|Deuteronomy 11:16 >>]]</td></tr></table>
 

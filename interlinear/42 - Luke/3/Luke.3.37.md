@@ -1,10 +1,54 @@
+---
+title: Luke 3:37
+type: Verse
+kjv: "Which was the son of Mathusala, which was the son of Enoch, which was the son of Jared, which was the son of Maleleel, which was the son of Cainan,"
+bsb: "the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Cainan,"
+greek: "τοῦ Μαθουσαλὰ τοῦ Ἑνὼχ τοῦ Ἰάρετ τοῦ Μαλελεὴλ τοῦ Καϊνὰμ"
+pericope: "[[Luke.3.23 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAINAN|CAINAN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ENOCH|ENOCH]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JARED|JARED]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MAHALALEEL|MAHALALEEL]]"
+strongs:
+- "[[G3588]]"
+- "[[G3103]]"
+- "[[G1802]]"
+- "[[G2391]]"
+- "[[G3121]]"
+- "[[G2536H]]"
+texts:
+- NKO
+---
+
 **Luke 3:37**<big><big>[[Luke.3.23 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which was [the son] of Mathusala, which was [the son] of Enoch, which was [the son] of Jared, which was [the son] of Maleleel, which was [the son] of Cainan,
 <small><sub>**BSB:**</sub></small>
 the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalalel, the son of Cainan,
-<small><sub>**Literal:**</sub></small>
-<the> of Methuselah <the> of Enoch <the> of Jared <the> of Mahalalel <the> of Cainan<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.36|<< Luke 3:36]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.38|Luke 3:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G3103\|Μαθουσαλὰ]]  [[G3588\|τοῦ]]  [[G1802\|Ἑνὼχ]]  [[G3588\|τοῦ]]  [[G2391\|Ἰάρετ]]  [[G3588\|τοῦ]]  [[G3121\|Μαλελεὴλ]]  [[G3588\|τοῦ]]  [[G2536H\|Καϊνὰμ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAINAN|CAINAN]] • [[topic DAVID|DAVID]] • [[topic ENOCH|ENOCH]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JARED|JARED]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MAHALALEEL|MAHALALEEL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.36|<< Luke 3:36]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.38|Luke 3:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,48 @@
+---
+title: Acts 19:20
+type: Verse
+kjv: "So mightily grew the word of God and prevailed."
+bsb: "So the word of the Lord powerfully continued to spread and prevail."
+greek: "οὕτως κατὰ κράτος τοῦ κυρίου ὁ λόγος ηὔξανεν καὶ ἴσχυεν.¶"
+pericope: "[[Acts.19.13 Seven Sons of Sceva|Seven Sons of Sceva]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3779]]"
+- "[[G2596]]"
+- "[[G2904]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3056]]"
+- "[[G0837]]"
+- "[[G2532]]"
+- "[[G2480]]"
+texts:
+- NKO
+---
+
 **Acts 19:20**<big><big>[[Acts.19.13 Seven Sons of Sceva|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So mightily grew the word of God and prevailed.
 <small><sub>**BSB:**</sub></small>
 So the word of the Lord powerfully continued to spread and prevail.
-<small><sub>**Literal:**</sub></small>
-thus with might of the Lord the word was continuing to increase and was prevailing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.19|<< Acts 19:19]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.21|Acts 19:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2596\|κατὰ]]  [[G2904\|κράτος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G0837\|ηὔξανεν]]  [[G2532\|καὶ]]  [[G2480\|ἴσχυεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.19|<< Acts 19:19]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.21|Acts 19:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

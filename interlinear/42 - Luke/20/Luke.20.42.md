@@ -1,10 +1,61 @@
+---
+title: Luke 20:42
+type: Verse
+kjv: "And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,"
+bsb: "For David himself says in the book of Psalms: ‘The Lord said to my Lord, “Sit at My right hand"
+jesus_said: "And David himself saith in the book of Psalms, The Lord said unto my Lord, Sit thou on my right hand,"
+greek: "καὶ αὐτὸς γὰρ Δαυὶδ λέγει ἐν βίβλῳ ψαλμῶν· εἶπεν ὁ κύριος τῷ κυρίῳ μου· κάθου ἐκ δεξιῶν μου"
+pericope: "[[Luke.20.41 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G1138]]"
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G0976]]"
+- "[[G5568]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2521]]"
+- "[[G1537]]"
+- "[[G1188]]"
+texts:
+- ko
+- NKO
+- no
+---
+
 **Luke 20:42**<big><big>[[Luke.20.41 Whose Son Is the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,
 <small><sub>**BSB:**</sub></small>
 For David himself says in the book of Psalms: ‘The Lord said to my Lord, “Sit at My right hand
-<small><sub>**Literal:**</sub></small>
-and Himself for David says in [the] book of Psalms: Said the Lord to the Lord of me; do sit at [the] right hand of Me<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.41|<< Luke 20:41]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.43|Luke 20:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1063\|γὰρ]]  [[G1138\|Δαυὶδ]]  [[G3004G\|λέγει]]  [[G1722\|ἐν]]  [[G0976\|βίβλῳ]]  [[G5568\|ψαλμῶν·]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|μου·]]  [[G2521\|κάθου]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3165\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.41|<< Luke 20:41]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.43|Luke 20:43 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 20:42** is...
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]

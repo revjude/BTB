@@ -1,10 +1,60 @@
+---
+title: Acts 12:21
+type: Verse
+kjv: "And upon a set day Herod, arrayed in royal apparel, sat upon his throne, and made an oration unto them."
+bsb: "On the appointed day, Herod donned his royal robes, sat on his throne, and addressed the people."
+greek: "Τακτῇ δὲ ἡμέρᾳ ὁ Ἡρῴδης ἐνδυσάμενος ἐσθῆτα βασιλικὴν καὶ καθίσας ἐπὶ τοῦ βήματος ἐδημηγόρει πρὸς αὐτούς."
+pericope: "[[Acts.12.20 The Death of Herod|The Death of Herod]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAESAREA|CAESAREA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G5002]]"
+- "[[G1161]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G2264I]]"
+- "[[G1746]]"
+- "[[G2066]]"
+- "[[G0937]]"
+- "[[G2532]]"
+- "[[G2523]]"
+- "[[G1909]]"
+- "[[G0968]]"
+- "[[G1215]]"
+- "[[G4314]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 12:21**<big><big>[[Acts.12.20 The Death of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And upon a set day Herod, arrayed in royal apparel, sat upon his throne, and made an oration unto them.
 <small><sub>**BSB:**</sub></small>
 On the appointed day, Herod donned his royal robes, sat on his throne, and addressed the people.
-<small><sub>**Literal:**</sub></small>
-On the appointed now day <the> Herod having put on apparel royal and having sat on the throne was making an address to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.20|<< Acts 12:20]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.22|Acts 12:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5002\|Τακτῇ]]  [[G1161\|δὲ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|ὁ]]  [[G2264I\|Ἡρῴδης]]  [[G1746\|ἐνδυσάμενος]]  [[G2066\|ἐσθῆτα]]  [[G0937\|βασιλικὴν]]  [[G2532\|καὶ]]  [[G2523\|καθίσας]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G0968\|βήματος]]  [[G1215\|ἐδημηγόρει]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAESAREA|CAESAREA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HAPPINESS|HAPPINESS]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.20|<< Acts 12:20]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.22|Acts 12:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

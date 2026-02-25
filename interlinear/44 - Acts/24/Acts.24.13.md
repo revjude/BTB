@@ -1,10 +1,53 @@
+---
+title: Acts 24:13
+type: Verse
+kjv: "Neither can they prove the things whereof they now accuse me."
+bsb: "Nor can they prove to you any of their charges against me."
+greek: "οὐδὲ παραστῆσαι δύνανταί σοι περὶ ὧν νυνὶ κατηγοροῦσίν μου."
+pericope: "[[Acts.24.10 Paul’s Defense to Felix|Paul’s Defense to Felix]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic HERESY|HERESY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+strongs:
+- "[[G3761]]"
+- "[[G3936]]"
+- "[[G1410]]"
+- "[[G4771]]"
+- "[[G4012]]"
+- "[[G3739]]"
+- "[[G3570]]"
+- "[[G2723]]"
+- "[[G3165]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Acts 24:13**<big><big>[[Acts.24.10 Paul’s Defense to Felix|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither can they prove the things whereof they now accuse me.
 <small><sub>**BSB:**</sub></small>
 Nor can they prove to you any of their charges against me.
-<small><sub>**Literal:**</sub></small>
-nor to prove are they able to you concerning [the things] of which now they accuse me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.12|<< Acts 24:12]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.14|Acts 24:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G3936\|παραστῆσαι]]  [[G1410\|δύνανταί]]  [[G4771\|σοι]]  [[G4012\|περὶ]]  [[G3739\|ὧν]]  [[G3570\|νυνὶ]]  [[G2723\|κατηγοροῦσίν]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic DEFENSE|DEFENSE]] • [[topic HERESY|HERESY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SELF-DEFENSE|SELF-DEFENSE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.12|<< Acts 24:12]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.14|Acts 24:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

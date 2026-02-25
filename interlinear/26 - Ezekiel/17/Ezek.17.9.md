@@ -1,8 +1,77 @@
+---
+title: Ezekiel 17:9
+type: Verse
+kjv: "Say thou, Thus saith the Lord GOD; Shall it prosper? shall he not pull up the roots thereof, and cut off the fruit thereof, that it wither? it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots thereof."
+bsb: "So you are to tell them that this is what the Lord GOD says: ‘Will it flourish? Will it not be uprooted and stripped of its fruit so that it shrivels? All its foliage will wither! It will not take a strong arm or many people to pull it up by its roots."
+hebrew: "אֱמֹ֗ר כֹּ֥ה אָמַ֛ר אֲדֹנָ֥י יְהֹוִ֖ה תִּצְלָ֑ח הֲלוֹא֩ אֶת־ שָׁרָשֶׁ֨יהָ יְנַתֵּ֜ק וְאֶת־ פִּרְיָ֣הּ׀ יְקוֹסֵ֣ס וְיָבֵ֗שׁ כָּל־ טַרְפֵּ֤י צִמְחָהּ֙ תִּיבָ֔שׁ וְלֹֽא־ בִזְרֹ֤עַ גְּדוֹלָה֙ וּבְעַם־ רָ֔ב לְמַשְׂא֥וֹת אוֹתָ֖הּ מִשָּׁרָשֶֽׁיהָ׃"
+pericope: "[[Ezek.17.1 The Parable of Two Eagles and a Vine|The Parable of Two Eagles and a Vine]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic VINE|VINE]]"
+strongs:
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6743B]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8328]]"
+- "[[H9024]]"
+- "[[H5423]]"
+- "[[H9002]]"
+- "[[H6529]]"
+- "[[H9015]]"
+- "[[H7082]]"
+- "[[H9001]]"
+- "[[H3001]]"
+- "[[H3605]]"
+- "[[H2965]]"
+- "[[H6780]]"
+- "[[H9003]]"
+- "[[H2220]]"
+- "[[H1419A]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H9005]]"
+- "[[H5375G]]"
+- "[[H9034]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:9**<big><big>[[Ezek.17.1 The Parable of Two Eagles and a Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say thou, Thus saith the Lord GOD; Shall it prosper? shall he not pull up the roots thereof, and cut off the fruit thereof, that it wither? it shall wither in all the leaves of her spring, even without great power or many people to pluck it up by the roots thereof.
 <small><sub>**BSB:**</sub></small>
 So you are to tell them that this is what the Lord GOD says: ‘Will it flourish? Will it not be uprooted and stripped of its fruit so that it shrivels? All its foliage will wither! It will not take a strong arm or many people to pull it up by its roots.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אֱמֹ֗ר]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֛ר]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהֹוִ֖ה]] [[H6743B\|תִּצְלָ֑ח]] [[H9008\|הֲ]][[H3808\|לוֹא֩]] [[H0853\|אֶת]][[H9014\|־]] [[H8328\|שָׁרָשֶׁ֨י]][[H9024\|הָ]] [[H5423\|יְנַתֵּ֜ק]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6529\|פִּרְיָ֣]][[H9024\|הּ]][[H9015\|׀]] [[H7082\|יְקוֹסֵ֣ס]] [[H9001\|וְ]][[H3001\|יָבֵ֗שׁ]] [[H3605\|כָּל]][[H9014\|־]] [[H2965\|טַרְפֵּ֤י]] [[H6780\|צִמְחָ]][[H9024\|הּ֙]] [[H3001\|תִּיבָ֔שׁ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H9003\|בִ]][[H2220\|זְרֹ֤עַ]] [[H1419A\|גְּדוֹלָה֙]] [[H9002\|וּ]][[H9003\|בְ]][[H5971A\|עַם]][[H9014\|־]] [[H7227A\|רָ֔ב]] [[H9005\|לְ]][[H5375G\|מַשְׂא֥וֹת]] [[H0853\|אוֹתָ֖]][[H9034\|הּ]] [[H9006\|מִ]][[H8328\|שָּׁרָשֶֽׁי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic GRAPE|GRAPE]] • [[topic PARABLES|PARABLES]] • [[topic VINE|VINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.8|<< Ezekiel 17:8]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.10|Ezekiel 17:10 >>]]</td></tr></table>
 

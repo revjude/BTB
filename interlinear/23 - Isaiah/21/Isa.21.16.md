@@ -1,8 +1,61 @@
+---
+title: Isaiah 21:16
+type: Verse
+kjv: "For thus hath the Lord said unto me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail:"
+bsb: "For this is what the Lord says to me: “Within one year, as a hired worker would count it, all the glory of Kedar will be gone."
+hebrew: "כִּי־ כֹ֛ה אָמַ֥ר אֲדֹנָ֖י אֵלָ֑י בְּע֤וֹד שָׁנָה֙ כִּשְׁנֵ֣י שָׂכִ֔יר וְכָלָ֖ה כָּל־ כְּב֥וֹד קֵדָֽר׃"
+pericope: "[[Isa.21.13 The Burden against Arabia|The Burden against Arabia]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 21
+book/chapter: "[[Isa.21|Isaiah 21]]"
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic KEDAR|KEDAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H8141]]"
+- "[[H9004]]"
+- "[[H7916]]"
+- "[[H9001]]"
+- "[[H3615G]]"
+- "[[H3605]]"
+- "[[H3519]]"
+- "[[H6938]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 21:16**<big><big>[[Isa.21.13 The Burden against Arabia|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus hath the Lord said unto me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail:
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord says to me: “Within one year, as a hired worker would count it, all the glory of Kedar will be gone.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹ֛ה]] [[H0559\|אָמַ֥ר]] [[H0136\|אֲדֹנָ֖י]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H9003\|בְּ]][[H5750\|ע֤וֹד]] [[H8141\|שָׁנָה֙]] [[H9004\|כִּ]][[H8141\|שְׁנֵ֣י]] [[H7916\|שָׂכִ֔יר]] [[H9001\|וְ]][[H3615G\|כָלָ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H3519\|כְּב֥וֹד]] [[H6938\|קֵדָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIANS|ARABIANS]] • [[topic ISAIAH|ISAIAH]] • [[topic KEDAR|KEDAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.15|<< Isaiah 21:15]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.17|Isaiah 21:17 >>]]</td></tr></table>
 

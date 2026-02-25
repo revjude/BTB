@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Gaius Commended for Hospitality
+type: Pericope
 pericope: "[[3John.1.5 Gaius Commended for Hospitality|Gaius Commended for Hospitality]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: 3 John
 chapter: 1
 book/chapter: "[[3John.1|3 John 1]]"
-genre:
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - personal letter
+verse_count: 4
 verses:
 - "[[3John.1.5]]"
 - "[[3John.1.6]]"
@@ -22,7 +29,7 @@ verses:
 - "[[3John.1.8]]"
 ---
 
-[[3John.1|3 John 1:5 - 3 John 1:8]]
+<small>[[3John.1|3 John 1:5-8]]</small>
 *Gaius Commended for Hospitality*
 
 [[3John.1.5|5]] Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;

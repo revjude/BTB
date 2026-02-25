@@ -7,7 +7,7 @@
 
 2. Son of Immer and governor of the temple
 
-- Beats and imprisons Jeremiah [[Jer.20.1|Jer 20:1]]-[[Jer.20.6|6]]
+- Beats and imprisons Jeremiah [[Jer.20.1|Jer 20:1-6]]
 
 3. Father of Gedaliah, who perscuted Jeremiah [[Jer.38.1|Jer 38:1]]
 

@@ -1,10 +1,71 @@
+---
+title: Galatians 2:14
+type: Verse
+kjv: "But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?"
+bsb: "When I saw that they were not walking in line with the truth of the gospel, I said to Cephas in front of them all, “If you, who are a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”"
+greek: "ἀλλ᾽ ὅτε εἶδον ὅτι οὐκ ὀρθοποδοῦσιν πρὸς τὴν ἀλήθειαν τοῦ εὐαγγελίου, εἶπον τῷ Κηφᾷ ἔμπροσθεν πάντων· εἰ σὺ Ἰουδαῖος ὑπάρχων ἐθνικῶς καὶ οὐχὶ Ἰουδαϊκῶς ζῇς, πῶς τὰ ἔθνη ἀναγκάζεις ἰουδαΐζειν;"
+pericope: "[[Gal.2.11 Paul Confronts Cephas|Paul Confronts Cephas]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+strongs:
+- "[[G0235]]"
+- "[[G3753]]"
+- "[[G1492H]]"
+- "[[G3754G]]"
+- "[[G3756]]"
+- "[[G3716]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G2098]]"
+- "[[G2036]]"
+- "[[G2786]]"
+- "[[G1715]]"
+- "[[G3956]]"
+- "[[G1487G]]"
+- "[[G4771]]"
+- "[[G2453]]"
+- "[[G5225]]"
+- "[[G1483]]"
+- "[[G2532]]"
+- "[[G3780]]"
+- "[[G2452]]"
+- "[[G2198]]"
+- "[[G4459]]"
+- "[[G1484]]"
+- "[[G0315]]"
+- "[[G2450]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 2:14**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before [them] all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
 <small><sub>**BSB:**</sub></small>
 When I saw that they were not walking in line with the truth of the gospel, I said to Cephas in front of them all, “If you, who are a Jew, live like a Gentile and not like a Jew, how can you compel the Gentiles to live like Jews?”
-<small><sub>**Literal:**</sub></small>
-But when I saw that not they are walking uprightly according to the truth of the gospel, I said <the> to Peter before all; If you yourself a Jew being like a Gentile and not like a Jew live, why the Gentiles do you compel to Judaize?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.13|<< Galatians 2:13]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.15|Galatians 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3753\|ὅτε]]  [[G1492H\|εἶδον]]  [[G3754G\|ὅτι]]  [[G3756\|οὐκ]]  [[G3716\|ὀρθοποδοῦσιν]]  [[G4314\|πρὸς]]  [[G3588\|τὴν]]  [[G0225\|ἀλήθειαν]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου,]]  [[G2036\|εἶπον]]  [[G3588\|τῷ]]  [[G2786\|Κηφᾷ]]  [[G1715\|ἔμπροσθεν]]  [[G3956\|πάντων·]]  [[G1487G\|εἰ]]  [[G4771\|σὺ]]  [[G2453\|Ἰουδαῖος]]  [[G5225\|ὑπάρχων]]  [[G1483\|ἐθνικῶς]]  [[G2532\|καὶ]]  [[G3780\|οὐχὶ]]  [[G2452\|Ἰουδαϊκῶς]]  [[G2198\|ζῇς,]]  [[G4459\|πῶς]]  [[G3588\|τὰ]]  [[G1484\|ἔθνη]]  [[G0315\|ἀναγκάζεις]]  [[G2450\|ἰουδαΐζειν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic COWARDICE|COWARDICE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.13|<< Galatians 2:13]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.15|Galatians 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

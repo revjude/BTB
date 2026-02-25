@@ -1,10 +1,66 @@
+---
+title: Matthew 9:17
+type: Verse
+kjv: "Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved."
+bsb: "Neither do men pour new wine into old wineskins. If they do, the skins will burst, the wine will spill, and the wineskins will be ruined. Instead, they pour new wine into new wineskins, and both are preserved.”"
+jesus_said: "Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved."
+greek: "οὐδὲ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς παλαιούς· εἰ δὲ μή γε, ῥήγνυνται οἱ ἀσκοί, καὶ ὁ οἶνος ἐκχεῖται καὶ οἱ ἀσκοὶ ἀπόλλυνται. ἀλλὰ βάλλουσιν οἶνον νέον εἰς ἀσκοὺς καινούς, καὶ ἀμφότεροι συντηροῦνται.¶"
+pericope: "[[Matt.9.16 The Patches and the Wineskins|The Patches and the Wineskins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 9
+book/chapter: "[[Matt.9|Matthew 9]]"
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BOTTLE|BOTTLE]]"
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G3761]]"
+- "[[G0906H]]"
+- "[[G3631]]"
+- "[[G3501]]"
+- "[[G1519]]"
+- "[[G0779]]"
+- "[[G3820]]"
+- "[[G1487L]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G1065]]"
+- "[[G4486]]"
+- "[[G3588]]"
+- "[[G2532]]"
+- "[[G1632]]"
+- "[[G0622]]"
+- "[[G0235]]"
+- "[[G2537]]"
+- "[[G0297]]"
+- "[[G4933]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 9:17**<big><big>[[Matt.9.16 The Patches and the Wineskins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.
 <small><sub>**BSB:**</sub></small>
 Neither do men pour new wine into old wineskins. If they do, the skins will burst, the wine will spill, and the wineskins will be ruined. Instead, they pour new wine into new wineskins, and both are preserved.”
-<small><sub>**Literal:**</sub></small>
-Nor pour they wine new into wineskins old; lest then except indeed are burst the wineskins, and the wine is poured out and the wineskins are ruined. But they pour wine new into wineskins new, and both are preserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.16|<< Matthew 9:16]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.18|Matthew 9:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G0906H\|βάλλουσιν]]  [[G3631\|οἶνον]]  [[G3501\|νέον]]  [[G1519\|εἰς]]  [[G0779\|ἀσκοὺς]]  [[G3820\|παλαιούς·]]  [[G1487L\|εἰ]]  [[G1161\|δὲ]]  [[G3361\|μή]]  [[G1065\|γε,]]  [[G4486\|ῥήγνυνται]]  [[G3588\|οἱ]]  [[G0779\|ἀσκοί,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3631\|οἶνος]]  [[G1632\|ἐκχεῖται]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0779\|ἀσκοὶ]]  [[G0622\|ἀπόλλυνται.]]  [[G0235\|ἀλλὰ]]  [[G0906H\|βάλλουσιν]]  [[G3631\|οἶνον]]  [[G3501\|νέον]]  [[G1519\|εἰς]]  [[G0779\|ἀσκοὺς]]  [[G2537\|καινούς,]]  [[G2532\|καὶ]]  [[G0297\|ἀμφότεροι]]  [[G4933\|συντηροῦνται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTTLE|BOTTLE]] • [[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAISM|JUDAISM]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.9.16|<< Matthew 9:16]]</td><td align="center" style="border:none;">[[Matt.9|Matthew 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.9.18|Matthew 9:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

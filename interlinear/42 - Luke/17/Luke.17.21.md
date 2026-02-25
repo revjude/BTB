@@ -1,10 +1,57 @@
+---
+title: Luke 17:21
+type: Verse
+kjv: "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you."
+bsb: "Nor will people say, ‘Look, here it is,’ or ‘There it is.’ For you see, the kingdom of God is in your midst.”"
+jesus_said: "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you."
+greek: "οὐδὲ ἐροῦσιν· ἰδοὺ ὧδε ἢ ἰδοὺ ἐκεῖ. ἰδοὺ γὰρ ἡ βασιλεία τοῦ θεοῦ ἐντὸς ὑμῶν ἐστιν.¶"
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3761]]"
+- "[[G4483]]"
+- "[[G2400]]"
+- "[[G5602]]"
+- "[[G2228]]"
+- "[[G1563]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G1787]]"
+- "[[G4771]]"
+- "[[G1510]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 17:21**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.
 <small><sub>**BSB:**</sub></small>
 Nor will people say, ‘Look, here it is,’ or ‘There it is.’ For you see, the kingdom of God is in your midst.”
-<small><sub>**Literal:**</sub></small>
-nor will they say; Behold here or behold There. Behold for the kingdom <the> of God in the midst of you is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.20|<< Luke 17:20]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.22|Luke 17:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3761\|οὐδὲ]]  [[G4483\|ἐροῦσιν·]]  [[G2400\|ἰδοὺ]]  [[G5602\|ὧδε]]  [[G2228\|ἢ]]  [[G2400\|ἰδοὺ]]  [[G1563\|ἐκεῖ.]]  [[G2400\|ἰδοὺ]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1787\|ἐντὸς]]  [[G4771\|ὑμῶν]]  [[G1510\|ἐστιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.20|<< Luke 17:20]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.22|Luke 17:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

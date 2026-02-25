@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Commander of the LORD’s Army
+type: Pericope
 pericope: "[[Josh.5.13 The Commander of the LORD’s Army|The Commander of the LORD’s Army]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 5
 book/chapter: "[[Josh.5|Joshua 5]]"
-genre:
+chronological_order: 235
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 3
 verses:
 - "[[Josh.5.13]]"
 - "[[Josh.5.14]]"
 - "[[Josh.5.15]]"
 ---
 
-[[Josh.5|Joshua 5:13 - Joshua 5:15]]
+<small>[[Josh.5|Joshua 5:13-15]]</small>
 *The Commander of the LORD’s Army*
 
 [[Josh.5.13|13]] And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, \[Art\] thou for us, or for our adversaries?

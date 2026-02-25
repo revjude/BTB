@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals at Peter’s House
+type: Pericope
 pericope: "[[Mark.1.29 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Mark
 chapter: 1
 book/chapter: "[[Mark.1|Mark 1]]"
-genre:
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Mark.1.29]]"
 - "[[Mark.1.30]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Mark.1.34]]"
 ---
 
-[[Mark.1|Mark 1:29 - Mark 1:34]]
+<small>[[Mark.1|Mark 1:29-34]]</small>
 *Jesus Heals at Peter’s House*
 
 [[Mark.1.29|29]] And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John.

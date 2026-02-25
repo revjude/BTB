@@ -1,8 +1,66 @@
+---
+title: Judges 10:9
+type: Verse
+kjv: "Moreover the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed."
+bsb: "The Ammonites also crossed the Jordan to fight against Judah, Benjamin, and the house of Ephraim, and Israel was in deep distress."
+hebrew: "וַיַּעַבְר֤וּ בְנֵֽי־ עַמּוֹן֙ אֶת־ הַיַּרְדֵּ֔ן לְהִלָּחֵ֛ם גַּם־ בִּיהוּדָ֥ה וּבְבִנְיָמִ֖ין וּבְבֵ֣ית אֶפְרָ֑יִם וַתֵּ֥צֶר לְיִשְׂרָאֵ֖ל מְאֹֽד׃"
+pericope: "[[Judg.10.6 Oppression by the Philistines and Ammonites|Oppression by the Philistines and Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H5983]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H1144G]]"
+- "[[H1004M]]"
+- "[[H0669G]]"
+- "[[H3334]]"
+- "[[H3478]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 10:9**<big><big>[[Judg.10.6 Oppression by the Philistines and Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed.
 <small><sub>**BSB:**</sub></small>
 The Ammonites also crossed the Jordan to fight against Judah, Benjamin, and the house of Ephraim, and Israel was in deep distress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעַבְר֤וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H5983\|עַמּוֹן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֛ם]] [[H1571\|גַּם]][[H9014\|־]] [[H9003\|בִּ]][[H3063G\|יהוּדָ֥ה]] [[H9002\|וּ]][[H9003\|בְ]][[H1144G\|בִנְיָמִ֖ין]] [[H9002\|וּ]][[H9003\|בְ]][[H1004M\|בֵ֣ית]] [[H0669G\|אֶפְרָ֑יִם]] [[H9001\|וַ]][[H3334\|תֵּ֥צֶר]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic BENJAMIN|BENJAMIN]] • [[topic ISRAEL|ISRAEL]] • [[topic JORDAN|JORDAN]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.10.8|<< Judges 10:8]]</td><td align="center" style="border:none;">[[Judg.10|Judges 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.10.10|Judges 10:10 >>]]</td></tr></table>
 

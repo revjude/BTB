@@ -1,8 +1,60 @@
+---
+title: Proverbs 8:34
+type: Verse
+kjv: "Blessed is the man that heareth me, watching daily at my gates, waiting at the posts of my doors."
+bsb: "Blessed is the man who listens to me, watching daily at my doors, waiting at the posts of my doorway."
+hebrew: "אַ֥שְֽׁרֵי אָדָם֮ שֹׁמֵ֪עַֽ֫ לִ֥י לִשְׁקֹ֣ד עַל־ דַּ֭לְתֹתַי י֤וֹם׀ י֑וֹם לִ֝שְׁמֹ֗ר מְזוּזֹ֥ת פְּתָחָֽי׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0835]]"
+- "[[H0120G]]"
+- "[[H8085G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H8245]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1817C]]"
+- "[[H9020]]"
+- "[[H3117J]]"
+- "[[H9015]]"
+- "[[H8104I]]"
+- "[[H4201]]"
+- "[[H6607]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:34**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the man that heareth me, watching daily at my gates, waiting at the posts of my doors.
 <small><sub>**BSB:**</sub></small>
 Blessed is the man who listens to me, watching daily at my doors, waiting at the posts of my doorway.
+<small><sub>**Hebrew:**</sub></small>
+[[H0835\|אַ֥שְֽׁרֵי]] [[H0120G\|אָדָם֮]] [[H8085G\|שֹׁמֵ֪עַֽ֫]] [[H9005\|לִ֥]][[H9030\|י]] [[H9005\|לִ]][[H8245\|שְׁקֹ֣ד]] [[H5921A\|עַל]][[H9014\|־]] [[H1817C\|דַּ֭לְתֹתַ]][[H9020\|י]] [[H3117J\|י֤וֹם]][[H9015\|׀]] [[H3117J\|י֑וֹם]] [[H9005\|לִ֝]][[H8104I\|שְׁמֹ֗ר]] [[H4201\|מְזוּזֹ֥ת]] [[H6607\|פְּתָחָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SEEKERS|SEEKERS]] • [[topic WATCHFULNESS|WATCHFULNESS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.33|<< Proverbs 8:33]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.35|Proverbs 8:35 >>]]</td></tr></table>
 

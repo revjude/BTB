@@ -1,8 +1,75 @@
+---
+title: Jeremiah 40:9
+type: Verse
+kjv: "And Gedaliah the son of Ahikam the son of Shaphan sware unto them and to their men, saying, Fear not to serve the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you."
+bsb: "Gedaliah son of Ahikam, the son of Shaphan, swore an oath to them and their men, assuring them, “Do not be afraid to serve the Chaldeans. Live in the land and serve the king of Babylon, and it will go well with you."
+hebrew: "וַיִּשָּׁבַ֨ע לָהֶ֜ם גְּדַלְיָ֨הוּ בֶן־ אֲחִיקָ֤ם בֶּן־ שָׁפָן֙ וּלְאַנְשֵׁיהֶ֣ם לֵאמֹ֔ר אַל־ תִּֽירְא֖וּ מֵעֲב֣וֹד הַכַּשְׂדִּ֑ים שְׁב֣וּ בָאָ֗רֶץ וְעִבְד֛וּ אֶת־ מֶ֥לֶךְ בָּבֶ֖ל וְיִיטַ֥ב לָכֶֽם׃"
+pericope: "[[Jer.40.7 Gedaliah Governs in Judah|Gedaliah Governs in Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 40
+book/chapter: "[[Jer.40|Jeremiah 40]]"
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1436B]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0296]]"
+- "[[H8227B]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H5647G]]"
+- "[[H9009]]"
+- "[[H3778]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H3190]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 40:9**<big><big>[[Jer.40.7 Gedaliah Governs in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gedaliah the son of Ahikam the son of Shaphan sware unto them and to their men, saying, Fear not to serve the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you.
 <small><sub>**BSB:**</sub></small>
 Gedaliah son of Ahikam, the son of Shaphan, swore an oath to them and their men, assuring them, “Do not be afraid to serve the Chaldeans. Live in the land and serve the king of Babylon, and it will go well with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7650\|יִּשָּׁבַ֨ע]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H1436B\|גְּדַלְיָ֨הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0296\|אֲחִיקָ֤ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8227B\|שָׁפָן֙]] [[H9002\|וּ]][[H9005\|לְ]][[H0582\|אַנְשֵׁי]][[H9028\|הֶ֣ם]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּֽירְא֖וּ]] [[H9006\|מֵ]][[H5647G\|עֲב֣וֹד]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֑ים]] [[H3427\|שְׁב֣וּ]] [[H9003\|בָ]][[H0776G\|אָ֗רֶץ]] [[H9002\|וְ]][[H5647G\|עִבְד֛וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶ֖ל]] [[H9002\|וְ]][[H3190\|יִיטַ֥ב]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MIZPAH|MIZPAH]] • [[topic OATH|OATH]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.8|<< Jeremiah 40:8]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.10|Jeremiah 40:10 >>]]</td></tr></table>
 

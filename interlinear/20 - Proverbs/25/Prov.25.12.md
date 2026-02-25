@@ -1,8 +1,53 @@
+---
+title: Proverbs 25:12
+type: Verse
+kjv: "As an earring of gold, and an ornament of fine gold, so is a wise reprover upon an obedient ear."
+bsb: "Like an earring of gold or an ornament of fine gold is a wise man’s rebuke to a listening ear."
+hebrew: "נֶ֣זֶם זָ֭הָב וַחֲלִי־ כָ֑תֶם מוֹכִ֥יחַ חָ֝כָ֗ם עַל־ אֹ֥זֶן שֹׁמָֽעַת׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic EAR-RING|EAR-RING]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H5141]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H2481]]"
+- "[[H9014]]"
+- "[[H3800]]"
+- "[[H3198]]"
+- "[[H2450]]"
+- "[[H5921A]]"
+- "[[H0241G]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:12**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] an earring of gold, and an ornament of fine gold, [so is] a wise reprover upon an obedient ear.
 <small><sub>**BSB:**</sub></small>
 Like an earring of gold or an ornament of fine gold is a wise man’s rebuke to a listening ear.
+<small><sub>**Hebrew:**</sub></small>
+[[H5141\|נֶ֣זֶם]] [[H2091\|זָ֭הָב]] [[H9002\|וַ]][[H2481\|חֲלִי]][[H9014\|־]] [[H3800\|כָ֑תֶם]] [[H3198\|מוֹכִ֥יחַ]] [[H2450\|חָ֝כָ֗ם]] [[H5921A\|עַל]][[H9014\|־]] [[H0241G\|אֹ֥זֶן]] [[H8085G\|שֹׁמָֽעַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EAR-RING|EAR-RING]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.11|<< Proverbs 25:11]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.13|Proverbs 25:13 >>]]</td></tr></table>
 

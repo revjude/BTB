@@ -1,8 +1,59 @@
+---
+title: Ezekiel 40:27
+type: Verse
+kjv: "And there was a gate in the inner court toward the south: and he measured from gate to gate toward the south an hundred cubits."
+bsb: "The inner court also had a gate facing south, and he measured the distance from gateway to gateway toward the south to be a hundred cubits."
+hebrew: "וְשַׁ֛עַר לֶחָצֵ֥ר הַפְּנִימִ֖י דֶּ֣רֶךְ הַדָּר֑וֹם וַיָּ֨מָד מִשַּׁ֧עַר אֶל־ הַשַּׁ֛עַר דֶּ֥רֶךְ הַדָּר֖וֹם מֵאָ֥ה אַמּֽוֹת׃"
+pericope: "[[Ezek.40.24 The South Gate|The South Gate]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9002]]"
+- "[[H8179G]]"
+- "[[H9005]]"
+- "[[H2691A]]"
+- "[[H9009]]"
+- "[[H6442]]"
+- "[[H1870J]]"
+- "[[H1864]]"
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H9006]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0520A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:27**<big><big>[[Ezek.40.24 The South Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there was] a gate in the inner court toward the south: and he measured from gate to gate toward the south an hundred cubits.
 <small><sub>**BSB:**</sub></small>
 The inner court also had a gate facing south, and he measured the distance from gateway to gateway toward the south to be a hundred cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8179G\|שַׁ֛עַר]] [[H9005\|לֶ]][[H2691A\|חָצֵ֥ר]] [[H9009\|הַ]][[H6442\|פְּנִימִ֖י]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H1864\|דָּר֑וֹם]] [[H9001\|וַ]][[H4058\|יָּ֨מָד]] [[H9006\|מִ]][[H8179G\|שַּׁ֧עַר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8179G\|שַּׁ֛עַר]] [[H1870J\|דֶּ֥רֶךְ]] [[H9009\|הַ]][[H1864\|דָּר֖וֹם]] [[H3967\|מֵאָ֥ה]] [[H0520A\|אַמּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.26|<< Ezekiel 40:26]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.28|Ezekiel 40:28 >>]]</td></tr></table>
 

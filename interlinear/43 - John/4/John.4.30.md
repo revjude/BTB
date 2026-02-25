@@ -1,10 +1,55 @@
+---
+title: John 4:30
+type: Verse
+kjv: "Then they went out of the city, and came unto him."
+bsb: "So they left the town and made their way toward Jesus."
+greek: "ἐξῆλθον οὖν ἐκ τῆς πόλεως καὶ ἤρχοντο πρὸς αὐτόν.¶"
+pericope: "[[John.4.27 The Disciples Return and Marvel|The Disciples Return and Marvel]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G1831]]"
+- "[[G3767]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+---
+
 **John 4:30**<big><big>[[John.4.27 The Disciples Return and Marvel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then they went out of the city, and came unto him.
 <small><sub>**BSB:**</sub></small>
 So they left the town and made their way toward Jesus.
-<small><sub>**Literal:**</sub></small>
-They went forth therefore out of the city and were coming unto Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.29|<< John 4:29]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.31|John 4:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1831\|ἐξῆλθον]]  [[G3767\|οὖν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G2532\|καὶ]]  [[G2064\|ἤρχοντο]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.29|<< John 4:29]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.31|John 4:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

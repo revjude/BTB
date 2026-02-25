@@ -1,8 +1,60 @@
+---
+title: Isaiah 14:11
+type: Verse
+kjv: "Thy pomp is brought down to the grave, and the noise of thy viols: the worm is spread under thee, and the worms cover thee."
+bsb: "Your pomp has been brought down to Sheol, along with the music of your harps. Maggots are your bed and worms your blanket."
+hebrew: "הוּרַ֥ד שְׁא֛וֹל גְּאוֹנֶ֖ךָ הֶמְיַ֣ת נְבָלֶ֑יךָ תַּחְתֶּ֙יךָ֙ יֻצַּ֣ע רִמָּ֔ה וּמְכַסֶּ֖יךָ תּוֹלֵעָֽה׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3381]]"
+- "[[H7585]]"
+- "[[H1347]]"
+- "[[H9021]]"
+- "[[H1998]]"
+- "[[H5035B]]"
+- "[[H8478G]]"
+- "[[H9031]]"
+- "[[H3331]]"
+- "[[H7415]]"
+- "[[H9002]]"
+- "[[H4374]]"
+- "[[H8438B]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **Isaiah 14:11**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy pomp is brought down to the grave, [and] the noise of thy viols: the worm is spread under thee, and the worms cover thee.
 <small><sub>**BSB:**</sub></small>
 Your pomp has been brought down to Sheol, along with the music of your harps. Maggots are your bed and worms your blanket.
+<small><sub>**Hebrew:**</sub></small>
+[[H3381\|הוּרַ֥ד]] [[H7585\|שְׁא֛וֹל]] [[H1347\|גְּאוֹנֶ֖]][[H9021\|ךָ]] [[H1998\|הֶמְיַ֣ת]] [[H5035B\|נְבָלֶ֑י]][[H9021\|ךָ]] [[H8478G\|תַּחְתֶּ֙י]][[H9031\|ךָ֙]] [[H3331\|יֻצַּ֣ע]] [[H7415\|רִמָּ֔ה]] [[H9002\|וּ]][[H4374\|מְכַסֶּ֖י]][[H9021\|ךָ]] [[H8438B\|תּוֹלֵעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic DEATH|DEATH]] • [[topic ISAIAH|ISAIAH]] • [[topic MUSIC|MUSIC]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.10|<< Isaiah 14:10]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.12|Isaiah 14:12 >>]]</td></tr></table>
 

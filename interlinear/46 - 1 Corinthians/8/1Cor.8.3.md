@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 8:3
+type: Verse
+kjv: "But if any man love God, the same is known of him."
+bsb: "But the one who loves God is known by God."
+greek: "εἰ δέ τις ἀγαπᾷ τὸν θεόν, οὗτος ἔγνωσται ὑπ᾽ αὐτοῦ.¶"
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G0025]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3778]]"
+- "[[G1097]]"
+- "[[G5259G]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 8:3**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if any man love God, the same is known of him.
 <small><sub>**BSB:**</sub></small>
 But the one who loves God is known by God.
-<small><sub>**Literal:**</sub></small>
-If however anyone loves <the> God, he has known by Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.2|<< 1 Corinthians 8:2]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.4|1 Corinthians 8:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G0025\|ἀγαπᾷ]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G3778\|οὗτος]]  [[G1097\|ἔγνωσται]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.2|<< 1 Corinthians 8:2]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.4|1 Corinthians 8:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

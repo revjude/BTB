@@ -1,10 +1,67 @@
+---
+title: 2 Peter 1:16
+type: Verse
+kjv: "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty."
+bsb: "For we did not follow cleverly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty."
+greek: "οὐ γὰρ σεσοφισμένοις μύθοις ἐξακολουθήσαντες ἐγνωρίσαμεν ὑμῖν τὴν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ δύναμιν καὶ παρουσίαν, ἀλλ᾽ ἐπόπται γενηθέντες τῆς ἐκείνου μεγαλειότητος."
+pericope: "[[2Pet.1.16 Eyewitnesses of His Majesty|Eyewitnesses of His Majesty]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic FABLE|FABLE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic POWER|POWER]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G4679]]"
+- "[[G3454]]"
+- "[[G1811]]"
+- "[[G1107]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1411]]"
+- "[[G2532]]"
+- "[[G3952]]"
+- "[[G0235]]"
+- "[[G2030]]"
+- "[[G1096]]"
+- "[[G1565]]"
+- "[[G3168]]"
+texts:
+- NKO
+---
+
 **2 Peter 1:16**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty.
 <small><sub>**BSB:**</sub></small>
 For we did not follow cleverly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty.
-<small><sub>**Literal:**</sub></small>
-Not for contrived fables having followed we have made known to you the of the Lord of us Jesus Christ power and coming, but eyewitnesses having been <the> of His majesty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.15|<< 2 Peter 1:15]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.17|2 Peter 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G4679\|σεσοφισμένοις]]  [[G3454\|μύθοις]]  [[G1811\|ἐξακολουθήσαντες]]  [[G1107\|ἐγνωρίσαμεν]]  [[G4771\|ὑμῖν]]  [[G3588\|τὴν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1411\|δύναμιν]]  [[G2532\|καὶ]]  [[G3952\|παρουσίαν,]]  [[G0235\|ἀλλ᾽]]  [[G2030\|ἐπόπται]]  [[G1096\|γενηθέντες]]  [[G3588\|τῆς]]  [[G1565\|ἐκείνου]]  [[G3168\|μεγαλειότητος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic FABLE|FABLE]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PETER|PETER]] • [[topic POWER|POWER]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.15|<< 2 Peter 1:15]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.17|2 Peter 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

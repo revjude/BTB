@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 12:10
+type: Verse
+kjv: "And they cried unto the LORD, and said, We have sinned, because we have forsaken the LORD, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee."
+bsb: "Then they cried out to the LORD and said, ‘We have sinned, for we have forsaken the LORD and served the Baals and Ashtoreths. Now deliver us from the hands of our enemies, that we may serve You.’"
+hebrew: "וַיִּזְעֲק֤וּ אֶל־ יְהוָה֙ וַיֹּאמְר֣וּ חָטָ֔אנוּ כִּ֤י עָזַ֙בְנוּ֙ אֶת־ יְהוָ֔ה וַנַּעֲבֹ֥ד אֶת־ הַבְּעָלִ֖ים וְאֶת־ הָעַשְׁתָּר֑וֹת וְעַתָּ֗ה הַצִּילֵ֛נוּ מִיַּ֥ד אֹיְבֵ֖ינוּ וְנַעַבְדֶֽךָּ׃"
+pericope: "[[1Sam.12.1 Samuel’s Farewell Address|Samuel’s Farewell Address]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 12
+book/chapter: "[[1Sam.12|1 Samuel 12]]"
+chronological_order: 291
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASHTORETH|ASHTORETH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H2398]]"
+- "[[H3588A]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H5647G]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H9002]]"
+- "[[H6252G]]"
+- "[[H6258]]"
+- "[[H5337]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H0341]]"
+- "[[H9025]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 12:10**<big><big>[[1Sam.12.1 Samuel’s Farewell Address|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they cried unto the LORD, and said, We have sinned, because we have forsaken the LORD, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee.
 <small><sub>**BSB:**</sub></small>
 Then they cried out to the LORD and said, ‘We have sinned, for we have forsaken the LORD and served the Baals and Ashtoreths. Now deliver us from the hands of our enemies, that we may serve You.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2199\|יִּזְעֲק֤וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H2398\|חָטָ֔אנוּ]] [[H3588A\|כִּ֤י]] [[H5800A\|עָזַ֙בְנוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H5647G\|נַּעֲבֹ֥ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1168A\|בְּעָלִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H6252G\|עַשְׁתָּר֑וֹת]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H5337\|הַצִּילֵ֛]][[H9035\|נוּ]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H0341\|אֹיְבֵ֖י]][[H9025\|נוּ]] [[H9002\|וְ]][[H5647G\|נַעַבְדֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASHTORETH|ASHTORETH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.12.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.9|<< 1 Samuel 12:9]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.11|1 Samuel 12:11 >>]]</td></tr></table>
 
@@ -29,7 +88,7 @@ Then they cried out to the LORD and said, ‘We have sinned, for we have forsake
 | so we may serve you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5647G\|נַעַבְדֶֽ]]&#8207;&#8207;[[H9031\|ךָּ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> na.'av.De.<small><sup>[[HVqu1cp]]</sup></small> ka<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.12.9|<< 1 Samuel 12:9]]</td><td align="center" style="border:none;">[[1Sam.12|1 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.12.11|1 Samuel 12:11 >>]]</td></tr></table>
 
-[^1]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
-[^2]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^1]: and he said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמֶר]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and he said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמֶר]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיֹּאמְרֻ֣</big></span>**
 

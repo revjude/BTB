@@ -1,8 +1,52 @@
+---
+title: Job 27:2
+type: Verse
+kjv: "As God liveth, who hath taken away my judgment; and the Almighty, who hath vexed my soul;"
+bsb: "“As surely as God lives, who has deprived me of justice—the Almighty, who has embittered my soul—"
+hebrew: "חַי־ אֵ֭ל הֵסִ֣יר מִשְׁפָּטִ֑י וְ֝שַׁדַּ֗י הֵמַ֥ר נַפְשִֽׁי׃"
+pericope: "[[Job.27.1 Job Affirms His Integrity|Job Affirms His Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H5493G]]"
+- "[[H4941H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7706]]"
+- "[[H4843]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:2**<big><big>[[Job.27.1 Job Affirms His Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] God liveth, [who] hath taken away my judgment; and the Almighty, [who] hath vexed my soul;
 <small><sub>**BSB:**</sub></small>
 “As surely as God lives, who has deprived me of justice—the Almighty, who has embittered my soul—
+<small><sub>**Hebrew:**</sub></small>
+[[H2416A\|חַי]][[H9014\|־]] [[H0410G\|אֵ֭ל]] [[H5493G\|הֵסִ֣יר]] [[H4941H\|מִשְׁפָּטִ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H7706\|שַׁדַּ֗י]] [[H4843\|הֵמַ֥ר]] [[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.1|<< Job 27:1]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.3|Job 27:3 >>]]</td></tr></table>
 

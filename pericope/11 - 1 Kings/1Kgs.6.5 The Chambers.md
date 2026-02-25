@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Chambers
+type: Pericope
 pericope: "[[1Kgs.6.5 The Chambers|The Chambers]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 6
 book/chapter: "[[1Kgs.6|1 Kings 6]]"
-genre:
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 6
 verses:
 - "[[1Kgs.6.5]]"
 - "[[1Kgs.6.6]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Kgs.6.10]]"
 ---
 
-[[1Kgs.6|1 Kings 6:5 - 1 Kings 6:10]]
+<small>[[1Kgs.6|1 Kings 6:5-10]]</small>
 *The Chambers*
 
 [[1Kgs.6.5|5]] And against the wall of the house he built chambers round about, \[against\] the walls of the house round about, \[both\] of the temple and of the oracle: and he made chambers round about:

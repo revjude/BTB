@@ -1,8 +1,61 @@
+---
+title: Genesis 21:7
+type: Verse
+kjv: "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born him a son in his old age."
+bsb: "She added, “Who would have told Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”"
+hebrew: "וַתֹּ֗אמֶר מִ֤י מִלֵּל֙ לְאַבְרָהָ֔ם הֵינִ֥יקָה בָנִ֖ים שָׂרָ֑ה כִּֽי־ יָלַ֥דְתִּי בֵ֖ן לִזְקֻנָֽיו׃"
+pericope: "[[Gen.21.1 The Birth of Isaac|The Birth of Isaac]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 21
+book/chapter: "[[Gen.21|Genesis 21]]"
+chronological_order: 63
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H4448A]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H3243]]"
+- "[[H1121A]]"
+- "[[H8283]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3205]]"
+- "[[H2208]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 21:7**<big><big>[[Gen.21.1 The Birth of Isaac|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born [him] a son in his old age.
 <small><sub>**BSB:**</sub></small>
 She added, “Who would have told Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H4310\|מִ֤י]] [[H4448A\|מִלֵּל֙]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֔ם]] [[H3243\|הֵינִ֥יקָה]] [[H1121A\|בָנִ֖ים]] [[H8283\|שָׂרָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3205\|יָלַ֥דְתִּי]] [[H1121A\|בֵ֖ן]] [[H9005\|לִ]][[H2208\|זְקֻנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAAC|ISAAC]] • [[topic ISHMAEL|ISHMAEL]] • [[topic SARAH|SARAH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.21.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.21.6|<< Genesis 21:6]]</td><td align="center" style="border:none;">[[Gen.21|Genesis 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.21.8|Genesis 21:8 >>]]</td></tr></table>
 

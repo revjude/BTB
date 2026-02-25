@@ -1,8 +1,57 @@
+---
+title: Psalm 9:18
+type: Verse
+kjv: "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever."
+bsb: "For the needy will not always be forgotten; nor the hope of the oppressed forever dashed."
+hebrew: "כִּ֤י לֹ֣א לָ֭נֶצַח יִשָּׁכַ֣ח אֶבְי֑וֹן תִּקְוַ֥ת עֲ֝נִיִּ֗ים תֹּאבַ֥ד לָעַֽד׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HOPE|HOPE]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H7911]]"
+- "[[H0034]]"
+- "[[H8615B]]"
+- "[[H6035]]"
+- "[[H6041]]"
+- "[[H0006]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Psalms 9:18**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the needy shall not alway be forgotten: the expectation of the poor shall [not] perish for ever.
 <small><sub>**BSB:**</sub></small>
 For the needy will not always be forgotten; nor the hope of the oppressed forever dashed.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3808\|לֹ֣א]] [[H9005\|לָ֭]][[H5331\|נֶצַח]] [[H7911\|יִשָּׁכַ֣ח]] [[H0034\|אֶבְי֑וֹן]] [[H8615B\|תִּקְוַ֥ת]] [[H6041\|עֲ֝נִיִּ֗ים]] [[H0006\|תֹּאבַ֥ד]] [[H9005\|לָ]][[H5703\|עַֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOPE|HOPE]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.17|<< Psalms 9:17]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.19|Psalms 9:19 >>]]</td></tr></table>
 

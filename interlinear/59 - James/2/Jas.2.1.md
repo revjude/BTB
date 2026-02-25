@@ -1,10 +1,56 @@
+---
+title: James 2:1
+type: Verse
+kjv: "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
+bsb: "My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism."
+greek: "Ἀδελφοί μου, μὴ ἐν προσωπολημψίαις ἔχετε τὴν πίστιν τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ τῆς δόξης."
+pericope: "[[Jas.2.1 A Warning against Favoritism|A Warning against Favoritism]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G3361]]"
+- "[[G1722]]"
+- "[[G4382]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1391]]"
+texts:
+- NKO
+---
+
 **James 2:1**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 My brethren, have not the faith of our Lord Jesus Christ, [the Lord] of glory, with respect of persons.
 <small><sub>**BSB:**</sub></small>
 My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism.
-<small><sub>**Literal:**</sub></small>
-Brothers of Mine, not with partiality do hold the faith of the Lord of us Jesus Christ <the> of glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.27|<< James 1:27]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.2|James 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0080\|Ἀδελφοί]]  [[G3165\|μου,]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G4382\|προσωπολημψίαις]]  [[G2192\|ἔχετε]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τῆς]]  [[G1391\|δόξης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.27|<< James 1:27]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.2|James 2:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **James 2:1** is...
 > $\quad$ alluding to: [[LXX.Lev.19.15|Lev 19:15]] ☩ [[LXX.Prov.24.23|Prov 24:23]]

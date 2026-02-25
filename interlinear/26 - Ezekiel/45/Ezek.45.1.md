@@ -1,8 +1,73 @@
+---
+title: Ezekiel 45:1
+type: Verse
+kjv: "Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length shall be the length of five and twenty thousand reeds, and the breadth shall be ten thousand. This shall be holy in all the borders thereof round about."
+bsb: "“When you divide the land by lot as an inheritance, you are to set aside a portion for the LORD, a holy portion of the land 25,000 cubits long and 20,000 cubits wide. This entire tract of land will be holy."
+hebrew: "וּבְהַפִּֽילְכֶ֨ם אֶת־ הָאָ֜רֶץ בְּנַחֲלָ֗ה תָּרִימוּ֩ תְרוּמָ֨ה לַיהוָ֥ה׀ קֹדֶשׁ֮ מִן־ הָאָרֶץ֒ אֹ֗רֶךְ חֲמִשָּׁ֨ה וְעֶשְׂרִ֥ים אֶ֙לֶף֙ אֹ֔רֶךְ וְרֹ֖חַב עֲשָׂ֣רָה אָ֑לֶף קֹדֶשׁ־ ה֥וּא בְכָל־ גְּבוּלָ֖הּ סָבִֽיב׃"
+pericope: "[[Ezek.45.1 Consecration of the Land|Consecration of the Land]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic REED|REED]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5307I]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H5159]]"
+- "[[H7311A]]"
+- "[[H8641]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H6944G]]"
+- "[[H4480A]]"
+- "[[H0753]]"
+- "[[H2568]]"
+- "[[H6242]]"
+- "[[H0505G]]"
+- "[[H7341]]"
+- "[[H6235]]"
+- "[[H1931]]"
+- "[[H3605]]"
+- "[[H1366G]]"
+- "[[H9024]]"
+- "[[H5439I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:1**<big><big>[[Ezek.45.1 Consecration of the Land|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length [shall be] the length of five and twenty thousand [reeds], and the breadth [shall be] ten thousand. This [shall be] holy in all the borders thereof round about.
 <small><sub>**BSB:**</sub></small>
 “When you divide the land by lot as an inheritance, you are to set aside a portion for the LORD, a holy portion of the land 25,000 cubits long and 20,000 cubits wide. This entire tract of land will be holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H5307I\|הַפִּֽילְ]][[H9046\|כֶ֨ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H9003\|בְּ]][[H5159\|נַחֲלָ֗ה]] [[H7311A\|תָּרִימוּ֩]] [[H8641\|תְרוּמָ֨ה]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]][[H9015\|׀]] [[H6944G\|קֹדֶשׁ֮]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָרֶץ֒]] [[H0753\|אֹ֗רֶךְ]] [[H2568\|חֲמִשָּׁ֨ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אֶ֙לֶף֙]] [[H0753\|אֹ֔רֶךְ]] [[H9002\|וְ]][[H7341\|רֹ֖חַב]] [[H6235\|עֲשָׂ֣רָה]] [[H0505G\|אָ֑לֶף]] [[H6944G\|קֹדֶשׁ]][[H9014\|־]] [[H1931\|ה֥וּא]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H1366G\|גְּבוּלָ֖]][[H9024\|הּ]] [[H5439I\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOT, THE|LOT, THE]] • [[topic PRIEST|PRIEST]] • [[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.31|<< Ezekiel 44:31]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.2|Ezekiel 45:2 >>]]</td></tr></table>
 

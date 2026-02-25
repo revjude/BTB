@@ -1,8 +1,63 @@
+---
+title: Numbers 3:34
+type: Verse
+kjv: "And those that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand and two hundred."
+bsb: "The number of all the males a month old or more was 6,200."
+hebrew: "וּפְקֻדֵיהֶם֙ בְּמִסְפַּ֣ר כָּל־ זָכָ֔ר מִבֶּן־ חֹ֖דֶשׁ וָמָ֑עְלָה שֵׁ֥שֶׁת אֲלָפִ֖ים וּמָאתָֽיִם׃"
+pericope: "[[Num.3.33 The Merarites|The Merarites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MERARI|MERARI]]"
+strongs:
+- "[[H9002]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2145]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H2320G]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H8337]]"
+- "[[H0505G]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:34**<big><big>[[Num.3.33 The Merarites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those that were numbered of them, according to the number of all the males, from a month old and upward, [were] six thousand and two hundred.
 <small><sub>**BSB:**</sub></small>
 The number of all the males a month old or more was 6,200.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6485A\|פְקֻדֵי]][[H9028\|הֶם֙]] [[H9003\|בְּ]][[H4557\|מִסְפַּ֣ר]] [[H3605\|כָּל]][[H9014\|־]] [[H2145\|זָכָ֔ר]] [[H9006\|מִ]][[H1121L\|בֶּן]][[H9014\|־]] [[H2320G\|חֹ֖דֶשׁ]] [[H9002\|וָ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H8337\|שֵׁ֥שֶׁת]] [[H0505G\|אֲלָפִ֖ים]] [[H9002\|וּ]][[H3967\|מָאתָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic LEVITES|LEVITES]] • [[topic MERARI|MERARI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.33|<< Numbers 3:33]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.35|Numbers 3:35 >>]]</td></tr></table>
 

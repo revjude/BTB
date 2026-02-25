@@ -1,6 +1,74 @@
+---
+title: LXX Joshua 22:33
+type: Verse
+lxx: "And the word was pleasing to the sons of Israel; and they blessed the God of the sons of Israel. And no longer they spoke to ascend to them for war, to utterly destroy the land of the sons of Reuben and the sons of Gad which they dwelt upon it."
+greek: "και ήρεσεν ο λόγος τοις υιοίς Ισραήλ και ευλόγησαν τον θεόν υιών Ισραήλ και ουκ έτι είπαν αναβήναι προς αυτούς εις πόλεμον εξολοθρεύσαι την γην των υιών Ρουβήν και των υιών Γαδ ην κατώκησαν επ΄ αυτής"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HASTE|HASTE]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G0700]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G2127]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G3765]]"
+- "[[G2036]]"
+- "[[G0305]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G4171]]"
+- "[[G1842]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G4502]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1045]]"
+- "[[G3739]]"
+- "[[G2730]]"
+- "[[G1909]]"
+- "[[G1473]]"
+---
+
 **LXX Joshua 22:33** 
 <small><sub>**LXX:**</sub></small>
 And the word was pleasing to the sons of Israel; and they blessed the God of \[the\] sons of Israel. And no longer they spoke to ascend to them for war, to utterly destroy the land of the sons of Reuben and the sons of Gad which they dwelt upon it. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0700\|ήρεσεν]] [[G3588\|ο]] [[G3056\|λόγος]] [[G3588\|τοις]] [[G5207\|υιοίς]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G2127\|ευλόγησαν]] [[G3588\|τον]] [[G2316\|θεόν]] [[G5207\|υιών]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G3765\|ουκ έτι]] [[G2036\|είπαν]] [[G0305\|αναβήναι]] [[G4314\|προς]] [[G1473\|αυτούς]] [[G1519\|εις]] [[G4171\|πόλεμον]] [[G1842\|εξολοθρεύσαι]] [[G3588\|την]] [[G1093\|γην]] [[G3588\|των]] [[G5207\|υιών]] [[G4502\|Ρουβήν]] [[G2532\|και]] [[G3588\|των]] [[G5207\|υιών]] [[G1045\|Γαδ]] [[G3739\|ην]] [[G2730\|κατώκησαν]] [[G1909\|επ΄]] [[G1473\|αυτής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HASTE|HASTE]] • [[topic MOTIVE|MOTIVE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.22.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.32|<< Joshua 22:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.34|Joshua 22:34 >>]]</td></tr></table>
 
@@ -41,6 +109,6 @@ And the word was pleasing to the sons of Israel; and they blessed the God of \[t
 | they dwelt | **<big>[[G2730\|κατώκησαν]]</big>** |
 | upon | **<big>[[G1909\|επ΄]]</big>** |
 | it. | **<big>[[G1473\|αυτής]]</big>** |
-[[Josh.22.33|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.32|<< Joshua 22:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.34|Joshua 22:34 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.22.32|<< Joshua 22:32]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.22.34|Joshua 22:34 >>]]</td></tr></table>
 
 

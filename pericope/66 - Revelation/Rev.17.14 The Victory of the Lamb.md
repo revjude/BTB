@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Victory of the Lamb
+type: Pericope
 pericope: "[[Rev.17.14 The Victory of the Lamb|The Victory of the Lamb]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 17
 book/chapter: "[[Rev.17|Revelation 17]]"
-genre:
+chronological_order: 1184
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 5
 verses:
 - "[[Rev.17.14]]"
 - "[[Rev.17.15]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rev.17.18]]"
 ---
 
-[[Rev.17|Revelation 17:14 - Revelation 17:18]]
+<small>[[Rev.17|Revelation 17:14-18]]</small>
 *The Victory of the Lamb*
 
 [[Rev.17.14|14]] These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him \[are\] called, and chosen, and faithful.

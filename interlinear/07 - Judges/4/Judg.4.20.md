@@ -1,8 +1,66 @@
+---
+title: Judges 4:20
+type: Verse
+kjv: "Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and inquire of thee, and say, Is there any man here? that thou shalt say, No."
+bsb: "“Stand at the entrance to the tent,” he said, “and if anyone comes and asks you, ‘Is there a man here?’ say, ‘No.’”"
+hebrew: "וַיֹּ֣אמֶר אֵלֶ֔יהָ עֲמֹ֖ד פֶּ֣תַח הָאֹ֑הֶל וְהָיָה֩ אִם־ אִ֨ישׁ יָב֜וֹא וּשְׁאֵלֵ֗ךְ וְאָמַ֛ר הֲיֵֽשׁ־ פֹּ֥ה אִ֖ישׁ וְאָמַ֥רְתְּ אָֽיִן׃"
+pericope: "[[Judg.4.17 Jael Kills Sisera|Jael Kills Sisera]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JAEL|JAEL]]"
+- "[[topic KENITES|KENITES]]"
+- "[[topic TREACHERY|TREACHERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H5975G]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H0935G]]"
+- "[[H7592]]"
+- "[[H9032]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H6311]]"
+- "[[H0369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:20**<big><big>[[Judg.4.17 Jael Kills Sisera|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and inquire of thee, and say, Is there any man here? that thou shalt say, No.
 <small><sub>**BSB:**</sub></small>
 “Stand at the entrance to the tent,” he said, “and if anyone comes and asks you, ‘Is there a man here?’ say, ‘No.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H5975G\|עֲמֹ֖ד]] [[H6607\|פֶּ֣תַח]] [[H9009\|הָ]][[H0168G\|אֹ֑הֶל]] [[H9001\|וְ]][[H1961\|הָיָה֩]] [[H0518A\|אִם]][[H9014\|־]] [[H0376I\|אִ֨ישׁ]] [[H0935G\|יָב֜וֹא]] [[H9001\|וּ]][[H7592\|שְׁאֵלֵ֗]][[H9032\|ךְ]] [[H9001\|וְ]][[H0559\|אָמַ֛ר]] [[H9008\|הֲ]][[H3426\|יֵֽשׁ]][[H9014\|־]] [[H6311\|פֹּ֥ה]] [[H0376I\|אִ֖ישׁ]] [[H9001\|וְ]][[H0559\|אָמַ֥רְתְּ]] [[H0369\|אָֽיִן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic COURAGE|COURAGE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JAEL|JAEL]] • [[topic KENITES|KENITES]] • [[topic TREACHERY|TREACHERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.19|<< Judges 4:19]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.21|Judges 4:21 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Acts 6:2
+type: Verse
+kjv: "Then the twelve called the multitude of the disciples unto them, and said, It is not reason that we should leave the word of God, and serve tables."
+bsb: "So the Twelve summoned all the disciples and said, “It is unacceptable for us to neglect the word of God in order to wait on tables."
+greek: "προσκαλεσάμενοι δὲ οἱ δώδεκα τὸ πλῆθος τῶν μαθητῶν εἶπαν· οὐκ ἀρεστόν ἐστιν ἡμᾶς καταλείψαντας τὸν λόγον τοῦ θεοῦ διακονεῖν τραπέζαις."
+pericope: "[[Acts.6.1 The Choosing of the Seven|The Choosing of the Seven]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 6
+book/chapter: "[[Acts.6|Acts 6]]"
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEACON|DEACON]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[G4341]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1427]]"
+- "[[G4128]]"
+- "[[G3101]]"
+- "[[G2036]]"
+- "[[G3756]]"
+- "[[G0701]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G2641]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G1247]]"
+- "[[G5132]]"
+texts:
+- NKO
+---
+
 **Acts 6:2**<big><big>[[Acts.6.1 The Choosing of the Seven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the twelve called the multitude of the disciples [unto them], and said, It is not reason that we should leave the word of God, and serve tables.
 <small><sub>**BSB:**</sub></small>
 So the Twelve summoned all the disciples and said, “It is unacceptable for us to neglect the word of God in order to wait on tables.
-<small><sub>**Literal:**</sub></small>
-Having called near then the Twelve the multitude of the disciples they said; Not desirable it is [for] us having neglected the word <the> of God to attend at tables.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.1|<< Acts 6:1]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.3|Acts 6:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4341\|προσκαλεσάμενοι]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G1427\|δώδεκα]]  [[G3588\|τὸ]]  [[G4128\|πλῆθος]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G2036\|εἶπαν·]]  [[G3756\|οὐκ]]  [[G0701\|ἀρεστόν]]  [[G1510\|ἐστιν]]  [[G3165\|ἡμᾶς]]  [[G2641\|καταλείψαντας]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1247\|διακονεῖν]]  [[G5132\|τραπέζαις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic CHURCH|CHURCH]] • [[topic DEACON|DEACON]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TABLE|TABLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.1|<< Acts 6:1]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.3|Acts 6:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

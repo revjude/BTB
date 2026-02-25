@@ -1,10 +1,59 @@
+---
+title: Acts 5:1
+type: Verse
+kjv: "But a certain man named Ananias, with Sapphira his wife, sold a possession,"
+bsb: "Now a man named Ananias, together with his wife Sapphira, also sold a piece of property."
+greek: "Ἀνὴρ δέ τις Ἁνανίας ὀνόματι σὺν Σαπφίρῃ τῇ γυναικὶ αὐτοῦ ἐπώλησεν κτῆμα"
+pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAPPHIRA|SAPPHIRA]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[G0435G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G0367G]]"
+- "[[G3686]]"
+- "[[G4862]]"
+- "[[G4551]]"
+- "[[G3588]]"
+- "[[G1135H]]"
+- "[[G0846]]"
+- "[[G4453]]"
+- "[[G2933]]"
+texts:
+- NKO
+---
+
 **Acts 5:1**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But a certain man named Ananias, with Sapphira his wife, sold a possession,
 <small><sub>**BSB:**</sub></small>
 Now a man named Ananias, together with his wife Sapphira, also sold a piece of property.
-<small><sub>**Literal:**</sub></small>
-A man now certain Ananias named with Sapphira the wife of him sold a property<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.37|<< Acts 4:37]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.2|Acts 5:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0435G\|Ἀνὴρ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G0367G\|Ἁνανίας]]  [[G3686\|ὀνόματι]]  [[G4862\|σὺν]]  [[G4551\|Σαπφίρῃ]]  [[G3588\|τῇ]]  [[G1135H\|γυναικὶ]]  [[G0846\|αὐτοῦ]]  [[G4453\|ἐπώλησεν]]  [[G2933\|κτῆμα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic COMMUNISM|COMMUNISM]] • [[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LAND|LAND]] • [[topic PETER|PETER]] • [[topic SAPPHIRA|SAPPHIRA]] • [[topic VOWS|VOWS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.37|<< Acts 4:37]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.2|Acts 5:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

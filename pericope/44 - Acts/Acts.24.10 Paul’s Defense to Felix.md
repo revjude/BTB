@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Defense to Felix
+type: Pericope
 pericope: "[[Acts.24.10 Paul’s Defense to Felix|Paul’s Defense to Felix]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Acts
 chapter: 24
 book/chapter: "[[Acts.24|Acts 24]]"
-genre:
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 12
 verses:
 - "[[Acts.24.10]]"
 - "[[Acts.24.11]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Acts.24.21]]"
 ---
 
-[[Acts.24|Acts 24:10 - Acts 24:21]]
+<small>[[Acts.24|Acts 24:10-21]]</small>
 *Paul’s Defense to Felix*
 
 [[Acts.24.10|10]] Then Paul, after that the governor had beckoned unto him to speak, answered, Forasmuch as I know that thou hast been of many years a judge unto this nation, I do the more cheerfully answer for myself:

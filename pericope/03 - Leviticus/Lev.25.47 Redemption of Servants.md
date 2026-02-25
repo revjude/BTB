@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Redemption of Servants
+type: Pericope
 pericope: "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 25
 book/chapter: "[[Lev.25|Leviticus 25]]"
-genre:
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 9
 verses:
 - "[[Lev.25.47]]"
 - "[[Lev.25.48]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Lev.25.55]]"
 ---
 
-[[Lev.25|Leviticus 25:47 - Leviticus 25:55]]
+<small>[[Lev.25|Leviticus 25:47-55]]</small>
 *Redemption of Servants*
 
 [[Lev.25.47|47]] And if a sojourner or stranger wax rich by thee, and thy brother \[that dwelleth\] by him wax poor, and sell himself unto the stranger \[or\] sojourner by thee, or to the stock of the stranger’s family:

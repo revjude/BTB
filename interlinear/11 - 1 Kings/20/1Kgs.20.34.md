@@ -1,8 +1,80 @@
+---
+title: 1 Kings 20:34
+type: Verse
+kjv: "And Benhadad said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then said Ahab, I will send thee away with this covenant. So he made a covenant with him, and sent him away."
+bsb: "Ben-hadad said to him, “I will restore the cities my father took from your father; you may set up your own marketplaces in Damascus, as my father did in Samaria.” “By this treaty I release you,” Ahab replied. So he made a treaty with him and sent him away."
+hebrew: "וַיֹּ֣אמֶר אֵלָ֡יו הֶעָרִ֣ים אֲשֶׁר־ לָֽקַח־ אָבִי֩ מֵאֵ֨ת אָבִ֜יךָ אָשִׁ֗יב וְ֠חוּצוֹת תָּשִׂ֨ים לְךָ֤ בְדַמֶּ֙שֶׂק֙ כַּאֲשֶׁר־ שָׂ֤ם אָבִי֙ בְּשֹׁ֣מְר֔וֹן וַאֲנִ֖י בַּבְּרִ֣ית אֲשַׁלְּחֶ֑ךָּ וַיִּכְרָת־ ל֥וֹ בְרִ֖ית וַֽיְשַׁלְּחֵֽהוּ׃ ס"
+pericope: "[[1Kgs.20.31 Ahab Spares Ben-hadad|Ahab Spares Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAMASCUS|DAMASCUS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OMRI|OMRI]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9021]]"
+- "[[H7725H]]"
+- "[[H9002]]"
+- "[[H2351]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H1834]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H8111]]"
+- "[[H0589]]"
+- "[[H1285]]"
+- "[[H7971H]]"
+- "[[H3772H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Kings 20:34**<big><big>[[1Kgs.20.31 Ahab Spares Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [Benhadad] said unto him, The cities, which my father took from thy father, I will restore; and thou shalt make streets for thee in Damascus, as my father made in Samaria. Then [said Ahab], I will send thee away with this covenant. So he made a covenant with him, and sent him away.
 <small><sub>**BSB:**</sub></small>
 Ben-hadad said to him, “I will restore the cities my father took from your father; you may set up your own marketplaces in Damascus, as my father did in Samaria.” “By this treaty I release you,” Ahab replied. So he made a treaty with him and sent him away.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֡י]][[H9033\|ו]] [[H9009\|הֶ]][[H5892B\|עָרִ֣ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3947G\|לָֽקַח]][[H9014\|־]] [[H0001G\|אָבִ]][[H9020\|י֩]] [[H9006\|מֵ]][[H0854\|אֵ֨ת]] [[H0001G\|אָבִ֜י]][[H9021\|ךָ]] [[H7725H\|אָשִׁ֗יב]] [[H9002\|וְ֠]][[H2351\|חוּצוֹת]] [[H7760A\|תָּשִׂ֨ים]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H9003\|בְ]][[H1834\|דַמֶּ֙שֶׂק֙]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H7760A\|שָׂ֤ם]] [[H0001G\|אָבִ]][[H9020\|י֙]] [[H9003\|בְּ]][[H8111\|שֹׁ֣מְר֔וֹן]] [[H9002\|וַ]][[H0589\|אֲנִ֖י]] [[H9003\|בַּ]][[H1285\|בְּרִ֣ית]] [[H7971H\|אֲשַׁלְּחֶ֑]][[H9031\|ךָּ]] [[H9001\|וַ]][[H3772H\|יִּכְרָת]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1285\|בְרִ֖ית]] [[H9001\|וַֽ]][[H7971H\|יְשַׁלְּחֵֽ]][[H9033\|הוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAMASCUS|DAMASCUS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic KINDNESS|KINDNESS]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OMRI|OMRI]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.33|<< 1 Kings 20:33]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.35|1 Kings 20:35 >>]]</td></tr></table>
 
@@ -31,7 +103,7 @@ Ben-hadad said to him, “I will restore the cities my father took from your fat
 | and he made  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H3772H\|יִּכְרָת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yikh.rot-<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to him  |**<big>&#8207;[[H9005\|ל֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a covenant  |**<big>&#8207;[[H1285\|בְרִ֖ית]]&#8207; </big>**| ve.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he let go him  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7971H\|יְשַׁלְּחֵֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> y.sha.le.Che.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he let go him  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H7971H\|יְשַׁלְּחֵֽ]]&#8207;&#8207;[[H9033\|הוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Va<small><sup>[[Hc]]</sup></small> y.sha.le.Che.<small><sup>[[HVpw3ms]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.33|<< 1 Kings 20:33]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.35|1 Kings 20:35 >>]]</td></tr></table>
 
 

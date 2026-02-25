@@ -1,10 +1,69 @@
+---
+title: Matthew 17:17
+type: Verse
+kjv: "Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me."
+bsb: "“O unbelieving and perverse generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy here to Me.”"
+jesus_said: "O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me."
+greek: "Ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν· ὦ γενεὰ ἄπιστος καὶ διεστραμμένη, ἕως πότε μεθ᾽ ὑμῶν ἔσομαι; ἕως πότε ἀνέξομαι ὑμῶν; φέρετέ μοι αὐτὸν ὧδε."
+pericope: "[[Matt.17.14 The Boy with a Demon|The Boy with a Demon]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G5599]]"
+- "[[G1074]]"
+- "[[G0571]]"
+- "[[G2532]]"
+- "[[G1294]]"
+- "[[G2193]]"
+- "[[G4219]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G0430]]"
+- "[[G5342]]"
+- "[[G3165]]"
+- "[[G0846]]"
+- "[[G5602]]"
+texts:
+- NKO
+---
+
 **Matthew 17:17**<big><big>[[Matt.17.14 The Boy with a Demon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Jesus answered and said, O faithless and perverse generation, how long shall I be with you? how long shall I suffer you? bring him hither to me.
 <small><sub>**BSB:**</sub></small>
 “O unbelieving and perverse generation!” Jesus replied. “How long must I remain with you? How long must I put up with you? Bring the boy here to Me.”
-<small><sub>**Literal:**</sub></small>
-Answering now <the> Jesus said; O generation unbelieving and perverted, until when with you will I be? Until when will I bear with you? do bring to Me him here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.16|<< Matthew 17:16]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.18|Matthew 17:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G5599\|ὦ]]  [[G1074\|γενεὰ]]  [[G0571\|ἄπιστος]]  [[G2532\|καὶ]]  [[G1294\|διεστραμμένη,]]  [[G2193\|ἕως]]  [[G4219\|πότε]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G1510\|ἔσομαι;]]  [[G2193\|ἕως]]  [[G4219\|πότε]]  [[G0430\|ἀνέξομαι]]  [[G4771\|ὑμῶν;]]  [[G5342\|φέρετέ]]  [[G3165\|μοι]]  [[G0846\|αὐτὸν]]  [[G5602\|ὧδε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHIDING|CHIDING]] • [[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.16|<< Matthew 17:16]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.18|Matthew 17:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

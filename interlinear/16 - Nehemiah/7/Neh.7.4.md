@@ -1,8 +1,52 @@
+---
+title: Nehemiah 7:4
+type: Verse
+kjv: "Now the city was large and great: but the people were few therein, and the houses were not builded."
+bsb: "Now the city was large and spacious, but there were few people in it, and the houses had not yet been rebuilt."
+hebrew: "וְהָעִ֞יר רַחֲבַ֤ת יָדַ֙יִם֙ וּגְדוֹלָ֔ה וְהָעָ֥ם מְעַ֖ט בְּתוֹכָ֑הּ וְאֵ֥ין בָּתִּ֖ים בְּנוּיִֽם׃"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H7342H]]"
+- "[[H3027Q]]"
+- "[[H1419A]]"
+- "[[H5971A]]"
+- "[[H4592]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9024]]"
+- "[[H0369]]"
+- "[[H1004B]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 7:4**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the city [was] large and great: but the people [were] few therein, and the houses [were] not builded.
 <small><sub>**BSB:**</sub></small>
 Now the city was large and spacious, but there were few people in it, and the houses had not yet been rebuilt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H5892B\|עִ֞יר]] [[H7342H\|רַחֲבַ֤ת]] [[H3027Q\|יָדַ֙יִם֙]] [[H9002\|וּ]][[H1419A\|גְדוֹלָ֔ה]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H4592\|מְעַ֖ט]] [[H9003\|בְּ]][[H8432\|תוֹכָ֑]][[H9024\|הּ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H1004B\|בָּתִּ֖ים]] [[H1129\|בְּנוּיִֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.3|<< Nehemiah 7:3]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.5|Nehemiah 7:5 >>]]</td></tr></table>
 

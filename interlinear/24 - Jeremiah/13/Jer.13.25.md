@@ -1,8 +1,63 @@
+---
+title: Jeremiah 13:25
+type: Verse
+kjv: "This is thy lot, the portion of thy measures from me, saith the LORD; because thou hast forgotten me, and trusted in falsehood."
+bsb: "This is your lot, the portion I have measured to you,” declares the LORD, “because you have forgotten Me and trusted in falsehood."
+hebrew: "זֶ֣ה גוֹרָלֵ֧ךְ מְנָת־ מִדַּ֛יִךְ מֵֽאִתִּ֖י נְאֻם־ יְהוָ֑ה אֲשֶׁר֙ שָׁכַ֣חַתְּ אוֹתִ֔י וַֽתִּבְטְחִ֖י בַּשָּֽׁקֶר׃"
+pericope: "[[Jer.13.15 Captivity Threatened|Captivity Threatened]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H2088]]"
+- "[[H1486]]"
+- "[[H9022]]"
+- "[[H4521]]"
+- "[[H9014]]"
+- "[[H4055]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H7911]]"
+- "[[H0853]]"
+- "[[H9001]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 13:25**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] thy lot, the portion of thy measures from me, saith the LORD; because thou hast forgotten me, and trusted in falsehood.
 <small><sub>**BSB:**</sub></small>
 This is your lot, the portion I have measured to you,” declares the LORD, “because you have forgotten Me and trusted in falsehood.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֣ה]] [[H1486\|גוֹרָלֵ֧]][[H9022\|ךְ]] [[H4521\|מְנָת]][[H9014\|־]] [[H4055\|מִדַּ֛יִ]][[H9022\|ךְ]] [[H9006\|מֵֽ]][[H0854\|אִתִּ֖]][[H9030\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁר֙]] [[H7911\|שָׁכַ֣חַתְּ]] [[H0853\|אוֹתִ֔]][[H9030\|י]] [[H9001\|וַֽ]][[H0982\|תִּבְטְחִ֖י]] [[H9003\|בַּ]][[H8267\|שָּֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.24|<< Jeremiah 13:24]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.26|Jeremiah 13:26 >>]]</td></tr></table>
 

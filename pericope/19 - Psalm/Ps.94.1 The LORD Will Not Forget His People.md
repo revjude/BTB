@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Will Not Forget His People
+type: Pericope
 pericope: "[[Ps.94.1 The LORD Will Not Forget His People|The LORD Will Not Forget His People]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 94
 book/chapter: "[[Ps.94|Psalm 94]]"
-genre:
+chronological_order: 521
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 23
 verses:
 - "[[Ps.94.1]]"
 - "[[Ps.94.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Ps.94.23]]"
 ---
 
-[[Ps.94|Psalm 94:1 - Psalm 94:23]]
+<small>[[Ps.94|Psalm 94:1-23]]</small>
 *The LORD Will Not Forget His People*
 
 [[Ps.94.1|1]] O LORD God, to whom vengeance belongeth; O God, to whom vengeance belongeth, shew thyself.

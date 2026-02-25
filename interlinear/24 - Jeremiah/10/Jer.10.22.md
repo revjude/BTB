@@ -1,8 +1,66 @@
+---
+title: Jeremiah 10:22
+type: Verse
+kjv: "Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, and a den of dragons."
+bsb: "Listen! The sound of a report is coming—a great commotion from the land to the north. It will make the cities of Judah a desolation, a haunt for jackals."
+hebrew: "ק֤וֹל שְׁמוּעָה֙ הִנֵּ֣ה בָאָ֔ה וְרַ֥עַשׁ גָּד֖וֹל מֵאֶ֣רֶץ צָפ֑וֹן לָשׂ֞וּם אֶת־ עָרֵ֧י יְהוּדָ֛ה שְׁמָמָ֖ה מְע֥וֹן תַּנִּֽים׃ ס"
+pericope: "[[Jer.10.17 The Coming Captivity of Judah|The Coming Captivity of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H6963A]]"
+- "[[H8052]]"
+- "[[H2009]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H7494]]"
+- "[[H1419A]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H6828G]]"
+- "[[H9005]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H8077A]]"
+- "[[H4583]]"
+- "[[H8577A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 10:22**<big><big>[[Jer.10.17 The Coming Captivity of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the noise of the bruit is come, and a great commotion out of the north country, to make the cities of Judah desolate, [and] a den of dragons.
 <small><sub>**BSB:**</sub></small>
 Listen! The sound of a report is coming—a great commotion from the land to the north. It will make the cities of Judah a desolation, a haunt for jackals.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֤וֹל]] [[H8052\|שְׁמוּעָה֙]] [[H2009\|הִנֵּ֣ה]] [[H0935G\|בָאָ֔ה]] [[H9002\|וְ]][[H7494\|רַ֥עַשׁ]] [[H1419A\|גָּד֖וֹל]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H6828G\|צָפ֑וֹן]] [[H9005\|לָ]][[H7760A\|שׂ֞וּם]] [[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עָרֵ֧י]] [[H3063G\|יְהוּדָ֛ה]] [[H8077A\|שְׁמָמָ֖ה]] [[H4583\|מְע֥וֹן]] [[H8577A\|תַּנִּֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.21|<< Jeremiah 10:21]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.23|Jeremiah 10:23 >>]]</td></tr></table>
 
@@ -22,7 +80,7 @@ Listen! The sound of a report is coming—a great commotion from the land to the
 | Judah  |**<big>&#8207;[[H3063G\|יְהוּדָ֛ה]]&#8207; </big>**| ye.hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a desolation  |**<big>&#8207;[[H8077A\|שְׁמָמָ֖ה]]&#8207; </big>**| she.ma.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a habitation of  |**<big>&#8207;[[H4583\|מְע֥וֹן]]&#8207; </big>**| me.'on<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| jackals  |**<big>&#8207;[[H8577A\|תַּנִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ta.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| jackals  |**<big>&#8207;[[H8577A\|תַּנִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ta.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.21|<< Jeremiah 10:21]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.23|Jeremiah 10:23 >>]]</td></tr></table>
 
 

@@ -1,8 +1,64 @@
+---
+title: Hosea 4:14
+type: Verse
+kjv: "I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall."
+bsb: "I will not punish your daughters when they prostitute themselves, nor your daughters-in-law when they commit adultery. For the men themselves go off with prostitutes and offer sacrifices with shrine prostitutes. So a people without understanding will come to ruin."
+hebrew: "לֹֽא־ אֶפְק֨וֹד עַל־ בְּנוֹתֵיכֶ֜ם כִּ֣י תִזְנֶ֗ינָה וְעַל־ כַּלּֽוֹתֵיכֶם֙ כִּ֣י תְנָאַ֔פְנָה כִּי־ הֵם֙ עִם־ הַזֹּנ֣וֹת יְפָרֵ֔דוּ וְעִם־ הַקְּדֵשׁ֖וֹת יְזַבֵּ֑חוּ וְעָ֥ם לֹֽא־ יָבִ֖ין יִלָּבֵֽט׃"
+pericope: "[[Hos.4.1 God’s Case against His People|God’s Case against His People]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 4
+book/chapter: "[[Hos.4|Hosea 4]]"
+chronological_order: 645
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic SODOMITES|SODOMITES]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6485H]]"
+- "[[H5921A]]"
+- "[[H1323G]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H2181]]"
+- "[[H9002]]"
+- "[[H3618G]]"
+- "[[H5003]]"
+- "[[H1992]]"
+- "[[H5973A]]"
+- "[[H9009]]"
+- "[[H6504]]"
+- "[[H6948]]"
+- "[[H2076]]"
+- "[[H5971A]]"
+- "[[H0995]]"
+- "[[H3832]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 4:14**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people [that] doth not understand shall fall.
 <small><sub>**BSB:**</sub></small>
 I will not punish your daughters when they prostitute themselves, nor your daughters-in-law when they commit adultery. For the men themselves go off with prostitutes and offer sacrifices with shrine prostitutes. So a people without understanding will come to ruin.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H6485H\|אֶפְק֨וֹד]] [[H5921A\|עַל]][[H9014\|־]] [[H1323G\|בְּנוֹתֵי]][[H9026\|כֶ֜ם]] [[H3588A\|כִּ֣י]] [[H2181\|תִזְנֶ֗ינָה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3618G\|כַּלּֽוֹתֵי]][[H9026\|כֶם֙]] [[H3588A\|כִּ֣י]] [[H5003\|תְנָאַ֔פְנָה]] [[H3588A\|כִּי]][[H9014\|־]] [[H1992\|הֵם֙]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H2181\|זֹּנ֣וֹת]] [[H6504\|יְפָרֵ֔דוּ]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H6948\|קְּדֵשׁ֖וֹת]] [[H2076\|יְזַבֵּ֑חוּ]] [[H9002\|וְ]][[H5971A\|עָ֥ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0995\|יָבִ֖ין]] [[H3832\|יִלָּבֵֽט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic SODOMITES|SODOMITES]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.13|<< Hosea 4:13]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.15|Hosea 4:15 >>]]</td></tr></table>
 

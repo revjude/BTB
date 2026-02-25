@@ -1,6 +1,74 @@
+---
+title: LXX Judges 14:15
+type: Verse
+lxx: "And it came to pass in the seventh day, and they spoke to the wife of Samson, saying, Deceive indeed  your husband! and let him explain to you the riddle, lest at any time we should burn you and the house  of your father by fire; or did you call us to make us poor?"
+greek: "και εγένετο εν τη ημέρα τη εβδόμη και είπαν τη γυναικί Σαμψών απάτησον δη τον άνδρα σου και απαγγειλάτω σοι το πρόβλημα μή ποτε εμπυρίσωμέν σε και τον οίκον του πατρός σου εν πυρί η πτωχεύσαι εκαλέσατε ημάς"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETTING|BETTING]]"
+- "[[topic RIDDLE|RIDDLE]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G1442]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G4546]]"
+- "[[G0538]]"
+- "[[G1211]]"
+- "[[G3588]]"
+- "[[G0435]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0518]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G8892]]"
+- "[[G3379]]"
+- "[[G7207]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G4442]]"
+- "[[G2228]]"
+- "[[G4433]]"
+- "[[G2564]]"
+- "[[G1473]]"
+---
+
 **LXX Judges 14:15** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass in the seventh day, and they spoke to the wife of Samson, \[saying\], Deceive indeed  your husband! and let him explain to you the riddle, lest at any time we should burn you and the house  of your father by fire; or did you call us to make us poor? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3588\|τη]] [[G1442\|εβδόμη]] [[G2532\|και]] [[G2036\|είπαν]] [[G3588\|τη]] [[G1135\|γυναικί]] [[G4546\|Σαμψών]] [[G0538\|απάτησον]] [[G1211\|δη]] [[G3588\|τον]] [[G0435\|άνδρα]] [[G1473\|σου]] [[G2532\|και]] [[G0518\|απαγγειλάτω]] [[G1473\|σοι]] [[G3588\|το]] [[G8892\|πρόβλημα]] [[G3379\|μή ποτε]] [[G7207\|εμπυρίσωμέν]] [[G1473\|σε]] [[G2532\|και]] [[G3588\|τον]] [[G3624\|οίκον]] [[G3588\|του]] [[G3962\|πατρός]] [[G1473\|σου]] [[G1722\|εν]] [[G4442\|πυρί]] [[G2228\|η]] [[G4433\|πτωχεύσαι]] [[G2564\|εκαλέσατε]] [[G1473\|ημάς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETTING|BETTING]] • [[topic RIDDLE|RIDDLE]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.14|<< Judges 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.16|Judges 14:16 >>]]</td></tr></table>
 
@@ -41,6 +109,6 @@ And it came to pass in the seventh day, and they spoke to the wife of Samson, \[
 | to make us poor | **<big>[[G4433\|πτωχεύσαι]]</big>** |
 | did you call | **<big>[[G2564\|εκαλέσατε]]</big>** |
 | us | **<big>[[G1473\|ημάς]]</big>** |
-[[Judg.14.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.14|<< Judges 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.16|Judges 14:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.14.14|<< Judges 14:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.14.16|Judges 14:16 >>]]</td></tr></table>
 
 

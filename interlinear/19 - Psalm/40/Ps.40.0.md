@@ -1,6 +1,41 @@
+---
+title: Psalm 40:0
+type: Verse
+kjv: "To the chief Musician, A Psalm of David."
+hebrew: "לַ֝מְנַצֵּ֗חַ לְדָוִ֥ד מִזְמֽוֹר׃"
+pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H1732]]"
+- "[[H4210]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 40:0**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, A Psalm of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ֝]][[H5329\|מְנַצֵּ֗חַ]] [[H9005\|לְ]][[H1732\|דָוִ֥ד]] [[H4210\|מִזְמֽוֹר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.13|<< Psalms 39:13]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.1|Psalms 40:1 >>]]</td></tr></table>
 

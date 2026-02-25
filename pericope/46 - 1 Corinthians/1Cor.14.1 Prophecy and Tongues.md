@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Prophecy and Tongues
+type: Pericope
 pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
-verse_count: 25
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 14
 book/chapter: "[[1Cor.14|1 Corinthians 14]]"
-genre:
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 25
 verses:
 - "[[1Cor.14.1]]"
 - "[[1Cor.14.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[1Cor.14.25]]"
 ---
 
-[[1Cor.14|1 Corinthians 14:1 - 1 Corinthians 14:25]]
+<small>[[1Cor.14|1 Corinthians 14:1-25]]</small>
 *Prophecy and Tongues*
 
 [[1Cor.14.1|1]] Follow after charity, and desire spiritual \[gifts\], but rather that ye may prophesy.

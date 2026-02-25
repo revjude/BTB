@@ -1,10 +1,72 @@
+---
+title: Luke 10:13
+type: Verse
+kjv: "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes."
+bsb: "Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes."
+jesus_said: "Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes."
+greek: "Οὐαί σοι Χοραζίν, οὐαί σοι Βηθσαϊδά· ὅτι εἰ ἐν Τύρῳ καὶ Σιδῶνι ἐγενήθησαν αἱ δυνάμεις αἱ γενόμεναι ἐν ὑμῖν, πάλαι ἂν ἐν σάκκῳ καὶ σποδῷ καθήμενοι μετενόησαν."
+pericope: "[[Luke.10.13 Woe to the Unrepentant|Woe to the Unrepentant]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ASHES|ASHES]]"
+- "[[topic BETHSAIDA|BETHSAIDA]]"
+- "[[topic CHORAZIN|CHORAZIN]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SEVENTY|SEVENTY]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G5523]]"
+- "[[G0966]]"
+- "[[G3754H]]"
+- "[[G1487G]]"
+- "[[G1722]]"
+- "[[G5184]]"
+- "[[G2532]]"
+- "[[G4605]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G3819]]"
+- "[[G0302]]"
+- "[[G4526]]"
+- "[[G4700]]"
+- "[[G2521]]"
+- "[[G3340]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 10:13**<big><big>[[Luke.10.13 Woe to the Unrepentant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto thee, Chorazin! woe unto thee, Bethsaida! for if the mighty works had been done in Tyre and Sidon, which have been done in you, they had a great while ago repented, sitting in sackcloth and ashes.
 <small><sub>**BSB:**</sub></small>
 Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.
-<small><sub>**Literal:**</sub></small>
-Woe to you Chorazin! Woe to you Bethsaida! For if in Tyre and Sidon had been the miracles <the> having taken place in you, long ago then would in sackcloth and ashes sitting they would have repented.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.12|<< Luke 10:12]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.14|Luke 10:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαί]]  [[G4771\|σοι]]  [[G5523\|Χοραζίν,]]  [[G3759\|οὐαί]]  [[G4771\|σοι]]  [[G0966\|Βηθσαϊδά·]]  [[G3754H\|ὅτι]]  [[G1487G\|εἰ]]  [[G1722\|ἐν]]  [[G5184\|Τύρῳ]]  [[G2532\|καὶ]]  [[G4605\|Σιδῶνι]]  [[G1096\|ἐγενήθησαν]]  [[G3588\|αἱ]]  [[G1411\|δυνάμεις]]  [[G3588\|αἱ]]  [[G1096\|γενόμεναι]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]  [[G3819\|πάλαι]]  [[G0302\|ἂν]]  [[G1722\|ἐν]]  [[G4526\|σάκκῳ]]  [[G2532\|καὶ]]  [[G4700\|σποδῷ]]  [[G2521\|καθήμενοι]]  [[G3340\|μετενόησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHES|ASHES]] • [[topic BETHSAIDA|BETHSAIDA]] • [[topic CHORAZIN|CHORAZIN]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SEVENTY|SEVENTY]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.12|<< Luke 10:12]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.14|Luke 10:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

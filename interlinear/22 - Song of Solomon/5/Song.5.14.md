@@ -1,8 +1,54 @@
+---
+title: Song of Solomon 5:14
+type: Verse
+kjv: "His hands are as gold rings set with the beryl: his belly is as bright ivory overlaid with sapphires."
+bsb: "His arms are rods of gold set with beryl. His body is polished ivory bedecked with sapphires."
+hebrew: "יָדָיו֙ גְּלִילֵ֣י זָהָ֔ב מְמֻלָּאִ֖ים בַּתַּרְשִׁ֑ישׁ מֵעָיו֙ עֶ֣שֶׁת שֵׁ֔ן מְעֻלֶּ֖פֶת סַפִּירִֽים׃"
+pericope: "[[Song.5.10 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 5
+book/chapter: "[[Song.5|Song of Solomon 5]]"
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic BERYL|BERYL]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic IVORY|IVORY]]"
+strongs:
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H1550B]]"
+- "[[H2091]]"
+- "[[H4390]]"
+- "[[H9003]]"
+- "[[H8658]]"
+- "[[H4578]]"
+- "[[H6247]]"
+- "[[H8127H]]"
+- "[[H5968]]"
+- "[[H5601]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 5:14**<big><big>[[Song.5.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His hands [are as] gold rings set with the beryl: his belly [is as] bright ivory overlaid [with] sapphires.
 <small><sub>**BSB:**</sub></small>
 His arms are rods of gold set with beryl. His body is polished ivory bedecked with sapphires.
+<small><sub>**Hebrew:**</sub></small>
+[[H3027G\|יָדָי]][[H9023\|ו֙]] [[H1550B\|גְּלִילֵ֣י]] [[H2091\|זָהָ֔ב]] [[H4390\|מְמֻלָּאִ֖ים]] [[H9003\|בַּ]][[H8658\|תַּרְשִׁ֑ישׁ]] [[H4578\|מֵעָי]][[H9023\|ו֙]] [[H6247\|עֶ֣שֶׁת]] [[H8127H\|שֵׁ֔ן]] [[H5968\|מְעֻלֶּ֖פֶת]] [[H5601\|סַפִּירִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERYL|BERYL]] • [[topic GOLD|GOLD]] • [[topic IVORY|IVORY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.13|<< Song of Solomon 5:13]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.15|Song of Solomon 5:15 >>]]</td></tr></table>
 

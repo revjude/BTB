@@ -1,10 +1,59 @@
+---
+title: Acts 16:22
+type: Verse
+kjv: "And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat them."
+bsb: "The crowd joined in the attack against Paul and Silas, and the magistrates ordered that they be stripped and beaten with rods."
+greek: "καὶ συνεπέστη ὁ ὄχλος κατ᾽ αὐτῶν, καὶ οἱ στρατηγοὶ περιρήξαντες αὐτῶν τὰ ἱμάτια ἐκέλευον ῥαβδίζειν·"
+pericope: "[[Acts.16.16 Paul and Silas Imprisoned|Paul and Silas Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BEATING|BEATING]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic MAGISTRATE|MAGISTRATE]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4911]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G2596]]"
+- "[[G0846]]"
+- "[[G4755]]"
+- "[[G4048]]"
+- "[[G2440]]"
+- "[[G2753]]"
+- "[[G4463]]"
+texts:
+- NKO
+---
+
 **Acts 16:22**<big><big>[[Acts.16.16 Paul and Silas Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the multitude rose up together against them: and the magistrates rent off their clothes, and commanded to beat [them].
 <small><sub>**BSB:**</sub></small>
 The crowd joined in the attack against Paul and Silas, and the magistrates ordered that they be stripped and beaten with rods.
-<small><sub>**Literal:**</sub></small>
-And rose up together the crowd against them, and the magistrates having torn off of them the garments were commanding to beat with rods;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.21|<< Acts 16:21]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.23|Acts 16:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4911\|συνεπέστη]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G2596\|κατ᾽]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4755\|στρατηγοὶ]]  [[G4048\|περιρήξαντες]]  [[G0846\|αὐτῶν]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G2753\|ἐκέλευον]]  [[G4463\|ῥαβδίζειν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEATING|BEATING]] • [[topic CRIMINALS|CRIMINALS]] • [[topic MAGISTRATE|MAGISTRATE]] • [[topic MALICE|MALICE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.21|<< Acts 16:21]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.23|Acts 16:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

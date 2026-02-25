@@ -1,6 +1,69 @@
+---
+title: LXX Deuteronomy 15:15
+type: Verse
+lxx: "And you shall remember that you were a servant in the land of Egypt, and the lord your God ransomed you from there. On account of this I give charge to you to do  this thing."
+greek: "και μνησθήση ότι οικέτης ήσθα εν γη Αιγύπτου και ελυτρώσατό σε κύριος ο θεός σου εκείθεν διά τούτο εγώ σοι εντέλλομαι ποιείν το ρήμα τούτο"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G3403]]"
+- "[[G3754]]"
+- "[[G3610]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G2532]]"
+- "[[G3084]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1564]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G1781]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G4487]]"
+- "[[G3778]]"
+---
+
 **LXX Deuteronomy 15:15** 
 <small><sub>**LXX:**</sub></small>
 And you shall remember that you were a servant in \[the\] land of Egypt, and \[the\] <span class="smallcaps">lord</span> your God ransomed you from there. On account of this I give charge to you to do  this thing. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3403\|μνησθήση]] [[G3754\|ότι]] [[G3610\|οικέτης]] [[G1510\|ήσθα]] [[G1722\|εν]] [[G1093\|γη]] [[G0125\|Αιγύπτου]] [[G2532\|και]] [[G3084\|ελυτρώσατό]] [[G1473\|σε]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|σου]] [[G1564\|εκείθεν]] [[G1223\|διά]] [[G3778\|τούτο]] [[G1473\|εγώ]] [[G1473\|σοι]] [[G1781\|εντέλλομαι]] [[G4160\|ποιείν]] [[G3588\|το]] [[G4487\|ρήμα]] [[G3778\|τούτο]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HUMILITY|HUMILITY]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.14|<< Deuteronomy 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.16|Deuteronomy 15:16 >>]]</td></tr></table>
 
@@ -27,6 +90,6 @@ And you shall remember that you were a servant in \[the\] land of Egypt, and \[t
 | to do | **<big>[[G4160\|ποιείν]]</big>** |
 | \<obj.> | **<big>[[G3588\|το]]</big>** |
 | this thing. | **<big>[[G4487\|ρήμα]]</big>** **<big>[[G3778\|τούτο]]</big>** |
-[[Deut.15.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.14|<< Deuteronomy 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.16|Deuteronomy 15:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.15.14|<< Deuteronomy 15:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.15.16|Deuteronomy 15:16 >>]]</td></tr></table>
 
 

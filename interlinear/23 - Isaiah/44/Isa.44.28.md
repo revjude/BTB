@@ -1,8 +1,63 @@
+---
+title: Isaiah 44:28
+type: Verse
+kjv: "That saith of Cyrus, He is my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid."
+bsb: "who says of Cyrus, ‘My shepherd will fulfill all that I desire,’ who says of Jerusalem, ‘She will be rebuilt,’ and of the temple, ‘Let its foundation be laid.’”"
+hebrew: "הָאֹמֵ֤ר לְכ֙וֹרֶשׁ֙ רֹעִ֔י וְכָל־ חֶפְצִ֖י יַשְׁלִ֑ם וְלֵאמֹ֤ר לִירוּשָׁלִַ֙ם֙ תִּבָּנֶ֔ה וְהֵיכָ֖ל תִּוָּסֵֽד׃ ס"
+pericope: "[[Isa.44.21 Jerusalem to Be Restored|Jerusalem to Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 44
+book/chapter: "[[Isa.44|Isaiah 44]]"
+chronological_order: 683
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9009]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3566]]"
+- "[[H7462B]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2656]]"
+- "[[H7999A]]"
+- "[[H3389]]"
+- "[[H1129]]"
+- "[[H1964G]]"
+- "[[H3245]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 44:28**<big><big>[[Isa.44.21 Jerusalem to Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That saith of Cyrus, [He is] my shepherd, and shall perform all my pleasure: even saying to Jerusalem, Thou shalt be built; and to the temple, Thy foundation shall be laid.
 <small><sub>**BSB:**</sub></small>
 who says of Cyrus, ‘My shepherd will fulfill all that I desire,’ who says of Jerusalem, ‘She will be rebuilt,’ and of the temple, ‘Let its foundation be laid.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הָ]][[H0559\|אֹמֵ֤ר]] [[H9005\|לְ]][[H3566\|כ֙וֹרֶשׁ֙]] [[H7462B\|רֹעִ֔]][[H9020\|י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2656\|חֶפְצִ֖]][[H9020\|י]] [[H7999A\|יַשְׁלִ֑ם]] [[H9002\|וְ]][[H9005\|לֵ]][[H0559\|אמֹ֤ר]] [[H9005\|לִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H1129\|תִּבָּנֶ֔ה]] [[H9002\|וְ]][[H1964G\|הֵיכָ֖ל]] [[H3245\|תִּוָּסֵֽד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYRUS|CYRUS]] • [[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PERSIA|PERSIA]] • [[topic SHEPHERD|SHEPHERD]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.44.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.27|<< Isaiah 44:27]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.1|Isaiah 45:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -22,7 +77,7 @@ who says of Cyrus, ‘My shepherd will fulfill all that I desire,’ who says of
 | of Jerusalem  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִַ֙ם֙]]&#8207; </big>**| li.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let it be rebuilt  |**<big>&#8207;[[H1129\|תִּבָּנֶ֔ה]]&#8207; </big>**| ti.ba.Neh<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] temple  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1964G\|הֵיכָ֖ל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> hei.Khal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| let it be refounded  |**<big>&#8207;[[H3245\|תִּוָּסֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ti.va.Sed<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| let it be refounded  |**<big>&#8207;[[H3245\|תִּוָּסֵֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ti.va.Sed<small><sup>[[HVNi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.44.27|<< Isaiah 44:27]]</td><td align="center" style="border:none;">[[Isa.44|Isaiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.1|Isaiah 45:1 >>]]</td></tr></table>
 
 

@@ -1,10 +1,56 @@
+---
+title: Romans 1:19
+type: Verse
+kjv: "Because that which may be known of God is manifest in them; for God hath shewed it unto them."
+bsb: "For what may be known about God is plain to them, because God has made it plain to them."
+greek: "διότι τὸ γνωστὸν τοῦ θεοῦ φανερόν ἐστιν ἐν αὐτοῖς· ὁ θεὸς γὰρ αὐτοῖς ἐφανέρωσεν."
+pericope: "[[Rom.1.18 God’s Wrath against Sin|God’s Wrath against Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ATHEISM|ATHEISM]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ROME|ROME]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1360]]"
+- "[[G3588]]"
+- "[[G1110]]"
+- "[[G2316]]"
+- "[[G5318]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G5319]]"
+texts:
+- NKO
+---
+
 **Romans 1:19**<big><big>[[Rom.1.18 God’s Wrath against Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Because that which may be known of God is manifest in them; for God hath shewed [it] unto them.
 <small><sub>**BSB:**</sub></small>
 For what may be known about God is plain to them, because God has made it plain to them.
-<small><sub>**Literal:**</sub></small>
-because the known <the> of God manifest is among them; <the> God for to them has revealed [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.18|<< Romans 1:18]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.20|Romans 1:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1360\|διότι]]  [[G3588\|τὸ]]  [[G1110\|γνωστὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G5318\|φανερόν]]  [[G1510\|ἐστιν]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς·]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1063\|γὰρ]]  [[G0846\|αὐτοῖς]]  [[G5319\|ἐφανέρωσεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATHEISM|ATHEISM]] • [[topic BLINDNESS|BLINDNESS]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic RELIGION|RELIGION]] • [[topic ROME|ROME]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.18|<< Romans 1:18]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.20|Romans 1:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,82 @@
+---
+title: Luke 13:7
+type: Verse
+kjv: "Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?"
+bsb: "So he said to the keeper of the vineyard, ‘Look, for the past three years I have come to search for fruit on this fig tree and haven’t found any. Therefore cut it down! Why should it use up the soil?’"
+jesus_said: "Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?"
+greek: "εἶπεν δὲ πρὸς τὸν ἀμπελουργόν· ἰδοὺ τρία ἔτη ἀφ᾽ οὗ ἔρχομαι ζητῶν καρπὸν ἐν τῇ συκῇ ταύτῃ καὶ οὐχ εὑρίσκω· ἔκκοψον οὖν αὐτήν· ἱνατί ἱνατί καὶ τὴν γῆν καταργεῖ;¶"
+pericope: "[[Luke.13.6 The Parable of the Barren Fig Tree|The Parable of the Barren Fig Tree]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FIG TREE|FIG TREE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic UNFRUITFULNESS|UNFRUITFULNESS]]"
+- "[[topic VINEYARD|VINEYARD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0289]]"
+- "[[G2400]]"
+- "[[G5140]]"
+- "[[G2094]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G2064]]"
+- "[[G2212]]"
+- "[[G2590]]"
+- "[[G1722]]"
+- "[[G4808]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2147]]"
+- "[[G1581]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G5101]]"
+- "[[G1093I]]"
+- "[[G2673]]"
+texts:
+- NKO
+- NO
+---
+
 **Luke 13:7**<big><big>[[Luke.13.6 The Parable of the Barren Fig Tree|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said he unto the dresser of his vineyard, Behold, these three years I come seeking fruit on this fig tree, and find none: cut it down; why cumbereth it the ground?
 <small><sub>**BSB:**</sub></small>
 So he said to the keeper of the vineyard, ‘Look, for the past three years I have come to search for fruit on this fig tree and haven’t found any. Therefore cut it down! Why should it use up the soil?’
-<small><sub>**Literal:**</sub></small>
-He said then to the vinedresser; Behold three years throughout these I come seeking fruit on <the> fig tree this and not do find [any]; do cut down therefore it; so why even the ground should it use up?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.6|<< Luke 13:6]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.8|Luke 13:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G0289\|ἀμπελουργόν·]]  [[G2400\|ἰδοὺ]]  [[G5140\|τρία]]  [[G2094\|ἔτη]]  [[G0575\|ἀφ᾽]]  [[G3739\|οὗ]]  [[G2064\|ἔρχομαι]]  [[G2212\|ζητῶν]]  [[G2590\|καρπὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4808\|συκῇ]]  [[G3778\|ταύτῃ]]  [[G2532\|καὶ]]  [[G3756\|οὐχ]]  [[G2147\|εὑρίσκω·]]  [[G1581\|ἔκκοψον]]  [[G3767\|οὖν]]  [[G0846\|αὐτήν·]]  [[G2443\|ἱνατί]]  <sup><small>[[G5101\| [ • ] ]]</small></sup>  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1093I\|γῆν]]  [[G2673\|καταργεῖ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FIG TREE|FIG TREE]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PROBATION|PROBATION]] • [[topic REPROOF|REPROOF]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic UNFRUITFULNESS|UNFRUITFULNESS]] • [[topic VINEYARD|VINEYARD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.6|<< Luke 13:6]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.8|Luke 13:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

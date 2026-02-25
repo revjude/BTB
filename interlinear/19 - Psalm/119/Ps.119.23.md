@@ -1,8 +1,57 @@
+---
+title: Psalm 119:23
+type: Verse
+kjv: "Princes also did sit and speak against me: but thy servant did meditate in thy statutes."
+bsb: "Though rulers sit and slander me, Your servant meditates on Your statutes."
+hebrew: "גַּ֤ם יָֽשְׁב֣וּ שָׂ֭רִים בִּ֣י נִדְבָּ֑רוּ עַ֝בְדְּךָ֗ יָשִׂ֥יחַ בְּחֻקֶּֽיךָ׃"
+pericope: "[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|Your Word Is a Lamp to My Feet - GIMEL]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H1571]]"
+- "[[H3427]]"
+- "[[H8269]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H1696G]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H7878]]"
+- "[[H2706G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:23**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Princes also did sit [and] speak against me: [but] thy servant did meditate in thy statutes.
 <small><sub>**BSB:**</sub></small>
 Though rulers sit and slander me, Your servant meditates on Your statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֤ם]] [[H3427\|יָֽשְׁב֣וּ]] [[H8269\|שָׂ֭רִים]] [[H9003\|בִּ֣]][[H9030\|י]] [[H1696G\|נִדְבָּ֑רוּ]] [[H5650\|עַ֝בְדְּ]][[H9021\|ךָ֗]] [[H7878\|יָשִׂ֥יחַ]] [[H9003\|בְּ]][[H2706G\|חֻקֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic MEDITATION|MEDITATION]] • [[topic SPEAKING|SPEAKING]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.22|<< Psalms 119:22]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.24|Psalms 119:24 >>]]</td></tr></table>
 

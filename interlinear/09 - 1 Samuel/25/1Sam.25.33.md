@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 25:33
+type: Verse
+kjv: "And blessed be thy advice, and blessed be thou, which hast kept me this day from coming to shed blood, and from avenging myself with mine own hand."
+bsb: "Blessed is your discernment, and blessed are you, because today you kept me from bloodshed and from avenging myself by my own hand."
+hebrew: "וּבָר֥וּךְ טַעְמֵ֖ךְ וּבְרוּכָ֣ה אָ֑תְּ אֲשֶׁ֨ר כְּלִתִ֜נִי הַיּ֤וֹם הַזֶּה֙ מִבּ֣וֹא בְדָמִ֔ים וְהֹשֵׁ֥עַ יָדִ֖י לִֽי׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FIG|FIG]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1288]]"
+- "[[H2940]]"
+- "[[H9022]]"
+- "[[H0859C]]"
+- "[[H0834A]]"
+- "[[H3607]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9006]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H3467]]"
+- "[[H3027I]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:33**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And blessed [be] thy advice, and blessed [be] thou, which hast kept me this day from coming to [shed] blood, and from avenging myself with mine own hand.
 <small><sub>**BSB:**</sub></small>
 Blessed is your discernment, and blessed are you, because today you kept me from bloodshed and from avenging myself by my own hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1288\|בָר֥וּךְ]] [[H2940\|טַעְמֵ֖]][[H9022\|ךְ]] [[H9002\|וּ]][[H1288\|בְרוּכָ֣ה]] [[H0859C\|אָ֑תְּ]] [[H0834A\|אֲשֶׁ֨ר]] [[H3607\|כְּלִתִ֜]][[H9030\|נִי]] [[H9009\|הַ]][[H3117L\|יּ֤וֹם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9006\|מִ]][[H0935G\|בּ֣וֹא]] [[H9003\|בְ]][[H1818\|דָמִ֔ים]] [[H9002\|וְ]][[H3467\|הֹשֵׁ֥עַ]] [[H3027I\|יָדִ֖]][[H9020\|י]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FIG|FIG]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NABAL|NABAL]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.32|<< 1 Samuel 25:32]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.34|1 Samuel 25:34 >>]]</td></tr></table>
 

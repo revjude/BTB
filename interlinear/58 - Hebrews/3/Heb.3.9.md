@@ -1,10 +1,58 @@
+---
+title: Hebrews 3:9
+type: Verse
+kjv: "When your fathers tempted me, proved me, and saw my works forty years."
+bsb: "where your fathers tested and tried Me, and for forty years saw My works."
+greek: "οὗ ἐπείρασαν με οἱ πατέρες ὑμῶν ἐν δοκιμασίᾳ με καὶ εἶδον τὰ ἔργα μου"
+pericope: "[[Heb.3.7 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G3757]]"
+- "[[G3985H]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G6020]]"
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G2041]]"
+texts:
+- NKO
+- K
+- no
+- N(k)O
+---
+
 **Hebrews 3:9**<big><big>[[Heb.3.7 Do Not Harden Your Hearts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When your fathers tempted me, proved me, and saw my works forty years.
 <small><sub>**BSB:**</sub></small>
 where your fathers tested and tried Me, and for forty years saw My works.
-<small><sub>**Literal:**</sub></small>
-where tried me the fathers of you by testing me and saw the works of Mine<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.8|<< Hebrews 3:8]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.10|Hebrews 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3757\|οὗ]]  [[G3985H\|ἐπείρασαν]]  [[G3165\|με]]  [[G3588\|οἱ]]  [[G3962\|πατέρες]]  [[G4771\|ὑμῶν]]  [[G1722\|ἐν]]  [[G6020\|δοκιμασίᾳ]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G1492H\|εἶδον]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3165\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROCRASTINATION|PROCRASTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SELF-WILL|SELF-WILL]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.8|<< Hebrews 3:8]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.10|Hebrews 3:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 3:9** is...
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]

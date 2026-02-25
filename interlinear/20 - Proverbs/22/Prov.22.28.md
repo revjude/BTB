@@ -1,8 +1,50 @@
+---
+title: Proverbs 22:28
+type: Verse
+kjv: "Remove not the ancient landmark, which thy fathers have set."
+bsb: "Do not move an ancient boundary stone which your fathers have placed."
+hebrew: "אַל־ תַּ֭סֵּג גְּב֣וּל עוֹלָ֑ם אֲשֶׁ֖ר עָשׂ֣וּ אֲבוֹתֶֽיךָ׃"
+pericope: "[[Prov.22.28 Saying 5|Saying 5]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic LANDMARKS|LANDMARKS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5253]]"
+- "[[H1366G]]"
+- "[[H5769J]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 22:28**<big><big>[[Prov.22.28 Saying 5|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remove not the ancient landmark, which thy fathers have set.
 <small><sub>**BSB:**</sub></small>
 Do not move an ancient boundary stone which your fathers have placed.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H5253\|תַּ֭סֵּג]] [[H1366G\|גְּב֣וּל]] [[H5769J\|עוֹלָ֑ם]] [[H0834A\|אֲשֶׁ֖ר]] [[H6213H\|עָשׂ֣וּ]] [[H0001G\|אֲבוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LANDMARKS|LANDMARKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.22.27|<< Proverbs 22:27]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.29|Proverbs 22:29 >>]]</td></tr></table>
 

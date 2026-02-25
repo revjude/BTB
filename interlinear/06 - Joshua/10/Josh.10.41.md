@@ -1,8 +1,58 @@
+---
+title: Joshua 10:41
+type: Verse
+kjv: "And Joshua smote them from Kadeshbarnea even unto Gaza, and all the country of Goshen, even unto Gibeon."
+bsb: "Joshua conquered the area from Kadesh-barnea to Gaza, and the whole region of Goshen as far as Gibeon."
+hebrew: "וַיַּכֵּ֧ם יְהוֹשֻׁ֛עַ מִקָּדֵ֥שׁ בַּרְנֵ֖עַ וְעַד־ עַזָּ֑ה וְאֵ֛ת כָּל־ אֶ֥רֶץ גֹּ֖שֶׁן וְעַד־ גִּבְעֽוֹן׃"
+pericope: "[[Josh.10.29 Conquest of the Southern Cities|Conquest of the Southern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOSHEN|GOSHEN]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic KADESH|KADESH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H3091G]]"
+- "[[H9006]]"
+- "[[H6947]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5804]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H1657H]]"
+- "[[H1391]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:41**<big><big>[[Josh.10.29 Conquest of the Southern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua smote them from Kadeshbarnea even unto Gaza, and all the country of Goshen, even unto Gibeon.
 <small><sub>**BSB:**</sub></small>
 Joshua conquered the area from Kadesh-barnea to Gaza, and the whole region of Goshen as far as Gibeon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכֵּ֧]][[H9038\|ם]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H9006\|מִ]][[H6947\|קָּדֵ֥שׁ]] [[H6947\|בַּרְנֵ֖עַ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5804\|עַזָּ֑ה]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H1657H\|גֹּ֖שֶׁן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1391\|גִּבְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSHEN|GOSHEN]] • [[topic JOSHUA|JOSHUA]] • [[topic KADESH|KADESH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.40|<< Joshua 10:40]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.42|Joshua 10:42 >>]]</td></tr></table>
 

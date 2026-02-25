@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 13:16
+type: Verse
+kjv: "And Saul, and Jonathan his son, and the people that were present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash."
+bsb: "Now Saul and Jonathan his son and the troops with them were staying in Geba of Benjamin, while the Philistines camped at Michmash."
+hebrew: "וְשָׁא֞וּל וְיוֹנָתָ֣ן בְּנ֗וֹ וְהָעָם֙ הַנִּמְצָ֣א עִמָּ֔ם יֹשְׁבִ֖ים בְּגֶ֣בַע בִּנְיָמִ֑ן וּפְלִשְׁתִּ֖ים חָנ֥וּ בְמִכְמָֽשׂ׃"
+pericope: "[[1Sam.13.16 Israel without Weapons|Israel without Weapons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H7586G]]"
+- "[[H3129N]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H4672]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1387G]]"
+- "[[H1144G]]"
+- "[[H6430G]]"
+- "[[H2583]]"
+- "[[H4363]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:16**<big><big>[[1Sam.13.16 Israel without Weapons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul, and Jonathan his son, and the people [that were] present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash.
 <small><sub>**BSB:**</sub></small>
 Now Saul and Jonathan his son and the troops with them were staying in Geba of Benjamin, while the Philistines camped at Michmash.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7586G\|שָׁא֞וּל]] [[H9002\|וְ]][[H3129N\|יוֹנָתָ֣ן]] [[H1121A\|בְּנ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָם֙]] [[H9009\|הַ]][[H4672\|נִּמְצָ֣א]] [[H5973A\|עִמָּ֔]][[H9038\|ם]] [[H3427\|יֹשְׁבִ֖ים]] [[H9003\|בְּ]][[H1387G\|גֶ֣בַע]] [[H1144G\|בִּנְיָמִ֑ן]] [[H9002\|וּ]][[H6430G\|פְלִשְׁתִּ֖ים]] [[H2583\|חָנ֥וּ]] [[H9003\|בְ]][[H4363\|מִכְמָֽשׂ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.15|<< 1 Samuel 13:15]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.17|1 Samuel 13:17 >>]]</td></tr></table>
 

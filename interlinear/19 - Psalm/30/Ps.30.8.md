@@ -1,8 +1,48 @@
+---
+title: Psalm 30:8
+type: Verse
+kjv: "I cried to thee, O LORD; and unto the LORD I made supplication."
+bsb: "To You, O LORD, I called, and I begged my Lord for mercy:"
+hebrew: "אֵלֶ֣יךָ יְהוָ֣ה אֶקְרָ֑א וְאֶל־ אֲ֝דֹנָ֗י אֶתְחַנָּֽן׃"
+pericope: "[[Ps.30.1 You Turned My Mourning into Dancing|You Turned My Mourning into Dancing]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 30
+book/chapter: "[[Ps.30|Psalm 30]]"
+chronological_order: 400
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H7121G]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H2603A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 30:8**<big><big>[[Ps.30.1 You Turned My Mourning into Dancing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I cried to thee, O LORD; and unto the LORD I made supplication.
 <small><sub>**BSB:**</sub></small>
 To You, O LORD, I called, and I begged my Lord for mercy:
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֵלֶ֣י]][[H9031\|ךָ]] [[H3068G\|יְהוָ֣ה]] [[H7121G\|אֶקְרָ֑א]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0136\|אֲ֝דֹנָ֗י]] [[H2603A\|אֶתְחַנָּֽן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.7|<< Psalms 30:7]]</td><td align="center" style="border:none;">[[Ps.30|Psalms 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.30.9|Psalms 30:9 >>]]</td></tr></table>
 

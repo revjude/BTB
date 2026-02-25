@@ -23,7 +23,7 @@
 
 → Owned multitudes of camels, and dromedaries, and large quantities  of gold [[Isa.60.6|Isa 60:6]]
 
-→ A snare to the Israelites [[Num.25.16|Nu 25:16]]-[[Num.25.18|18]]
+→ A snare to the Israelites [[Num.25.16|Nu 25:16-18]]
 
 → Prophecies concerning [[Isa.60.6|Isa 60:6]]; [[Hab.3.7|Hab 3:7]]
 

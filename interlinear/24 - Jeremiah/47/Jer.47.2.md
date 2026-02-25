@@ -1,8 +1,67 @@
+---
+title: Jeremiah 47:2
+type: Verse
+kjv: "Thus saith the LORD; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl."
+bsb: "This is what the LORD says: “See how the waters are rising from the north and becoming an overflowing torrent. They will overflow the land and its fullness, the cities and their inhabitants. The people will cry out, and all who dwell in the land will wail"
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה הִנֵּה־ מַ֜יִם עֹלִ֤ים מִצָּפוֹן֙ וְהָיוּ֙ לְנַ֣חַל שׁוֹטֵ֔ף וְיִשְׁטְפוּ֙ אֶ֣רֶץ וּמְלוֹאָ֔הּ עִ֖יר וְיֹ֣שְׁבֵי בָ֑הּ וְזָֽעֲקוּ֙ הָֽאָדָ֔ם וְהֵילִ֕ל כֹּ֖ל יוֹשֵׁ֥ב הָאָֽרֶץ׃"
+pericope: "[[Jer.47.1 Judgment on the Philistines|Judgment on the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 47
+book/chapter: "[[Jer.47|Jeremiah 47]]"
+chronological_order: 770
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H5158A]]"
+- "[[H7857]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H4393]]"
+- "[[H9024]]"
+- "[[H5892B]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H2199]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H3213]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 47:2**<big><big>[[Jer.47.1 Judgment on the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “See how the waters are rising from the north and becoming an overflowing torrent. They will overflow the land and its fullness, the cities and their inhabitants. The people will cry out, and all who dwell in the land will wail
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H4325G\|מַ֜יִם]] [[H5927G\|עֹלִ֤ים]] [[H9006\|מִ]][[H6828G\|צָּפוֹן֙]] [[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H9005\|לְ]][[H5158A\|נַ֣חַל]] [[H7857\|שׁוֹטֵ֔ף]] [[H9002\|וְ]][[H7857\|יִשְׁטְפוּ֙]] [[H0776G\|אֶ֣רֶץ]] [[H9002\|וּ]][[H4393\|מְלוֹאָ֔]][[H9024\|הּ]] [[H5892B\|עִ֖יר]] [[H9002\|וְ]][[H3427\|יֹ֣שְׁבֵי]] [[H9003\|בָ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H2199\|זָֽעֲקוּ֙]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H9001\|וְ]][[H3213\|הֵילִ֕ל]] [[H3605\|כֹּ֖ל]] [[H3427\|יוֹשֵׁ֥ב]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.47.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.47.1|<< Jeremiah 47:1]]</td><td align="center" style="border:none;">[[Jer.47|Jeremiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.47.3|Jeremiah 47:3 >>]]</td></tr></table>
 

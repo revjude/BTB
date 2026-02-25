@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 27:3
+type: Verse
+kjv: "And David dwelt with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal’s wife."
+bsb: "David and his men settled in Gath with Achish. Each man had his family with him, and David had his two wives: Ahinoam of Jezreel and Abigail of Carmel, the widow of Nabal."
+hebrew: "וַיֵּשֶׁב֩ דָּוִ֨ד עִם־ אָכִ֥ישׁ בְּגַ֛ת ה֥וּא וַאֲנָשָׁ֖יו אִ֣ישׁ וּבֵית֑וֹ דָּוִד֙ וּשְׁתֵּ֣י נָשָׁ֔יו אֲחִינֹ֙עַם֙ הַיִּזְרְעֵאלִ֔ית וַאֲבִיגַ֥יִל אֵֽשֶׁת־ נָבָ֖ל הַֽכַּרְמְלִֽית׃"
+pericope: "[[1Sam.27.1 David and the Philistines|David and the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AHINOAM|AHINOAM]]"
+- "[[topic GATH|GATH]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H1732]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0397]]"
+- "[[H9003]]"
+- "[[H1661]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H0376I]]"
+- "[[H1004M]]"
+- "[[H8147]]"
+- "[[H0802H]]"
+- "[[H0293H]]"
+- "[[H9009]]"
+- "[[H3158G]]"
+- "[[H0026G]]"
+- "[[H5037]]"
+- "[[H3761]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 27:3**<big><big>[[1Sam.27.1 David and the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David dwelt with Achish at Gath, he and his men, every man with his household, [even] David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal’s wife.
 <small><sub>**BSB:**</sub></small>
 David and his men settled in Gath with Achish. Each man had his family with him, and David had his two wives: Ahinoam of Jezreel and Abigail of Carmel, the widow of Nabal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּשֶׁב֩]] [[H1732\|דָּוִ֨ד]] [[H5973A\|עִם]][[H9014\|־]] [[H0397\|אָכִ֥ישׁ]] [[H9003\|בְּ]][[H1661\|גַ֛ת]] [[H1931\|ה֥וּא]] [[H9002\|וַ]][[H0582\|אֲנָשָׁ֖י]][[H9023\|ו]] [[H0376I\|אִ֣ישׁ]] [[H9002\|וּ]][[H1004M\|בֵית֑]][[H9023\|וֹ]] [[H1732\|דָּוִד֙]] [[H9002\|וּ]][[H8147\|שְׁתֵּ֣י]] [[H0802H\|נָשָׁ֔י]][[H9023\|ו]] [[H0293H\|אֲחִינֹ֙עַם֙]] [[H9009\|הַ]][[H3158G\|יִּזְרְעֵאלִ֔ית]] [[H9002\|וַ]][[H0026G\|אֲבִיגַ֥יִל]] [[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H5037\|נָבָ֖ל]] [[H9009\|הַֽ]][[H3761\|כַּרְמְלִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AHINOAM|AHINOAM]] • [[topic GATH|GATH]] • [[topic JEZREEL|JEZREEL]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.27.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.27.2|<< 1 Samuel 27:2]]</td><td align="center" style="border:none;">[[1Sam.27|1 Samuel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.27.4|1 Samuel 27:4 >>]]</td></tr></table>
 

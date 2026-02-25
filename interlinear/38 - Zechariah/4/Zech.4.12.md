@@ -1,8 +1,65 @@
+---
+title: Zechariah 4:12
+type: Verse
+kjv: "And I answered again, and said unto him, What be these two olive branches which through the two golden pipes empty the golden oil out of themselves?"
+bsb: "And I questioned him further, “What are the two olive branches beside the two gold pipes from which the golden oil pours?”"
+hebrew: "וָאַ֣עַן שֵׁנִ֔ית וָאֹמַ֖ר אֵלָ֑יו מַה־ שְׁתֵּ֞י שִׁבֲּלֵ֣י הַזֵּיתִ֗ים אֲשֶׁר֙ בְּיַ֗ד שְׁנֵי֙ צַנְתְּר֣וֹת הַזָּהָ֔ב הַֽמְרִיקִ֥ים מֵעֲלֵיהֶ֖ם הַזָּהָֽב׃"
+pericope: "[[Zech.4.1 The Vision of the Lampstand and Olive Trees|The Vision of the Lampstand and Olive Trees]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 4
+book/chapter: "[[Zech.4|Zechariah 4]]"
+chronological_order: 860
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic OLIVE|OLIVE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H8145]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H7641B]]"
+- "[[H9009]]"
+- "[[H2132H]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3027K]]"
+- "[[H6804]]"
+- "[[H2091]]"
+- "[[H7324]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 4:12**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I answered again, and said unto him, What [be these] two olive branches which through the two golden pipes empty the golden [oil] out of themselves?
 <small><sub>**BSB:**</sub></small>
 And I questioned him further, “What are the two olive branches beside the two gold pipes from which the golden oil pours?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6030B\|אַ֣עַן]] [[H8145\|שֵׁנִ֔ית]] [[H9001\|וָ]][[H0559\|אֹמַ֖ר]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H4100\|מַה]][[H9014\|־]] [[H8147\|שְׁתֵּ֞י]] [[H7641B\|שִׁבֲּלֵ֣י]] [[H9009\|הַ]][[H2132H\|זֵּיתִ֗ים]] [[H0834A\|אֲשֶׁר֙]] [[H9003\|בְּ]][[H3027K\|יַ֗ד]] [[H8147\|שְׁנֵי֙]] [[H6804\|צַנְתְּר֣וֹת]] [[H9009\|הַ]][[H2091\|זָּהָ֔ב]] [[H9009\|הַֽ]][[H7324\|מְרִיקִ֥ים]] [[H9006\|מֵ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H9009\|הַ]][[H2091\|זָּהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OLIVE|OLIVE]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.4.11|<< Zechariah 4:11]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.13|Zechariah 4:13 >>]]</td></tr></table>
 

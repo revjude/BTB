@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 10:3
+type: Verse
+kjv: "And the battle went sore against Saul, and the archers hit him, and he was wounded of the archers."
+bsb: "When the battle intensified against Saul, the archers overtook him and wounded him."
+hebrew: "וַתִּכְבַּ֤ד הַמִּלְחָמָה֙ עַל־ שָׁא֔וּל וַיִּמְצָאֻ֖הוּ הַמּוֹרִ֣ים בַּקָּ֑שֶׁת וַיָּ֖חֶל מִן־ הַיּוֹרִֽים׃"
+pericope: "[[1Chr.10.1 Saul’s Overthrow and Death|Saul’s Overthrow and Death]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 10
+book/chapter: "[[1Chr.10|1 Chronicles 10]]"
+chronological_order: 334
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic GILBOA|GILBOA]]"
+strongs:
+- "[[H9001]]"
+- "[[H3513H]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H4672]]"
+- "[[H9033]]"
+- "[[H3384A]]"
+- "[[H9003]]"
+- "[[H7198]]"
+- "[[H2342I]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 10:3**<big><big>[[1Chr.10.1 Saul’s Overthrow and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the battle went sore against Saul, and the archers hit him, and he was wounded of the archers.
 <small><sub>**BSB:**</sub></small>
 When the battle intensified against Saul, the archers overtook him and wounded him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3513H\|תִּכְבַּ֤ד]] [[H9009\|הַ]][[H4421\|מִּלְחָמָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9001\|וַ]][[H4672\|יִּמְצָאֻ֖]][[H9033\|הוּ]] [[H9009\|הַ]][[H3384A\|מּוֹרִ֣ים]] [[H9003\|בַּ]][[H7198\|קָּ֑שֶׁת]] [[H9001\|וַ]][[H2342I\|יָּ֖חֶל]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3384A\|יּוֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic GILBOA|GILBOA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.10.2|<< 1 Chronicles 10:2]]</td><td align="center" style="border:none;">[[1Chr.10|1 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.10.4|1 Chronicles 10:4 >>]]</td></tr></table>
 

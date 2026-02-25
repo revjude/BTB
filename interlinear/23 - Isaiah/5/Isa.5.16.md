@@ -1,8 +1,57 @@
+---
+title: Isaiah 5:16
+type: Verse
+kjv: "But the LORD of hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness."
+bsb: "But the LORD of Hosts will be exalted by His justice, and the holy God will show Himself holy in righteousness."
+hebrew: "וַיִּגְבַּ֛ה יְהוָ֥ה צְבָא֖וֹת בַּמִּשְׁפָּ֑ט וְהָאֵל֙ הַקָּד֔וֹשׁ נִקְדָּ֖שׁ בִּצְדָקָֽה׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1361]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9003]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H6918G]]"
+- "[[H6942G]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:16**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the LORD of hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness.
 <small><sub>**BSB:**</sub></small>
 But the LORD of Hosts will be exalted by His justice, and the holy God will show Himself holy in righteousness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1361\|יִּגְבַּ֛ה]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H9003\|בַּ]][[H4941H\|מִּשְׁפָּ֑ט]] [[H9002\|וְ]][[H9009\|הָ]][[H0410G\|אֵל֙]] [[H9009\|הַ]][[H6918G\|קָּד֔וֹשׁ]] [[H6942G\|נִקְדָּ֖שׁ]] [[H9003\|בִּ]][[H6666\|צְדָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic JUDGMENT|JUDGMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.15|<< Isaiah 5:15]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.17|Isaiah 5:17 >>]]</td></tr></table>
 

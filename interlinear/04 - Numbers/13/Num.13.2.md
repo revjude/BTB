@@ -1,8 +1,65 @@
+---
+title: Numbers 13:2
+type: Verse
+kjv: "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them."
+bsb: "“Send out for yourself men to spy out the land of Canaan, which I am giving to the Israelites. From each of their fathers’ tribes send one man who is a leader among them.”"
+hebrew: "שְׁלַח־ לְךָ֣ אֲנָשִׁ֗ים וְיָתֻ֙רוּ֙ אֶת־ אֶ֣רֶץ כְּנַ֔עַן אֲשֶׁר־ אֲנִ֥י נֹתֵ֖ן לִבְנֵ֣י יִשְׂרָאֵ֑ל אִ֣ישׁ אֶחָד֩ אִ֨ישׁ אֶחָ֜ד לְמַטֵּ֤ה אֲבֹתָיו֙ תִּשְׁלָ֔חוּ כֹּ֖ל נָשִׂ֥יא בָהֶֽם׃"
+pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0582]]"
+- "[[H9002]]"
+- "[[H8446]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H5414G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H4294H]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H5387A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:2**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them.
 <small><sub>**BSB:**</sub></small>
 “Send out for yourself men to spy out the land of Canaan, which I am giving to the Israelites. From each of their fathers’ tribes send one man who is a leader among them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|שְׁלַח]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H0582\|אֲנָשִׁ֗ים]] [[H9002\|וְ]][[H8446\|יָתֻ֙רוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנַ֔עַן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H5414G\|נֹתֵ֖ן]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0376G\|אִ֣ישׁ]] [[H0259\|אֶחָד֩]] [[H0376G\|אִ֨ישׁ]] [[H0259\|אֶחָ֜ד]] [[H9005\|לְ]][[H4294H\|מַטֵּ֤ה]] [[H0001G\|אֲבֹתָי]][[H9023\|ו֙]] [[H7971G\|תִּשְׁלָ֔חוּ]] [[H3605\|כֹּ֖ל]] [[H5387A\|נָשִׂ֥יא]] [[H9003\|בָ]][[H9038\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.1|<< Numbers 13:1]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.3|Numbers 13:3 >>]]</td></tr></table>
 

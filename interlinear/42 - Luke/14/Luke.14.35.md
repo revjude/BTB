@@ -1,10 +1,57 @@
+---
+title: Luke 14:35
+type: Verse
+kjv: "It is neither fit for the land, nor yet for the dunghill; but men cast it out. He that hath ears to hear, let him hear."
+bsb: "It is fit neither for the soil nor for the manure pile, and it is thrown out. He who has ears to hear, let him hear.”"
+jesus_said: "It is neither fit for the land, nor yet for the dunghill; but men cast it out. He that hath ears to hear, let him hear."
+greek: "οὔτε εἰς γῆν οὔτε εἰς κοπρίαν εὔθετόν ἐστιν· ἔξω βάλλουσιν αὐτό. ὁ ἔχων ὦτα ἀκούειν ἀκουέτω.¶"
+pericope: "[[Luke.14.34 Good Salt|Good Salt]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MANURE|MANURE]]"
+strongs:
+- "[[G3777]]"
+- "[[G1519]]"
+- "[[G1093I]]"
+- "[[G2874]]"
+- "[[G2111]]"
+- "[[G1510]]"
+- "[[G1854]]"
+- "[[G0906G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G3775]]"
+- "[[G0191]]"
+texts:
+- NKO
+---
+
 **Luke 14:35**<big><big>[[Luke.14.34 Good Salt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 It is neither fit for the land, nor yet for the dunghill; [but] men cast it out. He that hath ears to hear, let him hear.
 <small><sub>**BSB:**</sub></small>
 It is fit neither for the soil nor for the manure pile, and it is thrown out. He who has ears to hear, let him hear.”
-<small><sub>**Literal:**</sub></small>
-Neither [is it] for soil nor for manure fit is it; out they cast it. The [one] having ears to hear he should hear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.34|<< Luke 14:34]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.1|Luke 15:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3777\|οὔτε]]  [[G1519\|εἰς]]  [[G1093I\|γῆν]]  [[G3777\|οὔτε]]  [[G1519\|εἰς]]  [[G2874\|κοπρίαν]]  [[G2111\|εὔθετόν]]  [[G1510\|ἐστιν·]]  [[G1854\|ἔξω]]  [[G0906G\|βάλλουσιν]]  [[G0846\|αὐτό.]]  [[G3588\|ὁ]]  [[G2192\|ἔχων]]  [[G3775\|ὦτα]]  [[G0191\|ἀκούειν]]  [[G0191\|ἀκουέτω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MANURE|MANURE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.34|<< Luke 14:34]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.1|Luke 15:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

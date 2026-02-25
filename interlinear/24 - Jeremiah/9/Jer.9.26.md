@@ -1,8 +1,71 @@
+---
+title: Jeremiah 9:26
+type: Verse
+kjv: "Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all that are in the utmost corners, that dwell in the wilderness: for all these nations are uncircumcised, and all the house of Israel are uncircumcised in the heart."
+bsb: "Egypt, Judah, Edom, Ammon, Moab, and all the inhabitants of the desert who clip the hair of their temples. For all these nations are uncircumcised, and the whole house of Israel is uncircumcised in heart.”"
+hebrew: "עַל־ מִצְרַ֣יִם וְעַל־ יְהוּדָ֗ה וְעַל־ אֱד֞וֹם וְעַל־ בְּנֵ֤י עַמּוֹן֙ וְעַל־ מוֹאָ֔ב וְעַל֙ כָּל־ קְצוּצֵ֣י פֵאָ֔ה הַיֹּשְׁבִ֖ים בַּמִּדְבָּ֑ר כִּ֤י כָל־ הַגּוֹיִם֙ עֲרֵלִ֔ים וְכָל־ בֵּ֥ית יִשְׂרָאֵ֖ל עַרְלֵי־ לֵֽב׃ ס"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H0123G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H4124G]]"
+- "[[H3605]]"
+- "[[H7112]]"
+- "[[H6285]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H3588A]]"
+- "[[H1471A]]"
+- "[[H6189]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 9:26**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all [that are] in the utmost corners, that dwell in the wilderness: for all [these] nations [are] uncircumcised, and all the house of Israel [are] uncircumcised in the heart.
 <small><sub>**BSB:**</sub></small>
 Egypt, Judah, Edom, Ammon, Moab, and all the inhabitants of the desert who clip the hair of their temples. For all these nations are uncircumcised, and the whole house of Israel is uncircumcised in heart.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרַ֣יִם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0123G\|אֱד֞וֹם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H5983\|עַמּוֹן֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4124G\|מוֹאָ֔ב]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H3605\|כָּל]][[H9014\|־]] [[H7112\|קְצוּצֵ֣י]] [[H6285\|פֵאָ֔ה]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֖ים]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H3588A\|כִּ֤י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִם֙]] [[H6189\|עֲרֵלִ֔ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H6189\|עַרְלֵי]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CHARACTER|CHARACTER]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic EDOMITES|EDOMITES]] • [[topic EGYPT|EGYPT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.25|<< Jeremiah 9:25]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.1|Jeremiah 10:1 >>]]</td></tr></table>
 
@@ -33,7 +96,7 @@ Egypt, Judah, Edom, Ammon, Moab, and all the inhabitants of the desert who clip 
 | [the] house of  |**<big>&#8207;[[H1004M\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] uncircumcised of  |**<big>&#8207;[[H6189\|עַרְלֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ar.lei-<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| heart  |**<big>&#8207;[[H3820A\|לֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| heart  |**<big>&#8207;[[H3820A\|לֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.25|<< Jeremiah 9:25]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.1|Jeremiah 10:1 >>]]</td></tr></table>
 
 

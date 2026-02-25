@@ -1,8 +1,66 @@
+---
+title: 2 Samuel 2:15
+type: Verse
+kjv: "Then there arose and went over by number twelve of Benjamin, which pertained to Ishbosheth the son of Saul, and twelve of the servants of David."
+bsb: "So they got up and were counted off—twelve for Benjamin and Ish-bosheth son of Saul, and twelve for David."
+hebrew: "וַיָּקֻ֖מוּ וַיַּעַבְר֣וּ בְמִסְפָּ֑ר שְׁנֵ֧ים עָשָׂ֣ר לְבִנְיָמִ֗ן וּלְאִ֥ישׁ בֹּ֙שֶׁת֙ בֶּן־ שָׁא֔וּל וּשְׁנֵ֥ים עָשָׂ֖ר מֵעַבְדֵ֥י דָוִֽד׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H5674A]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H9005]]"
+- "[[H1144G]]"
+- "[[H9002]]"
+- "[[H0378]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H9006]]"
+- "[[H5650]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:15**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then there arose and went over by number twelve of Benjamin, which [pertained] to Ishbosheth the son of Saul, and twelve of the servants of David.
 <small><sub>**BSB:**</sub></small>
 So they got up and were counted off—twelve for Benjamin and Ish-bosheth son of Saul, and twelve for David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקֻ֖מוּ]] [[H9001\|וַ]][[H5674A\|יַּעַבְר֣וּ]] [[H9003\|בְ]][[H4557\|מִסְפָּ֑ר]] [[H8147\|שְׁנֵ֧ים]] [[H6240\|עָשָׂ֣ר]] [[H9005\|לְ]][[H1144G\|בִנְיָמִ֗ן]] [[H9002\|וּ]][[H9005\|לְ]][[H0378\|אִ֥ישׁ]] [[H0378\|בֹּ֙שֶׁת֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9002\|וּ]][[H8147\|שְׁנֵ֥ים]] [[H6240\|עָשָׂ֖ר]] [[H9006\|מֵ]][[H5650\|עַבְדֵ֥י]] [[H1732\|דָוִֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic ARMIES|ARMIES]] • [[topic BENJAMIN|BENJAMIN]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DAVID|DAVID]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.14|<< 2 Samuel 2:14]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.16|2 Samuel 2:16 >>]]</td></tr></table>
 

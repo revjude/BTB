@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus like His Brothers
+type: Pericope
 pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 2
 book/chapter: "[[Heb.2|Hebrews 2]]"
-genre:
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 14
 verses:
 - "[[Heb.2.5]]"
 - "[[Heb.2.6]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Heb.2.18]]"
 ---
 
-[[Heb.2|Hebrews 2:5 - Hebrews 2:18]]
+<small>[[Heb.2|Hebrews 2:5-18]]</small>
 *Jesus like His Brothers*
 
 [[Heb.2.5|5]] For unto the angels hath he not put in subjection the world to come, whereof we speak.

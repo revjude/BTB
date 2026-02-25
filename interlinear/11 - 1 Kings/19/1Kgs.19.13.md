@@ -1,8 +1,75 @@
+---
+title: 1 Kings 19:13
+type: Verse
+kjv: "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, there came a voice unto him, and said, What doest thou here, Elijah?"
+bsb: "When Elijah heard it, he wrapped his face in his cloak and went out and stood at the mouth of the cave. Suddenly a voice came to him and said, “What are you doing here, Elijah?”"
+hebrew: "וַיְהִ֣י׀ כִּשְׁמֹ֣עַ אֵלִיָּ֗הוּ וַיָּ֤לֶט פָּנָיו֙ בְּאַדַּרְתּ֔וֹ וַיֵּצֵ֕א וַֽיַּעֲמֹ֖ד פֶּ֣תַח הַמְּעָרָ֑ה וְהִנֵּ֤ה אֵלָיו֙ ק֔וֹל וַיֹּ֕אמֶר מַה־ לְּךָ֥ פֹ֖ה אֵלִיָּֽהוּ׃"
+pericope: "[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|The LORD Speaks to Elijah at Horeb]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CAVE|CAVE]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H0452G]]"
+- "[[H3874]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H0155]]"
+- "[[H3318G]]"
+- "[[H5975G]]"
+- "[[H6607]]"
+- "[[H9009]]"
+- "[[H4631]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H6963A]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6311]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:13**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so], when Elijah heard [it], that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, [there came] a voice unto him, and said, What doest thou here, Elijah?
 <small><sub>**BSB:**</sub></small>
 When Elijah heard it, he wrapped his face in his cloak and went out and stood at the mouth of the cave. Suddenly a voice came to him and said, “What are you doing here, Elijah?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֣עַ]] [[H0452G\|אֵלִיָּ֗הוּ]] [[H9001\|וַ]][[H3874\|יָּ֤לֶט]] [[H6440H\|פָּנָי]][[H9023\|ו֙]] [[H9003\|בְּ]][[H0155\|אַדַּרְתּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֕א]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֖ד]] [[H6607\|פֶּ֣תַח]] [[H9009\|הַ]][[H4631\|מְּעָרָ֑ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H6963A\|ק֔וֹל]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֥]] [[H6311\|פֹ֖ה]] [[H0452G\|אֵלִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVE|CAVE]] • [[topic DOUBTING|DOUBTING]] • [[topic DRESS|DRESS]] • [[topic ELIJAH|ELIJAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.12|<< 1 Kings 19:12]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.14|1 Kings 19:14 >>]]</td></tr></table>
 

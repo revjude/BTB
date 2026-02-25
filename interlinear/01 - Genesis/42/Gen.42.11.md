@@ -1,8 +1,60 @@
+---
+title: Genesis 42:11
+type: Verse
+kjv: "We are all one man’s sons; we are true men, thy servants are no spies."
+bsb: "We are all sons of one man. Your servants are honest men, not spies.”"
+hebrew: "כֻּלָּ֕נוּ בְּנֵ֥י אִישׁ־ אֶחָ֖ד נָ֑חְנוּ כֵּנִ֣ים אֲנַ֔חְנוּ לֹא־ הָי֥וּ עֲבָדֶ֖יךָ מְרַגְּלִֽים׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISSEMBLING|DISSEMBLING]]"
+strongs:
+- "[[H3605]]"
+- "[[H9025]]"
+- "[[H1121A]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H5168]]"
+- "[[H3651A]]"
+- "[[H0587]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H7270]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:11**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We [are] all one man’s sons; we [are] true [men], thy servants are no spies.
 <small><sub>**BSB:**</sub></small>
 We are all sons of one man. Your servants are honest men, not spies.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֻּלָּ֕]][[H9025\|נוּ]] [[H1121A\|בְּנֵ֥י]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H0259\|אֶחָ֖ד]] [[H5168\|נָ֑חְנוּ]] [[H3651A\|כֵּנִ֣ים]] [[H0587\|אֲנַ֔חְנוּ]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָי֥וּ]] [[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H7270\|מְרַגְּלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic COMMERCE|COMMERCE]] • [[topic DISSEMBLING|DISSEMBLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.10|<< Genesis 42:10]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.12|Genesis 42:12 >>]]</td></tr></table>
 

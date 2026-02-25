@@ -1,8 +1,57 @@
+---
+title: Jeremiah 25:23
+type: Verse
+kjv: "Dedan, and Tema, and Buz, and all that are in the utmost corners,"
+bsb: "Dedan, Tema, Buz, and all who cut the corners of their hair;"
+hebrew: "וְאֶת־ דְּדָ֤ן וְאֶת־ תֵּימָא֙ וְאֶת־ בּ֔וּז וְאֵ֖ת כָּל־ קְצוּצֵ֥י פֵאָֽה׃"
+pericope: "[[Jer.25.15 The Cup of God’s Wrath|The Cup of God’s Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic NATION|NATION]]"
+- "[[topic TEMA|TEMA]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1719A]]"
+- "[[H8485H]]"
+- "[[H0938I]]"
+- "[[H3605]]"
+- "[[H7112]]"
+- "[[H6285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:23**<big><big>[[Jer.25.15 The Cup of God’s Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dedan, and Tema, and Buz, and all [that are] in the utmost corners,
 <small><sub>**BSB:**</sub></small>
 Dedan, Tema, Buz, and all who cut the corners of their hair;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1719A\|דְּדָ֤ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8485H\|תֵּימָא֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0938I\|בּ֔וּז]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H7112\|קְצוּצֵ֥י]] [[H6285\|פֵאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic EDOM|EDOM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic NATION|NATION]] • [[topic TEMA|TEMA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.22|<< Jeremiah 25:22]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.24|Jeremiah 25:24 >>]]</td></tr></table>
 

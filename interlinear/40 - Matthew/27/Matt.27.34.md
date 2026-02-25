@@ -1,10 +1,56 @@
+---
+title: Matthew 27:34
+type: Verse
+kjv: "They gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink."
+bsb: "they offered Him wine to drink, mixed with gall; but after tasting it, He refused to drink it."
+greek: "ἔδωκαν αὐτῷ πιεῖν οἶνον μετὰ χολῆς μεμιγμένον, καὶ γευσάμενος οὐκ ἠθέλησεν πιεῖν."
+pericope: "[[Matt.27.32 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GALL|GALL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic VINEGAR|VINEGAR]]"
+strongs:
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4095]]"
+- "[[G3631]]"
+- "[[G3326]]"
+- "[[G5521]]"
+- "[[G3396]]"
+- "[[G2532]]"
+- "[[G1089]]"
+- "[[G3756]]"
+- "[[G2309]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 27:34**<big><big>[[Matt.27.32 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They gave him vinegar to drink mingled with gall: and when he had tasted [thereof], he would not drink.
 <small><sub>**BSB:**</sub></small>
 they offered Him wine to drink, mixed with gall; but after tasting it, He refused to drink it.
-<small><sub>**Literal:**</sub></small>
-they gave Him to drink wine with gall mingled, and having tasted not He wished to drink [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.33|<< Matthew 27:33]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.35|Matthew 27:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1325\|ἔδωκαν]]  [[G0846\|αὐτῷ]]  [[G4095\|πιεῖν]]  [[G3631\|οἶνον]]  [[G3326\|μετὰ]]  [[G5521\|χολῆς]]  [[G3396\|μεμιγμένον,]]  [[G2532\|καὶ]]  [[G1089\|γευσάμενος]]  [[G3756\|οὐκ]]  [[G2309\|ἠθέλησεν]]  [[G4095\|πιεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GALL|GALL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SOLDIERS|SOLDIERS]] • [[topic VINEGAR|VINEGAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.33|<< Matthew 27:33]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.35|Matthew 27:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

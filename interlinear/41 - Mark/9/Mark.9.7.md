@@ -1,10 +1,58 @@
+---
+title: Mark 9:7
+type: Verse
+kjv: "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him."
+bsb: "Then a cloud appeared and enveloped them, and a voice came from the cloud: “This is My beloved Son. Listen to Him!”"
+greek: "Καὶ ἐγένετο νεφέλη ἐπισκιάζουσα αὐτοῖς, καὶ ἐγένετο φωνὴ ἐκ τῆς νεφέλης λέγουσα· οὗτός ἐστιν ὁ υἱός μου ὁ ἀγαπητός· ἀκούετε αὐτοῦ."
+pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3507]]"
+- "[[G1982]]"
+- "[[G0846]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G0027]]"
+- "[[G0191]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Mark 9:7**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him.
 <small><sub>**BSB:**</sub></small>
 Then a cloud appeared and enveloped them, and a voice came from the cloud: “This is My beloved Son. Listen to Him!”
-<small><sub>**Literal:**</sub></small>
-And there came a cloud overshadowing them, and there was a voice out of the cloud saying: This is the Son of Mine the beloved; do listen to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.6|<< Mark 9:6]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.8|Mark 9:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G3507\|νεφέλη]]  [[G1982\|ἐπισκιάζουσα]]  [[G0846\|αὐτοῖς,]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G5456G\|φωνὴ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3507\|νεφέλης]]  [[G3004G\|λέγουσα·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G0027\|ἀγαπητός·]]  [[G0191\|ἀκούετε]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.6|<< Mark 9:6]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.8|Mark 9:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 9:7** is...
 > $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Deut.18.15|Deut 18:15]] ☩ [[LXX.Ps.2.7|Ps 2:7]]

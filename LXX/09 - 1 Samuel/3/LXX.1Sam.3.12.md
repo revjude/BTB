@@ -1,6 +1,56 @@
+---
+title: LXX 1 Samuel 3:12
+type: Verse
+lxx: "In  that day I rouse up against Eli. All as many things as I spoke against  his house I will begin and I will complete."
+greek: "εν τη ημέρα εκείνη επεγερώ επί Ηλί πάντα όσα ελάλησα εις τον οίκον αυτού άρξομαι και επιτελέσω"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 3
+book/chapter: "[[1Sam.3|1 Samuel 3]]"
+chronological_order: 282
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONNIVANCE|CONNIVANCE]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G1892]]"
+- "[[G1909]]"
+- "[[G2242]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G2980]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G0756]]"
+- "[[G2532]]"
+- "[[G2005]]"
+---
+
 **LXX 1 Samuel 3:12** 
 <small><sub>**LXX:**</sub></small>
 In  that day I rouse up against Eli. All as many \[things\] as I spoke against  his house I will begin and I will complete. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G1565\|εκείνη]] [[G1892\|επεγερώ]] [[G1909\|επί]] [[G2242\|Ηλί]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G2980\|ελάλησα]] [[G1519\|εις]] [[G3588\|τον]] [[G3624\|οίκον]] [[G1473\|αυτού]] [[G0756\|άρξομαι]] [[G2532\|και]] [[G2005\|επιτελέσω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONNIVANCE|CONNIVANCE]] • [[topic ELI|ELI]] • [[topic HOPHNI|HOPHNI]] • [[topic SAMUEL|SAMUEL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.11|<< 1 Samuel 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.13|1 Samuel 3:13 >>]]</td></tr></table>
 
@@ -21,6 +71,6 @@ In  that day I rouse up against Eli. All as many \[things\] as I spoke against  
 | I will begin | **<big>[[G0756\|άρξομαι]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | I will complete. | **<big>[[G2005\|επιτελέσω]]</big>** |
-[[1Sam.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.11|<< 1 Samuel 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.13|1 Samuel 3:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.3.11|<< 1 Samuel 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.3.13|1 Samuel 3:13 >>]]</td></tr></table>
 
 

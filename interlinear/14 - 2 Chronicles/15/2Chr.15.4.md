@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 15:4
+type: Verse
+kjv: "But when they in their trouble did turn unto the LORD God of Israel, and sought him, he was found of them."
+bsb: "But in their distress they turned to the LORD, the God of Israel, and sought Him, and He was found by them."
+hebrew: "וַיָּ֙שָׁב֙ בַּצַּר־ ל֔וֹ עַל־ יְהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וַיְבַקְשֻׁ֖הוּ וַיִּמָּצֵ֥א לָהֶֽם׃"
+pericope: "[[2Chr.15.1 The Prophecy of Azariah|The Prophecy of Azariah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 15
+book/chapter: "[[2Chr.15|2 Chronicles 15]]"
+chronological_order: 561
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725I]]"
+- "[[H9003]]"
+- "[[H6862B]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1245]]"
+- "[[H4672]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 15:4**<big><big>[[2Chr.15.1 The Prophecy of Azariah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when they in their trouble did turn unto the LORD God of Israel, and sought him, he was found of them.
 <small><sub>**BSB:**</sub></small>
 But in their distress they turned to the LORD, the God of Israel, and sought Him, and He was found by them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725I\|יָּ֙שָׁב֙]] [[H9003\|בַּ]][[H6862B\|צַּר]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H1245\|יְבַקְשֻׁ֖]][[H9033\|הוּ]] [[H9001\|וַ]][[H4672\|יִּמָּצֵ֥א]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic COURAGE|COURAGE]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.15.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.15.3|<< 2 Chronicles 15:3]]</td><td align="center" style="border:none;">[[2Chr.15|2 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.15.5|2 Chronicles 15:5 >>]]</td></tr></table>
 

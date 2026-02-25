@@ -1,8 +1,56 @@
+---
+title: Ezekiel 42:18
+type: Verse
+kjv: "He measured the south side, five hundred reeds, with the measuring reed."
+bsb: "He measured the south side to be five hundred cubits long."
+hebrew: "אֵ֛ת ר֥וּחַ הַדָּר֖וֹם מָדָ֑ד חֲמֵשׁ־ מֵא֥וֹת קָנִ֖ים בִּקְנֵ֥ה הַמִּדָּֽה׃"
+pericope: "[[Ezek.42.15 The Outer Measurements|The Outer Measurements]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic REED|REED]]"
+strongs:
+- "[[H0853]]"
+- "[[H7307I]]"
+- "[[H9009]]"
+- "[[H1864]]"
+- "[[H4058]]"
+- "[[H2568]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H7070I]]"
+- "[[H9003]]"
+- "[[H7070H]]"
+- "[[H4060A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:18**<big><big>[[Ezek.42.15 The Outer Measurements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He measured the south side, five hundred reeds, with the measuring reed.
 <small><sub>**BSB:**</sub></small>
 He measured the south side to be five hundred cubits long.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֵ֛ת]] [[H7307I\|ר֥וּחַ]] [[H9009\|הַ]][[H1864\|דָּר֖וֹם]] [[H4058\|מָדָ֑ד]] [[H2568\|חֲמֵשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H7070I\|קָנִ֖ים]] [[H9003\|בִּ]][[H7070H\|קְנֵ֥ה]] [[H9009\|הַ]][[H4060A\|מִּדָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REED|REED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.17|<< Ezekiel 42:17]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.19|Ezekiel 42:19 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Genesis 36:25
+type: Verse
+kjv: "And the children of Anah were these; Dishon, and Aholibamah the daughter of Anah."
+bsb: "These are the children of Anah: Dishon and Oholibamah daughter of Anah."
+hebrew: "וְאֵ֥לֶּה בְנֵֽי־ עֲנָ֖ה דִּשֹׁ֑ן וְאָהֳלִיבָמָ֖ה בַּת־ עֲנָֽה׃"
+pericope: "[[Gen.36.20 The Descendants of Seir|The Descendants of Seir]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AHOLIBAMAH|AHOLIBAMAH]]"
+- "[[topic DISHON|DISHON]]"
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic SEIR|SEIR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6034]]"
+- "[[H1787H]]"
+- "[[H0173]]"
+- "[[H1323G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:25**<big><big>[[Gen.36.20 The Descendants of Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Anah [were] these; Dishon, and Aholibamah the daughter of Anah.
 <small><sub>**BSB:**</sub></small>
 These are the children of Anah: Dishon and Oholibamah daughter of Anah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֥לֶּה]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H6034\|עֲנָ֖ה]] [[H1787H\|דִּשֹׁ֑ן]] [[H9002\|וְ]][[H0173\|אָהֳלִיבָמָ֖ה]] [[H1323G\|בַּת]][[H9014\|־]] [[H6034\|עֲנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHOLIBAMAH|AHOLIBAMAH]] • [[topic DISHON|DISHON]] • [[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic SEIR|SEIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.24|<< Genesis 36:24]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.26|Genesis 36:26 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 17:13
+type: Verse
+kjv: "And the three eldest sons of Jesse went and followed Saul to the battle: and the names of his three sons that went to the battle were Eliab the firstborn, and next unto him Abinadab, and the third Shammah."
+bsb: "The three older sons of Jesse had followed Saul into battle: The firstborn was Eliab, the second was Abinadab, and the third was Shammah."
+hebrew: "וַיֵּ֨לְכ֜וּ שְׁלֹ֤שֶׁת בְּנֵֽי־ יִשַׁי֙ הַגְּדֹלִ֔ים הָלְכ֥וּ אַחֲרֵי־ שָׁא֖וּל לַמִּלְחָמָ֑ה וְשֵׁ֣ם׀ שְׁלֹ֣שֶׁת בָּנָ֗יו אֲשֶׁ֤ר הָלְכוּ֙ בַּמִּלְחָמָ֔ה אֱלִיאָ֣ב הַבְּכ֗וֹר וּמִשְׁנֵ֙הוּ֙ אֲבִ֣ינָדָ֔ב וְהַשְּׁלִשִׁ֖י שַׁמָּֽה׃"
+pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABINADAB|ABINADAB]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic ELIAB|ELIAB]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic SHAMMAH|SHAMMAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980N]]"
+- "[[H7969]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3448]]"
+- "[[H9009]]"
+- "[[H1419K]]"
+- "[[H0310A]]"
+- "[[H7586G]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9015]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H0446I]]"
+- "[[H1060]]"
+- "[[H4932H]]"
+- "[[H0041I]]"
+- "[[H7992]]"
+- "[[H8048J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:13**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the three eldest sons of Jesse went [and] followed Saul to the battle: and the names of his three sons that went to the battle [were] Eliab the firstborn, and next unto him Abinadab, and the third Shammah.
 <small><sub>**BSB:**</sub></small>
 The three older sons of Jesse had followed Saul into battle: The firstborn was Eliab, the second was Abinadab, and the third was Shammah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980N\|יֵּ֨לְכ֜וּ]] [[H7969\|שְׁלֹ֤שֶׁת]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H3448\|יִשַׁי֙]] [[H9009\|הַ]][[H1419K\|גְּדֹלִ֔ים]] [[H1980N\|הָלְכ֥וּ]] [[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]][[H9015\|׀]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H1121A\|בָּנָ֗י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֤ר]] [[H1980G\|הָלְכוּ֙]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֔ה]] [[H0446I\|אֱלִיאָ֣ב]] [[H9009\|הַ]][[H1060\|בְּכ֗וֹר]] [[H9002\|וּ]][[H4932H\|מִשְׁנֵ֙]][[H9023\|הוּ֙]] [[H0041I\|אֲבִ֣ינָדָ֔ב]] [[H9002\|וְ]][[H9009\|הַ]][[H7992\|שְּׁלִשִׁ֖י]] [[H8048J\|שַׁמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABINADAB|ABINADAB]] • [[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic ELIAB|ELIAB]] • [[topic JESSE|JESSE]] • [[topic SHAMMAH|SHAMMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.12|<< 1 Samuel 17:12]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.14|1 Samuel 17:14 >>]]</td></tr></table>
 

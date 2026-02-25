@@ -1,8 +1,72 @@
+---
+title: 2 Kings 8:21
+type: Verse
+kjv: "So Joram went over to Zair, and all the chariots with him: and he rose by night, and smote the Edomites which compassed him about, and the captains of the chariots: and the people fled into their tents."
+bsb: "So Jehoram crossed over to Zair with all his chariots. When the Edomites surrounded him and his chariot commanders, he rose up and attacked by night. His troops, however, fled to their homes."
+hebrew: "וַיַּעֲבֹ֤ר יוֹרָם֙ צָעִ֔ירָה וְכָל־ הָרֶ֖כֶב עִמּ֑וֹ וַֽיְהִי־ ה֞וּא קָ֣ם לַ֗יְלָה וַיַּכֶּ֨ה אֶת־ אֱד֜וֹם הַסֹּבֵ֤יב אֵלָיו֙ וְאֵת֙ שָׂרֵ֣י הָרֶ֔כֶב וַיָּ֥נָס הָעָ֖ם לְאֹהָלָֽיו׃"
+pericope: "[[2Kgs.8.20 Edom and Libnah Rebel|Edom and Libnah Rebel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHORAM|JEHORAM]]"
+- "[[topic ZAIR|ZAIR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H3141J]]"
+- "[[H6811]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H1931]]"
+- "[[H6965B]]"
+- "[[H3915]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H0123G]]"
+- "[[H5437H]]"
+- "[[H0413]]"
+- "[[H8269]]"
+- "[[H5127]]"
+- "[[H5971K]]"
+- "[[H9005]]"
+- "[[H0168H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:21**<big><big>[[2Kgs.8.20 Edom and Libnah Rebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joram went over to Zair, and all the chariots with him: and he rose by night, and smote the Edomites which compassed him about, and the captains of the chariots: and the people fled into their tents.
 <small><sub>**BSB:**</sub></small>
 So Jehoram crossed over to Zair with all his chariots. When the Edomites surrounded him and his chariot commanders, he rose up and attacked by night. His troops, however, fled to their homes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֹ֤ר]] [[H3141J\|יוֹרָם֙]] [[H6811\|צָעִ֔ירָ]][[H9011\|ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H7393G\|רֶ֖כֶב]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H1931\|ה֞וּא]] [[H6965B\|קָ֣ם]] [[H3915\|לַ֗יְלָה]] [[H9001\|וַ]][[H5221\|יַּכֶּ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0123G\|אֱד֜וֹם]] [[H9009\|הַ]][[H5437H\|סֹּבֵ֤יב]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הָ]][[H7393G\|רֶ֔כֶב]] [[H9001\|וַ]][[H5127\|יָּ֥נָס]] [[H9009\|הָ]][[H5971K\|עָ֖ם]] [[H9005\|לְ]][[H0168H\|אֹהָלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic EDOMITES|EDOMITES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHORAM|JEHORAM]] • [[topic ZAIR|ZAIR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.20|<< 2 Kings 8:20]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.22|2 Kings 8:22 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 11:6
+type: Verse
+kjv: "And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief."
+bsb: "Now David had said, “Whoever is the first to strike down a Jebusite will become chief commander.” And Joab son of Zeruiah went up first, and he became the chief."
+hebrew: "וַיֹּ֣אמֶר דָּוִ֔יד כָּל־ מַכֵּ֤ה יְבוּסִי֙ בָּרִ֣אשׁוֹנָ֔ה יִהְיֶ֥ה לְרֹ֖אשׁ וּלְשָׂ֑ר וַיַּ֧עַל בָּרִאשׁוֹנָ֛ה יוֹאָ֥ב בֶּן־ צְרוּיָ֖ה וַיְהִ֥י לְרֹֽאשׁ׃"
+pericope: "[[1Chr.11.4 David Conquers Jerusalem|David Conquers Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 11
+book/chapter: "[[1Chr.11|1 Chronicles 11]]"
+chronological_order: 335
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H2983G]]"
+- "[[H9003]]"
+- "[[H7223G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H7218H]]"
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H5927G]]"
+- "[[H3097G]]"
+- "[[H1121A]]"
+- "[[H6870]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 11:6**<big><big>[[1Chr.11.4 David Conquers Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.
 <small><sub>**BSB:**</sub></small>
 Now David had said, “Whoever is the first to strike down a Jebusite will become chief commander.” And Joab son of Zeruiah went up first, and he became the chief.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔יד]] [[H3605\|כָּל]][[H9014\|־]] [[H5221\|מַכֵּ֤ה]] [[H2983G\|יְבוּסִי֙]] [[H9003\|בָּ]][[H7223G\|רִ֣אשׁוֹנָ֔ה]] [[H1961\|יִהְיֶ֥ה]] [[H9005\|לְ]][[H7218H\|רֹ֖אשׁ]] [[H9002\|וּ]][[H9005\|לְ]][[H8269\|שָׂ֑ר]] [[H9001\|וַ]][[H5927G\|יַּ֧עַל]] [[H9003\|בָּ]][[H7223G\|רִאשׁוֹנָ֛ה]] [[H3097G\|יוֹאָ֥ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6870\|צְרוּיָ֖ה]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H9005\|לְ]][[H7218H\|רֹֽאשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic DAVID|DAVID]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JOAB|JOAB]] • [[topic PROMOTION|PROMOTION]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.11.5|<< 1 Chronicles 11:5]]</td><td align="center" style="border:none;">[[1Chr.11|1 Chronicles 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.11.7|1 Chronicles 11:7 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Daniel 8:13
+type: Verse
+kjv: "Then I heard one saint speaking, and another saint said unto that certain saint which spake, How long shall be the vision concerning the daily sacrifice, and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?"
+bsb: "Then I heard a holy one speaking, and another holy one said to him, “How long until the fulfillment of the vision of the daily sacrifice, the rebellion that causes desolation, and the surrender of the sanctuary and of the host to be trampled?”"
+hebrew: "וָאֶשְׁמְעָ֥ה אֶֽחָד־ קָד֖וֹשׁ מְדַבֵּ֑ר וַיֹּאמֶר֩ אֶחָ֨ד קָד֜וֹשׁ לַפַּֽלְמוֹנִ֣י הַֽמְדַבֵּ֗ר עַד־ מָתַ֞י הֶחָז֤וֹן הַתָּמִיד֙ וְהַפֶּ֣שַׁע שֹׁמֵ֔ם תֵּ֛ת וְקֹ֥דֶשׁ וְצָבָ֖א מִרְמָֽס׃"
+pericope: "[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|Daniel’s Vision of the Ram and the Goat]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H9012]]"
+- "[[H0259]]"
+- "[[H9014]]"
+- "[[H6918G]]"
+- "[[H1696G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6422]]"
+- "[[H9009]]"
+- "[[H5704]]"
+- "[[H4970]]"
+- "[[H2377]]"
+- "[[H8548]]"
+- "[[H9002]]"
+- "[[H6588]]"
+- "[[H8074G]]"
+- "[[H5414G]]"
+- "[[H6944G]]"
+- "[[H6635A]]"
+- "[[H4823]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:13**<big><big>[[Dan.8.1 Daniel’s Vision of the Ram and the Goat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I heard one saint speaking, and another saint said unto that certain [saint] which spake, How long [shall be] the vision [concerning] the daily [sacrifice], and the transgression of desolation, to give both the sanctuary and the host to be trodden under foot?
 <small><sub>**BSB:**</sub></small>
 Then I heard a holy one speaking, and another holy one said to him, “How long until the fulfillment of the vision of the daily sacrifice, the rebellion that causes desolation, and the surrender of the sanctuary and of the host to be trampled?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H8085G\|אֶשְׁמְעָ֥]][[H9012\|ה]] [[H0259\|אֶֽחָד]][[H9014\|־]] [[H6918G\|קָד֖וֹשׁ]] [[H1696G\|מְדַבֵּ֑ר]] [[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H0259\|אֶחָ֨ד]] [[H6918G\|קָד֜וֹשׁ]] [[H9005\|לַ]][[H6422\|פַּֽלְמוֹנִ֣י]] [[H9009\|הַֽ]][[H1696G\|מְדַבֵּ֗ר]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֞י]] [[H9009\|הֶ]][[H2377\|חָז֤וֹן]] [[H9009\|הַ]][[H8548\|תָּמִיד֙]] [[H9002\|וְ]][[H9009\|הַ]][[H6588\|פֶּ֣שַׁע]] [[H8074G\|שֹׁמֵ֔ם]] [[H5414G\|תֵּ֛ת]] [[H9002\|וְ]][[H6944G\|קֹ֥דֶשׁ]] [[H9002\|וְ]][[H6635A\|צָבָ֖א]] [[H4823\|מִרְמָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CHURCH|CHURCH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.12|<< Daniel 8:12]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.14|Daniel 8:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

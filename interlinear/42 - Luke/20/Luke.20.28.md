@@ -1,10 +1,67 @@
+---
+title: Luke 20:28
+type: Verse
+kjv: "Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother."
+bsb: "“Teacher,” they said, “Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him."
+greek: "λέγοντες· διδάσκαλε, Μωϋσῆς ἔγραψεν ἡμῖν· ἐάν τινος ἀδελφὸς ἀποθάνῃ ἔχων γυναῖκα καὶ οὗτος ἄτεκνος ᾖ, ἵνα λάβῃ ὁ ἀδελφὸς αὐτοῦ τὴν γυναῖκα καὶ ἐξαναστήσῃ σπέρμα τῷ ἀδελφῷ αὐτοῦ."
+pericope: "[[Luke.20.27 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G3475]]"
+- "[[G1125]]"
+- "[[G3165]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G0080]]"
+- "[[G0599]]"
+- "[[G2192]]"
+- "[[G1135H]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G0815]]"
+- "[[G1510]]"
+- "[[G2443]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1817]]"
+- "[[G4690G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 20:28**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother.
 <small><sub>**BSB:**</sub></small>
 “Teacher,” they said, “Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man is to marry his brother’s widow and raise up offspring for him.
-<small><sub>**Literal:**</sub></small>
-saying; Teacher, Moses wrote to us: if anyone’s brother shall die having a wife and he childless shall be, that shall take the brother of him the wife and shall raise up seed to the brother of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.27|<< Luke 20:27]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.29|Luke 20:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγοντες·]]  [[G1320\|διδάσκαλε,]]  [[G3475\|Μωϋσῆς]]  [[G1125\|ἔγραψεν]]  [[G3165\|ἡμῖν·]]  [[G1437\|ἐάν]]  [[G5100\|τινος]]  [[G0080\|ἀδελφὸς]]  [[G0599\|ἀποθάνῃ]]  [[G2192\|ἔχων]]  [[G1135H\|γυναῖκα]]  [[G2532\|καὶ]]  [[G3778\|οὗτος]]  [[G0815\|ἄτεκνος]]  [[G1510\|ᾖ,]]  [[G2443\|ἵνα]]  [[G2983\|λάβῃ]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G2532\|καὶ]]  [[G1817\|ἐξαναστήσῃ]]  [[G4690G\|σπέρμα]]  [[G3588\|τῷ]]  [[G0080\|ἀδελφῷ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.27|<< Luke 20:27]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.29|Luke 20:29 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 20:28** is...
 > $\quad$ referencing: [[LXX.Gen.38.8|Gen 38:8]]

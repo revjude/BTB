@@ -1,10 +1,69 @@
+---
+title: Acts 27:12
+type: Verse
+kjv: "And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lieth toward the south west and north west."
+bsb: "Since the harbor was unsuitable to winter in, the majority decided to sail on, hoping that somehow they could reach Phoenix to winter there. Phoenix was a harbor in Crete facing both southwest and northwest."
+greek: "Ἀνευθέτου δὲ τοῦ λιμένος ὑπάρχοντος πρὸς παραχειμασίαν οἱ πλείονες ἔθεντο βουλὴν ἀναχθῆναι ἐκεῖθεν, εἴ πως δύναιντο καταντήσαντες εἰς Φοίνικα παραχειμάσαι λιμένα τῆς Κρήτης βλέποντα κατὰ λίβα καὶ κατὰ χῶρον.¶"
+pericope: "[[Acts.27.1 Paul Sails for Rome|Paul Sails for Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CRETE|CRETE]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHENICE|PHENICE]]"
+- "[[topic WINTER|WINTER]]"
+strongs:
+- "[[G0428]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3040]]"
+- "[[G5225]]"
+- "[[G4314]]"
+- "[[G3915]]"
+- "[[G4119]]"
+- "[[G5087]]"
+- "[[G1012]]"
+- "[[G0321]]"
+- "[[G1564]]"
+- "[[G1487G]]"
+- "[[G4458]]"
+- "[[G1410]]"
+- "[[G2658]]"
+- "[[G1519]]"
+- "[[G5405]]"
+- "[[G3914]]"
+- "[[G2914]]"
+- "[[G0991]]"
+- "[[G2596]]"
+- "[[G3047]]"
+- "[[G2532]]"
+- "[[G5566]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 27:12**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, [and there] to winter; [which is] an haven of Crete, and lieth toward the south west and north west.
 <small><sub>**BSB:**</sub></small>
 Since the harbor was unsuitable to winter in, the majority decided to sail on, hoping that somehow they could reach Phoenix to winter there. Phoenix was a harbor in Crete facing both southwest and northwest.
-<small><sub>**Literal:**</sub></small>
-Unsuitable now the harbor being to winter in the majority reached a decision to set sail from there, if somehow they would be able having arrived at Phoenix to winter [there] — a harbor <the> of Crete looking toward [the] southwest and toward [the] northwest.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.11|<< Acts 27:11]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.13|Acts 27:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0428\|Ἀνευθέτου]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G3040\|λιμένος]]  [[G5225\|ὑπάρχοντος]]  [[G4314\|πρὸς]]  [[G3915\|παραχειμασίαν]]  [[G3588\|οἱ]]  [[G4119\|πλείονες]]  [[G5087\|ἔθεντο]]  [[G1012\|βουλὴν]]  [[G0321\|ἀναχθῆναι]]  [[G1564\|ἐκεῖθεν,]]  [[G1487G\|εἴ]]  [[G4458\|πως]]  [[G1410\|δύναιντο]]  [[G2658\|καταντήσαντες]]  [[G1519\|εἰς]]  [[G5405\|Φοίνικα]]  [[G3914\|παραχειμάσαι]]  [[G3040\|λιμένα]]  [[G3588\|τῆς]]  [[G2914\|Κρήτης]]  [[G0991\|βλέποντα]]  [[G2596\|κατὰ]]  [[G3047\|λίβα]]  [[G2532\|καὶ]]  [[G2596\|κατὰ]]  [[G5566\|χῶρον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRETE|CRETE]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic PAUL|PAUL]] • [[topic PHENICE|PHENICE]] • [[topic WINTER|WINTER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.11|<< Acts 27:11]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.13|Acts 27:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

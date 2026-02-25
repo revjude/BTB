@@ -1,8 +1,57 @@
+---
+title: Leviticus 22:29
+type: Verse
+kjv: "And when ye will offer a sacrifice of thanksgiving unto the LORD, offer it at your own will."
+bsb: "When you sacrifice a thank offering to the LORD, offer it so that it may be acceptable on your behalf."
+hebrew: "וְכִֽי־ תִזְבְּח֥וּ זֶֽבַח־ תּוֹדָ֖ה לַיהוָ֑ה לִֽרְצֹנְכֶ֖ם תִּזְבָּֽחוּ׃"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2076]]"
+- "[[H2077]]"
+- "[[H8426]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H7522]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:29**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when ye will offer a sacrifice of thanksgiving unto the LORD, offer [it] at your own will.
 <small><sub>**BSB:**</sub></small>
 When you sacrifice a thank offering to the LORD, offer it so that it may be acceptable on your behalf.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H2076\|תִזְבְּח֥וּ]] [[H2077\|זֶֽבַח]][[H9014\|־]] [[H8426\|תּוֹדָ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9005\|לִֽ]][[H7522\|רְצֹנְ]][[H9026\|כֶ֖ם]] [[H2076\|תִּזְבָּֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.28|<< Leviticus 22:28]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.30|Leviticus 22:30 >>]]</td></tr></table>
 

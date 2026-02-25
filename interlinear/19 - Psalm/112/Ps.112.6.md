@@ -1,8 +1,54 @@
+---
+title: Psalm 112:6
+type: Verse
+kjv: "Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance."
+bsb: "Surely he will never be shaken; the righteous man will be remembered forever."
+hebrew: "כִּֽי־ לְעוֹלָ֥ם לֹא־ יִמּ֑וֹט לְזֵ֥כֶר ע֝וֹלָ֗ם יִהְיֶ֥ה צַדִּֽיק׃"
+pericope: "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 112
+book/chapter: "[[Ps.112|Psalm 112]]"
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H3808]]"
+- "[[H4131]]"
+- "[[H2143]]"
+- "[[H1961]]"
+- "[[H6662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 112:6**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance.
 <small><sub>**BSB:**</sub></small>
 Surely he will never be shaken; the righteous man will be remembered forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H5769G\|עוֹלָ֥ם]] [[H3808\|לֹא]][[H9014\|־]] [[H4131\|יִמּ֑וֹט]] [[H9005\|לְ]][[H2143\|זֵ֥כֶר]] [[H5769G\|ע֝וֹלָ֗ם]] [[H1961\|יִהְיֶ֥ה]] [[H6662\|צַדִּֽיק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.5|<< Psalms 112:5]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.7|Psalms 112:7 >>]]</td></tr></table>
 

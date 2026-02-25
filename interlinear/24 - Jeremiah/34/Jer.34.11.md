@@ -1,8 +1,66 @@
+---
+title: Jeremiah 34:11
+type: Verse
+kjv: "But afterward they turned, and caused the servants and the handmaids, whom they had let go free, to return, and brought them into subjection for servants and for handmaids."
+bsb: "but later they changed their minds and took back the menservants and maidservants they had freed, and they forced them to become slaves again."
+hebrew: "וַיָּשׁ֙וּבוּ֙ אַחֲרֵי־ כֵ֔ן וַיָּשִׁ֗בוּ אֶת־ הָֽעֲבָדִים֙ וְאֶת־ הַשְּׁפָח֔וֹת אֲשֶׁ֥ר שִׁלְּח֖וּ חָפְשִׁ֑ים וַֽיִּכְבְּשׁ֔וּם לַעֲבָדִ֖ים וְלִשְׁפָחֽוֹת׃ ס"
+pericope: "[[Jer.34.8 Freedom for Hebrew Slaves|Freedom for Hebrew Slaves]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 34
+book/chapter: "[[Jer.34|Jeremiah 34]]"
+chronological_order: 757
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic KING|KING]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725I]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5650]]"
+- "[[H9002]]"
+- "[[H8198]]"
+- "[[H0834A]]"
+- "[[H7971H]]"
+- "[[H2670]]"
+- "[[H3533]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 34:11**<big><big>[[Jer.34.8 Freedom for Hebrew Slaves|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But afterward they turned, and caused the servants and the handmaids, whom they had let go free, to return, and brought them into subjection for servants and for handmaids.
 <small><sub>**BSB:**</sub></small>
 but later they changed their minds and took back the menservants and maidservants they had freed, and they forced them to become slaves again.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725I\|יָּשׁ֙וּבוּ֙]] [[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֔ן]] [[H9001\|וַ]][[H7725G\|יָּשִׁ֗בוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H5650\|עֲבָדִים֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8198\|שְּׁפָח֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H7971H\|שִׁלְּח֖וּ]] [[H2670\|חָפְשִׁ֑ים]] [[H9001\|וַֽ]][[H3533\|יִּכְבְּשׁ֔וּ]][[H9038\|ם]] [[H9005\|לַ]][[H5650\|עֲבָדִ֖ים]] [[H9002\|וְ]][[H9005\|לִ]][[H8198\|שְׁפָחֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSTITUTION|CONSTITUTION]] • [[topic COVENANT|COVENANT]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic KING|KING]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.34.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.10|<< Jeremiah 34:10]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.12|Jeremiah 34:12 >>]]</td></tr></table>
 
@@ -21,11 +79,11 @@ but later they changed their minds and took back the menservants and maidservant
 | free [people]  |**<big>&#8207;[[H2670\|חָפְשִׁ֑ים]]&#8207; </big>**| cha.fe.Shim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they subjugated them  [^3]|**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H3533\|יִּכְבְּשׁ֔וּ]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**[^4] | va<small><sup>[[Hc]]</sup></small> i.yakh.bi.shu<small><sup>[[HVqw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | for [male] slaves  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5650\|עֲבָדִ֖ים]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.va.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and for female slaves  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8198\|שְׁפָחֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> sh.fa.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and for female slaves  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8198\|שְׁפָחֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> sh.fa.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.34.10|<< Jeremiah 34:10]]</td><td align="center" style="border:none;">[[Jer.34|Jeremiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.34.12|Jeremiah 34:12 >>]]</td></tr></table>
 
-[^1]: and they subjugated them  | **<big>[[H9038|ם]]</big><big>[[H3533|יַּכְבִּישׁוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yakh.bi.shu<small><sup>[[HVhw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
-[^2]: and they subjugated them  | **<big>[[H9038|ם]]</big><big>[[H3533|יַּכְבִּישׁוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yakh.bi.shu<small><sup>[[HVhw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
-[^3]: and they subjugated them  | **<big>[[H9038|ם]]</big><big>[[H3533|יַּכְבִּישׁוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yakh.bi.shu<small><sup>[[HVhw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^1]: and they subjugated them  | **<big>[[H9001|וַ]]</big><big>[[H3533|יַּכְבִּישׁוּ]]</big><big>[[H9038|ם]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yakh.bi.shu<small><sup>[[HVhw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^2]: and they subjugated them  | **<big>[[H9001|וַ]]</big><big>[[H3533|יַּכְבִּישׁוּ]]</big><big>[[H9038|ם]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yakh.bi.shu<small><sup>[[HVhw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
+[^3]: and they subjugated them  | **<big>[[H9001|וַ]]</big><big>[[H3533|יַּכְבִּישׁוּ]]</big><big>[[H9038|ם]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yakh.bi.shu<small><sup>[[HVhw3mp]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וַֽיִּכְבְּישׁ֔וּ/ם</big></span>**
 

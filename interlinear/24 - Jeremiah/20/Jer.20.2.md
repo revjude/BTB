@@ -1,8 +1,68 @@
+---
+title: Jeremiah 20:2
+type: Verse
+kjv: "Then Pashur smote Jeremiah the prophet, and put him in the stocks that were in the high gate of Benjamin, which was by the house of the LORD."
+bsb: "he had Jeremiah the prophet beaten and put in the stocks at the Upper Gate of Benjamin, which was by the house of the LORD."
+hebrew: "וַיַּכֶּ֣ה פַשְׁח֔וּר אֵ֖ת יִרְמְיָ֣הוּ הַנָּבִ֑יא וַיִּתֵּ֨ן אֹת֜וֹ עַל־ הַמַּהְפֶּ֗כֶת אֲשֶׁ֨ר בְּשַׁ֤עַר בִּנְיָמִן֙ הָֽעֶלְי֔וֹן אֲשֶׁ֖ר בְּבֵ֥ית יְהוָֽה׃"
+pericope: "[[Jer.20.1 Pashhur Persecutes Jeremiah|Pashhur Persecutes Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GATES|GATES]]"
+- "[[topic IMMER|IMMER]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PASHUR|PASHUR]]"
+- "[[topic STOCKS|STOCKS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H6583I]]"
+- "[[H0853]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5414H]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4115]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H1144L]]"
+- "[[H5945A]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:2**<big><big>[[Jer.20.1 Pashhur Persecutes Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Pashur smote Jeremiah the prophet, and put him in the stocks that [were] in the high gate of Benjamin, which [was] by the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 he had Jeremiah the prophet beaten and put in the stocks at the Upper Gate of Benjamin, which was by the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5221\|יַּכֶּ֣ה]] [[H6583I\|פַשְׁח֔וּר]] [[H0853\|אֵ֖ת]] [[H3414L\|יִרְמְיָ֣הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֑יא]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֨ן]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4115\|מַּהְפֶּ֗כֶת]] [[H0834A\|אֲשֶׁ֨ר]] [[H9003\|בְּ]][[H8179G\|שַׁ֤עַר]] [[H1144L\|בִּנְיָמִן֙]] [[H9009\|הָֽ]][[H5945A\|עֶלְי֔וֹן]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic CHURCH|CHURCH]] • [[topic GATES|GATES]] • [[topic IMMER|IMMER]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PASHUR|PASHUR]] • [[topic STOCKS|STOCKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.1|<< Jeremiah 20:1]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.3|Jeremiah 20:3 >>]]</td></tr></table>
 

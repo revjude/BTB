@@ -1,8 +1,61 @@
+---
+title: Jeremiah 13:22
+type: Verse
+kjv: "And if thou say in thine heart, Wherefore come these things upon me? For the greatness of thine iniquity are thy skirts discovered, and thy heels made bare."
+bsb: "And if you ask yourself, “Why has this happened to me?” It is because of the magnitude of your iniquity that your skirts have been stripped off and your body has been exposed."
+hebrew: "וְכִ֤י תֹאמְרִי֙ בִּלְבָבֵ֔ךְ מַדּ֖וּעַ קְרָאֻ֣נִי אֵ֑לֶּה בְּרֹ֧ב עֲוֹנֵ֛ךְ נִגְל֥וּ שׁוּלַ֖יִךְ נֶחְמְס֥וּ עֲקֵבָֽיִךְ׃"
+pericope: "[[Jer.13.15 Captivity Threatened|Captivity Threatened]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9022]]"
+- "[[H4069]]"
+- "[[H7122I]]"
+- "[[H9030]]"
+- "[[H0428]]"
+- "[[H7230]]"
+- "[[H5771G]]"
+- "[[H1540I]]"
+- "[[H7757]]"
+- "[[H2554]]"
+- "[[H6119]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 13:22**<big><big>[[Jer.13.15 Captivity Threatened|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thou say in thine heart, Wherefore come these things upon me? For the greatness of thine iniquity are thy skirts discovered, [and] thy heels made bare.
 <small><sub>**BSB:**</sub></small>
 And if you ask yourself, “Why has this happened to me?” It is because of the magnitude of your iniquity that your skirts have been stripped off and your body has been exposed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֤י]] [[H0559\|תֹאמְרִי֙]] [[H9003\|בִּ]][[H3824\|לְבָבֵ֔]][[H9022\|ךְ]] [[H4069\|מַדּ֖וּעַ]] [[H7122I\|קְרָאֻ֣]][[H9030\|נִי]] [[H0428\|אֵ֑לֶּה]] [[H9003\|בְּ]][[H7230\|רֹ֧ב]] [[H5771G\|עֲוֹנֵ֛]][[H9022\|ךְ]] [[H1540I\|נִגְל֥וּ]] [[H7757\|שׁוּלַ֖יִ]][[H9022\|ךְ]] [[H2554\|נֶחְמְס֥וּ]] [[H6119\|עֲקֵבָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.21|<< Jeremiah 13:21]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.23|Jeremiah 13:23 >>]]</td></tr></table>
 

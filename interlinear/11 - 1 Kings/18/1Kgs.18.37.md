@@ -1,8 +1,66 @@
+---
+title: 1 Kings 18:37
+type: Verse
+kjv: "Hear me, O LORD, hear me, that this people may know that thou art the LORD God, and that thou hast turned their heart back again."
+bsb: "Answer me, O LORD! Answer me, so that this people will know that You, the LORD, are God, and that You have turned their hearts back again.”"
+hebrew: "עֲנֵ֤נִי יְהוָה֙ עֲנֵ֔נִי וְיֵֽדְעוּ֙ הָעָ֣ם הַזֶּ֔ה כִּֽי־ אַתָּ֥ה יְהוָ֖ה הָאֱלֹהִ֑ים וְאַתָּ֛ה הֲסִבֹּ֥תָ אֶת־ לִבָּ֖ם אֲחֹרַנִּֽית׃"
+pericope: "[[1Kgs.18.36 Elijah’s Prayer|Elijah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H6030B]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0430G]]"
+- "[[H5437G]]"
+- "[[H0853]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H0322]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:37**<big><big>[[1Kgs.18.36 Elijah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear me, O LORD, hear me, that this people may know that thou [art] the LORD God, and [that] thou hast turned their heart back again.
 <small><sub>**BSB:**</sub></small>
 Answer me, O LORD! Answer me, so that this people will know that You, the LORD, are God, and that You have turned their hearts back again.”
+<small><sub>**Hebrew:**</sub></small>
+[[H6030B\|עֲנֵ֤]][[H9030\|נִי]] [[H3068G\|יְהוָה֙]] [[H6030B\|עֲנֵ֔]][[H9030\|נִי]] [[H9002\|וְ]][[H3045\|יֵֽדְעוּ֙]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H0859A\|אַתָּ֛ה]] [[H5437G\|הֲסִבֹּ֥תָ]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבָּ֖]][[H9028\|ם]] [[H0322\|אֲחֹרַנִּֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic ELIJAH|ELIJAH]] • [[topic FAITH|FAITH]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.36|<< 1 Kings 18:36]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.38|1 Kings 18:38 >>]]</td></tr></table>
 

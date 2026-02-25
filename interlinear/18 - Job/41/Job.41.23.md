@@ -1,8 +1,52 @@
+---
+title: Job 41:23
+type: Verse
+kjv: "The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved."
+bsb: "The folds of his flesh are tightly joined; they are firm and immovable."
+hebrew: "מַפְּלֵ֣י בְשָׂר֣וֹ דָבֵ֑קוּ יָצ֥וּק עָ֝לָ֗יו בַּל־ יִמּֽוֹט׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4651]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H1692]]"
+- "[[H3332H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H4131]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:23**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The flakes of his flesh are joined together: they are firm in themselves; they cannot be moved.
 <small><sub>**BSB:**</sub></small>
 The folds of his flesh are tightly joined; they are firm and immovable.
+<small><sub>**Hebrew:**</sub></small>
+[[H4651\|מַפְּלֵ֣י]] [[H1320\|בְשָׂר֣]][[H9023\|וֹ]] [[H1692\|דָבֵ֑קוּ]] [[H3332H\|יָצ֥וּק]] [[H5921A\|עָ֝לָ֗י]][[H9033\|ו]] [[H1077\|בַּל]][[H9014\|־]] [[H4131\|יִמּֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.22|<< Job 41:22]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.24|Job 41:24 >>]]</td></tr></table>
 

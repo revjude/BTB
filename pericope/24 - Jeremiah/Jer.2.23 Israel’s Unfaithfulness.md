@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Unfaithfulness
+type: Pericope
 pericope: "[[Jer.2.23 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 2
 book/chapter: "[[Jer.2|Jeremiah 2]]"
-genre:
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 15
 verses:
 - "[[Jer.2.23]]"
 - "[[Jer.2.24]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Jer.2.37]]"
 ---
 
-[[Jer.2|Jeremiah 2:23 - Jeremiah 2:37]]
+<small>[[Jer.2|Jeremiah 2:23-37]]</small>
 *Israel’s Unfaithfulness*
 
 [[Jer.2.23|23]] How canst thou say, I am not polluted, I have not gone after Baalim? see thy way in the valley, know what thou hast done: \[thou art\] a swift dromedary traversing her ways;

@@ -1,8 +1,60 @@
+---
+title: Psalm 73:6
+type: Verse
+kjv: "Therefore pride compasseth them about as a chain; violence covereth them as a garment."
+bsb: "Therefore pride is their necklace; a garment of violence covers them."
+hebrew: "לָ֭כֵן עֲנָקַ֣תְמוֹ גַאֲוָ֑ה יַעֲטָף־ שִׁ֝֗ית חָמָ֥ס לָֽמוֹ׃"
+pericope: "[[Ps.73.1 Surely God Is Good to Israel|Surely God Is Good to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 73
+book/chapter: "[[Ps.73|Psalm 73]]"
+chronological_order: 506
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHAINS|CHAINS]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H6059]]"
+- "[[H9038]]"
+- "[[H1346]]"
+- "[[H5848B]]"
+- "[[H9014]]"
+- "[[H7897]]"
+- "[[H2555]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 73:6**<big><big>[[Ps.73.1 Surely God Is Good to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore pride compasseth them about as a chain; violence covereth them [as] a garment.
 <small><sub>**BSB:**</sub></small>
 Therefore pride is their necklace; a garment of violence covers them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֭]][[H3651C\|כֵן]] [[H6059\|עֲנָקַ֣תְ]][[H9038\|מוֹ]] [[H1346\|גַאֲוָ֑ה]] [[H5848B\|יַעֲטָף]][[H9014\|־]] [[H7897\|שִׁ֝֗ית]] [[H2555\|חָמָ֥ס]] [[H9005\|לָֽ]][[H9038\|מוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic CHAINS|CHAINS]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PRIDE|PRIDE]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.73.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.73.5|<< Psalms 73:5]]</td><td align="center" style="border:none;">[[Ps.73|Psalms 73]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.7|Psalms 73:7 >>]]</td></tr></table>
 

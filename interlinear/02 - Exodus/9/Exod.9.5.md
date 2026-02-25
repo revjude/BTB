@@ -1,8 +1,61 @@
+---
+title: Exodus 9:5
+type: Verse
+kjv: "And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land."
+bsb: "The LORD set a time, saying, “Tomorrow the LORD will do this in the land.”"
+hebrew: "וַיָּ֥שֶׂם יְהוָ֖ה מוֹעֵ֣ד לֵאמֹ֑ר מָחָ֗ר יַעֲשֶׂ֧ה יְהוָ֛ה הַדָּבָ֥ר הַזֶּ֖ה בָּאָֽרֶץ׃"
+pericope: "[[Exod.9.1 The Fifth Plague：Livestock|The Fifth Plague：Livestock]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 9
+book/chapter: "[[Exod.9|Exodus 9]]"
+chronological_order: 101
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H3068G]]"
+- "[[H4150G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4279]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 9:5**<big><big>[[Exod.9.1 The Fifth Plague：Livestock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.
 <small><sub>**BSB:**</sub></small>
 The LORD set a time, saying, “Tomorrow the LORD will do this in the land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760A\|יָּ֥שֶׂם]] [[H3068G\|יְהוָ֖ה]] [[H4150G\|מוֹעֵ֣ד]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4279\|מָחָ֗ר]] [[H6213A\|יַעֲשֶׂ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H9009\|הַ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.9.4|<< Exodus 9:4]]</td><td align="center" style="border:none;">[[Exod.9|Exodus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.9.6|Exodus 9:6 >>]]</td></tr></table>
 

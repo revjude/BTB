@@ -1,8 +1,66 @@
+---
+title: Jeremiah 51:48
+type: Verse
+kjv: "Then the heaven and the earth, and all that is therein, shall sing for Babylon: for the spoilers shall come unto her from the north, saith the LORD."
+bsb: "Then heaven and earth and all that is in them will shout for joy over Babylon because the destroyers from the north will come against her,” declares the LORD."
+hebrew: "וְרִנְּנ֤וּ עַל־ בָּבֶל֙ שָׁמַ֣יִם וָאָ֔רֶץ וְכֹ֖ל אֲשֶׁ֣ר בָּהֶ֑ם כִּ֧י מִצָּפ֛וֹן יָבוֹא־ לָ֥הּ הַשּׁוֹדְדִ֖ים נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7442B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9009]]"
+- "[[H7703]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:48**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the heaven and the earth, and all that [is] therein, shall sing for Babylon: for the spoilers shall come unto her from the north, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 Then heaven and earth and all that is in them will shout for joy over Babylon because the destroyers from the north will come against her,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7442B\|רִנְּנ֤וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H8064\|שָׁמַ֣יִם]] [[H9002\|וָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בָּ]][[H9038\|הֶ֑ם]] [[H3588A\|כִּ֧י]] [[H9006\|מִ]][[H6828G\|צָּפ֛וֹן]] [[H0935G\|יָבוֹא]][[H9014\|־]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H9009\|הַ]][[H7703\|שּׁוֹדְדִ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.47|<< Jeremiah 51:47]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.49|Jeremiah 51:49 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

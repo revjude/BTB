@@ -1,3 +1,44 @@
+---
+title: LXX Psalm 83:1
+type: Verse
+lxx: "O God, who is likened to you? You should not keep quiet, nor soothe, O God."
+greek: "ο θεός τις ομοιωθήσεταί σοι μη σιγήσης μηδέ καταπραύνης ο θεός"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 83
+book/chapter: "[[Ps.83|Psalm 83]]"
+chronological_order: 513
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G5100]]"
+- "[[G3666]]"
+- "[[G1473]]"
+- "[[G3361]]"
+- "[[G4601]]"
+- "[[G3366]]"
+- "[[G7902]]"
+- "[[G3588]]"
+- "[[G2316]]"
+---
+
 **LXX Psalm 83:1** 
 
 ***The LORD Reigns Over His Enemies***
@@ -6,6 +47,10 @@ An ode of a psalm \[to\] Asaph.
 
 <small><sub>**LXX:**</sub></small>
 O God, who is likened to you? You should not keep quiet, nor soothe, O God. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ο]] [[G2316\|θεός]] [[G5100\|τις]] [[G3666\|ομοιωθήσεταί]] [[G1473\|σοι]] [[G3361\|μη]] [[G4601\|σιγήσης]] [[G3366\|μηδέ]] [[G7902\|καταπραύνης]] [[G3588\|ο]] [[G2316\|θεός]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARMIES|ARMIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.83.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.82.8|<< Psalm 82:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.2|Psalm 83:2 >>]]</td></tr></table>
 
@@ -22,6 +67,6 @@ O God, who is likened to you? You should not keep quiet, nor soothe, O God.
 | soothe, | **<big>[[G7902\|καταπραύνης]]</big>** |
 | O | **<big>[[G3588\|ο]]</big>** |
 | God. | **<big>[[G2316\|θεός]]</big>** |
-[[Ps.83.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.82.8|<< Psalm 82:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.2|Psalm 83:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.82.8|<< Psalm 82:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.83.2|Psalm 83:2 >>]]</td></tr></table>
 
 

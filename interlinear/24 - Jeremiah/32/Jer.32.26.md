@@ -1,8 +1,52 @@
+---
+title: Jeremiah 32:26
+type: Verse
+kjv: "Then came the word of the LORD unto Jeremiah, saying,"
+bsb: "Then the word of the LORD came to Jeremiah:"
+hebrew: "וַיְהִי֙ דְּבַר־ יְהוָ֔ה אֶֽל־ יִרְמְיָ֖הוּ לֵאמֹֽר׃"
+pericope: "[[Jer.32.26 The LORD Answers Jeremiah|The LORD Answers Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:26**<big><big>[[Jer.32.26 The LORD Answers Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came the word of the LORD unto Jeremiah, saying,
 <small><sub>**BSB:**</sub></small>
 Then the word of the LORD came to Jeremiah:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.25|<< Jeremiah 32:25]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.27|Jeremiah 32:27 >>]]</td></tr></table>
 

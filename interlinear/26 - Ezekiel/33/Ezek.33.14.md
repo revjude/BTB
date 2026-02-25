@@ -1,8 +1,70 @@
+---
+title: Ezekiel 33:14
+type: Verse
+kjv: "Again, when I say unto the wicked, Thou shalt surely die; if he turn from his sin, and do that which is lawful and right;"
+bsb: "But if I tell the wicked man, ‘You will surely die,’ and he turns from his sin and does what is just and right—"
+hebrew: "וּבְאָמְרִ֥י לָֽרָשָׁ֖ע מ֣וֹת תָּמ֑וּת וְשָׁב֙ מֵֽחַטָּאת֔וֹ וְעָשָׂ֥ה מִשְׁפָּ֖ט וּצְדָקָֽה׃"
+pericope: "[[Ezek.33.10 The Message of the Watchman|The Message of the Watchman]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0559]]"
+- "[[H9040]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H4191]]"
+- "[[H9001]]"
+- "[[H7725O]]"
+- "[[H9006]]"
+- "[[H2403B]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H4941H]]"
+- "[[H6666]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 33:14**<big><big>[[Ezek.33.10 The Message of the Watchman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again, when I say unto the wicked, Thou shalt surely die; if he turn from his sin, and do that which is lawful and right;
 <small><sub>**BSB:**</sub></small>
 But if I tell the wicked man, ‘You will surely die,’ and he turns from his sin and does what is just and right—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H0559\|אָמְרִ֥]][[H9040\|י]] [[H9005\|לָֽ]][[H7563\|רָשָׁ֖ע]] [[H4191\|מ֣וֹת]] [[H4191\|תָּמ֑וּת]] [[H9001\|וְ]][[H7725O\|שָׁב֙]] [[H9006\|מֵֽ]][[H2403B\|חַטָּאת֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H6213A\|עָשָׂ֥ה]] [[H4941H\|מִשְׁפָּ֖ט]] [[H9002\|וּ]][[H6666\|צְדָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.33.13|<< Ezekiel 33:13]]</td><td align="center" style="border:none;">[[Ezek.33|Ezekiel 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.33.15|Ezekiel 33:15 >>]]</td></tr></table>
 

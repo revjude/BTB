@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel to Be Restored
+type: Pericope
 pericope: "[[Ezek.39.21 Israel to Be Restored|Israel to Be Restored]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 39
 book/chapter: "[[Ezek.39|Ezekiel 39]]"
-genre:
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 9
 verses:
 - "[[Ezek.39.21]]"
 - "[[Ezek.39.22]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ezek.39.29]]"
 ---
 
-[[Ezek.39|Ezekiel 39:21 - Ezekiel 39:29]]
+<small>[[Ezek.39|Ezekiel 39:21-29]]</small>
 *Israel to Be Restored*
 
 [[Ezek.39.21|21]] And I will set my glory among the heathen, and all the heathen shall see my judgment that I have executed, and my hand that I have laid upon them.

@@ -1,8 +1,75 @@
+---
+title: 1 Samuel 2:28
+type: Verse
+kjv: "And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?"
+bsb: "And out of all the tribes of Israel I selected your father to be My priest, to offer sacrifices on My altar, to burn incense, and to wear an ephod in My presence. I also gave to the house of your father all the food offerings of the Israelites."
+hebrew: "וּבָחֹ֣ר אֹ֠תוֹ מִכָּל־ שִׁבְטֵ֨י יִשְׂרָאֵ֥ל לִי֙ לְכֹהֵ֔ן לַעֲל֣וֹת עַֽל־ מִזְבְּחִ֗י לְהַקְטִ֥יר קְטֹ֛רֶת לָשֵׂ֥את אֵפ֖וֹד לְפָנָ֑י וָֽאֶתְּנָה֙ לְבֵ֣ית אָבִ֔יךָ אֶת־ כָּל־ אִשֵּׁ֖י בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[1Sam.2.27 A Prophecy against the House of Eli|A Prophecy against the House of Eli]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELI|ELI]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0977]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7626H]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3548]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H9020]]"
+- "[[H6999A]]"
+- "[[H7004]]"
+- "[[H5375H]]"
+- "[[H0646]]"
+- "[[H6440G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H0801]]"
+- "[[H1121G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:28**<big><big>[[1Sam.2.27 A Prophecy against the House of Eli|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And did I choose him out of all the tribes of Israel [to be] my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of thy father all the offerings made by fire of the children of Israel?
 <small><sub>**BSB:**</sub></small>
 And out of all the tribes of Israel I selected your father to be My priest, to offer sacrifices on My altar, to burn incense, and to wear an ephod in My presence. I also gave to the house of your father all the food offerings of the Israelites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H0977\|בָחֹ֣ר]] [[H0853\|אֹ֠ת]][[H9033\|וֹ]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H7626H\|שִׁבְטֵ֨י]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H9005\|לִ]][[H9030\|י֙]] [[H9005\|לְ]][[H3548\|כֹהֵ֔ן]] [[H9005\|לַ]][[H5927G\|עֲל֣וֹת]] [[H5921A\|עַֽל]][[H9014\|־]] [[H4196\|מִזְבְּחִ֗]][[H9020\|י]] [[H9005\|לְ]][[H6999A\|הַקְטִ֥יר]] [[H7004\|קְטֹ֛רֶת]] [[H9005\|לָ]][[H5375H\|שֵׂ֥את]] [[H0646\|אֵפ֖וֹד]] [[H9005\|לְ]][[H6440G\|פָנָ֑]][[H9020\|י]] [[H9001\|וָֽ]][[H5414G\|אֶתְּנָ]][[H9012\|ה֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0801\|אִשֵּׁ֖י]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELI|ELI]] • [[topic HOPHNI|HOPHNI]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARENTS|PARENTS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.27|<< 1 Samuel 2:27]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.29|1 Samuel 2:29 >>]]</td></tr></table>
 

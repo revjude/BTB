@@ -1,10 +1,50 @@
+---
+title: John 8:18
+type: Verse
+kjv: "I am one that bear witness of myself, and the Father that sent me beareth witness of me."
+bsb: "I am One who testifies about Myself, and the Father, who sent Me, also testifies about Me.”"
+jesus_said: "I am one that bear witness of myself, and the Father that sent me beareth witness of me."
+greek: "ἐγώ εἰμι ὁ μαρτυρῶν περὶ ἐμαυτοῦ, καὶ μαρτυρεῖ περὶ ἐμοῦ ὁ πέμψας με πατήρ."
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3140]]"
+- "[[G4012]]"
+- "[[G2532]]"
+- "[[G3992]]"
+- "[[G3165]]"
+- "[[G3962]]"
+texts:
+- NKO
+---
+
 **John 8:18**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I am one that bear witness of myself, and the Father that sent me beareth witness of me.
 <small><sub>**BSB:**</sub></small>
 I am One who testifies about Myself, and the Father, who sent Me, also testifies about Me.”
-<small><sub>**Literal:**</sub></small>
-I myself am the [One] bearing witness concerning Myself, and bears witness concerning Me the having sent Me Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.17|<< John 8:17]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.19|John 8:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|ἐγώ]]  [[G1510\|εἰμι]]  [[G3588\|ὁ]]  [[G3140\|μαρτυρῶν]]  [[G4012\|περὶ]]  [[G1473\|ἐμαυτοῦ,]]  [[G2532\|καὶ]]  [[G3140\|μαρτυρεῖ]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ]]  [[G3588\|ὁ]]  [[G3992\|πέμψας]]  [[G3165\|με]]  [[G3962\|πατήρ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.17|<< John 8:17]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.19|John 8:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

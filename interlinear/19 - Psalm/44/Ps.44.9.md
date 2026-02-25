@@ -1,8 +1,57 @@
+---
+title: Psalm 44:9
+type: Verse
+kjv: "But thou hast cast off, and put us to shame; and goest not forth with our armies."
+bsb: "But You have rejected and humbled us; You no longer go forth with our armies."
+hebrew: "אַף־ זָ֭נַחְתָּ וַתַּכְלִימֵ֑נוּ וְלֹא־ תֵ֝צֵ֗א בְּצִבְאוֹתֵֽינוּ׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H2186A]]"
+- "[[H9001]]"
+- "[[H3637]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H6635A]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:9**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou hast cast off, and put us to shame; and goest not forth with our armies.
 <small><sub>**BSB:**</sub></small>
 But You have rejected and humbled us; You no longer go forth with our armies.
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַף]][[H9014\|־]] [[H2186A\|זָ֭נַחְתָּ]] [[H9001\|וַ]][[H3637\|תַּכְלִימֵ֑]][[H9035\|נוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3318G\|תֵ֝צֵ֗א]] [[H9003\|בְּ]][[H6635A\|צִבְאוֹתֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MURMURING|MURMURING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.8|<< Psalms 44:8]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.10|Psalms 44:10 >>]]</td></tr></table>
 

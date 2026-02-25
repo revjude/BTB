@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 24:9
+type: Verse
+kjv: "And Joab gave up the sum of the number of the people unto the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah were five hundred thousand men."
+bsb: "And Joab reported to the king the total number of the troops. In Israel there were 800,000 men of valor who drew the sword, and in Judah there were 500,000."
+hebrew: "וַיִּתֵּ֥ן יוֹאָ֛ב אֶת־ מִסְפַּ֥ר מִפְקַד־ הָעָ֖ם אֶל־ הַמֶּ֑לֶךְ וַתְּהִ֣י יִשְׂרָאֵ֡ל שְׁמֹנֶה֩ מֵא֨וֹת אֶ֤לֶף אִֽישׁ־ חַ֙יִל֙ שֹׁ֣לֵֽף חֶ֔רֶב וְאִ֣ישׁ יְהוּדָ֔ה חֲמֵשׁ־ מֵא֥וֹת אֶ֖לֶף אִֽישׁ׃"
+pericope: "[[2Sam.24.1 David’s Military Census|David’s Military Census]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3097G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4557]]"
+- "[[H4662H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H1961]]"
+- "[[H3478]]"
+- "[[H8083]]"
+- "[[H3967]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H2428G]]"
+- "[[H8025]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H2568]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 24:9**<big><big>[[2Sam.24.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab gave up the sum of the number of the people unto the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah [were] five hundred thousand men.
 <small><sub>**BSB:**</sub></small>
 And Joab reported to the king the total number of the troops. In Israel there were 800,000 men of valor who drew the sword, and in Judah there were 500,000.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|יִּתֵּ֥ן]] [[H3097G\|יוֹאָ֛ב]] [[H0853\|אֶת]][[H9014\|־]] [[H4557\|מִסְפַּ֥ר]] [[H4662H\|מִפְקַד]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַ]][[H1961\|תְּהִ֣י]] [[H3478\|יִשְׂרָאֵ֡ל]] [[H8083\|שְׁמֹנֶה֩]] [[H3967\|מֵא֨וֹת]] [[H0505G\|אֶ֤לֶף]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H2428G\|חַ֙יִל֙]] [[H8025\|שֹׁ֣לֵֽף]] [[H2719\|חֶ֔רֶב]] [[H9002\|וְ]][[H0376G\|אִ֣ישׁ]] [[H3063G\|יְהוּדָ֔ה]] [[H2568\|חֲמֵשׁ]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENSUS|CENSUS]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic JUDAH|JUDAH]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.8|<< 2 Samuel 24:8]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.10|2 Samuel 24:10 >>]]</td></tr></table>
 

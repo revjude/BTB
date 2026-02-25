@@ -1,8 +1,76 @@
+---
+title: Leviticus 5:15
+type: Verse
+kjv: "If a soul commit a trespass, and sin through ignorance, in the holy things of the LORD; then he shall bring for his trespass unto the LORD a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering:"
+bsb: "“If someone acts unfaithfully and sins unintentionally against any of the LORD’s holy things, he must bring his guilt offering to the LORD: an unblemished ram from the flock, of proper value in silver shekels according to the sanctuary shekel; it is a guilt offering."
+hebrew: "נֶ֚פֶשׁ כִּֽי־ תִמְעֹ֣ל מַ֔עַל וְחָֽטְאָה֙ בִּשְׁגָגָ֔ה מִקָּדְשֵׁ֖י יְהוָ֑ה וְהֵבִיא֩ אֶת־ אֲשָׁמ֨וֹ לַֽיהוָ֜ה אַ֧יִל תָּמִ֣ים מִן־ הַצֹּ֗אן בְּעֶרְכְּךָ֛ כֶּֽסֶף־ שְׁקָלִ֥ים בְּשֶֽׁקֶל־ הַקֹּ֖דֶשׁ לְאָשָֽׁם׃"
+pericope: "[[Lev.5.14 Laws for Guilt Offerings|Laws for Guilt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic FINE|FINE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H5315J]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4603]]"
+- "[[H4604]]"
+- "[[H9001]]"
+- "[[H2398]]"
+- "[[H9003]]"
+- "[[H7684]]"
+- "[[H9006]]"
+- "[[H6944G]]"
+- "[[H3068G]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H0817]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0352A]]"
+- "[[H8549G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H6187]]"
+- "[[H9021]]"
+- "[[H3701G]]"
+- "[[H8255]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:15**<big><big>[[Lev.5.14 Laws for Guilt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a soul commit a trespass, and sin through ignorance, in the holy things of the LORD; then he shall bring for his trespass unto the LORD a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering:
 <small><sub>**BSB:**</sub></small>
 “If someone acts unfaithfully and sins unintentionally against any of the LORD’s holy things, he must bring his guilt offering to the LORD: an unblemished ram from the flock, of proper value in silver shekels according to the sanctuary shekel; it is a guilt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H5315J\|נֶ֚פֶשׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4603\|תִמְעֹ֣ל]] [[H4604\|מַ֔עַל]] [[H9001\|וְ]][[H2398\|חָֽטְאָה֙]] [[H9003\|בִּ]][[H7684\|שְׁגָגָ֔ה]] [[H9006\|מִ]][[H6944G\|קָּדְשֵׁ֖י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H0935P\|הֵבִיא֩]] [[H0853\|אֶת]][[H9014\|־]] [[H0817\|אֲשָׁמ֨]][[H9023\|וֹ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֜ה]] [[H0352A\|אַ֧יִל]] [[H8549G\|תָּמִ֣ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֗אן]] [[H9003\|בְּ]][[H6187\|עֶרְכְּ]][[H9021\|ךָ֛]] [[H3701G\|כֶּֽסֶף]][[H9014\|־]] [[H8255\|שְׁקָלִ֥ים]] [[H9003\|בְּ]][[H8255\|שֶֽׁקֶל]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֖דֶשׁ]] [[H9005\|לְ]][[H0817\|אָשָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic FINE|FINE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MONEY|MONEY]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.14|<< Leviticus 5:14]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.16|Leviticus 5:16 >>]]</td></tr></table>
 

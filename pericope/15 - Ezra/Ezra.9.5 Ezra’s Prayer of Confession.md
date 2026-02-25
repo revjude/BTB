@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ezra’s Prayer of Confession
+type: Pericope
 pericope: "[[Ezra.9.5 Ezra’s Prayer of Confession|Ezra’s Prayer of Confession]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 9
 book/chapter: "[[Ezra.9|Ezra 9]]"
-genre:
+chronological_order: 911
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 11
 verses:
 - "[[Ezra.9.5]]"
 - "[[Ezra.9.6]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ezra.9.15]]"
 ---
 
-[[Ezra.9|Ezra 9:5 - Ezra 9:15]]
+<small>[[Ezra.9|Ezra 9:5-15]]</small>
 *Ezra’s Prayer of Confession*
 
 [[Ezra.9.5|5]] And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the LORD my God,

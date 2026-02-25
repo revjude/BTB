@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 8:14
+type: Verse
+kjv: "And he will take your fields, and your vineyards, and your oliveyards, even the best of them, and give them to his servants."
+bsb: "He will take the best of your fields and vineyards and olive groves and give them to his servants."
+hebrew: "וְאֶת־ שְׂ֠דֽוֹתֵיכֶם וְאֶת־ כַּרְמֵיכֶ֧ם וְזֵיתֵיכֶ֛ם הַטּוֹבִ֖ים יִקָּ֑ח וְנָתַ֖ן לַעֲבָדָֽיו׃"
+pericope: "[[1Sam.8.10 Samuel’s Warning|Samuel’s Warning]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONARCHY|MONARCHY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7704G]]"
+- "[[H9026]]"
+- "[[H3754]]"
+- "[[H2132H]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H3947G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 8:14**<big><big>[[1Sam.8.10 Samuel’s Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he will take your fields, and your vineyards, and your oliveyards, [even] the best [of them], and give [them] to his servants.
 <small><sub>**BSB:**</sub></small>
 He will take the best of your fields and vineyards and olive groves and give them to his servants.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7704G\|שְׂ֠דֽוֹתֵי]][[H9026\|כֶם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3754\|כַּרְמֵי]][[H9026\|כֶ֧ם]] [[H9002\|וְ]][[H2132H\|זֵיתֵי]][[H9026\|כֶ֛ם]] [[H9009\|הַ]][[H2896A\|טּוֹבִ֖ים]] [[H3947G\|יִקָּ֑ח]] [[H9001\|וְ]][[H5414G\|נָתַ֖ן]] [[H9005\|לַ]][[H5650\|עֲבָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MONARCHY|MONARCHY]] • [[topic RULERS|RULERS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.13|<< 1 Samuel 8:13]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.15|1 Samuel 8:15 >>]]</td></tr></table>
 

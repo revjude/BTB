@@ -1,10 +1,63 @@
+---
+title: Luke 6:6
+type: Verse
+kjv: "And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered."
+bsb: "On another Sabbath Jesus entered the synagogue and was teaching, and a man was there whose right hand was withered."
+greek: "Ἐγένετο δὲ καὶ ἐν ἑτέρῳ σαββάτῳ εἰσελθεῖν αὐτὸν εἰς τὴν συναγωγὴν καὶ διδάσκειν· καὶ ἦν ἄνθρωπος ἐκεῖ, καὶ ἡ χεὶρ αὐτοῦ ἡ δεξιὰ ἦν ξηρά."
+pericope: "[[Luke.6.6 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G2087]]"
+- "[[G4521]]"
+- "[[G1525]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G1321]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G1563]]"
+- "[[G5495]]"
+- "[[G1188]]"
+- "[[G3584]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 6:6**<big><big>[[Luke.6.6 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered.
 <small><sub>**BSB:**</sub></small>
 On another Sabbath Jesus entered the synagogue and was teaching, and a man was there whose right hand was withered.
-<small><sub>**Literal:**</sub></small>
-It came to pass then and on another Sabbath entering He into the synagogue and teaching; and there was a man there and the hand of him the right was withered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.5|<< Luke 6:5]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.7|Luke 6:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G2087\|ἑτέρῳ]]  [[G4521\|σαββάτῳ]]  [[G1525\|εἰσελθεῖν]]  [[G0846\|αὐτὸν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4864\|συναγωγὴν]]  [[G2532\|καὶ]]  [[G1321\|διδάσκειν·]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G0444\|ἄνθρωπος]]  [[G1563\|ἐκεῖ,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5495\|χεὶρ]]  [[G0846\|αὐτοῦ]]  [[G3588\|ἡ]]  [[G1188\|δεξιὰ]]  [[G1510\|ἦν]]  [[G3584\|ξηρά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.5|<< Luke 6:5]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.7|Luke 6:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

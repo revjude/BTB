@@ -1,10 +1,68 @@
+---
+title: Acts 6:3
+type: Verse
+kjv: "Wherefore, brethren, look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business."
+bsb: "Therefore, brothers, select from among you seven men confirmed to be full of the Spirit and wisdom. We will assign this responsibility to them"
+greek: "ἐπισκέψασθε δέ, ἀδελφοί, ἄνδρας ἐξ ὑμῶν μαρτυρουμένους ἑπτὰ πλήρεις πνεύματος ἁγίου καὶ σοφίας οὓς καταστήσομεν ἐπὶ τῆς χρείας ταύτης·"
+pericope: "[[Acts.6.1 The Choosing of the Seven|The Choosing of the Seven]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 6
+book/chapter: "[[Acts.6|Acts 6]]"
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEACON|DEACON]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic STEPHEN|STEPHEN]]"
+strongs:
+- "[[G1980]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G0435G]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G3140]]"
+- "[[G2033]]"
+- "[[G4134]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G4678]]"
+- "[[G3739]]"
+- "[[G2525]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5532]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+- K
+- NK(o)
+---
+
 **Acts 6:3**<big><big>[[Acts.6.1 The Choosing of the Seven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, brethren, look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business.
 <small><sub>**BSB:**</sub></small>
 Therefore, brothers, select from among you seven men confirmed to be full of the Spirit and wisdom. We will assign this responsibility to them
-<small><sub>**Literal:**</sub></small>
-do select therefore, brothers, men out from yourselves being well attested seven full of [the] Spirit Holy and wisdom whom we will appoint over <the> task this;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.2|<< Acts 6:2]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.4|Acts 6:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1980\|ἐπισκέψασθε]]  [[G1161\|δέ,]]  [[G0080\|ἀδελφοί,]]  [[G0435G\|ἄνδρας]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G3140\|μαρτυρουμένους]]  [[G2033\|ἑπτὰ]]  [[G4134\|πλήρεις]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]  [[G2532\|καὶ]]  [[G4678\|σοφίας]]  [[G3739\|οὓς]]  [[G2525\|καταστήσομεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G5532\|χρείας]]  [[G3778\|ταύτης·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic CHURCH|CHURCH]] • [[topic DEACON|DEACON]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SEVEN|SEVEN]] • [[topic STEPHEN|STEPHEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.6.2|<< Acts 6:2]]</td><td align="center" style="border:none;">[[Acts.6|Acts 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.6.4|Acts 6:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

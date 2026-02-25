@@ -1,8 +1,52 @@
+---
+title: Job 35:12
+type: Verse
+kjv: "There they cry, but none giveth answer, because of the pride of evil men."
+bsb: "There they cry out, but He does not answer, because of the pride of evil men."
+hebrew: "שָׁ֣ם יִ֭צְעֲקוּ וְלֹ֣א יַעֲנֶ֑ה מִ֝פְּנֵ֗י גְּא֣וֹן רָעִֽים׃"
+pericope: "[[Job.35.1 Elihu Recalls God’s Justice|Elihu Recalls God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 35
+book/chapter: "[[Job.35|Job 35]]"
+chronological_order: 46
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8033G]]"
+- "[[H6817]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6030B]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H1347]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 35:12**<big><big>[[Job.35.1 Elihu Recalls God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There they cry, but none giveth answer, because of the pride of evil men.
 <small><sub>**BSB:**</sub></small>
 There they cry out, but He does not answer, because of the pride of evil men.
+<small><sub>**Hebrew:**</sub></small>
+[[H8033G\|שָׁ֣ם]] [[H6817\|יִ֭צְעֲקוּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6030B\|יַעֲנֶ֑ה]] [[H9006\|מִ֝]][[H6440I\|פְּנֵ֗י]] [[H1347\|גְּא֣וֹן]] [[H7451H\|רָעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RELIGION|RELIGION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.35.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.35.11|<< Job 35:11]]</td><td align="center" style="border:none;">[[Job.35|Job 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.35.13|Job 35:13 >>]]</td></tr></table>
 

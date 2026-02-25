@@ -1,8 +1,65 @@
+---
+title: Jeremiah 23:36
+type: Verse
+kjv: "And the burden of the LORD shall ye mention no more: for every man’s word shall be his burden; for ye have perverted the words of the living God, of the LORD of hosts our God."
+bsb: "But refer no more to the burden of the LORD, for each man’s word becomes the burden, so that you pervert the words of the living God, the LORD of Hosts, our God."
+hebrew: "וּמַשָּׂ֥א יְהוָ֖ה לֹ֣א תִזְכְּרוּ־ ע֑וֹד כִּ֣י הַמַּשָּׂ֗א יִֽהְיֶה֙ לְאִ֣ישׁ דְּבָר֔וֹ וַהֲפַכְתֶּ֗ם אֶת־ דִּבְרֵי֙ אֱלֹהִ֣ים חַיִּ֔ים יְהוָ֥ה צְבָא֖וֹת אֱלֹהֵֽינוּ׃"
+pericope: "[[Jer.23.33 False Prophecies|False Prophecies]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H4853B]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H0853]]"
+- "[[H0430G]]"
+- "[[H2416A]]"
+- "[[H6635B]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 23:36**<big><big>[[Jer.23.33 False Prophecies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the burden of the LORD shall ye mention no more: for every man’s word shall be his burden; for ye have perverted the words of the living God, of the LORD of hosts our God.
 <small><sub>**BSB:**</sub></small>
 But refer no more to the burden of the LORD, for each man’s word becomes the burden, so that you pervert the words of the living God, the LORD of Hosts, our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4853B\|מַשָּׂ֥א]] [[H3068G\|יְהוָ֖ה]] [[H3808\|לֹ֣א]] [[H2142\|תִזְכְּרוּ]][[H9014\|־]] [[H5750\|ע֑וֹד]] [[H3588A\|כִּ֣י]] [[H9009\|הַ]][[H4853B\|מַּשָּׂ֗א]] [[H1961\|יִֽהְיֶה֙]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H1697G\|דְּבָר֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H2015\|הֲפַכְתֶּ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵי֙]] [[H0430G\|אֱלֹהִ֣ים]] [[H2416A\|חַיִּ֔ים]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.35|<< Jeremiah 23:35]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.37|Jeremiah 23:37 >>]]</td></tr></table>
 

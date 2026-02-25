@@ -1,8 +1,61 @@
+---
+title: Jeremiah 48:27
+type: Verse
+kjv: "For was not Israel a derision unto thee? was he found among thieves? for since thou spakest of him, thou skippedst for joy."
+bsb: "Was not Israel your object of ridicule? Was he ever found among thieves? For whenever you speak of him you shake your head."
+hebrew: "וְאִ֣ם׀ ל֣וֹא הַשְּׂחֹ֗ק הָיָ֤ה לְךָ֙ יִשְׂרָאֵ֔ל אִם־ בְּגַנָּבִ֖ים נִמְצָ֑א כִּֽי־ מִדֵּ֧י דְבָרֶ֥יךָ בּ֖וֹ תִּתְנוֹדָֽד׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9002]]"
+- "[[H0518I]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9009]]"
+- "[[H7814]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3478]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H1590]]"
+- "[[H4672]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H1767]]"
+- "[[H1697H]]"
+- "[[H9021]]"
+- "[[H9033]]"
+- "[[H5110]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 48:27**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For was not Israel a derision unto thee? was he found among thieves? for since thou spakest of him, thou skippedst for joy.
 <small><sub>**BSB:**</sub></small>
 Was not Israel your object of ridicule? Was he ever found among thieves? For whenever you speak of him you shake your head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518I\|אִ֣ם]][[H9015\|׀]] [[H3808\|ל֣וֹא]] [[H9009\|הַ]][[H7814\|שְּׂחֹ֗ק]] [[H1961\|הָיָ֤ה]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0518I\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H1590\|גַנָּבִ֖ים]] [[H4672\|נִמְצָ֑א]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9006\|מִ]][[H1767\|דֵּ֧י]] [[H1697H\|דְבָרֶ֥י]][[H9021\|ךָ]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H5110\|תִּתְנוֹדָֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.26|<< Jeremiah 48:26]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.28|Jeremiah 48:28 >>]]</td></tr></table>
 

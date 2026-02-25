@@ -1,8 +1,61 @@
+---
+title: Habakkuk 3:14
+type: Verse
+kjv: "Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing was as to devour the poor secretly."
+bsb: "With his own spear You pierced his head, when his warriors stormed out to scatter us, gloating as though ready to secretly devour the weak."
+hebrew: "נָקַ֤בְתָּ בְמַטָּיו֙ רֹ֣אשׁ פְּרָזָ֔יו יִסְעֲר֖וּ לַהֲפִיצֵ֑נִי עֲלִ֣יצֻתָ֔ם כְּמוֹ־ לֶאֱכֹ֥ל עָנִ֖י בַּמִּסְתָּֽר׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H5344A]]"
+- "[[H9003]]"
+- "[[H4294I]]"
+- "[[H9023]]"
+- "[[H7218A]]"
+- "[[H6518]]"
+- "[[H5590]]"
+- "[[H9005]]"
+- "[[H6327A]]"
+- "[[H9030]]"
+- "[[H5951]]"
+- "[[H9028]]"
+- "[[H3644G]]"
+- "[[H9014]]"
+- "[[H0398]]"
+- "[[H6041]]"
+- "[[H4565]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Habakkuk 3:14**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou didst strike through with his staves the head of his villages: they came out as a whirlwind to scatter me: their rejoicing [was] as to devour the poor secretly.
 <small><sub>**BSB:**</sub></small>
 With his own spear You pierced his head, when his warriors stormed out to scatter us, gloating as though ready to secretly devour the weak.
+<small><sub>**Hebrew:**</sub></small>
+[[H5344A\|נָקַ֤בְתָּ]] [[H9003\|בְ]][[H4294I\|מַטָּי]][[H9023\|ו֙]] [[H7218A\|רֹ֣אשׁ]] [[H6518\|פְּרָזָ֔י]][[H9023\|ו]] [[H5590\|יִסְעֲר֖וּ]] [[H9005\|לַ]][[H6327A\|הֲפִיצֵ֑]][[H9030\|נִי]] [[H5951\|עֲלִ֣יצֻתָ֔]][[H9028\|ם]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H9005\|לֶ]][[H0398\|אֱכֹ֥ל]] [[H6041\|עָנִ֖י]] [[H9003\|בַּ]][[H4565\|מִּסְתָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
 
@@ -21,7 +74,7 @@ With his own spear You pierced his head, when his warriors stormed out to scatte
 | in the secret place  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4565\|מִּסְתָּֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> mis.Tar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.13|<< Habakkuk 3:13]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.15|Habakkuk 3:15 >>]]</td></tr></table>
 
-[^1]: warrior his  | **<big>[[H9023|וֹ]]</big><big>[[H6518|פְּרָז]]</big> ** | pe.ra.zo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: warrior his  | **<big>[[H9023|וֹ]]</big><big>[[H6518|פְּרָז]]</big> ** | pe.ra.zo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: warrior his  | **<big>[[H6518|פְּרָז]]</big><big>[[H9023|וֹ]]</big> ** | pe.ra.zo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: warrior his  | **<big>[[H6518|פְּרָז]]</big><big>[[H9023|וֹ]]</big> ** | pe.ra.zo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>פְּרָזָ֔ו</big></span>**
 

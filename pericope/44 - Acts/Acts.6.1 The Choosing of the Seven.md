@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Choosing of the Seven
+type: Pericope
 pericope: "[[Acts.6.1 The Choosing of the Seven|The Choosing of the Seven]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Acts
 chapter: 6
 book/chapter: "[[Acts.6|Acts 6]]"
-genre:
+chronological_order: 1024
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 7
 verses:
 - "[[Acts.6.1]]"
 - "[[Acts.6.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Acts.6.7]]"
 ---
 
-[[Acts.6|Acts 6:1 - Acts 6:7]]
+<small>[[Acts.6|Acts 6:1-7]]</small>
 *The Choosing of the Seven*
 
 [[Acts.6.1|1]] And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.

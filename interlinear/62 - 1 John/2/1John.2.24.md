@@ -1,10 +1,60 @@
+---
+title: 1 John 2:24
+type: Verse
+kjv: "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father."
+bsb: "As for you, let what you have heard from the beginning remain in you. If it does, you will also remain in the Son and in the Father."
+greek: "ὑμεῖς οὐν ὃ ἠκούσατε ἀπ᾽ ἀρχῆς ἐν ὑμῖν μενέτω. ἐὰν ἐν ὑμῖν μείνῃ ὃ ἀπ᾽ ἀρχῆς ἠκούσατε, καὶ ὑμεῖς ἐν τῷ υἱῷ καὶ ἐν τῷ πατρὶ μενεῖτε."
+pericope: "[[1John.2.24 Remain in Christ|Remain in Christ]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G4771]]"
+- "[[G3767]]"
+- "[[G3739]]"
+- "[[G0191]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G1722]]"
+- "[[G3306]]"
+- "[[G1437]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3962]]"
+texts:
+- NKO
+- K
+---
+
 **1 John 2:24**<big><big>[[1John.2.24 Remain in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.
 <small><sub>**BSB:**</sub></small>
 As for you, let what you have heard from the beginning remain in you. If it does, you will also remain in the Son and in the Father.
-<small><sub>**Literal:**</sub></small>
-You yourselves therefore what you have heard from [the] beginning in you should abide. If in you shall abide what from [the] beginning you have heard, also you yourselves in the Son and in the Father will abide.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.23|<< 1 John 2:23]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.25|1 John 2:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G3767\|οὐν]]  [[G3739\|ὃ]]  [[G0191\|ἠκούσατε]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3306\|μενέτω.]]  [[G1437\|ἐὰν]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3306\|μείνῃ]]  [[G3739\|ὃ]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς]]  [[G0191\|ἠκούσατε,]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5207\|υἱῷ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3962\|πατρὶ]]  [[G3306\|μενεῖτε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.23|<< 1 John 2:23]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.25|1 John 2:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

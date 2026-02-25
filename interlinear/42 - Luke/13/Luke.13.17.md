@@ -1,10 +1,58 @@
+---
+title: Luke 13:17
+type: Verse
+kjv: "And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him."
+bsb: "When Jesus said this, all His adversaries were humiliated. And the whole crowd rejoiced at all the glorious things He was doing."
+greek: "Καὶ ταῦτα λέγοντος αὐτοῦ κατῃσχύνοντο πάντες οἱ ἀντικείμενοι αὐτῷ, καὶ πᾶς ὁ ὄχλος ἔχαιρεν ἐπὶ πᾶσιν τοῖς ἐνδόξοις τοῖς γινομένοις ὑπ᾽ αὐτοῦ.¶"
+pericope: "[[Luke.13.10 Jesus Heals a Disabled Woman|Jesus Heals a Disabled Woman]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G2617]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0480]]"
+- "[[G3793]]"
+- "[[G5463]]"
+- "[[G1909]]"
+- "[[G1741]]"
+- "[[G1096]]"
+- "[[G5259G]]"
+texts:
+- NKO
+---
+
 **Luke 13:17**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him.
 <small><sub>**BSB:**</sub></small>
 When Jesus said this, all His adversaries were humiliated. And the whole crowd rejoiced at all the glorious things He was doing.
-<small><sub>**Literal:**</sub></small>
-And these things when is saying He were ashamed all those opposed to Him, and all the crowd was rejoicing at all the glorious things which were being done by Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.16|<< Luke 13:16]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.18|Luke 13:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3778\|ταῦτα]]  [[G3004G\|λέγοντος]]  [[G0846\|αὐτοῦ]]  [[G2617\|κατῃσχύνοντο]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G0480\|ἀντικείμενοι]]  [[G0846\|αὐτῷ,]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G5463\|ἔχαιρεν]]  [[G1909\|ἐπὶ]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1741\|ἐνδόξοις]]  [[G3588\|τοῖς]]  [[G1096\|γινομένοις]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.16|<< Luke 13:16]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.18|Luke 13:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

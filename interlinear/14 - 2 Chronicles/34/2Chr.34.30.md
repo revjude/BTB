@@ -1,8 +1,72 @@
+---
+title: 2 Chronicles 34:30
+type: Verse
+kjv: "And the king went up into the house of the LORD, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words of the book of the covenant that was found in the house of the LORD."
+bsb: "And he went up to the house of the LORD with all the people of Judah and Jerusalem, as well as the priests and the Levites—all the people great and small—and in their hearing he read all the words of the Book of the Covenant that had been found in the house of the LORD."
+hebrew: "וַיַּ֣עַל הַמֶּ֣לֶךְ בֵּית־ יְ֠הוָה וְכָל־ אִ֨ישׁ יְהוּדָ֜ה וְיֹשְׁבֵ֣י יְרוּשָׁלִַ֗ם וְהַכֹּֽהֲנִים֙ וְהַלְוִיִּ֔ם וְכָל־ הָעָ֖ם מִגָּד֣וֹל וְעַד־ קָטָ֑ן וַיִּקְרָ֣א בְאָזְנֵיהֶ֗ם אֶת־ כָּל־ דִּבְרֵי֙ סֵ֣פֶר הַבְּרִ֔ית הַנִּמְצָ֖א בֵּ֥ית יְהוָֽה׃"
+pericope: "[[2Chr.34.29 Josiah Renews the Covenant|Josiah Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H1419A]]"
+- "[[H5704]]"
+- "[[H6996A]]"
+- "[[H7121J]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H9028]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H5612H]]"
+- "[[H1285]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:30**<big><big>[[2Chr.34.29 Josiah Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king went up into the house of the LORD, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words of the book of the covenant that was found in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 And he went up to the house of the LORD with all the people of Judah and Jerusalem, as well as the priests and the Levites—all the people great and small—and in their hearing he read all the words of the Book of the Covenant that had been found in the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֣עַל]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְ֠הוָה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H3063G\|יְהוּדָ֜ה]] [[H9002\|וְ]][[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֔ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9006\|מִ]][[H1419A\|גָּד֣וֹל]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H6996A\|קָטָ֑ן]] [[H9001\|וַ]][[H7121J\|יִּקְרָ֣א]] [[H9003\|בְ]][[H0241H\|אָזְנֵי]][[H9028\|הֶ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵי֙]] [[H5612H\|סֵ֣פֶר]] [[H9009\|הַ]][[H1285\|בְּרִ֔ית]] [[H9009\|הַ]][[H4672\|נִּמְצָ֖א]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic JOSIAH|JOSIAH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.29|<< 2 Chronicles 34:29]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.31|2 Chronicles 34:31 >>]]</td></tr></table>
 

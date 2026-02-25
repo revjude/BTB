@@ -1,10 +1,58 @@
+---
+title: John 4:13
+type: Verse
+kjv: "Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:"
+bsb: "Jesus said to her, “Everyone who drinks this water will be thirsty again."
+jesus_said: "Whosoever drinketh of this water shall thirst again:"
+greek: "Ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν αὐτῇ· πᾶς ὁ πίνων ἐκ τοῦ ὕδατος τούτου διψήσει πάλιν."
+pericope: "[[John.4.1 Jesus and the Samaritan Woman|Jesus and the Samaritan Woman]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JACOB|JACOB]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G4095]]"
+- "[[G1537]]"
+- "[[G5204]]"
+- "[[G3778]]"
+- "[[G1372]]"
+- "[[G3825]]"
+texts:
+- NKO
+- k
+---
+
 **John 4:13**<big><big>[[John.4.1 Jesus and the Samaritan Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
 <small><sub>**BSB:**</sub></small>
 Jesus said to her, “Everyone who drinks this water will be thirsty again.
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus and said to her; Everyone who is drinking of <the> water this will thirst again.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.12|<< John 4:12]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.14|John 4:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῇ·]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G4095\|πίνων]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G5204\|ὕδατος]]  [[G3778\|τούτου]]  [[G1372\|διψήσει]]  [[G3825\|πάλιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JACOB|JACOB]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.12|<< John 4:12]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.14|John 4:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

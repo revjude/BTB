@@ -1,10 +1,54 @@
+---
+title: Acts 10:20
+type: Verse
+kjv: "Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them."
+bsb: "So get up! Go downstairs and accompany them without hesitation, because I have sent them.”"
+greek: "ἀλλ᾽ ἀναστὰς κατάβηθι καὶ πορεύου σὺν αὐτοῖς μηδὲν διακρινόμενος, ὅτι ἐγὼ ἀπέσταλκα αὐτούς."
+pericope: "[[Acts.10.17 Peter Called to Caesarea|Peter Called to Caesarea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MISSIONS|MISSIONS]]"
+strongs:
+- "[[G0235]]"
+- "[[G0450]]"
+- "[[G2597]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G3367]]"
+- "[[G1252]]"
+- "[[G3754H]]"
+- "[[G1473]]"
+- "[[G0649]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 10:20**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Arise therefore, and get thee down, and go with them, doubting nothing: for I have sent them.
 <small><sub>**BSB:**</sub></small>
 So get up! Go downstairs and accompany them without hesitation, because I have sent them.”
-<small><sub>**Literal:**</sub></small>
-But having risen do go down and do proceed with them nothing doubting, since I myself have sent them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.19|<< Acts 10:19]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.21|Acts 10:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G0450\|ἀναστὰς]]  [[G2597\|κατάβηθι]]  [[G2532\|καὶ]]  [[G4198\|πορεύου]]  [[G4862\|σὺν]]  [[G0846\|αὐτοῖς]]  [[G3367\|μηδὲν]]  [[G1252\|διακρινόμενος,]]  [[G3754H\|ὅτι]]  [[G1473\|ἐγὼ]]  [[G0649\|ἀπέσταλκα]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MISSIONS|MISSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.19|<< Acts 10:19]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.21|Acts 10:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

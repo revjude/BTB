@@ -1,8 +1,71 @@
+---
+title: Genesis 6:5
+type: Verse
+kjv: "And GOD saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."
+bsb: "Then the LORD saw that the wickedness of man was great upon the earth, and that every inclination of the thoughts of his heart was altogether evil all the time."
+hebrew: "וַיַּ֣רְא יְהוָ֔ה כִּ֥י רַבָּ֛ה רָעַ֥ת הָאָדָ֖ם בָּאָ֑רֶץ וְכָל־ יֵ֙צֶר֙ מַחְשְׁבֹ֣ת לִבּ֔וֹ רַ֥ק רַ֖ע כָּל־ הַיּֽוֹם׃"
+pericope: "[[Gen.6.1 Corruption on the Earth|Corruption on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IMAGINATION|IMAGINATION]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H7227A]]"
+- "[[H7451I]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3336]]"
+- "[[H4284]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H7535]]"
+- "[[H7451H]]"
+- "[[H3117J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:5**<big><big>[[Gen.6.1 Corruption on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And GOD saw that the wickedness of man [was] great in the earth, and [that] every imagination of the thoughts of his heart [was] only evil continually.
 <small><sub>**BSB:**</sub></small>
 Then the LORD saw that the wickedness of man was great upon the earth, and that every inclination of the thoughts of his heart was altogether evil all the time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֥י]] [[H7227A\|רַבָּ֛ה]] [[H7451I\|רָעַ֥ת]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3336\|יֵ֙צֶר֙]] [[H4284\|מַחְשְׁבֹ֣ת]] [[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H7535\|רַ֥ק]] [[H7451H\|רַ֖ע]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117J\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HEART|HEART]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IMAGINATION|IMAGINATION]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.4|<< Genesis 6:4]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.6|Genesis 6:6 >>]]</td></tr></table>
 

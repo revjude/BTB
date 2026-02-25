@@ -1,8 +1,72 @@
+---
+title: Judges 13:23
+type: Verse
+kjv: "But his wife said unto him, If the LORD were pleased to kill us, he would not have received a burnt offering and a meat offering at our hands, neither would he have shewed us all these things, nor would as at this time have told us such things as these."
+bsb: "But his wife replied, “If the LORD had intended to kill us, He would not have accepted the burnt offering and the grain offering from our hands, nor would He have shown us all these things or spoken to us this way.”"
+hebrew: "וַתֹּ֧אמֶר ל֣וֹ אִשְׁתּ֗וֹ לוּ֩ חָפֵ֨ץ יְהוָ֤ה לַהֲמִיתֵ֙נוּ֙ לֹֽא־ לָקַ֤ח מִיָּדֵ֙נוּ֙ עֹלָ֣ה וּמִנְחָ֔ה וְלֹ֥א הֶרְאָ֖נוּ אֶת־ כָּל־ אֵ֑לֶּה וְכָעֵ֕ת לֹ֥א הִשְׁמִיעָ֖נוּ כָּזֹֽאת׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H3863]]"
+- "[[H2654A]]"
+- "[[H3068G]]"
+- "[[H4191]]"
+- "[[H9035]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3947H]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9025]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H8085I]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:23**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But his wife said unto him, If the LORD were pleased to kill us, he would not have received a burnt offering and a meat offering at our hands, neither would he have shewed us all these [things], nor would as at this time have told us [such things] as these.
 <small><sub>**BSB:**</sub></small>
 But his wife replied, “If the LORD had intended to kill us, He would not have accepted the burnt offering and the grain offering from our hands, nor would He have shown us all these things or spoken to us this way.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֧אמֶר]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H0802H\|אִשְׁתּ֗]][[H9023\|וֹ]] [[H3863\|לוּ֩]] [[H2654A\|חָפֵ֨ץ]] [[H3068G\|יְהוָ֤ה]] [[H9005\|לַ]][[H4191\|הֲמִיתֵ֙]][[H9035\|נוּ֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3947H\|לָקַ֤ח]] [[H9006\|מִ]][[H3027G\|יָּדֵ֙]][[H9025\|נוּ֙]] [[H5930A\|עֹלָ֣ה]] [[H9002\|וּ]][[H4503G\|מִנְחָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7200G\|הֶרְאָ֖]][[H9035\|נוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֑לֶּה]] [[H9002\|וְ]][[H9004\|כָ]][[H6256\|עֵ֕ת]] [[H3808\|לֹ֥א]] [[H8085I\|הִשְׁמִיעָ֖]][[H9035\|נוּ]] [[H9004\|כָּ]][[H2063\|זֹֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCEPTION|CONCEPTION]] • [[topic FAITH|FAITH]] • [[topic MANOAH|MANOAH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.22|<< Judges 13:22]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.24|Judges 13:24 >>]]</td></tr></table>
 

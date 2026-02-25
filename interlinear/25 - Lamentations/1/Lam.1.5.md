@@ -1,8 +1,64 @@
+---
+title: Lamentations 1:5
+type: Verse
+kjv: "Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy."
+bsb: "Her foes have become her masters; her enemies are at ease. For the LORD has brought her grief because of her many transgressions. Her children have gone away as captives before the enemy."
+hebrew: "הָי֨וּ צָרֶ֤יהָ לְרֹאשׁ֙ אֹיְבֶ֣יהָ שָׁל֔וּ כִּֽי־ יְהוָ֥ה הוֹגָ֖הּ עַ֣ל רֹב־ פְּשָׁעֶ֑יהָ עוֹלָלֶ֛יהָ הָלְכ֥וּ שְׁבִ֖י לִפְנֵי־ צָֽר׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H1961]]"
+- "[[H6862C]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H7218H]]"
+- "[[H0341]]"
+- "[[H7951]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3013]]"
+- "[[H9034]]"
+- "[[H5921A]]"
+- "[[H7230]]"
+- "[[H6588]]"
+- "[[H5768]]"
+- "[[H1980G]]"
+- "[[H7628A]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 1:5**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her adversaries are the chief, her enemies prosper; for the LORD hath afflicted her for the multitude of her transgressions: her children are gone into captivity before the enemy.
 <small><sub>**BSB:**</sub></small>
 Her foes have become her masters; her enemies are at ease. For the LORD has brought her grief because of her many transgressions. Her children have gone away as captives before the enemy.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הָי֨וּ]] [[H6862C\|צָרֶ֤י]][[H9024\|הָ]] [[H9005\|לְ]][[H7218H\|רֹאשׁ֙]] [[H0341\|אֹיְבֶ֣י]][[H9024\|הָ]] [[H7951\|שָׁל֔וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H3013\|הוֹגָ֖]][[H9034\|הּ]] [[H5921A\|עַ֣ל]] [[H7230\|רֹב]][[H9014\|־]] [[H6588\|פְּשָׁעֶ֑י]][[H9024\|הָ]] [[H5768\|עוֹלָלֶ֛י]][[H9024\|הָ]] [[H1980G\|הָלְכ֥וּ]] [[H7628A\|שְׁבִ֖י]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H6862C\|צָֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.4|<< Lamentations 1:4]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.6|Lamentations 1:6 >>]]</td></tr></table>
 
@@ -23,7 +79,7 @@ Her foes have become her masters; her enemies are at ease. For the LORD has brou
 | they have gone  |**<big>&#8207;[[H1980G\|הָלְכ֥וּ]]&#8207; </big>**| ha.le.Khu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | captivity  |**<big>&#8207;[[H7628A\|שְׁבִ֖י]]&#8207; </big>**| she.Vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<to> before  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| an opponent  |**<big>&#8207;[[H6862C\|צָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Tzar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| an opponent  |**<big>&#8207;[[H6862C\|צָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Tzar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.4|<< Lamentations 1:4]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.6|Lamentations 1:6 >>]]</td></tr></table>
 
 

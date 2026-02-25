@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Sign of Jerusalem’s Siege
+type: Pericope
 pericope: "[[Ezek.4.1 A Sign of Jerusalem’s Siege|A Sign of Jerusalem’s Siege]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 4
 book/chapter: "[[Ezek.4|Ezekiel 4]]"
-genre:
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 8
 verses:
 - "[[Ezek.4.1]]"
 - "[[Ezek.4.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ezek.4.8]]"
 ---
 
-[[Ezek.4|Ezekiel 4:1 - Ezekiel 4:8]]
+<small>[[Ezek.4|Ezekiel 4:1-8]]</small>
 *A Sign of Jerusalem’s Siege*
 
 [[Ezek.4.1|1]] Thou also, son of man, take thee a tile, and lay it before thee, and pourtray upon it the city, \[even\] Jerusalem:

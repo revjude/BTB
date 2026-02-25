@@ -1,8 +1,53 @@
+---
+title: Joel 1:9
+type: Verse
+kjv: "The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD’S ministers, mourn."
+bsb: "Grain and drink offerings have been cut off from the house of the LORD; the priests are in mourning, those who minister before the LORD."
+hebrew: "הָכְרַ֥ת מִנְחָ֛ה וָנֶ֖סֶךְ מִבֵּ֣ית יְהוָ֑ה אָֽבְלוּ֙ הַכֹּ֣הֲנִ֔ים מְשָׁרְתֵ֖י יְהוָֽה׃"
+pericope: "[[Joel.1.8 A Call to Mourning|A Call to Mourning]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H3772I]]"
+- "[[H4503G]]"
+- "[[H9002]]"
+- "[[H5262]]"
+- "[[H9006]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0056]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H8334]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:9**<big><big>[[Joel.1.8 A Call to Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD’S ministers, mourn.
 <small><sub>**BSB:**</sub></small>
 Grain and drink offerings have been cut off from the house of the LORD; the priests are in mourning, those who minister before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3772I\|הָכְרַ֥ת]] [[H4503G\|מִנְחָ֛ה]] [[H9002\|וָ]][[H5262\|נֶ֖סֶךְ]] [[H9006\|מִ]][[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H0056\|אָֽבְלוּ֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H8334\|מְשָׁרְתֵ֖י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.8|<< Joel 1:8]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.10|Joel 1:10 >>]]</td></tr></table>
 

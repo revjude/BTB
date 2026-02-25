@@ -1,8 +1,68 @@
+---
+title: Micah 7:2
+type: Verse
+kjv: "The good man is perished out of the earth: and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net."
+bsb: "The godly man has perished from the earth; there is no one upright among men. They all lie in wait for blood; they hunt one another with a net."
+hebrew: "אָבַ֤ד חָסִיד֙ מִן־ הָאָ֔רֶץ וְיָשָׁ֥ר בָּאָדָ֖ם אָ֑יִן כֻּלָּם֙ לְדָמִ֣ים יֶאֱרֹ֔בוּ אִ֥ישׁ אֶת־ אָחִ֖יהוּ יָצ֥וּדוּ חֵֽרֶם׃"
+pericope: "[[Mic.7.1 Israel’s Great Misery|Israel’s Great Misery]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 7
+book/chapter: "[[Mic.7|Micah 7]]"
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H0006]]"
+- "[[H2623]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H3477G]]"
+- "[[H9003]]"
+- "[[H0120G]]"
+- "[[H0369]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H1818]]"
+- "[[H0693]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H6679A]]"
+- "[[H2764B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 7:2**<big><big>[[Mic.7.1 Israel’s Great Misery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The good [man] is perished out of the earth: and [there is] none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.
 <small><sub>**BSB:**</sub></small>
 The godly man has perished from the earth; there is no one upright among men. They all lie in wait for blood; they hunt one another with a net.
+<small><sub>**Hebrew:**</sub></small>
+[[H0006\|אָבַ֤ד]] [[H2623\|חָסִיד֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וְ]][[H3477G\|יָשָׁ֥ר]] [[H9003\|בָּ]][[H0120G\|אָדָ֖ם]] [[H0369\|אָ֑יִן]] [[H3605\|כֻּלָּ]][[H9028\|ם֙]] [[H9005\|לְ]][[H1818\|דָמִ֣ים]] [[H0693\|יֶאֱרֹ֔בוּ]] [[H0376I\|אִ֥ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0251I\|אָחִ֖י]][[H9023\|הוּ]] [[H6679A\|יָצ֥וּדוּ]] [[H2764B\|חֵֽרֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.7.1|<< Micah 7:1]]</td><td align="center" style="border:none;">[[Mic.7|Micah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.7.3|Micah 7:3 >>]]</td></tr></table>
 

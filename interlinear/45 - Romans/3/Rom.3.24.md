@@ -1,10 +1,60 @@
+---
+title: Romans 3:24
+type: Verse
+kjv: "Being justified freely by his grace through the redemption that is in Christ Jesus:"
+bsb: "and are justified freely by His grace through the redemption that is in Christ Jesus."
+greek: "δικαιούμενοι δωρεὰν τῇ αὐτοῦ χάριτι διὰ τῆς ἀπολυτρώσεως τῆς ἐν Χριστῷ Ἰησοῦ,"
+pericope: "[[Rom.3.21 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic ROME|ROME]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1344]]"
+- "[[G1432]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G5485]]"
+- "[[G1223]]"
+- "[[G0629]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+---
+
 **Romans 3:24**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Being justified freely by his grace through the redemption that is in Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 and are justified freely by His grace through the redemption that is in Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-being justified freely by the of Him grace through the redemption that [is] in Christ Jesus,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.23|<< Romans 3:23]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.25|Romans 3:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1344\|δικαιούμενοι]]  [[G1432\|δωρεὰν]]  [[G3588\|τῇ]]  [[G0846\|αὐτοῦ]]  [[G5485\|χάριτι]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G0629\|ἀπολυτρώσεως]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BLOOD|BLOOD]] • [[topic BOASTING|BOASTING]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic REDEMPTION|REDEMPTION]] • [[topic ROME|ROME]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.23|<< Romans 3:23]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.3.25|Romans 3:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

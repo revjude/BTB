@@ -1,8 +1,72 @@
+---
+title: 2 Kings 4:38
+type: Verse
+kjv: "And Elisha came again to Gilgal: and there was a dearth in the land; and the sons of the prophets were sitting before him: and he said unto his servant, Set on the great pot, and seethe pottage for the sons of the prophets."
+bsb: "When Elisha returned to Gilgal, there was a famine in the land. As the sons of the prophets were sitting at his feet, he said to his attendant, “Put on the large pot and boil some stew for the sons of the prophets.”"
+hebrew: "וֶאֱלִישָׁ֞ע שָׁ֤ב הַגִּלְגָּ֙לָה֙ וְהָרָעָ֣ב בָּאָ֔רֶץ וּבְנֵי֙ הַנְּבִיאִ֔ים יֹשְׁבִ֖ים לְפָנָ֑יו וַיֹּ֣אמֶר לְנַעֲר֗וֹ שְׁפֹת֙ הַסִּ֣יר הַגְּדוֹלָ֔ה וּבַשֵּׁ֥ל נָזִ֖יד לִבְנֵ֥י הַנְּבִיאִֽים׃"
+pericope: "[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|Elisha Purifies the Poisonous Stew]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BROTH|BROTH]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0477]]"
+- "[[H7725G]]"
+- "[[H9009]]"
+- "[[H1537H]]"
+- "[[H9011]]"
+- "[[H7458]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H1121A]]"
+- "[[H5030]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5288]]"
+- "[[H8239]]"
+- "[[H5518A]]"
+- "[[H1419A]]"
+- "[[H1310]]"
+- "[[H5138]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:38**<big><big>[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha came again to Gilgal: and [there was] a dearth in the land; and the sons of the prophets [were] sitting before him: and he said unto his servant, Set on the great pot, and seethe pottage for the sons of the prophets.
 <small><sub>**BSB:**</sub></small>
 When Elisha returned to Gilgal, there was a famine in the land. As the sons of the prophets were sitting at his feet, he said to his attendant, “Put on the large pot and boil some stew for the sons of the prophets.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וֶ]][[H0477\|אֱלִישָׁ֞ע]] [[H7725G\|שָׁ֤ב]] [[H9009\|הַ]][[H1537H\|גִּלְגָּ֙לָ]][[H9011\|ה֙]] [[H9002\|וְ]][[H9009\|הָ]][[H7458\|רָעָ֣ב]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וּ]][[H1121A\|בְנֵי֙]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֔ים]] [[H3427\|יֹשְׁבִ֖ים]] [[H9005\|לְ]][[H6440G\|פָנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H5288\|נַעֲר֗]][[H9023\|וֹ]] [[H8239\|שְׁפֹת֙]] [[H9009\|הַ]][[H5518A\|סִּ֣יר]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֔ה]] [[H9002\|וּ]][[H1310\|בַשֵּׁ֥ל]] [[H5138\|נָזִ֖יד]] [[H9005\|לִ]][[H1121A\|בְנֵ֥י]] [[H9009\|הַ]][[H5030\|נְּבִיאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTH|BROTH]] • [[topic ELISHA|ELISHA]] • [[topic GILGAL|GILGAL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHETS|PROPHETS]] • [[topic SCHOOL|SCHOOL]] • [[topic TEACHERS|TEACHERS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.37|<< 2 Kings 4:37]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.39|2 Kings 4:39 >>]]</td></tr></table>
 

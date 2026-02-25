@@ -1,8 +1,62 @@
+---
+title: Ezekiel 16:15
+type: Verse
+kjv: "But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was."
+bsb: "But because of your fame, you trusted in your beauty and played the harlot. You lavished your favors on everyone who passed by, and your beauty was theirs for the asking."
+hebrew: "וַתִּבְטְחִ֣י בְיָפְיֵ֔ךְ וַתִּזְנִ֖י עַל־ שְׁמֵ֑ךְ וַתִּשְׁפְּכִ֧י אֶת־ תַּזְנוּתַ֛יִךְ עַל־ כָּל־ עוֹבֵ֖ר לוֹ־ יֶֽהִי׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H3308]]"
+- "[[H9022]]"
+- "[[H2181]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H8210J]]"
+- "[[H0853]]"
+- "[[H8457]]"
+- "[[H3605]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:15**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou didst trust in thine own beauty, and playedst the harlot because of thy renown, and pouredst out thy fornications on every one that passed by; his it was.
 <small><sub>**BSB:**</sub></small>
 But because of your fame, you trusted in your beauty and played the harlot. You lavished your favors on everyone who passed by, and your beauty was theirs for the asking.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0982\|תִּבְטְחִ֣י]] [[H9003\|בְ]][[H3308\|יָפְיֵ֔]][[H9022\|ךְ]] [[H9001\|וַ]][[H2181\|תִּזְנִ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמֵ֑]][[H9022\|ךְ]] [[H9001\|וַ]][[H8210J\|תִּשְׁפְּכִ֧י]] [[H0853\|אֶת]][[H9014\|־]] [[H8457\|תַּזְנוּתַ֛יִ]][[H9022\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5674A\|עוֹבֵ֖ר]] [[H9005\|ל]][[H9033\|וֹ]][[H9014\|־]] [[H1961\|יֶֽהִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.14|<< Ezekiel 16:14]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.16|Ezekiel 16:16 >>]]</td></tr></table>
 

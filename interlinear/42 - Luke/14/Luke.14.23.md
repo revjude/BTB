@@ -1,10 +1,68 @@
+---
+title: Luke 14:23
+type: Verse
+kjv: "And the lord said unto the servant, Go out into the highways and hedges, and compel them to come in, that my house may be filled."
+bsb: "So the master told his servant, ‘Go out to the highways and hedges and compel them to come in, so that my house will be full."
+jesus_said: "And the lord said unto the servant, Go out into the highways and hedges, and compel them to come in, that my house may be filled."
+greek: "καὶ εἶπεν ὁ κύριος πρὸς τὸν δοῦλον· ἔξελθε εἰς τὰς ὁδοὺς καὶ φραγμοὺς καὶ ἀνάγκασον εἰσελθεῖν ἵνα γεμισθῇ μου ὁ οἶκος."
+pericope: "[[Luke.14.15 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HEDGE|HEDGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G4314]]"
+- "[[G1401]]"
+- "[[G1831]]"
+- "[[G1519]]"
+- "[[G3598]]"
+- "[[G5418]]"
+- "[[G0315]]"
+- "[[G1525]]"
+- "[[G2443]]"
+- "[[G1072]]"
+- "[[G3165]]"
+- "[[G3624G]]"
+texts:
+- NKO
+---
+
 **Luke 14:23**<big><big>[[Luke.14.15 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the lord said unto the servant, Go out into the highways and hedges, and compel [them] to come in, that my house may be filled.
 <small><sub>**BSB:**</sub></small>
 So the master told his servant, ‘Go out to the highways and hedges and compel them to come in, so that my house will be full.
-<small><sub>**Literal:**</sub></small>
-And said the master to the servant; do go out into the highways and hedges and do compel [them] to come in so that may be filled of mine the house.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.22|<< Luke 14:22]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.24|Luke 14:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G1401\|δοῦλον·]]  [[G1831\|ἔξελθε]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G3598\|ὁδοὺς]]  [[G2532\|καὶ]]  [[G5418\|φραγμοὺς]]  [[G2532\|καὶ]]  [[G0315\|ἀνάγκασον]]  [[G1525\|εἰσελθεῖν]]  [[G2443\|ἵνα]]  [[G1072\|γεμισθῇ]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G3624G\|οἶκος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic GOSPEL|GOSPEL]] • [[topic HEDGE|HEDGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic REPROOF|REPROOF]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.22|<< Luke 14:22]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.24|Luke 14:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

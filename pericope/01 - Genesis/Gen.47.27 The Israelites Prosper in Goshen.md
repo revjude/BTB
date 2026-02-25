@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Israelites Prosper in Goshen
+type: Pericope
 pericope: "[[Gen.47.27 The Israelites Prosper in Goshen|The Israelites Prosper in Goshen]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 47
 book/chapter: "[[Gen.47|Genesis 47]]"
-genre:
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.47.27]]"
 - "[[Gen.47.28]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.47.31]]"
 ---
 
-[[Gen.47|Genesis 47:27 - Genesis 47:31]]
+<small>[[Gen.47|Genesis 47:27-31]]</small>
 *The Israelites Prosper in Goshen*
 
 [[Gen.47.27|27]] And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.

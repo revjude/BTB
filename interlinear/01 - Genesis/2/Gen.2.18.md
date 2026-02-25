@@ -1,8 +1,64 @@
+---
+title: Genesis 2:18
+type: Verse
+kjv: "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him."
+bsb: "The LORD God also said, “It is not good for the man to be alone. I will make for him a suitable helper.”"
+hebrew: "וַיֹּ֙אמֶר֙ יְהוָ֣ה אֱלֹהִ֔ים לֹא־ ט֛וֹב הֱי֥וֹת הָֽאָדָ֖ם לְבַדּ֑וֹ אֶֽעֱשֶׂהּ־ לּ֥וֹ עֵ֖זֶר כְּנֶגְדּֽוֹ׃"
+pericope: "[[Gen.2.4 Man and Woman in the Garden|Man and Woman in the Garden]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 2
+book/chapter: "[[Gen.2|Genesis 2]]"
+chronological_order: 2
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H6213H]]"
+- "[[H5828]]"
+- "[[H9004]]"
+- "[[H5048]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 2:18**<big><big>[[Gen.2.4 Man and Woman in the Garden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God said, [It is] not good that the man should be alone; I will make him an help meet for him.
 <small><sub>**BSB:**</sub></small>
 The LORD God also said, “It is not good for the man to be alone. I will make for him a suitable helper.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהִ֔ים]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|ט֛וֹב]] [[H1961\|הֱי֥וֹת]] [[H9009\|הָֽ]][[H0120H\|אָדָ֖ם]] [[H9005\|לְ]][[H0905H\|בַדּ֑]][[H9033\|וֹ]] [[H6213H\|אֶֽעֱשֶׂהּ]][[H9014\|־]] [[H9005\|לּ֥]][[H9033\|וֹ]] [[H5828\|עֵ֖זֶר]] [[H9004\|כְּ]][[H5048\|נֶגְדּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic GOD|GOD]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.2.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.2.17|<< Genesis 2:17]]</td><td align="center" style="border:none;">[[Gen.2|Genesis 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.2.19|Genesis 2:19 >>]]</td></tr></table>
 

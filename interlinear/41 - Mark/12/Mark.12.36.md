@@ -1,10 +1,71 @@
+---
+title: Mark 12:36
+type: Verse
+kjv: "For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool."
+bsb: "Speaking by the Holy Spirit, David himself declared: ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’"
+jesus_said: "For David himself said by the Holy Ghost, The Lord said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool."
+greek: "αὐτὸς γὰρ Δαυὶδ εἶπεν ἐν τῷ πνεύματι τῷ ἁγίῳ· εἶπεν ὁ κύριος τῷ κυρίῳ μου· κάθου ἐκ δεξιῶν μου ἕως ἂν θῶ τοὺς ἐχθρούς σου ὑποκάτω τῶν ποδῶν σου."
+pericope: "[[Mark.12.35 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic STOOL|STOOL]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G1138]]"
+- "[[G2036]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2521]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G5087]]"
+- "[[G2190]]"
+- "[[G4771]]"
+- "[[G5270]]"
+- "[[G4228]]"
+texts:
+- NKO
+- ko
+- NK(o)
+- N(k)O
+---
+
 **Mark 12:36**<big><big>[[Mark.12.35 Whose Son Is the Christ？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool.
 <small><sub>**BSB:**</sub></small>
 Speaking by the Holy Spirit, David himself declared: ‘The Lord said to my Lord, “Sit at My right hand until I put Your enemies under Your feet.”’
-<small><sub>**Literal:**</sub></small>
-Himself for David said by the Spirit <the> Holy: Said the Lord to the Lord of me; do sit at [the] right hand of Me until when I may place of the enemies of You under of the feet of You.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.35|<< Mark 12:35]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.37|Mark 12:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτὸς]]  [[G1063\|γὰρ]]  [[G1138\|Δαυὶδ]]  [[G2036\|εἶπεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G3588\|τῷ]]  [[G0040G\|ἁγίῳ·]]  [[G2036\|εἶπεν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3165\|μου·]]  [[G2521\|κάθου]]  [[G1537\|ἐκ]]  [[G1188\|δεξιῶν]]  [[G3165\|μου]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G5087\|θῶ]]  [[G3588\|τοὺς]]  [[G2190\|ἐχθρούς]]  [[G4771\|σου]]  [[G5270\|ὑποκάτω]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SATIRE|SATIRE]] • [[topic STOOL|STOOL]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.35|<< Mark 12:35]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.37|Mark 12:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 12:36** is...
 > $\quad$ referencing: [[LXX.Ps.110.1|Ps 110:1]]

@@ -1,8 +1,55 @@
+---
+title: Psalm 139:3
+type: Verse
+kjv: "Thou compassest my path and my lying down, and art acquainted with all my ways."
+bsb: "You search out my path and my lying down; You are aware of all my ways."
+hebrew: "אָרְחִ֣י וְרִבְעִ֣י זֵרִ֑יתָ וְֽכָל־ דְּרָכַ֥י הִסְכַּֽנְתָּה׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H0732]]"
+- "[[H9040]]"
+- "[[H9002]]"
+- "[[H7252]]"
+- "[[H2219]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1870G]]"
+- "[[H9020]]"
+- "[[H5532]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:3**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou compassest my path and my lying down, and art acquainted [with] all my ways.
 <small><sub>**BSB:**</sub></small>
 You search out my path and my lying down; You are aware of all my ways.
+<small><sub>**Hebrew:**</sub></small>
+[[H0732\|אָרְחִ֣]][[H9040\|י]] [[H9002\|וְ]][[H7252\|רִבְעִ֣]][[H9040\|י]] [[H2219\|זֵרִ֑יתָ]] [[H9002\|וְֽ]][[H3605\|כָל]][[H9014\|־]] [[H1870G\|דְּרָכַ֥]][[H9020\|י]] [[H5532\|הִסְכַּֽנְתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.2|<< Psalms 139:2]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.4|Psalms 139:4 >>]]</td></tr></table>
 

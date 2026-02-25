@@ -1,8 +1,67 @@
+---
+title: Genesis 35:14
+type: Verse
+kjv: "And Jacob set up a pillar in the place where he talked with him, even a pillar of stone: and he poured a drink offering thereon, and he poured oil thereon."
+bsb: "So Jacob set up a pillar in the place where God had spoken with him—a stone marker—and he poured out a drink offering on it and anointed it with oil."
+hebrew: "וַיַּצֵּ֨ב יַעֲקֹ֜ב מַצֵּבָ֗ה בַּמָּק֛וֹם אֲשֶׁר־ דִּבֶּ֥ר אִתּ֖וֹ מַצֶּ֣בֶת אָ֑בֶן וַיַּסֵּ֤ךְ עָלֶ֙יהָ֙ נֶ֔סֶךְ וַיִּצֹ֥ק עָלֶ֖יהָ שָֽׁמֶן׃"
+pericope: "[[Gen.35.1 Jacob Returns to Bethel|Jacob Returns to Bethel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5324]]"
+- "[[H3290]]"
+- "[[H4676]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H4678]]"
+- "[[H0068G]]"
+- "[[H5258A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H5262]]"
+- "[[H3332G]]"
+- "[[H8081]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:14**<big><big>[[Gen.35.1 Jacob Returns to Bethel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob set up a pillar in the place where he talked with him, [even] a pillar of stone: and he poured a drink offering thereon, and he poured oil thereon.
 <small><sub>**BSB:**</sub></small>
 So Jacob set up a pillar in the place where God had spoken with him—a stone marker—and he poured out a drink offering on it and anointed it with oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5324\|יַּצֵּ֨ב]] [[H3290\|יַעֲקֹ֜ב]] [[H4676\|מַצֵּבָ֗ה]] [[H9003\|בַּ]][[H4725\|מָּק֛וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H4678\|מַצֶּ֣בֶת]] [[H0068G\|אָ֑בֶן]] [[H9001\|וַ]][[H5258A\|יַּסֵּ֤ךְ]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H5262\|נֶ֔סֶךְ]] [[H9001\|וַ]][[H3332G\|יִּצֹ֥ק]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H8081\|שָֽׁמֶן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BETH-EL|BETH-EL]] • [[topic BLESSING|BLESSING]] • [[topic JACOB|JACOB]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.13|<< Genesis 35:13]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.15|Genesis 35:15 >>]]</td></tr></table>
 

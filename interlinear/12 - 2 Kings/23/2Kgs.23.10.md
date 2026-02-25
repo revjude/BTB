@@ -1,8 +1,70 @@
+---
+title: 2 Kings 23:10
+type: Verse
+kjv: "And he defiled Topheth, which is in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech."
+bsb: "He also desecrated Topheth in the Valley of Ben-hinnom so that no one could sacrifice his son or daughter in the fire to Molech."
+hebrew: "וְטִמֵּ֣א אֶת־ הַתֹּ֔פֶת אֲשֶׁ֖ר בְּגֵ֣י בֶן הִנֹּ֑ם לְבִלְתִּ֗י לְהַעֲבִ֨יר אִ֜ישׁ אֶת־ בְּנ֧וֹ וְאֶת־ בִּתּ֛וֹ בָּאֵ֖שׁ לַמֹּֽלֶךְ׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HINNOM|HINNOM]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TOPHET|TOPHET]]"
+strongs:
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8612]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1516Q]]"
+- "[[H1121A]]"
+- "[[H2011H]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H5674A]]"
+- "[[H0376I]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H0784]]"
+- "[[H4432]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 23:10**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he defiled Topheth, which [is] in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.
 <small><sub>**BSB:**</sub></small>
 He also desecrated Topheth in the Valley of Ben-hinnom so that no one could sacrifice his son or daughter in the fire to Molech.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2930A\|טִמֵּ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8612\|תֹּ֔פֶת]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H1516Q\|גֵ֣י]] [[H1121A\|בֶן]] [[H2011H\|הִנֹּ֑ם]] [[H9005\|לְ]][[H1115\|בִלְתִּ֗י]] [[H9005\|לְ]][[H5674A\|הַעֲבִ֨יר]] [[H0376I\|אִ֜ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנ֧]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בִּתּ֛]][[H9023\|וֹ]] [[H9003\|בָּ]][[H0784\|אֵ֖שׁ]] [[H9005\|לַ]][[H4432\|מֹּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HINNOM|HINNOM]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic MOLECH|MOLECH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PROPHECY|PROPHECY]] • [[topic TOPHET|TOPHET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.9|<< 2 Kings 23:9]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.11|2 Kings 23:11 >>]]</td></tr></table>
 

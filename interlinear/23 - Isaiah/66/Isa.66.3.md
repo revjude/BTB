@@ -1,8 +1,73 @@
+---
+title: Isaiah 66:3
+type: Verse
+kjv: "He that killeth an ox is as if he slew a man; he that sacrificeth a lamb, as if he cut off a dog’s neck; he that offereth an oblation, as if he offered swine’s blood; he that burneth incense, as if he blessed an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations."
+bsb: "Whoever slaughters an ox is like one who slays a man; whoever sacrifices a lamb is like one who breaks a dog’s neck; whoever presents a grain offering is like one who offers pig’s blood; whoever offers frankincense is like one who blesses an idol. Indeed, they have chosen their own ways and delighted in their abominations."
+hebrew: "שׁוֹחֵ֨ט הַשּׁ֜וֹר מַכֵּה־ אִ֗ישׁ זוֹבֵ֤חַ הַשֶּׂה֙ עֹ֣רֵֽף כֶּ֔לֶב מַעֲלֵ֤ה מִנְחָה֙ דַּם־ חֲזִ֔יר מַזְכִּ֥יר לְבֹנָ֖ה מְבָ֣רֵֽךְ אָ֑וֶן גַּם־ הֵ֗מָּה בָּֽחֲרוּ֙ בְּדַרְכֵיהֶ֔ם וּבְשִׁקּוּצֵיהֶ֖ם נַפְשָׁ֥ם חָפֵֽצָה׃"
+pericope: "[[Isa.66.1 Heaven Is My Throne|Heaven Is My Throne]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SWINE|SWINE]]"
+strongs:
+- "[[H7819A]]"
+- "[[H9009]]"
+- "[[H7794]]"
+- "[[H5221]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H2076]]"
+- "[[H7716]]"
+- "[[H6202]]"
+- "[[H3611]]"
+- "[[H5927I]]"
+- "[[H4503G]]"
+- "[[H1818]]"
+- "[[H2386]]"
+- "[[H2142]]"
+- "[[H3828]]"
+- "[[H1288]]"
+- "[[H0205G]]"
+- "[[H1571]]"
+- "[[H1992]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H8251]]"
+- "[[H5315G]]"
+- "[[H2654A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 66:3**<big><big>[[Isa.66.1 Heaven Is My Throne|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that killeth an ox [is as if] he slew a man; he that sacrificeth a lamb, [as if] he cut off a dog’s neck; he that offereth an oblation, [as if he offered] swine’s blood; he that burneth incense, [as if] he blessed an idol. Yea, they have chosen their own ways, and their soul delighteth in their abominations.
 <small><sub>**BSB:**</sub></small>
 Whoever slaughters an ox is like one who slays a man; whoever sacrifices a lamb is like one who breaks a dog’s neck; whoever presents a grain offering is like one who offers pig’s blood; whoever offers frankincense is like one who blesses an idol. Indeed, they have chosen their own ways and delighted in their abominations.
+<small><sub>**Hebrew:**</sub></small>
+[[H7819A\|שׁוֹחֵ֨ט]] [[H9009\|הַ]][[H7794\|שּׁ֜וֹר]] [[H5221\|מַכֵּה]][[H9014\|־]] [[H0376G\|אִ֗ישׁ]] [[H2076\|זוֹבֵ֤חַ]] [[H9009\|הַ]][[H7716\|שֶּׂה֙]] [[H6202\|עֹ֣רֵֽף]] [[H3611\|כֶּ֔לֶב]] [[H5927I\|מַעֲלֵ֤ה]] [[H4503G\|מִנְחָה֙]] [[H1818\|דַּם]][[H9014\|־]] [[H2386\|חֲזִ֔יר]] [[H2142\|מַזְכִּ֥יר]] [[H3828\|לְבֹנָ֖ה]] [[H1288\|מְבָ֣רֵֽךְ]] [[H0205G\|אָ֑וֶן]] [[H1571\|גַּם]][[H9014\|־]] [[H1992\|הֵ֗מָּה]] [[H0977\|בָּֽחֲרוּ֙]] [[H9003\|בְּ]][[H1870G\|דַרְכֵי]][[H9028\|הֶ֔ם]] [[H9002\|וּ]][[H9003\|בְ]][[H8251\|שִׁקּוּצֵי]][[H9028\|הֶ֖ם]] [[H5315G\|נַפְשָׁ֥]][[H9028\|ם]] [[H2654A\|חָפֵֽצָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRANKINCENSE|FRANKINCENSE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SWINE|SWINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.2|<< Isaiah 66:2]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.4|Isaiah 66:4 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Remnant to Be Blessed
+type: Pericope
 pericope: "[[Ezek.6.8 A Remnant to Be Blessed|A Remnant to Be Blessed]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 6
 book/chapter: "[[Ezek.6|Ezekiel 6]]"
-genre:
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.6.8]]"
 - "[[Ezek.6.9]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.6.14]]"
 ---
 
-[[Ezek.6|Ezekiel 6:8 - Ezekiel 6:14]]
+<small>[[Ezek.6|Ezekiel 6:8-14]]</small>
 *A Remnant to Be Blessed*
 
 [[Ezek.6.8|8]] Yet will I leave a remnant, that ye may have \[some\] that shall escape the sword among the nations, when ye shall be scattered through the countries.

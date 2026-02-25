@@ -1,8 +1,71 @@
+---
+title: 2 Chronicles 33:3
+type: Verse
+kjv: "For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them."
+bsb: "For he rebuilt the high places that his father Hezekiah had torn down, and he raised up altars for the Baals and made Asherah poles. And he worshiped and served all the host of heaven."
+hebrew: "וַיָּ֗שָׁב וַיִּ֙בֶן֙ אֶת־ הַבָּמ֔וֹת אֲשֶׁ֥ר נִתַּ֖ץ יְחִזְקִיָּ֣הוּ אָבִ֑יו וַיָּ֨קֶם מִזְבְּח֤וֹת לַבְּעָלִים֙ וַיַּ֣עַשׂ אֲשֵׁר֔וֹת וַיִּשְׁתַּ֙חוּ֙ לְכָל־ צְבָ֣א הַשָּׁמַ֔יִם וַֽיַּעֲבֹ֖ד אֹתָֽם׃"
+pericope: "[[2Chr.33.1 Manasseh Reigns in Judah|Manasseh Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 33
+book/chapter: "[[2Chr.33|2 Chronicles 33]]"
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725H]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1116]]"
+- "[[H0834A]]"
+- "[[H5422]]"
+- "[[H2396G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H6965H]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H1168A]]"
+- "[[H6213H]]"
+- "[[H0842]]"
+- "[[H7812]]"
+- "[[H3605]]"
+- "[[H6635A]]"
+- "[[H8064]]"
+- "[[H5647H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 33:3**<big><big>[[2Chr.33.1 Manasseh Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them.
 <small><sub>**BSB:**</sub></small>
 For he rebuilt the high places that his father Hezekiah had torn down, and he raised up altars for the Baals and made Asherah poles. And he worshiped and served all the host of heaven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725H\|יָּ֗שָׁב]] [[H9001\|וַ]][[H1129\|יִּ֙בֶן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1116\|בָּמ֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H5422\|נִתַּ֖ץ]] [[H2396G\|יְחִזְקִיָּ֣הוּ]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H6965H\|יָּ֨קֶם]] [[H4196\|מִזְבְּח֤וֹת]] [[H9005\|לַ]][[H1168A\|בְּעָלִים֙]] [[H9001\|וַ]][[H6213H\|יַּ֣עַשׂ]] [[H0842\|אֲשֵׁר֔וֹת]] [[H9001\|וַ]][[H7812\|יִּשְׁתַּ֙חוּ֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H6635A\|צְבָ֣א]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וַֽ]][[H5647H\|יַּעֲבֹ֖ד]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MANASSEH|MANASSEH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.33.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.33.2|<< 2 Chronicles 33:2]]</td><td align="center" style="border:none;">[[2Chr.33|2 Chronicles 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.33.4|2 Chronicles 33:4 >>]]</td></tr></table>
 

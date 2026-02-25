@@ -1,8 +1,64 @@
+---
+title: Leviticus 15:12
+type: Verse
+kjv: "And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water."
+bsb: "Any clay pot that the man with the discharge touches must be broken, and any wooden utensil must be rinsed with water."
+hebrew: "וּכְלִי־ חֶ֛רֶשׂ אֲשֶׁר־ יִגַּע־ בּ֥וֹ הַזָּ֖ב יִשָּׁבֵ֑ר וְכָל־ כְּלִי־ עֵ֔ץ יִשָּׁטֵ֖ף בַּמָּֽיִם׃"
+pericope: "[[Lev.15.1 The Uncleanness of Men|The Uncleanness of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3627]]"
+- "[[H9014]]"
+- "[[H2789]]"
+- "[[H0834A]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H2100H]]"
+- "[[H7665]]"
+- "[[H3605]]"
+- "[[H6086G]]"
+- "[[H7857]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:12**<big><big>[[Lev.15.1 The Uncleanness of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water.
 <small><sub>**BSB:**</sub></small>
 Any clay pot that the man with the discharge touches must be broken, and any wooden utensil must be rinsed with water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3627\|כְלִי]][[H9014\|־]] [[H2789\|חֶ֛רֶשׂ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5060\|יִגַּע]][[H9014\|־]] [[H9003\|בּ֥]][[H9033\|וֹ]] [[H9009\|הַ]][[H2100H\|זָּ֖ב]] [[H7665\|יִשָּׁבֵ֑ר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3627\|כְּלִי]][[H9014\|־]] [[H6086G\|עֵ֔ץ]] [[H7857\|יִשָּׁטֵ֖ף]] [[H9003\|בַּ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.11|<< Leviticus 15:11]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.13|Leviticus 15:13 >>]]</td></tr></table>
 

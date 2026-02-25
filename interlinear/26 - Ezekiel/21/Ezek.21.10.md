@@ -1,8 +1,62 @@
+---
+title: Ezekiel 21:10
+type: Verse
+kjv: "It is sharpened to make a sore slaughter; it is furbished that it may glitter: should we then make mirth? it contemneth the rod of my son, as every tree."
+bsb: "it is sharpened for the slaughter, polished to flash like lightning! Should we rejoice in the scepter of My son? The sword despises every such stick."
+hebrew: "לְמַ֨עַן טְבֹ֤חַ טֶ֙בַח֙ הוּחַ֔דָּה לְמַעַן־ הֱיֵה־ לָ֥הּ בָּ֖רָק מֹרָ֑טָּה א֣וֹ נָשִׂ֔ישׂ שֵׁ֥בֶט בְּנִ֖י מֹאֶ֥סֶת כָּל־ עֵֽץ׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H4616]]"
+- "[[H2873]]"
+- "[[H2874]]"
+- "[[H2300A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H1300B]]"
+- "[[H4803]]"
+- "[[H0176A]]"
+- "[[H7797]]"
+- "[[H7626G]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H3988A]]"
+- "[[H3605]]"
+- "[[H6086G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:10**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It is sharpened to make a sore slaughter; it is furbished that it may glitter: should we then make mirth? it contemneth the rod of my son, [as] every tree.
 <small><sub>**BSB:**</sub></small>
 it is sharpened for the slaughter, polished to flash like lightning! Should we rejoice in the scepter of My son? The sword despises every such stick.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֨עַן]] [[H2873\|טְבֹ֤חַ]] [[H2874\|טֶ֙בַח֙]] [[H2300A\|הוּחַ֔דָּה]] [[H4616\|לְמַעַן]][[H9014\|־]] [[H1961\|הֱיֵה]][[H9014\|־]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H1300B\|בָּ֖רָק]] [[H4803\|מֹרָ֑טָּה]] [[H0176A\|א֣וֹ]] [[H7797\|נָשִׂ֔ישׂ]] [[H7626G\|שֵׁ֥בֶט]] [[H1121A\|בְּנִ֖]][[H9020\|י]] [[H3988A\|מֹאֶ֥סֶת]] [[H3605\|כָּל]][[H9014\|־]] [[H6086G\|עֵֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.9|<< Ezekiel 21:9]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.11|Ezekiel 21:11 >>]]</td></tr></table>
 

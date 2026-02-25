@@ -1,8 +1,70 @@
+---
+title: Ezekiel 26:7
+type: Verse
+kjv: "For thus saith the Lord GOD; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people."
+bsb: "For this is what the Lord GOD says: ‘Behold, I will bring against Tyre from the north Nebuchadnezzar king of Babylon, king of kings, with horses and chariots, with cavalry and a great company of troops."
+hebrew: "כִּ֣י כֹ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִ֧י מֵבִ֣יא אֶל־ צֹ֗ר נְבוּכַדְרֶאצַּ֧ר מֶֽלֶךְ־ בָּבֶ֛ל מִצָּפ֖וֹן מֶ֣לֶךְ מְלָכִ֑ים בְּס֛וּס וּבְרֶ֥כֶב וּבְפָרָשִׁ֖ים וְקָהָ֥ל וְעַם־ רָֽב׃"
+pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 26
+book/chapter: "[[Ezek.26|Ezekiel 26]]"
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6865]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9003]]"
+- "[[H5483M]]"
+- "[[H9002]]"
+- "[[H7393G]]"
+- "[[H6571B]]"
+- "[[H6951]]"
+- "[[H5971K]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 26:7**<big><big>[[Ezek.26.1 A Prophecy against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the Lord GOD; Behold, I will bring upon Tyrus Nebuchadrezzar king of Babylon, a king of kings, from the north, with horses, and with chariots, and with horsemen, and companies, and much people.
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord GOD says: ‘Behold, I will bring against Tyre from the north Nebuchadnezzar king of Babylon, king of kings, with horses and chariots, with cavalry and a great company of troops.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֧י]] [[H0935P\|מֵבִ֣יא]] [[H0413\|אֶל]][[H9014\|־]] [[H6865\|צֹ֗ר]] [[H5019\|נְבוּכַדְרֶאצַּ֧ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H9006\|מִ]][[H6828G\|צָּפ֖וֹן]] [[H4428G\|מֶ֣לֶךְ]] [[H4428G\|מְלָכִ֑ים]] [[H9003\|בְּ]][[H5483M\|ס֛וּס]] [[H9002\|וּ]][[H9003\|בְ]][[H7393G\|רֶ֥כֶב]] [[H9002\|וּ]][[H9003\|בְ]][[H6571B\|פָרָשִׁ֖ים]] [[H9002\|וְ]][[H6951\|קָהָ֥ל]] [[H9002\|וְ]][[H5971K\|עַם]][[H9014\|־]] [[H7227A\|רָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic NEBUCHADNEZZAR|NEBUCHADNEZZAR]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.26.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.26.6|<< Ezekiel 26:6]]</td><td align="center" style="border:none;">[[Ezek.26|Ezekiel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.26.8|Ezekiel 26:8 >>]]</td></tr></table>
 

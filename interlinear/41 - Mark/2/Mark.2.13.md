@@ -1,10 +1,52 @@
+---
+title: Mark 2:13
+type: Verse
+kjv: "And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them."
+bsb: "Once again Jesus went out beside the sea. All the people came to Him, and He taught them there."
+greek: "Καὶ ἐξῆλθεν πάλιν παρὰ τὴν θάλασσαν, καὶ πᾶς ὁ ὄχλος ἤρχετο πρὸς αὐτόν, καὶ ἐδίδασκεν αὐτούς.¶"
+pericope: "[[Mark.2.13 Jesus Calls Levi|Jesus Calls Levi]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1831]]"
+- "[[G3825]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G3956]]"
+- "[[G3793]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1321]]"
+texts:
+- NKO
+---
+
 **Mark 2:13**<big><big>[[Mark.2.13 Jesus Calls Levi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he went forth again by the sea side; and all the multitude resorted unto him, and he taught them.
 <small><sub>**BSB:**</sub></small>
 Once again Jesus went out beside the sea. All the people came to Him, and He taught them there.
-<small><sub>**Literal:**</sub></small>
-And He went forth again beside the sea, and all the crowd was coming to Him, and He was teaching them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.12|<< Mark 2:12]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.14|Mark 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1831\|ἐξῆλθεν]]  [[G3825\|πάλιν]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν,]]  [[G2532\|καὶ]]  [[G3956\|πᾶς]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G2064\|ἤρχετο]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν,]]  [[G2532\|καὶ]]  [[G1321\|ἐδίδασκεν]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.12|<< Mark 2:12]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.14|Mark 2:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

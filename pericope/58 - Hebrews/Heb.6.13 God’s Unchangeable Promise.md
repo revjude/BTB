@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Unchangeable Promise
+type: Pericope
 pericope: "[[Heb.6.13 God’s Unchangeable Promise|God’s Unchangeable Promise]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Hebrews
 chapter: 6
 book/chapter: "[[Heb.6|Hebrews 6]]"
-genre:
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
 - epistle
 - sermon
 - theological treatise
 - typological
+verse_count: 8
 verses:
 - "[[Heb.6.13]]"
 - "[[Heb.6.14]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Heb.6.20]]"
 ---
 
-[[Heb.6|Hebrews 6:13 - Hebrews 6:20]]
+<small>[[Heb.6|Hebrews 6:13-20]]</small>
 *God’s Unchangeable Promise*
 
 [[Heb.6.13|13]] For when God made promise to Abraham, because he could swear by no greater, he sware by himself,

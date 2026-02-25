@@ -1,8 +1,69 @@
+---
+title: 1 Kings 18:24
+type: Verse
+kjv: "And call ye on the name of your gods, and I will call on the name of the LORD: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken."
+bsb: "Then you may call on the name of your god, and I will call on the name of the LORD. The God who answers by fire, He is God.” And all the people answered, “What you say is good.”"
+hebrew: "וּקְרָאתֶ֞ם בְּשֵׁ֣ם אֱלֹֽהֵיכֶ֗ם וַֽאֲנִי֙ אֶקְרָ֣א בְשֵׁם־ יְהוָ֔ה וְהָיָ֧ה הָאֱלֹהִ֛ים אֲשֶׁר־ יַעֲנֶ֥ה בָאֵ֖שׁ ה֣וּא הָאֱלֹהִ֑ים וַיַּ֧עַן כָּל־ הָעָ֛ם וַיֹּאמְר֖וּ ט֥וֹב הַדָּבָֽר׃"
+pericope: "[[1Kgs.18.16 Elijah on Mount Carmel|Elijah on Mount Carmel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H6030B]]"
+- "[[H0784]]"
+- "[[H1931]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0559]]"
+- "[[H2896A]]"
+- "[[H1697H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:24**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And call ye on the name of your gods, and I will call on the name of the LORD: and the God that answereth by fire, let him be God. And all the people answered and said, It is well spoken.
 <small><sub>**BSB:**</sub></small>
 Then you may call on the name of your god, and I will call on the name of the LORD. The God who answers by fire, He is God.” And all the people answered, “What you say is good.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H7121G\|קְרָאתֶ֞ם]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֗ם]] [[H9002\|וַֽ]][[H0589\|אֲנִי֙]] [[H7121G\|אֶקְרָ֣א]] [[H9003\|בְ]][[H8034\|שֵׁם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H1961\|הָיָ֧ה]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֛ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6030B\|יַעֲנֶ֥ה]] [[H9003\|בָ]][[H0784\|אֵ֖שׁ]] [[H1931\|ה֣וּא]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H6030B\|יַּ֧עַן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H2896A\|ט֥וֹב]] [[H9009\|הַ]][[H1697H\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic ELIJAH|ELIJAH]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.23|<< 1 Kings 18:23]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.25|1 Kings 18:25 >>]]</td></tr></table>
 

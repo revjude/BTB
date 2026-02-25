@@ -1,8 +1,53 @@
+---
+title: Proverbs 13:13
+type: Verse
+kjv: "Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded."
+bsb: "He who despises instruction will pay the penalty, but the one who respects a command will be rewarded."
+hebrew: "בָּ֣ז לְ֭דָבָר יֵחָ֣בֶל ל֑וֹ וִירֵ֥א מִ֝צְוָ֗ה ה֣וּא יְשֻׁלָּֽם׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H0936]]"
+- "[[H9005]]"
+- "[[H1697G]]"
+- "[[H2254B]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3373]]"
+- "[[H4687]]"
+- "[[H1931]]"
+- "[[H7999A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:13**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso despiseth the word shall be destroyed: but he that feareth the commandment shall be rewarded.
 <small><sub>**BSB:**</sub></small>
 He who despises instruction will pay the penalty, but the one who respects a command will be rewarded.
+<small><sub>**Hebrew:**</sub></small>
+[[H0936\|בָּ֣ז]] [[H9005\|לְ֭]][[H1697G\|דָבָר]] [[H2254B\|יֵחָ֣בֶל]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וִ]][[H3373\|ירֵ֥א]] [[H4687\|מִ֝צְוָ֗ה]] [[H1931\|ה֣וּא]] [[H7999A\|יְשֻׁלָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.12|<< Proverbs 13:12]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.14|Proverbs 13:14 >>]]</td></tr></table>
 

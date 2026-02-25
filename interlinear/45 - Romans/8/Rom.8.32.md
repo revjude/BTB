@@ -1,10 +1,60 @@
+---
+title: Romans 8:32
+type: Verse
+kjv: "He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?"
+bsb: "He who did not spare His own Son but gave Him up for us all, how will He not also, along with Him, freely give us all things?"
+greek: "ὅς γε τοῦ ἰδίου υἱοῦ οὐκ ἐφείσατο, ἀλλ᾽ ὑπὲρ ἡμῶν πάντων παρέδωκεν αὐτόν, πῶς οὐχὶ καὶ σὺν αὐτῷ τὰ πάντα ἡμῖν χαρίσεται;¶"
+pericope: "[[Rom.8.28 God Works in All Things|God Works in All Things]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 8
+book/chapter: "[[Rom.8|Romans 8]]"
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1065]]"
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G5207]]"
+- "[[G3756]]"
+- "[[G5339]]"
+- "[[G0235]]"
+- "[[G5228]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G4459]]"
+- "[[G3780]]"
+- "[[G2532]]"
+- "[[G4862]]"
+- "[[G5483]]"
+texts:
+- NKO
+---
+
 **Romans 8:32**<big><big>[[Rom.8.28 God Works in All Things|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?
 <small><sub>**BSB:**</sub></small>
 He who did not spare His own Son but gave Him up for us all, how will He not also, along with Him, freely give us all things?
-<small><sub>**Literal:**</sub></small>
-He who indeed <the> [his] own Son not spared, but for us all gave up Him, how surely also with Him the [things] all us will He grant?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.31|<< Romans 8:31]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.33|Romans 8:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὅς]]  [[G1065\|γε]]  [[G3588\|τοῦ]]  [[G2398\|ἰδίου]]  [[G5207\|υἱοῦ]]  [[G3756\|οὐκ]]  [[G5339\|ἐφείσατο,]]  [[G0235\|ἀλλ᾽]]  [[G5228\|ὑπὲρ]]  [[G3165\|ἡμῶν]]  [[G3956\|πάντων]]  [[G3860\|παρέδωκεν]]  [[G0846\|αὐτόν,]]  [[G4459\|πῶς]]  [[G3780\|οὐχὶ]]  [[G2532\|καὶ]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G3588\|τὰ]]  [[G3956\|πάντα]]  [[G3165\|ἡμῖν]]  [[G5483\|χαρίσεται;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.8.31|<< Romans 8:31]]</td><td align="center" style="border:none;">[[Rom.8|Romans 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.8.33|Romans 8:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

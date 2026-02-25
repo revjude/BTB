@@ -1,8 +1,57 @@
+---
+title: Job 40:20
+type: Verse
+kjv: "Surely the mountains bring him forth food, where all the beasts of the field play."
+bsb: "The hills yield him their produce, while all the beasts of the field play nearby."
+hebrew: "כִּֽי־ ב֭וּל הָרִ֣ים יִשְׂאוּ־ ל֑וֹ וְֽכָל־ חַיַּ֥ת הַ֝שָּׂדֶ֗ה יְשַֽׂחֲקוּ־ שָֽׁם׃"
+pericope: "[[Job.40.6 The LORD Challenges Job Again|The LORD Challenges Job Again]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0944]]"
+- "[[H2022G]]"
+- "[[H5375K]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H7704I]]"
+- "[[H7832]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 40:20**<big><big>[[Job.40.6 The LORD Challenges Job Again|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely the mountains bring him forth food, where all the beasts of the field play.
 <small><sub>**BSB:**</sub></small>
 The hills yield him their produce, while all the beasts of the field play nearby.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0944\|ב֭וּל]] [[H2022G\|הָרִ֣ים]] [[H5375K\|יִשְׂאוּ]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9002\|וְֽ]][[H3605\|כָל]][[H9014\|־]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הַ֝]][[H7704I\|שָּׂדֶ֗ה]] [[H7832\|יְשַֽׂחֲקוּ]][[H9014\|־]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.40.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.40.19|<< Job 40:19]]</td><td align="center" style="border:none;">[[Job.40|Job 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.40.21|Job 40:21 >>]]</td></tr></table>
 

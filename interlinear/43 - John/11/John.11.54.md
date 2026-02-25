@@ -1,10 +1,71 @@
+---
+title: John 11:54
+type: Verse
+kjv: "Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples."
+bsb: "As a result, Jesus no longer went about publicly among the Jews, but He withdrew to a town called Ephraim in an area near the wilderness. And He stayed there with the disciples."
+greek: "Ὁ οὖν Ἰησοῦς οὐκέτι οὐκέτι παρρησίᾳ περιεπάτει ἐν τοῖς Ἰουδαίοις, ἀλλ᾽ ἀπῆλθεν ἐκεῖθεν εἰς τὴν χώραν ἐγγὺς τῆς ἐρήμου εἰς Ἐφραὶμ λεγομένην πόλιν, κἀκεῖ κἀκεῖ ἔμεινεν μετὰ τῶν μαθητῶν αὐτοῦ.¶"
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPHRAH|OPHRAH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G2424G]]"
+- "[[G3756]]"
+- "[[G2089]]"
+- "[[G3954]]"
+- "[[G4043]]"
+- "[[G1722]]"
+- "[[G2453]]"
+- "[[G0235]]"
+- "[[G0565]]"
+- "[[G1564]]"
+- "[[G1519]]"
+- "[[G5561]]"
+- "[[G1451]]"
+- "[[G2048]]"
+- "[[G2187]]"
+- "[[G3004H]]"
+- "[[G4172]]"
+- "[[G2532]]"
+- "[[G1563]]"
+- "[[G3306]]"
+- "[[G3326]]"
+- "[[G3101]]"
+- "[[G0846]]"
+texts:
+- no
+- NKO
+- N(k)O
+- k
+---
+
 **John 11:54**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.
 <small><sub>**BSB:**</sub></small>
 As a result, Jesus no longer went about publicly among the Jews, but He withdrew to a town called Ephraim in an area near the wilderness. And He stayed there with the disciples.
-<small><sub>**Literal:**</sub></small>
-<the> Therefore Jesus no longer publicly was walking among the Jews, but went away from there into the region near the wilderness to Ephraim being named a city, And there He stayed with the disciples of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.53|<< John 11:53]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.55|John 11:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3767\|οὖν]]  [[G2424G\|Ἰησοῦς]]  [[G3756\|οὐκέτι]]  <sup><small>[[G2089\| [ • ] ]]</small></sup>  [[G3954\|παρρησίᾳ]]  [[G4043\|περιεπάτει]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις,]]  [[G0235\|ἀλλ᾽]]  [[G0565\|ἀπῆλθεν]]  [[G1564\|ἐκεῖθεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5561\|χώραν]]  [[G1451\|ἐγγὺς]]  [[G3588\|τῆς]]  [[G2048\|ἐρήμου]]  [[G1519\|εἰς]]  [[G2187\|Ἐφραὶμ]]  [[G3004H\|λεγομένην]]  [[G4172\|πόλιν,]]  [[G2532\|κἀκεῖ]]  <sup><small>[[G1563\| [ • ] ]]</small></sup>  [[G3306\|ἔμεινεν]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPHRAH|OPHRAH]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.53|<< John 11:53]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.55|John 11:55 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

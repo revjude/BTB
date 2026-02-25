@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Serving with Honor
+type: Pericope
 pericope: "[[1Tim.6.1 Serving with Honor|Serving with Honor]]"
-verse_count: 2
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 6
 book/chapter: "[[1Tim.6|1 Timothy 6]]"
-genre:
+chronological_order: 1131
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 2
 verses:
 - "[[1Tim.6.1]]"
 - "[[1Tim.6.2]]"
 ---
 
-[[1Tim.6|1 Timothy 6:1 - 1 Timothy 6:2]]
+<small>[[1Tim.6|1 Timothy 6:1-2]]</small>
 *Serving with Honor*
 
 [[1Tim.6.1|1]] Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and \[his\] doctrine be not blasphemed.

@@ -1,10 +1,60 @@
+---
+title: Acts 3:15
+type: Verse
+kjv: "And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses."
+bsb: "You killed the Author of life, but God raised Him from the dead, and we are witnesses of this fact."
+greek: "τὸν δὲ ἀρχηγὸν τῆς ζωῆς ἀπεκτείνατε ὃν ὁ θεὸς ἤγειρεν ἐκ νεκρῶν, οὗ ἡμεῖς μάρτυρές ἐσμεν."
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0747]]"
+- "[[G2222]]"
+- "[[G0615]]"
+- "[[G3739]]"
+- "[[G2316]]"
+- "[[G1453]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G3165]]"
+- "[[G3144]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Acts 3:15**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And killed the Prince of life, whom God hath raised from the dead; whereof we are witnesses.
 <small><sub>**BSB:**</sub></small>
 You killed the Author of life, but God raised Him from the dead, and we are witnesses of this fact.
-<small><sub>**Literal:**</sub></small>
-<the> and the Author <the> of life you killed whom <the> God has raised up out from [the] dead, whereof we ourselves witnesses are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.14|<< Acts 3:14]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.16|Acts 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸν]]  [[G1161\|δὲ]]  [[G0747\|ἀρχηγὸν]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς]]  [[G0615\|ἀπεκτείνατε]]  [[G3739\|ὃν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1453\|ἤγειρεν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]  [[G3739\|οὗ]]  [[G3165\|ἡμεῖς]]  [[G3144\|μάρτυρές]]  [[G1510\|ἐσμεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic COURAGE|COURAGE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic TEMPLE|TEMPLE]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.14|<< Acts 3:14]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.16|Acts 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

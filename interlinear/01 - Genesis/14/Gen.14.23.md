@@ -1,8 +1,67 @@
+---
+title: Genesis 14:23
+type: Verse
+kjv: "That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, I have made Abram rich:"
+bsb: "that I will not accept even a thread, or a strap of a sandal, or anything that belongs to you, lest you should say, ‘I have made Abram rich.’"
+hebrew: "אִם־ מִחוּט֙ וְעַ֣ד שְׂרֽוֹךְ־ נַ֔עַל וְאִם־ אֶקַּ֖ח מִכָּל־ אֲשֶׁר־ לָ֑ךְ וְלֹ֣א תֹאמַ֔ר אֲנִ֖י הֶעֱשַׁ֥רְתִּי אֶת־ אַבְרָֽם׃"
+pericope: "[[Gen.14.17 Melchizedek Blesses Abram|Melchizedek Blesses Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SHOE|SHOE]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H2339]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H8288]]"
+- "[[H5275]]"
+- "[[H3947G]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H0589]]"
+- "[[H6238]]"
+- "[[H0853]]"
+- "[[H0087]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 14:23**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That I will not [take] from a thread even to a shoelatchet, and that I will not take any thing that [is] thine, lest thou shouldest say, I have made Abram rich:
 <small><sub>**BSB:**</sub></small>
 that I will not accept even a thread, or a strap of a sandal, or anything that belongs to you, lest you should say, ‘I have made Abram rich.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0518H\|אִם]][[H9014\|־]] [[H9006\|מִ]][[H2339\|חוּט֙]] [[H9002\|וְ]][[H5704\|עַ֣ד]] [[H8288\|שְׂרֽוֹךְ]][[H9014\|־]] [[H5275\|נַ֔עַל]] [[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H3947G\|אֶקַּ֖ח]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H0559\|תֹאמַ֔ר]] [[H0589\|אֲנִ֖י]] [[H6238\|הֶעֱשַׁ֥רְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H0087\|אַבְרָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic OATH|OATH]] • [[topic RULERS|RULERS]] • [[topic SHOE|SHOE]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.22|<< Genesis 14:22]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.24|Genesis 14:24 >>]]</td></tr></table>
 

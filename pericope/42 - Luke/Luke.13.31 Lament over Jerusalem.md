@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lament over Jerusalem
+type: Pericope
 pericope: "[[Luke.13.31 Lament over Jerusalem|Lament over Jerusalem]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 13
 book/chapter: "[[Luke.13|Luke 13]]"
-genre:
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.13.31]]"
 - "[[Luke.13.32]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.13.35]]"
 ---
 
-[[Luke.13|Luke 13:31 - Luke 13:35]]
+<small>[[Luke.13|Luke 13:31-35]]</small>
 *Lament over Jerusalem*
 
 [[Luke.13.31|31]] The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.

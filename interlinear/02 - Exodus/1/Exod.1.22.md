@@ -1,8 +1,71 @@
+---
+title: Exodus 1:22
+type: Verse
+kjv: "And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive."
+bsb: "Then Pharaoh commanded all his people: “Every son born to the Hebrews you must throw into the Nile, but every daughter you may allow to live.”"
+hebrew: "וַיְצַ֣ו פַּרְעֹ֔ה לְכָל־ עַמּ֖וֹ לֵאמֹ֑ר כָּל־ הַבֵּ֣ן הַיִּלּ֗וֹד הַיְאֹ֙רָה֙ תַּשְׁלִיכֻ֔הוּ וְכָל־ הַבַּ֖ת תְּחַיּֽוּן׃ ס"
+pericope: "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H6547I]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H1121A]]"
+- "[[H3209]]"
+- "[[H2975G]]"
+- "[[H9011]]"
+- "[[H7993]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H2421]]"
+- "[[H9013]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 1:22**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
 <small><sub>**BSB:**</sub></small>
 Then Pharaoh commanded all his people: “Every son born to the Hebrews you must throw into the Nile, but every daughter you may allow to live.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֣ו]] [[H6547I\|פַּרְעֹ֔ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַמּ֖]][[H9023\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1121A\|בֵּ֣ן]] [[H9009\|הַ]][[H3209\|יִּלּ֗וֹד]] [[H9009\|הַ]][[H2975G\|יְאֹ֙רָ]][[H9011\|ה֙]] [[H7993\|תַּשְׁלִיכֻ֔]][[H9033\|הוּ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1323G\|בַּ֖ת]] [[H2421\|תְּחַיּֽוּ]][[H9013\|ן]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HOMICIDE|HOMICIDE]] • [[topic OPPRESSION|OPPRESSION]] • [[topic SERVANT|SERVANT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.21|<< Exodus 1:21]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.1|Exodus 2:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -24,7 +87,7 @@ Then Pharaoh commanded all his people: “Every son born to the Hebrews you must
 | you will throw him  |**<big>&#8207;[[H7993\|תַּשְׁלִיכֻ֔]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| tash.li.Khu.<small><sup>[[HVhi2mp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and every  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3605\|כָל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> khol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> daughter  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1323G\|בַּ֖ת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Bat<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| you will let live !  |**<big>&#8207;[[H2421\|תְּחַיּֽוּ]]&#8207;&#8207;[[H9013\|ן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| te.chai.Yu<small><sup>[[HVpi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| you will let live !  |**<big>&#8207;[[H2421\|תְּחַיּֽוּ]]&#8207;&#8207;[[H9013\|ן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| te.chai.Yu<small><sup>[[HVpi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.21|<< Exodus 1:21]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.1|Exodus 2:1 >>]]</td></tr></table>
 
 

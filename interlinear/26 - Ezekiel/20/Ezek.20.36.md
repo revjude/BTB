@@ -1,8 +1,56 @@
+---
+title: Ezekiel 20:36
+type: Verse
+kjv: "Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord GOD."
+bsb: "Just as I entered into judgment with your fathers in the wilderness of the land of Egypt, so I will enter into judgment with you, declares the Lord GOD."
+hebrew: "כַּאֲשֶׁ֤ר נִשְׁפַּ֙טְתִּי֙ אֶת־ אֲב֣וֹתֵיכֶ֔ם בְּמִדְבַּ֖ר אֶ֣רֶץ מִצְרָ֑יִם כֵּ֚ן אִשָּׁפֵ֣ט אִתְּכֶ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.20.33 Judgment and Restoration|Judgment and Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H8199]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3651C]]"
+- "[[H9036]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:36**<big><big>[[Ezek.20.33 Judgment and Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 Just as I entered into judgment with your fathers in the wilderness of the land of Egypt, so I will enter into judgment with you, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H8199\|נִשְׁפַּ֙טְתִּי֙]] [[H0854\|אֶת]][[H9014\|־]] [[H0001G\|אֲב֣וֹתֵי]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H4057B\|מִדְבַּ֖ר]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H3651C\|כֵּ֚ן]] [[H8199\|אִשָּׁפֵ֣ט]] [[H0854\|אִתְּ]][[H9036\|כֶ֔ם]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.35|<< Ezekiel 20:35]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.37|Ezekiel 20:37 >>]]</td></tr></table>
 

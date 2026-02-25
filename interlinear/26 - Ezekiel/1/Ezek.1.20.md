@@ -1,8 +1,64 @@
+---
+title: Ezekiel 1:20
+type: Verse
+kjv: "Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels."
+bsb: "Wherever the spirit would go, they would go, and the wheels would rise alongside them, because the spirit of the living creatures was in the wheels."
+hebrew: "עַ֣ל אֲשֶׁר֩ יִֽהְיֶה־ שָּׁ֨ם הָר֤וּחַ לָלֶ֙כֶת֙ יֵלֵ֔כוּ שָׁ֥מָּה הָר֖וּחַ לָלֶ֑כֶת וְהָאוֹפַנִּ֗ים יִנָּשְׂאוּ֙ לְעֻמָּתָ֔ם כִּ֛י ר֥וּחַ הַחַיָּ֖ה בָּאוֹפַנִּֽים׃"
+pericope: "[[Ezek.1.15 The Four Wheels|The Four Wheels]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H9009]]"
+- "[[H7307G]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H0212]]"
+- "[[H5375G]]"
+- "[[H5980]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H2416C]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:20**<big><big>[[Ezek.1.15 The Four Wheels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whithersoever the spirit was to go, they went, thither [was their] spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature [was] in the wheels.
 <small><sub>**BSB:**</sub></small>
 Wherever the spirit would go, they would go, and the wheels would rise alongside them, because the spirit of the living creatures was in the wheels.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַ֣ל]] [[H0834A\|אֲשֶׁר֩]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H8033G\|שָּׁ֨ם]] [[H9009\|הָ]][[H7307G\|ר֤וּחַ]] [[H9005\|לָ]][[H1980G\|לֶ֙כֶת֙]] [[H1980G\|יֵלֵ֔כוּ]] [[H8033G\|שָׁ֥מָּ]][[H9011\|ה]] [[H9009\|הָ]][[H7307G\|ר֖וּחַ]] [[H9005\|לָ]][[H1980G\|לֶ֑כֶת]] [[H9002\|וְ]][[H9009\|הָ]][[H0212\|אוֹפַנִּ֗ים]] [[H5375G\|יִנָּשְׂאוּ֙]] [[H9005\|לְ]][[H5980\|עֻמָּתָ֔]][[H9038\|ם]] [[H3588A\|כִּ֛י]] [[H7307G\|ר֥וּחַ]] [[H9009\|הַ]][[H2416C\|חַיָּ֖ה]] [[H9003\|בָּ]][[H0212\|אוֹפַנִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic PROPHETS|PROPHETS]] • [[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.19|<< Ezekiel 1:19]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.21|Ezekiel 1:21 >>]]</td></tr></table>
 

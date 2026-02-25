@@ -1,10 +1,62 @@
+---
+title: Matthew 19:22
+type: Verse
+kjv: "But when the young man heard that saying, he went away sorrowful: for he had great possessions."
+bsb: "When the young man heard this, he went away in sorrow, because he had great wealth."
+greek: "Ἀκούσας δὲ ὁ νεανίσκος τὸν τοῦτον λόγον ἀπῆλθεν λυπούμενος· ἦν γὰρ ἔχων κτήματα πολλά.¶"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3495]]"
+- "[[G3778]]"
+- "[[G3056]]"
+- "[[G0565]]"
+- "[[G3076]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G2192]]"
+- "[[G2933]]"
+- "[[G4183]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 19:22**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when the young man heard that saying, he went away sorrowful: for he had great possessions.
 <small><sub>**BSB:**</sub></small>
 When the young man heard this, he went away in sorrow, because he had great wealth.
-<small><sub>**Literal:**</sub></small>
-Having heard now the young man <the> this statement he went away grieving; he was [one] for having possessions many.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.21|<< Matthew 19:21]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.23|Matthew 19:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσας]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3495\|νεανίσκος]]  [[G3588\|τὸν]]  [[G3778\|τοῦτον]]  [[G3056\|λόγον]]  [[G0565\|ἀπῆλθεν]]  [[G3076\|λυπούμενος·]]  [[G1510\|ἦν]]  [[G1063\|γὰρ]]  [[G2192\|ἔχων]]  [[G2933\|κτήματα]]  [[G4183\|πολλά.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RICHES|RICHES]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.21|<< Matthew 19:21]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.23|Matthew 19:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

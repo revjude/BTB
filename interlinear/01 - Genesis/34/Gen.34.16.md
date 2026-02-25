@@ -1,8 +1,62 @@
+---
+title: Genesis 34:16
+type: Verse
+kjv: "Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people."
+bsb: "Then we will give you our daughters and take your daughters for ourselves. We will dwell among you and become one people."
+hebrew: "וְנָתַ֤נּוּ אֶת־ בְּנֹתֵ֙ינוּ֙ לָכֶ֔ם וְאֶת־ בְּנֹתֵיכֶ֖ם נִֽקַּֽח־ לָ֑נוּ וְיָשַׁ֣בְנוּ אִתְּכֶ֔ם וְהָיִ֖ינוּ לְעַ֥ם אֶחָֽד׃"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414O]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H9026]]"
+- "[[H3947G]]"
+- "[[H9035]]"
+- "[[H3427]]"
+- "[[H0854]]"
+- "[[H1961]]"
+- "[[H5971A]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:16**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then will we give our daughters unto you, and we will take your daughters to us, and we will dwell with you, and we will become one people.
 <small><sub>**BSB:**</sub></small>
 Then we will give you our daughters and take your daughters for ourselves. We will dwell among you and become one people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414O\|נָתַ֤נּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתֵ֙י]][[H9025\|נוּ֙]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֹתֵי]][[H9026\|כֶ֖ם]] [[H3947G\|נִֽקַּֽח]][[H9014\|־]] [[H9005\|לָ֑]][[H9035\|נוּ]] [[H9001\|וְ]][[H3427\|יָשַׁ֣בְנוּ]] [[H0854\|אִתְּ]][[H9036\|כֶ֔ם]] [[H9001\|וְ]][[H1961\|הָיִ֖ינוּ]] [[H9005\|לְ]][[H5971A\|עַ֥ם]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.15|<< Genesis 34:15]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.17|Genesis 34:17 >>]]</td></tr></table>
 

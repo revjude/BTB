@@ -1,8 +1,64 @@
+---
+title: Numbers 2:10
+type: Verse
+kjv: "On the south side shall be the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben shall be Elizur the son of Shedeur."
+bsb: "On the south side, the divisions of Reuben are to camp under their standard: The leader of the Reubenites is Elizur son of Shedeur,"
+hebrew: "דֶּ֣גֶל מַחֲנֵ֧ה רְאוּבֵ֛ן תֵּימָ֖נָה לְצִבְאֹתָ֑ם וְנָשִׂיא֙ לִבְנֵ֣י רְאוּבֵ֔ן אֱלִיצ֖וּר בֶּן־ שְׁדֵיאֽוּר׃"
+pericope: "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ELIZUR|ELIZUR]]"
+- "[[topic GAD|GAD]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic SHEDEUR|SHEDEUR]]"
+strongs:
+- "[[H1714]]"
+- "[[H4264]]"
+- "[[H7205]]"
+- "[[H8486]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H6635A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5387A]]"
+- "[[H1121G]]"
+- "[[H0468]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7707]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 2:10**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 On the south side [shall be] the standard of the camp of Reuben according to their armies: and the captain of the children of Reuben [shall be] Elizur the son of Shedeur.
 <small><sub>**BSB:**</sub></small>
 On the south side, the divisions of Reuben are to camp under their standard: The leader of the Reubenites is Elizur son of Shedeur,
+<small><sub>**Hebrew:**</sub></small>
+[[H1714\|דֶּ֣גֶל]] [[H4264\|מַחֲנֵ֧ה]] [[H7205\|רְאוּבֵ֛ן]] [[H8486\|תֵּימָ֖נָ]][[H9011\|ה]] [[H9005\|לְ]][[H6635A\|צִבְאֹתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H5387A\|נָשִׂיא֙]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H7205\|רְאוּבֵ֔ן]] [[H0468\|אֱלִיצ֖וּר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7707\|שְׁדֵיאֽוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ELIZUR|ELIZUR]] • [[topic GAD|GAD]] • [[topic REUBENITES|REUBENITES]] • [[topic SHEDEUR|SHEDEUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.9|<< Numbers 2:9]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.11|Numbers 2:11 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Psalm 42:3
+type: Verse
+kjv: "My tears have been my meat day and night, while they continually say unto me, Where is thy God?"
+bsb: "My tears have been my food both day and night, while men ask me all day long, “Where is your God?”"
+hebrew: "הָֽיְתָה־ לִּ֬י דִמְעָתִ֣י לֶ֭חֶם יוֹמָ֣ם וָלָ֑יְלָה בֶּאֱמֹ֥ר אֵלַ֥י כָּל־ הַ֝יּ֗וֹם אַיֵּ֥ה אֱלֹהֶֽיךָ׃"
+pericope: "[[Ps.42.1 As the Deer Pants for the Water|As the Deer Pants for the Water]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 42
+book/chapter: "[[Ps.42|Psalm 42]]"
+chronological_order: 497
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic TEARS|TEARS]]"
+- "[[topic THIRST|THIRST]]"
+strongs:
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1832]]"
+- "[[H9020]]"
+- "[[H3899G]]"
+- "[[H3119]]"
+- "[[H9002]]"
+- "[[H3915]]"
+- "[[H9003]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0346]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 42:3**<big><big>[[Ps.42.1 As the Deer Pants for the Water|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My tears have been my meat day and night, while they continually say unto me, Where [is] thy God?
 <small><sub>**BSB:**</sub></small>
 My tears have been my food both day and night, while men ask me all day long, “Where is your God?”
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הָֽיְתָה]][[H9014\|־]] [[H9005\|לִּ֬]][[H9030\|י]] [[H1832\|דִמְעָתִ֣]][[H9020\|י]] [[H3899G\|לֶ֭חֶם]] [[H3119\|יוֹמָ֣ם]] [[H9002\|וָ]][[H3915\|לָ֑יְלָה]] [[H9003\|בֶּ]][[H0559\|אֱמֹ֥ר]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֝]][[H3117G\|יּ֗וֹם]] [[H0346\|אַיֵּ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SCOFFING|SCOFFING]] • [[topic SEEKERS|SEEKERS]] • [[topic TEARS|TEARS]] • [[topic THIRST|THIRST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.42.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.42.2|<< Psalms 42:2]]</td><td align="center" style="border:none;">[[Ps.42|Psalms 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.42.4|Psalms 42:4 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Judges 11:32
+type: Verse
+kjv: "So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands."
+bsb: "So Jephthah crossed over to the Ammonites to fight against them, and the LORD delivered them into his hand."
+hebrew: "וַיַּעֲבֹ֥ר יִפְתָּ֛ח אֶל־ בְּנֵ֥י עַמּ֖וֹן לְהִלָּ֣חֶם בָּ֑ם וַיִתְּנֵ֥ם יְהוָ֖ה בְּיָדֽוֹ׃"
+pericope: "[[Judg.11.29 Jephthah’s Tragic Vow|Jephthah’s Tragic Vow]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H3316H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 11:32**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jephthah passed over unto the children of Ammon to fight against them; and the LORD delivered them into his hands.
 <small><sub>**BSB:**</sub></small>
 So Jephthah crossed over to the Ammonites to fight against them, and the LORD delivered them into his hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֹ֥ר]] [[H3316H\|יִפְתָּ֛ח]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H5983\|עַמּ֖וֹן]] [[H9005\|לְ]][[H3898A\|הִלָּ֣חֶם]] [[H9003\|בָּ֑]][[H9038\|ם]] [[H9001\|וַ]][[H5414G\|יִתְּנֵ֥]][[H9038\|ם]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3027H\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic GOD|GOD]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]] • [[topic RASHNESS|RASHNESS]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.31|<< Judges 11:31]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.33|Judges 11:33 >>]]</td></tr></table>
 

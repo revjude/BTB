@@ -1,8 +1,77 @@
+---
+title: Exodus 16:29
+type: Verse
+kjv: "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
+bsb: "Understand that the LORD has given you the Sabbath; that is why on the sixth day He will give you bread for two days. On the seventh day, everyone must stay where he is; no one may leave his place.”"
+hebrew: "רְא֗וּ כִּֽי־ יְהוָה֮ נָתַ֣ן לָכֶ֣ם הַשַּׁבָּת֒ עַל־ כֵּ֠ן ה֣וּא נֹתֵ֥ן לָכֶ֛ם בַּיּ֥וֹם הַשִּׁשִּׁ֖י לֶ֣חֶם יוֹמָ֑יִם שְׁב֣וּ׀ אִ֣ישׁ תַּחְתָּ֗יו אַל־ יֵ֥צֵא אִ֛ישׁ מִמְּקֹמ֖וֹ בַּיּ֥וֹם הַשְּׁבִיעִֽי׃"
+pericope: "[[Exod.16.22 The Sabbath Observed|The Sabbath Observed]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H7200I]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H8345]]"
+- "[[H3899H]]"
+- "[[H3427]]"
+- "[[H9015]]"
+- "[[H0376I]]"
+- "[[H8478I]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H7637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:29**<big><big>[[Exod.16.22 The Sabbath Observed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day.
 <small><sub>**BSB:**</sub></small>
 Understand that the LORD has given you the Sabbath; that is why on the sixth day He will give you bread for two days. On the seventh day, everyone must stay where he is; no one may leave his place.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7200I\|רְא֗וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3068G\|יְהוָה֮]] [[H5414G\|נָתַ֣ן]] [[H9005\|לָ]][[H9036\|כֶ֣ם]] [[H9009\|הַ]][[H7676\|שַּׁבָּת֒]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֠ן]] [[H1931\|ה֣וּא]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H8345\|שִּׁשִּׁ֖י]] [[H3899H\|לֶ֣חֶם]] [[H3117G\|יוֹמָ֑יִם]] [[H3427\|שְׁב֣וּ]][[H9015\|׀]] [[H0376I\|אִ֣ישׁ]] [[H8478I\|תַּחְתָּ֗י]][[H9033\|ו]] [[H0408\|אַל]][[H9014\|־]] [[H3318G\|יֵ֥צֵא]] [[H0376I\|אִ֛ישׁ]] [[H9006\|מִ]][[H4725\|מְּקֹמ֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.28|<< Exodus 16:28]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.30|Exodus 16:30 >>]]</td></tr></table>
 

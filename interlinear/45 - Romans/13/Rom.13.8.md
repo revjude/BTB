@@ -1,10 +1,53 @@
+---
+title: Romans 13:8
+type: Verse
+kjv: "Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law."
+bsb: "Be indebted to no one, except to one another in love. For he who loves his neighbor has fulfilled the law."
+greek: "μηδενὶ μηδὲν ὀφείλετε εἰ μὴ τὸ ἀλλήλους ἀγαπᾶν· ὁ γὰρ ἀγαπῶν τὸν ἕτερον νόμον πεπλήρωκεν·"
+pericope: "[[Rom.13.8 Love Fulfills the Law|Love Fulfills the Law]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DEBT|DEBT]]"
+- "[[topic DECALOGUE|DECALOGUE]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G3367]]"
+- "[[G3784]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G0240]]"
+- "[[G0025]]"
+- "[[G1063]]"
+- "[[G2087]]"
+- "[[G3551]]"
+- "[[G4137]]"
+texts:
+- NKO
+---
+
 **Romans 13:8**<big><big>[[Rom.13.8 Love Fulfills the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.
 <small><sub>**BSB:**</sub></small>
 Be indebted to no one, except to one another in love. For he who loves his neighbor has fulfilled the law.
-<small><sub>**Literal:**</sub></small>
-To no one nothing do owe only except <the> one another to love; the [one] for loving the other [the] Law has fulfilled;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.7|<< Romans 13:7]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.9|Romans 13:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3367\|μηδενὶ]]  [[G3367\|μηδὲν]]  [[G3784\|ὀφείλετε]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|τὸ]]  [[G0240\|ἀλλήλους]]  [[G0025\|ἀγαπᾶν·]]  [[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G0025\|ἀγαπῶν]]  [[G3588\|τὸν]]  [[G2087\|ἕτερον]]  [[G3551\|νόμον]]  [[G4137\|πεπλήρωκεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DEBT|DEBT]] • [[topic DECALOGUE|DECALOGUE]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.7|<< Romans 13:7]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.9|Romans 13:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

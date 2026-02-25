@@ -1,8 +1,70 @@
+---
+title: Ezekiel 30:22
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Behold, I am against Pharaoh king of Egypt, and will break his arms, the strong, and that which was broken; and I will cause the sword to fall out of his hand."
+bsb: "Therefore this is what the Lord GOD says: Behold, I am against Pharaoh king of Egypt. I will break his arms, both the strong one and the one already broken, and will make the sword fall from his hand."
+hebrew: "לָכֵ֞ן כֹּה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה הִנְנִי֙ אֶל־ פַּרְעֹ֣ה מֶֽלֶךְ־ מִצְרַ֔יִם וְשָֽׁבַרְתִּי֙ אֶת־ זְרֹ֣עֹתָ֔יו אֶת־ הַחֲזָקָ֖ה וְאֶת־ הַנִּשְׁבָּ֑רֶת וְהִפַּלְתִּ֥י אֶת־ הַחֶ֖רֶב מִיָּדֽוֹ׃"
+pericope: "[[Ezek.30.20 Pharaoh’s Power Broken|Pharaoh’s Power Broken]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H6547R]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H7665]]"
+- "[[H0853]]"
+- "[[H2220]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H2389]]"
+- "[[H9002]]"
+- "[[H5307G]]"
+- "[[H2719]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:22**<big><big>[[Ezek.30.20 Pharaoh’s Power Broken|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Behold, I [am] against Pharaoh king of Egypt, and will break his arms, the strong, and that which was broken; and I will cause the sword to fall out of his hand.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: Behold, I am against Pharaoh king of Egypt. I will break his arms, both the strong one and the one already broken, and will make the sword fall from his hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֗ה]] [[H2005\|הִנְ]][[H9040\|נִי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6547R\|פַּרְעֹ֣ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וְ]][[H7665\|שָֽׁבַרְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2220\|זְרֹ֣עֹתָ֔י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2389\|חֲזָקָ֖ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7665\|נִּשְׁבָּ֑רֶת]] [[H9001\|וְ]][[H5307G\|הִפַּלְתִּ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2719\|חֶ֖רֶב]] [[H9006\|מִ]][[H3027G\|יָּדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.21|<< Ezekiel 30:21]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.23|Ezekiel 30:23 >>]]</td></tr></table>
 

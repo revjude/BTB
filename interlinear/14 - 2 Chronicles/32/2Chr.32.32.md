@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 32:32
+type: Verse
+kjv: "Now the rest of the acts of Hezekiah, and his goodness, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, and in the book of the kings of Judah and Israel."
+bsb: "As for the rest of the acts of Hezekiah and his deeds of loving devotion, they are indeed written in the vision of the prophet Isaiah son of Amoz in the Book of the Kings of Judah and Israel."
+hebrew: "וְיֶ֛תֶר דִּבְרֵ֥י יְחִזְקִיָּ֖הוּ וַחֲסָדָ֑יו הִנָּ֣ם כְּתוּבִ֗ים בַּחֲז֞וֹן יְשַֽׁעְיָ֤הוּ בֶן־ אָמוֹץ֙ הַנָּבִ֔יא עַל־ סֵ֥פֶר מַלְכֵי־ יְהוּדָ֖ה וְיִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.32.32 Hezekiah’s Death|Hezekiah’s Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H2396G]]"
+- "[[H2617A]]"
+- "[[H9023]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H2377]]"
+- "[[H3470A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0531]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:32**<big><big>[[2Chr.32.32 Hezekiah’s Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Hezekiah, and his goodness, behold, they [are] written in the vision of Isaiah the prophet, the son of Amoz, [and] in the book of the kings of Judah and Israel.
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Hezekiah and his deeds of loving devotion, they are indeed written in the vision of the prophet Isaiah son of Amoz in the Book of the Kings of Judah and Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֛תֶר]] [[H1697K\|דִּבְרֵ֥י]] [[H2396G\|יְחִזְקִיָּ֖הוּ]] [[H9002\|וַ]][[H2617A\|חֲסָדָ֑י]][[H9023\|ו]] [[H2005\|הִנָּ֣]][[H9048\|ם]] [[H3789\|כְּתוּבִ֗ים]] [[H9003\|בַּ]][[H2377\|חֲז֞וֹן]] [[H3470A\|יְשַֽׁעְיָ֤הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0531\|אָמוֹץ֙]] [[H9009\|הַ]][[H5030\|נָּבִ֔יא]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֥פֶר]] [[H4428G\|מַלְכֵי]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.31|<< 2 Chronicles 32:31]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.33|2 Chronicles 32:33 >>]]</td></tr></table>
 

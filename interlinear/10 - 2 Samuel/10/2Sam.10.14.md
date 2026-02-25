@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 10:14
+type: Verse
+kjv: "And when the children of Ammon saw that the Syrians were fled, then fled they also before Abishai, and entered into the city. So Joab returned from the children of Ammon, and came to Jerusalem."
+bsb: "When the Ammonites saw that the Arameans had fled, they too fled before Abishai, and they entered the city. So Joab returned from fighting against the Ammonites and came to Jerusalem."
+hebrew: "וּבְנֵ֨י עַמּ֤וֹן רָאוּ֙ כִּי־ נָ֣ס אֲרָ֔ם וַיָּנֻ֙סוּ֙ מִפְּנֵ֣י אֲבִישַׁ֔י וַיָּבֹ֖אוּ הָעִ֑יר וַיָּ֣שָׁב יוֹאָ֗ב מֵעַל֙ בְּנֵ֣י עַמּ֔וֹן וַיָּבֹ֖א יְרוּשָׁלִָֽם׃"
+pericope: "[[2Sam.10.9 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5127]]"
+- "[[H0758I]]"
+- "[[H9001]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H0052]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H7725G]]"
+- "[[H3097G]]"
+- "[[H5921A]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:14**<big><big>[[2Sam.10.9 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the children of Ammon saw that the Syrians were fled, then fled they also before Abishai, and entered into the city. So Joab returned from the children of Ammon, and came to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 When the Ammonites saw that the Arameans had fled, they too fled before Abishai, and they entered the city. So Joab returned from fighting against the Ammonites and came to Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121G\|בְנֵ֨י]] [[H5983\|עַמּ֤וֹן]] [[H7200G\|רָאוּ֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H5127\|נָ֣ס]] [[H0758I\|אֲרָ֔ם]] [[H9001\|וַ]][[H5127\|יָּנֻ֙סוּ֙]] [[H9006\|מִ]][[H6440G\|פְּנֵ֣י]] [[H0052\|אֲבִישַׁ֔י]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H7725G\|יָּ֣שָׁב]] [[H3097G\|יוֹאָ֗ב]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֔וֹן]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖א]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic JOAB|JOAB]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.13|<< 2 Samuel 10:13]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.15|2 Samuel 10:15 >>]]</td></tr></table>
 

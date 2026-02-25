@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 31:2
+type: Verse
+kjv: "And he said unto them, I am an hundred and twenty years old this day; I can no more go out and come in: also the LORD hath said unto me, Thou shalt not go over this Jordan."
+bsb: "he said to them, “I am now a hundred and twenty years old; I am no longer able to come and go, and the LORD has said to me, ‘You shall not cross the Jordan.’"
+hebrew: "וַיֹּ֣אמֶר אֲלֵהֶ֗ם בֶּן־ מֵאָה֩ וְעֶשְׂרִ֨ים שָׁנָ֤ה אָנֹכִי֙ הַיּ֔וֹם לֹא־ אוּכַ֥ל ע֖וֹד לָצֵ֣את וְלָב֑וֹא וַֽיהוָה֙ אָמַ֣ר אֵלַ֔י לֹ֥א תַעֲבֹ֖ר אֶת־ הַיַּרְדֵּ֥ן הַזֶּֽה׃"
+pericope: "[[Deut.31.1 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H0595]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H5750]]"
+- "[[H9005]]"
+- "[[H3318G]]"
+- "[[H0935G]]"
+- "[[H3068G]]"
+- "[[H9030]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H3383]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:2**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, I [am] an hundred and twenty years old this day; I can no more go out and come in: also the LORD hath said unto me, Thou shalt not go over this Jordan.
 <small><sub>**BSB:**</sub></small>
 he said to them, “I am now a hundred and twenty years old; I am no longer able to come and go, and the LORD has said to me, ‘You shall not cross the Jordan.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H1121L\|בֶּן]][[H9014\|־]] [[H3967\|מֵאָה֩]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֨ים]] [[H8141\|שָׁנָ֤ה]] [[H0595\|אָנֹכִי֙]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|אוּכַ֥ל]] [[H5750\|ע֖וֹד]] [[H9005\|לָ]][[H3318G\|צֵ֣את]] [[H9002\|וְ]][[H9005\|לָ]][[H0935G\|ב֑וֹא]] [[H9002\|וַֽ]][[H3068G\|יהוָה֙]] [[H0559\|אָמַ֣ר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H3808\|לֹ֥א]] [[H5674A\|תַעֲבֹ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֥ן]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LONGEVITY|LONGEVITY]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.1|<< Deuteronomy 31:1]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.3|Deuteronomy 31:3 >>]]</td></tr></table>
 

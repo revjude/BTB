@@ -1,8 +1,69 @@
+---
+title: 1 Kings 14:4
+type: Verse
+kjv: "And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age."
+bsb: "Jeroboam’s wife did as instructed; she arose and went to Shiloh and arrived at Ahijah’s house. Now Ahijah could not see, for his eyes were dim because of his age."
+hebrew: "וַתַּ֤עַשׂ כֵּן֙ אֵ֣שֶׁת יָרָבְעָ֔ם וַתָּ֙קָם֙ וַתֵּ֣לֶךְ שִׁלֹ֔ה וַתָּבֹ֖א בֵּ֣ית אֲחִיָּ֑ה וַאֲחִיָּ֙הוּ֙ לֹֽא־ יָכֹ֣ל לִרְא֔וֹת כִּ֛י קָ֥מוּ עֵינָ֖יו מִשֵּׂיבֽוֹ׃ ס"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H0802H]]"
+- "[[H3379G]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H7887]]"
+- "[[H0935G]]"
+- "[[H1004M]]"
+- "[[H0281H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H6965I]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H7869]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Kings 14:4**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jeroboam’s wife did so, and arose, and went to Shiloh, and came to the house of Ahijah. But Ahijah could not see; for his eyes were set by reason of his age.
 <small><sub>**BSB:**</sub></small>
 Jeroboam’s wife did as instructed; she arose and went to Shiloh and arrived at Ahijah’s house. Now Ahijah could not see, for his eyes were dim because of his age.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|תַּ֤עַשׂ]] [[H3651C\|כֵּן֙]] [[H0802H\|אֵ֣שֶׁת]] [[H3379G\|יָרָבְעָ֔ם]] [[H9001\|וַ]][[H6965B\|תָּ֙קָם֙]] [[H9001\|וַ]][[H1980G\|תֵּ֣לֶךְ]] [[H7887\|שִׁלֹ֔ה]] [[H9001\|וַ]][[H0935G\|תָּבֹ֖א]] [[H1004M\|בֵּ֣ית]] [[H0281H\|אֲחִיָּ֑ה]] [[H9002\|וַ]][[H0281H\|אֲחִיָּ֙הוּ֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3201\|יָכֹ֣ל]] [[H9005\|לִ]][[H7200G\|רְא֔וֹת]] [[H3588A\|כִּ֛י]] [[H6965I\|קָ֥מוּ]] [[H5869A\|עֵינָ֖י]][[H9023\|ו]] [[H9006\|מִ]][[H7869\|שֵּׂיבֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic BLINDNESS|BLINDNESS]] • [[topic JEROBOAM|JEROBOAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.3|<< 1 Kings 14:3]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.5|1 Kings 14:5 >>]]</td></tr></table>
 
@@ -25,7 +86,7 @@ Jeroboam’s wife did as instructed; she arose and went to Shiloh and arrived at
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were fixed  |**<big>&#8207;[[H6965I\|קָ֥מוּ]]&#8207; </big>**| Ka.mu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | eyes his  |**<big>&#8207;[[H5869A\|עֵינָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from old age his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7869\|שֵּׂיבֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sei.V<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from old age his  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7869\|שֵּׂיבֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> sei.V<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.3|<< 1 Kings 14:3]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.5|1 Kings 14:5 >>]]</td></tr></table>
 
 

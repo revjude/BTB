@@ -1,8 +1,64 @@
+---
+title: Genesis 46:18
+type: Verse
+kjv: "These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls."
+bsb: "These are the sons of Jacob born to Zilpah—whom Laban gave to his daughter Leah—sixteen in all."
+hebrew: "אֵ֚לֶּה בְּנֵ֣י זִלְפָּ֔ה אֲשֶׁר־ נָתַ֥ן לָבָ֖ן לְלֵאָ֣ה בִתּ֑וֹ וַתֵּ֤לֶד אֶת־ אֵ֙לֶּה֙ לְיַעֲקֹ֔ב שֵׁ֥שׁ עֶשְׂרֵ֖ה נָֽפֶשׁ׃"
+pericope: "[[Gen.46.16 The Children of Zilpah|The Children of Zilpah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic ZILPAH|ZILPAH]]"
+strongs:
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H2153]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H3837A]]"
+- "[[H9005]]"
+- "[[H3812]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H3290]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H5315J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 46:18**<big><big>[[Gen.46.16 The Children of Zilpah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, [even] sixteen souls.
 <small><sub>**BSB:**</sub></small>
 These are the sons of Jacob born to Zilpah—whom Laban gave to his daughter Leah—sixteen in all.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֚לֶּה]] [[H1121A\|בְּנֵ֣י]] [[H2153\|זִלְפָּ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥ן]] [[H3837A\|לָבָ֖ן]] [[H9005\|לְ]][[H3812\|לֵאָ֣ה]] [[H1323G\|בִתּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3205\|תֵּ֤לֶד]] [[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵ֙לֶּה֙]] [[H9005\|לְ]][[H3290\|יַעֲקֹ֔ב]] [[H8337\|שֵׁ֥שׁ]] [[H6240\|עֶשְׂרֵ֖ה]] [[H5315J\|נָֽפֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic ZILPAH|ZILPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.46.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.46.17|<< Genesis 46:17]]</td><td align="center" style="border:none;">[[Gen.46|Genesis 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.46.19|Genesis 46:19 >>]]</td></tr></table>
 

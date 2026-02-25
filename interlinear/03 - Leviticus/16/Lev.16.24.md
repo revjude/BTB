@@ -1,8 +1,73 @@
+---
+title: Leviticus 16:24
+type: Verse
+kjv: "And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people."
+bsb: "He is to bathe himself with water in a holy place and put on his own clothes. Then he must go out and sacrifice his burnt offering and the people’s burnt offering to make atonement for himself and for the people."
+hebrew: "וְרָחַ֨ץ אֶת־ בְּשָׂר֤וֹ בַמַּ֙יִם֙ בְּמָק֣וֹם קָד֔וֹשׁ וְלָבַ֖שׁ אֶת־ בְּגָדָ֑יו וְיָצָ֗א וְעָשָׂ֤ה אֶת־ עֹֽלָתוֹ֙ וְאֶת־ עֹלַ֣ת הָעָ֔ם וְכִפֶּ֥ר בַּעֲד֖וֹ וּבְעַ֥ד הָעָֽם׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H4725]]"
+- "[[H6918G]]"
+- "[[H3847]]"
+- "[[H0899B]]"
+- "[[H3318G]]"
+- "[[H6213I]]"
+- "[[H5930A]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3722A]]"
+- "[[H1157]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:24**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall wash his flesh with water in the holy place, and put on his garments, and come forth, and offer his burnt offering, and the burnt offering of the people, and make an atonement for himself, and for the people.
 <small><sub>**BSB:**</sub></small>
 He is to bathe himself with water in a holy place and put on his own clothes. Then he must go out and sacrifice his burnt offering and the people’s burnt offering to make atonement for himself and for the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7364\|רָחַ֨ץ]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂר֤]][[H9023\|וֹ]] [[H9003\|בַ]][[H4325G\|מַּ֙יִם֙]] [[H9003\|בְּ]][[H4725\|מָק֣וֹם]] [[H6918G\|קָד֔וֹשׁ]] [[H9001\|וְ]][[H3847\|לָבַ֖שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H3318G\|יָצָ֗א]] [[H9001\|וְ]][[H6213I\|עָשָׂ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5930A\|עֹֽלָת]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5930A\|עֹלַ֣ת]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וְ]][[H3722A\|כִפֶּ֥ר]] [[H1157\|בַּעֲד֖]][[H9033\|וֹ]] [[H9002\|וּ]][[H1157\|בְעַ֥ד]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SCAPEGOAT|SCAPEGOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.23|<< Leviticus 16:23]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.25|Leviticus 16:25 >>]]</td></tr></table>
 

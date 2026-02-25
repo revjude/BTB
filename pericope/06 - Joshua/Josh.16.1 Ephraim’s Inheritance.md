@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ephraim’s Inheritance
+type: Pericope
 pericope: "[[Josh.16.1 Ephraim’s Inheritance|Ephraim’s Inheritance]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 16
 book/chapter: "[[Josh.16|Joshua 16]]"
-genre:
+chronological_order: 246
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 10
 verses:
 - "[[Josh.16.1]]"
 - "[[Josh.16.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Josh.16.10]]"
 ---
 
-[[Josh.16|Joshua 16:1 - Joshua 16:10]]
+<small>[[Josh.16|Joshua 16:1-10]]</small>
 *Ephraim’s Inheritance*
 
 [[Josh.16.1|1]] And the lot of the children of Joseph fell from Jordan by Jericho, unto the water of Jericho on the east, to the wilderness that goeth up from Jericho throughout mount Bethel,

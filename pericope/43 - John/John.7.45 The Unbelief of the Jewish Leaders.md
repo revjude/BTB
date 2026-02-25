@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Unbelief of the Jewish Leaders
+type: Pericope
 pericope: "[[John.7.45 The Unbelief of the Jewish Leaders|The Unbelief of the Jewish Leaders]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: John
 chapter: 7
 book/chapter: "[[John.7|John 7]]"
-genre:
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 9
 verses:
 - "[[John.7.45]]"
 - "[[John.7.46]]"
@@ -27,7 +34,7 @@ verses:
 - "[[John.7.53]]"
 ---
 
-[[John.7|John 7:45 - John 7:53]]
+<small>[[John.7|John 7:45-53]]</small>
 *The Unbelief of the Jewish Leaders*
 
 [[John.7.45|45]] Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?

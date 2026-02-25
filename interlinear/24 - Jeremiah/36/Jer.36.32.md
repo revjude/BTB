@@ -1,8 +1,82 @@
+---
+title: Jeremiah 36:32
+type: Verse
+kjv: "Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and there were added besides unto them many like words."
+bsb: "Then Jeremiah took another scroll and gave it to the scribe Baruch son of Neriah, and at Jeremiah’s dictation he wrote on it all the words of the scroll that Jehoiakim king of Judah had burned in the fire. And many similar words were added to them."
+hebrew: "וְיִרְמְיָ֜הוּ לָקַ֣ח׀ מְגִלָּ֣ה אַחֶ֗רֶת וַֽיִּתְּנָהּ֮ אֶל־ בָּר֣וּךְ בֶּן־ נֵרִיָּהוּ֮ הַסֹּפֵר֒ וַיִּכְתֹּ֤ב עָלֶ֙יהָ֙ מִפִּ֣י יִרְמְיָ֔הוּ אֵ֚ת כָּל־ דִּבְרֵ֣י הַסֵּ֔פֶר אֲשֶׁ֥ר שָׂרַ֛ף יְהוֹיָקִ֥ים מֶֽלֶךְ־ יְהוּדָ֖ה בָּאֵ֑שׁ וְע֨וֹד נוֹסַ֧ף עֲלֵיהֶ֛ם דְּבָרִ֥ים רַבִּ֖ים כָּהֵֽמָּה׃ ס"
+pericope: "[[Jer.36.27 Jeremiah Rewrites the Scroll|Jeremiah Rewrites the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9002]]"
+- "[[H3414L]]"
+- "[[H3947G]]"
+- "[[H9015]]"
+- "[[H4039]]"
+- "[[H0312]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1263J]]"
+- "[[H1121A]]"
+- "[[H5374]]"
+- "[[H9009]]"
+- "[[H5608B]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9006]]"
+- "[[H6310I]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H1697G]]"
+- "[[H5612A]]"
+- "[[H0834A]]"
+- "[[H8313]]"
+- "[[H3079]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H5750]]"
+- "[[H3254H]]"
+- "[[H9038]]"
+- "[[H7227A]]"
+- "[[H9004]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 36:32**<big><big>[[Jer.36.27 Jeremiah Rewrites the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then took Jeremiah another roll, and gave it to Baruch the scribe, the son of Neriah; who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire: and there were added besides unto them many like words.
 <small><sub>**BSB:**</sub></small>
 Then Jeremiah took another scroll and gave it to the scribe Baruch son of Neriah, and at Jeremiah’s dictation he wrote on it all the words of the scroll that Jehoiakim king of Judah had burned in the fire. And many similar words were added to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3414L\|יִרְמְיָ֜הוּ]] [[H3947G\|לָקַ֣ח]][[H9015\|׀]] [[H4039\|מְגִלָּ֣ה]] [[H0312\|אַחֶ֗רֶת]] [[H9001\|וַֽ]][[H5414G\|יִּתְּנָ]][[H9034\|הּ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H1263J\|בָּר֣וּךְ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5374\|נֵרִיָּהוּ֮]] [[H9009\|הַ]][[H5608B\|סֹּפֵר֒]] [[H9001\|וַ]][[H3789\|יִּכְתֹּ֤ב]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H9006\|מִ]][[H6310I\|פִּ֣י]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H9009\|הַ]][[H5612A\|סֵּ֔פֶר]] [[H0834A\|אֲשֶׁ֥ר]] [[H8313\|שָׂרַ֛ף]] [[H3079\|יְהוֹיָקִ֥ים]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H9002\|וְ]][[H5750\|ע֨וֹד]] [[H3254H\|נוֹסַ֧ף]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H1697G\|דְּבָרִ֥ים]] [[H7227A\|רַבִּ֖ים]] [[H9004\|כָּ]][[H9038\|הֵֽמָּה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.31|<< Jeremiah 36:31]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.1|Jeremiah 37:1 >>]]</td></tr></table>
 
@@ -37,7 +111,7 @@ Then Jeremiah took another scroll and gave it to the scribe Baruch son of Neriah
 | to them  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9038\|הֶ֛ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | words  |**<big>&#8207;[[H1697G\|דְּבָרִ֥ים]]&#8207; </big>**| de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | many  |**<big>&#8207;[[H7227A\|רַבִּ֖ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like them  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H9038\|הֵֽמָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like them  |**<big>&#8207;[[H9004\|כָּ]]&#8207;&#8207;[[H9038\|הֵֽמָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> He.mah<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.31|<< Jeremiah 36:31]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.37.1|Jeremiah 37:1 >>]]</td></tr></table>
 
 

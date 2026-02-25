@@ -9,7 +9,7 @@
 
 → For melting lead and tin [[Ezek.22.20|Eze 22:20]]
 
-→ For capital punishment, Shadrach, Meshach, and Abed-nego cast  into, by Nebuchadnezzar [[Dan.3.6|Da 3:6]]-[[Dan.3.26|26]]
+→ For capital punishment, Shadrach, Meshach, and Abed-nego cast  into, by Nebuchadnezzar [[Dan.3.6|Da 3:6-26]]
 
 → FIGURATIVE
 

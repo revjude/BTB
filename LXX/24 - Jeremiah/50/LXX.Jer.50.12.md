@@ -1,6 +1,48 @@
+---
+title: LXX Jeremiah 50:12
+type: Verse
+lxx: "Your mother is exceedingly shamed; the one giving birth to you felt shame. Behold, the last of the nations shall be desolate and untrodden."
+greek: "ησχύνθη η μήτηρ υμών σφόδρα ενετράπη η τεκούσα υμάς ιδού εσχάτη εθνών έρημος και άβατος"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[G0153]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G1473]]"
+- "[[G4970]]"
+- "[[G1788]]"
+- "[[G3588]]"
+- "[[G5088]]"
+- "[[G1473]]"
+- "[[G2400]]"
+- "[[G2078]]"
+- "[[G1484]]"
+- "[[G2048]]"
+- "[[G2532]]"
+- "[[G6101]]"
+---
+
 **LXX Jeremiah 50:12** 
 <small><sub>**LXX:**</sub></small>
 Your mother \[is\] exceedingly shamed; the one giving birth to you felt shame. Behold, \[the\] last of \[the\] nations \[shall be\] desolate and untrodden. 
+<small><sub>**Greek:**</sub></small>
+[[G0153\|ησχύνθη]] [[G3588\|η]] [[G3384\|μήτηρ]] [[G1473\|υμών]] [[G4970\|σφόδρα]] [[G1788\|ενετράπη]] [[G3588\|η]] [[G5088\|τεκούσα]] [[G1473\|υμάς]] [[G2400\|ιδού]] [[G2078\|εσχάτη]] [[G1484\|εθνών]] [[G2048\|έρημος]] [[G2532\|και]] [[G6101\|άβατος]]
 <small><sub>**MT:**</sub></small>
 [[Jer.50.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.11|<< Jeremiah 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.13|Jeremiah 50:13 >>]]</td></tr></table>
 
@@ -20,6 +62,6 @@ Your mother \[is\] exceedingly shamed; the one giving birth to you felt shame. B
 | \[shall be\] desolate | **<big>[[G2048\|έρημος]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | untrodden. | **<big>[[G6101\|άβατος]]</big>** |
-[[Jer.50.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.11|<< Jeremiah 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.13|Jeremiah 50:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.11|<< Jeremiah 50:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.13|Jeremiah 50:13 >>]]</td></tr></table>
 
 

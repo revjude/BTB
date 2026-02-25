@@ -1,10 +1,62 @@
+---
+title: Mark 13:24
+type: Verse
+kjv: "But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,"
+bsb: "But in those days, after that tribulation: ‘The sun will be darkened, and the moon will not give its light;"
+jesus_said: "But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,"
+greek: "Ἀλλ᾽ ἐν ἐκείναις ταῖς ἡμέραις μετὰ τὴν θλῖψιν ἐκείνην ὁ ἥλιος σκοτισθήσεται, καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς,"
+pericope: "[[Mark.13.24 The Return of the Son of Man|The Return of the Son of Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOON|MOON]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[G0235]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3326]]"
+- "[[G2347]]"
+- "[[G2246]]"
+- "[[G4654]]"
+- "[[G2532]]"
+- "[[G4582]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G5338]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Mark 13:24**<big><big>[[Mark.13.24 The Return of the Son of Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But in those days, after that tribulation, the sun shall be darkened, and the moon shall not give her light,
 <small><sub>**BSB:**</sub></small>
 But in those days, after that tribulation: ‘The sun will be darkened, and the moon will not give its light;
-<small><sub>**Literal:**</sub></small>
-But in those <the> days after the tribulation those The sun will be darkened, and the moon not will give the light of it,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.23|<< Mark 13:23]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.25|Mark 13:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|Ἀλλ᾽]]  [[G1722\|ἐν]]  [[G1565\|ἐκείναις]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3326\|μετὰ]]  [[G3588\|τὴν]]  [[G2347\|θλῖψιν]]  [[G1565\|ἐκείνην]]  [[G3588\|ὁ]]  [[G2246\|ἥλιος]]  [[G4654\|σκοτισθήσεται,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4582\|σελήνη]]  [[G3756\|οὐ]]  [[G1325\|δώσει]]  [[G3588\|τὸ]]  [[G5338\|φέγγος]]  [[G0846\|αὐτῆς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic DARKNESS|DARKNESS]] • [[topic EARTH|EARTH]] • [[topic ECLIPSE|ECLIPSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOON|MOON]] • [[topic SUN|SUN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.23|<< Mark 13:23]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.25|Mark 13:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 13:24** is...
 > $\quad$ referencing: [[LXX.Isa.13.9|Isa 13:9-10]] ☩ [[LXX.Isa.34.4|Isa 34:4]]

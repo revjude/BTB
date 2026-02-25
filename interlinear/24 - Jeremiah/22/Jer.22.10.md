@@ -1,8 +1,64 @@
+---
+title: Jeremiah 22:10
+type: Verse
+kjv: "Weep ye not for the dead, neither bemoan him: but weep sore for him that goeth away: for he shall return no more, nor see his native country."
+bsb: "Do not weep for him who is dead; do not mourn his loss. Weep bitterly for him who is exiled, for he will never return to see his native land."
+hebrew: "אַל־ תִּבְכּ֣וּ לְמֵ֔ת וְאַל־ תָּנֻ֖דוּ ל֑וֹ בְּכ֤וּ בָכוֹ֙ לַֽהֹלֵ֔ךְ כִּ֣י לֹ֤א יָשׁוּב֙ ע֔וֹד וְרָאָ֖ה אֶת־ אֶ֥רֶץ מוֹלַדְתּֽוֹ׃ ס"
+pericope: "[[Jer.22.10 A Warning about Shallum|A Warning about Shallum]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1058]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H5110]]"
+- "[[H9033]]"
+- "[[H1980G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H5750]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H4138]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 22:10**<big><big>[[Jer.22.10 A Warning about Shallum|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Weep ye not for the dead, neither bemoan him: [but] weep sore for him that goeth away: for he shall return no more, nor see his native country.
 <small><sub>**BSB:**</sub></small>
 Do not weep for him who is dead; do not mourn his loss. Weep bitterly for him who is exiled, for he will never return to see his native land.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H1058\|תִּבְכּ֣וּ]] [[H9005\|לְ]][[H4191\|מֵ֔ת]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H5110\|תָּנֻ֖דוּ]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H1058\|בְּכ֤וּ]] [[H1058\|בָכוֹ֙]] [[H9005\|לַֽ]][[H1980G\|הֹלֵ֔ךְ]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H7725G\|יָשׁוּב֙]] [[H5750\|ע֔וֹד]] [[H9001\|וְ]][[H7200G\|רָאָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4138\|מוֹלַדְתּֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOAHAZ|JEHOAHAZ]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.9|<< Jeremiah 22:9]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.11|Jeremiah 22:11 >>]]</td></tr></table>
 
@@ -24,7 +80,7 @@ Do not weep for him who is dead; do not mourn his loss. Weep bitterly for him wh
 | and he will see  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200G\|רָאָ֖ה]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'Ah<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] land of  |**<big>&#8207;[[H0776G\|אֶ֥רֶץ]]&#8207; </big>**| 'E.retz<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| kindred his  |**<big>&#8207;[[H4138\|מוֹלַדְתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.lad.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| kindred his  |**<big>&#8207;[[H4138\|מוֹלַדְתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mo.lad.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.9|<< Jeremiah 22:9]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.11|Jeremiah 22:11 >>]]</td></tr></table>
 
 

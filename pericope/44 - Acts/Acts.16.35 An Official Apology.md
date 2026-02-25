@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: An Official Apology
+type: Pericope
 pericope: "[[Acts.16.35 An Official Apology|An Official Apology]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Acts
 chapter: 16
 book/chapter: "[[Acts.16|Acts 16]]"
-genre:
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 6
 verses:
 - "[[Acts.16.35]]"
 - "[[Acts.16.36]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Acts.16.40]]"
 ---
 
-[[Acts.16|Acts 16:35 - Acts 16:40]]
+<small>[[Acts.16|Acts 16:35-40]]</small>
 *An Official Apology*
 
 [[Acts.16.35|35]] And when it was day, the magistrates sent the serjeants, saying, Let those men go.

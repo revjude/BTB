@@ -1,8 +1,61 @@
+---
+title: Job 32:4
+type: Verse
+kjv: "Now Elihu had waited till Job had spoken, because they were elder than he."
+bsb: "Now Elihu had waited to speak to Job because the others were older than he."
+hebrew: "וֶֽאֱלִיה֗וּ חִכָּ֣ה אֶת־ אִ֭יּוֹב בִּדְבָרִ֑ים כִּ֤י זְֽקֵנִים־ הֵ֖מָּה מִמֶּ֣נּוּ לְיָמִֽים׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MODESTY|MODESTY]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0453K]]"
+- "[[H2442]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0347]]"
+- "[[H9003]]"
+- "[[H1697H]]"
+- "[[H3588A]]"
+- "[[H2205H]]"
+- "[[H1992]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H3117H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:4**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Elihu had waited till Job had spoken, because they [were] elder than he.
 <small><sub>**BSB:**</sub></small>
 Now Elihu had waited to speak to Job because the others were older than he.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וֶֽ]][[H0453K\|אֱלִיה֗וּ]] [[H2442\|חִכָּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0347\|אִ֭יּוֹב]] [[H9003\|בִּ]][[H1697H\|דְבָרִ֑ים]] [[H3588A\|כִּ֤י]] [[H2205H\|זְֽקֵנִים]][[H9014\|־]] [[H1992\|הֵ֖מָּה]] [[H4480A\|מִמֶּ֣]][[H9033\|נּוּ]] [[H9005\|לְ]][[H3117H\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HUMILITY|HUMILITY]] • [[topic MODESTY|MODESTY]] • [[topic OLD AGE|OLD AGE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.3|<< Job 32:3]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.5|Job 32:5 >>]]</td></tr></table>
 

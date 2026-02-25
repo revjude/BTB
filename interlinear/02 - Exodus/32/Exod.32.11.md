@@ -1,8 +1,76 @@
+---
+title: Exodus 32:11
+type: Verse
+kjv: "And Moses besought the LORD his God, and said, LORD, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?"
+bsb: "But Moses sought the favor of the LORD his God, saying, “O LORD, why does Your anger burn against Your people, whom You brought out of the land of Egypt with great power and a mighty hand?"
+hebrew: "וַיְחַ֣ל מֹשֶׁ֔ה אֶת־ פְּנֵ֖י יְהוָ֣ה אֱלֹהָ֑יו וַיֹּ֗אמֶר לָמָ֤ה יְהוָה֙ יֶחֱרֶ֤ה אַפְּךָ֙ בְּעַמֶּ֔ךָ אֲשֶׁ֤ר הוֹצֵ֙אתָ֙ מֵאֶ֣רֶץ מִצְרַ֔יִם בְּכֹ֥חַ גָּד֖וֹל וּבְיָ֥ד חֲזָקָֽה׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H2470B]]"
+- "[[H4872]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6440L]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3581B]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:11**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses besought the LORD his God, and said, LORD, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?
 <small><sub>**BSB:**</sub></small>
 But Moses sought the favor of the LORD his God, saying, “O LORD, why does Your anger burn against Your people, whom You brought out of the land of Egypt with great power and a mighty hand?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2470B\|יְחַ֣ל]] [[H4872\|מֹשֶׁ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6440L\|פְּנֵ֖י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H9005\|לָ]][[H4100\|מָ֤ה]] [[H3068G\|יְהוָה֙]] [[H2734\|יֶחֱרֶ֤ה]] [[H0639G\|אַפְּ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H5971A\|עַמֶּ֔]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֤ר]] [[H3318H\|הוֹצֵ֙אתָ֙]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9003\|בְּ]][[H3581B\|כֹ֥חַ]] [[H1419A\|גָּד֖וֹל]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יָ֥ד]] [[H2389\|חֲזָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.10|<< Exodus 32:10]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.12|Exodus 32:12 >>]]</td></tr></table>
 

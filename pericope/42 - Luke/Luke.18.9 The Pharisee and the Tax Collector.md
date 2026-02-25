@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Pharisee and the Tax Collector
+type: Pericope
 pericope: "[[Luke.18.9 The Pharisee and the Tax Collector|The Pharisee and the Tax Collector]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 18
 book/chapter: "[[Luke.18|Luke 18]]"
-genre:
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.18.9]]"
 - "[[Luke.18.10]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.18.14]]"
 ---
 
-[[Luke.18|Luke 18:9 - Luke 18:14]]
+<small>[[Luke.18|Luke 18:9-14]]</small>
 *The Pharisee and the Tax Collector*
 
 [[Luke.18.9|9]] And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:

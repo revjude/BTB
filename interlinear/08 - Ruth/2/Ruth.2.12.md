@@ -1,8 +1,62 @@
+---
+title: Ruth 2:12
+type: Verse
+kjv: "The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust."
+bsb: "May the LORD repay your work, and may you receive a rich reward from the LORD, the God of Israel, under whose wings you have taken refuge.”"
+hebrew: "יְשַׁלֵּ֥ם יְהוָ֖ה פָּעֳלֵ֑ךְ וּתְהִ֨י מַשְׂכֻּרְתֵּ֜ךְ שְׁלֵמָ֗ה מֵעִ֤ם יְהוָה֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל אֲשֶׁר־ בָּ֖את לַחֲס֥וֹת תַּֽחַת־ כְּנָפָֽיו׃"
+pericope: "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 2
+book/chapter: "[[Ruth.2|Ruth 2]]"
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic RUTH|RUTH]]"
+strongs:
+- "[[H7999A]]"
+- "[[H3068G]]"
+- "[[H6467]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H4909]]"
+- "[[H8003]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H2620]]"
+- "[[H8478G]]"
+- "[[H3671]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 2:12**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.
 <small><sub>**BSB:**</sub></small>
 May the LORD repay your work, and may you receive a rich reward from the LORD, the God of Israel, under whose wings you have taken refuge.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7999A\|יְשַׁלֵּ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H6467\|פָּעֳלֵ֑]][[H9022\|ךְ]] [[H9002\|וּ]][[H1961\|תְהִ֨י]] [[H4909\|מַשְׂכֻּרְתֵּ֜]][[H9022\|ךְ]] [[H8003\|שְׁלֵמָ֗ה]] [[H9006\|מֵ]][[H5973B\|עִ֤ם]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֖את]] [[H9005\|לַ]][[H2620\|חֲס֥וֹת]] [[H8478G\|תַּֽחַת]][[H9014\|־]] [[H3671\|כְּנָפָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic RUTH|RUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.11|<< Ruth 2:11]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.13|Ruth 2:13 >>]]</td></tr></table>
 

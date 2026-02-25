@@ -1,8 +1,65 @@
+---
+title: Lamentations 1:9
+type: Verse
+kjv: "Her filthiness is in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified himself."
+bsb: "Her uncleanness stains her skirts; she did not consider her end. Her downfall was astounding; there was no one to comfort her. Look, O LORD, on my affliction, for the enemy has triumphed!"
+hebrew: "טֻמְאָתָ֣הּ בְּשׁוּלֶ֗יהָ לֹ֤א זָֽכְרָה֙ אַחֲרִיתָ֔הּ וַתֵּ֣רֶד פְּלָאִ֔ים אֵ֥ין מְנַחֵ֖ם לָ֑הּ רְאֵ֤ה יְהוָה֙ אֶת־ עָנְיִ֔י כִּ֥י הִגְדִּ֖יל אוֹיֵֽב׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H2932]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H7757]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H0319]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H6382]]"
+- "[[H0369]]"
+- "[[H5162G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6040]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H1431]]"
+- "[[H0341]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 1:9**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her filthiness [is] in her skirts; she remembereth not her last end; therefore she came down wonderfully: she had no comforter. O LORD, behold my affliction: for the enemy hath magnified [himself].
 <small><sub>**BSB:**</sub></small>
 Her uncleanness stains her skirts; she did not consider her end. Her downfall was astounding; there was no one to comfort her. Look, O LORD, on my affliction, for the enemy has triumphed!
+<small><sub>**Hebrew:**</sub></small>
+[[H2932\|טֻמְאָתָ֣]][[H9024\|הּ]] [[H9003\|בְּ]][[H7757\|שׁוּלֶ֗י]][[H9024\|הָ]] [[H3808\|לֹ֤א]] [[H2142\|זָֽכְרָה֙]] [[H0319\|אַחֲרִיתָ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H3381\|תֵּ֣רֶד]] [[H6382\|פְּלָאִ֔ים]] [[H0369\|אֵ֥ין]] [[H5162G\|מְנַחֵ֖ם]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H7200G\|רְאֵ֤ה]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6040\|עָנְיִ֔]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H1431\|הִגְדִּ֖יל]] [[H0341\|אוֹיֵֽב]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.8|<< Lamentations 1:8]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.10|Lamentations 1:10 >>]]</td></tr></table>
 
@@ -24,7 +81,7 @@ Her uncleanness stains her skirts; she did not consider her end. Her downfall wa
 | affliction my  |**<big>&#8207;[[H6040\|עָנְיִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.ne.Y<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it has magnified itself  |**<big>&#8207;[[H1431\|הִגְדִּ֖יל]]&#8207; </big>**| hig.Dil<small><sup>[[HVhp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] enemy  |**<big>&#8207;[[H0341\|אוֹיֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] enemy  |**<big>&#8207;[[H0341\|אוֹיֵֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Yev<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.8|<< Lamentations 1:8]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.10|Lamentations 1:10 >>]]</td></tr></table>
 
 

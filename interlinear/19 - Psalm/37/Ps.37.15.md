@@ -1,8 +1,52 @@
+---
+title: Psalm 37:15
+type: Verse
+kjv: "Their sword shall enter into their own heart, and their bows shall be broken."
+bsb: "But their swords will pierce their own hearts, and their bows will be broken."
+hebrew: "חַ֭רְבָּם תָּב֣וֹא בְלִבָּ֑ם וְ֝קַשְּׁתוֹתָ֗ם תִּשָּׁבַֽרְנָה׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2719]]"
+- "[[H9028]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H7198]]"
+- "[[H7665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:15**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their sword shall enter into their own heart, and their bows shall be broken.
 <small><sub>**BSB:**</sub></small>
 But their swords will pierce their own hearts, and their bows will be broken.
+<small><sub>**Hebrew:**</sub></small>
+[[H2719\|חַ֭רְבָּ]][[H9028\|ם]] [[H0935G\|תָּב֣וֹא]] [[H9003\|בְ]][[H3820A\|לִבָּ֑]][[H9028\|ם]] [[H9002\|וְ֝]][[H7198\|קַשְּׁתוֹתָ֗]][[H9028\|ם]] [[H7665\|תִּשָּׁבַֽרְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.14|<< Psalms 37:14]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.16|Psalms 37:16 >>]]</td></tr></table>
 

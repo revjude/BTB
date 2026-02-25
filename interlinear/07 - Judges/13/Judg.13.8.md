@@ -1,8 +1,68 @@
+---
+title: Judges 13:8
+type: Verse
+kjv: "Then Manoah intreated the LORD, and said, O my Lord, let the man of God which thou didst send come again unto us, and teach us what we shall do unto the child that shall be born."
+bsb: "Then Manoah prayed to the LORD, “Please, O Lord, let the man of God You sent us come to us again to teach us how to raise the boy who is to be born.”"
+hebrew: "וַיֶּעְתַּ֥ר מָנ֛וֹחַ אֶל־ יְהוָ֖ה וַיֹּאמַ֑ר בִּ֣י אֲדוֹנָ֔י אִ֣ישׁ הָאֱלֹהִ֞ים אֲשֶׁ֣ר שָׁלַ֗חְתָּ יָבוֹא־ נָ֥א עוֹד֙ אֵלֵ֔ינוּ וְיוֹרֵ֕נוּ מַֽה־ נַּעֲשֶׂ֖ה לַנַּ֥עַר הַיּוּלָּֽד׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H6279]]"
+- "[[H4495]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0994]]"
+- "[[H0136]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H0935G]]"
+- "[[H4994]]"
+- "[[H5750]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H3384B]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H5288]]"
+- "[[H3205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:8**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Manoah intreated the LORD, and said, O my Lord, let the man of God which thou didst send come again unto us, and teach us what we shall do unto the child that shall be born.
 <small><sub>**BSB:**</sub></small>
 Then Manoah prayed to the LORD, “Please, O Lord, let the man of God You sent us come to us again to teach us how to raise the boy who is to be born.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6279\|יֶּעְתַּ֥ר]] [[H4495\|מָנ֛וֹחַ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H0994\|בִּ֣י]] [[H0136\|אֲדוֹנָ֔י]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֞ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H7971G\|שָׁלַ֗חְתָּ]] [[H0935G\|יָבוֹא]][[H9014\|־]] [[H4994\|נָ֥א]] [[H5750\|עוֹד֙]] [[H0413\|אֵלֵ֔י]][[H9035\|נוּ]] [[H9002\|וְ]][[H3384B\|יוֹרֵ֕]][[H9035\|נוּ]] [[H4100\|מַֽה]][[H9014\|־]] [[H6213A\|נַּעֲשֶׂ֖ה]] [[H9005\|לַ]][[H5288\|נַּ֥עַר]] [[H9009\|הַ]][[H3205\|יּוּלָּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.7|<< Judges 13:7]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.9|Judges 13:9 >>]]</td></tr></table>
 

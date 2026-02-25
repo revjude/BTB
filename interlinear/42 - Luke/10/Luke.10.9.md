@@ -1,10 +1,58 @@
+---
+title: Luke 10:9
+type: Verse
+kjv: "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you."
+bsb: "Heal the sick who are there and tell them, ‘The kingdom of God is near you.’"
+jesus_said: "And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you."
+greek: "καὶ θεραπεύετε τοὺς ἐν αὐτῇ ἀσθενεῖς καὶ λέγετε αὐτοῖς· ἤγγικεν ἐφ᾽ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ."
+pericope: "[[Luke.10.1 Jesus Sends the Seventy-Two|Jesus Sends the Seventy-Two]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 10
+book/chapter: "[[Luke.10|Luke 10]]"
+chronological_order: 972
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[G2532]]"
+- "[[G2323]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G0772H]]"
+- "[[G3004G]]"
+- "[[G1448]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Luke 10:9**<big><big>[[Luke.10.1 Jesus Sends the Seventy-Two|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And heal the sick that are therein, and say unto them, The kingdom of God is come nigh unto you.
 <small><sub>**BSB:**</sub></small>
 Heal the sick who are there and tell them, ‘The kingdom of God is near you.’
-<small><sub>**Literal:**</sub></small>
-And do heal <the> in it [the] sick and do say to them; Has drawn near to you the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.8|<< Luke 10:8]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.10|Luke 10:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2323\|θεραπεύετε]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G0846\|αὐτῇ]]  [[G0772H\|ἀσθενεῖς]]  [[G2532\|καὶ]]  [[G3004G\|λέγετε]]  [[G0846\|αὐτοῖς·]]  [[G1448\|ἤγγικεν]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμᾶς]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHARISM|CHARISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SEVENTY|SEVENTY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.10.8|<< Luke 10:8]]</td><td align="center" style="border:none;">[[Luke.10|Luke 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.10.10|Luke 10:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

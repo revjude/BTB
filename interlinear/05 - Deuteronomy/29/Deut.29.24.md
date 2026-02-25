@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 29:24
+type: Verse
+kjv: "Even all nations shall say, Wherefore hath the LORD done thus unto this land? what meaneth the heat of this great anger?"
+bsb: "So all the nations will ask, ‘Why has the LORD done such a thing to this land? Why this great outburst of anger?’"
+hebrew: "וְאָֽמְרוּ֙ כָּל־ הַגּוֹיִ֔ם עַל־ מֶ֨ה עָשָׂ֧ה יְהוָ֛ה כָּ֖כָה לָאָ֣רֶץ הַזֹּ֑את מֶ֥ה חֳרִ֛י הָאַ֥ף הַגָּד֖וֹל הַזֶּֽה׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H5921A]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H3602]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H2750]]"
+- "[[H0639G]]"
+- "[[H1419A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:24**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even all nations shall say, Wherefore hath the LORD done thus unto this land? what [meaneth] the heat of this great anger?
 <small><sub>**BSB:**</sub></small>
 So all the nations will ask, ‘Why has the LORD done such a thing to this land? Why this great outburst of anger?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָֽמְרוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H4100\|מֶ֨ה]] [[H6213A\|עָשָׂ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H3602\|כָּ֖כָה]] [[H9005\|לָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H4100\|מֶ֥ה]] [[H2750\|חֳרִ֛י]] [[H9009\|הָ]][[H0639G\|אַ֥ף]] [[H9009\|הַ]][[H1419A\|גָּד֖וֹל]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.23|<< Deuteronomy 29:23]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.25|Deuteronomy 29:25 >>]]</td></tr></table>
 

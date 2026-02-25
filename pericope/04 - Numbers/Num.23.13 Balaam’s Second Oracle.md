@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Balaam’s Second Oracle
+type: Pericope
 pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 23
 book/chapter: "[[Num.23|Numbers 23]]"
-genre:
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 18
 verses:
 - "[[Num.23.13]]"
 - "[[Num.23.14]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Num.23.30]]"
 ---
 
-[[Num.23|Numbers 23:13 - Numbers 23:30]]
+<small>[[Num.23|Numbers 23:13-30]]</small>
 *Balaam’s Second Oracle*
 
 [[Num.23.13|13]] And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.

@@ -1,8 +1,75 @@
+---
+title: Genesis 39:12
+type: Verse
+kjv: "And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out."
+bsb: "She grabbed Joseph by his cloak and said, “Sleep with me!” But leaving his cloak in her hand, he escaped and ran outside."
+hebrew: "וַתִּתְפְּשֵׂ֧הוּ בְּבִגְד֛וֹ לֵאמֹ֖ר שִׁכְבָ֣ה עִמִּ֑י וַיַּעֲזֹ֤ב בִּגְדוֹ֙ בְּיָדָ֔הּ וַיָּ֖נָס וַיֵּצֵ֥א הַחֽוּצָה׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8610]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7901I]]"
+- "[[H9012]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H5800A]]"
+- "[[H3027H]]"
+- "[[H9024]]"
+- "[[H5127]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:12**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she caught him by his garment, saying, Lie with me: and he left his garment in her hand, and fled, and got him out.
 <small><sub>**BSB:**</sub></small>
 She grabbed Joseph by his cloak and said, “Sleep with me!” But leaving his cloak in her hand, he escaped and ran outside.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8610\|תִּתְפְּשֵׂ֧]][[H9033\|הוּ]] [[H9003\|בְּ]][[H0899B\|בִגְד֛]][[H9023\|וֹ]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H7901I\|שִׁכְבָ֣]][[H9012\|ה]] [[H5973A\|עִמִּ֑]][[H9030\|י]] [[H9001\|וַ]][[H5800A\|יַּעֲזֹ֤ב]] [[H0899B\|בִּגְד]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H3027H\|יָדָ֔]][[H9024\|הּ]] [[H9001\|וַ]][[H5127\|יָּ֖נָס]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֥א]] [[H9009\|הַ]][[H2351\|חֽוּצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic ADULTERY|ADULTERY]] • [[topic CHARACTER|CHARACTER]] • [[topic CHASTITY|CHASTITY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONTINENCE|CONTINENCE]] • [[topic DECISION|DECISION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JOSEPH|JOSEPH]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.11|<< Genesis 39:11]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.13|Genesis 39:13 >>]]</td></tr></table>
 

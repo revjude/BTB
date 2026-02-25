@@ -1,10 +1,59 @@
+---
+title: Ephesians 2:18
+type: Verse
+kjv: "For through him we both have access by one Spirit unto the Father."
+bsb: "For through Him we both have access to the Father by one Spirit."
+greek: "ὅτι δι᾽ αὐτοῦ ἔχομεν τὴν προσαγωγὴν οἱ ἀμφότεροι ἐν ἑνὶ πνεύματι πρὸς τὸν πατέρα.¶"
+pericope: "[[Eph.2.11 One in Christ|One in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G4318]]"
+- "[[G0297]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G4151G]]"
+- "[[G4314]]"
+- "[[G3962]]"
+texts:
+- NKO
+---
+
 **Ephesians 2:18**<big><big>[[Eph.2.11 One in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For through him we both have access by one Spirit unto the Father.
 <small><sub>**BSB:**</sub></small>
 For through Him we both have access to the Father by one Spirit.
-<small><sub>**Literal:**</sub></small>
-For through Him we have the access <the> both by one Spirit to the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.17|<< Ephesians 2:17]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.19|Ephesians 2:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1223\|δι᾽]]  [[G0846\|αὐτοῦ]]  [[G2192\|ἔχομεν]]  [[G3588\|τὴν]]  [[G4318\|προσαγωγὴν]]  [[G3588\|οἱ]]  [[G0297\|ἀμφότεροι]]  [[G1722\|ἐν]]  [[G1520\|ἑνὶ]]  [[G4151G\|πνεύματι]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic RECONCILIATION|RECONCILIATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.17|<< Ephesians 2:17]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.19|Ephesians 2:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

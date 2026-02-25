@@ -1,8 +1,55 @@
+---
+title: Proverbs 16:19
+type: Verse
+kjv: "Better it is to be of an humble spirit with the lowly, than to divide the spoil with the proud."
+bsb: "It is better to be lowly in spirit among the humble than to divide the spoil with the proud."
+hebrew: "ט֣וֹב שְׁפַל־ ר֭וּחַ אֶת־ עֲנָוִ֑ים מֵֽחַלֵּ֥ק שָׁ֝לָ֗ל אֶת־ גֵּאִֽים׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H2896A]]"
+- "[[H8213]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H0854]]"
+- "[[H6041]]"
+- "[[H6035]]"
+- "[[H9006]]"
+- "[[H2505A]]"
+- "[[H7998]]"
+- "[[H1343]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Proverbs 16:19**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Better [it is to be] of an humble spirit with the lowly, than to divide the spoil with the proud.
 <small><sub>**BSB:**</sub></small>
 It is better to be lowly in spirit among the humble than to divide the spoil with the proud.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֣וֹב]] [[H8213\|שְׁפַל]][[H9014\|־]] [[H7307G\|ר֭וּחַ]] [[H0854\|אֶת]][[H9014\|־]] [[H6035\|עֲנָוִ֑ים]] [[H9006\|מֵֽ]][[H2505A\|חַלֵּ֥ק]] [[H7998\|שָׁ֝לָ֗ל]] [[H0854\|אֶת]][[H9014\|־]] [[H1343\|גֵּאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic HUMILITY|HUMILITY]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.18|<< Proverbs 16:18]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.20|Proverbs 16:20 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: 2 Kings 14:1
+type: Verse
+kjv: "In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah."
+bsb: "In the second year of the reign of Jehoash son of Jehoahaz over Israel, Amaziah son of Joash became king of Judah."
+hebrew: "בִּשְׁנַ֣ת שְׁתַּ֔יִם לְיוֹאָ֥שׁ בֶּן־ יוֹאָחָ֖ז מֶ֣לֶךְ יִשְׂרָאֵ֑ל מָלַ֛ךְ אֲמַצְיָ֥הוּ בֶן־ יוֹאָ֖שׁ מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[2Kgs.14.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H8147]]"
+- "[[H9005]]"
+- "[[H3101J]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3099H]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H4427A]]"
+- "[[H0558G]]"
+- "[[H3101I]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 14:1**<big><big>[[2Kgs.14.1 Amaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.
 <small><sub>**BSB:**</sub></small>
 In the second year of the reign of Jehoash son of Jehoahaz over Israel, Amaziah son of Joash became king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֣ת]] [[H8147\|שְׁתַּ֔יִם]] [[H9005\|לְ]][[H3101J\|יוֹאָ֥שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3099H\|יוֹאָחָ֖ז]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H4427A\|מָלַ֛ךְ]] [[H0558G\|אֲמַצְיָ֥הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3101I\|יוֹאָ֖שׁ]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.13.25|<< 2 Kings 13:25]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.2|2 Kings 14:2 >>]]</td></tr></table>
 

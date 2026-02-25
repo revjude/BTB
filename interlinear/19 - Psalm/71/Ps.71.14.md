@@ -1,8 +1,57 @@
+---
+title: Psalm 71:14
+type: Verse
+kjv: "But I will hope continually, and will yet praise thee more and more."
+bsb: "But I will always hope and will praise You more and more."
+hebrew: "וַ֭אֲנִי תָּמִ֣יד אֲיַחֵ֑ל וְ֝הוֹסַפְתִּ֗י עַל־ כָּל־ תְּהִלָּתֶֽךָ׃"
+pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 71
+book/chapter: "[[Ps.71|Psalm 71]]"
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H8548]]"
+- "[[H3176H]]"
+- "[[H9001]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H8416]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 71:14**<big><big>[[Ps.71.1 Be My Rock of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will hope continually, and will yet praise thee more and more.
 <small><sub>**BSB:**</sub></small>
 But I will always hope and will praise You more and more.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ֭]][[H0589\|אֲנִי]] [[H8548\|תָּמִ֣יד]] [[H3176H\|אֲיַחֵ֑ל]] [[H9001\|וְ֝]][[H3254H\|הוֹסַפְתִּ֗י]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H8416\|תְּהִלָּתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HOPE|HOPE]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.71.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.71.13|<< Psalms 71:13]]</td><td align="center" style="border:none;">[[Ps.71|Psalms 71]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.71.15|Psalms 71:15 >>]]</td></tr></table>
 

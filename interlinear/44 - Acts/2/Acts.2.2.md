@@ -1,10 +1,69 @@
+---
+title: Acts 2:2
+type: Verse
+kjv: "And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting."
+bsb: "Suddenly a sound like a mighty rushing wind came from heaven and filled the whole house where they were sitting."
+greek: "καὶ ἐγένετο ἄφνω ἐκ τοῦ οὐρανοῦ ἦχος ὥσπερ φερομένης πνοῆς βιαίας καὶ ἐπλήρωσεν ὅλον τὸν οἶκον οὗ ἦσαν καθήμενοι"
+pericope: "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G0869]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2279]]"
+- "[[G5618]]"
+- "[[G5342]]"
+- "[[G4157]]"
+- "[[G0972]]"
+- "[[G4137]]"
+- "[[G3650]]"
+- "[[G3624G]]"
+- "[[G3757]]"
+- "[[G1510]]"
+- "[[G2521]]"
+texts:
+- NKO
+---
+
 **Acts 2:2**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.
 <small><sub>**BSB:**</sub></small>
 Suddenly a sound like a mighty rushing wind came from heaven and filled the whole house where they were sitting.
-<small><sub>**Literal:**</sub></small>
-And came suddenly out of <the> heaven a sound like [the] rushing of a wind violent and it filled all the house where they were sitting<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.1|<< Acts 2:1]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.3|Acts 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G0869\|ἄφνω]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2279\|ἦχος]]  [[G5618\|ὥσπερ]]  [[G5342\|φερομένης]]  [[G4157\|πνοῆς]]  [[G0972\|βιαίας]]  [[G2532\|καὶ]]  [[G4137\|ἐπλήρωσεν]]  [[G3650\|ὅλον]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3757\|οὗ]]  [[G1510\|ἦσαν]]  [[G2521\|καθήμενοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic FEASTS|FEASTS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic ORATOR|ORATOR]] • [[topic POWER|POWER]] • [[topic PROPHETS|PROPHETS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TONGUE|TONGUE]] • [[topic VISION|VISION]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.1|<< Acts 2:1]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.3|Acts 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Exodus 16:28
+type: Verse
+kjv: "And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws?"
+bsb: "Then the LORD said to Moses, “How long will you refuse to keep My commandments and instructions?"
+hebrew: "וַיֹּ֥אמֶר יְהוָ֖ה אֶל־ מֹשֶׁ֑ה עַד־ אָ֙נָה֙ מֵֽאַנְתֶּ֔ם לִשְׁמֹ֥ר מִצְוֹתַ֖י וְתוֹרֹתָֽי׃"
+pericope: "[[Exod.16.22 The Sabbath Observed|The Sabbath Observed]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H5704]]"
+- "[[H0575]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H8104G]]"
+- "[[H4687]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:28**<big><big>[[Exod.16.22 The Sabbath Observed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws?
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “How long will you refuse to keep My commandments and instructions?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֑ה]] [[H5704\|עַד]][[H9014\|־]] [[H0575\|אָ֙נָה֙]] [[H3985\|מֵֽאַנְתֶּ֔ם]] [[H9005\|לִ]][[H8104G\|שְׁמֹ֥ר]] [[H4687\|מִצְוֹתַ֖]][[H9020\|י]] [[H9002\|וְ]][[H8451\|תוֹרֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.27|<< Exodus 16:27]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.29|Exodus 16:29 >>]]</td></tr></table>
 

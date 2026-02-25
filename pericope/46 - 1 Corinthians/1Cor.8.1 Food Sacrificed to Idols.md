@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Food Sacrificed to Idols
+type: Pericope
 pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 8
 book/chapter: "[[1Cor.8|1 Corinthians 8]]"
-genre:
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 13
 verses:
 - "[[1Cor.8.1]]"
 - "[[1Cor.8.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Cor.8.13]]"
 ---
 
-[[1Cor.8|1 Corinthians 8:1 - 1 Corinthians 8:13]]
+<small>[[1Cor.8|1 Corinthians 8:1-13]]</small>
 *Food Sacrificed to Idols*
 
 [[1Cor.8.1|1]] Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.

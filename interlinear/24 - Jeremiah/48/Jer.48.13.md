@@ -1,8 +1,59 @@
+---
+title: Jeremiah 48:13
+type: Verse
+kjv: "And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Bethel their confidence."
+bsb: "Then Moab will be ashamed of Chemosh, just as the house of Israel was ashamed when they trusted in Bethel."
+hebrew: "וּבֹ֥שׁ מוֹאָ֖ב מִכְּמ֑וֹשׁ כַּאֲשֶׁר־ בֹּ֙שׁוּ֙ בֵּ֣ית יִשְׂרָאֵ֔ל מִבֵּ֥ית אֵ֖ל מִבְטֶחָֽם׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic CHEMOSH|CHEMOSH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0954]]"
+- "[[H4124G]]"
+- "[[H9006]]"
+- "[[H3645]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H1008G]]"
+- "[[H4009]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:13**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Bethel their confidence.
 <small><sub>**BSB:**</sub></small>
 Then Moab will be ashamed of Chemosh, just as the house of Israel was ashamed when they trusted in Bethel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0954\|בֹ֥שׁ]] [[H4124G\|מוֹאָ֖ב]] [[H9006\|מִ]][[H3645\|כְּמ֑וֹשׁ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H0954\|בֹּ֙שׁוּ֙]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H1008G\|בֵּ֥ית]] [[H1008G\|אֵ֖ל]] [[H4009\|מִבְטֶחָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic CALF|CALF]] • [[topic CHEMOSH|CHEMOSH]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.12|<< Jeremiah 48:12]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.14|Jeremiah 48:14 >>]]</td></tr></table>
 

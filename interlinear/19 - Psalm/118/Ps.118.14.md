@@ -1,8 +1,56 @@
+---
+title: Psalm 118:14
+type: Verse
+kjv: "The LORD is my strength and song, and is become my salvation."
+bsb: "The LORD is my strength and my song, and He has become my salvation."
+hebrew: "עָזִּ֣י וְזִמְרָ֣ת יָ֑הּ וַֽיְהִי־ לִ֝֗י לִֽישׁוּעָֽה׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H5797]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2176]]"
+- "[[H3050]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3444]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:14**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] my strength and song, and is become my salvation.
 <small><sub>**BSB:**</sub></small>
 The LORD is my strength and my song, and He has become my salvation.
+<small><sub>**Hebrew:**</sub></small>
+[[H5797\|עָזִּ֣]][[H9020\|י]] [[H9002\|וְ]][[H2176\|זִמְרָ֣ת]] [[H3050\|יָ֑הּ]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|לִ֝֗]][[H9030\|י]] [[H9005\|לִֽ]][[H3444\|ישׁוּעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.13|<< Psalms 118:13]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.15|Psalms 118:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

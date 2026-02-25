@@ -1,8 +1,64 @@
+---
+title: Proverbs 5:19
+type: Verse
+kjv: "Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love."
+bsb: "A loving doe, a graceful fawn—may her breasts satisfy you always; may you be captivated by her love forever."
+hebrew: "אַיֶּ֥לֶת אֲהָבִ֗ים וְֽיַעֲלַ֫ת־ חֵ֥ן דַּ֭דֶּיהָ יְרַוֻּ֣ךָ בְכָל־ עֵ֑ת בְּ֝אַהֲבָתָ֗הּ תִּשְׁגֶּ֥ה תָמִֽיד׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic DEER|DEER]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0355]]"
+- "[[H0158]]"
+- "[[H9002]]"
+- "[[H3280]]"
+- "[[H9014]]"
+- "[[H2580]]"
+- "[[H1717]]"
+- "[[H9024]]"
+- "[[H7301]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H6256]]"
+- "[[H0160]]"
+- "[[H7686]]"
+- "[[H8548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:19**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Let her be as] the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.
 <small><sub>**BSB:**</sub></small>
 A loving doe, a graceful fawn—may her breasts satisfy you always; may you be captivated by her love forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H0355\|אַיֶּ֥לֶת]] [[H0158\|אֲהָבִ֗ים]] [[H9002\|וְֽ]][[H3280\|יַעֲלַ֫ת]][[H9014\|־]] [[H2580\|חֵ֥ן]] [[H1717\|דַּ֭דֶּי]][[H9024\|הָ]] [[H7301\|יְרַוֻּ֣]][[H9031\|ךָ]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H6256\|עֵ֑ת]] [[H9003\|בְּ֝]][[H0160\|אַהֲבָתָ֗]][[H9024\|הּ]] [[H7686\|תִּשְׁגֶּ֥ה]] [[H8548\|תָמִֽיד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHASTITY|CHASTITY]] • [[topic DEER|DEER]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HUSBAND|HUSBAND]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.18|<< Proverbs 5:18]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.20|Proverbs 5:20 >>]]</td></tr></table>
 

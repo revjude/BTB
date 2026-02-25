@@ -1,8 +1,65 @@
+---
+title: 1 Kings 15:12
+type: Verse
+kjv: "And he took away the sodomites out of the land, and removed all the idols that his fathers had made."
+bsb: "He banished the male shrine prostitutes from the land and removed all the idols that his fathers had made."
+hebrew: "וַיַּעֲבֵ֥ר הַקְּדֵשִׁ֖ים מִן־ הָאָ֑רֶץ וַיָּ֙סַר֙ אֶת־ כָּל־ הַגִּלֻּלִ֔ים אֲשֶׁ֥ר עָשׂ֖וּ אֲבֹתָֽיו׃"
+pericope: "[[1Kgs.15.9 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 15
+book/chapter: "[[1Kgs.15|1 Kings 15]]"
+chronological_order: 554
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ASA|ASA]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MAACHAH|MAACHAH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SODOMITES|SODOMITES]]"
+- "[[topic SODOMY|SODOMY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H6945]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H1544]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 15:12**<big><big>[[1Kgs.15.9 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took away the sodomites out of the land, and removed all the idols that his fathers had made.
 <small><sub>**BSB:**</sub></small>
 He banished the male shrine prostitutes from the land and removed all the idols that his fathers had made.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעֲבֵ֥ר]] [[H9009\|הַ]][[H6945\|קְּדֵשִׁ֖ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וַ]][[H5493G\|יָּ֙סַר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1544\|גִּלֻּלִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עָשׂ֖וּ]] [[H0001G\|אֲבֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASA|ASA]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MAACHAH|MAACHAH]] • [[topic RULERS|RULERS]] • [[topic SODOMITES|SODOMITES]] • [[topic SODOMY|SODOMY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.15.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.15.11|<< 1 Kings 15:11]]</td><td align="center" style="border:none;">[[1Kgs.15|1 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.15.13|1 Kings 15:13 >>]]</td></tr></table>
 

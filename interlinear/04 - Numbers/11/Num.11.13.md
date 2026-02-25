@@ -1,8 +1,68 @@
+---
+title: Numbers 11:13
+type: Verse
+kjv: "Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat."
+bsb: "Where can I get meat for all these people? For they keep crying out to me, ‘Give us meat to eat!’"
+hebrew: "מֵאַ֤יִן לִי֙ בָּשָׂ֔ר לָתֵ֖ת לְכָל־ הָעָ֣ם הַזֶּ֑ה כִּֽי־ יִבְכּ֤וּ עָלַי֙ לֵאמֹ֔ר תְּנָה־ לָּ֥נוּ בָשָׂ֖ר וְנֹאכֵֽלָה׃"
+pericope: "[[Num.11.10 The Complaint of Moses|The Complaint of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9006]]"
+- "[[H0370]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1320]]"
+- "[[H5414G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H1058]]"
+- "[[H5921A]]"
+- "[[H0559]]"
+- "[[H9012]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:13**<big><big>[[Num.11.10 The Complaint of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
 <small><sub>**BSB:**</sub></small>
 Where can I get meat for all these people? For they keep crying out to me, ‘Give us meat to eat!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ]][[H0370\|אַ֤יִן]] [[H9005\|לִ]][[H9030\|י֙]] [[H1320\|בָּשָׂ֔ר]] [[H9005\|לָ]][[H5414G\|תֵ֖ת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1058\|יִבְכּ֤וּ]] [[H5921A\|עָלַ]][[H9030\|י֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5414G\|תְּנָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לָּ֥]][[H9035\|נוּ]] [[H1320\|בָשָׂ֖ר]] [[H9002\|וְ]][[H0398\|נֹאכֵֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic PRAYER|PRAYER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.12|<< Numbers 11:12]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.14|Numbers 11:14 >>]]</td></tr></table>
 

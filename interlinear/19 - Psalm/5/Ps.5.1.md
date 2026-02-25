@@ -1,8 +1,55 @@
+---
+title: Psalm 5:1
+type: Verse
+kjv: "Give ear to my words, O LORD, consider my meditation."
+bsb: "For the choirmaster, to be accompanied by flutes. A Psalm of David. Give ear to my words, O LORD; consider my groaning."
+hebrew: "אֲמָרַ֖י הַאֲזִ֥ינָה׀ יְהוָ֗ה בִּ֣ינָה הֲגִֽיגִי׃"
+pericope: "[[Ps.5.1 Give Ear to My Words|Give Ear to My Words]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 5
+book/chapter: "[[Ps.5|Psalm 5]]"
+chronological_order: 340
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+strongs:
+- "[[H0561]]"
+- "[[H9020]]"
+- "[[H0238]]"
+- "[[H9012]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0995]]"
+- "[[H1901]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 5:1**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give ear to my words, O LORD, consider my meditation.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster, to be accompanied by flutes. A Psalm of David. Give ear to my words, O LORD; consider my groaning.
+<small><sub>**Hebrew:**</sub></small>
+[[H0561\|אֲמָרַ֖]][[H9020\|י]] [[H0238\|הַאֲזִ֥ינָ]][[H9012\|ה]][[H9015\|׀]] [[H3068G\|יְהוָ֗ה]] [[H0995\|בִּ֣ינָ]][[H9012\|ה]] [[H1901\|הֲגִֽיגִ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic MUSIC|MUSIC]] • [[topic PRAYER|PRAYER]] • [[topic PRAYERFULNESS|PRAYERFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.5.0|<< Psalms 5:0]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.2|Psalms 5:2 >>]]</td></tr></table>
 

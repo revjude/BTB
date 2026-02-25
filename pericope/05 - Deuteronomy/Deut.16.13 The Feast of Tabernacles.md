@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Tabernacles
+type: Pericope
 pericope: "[[Deut.16.13 The Feast of Tabernacles|The Feast of Tabernacles]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 16
 book/chapter: "[[Deut.16|Deuteronomy 16]]"
-genre:
+chronological_order: 212
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 5
 verses:
 - "[[Deut.16.13]]"
 - "[[Deut.16.14]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Deut.16.17]]"
 ---
 
-[[Deut.16|Deuteronomy 16:13 - Deuteronomy 16:17]]
+<small>[[Deut.16|Deuteronomy 16:13-17]]</small>
 *The Feast of Tabernacles*
 
 [[Deut.16.13|13]] Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine:

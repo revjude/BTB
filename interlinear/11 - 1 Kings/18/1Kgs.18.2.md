@@ -1,8 +1,58 @@
+---
+title: 1 Kings 18:2
+type: Verse
+kjv: "And Elijah went to shew himself unto Ahab. And there was a sore famine in Samaria."
+bsb: "So Elijah went to present himself to Ahab. The famine was severe in Samaria,"
+hebrew: "וַיֵּ֙לֶךְ֙ אֵֽלִיָּ֔הוּ לְהֵרָא֖וֹת אֶל־ אַחְאָ֑ב וְהָרָעָ֖ב חָזָ֥ק בְּשֹׁמְרֽוֹן׃"
+pericope: "[[1Kgs.18.1 Elijah’s Message to Ahab|Elijah’s Message to Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0452G]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0256G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7458]]"
+- "[[H2389]]"
+- "[[H9003]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:2**<big><big>[[1Kgs.18.1 Elijah’s Message to Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elijah went to shew himself unto Ahab. And [there was] a sore famine in Samaria.
 <small><sub>**BSB:**</sub></small>
 So Elijah went to present himself to Ahab. The famine was severe in Samaria,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֙לֶךְ֙]] [[H0452G\|אֵֽלִיָּ֔הוּ]] [[H9005\|לְ]][[H7200G\|הֵרָא֖וֹת]] [[H0413\|אֶל]][[H9014\|־]] [[H0256G\|אַחְאָ֑ב]] [[H9002\|וְ]][[H9009\|הָ]][[H7458\|רָעָ֖ב]] [[H2389\|חָזָ֥ק]] [[H9003\|בְּ]][[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.1|<< 1 Kings 18:1]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.3|1 Kings 18:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

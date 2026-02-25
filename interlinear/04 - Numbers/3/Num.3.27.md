@@ -1,8 +1,61 @@
+---
+title: Numbers 3:27
+type: Verse
+kjv: "And of Kohath was the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites."
+bsb: "From Kohath came the clans of the Amramites, the Izharites, the Hebronites, and the Uzzielites; these were the clans of the Kohathites."
+hebrew: "וְלִקְהָ֗ת מִשְׁפַּ֤חַת הַֽעַמְרָמִי֙ וּמִשְׁפַּ֣חַת הַיִּצְהָרִ֔י וּמִשְׁפַּ֙חַת֙ הַֽחֶבְרֹנִ֔י וּמִשְׁפַּ֖חַת הָֽעָזִּיאֵלִ֑י אֵ֥לֶּה הֵ֖ם מִשְׁפְּחֹ֥ת הַקְּהָתִֽי׃"
+pericope: "[[Num.3.27 The Kohathites|The Kohathites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic AMRAM|AMRAM]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic KOHATH|KOHATH]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6955]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H6020]]"
+- "[[H3325]]"
+- "[[H2276]]"
+- "[[H5817]]"
+- "[[H0428]]"
+- "[[H1992]]"
+- "[[H6956]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:27**<big><big>[[Num.3.27 The Kohathites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Kohath [was] the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these [are] the families of the Kohathites.
 <small><sub>**BSB:**</sub></small>
 From Kohath came the clans of the Amramites, the Izharites, the Hebronites, and the Uzzielites; these were the clans of the Kohathites.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H6955\|קְהָ֗ת]] [[H4940\|מִשְׁפַּ֤חַת]] [[H9009\|הַֽ]][[H6020\|עַמְרָמִי֙]] [[H9002\|וּ]][[H4940\|מִשְׁפַּ֣חַת]] [[H9009\|הַ]][[H3325\|יִּצְהָרִ֔י]] [[H9002\|וּ]][[H4940\|מִשְׁפַּ֙חַת֙]] [[H9009\|הַֽ]][[H2276\|חֶבְרֹנִ֔י]] [[H9002\|וּ]][[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הָֽ]][[H5817\|עָזִּיאֵלִ֑י]] [[H0428\|אֵ֥לֶּה]] [[H1992\|הֵ֖ם]] [[H4940\|מִשְׁפְּחֹ֥ת]] [[H9009\|הַ]][[H6956\|קְּהָתִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic AMRAM|AMRAM]] • [[topic CENSUS|CENSUS]] • [[topic KOHATH|KOHATH]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.26|<< Numbers 3:26]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.28|Numbers 3:28 >>]]</td></tr></table>
 

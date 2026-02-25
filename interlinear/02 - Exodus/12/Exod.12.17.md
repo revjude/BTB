@@ -1,8 +1,74 @@
+---
+title: Exodus 12:17
+type: Verse
+kjv: "And ye shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever."
+bsb: "So you are to keep the Feast of Unleavened Bread, for on this very day I brought your divisions out of the land of Egypt. You must keep this day as a permanent statute for the generations to come."
+hebrew: "וּשְׁמַרְתֶּם֮ אֶת־ הַמַּצּוֹת֒ כִּ֗י בְּעֶ֙צֶם֙ הַיּ֣וֹם הַזֶּ֔ה הוֹצֵ֥אתִי אֶת־ צִבְאוֹתֵיכֶ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם וּשְׁמַרְתֶּ֞ם אֶת־ הַיּ֥וֹם הַזֶּ֛ה לְדֹרֹתֵיכֶ֖ם חֻקַּ֥ת עוֹלָֽם׃"
+pericope: "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4682]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H6106H]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H3318H]]"
+- "[[H6635A]]"
+- "[[H9026]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H2708]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:17**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall observe [the feast of] unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall ye observe this day in your generations by an ordinance for ever.
 <small><sub>**BSB:**</sub></small>
 So you are to keep the Feast of Unleavened Bread, for on this very day I brought your divisions out of the land of Egypt. You must keep this day as a permanent statute for the generations to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H8104G\|שְׁמַרְתֶּם֮]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4682\|מַּצּוֹת֒]] [[H3588A\|כִּ֗י]] [[H9003\|בְּ]][[H6106H\|עֶ֙צֶם֙]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3318H\|הוֹצֵ֥אתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H6635A\|צִבְאוֹתֵי]][[H9026\|כֶ֖ם]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וּ]][[H8104G\|שְׁמַרְתֶּ֞ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֛ה]] [[H9005\|לְ]][[H1755\|דֹרֹתֵי]][[H9026\|כֶ֖ם]] [[H2708\|חֻקַּ֥ת]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic PLAGUE|PLAGUE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.16|<< Exodus 12:16]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.18|Exodus 12:18 >>]]</td></tr></table>
 

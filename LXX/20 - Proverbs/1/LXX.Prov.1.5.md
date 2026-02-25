@@ -1,6 +1,50 @@
+---
+title: LXX Proverbs 1:5
+type: Verse
+lxx: "But of the ones for hearing, the wise will be wiser, and the intelligent shall acquire guidance."
+greek: "των δε γαρ ακούσας σοφός σοφώτερος έσται ο δε νοήμων κυβέρνησιν κτήσεται"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1063]]"
+- "[[G0191]]"
+- "[[G4680]]"
+- "[[G4680]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G8400]]"
+- "[[G2941]]"
+- "[[G2932]]"
+---
+
 **LXX Proverbs 1:5** 
 <small><sub>**LXX:**</sub></small>
 But of the ones for hearing, \[the\] wise will be wiser, and the intelligent shall acquire guidance. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|των]] [[G1161\|δε]] [[G1063\|γαρ]] [[G0191\|ακούσας]] [[G4680\|σοφός]] [[G4680\|σοφώτερος]] [[G1510\|έσται]] [[G3588\|ο]] [[G1161\|δε]] [[G8400\|νοήμων]] [[G2941\|κυβέρνησιν]] [[G2932\|κτήσεται]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.4|<< Proverbs 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.6|Proverbs 1:6 >>]]</td></tr></table>
 
@@ -15,6 +59,6 @@ But of the ones for hearing, \[the\] wise will be wiser, and the intelligent sha
 | intelligent | **<big>[[G8400\|νοήμων]]</big>** |
 | guidance | **<big>[[G2941\|κυβέρνησιν]]</big>** |
 | shall acquire | **<big>[[G2932\|κτήσεται]]</big>** |
-[[Prov.1.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.4|<< Proverbs 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.6|Proverbs 1:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.1.4|<< Proverbs 1:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.1.6|Proverbs 1:6 >>]]</td></tr></table>
 
 

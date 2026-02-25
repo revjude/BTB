@@ -1,8 +1,52 @@
+---
+title: Proverbs 24:8
+type: Verse
+kjv: "He that deviseth to do evil shall be called a mischievous person."
+bsb: "He who plots evil will be called a schemer."
+hebrew: "מְחַשֵּׁ֥ב לְהָרֵ֑עַ ל֝֗וֹ בַּֽעַל־ מְזִמּ֥וֹת יִקְרָֽאוּ׃"
+pericope: "[[Prov.24.8 Saying 24|Saying 24]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 24
+book/chapter: "[[Prov.24|Proverbs 24]]"
+chronological_order: 479
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H2803I]]"
+- "[[H9005]]"
+- "[[H7489A]]"
+- "[[H9033]]"
+- "[[H1167K]]"
+- "[[H9014]]"
+- "[[H4209]]"
+- "[[H7121G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 24:8**<big><big>[[Prov.24.8 Saying 24|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that deviseth to do evil shall be called a mischievous person.
 <small><sub>**BSB:**</sub></small>
-He who plots evil will be called a schemer.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.7|<< Proverbs 24:7]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.9|Proverbs 24:9 >>]]</td></tr></table>
+He who plots evil will be called a schemer.
+<small><sub>**Hebrew:**</sub></small>
+[[H2803I\|מְחַשֵּׁ֥ב]] [[H9005\|לְ]][[H7489A\|הָרֵ֑עַ]] [[H9005\|ל֝֗]][[H9033\|וֹ]] [[H1167K\|בַּֽעַל]][[H9014\|־]] [[H4209\|מְזִמּ֥וֹת]] [[H7121G\|יִקְרָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic MALICE|MALICE]] • [[topic SIN|SIN]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.24.7|<< Proverbs 24:7]]</td><td align="center" style="border:none;">[[Prov.24|Proverbs 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.24.9|Proverbs 24:9 >>]]</td></tr></table>
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

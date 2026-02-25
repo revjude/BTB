@@ -1,10 +1,62 @@
+---
+title: Luke 14:3
+type: Verse
+kjv: "And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day?"
+bsb: "So Jesus asked the experts in the law and the Pharisees, “Is it lawful to heal on the Sabbath or not?”"
+jesus_said: "Is it lawful to heal on the sabbath day?"
+greek: "Καὶ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν πρὸς τοὺς νομικοὺς καὶ Φαρισαίους λέγων· εἰ ἔξεστιν τῷ σαββάτῳ θεραπεῦσαι ἢ οὔ;"
+pericope: "[[Luke.14.1 Jesus Heals a Man with Dropsy|Jesus Heals a Man with Dropsy]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 14
+book/chapter: "[[Luke.14|Luke 14]]"
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G3544]]"
+- "[[G5330]]"
+- "[[G3004G]]"
+- "[[G1487I]]"
+- "[[G1832]]"
+- "[[G4521]]"
+- "[[G2323]]"
+- "[[G2228]]"
+- "[[G3756]]"
+texts:
+- NKO
+- k
+- N(k)O
+- NO
+---
+
 **Luke 14:3**<big><big>[[Luke.14.1 Jesus Heals a Man with Dropsy|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day?
 <small><sub>**BSB:**</sub></small>
 So Jesus asked the experts in the law and the Pharisees, “Is it lawful to heal on the Sabbath or not?”
-<small><sub>**Literal:**</sub></small>
-And answering <the> Jesus spoke to the lawyers and to [the] Pharisees saying; if Is it lawful on the Sabbath to heal or not?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.2|<< Luke 14:2]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.4|Luke 14:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3544\|νομικοὺς]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαίους]]  [[G3004G\|λέγων·]]  [[G1487I\|εἰ]]  [[G1832\|ἔξεστιν]]  [[G3588\|τῷ]]  [[G4521\|σαββάτῳ]]  [[G2323\|θεραπεῦσαι]]  [[G2228\|ἢ]]  [[G3756\|οὔ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.14.2|<< Luke 14:2]]</td><td align="center" style="border:none;">[[Luke.14|Luke 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.14.4|Luke 14:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

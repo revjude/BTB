@@ -1,8 +1,81 @@
+---
+title: 1 Kings 1:25
+type: Verse
+kjv: "For he is gone down this day, and hath slain oxen and fat cattle and sheep in abundance, and hath called all the king’s sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah."
+bsb: "For today he has gone down and sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the sons of the king, the commanders of the army, and Abiathar the priest. And behold, they are eating and drinking before him, saying, ‘Long live King Adonijah!’"
+hebrew: "כִּ֣י׀ יָרַ֣ד הַיּ֗וֹם וַ֠יִּזְבַּח שׁ֥וֹר וּֽמְרִיא־ וְצֹאן֮ לָרֹב֒ וַיִּקְרָא֩ לְכָל־ בְּנֵ֨י הַמֶּ֜לֶךְ וּלְשָׂרֵ֤י הַצָּבָא֙ וּלְאֶבְיָתָ֣ר הַכֹּהֵ֔ן וְהִנָּ֛ם אֹכְלִ֥ים וְשֹׁתִ֖ים לְפָנָ֑יו וַיֹּ֣אמְר֔וּ יְחִ֖י הַמֶּ֥לֶךְ אֲדֹנִיָּֽהוּ׃"
+pericope: "[[1Kgs.1.11 Nathan and Bathsheba before David|Nathan and Bathsheba before David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H7794]]"
+- "[[H9002]]"
+- "[[H4806]]"
+- "[[H9014]]"
+- "[[H6629G]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H7121G]]"
+- "[[H3605]]"
+- "[[H1121A]]"
+- "[[H4428G]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H0054]]"
+- "[[H3548]]"
+- "[[H2009]]"
+- "[[H9048]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H2421]]"
+- "[[H0138G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:25**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he is gone down this day, and hath slain oxen and fat cattle and sheep in abundance, and hath called all the king’s sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah.
 <small><sub>**BSB:**</sub></small>
 For today he has gone down and sacrificed an abundance of oxen, fattened calves, and sheep, and has invited all the sons of the king, the commanders of the army, and Abiathar the priest. And behold, they are eating and drinking before him, saying, ‘Long live King Adonijah!’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H3381\|יָרַ֣ד]] [[H9009\|הַ]][[H3117L\|יּ֗וֹם]] [[H9001\|וַ֠]][[H2076\|יִּזְבַּח]] [[H7794\|שׁ֥וֹר]] [[H9002\|וּֽ]][[H4806\|מְרִיא]][[H9014\|־]] [[H9002\|וְ]][[H6629G\|צֹאן֮]] [[H9005\|לָ]][[H7230\|רֹב֒]] [[H9001\|וַ]][[H7121G\|יִּקְרָא֩]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1121A\|בְּנֵ֨י]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9002\|וּ]][[H9005\|לְ]][[H8269\|שָׂרֵ֤י]] [[H9009\|הַ]][[H6635A\|צָּבָא֙]] [[H9002\|וּ]][[H9005\|לְ]][[H0054\|אֶבְיָתָ֣ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H2009\|הִנָּ֛]][[H9048\|ם]] [[H0398\|אֹכְלִ֥ים]] [[H9002\|וְ]][[H8354\|שֹׁתִ֖ים]] [[H9005\|לְ]][[H6440G\|פָנָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמְר֔וּ]] [[H2421\|יְחִ֖י]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H0138G\|אֲדֹנִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic FEASTS|FEASTS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEALOUSY|JEALOUSY]] • [[topic NATHAN|NATHAN]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.24|<< 1 Kings 1:24]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.26|1 Kings 1:26 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Joshua 4:11
+type: Verse
+kjv: "And it came to pass, when all the people were clean passed over, that the ark of the LORD passed over, and the priests, in the presence of the people."
+bsb: "and after everyone had finished crossing, the priests with the ark of the LORD crossed in the sight of the people."
+hebrew: "וַיְהִ֛י כַּֽאֲשֶׁר־ תַּ֥ם כָּל־ הָעָ֖ם לַֽעֲב֑וֹר וַיַּעֲבֹ֧ר אֲרוֹן־ יְהוָ֛ה וְהַכֹּהֲנִ֖ים לִפְנֵ֥י הָעָֽם׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H8552]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H5674A]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3548]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:11**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when all the people were clean passed over, that the ark of the LORD passed over, and the priests, in the presence of the people.
 <small><sub>**BSB:**</sub></small>
 and after everyone had finished crossing, the priests with the ark of the LORD crossed in the sight of the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר]][[H9014\|־]] [[H8552\|תַּ֥ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9005\|לַֽ]][[H5674A\|עֲב֑וֹר]] [[H9001\|וַ]][[H5674A\|יַּעֲבֹ֧ר]] [[H0727\|אֲרוֹן]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.10|<< Joshua 4:10]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.12|Joshua 4:12 >>]]</td></tr></table>
 

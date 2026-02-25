@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sons through Faith in Christ
+type: Pericope
 pericope: "[[Gal.3.26 Sons through Faith in Christ|Sons through Faith in Christ]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Galatians
 chapter: 3
 book/chapter: "[[Gal.3|Galatians 3]]"
-genre:
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
 - epistle
 - pauline epistle
 - polemical
+verse_count: 4
 verses:
 - "[[Gal.3.26]]"
 - "[[Gal.3.27]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Gal.3.29]]"
 ---
 
-[[Gal.3|Galatians 3:26 - Galatians 3:29]]
+<small>[[Gal.3|Galatians 3:26-29]]</small>
 *Sons through Faith in Christ*
 
 [[Gal.3.26|26]] For ye are all the children of God by faith in Christ Jesus.

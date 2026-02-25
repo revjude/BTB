@@ -1,10 +1,54 @@
+---
+title: Matthew 14:16
+type: Verse
+kjv: "But Jesus said unto them, They need not depart; give ye them to eat."
+bsb: "“They do not need to go away,” Jesus replied. “You give them something to eat.”"
+jesus_said: "They need not depart; give ye them to eat."
+greek: "Ὁ δὲ Ἰησοῦς εἶπεν αὐτοῖς· οὐ χρείαν ἔχουσιν ἀπελθεῖν· δότε αὐτοῖς ὑμεῖς φαγεῖν."
+pericope: "[[Matt.14.13 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G0565]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G5315]]"
+texts:
+- NKO
+---
+
 **Matthew 14:16**<big><big>[[Matt.14.13 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus said unto them, They need not depart; give ye them to eat.
 <small><sub>**BSB:**</sub></small>
 “They do not need to go away,” Jesus replied. “You give them something to eat.”
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said to them; No need they have to go away; do give to them you yourselves to eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.15|<< Matthew 14:15]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.17|Matthew 14:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3756\|οὐ]]  [[G5532\|χρείαν]]  [[G2192\|ἔχουσιν]]  [[G0565\|ἀπελθεῖν·]]  [[G1325\|δότε]]  [[G0846\|αὐτοῖς]]  [[G4771\|ὑμεῖς]]  [[G5315\|φαγεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.15|<< Matthew 14:15]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.17|Matthew 14:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

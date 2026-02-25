@@ -1,8 +1,60 @@
+---
+title: Ezekiel 1:11
+type: Verse
+kjv: "Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies."
+bsb: "Such were their faces. Their wings were spread upward; each had two wings touching the wings of the creature on either side, and two wings covering its body."
+hebrew: "וּפְנֵיהֶ֕ם וְכַנְפֵיהֶ֥ם פְּרֻד֖וֹת מִלְמָ֑עְלָה לְאִ֗ישׁ שְׁ֚תַּיִם חֹבְר֣וֹת אִ֔ישׁ וּשְׁתַּ֣יִם מְכַסּ֔וֹת אֵ֖ת גְּוִיֹתֵיהֶֽנָה׃"
+pericope: "[[Ezek.1.4 The Four Living Creatures|The Four Living Creatures]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+strongs:
+- "[[H9002]]"
+- "[[H6440H]]"
+- "[[H9028]]"
+- "[[H3671]]"
+- "[[H6504]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H0376I]]"
+- "[[H8147]]"
+- "[[H2266]]"
+- "[[H3680]]"
+- "[[H0853]]"
+- "[[H1472]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:11**<big><big>[[Ezek.1.4 The Four Living Creatures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus [were] their faces: and their wings [were] stretched upward; two [wings] of every one [were] joined one to another, and two covered their bodies.
 <small><sub>**BSB:**</sub></small>
 Such were their faces. Their wings were spread upward; each had two wings touching the wings of the creature on either side, and two wings covering its body.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6440H\|פְנֵי]][[H9028\|הֶ֕ם]] [[H9002\|וְ]][[H3671\|כַנְפֵי]][[H9028\|הֶ֥ם]] [[H6504\|פְּרֻד֖וֹת]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9005\|לְ]][[H0376I\|אִ֗ישׁ]] [[H8147\|שְׁ֚תַּיִם]] [[H2266\|חֹבְר֣וֹת]] [[H0376I\|אִ֔ישׁ]] [[H9002\|וּ]][[H8147\|שְׁתַּ֣יִם]] [[H3680\|מְכַסּ֔וֹת]] [[H0853\|אֵ֖ת]] [[H1472\|גְּוִיֹתֵי]][[H9029\|הֶֽנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.10|<< Ezekiel 1:10]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.12|Ezekiel 1:12 >>]]</td></tr></table>
 

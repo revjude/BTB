@@ -1,8 +1,70 @@
+---
+title: 2 Kings 15:20
+type: Verse
+kjv: "And Menahem exacted the money of Israel, even of all the mighty men of wealth, of each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and stayed not there in the land."
+bsb: "Menahem exacted this money from each of the wealthy men of Israel—fifty shekels of silver from each man—to give to the king of Assyria. So the king of Assyria withdrew and did not remain in the land."
+hebrew: "וַיֹּצֵא֩ מְנַחֵ֨ם אֶת־ הַכֶּ֜סֶף עַל־ יִשְׂרָאֵ֗ל עַ֚ל כָּל־ גִּבּוֹרֵ֣י הַחַ֔יִל לָתֵת֙ לְמֶ֣לֶךְ אַשּׁ֔וּר חֲמִשִּׁ֧ים שְׁקָלִ֛ים כֶּ֖סֶף לְאִ֣ישׁ אֶחָ֑ד וַיָּ֙שָׁב֙ מֶ֣לֶךְ אַשּׁ֔וּר וְלֹא־ עָ֥מַד שָׁ֖ם בָּאָֽרֶץ׃"
+pericope: "[[2Kgs.15.17 Menahem Reigns in Israel|Menahem Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MENAHEM|MENAHEM]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H4505]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H3605]]"
+- "[[H1368]]"
+- "[[H2428H]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H2572]]"
+- "[[H8255]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H7725G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5975G]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:20**<big><big>[[2Kgs.15.17 Menahem Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Menahem exacted the money of Israel, [even] of all the mighty men of wealth, of each man fifty shekels of silver, to give to the king of Assyria. So the king of Assyria turned back, and stayed not there in the land.
 <small><sub>**BSB:**</sub></small>
 Menahem exacted this money from each of the wealthy men of Israel—fifty shekels of silver from each man—to give to the king of Assyria. So the king of Assyria withdrew and did not remain in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יֹּצֵא֩]] [[H4505\|מְנַחֵ֨ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֜סֶף]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1368\|גִּבּוֹרֵ֣י]] [[H9009\|הַ]][[H2428H\|חַ֔יִל]] [[H9005\|לָ]][[H5414G\|תֵת֙]] [[H9005\|לְ]][[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֔וּר]] [[H2572\|חֲמִשִּׁ֧ים]] [[H8255\|שְׁקָלִ֛ים]] [[H3701G\|כֶּ֖סֶף]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H0259\|אֶחָ֑ד]] [[H9001\|וַ]][[H7725G\|יָּ֙שָׁב֙]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֔וּר]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5975G\|עָ֥מַד]] [[H8033G\|שָׁ֖ם]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MENAHEM|MENAHEM]] • [[topic MONEY|MONEY]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.19|<< 2 Kings 15:19]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.21|2 Kings 15:21 >>]]</td></tr></table>
 

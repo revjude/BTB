@@ -1,10 +1,60 @@
+---
+title: John 9:7
+type: Verse
+kjv: "And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing."
+bsb: "Then He told him, “Go, wash in the Pool of Siloam” (which means “Sent”). So the man went and washed, and came back seeing."
+jesus_said: "Go, wash in the pool of Siloam,"
+greek: "καὶ εἶπεν αὐτῷ· ὕπαγε νίψαι εἰς τὴν κολυμβήθραν τοῦ Σιλωάμ ὃ ἑρμηνεύεται ἀπεσταλμένος. ἀπῆλθεν οὖν καὶ ἐνίψατο καὶ ἦλθεν βλέπων.¶"
+pericope: "[[John.9.1 Jesus Heals the Man Born Blind|Jesus Heals the Man Born Blind]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic POOL|POOL]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SILOAM|SILOAM]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5217]]"
+- "[[G3538]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2861]]"
+- "[[G4611]]"
+- "[[G3739]]"
+- "[[G2059]]"
+- "[[G0649]]"
+- "[[G0565]]"
+- "[[G3767]]"
+- "[[G2064]]"
+- "[[G0991]]"
+texts:
+- NKO
+---
+
 **John 9:7**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.
 <small><sub>**BSB:**</sub></small>
 Then He told him, “Go, wash in the Pool of Siloam” (which means “Sent”). So the man went and washed, and came back seeing.
-<small><sub>**Literal:**</sub></small>
-And He said to him; do go do wash yourself in the pool <the> of Siloam which means Sent. He went therefore and washed and came [back] seeing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.6|<< John 9:6]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.8|John 9:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G5217\|ὕπαγε]]  [[G3538\|νίψαι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2861\|κολυμβήθραν]]  [[G3588\|τοῦ]]  [[G4611\|Σιλωάμ]]  [[G3739\|ὃ]]  [[G2059\|ἑρμηνεύεται]]  [[G0649\|ἀπεσταλμένος.]]  [[G0565\|ἀπῆλθεν]]  [[G3767\|οὖν]]  [[G2532\|καὶ]]  [[G3538\|ἐνίψατο]]  [[G2532\|καὶ]]  [[G2064\|ἦλθεν]]  [[G0991\|βλέπων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic POOL|POOL]] • [[topic SABBATH|SABBATH]] • [[topic SILOAM|SILOAM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.6|<< John 9:6]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.8|John 9:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

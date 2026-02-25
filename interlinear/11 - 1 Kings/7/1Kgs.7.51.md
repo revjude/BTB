@@ -1,8 +1,75 @@
+---
+title: 1 Kings 7:51
+type: Verse
+kjv: "So was ended all the work that king Solomon made for the house of the LORD. And Solomon brought in the things which David his father had dedicated; even the silver, and the gold, and the vessels, did he put among the treasures of the house of the LORD."
+bsb: "So all the work that King Solomon had performed for the house of the LORD was completed. Then Solomon brought in the items his father David had dedicated—the silver, the gold, and the furnishings—and he placed them in the treasuries of the house of the LORD."
+hebrew: "וַתִּשְׁלַם֙ כָּל־ הַמְּלָאכָ֔ה אֲשֶׁ֥ר עָשָׂ֛ה הַמֶּ֥לֶךְ שְׁלֹמֹ֖ה בֵּ֣ית יְהוָ֑ה וַיָּבֵ֨א שְׁלֹמֹ֜ה אֶת־ קָדְשֵׁ֣י׀ דָּוִ֣ד אָבִ֗יו אֶת־ הַכֶּ֤סֶף וְאֶת־ הַזָּהָב֙ וְאֶת־ הַכֵּלִ֔ים נָתַ֕ן בְּאֹצְר֖וֹת בֵּ֥ית יְהוָֽה׃ פ"
+pericope: "[[1Kgs.7.48 Completion of the Gold Furnishings|Completion of the Gold Furnishings]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7999A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4399]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H6944G]]"
+- "[[H9015]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H3627]]"
+- "[[H5414H]]"
+- "[[H9003]]"
+- "[[H0214]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 7:51**<big><big>[[1Kgs.7.48 Completion of the Gold Furnishings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So was ended all the work that king Solomon made for the house of the LORD. And Solomon brought in the things which David his father had dedicated; [even] the silver, and the gold, and the vessels, did he put among the treasures of the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 So all the work that King Solomon had performed for the house of the LORD was completed. Then Solomon brought in the items his father David had dedicated—the silver, the gold, and the furnishings—and he placed them in the treasuries of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7999A\|תִּשְׁלַם֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֛ה]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H8010\|שְׁלֹמֹ֖ה]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H0935P\|יָּבֵ֨א]] [[H8010\|שְׁלֹמֹ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6944G\|קָדְשֵׁ֣י]][[H9015\|׀]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֗י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֤סֶף]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2091\|זָּהָב֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֔ים]] [[H5414H\|נָתַ֕ן]] [[H9003\|בְּ]][[H0214\|אֹצְר֖וֹת]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic CARVING|CARVING]] • [[topic GOLD|GOLD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.50|<< 1 Kings 7:50]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.1|1 Kings 8:1 >>]]</td></tr></table>
 
@@ -32,7 +99,7 @@ So all the work that King Solomon had performed for the house of the LORD was co
 | he put [them]  |**<big>&#8207;[[H5414H\|נָתַ֕ן]]&#8207; </big>**| na.Tan<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] treasuries of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0214\|אֹצְר֖וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'o.tze.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004Q\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.50|<< 1 Kings 7:50]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.1|1 Kings 8:1 >>]]</td></tr></table>
 
 

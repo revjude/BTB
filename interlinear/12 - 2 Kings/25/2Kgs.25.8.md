@@ -1,8 +1,67 @@
+---
+title: 2 Kings 25:8
+type: Verse
+kjv: "And in the fifth month, on the seventh day of the month, which is the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzaradan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:"
+bsb: "On the seventh day of the fifth month, in the nineteenth year of Nebuchadnezzar’s reign over Babylon, Nebuzaradan captain of the guard, a servant of the king of Babylon, entered Jerusalem."
+hebrew: "וּבַחֹ֤דֶשׁ הַֽחֲמִישִׁי֙ בְּשִׁבְעָ֣ה לַחֹ֔דֶשׁ הִ֗יא שְׁנַת֙ תְּשַֽׁע־ עֶשְׂרֵ֣ה שָׁנָ֔ה לַמֶּ֖לֶךְ נְבֻכַדְנֶאצַּ֣ר מֶֽלֶךְ־ בָּבֶ֑ל בָּ֞א נְבוּזַרְאֲדָ֧ן רַב־ טַבָּחִ֛ים עֶ֥בֶד מֶֽלֶךְ־ בָּבֶ֖ל יְרוּשָׁלִָֽם׃"
+pericope: "[[2Kgs.25.8 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H7651]]"
+- "[[H9005]]"
+- "[[H1931]]"
+- "[[H8141]]"
+- "[[H8672]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H4428G]]"
+- "[[H5019]]"
+- "[[H0894]]"
+- "[[H0935G]]"
+- "[[H5018]]"
+- "[[H7227B]]"
+- "[[H2876]]"
+- "[[H5650]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:8**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the fifth month, on the seventh [day] of the month, which [is] the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzaradan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:
 <small><sub>**BSB:**</sub></small>
 On the seventh day of the fifth month, in the nineteenth year of Nebuchadnezzar’s reign over Babylon, Nebuzaradan captain of the guard, a servant of the king of Babylon, entered Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2320G\|חֹ֤דֶשׁ]] [[H9009\|הַֽ]][[H2549\|חֲמִישִׁי֙]] [[H9003\|בְּ]][[H7651\|שִׁבְעָ֣ה]] [[H9005\|לַ]][[H2320G\|חֹ֔דֶשׁ]] [[H1931\|הִ֗יא]] [[H8141\|שְׁנַת֙]] [[H8672\|תְּשַֽׁע]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H4428G\|מֶּ֖לֶךְ]] [[H5019\|נְבֻכַדְנֶאצַּ֣ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֑ל]] [[H0935G\|בָּ֞א]] [[H5018\|נְבוּזַרְאֲדָ֧ן]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִ֛ים]] [[H5650\|עֶ֥בֶד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTAIN|CAPTAIN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PROPHECY|PROPHECY]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.7|<< 2 Kings 25:7]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.9|2 Kings 25:9 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Ezra 4:24
+type: Verse
+kjv: "Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia."
+bsb: "Thus the construction of the house of God in Jerusalem ceased, and it remained at a standstill until the second year of the reign of Darius king of Persia."
+aramaic: "בֵּאדַ֗יִן בְּטֵלַת֙ עֲבִידַ֣ת בֵּית־ אֱלָהָ֔א דִּ֖י בִּירוּשְׁלֶ֑ם וַהֲוָת֙ בָּֽטְלָ֔א עַ֚ד שְׁנַ֣ת תַּרְתֵּ֔ין לְמַלְכ֖וּת דָּרְיָ֥וֶשׁ מֶֽלֶךְ־ פָּרָֽס׃ פ"
+pericope: "[[Ezra.4.17 The Decree of Artaxerxes|The Decree of Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic BISHLAM|BISHLAM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9003]]"
+- "[[H0116]]"
+- "[[H0989]]"
+- "[[H5673]]"
+- "[[H1005]]"
+- "[[H9014]]"
+- "[[H0426]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H3390]]"
+- "[[H9002]]"
+- "[[H1934]]"
+- "[[H5705]]"
+- "[[H8140]]"
+- "[[H8648]]"
+- "[[H9005]]"
+- "[[H4437]]"
+- "[[H1868G]]"
+- "[[H4430]]"
+- "[[H6540]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 4:24**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ceased the work of the house of God which [is] at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia.
 <small><sub>**BSB:**</sub></small>
 Thus the construction of the house of God in Jerusalem ceased, and it remained at a standstill until the second year of the reign of Darius king of Persia.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בֵּ]][[H0116\|אדַ֗יִן]] [[H0989\|בְּטֵלַת֙]] [[H5673\|עֲבִידַ֣ת]] [[H1005\|בֵּית]][[H9014\|־]] [[H0426\|אֱלָהָ֔]][[H9010\|א]] [[H1768\|דִּ֖י]] [[H9003\|בִּ]][[H3390\|ירוּשְׁלֶ֑ם]] [[H9002\|וַ]][[H1934\|הֲוָת֙]] [[H0989\|בָּֽטְלָ֔א]] [[H5705\|עַ֚ד]] [[H8140\|שְׁנַ֣ת]] [[H8648\|תַּרְתֵּ֔ין]] [[H9005\|לְ]][[H4437\|מַלְכ֖וּת]] [[H1868G\|דָּרְיָ֥וֶשׁ]] [[H4430\|מֶֽלֶךְ]][[H9014\|־]] [[H6540\|פָּרָֽס]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARTAXERXES|ARTAXERXES]] • [[topic BISHLAM|BISHLAM]] • [[topic TEMPLE|TEMPLE]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.23|<< Ezra 4:23]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.1|Ezra 5:1 >>]]</td></tr></table>
 
@@ -23,7 +80,7 @@ Thus the construction of the house of God in Jerusalem ceased, and it remained a
 | of [the] reign of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4437\|מַלְכ֖וּת]]&#8207; </big>**| le.<small><sup>[[AR]]</sup></small> mal.Khut<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Darius  |**<big>&#8207;[[H1868G\|דָּרְיָ֥וֶשׁ]]&#8207; </big>**| da.re.Ya.vesh<small><sup>[[ANpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] king of  |**<big>&#8207;[[H4430\|מֶֽלֶךְ]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| Me.lekh-<small><sup>[[ANcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Persia  |**<big>&#8207;[[H6540\|פָּרָֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| pa.Ras<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Persia  |**<big>&#8207;[[H6540\|פָּרָֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| pa.Ras<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.23|<< Ezra 4:23]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.5.1|Ezra 5:1 >>]]</td></tr></table>
 
 

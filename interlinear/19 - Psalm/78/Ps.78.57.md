@@ -1,8 +1,56 @@
+---
+title: Psalm 78:57
+type: Verse
+kjv: "But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow."
+bsb: "They turned back and were faithless like their fathers, twisted like a faulty bow."
+hebrew: "וַיִּסֹּ֣גוּ וַֽ֭יִּבְגְּדוּ כַּאֲבוֹתָ֑ם נֶ֝הְפְּכ֗וּ כְּקֶ֣שֶׁת רְמִיָּֽה׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BOW|BOW]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H5472]]"
+- "[[H0898]]"
+- "[[H9004]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H2015]]"
+- "[[H7198]]"
+- "[[H7423A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:57**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.
 <small><sub>**BSB:**</sub></small>
 They turned back and were faithless like their fathers, twisted like a faulty bow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5472\|יִּסֹּ֣גוּ]] [[H9001\|וַֽ֭]][[H0898\|יִּבְגְּדוּ]] [[H9004\|כַּ]][[H0001G\|אֲבוֹתָ֑]][[H9028\|ם]] [[H2015\|נֶ֝הְפְּכ֗וּ]] [[H9004\|כְּ]][[H7198\|קֶ֣שֶׁת]] [[H7423A\|רְמִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BOW|BOW]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.57|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.56|<< Psalms 78:56]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.58|Psalms 78:58 >>]]</td></tr></table>
 

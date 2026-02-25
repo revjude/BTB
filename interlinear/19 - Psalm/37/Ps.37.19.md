@@ -1,8 +1,56 @@
+---
+title: Psalm 37:19
+type: Verse
+kjv: "They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied."
+bsb: "In the time of evil they will not be ashamed, and in the days of famine they will be satisfied."
+hebrew: "לֹֽא־ יֵ֭בֹשׁוּ בְּעֵ֣ת רָעָ֑ה וּבִימֵ֖י רְעָב֣וֹן יִשְׂבָּֽעוּ׃"
+pericope: "[[Ps.37.1 Delight Yourself in the LORD|Delight Yourself in the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 37
+book/chapter: "[[Ps.37|Psalm 37]]"
+chronological_order: 365
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0954]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H7451B]]"
+- "[[H9002]]"
+- "[[H3117G]]"
+- "[[H7459]]"
+- "[[H7646]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 37:19**<big><big>[[Ps.37.1 Delight Yourself in the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied.
 <small><sub>**BSB:**</sub></small>
 In the time of evil they will not be ashamed, and in the days of famine they will be satisfied.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H0954\|יֵ֭בֹשׁוּ]] [[H9003\|בְּ]][[H6256\|עֵ֣ת]] [[H7451B\|רָעָ֑ה]] [[H9002\|וּ]][[H9003\|בִ]][[H3117G\|ימֵ֖י]] [[H7459\|רְעָב֣וֹן]] [[H7646\|יִשְׂבָּֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.37.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.37.18|<< Psalms 37:18]]</td><td align="center" style="border:none;">[[Ps.37|Psalms 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.37.20|Psalms 37:20 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Proverbs 2:4
+type: Verse
+kjv: "If thou seekest her as silver, and searchest for her as for hid treasures;"
+bsb: "if you seek it like silver and search it out like hidden treasure,"
+hebrew: "אִם־ תְּבַקְשֶׁ֥נָּה כַכָּ֑סֶף וְֽכַמַּטְמוֹנִ֥ים תַּחְפְּשֶֽׂנָּה׃"
+pericope: "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic PERSONIFICATION|PERSONIFICATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1245]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H4301]]"
+- "[[H2664]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 2:4**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou seekest her as silver, and searchest for her as [for] hid treasures;
 <small><sub>**BSB:**</sub></small>
 if you seek it like silver and search it out like hidden treasure,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H1245\|תְּבַקְשֶׁ֥]][[H9034\|נָּה]] [[H9004\|כַ]][[H3701G\|כָּ֑סֶף]] [[H9002\|וְֽ]][[H9004\|כַ]][[H4301\|מַּטְמוֹנִ֥ים]] [[H2664\|תַּחְפְּשֶֽׂ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic HUNGER|HUNGER]] • [[topic PERSONIFICATION|PERSONIFICATION]] • [[topic SEEKERS|SEEKERS]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.3|<< Proverbs 2:3]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.5|Proverbs 2:5 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Personal Concerns
+type: Pericope
 pericope: "[[2Tim.4.9 Personal Concerns|Personal Concerns]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: 2 Timothy
 chapter: 4
 book/chapter: "[[2Tim.4|2 Timothy 4]]"
-genre:
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - testament letter
+verse_count: 7
 verses:
 - "[[2Tim.4.9]]"
 - "[[2Tim.4.10]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Tim.4.15]]"
 ---
 
-[[2Tim.4|2 Timothy 4:9 - 2 Timothy 4:15]]
+<small>[[2Tim.4|2 Timothy 4:9-15]]</small>
 *Personal Concerns*
 
 [[2Tim.4.9|9]] Do thy diligence to come shortly unto me:

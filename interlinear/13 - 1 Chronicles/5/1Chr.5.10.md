@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 5:10
+type: Verse
+kjv: "And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east land of Gilead."
+bsb: "During the days of Saul they waged war against the Hagrites, who were defeated at their hands, and they occupied the dwellings of the Hagrites throughout the region east of Gilead."
+hebrew: "וּבִימֵ֣י שָׁא֗וּל עָשׂ֤וּ מִלְחָמָה֙ עִם־ הַֽהַגְרִאִ֔ים וַֽיִּפְּל֖וּ בְּיָדָ֑ם וַיֵּשְׁבוּ֙ בְּאָ֣הֳלֵיהֶ֔ם עַֽל־ כָּל־ פְּנֵ֖י מִזְרָ֥ח לַגִּלְעָֽד׃ פ"
+pericope: "[[1Chr.5.1 The Descendants of Reuben|The Descendants of Reuben]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 5
+book/chapter: "[[1Chr.5|1 Chronicles 5]]"
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HAGAR|HAGAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7586G]]"
+- "[[H6213J]]"
+- "[[H4421]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1905]]"
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H3027H]]"
+- "[[H9028]]"
+- "[[H3427]]"
+- "[[H0168G]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H6440J]]"
+- "[[H4217H]]"
+- "[[H9005]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 5:10**<big><big>[[1Chr.5.1 The Descendants of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east [land] of Gilead.
 <small><sub>**BSB:**</sub></small>
 During the days of Saul they waged war against the Hagrites, who were defeated at their hands, and they occupied the dwellings of the Hagrites throughout the region east of Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H3117G\|ימֵ֣י]] [[H7586G\|שָׁא֗וּל]] [[H6213J\|עָשׂ֤וּ]] [[H4421\|מִלְחָמָה֙]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַֽ]][[H1905\|הַגְרִאִ֔ים]] [[H9001\|וַֽ]][[H5307G\|יִּפְּל֖וּ]] [[H9003\|בְּ]][[H3027H\|יָדָ֑]][[H9028\|ם]] [[H9001\|וַ]][[H3427\|יֵּשְׁבוּ֙]] [[H9003\|בְּ]][[H0168G\|אָ֣הֳלֵי]][[H9028\|הֶ֔ם]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H6440J\|פְּנֵ֖י]] [[H4217H\|מִזְרָ֥ח]] [[H9005\|לַ]][[H1568G\|גִּלְעָֽד]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic HAGAR|HAGAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.9|<< 1 Chronicles 5:9]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.11|1 Chronicles 5:11 >>]]</td></tr></table>
 
@@ -22,7 +80,7 @@ During the days of Saul they waged war against the Hagrites, who were defeated a
 | all  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] face of  |**<big>&#8207;[[H6440J\|פְּנֵ֖י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] east  |**<big>&#8207;[[H4217H\|מִזְרָ֥ח]]&#8207; </big>**| miz.Rach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of \<the> Gilead  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1568G\|גִּלְעָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> Gilead  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H1568G\|גִּלְעָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> gil.'Ad<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.5.9|<< 1 Chronicles 5:9]]</td><td align="center" style="border:none;">[[1Chr.5|1 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.5.11|1 Chronicles 5:11 >>]]</td></tr></table>
 
 

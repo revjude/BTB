@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Triumphal Entry
+type: Pericope
 pericope: "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Luke
 chapter: 19
 book/chapter: "[[Luke.19|Luke 19]]"
-genre:
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 13
 verses:
 - "[[Luke.19.28]]"
 - "[[Luke.19.29]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Luke.19.40]]"
 ---
 
-[[Luke.19|Luke 19:28 - Luke 19:40]]
+<small>[[Luke.19|Luke 19:28-40]]</small>
 *The Triumphal Entry*
 
 [[Luke.19.28|28]] And when he had thus spoken, he went before, ascending up to Jerusalem.

@@ -1,6 +1,59 @@
+---
+title: LXX Amos 7:16
+type: Verse
+lxx: "And now, hear the word of the lord! You say, Prophesy not over  Israel! for in no way should you lead a mob against the house of Jacob."
+greek: "και νυν άκουε λόγον κυρίου συ λέγεις μη προφήτευε επί τον Ισραήλ και ου μη οχλαγωγήσης επί τον οίκον Ιακώβ"
+original_language: Greek
+testament: Old
+book: Amos
+chapter: 7
+book/chapter: "[[Amos.7|Amos 7]]"
+chronological_order: 604
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMAZIAH|AMAZIAH]]"
+- "[[topic AMOS|AMOS]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G3004]]"
+- "[[G3361]]"
+- "[[G4395]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G2532]]"
+- "[[G3364]]"
+- "[[G8573]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2384]]"
+---
+
 **LXX Amos 7:16** 
 <small><sub>**LXX:**</sub></small>
 And now, hear \[the\] word of \[the\] <span class="smallcaps">lord</span>! You say, Prophesy not over  Israel! for in no way should you lead a mob against the house of Jacob. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3568\|νυν]] [[G0191\|άκουε]] [[G3056\|λόγον]] [[G2962\|κυρίου]] [[G1473\|συ]] [[G3004\|λέγεις]] [[G3361\|μη]] [[G4395\|προφήτευε]] [[G1909\|επί]] [[G3588\|τον]] [[G2474\|Ισραήλ]] [[G2532\|και]] [[G3364\|ου μη]] [[G8573\|οχλαγωγήσης]] [[G1909\|επί]] [[G3588\|τον]] [[G3624\|οίκον]] [[G2384\|Ιακώβ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMAZIAH|AMAZIAH]] • [[topic AMOS|AMOS]] • [[topic INFIDELITY|INFIDELITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**MT:**</sub></small>
 [[Amos.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.15|<< Amos 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.17|Amos 7:17 >>]]</td></tr></table>
 
@@ -24,6 +77,6 @@ And now, hear \[the\] word of \[the\] <span class="smallcaps">lord</span>! You s
 | the | **<big>[[G3588\|τον]]</big>** |
 | house | **<big>[[G3624\|οίκον]]</big>** |
 | of Jacob. | **<big>[[G2384\|Ιακώβ]]</big>** |
-[[Amos.7.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.15|<< Amos 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.17|Amos 7:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Amos.7.15|<< Amos 7:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Amos.7.17|Amos 7:17 >>]]</td></tr></table>
 
 

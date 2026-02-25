@@ -1,10 +1,72 @@
+---
+title: John 5:24
+type: Verse
+kjv: "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life."
+bsb: "Truly, truly, I tell you, whoever hears My word and believes Him who sent Me has eternal life and will not come under judgment. Indeed, he has crossed over from death to life."
+jesus_said: "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life."
+greek: "Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ὁ τὸν λόγον μου ἀκούων καὶ πιστεύων τῷ πέμψαντί με ἔχει ζωὴν αἰώνιον καὶ εἰς κρίσιν οὐκ ἔρχεται, ἀλλὰ μεταβέβηκεν ἐκ τοῦ θανάτου εἰς τὴν ζωήν.¶"
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BETHESDA|BETHESDA]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3165]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G3992]]"
+- "[[G2192]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G1519]]"
+- "[[G2920]]"
+- "[[G3756]]"
+- "[[G2064]]"
+- "[[G0235]]"
+- "[[G3327]]"
+- "[[G1537]]"
+- "[[G2288]]"
+texts:
+- NKO
+---
+
 **John 5:24**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, whoever hears My word and believes Him who sent Me has eternal life and will not come under judgment. Indeed, he has crossed over from death to life.
-<small><sub>**Literal:**</sub></small>
-Amen Amen I say to you that the [one] the word of Mine hearing and believing in the [One] having sent Me he has life eternal and into judgment not comes, but has passed out of <the> death into <the> life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.23|<< John 5:23]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.25|John 5:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3165\|μου]]  [[G0191\|ἀκούων]]  [[G2532\|καὶ]]  [[G4100\|πιστεύων]]  [[G3588\|τῷ]]  [[G3992\|πέμψαντί]]  [[G3165\|με]]  [[G2192\|ἔχει]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G2920\|κρίσιν]]  [[G3756\|οὐκ]]  [[G2064\|ἔρχεται,]]  [[G0235\|ἀλλὰ]]  [[G3327\|μεταβέβηκεν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2222\|ζωήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHESDA|BETHESDA]] • [[topic DEATH|DEATH]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LIFE|LIFE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.23|<< John 5:23]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.25|John 5:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

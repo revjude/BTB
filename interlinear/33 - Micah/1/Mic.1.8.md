@@ -1,8 +1,62 @@
+---
+title: Micah 1:8
+type: Verse
+kjv: "Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls."
+bsb: "Because of this I will lament and wail; I will walk barefoot and naked. I will howl like a jackal and mourn like an ostrich."
+hebrew: "עַל־ זֹאת֙ אֶסְפְּדָ֣ה וְאֵילִ֔ילָה אֵילְכָ֥ה שׁוֹלָ֖ל וְעָר֑וֹם אֶעֱשֶׂ֤ה מִסְפֵּד֙ כַּתַּנִּ֔ים וְאֵ֖בֶל כִּבְנ֥וֹת יַעֲנָֽה׃"
+pericope: "[[Mic.1.8 Weeping and Mourning|Weeping and Mourning]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 1
+book/chapter: "[[Mic.1|Micah 1]]"
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DRAGON|DRAGON]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+- "[[topic OWL|OWL]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H5594]]"
+- "[[H9002]]"
+- "[[H3213]]"
+- "[[H1980G]]"
+- "[[H7758]]"
+- "[[H6174]]"
+- "[[H6213H]]"
+- "[[H4553]]"
+- "[[H9004]]"
+- "[[H8577A]]"
+- "[[H0060]]"
+- "[[H1323G]]"
+- "[[H3284]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Micah 1:8**<big><big>[[Mic.1.8 Weeping and Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.
 <small><sub>**BSB:**</sub></small>
 Because of this I will lament and wail; I will walk barefoot and naked. I will howl like a jackal and mourn like an ostrich.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹאת֙]] [[H5594\|אֶסְפְּדָ֣ה]] [[H9002\|וְ]][[H3213\|אֵילִ֔ילָה]] [[H1980G\|אֵילְכָ֥ה]] [[H7758\|שׁוֹלָ֖ל]] [[H9002\|וְ]][[H6174\|עָר֑וֹם]] [[H6213H\|אֶעֱשֶׂ֤ה]] [[H4553\|מִסְפֵּד֙]] [[H9004\|כַּ]][[H8577A\|תַּנִּ֔ים]] [[H9002\|וְ]][[H0060\|אֵ֖בֶל]] [[H9004\|כִּ]][[H1323G\|בְנ֥וֹת]] [[H3284\|יַעֲנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAGON|DRAGON]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OSTRICHES|OSTRICHES]] • [[topic OWL|OWL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.1.7|<< Micah 1:7]]</td><td align="center" style="border:none;">[[Mic.1|Micah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.1.9|Micah 1:9 >>]]</td></tr></table>
 

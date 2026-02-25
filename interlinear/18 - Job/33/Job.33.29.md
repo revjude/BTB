@@ -1,8 +1,57 @@
+---
+title: Job 33:29
+type: Verse
+kjv: "Lo, all these things worketh God oftentimes with man,"
+bsb: "Behold, all these things God does to a man, two or even three times,"
+hebrew: "הֶן־ כָּל־ אֵ֭לֶּה יִפְעַל־ אֵ֑ל פַּעֲמַ֖יִם שָׁל֣וֹשׁ עִם־ גָּֽבֶר׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H6466]]"
+- "[[H0410G]]"
+- "[[H6471]]"
+- "[[H7969]]"
+- "[[H5973A]]"
+- "[[H1397]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:29**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo, all these [things] worketh God oftentimes with man,
 <small><sub>**BSB:**</sub></small>
 Behold, all these things God does to a man, two or even three times,
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֶן]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֭לֶּה]] [[H6466\|יִפְעַל]][[H9014\|־]] [[H0410G\|אֵ֑ל]] [[H6471\|פַּעֲמַ֖יִם]] [[H7969\|שָׁל֣וֹשׁ]] [[H5973A\|עִם]][[H9014\|־]] [[H1397\|גָּֽבֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic CONVICTION|CONVICTION]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.28|<< Job 33:28]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.30|Job 33:30 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Jeremiah 36:6
+type: Verse
+kjv: "Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the LORD in the ears of the people in the LORD’S house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities."
+bsb: "so you are to go to the house of the LORD on a day of fasting, and in the hearing of the people you are to read the words of the LORD from the scroll you have written at my dictation. Read them in the hearing of all the people of Judah who are coming from their cities."
+hebrew: "וּבָאתָ֣ אַתָּ֡ה וְקָרָ֣אתָ בַמְּגִלָּ֣ה אֲשֶׁר־ כָּתַֽבְתָּ־ מִפִּי֩ אֶת־ דִּבְרֵ֨י יְהוָ֜ה בְּאָזְנֵ֥י הָעָ֛ם בֵּ֥ית יְהוָ֖ה בְּי֣וֹם צ֑וֹם וְגַ֨ם בְּאָזְנֵ֧י כָל־ יְהוּדָ֛ה הַבָּאִ֥ים מֵעָרֵיהֶ֖ם תִּקְרָאֵֽם׃"
+pericope: "[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|Jeremiah’s Scroll Read in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0859A]]"
+- "[[H7121J]]"
+- "[[H9003]]"
+- "[[H4039]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3789]]"
+- "[[H9006]]"
+- "[[H6310I]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0241H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1004Q]]"
+- "[[H3117G]]"
+- "[[H6685]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H3605]]"
+- "[[H3063G]]"
+- "[[H5892B]]"
+- "[[H9028]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:6**<big><big>[[Jer.36.1 Jeremiah’s Scroll Read in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the LORD in the ears of the people in the LORD’S house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities.
 <small><sub>**BSB:**</sub></small>
 so you are to go to the house of the LORD on a day of fasting, and in the hearing of the people you are to read the words of the LORD from the scroll you have written at my dictation. Read them in the hearing of all the people of Judah who are coming from their cities.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָאתָ֣]] [[H0859A\|אַתָּ֡ה]] [[H9001\|וְ]][[H7121J\|קָרָ֣אתָ]] [[H9003\|בַ]][[H4039\|מְּגִלָּ֣ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3789\|כָּתַֽבְתָּ]][[H9014\|־]] [[H9006\|מִ]][[H6310I\|פִּ]][[H9020\|י֩]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֨י]] [[H3068G\|יְהוָ֜ה]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H1004Q\|בֵּ֥ית]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H6685\|צ֑וֹם]] [[H9002\|וְ]][[H1571\|גַ֨ם]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֧י]] [[H3605\|כָל]][[H9014\|־]] [[H3063G\|יְהוּדָ֛ה]] [[H9009\|הַ]][[H0935G\|בָּאִ֥ים]] [[H9006\|מֵ]][[H5892B\|עָרֵי]][[H9028\|הֶ֖ם]] [[H7121J\|תִּקְרָאֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JEREMIAH|JEREMIAH]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.5|<< Jeremiah 36:5]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.7|Jeremiah 36:7 >>]]</td></tr></table>
 

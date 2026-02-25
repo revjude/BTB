@@ -1,8 +1,71 @@
+---
+title: Judges 16:15
+type: Verse
+kjv: "And she said unto him, How canst thou say, I love thee, when thine heart is not with me? thou hast mocked me these three times, and hast not told me wherein thy great strength lieth."
+bsb: "“How can you say, ‘I love you,’” she asked, “when your heart is not with me? This is the third time you have mocked me and failed to reveal to me the source of your great strength!”"
+hebrew: "וַתֹּ֣אמֶר אֵלָ֗יו אֵ֚יךְ תֹּאמַ֣ר אֲהַבְתִּ֔יךְ וְלִבְּךָ֖ אֵ֣ין אִתִּ֑י זֶ֣ה שָׁלֹ֤שׁ פְּעָמִים֙ הֵתַ֣לְתָּ בִּ֔י וְלֹא־ הִגַּ֣דְתָּ לִּ֔י בַּמֶּ֖ה כֹּחֲךָ֥ גָדֽוֹל׃"
+pericope: "[[Judg.16.15 Delilah Learns the Secret|Delilah Learns the Secret]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0349A]]"
+- "[[H0157G]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H0369]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H2088]]"
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H2048B]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3581B]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:15**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said unto him, How canst thou say, I love thee, when thine heart [is] not with me? thou hast mocked me these three times, and hast not told me wherein thy great strength [lieth].
 <small><sub>**BSB:**</sub></small>
 “How can you say, ‘I love you,’” she asked, “when your heart is not with me? This is the third time you have mocked me and failed to reveal to me the source of your great strength!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H0349A\|אֵ֚יךְ]] [[H0559\|תֹּאמַ֣ר]] [[H0157G\|אֲהַבְתִּ֔י]][[H9032\|ךְ]] [[H9002\|וְ]][[H3820A\|לִבְּ]][[H9021\|ךָ֖]] [[H0369\|אֵ֣ין]] [[H0854\|אִתִּ֑]][[H9030\|י]] [[H2088\|זֶ֣ה]] [[H7969\|שָׁלֹ֤שׁ]] [[H6471\|פְּעָמִים֙]] [[H2048B\|הֵתַ֣לְתָּ]] [[H9003\|בִּ֔]][[H9030\|י]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5046\|הִגַּ֣דְתָּ]] [[H9005\|לִּ֔]][[H9030\|י]] [[H9003\|בַּ]][[H4100\|מֶּ֖ה]] [[H3581B\|כֹּחֲ]][[H9021\|ךָ֥]] [[H1419A\|גָדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.14|<< Judges 16:14]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.16|Judges 16:16 >>]]</td></tr></table>
 

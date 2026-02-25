@@ -1,8 +1,59 @@
+---
+title: Joshua 13:22
+type: Verse
+kjv: "Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them."
+bsb: "The Israelites also killed the diviner Balaam son of Beor along with the others they put to the sword."
+hebrew: "וְאֶת־ בִּלְעָ֥ם בֶּן־ בְּע֖וֹר הַקּוֹסֵ֑ם הָרְג֧וּ בְנֵֽי־ יִשְׂרָאֵ֛ל בַּחֶ֖רֶב אֶל־ חַלְלֵיהֶֽם׃"
+pericope: "[[Josh.13.15 Reuben’s Inheritance|Reuben’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H1121A]]"
+- "[[H1160H]]"
+- "[[H9009]]"
+- "[[H7080]]"
+- "[[H2026]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H0413]]"
+- "[[H2491A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:22**<big><big>[[Josh.13.15 Reuben’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.
 <small><sub>**BSB:**</sub></small>
 The Israelites also killed the diviner Balaam son of Beor along with the others they put to the sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1109A\|בִּלְעָ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1160H\|בְּע֖וֹר]] [[H9009\|הַ]][[H7080\|קּוֹסֵ֑ם]] [[H2026\|הָרְג֧וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H0413\|אֶל]][[H9014\|־]] [[H2491A\|חַלְלֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]] • [[topic REUBENITES|REUBENITES]] • [[topic TOPOGRAPHY|TOPOGRAPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.21|<< Joshua 13:21]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.23|Joshua 13:23 >>]]</td></tr></table>
 

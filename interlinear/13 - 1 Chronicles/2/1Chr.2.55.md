@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 2:55
+type: Verse
+kjv: "And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the Kenites that came of Hemath, the father of the house of Rechab."
+bsb: "and the clans of the scribes who lived at Jabez—the Tirathites, Shimeathites, and Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab."
+hebrew: "וּמִשְׁפְּח֤וֹת סֹפְרִים֙ יֹשְׁבֵ֣י יַעְבֵּ֔ץ תִּרְעָתִ֥ים שִׁמְעָתִ֖ים שׂוּכָתִ֑ים הֵ֚מָּה הַקִּינִ֣ים הַבָּאִ֔ים מֵחַמַּ֖ת אֲבִ֥י בֵית־ רֵכָֽב׃ ס"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HEMATH|HEMATH]]"
+- "[[topic JABEZ|JABEZ]]"
+- "[[topic KENITES|KENITES]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic RECHABITES|RECHABITES]]"
+- "[[topic SHIMEATHITES|SHIMEATHITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H4940]]"
+- "[[H5608B]]"
+- "[[H3427]]"
+- "[[H3258G]]"
+- "[[H8654]]"
+- "[[H8101]]"
+- "[[H7756]]"
+- "[[H1992]]"
+- "[[H9009]]"
+- "[[H7017]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H2575B]]"
+- "[[H0001G]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H7394H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Chronicles 2:55**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, [and] Suchathites. These [are] the Kenites that came of Hemath, the father of the house of Rechab.
 <small><sub>**BSB:**</sub></small>
 and the clans of the scribes who lived at Jabez—the Tirathites, Shimeathites, and Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4940\|מִשְׁפְּח֤וֹת]] [[H5608B\|סֹפְרִים֙]] [[H3427\|יֹשְׁבֵ֣י]] [[H3258G\|יַעְבֵּ֔ץ]] [[H8654\|תִּרְעָתִ֥ים]] [[H8101\|שִׁמְעָתִ֖ים]] [[H7756\|שׂוּכָתִ֑ים]] [[H1992\|הֵ֚מָּה]] [[H9009\|הַ]][[H7017\|קִּינִ֣ים]] [[H9009\|הַ]][[H0935G\|בָּאִ֔ים]] [[H9006\|מֵ]][[H2575B\|חַמַּ֖ת]] [[H0001G\|אֲבִ֥י]] [[H1004M\|בֵית]][[H9014\|־]] [[H7394H\|רֵכָֽב]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEMATH|HEMATH]] • [[topic JABEZ|JABEZ]] • [[topic KENITES|KENITES]] • [[topic RECHAB|RECHAB]] • [[topic RECHABITES|RECHABITES]] • [[topic SHIMEATHITES|SHIMEATHITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.54|<< 1 Chronicles 2:54]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.1|1 Chronicles 3:1 >>]]</td></tr></table>
 
@@ -21,7 +79,7 @@ and the clans of the scribes who lived at Jabez—the Tirathites, Shimeathites, 
 | from Hammath  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H2575B\|חַמַּ֖ת]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> cha.Mat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] father of  |**<big>&#8207;[[H0001G\|אֲבִ֥י]]&#8207; </big>**| 'a.Vi<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] house of  |**<big>&#8207;[[H1004M\|בֵית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| veit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Rechab  |**<big>&#8207;[[H7394H\|רֵכָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| re.Khav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Rechab  |**<big>&#8207;[[H7394H\|רֵכָֽב]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| re.Khav<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.54|<< 1 Chronicles 2:54]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.3.1|1 Chronicles 3:1 >>]]</td></tr></table>
 
 [^1]: [who] they dwelt  | **<big>[[H3427|יָשְׁבוּ]]</big> ** | yo.she.vu<small><sup>[[HVqp3cp]]</sup></small> | K

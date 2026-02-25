@@ -1,10 +1,67 @@
+---
+title: Luke 15:18
+type: Verse
+kjv: "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,"
+bsb: "I will get up and go back to my father and say to him, “Father, I have sinned against heaven and against you."
+jesus_said: "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,"
+greek: "ἀναστὰς πορεύσομαι πρὸς τὸν πατέρα μου καὶ ἐρῶ αὐτῷ· πάτερ, ἥμαρτον εἰς τὸν οὐρανὸν καὶ ἐνώπιόν σου·"
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G0450]]"
+- "[[G4198]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G4483]]"
+- "[[G0846]]"
+- "[[G0264]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G1799]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Luke 15:18**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,
 <small><sub>**BSB:**</sub></small>
 I will get up and go back to my father and say to him, “Father, I have sinned against heaven and against you.
-<small><sub>**Literal:**</sub></small>
-Having risen up I will go to the father of mine and I will say to him; Father, I have sinned against <the> heaven and before you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.17|<< Luke 15:17]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.19|Luke 15:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0450\|ἀναστὰς]]  [[G4198\|πορεύσομαι]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G4483\|ἐρῶ]]  [[G0846\|αὐτῷ·]]  [[G3962\|πάτερ,]]  [[G0264\|ἥμαρτον]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2532\|καὶ]]  [[G1799\|ἐνώπιόν]]  [[G4771\|σου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SERVANT|SERVANT]] • [[topic SIN|SIN]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.17|<< Luke 15:17]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.19|Luke 15:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

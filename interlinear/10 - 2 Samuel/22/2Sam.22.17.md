@@ -1,8 +1,50 @@
+---
+title: 2 Samuel 22:17
+type: Verse
+kjv: "He sent from above, he took me; he drew me out of many waters;"
+bsb: "He reached down from on high and took hold of me; He drew me out of deep waters."
+hebrew: "יִשְׁלַ֥ח מִמָּר֖וֹם יִקָּחֵ֑נִי יַֽמְשֵׁ֖נִי מִמַּ֥יִם רַבִּֽים׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H7971G]]"
+- "[[H9006]]"
+- "[[H4791]]"
+- "[[H3947G]]"
+- "[[H9030]]"
+- "[[H4871]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:17**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He sent from above, he took me; he drew me out of many waters;
 <small><sub>**BSB:**</sub></small>
 He reached down from on high and took hold of me; He drew me out of deep waters.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|יִשְׁלַ֥ח]] [[H9006\|מִ]][[H4791\|מָּר֖וֹם]] [[H3947G\|יִקָּחֵ֑]][[H9030\|נִי]] [[H4871\|יַֽמְשֵׁ֖]][[H9030\|נִי]] [[H9006\|מִ]][[H4325G\|מַּ֥יִם]] [[H7227A\|רַבִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.16|<< 2 Samuel 22:16]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.18|2 Samuel 22:18 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Jeremiah 46:25
+type: Verse
+kjv: "The LORD of hosts, the God of Israel, saith; Behold, I will punish the multitude of No, and Pharaoh, and Egypt, with their gods, and their kings; even Pharaoh, and all them that trust in him:"
+bsb: "The LORD of Hosts, the God of Israel, says: “Behold, I am about to punish Amon god of Thebes, along with Pharaoh, Egypt with her gods and kings, and those who trust in Pharaoh."
+hebrew: "אָמַר֩ יְהוָ֨ה צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל הִנְנִ֤י פוֹקֵד֙ אֶל־ אָמ֣וֹן מִנֹּ֔א וְעַל־ פַּרְעֹה֙ וְעַל־ מִצְרַ֔יִם וְעַל־ אֱלֹהֶ֖יהָ וְעַל־ מְלָכֶ֑יהָ וְעַ֨ל־ פַּרְעֹ֔ה וְעַ֥ל הַבֹּטְחִ֖ים בּֽוֹ׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic NO|NO]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6485H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0528]]"
+- "[[H9006]]"
+- "[[H4996]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H6547T]]"
+- "[[H4714G]]"
+- "[[H0430]]"
+- "[[H9024]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:25**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD of hosts, the God of Israel, saith; Behold, I will punish the multitude of No, and Pharaoh, and Egypt, with their gods, and their kings; even Pharaoh, and [all] them that trust in him:
 <small><sub>**BSB:**</sub></small>
 The LORD of Hosts, the God of Israel, says: “Behold, I am about to punish Amon god of Thebes, along with Pharaoh, Egypt with her gods and kings, and those who trust in Pharaoh.
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַר֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H6485H\|פוֹקֵד֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0528\|אָמ֣וֹן]] [[H9006\|מִ]][[H4996\|נֹּ֔א]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H6547T\|פַּרְעֹה֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H0430\|אֱלֹהֶ֖י]][[H9024\|הָ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4428G\|מְלָכֶ֑י]][[H9024\|הָ]] [[H9002\|וְ]][[H5921A\|עַ֨ל]][[H9014\|־]] [[H6547T\|פַּרְעֹ֔ה]] [[H9002\|וְ]][[H5921A\|עַ֥ל]] [[H9009\|הַ]][[H0982\|בֹּטְחִ֖ים]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic NO|NO]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.46.24|<< Jeremiah 46:24]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.26|Jeremiah 46:26 >>]]</td></tr></table>
 

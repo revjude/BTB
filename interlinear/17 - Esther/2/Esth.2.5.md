@@ -1,8 +1,63 @@
+---
+title: Esther 2:5
+type: Verse
+kjv: "Now in Shushan the palace there was a certain Jew, whose name was Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;"
+bsb: "Now there was at the citadel of Susa a Jewish man from the tribe of Benjamin named Mordecai son of Jair, the son of Shimei, the son of Kish."
+hebrew: "אִ֣ישׁ יְהוּדִ֔י הָיָ֖ה בְּשׁוּשַׁ֣ן הַבִּירָ֑ה וּשְׁמ֣וֹ מָרְדֳּכַ֗י בֶּ֣ן יָאִ֧יר בֶּן־ שִׁמְעִ֛י בֶּן־ קִ֖ישׁ אִ֥ישׁ יְמִינִֽי׃"
+pericope: "[[Esth.2.5 Esther Finds Favor|Esther Finds Favor]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic JAIR|JAIR]]"
+- "[[topic KISH|KISH]]"
+- "[[topic MORDECAI|MORDECAI]]"
+- "[[topic SHIMEI|SHIMEI]]"
+- "[[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]"
+strongs:
+- "[[H0376G]]"
+- "[[H3064]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7800]]"
+- "[[H9009]]"
+- "[[H1002]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H4782H]]"
+- "[[H1121A]]"
+- "[[H2971J]]"
+- "[[H9014]]"
+- "[[H8096U]]"
+- "[[H7027J]]"
+- "[[H1145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:5**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Now] in Shushan the palace there was a certain Jew, whose name [was] Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;
 <small><sub>**BSB:**</sub></small>
 Now there was at the citadel of Susa a Jewish man from the tribe of Benjamin named Mordecai son of Jair, the son of Shimei, the son of Kish.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִ֣ישׁ]] [[H3064\|יְהוּדִ֔י]] [[H1961\|הָיָ֖ה]] [[H9003\|בְּ]][[H7800\|שׁוּשַׁ֣ן]] [[H9009\|הַ]][[H1002\|בִּירָ֑ה]] [[H9002\|וּ]][[H8034\|שְׁמ֣]][[H9023\|וֹ]] [[H4782H\|מָרְדֳּכַ֗י]] [[H1121A\|בֶּ֣ן]] [[H2971J\|יָאִ֧יר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8096U\|שִׁמְעִ֛י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7027J\|קִ֖ישׁ]] [[H0376G\|אִ֥ישׁ]] [[H1145\|יְמִינִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic JAIR|JAIR]] • [[topic KISH|KISH]] • [[topic MORDECAI|MORDECAI]] • [[topic SHIMEI|SHIMEI]] • [[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.4|<< Esther 2:4]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.6|Esther 2:6 >>]]</td></tr></table>
 

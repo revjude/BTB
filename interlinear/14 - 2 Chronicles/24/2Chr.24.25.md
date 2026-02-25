@@ -1,8 +1,76 @@
+---
+title: 2 Chronicles 24:25
+type: Verse
+kjv: "And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings."
+bsb: "And when the Arameans had withdrawn, they left Joash severely wounded. His own servants conspired against him for shedding the blood of the son of Jehoiada the priest, and they killed him on his bed. So he died and was buried in the City of David, but not in the tombs of the kings."
+hebrew: "וּבְלֶכְתָּ֣ם מִמֶּ֗נּוּ כִּֽי־ עָזְב֣וּ אֹתוֹ֮ בְּמַחֲלוּיִ֣ם רַבִּים֒ הִתְקַשְּׁר֨וּ עָלָ֜יו עֲבָדָ֗יו בִּדְמֵי֙ בְּנֵי֙ יְהוֹיָדָ֣ע הַכֹּהֵ֔ן וַיַּֽהַרְגֻ֥הוּ עַל־ מִטָּת֖וֹ וַיָּמֹ֑ת וַֽיִּקְבְּרֻ֙הוּ֙ בְּעִ֣יר דָּוִ֔יד וְלֹ֥א קְבָרֻ֖הוּ בְּקִבְר֥וֹת הַמְּלָכִֽים׃ ס"
+pericope: "[[2Chr.24.23 The Death of Joash|The Death of Joash]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H9048]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H4251]]"
+- "[[H7227A]]"
+- "[[H7194]]"
+- "[[H5921A]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H1818]]"
+- "[[H1121A]]"
+- "[[H3077H]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9001]]"
+- "[[H2026]]"
+- "[[H4296]]"
+- "[[H4191]]"
+- "[[H6912]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H3808]]"
+- "[[H6913]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Chronicles 24:25**<big><big>[[2Chr.24.23 The Death of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings.
 <small><sub>**BSB:**</sub></small>
 And when the Arameans had withdrawn, they left Joash severely wounded. His own servants conspired against him for shedding the blood of the son of Jehoiada the priest, and they killed him on his bed. So he died and was buried in the City of David, but not in the tombs of the kings.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H1980G\|לֶכְתָּ֣]][[H9048\|ם]] [[H4480A\|מִמֶּ֗]][[H9033\|נּוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5800A\|עָזְב֣וּ]] [[H0853\|אֹת]][[H9033\|וֹ֮]] [[H9003\|בְּ]][[H4251\|מַחֲלוּיִ֣ם]] [[H7227A\|רַבִּים֒]] [[H7194\|הִתְקַשְּׁר֨וּ]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H5650\|עֲבָדָ֗י]][[H9023\|ו]] [[H9003\|בִּ]][[H1818\|דְמֵי֙]] [[H1121A\|בְּנֵי֙]] [[H3077H\|יְהוֹיָדָ֣ע]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9001\|וַ]][[H2026\|יַּֽהַרְגֻ֥]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4296\|מִטָּת֖]][[H9023\|וֹ]] [[H9001\|וַ]][[H4191\|יָּמֹ֑ת]] [[H9001\|וַֽ]][[H6912\|יִּקְבְּרֻ֙]][[H9033\|הוּ֙]] [[H9003\|בְּ]][[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֔יד]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6912\|קְבָרֻ֖]][[H9033\|הוּ]] [[H9003\|בְּ]][[H6913\|קִבְר֥וֹת]] [[H9009\|הַ]][[H4428G\|מְּלָכִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]] • [[topic JOASH|JOASH]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.24|<< 2 Chronicles 24:24]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.26|2 Chronicles 24:26 >>]]</td></tr></table>
 
@@ -32,7 +100,7 @@ And when the Arameans had withdrawn, they left Joash severely wounded. His own s
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they buried him  |**<big>&#8207;[[H6912\|קְבָרֻ֖]]&#8207;&#8207;[[H9033\|הוּ]]&#8207; </big>**| ke.va.Ru.<small><sup>[[HVqp3cp]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in [the] graves of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6913\|קִבְר֥וֹת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> kiv.Rot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the kings  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מְּלָכִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the kings  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מְּלָכִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> me.la.Khim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.24|<< 2 Chronicles 24:24]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.26|2 Chronicles 24:26 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="ashebrew"><big>בְּמַחֲלֻיִ֣ים</big></span>**

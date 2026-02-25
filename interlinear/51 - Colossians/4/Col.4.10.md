@@ -1,10 +1,63 @@
+---
+title: Colossians 4:10
+type: Verse
+kjv: "Aristarchus my fellowprisoner saluteth you, and Marcus, sister’s son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)"
+bsb: "My fellow prisoner Aristarchus sends you greetings, as does Mark the cousin of Barnabas. You have already received instructions about him: If he comes to you, welcome him."
+greek: "Ἀσπάζεται ὑμᾶς Ἀρίσταρχος ὁ συναιχμάλωτός μου καὶ Μᾶρκος ὁ ἀνεψιὸς Βαρναβᾶ, περὶ οὗ ἐλάβετε ἐντολάς· ἐὰν ἔλθῃ πρὸς ὑμᾶς, δέξασθε αὐτόν·"
+pericope: "[[Col.4.7 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic ARISTARCHUS|ARISTARCHUS]]"
+- "[[topic MARK|MARK]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0782]]"
+- "[[G4771]]"
+- "[[G0708]]"
+- "[[G3588]]"
+- "[[G4869]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3138]]"
+- "[[G0431]]"
+- "[[G0921G]]"
+- "[[G4012]]"
+- "[[G3739]]"
+- "[[G2983]]"
+- "[[G1785]]"
+- "[[G1437]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G1209]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Colossians 4:10**<big><big>[[Col.4.7 Greetings from Paul’s Fellow Workers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Aristarchus my fellowprisoner saluteth you, and Marcus, sister’s son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)
 <small><sub>**BSB:**</sub></small>
 My fellow prisoner Aristarchus sends you greetings, as does Mark the cousin of Barnabas. You have already received instructions about him: If he comes to you, welcome him.
-<small><sub>**Literal:**</sub></small>
-Greets you Aristarchus the fellow prisoner of mine and Mark the cousin of Barnabas, concerning whom you have received instructions: if he shall come to you, do welcome him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.9|<< Colossians 4:9]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.11|Colossians 4:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0782\|Ἀσπάζεται]]  [[G4771\|ὑμᾶς]]  [[G0708\|Ἀρίσταρχος]]  [[G3588\|ὁ]]  [[G4869\|συναιχμάλωτός]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3138\|Μᾶρκος]]  [[G3588\|ὁ]]  [[G0431\|ἀνεψιὸς]]  [[G0921G\|Βαρναβᾶ,]]  [[G4012\|περὶ]]  [[G3739\|οὗ]]  [[G2983\|ἐλάβετε]]  [[G1785\|ἐντολάς·]]  [[G1437\|ἐὰν]]  [[G2064\|ἔλθῃ]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς,]]  [[G1209\|δέξασθε]]  [[G0846\|αὐτόν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARISTARCHUS|ARISTARCHUS]] • [[topic MARK|MARK]] • [[topic MARY|MARY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.9|<< Colossians 4:9]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.11|Colossians 4:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

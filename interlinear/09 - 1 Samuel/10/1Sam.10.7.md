@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 10:7
+type: Verse
+kjv: "And let it be, when these signs are come unto thee, that thou do as occasion serve thee; for God is with thee."
+bsb: "When these signs have come, do as the occasion demands, for God is with you."
+hebrew: "וְהָיָ֗ה כִּ֥י תָבֹ֛אנָה הָאֹת֥וֹת הָאֵ֖לֶּה לָ֑ךְ עֲשֵׂ֤ה לְךָ֙ אֲשֶׁ֣ר תִּמְצָ֣א יָדֶ֔ךָ כִּ֥י הָאֱלֹהִ֖ים עִמָּֽךְ׃"
+pericope: "[[1Sam.10.1 Samuel Anoints Saul|Samuel Anoints Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H0935M]]"
+- "[[H9009]]"
+- "[[H0226G]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H6213A]]"
+- "[[H9031]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H0430G]]"
+- "[[H5973A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 10:7**<big><big>[[1Sam.10.1 Samuel Anoints Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let it be, when these signs are come unto thee, [that] thou do as occasion serve thee; for God [is] with thee.
 <small><sub>**BSB:**</sub></small>
 When these signs have come, do as the occasion demands, for God is with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H3588A\|כִּ֥י]] [[H0935M\|תָבֹ֛אנָה]] [[H9009\|הָ]][[H0226G\|אֹת֥וֹת]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H6213A\|עֲשֵׂ֤ה]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H4672\|תִּמְצָ֣א]] [[H3027G\|יָדֶ֔]][[H9021\|ךָ]] [[H3588A\|כִּ֥י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.6|<< 1 Samuel 10:6]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.8|1 Samuel 10:8 >>]]</td></tr></table>
 

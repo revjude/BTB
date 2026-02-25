@@ -1,8 +1,51 @@
+---
+title: Hosea 5:2
+type: Verse
+kjv: "And the revolters are profound to make slaughter, though I have been a rebuker of them all."
+bsb: "The rebels are deep in slaughter; but I will chastise them all."
+hebrew: "וְשַׁחֲטָ֥ה שֵׂטִ֖ים הֶעְמִ֑יקוּ וַאֲנִ֖י מוּסָ֥ר לְכֻלָּֽם׃"
+pericope: "[[Hos.5.1 Judgment on Israel and Judah|Judgment on Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 5
+book/chapter: "[[Hos.5|Hosea 5]]"
+chronological_order: 646
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H7819B]]"
+- "[[H7846]]"
+- "[[H6009]]"
+- "[[H0589]]"
+- "[[H4148G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 5:2**<big><big>[[Hos.5.1 Judgment on Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the revolters are profound to make slaughter, though I [have been] a rebuker of them all.
 <small><sub>**BSB:**</sub></small>
 The rebels are deep in slaughter; but I will chastise them all.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7819B\|שַׁחֲטָ֥ה]] [[H7846\|שֵׂטִ֖ים]] [[H6009\|הֶעְמִ֑יקוּ]] [[H9002\|וַ]][[H0589\|אֲנִ֖י]] [[H4148G\|מוּסָ֥ר]] [[H9005\|לְ]][[H3605\|כֻלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.5.1|<< Hosea 5:1]]</td><td align="center" style="border:none;">[[Hos.5|Hosea 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.5.3|Hosea 5:3 >>]]</td></tr></table>
 

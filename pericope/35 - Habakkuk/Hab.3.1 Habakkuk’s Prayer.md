@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Habakkuk’s Prayer
+type: Pericope
 pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Habakkuk
 chapter: 3
 book/chapter: "[[Hab.3|Habakkuk 3]]"
-genre:
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - dialogue
 - theodicy
+verse_count: 16
 verses:
 - "[[Hab.3.1]]"
 - "[[Hab.3.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Hab.3.16]]"
 ---
 
-[[Hab.3|Habakkuk 3:1 - Habakkuk 3:16]]
+<small>[[Hab.3|Habakkuk 3:1-16]]</small>
 *Habakkuk’s Prayer*
 
 [[Hab.3.1|1]] A prayer of Habakkuk the prophet upon Shigionoth.

@@ -1,8 +1,59 @@
+---
+title: Exodus 40:7
+type: Verse
+kjv: "And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein."
+bsb: "And place the basin between the Tent of Meeting and the altar, and put water in it."
+hebrew: "וְנָֽתַתָּ֙ אֶת־ הַכִּיֹּ֔ר בֵּֽין־ אֹ֥הֶל מוֹעֵ֖ד וּבֵ֣ין הַמִּזְבֵּ֑חַ וְנָתַתָּ֥ שָׁ֖ם מָֽיִם׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LAVER|LAVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3595]]"
+- "[[H0996G]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9002]]"
+- "[[H4196]]"
+- "[[H8033G]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:7**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein.
 <small><sub>**BSB:**</sub></small>
 And place the basin between the Tent of Meeting and the altar, and put water in it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָֽתַתָּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3595\|כִּיֹּ֔ר]] [[H0996G\|בֵּֽין]][[H9014\|־]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵ֖ד]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חַ]] [[H9001\|וְ]][[H5414H\|נָתַתָּ֥]] [[H8033G\|שָׁ֖ם]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAVER|LAVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.6|<< Exodus 40:6]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.8|Exodus 40:8 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Psalm 9:5
+type: Verse
+kjv: "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever."
+bsb: "You have rebuked the nations; You have destroyed the wicked; You have erased their name forever and ever."
+hebrew: "גָּעַ֣רְתָּ ג֭וֹיִם אִבַּ֣דְתָּ רָשָׁ֑ע שְׁמָ֥ם מָ֝חִ֗יתָ לְעוֹלָ֥ם וָעֶֽד׃"
+pericope: "[[Ps.9.1 I Will Give Thanks to the LORD|I Will Give Thanks to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 9
+book/chapter: "[[Ps.9|Psalm 9]]"
+chronological_order: 343
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1605]]"
+- "[[H1471A]]"
+- "[[H0006]]"
+- "[[H7563]]"
+- "[[H8034]]"
+- "[[H9028]]"
+- "[[H4229A]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 9:5**<big><big>[[Ps.9.1 I Will Give Thanks to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.
 <small><sub>**BSB:**</sub></small>
 You have rebuked the nations; You have destroyed the wicked; You have erased their name forever and ever.
+<small><sub>**Hebrew:**</sub></small>
+[[H1605\|גָּעַ֣רְתָּ]] [[H1471A\|ג֭וֹיִם]] [[H0006\|אִבַּ֣דְתָּ]] [[H7563\|רָשָׁ֑ע]] [[H8034\|שְׁמָ֥]][[H9028\|ם]] [[H4229A\|מָ֝חִ֗יתָ]] [[H9005\|לְ]][[H5769G\|עוֹלָ֥ם]] [[H9002\|וָ]][[H5703\|עֶֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.9.4|<< Psalms 9:4]]</td><td align="center" style="border:none;">[[Ps.9|Psalms 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.9.6|Psalms 9:6 >>]]</td></tr></table>
 

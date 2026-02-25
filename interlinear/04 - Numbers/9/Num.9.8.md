@@ -1,8 +1,61 @@
+---
+title: Numbers 9:8
+type: Verse
+kjv: "And Moses said unto them, Stand still, and I will hear what the LORD will command concerning you."
+bsb: "“Wait here until I find out what the LORD commands concerning you,” Moses replied."
+hebrew: "וַיֹּ֥אמֶר אֲלֵהֶ֖ם מֹשֶׁ֑ה עִמְד֣וּ וְאֶשְׁמְעָ֔ה מַה־ יְצַוֶּ֥ה יְהוָ֖ה לָכֶֽם׃ פ"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H4872]]"
+- "[[H5975G]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 9:8**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto them, Stand still, and I will hear what the LORD will command concerning you.
 <small><sub>**BSB:**</sub></small>
 “Wait here until I find out what the LORD commands concerning you,” Moses replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֖ם]] [[H4872\|מֹשֶׁ֑ה]] [[H5975G\|עִמְד֣וּ]] [[H9002\|וְ]][[H8085G\|אֶשְׁמְעָ֔ה]] [[H4100\|מַה]][[H9014\|־]] [[H6680\|יְצַוֶּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.7|<< Numbers 9:7]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.9|Numbers 9:9 >>]]</td></tr></table>
 
@@ -16,7 +69,7 @@ And Moses said unto them, Stand still, and I will hear what the LORD will comman
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he command  |**<big>&#8207;[[H6680\|יְצַוֶּ֥ה]]&#8207; </big>**| ye.tza.Veh<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| of \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| of \<the> you  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9036\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.7|<< Numbers 9:7]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.9|Numbers 9:9 >>]]</td></tr></table>
 
 

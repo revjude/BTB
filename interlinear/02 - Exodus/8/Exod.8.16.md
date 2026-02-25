@@ -1,8 +1,70 @@
+---
+title: Exodus 8:16
+type: Verse
+kjv: "And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt."
+bsb: "Then the LORD said to Moses, “Tell Aaron, ‘Stretch out your staff and strike the dust of the earth, that it may turn into swarms of gnats throughout the land of Egypt.’”"
+hebrew: "וַיֹּ֣אמֶר יְהוָה֮ אֶל־ מֹשֶׁה֒ אֱמֹר֙ אֶֽל־ אַהֲרֹ֔ן נְטֵ֣ה אֶֽת־ מַטְּךָ֔ וְהַ֖ךְ אֶת־ עֲפַ֣ר הָאָ֑רֶץ וְהָיָ֥ה לְכִנִּ֖ם בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Exod.8.16 The Third Plague：Gnats|The Third Plague：Gnats]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LICE|LICE]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0175]]"
+- "[[H5186]]"
+- "[[H0853]]"
+- "[[H4294G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H5221]]"
+- "[[H6083]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3654]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:16**<big><big>[[Exod.8.16 The Third Plague：Gnats|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Tell Aaron, ‘Stretch out your staff and strike the dust of the earth, that it may turn into swarms of gnats throughout the land of Egypt.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָה֮]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁה֒]] [[H0559\|אֱמֹר֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֔ן]] [[H5186\|נְטֵ֣ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H4294G\|מַטְּ]][[H9021\|ךָ֔]] [[H9002\|וְ]][[H5221\|הַ֖ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H6083\|עֲפַ֣ר]] [[H9009\|הָ]][[H0776H\|אָ֑רֶץ]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9005\|לְ]][[H3654\|כִנִּ֖ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LICE|LICE]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.15|<< Exodus 8:15]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.17|Exodus 8:17 >>]]</td></tr></table>
 

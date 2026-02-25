@@ -1,10 +1,67 @@
+---
+title: Matthew 7:6
+type: Verse
+kjv: "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you."
+bsb: "Do not give dogs what is holy; do not throw your pearls before swine. If you do, they may trample them under their feet, and then turn and tear you to pieces."
+jesus_said: "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you."
+greek: "Μὴ δῶτε τὸ ἅγιον τοῖς κυσὶν μηδὲ βάλητε τοὺς μαργαρίτας ὑμῶν ἔμπροσθεν τῶν χοίρων μήποτε μήποτε καταπατήσουσιν αὐτοὺς ἐν τοῖς ποσὶν αὐτῶν, καὶ στραφέντες ῥήξωσιν ὑμᾶς.¶"
+pericope: "[[Matt.7.1 Judging Others|Judging Others]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 7
+book/chapter: "[[Matt.7|Matthew 7]]"
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PEARL|PEARL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SWINE|SWINE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3361]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G0040G]]"
+- "[[G2965]]"
+- "[[G3366]]"
+- "[[G0906G]]"
+- "[[G3135]]"
+- "[[G4771]]"
+- "[[G1715]]"
+- "[[G5519]]"
+- "[[G4218]]"
+- "[[G2662]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G4228]]"
+- "[[G2532]]"
+- "[[G4762]]"
+- "[[G4486]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 7:6**<big><big>[[Matt.7.1 Judging Others|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
 <small><sub>**BSB:**</sub></small>
 Do not give dogs what is holy; do not throw your pearls before swine. If you do, they may trample them under their feet, and then turn and tear you to pieces.
-<small><sub>**Literal:**</sub></small>
-Not shall give that which [is] holy to the dogs nor shall cast the pearls of you before the pigs otherwise they will trample upon them with the feet of them, and having turned they may tear to pieces you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.5|<< Matthew 7:5]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.7|Matthew 7:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|Μὴ]]  [[G1325\|δῶτε]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G3588\|τοῖς]]  [[G2965\|κυσὶν]]  [[G3366\|μηδὲ]]  [[G0906G\|βάλητε]]  [[G3588\|τοὺς]]  [[G3135\|μαργαρίτας]]  [[G4771\|ὑμῶν]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τῶν]]  [[G5519\|χοίρων]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G2662\|καταπατήσουσιν]]  [[G0846\|αὐτοὺς]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G4228\|ποσὶν]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G4762\|στραφέντες]]  [[G4486\|ῥήξωσιν]]  [[G4771\|ὑμᾶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PEARL|PEARL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RELIGION|RELIGION]] • [[topic SWINE|SWINE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.5|<< Matthew 7:5]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.7|Matthew 7:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,67 @@
+---
+title: Jeremiah 3:7
+type: Verse
+kjv: "And I said after she had done all these things, Turn thou unto me. But she returned not. And her treacherous sister Judah saw it."
+bsb: "I thought that after she had done all these things, she would return to Me. But she did not return, and her unfaithful sister Judah saw it."
+hebrew: "וָאֹמַ֗ר אַחֲרֵ֨י עֲשׂוֹתָ֧הּ אֶת־ כָּל־ אֵ֛לֶּה אֵלַ֥י תָּשׁ֖וּב וְלֹא־ שָׁ֑בָה וַתֵּ֛רֶא בָּגוֹדָ֥ה אֲחוֹתָ֖הּ יְהוּדָֽה׃"
+pericope: "[[Jer.3.6 Judah Follows Israel’s Example|Judah Follows Israel’s Example]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0310A]]"
+- "[[H6213A]]"
+- "[[H9044]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0428]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H7725G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H0901]]"
+- "[[H0269]]"
+- "[[H9024]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Jeremiah 3:7**<big><big>[[Jer.3.6 Judah Follows Israel’s Example|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said after she had done all these [things], Turn thou unto me. But she returned not. And her treacherous sister Judah saw [it].
 <small><sub>**BSB:**</sub></small>
 I thought that after she had done all these things, she would return to Me. But she did not return, and her unfaithful sister Judah saw it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H0310A\|אַחֲרֵ֨י]] [[H6213A\|עֲשׂוֹתָ֧]][[H9044\|הּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֛לֶּה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H7725G\|תָּשׁ֖וּב]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7725G\|שָׁ֑בָה]] [[H9001\|וַ]][[H7200G\|תֵּ֛רֶא]] [[H0901\|בָּגוֹדָ֥ה]] [[H0269\|אֲחוֹתָ֖]][[H9024\|הּ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.6|<< Jeremiah 3:6]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.8|Jeremiah 3:8 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Jeremiah 29:19
+type: Verse
+kjv: "Because they have not hearkened to my words, saith the LORD, which I sent unto them by my servants the prophets, rising up early and sending them; but ye would not hear, saith the LORD."
+bsb: "I will do this because they have not listened to My words, declares the LORD, which I sent to them again and again through My servants the prophets. And neither have you exiles listened, declares the LORD.”"
+hebrew: "תַּ֛חַת אֲשֶֽׁר־ לֹא־ שָׁמְע֥וּ אֶל־ דְּבָרַ֖י נְאֻם־ יְהוָ֑ה אֲשֶׁר֩ שָׁלַ֨חְתִּי אֲלֵיהֶ֜ם אֶת־ עֲבָדַ֤י הַנְּבִאִים֙ הַשְׁכֵּ֣ם וְשָׁלֹ֔חַ וְלֹ֥א שְׁמַעְתֶּ֖ם נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8478J]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H7925]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:19**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they have not hearkened to my words, saith the LORD, which I sent unto them by my servants the prophets, rising up early and sending [them]; but ye would not hear, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 I will do this because they have not listened to My words, declares the LORD, which I sent to them again and again through My servants the prophets. And neither have you exiles listened, declares the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H8478J\|תַּ֛חַת]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שָׁמְע֥וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H1697G\|דְּבָרַ֖]][[H9020\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁר֩]] [[H7971G\|שָׁלַ֨חְתִּי]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדַ֤]][[H9020\|י]] [[H9009\|הַ]][[H5030\|נְּבִאִים֙]] [[H7925\|הַשְׁכֵּ֣ם]] [[H9002\|וְ]][[H7971G\|שָׁלֹ֔חַ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שְׁמַעְתֶּ֖ם]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVITY|CAPTIVITY]] • [[topic FAMINE|FAMINE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.29.18|<< Jeremiah 29:18]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.20|Jeremiah 29:20 >>]]</td></tr></table>
 

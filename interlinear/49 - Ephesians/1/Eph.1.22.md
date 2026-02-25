@@ -1,10 +1,56 @@
+---
+title: Ephesians 1:22
+type: Verse
+kjv: "And hath put all things under his feet, and gave him to be the head over all things to the church,"
+bsb: "And God put everything under His feet and made Him head over everything for the church,"
+greek: "καὶ πάντα ὑπέταξεν ὑπὸ τοὺς πόδας αὐτοῦ καὶ αὐτὸν ἔδωκεν κεφαλὴν ὑπὲρ πάντα τῇ ἐκκλησίᾳ"
+pericope: "[[Eph.1.15 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G5293]]"
+- "[[G5259H]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G2776]]"
+- "[[G5228]]"
+- "[[G1577]]"
+texts:
+- NKO
+---
+
 **Ephesians 1:22**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And hath put all [things] under his feet, and gave him [to be] the head over all [things] to the church,
 <small><sub>**BSB:**</sub></small>
 And God put everything under His feet and made Him head over everything for the church,
-<small><sub>**Literal:**</sub></small>
-And all things He put under the feet of Him and Him gave [to be] head over all things to the church<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.21|<< Ephesians 1:21]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.23|Ephesians 1:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G5293\|ὑπέταξεν]]  [[G5259H\|ὑπὸ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸν]]  [[G1325\|ἔδωκεν]]  [[G2776\|κεφαλὴν]]  [[G5228\|ὑπὲρ]]  [[G3956\|πάντα]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic SALVATION|SALVATION]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.21|<< Ephesians 1:21]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.23|Ephesians 1:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 1:22** is...
 > $\quad$ referencing: [[LXX.Ps.8.6|Ps 8:6]]

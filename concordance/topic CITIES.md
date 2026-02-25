@@ -1,9 +1,9 @@
 
 **CITIES**
 
-→ Ancient [[Gen.4.17|Ge 4:17]]; [[Gen.10.10|10:10]]-[[Gen.10.12|12]]
+→ Ancient [[Gen.4.17|Ge 4:17]]; [[Gen.10.10|10:10-12]]
 
-→ Fortified [[Num.32.36|Nu 32:36]]; [[Deut.9.1|De 9:1]]; [[Josh.10.20|Jos 10:20]]; [[Josh.14.12|14:12]]; [[2Chr.8.5|2Ch 8:5]];  [[2Chr.11.10|11:10]]-[[2Chr.11.12|12]]; [[2Chr.17.2|17:2]],[[2Chr.17.19|19]]; [[2Chr.21.3|21:3]]; [[Isa.23.11|Isa 23:11]]
+→ Fortified [[Num.32.36|Nu 32:36]]; [[Deut.9.1|De 9:1]]; [[Josh.10.20|Jos 10:20]]; [[Josh.14.12|14:12]]; [[2Chr.8.5|2Ch 8:5]];  [[2Chr.11.10|11:10-12]]; [[2Chr.17.2|17:2]],[[2Chr.17.19|19]]; [[2Chr.21.3|21:3]]; [[Isa.23.11|Isa 23:11]]
 
 → Gates of
 
@@ -25,7 +25,7 @@
 
 → See [[topic GOVERNMENT|GOVERNMENT]]
 
-→ Suburbs of [[Num.35.3|Nu 35:3]]-[[Num.35.5|5]]; [[Josh.14.4|Jos 14:4]]
+→ Suburbs of [[Num.35.3|Nu 35:3-5]]; [[Josh.14.4|Jos 14:4]]
 
 → Watchmen of
 

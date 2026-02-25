@@ -1,8 +1,73 @@
+---
+title: Ezekiel 16:13
+type: Verse
+kjv: "Thus wast thou decked with gold and silver; and thy raiment was of fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom."
+bsb: "So you were adorned with gold and silver, and your clothing was made of fine linen, silk, and embroidered cloth. You ate fine flour, honey, and oil. You became very beautiful and rose to be queen."
+hebrew: "וַתַּעְדִּ֞י זָהָ֣ב וָכֶ֗סֶף וּמַלְבּוּשֵׁךְ֙ שֵׁ֤שׁ וָמֶ֙שִׁי֙ וְרִקְמָ֔ה סֹ֧לֶת וּדְבַ֛שׁ וָשֶׁ֖מֶן אָכָ֑לְתְּ וַתִּ֙יפִי֙ בִּמְאֹ֣ד מְאֹ֔ד וַֽתִּצְלְחִ֖י לִמְלוּכָֽה׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BRIDE|BRIDE]]"
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEWELS|JEWELS]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic OIL|OIL]]"
+- "[[topic SILK|SILK]]"
+strongs:
+- "[[H9001]]"
+- "[[H5710B]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H3701G]]"
+- "[[H4403]]"
+- "[[H9022]]"
+- "[[H8336B]]"
+- "[[H4897]]"
+- "[[H7553]]"
+- "[[H5560]]"
+- "[[H1706]]"
+- "[[H8081]]"
+- "[[H0398]]"
+- "[[H3302]]"
+- "[[H9003]]"
+- "[[H3966]]"
+- "[[H6743B]]"
+- "[[H9005]]"
+- "[[H4410]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 16:13**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus wast thou decked with gold and silver; and thy raiment [was of] fine linen, and silk, and broidered work; thou didst eat fine flour, and honey, and oil: and thou wast exceeding beautiful, and thou didst prosper into a kingdom.
 <small><sub>**BSB:**</sub></small>
 So you were adorned with gold and silver, and your clothing was made of fine linen, silk, and embroidered cloth. You ate fine flour, honey, and oil. You became very beautiful and rose to be queen.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5710B\|תַּעְדִּ֞י]] [[H2091\|זָהָ֣ב]] [[H9002\|וָ]][[H3701G\|כֶ֗סֶף]] [[H9002\|וּ]][[H4403\|מַלְבּוּשֵׁ]][[H9022\|ךְ֙]] [[H8336B\|שֵׁ֤שׁ]] [[H9002\|וָ]][[H4897\|מֶ֙שִׁי֙]] [[H9002\|וְ]][[H7553\|רִקְמָ֔ה]] [[H5560\|סֹ֧לֶת]] [[H9002\|וּ]][[H1706\|דְבַ֛שׁ]] [[H9002\|וָ]][[H8081\|שֶׁ֖מֶן]] [[H0398\|אָכָ֑לְתְּ]] [[H9001\|וַ]][[H3302\|תִּ֙יפִי֙]] [[H9003\|בִּ]][[H3966\|מְאֹ֣ד]] [[H3966\|מְאֹ֔ד]] [[H9001\|וַֽ]][[H6743B\|תִּצְלְחִ֖י]] [[H9005\|לִ]][[H4410\|מְלוּכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDE|BRIDE]] • [[topic BRIDEGROOM|BRIDEGROOM]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic FOOD|FOOD]] • [[topic GOD|GOD]] • [[topic JEWELS|JEWELS]] • [[topic LINEN|LINEN]] • [[topic OIL|OIL]] • [[topic SILK|SILK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.12|<< Ezekiel 16:12]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.14|Ezekiel 16:14 >>]]</td></tr></table>
 

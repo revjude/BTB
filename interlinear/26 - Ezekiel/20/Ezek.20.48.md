@@ -1,8 +1,52 @@
+---
+title: Ezekiel 20:48
+type: Verse
+kjv: "And all flesh shall see that I the LORD have kindled it: it shall not be quenched."
+bsb: "Then all people will see that I, the LORD, have kindled it; it will not be quenched.”"
+hebrew: "וְרָאוּ֙ כָּל־ בָּשָׂ֔ר כִּ֛י אֲנִ֥י יְהוָ֖ה בִּֽעַרְתִּ֑יהָ לֹ֖א תִּכְבֶּֽה׃"
+pericope: "[[Ezek.20.45 A Prophecy against the South|A Prophecy against the South]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H1197A]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H3518]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:48**<big><big>[[Ezek.20.45 A Prophecy against the South|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all flesh shall see that I the LORD have kindled it: it shall not be quenched.
 <small><sub>**BSB:**</sub></small>
 Then all people will see that I, the LORD, have kindled it; it will not be quenched.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂ֔ר]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1197A\|בִּֽעַרְתִּ֑י]][[H9034\|הָ]] [[H3808\|לֹ֖א]] [[H3518\|תִּכְבֶּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.47|<< Ezekiel 20:47]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.49|Ezekiel 20:49 >>]]</td></tr></table>
 

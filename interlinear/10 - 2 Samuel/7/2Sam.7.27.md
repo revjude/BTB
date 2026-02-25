@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 7:27
+type: Verse
+kjv: "For thou, O LORD of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee."
+bsb: "For You, O LORD of Hosts, the God of Israel, have revealed this to Your servant when You said, ‘I will build a house for you.’ Therefore Your servant has found the courage to offer this prayer to You."
+hebrew: "כִּֽי־ אַתָּה֩ יְהוָ֨ה צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל גָּלִ֜יתָה אֶת־ אֹ֤זֶן עַבְדְּךָ֙ לֵאמֹ֔ר בַּ֖יִת אֶבְנֶה־ לָּ֑ךְ עַל־ כֵּ֗ן מָצָ֤א עַבְדְּךָ֙ אֶת־ לִבּ֔וֹ לְהִתְפַּלֵּ֣ל אֵלֶ֔יךָ אֶת־ הַתְּפִלָּ֖ה הַזֹּֽאת׃"
+pericope: "[[2Sam.7.18 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H1540H]]"
+- "[[H0853]]"
+- "[[H0241I]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1004B]]"
+- "[[H1129]]"
+- "[[H9032]]"
+- "[[H5921A]]"
+- "[[H3651C]]"
+- "[[H4672]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H6419]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H8605]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:27**<big><big>[[2Sam.7.18 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou, O LORD of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee.
 <small><sub>**BSB:**</sub></small>
 For You, O LORD of Hosts, the God of Israel, have revealed this to Your servant when You said, ‘I will build a house for you.’ Therefore Your servant has found the courage to offer this prayer to You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּה֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H1540H\|גָּלִ֜יתָה]] [[H0853\|אֶת]][[H9014\|־]] [[H0241I\|אֹ֤זֶן]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H1004B\|בַּ֖יִת]] [[H1129\|אֶבְנֶה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9032\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֗ן]] [[H4672\|מָצָ֤א]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H6419\|הִתְפַּלֵּ֣ל]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8605\|תְּפִלָּ֖ה]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.26|<< 2 Samuel 7:26]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.28|2 Samuel 7:28 >>]]</td></tr></table>
 

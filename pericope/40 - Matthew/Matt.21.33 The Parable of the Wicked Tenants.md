@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Wicked Tenants
+type: Pericope
 pericope: "[[Matt.21.33 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 21
 book/chapter: "[[Matt.21|Matthew 21]]"
-genre:
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 14
 verses:
 - "[[Matt.21.33]]"
 - "[[Matt.21.34]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Matt.21.46]]"
 ---
 
-[[Matt.21|Matthew 21:33 - Matthew 21:46]]
+<small>[[Matt.21|Matthew 21:33-46]]</small>
 *The Parable of the Wicked Tenants*
 
 [[Matt.21.33|33]] Hear another parable: There was a certain householder, which planted a vineyard, and hedged it round about, and digged a winepress in it, and built a tower, and let it out to husbandmen, and went into a far country:

@@ -1,10 +1,61 @@
+---
+title: John 4:51
+type: Verse
+kjv: "And as he was now going down, his servants met him, and told him, saying, Thy son liveth."
+bsb: "And while he was still on the way, his servants met him with the news that his boy was alive."
+greek: "ἤδη δὲ αὐτοῦ καταβαίνοντος οἱ δοῦλοι αὐτοῦ ὑπήντησαν αὐτῷ καὶ ἀπήγγειλαν λέγοντες ὅτι ὁ παῖς αὐτοῦ ζῇ."
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NOBLEMAN|NOBLEMAN]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2235]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2597]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G5221]]"
+- "[[G2532]]"
+- "[[G0518]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3816]]"
+- "[[G2198]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **John 4:51**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as he was now going down, his servants met him, and told [him], saying, Thy son liveth.
 <small><sub>**BSB:**</sub></small>
 And while he was still on the way, his servants met him with the news that his boy was alive.
-<small><sub>**Literal:**</sub></small>
-Already then when he is going down the servants of him met with him and reported saying that the boy of him lives.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.50|<< John 4:50]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.52|John 4:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2235\|ἤδη]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G2597\|καταβαίνοντος]]  [[G3588\|οἱ]]  [[G1401\|δοῦλοι]]  [[G0846\|αὐτοῦ]]  [[G5221\|ὑπήντησαν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G0518\|ἀπήγγειλαν]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G3816\|παῖς]]  [[G0846\|αὐτοῦ]]  [[G2198\|ζῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NOBLEMAN|NOBLEMAN]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.50|<< John 4:50]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.52|John 4:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

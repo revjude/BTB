@@ -1,8 +1,55 @@
+---
+title: 2 Chronicles 25:26
+type: Verse
+kjv: "Now the rest of the acts of Amaziah, first and last, behold, are they not written in the book of the kings of Judah and Israel?"
+bsb: "As for the rest of the acts of Amaziah, from beginning to end, are they not written in the Book of the Kings of Judah and Israel?"
+hebrew: "וְיֶ֙תֶר֙ דִּבְרֵ֣י אֲמַצְיָ֔הוּ הָרִאשֹׁנִ֖ים וְהָאַחֲרוֹנִ֑ים הֲלֹא֙ הִנָּ֣ם כְּתוּבִ֔ים עַל־ סֵ֥פֶר מַלְכֵי־ יְהוּדָ֖ה וְיִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.25.25 The Death of Amaziah|The Death of Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H0558G]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0314]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5612H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:26**<big><big>[[2Chr.25.25 The Death of Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Amaziah, first and last, behold, [are] they not written in the book of the kings of Judah and Israel?
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Amaziah, from beginning to end, are they not written in the Book of the Kings of Judah and Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֙תֶר֙]] [[H1697K\|דִּבְרֵ֣י]] [[H0558G\|אֲמַצְיָ֔הוּ]] [[H9009\|הָ]][[H7223G\|רִאשֹׁנִ֖ים]] [[H9002\|וְ]][[H9009\|הָ]][[H0314\|אַחֲרוֹנִ֑ים]] [[H9008\|הֲ]][[H3808\|לֹא֙]] [[H2005\|הִנָּ֣]][[H9048\|ם]] [[H3789\|כְּתוּבִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֥פֶר]] [[H4428G\|מַלְכֵי]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.25|<< 2 Chronicles 25:25]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.27|2 Chronicles 25:27 >>]]</td></tr></table>
 

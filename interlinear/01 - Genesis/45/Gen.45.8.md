@@ -1,8 +1,73 @@
+---
+title: Genesis 45:8
+type: Verse
+kjv: "So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt."
+bsb: "Therefore it was not you who sent me here, but God, who has made me a father to Pharaoh—lord of all his household and ruler over all the land of Egypt."
+hebrew: "וְעַתָּ֗ה לֹֽא־ אַתֶּ֞ם שְׁלַחְתֶּ֤ם אֹתִי֙ הֵ֔נָּה כִּ֖י הָאֱלֹהִ֑ים וַיְשִׂימֵ֨נִֽי לְאָ֜ב לְפַרְעֹ֗ה וּלְאָדוֹן֙ לְכָל־ בֵּית֔וֹ וּמֹשֵׁ֖ל בְּכָל־ אֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Gen.45.1 Joseph Reveals His Identity|Joseph Reveals His Identity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0859D]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H2008]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H6547H]]"
+- "[[H0113]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:8**<big><big>[[Gen.45.1 Joseph Reveals His Identity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So now [it was] not you [that] sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 Therefore it was not you who sent me here, but God, who has made me a father to Pharaoh—lord of all his household and ruler over all the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0859D\|אַתֶּ֞ם]] [[H7971G\|שְׁלַחְתֶּ֤ם]] [[H0853\|אֹתִ]][[H9030\|י֙]] [[H2008\|הֵ֔נָּה]] [[H3588A\|כִּ֖י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H7760A\|יְשִׂימֵ֨]][[H9030\|נִֽי]] [[H9005\|לְ]][[H0001G\|אָ֜ב]] [[H9005\|לְ]][[H6547H\|פַרְעֹ֗ה]] [[H9002\|וּ]][[H9005\|לְ]][[H0113\|אָדוֹן֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H4910\|מֹשֵׁ֖ל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic JOSEPH|JOSEPH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.7|<< Genesis 45:7]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.9|Genesis 45:9 >>]]</td></tr></table>
 

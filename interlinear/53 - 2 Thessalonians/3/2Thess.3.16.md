@@ -1,10 +1,54 @@
+---
+title: 2 Thessalonians 3:16
+type: Verse
+kjv: "Now the Lord of peace himself give you peace always by all means. The Lord be with you all."
+bsb: "Now may the Lord of peace Himself give you peace at all times and in every way. The Lord be with all of you."
+greek: "Αὐτὸς δὲ ὁ κύριος τῆς εἰρήνης δῴη ὑμῖν τὴν εἰρήνην διὰ παντὸς ἐν παντὶ τρόπῳ. ὁ κύριος μετὰ πάντων ὑμῶν.¶"
+pericope: "[[2Thess.3.16 Signature and Final Greetings|Signature and Final Greetings]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 3
+book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1515]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G5158]]"
+- "[[G3326]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 3:16**<big><big>[[2Thess.3.16 Signature and Final Greetings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now the Lord of peace himself give you peace always by all means. The Lord [be] with you all.
 <small><sub>**BSB:**</sub></small>
 Now may the Lord of peace Himself give you peace at all times and in every way. The Lord be with all of you.
-<small><sub>**Literal:**</sub></small>
-Himself now the Lord <the> of peace would give you <the> peace through all [times] in every way. The Lord [be] with all of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.15|<< 2 Thessalonians 3:15]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.17|2 Thessalonians 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|Αὐτὸς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τῆς]]  [[G1515\|εἰρήνης]]  [[G1325\|δῴη]]  [[G4771\|ὑμῖν]]  [[G3588\|τὴν]]  [[G1515\|εἰρήνην]]  [[G1223\|διὰ]]  [[G3956\|παντὸς]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G5158\|τρόπῳ.]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3326\|μετὰ]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PEACE|PEACE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.15|<< 2 Thessalonians 3:15]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.17|2 Thessalonians 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

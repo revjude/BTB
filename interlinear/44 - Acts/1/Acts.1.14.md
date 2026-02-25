@@ -1,10 +1,63 @@
+---
+title: Acts 1:14
+type: Verse
+kjv: "These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren."
+bsb: "With one accord they all continued in prayer, along with the women and Mary the mother of Jesus, and with His brothers."
+greek: "Οὗτοι πάντες ἦσαν προσκαρτεροῦντες ὁμοθυμαδὸν τῇ προσευχῇ καὶ τῇ δεήσει σὺν γυναιξὶν καὶ Μαριὰμ τῇ μητρὶ τοῦ Ἰησοῦ καὶ σὺν τοῖς ἀδελφοῖς αὐτοῦ.¶"
+pericope: "[[Acts.1.12 Matthias Replaces Judas|Matthias Replaces Judas]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic MARY|MARY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic THOMAS|THOMAS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G3778]]"
+- "[[G3956]]"
+- "[[G1510]]"
+- "[[G4342]]"
+- "[[G3661]]"
+- "[[G3588]]"
+- "[[G4335]]"
+- "[[G2532]]"
+- "[[G1162]]"
+- "[[G4862]]"
+- "[[G1135G]]"
+- "[[G3137G]]"
+- "[[G3384]]"
+- "[[G2424G]]"
+- "[[G0080]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+- ko
+---
+
 **Acts 1:14**<big><big>[[Acts.1.12 Matthias Replaces Judas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 These all continued with one accord in prayer and supplication, with the women, and Mary the mother of Jesus, and with his brethren.
 <small><sub>**BSB:**</sub></small>
 With one accord they all continued in prayer, along with the women and Mary the mother of Jesus, and with His brothers.
-<small><sub>**Literal:**</sub></small>
-These all were steadfastly continuing with one accord <the> in prayer and <the> in supplication with the [the] women and Mary with the mother <the> of Jesus and with the brothers of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.13|<< Acts 1:13]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.15|Acts 1:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Οὗτοι]]  [[G3956\|πάντες]]  [[G1510\|ἦσαν]]  [[G4342\|προσκαρτεροῦντες]]  [[G3661\|ὁμοθυμαδὸν]]  [[G3588\|τῇ]]  [[G4335\|προσευχῇ]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G1162\|δεήσει]]  [[G4862\|σὺν]]  [[G1135G\|γυναιξὶν]]  [[G2532\|καὶ]]  [[G3137G\|Μαριὰμ]]  [[G3588\|τῇ]]  [[G3384\|μητρὶ]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G2532\|καὶ]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G0080\|ἀδελφοῖς]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOUSE|HOUSE]] • [[topic MARY|MARY]] • [[topic PRAYER|PRAYER]] • [[topic THOMAS|THOMAS]] • [[topic WOMEN|WOMEN]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.13|<< Acts 1:13]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.15|Acts 1:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

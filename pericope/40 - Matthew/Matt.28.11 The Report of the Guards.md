@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Report of the Guards
+type: Pericope
 pericope: "[[Matt.28.11 The Report of the Guards|The Report of the Guards]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 28
 book/chapter: "[[Matt.28|Matthew 28]]"
-genre:
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.28.11]]"
 - "[[Matt.28.12]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.28.15]]"
 ---
 
-[[Matt.28|Matthew 28:11 - Matthew 28:15]]
+<small>[[Matt.28|Matthew 28:11-15]]</small>
 *The Report of the Guards*
 
 [[Matt.28.11|11]] Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done.

@@ -1,8 +1,74 @@
+---
+title: 2 Samuel 17:11
+type: Verse
+kjv: "Therefore I counsel that all Israel be generally gathered unto thee, from Dan even to Beersheba, as the sand that is by the sea for multitude; and that thou go to battle in thine own person."
+bsb: "Instead, I advise that all Israel from Dan to Beersheba—a multitude like the sand on the seashore—be gathered to you, and that you yourself lead them into battle."
+hebrew: "כִּ֣י יָעַ֗צְתִּי הֵ֠אָסֹף יֵאָסֵ֨ף עָלֶ֤יךָ כָל־ יִשְׂרָאֵל֙ מִדָּן֙ וְעַד־ בְּאֵ֣ר שֶׁ֔בַע כַּח֥וֹל אֲשֶׁר־ עַל־ הַיָּ֖ם לָרֹ֑ב וּפָנֶ֥יךָ הֹלְכִ֖ים בַּקְרָֽב׃"
+pericope: "[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|Hushai Counters Ahithophel’s Advice]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic SPIES|SPIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3289]]"
+- "[[H0622]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H1835G]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0884]]"
+- "[[H9004]]"
+- "[[H2344]]"
+- "[[H0834A]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H6440L]]"
+- "[[H9021]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H7128]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:11**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I counsel that all Israel be generally gathered unto thee, from Dan even to Beersheba, as the sand that [is] by the sea for multitude; and that thou go to battle in thine own person.
 <small><sub>**BSB:**</sub></small>
 Instead, I advise that all Israel from Dan to Beersheba—a multitude like the sand on the seashore—be gathered to you, and that you yourself lead them into battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3289\|יָעַ֗צְתִּי]] [[H0622\|הֵ֠אָסֹף]] [[H0622\|יֵאָסֵ֨ף]] [[H5921A\|עָלֶ֤י]][[H9031\|ךָ]] [[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9006\|מִ]][[H1835G\|דָּן֙]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0884\|בְּאֵ֣ר]] [[H0884\|שֶׁ֔בַע]] [[H9004\|כַּ]][[H2344\|ח֥וֹל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9005\|לָ]][[H7230\|רֹ֑ב]] [[H9002\|וּ]][[H6440L\|פָנֶ֥י]][[H9021\|ךָ]] [[H1980G\|הֹלְכִ֖ים]] [[H9003\|בַּ]][[H7128\|קְרָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic ARMIES|ARMIES]] • [[topic COUNCIL|COUNCIL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic SPIES|SPIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.10|<< 2 Samuel 17:10]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.12|2 Samuel 17:12 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Psalm 104:29
+type: Verse
+kjv: "Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust."
+bsb: "When You hide Your face, they are terrified; when You take away their breath, they die and return to dust."
+hebrew: "תַּסְתִּ֥יר פָּנֶיךָ֮ יִֽבָּהֵ֫ל֥וּן תֹּסֵ֣ף ר֭וּחָם יִגְוָע֑וּן וְֽאֶל־ עֲפָרָ֥ם יְשׁוּבֽוּן׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H5641]]"
+- "[[H6440H]]"
+- "[[H9021]]"
+- "[[H0926]]"
+- "[[H9013]]"
+- "[[H0622]]"
+- "[[H7307H]]"
+- "[[H9028]]"
+- "[[H1478]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6083]]"
+- "[[H7725G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:29**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.
 <small><sub>**BSB:**</sub></small>
 When You hide Your face, they are terrified; when You take away their breath, they die and return to dust.
+<small><sub>**Hebrew:**</sub></small>
+[[H5641\|תַּסְתִּ֥יר]] [[H6440H\|פָּנֶי]][[H9021\|ךָ֮]] [[H0926\|יִֽבָּהֵ֫ל֥וּ]][[H9013\|ן]] [[H0622\|תֹּסֵ֣ף]] [[H7307H\|ר֭וּחָ]][[H9028\|ם]] [[H1478\|יִגְוָע֑וּ]][[H9013\|ן]] [[H9002\|וְֽ]][[H0413\|אֶל]][[H9014\|־]] [[H6083\|עֲפָרָ֥]][[H9028\|ם]] [[H7725G\|יְשׁוּבֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CORRUPTION|CORRUPTION]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.28|<< Psalms 104:28]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.30|Psalms 104:30 >>]]</td></tr></table>
 

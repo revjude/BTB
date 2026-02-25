@@ -1,8 +1,64 @@
+---
+title: Isaiah 4:2
+type: Verse
+kjv: "In that day shall the branch of the LORD be beautiful and glorious, and the fruit of the earth shall be excellent and comely for them that are escaped of Israel."
+bsb: "On that day the Branch of the LORD will be beautiful and glorious, and the fruit of the land will be the pride and glory of Israel’s survivors."
+hebrew: "בַּיּ֣וֹם הַה֗וּא יִֽהְיֶה֙ צֶ֣מַח יְהוָ֔ה לִצְבִ֖י וּלְכָב֑וֹד וּפְרִ֤י הָאָ֙רֶץ֙ לְגָא֣וֹן וּלְתִפְאֶ֔רֶת לִפְלֵיטַ֖ת יִשְׂרָאֵֽל׃"
+pericope: "[[Isa.4.1 A Remnant in Zion|A Remnant in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 4
+book/chapter: "[[Isa.4|Isaiah 4]]"
+chronological_order: 612
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BRANCH|BRANCH]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H6780]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H6643A]]"
+- "[[H9002]]"
+- "[[H3519]]"
+- "[[H6529]]"
+- "[[H0776G]]"
+- "[[H1347]]"
+- "[[H8597]]"
+- "[[H6413]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 4:2**<big><big>[[Isa.4.1 A Remnant in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall the branch of the LORD be beautiful and glorious, and the fruit of the earth [shall be] excellent and comely for them that are escaped of Israel.
 <small><sub>**BSB:**</sub></small>
 On that day the Branch of the LORD will be beautiful and glorious, and the fruit of the land will be the pride and glory of Israel’s survivors.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H1961\|יִֽהְיֶה֙]] [[H6780\|צֶ֣מַח]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לִ]][[H6643A\|צְבִ֖י]] [[H9002\|וּ]][[H9005\|לְ]][[H3519\|כָב֑וֹד]] [[H9002\|וּ]][[H6529\|פְרִ֤י]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H9005\|לְ]][[H1347\|גָא֣וֹן]] [[H9002\|וּ]][[H9005\|לְ]][[H8597\|תִפְאֶ֔רֶת]] [[H9005\|לִ]][[H6413\|פְלֵיטַ֖ת]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRANCH|BRANCH]] • [[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.4.1|<< Isaiah 4:1]]</td><td align="center" style="border:none;">[[Isa.4|Isaiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.4.3|Isaiah 4:3 >>]]</td></tr></table>
 

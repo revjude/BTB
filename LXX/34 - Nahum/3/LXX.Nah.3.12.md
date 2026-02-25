@@ -1,6 +1,45 @@
+---
+title: LXX Nahum 3:12
+type: Verse
+lxx: "All  your fortresses are as you, having fruits, and if they should be shaken, they shall fall into the mouth of ones eating."
+greek: "πάντα τα οχυρώματά σου ως σου καρπούς έχουσα εάν σαλευθώσι πεσούνται εις στόμα έσθοντος"
+original_language: Greek
+testament: Old
+book: Nahum
+chapter: 3
+book/chapter: "[[Nah.3|Nahum 3]]"
+chronological_order: 710
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3794]]"
+- "[[G1473]]"
+- "[[G5613]]"
+- "[[G1473]]"
+- "[[G2590]]"
+- "[[G2192]]"
+- "[[G1437]]"
+- "[[G4531]]"
+- "[[G4098]]"
+- "[[G1519]]"
+- "[[G4750]]"
+- "[[G2068]]"
+---
+
 **LXX Nahum 3:12** 
 <small><sub>**LXX:**</sub></small>
 All  your fortresses \[are\] as you, having fruits, \[and\] if they should be shaken, they shall fall into \[the\] mouth of ones eating. 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντα]] [[G3588\|τα]] [[G3794\|οχυρώματά]] [[G1473\|σου]] [[G5613\|ως]] [[G1473\|σου]] [[G2590\|καρπούς]] [[G2192\|έχουσα]] [[G1437\|εάν]] [[G4531\|σαλευθώσι]] [[G4098\|πεσούνται]] [[G1519\|εις]] [[G4750\|στόμα]] [[G2068\|έσθοντος]]
 <small><sub>**MT:**</sub></small>
 [[Nah.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.11|<< Nahum 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.13|Nahum 3:13 >>]]</td></tr></table>
 
@@ -19,6 +58,6 @@ All  your fortresses \[are\] as you, having fruits, \[and\] if they should be sh
 | into | **<big>[[G1519\|εις]]</big>** |
 | \[the\] mouth | **<big>[[G4750\|στόμα]]</big>** |
 | of ones eating. | **<big>[[G2068\|έσθοντος]]</big>** |
-[[Nah.3.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.11|<< Nahum 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.13|Nahum 3:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Nah.3.11|<< Nahum 3:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Nah.3.13|Nahum 3:13 >>]]</td></tr></table>
 
 

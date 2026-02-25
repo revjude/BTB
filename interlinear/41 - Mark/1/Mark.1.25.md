@@ -1,10 +1,53 @@
+---
+title: Mark 1:25
+type: Verse
+kjv: "And Jesus rebuked him, saying, Hold thy peace, and come out of him."
+bsb: "But Jesus rebuked the spirit. “Be silent!” He said. “Come out of him!”"
+jesus_said: "Hold thy peace, and come out of him."
+greek: "καὶ ἐπετίμησεν αὐτῷ ὁ Ἰησοῦς λέγων· φιμώθητι καὶ ἔξελθε ἐξ αὐτοῦ."
+pericope: "[[Mark.1.21 Jesus Expels an Unclean Spirit|Jesus Expels an Unclean Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2008]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G5392]]"
+- "[[G1831]]"
+- "[[G1537]]"
+texts:
+- NKO
+---
+
 **Mark 1:25**<big><big>[[Mark.1.21 Jesus Expels an Unclean Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus rebuked him, saying, Hold thy peace, and come out of him.
 <small><sub>**BSB:**</sub></small>
 But Jesus rebuked the spirit. “Be silent!” He said. “Come out of him!”
-<small><sub>**Literal:**</sub></small>
-And rebuked him <the> Jesus saying: do be silent and do come forth out of him!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.24|<< Mark 1:24]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.26|Mark 1:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2008\|ἐπετίμησεν]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγων·]]  [[G5392\|φιμώθητι]]  [[G2532\|καὶ]]  [[G1831\|ἔξελθε]]  [[G1537\|ἐξ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.24|<< Mark 1:24]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.26|Mark 1:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

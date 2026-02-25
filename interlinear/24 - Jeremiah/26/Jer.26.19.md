@@ -1,8 +1,81 @@
+---
+title: Jeremiah 26:19
+type: Verse
+kjv: "Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the LORD, and besought the LORD, and the LORD repented him of the evil which he had pronounced against them? Thus might we procure great evil against our souls."
+bsb: "Did Hezekiah king of Judah or anyone else in Judah put him to death? Did Hezekiah not fear the LORD and seek His favor, and did not the LORD relent of the disaster He had pronounced against them? But we are about to bring great harm on ourselves!”"
+hebrew: "הֶהָמֵ֣ת הֱ֠מִתֻהוּ חִזְקִיָּ֨הוּ מֶֽלֶךְ־ יְהוּדָ֜ה וְכָל־ יְהוּדָ֗ה הֲלֹא֮ יָרֵ֣א אֶת־ יְהוָה֒ וַיְחַל֙ אֶת־ פְּנֵ֣י יְהוָ֔ה וַיִּנָּ֣חֶם יְהוָ֔ה אֶל־ הָרָעָ֖ה אֲשֶׁר־ דִּבֶּ֣ר עֲלֵיהֶ֑ם וַאֲנַ֗חְנוּ עֹשִׂ֛ים רָעָ֥ה גְדוֹלָ֖ה עַל־ נַפְשׁוֹתֵֽינוּ׃"
+pericope: "[[Jer.26.16 Jeremiah Spared from Death|Jeremiah Spared from Death]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 26
+book/chapter: "[[Jer.26|Jeremiah 26]]"
+chronological_order: 749
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic INDICTMENTS|INDICTMENTS]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9008]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H2396G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3808]]"
+- "[[H3372G]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H2470B]]"
+- "[[H6440L]]"
+- "[[H5162H]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0587]]"
+- "[[H6213A]]"
+- "[[H1419A]]"
+- "[[H5315I]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 26:19**<big><big>[[Jer.26.16 Jeremiah Spared from Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the LORD, and besought the LORD, and the LORD repented him of the evil which he had pronounced against them? Thus might we procure great evil against our souls.
 <small><sub>**BSB:**</sub></small>
 Did Hezekiah king of Judah or anyone else in Judah put him to death? Did Hezekiah not fear the LORD and seek His favor, and did not the LORD relent of the disaster He had pronounced against them? But we are about to bring great harm on ourselves!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֶ]][[H4191\|הָמֵ֣ת]] [[H4191\|הֱ֠מִתֻ]][[H9033\|הוּ]] [[H2396G\|חִזְקִיָּ֨הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֜ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H9008\|הֲ]][[H3808\|לֹא֮]] [[H3372G\|יָרֵ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָה֒]] [[H9001\|וַ]][[H2470B\|יְחַל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6440L\|פְּנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H5162H\|יִּנָּ֣חֶם]] [[H3068G\|יְהוָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָ֖ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696I\|דִּבֶּ֣ר]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H9002\|וַ]][[H0587\|אֲנַ֗חְנוּ]] [[H6213A\|עֹשִׂ֛ים]] [[H7451C\|רָעָ֥ה]] [[H1419A\|גְדוֹלָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5315I\|נַפְשׁוֹתֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic INDICTMENTS|INDICTMENTS]] • [[topic MICAH|MICAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.18|<< Jeremiah 26:18]]</td><td align="center" style="border:none;">[[Jer.26|Jeremiah 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.26.20|Jeremiah 26:20 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Lazarus
+type: Pericope
 pericope: "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: John
 chapter: 11
 book/chapter: "[[John.11|John 11]]"
-genre:
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 16
 verses:
 - "[[John.11.1]]"
 - "[[John.11.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[John.11.16]]"
 ---
 
-[[John.11|John 11:1 - John 11:16]]
+<small>[[John.11|John 11:1-16]]</small>
 *The Death of Lazarus*
 
 [[John.11.1|1]] Now a certain \[man\] was sick, \[named\] Lazarus, of Bethany, the town of Mary and her sister Martha.

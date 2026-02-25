@@ -1,10 +1,62 @@
+---
+title: James 2:8
+type: Verse
+kjv: "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+bsb: "If you really fulfill the royal law stated in Scripture, “Love your neighbor as yourself,” you are doing well."
+greek: "εἰ μέντοι νόμον τελεῖτε βασιλικὸν κατὰ τὴν γραφήν· ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν, καλῶς ποιεῖτε·"
+pericope: "[[Jas.2.1 A Warning against Favoritism|A Warning against Favoritism]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic POOR|POOR]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RESPECT OF PERSONS|RESPECT OF PERSONS]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3305]]"
+- "[[G3551]]"
+- "[[G5055]]"
+- "[[G0937]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G0025]]"
+- "[[G4139]]"
+- "[[G4771]]"
+- "[[G5613]]"
+- "[[G2573]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **James 2:8**<big><big>[[Jas.2.1 A Warning against Favoritism|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:
 <small><sub>**BSB:**</sub></small>
 If you really fulfill the royal law stated in Scripture, “Love your neighbor as yourself,” you are doing well.
-<small><sub>**Literal:**</sub></small>
-If indeed [the] law you keep royal according to the Scripture; You will love the neighbour of you as yourself, well you are doing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.7|<< James 2:7]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.9|James 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3305\|μέντοι]]  [[G3551\|νόμον]]  [[G5055\|τελεῖτε]]  [[G0937\|βασιλικὸν]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G1124\|γραφήν·]]  [[G0025\|ἀγαπήσεις]]  [[G3588\|τὸν]]  [[G4139\|πλησίον]]  [[G4771\|σου]]  [[G5613\|ὡς]]  [[G4771\|σεαυτόν,]]  [[G2573\|καλῶς]]  [[G4160G\|ποιεῖτε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAITH|FAITH]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic POOR|POOR]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic RESPECT OF PERSONS|RESPECT OF PERSONS]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.7|<< James 2:7]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.9|James 2:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **James 2:8** is...
 > $\quad$ referencing: [[LXX.Lev.19.18|Lev 19:18]]

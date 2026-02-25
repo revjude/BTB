@@ -1,8 +1,71 @@
+---
+title: Leviticus 9:18
+type: Verse
+kjv: "He slew also the bullock and the ram for a sacrifice of peace offerings, which was for the people: and Aaron’s sons presented unto him the blood, which he sprinkled upon the altar round about,"
+bsb: "Then he slaughtered the ox and the ram as the people’s peace offering. His sons brought him the blood, and he splattered it on all sides of the altar."
+hebrew: "וַיִּשְׁחַ֤ט אֶת־ הַשּׁוֹר֙ וְאֶת־ הָאַ֔יִל זֶ֥בַח הַשְּׁלָמִ֖ים אֲשֶׁ֣ר לָעָ֑ם וַ֠יַּמְצִאוּ בְּנֵ֨י אַהֲרֹ֤ן אֶת־ הַדָּם֙ אֵלָ֔יו וַיִּזְרְקֵ֥הוּ עַל־ הַמִּזְבֵּ֖חַ סָבִֽיב׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7819A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7794]]"
+- "[[H9002]]"
+- "[[H0352A]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H4672]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H1818]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2236]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H5439H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:18**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He slew also the bullock and the ram [for] a sacrifice of peace offerings, which [was] for the people: and Aaron’s sons presented unto him the blood, which he sprinkled upon the altar round about,
 <small><sub>**BSB:**</sub></small>
 Then he slaughtered the ox and the ram as the people’s peace offering. His sons brought him the blood, and he splattered it on all sides of the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7819A\|יִּשְׁחַ֤ט]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7794\|שּׁוֹר֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אַ֔יִל]] [[H2077\|זֶ֥בַח]] [[H9009\|הַ]][[H8002\|שְּׁלָמִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ֠]][[H4672\|יַּמְצִאוּ]] [[H1121A\|בְּנֵ֨י]] [[H0175\|אַהֲרֹ֤ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּם֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9001\|וַ]][[H2236\|יִּזְרְקֵ֥]][[H9033\|הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H5439H\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic ISRAEL|ISRAEL]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.17|<< Leviticus 9:17]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.19|Leviticus 9:19 >>]]</td></tr></table>
 

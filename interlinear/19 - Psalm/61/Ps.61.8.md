@@ -1,8 +1,57 @@
+---
+title: Psalm 61:8
+type: Verse
+kjv: "So will I sing praise unto thy name for ever, that I may daily perform my vows."
+bsb: "Then I will ever sing praise to Your name and fulfill my vows day by day."
+hebrew: "כֵּ֤ן אֲזַמְּרָ֣ה שִׁמְךָ֣ לָעַ֑ד לְֽשַׁלְּמִ֥י נְדָרַ֗י י֣וֹם׀ יֽוֹם׃"
+pericope: "[[Ps.61.1 You Have Heard My Vows|You Have Heard My Vows]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 61
+book/chapter: "[[Ps.61|Psalm 61]]"
+chronological_order: 372
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H3651C]]"
+- "[[H2167]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5703]]"
+- "[[H7999A]]"
+- "[[H9030]]"
+- "[[H5088]]"
+- "[[H9020]]"
+- "[[H3117J]]"
+- "[[H9015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 61:8**<big><big>[[Ps.61.1 You Have Heard My Vows|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So will I sing praise unto thy name for ever, that I may daily perform my vows.
 <small><sub>**BSB:**</sub></small>
 Then I will ever sing praise to Your name and fulfill my vows day by day.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֤ן]] [[H2167\|אֲזַמְּרָ֣ה]] [[H8034\|שִׁמְ]][[H9021\|ךָ֣]] [[H9005\|לָ]][[H5703\|עַ֑ד]] [[H9005\|לְֽ]][[H7999A\|שַׁלְּמִ֥]][[H9030\|י]] [[H5088\|נְדָרַ֗]][[H9020\|י]] [[H3117J\|י֣וֹם]][[H9015\|׀]] [[H3117J\|יֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.61.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.61.7|<< Psalms 61:7]]</td><td align="center" style="border:none;">[[Ps.61|Psalms 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.0|Psalms 62:0 >>]]</td></tr></table>
 

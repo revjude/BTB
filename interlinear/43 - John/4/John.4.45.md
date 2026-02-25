@@ -1,10 +1,61 @@
+---
+title: John 4:45
+type: Verse
+kjv: "Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast."
+bsb: "Yet when He arrived, the Galileans welcomed Him. They had seen all the great things He had done in Jerusalem at the feast, for they had gone there as well."
+greek: "Ὅτε οὖν ἦλθεν εἰς τὴν Γαλιλαίαν, ἐδέξαντο αὐτὸν οἱ Γαλιλαῖοι πάντα ἑωρακότες ὅσα ἐποίησεν ἐν Ἱεροσολύμοις ἐν τῇ ἑορτῇ· καὶ αὐτοὶ γὰρ ἦλθον εἰς τὴν ἑορτήν.¶"
+pericope: "[[John.4.43 Jesus Heals the Official’s Son|Jesus Heals the Official’s Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3753]]"
+- "[[G3767]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1056G]]"
+- "[[G1209]]"
+- "[[G0846]]"
+- "[[G1057]]"
+- "[[G3956]]"
+- "[[G3708]]"
+- "[[G3745]]"
+- "[[G4160G]]"
+- "[[G1722]]"
+- "[[G2414]]"
+- "[[G1859]]"
+- "[[G2532]]"
+- "[[G1063]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 4:45**<big><big>[[John.4.43 Jesus Heals the Official’s Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.
 <small><sub>**BSB:**</sub></small>
 Yet when He arrived, the Galileans welcomed Him. They had seen all the great things He had done in Jerusalem at the feast, for they had gone there as well.
-<small><sub>**Literal:**</sub></small>
-When therefore He came into <the> Galilee, received Him the Galileans all things having seen how much He had done in Jerusalem during the feast; also themselves for they had gone to the feast.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.44|<< John 4:44]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.46|John 4:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|Ὅτε]]  [[G3767\|οὖν]]  [[G2064\|ἦλθεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1056G\|Γαλιλαίαν,]]  [[G1209\|ἐδέξαντο]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G1057\|Γαλιλαῖοι]]  [[G3956\|πάντα]]  [[G3708\|ἑωρακότες]]  [[G3745\|ὅσα]]  [[G4160G\|ἐποίησεν]]  [[G1722\|ἐν]]  [[G2414\|Ἱεροσολύμοις]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1859\|ἑορτῇ·]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G1063\|γὰρ]]  [[G2064\|ἦλθον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1859\|ἑορτήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.44|<< John 4:44]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.46|John 4:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

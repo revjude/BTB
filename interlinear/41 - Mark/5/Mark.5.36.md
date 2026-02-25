@@ -1,10 +1,61 @@
+---
+title: Mark 5:36
+type: Verse
+kjv: "As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe."
+bsb: "But Jesus overheard their conversation and said to Jairus, “Do not be afraid; just believe.”"
+jesus_said: "Be not afraid, only believe."
+greek: "Ὁ δὲ Ἰησοῦς εὐθέως παρακούσας τὸν λόγον λαλούμενον λέγει τῷ ἀρχισυναγώγῳ· μὴ φοβοῦ, μόνον πίστευε."
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2112]]"
+- "[[G3878]]"
+- "[[G3056]]"
+- "[[G2980]]"
+- "[[G3004G]]"
+- "[[G0752]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G3441]]"
+- "[[G4100]]"
+texts:
+- NKO
+- K
+- N(K)O
+---
+
 **Mark 5:36**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.
 <small><sub>**BSB:**</sub></small>
 But Jesus overheard their conversation and said to Jairus, “Do not be afraid; just believe.”
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus immediately having ignored the word spoken He says to the ruler of the synagogue; Not do fear, only do believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.35|<< Mark 5:35]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.37|Mark 5:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2112\|εὐθέως]]  [[G3878\|παρακούσας]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G2980\|λαλούμενον]]  [[G3004G\|λέγει]]  [[G3588\|τῷ]]  [[G0752\|ἀρχισυναγώγῳ·]]  [[G3361\|μὴ]]  [[G5399\|φοβοῦ,]]  [[G3441\|μόνον]]  [[G4100\|πίστευε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FAITH|FAITH]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.35|<< Mark 5:35]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.37|Mark 5:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

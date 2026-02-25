@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hushai Counters Ahithophel’s Advice
+type: Pericope
 pericope: "[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|Hushai Counters Ahithophel’s Advice]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 17
 book/chapter: "[[2Sam.17|2 Samuel 17]]"
-genre:
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 14
 verses:
 - "[[2Sam.17.1]]"
 - "[[2Sam.17.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Sam.17.14]]"
 ---
 
-[[2Sam.17|2 Samuel 17:1 - 2 Samuel 17:14]]
+<small>[[2Sam.17|2 Samuel 17:1-14]]</small>
 *Hushai Counters Ahithophel’s Advice*
 
 [[2Sam.17.1|1]] Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:

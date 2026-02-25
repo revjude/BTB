@@ -1,8 +1,72 @@
+---
+title: Joshua 9:6
+type: Verse
+kjv: "And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make ye a league with us."
+bsb: "They went to Joshua in the camp at Gilgal and said to him and the men of Israel, “We have come from a distant land; please make a treaty with us.”"
+hebrew: "וַיֵּלְכ֧וּ אֶל־ יְהוֹשֻׁ֛עַ אֶל־ הַֽמַּחֲנֶ֖ה הַגִּלְגָּ֑ל וַיֹּאמְר֨וּ אֵלָ֜יו וְאֶל־ אִ֣ישׁ יִשְׂרָאֵ֗ל מֵאֶ֤רֶץ רְחוֹקָה֙ בָּ֔אנוּ וְעַתָּ֖ה כִּרְתוּ־ לָ֥נוּ בְרִֽית׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H1537G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H7350]]"
+- "[[H0935G]]"
+- "[[H6258]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:6**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make ye a league with us.
 <small><sub>**BSB:**</sub></small>
 They went to Joshua in the camp at Gilgal and said to him and the men of Israel, “We have come from a distant land; please make a treaty with us.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּלְכ֧וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֛עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H9009\|הַ]][[H1537G\|גִּלְגָּ֑ל]] [[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9006\|מֵ]][[H0776G\|אֶ֤רֶץ]] [[H7350\|רְחוֹקָה֙]] [[H0935G\|בָּ֔אנוּ]] [[H9002\|וְ]][[H6258\|עַתָּ֖ה]] [[H3772H\|כִּרְתוּ]][[H9014\|־]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H1285\|בְרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic CONTRACTS|CONTRACTS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic GILGAL|GILGAL]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.5|<< Joshua 9:5]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.7|Joshua 9:7 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Contributions for Worship
+type: Pericope
 pericope: "[[2Chr.31.3 Contributions for Worship|Contributions for Worship]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 31
 book/chapter: "[[2Chr.31|2 Chronicles 31]]"
-genre:
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 8
 verses:
 - "[[2Chr.31.3]]"
 - "[[2Chr.31.4]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Chr.31.10]]"
 ---
 
-[[2Chr.31|2 Chronicles 31:3 - 2 Chronicles 31:10]]
+<small>[[2Chr.31|2 Chronicles 31:3-10]]</small>
 *Contributions for Worship*
 
 [[2Chr.31.3|3]] \[He appointed\] also the king’s portion of his substance for the burnt offerings, \[to wit\], for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as \[it is\] written in the law of the LORD.

@@ -1,10 +1,57 @@
+---
+title: Mark 5:22
+type: Verse
+kjv: "And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,"
+bsb: "A synagogue leader named Jairus arrived, and seeing Jesus, he fell at His feet"
+greek: "Καὶ ἰδού ἔρχεται εἷς τῶν ἀρχισυναγώγων, ὀνόματι Ἰάϊρος· καὶ ἰδὼν αὐτὸν πίπτει πρὸς τοὺς πόδας αὐτοῦ"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SALUTATIONS|SALUTATIONS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G2064]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G0752]]"
+- "[[G3686]]"
+- "[[G2383]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G4098]]"
+- "[[G4314]]"
+- "[[G4228]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 5:22**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, there cometh one of the rulers of the synagogue, Jairus by name; and when he saw him, he fell at his feet,
 <small><sub>**BSB:**</sub></small>
 A synagogue leader named Jairus arrived, and seeing Jesus, he fell at His feet
-<small><sub>**Literal:**</sub></small>
-And behold comes one of the synagogue rulers, named Jairus; and having seen Him he falls at the feet of Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.21|<< Mark 5:21]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.23|Mark 5:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2400\|ἰδού]]  [[G2064\|ἔρχεται]]  [[G1520\|εἷς]]  [[G3588\|τῶν]]  [[G0752\|ἀρχισυναγώγων,]]  [[G3686\|ὀνόματι]]  [[G2383\|Ἰάϊρος·]]  [[G2532\|καὶ]]  [[G1492H\|ἰδὼν]]  [[G0846\|αὐτὸν]]  [[G4098\|πίπτει]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G0846\|αὐτοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SALUTATIONS|SALUTATIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.21|<< Mark 5:21]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.23|Mark 5:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

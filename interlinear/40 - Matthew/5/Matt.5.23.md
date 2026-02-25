@@ -1,10 +1,66 @@
+---
+title: Matthew 5:23
+type: Verse
+kjv: "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;"
+bsb: "So if you are offering your gift at the altar and there remember that your brother has something against you,"
+jesus_said: "Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;"
+greek: "Ἐὰν οὖν προσφέρῃς τὸ δῶρόν σου ἐπὶ τὸ θυσιαστήριον κἀκεῖ κἀκεῖ μνησθῇς ὅτι ὁ ἀδελφός σου ἔχει τι κατὰ σοῦ,"
+pericope: "[[Matt.5.21 Anger and Reconciliation|Anger and Reconciliation]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RECONCILIATION|RECONCILIATION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1437]]"
+- "[[G3767]]"
+- "[[G4374]]"
+- "[[G3588]]"
+- "[[G1435]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G2379]]"
+- "[[G2532]]"
+- "[[G1563]]"
+- "[[G3403]]"
+- "[[G3754G]]"
+- "[[G0080]]"
+- "[[G2192]]"
+- "[[G5100]]"
+- "[[G2596]]"
+texts:
+- NKO
+---
+
 **Matthew 5:23**<big><big>[[Matt.5.21 Anger and Reconciliation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore if thou bring thy gift to the altar, and there rememberest that thy brother hath ought against thee;
 <small><sub>**BSB:**</sub></small>
 So if you are offering your gift at the altar and there remember that your brother has something against you,
-<small><sub>**Literal:**</sub></small>
-If therefore you shall offer the gift of you at the altar and there shall remember that the brother of you has something against you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.22|<< Matthew 5:22]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.24|Matthew 5:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|Ἐὰν]]  [[G3767\|οὖν]]  [[G4374\|προσφέρῃς]]  [[G3588\|τὸ]]  [[G1435\|δῶρόν]]  [[G4771\|σου]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G2379\|θυσιαστήριον]]  [[G2532\|κἀκεῖ]]  <sup><small>[[G1563\| [ • ] ]]</small></sup>  [[G3403\|μνησθῇς]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφός]]  [[G4771\|σου]]  [[G2192\|ἔχει]]  [[G5100\|τι]]  [[G2596\|κατὰ]]  [[G4771\|σοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FRATERNITY|FRATERNITY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic JUSTICE|JUSTICE]] • [[topic LAW|LAW]] • [[topic RECONCILIATION|RECONCILIATION]] • [[topic RELIGION|RELIGION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.22|<< Matthew 5:22]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.24|Matthew 5:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

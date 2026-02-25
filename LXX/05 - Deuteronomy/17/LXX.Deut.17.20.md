@@ -1,6 +1,79 @@
+---
+title: LXX Deuteronomy 17:20
+type: Verse
+lxx: "that his heart should not be raised up high above  his brethren; that he should not transgress from the commandments, right or left; so that he should be a long time in  his office -- he and  his sons among the sons of Israel."
+greek: "ίνα μη υψωθή η καρδία αυτού από των αδελφών αυτού ίνα μη παραβή από των εντολών δεξιά η αριστερά όπως αν μακροχρόνιος η επί της αρχής αυτού αυτός και οι υιοί αυτού εν τοις υιοίς Ισραήλ"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 17
+book/chapter: "[[Deut.17|Deuteronomy 17]]"
+chronological_order: 213
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CONSTITUTION|CONSTITUTION]]"
+- "[[topic KING|KING]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5312]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3845]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1785]]"
+- "[[G1188]]"
+- "[[G2228]]"
+- "[[G0710]]"
+- "[[G3704]]"
+- "[[G0302]]"
+- "[[G3118]]"
+- "[[G1510]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0746]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+---
+
 **LXX Deuteronomy 17:20** 
 <small><sub>**LXX:**</sub></small>
 that his heart should not be raised up high above  his brethren; that he should not transgress from the commandments, right or left; so that he should be a long time in  his office -- he and  his sons among the sons of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ίνα]] [[G3361\|μη]] [[G5312\|υψωθή]] [[G3588\|η]] [[G2588\|καρδία]] [[G1473\|αυτού]] [[G0575\|από]] [[G3588\|των]] [[G0080\|αδελφών]] [[G1473\|αυτού]] [[G2443\|ίνα]] [[G3361\|μη]] [[G3845\|παραβή]] [[G0575\|από]] [[G3588\|των]] [[G1785\|εντολών]] [[G1188\|δεξιά]] [[G2228\|η]] [[G0710\|αριστερά]] [[G3704\|όπως]] [[G0302\|αν]] [[G3118\|μακροχρόνιος]] [[G1510\|η]] [[G1909\|επί]] [[G3588\|της]] [[G0746\|αρχής]] [[G1473\|αυτού]] [[G1473\|αυτός]] [[G2532\|και]] [[G3588\|οι]] [[G5207\|υιοί]] [[G1473\|αυτού]] [[G1722\|εν]] [[G3588\|τοις]] [[G5207\|υιοίς]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSTITUTION|CONSTITUTION]] • [[topic KING|KING]] • [[topic LAW|LAW]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.19|<< Deuteronomy 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.1|Deuteronomy 18:1 >>]]</td></tr></table>
 
@@ -37,6 +110,6 @@ that his heart should not be raised up high above  his brethren; that he should 
 | the | **<big>[[G3588\|τοις]]</big>** |
 | sons | **<big>[[G5207\|υιοίς]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Deut.17.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.19|<< Deuteronomy 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.1|Deuteronomy 18:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.17.19|<< Deuteronomy 17:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.18.1|Deuteronomy 18:1 >>]]</td></tr></table>
 
 

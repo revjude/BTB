@@ -1,8 +1,64 @@
+---
+title: Leviticus 4:28
+type: Verse
+kjv: "Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned."
+bsb: "When he becomes aware of the sin he has committed, he must bring an unblemished female goat as his offering for that sin."
+hebrew: "א֚וֹ הוֹדַ֣ע אֵלָ֔יו חַטָּאת֖וֹ אֲשֶׁ֣ר חָטָ֑א וְהֵבִ֨יא קָרְבָּנ֜וֹ שְׂעִירַ֤ת עִזִּים֙ תְּמִימָ֣ה נְקֵבָ֔ה עַל־ חַטָּאת֖וֹ אֲשֶׁ֥ר חָטָֽא׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H0176A]]"
+- "[[H3045]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2403B]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H7133A]]"
+- "[[H8166]]"
+- "[[H5795]]"
+- "[[H8549G]]"
+- "[[H5347]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:28**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or if his sin, which he hath sinned, come to his knowledge: then he shall bring his offering, a kid of the goats, a female without blemish, for his sin which he hath sinned.
 <small><sub>**BSB:**</sub></small>
 When he becomes aware of the sin he has committed, he must bring an unblemished female goat as his offering for that sin.
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|א֚וֹ]] [[H3045\|הוֹדַ֣ע]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H2403B\|חַטָּאת֖]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָטָ֑א]] [[H9001\|וְ]][[H0935P\|הֵבִ֨יא]] [[H7133A\|קָרְבָּנ֜]][[H9023\|וֹ]] [[H8166\|שְׂעִירַ֤ת]] [[H5795\|עִזִּים֙]] [[H8549G\|תְּמִימָ֣ה]] [[H5347\|נְקֵבָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H2403B\|חַטָּאת֖]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H2398\|חָטָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.27|<< Leviticus 4:27]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.29|Leviticus 4:29 >>]]</td></tr></table>
 

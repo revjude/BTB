@@ -1,10 +1,61 @@
+---
+title: 1 Peter 5:2
+type: Verse
+kjv: "Feed the flock of God which is among you, taking the oversight thereof, not by constraint, but willingly; not for filthy lucre, but of a ready mind;"
+bsb: "Be shepherds of God’s flock that is among you, watching over them not out of compulsion, but willingly, as God would have you; not out of greed, but out of eagerness;"
+greek: "ποιμάνατε τὸ ἐν ὑμῖν ποίμνιον τοῦ θεοῦ ἐπισκοποῦντες μὴ ἀναγκαστῶς ἀλλ᾽ ἑκουσίως κατὰ θεόν, μηδὲ αἰσχροκερδῶς ἀλλὰ προθύμως·"
+pericope: "[[1Pet.5.1 Instructions to Elders|Instructions to Elders]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 5
+book/chapter: "[[1Pet.5|1 Peter 5]]"
+chronological_order: 1139
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+strongs:
+- "[[G4165]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G4168]]"
+- "[[G2316]]"
+- "[[G1983]]"
+- "[[G3361]]"
+- "[[G0317]]"
+- "[[G0235]]"
+- "[[G1596]]"
+- "[[G2596]]"
+- "[[G3366]]"
+- "[[G0147]]"
+- "[[G4290]]"
+texts:
+- NKO
+- NO
+---
+
 **1 Peter 5:2**<big><big>[[1Pet.5.1 Instructions to Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Feed the flock of God which is among you, taking the oversight [thereof], not by constraint, but willingly; not for filthy lucre, but of a ready mind;
 <small><sub>**BSB:**</sub></small>
 Be shepherds of God’s flock that is among you, watching over them not out of compulsion, but willingly, as God would have you; not out of greed, but out of eagerness;
-<small><sub>**Literal:**</sub></small>
-do shepherd the among you flock <the> of God exercising oversight not under compulsion but willingly according to God, and not for base gain but eagerly;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.1|<< 1 Peter 5:1]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.3|1 Peter 5:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4165\|ποιμάνατε]]  [[G3588\|τὸ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G4168\|ποίμνιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1983\|ἐπισκοποῦντες]]  [[G3361\|μὴ]]  [[G0317\|ἀναγκαστῶς]]  [[G0235\|ἀλλ᾽]]  [[G1596\|ἑκουσίως]]  [[G2596\|κατὰ]]  [[G2316\|θεόν,]]  [[G3366\|μηδὲ]]  [[G0147\|αἰσχροκερδῶς]]  [[G0235\|ἀλλὰ]]  [[G4290\|προθύμως·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic ELDER|ELDER]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SACRILEGE|SACRILEGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.5.1|<< 1 Peter 5:1]]</td><td align="center" style="border:none;">[[1Pet.5|1 Peter 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.5.3|1 Peter 5:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

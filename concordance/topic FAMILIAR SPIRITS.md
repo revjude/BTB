@@ -9,7 +9,7 @@
 
 → INSTANCES OF THOSE WHO CONSULTED
 
-- Saul [[1Sam.28.3|1Sa 28:3]]-[[1Sam.28.25|25]]; [[1Chr.10.13|1Ch 10:13]]
+- Saul [[1Sam.28.3|1Sa 28:3-25]]; [[1Chr.10.13|1Ch 10:13]]
 
 - See [[topic DEMONS|DEMONS]]
 

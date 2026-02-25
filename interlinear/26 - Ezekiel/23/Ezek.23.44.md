@@ -1,8 +1,61 @@
+---
+title: Ezekiel 23:44
+type: Verse
+kjv: "Yet they went in unto her, as they go in unto a woman that playeth the harlot: so went they in unto Aholah and unto Aholibah, the lewd women."
+bsb: "And they slept with her as with a prostitute; they slept with Oholah and Oholibah, those lewd women."
+hebrew: "וַיָּב֣וֹא אֵלֶ֔יהָ כְּב֖וֹא אֶל־ אִשָּׁ֣ה זוֹנָ֑ה כֵּ֣ן בָּ֗אוּ אֶֽל־ אָֽהֳלָה֙ וְאֶל־ אָ֣הֳלִיבָ֔ה אִשֹּׁ֖ת הַזִּמָּֽה׃"
+pericope: "[[Ezek.23.36 Judgment on Both Sisters|Judgment on Both Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AHOLAH|AHOLAH]]"
+- "[[topic AHOLIBAH|AHOLIBAH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H9014]]"
+- "[[H0802G]]"
+- "[[H2181]]"
+- "[[H3651C]]"
+- "[[H0170]]"
+- "[[H9002]]"
+- "[[H0172]]"
+- "[[H9009]]"
+- "[[H2154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:44**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet they went in unto her, as they go in unto a woman that playeth the harlot: so went they in unto Aholah and unto Aholibah, the lewd women.
 <small><sub>**BSB:**</sub></small>
 And they slept with her as with a prostitute; they slept with Oholah and Oholibah, those lewd women.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּב֣וֹא]] [[H0413\|אֵלֶ֔י]][[H9034\|הָ]] [[H9004\|כְּ]][[H0935G\|ב֖וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H0802G\|אִשָּׁ֣ה]] [[H2181\|זוֹנָ֑ה]] [[H3651C\|כֵּ֣ן]] [[H0935G\|בָּ֗אוּ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0170\|אָֽהֳלָה֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H0172\|אָ֣הֳלִיבָ֔ה]] [[H0802G\|אִשֹּׁ֖ת]] [[H9009\|הַ]][[H2154\|זִּמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHOLAH|AHOLAH]] • [[topic AHOLIBAH|AHOLIBAH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.43|<< Ezekiel 23:43]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.45|Ezekiel 23:45 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: Mark 6:28
+type: Verse
+kjv: "And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother."
+bsb: "The man brought John’s head on a platter and presented it to the girl, who gave it to her mother."
+greek: "καὶ ἤνεγκεν τὴν κεφαλὴν αὐτοῦ ἐπὶ πίνακι καὶ ἔδωκεν αὐτὴν τῷ κορασίῳ, καὶ τὸ κοράσιον ἔδωκεν αὐτὴν τῇ μητρὶ αὐτῆς.¶"
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G5342]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G4094]]"
+- "[[G1325]]"
+- "[[G2877]]"
+- "[[G3384]]"
+texts:
+- NKO
+---
+
 **Mark 6:28**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And brought his head in a charger, and gave it to the damsel: and the damsel gave it to her mother.
 <small><sub>**BSB:**</sub></small>
 The man brought John’s head on a platter and presented it to the girl, who gave it to her mother.
-<small><sub>**Literal:**</sub></small>
-and brought the head of him on a platter and gave it to the girl, and the girl gave it to the mother of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.27|<< Mark 6:27]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.29|Mark 6:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5342\|ἤνεγκεν]]  [[G3588\|τὴν]]  [[G2776\|κεφαλὴν]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G4094\|πίνακι]]  [[G2532\|καὶ]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτὴν]]  [[G3588\|τῷ]]  [[G2877\|κορασίῳ,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2877\|κοράσιον]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτὴν]]  [[G3588\|τῇ]]  [[G3384\|μητρὶ]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MALICE|MALICE]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.27|<< Mark 6:27]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.29|Mark 6:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

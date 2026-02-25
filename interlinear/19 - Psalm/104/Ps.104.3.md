@@ -1,8 +1,61 @@
+---
+title: Psalm 104:3
+type: Verse
+kjv: "Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:"
+bsb: "laying the beams of His chambers in the waters above, making the clouds His chariot, walking on the wings of the wind."
+hebrew: "הַ֥מְקָרֶֽה בַמַּ֗יִם עֲֽלִיּ֫וֹתָ֥יו הַשָּׂם־ עָבִ֥ים רְכוּב֑וֹ הַֽ֝מְהַלֵּ֗ךְ עַל־ כַּנְפֵי־ רֽוּחַ׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H9009]]"
+- "[[H7136B]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H5944]]"
+- "[[H9023]]"
+- "[[H7760A]]"
+- "[[H9014]]"
+- "[[H5645]]"
+- "[[H7398]]"
+- "[[H1980I]]"
+- "[[H5921A]]"
+- "[[H3671]]"
+- "[[H7307H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:3**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who layeth the beams of his chambers in the waters: who maketh the clouds his chariot: who walketh upon the wings of the wind:
 <small><sub>**BSB:**</sub></small>
 laying the beams of His chambers in the waters above, making the clouds His chariot, walking on the wings of the wind.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ֥]][[H7136B\|מְקָרֶֽה]] [[H9003\|בַ]][[H4325G\|מַּ֗יִם]] [[H5944\|עֲֽלִיּ֫וֹתָ֥י]][[H9023\|ו]] [[H9009\|הַ]][[H7760A\|שָּׂם]][[H9014\|־]] [[H5645\|עָבִ֥ים]] [[H7398\|רְכוּב֑]][[H9023\|וֹ]] [[H9009\|הַֽ֝]][[H1980I\|מְהַלֵּ֗ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3671\|כַּנְפֵי]][[H9014\|־]] [[H7307H\|רֽוּחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHARIOT|CHARIOT]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.2|<< Psalms 104:2]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.104.4|Psalms 104:4 >>]]</td></tr></table>
 

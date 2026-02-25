@@ -1,8 +1,80 @@
+---
+title: 1 Samuel 2:8
+type: Verse
+kjv: "He raiseth up the poor out of the dust, and lifteth up the beggar from the dunghill, to set them among princes, and to make them inherit the throne of glory: for the pillars of the earth are the LORD’S, and he hath set the world upon them."
+bsb: "He raises the poor from the dust and lifts the needy from the ash heap. He seats them among princes and bestows on them a throne of honor. For the foundations of the earth are the LORD’s, and upon them He has set the world."
+hebrew: "מֵקִ֨ים מֵעָפָ֜ר דָּ֗ל מֵֽאַשְׁפֹּת֙ יָרִ֣ים אֶבְי֔וֹן לְהוֹשִׁיב֙ עִם־ נְדִיבִ֔ים וְכִסֵּ֥א כָב֖וֹד יַנְחִלֵ֑ם כִּ֤י לַֽיהוָה֙ מְצֻ֣קֵי אֶ֔רֶץ וַיָּ֥שֶׁת עֲלֵיהֶ֖ם תֵּבֵֽל׃"
+pericope: "[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|Hannah’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic BEGGARS|BEGGARS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic GEOLOGY|GEOLOGY]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H6965H]]"
+- "[[H9006]]"
+- "[[H6083]]"
+- "[[H1800]]"
+- "[[H0830H]]"
+- "[[H7311A]]"
+- "[[H0034]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H5081H]]"
+- "[[H9002]]"
+- "[[H3678G]]"
+- "[[H3519]]"
+- "[[H5157]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H4690]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H7896G]]"
+- "[[H5921A]]"
+- "[[H8398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:8**<big><big>[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He raiseth up the poor out of the dust, [and] lifteth up the beggar from the dunghill, to set [them] among princes, and to make them inherit the throne of glory: for the pillars of the earth [are] the LORD’S, and he hath set the world upon them.
 <small><sub>**BSB:**</sub></small>
 He raises the poor from the dust and lifts the needy from the ash heap. He seats them among princes and bestows on them a throne of honor. For the foundations of the earth are the LORD’s, and upon them He has set the world.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965H\|מֵקִ֨ים]] [[H9006\|מֵ]][[H6083\|עָפָ֜ר]] [[H1800\|דָּ֗ל]] [[H9006\|מֵֽ]][[H0830H\|אַשְׁפֹּת֙]] [[H7311A\|יָרִ֣ים]] [[H0034\|אֶבְי֔וֹן]] [[H9005\|לְ]][[H3427\|הוֹשִׁיב֙]] [[H5973A\|עִם]][[H9014\|־]] [[H5081H\|נְדִיבִ֔ים]] [[H9002\|וְ]][[H3678G\|כִסֵּ֥א]] [[H3519\|כָב֖וֹד]] [[H5157\|יַנְחִלֵ֑]][[H9038\|ם]] [[H3588A\|כִּ֤י]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H4690\|מְצֻ֣קֵי]] [[H0776G\|אֶ֔רֶץ]] [[H9001\|וַ]][[H7896G\|יָּ֥שֶׁת]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H8398\|תֵּבֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic BEGGARS|BEGGARS]] • [[topic BLESSING|BLESSING]] • [[topic EARTH|EARTH]] • [[topic GEOLOGY|GEOLOGY]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic HANNAH|HANNAH]] • [[topic JOY|JOY]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic SAMUEL|SAMUEL]] • [[topic SATIRE|SATIRE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.7|<< 1 Samuel 2:7]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.9|1 Samuel 2:9 >>]]</td></tr></table>
 

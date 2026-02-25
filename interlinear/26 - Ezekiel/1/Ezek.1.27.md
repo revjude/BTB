@@ -1,8 +1,67 @@
+---
+title: Ezekiel 1:27
+type: Verse
+kjv: "And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about."
+bsb: "From what seemed to be His waist up, I saw a gleam like amber, with what looked like fire within it all around. And from what seemed to be His waist down, I saw what looked like fire; and brilliant light surrounded Him."
+hebrew: "וָאֵ֣רֶא׀ כְּעֵ֣ין חַשְׁמַ֗ל כְּמַרְאֵה־ אֵ֤שׁ בֵּֽית־ לָהּ֙ סָבִ֔יב מִמַּרְאֵ֥ה מָתְנָ֖יו וּלְמָ֑עְלָה וּמִמַּרְאֵ֤ה מָתְנָיו֙ וּלְמַ֔טָּה רָאִ֙יתִי֙ כְּמַרְאֵה־ אֵ֔שׁ וְנֹ֥גַֽהּ ל֖וֹ סָבִֽיב׃"
+pericope: "[[Ezek.1.22 The Divine Glory|The Divine Glory]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 1
+book/chapter: "[[Ezek.1|Ezekiel 1]]"
+chronological_order: 792
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMBER|AMBER]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9015]]"
+- "[[H9004]]"
+- "[[H5869I]]"
+- "[[H2830]]"
+- "[[H4758]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H1004O]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H5439G]]"
+- "[[H9006]]"
+- "[[H4975]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H4295]]"
+- "[[H5051]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 1:27**<big><big>[[Ezek.1.22 The Divine Glory|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.
 <small><sub>**BSB:**</sub></small>
 From what seemed to be His waist up, I saw a gleam like amber, with what looked like fire within it all around. And from what seemed to be His waist down, I saw what looked like fire; and brilliant light surrounded Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֵ֣רֶא]][[H9015\|׀]] [[H9004\|כְּ]][[H5869I\|עֵ֣ין]] [[H2830\|חַשְׁמַ֗ל]] [[H9004\|כְּ]][[H4758\|מַרְאֵה]][[H9014\|־]] [[H0784\|אֵ֤שׁ]] [[H1004O\|בֵּֽית]][[H9014\|־]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H5439G\|סָבִ֔יב]] [[H9006\|מִ]][[H4758\|מַּרְאֵ֥ה]] [[H4975\|מָתְנָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9002\|וּ]][[H9006\|מִ]][[H4758\|מַּרְאֵ֤ה]] [[H4975\|מָתְנָי]][[H9023\|ו֙]] [[H9002\|וּ]][[H9005\|לְ]][[H4295\|מַ֔טָּה]] [[H7200G\|רָאִ֙יתִי֙]] [[H9004\|כְּ]][[H4758\|מַרְאֵה]][[H9014\|־]] [[H0784\|אֵ֔שׁ]] [[H9002\|וְ]][[H5051\|נֹ֥גַֽהּ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBER|AMBER]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.1.26|<< Ezekiel 1:26]]</td><td align="center" style="border:none;">[[Ezek.1|Ezekiel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.1.28|Ezekiel 1:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

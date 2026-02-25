@@ -1,8 +1,53 @@
+---
+title: Proverbs 21:5
+type: Verse
+kjv: "The thoughts of the diligent tend only to plenteousness; but of every one that is hasty only to want."
+bsb: "The plans of the diligent bring plenty, as surely as haste leads to poverty."
+hebrew: "מַחְשְׁב֣וֹת חָ֭רוּץ אַךְ־ לְמוֹתָ֑ר וְכָל־ אָ֝֗ץ אַךְ־ לְמַחְסֽוֹר׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H4284]]"
+- "[[H2742A]]"
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H4195]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H0213]]"
+- "[[H4270]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:5**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The thoughts of the diligent [tend] only to plenteousness; but of every one [that is] hasty only to want.
 <small><sub>**BSB:**</sub></small>
 The plans of the diligent bring plenty, as surely as haste leads to poverty.
+<small><sub>**Hebrew:**</sub></small>
+[[H4284\|מַחְשְׁב֣וֹת]] [[H2742A\|חָ֭רוּץ]] [[H0389\|אַךְ]][[H9014\|־]] [[H9005\|לְ]][[H4195\|מוֹתָ֑ר]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0213\|אָ֝֗ץ]] [[H0389\|אַךְ]][[H9014\|־]] [[H9005\|לְ]][[H4270\|מַחְסֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INDUSTRY|INDUSTRY]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.4|<< Proverbs 21:4]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.6|Proverbs 21:6 >>]]</td></tr></table>
 

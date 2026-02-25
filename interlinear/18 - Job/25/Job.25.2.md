@@ -1,8 +1,52 @@
+---
+title: Job 25:2
+type: Verse
+kjv: "Dominion and fear are with him, he maketh peace in his high places."
+bsb: "“Dominion and awe belong to God; He establishes harmony in the heights of heaven."
+hebrew: "הַמְשֵׁ֣ל וָפַ֣חַד עִמּ֑וֹ עֹשֶׂ֥ה שָׁ֝ל֗וֹם בִּמְרוֹמָֽיו׃"
+pericope: "[[Job.25.1 Bildad：Man Cannot Be Righteous|Bildad：Man Cannot Be Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 25
+book/chapter: "[[Job.25|Job 25]]"
+chronological_order: 36
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4910]]"
+- "[[H9002]]"
+- "[[H6343]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H6213H]]"
+- "[[H7965G]]"
+- "[[H9003]]"
+- "[[H4791]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 25:2**<big><big>[[Job.25.1 Bildad：Man Cannot Be Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Dominion and fear [are] with him, he maketh peace in his high places.
 <small><sub>**BSB:**</sub></small>
 “Dominion and awe belong to God; He establishes harmony in the heights of heaven.
+<small><sub>**Hebrew:**</sub></small>
+[[H4910\|הַמְשֵׁ֣ל]] [[H9002\|וָ]][[H6343\|פַ֣חַד]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H6213H\|עֹשֶׂ֥ה]] [[H7965G\|שָׁ֝ל֗וֹם]] [[H9003\|בִּ]][[H4791\|מְרוֹמָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.25.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.25.1|<< Job 25:1]]</td><td align="center" style="border:none;">[[Job.25|Job 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.25.3|Job 25:3 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: 2 Kings 12:13
+type: Verse
+kjv: "Howbeit there were not made for the house of the LORD bowls of silver, snuffers, basons, trumpets, any vessels of gold, or vessels of silver, of the money that was brought into the house of the LORD:"
+bsb: "However, the money brought into the house of the LORD was not used for making silver basins, wick trimmers, sprinkling bowls, trumpets, or any articles of gold or silver for the house of the LORD."
+hebrew: "אַךְ֩ לֹ֨א יֵעָשֶׂ֜ה בֵּ֣ית יְהוָ֗ה סִפּ֥וֹת כֶּ֙סֶף֙ מְזַמְּר֤וֹת מִזְרָקוֹת֙ חֲצֹ֣צְר֔וֹת כָּל־ כְּלִ֥י זָהָ֖ב וּכְלִי־ כָ֑סֶף מִן־ הַכֶּ֖סֶף הַמּוּבָ֥א בֵית־ יְהוָֽה׃"
+pericope: "[[2Kgs.12.1 Joash Repairs the Temple|Joash Repairs the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 12
+book/chapter: "[[2Kgs.12|2 Kings 12]]"
+chronological_order: 585
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIADA|JEHOIADA]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic SNUFFERS|SNUFFERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H0389]]"
+- "[[H3808]]"
+- "[[H6213H]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H5592A]]"
+- "[[H3701G]]"
+- "[[H4212]]"
+- "[[H4219]]"
+- "[[H2689]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0935P]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 12:13**<big><big>[[2Kgs.12.1 Joash Repairs the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit there were not made for the house of the LORD bowls of silver, snuffers, basons, trumpets, any vessels of gold, or vessels of silver, of the money [that was] brought into the house of the LORD:
 <small><sub>**BSB:**</sub></small>
 However, the money brought into the house of the LORD was not used for making silver basins, wick trimmers, sprinkling bowls, trumpets, or any articles of gold or silver for the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַךְ֩]] [[H3808\|לֹ֨א]] [[H6213H\|יֵעָשֶׂ֜ה]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֗ה]] [[H5592A\|סִפּ֥וֹת]] [[H3701G\|כֶּ֙סֶף֙]] [[H4212\|מְזַמְּר֤וֹת]] [[H4219\|מִזְרָקוֹת֙]] [[H2689\|חֲצֹ֣צְר֔וֹת]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלִ֥י]] [[H2091\|זָהָ֖ב]] [[H9002\|וּ]][[H3627\|כְלִי]][[H9014\|־]] [[H3701G\|כָ֑סֶף]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֖סֶף]] [[H9009\|הַ]][[H0935P\|מּוּבָ֥א]] [[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIADA|JEHOIADA]] • [[topic JOASH|JOASH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONEY|MONEY]] • [[topic SILVER|SILVER]] • [[topic SNUFFERS|SNUFFERS]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.12.12|<< 2 Kings 12:12]]</td><td align="center" style="border:none;">[[2Kgs.12|2 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.12.14|2 Kings 12:14 >>]]</td></tr></table>
 

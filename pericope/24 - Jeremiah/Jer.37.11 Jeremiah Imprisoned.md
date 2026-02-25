@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Imprisoned
+type: Pericope
 pericope: "[[Jer.37.11 Jeremiah Imprisoned|Jeremiah Imprisoned]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 37
 book/chapter: "[[Jer.37|Jeremiah 37]]"
-genre:
+chronological_order: 760
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 11
 verses:
 - "[[Jer.37.11]]"
 - "[[Jer.37.12]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jer.37.21]]"
 ---
 
-[[Jer.37|Jeremiah 37:11 - Jeremiah 37:21]]
+<small>[[Jer.37|Jeremiah 37:11-21]]</small>
 *Jeremiah Imprisoned*
 
 [[Jer.37.11|11]] And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh’s army,

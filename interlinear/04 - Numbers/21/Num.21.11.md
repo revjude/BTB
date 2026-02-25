@@ -1,8 +1,62 @@
+---
+title: Numbers 21:11
+type: Verse
+kjv: "And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which is before Moab, toward the sunrising."
+bsb: "They journeyed from Oboth and camped at Iye-abarim in the wilderness opposite Moab to the east."
+hebrew: "וַיִּסְע֖וּ מֵאֹבֹ֑ת וַֽיַּחֲנ֞וּ בְּעִיֵּ֣י הָֽעֲבָרִ֗ים בַּמִּדְבָּר֙ אֲשֶׁר֙ עַל־ פְּנֵ֣י מוֹאָ֔ב מִמִּזְרַ֖ח הַשָּֽׁמֶשׁ׃"
+pericope: "[[Num.21.10 The Journey to Moab|The Journey to Moab]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic IJE-ABARIM|IJE-ABARIM]]"
+- "[[topic OBOTH|OBOTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H0088]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H5863]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H4124G]]"
+- "[[H4217H]]"
+- "[[H8121]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:11**<big><big>[[Num.21.10 The Journey to Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which [is] before Moab, toward the sunrising.
 <small><sub>**BSB:**</sub></small>
 They journeyed from Oboth and camped at Iye-abarim in the wilderness opposite Moab to the east.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְע֖וּ]] [[H9006\|מֵ]][[H0088\|אֹבֹ֑ת]] [[H9001\|וַֽ]][[H2583\|יַּחֲנ֞וּ]] [[H9003\|בְּ]][[H5863\|עִיֵּ֣י]] [[H9009\|הָֽ]][[H5863\|עֲבָרִ֗ים]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּר֙]] [[H0834A\|אֲשֶׁר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H4124G\|מוֹאָ֔ב]] [[H9006\|מִ]][[H4217H\|מִּזְרַ֖ח]] [[H9009\|הַ]][[H8121\|שָּֽׁמֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IJE-ABARIM|IJE-ABARIM]] • [[topic OBOTH|OBOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.10|<< Numbers 21:10]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.12|Numbers 21:12 >>]]</td></tr></table>
 

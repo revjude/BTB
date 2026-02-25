@@ -1,8 +1,74 @@
+---
+title: Exodus 8:15
+type: Verse
+kjv: "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said."
+bsb: "When Pharaoh saw that there was relief, however, he hardened his heart and would not listen to Moses and Aaron, just as the LORD had said."
+hebrew: "וַיַּ֣רְא פַּרְעֹ֗ה כִּ֤י הָֽיְתָה֙ הָֽרְוָחָ֔ה וְהַכְבֵּד֙ אֶת־ לִבּ֔וֹ וְלֹ֥א שָׁמַ֖ע אֲלֵהֶ֑ם כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה׃ ס"
+pericope: "[[Exod.8.1 The Second Plague：Frogs|The Second Plague：Frogs]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H6547J]]"
+- "[[H3588A]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H7309]]"
+- "[[H9002]]"
+- "[[H3513H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 8:15**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said.
 <small><sub>**BSB:**</sub></small>
 When Pharaoh saw that there was relief, however, he hardened his heart and would not listen to Moses and Aaron, just as the LORD had said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H6547J\|פַּרְעֹ֗ה]] [[H3588A\|כִּ֤י]] [[H1961\|הָֽיְתָה֙]] [[H9009\|הָֽ]][[H7309\|רְוָחָ֔ה]] [[H9002\|וְ]][[H3513H\|הַכְבֵּד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שָׁמַ֖ע]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HEART|HEART]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INSTABILITY|INSTABILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.14|<< Exodus 8:14]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.16|Exodus 8:16 >>]]</td></tr></table>
 
@@ -21,7 +87,7 @@ When Pharaoh saw that there was relief, however, he hardened his heart and would
 | to them  |**<big>&#8207;[[H0413\|אֲלֵ]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| 'a.le.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֖ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had said  |**<big>&#8207;[[H1696G\|דִּבֶּ֥ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.14|<< Exodus 8:14]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.16|Exodus 8:16 >>]]</td></tr></table>
 
 

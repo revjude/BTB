@@ -1,8 +1,66 @@
+---
+title: Genesis 6:21
+type: Verse
+kjv: "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them."
+bsb: "You are also to take for yourself every kind of food that is eaten and gather it as food for yourselves and for the animals.”"
+hebrew: "וְאַתָּ֣ה קַח־ לְךָ֗ מִכָּל־ מַֽאֲכָל֙ אֲשֶׁ֣ר יֵֽאָכֵ֔ל וְאָסַפְתָּ֖ אֵלֶ֑יךָ וְהָיָ֥ה לְךָ֛ וְלָהֶ֖ם לְאָכְלָֽה׃"
+pericope: "[[Gen.6.13 Preparing the Ark|Preparing the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H3978]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H0413]]"
+- "[[H1961]]"
+- "[[H9038]]"
+- "[[H0402]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:21**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And take thou unto thee of all food that is eaten, and thou shalt gather [it] to thee; and it shall be for food for thee, and for them.
 <small><sub>**BSB:**</sub></small>
 You are also to take for yourself every kind of food that is eaten and gather it as food for yourselves and for the animals.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H3947G\|קַח]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H3978\|מַֽאֲכָל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0398\|יֵֽאָכֵ֔ל]] [[H9001\|וְ]][[H0622\|אָסַפְתָּ֖]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H9002\|וְ]][[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H0402\|אָכְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic COMMUNION|COMMUNION]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic NOAH|NOAH]] • [[topic SHIP|SHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.20|<< Genesis 6:20]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.22|Genesis 6:22 >>]]</td></tr></table>
 

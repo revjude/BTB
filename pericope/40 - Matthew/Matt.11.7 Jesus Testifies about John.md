@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Testifies about John
+type: Pericope
 pericope: "[[Matt.11.7 Jesus Testifies about John|Jesus Testifies about John]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 11
 book/chapter: "[[Matt.11|Matthew 11]]"
-genre:
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 13
 verses:
 - "[[Matt.11.7]]"
 - "[[Matt.11.8]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Matt.11.19]]"
 ---
 
-[[Matt.11|Matthew 11:7 - Matthew 11:19]]
+<small>[[Matt.11|Matthew 11:7-19]]</small>
 *Jesus Testifies about John*
 
 [[Matt.11.7|7]] And as they departed, Jesus began to say unto the multitudes concerning John, What went ye out into the wilderness to see? A reed shaken with the wind?

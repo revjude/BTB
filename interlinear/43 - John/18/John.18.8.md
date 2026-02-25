@@ -1,10 +1,59 @@
+---
+title: John 18:8
+type: Verse
+kjv: "Jesus answered, I have told you that I am he: if therefore ye seek me, let these go their way:"
+bsb: "“I told you that I am He,” Jesus replied. “So if you are looking for Me, let these men go.”"
+jesus_said: "I have told you that I am he: if therefore ye seek me, let these go their way:"
+greek: "ἀπεκρίθη ὁ Ἰησοῦς· εἶπον ὑμῖν ὅτι ἐγώ εἰμι. εἰ οὖν ἐμὲ ζητεῖτε, ἄφετε τούτους ὑπάγειν·"
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TRAITOR|TRAITOR]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1487G]]"
+- "[[G3767]]"
+- "[[G2212]]"
+- "[[G0863I]]"
+- "[[G3778]]"
+- "[[G5217]]"
+texts:
+- NKO
+- k
+---
+
 **John 18:8**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered, I have told you that I am [he]: if therefore ye seek me, let these go their way:
 <small><sub>**BSB:**</sub></small>
 “I told you that I am He,” Jesus replied. “So if you are looking for Me, let these men go.”
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus; I have told you that I myself am [He]. If therefore Me myself you seek, do allow these to go away;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.7|<< John 18:7]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.9|John 18:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G2036\|εἶπον]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G1473\|ἐγώ]]  [[G1510\|εἰμι.]]  [[G1487G\|εἰ]]  [[G3767\|οὖν]]  [[G1473\|ἐμὲ]]  [[G2212\|ζητεῖτε,]]  [[G0863I\|ἄφετε]]  [[G3778\|τούτους]]  [[G5217\|ὑπάγειν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRISONERS|PRISONERS]] • [[topic PROPHECY|PROPHECY]] • [[topic TRAITOR|TRAITOR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.7|<< John 18:7]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.9|John 18:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

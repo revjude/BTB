@@ -1,8 +1,64 @@
+---
+title: Exodus 1:21
+type: Verse
+kjv: "And it came to pass, because the midwives feared God, that he made them houses."
+bsb: "And because the midwives feared God, He gave them families of their own."
+hebrew: "וַיְהִ֕י כִּֽי־ יָֽרְא֥וּ הַֽמְיַלְּדֹ֖ת אֶת־ הָאֱלֹהִ֑ים וַיַּ֥עַשׂ לָהֶ֖ם בָּתִּֽים׃"
+pericope: "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MIDWIFERY|MIDWIFERY]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3372H]]"
+- "[[H9009]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H0430G]]"
+- "[[H6213I]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 1:21**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, because the midwives feared God, that he made them houses.
 <small><sub>**BSB:**</sub></small>
 And because the midwives feared God, He gave them families of their own.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3372H\|יָֽרְא֥וּ]] [[H9009\|הַֽ]][[H3205\|מְיַלְּדֹ֖ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H6213I\|יַּ֥עַשׂ]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H1004M\|בָּתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic MIDWIFERY|MIDWIFERY]] • [[topic OPPRESSION|OPPRESSION]] • [[topic REVERENCE|REVERENCE]] • [[topic SERVANT|SERVANT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.20|<< Exodus 1:20]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.22|Exodus 1:22 >>]]</td></tr></table>
 

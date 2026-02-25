@@ -1,10 +1,72 @@
+---
+title: John 14:17
+type: Verse
+kjv: "Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you."
+bsb: "the Spirit of truth. The world cannot receive Him, because it neither sees Him nor knows Him. But you do know Him, for He abides with you and will be in you."
+jesus_said: "Even the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you."
+greek: "τὸ πνεῦμα τῆς ἀληθείας, ὃ ὁ κόσμος οὐ δύναται λαβεῖν, ὅτι οὐ θεωρεῖ αὐτὸ οὐδὲ γινώσκει αὐτό· ὑμεῖς δὲ γινώσκετε αὐτό, ὅτι παρ᾽ ὑμῖν μένει καὶ ἐν ὑμῖν ἔσται."
+pericope: "[[John.14.15 Jesus Promises the Holy Spirit|Jesus Promises the Holy Spirit]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SPIRITUALITY|SPIRITUALITY]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0225]]"
+- "[[G3739]]"
+- "[[G2889]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2983]]"
+- "[[G3754H]]"
+- "[[G2334]]"
+- "[[G0846]]"
+- "[[G3761]]"
+- "[[G1097]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3844]]"
+- "[[G3306]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1510]]"
+texts:
+- NKO
+- ko
+- NK(O)
+---
+
 **John 14:17**<big><big>[[John.14.15 Jesus Promises the Holy Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Even] the Spirit of truth; whom the world cannot receive, because it seeth him not, neither knoweth him: but ye know him; for he dwelleth with you, and shall be in you.
 <small><sub>**BSB:**</sub></small>
 the Spirit of truth. The world cannot receive Him, because it neither sees Him nor knows Him. But you do know Him, for He abides with you and will be in you.
-<small><sub>**Literal:**</sub></small>
-the Spirit <the> of truth, whom the world not is able to receive, because not it does see Him nor know him; But you yourselves now know Him, for with you He abides and in you He will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.16|<< John 14:16]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.18|John 14:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας,]]  [[G3739\|ὃ]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G2983\|λαβεῖν,]]  [[G3754H\|ὅτι]]  [[G3756\|οὐ]]  [[G2334\|θεωρεῖ]]  [[G0846\|αὐτὸ]]  [[G3761\|οὐδὲ]]  [[G1097\|γινώσκει]]  [[G0846\|αὐτό·]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G1097\|γινώσκετε]]  [[G0846\|αὐτό,]]  [[G3754H\|ὅτι]]  [[G3844\|παρ᾽]]  [[G4771\|ὑμῖν]]  [[G3306\|μένει]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1510\|ἔσται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic COMMUNION|COMMUNION]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SPIRITUALITY|SPIRITUALITY]] • [[topic TRINITY|TRINITY]] • [[topic TRUTH|TRUTH]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.16|<< John 14:16]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.18|John 14:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

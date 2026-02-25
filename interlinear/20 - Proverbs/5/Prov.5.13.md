@@ -1,8 +1,61 @@
+---
+title: Proverbs 5:13
+type: Verse
+kjv: "And have not obeyed the voice of my teachers, nor inclined mine ear to them that instructed me!"
+bsb: "I did not listen to the voice of my teachers or incline my ear to my mentors."
+hebrew: "וְֽלֹא־ שָׁ֭מַעְתִּי בְּק֣וֹל מוֹרָ֑י וְ֝לִֽמְלַמְּדַ֗י לֹא־ הִטִּ֥יתִי אָזְנִֽי׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H4175]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H3925G]]"
+- "[[H9030]]"
+- "[[H5186]]"
+- "[[H0241G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:13**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And have not obeyed the voice of my teachers, nor inclined mine ear to them that instructed me!
 <small><sub>**BSB:**</sub></small>
 I did not listen to the voice of my teachers or incline my ear to my mentors.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H8085G\|שָׁ֭מַעְתִּי]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H4175\|מוֹרָ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H9005\|לִֽ]][[H3925G\|מְלַמְּדַ֗]][[H9030\|י]] [[H3808\|לֹא]][[H9014\|־]] [[H5186\|הִטִּ֥יתִי]] [[H0241G\|אָזְנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic REMORSE|REMORSE]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.12|<< Proverbs 5:12]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.14|Proverbs 5:14 >>]]</td></tr></table>
 

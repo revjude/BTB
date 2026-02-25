@@ -1,8 +1,75 @@
+---
+title: 1 Kings 21:19
+type: Verse
+kjv: "And thou shalt speak unto him, saying, Thus saith the LORD, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine."
+bsb: "Tell him that this is what the LORD says: ‘Have you not murdered a man and seized his land?’ Then tell him that this is also what the LORD says: ‘In the place where the dogs licked up the blood of Naboth, there also the dogs will lick up your blood—yes, yours!’”"
+hebrew: "וְדִבַּרְתָּ֨ אֵלָ֜יו לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה הֲרָצַ֖חְתָּ וְגַם־ יָרָ֑שְׁתָּ וְדִבַּרְתָּ֨ אֵלָ֜יו לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה בִּמְק֗וֹם אֲשֶׁ֨ר לָקְק֤וּ הַכְּלָבִים֙ אֶת־ דַּ֣ם נָב֔וֹת יָלֹ֧קּוּ הַכְּלָבִ֛ים אֶת־ דָּמְךָ֖ גַּם־ אָֽתָּה׃"
+pericope: "[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|Elijah Denounces Ahab and Jezebel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic DOG|DOG]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H9008]]"
+- "[[H7523]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3423H]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H3952]]"
+- "[[H9009]]"
+- "[[H3611]]"
+- "[[H0853]]"
+- "[[H1818]]"
+- "[[H5022]]"
+- "[[H9021]]"
+- "[[H0859A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:19**<big><big>[[1Kgs.21.17 Elijah Denounces Ahab and Jezebel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt speak unto him, saying, Thus saith the LORD, Hast thou killed, and also taken possession? And thou shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick thy blood, even thine.
 <small><sub>**BSB:**</sub></small>
 Tell him that this is what the LORD says: ‘Have you not murdered a man and seized his land?’ Then tell him that this is also what the LORD says: ‘In the place where the dogs licked up the blood of Naboth, there also the dogs will lick up your blood—yes, yours!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1696G\|דִבַּרְתָּ֨]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9008\|הֲ]][[H7523\|רָצַ֖חְתָּ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H3423H\|יָרָ֑שְׁתָּ]] [[H9001\|וְ]][[H1696G\|דִבַּרְתָּ֨]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בִּ]][[H4725\|מְק֗וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3952\|לָקְק֤וּ]] [[H9009\|הַ]][[H3611\|כְּלָבִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דַּ֣ם]] [[H5022\|נָב֔וֹת]] [[H3952\|יָלֹ֧קּוּ]] [[H9009\|הַ]][[H3611\|כְּלָבִ֛ים]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמְ]][[H9021\|ךָ֖]] [[H1571\|גַּם]][[H9014\|־]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic DOG|DOG]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic NABOTH|NABOTH]] • [[topic PROPHECY|PROPHECY]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.18|<< 1 Kings 21:18]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.20|1 Kings 21:20 >>]]</td></tr></table>
 

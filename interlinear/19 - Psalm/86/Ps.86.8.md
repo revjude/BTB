@@ -1,8 +1,57 @@
+---
+title: Psalm 86:8
+type: Verse
+kjv: "Among the gods there is none like unto thee, O Lord; neither are there any works like unto thy works."
+bsb: "O Lord, there is none like You among the gods, nor any works like Yours."
+hebrew: "אֵין־ כָּמ֖וֹךָ בָאֱלֹהִ֥ים׀ אֲדֹנָ֗י וְאֵ֣ין כְּֽמַעֲשֶֽׂיךָ׃"
+pericope: "[[Ps.86.1 Tried but Trusting|Tried but Trusting]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 86
+book/chapter: "[[Ps.86|Psalm 86]]"
+chronological_order: 379
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H0430]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H4639G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 86:8**<big><big>[[Ps.86.1 Tried but Trusting|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Among the gods [there is] none like unto thee, O Lord; neither [are there any works] like unto thy works.
 <small><sub>**BSB:**</sub></small>
 O Lord, there is none like You among the gods, nor any works like Yours.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵין]][[H9014\|־]] [[H3644G\|כָּמ֖וֹ]][[H9031\|ךָ]] [[H9003\|בָ]][[H0430\|אֱלֹהִ֥ים]][[H9015\|׀]] [[H0136\|אֲדֹנָ֗י]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H9004\|כְּֽ]][[H4639G\|מַעֲשֶֽׂי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.86.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.86.7|<< Psalms 86:7]]</td><td align="center" style="border:none;">[[Ps.86|Psalms 86]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.86.9|Psalms 86:9 >>]]</td></tr></table>
 

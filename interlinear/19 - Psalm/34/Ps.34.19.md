@@ -1,8 +1,55 @@
+---
+title: Psalm 34:19
+type: Verse
+kjv: "Many are the afflictions of the righteous: but the LORD delivereth him out of them all."
+bsb: "Many are the afflictions of the righteous, but the LORD delivers him from them all."
+hebrew: "רַ֭בּוֹת רָע֣וֹת צַדִּ֑יק וּ֝מִכֻּלָּ֗ם יַצִּילֶ֥נּוּ יְהוָֽה׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7227A]]"
+- "[[H7451C]]"
+- "[[H6662]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H5337]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:19**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many [are] the afflictions of the righteous: but the LORD delivereth him out of them all.
 <small><sub>**BSB:**</sub></small>
 Many are the afflictions of the righteous, but the LORD delivers him from them all.
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַ֭בּוֹת]] [[H7451C\|רָע֣וֹת]] [[H6662\|צַדִּ֑יק]] [[H9002\|וּ֝]][[H9006\|מִ]][[H3605\|כֻּלָּ֗]][[H9028\|ם]] [[H5337\|יַצִּילֶ֥]][[H9033\|נּוּ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.18|<< Psalms 34:18]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.20|Psalms 34:20 >>]]</td></tr></table>
 

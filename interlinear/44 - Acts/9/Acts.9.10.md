@@ -1,10 +1,65 @@
+---
+title: Acts 9:10
+type: Verse
+kjv: "And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I am here, Lord."
+bsb: "In Damascus there was a disciple named Ananias. The Lord spoke to him in a vision, “Ananias!” “Here I am, Lord,” he answered."
+jesus_said: "Ananias."
+greek: "Ἦν δέ τις μαθητὴς ἐν Δαμασκῷ ὀνόματι Ἁνανίας, καὶ εἶπεν πρὸς αὐτὸν ἐν ὁράματι ὁ κύριος· Ἁνανία. ὁ δὲ εἶπεν· ἰδοὺ ἐγώ, κύριε."
+pericope: "[[Acts.9.10 Ananias Baptizes Saul|Ananias Baptizes Saul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 9
+book/chapter: "[[Acts.9|Acts 9]]"
+chronological_order: 1027
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SYRIA|SYRIA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3101]]"
+- "[[G1722]]"
+- "[[G1154]]"
+- "[[G3686]]"
+- "[[G0367H]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3705]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2400]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Acts 9:10**<big><big>[[Acts.9.10 Ananias Baptizes Saul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there was a certain disciple at Damascus, named Ananias; and to him said the Lord in a vision, Ananias. And he said, Behold, I [am here], Lord.
 <small><sub>**BSB:**</sub></small>
 In Damascus there was a disciple named Ananias. The Lord spoke to him in a vision, “Ananias!” “Here I am, Lord,” he answered.
-<small><sub>**Literal:**</sub></small>
-There was now a certain disciple in Damascus named Ananias, And said to him in a vision the Lord; Ananias. <the> And he said; Behold me myself, Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.9|<< Acts 9:9]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.11|Acts 9:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦν]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G3101\|μαθητὴς]]  [[G1722\|ἐν]]  [[G1154\|Δαμασκῷ]]  [[G3686\|ὀνόματι]]  [[G0367H\|Ἁνανίας,]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3705\|ὁράματι]]  [[G3588\|ὁ]]  [[G2962G\|κύριος·]]  [[G0367H\|Ἁνανία.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G2400\|ἰδοὺ]]  [[G1473\|ἐγώ,]]  [[G2962G\|κύριε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic CONVERTS|CONVERTS]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REGENERATION|REGENERATION]] • [[topic SYRIA|SYRIA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.9.9|<< Acts 9:9]]</td><td align="center" style="border:none;">[[Acts.9|Acts 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.9.11|Acts 9:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

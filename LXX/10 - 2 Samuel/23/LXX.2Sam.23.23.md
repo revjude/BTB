@@ -1,6 +1,64 @@
+---
+title: LXX 2 Samuel 23:23
+type: Verse
+lxx: "He was over the thirty honorable ones, but to the first three he did not arrive at. And David ordered him for  his reports. And these are the names of the mighty ones of David the king."
+greek: "υπέρ τους τριάκοντα ένδοξος και προς τους τρείς ουκ ήρχετο και έταξεν αυτόν Δαυίδ προς τας ακοάς αυτού και ταύτα τα ονόματα των δυνατών Δαυίδ του βασιλέως"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 23
+book/chapter: "[[2Sam.23|2 Samuel 23]]"
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BENAIAH|BENAIAH]]"
+strongs:
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G5144]]"
+- "[[G1741]]"
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G5140]]"
+- "[[G3756]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G5021]]"
+- "[[G1473]]"
+- "[[G4622]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0189]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G3588]]"
+- "[[G1415]]"
+- "[[G4622]]"
+- "[[G3588]]"
+- "[[G0935]]"
+---
+
 **LXX 2 Samuel 23:23** 
 <small><sub>**LXX:**</sub></small>
 \[He was\] over the thirty honorable ones, but to the \[first\] three he did not arrive at. And David ordered him for  his reports. And these are the names of the mighty ones of David the king. 
+<small><sub>**Greek:**</sub></small>
+[[G5228\|υπέρ]] [[G3588\|τους]] [[G5144\|τριάκοντα]] [[G1741\|ένδοξος]] [[G2532\|και]] [[G4314\|προς]] [[G3588\|τους]] [[G5140\|τρείς]] [[G3756\|ουκ]] [[G2064\|ήρχετο]] [[G2532\|και]] [[G5021\|έταξεν]] [[G1473\|αυτόν]] [[G4622\|Δαυίδ]] [[G4314\|προς]] [[G3588\|τας]] [[G0189\|ακοάς]] [[G1473\|αυτού]] [[G2532\|και]] [[G3778\|ταύτα]] [[G3588\|τα]] [[G3686\|ονόματα]] [[G3588\|των]] [[G1415\|δυνατών]] [[G4622\|Δαυίδ]] [[G3588\|του]] [[G0935\|βασιλέως]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BENAIAH|BENAIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.22|<< 2 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.24|2 Samuel 23:24 >>]]</td></tr></table>
 
@@ -32,6 +90,6 @@
 | of David | **<big>[[G4622\|Δαυίδ]]</big>** |
 | the | **<big>[[G3588\|του]]</big>** |
 | king. | **<big>[[G0935\|βασιλέως]]</big>** |
-[[2Sam.23.23|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.22|<< 2 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.24|2 Samuel 23:24 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.23.22|<< 2 Samuel 23:22]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.23.24|2 Samuel 23:24 >>]]</td></tr></table>
 
 

@@ -1,8 +1,59 @@
+---
+title: 2 Chronicles 6:9
+type: Verse
+kjv: "Notwithstanding thou shalt not build the house; but thy son which shall come forth out of thy loins, he shall build the house for my name."
+bsb: "Nevertheless, you are not the one to build it; but your son, your own offspring, will build the house for My Name.’"
+hebrew: "רַ֣ק אַתָּ֔ה לֹ֥א תִבְנֶ֖ה הַבָּ֑יִת כִּ֤י בִנְךָ֙ הַיּוֹצֵ֣א מֵֽחֲלָצֶ֔יךָ הֽוּא־ יִבְנֶ֥ה הַבַּ֖יִת לִשְׁמִֽי׃"
+pericope: "[[2Chr.6.1 Solomon Blesses the LORD|Solomon Blesses the LORD]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7535]]"
+- "[[H0859A]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H3588A]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H3318M]]"
+- "[[H9006]]"
+- "[[H2504]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:9**<big><big>[[2Chr.6.1 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding thou shalt not build the house; but thy son which shall come forth out of thy loins, he shall build the house for my name.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, you are not the one to build it; but your son, your own offspring, will build the house for My Name.’
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֣ק]] [[H0859A\|אַתָּ֔ה]] [[H3808\|לֹ֥א]] [[H1129\|תִבְנֶ֖ה]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H3588A\|כִּ֤י]] [[H1121A\|בִנְ]][[H9021\|ךָ֙]] [[H9009\|הַ]][[H3318M\|יּוֹצֵ֣א]] [[H9006\|מֵֽ]][[H2504\|חֲלָצֶ֔י]][[H9021\|ךָ]] [[H1931\|הֽוּא]][[H9014\|־]] [[H1129\|יִבְנֶ֥ה]] [[H9009\|הַ]][[H1004B\|בַּ֖יִת]] [[H9005\|לִ]][[H8034\|שְׁמִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.8|<< 2 Chronicles 6:8]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.10|2 Chronicles 6:10 >>]]</td></tr></table>
 

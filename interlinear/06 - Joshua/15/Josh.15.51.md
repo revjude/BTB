@@ -1,8 +1,53 @@
+---
+title: Joshua 15:51
+type: Verse
+kjv: "And Goshen, and Holon, and Giloh; eleven cities with their villages:"
+bsb: "Goshen, Holon, and Giloh—eleven cities, along with their villages."
+hebrew: "וְגֹ֥שֶׁן וְחֹלֹ֖ן וְגִלֹ֑ה עָרִ֥ים אַֽחַת־ עֶשְׂרֵ֖ה וְחַצְרֵיהֶֽן׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GILOH|GILOH]]"
+- "[[topic GOSHEN|GOSHEN]]"
+- "[[topic HILEN|HILEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1657H]]"
+- "[[H2473G]]"
+- "[[H1542]]"
+- "[[H5892B]]"
+- "[[H0259]]"
+- "[[H9014]]"
+- "[[H6240]]"
+- "[[H2691B]]"
+- "[[H9029]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:51**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Goshen, and Holon, and Giloh; eleven cities with their villages:
 <small><sub>**BSB:**</sub></small>
 Goshen, Holon, and Giloh—eleven cities, along with their villages.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1657H\|גֹ֥שֶׁן]] [[H9002\|וְ]][[H2473G\|חֹלֹ֖ן]] [[H9002\|וְ]][[H1542\|גִלֹ֑ה]] [[H5892B\|עָרִ֥ים]] [[H0259\|אַֽחַת]][[H9014\|־]] [[H6240\|עֶשְׂרֵ֖ה]] [[H9002\|וְ]][[H2691B\|חַצְרֵי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILOH|GILOH]] • [[topic GOSHEN|GOSHEN]] • [[topic HILEN|HILEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.50|<< Joshua 15:50]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.52|Joshua 15:52 >>]]</td></tr></table>
 

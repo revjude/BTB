@@ -1,8 +1,68 @@
+---
+title: Genesis 9:10
+type: Verse
+kjv: "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth."
+bsb: "and with every living creature that was with you—the birds, the livestock, and every beast of the earth—every living thing that came out of the ark."
+hebrew: "וְאֵ֨ת כָּל־ נֶ֤פֶשׁ הַֽחַיָּה֙ אֲשֶׁ֣ר אִתְּכֶ֔ם בָּע֧וֹף בַּבְּהֵמָ֛ה וּֽבְכָל־ חַיַּ֥ת הָאָ֖רֶץ אִתְּכֶ֑ם מִכֹּל֙ יֹצְאֵ֣י הַתֵּבָ֔ה לְכֹ֖ל חַיַּ֥ת הָאָֽרֶץ׃"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BOW|BOW]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic RAINBOW|RAINBOW]]"
+strongs:
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5315K]]"
+- "[[H9009]]"
+- "[[H2416A]]"
+- "[[H0834A]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H5775]]"
+- "[[H0929]]"
+- "[[H2416C]]"
+- "[[H0776G]]"
+- "[[H9006]]"
+- "[[H3318G]]"
+- "[[H8392]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:10**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And with every living creature that [is] with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.
 <small><sub>**BSB:**</sub></small>
 and with every living creature that was with you—the birds, the livestock, and every beast of the earth—every living thing that came out of the ark.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0854\|אֵ֨ת]] [[H3605\|כָּל]][[H9014\|־]] [[H5315K\|נֶ֤פֶשׁ]] [[H9009\|הַֽ]][[H2416A\|חַיָּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתְּ]][[H9036\|כֶ֔ם]] [[H9003\|בָּ]][[H5775\|ע֧וֹף]] [[H9003\|בַּ]][[H0929\|בְּהֵמָ֛ה]] [[H9002\|וּֽ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H3318G\|יֹצְאֵ֣י]] [[H9009\|הַ]][[H8392\|תֵּבָ֔ה]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BOW|BOW]] • [[topic CHIDING|CHIDING]] • [[topic COVENANT|COVENANT]] • [[topic NOAH|NOAH]] • [[topic RAIN|RAIN]] • [[topic RAINBOW|RAINBOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.9|<< Genesis 9:9]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.11|Genesis 9:11 >>]]</td></tr></table>
 

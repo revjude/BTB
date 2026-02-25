@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Resurrection of the Dead
+type: Pericope
 pericope: "[[1Cor.15.12 The Resurrection of the Dead|The Resurrection of the Dead]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 15
 book/chapter: "[[1Cor.15|1 Corinthians 15]]"
-genre:
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 8
 verses:
 - "[[1Cor.15.12]]"
 - "[[1Cor.15.13]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Cor.15.19]]"
 ---
 
-[[1Cor.15|1 Corinthians 15:12 - 1 Corinthians 15:19]]
+<small>[[1Cor.15|1 Corinthians 15:12-19]]</small>
 *The Resurrection of the Dead*
 
 [[1Cor.15.12|12]] Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?

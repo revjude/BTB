@@ -1,10 +1,77 @@
+---
+title: Matthew 25:21
+type: Verse
+kjv: "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+bsb: "His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’"
+jesus_said: "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+greek: "ἔφη δὲ αὐτῷ ὁ κύριος αὐτοῦ· εὖ, δοῦλε ἀγαθὲ καὶ πιστέ, ἐπὶ ὀλίγα ἦς πιστός, ἐπὶ πολλῶν σε καταστήσω. εἴσελθε εἰς τὴν χαρὰν τοῦ κυρίου σου.¶"
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5346]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G2095]]"
+- "[[G1401]]"
+- "[[G0018]]"
+- "[[G2532]]"
+- "[[G4103]]"
+- "[[G1909]]"
+- "[[G3641]]"
+- "[[G1510]]"
+- "[[G4183]]"
+- "[[G4771]]"
+- "[[G2525]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G5479]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 25:21**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 His lord said unto him, Well done, [thou] good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.
 <small><sub>**BSB:**</sub></small>
 His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master!’
-<small><sub>**Literal:**</sub></small>
-was saying now to him the master of Him; Well done, servant good and faithful! Over a few things you were faithful, over many things you will I set. do enter into the joy of the master of you!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.20|<< Matthew 25:20]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.22|Matthew 25:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5346\|ἔφη]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2962H\|κύριος]]  [[G0846\|αὐτοῦ·]]  [[G2095\|εὖ,]]  [[G1401\|δοῦλε]]  [[G0018\|ἀγαθὲ]]  [[G2532\|καὶ]]  [[G4103\|πιστέ,]]  [[G1909\|ἐπὶ]]  [[G3641\|ὀλίγα]]  [[G1510\|ἦς]]  [[G4103\|πιστός,]]  [[G1909\|ἐπὶ]]  [[G4183\|πολλῶν]]  [[G4771\|σε]]  [[G2525\|καταστήσω.]]  [[G1525\|εἴσελθε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G5479\|χαρὰν]]  [[G3588\|τοῦ]]  [[G2962H\|κυρίου]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.20|<< Matthew 25:20]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.22|Matthew 25:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

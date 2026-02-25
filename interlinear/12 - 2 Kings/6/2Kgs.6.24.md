@@ -1,8 +1,61 @@
+---
+title: 2 Kings 6:24
+type: Verse
+kjv: "And it came to pass after this, that Benhadad king of Syria gathered all his host, and went up, and besieged Samaria."
+bsb: "Some time later, Ben-hadad king of Aram assembled his entire army and marched up to besiege Samaria."
+hebrew: "וַֽיְהִי֙ אַחֲרֵי־ כֵ֔ן וַיִּקְבֹּ֛ץ בֶּן־ הֲדַ֥ד מֶֽלֶךְ־ אֲרָ֖ם אֶת־ כָּל־ מַחֲנֵ֑הוּ וַיַּ֕עַל וַיָּ֖צַר עַל־ שֹׁמְרֽוֹן׃"
+pericope: "[[2Kgs.6.24 The Siege and Famine of Samaria|The Siege and Famine of Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H6908]]"
+- "[[H1130H]]"
+- "[[H4428G]]"
+- "[[H0758I]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H4264]]"
+- "[[H9023]]"
+- "[[H5927G]]"
+- "[[H6696A]]"
+- "[[H5921A]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:24**<big><big>[[2Kgs.6.24 The Siege and Famine of Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after this, that Benhadad king of Syria gathered all his host, and went up, and besieged Samaria.
 <small><sub>**BSB:**</sub></small>
 Some time later, Ben-hadad king of Aram assembled his entire army and marched up to besiege Samaria.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֔ן]] [[H9001\|וַ]][[H6908\|יִּקְבֹּ֛ץ]] [[H1130H\|בֶּן]][[H9014\|־]] [[H1130H\|הֲדַ֥ד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0758I\|אֲרָ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4264\|מַחֲנֵ֑]][[H9023\|הוּ]] [[H9001\|וַ]][[H5927G\|יַּ֕עַל]] [[H9001\|וַ]][[H6696A\|יָּ֖צַר]] [[H5921A\|עַל]][[H9014\|־]] [[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISRAEL|ISRAEL]] • [[topic SAMARIA|SAMARIA]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.23|<< 2 Kings 6:23]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.25|2 Kings 6:25 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 14:21
+type: Verse
+kjv: "In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord."
+bsb: "It is written in the Law: “By strange tongues and foreign lips I will speak to this people, but even then they will not listen to Me, says the Lord.”"
+greek: "ἐν τῷ νόμῳ γέγραπται ὅτι ἐν ἑτερογλώσσοις καὶ ἐν χείλεσιν ἑτέρων λαλήσω τῷ λαῷ τούτῳ, καὶ οὐδ᾽ οὕτως εἰσακούσονταί μου, λέγει κύριος."
+pericope: "[[1Cor.14.1 Prophecy and Tongues|Prophecy and Tongues]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G1125]]"
+- "[[G3754G]]"
+- "[[G2084]]"
+- "[[G2532]]"
+- "[[G5491]]"
+- "[[G2087]]"
+- "[[G2980]]"
+- "[[G2992]]"
+- "[[G3778]]"
+- "[[G3761]]"
+- "[[G3779]]"
+- "[[G1522]]"
+- "[[G3165]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **1 Corinthians 14:21**<big><big>[[1Cor.14.1 Prophecy and Tongues|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In the law it is written, With [men of] other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.
 <small><sub>**BSB:**</sub></small>
 It is written in the Law: “By strange tongues and foreign lips I will speak to this people, but even then they will not listen to Me, says the Lord.”
-<small><sub>**Literal:**</sub></small>
-In the law it has been written that By other tongues and by lips of others I will speak to the people this, and not even thus will they hear Me, says [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.20|<< 1 Corinthians 14:20]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.22|1 Corinthians 14:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3551\|νόμῳ]]  [[G1125\|γέγραπται]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G2084\|ἑτερογλώσσοις]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G5491\|χείλεσιν]]  [[G2087\|ἑτέρων]]  [[G2980\|λαλήσω]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G3778\|τούτῳ,]]  [[G2532\|καὶ]]  [[G3761\|οὐδ᾽]]  [[G3779\|οὕτως]]  [[G1522\|εἰσακούσονταί]]  [[G3165\|μου,]]  [[G3004G\|λέγει]]  [[G2962G\|κύριος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LANGUAGE|LANGUAGE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.20|<< 1 Corinthians 14:20]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.22|1 Corinthians 14:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 14:21** is...
 > $\quad$ referencing: [[LXX.Isa.28.11|Isa 28:11-12]]

@@ -1,8 +1,62 @@
+---
+title: 1 Kings 16:23
+type: Verse
+kjv: "In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah."
+bsb: "In the thirty-first year of Asa’s reign over Judah, Omri became king of Israel, and he reigned twelve years, six of them in Tirzah."
+hebrew: "בִּשְׁנַת֩ שְׁלֹשִׁ֨ים וְאַחַ֜ת שָׁנָ֗ה לְאָסָא֙ מֶ֣לֶךְ יְהוּדָ֔ה מָלַ֤ךְ עָמְרִי֙ עַל־ יִשְׂרָאֵ֔ל שְׁתֵּ֥ים עֶשְׂרֵ֖ה שָׁנָ֑ה בְּתִרְצָ֖ה מָלַ֥ךְ שֵׁשׁ־ שָׁנִֽים׃"
+pericope: "[[1Kgs.16.21 Omri Reigns in Israel|Omri Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic OMRI|OMRI]]"
+- "[[topic TIRZAH|TIRZAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H0609G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H6018G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H8656H]]"
+- "[[H8337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:23**<big><big>[[1Kgs.16.21 Omri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the thirty and first year of Asa king of Judah began Omri to reign over Israel, twelve years: six years reigned he in Tirzah.
 <small><sub>**BSB:**</sub></small>
 In the thirty-first year of Asa’s reign over Judah, Omri became king of Israel, and he reigned twelve years, six of them in Tirzah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַת֩]] [[H7970\|שְׁלֹשִׁ֨ים]] [[H9002\|וְ]][[H0259\|אַחַ֜ת]] [[H8141\|שָׁנָ֗ה]] [[H9005\|לְ]][[H0609G\|אָסָא֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H4427A\|מָלַ֤ךְ]] [[H6018G\|עָמְרִי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H8147\|שְׁתֵּ֥ים]] [[H6240\|עֶשְׂרֵ֖ה]] [[H8141\|שָׁנָ֑ה]] [[H9003\|בְּ]][[H8656H\|תִרְצָ֖ה]] [[H4427A\|מָלַ֥ךְ]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OMRI|OMRI]] • [[topic TIRZAH|TIRZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.22|<< 1 Kings 16:22]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.24|1 Kings 16:24 >>]]</td></tr></table>
 

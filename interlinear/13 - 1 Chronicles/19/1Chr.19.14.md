@@ -1,8 +1,61 @@
+---
+title: 1 Chronicles 19:14
+type: Verse
+kjv: "So Joab and the people that were with him drew nigh before the Syrians unto the battle; and they fled before him."
+bsb: "So Joab and his troops advanced to fight the Arameans, who fled before him."
+hebrew: "וַיִּגַּ֨שׁ יוֹאָ֜ב וְהָעָ֧ם אֲשֶׁר־ עִמּ֛וֹ לִפְנֵ֥י אֲרָ֖ם לַמִּלְחָמָ֑ה וַיָּנ֖וּסוּ מִפָּנָֽיו׃"
+pericope: "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic MEDEBA|MEDEBA]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0758I]]"
+- "[[H4421]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:14**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Joab and the people that [were] with him drew nigh before the Syrians unto the battle; and they fled before him.
 <small><sub>**BSB:**</sub></small>
 So Joab and his troops advanced to fight the Arameans, who fled before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066G\|יִּגַּ֨שׁ]] [[H3097G\|יוֹאָ֜ב]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָ֧ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5973A\|עִמּ֛]][[H9033\|וֹ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0758I\|אֲרָ֖ם]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H9001\|וַ]][[H5127\|יָּנ֖וּסוּ]] [[H9006\|מִ]][[H6440G\|פָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic JOAB|JOAB]] • [[topic MEDEBA|MEDEBA]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.13|<< 1 Chronicles 19:13]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.15|1 Chronicles 19:15 >>]]</td></tr></table>
 

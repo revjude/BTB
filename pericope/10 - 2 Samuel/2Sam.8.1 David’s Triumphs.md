@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Triumphs
+type: Pericope
 pericope: "[[2Sam.8.1 David’s Triumphs|David’s Triumphs]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 8
 book/chapter: "[[2Sam.8|2 Samuel 8]]"
-genre:
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 14
 verses:
 - "[[2Sam.8.1]]"
 - "[[2Sam.8.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Sam.8.14]]"
 ---
 
-[[2Sam.8|2 Samuel 8:1 - 2 Samuel 8:14]]
+<small>[[2Sam.8|2 Samuel 8:1-14]]</small>
 *David’s Triumphs*
 
 [[2Sam.8.1|1]] And after this it came to pass, that David smote the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines.

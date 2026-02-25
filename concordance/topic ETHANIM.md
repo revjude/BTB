@@ -3,11 +3,11 @@
 
 → (The seventh month (October))
 
-→ Feast of Trumpets in [[Lev.23.23|Le 23:23]]-[[Lev.23.25|25]]
+→ Feast of Trumpets in [[Lev.23.23|Le 23:23-25]]
 
-→ Day of Atonement, on the tenth day of [[Lev.23.26|Le 23:26]]-[[Lev.23.32|32]]
+→ Day of Atonement, on the tenth day of [[Lev.23.26|Le 23:26-32]]
 
-→ Feast of Tabernacles in [[Lev.23.33|Le 23:33]]-[[Lev.23.43|43]]
+→ Feast of Tabernacles in [[Lev.23.33|Le 23:33-43]]
 
 → Jubilee proclaimed on the tenth day of [[Lev.25.9|Le 25:9]]
 

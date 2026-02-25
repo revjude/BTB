@@ -1,10 +1,76 @@
+---
+title: Matthew 11:25
+type: Verse
+kjv: "At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes."
+bsb: "At that time Jesus declared, “I praise You, Father, Lord of heaven and earth, because You have hidden these things from the wise and learned, and revealed them to little children."
+jesus_said: "I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes."
+greek: "Ἐν ἐκείνῳ τῷ καιρῷ ἀποκριθεὶς ὁ Ἰησοῦς εἶπεν· ἐξομολογοῦμαί σοι, πάτερ κύριε τοῦ οὐρανοῦ καὶ τῆς γῆς, ὅτι ἔκρυψας ταῦτα ἀπὸ σοφῶν καὶ συνετῶν καὶ ἀπεκάλυψας αὐτὰ νηπίοις."
+pericope: "[[Matt.11.25 Rest for the Weary|Rest for the Weary]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic BABES|BABES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G0611]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G1843]]"
+- "[[G4771]]"
+- "[[G3962]]"
+- "[[G2962G]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G1093G]]"
+- "[[G3754H]]"
+- "[[G2928]]"
+- "[[G3778]]"
+- "[[G0575]]"
+- "[[G4680]]"
+- "[[G4908]]"
+- "[[G0601]]"
+- "[[G0846]]"
+- "[[G3516]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 11:25**<big><big>[[Matt.11.25 Rest for the Weary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 At that time Jesus answered and said, I thank thee, O Father, Lord of heaven and earth, because thou hast hid these things from the wise and prudent, and hast revealed them unto babes.
 <small><sub>**BSB:**</sub></small>
 At that time Jesus declared, “I praise You, Father, Lord of heaven and earth, because You have hidden these things from the wise and learned, and revealed them to little children.
-<small><sub>**Literal:**</sub></small>
-At that [very] <the> time answering <the> Jesus said; I fully consent to You, Father Lord of the heaven and the earth, for You did hide these things from wise and learned and did reveal them to little children.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.24|<< Matthew 11:24]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.26|Matthew 11:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G1565\|ἐκείνῳ]]  [[G3588\|τῷ]]  [[G2540\|καιρῷ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G1843\|ἐξομολογοῦμαί]]  [[G4771\|σοι,]]  [[G3962\|πάτερ]]  [[G2962G\|κύριε]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς,]]  [[G3754H\|ὅτι]]  [[G2928\|ἔκρυψας]]  [[G3778\|ταῦτα]]  [[G0575\|ἀπὸ]]  [[G4680\|σοφῶν]]  [[G2532\|καὶ]]  [[G4908\|συνετῶν]]  [[G2532\|καὶ]]  [[G0601\|ἀπεκάλυψας]]  [[G0846\|αὐτὰ]]  [[G3516\|νηπίοις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic BABES|BABES]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PREACHING|PREACHING]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.24|<< Matthew 11:24]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.26|Matthew 11:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

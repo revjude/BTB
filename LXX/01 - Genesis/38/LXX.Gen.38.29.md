@@ -1,6 +1,64 @@
+---
+title: LXX Genesis 38:29
+type: Verse
+lxx: "And as he retracted the hand,  straightway came forth  his brother.  And she said, Why the barrier cut because of you? And she called  his name, Pharez."
+greek: "ως δε επισυνήγαγε την χείρα και ευθύς εξήλθεν ο αδελφός αυτού η δε είπε τι διεκόπη διά σε φραγμός και εκάλεσε το όνομα αυτού Φαρές"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PHAREZ|PHAREZ]]"
+- "[[topic TWINS|TWINS]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1996]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G1831]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G5100]]"
+- "[[G6839]]"
+- "[[G1223]]"
+- "[[G1473]]"
+- "[[G5418]]"
+- "[[G2532]]"
+- "[[G2564]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[H6557]]"
+---
+
 **LXX Genesis 38:29** 
 <small><sub>**LXX:**</sub></small>
 And as he retracted the hand,  straightway came forth  his brother.  And she said, Why \[the\] barrier cut because of you? And she called  his name, Pharez. 
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ως]] [[G1161\|δε]] [[G1996\|επισυνήγαγε]] [[G3588\|την]] [[G5495\|χείρα]] [[G2532\|και]] [[G2112\|ευθύς]] [[G1831\|εξήλθεν]] [[G3588\|ο]] [[G0080\|αδελφός]] [[G1473\|αυτού]] [[G3588\|η]] [[G1161\|δε]] [[G2036\|είπε]] [[G5100\|τι]] [[G6839\|διεκόπη]] [[G1223\|διά]] [[G1473\|σε]] [[G5418\|φραγμός]] [[G2532\|και]] [[G2564\|εκάλεσε]] [[G3588\|το]] [[G3686\|όνομα]] [[G1473\|αυτού]] [[H6557\|Φαρές]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHAREZ|PHAREZ]] • [[topic TWINS|TWINS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.38.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.28|<< Genesis 38:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.30|Genesis 38:30 >>]]</td></tr></table>
 
@@ -28,6 +86,6 @@ And as he retracted the hand,  straightway came forth  his brother.  And she sai
 | \<obj.> | **<big>[[G3588\|το]]</big>** |
 | his name, | **<big>[[G3686\|όνομα]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | Pharez. | **<big>[[H6557\|Φαρές]]</big>** |
-[[Gen.38.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.28|<< Genesis 38:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.30|Genesis 38:30 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.38.28|<< Genesis 38:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.38.30|Genesis 38:30 >>]]</td></tr></table>
 
 

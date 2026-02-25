@@ -1,8 +1,56 @@
+---
+title: Lamentations 1:1
+type: Verse
+kjv: "How doth the city sit solitary, that was full of people! how is she become as a widow! she that was great among the nations, and princess among the provinces, how is she become tributary!"
+bsb: "How lonely lies the city, once so full of people! She who was great among the nations has become a widow. The princess of the provinces has become a slave."
+hebrew: "אֵיכָ֣ה׀ יָשְׁבָ֣ה בָדָ֗ד הָעִיר֙ רַבָּ֣תִי עָ֔ם הָיְתָ֖ה כְּאַלְמָנָ֑ה רַּבָּ֣תִי בַגּוֹיִ֗ם שָׂרָ֙תִי֙ בַּמְּדִינ֔וֹת הָיְתָ֖ה לָמַֽס׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+strongs:
+- "[[H0349B]]"
+- "[[H9015]]"
+- "[[H3427]]"
+- "[[H0910]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H7227A]]"
+- "[[H5971A]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0490]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H8282]]"
+- "[[H4082]]"
+- "[[H9005]]"
+- "[[H4522]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- L(abh)
+---
+
 **Lamentations 1:1**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How doth the city sit solitary, [that was] full of people! [how] is she become as a widow! she [that was] great among the nations, [and] princess among the provinces, [how] is she become tributary!
 <small><sub>**BSB:**</sub></small>
 How lonely lies the city, once so full of people! She who was great among the nations has become a widow. The princess of the provinces has become a slave.
+<small><sub>**Hebrew:**</sub></small>
+[[H0349B\|אֵיכָ֣ה]][[H9015\|׀]] [[H3427\|יָשְׁבָ֣ה]] [[H0910\|בָדָ֗ד]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H7227A\|רַבָּ֣תִי]] [[H5971A\|עָ֔ם]] [[H1961\|הָיְתָ֖ה]] [[H9004\|כְּ]][[H0490\|אַלְמָנָ֑ה]] [[H7227A\|רַּבָּ֣תִי]] [[H9003\|בַ]][[H1471A\|גּוֹיִ֗ם]] [[H8282\|שָׂרָ֙תִי֙]] [[H9003\|בַּ]][[H4082\|מְּדִינ֔וֹת]] [[H1961\|הָיְתָ֖ה]] [[H9005\|לָ]][[H4522\|מַֽס]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.34|<< Jeremiah 52:34]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.2|Lamentations 1:2 >>]]</td></tr></table>
 
@@ -21,7 +69,7 @@ How lonely lies the city, once so full of people! She who was great among the na
 | a princess  |**<big>&#8207;[[H8282\|שָׂרָ֙תִי֙]]&#8207; </big>**| sa.Ra.ti<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | among the provinces  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4082\|מְּדִינ֔וֹת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> me.di.Not<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she has become  |**<big>&#8207;[[H1961\|הָיְתָ֖ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<into> forced labor  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4522\|מַֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<into> forced labor  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H4522\|מַֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.34|<< Jeremiah 52:34]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.2|Lamentations 1:2 >>]]</td></tr></table>
 
 [^1]: ABH spelled: **<span class="ashebrew"><big>רַבָּ֣תִי</big></span>**

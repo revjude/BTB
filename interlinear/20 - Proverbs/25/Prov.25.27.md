@@ -1,8 +1,53 @@
+---
+title: Proverbs 25:27
+type: Verse
+kjv: "It is not good to eat much honey: so for men to search their own glory is not glory."
+bsb: "It is not good to eat too much honey or to search out one’s own glory."
+hebrew: "אָ֘כֹ֤ל דְּבַ֣שׁ הַרְבּ֣וֹת לֹא־ ט֑וֹב וְחֵ֖קֶר כְּבֹדָ֣ם כָּבֽוֹד׃"
+pericope: "[[Prov.25.1 More Proverbs of Solomon|More Proverbs of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 25
+book/chapter: "[[Prov.25|Proverbs 25]]"
+chronological_order: 480
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HONEY|HONEY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H0398]]"
+- "[[H1706]]"
+- "[[H7235A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H2714]]"
+- "[[H3519]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 25:27**<big><big>[[Prov.25.1 More Proverbs of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] not good to eat much honey: so [for men] to search their own glory [is not] glory.
 <small><sub>**BSB:**</sub></small>
 It is not good to eat too much honey or to search out one’s own glory.
+<small><sub>**Hebrew:**</sub></small>
+[[H0398\|אָ֘כֹ֤ל]] [[H1706\|דְּבַ֣שׁ]] [[H7235A\|הַרְבּ֣וֹת]] [[H3808\|לֹא]][[H9014\|־]] [[H2896A\|ט֑וֹב]] [[H9002\|וְ]][[H2714\|חֵ֖קֶר]] [[H3519\|כְּבֹדָ֣]][[H9028\|ם]] [[H3519\|כָּבֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONEY|HONEY]] • [[topic PRIDE|PRIDE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.25.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.25.26|<< Proverbs 25:26]]</td><td align="center" style="border:none;">[[Prov.25|Proverbs 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.25.28|Proverbs 25:28 >>]]</td></tr></table>
 

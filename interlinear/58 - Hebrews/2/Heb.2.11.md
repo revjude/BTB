@@ -1,10 +1,61 @@
+---
+title: Hebrews 2:11
+type: Verse
+kjv: "For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,"
+bsb: "For both the One who sanctifies and those who are sanctified are of the same family. So Jesus is not ashamed to call them brothers."
+greek: "ὅ τε γὰρ ἁγιάζων καὶ οἱ ἁγιαζόμενοι ἐξ ἑνὸς πάντες· δι᾽ ἣν αἰτίαν οὐκ ἐπαισχύνεται ἀδελφοὺς αὐτοὺς καλεῖν"
+pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G1063]]"
+- "[[G0037]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G1520]]"
+- "[[G3956]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G0156]]"
+- "[[G3756]]"
+- "[[G1870]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G2564G]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:11**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For both he that sanctifieth and they who are sanctified [are] all of one: for which cause he is not ashamed to call them brethren,
 <small><sub>**BSB:**</sub></small>
 For both the One who sanctifies and those who are sanctified are of the same family. So Jesus is not ashamed to call them brothers.
-<small><sub>**Literal:**</sub></small>
-The [One] both for sanctifying and those being sanctified of one [are] all; for which reason not He is ashamed brothers them to call<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.10|<< Hebrews 2:10]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.12|Hebrews 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὅ]]  [[G5037\|τε]]  [[G1063\|γὰρ]]  [[G0037\|ἁγιάζων]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0037\|ἁγιαζόμενοι]]  [[G1537\|ἐξ]]  [[G1520\|ἑνὸς]]  [[G3956\|πάντες·]]  [[G1223\|δι᾽]]  [[G3739\|ἣν]]  [[G0156\|αἰτίαν]]  [[G3756\|οὐκ]]  [[G1870\|ἐπαισχύνεται]]  [[G0080\|ἀδελφοὺς]]  [[G0846\|αὐτοὺς]]  [[G2564G\|καλεῖν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BROTHER|BROTHER]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.10|<< Hebrews 2:10]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.12|Hebrews 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

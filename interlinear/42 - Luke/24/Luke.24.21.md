@@ -1,10 +1,69 @@
+---
+title: Luke 24:21
+type: Verse
+kjv: "But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done."
+bsb: "But we were hoping He was the One who would redeem Israel. And besides all this, it is the third day since these things took place."
+greek: "ἡμεῖς δὲ ἠλπίζομεν ὅτι αὐτός ἐστιν ὁ μέλλων λυτροῦσθαι τὸν Ἰσραήλ. ἀλλά γε καὶ σὺν πᾶσιν τούτοις τρίτην ταύτην ἡμέραν ἄγει σήμερον ἀφ᾽ οὗ ταῦτα ἐγένετο."
+pericope: "[[Luke.24.13 The Road to Emmaus|The Road to Emmaus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3165]]"
+- "[[G1161]]"
+- "[[G1679]]"
+- "[[G3754G]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3195]]"
+- "[[G3084]]"
+- "[[G2474]]"
+- "[[G0235]]"
+- "[[G1065]]"
+- "[[G2532]]"
+- "[[G4862]]"
+- "[[G3956]]"
+- "[[G3778]]"
+- "[[G5154]]"
+- "[[G2250]]"
+- "[[G0071]]"
+- "[[G4594]]"
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G1096]]"
+texts:
+- NKO
+- no
+- ko
+---
+
 **Luke 24:21**<big><big>[[Luke.24.13 The Road to Emmaus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.
 <small><sub>**BSB:**</sub></small>
 But we were hoping He was the One who would redeem Israel. And besides all this, it is the third day since these things took place.
-<small><sub>**Literal:**</sub></small>
-We ourselves however were hoping that He himself it is who is about to redeem <the> Israel. But indeed also with all these things [the] third this day brings today away from which these things came to pass.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.20|<< Luke 24:20]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.22|Luke 24:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3165\|ἡμεῖς]]  [[G1161\|δὲ]]  [[G1679\|ἠλπίζομεν]]  [[G3754G\|ὅτι]]  [[G0846\|αὐτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3195\|μέλλων]]  [[G3084\|λυτροῦσθαι]]  [[G3588\|τὸν]]  [[G2474\|Ἰσραήλ.]]  [[G0235\|ἀλλά]]  [[G1065\|γε]]  [[G2532\|καὶ]]  [[G4862\|σὺν]]  [[G3956\|πᾶσιν]]  [[G3778\|τούτοις]]  [[G5154\|τρίτην]]  [[G3778\|ταύτην]]  [[G2250\|ἡμέραν]]  [[G0071\|ἄγει]]  [[G4594\|σήμερον]]  [[G0575\|ἀφ᾽]]  [[G3739\|οὗ]]  [[G3778\|ταῦτα]]  [[G1096\|ἐγένετο.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.20|<< Luke 24:20]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.22|Luke 24:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

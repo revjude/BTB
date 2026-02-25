@@ -1,8 +1,63 @@
+---
+title: Jeremiah 15:14
+type: Verse
+kjv: "And I will make thee to pass with thine enemies into a land which thou knowest not: for a fire is kindled in mine anger, which shall burn upon you."
+bsb: "Then I will enslave you to your enemies in a land you do not know, for My anger will kindle a fire that will burn against you.”"
+hebrew: "וְהַֽעֲבַרְתִּי֙ אֶת־ אֹ֣יְבֶ֔יךָ בְּאֶ֖רֶץ לֹ֣א יָדָ֑עְתָּ כִּֽי־ אֵ֛שׁ קָדְחָ֥ה בְאַפִּ֖י עֲלֵיכֶ֥ם תּוּקָֽד׃ ס"
+pericope: "[[Jer.15.10 Jeremiah’s Woe|Jeremiah’s Woe]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 15
+book/chapter: "[[Jer.15|Jeremiah 15]]"
+chronological_order: 732
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0784]]"
+- "[[H6919]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H3344]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 15:14**<big><big>[[Jer.15.10 Jeremiah’s Woe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will make [thee] to pass with thine enemies into a land [which] thou knowest not: for a fire is kindled in mine anger, [which] shall burn upon you.
 <small><sub>**BSB:**</sub></small>
 Then I will enslave you to your enemies in a land you do not know, for My anger will kindle a fire that will burn against you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|הַֽעֲבַרְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אֹ֣יְבֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H3808\|לֹ֣א]] [[H3045\|יָדָ֑עְתָּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0784\|אֵ֛שׁ]] [[H6919\|קָדְחָ֥ה]] [[H9003\|בְ]][[H0639G\|אַפִּ֖]][[H9020\|י]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֥ם]] [[H3344\|תּוּקָֽד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.13|<< Jeremiah 15:13]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.15|Jeremiah 15:15 >>]]</td></tr></table>
 
@@ -19,7 +74,7 @@ Then I will enslave you to your enemies in a land you do not know, for My anger 
 | it has been kindled  |**<big>&#8207;[[H6919\|קָדְחָ֥ה]]&#8207; </big>**| ka.de.Chah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in anger my  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0639G\|אַפִּ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'a.P<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | towards you  |**<big>&#8207;[[H5921A\|עֲלֵי]]&#8207;&#8207;[[H9036\|כֶ֥ם]]&#8207; </big>**| 'a.lei.<small><sup>[[HRd]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will burn  |**<big>&#8207;[[H3344\|תּוּקָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tu.Kad<small><sup>[[HVHi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will burn  |**<big>&#8207;[[H3344\|תּוּקָֽד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| tu.Kad<small><sup>[[HVHi3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.15.13|<< Jeremiah 15:13]]</td><td align="center" style="border:none;">[[Jer.15|Jeremiah 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.15.15|Jeremiah 15:15 >>]]</td></tr></table>
 
 

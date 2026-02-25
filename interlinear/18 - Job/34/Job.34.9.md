@@ -1,8 +1,54 @@
+---
+title: Job 34:9
+type: Verse
+kjv: "For he hath said, It profiteth a man nothing that he should delight himself with God."
+bsb: "For he has said, ‘It profits a man nothing that he should delight in God.’"
+hebrew: "כִּֽי־ אָ֭מַר לֹ֣א יִסְכָּן־ גָּ֑בֶר בִּ֝רְצֹת֗וֹ עִם־ אֱלֹהִֽים׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H5532]]"
+- "[[H1397]]"
+- "[[H9003]]"
+- "[[H7521]]"
+- "[[H9043]]"
+- "[[H5973A]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:9**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he hath said, It profiteth a man nothing that he should delight himself with God.
 <small><sub>**BSB:**</sub></small>
 For he has said, ‘It profits a man nothing that he should delight in God.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|אָ֭מַר]] [[H3808\|לֹ֣א]] [[H5532\|יִסְכָּן]][[H9014\|־]] [[H1397\|גָּ֑בֶר]] [[H9003\|בִּ֝]][[H7521\|רְצֹת֗]][[H9043\|וֹ]] [[H5973A\|עִם]][[H9014\|־]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.8|<< Job 34:8]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.10|Job 34:10 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Joel 1:15
+type: Verse
+kjv: "Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come."
+bsb: "Alas for the day! For the Day of the LORD is near, and it will come as destruction from the Almighty."
+hebrew: "אֲהָ֖הּ לַיּ֑וֹם כִּ֤י קָרוֹב֙ י֣וֹם יְהוָ֔ה וּכְשֹׁ֖ד מִשַׁדַּ֥י יָבֽוֹא׃"
+pericope: "[[Joel.1.13 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NATION|NATION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H0162]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H3588A]]"
+- "[[H7138]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H7701]]"
+- "[[H9006]]"
+- "[[H7706]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:15**<big><big>[[Joel.1.13 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Alas for the day! for the day of the LORD [is] at hand, and as a destruction from the Almighty shall it come.
 <small><sub>**BSB:**</sub></small>
 Alas for the day! For the Day of the LORD is near, and it will come as destruction from the Almighty.
+<small><sub>**Hebrew:**</sub></small>
+[[H0162\|אֲהָ֖הּ]] [[H9005\|לַ]][[H3117G\|יּ֑וֹם]] [[H3588A\|כִּ֤י]] [[H7138\|קָרוֹב֙]] [[H3117G\|י֣וֹם]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H9004\|כְ]][[H7701\|שֹׁ֖ד]] [[H9006\|מִ]][[H7706\|שַׁדַּ֥י]] [[H0935G\|יָבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMINE|FAMINE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NATION|NATION]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.14|<< Joel 1:14]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.16|Joel 1:16 >>]]</td></tr></table>
 

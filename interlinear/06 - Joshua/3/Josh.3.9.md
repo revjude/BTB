@@ -1,8 +1,57 @@
+---
+title: Joshua 3:9
+type: Verse
+kjv: "And Joshua said unto the children of Israel, Come hither, and hear the words of the LORD your God."
+bsb: "So Joshua told the Israelites, “Come here and listen to the words of the LORD your God.”"
+hebrew: "וַיֹּ֥אמֶר יְהוֹשֻׁ֖עַ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֑ל גֹּ֣שׁוּ הֵ֔נָּה וְשִׁמְע֕וּ אֶת־ דִּבְרֵ֖י יְהוָ֥ה אֱלֹֽהֵיכֶֽם׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5066G]]"
+- "[[H2008]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:9**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto the children of Israel, Come hither, and hear the words of the LORD your God.
 <small><sub>**BSB:**</sub></small>
 So Joshua told the Israelites, “Come here and listen to the words of the LORD your God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H5066G\|גֹּ֣שׁוּ]] [[H2008\|הֵ֔נָּה]] [[H9002\|וְ]][[H8085G\|שִׁמְע֕וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.8|<< Joshua 3:8]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.10|Joshua 3:10 >>]]</td></tr></table>
 

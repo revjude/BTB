@@ -1,8 +1,67 @@
+---
+title: Numbers 19:7
+type: Verse
+kjv: "Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even."
+bsb: "Then the priest must wash his clothes and bathe his body in water; after that he may enter the camp, but he will be ceremonially unclean until evening."
+hebrew: "וְכִבֶּ֨ס בְּגָדָ֜יו הַכֹּהֵ֗ן וְרָחַ֤ץ בְּשָׂרוֹ֙ בַּמַּ֔יִם וְאַחַ֖ר יָב֣וֹא אֶל־ הַֽמַּחֲנֶ֑ה וְטָמֵ֥א הַכֹּהֵ֖ן עַד־ הָעָֽרֶב׃"
+pericope: "[[Num.19.1 The Red Heifer|The Red Heifer]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H7364]]"
+- "[[H1320]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H2930A]]"
+- "[[H5704]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 19:7**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even.
 <small><sub>**BSB:**</sub></small>
 Then the priest must wash his clothes and bathe his body in water; after that he may enter the camp, but he will be ceremonially unclean until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3526H\|כִבֶּ֨ס]] [[H0899B\|בְּגָדָ֜י]][[H9023\|ו]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H9001\|וְ]][[H7364\|רָחַ֤ץ]] [[H1320\|בְּשָׂר]][[H9023\|וֹ֙]] [[H9003\|בַּ]][[H4325G\|מַּ֔יִם]] [[H9002\|וְ]][[H0310A\|אַחַ֖ר]] [[H0935G\|יָב֣וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H9001\|וְ]][[H2930A\|טָמֵ֥א]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.6|<< Numbers 19:6]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.8|Numbers 19:8 >>]]</td></tr></table>
 

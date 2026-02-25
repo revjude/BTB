@@ -1,8 +1,63 @@
+---
+title: Psalm 55:21
+type: Verse
+kjv: "The words of his mouth were smoother than butter, but war was in his heart: his words were softer than oil, yet were they drawn swords."
+bsb: "His speech is smooth as butter, but war is in his heart. His words are softer than oil, yet they are swords unsheathed."
+hebrew: "חָלְק֤וּ׀ מַחְמָאֹ֣ת פִּיו֮ וּֽקֲרָב־ לִ֫בּ֥וֹ רַכּ֖וּ דְבָרָ֥יו מִשֶּׁ֗מֶן וְהֵ֣מָּה פְתִחֽוֹת׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H2505B]]"
+- "[[H9015]]"
+- "[[H4260]]"
+- "[[H6310I]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7128]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H7401]]"
+- "[[H1697G]]"
+- "[[H9006]]"
+- "[[H8081]]"
+- "[[H1992]]"
+- "[[H6609]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:21**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [The words] of his mouth were smoother than butter, but war [was] in his heart: his words were softer than oil, yet [were] they drawn swords.
 <small><sub>**BSB:**</sub></small>
 His speech is smooth as butter, but war is in his heart. His words are softer than oil, yet they are swords unsheathed.
+<small><sub>**Hebrew:**</sub></small>
+[[H2505B\|חָלְק֤וּ]][[H9015\|׀]] [[H4260\|מַחְמָאֹ֣ת]] [[H6310I\|פִּי]][[H9023\|ו֮]] [[H9002\|וּֽ]][[H7128\|קֲרָב]][[H9014\|־]] [[H3820A\|לִ֫בּ֥]][[H9023\|וֹ]] [[H7401\|רַכּ֖וּ]] [[H1697G\|דְבָרָ֥י]][[H9023\|ו]] [[H9006\|מִ]][[H8081\|שֶּׁ֗מֶן]] [[H9002\|וְ]][[H1992\|הֵ֣מָּה]] [[H6609\|פְתִחֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic FRIENDS|FRIENDS]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SINCERITY|SINCERITY]] • [[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.20|<< Psalms 55:20]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.55.22|Psalms 55:22 >>]]</td></tr></table>
 

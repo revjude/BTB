@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: An Exhortation to Obedience
+type: Pericope
 pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 4
 book/chapter: "[[Deut.4|Deuteronomy 4]]"
-genre:
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 14
 verses:
 - "[[Deut.4.1]]"
 - "[[Deut.4.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Deut.4.14]]"
 ---
 
-[[Deut.4|Deuteronomy 4:1 - Deuteronomy 4:14]]
+<small>[[Deut.4|Deuteronomy 4:1-14]]</small>
 *An Exhortation to Obedience*
 
 [[Deut.4.1|1]] Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do \[them\], that ye may live, and go in and possess the land which the LORD God of your fathers giveth you.

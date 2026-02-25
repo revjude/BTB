@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Mother’s Request
+type: Pericope
 pericope: "[[Matt.20.20 A Mother’s Request|A Mother’s Request]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 20
 book/chapter: "[[Matt.20|Matthew 20]]"
-genre:
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Matt.20.20]]"
 - "[[Matt.20.21]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Matt.20.28]]"
 ---
 
-[[Matt.20|Matthew 20:20 - Matthew 20:28]]
+<small>[[Matt.20|Matthew 20:20-28]]</small>
 *A Mother’s Request*
 
 [[Matt.20.20|20]] Then came to him the mother of Zebedee’s children with her sons, worshipping \[him\], and desiring a certain thing of him.

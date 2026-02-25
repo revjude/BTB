@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Discouragement Overcome
+type: Pericope
 pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 4
 book/chapter: "[[Neh.4|Nehemiah 4]]"
-genre:
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 15
 verses:
 - "[[Neh.4.9]]"
 - "[[Neh.4.10]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Neh.4.23]]"
 ---
 
-[[Neh.4|Nehemiah 4:9 - Nehemiah 4:23]]
+<small>[[Neh.4|Nehemiah 4:9-23]]</small>
 *Discouragement Overcome*
 
 [[Neh.4.9|9]] Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them.

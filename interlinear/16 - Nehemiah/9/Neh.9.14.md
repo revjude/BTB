@@ -1,8 +1,63 @@
+---
+title: Nehemiah 9:14
+type: Verse
+kjv: "And madest known unto them thy holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses thy servant:"
+bsb: "You revealed to them Your holy Sabbath and gave them commandments and statutes and laws through Your servant Moses."
+hebrew: "וְאֶת־ שַׁבַּ֥ת קָדְשְׁךָ֖ הוֹדַ֣עַתָ לָהֶ֑ם וּמִצְו֤וֹת וְחֻקִּים֙ וְתוֹרָ֔ה צִוִּ֣יתָ לָהֶ֔ם בְּיַ֖ד מֹשֶׁ֥ה עַבְדֶּֽךָ׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7676]]"
+- "[[H6944G]]"
+- "[[H9021]]"
+- "[[H3045]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4687]]"
+- "[[H2706G]]"
+- "[[H8451]]"
+- "[[H6680]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:14**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And madest known unto them thy holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses thy servant:
 <small><sub>**BSB:**</sub></small>
 You revealed to them Your holy Sabbath and gave them commandments and statutes and laws through Your servant Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבַּ֥ת]] [[H6944G\|קָדְשְׁ]][[H9021\|ךָ֖]] [[H3045\|הוֹדַ֣עַתָ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וּ]][[H4687\|מִצְו֤וֹת]] [[H9002\|וְ]][[H2706G\|חֻקִּים֙]] [[H9002\|וְ]][[H8451\|תוֹרָ֔ה]] [[H6680\|צִוִּ֣יתָ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9003\|בְּ]][[H3027J\|יַ֖ד]] [[H4872\|מֹשֶׁ֥ה]] [[H5650\|עַבְדֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic LAW|LAW]] • [[topic SABBATH|SABBATH]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.13|<< Nehemiah 9:13]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.15|Nehemiah 9:15 >>]]</td></tr></table>
 

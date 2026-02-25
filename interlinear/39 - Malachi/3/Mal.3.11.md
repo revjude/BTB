@@ -1,8 +1,66 @@
+---
+title: Malachi 3:11
+type: Verse
+kjv: "And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts."
+bsb: "I will rebuke the devourer for you, so that it will not destroy the fruits of your land, and the vine in your field will not fail to produce fruit,” says the LORD of Hosts."
+hebrew: "וְגָעַרְתִּ֤י לָכֶם֙ בָּֽאֹכֵ֔ל וְלֹֽא־ יַשְׁחִ֥ת לָכֶ֖ם אֶת־ פְּרִ֣י הָאֲדָמָ֑ה וְלֹא־ תְשַׁכֵּ֨ל לָכֶ֤ם הַגֶּ֙פֶן֙ בַּשָּׂדֶ֔ה אָמַ֖ר יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Mal.3.6 Robbing God|Robbing God]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MALACHI|MALACHI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1605]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H6529]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H7921A]]"
+- "[[H1612]]"
+- "[[H7704G]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:11**<big><big>[[Mal.3.6 Robbing God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 I will rebuke the devourer for you, so that it will not destroy the fruits of your land, and the vine in your field will not fail to produce fruit,” says the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1605\|גָעַרְתִּ֤י]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9003\|בָּֽ]][[H0398\|אֹכֵ֔ל]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7843\|יַשְׁחִ֥ת]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6529\|פְּרִ֣י]] [[H9009\|הָ]][[H0127G\|אֲדָמָ֑ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7921A\|תְשַׁכֵּ֨ל]] [[H9005\|לָ]][[H9036\|כֶ֤ם]] [[H9009\|הַ]][[H1612\|גֶּ֙פֶן֙]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֔ה]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MALACHI|MALACHI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.10|<< Malachi 3:10]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.12|Malachi 3:12 >>]]</td></tr></table>
 

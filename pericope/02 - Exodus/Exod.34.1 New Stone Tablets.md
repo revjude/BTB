@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: New Stone Tablets
+type: Pericope
 pericope: "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 34
 book/chapter: "[[Exod.34|Exodus 34]]"
-genre:
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.34.1]]"
 - "[[Exod.34.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.34.9]]"
 ---
 
-[[Exod.34|Exodus 34:1 - Exodus 34:9]]
+<small>[[Exod.34|Exodus 34:1-9]]</small>
 *New Stone Tablets*
 
 [[Exod.34.1|1]] And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon \[these\] tables the words that were in the first tables, which thou brakest.

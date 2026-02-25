@@ -1,8 +1,46 @@
+---
+title: Job 30:28
+type: Verse
+kjv: "I went mourning without the sun: I stood up, and I cried in the congregation."
+bsb: "I go about blackened, but not by the sun. I stand up in the assembly and cry for help."
+hebrew: "קֹדֵ֣ר הִ֭לַּכְתִּי בְּלֹ֣א חַמָּ֑ה קַ֖מְתִּי בַקָּהָ֣ל אֲשַׁוֵּֽעַ׃"
+pericope: "[[Job.30.15 Job’s Prosperity Becomes Calamity|Job’s Prosperity Becomes Calamity]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H6937]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H2535]]"
+- "[[H6965I]]"
+- "[[H6951]]"
+- "[[H7768]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:28**<big><big>[[Job.30.15 Job’s Prosperity Becomes Calamity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went mourning without the sun: I stood up, [and] I cried in the congregation.
 <small><sub>**BSB:**</sub></small>
 I go about blackened, but not by the sun. I stand up in the assembly and cry for help.
+<small><sub>**Hebrew:**</sub></small>
+[[H6937\|קֹדֵ֣ר]] [[H1980I\|הִ֭לַּכְתִּי]] [[H9003\|בְּ]][[H3808\|לֹ֣א]] [[H2535\|חַמָּ֑ה]] [[H6965I\|קַ֖מְתִּי]] [[H9003\|בַ]][[H6951\|קָּהָ֣ל]] [[H7768\|אֲשַׁוֵּֽעַ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.27|<< Job 30:27]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.29|Job 30:29 >>]]</td></tr></table>
 

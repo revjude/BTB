@@ -1,8 +1,60 @@
+---
+title: Isaiah 9:10
+type: Verse
+kjv: "The bricks are fallen down, but we will build with hewn stones: the sycomores are cut down, but we will change them into cedars."
+bsb: "“The bricks have fallen, but we will rebuild with finished stone; the sycamores have been felled, but we will replace them with cedars.”"
+hebrew: "לְבֵנִ֥ים נָפָ֖לוּ וְגָזִ֣ית נִבְנֶ֑ה שִׁקְמִ֣ים גֻּדָּ֔עוּ וַאֲרָזִ֖ים נַחֲלִֽיף׃"
+pericope: "[[Isa.9.8 Judgment against Israel’s Pride|Judgment against Israel’s Pride]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 9
+book/chapter: "[[Isa.9|Isaiah 9]]"
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BRICK|BRICK]]"
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic STONES|STONES]]"
+- "[[topic SYCAMORE|SYCAMORE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3843]]"
+- "[[H5307G]]"
+- "[[H9002]]"
+- "[[H1496]]"
+- "[[H1129]]"
+- "[[H8256]]"
+- "[[H1438]]"
+- "[[H0730]]"
+- "[[H2498]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 9:10**<big><big>[[Isa.9.8 Judgment against Israel’s Pride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The bricks are fallen down, but we will build with hewn stones: the sycomores are cut down, but we will change [them into] cedars.
 <small><sub>**BSB:**</sub></small>
 “The bricks have fallen, but we will rebuild with finished stone; the sycamores have been felled, but we will replace them with cedars.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3843\|לְבֵנִ֥ים]] [[H5307G\|נָפָ֖לוּ]] [[H9002\|וְ]][[H1496\|גָזִ֣ית]] [[H1129\|נִבְנֶ֑ה]] [[H8256\|שִׁקְמִ֣ים]] [[H1438\|גֻּדָּ֔עוּ]] [[H9002\|וַ]][[H0730\|אֲרָזִ֖ים]] [[H2498\|נַחֲלִֽיף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRICK|BRICK]] • [[topic CEDAR|CEDAR]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic HOUSE|HOUSE]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PRIDE|PRIDE]] • [[topic STONES|STONES]] • [[topic SYCAMORE|SYCAMORE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.9.9|<< Isaiah 9:9]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.11|Isaiah 9:11 >>]]</td></tr></table>
 

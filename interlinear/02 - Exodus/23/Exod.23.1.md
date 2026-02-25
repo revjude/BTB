@@ -1,8 +1,70 @@
+---
+title: Exodus 23:1
+type: Verse
+kjv: "Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness."
+bsb: "“You shall not spread a false report. Do not join the wicked by being a malicious witness."
+hebrew: "לֹ֥א תִשָּׂ֖א שֵׁ֣מַע שָׁ֑וְא אַל־ תָּ֤שֶׁת יָֽדְךָ֙ עִם־ רָשָׁ֔ע לִהְיֹ֖ת עֵ֥ד חָמָֽס׃ ס"
+pericope: "[[Exod.23.1 Justice and Mercy|Justice and Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic OATH|OATH]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H3808]]"
+- "[[H5375N]]"
+- "[[H8088B]]"
+- "[[H7723G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7896H]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5973A]]"
+- "[[H7563]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H5707]]"
+- "[[H2555]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 23:1**<big><big>[[Exod.23.1 Justice and Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not raise a false report: put not thine hand with the wicked to be an unrighteous witness.
 <small><sub>**BSB:**</sub></small>
 “You shall not spread a false report. Do not join the wicked by being a malicious witness.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֥א]] [[H5375N\|תִשָּׂ֖א]] [[H8088B\|שֵׁ֣מַע]] [[H7723G\|שָׁ֑וְא]] [[H0408\|אַל]][[H9014\|־]] [[H7896H\|תָּ֤שֶׁת]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֙]] [[H5973A\|עִם]][[H9014\|־]] [[H7563\|רָשָׁ֔ע]] [[H9005\|לִ]][[H1961\|הְיֹ֖ת]] [[H5707\|עֵ֥ד]] [[H2555\|חָמָֽס]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic EVIDENCE|EVIDENCE]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INJUSTICE|INJUSTICE]] • [[topic JUSTICE|JUSTICE]] • [[topic OATH|OATH]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.31|<< Exodus 22:31]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.2|Exodus 23:2 >>]]</td></tr></table>
 
@@ -19,7 +81,7 @@ Thou shalt not raise a false report: put not thine hand with the wicked to be an
 | a wicked [person]  |**<big>&#8207;[[H7563\|רָשָׁ֔ע]]&#8207; </big>**| ra.Sha'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to be  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H1961\|הְיֹ֖ת]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a witness of  |**<big>&#8207;[[H5707\|עֵ֥ד]]&#8207; </big>**| 'ed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| injustice  |**<big>&#8207;[[H2555\|חָמָֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cha.Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| injustice  |**<big>&#8207;[[H2555\|חָמָֽס]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| cha.Mas<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.31|<< Exodus 22:31]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.2|Exodus 23:2 >>]]</td></tr></table>
 
 

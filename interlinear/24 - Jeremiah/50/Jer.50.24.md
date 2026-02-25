@@ -1,8 +1,60 @@
+---
+title: Jeremiah 50:24
+type: Verse
+kjv: "I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast striven against the LORD."
+bsb: "I laid a snare for you, O Babylon, and you were caught before you knew it. You were found and captured because you challenged the LORD."
+hebrew: "יָקֹ֨שְׁתִּי לָ֤ךְ וְגַם־ נִלְכַּדְתְּ֙ בָּבֶ֔ל וְאַ֖תְּ לֹ֣א יָדָ֑עַתְּ נִמְצֵאת֙ וְגַם־ נִתְפַּ֔שְׂתְּ כִּ֥י בַֽיהוָ֖ה הִתְגָּרִֽית׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H3369]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3920]]"
+- "[[H0894]]"
+- "[[H0859C]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H4672]]"
+- "[[H8610]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H1624]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:24**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have laid a snare for thee, and thou art also taken, O Babylon, and thou wast not aware: thou art found, and also caught, because thou hast striven against the LORD.
 <small><sub>**BSB:**</sub></small>
 I laid a snare for you, O Babylon, and you were caught before you knew it. You were found and captured because you challenged the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3369\|יָקֹ֨שְׁתִּי]] [[H9005\|לָ֤]][[H9032\|ךְ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H3920\|נִלְכַּדְתְּ֙]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וְ]][[H0859C\|אַ֖תְּ]] [[H3808\|לֹ֣א]] [[H3045\|יָדָ֑עַתְּ]] [[H4672\|נִמְצֵאת֙]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H8610\|נִתְפַּ֔שְׂתְּ]] [[H3588A\|כִּ֥י]] [[H9003\|בַֽ]][[H3068G\|יהוָ֖ה]] [[H1624\|הִתְגָּרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.23|<< Jeremiah 50:23]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.25|Jeremiah 50:25 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Genesis 14:18
+type: Verse
+kjv: "And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God."
+bsb: "Then Melchizedek king of Salem brought out bread and wine—since he was priest of God Most High—"
+hebrew: "וּמַלְכִּי־ צֶ֙דֶק֙ מֶ֣לֶךְ שָׁלֵ֔ם הוֹצִ֖יא לֶ֣חֶם וָיָ֑יִן וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֽוֹן׃"
+pericope: "[[Gen.14.17 Melchizedek Blesses Abram|Melchizedek Blesses Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4442]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H8004]]"
+- "[[H3318H]]"
+- "[[H3899H]]"
+- "[[H3196]]"
+- "[[H1931]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H0410J]]"
+- "[[H5945H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 14:18**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Melchizedek king of Salem brought forth bread and wine: and he [was] the priest of the most high God.
 <small><sub>**BSB:**</sub></small>
 Then Melchizedek king of Salem brought out bread and wine—since he was priest of God Most High—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4442\|מַלְכִּי]][[H9014\|־]] [[H4442\|צֶ֙דֶק֙]] [[H4428G\|מֶ֣לֶךְ]] [[H8004\|שָׁלֵ֔ם]] [[H3318H\|הוֹצִ֖יא]] [[H3899H\|לֶ֣חֶם]] [[H9002\|וָ]][[H3196\|יָ֑יִן]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H3548\|כֹהֵ֖ן]] [[H9005\|לְ]][[H0410J\|אֵ֥ל]] [[H5945H\|עֶלְיֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.17|<< Genesis 14:17]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.19|Genesis 14:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

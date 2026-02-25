@@ -1,8 +1,65 @@
+---
+title: Joshua 17:9
+type: Verse
+kjv: "And the coast descended unto the river Kanah, southward of the river: these cities of Ephraim are among the cities of Manasseh: the coast of Manasseh also was on the north side of the river, and the outgoings of it were at the sea:"
+bsb: "From there the border continued southward to the Brook of Kanah. There were cities belonging to Ephraim among the cities of Manasseh, but the border of Manasseh was on the north side of the brook and ended at the Sea."
+hebrew: "וְיָרַ֣ד הַגְּבוּל֩ נַ֨חַל קָנָ֜ה נֶ֣גְבָּה לַנַּ֗חַל עָרִ֤ים הָאֵ֙לֶּה֙ לְאֶפְרַ֔יִם בְּת֖וֹךְ עָרֵ֣י מְנַשֶּׁ֑ה וּגְב֤וּל מְנַשֶּׁה֙ מִצְּפ֣וֹן לַנַּ֔חַל וַיְהִ֥י תֹצְאֹתָ֖יו הַיָּֽמָּה׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic KANAH|KANAH]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H5158A]]"
+- "[[H7071G]]"
+- "[[H5045H]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H5892B]]"
+- "[[H0428]]"
+- "[[H0669G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H4519G]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H1961]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:9**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the coast descended unto the river Kanah, southward of the river: these cities of Ephraim [are] among the cities of Manasseh: the coast of Manasseh also [was] on the north side of the river, and the outgoings of it were at the sea:
 <small><sub>**BSB:**</sub></small>
 From there the border continued southward to the Brook of Kanah. There were cities belonging to Ephraim among the cities of Manasseh, but the border of Manasseh was on the north side of the brook and ended at the Sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3381\|יָרַ֣ד]] [[H9009\|הַ]][[H1366G\|גְּבוּל֩]] [[H5158A\|נַ֨חַל]] [[H7071G\|קָנָ֜ה]] [[H5045H\|נֶ֣גְבָּ]][[H9011\|ה]] [[H9005\|לַ]][[H5158A\|נַּ֗חַל]] [[H5892B\|עָרִ֤ים]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H9005\|לְ]][[H0669G\|אֶפְרַ֔יִם]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H5892B\|עָרֵ֣י]] [[H4519G\|מְנַשֶּׁ֑ה]] [[H9002\|וּ]][[H1366G\|גְב֤וּל]] [[H4519G\|מְנַשֶּׁה֙]] [[H9006\|מִ]][[H6828G\|צְּפ֣וֹן]] [[H9005\|לַ]][[H5158A\|נַּ֔חַל]] [[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H8444\|תֹצְאֹתָ֖י]][[H9023\|ו]] [[H9009\|הַ]][[H3220G\|יָּֽמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic KANAH|KANAH]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.8|<< Joshua 17:8]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.10|Joshua 17:10 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Proverbs 12:27
+type: Verse
+kjv: "The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious."
+bsb: "A lazy man does not roast his game, but a diligent man prizes his possession."
+hebrew: "לֹא־ יַחֲרֹ֣ךְ רְמִיָּ֣ה צֵיד֑וֹ וְהוֹן־ אָדָ֖ם יָקָ֣ר חָרֽוּץ׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2760]]"
+- "[[H7423B]]"
+- "[[H6718A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1952]]"
+- "[[H0120G]]"
+- "[[H3368]]"
+- "[[H2742A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:27**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The slothful [man] roasteth not that which he took in hunting: but the substance of a diligent man [is] precious.
 <small><sub>**BSB:**</sub></small>
 A lazy man does not roast his game, but a diligent man prizes his possession.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H2760\|יַחֲרֹ֣ךְ]] [[H7423B\|רְמִיָּ֣ה]] [[H6718A\|צֵיד֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H1952\|הוֹן]][[H9014\|־]] [[H0120G\|אָדָ֖ם]] [[H3368\|יָקָ֣ר]] [[H2742A\|חָרֽוּץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRUGALITY|FRUGALITY]] • [[topic IDLENESS|IDLENESS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.26|<< Proverbs 12:26]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.28|Proverbs 12:28 >>]]</td></tr></table>
 

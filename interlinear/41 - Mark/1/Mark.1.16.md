@@ -1,10 +1,69 @@
+---
+title: Mark 1:16
+type: Verse
+kjv: "Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers."
+bsb: "As Jesus was walking beside the Sea of Galilee, He saw Simon and his brother Andrew. They were casting a net into the sea, for they were fishermen."
+greek: "Καὶ παράγων δὲ παρὰ τὴν θάλασσαν τῆς Γαλιλαίας εἶδεν Σίμωνα καὶ Ἀνδρέαν τὸν ἀδελφὸν αὐτοῦ τοῦ Σίμωνος ἀμφιβάλλοντας ἀμφίβληστρον ἐν τῇ θαλάσσῃ· ἦσαν γὰρ ἁλιεῖς."
+pericope: "[[Mark.1.16 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANDREW|ANDREW]]"
+- "[[topic CALL|CALL]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FISHERMEN|FISHERMEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G3855]]"
+- "[[G1161]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G2281]]"
+- "[[G1056H]]"
+- "[[G1492H]]"
+- "[[G4613O]]"
+- "[[G0406]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G6006]]"
+- "[[G0293]]"
+- "[[G1722]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G0231]]"
+texts:
+- no
+- N(k)O
+- k
+- NKO
+- o
+---
+
 **Mark 1:16**<big><big>[[Mark.1.16 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
 <small><sub>**BSB:**</sub></small>
 As Jesus was walking beside the Sea of Galilee, He saw Simon and his brother Andrew. They were casting a net into the sea, for they were fishermen.
-<small><sub>**Literal:**</sub></small>
-And passing now by the Sea <the> of Galilee He saw Simon and Andrew the brother of him <the> of Simon net-casting a net into the sea; they were for fishermen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.15|<< Mark 1:15]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.17|Mark 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3855\|παράγων]]  [[G1161\|δὲ]]  [[G3844\|παρὰ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G3588\|τῆς]]  [[G1056H\|Γαλιλαίας]]  [[G1492H\|εἶδεν]]  [[G4613O\|Σίμωνα]]  [[G2532\|καὶ]]  [[G0406\|Ἀνδρέαν]]  [[G3588\|τὸν]]  [[G0080\|ἀδελφὸν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τοῦ]]  [[G4613O\|Σίμωνος]]  [[G6006\|ἀμφιβάλλοντας]]  [[G0293\|ἀμφίβληστρον]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2281\|θαλάσσῃ·]]  [[G1510\|ἦσαν]]  [[G1063\|γὰρ]]  [[G0231\|ἁλιεῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANDREW|ANDREW]] • [[topic CALL|CALL]] • [[topic FAITH|FAITH]] • [[topic FISHERMEN|FISHERMEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PETER|PETER]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.15|<< Mark 1:15]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.17|Mark 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

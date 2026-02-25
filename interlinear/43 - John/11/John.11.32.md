@@ -1,10 +1,70 @@
+---
+title: John 11:32
+type: Verse
+kjv: "Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died."
+bsb: "When Mary came to Jesus and saw Him, she fell at His feet and said, “Lord, if You had been here, my brother would not have died.”"
+greek: "ἡ οὖν Μαριὰμ ὡς ἦλθεν ὅπου ἦν ὁ Ἰησοῦς, ἰδοῦσα αὐτὸν ἔπεσεν αὐτοῦ πρὸς τοὺς πόδας λέγουσα αὐτῷ· κύριε, εἰ ἦς ὧδε, οὐκ ἄν μου ἀπέθανεν ὁ ἀδελφός."
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G3588]]"
+- "[[G3767]]"
+- "[[G3137J]]"
+- "[[G5613]]"
+- "[[G2064]]"
+- "[[G3699]]"
+- "[[G1510]]"
+- "[[G2424G]]"
+- "[[G1492H]]"
+- "[[G0846]]"
+- "[[G4098]]"
+- "[[G4314]]"
+- "[[G4228]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G1487G]]"
+- "[[G5602]]"
+- "[[G3756]]"
+- "[[G0302]]"
+- "[[G3165]]"
+- "[[G0599]]"
+- "[[G0080]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 11:32**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then when Mary was come where Jesus was, and saw him, she fell down at his feet, saying unto him, Lord, if thou hadst been here, my brother had not died.
 <small><sub>**BSB:**</sub></small>
 When Mary came to Jesus and saw Him, she fell at His feet and said, “Lord, if You had been here, my brother would not have died.”
-<small><sub>**Literal:**</sub></small>
-<the> Therefore Mary when she came to where was <the> Jesus, having seen Him she fell of Him at the feet saying to Him; Lord, if You had been here, not then would my have died <the> brother.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.31|<< John 11:31]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.33|John 11:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G3767\|οὖν]]  [[G3137J\|Μαριὰμ]]  [[G5613\|ὡς]]  [[G2064\|ἦλθεν]]  [[G3699\|ὅπου]]  [[G1510\|ἦν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G1492H\|ἰδοῦσα]]  [[G0846\|αὐτὸν]]  [[G4098\|ἔπεσεν]]  [[G0846\|αὐτοῦ]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3004G\|λέγουσα]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G1487G\|εἰ]]  [[G1510\|ἦς]]  [[G5602\|ὧδε,]]  [[G3756\|οὐκ]]  [[G0302\|ἄν]]  [[G3165\|μου]]  [[G0599\|ἀπέθανεν]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDOLENCE|CONDOLENCE]] • [[topic FAITH|FAITH]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.31|<< John 11:31]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.33|John 11:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

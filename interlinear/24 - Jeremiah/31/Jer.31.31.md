@@ -1,8 +1,61 @@
+---
+title: Jeremiah 31:31
+type: Verse
+kjv: "Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah:"
+bsb: "Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and with the house of Judah."
+hebrew: "הִנֵּ֛ה יָמִ֥ים בָּאִ֖ים נְאֻם־ יְהוָ֑ה וְכָרַתִּ֗י אֶת־ בֵּ֧ית יִשְׂרָאֵ֛ל וְאֶת־ בֵּ֥ית יְהוּדָ֖ה בְּרִ֥ית חֲדָשָֽׁה׃"
+pericope: "[[Jer.31.26 The New Covenant|The New Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H3772H]]"
+- "[[H0854]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H1285]]"
+- "[[H2319H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:31**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, saith the LORD, that I will make a new covenant with the house of Israel, and with the house of Judah:
 <small><sub>**BSB:**</sub></small>
 Behold, the days are coming, declares the LORD, when I will make a new covenant with the house of Israel and with the house of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֛ה]] [[H3117G\|יָמִ֥ים]] [[H0935G\|בָּאִ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H3772H\|כָרַתִּ֗י]] [[H0854\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֧ית]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3063G\|יְהוּדָ֖ה]] [[H1285\|בְּרִ֥ית]] [[H2319H\|חֲדָשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOSPEL|GOSPEL]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.30|<< Jeremiah 31:30]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.32|Jeremiah 31:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

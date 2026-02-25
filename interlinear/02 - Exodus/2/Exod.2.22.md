@@ -1,8 +1,66 @@
+---
+title: Exodus 2:22
+type: Verse
+kjv: "And she bare him a son, and he called his name Gershom: for he said, I have been a stranger in a strange land."
+bsb: "And she gave birth to a son, and Moses named him Gershom, saying, “I have become a foreigner in a foreign land.”"
+hebrew: "וַתֵּ֣לֶד בֵּ֔ן וַיִּקְרָ֥א אֶת־ שְׁמ֖וֹ גֵּרְשֹׁ֑ם כִּ֣י אָמַ֔ר גֵּ֣ר הָיִ֔יתִי בְּאֶ֖רֶץ נָכְרִיָּֽה׃ פ"
+pericope: "[[Exod.2.11 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 2
+book/chapter: "[[Exod.2|Exodus 2]]"
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GERSHOM|GERSHOM]]"
+- "[[topic JETHRO|JETHRO]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic ZIPPORAH|ZIPPORAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H1647G]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H1616]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H5237]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 2:22**<big><big>[[Exod.2.11 The Rejection and Flight of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she bare [him] a son, and he called his name Gershom: for he said, I have been a stranger in a strange land.
 <small><sub>**BSB:**</sub></small>
 And she gave birth to a son, and Moses named him Gershom, saying, “I have become a foreigner in a foreign land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H1121A\|בֵּ֔ן]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H1647G\|גֵּרְשֹׁ֑ם]] [[H3588A\|כִּ֣י]] [[H0559\|אָמַ֔ר]] [[H1616\|גֵּ֣ר]] [[H1961\|הָיִ֔יתִי]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H5237\|נָכְרִיָּֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHOM|GERSHOM]] • [[topic JETHRO|JETHRO]] • [[topic MOSES|MOSES]] • [[topic ZIPPORAH|ZIPPORAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.2.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.21|<< Exodus 2:21]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.23|Exodus 2:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -23,7 +81,7 @@ And she gave birth to a son, and Moses named him Gershom, saying, “I have beco
 | a sojourner  |**<big>&#8207;[[H1616\|גֵּ֣ר]]&#8207; </big>**| ger<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I have become  |**<big>&#8207;[[H1961\|הָיִ֔יתִי]]&#8207; </big>**| ha.Yi.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in a land  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אֶ֖רֶץ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'E.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| foreign  |**<big>&#8207;[[H5237\|נָכְרִיָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| na.khe.ri.Yah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| foreign  |**<big>&#8207;[[H5237\|נָכְרִיָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| na.khe.ri.Yah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.2.21|<< Exodus 2:21]]</td><td align="center" style="border:none;">[[Exod.2|Exodus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.2.23|Exodus 2:23 >>]]</td></tr></table>
 
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Uncleanness of Women
+type: Pericope
 pericope: "[[Lev.15.19 The Uncleanness of Women|The Uncleanness of Women]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 15
 book/chapter: "[[Lev.15|Leviticus 15]]"
-genre:
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 9
 verses:
 - "[[Lev.15.19]]"
 - "[[Lev.15.20]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Lev.15.27]]"
 ---
 
-[[Lev.15|Leviticus 15:19 - Leviticus 15:27]]
+<small>[[Lev.15|Leviticus 15:19-27]]</small>
 *The Uncleanness of Women*
 
 [[Lev.15.19|19]] And if a woman have an issue, \[and\] her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even.

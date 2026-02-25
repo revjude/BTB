@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 21:10
+type: Verse
+kjv: "Go and tell David, saying, Thus saith the LORD, I offer thee three things: choose thee one of them, that I may do it unto thee."
+bsb: "“Go and tell David that this is what the LORD says: ‘I am offering you three options. Choose one of them, and I will carry it out against you.’”"
+hebrew: "לֵךְ֩ וְדִבַּרְתָּ֨ אֶל־ דָּוִ֜יד לֵאמֹ֗ר כֹּ֚ה אָמַ֣ר יְהוָ֔ה שָׁל֕וֹשׁ אֲנִ֖י נֹטֶ֣ה עָלֶ֑יךָ בְּחַר־ לְךָ֛ אַחַ֥ת מֵהֵ֖נָּה וְאֶֽעֱשֶׂה־ לָּֽךְ׃"
+pericope: "[[1Chr.21.7 Judgment for David’s Sin|Judgment for David’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H7969]]"
+- "[[H0589]]"
+- "[[H5186]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H0977]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9039]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:10**<big><big>[[1Chr.21.7 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and tell David, saying, Thus saith the LORD, I offer thee three [things]: choose thee one of them, that I may do [it] unto thee.
 <small><sub>**BSB:**</sub></small>
 “Go and tell David that this is what the LORD says: ‘I am offering you three options. Choose one of them, and I will carry it out against you.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לֵךְ֩]] [[H9001\|וְ]][[H1696G\|דִבַּרְתָּ֨]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֜יד]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H7969\|שָׁל֕וֹשׁ]] [[H0589\|אֲנִ֖י]] [[H5186\|נֹטֶ֣ה]] [[H5921A\|עָלֶ֑י]][[H9031\|ךָ]] [[H0977\|בְּחַר]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H0259\|אַחַ֥ת]] [[H9006\|מֵ]][[H9039\|הֵ֖נָּה]] [[H9002\|וְ]][[H6213A\|אֶֽעֱשֶׂה]][[H9014\|־]] [[H9005\|לָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.9|<< 1 Chronicles 21:9]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.11|1 Chronicles 21:11 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: 2 Kings 10:13
+type: Verse
+kjv: "Jehu met with the brethren of Ahaziah king of Judah, and said, Who are ye? And they answered, We are the brethren of Ahaziah; and we go down to salute the children of the king and the children of the queen."
+bsb: "Jehu met some relatives of Ahaziah king of Judah and asked, “Who are you?” “We are relatives of Ahaziah,” they answered, “and we have come down to greet the sons of the king and of the queen mother.”"
+hebrew: "וְיֵה֗וּא מָצָא֙ אֶת־ אֲחֵי֙ אֲחַזְיָ֣הוּ מֶֽלֶךְ־ יְהוּדָ֔ה וַיֹּ֖אמֶר מִ֣י אַתֶּ֑ם וַיֹּאמְר֗וּ אֲחֵ֤י אֲחַזְיָ֙הוּ֙ אֲנַ֔חְנוּ וַנֵּ֛רֶד לִשְׁל֥וֹם בְּנֵֽי־ הַמֶּ֖לֶךְ וּבְנֵ֥י הַגְּבִירָֽה׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+strongs:
+- "[[H9002]]"
+- "[[H3058H]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0251H]]"
+- "[[H0274H]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H0859D]]"
+- "[[H0587]]"
+- "[[H3381]]"
+- "[[H9005]]"
+- "[[H7965K]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H1377]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:13**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehu met with the brethren of Ahaziah king of Judah, and said, Who [are] ye? And they answered, We [are] the brethren of Ahaziah; and we go down to salute the children of the king and the children of the queen.
 <small><sub>**BSB:**</sub></small>
 Jehu met some relatives of Ahaziah king of Judah and asked, “Who are you?” “We are relatives of Ahaziah,” they answered, “and we have come down to greet the sons of the king and of the queen mother.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3058H\|יֵה֗וּא]] [[H4672\|מָצָא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0251H\|אֲחֵי֙]] [[H0274H\|אֲחַזְיָ֣הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H4310\|מִ֣י]] [[H0859D\|אַתֶּ֑ם]] [[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H0251H\|אֲחֵ֤י]] [[H0274H\|אֲחַזְיָ֙הוּ֙]] [[H0587\|אֲנַ֔חְנוּ]] [[H9001\|וַ]][[H3381\|נֵּ֛רֶד]] [[H9005\|לִ]][[H7965K\|שְׁל֥וֹם]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H9009\|הַ]][[H1377\|גְּבִירָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.12|<< 2 Kings 10:12]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.14|2 Kings 10:14 >>]]</td></tr></table>
 

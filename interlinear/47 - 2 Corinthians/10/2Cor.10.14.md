@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 10:14
+type: Verse
+kjv: "For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:"
+bsb: "We are not overstepping our bounds, as if we had not come to you. Indeed, we were the first to reach you with the gospel of Christ."
+greek: "οὐ γὰρ ὡς μὴ ἐφικνούμενοι εἰς ὑμᾶς ὑπερεκτείνομεν ἑαυτούς· ἄχρι γὰρ καὶ ὑμῶν ἐφθάσαμεν ἐν τῷ εὐαγγελίῳ τοῦ Χριστοῦ·"
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G5613]]"
+- "[[G3361]]"
+- "[[G2185]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G5239]]"
+- "[[G1438]]"
+- "[[G0891]]"
+- "[[G2532]]"
+- "[[G5348]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 10:14**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we stretch not ourselves beyond [our measure], as though we reached not unto you: for we are come as far as to you also in [preaching] the gospel of Christ:
 <small><sub>**BSB:**</sub></small>
 We are not overstepping our bounds, as if we had not come to you. Indeed, we were the first to reach you with the gospel of Christ.
-<small><sub>**Literal:**</sub></small>
-Not for as not reaching to you we are overextending ourselves; as far as for also you we came in the gospel <the> of Christ;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.13|<< 2 Corinthians 10:13]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.15|2 Corinthians 10:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G5613\|ὡς]]  [[G3361\|μὴ]]  [[G2185\|ἐφικνούμενοι]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G5239\|ὑπερεκτείνομεν]]  [[G1438\|ἑαυτούς·]]  [[G0891\|ἄχρι]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G4771\|ὑμῶν]]  [[G5348\|ἐφθάσαμεν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2098\|εὐαγγελίῳ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.13|<< 2 Corinthians 10:13]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.15|2 Corinthians 10:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

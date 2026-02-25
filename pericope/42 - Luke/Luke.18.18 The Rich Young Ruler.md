@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rich Young Ruler
+type: Pericope
 pericope: "[[Luke.18.18 The Rich Young Ruler|The Rich Young Ruler]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Luke
 chapter: 18
 book/chapter: "[[Luke.18|Luke 18]]"
-genre:
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 13
 verses:
 - "[[Luke.18.18]]"
 - "[[Luke.18.19]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Luke.18.30]]"
 ---
 
-[[Luke.18|Luke 18:18 - Luke 18:30]]
+<small>[[Luke.18|Luke 18:18-30]]</small>
 *The Rich Young Ruler*
 
 [[Luke.18.18|18]] And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?

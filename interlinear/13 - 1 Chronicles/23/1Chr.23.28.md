@@ -1,8 +1,62 @@
+---
+title: 1 Chronicles 23:28
+type: Verse
+kjv: "Because their office was to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;"
+bsb: "but their duty was to assist the descendants of Aaron with the service of the house of the LORD, being responsible for the courts and chambers, the purification of all the holy things, and the work of the service of the house of God,"
+hebrew: "כִּ֣י מַעֲמָדָ֞ם לְיַד־ בְּנֵ֣י אַהֲרֹ֗ן לַעֲבֹדַת֙ בֵּ֣ית יְהוָ֔ה עַל־ הַחֲצֵרוֹת֙ וְעַל־ הַלְּשָׁכ֔וֹת וְעַֽל־ טָהֳרַ֖ת לְכָל־ קֹ֑דֶשׁ וּמַֽעֲשֵׂ֔ה עֲבֹדַ֖ת בֵּ֥ית הָאֱלֹהִֽים׃"
+pericope: "[[1Chr.23.24 Levite Duties Revised|Levite Duties Revised]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 23
+book/chapter: "[[1Chr.23|1 Chronicles 23]]"
+chronological_order: 434
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4612]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H3027K]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H5656H]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H9002]]"
+- "[[H3957]]"
+- "[[H2893]]"
+- "[[H3605]]"
+- "[[H6944G]]"
+- "[[H4639G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 23:28**<big><big>[[1Chr.23.24 Levite Duties Revised|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because their office [was] to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;
 <small><sub>**BSB:**</sub></small>
 but their duty was to assist the descendants of Aaron with the service of the house of the LORD, being responsible for the courts and chambers, the purification of all the holy things, and the work of the service of the house of God,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H4612\|מַעֲמָדָ֞]][[H9028\|ם]] [[H9005\|לְ]][[H3027K\|יַד]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H0175\|אַהֲרֹ֗ן]] [[H9005\|לַ]][[H5656H\|עֲבֹדַת֙]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2691A\|חֲצֵרוֹת֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֔וֹת]] [[H9002\|וְ]][[H5921A\|עַֽל]][[H9014\|־]] [[H2893\|טָהֳרַ֖ת]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H6944G\|קֹ֑דֶשׁ]] [[H9002\|וּ]][[H4639G\|מַֽעֲשֵׂ֔ה]] [[H5656H\|עֲבֹדַ֖ת]] [[H1004Q\|בֵּ֥ית]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.23.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.23.27|<< 1 Chronicles 23:27]]</td><td align="center" style="border:none;">[[1Chr.23|1 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.23.29|1 Chronicles 23:29 >>]]</td></tr></table>
 

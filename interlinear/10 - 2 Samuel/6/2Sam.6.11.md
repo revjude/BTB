@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 6:11
+type: Verse
+kjv: "And the ark of the LORD continued in the house of Obededom the Gittite three months: and the LORD blessed Obededom, and all his household."
+bsb: "Thus the ark of the LORD remained in the house of Obed-edom the Gittite for three months, and the LORD blessed him and all his household."
+hebrew: "וַיֵּשֶׁב֩ אֲר֨וֹן יְהוָ֜ה בֵּ֣ית עֹבֵ֥ד אֱדֹ֛ם הַגִּתִּ֖י שְׁלֹשָׁ֣ה חֳדָשִׁ֑ים וַיְבָ֧רֶךְ יְהוָ֛ה אֶת־ עֹבֵ֥ד אֱדֹ֖ם וְאֶת־ כָּל־ בֵּיתֽוֹ׃"
+pericope: "[[2Sam.6.5 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H1004B]]"
+- "[[H5654]]"
+- "[[H9009]]"
+- "[[H1663]]"
+- "[[H7969]]"
+- "[[H2320G]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:11**<big><big>[[2Sam.6.5 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ark of the LORD continued in the house of Obededom the Gittite three months: and the LORD blessed Obededom, and all his household.
 <small><sub>**BSB:**</sub></small>
 Thus the ark of the LORD remained in the house of Obed-edom the Gittite for three months, and the LORD blessed him and all his household.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3427\|יֵּשֶׁב֩]] [[H0727\|אֲר֨וֹן]] [[H3068G\|יְהוָ֜ה]] [[H1004B\|בֵּ֣ית]] [[H5654\|עֹבֵ֥ד]] [[H5654\|אֱדֹ֛ם]] [[H9009\|הַ]][[H1663\|גִּתִּ֖י]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H2320G\|חֳדָשִׁ֑ים]] [[H9001\|וַ]][[H1288\|יְבָ֧רֶךְ]] [[H3068G\|יְהוָ֛ה]] [[H0853\|אֶת]][[H9014\|־]] [[H5654\|עֹבֵ֥ד]] [[H5654\|אֱדֹ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic BLESSING|BLESSING]] • [[topic DAVID|DAVID]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.10|<< 2 Samuel 6:10]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.12|2 Samuel 6:12 >>]]</td></tr></table>
 

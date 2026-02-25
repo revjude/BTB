@@ -1,8 +1,73 @@
+---
+title: Jeremiah 44:23
+type: Verse
+kjv: "Because ye have burned incense, and because ye have sinned against the LORD, and have not obeyed the voice of the LORD, nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day."
+bsb: "Because you burned incense and sinned against the LORD and did not obey the voice of the LORD or walk in His instruction, His statutes, and His testimonies, this disaster has befallen you, as you see today.”"
+hebrew: "מִפְּנֵי֩ אֲשֶׁ֨ר קִטַּרְתֶּ֜ם וַאֲשֶׁ֧ר חֲטָאתֶ֣ם לַיהוָ֗ה וְלֹ֤א שְׁמַעְתֶּם֙ בְּק֣וֹל יְהוָ֔ה וּבְתֹרָת֧וֹ וּבְחֻקֹּתָ֛יו וּבְעֵדְוֹתָ֖יו לֹ֣א הֲלַכְתֶּ֑ם עַל־ כֵּ֞ן קָרָ֥את אֶתְכֶ֛ם הָרָעָ֥ה הַזֹּ֖את כַּיּ֥וֹם הַזֶּֽה׃ ס"
+pericope: "[[Jer.44.20 Calamity for the Jews|Calamity for the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H0834A]]"
+- "[[H6999H]]"
+- "[[H9002]]"
+- "[[H2398]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H8451]]"
+- "[[H9023]]"
+- "[[H2708]]"
+- "[[H5715]]"
+- "[[H1980I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7122I]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H2063]]"
+- "[[H9004]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 44:23**<big><big>[[Jer.44.20 Calamity for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because ye have burned incense, and because ye have sinned against the LORD, and have not obeyed the voice of the LORD, nor walked in his law, nor in his statutes, nor in his testimonies; therefore this evil is happened unto you, as at this day.
 <small><sub>**BSB:**</sub></small>
 Because you burned incense and sinned against the LORD and did not obey the voice of the LORD or walk in His instruction, His statutes, and His testimonies, this disaster has befallen you, as you see today.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6440I\|פְּנֵי֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H6999H\|קִטַּרְתֶּ֜ם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֧ר]] [[H2398\|חֲטָאתֶ֣ם]] [[H9005\|לַ]][[H3068G\|יהוָ֗ה]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8085H\|שְׁמַעְתֶּם֙]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H8451\|תֹרָת֧]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H2708\|חֻקֹּתָ֛י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בְ]][[H5715\|עֵדְוֹתָ֖י]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H1980I\|הֲלַכְתֶּ֑ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֞ן]] [[H7122I\|קָרָ֥את]] [[H0853\|אֶתְ]][[H9036\|כֶ֛ם]] [[H9009\|הָ]][[H7451C\|רָעָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H9004\|כַּ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.22|<< Jeremiah 44:22]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.24|Jeremiah 44:24 >>]]</td></tr></table>
 
@@ -30,7 +95,7 @@ Because you burned incense and sinned against the LORD and did not obey the voic
 | the calamity  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451C\|רָעָ֥ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ra.'Ah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2063\|זֹּ֖את]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zot<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | as the day  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H3117L\|יּ֥וֹם]]&#8207; </big>**| ka<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> this  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2088\|זֶּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Zeh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.22|<< Jeremiah 44:22]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.24|Jeremiah 44:24 >>]]</td></tr></table>
 
 

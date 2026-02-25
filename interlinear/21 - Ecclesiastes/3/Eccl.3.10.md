@@ -1,8 +1,55 @@
+---
+title: Ecclesiastes 3:10
+type: Verse
+kjv: "I have seen the travail, which God hath given to the sons of men to be exercised in it."
+bsb: "I have seen the burden that God has laid upon the sons of men to occupy them."
+hebrew: "רָאִ֣יתִי אֶת־ הָֽעִנְיָ֗ן אֲשֶׁ֨ר נָתַ֧ן אֱלֹהִ֛ים לִבְנֵ֥י הָאָדָ֖ם לַעֲנ֥וֹת בּֽוֹ׃"
+pericope: "[[Eccl.3.9 God’s Works Remain Forever|God’s Works Remain Forever]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6045]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H0120G]]"
+- "[[H6031A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:10**<big><big>[[Eccl.3.9 God’s Works Remain Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I have seen the travail, which God hath given to the sons of men to be exercised in it.
 <small><sub>**BSB:**</sub></small>
 I have seen the burden that God has laid upon the sons of men to occupy them.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רָאִ֣יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H6045\|עִנְיָ֗ן]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|נָתַ֧ן]] [[H0430G\|אֱלֹהִ֛ים]] [[H9005\|לִ]][[H1121A\|בְנֵ֥י]] [[H9009\|הָ]][[H0120G\|אָדָ֖ם]] [[H9005\|לַ]][[H6031A\|עֲנ֥וֹת]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.9|<< Ecclesiastes 3:9]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.11|Ecclesiastes 3:11 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Psalm 103:17
+type: Verse
+kjv: "But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;"
+bsb: "But from everlasting to everlasting the loving devotion of the LORD extends to those who fear Him, and His righteousness to their children’s children—"
+hebrew: "וְחֶ֤סֶד יְהוָ֨ה׀ מֵעוֹלָ֣ם וְעַד־ ע֭וֹלָם עַל־ יְרֵאָ֑יו וְ֝צִדְקָת֗וֹ לִבְנֵ֥י בָנִֽים׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2617A]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H5769G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H3373]]"
+- "[[H9023]]"
+- "[[H6666]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:17**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the mercy of the LORD [is] from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;
 <small><sub>**BSB:**</sub></small>
 But from everlasting to everlasting the loving devotion of the LORD extends to those who fear Him, and His righteousness to their children’s children—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2617A\|חֶ֤סֶד]] [[H3068G\|יְהוָ֨ה]][[H9015\|׀]] [[H9006\|מֵ]][[H5769G\|עוֹלָ֣ם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H5769G\|ע֭וֹלָם]] [[H5921A\|עַל]][[H9014\|־]] [[H3373\|יְרֵאָ֑י]][[H9023\|ו]] [[H9002\|וְ֝]][[H6666\|צִדְקָת֗]][[H9023\|וֹ]] [[H9005\|לִ]][[H1121A\|בְנֵ֥י]] [[H1121A\|בָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARENTS|PARENTS]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.16|<< Psalms 103:16]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.18|Psalms 103:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

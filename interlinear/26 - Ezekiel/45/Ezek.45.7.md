@@ -1,8 +1,63 @@
+---
+title: Ezekiel 45:7
+type: Verse
+kjv: "And a portion shall be for the prince on the one side and on the other side of the oblation of the holy portion, and of the possession of the city, before the oblation of the holy portion, and before the possession of the city, from the west side westward, and from the east side eastward: and the length shall be over against one of the portions, from the west border unto the east border."
+bsb: "Now the prince will have the area bordering each side of the area formed by the holy district and the property of the city, extending westward from the western side and eastward from the eastern side, running lengthwise from the western boundary to the eastern boundary and parallel to one of the tribal portions."
+hebrew: "וְלַנָּשִׂ֡יא מִזֶּ֣ה וּמִזֶּה֩ לִתְרוּמַ֨ת הַקֹּ֜דֶשׁ וְלַאֲחֻזַּ֣ת הָעִ֗יר אֶל־ פְּנֵ֤י תְרֽוּמַת־ הַקֹּ֙דֶשׁ֙ וְאֶל־ פְּנֵי֙ אֲחֻזַּ֣ת הָעִ֔יר מִפְּאַת־ יָ֣ם יָ֔מָּה וּמִפְּאַת־ קֵ֖דְמָה קָדִ֑ימָה וְאֹ֗רֶךְ לְעֻמּוֹת֙ אַחַ֣ד הַחֲלָקִ֔ים מִגְּב֥וּל יָ֖ם אֶל־ גְּב֥וּל קָדִֽימָה׃"
+pericope: "[[Ezek.45.7 The Prince’s Portion|The Prince’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H5387A]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H8641]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H0272]]"
+- "[[H5892B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6440G]]"
+- "[[H6285]]"
+- "[[H3220H]]"
+- "[[H9011]]"
+- "[[H6924B]]"
+- "[[H6921]]"
+- "[[H0753]]"
+- "[[H5980]]"
+- "[[H0259]]"
+- "[[H2506A]]"
+- "[[H1366G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:7**<big><big>[[Ezek.45.7 The Prince’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [a portion shall be] for the prince on the one side and on the other side of the oblation of the holy [portion], and of the possession of the city, before the oblation of the holy [portion], and before the possession of the city, from the west side westward, and from the east side eastward: and the length [shall be] over against one of the portions, from the west border unto the east border.
 <small><sub>**BSB:**</sub></small>
 Now the prince will have the area bordering each side of the area formed by the holy district and the property of the city, extending westward from the western side and eastward from the eastern side, running lengthwise from the western boundary to the eastern boundary and parallel to one of the tribal portions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לַ]][[H5387A\|נָּשִׂ֡יא]] [[H9006\|מִ]][[H2088\|זֶּ֣ה]] [[H9002\|וּ]][[H9006\|מִ]][[H2088\|זֶּה֩]] [[H9005\|לִ]][[H8641\|תְרוּמַ֨ת]] [[H9009\|הַ]][[H6944G\|קֹּ֜דֶשׁ]] [[H9002\|וְ]][[H9005\|לַ]][[H0272\|אֲחֻזַּ֣ת]] [[H9009\|הָ]][[H5892B\|עִ֗יר]] [[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פְּנֵ֤י]] [[H8641\|תְרֽוּמַת]][[H9014\|־]] [[H9009\|הַ]][[H6944G\|קֹּ֙דֶשׁ֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פְּנֵי֙]] [[H0272\|אֲחֻזַּ֣ת]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9006\|מִ]][[H6285\|פְּאַת]][[H9014\|־]] [[H3220H\|יָ֣ם]] [[H3220H\|יָ֔מָּ]][[H9011\|ה]] [[H9002\|וּ]][[H9006\|מִ]][[H6285\|פְּאַת]][[H9014\|־]] [[H6924B\|קֵ֖דְמָ]][[H9011\|ה]] [[H6921\|קָדִ֑ימָ]][[H9011\|ה]] [[H9002\|וְ]][[H0753\|אֹ֗רֶךְ]] [[H9005\|לְ]][[H5980\|עֻמּוֹת֙]] [[H0259\|אַחַ֣ד]] [[H9009\|הַ]][[H2506A\|חֲלָקִ֔ים]] [[H9006\|מִ]][[H1366G\|גְּב֥וּל]] [[H3220H\|יָ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H1366G\|גְּב֥וּל]] [[H6921\|קָדִֽימָ]][[H9011\|ה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.6|<< Ezekiel 45:6]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.8|Ezekiel 45:8 >>]]</td></tr></table>
 

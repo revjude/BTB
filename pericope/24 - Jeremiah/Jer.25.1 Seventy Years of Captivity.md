@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Seventy Years of Captivity
+type: Pericope
 pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 25
 book/chapter: "[[Jer.25|Jeremiah 25]]"
-genre:
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 14
 verses:
 - "[[Jer.25.1]]"
 - "[[Jer.25.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Jer.25.14]]"
 ---
 
-[[Jer.25|Jeremiah 25:1 - Jeremiah 25:14]]
+<small>[[Jer.25|Jeremiah 25:1-14]]</small>
 *Seventy Years of Captivity*
 
 [[Jer.25.1|1]] The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that \[was\] the first year of Nebuchadrezzar king of Babylon;

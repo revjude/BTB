@@ -1,8 +1,52 @@
+---
+title: Ezekiel 16:2
+type: Verse
+kjv: "Son of man, cause Jerusalem to know her abominations,"
+bsb: "“Son of man, confront Jerusalem with her abominations"
+hebrew: "בֶּן־ אָדָ֕ם הוֹדַ֥ע אֶת־ יְרוּשָׁלִַ֖ם אֶת־ תּוֹעֲבֹתֶֽיהָ׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H3389]]"
+- "[[H8441]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:2**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, cause Jerusalem to know her abominations,
 <small><sub>**BSB:**</sub></small>
 “Son of man, confront Jerusalem with her abominations
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H3045\|הוֹדַ֥ע]] [[H0853\|אֶת]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H8441\|תּוֹעֲבֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.1|<< Ezekiel 16:1]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.3|Ezekiel 16:3 >>]]</td></tr></table>
 

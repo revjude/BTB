@@ -1,10 +1,65 @@
+---
+title: John 20:31
+type: Verse
+kjv: "But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name."
+bsb: "But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name."
+greek: "ταῦτα δὲ γέγραπται ἵνα πιστεύσητε ὅτι ὁ Ἰησοῦς ἐστιν ὁ χριστὸς ὁ υἱὸς τοῦ θεοῦ καὶ ἵνα πιστεύοντες ζωὴν ἔχητε ἐν τῷ ὀνόματι αὐτοῦ.¶"
+pericope: "[[John.20.30 The Purpose of John’s Book|The Purpose of John’s Book]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G1125]]"
+- "[[G2443]]"
+- "[[G4100]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G2222]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **John 20:31**<big><big>[[John.20.30 The Purpose of John’s Book|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.
 <small><sub>**BSB:**</sub></small>
 But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name.
-<small><sub>**Literal:**</sub></small>
-these however have been written that you may believe that <the> Jesus is the Christ the Son <the> of God and that believing life you may have in the name of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.30|<< John 20:30]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.1|John 21:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|ταῦτα]]  [[G1161\|δὲ]]  [[G1125\|γέγραπται]]  [[G2443\|ἵνα]]  [[G4100\|πιστεύσητε]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5547\|χριστὸς]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G2443\|ἵνα]]  [[G4100\|πιστεύοντες]]  [[G2222\|ζωὴν]]  [[G2192\|ἔχητε]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic MIRACLES|MIRACLES]] • [[topic SALVATION|SALVATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.30|<< John 20:30]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.1|John 21:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: Job 19:19
+type: Verse
+kjv: "All my inward friends abhorred me: and they whom I loved are turned against me."
+bsb: "All my best friends despise me, and those I love have turned against me."
+hebrew: "תִּֽ֭עֲבוּנִי כָּל־ מְתֵ֣י סוֹדִ֑י וְזֶֽה־ אָ֝הַ֗בְתִּי נֶהְפְּכוּ־ בִֽי׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[H8581]]"
+- "[[H9030]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4962]]"
+- "[[H5475]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H0157G]]"
+- "[[H2015]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:19**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All my inward friends abhorred me: and they whom I loved are turned against me.
 <small><sub>**BSB:**</sub></small>
 All my best friends despise me, and those I love have turned against me.
+<small><sub>**Hebrew:**</sub></small>
+[[H8581\|תִּֽ֭עֲבוּ]][[H9030\|נִי]] [[H3605\|כָּל]][[H9014\|־]] [[H4962\|מְתֵ֣י]] [[H5475\|סוֹדִ֑]][[H9020\|י]] [[H9002\|וְ]][[H2088\|זֶֽה]][[H9014\|־]] [[H0157G\|אָ֝הַ֗בְתִּי]] [[H2015\|נֶהְפְּכוּ]][[H9014\|־]] [[H9003\|בִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.18|<< Job 19:18]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.20|Job 19:20 >>]]</td></tr></table>
 

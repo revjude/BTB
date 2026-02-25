@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Punishments for Disobedience
+type: Pericope
 pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 26
 book/chapter: "[[Lev.26|Leviticus 26]]"
-genre:
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 26
 verses:
 - "[[Lev.26.14]]"
 - "[[Lev.26.15]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Lev.26.39]]"
 ---
 
-[[Lev.26|Leviticus 26:14 - Leviticus 26:39]]
+<small>[[Lev.26|Leviticus 26:14-39]]</small>
 *Punishments for Disobedience*
 
 [[Lev.26.14|14]] But if ye will not hearken unto me, and will not do all these commandments;

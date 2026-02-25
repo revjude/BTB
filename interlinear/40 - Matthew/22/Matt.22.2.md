@@ -1,10 +1,59 @@
+---
+title: Matthew 22:2
+type: Verse
+kjv: "The kingdom of heaven is like unto a certain king, which made a marriage for his son,"
+bsb: "“The kingdom of heaven is like a king who prepared a wedding banquet for his son."
+jesus_said: "The kingdom of heaven is like unto a certain king, which made a marriage for his son,"
+greek: "ὡμοιώθη ἡ βασιλεία τῶν οὐρανῶν ἀνθρώπῳ βασιλεῖ ὅστις ἐποίησεν γάμους τῷ υἱῷ αὐτοῦ."
+pericope: "[[Matt.22.1 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3666]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G0444]]"
+- "[[G0935]]"
+- "[[G3748]]"
+- "[[G4160G]]"
+- "[[G1062]]"
+- "[[G5207]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 22:2**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The kingdom of heaven is like unto a certain king, which made a marriage for his son,
 <small><sub>**BSB:**</sub></small>
 “The kingdom of heaven is like a king who prepared a wedding banquet for his son.
-<small><sub>**Literal:**</sub></small>
-Has become like the kingdom of the heavens to a man a king who made a wedding feast for the son of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.1|<< Matthew 22:1]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.3|Matthew 22:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3666\|ὡμοιώθη]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G0444\|ἀνθρώπῳ]]  [[G0935\|βασιλεῖ]]  [[G3748\|ὅστις]]  [[G4160G\|ἐποίησεν]]  [[G1062\|γάμους]]  [[G3588\|τῷ]]  [[G5207\|υἱῷ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.1|<< Matthew 22:1]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.3|Matthew 22:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

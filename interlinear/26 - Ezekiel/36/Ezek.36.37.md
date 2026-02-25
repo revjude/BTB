@@ -1,8 +1,65 @@
+---
+title: Ezekiel 36:37
+type: Verse
+kjv: "Thus saith the Lord GOD; I will yet for this be inquired of by the house of Israel, to do it for them; I will increase them with men like a flock."
+bsb: "This is what the Lord GOD says: Once again I will hear the plea of the house of Israel and do for them this: I will multiply their people like a flock."
+hebrew: "כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה ע֗וֹד זֹ֛את אִדָּרֵ֥שׁ לְבֵֽית־ יִשְׂרָאֵ֖ל לַעֲשׂ֣וֹת לָהֶ֑ם אַרְבֶּ֥ה אֹתָ֛ם כַּצֹּ֖אן אָדָֽם׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H5750]]"
+- "[[H2063]]"
+- "[[H1875]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9004]]"
+- "[[H6629G]]"
+- "[[H0120G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:37**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; I will yet [for] this be inquired of by the house of Israel, to do [it] for them; I will increase them with men like a flock.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: Once again I will hear the plea of the house of Israel and do for them this: I will multiply their people like a flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H5750\|ע֗וֹד]] [[H2063\|זֹ֛את]] [[H1875\|אִדָּרֵ֥שׁ]] [[H9005\|לְ]][[H1004M\|בֵֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H7235A\|אַרְבֶּ֥ה]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H9004\|כַּ]][[H6629G\|צֹּ֖אן]] [[H0120G\|אָדָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.36|<< Ezekiel 36:36]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.38|Ezekiel 36:38 >>]]</td></tr></table>
 

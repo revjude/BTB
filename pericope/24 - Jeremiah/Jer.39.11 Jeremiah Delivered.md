@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Delivered
+type: Pericope
 pericope: "[[Jer.39.11 Jeremiah Delivered|Jeremiah Delivered]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 39
 book/chapter: "[[Jer.39|Jeremiah 39]]"
-genre:
+chronological_order: 762
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 8
 verses:
 - "[[Jer.39.11]]"
 - "[[Jer.39.12]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Jer.39.18]]"
 ---
 
-[[Jer.39|Jeremiah 39:11 - Jeremiah 39:18]]
+<small>[[Jer.39|Jeremiah 39:11-18]]</small>
 *Jeremiah Delivered*
 
 [[Jer.39.11|11]] Now Nebuchadrezzar king of Babylon gave charge concerning Jeremiah to Nebuzaradan the captain of the guard, saying,

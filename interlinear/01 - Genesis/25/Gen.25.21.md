@@ -1,8 +1,66 @@
+---
+title: Genesis 25:21
+type: Verse
+kjv: "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived."
+bsb: "Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived."
+hebrew: "וַיֶּעְתַּ֨ר יִצְחָ֤ק לַֽיהוָה֙ לְנֹ֣כַח אִשְׁתּ֔וֹ כִּ֥י עֲקָרָ֖ה הִ֑וא וַיֵּעָ֤תֶר לוֹ֙ יְהוָ֔ה וַתַּ֖הַר רִבְקָ֥ה אִשְׁתּֽוֹ׃"
+pericope: "[[Gen.25.19 Jacob and Esau|Jacob and Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic ESAU|ESAU]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6279]]"
+- "[[H3327]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H5227]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H6135]]"
+- "[[H1931]]"
+- "[[H9033]]"
+- "[[H2029]]"
+- "[[H7259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 25:21**<big><big>[[Gen.25.19 Jacob and Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac intreated the LORD for his wife, because she [was] barren: and the LORD was intreated of him, and Rebekah his wife conceived.
 <small><sub>**BSB:**</sub></small>
 Later, Isaac prayed to the LORD on behalf of his wife, because she was barren. And the LORD heard his prayer, and his wife Rebekah conceived.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6279\|יֶּעְתַּ֨ר]] [[H3327\|יִצְחָ֤ק]] [[H9005\|לַֽ]][[H3068G\|יהוָה֙]] [[H9005\|לְ]][[H5227\|נֹ֣כַח]] [[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H3588A\|כִּ֥י]] [[H6135\|עֲקָרָ֖ה]] [[H1931\|הִ֑וא]] [[H9001\|וַ]][[H6279\|יֵּעָ֤תֶר]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H2029\|תַּ֖הַר]] [[H7259\|רִבְקָ֥ה]] [[H0802H\|אִשְׁתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic CONCEPTION|CONCEPTION]] • [[topic ESAU|ESAU]] • [[topic ISAAC|ISAAC]] • [[topic JACOB|JACOB]] • [[topic MIRACLES|MIRACLES]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.20|<< Genesis 25:20]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.22|Genesis 25:22 >>]]</td></tr></table>
 

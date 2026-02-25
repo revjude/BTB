@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 18:10
+type: Verse
+kjv: "And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith the LORD, With these thou shalt push Syria until they be consumed."
+bsb: "Now Zedekiah son of Chenaanah had made for himself iron horns and declared, “This is what the LORD says: ‘With these you shall gore the Arameans until they are finished off.’”"
+hebrew: "וַיַּ֥עַשׂ ל֛וֹ צִדְקִיָּ֥הוּ בֶֽן־ כְּנַעֲנָ֖ה קַרְנֵ֣י בַרְזֶ֑ל וַיֹּ֙אמֶר֙ כֹּֽה־ אָמַ֣ר יְהוָ֔ה בְּאֵ֛לֶּה תְּנַגַּ֥ח אֶת־ אֲרָ֖ם עַד־ כַּלּוֹתָֽם׃"
+pericope: "[[2Chr.18.1 Jehoshaphat Allies with Ahab|Jehoshaphat Allies with Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHENAANAH|CHENAANAH]]"
+- "[[topic IRON|IRON]]"
+- "[[topic MICAIAH|MICAIAH]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6667G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3668G]]"
+- "[[H7161A]]"
+- "[[H1270]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0428]]"
+- "[[H5055]]"
+- "[[H0853]]"
+- "[[H0758I]]"
+- "[[H5704]]"
+- "[[H3615H]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:10**<big><big>[[2Chr.18.1 Jehoshaphat Allies with Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith the LORD, With these thou shalt push Syria until they be consumed.
 <small><sub>**BSB:**</sub></small>
 Now Zedekiah son of Chenaanah had made for himself iron horns and declared, “This is what the LORD says: ‘With these you shall gore the Arameans until they are finished off.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֥עַשׂ]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H6667G\|צִדְקִיָּ֥הוּ]] [[H1121A\|בֶֽן]][[H9014\|־]] [[H3668G\|כְּנַעֲנָ֖ה]] [[H7161A\|קַרְנֵ֣י]] [[H1270\|בַרְזֶ֑ל]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H0428\|אֵ֛לֶּה]] [[H5055\|תְּנַגַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0758I\|אֲרָ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H3615H\|כַּלּוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHENAANAH|CHENAANAH]] • [[topic IRON|IRON]] • [[topic MICAIAH|MICAIAH]] • [[topic PREACHING|PREACHING]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.9|<< 2 Chronicles 18:9]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.11|2 Chronicles 18:11 >>]]</td></tr></table>
 

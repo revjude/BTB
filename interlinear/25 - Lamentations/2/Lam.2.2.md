@@ -1,8 +1,63 @@
+---
+title: Lamentations 2:2
+type: Verse
+kjv: "The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought them down to the ground: he hath polluted the kingdom and the princes thereof."
+bsb: "Without pity the Lord has swallowed up all the dwellings of Jacob. In His wrath He has demolished the fortified cities of the Daughter of Judah. He brought to the ground and defiled her kingdom and its princes."
+hebrew: "בִּלַּ֨ע אֲדֹנָ֜י וְלֹ֣א חָמַ֗ל אֵ֚ת כָּל־ נְא֣וֹת יַעֲקֹ֔ב הָרַ֧ס בְּעֶבְרָת֛וֹ מִבְצְרֵ֥י בַת־ יְהוּדָ֖ה הִגִּ֣יעַ לָאָ֑רֶץ חִלֵּ֥ל מַמְלָכָ֖ה וְשָׂרֶֽיהָ׃ ס"
+pericope: "[[Lam.2.1 God’s Anger over Jerusalem|God’s Anger over Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 2
+book/chapter: "[[Lam.2|Lamentations 2]]"
+chronological_order: 777
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+strongs:
+- "[[H1104]]"
+- "[[H0136]]"
+- "[[H3808]]"
+- "[[H9002]]"
+- "[[H2550]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4999]]"
+- "[[H3290]]"
+- "[[H2040]]"
+- "[[H9003]]"
+- "[[H5678]]"
+- "[[H9023]]"
+- "[[H4013]]"
+- "[[H1323G]]"
+- "[[H3063G]]"
+- "[[H5060]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H2490H]]"
+- "[[H4467]]"
+- "[[H8269]]"
+- "[[H9024]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Lamentations 2:2**<big><big>[[Lam.2.1 God’s Anger over Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The Lord hath swallowed up all the habitations of Jacob, and hath not pitied: he hath thrown down in his wrath the strong holds of the daughter of Judah; he hath brought [them] down to the ground: he hath polluted the kingdom and the princes thereof.
 <small><sub>**BSB:**</sub></small>
 Without pity the Lord has swallowed up all the dwellings of Jacob. In His wrath He has demolished the fortified cities of the Daughter of Judah. He brought to the ground and defiled her kingdom and its princes.
+<small><sub>**Hebrew:**</sub></small>
+[[H1104\|בִּלַּ֨ע]] [[H0136\|אֲדֹנָ֜י]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2550\|חָמַ֗ל]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H4999\|נְא֣וֹת]] [[H3290\|יַעֲקֹ֔ב]] [[H2040\|הָרַ֧ס]] [[H9003\|בְּ]][[H5678\|עֶבְרָת֛]][[H9023\|וֹ]] [[H4013\|מִבְצְרֵ֥י]] [[H1323G\|בַת]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H5060\|הִגִּ֣יעַ]] [[H9005\|לָ]][[H0776H\|אָ֑רֶץ]] [[H2490H\|חִלֵּ֥ל]] [[H4467\|מַמְלָכָ֖ה]] [[H9002\|וְ]][[H8269\|שָׂרֶֽי]][[H9024\|הָ]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.1|<< Lamentations 2:1]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.3|Lamentations 2:3 >>]]</td></tr></table>
 
@@ -25,7 +80,7 @@ Without pity the Lord has swallowed up all the dwellings of Jacob. In His wrath 
 | \<to> the ground  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H0776H\|אָ֑רֶץ]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he has profaned  |**<big>&#8207;[[H2490H\|חִלֵּ֥ל]]&#8207; </big>**| chi.Lel<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] kingdom  |**<big>&#8207;[[H4467\|מַמְלָכָ֖ה]]&#8207; </big>**| mam.la.Khah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and princes its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שָׂרֶֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and princes its  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שָׂרֶֽי]]&#8207;&#8207;[[H9024\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.2.1|<< Lamentations 2:1]]</td><td align="center" style="border:none;">[[Lam.2|Lamentations 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.2.3|Lamentations 2:3 >>]]</td></tr></table>
 
 [^1]: not  | **<big>[[H3808|לֹא]]</big> ** | lo'<small><sup>[[HTn]]</sup></small> | K

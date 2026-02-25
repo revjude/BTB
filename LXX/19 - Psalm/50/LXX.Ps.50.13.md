@@ -1,6 +1,47 @@
+---
+title: LXX Psalm 50:13
+type: Verse
+lxx: "Shall I eat meats of bulls or drink blood of he-goats?"
+greek: "μη φάγομαι κρέα ταύρων η αίμα τράγων πίομαι"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 50
+book/chapter: "[[Ps.50|Psalm 50]]"
+chronological_order: 505
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[G3361]]"
+- "[[G2068]]"
+- "[[G2907]]"
+- "[[G5022]]"
+- "[[G2228]]"
+- "[[G0129]]"
+- "[[G5131]]"
+- "[[G4095]]"
+---
+
 **LXX Psalm 50:13** 
 <small><sub>**LXX:**</sub></small>
 Shall I eat meats of bulls or drink blood of he-goats? 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G2068\|φάγομαι]] [[G2907\|κρέα]] [[G5022\|ταύρων]] [[G2228\|η]] [[G0129\|αίμα]] [[G5131\|τράγων]] [[G4095\|πίομαι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORMALISM|FORMALISM]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.50.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.12|<< Psalm 50:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.14|Psalm 50:14 >>]]</td></tr></table>
 
@@ -14,6 +55,6 @@ Shall I eat meats of bulls or drink blood of he-goats?
 | blood | **<big>[[G0129\|αίμα]]</big>** |
 | of he-goats | **<big>[[G5131\|τράγων]]</big>** |
 | drink | **<big>[[G4095\|πίομαι]]</big>** |
-[[Ps.50.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.12|<< Psalm 50:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.14|Psalm 50:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.50.12|<< Psalm 50:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.50.14|Psalm 50:14 >>]]</td></tr></table>
 
 

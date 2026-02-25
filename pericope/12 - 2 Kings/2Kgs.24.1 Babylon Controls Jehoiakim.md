@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Babylon Controls Jehoiakim
+type: Pericope
 pericope: "[[2Kgs.24.1 Babylon Controls Jehoiakim|Babylon Controls Jehoiakim]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 24
 book/chapter: "[[2Kgs.24|2 Kings 24]]"
-genre:
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 5
 verses:
 - "[[2Kgs.24.1]]"
 - "[[2Kgs.24.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Kgs.24.5]]"
 ---
 
-[[2Kgs.24|2 Kings 24:1 - 2 Kings 24:5]]
+<small>[[2Kgs.24|2 Kings 24:1-5]]</small>
 *Babylon Controls Jehoiakim*
 
 [[2Kgs.24.1|1]] In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him.

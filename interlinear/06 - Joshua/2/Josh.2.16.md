@@ -1,8 +1,68 @@
+---
+title: Joshua 2:16
+type: Verse
+kjv: "And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way."
+bsb: "“Go to the hill country,” she said, “so that your pursuers will not find you. Hide yourselves there for three days until they have returned; then go on your way.”"
+hebrew: "וַתֹּ֤אמֶר לָהֶם֙ הָהָ֣רָה לֵּ֔כוּ פֶּֽן־ יִפְגְּע֥וּ בָכֶ֖ם הָרֹדְפִ֑ים וְנַחְבֵּתֶ֨ם שָׁ֜מָּה שְׁלֹ֣שֶׁת יָמִ֗ים עַ֚ד שׁ֣וֹב הָרֹֽדְפִ֔ים וְאַחַ֖ר תֵּלְכ֥וּ לְדַרְכְּכֶֽם׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9011]]"
+- "[[H1980G]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H6293]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H7291]]"
+- "[[H2247]]"
+- "[[H8033G]]"
+- "[[H7969]]"
+- "[[H3117G]]"
+- "[[H5704]]"
+- "[[H7725G]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H1870L]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:16**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may ye go your way.
 <small><sub>**BSB:**</sub></small>
 “Go to the hill country,” she said, “so that your pursuers will not find you. Hide yourselves there for three days until they have returned; then go on your way.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9009\|הָ]][[H2022G\|הָ֣רָ]][[H9011\|ה]] [[H1980G\|לֵּ֔כוּ]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H6293\|יִפְגְּע֥וּ]] [[H9003\|בָ]][[H9036\|כֶ֖ם]] [[H9009\|הָ]][[H7291\|רֹדְפִ֑ים]] [[H9001\|וְ]][[H2247\|נַחְבֵּתֶ֨ם]] [[H8033G\|שָׁ֜מָּ]][[H9011\|ה]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֗ים]] [[H5704\|עַ֚ד]] [[H7725G\|שׁ֣וֹב]] [[H9009\|הָ]][[H7291\|רֹֽדְפִ֔ים]] [[H9002\|וְ]][[H0310A\|אַחַ֖ר]] [[H1980G\|תֵּלְכ֥וּ]] [[H9005\|לְ]][[H1870L\|דַרְכְּ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.15|<< Joshua 2:15]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.17|Joshua 2:17 >>]]</td></tr></table>
 

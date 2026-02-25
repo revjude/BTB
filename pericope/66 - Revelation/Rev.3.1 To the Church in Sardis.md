@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: To the Church in Sardis
+type: Pericope
 pericope: "[[Rev.3.1 To the Church in Sardis|To the Church in Sardis]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 3
 book/chapter: "[[Rev.3|Revelation 3]]"
-genre:
+chronological_order: 1170
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 6
 verses:
 - "[[Rev.3.1]]"
 - "[[Rev.3.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Rev.3.6]]"
 ---
 
-[[Rev.3|Revelation 3:1 - Revelation 3:6]]
+<small>[[Rev.3|Revelation 3:1-6]]</small>
 *To the Church in Sardis*
 
 [[Rev.3.1|1]] And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.

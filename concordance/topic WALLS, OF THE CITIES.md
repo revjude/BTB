@@ -29,5 +29,5 @@
 
 → FIGURATIVE
 
-- Of the new Jerusalem  [[Rev.21.12|Re 21:12]],[[Rev.21.14|14]],[[Rev.21.17|17]]-[[Rev.21.21|21]]
+- Of the new Jerusalem  [[Rev.21.12|Re 21:12]],[[Rev.21.14|14]],[[Rev.21.17|17-21]]
 

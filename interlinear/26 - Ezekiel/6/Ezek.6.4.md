@@ -1,8 +1,55 @@
+---
+title: Ezekiel 6:4
+type: Verse
+kjv: "And your altars shall be desolate, and your images shall be broken: and I will cast down your slain men before your idols."
+bsb: "Your altars will be demolished and your incense altars will be smashed; and I will cast down your slain before your idols."
+hebrew: "וְנָשַׁ֙מּוּ֙ מִזְבְּח֣וֹתֵיכֶ֔ם וְנִשְׁבְּר֖וּ חַמָּֽנֵיכֶ֑ם וְהִפַּלְתִּי֙ חַלְלֵיכֶ֔ם לִפְנֵ֖י גִּלּוּלֵיכֶֽם׃"
+pericope: "[[Ezek.6.1 Judgment against Idolatry|Judgment against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 6
+book/chapter: "[[Ezek.6|Ezekiel 6]]"
+chronological_order: 797
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8074G]]"
+- "[[H4196]]"
+- "[[H9026]]"
+- "[[H7665]]"
+- "[[H2553]]"
+- "[[H5307G]]"
+- "[[H2491A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1544]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 6:4**<big><big>[[Ezek.6.1 Judgment against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And your altars shall be desolate, and your images shall be broken: and I will cast down your slain [men] before your idols.
 <small><sub>**BSB:**</sub></small>
 Your altars will be demolished and your incense altars will be smashed; and I will cast down your slain before your idols.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8074G\|נָשַׁ֙מּוּ֙]] [[H4196\|מִזְבְּח֣וֹתֵי]][[H9026\|כֶ֔ם]] [[H9001\|וְ]][[H7665\|נִשְׁבְּר֖וּ]] [[H2553\|חַמָּֽנֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H5307G\|הִפַּלְתִּי֙]] [[H2491A\|חַלְלֵי]][[H9026\|כֶ֔ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H1544\|גִּלּוּלֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.6.3|<< Ezekiel 6:3]]</td><td align="center" style="border:none;">[[Ezek.6|Ezekiel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.6.5|Ezekiel 6:5 >>]]</td></tr></table>
 

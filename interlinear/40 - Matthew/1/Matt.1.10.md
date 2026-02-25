@@ -1,10 +1,52 @@
+---
+title: Matthew 1:10
+type: Verse
+kjv: "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;"
+bsb: "Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,"
+greek: "Ἑζεκίας δὲ ἐγέννησεν τὸν Μανασσῆ· Μανασσῆς δὲ ἐγέννησεν τὸν Ἀμώς· Ἀμὼς δὲ ἐγέννησεν τὸν Ἰωσίαν·"
+pericope: "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMON|AMON]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+strongs:
+- "[[G1478]]"
+- "[[G1161]]"
+- "[[G1080]]"
+- "[[G3588]]"
+- "[[G3128H]]"
+- "[[G0301]]"
+- "[[G2502]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 1:10**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;
 <small><sub>**BSB:**</sub></small>
 Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,
-<small><sub>**Literal:**</sub></small>
-Hezekiah then begat <the> Manasseh; Manasseh then begat <the> Amos; Amos then begat <the> Josiah;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.9|<< Matthew 1:9]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.11|Matthew 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1478\|Ἑζεκίας]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G3128H\|Μανασσῆ·]]  [[G3128H\|Μανασσῆς]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G0301\|Ἀμώς·]]  [[G0301\|Ἀμὼς]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G2502\|Ἰωσίαν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMON|AMON]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic JOSIAH|JOSIAH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.9|<< Matthew 1:9]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.11|Matthew 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

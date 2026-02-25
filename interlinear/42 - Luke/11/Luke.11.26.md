@@ -1,10 +1,65 @@
+---
+title: Luke 11:26
+type: Verse
+kjv: "Then goeth he, and taketh to him seven other spirits more wicked than himself; and they enter in, and dwell there: and the last state of that man is worse than the first."
+bsb: "Then it goes and brings seven other spirits more wicked than itself, and they go in and dwell there. And the final plight of that man is worse than the first.”"
+jesus_said: "Then goeth he, and taketh to him seven other spirits more wicked than himself; and they enter in, and dwell there: and the last state of that man is worse than the first."
+greek: "τότε πορεύεται καὶ παραλαμβάνει ἕτερα πνεύματα πονηρότερα ἑαυτοῦ ἑπτά, καὶ εἰσελθόντα κατοικεῖ ἐκεῖ· καὶ γίνεται τὰ ἔσχατα τοῦ ἀνθρώπου ἐκείνου χείρονα τῶν πρώτων.¶"
+pericope: "[[Luke.11.24 An Unclean Spirit Returns|An Unclean Spirit Returns]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G5119]]"
+- "[[G4198]]"
+- "[[G2532]]"
+- "[[G3880]]"
+- "[[G2087]]"
+- "[[G4151G]]"
+- "[[G4190]]"
+- "[[G1438]]"
+- "[[G2033]]"
+- "[[G1525]]"
+- "[[G2730]]"
+- "[[G1563]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G2078]]"
+- "[[G0444]]"
+- "[[G1565]]"
+- "[[G5501]]"
+- "[[G4413G]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 11:26**<big><big>[[Luke.11.24 An Unclean Spirit Returns|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then goeth he, and taketh [to him] seven other spirits more wicked than himself; and they enter in, and dwell there: and the last [state] of that man is worse than the first.
 <small><sub>**BSB:**</sub></small>
 Then it goes and brings seven other spirits more wicked than itself, and they go in and dwell there. And the final plight of that man is worse than the first.”
-<small><sub>**Literal:**</sub></small>
-Then it goes and it takes other spirits more evil than itself seven, and having entered they dwell there; and becomes the last of the man that [one] worse than the first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.25|<< Luke 11:25]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.27|Luke 11:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G4198\|πορεύεται]]  [[G2532\|καὶ]]  [[G3880\|παραλαμβάνει]]  [[G2087\|ἕτερα]]  [[G4151G\|πνεύματα]]  [[G4190\|πονηρότερα]]  [[G1438\|ἑαυτοῦ]]  [[G2033\|ἑπτά,]]  [[G2532\|καὶ]]  [[G1525\|εἰσελθόντα]]  [[G2730\|κατοικεῖ]]  [[G1563\|ἐκεῖ·]]  [[G2532\|καὶ]]  [[G1096\|γίνεται]]  [[G3588\|τὰ]]  [[G2078\|ἔσχατα]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1565\|ἐκείνου]]  [[G5501\|χείρονα]]  [[G3588\|τῶν]]  [[G4413G\|πρώτων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.25|<< Luke 11:25]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.27|Luke 11:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

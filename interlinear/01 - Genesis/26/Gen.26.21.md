@@ -1,8 +1,66 @@
+---
+title: Genesis 26:21
+type: Verse
+kjv: "And they digged another well, and strove for that also: and he called the name of it Sitnah."
+bsb: "Then they dug another well and quarreled over that one also; so he named it Sitnah."
+hebrew: "וַֽיַּחְפְּרוּ֙ בְּאֵ֣ר אַחֶ֔רֶת וַיָּרִ֖יבוּ גַּם־ עָלֶ֑יהָ וַיִּקְרָ֥א שְׁמָ֖הּ שִׂטְנָֽה׃"
+pericope: "[[Gen.26.12 Isaac’s Prosperity|Isaac’s Prosperity]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic GERAR|GERAR]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic SITNAH|SITNAH]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WELLS|WELLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2658]]"
+- "[[H0875]]"
+- "[[H0312]]"
+- "[[H7378]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9024]]"
+- "[[H7856]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:21**<big><big>[[Gen.26.12 Isaac’s Prosperity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they digged another well, and strove for that also: and he called the name of it Sitnah.
 <small><sub>**BSB:**</sub></small>
 Then they dug another well and quarreled over that one also; so he named it Sitnah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2658\|יַּחְפְּרוּ֙]] [[H0875\|בְּאֵ֣ר]] [[H0312\|אַחֶ֔רֶת]] [[H9001\|וַ]][[H7378\|יָּרִ֖יבוּ]] [[H1571\|גַּם]][[H9014\|־]] [[H5921A\|עָלֶ֑י]][[H9034\|הָ]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H8034\|שְׁמָ֖]][[H9024\|הּ]] [[H7856\|שִׂטְנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DISHONESTY|DISHONESTY]] • [[topic GERAR|GERAR]] • [[topic ISAAC|ISAAC]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PATIENCE|PATIENCE]] • [[topic PROPERTY|PROPERTY]] • [[topic SITNAH|SITNAH]] • [[topic STRIFE|STRIFE]] • [[topic WELLS|WELLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.20|<< Genesis 26:20]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.22|Genesis 26:22 >>]]</td></tr></table>
 

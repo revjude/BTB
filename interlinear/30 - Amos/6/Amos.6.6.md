@@ -1,8 +1,66 @@
+---
+title: Amos 6:6
+type: Verse
+kjv: "That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph."
+bsb: "You drink wine by the bowlful and anoint yourselves with the finest oils, but you fail to grieve over the ruin of Joseph."
+hebrew: "הַשֹּׁתִ֤ים בְּמִזְרְקֵי֙ יַ֔יִן וְרֵאשִׁ֥ית שְׁמָנִ֖ים יִמְשָׁ֑חוּ וְלֹ֥א נֶחְל֖וּ עַל־ שֵׁ֥בֶר יוֹסֵֽף"
+pericope: "[[Amos.6.1 Woe to Those at Ease in Zion|Woe to Those at Ease in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic OINTMENT|OINTMENT]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WINE|WINE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9009]]"
+- "[[H8354]]"
+- "[[H9003]]"
+- "[[H4219]]"
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H7225H]]"
+- "[[H8081]]"
+- "[[H4886]]"
+- "[[H3808]]"
+- "[[H2470I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7667]]"
+- "[[H3130G]]"
+texts:
+- L
+- L(abh)
+---
+
 **Amos 6:6**<big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.
 <small><sub>**BSB:**</sub></small>
 You drink wine by the bowlful and anoint yourselves with the finest oils, but you fail to grieve over the ruin of Joseph.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H8354\|שֹּׁתִ֤ים]] [[H9003\|בְּ]][[H4219\|מִזְרְקֵי֙]] [[H3196\|יַ֔יִן]] [[H9002\|וְ]][[H7225H\|רֵאשִׁ֥ית]] [[H8081\|שְׁמָנִ֖ים]] [[H4886\|יִמְשָׁ֑חוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2470I\|נֶחְל֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H7667\|שֵׁ֥בֶר]] [[H3130G\|יוֹסֵֽף]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic ANOINTING|ANOINTING]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic GLUTTONY|GLUTTONY]] • [[topic OINTMENT|OINTMENT]] • [[topic RICH, THE|RICH, THE]] • [[topic WINE|WINE]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.5|<< Amos 6:5]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.7|Amos 6:7 >>]]</td></tr></table>
 

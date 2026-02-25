@@ -11,7 +11,7 @@
 
 → Dried and preserved [[1Sam.30.12|1Sa 30:12]]
 
-→ Cakes of, sent by Abigail to David [[1Sam.25.18|1Sa 25:18]]-[[1Sam.25.35|35]]
+→ Cakes of, sent by Abigail to David [[1Sam.25.18|1Sa 25:18-35]]
 
 → Aprons made of fig leaves, by Adam and Eve [[Gen.3.7|Ge 3:7]]
 

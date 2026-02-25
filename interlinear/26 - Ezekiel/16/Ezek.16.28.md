@@ -1,8 +1,60 @@
+---
+title: Ezekiel 16:28
+type: Verse
+kjv: "Thou hast played the whore also with the Assyrians, because thou wast unsatiable; yea, thou hast played the harlot with them, and yet couldest not be satisfied."
+bsb: "Then you prostituted yourself with the Assyrians, because you were not yet satisfied. Even after that, you were still not satisfied."
+hebrew: "וַתִּזְנִי֙ אֶל־ בְּנֵ֣י אַשּׁ֔וּר מִבִּלְתִּ֖י שָׂבְעָתֵ֑ךְ וַתִּזְנִ֕ים וְגַ֖ם לֹ֥א שָׂבָֽעַתְּ׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2181]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H0804G]]"
+- "[[H9006]]"
+- "[[H1115]]"
+- "[[H7654]]"
+- "[[H9022]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H3808]]"
+- "[[H7646]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:28**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast played the whore also with the Assyrians, because thou wast unsatiable; yea, thou hast played the harlot with them, and yet couldest not be satisfied.
 <small><sub>**BSB:**</sub></small>
 Then you prostituted yourself with the Assyrians, because you were not yet satisfied. Even after that, you were still not satisfied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2181\|תִּזְנִי֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H0804G\|אַשּׁ֔וּר]] [[H9006\|מִ]][[H1115\|בִּלְתִּ֖י]] [[H7654\|שָׂבְעָתֵ֑]][[H9022\|ךְ]] [[H9001\|וַ]][[H2181\|תִּזְנִ֕י]][[H9038\|ם]] [[H9002\|וְ]][[H1571\|גַ֖ם]] [[H3808\|לֹ֥א]] [[H7646\|שָׂבָֽעַתְּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.27|<< Ezekiel 16:27]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.29|Ezekiel 16:29 >>]]</td></tr></table>
 

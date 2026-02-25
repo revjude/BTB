@@ -1,10 +1,66 @@
+---
+title: Revelation 11:11
+type: Verse
+kjv: "And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them."
+bsb: "But after the three and a half days, the breath of life from God entered the two witnesses, and they stood on their feet, and great fear fell upon those who saw them."
+greek: "Καὶ μετὰ τὰς τρεῖς ἡμέρας καὶ ἥμισυ πνεῦμα ζωῆς ἐκ τοῦ θεοῦ εἰσῆλθεν ἐν αὐτοῖς, καὶ ἔστησαν ἐπὶ τοὺς πόδας αὐτῶν, καὶ φόβος μέγας ἐπέπεσεν ἐπὶ τοὺς θεωροῦντας αὐτούς."
+pericope: "[[Rev.11.7 The Witnesses Killed and Raised|The Witnesses Killed and Raised]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 11
+book/chapter: "[[Rev.11|Revelation 11]]"
+chronological_order: 1178
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G5140]]"
+- "[[G2250]]"
+- "[[G2255]]"
+- "[[G4151H]]"
+- "[[G2222]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G1525]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G4228]]"
+- "[[G5401]]"
+- "[[G3173]]"
+- "[[G1968]]"
+- "[[G2334]]"
+texts:
+- NKO
+- N(k)(o)
+- N(k)O
+---
+
 **Revelation 11:11**<big><big>[[Rev.11.7 The Witnesses Killed and Raised|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after three days and an half the Spirit of life from God entered into them, and they stood upon their feet; and great fear fell upon them which saw them.
 <small><sub>**BSB:**</sub></small>
 But after the three and a half days, the breath of life from God entered the two witnesses, and they stood on their feet, and great fear fell upon those who saw them.
-<small><sub>**Literal:**</sub></small>
-And after the three days and a half [the] spirit of life from <the> God entered in them, and they stood upon the feet of them, and fear great fell upon those beholding them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.10|<< Revelation 11:10]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.12|Revelation 11:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3326\|μετὰ]]  [[G3588\|τὰς]]  [[G5140\|τρεῖς]]  [[G2250\|ἡμέρας]]  [[G2532\|καὶ]]  [[G2255\|ἥμισυ]]  [[G4151H\|πνεῦμα]]  [[G2222\|ζωῆς]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1525\|εἰσῆλθεν]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς,]]  [[G2532\|καὶ]]  [[G2476\|ἔστησαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G5401\|φόβος]]  [[G3173\|μέγας]]  [[G1968\|ἐπέπεσεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G2334\|θεωροῦντας]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic RESURRECTION|RESURRECTION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.10|<< Revelation 11:10]]</td><td align="center" style="border:none;">[[Rev.11|Revelation 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.11.12|Revelation 11:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 11:11** is...
 > $\quad$ referencing: [[LXX.Ezek.37.5|Ezek 37:5]] ☩ [[LXX.Ezek.37.10|Ezek 37:10]]

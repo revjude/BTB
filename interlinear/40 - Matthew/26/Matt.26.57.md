@@ -1,10 +1,62 @@
+---
+title: Matthew 26:57
+type: Verse
+kjv: "And they that had laid hold on Jesus led him away to Caiaphas the high priest, where the scribes and the elders were assembled."
+bsb: "Those who had arrested Jesus led Him away to the house of Caiaphas the high priest, where the scribes and elders had gathered."
+greek: "οἱ δὲ κρατήσαντες τὸν Ἰησοῦν ἀπήγαγον πρὸς Καϊάφαν τὸν ἀρχιερέα ὅπου οἱ γραμματεῖς καὶ οἱ πρεσβύτεροι συνήχθησαν.¶"
+pericope: "[[Matt.26.57 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ARREST|ARREST]]"
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2902]]"
+- "[[G2424G]]"
+- "[[G0520]]"
+- "[[G4314]]"
+- "[[G2533G]]"
+- "[[G0749]]"
+- "[[G3699]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G4245G]]"
+- "[[G4863]]"
+texts:
+- NKO
+---
+
 **Matthew 26:57**<big><big>[[Matt.26.57 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they that had laid hold on Jesus led [him] away to Caiaphas the high priest, where the scribes and the elders were assembled.
 <small><sub>**BSB:**</sub></small>
 Those who had arrested Jesus led Him away to the house of Caiaphas the high priest, where the scribes and elders had gathered.
-<small><sub>**Literal:**</sub></small>
-Those then having seized <the> Jesus led [Him] away to Caiaphas the high priest where the scribes and the elders were assembled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.56|<< Matthew 26:56]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.58|Matthew 26:58 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2902\|κρατήσαντες]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G0520\|ἀπήγαγον]]  [[G4314\|πρὸς]]  [[G2533G\|Καϊάφαν]]  [[G3588\|τὸν]]  [[G0749\|ἀρχιερέα]]  [[G3699\|ὅπου]]  [[G3588\|οἱ]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4245G\|πρεσβύτεροι]]  [[G4863\|συνήχθησαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARREST|ARREST]] • [[topic CAIAPHAS|CAIAPHAS]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SCRIBE (S)|SCRIBE (S)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.56|<< Matthew 26:56]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.58|Matthew 26:58 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

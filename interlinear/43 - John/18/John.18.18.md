@@ -1,10 +1,60 @@
+---
+title: John 18:18
+type: Verse
+kjv: "And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself."
+bsb: "Because it was cold, the servants and officers were standing around a charcoal fire they had made to keep warm. And Peter was also standing with them, warming himself."
+greek: "εἱστήκεισαν δὲ οἱ δοῦλοι καὶ οἱ ὑπηρέται ἀνθρακιὰν πεποιηκότες, ὅτι ψῦχος ἦν, καὶ ἐθερμαίνοντο· ἦν δὲ καὶ ὁ Πέτρος μετ᾽ αὐτῶν ἑστὼς καὶ θερμαινόμενος.¶"
+pericope: "[[John.18.15 Peter’s First Denial|Peter’s First Denial]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G2476]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G2532]]"
+- "[[G5257]]"
+- "[[G0439]]"
+- "[[G4160G]]"
+- "[[G3754H]]"
+- "[[G5592]]"
+- "[[G1510]]"
+- "[[G2328]]"
+- "[[G4074G]]"
+- "[[G3326]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+---
+
 **John 18:18**<big><big>[[John.18.15 Peter’s First Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.
 <small><sub>**BSB:**</sub></small>
 Because it was cold, the servants and officers were standing around a charcoal fire they had made to keep warm. And Peter was also standing with them, warming himself.
-<small><sub>**Literal:**</sub></small>
-Had been standing now the servants and the officers a fire of coals having made, for cold it was and they were warming themselves; Was now also <the> Peter with them having stood and warming himself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.17|<< John 18:17]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.19|John 18:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2476\|εἱστήκεισαν]]  [[G1161\|δὲ]]  [[G3588\|οἱ]]  [[G1401\|δοῦλοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5257\|ὑπηρέται]]  [[G0439\|ἀνθρακιὰν]]  [[G4160G\|πεποιηκότες,]]  [[G3754H\|ὅτι]]  [[G5592\|ψῦχος]]  [[G1510\|ἦν,]]  [[G2532\|καὶ]]  [[G2328\|ἐθερμαίνοντο·]]  [[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G2476\|ἑστὼς]]  [[G2532\|καὶ]]  [[G2328\|θερμαινόμενος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.17|<< John 18:17]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.19|John 18:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

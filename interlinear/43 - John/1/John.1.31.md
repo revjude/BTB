@@ -1,10 +1,59 @@
+---
+title: John 1:31
+type: Verse
+kjv: "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water."
+bsb: "I myself did not know Him, but the reason I came baptizing with water was that He might be revealed to Israel.”"
+greek: "κἀγὼ κἀγὼ οὐκ ᾔδειν αὐτόν, ἀλλ᾽ ἵνα φανερωθῇ τῷ Ἰσραήλ, διὰ τοῦτο ἦλθον ἐγὼ ἐν τῷ ὕδατι βαπτίζων."
+pericope: "[[John.1.29 Jesus the Lamb of God|Jesus the Lamb of God]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1492I]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G2443]]"
+- "[[G5319]]"
+- "[[G3588]]"
+- "[[G2474]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G5204]]"
+- "[[G0907]]"
+texts:
+- NKO
+- k
+---
+
 **John 1:31**<big><big>[[John.1.29 Jesus the Lamb of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.
 <small><sub>**BSB:**</sub></small>
 I myself did not know Him, but the reason I came baptizing with water was that He might be revealed to Israel.”
-<small><sub>**Literal:**</sub></small>
-And I myself not knew Him, but that He may be revealed <the> to Israel, because of this came I myself with <the> water baptizing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.30|<< John 1:30]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.32|John 1:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G3756\|οὐκ]]  [[G1492I\|ᾔδειν]]  [[G0846\|αὐτόν,]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G5319\|φανερωθῇ]]  [[G3588\|τῷ]]  [[G2474\|Ἰσραήλ,]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G2064\|ἦλθον]]  [[G1473\|ἐγὼ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G5204\|ὕδατι]]  [[G0907\|βαπτίζων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.30|<< John 1:30]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.32|John 1:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

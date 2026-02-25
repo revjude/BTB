@@ -1,8 +1,68 @@
+---
+title: Isaiah 52:10
+type: Verse
+kjv: "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God."
+bsb: "The LORD has bared His holy arm in the sight of all the nations; all the ends of the earth will see the salvation of our God."
+hebrew: "חָשַׂ֤ף יְהוָה֙ אֶת־ זְר֣וֹעַ קָדְשׁ֔וֹ לְעֵינֵ֖י כָּל־ הַגּוֹיִ֑ם וְרָאוּ֙ כָּל־ אַפְסֵי־ אָ֔רֶץ אֵ֖ת יְשׁוּעַ֥ת אֱלֹהֵֽינוּ׃ ס"
+pericope: "[[Isa.52.1 Deliverance for Jerusalem|Deliverance for Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H2834]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2220]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0657A]]"
+- "[[H0776G]]"
+- "[[H3444]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 52:10**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.
 <small><sub>**BSB:**</sub></small>
 The LORD has bared His holy arm in the sight of all the nations; all the ends of the earth will see the salvation of our God.
+<small><sub>**Hebrew:**</sub></small>
+[[H2834\|חָשַׂ֤ף]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2220\|זְר֣וֹעַ]] [[H6944G\|קָדְשׁ֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H5869A\|עֵינֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H9001\|וְ]][[H7200G\|רָאוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H0657A\|אַפְסֵי]][[H9014\|־]] [[H0776G\|אָ֔רֶץ]] [[H0853\|אֵ֖ת]] [[H3444\|יְשׁוּעַ֥ת]] [[H0430G\|אֱלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic POWER|POWER]] • [[topic PRAISE|PRAISE]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.9|<< Isaiah 52:9]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.11|Isaiah 52:11 >>]]</td></tr></table>
 
@@ -22,7 +82,7 @@ The LORD has bared His holy arm in the sight of all the nations; all the ends of
 | [the] earth  |**<big>&#8207;[[H0776G\|אָ֔רֶץ]]&#8207; </big>**| 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֵ֖ת]]&#8207; </big>**| 'et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] salvation of  |**<big>&#8207;[[H3444\|יְשׁוּעַ֥ת]]&#8207; </big>**| ye.shu.'At<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God our  |**<big>&#8207;[[H0430G\|אֱלֹהֵֽי]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Hei.<small><sup>[[HNcmpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.9|<< Isaiah 52:9]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.11|Isaiah 52:11 >>]]</td></tr></table>
 
 

@@ -1,8 +1,76 @@
+---
+title: Jeremiah 19:4
+type: Verse
+kjv: "Because they have forsaken me, and have estranged this place, and have burned incense in it unto other gods, whom neither they nor their fathers have known, nor the kings of Judah, and have filled this place with the blood of innocents;"
+bsb: "because they have abandoned Me and made this a foreign place. They have burned incense in this place to other gods that neither they nor their fathers nor the kings of Judah have ever known. They have filled this place with the blood of the innocent."
+hebrew: "יַ֣עַן׀ אֲשֶׁ֣ר עֲזָבֻ֗נִי וַֽיְנַכְּר֞וּ אֶת־ הַמָּק֤וֹם הַזֶּה֙ וַיְקַטְּרוּ־ בוֹ֙ לֵאלֹהִ֣ים אֲחֵרִ֔ים אֲשֶׁ֧ר לֹֽא־ יְדָע֛וּם הֵ֥מָּה וַאֲבֽוֹתֵיהֶ֖ם וּמַלְכֵ֣י יְהוּדָ֑ה וּמָֽלְא֛וּ אֶת־ הַמָּק֥וֹם הַזֶּ֖ה דַּ֥ם נְקִיִּֽם׃"
+pericope: "[[Jer.19.1 The Broken Jar|The Broken Jar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 19
+book/chapter: "[[Jer.19|Jeremiah 19]]"
+chronological_order: 736
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HINNOM|HINNOM]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H3282]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H5800A]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H5234B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H6999H]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9038]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4390]]"
+- "[[H1818]]"
+- "[[H5355A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 19:4**<big><big>[[Jer.19.1 The Broken Jar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they have forsaken me, and have estranged this place, and have burned incense in it unto other gods, whom neither they nor their fathers have known, nor the kings of Judah, and have filled this place with the blood of innocents;
 <small><sub>**BSB:**</sub></small>
 because they have abandoned Me and made this a foreign place. They have burned incense in this place to other gods that neither they nor their fathers nor the kings of Judah have ever known. They have filled this place with the blood of the innocent.
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֣עַן]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֣ר]] [[H5800A\|עֲזָבֻ֗]][[H9030\|נִי]] [[H9001\|וַֽ]][[H5234B\|יְנַכְּר֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֤וֹם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9001\|וַ]][[H6999H\|יְקַטְּרוּ]][[H9014\|־]] [[H9003\|ב]][[H9033\|וֹ֙]] [[H9005\|לֵ]][[H0430\|אלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H0834A\|אֲשֶׁ֧ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יְדָע֛וּ]][[H9038\|ם]] [[H1992\|הֵ֥מָּה]] [[H9002\|וַ]][[H0001G\|אֲבֽוֹתֵי]][[H9028\|הֶ֖ם]] [[H9002\|וּ]][[H4428G\|מַלְכֵ֣י]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וּ]][[H4390\|מָֽלְא֛וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H1818\|דַּ֥ם]] [[H5355A\|נְקִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HINNOM|HINNOM]] • [[topic HOMICIDE|HOMICIDE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.19.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.19.3|<< Jeremiah 19:3]]</td><td align="center" style="border:none;">[[Jer.19|Jeremiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.19.5|Jeremiah 19:5 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hannah Prays for a Son
+type: Pericope
 pericope: "[[1Sam.1.9 Hannah Prays for a Son|Hannah Prays for a Son]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 1
 book/chapter: "[[1Sam.1|1 Samuel 1]]"
-genre:
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 10
 verses:
 - "[[1Sam.1.9]]"
 - "[[1Sam.1.10]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Sam.1.18]]"
 ---
 
-[[1Sam.1|1 Samuel 1:9 - 1 Samuel 1:18]]
+<small>[[1Sam.1|1 Samuel 1:9-18]]</small>
 *Hannah Prays for a Son*
 
 [[1Sam.1.9|9]] So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the LORD.

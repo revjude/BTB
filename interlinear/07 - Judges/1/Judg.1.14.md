@@ -1,8 +1,67 @@
+---
+title: Judges 1:14
+type: Verse
+kjv: "And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What wilt thou?"
+bsb: "One day Acsah came to Othniel and urged him to ask her father for a field. When she got off her donkey, Caleb asked her, “What do you desire?”"
+hebrew: "וַיְהִ֣י בְּבוֹאָ֗הּ וַתְּסִיתֵ֙הוּ֙ לִשְׁא֤וֹל מֵֽאֵת־ אָבִ֙יהָ֙ הַשָּׂדֶ֔ה וַתִּצְנַ֖ח מֵעַ֣ל הַחֲמ֑וֹר וַיֹּֽאמֶר־ לָ֥הּ כָּלֵ֖ב מַה־ לָּֽךְ׃"
+pericope: "[[Judg.1.8 The Capture of Jerusalem and Hebron|The Capture of Jerusalem and Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9044]]"
+- "[[H5496]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H7592]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9024]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H6795]]"
+- "[[H5921A]]"
+- "[[H2543]]"
+- "[[H0559]]"
+- "[[H9034]]"
+- "[[H3612G]]"
+- "[[H4100]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 1:14**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when she came [to him], that she moved him to ask of her father a field: and she lighted from off [her] ass; and Caleb said unto her, What wilt thou?
 <small><sub>**BSB:**</sub></small>
 One day Acsah came to Othniel and urged him to ask her father for a field. When she got off her donkey, Caleb asked her, “What do you desire?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9003\|בְּ]][[H0935G\|בוֹאָ֗]][[H9044\|הּ]] [[H9001\|וַ]][[H5496\|תְּסִיתֵ֙]][[H9033\|הוּ֙]] [[H9005\|לִ]][[H7592\|שְׁא֤וֹל]] [[H9006\|מֵֽ]][[H0854\|אֵת]][[H9014\|־]] [[H0001G\|אָבִ֙י]][[H9024\|הָ֙]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9001\|וַ]][[H6795\|תִּצְנַ֖ח]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הַ]][[H2543\|חֲמ֑וֹר]] [[H9001\|וַ]][[H0559\|יֹּֽאמֶר]][[H9014\|־]] [[H9005\|לָ֥]][[H9034\|הּ]] [[H3612G\|כָּלֵ֖ב]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic CANAANITES|CANAANITES]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.13|<< Judges 1:13]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.15|Judges 1:15 >>]]</td></tr></table>
 

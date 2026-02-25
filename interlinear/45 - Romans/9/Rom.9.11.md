@@ -1,10 +1,60 @@
+---
+title: Romans 9:11
+type: Verse
+kjv: "(For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)"
+bsb: "Yet before the twins were born or had done anything good or bad, in order that God’s plan of election might stand,"
+greek: "μήπω μήπω γὰρ γεννηθέντων μηδὲ πραξάντων τι ἀγαθὸν ἢ φαῦλον, ἵνα ἡ κατ᾽ ἐκλογὴν πρόθεσις τοῦ θεοῦ μένῃ,"
+pericope: "[[Rom.9.6 God’s Sovereign Choice|God’s Sovereign Choice]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+strongs:
+- "[[G3361]]"
+- "[[G4452]]"
+- "[[G1063]]"
+- "[[G1080]]"
+- "[[G3366]]"
+- "[[G4238]]"
+- "[[G5100]]"
+- "[[G0018]]"
+- "[[G2228]]"
+- "[[G5337]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G1589]]"
+- "[[G4286]]"
+- "[[G2316]]"
+- "[[G3306]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 9:11**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (For [the children] being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)
 <small><sub>**BSB:**</sub></small>
 Yet before the twins were born or had done anything good or bad, in order that God’s plan of election might stand,
-<small><sub>**Literal:**</sub></small>
-not yet for having been born nor having done anything good or evil, so that the according to election purpose <the> of God may stand,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.10|<< Romans 9:10]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.12|Romans 9:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μήπω]]  <sup><small>[[G4452\| [ • ] ]]</small></sup>  [[G1063\|γὰρ]]  [[G1080\|γεννηθέντων]]  [[G3366\|μηδὲ]]  [[G4238\|πραξάντων]]  [[G5100\|τι]]  [[G0018\|ἀγαθὸν]]  [[G2228\|ἢ]]  [[G5337\|φαῦλον,]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G2596\|κατ᾽]]  [[G1589\|ἐκλογὴν]]  [[G4286\|πρόθεσις]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3306\|μένῃ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COVENANT|COVENANT]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic PREDESTINATION|PREDESTINATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.10|<< Romans 9:10]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.12|Romans 9:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,71 @@
+---
+title: Romans 4:16
+type: Verse
+kjv: "Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,"
+bsb: "Therefore, the promise comes by faith, so that it may rest on grace and may be guaranteed to all Abraham’s offspring—not only to those who are of the law, but also to those who are of the faith of Abraham. He is the father of us all."
+greek: "διὰ τοῦτο ἐκ πίστεως, ἵνα κατὰ χάριν, εἰς τὸ εἶναι βεβαίαν τὴν ἐπαγγελίαν παντὶ τῷ σπέρματι, οὐ τῷ ἐκ τοῦ νόμου μόνον ἀλλὰ καὶ τῷ ἐκ πίστεως Ἀβραάμ, ὅς ἐστιν πατὴρ πάντων ἡμῶν"
+pericope: "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1537]]"
+- "[[G4102G]]"
+- "[[G2443]]"
+- "[[G2596]]"
+- "[[G5485]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1511]]"
+- "[[G0949]]"
+- "[[G1860]]"
+- "[[G3956]]"
+- "[[G4690G]]"
+- "[[G3756]]"
+- "[[G3551]]"
+- "[[G3441]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G0011]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3962]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Romans 4:16**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore [it is] of faith, that [it might be] by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,
 <small><sub>**BSB:**</sub></small>
 Therefore, the promise comes by faith, so that it may rest on grace and may be guaranteed to all Abraham’s offspring—not only to those who are of the law, but also to those who are of the faith of Abraham. He is the father of us all.
-<small><sub>**Literal:**</sub></small>
-Therefore it [is] of faith, that [it may be] according to grace, for <the> to be sure the promise to all the seed, not to that of the law only but also to that of [the] faith of Abraham, who is [the] father of all of us —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.15|<< Romans 4:15]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.17|Romans 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως,]]  [[G2443\|ἵνα]]  [[G2596\|κατὰ]]  [[G5485\|χάριν,]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1511\|εἶναι]]  [[G0949\|βεβαίαν]]  [[G3588\|τὴν]]  [[G1860\|ἐπαγγελίαν]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G4690G\|σπέρματι,]]  [[G3756\|οὐ]]  [[G3588\|τῷ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G3441\|μόνον]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως]]  [[G0011\|Ἀβραάμ,]]  [[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G3962\|πατὴρ]]  [[G3956\|πάντων]]  [[G3165\|ἡμῶν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SALVATION|SALVATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.15|<< Romans 4:15]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.17|Romans 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

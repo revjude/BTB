@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 6:15
+type: Verse
+kjv: "And the Levites took down the ark of the LORD, and the coffer that was with it, wherein the jewels of gold were, and put them on the great stone: and the men of Bethshemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD."
+bsb: "And the Levites took down the ark of the LORD and the chest containing the gold objects, and they placed them on the large rock. That day the men of Beth-shemesh offered burnt offerings and made sacrifices to the LORD."
+hebrew: "וְהַלְוִיִּ֞ם הוֹרִ֣ידוּ׀ אֶת־ אֲר֣וֹן יְהוָ֗ה וְאֶת־ הָאַרְגַּ֤ז אֲשֶׁר־ אִתּוֹ֙ אֲשֶׁר־ בּ֣וֹ כְלֵֽי־ זָהָ֔ב וַיָּשִׂ֖מוּ אֶל־ הָאֶ֣בֶן הַגְּדוֹלָ֑ה וְאַנְשֵׁ֣י בֵֽית־ שֶׁ֗מֶשׁ הֶעֱל֨וּ עֹל֜וֹת וַֽיִּזְבְּח֧וּ זְבָחִ֛ים בַּיּ֥וֹם הַה֖וּא לַֽיהוָֽה׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-SHEMESH|BETH-SHEMESH]]"
+- "[[topic COFFER|COFFER]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H3381]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H0712]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3627]]"
+- "[[H2091]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H0413]]"
+- "[[H0068G]]"
+- "[[H1419A]]"
+- "[[H0582]]"
+- "[[H1053G]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H2076]]"
+- "[[H2077]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 6:15**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Levites took down the ark of the LORD, and the coffer that [was] with it, wherein the jewels of gold [were], and put [them] on the great stone: and the men of Bethshemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD.
 <small><sub>**BSB:**</sub></small>
 And the Levites took down the ark of the LORD and the chest containing the gold objects, and they placed them on the large rock. That day the men of Beth-shemesh offered burnt offerings and made sacrifices to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֞ם]] [[H3381\|הוֹרִ֣ידוּ]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֣וֹן]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0712\|אַרְגַּ֤ז]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0854\|אִתּ]][[H9033\|וֹ֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בּ֣]][[H9033\|וֹ]] [[H3627\|כְלֵֽי]][[H9014\|־]] [[H2091\|זָהָ֔ב]] [[H9001\|וַ]][[H7760A\|יָּשִׂ֖מוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0068G\|אֶ֣בֶן]] [[H9009\|הַ]][[H1419A\|גְּדוֹלָ֑ה]] [[H9002\|וְ]][[H0582\|אַנְשֵׁ֣י]] [[H1053G\|בֵֽית]][[H9014\|־]] [[H1053G\|שֶׁ֗מֶשׁ]] [[H5927I\|הֶעֱל֨וּ]] [[H5930A\|עֹל֜וֹת]] [[H9001\|וַֽ]][[H2076\|יִּזְבְּח֧וּ]] [[H2077\|זְבָחִ֛ים]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-SHEMESH|BETH-SHEMESH]] • [[topic COFFER|COFFER]] • [[topic MIRACLES|MIRACLES]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.14|<< 1 Samuel 6:14]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.16|1 Samuel 6:16 >>]]</td></tr></table>
 

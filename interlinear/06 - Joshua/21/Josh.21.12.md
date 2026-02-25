@@ -1,8 +1,58 @@
+---
+title: Joshua 21:12
+type: Verse
+kjv: "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession."
+bsb: "But they had given the fields and villages around the city to Caleb son of Jephunneh as his possession."
+hebrew: "וְאֶת־ שְׂדֵ֥ה הָעִ֖יר וְאֶת־ חֲצֵרֶ֑יהָ נָֽתְנ֛וּ לְכָלֵ֥ב בֶּן־ יְפֻנֶּ֖ה בַּאֲחֻזָּתֽוֹ׃ ס"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7704G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2691B]]"
+- "[[H9024]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H3612G]]"
+- "[[H1121A]]"
+- "[[H3312G]]"
+- "[[H9003]]"
+- "[[H0272]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 21:12**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.
 <small><sub>**BSB:**</sub></small>
 But they had given the fields and villages around the city to Caleb son of Jephunneh as his possession.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7704G\|שְׂדֵ֥ה]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2691B\|חֲצֵרֶ֑י]][[H9024\|הָ]] [[H5414G\|נָֽתְנ֛וּ]] [[H9005\|לְ]][[H3612G\|כָלֵ֥ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3312G\|יְפֻנֶּ֖ה]] [[H9003\|בַּ]][[H0272\|אֲחֻזָּתֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.11|<< Joshua 21:11]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.13|Joshua 21:13 >>]]</td></tr></table>
 
@@ -17,7 +67,7 @@ But they had given the fields and villages around the city to Caleb son of Jephu
 | to Caleb  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3612G\|כָלֵ֥ב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kha.Lev<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jephunneh  |**<big>&#8207;[[H3312G\|יְפֻנֶּ֖ה]]&#8207; </big>**| ye.fu.Neh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<in> possession his  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H0272\|אֲחֻזָּתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.chu.za.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<in> possession his  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H0272\|אֲחֻזָּתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ba.<small><sup>[[HR]]</sup></small> 'a.chu.za.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.11|<< Joshua 21:11]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.13|Joshua 21:13 >>]]</td></tr></table>
 
 

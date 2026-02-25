@@ -1,8 +1,61 @@
+---
+title: Jeremiah 31:39
+type: Verse
+kjv: "And the measuring line shall yet go forth over against it upon the hill Gareb, and shall compass about to Goath."
+bsb: "The measuring line will once again stretch out straight to the hill of Gareb and then turn toward Goah."
+hebrew: "וְיָצָ֨א ע֜וֹד קָ֤ו הַמִּדָּה֙ נֶגְדּ֔וֹ עַ֖ל גִּבְעַ֣ת גָּרֵ֑ב וְנָסַ֖ב גֹּעָֽתָה׃"
+pericope: "[[Jer.31.26 The New Covenant|The New Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GAREB|GAREB]]"
+- "[[topic GOATH|GOATH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H5750]]"
+- "[[H6961]]"
+- "[[H6957B]]"
+- "[[H9009]]"
+- "[[H4060A]]"
+- "[[H5048]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H1389I]]"
+- "[[H1619H]]"
+- "[[H5437G]]"
+- "[[H1601]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 31:39**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the measuring line shall yet go forth over against it upon the hill Gareb, and shall compass about to Goath.
 <small><sub>**BSB:**</sub></small>
 The measuring line will once again stretch out straight to the hill of Gareb and then turn toward Goah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318G\|יָצָ֨א]] [[H5750\|ע֜וֹד]] [[H6957B\|קָ֤ו]] [[H9009\|הַ]][[H4060A\|מִּדָּה֙]] [[H5048\|נֶגְדּ֔]][[H9033\|וֹ]] [[H5921A\|עַ֖ל]] [[H1389I\|גִּבְעַ֣ת]] [[H1619H\|גָּרֵ֑ב]] [[H9001\|וְ]][[H5437G\|נָסַ֖ב]] [[H1601\|גֹּעָֽתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAREB|GAREB]] • [[topic GOATH|GOATH]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.38|<< Jeremiah 31:38]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.40|Jeremiah 31:40 >>]]</td></tr></table>
 

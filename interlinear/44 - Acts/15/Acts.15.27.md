@@ -1,10 +1,61 @@
+---
+title: Acts 15:27
+type: Verse
+kjv: "We have sent therefore Judas and Silas, who shall also tell you the same things by mouth."
+bsb: "Therefore we are sending Judas and Silas to tell you in person the same things we are writing."
+greek: "ἀπεστάλκαμεν οὖν Ἰούδαν καὶ Σιλᾶν, καὶ αὐτοὺς διὰ λόγου ἀπαγγέλλοντας τὰ αὐτά."
+pericope: "[[Acts.15.22 The Letter to the Gentile Believers|The Letter to the Gentile Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic EPISTLES|EPISTLES]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G0649]]"
+- "[[G3767]]"
+- "[[G2455M]]"
+- "[[G2532]]"
+- "[[G4609]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3056]]"
+- "[[G0518]]"
+- "[[G3588]]"
+texts:
+- NKO
+---
+
 **Acts 15:27**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We have sent therefore Judas and Silas, who shall also tell [you] the same things by mouth.
 <small><sub>**BSB:**</sub></small>
 Therefore we are sending Judas and Silas to tell you in person the same things we are writing.
-<small><sub>**Literal:**</sub></small>
-We have sent therefore Judas and Silas, and they through word [of mouth] are telling [you] the same things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.26|<< Acts 15:26]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.28|Acts 15:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0649\|ἀπεστάλκαμεν]]  [[G3767\|οὖν]]  [[G2455M\|Ἰούδαν]]  [[G2532\|καὶ]]  [[G4609\|Σιλᾶν,]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὺς]]  [[G1223\|διὰ]]  [[G3056\|λόγου]]  [[G0518\|ἀπαγγέλλοντας]]  [[G3588\|τὰ]]  [[G0846\|αὐτά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic EPISTLES|EPISTLES]] • [[topic GENTILES|GENTILES]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SILAS|SILAS]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.26|<< Acts 15:26]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.28|Acts 15:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

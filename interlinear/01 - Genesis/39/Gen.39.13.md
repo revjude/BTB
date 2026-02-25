@@ -1,8 +1,66 @@
+---
+title: Genesis 39:13
+type: Verse
+kjv: "And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,"
+bsb: "When she saw that he had left his cloak in her hand and had run out of the house,"
+hebrew: "וַיְהִי֙ כִּרְאוֹתָ֔הּ כִּֽי־ עָזַ֥ב בִּגְד֖וֹ בְּיָדָ֑הּ וַיָּ֖נָס הַחֽוּצָה׃"
+pericope: "[[Gen.39.13 Joseph Falsely Imprisoned|Joseph Falsely Imprisoned]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H9044]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9024]]"
+- "[[H5127]]"
+- "[[H9009]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:13**<big><big>[[Gen.39.13 Joseph Falsely Imprisoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when she saw that he had left his garment in her hand, and was fled forth,
 <small><sub>**BSB:**</sub></small>
 When she saw that he had left his cloak in her hand and had run out of the house,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H9004\|כִּ]][[H7200G\|רְאוֹתָ֔]][[H9044\|הּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5800A\|עָזַ֥ב]] [[H0899B\|בִּגְד֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3027G\|יָדָ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H5127\|יָּ֖נָס]] [[H9009\|הַ]][[H2351\|חֽוּצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic CHASTITY|CHASTITY]] • [[topic DECISION|DECISION]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.12|<< Genesis 39:12]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.14|Genesis 39:14 >>]]</td></tr></table>
 

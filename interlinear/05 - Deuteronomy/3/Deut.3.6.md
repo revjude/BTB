@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 3:6
+type: Verse
+kjv: "And we utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying the men, women, and children, of every city."
+bsb: "We devoted them to destruction, as we had done to Sihon king of Heshbon, utterly destroying the men, women, and children of every city."
+hebrew: "וַנַּחֲרֵ֣ם אוֹתָ֔ם כַּאֲשֶׁ֣ר עָשִׂ֔ינוּ לְסִיחֹ֖ן מֶ֣לֶךְ חֶשְׁבּ֑וֹן הַחֲרֵם֙ כָּל־ עִ֣יר מְתִ֔ם הַנָּשִׁ֖ים וְהַטָּֽף׃"
+pericope: "[[Deut.3.1 The Defeat of Og|The Defeat of Og]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic OG|OG]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic SIHON|SIHON]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2763A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H2809]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H4962]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H9002]]"
+- "[[H2945]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:6**<big><big>[[Deut.3.1 The Defeat of Og|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we utterly destroyed them, as we did unto Sihon king of Heshbon, utterly destroying the men, women, and children, of every city.
 <small><sub>**BSB:**</sub></small>
 We devoted them to destruction, as we had done to Sihon king of Heshbon, utterly destroying the men, women, and children of every city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2763A\|נַּחֲרֵ֣ם]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6213A\|עָשִׂ֔ינוּ]] [[H9005\|לְ]][[H5511\|סִיחֹ֖ן]] [[H4428G\|מֶ֣לֶךְ]] [[H2809\|חֶשְׁבּ֑וֹן]] [[H2763A\|הַחֲרֵם֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עִ֣יר]] [[H4962\|מְתִ֔ם]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H2945\|טָּֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic ISRAEL|ISRAEL]] • [[topic MASSACRE|MASSACRE]] • [[topic OG|OG]] • [[topic REUBENITES|REUBENITES]] • [[topic SIHON|SIHON]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.5|<< Deuteronomy 3:5]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.7|Deuteronomy 3:7 >>]]</td></tr></table>
 

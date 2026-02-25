@@ -1,10 +1,51 @@
+---
+title: John 2:24
+type: Verse
+kjv: "But Jesus did not commit himself unto them, because he knew all men,"
+bsb: "But Jesus did not entrust Himself to them, for He knew them all."
+greek: "αὐτὸς δὲ ὁ Ἰησοῦς οὐκ ἐπίστευεν αὐτὸν αὐτοῖς διὰ τὸ αὐτὸν γινώσκειν πάντας"
+pericope: "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G1223]]"
+- "[[G1097]]"
+- "[[G3956]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 2:24**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus did not commit himself unto them, because he knew all [men],
 <small><sub>**BSB:**</sub></small>
 But Jesus did not entrust Himself to them, for He knew them all.
-<small><sub>**Literal:**</sub></small>
-On His part however <the> Jesus not was entrusting Him[self] to them because of <the> His knowing all [men]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.23|<< John 2:23]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.25|John 2:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτὸς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3756\|οὐκ]]  [[G4100\|ἐπίστευεν]]  [[G0846\|αὐτὸν]]  [[G0846\|αὐτοῖς]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸν]]  [[G1097\|γινώσκειν]]  [[G3956\|πάντας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.23|<< John 2:23]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.25|John 2:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

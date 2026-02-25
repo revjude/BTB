@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sanballat’s Conspiracy
+type: Pericope
 pericope: "[[Neh.6.1 Sanballat’s Conspiracy|Sanballat’s Conspiracy]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 6
 book/chapter: "[[Neh.6|Nehemiah 6]]"
-genre:
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 14
 verses:
 - "[[Neh.6.1]]"
 - "[[Neh.6.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Neh.6.14]]"
 ---
 
-[[Neh.6|Nehemiah 6:1 - Nehemiah 6:14]]
+<small>[[Neh.6|Nehemiah 6:1-14]]</small>
 *Sanballat’s Conspiracy*
 
 [[Neh.6.1|1]] Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and \[that\] there was no breach left therein; (though at that time I had not set up the doors upon the gates;)

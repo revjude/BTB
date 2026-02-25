@@ -1,8 +1,60 @@
+---
+title: Habakkuk 3:11
+type: Verse
+kjv: "The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear."
+bsb: "Sun and moon stood still in their places at the flash of Your flying arrows, at the brightness of Your shining spear."
+hebrew: "שֶׁ֥מֶשׁ יָרֵ֖חַ עָ֣מַד זְבֻ֑לָה לְא֤וֹר חִצֶּ֙יךָ֙ יְהַלֵּ֔כוּ לְנֹ֖גַהּ בְּרַ֥ק חֲנִיתֶֽךָ׃"
+pericope: "[[Hab.3.1 Habakkuk’s Prayer|Habakkuk’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOON|MOON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H8121]]"
+- "[[H3394]]"
+- "[[H5975G]]"
+- "[[H2073]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H0216]]"
+- "[[H2671]]"
+- "[[H9021]]"
+- "[[H1980I]]"
+- "[[H5051]]"
+- "[[H1300B]]"
+- "[[H2595]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 3:11**<big><big>[[Hab.3.1 Habakkuk’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun [and] moon stood still in their habitation: at the light of thine arrows they went, [and] at the shining of thy glittering spear.
 <small><sub>**BSB:**</sub></small>
 Sun and moon stood still in their places at the flash of Your flying arrows, at the brightness of Your shining spear.
+<small><sub>**Hebrew:**</sub></small>
+[[H8121\|שֶׁ֥מֶשׁ]] [[H3394\|יָרֵ֖חַ]] [[H5975G\|עָ֣מַד]] [[H2073\|זְבֻ֑לָ]][[H9011\|ה]] [[H9005\|לְ]][[H0216\|א֤וֹר]] [[H2671\|חִצֶּ֙י]][[H9021\|ךָ֙]] [[H1980I\|יְהַלֵּ֔כוּ]] [[H9005\|לְ]][[H5051\|נֹ֖גַהּ]] [[H1300B\|בְּרַ֥ק]] [[H2595\|חֲנִיתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic GOD|GOD]] • [[topic MOON|MOON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.3.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.3.10|<< Habakkuk 3:10]]</td><td align="center" style="border:none;">[[Hab.3|Habakkuk 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.3.12|Habakkuk 3:12 >>]]</td></tr></table>
 

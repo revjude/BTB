@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Benjamin’s Inheritance
+type: Pericope
 pericope: "[[Josh.18.11 Benjamin’s Inheritance|Benjamin’s Inheritance]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 18
 book/chapter: "[[Josh.18|Joshua 18]]"
-genre:
+chronological_order: 248
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 18
 verses:
 - "[[Josh.18.11]]"
 - "[[Josh.18.12]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Josh.18.28]]"
 ---
 
-[[Josh.18|Joshua 18:11 - Joshua 18:28]]
+<small>[[Josh.18|Joshua 18:11-28]]</small>
 *Benjamin’s Inheritance*
 
 [[Josh.18.11|11]] And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.

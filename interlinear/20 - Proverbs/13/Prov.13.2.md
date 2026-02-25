@@ -1,8 +1,53 @@
+---
+title: Proverbs 13:2
+type: Verse
+kjv: "A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence."
+bsb: "From the fruit of his lips a man enjoys good things, but the desire of the faithless is violence."
+hebrew: "מִפְּרִ֣י פִי־ אִ֭ישׁ יֹ֣אכַל ט֑וֹב וְנֶ֖פֶשׁ בֹּגְדִ֣ים חָמָֽס׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9006]]"
+- "[[H6529]]"
+- "[[H6310G]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H0398]]"
+- "[[H2896B]]"
+- "[[H9002]]"
+- "[[H5315L]]"
+- "[[H0898]]"
+- "[[H2555]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:2**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man shall eat good by the fruit of [his] mouth: but the soul of the transgressors [shall eat] violence.
 <small><sub>**BSB:**</sub></small>
 From the fruit of his lips a man enjoys good things, but the desire of the faithless is violence.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6529\|פְּרִ֣י]] [[H6310G\|פִי]][[H9014\|־]] [[H0376G\|אִ֭ישׁ]] [[H0398\|יֹ֣אכַל]] [[H2896B\|ט֑וֹב]] [[H9002\|וְ]][[H5315L\|נֶ֖פֶשׁ]] [[H0898\|בֹּגְדִ֣ים]] [[H2555\|חָמָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.1|<< Proverbs 13:1]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.3|Proverbs 13:3 >>]]</td></tr></table>
 

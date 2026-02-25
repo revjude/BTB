@@ -1,8 +1,69 @@
+---
+title: Ezekiel 4:16
+type: Verse
+kjv: "Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:"
+bsb: "Then He told me, “Son of man, I am going to cut off the supply of food in Jerusalem. They will anxiously eat bread rationed by weight, and in despair they will drink water by measure."
+hebrew: "וַיֹּ֣אמֶר אֵלַ֗י בֶּן־ אָדָם֙ הִנְנִ֨י שֹׁבֵ֤ר מַטֵּה־ לֶ֙חֶם֙ בִּיר֣וּשָׁלִַ֔ם וְאָכְלוּ־ לֶ֥חֶם בְּמִשְׁקָ֖ל וּבִדְאָגָ֑ה וּמַ֕יִם בִּמְשׂוּרָ֥ה וּבְשִׁמָּמ֖וֹן יִשְׁתּֽוּ׃"
+pericope: "[[Ezek.4.9 The Defiled Bread|The Defiled Bread]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7665]]"
+- "[[H4294K]]"
+- "[[H3899H]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H0398]]"
+- "[[H4948]]"
+- "[[H9002]]"
+- "[[H1674]]"
+- "[[H4325G]]"
+- "[[H4884]]"
+- "[[H8078]]"
+- "[[H8354]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 4:16**<big><big>[[Ezek.4.9 The Defiled Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:
 <small><sub>**BSB:**</sub></small>
 Then He told me, “Son of man, I am going to cut off the supply of food in Jerusalem. They will anxiously eat bread rationed by weight, and in despair they will drink water by measure.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H7665\|שֹׁבֵ֤ר]] [[H4294K\|מַטֵּה]][[H9014\|־]] [[H3899H\|לֶ֙חֶם֙]] [[H9003\|בִּ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9001\|וְ]][[H0398\|אָכְלוּ]][[H9014\|־]] [[H3899H\|לֶ֥חֶם]] [[H9003\|בְּ]][[H4948\|מִשְׁקָ֖ל]] [[H9002\|וּ]][[H9003\|בִ]][[H1674\|דְאָגָ֑ה]] [[H9002\|וּ]][[H4325G\|מַ֕יִם]] [[H9003\|בִּ]][[H4884\|מְשׂוּרָ֥ה]] [[H9002\|וּ]][[H9003\|בְ]][[H8078\|שִׁמָּמ֖וֹן]] [[H8354\|יִשְׁתּֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic FAMINE|FAMINE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.15|<< Ezekiel 4:15]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.17|Ezekiel 4:17 >>]]</td></tr></table>
 

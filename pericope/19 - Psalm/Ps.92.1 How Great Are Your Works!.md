@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: How Great Are Your Works!
+type: Pericope
 pericope: "[[Ps.92.1 How Great Are Your Works!|How Great Are Your Works!]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 92
 book/chapter: "[[Ps.92|Psalm 92]]"
-genre:
+chronological_order: 519
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 16
 verses:
 - "[[Ps.92.0]]"
 - "[[Ps.92.1]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Ps.92.15]]"
 ---
 
-[[Ps.92|Psalm 92:1 - Psalm 92:15]]
+<small>[[Ps.92|Psalm 92:1-15]]</small>
 *How Great Are Your Works!*
 
 [[Ps.92.0|0]] A Psalm \[or\] Song for the sabbath day.

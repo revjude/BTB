@@ -1,8 +1,54 @@
+---
+title: Isaiah 55:4
+type: Verse
+kjv: "Behold, I have given him for a witness to the people, a leader and commander to the people."
+bsb: "Behold, I have made him a witness to the nations, a leader and commander of the peoples."
+hebrew: "הֵ֛ן עֵ֥ד לְאוּמִּ֖ים נְתַתִּ֑יו נָגִ֥יד וּמְצַוֵּ֖ה לְאֻמִּֽים׃"
+pericope: "[[Isa.55.1 Invitation to the Needy|Invitation to the Needy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 55
+book/chapter: "[[Isa.55|Isaiah 55]]"
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H2005]]"
+- "[[H5707]]"
+- "[[H3816]]"
+- "[[H5414I]]"
+- "[[H9033]]"
+- "[[H5057]]"
+- "[[H9002]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 55:4**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I have given him [for] a witness to the people, a leader and commander to the people.
 <small><sub>**BSB:**</sub></small>
 Behold, I have made him a witness to the nations, a leader and commander of the peoples.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֛ן]] [[H5707\|עֵ֥ד]] [[H3816\|לְאוּמִּ֖ים]] [[H5414I\|נְתַתִּ֑י]][[H9033\|ו]] [[H5057\|נָגִ֥יד]] [[H9002\|וּ]][[H6680\|מְצַוֵּ֖ה]] [[H3816\|לְאֻמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.3|<< Isaiah 55:3]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.5|Isaiah 55:5 >>]]</td></tr></table>
 

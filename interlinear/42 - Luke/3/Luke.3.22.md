@@ -1,10 +1,72 @@
+---
+title: Luke 3:22
+type: Verse
+kjv: "And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased."
+bsb: "and the Holy Spirit descended on Him in a bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”"
+greek: "καὶ καταβῆναι τὸ πνεῦμα τὸ ἅγιον σωματικῷ εἴδει ὡς περιστερὰν ἐπ᾽ αὐτὸν καὶ φωνὴν ἐξ οὐρανοῦ γενέσθαι λέγουσαν· σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα.¶"
+pericope: "[[Luke.3.21 The Baptism of Jesus|The Baptism of Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2597]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G4984]]"
+- "[[G1491]]"
+- "[[G5613]]"
+- "[[G4058]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G5456G]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G1096]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G0027]]"
+- "[[G1722]]"
+- "[[G2106]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 3:22**<big><big>[[Luke.3.21 The Baptism of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.
 <small><sub>**BSB:**</sub></small>
 and the Holy Spirit descended on Him in a bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”
-<small><sub>**Literal:**</sub></small>
-and descending the Spirit <the> Holy in a bodily form as a dove upon Him and a voice out of heaven coming saying: You yourself are the Son of Mine the beloved, in You I am well pleased.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.21|<< Luke 3:21]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.23|Luke 3:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2597\|καταβῆναι]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G4984\|σωματικῷ]]  [[G1491\|εἴδει]]  [[G5613\|ὡς]]  [[G4058\|περιστερὰν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G5456G\|φωνὴν]]  [[G1537\|ἐξ]]  [[G3772\|οὐρανοῦ]]  [[G1096\|γενέσθαι]]  [[G3004G\|λέγουσαν·]]  [[G4771\|σὺ]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G5207\|υἱός]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G0027\|ἀγαπητός,]]  [[G1722\|ἐν]]  [[G4771\|σοὶ]]  [[G2106\|εὐδόκησα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic TRINITY|TRINITY]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.21|<< Luke 3:21]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.23|Luke 3:23 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 3:22** is...
 > $\quad$ alluding to: [[LXX.Gen.22.2|Gen 22:2]] ☩ [[LXX.Ps.2.7|Ps 2:7]] ☩ [[LXX.Isa.42.1|Isa 42:1]]

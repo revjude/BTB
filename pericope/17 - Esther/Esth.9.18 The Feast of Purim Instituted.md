@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feast of Purim Instituted
+type: Pericope
 pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 9
 book/chapter: "[[Esth.9|Esther 9]]"
-genre:
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 15
 verses:
 - "[[Esth.9.18]]"
 - "[[Esth.9.19]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Esth.9.32]]"
 ---
 
-[[Esth.9|Esther 9:18 - Esther 9:32]]
+<small>[[Esth.9|Esther 9:18-32]]</small>
 *The Feast of Purim Instituted*
 
 [[Esth.9.18|18]] But the Jews that \[were\] at Shushan assembled together on the thirteenth \[day\] thereof, and on the fourteenth thereof; and on the fifteenth \[day\] of the same they rested, and made it a day of feasting and gladness.

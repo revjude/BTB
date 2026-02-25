@@ -1,8 +1,53 @@
+---
+title: Job 20:27
+type: Verse
+kjv: "The heaven shall reveal his iniquity; and the earth shall rise up against him."
+bsb: "The heavens will expose his iniquity, and the earth will rise up against him."
+hebrew: "יְגַלּ֣וּ שָׁמַ֣יִם עֲוֹנ֑וֹ וְ֝אֶ֗רֶץ מִתְקוֹמָ֘מָ֥ה לֽוֹ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H1540H]]"
+- "[[H8064]]"
+- "[[H5771G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H6965J]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:27**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heaven shall reveal his iniquity; and the earth shall rise up against him.
 <small><sub>**BSB:**</sub></small>
 The heavens will expose his iniquity, and the earth will rise up against him.
+<small><sub>**Hebrew:**</sub></small>
+[[H1540H\|יְגַלּ֣וּ]] [[H8064\|שָׁמַ֣יִם]] [[H5771G\|עֲוֹנ֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H0776G\|אֶ֗רֶץ]] [[H6965J\|מִתְקוֹמָ֘מָ֥ה]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.26|<< Job 20:26]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.28|Job 20:28 >>]]</td></tr></table>
 

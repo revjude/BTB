@@ -1,6 +1,86 @@
+---
+title: LXX Ezekiel 28:2
+type: Verse
+lxx: "And you, O son of man, say to the ruler of Tyre! Thus says Adonai the lord; because your heart was raised up high, and you said, I am the God, I inhabited the dwelling of God in the heart of the sea. But you are a man, and not God, and you made  your heart as the heart of God."
+greek: "και συ υιέ ανθρώπου ειπέ τω άρχοντι Τύρου τάδε λέγει Αδωναϊ κύριος ανθ΄ ων υψώθη η καρδία σου και είπας ο θεός ειμί εγώ κατοικίαν θεού κατώκησα εν καρδία θαλάσσης συ δε ει άνθρωπος και ου θεός και έδωκας την καρδίαν σου ως καρδίαν θεού"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G5184]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G6339]]"
+- "[[G5312]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G2733]]"
+- "[[G2316]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G2281]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G5613]]"
+- "[[G2588]]"
+- "[[G2316]]"
+---
+
 **LXX Ezekiel 28:2** 
 <small><sub>**LXX:**</sub></small>
 And you, O son of man, say to the ruler of Tyre! Thus says Adonai \[the\] <span class="smallcaps">lord</span>; because your heart was raised up high, and you said, I am the God, I inhabited \[the\] dwelling of God in \[the\] heart of \[the\] sea. But you are a man, and not God, and you made  your heart as \[the\] heart of God. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1473\|συ]] [[G5207\|υιέ]] [[G0444\|ανθρώπου]] [[G2036\|ειπέ]] [[G3588\|τω]] [[G0758\|άρχοντι]] [[G5184\|Τύρου]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G6339\|ανθ΄ ων]] [[G5312\|υψώθη]] [[G3588\|η]] [[G2588\|καρδία]] [[G1473\|σου]] [[G2532\|και]] [[G2036\|είπας]] [[G3588\|ο]] [[G2316\|θεός]] [[G1510\|ειμί]] [[G1473\|εγώ]] [[G2733\|κατοικίαν]] [[G2316\|θεού]] [[G2730\|κατώκησα]] [[G1722\|εν]] [[G2588\|καρδία]] [[G2281\|θαλάσσης]] [[G1473\|συ]] [[G1161\|δε]] [[G1510\|ει]] [[G0444\|άνθρωπος]] [[G2532\|και]] [[G3756\|ου]] [[G2316\|θεός]] [[G2532\|και]] [[G1325\|έδωκας]] [[G3588\|την]] [[G2588\|καρδίαν]] [[G1473\|σου]] [[G5613\|ως]] [[G2588\|καρδίαν]] [[G2316\|θεού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic PRIDE|PRIDE]] • [[topic RULERS|RULERS]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.1|<< Ezekiel 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.3|Ezekiel 28:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -51,6 +131,6 @@ And you, O son of man, say to the ruler of Tyre! Thus says Adonai \[the\] <span 
 | as | **<big>[[G5613\|ως]]</big>** |
 | \[the\] heart | **<big>[[G2588\|καρδίαν]]</big>** |
 | of God. | **<big>[[G2316\|θεού]]</big>** |
-[[Ezek.28.2|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.1|<< Ezekiel 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.3|Ezekiel 28:3 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.28.1|<< Ezekiel 28:1]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.28.3|Ezekiel 28:3 >>]]</td></tr></table>
 
 

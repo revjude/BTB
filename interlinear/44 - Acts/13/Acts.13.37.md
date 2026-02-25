@@ -1,10 +1,55 @@
+---
+title: Acts 13:37
+type: Verse
+kjv: "But he, whom God raised again, saw no corruption."
+bsb: "But the One whom God raised from the dead did not see decay."
+greek: "ὃν δὲ ὁ θεὸς ἤγειρεν, οὐκ εἶδεν διαφθοράν.¶"
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1453]]"
+- "[[G3756]]"
+- "[[G1492H]]"
+- "[[G1312]]"
+texts:
+- NKO
+---
+
 **Acts 13:37**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he, whom God raised again, saw no corruption.
 <small><sub>**BSB:**</sub></small>
 But the One whom God raised from the dead did not see decay.
-<small><sub>**Literal:**</sub></small>
-The [One] however <the> God raised up not did see decay.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.36|<< Acts 13:36]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.38|Acts 13:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1453\|ἤγειρεν,]]  [[G3756\|οὐκ]]  [[G1492H\|εἶδεν]]  [[G1312\|διαφθοράν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic CORRUPTION|CORRUPTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PREACHING|PREACHING]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.36|<< Acts 13:36]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.38|Acts 13:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

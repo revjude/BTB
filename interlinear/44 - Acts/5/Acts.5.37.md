@@ -1,10 +1,72 @@
+---
+title: Acts 5:37
+type: Verse
+kjv: "After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, even as many as obeyed him, were dispersed."
+bsb: "After him, Judas the Galilean appeared in the days of the census and drew away people after him. He too perished, and all his followers were scattered."
+greek: "μετὰ τοῦτον ἀνέστη Ἰούδας ὁ Γαλιλαῖος ἐν ταῖς ἡμέραις τῆς ἀπογραφῆς καὶ ἀπέστησεν λαὸν ἱκανὸν ὀπίσω αὐτοῦ· κἀκεῖνος κἀκεῖνος ἀπώλετο, καὶ πάντες ὅσοι ἐπείθοντο αὐτῷ διεσκορπίσθησαν."
+pericope: "[[Acts.5.33 Gamaliel’s Advice|Gamaliel’s Advice]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic GAMALIEL|GAMALIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SEDITION|SEDITION]]"
+strongs:
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G0450]]"
+- "[[G2455K]]"
+- "[[G3588]]"
+- "[[G1057]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G0582]]"
+- "[[G2532]]"
+- "[[G0868]]"
+- "[[G2992]]"
+- "[[G2425]]"
+- "[[G3694]]"
+- "[[G0846]]"
+- "[[G1565]]"
+- "[[G0622]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G3982]]"
+- "[[G1287]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 5:37**<big><big>[[Acts.5.33 Gamaliel’s Advice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, [even] as many as obeyed him, were dispersed.
 <small><sub>**BSB:**</sub></small>
 After him, Judas the Galilean appeared in the days of the census and drew away people after him. He too perished, and all his followers were scattered.
-<small><sub>**Literal:**</sub></small>
-After this man rose up Judas the Galilean in the days of the registration and drew away people significant number of after him; And he perished, and all as many as were persuaded by him were scattered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.36|<< Acts 5:36]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.38|Acts 5:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|μετὰ]]  [[G3778\|τοῦτον]]  [[G0450\|ἀνέστη]]  [[G2455K\|Ἰούδας]]  [[G3588\|ὁ]]  [[G1057\|Γαλιλαῖος]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3588\|τῆς]]  [[G0582\|ἀπογραφῆς]]  [[G2532\|καὶ]]  [[G0868\|ἀπέστησεν]]  [[G2992\|λαὸν]]  [[G2425\|ἱκανὸν]]  [[G3694\|ὀπίσω]]  [[G0846\|αὐτοῦ·]]  [[G2532\|κἀκεῖνος]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G0622\|ἀπώλετο,]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G3745\|ὅσοι]]  [[G3982\|ἐπείθοντο]]  [[G0846\|αὐτῷ]]  [[G1287\|διεσκορπίσθησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic GAMALIEL|GAMALIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SEDITION|SEDITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.36|<< Acts 5:36]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.38|Acts 5:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

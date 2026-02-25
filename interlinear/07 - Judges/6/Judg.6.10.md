@@ -1,8 +1,69 @@
+---
+title: Judges 6:10
+type: Verse
+kjv: "And I said unto you, I am the LORD your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice."
+bsb: "And I said to you: ‘I am the LORD your God. You must not fear the gods of the Amorites, in whose land you dwell.’ But you did not obey Me.”"
+hebrew: "וָאֹמְרָ֣ה לָכֶ֗ם אֲנִי֙ יְהוָ֣ה אֱלֹהֵיכֶ֔ם לֹ֤א תִֽירְאוּ֙ אֶת־ אֱלֹהֵ֣י הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יוֹשְׁבִ֣ים בְּאַרְצָ֑ם וְלֹ֥א שְׁמַעְתֶּ֖ם בְּקוֹלִֽי׃ פ"
+pericope: "[[Judg.6.1 Midian Oppresses Israel|Midian Oppresses Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 6:10**<big><big>[[Judg.6.1 Midian Oppresses Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto you, I [am] the LORD your God; fear not the gods of the Amorites, in whose land ye dwell: but ye have not obeyed my voice.
 <small><sub>**BSB:**</sub></small>
 And I said to you: ‘I am the LORD your God. You must not fear the gods of the Amorites, in whose land you dwell.’ But you did not obey Me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמְרָ֣]][[H9012\|ה]] [[H9005\|לָ]][[H9036\|כֶ֗ם]] [[H0589\|אֲנִי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֔ם]] [[H3808\|לֹ֤א]] [[H3372H\|תִֽירְאוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵ֣י]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֖ם]] [[H3427\|יוֹשְׁבִ֣ים]] [[H9003\|בְּ]][[H0776G\|אַרְצָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085H\|שְׁמַעְתֶּ֖ם]] [[H9003\|בְּ]][[H6963A\|קוֹלִֽ]][[H9020\|י]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.9|<< Judges 6:9]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.11|Judges 6:11 >>]]</td></tr></table>
 
@@ -24,7 +85,7 @@ And I said to you: ‘I am the LORD your God. You must not fear the gods of the 
 | in land their  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H0776G\|אַרְצָ֑]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ar.Tza<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you have listened  |**<big>&#8207;[[H8085H\|שְׁמַעְתֶּ֖ם]]&#8207; </big>**| she.ma'.Tem<small><sup>[[HVqp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to voice my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6963A\|קוֹלִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ko.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to voice my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6963A\|קוֹלִֽ]]&#8207;&#8207;[[H9020\|י]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ko.L<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.9|<< Judges 6:9]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.11|Judges 6:11 >>]]</td></tr></table>
 
 

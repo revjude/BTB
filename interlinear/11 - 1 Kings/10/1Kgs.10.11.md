@@ -1,8 +1,73 @@
+---
+title: 1 Kings 10:11
+type: Verse
+kjv: "And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones."
+bsb: "(The fleet of Hiram that brought gold from Ophir also brought from Ophir a great cargo of almug wood and precious stones."
+hebrew: "וְגַם֙ אֳנִ֣י חִירָ֔ם אֲשֶׁר־ נָשָׂ֥א זָהָ֖ב מֵאוֹפִ֑יר הֵבִ֨יא מֵאֹפִ֜יר עֲצֵ֧י אַלְמֻגִּ֛ים הַרְבֵּ֥ה מְאֹ֖ד וְאֶ֥בֶן יְקָרָֽה׃"
+pericope: "[[1Kgs.10.1 The Queen of Sheba|The Queen of Sheba]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ALGUM|ALGUM]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic EXPORTS|EXPORTS]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic NAVY|NAVY]]"
+- "[[topic OPHIR|OPHIR]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TYRE|TYRE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H0590]]"
+- "[[H2438G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5375H]]"
+- "[[H2091]]"
+- "[[H9006]]"
+- "[[H0211H]]"
+- "[[H0935P]]"
+- "[[H6086G]]"
+- "[[H0484]]"
+- "[[H7235A]]"
+- "[[H3966]]"
+- "[[H0068G]]"
+- "[[H3368]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:11**<big><big>[[1Kgs.10.1 The Queen of Sheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones.
 <small><sub>**BSB:**</sub></small>
 (The fleet of Hiram that brought gold from Ophir also brought from Ophir a great cargo of almug wood and precious stones.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם֙]] [[H0590\|אֳנִ֣י]] [[H2438G\|חִירָ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5375H\|נָשָׂ֥א]] [[H2091\|זָהָ֖ב]] [[H9006\|מֵ]][[H0211H\|אוֹפִ֑יר]] [[H0935P\|הֵבִ֨יא]] [[H9006\|מֵ]][[H0211H\|אֹפִ֜יר]] [[H6086G\|עֲצֵ֧י]] [[H0484\|אַלְמֻגִּ֛ים]] [[H7235A\|הַרְבֵּ֥ה]] [[H3966\|מְאֹ֖ד]] [[H9002\|וְ]][[H0068G\|אֶ֥בֶן]] [[H3368\|יְקָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALGUM|ALGUM]] • [[topic COMMERCE|COMMERCE]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic EXPORTS|EXPORTS]] • [[topic GOLD|GOLD]] • [[topic HIRAM|HIRAM]] • [[topic NAVY|NAVY]] • [[topic OPHIR|OPHIR]] • [[topic QUEEN|QUEEN]] • [[topic SHIP|SHIP]] • [[topic SOLOMON|SOLOMON]] • [[topic STONES|STONES]] • [[topic TYRE|TYRE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.10|<< 1 Kings 10:10]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.12|1 Kings 10:12 >>]]</td></tr></table>
 

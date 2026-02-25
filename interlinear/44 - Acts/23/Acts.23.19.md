@@ -1,10 +1,59 @@
+---
+title: Acts 23:19
+type: Verse
+kjv: "Then the chief captain took him by the hand, and went with him aside privately, and asked him, What is that thou hast to tell me?"
+bsb: "The commander took the young man by the hand, drew him aside, and asked, “What do you need to tell me?”"
+greek: "ἐπιλαβόμενος δὲ τῆς χειρὸς αὐτοῦ ὁ χιλίαρχος καὶ ἀναχωρήσας κατ᾽ ἰδίαν ἐπυνθάνετο· τί ἐστιν ὃ ἔχεις ἀπαγγεῖλαί μοι;"
+pericope: "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1949]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G0846]]"
+- "[[G5506]]"
+- "[[G2532]]"
+- "[[G0402]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G4441]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G0518]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Acts 23:19**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the chief captain took him by the hand, and went [with him] aside privately, and asked [him], What is that thou hast to tell me?
 <small><sub>**BSB:**</sub></small>
 The commander took the young man by the hand, drew him aside, and asked, “What do you need to tell me?”
-<small><sub>**Literal:**</sub></small>
-Having taken hold then of the hand of him the commander and having withdrawn in private he was inquiring: What is it that you have to report to me?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.18|<< Acts 23:18]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.20|Acts 23:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1949\|ἐπιλαβόμενος]]  [[G1161\|δὲ]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτοῦ]]  [[G3588\|ὁ]]  [[G5506\|χιλίαρχος]]  [[G2532\|καὶ]]  [[G0402\|ἀναχωρήσας]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G4441\|ἐπυνθάνετο·]]  [[G5101\|τί]]  [[G1510\|ἐστιν]]  [[G3739\|ὃ]]  [[G2192\|ἔχεις]]  [[G0518\|ἀπαγγεῖλαί]]  [[G3165\|μοι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.18|<< Acts 23:18]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.20|Acts 23:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

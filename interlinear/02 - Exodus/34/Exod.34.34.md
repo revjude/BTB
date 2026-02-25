@@ -1,8 +1,76 @@
+---
+title: Exodus 34:34
+type: Verse
+kjv: "But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded."
+bsb: "But whenever Moses went in before the LORD to speak with Him, he would remove the veil until he came out. And when he came out, he would tell the Israelites what he had been commanded,"
+hebrew: "וּבְבֹ֨א מֹשֶׁ֜ה לִפְנֵ֤י יְהוָה֙ לְדַבֵּ֣ר אִתּ֔וֹ יָסִ֥יר אֶת־ הַמַּסְוֶ֖ה עַד־ צֵאת֑וֹ וְיָצָ֗א וְדִבֶּר֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל אֵ֖ת אֲשֶׁ֥ר יְצֻוֶּֽה׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic FACE|FACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4533]]"
+- "[[H5704]]"
+- "[[H3318G]]"
+- "[[H9043]]"
+- "[[H9001]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:34**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel [that] which he was commanded.
 <small><sub>**BSB:**</sub></small>
 But whenever Moses went in before the LORD to speak with Him, he would remove the veil until he came out. And when he came out, he would tell the Israelites what he had been commanded,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H0935G\|בֹ֨א]] [[H4872\|מֹשֶׁ֜ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H1696G\|דַבֵּ֣ר]] [[H0854\|אִתּ֔]][[H9033\|וֹ]] [[H5493G\|יָסִ֥יר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4533\|מַּסְוֶ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H3318G\|צֵאת֑]][[H9043\|וֹ]] [[H9001\|וְ]][[H3318G\|יָצָ֗א]] [[H9001\|וְ]][[H1696G\|דִבֶּר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֵ֖ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|יְצֻוֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic FACE|FACE]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic REVERENCE|REVERENCE]] • [[topic TRANSFIGURATION|TRANSFIGURATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.33|<< Exodus 34:33]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.35|Exodus 34:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

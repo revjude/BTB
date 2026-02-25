@@ -1,10 +1,58 @@
+---
+title: 2 Corinthians 2:16
+type: Verse
+kjv: "To the one we are the savour of death unto death; and to the other the savour of life unto life. And who is sufficient for these things?"
+bsb: "To the one we are an odor that brings death, to the other a fragrance that brings life. And who is qualified for such a task?"
+greek: "οἷς μὲν ὀσμὴ ἐκ θανάτου εἰς θάνατον, οἷς δὲ ὀσμὴ ἐκ ζωῆς εἰς ζωήν. καὶ πρὸς ταῦτα τίς ἱκανός;"
+pericope: "[[2Cor.2.12 Triumph in Christ|Triumph in Christ]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 2
+book/chapter: "[[2Cor.2|2 Corinthians 2]]"
+chronological_order: 1075
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G3303]]"
+- "[[G3744]]"
+- "[[G1537]]"
+- "[[G2288]]"
+- "[[G1519]]"
+- "[[G1161]]"
+- "[[G2222]]"
+- "[[G2532]]"
+- "[[G4314]]"
+- "[[G3778]]"
+- "[[G5101]]"
+- "[[G2425]]"
+texts:
+- NKO
+- no
+---
+
 **2 Corinthians 2:16**<big><big>[[2Cor.2.12 Triumph in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To the one [we are] the savour of death unto death; and to the other the savour of life unto life. And who [is] sufficient for these things?
 <small><sub>**BSB:**</sub></small>
 To the one we are an odor that brings death, to the other a fragrance that brings life. And who is qualified for such a task?
-<small><sub>**Literal:**</sub></small>
-to one indeed an odor from death to death, to one however a fragrance from life to life. And for these things who [is] sufficient?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.15|<< 2 Corinthians 2:15]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.17|2 Corinthians 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οἷς]]  [[G3303\|μὲν]]  [[G3744\|ὀσμὴ]]  [[G1537\|ἐκ]]  [[G2288\|θανάτου]]  [[G1519\|εἰς]]  [[G2288\|θάνατον,]]  [[G3739\|οἷς]]  [[G1161\|δὲ]]  [[G3744\|ὀσμὴ]]  [[G1537\|ἐκ]]  [[G2222\|ζωῆς]]  [[G1519\|εἰς]]  [[G2222\|ζωήν.]]  [[G2532\|καὶ]]  [[G4314\|πρὸς]]  [[G3778\|ταῦτα]]  [[G5101\|τίς]]  [[G2425\|ἱκανός;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENT|JUDGMENT]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.15|<< 2 Corinthians 2:15]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.17|2 Corinthians 2:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

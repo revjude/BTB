@@ -1,8 +1,72 @@
+---
+title: Isaiah 66:12
+type: Verse
+kjv: "For thus saith the LORD, Behold, I will extend peace to her like a river, and the glory of the Gentiles like a flowing stream: then shall ye suck, ye shall be borne upon her sides, and be dandled upon her knees."
+bsb: "For this is what the LORD says: “I will extend peace to her like a river, and the wealth of nations like a flowing stream; you will nurse and be carried on her arm, and bounced upon her knees."
+hebrew: "כִּֽי־ כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה הִנְנִ֣י נֹטֶֽה־ אֵ֠לֶיהָ כְּנָהָ֨ר שָׁל֜וֹם וּכְנַ֧חַל שׁוֹטֵ֛ף כְּב֥וֹד גּוֹיִ֖ם וִֽינַקְתֶּ֑ם עַל־ צַד֙ תִּנָּשֵׂ֔אוּ וְעַל־ בִּרְכַּ֖יִם תְּשָׁעֳשָֽׁעוּ׃"
+pericope: "[[Isa.66.7 Rejoice with Jerusalem|Rejoice with Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5186]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H5104H]]"
+- "[[H7965G]]"
+- "[[H9002]]"
+- "[[H5158A]]"
+- "[[H7857]]"
+- "[[H3519]]"
+- "[[H1471A]]"
+- "[[H9001]]"
+- "[[H3243]]"
+- "[[H5921A]]"
+- "[[H6654]]"
+- "[[H5375H]]"
+- "[[H1290]]"
+- "[[H8173B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 66:12**<big><big>[[Isa.66.7 Rejoice with Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD, Behold, I will extend peace to her like a river, and the glory of the Gentiles like a flowing stream: then shall ye suck, ye shall be borne upon [her] sides, and be dandled upon [her] knees.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “I will extend peace to her like a river, and the wealth of nations like a flowing stream; you will nurse and be carried on her arm, and bounced upon her knees.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3541\|כֹ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H5186\|נֹטֶֽה]][[H9014\|־]] [[H0413\|אֵ֠לֶי]][[H9034\|הָ]] [[H9004\|כְּ]][[H5104H\|נָהָ֨ר]] [[H7965G\|שָׁל֜וֹם]] [[H9002\|וּ]][[H9004\|כְ]][[H5158A\|נַ֧חַל]] [[H7857\|שׁוֹטֵ֛ף]] [[H3519\|כְּב֥וֹד]] [[H1471A\|גּוֹיִ֖ם]] [[H9001\|וִֽ]][[H3243\|ינַקְתֶּ֑ם]] [[H5921A\|עַל]][[H9014\|־]] [[H6654\|צַד֙]] [[H5375H\|תִּנָּשֵׂ֔אוּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H1290\|בִּרְכַּ֖יִם]] [[H8173B\|תְּשָׁעֳשָֽׁעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.11|<< Isaiah 66:11]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.13|Isaiah 66:13 >>]]</td></tr></table>
 

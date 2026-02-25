@@ -1,8 +1,64 @@
+---
+title: Genesis 47:12
+type: Verse
+kjv: "And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to their families."
+bsb: "Joseph also provided his father and brothers and all his father’s household with food for their families."
+hebrew: "וַיְכַלְכֵּ֤ל יוֹסֵף֙ אֶת־ אָבִ֣יו וְאֶת־ אֶחָ֔יו וְאֵ֖ת כָּל־ בֵּ֣ית אָבִ֑יו לֶ֖חֶם לְפִ֥י הַטָּֽף׃"
+pericope: "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic NEPOTISM|NEPOTISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3557]]"
+- "[[H3130G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H3899G]]"
+- "[[H9005]]"
+- "[[H6310K]]"
+- "[[H9009]]"
+- "[[H2945]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:12**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph nourished his father, and his brethren, and all his father’s household, with bread, according to [their] families.
 <small><sub>**BSB:**</sub></small>
 Joseph also provided his father and brothers and all his father’s household with food for their families.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3557\|יְכַלְכֵּ֤ל]] [[H3130G\|יוֹסֵף֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H3899G\|לֶ֖חֶם]] [[H9005\|לְ]][[H6310K\|פִ֥י]] [[H9009\|הַ]][[H2945\|טָּֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic NEPOTISM|NEPOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.11|<< Genesis 47:11]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.13|Genesis 47:13 >>]]</td></tr></table>
 

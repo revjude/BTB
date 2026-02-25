@@ -1,8 +1,57 @@
+---
+title: 1 Kings 1:50
+type: Verse
+kjv: "And Adonijah feared because of Solomon, and arose, and went, and caught hold on the horns of the altar."
+bsb: "But Adonijah, in fear of Solomon, got up and went to take hold of the horns of the altar."
+hebrew: "וַאֲדֹ֣נִיָּ֔הוּ יָרֵ֖א מִפְּנֵ֣י שְׁלֹמֹ֑ה וַיָּ֣קָם וַיֵּ֔לֶךְ וַֽיַּחֲזֵ֖ק בְּקַרְנ֥וֹת הַמִּזְבֵּֽחַ׃"
+pericope: "[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|Adonijah Learns of Solomon’s Kingship]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0138G]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H8010]]"
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H2388H]]"
+- "[[H9003]]"
+- "[[H7161A]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:50**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adonijah feared because of Solomon, and arose, and went, and caught hold on the horns of the altar.
 <small><sub>**BSB:**</sub></small>
 But Adonijah, in fear of Solomon, got up and went to take hold of the horns of the altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0138G\|אֲדֹ֣נִיָּ֔הוּ]] [[H3372G\|יָרֵ֖א]] [[H9006\|מִ]][[H6440L\|פְּנֵ֣י]] [[H8010\|שְׁלֹמֹ֑ה]] [[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H9001\|וַ]][[H1980G\|יֵּ֔לֶךְ]] [[H9001\|וַֽ]][[H2388H\|יַּחֲזֵ֖ק]] [[H9003\|בְּ]][[H7161A\|קַרְנ֥וֹת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.49|<< 1 Kings 1:49]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.51|1 Kings 1:51 >>]]</td></tr></table>
 

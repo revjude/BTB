@@ -1,10 +1,58 @@
+---
+title: 1 Timothy 3:4
+type: Verse
+kjv: "One that ruleth well his own house, having his children in subjection with all gravity;"
+bsb: "An overseer must manage his own household well and keep his children under control, with complete dignity."
+greek: "τοῦ ἰδίου οἴκου καλῶς προϊστάμενον, τέκνα ἔχοντα ἐν ὑποταγῇ μετὰ πάσης σεμνότητος.¶"
+pericope: "[[1Tim.3.1 Qualifications for Overseers|Qualifications for Overseers]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BISHOP|BISHOP]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G3624H]]"
+- "[[G2573]]"
+- "[[G4291]]"
+- "[[G5043]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G5292]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G4587]]"
+texts:
+- NKO
+---
+
 **1 Timothy 3:4**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 One that ruleth well his own house, having his children in subjection with all gravity;
 <small><sub>**BSB:**</sub></small>
 An overseer must manage his own household well and keep his children under control, with complete dignity.
-<small><sub>**Literal:**</sub></small>
-<the> [his] own house well managing, children having in submission with all dignity —.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.3|<< 1 Timothy 3:3]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.5|1 Timothy 3:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G2398\|ἰδίου]]  [[G3624H\|οἴκου]]  [[G2573\|καλῶς]]  [[G4291\|προϊστάμενον,]]  [[G5043\|τέκνα]]  [[G2192\|ἔχοντα]]  [[G1722\|ἐν]]  [[G5292\|ὑποταγῇ]]  [[G3326\|μετὰ]]  [[G3956\|πάσης]]  [[G4587\|σεμνότητος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BISHOP|BISHOP]] • [[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FAMILY|FAMILY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARENTS|PARENTS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.3|<< 1 Timothy 3:3]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.5|1 Timothy 3:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

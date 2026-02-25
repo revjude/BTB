@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 8:8
+type: Verse
+kjv: "But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse."
+bsb: "But food does not bring us closer to God: We are no worse if we do not eat, and no better if we do."
+greek: "βρῶμα δὲ ἡμᾶς οὐ παραστήσει τῷ θεῷ· οὔτε γὰρ ἐὰν μὴ φάγωμεν ὑστερούμεθα, οὔτε ἐὰν φάγωμεν περισσεύομεν.¶"
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic EXPEDIENCY|EXPEDIENCY]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G1033]]"
+- "[[G1161]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G3936]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3777]]"
+- "[[G1063]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G5315]]"
+- "[[G5302]]"
+- "[[G4052]]"
+texts:
+- NKO
+- N(k)O
+- ko
+- NK(o)
+---
+
 **1 Corinthians 8:8**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But meat commendeth us not to God: for neither, if we eat, are we the better; neither, if we eat not, are we the worse.
 <small><sub>**BSB:**</sub></small>
 But food does not bring us closer to God: We are no worse if we do not eat, and no better if we do.
-<small><sub>**Literal:**</sub></small>
-Food however us not will commend <the> to God; neither for if not we shall eat [still] do we come short [then] nor if we shall eat have we an advantage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.7|<< 1 Corinthians 8:7]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.9|1 Corinthians 8:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1033\|βρῶμα]]  [[G1161\|δὲ]]  [[G3165\|ἡμᾶς]]  [[G3756\|οὐ]]  [[G3936\|παραστήσει]]  [[G3588\|τῷ]]  [[G2316\|θεῷ·]]  [[G3777\|οὔτε]]  [[G1063\|γὰρ]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G5315\|φάγωμεν]]  [[G5302\|ὑστερούμεθα,]]  [[G3777\|οὔτε]]  [[G1437\|ἐὰν]]  [[G5315\|φάγωμεν]]  [[G4052\|περισσεύομεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic EXPEDIENCY|EXPEDIENCY]] • [[topic FRATERNITY|FRATERNITY]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PRUDENCE|PRUDENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.7|<< 1 Corinthians 8:7]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.9|1 Corinthians 8:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

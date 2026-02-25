@@ -1,8 +1,76 @@
+---
+title: Daniel 4:33
+type: Verse
+kjv: "The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles’ feathers, and his nails like birds’ claws."
+bsb: "At that moment the sentence against Nebuchadnezzar was fulfilled. He was driven away from mankind. He ate grass like an ox, and his body was drenched with the dew of heaven, until his hair grew like the feathers of an eagle and his nails like the claws of a bird."
+aramaic: "בַּהּ־ שַׁעֲתָ֗א מִלְּתָא֮ סָ֣פַת עַל־ נְבוּכַדְנֶצַּר֒ וּמִן־ אֲנָשָׁ֣א טְרִ֔יד וְעִשְׂבָּ֤א כְתוֹרִין֙ יֵאכֻ֔ל וּמִטַּ֥ל שְׁמַיָּ֖א גִּשְׁמֵ֣הּ יִצְטַבַּ֑ע עַ֣ד דִּ֥י שַׂעְרֵ֛הּ כְּנִשְׁרִ֥ין רְבָ֖ה וְטִפְר֥וֹהִי כְצִפְּרִֽין׃"
+pericope: "[[Dan.4.28 The Second Dream Fulfilled|The Second Dream Fulfilled]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic INSANITY|INSANITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9014]]"
+- "[[H8160]]"
+- "[[H9010]]"
+- "[[H4406]]"
+- "[[H5487]]"
+- "[[H5922]]"
+- "[[H5020]]"
+- "[[H9002]]"
+- "[[H4481]]"
+- "[[H0606]]"
+- "[[H2957]]"
+- "[[H6211B]]"
+- "[[H9004]]"
+- "[[H8450]]"
+- "[[H0399]]"
+- "[[H9006]]"
+- "[[H2920]]"
+- "[[H8065]]"
+- "[[H1655]]"
+- "[[H9023]]"
+- "[[H6647]]"
+- "[[H5705]]"
+- "[[H1768]]"
+- "[[H8177]]"
+- "[[H5403]]"
+- "[[H7236]]"
+- "[[H2953]]"
+- "[[H6853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:33**<big><big>[[Dan.4.28 The Second Dream Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles’ [feathers], and his nails like birds’ [claws].
 <small><sub>**BSB:**</sub></small>
 At that moment the sentence against Nebuchadnezzar was fulfilled. He was driven away from mankind. He ate grass like an ox, and his body was drenched with the dew of heaven, until his hair grew like the feathers of an eagle and his nails like the claws of a bird.
+<small><sub>**Aramaic:**</sub></small>
+[[H9003\|בַּ]][[H9034\|הּ]][[H9014\|־]] [[H8160\|שַׁעֲתָ֗]][[H9010\|א]] [[H4406\|מִלְּתָ]][[H9010\|א֮]] [[H5487\|סָ֣פַת]] [[H5922\|עַל]][[H9014\|־]] [[H5020\|נְבוּכַדְנֶצַּר֒]] [[H9002\|וּ]][[H4481\|מִן]][[H9014\|־]] [[H0606\|אֲנָשָׁ֣]][[H9010\|א]] [[H2957\|טְרִ֔יד]] [[H9002\|וְ]][[H6211B\|עִשְׂבָּ֤]][[H9010\|א]] [[H9004\|כְ]][[H8450\|תוֹרִין֙]] [[H0399\|יֵאכֻ֔ל]] [[H9002\|וּ]][[H9006\|מִ]][[H2920\|טַּ֥ל]] [[H8065\|שְׁמַיָּ֖]][[H9010\|א]] [[H1655\|גִּשְׁמֵ֣]][[H9023\|הּ]] [[H6647\|יִצְטַבַּ֑ע]] [[H5705\|עַ֣ד]] [[H1768\|דִּ֥י]] [[H8177\|שַׂעְרֵ֛]][[H9023\|הּ]] [[H9004\|כְּ]][[H5403\|נִשְׁרִ֥ין]] [[H7236\|רְבָ֖ה]] [[H9002\|וְ]][[H2953\|טִפְר֥וֹ]][[H9023\|הִי]] [[H9004\|כְ]][[H6853\|צִפְּרִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVERTS|CONVERTS]] • [[topic INSANITY|INSANITY]] • [[topic PRIDE|PRIDE]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.32|<< Daniel 4:32]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.34|Daniel 4:34 >>]]</td></tr></table>
 

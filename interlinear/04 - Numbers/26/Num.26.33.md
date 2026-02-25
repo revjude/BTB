@@ -1,8 +1,70 @@
+---
+title: Numbers 26:33
+type: Verse
+kjv: "And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad were Mahlah, and Noah, Hoglah, Milcah, and Tirzah."
+bsb: "Now Zelophehad son of Hepher had no sons but only daughters. The names of his daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah."
+hebrew: "וּצְלָפְחָ֣ד בֶּן־ חֵ֗פֶר לֹא־ הָ֥יוּ ל֛וֹ בָּנִ֖ים כִּ֣י אִם־ בָּנ֑וֹת וְשֵׁם֙ בְּנ֣וֹת צְלָפְחָ֔ד מַחְלָ֣ה וְנֹעָ֔ה חָגְלָ֥ה מִלְכָּ֖ה וְתִרְצָֽה׃"
+pericope: "[[Num.26.28 The Tribe of Manasseh|The Tribe of Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HEPHER|HEPHER]]"
+- "[[topic HOGLAH|HOGLAH]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MAHLAH|MAHLAH]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic TIRZAH|TIRZAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6765]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2660A]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H1323G]]"
+- "[[H8034]]"
+- "[[H4244G]]"
+- "[[H5270]]"
+- "[[H2295]]"
+- "[[H4435H]]"
+- "[[H8656G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:33**<big><big>[[Num.26.28 The Tribe of Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad [were] Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
 <small><sub>**BSB:**</sub></small>
 Now Zelophehad son of Hepher had no sons but only daughters. The names of his daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6765\|צְלָפְחָ֣ד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2660A\|חֵ֗פֶר]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֥יוּ]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H1121A\|בָּנִ֖ים]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H1323G\|בָּנ֑וֹת]] [[H9002\|וְ]][[H8034\|שֵׁם֙]] [[H1323G\|בְּנ֣וֹת]] [[H6765\|צְלָפְחָ֔ד]] [[H4244G\|מַחְלָ֣ה]] [[H9002\|וְ]][[H5270\|נֹעָ֔ה]] [[H2295\|חָגְלָ֥ה]] [[H4435H\|מִלְכָּ֖ה]] [[H9002\|וְ]][[H8656G\|תִרְצָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEPHER|HEPHER]] • [[topic HOGLAH|HOGLAH]] • [[topic JOSEPH|JOSEPH]] • [[topic MAHLAH|MAHLAH]] • [[topic MANASSEH|MANASSEH]] • [[topic MILCAH|MILCAH]] • [[topic NOAH|NOAH]] • [[topic TIRZAH|TIRZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.32|<< Numbers 26:32]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.34|Numbers 26:34 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Malachi 1:14
+type: Verse
+kjv: "But cursed be the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I am a great King, saith the LORD of hosts, and my name is dreadful among the heathen."
+bsb: "“But cursed is the deceiver who has an acceptable male in his flock and vows to give it, but sacrifices a defective animal to the Lord. For I am a great King,” says the LORD of Hosts, “and My name is to be feared among the nations."
+hebrew: "וְאָר֣וּר נוֹכֵ֗ל וְיֵ֤שׁ בְּעֶדְרוֹ֙ זָכָ֔ר וְנֹדֵ֛ר וְזֹבֵ֥חַ מָשְׁחָ֖ת לַֽאדֹנָ֑י כִּי֩ מֶ֨לֶךְ גָּד֜וֹל אָ֗נִי אָמַר֙ יְהוָ֣ה צְבָא֔וֹת וּשְׁמִ֖י נוֹרָ֥א בַגּוֹיִֽם׃"
+pericope: "[[Mal.1.6 The Polluted Offerings|The Polluted Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 1
+book/chapter: "[[Mal.1|Malachi 1]]"
+chronological_order: 926
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0779]]"
+- "[[H5230]]"
+- "[[H3426]]"
+- "[[H9003]]"
+- "[[H5739]]"
+- "[[H9023]]"
+- "[[H2145]]"
+- "[[H5087]]"
+- "[[H2076]]"
+- "[[H7843]]"
+- "[[H9005]]"
+- "[[H0136]]"
+- "[[H3588A]]"
+- "[[H4428G]]"
+- "[[H1419A]]"
+- "[[H0589]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H3372H]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 1:14**<big><big>[[Mal.1.6 The Polluted Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But cursed [be] the deceiver, which hath in his flock a male, and voweth, and sacrificeth unto the Lord a corrupt thing: for I [am] a great King, saith the LORD of hosts, and my name [is] dreadful among the heathen.
 <small><sub>**BSB:**</sub></small>
 “But cursed is the deceiver who has an acceptable male in his flock and vows to give it, but sacrifices a defective animal to the Lord. For I am a great King,” says the LORD of Hosts, “and My name is to be feared among the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0779\|אָר֣וּר]] [[H5230\|נוֹכֵ֗ל]] [[H9002\|וְ]][[H3426\|יֵ֤שׁ]] [[H9003\|בְּ]][[H5739\|עֶדְר]][[H9023\|וֹ֙]] [[H2145\|זָכָ֔ר]] [[H9002\|וְ]][[H5087\|נֹדֵ֛ר]] [[H9002\|וְ]][[H2076\|זֹבֵ֥חַ]] [[H7843\|מָשְׁחָ֖ת]] [[H9005\|לַֽ]][[H0136\|אדֹנָ֑י]] [[H3588A\|כִּי֩]] [[H4428G\|מֶ֨לֶךְ]] [[H1419A\|גָּד֜וֹל]] [[H0589\|אָ֗נִי]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H9002\|וּ]][[H8034\|שְׁמִ֖]][[H9020\|י]] [[H3372H\|נוֹרָ֥א]] [[H9003\|בַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDICATION|DEDICATION]] • [[topic FORMALISM|FORMALISM]] • [[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.1.13|<< Malachi 1:13]]</td><td align="center" style="border:none;">[[Mal.1|Malachi 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.2.1|Malachi 2:1 >>]]</td></tr></table>
 

@@ -1,8 +1,69 @@
+---
+title: Jeremiah 18:6
+type: Verse
+kjv: "O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter’s hand, so are ye in mine hand, O house of Israel."
+bsb: "“O house of Israel, declares the LORD, can I not treat you as this potter treats his clay? Just like clay in the potter’s hand, so are you in My hand, O house of Israel."
+hebrew: "הֲכַיּוֹצֵ֨ר הַזֶּ֜ה לֹא־ אוּכַ֨ל לַעֲשׂ֥וֹת לָכֶ֛ם בֵּ֥ית יִשְׂרָאֵ֖ל נְאֻם־ יְהוָ֑ה הִנֵּ֤ה כַחֹ֙מֶר֙ בְּיַ֣ד הַיּוֹצֵ֔ר כֵּן־ אַתֶּ֥ם בְּיָדִ֖י בֵּ֥ית יִשְׂרָאֵֽל׃ ס"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CLAY|CLAY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9008]]"
+- "[[H9004]]"
+- "[[H3335H]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9036]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H2009]]"
+- "[[H2563A]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H3651C]]"
+- "[[H0859D]]"
+- "[[H9020]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 18:6**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay [is] in the potter’s hand, so [are] ye in mine hand, O house of Israel.
 <small><sub>**BSB:**</sub></small>
 “O house of Israel, declares the LORD, can I not treat you as this potter treats his clay? Just like clay in the potter’s hand, so are you in My hand, O house of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H9004\|כַ]][[H3335H\|יּוֹצֵ֨ר]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|אוּכַ֨ל]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H2009\|הִנֵּ֤ה]] [[H9004\|כַ]][[H2563A\|חֹ֙מֶר֙]] [[H9003\|בְּ]][[H3027G\|יַ֣ד]] [[H9009\|הַ]][[H3335H\|יּוֹצֵ֔ר]] [[H3651C\|כֵּן]][[H9014\|־]] [[H0859D\|אַתֶּ֥ם]] [[H9003\|בְּ]][[H3027G\|יָדִ֖]][[H9020\|י]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAY|CLAY]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.5|<< Jeremiah 18:5]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.7|Jeremiah 18:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -30,7 +91,7 @@ O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, 
 | you  |**<big>&#8207;[[H0859D\|אַתֶּ֥ם]]&#8207; </big>**| 'a.Tem<small><sup>[[HPp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] in hand my  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יָדִ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.D<small><sup>[[HNcbsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O house of  |**<big>&#8207;[[H1004M\|בֵּ֥ית]]&#8207; </big>**| beit<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.5|<< Jeremiah 18:5]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.7|Jeremiah 18:7 >>]]</td></tr></table>
 
 

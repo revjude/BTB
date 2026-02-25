@@ -1,10 +1,62 @@
+---
+title: Matthew 14:25
+type: Verse
+kjv: "And in the fourth watch of the night Jesus went unto them, walking on the sea."
+bsb: "During the fourth watch of the night, Jesus went out to them, walking on the sea."
+greek: "τετάρτῃ δὲ φυλακῇ τῆς νυκτὸς ἦλθεν πρὸς αὐτοὺς ὁ Ἰησοῦς περιπατῶν ἐπὶ τὴν θάλασσαν.¶"
+pericope: "[[Matt.14.22 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic SEA|SEA]]"
+- "[[topic TIME|TIME]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G5067]]"
+- "[[G1161]]"
+- "[[G5438H]]"
+- "[[G3588]]"
+- "[[G3571]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G4043]]"
+- "[[G1909]]"
+- "[[G2281]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Matthew 14:25**<big><big>[[Matt.14.22 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in the fourth watch of the night Jesus went unto them, walking on the sea.
 <small><sub>**BSB:**</sub></small>
 During the fourth watch of the night, Jesus went out to them, walking on the sea.
-<small><sub>**Literal:**</sub></small>
-In [the] fourth now watch of the night he came to them <the> Jesus walking on the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.24|<< Matthew 14:24]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.26|Matthew 14:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5067\|τετάρτῃ]]  [[G1161\|δὲ]]  [[G5438H\|φυλακῇ]]  [[G3588\|τῆς]]  [[G3571\|νυκτὸς]]  [[G2064\|ἦλθεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτοὺς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G4043\|περιπατῶν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic NIGHT|NIGHT]] • [[topic SEA|SEA]] • [[topic TIME|TIME]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.24|<< Matthew 14:24]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.26|Matthew 14:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: 1 Corinthians 1:9
+type: Verse
+kjv: "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord."
+bsb: "God, who has called you into fellowship with His Son Jesus Christ our Lord, is faithful."
+greek: "Πιστὸς ὁ θεός, δι᾽ οὗ ἐκλήθητε εἰς κοινωνίαν τοῦ υἱοῦ αὐτοῦ Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν.¶"
+pericope: "[[1Cor.1.4 Thanksgiving|Thanksgiving]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GAMES|GAMES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G4103]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G2564G]]"
+- "[[G1519]]"
+- "[[G2842]]"
+- "[[G5207]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:9**<big><big>[[1Cor.1.4 Thanksgiving|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 God [is] faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord.
 <small><sub>**BSB:**</sub></small>
 God, who has called you into fellowship with His Son Jesus Christ our Lord, is faithful.
-<small><sub>**Literal:**</sub></small>
-Faithful [is] <the> God, through whom you were called into fellowship with the Son of Him Jesus Christ the Lord of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.8|<< 1 Corinthians 1:8]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.10|1 Corinthians 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4103\|Πιστὸς]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G1223\|δι᾽]]  [[G3739\|οὗ]]  [[G2564G\|ἐκλήθητε]]  [[G1519\|εἰς]]  [[G2842\|κοινωνίαν]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G0846\|αὐτοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GAMES|GAMES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.8|<< 1 Corinthians 1:8]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.10|1 Corinthians 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

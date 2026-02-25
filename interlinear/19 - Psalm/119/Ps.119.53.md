@@ -1,8 +1,53 @@
+---
+title: Psalm 119:53
+type: Verse
+kjv: "Horror hath taken hold upon me because of the wicked that forsake thy law."
+bsb: "Rage has taken hold of me because of the wicked who reject Your law."
+hebrew: "זַלְעָפָ֣ה אֲ֭חָזַתְנִי מֵרְשָׁעִ֑ים עֹ֝זְבֵ֗י תּוֹרָתֶֽךָ׃"
+pericope: "[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|Your Word Is a Lamp to My Feet - ZAIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H2152]]"
+- "[[H0270]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H7563]]"
+- "[[H5800A]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:53**<big><big>[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Horror hath taken hold upon me because of the wicked that forsake thy law.
 <small><sub>**BSB:**</sub></small>
 Rage has taken hold of me because of the wicked who reject Your law.
+<small><sub>**Hebrew:**</sub></small>
+[[H2152\|זַלְעָפָ֣ה]] [[H0270\|אֲ֭חָזַתְ]][[H9030\|נִי]] [[H9006\|מֵ]][[H7563\|רְשָׁעִ֑ים]] [[H5800A\|עֹ֝זְבֵ֗י]] [[H8451\|תּוֹרָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.52|<< Psalms 119:52]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.54|Psalms 119:54 >>]]</td></tr></table>
 

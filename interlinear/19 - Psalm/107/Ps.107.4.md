@@ -1,8 +1,54 @@
+---
+title: Psalm 107:4
+type: Verse
+kjv: "They wandered in the wilderness in a solitary way; they found no city to dwell in."
+bsb: "Some wandered in desert wastelands, finding no path to a city in which to dwell."
+hebrew: "תָּע֣וּ בַ֭מִּדְבָּר בִּישִׁימ֣וֹן דָּ֑רֶךְ עִ֥יר מ֝וֹשָׁ֗ב לֹ֣א מָצָֽאוּ׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8582]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H3452H]]"
+- "[[H1870L]]"
+- "[[H5892B]]"
+- "[[H4186]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 107:4**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They wandered in the wilderness in a solitary way; they found no city to dwell in.
 <small><sub>**BSB:**</sub></small>
 Some wandered in desert wastelands, finding no path to a city in which to dwell.
+<small><sub>**Hebrew:**</sub></small>
+[[H8582\|תָּע֣וּ]] [[H9003\|בַ֭]][[H4057B\|מִּדְבָּר]] [[H9003\|בִּ]][[H3452H\|ישִׁימ֣וֹן]] [[H1870L\|דָּ֑רֶךְ]] [[H5892B\|עִ֥יר]] [[H4186\|מ֝וֹשָׁ֗ב]] [[H3808\|לֹ֣א]] [[H4672\|מָצָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.3|<< Psalms 107:3]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.5|Psalms 107:5 >>]]</td></tr></table>
 

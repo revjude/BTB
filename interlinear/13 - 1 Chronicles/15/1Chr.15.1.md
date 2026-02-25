@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 15:1
+type: Verse
+kjv: "And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent."
+bsb: "David constructed buildings for himself in the City of David, and he prepared a place for the ark of God and pitched a tent for it."
+hebrew: "וַיַּֽעַשׂ־ ל֥וֹ בָתִּ֖ים בְּעִ֣יר דָּוִ֑יד וַיָּ֤כֶן מָקוֹם֙ לַֽאֲר֣וֹן הָֽאֱלֹהִ֔ים וַיֶּט־ ל֖וֹ אֹֽהֶל׃"
+pericope: "[[1Chr.15.1 Preparing to Move the Ark|Preparing to Move the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1004B]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H3559A]]"
+- "[[H4725]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5186]]"
+- "[[H0168G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:1**<big><big>[[1Chr.15.1 Preparing to Move the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [David] made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.
 <small><sub>**BSB:**</sub></small>
 David constructed buildings for himself in the City of David, and he prepared a place for the ark of God and pitched a tent for it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּֽעַשׂ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1004B\|בָתִּ֖ים]] [[H9003\|בְּ]][[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֑יד]] [[H9001\|וַ]][[H3559A\|יָּ֤כֶן]] [[H4725\|מָקוֹם֙]] [[H9005\|לַֽ]][[H0727\|אֲר֣וֹן]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H5186\|יֶּט]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H0168G\|אֹֽהֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TABERNACLE|TABERNACLE]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.17|<< 1 Chronicles 14:17]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.2|1 Chronicles 15:2 >>]]</td></tr></table>
 

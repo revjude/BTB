@@ -1,8 +1,61 @@
+---
+title: Judges 19:28
+type: Verse
+kjv: "And he said unto her, Up, and let us be going. But none answered. Then the man took her up upon an ass, and the man rose up, and gat him unto his place."
+bsb: "“Get up,” he told her. “Let us go.” But there was no response. So the man put her on his donkey and set out for home."
+hebrew: "וַיֹּ֧אמֶר אֵלֶ֛יהָ ק֥וּמִי וְנֵלֵ֖כָה וְאֵ֣ין עֹנֶ֑ה וַיִּקָּחֶ֙הָ֙ עַֽל־ הַחֲמ֔וֹר וַיָּ֣קָם הָאִ֔ישׁ וַיֵּ֖לֶךְ לִמְקֹמֽוֹ׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic RAPE|RAPE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H6965B]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H0369]]"
+- "[[H6030B]]"
+- "[[H3947J]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2543]]"
+- "[[H0376G]]"
+- "[[H9005]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:28**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto her, Up, and let us be going. But none answered. Then the man took her [up] upon an ass, and the man rose up, and gat him unto his place.
 <small><sub>**BSB:**</sub></small>
 “Get up,” he told her. “Let us go.” But there was no response. So the man put her on his donkey and set out for home.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H0413\|אֵלֶ֛י]][[H9034\|הָ]] [[H6965B\|ק֥וּמִי]] [[H9002\|וְ]][[H1980G\|נֵלֵ֖כָה]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H6030B\|עֹנֶ֑ה]] [[H9001\|וַ]][[H3947J\|יִּקָּחֶ֙]][[H9034\|הָ֙]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H2543\|חֲמ֔וֹר]] [[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H9001\|וַ]][[H1980G\|יֵּ֖לֶךְ]] [[H9005\|לִ]][[H4725\|מְקֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic RAPE|RAPE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.27|<< Judges 19:27]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.29|Judges 19:29 >>]]</td></tr></table>
 

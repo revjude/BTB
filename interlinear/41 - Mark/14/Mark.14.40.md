@@ -1,10 +1,59 @@
+---
+title: Mark 14:40
+type: Verse
+kjv: "And when he returned, he found them asleep again, (for their eyes were heavy,) neither wist they what to answer him."
+bsb: "And again Jesus returned and found them sleeping, for their eyes were heavy. And they did not know what to answer Him."
+greek: "καὶ πάλιν ἐλθὼν εὗρεν αὐτοὺς καθεύδοντας· ἦσαν γὰρ αὐτῶν οἱ ὀφθαλμοὶ καταβαρυνόμενοι, καὶ οὐκ ᾔδεισαν τί ἀποκριθῶσιν αὐτῷ."
+pericope: "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2532]]"
+- "[[G3825]]"
+- "[[G2064]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G2518]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G6046]]"
+- "[[G3756]]"
+- "[[G1492I]]"
+- "[[G5101]]"
+- "[[G0611]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 14:40**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he returned, he found them asleep again, (for their eyes were heavy,) neither wist they what to answer him.
 <small><sub>**BSB:**</sub></small>
 And again Jesus returned and found them sleeping, for their eyes were heavy. And they did not know what to answer Him.
-<small><sub>**Literal:**</sub></small>
-And again having come he found them sleeping; Were for of them the eyes being wearied, and not they knew what they may answer to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.39|<< Mark 14:39]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.41|Mark 14:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3825\|πάλιν]]  [[G2064\|ἐλθὼν]]  [[G2147\|εὗρεν]]  [[G0846\|αὐτοὺς]]  [[G2518\|καθεύδοντας·]]  [[G1510\|ἦσαν]]  [[G1063\|γὰρ]]  [[G0846\|αὐτῶν]]  [[G3588\|οἱ]]  [[G3788\|ὀφθαλμοὶ]]  [[G6046\|καταβαρυνόμενοι,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1492I\|ᾔδεισαν]]  [[G5101\|τί]]  [[G0611\|ἀποκριθῶσιν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.39|<< Mark 14:39]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.41|Mark 14:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: Revelation 18:16
+type: Verse
+kjv: "And saying, Alas, alas, that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!"
+bsb: "saying: “Woe, woe to the great city, clothed in fine linen and purple and scarlet, adorned with gold and precious stones and pearls!"
+greek: "καὶ λέγοντες· οὐαὶ οὐαὶ ἡ πόλις ἡ μεγάλη, ἡ περιβεβλημένη βύσσινον καὶ πορφυροῦν καὶ κόκκινον καὶ κεχρυσωμένη ἐν χρυσίῳ καὶ λίθῳ τιμίῳ καὶ μαργαρίτῃ,"
+pericope: "[[Rev.18.9 Lament over Babylon|Lament over Babylon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic PEARL|PEARL]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G3759]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3173]]"
+- "[[G4016]]"
+- "[[G1039]]"
+- "[[G4210]]"
+- "[[G2847]]"
+- "[[G5558]]"
+- "[[G1722]]"
+- "[[G5553]]"
+- "[[G3037]]"
+- "[[G5093]]"
+- "[[G3135]]"
+texts:
+- k
+- NKO
+- N(k)O
+---
+
 **Revelation 18:16**<big><big>[[Rev.18.9 Lament over Babylon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And saying, Alas, alas, that great city, that was clothed in fine linen, and purple, and scarlet, and decked with gold, and precious stones, and pearls!
 <small><sub>**BSB:**</sub></small>
 saying: “Woe, woe to the great city, clothed in fine linen and purple and scarlet, adorned with gold and precious stones and pearls!
-<small><sub>**Literal:**</sub></small>
-and saying: Woe woe you who [are] the city <the> great, which having been clothed with fine linen and purple and scarlet and adorned with gold [things] and with stone precious and with pearl!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.15|<< Revelation 18:15]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.17|Revelation 18:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγοντες·]]  [[G3759\|οὐαὶ]]  [[G3759\|οὐαὶ]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G3588\|ἡ]]  [[G3173\|μεγάλη,]]  [[G3588\|ἡ]]  [[G4016\|περιβεβλημένη]]  [[G1039\|βύσσινον]]  [[G2532\|καὶ]]  [[G4210\|πορφυροῦν]]  [[G2532\|καὶ]]  [[G2847\|κόκκινον]]  [[G2532\|καὶ]]  [[G5558\|κεχρυσωμένη]]  [[G1722\|ἐν]]  [[G5553\|χρυσίῳ]]  [[G2532\|καὶ]]  [[G3037\|λίθῳ]]  [[G5093\|τιμίῳ]]  [[G2532\|καὶ]]  [[G3135\|μαργαρίτῃ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic PEARL|PEARL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.15|<< Revelation 18:15]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.17|Revelation 18:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: Jeremiah 36:13
+type: Verse
+kjv: "Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people."
+bsb: "And Micaiah reported to them all the words he had heard Baruch read from the scroll in the hearing of the people."
+hebrew: "וַיַּגֵּ֤ד לָהֶם֙ מִכָ֔יְהוּ אֵ֥ת כָּל־ הַדְּבָרִ֖ים אֲשֶׁ֣ר שָׁמֵ֑עַ בִּקְרֹ֥א בָר֛וּךְ בַּסֵּ֖פֶר בְּאָזְנֵ֥י הָעָֽם׃"
+pericope: "[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|Jeremiah’s Scroll Read in the Palace]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic MICHAIAH|MICHAIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4321H]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H7121J]]"
+- "[[H1263J]]"
+- "[[H5612A]]"
+- "[[H0241H]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:13**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Michaiah declared unto them all the words that he had heard, when Baruch read the book in the ears of the people.
 <small><sub>**BSB:**</sub></small>
 And Micaiah reported to them all the words he had heard Baruch read from the scroll in the hearing of the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יַּגֵּ֤ד]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H4321H\|מִכָ֔יְהוּ]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H8085G\|שָׁמֵ֑עַ]] [[H9003\|בִּ]][[H7121J\|קְרֹ֥א]] [[H1263J\|בָר֛וּךְ]] [[H9003\|בַּ]][[H5612A\|סֵּ֖פֶר]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]] • [[topic MICHAIAH|MICHAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.12|<< Jeremiah 36:12]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.14|Jeremiah 36:14 >>]]</td></tr></table>
 

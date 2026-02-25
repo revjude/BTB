@@ -1,8 +1,70 @@
+---
+title: Numbers 11:1
+type: Verse
+kjv: "And when the people complained, it displeased the LORD: and the LORD heard it; and his anger was kindled; and the fire of the LORD burnt among them, and consumed them that were in the uttermost parts of the camp."
+bsb: "Soon the people began to complain about their hardship in the hearing of the LORD, and when He heard them, His anger was kindled, and fire from the LORD blazed among them and consumed the outskirts of the camp."
+hebrew: "וַיְהִ֤י הָעָם֙ כְּמִתְאֹ֣נְנִ֔ים רַ֖ע בְּאָזְנֵ֣י יְהוָ֑ה וַיִּשְׁמַ֤ע יְהוָה֙ וַיִּ֣חַר אַפּ֔וֹ וַתִּבְעַר־ בָּם֙ אֵ֣שׁ יְהוָ֔ה וַתֹּ֖אכַל בִּקְצֵ֥ה הַֽמַּחֲנֶֽה׃"
+pericope: "[[Num.11.1 The Complaints of the People|The Complaints of the People]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MURMURING|MURMURING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H0596]]"
+- "[[H7451B]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H3068G]]"
+- "[[H8085G]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H9023]]"
+- "[[H1197A]]"
+- "[[H9014]]"
+- "[[H9038]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H7097A]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:1**<big><big>[[Num.11.1 The Complaints of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [when] the people complained, it displeased the LORD: and the LORD heard [it]; and his anger was kindled; and the fire of the LORD burnt among them, and consumed [them that were] in the uttermost parts of the camp.
 <small><sub>**BSB:**</sub></small>
 Soon the people began to complain about their hardship in the hearing of the LORD, and when He heard them, His anger was kindled, and fire from the LORD blazed among them and consumed the outskirts of the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H9004\|כְּ]][[H0596\|מִתְאֹ֣נְנִ֔ים]] [[H7451B\|רַ֖ע]] [[H9003\|בְּ]][[H0241H\|אָזְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַ֤ע]] [[H3068G\|יְהוָה֙]] [[H9001\|וַ]][[H2734\|יִּ֣חַר]] [[H0639G\|אַפּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H1197A\|תִּבְעַר]][[H9014\|־]] [[H9003\|בָּ]][[H9038\|ם֙]] [[H0784\|אֵ֣שׁ]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H0398\|תֹּ֖אכַל]] [[H9003\|בִּ]][[H7097A\|קְצֵ֥ה]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MIRACLES|MIRACLES]] • [[topic MURMURING|MURMURING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.36|<< Numbers 10:36]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.2|Numbers 11:2 >>]]</td></tr></table>
 

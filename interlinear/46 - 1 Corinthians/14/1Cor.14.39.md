@@ -1,10 +1,51 @@
+---
+title: 1 Corinthians 14:39
+type: Verse
+kjv: "Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues."
+bsb: "So, my brothers, be eager to prophesy, and do not forbid speaking in tongues."
+greek: "Ὥστε, ἀδελφοί μου, ζηλοῦτε τὸ προφητεύειν, καὶ τὸ λαλεῖν μὴ κωλύετε γλώσσαις."
+pericope: "[[1Cor.14.26 Orderly Worship|Orderly Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G5620]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G2206]]"
+- "[[G3588]]"
+- "[[G4395]]"
+- "[[G2532]]"
+- "[[G2980]]"
+- "[[G3361]]"
+- "[[G2967]]"
+- "[[G1100]]"
+texts:
+- NKO
+- no
+---
+
 **1 Corinthians 14:39**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore, brethren, covet to prophesy, and forbid not to speak with tongues.
 <small><sub>**BSB:**</sub></small>
 So, my brothers, be eager to prophesy, and do not forbid speaking in tongues.
-<small><sub>**Literal:**</sub></small>
-So, brothers of mine, do earnestly desire <the> to prophesy, and <the> to speak not do forbid in tongues.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.38|<< 1 Corinthians 14:38]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.40|1 Corinthians 14:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|Ὥστε,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου,]]  [[G2206\|ζηλοῦτε]]  [[G3588\|τὸ]]  [[G4395\|προφητεύειν,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2980\|λαλεῖν]]  [[G3361\|μὴ]]  [[G2967\|κωλύετε]]  [[G1100\|γλώσσαις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.38|<< 1 Corinthians 14:38]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.40|1 Corinthians 14:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

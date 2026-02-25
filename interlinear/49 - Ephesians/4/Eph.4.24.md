@@ -1,10 +1,56 @@
+---
+title: Ephesians 4:24
+type: Verse
+kjv: "And that ye put on the new man, which after God is created in righteousness and true holiness."
+bsb: "and to put on the new self, created to be like God in true righteousness and holiness."
+greek: "καὶ ἐνδύσασθαι τὸν καινὸν ἄνθρωπον τὸν κατὰ θεὸν κτισθέντα ἐν δικαιοσύνῃ καὶ ὁσιότητι τῆς ἀληθείας.¶"
+pericope: "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1746]]"
+- "[[G3588]]"
+- "[[G2537]]"
+- "[[G0444]]"
+- "[[G2596]]"
+- "[[G2316]]"
+- "[[G2936]]"
+- "[[G1722]]"
+- "[[G1343]]"
+- "[[G3742]]"
+- "[[G0225]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:24**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that ye put on the new man, which after God is created in righteousness and true holiness.
 <small><sub>**BSB:**</sub></small>
 and to put on the new self, created to be like God in true righteousness and holiness.
-<small><sub>**Literal:**</sub></small>
-and to have put on the new man <the> according to God having been created in righteousness and holiness <the> of truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.23|<< Ephesians 4:23]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.25|Ephesians 4:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1746\|ἐνδύσασθαι]]  [[G3588\|τὸν]]  [[G2537\|καινὸν]]  [[G0444\|ἄνθρωπον]]  [[G3588\|τὸν]]  [[G2596\|κατὰ]]  [[G2316\|θεὸν]]  [[G2936\|κτισθέντα]]  [[G1722\|ἐν]]  [[G1343\|δικαιοσύνῃ]]  [[G2532\|καὶ]]  [[G3742\|ὁσιότητι]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic IMAGE|IMAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.23|<< Ephesians 4:23]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.25|Ephesians 4:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

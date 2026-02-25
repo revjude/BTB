@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Law Placed in the Ark
+type: Pericope
 pericope: "[[Deut.31.24 The Law Placed in the Ark|The Law Placed in the Ark]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 31
 book/chapter: "[[Deut.31|Deuteronomy 31]]"
-genre:
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 6
 verses:
 - "[[Deut.31.24]]"
 - "[[Deut.31.25]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Deut.31.29]]"
 ---
 
-[[Deut.31|Deuteronomy 31:24 - Deuteronomy 31:29]]
+<small>[[Deut.31|Deuteronomy 31:24-29]]</small>
 *The Law Placed in the Ark*
 
 [[Deut.31.24|24]] And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,

@@ -1,8 +1,54 @@
+---
+title: 2 Chronicles 4:15
+type: Verse
+kjv: "One sea, and twelve oxen under it."
+bsb: "the Sea; the twelve oxen underneath the Sea;"
+hebrew: "אֶת־ הַיָּ֖ם אֶחָ֑ד וְאֶת־ הַבָּקָ֥ר שְׁנֵים־ עָשָׂ֖ר תַּחְתָּֽיו׃"
+pericope: "[[2Chr.4.11 Completion of the Bronze Works|Completion of the Bronze Works]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 4
+book/chapter: "[[2Chr.4|2 Chronicles 4]]"
+chronological_order: 493
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H8478G]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 4:15**<big><big>[[2Chr.4.11 Completion of the Bronze Works|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One sea, and twelve oxen under it.
 <small><sub>**BSB:**</sub></small>
 the Sea; the twelve oxen underneath the Sea;
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H0259\|אֶחָ֑ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1241\|בָּקָ֥ר]] [[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֖ר]] [[H8478G\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.14|<< 2 Chronicles 4:14]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.16|2 Chronicles 4:16 >>]]</td></tr></table>
 

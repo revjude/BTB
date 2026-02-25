@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Altar of Witness
+type: Pericope
 pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 22
 book/chapter: "[[Josh.22|Joshua 22]]"
-genre:
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 26
 verses:
 - "[[Josh.22.9]]"
 - "[[Josh.22.10]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Josh.22.34]]"
 ---
 
-[[Josh.22|Joshua 22:9 - Joshua 22:34]]
+<small>[[Josh.22|Joshua 22:9-34]]</small>
 *The Altar of Witness*
 
 [[Josh.22.9|9]] And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which \[is\] in the land of Canaan, to go unto the country of Gilead, to the land of their possession, whereof they were possessed, according to the word of the LORD by the hand of Moses.

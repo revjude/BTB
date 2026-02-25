@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sacrifices of Dedication
+type: Pericope
 pericope: "[[1Kgs.8.62 Sacrifices of Dedication|Sacrifices of Dedication]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 8
 book/chapter: "[[1Kgs.8|1 Kings 8]]"
-genre:
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 5
 verses:
 - "[[1Kgs.8.62]]"
 - "[[1Kgs.8.63]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Kgs.8.66]]"
 ---
 
-[[1Kgs.8|1 Kings 8:62 - 1 Kings 8:66]]
+<small>[[1Kgs.8|1 Kings 8:62-66]]</small>
 *Sacrifices of Dedication*
 
 [[1Kgs.8.62|62]] And the king, and all Israel with him, offered sacrifice before the LORD.

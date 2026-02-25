@@ -1,8 +1,68 @@
+---
+title: 1 Samuel 28:3
+type: Verse
+kjv: "Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land."
+bsb: "Now by this time Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own city. And Saul had removed the mediums and spiritists from the land."
+hebrew: "וּשְׁמוּאֵ֣ל מֵ֔ת וַיִּסְפְּדוּ־ לוֹ֙ כָּל־ יִשְׂרָאֵ֔ל וַיִּקְבְּרֻ֥הוּ בָרָמָ֖ה וּבְעִיר֑וֹ וְשָׁא֗וּל הֵסִ֛יר הָאֹב֥וֹת וְאֶת־ הַיִּדְּעֹנִ֖ים מֵהָאָֽרֶץ׃"
+pericope: "[[1Sam.28.1 The Philistines Gather against Israel|The Philistines Gather against Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic RAMAH|RAMAH]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9002]]"
+- "[[H8050G]]"
+- "[[H4191]]"
+- "[[H9001]]"
+- "[[H5594]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H6912]]"
+- "[[H9003]]"
+- "[[H7414J]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H7586G]]"
+- "[[H5493G]]"
+- "[[H9009]]"
+- "[[H0178]]"
+- "[[H0853]]"
+- "[[H3049]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:3**<big><big>[[1Sam.28.1 The Philistines Gather against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land.
 <small><sub>**BSB:**</sub></small>
 Now by this time Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own city. And Saul had removed the mediums and spiritists from the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8050G\|שְׁמוּאֵ֣ל]] [[H4191\|מֵ֔ת]] [[H9001\|וַ]][[H5594\|יִּסְפְּדוּ]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H6912\|יִּקְבְּרֻ֥]][[H9033\|הוּ]] [[H9003\|בָ]][[H7414J\|רָמָ֖ה]] [[H9002\|וּ]][[H9003\|בְ]][[H5892B\|עִיר֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H7586G\|שָׁא֗וּל]] [[H5493G\|הֵסִ֛יר]] [[H9009\|הָ]][[H0178\|אֹב֥וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3049\|יִּדְּעֹנִ֖ים]] [[H9006\|מֵ]][[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic RAMAH|RAMAH]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.2|<< 1 Samuel 28:2]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.4|1 Samuel 28:4 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Matthew 20:17
+type: Verse
+kjv: "And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,"
+bsb: "As Jesus was going up to Jerusalem, He took the twelve disciples aside and said,"
+greek: "Καὶ μέλλων δὲ ἀναβαίνων ὁ Ἰησοῦς εἰς Ἱεροσόλυμα παρέλαβεν τοὺς δώδεκα μαθητὰς κατ᾽ ἰδίαν καὶ ἐν τῇ ὁδῷ εἶπεν αὐτοῖς·"
+pericope: "[[Matt.20.17 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DISCIPLE|DISCIPLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3195]]"
+- "[[G1161]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G3880]]"
+- "[[G1427]]"
+- "[[G3101]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G1722]]"
+- "[[G3598]]"
+- "[[G2036]]"
+- "[[G0846]]"
+texts:
+- NKO
+- O
+- NK(o)
+---
+
 **Matthew 20:17**<big><big>[[Matt.20.17 The Third Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus going up to Jerusalem took the twelve disciples apart in the way, and said unto them,
 <small><sub>**BSB:**</sub></small>
 As Jesus was going up to Jerusalem, He took the twelve disciples aside and said,
-<small><sub>**Literal:**</sub></small>
-And soon to be now going up <the> Jesus to Jerusalem He took the twelve disciples aside [on their] own and on the way He said to them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.16|<< Matthew 20:16]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.18|Matthew 20:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3195\|μέλλων]]  [[G1161\|δὲ]]  [[G0305\|ἀναβαίνων]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G3880\|παρέλαβεν]]  [[G3588\|τοὺς]]  [[G1427\|δώδεκα]]  [[G3101\|μαθητὰς]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISCIPLE|DISCIPLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.16|<< Matthew 20:16]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.18|Matthew 20:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

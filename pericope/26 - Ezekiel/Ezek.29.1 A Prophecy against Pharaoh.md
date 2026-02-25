@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Pharaoh
+type: Pericope
 pericope: "[[Ezek.29.1 A Prophecy against Pharaoh|A Prophecy against Pharaoh]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 29
 book/chapter: "[[Ezek.29|Ezekiel 29]]"
-genre:
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.29.1]]"
 - "[[Ezek.29.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.29.7]]"
 ---
 
-[[Ezek.29|Ezekiel 29:1 - Ezekiel 29:7]]
+<small>[[Ezek.29|Ezekiel 29:1-7]]</small>
 *A Prophecy against Pharaoh*
 
 [[Ezek.29.1|1]] In the tenth year, in the tenth \[month\], in the twelfth \[day\] of the month, the word of the LORD came unto me, saying,

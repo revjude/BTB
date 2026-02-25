@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 34:10
+type: Verse
+kjv: "And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,"
+bsb: "Since that time, no prophet has risen in Israel like Moses, whom the LORD knew face to face—"
+hebrew: "וְלֹֽא־ קָ֨ם נָבִ֥יא ע֛וֹד בְּיִשְׂרָאֵ֖ל כְּמֹשֶׁ֑ה אֲשֶׁר֙ יְדָע֣וֹ יְהוָ֔ה פָּנִ֖ים אֶל־ פָּנִֽים׃"
+pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 34
+book/chapter: "[[Deut.34|Deuteronomy 34]]"
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6965B]]"
+- "[[H5030]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H4872]]"
+- "[[H0834A]]"
+- "[[H3045]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H6440H]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 34:10**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,
 <small><sub>**BSB:**</sub></small>
 Since that time, no prophet has risen in Israel like Moses, whom the LORD knew face to face—
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6965B\|קָ֨ם]] [[H5030\|נָבִ֥יא]] [[H5750\|ע֛וֹד]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H9004\|כְּ]][[H4872\|מֹשֶׁ֑ה]] [[H0834A\|אֲשֶׁר֙]] [[H3045\|יְדָע֣]][[H9033\|וֹ]] [[H3068G\|יְהוָ֔ה]] [[H6440H\|פָּנִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H6440H\|פָּנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.9|<< Deuteronomy 34:9]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.11|Deuteronomy 34:11 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The King’s Heart
+type: Pericope
 pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
-verse_count: 31
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 21
 book/chapter: "[[Prov.21|Proverbs 21]]"
-genre:
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 31
 verses:
 - "[[Prov.21.1]]"
 - "[[Prov.21.2]]"
@@ -49,7 +56,7 @@ verses:
 - "[[Prov.21.31]]"
 ---
 
-[[Prov.21|Proverbs 21:1 - Proverbs 21:31]]
+<small>[[Prov.21|Proverbs 21:1-31]]</small>
 *The King’s Heart*
 
 [[Prov.21.1|1]] The king’s heart \[is\] in the hand of the LORD, \[as\] the rivers of water: he turneth it whithersoever he will.

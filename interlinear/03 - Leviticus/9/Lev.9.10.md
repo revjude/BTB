@@ -1,8 +1,67 @@
+---
+title: Leviticus 9:10
+type: Verse
+kjv: "But the fat, and the kidneys, and the caul above the liver of the sin offering, he burnt upon the altar; as the LORD commanded Moses."
+bsb: "On the altar he burned the fat, the kidneys, and the lobe of the liver from the sin offering, as the LORD had commanded Moses."
+hebrew: "וְאֶת־ הַחֵ֨לֶב וְאֶת־ הַכְּלָיֹ֜ת וְאֶת־ הַיֹּתֶ֤רֶת מִן־ הַכָּבֵד֙ מִן־ הַ֣חַטָּ֔את הִקְטִ֖יר הַמִּזְבֵּ֑חָה כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CAUL|CAUL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic KIDNEY|KIDNEY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2459]]"
+- "[[H3629]]"
+- "[[H3508]]"
+- "[[H4480A]]"
+- "[[H3516]]"
+- "[[H2403H]]"
+- "[[H6999A]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:10**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the fat, and the kidneys, and the caul above the liver of the sin offering, he burnt upon the altar; as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 On the altar he burned the fat, the kidneys, and the lobe of the liver from the sin offering, as the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2459\|חֵ֨לֶב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3629\|כְּלָיֹ֜ת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3508\|יֹּתֶ֤רֶת]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3516\|כָּבֵד֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ֣]][[H2403H\|חַטָּ֔את]] [[H6999A\|הִקְטִ֖יר]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חָ]][[H9011\|ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAUL|CAUL]] • [[topic ISRAEL|ISRAEL]] • [[topic KIDNEY|KIDNEY]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.9|<< Leviticus 9:9]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.11|Leviticus 9:11 >>]]</td></tr></table>
 

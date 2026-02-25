@@ -1,8 +1,59 @@
+---
+title: Genesis 36:31
+type: Verse
+kjv: "And these are the kings that reigned in the land of Edom, before there reigned any king over the children of Israel."
+bsb: "These are the kings who reigned in the land of Edom before any king reigned over the Israelites:"
+hebrew: "וְאֵ֙לֶּה֙ הַמְּלָכִ֔ים אֲשֶׁ֥ר מָלְכ֖וּ בְּאֶ֣רֶץ אֱד֑וֹם לִפְנֵ֥י מְלָךְ־ מֶ֖לֶךְ לִבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Gen.36.31 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0834A]]"
+- "[[H4427A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0123G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:31**<big><big>[[Gen.36.31 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are] the kings that reigned in the land of Edom, before there reigned any king over the children of Israel.
 <small><sub>**BSB:**</sub></small>
 These are the kings who reigned in the land of Edom before any king reigned over the Israelites:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H4427A\|מָלְכ֖וּ]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H0123G\|אֱד֑וֹם]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4427A\|מְלָךְ]][[H9014\|־]] [[H4428G\|מֶ֖לֶךְ]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.30|<< Genesis 36:30]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.32|Genesis 36:32 >>]]</td></tr></table>
 

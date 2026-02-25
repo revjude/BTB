@@ -1,8 +1,64 @@
+---
+title: 2 Kings 24:3
+type: Verse
+kjv: "Surely at the commandment of the LORD came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;"
+bsb: "Surely this happened to Judah at the LORD’s command, to remove them from His presence because of the sins of Manasseh and all that he had done,"
+hebrew: "אַ֣ךְ׀ עַל־ פִּ֣י יְהוָ֗ה הָֽיְתָה֙ בִּֽיהוּדָ֔ה לְהָסִ֖יר מֵעַ֣ל פָּנָ֑יו בְּחַטֹּ֣את מְנַשֶּׁ֔ה כְּכֹ֖ל אֲשֶׁ֥ר עָשָֽׂה׃"
+pericope: "[[2Kgs.24.1 Babylon Controls Jehoiakim|Babylon Controls Jehoiakim]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0389]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H2403B]]"
+- "[[H4519H]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 24:3**<big><big>[[2Kgs.24.1 Babylon Controls Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely at the commandment of the LORD came [this] upon Judah, to remove [them] out of his sight, for the sins of Manasseh, according to all that he did;
 <small><sub>**BSB:**</sub></small>
 Surely this happened to Judah at the LORD’s command, to remove them from His presence because of the sins of Manasseh and all that he had done,
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֣ךְ]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֗ה]] [[H1961\|הָֽיְתָה֙]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֔ה]] [[H9005\|לְ]][[H5493G\|הָסִ֖יר]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H6440H\|פָּנָ֑י]][[H9023\|ו]] [[H9003\|בְּ]][[H2403B\|חַטֹּ֣את]] [[H4519H\|מְנַשֶּׁ֔ה]] [[H9004\|כְּ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשָֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.2|<< 2 Kings 24:2]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.4|2 Kings 24:4 >>]]</td></tr></table>
 

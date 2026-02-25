@@ -1,10 +1,59 @@
+---
+title: Mark 1:14
+type: Verse
+kjv: "Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,"
+bsb: "After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God."
+greek: "Καὶ μετὰ δὲ τὸ παραδοθῆναι τὸν Ἰωάννην ἦλθεν ὁ Ἰησοῦς εἰς τὴν Γαλιλαίαν κηρύσσων τὸ εὐαγγέλιον τῆς βασιλείας τοῦ θεοῦ"
+pericope: "[[Mark.1.12 The Temptation and Preaching of Jesus|The Temptation and Preaching of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3860]]"
+- "[[G2491G]]"
+- "[[G2064]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G1056G]]"
+- "[[G2784]]"
+- "[[G2098]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- o
+- NKO
+- K
+---
+
 **Mark 1:14**<big><big>[[Mark.1.12 The Temptation and Preaching of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now after that John was put in prison, Jesus came into Galilee, preaching the gospel of the kingdom of God,
 <small><sub>**BSB:**</sub></small>
 After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God.
-<small><sub>**Literal:**</sub></small>
-and after And the delivering up <the> of John came <the> Jesus into <the> Galilee proclaiming the gospel <the> kingdom <the> of God<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.13|<< Mark 1:13]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.15|Mark 1:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3326\|μετὰ]]  [[G1161\|δὲ]]  [[G3588\|τὸ]]  [[G3860\|παραδοθῆναι]]  [[G3588\|τὸν]]  [[G2491G\|Ἰωάννην]]  [[G2064\|ἦλθεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1056G\|Γαλιλαίαν]]  [[G2784\|κηρύσσων]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PREACHING|PREACHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.13|<< Mark 1:13]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.15|Mark 1:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

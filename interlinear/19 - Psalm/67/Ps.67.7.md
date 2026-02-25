@@ -1,8 +1,56 @@
+---
+title: Psalm 67:7
+type: Verse
+kjv: "God shall bless us; and all the ends of the earth shall fear him."
+bsb: "God blesses us, that all the ends of the earth shall fear Him."
+hebrew: "יְבָרְכֵ֥נוּ אֱלֹהִ֑ים וְיִֽירְא֥וּ אֹ֝ת֗וֹ כָּל־ אַפְסֵי־ אָֽרֶץ׃"
+pericope: "[[Ps.67.1 May God Cause His Face to Shine upon Us|May God Cause His Face to Shine upon Us]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 67
+book/chapter: "[[Ps.67|Psalm 67]]"
+chronological_order: 427
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H1288]]"
+- "[[H9035]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0657A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 67:7**<big><big>[[Ps.67.1 May God Cause His Face to Shine upon Us|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God shall bless us; and all the ends of the earth shall fear him.
 <small><sub>**BSB:**</sub></small>
 God blesses us, that all the ends of the earth shall fear Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|יְבָרְכֵ֥]][[H9035\|נוּ]] [[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H3372H\|יִֽירְא֥וּ]] [[H0853\|אֹ֝ת֗]][[H9033\|וֹ]] [[H3605\|כָּל]][[H9014\|־]] [[H0657A\|אַפְסֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.67.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.67.6|<< Psalms 67:6]]</td><td align="center" style="border:none;">[[Ps.67|Psalms 67]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.0|Psalms 68:0 >>]]</td></tr></table>
 

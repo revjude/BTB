@@ -1,8 +1,62 @@
+---
+title: Genesis 24:56
+type: Verse
+kjv: "And he said unto them, Hinder me not, seeing the LORD hath prospered my way; send me away that I may go to my master."
+bsb: "But he replied, “Do not delay me, since the LORD has made my journey a success. Send me on my way so that I may go to my master.”"
+hebrew: "וַיֹּ֤אמֶר אֲלֵהֶם֙ אַל־ תְּאַחֲר֣וּ אֹתִ֔י וַֽיהוָ֖ה הִצְלִ֣יחַ דַּרְכִּ֑י שַׁלְּח֕וּנִי וְאֵלְכָ֖ה לַֽאדֹנִֽי׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0309]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H6743B]]"
+- "[[H1870L]]"
+- "[[H9020]]"
+- "[[H7971G]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H0113]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:56**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Hinder me not, seeing the LORD hath prospered my way; send me away that I may go to my master.
 <small><sub>**BSB:**</sub></small>
 But he replied, “Do not delay me, since the LORD has made my journey a success. Send me on my way so that I may go to my master.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶם֙]] [[H0408\|אַל]][[H9014\|־]] [[H0309\|תְּאַחֲר֣וּ]] [[H0853\|אֹתִ֔]][[H9030\|י]] [[H9002\|וַֽ]][[H3068G\|יהוָ֖ה]] [[H6743B\|הִצְלִ֣יחַ]] [[H1870L\|דַּרְכִּ֑]][[H9020\|י]] [[H7971G\|שַׁלְּח֕וּ]][[H9030\|נִי]] [[H9002\|וְ]][[H1980G\|אֵלְכָ֖ה]] [[H9005\|לַֽ]][[H0113\|אדֹנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.55|<< Genesis 24:55]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.57|Genesis 24:57 >>]]</td></tr></table>
 

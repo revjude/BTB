@@ -1,8 +1,69 @@
+---
+title: Leviticus 8:25
+type: Verse
+kjv: "And he took the fat, and the rump, and all the fat that was upon the inwards, and the caul above the liver, and the two kidneys, and their fat, and the right shoulder:"
+bsb: "And Moses took the fat—the fat tail, all the fat that was on the entrails, the lobe of the liver, and both kidneys with their fat—as well as the right thigh."
+hebrew: "וַיִּקַּ֞ח אֶת־ הַחֵ֣לֶב וְאֶת־ הָֽאַלְיָ֗ה וְאֶֽת־ כָּל־ הַחֵלֶב֮ אֲשֶׁ֣ר עַל־ הַקֶּרֶב֒ וְאֵת֙ יֹתֶ֣רֶת הַכָּבֵ֔ד וְאֶת־ שְׁתֵּ֥י הַכְּלָיֹ֖ת וְאֶֽת־ חֶלְבְּהֶ֑ן וְאֵ֖ת שׁ֥וֹק הַיָּמִֽין׃"
+pericope: "[[Lev.8.22 The Ram of Ordination|The Ram of Ordination]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CAUL|CAUL]]"
+- "[[topic FAT|FAT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2459]]"
+- "[[H9002]]"
+- "[[H0451]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H7130H]]"
+- "[[H3508]]"
+- "[[H3516]]"
+- "[[H8147]]"
+- "[[H3629]]"
+- "[[H9029]]"
+- "[[H7785]]"
+- "[[H3225G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:25**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took the fat, and the rump, and all the fat that [was] upon the inwards, and the caul [above] the liver, and the two kidneys, and their fat, and the right shoulder:
 <small><sub>**BSB:**</sub></small>
 And Moses took the fat—the fat tail, all the fat that was on the entrails, the lobe of the liver, and both kidneys with their fat—as well as the right thigh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֞ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2459\|חֵ֣לֶב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0451\|אַלְיָ֗ה]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2459\|חֵלֶב֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7130H\|קֶּרֶב֒]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H3508\|יֹתֶ֣רֶת]] [[H9009\|הַ]][[H3516\|כָּבֵ֔ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁתֵּ֥י]] [[H9009\|הַ]][[H3629\|כְּלָיֹ֖ת]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H2459\|חֶלְבְּ]][[H9029\|הֶ֑ן]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H7785\|שׁ֥וֹק]] [[H9009\|הַ]][[H3225G\|יָּמִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAUL|CAUL]] • [[topic FAT|FAT]] • [[topic ISRAEL|ISRAEL]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.24|<< Leviticus 8:24]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.26|Leviticus 8:26 >>]]</td></tr></table>
 

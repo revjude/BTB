@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Mystery of the Gospel
+type: Pericope
 pericope: "[[Eph.3.1 The Mystery of the Gospel|The Mystery of the Gospel]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 3
 book/chapter: "[[Eph.3|Ephesians 3]]"
-genre:
+chronological_order: 1113
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 13
 verses:
 - "[[Eph.3.1]]"
 - "[[Eph.3.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Eph.3.13]]"
 ---
 
-[[Eph.3|Ephesians 3:1 - Ephesians 3:13]]
+<small>[[Eph.3|Ephesians 3:1-13]]</small>
 *The Mystery of the Gospel*
 
 [[Eph.3.1|1]] For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,

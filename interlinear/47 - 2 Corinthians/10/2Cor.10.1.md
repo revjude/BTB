@@ -1,10 +1,67 @@
+---
+title: 2 Corinthians 10:1
+type: Verse
+kjv: "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:"
+bsb: "Now by the mildness and gentleness of Christ, I appeal to you—I, Paul, who am humble when face to face with you, but bold when away."
+greek: "Αὐτὸς δὲ ἐγὼ Παῦλος παρακαλῶ ὑμᾶς διὰ τῆς πραΰτητος καὶ ἐπιεικείας τοῦ Χριστοῦ, ὃς κατὰ πρόσωπον μὲν ταπεινὸς ἐν ὑμῖν, ἀπὼν δὲ θαρρῶ εἰς ὑμᾶς·"
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic GENTLENESS|GENTLENESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G1473]]"
+- "[[G3972G]]"
+- "[[G3870]]"
+- "[[G4771]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4236]]"
+- "[[G2532]]"
+- "[[G1932]]"
+- "[[G5547]]"
+- "[[G3739]]"
+- "[[G2596]]"
+- "[[G4383]]"
+- "[[G3303]]"
+- "[[G5011]]"
+- "[[G1722]]"
+- "[[G0548]]"
+- "[[G2292]]"
+- "[[G1519]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 10:1**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence [am] base among you, but being absent am bold toward you:
 <small><sub>**BSB:**</sub></small>
 Now by the mildness and gentleness of Christ, I appeal to you—I, Paul, who am humble when face to face with you, but bold when away.
-<small><sub>**Literal:**</sub></small>
-Myself now I myself Paul exhort you through the meekness and gentleness <the> of Christ, who as to appearance indeed [am] humble among you, being absent however I am bold toward you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.15|<< 2 Corinthians 9:15]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.2|2 Corinthians 10:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|Αὐτὸς]]  [[G1161\|δὲ]]  [[G1473\|ἐγὼ]]  [[G3972G\|Παῦλος]]  [[G3870\|παρακαλῶ]]  [[G4771\|ὑμᾶς]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4236\|πραΰτητος]]  [[G2532\|καὶ]]  [[G1932\|ἐπιεικείας]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ,]]  [[G3739\|ὃς]]  [[G2596\|κατὰ]]  [[G4383\|πρόσωπον]]  [[G3303\|μὲν]]  [[G5011\|ταπεινὸς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]  [[G0548\|ἀπὼν]]  [[G1161\|δὲ]]  [[G2292\|θαρρῶ]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EXAMPLE|EXAMPLE]] • [[topic GENTLENESS|GENTLENESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.9.15|<< 2 Corinthians 9:15]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.2|2 Corinthians 10:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -7,7 +7,7 @@
 
 - Assists the spies of the Israelites [[Josh.2|Jos 2]]
 
-- Is spared when the Israelites captured Jericho [[Josh.6.17|Jos  6:17]]-[[Josh.6.25|25]]
+- Is spared when the Israelites captured Jericho [[Josh.6.17|Jos  6:17-25]]
 
 - An ancestor of Joseph of Nazareth [[Matt.1.5|Mt 1:5]]
 

@@ -1,10 +1,64 @@
+---
+title: 1 John 3:2
+type: Verse
+kjv: "Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is."
+bsb: "Beloved, we are now children of God, and what we will be has not yet been revealed. We know that when Christ appears, we will be like Him, for we will see Him as He is."
+greek: "Ἀγαπητοί, νῦν τέκνα θεοῦ ἐσμεν, καὶ οὔπω ἐφανερώθη τί ἐσόμεθα· οἴδαμεν δὲ ὅτι ἐὰν φανερωθῇ, ὅμοιοι αὐτῷ ἐσόμεθα, ὅτι ὀψόμεθα αὐτὸν καθώς ἐστιν."
+pericope: "[[1John.3.1 Children of God|Children of God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic IMAGE|IMAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G0027]]"
+- "[[G3568]]"
+- "[[G5043]]"
+- "[[G2316]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3768]]"
+- "[[G5319]]"
+- "[[G5101]]"
+- "[[G6063]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G3664]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3700]]"
+- "[[G2531]]"
+texts:
+- NKO
+- k
+---
+
 **1 John 3:2**<big><big>[[1John.3.1 Children of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beloved, now are we the sons of God, and it doth not yet appear what we shall be: but we know that, when he shall appear, we shall be like him; for we shall see him as he is.
 <small><sub>**BSB:**</sub></small>
 Beloved, we are now children of God, and what we will be has not yet been revealed. We know that when Christ appears, we will be like Him, for we will see Him as He is.
-<small><sub>**Literal:**</sub></small>
-Beloved, now children of God are we, and not yet has been revealed what we will be; We know now that when He shall appear, like Him we will be, for we will behold Him even as He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.1|<< 1 John 3:1]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.3|1 John 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|Ἀγαπητοί,]]  [[G3568\|νῦν]]  [[G5043\|τέκνα]]  [[G2316\|θεοῦ]]  [[G1510\|ἐσμεν,]]  [[G2532\|καὶ]]  [[G3768\|οὔπω]]  [[G5319\|ἐφανερώθη]]  [[G5101\|τί]]  [[G1510\|ἐσόμεθα·]]  [[G6063\|οἴδαμεν]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G1437\|ἐὰν]]  [[G5319\|φανερωθῇ,]]  [[G3664\|ὅμοιοι]]  [[G0846\|αὐτῷ]]  [[G1510\|ἐσόμεθα,]]  [[G3754H\|ὅτι]]  [[G3700\|ὀψόμεθα]]  [[G0846\|αὐτὸν]]  [[G2531\|καθώς]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic ASSURANCE|ASSURANCE]] • [[topic IMAGE|IMAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.1|<< 1 John 3:1]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.3|1 John 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

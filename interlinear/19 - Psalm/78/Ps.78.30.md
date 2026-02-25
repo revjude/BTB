@@ -1,8 +1,59 @@
+---
+title: Psalm 78:30
+type: Verse
+kjv: "They were not estranged from their lust. But while their meat was yet in their mouths,"
+bsb: "Yet before they had filled their desire, with the food still in their mouths,"
+hebrew: "לֹא־ זָר֥וּ מִתַּאֲוָתָ֑ם ע֝֗וֹד אָכְלָ֥ם בְּפִיהֶֽם׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2114A]]"
+- "[[H9006]]"
+- "[[H8378]]"
+- "[[H9028]]"
+- "[[H5750]]"
+- "[[H0400]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:30**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They were not estranged from their lust. But while their meat [was] yet in their mouths,
 <small><sub>**BSB:**</sub></small>
 Yet before they had filled their desire, with the food still in their mouths,
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H2114A\|זָר֥וּ]] [[H9006\|מִ]][[H8378\|תַּאֲוָתָ֑]][[H9028\|ם]] [[H5750\|ע֝֗וֹד]] [[H0400\|אָכְלָ֥]][[H9028\|ם]] [[H9003\|בְּ]][[H6310G\|פִי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic MIRACLES|MIRACLES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.29|<< Psalms 78:29]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.31|Psalms 78:31 >>]]</td></tr></table>
 

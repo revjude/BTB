@@ -1,8 +1,71 @@
+---
+title: Jeremiah 2:20
+type: Verse
+kjv: "For of old time I have broken thy yoke, and burst thy bands; and thou saidst, I will not transgress; when upon every high hill and under every green tree thou wanderest, playing the harlot."
+bsb: "“For long ago you broke your yoke and tore off your chains, saying, ‘I will not serve!’ Indeed, on every high hill and under every green tree you lay down as a prostitute."
+hebrew: "כִּ֣י מֵעוֹלָ֞ם שָׁבַ֣רְתִּי עֻלֵּ֗ךְ נִתַּ֙קְתִּי֙ מוֹסְרֹתַ֔יִךְ וַתֹּאמְרִ֖י לֹ֣א אֶעֱב֑וֹר כִּ֣י עַֽל־ כָּל־ גִּבְעָ֞ה גְּבֹהָ֗ה וְתַ֙חַת֙ כָּל־ עֵ֣ץ רַעֲנָ֔ן אַ֖תְּ צֹעָ֥ה זֹנָֽה׃"
+pericope: "[[Jer.2.14 The Consequence of Israel’s Sin|The Consequence of Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic YOKE|YOKE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H5769J]]"
+- "[[H7665]]"
+- "[[H5923]]"
+- "[[H9022]]"
+- "[[H5423]]"
+- "[[H4147]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H5647H]]"
+- "[[H5674D]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1389I]]"
+- "[[H1364]]"
+- "[[H9002]]"
+- "[[H8478G]]"
+- "[[H6086H]]"
+- "[[H7488B]]"
+- "[[H0859C]]"
+- "[[H6808]]"
+- "[[H2181]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 2:20**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For of old time I have broken thy yoke, [and] burst thy bands; and thou saidst, I will not transgress; when upon every high hill and under every green tree thou wanderest, playing the harlot.
 <small><sub>**BSB:**</sub></small>
 “For long ago you broke your yoke and tore off your chains, saying, ‘I will not serve!’ Indeed, on every high hill and under every green tree you lay down as a prostitute.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9006\|מֵ]][[H5769J\|עוֹלָ֞ם]] [[H7665\|שָׁבַ֣רְתִּי]] [[H5923\|עֻלֵּ֗]][[H9022\|ךְ]] [[H5423\|נִתַּ֙קְתִּי֙]] [[H4147\|מוֹסְרֹתַ֔יִ]][[H9022\|ךְ]] [[H9001\|וַ]][[H0559\|תֹּאמְרִ֖י]] [[H3808\|לֹ֣א]] [[H5674D\|אֶעֱב֑וֹר]] [[H3588A\|כִּ֣י]] [[H5921A\|עַֽל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1389I\|גִּבְעָ֞ה]] [[H1364\|גְּבֹהָ֗ה]] [[H9002\|וְ]][[H8478G\|תַ֙חַת֙]] [[H3605\|כָּל]][[H9014\|־]] [[H6086H\|עֵ֣ץ]] [[H7488B\|רַעֲנָ֔ן]] [[H0859C\|אַ֖תְּ]] [[H6808\|צֹעָ֥ה]] [[H2181\|זֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic YOKE|YOKE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.19|<< Jeremiah 2:19]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.21|Jeremiah 2:21 >>]]</td></tr></table>
 

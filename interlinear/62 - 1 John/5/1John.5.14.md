@@ -1,10 +1,60 @@
+---
+title: 1 John 5:14
+type: Verse
+kjv: "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:"
+bsb: "And this is the confidence that we have before Him: If we ask anything according to His will, He hears us."
+greek: "καὶ αὕτη ἐστὶν ἡ παρρησία ἣν ἔχομεν πρὸς αὐτόν, ὅτι ἐάν τι αἰτώμεθα κατὰ τὸ θέλημα αὐτοῦ ἀκούει ἡμῶν·"
+pericope: "[[1John.5.13 Effective Prayer|Effective Prayer]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 5
+book/chapter: "[[1John.5|1 John 5]]"
+chronological_order: 1165
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3954]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G0154]]"
+- "[[G2596]]"
+- "[[G2307]]"
+- "[[G0191]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **1 John 5:14**<big><big>[[1John.5.13 Effective Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:
 <small><sub>**BSB:**</sub></small>
 And this is the confidence that we have before Him: If we ask anything according to His will, He hears us.
-<small><sub>**Literal:**</sub></small>
-And this is the confidence that we have toward Him, that if anything we shall ask according to the will of Him He hears us;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.13|<< 1 John 5:13]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.15|1 John 5:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G3954\|παρρησία]]  [[G3739\|ἣν]]  [[G2192\|ἔχομεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν,]]  [[G3754G\|ὅτι]]  [[G1437\|ἐάν]]  [[G5100\|τι]]  [[G0154\|αἰτώμεθα]]  [[G2596\|κατὰ]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G0846\|αὐτοῦ]]  [[G0191\|ἀκούει]]  [[G3165\|ἡμῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic FAITH|FAITH]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.5.13|<< 1 John 5:13]]</td><td align="center" style="border:none;">[[1John.5|1 John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.5.15|1 John 5:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

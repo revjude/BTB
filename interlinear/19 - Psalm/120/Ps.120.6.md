@@ -1,8 +1,59 @@
+---
+title: Psalm 120:6
+type: Verse
+kjv: "My soul hath long dwelt with him that hateth peace."
+bsb: "Too long have I dwelt among those who hate peace."
+hebrew: "רַ֭בַּת שָֽׁכְנָה־ לָּ֣הּ נַפְשִׁ֑י עִ֝֗ם שׂוֹנֵ֥א שָׁלֽוֹם׃"
+pericope: "[[Ps.120.1 In My Distress I Cried to the LORD|In My Distress I Cried to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 120
+book/chapter: "[[Ps.120|Psalm 120]]"
+chronological_order: 882
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7227A]]"
+- "[[H7931]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H5973A]]"
+- "[[H8130]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 120:6**<big><big>[[Ps.120.1 In My Distress I Cried to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My soul hath long dwelt with him that hateth peace.
 <small><sub>**BSB:**</sub></small>
 Too long have I dwelt among those who hate peace.
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַ֭בַּת]] [[H7931\|שָֽׁכְנָה]][[H9014\|־]] [[H9005\|לָּ֣]][[H9034\|הּ]] [[H5315I\|נַפְשִׁ֑]][[H9020\|י]] [[H5973A\|עִ֝֗ם]] [[H8130\|שׂוֹנֵ֥א]] [[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic MEEKNESS|MEEKNESS]] • [[topic PEACE|PEACE]] • [[topic SIN|SIN]] • [[topic SPEAKING|SPEAKING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.120.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.120.5|<< Psalms 120:5]]</td><td align="center" style="border:none;">[[Ps.120|Psalms 120]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.120.7|Psalms 120:7 >>]]</td></tr></table>
 

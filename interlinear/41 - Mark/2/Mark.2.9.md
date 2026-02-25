@@ -1,10 +1,60 @@
+---
+title: Mark 2:9
+type: Verse
+kjv: "Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?"
+bsb: "“Which is easier: to say to a paralytic, ‘Your sins are forgiven,’ or to say, ‘Get up, pick up your mat, and walk’?"
+jesus_said: "Whether is it easier to say to the sick of the palsy, Thy sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?"
+greek: "τί ἐστιν εὐκοπώτερον, εἰπεῖν τῷ παραλυτικῷ· ἀφίενταί σου αἱ ἁμαρτίαι, ἢ εἰπεῖν· ἔγειρε καὶ ἆρον τὸν κράβαττόν σου καὶ περιπάτει;¶"
+pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G2123]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3885]]"
+- "[[G0863H]]"
+- "[[G4771]]"
+- "[[G0266]]"
+- "[[G2228]]"
+- "[[G1453]]"
+- "[[G2532]]"
+- "[[G0142]]"
+- "[[G2895]]"
+- "[[G4043]]"
+texts:
+- NKO
+- N(k)O
+- N(k)(o)
+---
+
 **Mark 2:9**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whether is it easier to say to the sick of the palsy, [Thy] sins be forgiven thee; or to say, Arise, and take up thy bed, and walk?
 <small><sub>**BSB:**</sub></small>
 “Which is easier: to say to a paralytic, ‘Your sins are forgiven,’ or to say, ‘Get up, pick up your mat, and walk’?
-<small><sub>**Literal:**</sub></small>
-Which is easier, to say to the paralytic; Are forgiven of you the sins, or to say; do arise and do take up the mat of you and do walk?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.8|<< Mark 2:8]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.10|Mark 2:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G1510\|ἐστιν]]  [[G2123\|εὐκοπώτερον,]]  [[G2036\|εἰπεῖν]]  [[G3588\|τῷ]]  [[G3885\|παραλυτικῷ·]]  [[G0863H\|ἀφίενταί]]  [[G4771\|σου]]  [[G3588\|αἱ]]  [[G0266\|ἁμαρτίαι,]]  [[G2228\|ἢ]]  [[G2036\|εἰπεῖν·]]  [[G1453\|ἔγειρε]]  [[G2532\|καὶ]]  [[G0142\|ἆρον]]  [[G3588\|τὸν]]  [[G2895\|κράβαττόν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G4043\|περιπάτει;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.8|<< Mark 2:8]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.10|Mark 2:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

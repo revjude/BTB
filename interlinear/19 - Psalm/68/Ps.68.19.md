@@ -1,8 +1,60 @@
+---
+title: Psalm 68:19
+type: Verse
+kjv: "Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah."
+bsb: "Blessed be the Lord, who daily bears our burden, the God of our salvation. Selah"
+hebrew: "בָּ֤ר֣וּךְ אֲדֹנָי֮ י֤וֹם׀ י֥וֹם יַֽעֲמָס־ לָ֗נוּ הָ֘אֵ֤ל יְֽשׁוּעָתֵ֬נוּ סֶֽלָה׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H1288]]"
+- "[[H0136]]"
+- "[[H3117J]]"
+- "[[H9015]]"
+- "[[H6006]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H3444]]"
+- "[[H9025]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:19**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the Lord, [who] daily loadeth us [with benefits, even] the God of our salvation. Selah.
 <small><sub>**BSB:**</sub></small>
 Blessed be the Lord, who daily bears our burden, the God of our salvation. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|בָּ֤ר֣וּךְ]] [[H0136\|אֲדֹנָי֮]] [[H3117J\|י֤וֹם]][[H9015\|׀]] [[H3117J\|י֥וֹם]] [[H6006\|יַֽעֲמָס]][[H9014\|־]] [[H9005\|לָ֗]][[H9035\|נוּ]] [[H9009\|הָ֘]][[H0410G\|אֵ֤ל]] [[H3444\|יְֽשׁוּעָתֵ֬]][[H9025\|נוּ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic SALVATION|SALVATION]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.18|<< Psalms 68:18]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.20|Psalms 68:20 >>]]</td></tr></table>
 

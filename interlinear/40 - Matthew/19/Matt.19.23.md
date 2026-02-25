@@ -1,10 +1,60 @@
+---
+title: Matthew 19:23
+type: Verse
+kjv: "Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven."
+bsb: "Then Jesus said to His disciples, “Truly I tell you, it is hard for a rich man to enter the kingdom of heaven."
+jesus_said: "Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven."
+greek: "Ὁ δὲ Ἰησοῦς εἶπεν τοῖς μαθηταῖς αὐτοῦ· ἀμὴν λέγω ὑμῖν ὅτι πλούσιος δυσκόλως εἰσελεύσεται εἰς τὴν βασιλείαν τῶν οὐρανῶν.¶"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G4145]]"
+- "[[G1423]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Matthew 19:23**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 Then Jesus said to His disciples, “Truly I tell you, it is hard for a rich man to enter the kingdom of heaven.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said to the disciples of Him; Amen I say to you that a rich man with difficulty will enter into the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.22|<< Matthew 19:22]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.24|Matthew 19:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ·]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G4145\|πλούσιος]]  [[G1423\|δυσκόλως]]  [[G1525\|εἰσελεύσεται]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.22|<< Matthew 19:22]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.24|Matthew 19:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

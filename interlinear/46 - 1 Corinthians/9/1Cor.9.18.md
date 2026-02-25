@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 9:18
+type: Verse
+kjv: "What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel."
+bsb: "What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it."
+greek: "τίς οὖν μού ἐστιν ὁ μισθός; ἵνα εὐαγγελιζόμενος ἀδάπανον θήσω τὸ εὐαγγέλιον τοῦ Χριστοῦ εἰς τὸ μὴ καταχρήσασθαι τῇ ἐξουσίᾳ μου ἐν τῷ εὐαγγελίῳ.¶"
+pericope: "[[1Cor.9.1 The Rights of an Apostle|The Rights of an Apostle]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic EVIL|EVIL]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G3165]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3408]]"
+- "[[G2443]]"
+- "[[G2097]]"
+- "[[G0077]]"
+- "[[G5087]]"
+- "[[G2098]]"
+- "[[G5547]]"
+- "[[G1519]]"
+- "[[G3361]]"
+- "[[G2710]]"
+- "[[G1849]]"
+- "[[G1722]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **1 Corinthians 9:18**<big><big>[[1Cor.9.1 The Rights of an Apostle|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 What is my reward then? [Verily] that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel.
 <small><sub>**BSB:**</sub></small>
 What then is my reward? That in preaching the gospel I may offer it free of charge, and so not use up my rights in preaching it.
-<small><sub>**Literal:**</sub></small>
-What then of me is the reward? That in evangelising free of charge I may offer the gospel of the Christ so as <the> not to use up the right of me in the gospel.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.17|<< 1 Corinthians 9:17]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.19|1 Corinthians 9:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G3767\|οὖν]]  [[G3165\|μού]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3408\|μισθός;]]  [[G2443\|ἵνα]]  [[G2097\|εὐαγγελιζόμενος]]  [[G0077\|ἀδάπανον]]  [[G5087\|θήσω]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G3361\|μὴ]]  [[G2710\|καταχρήσασθαι]]  [[G3588\|τῇ]]  [[G1849\|ἐξουσίᾳ]]  [[G3165\|μου]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2098\|εὐαγγελίῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL|EVIL]] • [[topic GOSPEL|GOSPEL]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.17|<< 1 Corinthians 9:17]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.19|1 Corinthians 9:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

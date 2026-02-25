@@ -1,10 +1,65 @@
+---
+title: Acts 15:4
+type: Verse
+kjv: "And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them."
+bsb: "On their arrival in Jerusalem, they were welcomed by the church and apostles and elders, to whom they reported all that God had done through them."
+greek: "παραγενόμενοι δὲ εἰς Ἰερουσαλὴμ παρεδέχθησαν ἀπὸ τῆς ἐκκλησίας καὶ τῶν ἀποστόλων καὶ τῶν πρεσβυτέρων, ἀνήγγειλάν τε ὅσα ὁ θεὸς ἐποίησεν μετ᾽ αὐτῶν.¶"
+pericope: "[[Acts.15.1 The Dispute over Circumcision|The Dispute over Circumcision]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G3854]]"
+- "[[G1161]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G3858]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G2532]]"
+- "[[G0652]]"
+- "[[G4245G]]"
+- "[[G0312]]"
+- "[[G5037]]"
+- "[[G3745]]"
+- "[[G2316]]"
+- "[[G4160G]]"
+- "[[G3326]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 15:4**<big><big>[[Acts.15.1 The Dispute over Circumcision|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were come to Jerusalem, they were received of the church, and [of] the apostles and elders, and they declared all things that God had done with them.
 <small><sub>**BSB:**</sub></small>
 On their arrival in Jerusalem, they were welcomed by the church and apostles and elders, to whom they reported all that God had done through them.
-<small><sub>**Literal:**</sub></small>
-Having come then to Jerusalem they were received by the church and the apostles and the elders, They declared then how much <the> God did with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.3|<< Acts 15:3]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.5|Acts 15:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3854\|παραγενόμενοι]]  [[G1161\|δὲ]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G3858\|παρεδέχθησαν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0652\|ἀποστόλων]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων,]]  [[G0312\|ἀνήγγειλάν]]  [[G5037\|τε]]  [[G3745\|ὅσα]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4160G\|ἐποίησεν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic COUNCIL|COUNCIL]] • [[topic ELDER|ELDER]] • [[topic LAW|LAW]] • [[topic PAUL|PAUL]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.3|<< Acts 15:3]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.5|Acts 15:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

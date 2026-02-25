@@ -1,8 +1,63 @@
+---
+title: Ezekiel 16:16
+type: Verse
+kjv: "And of thy garments thou didst take, and deckedst thy high places with divers colours, and playedst the harlot thereupon: the like things shall not come, neither shall it be so."
+bsb: "You took some of your garments and made colorful high places for yourself, and on them you prostituted yourself. Such things should not have happened; never should they have occurred!"
+hebrew: "וַתִּקְחִ֣י מִבְּגָדַ֗יִךְ וַתַּֽעֲשִׂי־ לָךְ֙ בָּמ֣וֹת טְלֻא֔וֹת וַתִּזְנִ֖י עֲלֵיהֶ֑ם לֹ֥א בָא֖וֹת וְלֹ֥א יִהְיֶֽה׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H0899B]]"
+- "[[H9022]]"
+- "[[H6213H]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H1116]]"
+- "[[H2921]]"
+- "[[H2181]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:16**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of thy garments thou didst take, and deckedst thy high places with divers colours, and playedst the harlot thereupon: [the like things] shall not come, neither shall it be [so].
 <small><sub>**BSB:**</sub></small>
 You took some of your garments and made colorful high places for yourself, and on them you prostituted yourself. Such things should not have happened; never should they have occurred!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|תִּקְחִ֣י]] [[H9006\|מִ]][[H0899B\|בְּגָדַ֗יִ]][[H9022\|ךְ]] [[H9001\|וַ]][[H6213H\|תַּֽעֲשִׂי]][[H9014\|־]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H1116\|בָּמ֣וֹת]] [[H2921\|טְלֻא֔וֹת]] [[H9001\|וַ]][[H2181\|תִּזְנִ֖י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]] [[H3808\|לֹ֥א]] [[H0935G\|בָא֖וֹת]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.15|<< Ezekiel 16:15]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.17|Ezekiel 16:17 >>]]</td></tr></table>
 

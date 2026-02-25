@@ -1,8 +1,60 @@
+---
+title: Isaiah 43:19
+type: Verse
+kjv: "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert."
+bsb: "Behold, I am about to do something new; even now it is coming. Do you not see it? Indeed, I will make a way in the wilderness and streams in the desert."
+hebrew: "הִנְנִ֨י עֹשֶׂ֤ה חֲדָשָׁה֙ עַתָּ֣ה תִצְמָ֔ח הֲל֖וֹא תֵֽדָע֑וּהָ אַ֣ף אָשִׂ֤ים בַּמִּדְבָּר֙ דֶּ֔רֶךְ בִּֽישִׁמ֖וֹן נְהָרֽוֹת׃"
+pericope: "[[Isa.43.14 A Way in the Wilderness|A Way in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6213A]]"
+- "[[H2319H]]"
+- "[[H6258]]"
+- "[[H6779]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9034]]"
+- "[[H0637]]"
+- "[[H7760A]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H1870K]]"
+- "[[H3452H]]"
+- "[[H5104H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:19**<big><big>[[Isa.43.14 A Way in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, [and] rivers in the desert.
 <small><sub>**BSB:**</sub></small>
 Behold, I am about to do something new; even now it is coming. Do you not see it? Indeed, I will make a way in the wilderness and streams in the desert.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H6213A\|עֹשֶׂ֤ה]] [[H2319H\|חֲדָשָׁה֙]] [[H6258\|עַתָּ֣ה]] [[H6779\|תִצְמָ֔ח]] [[H9008\|הֲ]][[H3808\|ל֖וֹא]] [[H3045\|תֵֽדָע֑וּ]][[H9034\|הָ]] [[H0637\|אַ֣ף]] [[H7760A\|אָשִׂ֤ים]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּר֙]] [[H1870K\|דֶּ֔רֶךְ]] [[H9003\|בִּֽ]][[H3452H\|ישִׁמ֖וֹן]] [[H5104H\|נְהָרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOSPEL|GOSPEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.18|<< Isaiah 43:18]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.20|Isaiah 43:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

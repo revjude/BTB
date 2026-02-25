@@ -1,8 +1,52 @@
+---
+title: Proverbs 18:24
+type: Verse
+kjv: "A man that hath friends must shew himself friendly: and there is a friend that sticketh closer than a brother."
+bsb: "A man of many companions may come to ruin, but there is a friend who stays closer than a brother."
+hebrew: "אִ֣ישׁ רֵ֭עִים לְהִתְרֹעֵ֑עַ וְיֵ֥שׁ אֹ֝הֵ֗ב דָּבֵ֥ק מֵאָֽח׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+strongs:
+- "[[H0376G]]"
+- "[[H7453]]"
+- "[[H9005]]"
+- "[[H7489B]]"
+- "[[H9002]]"
+- "[[H3426]]"
+- "[[H0157H]]"
+- "[[H1695]]"
+- "[[H9006]]"
+- "[[H0251G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:24**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man [that hath] friends must shew himself friendly: and there is a friend [that] sticketh closer than a brother.
 <small><sub>**BSB:**</sub></small>
 A man of many companions may come to ruin, but there is a friend who stays closer than a brother.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִ֣ישׁ]] [[H7453\|רֵ֭עִים]] [[H9005\|לְ]][[H7489B\|הִתְרֹעֵ֑עַ]] [[H9002\|וְ]][[H3426\|יֵ֥שׁ]] [[H0157H\|אֹ֝הֵ֗ב]] [[H1695\|דָּבֵ֥ק]] [[H9006\|מֵ]][[H0251G\|אָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic FRIENDSHIP|FRIENDSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.23|<< Proverbs 18:23]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.1|Proverbs 19:1 >>]]</td></tr></table>
 

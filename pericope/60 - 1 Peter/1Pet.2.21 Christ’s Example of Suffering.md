@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christ’s Example of Suffering
+type: Pericope
 pericope: "[[1Pet.2.21 Christ’s Example of Suffering|Christ’s Example of Suffering]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Peter
 chapter: 2
 book/chapter: "[[1Pet.2|1 Peter 2]]"
-genre:
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
 - epistle
 - general epistle
 - circular letter
 - persecution literature
+verse_count: 5
 verses:
 - "[[1Pet.2.21]]"
 - "[[1Pet.2.22]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Pet.2.25]]"
 ---
 
-[[1Pet.2|1 Peter 2:21 - 1 Peter 2:25]]
+<small>[[1Pet.2|1 Peter 2:21-25]]</small>
 *Christ’s Example of Suffering*
 
 [[1Pet.2.21|21]] For even hereunto were ye called: because Christ also suffered for us, leaving us an example, that ye should follow his steps:

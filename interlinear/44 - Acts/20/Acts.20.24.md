@@ -1,10 +1,79 @@
+---
+title: Acts 20:24
+type: Verse
+kjv: "But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God."
+bsb: "But I consider my life of no value to me, if only I may finish my course and complete the ministry I have received from the Lord Jesus—the ministry of testifying to the good news of God’s grace."
+greek: "ἀλλ᾽ οὐδενὸς λόγου ποιοῦμαι οὐδὲ ἔχω τὴν ψυχὴν μου τιμίαν ἐμαυτῷ, ὡς τελειῶσαι τὸν δρόμον μου μετὰ χαρᾶς καὶ τὴν διακονίαν ἣν ἔλαβον παρὰ τοῦ κυρίου Ἰησοῦ, διαμαρτύρασθαι τὸ εὐαγγέλιον τῆς χάριτος τοῦ θεοῦ."
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G3762]]"
+- "[[G3056]]"
+- "[[G4160I]]"
+- "[[G3761]]"
+- "[[G2192]]"
+- "[[G3588]]"
+- "[[G5590H]]"
+- "[[G3165]]"
+- "[[G5093]]"
+- "[[G1473]]"
+- "[[G5613]]"
+- "[[G5048]]"
+- "[[G1408]]"
+- "[[G3326]]"
+- "[[G5479]]"
+- "[[G2532]]"
+- "[[G1248]]"
+- "[[G3739]]"
+- "[[G2983]]"
+- "[[G3844]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G1263]]"
+- "[[G2098]]"
+- "[[G5485]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(k)O
+- K
+- NK(o)
+---
+
 **Acts 20:24**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.
 <small><sub>**BSB:**</sub></small>
 But I consider my life of no value to me, if only I may finish my course and complete the ministry I have received from the Lord Jesus—the ministry of testifying to the good news of God’s grace.
-<small><sub>**Literal:**</sub></small>
-But not of any account I make nor I have the life of mine dear to myself, so as to finish the course of mine with joy and the ministry that I received from the Lord Jesus, to testify fully the gospel of the grace <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.23|<< Acts 20:23]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.25|Acts 20:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3762\|οὐδενὸς]]  [[G3056\|λόγου]]  [[G4160I\|ποιοῦμαι]]  [[G3761\|οὐδὲ]]  [[G2192\|ἔχω]]  [[G3588\|τὴν]]  [[G5590H\|ψυχὴν]]  [[G3165\|μου]]  [[G5093\|τιμίαν]]  [[G1473\|ἐμαυτῷ,]]  [[G5613\|ὡς]]  [[G5048\|τελειῶσαι]]  [[G3588\|τὸν]]  [[G1408\|δρόμον]]  [[G3165\|μου]]  [[G3326\|μετὰ]]  [[G5479\|χαρᾶς]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1248\|διακονίαν]]  [[G3739\|ἣν]]  [[G2983\|ἔλαβον]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ,]]  [[G1263\|διαμαρτύρασθαι]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τῆς]]  [[G5485\|χάριτος]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COURAGE|COURAGE]] • [[topic EPHESUS|EPHESUS]] • [[topic GOSPEL|GOSPEL]] • [[topic JOY|JOY]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.23|<< Acts 20:23]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.25|Acts 20:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

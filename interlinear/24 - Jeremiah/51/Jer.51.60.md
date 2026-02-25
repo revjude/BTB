@@ -1,8 +1,63 @@
+---
+title: Jeremiah 51:60
+type: Verse
+kjv: "So Jeremiah wrote in a book all the evil that should come upon Babylon, even all these words that are written against Babylon."
+bsb: "Jeremiah had written on a single scroll about all the disaster that would come upon Babylon—all these words that had been written concerning Babylon."
+hebrew: "וַיִּכְתֹּ֣ב יִרְמְיָ֗הוּ אֵ֧ת כָּל־ הָרָעָ֛ה אֲשֶׁר־ תָּב֥וֹא אֶל־ בָּבֶ֖ל אֶל־ סֵ֣פֶר אֶחָ֑ד אֵ֚ת כָּל־ הַדְּבָרִ֣ים הָאֵ֔לֶּה הַכְּתֻבִ֖ים אֶל־ בָּבֶֽל׃"
+pericope: "[[Jer.51.59 Jeremiah’s Message to Seraiah|Jeremiah’s Message to Seraiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3789]]"
+- "[[H3414L]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H0894]]"
+- "[[H5612H]]"
+- "[[H0259]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:60**<big><big>[[Jer.51.59 Jeremiah’s Message to Seraiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jeremiah wrote in a book all the evil that should come upon Babylon, [even] all these words that are written against Babylon.
 <small><sub>**BSB:**</sub></small>
 Jeremiah had written on a single scroll about all the disaster that would come upon Babylon—all these words that had been written concerning Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3789\|יִּכְתֹּ֣ב]] [[H3414L\|יִרְמְיָ֗הוּ]] [[H0853\|אֵ֧ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7451C\|רָעָ֛ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|תָּב֥וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H5612H\|סֵ֣פֶר]] [[H0259\|אֶחָ֑ד]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9009\|הַ]][[H3789\|כְּתֻבִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0894\|בָּבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSIA|PERSIA]] • [[topic PROPHECY|PROPHECY]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.60|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.59|<< Jeremiah 51:59]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.61|Jeremiah 51:61 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 18:4
+type: Verse
+kjv: "The firstfruit also of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him."
+bsb: "You are to give them the firstfruits of your grain, new wine, and oil, and the first wool sheared from your flock."
+hebrew: "רֵאשִׁ֨ית דְּגָֽנְךָ֜ תִּֽירֹשְׁךָ֣ וְיִצְהָרֶ֗ךָ וְרֵאשִׁ֛ית גֵּ֥ז צֹאנְךָ֖ תִּתֶּן־ לּֽוֹ׃"
+pericope: "[[Deut.18.1 Provision for Priests and Levites|Provision for Priests and Levites]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic WOOL|WOOL]]"
+strongs:
+- "[[H7225G]]"
+- "[[H1715]]"
+- "[[H9021]]"
+- "[[H8492]]"
+- "[[H9002]]"
+- "[[H3323]]"
+- "[[H1488]]"
+- "[[H6629G]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:4**<big><big>[[Deut.18.1 Provision for Priests and Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The firstfruit [also] of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.
 <small><sub>**BSB:**</sub></small>
 You are to give them the firstfruits of your grain, new wine, and oil, and the first wool sheared from your flock.
+<small><sub>**Hebrew:**</sub></small>
+[[H7225G\|רֵאשִׁ֨ית]] [[H1715\|דְּגָֽנְ]][[H9021\|ךָ֜]] [[H8492\|תִּֽירֹשְׁ]][[H9021\|ךָ֣]] [[H9002\|וְ]][[H3323\|יִצְהָרֶ֗]][[H9021\|ךָ]] [[H9002\|וְ]][[H7225G\|רֵאשִׁ֛ית]] [[H1488\|גֵּ֥ז]] [[H6629G\|צֹאנְ]][[H9021\|ךָ֖]] [[H5414G\|תִּתֶּן]][[H9014\|־]] [[H9005\|לּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]] • [[topic SHEEP|SHEEP]] • [[topic WOOL|WOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.3|<< Deuteronomy 18:3]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.5|Deuteronomy 18:5 >>]]</td></tr></table>
 

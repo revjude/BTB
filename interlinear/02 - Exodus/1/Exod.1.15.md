@@ -1,8 +1,68 @@
+---
+title: Exodus 1:15
+type: Verse
+kjv: "And the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:"
+bsb: "Then the king of Egypt said to the Hebrew midwives, whose names were Shiphrah and Puah,"
+hebrew: "וַיֹּ֙אמֶר֙ מֶ֣לֶךְ מִצְרַ֔יִם לַֽמְיַלְּדֹ֖ת הָֽעִבְרִיֹּ֑ת אֲשֶׁ֨ר שֵׁ֤ם הָֽאַחַת֙ שִׁפְרָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית פּוּעָֽה׃"
+pericope: "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic INFANTICIDE|INFANTICIDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIDWIFERY|MIDWIFERY]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic PUAH|PUAH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SHIPHRAH|SHIPHRAH]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H3205]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H0834A]]"
+- "[[H8034]]"
+- "[[H0259]]"
+- "[[H8236]]"
+- "[[H9002]]"
+- "[[H8145]]"
+- "[[H6326]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 1:15**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Egypt spake to the Hebrew midwives, of which the name of the one [was] Shiphrah, and the name of the other Puah:
 <small><sub>**BSB:**</sub></small>
 Then the king of Egypt said to the Hebrew midwives, whose names were Shiphrah and Puah,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H4428G\|מֶ֣לֶךְ]] [[H4714G\|מִצְרַ֔יִם]] [[H9005\|לַֽ]][[H3205\|מְיַלְּדֹ֖ת]] [[H9009\|הָֽ]][[H5680\|עִבְרִיֹּ֑ת]] [[H0834A\|אֲשֶׁ֨ר]] [[H8034\|שֵׁ֤ם]] [[H9009\|הָֽ]][[H0259\|אַחַת֙]] [[H8236\|שִׁפְרָ֔ה]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖ית]] [[H6326\|פּוּעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFANTICIDE|INFANTICIDE]] • [[topic ISRAEL|ISRAEL]] • [[topic MIDWIFERY|MIDWIFERY]] • [[topic OPPRESSION|OPPRESSION]] • [[topic PUAH|PUAH]] • [[topic SERVANT|SERVANT]] • [[topic SHIPHRAH|SHIPHRAH]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.14|<< Exodus 1:14]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.16|Exodus 1:16 >>]]</td></tr></table>
 

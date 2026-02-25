@@ -1,8 +1,68 @@
+---
+title: Joel 2:32
+type: Verse
+kjv: "And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call."
+bsb: "And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has promised, among the remnant called by the LORD."
+hebrew: "וְהָיָ֗ה כֹּ֧ל אֲשֶׁר־ יִקְרָ֛א בְּשֵׁ֥ם יְהוָ֖ה יִמָּלֵ֑ט כִּ֠י בְּהַר־ צִיּ֨וֹן וּבִירוּשָׁלִַ֜ם תִּֽהְיֶ֣ה פְלֵיטָ֗ה כַּֽאֲשֶׁר֙ אָמַ֣ר יְהוָ֔ה וּבַ֨שְּׂרִידִ֔ים אֲשֶׁ֥ר יְהוָ֖ה קֹרֵֽא׃"
+pericope: "[[Joel.2.28 I Will Pour Out My Spirit|I Will Pour Out My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H4422]]"
+- "[[H3588A]]"
+- "[[H2022G]]"
+- "[[H6726]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H6413]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0559]]"
+- "[[H8300]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:32**<big><big>[[Joel.2.28 I Will Pour Out My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, [that] whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.
 <small><sub>**BSB:**</sub></small>
 And everyone who calls on the name of the LORD will be saved; for on Mount Zion and in Jerusalem there will be deliverance, as the LORD has promised, among the remnant called by the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H3605\|כֹּ֧ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7121G\|יִקְרָ֛א]] [[H9003\|בְּ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H4422\|יִמָּלֵ֑ט]] [[H3588A\|כִּ֠י]] [[H9003\|בְּ]][[H2022G\|הַר]][[H9014\|־]] [[H6726\|צִיּ֨וֹן]] [[H9002\|וּ]][[H9003\|בִ]][[H3389\|ירוּשָׁלִַ֜ם]] [[H1961\|תִּֽהְיֶ֣ה]] [[H6413\|פְלֵיטָ֗ה]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁר֙]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וּ]][[H9003\|בַ֨]][[H8300\|שְּׂרִידִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H7121G\|קֹרֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.31|<< Joel 2:31]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.1|Joel 3:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

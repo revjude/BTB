@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: From Troas to Miletus
+type: Pericope
 pericope: "[[Acts.20.13 From Troas to Miletus|From Troas to Miletus]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Acts
 chapter: 20
 book/chapter: "[[Acts.20|Acts 20]]"
-genre:
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 4
 verses:
 - "[[Acts.20.13]]"
 - "[[Acts.20.14]]"
@@ -21,7 +28,7 @@ verses:
 - "[[Acts.20.16]]"
 ---
 
-[[Acts.20|Acts 20:13 - Acts 20:16]]
+<small>[[Acts.20|Acts 20:13-16]]</small>
 *From Troas to Miletus*
 
 [[Acts.20.13|13]] And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.

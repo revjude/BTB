@@ -1,8 +1,90 @@
+---
+title: Deuteronomy 31:21
+type: Verse
+kjv: "And it shall come to pass, when many evils and troubles are befallen them, that this song shall testify against them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they go about, even now, before I have brought them into the land which I sware."
+bsb: "And when many troubles and afflictions have come upon them, this song will testify against them, because it will not be forgotten from the lips of their descendants. For I know their inclination, even before I bring them into the land that I swore to give them.”"
+hebrew: "וְ֠הָיָה כִּֽי־ תִמְצֶ֨אןָ אֹת֜וֹ רָע֣וֹת רַבּוֹת֮ וְצָרוֹת֒ וְ֠עָנְתָה הַשִּׁירָ֨ה הַזֹּ֤את לְפָנָיו֙ לְעֵ֔ד כִּ֛י לֹ֥א תִשָּׁכַ֖ח מִפִּ֣י זַרְע֑וֹ כִּ֧י יָדַ֣עְתִּי אֶת־ יִצְר֗וֹ אֲשֶׁ֨ר ה֤וּא עֹשֶׂה֙ הַיּ֔וֹם בְּטֶ֣רֶם אֲבִיאֶ֔נּוּ אֶל־ הָאָ֖רֶץ אֲשֶׁ֥ר נִשְׁבָּֽעְתִּי׃"
+pericope: "[[Deut.31.14 God Commissions Joshua|God Commissions Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SECRET|SECRET]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H7451I]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H6869B]]"
+- "[[H6030B]]"
+- "[[H9009]]"
+- "[[H7892B]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H5707]]"
+- "[[H3808]]"
+- "[[H7911]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H2233H]]"
+- "[[H3045]]"
+- "[[H3336]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H6213A]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H7650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:21**<big><big>[[Deut.31.14 God Commissions Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, when many evils and troubles are befallen them, that this song shall testify against them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they go about, even now, before I have brought them into the land which I sware.
 <small><sub>**BSB:**</sub></small>
 And when many troubles and afflictions have come upon them, this song will testify against them, because it will not be forgotten from the lips of their descendants. For I know their inclination, even before I bring them into the land that I swore to give them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H1961\|הָיָה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4672\|תִמְצֶ֨אןָ]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H7451I\|רָע֣וֹת]] [[H7227A\|רַבּוֹת֮]] [[H9002\|וְ]][[H6869B\|צָרוֹת֒]] [[H9001\|וְ֠]][[H6030B\|עָנְתָה]] [[H9009\|הַ]][[H7892B\|שִּׁירָ֨ה]] [[H9009\|הַ]][[H2063\|זֹּ֤את]] [[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H9005\|לְ]][[H5707\|עֵ֔ד]] [[H3588A\|כִּ֛י]] [[H3808\|לֹ֥א]] [[H7911\|תִשָּׁכַ֖ח]] [[H9006\|מִ]][[H6310G\|פִּ֣י]] [[H2233H\|זַרְע֑]][[H9023\|וֹ]] [[H3588A\|כִּ֧י]] [[H3045\|יָדַ֣עְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H3336\|יִצְר֗]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֨ר]] [[H1931\|ה֤וּא]] [[H6213A\|עֹשֶׂה֙]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9003\|בְּ]][[H2962\|טֶ֣רֶם]] [[H0935P\|אֲבִיאֶ֔]][[H9033\|נּוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7650\|נִשְׁבָּֽעְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SECRET|SECRET]] • [[topic SIN|SIN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.20|<< Deuteronomy 31:20]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.22|Deuteronomy 31:22 >>]]</td></tr></table>
 

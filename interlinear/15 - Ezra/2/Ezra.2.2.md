@@ -1,8 +1,72 @@
+---
+title: Ezra 2:2
+type: Verse
+kjv: "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:"
+bsb: "accompanied by Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. This is the count of the men of Israel:"
+hebrew: "אֲשֶׁר־ בָּ֣אוּ עִם־ זְרֻבָּבֶ֗ל יֵשׁ֡וּעַ נְ֠חֶמְיָה שְׂרָיָ֨ה רְֽעֵלָיָ֜ה מָרְדֳּכַ֥י בִּלְשָׁ֛ן מִסְפָּ֥ר בִּגְוַ֖י רְח֣וּם בַּעֲנָ֑ה מִסְפַּ֕ר אַנְשֵׁ֖י עַ֥ם יִשְׂרָאֵֽל׃ ס"
+pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic BAANAH|BAANAH]]"
+- "[[topic BIGVAI|BIGVAI]]"
+- "[[topic BILSHAN|BILSHAN]]"
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MISPERETH|MISPERETH]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+- "[[topic RAAMIAH|RAAMIAH]]"
+- "[[topic REELAIAH|REELAIAH]]"
+- "[[topic REHUM|REHUM]]"
+- "[[topic SERAIAH|SERAIAH]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5973A]]"
+- "[[H2216]]"
+- "[[H3442P]]"
+- "[[H5166G]]"
+- "[[H8304L]]"
+- "[[H7480]]"
+- "[[H4782G]]"
+- "[[H1114]]"
+- "[[H4558]]"
+- "[[H0902G]]"
+- "[[H7348A]]"
+- "[[H1196I]]"
+- "[[H4557]]"
+- "[[H0582]]"
+- "[[H5971A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 2:2**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:
 <small><sub>**BSB:**</sub></small>
 accompanied by Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. This is the count of the men of Israel:
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣אוּ]] [[H5973A\|עִם]][[H9014\|־]] [[H2216\|זְרֻבָּבֶ֗ל]] [[H3442P\|יֵשׁ֡וּעַ]] [[H5166G\|נְ֠חֶמְיָה]] [[H8304L\|שְׂרָיָ֨ה]] [[H7480\|רְֽעֵלָיָ֜ה]] [[H4782G\|מָרְדֳּכַ֥י]] [[H1114\|בִּלְשָׁ֛ן]] [[H4558\|מִסְפָּ֥ר]] [[H0902G\|בִּגְוַ֖י]] [[H7348A\|רְח֣וּם]] [[H1196I\|בַּעֲנָ֑ה]] [[H4557\|מִסְפַּ֕ר]] [[H0582\|אַנְשֵׁ֖י]] [[H5971A\|עַ֥ם]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZARIAH|AZARIAH]] • [[topic BAANAH|BAANAH]] • [[topic BIGVAI|BIGVAI]] • [[topic BILSHAN|BILSHAN]] • [[topic JESHUA|JESHUA]] • [[topic JOSHUA|JOSHUA]] • [[topic MISPERETH|MISPERETH]] • [[topic NEHEMIAH|NEHEMIAH]] • [[topic RAAMIAH|RAAMIAH]] • [[topic REELAIAH|REELAIAH]] • [[topic REHUM|REHUM]] • [[topic SERAIAH|SERAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.1|<< Ezra 2:1]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.3|Ezra 2:3 >>]]</td></tr></table>
 
@@ -25,7 +89,7 @@ accompanied by Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilsha
 | [the] number of  |**<big>&#8207;[[H4557\|מִסְפַּ֕ר]]&#8207; </big>**| mis.Par<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] men of  |**<big>&#8207;[[H0582\|אַנְשֵׁ֖י]]&#8207; </big>**| 'an.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] people of  |**<big>&#8207;[[H5971A\|עַ֥ם]]&#8207; </big>**| 'am<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.1|<< Ezra 2:1]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.3|Ezra 2:3 >>]]</td></tr></table>
 
 

@@ -1,8 +1,56 @@
+---
+title: Psalm 77:20
+type: Verse
+kjv: "Thou leddest thy people like a flock by the hand of Moses and Aaron."
+bsb: "You led Your people like a flock by the hand of Moses and Aaron."
+hebrew: "נָחִ֣יתָ כַצֹּ֣אן עַמֶּ֑ךָ בְּֽיַד־ מֹשֶׁ֥ה וְאַהֲרֹֽן׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H5148]]"
+- "[[H9004]]"
+- "[[H6629G]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 77:20**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou leddest thy people like a flock by the hand of Moses and Aaron.
 <small><sub>**BSB:**</sub></small>
 You led Your people like a flock by the hand of Moses and Aaron.
+<small><sub>**Hebrew:**</sub></small>
+[[H5148\|נָחִ֣יתָ]] [[H9004\|כַ]][[H6629G\|צֹּ֣אן]] [[H5971A\|עַמֶּ֑]][[H9021\|ךָ]] [[H9003\|בְּֽ]][[H3027G\|יַד]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.19|<< Psalms 77:19]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.0|Psalms 78:0 >>]]</td></tr></table>
 

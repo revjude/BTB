@@ -1,8 +1,67 @@
+---
+title: Isaiah 35:4
+type: Verse
+kjv: "Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and save you."
+bsb: "Say to those with anxious hearts: “Be strong, do not fear! Behold, your God will come with vengeance. With divine retribution He will come to save you.”"
+hebrew: "אִמְרוּ֙ לְנִמְהֲרֵי־ לֵ֔ב חִזְק֖וּ אַל־ תִּירָ֑אוּ הִנֵּ֤ה אֱלֹֽהֵיכֶם֙ נָקָ֣ם יָב֔וֹא גְּמ֣וּל אֱלֹהִ֔ים ה֥וּא יָב֖וֹא וְיֹשַׁעֲכֶֽם׃"
+pericope: "[[Isa.35.1 The Glory of Zion|The Glory of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 35
+book/chapter: "[[Isa.35|Isaiah 35]]"
+chronological_order: 678
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4116A]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H2388G]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H2009]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H5359]]"
+- "[[H0935G]]"
+- "[[H1576]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3467]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 35:4**<big><big>[[Isa.35.1 The Glory of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say to them [that are] of a fearful heart, Be strong, fear not: behold, your God will come [with] vengeance, [even] God [with] a recompence; he will come and save you.
 <small><sub>**BSB:**</sub></small>
 Say to those with anxious hearts: “Be strong, do not fear! Behold, your God will come with vengeance. With divine retribution He will come to save you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אִמְרוּ֙]] [[H9005\|לְ]][[H4116A\|נִמְהֲרֵי]][[H9014\|־]] [[H3820A\|לֵ֔ב]] [[H2388G\|חִזְק֖וּ]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָ֑אוּ]] [[H2009\|הִנֵּ֤ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶם֙]] [[H5359\|נָקָ֣ם]] [[H0935G\|יָב֔וֹא]] [[H1576\|גְּמ֣וּל]] [[H0430G\|אֱלֹהִ֔ים]] [[H1931\|ה֥וּא]] [[H0935G\|יָב֖וֹא]] [[H9002\|וְ]][[H3467\|יֹשַׁעֲ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic FAITH|FAITH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.35.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.35.3|<< Isaiah 35:3]]</td><td align="center" style="border:none;">[[Isa.35|Isaiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.35.5|Isaiah 35:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

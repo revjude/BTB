@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Compassion on Israel
+type: Pericope
 pericope: "[[Mic.7.14 God’s Compassion on Israel|God’s Compassion on Israel]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 7
 book/chapter: "[[Mic.7|Micah 7]]"
-genre:
+chronological_order: 629
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 7
 verses:
 - "[[Mic.7.14]]"
 - "[[Mic.7.15]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mic.7.20]]"
 ---
 
-[[Mic.7|Micah 7:14 - Micah 7:20]]
+<small>[[Mic.7|Micah 7:14-20]]</small>
 *God’s Compassion on Israel*
 
 [[Mic.7.14|14]] Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily \[in\] the wood, in the midst of Carmel: let them feed \[in\] Bashan and Gilead, as in the days of old.

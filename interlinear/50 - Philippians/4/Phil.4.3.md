@@ -1,10 +1,67 @@
+---
+title: Philippians 4:3
+type: Verse
+kjv: "And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life."
+bsb: "Yes, and I ask you, my true yokefellow, to help these women who have contended at my side for the gospel, along with Clement and the rest of my fellow workers, whose names are in the Book of Life."
+greek: "ναὶ ἐρωτῶ καὶ σέ, γνήσιε σύζυγε, συλλαμβάνου αὐταῖς, αἵτινες ἐν τῷ εὐαγγελίῳ συνήθλησάν μοι μετὰ καὶ Κλήμεντος καὶ τῶν λοιπῶν συνεργῶν μου ὧν τὰ ὀνόματα ἐν βίβλῳ ζωῆς.¶"
+pericope: "[[Phil.4.1 Rejoice in the Lord|Rejoice in the Lord]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 4
+book/chapter: "[[Phil.4|Philippians 4]]"
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic BOOK|BOOK]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CLEMENT|CLEMENT]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3483]]"
+- "[[G2065]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1103]]"
+- "[[G4805]]"
+- "[[G4815]]"
+- "[[G0846]]"
+- "[[G3748]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G4866]]"
+- "[[G3165]]"
+- "[[G3326]]"
+- "[[G2815]]"
+- "[[G3062]]"
+- "[[G4904]]"
+- "[[G3739]]"
+- "[[G3686]]"
+- "[[G0976]]"
+- "[[G2222]]"
+texts:
+- N(K)O
+- NKO
+---
+
 **Philippians 4:3**<big><big>[[Phil.4.1 Rejoice in the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and [with] other my fellowlabourers, whose names [are] in the book of life.
 <small><sub>**BSB:**</sub></small>
 Yes, and I ask you, my true yokefellow, to help these women who have contended at my side for the gospel, along with Clement and the rest of my fellow workers, whose names are in the Book of Life.
-<small><sub>**Literal:**</sub></small>
-Yes I ask also you, true yokefellow do yourself help these [women], who in the gospel labored together with me with also Clement and the rest of [the] fellow workers of mine whose <the> names [are] in [the] book of life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.2|<< Philippians 4:2]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.4|Philippians 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3483\|ναὶ]]  [[G2065\|ἐρωτῶ]]  [[G2532\|καὶ]]  [[G4771\|σέ,]]  [[G1103\|γνήσιε]]  [[G4805\|σύζυγε,]]  [[G4815\|συλλαμβάνου]]  [[G0846\|αὐταῖς,]]  [[G3748\|αἵτινες]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2098\|εὐαγγελίῳ]]  [[G4866\|συνήθλησάν]]  [[G3165\|μοι]]  [[G3326\|μετὰ]]  [[G2532\|καὶ]]  [[G2815\|Κλήμεντος]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G3062\|λοιπῶν]]  [[G4904\|συνεργῶν]]  [[G3165\|μου]]  [[G3739\|ὧν]]  [[G3588\|τὰ]]  [[G3686\|ὀνόματα]]  [[G1722\|ἐν]]  [[G0976\|βίβλῳ]]  [[G2222\|ζωῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOOK|BOOK]] • [[topic CHURCH|CHURCH]] • [[topic CLEMENT|CLEMENT]] • [[topic WOMEN|WOMEN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.2|<< Philippians 4:2]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.4|Philippians 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

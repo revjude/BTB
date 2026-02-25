@@ -1,8 +1,79 @@
+---
+title: 2 Kings 18:22
+type: Verse
+kjv: "But if ye say unto me, We trust in the LORD our God: is not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, Ye shall worship before this altar in Jerusalem?"
+bsb: "But if you say to me, ‘We trust in the LORD our God,’ is He not the One whose high places and altars Hezekiah has removed, saying to Judah and Jerusalem: ‘You must worship before this altar in Jerusalem’?"
+hebrew: "וְכִי־ תֹאמְר֣וּן אֵלַ֔י אֶל־ יְהוָ֥ה אֱלֹהֵ֖ינוּ בָּטָ֑חְנוּ הֲלוֹא־ ה֗וּא אֲשֶׁ֨ר הֵסִ֤יר חִזְקִיָּ֙הוּ֙ אֶת־ בָּמֹתָ֣יו וְאֶת־ מִזְבְּחֹתָ֔יו וַיֹּ֤אמֶר לִֽיהוּדָה֙ וְלִיר֣וּשָׁלִַ֔ם לִפְנֵי֙ הַמִּזְבֵּ֣חַ הַזֶּ֔ה תִּֽשְׁתַּחֲו֖וּ בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9013]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H0982]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1931]]"
+- "[[H0834A]]"
+- "[[H5493G]]"
+- "[[H2396G]]"
+- "[[H0853]]"
+- "[[H1116]]"
+- "[[H9023]]"
+- "[[H4196]]"
+- "[[H9001]]"
+- "[[H9005]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H7812]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:22**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if ye say unto me, We trust in the LORD our God: [is] not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, Ye shall worship before this altar in Jerusalem?
 <small><sub>**BSB:**</sub></small>
 But if you say to me, ‘We trust in the LORD our God,’ is He not the One whose high places and altars Hezekiah has removed, saying to Judah and Jerusalem: ‘You must worship before this altar in Jerusalem’?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִי]][[H9014\|־]] [[H0559\|תֹאמְר֣וּ]][[H9013\|ן]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H0982\|בָּטָ֑חְנוּ]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H1931\|ה֗וּא]] [[H0834A\|אֲשֶׁ֨ר]] [[H5493G\|הֵסִ֤יר]] [[H2396G\|חִזְקִיָּ֙הוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1116\|בָּמֹתָ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4196\|מִזְבְּחֹתָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לִֽ]][[H3063G\|יהוּדָה֙]] [[H9002\|וְ]][[H9005\|לִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֣חַ]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H7812\|תִּֽשְׁתַּחֲו֖וּ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.21|<< 2 Kings 18:21]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.23|2 Kings 18:23 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Teachings about Divorce
+type: Pericope
 pericope: "[[Matt.19.1 Teachings about Divorce|Teachings about Divorce]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 19
 book/chapter: "[[Matt.19|Matthew 19]]"
-genre:
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 12
 verses:
 - "[[Matt.19.1]]"
 - "[[Matt.19.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Matt.19.12]]"
 ---
 
-[[Matt.19|Matthew 19:1 - Matthew 19:12]]
+<small>[[Matt.19|Matthew 19:1-12]]</small>
 *Teachings about Divorce*
 
 [[Matt.19.1|1]] And it came to pass, \[that\] when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;

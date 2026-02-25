@@ -1,8 +1,60 @@
+---
+title: Numbers 31:31
+type: Verse
+kjv: "And Moses and Eleazar the priest did as the LORD commanded Moses."
+bsb: "So Moses and Eleazar the priest did as the LORD had commanded Moses,"
+hebrew: "וַיַּ֣עַשׂ מֹשֶׁ֔ה וְאֶלְעָזָ֖ר הַכֹּהֵ֑ן כַּאֲשֶׁ֛ר צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃"
+pericope: "[[Num.31.25 Division of the Spoils|Division of the Spoils]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SPOILS|SPOILS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0499G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:31**<big><big>[[Num.31.25 Division of the Spoils|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Eleazar the priest did as the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 So Moses and Eleazar the priest did as the LORD had commanded Moses,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H4872\|מֹשֶׁ֔ה]] [[H9002\|וְ]][[H0499G\|אֶלְעָזָ֖ר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic SERVANT|SERVANT]] • [[topic SPOILS|SPOILS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.30|<< Numbers 31:30]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.32|Numbers 31:32 >>]]</td></tr></table>
 

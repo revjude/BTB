@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Rich Fool
+type: Pericope
 pericope: "[[Luke.12.13 The Parable of the Rich Fool|The Parable of the Rich Fool]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Luke
 chapter: 12
 book/chapter: "[[Luke.12|Luke 12]]"
-genre:
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 9
 verses:
 - "[[Luke.12.13]]"
 - "[[Luke.12.14]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Luke.12.21]]"
 ---
 
-[[Luke.12|Luke 12:13 - Luke 12:21]]
+<small>[[Luke.12|Luke 12:13-21]]</small>
 *The Parable of the Rich Fool*
 
 [[Luke.12.13|13]] And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.

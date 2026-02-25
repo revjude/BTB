@@ -1,8 +1,54 @@
+---
+title: 2 Chronicles 4:10
+type: Verse
+kjv: "And he set the sea on the right side of the east end, over against the south."
+bsb: "He put the Sea on the south side, at the southeast corner."
+hebrew: "וְאֶת־ הַיָּ֗ם נָתַ֞ן מִכֶּ֧תֶף הַיְמָנִ֛ית קֵ֖דְמָה מִמּ֥וּל נֶֽגְבָּה׃"
+pericope: "[[2Chr.4.9 The Courts|The Courts]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 4
+book/chapter: "[[2Chr.4|2 Chronicles 4]]"
+chronological_order: 493
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H5414H]]"
+- "[[H9006]]"
+- "[[H3802]]"
+- "[[H3233H]]"
+- "[[H6924B]]"
+- "[[H9011]]"
+- "[[H4136]]"
+- "[[H5045H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 4:10**<big><big>[[2Chr.4.9 The Courts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he set the sea on the right side of the east end, over against the south.
 <small><sub>**BSB:**</sub></small>
 He put the Sea on the south side, at the southeast corner.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֗ם]] [[H5414H\|נָתַ֞ן]] [[H9006\|מִ]][[H3802\|כֶּ֧תֶף]] [[H9009\|הַ]][[H3233H\|יְמָנִ֛ית]] [[H6924B\|קֵ֖דְמָ]][[H9011\|ה]] [[H9006\|מִ]][[H4136\|מּ֥וּל]] [[H5045H\|נֶֽגְבָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.4.9|<< 2 Chronicles 4:9]]</td><td align="center" style="border:none;">[[2Chr.4|2 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.4.11|2 Chronicles 4:11 >>]]</td></tr></table>
 

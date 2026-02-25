@@ -1,8 +1,66 @@
+---
+title: 2 Chronicles 6:36
+type: Verse
+kjv: "If they sin against thee, (for there is no man which sinneth not,) and thou be angry with them, and deliver them over before their enemies, and they carry them away captives unto a land far off or near;"
+bsb: "When they sin against You—for there is no one who does not sin—and You become angry with them and deliver them to an enemy who takes them as captives to a land far or near,"
+hebrew: "כִּ֣י יֶחֶטְאוּ־ לָ֗ךְ כִּ֣י אֵ֤ין אָדָם֙ אֲשֶׁ֣ר לֹא־ יֶחֱטָ֔א וְאָנַפְתָּ֣ בָ֔ם וּנְתַתָּ֖ם לִפְנֵ֣י אוֹיֵ֑ב וְשָׁב֧וּם שׁוֹבֵיהֶ֛ם אֶל־ אֶ֥רֶץ רְחוֹקָ֖ה א֥וֹ קְרוֹבָֽה׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2398]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0369]]"
+- "[[H0120G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9001]]"
+- "[[H0599]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5414G]]"
+- "[[H6440G]]"
+- "[[H0341]]"
+- "[[H7617]]"
+- "[[H0413]]"
+- "[[H0776G]]"
+- "[[H7350]]"
+- "[[H0176A]]"
+- "[[H7138]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:36**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If they sin against thee, (for [there is] no man which sinneth not,) and thou be angry with them, and deliver them over before [their] enemies, and they carry them away captives unto a land far off or near;
 <small><sub>**BSB:**</sub></small>
 When they sin against You—for there is no one who does not sin—and You become angry with them and deliver them to an enemy who takes them as captives to a land far or near,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H2398\|יֶחֶטְאוּ]][[H9014\|־]] [[H9005\|לָ֗]][[H9031\|ךְ]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֤ין]] [[H0120G\|אָדָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H2398\|יֶחֱטָ֔א]] [[H9001\|וְ]][[H0599\|אָנַפְתָּ֣]] [[H9003\|בָ֔]][[H9038\|ם]] [[H9001\|וּ]][[H5414G\|נְתַתָּ֖]][[H9038\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0341\|אוֹיֵ֑ב]] [[H9001\|וְ]][[H7617\|שָׁב֧וּ]][[H9038\|ם]] [[H7617\|שׁוֹבֵי]][[H9038\|הֶ֛ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H7350\|רְחוֹקָ֖ה]] [[H0176A\|א֥וֹ]] [[H7138\|קְרוֹבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic PERFECTION|PERFECTION]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.35|<< 2 Chronicles 6:35]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.37|2 Chronicles 6:37 >>]]</td></tr></table>
 

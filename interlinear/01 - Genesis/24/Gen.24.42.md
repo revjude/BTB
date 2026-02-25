@@ -1,8 +1,71 @@
+---
+title: Genesis 24:42
+type: Verse
+kjv: "And I came this day unto the well, and said, O LORD God of my master Abraham, if now thou do prosper my way which I go:"
+bsb: "So when I came to the spring today, I prayed: O LORD, God of my master Abraham, if only You would make my journey a success!"
+hebrew: "וָאָבֹ֥א הַיּ֖וֹם אֶל־ הָעָ֑יִן וָאֹמַ֗ר יְהוָה֙ אֱלֹהֵי֙ אֲדֹנִ֣י אַבְרָהָ֔ם אִם־ יֶשְׁךָ־ נָּא֙ מַצְלִ֣יחַ דַּרְכִּ֔י אֲשֶׁ֥ר אָנֹכִ֖י הֹלֵ֥ךְ עָלֶֽיהָ׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5869M]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0085]]"
+- "[[H0518A]]"
+- "[[H3426]]"
+- "[[H9041]]"
+- "[[H4994]]"
+- "[[H6743B]]"
+- "[[H1870L]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H1980G]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:42**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I came this day unto the well, and said, O LORD God of my master Abraham, if now thou do prosper my way which I go:
 <small><sub>**BSB:**</sub></small>
 So when I came to the spring today, I prayed: O LORD, God of my master Abraham, if only You would make my journey a success!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0935G\|אָבֹ֥א]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5869M\|עָ֑יִן]] [[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵי֙]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H0085\|אַבְרָהָ֔ם]] [[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֶשְׁ]][[H9041\|ךָ]][[H9014\|־]] [[H4994\|נָּא֙]] [[H6743B\|מַצְלִ֣יחַ]] [[H1870L\|דַּרְכִּ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H0595\|אָנֹכִ֖י]] [[H1980G\|הֹלֵ֥ךְ]] [[H5921A\|עָלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.41|<< Genesis 24:41]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.43|Genesis 24:43 >>]]</td></tr></table>
 

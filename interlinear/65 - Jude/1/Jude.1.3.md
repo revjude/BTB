@@ -1,10 +1,55 @@
+---
+title: Jude 1:3
+type: Verse
+kjv: "Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort you that ye should earnestly contend for the faith which was once delivered unto the saints."
+bsb: "Beloved, although I made every effort to write to you about the salvation we share, I felt it necessary to write and urge you to contend earnestly for the faith entrusted once for all to the saints."
+greek: "Ἀγαπητοί, πᾶσαν σπουδὴν ποιούμενος γράφειν ὑμῖν περὶ τῆς κοινῆς ἡμῶν σωτηρίας, ἀνάγκην ἔσχον γράψαι ὑμῖν παρακαλῶν ἐπαγωνίζεσθαι τῇ ἅπαξ παραδοθείσῃ τοῖς ἁγίοις πίστει."
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G0027]]"
+- "[[G3956]]"
+- "[[G4710]]"
+- "[[G4160G]]"
+- "[[G1125]]"
+- "[[G4771]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G2839H]]"
+- "[[G3165]]"
+- "[[G4991]]"
+- "[[G0318]]"
+- "[[G2192]]"
+- "[[G3870]]"
+- "[[G1864]]"
+- "[[G0530]]"
+- "[[G3860]]"
+- "[[G0040H]]"
+- "[[G4102G]]"
+texts:
+- NKO
+- NO
+---
+
 **Jude 1:3**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beloved, when I gave all diligence to write unto you of the common salvation, it was needful for me to write unto you, and exhort [you] that ye should earnestly contend for the faith which was once delivered unto the saints.
 <small><sub>**BSB:**</sub></small>
 Beloved, although I made every effort to write to you about the salvation we share, I felt it necessary to write and urge you to contend earnestly for the faith entrusted once for all to the saints.
-<small><sub>**Literal:**</sub></small>
-Beloved, all diligence using to write to you concerning <the> shared of us salvation, necessity I had to write to you exhorting [you] to contend earnestly for the once for all having been delivered to the saints faith.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.2|<< Jude 1:2]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.4|Jude 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|Ἀγαπητοί,]]  [[G3956\|πᾶσαν]]  [[G4710\|σπουδὴν]]  [[G4160G\|ποιούμενος]]  [[G1125\|γράφειν]]  [[G4771\|ὑμῖν]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G2839H\|κοινῆς]]  [[G3165\|ἡμῶν]]  [[G4991\|σωτηρίας,]]  [[G0318\|ἀνάγκην]]  [[G2192\|ἔσχον]]  [[G1125\|γράψαι]]  [[G4771\|ὑμῖν]]  [[G3870\|παρακαλῶν]]  [[G1864\|ἐπαγωνίζεσθαι]]  [[G3588\|τῇ]]  [[G0530\|ἅπαξ]]  [[G3860\|παραδοθείσῃ]]  [[G3588\|τοῖς]]  [[G0040H\|ἁγίοις]]  [[G4102G\|πίστει.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.2|<< Jude 1:2]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.4|Jude 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

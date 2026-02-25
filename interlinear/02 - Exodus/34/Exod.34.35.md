@@ -1,8 +1,77 @@
+---
+title: Exodus 34:35
+type: Verse
+kjv: "And the children of Israel saw the face of Moses, that the skin of Moses’ face shone: and Moses put the vail upon his face again, until he went in to speak with him."
+bsb: "and the Israelites would see that the face of Moses was radiant. So Moses would put the veil back over his face until he went in to speak with the LORD."
+hebrew: "וְרָא֤וּ בְנֵֽי־ יִשְׂרָאֵל֙ אֶת־ פְּנֵ֣י מֹשֶׁ֔ה כִּ֣י קָרַ֔ן ע֖וֹר פְּנֵ֣י מֹשֶׁ֑ה וְהֵשִׁ֨יב מֹשֶׁ֤ה אֶת־ הַמַּסְוֶה֙ עַל־ פָּנָ֔יו עַד־ בֹּא֖וֹ לְדַבֵּ֥ר אִתּֽוֹ׃ ס"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic FACE|FACE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+- "[[topic VEIL|VEIL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H6440H]]"
+- "[[H4872]]"
+- "[[H3588A]]"
+- "[[H7160]]"
+- "[[H5785]]"
+- "[[H7725J]]"
+- "[[H9009]]"
+- "[[H4533]]"
+- "[[H5921A]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 34:35**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel saw the face of Moses, that the skin of Moses’ face shone: and Moses put the vail upon his face again, until he went in to speak with him.
 <small><sub>**BSB:**</sub></small>
 and the Israelites would see that the face of Moses was radiant. So Moses would put the veil back over his face until he went in to speak with the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָא֤וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פְּנֵ֣י]] [[H4872\|מֹשֶׁ֔ה]] [[H3588A\|כִּ֣י]] [[H7160\|קָרַ֔ן]] [[H5785\|ע֖וֹר]] [[H6440H\|פְּנֵ֣י]] [[H4872\|מֹשֶׁ֑ה]] [[H9001\|וְ]][[H7725J\|הֵשִׁ֨יב]] [[H4872\|מֹשֶׁ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4533\|מַּסְוֶה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנָ֔י]][[H9023\|ו]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּא֖]][[H9043\|וֹ]] [[H9005\|לְ]][[H1696G\|דַבֵּ֥ר]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTENANCE|COUNTENANCE]] • [[topic FACE|FACE]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic REVERENCE|REVERENCE]] • [[topic TRANSFIGURATION|TRANSFIGURATION]] • [[topic VEIL|VEIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.34|<< Exodus 34:34]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.1|Exodus 35:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -32,7 +101,7 @@ and the Israelites would see that the face of Moses was radiant. So Moses would 
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | went he  |**<big>&#8207;[[H0935G\|בֹּא֖]]&#8207;&#8207;[[H9043\|וֹ]]&#8207; </big>**| bo.'<small><sup>[[HVqcc]]</sup></small> O<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to speak  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1696G\|דַבֵּ֥ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with him  |**<big>&#8207;[[H0854\|אִתּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'i.T<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  |**<big>&#8207;[[H0854\|אִתּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'i.T<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.34|<< Exodus 34:34]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.1|Exodus 35:1 >>]]</td></tr></table>
 
 

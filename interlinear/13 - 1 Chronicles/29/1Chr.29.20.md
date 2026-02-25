@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 29:20
+type: Verse
+kjv: "And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king."
+bsb: "Then David said to the whole assembly, “Bless the LORD your God.” So the whole assembly blessed the LORD, the God of their fathers. They bowed down and paid homage to the LORD and to the king."
+hebrew: "וַיֹּ֤אמֶר דָּוִיד֙ לְכָל־ הַקָּהָ֔ל בָּֽרְכוּ־ נָ֖א אֶת־ יְהוָ֣ה אֱלֹהֵיכֶ֑ם וַיְבָרֲכ֣וּ כָֽל־ הַקָּהָ֗ל לַיהוָה֙ אֱלֹהֵ֣י אֲבֹֽתֵיהֶ֔ם וַיִּקְּד֧וּ וַיִּֽשְׁתַּחֲו֛וּ לַיהוָ֖ה וְלַמֶּֽלֶךְ׃"
+pericope: "[[1Chr.29.10 David’s Prayer of Blessing|David’s Prayer of Blessing]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H1288]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H6915]]"
+- "[[H7812]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:20**<big><big>[[1Chr.29.10 David’s Prayer of Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king.
 <small><sub>**BSB:**</sub></small>
 Then David said to the whole assembly, “Bless the LORD your God.” So the whole assembly blessed the LORD, the God of their fathers. They bowed down and paid homage to the LORD and to the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1732\|דָּוִיד֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָ֔ל]] [[H1288\|בָּֽרְכוּ]][[H9014\|־]] [[H4994\|נָ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H1288\|יְבָרֲכ֣וּ]] [[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָ֗ל]] [[H9005\|לַ]][[H3068G\|יהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבֹֽתֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H6915\|יִּקְּד֧וּ]] [[H9001\|וַ]][[H7812\|יִּֽשְׁתַּחֲו֛וּ]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H9002\|וְ]][[H9005\|לַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.29.19|<< 1 Chronicles 29:19]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.21|1 Chronicles 29:21 >>]]</td></tr></table>
 

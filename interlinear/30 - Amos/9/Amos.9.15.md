@@ -1,8 +1,61 @@
+---
+title: Amos 9:15
+type: Verse
+kjv: "And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the LORD thy God."
+bsb: "I will firmly plant them in their own land, never again to be uprooted from the land that I have given them,” says the LORD your God."
+hebrew: "וּנְטַעְתִּ֖ים עַל־ אַדְמָתָ֑ם וְלֹ֨א יִנָּתְשׁ֜וּ ע֗וֹד מֵעַ֤ל אַדְמָתָם֙ אֲשֶׁ֣ר נָתַ֣תִּי לָהֶ֔ם אָמַ֖ר יְהוָ֥ה אֱלֹהֶֽיךָ׃"
+pericope: "[[Amos.9.11 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5193]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0127G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5428]]"
+- "[[H5750]]"
+- "[[H9006]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 9:15**<big><big>[[Amos.9.11 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will plant them upon their land, and they shall no more be pulled up out of their land which I have given them, saith the LORD thy God.
 <small><sub>**BSB:**</sub></small>
 I will firmly plant them in their own land, never again to be uprooted from the land that I have given them,” says the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H5193\|נְטַעְתִּ֖י]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H0127G\|אַדְמָתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹ֨א]] [[H5428\|יִנָּתְשׁ֜וּ]] [[H5750\|ע֗וֹד]] [[H9006\|מֵ]][[H5921A\|עַ֤ל]] [[H0127G\|אַדְמָתָ]][[H9028\|ם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|נָתַ֣תִּי]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H0559\|אָמַ֖ר]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.14|<< Amos 9:14]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.1|Obadiah 1:1 >>]]</td></tr></table>
 

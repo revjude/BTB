@@ -1,10 +1,69 @@
+---
+title: Luke 13:15
+type: Verse
+kjv: "The Lord then answered him, and said, Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?"
+bsb: "“You hypocrites!” the Lord replied. “Does not each of you on the Sabbath untie his ox or donkey from the stall and lead it to water?"
+jesus_said: "Thou hypocrite, doth not each one of you on the sabbath loose his ox or his ass from the stall, and lead him away to watering?"
+greek: "Ἀπεκρίθη δὲ αὐτῷ ὁ κύριος καὶ εἶπεν· ὑποκριταί, ἕκαστος ὑμῶν τῷ σαββάτῳ οὐ λύει τὸν βοῦν αὐτοῦ ἢ τὸν ὄνον ἀπὸ τῆς φάτνης, καὶ ἀπαγαγὼν ποτίζει;"
+pericope: "[[Luke.13.10 Jesus Heals a Disabled Woman|Jesus Heals a Disabled Woman]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MANGER|MANGER]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G5273]]"
+- "[[G1538]]"
+- "[[G4771]]"
+- "[[G4521]]"
+- "[[G3756]]"
+- "[[G3089]]"
+- "[[G1016]]"
+- "[[G2228]]"
+- "[[G3688]]"
+- "[[G0575]]"
+- "[[G5336]]"
+- "[[G0520]]"
+- "[[G4222]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Luke 13:15**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Lord then answered him, and said, [Thou] hypocrite, doth not each one of you on the sabbath loose his ox or [his] ass from the stall, and lead [him] away to watering?
 <small><sub>**BSB:**</sub></small>
 “You hypocrites!” the Lord replied. “Does not each of you on the Sabbath untie his ox or donkey from the stall and lead it to water?
-<small><sub>**Literal:**</sub></small>
-Answered therefore to him the Lord and said; Hypocrites! Each one of you on the Sabbath not does he untie the ox of him or the donkey from the stall, and having led [it] away give [it] drink?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.14|<< Luke 13:14]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.16|Luke 13:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G5273\|ὑποκριταί,]]  [[G1538\|ἕκαστος]]  [[G4771\|ὑμῶν]]  [[G3588\|τῷ]]  [[G4521\|σαββάτῳ]]  [[G3756\|οὐ]]  [[G3089\|λύει]]  [[G3588\|τὸν]]  [[G1016\|βοῦν]]  [[G0846\|αὐτοῦ]]  [[G2228\|ἢ]]  [[G3588\|τὸν]]  [[G3688\|ὄνον]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G5336\|φάτνης,]]  [[G2532\|καὶ]]  [[G0520\|ἀπαγαγὼν]]  [[G4222\|ποτίζει;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MANGER|MANGER]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.14|<< Luke 13:14]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.16|Luke 13:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

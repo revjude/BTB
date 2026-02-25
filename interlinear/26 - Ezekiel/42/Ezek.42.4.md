@@ -1,8 +1,57 @@
+---
+title: Ezekiel 42:4
+type: Verse
+kjv: "And before the chambers was a walk of ten cubits breadth inward, a way of one cubit; and their doors toward the north."
+bsb: "In front of the chambers was an inner walkway ten cubits wide and a hundred cubits long. Their doors were on the north."
+hebrew: "וְלִפְנֵ֨י הַלְּשָׁכ֜וֹת מַהֲלַךְ֩ עֶ֨שֶׂר אַמּ֥וֹת רֹ֙חַב֙ אֶל־ הַפְּנִימִ֔ית דֶּ֖רֶךְ אַמָּ֣ה אֶחָ֑ת וּפִתְחֵיהֶ֖ם לַצָּפֽוֹן׃"
+pericope: "[[Ezek.42.1 Chambers for the Priests|Chambers for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H3957]]"
+- "[[H4109]]"
+- "[[H6235]]"
+- "[[H0520A]]"
+- "[[H7341]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6442]]"
+- "[[H1870J]]"
+- "[[H0259]]"
+- "[[H6607]]"
+- "[[H9028]]"
+- "[[H6828G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:4**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And before the chambers [was] a walk of ten cubits breadth inward, a way of one cubit; and their doors toward the north.
 <small><sub>**BSB:**</sub></small>
 In front of the chambers was an inner walkway ten cubits wide and a hundred cubits long. Their doors were on the north.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֜וֹת]] [[H4109\|מַהֲלַךְ֩]] [[H6235\|עֶ֨שֶׂר]] [[H0520A\|אַמּ֥וֹת]] [[H7341\|רֹ֙חַב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H6442\|פְּנִימִ֔ית]] [[H1870J\|דֶּ֖רֶךְ]] [[H0520A\|אַמָּ֣ה]] [[H0259\|אֶחָ֑ת]] [[H9002\|וּ]][[H6607\|פִתְחֵי]][[H9028\|הֶ֖ם]] [[H9005\|לַ]][[H6828G\|צָּפֽוֹן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.3|<< Ezekiel 42:3]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.5|Ezekiel 42:5 >>]]</td></tr></table>
 

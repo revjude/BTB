@@ -1,7 +1,7 @@
 
 **HEBREW**
 
-→ A word supposed to be a corruption of the name of Eber, who was  an ancestor of Abraham [[Gen.10.24|Ge 10:24]]; [[Gen.11.14|11:14]]-[[Gen.11.26|26]]
+→ A word supposed to be a corruption of the name of Eber, who was  an ancestor of Abraham [[Gen.10.24|Ge 10:24]]; [[Gen.11.14|11:14-26]]
 
 → See [[topic GENEALOGY|GENEALOGY]]
 

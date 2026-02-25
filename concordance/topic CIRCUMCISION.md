@@ -1,9 +1,9 @@
 
 **CIRCUMCISION**
 
-→ Institution of [[Gen.17.10|Ge 17:10]]-[[Gen.17.14|14]]; [[Lev.12.3|Le 12:3]]; [[John.7.22|Joh 7:22]]; [[Acts.7.8|Ac 7:8]];  [[Rom.4.11|Ro 4:11]]
+→ Institution of [[Gen.17.10|Ge 17:10-14]]; [[Lev.12.3|Le 12:3]]; [[John.7.22|Joh 7:22]]; [[Acts.7.8|Ac 7:8]];  [[Rom.4.11|Ro 4:11]]
 
-→ A seal of righteousness [[Rom.2.25|Ro 2:25]]-[[Rom.2.29|29]]; [[Rom.4.11|4:11]]
+→ A seal of righteousness [[Rom.2.25|Ro 2:25-29]]; [[Rom.4.11|4:11]]
 
 → Performed on all males on the eighth day [[Gen.17.12|Ge 17:12]],[[Gen.17.13|13]];  [[Lev.12.3|Le 12:3]]; [[Phil.3.5|Php 3:5]]
 
@@ -17,7 +17,7 @@
 
 → Neglected [[Josh.5.7|Jos 5:7]]
 
-→ Covenant promises of [[Gen.17.4|Ge 17:4]]-[[Gen.17.14|14]]; [[Acts.7.8|Ac 7:8]]; [[Rom.3.1|Ro 3:1]]; [[Rom.4.11|4:11]];  [[Rom.9.7|9:7]]-[[Rom.9.13|13]]; [[Gal.5.3|Ga 5:3]]
+→ Covenant promises of [[Gen.17.4|Ge 17:4-14]]; [[Acts.7.8|Ac 7:8]]; [[Rom.3.1|Ro 3:1]]; [[Rom.4.11|4:11]];  [[Rom.9.7|9:7-13]]; [[Gal.5.3|Ga 5:3]]
 
 → Necessity of, falsely taught by Judaizing Christians  [[Acts.15.1|Ac 15:1]]
 
@@ -25,17 +25,17 @@
 
 → Characterized by Paul as a yoke [[Acts.15.10|Ac 15:10]]
 
-→ Abrogated [[Acts.15.5|Ac 15:5]]-[[Acts.15.29|29]]; [[Rom.3.30|Ro 3:30]]; [[Rom.4.9|4:9]]-[[Rom.4.11|11]]; [[1Cor.7.18|1Co 7:18]],[[1Cor.7.19|19]];  [[Gal.2.3|Ga 2:3]],[[Gal.2.4|4]]; [[Gal.5.2|5:2]]-[[Gal.5.11|11]]; [[Gal.6.12|6:12]]; [[Eph.2.11|Eph 2:11]],[[Eph.2.15|15]]; [[Col.2.11|Col 2:11]]; [[Col.3.11|3:11]]
+→ Abrogated [[Acts.15.5|Ac 15:5-29]]; [[Rom.3.30|Ro 3:30]]; [[Rom.4.9|4:9-11]]; [[1Cor.7.18|1Co 7:18]],[[1Cor.7.19|19]];  [[Gal.2.3|Ga 2:3]],[[Gal.2.4|4]]; [[Gal.5.2|5:2-11]]; [[Gal.6.12|6:12]]; [[Eph.2.11|Eph 2:11]],[[Eph.2.15|15]]; [[Col.2.11|Col 2:11]]; [[Col.3.11|3:11]]
 
 → INSTANCES OF
 
-- Abraham [[Gen.17.23|Ge 17:23]]-[[Gen.17.27|27]]; [[Gen.21.3|21:3]],[[Gen.21.4|4]]
+- Abraham [[Gen.17.23|Ge 17:23-27]]; [[Gen.21.3|21:3]],[[Gen.21.4|4]]
 
 - Shechemites [[Gen.34.24|Ge 34:24]]
 
 - Moses [[Exod.4.25|Ex 4:25]]
 
-- Israelites at Gilgal [[Josh.5.2|Jos 5:2]]-[[Josh.5.9|9]]
+- Israelites at Gilgal [[Josh.5.2|Jos 5:2-9]]
 
 - John the Baptist [[Luke.1.59|Lu 1:59]]
 

@@ -1,8 +1,60 @@
+---
+title: Zechariah 11:9
+type: Verse
+kjv: "Then said I, I will not feed you: that that dieth, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another."
+bsb: "Then I said, “I will no longer shepherd you. Let the dying die, and the perishing perish; and let those who remain devour one another’s flesh.”"
+hebrew: "וָאֹמַ֕ר לֹ֥א אֶרְעֶ֖ה אֶתְכֶ֑ם הַמֵּתָ֣ה תָמ֗וּת וְהַנִּכְחֶ֙דֶת֙ תִּכָּחֵ֔ד וְהַ֨נִּשְׁאָר֔וֹת תֹּאכַ֕לְנָה אִשָּׁ֖ה אֶת־ בְּשַׂ֥ר רְעוּתָֽהּ׃"
+pericope: "[[Zech.11.1 The Doomed Flock|The Doomed Flock]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 11
+book/chapter: "[[Zech.11|Zechariah 11]]"
+chronological_order: 867
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic STAVES (LONG POLES)|STAVES (LONG POLES)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H7462B]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H3582]]"
+- "[[H7604]]"
+- "[[H0398]]"
+- "[[H0802I]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H7468]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 11:9**<big><big>[[Zech.11.1 The Doomed Flock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, I will not feed you: that that dieth, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.
 <small><sub>**BSB:**</sub></small>
 Then I said, “I will no longer shepherd you. Let the dying die, and the perishing perish; and let those who remain devour one another’s flesh.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֕ר]] [[H3808\|לֹ֥א]] [[H7462B\|אֶרְעֶ֖ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H9009\|הַ]][[H4191\|מֵּתָ֣ה]] [[H4191\|תָמ֗וּת]] [[H9002\|וְ]][[H9009\|הַ]][[H3582\|נִּכְחֶ֙דֶת֙]] [[H3582\|תִּכָּחֵ֔ד]] [[H9002\|וְ]][[H9009\|הַ֨]][[H7604\|נִּשְׁאָר֔וֹת]] [[H0398\|תֹּאכַ֕לְנָה]] [[H0802I\|אִשָּׁ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשַׂ֥ר]] [[H7468\|רְעוּתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic STAVES (LONG POLES)|STAVES (LONG POLES)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.8|<< Zechariah 11:8]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.10|Zechariah 11:10 >>]]</td></tr></table>
 

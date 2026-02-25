@@ -1,10 +1,54 @@
+---
+title: Mark 8:22
+type: Verse
+kjv: "And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him."
+bsb: "When they arrived at Bethsaida, some people brought a blind man and begged Jesus to touch him."
+greek: "Καὶ ἔρχονται εἰς Βηθσαϊδάν, καὶ φέρουσιν αὐτῷ τυφλὸν καὶ παρακαλοῦσιν αὐτὸν ἵνα αὐτοῦ ἅψηται."
+pericope: "[[Mark.8.22 The Blind Man at Bethsaida|The Blind Man at Bethsaida]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETHSAIDA|BETHSAIDA]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G0966]]"
+- "[[G5342]]"
+- "[[G0846]]"
+- "[[G5185]]"
+- "[[G3870]]"
+- "[[G2443]]"
+- "[[G0681]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 8:22**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him.
 <small><sub>**BSB:**</sub></small>
 When they arrived at Bethsaida, some people brought a blind man and begged Jesus to touch him.
-<small><sub>**Literal:**</sub></small>
-And they come to Bethsaida, And they bring to Him a blind [man] and they implore Him that him He may touch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.21|<< Mark 8:21]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.23|Mark 8:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἔρχονται]]  [[G1519\|εἰς]]  [[G0966\|Βηθσαϊδάν,]]  [[G2532\|καὶ]]  [[G5342\|φέρουσιν]]  [[G0846\|αὐτῷ]]  [[G5185\|τυφλὸν]]  [[G2532\|καὶ]]  [[G3870\|παρακαλοῦσιν]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G0846\|αὐτοῦ]]  [[G0681\|ἅψηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETHSAIDA|BETHSAIDA]] • [[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.21|<< Mark 8:21]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.23|Mark 8:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,59 @@
+---
+title: Acts 26:24
+type: Verse
+kjv: "And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad."
+bsb: "At this stage of Paul’s defense, Festus exclaimed in a loud voice, “You are insane, Paul! Your great learning is driving you to madness!”"
+greek: "Ταῦτα δὲ αὐτοῦ ἀπολογουμένου ὁ Φῆστος μεγάλῃ τῇ φωνῇ φησιν· μαίνῃ Παῦλε· τὰ πολλά σε γράμματα εἰς μανίαν περιτρέπει."
+pericope: "[[Acts.26.24 Festus Interrupts Paul’s Defense|Festus Interrupts Paul’s Defense]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic INSANITY|INSANITY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0626]]"
+- "[[G3588]]"
+- "[[G5347]]"
+- "[[G3173]]"
+- "[[G5456G]]"
+- "[[G5346]]"
+- "[[G3105]]"
+- "[[G3972G]]"
+- "[[G4183]]"
+- "[[G4771]]"
+- "[[G1121]]"
+- "[[G1519]]"
+- "[[G3130]]"
+- "[[G4062]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 26:24**<big><big>[[Acts.26.24 Festus Interrupts Paul’s Defense|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.
 <small><sub>**BSB:**</sub></small>
 At this stage of Paul’s defense, Festus exclaimed in a loud voice, “You are insane, Paul! Your great learning is driving you to madness!”
-<small><sub>**Literal:**</sub></small>
-These things now when he is presenting a defense  <the> Festus in a loud <the> voice said; You are insane Paul! The great of you learning to insanity turns [you]!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.23|<< Acts 26:23]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.25|Acts 26:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G0626\|ἀπολογουμένου]]  [[G3588\|ὁ]]  [[G5347\|Φῆστος]]  [[G3173\|μεγάλῃ]]  [[G3588\|τῇ]]  [[G5456G\|φωνῇ]]  [[G5346\|φησιν·]]  [[G3105\|μαίνῃ]]  [[G3972G\|Παῦλε·]]  [[G3588\|τὰ]]  [[G4183\|πολλά]]  [[G4771\|σε]]  [[G1121\|γράμματα]]  [[G1519\|εἰς]]  [[G3130\|μανίαν]]  [[G4062\|περιτρέπει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic INSANITY|INSANITY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.23|<< Acts 26:23]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.25|Acts 26:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,73 @@
+---
+title: Matthew 2:11
+type: Verse
+kjv: "And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh."
+bsb: "On coming to the house, they saw the Child with His mother Mary, and they fell down and worshiped Him. Then they opened their treasures and presented Him with gifts of gold and frankincense and myrrh."
+greek: "καὶ ἐλθόντες εἰς τὴν οἰκίαν εἶδον τὸ παιδίον μετὰ Μαρίας τῆς μητρὸς αὐτοῦ, καὶ πεσόντες προσεκύνησαν αὐτῷ, καὶ ἀνοίξαντες τοὺς θησαυροὺς αὐτῶν προσήνεγκαν αὐτῷ δῶρα, χρυσὸν καὶ λίβανον καὶ σμύρναν."
+pericope: "[[Matt.2.1 The Pilgrimage of the Magi|The Pilgrimage of the Magi]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MAGI|MAGI]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic MYRRH|MYRRH]]"
+- "[[topic SALUTATIONS|SALUTATIONS]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3614G]]"
+- "[[G1492H]]"
+- "[[G3813]]"
+- "[[G3326]]"
+- "[[G3137G]]"
+- "[[G3384]]"
+- "[[G0846]]"
+- "[[G4098]]"
+- "[[G4352]]"
+- "[[G0455]]"
+- "[[G2344]]"
+- "[[G4374]]"
+- "[[G1435]]"
+- "[[G5557]]"
+- "[[G3030]]"
+- "[[G4666]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 2:11**<big><big>[[Matt.2.1 The Pilgrimage of the Magi|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.
 <small><sub>**BSB:**</sub></small>
 On coming to the house, they saw the Child with His mother Mary, and they fell down and worshiped Him. Then they opened their treasures and presented Him with gifts of gold and frankincense and myrrh.
-<small><sub>**Literal:**</sub></small>
-And having come into the house they saw the Child with Mary the mother of Him, and having fallen down they worshiped Him, and having opened the treasures of them they offered to Him gifts, gold and frankincense and myrrh.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.10|<< Matthew 2:10]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.12|Matthew 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2064\|ἐλθόντες]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G1492H\|εἶδον]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G3326\|μετὰ]]  [[G3137G\|Μαρίας]]  [[G3588\|τῆς]]  [[G3384\|μητρὸς]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G4098\|πεσόντες]]  [[G4352\|προσεκύνησαν]]  [[G0846\|αὐτῷ,]]  [[G2532\|καὶ]]  [[G0455\|ἀνοίξαντες]]  [[G3588\|τοὺς]]  [[G2344\|θησαυροὺς]]  [[G0846\|αὐτῶν]]  [[G4374\|προσήνεγκαν]]  [[G0846\|αὐτῷ]]  [[G1435\|δῶρα,]]  [[G5557\|χρυσὸν]]  [[G2532\|καὶ]]  [[G3030\|λίβανον]]  [[G2532\|καὶ]]  [[G4666\|σμύρναν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOLD|GOLD]] • [[topic HEATHEN|HEATHEN]] • [[topic INCENSE|INCENSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MAGI|MAGI]] • [[topic MISSIONS|MISSIONS]] • [[topic MONEY|MONEY]] • [[topic MYRRH|MYRRH]] • [[topic SALUTATIONS|SALUTATIONS]] • [[topic WISDOM|WISDOM]] • [[topic WISE MEN|WISE MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.10|<< Matthew 2:10]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.12|Matthew 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

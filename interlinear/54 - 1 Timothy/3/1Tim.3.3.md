@@ -1,10 +1,59 @@
+---
+title: 1 Timothy 3:3
+type: Verse
+kjv: "Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;"
+bsb: "not dependent on wine, not violent but gentle, peaceable, and free of the love of money."
+greek: "μὴ πάροινον, μὴ πλήκτην μὴ αἰσχροκερδῆ, ἀλλ᾽ ἐπιεικῆ, ἄμαχον, ἀφιλάργυρον,"
+pericope: "[[1Tim.3.1 Qualifications for Overseers|Qualifications for Overseers]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 3
+book/chapter: "[[1Tim.3|1 Timothy 3]]"
+chronological_order: 1128
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic AVARICE|AVARICE]]"
+- "[[topic BISHOP|BISHOP]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic SOBRIETY|SOBRIETY]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[G3361]]"
+- "[[G3943]]"
+- "[[G4131]]"
+- "[[G0146]]"
+- "[[G0235]]"
+- "[[G1933]]"
+- "[[G0269]]"
+- "[[G0866]]"
+texts:
+- NKO
+- K
+---
+
 **1 Timothy 3:3**<big><big>[[1Tim.3.1 Qualifications for Overseers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;
 <small><sub>**BSB:**</sub></small>
 not dependent on wine, not violent but gentle, peaceable, and free of the love of money.
-<small><sub>**Literal:**</sub></small>
-not given to wine, not a striker not greedy of base gain but gentle, peaceable, not loving money,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.2|<< 1 Timothy 3:2]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.4|1 Timothy 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G3943\|πάροινον,]]  [[G3361\|μὴ]]  [[G4131\|πλήκτην]]  [[G3361\|μὴ]]  [[G0146\|αἰσχροκερδῆ,]]  [[G0235\|ἀλλ᾽]]  [[G1933\|ἐπιεικῆ,]]  [[G0269\|ἄμαχον,]]  [[G0866\|ἀφιλάργυρον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVARICE|AVARICE]] • [[topic BISHOP|BISHOP]] • [[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PATIENCE|PATIENCE]] • [[topic SOBRIETY|SOBRIETY]] • [[topic STRIFE|STRIFE]] • [[topic TEMPERANCE|TEMPERANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.3.2|<< 1 Timothy 3:2]]</td><td align="center" style="border:none;">[[1Tim.3|1 Timothy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.3.4|1 Timothy 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

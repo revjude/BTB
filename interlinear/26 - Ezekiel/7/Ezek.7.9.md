@@ -1,8 +1,63 @@
+---
+title: Ezekiel 7:9
+type: Verse
+kjv: "And mine eye shall not spare, neither will I have pity: I will recompense thee according to thy ways and thine abominations that are in the midst of thee; and ye shall know that I am the LORD that smiteth."
+bsb: "I will not look on you with pity, nor will I spare you, but I will punish you for your ways and for the abominations among you. Then you will know that it is I, the LORD, who strikes the blow."
+hebrew: "וְלֹא־ תָח֥וֹס עֵינִ֖י וְלֹ֣א אֶחְמ֑וֹל כִּדְרָכַ֜יִךְ עָלַ֣יִךְ אֶתֵּ֗ן וְתוֹעֲבוֹתַ֙יִךְ֙ בְּתוֹכֵ֣ךְ תִּֽהְיֶ֔יןָ וִֽידַעְתֶּ֕ם כִּ֛י אֲנִ֥י יְהוָ֖ה מַכֶּֽה׃"
+pericope: "[[Ezek.7.1 The Hour of Doom|The Hour of Doom]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2347]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H2550]]"
+- "[[H9004]]"
+- "[[H1870G]]"
+- "[[H9022]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H5414N]]"
+- "[[H8441]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H1961]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H5221]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:9**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And mine eye shall not spare, neither will I have pity: I will recompense thee according to thy ways and thine abominations [that] are in the midst of thee; and ye shall know that I [am] the LORD that smiteth.
 <small><sub>**BSB:**</sub></small>
 I will not look on you with pity, nor will I spare you, but I will punish you for your ways and for the abominations among you. Then you will know that it is I, the LORD, who strikes the blow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H2347\|תָח֥וֹס]] [[H5869A\|עֵינִ֖]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2550\|אֶחְמ֑וֹל]] [[H9004\|כִּ]][[H1870G\|דְרָכַ֜יִ]][[H9022\|ךְ]] [[H5921A\|עָלַ֣יִ]][[H9032\|ךְ]] [[H5414N\|אֶתֵּ֗ן]] [[H9002\|וְ]][[H8441\|תוֹעֲבוֹתַ֙יִ]][[H9022\|ךְ֙]] [[H9003\|בְּ]][[H8432\|תוֹכֵ֣]][[H9022\|ךְ]] [[H1961\|תִּֽהְיֶ֔יןָ]] [[H9001\|וִֽ]][[H3045\|ידַעְתֶּ֕ם]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H5221\|מַכֶּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.8|<< Ezekiel 7:8]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.10|Ezekiel 7:10 >>]]</td></tr></table>
 

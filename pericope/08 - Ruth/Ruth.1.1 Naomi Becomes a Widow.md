@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Naomi Becomes a Widow
+type: Pericope
 pericope: "[[Ruth.1.1 Naomi Becomes a Widow|Naomi Becomes a Widow]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Ruth
 chapter: 1
 book/chapter: "[[Ruth.1|Ruth 1]]"
-genre:
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
 - narrative
 - short story
 - idyllic narrative
 - megillot
+verse_count: 5
 verses:
 - "[[Ruth.1.1]]"
 - "[[Ruth.1.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Ruth.1.5]]"
 ---
 
-[[Ruth.1|Ruth 1:1 - Ruth 1:5]]
+<small>[[Ruth.1|Ruth 1:1-5]]</small>
 *Naomi Becomes a Widow*
 
 [[Ruth.1.1|1]] Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.

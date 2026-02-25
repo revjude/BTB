@@ -1,8 +1,67 @@
+---
+title: Exodus 23:29
+type: Verse
+kjv: "I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee."
+bsb: "I will not drive them out before you in a single year; otherwise the land would become desolate and wild animals would multiply against you."
+hebrew: "לֹ֧א אֲגָרְשֶׁ֛נּוּ מִפָּנֶ֖יךָ בְּשָׁנָ֣ה אֶחָ֑ת פֶּן־ תִּהְיֶ֤ה הָאָ֙רֶץ֙ שְׁמָמָ֔ה וְרַבָּ֥ה עָלֶ֖יךָ חַיַּ֥ת הַשָּׂדֶֽה׃"
+pericope: "[[Exod.23.20 God’s Angel to Lead|God’s Angel to Lead]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3808]]"
+- "[[H1644G]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0259]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8077A]]"
+- "[[H9001]]"
+- "[[H7231]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H2416C]]"
+- "[[H7704I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:29**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will not drive them out from before thee in one year; lest the land become desolate, and the beast of the field multiply against thee.
 <small><sub>**BSB:**</sub></small>
 I will not drive them out before you in a single year; otherwise the land would become desolate and wild animals would multiply against you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֧א]] [[H1644G\|אֲגָרְשֶׁ֛]][[H9033\|נּוּ]] [[H9006\|מִ]][[H6440G\|פָּנֶ֖י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H8141\|שָׁנָ֣ה]] [[H0259\|אֶחָ֑ת]] [[H6435\|פֶּן]][[H9014\|־]] [[H1961\|תִּהְיֶ֤ה]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H8077A\|שְׁמָמָ֔ה]] [[H9001\|וְ]][[H7231\|רַבָּ֥ה]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הַ]][[H7704I\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.28|<< Exodus 23:28]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.30|Exodus 23:30 >>]]</td></tr></table>
 

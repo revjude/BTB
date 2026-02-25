@@ -1,8 +1,53 @@
+---
+title: Job 28:8
+type: Verse
+kjv: "The lion’s whelps have not trodden it, nor the fierce lion passed by it."
+bsb: "Proud beasts have never trodden it; no lion has ever prowled over it."
+hebrew: "לֹֽא־ הִדְרִיכֻ֥הוּ בְנֵי־ שָׁ֑חַץ לֹֽא־ עָדָ֖ה עָלָ֣יו שָֽׁחַל׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic LION|LION]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1869]]"
+- "[[H9033]]"
+- "[[H1121I]]"
+- "[[H7830]]"
+- "[[H5710A]]"
+- "[[H5921A]]"
+- "[[H7826]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:8**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lion’s whelps have not trodden it, nor the fierce lion passed by it.
 <small><sub>**BSB:**</sub></small>
 Proud beasts have never trodden it; no lion has ever prowled over it.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H1869\|הִדְרִיכֻ֥]][[H9033\|הוּ]] [[H1121I\|בְנֵי]][[H9014\|־]] [[H7830\|שָׁ֑חַץ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5710A\|עָדָ֖ה]] [[H5921A\|עָלָ֣י]][[H9033\|ו]] [[H7826\|שָֽׁחַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENTS|CONTINENTS]] • [[topic LION|LION]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.7|<< Job 28:7]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.9|Job 28:9 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Psalm 44:16
+type: Verse
+kjv: "For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger."
+bsb: "at the voice of the scorner and reviler, because of the enemy, bent on revenge."
+hebrew: "מִ֭קּוֹל מְחָרֵ֣ף וּמְגַדֵּ֑ף מִפְּנֵ֥י א֝וֹיֵ֗ב וּמִתְנַקֵּֽם׃"
+pericope: "[[Ps.44.1 Redeem Us, O God|Redeem Us, O God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 44
+book/chapter: "[[Ps.44|Psalm 44]]"
+chronological_order: 499
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9006]]"
+- "[[H6963H]]"
+- "[[H2778A]]"
+- "[[H9002]]"
+- "[[H1442]]"
+- "[[H6440H]]"
+- "[[H0341]]"
+- "[[H5358]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 44:16**<big><big>[[Ps.44.1 Redeem Us, O God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.
 <small><sub>**BSB:**</sub></small>
 at the voice of the scorner and reviler, because of the enemy, bent on revenge.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ֭]][[H6963H\|קּוֹל]] [[H2778A\|מְחָרֵ֣ף]] [[H9002\|וּ]][[H1442\|מְגַדֵּ֑ף]] [[H9006\|מִ]][[H6440H\|פְּנֵ֥י]] [[H0341\|א֝וֹיֵ֗ב]] [[H9002\|וּ]][[H5358\|מִתְנַקֵּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MURMURING|MURMURING]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.44.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.44.15|<< Psalms 44:15]]</td><td align="center" style="border:none;">[[Ps.44|Psalms 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.44.17|Psalms 44:17 >>]]</td></tr></table>
 

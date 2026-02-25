@@ -1,8 +1,68 @@
+---
+title: Nehemiah 2:5
+type: Verse
+kjv: "And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ sepulchres, that I may build it."
+bsb: "and answered the king, “If it pleases the king, and if your servant has found favor in your sight, I ask that you send me to Judah, to the city where my fathers are buried, so that I may rebuild it.”"
+hebrew: "וָאֹמַ֣ר לַמֶּ֔לֶךְ אִם־ עַל־ הַמֶּ֣לֶךְ ט֔וֹב וְאִם־ יִיטַ֥ב עַבְדְּךָ֖ לְפָנֶ֑יךָ אֲשֶׁ֧ר תִּשְׁלָחֵ֣נִי אֶל־ יְהוּדָ֗ה אֶל־ עִ֛יר קִבְר֥וֹת אֲבֹתַ֖י וְאֶבְנֶֽנָּה׃"
+pericope: "[[Neh.2.1 Nehemiah Sent to Jerusalem|Nehemiah Sent to Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H3190]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H6440G]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H0413]]"
+- "[[H3063G]]"
+- "[[H5892B]]"
+- "[[H6913]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H1129]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 2:5**<big><big>[[Neh.2.1 Nehemiah Sent to Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ sepulchres, that I may build it.
 <small><sub>**BSB:**</sub></small>
 and answered the king, “If it pleases the king, and if your servant has found favor in your sight, I ask that you send me to Judah, to the city where my fathers are buried, so that I may rebuild it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H9005\|לַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0518A\|אִם]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H2896A\|ט֔וֹב]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3190\|יִיטַ֥ב]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֧ר]] [[H7971G\|תִּשְׁלָחֵ֣]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִ֛יר]] [[H6913\|קִבְר֥וֹת]] [[H0001G\|אֲבֹתַ֖]][[H9020\|י]] [[H9002\|וְ]][[H1129\|אֶבְנֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic NEHEMIAH|NEHEMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.4|<< Nehemiah 2:4]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.6|Nehemiah 2:6 >>]]</td></tr></table>
 

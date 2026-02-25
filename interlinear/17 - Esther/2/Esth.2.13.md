@@ -1,8 +1,64 @@
+---
+title: Esther 2:13
+type: Verse
+kjv: "Then thus came every maiden unto the king; whatsoever she desired was given her to go with her out of the house of the women unto the king’s house."
+bsb: "When the young woman would go to the king, she was given whatever she requested to take with her from the harem to the king’s palace."
+hebrew: "וּבָזֶ֕ה הַֽנַּעֲרָ֖ה בָּאָ֣ה אֶל־ הַמֶּ֑לֶךְ אֵת֩ כָּל־ אֲשֶׁ֨ר תֹּאמַ֜ר יִנָּ֤תֵֽן לָהּ֙ לָב֣וֹא עִמָּ֔הּ מִבֵּ֥ית הַנָּשִׁ֖ים עַד־ בֵּ֥ית הַמֶּֽלֶךְ׃"
+pericope: "[[Esth.2.5 Esther Finds Favor|Esther Finds Favor]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H5291]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H5973A]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H0802H]]"
+- "[[H5704]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:13**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then thus came [every] maiden unto the king; whatsoever she desired was given her to go with her out of the house of the women unto the king’s house.
 <small><sub>**BSB:**</sub></small>
 When the young woman would go to the king, she was given whatever she requested to take with her from the harem to the king’s palace.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בָ]][[H2088\|זֶ֕ה]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָ֖ה]] [[H0935G\|בָּאָ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H0853\|אֵת֩]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֨ר]] [[H0559\|תֹּאמַ֜ר]] [[H5414G\|יִנָּ֤תֵֽן]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H9005\|לָ]][[H0935G\|ב֣וֹא]] [[H5973A\|עִמָּ֔]][[H9034\|הּ]] [[H9006\|מִ]][[H1004B\|בֵּ֥ית]] [[H9009\|הַ]][[H0802H\|נָּשִׁ֖ים]] [[H5704\|עַד]][[H9014\|־]] [[H1004B\|בֵּ֥ית]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MARRIAGE|MARRIAGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.12|<< Esther 2:12]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.14|Esther 2:14 >>]]</td></tr></table>
 

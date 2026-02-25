@@ -1,10 +1,65 @@
+---
+title: 2 Corinthians 1:8
+type: Verse
+kjv: "For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:"
+bsb: "We do not want you to be unaware, brothers, of the hardships we encountered in the province of Asia. We were under a burden far beyond our ability to endure, so that we despaired even of life."
+greek: "Οὐ γὰρ θέλομεν ὑμᾶς ἀγνοεῖν, ἀδελφοί, ὑπὲρ τῆς θλίψεως ἡμῶν τῆς γενομένης ἡμῖν ἐν τῇ Ἀσίᾳ ὅτι καθ᾽ ὑπερβολὴν ὑπὲρ δύναμιν ἐβαρήθημεν ὥστε ἐξαπορηθῆναι ἡμᾶς καὶ τοῦ ζῆν·"
+pericope: "[[2Cor.1.3 The God of All Comfort|The God of All Comfort]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G2309]]"
+- "[[G4771]]"
+- "[[G0050]]"
+- "[[G0080]]"
+- "[[G5228]]"
+- "[[G3588]]"
+- "[[G2347]]"
+- "[[G3165]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G0773]]"
+- "[[G3754G]]"
+- "[[G2596]]"
+- "[[G5236]]"
+- "[[G1411]]"
+- "[[G0916]]"
+- "[[G5620]]"
+- "[[G1820]]"
+- "[[G2532]]"
+- "[[G2198]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **2 Corinthians 1:8**<big><big>[[2Cor.1.3 The God of All Comfort|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
 <small><sub>**BSB:**</sub></small>
 We do not want you to be unaware, brothers, of the hardships we encountered in the province of Asia. We were under a burden far beyond our ability to endure, so that we despaired even of life.
-<small><sub>**Literal:**</sub></small>
-Not for do we want you to be ignorant brothers, as to the affliction of us <the> having happened to us in <the> Asia that against excessively beyond [our] power we were weighed so as to despair for us even <the> to live;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.7|<< 2 Corinthians 1:7]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.9|2 Corinthians 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|Οὐ]]  [[G1063\|γὰρ]]  [[G2309\|θέλομεν]]  [[G4771\|ὑμᾶς]]  [[G0050\|ἀγνοεῖν,]]  [[G0080\|ἀδελφοί,]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῆς]]  [[G2347\|θλίψεως]]  [[G3165\|ἡμῶν]]  [[G3588\|τῆς]]  [[G1096\|γενομένης]]  [[G3165\|ἡμῖν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0773\|Ἀσίᾳ]]  [[G3754G\|ὅτι]]  [[G2596\|καθ᾽]]  [[G5236\|ὑπερβολὴν]]  [[G5228\|ὑπὲρ]]  [[G1411\|δύναμιν]]  [[G0916\|ἐβαρήθημεν]]  [[G5620\|ὥστε]]  [[G1820\|ἐξαπορηθῆναι]]  [[G3165\|ἡμᾶς]]  [[G2532\|καὶ]]  [[G3588\|τοῦ]]  [[G2198\|ζῆν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.7|<< 2 Corinthians 1:7]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.9|2 Corinthians 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,65 @@
+---
+title: John 21:11
+type: Verse
+kjv: "Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken."
+bsb: "So Simon Peter went aboard and dragged the net ashore. It was full of large fish, 153, but even with so many, the net was not torn."
+greek: "ἀνέβη οὖν Σίμων Πέτρος καὶ εἵλκυσεν τὸ δίκτυον εἰς τὴν γῆν μεστὸν ἰχθύων μεγάλων ἑκατὸν πεντήκοντα τριῶν· καὶ τοσούτων ὄντων οὐκ ἐσχίσθη τὸ δίκτυον.¶"
+pericope: "[[John.21.1 Jesus Appears by the Sea of Tiberias|Jesus Appears by the Sea of Tiberias]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic NET|NET]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0305]]"
+- "[[G3767]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G1670]]"
+- "[[G3588]]"
+- "[[G1350]]"
+- "[[G1519]]"
+- "[[G1093H]]"
+- "[[G3324]]"
+- "[[G2486]]"
+- "[[G3173]]"
+- "[[G1540]]"
+- "[[G4004]]"
+- "[[G5140]]"
+- "[[G5118]]"
+- "[[G1510]]"
+- "[[G3756]]"
+- "[[G4977]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **John 21:11**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken.
 <small><sub>**BSB:**</sub></small>
 So Simon Peter went aboard and dragged the net ashore. It was full of large fish, 153, but even with so many, the net was not torn.
-<small><sub>**Literal:**</sub></small>
-Went up therefore Simon Peter and drew the net to the land full of fish large a hundred fifty three; although so many there are not was torn the net.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.10|<< John 21:10]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.12|John 21:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0305\|ἀνέβη]]  [[G3767\|οὖν]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G1670\|εἵλκυσεν]]  [[G3588\|τὸ]]  [[G1350\|δίκτυον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093H\|γῆν]]  [[G3324\|μεστὸν]]  [[G2486\|ἰχθύων]]  [[G3173\|μεγάλων]]  [[G1540\|ἑκατὸν]]  [[G4004\|πεντήκοντα]]  [[G5140\|τριῶν·]]  [[G2532\|καὶ]]  [[G5118\|τοσούτων]]  [[G1510\|ὄντων]]  [[G3756\|οὐκ]]  [[G4977\|ἐσχίσθη]]  [[G3588\|τὸ]]  [[G1350\|δίκτυον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic GALILEE|GALILEE]] • [[topic NET|NET]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.10|<< John 21:10]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.12|John 21:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

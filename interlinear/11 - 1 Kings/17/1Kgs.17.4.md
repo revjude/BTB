@@ -1,8 +1,63 @@
+---
+title: 1 Kings 17:4
+type: Verse
+kjv: "And it shall be, that thou shalt drink of the brook; and I have commanded the ravens to feed thee there."
+bsb: "And you are to drink from the brook, and I have commanded the ravens to feed you there.”"
+hebrew: "וְהָיָ֖ה מֵהַנַּ֣חַל תִּשְׁתֶּ֑ה וְאֶת־ הָעֹרְבִ֣ים צִוִּ֔יתִי לְכַלְכֶּלְךָ֖ שָֽׁם׃"
+pericope: "[[1Kgs.17.1 The Ravens Feed Elijah|The Ravens Feed Elijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHERITH|CHERITH]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RAVEN|RAVEN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H5158A]]"
+- "[[H8354]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6158]]"
+- "[[H6680]]"
+- "[[H9005]]"
+- "[[H3557]]"
+- "[[H9031]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:4**<big><big>[[1Kgs.17.1 The Ravens Feed Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, [that] thou shalt drink of the brook; and I have commanded the ravens to feed thee there.
 <small><sub>**BSB:**</sub></small>
 And you are to drink from the brook, and I have commanded the ravens to feed you there.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9006\|מֵ]][[H9009\|הַ]][[H5158A\|נַּ֣חַל]] [[H8354\|תִּשְׁתֶּ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H6158\|עֹרְבִ֣ים]] [[H6680\|צִוִּ֔יתִי]] [[H9005\|לְ]][[H3557\|כַלְכֶּלְ]][[H9031\|ךָ֖]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHERITH|CHERITH]] • [[topic ELIJAH|ELIJAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RAVEN|RAVEN]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.3|<< 1 Kings 17:3]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.5|1 Kings 17:5 >>]]</td></tr></table>
 

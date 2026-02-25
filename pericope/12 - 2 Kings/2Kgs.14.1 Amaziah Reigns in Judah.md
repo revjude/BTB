@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Amaziah Reigns in Judah
+type: Pericope
 pericope: "[[2Kgs.14.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 14
 book/chapter: "[[2Kgs.14|2 Kings 14]]"
-genre:
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.14.1]]"
 - "[[2Kgs.14.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.14.7]]"
 ---
 
-[[2Kgs.14|2 Kings 14:1 - 2 Kings 14:7]]
+<small>[[2Kgs.14|2 Kings 14:1-7]]</small>
 *Amaziah Reigns in Judah*
 
 [[2Kgs.14.1|1]] In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.

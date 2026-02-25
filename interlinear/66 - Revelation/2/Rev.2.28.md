@@ -1,10 +1,58 @@
+---
+title: Revelation 2:28
+type: Verse
+kjv: "And I will give him the morning star."
+bsb: "And I will give him the morning star."
+jesus_said: "And I will give him the morning star."
+greek: "ὡς κἀγὼ κἀγὼ εἴληφα παρὰ τοῦ πατρός μου. καὶ δώσω αὐτῷ τὸν ἀστέρα τὸν πρωϊνόν."
+pericope: "[[Rev.2.18 To the Church in Thyatira|To the Church in Thyatira]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 2
+book/chapter: "[[Rev.2|Revelation 2]]"
+chronological_order: 1169
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic STARS|STARS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G5613]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3844]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G0792]]"
+- "[[G4407]]"
+texts:
+- NKO
+---
+
 **Revelation 2:28**<big><big>[[Rev.2.18 To the Church in Thyatira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I will give him the morning star.
 <small><sub>**BSB:**</sub></small>
 And I will give him the morning star.
-<small><sub>**Literal:**</sub></small>
-just as I myself also have received from the Father of Mine. [28] And I will give to him the star <the> morning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.27|<< Revelation 2:27]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.29|Revelation 2:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2983\|εἴληφα]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου.]]  [[G2532\|καὶ]]  [[G1325\|δώσω]]  [[G0846\|αὐτῷ]]  [[G3588\|τὸν]]  [[G0792\|ἀστέρα]]  [[G3588\|τὸν]]  [[G4407\|πρωϊνόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic STARS|STARS]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.2.27|<< Revelation 2:27]]</td><td align="center" style="border:none;">[[Rev.2|Revelation 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.29|Revelation 2:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

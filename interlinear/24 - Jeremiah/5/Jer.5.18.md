@@ -1,8 +1,57 @@
+---
+title: Jeremiah 5:18
+type: Verse
+kjv: "Nevertheless in those days, saith the LORD, I will not make a full end with you."
+bsb: "“Yet even in those days,” declares the LORD, “I will not make a full end of you."
+hebrew: "וְגַ֛ם בַּיָּמִ֥ים הָהֵ֖מָּה נְאֻם־ יְהֹוָ֑ה לֹֽא־ אֶעֱשֶׂ֥ה אִתְּכֶ֖ם כָּלָֽה׃"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H6213H]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H3617]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:18**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless in those days, saith the LORD, I will not make a full end with you.
 <small><sub>**BSB:**</sub></small>
 “Yet even in those days,” declares the LORD, “I will not make a full end of you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֛ם]] [[H9003\|בַּ]][[H3117G\|יָּמִ֥ים]] [[H9009\|הָ]][[H1992\|הֵ֖מָּה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהֹוָ֑ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6213H\|אֶעֱשֶׂ֥ה]] [[H0854\|אִתְּ]][[H9036\|כֶ֖ם]] [[H3617\|כָּלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.17|<< Jeremiah 5:17]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.19|Jeremiah 5:19 >>]]</td></tr></table>
 

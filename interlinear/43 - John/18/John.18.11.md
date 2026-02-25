@@ -1,10 +1,66 @@
+---
+title: John 18:11
+type: Verse
+kjv: "Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?"
+bsb: "“Put your sword back in its sheath!” Jesus said to Peter. “Shall I not drink the cup the Father has given Me?”"
+jesus_said: "Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?"
+greek: "Εἶπεν οὖν ὁ Ἰησοῦς τῷ Πέτρῳ· βάλε τὴν μάχαιραν σου εἰς τὴν θήκην. τὸ ποτήριον ὃ δέδωκέν μοι ὁ πατὴρ οὐ μὴ πίω αὐτό;¶"
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CUP|CUP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4074G]]"
+- "[[G0906H]]"
+- "[[G3162]]"
+- "[[G4771]]"
+- "[[G1519]]"
+- "[[G2336]]"
+- "[[G4221]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G3962]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G4095]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **John 18:11**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?
 <small><sub>**BSB:**</sub></small>
 “Put your sword back in its sheath!” Jesus said to Peter. “Shall I not drink the cup the Father has given Me?”
-<small><sub>**Literal:**</sub></small>
-Said therefore <the> Jesus <the> to Peter; do put the sword of you into the sheath. The cup which has given Me the Father certainly surely shall I drink it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.10|<< John 18:10]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.12|John 18:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τῷ]]  [[G4074G\|Πέτρῳ·]]  [[G0906H\|βάλε]]  [[G3588\|τὴν]]  [[G3162\|μάχαιραν]]  [[G4771\|σου]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2336\|θήκην.]]  [[G3588\|τὸ]]  [[G4221\|ποτήριον]]  [[G3739\|ὃ]]  [[G1325\|δέδωκέν]]  [[G3165\|μοι]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G4095\|πίω]]  [[G0846\|αὐτό;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CUP|CUP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRISONERS|PRISONERS]] • [[topic RESIGNATION|RESIGNATION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.10|<< John 18:10]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.12|John 18:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

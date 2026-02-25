@@ -1,8 +1,66 @@
+---
+title: Isaiah 14:20
+type: Verse
+kjv: "Thou shalt not be joined with them in burial, because thou hast destroyed thy land, and slain thy people: the seed of evildoers shall never be renowned."
+bsb: "You will not join them in burial, since you have destroyed your land and slaughtered your own people. The offspring of the wicked will never again be mentioned."
+hebrew: "לֹֽא־ תֵחַ֤ד אִתָּם֙ בִּקְבוּרָ֔ה כִּֽי־ אַרְצְךָ֥ שִׁחַ֖תָּ עַמְּךָ֣ הָרָ֑גְתָּ לֹֽא־ יִקָּרֵ֥א לְעוֹלָ֖ם זֶ֥רַע מְרֵעִֽים׃"
+pericope: "[[Isa.14.3 The Fall of the King of Babylon|The Fall of the King of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3161]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H6900]]"
+- "[[H3588A]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H7843]]"
+- "[[H5971A]]"
+- "[[H2026]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H2233H]]"
+- "[[H7489A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 14:20**<big><big>[[Isa.14.3 The Fall of the King of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not be joined with them in burial, because thou hast destroyed thy land, [and] slain thy people: the seed of evildoers shall never be renowned.
 <small><sub>**BSB:**</sub></small>
 You will not join them in burial, since you have destroyed your land and slaughtered your own people. The offspring of the wicked will never again be mentioned.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H3161\|תֵחַ֤ד]] [[H0854\|אִתָּ]][[H9038\|ם֙]] [[H9003\|בִּ]][[H6900\|קְבוּרָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0776G\|אַרְצְ]][[H9021\|ךָ֥]] [[H7843\|שִׁחַ֖תָּ]] [[H5971A\|עַמְּ]][[H9021\|ךָ֣]] [[H2026\|הָרָ֑גְתָּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7121H\|יִקָּרֵ֥א]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H2233H\|זֶ֥רַע]] [[H7489A\|מְרֵעִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CHILDREN|CHILDREN]] • [[topic HEREDITY|HEREDITY]] • [[topic ISAIAH|ISAIAH]] • [[topic PARENTS|PARENTS]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.19|<< Isaiah 14:19]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.21|Isaiah 14:21 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Exodus 38:7
+type: Verse
+kjv: "And he put the staves into the rings on the sides of the altar, to bear it withal; he made the altar hollow with boards."
+bsb: "Then he inserted the poles into the rings on the sides of the altar for carrying it. He made the altar with boards so that it was hollow."
+hebrew: "וַיָּבֵ֨א אֶת־ הַבַּדִּ֜ים בַּטַּבָּעֹ֗ת עַ֚ל צַלְעֹ֣ת הַמִּזְבֵּ֔חַ לָשֵׂ֥את אֹת֖וֹ בָּהֶ֑ם נְב֥וּב לֻחֹ֖ת עָשָׂ֥ה אֹתֽוֹ׃ ס"
+pericope: "[[Exod.38.1 The Bronze Altar|The Bronze Altar]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0905G]]"
+- "[[H9003]]"
+- "[[H2885]]"
+- "[[H5921A]]"
+- "[[H6763]]"
+- "[[H4196]]"
+- "[[H9005]]"
+- "[[H5375H]]"
+- "[[H9033]]"
+- "[[H9038]]"
+- "[[H5014]]"
+- "[[H3871]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 38:7**<big><big>[[Exod.38.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he put the staves into the rings on the sides of the altar, to bear it withal; he made the altar hollow with boards.
 <small><sub>**BSB:**</sub></small>
 Then he inserted the poles into the rings on the sides of the altar for carrying it. He made the altar with boards so that it was hollow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֨א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H0905G\|בַּדִּ֜ים]] [[H9003\|בַּ]][[H2885\|טַּבָּעֹ֗ת]] [[H5921A\|עַ֚ל]] [[H6763\|צַלְעֹ֣ת]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9005\|לָ]][[H5375H\|שֵׂ֥את]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9003\|בָּ]][[H9038\|הֶ֑ם]] [[H5014\|נְב֥וּב]] [[H3871\|לֻחֹ֖ת]] [[H6213H\|עָשָׂ֥ה]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic BEZALEL|BEZALEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.6|<< Exodus 38:6]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.8|Exodus 38:8 >>]]</td></tr></table>
 
@@ -21,7 +80,7 @@ Then he inserted the poles into the rings on the sides of the altar for carrying
 | hollow of  |**<big>&#8207;[[H5014\|נְב֥וּב]]&#8207; </big>**| ne.Vuv<small><sup>[[HVqsmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | boards  |**<big>&#8207;[[H3871\|לֻחֹ֖ת]]&#8207; </big>**| lu.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he made  |**<big>&#8207;[[H6213H\|עָשָׂ֥ה]]&#8207; </big>**| 'a.Sah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  |**<big>&#8207;[[H0853\|אֹתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אֹתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.6|<< Exodus 38:6]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.8|Exodus 38:8 >>]]</td></tr></table>
 
 

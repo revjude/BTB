@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 30:3
+type: Verse
+kjv: "That then the LORD thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the LORD thy God hath scattered thee."
+bsb: "then He will restore you from captivity and have compassion on you and gather you from all the nations to which the LORD your God has scattered you."
+hebrew: "וְשָׁ֨ב יְהוָ֧ה אֱלֹהֶ֛יךָ אֶת־ שְׁבוּתְךָ֖ וְרִחֲמֶ֑ךָ וְשָׁ֗ב וְקִבֶּצְךָ֙ מִכָּל־ הָ֣עַמִּ֔ים אֲשֶׁ֧ר הֱפִֽיצְךָ֛ יְהוָ֥ה אֱלֹהֶ֖יךָ שָֽׁמָּה׃"
+pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725H]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7622]]"
+- "[[H7355]]"
+- "[[H9031]]"
+- "[[H7725J]]"
+- "[[H6908]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H6327A]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:3**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That then the LORD thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the LORD thy God hath scattered thee.
 <small><sub>**BSB:**</sub></small>
 then He will restore you from captivity and have compassion on you and gather you from all the nations to which the LORD your God has scattered you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725H\|שָׁ֨ב]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H7622\|שְׁבוּתְ]][[H9021\|ךָ֖]] [[H9001\|וְ]][[H7355\|רִחֲמֶ֑]][[H9031\|ךָ]] [[H9001\|וְ]][[H7725J\|שָׁ֗ב]] [[H9001\|וְ]][[H6908\|קִבֶּצְ]][[H9031\|ךָ֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H5971A\|עַמִּ֔ים]] [[H0834A\|אֲשֶׁ֧ר]] [[H6327A\|הֱפִֽיצְ]][[H9031\|ךָ֛]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.2|<< Deuteronomy 30:2]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.4|Deuteronomy 30:4 >>]]</td></tr></table>
 

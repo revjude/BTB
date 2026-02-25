@@ -1,8 +1,51 @@
+---
+title: Amos 5:7
+type: Verse
+kjv: "Ye who turn judgment to wormwood, and leave off righteousness in the earth,"
+bsb: "There are those who turn justice into wormwood and cast righteousness to the ground."
+hebrew: "הַהֹפְכִ֥ים לְלַעֲנָ֖ה מִשְׁפָּ֑ט וּצְדָקָ֖ה לָאָ֥רֶץ הִנִּֽיחוּ׃"
+pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic JUSTICE|JUSTICE]]"
+strongs:
+- "[[H9009]]"
+- "[[H2015]]"
+- "[[H9005]]"
+- "[[H3939]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H0776G]]"
+- "[[H5117]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:7**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye who turn judgment to wormwood, and leave off righteousness in the earth,
 <small><sub>**BSB:**</sub></small>
 There are those who turn justice into wormwood and cast righteousness to the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H2015\|הֹפְכִ֥ים]] [[H9005\|לְ]][[H3939\|לַעֲנָ֖ה]] [[H4941H\|מִשְׁפָּ֑ט]] [[H9002\|וּ]][[H6666\|צְדָקָ֖ה]] [[H9005\|לָ]][[H0776G\|אָ֥רֶץ]] [[H5117\|הִנִּֽיחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUSTICE|JUSTICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.6|<< Amos 5:6]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.8|Amos 5:8 >>]]</td></tr></table>
 

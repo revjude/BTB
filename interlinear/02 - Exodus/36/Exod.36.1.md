@@ -1,8 +1,76 @@
+---
+title: Exodus 36:1
+type: Verse
+kjv: "Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded."
+bsb: "“So Bezalel, Oholiab, and every skilled person are to carry out everything commanded by the LORD, who has given them skill and ability to know how to perform all the work of constructing the sanctuary.”"
+hebrew: "וְעָשָׂה֩ בְצַלְאֵ֨ל וְאָהֳלִיאָ֜ב וְכֹ֣ל׀ אִ֣ישׁ חֲכַם־ לֵ֗ב אֲשֶׁר֩ נָתַ֨ן יְהוָ֜ה חָכְמָ֤ה וּתְבוּנָה֙ בָּהֵ֔מָּה לָדַ֣עַת לַעֲשֹׂ֔ת אֶֽת־ כָּל־ מְלֶ֖אכֶת עֲבֹדַ֣ת הַקֹּ֑דֶשׁ לְכֹ֥ל אֲשֶׁר־ צִוָּ֖ה יְהוָֽה׃"
+pericope: "[[Exod.36.1 The People Bring More than Enough|The People Bring More than Enough]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AHOLIAB|AHOLIAB]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic GENIUS|GENIUS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H1212G]]"
+- "[[H9002]]"
+- "[[H0171]]"
+- "[[H3605]]"
+- "[[H9015]]"
+- "[[H0376G]]"
+- "[[H2450]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H3068G]]"
+- "[[H2451]]"
+- "[[H8394]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H4399]]"
+- "[[H5656I]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:1**<big><big>[[Exod.36.1 The People Bring More than Enough|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the LORD put wisdom and understanding to know how to work all manner of work for the service of the sanctuary, according to all that the LORD had commanded.
 <small><sub>**BSB:**</sub></small>
 “So Bezalel, Oholiab, and every skilled person are to carry out everything commanded by the LORD, who has given them skill and ability to know how to perform all the work of constructing the sanctuary.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213A\|עָשָׂה֩]] [[H1212G\|בְצַלְאֵ֨ל]] [[H9002\|וְ]][[H0171\|אָהֳלִיאָ֜ב]] [[H9002\|וְ]][[H3605\|כֹ֣ל]][[H9015\|׀]] [[H0376G\|אִ֣ישׁ]] [[H2450\|חֲכַם]][[H9014\|־]] [[H3820A\|לֵ֗ב]] [[H0834A\|אֲשֶׁר֩]] [[H5414H\|נָתַ֨ן]] [[H3068G\|יְהוָ֜ה]] [[H2451\|חָכְמָ֤ה]] [[H9002\|וּ]][[H8394\|תְבוּנָה֙]] [[H9003\|בָּ]][[H9038\|הֵ֔מָּה]] [[H9005\|לָ]][[H3045\|דַ֣עַת]] [[H9005\|לַ]][[H6213A\|עֲשֹׂ֔ת]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֖אכֶת]] [[H5656I\|עֲבֹדַ֣ת]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H9005\|לְ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֖ה]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHOLIAB|AHOLIAB]] • [[topic BEZALEL|BEZALEL]] • [[topic GENIUS|GENIUS]] • [[topic ISRAEL|ISRAEL]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.35|<< Exodus 35:35]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.2|Exodus 36:2 >>]]</td></tr></table>
 

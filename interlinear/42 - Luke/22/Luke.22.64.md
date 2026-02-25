@@ -1,10 +1,62 @@
+---
+title: Luke 22:64
+type: Verse
+kjv: "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?"
+bsb: "They blindfolded Him and kept demanding, “Prophesy! Who hit You?”"
+greek: "καὶ περικαλύψαντες αὐτὸν ἔτυπτον αὐτοῦ τὸ πρόσωπον καὶ ἐπηρώτων αὐτόν λέγοντες· προφήτευσον, τίς ἐστιν ὁ παίσας σε;"
+pericope: "[[Luke.22.63 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[G2532]]"
+- "[[G4028]]"
+- "[[G0846]]"
+- "[[G5180]]"
+- "[[G3588]]"
+- "[[G4383]]"
+- "[[G1905]]"
+- "[[G3004G]]"
+- "[[G4395]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3817]]"
+- "[[G4771]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 22:64**<big><big>[[Luke.22.63 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?
 <small><sub>**BSB:**</sub></small>
 They blindfolded Him and kept demanding, “Prophesy! Who hit You?”
-<small><sub>**Literal:**</sub></small>
-And having blindfolded Him they were striking of him <the> face and they were questioning him saying; do prophesy, who is the [one] having struck You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.63|<< Luke 22:63]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.65|Luke 22:65 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4028\|περικαλύψαντες]]  [[G0846\|αὐτὸν]]  [[G5180\|ἔτυπτον]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G2532\|καὶ]]  [[G1905\|ἐπηρώτων]]  [[G0846\|αὐτόν]]  [[G3004G\|λέγοντες·]]  [[G4395\|προφήτευσον,]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3817\|παίσας]]  [[G4771\|σε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic CRUELTY|CRUELTY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SCOFFING|SCOFFING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.63|<< Luke 22:63]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.65|Luke 22:65 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

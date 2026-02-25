@@ -1,10 +1,66 @@
+---
+title: Acts 16:31
+type: Verse
+kjv: "And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house."
+bsb: "They replied, “Believe in the Lord Jesus and you will be saved, you and your household.”"
+greek: "οἱ δὲ εἶπαν· πίστευσον ἐπὶ τὸν κύριον Ἰησοῦν Χριστόν, καὶ σωθήσῃ σὺ καὶ ὁ οἶκός σου."
+pericope: "[[Acts.16.25 The Conversion of the Jailer|The Conversion of the Jailer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JAILER (JAILOR)|JAILER (JAILOR)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G4982]]"
+- "[[G4771]]"
+- "[[G3624H]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 16:31**<big><big>[[Acts.16.25 The Conversion of the Jailer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said, Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house.
 <small><sub>**BSB:**</sub></small>
 They replied, “Believe in the Lord Jesus and you will be saved, you and your household.”
-<small><sub>**Literal:**</sub></small>
-<the> And they said; do believe on the Lord Jesus Christ and will be saved you yourself and the household of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.30|<< Acts 16:30]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.32|Acts 16:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν·]]  [[G4100\|πίστευσον]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G2424G\|Ἰησοῦν]]  [[G5547\|Χριστόν,]]  [[G2532\|καὶ]]  [[G4982\|σωθήσῃ]]  [[G4771\|σὺ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3624H\|οἶκός]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic CRIMINALS|CRIMINALS]] • [[topic FAITH|FAITH]] • [[topic FAMILY|FAMILY]] • [[topic GOD|GOD]] • [[topic JAILER (JAILOR)|JAILER (JAILOR)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SALVATION|SALVATION]] • [[topic SILAS|SILAS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.30|<< Acts 16:30]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.32|Acts 16:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

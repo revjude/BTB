@@ -1,8 +1,71 @@
+---
+title: Joshua 7:11
+type: Verse
+kjv: "Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put it even among their own stuff."
+bsb: "Israel has sinned; they have transgressed My covenant that I commanded them, and they have taken some of what was devoted to destruction. Indeed, they have stolen and lied, and they have put these things with their own possessions."
+hebrew: "חָטָא֙ יִשְׂרָאֵ֔ל וְגַם֙ עָבְר֣וּ אֶת־ בְּרִיתִ֔י אֲשֶׁ֥ר צִוִּ֖יתִי אוֹתָ֑ם וְגַ֤ם לָֽקְחוּ֙ מִן־ הַחֵ֔רֶם וְגַ֤ם גָּֽנְבוּ֙ וְגַ֣ם כִּֽחֲשׁ֔וּ וְגַ֖ם שָׂ֥מוּ בִכְלֵיהֶֽם׃"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMERGENCY|EMERGENCY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H2398]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H5674D]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9038]]"
+- "[[H3947G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H2764A]]"
+- "[[H1589]]"
+- "[[H3584]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H3627]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:11**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put [it] even among their own stuff.
 <small><sub>**BSB:**</sub></small>
 Israel has sinned; they have transgressed My covenant that I commanded them, and they have taken some of what was devoted to destruction. Indeed, they have stolen and lied, and they have put these things with their own possessions.
+<small><sub>**Hebrew:**</sub></small>
+[[H2398\|חָטָא֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9002\|וְ]][[H1571\|גַם֙]] [[H5674D\|עָבְר֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֔]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוִּ֖יתִי]] [[H0853\|אוֹתָ֑]][[H9038\|ם]] [[H9002\|וְ]][[H1571\|גַ֤ם]] [[H3947G\|לָֽקְחוּ֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H2764A\|חֵ֔רֶם]] [[H9002\|וְ]][[H1571\|גַ֤ם]] [[H1589\|גָּֽנְבוּ֙]] [[H9002\|וְ]][[H1571\|גַ֣ם]] [[H3584\|כִּֽחֲשׁ֔וּ]] [[H9002\|וְ]][[H1571\|גַ֖ם]] [[H7760H\|שָׂ֥מוּ]] [[H9003\|בִ]][[H3627\|כְלֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic COMMUNION|COMMUNION]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EMERGENCY|EMERGENCY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic SIN|SIN]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.10|<< Joshua 7:10]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.12|Joshua 7:12 >>]]</td></tr></table>
 

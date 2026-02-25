@@ -1,8 +1,55 @@
+---
+title: Ezekiel 41:9
+type: Verse
+kjv: "The thickness of the wall, which was for the side chamber without, was five cubits: and that which was left was the place of the side chambers that were within."
+bsb: "The outer wall of the side rooms was five cubits thick, and the open area between the side rooms of the temple"
+hebrew: "רֹ֣חַב הַקִּ֧יר אֲֽשֶׁר־ לַצֵּלָ֛ע אֶל־ הַח֖וּץ חָמֵ֣שׁ אַמּ֑וֹת וַאֲשֶׁ֣ר מֻנָּ֔ח בֵּ֥ית צְלָע֖וֹת אֲשֶׁ֥ר לַבָּֽיִת׃"
+pericope: "[[Ezek.41.5 Outside the Temple|Outside the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 41
+book/chapter: "[[Ezek.41|Ezekiel 41]]"
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H7341]]"
+- "[[H9009]]"
+- "[[H7023]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H6763]]"
+- "[[H0413]]"
+- "[[H2351]]"
+- "[[H2568]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H5117]]"
+- "[[H1004A]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 41:9**<big><big>[[Ezek.41.5 Outside the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The thickness of the wall, which [was] for the side chamber without, [was] five cubits: and [that] which [was] left [was] the place of the side chambers that [were] within.
 <small><sub>**BSB:**</sub></small>
 The outer wall of the side rooms was five cubits thick, and the open area between the side rooms of the temple
+<small><sub>**Hebrew:**</sub></small>
+[[H7341\|רֹ֣חַב]] [[H9009\|הַ]][[H7023\|קִּ֧יר]] [[H0834A\|אֲֽשֶׁר]][[H9014\|־]] [[H9005\|לַ]][[H6763\|צֵּלָ֛ע]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2351\|ח֖וּץ]] [[H2568\|חָמֵ֣שׁ]] [[H0520A\|אַמּ֑וֹת]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֣ר]] [[H5117\|מֻנָּ֔ח]] [[H1004A\|בֵּ֥ית]] [[H6763\|צְלָע֖וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.41.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.41.8|<< Ezekiel 41:8]]</td><td align="center" style="border:none;">[[Ezek.41|Ezekiel 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.41.10|Ezekiel 41:10 >>]]</td></tr></table>
 

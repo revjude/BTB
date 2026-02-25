@@ -1,10 +1,51 @@
+---
+title: Acts 24:3
+type: Verse
+kjv: "We accept it always, and in all places, most noble Felix, with all thankfulness."
+bsb: "In every way and everywhere, most excellent Felix, we acknowledge this with all gratitude."
+greek: "πάντῃ τε καὶ πανταχοῦ ἀποδεχόμεθα, κράτιστε Φῆλιξ, μετὰ πάσης εὐχαριστίας."
+pericope: "[[Acts.24.1 Tertullus Prosecutes Paul|Tertullus Prosecutes Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 24
+book/chapter: "[[Acts.24|Acts 24]]"
+chronological_order: 1106
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ADVOCATE|ADVOCATE]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3839]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G3837]]"
+- "[[G0588]]"
+- "[[G2903]]"
+- "[[G5344]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G2169]]"
+texts:
+- NKO
+---
+
 **Acts 24:3**<big><big>[[Acts.24.1 Tertullus Prosecutes Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We accept [it] always, and in all places, most noble Felix, with all thankfulness.
 <small><sub>**BSB:**</sub></small>
 In every way and everywhere, most excellent Felix, we acknowledge this with all gratitude.
-<small><sub>**Literal:**</sub></small>
-in every way both and everywhere we gladly accept [it], most excellent Felix, with all thankfulness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.2|<< Acts 24:2]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.4|Acts 24:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3839\|πάντῃ]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G3837\|πανταχοῦ]]  [[G0588\|ἀποδεχόμεθα,]]  [[G2903\|κράτιστε]]  [[G5344\|Φῆλιξ,]]  [[G3326\|μετὰ]]  [[G3956\|πάσης]]  [[G2169\|εὐχαριστίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADVOCATE|ADVOCATE]] • [[topic FLATTERY|FLATTERY]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.24.2|<< Acts 24:2]]</td><td align="center" style="border:none;">[[Acts.24|Acts 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.24.4|Acts 24:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

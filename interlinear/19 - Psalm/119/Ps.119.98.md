@@ -1,8 +1,58 @@
+---
+title: Psalm 119:98
+type: Verse
+kjv: "Thou through thy commandments hast made me wiser than mine enemies: for they are ever with me."
+bsb: "Your commandments make me wiser than my enemies, for they are always with me."
+hebrew: "מֵ֭אֹ֣יְבַי תְּחַכְּמֵ֣נִי מִצְוֹתֶ֑ךָ כִּ֖י לְעוֹלָ֣ם הִיא־ לִֽי׃"
+pericope: "[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|Your Word Is a Lamp to My Feet - MEM]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MEDITATION|MEDITATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9006]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H2449]]"
+- "[[H9030]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:98**<big><big>[[Ps.119.97 Your Word Is a Lamp to My Feet - MEM|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou through thy commandments hast made me wiser than mine enemies: for they [are] ever with me.
 <small><sub>**BSB:**</sub></small>
 Your commandments make me wiser than my enemies, for they are always with me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מֵ֭]][[H0341\|אֹ֣יְבַ]][[H9020\|י]] [[H2449\|תְּחַכְּמֵ֣]][[H9030\|נִי]] [[H4687\|מִצְוֹתֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H5769G\|עוֹלָ֣ם]] [[H1931\|הִיא]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic MEDITATION|MEDITATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.98|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.97|<< Psalms 119:97]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.99|Psalms 119:99 >>]]</td></tr></table>
 

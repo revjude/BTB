@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 31:10
+type: Verse
+kjv: "And they put his armour in the house of Ashtaroth: and they fastened his body to the wall of Bethshan."
+bsb: "They put his armor in the temple of the Ashtoreths and hung his body on the wall of Beth-shan."
+hebrew: "וַיָּשִׂ֙מוּ֙ אֶת־ כֵּלָ֔יו בֵּ֖ית עַשְׁתָּר֑וֹת וְאֶת־ גְּוִיָּתוֹ֙ תָּקְע֔וּ בְּחוֹמַ֖ת בֵּ֥ית שָֽׁן׃"
+pericope: "[[1Sam.31.7 The Philistines Possess the Towns|The Philistines Possess the Towns]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 31
+book/chapter: "[[1Sam.31|1 Samuel 31]]"
+chronological_order: 310
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASHTORETH|ASHTORETH]]"
+- "[[topic BETH-SHEAN|BETH-SHEAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TROPHIES|TROPHIES]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H1004Q]]"
+- "[[H6252G]]"
+- "[[H9002]]"
+- "[[H1472]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H2346G]]"
+- "[[H1052]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 31:10**<big><big>[[1Sam.31.7 The Philistines Possess the Towns|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they put his armour in the house of Ashtaroth: and they fastened his body to the wall of Bethshan.
 <small><sub>**BSB:**</sub></small>
 They put his armor in the temple of the Ashtoreths and hung his body on the wall of Beth-shan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7760H\|יָּשִׂ֙מוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3627\|כֵּלָ֔י]][[H9023\|ו]] [[H1004Q\|בֵּ֖ית]] [[H6252G\|עַשְׁתָּר֑וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1472\|גְּוִיָּת]][[H9023\|וֹ֙]] [[H8628\|תָּקְע֔וּ]] [[H9003\|בְּ]][[H2346G\|חוֹמַ֖ת]] [[H1052\|בֵּ֥ית]] [[H1052\|שָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHTORETH|ASHTORETH]] • [[topic BETH-SHEAN|BETH-SHEAN]] • [[topic TEMPLE|TEMPLE]] • [[topic TROPHIES|TROPHIES]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.31.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.31.9|<< 1 Samuel 31:9]]</td><td align="center" style="border:none;">[[1Sam.31|1 Samuel 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.31.11|1 Samuel 31:11 >>]]</td></tr></table>
 

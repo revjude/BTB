@@ -1,10 +1,57 @@
+---
+title: Hebrews 4:5
+type: Verse
+kjv: "And in this place again, If they shall enter into my rest."
+bsb: "And again, as He says in the passage above: “They shall never enter My rest.”"
+greek: "καὶ ἐν τούτῳ πάλιν· εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου."
+pericope: "[[Heb.4.1 The Sabbath Rest|The Sabbath Rest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REST|REST]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G3825]]"
+- "[[G1487H]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2663]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Hebrews 4:5**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in this [place] again, If they shall enter into my rest.
 <small><sub>**BSB:**</sub></small>
 And again, as He says in the passage above: “They shall never enter My rest.”
-<small><sub>**Literal:**</sub></small>
-And in this [passage] again; [Not] will they enter into the rest of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.4|<< Hebrews 4:4]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.6|Hebrews 4:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G3825\|πάλιν·]]  [[G1487H\|εἰ]]  [[G1525\|εἰσελεύσονται]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2663\|κατάπαυσίν]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic REGENERATION|REGENERATION]] • [[topic REST|REST]] • [[topic SALVATION|SALVATION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.4|<< Hebrews 4:4]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.6|Hebrews 4:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 4:5** is...
 > $\quad$ referencing: [[LXX.Ps.95.11|Ps 95:11]]

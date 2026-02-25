@@ -1,8 +1,60 @@
+---
+title: Genesis 9:22
+type: Verse
+kjv: "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without."
+bsb: "And Ham, the father of Canaan, saw his father’s nakedness and told his two brothers outside."
+hebrew: "וַיַּ֗רְא חָ֚ם אֲבִ֣י כְנַ֔עַן אֵ֖ת עֶרְוַ֣ת אָבִ֑יו וַיַּגֵּ֥ד לִשְׁנֵֽי־ אֶחָ֖יו בַּחֽוּץ׃"
+pericope: "[[Gen.9.18 Noah’s Shame and Canaan’s Curse|Noah’s Shame and Canaan’s Curse]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic HAM|HAM]]"
+- "[[topic NOAH|NOAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H2526G]]"
+- "[[H0001G]]"
+- "[[H3667G]]"
+- "[[H0853]]"
+- "[[H6172]]"
+- "[[H9023]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9003]]"
+- "[[H2351]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:22**<big><big>[[Gen.9.18 Noah’s Shame and Canaan’s Curse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without.
 <small><sub>**BSB:**</sub></small>
 And Ham, the father of Canaan, saw his father’s nakedness and told his two brothers outside.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּ֗רְא]] [[H2526G\|חָ֚ם]] [[H0001G\|אֲבִ֣י]] [[H3667G\|כְנַ֔עַן]] [[H0853\|אֵ֖ת]] [[H6172\|עֶרְוַ֣ת]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H5046\|יַּגֵּ֥ד]] [[H9005\|לִ]][[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H0251G\|אֶחָ֖י]][[H9023\|ו]] [[H9003\|בַּ]][[H2351\|חֽוּץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAM|HAM]] • [[topic NOAH|NOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.21|<< Genesis 9:21]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.23|Genesis 9:23 >>]]</td></tr></table>
 

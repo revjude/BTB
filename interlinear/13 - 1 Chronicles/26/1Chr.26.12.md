@@ -1,8 +1,56 @@
+---
+title: 1 Chronicles 26:12
+type: Verse
+kjv: "Among these were the divisions of the porters, even among the chief men, having wards one against another, to minister in the house of the LORD."
+bsb: "These divisions of the gatekeepers, through their chief men, had duties for ministering in the house of the LORD, just as their relatives did."
+hebrew: "לְ֠אֵלֶּה מַחְלְק֨וֹת הַשֹּֽׁעֲרִ֜ים לְרָאשֵׁ֧י הַגְּבָרִ֛ים מִשְׁמָר֖וֹת לְעֻמַּ֣ת אֲחֵיהֶ֑ם לְשָׁרֵ֖ת בְּבֵ֥ית יְהוָֽה׃"
+pericope: "[[1Chr.26.1 The Divisions of the Gatekeepers|The Divisions of the Gatekeepers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H9005]]"
+- "[[H0428]]"
+- "[[H4256]]"
+- "[[H9009]]"
+- "[[H7778]]"
+- "[[H7218H]]"
+- "[[H1397]]"
+- "[[H4931]]"
+- "[[H5980]]"
+- "[[H0251H]]"
+- "[[H9028]]"
+- "[[H8334]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:12**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Among these [were] the divisions of the porters, [even] among the chief men, [having] wards one against another, to minister in the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 These divisions of the gatekeepers, through their chief men, had duties for ministering in the house of the LORD, just as their relatives did.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ֠]][[H0428\|אֵלֶּה]] [[H4256\|מַחְלְק֨וֹת]] [[H9009\|הַ]][[H7778\|שֹּֽׁעֲרִ֜ים]] [[H9005\|לְ]][[H7218H\|רָאשֵׁ֧י]] [[H9009\|הַ]][[H1397\|גְּבָרִ֛ים]] [[H4931\|מִשְׁמָר֖וֹת]] [[H9005\|לְ]][[H5980\|עֻמַּ֣ת]] [[H0251H\|אֲחֵי]][[H9028\|הֶ֑ם]] [[H9005\|לְ]][[H8334\|שָׁרֵ֖ת]] [[H9003\|בְּ]][[H1004Q\|בֵ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.11|<< 1 Chronicles 26:11]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.13|1 Chronicles 26:13 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Numbers 9:6
+type: Verse
+kjv: "And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:"
+bsb: "But there were some men who were unclean due to a dead body, so they could not observe the Passover on that day. And they came before Moses and Aaron that same day"
+hebrew: "וַיְהִ֣י אֲנָשִׁ֗ים אֲשֶׁ֨ר הָי֤וּ טְמֵאִים֙ לְנֶ֣פֶשׁ אָדָ֔ם וְלֹא־ יָכְל֥וּ לַעֲשֹׂת־ הַפֶּ֖סַח בַּיּ֣וֹם הַה֑וּא וַֽיִּקְרְב֞וּ לִפְנֵ֥י מֹשֶׁ֛ה וְלִפְנֵ֥י אַהֲרֹ֖ן בַּיּ֥וֹם הַהֽוּא׃"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H2931]]"
+- "[[H9005]]"
+- "[[H5315M]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H6453]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H7126G]]"
+- "[[H6440G]]"
+- "[[H4872]]"
+- "[[H0175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:6**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:
 <small><sub>**BSB:**</sub></small>
 But there were some men who were unclean due to a dead body, so they could not observe the Passover on that day. And they came before Moses and Aaron that same day
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H0582\|אֲנָשִׁ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָי֤וּ]] [[H2931\|טְמֵאִים֙]] [[H9005\|לְ]][[H5315M\|נֶ֣פֶשׁ]] [[H0120G\|אָדָ֔ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3201\|יָכְל֥וּ]] [[H9005\|לַ]][[H6213A\|עֲשֹׂת]][[H9014\|־]] [[H9009\|הַ]][[H6453\|פֶּ֖סַח]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H9001\|וַֽ]][[H7126G\|יִּקְרְב֞וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H4872\|מֹשֶׁ֛ה]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H0175\|אַהֲרֹ֖ן]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.5|<< Numbers 9:5]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.7|Numbers 9:7 >>]]</td></tr></table>
 

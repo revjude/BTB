@@ -1,8 +1,55 @@
+---
+title: Jeremiah 5:11
+type: Verse
+kjv: "For the house of Israel and the house of Judah have dealt very treacherously against me, saith the LORD."
+bsb: "For the house of Israel and the house of Judah have been utterly unfaithful to Me,” declares the LORD."
+hebrew: "כִּי֩ בָג֨וֹד בָּגְד֜וּ בִּ֗י בֵּ֧ית יִשְׂרָאֵ֛ל וּבֵ֥ית יְהוּדָ֖ה נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.5.1 No One Is Just|No One Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0898]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3063G]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:11**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the house of Israel and the house of Judah have dealt very treacherously against me, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 For the house of Israel and the house of Judah have been utterly unfaithful to Me,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H0898\|בָג֨וֹד]] [[H0898\|בָּגְד֜וּ]] [[H9003\|בִּ֗]][[H9030\|י]] [[H1004M\|בֵּ֧ית]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9002\|וּ]][[H1004M\|בֵ֥ית]] [[H3063G\|יְהוּדָ֖ה]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.10|<< Jeremiah 5:10]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.12|Jeremiah 5:12 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Judges 14:2
+type: Verse
+kjv: "And he came up, and told his father and his mother, and said, I have seen a woman in Timnath of the daughters of the Philistines: now therefore get her for me to wife."
+bsb: "So he returned and told his father and mother, “I have seen a daughter of the Philistines in Timnah. Now get her for me as a wife.”"
+hebrew: "וַיַּ֗עַל וַיַּגֵּד֙ לְאָבִ֣יו וּלְאִמּ֔וֹ וַיֹּ֗אמֶר אִשָּׁ֛ה רָאִ֥יתִי בְתִמְנָ֖תָה מִבְּנ֣וֹת פְּלִשְׁתִּ֑ים וְעַתָּ֕ה קְחוּ־ אוֹתָ֥הּ לִּ֖י לְאִשָּֽׁה׃"
+pericope: "[[Judg.14.1 Samson’s Marriage|Samson’s Marriage]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic TIMNATH|TIMNATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H0559]]"
+- "[[H0802G]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H8553G]]"
+- "[[H9011]]"
+- "[[H9006]]"
+- "[[H1323G]]"
+- "[[H6430G]]"
+- "[[H6258]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9030]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:2**<big><big>[[Judg.14.1 Samson’s Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he came up, and told his father and his mother, and said, I have seen a woman in Timnath of the daughters of the Philistines: now therefore get her for me to wife.
 <small><sub>**BSB:**</sub></small>
 So he returned and told his father and mother, “I have seen a daughter of the Philistines in Timnah. Now get her for me as a wife.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֗עַל]] [[H9001\|וַ]][[H5046\|יַּגֵּד֙]] [[H9005\|לְ]][[H0001G\|אָבִ֣י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0802G\|אִשָּׁ֛ה]] [[H7200G\|רָאִ֥יתִי]] [[H9003\|בְ]][[H8553G\|תִמְנָ֖תָ]][[H9011\|ה]] [[H9006\|מִ]][[H1323G\|בְּנ֣וֹת]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H3947G\|קְחוּ]][[H9014\|־]] [[H0853\|אוֹתָ֥]][[H9034\|הּ]] [[H9005\|לִּ֖]][[H9030\|י]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARRIAGE|MARRIAGE]] • [[topic SAMSON|SAMSON]] • [[topic TIMNATH|TIMNATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.1|<< Judges 14:1]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.3|Judges 14:3 >>]]</td></tr></table>
 

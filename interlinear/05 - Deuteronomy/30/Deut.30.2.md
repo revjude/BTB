@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 30:2
+type: Verse
+kjv: "And shalt return unto the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;"
+bsb: "and when you and your children return to the LORD your God and obey His voice with all your heart and all your soul according to everything I am giving you today,"
+hebrew: "וְשַׁבְתָּ֞ עַד־ יְהוָ֤ה אֱלֹהֶ֙יךָ֙ וְשָׁמַעְתָּ֣ בְקֹל֔וֹ כְּכֹ֛ל אֲשֶׁר־ אָנֹכִ֥י מְצַוְּךָ֖ הַיּ֑וֹם אַתָּ֣ה וּבָנֶ֔יךָ בְּכָל־ לְבָבְךָ֖ וּבְכָל־ נַפְשֶֽׁךָ׃"
+pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 30
+book/chapter: "[[Deut.30|Deuteronomy 30]]"
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H3824]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 30:2**<big><big>[[Deut.30.1 The Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And shalt return unto the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;
 <small><sub>**BSB:**</sub></small>
 and when you and your children return to the LORD your God and obey His voice with all your heart and all your soul according to everything I am giving you today,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725G\|שַׁבְתָּ֞]] [[H5704\|עַד]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H9001\|וְ]][[H8085H\|שָׁמַעְתָּ֣]] [[H9003\|בְ]][[H6963A\|קֹל֔]][[H9023\|וֹ]] [[H9004\|כְּ]][[H3605\|כֹ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0595\|אָנֹכִ֥י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֖]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H0859A\|אַתָּ֣ה]] [[H9002\|וּ]][[H1121A\|בָנֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic HEART|HEART]] • [[topic HOLINESS|HOLINESS]] • [[topic PENITENT|PENITENT]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.30.1|<< Deuteronomy 30:1]]</td><td align="center" style="border:none;">[[Deut.30|Deuteronomy 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.30.3|Deuteronomy 30:3 >>]]</td></tr></table>
 

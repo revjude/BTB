@@ -1,8 +1,76 @@
+---
+title: Genesis 50:17
+type: Verse
+kjv: "So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him."
+bsb: "‘This is what you are to say to Joseph: I beg you, please forgive the transgression and sin of your brothers, for they did you wrong.’ So now, Joseph, please forgive the transgression of the servants of the God of your father.” When their message came to him, Joseph wept."
+hebrew: "כֹּֽה־ תֹאמְר֣וּ לְיוֹסֵ֗ף אָ֣נָּ֡א שָׂ֣א נָ֠א פֶּ֣שַׁע אַחֶ֤יךָ וְחַטָּאתָם֙ כִּי־ רָעָ֣ה גְמָל֔וּךָ וְעַתָּה֙ שָׂ֣א נָ֔א לְפֶ֥שַׁע עַבְדֵ֖י אֱלֹהֵ֣י אָבִ֑יךָ וַיֵּ֥בְךְּ יוֹסֵ֖ף בְּדַבְּרָ֥ם אֵלָֽיו׃"
+pericope: "[[Gen.50.15 Joseph Comforts His Brothers|Joseph Comforts His Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 50
+book/chapter: "[[Gen.50|Genesis 50]]"
+chronological_order: 92
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3130G]]"
+- "[[H0577]]"
+- "[[H5375I]]"
+- "[[H4994]]"
+- "[[H6588]]"
+- "[[H0251G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2403B]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H7451I]]"
+- "[[H1580]]"
+- "[[H9031]]"
+- "[[H6258]]"
+- "[[H5650]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9001]]"
+- "[[H1058]]"
+- "[[H9003]]"
+- "[[H1696G]]"
+- "[[H9048]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 50:17**<big><big>[[Gen.50.15 Joseph Comforts His Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.
 <small><sub>**BSB:**</sub></small>
 ‘This is what you are to say to Joseph: I beg you, please forgive the transgression and sin of your brothers, for they did you wrong.’ So now, Joseph, please forgive the transgression of the servants of the God of your father.” When their message came to him, Joseph wept.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|תֹאמְר֣וּ]] [[H9005\|לְ]][[H3130G\|יוֹסֵ֗ף]] [[H0577\|אָ֣נָּ֡א]] [[H5375I\|שָׂ֣א]] [[H4994\|נָ֠א]] [[H6588\|פֶּ֣שַׁע]] [[H0251G\|אַחֶ֤י]][[H9021\|ךָ]] [[H9002\|וְ]][[H2403B\|חַטָּאתָ]][[H9028\|ם֙]] [[H3588A\|כִּי]][[H9014\|־]] [[H7451I\|רָעָ֣ה]] [[H1580\|גְמָל֔וּ]][[H9031\|ךָ]] [[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H5375I\|שָׂ֣א]] [[H4994\|נָ֔א]] [[H9005\|לְ]][[H6588\|פֶ֥שַׁע]] [[H5650\|עַבְדֵ֖י]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אָבִ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H1058\|יֵּ֥בְךְּ]] [[H3130G\|יוֹסֵ֖ף]] [[H9003\|בְּ]][[H1696G\|דַבְּרָ֥]][[H9048\|ם]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic FAMILY|FAMILY]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.50.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.50.16|<< Genesis 50:16]]</td><td align="center" style="border:none;">[[Gen.50|Genesis 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.50.18|Genesis 50:18 >>]]</td></tr></table>
 

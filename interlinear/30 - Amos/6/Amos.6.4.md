@@ -1,8 +1,68 @@
+---
+title: Amos 6:4
+type: Verse
+kjv: "That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;"
+bsb: "You lie on beds inlaid with ivory, and lounge upon your couches. You dine on lambs from the flock and calves from the stall."
+hebrew: "הַשֹּֽׁכְבִים֙ עַל־ מִטּ֣וֹת שֵׁ֔ן וּסְרֻחִ֖ים עַל־ עַרְשׂוֹתָ֑ם וְאֹכְלִ֤ים כָּרִים֙ מִצֹּ֔אן וַעֲגָלִ֖ים מִתּ֥וֹךְ מַרְבֵּֽק׃"
+pericope: "[[Amos.6.1 Woe to Those at Ease in Zion|Woe to Those at Ease in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic BED|BED]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EATING|EATING]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic IVORY|IVORY]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9009]]"
+- "[[H7901G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4296]]"
+- "[[H8127H]]"
+- "[[H9002]]"
+- "[[H5628]]"
+- "[[H6210]]"
+- "[[H9028]]"
+- "[[H0398]]"
+- "[[H3733C]]"
+- "[[H9006]]"
+- "[[H6629G]]"
+- "[[H5695]]"
+- "[[H8432]]"
+- "[[H4770]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 6:4**<big><big>[[Amos.6.1 Woe to Those at Ease in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;
 <small><sub>**BSB:**</sub></small>
 You lie on beds inlaid with ivory, and lounge upon your couches. You dine on lambs from the flock and calves from the stall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H7901G\|שֹּֽׁכְבִים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H4296\|מִטּ֣וֹת]] [[H8127H\|שֵׁ֔ן]] [[H9002\|וּ]][[H5628\|סְרֻחִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H6210\|עַרְשׂוֹתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0398\|אֹכְלִ֤ים]] [[H3733C\|כָּרִים֙]] [[H9006\|מִ]][[H6629G\|צֹּ֔אן]] [[H9002\|וַ]][[H5695\|עֲגָלִ֖ים]] [[H9006\|מִ]][[H8432\|תּ֥וֹךְ]] [[H4770\|מַרְבֵּֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic BED|BED]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EATING|EATING]] • [[topic FEASTS|FEASTS]] • [[topic GLUTTONY|GLUTTONY]] • [[topic IVORY|IVORY]] • [[topic RICH, THE|RICH, THE]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.3|<< Amos 6:3]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.5|Amos 6:5 >>]]</td></tr></table>
 

@@ -1,8 +1,79 @@
+---
+title: Leviticus 20:5
+type: Verse
+kjv: "Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people."
+bsb: "then I will set My face against that man and his family and cut off from among their people both him and all who follow him in prostituting themselves with Molech."
+hebrew: "וְשַׂמְתִּ֨י אֲנִ֧י אֶת־ פָּנַ֛י בָּאִ֥ישׁ הַה֖וּא וּבְמִשְׁפַּחְתּ֑וֹ וְהִכְרַתִּ֨י אֹת֜וֹ וְאֵ֣ת׀ כָּל־ הַזֹּנִ֣ים אַחֲרָ֗יו לִזְנ֛וֹת אַחֲרֵ֥י הַמֹּ֖לֶךְ מִקֶּ֥רֶב עַמָּֽם׃"
+pericope: "[[Lev.20.1 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 20
+book/chapter: "[[Lev.20|Leviticus 20]]"
+chronological_order: 152
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COLLUSION|COLLUSION]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H0589]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H4940]]"
+- "[[H9023]]"
+- "[[H3772I]]"
+- "[[H9033]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H2181]]"
+- "[[H0310A]]"
+- "[[H9005]]"
+- "[[H4432]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 20:5**<big><big>[[Lev.20.1 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people.
 <small><sub>**BSB:**</sub></small>
 then I will set My face against that man and his family and cut off from among their people both him and all who follow him in prostituting themselves with Molech.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7760A\|שַׂמְתִּ֨י]] [[H0589\|אֲנִ֧י]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פָּנַ֛]][[H9020\|י]] [[H9003\|בָּ]][[H0376G\|אִ֥ישׁ]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9002\|וּ]][[H9003\|בְ]][[H4940\|מִשְׁפַּחְתּ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֨י]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2181\|זֹּנִ֣ים]] [[H0310A\|אַחֲרָ֗י]][[H9033\|ו]] [[H9005\|לִ]][[H2181\|זְנ֛וֹת]] [[H0310A\|אַחֲרֵ֥י]] [[H9009\|הַ]][[H4432\|מֹּ֖לֶךְ]] [[H9006\|מִ]][[H7130G\|קֶּ֥רֶב]] [[H5971A\|עַמָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COLLUSION|COLLUSION]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MOLECH|MOLECH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PARENTS|PARENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.20.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.20.4|<< Leviticus 20:4]]</td><td align="center" style="border:none;">[[Lev.20|Leviticus 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.20.6|Leviticus 20:6 >>]]</td></tr></table>
 

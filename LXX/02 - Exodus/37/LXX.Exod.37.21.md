@@ -1,6 +1,66 @@
+---
+title: LXX Exodus 37:21
+type: Verse
+lxx: "The knob under the two branches of it, and a knob under the two branches of it, thus to the six branches, to the ones going forth from out of the lamp-stand."
+greek: "ο σφαιρωτήρ υπό τους δύο καλαμίσκους εξ αυτής και σφαιρωτήρ υπό τους δύο καλαμίσκους εξ αυτής ούτω τοις εξ καλαμίσκοις τοις εκπορευομένοις εκ της λυχνίας"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic GOLD|GOLD]]"
+strongs:
+- "[[G3588]]"
+- "[[G9363]]"
+- "[[G5259]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G7779]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G9363]]"
+- "[[G5259]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G7779]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G3779]]"
+- "[[G3588]]"
+- "[[G1803]]"
+- "[[G7779]]"
+- "[[G3588]]"
+- "[[G1607]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3087]]"
+---
+
 **LXX Exodus 37:21** 
 <small><sub>**LXX:**</sub></small>
 The knob under the two branches of it, and a knob under the two branches of it, thus to the six branches, to the ones going forth from out of the lamp-stand. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ο]] [[G9363\|σφαιρωτήρ]] [[G5259\|υπό]] [[G3588\|τους]] [[G1417\|δύο]] [[G7779\|καλαμίσκους]] [[G1537\|εξ]] [[G1473\|αυτής]] [[G2532\|και]] [[G9363\|σφαιρωτήρ]] [[G5259\|υπό]] [[G3588\|τους]] [[G1417\|δύο]] [[G7779\|καλαμίσκους]] [[G1537\|εξ]] [[G1473\|αυτής]] [[G3779\|ούτω]] [[G3588\|τοις]] [[G1803\|εξ]] [[G7779\|καλαμίσκοις]] [[G3588\|τοις]] [[G1607\|εκπορευομένοις]] [[G1537\|εκ]] [[G3588\|της]] [[G3087\|λυχνίας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDLESTICK|CANDLESTICK]] • [[topic GOLD|GOLD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.20|<< Exodus 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.22|Exodus 37:22 >>]]</td></tr></table>
 
@@ -31,6 +91,6 @@ The knob under the two branches of it, and a knob under the two branches of it, 
 | from out of | **<big>[[G1537\|εκ]]</big>** |
 | the | **<big>[[G3588\|της]]</big>** |
 | lamp-stand. | **<big>[[G3087\|λυχνίας]]</big>** |
-[[Exod.37.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.20|<< Exodus 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.22|Exodus 37:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.37.20|<< Exodus 37:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.37.22|Exodus 37:22 >>]]</td></tr></table>
 
 

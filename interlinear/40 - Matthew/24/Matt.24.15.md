@@ -1,10 +1,62 @@
+---
+title: Matthew 24:15
+type: Verse
+kjv: "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)"
+bsb: "So when you see standing in the holy place ‘the abomination of desolation,’ spoken of by the prophet Daniel (let the reader understand),"
+jesus_said: "When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)"
+greek: "Ὅταν οὖν ἴδητε τὸ βδέλυγμα τῆς ἐρημώσεως τὸ ῥηθὲν διὰ Δανιὴλ τοῦ προφήτου ἑστὸς ἐν τόπῳ ἁγίῳ, ὁ ἀναγινώσκων νοείτω,"
+pericope: "[[Matt.24.15 The Abomination of Desolation|The Abomination of Desolation]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3752]]"
+- "[[G3767]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G0946]]"
+- "[[G2050]]"
+- "[[G2046]]"
+- "[[G1223]]"
+- "[[G1158]]"
+- "[[G4396]]"
+- "[[G2476]]"
+- "[[G1722]]"
+- "[[G5117]]"
+- "[[G0040G]]"
+- "[[G0314]]"
+- "[[G3539]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 24:15**<big><big>[[Matt.24.15 The Abomination of Desolation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)
 <small><sub>**BSB:**</sub></small>
 So when you see standing in the holy place ‘the abomination of desolation,’ spoken of by the prophet Daniel (let the reader understand),
-<small><sub>**Literal:**</sub></small>
-When therefore you may see the abomination <the> of desolation’ which having been spoken of through Daniel the prophet already standing in [the] place holy — the [one] reading he should understand —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.14|<< Matthew 24:14]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.16|Matthew 24:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|Ὅταν]]  [[G3767\|οὖν]]  [[G1492H\|ἴδητε]]  [[G3588\|τὸ]]  [[G0946\|βδέλυγμα]]  [[G3588\|τῆς]]  [[G2050\|ἐρημώσεως]]  [[G3588\|τὸ]]  [[G2046\|ῥηθὲν]]  [[G1223\|διὰ]]  [[G1158\|Δανιὴλ]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G2476\|ἑστὸς]]  [[G1722\|ἐν]]  [[G5117\|τόπῳ]]  [[G0040G\|ἁγίῳ,]]  [[G3588\|ὁ]]  [[G0314\|ἀναγινώσκων]]  [[G3539\|νοείτω,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DANIEL|DANIEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.14|<< Matthew 24:14]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.16|Matthew 24:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 24:15** is...
 > $\quad$ alluding to: [[LXX.Dan.8.13|Dan 8:13]]

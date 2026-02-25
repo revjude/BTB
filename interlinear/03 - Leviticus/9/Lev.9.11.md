@@ -1,8 +1,61 @@
+---
+title: Leviticus 9:11
+type: Verse
+kjv: "And the flesh and the hide he burnt with fire without the camp."
+bsb: "But he burned up the flesh and the hide outside the camp."
+hebrew: "וְאֶת־ הַבָּשָׂ֖ר וְאֶת־ הָע֑וֹר שָׂרַ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶֽה׃"
+pericope: "[[Lev.9.1 Aaron’s First Offerings|Aaron’s First Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 9
+book/chapter: "[[Lev.9|Leviticus 9]]"
+chronological_order: 141
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1320]]"
+- "[[H5785]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 9:11**<big><big>[[Lev.9.1 Aaron’s First Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the flesh and the hide he burnt with fire without the camp.
 <small><sub>**BSB:**</sub></small>
 But he burned up the flesh and the hide outside the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1320\|בָּשָׂ֖ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5785\|ע֑וֹר]] [[H8313\|שָׂרַ֣ף]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.9.10|<< Leviticus 9:10]]</td><td align="center" style="border:none;">[[Lev.9|Leviticus 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.9.12|Leviticus 9:12 >>]]</td></tr></table>
 

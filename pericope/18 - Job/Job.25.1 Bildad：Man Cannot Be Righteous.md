@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Bildad：Man Cannot Be Righteous
+type: Pericope
 pericope: "[[Job.25.1 Bildad：Man Cannot Be Righteous|Bildad：Man Cannot Be Righteous]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 25
 book/chapter: "[[Job.25|Job 25]]"
-genre:
+chronological_order: 36
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 6
 verses:
 - "[[Job.25.1]]"
 - "[[Job.25.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Job.25.6]]"
 ---
 
-[[Job.25|Job 25:1 - Job 25:6]]
+<small>[[Job.25|Job 25:1-6]]</small>
 *Bildad：Man Cannot Be Righteous*
 
 [[Job.25.1|1]] Then answered Bildad the Shuhite, and said,

@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 24:18
+type: Verse
+kjv: "And they left the house of the LORD God of their fathers, and served groves and idols: and wrath came upon Judah and Jerusalem for this their trespass."
+bsb: "They abandoned the house of the LORD, the God of their fathers, and served the Asherah poles and idols. So wrath came upon Judah and Jerusalem for this guilt of theirs."
+hebrew: "וַיַּֽעַזְב֗וּ אֶת־ בֵּ֤ית יְהוָה֙ אֱלֹהֵ֣י אֲבוֹתֵיהֶ֔ם וַיַּֽעַבְד֥וּ אֶת־ הָאֲשֵׁרִ֖ים וְאֶת־ הָֽעֲצַבִּ֑ים וַֽיְהִי־ קֶ֗צֶף עַל־ יְהוּדָה֙ וִיר֣וּשָׁלִַ֔ם בְּאַשְׁמָתָ֖ם זֹֽאת׃"
+pericope: "[[2Chr.24.17 The Wickedness of Joash|The Wickedness of Joash]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 24
+book/chapter: "[[2Chr.24|2 Chronicles 24]]"
+chronological_order: 589
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GROVES|GROVES]]"
+- "[[topic JOASH|JOASH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H5647G]]"
+- "[[H9009]]"
+- "[[H0842]]"
+- "[[H9002]]"
+- "[[H6091]]"
+- "[[H1961]]"
+- "[[H7110A]]"
+- "[[H5921A]]"
+- "[[H3063G]]"
+- "[[H3389]]"
+- "[[H9003]]"
+- "[[H0819]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 24:18**<big><big>[[2Chr.24.17 The Wickedness of Joash|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they left the house of the LORD God of their fathers, and served groves and idols: and wrath came upon Judah and Jerusalem for this their trespass.
 <small><sub>**BSB:**</sub></small>
 They abandoned the house of the LORD, the God of their fathers, and served the Asherah poles and idols. So wrath came upon Judah and Jerusalem for this guilt of theirs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5800A\|יַּֽעַזְב֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1004Q\|בֵּ֤ית]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H0001G\|אֲבוֹתֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H5647G\|יַּֽעַבְד֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0842\|אֲשֵׁרִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H6091\|עֲצַבִּ֑ים]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H7110A\|קֶ֗צֶף]] [[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9003\|בְּ]][[H0819\|אַשְׁמָתָ֖]][[H9028\|ם]] [[H2063\|זֹֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GROVES|GROVES]] • [[topic JOASH|JOASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.24.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.17|<< 2 Chronicles 24:17]]</td><td align="center" style="border:none;">[[2Chr.24|2 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.24.19|2 Chronicles 24:19 >>]]</td></tr></table>
 

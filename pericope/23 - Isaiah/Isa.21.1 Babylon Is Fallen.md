@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Babylon Is Fallen
+type: Pericope
 pericope: "[[Isa.21.1 Babylon Is Fallen|Babylon Is Fallen]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 21
 book/chapter: "[[Isa.21|Isaiah 21]]"
-genre:
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 10
 verses:
 - "[[Isa.21.1]]"
 - "[[Isa.21.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Isa.21.10]]"
 ---
 
-[[Isa.21|Isaiah 21:1 - Isaiah 21:10]]
+<small>[[Isa.21|Isaiah 21:1-10]]</small>
 *Babylon Is Fallen*
 
 [[Isa.21.1|1]] The burden of the desert of the sea. As whirlwinds in the south pass through; \[so\] it cometh from the desert, from a terrible land.

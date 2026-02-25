@@ -1,10 +1,56 @@
+---
+title: John 8:22
+type: Verse
+kjv: "Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come."
+bsb: "So the Jews began to ask, “Will He kill Himself, since He says, ‘Where I am going, you cannot come’?”"
+greek: "ἔλεγον οὖν οἱ Ἰουδαῖοι· μήτι ἀποκτενεῖ ἑαυτόν, ὅτι λέγει· ὅπου ἐγὼ ὑπάγω ὑμεῖς οὐ δύνασθε ἐλθεῖν;"
+pericope: "[[John.8.12 Jesus the Light of the World|Jesus the Light of the World]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HADES|HADES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G3385]]"
+- "[[G0615]]"
+- "[[G1438]]"
+- "[[G3754H]]"
+- "[[G3699]]"
+- "[[G1473]]"
+- "[[G5217]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G2064]]"
+texts:
+- NKO
+---
+
 **John 8:22**<big><big>[[John.8.12 Jesus the Light of the World|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said the Jews, Will he kill himself? because he saith, Whither I go, ye cannot come.
 <small><sub>**BSB:**</sub></small>
 So the Jews began to ask, “Will He kill Himself, since He says, ‘Where I am going, you cannot come’?”
-<small><sub>**Literal:**</sub></small>
-Were saying therefore the Jews; surely not ever will He kill Himself, for He says; Where I myself go you yourselves not are able to come’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.21|<< John 8:21]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.23|John 8:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι·]]  [[G3385\|μήτι]]  [[G0615\|ἀποκτενεῖ]]  [[G1438\|ἑαυτόν,]]  [[G3754H\|ὅτι]]  [[G3004G\|λέγει·]]  [[G3699\|ὅπου]]  [[G1473\|ἐγὼ]]  [[G5217\|ὑπάγω]]  [[G4771\|ὑμεῖς]]  [[G3756\|οὐ]]  [[G1410\|δύνασθε]]  [[G2064\|ἐλθεῖν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADES|HADES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.21|<< John 8:21]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.23|John 8:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

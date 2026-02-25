@@ -1,10 +1,52 @@
+---
+title: Luke 20:30
+type: Verse
+kjv: "And the second took her to wife, and he died childless."
+bsb: "Then the second"
+greek: "καὶ ἔλαβεν ὁ δεύτερος τὴν γυναῖκα καὶ οὑτὸς ἀπέθανεν ἄτεκνος"
+pericope: "[[Luke.20.27 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G1208]]"
+- "[[G1135H]]"
+- "[[G3778]]"
+- "[[G0599]]"
+- "[[G0815]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 20:30**<big><big>[[Luke.20.27 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the second took her to wife, and he died childless.
 <small><sub>**BSB:**</sub></small>
 Then the second
-<small><sub>**Literal:**</sub></small>
-and took the second <the> wife and this died childless<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.29|<< Luke 20:29]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.31|Luke 20:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2983\|ἔλαβεν]]  [[G3588\|ὁ]]  [[G1208\|δεύτερος]]  [[G3588\|τὴν]]  [[G1135H\|γυναῖκα]]  [[G2532\|καὶ]]  [[G3778\|οὑτὸς]]  [[G0599\|ἀπέθανεν]]  [[G0815\|ἄτεκνος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.29|<< Luke 20:29]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.31|Luke 20:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

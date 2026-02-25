@@ -1,8 +1,66 @@
+---
+title: Jeremiah 10:9
+type: Verse
+kjv: "Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple is their clothing: they are all the work of cunning men."
+bsb: "Hammered silver is brought from Tarshish, and gold from Uphaz—the work of a craftsman from the hands of a goldsmith. Their clothes are blue and purple, all fashioned by skilled workers."
+hebrew: "כֶּ֣סֶף מְרֻקָּ֞ע מִתַּרְשִׁ֣ישׁ יוּבָ֗א וְזָהָב֙ מֵֽאוּפָ֔ז מַעֲשֵׂ֥ה חָרָ֖שׁ וִידֵ֣י צוֹרֵ֑ף תְּכֵ֤לֶת וְאַרְגָּמָן֙ לְבוּשָׁ֔ם מַעֲשֵׂ֥ה חֲכָמִ֖ים כֻּלָּֽם׃"
+pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic TARSHISH|TARSHISH]]"
+- "[[topic UPHAZ|UPHAZ]]"
+strongs:
+- "[[H3701G]]"
+- "[[H7554]]"
+- "[[H9006]]"
+- "[[H8659H]]"
+- "[[H0935P]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H0210]]"
+- "[[H4639G]]"
+- "[[H2796]]"
+- "[[H3027G]]"
+- "[[H6884]]"
+- "[[H8504]]"
+- "[[H0713]]"
+- "[[H3830]]"
+- "[[H9028]]"
+- "[[H2450]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:9**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Silver spread into plates is brought from Tarshish, and gold from Uphaz, the work of the workman, and of the hands of the founder: blue and purple [is] their clothing: they [are] all the work of cunning [men].
 <small><sub>**BSB:**</sub></small>
 Hammered silver is brought from Tarshish, and gold from Uphaz—the work of a craftsman from the hands of a goldsmith. Their clothes are blue and purple, all fashioned by skilled workers.
+<small><sub>**Hebrew:**</sub></small>
+[[H3701G\|כֶּ֣סֶף]] [[H7554\|מְרֻקָּ֞ע]] [[H9006\|מִ]][[H8659H\|תַּרְשִׁ֣ישׁ]] [[H0935P\|יוּבָ֗א]] [[H9002\|וְ]][[H2091\|זָהָב֙]] [[H9006\|מֵֽ]][[H0210\|אוּפָ֔ז]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H2796\|חָרָ֖שׁ]] [[H9002\|וִ]][[H3027G\|ידֵ֣י]] [[H6884\|צוֹרֵ֑ף]] [[H8504\|תְּכֵ֤לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָן֙]] [[H3830\|לְבוּשָׁ֔]][[H9028\|ם]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H2450\|חֲכָמִ֖ים]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic COMMERCE|COMMERCE]] • [[topic GOLD|GOLD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic TARSHISH|TARSHISH]] • [[topic UPHAZ|UPHAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.8|<< Jeremiah 10:8]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.10|Jeremiah 10:10 >>]]</td></tr></table>
 

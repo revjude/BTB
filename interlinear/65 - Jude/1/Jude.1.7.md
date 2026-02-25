@@ -1,10 +1,57 @@
+---
+title: Jude 1:7
+type: Verse
+kjv: "Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire."
+bsb: "In like manner, Sodom and Gomorrah and the cities around them, who indulged in sexual immorality and pursued strange flesh, are on display as an example of those who sustain the punishment of eternal fire."
+greek: "ὡς Σόδομα καὶ Γόμορρα καὶ αἱ περὶ αὐτὰς πόλεις τὸν ὅμοιον τρόπον τούτοις ἐκπορνεύσασαι καὶ ἀπελθοῦσαι ὀπίσω σαρκὸς ἑτέρας, πρόκεινται δεῖγμα πυρὸς αἰωνίου δίκην ὑπέχουσαι."
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G5613]]"
+- "[[G4670]]"
+- "[[G2532]]"
+- "[[G1116]]"
+- "[[G3588]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G4172]]"
+- "[[G3664]]"
+- "[[G5158]]"
+- "[[G3778]]"
+- "[[G1608]]"
+- "[[G0565]]"
+- "[[G3694]]"
+- "[[G4561]]"
+- "[[G2087]]"
+- "[[G4295]]"
+- "[[G1164]]"
+- "[[G4442]]"
+- "[[G0166]]"
+- "[[G1349]]"
+- "[[G5254]]"
+texts:
+- NKO
+---
+
 **Jude 1:7**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
 <small><sub>**BSB:**</sub></small>
 In like manner, Sodom and Gomorrah and the cities around them, who indulged in sexual immorality and pursued strange flesh, are on display as an example of those who sustain the punishment of eternal fire.
-<small><sub>**Literal:**</sub></small>
-just as Sodom and Gomorrah and the around them cities <the> in like manner with them having indulged in sexual immorality and having gone after flesh strange, are set forth as an example of fire eternal [the] penalty undergoing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.6|<< Jude 1:6]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.8|Jude 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G4670\|Σόδομα]]  [[G2532\|καὶ]]  [[G1116\|Γόμορρα]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G4012\|περὶ]]  [[G0846\|αὐτὰς]]  [[G4172\|πόλεις]]  [[G3588\|τὸν]]  [[G3664\|ὅμοιον]]  [[G5158\|τρόπον]]  [[G3778\|τούτοις]]  [[G1608\|ἐκπορνεύσασαι]]  [[G2532\|καὶ]]  [[G0565\|ἀπελθοῦσαι]]  [[G3694\|ὀπίσω]]  [[G4561\|σαρκὸς]]  [[G2087\|ἑτέρας,]]  [[G4295\|πρόκεινται]]  [[G1164\|δεῖγμα]]  [[G4442\|πυρὸς]]  [[G0166\|αἰωνίου]]  [[G1349\|δίκην]]  [[G5254\|ὑπέχουσαι.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.6|<< Jude 1:6]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.8|Jude 1:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Jude 1:7** is...
 > $\quad$ alluding to: [[LXX.Gen.19.13|Gen 19:13]]

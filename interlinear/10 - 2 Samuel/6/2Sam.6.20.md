@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 6:20
+type: Verse
+kjv: "Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!"
+bsb: "When David returned home to bless his own household, Saul’s daughter Michal came out to meet him. “How the king of Israel has distinguished himself today!” she said. “He has uncovered himself today in the sight of the maidservants of his subjects, like a vulgar person would do.”"
+hebrew: "וַיָּ֥שָׁב דָּוִ֖ד לְבָרֵ֣ךְ אֶת־ בֵּית֑וֹ וַתֵּצֵ֞א מִיכַ֤ל בַּת־ שָׁאוּל֙ לִקְרַ֣את דָּוִ֔ד וַתֹּ֗אמֶר מַה־ נִּכְבַּ֨ד הַיּ֜וֹם מֶ֣לֶךְ יִשְׂרָאֵ֗ל אֲשֶׁ֨ר נִגְלָ֤ה הַיּוֹם֙ לְעֵינֵ֨י אַמְה֣וֹת עֲבָדָ֔יו כְּהִגָּל֥וֹת נִגְל֖וֹת אַחַ֥ד הָרֵקִֽים׃"
+pericope: "[[2Sam.6.16 Michal’s Contempt for David|Michal’s Contempt for David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic MICHAL|MICHAL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H3318G]]"
+- "[[H4324G]]"
+- "[[H1323G]]"
+- "[[H7586G]]"
+- "[[H7122G]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H3513G]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H1540I]]"
+- "[[H5869A]]"
+- "[[H0519]]"
+- "[[H5650]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H7386]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:20**<big><big>[[2Sam.6.16 Michal’s Contempt for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!
 <small><sub>**BSB:**</sub></small>
 When David returned home to bless his own household, Saul’s daughter Michal came out to meet him. “How the king of Israel has distinguished himself today!” she said. “He has uncovered himself today in the sight of the maidservants of his subjects, like a vulgar person would do.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֥שָׁב]] [[H1732\|דָּוִ֖ד]] [[H9005\|לְ]][[H1288\|בָרֵ֣ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּית֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H3318G\|תֵּצֵ֞א]] [[H4324G\|מִיכַ֤ל]] [[H1323G\|בַּת]][[H9014\|־]] [[H7586G\|שָׁאוּל֙]] [[H9005\|לִ]][[H7122G\|קְרַ֣את]] [[H1732\|דָּוִ֔ד]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H4100\|מַה]][[H9014\|־]] [[H3513G\|נִּכְבַּ֨ד]] [[H9009\|הַ]][[H3117G\|יּ֜וֹם]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0834A\|אֲשֶׁ֨ר]] [[H1540I\|נִגְלָ֤ה]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H9005\|לְ]][[H5869A\|עֵינֵ֨י]] [[H0519\|אַמְה֣וֹת]] [[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H9004\|כְּ]][[H1540I\|הִגָּל֥וֹת]] [[H1540I\|נִגְל֖וֹת]] [[H0259\|אַחַ֥ד]] [[H9009\|הָ]][[H7386\|רֵקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FAMILY|FAMILY]] • [[topic IRONY|IRONY]] • [[topic MICHAL|MICHAL]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.19|<< 2 Samuel 6:19]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.21|2 Samuel 6:21 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Psalm 119:65
+type: Verse
+kjv: "Thou hast dealt well with thy servant, O LORD, according unto thy word."
+bsb: "You are good to Your servant, O LORD, according to Your word."
+hebrew: "ט֭וֹב עָשִׂ֣יתָ עִֽם־ עַבְדְּךָ֑ יְ֝הוָ֗ה כִּדְבָרֶֽךָ׃"
+pericope: "[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|Your Word Is a Lamp to My Feet - TETH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H2896B]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:65**<big><big>[[Ps.119.65 Your Word Is a Lamp to My Feet - TETH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast dealt well with thy servant, O LORD, according unto thy word.
 <small><sub>**BSB:**</sub></small>
 You are good to Your servant, O LORD, according to Your word.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896B\|ט֭וֹב]] [[H6213A\|עָשִׂ֣יתָ]] [[H5973A\|עִֽם]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֑]] [[H3068G\|יְ֝הוָ֗ה]] [[H9004\|כִּ]][[H1697G\|דְבָרֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.65|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.64|<< Psalms 119:64]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.66|Psalms 119:66 >>]]</td></tr></table>
 

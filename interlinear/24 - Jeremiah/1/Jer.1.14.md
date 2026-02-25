@@ -1,8 +1,59 @@
+---
+title: Jeremiah 1:14
+type: Verse
+kjv: "Then the LORD said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land."
+bsb: "Then the LORD said to me, “Disaster from the north will be poured out on all who live in the land."
+hebrew: "וַיֹּ֥אמֶר יְהוָ֖ה אֵלָ֑י מִצָּפוֹן֙ תִּפָּתַ֣ח הָרָעָ֔ה עַ֥ל כָּל־ יֹשְׁבֵ֖י הָאָֽרֶץ׃"
+pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H6605A]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 1:14**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the LORD said unto me, Out of the north an evil shall break forth upon all the inhabitants of the land.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to me, “Disaster from the north will be poured out on all who live in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H9006\|מִ]][[H6828G\|צָּפוֹן֙]] [[H6605A\|תִּפָּתַ֣ח]] [[H9009\|הָ]][[H7451C\|רָעָ֔ה]] [[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֖י]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.13|<< Jeremiah 1:13]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.15|Jeremiah 1:15 >>]]</td></tr></table>
 

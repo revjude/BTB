@@ -1,8 +1,55 @@
+---
+title: Jeremiah 6:9
+type: Verse
+kjv: "Thus saith the LORD of hosts, They shall throughly glean the remnant of Israel as a vine: turn back thine hand as a grapegatherer into the baskets."
+bsb: "This is what the LORD of Hosts says: “Glean the remnant of Israel as thoroughly as a vine. Pass your hand once more like a grape gatherer over the branches.”"
+hebrew: "כֹּ֤ה אָמַר֙ יְהֹוָ֣ה צְבָא֔וֹת עוֹלֵ֛ל יְעוֹלְל֥וּ כַגֶּ֖פֶן שְׁאֵרִ֣ית יִשְׂרָאֵ֑ל הָשֵׁב֙ יָדְךָ֔ כְּבוֹצֵ֖ר עַל־ סַלְסִלּֽוֹת׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H5953B]]"
+- "[[H9004]]"
+- "[[H1612]]"
+- "[[H7611]]"
+- "[[H3478]]"
+- "[[H7725J]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H1219]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5552]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:9**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD of hosts, They shall throughly glean the remnant of Israel as a vine: turn back thine hand as a grapegatherer into the baskets.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD of Hosts says: “Glean the remnant of Israel as thoroughly as a vine. Pass your hand once more like a grape gatherer over the branches.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהֹוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H5953B\|עוֹלֵ֛ל]] [[H5953B\|יְעוֹלְל֥וּ]] [[H9004\|כַ]][[H1612\|גֶּ֖פֶן]] [[H7611\|שְׁאֵרִ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H7725J\|הָשֵׁב֙]] [[H3027G\|יָדְ]][[H9021\|ךָ֔]] [[H9004\|כְּ]][[H1219\|בוֹצֵ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H5552\|סַלְסִלּֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.8|<< Jeremiah 6:8]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.10|Jeremiah 6:10 >>]]</td></tr></table>
 

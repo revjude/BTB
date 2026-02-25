@@ -1,8 +1,70 @@
+---
+title: Isaiah 1:13
+type: Verse
+kjv: "Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting."
+bsb: "Bring your worthless offerings no more; your incense is detestable to Me. New Moons, Sabbaths, and convocations—I cannot endure iniquity in a solemn assembly."
+hebrew: "לֹ֣א תוֹסִ֗יפוּ הָבִיא֙ מִנְחַת־ שָׁ֔וְא קְטֹ֧רֶת תּוֹעֵבָ֛ה הִ֖יא לִ֑י חֹ֤דֶשׁ וְשַׁבָּת֙ קְרֹ֣א מִקְרָ֔א לֹא־ אוּכַ֥ל אָ֖וֶן וַעֲצָרָֽה׃"
+pericope: "[[Isa.1.10 Meaningless Offerings|Meaningless Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic ORDINANCE|ORDINANCE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H0935P]]"
+- "[[H4503G]]"
+- "[[H9014]]"
+- "[[H7723H]]"
+- "[[H7004]]"
+- "[[H8441]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H2320H]]"
+- "[[H9002]]"
+- "[[H7676]]"
+- "[[H7121G]]"
+- "[[H4744]]"
+- "[[H3201]]"
+- "[[H0205G]]"
+- "[[H6116]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:13**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; [it is] iniquity, even the solemn meeting.
 <small><sub>**BSB:**</sub></small>
 Bring your worthless offerings no more; your incense is detestable to Me. New Moons, Sabbaths, and convocations—I cannot endure iniquity in a solemn assembly.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H3254G\|תוֹסִ֗יפוּ]] [[H0935P\|הָבִיא֙]] [[H4503G\|מִנְחַת]][[H9014\|־]] [[H7723H\|שָׁ֔וְא]] [[H7004\|קְטֹ֧רֶת]] [[H8441\|תּוֹעֵבָ֛ה]] [[H1931\|הִ֖יא]] [[H9005\|לִ֑]][[H9030\|י]] [[H2320H\|חֹ֤דֶשׁ]] [[H9002\|וְ]][[H7676\|שַׁבָּת֙]] [[H7121G\|קְרֹ֣א]] [[H4744\|מִקְרָ֔א]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|אוּכַ֥ל]] [[H0205G\|אָ֖וֶן]] [[H9002\|וַ]][[H6116\|עֲצָרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FORMALISM|FORMALISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OFFERINGS|OFFERINGS]] • [[topic ORDINANCE|ORDINANCE]] • [[topic SABBATH|SABBATH]] • [[topic VANITY|VANITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.12|<< Isaiah 1:12]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.14|Isaiah 1:14 >>]]</td></tr></table>
 

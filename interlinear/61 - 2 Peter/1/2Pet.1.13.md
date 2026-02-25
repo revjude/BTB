@@ -1,10 +1,54 @@
+---
+title: 2 Peter 1:13
+type: Verse
+kjv: "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;"
+bsb: "I think it is right to refresh your memory as long as I live in the tent of my body,"
+greek: "δίκαιον δὲ ἡγοῦμαι, ἐφ᾽ ὅσον εἰμὶ ἐν τούτῳ τῷ σκηνώματι, διεγείρειν ὑμᾶς ἐν ὑπομνήσει·"
+pericope: "[[2Pet.1.3 Partakers of the Divine Nature|Partakers of the Divine Nature]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1342]]"
+- "[[G1161]]"
+- "[[G2233]]"
+- "[[G1909]]"
+- "[[G3745]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G4638]]"
+- "[[G1326]]"
+- "[[G4771]]"
+- "[[G5280]]"
+texts:
+- NKO
+---
+
 **2 Peter 1:13**<big><big>[[2Pet.1.3 Partakers of the Divine Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting [you] in remembrance;
 <small><sub>**BSB:**</sub></small>
 I think it is right to refresh your memory as long as I live in the tent of my body,
-<small><sub>**Literal:**</sub></small>
-Right now I esteem it, as long as I am in this <the> tabernacle, to stir up you by putting [you] in remembrance;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.12|<< 2 Peter 1:12]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.14|2 Peter 1:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1342\|δίκαιον]]  [[G1161\|δὲ]]  [[G2233\|ἡγοῦμαι,]]  [[G1909\|ἐφ᾽]]  [[G3745\|ὅσον]]  [[G1510\|εἰμὶ]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G3588\|τῷ]]  [[G4638\|σκηνώματι,]]  [[G1326\|διεγείρειν]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G5280\|ὑπομνήσει·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.12|<< 2 Peter 1:12]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.14|2 Peter 1:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

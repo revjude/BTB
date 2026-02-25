@@ -1,8 +1,62 @@
+---
+title: Leviticus 19:24
+type: Verse
+kjv: "But in the fourth year all the fruit thereof shall be holy to praise the LORD withal."
+bsb: "In the fourth year all its fruit must be consecrated as a praise offering to the LORD."
+hebrew: "וּבַשָּׁנָה֙ הָרְבִיעִ֔ת יִהְיֶ֖ה כָּל־ פִּרְי֑וֹ קֹ֥דֶשׁ הִלּוּלִ֖ים לַיהוָֽה׃"
+pericope: "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic HORTICULTURE|HORTICULTURE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H6944G]]"
+- "[[H1974]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:24**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But in the fourth year all the fruit thereof shall be holy to praise the LORD [withal].
 <small><sub>**BSB:**</sub></small>
 In the fourth year all its fruit must be consecrated as a praise offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H8141\|שָּׁנָה֙]] [[H9009\|הָ]][[H7243\|רְבִיעִ֔ת]] [[H1961\|יִהְיֶ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H6529\|פִּרְי֑]][[H9023\|וֹ]] [[H6944G\|קֹ֥דֶשׁ]] [[H1974\|הִלּוּלִ֖ים]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic HORTICULTURE|HORTICULTURE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.23|<< Leviticus 19:23]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.25|Leviticus 19:25 >>]]</td></tr></table>
 

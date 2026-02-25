@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prophecy of Jahaziel
+type: Pericope
 pericope: "[[2Chr.20.14 The Prophecy of Jahaziel|The Prophecy of Jahaziel]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 20
 book/chapter: "[[2Chr.20|2 Chronicles 20]]"
-genre:
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 6
 verses:
 - "[[2Chr.20.14]]"
 - "[[2Chr.20.15]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Chr.20.19]]"
 ---
 
-[[2Chr.20|2 Chronicles 20:14 - 2 Chronicles 20:19]]
+<small>[[2Chr.20|2 Chronicles 20:14-19]]</small>
 *The Prophecy of Jahaziel*
 
 [[2Chr.20.14|14]] Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation;

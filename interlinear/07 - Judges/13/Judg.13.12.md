@@ -1,8 +1,58 @@
+---
+title: Judges 13:12
+type: Verse
+kjv: "And Manoah said, Now let thy words come to pass. How shall we order the child, and how shall we do unto him?"
+bsb: "Then Manoah asked, “When your words come to pass, what will be the boy’s rule of life and mission?”"
+hebrew: "וַיֹּ֣אמֶר מָנ֔וֹחַ עַתָּ֖ה יָבֹ֣א דְבָרֶ֑יךָ מַה־ יִּֽהְיֶ֥ה מִשְׁפַּט־ הַנַּ֖עַר וּמַעֲשֵֽׂהוּ׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4495]]"
+- "[[H6258]]"
+- "[[H0935G]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H4941J]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9002]]"
+- "[[H4639G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:12**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Manoah said, Now let thy words come to pass. How shall we order the child, and [how] shall we do unto him?
 <small><sub>**BSB:**</sub></small>
 Then Manoah asked, “When your words come to pass, what will be the boy’s rule of life and mission?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H4495\|מָנ֔וֹחַ]] [[H6258\|עַתָּ֖ה]] [[H0935G\|יָבֹ֣א]] [[H1697G\|דְבָרֶ֑י]][[H9021\|ךָ]] [[H4100\|מַה]][[H9014\|־]] [[H1961\|יִּֽהְיֶ֥ה]] [[H4941J\|מִשְׁפַּט]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H9002\|וּ]][[H4639G\|מַעֲשֵֽׂ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.11|<< Judges 13:11]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.13|Judges 13:13 >>]]</td></tr></table>
 

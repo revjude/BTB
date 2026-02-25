@@ -7,7 +7,7 @@
 
 → Of the man of Beth-el  [[Judg.1.24|Jud 1:24]],[[Judg.1.25|25]]
 
-→ Of Jael [[Judg.4.18|Jud 4:18]]-[[Judg.4.21|21]]
+→ Of Jael [[Judg.4.18|Jud 4:18-21]]
 
 → Of Shechemites [[Judg.9.23|Jud 9:23]]
 
@@ -19,7 +19,7 @@
 
 → Of Joab to Amasa [[2Sam.20.9|2Sa 20:9]],[[2Sam.20.10|10]]
 
-→ Of Jehu [[2Kgs.10.18|2Ki 10:18]]-[[2Kgs.10.28|28]]
+→ Of Jehu [[2Kgs.10.18|2Ki 10:18-28]]
 
 → Of the enemies of Nehemiah [[Neh.6|Ne 6]]
 

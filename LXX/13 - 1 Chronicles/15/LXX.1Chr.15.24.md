@@ -1,6 +1,81 @@
+---
+title: LXX 1 Chronicles 15:24
+type: Verse
+lxx: "And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer the priests, were trumpeting with the trumpets before the ark  of God. And Obed Edom and Jehiah were gatekeepers of the ark."
+greek: "και Σαβανέα και Ιωσαφάτ και Ναθαναήλ και Αμασαϊ και Ζαχαρίας και Βαναίας και Ελιέζερ οι ιερείς σαλπίζοντες εν ταις σάλπιγξιν έμπροσθεν της κιβωτού του θεού και Ωβήδ Εδώμ και Ιεχία πυλωροί της κιβωτού"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMASAI|AMASAI]]"
+- "[[topic ARK|ARK]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELIEZER|ELIEZER]]"
+- "[[topic JEHIAH|JEHIAH]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic NETHANEEL|NETHANEEL]]"
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+- "[[topic SHEBANIAH|SHEBANIAH]]"
+- "[[topic TACT|TACT]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[G2532]]"
+- "[[H7645]]"
+- "[[G2532]]"
+- "[[G2498]]"
+- "[[G2532]]"
+- "[[H5417]]"
+- "[[G2532]]"
+- "[[H6022]]"
+- "[[G2532]]"
+- "[[G2197]]"
+- "[[G2532]]"
+- "[[H1141]]"
+- "[[G2532]]"
+- "[[G1663]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G4537]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4536]]"
+- "[[G1715]]"
+- "[[G3588]]"
+- "[[G2787]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G5601]]"
+- "[[H0123]]"
+- "[[G2532]]"
+- "[[H3174]]"
+- "[[G8988]]"
+- "[[G3588]]"
+- "[[G2787]]"
+---
+
 **LXX 1 Chronicles 15:24** 
 <small><sub>**LXX:**</sub></small>
 And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer the priests, \[were\] trumpeting with the trumpets before the ark  of God. And Obed Edom and Jehiah \[were\] gatekeepers of the ark. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[H7645\|Σαβανέα]] [[G2532\|και]] [[G2498\|Ιωσαφάτ]] [[G2532\|και]] [[H5417\|Ναθαναήλ]] [[G2532\|και]] [[H6022\|Αμασαϊ]] [[G2532\|και]] [[G2197\|Ζαχαρίας]] [[G2532\|και]] [[H1141\|Βαναίας]] [[G2532\|και]] [[G1663\|Ελιέζερ]] [[G3588\|οι]] [[G2409\|ιερείς]] [[G4537\|σαλπίζοντες]] [[G1722\|εν]] [[G3588\|ταις]] [[G4536\|σάλπιγξιν]] [[G1715\|έμπροσθεν]] [[G3588\|της]] [[G2787\|κιβωτού]] [[G3588\|του]] [[G2316\|θεού]] [[G2532\|και]] [[G5601\|Ωβήδ]] [[H0123\|Εδώμ]] [[G2532\|και]] [[H3174\|Ιεχία]] [[G8988\|πυλωροί]] [[G3588\|της]] [[G2787\|κιβωτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMASAI|AMASAI]] • [[topic ARK|ARK]] • [[topic BENAIAH|BENAIAH]] • [[topic DAVID|DAVID]] • [[topic ELIEZER|ELIEZER]] • [[topic JEHIAH|JEHIAH]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic MUSIC|MUSIC]] • [[topic NETHANEEL|NETHANEEL]] • [[topic OBED-EDOM|OBED-EDOM]] • [[topic SHEBANIAH|SHEBANIAH]] • [[topic TACT|TACT]] • [[topic TRUMPET|TRUMPET]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.23|<< 1 Chronicles 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.25|1 Chronicles 15:25 >>]]</td></tr></table>
 
@@ -39,6 +114,6 @@ And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Be
 | \[were\] gatekeepers | **<big>[[G8988\|πυλωροί]]</big>** |
 | of the | **<big>[[G3588\|της]]</big>** |
 | ark. | **<big>[[G2787\|κιβωτού]]</big>** |
-[[1Chr.15.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.23|<< 1 Chronicles 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.25|1 Chronicles 15:25 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.15.23|<< 1 Chronicles 15:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.15.25|1 Chronicles 15:25 >>]]</td></tr></table>
 
 

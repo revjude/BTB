@@ -1,8 +1,53 @@
+---
+title: Proverbs 31:9
+type: Verse
+kjv: "Open thy mouth, judge righteously, and plead the cause of the poor and needy."
+bsb: "Open your mouth, judge righteously, and defend the cause of the poor and needy."
+hebrew: "פְּתַח־ פִּ֥יךָ שְׁפָט־ צֶ֑דֶק וְ֝דִ֗ין עָנִ֥י וְאֶבְיֽוֹן׃ פ"
+pericope: "[[Prov.31.1 The Sayings for King Lemuel|The Sayings for King Lemuel]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic POOR|POOR]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H6605A]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H8199]]"
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H1777]]"
+- "[[H6041]]"
+- "[[H0034]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Proverbs 31:9**<big><big>[[Prov.31.1 The Sayings for King Lemuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Open thy mouth, judge righteously, and plead the cause of the poor and needy.
 <small><sub>**BSB:**</sub></small>
 Open your mouth, judge righteously, and defend the cause of the poor and needy.
+<small><sub>**Hebrew:**</sub></small>
+[[H6605A\|פְּתַח]][[H9014\|־]] [[H6310G\|פִּ֥י]][[H9021\|ךָ]] [[H8199\|שְׁפָט]][[H9014\|־]] [[H6664G\|צֶ֑דֶק]] [[H9002\|וְ֝]][[H1777\|דִ֗ין]] [[H6041\|עָנִ֥י]] [[H9002\|וְ]][[H0034\|אֶבְיֽוֹן]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic POOR|POOR]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.8|<< Proverbs 31:8]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.10|Proverbs 31:10 >>]]</td></tr></table>
 
@@ -14,7 +59,7 @@ Open your mouth, judge righteously, and defend the cause of the poor and needy.
 | righteousness  |**<big>&#8207;[[H6664G\|צֶ֑דֶק]]&#8207; </big>**| Tze.dek<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and plead [the] cause of  |**<big>&#8207;[[H9002\|וְ֝]]&#8207;&#8207;[[H1777\|דִ֗ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Din<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] poor  |**<big>&#8207;[[H6041\|עָנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and [the] needy  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0034\|אֶבְיֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ev.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and [the] needy  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0034\|אֶבְיֽוֹן]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'ev.Yon<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.31.8|<< Proverbs 31:8]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.10|Proverbs 31:10 >>]]</td></tr></table>
 
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Marries Abigail
+type: Pericope
 pericope: "[[1Sam.25.39 David Marries Abigail|David Marries Abigail]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 25
 book/chapter: "[[1Sam.25|1 Samuel 25]]"
-genre:
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[1Sam.25.39]]"
 - "[[1Sam.25.40]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Sam.25.44]]"
 ---
 
-[[1Sam.25|1 Samuel 25:39 - 1 Samuel 25:44]]
+<small>[[1Sam.25|1 Samuel 25:39-44]]</small>
 *David Marries Abigail*
 
 [[1Sam.25.39|39]] And when David heard that Nabal was dead, he said, Blessed \[be\] the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife.

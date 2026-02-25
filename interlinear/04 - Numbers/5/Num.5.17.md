@@ -1,8 +1,70 @@
+---
+title: Numbers 5:17
+type: Verse
+kjv: "And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put it into the water:"
+bsb: "Then he is to take some holy water in a clay jar and put some of the dust from the tabernacle floor into the water."
+hebrew: "וְלָקַ֧ח הַכֹּהֵ֛ן מַ֥יִם קְדֹשִׁ֖ים בִּכְלִי־ חָ֑רֶשׂ וּמִן־ הֶֽעָפָ֗ר אֲשֶׁ֤ר יִהְיֶה֙ בְּקַרְקַ֣ע הַמִּשְׁכָּ֔ן יִקַּ֥ח הַכֹּהֵ֖ן וְנָתַ֥ן אֶל־ הַמָּֽיִם׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H4325G]]"
+- "[[H6918G]]"
+- "[[H9003]]"
+- "[[H3627]]"
+- "[[H9014]]"
+- "[[H2789]]"
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H6083]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H7172]]"
+- "[[H4908]]"
+- "[[H5414H]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:17**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put [it] into the water:
 <small><sub>**BSB:**</sub></small>
 Then he is to take some holy water in a clay jar and put some of the dust from the tabernacle floor into the water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֧ח]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H4325G\|מַ֥יִם]] [[H6918G\|קְדֹשִׁ֖ים]] [[H9003\|בִּ]][[H3627\|כְלִי]][[H9014\|־]] [[H2789\|חָ֑רֶשׂ]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הֶֽ]][[H6083\|עָפָ֗ר]] [[H0834A\|אֲשֶׁ֤ר]] [[H1961\|יִהְיֶה֙]] [[H9003\|בְּ]][[H7172\|קַרְקַ֣ע]] [[H9009\|הַ]][[H4908\|מִּשְׁכָּ֔ן]] [[H3947G\|יִקַּ֥ח]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9001\|וְ]][[H5414H\|נָתַ֥ן]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מָּֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic PRIEST|PRIEST]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.16|<< Numbers 5:16]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.18|Numbers 5:18 >>]]</td></tr></table>
 

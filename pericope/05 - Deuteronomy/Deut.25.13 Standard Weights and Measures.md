@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Standard Weights and Measures
+type: Pericope
 pericope: "[[Deut.25.13 Standard Weights and Measures|Standard Weights and Measures]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 25
 book/chapter: "[[Deut.25|Deuteronomy 25]]"
-genre:
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 4
 verses:
 - "[[Deut.25.13]]"
 - "[[Deut.25.14]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Deut.25.16]]"
 ---
 
-[[Deut.25|Deuteronomy 25:13 - Deuteronomy 25:16]]
+<small>[[Deut.25|Deuteronomy 25:13-16]]</small>
 *Standard Weights and Measures*
 
 [[Deut.25.13|13]] Thou shalt not have in thy bag divers weights, a great and a small.

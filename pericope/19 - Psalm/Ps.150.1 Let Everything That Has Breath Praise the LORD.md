@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Let Everything That Has Breath Praise the LORD
+type: Pericope
 pericope: "[[Ps.150.1 Let Everything That Has Breath Praise the LORD|Let Everything That Has Breath Praise the LORD]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 150
 book/chapter: "[[Ps.150|Psalm 150]]"
-genre:
+chronological_order: 898
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 6
 verses:
 - "[[Ps.150.1]]"
 - "[[Ps.150.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ps.150.6]]"
 ---
 
-[[Ps.150|Psalm 150:1 - Psalm 150:6]]
+<small>[[Ps.150|Psalm 150:1-6]]</small>
 *Let Everything That Has Breath Praise the LORD*
 
 [[Ps.150.1|1]] Praise ye the LORD. Praise God in his sanctuary: praise him in the firmament of his power.

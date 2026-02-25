@@ -1,8 +1,63 @@
+---
+title: Exodus 27:12
+type: Verse
+kjv: "And for the breadth of the court on the west side shall be hangings of fifty cubits: their pillars ten, and their sockets ten."
+bsb: "The curtains on the west side of the courtyard shall be fifty cubits wide, with ten posts and ten bases."
+hebrew: "וְרֹ֤חַב הֶֽחָצֵר֙ לִפְאַת־ יָ֔ם קְלָעִ֖ים חֲמִשִּׁ֣ים אַמָּ֑ה עַמֻּדֵיהֶ֣ם עֲשָׂרָ֔ה וְאַדְנֵיהֶ֖ם עֲשָׂרָֽה׃"
+pericope: "[[Exod.27.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H7341]]"
+- "[[H9009]]"
+- "[[H2691A]]"
+- "[[H9005]]"
+- "[[H6285]]"
+- "[[H9014]]"
+- "[[H3220H]]"
+- "[[H7050B]]"
+- "[[H2572]]"
+- "[[H0520A]]"
+- "[[H5982G]]"
+- "[[H9028]]"
+- "[[H6235]]"
+- "[[H0134]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 27:12**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [for] the breadth of the court on the west side [shall be] hangings of fifty cubits: their pillars ten, and their sockets ten.
 <small><sub>**BSB:**</sub></small>
 The curtains on the west side of the courtyard shall be fifty cubits wide, with ten posts and ten bases.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7341\|רֹ֤חַב]] [[H9009\|הֶֽ]][[H2691A\|חָצֵר֙]] [[H9005\|לִ]][[H6285\|פְאַת]][[H9014\|־]] [[H3220H\|יָ֔ם]] [[H7050B\|קְלָעִ֖ים]] [[H2572\|חֲמִשִּׁ֣ים]] [[H0520A\|אַמָּ֑ה]] [[H5982G\|עַמֻּדֵי]][[H9028\|הֶ֣ם]] [[H6235\|עֲשָׂרָ֔ה]] [[H9002\|וְ]][[H0134\|אַדְנֵי]][[H9028\|הֶ֖ם]] [[H6235\|עֲשָׂרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURTAINS|CURTAINS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.11|<< Exodus 27:11]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.13|Exodus 27:13 >>]]</td></tr></table>
 

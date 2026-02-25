@@ -1,8 +1,60 @@
+---
+title: Exodus 27:8
+type: Verse
+kjv: "Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make it."
+bsb: "Construct the altar with boards so that it is hollow. It is to be made just as you were shown on the mountain."
+hebrew: "נְב֥וּב לֻחֹ֖ת תַּעֲשֶׂ֣ה אֹת֑וֹ כַּאֲשֶׁ֨ר הֶרְאָ֥ה אֹתְךָ֛ בָּהָ֖ר כֵּ֥ן יַעֲשֽׂוּ׃ ס"
+pericope: "[[Exod.27.1 The Bronze Altar|The Bronze Altar]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H5014]]"
+- "[[H3871]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7200G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H3651C]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 27:8**<big><big>[[Exod.27.1 The Bronze Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hollow with boards shalt thou make it: as it was shewed thee in the mount, so shall they make [it].
 <small><sub>**BSB:**</sub></small>
 Construct the altar with boards so that it is hollow. It is to be made just as you were shown on the mountain.
+<small><sub>**Hebrew:**</sub></small>
+[[H5014\|נְב֥וּב]] [[H3871\|לֻחֹ֖ת]] [[H6213H\|תַּעֲשֶׂ֣ה]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H7200G\|הֶרְאָ֥ה]] [[H0853\|אֹתְ]][[H9031\|ךָ֛]] [[H9003\|בָּ]][[H2022G\|הָ֖ר]] [[H3651C\|כֵּ֥ן]] [[H6213H\|יַעֲשֽׂוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.7|<< Exodus 27:7]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.9|Exodus 27:9 >>]]</td></tr></table>
 
@@ -17,7 +69,7 @@ Construct the altar with boards so that it is hollow. It is to be made just as y
 | \<obj.> you  |**<big>&#8207;[[H0853\|אֹתְ]]&#8207;&#8207;[[H9031\|ךָ֛]]&#8207; </big>**| 'o.te.<small><sup>[[HTo]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on the mountain  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H2022G\|הָ֖ר]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Har<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | so  |**<big>&#8207;[[H3651C\|כֵּ֥ן]]&#8207; </big>**| ken<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will do  |**<big>&#8207;[[H6213H\|יַעֲשֽׂוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.'a.Su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will do  |**<big>&#8207;[[H6213H\|יַעֲשֽׂוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ya.'a.Su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.7|<< Exodus 27:7]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.9|Exodus 27:9 >>]]</td></tr></table>
 
 

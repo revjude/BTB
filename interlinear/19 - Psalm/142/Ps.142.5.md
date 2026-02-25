@@ -1,8 +1,58 @@
+---
+title: Psalm 142:5
+type: Verse
+kjv: "I cried unto thee, O LORD: I said, Thou art my refuge and my portion in the land of the living."
+bsb: "I cry to You, O LORD: “You are my refuge, my portion in the land of the living.”"
+hebrew: "זָעַ֥קְתִּי אֵלֶ֗יךָ יְה֫וָ֥ה אָ֭מַרְתִּי אַתָּ֣ה מַחְסִ֑י חֶ֝לְקִ֗י בְּאֶ֣רֶץ הַֽחַיִּים׃"
+pericope: "[[Ps.142.1 I Lift My Voice to the LORD|I Lift My Voice to the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 142
+book/chapter: "[[Ps.142|Psalm 142]]"
+chronological_order: 319
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H2199]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H0859A]]"
+- "[[H4268]]"
+- "[[H9020]]"
+- "[[H2506A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 142:5**<big><big>[[Ps.142.1 I Lift My Voice to the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I cried unto thee, O LORD: I said, Thou [art] my refuge [and] my portion in the land of the living.
 <small><sub>**BSB:**</sub></small>
 I cry to You, O LORD: “You are my refuge, my portion in the land of the living.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2199\|זָעַ֥קְתִּי]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H3068G\|יְה֫וָ֥ה]] [[H0559\|אָ֭מַרְתִּי]] [[H0859A\|אַתָּ֣ה]] [[H4268\|מַחְסִ֑]][[H9020\|י]] [[H2506A\|חֶ֝לְקִ֗]][[H9020\|י]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H9009\|הַֽ]][[H2416A\|חַיִּים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.142.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.142.4|<< Psalms 142:4]]</td><td align="center" style="border:none;">[[Ps.142|Psalms 142]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.142.6|Psalms 142:6 >>]]</td></tr></table>
 

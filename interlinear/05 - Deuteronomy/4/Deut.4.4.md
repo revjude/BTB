@@ -1,8 +1,60 @@
+---
+title: Deuteronomy 4:4
+type: Verse
+kjv: "But ye that did cleave unto the LORD your God are alive every one of you this day."
+bsb: "But you who held fast to the LORD your God are alive to this day, every one of you."
+hebrew: "וְאַתֶּם֙ הַדְּבֵקִ֔ים בַּיהוָ֖ה אֱלֹהֵיכֶ֑ם חַיִּ֥ים כֻּלְּכֶ֖ם הַיּֽוֹם׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H9009]]"
+- "[[H1695]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H2416A]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:4**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye that did cleave unto the LORD your God [are] alive every one of you this day.
 <small><sub>**BSB:**</sub></small>
 But you who held fast to the LORD your God are alive to this day, every one of you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּם֙]] [[H9009\|הַ]][[H1695\|דְּבֵקִ֔ים]] [[H9003\|בַּ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֑ם]] [[H2416A\|חַיִּ֥ים]] [[H3605\|כֻּלְּ]][[H9026\|כֶ֖ם]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.3|<< Deuteronomy 4:3]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.5|Deuteronomy 4:5 >>]]</td></tr></table>
 

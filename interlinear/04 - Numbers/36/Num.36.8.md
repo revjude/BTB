@@ -1,8 +1,70 @@
+---
+title: Numbers 36:8
+type: Verse
+kjv: "And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers."
+bsb: "Every daughter who possesses an inheritance from any Israelite tribe must marry within a clan of the tribe of her father, so that every Israelite will possess the inheritance of his fathers."
+hebrew: "וְכָל־ בַּ֞ת יֹרֶ֣שֶׁת נַחֲלָ֗ה מִמַּטּוֹת֮ בְּנֵ֣י יִשְׂרָאֵל֒ לְאֶחָ֗ד מִמִּשְׁפַּ֛חַת מַטֵּ֥ה אָבִ֖יהָ תִּהְיֶ֣ה לְאִשָּׁ֑ה לְמַ֗עַן יִֽירְשׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אִ֖ישׁ נַחֲלַ֥ת אֲבֹתָֽיו׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HEIR|HEIR]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1323G]]"
+- "[[H3423G]]"
+- "[[H5159]]"
+- "[[H9006]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0259]]"
+- "[[H4940]]"
+- "[[H0001G]]"
+- "[[H9024]]"
+- "[[H1961]]"
+- "[[H0802H]]"
+- "[[H4616]]"
+- "[[H0376I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:8**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
 <small><sub>**BSB:**</sub></small>
 Every daughter who possesses an inheritance from any Israelite tribe must marry within a clan of the tribe of her father, so that every Israelite will possess the inheritance of his fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1323G\|בַּ֞ת]] [[H3423G\|יֹרֶ֣שֶׁת]] [[H5159\|נַחֲלָ֗ה]] [[H9006\|מִ]][[H4294H\|מַּטּוֹת֮]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9005\|לְ]][[H0259\|אֶחָ֗ד]] [[H9006\|מִ]][[H4940\|מִּשְׁפַּ֛חַת]] [[H4294H\|מַטֵּ֥ה]] [[H0001G\|אָבִ֖י]][[H9024\|הָ]] [[H1961\|תִּהְיֶ֣ה]] [[H9005\|לְ]][[H0802H\|אִשָּׁ֑ה]] [[H4616\|לְמַ֗עַן]] [[H3423G\|יִֽירְשׁוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0376I\|אִ֖ישׁ]] [[H5159\|נַחֲלַ֥ת]] [[H0001G\|אֲבֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEIR|HEIR]] • [[topic INHERITANCE|INHERITANCE]] • [[topic LAND|LAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MILCAH|MILCAH]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.7|<< Numbers 36:7]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.9|Numbers 36:9 >>]]</td></tr></table>
 

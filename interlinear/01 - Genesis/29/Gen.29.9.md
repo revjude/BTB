@@ -1,8 +1,65 @@
+---
+title: Genesis 29:9
+type: Verse
+kjv: "And while he yet spake with them, Rachel came with her father’s sheep: for she kept them."
+bsb: "While he was still speaking with them, Rachel arrived with her father’s sheep, for she was a shepherdess."
+hebrew: "עוֹדֶ֖נּוּ מְדַבֵּ֣ר עִמָּ֑ם וְרָחֵ֣ל׀ בָּ֗אָה עִם־ הַצֹּאן֙ אֲשֶׁ֣ר לְאָבִ֔יהָ כִּ֥י רֹעָ֖ה הִֽוא׃"
+pericope: "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H7354]]"
+- "[[H9015]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H7462B]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:9**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And while he yet spake with them, Rachel came with her father’s sheep: for she kept them.
 <small><sub>**BSB:**</sub></small>
 While he was still speaking with them, Rachel arrived with her father’s sheep, for she was a shepherdess.
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|עוֹדֶ֖]][[H9043\|נּוּ]] [[H1696G\|מְדַבֵּ֣ר]] [[H5973A\|עִמָּ֑]][[H9038\|ם]] [[H9002\|וְ]][[H7354\|רָחֵ֣ל]][[H9015\|׀]] [[H0935G\|בָּ֗אָה]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּאן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9005\|לְ]][[H0001G\|אָבִ֔י]][[H9024\|הָ]] [[H3588A\|כִּ֥י]] [[H7462B\|רֹעָ֖ה]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RACHEL|RACHEL]] • [[topic SHEPHERD|SHEPHERD]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.8|<< Genesis 29:8]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.10|Genesis 29:10 >>]]</td></tr></table>
 

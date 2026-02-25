@@ -1,8 +1,70 @@
+---
+title: Leviticus 15:31
+type: Verse
+kjv: "Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that is among them."
+bsb: "You must keep the children of Israel separate from their uncleanness, so that they do not die by defiling My tabernacle, which is among them."
+hebrew: "וְהִזַּרְתֶּ֥ם אֶת־ בְּנֵי־ יִשְׂרָאֵ֖ל מִטֻּמְאָתָ֑ם וְלֹ֤א יָמֻ֙תוּ֙ בְּטֻמְאָתָ֔ם בְּטַמְּאָ֥ם אֶת־ מִשְׁכָּנִ֖י אֲשֶׁ֥ר בְּתוֹכָֽם׃"
+pericope: "[[Lev.15.28 The Cleansing of Women|The Cleansing of Women]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5144A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H2932]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H2930A]]"
+- "[[H9048]]"
+- "[[H4908]]"
+- "[[H9020]]"
+- "[[H0834A]]"
+- "[[H8432]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:31**<big><big>[[Lev.15.28 The Cleansing of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that [is] among them.
 <small><sub>**BSB:**</sub></small>
 You must keep the children of Israel separate from their uncleanness, so that they do not die by defiling My tabernacle, which is among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5144A\|הִזַּרְתֶּ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9006\|מִ]][[H2932\|טֻּמְאָתָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H4191\|יָמֻ֙תוּ֙]] [[H9003\|בְּ]][[H2932\|טֻמְאָתָ֔]][[H9028\|ם]] [[H9003\|בְּ]][[H2930A\|טַמְּאָ֥]][[H9048\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4908\|מִשְׁכָּנִ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic PRIEST|PRIEST]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]] • [[topic TABERNACLE|TABERNACLE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.30|<< Leviticus 15:30]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.32|Leviticus 15:32 >>]]</td></tr></table>
 

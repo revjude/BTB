@@ -1,10 +1,53 @@
+---
+title: Revelation 18:5
+type: Verse
+kjv: "For her sins have reached unto heaven, and God hath remembered her iniquities."
+bsb: "For her sins are piled up to heaven, and God has remembered her iniquities."
+greek: "ὅτι ἐκολλήθησαν αὐτῆς αἱ ἁμαρτίαι ἄχρι τοῦ οὐρανοῦ, καὶ ἐμνημόνευσεν ὁ θεὸς τὰ ἀδικήματα αὐτῆς."
+pericope: "[[Rev.18.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 18
+book/chapter: "[[Rev.18|Revelation 18]]"
+chronological_order: 1185
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G2853]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G0891]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G3421]]"
+- "[[G2316]]"
+- "[[G0092]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Revelation 18:5**<big><big>[[Rev.18.1 Babylon Is Fallen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For her sins have reached unto heaven, and God hath remembered her iniquities.
 <small><sub>**BSB:**</sub></small>
 For her sins are piled up to heaven, and God has remembered her iniquities.
-<small><sub>**Literal:**</sub></small>
-For they were heaped in her <the> sins as high as <the> heaven, and has remembered <the> God the iniquities of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.4|<< Revelation 18:4]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.6|Revelation 18:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G2853\|ἐκολλήθησαν]]  [[G0846\|αὐτῆς]]  [[G3588\|αἱ]]  [[G0266\|ἁμαρτίαι]]  [[G0891\|ἄχρι]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ,]]  [[G2532\|καὶ]]  [[G3421\|ἐμνημόνευσεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|τὰ]]  [[G0092\|ἀδικήματα]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.18.4|<< Revelation 18:4]]</td><td align="center" style="border:none;">[[Rev.18|Revelation 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.18.6|Revelation 18:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

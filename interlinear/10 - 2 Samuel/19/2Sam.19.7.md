@@ -1,8 +1,84 @@
+---
+title: 2 Samuel 19:7
+type: Verse
+kjv: "Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the LORD, if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now."
+bsb: "Now therefore get up! Go out and speak comfort to your servants, for I swear by the LORD that if you do not go out, not a man will remain with you tonight. This will be worse for you than all the adversity that has befallen you from your youth until now!”"
+hebrew: "וְעַתָּה֙ ק֣וּם צֵ֔א וְדַבֵּ֖ר עַל־ לֵ֣ב עֲבָדֶ֑יךָ כִּי֩ בַיהוָ֨ה נִשְׁבַּ֜עְתִּי כִּי־ אֵינְךָ֣ יוֹצֵ֗א אִם־ יָלִ֨ין אִ֤ישׁ אִתְּךָ֙ הַלַּ֔יְלָה וְרָעָ֧ה לְךָ֣ זֹ֗את מִכָּל־ הָרָעָה֙ אֲשֶׁר־ בָּ֣אָה עָלֶ֔יךָ מִנְּעֻרֶ֖יךָ עַד־ עָֽתָּה׃ ס"
+pericope: "[[2Sam.19.1 Joab Reproves David|Joab Reproves David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABSALOM|ABSALOM]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic OATH|OATH]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H6965B]]"
+- "[[H3318G]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H7650]]"
+- "[[H0369]]"
+- "[[H9041]]"
+- "[[H0518H]]"
+- "[[H3885A]]"
+- "[[H0376G]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3915]]"
+- "[[H9001]]"
+- "[[H7489A]]"
+- "[[H9005]]"
+- "[[H2063]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H7451H]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H5271A]]"
+- "[[H5704]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 19:7**<big><big>[[2Sam.19.1 Joab Reproves David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the LORD, if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now.
 <small><sub>**BSB:**</sub></small>
 Now therefore get up! Go out and speak comfort to your servants, for I swear by the LORD that if you do not go out, not a man will remain with you tonight. This will be worse for you than all the adversity that has befallen you from your youth until now!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H6965B\|ק֣וּם]] [[H3318G\|צֵ֔א]] [[H9002\|וְ]][[H1696G\|דַבֵּ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H3820A\|לֵ֣ב]] [[H5650\|עֲבָדֶ֑י]][[H9021\|ךָ]] [[H3588A\|כִּי֩]] [[H9003\|בַ]][[H3068G\|יהוָ֨ה]] [[H7650\|נִשְׁבַּ֜עְתִּי]] [[H3588A\|כִּי]][[H9014\|־]] [[H0369\|אֵינְ]][[H9041\|ךָ֣]] [[H3318G\|יוֹצֵ֗א]] [[H0518H\|אִם]][[H9014\|־]] [[H3885A\|יָלִ֨ין]] [[H0376G\|אִ֤ישׁ]] [[H0854\|אִתְּ]][[H9031\|ךָ֙]] [[H9009\|הַ]][[H3915\|לַּ֔יְלָה]] [[H9001\|וְ]][[H7489A\|רָעָ֧ה]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H2063\|זֹ֗את]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7451H\|רָעָה֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣אָה]] [[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9006\|מִ]][[H5271A\|נְּעֻרֶ֖י]][[H9021\|ךָ]] [[H5704\|עַד]][[H9014\|־]] [[H6258\|עָֽתָּה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSALOM|ABSALOM]] • [[topic CHIDING|CHIDING]] • [[topic COURAGE|COURAGE]] • [[topic DAVID|DAVID]] • [[topic JOAB|JOAB]] • [[topic OATH|OATH]] • [[topic REPROOF|REPROOF]] • [[topic SORROW|SORROW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.6|<< 2 Samuel 19:6]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.8|2 Samuel 19:8 >>]]</td></tr></table>
 
@@ -36,7 +112,7 @@ Now therefore get up! Go out and speak comfort to your servants, for I swear by 
 | on you  |**<big>&#8207;[[H5921A\|עָלֶ֔י]]&#8207;&#8207;[[H9031\|ךָ]]&#8207; </big>**| 'a.Lei.<small><sup>[[HRd]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | since youth\<s> your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H5271A\|נְּעֻרֶ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> ne.'u.Rei.<small><sup>[[HNcmpc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| now  |**<big>&#8207;[[H6258\|עָֽתָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| now  |**<big>&#8207;[[H6258\|עָֽתָּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'A.tah<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.6|<< 2 Samuel 19:6]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.8|2 Samuel 19:8 >>]]</td></tr></table>
 
 

@@ -1,8 +1,84 @@
+---
+title: Numbers 11:16
+type: Verse
+kjv: "And the LORD said unto Moses, Gather unto me seventy men of the elders of Israel, whom thou knowest to be the elders of the people, and officers over them; and bring them unto the tabernacle of the congregation, that they may stand there with thee."
+bsb: "Then the LORD said to Moses, “Bring Me seventy of the elders of Israel known to you as leaders and officers of the people. Bring them to the Tent of Meeting and have them stand there with you."
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ מֹשֶׁ֗ה אֶסְפָה־ לִּ֞י שִׁבְעִ֣ים אִישׁ֮ מִזִּקְנֵ֣י יִשְׂרָאֵל֒ אֲשֶׁ֣ר יָדַ֔עְתָּ כִּי־ הֵ֛ם זִקְנֵ֥י הָעָ֖ם וְשֹׁטְרָ֑יו וְלָקַחְתָּ֤ אֹתָם֙ אֶל־ אֹ֣הֶל מוֹעֵ֔ד וְהִֽתְיַצְּב֥וּ שָׁ֖ם עִמָּֽךְ׃"
+pericope: "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic JURY|JURY]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEVENTY|SEVENTY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0622]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H7657]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H1992]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H7860]]"
+- "[[H9023]]"
+- "[[H3947J]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H3320]]"
+- "[[H8033G]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:16**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Gather unto me seventy men of the elders of Israel, whom thou knowest to be the elders of the people, and officers over them; and bring them unto the tabernacle of the congregation, that they may stand there with thee.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Bring Me seventy of the elders of Israel known to you as leaders and officers of the people. Bring them to the Tent of Meeting and have them stand there with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֗ה]] [[H0622\|אֶסְפָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֞]][[H9030\|י]] [[H7657\|שִׁבְעִ֣ים]] [[H0376G\|אִישׁ֮]] [[H9006\|מִ]][[H2205G\|זִּקְנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H0834A\|אֲשֶׁ֣ר]] [[H3045\|יָדַ֔עְתָּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H1992\|הֵ֛ם]] [[H2205G\|זִקְנֵ֥י]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9002\|וְ]][[H7860\|שֹׁטְרָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H3947J\|לָקַחְתָּ֤]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H9001\|וְ]][[H3320\|הִֽתְיַצְּב֥וּ]] [[H8033G\|שָׁ֖ם]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic INSPIRATION|INSPIRATION]] • [[topic JURY|JURY]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic SEVENTY|SEVENTY]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.15|<< Numbers 11:15]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.17|Numbers 11:17 >>]]</td></tr></table>
 

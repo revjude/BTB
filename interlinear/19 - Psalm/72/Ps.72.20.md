@@ -1,8 +1,51 @@
+---
+title: Psalm 72:20
+type: Verse
+kjv: "The prayers of David the son of Jesse are ended."
+bsb: "Thus conclude the prayers of David son of Jesse."
+hebrew: "כָּלּ֥וּ תְפִלּ֑וֹת דָּ֝וִ֗ד בֶּן־ יִשָֽׁי׃"
+pericope: "[[Ps.72.1 Endow the King with Your Justice|Endow the King with Your Justice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 72
+book/chapter: "[[Ps.72|Psalm 72]]"
+chronological_order: 446
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+strongs:
+- "[[H3615G]]"
+- "[[H8605]]"
+- "[[H1732]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3448]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 72:20**<big><big>[[Ps.72.1 Endow the King with Your Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The prayers of David the son of Jesse are ended.
 <small><sub>**BSB:**</sub></small>
 Thus conclude the prayers of David son of Jesse.
+<small><sub>**Hebrew:**</sub></small>
+[[H3615G\|כָּלּ֥וּ]] [[H8605\|תְפִלּ֑וֹת]] [[H1732\|דָּ֝וִ֗ד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3448\|יִשָֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.72.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.72.19|<< Psalms 72:19]]</td><td align="center" style="border:none;">[[Ps.72|Psalms 72]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.73.0|Psalms 73:0 >>]]</td></tr></table>
 

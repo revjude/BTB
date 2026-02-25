@@ -1,10 +1,55 @@
+---
+title: Hebrews 11:31
+type: Verse
+kjv: "By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace."
+bsb: "By faith the prostitute Rahab, because she welcomed the spies in peace, did not perish with those who were disobedient."
+greek: "Πίστει Ῥαὰβ ἡ πόρνη οὐ συναπώλετο τοῖς ἀπειθήσασιν δεξαμένη τοὺς κατασκόπους μετ᾽ εἰρήνης.¶"
+pericope: "[[Heb.11.30 (Joshua–Malachi)|(Joshua–Malachi)]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic RAHAB|RAHAB]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G4102G]]"
+- "[[G4460]]"
+- "[[G3588]]"
+- "[[G4204]]"
+- "[[G3756]]"
+- "[[G4881]]"
+- "[[G0544]]"
+- "[[G1209]]"
+- "[[G2685]]"
+- "[[G3326]]"
+- "[[G1515]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:31**<big><big>[[Heb.11.30 (Joshua–Malachi)|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith the harlot Rahab perished not with them that believed not, when she had received the spies with peace.
 <small><sub>**BSB:**</sub></small>
 By faith the prostitute Rahab, because she welcomed the spies in peace, did not perish with those who were disobedient.
-<small><sub>**Literal:**</sub></small>
-By faith Rahab the prostitute not did perish with those having disobeyed having received the spies with peace.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.30|<< Hebrews 11:30]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.32|Hebrews 11:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G4460\|Ῥαὰβ]]  [[G3588\|ἡ]]  [[G4204\|πόρνη]]  [[G3756\|οὐ]]  [[G4881\|συναπώλετο]]  [[G3588\|τοῖς]]  [[G0544\|ἀπειθήσασιν]]  [[G1209\|δεξαμένη]]  [[G3588\|τοὺς]]  [[G2685\|κατασκόπους]]  [[G3326\|μετ᾽]]  [[G1515\|εἰρήνης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic JERICHO|JERICHO]] • [[topic RAHAB|RAHAB]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.30|<< Hebrews 11:30]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.32|Hebrews 11:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:31** is...
 > $\quad$ alluding to: [[LXX.Josh.2.1|Josh 2:1]] ☩ [[LXX.Josh.6.17|Josh 6:17]] ☩ [[LXX.Josh.6.23|Josh 6:23]]

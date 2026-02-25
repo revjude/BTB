@@ -1,8 +1,71 @@
+---
+title: Esther 9:25
+type: Verse
+kjv: "But when Esther came before the king, he commanded by letters that his wicked device, which he devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows."
+bsb: "But when it came before the king, he commanded by letter that the wicked scheme which Haman had devised against the Jews should come back upon his own head, and that he and his sons should be hanged on the gallows."
+hebrew: "וּבְבֹאָהּ֮ לִפְנֵ֣י הַמֶּלֶךְ֒ אָמַ֣ר עִם־ הַסֵּ֔פֶר יָשׁ֞וּב מַחֲשַׁבְתּ֧וֹ הָרָעָ֛ה אֲשֶׁר־ חָשַׁ֥ב עַל־ הַיְּהוּדִ֖ים עַל־ רֹאשׁ֑וֹ וְתָל֥וּ אֹת֛וֹ וְאֶת־ בָּנָ֖יו עַל־ הָעֵֽץ׃"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic GALLOWS|GALLOWS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PURIM|PURIM]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9044]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0559]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H5612A]]"
+- "[[H7725G]]"
+- "[[H4284]]"
+- "[[H9023]]"
+- "[[H7451H]]"
+- "[[H0834A]]"
+- "[[H2803G]]"
+- "[[H5921A]]"
+- "[[H3064]]"
+- "[[H7218A]]"
+- "[[H9001]]"
+- "[[H8518]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H1121A]]"
+- "[[H6086J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:25**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But when [Esther] came before the king, he commanded by letters that his wicked device, which he devised against the Jews, should return upon his own head, and that he and his sons should be hanged on the gallows.
 <small><sub>**BSB:**</sub></small>
 But when it came before the king, he commanded by letter that the wicked scheme which Haman had devised against the Jews should come back upon his own head, and that he and his sons should be hanged on the gallows.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H0935G\|בֹאָ]][[H9044\|הּ֮]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּלֶךְ֒]] [[H0559\|אָמַ֣ר]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H5612A\|סֵּ֔פֶר]] [[H7725G\|יָשׁ֞וּב]] [[H4284\|מַחֲשַׁבְתּ֧]][[H9023\|וֹ]] [[H9009\|הָ]][[H7451H\|רָעָ֛ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2803G\|חָשַׁ֥ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H8518\|תָל֥וּ]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֖י]][[H9023\|ו]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H6086J\|עֵֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALLOWS|GALLOWS]] • [[topic GOD|GOD]] • [[topic MONTH|MONTH]] • [[topic PURIM|PURIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.24|<< Esther 9:24]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.26|Esther 9:26 >>]]</td></tr></table>
 

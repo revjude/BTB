@@ -1,10 +1,56 @@
+---
+title: Luke 5:26
+type: Verse
+kjv: "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day."
+bsb: "Everyone was taken with amazement and glorified God. They were filled with awe and said, “We have seen remarkable things today.”"
+greek: "καὶ ἔκστασις ἔλαβεν ἅπαντας, καὶ ἐδόξαζον τὸν θεὸν καὶ ἐπλήσθησαν φόβου λέγοντες ὅτι εἴδομεν παράδοξα σήμερον.¶"
+pericope: "[[Luke.5.17 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G1611]]"
+- "[[G2983]]"
+- "[[G0537]]"
+- "[[G1392]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4130]]"
+- "[[G5401]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1492H]]"
+- "[[G3861]]"
+- "[[G4594]]"
+texts:
+- NKO
+---
+
 **Luke 5:26**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day.
 <small><sub>**BSB:**</sub></small>
 Everyone was taken with amazement and glorified God. They were filled with awe and said, “We have seen remarkable things today.”
-<small><sub>**Literal:**</sub></small>
-And amazement seized all, and they were glorifying <the> God and were filled with fear saying that We have seen remarkable things today.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.25|<< Luke 5:25]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.27|Luke 5:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1611\|ἔκστασις]]  [[G2983\|ἔλαβεν]]  [[G0537\|ἅπαντας,]]  [[G2532\|καὶ]]  [[G1392\|ἐδόξαζον]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2532\|καὶ]]  [[G4130\|ἐπλήσθησαν]]  [[G5401\|φόβου]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G1492H\|εἴδομεν]]  [[G3861\|παράδοξα]]  [[G4594\|σήμερον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.25|<< Luke 5:25]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.27|Luke 5:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,72 @@
+---
+title: Matthew 24:29
+type: Verse
+kjv: "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
+bsb: "Immediately after the tribulation of those days: ‘The sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the powers of the heavens will be shaken.’"
+jesus_said: "Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:"
+greek: "εὐθέως δὲ μετὰ τὴν θλῖψιν τῶν ἡμερῶν ἐκείνων ὁ ἥλιος σκοτισθήσεται, καὶ ἡ σελήνη οὐ δώσει τὸ φέγγος αὐτῆς, καὶ οἱ ἀστέρες πεσοῦνται ἀπὸ τοῦ οὐρανοῦ, καὶ αἱ δυνάμεις τῶν οὐρανῶν σαλευθήσονται."
+pericope: "[[Matt.24.26 The Return of the Son of Man|The Return of the Son of Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ASTRONOMY|ASTRONOMY]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MOON|MOON]]"
+- "[[topic STARS|STARS]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[G2112]]"
+- "[[G1161]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G2347]]"
+- "[[G2250]]"
+- "[[G1565]]"
+- "[[G2246]]"
+- "[[G4654]]"
+- "[[G2532]]"
+- "[[G4582]]"
+- "[[G3756]]"
+- "[[G1325]]"
+- "[[G5338]]"
+- "[[G0846]]"
+- "[[G0792]]"
+- "[[G4098]]"
+- "[[G0575]]"
+- "[[G3772]]"
+- "[[G1411]]"
+- "[[G4531]]"
+texts:
+- NKO
+---
+
 **Matthew 24:29**<big><big>[[Matt.24.26 The Return of the Son of Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Immediately after the tribulation of those days shall the sun be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of the heavens shall be shaken:
 <small><sub>**BSB:**</sub></small>
 Immediately after the tribulation of those days: ‘The sun will be darkened, and the moon will not give its light; the stars will fall from the sky, and the powers of the heavens will be shaken.’
-<small><sub>**Literal:**</sub></small>
-Immediately then after the tribulation of the days of those The sun will be darkened, and the moon not will give the light of it, and the stars will fall from the sky, and the powers of the heavens will be shaken.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.28|<< Matthew 24:28]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.30|Matthew 24:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2112\|εὐθέως]]  [[G1161\|δὲ]]  [[G3326\|μετὰ]]  [[G3588\|τὴν]]  [[G2347\|θλῖψιν]]  [[G3588\|τῶν]]  [[G2250\|ἡμερῶν]]  [[G1565\|ἐκείνων]]  [[G3588\|ὁ]]  [[G2246\|ἥλιος]]  [[G4654\|σκοτισθήσεται,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4582\|σελήνη]]  [[G3756\|οὐ]]  [[G1325\|δώσει]]  [[G3588\|τὸ]]  [[G5338\|φέγγος]]  [[G0846\|αὐτῆς,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0792\|ἀστέρες]]  [[G4098\|πεσοῦνται]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ,]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G1411\|δυνάμεις]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G4531\|σαλευθήσονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASTRONOMY|ASTRONOMY]] • [[topic DARKNESS|DARKNESS]] • [[topic EARTH|EARTH]] • [[topic ECLIPSE|ECLIPSE]] • [[topic HEAVEN|HEAVEN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MOON|MOON]] • [[topic STARS|STARS]] • [[topic SUN|SUN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.28|<< Matthew 24:28]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.30|Matthew 24:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 24:29** is...
 > $\quad$ alluding to: [[LXX.Isa.13.9|Isa 13:9-10]] ☩ [[LXX.Joel.2.10|Joel 2:10]] ☩ [[LXX.Joel.3.15|Joel 3:15]] ☩ [[LXX.Ezek.32.7|Ezek 32:7]]

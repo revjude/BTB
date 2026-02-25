@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Instructions to Women
+type: Pericope
 pericope: "[[1Tim.2.9 Instructions to Women|Instructions to Women]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 2
 book/chapter: "[[1Tim.2|1 Timothy 2]]"
-genre:
+chronological_order: 1127
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 7
 verses:
 - "[[1Tim.2.9]]"
 - "[[1Tim.2.10]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Tim.2.15]]"
 ---
 
-[[1Tim.2|1 Timothy 2:9 - 1 Timothy 2:15]]
+<small>[[1Tim.2|1 Timothy 2:9-15]]</small>
 *Instructions to Women*
 
 [[1Tim.2.9|9]] In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;

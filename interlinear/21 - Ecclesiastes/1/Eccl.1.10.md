@@ -1,8 +1,54 @@
+---
+title: Ecclesiastes 1:10
+type: Verse
+kjv: "Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us."
+bsb: "Is there a case where one can say, “Look, this is new”? It has already existed in the ages before us."
+hebrew: "יֵ֥שׁ דָּבָ֛ר שֶׁיֹּאמַ֥ר רְאֵה־ זֶ֖ה חָדָ֣שׁ ה֑וּא כְּבָר֙ הָיָ֣ה לְעֹֽלָמִ֔ים אֲשֶׁ֥ר הָיָ֖ה מִלְּפָנֵֽנוּ׃"
+pericope: "[[Eccl.1.1 Everything Is Futile|Everything Is Futile]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 1
+book/chapter: "[[Eccl.1|Ecclesiastes 1]]"
+chronological_order: 539
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+strongs:
+- "[[H3426]]"
+- "[[H1697I]]"
+- "[[H9007]]"
+- "[[H0559]]"
+- "[[H7200I]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H2319H]]"
+- "[[H1931]]"
+- "[[H3528]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H5769J]]"
+- "[[H0834A]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 1:10**<big><big>[[Eccl.1.1 Everything Is Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Is there [any] thing whereof it may be said, See, this [is] new? it hath been already of old time, which was before us.
 <small><sub>**BSB:**</sub></small>
 Is there a case where one can say, “Look, this is new”? It has already existed in the ages before us.
+<small><sub>**Hebrew:**</sub></small>
+[[H3426\|יֵ֥שׁ]] [[H1697I\|דָּבָ֛ר]] [[H9007\|שֶׁ]][[H0559\|יֹּאמַ֥ר]] [[H7200I\|רְאֵה]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H2319H\|חָדָ֣שׁ]] [[H1931\|ה֑וּא]] [[H3528\|כְּבָר֙]] [[H1961\|הָיָ֣ה]] [[H9005\|לְ]][[H5769J\|עֹֽלָמִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|הָיָ֖ה]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.1.9|<< Ecclesiastes 1:9]]</td><td align="center" style="border:none;">[[Eccl.1|Ecclesiastes 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.1.11|Ecclesiastes 1:11 >>]]</td></tr></table>
 

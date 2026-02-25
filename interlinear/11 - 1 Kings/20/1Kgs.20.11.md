@@ -1,8 +1,59 @@
+---
+title: 1 Kings 20:11
+type: Verse
+kjv: "And the king of Israel answered and said, Tell him, Let not him that girdeth on his harness boast himself as he that putteth it off."
+bsb: "And the king of Israel replied, “Tell him: ‘The one putting on his armor should not boast like one taking it off.’”"
+hebrew: "וַיַּ֤עַן מֶֽלֶךְ־ יִשְׂרָאֵל֙ וַיֹּ֣אמֶר דַּבְּר֔וּ אַל־ יִתְהַלֵּ֥ל חֹגֵ֖ר כִּמְפַתֵּֽחַ׃"
+pericope: "[[1Kgs.20.1 Ben-hadad Attacks Samaria|Ben-hadad Attacks Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PROVERBS|PROVERBS]]"
+- "[[topic SARCASM|SARCASM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0559]]"
+- "[[H1696G]]"
+- "[[H0408]]"
+- "[[H1984H]]"
+- "[[H2296]]"
+- "[[H9004]]"
+- "[[H6605A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:11**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Israel answered and said, Tell [him], Let not him that girdeth on [his harness] boast himself as he that putteth it off.
 <small><sub>**BSB:**</sub></small>
 And the king of Israel replied, “Tell him: ‘The one putting on his armor should not boast like one taking it off.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֤עַן]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1696G\|דַּבְּר֔וּ]] [[H0408\|אַל]][[H9014\|־]] [[H1984H\|יִתְהַלֵּ֥ל]] [[H2296\|חֹגֵ֖ר]] [[H9004\|כִּ]][[H6605A\|מְפַתֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic PRIDE|PRIDE]] • [[topic PROVERBS|PROVERBS]] • [[topic SARCASM|SARCASM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.10|<< 1 Kings 20:10]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.12|1 Kings 20:12 >>]]</td></tr></table>
 

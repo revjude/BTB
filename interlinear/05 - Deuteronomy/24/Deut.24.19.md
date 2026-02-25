@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 24:19
+type: Verse
+kjv: "When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD thy God may bless thee in all the work of thine hands."
+bsb: "If you are harvesting in your field and forget a sheaf there, do not go back to get it. It is to be left for the foreigner, the fatherless, and the widow, so that the LORD your God may bless you in all the work of your hands."
+hebrew: "כִּ֣י תִקְצֹר֩ קְצִֽירְךָ֨ בְשָׂדֶ֜ךָ וְשָֽׁכַחְתָּ֧ עֹ֣מֶר בַּשָּׂדֶ֗ה לֹ֤א תָשׁוּב֙ לְקַחְתּ֔וֹ לַגֵּ֛ר לַיָּת֥וֹם וְלָאַלְמָנָ֖ה יִהְיֶ֑ה לְמַ֤עַן יְבָרֶכְךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל מַעֲשֵׂ֥ה יָדֶֽיךָ׃"
+pericope: "[[Deut.24.6 Additional Laws|Additional Laws]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 24
+book/chapter: "[[Deut.24|Deuteronomy 24]]"
+chronological_order: 220
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic GLEANING|GLEANING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H3588A]]"
+- "[[H7114B]]"
+- "[[H7105A]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H9001]]"
+- "[[H7911]]"
+- "[[H6016A]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H1616]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H1961]]"
+- "[[H4616]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 24:19**<big><big>[[Deut.24.6 Additional Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD thy God may bless thee in all the work of thine hands.
 <small><sub>**BSB:**</sub></small>
 If you are harvesting in your field and forget a sheaf there, do not go back to get it. It is to be left for the foreigner, the fatherless, and the widow, so that the LORD your God may bless you in all the work of your hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H7114B\|תִקְצֹר֩]] [[H7105A\|קְצִֽירְ]][[H9021\|ךָ֨]] [[H9003\|בְ]][[H7704G\|שָׂדֶ֜]][[H9021\|ךָ]] [[H9001\|וְ]][[H7911\|שָֽׁכַחְתָּ֧]] [[H6016A\|עֹ֣מֶר]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֗ה]] [[H3808\|לֹ֤א]] [[H7725G\|תָשׁוּב֙]] [[H9005\|לְ]][[H3947G\|קַחְתּ֔]][[H9033\|וֹ]] [[H9005\|לַ]][[H1616\|גֵּ֛ר]] [[H9005\|לַ]][[H3490\|יָּת֥וֹם]] [[H9002\|וְ]][[H9005\|לָ]][[H0490\|אַלְמָנָ֖ה]] [[H1961\|יִהְיֶ֑ה]] [[H4616\|לְמַ֤עַן]] [[H1288\|יְבָרֶכְ]][[H9031\|ךָ֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H3027G\|יָדֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic GLEANING|GLEANING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic ORPHAN|ORPHAN]] • [[topic POOR|POOR]] • [[topic REWARD|REWARD]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.24.18|<< Deuteronomy 24:18]]</td><td align="center" style="border:none;">[[Deut.24|Deuteronomy 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.24.20|Deuteronomy 24:20 >>]]</td></tr></table>
 

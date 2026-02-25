@@ -1,8 +1,63 @@
+---
+title: Isaiah 56:10
+type: Verse
+kjv: "His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber."
+bsb: "Israel’s watchmen are blind, they are all oblivious; they are all mute dogs, they cannot bark; they are dreamers lying around, loving to slumber."
+hebrew: "צֹפָ֞יו עִוְרִ֤ים כֻּלָּם֙ לֹ֣א יָדָ֔עוּ כֻּלָּם֙ כְּלָבִ֣ים אִלְּמִ֔ים לֹ֥א יוּכְל֖וּ לִנְבֹּ֑חַ הֹזִים֙ שֹֽׁכְבִ֔ים אֹהֲבֵ֖י לָנֽוּם׃"
+pericope: "[[Isa.56.9 Israel’s Sinful Leaders|Israel’s Sinful Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 56
+book/chapter: "[[Isa.56|Isaiah 56]]"
+chronological_order: 695
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DOG|DOG]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H6822]]"
+- "[[H9033]]"
+- "[[H5787]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3611]]"
+- "[[H0483]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H5024]]"
+- "[[H1957]]"
+- "[[H7901G]]"
+- "[[H0157G]]"
+- "[[H5123]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Isaiah 56:10**<big><big>[[Isa.56.9 Israel’s Sinful Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His watchmen [are] blind: they are all ignorant, they [are] all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
 <small><sub>**BSB:**</sub></small>
 Israel’s watchmen are blind, they are all oblivious; they are all mute dogs, they cannot bark; they are dreamers lying around, loving to slumber.
+<small><sub>**Hebrew:**</sub></small>
+[[H6822\|צֹפָ֞י]][[H9033\|ו]] [[H5787\|עִוְרִ֤ים]] [[H3605\|כֻּלָּ]][[H9028\|ם֙]] [[H3808\|לֹ֣א]] [[H3045\|יָדָ֔עוּ]] [[H3605\|כֻּלָּ]][[H9028\|ם֙]] [[H3611\|כְּלָבִ֣ים]] [[H0483\|אִלְּמִ֔ים]] [[H3808\|לֹ֥א]] [[H3201\|יוּכְל֖וּ]] [[H9005\|לִ]][[H5024\|נְבֹּ֑חַ]] [[H1957\|הֹזִים֙]] [[H7901G\|שֹֽׁכְבִ֔ים]] [[H0157G\|אֹהֲבֵ֖י]] [[H9005\|לָ]][[H5123\|נֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DOG|DOG]] • [[topic IDLENESS|IDLENESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.56.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.56.9|<< Isaiah 56:9]]</td><td align="center" style="border:none;">[[Isa.56|Isaiah 56]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.56.11|Isaiah 56:11 >>]]</td></tr></table>
 

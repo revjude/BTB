@@ -1,10 +1,75 @@
+---
+title: Luke 18:22
+type: Verse
+kjv: "Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me."
+bsb: "On hearing this, Jesus told him, “You still lack one thing: Sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.”"
+jesus_said: "Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me."
+greek: "Ἀκούσας δὲ ταῦτα ὁ Ἰησοῦς εἶπεν αὐτῷ· ἔτι ἕν σοι λείπει· πάντα ὅσα ἔχεις πώλησον καὶ διάδος πτωχοῖς, καὶ ἕξεις θησαυρὸν ἐν τοῖς οὐρανοῖς· καὶ δεῦρο, ἀκολούθει μοι.¶"
+pericope: "[[Luke.18.18 The Rich Young Ruler|The Rich Young Ruler]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2089]]"
+- "[[G1520]]"
+- "[[G4771]]"
+- "[[G3007]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G2192]]"
+- "[[G4453]]"
+- "[[G2532]]"
+- "[[G1239]]"
+- "[[G4434]]"
+- "[[G2344]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G1204]]"
+- "[[G0190]]"
+- "[[G3165]]"
+texts:
+- NKO
+- k
+- no
+- N(k)O
+---
+
 **Luke 18:22**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me.
 <small><sub>**BSB:**</sub></small>
 On hearing this, Jesus told him, “You still lack one thing: Sell everything you own and give to the poor, and you will have treasure in heaven. Then come, follow Me.”
-<small><sub>**Literal:**</sub></small>
-Having heard then these things <the> Jesus said to him; Yet one thing to you is lacking: All as much as you have do sell and do distribute to [the] poor, and you will have treasure in the heavens; and come, do follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.21|<< Luke 18:21]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.23|Luke 18:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσας]]  [[G1161\|δὲ]]  [[G3778\|ταῦτα]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G2089\|ἔτι]]  [[G1520\|ἕν]]  [[G4771\|σοι]]  [[G3007\|λείπει·]]  [[G3956\|πάντα]]  [[G3745\|ὅσα]]  [[G2192\|ἔχεις]]  [[G4453\|πώλησον]]  [[G2532\|καὶ]]  [[G1239\|διάδος]]  [[G4434\|πτωχοῖς,]]  [[G2532\|καὶ]]  [[G2192\|ἕξεις]]  [[G2344\|θησαυρὸν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς·]]  [[G2532\|καὶ]]  [[G1204\|δεῦρο,]]  [[G0190\|ἀκολούθει]]  [[G3165\|μοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POOR|POOR]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.21|<< Luke 18:21]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.23|Luke 18:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

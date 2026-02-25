@@ -1,8 +1,64 @@
+---
+title: Exodus 36:12
+type: Verse
+kjv: "Fifty loops made he in one curtain, and fifty loops made he in the edge of the curtain which was in the coupling of the second: the loops held one curtain to another."
+bsb: "He made fifty loops on one curtain and fifty loops on the end curtain of the second set, so that the loops lined up opposite one another."
+hebrew: "חֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֮ בַּיְרִיעָ֣ה הָאֶחָת֒ וַחֲמִשִּׁ֣ים לֻלָאֹ֗ת עָשָׂה֙ בִּקְצֵ֣ה הַיְרִיעָ֔ה אֲשֶׁ֖ר בַּמַּחְבֶּ֣רֶת הַשֵּׁנִ֑ית מַקְבִּילֹת֙ הַלֻּ֣לָאֹ֔ת אַחַ֖ת אֶל־ אֶחָֽת׃"
+pericope: "[[Exod.36.8 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H2572]]"
+- "[[H3924]]"
+- "[[H6213H]]"
+- "[[H9003]]"
+- "[[H3407]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H7097A]]"
+- "[[H0834A]]"
+- "[[H4225]]"
+- "[[H8145]]"
+- "[[H6901]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:12**<big><big>[[Exod.36.8 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fifty loops made he in one curtain, and fifty loops made he in the edge of the curtain which [was] in the coupling of the second: the loops held one [curtain] to another.
 <small><sub>**BSB:**</sub></small>
 He made fifty loops on one curtain and fifty loops on the end curtain of the second set, so that the loops lined up opposite one another.
+<small><sub>**Hebrew:**</sub></small>
+[[H2572\|חֲמִשִּׁ֣ים]] [[H3924\|לֻלָאֹ֗ת]] [[H6213H\|עָשָׂה֮]] [[H9003\|בַּ]][[H3407\|יְרִיעָ֣ה]] [[H9009\|הָ]][[H0259\|אֶחָת֒]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֣ים]] [[H3924\|לֻלָאֹ֗ת]] [[H6213H\|עָשָׂה֙]] [[H9003\|בִּ]][[H7097A\|קְצֵ֣ה]] [[H9009\|הַ]][[H3407\|יְרִיעָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בַּ]][[H4225\|מַּחְבֶּ֣רֶת]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֑ית]] [[H6901\|מַקְבִּילֹת֙]] [[H9009\|הַ]][[H3924\|לֻּ֣לָאֹ֔ת]] [[H0259\|אַחַ֖ת]] [[H0413\|אֶל]][[H9014\|־]] [[H0259\|אֶחָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURTAINS|CURTAINS]] • [[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.11|<< Exodus 36:11]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.13|Exodus 36:13 >>]]</td></tr></table>
 

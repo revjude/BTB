@@ -1,8 +1,68 @@
+---
+title: 1 Kings 14:14
+type: Verse
+kjv: "Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now."
+bsb: "Moreover, the LORD will raise up for Himself a king over Israel who will cut off the house of Jeroboam. This is the day—yes, even today!"
+hebrew: "וְהֵקִים֩ יְהוָ֨ה ל֥וֹ מֶ֙לֶךְ֙ עַל־ יִשְׂרָאֵ֔ל אֲשֶׁ֥ר יַכְרִ֛ית אֶת־ בֵּ֥ית יָרָבְעָ֖ם זֶ֣ה הַיּ֑וֹם וּמֶ֖ה גַּם־ עָֽתָּה׃"
+pericope: "[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|Ahijah’s Prophecy against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABIJAH|ABIJAH]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H1004M]]"
+- "[[H3379G]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H1571]]"
+- "[[H6258]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:14**<big><big>[[1Kgs.14.1 Ahijah’s Prophecy against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the LORD shall raise him up a king over Israel, who shall cut off the house of Jeroboam that day: but what? even now.
 <small><sub>**BSB:**</sub></small>
 Moreover, the LORD will raise up for Himself a king over Israel who will cut off the house of Jeroboam. This is the day—yes, even today!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6965I\|הֵקִים֩]] [[H3068G\|יְהוָ֨ה]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H4428G\|מֶ֙לֶךְ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H3772I\|יַכְרִ֛ית]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H3379G\|יָרָבְעָ֖ם]] [[H2088\|זֶ֣ה]] [[H9009\|הַ]][[H3117L\|יּ֑וֹם]] [[H9002\|וּ]][[H4100\|מֶ֖ה]] [[H1571\|גַּם]][[H9014\|־]] [[H6258\|עָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAH|ABIJAH]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.13|<< 1 Kings 14:13]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.15|1 Kings 14:15 >>]]</td></tr></table>
 

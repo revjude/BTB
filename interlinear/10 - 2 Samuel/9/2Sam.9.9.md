@@ -1,8 +1,67 @@
+---
+title: 2 Samuel 9:9
+type: Verse
+kjv: "Then the king called to Ziba, Saul’s servant, and said unto him, I have given unto thy master’s son all that pertained to Saul and to all his house."
+bsb: "Then the king summoned Saul’s servant Ziba and said to him, “I have given to your master’s grandson all that belonged to Saul and to all his house."
+hebrew: "וַיִּקְרָ֣א הַמֶּ֗לֶךְ אֶל־ צִיבָ֛א נַ֥עַר שָׁא֖וּל וַיֹּ֣אמֶר אֵלָ֑יו כֹּל֩ אֲשֶׁ֨ר הָיָ֤ה לְשָׁאוּל֙ וּלְכָל־ בֵּית֔וֹ נָתַ֖תִּי לְבֶן־ אֲדֹנֶֽיךָ׃"
+pericope: "[[2Sam.9.1 David and Mephibosheth|David and Mephibosheth]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 9
+book/chapter: "[[2Sam.9|2 Samuel 9]]"
+chronological_order: 403
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6717]]"
+- "[[H5288]]"
+- "[[H7586G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H1121G]]"
+- "[[H0113]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 9:9**<big><big>[[2Sam.9.1 David and Mephibosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the king called to Ziba, Saul’s servant, and said unto him, I have given unto thy master’s son all that pertained to Saul and to all his house.
 <small><sub>**BSB:**</sub></small>
 Then the king summoned Saul’s servant Ziba and said to him, “I have given to your master’s grandson all that belonged to Saul and to all his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֣א]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H6717\|צִיבָ֛א]] [[H5288\|נַ֥עַר]] [[H7586G\|שָׁא֖וּל]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H3605\|כֹּל֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָיָ֤ה]] [[H9005\|לְ]][[H7586G\|שָׁאוּל֙]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לְ]][[H1121G\|בֶן]][[H9014\|־]] [[H0113\|אֲדֹנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]] • [[topic MEPHIBOSHETH|MEPHIBOSHETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.8|<< 2 Samuel 9:8]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.9.10|2 Samuel 9:10 >>]]</td></tr></table>
 

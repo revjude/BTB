@@ -1,8 +1,60 @@
+---
+title: Psalm 25:12
+type: Verse
+kjv: "What man is he that feareth the LORD? him shall he teach in the way that he shall choose."
+bsb: "Who is the man who fears the LORD? He will instruct him in the path chosen for him."
+hebrew: "מִי־ זֶ֣ה הָ֭אִישׁ יְרֵ֣א יְהוָ֑ה י֝וֹרֶ֗נּוּ בְּדֶ֣רֶךְ יִבְחָֽר׃"
+pericope: "[[Ps.25.1 To You I Lift Up My Soul|To You I Lift Up My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 25
+book/chapter: "[[Ps.25|Psalm 25]]"
+chronological_order: 357
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H3373]]"
+- "[[H3068G]]"
+- "[[H3384B]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H0977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 25:12**<big><big>[[Ps.25.1 To You I Lift Up My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What man [is] he that feareth the LORD? him shall he teach in the way [that] he shall choose.
 <small><sub>**BSB:**</sub></small>
 Who is the man who fears the LORD? He will instruct him in the path chosen for him.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִי]][[H9014\|־]] [[H2088\|זֶ֣ה]] [[H9009\|הָ֭]][[H0376G\|אִישׁ]] [[H3373\|יְרֵ֣א]] [[H3068G\|יְהוָ֑ה]] [[H3384B\|י֝וֹרֶ֗]][[H9033\|נּוּ]] [[H9003\|בְּ]][[H1870G\|דֶ֣רֶךְ]] [[H0977\|יִבְחָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PEACE|PEACE]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.25.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.25.11|<< Psalms 25:11]]</td><td align="center" style="border:none;">[[Ps.25|Psalms 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.25.13|Psalms 25:13 >>]]</td></tr></table>
 

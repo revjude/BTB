@@ -1,8 +1,70 @@
+---
+title: Numbers 32:14
+type: Verse
+kjv: "And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel."
+bsb: "Now behold, you, a brood of sinners, have risen up in place of your fathers to further stoke the burning anger of the LORD against Israel."
+hebrew: "וְהִנֵּ֣ה קַמְתֶּ֗ם תַּ֚חַת אֲבֹ֣תֵיכֶ֔ם תַּרְבּ֖וּת אֲנָשִׁ֣ים חַטָּאִ֑ים לִסְפּ֣וֹת ע֗וֹד עַ֛ל חֲר֥וֹן אַף־ יְהוָ֖ה אֶל־ יִשְׂרָאֵֽל׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H6965B]]"
+- "[[H8478H]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H8635]]"
+- "[[H0582]]"
+- "[[H2400]]"
+- "[[H9005]]"
+- "[[H5595]]"
+- "[[H5750]]"
+- "[[H5921A]]"
+- "[[H2740]]"
+- "[[H0639G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:14**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, ye are risen up in your fathers’ stead, an increase of sinful men, to augment yet the fierce anger of the LORD toward Israel.
 <small><sub>**BSB:**</sub></small>
 Now behold, you, a brood of sinners, have risen up in place of your fathers to further stoke the burning anger of the LORD against Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H6965B\|קַמְתֶּ֗ם]] [[H8478H\|תַּ֚חַת]] [[H0001G\|אֲבֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H8635\|תַּרְבּ֖וּת]] [[H0582\|אֲנָשִׁ֣ים]] [[H2400\|חַטָּאִ֑ים]] [[H9005\|לִ]][[H5595\|סְפּ֣וֹת]] [[H5750\|ע֗וֹד]] [[H5921A\|עַ֛ל]] [[H2740\|חֲר֥וֹן]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GILEAD|GILEAD]] • [[topic HASTE|HASTE]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic REPROOF|REPROOF]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.13|<< Numbers 32:13]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.15|Numbers 32:15 >>]]</td></tr></table>
 

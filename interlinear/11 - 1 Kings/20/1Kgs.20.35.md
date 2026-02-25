@@ -1,8 +1,69 @@
+---
+title: 1 Kings 20:35
+type: Verse
+kjv: "And a certain man of the sons of the prophets said unto his neighbour in the word of the LORD, Smite me, I pray thee. And the man refused to smite him."
+bsb: "Meanwhile, by the word of the LORD, one of the sons of the prophets said to his companion, “Strike me, please!” But the man refused to strike him."
+hebrew: "וְאִ֨ישׁ אֶחָ֜ד מִבְּנֵ֣י הַנְּבִיאִ֗ים אָמַ֧ר אֶל־ רֵעֵ֛הוּ בִּדְבַ֥ר יְהוָ֖ה הַכֵּ֣ינִי נָ֑א וַיְמָאֵ֥ן הָאִ֖ישׁ לְהַכֹּתֽוֹ׃"
+pericope: "[[1Kgs.20.35 A Prophet Reproves Ahab|A Prophet Reproves Ahab]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic STUDENTS|STUDENTS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H5221]]"
+- "[[H9030]]"
+- "[[H4994]]"
+- "[[H9001]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:35**<big><big>[[1Kgs.20.35 A Prophet Reproves Ahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a certain man of the sons of the prophets said unto his neighbour in the word of the LORD, Smite me, I pray thee. And the man refused to smite him.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, by the word of the LORD, one of the sons of the prophets said to his companion, “Strike me, please!” But the man refused to strike him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֨ישׁ]] [[H0259\|אֶחָ֜ד]] [[H9006\|מִ]][[H1121A\|בְּנֵ֣י]] [[H9009\|הַ]][[H5030\|נְּבִיאִ֗ים]] [[H0559\|אָמַ֧ר]] [[H0413\|אֶל]][[H9014\|־]] [[H7453\|רֵעֵ֛]][[H9023\|הוּ]] [[H9003\|בִּ]][[H1697G\|דְבַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H5221\|הַכֵּ֣י]][[H9030\|נִי]] [[H4994\|נָ֑א]] [[H9001\|וַ]][[H3985\|יְמָאֵ֥ן]] [[H9009\|הָ]][[H0376G\|אִ֖ישׁ]] [[H9005\|לְ]][[H5221\|הַכֹּתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic STUDENTS|STUDENTS]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.34|<< 1 Kings 20:34]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.36|1 Kings 20:36 >>]]</td></tr></table>
 

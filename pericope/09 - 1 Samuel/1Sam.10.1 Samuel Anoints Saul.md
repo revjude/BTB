@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Samuel Anoints Saul
+type: Pericope
 pericope: "[[1Sam.10.1 Samuel Anoints Saul|Samuel Anoints Saul]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 10
 book/chapter: "[[1Sam.10|1 Samuel 10]]"
-genre:
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[1Sam.10.1]]"
 - "[[1Sam.10.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Sam.10.8]]"
 ---
 
-[[1Sam.10|1 Samuel 10:1 - 1 Samuel 10:8]]
+<small>[[1Sam.10|1 Samuel 10:1-8]]</small>
 *Samuel Anoints Saul*
 
 [[1Sam.10.1|1]] Then Samuel took a vial of oil, and poured \[it\] upon his head, and kissed him, and said, \[Is it\] not because the LORD hath anointed thee \[to be\] captain over his inheritance?

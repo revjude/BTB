@@ -1,8 +1,63 @@
+---
+title: Hosea 14:9
+type: Verse
+kjv: "Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein."
+bsb: "Whoever is wise, let him understand these things; whoever is discerning, let him know them. For the ways of the LORD are right, and the righteous walk in them but the rebellious stumble in them."
+hebrew: "מִ֤י חָכָם֙ וְיָ֣בֵֽן אֵ֔לֶּה נָב֖וֹן וְיֵֽדָעֵ֑ם כִּֽי־ יְשָׁרִ֞ים דַּרְכֵ֣י יְהוָ֗ה וְצַדִּקִים֙ יֵ֣לְכוּ בָ֔ם וּפֹשְׁעִ֖ים יִכָּ֥שְׁלוּ בָֽם׃"
+pericope: "[[Hos.14.4 A Promise of God’s Blessing|A Promise of God’s Blessing]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 14
+book/chapter: "[[Hos.14|Hosea 14]]"
+chronological_order: 655
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic WAY|WAY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H4310]]"
+- "[[H2450]]"
+- "[[H9002]]"
+- "[[H0995]]"
+- "[[H0428]]"
+- "[[H3045]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3477G]]"
+- "[[H1870G]]"
+- "[[H3068G]]"
+- "[[H6662]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H6586]]"
+- "[[H3782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 14:9**<big><big>[[Hos.14.4 A Promise of God’s Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [is] wise, and he shall understand these [things]? prudent, and he shall know them? for the ways of the LORD [are] right, and the just shall walk in them: but the transgressors shall fall therein.
 <small><sub>**BSB:**</sub></small>
 Whoever is wise, let him understand these things; whoever is discerning, let him know them. For the ways of the LORD are right, and the righteous walk in them but the rebellious stumble in them.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H2450\|חָכָם֙]] [[H9002\|וְ]][[H0995\|יָ֣בֵֽן]] [[H0428\|אֵ֔לֶּה]] [[H0995\|נָב֖וֹן]] [[H9002\|וְ]][[H3045\|יֵֽדָעֵ֑]][[H9038\|ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3477G\|יְשָׁרִ֞ים]] [[H1870G\|דַּרְכֵ֣י]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְ]][[H6662\|צַדִּקִים֙]] [[H1980I\|יֵ֣לְכוּ]] [[H9003\|בָ֔]][[H9038\|ם]] [[H9002\|וּ]][[H6586\|פֹשְׁעִ֖ים]] [[H3782\|יִכָּ֥שְׁלוּ]] [[H9003\|בָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic PRUDENCE|PRUDENCE]] • [[topic WAY|WAY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.14.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.14.8|<< Hosea 14:8]]</td><td align="center" style="border:none;">[[Hos.14|Hosea 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.1|Joel 1:1 >>]]</td></tr></table>
 

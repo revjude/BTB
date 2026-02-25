@@ -1,8 +1,53 @@
+---
+title: Joel 1:8
+type: Verse
+kjv: "Lament like a virgin girded with sackcloth for the husband of her youth."
+bsb: "Wail like a virgin dressed in sackcloth, grieving for the husband of her youth."
+hebrew: "אֱלִ֕י כִּבְתוּלָ֥ה חֲגֻֽרַת־ שַׂ֖ק עַל־ בַּ֥עַל נְעוּרֶֽיהָ׃"
+pericope: "[[Joel.1.8 A Call to Mourning|A Call to Mourning]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 1
+book/chapter: "[[Joel.1|Joel 1]]"
+chronological_order: 840
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic NATION|NATION]]"
+- "[[topic SACKCLOTH|SACKCLOTH]]"
+strongs:
+- "[[H0421]]"
+- "[[H9004]]"
+- "[[H1330]]"
+- "[[H2296]]"
+- "[[H9014]]"
+- "[[H8242]]"
+- "[[H5921A]]"
+- "[[H1167H]]"
+- "[[H5271A]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 1:8**<big><big>[[Joel.1.8 A Call to Mourning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lament like a virgin girded with sackcloth for the husband of her youth.
 <small><sub>**BSB:**</sub></small>
 Wail like a virgin dressed in sackcloth, grieving for the husband of her youth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0421\|אֱלִ֕י]] [[H9004\|כִּ]][[H1330\|בְתוּלָ֥ה]] [[H2296\|חֲגֻֽרַת]][[H9014\|־]] [[H8242\|שַׂ֖ק]] [[H5921A\|עַל]][[H9014\|־]] [[H1167H\|בַּ֥עַל]] [[H5271A\|נְעוּרֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATION|NATION]] • [[topic SACKCLOTH|SACKCLOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.1.7|<< Joel 1:7]]</td><td align="center" style="border:none;">[[Joel.1|Joel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.1.9|Joel 1:9 >>]]</td></tr></table>
 

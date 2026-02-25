@@ -1,10 +1,68 @@
+---
+title: Hebrews 13:9
+type: Verse
+kjv: "Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein."
+bsb: "Do not be carried away by all kinds of strange teachings, for it is good for the heart to be strengthened by grace and not by foods of no value to those devoted to them."
+greek: "διδαχαῖς ποικίλαις καὶ ξέναις μὴ παραφέρεσθε· καλὸν γὰρ χάριτι βεβαιοῦσθαι τὴν καρδίαν οὐ βρώμασιν ἐν οἷς οὐκ ὠφελήθησαν οἱ περιπατοῦντες.¶"
+pericope: "[[Heb.13.5 Christ’s Unchanging Nature|Christ’s Unchanging Nature]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic STABILITY|STABILITY]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[G1322]]"
+- "[[G4164]]"
+- "[[G2532]]"
+- "[[G3581]]"
+- "[[G3361]]"
+- "[[G3911]]"
+- "[[G2570G]]"
+- "[[G1063]]"
+- "[[G5485]]"
+- "[[G0950]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G3756]]"
+- "[[G1033]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G5623]]"
+- "[[G4043]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 13:9**<big><big>[[Heb.13.5 Christ’s Unchanging Nature|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be not carried about with divers and strange doctrines. For [it is] a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.
 <small><sub>**BSB:**</sub></small>
 Do not be carried away by all kinds of strange teachings, for it is good for the heart to be strengthened by grace and not by foods of no value to those devoted to them.
-<small><sub>**Literal:**</sub></small>
-by teachings various and strange not do be taken away; [it is] good for by grace to be strengthened for the heart not by foods in which not they profited those being devoted.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.8|<< Hebrews 13:8]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.10|Hebrews 13:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1322\|διδαχαῖς]]  [[G4164\|ποικίλαις]]  [[G2532\|καὶ]]  [[G3581\|ξέναις]]  [[G3361\|μὴ]]  [[G3911\|παραφέρεσθε·]]  [[G2570G\|καλὸν]]  [[G1063\|γὰρ]]  [[G5485\|χάριτι]]  [[G0950\|βεβαιοῦσθαι]]  [[G3588\|τὴν]]  [[G2588\|καρδίαν]]  [[G3756\|οὐ]]  [[G1033\|βρώμασιν]]  [[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G3756\|οὐκ]]  [[G5623\|ὠφελήθησαν]]  [[G3588\|οἱ]]  [[G4043\|περιπατοῦντες.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DECISION|DECISION]] • [[topic DOCTRINES|DOCTRINES]] • [[topic HOLINESS|HOLINESS]] • [[topic INSTABILITY|INSTABILITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic STABILITY|STABILITY]] • [[topic VANITY|VANITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.8|<< Hebrews 13:8]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.10|Hebrews 13:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

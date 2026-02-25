@@ -1,8 +1,58 @@
+---
+title: Psalm 60:2
+type: Verse
+kjv: "Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh."
+bsb: "You have shaken the land and torn it open. Heal its fractures, for it is quaking."
+hebrew: "הִרְעַ֣שְׁתָּה אֶ֣רֶץ פְּצַמְתָּ֑הּ רְפָ֖ה שְׁבָרֶ֣יהָ כִי־ מָֽטָה׃"
+pericope: "[[Ps.60.1 Victory with God|Victory with God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 60
+book/chapter: "[[Ps.60|Psalm 60]]"
+chronological_order: 409
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic EARTHQUAKES|EARTHQUAKES]]"
+- "[[topic LAMENTATIONS|LAMENTATIONS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7493]]"
+- "[[H0776G]]"
+- "[[H6480]]"
+- "[[H9034]]"
+- "[[H7495]]"
+- "[[H9012]]"
+- "[[H7667]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4131]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 60:2**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast made the earth to tremble; thou hast broken it: heal the breaches thereof; for it shaketh.
 <small><sub>**BSB:**</sub></small>
 You have shaken the land and torn it open. Heal its fractures, for it is quaking.
+<small><sub>**Hebrew:**</sub></small>
+[[H7493\|הִרְעַ֣שְׁתָּה]] [[H0776G\|אֶ֣רֶץ]] [[H6480\|פְּצַמְתָּ֑]][[H9034\|הּ]] [[H7495\|רְפָ֖]][[H9012\|ה]] [[H7667\|שְׁבָרֶ֣י]][[H9024\|הָ]] [[H3588A\|כִי]][[H9014\|־]] [[H4131\|מָֽטָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic EARTHQUAKES|EARTHQUAKES]] • [[topic LAMENTATIONS|LAMENTATIONS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.1|<< Psalms 60:1]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.3|Psalms 60:3 >>]]</td></tr></table>
 

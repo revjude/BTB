@@ -1,10 +1,62 @@
+---
+title: Acts 23:1
+type: Verse
+kjv: "And Paul, earnestly beholding the council, said, Men and brethren, I have lived in all good conscience before God until this day."
+bsb: "Paul looked directly at the Sanhedrin and said, “Brothers, I have conducted myself before God in all good conscience to this day.”"
+greek: "Ἀτενίσας δὲ ὁ Παῦλος τῷ συνεδρίῳ εἶπεν· ἄνδρες ἀδελφοί, ἐγὼ πάσῃ συνειδήσει ἀγαθῇ πεπολίτευμαι τῷ θεῷ ἄχρι ταύτης τῆς ἡμέρας."
+pericope: "[[Acts.23.1 Paul before the Sanhedrin|Paul before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G0816]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G4892]]"
+- "[[G2036]]"
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G4893]]"
+- "[[G0018]]"
+- "[[G4176]]"
+- "[[G2316]]"
+- "[[G0891]]"
+- "[[G3778]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **Acts 23:1**<big><big>[[Acts.23.1 Paul before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Paul, earnestly beholding the council, said, Men [and] brethren, I have lived in all good conscience before God until this day.
 <small><sub>**BSB:**</sub></small>
 Paul looked directly at the Sanhedrin and said, “Brothers, I have conducted myself before God in all good conscience to this day.”
-<small><sub>**Literal:**</sub></small>
-Having looked intently then <the> Paul at the Council he said; Men brothers, I myself in all conscience good have lived as a citizen <the> to God unto this <the> day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.30|<< Acts 22:30]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.2|Acts 23:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0816\|Ἀτενίσας]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G3588\|τῷ]]  [[G4892\|συνεδρίῳ]]  [[G2036\|εἶπεν·]]  [[G0435G\|ἄνδρες]]  [[G0080\|ἀδελφοί,]]  [[G1473\|ἐγὼ]]  [[G3956\|πάσῃ]]  [[G4893\|συνειδήσει]]  [[G0018\|ἀγαθῇ]]  [[G4176\|πεπολίτευμαι]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G0891\|ἄχρι]]  [[G3778\|ταύτης]]  [[G3588\|τῆς]]  [[G2250\|ἡμέρας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PAUL|PAUL]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.30|<< Acts 22:30]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.2|Acts 23:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

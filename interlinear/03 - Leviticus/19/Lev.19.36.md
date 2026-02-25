@@ -1,8 +1,75 @@
+---
+title: Leviticus 19:36
+type: Verse
+kjv: "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the LORD your God, which brought you out of the land of Egypt."
+bsb: "You shall maintain honest scales and weights, an honest ephah, and an honest hin. I am the LORD your God, who brought you out of the land of Egypt."
+hebrew: "מֹ֧אזְנֵי צֶ֣דֶק אַבְנֵי־ צֶ֗דֶק אֵ֥יפַת צֶ֛דֶק וְהִ֥ין צֶ֖דֶק יִהְיֶ֣ה לָכֶ֑ם אֲנִי֙ יְהוָ֣ה אֱלֹֽהֵיכֶ֔ם אֲשֶׁר־ הוֹצֵ֥אתִי אֶתְכֶ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BALANCES|BALANCES]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HIN|HIN]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic STONES|STONES]]"
+- "[[topic WEIGHTS|WEIGHTS]]"
+strongs:
+- "[[H3976]]"
+- "[[H6664G]]"
+- "[[H0068H]]"
+- "[[H9014]]"
+- "[[H0374]]"
+- "[[H9002]]"
+- "[[H1969]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:36**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Just balances, just weights, a just ephah, and a just hin, shall ye have: I [am] the LORD your God, which brought you out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 You shall maintain honest scales and weights, an honest ephah, and an honest hin. I am the LORD your God, who brought you out of the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H3976\|מֹ֧אזְנֵי]] [[H6664G\|צֶ֣דֶק]] [[H0068H\|אַבְנֵי]][[H9014\|־]] [[H6664G\|צֶ֗דֶק]] [[H0374\|אֵ֥יפַת]] [[H6664G\|צֶ֛דֶק]] [[H9002\|וְ]][[H1969\|הִ֥ין]] [[H6664G\|צֶ֖דֶק]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H0589\|אֲנִי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318H\|הוֹצֵ֥אתִי]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALANCES|BALANCES]] • [[topic COMMERCE|COMMERCE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HIN|HIN]] • [[topic HONESTY|HONESTY]] • [[topic INJUSTICE|INJUSTICE]] • [[topic MEASURE|MEASURE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic STONES|STONES]] • [[topic WEIGHTS|WEIGHTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.35|<< Leviticus 19:35]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.37|Leviticus 19:37 >>]]</td></tr></table>
 

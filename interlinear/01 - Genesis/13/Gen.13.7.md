@@ -1,8 +1,64 @@
+---
+title: Genesis 13:7
+type: Verse
+kjv: "And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land."
+bsb: "And there was discord between the herdsmen of Abram and the herdsmen of Lot. At that time the Canaanites and the Perizzites were also living in the land."
+hebrew: "וַֽיְהִי־ רִ֗יב בֵּ֚ין רֹעֵ֣י מִקְנֵֽה־ אַבְרָ֔ם וּבֵ֖ין רֹעֵ֣י מִקְנֵה־ ל֑וֹט וְהַֽכְּנַעֲנִי֙ וְהַפְּרִזִּ֔י אָ֖ז יֹשֵׁ֥ב בָּאָֽרֶץ׃"
+pericope: "[[Gen.13.1 Abram and Lot Part Ways|Abram and Lot Part Ways]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic LOT|LOT]]"
+- "[[topic PERIZZITES|PERIZZITES]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H7379]]"
+- "[[H0996G]]"
+- "[[H7462B]]"
+- "[[H4735]]"
+- "[[H0087]]"
+- "[[H9002]]"
+- "[[H3876]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H6522]]"
+- "[[H0227A]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 13:7**<big><big>[[Gen.13.1 Abram and Lot Part Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land.
 <small><sub>**BSB:**</sub></small>
 And there was discord between the herdsmen of Abram and the herdsmen of Lot. At that time the Canaanites and the Perizzites were also living in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H7379\|רִ֗יב]] [[H0996G\|בֵּ֚ין]] [[H7462B\|רֹעֵ֣י]] [[H4735\|מִקְנֵֽה]][[H9014\|־]] [[H0087\|אַבְרָ֔ם]] [[H9002\|וּ]][[H0996G\|בֵ֖ין]] [[H7462B\|רֹעֵ֣י]] [[H4735\|מִקְנֵה]][[H9014\|־]] [[H3876\|ל֑וֹט]] [[H9002\|וְ]][[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H6522\|פְּרִזִּ֔י]] [[H0227A\|אָ֖ז]] [[H3427\|יֹשֵׁ֥ב]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOT|LOT]] • [[topic PERIZZITES|PERIZZITES]] • [[topic SERVANT|SERVANT]] • [[topic STRIFE|STRIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.6|<< Genesis 13:6]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.8|Genesis 13:8 >>]]</td></tr></table>
 

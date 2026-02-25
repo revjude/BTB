@@ -1,8 +1,58 @@
+---
+title: Psalm 68:31
+type: Verse
+kjv: "Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God."
+bsb: "Envoys will arrive from Egypt; Cush will stretch out her hands to God."
+hebrew: "יֶאֱתָ֣יוּ חַ֭שְׁמַנִּים מִנִּ֣י מִצְרָ֑יִם כּ֥וּשׁ תָּרִ֥יץ יָ֝דָ֗יו לֵאלֹהִֽים׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CUSH|CUSH]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H0857]]"
+- "[[H2831]]"
+- "[[H4480A]]"
+- "[[H4714G]]"
+- "[[H3568A]]"
+- "[[H7323G]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:31**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.
 <small><sub>**BSB:**</sub></small>
 Envoys will arrive from Egypt; Cush will stretch out her hands to God.
+<small><sub>**Hebrew:**</sub></small>
+[[H0857\|יֶאֱתָ֣יוּ]] [[H2831\|חַ֭שְׁמַנִּים]] [[H4480A\|מִנִּ֣י]] [[H4714G\|מִצְרָ֑יִם]] [[H3568A\|כּ֥וּשׁ]] [[H7323G\|תָּרִ֥יץ]] [[H3027G\|יָ֝דָ֗י]][[H9023\|ו]] [[H9005\|לֵ]][[H0430G\|אלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CUSH|CUSH]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.30|<< Psalms 68:30]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.32|Psalms 68:32 >>]]</td></tr></table>
 

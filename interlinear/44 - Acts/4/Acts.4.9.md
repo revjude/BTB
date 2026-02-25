@@ -1,10 +1,61 @@
+---
+title: Acts 4:9
+type: Verse
+kjv: "If we this day be examined of the good deed done to the impotent man, by what means he is made whole;"
+bsb: "If we are being examined today about a kind service to a man who was lame, to determine how he was healed,"
+greek: "εἰ ἡμεῖς σήμερον ἀνακρινόμεθα ἐπὶ εὐεργεσίᾳ ἀνθρώπου ἀσθενοῦς, ἐν τίνι οὗτος σέσωται,"
+pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3165]]"
+- "[[G4594]]"
+- "[[G0350]]"
+- "[[G1909]]"
+- "[[G2108]]"
+- "[[G0444]]"
+- "[[G0772G]]"
+- "[[G1722]]"
+- "[[G5101]]"
+- "[[G3778]]"
+- "[[G4982]]"
+texts:
+- NKO
+---
+
 **Acts 4:9**<big><big>[[Acts.4.1 Peter and John before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If we this day be examined of the good deed done to the impotent man, by what means he is made whole;
 <small><sub>**BSB:**</sub></small>
 If we are being examined today about a kind service to a man who was lame, to determine how he was healed,
-<small><sub>**Literal:**</sub></small>
-if we ourselves this day are being examined as to a good work [to the] man ailing, by what [means] he has been healed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.8|<< Acts 4:8]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.10|Acts 4:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3165\|ἡμεῖς]]  [[G4594\|σήμερον]]  [[G0350\|ἀνακρινόμεθα]]  [[G1909\|ἐπὶ]]  [[G2108\|εὐεργεσίᾳ]]  [[G0444\|ἀνθρώπου]]  [[G0772G\|ἀσθενοῦς,]]  [[G1722\|ἐν]]  [[G5101\|τίνι]]  [[G3778\|οὗτος]]  [[G4982\|σέσωται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic COURAGE|COURAGE]] • [[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.8|<< Acts 4:8]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.10|Acts 4:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

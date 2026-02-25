@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 12:17
+type: Verse
+kjv: "Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:"
+bsb: "Within your gates you must not eat the tithe of your grain or new wine or oil, the firstborn of your herds or flocks, any of the offerings that you have vowed to give, or your freewill offerings or special gifts."
+hebrew: "לֹֽא־ תוּכַ֞ל לֶאֱכֹ֣ל בִּשְׁעָרֶ֗יךָ מַעְשַׂ֤ר דְּגָֽנְךָ֙ וְתִֽירֹשְׁךָ֣ וְיִצְהָרֶ֔ךָ וּבְכֹרֹ֥ת בְּקָרְךָ֖ וְצֹאנֶ֑ךָ וְכָל־ נְדָרֶ֙יךָ֙ אֲשֶׁ֣ר תִּדֹּ֔ר וְנִדְבֹתֶ֖יךָ וּתְרוּמַ֥ת יָדֶֽךָ׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FOOD|FOOD]]"
+- "[[topic FREE-WILL OFFERINGS|FREE-WILL OFFERINGS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic OIL|OIL]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H8179H]]"
+- "[[H9021]]"
+- "[[H4643]]"
+- "[[H1715]]"
+- "[[H9002]]"
+- "[[H8492]]"
+- "[[H3323]]"
+- "[[H1060]]"
+- "[[H1241]]"
+- "[[H6629G]]"
+- "[[H3605]]"
+- "[[H5088]]"
+- "[[H0834A]]"
+- "[[H5087]]"
+- "[[H5071]]"
+- "[[H8641]]"
+- "[[H3027I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:17**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:
 <small><sub>**BSB:**</sub></small>
 Within your gates you must not eat the tithe of your grain or new wine or oil, the firstborn of your herds or flocks, any of the offerings that you have vowed to give, or your freewill offerings or special gifts.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H3201\|תוּכַ֞ל]] [[H9005\|לֶ]][[H0398\|אֱכֹ֣ל]] [[H9003\|בִּ]][[H8179H\|שְׁעָרֶ֗י]][[H9021\|ךָ]] [[H4643\|מַעְשַׂ֤ר]] [[H1715\|דְּגָֽנְ]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H8492\|תִֽירֹשְׁ]][[H9021\|ךָ֣]] [[H9002\|וְ]][[H3323\|יִצְהָרֶ֔]][[H9021\|ךָ]] [[H9002\|וּ]][[H1060\|בְכֹרֹ֥ת]] [[H1241\|בְּקָרְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H6629G\|צֹאנֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5088\|נְדָרֶ֙י]][[H9021\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5087\|תִּדֹּ֔ר]] [[H9002\|וְ]][[H5071\|נִדְבֹתֶ֖י]][[H9021\|ךָ]] [[H9002\|וּ]][[H8641\|תְרוּמַ֥ת]] [[H3027I\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOD|FOOD]] • [[topic FREE-WILL OFFERINGS|FREE-WILL OFFERINGS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OFFERINGS|OFFERINGS]] • [[topic OIL|OIL]] • [[topic TITHES|TITHES]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.16|<< Deuteronomy 12:16]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.18|Deuteronomy 12:18 >>]]</td></tr></table>
 

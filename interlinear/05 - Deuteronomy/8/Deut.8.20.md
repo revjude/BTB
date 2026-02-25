@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 8:20
+type: Verse
+kjv: "As the nations which the LORD destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the LORD your God."
+bsb: "Like the nations that the LORD has destroyed before you, so you will perish if you do not obey the LORD your God."
+hebrew: "כַּגּוֹיִ֗ם אֲשֶׁ֤ר יְהוָה֙ מַאֲבִ֣יד מִפְּנֵיכֶ֔ם כֵּ֖ן תֹאבֵד֑וּן עֵ֚קֶב לֹ֣א תִשְׁמְע֔וּן בְּק֖וֹל יְהוָ֥ה אֱלֹהֵיכֶֽם׃ פ"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9004]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0006]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H3651C]]"
+- "[[H9013]]"
+- "[[H6118]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:20**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the nations which the LORD destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the LORD your God.
 <small><sub>**BSB:**</sub></small>
 Like the nations that the LORD has destroyed before you, so you will perish if you do not obey the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H1471A\|גּוֹיִ֗ם]] [[H0834A\|אֲשֶׁ֤ר]] [[H3068G\|יְהוָה֙]] [[H0006\|מַאֲבִ֣יד]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶ֔ם]] [[H3651C\|כֵּ֖ן]] [[H0006\|תֹאבֵד֑וּ]][[H9013\|ן]] [[H6118\|עֵ֚קֶב]] [[H3808\|לֹ֣א]] [[H8085H\|תִשְׁמְע֔וּ]][[H9013\|ן]] [[H9003\|בְּ]][[H6963A\|ק֖וֹל]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.19|<< Deuteronomy 8:19]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.1|Deuteronomy 9:1 >>]]</td></tr></table>
 
@@ -20,7 +76,7 @@ Like the nations that the LORD has destroyed before you, so you will perish if y
 | you will listen !  |**<big>&#8207;[[H8085H\|תִשְׁמְע֔וּ]]&#8207;&#8207;[[H9013\|ן]]&#8207; </big>**| tish.me.'U<small><sup>[[HVqi2mp]]</sup></small> n<small><sup>[[HSn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] voice of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H6963A\|ק֖וֹל]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> Kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.19|<< Deuteronomy 8:19]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.1|Deuteronomy 9:1 >>]]</td></tr></table>
 
 

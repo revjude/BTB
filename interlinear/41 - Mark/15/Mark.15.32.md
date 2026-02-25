@@ -1,10 +1,63 @@
+---
+title: Mark 15:32
+type: Verse
+kjv: "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him."
+bsb: "Let the Christ, the King of Israel, come down now from the cross, so that we may see and believe!” And even those who were crucified with Him berated Him."
+greek: "ὁ χριστός, ὁ βασιλεὺς τοῦ Ἰσραήλ, καταβάτω νῦν ἀπὸ τοῦ σταυροῦ ἵνα ἴδωμεν καὶ πιστεύσωμεν αὐτῷ. καὶ οἱ συνεσταυρωμένοι σὺν αὐτῷ ὠνείδιζον αὐτόν.¶"
+pericope: "[[Mark.15.21 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G0935]]"
+- "[[G2474]]"
+- "[[G2597]]"
+- "[[G3568]]"
+- "[[G0575]]"
+- "[[G4716]]"
+- "[[G2443]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G0846]]"
+- "[[G4957]]"
+- "[[G4862]]"
+- "[[G3679]]"
+texts:
+- NKO
+- k
+- O
+- no
+---
+
 **Mark 15:32**<big><big>[[Mark.15.21 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him.
 <small><sub>**BSB:**</sub></small>
 Let the Christ, the King of Israel, come down now from the cross, so that we may see and believe!” And even those who were crucified with Him berated Him.
-<small><sub>**Literal:**</sub></small>
-The Christ, the King <the> of Israel, he should descend now from the cross that we may see and may believe in him. And those crucified with Him were upbraiding Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.31|<< Mark 15:31]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.33|Mark 15:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G5547\|χριστός,]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραήλ,]]  [[G2597\|καταβάτω]]  [[G3568\|νῦν]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4716\|σταυροῦ]]  [[G2443\|ἵνα]]  [[G1492H\|ἴδωμεν]]  [[G2532\|καὶ]]  [[G4100\|πιστεύσωμεν]]  [[G0846\|αὐτῷ.]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4957\|συνεσταυρωμένοι]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G3679\|ὠνείδιζον]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOCKING|MOCKING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.31|<< Mark 15:31]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.33|Mark 15:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

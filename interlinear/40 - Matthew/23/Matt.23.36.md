@@ -1,10 +1,54 @@
+---
+title: Matthew 23:36
+type: Verse
+kjv: "Verily I say unto you, All these things shall come upon this generation."
+bsb: "Truly I tell you, all these things will come upon this generation."
+jesus_said: "Verily I say unto you, All these things shall come upon this generation."
+greek: "ἀμὴν λέγω ὑμῖν· ὅτι ἥξει ταῦτα πάντα ἐπὶ τὴν γενεὰν ταύτην.¶"
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2240]]"
+- "[[G3778]]"
+- "[[G3956]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G1074]]"
+texts:
+- NKO
+- o
+---
+
 **Matthew 23:36**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, All these things shall come upon this generation.
 <small><sub>**BSB:**</sub></small>
 Truly I tell you, all these things will come upon this generation.
-<small><sub>**Literal:**</sub></small>
-Amen I say to you; that will come these things all upon <the> generation this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.35|<< Matthew 23:35]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.37|Matthew 23:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3754G\|ὅτι]]  [[G2240\|ἥξει]]  [[G3778\|ταῦτα]]  [[G3956\|πάντα]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1074\|γενεὰν]]  [[G3778\|ταύτην.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPPORTUNITY|OPPORTUNITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.35|<< Matthew 23:35]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.37|Matthew 23:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

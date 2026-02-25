@@ -1,10 +1,61 @@
+---
+title: Romans 16:5
+type: Verse
+kjv: "Likewise greet the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ."
+bsb: "Greet also the church that meets at their house. Greet my beloved Epenetus, who was the first convert to Christ in the province of Asia."
+greek: "καὶ τὴν κατ᾽ οἶκον αὐτῶν ἐκκλησίαν.¶ ἀσπάσασθε Ἐπαίνετον τὸν ἀγαπητόν μου, ὅς ἐστιν ἀπαρχὴ τῆς Ἀσίας εἰς Χριστόν.¶"
+pericope: "[[Rom.16.1 Personal Greetings and Love|Personal Greetings and Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ACHAIA|ACHAIA]]"
+- "[[topic EPENETUS (EPAENETUS)|EPENETUS (EPAENETUS)]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic ROME|ROME]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G3624G]]"
+- "[[G0846]]"
+- "[[G1577]]"
+- "[[G0782]]"
+- "[[G1866]]"
+- "[[G0027]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G0536]]"
+- "[[G0773]]"
+- "[[G1519]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Romans 16:5**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Likewise [greet] the church that is in their house. Salute my wellbeloved Epaenetus, who is the firstfruits of Achaia unto Christ.
 <small><sub>**BSB:**</sub></small>
 Greet also the church that meets at their house. Greet my beloved Epenetus, who was the first convert to Christ in the province of Asia.
-<small><sub>**Literal:**</sub></small>
-and the at house of them church. do greet Epenetus the beloved of mine, who is a firstfruit <the> of Asia for Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.4|<< Romans 16:4]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.6|Romans 16:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2596\|κατ᾽]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτῶν]]  [[G1577\|ἐκκλησίαν.¶]]  [[G0782\|ἀσπάσασθε]]  [[G1866\|Ἐπαίνετον]]  [[G3588\|τὸν]]  [[G0027\|ἀγαπητόν]]  [[G3165\|μου,]]  [[G3739\|ὅς]]  [[G1510\|ἐστιν]]  [[G0536\|ἀπαρχὴ]]  [[G3588\|τῆς]]  [[G0773\|Ἀσίας]]  [[G1519\|εἰς]]  [[G5547\|Χριστόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHAIA|ACHAIA]] • [[topic EPENETUS (EPAENETUS)|EPENETUS (EPAENETUS)]] • [[topic HOUSE|HOUSE]] • [[topic LOVE|LOVE]] • [[topic ROME|ROME]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.4|<< Romans 16:4]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.6|Romans 16:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

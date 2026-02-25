@@ -1,10 +1,63 @@
+---
+title: Luke 1:29
+type: Verse
+kjv: "And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be."
+bsb: "Mary was greatly troubled at his words and wondered what kind of greeting this might be."
+greek: "ἡ δὲ ἰδοῦσα ἐπὶ τῷ λόγῳ διεταράχθη αὐτοῦ καὶ διελογίζετο ποταπὸς εἴη ὁ ἀσπασμὸς οὗτος."
+pericope: "[[Luke.1.26 Gabriel Foretells Jesus’ Birth|Gabriel Foretells Jesus’ Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic GABRIEL|GABRIEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1492H]]"
+- "[[G1909]]"
+- "[[G3056]]"
+- "[[G1298]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G1260]]"
+- "[[G4217]]"
+- "[[G1510]]"
+- "[[G0783]]"
+- "[[G3778]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 1:29**<big><big>[[Luke.1.26 Gabriel Foretells Jesus’ Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when she saw [him], she was troubled at his saying, and cast in her mind what manner of salutation this should be.
 <small><sub>**BSB:**</sub></small>
 Mary was greatly troubled at his words and wondered what kind of greeting this might be.
-<small><sub>**Literal:**</sub></small>
-<the> And having seen [him] at the statement she was troubled of him and was pondering what kind would be <the> salutation this.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.28|<< Luke 1:28]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.30|Luke 1:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G1492H\|ἰδοῦσα]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3056\|λόγῳ]]  [[G1298\|διεταράχθη]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G1260\|διελογίζετο]]  [[G4217\|ποταπὸς]]  [[G1510\|εἴη]]  [[G3588\|ὁ]]  [[G0783\|ἀσπασμὸς]]  [[G3778\|οὗτος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic GABRIEL|GABRIEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic WOMEN|WOMEN]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.28|<< Luke 1:28]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.30|Luke 1:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

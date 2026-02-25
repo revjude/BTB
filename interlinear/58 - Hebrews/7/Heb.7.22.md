@@ -1,10 +1,51 @@
+---
+title: Hebrews 7:22
+type: Verse
+kjv: "By so much was Jesus made a surety of a better testament."
+bsb: "Because of this oath, Jesus has become the guarantee of a better covenant."
+greek: "κατὰ τοσοῦτο καὶ κρείττονος διαθήκης γέγονεν ἔγγυος Ἰησοῦς.¶"
+pericope: "[[Heb.7.11 A Superior Priesthood|A Superior Priesthood]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 7
+book/chapter: "[[Heb.7|Hebrews 7]]"
+chronological_order: 1146
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SUCCESSION|SUCCESSION]]"
+strongs:
+- "[[G2596]]"
+- "[[G5118]]"
+- "[[G2532]]"
+- "[[G2908]]"
+- "[[G1242]]"
+- "[[G1096]]"
+- "[[G1450]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- no
+---
+
 **Hebrews 7:22**<big><big>[[Heb.7.11 A Superior Priesthood|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By so much was Jesus made a surety of a better testament.
 <small><sub>**BSB:**</sub></small>
 Because of this oath, Jesus has become the guarantee of a better covenant.
-<small><sub>**Literal:**</sub></small>
-By so much also of a better covenant has become [the] guarantee Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.21|<< Hebrews 7:21]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.23|Hebrews 7:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|κατὰ]]  [[G5118\|τοσοῦτο]]  [[G2532\|καὶ]]  [[G2908\|κρείττονος]]  [[G1242\|διαθήκης]]  [[G1096\|γέγονεν]]  [[G1450\|ἔγγυος]]  [[G2424G\|Ἰησοῦς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SUCCESSION|SUCCESSION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.7.21|<< Hebrews 7:21]]</td><td align="center" style="border:none;">[[Heb.7|Hebrews 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.7.23|Hebrews 7:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

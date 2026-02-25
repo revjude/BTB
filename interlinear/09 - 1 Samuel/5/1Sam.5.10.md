@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 5:10
+type: Verse
+kjv: "Therefore they sent the ark of God to Ekron. And it came to pass, as the ark of God came to Ekron, that the Ekronites cried out, saying, They have brought about the ark of the God of Israel to us, to slay us and our people."
+bsb: "So they sent the ark of God to Ekron, but as it arrived, the Ekronites cried out, “They have brought us the ark of the God of Israel in order to kill us and our people!”"
+hebrew: "וַֽיְשַׁלְּח֛וּ אֶת־ אֲר֥וֹן הָאֱלֹהִ֖ים עֶקְר֑וֹן וַיְהִ֗י כְּב֨וֹא אֲר֤וֹן הָאֱלֹהִים֙ עֶקְר֔וֹן וַיִּזְעֲק֨וּ הָֽעֶקְרֹנִ֜ים לֵאמֹ֗ר הֵסַ֤בּוּ אֵלַי֙ אֶת־ אֲרוֹן֙ אֱלֹהֵ֣י יִשְׂרָאֵ֔ל לַהֲמִיתֵ֖נִי וְאֶת־ עַמִּֽי׃"
+pericope: "[[1Sam.5.1 The Ark Afflicts the Philistines|The Ark Afflicts the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 5
+book/chapter: "[[1Sam.5|1 Samuel 5]]"
+chronological_order: 284
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EKRON|EKRON]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H6138]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0935G]]"
+- "[[H2199]]"
+- "[[H6139]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5437G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3478]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 5:10**<big><big>[[1Sam.5.1 The Ark Afflicts the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they sent the ark of God to Ekron. And it came to pass, as the ark of God came to Ekron, that the Ekronites cried out, saying, They have brought about the ark of the God of Israel to us, to slay us and our people.
 <small><sub>**BSB:**</sub></small>
 So they sent the ark of God to Ekron, but as it arrived, the Ekronites cried out, “They have brought us the ark of the God of Israel in order to kill us and our people!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7971G\|יְשַׁלְּח֛וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֥וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H6138\|עֶקְר֑וֹן]] [[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כְּ]][[H0935G\|ב֨וֹא]] [[H0727\|אֲר֤וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִים֙]] [[H6138\|עֶקְר֔וֹן]] [[H9001\|וַ]][[H2199\|יִּזְעֲק֨וּ]] [[H9009\|הָֽ]][[H6139\|עֶקְרֹנִ֜ים]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H5437G\|הֵסַ֤בּוּ]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲרוֹן֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לַ]][[H4191\|הֲמִיתֵ֖]][[H9030\|נִי]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EKRON|EKRON]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.5.9|<< 1 Samuel 5:9]]</td><td align="center" style="border:none;">[[1Sam.5|1 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.5.11|1 Samuel 5:11 >>]]</td></tr></table>
 

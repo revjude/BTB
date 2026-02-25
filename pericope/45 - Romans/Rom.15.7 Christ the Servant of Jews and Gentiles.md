@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christ the Servant of Jews and Gentiles
+type: Pericope
 pericope: "[[Rom.15.7 Christ the Servant of Jews and Gentiles|Christ the Servant of Jews and Gentiles]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Romans
 chapter: 15
 book/chapter: "[[Rom.15|Romans 15]]"
-genre:
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 7
 verses:
 - "[[Rom.15.7]]"
 - "[[Rom.15.8]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Rom.15.13]]"
 ---
 
-[[Rom.15|Romans 15:7 - Romans 15:13]]
+<small>[[Rom.15|Romans 15:7-13]]</small>
 *Christ the Servant of Jews and Gentiles*
 
 [[Rom.15.7|7]] Wherefore receive ye one another, as Christ also received us to the glory of God.

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah’s Song of Thanksgiving
+type: Pericope
 pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 38
 book/chapter: "[[Isa.38|Isaiah 38]]"
-genre:
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 14
 verses:
 - "[[Isa.38.9]]"
 - "[[Isa.38.10]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Isa.38.22]]"
 ---
 
-[[Isa.38|Isaiah 38:9 - Isaiah 38:22]]
+<small>[[Isa.38|Isaiah 38:9-22]]</small>
 *Hezekiah’s Song of Thanksgiving*
 
 [[Isa.38.9|9]] The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:

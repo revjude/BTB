@@ -1,8 +1,62 @@
+---
+title: Psalm 43:3
+type: Verse
+kjv: "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles."
+bsb: "Send out Your light and Your truth; let them lead me. Let them bring me to Your holy mountain and to the place where You dwell."
+hebrew: "שְׁלַח־ אוֹרְךָ֣ וַ֭אֲמִתְּךָ הֵ֣מָּה יַנְח֑וּנִי יְבִיא֥וּנִי אֶל־ הַֽר־ קָ֝דְשְׁךָ֗ וְאֶל־ מִשְׁכְּנוֹתֶֽיךָ׃"
+pericope: "[[Ps.43.1 Send Out Your Light|Send Out Your Light]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 43
+book/chapter: "[[Ps.43|Psalm 43]]"
+chronological_order: 498
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H0216]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0571H]]"
+- "[[H1992]]"
+- "[[H5148]]"
+- "[[H9030]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H4908]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 43:3**<big><big>[[Ps.43.1 Send Out Your Light|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.
 <small><sub>**BSB:**</sub></small>
 Send out Your light and Your truth; let them lead me. Let them bring me to Your holy mountain and to the place where You dwell.
+<small><sub>**Hebrew:**</sub></small>
+[[H7971G\|שְׁלַח]][[H9014\|־]] [[H0216\|אוֹרְ]][[H9021\|ךָ֣]] [[H9002\|וַ֭]][[H0571H\|אֲמִתְּ]][[H9021\|ךָ]] [[H1992\|הֵ֣מָּה]] [[H5148\|יַנְח֑וּ]][[H9030\|נִי]] [[H0935P\|יְבִיא֥וּ]][[H9030\|נִי]] [[H0413\|אֶל]][[H9014\|־]] [[H2022G\|הַֽר]][[H9014\|־]] [[H6944G\|קָ֝דְשְׁ]][[H9021\|ךָ֗]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4908\|מִשְׁכְּנוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.43.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.43.2|<< Psalms 43:2]]</td><td align="center" style="border:none;">[[Ps.43|Psalms 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.43.4|Psalms 43:4 >>]]</td></tr></table>
 

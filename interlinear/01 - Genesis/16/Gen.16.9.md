@@ -1,8 +1,65 @@
+---
+title: Genesis 16:9
+type: Verse
+kjv: "And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands."
+bsb: "So the angel of the LORD told her, “Return to your mistress and submit to her authority.”"
+hebrew: "וַיֹּ֤אמֶר לָהּ֙ מַלְאַ֣ךְ יְהוָ֔ה שׁ֖וּבִי אֶל־ גְּבִרְתֵּ֑ךְ וְהִתְעַנִּ֖י תַּ֥חַת יָדֶֽיהָ׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic LAHAI-ROI|LAHAI-ROI]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1404]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H6031B]]"
+- "[[H8478G]]"
+- "[[H3027K]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:9**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands.
 <small><sub>**BSB:**</sub></small>
 So the angel of the LORD told her, “Return to your mistress and submit to her authority.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֔ה]] [[H7725G\|שׁ֖וּבִי]] [[H0413\|אֶל]][[H9014\|־]] [[H1404\|גְּבִרְתֵּ֑]][[H9022\|ךְ]] [[H9002\|וְ]][[H6031B\|הִתְעַנִּ֖י]] [[H8478G\|תַּ֥חַת]] [[H3027K\|יָדֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic COMMUNION|COMMUNION]] • [[topic LAHAI-ROI|LAHAI-ROI]] • [[topic PRAYER|PRAYER]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.8|<< Genesis 16:8]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.10|Genesis 16:10 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 3:20
+type: Verse
+kjv: "Until the LORD have given rest unto your brethren, as well as unto you, and until they also possess the land which the LORD your God hath given them beyond Jordan: and then shall ye return every man unto his possession, which I have given you."
+bsb: "until the LORD gives rest to your brothers as He has to you, and they too have taken possession of the land that the LORD your God is giving them across the Jordan. Then each of you may return to the possession I have given you.”"
+hebrew: "עַ֠ד אֲשֶׁר־ יָנִ֨יחַ יְהוָ֥ה׀ לַֽאֲחֵיכֶם֮ כָּכֶם֒ וְיָרְשׁ֣וּ גַם־ הֵ֔ם אֶת־ הָאָ֕רֶץ אֲשֶׁ֨ר יְהוָ֧ה אֱלֹהֵיכֶ֛ם נֹתֵ֥ן לָהֶ֖ם בְּעֵ֣בֶר הַיַּרְדֵּ֑ן וְשַׁבְתֶּ֗ם אִ֚ישׁ לִֽירֻשָּׁת֔וֹ אֲשֶׁ֥ר נָתַ֖תִּי לָכֶֽם׃"
+pericope: "[[Deut.3.12 Land Division East of the Jordan|Land Division East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic REUBENITES|REUBENITES]]"
+strongs:
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0251I]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H9036]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H1571]]"
+- "[[H1992]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H7725G]]"
+- "[[H0376I]]"
+- "[[H3425]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:20**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Until the LORD have given rest unto your brethren, as well as unto you, and [until] they also possess the land which the LORD your God hath given them beyond Jordan: and [then] shall ye return every man unto his possession, which I have given you.
 <small><sub>**BSB:**</sub></small>
 until the LORD gives rest to your brothers as He has to you, and they too have taken possession of the land that the LORD your God is giving them across the Jordan. Then each of you may return to the possession I have given you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַ֠ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5117\|יָנִ֨יחַ]] [[H3068G\|יְהוָ֥ה]][[H9015\|׀]] [[H9005\|לַֽ]][[H0251I\|אֲחֵי]][[H9026\|כֶם֮]] [[H9004\|כָּ]][[H9036\|כֶם֒]] [[H9001\|וְ]][[H3423H\|יָרְשׁ֣וּ]] [[H1571\|גַם]][[H9014\|־]] [[H1992\|הֵ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁ֨ר]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֛ם]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9003\|בְּ]][[H5676H\|עֵ֣בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9001\|וְ]][[H7725G\|שַׁבְתֶּ֗ם]] [[H0376I\|אִ֚ישׁ]] [[H9005\|לִֽ]][[H3425\|ירֻשָּׁת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MANASSEH|MANASSEH]] • [[topic REUBENITES|REUBENITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.19|<< Deuteronomy 3:19]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.21|Deuteronomy 3:21 >>]]</td></tr></table>
 

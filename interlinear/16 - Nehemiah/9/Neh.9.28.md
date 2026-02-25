@@ -1,8 +1,75 @@
+---
+title: Nehemiah 9:28
+type: Verse
+kjv: "But after they had rest, they did evil again before thee: therefore leftest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest them from heaven; and many times didst thou deliver them according to thy mercies;"
+bsb: "But as soon as they had rest, they again did evil in Your sight. So You abandoned them to the hands of their enemies, who had dominion over them. When they cried out to You again, You heard from heaven, and You delivered them many times in Your compassion."
+hebrew: "וּכְנ֣וֹחַ לָהֶ֔ם יָשׁ֕וּבוּ לַעֲשׂ֥וֹת רַ֖ע לְפָנֶ֑יךָ וַתַּֽעַזְבֵ֞ם בְּיַ֤ד אֹֽיְבֵיהֶם֙ וַיִּרְדּ֣וּ בָהֶ֔ם וַיָּשׁ֙וּבוּ֙ וַיִּזְעָק֔וּךָ וְאַתָּ֞ה מִשָּׁמַ֧יִם תִּשְׁמַ֛ע וְתַצִּילֵ֥ם כְּֽרַחֲמֶ֖יךָ רַבּ֥וֹת עִתִּֽים׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H7725J]]"
+- "[[H6213A]]"
+- "[[H7451B]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0341]]"
+- "[[H9028]]"
+- "[[H7287A]]"
+- "[[H7725O]]"
+- "[[H2199]]"
+- "[[H9031]]"
+- "[[H0859A]]"
+- "[[H9006]]"
+- "[[H8064]]"
+- "[[H8085G]]"
+- "[[H5337]]"
+- "[[H7356B]]"
+- "[[H7227A]]"
+- "[[H6256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:28**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But after they had rest, they did evil again before thee: therefore leftest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest [them] from heaven; and many times didst thou deliver them according to thy mercies;
 <small><sub>**BSB:**</sub></small>
 But as soon as they had rest, they again did evil in Your sight. So You abandoned them to the hands of their enemies, who had dominion over them. When they cried out to You again, You heard from heaven, and You delivered them many times in Your compassion.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9004\|כְ]][[H5117\|נ֣וֹחַ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H7725J\|יָשׁ֕וּבוּ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H7451B\|רַ֖ע]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H5800A\|תַּֽעַזְבֵ֞]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַ֤ד]] [[H0341\|אֹֽיְבֵי]][[H9028\|הֶם֙]] [[H9001\|וַ]][[H7287A\|יִּרְדּ֣וּ]] [[H9003\|בָ]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H7725O\|יָּשׁ֙וּבוּ֙]] [[H9001\|וַ]][[H2199\|יִּזְעָק֔וּ]][[H9031\|ךָ]] [[H9002\|וְ]][[H0859A\|אַתָּ֞ה]] [[H9006\|מִ]][[H8064\|שָּׁמַ֧יִם]] [[H8085G\|תִּשְׁמַ֛ע]] [[H9002\|וְ]][[H5337\|תַצִּילֵ֥]][[H9038\|ם]] [[H9004\|כְּֽ]][[H7356B\|רַחֲמֶ֖י]][[H9021\|ךָ]] [[H7227A\|רַבּ֥וֹת]] [[H6256\|עִתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.27|<< Nehemiah 9:27]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.29|Nehemiah 9:29 >>]]</td></tr></table>
 

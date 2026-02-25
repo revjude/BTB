@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Make a Joyful Noise
+type: Pericope
 pericope: "[[Ps.66.1 Make a Joyful Noise|Make a Joyful Noise]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 66
 book/chapter: "[[Ps.66|Psalm 66]]"
-genre:
+chronological_order: 426
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 21
 verses:
 - "[[Ps.66.0]]"
 - "[[Ps.66.1]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Ps.66.20]]"
 ---
 
-[[Ps.66|Psalm 66:1 - Psalm 66:20]]
+<small>[[Ps.66|Psalm 66:1-20]]</small>
 *Make a Joyful Noise*
 
 [[Ps.66.0|0]] To the chief Musician, A Song \[or\] Psalm.

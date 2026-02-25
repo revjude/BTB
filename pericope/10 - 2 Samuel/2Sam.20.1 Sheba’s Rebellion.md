@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sheba’s Rebellion
+type: Pericope
 pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 20
 book/chapter: "[[2Sam.20|2 Samuel 20]]"
-genre:
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 26
 verses:
 - "[[2Sam.20.1]]"
 - "[[2Sam.20.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[2Sam.20.26]]"
 ---
 
-[[2Sam.20|2 Samuel 20:1 - 2 Samuel 20:26]]
+<small>[[2Sam.20|2 Samuel 20:1-26]]</small>
 *Sheba’s Rebellion*
 
 [[2Sam.20.1|1]] And there happened to be there a man of Belial, whose name \[was\] Sheba, the son of Bichri, a Benjamite: and he blew a trumpet, and said, We have no part in David, neither have we inheritance in the son of Jesse: every man to his tents, O Israel.

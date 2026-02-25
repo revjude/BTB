@@ -1,8 +1,72 @@
+---
+title: Joshua 10:23
+type: Verse
+kjv: "And they did so, and brought forth those five kings unto him out of the cave, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon."
+bsb: "So they brought the five kings out of the cave—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon."
+hebrew: "וַיַּ֣עֲשׂוּ כֵ֔ן וַיֹּצִ֣יאוּ אֵלָ֗יו אֶת־ חֲמֵ֛שֶׁת הַמְּלָכִ֥ים הָאֵ֖לֶּה מִן־ הַמְּעָרָ֑ה אֵ֣ת׀ מֶ֣לֶךְ יְרוּשָׁלִַ֗ם אֶת־ מֶ֤לֶךְ חֶבְרוֹן֙ אֶת־ מֶ֣לֶךְ יַרְמ֔וּת אֶת־ מֶ֥לֶךְ לָכִ֖ישׁ אֶת־ מֶ֥לֶךְ עֶגְלֽוֹן׃"
+pericope: "[[Josh.10.16 The Victory at Makkedah|The Victory at Makkedah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 10
+book/chapter: "[[Josh.10|Joshua 10]]"
+chronological_order: 240
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ADONI-ZEDEK|ADONI-ZEDEK]]"
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic CAVE|CAVE]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic EGLON|EGLON]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic JARMUTH|JARMUTH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MAKKEDAH|MAKKEDAH]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H3318H]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2568]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0428]]"
+- "[[H4480A]]"
+- "[[H4631]]"
+- "[[H9015]]"
+- "[[H3389]]"
+- "[[H2275A]]"
+- "[[H3412G]]"
+- "[[H3923]]"
+- "[[H5700G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 10:23**<big><big>[[Josh.10.16 The Victory at Makkedah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they did so, and brought forth those five kings unto him out of the cave, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, [and] the king of Eglon.
 <small><sub>**BSB:**</sub></small>
 So they brought the five kings out of the cave—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עֲשׂוּ]] [[H3651C\|כֵ֔ן]] [[H9001\|וַ]][[H3318H\|יֹּצִ֣יאוּ]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H2568\|חֲמֵ֛שֶׁת]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4631\|מְּעָרָ֑ה]] [[H0853\|אֵ֣ת]][[H9015\|׀]] [[H4428G\|מֶ֣לֶךְ]] [[H3389\|יְרוּשָׁלִַ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֤לֶךְ]] [[H2275A\|חֶבְרוֹן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3412G\|יַרְמ֔וּת]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H3923\|לָכִ֖ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H5700G\|עֶגְלֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADONI-ZEDEK|ADONI-ZEDEK]] • [[topic AMORITES|AMORITES]] • [[topic CAPTIVE|CAPTIVE]] • [[topic CAVE|CAVE]] • [[topic DEBIR|DEBIR]] • [[topic EGLON|EGLON]] • [[topic HEBRON|HEBRON]] • [[topic JARMUTH|JARMUTH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MAKKEDAH|MAKKEDAH]] • [[topic PRISONERS|PRISONERS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.10.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.22|<< Joshua 10:22]]</td><td align="center" style="border:none;">[[Josh.10|Joshua 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.10.24|Joshua 10:24 >>]]</td></tr></table>
 

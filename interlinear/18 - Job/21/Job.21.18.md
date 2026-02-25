@@ -1,8 +1,57 @@
+---
+title: Job 21:18
+type: Verse
+kjv: "They are as stubble before the wind, and as chaff that the storm carrieth away."
+bsb: "Are they like straw before the wind, like chaff swept away by a storm?"
+hebrew: "יִהְי֗וּ כְּתֶ֥בֶן לִפְנֵי־ ר֑וּחַ וּ֝כְמֹ֗ץ גְּנָבַ֥תּוּ סוּפָֽה׃"
+pericope: "[[Job.21.1 Job：God Will Punish the Wicked|Job：God Will Punish the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CHAFF|CHAFF]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic STUBBLE|STUBBLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8401]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H7307H]]"
+- "[[H9002]]"
+- "[[H4671]]"
+- "[[H1589]]"
+- "[[H9033]]"
+- "[[H5492A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 21:18**<big><big>[[Job.21.1 Job：God Will Punish the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are as stubble before the wind, and as chaff that the storm carrieth away.
 <small><sub>**BSB:**</sub></small>
 Are they like straw before the wind, like chaff swept away by a storm?
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יִהְי֗וּ]] [[H9004\|כְּ]][[H8401\|תֶ֥בֶן]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9014\|־]] [[H7307H\|ר֑וּחַ]] [[H9002\|וּ֝]][[H9004\|כְ]][[H4671\|מֹ֗ץ]] [[H1589\|גְּנָבַ֥תּ]][[H9033\|וּ]] [[H5492A\|סוּפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAFF|CHAFF]] • [[topic DEATH|DEATH]] • [[topic STUBBLE|STUBBLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.21.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.21.17|<< Job 21:17]]</td><td align="center" style="border:none;">[[Job.21|Job 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.21.19|Job 21:19 >>]]</td></tr></table>
 

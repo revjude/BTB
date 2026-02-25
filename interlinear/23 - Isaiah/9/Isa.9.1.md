@@ -1,8 +1,76 @@
+---
+title: Isaiah 9:1
+type: Verse
+kjv: "Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations."
+bsb: "Nevertheless, there will be no more gloom for those in distress. In the past He humbled the land of Zebulun and the land of Naphtali, but in the future He will honor the Way of the Sea, beyond the Jordan, Galilee of the nations:"
+hebrew: "כִּ֣י לֹ֣א מוּעָף֮ לַאֲשֶׁ֣ר מוּצָ֣ק לָהּ֒ כָּעֵ֣ת הָרִאשׁ֗וֹן הֵקַ֞ל אַ֤רְצָה זְבֻלוּן֙ וְאַ֣רְצָה נַפְתָּלִ֔י וְהָאַחֲר֖וֹן הִכְבִּ֑יד דֶּ֤רֶךְ הַיָּם֙ עֵ֣בֶר הַיַּרְדֵּ֔ן גְּלִ֖יל הַגּוֹיִֽם׃"
+pericope: "[[Isa.9.1 Unto Us a Child Is Born|Unto Us a Child Is Born]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 9
+book/chapter: "[[Isa.9|Isaiah 9]]"
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NAPHTALI|NAPHTALI]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H4155]]"
+- "[[H9005]]"
+- "[[H0834A]]"
+- "[[H4164]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H7223H]]"
+- "[[H7043]]"
+- "[[H0776G]]"
+- "[[H9011]]"
+- "[[H2074]]"
+- "[[H9002]]"
+- "[[H5321G]]"
+- "[[H0314]]"
+- "[[H3513G]]"
+- "[[H1870L]]"
+- "[[H3220G]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H1551]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 9:1**<big><big>[[Isa.9.1 Unto Us a Child Is Born|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the dimness [shall] not [be] such as [was] in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict [her by] the way of the sea, beyond Jordan, in Galilee of the nations.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, there will be no more gloom for those in distress. In the past He humbled the land of Zebulun and the land of Naphtali, but in the future He will honor the Way of the Sea, beyond the Jordan, Galilee of the nations:
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3808\|לֹ֣א]] [[H4155\|מוּעָף֮]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֣ר]] [[H4164\|מוּצָ֣ק]] [[H9005\|לָ]][[H9034\|הּ֒]] [[H9004\|כָּ]][[H6256\|עֵ֣ת]] [[H9009\|הָ]][[H7223H\|רִאשׁ֗וֹן]] [[H7043\|הֵקַ֞ל]] [[H0776G\|אַ֤רְצָ]][[H9011\|ה]] [[H2074\|זְבֻלוּן֙]] [[H9002\|וְ]][[H0776G\|אַ֣רְצָ]][[H9011\|ה]] [[H5321G\|נַפְתָּלִ֔י]] [[H9002\|וְ]][[H9009\|הָ]][[H0314\|אַחֲר֖וֹן]] [[H3513G\|הִכְבִּ֑יד]] [[H1870L\|דֶּ֤רֶךְ]] [[H9009\|הַ]][[H3220G\|יָּם֙]] [[H5676H\|עֵ֣בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H1551\|גְּלִ֖יל]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic GALILEE|GALILEE]] • [[topic GENTILES|GENTILES]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NAPHTALI|NAPHTALI]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.9.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.22|<< Isaiah 8:22]]</td><td align="center" style="border:none;">[[Isa.9|Isaiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.9.2|Isaiah 9:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

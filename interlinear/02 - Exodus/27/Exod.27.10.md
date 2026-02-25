@@ -1,8 +1,60 @@
+---
+title: Exodus 27:10
+type: Verse
+kjv: "And the twenty pillars thereof and their twenty sockets shall be of brass; the hooks of the pillars and their fillets shall be of silver."
+bsb: "with twenty posts and twenty bronze bases, and silver hooks and bands on the posts."
+hebrew: "וְעַמֻּדָ֣יו עֶשְׂרִ֔ים וְאַדְנֵיהֶ֥ם עֶשְׂרִ֖ים נְחֹ֑שֶׁת וָוֵ֧י הָעַמֻּדִ֛ים וַחֲשֻׁקֵיהֶ֖ם כָּֽסֶף׃"
+pericope: "[[Exod.27.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic HOOKS|HOOKS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H5982G]]"
+- "[[H9023]]"
+- "[[H6242]]"
+- "[[H0134]]"
+- "[[H9028]]"
+- "[[H5178A]]"
+- "[[H2053]]"
+- "[[H9009]]"
+- "[[H2838]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 27:10**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the twenty pillars thereof and their twenty sockets [shall be of] brass; the hooks of the pillars and their fillets [shall be of] silver.
 <small><sub>**BSB:**</sub></small>
 with twenty posts and twenty bronze bases, and silver hooks and bands on the posts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5982G\|עַמֻּדָ֣י]][[H9023\|ו]] [[H6242\|עֶשְׂרִ֔ים]] [[H9002\|וְ]][[H0134\|אַדְנֵי]][[H9028\|הֶ֥ם]] [[H6242\|עֶשְׂרִ֖ים]] [[H5178A\|נְחֹ֑שֶׁת]] [[H2053\|וָוֵ֧י]] [[H9009\|הָ]][[H5982G\|עַמֻּדִ֛ים]] [[H9002\|וַ]][[H2838\|חֲשֻׁקֵי]][[H9028\|הֶ֖ם]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURTAINS|CURTAINS]] • [[topic HOOKS|HOOKS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.9|<< Exodus 27:9]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.11|Exodus 27:11 >>]]</td></tr></table>
 

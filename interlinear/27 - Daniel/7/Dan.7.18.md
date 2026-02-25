@@ -1,8 +1,55 @@
+---
+title: Daniel 7:18
+type: Verse
+kjv: "But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever."
+bsb: "But the saints of the Most High will receive the kingdom and possess it forever—yes, forever and ever.’"
+aramaic: "וִֽיקַבְּלוּן֙ מַלְכוּתָ֔א קַדִּישֵׁ֖י עֶלְיוֹנִ֑ין וְיַחְסְנ֤וּן מַלְכוּתָא֙ עַֽד־ עָ֣לְמָ֔א וְעַ֖ד עָלַ֥ם עָלְמַיָּֽא׃"
+pericope: "[[Dan.7.15 Daniel’s Visions Interpreted|Daniel’s Visions Interpreted]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HORN|HORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9002]]"
+- "[[H6902]]"
+- "[[H4437]]"
+- "[[H9010]]"
+- "[[H6922]]"
+- "[[H5946]]"
+- "[[H2631]]"
+- "[[H5705]]"
+- "[[H9014]]"
+- "[[H5957]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:18**<big><big>[[Dan.7.15 Daniel’s Visions Interpreted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
 <small><sub>**BSB:**</sub></small>
 But the saints of the Most High will receive the kingdom and possess it forever—yes, forever and ever.’
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וִֽ]][[H6902\|יקַבְּלוּן֙]] [[H4437\|מַלְכוּתָ֔]][[H9010\|א]] [[H6922\|קַדִּישֵׁ֖י]] [[H5946\|עֶלְיוֹנִ֑ין]] [[H9002\|וְ]][[H2631\|יַחְסְנ֤וּן]] [[H4437\|מַלְכוּתָ]][[H9010\|א֙]] [[H5705\|עַֽד]][[H9014\|־]] [[H5957\|עָ֣לְמָ֔]][[H9010\|א]] [[H9002\|וְ]][[H5705\|עַ֖ד]] [[H5957\|עָלַ֥ם]] [[H5957\|עָלְמַיָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HORN|HORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.17|<< Daniel 7:17]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.19|Daniel 7:19 >>]]</td></tr></table>
 

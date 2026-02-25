@@ -1,10 +1,73 @@
+---
+title: Luke 13:25
+type: Verse
+kjv: "When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:"
+bsb: "After the master of the house gets up and shuts the door, you will stand outside knocking and saying, ‘Lord, open the door for us.’ But he will reply, ‘I do not know where you are from.’"
+jesus_said: "When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:"
+greek: "ἀφ᾽ οὗ ἂν ἐγερθῇ ὁ οἰκοδεσπότης καὶ ἀποκλείσῃ τὴν θύραν καὶ ἄρξησθε ἔξω ἑστάναι καὶ κρούειν τὴν θύραν λέγοντες· κύριε κύριε, ἄνοιξον ἡμῖν· καὶ ἀποκριθεὶς ἐρεῖ ὑμῖν· οὐκ οἶδα ὑμᾶς πόθεν ἐστέ·"
+pericope: "[[Luke.13.22 The Narrow Door|The Narrow Door]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DOOR|DOOR]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+strongs:
+- "[[G0575]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G1453]]"
+- "[[G3588]]"
+- "[[G3617]]"
+- "[[G2532]]"
+- "[[G0608]]"
+- "[[G2374]]"
+- "[[G0757]]"
+- "[[G1854]]"
+- "[[G2476]]"
+- "[[G2925]]"
+- "[[G3004G]]"
+- "[[G2962H]]"
+- "[[G0455]]"
+- "[[G3165]]"
+- "[[G0611]]"
+- "[[G4483]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G4159]]"
+- "[[G1510]]"
+texts:
+- NKO
+- K
+---
+
 **Luke 13:25**<big><big>[[Luke.13.22 The Narrow Door|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When once the master of the house is risen up, and hath shut to the door, and ye begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence ye are:
 <small><sub>**BSB:**</sub></small>
 After the master of the house gets up and shuts the door, you will stand outside knocking and saying, ‘Lord, open the door for us.’ But he will reply, ‘I do not know where you are from.’
-<small><sub>**Literal:**</sub></small>
-From what maybe may have risen up the master of the house and may have shut the door then you may begin outside to have stood and to knock at the door saying; lord lord, do open to us; And he answering will say to you; Not I do know you from where are;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.24|<< Luke 13:24]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.26|Luke 13:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|ἀφ᾽]]  [[G3739\|οὗ]]  [[G0302\|ἂν]]  [[G1453\|ἐγερθῇ]]  [[G3588\|ὁ]]  [[G3617\|οἰκοδεσπότης]]  [[G2532\|καὶ]]  [[G0608\|ἀποκλείσῃ]]  [[G3588\|τὴν]]  [[G2374\|θύραν]]  [[G2532\|καὶ]]  [[G0757\|ἄρξησθε]]  [[G1854\|ἔξω]]  [[G2476\|ἑστάναι]]  [[G2532\|καὶ]]  [[G2925\|κρούειν]]  [[G3588\|τὴν]]  [[G2374\|θύραν]]  [[G3004G\|λέγοντες·]]  [[G2962H\|κύριε]]  [[G2962H\|κύριε,]]  [[G0455\|ἄνοιξον]]  [[G3165\|ἡμῖν·]]  [[G2532\|καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G4483\|ἐρεῖ]]  [[G4771\|ὑμῖν·]]  [[G3756\|οὐκ]]  [[G6063\|οἶδα]]  [[G4771\|ὑμᾶς]]  [[G4159\|πόθεν]]  [[G1510\|ἐστέ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOOR|DOOR]] • [[topic FORMALISM|FORMALISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic REPROBACY|REPROBACY]] • [[topic SELF-DELUSION|SELF-DELUSION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.24|<< Luke 13:24]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.26|Luke 13:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

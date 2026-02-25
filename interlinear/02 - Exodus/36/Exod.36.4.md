@@ -1,8 +1,63 @@
+---
+title: Exodus 36:4
+type: Verse
+kjv: "And all the wise men, that wrought all the work of the sanctuary, came every man from his work which they made;"
+bsb: "so that all the skilled craftsmen who were doing all the work on the sanctuary left their work"
+hebrew: "וַיָּבֹ֙אוּ֙ כָּל־ הַ֣חֲכָמִ֔ים הָעֹשִׂ֕ים אֵ֖ת כָּל־ מְלֶ֣אכֶת הַקֹּ֑דֶשׁ אִֽישׁ־ אִ֥ישׁ מִמְּלַאכְתּ֖וֹ אֲשֶׁר־ הֵ֥מָּה עֹשִֽׂים׃"
+pericope: "[[Exod.36.1 The People Bring More than Enough|The People Bring More than Enough]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2450]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H4399]]"
+- "[[H6944G]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:4**<big><big>[[Exod.36.1 The People Bring More than Enough|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the wise men, that wrought all the work of the sanctuary, came every man from his work which they made;
 <small><sub>**BSB:**</sub></small>
 so that all the skilled craftsmen who were doing all the work on the sanctuary left their work
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ֣]][[H2450\|חֲכָמִ֔ים]] [[H9009\|הָ]][[H6213A\|עֹשִׂ֕ים]] [[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלֶ֣אכֶת]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H0376G\|אִ֥ישׁ]] [[H9006\|מִ]][[H4399\|מְּלַאכְתּ֖]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֥מָּה]] [[H6213A\|עֹשִֽׂים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.3|<< Exodus 36:3]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.5|Exodus 36:5 >>]]</td></tr></table>
 

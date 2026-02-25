@@ -1,8 +1,68 @@
+---
+title: Amos 9:11
+type: Verse
+kjv: "In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:"
+bsb: "“In that day I will restore the fallen tent of David. I will repair its gaps, restore its ruins, and rebuild it as in the days of old,"
+hebrew: "בַּיּ֣וֹם הַה֔וּא אָקִ֛ים אֶת־ סֻכַּ֥ת דָּוִ֖יד הַנֹּפֶ֑לֶת וְגָדַרְתִּ֣י אֶת־ פִּרְצֵיהֶ֗ן וַהֲרִֽסֹתָיו֙ אָקִ֔ים וּבְנִיתִ֖יהָ כִּימֵ֥י עוֹלָֽם׃"
+pericope: "[[Amos.9.11 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 9
+book/chapter: "[[Amos.9|Amos 9]]"
+chronological_order: 606
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5521]]"
+- "[[H1732]]"
+- "[[H5307G]]"
+- "[[H9001]]"
+- "[[H1443]]"
+- "[[H6556]]"
+- "[[H9029]]"
+- "[[H9002]]"
+- "[[H2034]]"
+- "[[H9023]]"
+- "[[H1129]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H5769J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 9:11**<big><big>[[Amos.9.11 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day will I raise up the tabernacle of David that is fallen, and close up the breaches thereof; and I will raise up his ruins, and I will build it as in the days of old:
 <small><sub>**BSB:**</sub></small>
 “In that day I will restore the fallen tent of David. I will repair its gaps, restore its ruins, and rebuild it as in the days of old,
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H6965I\|אָקִ֛ים]] [[H0853\|אֶת]][[H9014\|־]] [[H5521\|סֻכַּ֥ת]] [[H1732\|דָּוִ֖יד]] [[H9009\|הַ]][[H5307G\|נֹּפֶ֑לֶת]] [[H9001\|וְ]][[H1443\|גָדַרְתִּ֣י]] [[H0853\|אֶת]][[H9014\|־]] [[H6556\|פִּרְצֵי]][[H9029\|הֶ֗ן]] [[H9002\|וַ]][[H2034\|הֲרִֽסֹתָי]][[H9023\|ו֙]] [[H6965I\|אָקִ֔ים]] [[H9001\|וּ]][[H1129\|בְנִיתִ֖י]][[H9034\|הָ]] [[H9004\|כִּ]][[H3117G\|ימֵ֥י]] [[H5769J\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.9.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.9.10|<< Amos 9:10]]</td><td align="center" style="border:none;">[[Amos.9|Amos 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.12|Amos 9:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

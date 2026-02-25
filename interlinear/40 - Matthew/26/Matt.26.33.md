@@ -1,10 +1,57 @@
+---
+title: Matthew 26:33
+type: Verse
+kjv: "Peter answered and said unto him, Though all men shall be offended because of thee, yet will I never be offended."
+bsb: "Peter said to Him, “Even if all fall away on account of You, I never will.”"
+greek: "Ἀποκριθεὶς δὲ ὁ Πέτρος εἶπεν αὐτῷ· εἰ καὶ πάντες σκανδαλισθήσονται ἐν σοί, ἐγὼ δὲ οὐδέποτε σκανδαλισθήσομαι.¶"
+pericope: "[[Matt.26.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1487M]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G4624]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G1473]]"
+- "[[G3763]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 26:33**<big><big>[[Matt.26.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Peter answered and said unto him, Though all [men] shall be offended because of thee, [yet] will I never be offended.
 <small><sub>**BSB:**</sub></small>
 Peter said to Him, “Even if all fall away on account of You, I never will.”
-<small><sub>**Literal:**</sub></small>
-Answering now <the> Peter said to Him; If even all will fall away because of You, I myself but never will fall away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.32|<< Matthew 26:32]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.34|Matthew 26:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G1487M\|εἰ]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G4624\|σκανδαλισθήσονται]]  [[G1722\|ἐν]]  [[G4771\|σοί,]]  [[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G3763\|οὐδέποτε]]  [[G4624\|σκανδαλισθήσομαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.32|<< Matthew 26:32]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.34|Matthew 26:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: Revelation 12:13
+type: Verse
+kjv: "And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man child."
+bsb: "And when the dragon saw that he had been thrown to the earth, he pursued the woman who had given birth to the male child."
+greek: "Καὶ ὅτε εἶδεν ὁ δράκων ὅτι ἐβλήθη εἰς τὴν γῆν, ἐδίωξεν τὴν γυναῖκα ἥτις ἔτεκεν τὸν ἄρσενα."
+pericope: "[[Rev.12.13 The Woman Persecuted|The Woman Persecuted]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G1492H]]"
+- "[[G3588]]"
+- "[[G1404]]"
+- "[[G3754G]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G1093G]]"
+- "[[G1377]]"
+- "[[G1135G]]"
+- "[[G3748]]"
+- "[[G5088]]"
+- "[[G0730]]"
+texts:
+- NKO
+---
+
 **Revelation 12:13**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the dragon saw that he was cast unto the earth, he persecuted the woman which brought forth the man [child].
 <small><sub>**BSB:**</sub></small>
 And when the dragon saw that he had been thrown to the earth, he pursued the woman who had given birth to the male child.
-<small><sub>**Literal:**</sub></small>
-And when saw the dragon that he had been thrown down to the earth, he pursued the woman who had brought forth the male [child].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.12|<< Revelation 12:12]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.14|Revelation 12:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3753\|ὅτε]]  [[G1492H\|εἶδεν]]  [[G3588\|ὁ]]  [[G1404\|δράκων]]  [[G3754G\|ὅτι]]  [[G0906G\|ἐβλήθη]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093G\|γῆν,]]  [[G1377\|ἐδίωξεν]]  [[G3588\|τὴν]]  [[G1135G\|γυναῖκα]]  [[G3748\|ἥτις]]  [[G5088\|ἔτεκεν]]  [[G3588\|τὸν]]  [[G0730\|ἄρσενα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.12|<< Revelation 12:12]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.14|Revelation 12:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,75 @@
+---
+title: Joshua 6:25
+type: Verse
+kjv: "And Joshua saved Rahab the harlot alive, and her father’s household, and all that she had; and she dwelleth in Israel even unto this day; because she hid the messengers, which Joshua sent to spy out Jericho."
+bsb: "And Joshua spared Rahab the prostitute, with her father’s household and all who belonged to her, because she hid the men Joshua had sent to spy out Jericho. So she has lived among the Israelites to this day."
+hebrew: "וְֽאֶת־ רָחָ֣ב הַ֠זּוֹנָה וְאֶת־ בֵּ֨ית אָבִ֤יהָ וְאֶת־ כָּל־ אֲשֶׁר־ לָהּ֙ הֶחֱיָ֣ה יְהוֹשֻׁ֔עַ וַתֵּ֙שֶׁב֙ בְּקֶ֣רֶב יִשְׂרָאֵ֔ל עַ֖ד הַיּ֣וֹם הַזֶּ֑ה כִּ֤י הֶחְבִּ֙יאָה֙ אֶת־ הַמַּלְאָכִ֔ים אֲשֶׁר־ שָׁלַ֥ח יְהוֹשֻׁ֖עַ לְרַגֵּ֥ל אֶת־ יְרִיחֽוֹ׃ פ"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic RAHAB|RAHAB]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7343]]"
+- "[[H9009]]"
+- "[[H2181]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9024]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H2421]]"
+- "[[H3091G]]"
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H3478]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H2244]]"
+- "[[H4397G]]"
+- "[[H7971G]]"
+- "[[H7270]]"
+- "[[H3405G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 6:25**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua saved Rahab the harlot alive, and her father’s household, and all that she had; and she dwelleth in Israel [even] unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.
 <small><sub>**BSB:**</sub></small>
 And Joshua spared Rahab the prostitute, with her father’s household and all who belonged to her, because she hid the men Joshua had sent to spy out Jericho. So she has lived among the Israelites to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H7343\|רָחָ֣ב]] [[H9009\|הַ֠]][[H2181\|זּוֹנָה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֨ית]] [[H0001G\|אָבִ֤י]][[H9024\|הָ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לָ]][[H9034\|הּ֙]] [[H2421\|הֶחֱיָ֣ה]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H9001\|וַ]][[H3427\|תֵּ֙שֶׁב֙]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H3588A\|כִּ֤י]] [[H2244\|הֶחְבִּ֙יאָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4397G\|מַּלְאָכִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|שָׁלַ֥ח]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H9005\|לְ]][[H7270\|רַגֵּ֥ל]] [[H0853\|אֶת]][[H9014\|־]] [[H3405G\|יְרִיחֽוֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic MERCY|MERCY]] • [[topic RAHAB|RAHAB]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.24|<< Joshua 6:24]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.26|Joshua 6:26 >>]]</td></tr></table>
 
@@ -35,7 +102,7 @@ And Joshua spared Rahab the prostitute, with her father’s household and all wh
 | Joshua  |**<big>&#8207;[[H3091G\|יְהוֹשֻׁ֖עַ]]&#8207; </big>**| ye.ho.Shu.a'<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to spy out  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7270\|רַגֵּ֥ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> ra.Gel<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Jericho  |**<big>&#8207;[[H3405G\|יְרִיחֽוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ri.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Jericho  |**<big>&#8207;[[H3405G\|יְרִיחֽוֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.ri.Cho<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.24|<< Joshua 6:24]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.26|Joshua 6:26 >>]]</td></tr></table>
 
 

@@ -1,6 +1,56 @@
+---
+title: Psalm 52:0
+type: Verse
+kjv: "To the chief Musician, Maschil, A Psalm of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech."
+hebrew: "לַמְנַצֵּ֗חַ מַשְׂכִּ֥יל לְדָוִֽד׃ בְּב֤וֹא׀ דּוֹאֵ֣ג הָאֲדֹמִי֮ וַיַּגֵּ֪ד לְשָׁ֫א֥וּל וַיֹּ֥אמֶר ל֑וֹ בָּ֥א דָ֝וִ֗ד אֶל־ בֵּ֥ית אֲחִימֶֽלֶךְ׃"
+pericope: "[[Ps.52.1 Why Do You Boast of Evil？|Why Do You Boast of Evil？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 52
+book/chapter: "[[Ps.52|Psalm 52]]"
+chronological_order: 313
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H4905]]"
+- "[[H1732]]"
+- "[[H9016]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9015]]"
+- "[[H1673]]"
+- "[[H9009]]"
+- "[[H0130]]"
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H7586G]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H0288G]]"
+texts:
+- L
+---
+
 **Psalms 52:0**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, Maschil, [A Psalm] of David, when Doeg the Edomite came and told Saul, and said unto him, David is come to the house of Ahimelech.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֗חַ]] [[H4905\|מַשְׂכִּ֥יל]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]] [[H9003\|בְּ]][[H0935G\|ב֤וֹא]][[H9015\|׀]] [[H1673\|דּוֹאֵ֣ג]] [[H9009\|הָ]][[H0130\|אֲדֹמִי֮]] [[H9001\|וַ]][[H5046\|יַּגֵּ֪ד]] [[H9005\|לְ]][[H7586G\|שָׁ֫א֥וּל]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H0935G\|בָּ֥א]] [[H1732\|דָ֝וִ֗ד]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H0288G\|אֲחִימֶֽלֶךְ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.51.19|<< Psalms 51:19]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.1|Psalms 52:1 >>]]</td></tr></table>
 

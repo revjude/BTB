@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 25:1
+type: Verse
+kjv: "Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother’s name was Jehoaddan of Jerusalem."
+bsb: "Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָה֙ מָלַ֣ךְ אֲמַצְיָ֔הוּ וְעֶשְׂרִ֣ים וָתֵ֙שַׁע֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ יְהוֹעַדָּ֖ן מִירוּשָׁלָֽיִם׃"
+pericope: "[[2Chr.25.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHOADDAN|JEHOADDAN]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H4427A]]"
+- "[[H0558G]]"
+- "[[H8672]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H3086]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:1**<big><big>[[2Chr.25.1 Amaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Amaziah [was] twenty and five years old [when] he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother’s name [was] Jehoaddan of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H8141\|שָׁנָה֙]] [[H4427A\|מָלַ֣ךְ]] [[H0558G\|אֲמַצְיָ֔הוּ]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֣ים]] [[H9002\|וָ]][[H8672\|תֵ֙שַׁע֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H3086\|יְהוֹעַדָּ֖ן]] [[H9006\|מִ]][[H3389\|ירוּשָׁלָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOADDAN|JEHOADDAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.24.27|<< 2 Chronicles 24:27]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.2|2 Chronicles 25:2 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: 2 Kings 10:1
+type: Verse
+kjv: "And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab’s children, saying,"
+bsb: "Now Ahab had seventy sons in Samaria. So Jehu wrote letters and sent them to Samaria to the officials of Jezreel, to the elders, and to the guardians of the sons of Ahab, saying:"
+hebrew: "וּלְאַחְאָ֛ב שִׁבְעִ֥ים בָּנִ֖ים בְּשֹׁמְר֑וֹן וַיִּכְתֹּב֩ יֵה֨וּא סְפָרִ֜ים וַיִּשְׁלַ֣ח שֹׁמְר֗וֹן אֶל־ שָׂרֵ֤י יִזְרְעֶאל֙ הַזְּקֵנִ֔ים וְאֶל־ הָאֹמְנִ֥ים אַחְאָ֖ב לֵאמֹֽר׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic TUTOR|TUTOR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0256G]]"
+- "[[H7657]]"
+- "[[H1121A]]"
+- "[[H9003]]"
+- "[[H8111]]"
+- "[[H9001]]"
+- "[[H3789]]"
+- "[[H3058H]]"
+- "[[H5612A]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H3157H]]"
+- "[[H9009]]"
+- "[[H2205G]]"
+- "[[H0539]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:1**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab had seventy sons in Samaria. And Jehu wrote letters, and sent to Samaria, unto the rulers of Jezreel, to the elders, and to them that brought up Ahab’s [children], saying,
 <small><sub>**BSB:**</sub></small>
 Now Ahab had seventy sons in Samaria. So Jehu wrote letters and sent them to Samaria to the officials of Jezreel, to the elders, and to the guardians of the sons of Ahab, saying:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H0256G\|אַחְאָ֛ב]] [[H7657\|שִׁבְעִ֥ים]] [[H1121A\|בָּנִ֖ים]] [[H9003\|בְּ]][[H8111\|שֹׁמְר֑וֹן]] [[H9001\|וַ]][[H3789\|יִּכְתֹּב֩]] [[H3058H\|יֵה֨וּא]] [[H5612A\|סְפָרִ֜ים]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H8111\|שֹׁמְר֗וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H8269\|שָׂרֵ֤י]] [[H3157H\|יִזְרְעֶאל֙]] [[H9009\|הַ]][[H2205G\|זְּקֵנִ֔ים]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0539\|אֹמְנִ֥ים]] [[H0256G\|אַחְאָ֖ב]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CHILDREN|CHILDREN]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic MASSACRE|MASSACRE]] • [[topic TUTOR|TUTOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.37|<< 2 Kings 9:37]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.2|2 Kings 10:2 >>]]</td></tr></table>
 

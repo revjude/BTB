@@ -1,10 +1,57 @@
+---
+title: Mark 13:1
+type: Verse
+kjv: "And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!"
+bsb: "As Jesus was leaving the temple, one of His disciples said to Him, “Teacher, look at the magnificent stones and buildings!”"
+greek: "Καὶ ἐκπορευομένου αὐτοῦ ἐκ τοῦ ἱεροῦ λέγει αὐτῷ εἷς τῶν μαθητῶν αὐτοῦ· διδάσκαλε, ἴδε ποταποὶ λίθοι καὶ ποταπαὶ οἰκοδομαί.¶"
+pericope: "[[Mark.13.1 Temple Destruction and Other Signs|Temple Destruction and Other Signs]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1607]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G3004G]]"
+- "[[G1520]]"
+- "[[G3101]]"
+- "[[G1320]]"
+- "[[G2396]]"
+- "[[G4217]]"
+- "[[G3037]]"
+- "[[G3619]]"
+texts:
+- NKO
+---
+
 **Mark 13:1**<big><big>[[Mark.13.1 Temple Destruction and Other Signs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings [are here]!
 <small><sub>**BSB:**</sub></small>
 As Jesus was leaving the temple, one of His disciples said to Him, “Teacher, look at the magnificent stones and buildings!”
-<small><sub>**Literal:**</sub></small>
-And when is going forth He out of the temple says to Him one of the disciples of Him; Teacher, behold what stones and what buildings!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.44|<< Mark 12:44]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.2|Mark 13:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1607\|ἐκπορευομένου]]  [[G0846\|αὐτοῦ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G1520\|εἷς]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G0846\|αὐτοῦ·]]  [[G1320\|διδάσκαλε,]]  [[G2396\|ἴδε]]  [[G4217\|ποταποὶ]]  [[G3037\|λίθοι]]  [[G2532\|καὶ]]  [[G4217\|ποταπαὶ]]  [[G3619\|οἰκοδομαί.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic STONES|STONES]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.44|<< Mark 12:44]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.13.2|Mark 13:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Dedication to Theophilus
+type: Pericope
 pericope: "[[Luke.1.1 Dedication to Theophilus|Dedication to Theophilus]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Luke
 chapter: 1
 book/chapter: "[[Luke.1|Luke 1]]"
-genre:
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 4
 verses:
 - "[[Luke.1.1]]"
 - "[[Luke.1.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Luke.1.4]]"
 ---
 
-[[Luke.1|Luke 1:1 - Luke 1:4]]
+<small>[[Luke.1|Luke 1:1-4]]</small>
 *Dedication to Theophilus*
 
 [[Luke.1.1|1]] Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,

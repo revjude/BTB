@@ -1,8 +1,64 @@
+---
+title: Ezekiel 18:16
+type: Verse
+kjv: "Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, but hath given his bread to the hungry, and hath covered the naked with a garment,"
+bsb: "He does not oppress another, or retain a pledge, or commit robbery. He gives his bread to the hungry and covers the naked with clothing."
+hebrew: "וְאִישׁ֙ לֹ֣א הוֹנָ֔ה חֲבֹל֙ לֹ֣א חָבָ֔ל וּגְזֵלָ֖ה לֹ֣א גָזָ֑ל לַחְמוֹ֙ לְרָעֵ֣ב נָתָ֔ן וְעֵר֖וֹם כִּסָּה־ בָֽגֶד׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3808]]"
+- "[[H3238]]"
+- "[[H2258A]]"
+- "[[H2254A]]"
+- "[[H1500]]"
+- "[[H1497]]"
+- "[[H3899H]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H7457]]"
+- "[[H5414G]]"
+- "[[H5903]]"
+- "[[H3680]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 18:16**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Neither hath oppressed any, hath not withholden the pledge, neither hath spoiled by violence, [but] hath given his bread to the hungry, and hath covered the naked with a garment,
 <small><sub>**BSB:**</sub></small>
 He does not oppress another, or retain a pledge, or commit robbery. He gives his bread to the hungry and covers the naked with clothing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִישׁ֙]] [[H3808\|לֹ֣א]] [[H3238\|הוֹנָ֔ה]] [[H2258A\|חֲבֹל֙]] [[H3808\|לֹ֣א]] [[H2254A\|חָבָ֔ל]] [[H9002\|וּ]][[H1500\|גְזֵלָ֖ה]] [[H3808\|לֹ֣א]] [[H1497\|גָזָ֑ל]] [[H3899H\|לַחְמ]][[H9023\|וֹ֙]] [[H9005\|לְ]][[H7457\|רָעֵ֣ב]] [[H5414G\|נָתָ֔ן]] [[H9002\|וְ]][[H5903\|עֵר֖וֹם]] [[H3680\|כִּסָּה]][[H9014\|־]] [[H0899B\|בָֽגֶד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic POOR|POOR]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.15|<< Ezekiel 18:15]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.17|Ezekiel 18:17 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Jeremiah 49:5
+type: Verse
+kjv: "Behold, I will bring a fear upon thee, saith the Lord GOD of hosts, from all those that be about thee; and ye shall be driven out every man right forth; and none shall gather up him that wandereth."
+bsb: "Behold, I am about to bring terror upon you, declares the Lord GOD of Hosts, from all those around you. You will each be driven headlong, with no one to regather the fugitives."
+hebrew: "הִנְנִי֩ מֵבִ֨יא עָלַ֜יִךְ פַּ֗חַד נְאֻם־ אֲדֹנָ֧י יְהוִ֛ה צְבָא֖וֹת מִכָּל־ סְבִיבָ֑יִךְ וְנִדַּחְתֶּם֙ אִ֣ישׁ לְפָנָ֔יו וְאֵ֥ין מְקַבֵּ֖ץ לַנֹּדֵֽד׃"
+pericope: "[[Jer.49.1 Judgment on the Ammonites|Judgment on the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H9032]]"
+- "[[H6343]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6635B]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H5439G]]"
+- "[[H9001]]"
+- "[[H5080]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H6908]]"
+- "[[H5074]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:5**<big><big>[[Jer.49.1 Judgment on the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will bring a fear upon thee, saith the Lord GOD of hosts, from all those that be about thee; and ye shall be driven out every man right forth; and none shall gather up him that wandereth.
 <small><sub>**BSB:**</sub></small>
 Behold, I am about to bring terror upon you, declares the Lord GOD of Hosts, from all those around you. You will each be driven headlong, with no one to regather the fugitives.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִי֩]] [[H0935P\|מֵבִ֨יא]] [[H5921A\|עָלַ֜יִ]][[H9032\|ךְ]] [[H6343\|פַּ֗חַד]] [[H5002\|נְאֻם]][[H9014\|־]] [[H0136\|אֲדֹנָ֧י]] [[H3069\|יְהוִ֛ה]] [[H6635B\|צְבָא֖וֹת]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H5439G\|סְבִיבָ֑יִ]][[H9032\|ךְ]] [[H9001\|וְ]][[H5080\|נִדַּחְתֶּם֙]] [[H0376I\|אִ֣ישׁ]] [[H9005\|לְ]][[H6440G\|פָנָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H6908\|מְקַבֵּ֖ץ]] [[H9005\|לַ]][[H5074\|נֹּדֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AMMONITES|AMMONITES]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.4|<< Jeremiah 49:4]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.6|Jeremiah 49:6 >>]]</td></tr></table>
 

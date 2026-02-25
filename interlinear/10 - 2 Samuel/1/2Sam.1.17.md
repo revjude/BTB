@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 1:17
+type: Verse
+kjv: "And David lamented with this lamentation over Saul and over Jonathan his son:"
+bsb: "Then David took up this lament for Saul and his son Jonathan,"
+hebrew: "וַיְקֹנֵ֣ן דָּוִ֔ד אֶת־ הַקִּינָ֖ה הַזֹּ֑את עַל־ שָׁא֖וּל וְעַל־ יְהוֹנָתָ֥ן בְּנֽוֹ׃"
+pericope: "[[2Sam.1.17 David’s Song for Saul and Jonathan|David’s Song for Saul and Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELEGY|ELEGY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[H9001]]"
+- "[[H6969]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7015]]"
+- "[[H2063]]"
+- "[[H5921A]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H3083H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:17**<big><big>[[2Sam.1.17 David’s Song for Saul and Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David lamented with this lamentation over Saul and over Jonathan his son:
 <small><sub>**BSB:**</sub></small>
 Then David took up this lament for Saul and his son Jonathan,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6969\|יְקֹנֵ֣ן]] [[H1732\|דָּוִ֔ד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7015\|קִּינָ֖ה]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H5921A\|עַל]][[H9014\|־]] [[H7586G\|שָׁא֖וּל]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3083H\|יְהוֹנָתָ֥ן]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ELEGY|ELEGY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]] • [[topic MOURNING|MOURNING]] • [[topic WEEPING|WEEPING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.16|<< 2 Samuel 1:16]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.18|2 Samuel 1:18 >>]]</td></tr></table>
 

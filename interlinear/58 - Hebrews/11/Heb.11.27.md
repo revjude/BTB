@@ -1,10 +1,57 @@
+---
+title: Hebrews 11:27
+type: Verse
+kjv: "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible."
+bsb: "By faith Moses left Egypt, not fearing the king’s anger; he persevered because he saw Him who is invisible."
+greek: "Πίστει κατέλιπεν Αἴγυπτον μὴ φοβηθεὶς τὸν θυμὸν τοῦ βασιλέως· τὸν γὰρ ἀόρατον ὡς ὁρῶν ἐκαρτέρησεν.¶"
+pericope: "[[Heb.11.23 The Faith of Moses|The Faith of Moses]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 11
+book/chapter: "[[Heb.11|Hebrews 11]]"
+chronological_order: 1150
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4102G]]"
+- "[[G2641]]"
+- "[[G0125]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G3588]]"
+- "[[G2372]]"
+- "[[G0935]]"
+- "[[G1063]]"
+- "[[G0517]]"
+- "[[G5613]]"
+- "[[G3708]]"
+- "[[G2594]]"
+texts:
+- NKO
+---
+
 **Hebrews 11:27**<big><big>[[Heb.11.23 The Faith of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.
 <small><sub>**BSB:**</sub></small>
 By faith Moses left Egypt, not fearing the king’s anger; he persevered because he saw Him who is invisible.
-<small><sub>**Literal:**</sub></small>
-By faith he left Egypt not having feared the anger of the king; the for Invisible [One] as seeing he persevered.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.26|<< Hebrews 11:26]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.28|Hebrews 11:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4102G\|Πίστει]]  [[G2641\|κατέλιπεν]]  [[G0125\|Αἴγυπτον]]  [[G3361\|μὴ]]  [[G5399\|φοβηθεὶς]]  [[G3588\|τὸν]]  [[G2372\|θυμὸν]]  [[G3588\|τοῦ]]  [[G0935\|βασιλέως·]]  [[G3588\|τὸν]]  [[G1063\|γὰρ]]  [[G0517\|ἀόρατον]]  [[G5613\|ὡς]]  [[G3708\|ὁρῶν]]  [[G2594\|ἐκαρτέρησεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic MOSES|MOSES]] • [[topic PERSECUTION|PERSECUTION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.11.26|<< Hebrews 11:26]]</td><td align="center" style="border:none;">[[Heb.11|Hebrews 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.11.28|Hebrews 11:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 11:27** is...
 > $\quad$ alluding to: [[LXX.Exod.2.15|Exod 2:15]]

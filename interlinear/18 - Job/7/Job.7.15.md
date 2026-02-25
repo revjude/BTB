@@ -1,8 +1,50 @@
+---
+title: Job 7:15
+type: Verse
+kjv: "So that my soul chooseth strangling, and death rather than my life."
+bsb: "so that I would prefer strangling and death over my life in this body."
+hebrew: "וַתִּבְחַ֣ר מַחֲנָ֣ק נַפְשִׁ֑י מָ֝֗וֶת מֵֽעַצְמוֹתָֽי׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H4267]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H4194]]"
+- "[[H9006]]"
+- "[[H6106G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:15**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that my soul chooseth strangling, [and] death rather than my life.
 <small><sub>**BSB:**</sub></small>
 so that I would prefer strangling and death over my life in this body.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0977\|תִּבְחַ֣ר]] [[H4267\|מַחֲנָ֣ק]] [[H5315I\|נַפְשִׁ֑]][[H9020\|י]] [[H4194\|מָ֝֗וֶת]] [[H9006\|מֵֽ]][[H6106G\|עַצְמוֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.14|<< Job 7:14]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.16|Job 7:16 >>]]</td></tr></table>
 

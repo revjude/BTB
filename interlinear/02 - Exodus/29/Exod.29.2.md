@@ -1,8 +1,62 @@
+---
+title: Exodus 29:2
+type: Verse
+kjv: "And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: of wheaten flour shalt thou make them."
+bsb: "along with unleavened bread, unleavened cakes mixed with oil, and unleavened wafers anointed with oil. Make them out of fine wheat flour,"
+hebrew: "וְלֶ֣חֶם מַצּ֗וֹת וְחַלֹּ֤ת מַצֹּת֙ בְּלוּלֹ֣ת בַּשֶּׁ֔מֶן וּרְקִיקֵ֥י מַצּ֖וֹת מְשֻׁחִ֣ים בַּשָּׁ֑מֶן סֹ֥לֶת חִטִּ֖ים תַּעֲשֶׂ֥ה אֹתָֽם׃"
+pericope: "[[Exod.29.1 Consecration of the Priests|Consecration of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H3899H]]"
+- "[[H4682]]"
+- "[[H2471]]"
+- "[[H1101A]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H7550]]"
+- "[[H4886]]"
+- "[[H5560]]"
+- "[[H2406]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:2**<big><big>[[Exod.29.1 Consecration of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unleavened bread, and cakes unleavened tempered with oil, and wafers unleavened anointed with oil: [of] wheaten flour shalt thou make them.
 <small><sub>**BSB:**</sub></small>
 along with unleavened bread, unleavened cakes mixed with oil, and unleavened wafers anointed with oil. Make them out of fine wheat flour,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3899H\|לֶ֣חֶם]] [[H4682\|מַצּ֗וֹת]] [[H9002\|וְ]][[H2471\|חַלֹּ֤ת]] [[H4682\|מַצֹּת֙]] [[H1101A\|בְּלוּלֹ֣ת]] [[H9003\|בַּ]][[H8081\|שֶּׁ֔מֶן]] [[H9002\|וּ]][[H7550\|רְקִיקֵ֥י]] [[H4682\|מַצּ֖וֹת]] [[H4886\|מְשֻׁחִ֣ים]] [[H9003\|בַּ]][[H8081\|שָּׁ֑מֶן]] [[H5560\|סֹ֥לֶת]] [[H2406\|חִטִּ֖ים]] [[H6213H\|תַּעֲשֶׂ֥ה]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic BREAD|BREAD]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.1|<< Exodus 29:1]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.3|Exodus 29:3 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 34:4
+type: Verse
+kjv: "And the LORD said unto him, This is the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see it with thine eyes, but thou shalt not go over thither."
+bsb: "And the LORD said to him, “This is the land that I swore to give Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it with your own eyes, but you will not cross into it.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֵלָ֗יו זֹ֤את הָאָ֙רֶץ֙ אֲשֶׁ֣ר נִ֠שְׁבַּעְתִּי לְאַבְרָהָ֨ם לְיִצְחָ֤ק וּֽלְיַעֲקֹב֙ לֵאמֹ֔ר לְזַרְעֲךָ֖ אֶתְּנֶ֑נָּה הֶרְאִיתִ֣יךָ בְעֵינֶ֔יךָ וְשָׁ֖מָּה לֹ֥א תַעֲבֹֽר׃"
+pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 34
+book/chapter: "[[Deut.34|Deuteronomy 34]]"
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PISGAH|PISGAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H7200G]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3808]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 34:4**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto him, This [is] the land which I sware unto Abraham, unto Isaac, and unto Jacob, saying, I will give it unto thy seed: I have caused thee to see [it] with thine eyes, but thou shalt not go over thither.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to him, “This is the land that I swore to give Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it with your own eyes, but you will not cross into it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H2063\|זֹ֤את]] [[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7650\|נִ֠שְׁבַּעְתִּי]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֨ם]] [[H9005\|לְ]][[H3327\|יִצְחָ֤ק]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3290\|יַעֲקֹב֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9005\|לְ]][[H2233H\|זַרְעֲ]][[H9021\|ךָ֖]] [[H5414G\|אֶתְּנֶ֑נָּ]][[H9034\|ה]] [[H7200G\|הֶרְאִיתִ֣י]][[H9031\|ךָ]] [[H9003\|בְ]][[H5869A\|עֵינֶ֔י]][[H9021\|ךָ]] [[H9002\|וְ]][[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H3808\|לֹ֥א]] [[H5674A\|תַעֲבֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic MOSES|MOSES]] • [[topic PISGAH|PISGAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.3|<< Deuteronomy 34:3]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.5|Deuteronomy 34:5 >>]]</td></tr></table>
 

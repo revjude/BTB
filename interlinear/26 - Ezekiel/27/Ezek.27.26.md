@@ -1,8 +1,57 @@
+---
+title: Ezekiel 27:26
+type: Verse
+kjv: "Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas."
+bsb: "Your oarsmen have brought you onto the high seas, but the east wind will shatter you in the heart of the sea."
+hebrew: "בְּמַ֤יִם רַבִּים֙ הֱבִיא֔וּךְ הַשָּׁטִ֖ים אֹתָ֑ךְ ר֚וּחַ הַקָּדִ֔ים שְׁבָרֵ֖ךְ בְּלֵ֥ב יַמִּֽים׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MERCHANT|MERCHANT]]"
+strongs:
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H0935P]]"
+- "[[H9032]]"
+- "[[H9009]]"
+- "[[H7751B]]"
+- "[[H0853]]"
+- "[[H7307H]]"
+- "[[H6921]]"
+- "[[H7665]]"
+- "[[H3820A]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:26**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas.
 <small><sub>**BSB:**</sub></small>
 Your oarsmen have brought you onto the high seas, but the east wind will shatter you in the heart of the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H4325G\|מַ֤יִם]] [[H7227A\|רַבִּים֙]] [[H0935P\|הֱבִיא֔וּ]][[H9032\|ךְ]] [[H9009\|הַ]][[H7751B\|שָּׁטִ֖ים]] [[H0853\|אֹתָ֑]][[H9032\|ךְ]] [[H7307H\|ר֚וּחַ]] [[H9009\|הַ]][[H6921\|קָּדִ֔ים]] [[H7665\|שְׁבָרֵ֖]][[H9032\|ךְ]] [[H9003\|בְּ]][[H3820A\|לֵ֥ב]] [[H3220G\|יַמִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MERCHANT|MERCHANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.25|<< Ezekiel 27:25]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.27|Ezekiel 27:27 >>]]</td></tr></table>
 

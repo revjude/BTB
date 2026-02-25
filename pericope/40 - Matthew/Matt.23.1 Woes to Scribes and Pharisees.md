@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Woes to Scribes and Pharisees
+type: Pericope
 pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
-verse_count: 35
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 23
 book/chapter: "[[Matt.23|Matthew 23]]"
-genre:
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 35
 verses:
 - "[[Matt.23.1]]"
 - "[[Matt.23.2]]"
@@ -53,7 +60,7 @@ verses:
 - "[[Matt.23.36]]"
 ---
 
-[[Matt.23|Matthew 23:1 - Matthew 23:36]]
+<small>[[Matt.23|Matthew 23:1-36]]</small>
 *Woes to Scribes and Pharisees*
 
 [[Matt.23.1|1]] Then spake Jesus to the multitude, and to his disciples,

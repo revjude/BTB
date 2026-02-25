@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 12:9
+type: Verse
+kjv: "For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you."
+bsb: "For you have not yet come to the resting place and the inheritance that the LORD your God is giving you."
+hebrew: "כִּ֥י לֹא־ בָּאתֶ֖ם עַד־ עָ֑תָּה אֶל־ הַמְּנוּחָה֙ וְאֶל־ הַֽנַּחֲלָ֔ה אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAAN|CANAAN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H6258]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4496H]]"
+- "[[H9002]]"
+- "[[H5159]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:9**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you.
 <small><sub>**BSB:**</sub></small>
 For you have not yet come to the resting place and the inheritance that the LORD your God is giving you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|בָּאתֶ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H6258\|עָ֑תָּה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4496H\|מְּנוּחָה֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H5159\|נַּחֲלָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.8|<< Deuteronomy 12:8]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.10|Deuteronomy 12:10 >>]]</td></tr></table>
 

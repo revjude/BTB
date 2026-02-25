@@ -1,8 +1,57 @@
+---
+title: 2 Kings 14:17
+type: Verse
+kjv: "And Amaziah the son of Joash king of Judah lived after the death of Jehoash son of Jehoahaz king of Israel fifteen years."
+bsb: "Amaziah son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel."
+hebrew: "וַיְחִ֨י אֲמַצְיָ֤הוּ בֶן־ יוֹאָשׁ֙ מֶ֣לֶךְ יְהוּדָ֔ה אַֽחֲרֵ֣י מ֔וֹת יְהוֹאָ֥שׁ בֶּן־ יְהֽוֹאָחָ֖ז מֶ֣לֶךְ יִשְׂרָאֵ֑ל חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃"
+pericope: "[[2Kgs.14.17 The Death of Amaziah|The Death of Amaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H2421]]"
+- "[[H0558G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H3101I]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H0310A]]"
+- "[[H4194]]"
+- "[[H3060H]]"
+- "[[H3059G]]"
+- "[[H3478]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 14:17**<big><big>[[2Kgs.14.17 The Death of Amaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Amaziah the son of Joash king of Judah lived after the death of Jehoash son of Jehoahaz king of Israel fifteen years.
 <small><sub>**BSB:**</sub></small>
 Amaziah son of Joash king of Judah lived for fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2421\|יְחִ֨י]] [[H0558G\|אֲמַצְיָ֤הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3101I\|יוֹאָשׁ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H0310A\|אַֽחֲרֵ֣י]] [[H4194\|מ֔וֹת]] [[H3060H\|יְהוֹאָ֥שׁ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3059G\|יְהֽוֹאָחָ֖ז]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H2568\|חֲמֵ֥שׁ]] [[H6240\|עֶשְׂרֵ֖ה]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.16|<< 2 Kings 14:16]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.18|2 Kings 14:18 >>]]</td></tr></table>
 

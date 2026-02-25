@@ -1,8 +1,59 @@
+---
+title: Proverbs 28:10
+type: Verse
+kjv: "Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good things in possession."
+bsb: "He who leads the upright along the path of evil will fall into his own pit, but the blameless will inherit what is good."
+hebrew: "מַשְׁגֶּ֤ה יְשָׁרִ֨ים׀ בְּדֶ֥רֶךְ רָ֗ע בִּשְׁחוּת֥וֹ הֽוּא־ יִפּ֑וֹל וּ֝תְמִימִ֗ים יִנְחֲלוּ־ טֽוֹב׃"
+pericope: "[[Prov.28.1 The Boldness of the Righteous|The Boldness of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 28
+book/chapter: "[[Prov.28|Proverbs 28]]"
+chronological_order: 483
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PIT|PIT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H7686]]"
+- "[[H3477G]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H7451H]]"
+- "[[H7816]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H5307G]]"
+- "[[H9002]]"
+- "[[H8549H]]"
+- "[[H5157]]"
+- "[[H2896B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 28:10**<big><big>[[Prov.28.1 The Boldness of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso causeth the righteous to go astray in an evil way, he shall fall himself into his own pit: but the upright shall have good [things] in possession.
 <small><sub>**BSB:**</sub></small>
 He who leads the upright along the path of evil will fall into his own pit, but the blameless will inherit what is good.
+<small><sub>**Hebrew:**</sub></small>
+[[H7686\|מַשְׁגֶּ֤ה]] [[H3477G\|יְשָׁרִ֨ים]][[H9015\|׀]] [[H9003\|בְּ]][[H1870G\|דֶ֥רֶךְ]] [[H7451H\|רָ֗ע]] [[H9003\|בִּ]][[H7816\|שְׁחוּת֥]][[H9023\|וֹ]] [[H1931\|הֽוּא]][[H9014\|־]] [[H5307G\|יִפּ֑וֹל]] [[H9002\|וּ֝]][[H8549H\|תְמִימִ֗ים]] [[H5157\|יִנְחֲלוּ]][[H9014\|־]] [[H2896B\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MALICE|MALICE]] • [[topic PIT|PIT]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.28.9|<< Proverbs 28:9]]</td><td align="center" style="border:none;">[[Prov.28|Proverbs 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.28.11|Proverbs 28:11 >>]]</td></tr></table>
 

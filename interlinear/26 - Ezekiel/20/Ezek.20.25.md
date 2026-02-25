@@ -1,8 +1,53 @@
+---
+title: Ezekiel 20:25
+type: Verse
+kjv: "Wherefore I gave them also statutes that were not good, and judgments whereby they should not live;"
+bsb: "I also gave them over to statutes that were not good and ordinances by which they could not live."
+hebrew: "וְגַם־ אֲנִי֙ נָתַ֣תִּי לָהֶ֔ם חֻקִּ֖ים לֹ֣א טוֹבִ֑ים וּמִ֨שְׁפָּטִ֔ים לֹ֥א יִֽחְי֖וּ בָּהֶֽם׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H2706G]]"
+- "[[H3808]]"
+- "[[H2896A]]"
+- "[[H4941G]]"
+- "[[H2421]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:25**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore I gave them also statutes [that were] not good, and judgments whereby they should not live;
 <small><sub>**BSB:**</sub></small>
 I also gave them over to statutes that were not good and ordinances by which they could not live.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0589\|אֲנִי֙]] [[H5414G\|נָתַ֣תִּי]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H2706G\|חֻקִּ֖ים]] [[H3808\|לֹ֣א]] [[H2896A\|טוֹבִ֑ים]] [[H9002\|וּ]][[H4941G\|מִ֨שְׁפָּטִ֔ים]] [[H3808\|לֹ֥א]] [[H2421\|יִֽחְי֖וּ]] [[H9003\|בָּ]][[H9038\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.24|<< Ezekiel 20:24]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.26|Ezekiel 20:26 >>]]</td></tr></table>
 

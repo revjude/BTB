@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Rehoboam’s Reign and Death
+type: Pericope
 pericope: "[[2Chr.12.13 Rehoboam’s Reign and Death|Rehoboam’s Reign and Death]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 12
 book/chapter: "[[2Chr.12|2 Chronicles 12]]"
-genre:
+chronological_order: 558
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.12.13]]"
 - "[[2Chr.12.14]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.12.16]]"
 ---
 
-[[2Chr.12|2 Chronicles 12:13 - 2 Chronicles 12:16]]
+<small>[[2Chr.12|2 Chronicles 12:13-16]]</small>
 *Rehoboam’s Reign and Death*
 
 [[2Chr.12.13|13]] So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam \[was\] one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother’s name \[was\] Naamah an Ammonitess.

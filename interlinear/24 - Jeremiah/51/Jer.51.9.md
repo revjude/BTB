@@ -1,8 +1,69 @@
+---
+title: Jeremiah 51:9
+type: Verse
+kjv: "We would have healed Babylon, but she is not healed: forsake her, and let us go every one into his own country: for her judgment reacheth unto heaven, and is lifted up even to the skies."
+bsb: "“We tried to heal Babylon, but she could not be healed. Abandon her! Let each of us go to his own land, for her judgment extends to the sky and reaches to the clouds.”"
+hebrew: "רִפִּ֣ינוּ אֶת־ בָּבֶל֙ וְלֹ֣א נִרְפָּ֔תָה עִזְב֕וּהָ וְנֵלֵ֖ךְ אִ֣ישׁ לְאַרְצ֑וֹ כִּֽי־ נָגַ֤ע אֶל־ הַשָּׁמַ֙יִם֙ מִשְׁפָּטָ֔הּ וְנִשָּׂ֖א עַד־ שְׁחָקִֽים׃"
+pericope: "[[Jer.51.1 Judgment on Babylon|Judgment on Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic MEDICINE|MEDICINE]]"
+strongs:
+- "[[H7495]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5800A]]"
+- "[[H9034]]"
+- "[[H1980G]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H5060]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H4941G]]"
+- "[[H9024]]"
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H5704]]"
+- "[[H7834]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Jeremiah 51:9**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We would have healed Babylon, but she is not healed: forsake her, and let us go every one into his own country: for her judgment reacheth unto heaven, and is lifted up [even] to the skies.
 <small><sub>**BSB:**</sub></small>
 “We tried to heal Babylon, but she could not be healed. Abandon her! Let each of us go to his own land, for her judgment extends to the sky and reaches to the clouds.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7495\|רִפִּ֣ינוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0894\|בָּבֶל֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7495\|נִרְפָּ֔תָה]] [[H5800A\|עִזְב֕וּ]][[H9034\|הָ]] [[H9002\|וְ]][[H1980G\|נֵלֵ֖ךְ]] [[H0376I\|אִ֣ישׁ]] [[H9005\|לְ]][[H0776G\|אַרְצ֑]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5060\|נָגַ֤ע]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H4941G\|מִשְׁפָּטָ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H5375G\|נִשָּׂ֖א]] [[H5704\|עַד]][[H9014\|־]] [[H7834\|שְׁחָקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic MEDICINE|MEDICINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.8|<< Jeremiah 51:8]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.10|Jeremiah 51:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

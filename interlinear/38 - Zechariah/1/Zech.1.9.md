@@ -1,8 +1,62 @@
+---
+title: Zechariah 1:9
+type: Verse
+kjv: "Then said I, O my lord, what are these? And the angel that talked with me said unto me, I will shew thee what these be."
+bsb: "“What are these, my lord?” I asked. And the angel who was speaking with me replied, “I will show you what they are.”"
+hebrew: "וָאֹמַ֖ר מָה־ אֵ֣לֶּה אֲדֹנִ֑י וַיֹּ֣אמֶר אֵלַ֗י הַמַּלְאָךְ֙ הַדֹּבֵ֣ר בִּ֔י אֲנִ֥י אַרְאֶ֖ךָּ מָה־ הֵ֥מָּה אֵֽלֶּה׃"
+pericope: "[[Zech.1.7 The Vision of the Horses|The Vision of the Horses]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 1
+book/chapter: "[[Zech.1|Zechariah 1]]"
+chronological_order: 857
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H4397H]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H0589]]"
+- "[[H7200G]]"
+- "[[H9031]]"
+- "[[H1992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 1:9**<big><big>[[Zech.1.7 The Vision of the Horses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, O my lord, what [are] these? And the angel that talked with me said unto me, I will shew thee what these [be].
 <small><sub>**BSB:**</sub></small>
 “What are these, my lord?” I asked. And the angel who was speaking with me replied, “I will show you what they are.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֖ר]] [[H4100\|מָה]][[H9014\|־]] [[H0428\|אֵ֣לֶּה]] [[H0113\|אֲדֹנִ֑]][[H9020\|י]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H9009\|הַ]][[H4397H\|מַּלְאָךְ֙]] [[H9009\|הַ]][[H1696G\|דֹּבֵ֣ר]] [[H9003\|בִּ֔]][[H9030\|י]] [[H0589\|אֲנִ֥י]] [[H7200G\|אַרְאֶ֖]][[H9031\|ךָּ]] [[H4100\|מָה]][[H9014\|־]] [[H1992\|הֵ֥מָּה]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic PROPHETS|PROPHETS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.1.8|<< Zechariah 1:8]]</td><td align="center" style="border:none;">[[Zech.1|Zechariah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.10|Zechariah 1:10 >>]]</td></tr></table>
 

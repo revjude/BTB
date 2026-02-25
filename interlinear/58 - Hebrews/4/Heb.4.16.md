@@ -1,10 +1,63 @@
+---
+title: Hebrews 4:16
+type: Verse
+kjv: "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need."
+bsb: "Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need."
+greek: "προσερχώμεθα οὖν μετὰ παρρησίας τῷ θρόνῳ τῆς χάριτος, ἵνα λάβωμεν ἔλεος καὶ χάριν εὕρωμεν εἰς εὔκαιρον βοήθειαν.¶"
+pericope: "[[Heb.4.12 The Living Word|The Living Word]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G4334]]"
+- "[[G3767]]"
+- "[[G3326]]"
+- "[[G3954]]"
+- "[[G3588]]"
+- "[[G2362]]"
+- "[[G5485]]"
+- "[[G2443]]"
+- "[[G2983]]"
+- "[[G1656]]"
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G1519]]"
+- "[[G2121]]"
+- "[[G0996]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 4:16**<big><big>[[Heb.4.12 The Living Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.
 <small><sub>**BSB:**</sub></small>
 Let us then approach the throne of grace with confidence, so that we may receive mercy and find grace to help us in our time of need.
-<small><sub>**Literal:**</sub></small>
-We may come therefore with boldness to the throne <the> of grace, so that we may receive mercy and grace may find for in time of need help.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.15|<< Hebrews 4:15]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.1|Hebrews 5:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4334\|προσερχώμεθα]]  [[G3767\|οὖν]]  [[G3326\|μετὰ]]  [[G3954\|παρρησίας]]  [[G3588\|τῷ]]  [[G2362\|θρόνῳ]]  [[G3588\|τῆς]]  [[G5485\|χάριτος,]]  [[G2443\|ἵνα]]  [[G2983\|λάβωμεν]]  [[G1656\|ἔλεος]]  [[G2532\|καὶ]]  [[G5485\|χάριν]]  [[G2147\|εὕρωμεν]]  [[G1519\|εἰς]]  [[G2121\|εὔκαιρον]]  [[G0996\|βοήθειαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BOLDNESS|BOLDNESS]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic MERCY-SEAT|MERCY-SEAT]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.15|<< Hebrews 4:15]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.1|Hebrews 5:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

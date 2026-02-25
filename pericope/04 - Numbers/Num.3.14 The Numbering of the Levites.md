@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Numbering of the Levites
+type: Pericope
 pericope: "[[Num.3.14 The Numbering of the Levites|The Numbering of the Levites]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 3
 book/chapter: "[[Num.3|Numbers 3]]"
-genre:
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 7
 verses:
 - "[[Num.3.14]]"
 - "[[Num.3.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Num.3.20]]"
 ---
 
-[[Num.3|Numbers 3:14 - Numbers 3:20]]
+<small>[[Num.3|Numbers 3:14-20]]</small>
 *The Numbering of the Levites*
 
 [[Num.3.14|14]] And the LORD spake unto Moses in the wilderness of Sinai, saying,

@@ -1,8 +1,67 @@
+---
+title: Numbers 22:27
+type: Verse
+kjv: "And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam’s anger was kindled, and he smote the ass with a staff."
+bsb: "When the donkey saw the angel of the LORD, she lay down under Balaam, and he became furious and beat her with his staff."
+hebrew: "וַתֵּ֤רֶא הָֽאָתוֹן֙ אֶת־ מַלְאַ֣ךְ יְהוָ֔ה וַתִּרְבַּ֖ץ תַּ֣חַת בִּלְעָ֑ם וַיִּֽחַר־ אַ֣ף בִּלְעָ֔ם וַיַּ֥ךְ אֶת־ הָאָת֖וֹן בַּמַּקֵּֽל׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H0860]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4397H]]"
+- "[[H3068G]]"
+- "[[H7257]]"
+- "[[H8478G]]"
+- "[[H1109A]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H4731]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:27**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam’s anger was kindled, and he smote the ass with a staff.
 <small><sub>**BSB:**</sub></small>
 When the donkey saw the angel of the LORD, she lay down under Balaam, and he became furious and beat her with his staff.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|תֵּ֤רֶא]] [[H9009\|הָֽ]][[H0860\|אָתוֹן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַ]][[H7257\|תִּרְבַּ֖ץ]] [[H8478G\|תַּ֣חַת]] [[H1109A\|בִּלְעָ֑ם]] [[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֣ף]] [[H1109A\|בִּלְעָ֔ם]] [[H9001\|וַ]][[H5221\|יַּ֥ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0860\|אָת֖וֹן]] [[H9003\|בַּ]][[H4731\|מַּקֵּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANGEL (HOLY TRINITY)|ANGEL (HOLY TRINITY)]] • [[topic ANGER|ANGER]] • [[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BALAAM|BALAAM]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.26|<< Numbers 22:26]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.28|Numbers 22:28 >>]]</td></tr></table>
 

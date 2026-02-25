@@ -1,10 +1,62 @@
+---
+title: James 4:8
+type: Verse
+kjv: "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded."
+bsb: "Draw near to God, and He will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded."
+greek: "ἐγγίσατε τῷ θεῷ καὶ ἐγγιεῖ ὑμῖν. καθαρίσατε χεῖρας, ἁμαρτωλοί, καὶ ἁγνίσατε καρδίας, δίψυχοι."
+pericope: "[[Jas.4.7 Drawing Near to God|Drawing Near to God]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[G1448]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G2511]]"
+- "[[G5495]]"
+- "[[G0268]]"
+- "[[G0048]]"
+- "[[G2588]]"
+- "[[G1374]]"
+texts:
+- NKO
+---
+
 **James 4:8**<big><big>[[Jas.4.7 Drawing Near to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Draw nigh to God, and he will draw nigh to you. Cleanse [your] hands, [ye] sinners; and purify [your] hearts, [ye] double minded.
 <small><sub>**BSB:**</sub></small>
 Draw near to God, and He will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.
-<small><sub>**Literal:**</sub></small>
-do draw near <the> to God and He will draw near to you. do cleanse [your] hands, [you] sinners, and do purify hearts, [you] double-minded.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.7|<< James 4:7]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.9|James 4:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1448\|ἐγγίσατε]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G1448\|ἐγγιεῖ]]  [[G4771\|ὑμῖν.]]  [[G2511\|καθαρίσατε]]  [[G5495\|χεῖρας,]]  [[G0268\|ἁμαρτωλοί,]]  [[G2532\|καὶ]]  [[G0048\|ἁγνίσατε]]  [[G2588\|καρδίας,]]  [[G1374\|δίψυχοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic CHARACTER|CHARACTER]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INSTABILITY|INSTABILITY]] • [[topic PRAYER|PRAYER]] • [[topic PURITY|PURITY]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.7|<< James 4:7]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.9|James 4:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

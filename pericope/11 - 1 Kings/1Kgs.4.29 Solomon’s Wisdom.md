@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Wisdom
+type: Pericope
 pericope: "[[1Kgs.4.29 Solomon’s Wisdom|Solomon’s Wisdom]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 4
 book/chapter: "[[1Kgs.4|1 Kings 4]]"
-genre:
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 6
 verses:
 - "[[1Kgs.4.29]]"
 - "[[1Kgs.4.30]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Kgs.4.34]]"
 ---
 
-[[1Kgs.4|1 Kings 4:29 - 1 Kings 4:34]]
+<small>[[1Kgs.4|1 Kings 4:29-34]]</small>
 *Solomon’s Wisdom*
 
 [[1Kgs.4.29|29]] And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that \[is\] on the sea shore.

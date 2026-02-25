@@ -1,8 +1,74 @@
+---
+title: Leviticus 23:10
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:"
+bsb: "“Speak to the Israelites and say, ‘When you enter the land that I am giving you and you reap its harvest, you are to bring to the priest a sheaf of the firstfruits of your harvest."
+hebrew: "דַּבֵּ֞ר אֶל־ בְּנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כִּֽי־ תָבֹ֣אוּ אֶל־ הָאָ֗רֶץ אֲשֶׁ֤ר אֲנִי֙ נֹתֵ֣ן לָכֶ֔ם וּקְצַרְתֶּ֖ם אֶת־ קְצִירָ֑הּ וַהֲבֵאתֶ֥ם אֶת־ עֹ֛מֶר רֵאשִׁ֥ית קְצִירְכֶ֖ם אֶל־ הַכֹּהֵֽן׃"
+pericope: "[[Lev.23.9 The Feast of Firstfruits|The Feast of Firstfruits]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H7114B]]"
+- "[[H0853]]"
+- "[[H7105A]]"
+- "[[H9024]]"
+- "[[H0935P]]"
+- "[[H6016A]]"
+- "[[H7225G]]"
+- "[[H9026]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:10**<big><big>[[Lev.23.9 The Feast of Firstfruits|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, When ye be come into the land which I give unto you, and shall reap the harvest thereof, then ye shall bring a sheaf of the firstfruits of your harvest unto the priest:
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and say, ‘When you enter the land that I am giving you and you reap its harvest, you are to bring to the priest a sheaf of the firstfruits of your harvest.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֞ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|תָבֹ֣אוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H0834A\|אֲשֶׁ֤ר]] [[H0589\|אֲנִי֙]] [[H5414G\|נֹתֵ֣ן]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H9001\|וּ]][[H7114B\|קְצַרְתֶּ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7105A\|קְצִירָ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H0935P\|הֲבֵאתֶ֥ם]] [[H0853\|אֶת]][[H9014\|־]] [[H6016A\|עֹ֛מֶר]] [[H7225G\|רֵאשִׁ֥ית]] [[H7105A\|קְצִירְ]][[H9026\|כֶ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.9|<< Leviticus 23:9]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.11|Leviticus 23:11 >>]]</td></tr></table>
 

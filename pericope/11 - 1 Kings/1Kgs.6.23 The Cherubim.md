@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cherubim
+type: Pericope
 pericope: "[[1Kgs.6.23 The Cherubim|The Cherubim]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 6
 book/chapter: "[[1Kgs.6|1 Kings 6]]"
-genre:
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 8
 verses:
 - "[[1Kgs.6.23]]"
 - "[[1Kgs.6.24]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Kgs.6.30]]"
 ---
 
-[[1Kgs.6|1 Kings 6:23 - 1 Kings 6:30]]
+<small>[[1Kgs.6|1 Kings 6:23-30]]</small>
 *The Cherubim*
 
 [[1Kgs.6.23|23]] And within the oracle he made two cherubims \[of\] olive tree, \[each\] ten cubits high.

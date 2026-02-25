@@ -1,10 +1,57 @@
+---
+title: Mark 3:20
+type: Verse
+kjv: "And the multitude cometh together again, so that they could not so much as eat bread."
+bsb: "Then Jesus went home, and once again a crowd gathered, so that He and His disciples could not even eat."
+greek: "Καὶ ἔρχεται εἰς οἶκον, καὶ συνέρχεται πάλιν ὁ ὄχλος ὥστε μὴ δύνασθαι αὐτοὺς μηδὲ ἄρτον φαγεῖν."
+pericope: "[[Mark.3.20 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G4905]]"
+- "[[G3825]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G5620]]"
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G0846]]"
+- "[[G3366]]"
+- "[[G0740]]"
+- "[[G5315]]"
+texts:
+- NKO
+- N(K)O
+- no
+---
+
 **Mark 3:20**<big><big>[[Mark.3.20 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the multitude cometh together again, so that they could not so much as eat bread.
 <small><sub>**BSB:**</sub></small>
 Then Jesus went home, and once again a crowd gathered, so that He and His disciples could not even eat.
-<small><sub>**Literal:**</sub></small>
-And He comes to a house, [20] and comes together again <the> a crowd so that not to be able they even bread to eat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.19|<< Mark 3:19]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.21|Mark 3:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἔρχεται]]  [[G1519\|εἰς]]  [[G3624G\|οἶκον,]]  [[G2532\|καὶ]]  [[G4905\|συνέρχεται]]  [[G3825\|πάλιν]]  [[G3588\|ὁ]]  [[G3793\|ὄχλος]]  [[G5620\|ὥστε]]  [[G3361\|μὴ]]  [[G1410\|δύνασθαι]]  [[G0846\|αὐτοὺς]]  [[G3366\|μηδὲ]]  [[G0740\|ἄρτον]]  [[G5315\|φαγεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.19|<< Mark 3:19]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.21|Mark 3:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

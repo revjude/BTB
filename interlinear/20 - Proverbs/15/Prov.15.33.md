@@ -1,8 +1,52 @@
+---
+title: Proverbs 15:33
+type: Verse
+kjv: "The fear of the LORD is the instruction of wisdom; and before honour is humility."
+bsb: "The fear of the LORD is the instruction of wisdom, and humility comes before honor."
+hebrew: "יִרְאַ֣ת יְ֭הוָה מוּסַ֣ר חָכְמָ֑ה וְלִפְנֵ֖י כָב֣וֹד עֲנָוָֽה׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H3374]]"
+- "[[H3068G]]"
+- "[[H4148H]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3519]]"
+- "[[H6038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:33**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The fear of the LORD [is] the instruction of wisdom; and before honour [is] humility.
 <small><sub>**BSB:**</sub></small>
 The fear of the LORD is the instruction of wisdom, and humility comes before honor.
+<small><sub>**Hebrew:**</sub></small>
+[[H3374\|יִרְאַ֣ת]] [[H3068G\|יְ֭הוָה]] [[H4148H\|מוּסַ֣ר]] [[H2451\|חָכְמָ֑ה]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3519\|כָב֣וֹד]] [[H6038\|עֲנָוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic REVERENCE|REVERENCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.32|<< Proverbs 15:32]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.1|Proverbs 16:1 >>]]</td></tr></table>
 

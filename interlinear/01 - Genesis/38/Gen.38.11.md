@@ -1,8 +1,75 @@
+---
+title: Genesis 38:11
+type: Verse
+kjv: "Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did. And Tamar went and dwelt in her father’s house."
+bsb: "Then Judah said to his daughter-in-law Tamar, “Live as a widow in your father’s house until my son Shelah grows up.” For he thought, “He may die too, like his brothers.” So Tamar went to live in her father’s house."
+hebrew: "וַיֹּ֣אמֶר יְהוּדָה֩ לְתָמָ֨ר כַּלָּת֜וֹ שְׁבִ֧י אַלְמָנָ֣ה בֵית־ אָבִ֗יךְ עַד־ יִגְדַּל֙ שֵׁלָ֣ה בְנִ֔י כִּ֣י אָמַ֔ר פֶּן־ יָמ֥וּת גַּם־ ה֖וּא כְּאֶחָ֑יו וַתֵּ֣לֶךְ תָּמָ֔ר וַתֵּ֖שֶׁב בֵּ֥ית אָבִֽיהָ׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SHELAH|SHELAH]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H8559G]]"
+- "[[H3618H]]"
+- "[[H9023]]"
+- "[[H3427]]"
+- "[[H0490]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9022]]"
+- "[[H5704]]"
+- "[[H1431]]"
+- "[[H7956]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H6435]]"
+- "[[H4191]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H9004]]"
+- "[[H0251G]]"
+- "[[H1980G]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:11**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren [did]. And Tamar went and dwelt in her father’s house.
 <small><sub>**BSB:**</sub></small>
 Then Judah said to his daughter-in-law Tamar, “Live as a widow in your father’s house until my son Shelah grows up.” For he thought, “He may die too, like his brothers.” So Tamar went to live in her father’s house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3063G\|יְהוּדָה֩]] [[H9005\|לְ]][[H8559G\|תָמָ֨ר]] [[H3618H\|כַּלָּת֜]][[H9023\|וֹ]] [[H3427\|שְׁבִ֧י]] [[H0490\|אַלְמָנָ֣ה]] [[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אָבִ֗י]][[H9022\|ךְ]] [[H5704\|עַד]][[H9014\|־]] [[H1431\|יִגְדַּל֙]] [[H7956\|שֵׁלָ֣ה]] [[H1121A\|בְנִ֔]][[H9020\|י]] [[H3588A\|כִּ֣י]] [[H0559\|אָמַ֔ר]] [[H6435\|פֶּן]][[H9014\|־]] [[H4191\|יָמ֥וּת]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֖וּא]] [[H9004\|כְּ]][[H0251G\|אֶחָ֑י]][[H9023\|ו]] [[H9001\|וַ]][[H1980G\|תֵּ֣לֶךְ]] [[H8559G\|תָּמָ֔ר]] [[H9001\|וַ]][[H3427\|תֵּ֖שֶׁב]] [[H1004M\|בֵּ֥ית]] [[H0001G\|אָבִֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic INHERITANCE|INHERITANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SHELAH|SHELAH]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.10|<< Genesis 38:10]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.12|Genesis 38:12 >>]]</td></tr></table>
 

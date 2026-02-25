@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Prince’s Offerings
+type: Pericope
 pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 46
 book/chapter: "[[Ezek.46|Ezekiel 46]]"
-genre:
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 18
 verses:
 - "[[Ezek.46.1]]"
 - "[[Ezek.46.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ezek.46.18]]"
 ---
 
-[[Ezek.46|Ezekiel 46:1 - Ezekiel 46:18]]
+<small>[[Ezek.46|Ezekiel 46:1-18]]</small>
 *The Prince’s Offerings*
 
 [[Ezek.46.1|1]] Thus saith the Lord GOD; The gate of the inner court that looketh toward the east shall be shut the six working days; but on the sabbath it shall be opened, and in the day of the new moon it shall be opened.

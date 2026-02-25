@@ -1,8 +1,70 @@
+---
+title: Isaiah 22:11
+type: Verse
+kjv: "Ye made also a ditch between the two walls for the water of the old pool: but ye have not looked unto the maker thereof, neither had respect unto him that fashioned it long ago."
+bsb: "You built a reservoir between the walls for the waters of the ancient pool, but you did not look to the One who made it, or consider Him who planned it long ago."
+hebrew: "וּמִקְוָ֣ה׀ עֲשִׂיתֶ֗ם בֵּ֚ין הַחֹ֣מֹתַ֔יִם לְמֵ֖י הַבְּרֵכָ֣ה הַיְשָׁנָ֑ה וְלֹ֤א הִבַּטְתֶּם֙ אֶל־ עֹשֶׂ֔יהָ וְיֹצְרָ֥הּ מֵֽרָח֖וֹק לֹ֥א רְאִיתֶֽם׃"
+pericope: "[[Isa.22.1 The Valley of Vision|The Valley of Vision]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic GIHON|GIHON]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H4724]]"
+- "[[H9015]]"
+- "[[H6213H]]"
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H2346G]]"
+- "[[H9005]]"
+- "[[H4325G]]"
+- "[[H1295H]]"
+- "[[H3465H]]"
+- "[[H3808]]"
+- "[[H5027]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9034]]"
+- "[[H3335I]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:11**<big><big>[[Isa.22.1 The Valley of Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye made also a ditch between the two walls for the water of the old pool: but ye have not looked unto the maker thereof, neither had respect unto him that fashioned it long ago.
 <small><sub>**BSB:**</sub></small>
 You built a reservoir between the walls for the waters of the ancient pool, but you did not look to the One who made it, or consider Him who planned it long ago.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4724\|מִקְוָ֣ה]][[H9015\|׀]] [[H6213H\|עֲשִׂיתֶ֗ם]] [[H0996G\|בֵּ֚ין]] [[H9009\|הַ]][[H2346G\|חֹ֣מֹתַ֔יִם]] [[H9005\|לְ]][[H4325G\|מֵ֖י]] [[H9009\|הַ]][[H1295H\|בְּרֵכָ֣ה]] [[H9009\|הַ]][[H3465H\|יְשָׁנָ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H5027\|הִבַּטְתֶּם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6213H\|עֹשֶׂ֔י]][[H9034\|הָ]] [[H9002\|וְ]][[H3335I\|יֹצְרָ֥]][[H9034\|הּ]] [[H9006\|מֵֽ]][[H7350\|רָח֖וֹק]] [[H3808\|לֹ֥א]] [[H7200G\|רְאִיתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic GIHON|GIHON]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.10|<< Isaiah 22:10]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.12|Isaiah 22:12 >>]]</td></tr></table>
 

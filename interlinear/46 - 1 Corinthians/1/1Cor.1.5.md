@@ -1,10 +1,49 @@
+---
+title: 1 Corinthians 1:5
+type: Verse
+kjv: "That in every thing ye are enriched by him, in all utterance, and in all knowledge;"
+bsb: "For in Him you have been enriched in every way, in all speech and all knowledge,"
+greek: "ὅτι ἐν παντὶ ἐπλουτίσθητε ἐν αὐτῷ ἐν παντὶ λόγῳ καὶ πάσῃ γνώσει,"
+pericope: "[[1Cor.1.4 Thanksgiving|Thanksgiving]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G3754H]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G4148]]"
+- "[[G0846]]"
+- "[[G3056]]"
+- "[[G2532]]"
+- "[[G1108]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:5**<big><big>[[1Cor.1.4 Thanksgiving|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That in every thing ye are enriched by him, in all utterance, and [in] all knowledge;
 <small><sub>**BSB:**</sub></small>
 For in Him you have been enriched in every way, in all speech and all knowledge,
-<small><sub>**Literal:**</sub></small>
-for in everything you have been enriched in Him in all speech and in all knowledge,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.4|<< 1 Corinthians 1:4]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.6|1 Corinthians 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G4148\|ἐπλουτίσθητε]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G3056\|λόγῳ]]  [[G2532\|καὶ]]  [[G3956\|πάσῃ]]  [[G1108\|γνώσει,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.4|<< 1 Corinthians 1:4]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.6|1 Corinthians 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

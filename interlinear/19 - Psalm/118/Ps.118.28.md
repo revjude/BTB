@@ -1,8 +1,54 @@
+---
+title: Psalm 118:28
+type: Verse
+kjv: "Thou art my God, and I will praise thee: thou art my God, I will exalt thee."
+bsb: "You are my God, and I will give You thanks. You are my God, and I will exalt You."
+hebrew: "אֵלִ֣י אַתָּ֣ה וְאוֹדֶ֑ךָּ אֱ֝לֹהַ֗י אֲרוֹמְמֶֽךָּ׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H0410G]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3034]]"
+- "[[H9031]]"
+- "[[H0430G]]"
+- "[[H7311A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:28**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] my God, and I will praise thee: [thou art] my God, I will exalt thee.
 <small><sub>**BSB:**</sub></small>
 You are my God, and I will give You thanks. You are my God, and I will exalt You.
+<small><sub>**Hebrew:**</sub></small>
+[[H0410G\|אֵלִ֣]][[H9020\|י]] [[H0859A\|אַתָּ֣ה]] [[H9002\|וְ]][[H3034\|אוֹדֶ֑]][[H9031\|ךָּ]] [[H0430G\|אֱ֝לֹהַ֗]][[H9020\|י]] [[H7311A\|אֲרוֹמְמֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.27|<< Psalms 118:27]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.29|Psalms 118:29 >>]]</td></tr></table>
 

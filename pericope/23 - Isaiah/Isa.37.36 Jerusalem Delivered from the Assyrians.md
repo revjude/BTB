@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jerusalem Delivered from the Assyrians
+type: Pericope
 pericope: "[[Isa.37.36 Jerusalem Delivered from the Assyrians|Jerusalem Delivered from the Assyrians]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 37
 book/chapter: "[[Isa.37|Isaiah 37]]"
-genre:
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 3
 verses:
 - "[[Isa.37.36]]"
 - "[[Isa.37.37]]"
 - "[[Isa.37.38]]"
 ---
 
-[[Isa.37|Isaiah 37:36 - Isaiah 37:38]]
+<small>[[Isa.37|Isaiah 37:36-38]]</small>
 *Jerusalem Delivered from the Assyrians*
 
 [[Isa.37.36|36]] Then the angel of the LORD went forth, and smote in the camp of the Assyrians a hundred and fourscore and five thousand: and when they arose early in the morning, behold, they \[were\] all dead corpses.

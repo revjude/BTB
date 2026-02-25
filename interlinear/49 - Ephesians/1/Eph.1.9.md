@@ -1,10 +1,55 @@
+---
+title: Ephesians 1:9
+type: Verse
+kjv: "Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:"
+bsb: "And He has made known to us the mystery of His will according to His good pleasure, which He purposed in Christ"
+greek: "γνωρίσας ἡμῖν τὸ μυστήριον τοῦ θελήματος αὐτοῦ κατὰ τὴν εὐδοκίαν αὐτοῦ, ἣν προέθετο ἐν αὐτῷ"
+pericope: "[[Eph.1.3 Spiritual Blessings|Spiritual Blessings]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G1107]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3466]]"
+- "[[G2307]]"
+- "[[G0846]]"
+- "[[G2596]]"
+- "[[G2107]]"
+- "[[G3739]]"
+- "[[G4388]]"
+- "[[G1722]]"
+texts:
+- NKO
+---
+
 **Ephesians 1:9**<big><big>[[Eph.1.3 Spiritual Blessings|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:
 <small><sub>**BSB:**</sub></small>
 And He has made known to us the mystery of His will according to His good pleasure, which He purposed in Christ
-<small><sub>**Literal:**</sub></small>
-having made known to us the mystery of the will of Him according to the pleasure of Him, which He purposed in Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.8|<< Ephesians 1:8]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.10|Ephesians 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1107\|γνωρίσας]]  [[G3165\|ἡμῖν]]  [[G3588\|τὸ]]  [[G3466\|μυστήριον]]  [[G3588\|τοῦ]]  [[G2307\|θελήματος]]  [[G0846\|αὐτοῦ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G2107\|εὐδοκίαν]]  [[G0846\|αὐτοῦ,]]  [[G3739\|ἣν]]  [[G4388\|προέθετο]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.8|<< Ephesians 1:8]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.10|Ephesians 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

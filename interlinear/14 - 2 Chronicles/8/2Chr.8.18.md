@@ -1,8 +1,79 @@
+---
+title: 2 Chronicles 8:18
+type: Verse
+kjv: "And Huram sent him by the hands of his servants ships, and servants that had knowledge of the sea; and they went with the servants of Solomon to Ophir, and took thence four hundred and fifty talents of gold, and brought them to king Solomon."
+bsb: "So Hiram sent him ships captained by his servants, along with crews of experienced sailors. They went with Solomon’s servants to Ophir and acquired from there 450 talents of gold, which they delivered to King Solomon."
+hebrew: "וַיִּֽשְׁלַֽח־ לוֹ֩ חוּרָ֨ם בְּיַד־ עֲבָדָ֜יו אֳנִיּ֗וֹת וַעֲבָדִים֮ י֣וֹדְעֵי יָם֒ וַיָּבֹ֜אוּ עִם־ עַבְדֵ֤י שְׁלֹמֹה֙ אוֹפִ֔ירָה וַיִּקְח֣וּ מִשָּׁ֔ם אַרְבַּע־ מֵא֥וֹת וַחֲמִשִּׁ֖ים כִּכַּ֣ר זָהָ֑ב וַיָּבִ֖יאוּ אֶל־ הַמֶּ֥לֶךְ שְׁלֹמֹֽה׃ פ"
+pericope: "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic OPHIR|OPHIR]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2361G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H0591]]"
+- "[[H9002]]"
+- "[[H3045]]"
+- "[[H3220G]]"
+- "[[H0935G]]"
+- "[[H5973A]]"
+- "[[H8010]]"
+- "[[H0211H]]"
+- "[[H9011]]"
+- "[[H3947G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H2572]]"
+- "[[H3603H]]"
+- "[[H2091]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Chronicles 8:18**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Huram sent him by the hands of his servants ships, and servants that had knowledge of the sea; and they went with the servants of Solomon to Ophir, and took thence four hundred and fifty talents of gold, and brought [them] to king Solomon.
 <small><sub>**BSB:**</sub></small>
 So Hiram sent him ships captained by his servants, along with crews of experienced sailors. They went with Solomon’s servants to Ophir and acquired from there 450 talents of gold, which they delivered to King Solomon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּֽשְׁלַֽח]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֩]] [[H2361G\|חוּרָ֨ם]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H5650\|עֲבָדָ֜י]][[H9023\|ו]] [[H0591\|אֳנִיּ֗וֹת]] [[H9002\|וַ]][[H5650\|עֲבָדִים֮]] [[H3045\|י֣וֹדְעֵי]] [[H3220G\|יָם֒]] [[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H5973A\|עִם]][[H9014\|־]] [[H5650\|עַבְדֵ֤י]] [[H8010\|שְׁלֹמֹה֙]] [[H0211H\|אוֹפִ֔ירָ]][[H9011\|ה]] [[H9001\|וַ]][[H3947G\|יִּקְח֣וּ]] [[H9006\|מִ]][[H8033G\|שָּׁ֔ם]] [[H0702\|אַרְבַּע]][[H9014\|־]] [[H3967\|מֵא֥וֹת]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֖ים]] [[H3603H\|כִּכַּ֣ר]] [[H2091\|זָהָ֑ב]] [[H9001\|וַ]][[H0935P\|יָּבִ֖יאוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic GOLD|GOLD]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic OPHIR|OPHIR]] • [[topic SHIP|SHIP]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.17|<< 2 Chronicles 8:17]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.1|2 Chronicles 9:1 >>]]</td></tr></table>
 
@@ -32,7 +103,7 @@ So Hiram sent him ships captained by his servants, along with crews of experienc
 | and they brought [it]  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0935P\|יָּבִ֖יאוּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Vi.'u<small><sup>[[HVhw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּ֥לֶךְ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Solomon  |**<big>&#8207;[[H8010\|שְׁלֹמֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| she.lo.Moh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.17|<< 2 Chronicles 8:17]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.1|2 Chronicles 9:1 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="ashebrew"><big>אֳונִיּ֗וֹת</big></span>**

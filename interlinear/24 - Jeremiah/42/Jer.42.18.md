@@ -1,8 +1,82 @@
+---
+title: Jeremiah 42:18
+type: Verse
+kjv: "For thus saith the LORD of hosts, the God of Israel; As mine anger and my fury hath been poured forth upon the inhabitants of Jerusalem; so shall my fury be poured forth upon you, when ye shall enter into Egypt: and ye shall be an execration, and an astonishment, and a curse, and a reproach; and ye shall see this place no more."
+bsb: "For this is what the LORD of Hosts, the God of Israel, says: ‘Just as My anger and wrath were poured out on the residents of Jerusalem, so will My wrath be poured out on you if you go to Egypt. You will become an object of cursing and horror, of vilification and disgrace, and you will never see this place again.’"
+hebrew: "כִּי֩ כֹ֨ה אָמַ֜ר יְהוָ֣ה צְבָאוֹת֮ אֱלֹהֵ֣י יִשְׂרָאֵל֒ כַּאֲשֶׁר֩ נִתַּ֨ךְ אַפִּ֜י וַחֲמָתִ֗י עַל־ יֹֽשְׁבֵי֙ יְר֣וּשָׁלִַ֔ם כֵּ֣ן תִּתַּ֤ךְ חֲמָתִי֙ עֲלֵיכֶ֔ם בְּבֹאֲכֶ֖ם מִצְרָ֑יִם וִהְיִיתֶ֞ם לְאָלָ֤ה וּלְשַׁמָּה֙ וְלִקְלָלָ֣ה וּלְחֶרְפָּ֔ה וְלֹֽא־ תִרְא֣וּ ע֔וֹד אֶת־ הַמָּק֖וֹם הַזֶּֽה׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5413]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H2534]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H3651C]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H9046]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0423]]"
+- "[[H8047H]]"
+- "[[H7045]]"
+- "[[H2781]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H5750]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:18**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts, the God of Israel; As mine anger and my fury hath been poured forth upon the inhabitants of Jerusalem; so shall my fury be poured forth upon you, when ye shall enter into Egypt: and ye shall be an execration, and an astonishment, and a curse, and a reproach; and ye shall see this place no more.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts, the God of Israel, says: ‘Just as My anger and wrath were poured out on the residents of Jerusalem, so will My wrath be poured out on you if you go to Egypt. You will become an object of cursing and horror, of vilification and disgrace, and you will never see this place again.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3541\|כֹ֨ה]] [[H0559\|אָמַ֜ר]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָאוֹת֮]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H5413\|נִתַּ֨ךְ]] [[H0639G\|אַפִּ֜]][[H9020\|י]] [[H9002\|וַ]][[H2534\|חֲמָתִ֗]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H3427\|יֹֽשְׁבֵי֙]] [[H3389\|יְר֣וּשָׁלִַ֔ם]] [[H3651C\|כֵּ֣ן]] [[H5413\|תִּתַּ֤ךְ]] [[H2534\|חֲמָתִ]][[H9020\|י֙]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H9003\|בְּ]][[H0935G\|בֹאֲ]][[H9046\|כֶ֖ם]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וִ]][[H1961\|הְיִיתֶ֞ם]] [[H9005\|לְ]][[H0423\|אָלָ֤ה]] [[H9002\|וּ]][[H9005\|לְ]][[H8047H\|שַׁמָּה֙]] [[H9002\|וְ]][[H9005\|לִ]][[H7045\|קְלָלָ֣ה]] [[H9002\|וּ]][[H9005\|לְ]][[H2781\|חֶרְפָּ֔ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|תִרְא֣וּ]] [[H5750\|ע֔וֹד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֖וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.17|<< Jeremiah 42:17]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.19|Jeremiah 42:19 >>]]</td></tr></table>
 

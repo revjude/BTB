@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Officers
+type: Pericope
 pericope: "[[2Sam.8.15 David’s Officers|David’s Officers]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 8
 book/chapter: "[[2Sam.8|2 Samuel 8]]"
-genre:
+chronological_order: 402
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 4
 verses:
 - "[[2Sam.8.15]]"
 - "[[2Sam.8.16]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Sam.8.18]]"
 ---
 
-[[2Sam.8|2 Samuel 8:15 - 2 Samuel 8:18]]
+<small>[[2Sam.8|2 Samuel 8:15-18]]</small>
 *David’s Officers*
 
 [[2Sam.8.15|15]] And David reigned over all Israel; and David executed judgment and justice unto all his people.

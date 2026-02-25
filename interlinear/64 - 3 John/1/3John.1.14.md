@@ -1,10 +1,45 @@
+---
+title: 3 John 1:14
+type: Verse
+kjv: "But I trust I shall shortly see thee, and we shall speak face to face."
+bsb: "Instead, I hope to see you soon and speak with you face to face."
+greek: "ἐλπίζω δὲ εὐθέως σε ἰδεῖν, καὶ στόμα πρὸς στόμα λαλήσομεν."
+pericope: "[[3John.1.13 Conclusion|Conclusion]]"
+original_language: Greek
+testament: New
+book: 3 John
+chapter: 1
+book/chapter: "[[3John.1|3 John 1]]"
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+strongs:
+- "[[G1679]]"
+- "[[G1161]]"
+- "[[G2112]]"
+- "[[G4771]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G4750]]"
+- "[[G4314]]"
+- "[[G2980]]"
+texts:
+- NKO
+---
+
 **3 John 1:14**<big><big>[[3John.1.13 Conclusion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But I trust I shall shortly see thee, and we shall speak face to face. 
 <small><sub>**BSB:**</sub></small>
 Instead, I hope to see you soon and speak with you face to face. 
-<small><sub>**Literal:**</sub></small>
-I hope however soon you to see and mouth to mouth we will speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.13|<< 3 John 1:13]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.15|3 John 1:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1679\|ἐλπίζω]]  [[G1161\|δὲ]]  [[G2112\|εὐθέως]]  [[G4771\|σε]]  [[G1492H\|ἰδεῖν,]]  [[G2532\|καὶ]]  [[G4750\|στόμα]]  [[G4314\|πρὸς]]  [[G4750\|στόμα]]  [[G2980\|λαλήσομεν.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.13|<< 3 John 1:13]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.15|3 John 1:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

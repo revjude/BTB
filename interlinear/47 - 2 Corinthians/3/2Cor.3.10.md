@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 3:10
+type: Verse
+kjv: "For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth."
+bsb: "Indeed, what was once glorious has no glory now in comparison to the glory that surpasses it."
+greek: "καὶ γὰρ οὐ δεδόξασται τὸ δεδοξασμένον ἐν τούτῳ τῷ μέρει εἵνεκεν τῆς ὑπερβαλλούσης δόξης."
+pericope: "[[2Cor.3.7 The Glory of the New Covenant|The Glory of the New Covenant]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 3
+book/chapter: "[[2Cor.3|2 Corinthians 3]]"
+chronological_order: 1076
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G3756]]"
+- "[[G1392]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G3778]]"
+- "[[G3313]]"
+- "[[G1752]]"
+- "[[G5235]]"
+- "[[G1391]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 3:10**<big><big>[[2Cor.3.7 The Glory of the New Covenant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.
 <small><sub>**BSB:**</sub></small>
 Indeed, what was once glorious has no glory now in comparison to the glory that surpasses it.
-<small><sub>**Literal:**</sub></small>
-Even for not has been glorified that glorified in this <the> respect on account of the surpassing [it] glory.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.9|<< 2 Corinthians 3:9]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.11|2 Corinthians 3:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G3756\|οὐ]]  [[G1392\|δεδόξασται]]  [[G3588\|τὸ]]  [[G1392\|δεδοξασμένον]]  [[G1722\|ἐν]]  [[G3778\|τούτῳ]]  [[G3588\|τῷ]]  [[G3313\|μέρει]]  [[G1752\|εἵνεκεν]]  [[G3588\|τῆς]]  [[G5235\|ὑπερβαλλούσης]]  [[G1391\|δόξης.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORY|GLORY]] • [[topic GOSPEL|GOSPEL]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.3.9|<< 2 Corinthians 3:9]]</td><td align="center" style="border:none;">[[2Cor.3|2 Corinthians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.3.11|2 Corinthians 3:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

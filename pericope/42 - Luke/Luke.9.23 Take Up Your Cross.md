@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Take Up Your Cross
+type: Pericope
 pericope: "[[Luke.9.23 Take Up Your Cross|Take Up Your Cross]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 9
 book/chapter: "[[Luke.9|Luke 9]]"
-genre:
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.9.23]]"
 - "[[Luke.9.24]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.9.27]]"
 ---
 
-[[Luke.9|Luke 9:23 - Luke 9:27]]
+<small>[[Luke.9|Luke 9:23-27]]</small>
 *Take Up Your Cross*
 
 [[Luke.9.23|23]] And he said to \[them\] all, If any \[man\] will come after me, let him deny himself, and take up his cross daily, and follow me.

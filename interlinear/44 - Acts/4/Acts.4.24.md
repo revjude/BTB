@@ -1,10 +1,61 @@
+---
+title: Acts 4:24
+type: Verse
+kjv: "And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is:"
+bsb: "When the believers heard this, they lifted up their voices to God with one accord. “Sovereign Lord,” they said, “You made the heaven and the earth and the sea and everything in them."
+greek: "οἱ δὲ ἀκούσαντες ὁμοθυμαδὸν ἦραν φωνὴν πρὸς τὸν θεὸν καὶ εἶπαν· δέσποτα, σὺ ὁ θεὸς ὁ ποιήσας τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θάλασσαν καὶ πάντα τὰ ἐν αὐτοῖς,"
+pericope: "[[Acts.4.23 The Believers’ Prayer|The Believers’ Prayer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0191]]"
+- "[[G3661]]"
+- "[[G0142]]"
+- "[[G5456G]]"
+- "[[G4314]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G1203]]"
+- "[[G4771]]"
+- "[[G4160G]]"
+- "[[G3772]]"
+- "[[G1093G]]"
+- "[[G2281]]"
+- "[[G3956]]"
+- "[[G1722]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+---
+
 **Acts 4:24**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou [art] God, which hast made heaven, and earth, and the sea, and all that in them is:
 <small><sub>**BSB:**</sub></small>
 When the believers heard this, they lifted up their voices to God with one accord. “Sovereign Lord,” they said, “You made the heaven and the earth and the sea and everything in them.
-<small><sub>**Literal:**</sub></small>
-<the> And having heard with one accord they lifted up [their] voice to <the> God and said; Sovereign Lord, You yourself <the> God who made the heaven and the earth and the sea and all that [is] in them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.23|<< Acts 4:23]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.25|Acts 4:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0191\|ἀκούσαντες]]  [[G3661\|ὁμοθυμαδὸν]]  [[G0142\|ἦραν]]  [[G5456G\|φωνὴν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν·]]  [[G1203\|δέσποτα,]]  [[G4771\|σὺ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G4160G\|ποιήσας]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic PRAISE|PRAISE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.23|<< Acts 4:23]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.25|Acts 4:25 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 4:24** is...
 > $\quad$ referencing: [[LXX.Exod.20.11|Exod 20:11]] ☩ [[LXX.2Chr.2.12|2Chr 2:12]] ☩ [[LXX.Ps.146.6|Ps 146:6]] ☩ [[LXX.2Kgs.19.15|2Kgs 19:15]] ☩ [[LXX.Isa.37.16|Isa 37:16]]

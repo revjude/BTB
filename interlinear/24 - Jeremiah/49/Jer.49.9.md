@@ -1,8 +1,59 @@
+---
+title: Jeremiah 49:9
+type: Verse
+kjv: "If grapegatherers come to thee, would they not leave some gleaning grapes? if thieves by night, they will destroy till they have enough."
+bsb: "If grape gatherers came to you, would they not leave some gleanings? Were thieves to come in the night, would they not steal only what they wanted?"
+hebrew: "אִם־ בֹּֽצְרִים֙ בָּ֣אוּ לָ֔ךְ לֹ֥א יַשְׁאִ֖רוּ עֽוֹלֵל֑וֹת אִם־ גַּנָּבִ֥ים בַּלַּ֖יְלָה הִשְׁחִ֥יתוּ דַיָּֽם׃"
+pericope: "[[Jer.49.7 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 49
+book/chapter: "[[Jer.49|Jeremiah 49]]"
+chronological_order: 772
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GLEANING|GLEANING]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1219]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H3808]]"
+- "[[H7604]]"
+- "[[H5955]]"
+- "[[H1590]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H7843]]"
+- "[[H1767]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 49:9**<big><big>[[Jer.49.7 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If grapegatherers come to thee, would they not leave [some] gleaning grapes? if thieves by night, they will destroy till they have enough.
 <small><sub>**BSB:**</sub></small>
 If grape gatherers came to you, would they not leave some gleanings? Were thieves to come in the night, would they not steal only what they wanted?
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H1219\|בֹּֽצְרִים֙]] [[H0935G\|בָּ֣אוּ]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H3808\|לֹ֥א]] [[H7604\|יַשְׁאִ֖רוּ]] [[H5955\|עֽוֹלֵל֑וֹת]] [[H0518A\|אִם]][[H9014\|־]] [[H1590\|גַּנָּבִ֥ים]] [[H9003\|בַּ]][[H3915\|לַּ֖יְלָה]] [[H7843\|הִשְׁחִ֥יתוּ]] [[H1767\|דַיָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic GLEANING|GLEANING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.49.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.49.8|<< Jeremiah 49:8]]</td><td align="center" style="border:none;">[[Jer.49|Jeremiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.49.10|Jeremiah 49:10 >>]]</td></tr></table>
 

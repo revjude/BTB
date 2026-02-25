@@ -1,10 +1,57 @@
+---
+title: 2 Peter 2:6
+type: Verse
+kjv: "And turning the cities of Sodom and Gomorrha into ashes condemned them with an overthrow, making them an ensample unto those that after should live ungodly;"
+bsb: "if He condemned the cities of Sodom and Gomorrah to destruction, reducing them to ashes as an example of what is coming on the ungodly;"
+greek: "καὶ πόλεις Σοδόμων καὶ Γομόρρας τεφρώσας καταστροφῇ κατέκρινεν ὑπόδειγμα μελλόντων ἀσεβέσιν τεθεικώς,"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic GOMORRAH|GOMORRAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G4172]]"
+- "[[G4670]]"
+- "[[G1116]]"
+- "[[G5077]]"
+- "[[G2692]]"
+- "[[G2632]]"
+- "[[G5262]]"
+- "[[G3195]]"
+- "[[G0765]]"
+- "[[G5087]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Peter 2:6**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And turning the cities of Sodom and Gomorrha into ashes condemned [them] with an overthrow, making [them] an ensample unto those that after should live ungodly;
 <small><sub>**BSB:**</sub></small>
 if He condemned the cities of Sodom and Gomorrah to destruction, reducing them to ashes as an example of what is coming on the ungodly;
-<small><sub>**Literal:**</sub></small>
-and [the] cities of Sodom and Gomorrah having reduced to ashes to destruction He condemned [them] an example of what is coming on ungodly having set<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.5|<< 2 Peter 2:5]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.7|2 Peter 2:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4172\|πόλεις]]  [[G4670\|Σοδόμων]]  [[G2532\|καὶ]]  [[G1116\|Γομόρρας]]  [[G5077\|τεφρώσας]]  [[G2692\|καταστροφῇ]]  [[G2632\|κατέκρινεν]]  [[G5262\|ὑπόδειγμα]]  [[G3195\|μελλόντων]]  [[G0765\|ἀσεβέσιν]]  [[G5087\|τεθεικώς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOCTRINES|DOCTRINES]] • [[topic GOMORRAH|GOMORRAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SODOM|SODOM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.5|<< 2 Peter 2:5]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.7|2 Peter 2:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Peter 2:6** is...
 > $\quad$ alluding to: [[LXX.Gen.19.29|Gen 19:29]]

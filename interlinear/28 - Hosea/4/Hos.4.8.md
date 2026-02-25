@@ -1,8 +1,55 @@
+---
+title: Hosea 4:8
+type: Verse
+kjv: "They eat up the sin of my people, and they set their heart on their iniquity."
+bsb: "They feed on the sins of My people and set their hearts on iniquity."
+hebrew: "חַטַּ֥את עַמִּ֖י יֹאכֵ֑לוּ וְאֶל־ עֲוֹנָ֖ם יִשְׂא֥וּ נַפְשֽׁוֹ׃"
+pericope: "[[Hos.4.1 God’s Case against His People|God’s Case against His People]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 4
+book/chapter: "[[Hos.4|Hosea 4]]"
+chronological_order: 645
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2403B]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5771G]]"
+- "[[H9028]]"
+- "[[H5375O]]"
+- "[[H5315L]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 4:8**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They eat up the sin of my people, and they set their heart on their iniquity.
 <small><sub>**BSB:**</sub></small>
 They feed on the sins of My people and set their hearts on iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H2403B\|חַטַּ֥את]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H0398\|יֹאכֵ֑לוּ]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H5771G\|עֲוֹנָ֖]][[H9028\|ם]] [[H5375O\|יִשְׂא֥וּ]] [[H5315L\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.7|<< Hosea 4:7]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.9|Hosea 4:9 >>]]</td></tr></table>
 

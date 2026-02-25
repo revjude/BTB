@@ -1,8 +1,78 @@
+---
+title: Ezekiel 22:20
+type: Verse
+kjv: "As they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt it; so will I gather you in mine anger and in my fury, and I will leave you there, and melt you."
+bsb: "Just as one gathers silver, copper, iron, lead, and tin into the furnace to melt with a fiery blast, so I will gather you in My anger and wrath, leave you there, and melt you."
+hebrew: "קְבֻ֣צַת כֶּ֡סֶף וּ֠נְחֹשֶׁת וּבַרְזֶ֨ל וְעוֹפֶ֤רֶת וּבְדִיל֙ אֶל־ תּ֣וֹךְ כּ֔וּר לָפַֽחַת־ עָלָ֥יו אֵ֖שׁ לְהַנְתִּ֑יךְ כֵּ֤ן אֶקְבֹּץ֙ בְּאַפִּ֣י וּבַחֲמָתִ֔י וְהִנַּחְתִּ֥י וְהִתַּכְתִּ֖י אֶתְכֶֽם׃"
+pericope: "[[Ezek.22.17 The Refining Furnace|The Refining Furnace]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic IRON|IRON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEAD|LEAD]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TIN|TIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6910]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H5178A]]"
+- "[[H1270]]"
+- "[[H5777]]"
+- "[[H0913]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8432]]"
+- "[[H3564]]"
+- "[[H9005]]"
+- "[[H5301]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H0784]]"
+- "[[H5413]]"
+- "[[H3651C]]"
+- "[[H6908]]"
+- "[[H9003]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H2534]]"
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:20**<big><big>[[Ezek.22.17 The Refining Furnace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] they gather silver, and brass, and iron, and lead, and tin, into the midst of the furnace, to blow the fire upon it, to melt [it]; so will I gather [you] in mine anger and in my fury, and I will leave [you there], and melt you.
 <small><sub>**BSB:**</sub></small>
 Just as one gathers silver, copper, iron, lead, and tin into the furnace to melt with a fiery blast, so I will gather you in My anger and wrath, leave you there, and melt you.
+<small><sub>**Hebrew:**</sub></small>
+[[H6910\|קְבֻ֣צַת]] [[H3701G\|כֶּ֡סֶף]] [[H9002\|וּ֠]][[H5178A\|נְחֹשֶׁת]] [[H9002\|וּ]][[H1270\|בַרְזֶ֨ל]] [[H9002\|וְ]][[H5777\|עוֹפֶ֤רֶת]] [[H9002\|וּ]][[H0913\|בְדִיל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֣וֹךְ]] [[H3564\|כּ֔וּר]] [[H9005\|לָ]][[H5301\|פַֽחַת]][[H9014\|־]] [[H5921A\|עָלָ֥י]][[H9033\|ו]] [[H0784\|אֵ֖שׁ]] [[H9005\|לְ]][[H5413\|הַנְתִּ֑יךְ]] [[H3651C\|כֵּ֤ן]] [[H6908\|אֶקְבֹּץ֙]] [[H9003\|בְּ]][[H0639G\|אַפִּ֣]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בַ]][[H2534\|חֲמָתִ֔]][[H9020\|י]] [[H9001\|וְ]][[H5117\|הִנַּחְתִּ֥י]] [[H9001\|וְ]][[H5413\|הִתַּכְתִּ֖י]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic FURNACE|FURNACE]] • [[topic IRON|IRON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEAD|LEAD]] • [[topic SILVER|SILVER]] • [[topic TIN|TIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.19|<< Ezekiel 22:19]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.21|Ezekiel 22:21 >>]]</td></tr></table>
 

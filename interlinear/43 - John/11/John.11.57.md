@@ -1,10 +1,59 @@
+---
+title: John 11:57
+type: Verse
+kjv: "Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him."
+bsb: "But the chief priests and Pharisees had given orders that anyone who knew where He was must report it, so that they could arrest Him."
+greek: "δεδώκεισαν δὲ καὶ οἱ ἀρχιερεῖς καὶ οἱ Φαρισαῖοι ἐντολὰς ἵνα ἐάν τις γνῷ ποῦ ἐστιν μηνύσῃ, ὅπως πιάσωσιν αὐτόν.¶"
+pericope: "[[John.11.45 The Plot to Kill Jesus|The Plot to Kill Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G1325]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0749]]"
+- "[[G5330]]"
+- "[[G1785]]"
+- "[[G2443]]"
+- "[[G1437]]"
+- "[[G5100]]"
+- "[[G1097]]"
+- "[[G4226]]"
+- "[[G1510]]"
+- "[[G3377]]"
+- "[[G3704]]"
+- "[[G4084]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **John 11:57**<big><big>[[John.11.45 The Plot to Kill Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew [it], that they might take him.
 <small><sub>**BSB:**</sub></small>
 But the chief priests and Pharisees had given orders that anyone who knew where He was must report it, so that they could arrest Him.
-<small><sub>**Literal:**</sub></small>
-Had given now also the chief priests and the Pharisees commands that if anyone shall know where He is he shall show [it], so that they may seize Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.56|<< John 11:56]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.1|John 12:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1325\|δεδώκεισαν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5330\|Φαρισαῖοι]]  [[G1785\|ἐντολὰς]]  [[G2443\|ἵνα]]  [[G1437\|ἐάν]]  [[G5100\|τις]]  [[G1097\|γνῷ]]  [[G4226\|ποῦ]]  [[G1510\|ἐστιν]]  [[G3377\|μηνύσῃ,]]  [[G3704\|ὅπως]]  [[G4084\|πιάσωσιν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.56|<< John 11:56]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.1|John 12:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

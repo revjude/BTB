@@ -1,8 +1,67 @@
+---
+title: Joshua 2:5
+type: Verse
+kjv: "And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them."
+bsb: "At dusk, when the gate was about to close, the men went out, and I do not know which way they went. Pursue them quickly, and you may catch them!”"
+hebrew: "וַיְהִ֨י הַשַּׁ֜עַר לִסְגּ֗וֹר בַּחֹ֙שֶׁךְ֙ וְהָאֲנָשִׁ֣ים יָצָ֔אוּ לֹ֣א יָדַ֔עְתִּי אָ֥נָה הָלְכ֖וּ הָֽאֲנָשִׁ֑ים רִדְפ֥וּ מַהֵ֛ר אַחֲרֵיהֶ֖ם כִּ֥י תַשִּׂיגֽוּם׃"
+pericope: "[[Josh.2.1 Rahab Welcomes the Spies|Rahab Welcomes the Spies]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GATES|GATES]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H9005]]"
+- "[[H5462]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H3318G]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H0575]]"
+- "[[H1980G]]"
+- "[[H7291]]"
+- "[[H4118B]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H5381]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:5**<big><big>[[Josh.2.1 Rahab Welcomes the Spies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass [about the time] of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for ye shall overtake them.
 <small><sub>**BSB:**</sub></small>
 At dusk, when the gate was about to close, the men went out, and I do not know which way they went. Pursue them quickly, and you may catch them!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H9009\|הַ]][[H8179G\|שַּׁ֜עַר]] [[H9005\|לִ]][[H5462\|סְגּ֗וֹר]] [[H9003\|בַּ]][[H2822\|חֹ֙שֶׁךְ֙]] [[H9002\|וְ]][[H9009\|הָ]][[H0582\|אֲנָשִׁ֣ים]] [[H3318G\|יָצָ֔אוּ]] [[H3808\|לֹ֣א]] [[H3045\|יָדַ֔עְתִּי]] [[H0575\|אָ֥נָה]] [[H1980G\|הָלְכ֖וּ]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֑ים]] [[H7291\|רִדְפ֥וּ]] [[H4118B\|מַהֵ֛ר]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֖ם]] [[H3588A\|כִּ֥י]] [[H5381\|תַשִּׂיגֽוּ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GATES|GATES]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.4|<< Joshua 2:4]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.6|Joshua 2:6 >>]]</td></tr></table>
 

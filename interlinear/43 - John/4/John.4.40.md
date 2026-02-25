@@ -1,10 +1,58 @@
+---
+title: John 4:40
+type: Verse
+kjv: "So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days."
+bsb: "So when the Samaritans came to Him, they asked Him to stay with them, and He stayed two days."
+greek: "ὡς οὖν ἦλθον πρὸς αὐτὸν οἱ Σαμαρῖται, ἠρώτων αὐτὸν μεῖναι παρ᾽ αὐτοῖς. καὶ ἔμεινεν ἐκεῖ δύο ἡμέρας."
+pericope: "[[John.4.39 Many Samaritans Believe|Many Samaritans Believe]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 4
+book/chapter: "[[John.4|John 4]]"
+chronological_order: 942
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[G5613]]"
+- "[[G3767]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G4541]]"
+- "[[G2065]]"
+- "[[G3306]]"
+- "[[G3844]]"
+- "[[G2532]]"
+- "[[G1563]]"
+- "[[G1417]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **John 4:40**<big><big>[[John.4.39 Many Samaritans Believe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.
 <small><sub>**BSB:**</sub></small>
 So when the Samaritans came to Him, they asked Him to stay with them, and He stayed two days.
-<small><sub>**Literal:**</sub></small>
-When therefore came to Him the Samaritans, they were asking Him to abide with them. and He stayed there two days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.39|<< John 4:39]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.41|John 4:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G3767\|οὖν]]  [[G2064\|ἦλθον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|οἱ]]  [[G4541\|Σαμαρῖται,]]  [[G2065\|ἠρώτων]]  [[G0846\|αὐτὸν]]  [[G3306\|μεῖναι]]  [[G3844\|παρ᾽]]  [[G0846\|αὐτοῖς.]]  [[G2532\|καὶ]]  [[G3306\|ἔμεινεν]]  [[G1563\|ἐκεῖ]]  [[G1417\|δύο]]  [[G2250\|ἡμέρας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SAMARIA|SAMARIA]] • [[topic SHECHEM|SHECHEM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.4.39|<< John 4:39]]</td><td align="center" style="border:none;">[[John.4|John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.4.41|John 4:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

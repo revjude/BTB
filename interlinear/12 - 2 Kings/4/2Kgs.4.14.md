@@ -1,8 +1,57 @@
+---
+title: 2 Kings 4:14
+type: Verse
+kjv: "And he said, What then is to be done for her? And Gehazi answered, Verily she hath no child, and her husband is old."
+bsb: "So he asked, “Then what should be done for her?” “Well, she has no son,” Gehazi replied, “and her husband is old.”"
+hebrew: "וַיֹּ֕אמֶר וּמֶ֖ה לַעֲשׂ֣וֹת לָ֑הּ וַיֹּ֣אמֶר גֵּיחֲזִ֗י אֲבָ֛ל בֵּ֥ן אֵֽין־ לָ֖הּ וְאִישָׁ֥הּ זָקֵֽן׃"
+pericope: "[[2Kgs.4.8 The Shunammite Woman|The Shunammite Woman]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9034]]"
+- "[[H1522]]"
+- "[[H0061]]"
+- "[[H1121A]]"
+- "[[H0369]]"
+- "[[H9014]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H2204]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:14**<big><big>[[2Kgs.4.8 The Shunammite Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, What then [is] to be done for her? And Gehazi answered, Verily she hath no child, and her husband is old.
 <small><sub>**BSB:**</sub></small>
 So he asked, “Then what should be done for her?” “Well, she has no son,” Gehazi replied, “and her husband is old.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H9002\|וּ]][[H4100\|מֶ֖ה]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H9005\|לָ֑]][[H9034\|הּ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1522\|גֵּיחֲזִ֗י]] [[H0061\|אֲבָ֛ל]] [[H1121A\|בֵּ֥ן]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|לָ֖]][[H9034\|הּ]] [[H9002\|וְ]][[H0376H\|אִישָׁ֥]][[H9024\|הּ]] [[H2204\|זָקֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.13|<< 2 Kings 4:13]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.15|2 Kings 4:15 >>]]</td></tr></table>
 

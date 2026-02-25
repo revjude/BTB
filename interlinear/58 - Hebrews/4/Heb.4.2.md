@@ -1,10 +1,64 @@
+---
+title: Hebrews 4:2
+type: Verse
+kjv: "For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it."
+bsb: "For we also received the good news just as they did; but the message they heard was of no value to them, since they did not share the faith of those who comprehended it."
+greek: "καὶ γάρ ἐσμεν εὐηγγελισμένοι καθάπερ κἀκεῖνοι· κἀκεῖνοι· ἀλλ᾽ οὐκ ὠφέλησεν ὁ λόγος τῆς ἀκοῆς ἐκείνους μὴ συγκεκερασμένους τῇ πίστει τοῖς ἀκούσασιν."
+pericope: "[[Heb.4.1 The Sabbath Rest|The Sabbath Rest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REST|REST]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2097]]"
+- "[[G2509]]"
+- "[[G1565]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G5623]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G0189]]"
+- "[[G3361]]"
+- "[[G4786]]"
+- "[[G4102G]]"
+- "[[G0191]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 4:2**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard [it].
 <small><sub>**BSB:**</sub></small>
 For we also received the good news just as they did; but the message they heard was of no value to them, since they did not share the faith of those who comprehended it.
-<small><sub>**Literal:**</sub></small>
-And for we are  evangelised just as also they [were]; but not did profit the message <the> of [their] hearing them not united with the faith of those having heard.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.1|<< Hebrews 4:1]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.3|Hebrews 4:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1063\|γάρ]]  [[G1510\|ἐσμεν]]  [[G2097\|εὐηγγελισμένοι]]  [[G2509\|καθάπερ]]  [[G1565\|κἀκεῖνοι·]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐκ]]  [[G5623\|ὠφέλησεν]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3588\|τῆς]]  [[G0189\|ἀκοῆς]]  [[G1565\|ἐκείνους]]  [[G3361\|μὴ]]  [[G4786\|συγκεκερασμένους]]  [[G3588\|τῇ]]  [[G4102G\|πίστει]]  [[G3588\|τοῖς]]  [[G0191\|ἀκούσασιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic REGENERATION|REGENERATION]] • [[topic REST|REST]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.1|<< Hebrews 4:1]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.3|Hebrews 4:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,70 @@
+---
+title: Exodus 37:9
+type: Verse
+kjv: "And the cherubims spread out their wings on high, and covered with their wings over the mercy seat, with their faces one to another; even to the mercy seatward were the faces of the cherubims."
+bsb: "And the cherubim had wings that spread upward, overshadowing the mercy seat. The cherubim faced each other, looking toward the mercy seat."
+hebrew: "וַיִּהְי֣וּ הַכְּרֻבִים֩ פֹּרְשֵׂ֨י כְנָפַ֜יִם לְמַ֗עְלָה סֹֽכְכִ֤ים בְּכַנְפֵיהֶם֙ עַל־ הַכַּפֹּ֔רֶת וּפְנֵיהֶ֖ם אִ֣ישׁ אֶל־ אָחִ֑יו אֶל־ הַכַּפֹּ֔רֶת הָי֖וּ פְּנֵ֥י הַכְּרֻבִֽים׃ פ"
+pericope: "[[Exod.37.6 The Mercy Seat|The Mercy Seat]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H6566]]"
+- "[[H3671]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H5526B]]"
+- "[[H9003]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3727]]"
+- "[[H9002]]"
+- "[[H6440H]]"
+- "[[H0376I]]"
+- "[[H0413]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 37:9**<big><big>[[Exod.37.6 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cherubims spread out [their] wings on high, [and] covered with their wings over the mercy seat, with their faces one to another; [even] to the mercy seatward were the faces of the cherubims.
 <small><sub>**BSB:**</sub></small>
 And the cherubim had wings that spread upward, overshadowing the mercy seat. The cherubim faced each other, looking toward the mercy seat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֣וּ]] [[H9009\|הַ]][[H3742\|כְּרֻבִים֩]] [[H6566\|פֹּרְשֵׂ֨י]] [[H3671\|כְנָפַ֜יִם]] [[H9005\|לְ]][[H4605\|מַ֗עְלָ]][[H9011\|ה]] [[H5526B\|סֹֽכְכִ֤ים]] [[H9003\|בְּ]][[H3671\|כַנְפֵי]][[H9028\|הֶם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3727\|כַּפֹּ֔רֶת]] [[H9002\|וּ]][[H6440H\|פְנֵי]][[H9028\|הֶ֖ם]] [[H0376I\|אִ֣ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H0251I\|אָחִ֑י]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3727\|כַּפֹּ֔רֶת]] [[H1961\|הָי֖וּ]] [[H6440H\|פְּנֵ֥י]] [[H9009\|הַ]][[H3742\|כְּרֻבִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic GOLD|GOLD]] • [[topic MERCY-SEAT|MERCY-SEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.8|<< Exodus 37:8]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.10|Exodus 37:10 >>]]</td></tr></table>
 
@@ -25,7 +87,7 @@ And the cherubim had wings that spread upward, overshadowing the mercy seat. The
 | the atonement cover  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3727\|כַּפֹּ֔רֶת]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ka.Po.ret<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were  |**<big>&#8207;[[H1961\|הָי֖וּ]]&#8207; </big>**| ha.Yu<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] faces of  |**<big>&#8207;[[H6440H\|פְּנֵ֥י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the cherubim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּרֻבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the cherubim  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3742\|כְּרֻבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ke.ru.Vim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.8|<< Exodus 37:8]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.10|Exodus 37:10 >>]]</td></tr></table>
 
 

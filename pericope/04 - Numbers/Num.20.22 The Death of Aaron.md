@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Aaron
+type: Pericope
 pericope: "[[Num.20.22 The Death of Aaron|The Death of Aaron]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 20
 book/chapter: "[[Num.20|Numbers 20]]"
-genre:
+chronological_order: 180
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 8
 verses:
 - "[[Num.20.22]]"
 - "[[Num.20.23]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Num.20.29]]"
 ---
 
-[[Num.20|Numbers 20:22 - Numbers 20:29]]
+<small>[[Num.20|Numbers 20:22-29]]</small>
 *The Death of Aaron*
 
 [[Num.20.22|22]] And the children of Israel, \[even\] the whole congregation, journeyed from Kadesh, and came unto mount Hor.

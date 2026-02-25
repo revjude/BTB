@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 35:9
+type: Verse
+kjv: "Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand small cattle, and five hundred oxen."
+bsb: "Additionally, Conaniah and his brothers Shemaiah and Nethanel, as well as Hashabiah, Jeiel, and Jozabad, officers of the Levites, contributed to the Levites 5,000 Passover offerings and 500 bulls."
+hebrew: "וְ֠כָֽנַנְיָהוּ וּשְׁמַֽעְיָ֨הוּ וּנְתַנְאֵ֜ל אֶחָ֗יו וַחֲשַׁבְיָ֧הוּ וִיעִיאֵ֛ל וְיוֹזָבָ֖ד שָׂרֵ֣י הַלְוִיִּ֑ם הֵרִ֨ימוּ לַלְוִיִּ֤ם לַפְּסָחִים֙ חֲמֵ֣שֶׁת אֲלָפִ֔ים וּבָקָ֖ר חֲמֵ֥שׁ מֵאֽוֹת׃"
+pericope: "[[2Chr.35.1 Josiah Restores the Passover|Josiah Restores the Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 35
+book/chapter: "[[2Chr.35|2 Chronicles 35]]"
+chronological_order: 714
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CONONIAH|CONONIAH]]"
+- "[[topic HASHABIAH|HASHABIAH]]"
+- "[[topic JEIEL|JEIEL]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic JOZABAD|JOZABAD]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic NETHANEEL|NETHANEEL]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3562]]"
+- "[[H8098M]]"
+- "[[H5417M]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H2811L]]"
+- "[[H3273M]]"
+- "[[H3107L]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H7311A]]"
+- "[[H9005]]"
+- "[[H6453]]"
+- "[[H2568]]"
+- "[[H0505G]]"
+- "[[H1241]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **2 Chronicles 35:9**<big><big>[[2Chr.35.1 Josiah Restores the Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand [small cattle], and five hundred oxen.
 <small><sub>**BSB:**</sub></small>
 Additionally, Conaniah and his brothers Shemaiah and Nethanel, as well as Hashabiah, Jeiel, and Jozabad, officers of the Levites, contributed to the Levites 5,000 Passover offerings and 500 bulls.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H3562\|כָֽנַנְיָהוּ]] [[H9002\|וּ]][[H8098M\|שְׁמַֽעְיָ֨הוּ]] [[H9002\|וּ]][[H5417M\|נְתַנְאֵ֜ל]] [[H0251G\|אֶחָ֗י]][[H9023\|ו]] [[H9002\|וַ]][[H2811L\|חֲשַׁבְיָ֧הוּ]] [[H9002\|וִ]][[H3273M\|יעִיאֵ֛ל]] [[H9002\|וְ]][[H3107L\|יוֹזָבָ֖ד]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H7311A\|הֵרִ֨ימוּ]] [[H9005\|לַ]][[H3881\|לְוִיִּ֤ם]] [[H9005\|לַ]][[H6453\|פְּסָחִים֙]] [[H2568\|חֲמֵ֣שֶׁת]] [[H0505G\|אֲלָפִ֔ים]] [[H9002\|וּ]][[H1241\|בָקָ֖ר]] [[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONONIAH|CONONIAH]] • [[topic HASHABIAH|HASHABIAH]] • [[topic JEIEL|JEIEL]] • [[topic JOSIAH|JOSIAH]] • [[topic JOZABAD|JOZABAD]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic NETHANEEL|NETHANEEL]] • [[topic PASSOVER|PASSOVER]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.35.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.35.8|<< 2 Chronicles 35:8]]</td><td align="center" style="border:none;">[[2Chr.35|2 Chronicles 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.35.10|2 Chronicles 35:10 >>]]</td></tr></table>
 

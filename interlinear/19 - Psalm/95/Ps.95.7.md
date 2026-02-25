@@ -1,8 +1,66 @@
+---
+title: Psalm 95:7
+type: Verse
+kjv: "For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,"
+bsb: "For He is our God, and we are the people of His pasture, the sheep under His care. Today, if you hear His voice,"
+hebrew: "כִּ֘י ה֤וּא אֱלֹהֵ֗ינוּ וַאֲנַ֤חְנוּ עַ֣ם מַ֭רְעִיתוֹ וְצֹ֣אן יָד֑וֹ הַ֝יּ֗וֹם אִֽם־ בְּקֹל֥וֹ תִשְׁמָֽעוּ׃"
+pericope: "[[Ps.95.1 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 95
+book/chapter: "[[Ps.95|Psalm 95]]"
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H0587]]"
+- "[[H5971A]]"
+- "[[H4830]]"
+- "[[H9023]]"
+- "[[H6629G]]"
+- "[[H3027G]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 95:7**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he [is] our God; and we [are] the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,
 <small><sub>**BSB:**</sub></small>
 For He is our God, and we are the people of His pasture, the sheep under His care. Today, if you hear His voice,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֘י]] [[H1931\|ה֤וּא]] [[H0430G\|אֱלֹהֵ֗י]][[H9025\|נוּ]] [[H9002\|וַ]][[H0587\|אֲנַ֤חְנוּ]] [[H5971A\|עַ֣ם]] [[H4830\|מַ֭רְעִית]][[H9023\|וֹ]] [[H9002\|וְ]][[H6629G\|צֹ֣אן]] [[H3027G\|יָד֑]][[H9023\|וֹ]] [[H9009\|הַ֝]][[H3117G\|יּ֗וֹם]] [[H0518A\|אִֽם]][[H9014\|־]] [[H9003\|בְּ]][[H6963A\|קֹל֥]][[H9023\|וֹ]] [[H8085G\|תִשְׁמָֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.6|<< Psalms 95:6]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.8|Psalms 95:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

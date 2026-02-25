@@ -1,8 +1,66 @@
+---
+title: Genesis 27:5
+type: Verse
+kjv: "And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt for venison, and to bring it."
+bsb: "Now Rebekah was listening to what Isaac told his son Esau. So when Esau went into the field to hunt game and bring it back,"
+hebrew: "וְרִבְקָ֣ה שֹׁמַ֔עַת בְּדַבֵּ֣ר יִצְחָ֔ק אֶל־ עֵשָׂ֖ו בְּנ֑וֹ וַיֵּ֤לֶךְ עֵשָׂו֙ הַשָּׂדֶ֔ה לָצ֥וּד צַ֖יִד לְהָבִֽיא׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic HUNTING|HUNTING]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9002]]"
+- "[[H7259]]"
+- "[[H8085G]]"
+- "[[H9003]]"
+- "[[H1696G]]"
+- "[[H3327]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6215G]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9005]]"
+- "[[H6679A]]"
+- "[[H6718A]]"
+- "[[H0935P]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:5**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Rebekah heard when Isaac spake to Esau his son. And Esau went to the field to hunt [for] venison, [and] to bring [it].
 <small><sub>**BSB:**</sub></small>
 Now Rebekah was listening to what Isaac told his son Esau. So when Esau went into the field to hunt game and bring it back,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7259\|רִבְקָ֣ה]] [[H8085G\|שֹׁמַ֔עַת]] [[H9003\|בְּ]][[H1696G\|דַבֵּ֣ר]] [[H3327\|יִצְחָ֔ק]] [[H0413\|אֶל]][[H9014\|־]] [[H6215G\|עֵשָׂ֖ו]] [[H1121A\|בְּנ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H1980G\|יֵּ֤לֶךְ]] [[H6215G\|עֵשָׂו֙]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֔ה]] [[H9005\|לָ]][[H6679A\|צ֥וּד]] [[H6718A\|צַ֖יִד]] [[H9005\|לְ]][[H0935P\|הָבִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAMILY|FAMILY]] • [[topic HUNTING|HUNTING]] • [[topic JACOB|JACOB]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.4|<< Genesis 27:4]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.6|Genesis 27:6 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 17:5
+type: Verse
+kjv: "And he had an helmet of brass upon his head, and he was armed with a coat of mail; and the weight of the coat was five thousand shekels of brass."
+bsb: "and he had a bronze helmet on his head. He wore a bronze coat of mail weighing five thousand shekels,"
+hebrew: "וְכ֤וֹבַע נְחֹ֙שֶׁת֙ עַל־ רֹאשׁ֔וֹ וְשִׁרְי֥וֹן קַשְׂקַשִּׂ֖ים ה֣וּא לָב֑וּשׁ וּמִשְׁקַל֙ הַשִּׁרְי֔וֹן חֲמֵשֶׁת־ אֲלָפִ֥ים שְׁקָלִ֖ים נְחֹֽשֶֽׁת׃"
+pericope: "[[1Sam.17.1 Goliath’s Challenge|Goliath’s Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BRASS|BRASS]]"
+- "[[topic COAT OF MAIL|COAT OF MAIL]]"
+- "[[topic HELMET|HELMET]]"
+- "[[topic MAIL|MAIL]]"
+strongs:
+- "[[H9002]]"
+- "[[H3553]]"
+- "[[H5178A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H8302B]]"
+- "[[H7193]]"
+- "[[H1931]]"
+- "[[H3847]]"
+- "[[H4948]]"
+- "[[H9009]]"
+- "[[H2568]]"
+- "[[H0505G]]"
+- "[[H8255]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:5**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [he had] an helmet of brass upon his head, and he [was] armed with a coat of mail; and the weight of the coat [was] five thousand shekels of brass.
 <small><sub>**BSB:**</sub></small>
 and he had a bronze helmet on his head. He wore a bronze coat of mail weighing five thousand shekels,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3553\|כ֤וֹבַע]] [[H5178A\|נְחֹ֙שֶׁת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H8302B\|שִׁרְי֥וֹן]] [[H7193\|קַשְׂקַשִּׂ֖ים]] [[H1931\|ה֣וּא]] [[H3847\|לָב֑וּשׁ]] [[H9002\|וּ]][[H4948\|מִשְׁקַל֙]] [[H9009\|הַ]][[H8302B\|שִּׁרְי֔וֹן]] [[H2568\|חֲמֵשֶׁת]][[H9014\|־]] [[H0505G\|אֲלָפִ֥ים]] [[H8255\|שְׁקָלִ֖ים]] [[H5178A\|נְחֹֽשֶֽׁת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRASS|BRASS]] • [[topic COAT OF MAIL|COAT OF MAIL]] • [[topic HELMET|HELMET]] • [[topic MAIL|MAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.4|<< 1 Samuel 17:4]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.6|1 Samuel 17:6 >>]]</td></tr></table>
 

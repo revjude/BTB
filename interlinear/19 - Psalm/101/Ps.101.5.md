@@ -1,8 +1,66 @@
+---
+title: Psalm 101:5
+type: Verse
+kjv: "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer."
+bsb: "Whoever slanders his neighbor in secret, I will put to silence; the one with haughty eyes and a proud heart, I will not endure."
+hebrew: "מְלָשְׁנִ֬י בַסֵּ֨תֶר׀ רֵעֵהוּ֮ אוֹת֪וֹ אַ֫צְמִ֥ית גְּֽבַהּ־ עֵ֭ינַיִם וּרְחַ֣ב לֵבָ֑ב אֹ֝ת֗וֹ לֹ֣א אוּכָֽל׃"
+pericope: "[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|I Will Set No Worthless Thing before My Eyes]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 101
+book/chapter: "[[Ps.101|Psalm 101]]"
+chronological_order: 380
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HEART|HEART]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H3960]]"
+- "[[H9003]]"
+- "[[H5643A]]"
+- "[[H9015]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H6789]]"
+- "[[H1364]]"
+- "[[H9014]]"
+- "[[H5869H]]"
+- "[[H9002]]"
+- "[[H7342H]]"
+- "[[H3824]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Psalms 101:5**<big><big>[[Ps.101.1 I Will Set No Worthless Thing before My Eyes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.
 <small><sub>**BSB:**</sub></small>
 Whoever slanders his neighbor in secret, I will put to silence; the one with haughty eyes and a proud heart, I will not endure.
+<small><sub>**Hebrew:**</sub></small>
+[[H3960\|מְלָשְׁנִ֬י]] [[H9003\|בַ]][[H5643A\|סֵּ֨תֶר]][[H9015\|׀]] [[H7453\|רֵעֵ]][[H9023\|הוּ֮]] [[H0853\|אוֹת֪]][[H9033\|וֹ]] [[H6789\|אַ֫צְמִ֥ית]] [[H1364\|גְּֽבַהּ]][[H9014\|־]] [[H5869H\|עֵ֭ינַיִם]] [[H9002\|וּ]][[H7342H\|רְחַ֣ב]] [[H3824\|לֵבָ֑ב]] [[H0853\|אֹ֝ת֗]][[H9033\|וֹ]] [[H3808\|לֹ֣א]] [[H3201\|אוּכָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HEART|HEART]] • [[topic PRIDE|PRIDE]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.101.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.101.4|<< Psalms 101:4]]</td><td align="center" style="border:none;">[[Ps.101|Psalms 101]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.101.6|Psalms 101:6 >>]]</td></tr></table>
 

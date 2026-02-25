@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 30:23
+type: Verse
+kjv: "Then said David, Ye shall not do so, my brethren, with that which the LORD hath given us, who hath preserved us, and delivered the company that came against us into our hand."
+bsb: "But David said, “My brothers, you must not do this with what the LORD has given us. He has protected us and delivered into our hands the raiders who came against us."
+hebrew: "וַיֹּ֣אמֶר דָּוִ֔ד לֹֽא־ תַעֲשׂ֥וּ כֵ֖ן אֶחָ֑י אֵ֠ת אֲשֶׁר־ נָתַ֨ן יְהוָ֥ה לָ֙נוּ֙ וַיִּשְׁמֹ֣ר אֹתָ֔נוּ וַיִּתֵּ֗ן אֶֽת־ הַגְּד֛וּד הַבָּ֥א עָלֵ֖ינוּ בְּיָדֵֽנוּ׃"
+pericope: "[[1Sam.30.21 The Spoils Are Divided|The Spoils Are Divided]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H8104H]]"
+- "[[H9009]]"
+- "[[H1416]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:23**<big><big>[[1Sam.30.21 The Spoils Are Divided|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said David, Ye shall not do so, my brethren, with that which the LORD hath given us, who hath preserved us, and delivered the company that came against us into our hand.
 <small><sub>**BSB:**</sub></small>
 But David said, “My brothers, you must not do this with what the LORD has given us. He has protected us and delivered into our hands the raiders who came against us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔ד]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6213A\|תַעֲשׂ֥וּ]] [[H3651C\|כֵ֖ן]] [[H0251G\|אֶחָ֑]][[H9020\|י]] [[H0853\|אֵ֠ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֨ן]] [[H3068G\|יְהוָ֥ה]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H9001\|וַ]][[H8104H\|יִּשְׁמֹ֣ר]] [[H0853\|אֹתָ֔]][[H9035\|נוּ]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֗ן]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H1416\|גְּד֛וּד]] [[H9009\|הַ]][[H0935G\|בָּ֥א]] [[H5921A\|עָלֵ֖י]][[H9035\|נוּ]] [[H9003\|בְּ]][[H3027H\|יָדֵֽ]][[H9025\|נוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.22|<< 1 Samuel 30:22]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.24|1 Samuel 30:24 >>]]</td></tr></table>
 

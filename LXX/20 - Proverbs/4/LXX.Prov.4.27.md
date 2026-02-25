@@ -1,6 +1,81 @@
+---
+title: LXX Proverbs 4:27
+type: Verse
+lxx: "You should not turn aside unto the right nor unto the left; but turn your foot from an evil way! For the ways, the ones of the right, God knows; but the ones perverting are  of the left; but he makes your tracks straight,  and he shall lead before your goings in peace."
+greek: "μη εκκλίνης εις τα δεξιά μηδέ εις τα αριστερά απόστρεψον δε σον πόδα από οδού κακής οδούς γαρ τας εκ δεξιών οίδεν ο θεός διεστραμμέναι δε εισιν αι εξ αριστερών αυτός δε ορθάς ποιήσει τας τροχιάς σου τας δε πορείας σου εν ειρήνη προάξει"
+original_language: Greek
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3361]]"
+- "[[G1578]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1188]]"
+- "[[G3366]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0710]]"
+- "[[G0654]]"
+- "[[G1161]]"
+- "[[G4674]]"
+- "[[G4228]]"
+- "[[G0575]]"
+- "[[G3598]]"
+- "[[G2556]]"
+- "[[G3598]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G1188]]"
+- "[[G1492]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1294]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1537]]"
+- "[[G0710]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G3717]]"
+- "[[G4160]]"
+- "[[G3588]]"
+- "[[G5163]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4197]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G1515]]"
+- "[[G4254]]"
+---
+
 **LXX Proverbs 4:27** 
 <small><sub>**LXX:**</sub></small>
 You should not turn aside unto the right nor unto the left; but turn your foot from an evil way! For \[the\] ways, the ones of \[the\] right, God knows; but the ones perverting are  of \[the\] left; but he makes your tracks straight,  and he shall lead before your goings in peace. 
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μη]] [[G1578\|εκκλίνης]] [[G1519\|εις]] [[G3588\|τα]] [[G1188\|δεξιά]] [[G3366\|μηδέ]] [[G1519\|εις]] [[G3588\|τα]] [[G0710\|αριστερά]] [[G0654\|απόστρεψον]] [[G1161\|δε]] [[G4674\|σον]] [[G4228\|πόδα]] [[G0575\|από]] [[G3598\|οδού]] [[G2556\|κακής]] [[G3598\|οδούς]] [[G1063\|γαρ]] [[G3588\|τας]] [[G1537\|εκ]] [[G1188\|δεξιών]] [[G1492\|οίδεν]] [[G3588\|ο]] [[G2316\|θεός]] [[G1294\|διεστραμμέναι]] [[G1161\|δε]] [[G1510\|εισιν]] [[G3588\|αι]] [[G1537\|εξ]] [[G0710\|αριστερών]] [[G1473\|αυτός]] [[G1161\|δε]] [[G3717\|ορθάς]] [[G4160\|ποιήσει]] [[G3588\|τας]] [[G5163\|τροχιάς]] [[G1473\|σου]] [[G3588\|τας]] [[G1161\|δε]] [[G4197\|πορείας]] [[G1473\|σου]] [[G1722\|εν]] [[G1515\|ειρήνη]] [[G4254\|προάξει]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Prov.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.26|<< Proverbs 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.1|Proverbs 5:1 >>]]</td></tr></table>
 
@@ -43,6 +118,6 @@ You should not turn aside unto the right nor unto the left; but turn your foot f
 | in | **<big>[[G1722\|εν]]</big>** |
 | peace | **<big>[[G1515\|ειρήνη]]</big>** |
 | he shall lead before | **<big>[[G4254\|προάξει]]</big>** |
-[[Prov.4.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.26|<< Proverbs 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.1|Proverbs 5:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Prov.4.26|<< Proverbs 4:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Prov.5.1|Proverbs 5:1 >>]]</td></tr></table>
 
 

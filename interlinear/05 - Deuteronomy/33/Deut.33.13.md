@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 33:13
+type: Verse
+kjv: "And of Joseph he said, Blessed of the LORD be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,"
+bsb: "Concerning Joseph he said: “May his land be blessed by the LORD with the precious dew from heaven above and the deep waters that lie beneath,"
+hebrew: "וּלְיוֹסֵ֣ף אָמַ֔ר מְבֹרֶ֥כֶת יְהֹוָ֖ה אַרְצ֑וֹ מִמֶּ֤גֶד שָׁמַ֙יִם֙ מִטָּ֔ל וּמִתְּה֖וֹם רֹבֶ֥צֶת תָּֽחַת׃"
+pericope: "[[Deut.33.1 Moses Blesses the Twelve Tribes|Moses Blesses the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 33
+book/chapter: "[[Deut.33|Deuteronomy 33]]"
+chronological_order: 229
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEW|DEW]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3130G]]"
+- "[[H0559]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H4022]]"
+- "[[H8064]]"
+- "[[H2919]]"
+- "[[H8415]]"
+- "[[H7257]]"
+- "[[H8478G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 33:13**<big><big>[[Deut.33.1 Moses Blesses the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And of Joseph he said, Blessed of the LORD [be] his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,
 <small><sub>**BSB:**</sub></small>
 Concerning Joseph he said: “May his land be blessed by the LORD with the precious dew from heaven above and the deep waters that lie beneath,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H3130G\|יוֹסֵ֣ף]] [[H0559\|אָמַ֔ר]] [[H1288\|מְבֹרֶ֥כֶת]] [[H3068G\|יְהֹוָ֖ה]] [[H0776G\|אַרְצ֑]][[H9023\|וֹ]] [[H9006\|מִ]][[H4022\|מֶּ֤גֶד]] [[H8064\|שָׁמַ֙יִם֙]] [[H9006\|מִ]][[H2919\|טָּ֔ל]] [[H9002\|וּ]][[H9006\|מִ]][[H8415\|תְּה֖וֹם]] [[H7257\|רֹבֶ֥צֶת]] [[H8478G\|תָּֽחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DEATH|DEATH]] • [[topic DEW|DEW]] • [[topic EPHRAIM|EPHRAIM]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOSEPH|JOSEPH]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.33.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.33.12|<< Deuteronomy 33:12]]</td><td align="center" style="border:none;">[[Deut.33|Deuteronomy 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.33.14|Deuteronomy 33:14 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Leviticus 15:30
+type: Verse
+kjv: "And the priest shall offer the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for her before the LORD for the issue of her uncleanness."
+bsb: "The priest is to sacrifice one as a sin offering and the other as a burnt offering. In this way the priest will make atonement for her before the LORD for her unclean discharge."
+hebrew: "וְעָשָׂ֤ה הַכֹּהֵן֙ אֶת־ הָאֶחָ֣ד חַטָּ֔את וְאֶת־ הָאֶחָ֖ד עֹלָ֑ה וְכִפֶּ֨ר עָלֶ֤יהָ הַכֹּהֵן֙ לִפְנֵ֣י יְהוָ֔ה מִזּ֖וֹב טֻמְאָתָֽהּ׃"
+pericope: "[[Lev.15.28 The Cleansing of Women|The Cleansing of Women]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic MENSTRUATION|MENSTRUATION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H2403H]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H2101]]"
+- "[[H2932]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:30**<big><big>[[Lev.15.28 The Cleansing of Women|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall offer the one [for] a sin offering, and the other [for] a burnt offering; and the priest shall make an atonement for her before the LORD for the issue of her uncleanness.
 <small><sub>**BSB:**</sub></small>
 The priest is to sacrifice one as a sin offering and the other as a burnt offering. In this way the priest will make atonement for her before the LORD for her unclean discharge.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213A\|עָשָׂ֤ה]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0259\|אֶחָ֣ד]] [[H2403H\|חַטָּ֔את]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0259\|אֶחָ֖ד]] [[H5930A\|עֹלָ֑ה]] [[H9001\|וְ]][[H3722A\|כִפֶּ֨ר]] [[H5921A\|עָלֶ֤י]][[H9034\|הָ]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מִ]][[H2101\|זּ֖וֹב]] [[H2932\|טֻמְאָתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic MENSTRUATION|MENSTRUATION]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PURIFICATION|PURIFICATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.29|<< Leviticus 15:29]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.31|Leviticus 15:31 >>]]</td></tr></table>
 

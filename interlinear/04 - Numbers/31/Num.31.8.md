@@ -1,8 +1,72 @@
+---
+title: Numbers 31:8
+type: Verse
+kjv: "And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword."
+bsb: "Among the slain were Evi, Rekem, Zur, Hur, and Reba—the five kings of Midian. They also killed Balaam son of Beor with the sword."
+hebrew: "וְאֶת־ מַלְכֵ֨י מִדְיָ֜ן הָרְג֣וּ עַל־ חַלְלֵיהֶ֗ם אֶת־ אֱוִ֤י וְאֶת־ רֶ֙קֶם֙ וְאֶת־ צ֤וּר וְאֶת־ חוּר֙ וְאֶת־ רֶ֔בַע חֲמֵ֖שֶׁת מַלְכֵ֣י מִדְיָ֑ן וְאֵת֙ בִּלְעָ֣ם בֶּן־ בְּע֔וֹר הָרְג֖וּ בֶּחָֽרֶב׃"
+pericope: "[[Num.31.1 Vengeance on Midian|Vengeance on Midian]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 31
+book/chapter: "[[Num.31|Numbers 31]]"
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic EVI|EVI]]"
+- "[[topic HUR|HUR]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic REBA|REBA]]"
+- "[[topic REKEM|REKEM]]"
+- "[[topic WAR|WAR]]"
+- "[[topic ZUR|ZUR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H4080H]]"
+- "[[H2026]]"
+- "[[H5921A]]"
+- "[[H2491A]]"
+- "[[H9028]]"
+- "[[H0189]]"
+- "[[H7552G]]"
+- "[[H6698H]]"
+- "[[H2354H]]"
+- "[[H7254]]"
+- "[[H2568]]"
+- "[[H1109A]]"
+- "[[H1121A]]"
+- "[[H1160H]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 31:8**<big><big>[[Num.31.1 Vengeance on Midian|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they slew the kings of Midian, beside the rest of them that were slain; [namely], Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword.
 <small><sub>**BSB:**</sub></small>
 Among the slain were Evi, Rekem, Zur, Hur, and Reba—the five kings of Midian. They also killed Balaam son of Beor with the sword.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מַלְכֵ֨י]] [[H4080H\|מִדְיָ֜ן]] [[H2026\|הָרְג֣וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H2491A\|חַלְלֵי]][[H9028\|הֶ֗ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0189\|אֱוִ֤י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7552G\|רֶ֙קֶם֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6698H\|צ֤וּר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H2354H\|חוּר֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7254\|רֶ֔בַע]] [[H2568\|חֲמֵ֖שֶׁת]] [[H4428G\|מַלְכֵ֣י]] [[H4080H\|מִדְיָ֑ן]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H1109A\|בִּלְעָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1160H\|בְּע֔וֹר]] [[H2026\|הָרְג֖וּ]] [[H9003\|בֶּ]][[H2719\|חָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]] • [[topic EVI|EVI]] • [[topic HUR|HUR]] • [[topic MASSACRE|MASSACRE]] • [[topic REBA|REBA]] • [[topic REKEM|REKEM]] • [[topic WAR|WAR]] • [[topic ZUR|ZUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.31.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.31.7|<< Numbers 31:7]]</td><td align="center" style="border:none;">[[Num.31|Numbers 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.31.9|Numbers 31:9 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Isaiah 59:11
+type: Verse
+kjv: "We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us."
+bsb: "We all growl like bears and moan like doves. We hope for justice, but find none, for salvation, but it is far from us."
+hebrew: "נֶהֱמֶ֤ה כַדֻּבִּים֙ כֻּלָּ֔נוּ וְכַיּוֹנִ֖ים הָגֹ֣ה נֶהְגֶּ֑ה נְקַוֶּ֤ה לַמִּשְׁפָּט֙ וָאַ֔יִן לִֽישׁוּעָ֖ה רָחֲקָ֥ה מִמֶּֽנּוּ׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BEAR|BEAR]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H1993]]"
+- "[[H9004]]"
+- "[[H1677]]"
+- "[[H3605]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H3123]]"
+- "[[H1897]]"
+- "[[H6960A]]"
+- "[[H9005]]"
+- "[[H4941H]]"
+- "[[H0369]]"
+- "[[H3444]]"
+- "[[H7368]]"
+- "[[H4480A]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:11**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We roar all like bears, and mourn sore like doves: we look for judgment, but [there is] none; for salvation, [but] it is far off from us.
 <small><sub>**BSB:**</sub></small>
 We all growl like bears and moan like doves. We hope for justice, but find none, for salvation, but it is far from us.
+<small><sub>**Hebrew:**</sub></small>
+[[H1993\|נֶהֱמֶ֤ה]] [[H9004\|כַ]][[H1677\|דֻּבִּים֙]] [[H3605\|כֻּלָּ֔]][[H9025\|נוּ]] [[H9002\|וְ]][[H9004\|כַ]][[H3123\|יּוֹנִ֖ים]] [[H1897\|הָגֹ֣ה]] [[H1897\|נֶהְגֶּ֑ה]] [[H6960A\|נְקַוֶּ֤ה]] [[H9005\|לַ]][[H4941H\|מִּשְׁפָּט֙]] [[H9002\|וָ]][[H0369\|אַ֔יִן]] [[H9005\|לִֽ]][[H3444\|ישׁוּעָ֖ה]] [[H7368\|רָחֲקָ֥ה]] [[H4480A\|מִמֶּֽ]][[H9035\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEAR|BEAR]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic ISAIAH|ISAIAH]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.10|<< Isaiah 59:10]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.12|Isaiah 59:12 >>]]</td></tr></table>
 

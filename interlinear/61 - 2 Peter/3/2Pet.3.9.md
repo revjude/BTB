@@ -1,10 +1,63 @@
+---
+title: 2 Peter 3:9
+type: Verse
+kjv: "The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance."
+bsb: "The Lord is not slow in keeping His promise as some understand slowness, but is patient with you, not wanting anyone to perish but everyone to come to repentance."
+greek: "οὐ βραδύνει ὁ κύριος τῆς ἐπαγγελίας, ὥς τινες βραδύτητα ἡγοῦνται· ἀλλὰ μακροθυμεῖ εἰς ὑμᾶς μὴ βουλόμενός τινας ἀπολέσθαι ἀλλὰ πάντας εἰς μετάνοιαν χωρῆσαι."
+pericope: "[[2Pet.3.8 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 3
+book/chapter: "[[2Pet.3|2 Peter 3]]"
+chronological_order: 1159
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3756]]"
+- "[[G1019]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G1860]]"
+- "[[G5613]]"
+- "[[G5100]]"
+- "[[G1022]]"
+- "[[G2233]]"
+- "[[G0235]]"
+- "[[G3114]]"
+- "[[G1519]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G1014]]"
+- "[[G0622]]"
+- "[[G3956]]"
+- "[[G3341]]"
+- "[[G5562]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **2 Peter 3:9**<big><big>[[2Pet.3.8 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
 <small><sub>**BSB:**</sub></small>
 The Lord is not slow in keeping His promise as some understand slowness, but is patient with you, not wanting anyone to perish but everyone to come to repentance.
-<small><sub>**Literal:**</sub></small>
-Not does delay the Lord the promise, as some slowness esteem; but is patient toward you not willing [for] any to perish but all to repentance to come.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.8|<< 2 Peter 3:8]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.10|2 Peter 3:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1019\|βραδύνει]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τῆς]]  [[G1860\|ἐπαγγελίας,]]  [[G5613\|ὥς]]  [[G5100\|τινες]]  [[G1022\|βραδύτητα]]  [[G2233\|ἡγοῦνται·]]  [[G0235\|ἀλλὰ]]  [[G3114\|μακροθυμεῖ]]  [[G1519\|εἰς]]  [[G4771\|ὑμᾶς]]  [[G3361\|μὴ]]  [[G1014\|βουλόμενός]]  [[G5100\|τινας]]  [[G0622\|ἀπολέσθαι]]  [[G0235\|ἀλλὰ]]  [[G3956\|πάντας]]  [[G1519\|εἰς]]  [[G3341\|μετάνοιαν]]  [[G5562\|χωρῆσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.3.8|<< 2 Peter 3:8]]</td><td align="center" style="border:none;">[[2Pet.3|2 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.3.10|2 Peter 3:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

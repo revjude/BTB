@@ -1,8 +1,56 @@
+---
+title: Psalm 60:4
+type: Verse
+kjv: "Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah."
+bsb: "You have raised a banner for those who fear You, that they may flee the bow. Selah"
+hebrew: "נָ֘תַ֤תָּה לִּירֵאֶ֣יךָ נֵּ֭ס לְהִתְנוֹסֵ֑ס מִ֝פְּנֵ֗י קֹ֣שֶׁט סֶֽלָה׃"
+pericope: "[[Ps.60.1 Victory with God|Victory with God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 60
+book/chapter: "[[Ps.60|Psalm 60]]"
+chronological_order: 409
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic WAR|WAR]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H5414H]]"
+- "[[H9005]]"
+- "[[H3373]]"
+- "[[H9021]]"
+- "[[H5251H]]"
+- "[[H5264]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H7189A]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 60:4**<big><big>[[Ps.60.1 Victory with God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast given a banner to them that fear thee, that it may be displayed because of the truth. Selah.
 <small><sub>**BSB:**</sub></small>
 You have raised a banner for those who fear You, that they may flee the bow. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H5414H\|נָ֘תַ֤תָּה]] [[H9005\|לִּ]][[H3373\|ירֵאֶ֣י]][[H9021\|ךָ]] [[H5251H\|נֵּ֭ס]] [[H9005\|לְ]][[H5264\|הִתְנוֹסֵ֑ס]] [[H9006\|מִ֝]][[H6440I\|פְּנֵ֗י]] [[H7189A\|קֹ֣שֶׁט]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVERENCE|REVERENCE]] • [[topic WAR|WAR]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.60.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.60.3|<< Psalms 60:3]]</td><td align="center" style="border:none;">[[Ps.60|Psalms 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.5|Psalms 60:5 >>]]</td></tr></table>
 

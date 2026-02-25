@@ -1,8 +1,62 @@
+---
+title: Psalm 18:8
+type: Verse
+kjv: "There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it."
+bsb: "Smoke rose from His nostrils, and consuming fire came from His mouth; glowing coals blazed forth."
+hebrew: "עָ֘לָ֤ה עָשָׁ֨ן׀ בְּאַפּ֗וֹ וְאֵשׁ־ מִפִּ֥יו תֹּאכֵ֑ל גֶּ֝חָלִ֗ים בָּעֲר֥וּ מִמֶּֽנּוּ׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H5927G]]"
+- "[[H6227]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H0639H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0784]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H0398]]"
+- "[[H1513]]"
+- "[[H1197A]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:8**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.
 <small><sub>**BSB:**</sub></small>
 Smoke rose from His nostrils, and consuming fire came from His mouth; glowing coals blazed forth.
+<small><sub>**Hebrew:**</sub></small>
+[[H5927G\|עָ֘לָ֤ה]] [[H6227\|עָשָׁ֨ן]][[H9015\|׀]] [[H9003\|בְּ]][[H0639H\|אַפּ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H0784\|אֵשׁ]][[H9014\|־]] [[H9006\|מִ]][[H6310G\|פִּ֥י]][[H9023\|ו]] [[H0398\|תֹּאכֵ֑ל]] [[H1513\|גֶּ֝חָלִ֗ים]] [[H1197A\|בָּעֲר֥וּ]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.7|<< Psalms 18:7]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.9|Psalms 18:9 >>]]</td></tr></table>
 

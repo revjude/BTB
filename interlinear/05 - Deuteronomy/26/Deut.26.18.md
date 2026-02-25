@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 26:18
+type: Verse
+kjv: "And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that thou shouldest keep all his commandments;"
+bsb: "And today the LORD has proclaimed that you are His people and treasured possession as He promised, that you are to keep all His commandments,"
+hebrew: "וַֽיהוָ֞ה הֶאֱמִֽירְךָ֣ הַיּ֗וֹם לִהְי֥וֹת לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה כַּאֲשֶׁ֖ר דִּבֶּר־ לָ֑ךְ וְלִשְׁמֹ֖ר כָּל־ מִצְוֹתָֽיו׃"
+pericope: "[[Deut.26.16 Obey the LORD’s Commands|Obey the LORD’s Commands]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H0559]]"
+- "[[H9031]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H5971A]]"
+- "[[H5459]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H9014]]"
+- "[[H8104G]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:18**<big><big>[[Deut.26.16 Obey the LORD’s Commands|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD hath avouched thee this day to be his peculiar people, as he hath promised thee, and that [thou] shouldest keep all his commandments;
 <small><sub>**BSB:**</sub></small>
 And today the LORD has proclaimed that you are His people and treasured possession as He promised, that you are to keep all His commandments,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַֽ]][[H3068G\|יהוָ֞ה]] [[H0559\|הֶאֱמִֽירְ]][[H9031\|ךָ֣]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H9005\|לִ]][[H1961\|הְי֥וֹת]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9005\|לְ]][[H5971A\|עַ֣ם]] [[H5459\|סְגֻלָּ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1696I\|דִּבֶּר]][[H9014\|־]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H9002\|וְ]][[H9005\|לִ]][[H8104G\|שְׁמֹ֖ר]] [[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.17|<< Deuteronomy 26:17]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.19|Deuteronomy 26:19 >>]]</td></tr></table>
 

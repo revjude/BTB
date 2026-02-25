@@ -1,8 +1,65 @@
+---
+title: 1 Samuel 1:4
+type: Verse
+kjv: "And when the time was that Elkanah offered, he gave to Peninnah his wife, and to all her sons and her daughters, portions:"
+bsb: "And whenever the day came for Elkanah to present his sacrifice, he would give portions to his wife Peninnah and to all her sons and daughters."
+hebrew: "וַיְהִ֣י הַיּ֔וֹם וַיִּזְבַּ֖ח אֶלְקָנָ֑ה וְנָתַ֞ן לִפְנִנָּ֣ה אִשְׁתּ֗וֹ וּֽלְכָל־ בָּנֶ֛יהָ וּבְנוֹתֶ֖יהָ מָנֽוֹת׃"
+pericope: "[[1Sam.1.1 Elkanah and His Wives|Elkanah and His Wives]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic ELKANAH|ELKANAH]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H2076]]"
+- "[[H0511H]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H6444]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H1323G]]"
+- "[[H4490]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:4**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the time was that Elkanah offered, he gave to Peninnah his wife, and to all her sons and her daughters, portions:
 <small><sub>**BSB:**</sub></small>
 And whenever the day came for Elkanah to present his sacrifice, he would give portions to his wife Peninnah and to all her sons and daughters.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9001\|וַ]][[H2076\|יִּזְבַּ֖ח]] [[H0511H\|אֶלְקָנָ֑ה]] [[H9001\|וְ]][[H5414G\|נָתַ֞ן]] [[H9005\|לִ]][[H6444\|פְנִנָּ֣ה]] [[H0802H\|אִשְׁתּ֗]][[H9023\|וֹ]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H1121A\|בָּנֶ֛י]][[H9024\|הָ]] [[H9002\|וּ]][[H1323G\|בְנוֹתֶ֖י]][[H9024\|הָ]] [[H4490\|מָנֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRUELTY|CRUELTY]] • [[topic ELKANAH|ELKANAH]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic HANNAH|HANNAH]] • [[topic POLYGAMY|POLYGAMY]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.3|<< 1 Samuel 1:3]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.5|1 Samuel 1:5 >>]]</td></tr></table>
 

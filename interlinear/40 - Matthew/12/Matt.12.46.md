@@ -1,10 +1,55 @@
+---
+title: Matthew 12:46
+type: Verse
+kjv: "While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him."
+bsb: "While Jesus was still speaking to the crowds, His mother and brothers stood outside, wanting to speak to Him."
+greek: "Ἔτι δὲ αὐτοῦ λαλοῦντος τοῖς ὄχλοις ἰδοὺ ἡ μήτηρ καὶ οἱ ἀδελφοὶ αὐτοῦ εἱστήκεισαν ἔξω ζητοῦντες αὐτῷ λαλῆσαι."
+pericope: "[[Matt.12.46 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic MARY|MARY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[G2089]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G2400]]"
+- "[[G3384]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G2476]]"
+- "[[G1854]]"
+- "[[G2212]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 12:46**<big><big>[[Matt.12.46 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While he yet talked to the people, behold, [his] mother and his brethren stood without, desiring to speak with him.
 <small><sub>**BSB:**</sub></small>
 While Jesus was still speaking to the crowds, His mother and brothers stood outside, wanting to speak to Him.
-<small><sub>**Literal:**</sub></small>
-While now when He is speaking to the crowds behold the mother and the brothers of Him had been standing outside seeking to Him to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.45|<< Matthew 12:45]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.47|Matthew 12:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2089\|Ἔτι]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G2980\|λαλοῦντος]]  [[G3588\|τοῖς]]  [[G3793\|ὄχλοις]]  [[G2400\|ἰδοὺ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοὶ]]  [[G0846\|αὐτοῦ]]  [[G2476\|εἱστήκεισαν]]  [[G1854\|ἔξω]]  [[G2212\|ζητοῦντες]]  [[G0846\|αὐτῷ]]  [[G2980\|λαλῆσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARY|MARY]] • [[topic PARENTS|PARENTS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.45|<< Matthew 12:45]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.47|Matthew 12:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

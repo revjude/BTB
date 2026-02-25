@@ -1,8 +1,61 @@
+---
+title: 1 Kings 3:16
+type: Verse
+kjv: "Then came there two women, that were harlots, unto the king, and stood before him."
+bsb: "At that time two prostitutes came to the king and stood before him."
+hebrew: "אָ֣ז תָּבֹ֗אנָה שְׁתַּ֛יִם נָשִׁ֥ים זֹנ֖וֹת אֶל־ הַמֶּ֑לֶךְ וַֽתַּעֲמֹ֖דְנָה לְפָנָֽיו׃"
+pericope: "[[1Kgs.3.16 Solomon Judges Wisely|Solomon Judges Wisely]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 3
+book/chapter: "[[1Kgs.3|1 Kings 3]]"
+chronological_order: 443
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0227A]]"
+- "[[H0935G]]"
+- "[[H8147]]"
+- "[[H0802G]]"
+- "[[H2181]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 3:16**<big><big>[[1Kgs.3.16 Solomon Judges Wisely|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came there two women, [that were] harlots, unto the king, and stood before him.
 <small><sub>**BSB:**</sub></small>
 At that time two prostitutes came to the king and stood before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H0935G\|תָּבֹ֗אנָה]] [[H8147\|שְׁתַּ֛יִם]] [[H0802G\|נָשִׁ֥ים]] [[H2181\|זֹנ֖וֹת]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9001\|וַֽ]][[H5975G\|תַּעֲמֹ֖דְנָה]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic JUDGE|JUDGE]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.3.15|<< 1 Kings 3:15]]</td><td align="center" style="border:none;">[[1Kgs.3|1 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.3.17|1 Kings 3:17 >>]]</td></tr></table>
 

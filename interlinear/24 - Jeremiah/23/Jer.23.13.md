@@ -1,8 +1,59 @@
+---
+title: Jeremiah 23:13
+type: Verse
+kjv: "And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err."
+bsb: "“Among the prophets of Samaria I saw an offensive thing: They prophesied by Baal and led My people Israel astray."
+hebrew: "וּבִנְבִיאֵ֥י שֹׁמְר֖וֹן רָאִ֣יתִי תִפְלָ֑ה הִנַּבְּא֣וּ בַבַּ֔עַל וַיַּתְע֥וּ אֶת־ עַמִּ֖י אֶת־ יִשְׂרָאֵֽל׃ ס"
+pericope: "[[Jer.23.9 Lying Prophets|Lying Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BAAL|BAAL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H5030]]"
+- "[[H8111]]"
+- "[[H7200G]]"
+- "[[H8604]]"
+- "[[H5012]]"
+- "[[H1168A]]"
+- "[[H9001]]"
+- "[[H8582]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 23:13**<big><big>[[Jer.23.9 Lying Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.
 <small><sub>**BSB:**</sub></small>
 “Among the prophets of Samaria I saw an offensive thing: They prophesied by Baal and led My people Israel astray.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H5030\|נְבִיאֵ֥י]] [[H8111\|שֹׁמְר֖וֹן]] [[H7200G\|רָאִ֣יתִי]] [[H8604\|תִפְלָ֑ה]] [[H5012\|הִנַּבְּא֣וּ]] [[H9003\|בַ]][[H1168A\|בַּ֔עַל]] [[H9001\|וַ]][[H8582\|יַּתְע֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.23.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.12|<< Jeremiah 23:12]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.14|Jeremiah 23:14 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ And I have seen folly in the prophets of Samaria; they prophesied in Baal, and c
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | people my  |**<big>&#8207;[[H5971A\|עַמִּ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| 'a.M<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.23.12|<< Jeremiah 23:12]]</td><td align="center" style="border:none;">[[Jer.23|Jeremiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.14|Jeremiah 23:14 >>]]</td></tr></table>
 
 

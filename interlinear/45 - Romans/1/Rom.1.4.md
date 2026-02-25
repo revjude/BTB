@@ -1,10 +1,58 @@
+---
+title: Romans 1:4
+type: Verse
+kjv: "And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:"
+bsb: "and who through the Spirit of holiness was declared with power to be the Son of God by His resurrection from the dead: Jesus Christ our Lord."
+greek: "τοῦ ὁρισθέντος υἱοῦ θεοῦ ἐν δυνάμει κατὰ πνεῦμα ἁγιωσύνης ἐξ ἀναστάσεως νεκρῶν, Ἰησοῦ Χριστοῦ τοῦ κυρίου ἡμῶν,"
+pericope: "[[Rom.1.1 Paul Greets the Saints in Rome|Paul Greets the Saints in Rome]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 1
+book/chapter: "[[Rom.1|Romans 1]]"
+chronological_order: 1087
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G3724]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G1722]]"
+- "[[G1411]]"
+- "[[G2596]]"
+- "[[G4151G]]"
+- "[[G0042]]"
+- "[[G1537]]"
+- "[[G0386]]"
+- "[[G3498]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Romans 1:4**<big><big>[[Rom.1.1 Paul Greets the Saints in Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And declared [to be] the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:
 <small><sub>**BSB:**</sub></small>
 and who through the Spirit of holiness was declared with power to be the Son of God by His resurrection from the dead: Jesus Christ our Lord.
-<small><sub>**Literal:**</sub></small>
-who having been declared Son of God in power according to [the] Spirit of holiness by resurrection [from the] dead, Jesus Christ the Lord of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.3|<< Romans 1:3]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.5|Romans 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοῦ]]  [[G3724\|ὁρισθέντος]]  [[G5207\|υἱοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G1411\|δυνάμει]]  [[G2596\|κατὰ]]  [[G4151G\|πνεῦμα]]  [[G0042\|ἁγιωσύνης]]  [[G1537\|ἐξ]]  [[G0386\|ἀναστάσεως]]  [[G3498\|νεκρῶν,]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.1.3|<< Romans 1:3]]</td><td align="center" style="border:none;">[[Rom.1|Romans 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.1.5|Romans 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

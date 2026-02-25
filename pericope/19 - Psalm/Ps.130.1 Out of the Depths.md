@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Out of the Depths
+type: Pericope
 pericope: "[[Ps.130.1 Out of the Depths|Out of the Depths]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 130
 book/chapter: "[[Ps.130|Psalm 130]]"
-genre:
+chronological_order: 891
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 9
 verses:
 - "[[Ps.130.0]]"
 - "[[Ps.130.1]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Ps.130.8]]"
 ---
 
-[[Ps.130|Psalm 130:1 - Psalm 130:8]]
+<small>[[Ps.130|Psalm 130:1-8]]</small>
 *Out of the Depths*
 
 [[Ps.130.0|0]] A Song of degrees.

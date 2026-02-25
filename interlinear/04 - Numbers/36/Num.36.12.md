@@ -1,8 +1,61 @@
+---
+title: Numbers 36:12
+type: Verse
+kjv: "And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father."
+bsb: "They married within the clans of the descendants of Manasseh son of Joseph, and their inheritance remained within the tribe of their father’s clan."
+hebrew: "מִֽמִּשְׁפְּחֹ֛ת בְּנֵֽי־ מְנַשֶּׁ֥ה בֶן־ יוֹסֵ֖ף הָי֣וּ לְנָשִׁ֑ים וַתְּהִי֙ נַחֲלָתָ֔ן עַל־ מַטֵּ֖ה מִשְׁפַּ֥חַת אֲבִיהֶֽן׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MILCAH|MILCAH]]"
+strongs:
+- "[[H9006]]"
+- "[[H4940]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H4519G]]"
+- "[[H1121A]]"
+- "[[H3130G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0802H]]"
+- "[[H9001]]"
+- "[[H5159]]"
+- "[[H9029]]"
+- "[[H5921A]]"
+- "[[H4294H]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:12**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
 <small><sub>**BSB:**</sub></small>
 They married within the clans of the descendants of Manasseh son of Joseph, and their inheritance remained within the tribe of their father’s clan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִֽ]][[H4940\|מִּשְׁפְּחֹ֛ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֥ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H1961\|הָי֣וּ]] [[H9005\|לְ]][[H0802H\|נָשִׁ֑ים]] [[H9001\|וַ]][[H1961\|תְּהִי֙]] [[H5159\|נַחֲלָתָ֔]][[H9029\|ן]] [[H5921A\|עַל]][[H9014\|־]] [[H4294H\|מַטֵּ֖ה]] [[H4940\|מִשְׁפַּ֥חַת]] [[H0001G\|אֲבִי]][[H9029\|הֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MILCAH|MILCAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.11|<< Numbers 36:11]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.13|Numbers 36:13 >>]]</td></tr></table>
 

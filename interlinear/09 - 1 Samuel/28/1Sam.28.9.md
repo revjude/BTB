@@ -1,8 +1,76 @@
+---
+title: 1 Samuel 28:9
+type: Verse
+kjv: "And the woman said unto him, Behold, thou knowest what Saul hath done, how he hath cut off those that have familiar spirits, and the wizards, out of the land: wherefore then layest thou a snare for my life, to cause me to die?"
+bsb: "But the woman replied, “Surely you know what Saul has done, how he has killed the mediums and spiritists in the land. Why have you set a trap to get me killed?”"
+hebrew: "וַתֹּ֨אמֶר הָֽאִשָּׁ֜ה אֵלָ֗יו הִנֵּ֨ה אַתָּ֤ה יָדַ֙עְתָּ֙ אֵ֣ת אֲשֶׁר־ עָשָׂ֣ה שָׁא֔וּל אֲשֶׁ֥ר הִכְרִ֛ית אֶת־ הָאֹב֥וֹת וְאֶת־ הַיִּדְּעֹנִ֖י מִן־ הָאָ֑רֶץ וְלָמָ֥ה אַתָּ֛ה מִתְנַקֵּ֥שׁ בְּנַפְשִׁ֖י לַהֲמִיתֵֽנִי׃"
+pericope: "[[1Sam.28.7 Saul and the Medium of Endor|Saul and the Medium of Endor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 28
+book/chapter: "[[1Sam.28|1 Samuel 28]]"
+chronological_order: 307
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EN-DOR|EN-DOR]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SAUL|SAUL]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WITCHCRAFT|WITCHCRAFT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H7586G]]"
+- "[[H3772I]]"
+- "[[H0178]]"
+- "[[H9002]]"
+- "[[H3049]]"
+- "[[H4480A]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H5367]]"
+- "[[H9003]]"
+- "[[H5315H]]"
+- "[[H9020]]"
+- "[[H4191]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 28:9**<big><big>[[1Sam.28.7 Saul and the Medium of Endor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the woman said unto him, Behold, thou knowest what Saul hath done, how he hath cut off those that have familiar spirits, and the wizards, out of the land: wherefore then layest thou a snare for my life, to cause me to die?
 <small><sub>**BSB:**</sub></small>
 But the woman replied, “Surely you know what Saul has done, how he has killed the mediums and spiritists in the land. Why have you set a trap to get me killed?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֨אמֶר]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁ֜ה]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H2009\|הִנֵּ֨ה]] [[H0859A\|אַתָּ֤ה]] [[H3045\|יָדַ֙עְתָּ֙]] [[H0853\|אֵ֣ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֣ה]] [[H7586G\|שָׁא֔וּל]] [[H0834A\|אֲשֶׁ֥ר]] [[H3772I\|הִכְרִ֛ית]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0178\|אֹב֥וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3049\|יִּדְּעֹנִ֖י]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H9005\|לָ]][[H4100\|מָ֥ה]] [[H0859A\|אַתָּ֛ה]] [[H5367\|מִתְנַקֵּ֥שׁ]] [[H9003\|בְּ]][[H5315H\|נַפְשִׁ֖]][[H9020\|י]] [[H9005\|לַ]][[H4191\|הֲמִיתֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EN-DOR|EN-DOR]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic MIRACLES|MIRACLES]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SAMUEL|SAMUEL]] • [[topic SAUL|SAUL]] • [[topic SORCERY|SORCERY]] • [[topic WITCHCRAFT|WITCHCRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.28.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.28.8|<< 1 Samuel 28:8]]</td><td align="center" style="border:none;">[[1Sam.28|1 Samuel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.28.10|1 Samuel 28:10 >>]]</td></tr></table>
 

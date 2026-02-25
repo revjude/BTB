@@ -1,8 +1,89 @@
+---
+title: 2 Samuel 24:13
+type: Verse
+kjv: "So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto thee in thy land? or wilt thou flee three months before thine enemies, while they pursue thee? or that there be three days’ pestilence in thy land? now advise, and see what answer I shall return to him that sent me."
+bsb: "So Gad went and said to David, “Do you choose to endure three years of famine in your land, three months of fleeing the pursuit of your enemies, or three days of plague upon your land? Now then, think it over and decide how I should reply to Him who sent me.”"
+hebrew: "וַיָּבֹא־ גָ֥ד אֶל־ דָּוִ֖ד וַיַּגֶּד־ ל֑וֹ וַיֹּ֣אמֶר ל֡וֹ הֲתָב֣וֹא לְךָ֣ שֶֽׁבַע שָׁנִ֣ים׀ רָעָ֣ב׀ בְּאַרְצֶ֡ךָ אִם־ שְׁלֹשָׁ֣ה חֳ֠דָשִׁים נֻסְךָ֨ לִפְנֵֽי־ צָרֶ֜יךָ וְה֣וּא רֹדְפֶ֗ךָ וְאִם־ הֱ֠יוֹת שְׁלֹ֨שֶׁת יָמִ֥ים דֶּ֙בֶר֙ בְּאַרְצֶ֔ךָ עַתָּה֙ דַּ֣ע וּרְאֵ֔ה מָה־ אָשִׁ֥יב שֹׁלְחִ֖י דָּבָֽר׃ ס"
+pericope: "[[2Sam.24.10 Judgment for David’s Sin|Judgment for David’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GAD|GAD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H1410H]]"
+- "[[H0413]]"
+- "[[H1732]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H9031]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9015]]"
+- "[[H7458]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9021]]"
+- "[[H0518H]]"
+- "[[H7969]]"
+- "[[H2320G]]"
+- "[[H5127]]"
+- "[[H9041]]"
+- "[[H6440G]]"
+- "[[H6862C]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H7291]]"
+- "[[H1961]]"
+- "[[H3117G]]"
+- "[[H1698]]"
+- "[[H6258]]"
+- "[[H3045]]"
+- "[[H7200J]]"
+- "[[H4100]]"
+- "[[H7725G]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H1697H]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 24:13**<big><big>[[2Sam.24.10 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto thee in thy land? or wilt thou flee three months before thine enemies, while they pursue thee? or that there be three days’ pestilence in thy land? now advise, and see what answer I shall return to him that sent me.
 <small><sub>**BSB:**</sub></small>
 So Gad went and said to David, “Do you choose to endure three years of famine in your land, three months of fleeing the pursuit of your enemies, or three days of plague upon your land? Now then, think it over and decide how I should reply to Him who sent me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא]][[H9014\|־]] [[H1410H\|גָ֥ד]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H9001\|וַ]][[H5046\|יַּגֶּד]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֡]][[H9033\|וֹ]] [[H9008\|הֲ]][[H0935G\|תָב֣וֹא]] [[H9005\|לְ]][[H9031\|ךָ֣]] [[H7651\|שֶֽׁבַע]] [[H8141\|שָׁנִ֣ים]][[H9015\|׀]] [[H7458\|רָעָ֣ב]][[H9015\|׀]] [[H9003\|בְּ]][[H0776G\|אַרְצֶ֡]][[H9021\|ךָ]] [[H0518H\|אִם]][[H9014\|־]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H2320G\|חֳ֠דָשִׁים]] [[H5127\|נֻסְ]][[H9041\|ךָ֨]] [[H9005\|לִ]][[H6440G\|פְנֵֽי]][[H9014\|־]] [[H6862C\|צָרֶ֜י]][[H9021\|ךָ]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H7291\|רֹדְפֶ֗]][[H9031\|ךָ]] [[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H1961\|הֱ֠יוֹת]] [[H7969\|שְׁלֹ֨שֶׁת]] [[H3117G\|יָמִ֥ים]] [[H1698\|דֶּ֙בֶר֙]] [[H9003\|בְּ]][[H0776G\|אַרְצֶ֔]][[H9021\|ךָ]] [[H6258\|עַתָּה֙]] [[H3045\|דַּ֣ע]] [[H9002\|וּ]][[H7200J\|רְאֵ֔ה]] [[H4100\|מָה]][[H9014\|־]] [[H7725G\|אָשִׁ֥יב]] [[H7971G\|שֹׁלְחִ֖]][[H9030\|י]] [[H1697H\|דָּבָֽר]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GAD|GAD]] • [[topic NATION|NATION]] • [[topic PLAGUE|PLAGUE]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.12|<< 2 Samuel 24:12]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.14|2 Samuel 24:14 >>]]</td></tr></table>
 
@@ -42,7 +123,7 @@ So Gad went and said to David, “Do you choose to endure three years of famine 
 | what?  |**<big>&#8207;[[H4100\|מָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I bring back  |**<big>&#8207;[[H7725G\|אָשִׁ֥יב]]&#8207; </big>**| 'a.Shiv<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] [one who] sent me  |**<big>&#8207;[[H7971G\|שֹׁלְחִ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| sho.le.Ch<small><sup>[[HVqrmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| word  |**<big>&#8207;[[H1697H\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| word  |**<big>&#8207;[[H1697H\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.12|<< 2 Samuel 24:12]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.14|2 Samuel 24:14 >>]]</td></tr></table>
 
 

@@ -1,8 +1,61 @@
+---
+title: Isaiah 66:9
+type: Verse
+kjv: "Shall I bring to the birth, and not cause to bring forth? saith the LORD: shall I cause to bring forth, and shut the womb? saith thy God."
+bsb: "Shall I bring a baby to the point of birth and not deliver it?” says the LORD. “Or will I who deliver close the womb?” says your God."
+hebrew: "הַאֲנִ֥י אַשְׁבִּ֛יר וְלֹ֥א אוֹלִ֖יד יֹאמַ֣ר יְהוָ֑ה אִם־ אֲנִ֧י הַמּוֹלִ֛יד וְעָצַ֖רְתִּי אָמַ֥ר אֱלֹהָֽיִךְ׃ ס"
+pericope: "[[Isa.66.7 Rejoice with Jerusalem|Rejoice with Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 66
+book/chapter: "[[Isa.66|Isaiah 66]]"
+chronological_order: 705
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9008]]"
+- "[[H0589]]"
+- "[[H7665]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3205]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H9001]]"
+- "[[H6113]]"
+- "[[H0430G]]"
+- "[[H9022]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 66:9**<big><big>[[Isa.66.7 Rejoice with Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall I bring to the birth, and not cause to bring forth? saith the LORD: shall I cause to bring forth, and shut [the womb]? saith thy God.
 <small><sub>**BSB:**</sub></small>
 Shall I bring a baby to the point of birth and not deliver it?” says the LORD. “Or will I who deliver close the womb?” says your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H0589\|אֲנִ֥י]] [[H7665\|אַשְׁבִּ֛יר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3205\|אוֹלִ֖יד]] [[H0559\|יֹאמַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H0518H\|אִם]][[H9014\|־]] [[H0589\|אֲנִ֧י]] [[H9009\|הַ]][[H3205\|מּוֹלִ֛יד]] [[H9001\|וְ]][[H6113\|עָצַ֖רְתִּי]] [[H0559\|אָמַ֥ר]] [[H0430G\|אֱלֹהָֽיִ]][[H9022\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.66.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.8|<< Isaiah 66:8]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.10|Isaiah 66:10 >>]]</td></tr></table>
 
@@ -19,7 +72,7 @@ Shall I bring a baby to the point of birth and not deliver it?” says the LORD.
 | the [one who] causes to bring forth  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3205\|מּוֹלִ֛יד]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mo.Lid<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and do I restrain?  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H6113\|עָצַ֖רְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> 'a.Tzar.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he says  |**<big>&#8207;[[H0559\|אָמַ֥ר]]&#8207; </big>**| 'a.Mar<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  |**<big>&#8207;[[H0430G\|אֱלֹהָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהָֽיִ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.Ha.yi<small><sup>[[HNcmpc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.66.8|<< Isaiah 66:8]]</td><td align="center" style="border:none;">[[Isa.66|Isaiah 66]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.66.10|Isaiah 66:10 >>]]</td></tr></table>
 
 

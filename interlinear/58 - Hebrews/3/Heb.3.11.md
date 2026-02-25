@@ -1,10 +1,56 @@
+---
+title: Hebrews 3:11
+type: Verse
+kjv: "So I sware in my wrath, They shall not enter into my rest.)"
+bsb: "So I swore on oath in My anger, ‘They shall never enter My rest.’”"
+greek: "ὡς ὤμοσα ἐν τῇ ὀργῇ μου· εἰ εἰσελεύσονται εἰς τὴν κατάπαυσίν μου.¶"
+pericope: "[[Heb.3.7 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 3
+book/chapter: "[[Heb.3|Hebrews 3]]"
+chronological_order: 1142
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G5613]]"
+- "[[G3660]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3709]]"
+- "[[G3165]]"
+- "[[G1487H]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G2663]]"
+texts:
+- NKO
+---
+
 **Hebrews 3:11**<big><big>[[Heb.3.7 Do Not Harden Your Hearts|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So I sware in my wrath, They shall not enter into my rest.)
 <small><sub>**BSB:**</sub></small>
 So I swore on oath in My anger, ‘They shall never enter My rest.’”
-<small><sub>**Literal:**</sub></small>
-so I swore in the wrath of Mine; [not] will they enter into the rest of Mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.10|<< Hebrews 3:10]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.12|Hebrews 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G3660\|ὤμοσα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3709\|ὀργῇ]]  [[G3165\|μου·]]  [[G1487H\|εἰ]]  [[G1525\|εἰσελεύσονται]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2663\|κατάπαυσίν]]  [[G3165\|μου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic OATH|OATH]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic REPROBACY|REPROBACY]] • [[topic SELF-WILL|SELF-WILL]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.3.10|<< Hebrews 3:10]]</td><td align="center" style="border:none;">[[Heb.3|Hebrews 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.3.12|Hebrews 3:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 3:11** is...
 > $\quad$ referencing: [[LXX.Ps.95.7|Ps 95:7-11]]

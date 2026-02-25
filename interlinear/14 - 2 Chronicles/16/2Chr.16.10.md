@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 16:10
+type: Verse
+kjv: "Then Asa was wroth with the seer, and put him in a prison house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time."
+bsb: "Asa was angry with the seer and became so enraged over this matter that he put the man in prison. And at the same time Asa oppressed some of the people."
+hebrew: "וַיִּכְעַ֨ס אָסָ֜א אֶל־ הָרֹאֶ֗ה וַֽיִּתְּנֵ֙הוּ֙ בֵּ֣ית הַמַּהְפֶּ֔כֶת כִּֽי־ בְזַ֥עַף עִמּ֖וֹ עַל־ זֹ֑את וַיְרַצֵּ֥ץ אָסָ֛א מִן־ הָעָ֖ם בָּעֵ֥ת הַהִֽיא׃"
+pericope: "[[2Chr.16.7 Hanani’s Message to Asa|Hanani’s Message to Asa]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3707]]"
+- "[[H0609G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7203A]]"
+- "[[H5414H]]"
+- "[[H9033]]"
+- "[[H1004B]]"
+- "[[H4115]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H2197]]"
+- "[[H5973A]]"
+- "[[H5921A]]"
+- "[[H2063]]"
+- "[[H7533]]"
+- "[[H4480A]]"
+- "[[H5971A]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 16:10**<big><big>[[2Chr.16.7 Hanani’s Message to Asa|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Asa was wroth with the seer, and put him in a prison house; for [he was] in a rage with him because of this [thing]. And Asa oppressed [some] of the people the same time.
 <small><sub>**BSB:**</sub></small>
 Asa was angry with the seer and became so enraged over this matter that he put the man in prison. And at the same time Asa oppressed some of the people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3707\|יִּכְעַ֨ס]] [[H0609G\|אָסָ֜א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H7203A\|רֹאֶ֗ה]] [[H9001\|וַֽ]][[H5414H\|יִּתְּנֵ֙]][[H9033\|הוּ֙]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H4115\|מַּהְפֶּ֔כֶת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בְ]][[H2197\|זַ֥עַף]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H2063\|זֹ֑את]] [[H9001\|וַ]][[H7533\|יְרַצֵּ֥ץ]] [[H0609G\|אָסָ֛א]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֖ם]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PREACHING|PREACHING]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.9|<< 2 Chronicles 16:9]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.11|2 Chronicles 16:11 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Psalm 89:2
+type: Verse
+kjv: "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens."
+bsb: "For I have said, “Loving devotion is built up forever; in the heavens You establish Your faithfulness.”"
+hebrew: "כִּֽי־ אָמַ֗רְתִּי ע֭וֹלָם חֶ֣סֶד יִבָּנֶ֑ה שָׁמַ֓יִם׀ תָּכִ֖ן אֱמוּנָתְךָ֣ בָהֶֽם׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H5769G]]"
+- "[[H2617A]]"
+- "[[H1129]]"
+- "[[H8064]]"
+- "[[H9015]]"
+- "[[H3559H]]"
+- "[[H0530]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:2**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.
 <small><sub>**BSB:**</sub></small>
 For I have said, “Loving devotion is built up forever; in the heavens You establish Your faithfulness.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0559\|אָמַ֗רְתִּי]] [[H5769G\|ע֭וֹלָם]] [[H2617A\|חֶ֣סֶד]] [[H1129\|יִבָּנֶ֑ה]] [[H8064\|שָׁמַ֓יִם]][[H9015\|׀]] [[H3559H\|תָּכִ֖ן]] [[H0530\|אֱמוּנָתְ]][[H9021\|ךָ֣]] [[H9003\|בָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.1|<< Psalms 89:1]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.3|Psalms 89:3 >>]]</td></tr></table>
 

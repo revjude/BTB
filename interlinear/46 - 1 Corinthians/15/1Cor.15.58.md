@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 15:58
+type: Verse
+kjv: "Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord."
+bsb: "Therefore, my beloved brothers, be steadfast and immovable. Always excel in the work of the Lord, because you know that your labor in the Lord is not in vain."
+greek: "ὥστε, ἀδελφοί μου ἀγαπητοί, ἑδραῖοι γίνεσθε, ἀμετακίνητοι, περισσεύοντες ἐν τῷ ἔργῳ τοῦ κυρίου πάντοτε, εἰδότες ὅτι ὁ κόπος ὑμῶν οὐκ ἔστιν κενὸς ἐν κυρίῳ.¶"
+pericope: "[[1Cor.15.50 Where, O Death, Is Your Victory？|Where, O Death, Is Your Victory？]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic STABILITY|STABILITY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5620]]"
+- "[[G0080]]"
+- "[[G3165]]"
+- "[[G0027]]"
+- "[[G1476]]"
+- "[[G1096]]"
+- "[[G0277]]"
+- "[[G4052]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G2962G]]"
+- "[[G3842]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G2873]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G2756]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:58**<big><big>[[1Cor.15.50 Where, O Death, Is Your Victory？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
 <small><sub>**BSB:**</sub></small>
 Therefore, my beloved brothers, be steadfast and immovable. Always excel in the work of the Lord, because you know that your labor in the Lord is not in vain.
-<small><sub>**Literal:**</sub></small>
-Therefore, brothers of mine beloved, steadfast do be, immovable, abounding in the work of the Lord always, knowing that the toil of you not is in vain in [the] Lord.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.57|<< 1 Corinthians 15:57]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.1|1 Corinthians 16:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε,]]  [[G0080\|ἀδελφοί]]  [[G3165\|μου]]  [[G0027\|ἀγαπητοί,]]  [[G1476\|ἑδραῖοι]]  [[G1096\|γίνεσθε,]]  [[G0277\|ἀμετακίνητοι,]]  [[G4052\|περισσεύοντες]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2041\|ἔργῳ]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3842\|πάντοτε,]]  [[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2873\|κόπος]]  [[G4771\|ὑμῶν]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G2756\|κενὸς]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DILIGENCE|DILIGENCE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic STABILITY|STABILITY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.57|<< 1 Corinthians 15:57]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.16.1|1 Corinthians 16:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,59 @@
+---
+title: Ezekiel 32:17
+type: Verse
+kjv: "It came to pass also in the twelfth year, in the fifteenth day of the month, that the word of the LORD came unto me, saying,"
+bsb: "In the twelfth year, on the fifteenth day of the month, the word of the LORD came to me, saying,"
+hebrew: "וַֽיְהִי֙ בִּשְׁתֵּ֣י עֶשְׂרֵ֣ה שָׁנָ֔ה בַּחֲמִשָּׁ֥ה עָשָׂ֖ר לַחֹ֑דֶשׁ הָיָ֥ה דְבַר־ יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃"
+pericope: "[[Ezek.32.17 Egypt Cast into the Pit|Egypt Cast into the Pit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H2568]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:17**<big><big>[[Ezek.32.17 Egypt Cast into the Pit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It came to pass also in the twelfth year, in the fifteenth [day] of the month, [that] the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
 In the twelfth year, on the fifteenth day of the month, the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בִּ]][[H8147\|שְׁתֵּ֣י]] [[H6240\|עֶשְׂרֵ֣ה]] [[H8141\|שָׁנָ֔ה]] [[H9003\|בַּ]][[H2568\|חֲמִשָּׁ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H1961\|הָיָ֥ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.16|<< Ezekiel 32:16]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.18|Ezekiel 32:18 >>]]</td></tr></table>
 

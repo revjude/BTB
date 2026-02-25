@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Submits Himself to the LORD
+type: Pericope
 pericope: "[[Job.42.1 Job Submits Himself to the LORD|Job Submits Himself to the LORD]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 42
 book/chapter: "[[Job.42|Job 42]]"
-genre:
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 6
 verses:
 - "[[Job.42.1]]"
 - "[[Job.42.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Job.42.6]]"
 ---
 
-[[Job.42|Job 42:1 - Job 42:6]]
+<small>[[Job.42|Job 42:1-6]]</small>
 *Job Submits Himself to the LORD*
 
 [[Job.42.1|1]] Then Job answered the LORD, and said,

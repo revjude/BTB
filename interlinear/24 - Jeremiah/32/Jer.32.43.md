@@ -1,8 +1,64 @@
+---
+title: Jeremiah 32:43
+type: Verse
+kjv: "And fields shall be bought in this land, whereof ye say, It is desolate without man or beast; it is given into the hand of the Chaldeans."
+bsb: "And fields will be bought in this land about which you are saying, ‘It is a desolation, without man or beast; it has been delivered into the hands of the Chaldeans.’"
+hebrew: "וְנִקְנָ֥ה הַשָּׂדֶ֖ה בָּאָ֣רֶץ הַזֹּ֑את אֲשֶׁ֣ר׀ אַתֶּ֣ם אֹמְרִ֗ים שְׁמָמָ֥ה הִיא֙ מֵאֵ֤ין אָדָם֙ וּבְהֵמָ֔ה נִתְּנָ֖ה בְּיַ֥ד הַכַּשְׂדִּֽים׃"
+pericope: "[[Jer.32.36 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H7069]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H0859D]]"
+- "[[H0559]]"
+- "[[H8077A]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H5414G]]"
+- "[[H3027H]]"
+- "[[H3778]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:43**<big><big>[[Jer.32.36 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And fields shall be bought in this land, whereof ye say, [It is] desolate without man or beast; it is given into the hand of the Chaldeans.
 <small><sub>**BSB:**</sub></small>
 And fields will be bought in this land about which you are saying, ‘It is a desolation, without man or beast; it has been delivered into the hands of the Chaldeans.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7069\|נִקְנָ֥ה]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H0859D\|אַתֶּ֣ם]] [[H0559\|אֹמְרִ֗ים]] [[H8077A\|שְׁמָמָ֥ה]] [[H1931\|הִיא֙]] [[H9006\|מֵ]][[H0369\|אֵ֤ין]] [[H0120G\|אָדָם֙]] [[H9002\|וּ]][[H0929\|בְהֵמָ֔ה]] [[H5414G\|נִתְּנָ֖ה]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.42|<< Jeremiah 32:42]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.44|Jeremiah 32:44 >>]]</td></tr></table>
 

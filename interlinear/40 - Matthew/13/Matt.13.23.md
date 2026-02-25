@@ -1,10 +1,70 @@
+---
+title: Matthew 13:23
+type: Verse
+kjv: "But he that received seed into the good ground is he that heareth the word, and understandeth it; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty."
+bsb: "But the seed sown on good soil is the one who hears the word and understands it. He indeed bears fruit and produces a crop—a hundredfold, sixtyfold, or thirtyfold.”"
+jesus_said: "But he that received seed into the good ground is he that heareth the word, and understandeth it; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty."
+greek: "ὁ δὲ ἐπὶ τὴν καλὴν τὴν γῆν σπαρείς, οὗτός ἐστιν ὁ τὸν λόγον ἀκούων καὶ συνιείς, ὃς δὴ καρποφορεῖ καὶ ποιεῖ, ὃ μὲν ἑκατόν, ὃ δὲ ἑξήκοντα, ὃ δὲ τριάκοντα.¶"
+pericope: "[[Matt.13.18 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1909]]"
+- "[[G2570G]]"
+- "[[G1093I]]"
+- "[[G4687]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3056]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G4920]]"
+- "[[G3739]]"
+- "[[G1211]]"
+- "[[G2592]]"
+- "[[G4160G]]"
+- "[[G3303]]"
+- "[[G1540]]"
+- "[[G1835]]"
+- "[[G5144]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 13:23**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he that received seed into the good ground is he that heareth the word, and understandeth [it]; which also beareth fruit, and bringeth forth, some an hundredfold, some sixty, some thirty.
 <small><sub>**BSB:**</sub></small>
 But the seed sown on good soil is the one who hears the word and understands it. He indeed bears fruit and produces a crop—a hundredfold, sixtyfold, or thirtyfold.”
-<small><sub>**Literal:**</sub></small>
-That however on the good <the> soil having been sown, this is the [one] the word hearing and understanding, who indeed brings forth fruit and produces — some indeed a hundredfold, some however sixty, some however thirty.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.22|<< Matthew 13:22]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.24|Matthew 13:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G2570G\|καλὴν]]  [[G3588\|τὴν]]  [[G1093I\|γῆν]]  [[G4687\|σπαρείς,]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G0191\|ἀκούων]]  [[G2532\|καὶ]]  [[G4920\|συνιείς,]]  [[G3739\|ὃς]]  [[G1211\|δὴ]]  [[G2592\|καρποφορεῖ]]  [[G2532\|καὶ]]  [[G4160G\|ποιεῖ,]]  [[G3739\|ὃ]]  [[G3303\|μὲν]]  [[G1540\|ἑκατόν,]]  [[G3739\|ὃ]]  [[G1161\|δὲ]]  [[G1835\|ἑξήκοντα,]]  [[G3739\|ὃ]]  [[G1161\|δὲ]]  [[G5144\|τριάκοντα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CONVERTS|CONVERTS]] • [[topic HEARERS|HEARERS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERMON|SERMON]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.22|<< Matthew 13:22]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.24|Matthew 13:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

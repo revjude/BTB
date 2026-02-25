@@ -1,6 +1,68 @@
+---
+title: LXX Jeremiah 51:58
+type: Verse
+lxx: "Thus says the lord almighty, The wall of Babylon was widened; by razing it shall be razed, and  her high gates by fire shall be set on fire; and peoples shall tire in vanity, and nations shall fail in their rule."
+greek: "τάδε λέγει κύριος παντοκράτωρ τείχος Βαβυλώνος επλατύνθη κατασκαπτόμενον κατασκαφήσεται και αι πύλαι αυτής αι υψηλαί εν πυρί εμπυρισθήσονται και κοπιάσουσι λαοί εις κενόν και έθνη εν αρχή εκλείψουσιν"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G3841]]"
+- "[[G5038]]"
+- "[[G0897]]"
+- "[[G4115]]"
+- "[[G2679]]"
+- "[[G2679]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4439]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G5308]]"
+- "[[G1722]]"
+- "[[G4442]]"
+- "[[G7207]]"
+- "[[G2532]]"
+- "[[G2872]]"
+- "[[G2992]]"
+- "[[G1519]]"
+- "[[G2756]]"
+- "[[G2532]]"
+- "[[G1484]]"
+- "[[G1722]]"
+- "[[G0746]]"
+- "[[G1587]]"
+---
+
 **LXX Jeremiah 51:58** 
 <small><sub>**LXX:**</sub></small>
 Thus says \[the\] <span class="smallcaps">lord</span> almighty, \[The\] wall of Babylon was widened; by razing it shall be razed, and  her high gates by fire shall be set on fire; and peoples shall tire in vanity, and nations shall fail in \[their\] rule. 
+<small><sub>**Greek:**</sub></small>
+[[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G3841\|παντοκράτωρ]] [[G5038\|τείχος]] [[G0897\|Βαβυλώνος]] [[G4115\|επλατύνθη]] [[G2679\|κατασκαπτόμενον]] [[G2679\|κατασκαφήσεται]] [[G2532\|και]] [[G3588\|αι]] [[G4439\|πύλαι]] [[G1473\|αυτής]] [[G3588\|αι]] [[G5308\|υψηλαί]] [[G1722\|εν]] [[G4442\|πυρί]] [[G7207\|εμπυρισθήσονται]] [[G2532\|και]] [[G2872\|κοπιάσουσι]] [[G2992\|λαοί]] [[G1519\|εις]] [[G2756\|κενόν]] [[G2532\|και]] [[G1484\|έθνη]] [[G1722\|εν]] [[G0746\|αρχή]] [[G1587\|εκλείψουσιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic PERSIA|PERSIA]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.51.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.57|<< Jeremiah 51:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.59|Jeremiah 51:59 >>]]</td></tr></table>
 
@@ -34,6 +96,6 @@ Thus says \[the\] <span class="smallcaps">lord</span> almighty, \[The\] wall of 
 | in | **<big>[[G1722\|εν]]</big>** |
 | \[their\] rule | **<big>[[G0746\|αρχή]]</big>** |
 | shall fail | **<big>[[G1587\|εκλείψουσιν]]</big>** |
-[[Jer.51.58|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.57|<< Jeremiah 51:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.59|Jeremiah 51:59 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.51.57|<< Jeremiah 51:57]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.51.59|Jeremiah 51:59 >>]]</td></tr></table>
 
 

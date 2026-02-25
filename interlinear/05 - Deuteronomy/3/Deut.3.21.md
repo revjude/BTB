@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 3:21
+type: Verse
+kjv: "And I commanded Joshua at that time, saying, Thine eyes have seen all that the LORD your God hath done unto these two kings: so shall the LORD do unto all the kingdoms whither thou passest."
+bsb: "And at that time I commanded Joshua: “Your own eyes have seen all that the LORD your God has done to these two kings. The LORD will do the same to all the kingdoms you are about to enter."
+hebrew: "וְאֶת־ יְהוֹשׁ֣וּעַ צִוֵּ֔יתִי בָּעֵ֥ת הַהִ֖וא לֵאמֹ֑ר עֵינֶ֣יךָ הָרֹאֹ֗ת אֵת֩ כָּל־ אֲשֶׁ֨ר עָשָׂ֜ה יְהוָ֤ה אֱלֹהֵיכֶם֙ לִשְׁנֵי֙ הַמְּלָכִ֣ים הָאֵ֔לֶּה כֵּֽן־ יַעֲשֶׂ֤ה יְהוָה֙ לְכָל־ הַמַּמְלָכ֔וֹת אֲשֶׁ֥ר אַתָּ֖ה עֹבֵ֥ר שָֽׁמָּה׃"
+pericope: "[[Deut.3.12 Land Division East of the Jordan|Land Division East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H6680]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H8147]]"
+- "[[H4428G]]"
+- "[[H0428]]"
+- "[[H3651C]]"
+- "[[H4467]]"
+- "[[H0859A]]"
+- "[[H5674A]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:21**<big><big>[[Deut.3.12 Land Division East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I commanded Joshua at that time, saying, Thine eyes have seen all that the LORD your God hath done unto these two kings: so shall the LORD do unto all the kingdoms whither thou passest.
 <small><sub>**BSB:**</sub></small>
 And at that time I commanded Joshua: “Your own eyes have seen all that the LORD your God has done to these two kings. The LORD will do the same to all the kingdoms you are about to enter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשׁ֣וּעַ]] [[H6680\|צִוֵּ֔יתִי]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִ֖וא]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H5869A\|עֵינֶ֣י]][[H9021\|ךָ]] [[H9009\|הָ]][[H7200G\|רֹאֹ֗ת]] [[H0853\|אֵת֩]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשָׂ֜ה]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶם֙]] [[H9005\|לִ]][[H8147\|שְׁנֵי֙]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H3651C\|כֵּֽן]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H4467\|מַּמְלָכ֔וֹת]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859A\|אַתָּ֖ה]] [[H5674A\|עֹבֵ֥ר]] [[H8033G\|שָֽׁמָּ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.20|<< Deuteronomy 3:20]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.22|Deuteronomy 3:22 >>]]</td></tr></table>
 

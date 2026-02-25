@@ -1,10 +1,68 @@
+---
+title: Acts 10:38
+type: Verse
+kjv: "How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him."
+bsb: "how God anointed Jesus of Nazareth with the Holy Spirit and with power, and how Jesus went around doing good and healing all who were oppressed by the devil, because God was with Him."
+greek: "Ἰησοῦν τὸν ἀπὸ Ναζαρέθ, ὡς ἔχρισεν αὐτὸν ὁ θεὸς πνεύματι ἁγίῳ καὶ δυνάμει, ὃς διῆλθεν εὐεργετῶν καὶ ἰώμενος πάντας τοὺς καταδυναστευομένους ὑπὸ τοῦ διαβόλου, ὅτι ὁ θεὸς ἦν μετ᾽ αὐτοῦ·"
+pericope: "[[Acts.10.34 Good News for the Gentiles|Good News for the Gentiles]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2424G]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G3478]]"
+- "[[G5613]]"
+- "[[G5548]]"
+- "[[G0846]]"
+- "[[G2316]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2532]]"
+- "[[G1411]]"
+- "[[G3739]]"
+- "[[G1330]]"
+- "[[G2109]]"
+- "[[G2390]]"
+- "[[G3956]]"
+- "[[G2616]]"
+- "[[G5259G]]"
+- "[[G1228]]"
+- "[[G3754H]]"
+- "[[G1510]]"
+- "[[G3326]]"
+texts:
+- NKO
+---
+
 **Acts 10:38**<big><big>[[Acts.10.34 Good News for the Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.
 <small><sub>**BSB:**</sub></small>
 how God anointed Jesus of Nazareth with the Holy Spirit and with power, and how Jesus went around doing good and healing all who were oppressed by the devil, because God was with Him.
-<small><sub>**Literal:**</sub></small>
-Jesus <the> from Nazareth, how anointed Him <the> God Spirit with Holy and with power, who went about doing good and healing all those being oppressed by the devil, because <the> God was with Him;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.37|<< Acts 10:37]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.39|Acts 10:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2424G\|Ἰησοῦν]]  [[G3588\|τὸν]]  [[G0575\|ἀπὸ]]  [[G3478\|Ναζαρέθ,]]  [[G5613\|ὡς]]  [[G5548\|ἔχρισεν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4151G\|πνεύματι]]  [[G0040G\|ἁγίῳ]]  [[G2532\|καὶ]]  [[G1411\|δυνάμει,]]  [[G3739\|ὃς]]  [[G1330\|διῆλθεν]]  [[G2109\|εὐεργετῶν]]  [[G2532\|καὶ]]  [[G2390\|ἰώμενος]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G2616\|καταδυναστευομένους]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G1228\|διαβόλου,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1510\|ἦν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BAPTISM|BAPTISM]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic TRINITY|TRINITY]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.37|<< Acts 10:37]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.39|Acts 10:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

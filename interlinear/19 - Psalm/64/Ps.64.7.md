@@ -1,8 +1,54 @@
+---
+title: Psalm 64:7
+type: Verse
+kjv: "But God shall shoot at them with an arrow; suddenly shall they be wounded."
+bsb: "But God will shoot them with arrows; suddenly they will be wounded."
+hebrew: "וַיֹּרֵ֗ם אֱלֹ֫הִ֥ים חֵ֥ץ פִּתְא֑וֹם הָ֝י֗וּ מַכּוֹתָֽם׃"
+pericope: "[[Ps.64.1 The Hurtful Tongue|The Hurtful Tongue]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 64
+book/chapter: "[[Ps.64|Psalm 64]]"
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3384A]]"
+- "[[H9038]]"
+- "[[H0430G]]"
+- "[[H2671]]"
+- "[[H6597]]"
+- "[[H1961]]"
+- "[[H4347]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 64:7**<big><big>[[Ps.64.1 The Hurtful Tongue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But God shall shoot at them [with] an arrow; suddenly shall they be wounded.
 <small><sub>**BSB:**</sub></small>
 But God will shoot them with arrows; suddenly they will be wounded.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3384A\|יֹּרֵ֗]][[H9038\|ם]] [[H0430G\|אֱלֹ֫הִ֥ים]] [[H2671\|חֵ֥ץ]] [[H6597\|פִּתְא֑וֹם]] [[H1961\|הָ֝י֗וּ]] [[H4347\|מַכּוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.64.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.64.6|<< Psalms 64:6]]</td><td align="center" style="border:none;">[[Ps.64|Psalms 64]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.8|Psalms 64:8 >>]]</td></tr></table>
 

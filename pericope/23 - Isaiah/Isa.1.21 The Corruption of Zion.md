@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Corruption of Zion
+type: Pericope
 pericope: "[[Isa.1.21 The Corruption of Zion|The Corruption of Zion]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 1
 book/chapter: "[[Isa.1|Isaiah 1]]"
-genre:
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 11
 verses:
 - "[[Isa.1.21]]"
 - "[[Isa.1.22]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Isa.1.31]]"
 ---
 
-[[Isa.1|Isaiah 1:21 - Isaiah 1:31]]
+<small>[[Isa.1|Isaiah 1:21-31]]</small>
 *The Corruption of Zion*
 
 [[Isa.1.21|21]] How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers.

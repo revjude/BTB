@@ -1,8 +1,74 @@
+---
+title: 1 Chronicles 20:2
+type: Verse
+kjv: "And David took the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it; and it was set upon David’s head: and he brought also exceeding much spoil out of the city."
+bsb: "Then David took the crown from the head of their king. It was found to weigh a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city."
+hebrew: "וַיִּקַּ֣ח דָּוִ֣יד אֶת־ עֲטֶֽרֶת־ מַלְכָּם֩ מֵעַ֨ל רֹאשׁ֜וֹ וַֽיִּמְצָאָ֣הּ׀ מִשְׁקַ֣ל כִּכַּר־ זָהָ֗ב וּבָהּ֙ אֶ֣בֶן יְקָרָ֔ה וַתְּהִ֖י עַל־ רֹ֣אשׁ דָּוִ֑יד וּשְׁלַ֥ל הָעִ֛יר הוֹצִ֖יא הַרְבֵּ֥ה מְאֹֽד׃"
+pericope: "[[1Chr.20.1 The Capture of Rabbah|The Capture of Rabbah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 20
+book/chapter: "[[1Chr.20|1 Chronicles 20]]"
+chronological_order: 407
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic RABBAH|RABBAH]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5850]]"
+- "[[H4428G]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H4672]]"
+- "[[H9034]]"
+- "[[H9015]]"
+- "[[H4948]]"
+- "[[H3603H]]"
+- "[[H2091]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H0068G]]"
+- "[[H3368]]"
+- "[[H1961]]"
+- "[[H7998]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H3318H]]"
+- "[[H7235A]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 20:2**<big><big>[[1Chr.20.1 The Capture of Rabbah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David took the crown of their king from off his head, and found it to weigh a talent of gold, and [there were] precious stones in it; and it was set upon David’s head: and he brought also exceeding much spoil out of the city.
 <small><sub>**BSB:**</sub></small>
 Then David took the crown from the head of their king. It was found to weigh a talent of gold and was set with precious stones, and it was placed on David’s head. And David took a great amount of plunder from the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H1732\|דָּוִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H5850\|עֲטֶֽרֶת]][[H9014\|־]] [[H4428G\|מַלְכָּ]][[H9028\|ם֩]] [[H9006\|מֵ]][[H5921A\|עַ֨ל]] [[H7218A\|רֹאשׁ֜]][[H9023\|וֹ]] [[H9001\|וַֽ]][[H4672\|יִּמְצָאָ֣]][[H9034\|הּ]][[H9015\|׀]] [[H4948\|מִשְׁקַ֣ל]] [[H3603H\|כִּכַּר]][[H9014\|־]] [[H2091\|זָהָ֗ב]] [[H9002\|וּ]][[H9003\|בָ]][[H9034\|הּ֙]] [[H0068G\|אֶ֣בֶן]] [[H3368\|יְקָרָ֔ה]] [[H9001\|וַ]][[H1961\|תְּהִ֖י]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֣אשׁ]] [[H1732\|דָּוִ֑יד]] [[H9002\|וּ]][[H7998\|שְׁלַ֥ל]] [[H9009\|הָ]][[H5892B\|עִ֛יר]] [[H3318H\|הוֹצִ֖יא]] [[H7235A\|הַרְבֵּ֥ה]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CROWN|CROWN]] • [[topic JOAB|JOAB]] • [[topic RABBAH|RABBAH]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.1|<< 1 Chronicles 20:1]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.3|1 Chronicles 20:3 >>]]</td></tr></table>
 

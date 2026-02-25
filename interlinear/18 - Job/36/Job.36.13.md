@@ -1,8 +1,55 @@
+---
+title: Job 36:13
+type: Verse
+kjv: "But the hypocrites in heart heap up wrath: they cry not when he bindeth them."
+bsb: "The godless in heart harbor resentment; even when He binds them, they do not cry for help."
+hebrew: "וְֽחַנְפֵי־ לֵ֭ב יָשִׂ֣ימוּ אָ֑ף לֹ֥א יְ֝שַׁוְּע֗וּ כִּ֣י אֲסָרָֽם׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H9002]]"
+- "[[H2611]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H7760A]]"
+- "[[H0639G]]"
+- "[[H3808]]"
+- "[[H7768]]"
+- "[[H3588A]]"
+- "[[H0631]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:13**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the hypocrites in heart heap up wrath: they cry not when he bindeth them.
 <small><sub>**BSB:**</sub></small>
 The godless in heart harbor resentment; even when He binds them, they do not cry for help.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H2611\|חַנְפֵי]][[H9014\|־]] [[H3820A\|לֵ֭ב]] [[H7760A\|יָשִׂ֣ימוּ]] [[H0639G\|אָ֑ף]] [[H3808\|לֹ֥א]] [[H7768\|יְ֝שַׁוְּע֗וּ]] [[H3588A\|כִּ֣י]] [[H0631\|אֲסָרָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.12|<< Job 36:12]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.14|Job 36:14 >>]]</td></tr></table>
 

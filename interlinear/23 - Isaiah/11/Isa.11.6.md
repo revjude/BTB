@@ -1,8 +1,69 @@
+---
+title: Isaiah 11:6
+type: Verse
+kjv: "The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them."
+bsb: "The wolf will live with the lamb, and the leopard will lie down with the goat; the calf and young lion and fatling will be together, and a little child will lead them."
+hebrew: "וְגָ֤ר זְאֵב֙ עִם־ כֶּ֔בֶשׂ וְנָמֵ֖ר עִם־ גְּדִ֣י יִרְבָּ֑ץ וְעֵ֨גֶל וּכְפִ֤יר וּמְרִיא֙ יַחְדָּ֔ו וְנַ֥עַר קָטֹ֖ן נֹהֵ֥ג בָּֽם׃"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ALLEGORY|ALLEGORY]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEOPARD|LEOPARD]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WOLF|WOLF]]"
+strongs:
+- "[[H9001]]"
+- "[[H1481A]]"
+- "[[H2061]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3532]]"
+- "[[H9002]]"
+- "[[H5246]]"
+- "[[H1423]]"
+- "[[H7257]]"
+- "[[H5695]]"
+- "[[H3715A]]"
+- "[[H4806]]"
+- "[[H3162B]]"
+- "[[H5288]]"
+- "[[H6996B]]"
+- "[[H5090A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 11:6**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
 <small><sub>**BSB:**</sub></small>
 The wolf will live with the lamb, and the leopard will lie down with the goat; the calf and young lion and fatling will be together, and a little child will lead them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1481A\|גָ֤ר]] [[H2061\|זְאֵב֙]] [[H5973A\|עִם]][[H9014\|־]] [[H3532\|כֶּ֔בֶשׂ]] [[H9002\|וְ]][[H5246\|נָמֵ֖ר]] [[H5973A\|עִם]][[H9014\|־]] [[H1423\|גְּדִ֣י]] [[H7257\|יִרְבָּ֑ץ]] [[H9002\|וְ]][[H5695\|עֵ֨גֶל]] [[H9002\|וּ]][[H3715A\|כְפִ֤יר]] [[H9002\|וּ]][[H4806\|מְרִיא֙]] [[H3162B\|יַחְדָּ֔ו]] [[H9002\|וְ]][[H5288\|נַ֥עַר]] [[H6996B\|קָטֹ֖ן]] [[H5090A\|נֹהֵ֥ג]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALLEGORY|ALLEGORY]] • [[topic ANIMALS|ANIMALS]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEOPARD|LEOPARD]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WOLF|WOLF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.5|<< Isaiah 11:5]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.7|Isaiah 11:7 >>]]</td></tr></table>
 

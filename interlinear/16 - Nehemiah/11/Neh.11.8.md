@@ -1,8 +1,52 @@
+---
+title: Nehemiah 11:8
+type: Verse
+kjv: "And after him Gabbai, Sallai, nine hundred twenty and eight."
+bsb: "and his followers Gabbai and Sallai—928 men."
+hebrew: "וְאַחֲרָ֖יו גַּבַּ֣י סַלָּ֑י תְּשַׁ֥ע מֵא֖וֹת עֶשְׂרִ֥ים וּשְׁמֹנָֽה׃"
+pericope: "[[Neh.11.1 Jerusalem’s New Settlers|Jerusalem’s New Settlers]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic GABBAI|GABBAI]]"
+- "[[topic SALLAI|SALLAI]]"
+strongs:
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H1373]]"
+- "[[H5543A]]"
+- "[[H8672]]"
+- "[[H3967]]"
+- "[[H6242]]"
+- "[[H8083]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:8**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And after him Gabbai, Sallai, nine hundred twenty and eight.
 <small><sub>**BSB:**</sub></small>
 and his followers Gabbai and Sallai—928 men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0310A\|אַחֲרָ֖י]][[H9033\|ו]] [[H1373\|גַּבַּ֣י]] [[H5543A\|סַלָּ֑י]] [[H8672\|תְּשַׁ֥ע]] [[H3967\|מֵא֖וֹת]] [[H6242\|עֶשְׂרִ֥ים]] [[H9002\|וּ]][[H8083\|שְׁמֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GABBAI|GABBAI]] • [[topic SALLAI|SALLAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.7|<< Nehemiah 11:7]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.9|Nehemiah 11:9 >>]]</td></tr></table>
 

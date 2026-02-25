@@ -1,8 +1,57 @@
+---
+title: Joshua 2:8
+type: Verse
+kjv: "And before they were laid down, she came up unto them upon the roof;"
+bsb: "Before the spies lay down for the night, Rahab went up on the roof"
+hebrew: "וְהֵ֖מָּה טֶ֣רֶם יִשְׁכָּב֑וּן וְהִ֛יא עָלְתָ֥ה עֲלֵיהֶ֖ם עַל־ הַגָּֽג׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H2962]]"
+- "[[H7901G]]"
+- "[[H9013]]"
+- "[[H1931]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1406]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:8**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And before they were laid down, she came up unto them upon the roof;
 <small><sub>**BSB:**</sub></small>
 Before the spies lay down for the night, Rahab went up on the roof
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1992\|הֵ֖מָּה]] [[H2962\|טֶ֣רֶם]] [[H7901G\|יִשְׁכָּב֑וּ]][[H9013\|ן]] [[H9002\|וְ]][[H1931\|הִ֛יא]] [[H5927G\|עָלְתָ֥ה]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1406\|גָּֽג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HOUSE|HOUSE]] • [[topic KINDNESS|KINDNESS]] • [[topic RECONNOISSANCE|RECONNOISSANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.7|<< Joshua 2:7]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.9|Joshua 2:9 >>]]</td></tr></table>
 

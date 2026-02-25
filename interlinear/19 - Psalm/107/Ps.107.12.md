@@ -1,8 +1,58 @@
+---
+title: Psalm 107:12
+type: Verse
+kjv: "Therefore he brought down their heart with labour; they fell down, and there was none to help."
+bsb: "He humbled their hearts with hard labor; they stumbled, and there was no one to help."
+hebrew: "וַיַּכְנַ֣ע בֶּעָמָ֣ל לִבָּ֑ם כָּ֝שְׁל֗וּ וְאֵ֣ין עֹזֵֽר׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H9001]]"
+- "[[H3665]]"
+- "[[H9003]]"
+- "[[H5999]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H3782]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5826]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 107:12**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore he brought down their heart with labour; they fell down, and [there was] none to help.
 <small><sub>**BSB:**</sub></small>
 He humbled their hearts with hard labor; they stumbled, and there was no one to help.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3665\|יַּכְנַ֣ע]] [[H9003\|בֶּ]][[H5999\|עָמָ֣ל]] [[H3820A\|לִבָּ֑]][[H9028\|ם]] [[H3782\|כָּ֝שְׁל֗וּ]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H5826\|עֹזֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.11|<< Psalms 107:11]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.13|Psalms 107:13 >>]]</td></tr></table>
 

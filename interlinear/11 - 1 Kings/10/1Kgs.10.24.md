@@ -1,8 +1,63 @@
+---
+title: 1 Kings 10:24
+type: Verse
+kjv: "And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart."
+bsb: "The whole world sought an audience with Solomon to hear the wisdom that God had put in his heart."
+hebrew: "וְכָ֨ל־ הָאָ֔רֶץ מְבַקְשִׁ֖ים אֶת־ פְּנֵ֣י שְׁלֹמֹ֑ה לִשְׁמֹ֙עַ֙ אֶת־ חָכְמָת֔וֹ אֲשֶׁר־ נָתַ֥ן אֱלֹהִ֖ים בְּלִבּֽוֹ׃"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H6440H]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H2451]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:24**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart.
 <small><sub>**BSB:**</sub></small>
 The whole world sought an audience with Solomon to hear the wisdom that God had put in his heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָ֨ל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H1245\|מְבַקְשִׁ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פְּנֵ֣י]] [[H8010\|שְׁלֹמֹ֑ה]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֙עַ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2451\|חָכְמָת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414H\|נָתַ֥ן]] [[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בְּ]][[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic SOLOMON|SOLOMON]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.23|<< 1 Kings 10:23]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.25|1 Kings 10:25 >>]]</td></tr></table>
 

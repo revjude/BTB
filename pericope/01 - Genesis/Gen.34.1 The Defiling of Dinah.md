@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defiling of Dinah
+type: Pericope
 pericope: "[[Gen.34.1 The Defiling of Dinah|The Defiling of Dinah]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 34
 book/chapter: "[[Gen.34|Genesis 34]]"
-genre:
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 12
 verses:
 - "[[Gen.34.1]]"
 - "[[Gen.34.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Gen.34.12]]"
 ---
 
-[[Gen.34|Genesis 34:1 - Genesis 34:12]]
+<small>[[Gen.34|Genesis 34:1-12]]</small>
 *The Defiling of Dinah*
 
 [[Gen.34.1|1]] And Dinah the daughter of Leah, which she bare unto Jacob, went out to see the daughters of the land.

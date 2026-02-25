@@ -1,8 +1,73 @@
+---
+title: Jeremiah 28:11
+type: Verse
+kjv: "And Hananiah spake in the presence of all the people, saying, Thus saith the LORD; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way."
+bsb: "And in the presence of all the people Hananiah proclaimed, “This is what the LORD says: ‘In this way, within two years I will break the yoke of Nebuchadnezzar king of Babylon off the neck of all the nations.’” At this, Jeremiah the prophet went on his way."
+hebrew: "וַיֹּ֣אמֶר חֲנַנְיָה֩ לְעֵינֵ֨י כָל־ הָעָ֜ם לֵאמֹ֗ר כֹּה֮ אָמַ֣ר יְהוָה֒ כָּ֣כָה אֶשְׁבֹּ֞ר אֶת־ עֹ֣ל׀ נְבֻֽכַדְנֶאצַּ֣ר מֶֽלֶךְ־ בָּבֶ֗ל בְּעוֹד֙ שְׁנָתַ֣יִם יָמִ֔ים מֵעַ֕ל צַוַּ֖אר כָּל־ הַגּוֹיִ֑ם וַיֵּ֛לֶךְ יִרְמְיָ֥ה הַנָּבִ֖יא לְדַרְכּֽוֹ׃ פ"
+pericope: "[[Jer.28.1 Hananiah’s False Prophecy|Hananiah’s False Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 28
+book/chapter: "[[Jer.28|Jeremiah 28]]"
+chronological_order: 751
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2608A]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H3602]]"
+- "[[H7665]]"
+- "[[H0853]]"
+- "[[H5923]]"
+- "[[H9015]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9003]]"
+- "[[H5750]]"
+- "[[H8141]]"
+- "[[H3117G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6677A]]"
+- "[[H1471A]]"
+- "[[H1980G]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H1870L]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- L(abh)
+---
+
 **Jeremiah 28:11**<big><big>[[Jer.28.1 Hananiah’s False Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hananiah spake in the presence of all the people, saying, Thus saith the LORD; Even so will I break the yoke of Nebuchadnezzar king of Babylon from the neck of all nations within the space of two full years. And the prophet Jeremiah went his way.
 <small><sub>**BSB:**</sub></small>
 And in the presence of all the people Hananiah proclaimed, “This is what the LORD says: ‘In this way, within two years I will break the yoke of Nebuchadnezzar king of Babylon off the neck of all the nations.’” At this, Jeremiah the prophet went on his way.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H2608A\|חֲנַנְיָה֩]] [[H9005\|לְ]][[H5869J\|עֵינֵ֨י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H3541\|כֹּה֮]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָה֒]] [[H3602\|כָּ֣כָה]] [[H7665\|אֶשְׁבֹּ֞ר]] [[H0853\|אֶת]][[H9014\|־]] [[H5923\|עֹ֣ל]][[H9015\|׀]] [[H5019\|נְבֻֽכַדְנֶאצַּ֣ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֗ל]] [[H9003\|בְּ]][[H5750\|עוֹד֙]] [[H8141\|שְׁנָתַ֣יִם]] [[H3117G\|יָמִ֔ים]] [[H9006\|מֵ]][[H5921A\|עַ֕ל]] [[H6677A\|צַוַּ֖אר]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H9001\|וַ]][[H1980G\|יֵּ֛לֶךְ]] [[H3414L\|יִרְמְיָ֥ה]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H9005\|לְ]][[H1870L\|דַרְכּֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.28.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.10|<< Jeremiah 28:10]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.12|Jeremiah 28:12 >>]]</td></tr></table>
 
@@ -34,7 +99,7 @@ And in the presence of all the people Hananiah proclaimed, “This is what the L
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּ֛לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jeremiah  |**<big>&#8207;[[H3414L\|יִרְמְיָ֥ה]]&#8207; </big>**| yir.me.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the prophet  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5030\|נָּבִ֖יא]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> na.Vi'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to way his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1870L\|דַרְכּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to way his  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1870L\|דַרְכּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> dar.K<small><sup>[[HNcbsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.10|<< Jeremiah 28:10]]</td><td align="center" style="border:none;">[[Jer.28|Jeremiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.28.12|Jeremiah 28:12 >>]]</td></tr></table>
 
 [^1]: ABH spelled: **<span class="ashebrew"><big>מֵעַ֕ל\־</big></span>**

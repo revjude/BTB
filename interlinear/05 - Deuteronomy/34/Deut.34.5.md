@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 34:5
+type: Verse
+kjv: "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD."
+bsb: "So Moses the servant of the LORD died there in the land of Moab, as the LORD had said."
+hebrew: "וַיָּ֨מָת שָׁ֜ם מֹשֶׁ֧ה עֶֽבֶד־ יְהוָ֛ה בְּאֶ֥רֶץ מוֹאָ֖ב עַל־ פִּ֥י יְהוָֽה׃"
+pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 34
+book/chapter: "[[Deut.34|Deuteronomy 34]]"
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H8033G]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4124G]]"
+- "[[H5921A]]"
+- "[[H6310I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 34:5**<big><big>[[Deut.34.1 The Death of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD.
 <small><sub>**BSB:**</sub></small>
 So Moses the servant of the LORD died there in the land of Moab, as the LORD had said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֨מָת]] [[H8033G\|שָׁ֜ם]] [[H4872\|מֹשֶׁ֧ה]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H4124G\|מוֹאָ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.34.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.34.4|<< Deuteronomy 34:4]]</td><td align="center" style="border:none;">[[Deut.34|Deuteronomy 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.34.6|Deuteronomy 34:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

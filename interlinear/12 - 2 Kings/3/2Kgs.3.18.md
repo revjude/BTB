@@ -1,8 +1,55 @@
+---
+title: 2 Kings 3:18
+type: Verse
+kjv: "And this is but a light thing in the sight of the LORD: he will deliver the Moabites also into your hand."
+bsb: "This is a simple matter in the sight of the LORD, and He will also deliver the Moabites into your hand."
+hebrew: "וְנָקַ֥ל זֹ֖את בְּעֵינֵ֣י יְהוָ֑ה וְנָתַ֥ן אֶת־ מוֹאָ֖ב בְּיֶדְכֶֽם׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7043]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4124G]]"
+- "[[H3027H]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:18**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this is [but] a light thing in the sight of the LORD: he will deliver the Moabites also into your hand.
 <small><sub>**BSB:**</sub></small>
 This is a simple matter in the sight of the LORD, and He will also deliver the Moabites into your hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7043\|נָקַ֥ל]] [[H2063\|זֹ֖את]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H5414G\|נָתַ֥ן]] [[H0853\|אֶת]][[H9014\|־]] [[H4124G\|מוֹאָ֖ב]] [[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic MOABITES|MOABITES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.17|<< 2 Kings 3:17]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.19|2 Kings 3:19 >>]]</td></tr></table>
 

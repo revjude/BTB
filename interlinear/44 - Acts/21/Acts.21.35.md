@@ -1,10 +1,57 @@
+---
+title: Acts 21:35
+type: Verse
+kjv: "And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people."
+bsb: "When Paul reached the steps, he had to be carried by the soldiers because of the violence of the mob."
+greek: "ὅτε δὲ ἐγένετο ἐπὶ τοὺς ἀναβαθμούς, συνέβη βαστάζεσθαι αὐτὸν ὑπὸ τῶν στρατιωτῶν διὰ τὴν βίαν τοῦ ὄχλου·"
+pericope: "[[Acts.21.27 Paul Seized at the Temple|Paul Seized at the Temple]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0304]]"
+- "[[G4819]]"
+- "[[G0941]]"
+- "[[G0846]]"
+- "[[G5259G]]"
+- "[[G4757]]"
+- "[[G1223]]"
+- "[[G0970]]"
+- "[[G3793]]"
+texts:
+- NKO
+---
+
 **Acts 21:35**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.
 <small><sub>**BSB:**</sub></small>
 When Paul reached the steps, he had to be carried by the soldiers because of the violence of the mob.
-<small><sub>**Literal:**</sub></small>
-When now he came to the stairs, it happened that being carried he by the soldiers because of the violence of the crowd;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.34|<< Acts 21:34]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.36|Acts 21:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|ὅτε]]  [[G1161\|δὲ]]  [[G1096\|ἐγένετο]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G0304\|ἀναβαθμούς,]]  [[G4819\|συνέβη]]  [[G0941\|βαστάζεσθαι]]  [[G0846\|αὐτὸν]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῶν]]  [[G4757\|στρατιωτῶν]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G0970\|βίαν]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.34|<< Acts 21:34]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.36|Acts 21:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

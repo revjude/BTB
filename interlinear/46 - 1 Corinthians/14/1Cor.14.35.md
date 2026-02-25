@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 14:35
+type: Verse
+kjv: "And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church."
+bsb: "If they wish to inquire about something, they are to ask their own husbands at home; for it is dishonorable for a woman to speak in the church."
+greek: "εἰ δέ τι μαθεῖν θέλουσιν, ἐν οἴκῳ τοὺς ἰδίους ἄνδρας ἐπερωτάτωσαν· αἰσχρὸν γάρ ἐστιν γυναικὶ λαλεῖν ἐν ἐκκλησίᾳ."
+pericope: "[[1Cor.14.26 Orderly Worship|Orderly Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3129]]"
+- "[[G2309]]"
+- "[[G1722]]"
+- "[[G3624G]]"
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G0435H]]"
+- "[[G1905]]"
+- "[[G0150]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G1135G]]"
+- "[[G2980]]"
+- "[[G1577]]"
+texts:
+- NKO
+- NK(o)
+- N(K)O
+---
+
 **1 Corinthians 14:35**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.
 <small><sub>**BSB:**</sub></small>
 If they wish to inquire about something, they are to ask their own husbands at home; for it is dishonorable for a woman to speak in the church.
-<small><sub>**Literal:**</sub></small>
-If however anything to learn they desire, at home <the> [their] own husbands they should ask; shameful for it is for a woman to speak in [the] church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.34|<< 1 Corinthians 14:34]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.36|1 Corinthians 14:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δέ]]  [[G5100\|τι]]  [[G3129\|μαθεῖν]]  [[G2309\|θέλουσιν,]]  [[G1722\|ἐν]]  [[G3624G\|οἴκῳ]]  [[G3588\|τοὺς]]  [[G2398\|ἰδίους]]  [[G0435H\|ἄνδρας]]  [[G1905\|ἐπερωτάτωσαν·]]  [[G0150\|αἰσχρὸν]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G1135G\|γυναικὶ]]  [[G2980\|λαλεῖν]]  [[G1722\|ἐν]]  [[G1577\|ἐκκλησίᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.34|<< 1 Corinthians 14:34]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.36|1 Corinthians 14:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

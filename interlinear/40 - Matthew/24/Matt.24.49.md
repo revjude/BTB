@@ -1,10 +1,63 @@
+---
+title: Matthew 24:49
+type: Verse
+kjv: "And shall begin to smite his fellowservants, and to eat and drink with the drunken;"
+bsb: "And he begins to beat his fellow servants and to eat and drink with drunkards."
+jesus_said: "And shall begin to smite his fellowservants, and to eat and drink with the drunken;"
+greek: "καὶ ἄρξηται τύπτειν τοὺς συνδούλους αὐτοῦ, ἐσθίῃ δὲ καὶ πίνῃ μετὰ τῶν μεθυόντων,"
+pericope: "[[Matt.24.36 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OVERSEER|OVERSEER]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0757]]"
+- "[[G5180]]"
+- "[[G3588]]"
+- "[[G4889]]"
+- "[[G0846]]"
+- "[[G2068]]"
+- "[[G1161]]"
+- "[[G4095]]"
+- "[[G3326]]"
+- "[[G3184]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 24:49**<big><big>[[Matt.24.36 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And shall begin to smite [his] fellowservants, and to eat and drink with the drunken;
 <small><sub>**BSB:**</sub></small>
 And he begins to beat his fellow servants and to eat and drink with drunkards.
-<small><sub>**Literal:**</sub></small>
-and may begin to beat the fellow servants of him, he may eat then and he may drink with those being drunkards,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.48|<< Matthew 24:48]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.50|Matthew 24:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0757\|ἄρξηται]]  [[G5180\|τύπτειν]]  [[G3588\|τοὺς]]  [[G4889\|συνδούλους]]  [[G0846\|αὐτοῦ,]]  [[G2068\|ἐσθίῃ]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G4095\|πίνῃ]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G3184\|μεθυόντων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OVERSEER|OVERSEER]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SERVANT|SERVANT]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.48|<< Matthew 24:48]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.50|Matthew 24:50 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

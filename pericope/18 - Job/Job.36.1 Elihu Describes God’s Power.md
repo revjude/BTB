@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elihu Describes God’s Power
+type: Pericope
 pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
-verse_count: 33
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 36
 book/chapter: "[[Job.36|Job 36]]"
-genre:
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 33
 verses:
 - "[[Job.36.1]]"
 - "[[Job.36.2]]"
@@ -52,7 +59,7 @@ verses:
 - "[[Job.36.33]]"
 ---
 
-[[Job.36|Job 36:1 - Job 36:33]]
+<small>[[Job.36|Job 36:1-33]]</small>
 *Elihu Describes God’s Power*
 
 [[Job.36.1|1]] Elihu also proceeded, and said,

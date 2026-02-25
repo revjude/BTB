@@ -1,8 +1,65 @@
+---
+title: Genesis 32:4
+type: Verse
+kjv: "And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:"
+bsb: "He instructed them, “You are to say to my master Esau, ‘Your servant Jacob says: I have been staying with Laban and have remained there until now."
+hebrew: "וַיְצַ֤ו אֹתָם֙ לֵאמֹ֔ר כֹּ֣ה תֹאמְר֔וּן לַֽאדֹנִ֖י לְעֵשָׂ֑ו כֹּ֤ה אָמַר֙ עַבְדְּךָ֣ יַעֲקֹ֔ב עִם־ לָבָ֣ן גַּ֔רְתִּי וָאֵחַ֖ר עַד־ עָֽתָּה׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H9013]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H6215G]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3290]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3837A]]"
+- "[[H1481A]]"
+- "[[H0309]]"
+- "[[H5704]]"
+- "[[H6258]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:4**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:
 <small><sub>**BSB:**</sub></small>
 He instructed them, “You are to say to my master Esau, ‘Your servant Jacob says: I have been staying with Laban and have remained there until now.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֤ו]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3541\|כֹּ֣ה]] [[H0559\|תֹאמְר֔וּ]][[H9013\|ן]] [[H9005\|לַֽ]][[H0113\|אדֹנִ֖]][[H9020\|י]] [[H9005\|לְ]][[H6215G\|עֵשָׂ֑ו]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֣]] [[H3290\|יַעֲקֹ֔ב]] [[H5973A\|עִם]][[H9014\|־]] [[H3837A\|לָבָ֣ן]] [[H1481A\|גַּ֔רְתִּי]] [[H9001\|וָ]][[H0309\|אֵחַ֖ר]] [[H5704\|עַד]][[H9014\|־]] [[H6258\|עָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.3|<< Genesis 32:3]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.5|Genesis 32:5 >>]]</td></tr></table>
 

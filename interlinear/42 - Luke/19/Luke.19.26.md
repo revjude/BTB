@@ -1,10 +1,71 @@
+---
+title: Luke 19:26
+type: Verse
+kjv: "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him."
+bsb: "He replied, ‘I tell you that everyone who has will be given more; but the one who does not have, even what he has will be taken away from him."
+jesus_said: "For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him."
+greek: "λέγω γὰρ ὑμῖν ὅτι παντὶ τῷ ἔχοντι δοθήσεται, ἀπὸ δὲ τοῦ μὴ ἔχοντος καὶ ὃ ἔχει ἀρθήσεται ἀπ᾽ αὐτοῦ.¶"
+pericope: "[[Luke.19.11 The Parable of the Ten Minas|The Parable of the Ten Minas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2192]]"
+- "[[G1325]]"
+- "[[G0575]]"
+- "[[G1161]]"
+- "[[G3361]]"
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G0142]]"
+- "[[G0846]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 19:26**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I say unto you, That unto every one which hath shall be given; and from him that hath not, even that he hath shall be taken away from him.
 <small><sub>**BSB:**</sub></small>
 He replied, ‘I tell you that everyone who has will be given more; but the one who does not have, even what he has will be taken away from him.
-<small><sub>**Literal:**</sub></small>
-I say for to you that to everyone who is having will be given, from however the [one] not having even that which he has will be taken away from of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.25|<< Luke 19:25]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.27|Luke 19:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G2192\|ἔχοντι]]  [[G1325\|δοθήσεται,]]  [[G0575\|ἀπὸ]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G3361\|μὴ]]  [[G2192\|ἔχοντος]]  [[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G2192\|ἔχει]]  [[G0142\|ἀρθήσεται]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.25|<< Luke 19:25]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.27|Luke 19:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

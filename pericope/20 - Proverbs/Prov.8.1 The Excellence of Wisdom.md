@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Excellence of Wisdom
+type: Pericope
 pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
-verse_count: 36
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 8
 book/chapter: "[[Prov.8|Proverbs 8]]"
-genre:
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 36
 verses:
 - "[[Prov.8.1]]"
 - "[[Prov.8.2]]"
@@ -54,7 +61,7 @@ verses:
 - "[[Prov.8.36]]"
 ---
 
-[[Prov.8|Proverbs 8:1 - Proverbs 8:36]]
+<small>[[Prov.8|Proverbs 8:1-36]]</small>
 *The Excellence of Wisdom*
 
 [[Prov.8.1|1]] Doth not wisdom cry? and understanding put forth her voice?

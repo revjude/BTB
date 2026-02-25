@@ -1,8 +1,62 @@
+---
+title: Ezekiel 38:11
+type: Verse
+kjv: "And thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,"
+bsb: "You will say, ‘I will go up against a land of unwalled villages; I will come against a quiet people who dwell securely, all of them living without walls or bars or gates—"
+hebrew: "וְאָמַרְתָּ֗ אֶֽעֱלֶה֙ עַל־ אֶ֣רֶץ פְּרָז֔וֹת אָבוֹא֙ הַשֹּׁ֣קְטִ֔ים יֹשְׁבֵ֖י לָבֶ֑טַח כֻּלָּ֗ם יֹֽשְׁבִים֙ בְּאֵ֣ין חוֹמָ֔ה וּבְרִ֥יחַ וּדְלָתַ֖יִם אֵ֥ין לָהֶֽם׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H6519]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H8252]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H0983]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H0369]]"
+- "[[H2346G]]"
+- "[[H9002]]"
+- "[[H1280]]"
+- "[[H1817C]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:11**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,
 <small><sub>**BSB:**</sub></small>
 You will say, ‘I will go up against a land of unwalled villages; I will come against a quiet people who dwell securely, all of them living without walls or bars or gates—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֗]] [[H5927G\|אֶֽעֱלֶה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H6519\|פְּרָז֔וֹת]] [[H0935G\|אָבוֹא֙]] [[H9009\|הַ]][[H8252\|שֹּׁ֣קְטִ֔ים]] [[H3427\|יֹשְׁבֵ֖י]] [[H9005\|לָ]][[H0983\|בֶ֑טַח]] [[H3605\|כֻּלָּ֗]][[H9028\|ם]] [[H3427\|יֹֽשְׁבִים֙]] [[H9003\|בְּ]][[H0369\|אֵ֣ין]] [[H2346G\|חוֹמָ֔ה]] [[H9002\|וּ]][[H1280\|בְרִ֥יחַ]] [[H9002\|וּ]][[H1817C\|דְלָתַ֖יִם]] [[H0369\|אֵ֥ין]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.10|<< Ezekiel 38:10]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.12|Ezekiel 38:12 >>]]</td></tr></table>
 

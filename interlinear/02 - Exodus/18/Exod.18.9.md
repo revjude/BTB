@@ -1,8 +1,64 @@
+---
+title: Exodus 18:9
+type: Verse
+kjv: "And Jethro rejoiced for all the goodness which the LORD had done to Israel, whom he had delivered out of the hand of the Egyptians."
+bsb: "And Jethro rejoiced over all the good things the LORD had done for Israel, whom He had rescued from the hand of the Egyptians."
+hebrew: "וַיִּ֣חַדְּ יִתְר֔וֹ עַ֚ל כָּל־ הַטּוֹבָ֔ה אֲשֶׁר־ עָשָׂ֥ה יְהוָ֖ה לְיִשְׂרָאֵ֑ל אֲשֶׁ֥ר הִצִּיל֖וֹ מִיַּ֥ד מִצְרָֽיִם׃"
+pericope: "[[Exod.18.1 The Visit of Jethro|The Visit of Jethro]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H2302]]"
+- "[[H3503]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2896C]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H3478]]"
+- "[[H5337]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:9**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jethro rejoiced for all the goodness which the LORD had done to Israel, whom he had delivered out of the hand of the Egyptians.
 <small><sub>**BSB:**</sub></small>
 And Jethro rejoiced over all the good things the LORD had done for Israel, whom He had rescued from the hand of the Egyptians.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2302\|יִּ֣חַדְּ]] [[H3503\|יִתְר֔וֹ]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2896C\|טּוֹבָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H5337\|הִצִּיל֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H3027H\|יַּ֥ד]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.8|<< Exodus 18:8]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.10|Exodus 18:10 >>]]</td></tr></table>
 

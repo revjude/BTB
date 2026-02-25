@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Where, O Death, Is Your Victory？
+type: Pericope
 pericope: "[[1Cor.15.50 Where, O Death, Is Your Victory？|Where, O Death, Is Your Victory？]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 15
 book/chapter: "[[1Cor.15|1 Corinthians 15]]"
-genre:
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 9
 verses:
 - "[[1Cor.15.50]]"
 - "[[1Cor.15.51]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Cor.15.58]]"
 ---
 
-[[1Cor.15|1 Corinthians 15:50 - 1 Corinthians 15:58]]
+<small>[[1Cor.15|1 Corinthians 15:50-58]]</small>
 *Where, O Death, Is Your Victory？*
 
 [[1Cor.15.50|50]] Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption.

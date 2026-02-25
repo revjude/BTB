@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Manasseh
+type: Pericope
 pericope: "[[1Chr.7.14 The Descendants of Manasseh|The Descendants of Manasseh]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 7
 book/chapter: "[[1Chr.7|1 Chronicles 7]]"
-genre:
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 6
 verses:
 - "[[1Chr.7.14]]"
 - "[[1Chr.7.15]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Chr.7.19]]"
 ---
 
-[[1Chr.7|1 Chronicles 7:14 - 1 Chronicles 7:19]]
+<small>[[1Chr.7|1 Chronicles 7:14-19]]</small>
 *The Descendants of Manasseh*
 
 [[1Chr.7.14|14]] The sons of Manasseh; Ashriel, whom she bare: (\[but\] his concubine the Aramitess bare Machir the father of Gilead:

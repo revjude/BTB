@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burial of Jesus
+type: Pericope
 pericope: "[[Luke.23.50 The Burial of Jesus|The Burial of Jesus]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Luke
 chapter: 23
 book/chapter: "[[Luke.23|Luke 23]]"
-genre:
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 7
 verses:
 - "[[Luke.23.50]]"
 - "[[Luke.23.51]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Luke.23.56]]"
 ---
 
-[[Luke.23|Luke 23:50 - Luke 23:56]]
+<small>[[Luke.23|Luke 23:50-56]]</small>
 *The Burial of Jesus*
 
 [[Luke.23.50|50]] And, behold, \[there was\] a man named Joseph, a counseller; \[and he was\] a good man, and a just:

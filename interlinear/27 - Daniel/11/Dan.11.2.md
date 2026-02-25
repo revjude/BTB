@@ -1,8 +1,70 @@
+---
+title: Daniel 11:2
+type: Verse
+kjv: "And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than they all: and by his strength through his riches he shall stir up all against the realm of Grecia."
+bsb: "Now then, I will tell you the truth: Three more kings will arise in Persia, and then a fourth, who will be far richer than all the others. By the power of his wealth, he will stir up everyone against the kingdom of Greece."
+hebrew: "וְעַתָּ֕ה אֱמֶ֖ת אַגִּ֣יד לָ֑ךְ הִנֵּה־ עוֹד֩ שְׁלֹשָׁ֨ה מְלָכִ֜ים עֹמְדִ֣ים לְפָרַ֗ס וְהָֽרְבִיעִי֙ יַעֲשִׁ֤יר עֹֽשֶׁר־ גָּדוֹל֙ מִכֹּ֔ל וּכְחֶזְקָת֣וֹ בְעָשְׁר֔וֹ יָעִ֣יר הַכֹּ֔ל אֵ֖ת מַלְכ֥וּת יָוָֽן׃"
+pericope: "[[Dan.11.1 Kings of the South and North|Kings of the South and North]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 11
+book/chapter: "[[Dan.11|Daniel 11]]"
+chronological_order: 847
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0571H]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H7969]]"
+- "[[H4428G]]"
+- "[[H5975I]]"
+- "[[H6539]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H6238]]"
+- "[[H6239]]"
+- "[[H1419A]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9004]]"
+- "[[H2393]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H5782]]"
+- "[[H0853]]"
+- "[[H4438]]"
+- "[[H3120H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 11:2**<big><big>[[Dan.11.1 Kings of the South and North|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now will I shew thee the truth. Behold, there shall stand up yet three kings in Persia; and the fourth shall be far richer than [they] all: and by his strength through his riches he shall stir up all against the realm of Grecia.
 <small><sub>**BSB:**</sub></small>
 Now then, I will tell you the truth: Three more kings will arise in Persia, and then a fourth, who will be far richer than all the others. By the power of his wealth, he will stir up everyone against the kingdom of Greece.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H0571H\|אֱמֶ֖ת]] [[H5046\|אַגִּ֣יד]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H5750\|עוֹד֩]] [[H7969\|שְׁלֹשָׁ֨ה]] [[H4428G\|מְלָכִ֜ים]] [[H5975I\|עֹמְדִ֣ים]] [[H9005\|לְ]][[H6539\|פָרַ֗ס]] [[H9002\|וְ]][[H9009\|הָֽ]][[H7243\|רְבִיעִי֙]] [[H6238\|יַעֲשִׁ֤יר]] [[H6239\|עֹֽשֶׁר]][[H9014\|־]] [[H1419A\|גָּדוֹל֙]] [[H9006\|מִ]][[H3605\|כֹּ֔ל]] [[H9002\|וּ]][[H9004\|כְ]][[H2393\|חֶזְקָת֣]][[H9023\|וֹ]] [[H9003\|בְ]][[H6239\|עָשְׁר֔]][[H9023\|וֹ]] [[H5782\|יָעִ֣יר]] [[H9009\|הַ]][[H3605\|כֹּ֔ל]] [[H0853\|אֵ֖ת]] [[H4438\|מַלְכ֥וּת]] [[H3120H\|יָוָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.11.1|<< Daniel 11:1]]</td><td align="center" style="border:none;">[[Dan.11|Daniel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.11.3|Daniel 11:3 >>]]</td></tr></table>
 

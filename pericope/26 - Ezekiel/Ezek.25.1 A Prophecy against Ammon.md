@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Ammon
+type: Pericope
 pericope: "[[Ezek.25.1 A Prophecy against Ammon|A Prophecy against Ammon]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 25
 book/chapter: "[[Ezek.25|Ezekiel 25]]"
-genre:
+chronological_order: 816
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.25.1]]"
 - "[[Ezek.25.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.25.7]]"
 ---
 
-[[Ezek.25|Ezekiel 25:1 - Ezekiel 25:7]]
+<small>[[Ezek.25|Ezekiel 25:1-7]]</small>
 *A Prophecy against Ammon*
 
 [[Ezek.25.1|1]] The word of the LORD came again unto me, saying,

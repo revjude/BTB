@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 2:31
+type: Verse
+kjv: "But the servants of David had smitten of Benjamin, and of Abner’s men, so that three hundred and threescore men died."
+bsb: "but they had struck down 360 Benjamites who were with Abner."
+hebrew: "וְעַבְדֵ֣י דָוִ֗ד הִכּוּ֙ מִבִּנְיָמִ֔ן וּבְאַנְשֵׁ֖י אַבְנֵ֑ר שְׁלֹשׁ־ מֵא֧וֹת וְשִׁשִּׁ֛ים אִ֖ישׁ מֵֽתוּ׃"
+pericope: "[[2Sam.2.12 The Battle of Gibeon|The Battle of Gibeon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 2
+book/chapter: "[[2Sam.2|2 Samuel 2]]"
+chronological_order: 330
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic TRUCE|TRUCE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H1732]]"
+- "[[H5221]]"
+- "[[H9006]]"
+- "[[H1144G]]"
+- "[[H9003]]"
+- "[[H0582]]"
+- "[[H0074]]"
+- "[[H7969]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H8346]]"
+- "[[H0376G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 2:31**<big><big>[[2Sam.2.12 The Battle of Gibeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the servants of David had smitten of Benjamin, and of Abner’s men, [so that] three hundred and threescore men died.
 <small><sub>**BSB:**</sub></small>
 but they had struck down 360 Benjamites who were with Abner.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5650\|עַבְדֵ֣י]] [[H1732\|דָוִ֗ד]] [[H5221\|הִכּוּ֙]] [[H9006\|מִ]][[H1144G\|בִּנְיָמִ֔ן]] [[H9002\|וּ]][[H9003\|בְ]][[H0582\|אַנְשֵׁ֖י]] [[H0074\|אַבְנֵ֑ר]] [[H7969\|שְׁלֹשׁ]][[H9014\|־]] [[H3967\|מֵא֧וֹת]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֛ים]] [[H0376G\|אִ֖ישׁ]] [[H4191\|מֵֽתוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic BENJAMIN|BENJAMIN]] • [[topic DAVID|DAVID]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic TRUCE|TRUCE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.2.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.2.30|<< 2 Samuel 2:30]]</td><td align="center" style="border:none;">[[2Sam.2|2 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.2.32|2 Samuel 2:32 >>]]</td></tr></table>
 

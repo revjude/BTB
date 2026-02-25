@@ -1,8 +1,79 @@
+---
+title: Exodus 32:34
+type: Verse
+kjv: "Therefore now go, lead the people unto the place of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them."
+bsb: "Now go, lead the people to the place I described. Behold, My angel shall go before you. But on the day I settle accounts, I will punish them for their sin.”"
+hebrew: "וְעַתָּ֞ה לֵ֣ךְ׀ נְחֵ֣ה אֶת־ הָעָ֗ם אֶ֤ל אֲשֶׁר־ דִּבַּ֙רְתִּי֙ לָ֔ךְ הִנֵּ֥ה מַלְאָכִ֖י יֵלֵ֣ךְ לְפָנֶ֑יךָ וּבְי֣וֹם פָּקְדִ֔י וּפָקַדְתִּ֥י עֲלֵיהֶ֖ם חַטָּאתָֽם׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H1980G]]"
+- "[[H9015]]"
+- "[[H5148]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H2009]]"
+- "[[H4397H]]"
+- "[[H9020]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H6485I]]"
+- "[[H9040]]"
+- "[[H9001]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H2403B]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:34**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore now go, lead the people unto [the place] of which I have spoken unto thee: behold, mine Angel shall go before thee: nevertheless in the day when I visit I will visit their sin upon them.
 <small><sub>**BSB:**</sub></small>
 Now go, lead the people to the place I described. Behold, My angel shall go before you. But on the day I settle accounts, I will punish them for their sin.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֞ה]] [[H1980G\|לֵ֣ךְ]][[H9015\|׀]] [[H5148\|נְחֵ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H0413\|אֶ֤ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבַּ֙רְתִּי֙]] [[H9005\|לָ֔]][[H9031\|ךְ]] [[H2009\|הִנֵּ֥ה]] [[H4397H\|מַלְאָכִ֖]][[H9020\|י]] [[H1980G\|יֵלֵ֣ךְ]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֣וֹם]] [[H6485I\|פָּקְדִ֔]][[H9040\|י]] [[H9001\|וּ]][[H6485I\|פָקַדְתִּ֥י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H2403B\|חַטָּאתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.33|<< Exodus 32:33]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.35|Exodus 32:35 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 13:35
+type: Verse
+kjv: "And Jonadab said unto the king, Behold, the king’s sons come: as thy servant said, so it is."
+bsb: "So Jonadab said to the king, “Look, the sons of the king have arrived! It is just as your servant said.”"
+hebrew: "וַיֹּ֤אמֶר יֽוֹנָדָב֙ אֶל־ הַמֶּ֔לֶךְ הִנֵּ֥ה בְנֵֽי־ הַמֶּ֖לֶךְ בָּ֑אוּ כִּדְבַ֥ר עַבְדְּךָ֖ כֵּ֥ן הָיָֽה׃"
+pericope: "[[2Sam.13.34 Absalom Flees to Geshur|Absalom Flees to Geshur]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic FUGITIVES|FUGITIVES]]"
+- "[[topic JONADAB|JONADAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3122G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H2009]]"
+- "[[H1121A]]"
+- "[[H0935G]]"
+- "[[H9004]]"
+- "[[H1697H]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3651C]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:35**<big><big>[[2Sam.13.34 Absalom Flees to Geshur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonadab said unto the king, Behold, the king’s sons come: as thy servant said, so it is.
 <small><sub>**BSB:**</sub></small>
 So Jonadab said to the king, “Look, the sons of the king have arrived! It is just as your servant said.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3122G\|יֽוֹנָדָב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H2009\|הִנֵּ֥ה]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0935G\|בָּ֑אוּ]] [[H9004\|כִּ]][[H1697H\|דְבַ֥ר]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H3651C\|כֵּ֥ן]] [[H1961\|הָיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FUGITIVES|FUGITIVES]] • [[topic JONADAB|JONADAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.34|<< 2 Samuel 13:34]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.36|2 Samuel 13:36 >>]]</td></tr></table>
 

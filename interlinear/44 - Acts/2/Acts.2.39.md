@@ -1,10 +1,63 @@
+---
+title: Acts 2:39
+type: Verse
+kjv: "For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call."
+bsb: "This promise belongs to you and your children and to all who are far off—to all whom the Lord our God will call to Himself.”"
+greek: "ὑμῖν γάρ ἐστιν ἡ ἐπαγγελία καὶ τοῖς τέκνοις ὑμῶν καὶ πᾶσιν τοῖς εἰς μακράν, ὅσους ἂν προσκαλέσηται κύριος ὁ θεὸς ἡμῶν."
+pericope: "[[Acts.2.37 Three Thousand Believe|Three Thousand Believe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4771]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G1860]]"
+- "[[G2532]]"
+- "[[G5043]]"
+- "[[G3956]]"
+- "[[G1519]]"
+- "[[G3112]]"
+- "[[G3745]]"
+- "[[G0302]]"
+- "[[G4341]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Acts 2:39**<big><big>[[Acts.2.37 Three Thousand Believe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the promise is unto you, and to your children, and to all that are afar off, [even] as many as the Lord our God shall call.
 <small><sub>**BSB:**</sub></small>
 This promise belongs to you and your children and to all who are far off—to all whom the Lord our God will call to Himself.”
-<small><sub>**Literal:**</sub></small>
-To you for is the promise and to the children of you and to all those at a distance, as many as maybe may call to Himself [the] Lord the God of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.38|<< Acts 2:38]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.40|Acts 2:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμῖν]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G3588\|ἡ]]  [[G1860\|ἐπαγγελία]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G5043\|τέκνοις]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1519\|εἰς]]  [[G3112\|μακράν,]]  [[G3745\|ὅσους]]  [[G0302\|ἂν]]  [[G4341\|προσκαλέσηται]]  [[G2962G\|κύριος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3165\|ἡμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic REVIVALS|REVIVALS]] • [[topic SALVATION|SALVATION]] • [[topic SELF-DEFENSE|SELF-DEFENSE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.38|<< Acts 2:38]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.40|Acts 2:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

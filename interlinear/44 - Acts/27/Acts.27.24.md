@@ -1,10 +1,60 @@
+---
+title: Acts 27:24
+type: Verse
+kjv: "Saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee."
+bsb: "and said, ‘Do not be afraid, Paul; you must stand before Caesar. And look, God has granted you the lives of all who sail with you.’"
+greek: "λέγων· μὴ φοβοῦ, Παῦλε, Καίσαρί σε δεῖ παραστῆναι, καὶ ἰδοὺ κεχάρισταί σοι ὁ θεὸς πάντας τοὺς πλέοντας μετὰ σοῦ."
+pericope: "[[Acts.27.13 The Storm at Sea|The Storm at Sea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G3972G]]"
+- "[[G2541]]"
+- "[[G4771]]"
+- "[[G1163]]"
+- "[[G3936]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G5483]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3956]]"
+- "[[G4126]]"
+- "[[G3326]]"
+texts:
+- NKO
+---
+
 **Acts 27:24**<big><big>[[Acts.27.13 The Storm at Sea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, Fear not, Paul; thou must be brought before Caesar: and, lo, God hath given thee all them that sail with thee.
 <small><sub>**BSB:**</sub></small>
 and said, ‘Do not be afraid, Paul; you must stand before Caesar. And look, God has granted you the lives of all who sail with you.’
-<small><sub>**Literal:**</sub></small>
-saying; Not do fear, Paul, to Caesar you it behooves to stand before, And behold has granted to you <the> God all those sailing with you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.23|<< Acts 27:23]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.25|Acts 27:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγων·]]  [[G3361\|μὴ]]  [[G5399\|φοβοῦ,]]  [[G3972G\|Παῦλε,]]  [[G2541\|Καίσαρί]]  [[G4771\|σε]]  [[G1163\|δεῖ]]  [[G3936\|παραστῆναι,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G5483\|κεχάρισταί]]  [[G4771\|σοι]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G4126\|πλέοντας]]  [[G3326\|μετὰ]]  [[G4771\|σοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.23|<< Acts 27:23]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.25|Acts 27:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Strengthening the Disciples
+type: Pericope
 pericope: "[[Acts.14.21 Strengthening the Disciples|Strengthening the Disciples]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Acts
 chapter: 14
 book/chapter: "[[Acts.14|Acts 14]]"
-genre:
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 8
 verses:
 - "[[Acts.14.21]]"
 - "[[Acts.14.22]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Acts.14.28]]"
 ---
 
-[[Acts.14|Acts 14:21 - Acts 14:28]]
+<small>[[Acts.14|Acts 14:21-28]]</small>
 *Strengthening the Disciples*
 
 [[Acts.14.21|21]] And when they had preached the gospel to that city, and had taught many, they returned again to Lystra, and \[to\] Iconium, and Antioch,

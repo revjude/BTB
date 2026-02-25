@@ -1,8 +1,57 @@
+---
+title: Ezekiel 45:12
+type: Verse
+kjv: "And the shekel shall be twenty gerahs: twenty shekels, five and twenty shekels, fifteen shekels, shall be your maneh."
+bsb: "The shekel will consist of twenty gerahs. Twenty shekels plus twenty-five shekels plus fifteen shekels will equal one mina."
+hebrew: "וְהַשֶּׁ֖קֶל עֶשְׂרִ֣ים גֵּרָ֑ה עֶשְׂרִ֨ים שְׁקָלִ֜ים חֲמִשָּׁ֧ה וְעֶשְׂרִ֣ים שְׁקָלִ֗ים עֲשָׂרָ֤ה וַחֲמִשָּׁה֙ שֶׁ֔קֶל הַמָּנֶ֖ה יִֽהְיֶ֥ה לָכֶֽם׃"
+pericope: "[[Ezek.45.10 Honest Scales|Honest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SHEKEL|SHEKEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8255]]"
+- "[[H6242]]"
+- "[[H1626]]"
+- "[[H2568]]"
+- "[[H6235]]"
+- "[[H4488]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:12**<big><big>[[Ezek.45.10 Honest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the shekel [shall be] twenty gerahs: twenty shekels, five and twenty shekels, fifteen shekels, shall be your maneh.
 <small><sub>**BSB:**</sub></small>
 The shekel will consist of twenty gerahs. Twenty shekels plus twenty-five shekels plus fifteen shekels will equal one mina.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H8255\|שֶּׁ֖קֶל]] [[H6242\|עֶשְׂרִ֣ים]] [[H1626\|גֵּרָ֑ה]] [[H6242\|עֶשְׂרִ֨ים]] [[H8255\|שְׁקָלִ֜ים]] [[H2568\|חֲמִשָּׁ֧ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֣ים]] [[H8255\|שְׁקָלִ֗ים]] [[H6235\|עֲשָׂרָ֤ה]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁה֙]] [[H8255\|שֶׁ֔קֶל]] [[H9009\|הַ]][[H4488\|מָּנֶ֖ה]] [[H1961\|יִֽהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic MEASURE|MEASURE]] • [[topic SHEKEL|SHEKEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.11|<< Ezekiel 45:11]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.13|Ezekiel 45:13 >>]]</td></tr></table>
 

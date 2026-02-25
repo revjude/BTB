@@ -1,8 +1,64 @@
+---
+title: Ezekiel 18:25
+type: Verse
+kjv: "Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?"
+bsb: "Yet you say, ‘The way of the Lord is not just.’ Hear now, O house of Israel: Is it My way that is unjust? Is it not your ways that are unjust?"
+hebrew: "וַאֲמַרְתֶּ֕ם לֹ֥א יִתָּכֵ֖ן דֶּ֣רֶךְ אֲדֹנָ֑י שִׁמְעוּ־ נָא֙ בֵּ֣ית יִשְׂרָאֵ֔ל הֲדַרְכִּי֙ לֹ֣א יִתָּכֵ֔ן הֲלֹ֥א דַרְכֵיכֶ֖ם לֹ֥א יִתָּכֵֽנוּ׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H8505]]"
+- "[[H1870G]]"
+- "[[H0136]]"
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9008]]"
+- "[[H9020]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 18:25**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?
 <small><sub>**BSB:**</sub></small>
 Yet you say, ‘The way of the Lord is not just.’ Hear now, O house of Israel: Is it My way that is unjust? Is it not your ways that are unjust?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|אֲמַרְתֶּ֕ם]] [[H3808\|לֹ֥א]] [[H8505\|יִתָּכֵ֖ן]] [[H1870G\|דֶּ֣רֶךְ]] [[H0136\|אֲדֹנָ֑י]] [[H8085G\|שִׁמְעוּ]][[H9014\|־]] [[H4994\|נָא֙]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9008\|הֲ]][[H1870G\|דַרְכִּ]][[H9020\|י֙]] [[H3808\|לֹ֣א]] [[H8505\|יִתָּכֵ֔ן]] [[H9008\|הֲ]][[H3808\|לֹ֥א]] [[H1870G\|דַרְכֵי]][[H9026\|כֶ֖ם]] [[H3808\|לֹ֥א]] [[H8505\|יִתָּכֵֽנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic CHILDREN|CHILDREN]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.24|<< Ezekiel 18:24]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.26|Ezekiel 18:26 >>]]</td></tr></table>
 

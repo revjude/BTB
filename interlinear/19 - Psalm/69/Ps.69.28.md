@@ -1,8 +1,57 @@
+---
+title: Psalm 69:28
+type: Verse
+kjv: "Let them be blotted out of the book of the living, and not be written with the righteous."
+bsb: "May they be blotted out of the Book of Life and not listed with the righteous."
+hebrew: "יִ֭מָּחֽוּ מִסֵּ֣פֶר חַיִּ֑ים וְעִ֥ם צַ֝דִּיקִ֗ים אַל־ יִכָּתֵֽבוּ׃"
+pericope: "[[Ps.69.1 The Waters Are up to My Neck|The Waters Are up to My Neck]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 69
+book/chapter: "[[Ps.69|Psalm 69]]"
+chronological_order: 377
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BOOK|BOOK]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H4229A]]"
+- "[[H9006]]"
+- "[[H5612H]]"
+- "[[H2416A]]"
+- "[[H9002]]"
+- "[[H5973A]]"
+- "[[H6662]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3789]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 69:28**<big><big>[[Ps.69.1 The Waters Are up to My Neck|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them be blotted out of the book of the living, and not be written with the righteous.
 <small><sub>**BSB:**</sub></small>
 May they be blotted out of the Book of Life and not listed with the righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H4229A\|יִ֭מָּחֽוּ]] [[H9006\|מִ]][[H5612H\|סֵּ֣פֶר]] [[H2416A\|חַיִּ֑ים]] [[H9002\|וְ]][[H5973A\|עִ֥ם]] [[H6662\|צַ֝דִּיקִ֗ים]] [[H0408\|אַל]][[H9014\|־]] [[H3789\|יִכָּתֵֽבוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BOOK|BOOK]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.69.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.69.27|<< Psalms 69:27]]</td><td align="center" style="border:none;">[[Ps.69|Psalms 69]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.69.29|Psalms 69:29 >>]]</td></tr></table>
 

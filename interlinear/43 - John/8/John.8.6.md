@@ -1,10 +1,62 @@
+---
+title: John 8:6
+type: Verse
+kjv: "This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not."
+bsb: "They said this to test Him, in order to have a basis for accusing Him. But Jesus bent down and began to write on the ground with His finger."
+greek: "τοῦτο δὲ ἔλεγον πειράζοντες αὐτόν, ἵνα ἔχωσιν κατηγορεῖν αὐτοῦ. ὁ δὲ Ἰησοῦς κάτω κύψας τῷ δακτύλῳ ἔγραφεν εἰς τὴν γῆν. μὴ προσποιούμενος"
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G3985H]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G2192]]"
+- "[[G2723]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2736]]"
+- "[[G2955]]"
+- "[[G1147]]"
+- "[[G1125]]"
+- "[[G1519]]"
+- "[[G1093I]]"
+- "[[G3361]]"
+- "[[G4364]]"
+texts:
+- KO
+- K(o)
+- K
+---
+
 **John 8:6**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with [his] finger wrote on the ground, [as though he heard them not].
 <small><sub>**BSB:**</sub></small>
 They said this to test Him, in order to have a basis for accusing Him. But Jesus bent down and began to write on the ground with His finger.
-<small><sub>**Literal:**</sub></small>
-This now they were saying testing Him so that they may have [grounds] to accuse Him. <the> But Jesus down having stooped <the> with [His] finger he was writing on the ground. not pretending<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.5|<< John 8:5]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.7|John 8:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G3004G\|ἔλεγον]]  [[G3985H\|πειράζοντες]]  [[G0846\|αὐτόν,]]  [[G2443\|ἵνα]]  [[G2192\|ἔχωσιν]]  [[G2723\|κατηγορεῖν]]  [[G0846\|αὐτοῦ.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2736\|κάτω]]  [[G2955\|κύψας]]  [[G3588\|τῷ]]  [[G1147\|δακτύλῳ]]  [[G1125\|ἔγραφεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093I\|γῆν.]]  [[G3361\|μὴ]]  [[G4364\|προσποιούμενος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.5|<< John 8:5]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.7|John 8:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

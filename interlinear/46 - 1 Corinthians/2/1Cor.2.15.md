@@ -1,10 +1,50 @@
+---
+title: 1 Corinthians 2:15
+type: Verse
+kjv: "But he that is spiritual judgeth all things, yet he himself is judged of no man."
+bsb: "The spiritual man judges all things, but he himself is not subject to anyone’s judgment."
+greek: "ὁ δὲ πνευματικὸς ἀνακρίνει τὰ πάντα, αὐτὸς δὲ ὑπ᾽ οὐδενὸς ἀνακρίνεται."
+pericope: "[[1Cor.2.6 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4152]]"
+- "[[G0350]]"
+- "[[G3956]]"
+- "[[G0846]]"
+- "[[G5259G]]"
+- "[[G3762]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 2:15**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he that is spiritual judgeth all things, yet he himself is judged of no man.
 <small><sub>**BSB:**</sub></small>
 The spiritual man judges all things, but he himself is not subject to anyone’s judgment.
-<small><sub>**Literal:**</sub></small>
-He who [is] however spiritual judges <the> all things he himself however by no [one] is judged.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.14|<< 1 Corinthians 2:14]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.16|1 Corinthians 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4152\|πνευματικὸς]]  [[G0350\|ἀνακρίνει]]  [[G3588\|τὰ]]  [[G3956\|πάντα,]]  [[G0846\|αὐτὸς]]  [[G1161\|δὲ]]  [[G5259G\|ὑπ᾽]]  [[G3762\|οὐδενὸς]]  [[G0350\|ἀνακρίνεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic REGENERATION|REGENERATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.14|<< 1 Corinthians 2:14]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.16|1 Corinthians 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

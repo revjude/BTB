@@ -1,8 +1,69 @@
+---
+title: 2 Kings 6:33
+type: Verse
+kjv: "And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the LORD; what should I wait for the LORD any longer?"
+bsb: "While Elisha was still speaking with them, the messenger came down to him. And the king said, “This calamity is from the LORD. Why should I wait for the LORD any longer?”"
+hebrew: "עוֹדֶ֙נּוּ֙ מְדַבֵּ֣ר עִמָּ֔ם וְהִנֵּ֥ה הַמַּלְאָ֖ךְ יֹרֵ֣ד אֵלָ֑יו וַיֹּ֗אמֶר הִנֵּֽה־ זֹ֤את הָֽרָעָה֙ מֵאֵ֣ת יְהוָ֔ה מָֽה־ אוֹחִ֥יל לַיהוָ֖ה עֽוֹד׃ ס"
+pericope: "[[2Kgs.6.24 The Siege and Famine of Samaria|The Siege and Famine of Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H4397G]]"
+- "[[H3381]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H7451C]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H4100]]"
+- "[[H3176G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Kings 6:33**<big><big>[[2Kgs.6.24 The Siege and Famine of Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil [is] of the LORD; what should I wait for the LORD any longer?
 <small><sub>**BSB:**</sub></small>
 While Elisha was still speaking with them, the messenger came down to him. And the king said, “This calamity is from the LORD. Why should I wait for the LORD any longer?”
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|עוֹדֶ֙]][[H9043\|נּוּ֙]] [[H1696G\|מְדַבֵּ֣ר]] [[H5973A\|עִמָּ֔]][[H9038\|ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H9009\|הַ]][[H4397G\|מַּלְאָ֖ךְ]] [[H3381\|יֹרֵ֣ד]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2009\|הִנֵּֽה]][[H9014\|־]] [[H2063\|זֹ֤את]] [[H9009\|הָֽ]][[H7451C\|רָעָה֙]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H4100\|מָֽה]][[H9014\|־]] [[H3176G\|אוֹחִ֥יל]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H5750\|עֽוֹד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARMIES|ARMIES]] • [[topic ELISHA|ELISHA]] • [[topic ISRAEL|ISRAEL]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.32|<< 2 Kings 6:32]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.1|2 Kings 7:1 >>]]</td></tr></table>
 
@@ -24,7 +85,7 @@ While Elisha was still speaking with them, the messenger came down to him. And t
 | why?  |**<big>&#8207;[[H4100\|מָֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will I wait  |**<big>&#8207;[[H3176G\|אוֹחִ֥יל]]&#8207; </big>**| 'o.Chil<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for Yahweh  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H3068G\|יהוָ֖ה]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| still  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| still  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.32|<< 2 Kings 6:32]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.1|2 Kings 7:1 >>]]</td></tr></table>
 
 

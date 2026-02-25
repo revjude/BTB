@@ -1,8 +1,63 @@
+---
+title: Ezra 3:6
+type: Verse
+kjv: "From the first day of the seventh month began they to offer burnt offerings unto the LORD. But the foundation of the temple of the LORD was not yet laid."
+bsb: "On the first day of the seventh month, the Israelites began to offer burnt offerings to the LORD, although the foundation of the temple of the LORD had not been laid."
+hebrew: "מִיּ֤וֹם אֶחָד֙ לַחֹ֣דֶשׁ הַשְּׁבִיעִ֔י הֵחֵ֕לּוּ לְהַעֲל֥וֹת עֹל֖וֹת לַיהוָ֑ה וְהֵיכַ֥ל יְהוָ֖ה לֹ֥א יֻסָּֽד׃"
+pericope: "[[Ezra.3.1 Sacrifices Restored|Sacrifices Restored]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 3
+book/chapter: "[[Ezra.3|Ezra 3]]"
+chronological_order: 851
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic ETHANIM|ETHANIM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZERUBBABEL|ZERUBBABEL]]"
+strongs:
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H2490C]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1964G]]"
+- "[[H3808]]"
+- "[[H3245]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 3:6**<big><big>[[Ezra.3.1 Sacrifices Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From the first day of the seventh month began they to offer burnt offerings unto the LORD. But the foundation of the temple of the LORD was not [yet] laid.
 <small><sub>**BSB:**</sub></small>
 On the first day of the seventh month, the Israelites began to offer burnt offerings to the LORD, although the foundation of the temple of the LORD had not been laid.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H3117G\|יּ֤וֹם]] [[H0259\|אֶחָד֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔י]] [[H2490C\|הֵחֵ֕לּוּ]] [[H9005\|לְ]][[H5927I\|הַעֲל֥וֹת]] [[H5930A\|עֹל֖וֹת]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9002\|וְ]][[H1964G\|הֵיכַ֥ל]] [[H3068G\|יְהוָ֖ה]] [[H3808\|לֹ֥א]] [[H3245\|יֻסָּֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic DAILY OFFERING|DAILY OFFERING]] • [[topic ETHANIM|ETHANIM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONTH|MONTH]] • [[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]] • [[topic ZERUBBABEL|ZERUBBABEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.5|<< Ezra 3:5]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.7|Ezra 3:7 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Daniel 8:22
+type: Verse
+kjv: "Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power."
+bsb: "The four horns that replaced the broken one represent four kingdoms that will rise from that nation but will not have the same power."
+hebrew: "וְהַ֨נִּשְׁבֶּ֔רֶת וַתַּֽעֲמֹ֥דְנָה אַרְבַּ֖ע תַּחְתֶּ֑יהָ אַרְבַּ֧ע מַלְכֻי֛וֹת מִגּ֥וֹי יַעֲמֹ֖דְנָה וְלֹ֥א בְכֹחֽוֹ׃"
+pericope: "[[Dan.8.15 Gabriel Interprets Daniel’s Vision|Gabriel Interprets Daniel’s Vision]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 8
+book/chapter: "[[Dan.8|Daniel 8]]"
+chronological_order: 844
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7665]]"
+- "[[H9001]]"
+- "[[H5975I]]"
+- "[[H0702]]"
+- "[[H8478H]]"
+- "[[H9034]]"
+- "[[H4438]]"
+- "[[H9006]]"
+- "[[H1471A]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 8:22**<big><big>[[Dan.8.15 Gabriel Interprets Daniel’s Vision|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.
 <small><sub>**BSB:**</sub></small>
 The four horns that replaced the broken one represent four kingdoms that will rise from that nation but will not have the same power.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ֨]][[H7665\|נִּשְׁבֶּ֔רֶת]] [[H9001\|וַ]][[H5975I\|תַּֽעֲמֹ֥דְנָה]] [[H0702\|אַרְבַּ֖ע]] [[H8478H\|תַּחְתֶּ֑י]][[H9034\|הָ]] [[H0702\|אַרְבַּ֧ע]] [[H4438\|מַלְכֻי֛וֹת]] [[H9006\|מִ]][[H1471A\|גּ֥וֹי]] [[H5975I\|יַעֲמֹ֖דְנָה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9003\|בְ]][[H3581B\|כֹחֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.8.21|<< Daniel 8:21]]</td><td align="center" style="border:none;">[[Dan.8|Daniel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.8.23|Daniel 8:23 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Genesis 27:11
+type: Verse
+kjv: "And Jacob said to Rebekah his mother, Behold, Esau my brother is a hairy man, and I am a smooth man:"
+bsb: "Jacob answered his mother Rebekah, “Look, my brother Esau is a hairy man, but I am smooth-skinned."
+hebrew: "וַיֹּ֣אמֶר יַעֲקֹ֔ב אֶל־ רִבְקָ֖ה אִמּ֑וֹ הֵ֣ן עֵשָׂ֤ו אָחִי֙ אִ֣ישׁ שָׂעִ֔ר וְאָנֹכִ֖י אִ֥ישׁ חָלָֽק׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7259]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H2005]]"
+- "[[H6215G]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H0376G]]"
+- "[[H8163A]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H2509]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:11**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said to Rebekah his mother, Behold, Esau my brother [is] a hairy man, and I [am] a smooth man:
 <small><sub>**BSB:**</sub></small>
 Jacob answered his mother Rebekah, “Look, my brother Esau is a hairy man, but I am smooth-skinned.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3290\|יַעֲקֹ֔ב]] [[H0413\|אֶל]][[H9014\|־]] [[H7259\|רִבְקָ֖ה]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H2005\|הֵ֣ן]] [[H6215G\|עֵשָׂ֤ו]] [[H0251G\|אָחִ]][[H9020\|י֙]] [[H0376G\|אִ֣ישׁ]] [[H8163A\|שָׂעִ֔ר]] [[H9002\|וְ]][[H0595\|אָנֹכִ֖י]] [[H0376G\|אִ֥ישׁ]] [[H2509\|חָלָֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.10|<< Genesis 27:10]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.12|Genesis 27:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

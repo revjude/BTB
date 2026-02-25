@@ -1,10 +1,65 @@
+---
+title: Luke 22:56
+type: Verse
+kjv: "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him."
+bsb: "A servant girl saw him seated in the firelight and looked intently at him. “This man also was with Him,” she said."
+greek: "ἰδοῦσα δὲ αὐτὸν παιδίσκη τις καθήμενον πρὸς τὸ φῶς καὶ ἀτενίσασα αὐτῷ εἶπεν· καὶ οὗτος σὺν αὐτῷ ἦν."
+pericope: "[[Luke.22.54 Peter Denies Jesus|Peter Denies Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G1492H]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3814]]"
+- "[[G5100]]"
+- "[[G2521]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G5457]]"
+- "[[G2532]]"
+- "[[G0816]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G4862]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Luke 22:56**<big><big>[[Luke.22.54 Peter Denies Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him.
 <small><sub>**BSB:**</sub></small>
 A servant girl saw him seated in the firelight and looked intently at him. “This man also was with Him,” she said.
-<small><sub>**Literal:**</sub></small>
-Having seen then him a servant girl certain sitting by the light and having looked intently on him she said; Also this one with Him was.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.55|<< Luke 22:55]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.57|Luke 22:57 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1492H\|ἰδοῦσα]]  [[G1161\|δὲ]]  [[G0846\|αὐτὸν]]  [[G3814\|παιδίσκη]]  [[G5100\|τις]]  [[G2521\|καθήμενον]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G5457\|φῶς]]  [[G2532\|καὶ]]  [[G0816\|ἀτενίσασα]]  [[G0846\|αὐτῷ]]  [[G2036\|εἶπεν·]]  [[G2532\|καὶ]]  [[G3778\|οὗτος]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G1510\|ἦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.55|<< Luke 22:55]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.57|Luke 22:57 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

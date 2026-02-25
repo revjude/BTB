@@ -1,8 +1,79 @@
+---
+title: 2 Chronicles 22:9
+type: Verse
+kjv: "And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom."
+bsb: "Then Jehu looked for Ahaziah, and Jehu’s soldiers captured him while he was hiding in Samaria. So Ahaziah was brought to Jehu and put to death. They buried him, for they said, “He is the grandson of Jehoshaphat, who sought the LORD with all his heart.” So no one was left from the house of Ahaziah with the strength to rule the kingdom."
+hebrew: "וַיְבַקֵּשׁ֩ אֶת־ אֲחַזְיָ֨הוּ וַֽיִּלְכְּדֻ֜הוּ וְה֧וּא מִתְחַבֵּ֣א בְשֹֽׁמְר֗וֹן וַיְבִאֻ֣הוּ אֶל־ יֵהוּא֮ וַיְמִתֻהוּ֒ וַֽיִּקְבְּרֻ֔הוּ כִּ֤י אָֽמְרוּ֙ בֶּן־ יְהוֹשָׁפָ֣ט ה֔וּא אֲשֶׁר־ דָּרַ֥שׁ אֶת־ יְהוָ֖ה בְּכָל־ לְבָב֑וֹ וְאֵין֙ לְבֵ֣ית אֲחַזְיָ֔הוּ לַעְצֹ֥ר כֹּ֖חַ לְמַמְלָכָֽה׃"
+pericope: "[[2Chr.22.8 Jehu Kills the Princes of Judah|Jehu Kills the Princes of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 22
+book/chapter: "[[2Chr.22|2 Chronicles 22]]"
+chronological_order: 587
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0274H]]"
+- "[[H3920]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H2244]]"
+- "[[H9003]]"
+- "[[H8111]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H3058H]]"
+- "[[H4191]]"
+- "[[H6912]]"
+- "[[H3588A]]"
+- "[[H0559]]"
+- "[[H1121G]]"
+- "[[H3092I]]"
+- "[[H0834A]]"
+- "[[H1875]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H6113]]"
+- "[[H3581B]]"
+- "[[H4467]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 22:9**<big><big>[[2Chr.22.8 Jehu Kills the Princes of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he [is] the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom.
 <small><sub>**BSB:**</sub></small>
 Then Jehu looked for Ahaziah, and Jehu’s soldiers captured him while he was hiding in Samaria. So Ahaziah was brought to Jehu and put to death. They buried him, for they said, “He is the grandson of Jehoshaphat, who sought the LORD with all his heart.” So no one was left from the house of Ahaziah with the strength to rule the kingdom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1245\|יְבַקֵּשׁ֩]] [[H0853\|אֶת]][[H9014\|־]] [[H0274H\|אֲחַזְיָ֨הוּ]] [[H9001\|וַֽ]][[H3920\|יִּלְכְּדֻ֜]][[H9033\|הוּ]] [[H9002\|וְ]][[H1931\|ה֧וּא]] [[H2244\|מִתְחַבֵּ֣א]] [[H9003\|בְ]][[H8111\|שֹֽׁמְר֗וֹן]] [[H9001\|וַ]][[H0935P\|יְבִאֻ֣]][[H9033\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3058H\|יֵהוּא֮]] [[H9001\|וַ]][[H4191\|יְמִתֻ]][[H9033\|הוּ֒]] [[H9001\|וַֽ]][[H6912\|יִּקְבְּרֻ֔]][[H9033\|הוּ]] [[H3588A\|כִּ֤י]] [[H0559\|אָֽמְרוּ֙]] [[H1121G\|בֶּן]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָ֣ט]] [[H1931\|ה֔וּא]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1875\|דָּרַ֥שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָב֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0369\|אֵין֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0274H\|אֲחַזְיָ֔הוּ]] [[H9005\|לַ]][[H6113\|עְצֹ֥ר]] [[H3581B\|כֹּ֖חַ]] [[H9005\|לְ]][[H4467\|מַמְלָכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic JEHU|JEHU]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.8|<< 2 Chronicles 22:8]]</td><td align="center" style="border:none;">[[2Chr.22|2 Chronicles 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.22.10|2 Chronicles 22:10 >>]]</td></tr></table>
 

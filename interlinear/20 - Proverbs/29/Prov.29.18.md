@@ -1,8 +1,52 @@
+---
+title: Proverbs 29:18
+type: Verse
+kjv: "Where there is no vision, the people perish: but he that keepeth the law, happy is he."
+bsb: "Where there is no vision, the people cast off restraint; but blessed is he who keeps the Law."
+hebrew: "בְּאֵ֣ין חָ֭זוֹן יִפָּ֣רַֽע עָ֑ם וְשֹׁמֵ֖ר תּוֹרָ֣ה אַשְׁרֵֽהוּ׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9003]]"
+- "[[H0369]]"
+- "[[H2377]]"
+- "[[H6544B]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H8104G]]"
+- "[[H8451]]"
+- "[[H0835]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:18**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where [there is] no vision, the people perish: but he that keepeth the law, happy [is] he.
 <small><sub>**BSB:**</sub></small>
 Where there is no vision, the people cast off restraint; but blessed is he who keeps the Law.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0369\|אֵ֣ין]] [[H2377\|חָ֭זוֹן]] [[H6544B\|יִפָּ֣רַֽע]] [[H5971A\|עָ֑ם]] [[H9002\|וְ]][[H8104G\|שֹׁמֵ֖ר]] [[H8451\|תּוֹרָ֣ה]] [[H0835\|אַשְׁרֵֽ]][[H9043\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.17|<< Proverbs 29:17]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.19|Proverbs 29:19 >>]]</td></tr></table>
 

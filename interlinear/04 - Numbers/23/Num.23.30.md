@@ -1,8 +1,59 @@
+---
+title: Numbers 23:30
+type: Verse
+kjv: "And Balak did as Balaam had said, and offered a bullock and a ram on every altar."
+bsb: "So Balak did as Balaam had instructed, and he offered a bull and a ram on each altar."
+hebrew: "וַיַּ֣עַשׂ בָּלָ֔ק כַּאֲשֶׁ֖ר אָמַ֣ר בִּלְעָ֑ם וַיַּ֛עַל פָּ֥ר וָאַ֖יִל בַּמִּזְבֵּֽחַ׃"
+pericope: "[[Num.23.13 Balaam’s Second Oracle|Balaam’s Second Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PEOR|PEOR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H1111]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0559]]"
+- "[[H1109A]]"
+- "[[H5927I]]"
+- "[[H6499]]"
+- "[[H9002]]"
+- "[[H0352A]]"
+- "[[H9003]]"
+- "[[H4196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:30**<big><big>[[Num.23.13 Balaam’s Second Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak did as Balaam had said, and offered a bullock and a ram on [every] altar.
 <small><sub>**BSB:**</sub></small>
 So Balak did as Balaam had instructed, and he offered a bull and a ram on each altar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H1111\|בָּלָ֔ק]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H0559\|אָמַ֣ר]] [[H1109A\|בִּלְעָ֑ם]] [[H9001\|וַ]][[H5927I\|יַּ֛עַל]] [[H6499\|פָּ֥ר]] [[H9002\|וָ]][[H0352A\|אַ֖יִל]] [[H9003\|בַּ]][[H4196\|מִּזְבֵּֽחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PEOR|PEOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.29|<< Numbers 23:29]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.24.1|Numbers 24:1 >>]]</td></tr></table>
 

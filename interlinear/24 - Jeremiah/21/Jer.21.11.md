@@ -1,8 +1,48 @@
+---
+title: Jeremiah 21:11
+type: Verse
+kjv: "And touching the house of the king of Judah, say, Hear ye the word of the LORD;"
+bsb: "Moreover, tell the house of the king of Judah to hear the word of the LORD."
+hebrew: "וּלְבֵית֙ מֶ֣לֶךְ יְהוּדָ֔ה שִׁמְע֖וּ דְּבַר־ יְהוָֽה׃"
+pericope: "[[Jer.21.11 A Message to the House of David|A Message to the House of David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 21
+book/chapter: "[[Jer.21|Jeremiah 21]]"
+chronological_order: 744
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H1004P]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 21:11**<big><big>[[Jer.21.11 A Message to the House of David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And touching the house of the king of Judah, [say], Hear ye the word of the LORD;
 <small><sub>**BSB:**</sub></small>
 Moreover, tell the house of the king of Judah to hear the word of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H1004P\|בֵית֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H8085G\|שִׁמְע֖וּ]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.21.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.21.10|<< Jeremiah 21:10]]</td><td align="center" style="border:none;">[[Jer.21|Jeremiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.21.12|Jeremiah 21:12 >>]]</td></tr></table>
 

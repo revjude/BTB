@@ -1,8 +1,55 @@
+---
+title: Genesis 42:3
+type: Verse
+kjv: "And Joseph’s ten brethren went down to buy corn in Egypt."
+bsb: "So ten of Joseph’s brothers went down to buy grain from Egypt."
+hebrew: "וַיֵּרְד֥וּ אֲחֵֽי־ יוֹסֵ֖ף עֲשָׂרָ֑ה לִשְׁבֹּ֥ר בָּ֖ר מִמִּצְרָֽיִם׃"
+pericope: "[[Gen.42.1 Joseph’s Brothers Sent to Egypt|Joseph’s Brothers Sent to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H0251G]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H6235]]"
+- "[[H9005]]"
+- "[[H7666]]"
+- "[[H1250A]]"
+- "[[H9006]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:3**<big><big>[[Gen.42.1 Joseph’s Brothers Sent to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph’s ten brethren went down to buy corn in Egypt.
 <small><sub>**BSB:**</sub></small>
 So ten of Joseph’s brothers went down to buy grain from Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּרְד֥וּ]] [[H0251G\|אֲחֵֽי]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H6235\|עֲשָׂרָ֑ה]] [[H9005\|לִ]][[H7666\|שְׁבֹּ֥ר]] [[H1250A\|בָּ֖ר]] [[H9006\|מִ]][[H4714G\|מִּצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.2|<< Genesis 42:2]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.4|Genesis 42:4 >>]]</td></tr></table>
 

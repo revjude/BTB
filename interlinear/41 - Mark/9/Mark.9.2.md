@@ -1,10 +1,64 @@
+---
+title: Mark 9:2
+type: Verse
+kjv: "And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them."
+bsb: "After six days Jesus took with Him Peter, James, and John, and led them up a high mountain by themselves. There He was transfigured before them."
+greek: "Καὶ μετὰ ἡμέρας ἓξ παραλαμβάνει ὁ Ἰησοῦς τὸν Πέτρον καὶ τὸν Ἰάκωβον καὶ τὸν Ἰωάννην καὶ ἀναφέρει αὐτοὺς εἰς ὄρος ὑψηλὸν κατ᾽ ἰδίαν μόνους. καὶ μετεμορφώθη ἔμπροσθεν αὐτῶν,"
+pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G2250]]"
+- "[[G1803]]"
+- "[[G3880]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4074G]]"
+- "[[G2385G]]"
+- "[[G2491H]]"
+- "[[G0399]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3735]]"
+- "[[G5308]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G3441]]"
+- "[[G3339]]"
+- "[[G1715]]"
+texts:
+- NKO
+---
+
 **Mark 9:2**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And after six days Jesus taketh [with him] Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them.
 <small><sub>**BSB:**</sub></small>
 After six days Jesus took with Him Peter, James, and John, and led them up a high mountain by themselves. There He was transfigured before them.
-<small><sub>**Literal:**</sub></small>
-And after days six takes along <the> Jesus <the> Peter and <the> James and <the> John and brings up them into a mountain high apart [on their] own alone. And He was transfigured before them,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.1|<< Mark 9:1]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.3|Mark 9:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3326\|μετὰ]]  [[G2250\|ἡμέρας]]  [[G1803\|ἓξ]]  [[G3880\|παραλαμβάνει]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2385G\|Ἰάκωβον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2491H\|Ἰωάννην]]  [[G2532\|καὶ]]  [[G0399\|ἀναφέρει]]  [[G0846\|αὐτοὺς]]  [[G1519\|εἰς]]  [[G3735\|ὄρος]]  [[G5308\|ὑψηλὸν]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G3441\|μόνους.]]  [[G2532\|καὶ]]  [[G3339\|μετεμορφώθη]]  [[G1715\|ἔμπροσθεν]]  [[G0846\|αὐτῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.1|<< Mark 9:1]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.3|Mark 9:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

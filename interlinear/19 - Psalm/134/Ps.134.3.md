@@ -1,8 +1,54 @@
+---
+title: Psalm 134:3
+type: Verse
+kjv: "The LORD that made heaven and earth bless thee out of Zion."
+bsb: "May the LORD, the Maker of heaven and earth, bless you from Zion."
+hebrew: "יְבָרֶכְךָ֣ יְ֭הוָה מִצִּיּ֑וֹן עֹ֝שֵׂ֗ה שָׁמַ֥יִם וָאָֽרֶץ׃"
+pericope: "[[Ps.134.1 Bless the LORD, All You Servants|Bless the LORD, All You Servants]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 134
+book/chapter: "[[Ps.134|Psalm 134]]"
+chronological_order: 531
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H6726]]"
+- "[[H6213H]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 134:3**<big><big>[[Ps.134.1 Bless the LORD, All You Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD that made heaven and earth bless thee out of Zion.
 <small><sub>**BSB:**</sub></small>
 May the LORD, the Maker of heaven and earth, bless you from Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|יְבָרֶכְ]][[H9031\|ךָ֣]] [[H3068G\|יְ֭הוָה]] [[H9006\|מִ]][[H6726\|צִּיּ֑וֹן]] [[H6213H\|עֹ֝שֵׂ֗ה]] [[H8064\|שָׁמַ֥יִם]] [[H9002\|וָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.134.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.134.2|<< Psalms 134:2]]</td><td align="center" style="border:none;">[[Ps.134|Psalms 134]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.1|Psalms 135:1 >>]]</td></tr></table>
 

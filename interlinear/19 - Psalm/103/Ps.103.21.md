@@ -1,8 +1,56 @@
+---
+title: Psalm 103:21
+type: Verse
+kjv: "Bless ye the LORD, all ye his hosts; ye ministers of his, that do his pleasure."
+bsb: "Bless the LORD, all His hosts, you servants who do His will."
+hebrew: "בָּרֲכ֣וּ יְ֭הוָה כָּל־ צְבָאָ֑יו מְ֝שָׁרְתָ֗יו עֹשֵׂ֥י רְצוֹנֽוֹ׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6635A]]"
+- "[[H9023]]"
+- "[[H8334]]"
+- "[[H9033]]"
+- "[[H6213A]]"
+- "[[H7522]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:21**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bless ye the LORD, all [ye] his hosts; [ye] ministers of his, that do his pleasure.
 <small><sub>**BSB:**</sub></small>
 Bless the LORD, all His hosts, you servants who do His will.
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|בָּרֲכ֣וּ]] [[H3068G\|יְ֭הוָה]] [[H3605\|כָּל]][[H9014\|־]] [[H6635A\|צְבָאָ֑י]][[H9023\|ו]] [[H8334\|מְ֝שָׁרְתָ֗י]][[H9033\|ו]] [[H6213A\|עֹשֵׂ֥י]] [[H7522\|רְצוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.20|<< Psalms 103:20]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.22|Psalms 103:22 >>]]</td></tr></table>
 

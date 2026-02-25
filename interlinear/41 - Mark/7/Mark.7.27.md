@@ -1,10 +1,67 @@
+---
+title: Mark 7:27
+type: Verse
+kjv: "But Jesus said unto her, Let the children first be filled: for it is not meet to take the children’s bread, and to cast it unto the dogs."
+bsb: "“First let the children have their fill,” He said. “For it is not right to take the children’s bread and toss it to the dogs.”"
+jesus_said: "Let the children first be filled: for it is not meet to take the children’s bread, and to cast it unto the dogs."
+greek: "ὁ καὶ Ἰησοῦς ἔλεγεν αὐτῇ· ἄφες πρῶτον χορτασθῆναι τὰ τέκνα· οὐ γάρ ἐστιν καλὸν λαβεῖν τὸν ἄρτον τῶν τέκνων καὶ τοῖς κυναρίοις βαλεῖν."
+pericope: "[[Mark.7.24 The Faith of the Gentile Woman|The Faith of the Gentile Woman]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G3588]]"
+- "[[G2532]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G0863I]]"
+- "[[G4413G]]"
+- "[[G5526]]"
+- "[[G5043]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2570G]]"
+- "[[G2983]]"
+- "[[G0740]]"
+- "[[G2952]]"
+- "[[G0906G]]"
+texts:
+- k
+- N(k)O
+- NKO
+---
+
 **Mark 7:27**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus said unto her, Let the children first be filled: for it is not meet to take the children’s bread, and to cast [it] unto the dogs.
 <small><sub>**BSB:**</sub></small>
 “First let the children have their fill,” He said. “For it is not right to take the children’s bread and toss it to the dogs.”
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus He was saying to her; do permit first to be satisfied the children; not for it is good to take the bread of the children and to the dogs to cast [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.26|<< Mark 7:26]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.28|Mark 7:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2532\|καὶ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτῇ·]]  [[G0863I\|ἄφες]]  [[G4413G\|πρῶτον]]  [[G5526\|χορτασθῆναι]]  [[G3588\|τὰ]]  [[G5043\|τέκνα·]]  [[G3756\|οὐ]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G2570G\|καλὸν]]  [[G2983\|λαβεῖν]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G3588\|τῶν]]  [[G5043\|τέκνων]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G2952\|κυναρίοις]]  [[G0906G\|βαλεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.26|<< Mark 7:26]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.28|Mark 7:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

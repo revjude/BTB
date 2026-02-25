@@ -1,8 +1,69 @@
+---
+title: Jeremiah 52:22
+type: Verse
+kjv: "And a chapiter of brass was upon it; and the height of one chapiter was five cubits, with network and pomegranates upon the chapiters round about, all of brass. The second pillar also and the pomegranates were like unto these."
+bsb: "The bronze capital atop one pillar was five cubits high, with a network of bronze pomegranates all around. The second pillar, with its pomegranates, was similar."
+hebrew: "וְכֹתֶ֨רֶת עָלָ֜יו נְחֹ֗שֶׁת וְקוֹמַ֨ת הַכֹּתֶ֥רֶת הָאַחַת֮ חָמֵ֣שׁ אַמּוֹת֒ וּשְׂבָכָ֨ה וְרִמּוֹנִ֧ים עַֽל־ הַכּוֹתֶ֛רֶת סָבִ֖יב הַכֹּ֣ל נְחֹ֑שֶׁת וְכָאֵ֛לֶּה לַֽעַמּ֥וּד הַשֵּׁנִ֖י וְרִמּוֹנִֽים׃"
+pericope: "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHAPITER|CHAPITER]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic POMEGRANATE|POMEGRANATE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3805]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5178A]]"
+- "[[H6967]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H2568]]"
+- "[[H0520A]]"
+- "[[H7639]]"
+- "[[H7416]]"
+- "[[H9014]]"
+- "[[H5439G]]"
+- "[[H3605]]"
+- "[[H9004]]"
+- "[[H0428]]"
+- "[[H9005]]"
+- "[[H5982G]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:22**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And a chapiter of brass [was] upon it; and the height of one chapiter [was] five cubits, with network and pomegranates upon the chapiters round about, all [of] brass. The second pillar also and the pomegranates [were] like unto these.
 <small><sub>**BSB:**</sub></small>
 The bronze capital atop one pillar was five cubits high, with a network of bronze pomegranates all around. The second pillar, with its pomegranates, was similar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3805\|כֹתֶ֨רֶת]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H5178A\|נְחֹ֗שֶׁת]] [[H9002\|וְ]][[H6967\|קוֹמַ֨ת]] [[H9009\|הַ]][[H3805\|כֹּתֶ֥רֶת]] [[H9009\|הָ]][[H0259\|אַחַת֮]] [[H2568\|חָמֵ֣שׁ]] [[H0520A\|אַמּוֹת֒]] [[H9002\|וּ]][[H7639\|שְׂבָכָ֨ה]] [[H9002\|וְ]][[H7416\|רִמּוֹנִ֧ים]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H3805\|כּוֹתֶ֛רֶת]] [[H5439G\|סָבִ֖יב]] [[H9009\|הַ]][[H3605\|כֹּ֣ל]] [[H5178A\|נְחֹ֑שֶׁת]] [[H9002\|וְ]][[H9004\|כָ]][[H0428\|אֵ֛לֶּה]] [[H9005\|לַֽ]][[H5982G\|עַמּ֥וּד]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖י]] [[H9002\|וְ]][[H7416\|רִמּוֹנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAPITER|CHAPITER]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic POMEGRANATE|POMEGRANATE]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.21|<< Jeremiah 52:21]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.23|Jeremiah 52:23 >>]]</td></tr></table>
 

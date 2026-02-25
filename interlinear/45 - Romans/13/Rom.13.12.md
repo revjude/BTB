@@ -1,10 +1,62 @@
+---
+title: Romans 13:12
+type: Verse
+kjv: "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light."
+bsb: "The night is nearly over; the day has drawn near. So let us lay aside the deeds of darkness and put on the armor of light."
+greek: "ἡ νὺξ προέκοψεν ἡ δὲ ἡμέρα ἤγγικεν. ἀποθώμεθα οὖν τὰ ἔργα τοῦ σκότους, καὶ ἐνδυσώμεθα δὲ τὰ ὅπλα τοῦ φωτός."
+pericope: "[[Rom.13.11 The Day Is Near|The Day Is Near]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 13
+book/chapter: "[[Rom.13|Romans 13]]"
+chronological_order: 1099
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ARMOR|ARMOR]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic RISING|RISING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G3588]]"
+- "[[G3571]]"
+- "[[G4298]]"
+- "[[G1161]]"
+- "[[G2250]]"
+- "[[G1448]]"
+- "[[G0659]]"
+- "[[G3767]]"
+- "[[G2041]]"
+- "[[G4655]]"
+- "[[G2532]]"
+- "[[G1746]]"
+- "[[G3696]]"
+- "[[G5457]]"
+texts:
+- NKO
+- NK(o)
+- k
+- no
+---
+
 **Romans 13:12**<big><big>[[Rom.13.11 The Day Is Near|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armour of light.
 <small><sub>**BSB:**</sub></small>
 The night is nearly over; the day has drawn near. So let us lay aside the deeds of darkness and put on the armor of light.
-<small><sub>**Literal:**</sub></small>
-The night is nearly over <the> and the day has drawn near. We may cast off therefore the works <the> of darkness, and we may put on now the armor <the> of light.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.11|<< Romans 13:11]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.13|Romans 13:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ἡ]]  [[G3571\|νὺξ]]  [[G4298\|προέκοψεν]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G2250\|ἡμέρα]]  [[G1448\|ἤγγικεν.]]  [[G0659\|ἀποθώμεθα]]  [[G3767\|οὖν]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3588\|τοῦ]]  [[G4655\|σκότους,]]  [[G2532\|καὶ]]  [[G1746\|ἐνδυσώμεθα]]  [[G1161\|δὲ]]  [[G3588\|τὰ]]  [[G3696\|ὅπλα]]  [[G3588\|τοῦ]]  [[G5457\|φωτός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMOR|ARMOR]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DARKNESS|DARKNESS]] • [[topic HOLINESS|HOLINESS]] • [[topic NIGHT|NIGHT]] • [[topic RISING|RISING]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.13.11|<< Romans 13:11]]</td><td align="center" style="border:none;">[[Rom.13|Romans 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.13.13|Romans 13:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

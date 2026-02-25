@@ -1,8 +1,85 @@
+---
+title: Genesis 8:21
+type: Verse
+kjv: "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart is evil from his youth; neither will I again smite any more every thing living, as I have done."
+bsb: "When the LORD smelled the pleasing aroma, He said in His heart, “Never again will I curse the ground because of man, even though every inclination of his heart is evil from his youth. And never again will I destroy all living creatures as I have done."
+hebrew: "וַיָּ֣רַח יְהוָה֮ אֶת־ רֵ֣יחַ הַנִּיחֹחַ֒ וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ לִבּ֗וֹ לֹֽא־ אֹ֠סִף לְקַלֵּ֨ל ע֤וֹד אֶת־ הָֽאֲדָמָה֙ בַּעֲב֣וּר הָֽאָדָ֔ם כִּ֠י יֵ֣צֶר לֵ֧ב הָאָדָ֛ם רַ֖ע מִנְּעֻרָ֑יו וְלֹֽא־ אֹסִ֥ף ע֛וֹד לְהַכּ֥וֹת אֶת־ כָּל־ חַ֖י כַּֽאֲשֶׁ֥ר עָשִֽׂיתִי׃"
+pericope: "[[Gen.8.20 Noah Builds an Altar|Noah Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 8
+book/chapter: "[[Gen.8|Genesis 8]]"
+chronological_order: 8
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IMAGINATION|IMAGINATION]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H7306]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7381]]"
+- "[[H9009]]"
+- "[[H5207]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H7043]]"
+- "[[H5750]]"
+- "[[H0127G]]"
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H0120G]]"
+- "[[H3588A]]"
+- "[[H3336]]"
+- "[[H7451H]]"
+- "[[H9006]]"
+- "[[H5271A]]"
+- "[[H9002]]"
+- "[[H5221]]"
+- "[[H3605]]"
+- "[[H2416A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 8:21**<big><big>[[Gen.8.20 Noah Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man’s sake; for the imagination of man’s heart [is] evil from his youth; neither will I again smite any more every thing living, as I have done.
 <small><sub>**BSB:**</sub></small>
 When the LORD smelled the pleasing aroma, He said in His heart, “Never again will I curse the ground because of man, even though every inclination of his heart is evil from his youth. And never again will I destroy all living creatures as I have done.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7306\|יָּ֣רַח]] [[H3068G\|יְהוָה֮]] [[H0853\|אֶת]][[H9014\|־]] [[H7381\|רֵ֣יחַ]] [[H9009\|הַ]][[H5207\|נִּיחֹחַ֒]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבּ֗]][[H9023\|וֹ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|אֹ֠סִף]] [[H9005\|לְ]][[H7043\|קַלֵּ֨ל]] [[H5750\|ע֤וֹד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָה֙]] [[H9003\|בַּ]][[H5668\|עֲב֣וּר]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H3588A\|כִּ֠י]] [[H3336\|יֵ֣צֶר]] [[H3820A\|לֵ֧ב]] [[H9009\|הָ]][[H0120G\|אָדָ֛ם]] [[H7451H\|רַ֖ע]] [[H9006\|מִ]][[H5271A\|נְּעֻרָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|אֹסִ֥ף]] [[H5750\|ע֛וֹד]] [[H9005\|לְ]][[H5221\|הַכּ֥וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2416A\|חַ֖י]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁ֥ר]] [[H6213A\|עָשִֽׂיתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVENANT|COVENANT]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic FLOOD|FLOOD]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic IMAGINATION|IMAGINATION]] • [[topic NOAH|NOAH]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.8.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.8.20|<< Genesis 8:20]]</td><td align="center" style="border:none;">[[Gen.8|Genesis 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.8.22|Genesis 8:22 >>]]</td></tr></table>
 

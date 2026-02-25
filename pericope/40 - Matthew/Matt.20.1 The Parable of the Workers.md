@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Workers
+type: Pericope
 pericope: "[[Matt.20.1 The Parable of the Workers|The Parable of the Workers]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 20
 book/chapter: "[[Matt.20|Matthew 20]]"
-genre:
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 16
 verses:
 - "[[Matt.20.1]]"
 - "[[Matt.20.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Matt.20.16]]"
 ---
 
-[[Matt.20|Matthew 20:1 - Matthew 20:16]]
+<small>[[Matt.20|Matthew 20:1-16]]</small>
 *The Parable of the Workers*
 
 [[Matt.20.1|1]] For the kingdom of heaven is like unto a man \[that is\] an householder, which went out early in the morning to hire labourers into his vineyard.

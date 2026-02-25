@@ -1,10 +1,59 @@
+---
+title: Luke 22:33
+type: Verse
+kjv: "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death."
+bsb: "“Lord,” said Peter, “I am ready to go with You even to prison and to death.”"
+greek: "ὁ δὲ εἶπεν αὐτῷ· κύριε, μετὰ σοῦ ἕτοιμός εἰμι καὶ εἰς φυλακὴν καὶ εἰς θάνατον πορεύεσθαι."
+pericope: "[[Luke.22.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2962G]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G2092]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G1519]]"
+- "[[G5438G]]"
+- "[[G2288]]"
+- "[[G4198]]"
+texts:
+- NKO
+---
+
 **Luke 22:33**<big><big>[[Luke.22.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Lord, I am ready to go with thee, both into prison, and to death.
 <small><sub>**BSB:**</sub></small>
 “Lord,” said Peter, “I am ready to go with You even to prison and to death.”
-<small><sub>**Literal:**</sub></small>
-<the> And he said to Him; Lord, with You ready I am both to prison and to death to go.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.32|<< Luke 22:32]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.34|Luke 22:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G2962G\|κύριε,]]  [[G3326\|μετὰ]]  [[G4771\|σοῦ]]  [[G2092\|ἕτοιμός]]  [[G1510\|εἰμι]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G5438G\|φυλακὴν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G2288\|θάνατον]]  [[G4198\|πορεύεσθαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.32|<< Luke 22:32]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.34|Luke 22:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

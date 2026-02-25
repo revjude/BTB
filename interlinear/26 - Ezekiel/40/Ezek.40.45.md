@@ -1,8 +1,61 @@
+---
+title: Ezekiel 40:45
+type: Verse
+kjv: "And he said unto me, This chamber, whose prospect is toward the south, is for the priests, the keepers of the charge of the house."
+bsb: "Then the man said to me: “The chamber that faces south is for the priests who keep charge of the temple,"
+hebrew: "וַיְדַבֵּ֖ר אֵלָ֑י זֹ֣ה הַלִּשְׁכָּ֗ה אֲשֶׁ֤ר פָּנֶ֙יהָ֙ דֶּ֣רֶךְ הַדָּר֔וֹם לַכֹּ֣הֲנִ֔ים שֹׁמְרֵ֖י מִשְׁמֶ֥רֶת הַבָּֽיִת׃"
+pericope: "[[Ezek.40.44 Chambers for Ministry|Chambers for Ministry]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H2090]]"
+- "[[H9009]]"
+- "[[H3957]]"
+- "[[H0834A]]"
+- "[[H6440G]]"
+- "[[H9024]]"
+- "[[H1870J]]"
+- "[[H1864]]"
+- "[[H9005]]"
+- "[[H3548]]"
+- "[[H8104H]]"
+- "[[H4931]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:45**<big><big>[[Ezek.40.44 Chambers for Ministry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, This chamber, whose prospect [is] toward the south, [is] for the priests, the keepers of the charge of the house.
 <small><sub>**BSB:**</sub></small>
 Then the man said to me: “The chamber that faces south is for the priests who keep charge of the temple,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֖ר]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H2090\|זֹ֣ה]] [[H9009\|הַ]][[H3957\|לִּשְׁכָּ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H6440G\|פָּנֶ֙י]][[H9024\|הָ֙]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H1864\|דָּר֔וֹם]] [[H9005\|לַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H8104H\|שֹׁמְרֵ֖י]] [[H4931\|מִשְׁמֶ֥רֶת]] [[H9009\|הַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.44|<< Ezekiel 40:44]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.46|Ezekiel 40:46 >>]]</td></tr></table>
 

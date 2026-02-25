@@ -1,10 +1,74 @@
+---
+title: Luke 4:23
+type: Verse
+kjv: "And he said unto them, Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country."
+bsb: "Jesus said to them, “Surely you will quote this proverb to Me: ‘Physician, heal yourself! Do here in Your hometown what we have heard that You did in Capernaum.’”"
+jesus_said: "Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country."
+greek: "καὶ εἶπεν πρὸς αὐτούς· πάντως ἐρεῖτέ μοι τὴν παραβολὴν ταύτην· ἰατρέ, θεράπευσον σεαυτόν· ὅσα ἠκούσαμεν γενόμενα εἰς τὴν Καφαρναούμ, ποίησον καὶ ὧδε ἐν τῇ πατρίδι σου.¶"
+pericope: "[[Luke.4.16 The Rejection at Nazareth|The Rejection at Nazareth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NAZARETH|NAZARETH]]"
+- "[[topic PHYSICIAN|PHYSICIAN]]"
+- "[[topic PROVERBS|PROVERBS]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3843]]"
+- "[[G4483]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G3850]]"
+- "[[G3778]]"
+- "[[G2395]]"
+- "[[G2323]]"
+- "[[G4771]]"
+- "[[G3745]]"
+- "[[G0191]]"
+- "[[G1096]]"
+- "[[G1519]]"
+- "[[G2584]]"
+- "[[G4160G]]"
+- "[[G5602]]"
+- "[[G1722]]"
+- "[[G3968]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Luke 4:23**<big><big>[[Luke.4.16 The Rejection at Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Ye will surely say unto me this proverb, Physician, heal thyself: whatsoever we have heard done in Capernaum, do also here in thy country.
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “Surely you will quote this proverb to Me: ‘Physician, heal yourself! Do here in Your hometown what we have heard that You did in Capernaum.’”
-<small><sub>**Literal:**</sub></small>
-And He said to them; Surely you will say to Me <the> proverb this; Physician do heal yourself! As much as we have heard has been done in <the> Capernaum, do perform also here in the hometown of You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.22|<< Luke 4:22]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.24|Luke 4:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G3843\|πάντως]]  [[G4483\|ἐρεῖτέ]]  [[G3165\|μοι]]  [[G3588\|τὴν]]  [[G3850\|παραβολὴν]]  [[G3778\|ταύτην·]]  [[G2395\|ἰατρέ,]]  [[G2323\|θεράπευσον]]  [[G4771\|σεαυτόν·]]  [[G3745\|ὅσα]]  [[G0191\|ἠκούσαμεν]]  [[G1096\|γενόμενα]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2584\|Καφαρναούμ,]]  [[G4160G\|ποίησον]]  [[G2532\|καὶ]]  [[G5602\|ὧδε]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3968\|πατρίδι]]  [[G4771\|σου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NAZARETH|NAZARETH]] • [[topic PHYSICIAN|PHYSICIAN]] • [[topic PROVERBS|PROVERBS]] • [[topic SCOFFING|SCOFFING]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.22|<< Luke 4:22]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.24|Luke 4:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

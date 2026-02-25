@@ -1,8 +1,77 @@
+---
+title: 1 Chronicles 4:41
+type: Verse
+kjv: "And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because there was pasture there for their flocks."
+bsb: "These who were noted by name came in the days of Hezekiah king of Judah. They attacked the Hamites in their dwellings as well as the Meunites who were there, devoting them to destruction even to this day. Then they settled in their place, because there was pasture for their flocks."
+hebrew: "וַיָּבֹ֡אוּ אֵלֶּה֩ הַכְּתוּבִ֨ים בְּשֵׁמ֜וֹת בִּימֵ֣י׀ יְחִזְקִיָּ֣הוּ מֶֽלֶךְ־ יְהוּדָ֗ה וַיַּכּ֨וּ אֶת־ אָהֳלֵיהֶ֜ם וְאֶת־ הַמְּעוּנִ֨ים אֲשֶׁ֤ר נִמְצְאוּ־ שָׁ֙מָּה֙ וַיַּחֲרִימֻם֙ עַד־ הַיּ֣וֹם הַזֶּ֔ה וַיֵּשְׁב֖וּ תַּחְתֵּיהֶ֑ם כִּֽי־ מִרְעֶ֥ה לְצֹאנָ֖ם שָֽׁם׃"
+pericope: "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H3789]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3117G]]"
+- "[[H9015]]"
+- "[[H2396G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H0168G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H4586G]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H2763A]]"
+- "[[H9038]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H3427]]"
+- "[[H8478I]]"
+- "[[H3588A]]"
+- "[[H4829]]"
+- "[[H9005]]"
+- "[[H6629G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Chronicles 4:41**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because [there was] pasture there for their flocks.
 <small><sub>**BSB:**</sub></small>
 These who were noted by name came in the days of Hezekiah king of Judah. They attacked the Hamites in their dwellings as well as the Meunites who were there, devoting them to destruction even to this day. Then they settled in their place, because there was pasture for their flocks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֡אוּ]] [[H0428\|אֵלֶּה֩]] [[H9009\|הַ]][[H3789\|כְּתוּבִ֨ים]] [[H9003\|בְּ]][[H8034\|שֵׁמ֜וֹת]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]][[H9015\|׀]] [[H2396G\|יְחִזְקִיָּ֣הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H9001\|וַ]][[H5221\|יַּכּ֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0168G\|אָהֳלֵי]][[H9028\|הֶ֜ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4586G\|מְּעוּנִ֨ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H4672\|נִמְצְאוּ]][[H9014\|־]] [[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H9001\|וַ]][[H2763A\|יַּחֲרִימֻ]][[H9038\|ם֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9001\|וַ]][[H3427\|יֵּשְׁב֖וּ]] [[H8478I\|תַּחְתֵּי]][[H9038\|הֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4829\|מִרְעֶ֥ה]] [[H9005\|לְ]][[H6629G\|צֹאנָ֖]][[H9028\|ם]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.40|<< 1 Chronicles 4:40]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.42|1 Chronicles 4:42 >>]]</td></tr></table>
 
@@ -36,7 +105,7 @@ These who were noted by name came in the days of Hezekiah king of Judah. They at
 | [was] there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.40|<< 1 Chronicles 4:40]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.42|1 Chronicles 4:42 >>]]</td></tr></table>
 
-[^1]: the Meinites  | **<big>[[H4586G|מְּעִינִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'i.nim<small><sup>[[HNpl]]</sup></small> | K
-[^2]: the Meinites  | **<big>[[H4586G|מְּעִינִים]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'i.nim<small><sup>[[HNpl]]</sup></small> | K
+[^1]: the Meinites  | **<big>[[H9009|הַ]]</big><big>[[H4586G|מְּעִינִים]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'i.nim<small><sup>[[HNpl]]</sup></small> | K
+[^2]: the Meinites  | **<big>[[H9009|הַ]]</big><big>[[H4586G|מְּעִינִים]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> me.'i.nim<small><sup>[[HNpl]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הַמְּעיּנִ֨ים</big></span>**
 

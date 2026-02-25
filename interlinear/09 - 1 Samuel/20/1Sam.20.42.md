@@ -1,8 +1,74 @@
+---
+title: 1 Samuel 20:42
+type: Verse
+kjv: "And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city."
+bsb: "And Jonathan said to David, “Go in peace, for the two of us have sworn in the name of the LORD, saying, ‘May the LORD be a witness between you and me, and between your descendants and mine forever.’” Then David got up and departed, and Jonathan went back into the city."
+hebrew: "וַיֹּ֧אמֶר יְהוֹנָתָ֛ן לְדָוִ֖ד לֵ֣ךְ לְשָׁל֑וֹם אֲשֶׁר֩ נִשְׁבַּ֨עְנוּ שְׁנֵ֜ינוּ אֲנַ֗חְנוּ בְּשֵׁ֤ם יְהוָה֙ לֵאמֹ֔ר יְהוָ֞ה יִֽהְיֶ֣ה׀ בֵּינִ֣י וּבֵינֶ֗ךָ וּבֵ֥ין זַרְעִ֛י וּבֵ֥ין זַרְעֲךָ֖ עַד־ עוֹלָֽם׃ פ וַיָּ֖קָם וַיֵּלַ֑ךְ וִיהוֹנָתָ֖ן בָּ֥א הָעִֽיר׃"
+pericope: "[[1Sam.20.30 Saul Seeks to Kill Jonathan|Saul Seeks to Kill Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic COVENANT|COVENANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3083H]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H1980G]]"
+- "[[H7965G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H8147]]"
+- "[[H9025]]"
+- "[[H0587]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H0996G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9031]]"
+- "[[H2233H]]"
+- "[[H9020]]"
+- "[[H9021]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+- "[[H6965B]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+texts:
+- L
+---
+
 **1 Samuel 20:42**<big><big>[[1Sam.20.30 Saul Seeks to Kill Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonathan said to David, Go in peace, forasmuch as we have sworn both of us in the name of the LORD, saying, The LORD be between me and thee, and between my seed and thy seed for ever. And he arose and departed: and Jonathan went into the city.
 <small><sub>**BSB:**</sub></small>
 And Jonathan said to David, “Go in peace, for the two of us have sworn in the name of the LORD, saying, ‘May the LORD be a witness between you and me, and between your descendants and mine forever.’” Then David got up and departed, and Jonathan went back into the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H3083H\|יְהוֹנָתָ֛ן]] [[H9005\|לְ]][[H1732\|דָוִ֖ד]] [[H1980G\|לֵ֣ךְ]] [[H9005\|לְ]][[H7965G\|שָׁל֑וֹם]] [[H0834A\|אֲשֶׁר֩]] [[H7650\|נִשְׁבַּ֨עְנוּ]] [[H8147\|שְׁנֵ֜י]][[H9025\|נוּ]] [[H0587\|אֲנַ֗חְנוּ]] [[H9003\|בְּ]][[H8034\|שֵׁ֤ם]] [[H3068G\|יְהוָה֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3068G\|יְהוָ֞ה]] [[H1961\|יִֽהְיֶ֣ה]][[H9015\|׀]] [[H0996G\|בֵּינִ֣]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֶ֗]][[H9031\|ךָ]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H2233H\|זַרְעִ֛]][[H9020\|י]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H2233H\|זַרְעֲ]][[H9021\|ךָ֖]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]] [[H9017\|פ]] [[H9001\|וַ]][[H6965B\|יָּ֖קָם]] [[H9001\|וַ]][[H1980G\|יֵּלַ֑ךְ]] [[H9002\|וִ]][[H3083H\|יהוֹנָתָ֖ן]] [[H0935G\|בָּ֥א]] [[H9009\|הָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic COVENANT|COVENANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.41|<< 1 Samuel 20:41]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.21.1|1 Samuel 21:1 >>]]</td></tr></table>
 
@@ -29,7 +95,7 @@ And Jonathan said to David, “Go in peace, for the two of us have sworn in the 
 | and between  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H0996G\|בֵ֥ין]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Vein<small><sup>[[HAcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | offspring your  |**<big>&#8207;[[H2233H\|זַרְעֲ]]&#8207;&#8207;[[H9021\|ךָ֖]]&#8207; </big>**| zar.'a.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | until  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| perpetuity  |**<big>&#8207;[[H5769G\|עוֹלָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| o.Lam<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he arose  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6965B\|יָּ֖קָם]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ya.kom<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980G\|יֵּלַ֑ךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ye.Lakh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Jonathan  |**<big>&#8207;[[H9002\|וִ]]&#8207;&#8207;[[H3083H\|יהוֹנָתָ֖ן]]&#8207; </big>**| vi.<small><sup>[[HC]]</sup></small> ho.na.Tan<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |

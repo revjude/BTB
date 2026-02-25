@@ -1,8 +1,68 @@
+---
+title: Leviticus 1:11
+type: Verse
+kjv: "And he shall kill it on the side of the altar northward before the LORD: and the priests, Aaron’s sons, shall sprinkle his blood round about upon the altar."
+bsb: "He shall slaughter it on the north side of the altar before the LORD, and Aaron’s sons the priests are to splatter its blood against the altar on all sides."
+hebrew: "וְשָׁחַ֨ט אֹת֜וֹ עַ֣ל יֶ֧רֶךְ הַמִּזְבֵּ֛חַ צָפֹ֖נָה לִפְנֵ֣י יְהוָ֑ה וְזָרְק֡וּ בְּנֵי֩ אַהֲרֹ֨ן הַכֹּהֲנִ֧ים אֶת־ דָּמ֛וֹ עַל־ הַמִּזְבֵּ֖חַ סָבִֽיב׃"
+pericope: "[[Lev.1.1 Laws for Burnt Offerings|Laws for Burnt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 1
+book/chapter: "[[Lev.1|Leviticus 1]]"
+chronological_order: 133
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7819A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H3409]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H6828G]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H2236]]"
+- "[[H1121A]]"
+- "[[H0175]]"
+- "[[H3548]]"
+- "[[H9014]]"
+- "[[H1818]]"
+- "[[H9023]]"
+- "[[H5439H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 1:11**<big><big>[[Lev.1.1 Laws for Burnt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall kill it on the side of the altar northward before the LORD: and the priests, Aaron’s sons, shall sprinkle his blood round about upon the altar.
 <small><sub>**BSB:**</sub></small>
 He shall slaughter it on the north side of the altar before the LORD, and Aaron’s sons the priests are to splatter its blood against the altar on all sides.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7819A\|שָׁחַ֨ט]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H5921A\|עַ֣ל]] [[H3409\|יֶ֧רֶךְ]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֛חַ]] [[H6828G\|צָפֹ֖נָ]][[H9011\|ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H2236\|זָרְק֡וּ]] [[H1121A\|בְּנֵי֩]] [[H0175\|אַהֲרֹ֨ן]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֧ים]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמ֛]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֖חַ]] [[H5439H\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.1.10|<< Leviticus 1:10]]</td><td align="center" style="border:none;">[[Lev.1|Leviticus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.1.12|Leviticus 1:12 >>]]</td></tr></table>
 

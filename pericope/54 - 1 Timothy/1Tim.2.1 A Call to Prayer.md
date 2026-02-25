@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Call to Prayer
+type: Pericope
 pericope: "[[1Tim.2.1 A Call to Prayer|A Call to Prayer]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 Timothy
 chapter: 2
 book/chapter: "[[1Tim.2|1 Timothy 2]]"
-genre:
+chronological_order: 1127
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 8
 verses:
 - "[[1Tim.2.1]]"
 - "[[1Tim.2.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Tim.2.8]]"
 ---
 
-[[1Tim.2|1 Timothy 2:1 - 1 Timothy 2:8]]
+<small>[[1Tim.2|1 Timothy 2:1-8]]</small>
 *A Call to Prayer*
 
 [[1Tim.2.1|1]] I exhort therefore, that, first of all, supplications, prayers, intercessions, \[and\] giving of thanks, be made for all men;

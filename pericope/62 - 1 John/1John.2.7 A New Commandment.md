@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A New Commandment
+type: Pericope
 pericope: "[[1John.2.7 A New Commandment|A New Commandment]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: 1 John
 chapter: 2
 book/chapter: "[[1John.2|1 John 2]]"
-genre:
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - theological treatise
 - polemical
+verse_count: 8
 verses:
 - "[[1John.2.7]]"
 - "[[1John.2.8]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1John.2.14]]"
 ---
 
-[[1John.2|1 John 2:7 - 1 John 2:14]]
+<small>[[1John.2|1 John 2:7-14]]</small>
 *A New Commandment*
 
 [[1John.2.7|7]] Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.

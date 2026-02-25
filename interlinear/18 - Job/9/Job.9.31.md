@@ -1,8 +1,52 @@
+---
+title: Job 9:31
+type: Verse
+kjv: "Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me."
+bsb: "then You would plunge me into the pit, and even my own clothes would despise me."
+hebrew: "אָ֭ז בַּשַּׁ֣חַת תִּטְבְּלֵ֑נִי וְ֝תִֽעֲב֗וּנִי שַׂלְמוֹתָֽי׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0227A]]"
+- "[[H9003]]"
+- "[[H7845H]]"
+- "[[H2881]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H8581]]"
+- "[[H8008]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:31**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.
 <small><sub>**BSB:**</sub></small>
 then You would plunge me into the pit, and even my own clothes would despise me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֭ז]] [[H9003\|בַּ]][[H7845H\|שַּׁ֣חַת]] [[H2881\|תִּטְבְּלֵ֑]][[H9030\|נִי]] [[H9001\|וְ֝]][[H8581\|תִֽעֲב֗וּ]][[H9030\|נִי]] [[H8008\|שַׂלְמוֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.30|<< Job 9:30]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.32|Job 9:32 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: 1 Samuel 20:10
+type: Verse
+kjv: "Then said David to Jonathan, Who shall tell me? or what if thy father answer thee roughly?"
+bsb: "Then David asked Jonathan, “Who will tell me if your father answers you harshly?”"
+hebrew: "וַיֹּ֤אמֶר דָּוִד֙ אֶל־ יְה֣וֹנָתָ֔ן מִ֖י יַגִּ֣יד לִ֑י א֛וֹ מַה־ יַּעַנְךָ֥ אָבִ֖יךָ קָשָֽׁה׃ ס"
+pericope: "[[1Sam.20.10 Jonathan and David Renew Their Covenant|Jonathan and David Renew Their Covenant]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3083H]]"
+- "[[H4310]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0176A]]"
+- "[[H4100]]"
+- "[[H6030B]]"
+- "[[H9031]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H7186]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 20:10**<big><big>[[1Sam.20.10 Jonathan and David Renew Their Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said David to Jonathan, Who shall tell me? or what [if] thy father answer thee roughly?
 <small><sub>**BSB:**</sub></small>
 Then David asked Jonathan, “Who will tell me if your father answers you harshly?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1732\|דָּוִד֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3083H\|יְה֣וֹנָתָ֔ן]] [[H4310\|מִ֖י]] [[H5046\|יַגִּ֣יד]] [[H9005\|לִ֑]][[H9030\|י]] [[H0176A\|א֛וֹ]] [[H4100\|מַה]][[H9014\|־]] [[H6030B\|יַּעַנְ]][[H9031\|ךָ֥]] [[H0001G\|אָבִ֖י]][[H9021\|ךָ]] [[H7186\|קָשָֽׁה]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.9|<< 1 Samuel 20:9]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.11|1 Samuel 20:11 >>]]</td></tr></table>
 
@@ -19,7 +66,7 @@ Then David asked Jonathan, “Who will tell me if your father answers you harshl
 | what?  |**<big>&#8207;[[H4100\|מַה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he answer you  |**<big>&#8207;[[H6030B\|יַּעַנְ]]&#8207;&#8207;[[H9031\|ךָ֥]]&#8207; </big>**| ya.'an.<small><sup>[[HVqi3ms]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | father your  |**<big>&#8207;[[H0001G\|אָבִ֖י]]&#8207;&#8207;[[H9021\|ךָ]]&#8207; </big>**| 'a.Vi.<small><sup>[[HNcmsc]]</sup></small> kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hard  |**<big>&#8207;[[H7186\|קָשָֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.Shah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hard  |**<big>&#8207;[[H7186\|קָשָֽׁה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.Shah<small><sup>[[HAafsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.9|<< 1 Samuel 20:9]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.11|1 Samuel 20:11 >>]]</td></tr></table>
 
 

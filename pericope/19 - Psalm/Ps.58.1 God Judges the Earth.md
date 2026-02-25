@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Judges the Earth
+type: Pericope
 pericope: "[[Ps.58.1 God Judges the Earth|God Judges the Earth]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 58
 book/chapter: "[[Ps.58|Psalm 58]]"
-genre:
+chronological_order: 371
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.58.0]]"
 - "[[Ps.58.1]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.58.11]]"
 ---
 
-[[Ps.58|Psalm 58:1 - Psalm 58:11]]
+<small>[[Ps.58|Psalm 58:1-11]]</small>
 *God Judges the Earth*
 
 [[Ps.58.0|0]] To the chief Musician, Altaschith, Michtam of David.

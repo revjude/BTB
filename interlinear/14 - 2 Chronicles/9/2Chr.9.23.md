@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 9:23
+type: Verse
+kjv: "And all the kings of the earth sought the presence of Solomon, to hear his wisdom, that God had put in his heart."
+bsb: "All the kings of the earth sought an audience with Solomon to hear the wisdom that God had put in his heart."
+hebrew: "וְכֹל֙ מַלְכֵ֣י הָאָ֔רֶץ מְבַקְשִׁ֖ים אֶת־ פְּנֵ֣י שְׁלֹמֹ֑ה לִשְׁמֹ֙עַ֙ אֶת־ חָכְמָת֔וֹ אֲשֶׁר־ נָתַ֥ן הָאֱלֹהִ֖ים בְּלִבּֽוֹ׃"
+pericope: "[[2Chr.9.13 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H2451]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H5414H]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:23**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the kings of the earth sought the presence of Solomon, to hear his wisdom, that God had put in his heart.
 <small><sub>**BSB:**</sub></small>
 All the kings of the earth sought an audience with Solomon to hear the wisdom that God had put in his heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כֹל֙]] [[H4428G\|מַלְכֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H1245\|מְבַקְשִׁ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H6440H\|פְּנֵ֣י]] [[H8010\|שְׁלֹמֹ֑ה]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֙עַ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H2451\|חָכְמָת֔]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414H\|נָתַ֥ן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בְּ]][[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.22|<< 2 Chronicles 9:22]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.24|2 Chronicles 9:24 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Revelation 1:20
+type: Verse
+kjv: "The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches."
+bsb: "This is the mystery of the seven stars you saw in My right hand and of the seven golden lampstands: The seven stars are the angels of the seven churches, and the seven lampstands are the seven churches."
+jesus_said: "The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches."
+greek: "τὸ μυστήριον τῶν ἑπτὰ ἀστέρων οὓς εἶδες ἐπὶ τῆς δεξιᾶς μου καὶ τὰς ἑπτὰ λυχνίας τὰς χρυσᾶς· οἱ ἑπτὰ ἀστέρες ἄγγελοι τῶν ἑπτὰ ἐκκλησιῶν εἰσιν καὶ αἱ λυχνίαι αἱ εἶδες ἑπτὰ ἑπτὰ ἐκκλησίαι εἰσίν.¶"
+pericope: "[[Rev.1.9 John’s Vision on Patmos|John’s Vision on Patmos]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 1
+book/chapter: "[[Rev.1|Revelation 1]]"
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic STARS|STARS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3588]]"
+- "[[G3466]]"
+- "[[G2033]]"
+- "[[G0792]]"
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G1909]]"
+- "[[G1188]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3087]]"
+- "[[G5552]]"
+- "[[G0032G]]"
+- "[[G1577]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Revelation 1:20**<big><big>[[Rev.1.9 John’s Vision on Patmos|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.
 <small><sub>**BSB:**</sub></small>
 This is the mystery of the seven stars you saw in My right hand and of the seven golden lampstands: The seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.
-<small><sub>**Literal:**</sub></small>
-the mystery of the seven stars which you saw on the right hand of Me and the seven lampstands <the> golden: The seven stars [the] angels of the seven churches are and the lampstands that you saw seven [the] seven churches are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.19|<< Revelation 1:19]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.1|Revelation 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G3466\|μυστήριον]]  [[G3588\|τῶν]]  [[G2033\|ἑπτὰ]]  [[G0792\|ἀστέρων]]  [[G3739\|οὓς]]  [[G1492H\|εἶδες]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1188\|δεξιᾶς]]  [[G3165\|μου]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G2033\|ἑπτὰ]]  [[G3087\|λυχνίας]]  [[G3588\|τὰς]]  [[G5552\|χρυσᾶς·]]  [[G3588\|οἱ]]  [[G2033\|ἑπτὰ]]  [[G0792\|ἀστέρες]]  [[G0032G\|ἄγγελοι]]  [[G3588\|τῶν]]  [[G2033\|ἑπτὰ]]  [[G1577\|ἐκκλησιῶν]]  [[G1510\|εἰσιν]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G3087\|λυχνίαι]]  [[G3588\|αἱ]]  [[G1492H\|εἶδες]]  [[G2033\|ἑπτὰ]]  [[G2033\|ἑπτὰ]]  [[G1577\|ἐκκλησίαι]]  [[G1510\|εἰσίν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL OF THE CHURCHES|ANGEL OF THE CHURCHES]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SEVEN|SEVEN]] • [[topic STARS|STARS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.1.19|<< Revelation 1:19]]</td><td align="center" style="border:none;">[[Rev.1|Revelation 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.2.1|Revelation 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

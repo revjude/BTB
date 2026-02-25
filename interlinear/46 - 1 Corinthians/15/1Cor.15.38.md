@@ -1,10 +1,57 @@
+---
+title: 1 Corinthians 15:38
+type: Verse
+kjv: "But God giveth it a body as it hath pleased him, and to every seed his own body."
+bsb: "But God gives it a body as He has designed, and to each kind of seed He gives its own body."
+greek: "ὁ δὲ θεὸς δίδωσιν αὐτῷ σῶμα καθὼς ἠθέλησεν καὶ ἑκάστῳ τῶν σπερμάτων τὸ ἴδιον σῶμα.¶"
+pericope: "[[1Cor.15.35 The Resurrection Body|The Resurrection Body]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic BOTANY|BOTANY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SEED|SEED]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2316]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G4983]]"
+- "[[G2531]]"
+- "[[G2309]]"
+- "[[G2532]]"
+- "[[G1538]]"
+- "[[G4690H]]"
+- "[[G2398]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 15:38**<big><big>[[1Cor.15.35 The Resurrection Body|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But God giveth it a body as it hath pleased him, and to every seed his own body.
 <small><sub>**BSB:**</sub></small>
 But God gives it a body as He has designed, and to each kind of seed He gives its own body.
-<small><sub>**Literal:**</sub></small>
-<the> But God gives to it a body even as He has willed and to each of the seeds <the> [its] own body.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.37|<< 1 Corinthians 15:37]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.39|1 Corinthians 15:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2316\|θεὸς]]  [[G1325\|δίδωσιν]]  [[G0846\|αὐτῷ]]  [[G4983\|σῶμα]]  [[G2531\|καθὼς]]  [[G2309\|ἠθέλησεν]]  [[G2532\|καὶ]]  [[G1538\|ἑκάστῳ]]  [[G3588\|τῶν]]  [[G4690H\|σπερμάτων]]  [[G3588\|τὸ]]  [[G2398\|ἴδιον]]  [[G4983\|σῶμα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic BOTANY|BOTANY]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SEED|SEED]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.37|<< 1 Corinthians 15:37]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.39|1 Corinthians 15:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

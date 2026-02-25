@@ -1,10 +1,53 @@
+---
+title: Acts 8:15
+type: Verse
+kjv: "Who, when they were come down, prayed for them, that they might receive the Holy Ghost:"
+bsb: "On their arrival, they prayed for them to receive the Holy Spirit."
+greek: "οἵτινες καταβάντες προσηύξαντο περὶ αὐτῶν ὅπως λάβωσιν πνεῦμα ἅγιον."
+pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[G3748]]"
+- "[[G2597]]"
+- "[[G4336]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G3704]]"
+- "[[G2983]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+texts:
+- NKO
+---
+
 **Acts 8:15**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who, when they were come down, prayed for them, that they might receive the Holy Ghost:
 <small><sub>**BSB:**</sub></small>
 On their arrival, they prayed for them to receive the Holy Spirit.
-<small><sub>**Literal:**</sub></small>
-who having come down they prayed for them that they may receive [the] Spirit Holy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.14|<< Acts 8:14]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.16|Acts 8:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|οἵτινες]]  [[G2597\|καταβάντες]]  [[G4336\|προσηύξαντο]]  [[G4012\|περὶ]]  [[G0846\|αὐτῶν]]  [[G3704\|ὅπως]]  [[G2983\|λάβωσιν]]  [[G4151G\|πνεῦμα]]  [[G0040G\|ἅγιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOHN|JOHN]] • [[topic PETER|PETER]] • [[topic SAMARIA|SAMARIA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.14|<< Acts 8:14]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.16|Acts 8:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

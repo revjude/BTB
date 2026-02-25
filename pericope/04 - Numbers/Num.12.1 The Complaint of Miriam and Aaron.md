@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Complaint of Miriam and Aaron
+type: Pericope
 pericope: "[[Num.12.1 The Complaint of Miriam and Aaron|The Complaint of Miriam and Aaron]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 12
 book/chapter: "[[Num.12|Numbers 12]]"
-genre:
+chronological_order: 172
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 16
 verses:
 - "[[Num.12.1]]"
 - "[[Num.12.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Num.12.16]]"
 ---
 
-[[Num.12|Numbers 12:1 - Numbers 12:16]]
+<small>[[Num.12|Numbers 12:1-16]]</small>
 *The Complaint of Miriam and Aaron*
 
 [[Num.12.1|1]] And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.

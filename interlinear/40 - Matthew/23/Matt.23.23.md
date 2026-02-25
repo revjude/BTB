@@ -1,10 +1,79 @@
+---
+title: Matthew 23:23
+type: Verse
+kjv: "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone."
+bsb: "Woe to you, scribes and Pharisees, you hypocrites! You pay tithes of mint, dill, and cumin. But you have disregarded the weightier matters of the law: justice, mercy, and faithfulness. You should have practiced the latter, without neglecting the former."
+jesus_said: "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone."
+greek: "Οὐαὶ ὑμῖν, γραμματεῖς καὶ Φαρισαῖοι ὑποκριταί, ὅτι ἀποδεκατοῦτε τὸ ἡδύοσμον καὶ τὸ ἄνηθον καὶ τὸ κύμινον καὶ ἀφήκατε τὰ βαρύτερα τοῦ νόμου, τὴν κρίσιν καὶ τὸ ἔλεος καὶ τὴν πίστιν· ταῦτα δὲ ἔδει ποιῆσαι κἀκεῖνα κἀκεῖνα μὴ ἀφιέναι."
+pericope: "[[Matt.23.1 Woes to Scribes and Pharisees|Woes to Scribes and Pharisees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 23
+book/chapter: "[[Matt.23|Matthew 23]]"
+chronological_order: 996
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANISE|ANISE]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CUMMIN|CUMMIN]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic MERCY|MERCY]]"
+- "[[topic MINT|MINT]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G1122]]"
+- "[[G2532]]"
+- "[[G5330]]"
+- "[[G5273]]"
+- "[[G3754H]]"
+- "[[G0586]]"
+- "[[G3588]]"
+- "[[G2238]]"
+- "[[G0432]]"
+- "[[G2951]]"
+- "[[G0863G]]"
+- "[[G0926]]"
+- "[[G3551]]"
+- "[[G2920]]"
+- "[[G1656]]"
+- "[[G4102H]]"
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G1163]]"
+- "[[G4160G]]"
+- "[[G1565]]"
+- "[[G3361]]"
+texts:
+- NKO
+- N(k)O
+- no
+- NK(o)
+---
+
 **Matthew 23:23**<big><big>[[Matt.23.1 Woes to Scribes and Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier [matters] of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone.
 <small><sub>**BSB:**</sub></small>
 Woe to you, scribes and Pharisees, you hypocrites! You pay tithes of mint, dill, and cumin. But you have disregarded the weightier matters of the law: justice, mercy, and faithfulness. You should have practiced the latter, without neglecting the former.
-<small><sub>**Literal:**</sub></small>
-Woe to you, scribes and Pharisees hypocrites! For you pay tithes of <the> mint and <the> dill and <the> cumin and you have neglected the weightier [matters] of the law, <the> justice and <the> mercy and <the> faithfulness; These now it was necessary to do those not to be leaving aside.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.22|<< Matthew 23:22]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.24|Matthew 23:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3759\|Οὐαὶ]]  [[G4771\|ὑμῖν,]]  [[G1122\|γραμματεῖς]]  [[G2532\|καὶ]]  [[G5330\|Φαρισαῖοι]]  [[G5273\|ὑποκριταί,]]  [[G3754H\|ὅτι]]  [[G0586\|ἀποδεκατοῦτε]]  [[G3588\|τὸ]]  [[G2238\|ἡδύοσμον]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G0432\|ἄνηθον]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2951\|κύμινον]]  [[G2532\|καὶ]]  [[G0863G\|ἀφήκατε]]  [[G3588\|τὰ]]  [[G0926\|βαρύτερα]]  [[G3588\|τοῦ]]  [[G3551\|νόμου,]]  [[G3588\|τὴν]]  [[G2920\|κρίσιν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1656\|ἔλεος]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4102H\|πίστιν·]]  [[G3778\|ταῦτα]]  [[G1161\|δὲ]]  [[G1163\|ἔδει]]  [[G4160G\|ποιῆσαι]]  [[G2532\|κἀκεῖνα]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G3361\|μὴ]]  [[G0863G\|ἀφιέναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANISE|ANISE]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHURCH|CHURCH]] • [[topic CUMMIN|CUMMIN]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic MERCY|MERCY]] • [[topic MINT|MINT]] • [[topic PHARISEES|PHARISEES]] • [[topic SATIRE|SATIRE]] • [[topic TEACHERS|TEACHERS]] • [[topic TITHES|TITHES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.23.22|<< Matthew 23:22]]</td><td align="center" style="border:none;">[[Matt.23|Matthew 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.23.24|Matthew 23:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

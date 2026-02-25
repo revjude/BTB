@@ -1,8 +1,60 @@
+---
+title: Numbers 28:17
+type: Verse
+kjv: "And in the fifteenth day of this month is the feast: seven days shall unleavened bread be eaten."
+bsb: "On the fifteenth day of this month, there shall be a feast; for seven days unleavened bread is to be eaten."
+hebrew: "וּבַחֲמִשָּׁ֨ה עָשָׂ֥ר י֛וֹם לַחֹ֥דֶשׁ הַזֶּ֖ה חָ֑ג שִׁבְעַ֣ת יָמִ֔ים מַצּ֖וֹת יֵאָכֵֽל׃"
+pericope: "[[Num.28.16 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H2282]]"
+- "[[H7651]]"
+- "[[H4682]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:17**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the fifteenth day of this month [is] the feast: seven days shall unleavened bread be eaten.
 <small><sub>**BSB:**</sub></small>
 On the fifteenth day of this month, there shall be a feast; for seven days unleavened bread is to be eaten.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H2568\|חֲמִשָּׁ֨ה]] [[H6240\|עָשָׂ֥ר]] [[H3117G\|י֛וֹם]] [[H9005\|לַ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H2282\|חָ֑ג]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֔ים]] [[H4682\|מַצּ֖וֹת]] [[H0398\|יֵאָכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic PASSOVER|PASSOVER]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.16|<< Numbers 28:16]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.18|Numbers 28:18 >>]]</td></tr></table>
 

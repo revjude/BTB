@@ -1,8 +1,58 @@
+---
+title: Genesis 34:31
+type: Verse
+kjv: "And they said, Should he deal with our sister as with an harlot?"
+bsb: "But they replied, “Should he have treated our sister like a prostitute?”"
+hebrew: "וַיֹּאמְר֑וּ הַכְזוֹנָ֕ה יַעֲשֶׂ֖ה אֶת־ אֲחוֹתֵֽנוּ׃ פ"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic VENGEANCE|VENGEANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H9004]]"
+- "[[H2181]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0269]]"
+- "[[H9025]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Genesis 34:31**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, Should he deal with our sister as with an harlot?
 <small><sub>**BSB:**</sub></small>
 But they replied, “Should he have treated our sister like a prostitute?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֑וּ]] [[H9008\|הַ]][[H9004\|כְ]][[H2181\|זוֹנָ֕ה]] [[H6213A\|יַעֲשֶׂ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0269\|אֲחוֹתֵֽ]][[H9025\|נוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic VENGEANCE|VENGEANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.30|<< Genesis 34:30]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.1|Genesis 35:1 >>]]</td></tr></table>
 
@@ -12,7 +62,7 @@ But they replied, “Should he have treated our sister like a prostitute?”
 | ¿ like a prostitute  |**<big>&#8207;[[H9008\|הַ]]&#8207;&#8207;[[H9004\|כְ]]&#8207;&#8207;[[H2181\|זוֹנָ֕ה]]&#8207; </big>**| ha<small><sup>[[HTi]]</sup></small> kh.<small><sup>[[HR]]</sup></small> zo.Nah<small><sup>[[HVqrfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he use  |**<big>&#8207;[[H6213A\|יַעֲשֶׂ֖ה]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| sister our  |**<big>&#8207;[[H0269\|אֲחוֹתֵֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.cho.Te.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| sister our  |**<big>&#8207;[[H0269\|אֲחוֹתֵֽ]]&#8207;&#8207;[[H9025\|נוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.cho.Te.<small><sup>[[HNcfsc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.30|<< Genesis 34:30]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.1|Genesis 35:1 >>]]</td></tr></table>
 
 

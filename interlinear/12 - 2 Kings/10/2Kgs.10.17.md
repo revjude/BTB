@@ -1,8 +1,71 @@
+---
+title: 2 Kings 10:17
+type: Verse
+kjv: "And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of the LORD, which he spake to Elijah."
+bsb: "When Jehu came to Samaria, he struck down everyone belonging to Ahab who remained there, until he had destroyed them, according to the word that the LORD had spoken to Elijah."
+hebrew: "וַיָּבֹא֙ שֹֽׁמְר֔וֹן וַ֠יַּךְ אֶת־ כָּל־ הַנִּשְׁאָרִ֧ים לְאַחְאָ֛ב בְּשֹׁמְר֖וֹן עַד־ הִשְׁמִיד֑וֹ כִּדְבַ֣ר יְהוָ֔ה אֲשֶׁ֥ר דִּבֶּ֖ר אֶל־ אֵלִיָּֽהוּ׃ פ"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H8111]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H7604]]"
+- "[[H9005]]"
+- "[[H0256G]]"
+- "[[H9003]]"
+- "[[H5704]]"
+- "[[H8045]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H0452G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 10:17**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of the LORD, which he spake to Elijah.
 <small><sub>**BSB:**</sub></small>
 When Jehu came to Samaria, he struck down everyone belonging to Ahab who remained there, until he had destroyed them, according to the word that the LORD had spoken to Elijah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H8111\|שֹֽׁמְר֔וֹן]] [[H9001\|וַ֠]][[H5221\|יַּךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֧ים]] [[H9005\|לְ]][[H0256G\|אַחְאָ֛ב]] [[H9003\|בְּ]][[H8111\|שֹׁמְר֖וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H8045\|הִשְׁמִיד֑]][[H9033\|וֹ]] [[H9004\|כִּ]][[H1697G\|דְבַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבֶּ֖ר]] [[H0413\|אֶל]][[H9014\|־]] [[H0452G\|אֵלִיָּֽהוּ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENTHUSIASM|ENTHUSIASM]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic JEHU|JEHU]] • [[topic JONADAB|JONADAB]] • [[topic RELIGION|RELIGION]] • [[topic SAMARIA|SAMARIA]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.16|<< 2 Kings 10:16]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.18|2 Kings 10:18 >>]]</td></tr></table>
 
@@ -23,7 +86,7 @@ When Jehu came to Samaria, he struck down everyone belonging to Ahab who remaine
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he had spoken  |**<big>&#8207;[[H1696G\|דִּבֶּ֖ר]]&#8207; </big>**| di.Ber<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Elijah  |**<big>&#8207;[[H0452G\|אֵלִיָּֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.li.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Elijah  |**<big>&#8207;[[H0452G\|אֵלִיָּֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.li.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.16|<< 2 Kings 10:16]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.18|2 Kings 10:18 >>]]</td></tr></table>
 
 

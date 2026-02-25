@@ -1,8 +1,63 @@
+---
+title: 2 Samuel 15:1
+type: Verse
+kjv: "And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him."
+bsb: "Some time later, Absalom provided for himself a chariot with horses and fifty men to run ahead of him."
+hebrew: "וַֽיְהִי֙ מֵאַ֣חֲרֵי כֵ֔ן וַיַּ֤עַשׂ לוֹ֙ אַבְשָׁל֔וֹם מֶרְכָּבָ֖ה וְסֻסִ֑ים וַחֲמִשִּׁ֥ים אִ֖ישׁ רָצִ֥ים לְפָנָֽיו׃"
+pericope: "[[2Sam.15.1 Absalom’s Conspiracy|Absalom’s Conspiracy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic ELECTIONEERING|ELECTIONEERING]]"
+- "[[topic FOOTMAN|FOOTMAN]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0053]]"
+- "[[H4818]]"
+- "[[H9002]]"
+- "[[H5483M]]"
+- "[[H2572]]"
+- "[[H0376G]]"
+- "[[H7323G]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:1**<big><big>[[2Sam.15.1 Absalom’s Conspiracy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after this, that Absalom prepared him chariots and horses, and fifty men to run before him.
 <small><sub>**BSB:**</sub></small>
 Some time later, Absalom provided for himself a chariot with horses and fifty men to run ahead of him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9006\|מֵ]][[H0310A\|אַ֣חֲרֵי]] [[H3651C\|כֵ֔ן]] [[H9001\|וַ]][[H6213H\|יַּ֤עַשׂ]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H0053\|אַבְשָׁל֔וֹם]] [[H4818\|מֶרְכָּבָ֖ה]] [[H9002\|וְ]][[H5483M\|סֻסִ֑ים]] [[H9002\|וַ]][[H2572\|חֲמִשִּׁ֥ים]] [[H0376G\|אִ֖ישׁ]] [[H7323G\|רָצִ֥ים]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CANDIDATE|CANDIDATE]] • [[topic ELECTIONEERING|ELECTIONEERING]] • [[topic FOOTMAN|FOOTMAN]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.33|<< 2 Samuel 14:33]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.2|2 Samuel 15:2 >>]]</td></tr></table>
 

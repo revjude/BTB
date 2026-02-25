@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Delivered to Pilate
+type: Pericope
 pericope: "[[Mark.15.1 Jesus Delivered to Pilate|Jesus Delivered to Pilate]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 15
 book/chapter: "[[Mark.15|Mark 15]]"
-genre:
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.15.1]]"
 - "[[Mark.15.2]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.15.5]]"
 ---
 
-[[Mark.15|Mark 15:1 - Mark 15:5]]
+<small>[[Mark.15|Mark 15:1-5]]</small>
 *Jesus Delivered to Pilate*
 
 [[Mark.15.1|1]] And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried \[him\] away, and delivered \[him\] to Pilate.

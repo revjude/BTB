@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hilkiah Finds the Book of the Law
+type: Pericope
 pericope: "[[2Kgs.22.8 Hilkiah Finds the Book of the Law|Hilkiah Finds the Book of the Law]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 22
 book/chapter: "[[2Kgs.22|2 Kings 22]]"
-genre:
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[2Kgs.22.8]]"
 - "[[2Kgs.22.9]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Kgs.22.13]]"
 ---
 
-[[2Kgs.22|2 Kings 22:8 - 2 Kings 22:13]]
+<small>[[2Kgs.22|2 Kings 22:8-13]]</small>
 *Hilkiah Finds the Book of the Law*
 
 [[2Kgs.22.8|8]] And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it.

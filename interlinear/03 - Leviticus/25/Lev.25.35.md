@@ -1,8 +1,73 @@
+---
+title: Leviticus 25:35
+type: Verse
+kjv: "And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee."
+bsb: "Now if your countryman becomes destitute and cannot support himself among you, then you are to help him as you would a foreigner or stranger, so that he can continue to live among you."
+hebrew: "וְכִֽי־ יָמ֣וּךְ אָחִ֔יךָ וּמָ֥טָה יָד֖וֹ עִמָּ֑ךְ וְהֶֽחֱזַ֣קְתָּ בּ֔וֹ גֵּ֧ר וְתוֹשָׁ֛ב וָחַ֖י עִמָּֽךְ׃"
+pericope: "[[Lev.25.35 Redemption of the Poor|Redemption of the Poor]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ALMS|ALMS]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STRANGERS|STRANGERS]]"
+- "[[topic USURY|USURY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4134]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H4131]]"
+- "[[H3027I]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H2388G]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H1616]]"
+- "[[H8453A]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:35**<big><big>[[Lev.25.35 Redemption of the Poor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: [yea, though he be] a stranger, or a sojourner; that he may live with thee.
 <small><sub>**BSB:**</sub></small>
 Now if your countryman becomes destitute and cannot support himself among you, then you are to help him as you would a foreigner or stranger, so that he can continue to live among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H4134\|יָמ֣וּךְ]] [[H0251I\|אָחִ֔י]][[H9021\|ךָ]] [[H9001\|וּ]][[H4131\|מָ֥טָה]] [[H3027I\|יָד֖]][[H9023\|וֹ]] [[H5973A\|עִמָּ֑]][[H9032\|ךְ]] [[H9001\|וְ]][[H2388G\|הֶֽחֱזַ֣קְתָּ]] [[H9003\|בּ֔]][[H9033\|וֹ]] [[H1616\|גֵּ֧ר]] [[H9002\|וְ]][[H8453A\|תוֹשָׁ֛ב]] [[H9001\|וָ]][[H2421\|חַ֖י]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALMS|ALMS]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic SERVANT|SERVANT]] • [[topic STRANGERS|STRANGERS]] • [[topic USURY|USURY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.34|<< Leviticus 25:34]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.36|Leviticus 25:36 >>]]</td></tr></table>
 

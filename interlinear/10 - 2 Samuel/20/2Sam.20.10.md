@@ -1,8 +1,84 @@
+---
+title: 2 Samuel 20:10
+type: Verse
+kjv: "But Amasa took no heed to the sword that was in Joab’s hand: so he smote him therewith in the fifth rib, and shed out his bowels to the ground, and struck him not again; and he died. So Joab and Abishai his brother pursued after Sheba the son of Bichri."
+bsb: "Amasa was not on guard against the dagger in Joab’s hand, and Joab stabbed him in the stomach and spilled out his intestines on the ground. And Joab did not need to strike him again, for Amasa was dead. Then Joab and his brother Abishai pursued Sheba son of Bichri."
+hebrew: "וַעֲמָשָׂ֨א לֹֽא־ נִשְׁמַ֜ר בַּחֶ֣רֶב׀ אֲשֶׁ֣ר בְּיַד־ יוֹאָ֗ב וַיַּכֵּהוּ֩ בָ֨הּ אֶל־ הַחֹ֜מֶשׁ וַיִּשְׁפֹּ֨ךְ מֵעָ֥יו אַ֛רְצָה וְלֹא־ שָׁ֥נָה ל֖וֹ וַיָּמֹ֑ת ס וְיוֹאָב֙ וַאֲבִישַׁ֣י אָחִ֔יו רָדַ֕ף אַחֲרֵ֖י שֶׁ֥בַע בֶּן־ בִּכְרִֽי׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic AMASA|AMASA]]"
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic KISS|KISS]]"
+- "[[topic TREACHERY|TREACHERY]]"
+strongs:
+- "[[H9002]]"
+- "[[H6021G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H8104I]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H3027G]]"
+- "[[H3097G]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H2570]]"
+- "[[H8210G]]"
+- "[[H4578]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H8138B]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9018]]"
+- "[[H0052]]"
+- "[[H0251G]]"
+- "[[H7291]]"
+- "[[H0310A]]"
+- "[[H7652A]]"
+- "[[H1121A]]"
+- "[[H1075]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:10**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Amasa took no heed to the sword that [was] in Joab’s hand: so he smote him therewith in the fifth [rib], and shed out his bowels to the ground, and struck him not again; and he died. So Joab and Abishai his brother pursued after Sheba the son of Bichri.
 <small><sub>**BSB:**</sub></small>
 Amasa was not on guard against the dagger in Joab’s hand, and Joab stabbed him in the stomach and spilled out his intestines on the ground. And Joab did not need to strike him again, for Amasa was dead. Then Joab and his brother Abishai pursued Sheba son of Bichri.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H6021G\|עֲמָשָׂ֨א]] [[H3808\|לֹֽא]][[H9014\|־]] [[H8104I\|נִשְׁמַ֜ר]] [[H9003\|בַּ]][[H2719\|חֶ֣רֶב]][[H9015\|׀]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H3027G\|יַד]][[H9014\|־]] [[H3097G\|יוֹאָ֗ב]] [[H9001\|וַ]][[H5221\|יַּכֵּ]][[H9033\|הוּ֩]] [[H9003\|בָ֨]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2570\|חֹ֜מֶשׁ]] [[H9001\|וַ]][[H8210G\|יִּשְׁפֹּ֨ךְ]] [[H4578\|מֵעָ֥י]][[H9023\|ו]] [[H0776H\|אַ֛רְצָ]][[H9011\|ה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8138B\|שָׁ֥נָה]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9001\|וַ]][[H4191\|יָּמֹ֑ת]] [[H9018\|ס]] [[H9002\|וְ]][[H3097G\|יוֹאָב֙]] [[H9002\|וַ]][[H0052\|אֲבִישַׁ֣י]] [[H0251G\|אָחִ֔י]][[H9023\|ו]] [[H7291\|רָדַ֕ף]] [[H0310A\|אַחֲרֵ֖י]] [[H7652A\|שֶׁ֥בַע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1075\|בִּכְרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic AMASA|AMASA]] • [[topic ASSASSINATION|ASSASSINATION]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DAVID|DAVID]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JOAB|JOAB]] • [[topic KISS|KISS]] • [[topic TREACHERY|TREACHERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.9|<< 2 Samuel 20:9]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.11|2 Samuel 20:11 >>]]</td></tr></table>
 
@@ -25,7 +101,7 @@ Amasa was not on guard against the dagger in Joab’s hand, and Joab stabbed him
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | he repeated  |**<big>&#8207;[[H8138B\|שָׁ֥נָה]]&#8207; </big>**| Sha.nah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to \<the> him  |**<big>&#8207;[[H9005\|ל֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּמֹ֑ת]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he died  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H4191\|יָּמֹ֑ת]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.ya.Mot<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Joab  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3097G\|יוֹאָב֙]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yo.'Av<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and Abishai  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H0052\|אֲבִישַׁ֣י]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> 'a.vi.Shai<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | brother his  |**<big>&#8207;[[H0251G\|אָחִ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| 'a.Chi<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |

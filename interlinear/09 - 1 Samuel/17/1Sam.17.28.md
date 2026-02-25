@@ -1,8 +1,89 @@
+---
+title: 1 Samuel 17:28
+type: Verse
+kjv: "And Eliab his eldest brother heard when he spake unto the men; and Eliab’s anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle."
+bsb: "Now when David’s oldest brother Eliab heard him speaking to the men, his anger burned against David. “Why have you come down here?” he asked. “And with whom did you leave those few sheep in the wilderness? I know your pride and wickedness of heart—you have come down to see the battle!”"
+hebrew: "וַיִּשְׁמַ֤ע אֱלִיאָב֙ אָחִ֣יו הַגָּד֔וֹל בְּדַבְּר֖וֹ אֶל־ הָאֲנָשִׁ֑ים וַיִּֽחַר־ אַף֩ אֱלִיאָ֨ב בְּדָוִ֜ד וַיֹּ֣אמֶר׀ לָמָּה־ זֶּ֣ה יָרַ֗דְתָּ וְעַל־ מִ֨י נָטַ֜שְׁתָּ מְעַ֨ט הַצֹּ֤אן הָהֵ֙נָּה֙ בַּמִּדְבָּ֔ר אֲנִ֧י יָדַ֣עְתִּי אֶת־ זְדֹנְךָ֗ וְאֵת֙ רֹ֣עַ לְבָבֶ֔ךָ כִּ֗י לְמַ֛עַן רְא֥וֹת הַמִּלְחָמָ֖ה יָרָֽדְתָּ׃"
+pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELIAB|ELIAB]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H0446I]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H1419K]]"
+- "[[H9003]]"
+- "[[H1696G]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H3381]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H4310]]"
+- "[[H5203]]"
+- "[[H4592]]"
+- "[[H6629G]]"
+- "[[H2007]]"
+- "[[H4057B]]"
+- "[[H0589]]"
+- "[[H3045]]"
+- "[[H0853]]"
+- "[[H2087]]"
+- "[[H9021]]"
+- "[[H7455]]"
+- "[[H3824]]"
+- "[[H3588A]]"
+- "[[H4616]]"
+- "[[H7200G]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:28**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Eliab his eldest brother heard when he spake unto the men; and Eliab’s anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle.
 <small><sub>**BSB:**</sub></small>
 Now when David’s oldest brother Eliab heard him speaking to the men, his anger burned against David. “Why have you come down here?” he asked. “And with whom did you leave those few sheep in the wilderness? I know your pride and wickedness of heart—you have come down to see the battle!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֤ע]] [[H0446I\|אֱלִיאָב֙]] [[H0251G\|אָחִ֣י]][[H9023\|ו]] [[H9009\|הַ]][[H1419K\|גָּד֔וֹל]] [[H9003\|בְּ]][[H1696G\|דַבְּר֖]][[H9043\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֑ים]] [[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַף֩]] [[H0446I\|אֱלִיאָ֨ב]] [[H9003\|בְּ]][[H1732\|דָוִ֜ד]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]][[H9015\|׀]] [[H9005\|לָ]][[H4100\|מָּה]][[H9014\|־]] [[H2088\|זֶּ֣ה]] [[H3381\|יָרַ֗דְתָּ]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4310\|מִ֨י]] [[H5203\|נָטַ֜שְׁתָּ]] [[H4592\|מְעַ֨ט]] [[H9009\|הַ]][[H6629G\|צֹּ֤אן]] [[H9009\|הָ]][[H2007\|הֵ֙נָּה֙]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֔ר]] [[H0589\|אֲנִ֧י]] [[H3045\|יָדַ֣עְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H2087\|זְדֹנְ]][[H9021\|ךָ֗]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H7455\|רֹ֣עַ]] [[H3824\|לְבָבֶ֔]][[H9021\|ךָ]] [[H3588A\|כִּ֗י]] [[H4616\|לְמַ֛עַן]] [[H7200G\|רְא֥וֹת]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֖ה]] [[H3381\|יָרָֽדְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic DECISION|DECISION]] • [[topic ELIAB|ELIAB]] • [[topic HEART|HEART]] • [[topic JESSE|JESSE]] • [[topic SARCASM|SARCASM]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.27|<< 1 Samuel 17:27]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.29|1 Samuel 17:29 >>]]</td></tr></table>
 

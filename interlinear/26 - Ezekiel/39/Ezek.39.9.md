@@ -1,8 +1,68 @@
+---
+title: Ezekiel 39:9
+type: Verse
+kjv: "And they that dwell in the cities of Israel shall go forth, and shall set on fire and burn the weapons, both the shields and the bucklers, the bows and the arrows, and the handstaves, and the spears, and they shall burn them with fire seven years:"
+bsb: "Then those who dwell in the cities of Israel will go out, kindle fires, and burn up the weapons—the bucklers and shields, the bows and arrows, the clubs and spears. For seven years they will use them for fuel."
+hebrew: "וְֽיָצְא֞וּ יֹשְׁבֵ֣י׀ עָרֵ֣י יִשְׂרָאֵ֗ל וּבִעֲר֡וּ וְ֠הִשִּׂיקוּ בְּנֶ֨שֶׁק וּמָגֵ֤ן וְצִנָּה֙ בְּקֶ֣שֶׁת וּבְחִצִּ֔ים וּבְמַקֵּ֥ל יָ֖ד וּבְרֹ֑מַח וּבִעֲר֥וּ בָהֶ֛ם אֵ֖שׁ שֶׁ֥בַע שָׁנִֽים׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BOW|BOW]]"
+- "[[topic JAVELIN|JAVELIN]]"
+- "[[topic SHIELD|SHIELD]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H3427]]"
+- "[[H9015]]"
+- "[[H5892B]]"
+- "[[H3478]]"
+- "[[H1197A]]"
+- "[[H5400]]"
+- "[[H9003]]"
+- "[[H5402]]"
+- "[[H9002]]"
+- "[[H4043]]"
+- "[[H6793C]]"
+- "[[H7198]]"
+- "[[H2671]]"
+- "[[H4731]]"
+- "[[H3027G]]"
+- "[[H7420]]"
+- "[[H9038]]"
+- "[[H0784]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:9**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they that dwell in the cities of Israel shall go forth, and shall set on fire and burn the weapons, both the shields and the bucklers, the bows and the arrows, and the handstaves, and the spears, and they shall burn them with fire seven years:
 <small><sub>**BSB:**</sub></small>
 Then those who dwell in the cities of Israel will go out, kindle fires, and burn up the weapons—the bucklers and shields, the bows and arrows, the clubs and spears. For seven years they will use them for fuel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ]][[H3318G\|יָצְא֞וּ]] [[H3427\|יֹשְׁבֵ֣י]][[H9015\|׀]] [[H5892B\|עָרֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9001\|וּ]][[H1197A\|בִעֲר֡וּ]] [[H9001\|וְ֠]][[H5400\|הִשִּׂיקוּ]] [[H9003\|בְּ]][[H5402\|נֶ֨שֶׁק]] [[H9002\|וּ]][[H4043\|מָגֵ֤ן]] [[H9002\|וְ]][[H6793C\|צִנָּה֙]] [[H9003\|בְּ]][[H7198\|קֶ֣שֶׁת]] [[H9002\|וּ]][[H9003\|בְ]][[H2671\|חִצִּ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H4731\|מַקֵּ֥ל]] [[H3027G\|יָ֖ד]] [[H9002\|וּ]][[H9003\|בְ]][[H7420\|רֹ֑מַח]] [[H9001\|וּ]][[H1197A\|בִעֲר֥וּ]] [[H9003\|בָ]][[H9038\|הֶ֛ם]] [[H0784\|אֵ֖שׁ]] [[H7651\|שֶׁ֥בַע]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOW|BOW]] • [[topic JAVELIN|JAVELIN]] • [[topic SHIELD|SHIELD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.8|<< Ezekiel 39:8]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.10|Ezekiel 39:10 >>]]</td></tr></table>
 

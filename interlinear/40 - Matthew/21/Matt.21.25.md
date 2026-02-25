@@ -1,10 +1,68 @@
+---
+title: Matthew 21:25
+type: Verse
+kjv: "The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?"
+bsb: "What was the source of John’s baptism? Was it from heaven or from men?” They deliberated among themselves and said, “If we say, ‘From heaven,’ He will ask, ‘Why then did you not believe him?’"
+jesus_said: "The baptism of John, whence was it? from heaven, or of men?"
+greek: "τὸ βάπτισμα τὸ Ἰωάννου πόθεν ἦν; ἐξ οὐρανοῦ ἢ ἐξ ἀνθρώπων;¶ Οἱ δὲ διελογίζοντο ἐν ἑαυτοῖς λέγοντες· ἐὰν εἴπωμεν· ἐξ οὐρανοῦ, ἐρεῖ ἡμῖν· διὰ τί οὖν οὐκ ἐπιστεύσατε αὐτῷ;"
+pericope: "[[Matt.21.23 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G0908]]"
+- "[[G2491G]]"
+- "[[G4159]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G2228]]"
+- "[[G0444]]"
+- "[[G1161]]"
+- "[[G1260]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G3004G]]"
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G4483]]"
+- "[[G3165]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G3756]]"
+- "[[G4100]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Matthew 21:25**<big><big>[[Matt.21.23 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?
 <small><sub>**BSB:**</sub></small>
 What was the source of John’s baptism? Was it from heaven or from men?” They deliberated among themselves and said, “If we say, ‘From heaven,’ He will ask, ‘Why then did you not believe him?’
-<small><sub>**Literal:**</sub></small>
-The baptism <the> of John from where was it? From heaven or from men? <the> And they were reasoning among themselves saying; If we shall say; From heaven, He will say to us; Because of why then not did you believe in him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.24|<< Matthew 21:24]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.26|Matthew 21:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὸ]]  [[G0908\|βάπτισμα]]  [[G3588\|τὸ]]  [[G2491G\|Ἰωάννου]]  [[G4159\|πόθεν]]  [[G1510\|ἦν;]]  [[G1537\|ἐξ]]  [[G3772\|οὐρανοῦ]]  [[G2228\|ἢ]]  [[G1537\|ἐξ]]  [[G0444\|ἀνθρώπων;¶]]  [[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G1260\|διελογίζοντο]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς]]  [[G3004G\|λέγοντες·]]  [[G1437\|ἐὰν]]  [[G2036\|εἴπωμεν·]]  [[G1537\|ἐξ]]  [[G3772\|οὐρανοῦ,]]  [[G4483\|ἐρεῖ]]  [[G3165\|ἡμῖν·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G3756\|οὐκ]]  [[G4100\|ἐπιστεύσατε]]  [[G0846\|αὐτῷ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic FALSEHOOD|FALSEHOOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.24|<< Matthew 21:24]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.26|Matthew 21:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

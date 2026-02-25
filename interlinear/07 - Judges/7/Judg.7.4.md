@@ -1,8 +1,72 @@
+---
+title: Judges 7:4
+type: Verse
+kjv: "And the LORD said unto Gideon, The people are yet too many; bring them down unto the water, and I will try them for thee there: and it shall be, that of whom I say unto thee, This shall go with thee, the same shall go with thee; and of whomsoever I say unto thee, This shall not go with thee, the same shall not go."
+bsb: "Then the LORD said to Gideon, “There are still too many men. Take them down to the water, and I will sift them for you there. If I say to you, ‘This one shall go with you,’ he shall go. But if I say, ‘This one shall not go with you,’ he shall not go.”"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה אֶל־ גִּדְע֗וֹן עוֹד֮ הָעָ֣ם רָב֒ הוֹרֵ֤ד אוֹתָם֙ אֶל־ הַמַּ֔יִם וְאֶצְרְפֶ֥נּוּ לְךָ֖ שָׁ֑ם וְהָיָ֡ה אֲשֶׁר֩ אֹמַ֨ר אֵלֶ֜יךָ זֶ֣ה׀ יֵלֵ֣ךְ אִתָּ֗ךְ ה֚וּא יֵלֵ֣ךְ אִתָּ֔ךְ וְכֹ֨ל אֲשֶׁר־ אֹמַ֜ר אֵלֶ֗יךָ זֶ֚ה לֹא־ יֵלֵ֣ךְ עִמָּ֔ךְ ה֖וּא לֹ֥א יֵלֵֽךְ׃"
+pericope: "[[Judg.7.1 Gideon’s Army of Three Hundred|Gideon’s Army of Three Hundred]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1439]]"
+- "[[H5750]]"
+- "[[H9009]]"
+- "[[H5971K]]"
+- "[[H7227A]]"
+- "[[H3381]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4325G]]"
+- "[[H9002]]"
+- "[[H6884]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H8033G]]"
+- "[[H1961]]"
+- "[[H0834A]]"
+- "[[H2088]]"
+- "[[H9015]]"
+- "[[H1980G]]"
+- "[[H0854]]"
+- "[[H1931]]"
+- "[[H3605]]"
+- "[[H3808]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:4**<big><big>[[Judg.7.1 Gideon’s Army of Three Hundred|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Gideon, The people [are] yet [too] many; bring them down unto the water, and I will try them for thee there: and it shall be, [that] of whom I say unto thee, This shall go with thee, the same shall go with thee; and of whomsoever I say unto thee, This shall not go with thee, the same shall not go.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Gideon, “There are still too many men. Take them down to the water, and I will sift them for you there. If I say to you, ‘This one shall go with you,’ he shall go. But if I say, ‘This one shall not go with you,’ he shall not go.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1439\|גִּדְע֗וֹן]] [[H5750\|עוֹד֮]] [[H9009\|הָ]][[H5971K\|עָ֣ם]] [[H7227A\|רָב֒]] [[H3381\|הוֹרֵ֤ד]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֔יִם]] [[H9002\|וְ]][[H6884\|אֶצְרְפֶ֥]][[H9033\|נּוּ]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H8033G\|שָׁ֑ם]] [[H9001\|וְ]][[H1961\|הָיָ֡ה]] [[H0834A\|אֲשֶׁר֩]] [[H0559\|אֹמַ֨ר]] [[H0413\|אֵלֶ֜י]][[H9031\|ךָ]] [[H2088\|זֶ֣ה]][[H9015\|׀]] [[H1980G\|יֵלֵ֣ךְ]] [[H0854\|אִתָּ֗]][[H9031\|ךְ]] [[H1931\|ה֚וּא]] [[H1980G\|יֵלֵ֣ךְ]] [[H0854\|אִתָּ֔]][[H9031\|ךְ]] [[H9002\|וְ]][[H3605\|כֹ֨ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|אֹמַ֜ר]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H2088\|זֶ֚ה]] [[H3808\|לֹא]][[H9014\|־]] [[H1980G\|יֵלֵ֣ךְ]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H1931\|ה֖וּא]] [[H3808\|לֹ֥א]] [[H1980G\|יֵלֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.3|<< Judges 7:3]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.5|Judges 7:5 >>]]</td></tr></table>
 

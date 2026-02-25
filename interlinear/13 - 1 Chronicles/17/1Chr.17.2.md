@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 17:2
+type: Verse
+kjv: "Then Nathan said unto David, Do all that is in thine heart; for God is with thee."
+bsb: "And Nathan replied to David, “Do all that is in your heart, for God is with you.”"
+hebrew: "וַיֹּ֤אמֶר נָתָן֙ אֶל־ דָּוִ֔יד כֹּ֛ל אֲשֶׁ֥ר בִּֽלְבָבְךָ֖ עֲשֵׂ֑ה כִּ֥י הָאֱלֹהִ֖ים עִמָּֽךְ׃ ס"
+pericope: "[[1Chr.17.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic NATHAN|NATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5416H]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:2**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nathan said unto David, Do all that [is] in thine heart; for God [is] with thee.
 <small><sub>**BSB:**</sub></small>
 And Nathan replied to David, “Do all that is in your heart, for God is with you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H5416H\|נָתָן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֔יד]] [[H3605\|כֹּ֛ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בִּֽ]][[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H6213A\|עֲשֵׂ֑ה]] [[H3588A\|כִּ֥י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H5973A\|עִמָּֽ]][[H9031\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NATHAN|NATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.1|<< 1 Chronicles 17:1]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.3|1 Chronicles 17:3 >>]]</td></tr></table>
 
@@ -18,7 +69,7 @@ And Nathan replied to David, “Do all that is in your heart, for God is with yo
 | do  |**<big>&#8207;[[H6213A\|עֲשֵׂ֑ה]]&#8207; </big>**| 'a.Seh<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> God  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0430G\|אֱלֹהִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [is] with you  |**<big>&#8207;[[H5973A\|עִמָּֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'i.Ma<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [is] with you  |**<big>&#8207;[[H5973A\|עִמָּֽ]]&#8207;&#8207;[[H9031\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'i.Ma<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.1|<< 1 Chronicles 17:1]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.3|1 Chronicles 17:3 >>]]</td></tr></table>
 
 

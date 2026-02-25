@@ -1,8 +1,53 @@
+---
+title: Job 31:11
+type: Verse
+kjv: "For this is an heinous crime; yea, it is an iniquity to be punished by the judges."
+bsb: "For that would be a heinous crime, an iniquity to be judged."
+hebrew: "כִּי־ הִ֥יא זִמָּ֑ה וְ֝ה֗וּא עָוֹ֥ן פְּלִילִֽים׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic LUST|LUST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H2154]]"
+- "[[H9002]]"
+- "[[H5771G]]"
+- "[[H6414]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 31:11**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For this [is] an heinous crime; yea, it [is] an iniquity [to be punished by] the judges.
 <small><sub>**BSB:**</sub></small>
 For that would be a heinous crime, an iniquity to be judged.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H1931\|הִ֥יא]] [[H2154\|זִמָּ֑ה]] [[H9002\|וְ֝]][[H1931\|ה֗וּא]] [[H5771G\|עָוֹ֥ן]] [[H6414\|פְּלִילִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic LUST|LUST]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.10|<< Job 31:10]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.12|Job 31:12 >>]]</td></tr></table>
 

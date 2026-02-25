@@ -1,8 +1,58 @@
+---
+title: 2 Kings 15:1
+type: Verse
+kjv: "In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign."
+bsb: "In the twenty-seventh year of Jeroboam’s reign over Israel, Azariah son of Amaziah became king of Judah."
+hebrew: "בִּשְׁנַ֨ת עֶשְׂרִ֤ים וָשֶׁ֙בַע֙ שָׁנָ֔ה לְיָרָבְעָ֖ם מֶ֣לֶךְ יִשְׂרָאֵ֑ל מָלַ֛ךְ עֲזַרְיָ֥ה בֶן־ אֲמַצְיָ֖ה מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[2Kgs.15.1 Azariah Reigns in Judah|Azariah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H9005]]"
+- "[[H3379H]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H4427A]]"
+- "[[H5838x]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0558G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:1**<big><big>[[2Kgs.15.1 Azariah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the twenty and seventh year of Jeroboam king of Israel began Azariah son of Amaziah king of Judah to reign.
 <small><sub>**BSB:**</sub></small>
 In the twenty-seventh year of Jeroboam’s reign over Israel, Azariah son of Amaziah became king of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֨ת]] [[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וָ]][[H7651\|שֶׁ֙בַע֙]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לְ]][[H3379H\|יָרָבְעָ֖ם]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H4427A\|מָלַ֛ךְ]] [[H5838x\|עֲזַרְיָ֥ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0558G\|אֲמַצְיָ֖ה]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.29|<< 2 Kings 14:29]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.2|2 Kings 15:2 >>]]</td></tr></table>
 

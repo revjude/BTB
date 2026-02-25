@@ -1,8 +1,65 @@
+---
+title: 2 Kings 19:26
+type: Verse
+kjv: "Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the housetops, and as corn blasted before it be grown up."
+bsb: "Therefore their inhabitants, devoid of power, are dismayed and ashamed. They are like plants in the field, tender green shoots, grass on the rooftops, scorched before it is grown."
+hebrew: "וְיֹֽשְׁבֵיהֶן֙ קִצְרֵי־ יָ֔ד חַ֖תּוּ וַיֵּבֹ֑שׁוּ הָי֞וּ עֵ֤שֶׂב שָׂדֶה֙ וִ֣ירַק דֶּ֔שֶׁא חֲצִ֣יר גַּגּ֔וֹת וּשְׁדֵפָ֖ה לִפְנֵ֥י קָמָֽה׃"
+pericope: "[[2Kgs.19.20 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H9029]]"
+- "[[H7116]]"
+- "[[H9014]]"
+- "[[H3027H]]"
+- "[[H2865]]"
+- "[[H9001]]"
+- "[[H0954]]"
+- "[[H1961]]"
+- "[[H6212]]"
+- "[[H7704G]]"
+- "[[H3419]]"
+- "[[H1877]]"
+- "[[H2682A]]"
+- "[[H1406]]"
+- "[[H7711A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H7054]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:26**<big><big>[[2Kgs.19.20 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore their inhabitants were of small power, they were dismayed and confounded; they were [as] the grass of the field, and [as] the green herb, [as] the grass on the housetops, and [as corn] blasted before it be grown up.
 <small><sub>**BSB:**</sub></small>
 Therefore their inhabitants, devoid of power, are dismayed and ashamed. They are like plants in the field, tender green shoots, grass on the rooftops, scorched before it is grown.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3427\|יֹֽשְׁבֵי]][[H9029\|הֶן֙]] [[H7116\|קִצְרֵי]][[H9014\|־]] [[H3027H\|יָ֔ד]] [[H2865\|חַ֖תּוּ]] [[H9001\|וַ]][[H0954\|יֵּבֹ֑שׁוּ]] [[H1961\|הָי֞וּ]] [[H6212\|עֵ֤שֶׂב]] [[H7704G\|שָׂדֶה֙]] [[H9002\|וִ֣]][[H3419\|ירַק]] [[H1877\|דֶּ֔שֶׁא]] [[H2682A\|חֲצִ֣יר]] [[H1406\|גַּגּ֔וֹת]] [[H9002\|וּ]][[H7711A\|שְׁדֵפָ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H7054\|קָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PROPHECY|PROPHECY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.25|<< 2 Kings 19:25]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.27|2 Kings 19:27 >>]]</td></tr></table>
 

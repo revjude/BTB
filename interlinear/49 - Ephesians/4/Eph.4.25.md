@@ -1,10 +1,60 @@
+---
+title: Ephesians 4:25
+type: Verse
+kjv: "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
+bsb: "Therefore each of you must put off falsehood and speak truthfully to his neighbor, for we are all members of one another."
+greek: "Διὸ ἀποθέμενοι τὸ ψεῦδος λαλεῖτε ἀλήθειαν ἕκαστος μετὰ τοῦ πλησίον αὐτοῦ, ὅτι ἐσμὲν ἀλλήλων μέλη."
+pericope: "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1352]]"
+- "[[G0659]]"
+- "[[G3588]]"
+- "[[G5579]]"
+- "[[G2980]]"
+- "[[G0225]]"
+- "[[G1538]]"
+- "[[G3326]]"
+- "[[G4139]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G1510]]"
+- "[[G0240]]"
+- "[[G3196]]"
+texts:
+- NKO
+---
+
 **Ephesians 4:25**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
 <small><sub>**BSB:**</sub></small>
 Therefore each of you must put off falsehood and speak truthfully to his neighbor, for we are all members of one another.
-<small><sub>**Literal:**</sub></small>
-Therefore having put off <the> falsehood do speak truth each one with the neighbour of him, because we are of one another members.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.24|<< Ephesians 4:24]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.26|Ephesians 4:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διὸ]]  [[G0659\|ἀποθέμενοι]]  [[G3588\|τὸ]]  [[G5579\|ψεῦδος]]  [[G2980\|λαλεῖτε]]  [[G0225\|ἀλήθειαν]]  [[G1538\|ἕκαστος]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G4139\|πλησίον]]  [[G0846\|αὐτοῦ,]]  [[G3754H\|ὅτι]]  [[G1510\|ἐσμὲν]]  [[G0240\|ἀλλήλων]]  [[G3196\|μέλη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SPEAKING|SPEAKING]] • [[topic TRUTH|TRUTH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.24|<< Ephesians 4:24]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.26|Ephesians 4:26 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Ephesians 4:25** is...
 > $\quad$ referencing: [[LXX.Zech.8.16|Zech 8:16]]

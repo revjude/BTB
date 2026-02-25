@@ -1,8 +1,60 @@
+---
+title: Ezekiel 40:23
+type: Verse
+kjv: "And the gate of the inner court was over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits."
+bsb: "There was a gate to the inner court facing the north gate, just as there was on the east. He measured the distance from gateway to gateway to be a hundred cubits."
+hebrew: "וְשַׁ֙עַר֙ לֶחָצֵ֣ר הַפְּנִימִ֔י נֶ֣גֶד הַשַּׁ֔עַר לַצָּפ֖וֹן וְלַקָּדִ֑ים וַיָּ֧מָד מִשַּׁ֛עַר אֶל־ שַׁ֖עַר מֵאָ֥ה אַמָּֽה׃"
+pericope: "[[Ezek.40.20 The North Gate|The North Gate]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9002]]"
+- "[[H8179G]]"
+- "[[H9005]]"
+- "[[H2691A]]"
+- "[[H9009]]"
+- "[[H6442]]"
+- "[[H5048]]"
+- "[[H6828G]]"
+- "[[H6921]]"
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H9006]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3967]]"
+- "[[H0520A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:23**<big><big>[[Ezek.40.20 The North Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the gate of the inner court [was] over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.
 <small><sub>**BSB:**</sub></small>
 There was a gate to the inner court facing the north gate, just as there was on the east. He measured the distance from gateway to gateway to be a hundred cubits.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8179G\|שַׁ֙עַר֙]] [[H9005\|לֶ]][[H2691A\|חָצֵ֣ר]] [[H9009\|הַ]][[H6442\|פְּנִימִ֔י]] [[H5048\|נֶ֣גֶד]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H9005\|לַ]][[H6828G\|צָּפ֖וֹן]] [[H9002\|וְ]][[H9005\|לַ]][[H6921\|קָּדִ֑ים]] [[H9001\|וַ]][[H4058\|יָּ֧מָד]] [[H9006\|מִ]][[H8179G\|שַּׁ֛עַר]] [[H0413\|אֶל]][[H9014\|־]] [[H8179G\|שַׁ֖עַר]] [[H3967\|מֵאָ֥ה]] [[H0520A\|אַמָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.22|<< Ezekiel 40:22]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.24|Ezekiel 40:24 >>]]</td></tr></table>
 

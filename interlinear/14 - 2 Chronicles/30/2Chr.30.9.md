@@ -1,8 +1,80 @@
+---
+title: 2 Chronicles 30:9
+type: Verse
+kjv: "For if ye turn again unto the LORD, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God is gracious and merciful, and will not turn away his face from you, if ye return unto him."
+bsb: "For if you return to the LORD, your brothers and sons will receive mercy in the presence of their captors and will return to this land. For the LORD your God is gracious and merciful; He will not turn His face away from you if you return to Him.”"
+hebrew: "כִּ֣י בְשׁוּבְכֶ֞ם עַל־ יְהוָ֗ה אֲחֵיכֶ֨ם וּבְנֵיכֶ֤ם לְרַחֲמִים֙ לִפְנֵ֣י שֽׁוֹבֵיהֶ֔ם וְלָשׁ֖וּב לָאָ֣רֶץ הַזֹּ֑את כִּֽי־ חַנּ֤וּן וְרַחוּם֙ יְהוָ֣ה אֱלֹהֵיכֶ֔ם וְלֹא־ יָסִ֤יר פָּנִים֙ מִכֶּ֔ם אִם־ תָּשׁ֖וּבוּ אֵלָֽיו׃ פ"
+pericope: "[[2Chr.30.1 Hezekiah Proclaims a Passover|Hezekiah Proclaims a Passover]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 30
+book/chapter: "[[2Chr.30|2 Chronicles 30]]"
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DERISION|DERISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H7725G]]"
+- "[[H9046]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0251G]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9005]]"
+- "[[H7356B]]"
+- "[[H6440G]]"
+- "[[H7617]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H2587]]"
+- "[[H7349]]"
+- "[[H0430G]]"
+- "[[H3808]]"
+- "[[H5493I]]"
+- "[[H6440H]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H0518A]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 30:9**<big><big>[[2Chr.30.1 Hezekiah Proclaims a Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For if ye turn again unto the LORD, your brethren and your children [shall find] compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God [is] gracious and merciful, and will not turn away [his] face from you, if ye return unto him.
 <small><sub>**BSB:**</sub></small>
 For if you return to the LORD, your brothers and sons will receive mercy in the presence of their captors and will return to this land. For the LORD your God is gracious and merciful; He will not turn His face away from you if you return to Him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H7725G\|שׁוּבְ]][[H9046\|כֶ֞ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0251G\|אֲחֵי]][[H9026\|כֶ֨ם]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9026\|כֶ֤ם]] [[H9005\|לְ]][[H7356B\|רַחֲמִים֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H7617\|שֽׁוֹבֵי]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H9005\|לָ]][[H7725G\|שׁ֖וּב]] [[H9005\|לָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֑את]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2587\|חַנּ֤וּן]] [[H9002\|וְ]][[H7349\|רַחוּם֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5493I\|יָסִ֤יר]] [[H6440H\|פָּנִים֙]] [[H9006\|מִ]][[H9036\|כֶּ֔ם]] [[H0518A\|אִם]][[H9014\|־]] [[H7725G\|תָּשׁ֖וּבוּ]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic DERISION|DERISION]] • [[topic GOD|GOD]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONTH|MONTH]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.30.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.8|<< 2 Chronicles 30:8]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.10|2 Chronicles 30:10 >>]]</td></tr></table>
 
@@ -31,7 +103,7 @@ For if you return to the LORD, your brothers and sons will receive mercy in the 
 | from you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H9036\|כֶּ֔ם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> Kem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | if  |**<big>&#8207;[[H0518A\|אִם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'im-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | you will turn back  |**<big>&#8207;[[H7725G\|תָּשׁ֖וּבוּ]]&#8207; </big>**| ta.Shu.vu<small><sup>[[HVqi2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to him  |**<big>&#8207;[[H0413\|אֵלָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to him  |**<big>&#8207;[[H0413\|אֵלָֽי]]&#8207;&#8207;[[H9033\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.La<small><sup>[[HR]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.30.8|<< 2 Chronicles 30:8]]</td><td align="center" style="border:none;">[[2Chr.30|2 Chronicles 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.30.10|2 Chronicles 30:10 >>]]</td></tr></table>
 
 

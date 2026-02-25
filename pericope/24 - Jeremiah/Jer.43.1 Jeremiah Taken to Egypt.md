@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah Taken to Egypt
+type: Pericope
 pericope: "[[Jer.43.1 Jeremiah Taken to Egypt|Jeremiah Taken to Egypt]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 43
 book/chapter: "[[Jer.43|Jeremiah 43]]"
-genre:
+chronological_order: 766
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 13
 verses:
 - "[[Jer.43.1]]"
 - "[[Jer.43.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Jer.43.13]]"
 ---
 
-[[Jer.43|Jeremiah 43:1 - Jeremiah 43:13]]
+<small>[[Jer.43|Jeremiah 43:1-13]]</small>
 *Jeremiah Taken to Egypt*
 
 [[Jer.43.1|1]] And it came to pass, \[that\] when Jeremiah had made an end of speaking unto all the people all the words of the LORD their God, for which the LORD their God had sent him to them, \[even\] all these words,

@@ -1,10 +1,58 @@
+---
+title: Mark 16:20
+type: Verse
+kjv: "And they went forth, and preached every where, the Lord working with them, and confirming the word with signs following. Amen."
+bsb: "And they went out and preached everywhere, and the Lord worked through them, confirming His word by the signs that accompanied it."
+greek: "ἐκεῖνοι δὲ ἐξελθόντες ἐκήρυξαν πανταχοῦ, τοῦ κυρίου συνεργοῦντος καὶ τὸν λόγον βεβαιοῦντος διὰ τῶν ἐπακολουθούντων σημείων. ἀμήν.]¶"
+pericope: "[[Mark.16.19 The Ascension|The Ascension]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 16
+book/chapter: "[[Mark.16|Mark 16]]"
+chronological_order: 1015
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ASCENSION|ASCENSION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1565]]"
+- "[[G1161]]"
+- "[[G1831]]"
+- "[[G2784]]"
+- "[[G3837]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G4903]]"
+- "[[G2532]]"
+- "[[G3056]]"
+- "[[G0950]]"
+- "[[G1223]]"
+- "[[G1872]]"
+- "[[G4592]]"
+- "[[G0281]]"
+texts:
+- KO
+---
+
 **Mark 16:20**<big><big>[[Mark.16.19 The Ascension|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they went forth, and preached every where, the Lord working with [them], and confirming the word with signs following. Amen.
 <small><sub>**BSB:**</sub></small>
 And they went out and preached everywhere, and the Lord worked through them, confirming His word by the signs that accompanied it.
-<small><sub>**Literal:**</sub></small>
-They now having gone forth they preached everywhere, of the Lord [who] working with [them] and the word confirming through the accompanying signs. Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.19|<< Mark 16:19]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.1|Luke 1:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1565\|ἐκεῖνοι]]  [[G1161\|δὲ]]  [[G1831\|ἐξελθόντες]]  [[G2784\|ἐκήρυξαν]]  [[G3837\|πανταχοῦ,]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G4903\|συνεργοῦντος]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G0950\|βεβαιοῦντος]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G1872\|ἐπακολουθούντων]]  [[G4592\|σημείων.]]  [[G0281\|ἀμήν.]¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASCENSION|ASCENSION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.16.19|<< Mark 16:19]]</td><td align="center" style="border:none;">[[Mark.16|Mark 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.1|Luke 1:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

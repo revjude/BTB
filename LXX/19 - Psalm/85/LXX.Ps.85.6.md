@@ -1,6 +1,55 @@
+---
+title: LXX Psalm 85:6
+type: Verse
+lxx: "O God, you, in turning towards us shall enliven us, and  your people shall be glad over you."
+greek: "ο θεός συ επιστρέψας ζωώσεις ημάς και ο λαός σου ευφρανθήσεται επί σοι"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 85
+book/chapter: "[[Ps.85|Psalm 85]]"
+chronological_order: 871
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JOY|JOY]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1994]]"
+- "[[G7613]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G2165]]"
+- "[[G1909]]"
+- "[[G1473]]"
+---
+
 **LXX Psalm 85:6** 
 <small><sub>**LXX:**</sub></small>
 O God, you, in turning towards \[us\] shall enliven us, and  your people shall be glad over you. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ο]] [[G2316\|θεός]] [[G1473\|συ]] [[G1994\|επιστρέψας]] [[G7613\|ζωώσεις]] [[G1473\|ημάς]] [[G2532\|και]] [[G3588\|ο]] [[G2992\|λαός]] [[G1473\|σου]] [[G2165\|ευφρανθήσεται]] [[G1909\|επί]] [[G1473\|σοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JOY|JOY]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.85.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.5|<< Psalm 85:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.7|Psalm 85:7 >>]]</td></tr></table>
 
@@ -18,6 +67,6 @@ O God, you, in turning towards \[us\] shall enliven us, and  your people shall b
 | shall be glad | **<big>[[G2165\|ευφρανθήσεται]]</big>** |
 | over | **<big>[[G1909\|επί]]</big>** |
 | you. | **<big>[[G1473\|σοι]]</big>** |
-[[Ps.85.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.5|<< Psalm 85:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.7|Psalm 85:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.85.5|<< Psalm 85:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.85.7|Psalm 85:7 >>]]</td></tr></table>
 
 

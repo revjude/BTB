@@ -1,8 +1,83 @@
+---
+title: Nehemiah 9:32
+type: Verse
+kjv: "Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day."
+bsb: "So now, our God, the great and mighty and awesome God who keeps His gracious covenant, do not view lightly all the hardship that has come upon us, and upon our kings and leaders, our priests and prophets, our ancestors and all Your people, from the days of the kings of Assyria until today."
+hebrew: "וְעַתָּ֣ה אֱ֠לֹהֵינוּ הָאֵ֨ל הַגָּד֜וֹל הַגִּבּ֣וֹר וְהַנּוֹרָא֮ שׁוֹמֵ֣ר הַבְּרִ֣ית וְהַחֶסֶד֒ אַל־ יִמְעַ֣ט לְפָנֶ֡יךָ אֵ֣ת כָּל־ הַתְּלָאָ֣ה אֲֽשֶׁר־ מְ֠צָאַתְנוּ לִמְלָכֵ֨ינוּ לְשָׂרֵ֧ינוּ וּלְכֹהֲנֵ֛ינוּ וְלִנְבִיאֵ֥נוּ וְלַאֲבֹתֵ֖ינוּ וּלְכָל־ עַמֶּ֑ךָ מִימֵי֙ מַלְכֵ֣י אַשּׁ֔וּר עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H0410G]]"
+- "[[H1419A]]"
+- "[[H1368]]"
+- "[[H3372H]]"
+- "[[H8104G]]"
+- "[[H1285]]"
+- "[[H2617A]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4591]]"
+- "[[H9005]]"
+- "[[H6440L]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H8513]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H9035]]"
+- "[[H4428G]]"
+- "[[H8269]]"
+- "[[H3548]]"
+- "[[H5030]]"
+- "[[H0001G]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H0804G]]"
+- "[[H5704]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:32**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day.
 <small><sub>**BSB:**</sub></small>
 So now, our God, the great and mighty and awesome God who keeps His gracious covenant, do not view lightly all the hardship that has come upon us, and upon our kings and leaders, our priests and prophets, our ancestors and all Your people, from the days of the kings of Assyria until today.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H0430G\|אֱ֠לֹהֵי]][[H9025\|נוּ]] [[H9009\|הָ]][[H0410G\|אֵ֨ל]] [[H9009\|הַ]][[H1419A\|גָּד֜וֹל]] [[H9009\|הַ]][[H1368\|גִּבּ֣וֹר]] [[H9002\|וְ]][[H9009\|הַ]][[H3372H\|נּוֹרָא֮]] [[H8104G\|שׁוֹמֵ֣ר]] [[H9009\|הַ]][[H1285\|בְּרִ֣ית]] [[H9002\|וְ]][[H9009\|הַ]][[H2617A\|חֶסֶד֒]] [[H0408\|אַל]][[H9014\|־]] [[H4591\|יִמְעַ֣ט]] [[H9005\|לְ]][[H6440L\|פָנֶ֡י]][[H9021\|ךָ]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8513\|תְּלָאָ֣ה]] [[H0834A\|אֲֽשֶׁר]][[H9014\|־]] [[H4672\|מְ֠צָאַתְ]][[H9035\|נוּ]] [[H9005\|לִ]][[H4428G\|מְלָכֵ֨י]][[H9025\|נוּ]] [[H9005\|לְ]][[H8269\|שָׂרֵ֧י]][[H9025\|נוּ]] [[H9002\|וּ]][[H9005\|לְ]][[H3548\|כֹהֲנֵ֛י]][[H9025\|נוּ]] [[H9002\|וְ]][[H9005\|לִ]][[H5030\|נְבִיאֵ֥]][[H9025\|נוּ]] [[H9002\|וְ]][[H9005\|לַ]][[H0001G\|אֲבֹתֵ֖י]][[H9025\|נוּ]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5971A\|עַמֶּ֑]][[H9021\|ךָ]] [[H9006\|מִ]][[H3117G\|ימֵי֙]] [[H4428G\|מַלְכֵ֣י]] [[H0804G\|אַשּׁ֔וּר]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.31|<< Nehemiah 9:31]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.33|Nehemiah 9:33 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: John 7:24
+type: Verse
+kjv: "Judge not according to the appearance, but judge righteous judgment."
+bsb: "Stop judging by outward appearances, and start judging justly.”"
+jesus_said: "Judge not according to the appearance, but judge righteous judgment."
+greek: "μὴ κρίνετε κατ᾽ ὄψιν, ἀλλὰ τὴν δικαίαν κρίσιν κρίνετε."
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G3361]]"
+- "[[G2919]]"
+- "[[G2596]]"
+- "[[G3799]]"
+- "[[G0235]]"
+- "[[G3588]]"
+- "[[G1342]]"
+- "[[G2920]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 7:24**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Judge not according to the appearance, but judge righteous judgment.
 <small><sub>**BSB:**</sub></small>
 Stop judging by outward appearances, and start judging justly.”
-<small><sub>**Literal:**</sub></small>
-Not do judge according to appearance, but the righteous judgment do judge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.23|<< John 7:23]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.25|John 7:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G2919\|κρίνετε]]  [[G2596\|κατ᾽]]  [[G3799\|ὄψιν,]]  [[G0235\|ἀλλὰ]]  [[G3588\|τὴν]]  [[G1342\|δικαίαν]]  [[G2920\|κρίσιν]]  [[G2919\|κρίνετε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic JUSTICE|JUSTICE]] • [[topic SABBATH|SABBATH]] • [[topic TEMPLE|TEMPLE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.23|<< John 7:23]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.25|John 7:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

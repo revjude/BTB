@@ -1,8 +1,70 @@
+---
+title: Ezra 6:17
+type: Verse
+kjv: "And offered at the dedication of this house of God an hundred bullocks, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve he goats, according to the number of the tribes of Israel."
+bsb: "For the dedication of the house of God they offered a hundred bulls, two hundred rams, four hundred lambs, and a sin offering for all Israel of twelve male goats, one for each tribe of Israel."
+aramaic: "וְהַקְרִ֗בוּ לַחֲנֻכַּת֮ בֵּית־ אֱלָהָ֣א דְנָה֒ תּוֹרִ֣ין מְאָ֔ה דִּכְרִ֣ין מָאתַ֔יִן אִמְּרִ֖ין אַרְבַּ֣ע מְאָ֑ה וּצְפִירֵ֨י עִזִּ֜ין לְחַטָּאָ֤ה עַל־ כָּל־ יִשְׂרָאֵל֙ תְּרֵֽי־ עֲשַׂ֔ר לְמִנְיָ֖ן שִׁבְטֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Ezra.6.16 Dedication of the Temple|Dedication of the Temple]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 6
+book/chapter: "[[Ezra.6|Ezra 6]]"
+chronological_order: 854
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H7127]]"
+- "[[H9005]]"
+- "[[H2597]]"
+- "[[H1005]]"
+- "[[H9014]]"
+- "[[H0426]]"
+- "[[H9010]]"
+- "[[H1836]]"
+- "[[H8450]]"
+- "[[H3969]]"
+- "[[H1798]]"
+- "[[H0563]]"
+- "[[H0703]]"
+- "[[H6841]]"
+- "[[H5796]]"
+- "[[H2409]]"
+- "[[H2402]]"
+- "[[H5922]]"
+- "[[H3606]]"
+- "[[H3479]]"
+- "[[H8648]]"
+- "[[H6236]]"
+- "[[H4510]]"
+- "[[H7625]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezra 6:17**<big><big>[[Ezra.6.16 Dedication of the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And offered at the dedication of this house of God an hundred bullocks, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve he goats, according to the number of the tribes of Israel.
 <small><sub>**BSB:**</sub></small>
 For the dedication of the house of God they offered a hundred bulls, two hundred rams, four hundred lambs, and a sin offering for all Israel of twelve male goats, one for each tribe of Israel.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ]][[H7127\|הַקְרִ֗בוּ]] [[H9005\|לַ]][[H2597\|חֲנֻכַּת֮]] [[H1005\|בֵּית]][[H9014\|־]] [[H0426\|אֱלָהָ֣]][[H9010\|א]] [[H1836\|דְנָה֒]] [[H8450\|תּוֹרִ֣ין]] [[H3969\|מְאָ֔ה]] [[H1798\|דִּכְרִ֣ין]] [[H3969\|מָאתַ֔יִן]] [[H0563\|אִמְּרִ֖ין]] [[H0703\|אַרְבַּ֣ע]] [[H3969\|מְאָ֑ה]] [[H9002\|וּ]][[H6841\|צְפִירֵ֨י]] [[H5796\|עִזִּ֜ין]] [[H9005\|לְ]][[H2402\|חַטָּאָ֤ה]] [[H5922\|עַל]][[H9014\|־]] [[H3606\|כָּל]][[H9014\|־]] [[H3479\|יִשְׂרָאֵל֙]] [[H8648\|תְּרֵֽי]][[H9014\|־]] [[H6236\|עֲשַׂ֔ר]] [[H9005\|לְ]][[H4510\|מִנְיָ֖ן]] [[H7625\|שִׁבְטֵ֥י]] [[H3479\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DEDICATION|DEDICATION]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.16|<< Ezra 6:16]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.18|Ezra 6:18 >>]]</td></tr></table>
 
@@ -33,7 +95,7 @@ For the dedication of the house of God they offered a hundred bulls, two hundred
 | Israel  |**<big>&#8207;[[H3479\|יִשְׂרָאֵֽל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Yis.ra.'El<small><sup>[[ANpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.6.16|<< Ezra 6:16]]</td><td align="center" style="border:none;">[[Ezra.6|Ezra 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.6.18|Ezra 6:18 >>]]</td></tr></table>
 
-[^1]: for a sin offering  | **<big>[[H2409|חַטָּיָא]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> cha.ta.ya'<small><sup>[[ANcfsa]]</sup></small> | K
-[^2]: for a sin offering  | **<big>[[H2409|חַטָּיָא]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[AR]]</sup></small> cha.ta.ya'<small><sup>[[ANcfsa]]</sup></small> | K
+[^1]: for a sin offering  | **<big>[[H9005|לְ]]</big><big>[[H2409|חַטָּיָא]]</big> ** | le.<small><sup>[[AR]]</sup></small> cha.ta.ya'<small><sup>[[ANcfsa]]</sup></small> | K
+[^2]: for a sin offering  | **<big>[[H9005|לְ]]</big><big>[[H2409|חַטָּיָא]]</big> ** | le.<small><sup>[[AR]]</sup></small> cha.ta.ya'<small><sup>[[ANcfsa]]</sup></small> | K
 [^3]: L spelled: **<span class="asaramaic"><big>לְחַטָּיאָ֤</big></span>**
 

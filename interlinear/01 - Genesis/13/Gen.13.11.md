@@ -1,8 +1,65 @@
+---
+title: Genesis 13:11
+type: Verse
+kjv: "Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other."
+bsb: "So Lot chose the whole plain of the Jordan for himself and set out toward the east. And Abram and Lot parted company."
+hebrew: "וַיִּבְחַר־ ל֣וֹ ל֗וֹט אֵ֚ת כָּל־ כִּכַּ֣ר הַיַּרְדֵּ֔ן וַיִּסַּ֥ע ל֖וֹט מִקֶּ֑דֶם וַיִּפָּ֣רְד֔וּ אִ֖ישׁ מֵעַ֥ל אָחִֽיו׃"
+pericope: "[[Gen.13.10 Lot Proceeds toward Sodom|Lot Proceeds toward Sodom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 13
+book/chapter: "[[Gen.13|Genesis 13]]"
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic LOT|LOT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3876]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H3603H]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H6924G]]"
+- "[[H6504]]"
+- "[[H0376I]]"
+- "[[H5921A]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 13:11**<big><big>[[Gen.13.10 Lot Proceeds toward Sodom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
 <small><sub>**BSB:**</sub></small>
 So Lot chose the whole plain of the Jordan for himself and set out toward the east. And Abram and Lot parted company.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0977\|יִּבְחַר]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H3876\|ל֗וֹט]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H3603H\|כִּכַּ֣ר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9001\|וַ]][[H5265\|יִּסַּ֥ע]] [[H3876\|ל֖וֹט]] [[H9006\|מִ]][[H6924G\|קֶּ֑דֶם]] [[H9001\|וַ]][[H6504\|יִּפָּ֣רְד֔וּ]] [[H0376I\|אִ֖ישׁ]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H0251G\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JORDAN|JORDAN]] • [[topic LOT|LOT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.13.10|<< Genesis 13:10]]</td><td align="center" style="border:none;">[[Gen.13|Genesis 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.12|Genesis 13:12 >>]]</td></tr></table>
 

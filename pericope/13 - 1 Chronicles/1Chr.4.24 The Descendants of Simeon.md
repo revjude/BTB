@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of Simeon
+type: Pericope
 pericope: "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 4
 book/chapter: "[[1Chr.4|1 Chronicles 4]]"
-genre:
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 20
 verses:
 - "[[1Chr.4.24]]"
 - "[[1Chr.4.25]]"
@@ -38,7 +45,7 @@ verses:
 - "[[1Chr.4.43]]"
 ---
 
-[[1Chr.4|1 Chronicles 4:24 - 1 Chronicles 4:43]]
+<small>[[1Chr.4|1 Chronicles 4:24-43]]</small>
 *The Descendants of Simeon*
 
 [[1Chr.4.24|24]] The sons of Simeon \[were\], Nemuel, and Jamin, Jarib, Zerah, \[and\] Shaul:

@@ -1,8 +1,72 @@
+---
+title: Leviticus 19:13
+type: Verse
+kjv: "Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning."
+bsb: "You must not defraud your neighbor or rob him. You must not withhold until morning the wages due a hired hand."
+hebrew: "לֹֽא־ תַעֲשֹׁ֥ק אֶת־ רֵֽעֲךָ֖ וְלֹ֣א תִגְזֹ֑ל לֹֽא־ תָלִ֞ין פְּעֻלַּ֥ת שָׂכִ֛יר אִתְּךָ֖ עַד־ בֹּֽקֶר׃"
+pericope: "[[Lev.19.9 Love Your Neighbor|Love Your Neighbor]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMPLOYEE|EMPLOYEE]]"
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic JUSTICE|JUSTICE]]"
+- "[[topic LABOR|LABOR]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic ROBBERY|ROBBERY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6231]]"
+- "[[H0853]]"
+- "[[H7453]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1497]]"
+- "[[H3885A]]"
+- "[[H6468]]"
+- "[[H7916]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:13**<big><big>[[Lev.19.9 Love Your Neighbor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not defraud thy neighbour, neither rob [him]: the wages of him that is hired shall not abide with thee all night until the morning.
 <small><sub>**BSB:**</sub></small>
 You must not defraud your neighbor or rob him. You must not withhold until morning the wages due a hired hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H6231\|תַעֲשֹׁ֥ק]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵֽעֲ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1497\|תִגְזֹ֑ל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3885A\|תָלִ֞ין]] [[H6468\|פְּעֻלַּ֥ת]] [[H7916\|שָׂכִ֛יר]] [[H0854\|אִתְּ]][[H9031\|ךָ֖]] [[H5704\|עַד]][[H9014\|־]] [[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic EMPLOYEE|EMPLOYEE]] • [[topic EMPLOYER|EMPLOYER]] • [[topic JUSTICE|JUSTICE]] • [[topic LABOR|LABOR]] • [[topic MASTER|MASTER]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic ROBBERY|ROBBERY]] • [[topic SERVANT|SERVANT]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.12|<< Leviticus 19:12]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.14|Leviticus 19:14 >>]]</td></tr></table>
 

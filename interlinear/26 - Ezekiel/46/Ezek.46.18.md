@@ -1,8 +1,69 @@
+---
+title: Ezekiel 46:18
+type: Verse
+kjv: "Moreover the prince shall not take of the people’s inheritance by oppression, to thrust them out of their possession; but he shall give his sons inheritance out of his own possession: that my people be not scattered every man from his possession."
+bsb: "The prince must not take any of the inheritance of the people by evicting them from their property. He is to provide an inheritance for his sons from his own property, so that none of My people will be displaced from his property.’”"
+hebrew: "וְלֹא־ יִקַּ֨ח הַנָּשִׂ֜יא מִנַּחֲלַ֣ת הָעָ֗ם לְהֽוֹנֹתָם֙ מֵאֲחֻזָּתָ֔ם מֵאֲחֻזָּת֖וֹ יַנְחִ֣ל אֶת־ בָּנָ֑יו לְמַ֙עַן֙ אֲשֶׁ֣ר לֹֽא־ יָפֻ֣צוּ עַמִּ֔י אִ֖ישׁ מֵאֲחֻזָּתֽוֹ׃"
+pericope: "[[Ezek.46.1 The Prince’s Offerings|The Prince’s Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 46
+book/chapter: "[[Ezek.46|Ezekiel 46]]"
+chronological_order: 837
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic KING|KING]]"
+- "[[topic LAND|LAND]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H5387A]]"
+- "[[H9006]]"
+- "[[H5159]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H3238]]"
+- "[[H9038]]"
+- "[[H0272]]"
+- "[[H9028]]"
+- "[[H9023]]"
+- "[[H5157]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H4616]]"
+- "[[H0834A]]"
+- "[[H6327A]]"
+- "[[H9020]]"
+- "[[H0376I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 46:18**<big><big>[[Ezek.46.1 The Prince’s Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the prince shall not take of the people’s inheritance by oppression, to thrust them out of their possession; [but] he shall give his sons inheritance out of his own possession: that my people be not scattered every man from his possession.
 <small><sub>**BSB:**</sub></small>
 The prince must not take any of the inheritance of the people by evicting them from their property. He is to provide an inheritance for his sons from his own property, so that none of My people will be displaced from his property.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3947G\|יִקַּ֨ח]] [[H9009\|הַ]][[H5387A\|נָּשִׂ֜יא]] [[H9006\|מִ]][[H5159\|נַּחֲלַ֣ת]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H9005\|לְ]][[H3238\|הֽוֹנֹתָ]][[H9038\|ם֙]] [[H9006\|מֵ]][[H0272\|אֲחֻזָּתָ֔]][[H9028\|ם]] [[H9006\|מֵ]][[H0272\|אֲחֻזָּת֖]][[H9023\|וֹ]] [[H5157\|יַנְחִ֣ל]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֑י]][[H9023\|ו]] [[H4616\|לְמַ֙עַן֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6327A\|יָפֻ֣צוּ]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H0376I\|אִ֖ישׁ]] [[H9006\|מֵ]][[H0272\|אֲחֻזָּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic KING|KING]] • [[topic LAND|LAND]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.46.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.46.17|<< Ezekiel 46:17]]</td><td align="center" style="border:none;">[[Ezek.46|Ezekiel 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.46.19|Ezekiel 46:19 >>]]</td></tr></table>
 

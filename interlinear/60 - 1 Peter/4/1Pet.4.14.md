@@ -1,10 +1,69 @@
+---
+title: 1 Peter 4:14
+type: Verse
+kjv: "If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified."
+bsb: "If you are insulted for the name of Christ, you are blessed, because the Spirit of glory and of God rests on you."
+greek: "εἰ ὀνειδίζεσθε ἐν ὀνόματι Χριστοῦ, μακάριοι· ὅτι τὸ τῆς δόξης καὶ τὸ τοῦ θεοῦ πνεῦμα ἐφ᾽ ὑμᾶς ἀναπαύεται κατὰ μὲν αὐτοὺς βλασφημεῖται κατὰ δὲ ὑμᾶς δοξάζεται.¶"
+pericope: "[[1Pet.4.12 Suffering as Christians|Suffering as Christians]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 4
+book/chapter: "[[1Pet.4|1 Peter 4]]"
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+strongs:
+- "[[G1487G]]"
+- "[[G3679]]"
+- "[[G1722]]"
+- "[[G3686]]"
+- "[[G5547]]"
+- "[[G3107]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G1391]]"
+- "[[G2532]]"
+- "[[G2316]]"
+- "[[G4151G]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G0373]]"
+- "[[G2596]]"
+- "[[G3303]]"
+- "[[G0846]]"
+- "[[G0987]]"
+- "[[G1161]]"
+- "[[G1392]]"
+texts:
+- NKO
+- K
+---
+
 **1 Peter 4:14**<big><big>[[1Pet.4.12 Suffering as Christians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If ye be reproached for the name of Christ, happy [are ye]; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
 <small><sub>**BSB:**</sub></small>
 If you are insulted for the name of Christ, you are blessed, because the Spirit of glory and of God rests on you.
-<small><sub>**Literal:**</sub></small>
-If you are insulted in [the] name of Christ, [you are] blessed; because <the> <the> of glory and <the> <the> of God [the] Spirit upon you rests according to indeed them he is blasphemed according to however you he is honored.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.13|<< 1 Peter 4:13]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.15|1 Peter 4:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G3679\|ὀνειδίζεσθε]]  [[G1722\|ἐν]]  [[G3686\|ὀνόματι]]  [[G5547\|Χριστοῦ,]]  [[G3107\|μακάριοι·]]  [[G3754H\|ὅτι]]  [[G3588\|τὸ]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G4151G\|πνεῦμα]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμᾶς]]  [[G0373\|ἀναπαύεται]]  [[G2596\|κατὰ]]  [[G3303\|μὲν]]  [[G0846\|αὐτοὺς]]  [[G0987\|βλασφημεῖται]]  [[G2596\|κατὰ]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς]]  [[G1392\|δοξάζεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSTANCY|CONSTANCY]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SUFFERING|SUFFERING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.13|<< 1 Peter 4:13]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.15|1 Peter 4:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 4:14** is...
 > $\quad$ referencing: [[LXX.Isa.11.2|Isa 11:2]]

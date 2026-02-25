@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 2:7
+type: Verse
+kjv: "For the LORD thy God hath blessed thee in all the works of thy hand: he knoweth thy walking through this great wilderness: these forty years the LORD thy God hath been with thee; thou hast lacked nothing."
+bsb: "Indeed, the LORD your God has blessed you in all the work of your hands. He has watched over your journey through this vast wilderness. The LORD your God has been with you these forty years, and you have lacked nothing."
+hebrew: "כִּי֩ יְהוָ֨ה אֱלֹהֶ֜יךָ בֵּֽרַכְךָ֗ בְּכֹל֙ מַעֲשֵׂ֣ה יָדֶ֔ךָ יָדַ֣ע לֶכְתְּךָ֔ אֶת־ הַמִּדְבָּ֥ר הַגָּדֹ֖ל הַזֶּ֑ה זֶ֣ה׀ אַרְבָּעִ֣ים שָׁנָ֗ה יְהוָ֤ה אֱלֹהֶ֙יךָ֙ עִמָּ֔ךְ לֹ֥א חָסַ֖רְתָּ דָּבָֽר׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H4639G]]"
+- "[[H3027G]]"
+- "[[H3045]]"
+- "[[H1980G]]"
+- "[[H9041]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H1419A]]"
+- "[[H2088]]"
+- "[[H9015]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H5973A]]"
+- "[[H3808]]"
+- "[[H2637]]"
+- "[[H1697I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:7**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD thy God hath blessed thee in all the works of thy hand: he knoweth thy walking through this great wilderness: these forty years the LORD thy God [hath been] with thee; thou hast lacked nothing.
 <small><sub>**BSB:**</sub></small>
 Indeed, the LORD your God has blessed you in all the work of your hands. He has watched over your journey through this vast wilderness. The LORD your God has been with you these forty years, and you have lacked nothing.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H1288\|בֵּֽרַכְ]][[H9031\|ךָ֗]] [[H9003\|בְּ]][[H3605\|כֹל֙]] [[H4639G\|מַעֲשֵׂ֣ה]] [[H3027G\|יָדֶ֔]][[H9021\|ךָ]] [[H3045\|יָדַ֣ע]] [[H1980G\|לֶכְתְּ]][[H9041\|ךָ֔]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֥ר]] [[H9009\|הַ]][[H1419A\|גָּדֹ֖ל]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H2088\|זֶ֣ה]][[H9015\|׀]] [[H0705\|אַרְבָּעִ֣ים]] [[H8141\|שָׁנָ֗ה]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H5973A\|עִמָּ֔]][[H9031\|ךְ]] [[H3808\|לֹ֥א]] [[H2637\|חָסַ֖רְתָּ]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.6|<< Deuteronomy 2:6]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.8|Deuteronomy 2:8 >>]]</td></tr></table>
 

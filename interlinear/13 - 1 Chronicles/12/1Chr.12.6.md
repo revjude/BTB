@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 12:6
+type: Verse
+kjv: "Elkanah, and Jesiah, and Azareel, and Joezer, and Jashobeam, the Korhites,"
+bsb: "Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, who were Korahites;"
+hebrew: "אֶלְקָנָ֡ה וְ֠יִשִּׁיָּהוּ וַעֲזַרְאֵ֧ל וְיוֹעֶ֛זֶר וְיָשָׁבְעָ֖ם הַקָּרְחִֽים׃"
+pericope: "[[1Chr.12.1 The Mighty Men Join David at Ziklag|The Mighty Men Join David at Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AZAREEL|AZAREEL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELKANAH|ELKANAH]]"
+- "[[topic JASHOBEAM|JASHOBEAM]]"
+- "[[topic JESIAH|JESIAH]]"
+- "[[topic JOEZER|JOEZER]]"
+strongs:
+- "[[H0511L]]"
+- "[[H9002]]"
+- "[[H3449H]]"
+- "[[H5832G]]"
+- "[[H3134]]"
+- "[[H3434H]]"
+- "[[H9009]]"
+- "[[H7145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:6**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Elkanah, and Jesiah, and Azareel, and Joezer, and Jashobeam, the Korhites,
 <small><sub>**BSB:**</sub></small>
 Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, who were Korahites;
+<small><sub>**Hebrew:**</sub></small>
+[[H0511L\|אֶלְקָנָ֡ה]] [[H9002\|וְ֠]][[H3449H\|יִשִּׁיָּהוּ]] [[H9002\|וַ]][[H5832G\|עֲזַרְאֵ֧ל]] [[H9002\|וְ]][[H3134\|יוֹעֶ֛זֶר]] [[H9002\|וְ]][[H3434H\|יָשָׁבְעָ֖ם]] [[H9009\|הַ]][[H7145\|קָּרְחִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZAREEL|AZAREEL]] • [[topic DAVID|DAVID]] • [[topic ELKANAH|ELKANAH]] • [[topic JASHOBEAM|JASHOBEAM]] • [[topic JESIAH|JESIAH]] • [[topic JOEZER|JOEZER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.5|<< 1 Chronicles 12:5]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.7|1 Chronicles 12:7 >>]]</td></tr></table>
 

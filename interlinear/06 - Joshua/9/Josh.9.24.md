@@ -1,8 +1,80 @@
+---
+title: Joshua 9:24
+type: Verse
+kjv: "And they answered Joshua, and said, Because it was certainly told thy servants, how that the LORD thy God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing."
+bsb: "The Gibeonites answered, “Your servants were told clearly that the LORD your God had commanded His servant Moses to give you all the land and wipe out all its inhabitants before you. So we greatly feared for our lives because of you, and that is why we have done this."
+hebrew: "וַיַּעֲנ֨וּ אֶת־ יְהוֹשֻׁ֜עַ וַיֹּאמְר֗וּ כִּי֩ הֻגֵּ֨ד הֻגַּ֤ד לַעֲבָדֶ֙יךָ֙ אֵת֩ אֲשֶׁ֨ר צִוָּ֜ה יְהוָ֤ה אֱלֹהֶ֙יךָ֙ אֶת־ מֹשֶׁ֣ה עַבְדּ֔וֹ לָתֵ֤ת לָכֶם֙ אֶת־ כָּל־ הָאָ֔רֶץ וּלְהַשְׁמִ֛יד אֶת־ כָּל־ יֹשְׁבֵ֥י הָאָ֖רֶץ מִפְּנֵיכֶ֑ם וַנִּירָ֨א מְאֹ֤ד לְנַפְשֹׁתֵ֙ינוּ֙ מִפְּנֵיכֶ֔ם וַֽנַּעֲשֵׂ֖ה אֶת־ הַדָּבָ֥ר הַזֶּֽה׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H4872]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H9036]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H8045]]"
+- "[[H3427]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H3372G]]"
+- "[[H3966]]"
+- "[[H5315H]]"
+- "[[H9025]]"
+- "[[H6440I]]"
+- "[[H6213A]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 9:24**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they answered Joshua, and said, Because it was certainly told thy servants, how that the LORD thy God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you, therefore we were sore afraid of our lives because of you, and have done this thing.
 <small><sub>**BSB:**</sub></small>
 The Gibeonites answered, “Your servants were told clearly that the LORD your God had commanded His servant Moses to give you all the land and wipe out all its inhabitants before you. So we greatly feared for our lives because of you, and that is why we have done this.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּעֲנ֨וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֜עַ]] [[H9001\|וַ]][[H0559\|יֹּאמְר֗וּ]] [[H3588A\|כִּי֩]] [[H5046\|הֻגֵּ֨ד]] [[H5046\|הֻגַּ֤ד]] [[H9005\|לַ]][[H5650\|עֲבָדֶ֙י]][[H9021\|ךָ֙]] [[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֜ה]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֣ה]] [[H5650\|עַבְדּ֔]][[H9023\|וֹ]] [[H9005\|לָ]][[H5414G\|תֵ֤ת]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וּ]][[H9005\|לְ]][[H8045\|הַשְׁמִ֛יד]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֥י]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶ֑ם]] [[H9001\|וַ]][[H3372G\|נִּירָ֨א]] [[H3966\|מְאֹ֤ד]] [[H9005\|לְ]][[H5315H\|נַפְשֹׁתֵ֙י]][[H9025\|נוּ֙]] [[H9006\|מִ]][[H6440I\|פְּנֵי]][[H9026\|כֶ֔ם]] [[H9001\|וַֽ]][[H6213A\|נַּעֲשֵׂ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.23|<< Joshua 9:23]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.25|Joshua 9:25 >>]]</td></tr></table>
 

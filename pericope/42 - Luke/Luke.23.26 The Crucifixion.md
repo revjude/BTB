@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Crucifixion
+type: Pericope
 pericope: "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
-verse_count: 18
+original_language: Greek
 testament: New
 book: Luke
 chapter: 23
 book/chapter: "[[Luke.23|Luke 23]]"
-genre:
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 18
 verses:
 - "[[Luke.23.26]]"
 - "[[Luke.23.27]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Luke.23.43]]"
 ---
 
-[[Luke.23|Luke 23:26 - Luke 23:43]]
+<small>[[Luke.23|Luke 23:26-43]]</small>
 *The Crucifixion*
 
 [[Luke.23.26|26]] And as they led him away, they laid hold upon one Simon, a Cyrenian, coming out of the country, and on him they laid the cross, that he might bear \[it\] after Jesus.

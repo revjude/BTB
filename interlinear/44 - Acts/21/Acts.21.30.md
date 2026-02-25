@@ -1,10 +1,65 @@
+---
+title: Acts 21:30
+type: Verse
+kjv: "And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and forthwith the doors were shut."
+bsb: "The whole city was stirred up, and the people rushed together. They seized Paul and dragged him out of the temple, and at once the gates were shut."
+greek: "ἐκινήθη τε ἡ πόλις ὅλη καὶ ἐγένετο συνδρομὴ τοῦ λαοῦ, καὶ ἐπιλαβόμενοι τοῦ Παύλου εἷλκον αὐτὸν ἔξω τοῦ ἱεροῦ· καὶ εὐθέως ἐκλείσθησαν αἱ θύραι."
+pericope: "[[Acts.21.27 Paul Seized at the Temple|Paul Seized at the Temple]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ARREST|ARREST]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TROPHIMUS|TROPHIMUS]]"
+strongs:
+- "[[G2795]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3650]]"
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G4890]]"
+- "[[G2992]]"
+- "[[G1949]]"
+- "[[G3972G]]"
+- "[[G1670]]"
+- "[[G0846]]"
+- "[[G1854]]"
+- "[[G2411]]"
+- "[[G2112]]"
+- "[[G2808]]"
+- "[[G2374]]"
+texts:
+- NKO
+---
+
 **Acts 21:30**<big><big>[[Acts.21.27 Paul Seized at the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all the city was moved, and the people ran together: and they took Paul, and drew him out of the temple: and forthwith the doors were shut.
 <small><sub>**BSB:**</sub></small>
 The whole city was stirred up, and the people rushed together. They seized Paul and dragged him out of the temple, and at once the gates were shut.
-<small><sub>**Literal:**</sub></small>
-Was thrown into commotion also the city whole and there was a rushing together of the people, And having laid hold <the> of Paul they were dragging him outside the temple; and immediately were shut the doors.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.29|<< Acts 21:29]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.31|Acts 21:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2795\|ἐκινήθη]]  [[G5037\|τε]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G3650\|ὅλη]]  [[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G4890\|συνδρομὴ]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ,]]  [[G2532\|καὶ]]  [[G1949\|ἐπιλαβόμενοι]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G1670\|εἷλκον]]  [[G0846\|αὐτὸν]]  [[G1854\|ἔξω]]  [[G3588\|τοῦ]]  [[G2411\|ἱεροῦ·]]  [[G2532\|καὶ]]  [[G2112\|εὐθέως]]  [[G2808\|ἐκλείσθησαν]]  [[G3588\|αἱ]]  [[G2374\|θύραι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARREST|ARREST]] • [[topic FRATERNITY|FRATERNITY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRISONERS|PRISONERS]] • [[topic TEMPLE|TEMPLE]] • [[topic TROPHIMUS|TROPHIMUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.29|<< Acts 21:29]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.31|Acts 21:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

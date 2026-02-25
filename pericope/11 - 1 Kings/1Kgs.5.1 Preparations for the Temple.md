@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Preparations for the Temple
+type: Pericope
 pericope: "[[1Kgs.5.1 Preparations for the Temple|Preparations for the Temple]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 5
 book/chapter: "[[1Kgs.5|1 Kings 5]]"
-genre:
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 6
 verses:
 - "[[1Kgs.5.1]]"
 - "[[1Kgs.5.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Kgs.5.6]]"
 ---
 
-[[1Kgs.5|1 Kings 5:1 - 1 Kings 5:6]]
+<small>[[1Kgs.5|1 Kings 5:1-6]]</small>
 *Preparations for the Temple*
 
 [[1Kgs.5.1|1]] And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David.

@@ -1,8 +1,65 @@
+---
+title: Daniel 2:29
+type: Verse
+kjv: "As for thee, O king, thy thoughts came into thy mind upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass."
+bsb: "As you lay on your bed, O king, your thoughts turned to the future, and the Revealer of Mysteries made known to you what will happen."
+aramaic: "אַ֣נְתְּ מַלְכָּ֗א רַעְיוֹנָךְ֙ עַל־ מִשְׁכְּבָ֣ךְ סְלִ֔קוּ מָ֛ה דִּ֥י לֶהֱוֵ֖א אַחֲרֵ֣י דְנָ֑ה וְגָלֵ֧א רָזַיָּ֛א הוֹדְעָ֖ךְ מָה־ דִ֥י לֶהֱוֵֽא׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+strongs:
+- "[[H0607]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H7476]]"
+- "[[H9021]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H4903]]"
+- "[[H5559]]"
+- "[[H4101]]"
+- "[[H1768]]"
+- "[[H1934]]"
+- "[[H0311]]"
+- "[[H1836]]"
+- "[[H9002]]"
+- "[[H1541]]"
+- "[[H7328]]"
+- "[[H3046]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Daniel 2:29**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As for thee, O king, thy thoughts came [into thy mind] upon thy bed, what should come to pass hereafter: and he that revealeth secrets maketh known to thee what shall come to pass.
 <small><sub>**BSB:**</sub></small>
 As you lay on your bed, O king, your thoughts turned to the future, and the Revealer of Mysteries made known to you what will happen.
+<small><sub>**Aramaic:**</sub></small>
+[[H0607\|אַ֣נְתְּ]] [[H4430\|מַלְכָּ֗]][[H9010\|א]] [[H7476\|רַעְיוֹנָ]][[H9021\|ךְ֙]] [[H5922\|עַל]][[H9014\|־]] [[H4903\|מִשְׁכְּבָ֣]][[H9021\|ךְ]] [[H5559\|סְלִ֔קוּ]] [[H4101\|מָ֛ה]] [[H1768\|דִּ֥י]] [[H1934\|לֶהֱוֵ֖א]] [[H0311\|אַחֲרֵ֣י]] [[H1836\|דְנָ֑ה]] [[H9002\|וְ]][[H1541\|גָלֵ֧א]] [[H7328\|רָזַיָּ֛]][[H9010\|א]] [[H3046\|הוֹדְעָ֖]][[H9031\|ךְ]] [[H4101\|מָה]][[H9014\|־]] [[H1768\|דִ֥י]] [[H1934\|לֶהֱוֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic DREAM|DREAM]] • [[topic GOD|GOD]] • [[topic INTERPRETER|INTERPRETER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.28|<< Daniel 2:28]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.30|Daniel 2:30 >>]]</td></tr></table>
 

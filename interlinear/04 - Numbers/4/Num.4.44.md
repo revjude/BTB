@@ -1,8 +1,55 @@
+---
+title: Numbers 4:44
+type: Verse
+kjv: "Even those that were numbered of them after their families, were three thousand and two hundred."
+bsb: "The men registered by their clans numbered 3,200."
+hebrew: "וַיִּהְי֥וּ פְקֻדֵיהֶ֖ם לְמִשְׁפְּחֹתָ֑ם שְׁלֹ֥שֶׁת אֲלָפִ֖ים וּמָאתָֽיִם׃"
+pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:44**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even those that were numbered of them after their families, were three thousand and two hundred.
 <small><sub>**BSB:**</sub></small>
 The men registered by their clans numbered 3,200.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֥וּ]] [[H6485A\|פְקֻדֵי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֑]][[H9028\|ם]] [[H7969\|שְׁלֹ֥שֶׁת]] [[H0505G\|אֲלָפִ֖ים]] [[H9002\|וּ]][[H3967\|מָאתָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.43|<< Numbers 4:43]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.45|Numbers 4:45 >>]]</td></tr></table>
 

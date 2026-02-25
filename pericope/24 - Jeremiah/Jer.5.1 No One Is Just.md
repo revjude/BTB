@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: No One Is Just
+type: Pericope
 pericope: "[[Jer.5.1 No One Is Just|No One Is Just]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 5
 book/chapter: "[[Jer.5|Jeremiah 5]]"
-genre:
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 13
 verses:
 - "[[Jer.5.1]]"
 - "[[Jer.5.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Jer.5.13]]"
 ---
 
-[[Jer.5|Jeremiah 5:1 - Jeremiah 5:13]]
+<small>[[Jer.5|Jeremiah 5:1-13]]</small>
 *No One Is Just*
 
 [[Jer.5.1|1]] Run ye to and fro through the streets of Jerusalem, and see now, and know, and seek in the broad places thereof, if ye can find a man, if there be \[any\] that executeth judgment, that seeketh the truth; and I will pardon it.

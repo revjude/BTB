@@ -1,10 +1,78 @@
+---
+title: Luke 11:42
+type: Verse
+kjv: "But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone."
+bsb: "Woe to you Pharisees! For you pay tithes of mint, rue, and every herb, but you disregard justice and the love of God. You should have practiced the latter without neglecting the former."
+jesus_said: "But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone."
+greek: "Ἀλλ᾽ οὐαὶ ὑμῖν τοῖς Φαρισαίοις, ὅτι ἀποδεκατοῦτε τὸ ἡδύοσμον καὶ τὸ πήγανον καὶ πᾶν λάχανον καὶ παρέρχεσθε τὴν κρίσιν καὶ τὴν ἀγάπην τοῦ θεοῦ· ταῦτα δὲ ἔδει ποιῆσαι, κἀκεῖνα κἀκεῖνα μὴ παρεῖναι.¶"
+pericope: "[[Luke.11.37 Woes to Pharisees and Experts in the Law|Woes to Pharisees and Experts in the Law]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINT|MINT]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RUE|RUE]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[G0235]]"
+- "[[G3759]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G5330]]"
+- "[[G3754H]]"
+- "[[G0586]]"
+- "[[G2238]]"
+- "[[G2532]]"
+- "[[G4076]]"
+- "[[G3956]]"
+- "[[G3001]]"
+- "[[G3928]]"
+- "[[G2920]]"
+- "[[G0026]]"
+- "[[G2316]]"
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G1163]]"
+- "[[G4160G]]"
+- "[[G1565]]"
+- "[[G3361]]"
+- "[[G3918]]"
+texts:
+- NKO
+- NO
+- N(k)O
+---
+
 **Luke 11:42**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.
 <small><sub>**BSB:**</sub></small>
 Woe to you Pharisees! For you pay tithes of mint, rue, and every herb, but you disregard justice and the love of God. You should have practiced the latter without neglecting the former.
-<small><sub>**Literal:**</sub></small>
-But woe to you <the> Pharisees, for you pay tithes of <the> mint and <the> rue and every herb and you pass by the justice and the love <the> of God; These things also it was necessary for [you] to do, and those not to neglect.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.41|<< Luke 11:41]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.43|Luke 11:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|Ἀλλ᾽]]  [[G3759\|οὐαὶ]]  [[G4771\|ὑμῖν]]  [[G3588\|τοῖς]]  [[G5330\|Φαρισαίοις,]]  [[G3754H\|ὅτι]]  [[G0586\|ἀποδεκατοῦτε]]  [[G3588\|τὸ]]  [[G2238\|ἡδύοσμον]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G4076\|πήγανον]]  [[G2532\|καὶ]]  [[G3956\|πᾶν]]  [[G3001\|λάχανον]]  [[G2532\|καὶ]]  [[G3928\|παρέρχεσθε]]  [[G3588\|τὴν]]  [[G2920\|κρίσιν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G0026\|ἀγάπην]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ·]]  [[G3778\|ταῦτα]]  [[G1161\|δὲ]]  [[G1163\|ἔδει]]  [[G4160G\|ποιῆσαι,]]  [[G2532\|κἀκεῖνα]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G3361\|μὴ]]  [[G3918\|παρεῖναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic INTEGRITY|INTEGRITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MINT|MINT]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic RUE|RUE]] • [[topic SATIRE|SATIRE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic TEACHERS|TEACHERS]] • [[topic TITHES|TITHES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.41|<< Luke 11:41]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.43|Luke 11:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,50 @@
+---
+title: Proverbs 12:18
+type: Verse
+kjv: "There is that speaketh like the piercings of a sword: but the tongue of the wise is health."
+bsb: "Speaking rashly is like a piercing sword, but the tongue of the wise brings healing."
+hebrew: "יֵ֣שׁ בּ֭וֹטֶה כְּמַדְקְר֣וֹת חָ֑רֶב וּלְשׁ֖וֹן חֲכָמִ֣ים מַרְפֵּֽא׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H3426]]"
+- "[[H0981]]"
+- "[[H9004]]"
+- "[[H4094]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H2450]]"
+- "[[H4832]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:18**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is that speaketh like the piercings of a sword: but the tongue of the wise [is] health.
 <small><sub>**BSB:**</sub></small>
 Speaking rashly is like a piercing sword, but the tongue of the wise brings healing.
+<small><sub>**Hebrew:**</sub></small>
+[[H3426\|יֵ֣שׁ]] [[H0981\|בּ֭וֹטֶה]] [[H9004\|כְּ]][[H4094\|מַדְקְר֣וֹת]] [[H2719\|חָ֑רֶב]] [[H9002\|וּ]][[H3956G\|לְשׁ֖וֹן]] [[H2450\|חֲכָמִ֣ים]] [[H4832\|מַרְפֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.17|<< Proverbs 12:17]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.19|Proverbs 12:19 >>]]</td></tr></table>
 

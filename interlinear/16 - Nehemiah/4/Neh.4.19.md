@@ -1,8 +1,64 @@
+---
+title: Nehemiah 4:19
+type: Verse
+kjv: "And I said unto the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another."
+bsb: "Then I said to the nobles, the officials, and the rest of the people: “The work is great and extensive, and we are spread out far from one another along the wall."
+hebrew: "וָאֹמַ֞ר אֶל־ הַחֹרִ֤ים וְאֶל־ הַסְּגָנִים֙ וְאֶל־ יֶ֣תֶר הָעָ֔ם הַמְּלָאכָ֥ה הַרְבֵּ֖ה וּרְחָבָ֑ה וַאֲנַ֗חְנוּ נִפְרָדִים֙ עַל־ הַ֣חוֹמָ֔ה רְחוֹקִ֖ים אִ֥ישׁ מֵאָחִֽיו׃"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2715]]"
+- "[[H9002]]"
+- "[[H5461]]"
+- "[[H3499A]]"
+- "[[H5971A]]"
+- "[[H4399]]"
+- "[[H7235A]]"
+- "[[H7342H]]"
+- "[[H0587]]"
+- "[[H6504]]"
+- "[[H5921A]]"
+- "[[H2346G]]"
+- "[[H7350]]"
+- "[[H0376I]]"
+- "[[H9006]]"
+- "[[H0251I]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 4:19**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto the nobles, and to the rulers, and to the rest of the people, The work [is] great and large, and we are separated upon the wall, one far from another.
 <small><sub>**BSB:**</sub></small>
 Then I said to the nobles, the officials, and the rest of the people: “The work is great and extensive, and we are spread out far from one another along the wall.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֞ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2715\|חֹרִ֤ים]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5461\|סְּגָנִים֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3499A\|יֶ֣תֶר]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9009\|הַ]][[H4399\|מְּלָאכָ֥ה]] [[H7235A\|הַרְבֵּ֖ה]] [[H9002\|וּ]][[H7342H\|רְחָבָ֑ה]] [[H9002\|וַ]][[H0587\|אֲנַ֗חְנוּ]] [[H6504\|נִפְרָדִים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ֣]][[H2346G\|חוֹמָ֔ה]] [[H7350\|רְחוֹקִ֖ים]] [[H0376I\|אִ֥ישׁ]] [[H9006\|מֵ]][[H0251I\|אָחִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.18|<< Nehemiah 4:18]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.20|Nehemiah 4:20 >>]]</td></tr></table>
 

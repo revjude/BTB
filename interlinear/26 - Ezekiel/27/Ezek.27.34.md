@@ -1,8 +1,59 @@
+---
+title: Ezekiel 27:34
+type: Verse
+kjv: "In the time when thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall."
+bsb: "Now you are shattered by the seas in the depths of the waters; your merchandise and the people among you have gone down with you."
+hebrew: "עֵ֛ת נִשְׁבֶּ֥רֶת מִיַּמִּ֖ים בְּמַֽעֲמַקֵּי־ מָ֑יִם מַעֲרָבֵ֥ךְ וְכָל־ קְהָלֵ֖ךְ בְּתוֹכֵ֥ךְ נָפָֽלוּ׃"
+pericope: "[[Ezek.27.1 A Lament for Tyre|A Lament for Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 27
+book/chapter: "[[Ezek.27|Ezekiel 27]]"
+chronological_order: 818
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MERCHANT|MERCHANT]]"
+strongs:
+- "[[H6256]]"
+- "[[H7665]]"
+- "[[H9006]]"
+- "[[H3220G]]"
+- "[[H9003]]"
+- "[[H4615]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H4627]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H6951]]"
+- "[[H8432]]"
+- "[[H5307G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 27:34**<big><big>[[Ezek.27.1 A Lament for Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the time [when] thou shalt be broken by the seas in the depths of the waters thy merchandise and all thy company in the midst of thee shall fall.
 <small><sub>**BSB:**</sub></small>
 Now you are shattered by the seas in the depths of the waters; your merchandise and the people among you have gone down with you.
+<small><sub>**Hebrew:**</sub></small>
+[[H6256\|עֵ֛ת]] [[H7665\|נִשְׁבֶּ֥רֶת]] [[H9006\|מִ]][[H3220G\|יַּמִּ֖ים]] [[H9003\|בְּ]][[H4615\|מַֽעֲמַקֵּי]][[H9014\|־]] [[H4325G\|מָ֑יִם]] [[H4627\|מַעֲרָבֵ֥]][[H9022\|ךְ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H6951\|קְהָלֵ֖]][[H9022\|ךְ]] [[H9003\|בְּ]][[H8432\|תוֹכֵ֥]][[H9022\|ךְ]] [[H5307G\|נָפָֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MERCHANT|MERCHANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.27.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.27.33|<< Ezekiel 27:33]]</td><td align="center" style="border:none;">[[Ezek.27|Ezekiel 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.27.35|Ezekiel 27:35 >>]]</td></tr></table>
 

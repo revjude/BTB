@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Completion of the Gold Furnishings
+type: Pericope
 pericope: "[[1Kgs.7.48 Completion of the Gold Furnishings|Completion of the Gold Furnishings]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 7
 book/chapter: "[[1Kgs.7|1 Kings 7]]"
-genre:
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 4
 verses:
 - "[[1Kgs.7.48]]"
 - "[[1Kgs.7.49]]"
@@ -24,7 +31,7 @@ verses:
 - "[[1Kgs.7.51]]"
 ---
 
-[[1Kgs.7|1 Kings 7:48 - 1 Kings 7:51]]
+<small>[[1Kgs.7|1 Kings 7:48-51]]</small>
 *Completion of the Gold Furnishings*
 
 [[1Kgs.7.48|48]] And Solomon made all the vessels that \[pertained\] unto the house of the LORD: the altar of gold, and the table of gold, whereupon the shewbread \[was\],

@@ -1,8 +1,54 @@
+---
+title: Job 16:17
+type: Verse
+kjv: "Not for any injustice in mine hands: also my prayer is pure."
+bsb: "yet my hands are free of violence and my prayer is pure."
+hebrew: "עַ֭ל לֹא־ חָמָ֣ס בְּכַפָּ֑י וּֽתְפִלָּתִ֥י זַכָּֽה׃"
+pericope: "[[Job.16.1 Job Decries His Comforters|Job Decries His Comforters]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 16
+book/chapter: "[[Job.16|Job 16]]"
+chronological_order: 27
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic INJUSTICE|INJUSTICE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H5921A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2555]]"
+- "[[H9003]]"
+- "[[H3709G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H8605]]"
+- "[[H2134]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 16:17**<big><big>[[Job.16.1 Job Decries His Comforters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Not for [any] injustice in mine hands: also my prayer [is] pure.
 <small><sub>**BSB:**</sub></small>
 yet my hands are free of violence and my prayer is pure.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַ֭ל]] [[H3808\|לֹא]][[H9014\|־]] [[H2555\|חָמָ֣ס]] [[H9003\|בְּ]][[H3709G\|כַפָּ֑]][[H9020\|י]] [[H9002\|וּֽ]][[H8605\|תְפִלָּתִ֥]][[H9020\|י]] [[H2134\|זַכָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INJUSTICE|INJUSTICE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.16.16|<< Job 16:16]]</td><td align="center" style="border:none;">[[Job.16|Job 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.16.18|Job 16:18 >>]]</td></tr></table>
 

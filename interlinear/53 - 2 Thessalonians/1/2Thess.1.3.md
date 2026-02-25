@@ -1,10 +1,66 @@
+---
+title: 2 Thessalonians 1:3
+type: Verse
+kjv: "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;"
+bsb: "We are obligated to thank God for you all the time, brothers, as is fitting, because your faith is growing more and more, and your love for one another is increasing."
+greek: "Εὐχαριστεῖν ὀφείλομεν τῷ θεῷ πάντοτε περὶ ὑμῶν, ἀδελφοί, καθὼς ἄξιόν ἐστιν, ὅτι ὑπεραυξάνει ἡ πίστις ὑμῶν καὶ πλεονάζει ἡ ἀγάπη ἑνὸς ἑκάστου πάντων ὑμῶν εἰς ἀλλήλους·"
+pericope: "[[2Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 1
+book/chapter: "[[2Thess.1|2 Thessalonians 1]]"
+chronological_order: 1053
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G2168]]"
+- "[[G3784]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3842]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G2531]]"
+- "[[G0514]]"
+- "[[G1510]]"
+- "[[G3754H]]"
+- "[[G5232]]"
+- "[[G4102G]]"
+- "[[G2532]]"
+- "[[G4121]]"
+- "[[G0026]]"
+- "[[G1520]]"
+- "[[G1538]]"
+- "[[G3956]]"
+- "[[G1519]]"
+- "[[G0240]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 1:3**<big><big>[[2Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;
 <small><sub>**BSB:**</sub></small>
 We are obligated to thank God for you all the time, brothers, as is fitting, because your faith is growing more and more, and your love for one another is increasing.
-<small><sub>**Literal:**</sub></small>
-To thank we ought <the> God always concerning you, brothers, even as fitting it is, because is increasing exceedingly the faith of you and is abounding the love of one each of all you to one another;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.2|<< 2 Thessalonians 1:2]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.4|2 Thessalonians 1:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2168\|Εὐχαριστεῖν]]  [[G3784\|ὀφείλομεν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3842\|πάντοτε]]  [[G4012\|περὶ]]  [[G4771\|ὑμῶν,]]  [[G0080\|ἀδελφοί,]]  [[G2531\|καθὼς]]  [[G0514\|ἄξιόν]]  [[G1510\|ἐστιν,]]  [[G3754H\|ὅτι]]  [[G5232\|ὑπεραυξάνει]]  [[G3588\|ἡ]]  [[G4102G\|πίστις]]  [[G4771\|ὑμῶν]]  [[G2532\|καὶ]]  [[G4121\|πλεονάζει]]  [[G3588\|ἡ]]  [[G0026\|ἀγάπη]]  [[G1520\|ἑνὸς]]  [[G1538\|ἑκάστου]]  [[G3956\|πάντων]]  [[G4771\|ὑμῶν]]  [[G1519\|εἰς]]  [[G0240\|ἀλλήλους·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic PAUL|PAUL]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.1.2|<< 2 Thessalonians 1:2]]</td><td align="center" style="border:none;">[[2Thess.1|2 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.1.4|2 Thessalonians 1:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

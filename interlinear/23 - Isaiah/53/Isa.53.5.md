@@ -1,8 +1,67 @@
+---
+title: Isaiah 53:5
+type: Verse
+kjv: "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
+bsb: "But He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was upon Him, and by His stripes we are healed."
+hebrew: "וְהוּא֙ מְחֹלָ֣ל מִפְּשָׁעֵ֔נוּ מְדֻכָּ֖א מֵעֲוֹנֹתֵ֑ינוּ מוּסַ֤ר שְׁלוֹמֵ֙נוּ֙ עָלָ֔יו וּבַחֲבֻרָת֖וֹ נִרְפָּא־ לָֽנוּ׃"
+pericope: "[[Isa.53.1 The Suffering Servant|The Suffering Servant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 53
+book/chapter: "[[Isa.53|Isaiah 53]]"
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H2490A]]"
+- "[[H9006]]"
+- "[[H6588]]"
+- "[[H9025]]"
+- "[[H1792]]"
+- "[[H5771G]]"
+- "[[H4148G]]"
+- "[[H7965G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H2250]]"
+- "[[H9023]]"
+- "[[H7495]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 53:5**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he [was] wounded for our transgressions, [he was] bruised for our iniquities: the chastisement of our peace [was] upon him; and with his stripes we are healed.
 <small><sub>**BSB:**</sub></small>
 But He was pierced for our transgressions, He was crushed for our iniquities; the punishment that brought us peace was upon Him, and by His stripes we are healed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|הוּא֙]] [[H2490A\|מְחֹלָ֣ל]] [[H9006\|מִ]][[H6588\|פְּשָׁעֵ֔]][[H9025\|נוּ]] [[H1792\|מְדֻכָּ֖א]] [[H9006\|מֵ]][[H5771G\|עֲוֹנֹתֵ֑י]][[H9025\|נוּ]] [[H4148G\|מוּסַ֤ר]] [[H7965G\|שְׁלוֹמֵ֙]][[H9025\|נוּ֙]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9002\|וּ]][[H9003\|בַ]][[H2250\|חֲבֻרָת֖]][[H9023\|וֹ]] [[H7495\|נִרְפָּא]][[H9014\|־]] [[H9005\|לָֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.4|<< Isaiah 53:4]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.6|Isaiah 53:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

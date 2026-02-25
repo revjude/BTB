@@ -1,10 +1,70 @@
+---
+title: Luke 5:17
+type: Verse
+kjv: "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them."
+bsb: "One day Jesus was teaching, and the Pharisees and teachers of the law were sitting there. People had come from Jerusalem and from every village of Galilee and Judea, and the power of the Lord was present for Him to heal the sick."
+greek: "Καὶ ἐγένετο ἐν μιᾷ τῶν ἡμερῶν καὶ αὐτὸς ἦν διδάσκων· καὶ ἦσαν καθήμενοι Φαρισαῖοι καὶ νομοδιδάσκαλοι οἳ ἦσαν ἐληλυθότες ἐκ πάσης κώμης τῆς Γαλιλαίας καὶ Ἰουδαίας καὶ Ἰερουσαλήμ, καὶ δύναμις κυρίου ἦν εἰς τὸ ἰᾶσθαι αὐτόν."
+pericope: "[[Luke.5.17 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DOCTOR|DOCTOR]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDEA|JUDEA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G1321]]"
+- "[[G2521]]"
+- "[[G5330]]"
+- "[[G3547]]"
+- "[[G3739]]"
+- "[[G2064]]"
+- "[[G1537]]"
+- "[[G3956]]"
+- "[[G2968]]"
+- "[[G1056G]]"
+- "[[G2449]]"
+- "[[G2419]]"
+- "[[G1411]]"
+- "[[G2962G]]"
+- "[[G1519]]"
+- "[[G2390]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 5:17**<big><big>[[Luke.5.17 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was [present] to heal them.
 <small><sub>**BSB:**</sub></small>
 One day Jesus was teaching, and the Pharisees and teachers of the law were sitting there. People had come from Jerusalem and from every village of Galilee and Judea, and the power of the Lord was present for Him to heal the sick.
-<small><sub>**Literal:**</sub></small>
-And it came to pass on one of the days that He himself was teaching; and there were sitting by Pharisees and teachers of the law who were already coming out of every village <the> of Galilee and of Judea and of Jerusalem, And [the] power of [the] Lord was with <the> to heal Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.16|<< Luke 5:16]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.18|Luke 5:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G1520\|μιᾷ]]  [[G3588\|τῶν]]  [[G2250\|ἡμερῶν]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1510\|ἦν]]  [[G1321\|διδάσκων·]]  [[G2532\|καὶ]]  [[G1510\|ἦσαν]]  [[G2521\|καθήμενοι]]  [[G5330\|Φαρισαῖοι]]  [[G2532\|καὶ]]  [[G3547\|νομοδιδάσκαλοι]]  [[G3739\|οἳ]]  [[G1510\|ἦσαν]]  [[G2064\|ἐληλυθότες]]  [[G1537\|ἐκ]]  [[G3956\|πάσης]]  [[G2968\|κώμης]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας]]  [[G2532\|καὶ]]  [[G2449\|Ἰουδαίας]]  [[G2532\|καὶ]]  [[G2419\|Ἰερουσαλήμ,]]  [[G2532\|καὶ]]  [[G1411\|δύναμις]]  [[G2962G\|κυρίου]]  [[G1510\|ἦν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2390\|ἰᾶσθαι]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOCTOR|DOCTOR]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDEA|JUDEA]] • [[topic MIRACLES|MIRACLES]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.16|<< Luke 5:16]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.18|Luke 5:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

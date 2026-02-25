@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 10:3
+type: Verse
+kjv: "And I made an ark of shittim wood, and hewed two tables of stone like unto the first, and went up into the mount, having the two tables in mine hand."
+bsb: "So I made an ark of acacia wood, chiseled out two stone tablets like the originals, and went up the mountain with the two tablets in my hands."
+hebrew: "וָאַ֤עַשׂ אֲרוֹן֙ עֲצֵ֣י שִׁטִּ֔ים וָאֶפְסֹ֛ל שְׁנֵי־ לֻחֹ֥ת אֲבָנִ֖ים כָּרִאשֹׁנִ֑ים וָאַ֣עַל הָהָ֔רָה וּשְׁנֵ֥י הַלֻּחֹ֖ת בְּיָדִֽי׃"
+pericope: "[[Deut.10.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic LAW|LAW]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0727]]"
+- "[[H6086G]]"
+- "[[H7848]]"
+- "[[H6458]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H3871]]"
+- "[[H0068G]]"
+- "[[H9004]]"
+- "[[H7223G]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H2022G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:3**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I made an ark [of] shittim wood, and hewed two tables of stone like unto the first, and went up into the mount, having the two tables in mine hand.
 <small><sub>**BSB:**</sub></small>
 So I made an ark of acacia wood, chiseled out two stone tablets like the originals, and went up the mountain with the two tablets in my hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6213H\|אַ֤עַשׂ]] [[H0727\|אֲרוֹן֙]] [[H6086G\|עֲצֵ֣י]] [[H7848\|שִׁטִּ֔ים]] [[H9001\|וָ]][[H6458\|אֶפְסֹ֛ל]] [[H8147\|שְׁנֵי]][[H9014\|־]] [[H3871\|לֻחֹ֥ת]] [[H0068G\|אֲבָנִ֖ים]] [[H9004\|כָּ]][[H7223G\|רִאשֹׁנִ֑ים]] [[H9001\|וָ]][[H5927G\|אַ֣עַל]] [[H9009\|הָ]][[H2022G\|הָ֔רָ]][[H9011\|ה]] [[H9002\|וּ]][[H8147\|שְׁנֵ֥י]] [[H9009\|הַ]][[H3871\|לֻּחֹ֖ת]] [[H9003\|בְּ]][[H3027G\|יָדִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic LAW|LAW]] • [[topic STONES|STONES]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.2|<< Deuteronomy 10:2]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.4|Deuteronomy 10:4 >>]]</td></tr></table>
 

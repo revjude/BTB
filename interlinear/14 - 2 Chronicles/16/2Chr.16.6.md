@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 16:6
+type: Verse
+kjv: "Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah."
+bsb: "Then King Asa brought all the men of Judah, and they carried away the stones of Ramah and the timbers Baasha had used for building. And with these materials he built up Geba and Mizpah."
+hebrew: "וְאָסָ֣א הַמֶּ֗לֶךְ לָקַח֙ אֶת־ כָּל־ יְהוּדָ֔ה וַיִּשְׂא֞וּ אֶת־ אַבְנֵ֤י הָֽרָמָה֙ וְאֶת־ עֵצֶ֔יהָ אֲשֶׁ֥ר בָּנָ֖ה בַּעְשָׁ֑א וַיִּ֣בֶן בָּהֶ֔ם אֶת־ גֶּ֖בַע וְאֶת־ הַמִּצְפָּֽה׃ ס"
+pericope: "[[2Chr.16.1 War between Asa and Baasha|War between Asa and Baasha]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 16
+book/chapter: "[[2Chr.16|2 Chronicles 16]]"
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BAASHA|BAASHA]]"
+- "[[topic GEBA|GEBA]]"
+- "[[topic MIZPAH|MIZPAH]]"
+- "[[topic RAMAH|RAMAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0609G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3063G]]"
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H0068G]]"
+- "[[H7414G]]"
+- "[[H6086G]]"
+- "[[H9024]]"
+- "[[H0834A]]"
+- "[[H1129]]"
+- "[[H1201]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H1387G]]"
+- "[[H4709G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 16:6**<big><big>[[2Chr.16.1 War between Asa and Baasha|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah.
 <small><sub>**BSB:**</sub></small>
 Then King Asa brought all the men of Judah, and they carried away the stones of Ramah and the timbers Baasha had used for building. And with these materials he built up Geba and Mizpah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0609G\|אָסָ֣א]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H3947G\|לָקַח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ]][[H5375H\|יִּשְׂא֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0068G\|אַבְנֵ֤י]] [[H9009\|הָֽ]][[H7414G\|רָמָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6086G\|עֵצֶ֔י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H1129\|בָּנָ֖ה]] [[H1201\|בַּעְשָׁ֑א]] [[H9001\|וַ]][[H1129\|יִּ֣בֶן]] [[H9003\|בָּ]][[H9038\|הֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1387G\|גֶּ֖בַע]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4709G\|מִּצְפָּֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BAASHA|BAASHA]] • [[topic GEBA|GEBA]] • [[topic MIZPAH|MIZPAH]] • [[topic RAMAH|RAMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.5|<< 2 Chronicles 16:5]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.7|2 Chronicles 16:7 >>]]</td></tr></table>
 
@@ -28,7 +88,7 @@ Then King Asa brought all the men of Judah, and they carried away the stones of 
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Geba  |**<big>&#8207;[[H1387G\|גֶּ֖בַע]]&#8207; </big>**| Ge.va'<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and \<obj.>  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> Mizpah  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4709G\|מִּצְפָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Pah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> Mizpah  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4709G\|מִּצְפָּֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mitz.Pah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.5|<< 2 Chronicles 16:5]]</td><td align="center" style="border:none;">[[2Chr.16|2 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.16.7|2 Chronicles 16:7 >>]]</td></tr></table>
 
 

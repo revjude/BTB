@@ -1,8 +1,60 @@
+---
+title: Psalm 18:35
+type: Verse
+kjv: "Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great."
+bsb: "You have given me Your shield of salvation; Your right hand upholds me, and Your gentleness exalts me."
+hebrew: "וַתִּתֶּן־ לִי֮ מָגֵ֪ן יִ֫שְׁעֶ֥ךָ וִֽימִינְךָ֥ תִסְעָדֵ֑נִי וְֽעַנְוַתְךָ֥ תַרְבֵּֽנִי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GENTLENESS|GENTLENESS]]"
+- "[[topic SHIELD|SHIELD]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4043]]"
+- "[[H3468]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3225G]]"
+- "[[H5582]]"
+- "[[H6037]]"
+- "[[H7235A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:35**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast also given me the shield of thy salvation: and thy right hand hath holden me up, and thy gentleness hath made me great.
 <small><sub>**BSB:**</sub></small>
 You have given me Your shield of salvation; Your right hand upholds me, and Your gentleness exalts me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5414G\|תִּתֶּן]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֮]] [[H4043\|מָגֵ֪ן]] [[H3468\|יִ֫שְׁעֶ֥]][[H9021\|ךָ]] [[H9002\|וִֽ]][[H3225G\|ימִינְ]][[H9021\|ךָ֥]] [[H5582\|תִסְעָדֵ֑]][[H9030\|נִי]] [[H9002\|וְֽ]][[H6037\|עַנְוַתְ]][[H9021\|ךָ֥]] [[H7235A\|תַרְבֵּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GENTLENESS|GENTLENESS]] • [[topic SHIELD|SHIELD]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.34|<< Psalms 18:34]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.36|Psalms 18:36 >>]]</td></tr></table>
 

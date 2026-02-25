@@ -1,8 +1,60 @@
+---
+title: 2 Kings 17:19
+type: Verse
+kjv: "Also Judah kept not the commandments of the LORD their God, but walked in the statutes of Israel which they made."
+bsb: "and even Judah did not keep the commandments of the LORD their God, but lived according to the customs Israel had introduced."
+hebrew: "גַּם־ יְהוּדָ֕ה לֹ֣א שָׁמַ֔ר אֶת־ מִצְוֹ֖ת יְהוָ֣ה אֱלֹהֵיהֶ֑ם וַיֵּ֣לְכ֔וּ בְּחֻקּ֥וֹת יִשְׂרָאֵ֖ל אֲשֶׁ֥ר עָשֽׂוּ׃"
+pericope: "[[2Kgs.17.5 Israel Carried Captive to Assyria|Israel Carried Captive to Assyria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H2708]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:19**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also Judah kept not the commandments of the LORD their God, but walked in the statutes of Israel which they made.
 <small><sub>**BSB:**</sub></small>
 and even Judah did not keep the commandments of the LORD their God, but lived according to the customs Israel had introduced.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H3063G\|יְהוּדָ֕ה]] [[H3808\|לֹ֣א]] [[H8104G\|שָׁמַ֔ר]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹ֖ת]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H1980I\|יֵּ֣לְכ֔וּ]] [[H9003\|בְּ]][[H2708\|חֻקּ֥וֹת]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עָשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.18|<< 2 Kings 17:18]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.20|2 Kings 17:20 >>]]</td></tr></table>
 

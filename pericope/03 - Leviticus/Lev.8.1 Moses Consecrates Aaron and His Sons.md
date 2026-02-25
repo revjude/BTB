@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Consecrates Aaron and His Sons
+type: Pericope
 pericope: "[[Lev.8.1 Moses Consecrates Aaron and His Sons|Moses Consecrates Aaron and His Sons]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 8
 book/chapter: "[[Lev.8|Leviticus 8]]"
-genre:
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 13
 verses:
 - "[[Lev.8.1]]"
 - "[[Lev.8.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Lev.8.13]]"
 ---
 
-[[Lev.8|Leviticus 8:1 - Leviticus 8:13]]
+<small>[[Lev.8|Leviticus 8:1-13]]</small>
 *Moses Consecrates Aaron and His Sons*
 
 [[Lev.8.1|1]] And the LORD spake unto Moses, saying,

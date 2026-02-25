@@ -1,10 +1,63 @@
+---
+title: 2 Peter 2:15
+type: Verse
+kjv: "Which have forsaken the right way, and are gone astray, following the way of Balaam the son of Bosor, who loved the wages of unrighteousness;"
+bsb: "They have left the straight way and wandered off to follow the way of Balaam son of Beor, who loved the wages of wickedness."
+greek: "καταλείποντες τὴν εὐθεῖαν ὁδὸν ἐπλανήθησαν, ἐξακολουθήσαντες τῇ ὁδῷ τοῦ Βαλαὰμ τοῦ Βοσόρ, ὃς μισθὸν ἀδικίας ἠγάπησεν,"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic ANARCHY|ANARCHY]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic BEOR|BEOR]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2641]]"
+- "[[G3588]]"
+- "[[G2117]]"
+- "[[G3598]]"
+- "[[G4105]]"
+- "[[G1811]]"
+- "[[G0903]]"
+- "[[G1007]]"
+- "[[G3739]]"
+- "[[G3408]]"
+- "[[G0093]]"
+- "[[G0025]]"
+texts:
+- N(k)O
+- k
+- NKO
+---
+
 **2 Peter 2:15**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which have forsaken the right way, and are gone astray, following the way of Balaam [the son] of Bosor, who loved the wages of unrighteousness;
 <small><sub>**BSB:**</sub></small>
 They have left the straight way and wandered off to follow the way of Balaam son of Beor, who loved the wages of wickedness.
-<small><sub>**Literal:**</sub></small>
-leaving the straight way they have gone astray, having followed in the way <the> of Balaam <the> [son] of Bosor, who [the] wage of unrighteousness loved,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.14|<< 2 Peter 2:14]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.16|2 Peter 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2641\|καταλείποντες]]  [[G3588\|τὴν]]  [[G2117\|εὐθεῖαν]]  [[G3598\|ὁδὸν]]  [[G4105\|ἐπλανήθησαν,]]  [[G1811\|ἐξακολουθήσαντες]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ]]  [[G3588\|τοῦ]]  [[G0903\|Βαλαὰμ]]  [[G3588\|τοῦ]]  [[G1007\|Βοσόρ,]]  [[G3739\|ὃς]]  [[G3408\|μισθὸν]]  [[G0093\|ἀδικίας]]  [[G0025\|ἠγάπησεν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANARCHY|ANARCHY]] • [[topic APOSTASY|APOSTASY]] • [[topic BALAAM|BALAAM]] • [[topic BEOR|BEOR]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DOCTRINES|DOCTRINES]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.14|<< 2 Peter 2:14]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.16|2 Peter 2:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Peter 2:15** is...
 > $\quad$ alluding to: [[LXX.Num.22.28|Num 22:28]]

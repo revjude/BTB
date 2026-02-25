@@ -1,8 +1,59 @@
+---
+title: Ezekiel 23:31
+type: Verse
+kjv: "Thou hast walked in the way of thy sister; therefore will I give her cup into thine hand."
+bsb: "Because you have followed the path of your sister, I will put her cup into your hand.’"
+hebrew: "בְּדֶ֥רֶךְ אֲחוֹתֵ֖ךְ הָלָ֑כְתְּ וְנָתַתִּ֥י כוֹסָ֖הּ בְּיָדֵֽךְ׃ ס"
+pericope: "[[Ezek.23.22 Oholibah to Be Plagued|Oholibah to Be Plagued]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H0269]]"
+- "[[H9022]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H3563A]]"
+- "[[H9024]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 23:31**<big><big>[[Ezek.23.22 Oholibah to Be Plagued|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast walked in the way of thy sister; therefore will I give her cup into thine hand.
 <small><sub>**BSB:**</sub></small>
 Because you have followed the path of your sister, I will put her cup into your hand.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H1870G\|דֶ֥רֶךְ]] [[H0269\|אֲחוֹתֵ֖]][[H9022\|ךְ]] [[H1980G\|הָלָ֑כְתְּ]] [[H9001\|וְ]][[H5414G\|נָתַתִּ֥י]] [[H3563A\|כוֹסָ֖]][[H9024\|הּ]] [[H9003\|בְּ]][[H3027G\|יָדֵֽ]][[H9022\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.30|<< Ezekiel 23:30]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.32|Ezekiel 23:32 >>]]</td></tr></table>
 
@@ -13,7 +64,7 @@ Because you have followed the path of your sister, I will put her cup into your 
 | you have walked  |**<big>&#8207;[[H1980G\|הָלָ֑כְתְּ]]&#8207; </big>**| ha.La.khet<small><sup>[[HVqp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will put  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5414G\|נָתַתִּ֥י]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.ta.Ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cup her  |**<big>&#8207;[[H3563A\|כוֹסָ֖]]&#8207;&#8207;[[H9024\|הּ]]&#8207; </big>**| kho.Sa<small><sup>[[HNcfsc]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in hand your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יָדֵֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.De<small><sup>[[HNcbsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in hand your  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H3027G\|יָדֵֽ]]&#8207;&#8207;[[H9022\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> ya.De<small><sup>[[HNcbsc]]</sup></small> kh<small><sup>[[HSp2fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.30|<< Ezekiel 23:30]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.32|Ezekiel 23:32 >>]]</td></tr></table>
 
 

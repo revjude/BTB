@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Wife for Isaac
+type: Pericope
 pericope: "[[Gen.24.1 A Wife for Isaac|A Wife for Isaac]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 24
 book/chapter: "[[Gen.24|Genesis 24]]"
-genre:
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 14
 verses:
 - "[[Gen.24.1]]"
 - "[[Gen.24.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Gen.24.14]]"
 ---
 
-[[Gen.24|Genesis 24:1 - Genesis 24:14]]
+<small>[[Gen.24|Genesis 24:1-14]]</small>
 *A Wife for Isaac*
 
 [[Gen.24.1|1]] And Abraham was old, \[and\] well stricken in age: and the LORD had blessed Abraham in all things.

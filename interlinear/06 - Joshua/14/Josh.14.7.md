@@ -1,8 +1,71 @@
+---
+title: Joshua 14:7
+type: Verse
+kjv: "Forty years old was I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as it was in mine heart."
+bsb: "I was forty years old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought back to him an honest report."
+hebrew: "בֶּן־ אַרְבָּעִ֨ים שָׁנָ֜ה אָנֹכִ֗י בִּ֠שְׁלֹחַ מֹשֶׁ֨ה עֶֽבֶד־ יְהוָ֥ה אֹתִ֛י מִקָּדֵ֥שׁ בַּרְנֵ֖עַ לְרַגֵּ֣ל אֶת־ הָאָ֑רֶץ וָאָשֵׁ֤ב אֹתוֹ֙ דָּבָ֔ר כַּאֲשֶׁ֖ר עִם־ לְבָבִֽי׃"
+pericope: "[[Josh.14.6 Caleb Requests Hebron|Caleb Requests Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H0705]]"
+- "[[H8141]]"
+- "[[H0595]]"
+- "[[H9003]]"
+- "[[H7971G]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H6947]]"
+- "[[H9005]]"
+- "[[H7270]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H1697G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5973A]]"
+- "[[H3824]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 14:7**<big><big>[[Josh.14.6 Caleb Requests Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Forty years old [was] I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as [it was] in mine heart.
 <small><sub>**BSB:**</sub></small>
 I was forty years old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought back to him an honest report.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H0705\|אַרְבָּעִ֨ים]] [[H8141\|שָׁנָ֜ה]] [[H0595\|אָנֹכִ֗י]] [[H9003\|בִּ֠]][[H7971G\|שְׁלֹחַ]] [[H4872\|מֹשֶׁ֨ה]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0853\|אֹתִ֛]][[H9030\|י]] [[H9006\|מִ]][[H6947\|קָּדֵ֥שׁ]] [[H6947\|בַּרְנֵ֖עַ]] [[H9005\|לְ]][[H7270\|רַגֵּ֣ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וָ]][[H7725G\|אָשֵׁ֤ב]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H1697G\|דָּבָ֔ר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H5973A\|עִם]][[H9014\|־]] [[H3824\|לְבָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic HEBRON|HEBRON]] • [[topic ISRAEL|ISRAEL]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.6|<< Joshua 14:6]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.8|Joshua 14:8 >>]]</td></tr></table>
 

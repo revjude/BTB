@@ -1,8 +1,66 @@
+---
+title: Esther 1:8
+type: Verse
+kjv: "And the drinking was according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man’s pleasure."
+bsb: "By order of the king, no limit was placed on the drinking, and every official of his household was to serve each man whatever he desired."
+hebrew: "וְהַשְּׁתִיָּ֥ה כַדָּ֖ת אֵ֣ין אֹנֵ֑ס כִּי־ כֵ֣ן׀ יִסַּ֣ד הַמֶּ֗לֶךְ עַ֚ל כָּל־ רַ֣ב בֵּית֔וֹ לַעֲשׂ֖וֹת כִּרְצ֥וֹן אִישׁ־ וָאִֽישׁ׃"
+pericope: "[[Esth.1.1 Xerxes’ Royal Feast|Xerxes’ Royal Feast]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8360]]"
+- "[[H9004]]"
+- "[[H1881]]"
+- "[[H0369]]"
+- "[[H0597]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H3245]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H7227B]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H7522]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 1:8**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the drinking [was] according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man’s pleasure.
 <small><sub>**BSB:**</sub></small>
 By order of the king, no limit was placed on the drinking, and every official of his household was to serve each man whatever he desired.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H8360\|שְּׁתִיָּ֥ה]] [[H9004\|כַ]][[H1881\|דָּ֖ת]] [[H0369\|אֵ֣ין]] [[H0597\|אֹנֵ֑ס]] [[H3588A\|כִּי]][[H9014\|־]] [[H3651C\|כֵ֣ן]][[H9015\|׀]] [[H3245\|יִסַּ֣ד]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H5921A\|עַ֚ל]] [[H3605\|כָּל]][[H9014\|־]] [[H7227B\|רַ֣ב]] [[H1004B\|בֵּית֔]][[H9023\|וֹ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֖וֹת]] [[H9004\|כִּ]][[H7522\|רְצ֥וֹן]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H9002\|וָ]][[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic FEASTS|FEASTS]] • [[topic TEMPERANCE|TEMPERANCE]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.7|<< Esther 1:7]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.9|Esther 1:9 >>]]</td></tr></table>
 

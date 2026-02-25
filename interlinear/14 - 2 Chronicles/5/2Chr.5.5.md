@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 5:5
+type: Verse
+kjv: "And they brought up the ark, and the tabernacle of the congregation, and all the holy vessels that were in the tabernacle, these did the priests and the Levites bring up."
+bsb: "and they brought up the ark and the Tent of Meeting with all its sacred furnishings. The Levitical priests carried them up."
+hebrew: "וַיַּעֲל֤וּ אֶת־ הָאָרוֹן֙ וְאֶת־ אֹ֣הֶל מוֹעֵ֔ד וְאֶת־ כָּל־ כְּלֵ֥י הַקֹּ֖דֶשׁ אֲשֶׁ֣ר בָּאֹ֑הֶל הֶעֱל֣וּ אֹתָ֔ם הַכֹּהֲנִ֖ים הַלְוִיִּֽם׃"
+pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0727]]"
+- "[[H9002]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H6944G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 5:5**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brought up the ark, and the tabernacle of the congregation, and all the holy vessels that [were] in the tabernacle, these did the priests [and] the Levites bring up.
 <small><sub>**BSB:**</sub></small>
 and they brought up the ark and the Tent of Meeting with all its sacred furnishings. The Levitical priests carried them up.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927H\|יַּעֲל֤וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0727\|אָרוֹן֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כְּלֵ֥י]] [[H9009\|הַ]][[H6944G\|קֹּ֖דֶשׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בָּ]][[H0168G\|אֹ֑הֶל]] [[H5927H\|הֶעֱל֣וּ]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9009\|הַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.4|<< 2 Chronicles 5:4]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.6|2 Chronicles 5:6 >>]]</td></tr></table>
 

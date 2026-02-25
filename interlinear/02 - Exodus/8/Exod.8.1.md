@@ -1,8 +1,63 @@
+---
+title: Exodus 8:1
+type: Verse
+kjv: "And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
+bsb: "Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה בֹּ֖א אֶל־ פַּרְעֹ֑ה וְאָמַרְתָּ֣ אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה שַׁלַּ֥ח אֶת־ עַמִּ֖י וְיַֽעַבְדֻֽנִי׃"
+pericope: "[[Exod.8.1 The Second Plague：Frogs|The Second Plague：Frogs]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H0935G]]"
+- "[[H6547J]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5647H]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:1**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H0935G\|בֹּ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H6547J\|פַּרְעֹ֑ה]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H7971H\|שַׁלַּ֥ח]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9002\|וְ]][[H5647H\|יַֽעַבְדֻֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.7.25|<< Exodus 7:25]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.2|Exodus 8:2 >>]]</td></tr></table>
 

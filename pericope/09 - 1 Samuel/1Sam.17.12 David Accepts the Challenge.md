@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Accepts the Challenge
+type: Pericope
 pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 17
 book/chapter: "[[1Sam.17|1 Samuel 17]]"
-genre:
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 26
 verses:
 - "[[1Sam.17.12]]"
 - "[[1Sam.17.13]]"
@@ -44,7 +51,7 @@ verses:
 - "[[1Sam.17.37]]"
 ---
 
-[[1Sam.17|1 Samuel 17:12 - 1 Samuel 17:37]]
+<small>[[1Sam.17|1 Samuel 17:12-37]]</small>
 *David Accepts the Challenge*
 
 [[1Sam.17.12|12]] Now David \[was\] the son of that Ephrathite of Bethlehemjudah, whose name \[was\] Jesse; and he had eight sons: and the man went among men \[for\] an old man in the days of Saul.

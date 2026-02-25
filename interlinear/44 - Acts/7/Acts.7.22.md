@@ -1,10 +1,59 @@
+---
+title: Acts 7:22
+type: Verse
+kjv: "And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds."
+bsb: "So Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action."
+greek: "καὶ ἐπαιδεύθη Μωϋσῆς ἐν πάσῃ σοφίᾳ Αἰγυπτίων· ἦν δὲ δυνατὸς ἐν λόγοις καὶ ἐν ἔργοις αὐτοῦ."
+pericope: "[[Acts.7.20 The Birth and Adoption of Moses|The Birth and Adoption of Moses]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G2532]]"
+- "[[G3811]]"
+- "[[G3475]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G4678]]"
+- "[[G0124]]"
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1415]]"
+- "[[G3056]]"
+- "[[G2041]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- k
+---
+
 **Acts 7:22**<big><big>[[Acts.7.20 The Birth and Adoption of Moses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Moses was learned in all the wisdom of the Egyptians, and was mighty in words and in deeds.
 <small><sub>**BSB:**</sub></small>
 So Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.
-<small><sub>**Literal:**</sub></small>
-And was instructed Moses in all [the] wisdom of [the] Egyptians; he was now mighty in words and in deeds of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.21|<< Acts 7:21]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.23|Acts 7:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3811\|ἐπαιδεύθη]]  [[G3475\|Μωϋσῆς]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G4678\|σοφίᾳ]]  [[G0124\|Αἰγυπτίων·]]  [[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G1415\|δυνατὸς]]  [[G1722\|ἐν]]  [[G3056\|λόγοις]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G2041\|ἔργοις]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic EGYPT|EGYPT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MOSES|MOSES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.21|<< Acts 7:21]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.23|Acts 7:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

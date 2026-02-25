@@ -1,8 +1,67 @@
+---
+title: Exodus 5:19
+type: Verse
+kjv: "And the officers of the children of Israel did see that they were in evil case, after it was said, Ye shall not minish ought from your bricks of your daily task."
+bsb: "The Israelite foremen realized they were in trouble when they were told, “You must not reduce your daily quota of bricks.”"
+hebrew: "וַיִּרְא֞וּ שֹֽׁטְרֵ֧י בְנֵֽי־ יִשְׂרָאֵ֛ל אֹתָ֖ם בְּרָ֣ע לֵאמֹ֑ר לֹא־ תִגְרְע֥וּ מִלִּבְנֵיכֶ֖ם דְּבַר־ י֥וֹם בְּיוֹמֽוֹ׃"
+pericope: "[[Exod.5.15 The Cry of the Israelites|The Cry of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BRICK|BRICK]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H7860]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H7451B]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H1639]]"
+- "[[H9006]]"
+- "[[H3843]]"
+- "[[H9026]]"
+- "[[H1697I]]"
+- "[[H3117J]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:19**<big><big>[[Exod.5.15 The Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the officers of the children of Israel did see [that] they [were] in evil [case], after it was said, Ye shall not minish [ought] from your bricks of your daily task.
 <small><sub>**BSB:**</sub></small>
 The Israelite foremen realized they were in trouble when they were told, “You must not reduce your daily quota of bricks.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יִּרְא֞וּ]] [[H7860\|שֹֽׁטְרֵ֧י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H7451B\|רָ֣ע]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3808\|לֹא]][[H9014\|־]] [[H1639\|תִגְרְע֥וּ]] [[H9006\|מִ]][[H3843\|לִּבְנֵי]][[H9026\|כֶ֖ם]] [[H1697I\|דְּבַר]][[H9014\|־]] [[H3117J\|י֥וֹם]] [[H9003\|בְּ]][[H3117G\|יוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRICK|BRICK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.18|<< Exodus 5:18]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.20|Exodus 5:20 >>]]</td></tr></table>
 

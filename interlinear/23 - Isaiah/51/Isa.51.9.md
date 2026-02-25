@@ -1,8 +1,68 @@
+---
+title: Isaiah 51:9
+type: Verse
+kjv: "Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. Art thou not it that hath cut Rahab, and wounded the dragon?"
+bsb: "Awake, awake, put on strength, O arm of the LORD. Wake up as in days past, as in generations of old. Was it not You who cut Rahab to pieces, who pierced through the dragon?"
+hebrew: "עוּרִ֨י עוּרִ֤י לִבְשִׁי־ עֹז֙ זְר֣וֹעַ יְהוָ֔ה ע֚וּרִי כִּ֣ימֵי קֶ֔דֶם דֹּר֖וֹת עוֹלָמִ֑ים הֲל֥וֹא אַתְּ־ הִ֛יא הַמַּחְצֶ֥בֶת רַ֖הַב מְחוֹלֶ֥לֶת תַּנִּֽין׃"
+pericope: "[[Isa.51.1 Salvation for Zion|Salvation for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 51
+book/chapter: "[[Isa.51|Isaiah 51]]"
+chronological_order: 690
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARM|ARM]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DRAGON|DRAGON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RAHAB|RAHAB]]"
+strongs:
+- "[[H5782]]"
+- "[[H3847]]"
+- "[[H9014]]"
+- "[[H5797]]"
+- "[[H2220]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H6924H]]"
+- "[[H1755]]"
+- "[[H5769J]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0859C]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H2672]]"
+- "[[H7294]]"
+- "[[H2490A]]"
+- "[[H8577N]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 51:9**<big><big>[[Isa.51.1 Salvation for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Awake, awake, put on strength, O arm of the LORD; awake, as in the ancient days, in the generations of old. [Art] thou not it that hath cut Rahab, [and] wounded the dragon?
 <small><sub>**BSB:**</sub></small>
 Awake, awake, put on strength, O arm of the LORD. Wake up as in days past, as in generations of old. Was it not You who cut Rahab to pieces, who pierced through the dragon?
+<small><sub>**Hebrew:**</sub></small>
+[[H5782\|עוּרִ֨י]] [[H5782\|עוּרִ֤י]] [[H3847\|לִבְשִׁי]][[H9014\|־]] [[H5797\|עֹז֙]] [[H2220\|זְר֣וֹעַ]] [[H3068G\|יְהוָ֔ה]] [[H5782\|ע֚וּרִי]] [[H9004\|כִּ֣]][[H3117G\|ימֵי]] [[H6924H\|קֶ֔דֶם]] [[H1755\|דֹּר֖וֹת]] [[H5769J\|עוֹלָמִ֑ים]] [[H9008\|הֲ]][[H3808\|ל֥וֹא]] [[H0859C\|אַתְּ]][[H9014\|־]] [[H1931\|הִ֛יא]] [[H9009\|הַ]][[H2672\|מַּחְצֶ֥בֶת]] [[H7294\|רַ֖הַב]] [[H2490A\|מְחוֹלֶ֥לֶת]] [[H8577N\|תַּנִּֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARM|ARM]] • [[topic CHURCH|CHURCH]] • [[topic DRAGON|DRAGON]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RAHAB|RAHAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.51.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.51.8|<< Isaiah 51:8]]</td><td align="center" style="border:none;">[[Isa.51|Isaiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.51.10|Isaiah 51:10 >>]]</td></tr></table>
 

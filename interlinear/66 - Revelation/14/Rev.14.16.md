@@ -1,10 +1,53 @@
+---
+title: Revelation 14:16
+type: Verse
+kjv: "And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped."
+bsb: "So the One seated on the cloud swung His sickle over the earth, and the earth was harvested."
+greek: "καὶ ἔβαλεν ὁ καθήμενος ἐπὶ τῆς νεφέλης τὸ δρέπανον αὐτοῦ ἐπὶ τὴν γῆν, καὶ ἐθερίσθη ἡ γῆ.¶"
+pericope: "[[Rev.14.14 The Harvest of the Earth|The Harvest of the Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic SICKLE|SICKLE]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0906G]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G3507]]"
+- "[[G1407]]"
+- "[[G0846]]"
+- "[[G1093G]]"
+- "[[G2325]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 14:16**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that sat on the cloud thrust in his sickle on the earth; and the earth was reaped.
 <small><sub>**BSB:**</sub></small>
 So the One seated on the cloud swung His sickle over the earth, and the earth was harvested.
-<small><sub>**Literal:**</sub></small>
-And swung the [One] sitting upon the cloud the sickle of Him upon the earth, and was harvested the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.15|<< Revelation 14:15]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.17|Revelation 14:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0906G\|ἔβαλεν]]  [[G3588\|ὁ]]  [[G2521\|καθήμενος]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G3507\|νεφέλης]]  [[G3588\|τὸ]]  [[G1407\|δρέπανον]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1093G\|γῆν,]]  [[G2532\|καὶ]]  [[G2325\|ἐθερίσθη]]  [[G3588\|ἡ]]  [[G1093G\|γῆ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SICKLE|SICKLE]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.15|<< Revelation 14:15]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.17|Revelation 14:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

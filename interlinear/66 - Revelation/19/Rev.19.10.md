@@ -1,10 +1,68 @@
+---
+title: Revelation 19:10
+type: Verse
+kjv: "And I fell at his feet to worship him. And he said unto me, See thou do it not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy."
+bsb: "So I fell at his feet to worship him. But he told me, “Do not do that! I am a fellow servant with you and your brothers who rely on the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy.”"
+greek: "καὶ ἔπεσα ἔμπροσθεν τῶν ποδῶν αὐτοῦ προσκυνῆσαι αὐτῷ, καὶ λέγει μοι· ὅρα μή, σύνδουλός σού εἰμι καὶ τῶν ἀδελφῶν σου τῶν ἐχόντων ἐχόντων τὴν μαρτυρίαν τοῦ Ἰησοῦ· τῷ θεῷ προσκύνησον. ἡ γὰρ μαρτυρία τοῦ Ἰησοῦ ἐστιν τὸ πνεῦμα τῆς προφητείας.¶"
+pericope: "[[Rev.19.6 The Marriage of the Lamb|The Marriage of the Lamb]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G4098]]"
+- "[[G1715]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G0846]]"
+- "[[G4352]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G3708]]"
+- "[[G3361]]"
+- "[[G4889]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G0080]]"
+- "[[G2192]]"
+- "[[G3141]]"
+- "[[G2424G]]"
+- "[[G2316]]"
+- "[[G1063]]"
+- "[[G4151G]]"
+- "[[G4394]]"
+texts:
+- NKO
+- k
+---
+
 **Revelation 19:10**<big><big>[[Rev.19.6 The Marriage of the Lamb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I fell at his feet to worship him. And he said unto me, See [thou do it] not: I am thy fellowservant, and of thy brethren that have the testimony of Jesus: worship God: for the testimony of Jesus is the spirit of prophecy.
 <small><sub>**BSB:**</sub></small>
 So I fell at his feet to worship him. But he told me, “Do not do that! I am a fellow servant with you and your brothers who rely on the testimony of Jesus. Worship God! For the testimony of Jesus is the spirit of prophecy.”
-<small><sub>**Literal:**</sub></small>
-And I fell before the feet of him to worship him, And he says to me; do see [that] you [do] not, A fellow servant with you I am and the brothers of you who are  holding the testimony <the> of Jesus; <the> God do worship. The for testimony <the> of Jesus is the spirit <the> of prophecy.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.9|<< Revelation 19:9]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.11|Revelation 19:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4098\|ἔπεσα]]  [[G1715\|ἔμπροσθεν]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G0846\|αὐτοῦ]]  [[G4352\|προσκυνῆσαι]]  [[G0846\|αὐτῷ,]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G3165\|μοι·]]  [[G3708\|ὅρα]]  [[G3361\|μή,]]  [[G4889\|σύνδουλός]]  [[G4771\|σού]]  [[G1510\|εἰμι]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0080\|ἀδελφῶν]]  [[G4771\|σου]]  [[G3588\|τῶν]]  [[G2192\|ἐχόντων]]  [[G2192\|ἐχόντων]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ·]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G4352\|προσκύνησον.]]  [[G3588\|ἡ]]  [[G1063\|γὰρ]]  [[G3141\|μαρτυρία]]  [[G3588\|τοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τῆς]]  [[G4394\|προφητείας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic HOMAGE|HOMAGE]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.9|<< Revelation 19:9]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.11|Revelation 19:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

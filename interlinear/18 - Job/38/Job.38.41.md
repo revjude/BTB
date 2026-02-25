@@ -1,8 +1,61 @@
+---
+title: Job 38:41
+type: Verse
+kjv: "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat."
+bsb: "Who provides food for the raven when its young cry out to God as they wander about for lack of food?"
+hebrew: "מִ֤י יָכִ֥ין לָעֹרֵ֗ב צֵ֫יד֥וֹ כִּֽי־ יְ֭לָדָיו אֶל־ אֵ֣ל יְשַׁוֵּ֑עוּ יִ֝תְע֗וּ לִבְלִי־ אֹֽכֶל׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4310]]"
+- "[[H3559A]]"
+- "[[H9005]]"
+- "[[H6158]]"
+- "[[H6718B]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3206]]"
+- "[[H0413]]"
+- "[[H0410G]]"
+- "[[H7768]]"
+- "[[H8582]]"
+- "[[H1097]]"
+- "[[H0400]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 38:41**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.
 <small><sub>**BSB:**</sub></small>
 Who provides food for the raven when its young cry out to God as they wander about for lack of food?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֤י]] [[H3559A\|יָכִ֥ין]] [[H9005\|לָ]][[H6158\|עֹרֵ֗ב]] [[H6718B\|צֵ֫יד֥]][[H9023\|וֹ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3206\|יְ֭לָדָי]][[H9023\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H0410G\|אֵ֣ל]] [[H7768\|יְשַׁוֵּ֑עוּ]] [[H8582\|יִ֝תְע֗וּ]] [[H9005\|לִ]][[H1097\|בְלִי]][[H9014\|־]] [[H0400\|אֹֽכֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BIRDS|BIRDS]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.40|<< Job 38:40]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.1|Job 39:1 >>]]</td></tr></table>
 
@@ -22,7 +75,7 @@ Who provides food for the raven when its young cry out to God as they wander abo
 | food  |**<big>&#8207;[[H0400\|אֹֽכֶל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'O.khel<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.40|<< Job 38:40]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.39.1|Job 39:1 >>]]</td></tr></table>
 
-[^1]: young one its  | **<big>[[H9023|וֹ]]</big><big>[[H3206|יְלָד]]</big> ** | ye.la.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: young one its  | **<big>[[H9023|וֹ]]</big><big>[[H3206|יְלָד]]</big> ** | ye.la.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: young one its  | **<big>[[H3206|יְלָד]]</big><big>[[H9023|וֹ]]</big> ** | ye.la.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: young one its  | **<big>[[H3206|יְלָד]]</big><big>[[H9023|וֹ]]</big> ** | ye.la.do<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>יְ֭לָדָו</big></span>**
 

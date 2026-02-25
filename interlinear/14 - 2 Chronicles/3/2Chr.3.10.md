@@ -1,8 +1,57 @@
+---
+title: 2 Chronicles 3:10
+type: Verse
+kjv: "And in the most holy house he made two cherubims of image work, and overlaid them with gold."
+bsb: "In the Most Holy Place he made two cherubim of sculptured work, and he overlaid them with gold."
+hebrew: "וַיַּ֜עַשׂ בְּבֵֽית־ קֹ֤דֶשׁ הַקֳּדָשִׁים֙ כְּרוּבִ֣ים שְׁנַ֔יִם מַעֲשֵׂ֖ה צַעֲצֻעִ֑ים וַיְצַפּ֥וּ אֹתָ֖ם זָהָֽב׃"
+pericope: "[[2Chr.3.10 The Cherubim|The Cherubim]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9014]]"
+- "[[H6944H]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H8147]]"
+- "[[H4639G]]"
+- "[[H6816]]"
+- "[[H6823]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H2091]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 3:10**<big><big>[[2Chr.3.10 The Cherubim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the most holy house he made two cherubims of image work, and overlaid them with gold.
 <small><sub>**BSB:**</sub></small>
 In the Most Holy Place he made two cherubim of sculptured work, and he overlaid them with gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֜עַשׂ]] [[H9003\|בְּ]][[H1004B\|בֵֽית]][[H9014\|־]] [[H6944H\|קֹ֤דֶשׁ]] [[H9009\|הַ]][[H6944H\|קֳּדָשִׁים֙]] [[H3742\|כְּרוּבִ֣ים]] [[H8147\|שְׁנַ֔יִם]] [[H4639G\|מַעֲשֵׂ֖ה]] [[H6816\|צַעֲצֻעִ֑ים]] [[H9001\|וַ]][[H6823\|יְצַפּ֥וּ]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.9|<< 2 Chronicles 3:9]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.11|2 Chronicles 3:11 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: 1 Peter 3:15
+type: Verse
+kjv: "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:"
+bsb: "But in your hearts sanctify Christ as Lord. Always be prepared to give a defense to everyone who asks you the reason for the hope that is in you. But respond with gentleness and respect,"
+greek: "κύριον δὲ τὸν Χριστὸν ἁγιάσατε ἐν ταῖς καρδίαις ὑμῶν.¶ Ἕτοιμοι δὲ ἀεὶ πρὸς ἀπολογίαν παντὶ τῷ αἰτοῦντι ὑμᾶς λόγον περὶ τῆς ἐν ὑμῖν ἐλπίδος,"
+pericope: "[[1Pet.3.14 Suffering for Righteousness|Suffering for Righteousness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[G2962G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G5547]]"
+- "[[G0037]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G2092]]"
+- "[[G0104]]"
+- "[[G4314]]"
+- "[[G0627]]"
+- "[[G3956]]"
+- "[[G0154]]"
+- "[[G3056]]"
+- "[[G4012]]"
+- "[[G1680]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **1 Peter 3:15**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But sanctify the Lord God in your hearts: and [be] ready always to [give] an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:
 <small><sub>**BSB:**</sub></small>
 But in your hearts sanctify Christ as Lord. Always be prepared to give a defense to everyone who asks you the reason for the hope that is in you. But respond with gentleness and respect,
-<small><sub>**Literal:**</sub></small>
-[As] Lord however <the> Christ do sanctify in the hearts of you. ready now always for a defense to everyone who is asking you an account concerning the in you hope,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.14|<< 1 Peter 3:14]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.16|1 Peter 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2962G\|κύριον]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G5547\|Χριστὸν]]  [[G0037\|ἁγιάσατε]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G4771\|ὑμῶν.¶]]  [[G2092\|Ἕτοιμοι]]  [[G1161\|δὲ]]  [[G0104\|ἀεὶ]]  [[G4314\|πρὸς]]  [[G0627\|ἀπολογίαν]]  [[G3956\|παντὶ]]  [[G3588\|τῷ]]  [[G0154\|αἰτοῦντι]]  [[G4771\|ὑμᾶς]]  [[G3056\|λόγον]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G1680\|ἐλπίδος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HEART|HEART]] • [[topic HOPE|HOPE]] • [[topic INFLUENCE|INFLUENCE]] • [[topic MEEKNESS|MEEKNESS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REASONING|REASONING]] • [[topic REVERENCE|REVERENCE]] • [[topic SPEAKING|SPEAKING]] • [[topic TESTIMONY|TESTIMONY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.14|<< 1 Peter 3:14]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.16|1 Peter 3:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 3:15** is...
 > $\quad$ referencing: [[LXX.Isa.8.13|Isa 8:13]]

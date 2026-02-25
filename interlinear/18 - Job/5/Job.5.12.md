@@ -1,8 +1,56 @@
+---
+title: Job 5:12
+type: Verse
+kjv: "He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise."
+bsb: "He thwarts the schemes of the crafty, so that their hands find no success."
+hebrew: "מֵ֭פֵר מַחְשְׁב֣וֹת עֲרוּמִ֑ים וְֽלֹא־ תַעֲשֶׂ֥ינָה יְ֝דֵיהֶ֗ם תּוּשִׁיָּֽה׃"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H6565A]]"
+- "[[H4284]]"
+- "[[H6175]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H8454]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 5:12**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He disappointeth the devices of the crafty, so that their hands cannot perform [their] enterprise.
 <small><sub>**BSB:**</sub></small>
 He thwarts the schemes of the crafty, so that their hands find no success.
+<small><sub>**Hebrew:**</sub></small>
+[[H6565A\|מֵ֭פֵר]] [[H4284\|מַחְשְׁב֣וֹת]] [[H6175\|עֲרוּמִ֑ים]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H6213A\|תַעֲשֶׂ֥ינָה]] [[H3027G\|יְ֝דֵי]][[H9028\|הֶ֗ם]] [[H8454\|תּוּשִׁיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.11|<< Job 5:11]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.5.13|Job 5:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

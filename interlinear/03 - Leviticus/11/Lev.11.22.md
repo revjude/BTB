@@ -1,8 +1,67 @@
+---
+title: Leviticus 11:22
+type: Verse
+kjv: "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind."
+bsb: "Of these you may eat any kind of locust, katydid, cricket, or grasshopper."
+hebrew: "אֶת־ אֵ֤לֶּה מֵהֶם֙ תֹּאכֵ֔לוּ אֶת־ הָֽאַרְבֶּ֣ה לְמִינ֔וֹ וְאֶת־ הַסָּלְעָ֖ם לְמִינֵ֑הוּ וְאֶת־ הַחַרְגֹּ֣ל לְמִינֵ֔הוּ וְאֶת־ הֶחָגָ֖ב לְמִינֵֽהוּ׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BEETLE|BEETLE]]"
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic INSECTS|INSECTS]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H0398]]"
+- "[[H9009]]"
+- "[[H0697]]"
+- "[[H9005]]"
+- "[[H4327]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5556]]"
+- "[[H2728]]"
+- "[[H2284]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:22**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Even] these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.
 <small><sub>**BSB:**</sub></small>
 Of these you may eat any kind of locust, katydid, cricket, or grasshopper.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵ֤לֶּה]] [[H9006\|מֵ]][[H9038\|הֶם֙]] [[H0398\|תֹּאכֵ֔לוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0697\|אַרְבֶּ֣ה]] [[H9005\|לְ]][[H4327\|מִינ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5556\|סָּלְעָ֖ם]] [[H9005\|לְ]][[H4327\|מִינֵ֑]][[H9023\|הוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2728\|חַרְגֹּ֣ל]] [[H9005\|לְ]][[H4327\|מִינֵ֔]][[H9023\|הוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הֶ]][[H2284\|חָגָ֖ב]] [[H9005\|לְ]][[H4327\|מִינֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BEETLE|BEETLE]] • [[topic CREEPING THINGS|CREEPING THINGS]] • [[topic FOOD|FOOD]] • [[topic INSECTS|INSECTS]] • [[topic LOCUST|LOCUST]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.21|<< Leviticus 11:21]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.23|Leviticus 11:23 >>]]</td></tr></table>
 

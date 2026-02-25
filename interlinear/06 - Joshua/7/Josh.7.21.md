@@ -1,8 +1,84 @@
+---
+title: Joshua 7:21
+type: Verse
+kjv: "When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it."
+bsb: "When I saw among the spoils a beautiful cloak from Shinar, two hundred shekels of silver, and a bar of gold weighing fifty shekels, I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath.”"
+hebrew: "וָאֵ֣רֶא בַשָּׁלָ֡ל אַדֶּ֣רֶת שִׁנְעָר֩ אַחַ֨ת טוֹבָ֜ה וּמָאתַ֧יִם שְׁקָלִ֣ים כֶּ֗סֶף וּלְשׁ֨וֹן זָהָ֤ב אֶחָד֙ חֲמִשִּׁ֤ים שְׁקָלִים֙ מִשְׁקָל֔וֹ וָֽאֶחְמְדֵ֖ם וָֽאֶקָּחֵ֑ם וְהִנָּ֨ם טְמוּנִ֥ים בָּאָ֛רֶץ בְּת֥וֹךְ הָאָֽהֳלִ֖י וְהַכֶּ֥סֶף תַּחְתֶּֽיהָ׃"
+pericope: "[[Josh.7.16 The Sin of Achan|The Sin of Achan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PLEADING|PLEADING]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H7998]]"
+- "[[H0155]]"
+- "[[H8152]]"
+- "[[H0259]]"
+- "[[H2896A]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H8255]]"
+- "[[H3701G]]"
+- "[[H3956I]]"
+- "[[H2091]]"
+- "[[H2572]]"
+- "[[H4948]]"
+- "[[H9023]]"
+- "[[H2530A]]"
+- "[[H9038]]"
+- "[[H3947G]]"
+- "[[H2009]]"
+- "[[H9048]]"
+- "[[H2934]]"
+- "[[H0776H]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H9020]]"
+- "[[H8478G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Joshua 7:21**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they [are] hid in the earth in the midst of my tent, and the silver under it.
 <small><sub>**BSB:**</sub></small>
 When I saw among the spoils a beautiful cloak from Shinar, two hundred shekels of silver, and a bar of gold weighing fifty shekels, I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7200G\|אֵ֣רֶא]] [[H9003\|בַ]][[H7998\|שָּׁלָ֡ל]] [[H0155\|אַדֶּ֣רֶת]] [[H8152\|שִׁנְעָר֩]] [[H0259\|אַחַ֨ת]] [[H2896A\|טוֹבָ֜ה]] [[H9002\|וּ]][[H3967\|מָאתַ֧יִם]] [[H8255\|שְׁקָלִ֣ים]] [[H3701G\|כֶּ֗סֶף]] [[H9002\|וּ]][[H3956I\|לְשׁ֨וֹן]] [[H2091\|זָהָ֤ב]] [[H0259\|אֶחָד֙]] [[H2572\|חֲמִשִּׁ֤ים]] [[H8255\|שְׁקָלִים֙]] [[H4948\|מִשְׁקָל֔]][[H9023\|וֹ]] [[H9001\|וָֽ]][[H2530A\|אֶחְמְדֵ֖]][[H9038\|ם]] [[H9001\|וָֽ]][[H3947G\|אֶקָּחֵ֑]][[H9038\|ם]] [[H9002\|וְ]][[H2009\|הִנָּ֨]][[H9048\|ם]] [[H2934\|טְמוּנִ֥ים]] [[H9003\|בָּ]][[H0776H\|אָ֛רֶץ]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H9009\|הָ]][[H0168G\|אָֽהֳלִ֖]][[H9020\|י]] [[H9002\|וְ]][[H9009\|הַ]][[H3701G\|כֶּ֥סֶף]] [[H8478G\|תַּחְתֶּֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic EVIDENCE|EVIDENCE]] • [[topic GOLD|GOLD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic PLEADING|PLEADING]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic SHEKEL|SHEKEL]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.20|<< Joshua 7:20]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.22|Joshua 7:22 >>]]</td></tr></table>
 

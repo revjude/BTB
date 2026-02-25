@@ -1,8 +1,65 @@
+---
+title: 1 Kings 14:26
+type: Verse
+kjv: "And he took away the treasures of the house of the LORD, and the treasures of the king’s house; he even took away all: and he took away all the shields of gold which Solomon had made."
+bsb: "He seized the treasures of the house of the LORD and of the royal palace. He took everything, including all the gold shields that Solomon had made."
+hebrew: "וַיִּקַּ֞ח אֶת־ אֹצְר֣וֹת בֵּית־ יְהוָ֗ה וְאֶת־ אֽוֹצְרוֹת֙ בֵּ֣ית הַמֶּ֔לֶךְ וְאֶת־ הַכֹּ֖ל לָקָ֑ח וַיִּקַּח֙ אֶת־ כָּל־ מָגִנֵּ֣י הַזָּהָ֔ב אֲשֶׁ֥ר עָשָׂ֖ה שְׁלֹמֹֽה׃"
+pericope: "[[1Kgs.14.25 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 14
+book/chapter: "[[1Kgs.14|1 Kings 14]]"
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic SHISHAK|SHISHAK]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0214]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1004P]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H4043]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H8010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 14:26**<big><big>[[1Kgs.14.25 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took away the treasures of the house of the LORD, and the treasures of the king’s house; he even took away all: and he took away all the shields of gold which Solomon had made.
 <small><sub>**BSB:**</sub></small>
 He seized the treasures of the house of the LORD and of the royal palace. He took everything, including all the gold shields that Solomon had made.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֞ח]] [[H0853\|אֶת]][[H9014\|־]] [[H0214\|אֹצְר֣וֹת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0214\|אֽוֹצְרוֹת֙]] [[H1004P\|בֵּ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3605\|כֹּ֖ל]] [[H3947G\|לָקָ֑ח]] [[H9001\|וַ]][[H3947G\|יִּקַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4043\|מָגִנֵּ֣י]] [[H9009\|הַ]][[H2091\|זָּהָ֔ב]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213H\|עָשָׂ֖ה]] [[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic REHOBOAM|REHOBOAM]] • [[topic SHISHAK|SHISHAK]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.14.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.14.25|<< 1 Kings 14:25]]</td><td align="center" style="border:none;">[[1Kgs.14|1 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.14.27|1 Kings 14:27 >>]]</td></tr></table>
 

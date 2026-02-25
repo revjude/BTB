@@ -1,8 +1,55 @@
+---
+title: Job 27:8
+type: Verse
+kjv: "For what is the hope of the hypocrite, though he hath gained, when God taketh away his soul?"
+bsb: "For what is the hope of the godless when he is cut off, when God takes away his life?"
+hebrew: "כִּ֤י מַה־ תִּקְוַ֣ת חָ֭נֵף כִּ֣י יִבְצָ֑ע כִּ֤י יֵ֖שֶׁל אֱל֣וֹהַּ נַפְשֽׁוֹ׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H8615B]]"
+- "[[H2611]]"
+- "[[H1214G]]"
+- "[[H7953]]"
+- "[[H0433]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:8**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For what [is] the hope of the hypocrite, though he hath gained, when God taketh away his soul?
 <small><sub>**BSB:**</sub></small>
 For what is the hope of the godless when he is cut off, when God takes away his life?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H4100\|מַה]][[H9014\|־]] [[H8615B\|תִּקְוַ֣ת]] [[H2611\|חָ֭נֵף]] [[H3588A\|כִּ֣י]] [[H1214G\|יִבְצָ֑ע]] [[H3588A\|כִּ֤י]] [[H7953\|יֵ֖שֶׁל]] [[H0433\|אֱל֣וֹהַּ]] [[H5315H\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HOPE|HOPE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.7|<< Job 27:7]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.9|Job 27:9 >>]]</td></tr></table>
 

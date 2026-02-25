@@ -1,10 +1,63 @@
+---
+title: John 8:33
+type: Verse
+kjv: "They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?"
+bsb: "“We are Abraham’s descendants,” they answered. “We have never been slaves to anyone. How can You say we will be set free?”"
+greek: "ἀπεκρίθησαν πρὸς αὐτόν· σπέρμα Ἀβραάμ ἐσμεν καὶ οὐδενὶ δεδουλεύκαμεν πώποτε· πῶς σὺ λέγεις ὅτι ἐλεύθεροι γενήσεσθε;"
+pericope: "[[John.8.30 The Truth Will Set You Free|The Truth Will Set You Free]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic LIBERTY|LIBERTY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G0611]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G4690G]]"
+- "[[G0011]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G1398]]"
+- "[[G4455]]"
+- "[[G4459]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G1658]]"
+- "[[G1096]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **John 8:33**<big><big>[[John.8.30 The Truth Will Set You Free|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They answered him, We be Abraham’s seed, and were never in bondage to any man: how sayest thou, Ye shall be made free?
 <small><sub>**BSB:**</sub></small>
 “We are Abraham’s descendants,” they answered. “We have never been slaves to anyone. How can You say we will be set free?”
-<small><sub>**Literal:**</sub></small>
-They answered unto Him; Seed of Abraham we are and to no [one] have we been under bondage ever; How You yourself say that Free you will become’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.32|<< John 8:32]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.34|John 8:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G4690G\|σπέρμα]]  [[G0011\|Ἀβραάμ]]  [[G1510\|ἐσμεν]]  [[G2532\|καὶ]]  [[G3762\|οὐδενὶ]]  [[G1398\|δεδουλεύκαμεν]]  [[G4455\|πώποτε·]]  [[G4459\|πῶς]]  [[G4771\|σὺ]]  [[G3004G\|λέγεις]]  [[G3754G\|ὅτι]]  [[G1658\|ἐλεύθεροι]]  [[G1096\|γενήσεσθε;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic BLINDNESS|BLINDNESS]] • [[topic LIBERTY|LIBERTY]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.32|<< John 8:32]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.34|John 8:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

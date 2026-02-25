@@ -1,10 +1,76 @@
+---
+title: Acts 16:37
+type: Verse
+kjv: "But Paul said unto them, They have beaten us openly uncondemned, being Romans, and have cast us into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out."
+bsb: "But Paul said to the officers, “They beat us publicly without a trial and threw us into prison, even though we are Roman citizens. And now do they want to send us away secretly? Absolutely not! Let them come themselves and escort us out!”"
+greek: "Ὁ δὲ Παῦλος ἔφη πρὸς αὐτούς· δείραντες ἡμᾶς δημοσίᾳ ἀκατακρίτους, ἀνθρώπους Ῥωμαίους ὑπάρχοντας, ἔβαλαν εἰς φυλακήν, καὶ νῦν λάθρᾳ ἡμᾶς ἐκβάλλουσιν; οὐ γάρ, ἀλλ᾽ ἐλθόντες αὐτοὶ ἡμᾶς ἐξαγαγέτωσαν."
+pericope: "[[Acts.16.35 An Official Apology|An Official Apology]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 16
+book/chapter: "[[Acts.16|Acts 16]]"
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BEATING|BEATING]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic ROMAN EMPIRE|ROMAN EMPIRE]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TRIAL|TRIAL]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G3972G]]"
+- "[[G5346]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1194]]"
+- "[[G3165]]"
+- "[[G1219]]"
+- "[[G0178]]"
+- "[[G0444]]"
+- "[[G4514]]"
+- "[[G5225]]"
+- "[[G0906G]]"
+- "[[G1519]]"
+- "[[G5438G]]"
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G2977]]"
+- "[[G1544]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G0235]]"
+- "[[G2064]]"
+- "[[G1806]]"
+texts:
+- NKO
+---
+
 **Acts 16:37**<big><big>[[Acts.16.35 An Official Apology|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Paul said unto them, They have beaten us openly uncondemned, being Romans, and have cast [us] into prison; and now do they thrust us out privily? nay verily; but let them come themselves and fetch us out.
 <small><sub>**BSB:**</sub></small>
 But Paul said to the officers, “They beat us publicly without a trial and threw us into prison, even though we are Roman citizens. And now do they want to send us away secretly? Absolutely not! Let them come themselves and escort us out!”
-<small><sub>**Literal:**</sub></small>
-<the> But Paul was saying to them; Having beaten us publicly uncondemned men Romans being, they cast [us] into prison, and now secretly us do they throw out? No indeed! Instead having come themselves us they should bring out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.36|<< Acts 16:36]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.38|Acts 16:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G3972G\|Παῦλος]]  [[G5346\|ἔφη]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G1194\|δείραντες]]  [[G3165\|ἡμᾶς]]  [[G1219\|δημοσίᾳ]]  [[G0178\|ἀκατακρίτους,]]  [[G0444\|ἀνθρώπους]]  [[G4514\|Ῥωμαίους]]  [[G5225\|ὑπάρχοντας,]]  [[G0906G\|ἔβαλαν]]  [[G1519\|εἰς]]  [[G5438G\|φυλακήν,]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G2977\|λάθρᾳ]]  [[G3165\|ἡμᾶς]]  [[G1544\|ἐκβάλλουσιν;]]  [[G3756\|οὐ]]  [[G1063\|γάρ,]]  [[G0235\|ἀλλ᾽]]  [[G2064\|ἐλθόντες]]  [[G0846\|αὐτοὶ]]  [[G3165\|ἡμᾶς]]  [[G1806\|ἐξαγαγέτωσαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEATING|BEATING]] • [[topic CITIZENS|CITIZENS]] • [[topic CRIMINALS|CRIMINALS]] • [[topic GOD|GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PHILIPPI|PHILIPPI]] • [[topic PRISONERS|PRISONERS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPROOF|REPROOF]] • [[topic ROMAN EMPIRE|ROMAN EMPIRE]] • [[topic SILAS|SILAS]] • [[topic TRIAL|TRIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.16.36|<< Acts 16:36]]</td><td align="center" style="border:none;">[[Acts.16|Acts 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.16.38|Acts 16:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Judges 8:8
+type: Verse
+kjv: "And he went up thence to Penuel, and spake unto them likewise: and the men of Penuel answered him as the men of Succoth had answered him."
+bsb: "From there he went up to Penuel and asked the same from them, but the men of Penuel gave the same response as the men of Succoth."
+hebrew: "וַיַּ֤עַל מִשָּׁם֙ פְּנוּאֵ֔ל וַיְדַבֵּ֥ר אֲלֵיהֶ֖ם כָּזֹ֑את וַיַּעֲנ֤וּ אוֹתוֹ֙ אַנְשֵׁ֣י פְנוּאֵ֔ל כַּאֲשֶׁ֥ר עָנ֖וּ אַנְשֵׁ֥י סֻכּֽוֹת׃"
+pericope: "[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|Gideon Defeats Zebah and Zalmunna]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic PENUEL|PENUEL]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic SUCCOTH|SUCCOTH]]"
+- "[[topic TOWER|TOWER]]"
+- "[[topic ZALMUNNA|ZALMUNNA]]"
+- "[[topic ZEBAH|ZEBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H6439G]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H2063]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0582]]"
+- "[[H0834D]]"
+- "[[H5523G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:8**<big><big>[[Judg.8.1 Gideon Defeats Zebah and Zalmunna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he went up thence to Penuel, and spake unto them likewise: and the men of Penuel answered him as the men of Succoth had answered [him].
 <small><sub>**BSB:**</sub></small>
 From there he went up to Penuel and asked the same from them, but the men of Penuel gave the same response as the men of Succoth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֤עַל]] [[H9006\|מִ]][[H8033G\|שָּׁם֙]] [[H6439G\|פְּנוּאֵ֔ל]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֖ם]] [[H9004\|כָּ]][[H2063\|זֹ֑את]] [[H9001\|וַ]][[H6030B\|יַּעֲנ֤וּ]] [[H0853\|אוֹת]][[H9033\|וֹ֙]] [[H0582\|אַנְשֵׁ֣י]] [[H6439G\|פְנוּאֵ֔ל]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6030B\|עָנ֖וּ]] [[H0582\|אַנְשֵׁ֥י]] [[H5523G\|סֻכּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEON|GIDEON]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic PENUEL|PENUEL]] • [[topic RETALIATION|RETALIATION]] • [[topic SUCCOTH|SUCCOTH]] • [[topic TOWER|TOWER]] • [[topic ZALMUNNA|ZALMUNNA]] • [[topic ZEBAH|ZEBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.7|<< Judges 8:7]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.9|Judges 8:9 >>]]</td></tr></table>
 

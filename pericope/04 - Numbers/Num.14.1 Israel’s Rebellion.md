@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Rebellion
+type: Pericope
 pericope: "[[Num.14.1 Israel’s Rebellion|Israel’s Rebellion]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 14
 book/chapter: "[[Num.14|Numbers 14]]"
-genre:
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 12
 verses:
 - "[[Num.14.1]]"
 - "[[Num.14.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Num.14.12]]"
 ---
 
-[[Num.14|Numbers 14:1 - Numbers 14:12]]
+<small>[[Num.14|Numbers 14:1-12]]</small>
 *Israel’s Rebellion*
 
 [[Num.14.1|1]] And all the congregation lifted up their voice, and cried; and the people wept that night.

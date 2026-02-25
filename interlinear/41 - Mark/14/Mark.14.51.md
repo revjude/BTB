@@ -1,10 +1,56 @@
+---
+title: Mark 14:51
+type: Verse
+kjv: "And there followed him a certain young man, having a linen cloth cast about his naked body; and the young men laid hold on him:"
+bsb: "One young man who had been following Jesus was wearing a linen cloth around his body. They caught hold of him,"
+greek: "καὶ εἷς νεανίσκος τις συνηκολούθει αὐτῷ περιβεβλημένος σινδόνα ἐπὶ γυμνοῦ, καὶ κρατοῦσιν αὐτόν οἱ νεανίσκοι."
+pericope: "[[Mark.14.43 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1520]]"
+- "[[G3495]]"
+- "[[G5100]]"
+- "[[G4870]]"
+- "[[G0846]]"
+- "[[G4016]]"
+- "[[G4616]]"
+- "[[G1909]]"
+- "[[G1131]]"
+- "[[G2902]]"
+- "[[G3588]]"
+texts:
+- NKO
+- k
+- N(K)(o)
+---
+
 **Mark 14:51**<big><big>[[Mark.14.43 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there followed him a certain young man, having a linen cloth cast about [his] naked [body]; and the young men laid hold on him:
 <small><sub>**BSB:**</sub></small>
 One young man who had been following Jesus was wearing a linen cloth around his body. They caught hold of him,
-<small><sub>**Literal:**</sub></small>
-And one young man certain was accompanying Him having himself cast a linen cloth about [his] naked [body], and they seize him <the> young men.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.50|<< Mark 14:50]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.52|Mark 14:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1520\|εἷς]]  [[G3495\|νεανίσκος]]  [[G5100\|τις]]  [[G4870\|συνηκολούθει]]  [[G0846\|αὐτῷ]]  [[G4016\|περιβεβλημένος]]  [[G4616\|σινδόνα]]  [[G1909\|ἐπὶ]]  [[G1131\|γυμνοῦ,]]  [[G2532\|καὶ]]  [[G2902\|κρατοῦσιν]]  [[G0846\|αὐτόν]]  [[G3588\|οἱ]]  [[G3495\|νεανίσκοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.50|<< Mark 14:50]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.52|Mark 14:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

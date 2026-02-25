@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Shishak Raids Jerusalem
+type: Pericope
 pericope: "[[1Kgs.14.25 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 14
 book/chapter: "[[1Kgs.14|1 Kings 14]]"
-genre:
+chronological_order: 553
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 7
 verses:
 - "[[1Kgs.14.25]]"
 - "[[1Kgs.14.26]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Kgs.14.31]]"
 ---
 
-[[1Kgs.14|1 Kings 14:25 - 1 Kings 14:31]]
+<small>[[1Kgs.14|1 Kings 14:25-31]]</small>
 *Shishak Raids Jerusalem*
 
 [[1Kgs.14.25|25]] And it came to pass in the fifth year of king Rehoboam, \[that\] Shishak king of Egypt came up against Jerusalem:

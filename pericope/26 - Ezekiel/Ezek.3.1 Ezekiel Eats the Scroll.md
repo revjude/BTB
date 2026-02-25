@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ezekiel Eats the Scroll
+type: Pericope
 pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 3
 book/chapter: "[[Ezek.3|Ezekiel 3]]"
-genre:
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 15
 verses:
 - "[[Ezek.3.1]]"
 - "[[Ezek.3.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Ezek.3.15]]"
 ---
 
-[[Ezek.3|Ezekiel 3:1 - Ezekiel 3:15]]
+<small>[[Ezek.3|Ezekiel 3:1-15]]</small>
 *Ezekiel Eats the Scroll*
 
 [[Ezek.3.1|1]] Moreover he said unto me, Son of man, eat that thou findest; eat this roll, and go speak unto the house of Israel.

@@ -1,8 +1,56 @@
+---
+title: Psalm 78:9
+type: Verse
+kjv: "The children of Ephraim, being armed, and carrying bows, turned back in the day of battle."
+bsb: "The archers of Ephraim turned back on the day of battle."
+hebrew: "בְּֽנֵי־ אֶפְרַ֗יִם נוֹשְׁקֵ֥י רוֹמֵי־ קָ֑שֶׁת הָ֝פְכ֗וּ בְּי֣וֹם קְרָֽב׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0669G]]"
+- "[[H5401B]]"
+- "[[H7411A]]"
+- "[[H7198]]"
+- "[[H2015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7128]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:9**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Ephraim, [being] armed, [and] carrying bows, turned back in the day of battle.
 <small><sub>**BSB:**</sub></small>
 The archers of Ephraim turned back on the day of battle.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּֽנֵי]][[H9014\|־]] [[H0669G\|אֶפְרַ֗יִם]] [[H5401B\|נוֹשְׁקֵ֥י]] [[H7411A\|רוֹמֵי]][[H9014\|־]] [[H7198\|קָ֑שֶׁת]] [[H2015\|הָ֝פְכ֗וּ]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H7128\|קְרָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.8|<< Psalms 78:8]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.10|Psalms 78:10 >>]]</td></tr></table>
 

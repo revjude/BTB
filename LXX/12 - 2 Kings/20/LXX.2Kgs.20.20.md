@@ -1,6 +1,77 @@
+---
+title: LXX 2 Kings 20:20
+type: Verse
+lxx: "And the rest of the words of Hezekiah, and all as much as he did, and all  his dominations, and the fountain and the aqueduct, and how he brought the water into the city; behold are not these written upon the scroll of the words of the days of the kings of Judah?"
+greek: "και τα λοιπά των λόγων Εζεκίου και πάσα όσα εποίησε και πάσα η δυναστεία αυτού και την κρήνην και τον υδραγωγόν και εισήγαγε το ύδωρ εις την πόλιν ουκ ιδού ταύτα γέγραπται επί βιβλίου λόγων ημερών των βασιλέων Ιούδα"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3062]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1478]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G4160]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G6973]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G8093]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G9527]]"
+- "[[G2532]]"
+- "[[G1521]]"
+- "[[G3588]]"
+- "[[G5204]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3756]]"
+- "[[G2400]]"
+- "[[G3778]]"
+- "[[G1125]]"
+- "[[G1909]]"
+- "[[G0975]]"
+- "[[G3056]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2448]]"
+---
+
 **LXX 2 Kings 20:20** 
 <small><sub>**LXX:**</sub></small>
 And the rest of the words of Hezekiah, and all as much as he did, and all  his dominations, and the fountain and the aqueduct, and \[how\] he brought the water into the city; behold \[are\] not these written upon \[the\] scroll of \[the\] words \[of the\] days of the kings of Judah? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|τα]] [[G3062\|λοιπά]] [[G3588\|των]] [[G3056\|λόγων]] [[G1478\|Εζεκίου]] [[G2532\|και]] [[G3956\|πάσα]] [[G3745\|όσα]] [[G4160\|εποίησε]] [[G2532\|και]] [[G3956\|πάσα]] [[G3588\|η]] [[G6973\|δυναστεία]] [[G1473\|αυτού]] [[G2532\|και]] [[G3588\|την]] [[G8093\|κρήνην]] [[G2532\|και]] [[G3588\|τον]] [[G9527\|υδραγωγόν]] [[G2532\|και]] [[G1521\|εισήγαγε]] [[G3588\|το]] [[G5204\|ύδωρ]] [[G1519\|εις]] [[G3588\|την]] [[G4172\|πόλιν]] [[G3756\|ουκ]] [[G2400\|ιδού]] [[G3778\|ταύτα]] [[G1125\|γέγραπται]] [[G1909\|επί]] [[G0975\|βιβλίου]] [[G3056\|λόγων]] [[G2250\|ημερών]] [[G3588\|των]] [[G0935\|βασιλέων]] [[G2448\|Ιούδα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATER|WATER]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.19|<< 2 Kings 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.21|2 Kings 20:21 >>]]</td></tr></table>
 
@@ -43,6 +114,6 @@ And the rest of the words of Hezekiah, and all as much as he did, and all  his d
 | of the | **<big>[[G3588\|των]]</big>** |
 | kings | **<big>[[G0935\|βασιλέων]]</big>** |
 | of Judah? | **<big>[[G2448\|Ιούδα]]</big>** |
-[[2Kgs.20.20|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.19|<< 2 Kings 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.21|2 Kings 20:21 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.20.19|<< 2 Kings 20:19]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.20.21|2 Kings 20:21 >>]]</td></tr></table>
 
 

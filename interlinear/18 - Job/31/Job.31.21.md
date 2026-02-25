@@ -1,8 +1,59 @@
+---
+title: Job 31:21
+type: Verse
+kjv: "If I have lifted up my hand against the fatherless, when I saw my help in the gate:"
+bsb: "if I have lifted up my hand against the fatherless because I saw that I had support in the gate,"
+hebrew: "אִם־ הֲנִיפ֣וֹתִי עַל־ יָת֣וֹם יָדִ֑י כִּֽי־ אֶרְאֶ֥ה בַ֝שַּׁ֗עַר עֶזְרָתִֽי׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H5130B]]"
+- "[[H5921A]]"
+- "[[H3490]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H5833]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:21**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If I have lifted up my hand against the fatherless, when I saw my help in the gate:
 <small><sub>**BSB:**</sub></small>
 if I have lifted up my hand against the fatherless because I saw that I had support in the gate,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H5130B\|הֲנִיפ֣וֹתִי]] [[H5921A\|עַל]][[H9014\|־]] [[H3490\|יָת֣וֹם]] [[H3027H\|יָדִ֑]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7200G\|אֶרְאֶ֥ה]] [[H9003\|בַ֝]][[H8179G\|שַּׁ֗עַר]] [[H5833\|עֶזְרָתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic ORPHAN|ORPHAN]] • [[topic POOR|POOR]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.20|<< Job 31:20]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.22|Job 31:22 >>]]</td></tr></table>
 

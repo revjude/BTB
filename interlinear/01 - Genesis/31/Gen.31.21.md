@@ -1,8 +1,65 @@
+---
+title: Genesis 31:21
+type: Verse
+kjv: "So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead."
+bsb: "So he fled with all his possessions, crossed the Euphrates, and headed for the hill country of Gilead."
+hebrew: "וַיִּבְרַ֥ח הוּא֙ וְכָל־ אֲשֶׁר־ ל֔וֹ וַיָּ֖קָם וַיַּעֲבֹ֣ר אֶת־ הַנָּהָ֑ר וַיָּ֥שֶׂם אֶת־ פָּנָ֖יו הַ֥ר הַגִּלְעָֽד׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic HARAN|HARAN]]"
+- "[[topic LABAN|LABAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1272]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6965B]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5104G]]"
+- "[[H7760A]]"
+- "[[H6440L]]"
+- "[[H9023]]"
+- "[[H2022H]]"
+- "[[H1568G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:21**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he fled with all that he had; and he rose up, and passed over the river, and set his face [toward] the mount Gilead.
 <small><sub>**BSB:**</sub></small>
 So he fled with all his possessions, crossed the Euphrates, and headed for the hill country of Gilead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1272\|יִּבְרַ֥ח]] [[H1931\|הוּא֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H6965B\|יָּ֖קָם]] [[H9001\|וַ]][[H5674A\|יַּעֲבֹ֣ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5104G\|נָּהָ֑ר]] [[H9001\|וַ]][[H7760A\|יָּ֥שֶׂם]] [[H0853\|אֶת]][[H9014\|־]] [[H6440L\|פָּנָ֖י]][[H9023\|ו]] [[H2022H\|הַ֥ר]] [[H9009\|הַ]][[H1568G\|גִּלְעָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GILEAD|GILEAD]] • [[topic HARAN|HARAN]] • [[topic LABAN|LABAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.20|<< Genesis 31:20]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.22|Genesis 31:22 >>]]</td></tr></table>
 

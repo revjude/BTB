@@ -1,8 +1,64 @@
+---
+title: Ezekiel 5:13
+type: Verse
+kjv: "Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the LORD have spoken it in my zeal, when I have accomplished my fury in them."
+bsb: "And when My anger is spent and I have vented My wrath against them, I will be appeased. And when I have spent My wrath on them, they will know that I, the LORD, in My zeal have spoken."
+hebrew: "וְכָלָ֣ה אַפִּ֗י וַהֲנִחוֹתִ֧י חֲמָתִ֛י בָּ֖ם וְהִנֶּחָ֑מְתִּי וְֽיָדְע֞וּ כִּי־ אֲנִ֣י יְהוָ֗ה דִּבַּ֙רְתִּי֙ בְּקִנְאָתִ֔י בְּכַלּוֹתִ֥י חֲמָתִ֖י בָּֽם׃"
+pericope: "[[Ezek.5.11 Famine, Sword, and Dispersion|Famine, Sword, and Dispersion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615J]]"
+- "[[H0639G]]"
+- "[[H9020]]"
+- "[[H5117]]"
+- "[[H2534]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5162G]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H7068]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 5:13**<big><big>[[Ezek.5.11 Famine, Sword, and Dispersion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the LORD have spoken [it] in my zeal, when I have accomplished my fury in them.
 <small><sub>**BSB:**</sub></small>
 And when My anger is spent and I have vented My wrath against them, I will be appeased. And when I have spent My wrath on them, they will know that I, the LORD, in My zeal have spoken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3615J\|כָלָ֣ה]] [[H0639G\|אַפִּ֗]][[H9020\|י]] [[H9001\|וַ]][[H5117\|הֲנִחוֹתִ֧י]] [[H2534\|חֲמָתִ֛]][[H9020\|י]] [[H9003\|בָּ֖]][[H9038\|ם]] [[H9001\|וְ]][[H5162G\|הִנֶּחָ֑מְתִּי]] [[H9001\|וְֽ]][[H3045\|יָדְע֞וּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֗ה]] [[H1696G\|דִּבַּ֙רְתִּי֙]] [[H9003\|בְּ]][[H7068\|קִנְאָתִ֔]][[H9020\|י]] [[H9003\|בְּ]][[H3615J\|כַלּוֹתִ֥]][[H9040\|י]] [[H2534\|חֲמָתִ֖]][[H9020\|י]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.12|<< Ezekiel 5:12]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.14|Ezekiel 5:14 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Proverbs 26:10
+type: Verse
+kjv: "The great God that formed all things both rewardeth the fool, and rewardeth transgressors."
+bsb: "Like an archer who wounds at random is he who hires a fool or passerby."
+hebrew: "רַ֥ב מְחֽוֹלֵֽל־ כֹּ֑ל וְשֹׂכֵ֥ר כְּ֝סִ֗יל וְשֹׂכֵ֥ר עֹבְרִֽים׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7228]]"
+- "[[H2490A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9002]]"
+- "[[H7936B]]"
+- "[[H3684]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:10**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The great [God] that formed all [things] both rewardeth the fool, and rewardeth transgressors.
 <small><sub>**BSB:**</sub></small>
 Like an archer who wounds at random is he who hires a fool or passerby.
+<small><sub>**Hebrew:**</sub></small>
+[[H7228\|רַ֥ב]] [[H2490A\|מְחֽוֹלֵֽל]][[H9014\|־]] [[H3605\|כֹּ֑ל]] [[H9002\|וְ]][[H7936B\|שֹׂכֵ֥ר]] [[H3684\|כְּ֝סִ֗יל]] [[H9002\|וְ]][[H7936B\|שֹׂכֵ֥ר]] [[H5674A\|עֹבְרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.9|<< Proverbs 26:9]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.11|Proverbs 26:11 >>]]</td></tr></table>
 

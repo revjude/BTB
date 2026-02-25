@@ -1,8 +1,61 @@
+---
+title: Leviticus 2:3
+type: Verse
+kjv: "And the remnant of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire."
+bsb: "The remainder of the grain offering shall belong to Aaron and his sons; it is a most holy part of the food offerings to the LORD."
+hebrew: "וְהַנּוֹתֶ֙רֶת֙ מִן־ הַמִּנְחָ֔ה לְאַהֲרֹ֖ן וּלְבָנָ֑יו קֹ֥דֶשׁ קָֽדָשִׁ֖ים מֵאִשֵּׁ֥י יְהוָֽה׃ ס"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H4503G]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H6944G]]"
+- "[[H9006]]"
+- "[[H0801]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 2:3**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the remnant of the meat offering [shall be] Aaron’s and his sons’: [it is] a thing most holy of the offerings of the LORD made by fire.
 <small><sub>**BSB:**</sub></small>
 The remainder of the grain offering shall belong to Aaron and his sons; it is a most holy part of the food offerings to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3498\|נּוֹתֶ֙רֶת֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֔ה]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֖ן]] [[H9002\|וּ]][[H9005\|לְ]][[H1121A\|בָנָ֑י]][[H9023\|ו]] [[H6944G\|קֹ֥דֶשׁ]] [[H6944G\|קָֽדָשִׁ֖ים]] [[H9006\|מֵ]][[H0801\|אִשֵּׁ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.2|<< Leviticus 2:2]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.4|Leviticus 2:4 >>]]</td></tr></table>
 
@@ -16,7 +69,7 @@ The remainder of the grain offering shall belong to Aaron and his sons; it is a 
 | a holy thing of  |**<big>&#8207;[[H6944G\|קֹ֥דֶשׁ]]&#8207; </big>**| Ko.desh<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | holy things  |**<big>&#8207;[[H6944G\|קָֽדָשִׁ֖ים]]&#8207; </big>**| ka.da.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from [the] fire offerings of  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H0801\|אִשֵּׁ֥י]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> 'i.Shei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.2|<< Leviticus 2:2]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.4|Leviticus 2:4 >>]]</td></tr></table>
 
 

@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 19:17
+type: Verse
+kjv: "And Saul said unto Michal, Why hast thou deceived me so, and sent away mine enemy, that he is escaped? And Michal answered Saul, He said unto me, Let me go; why should I kill thee?"
+bsb: "And Saul said to Michal, “Why did you deceive me like this? You sent my enemy away, and he has escaped!” Michal replied, “He said to me, ‘Help me get away, or I will kill you!’”"
+hebrew: "וַיֹּ֨אמֶר שָׁא֜וּל אֶל־ מִיכַ֗ל לָ֤מָּה כָּ֙כָה֙ רִמִּיתִ֔נִי וַתְּשַׁלְּחִ֥י אֶת־ אֹיְבִ֖י וַיִּמָּלֵ֑ט וַתֹּ֤אמֶר מִיכַל֙ אֶל־ שָׁא֔וּל הוּא־ אָמַ֥ר אֵלַ֛י שַׁלְּחִ֖נִי לָמָ֥ה אֲמִיתֵֽךְ׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MICHAL|MICHAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4324G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3602]]"
+- "[[H7411B]]"
+- "[[H9030]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H4422]]"
+- "[[H1931]]"
+- "[[H4191]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 19:17**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul said unto Michal, Why hast thou deceived me so, and sent away mine enemy, that he is escaped? And Michal answered Saul, He said unto me, Let me go; why should I kill thee?
 <small><sub>**BSB:**</sub></small>
 And Saul said to Michal, “Why did you deceive me like this? You sent my enemy away, and he has escaped!” Michal replied, “He said to me, ‘Help me get away, or I will kill you!’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H7586G\|שָׁא֜וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H4324G\|מִיכַ֗ל]] [[H9005\|לָ֤]][[H4100\|מָּה]] [[H3602\|כָּ֙כָה֙]] [[H7411B\|רִמִּיתִ֔]][[H9030\|נִי]] [[H9001\|וַ]][[H7971H\|תְּשַׁלְּחִ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H0341\|אֹיְבִ֖]][[H9020\|י]] [[H9001\|וַ]][[H4422\|יִּמָּלֵ֑ט]] [[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H4324G\|מִיכַל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H1931\|הוּא]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H7971H\|שַׁלְּחִ֖]][[H9030\|נִי]] [[H9005\|לָ]][[H4100\|מָ֥ה]] [[H4191\|אֲמִיתֵֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MICHAL|MICHAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.16|<< 1 Samuel 19:16]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.18|1 Samuel 19:18 >>]]</td></tr></table>
 

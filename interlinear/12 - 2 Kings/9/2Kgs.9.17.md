@@ -1,8 +1,77 @@
+---
+title: 2 Kings 9:17
+type: Verse
+kjv: "And there stood a watchman on the tower in Jezreel, and he spied the company of Jehu as he came, and said, I see a company. And Joram said, Take an horseman, and send to meet them, and let him say, Is it peace?"
+bsb: "Now the watchman standing on the tower in Jezreel saw Jehu’s troops approaching, and he called out, “I see a company of troops!” “Choose a rider,” Joram commanded. “Send him out to meet them and ask, ‘Have you come in peace?’”"
+hebrew: "וְהַצֹּפֶה֩ עֹמֵ֨ד עַֽל־ הַמִּגְדָּ֜ל בְּיִזְרְעֶ֗אל וַיַּ֞רְא אֶת־ שִׁפְעַ֤ת יֵהוּא֙ בְּבֹא֔וֹ וַיֹּ֕אמֶר שִׁפְעַ֖ת אֲנִ֣י רֹאֶ֑ה וַיֹּ֣אמֶר יְהוֹרָ֗ם קַ֥ח רַכָּ֛ב וּֽשְׁלַ֥ח לִקְרָאתָ֖ם וְיֹאמַ֥ר הֲשָׁלֽוֹם׃"
+pericope: "[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|Jehu Kills Joram and Ahaziah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic TOWER|TOWER]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WATCHMAN|WATCHMAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H6822]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4026M]]"
+- "[[H9003]]"
+- "[[H3157H]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H8229]]"
+- "[[H3058H]]"
+- "[[H0935G]]"
+- "[[H9043]]"
+- "[[H0559]]"
+- "[[H0589]]"
+- "[[H3088I]]"
+- "[[H3947G]]"
+- "[[H7395]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9038]]"
+- "[[H9008]]"
+- "[[H7965G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:17**<big><big>[[2Kgs.9.14 Jehu Kills Joram and Ahaziah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there stood a watchman on the tower in Jezreel, and he spied the company of Jehu as he came, and said, I see a company. And Joram said, Take an horseman, and send to meet them, and let him say, [Is it] peace?
 <small><sub>**BSB:**</sub></small>
 Now the watchman standing on the tower in Jezreel saw Jehu’s troops approaching, and he called out, “I see a company of troops!” “Choose a rider,” Joram commanded. “Send him out to meet them and ask, ‘Have you come in peace?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H6822\|צֹּפֶה֩]] [[H5975G\|עֹמֵ֨ד]] [[H5921A\|עַֽל]][[H9014\|־]] [[H9009\|הַ]][[H4026M\|מִּגְדָּ֜ל]] [[H9003\|בְּ]][[H3157H\|יִזְרְעֶ֗אל]] [[H9001\|וַ]][[H7200G\|יַּ֞רְא]] [[H0853\|אֶת]][[H9014\|־]] [[H8229\|שִׁפְעַ֤ת]] [[H3058H\|יֵהוּא֙]] [[H9003\|בְּ]][[H0935G\|בֹא֔]][[H9043\|וֹ]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H8229\|שִׁפְעַ֖ת]] [[H0589\|אֲנִ֣י]] [[H7200G\|רֹאֶ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3088I\|יְהוֹרָ֗ם]] [[H3947G\|קַ֥ח]] [[H7395\|רַכָּ֛ב]] [[H9002\|וּֽ]][[H7971G\|שְׁלַ֥ח]] [[H9005\|לִ]][[H7122G\|קְרָאתָ֖]][[H9038\|ם]] [[H9002\|וְ]][[H0559\|יֹאמַ֥ר]] [[H9008\|הֲ]][[H7965G\|שָׁלֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DECISION|DECISION]] • [[topic JEHU|JEHU]] • [[topic JEZREEL|JEZREEL]] • [[topic JORAM|JORAM]] • [[topic TOWER|TOWER]] • [[topic USURPATION|USURPATION]] • [[topic WATCHMAN|WATCHMAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.16|<< 2 Kings 9:16]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.18|2 Kings 9:18 >>]]</td></tr></table>
 

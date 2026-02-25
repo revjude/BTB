@@ -1,10 +1,60 @@
+---
+title: Mark 8:25
+type: Verse
+kjv: "After that he put his hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly."
+bsb: "Once again Jesus placed His hands on the man’s eyes, and when he opened them his sight was restored, and he could see everything clearly."
+greek: "εἶτα πάλιν ἐπέθηκεν τὰς χεῖρας ἐπὶ τοὺς ὀφθαλμοὺς αὐτοῦ, καὶ ἐποίησεν αὐτὸν διέβλεψεν καὶ ἀπεκατέστη καὶ ἐνέβλεπεν τηλαυγῶς ἅπαντα."
+pericope: "[[Mark.8.22 The Blind Man at Bethsaida|The Blind Man at Bethsaida]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G1534]]"
+- "[[G3825]]"
+- "[[G2007]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1909]]"
+- "[[G3788]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G1227]]"
+- "[[G0600]]"
+- "[[G1689]]"
+- "[[G5081]]"
+- "[[G0537]]"
+texts:
+- NKO
+- NK(o)
+- K
+- N(K)O
+---
+
 **Mark 8:25**<big><big>[[Mark.8.22 The Blind Man at Bethsaida|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After that he put [his] hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly.
 <small><sub>**BSB:**</sub></small>
 Once again Jesus placed His hands on the man’s eyes, and when he opened them his sight was restored, and he could see everything clearly.
-<small><sub>**Literal:**</sub></small>
-Then again He put the hands upon the eyes of him, and made him look and he  restored and he was seeing well clearly everything.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.24|<< Mark 8:24]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.26|Mark 8:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1534\|εἶτα]]  [[G3825\|πάλιν]]  [[G2007\|ἐπέθηκεν]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G4160G\|ἐποίησεν]]  [[G0846\|αὐτὸν]]  [[G1227\|διέβλεψεν]]  [[G2532\|καὶ]]  [[G0600\|ἀπεκατέστη]]  [[G2532\|καὶ]]  [[G1689\|ἐνέβλεπεν]]  [[G5081\|τηλαυγῶς]]  [[G0537\|ἅπαντα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.24|<< Mark 8:24]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.26|Mark 8:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

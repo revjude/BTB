@@ -1,8 +1,72 @@
+---
+title: Numbers 36:3
+type: Verse
+kjv: "And if they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance."
+bsb: "But if they marry any of the men from the other tribes of Israel, their inheritance will be withdrawn from the portion of our fathers and added to the tribe into which they marry. So our allotted inheritance would be taken away."
+hebrew: "וְ֠הָיוּ לְאֶחָ֞ד מִבְּנֵ֨י שִׁבְטֵ֥י בְנֵֽי־ יִשְׂרָאֵל֮ לְנָשִׁים֒ וְנִגְרְעָ֤ה נַחֲלָתָן֙ מִנַּחֲלַ֣ת אֲבֹתֵ֔ינוּ וְנוֹסַ֕ף עַ֚ל נַחֲלַ֣ת הַמַּטֶּ֔ה אֲשֶׁ֥ר תִּהְיֶ֖ינָה לָהֶ֑ם וּמִגֹּרַ֥ל נַחֲלָתֵ֖נוּ יִגָּרֵֽעַ׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HEIR|HEIR]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H7626H]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0802H]]"
+- "[[H1639]]"
+- "[[H5159]]"
+- "[[H9029]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4294H]]"
+- "[[H0834A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H1486]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:3**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if they be married to any of the sons of the [other] tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.
 <small><sub>**BSB:**</sub></small>
 But if they marry any of the men from the other tribes of Israel, their inheritance will be withdrawn from the portion of our fathers and added to the tribe into which they marry. So our allotted inheritance would be taken away.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H1961\|הָיוּ]] [[H9005\|לְ]][[H0259\|אֶחָ֞ד]] [[H9006\|מִ]][[H1121G\|בְּנֵ֨י]] [[H7626H\|שִׁבְטֵ֥י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֮]] [[H9005\|לְ]][[H0802H\|נָשִׁים֒]] [[H9001\|וְ]][[H1639\|נִגְרְעָ֤ה]] [[H5159\|נַחֲלָתָ]][[H9029\|ן֙]] [[H9006\|מִ]][[H5159\|נַּחֲלַ֣ת]] [[H0001G\|אֲבֹתֵ֔י]][[H9025\|נוּ]] [[H9001\|וְ]][[H3254H\|נוֹסַ֕ף]] [[H5921A\|עַ֚ל]] [[H5159\|נַחֲלַ֣ת]] [[H9009\|הַ]][[H4294H\|מַּטֶּ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|תִּהְיֶ֖ינָה]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וּ]][[H9006\|מִ]][[H1486\|גֹּרַ֥ל]] [[H5159\|נַחֲלָתֵ֖]][[H9025\|נוּ]] [[H1639\|יִגָּרֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEIR|HEIR]] • [[topic LAND|LAND]] • [[topic MILCAH|MILCAH]] • [[topic PETITION|PETITION]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.2|<< Numbers 36:2]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.4|Numbers 36:4 >>]]</td></tr></table>
 

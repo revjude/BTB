@@ -1,8 +1,68 @@
+---
+title: Jeremiah 31:7
+type: Verse
+kjv: "For thus saith the LORD; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O LORD, save thy people, the remnant of Israel."
+bsb: "For this is what the LORD says: “Sing with joy for Jacob; shout for the foremost of the nations! Make your praises heard, and say, ‘O LORD, save Your people, the remnant of Israel!’"
+hebrew: "כִּי־ כֹ֣ה׀ אָמַ֣ר יְהוָ֗ה רָנּ֤וּ לְיַֽעֲקֹב֙ שִׂמְחָ֔ה וְצַהֲל֖וּ בְּרֹ֣אשׁ הַגּוֹיִ֑ם הַשְׁמִ֤יעוּ הַֽלְלוּ֙ וְאִמְר֔וּ הוֹשַׁ֤ע יְהוָה֙ אֶֽת־ עַמְּךָ֔ אֵ֖ת שְׁאֵרִ֥ית יִשְׂרָאֵֽל׃"
+pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H7442B]]"
+- "[[H9005]]"
+- "[[H3290]]"
+- "[[H8057]]"
+- "[[H9002]]"
+- "[[H6670A]]"
+- "[[H9003]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H8085I]]"
+- "[[H1984B]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9021]]"
+- "[[H7611]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:7**<big><big>[[Jer.31.1 Mourning Turned to Joy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O LORD, save thy people, the remnant of Israel.
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD says: “Sing with joy for Jacob; shout for the foremost of the nations! Make your praises heard, and say, ‘O LORD, save Your people, the remnant of Israel!’
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H3541\|כֹ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H7442B\|רָנּ֤וּ]] [[H9005\|לְ]][[H3290\|יַֽעֲקֹב֙]] [[H8057\|שִׂמְחָ֔ה]] [[H9002\|וְ]][[H6670A\|צַהֲל֖וּ]] [[H9003\|בְּ]][[H7218H\|רֹ֣אשׁ]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H8085I\|הַשְׁמִ֤יעוּ]] [[H1984B\|הַֽלְלוּ֙]] [[H9002\|וְ]][[H0559\|אִמְר֔וּ]] [[H3467\|הוֹשַׁ֤ע]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H5971A\|עַמְּ]][[H9021\|ךָ֔]] [[H0853\|אֵ֖ת]] [[H7611\|שְׁאֵרִ֥ית]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.6|<< Jeremiah 31:6]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.8|Jeremiah 31:8 >>]]</td></tr></table>
 

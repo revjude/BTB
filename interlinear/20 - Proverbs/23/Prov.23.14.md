@@ -1,8 +1,54 @@
+---
+title: Proverbs 23:14
+type: Verse
+kjv: "Thou shalt beat him with the rod, and shalt deliver his soul from hell."
+bsb: "Strike him with a rod, and you will deliver his soul from Sheol."
+hebrew: "אַ֭תָּה בַּשֵּׁ֣בֶט תַּכֶּ֑נּוּ וְ֝נַפְשׁ֗וֹ מִשְּׁא֥וֹל תַּצִּֽיל׃"
+pericope: "[[Prov.23.13 Saying 13|Saying 13]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HELL|HELL]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H0859A]]"
+- "[[H9003]]"
+- "[[H7626G]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H7585]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:14**<big><big>[[Prov.23.13 Saying 13|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt beat him with the rod, and shalt deliver his soul from hell.
 <small><sub>**BSB:**</sub></small>
 Strike him with a rod, and you will deliver his soul from Sheol.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַ֭תָּה]] [[H9003\|בַּ]][[H7626G\|שֵּׁ֣בֶט]] [[H5221\|תַּכֶּ֑]][[H9033\|נּוּ]] [[H9002\|וְ֝]][[H5315G\|נַפְשׁ֗]][[H9023\|וֹ]] [[H9006\|מִ]][[H7585\|שְּׁא֥וֹל]] [[H5337\|תַּצִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HELL|HELL]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.13|<< Proverbs 23:13]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.15|Proverbs 23:15 >>]]</td></tr></table>
 

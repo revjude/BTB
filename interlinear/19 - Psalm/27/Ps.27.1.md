@@ -1,8 +1,61 @@
+---
+title: Psalm 27:1
+type: Verse
+kjv: "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
+bsb: "Of David. The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—whom shall I dread?"
+hebrew: "יְהוָ֤ה׀ אוֹרִ֣י וְ֭יִשְׁעִי מִמִּ֣י אִירָ֑א יְהוָ֥ה מָֽעוֹז־ חַ֝יַּ֗י מִמִּ֥י אֶפְחָֽד׃"
+pericope: "[[Ps.27.1 The LORD Is My Salvation|The LORD Is My Salvation]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 27
+book/chapter: "[[Ps.27|Psalm 27]]"
+chronological_order: 359
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H0216]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3468]]"
+- "[[H9006]]"
+- "[[H4310]]"
+- "[[H3372H]]"
+- "[[H4581]]"
+- "[[H9014]]"
+- "[[H2416E]]"
+- "[[H6342]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 27:1**<big><big>[[Ps.27.1 The LORD Is My Salvation|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD [is] my light and my salvation; whom shall I fear? the LORD [is] the strength of my life; of whom shall I be afraid?
 <small><sub>**BSB:**</sub></small>
 Of David. The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—whom shall I dread?
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]][[H9015\|׀]] [[H0216\|אוֹרִ֣]][[H9020\|י]] [[H9002\|וְ֭]][[H3468\|יִשְׁעִ]][[H9020\|י]] [[H9006\|מִ]][[H4310\|מִּ֣י]] [[H3372H\|אִירָ֑א]] [[H3068G\|יְהוָ֥ה]] [[H4581\|מָֽעוֹז]][[H9014\|־]] [[H2416E\|חַ֝יַּ֗]][[H9020\|י]] [[H9006\|מִ]][[H4310\|מִּ֥י]] [[H6342\|אֶפְחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic LIGHT|LIGHT]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.27.0|<< Psalms 27:0]]</td><td align="center" style="border:none;">[[Ps.27|Psalms 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.27.2|Psalms 27:2 >>]]</td></tr></table>
 

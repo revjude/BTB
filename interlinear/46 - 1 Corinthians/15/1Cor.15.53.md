@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 15:53
+type: Verse
+kjv: "For this corruptible must put on incorruption, and this mortal must put on immortality."
+bsb: "For the perishable must be clothed with the imperishable, and the mortal with immortality."
+greek: "δεῖ γὰρ τὸ φθαρτὸν τοῦτο ἐνδύσασθαι ἀφθαρσίαν καὶ τὸ θνητὸν τοῦτο ἐνδύσασθαι ἀθανασίαν."
+pericope: "[[1Cor.15.50 Where, O Death, Is Your Victory？|Where, O Death, Is Your Victory？]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 15
+book/chapter: "[[1Cor.15|1 Corinthians 15]]"
+chronological_order: 1072
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BODY|BODY]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G1163]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G5349]]"
+- "[[G3778]]"
+- "[[G1746]]"
+- "[[G0861]]"
+- "[[G2532]]"
+- "[[G2349]]"
+- "[[G0110]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 15:53**<big><big>[[1Cor.15.50 Where, O Death, Is Your Victory？|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this corruptible must put on incorruption, and this mortal [must] put on immortality.
 <small><sub>**BSB:**</sub></small>
 For the perishable must be clothed with the imperishable, and the mortal with immortality.
-<small><sub>**Literal:**</sub></small>
-It behooves for <the> perishable this to put on imperishable and <the> mortal this to put on immortality.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.52|<< 1 Corinthians 15:52]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.54|1 Corinthians 15:54 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1163\|δεῖ]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G5349\|φθαρτὸν]]  [[G3778\|τοῦτο]]  [[G1746\|ἐνδύσασθαι]]  [[G0861\|ἀφθαρσίαν]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G2349\|θνητὸν]]  [[G3778\|τοῦτο]]  [[G1746\|ἐνδύσασθαι]]  [[G0110\|ἀθανασίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BODY|BODY]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic LIFE|LIFE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.15.52|<< 1 Corinthians 15:52]]</td><td align="center" style="border:none;">[[1Cor.15|1 Corinthians 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.15.54|1 Corinthians 15:54 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

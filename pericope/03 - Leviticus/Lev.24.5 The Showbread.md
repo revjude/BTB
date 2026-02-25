@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Showbread
+type: Pericope
 pericope: "[[Lev.24.5 The Showbread|The Showbread]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 24
 book/chapter: "[[Lev.24|Leviticus 24]]"
-genre:
+chronological_order: 156
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 5
 verses:
 - "[[Lev.24.5]]"
 - "[[Lev.24.6]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Lev.24.9]]"
 ---
 
-[[Lev.24|Leviticus 24:5 - Leviticus 24:9]]
+<small>[[Lev.24|Leviticus 24:5-9]]</small>
 *The Showbread*
 
 [[Lev.24.5|5]] And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake.

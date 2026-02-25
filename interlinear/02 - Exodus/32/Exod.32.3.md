@@ -1,8 +1,65 @@
+---
+title: Exodus 32:3
+type: Verse
+kjv: "And all the people brake off the golden earrings which were in their ears, and brought them unto Aaron."
+bsb: "Then all the people took off their gold earrings and brought them to Aaron."
+hebrew: "וַיִּתְפָּֽרְקוּ֙ כָּל־ הָעָ֔ם אֶת־ נִזְמֵ֥י הַזָּהָ֖ב אֲשֶׁ֣ר בְּאָזְנֵיהֶ֑ם וַיָּבִ֖יאוּ אֶֽל־ אַהֲרֹֽן׃"
+pericope: "[[Exod.32.1 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 32
+book/chapter: "[[Exod.32|Exodus 32]]"
+chronological_order: 124
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EAR-RING|EAR-RING]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6561]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H5141]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0241G]]"
+- "[[H9028]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H0175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 32:3**<big><big>[[Exod.32.1 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people brake off the golden earrings which [were] in their ears, and brought [them] unto Aaron.
 <small><sub>**BSB:**</sub></small>
 Then all the people took off their gold earrings and brought them to Aaron.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6561\|יִּתְפָּֽרְקוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H5141\|נִזְמֵ֥י]] [[H9009\|הַ]][[H2091\|זָּהָ֖ב]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H0241G\|אָזְנֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H0935P\|יָּבִ֖יאוּ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EAR-RING|EAR-RING]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic IDOL|IDOL]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.32.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.32.2|<< Exodus 32:2]]</td><td align="center" style="border:none;">[[Exod.32|Exodus 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.32.4|Exodus 32:4 >>]]</td></tr></table>
 

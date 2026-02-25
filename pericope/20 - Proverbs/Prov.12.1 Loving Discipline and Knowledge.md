@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Loving Discipline and Knowledge
+type: Pericope
 pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 12
 book/chapter: "[[Prov.12|Proverbs 12]]"
-genre:
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 28
 verses:
 - "[[Prov.12.1]]"
 - "[[Prov.12.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Prov.12.28]]"
 ---
 
-[[Prov.12|Proverbs 12:1 - Proverbs 12:28]]
+<small>[[Prov.12|Proverbs 12:1-28]]</small>
 *Loving Discipline and Knowledge*
 
 [[Prov.12.1|1]] Whoso loveth instruction loveth knowledge: but he that hateth reproof \[is\] brutish.

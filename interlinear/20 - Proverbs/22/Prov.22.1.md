@@ -1,8 +1,54 @@
+---
+title: Proverbs 22:1
+type: Verse
+kjv: "A good name is rather to be chosen than great riches, and loving favour rather than silver and gold."
+bsb: "A good name is more desirable than great riches; favor is better than silver and gold."
+hebrew: "נִבְחָ֣ר שֵׁ֭ם מֵעֹ֣שֶׁר רָ֑ב מִכֶּ֥סֶף וּ֝מִזָּהָ֗ב חֵ֣ן טֽוֹב׃"
+pericope: "[[Prov.22.1 A Good Name|A Good Name]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 22
+book/chapter: "[[Prov.22|Proverbs 22]]"
+chronological_order: 477
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic NAME|NAME]]"
+- "[[topic REPUTATION|REPUTATION]]"
+strongs:
+- "[[H0977]]"
+- "[[H8034]]"
+- "[[H9006]]"
+- "[[H6239]]"
+- "[[H7227A]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H2580]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 22:1**<big><big>[[Prov.22.1 A Good Name|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A [good] name [is] rather to be chosen than great riches, [and] loving favour rather than silver and gold.
 <small><sub>**BSB:**</sub></small>
 A good name is more desirable than great riches; favor is better than silver and gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H0977\|נִבְחָ֣ר]] [[H8034\|שֵׁ֭ם]] [[H9006\|מֵ]][[H6239\|עֹ֣שֶׁר]] [[H7227A\|רָ֑ב]] [[H9006\|מִ]][[H3701G\|כֶּ֥סֶף]] [[H9002\|וּ֝]][[H9006\|מִ]][[H2091\|זָּהָ֗ב]] [[H2580\|חֵ֣ן]] [[H2896A\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic HOLINESS|HOLINESS]] • [[topic NAME|NAME]] • [[topic REPUTATION|REPUTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.22.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.31|<< Proverbs 21:31]]</td><td align="center" style="border:none;">[[Prov.22|Proverbs 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.22.2|Proverbs 22:2 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: Psalm 65:12
+type: Verse
+kjv: "They drop upon the pastures of the wilderness: and the little hills rejoice on every side."
+bsb: "The pastures of the wilderness overflow; the hills are robed with joy."
+hebrew: "יִ֭רְעֲפוּ נְא֣וֹת מִדְבָּ֑ר וְ֝גִ֗יל גְּבָע֥וֹת תַּחְגֹּֽרְנָה׃"
+pericope: "[[Ps.65.1 Praise Awaits God in Zion|Praise Awaits God in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 65
+book/chapter: "[[Ps.65|Psalm 65]]"
+chronological_order: 375
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H7491]]"
+- "[[H4999]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H1524A]]"
+- "[[H1389I]]"
+- "[[H2296]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 65:12**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They drop [upon] the pastures of the wilderness: and the little hills rejoice on every side.
 <small><sub>**BSB:**</sub></small>
 The pastures of the wilderness overflow; the hills are robed with joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H7491\|יִ֭רְעֲפוּ]] [[H4999\|נְא֣וֹת]] [[H4057B\|מִדְבָּ֑ר]] [[H9002\|וְ֝]][[H1524A\|גִ֗יל]] [[H1389I\|גְּבָע֥וֹת]] [[H2296\|תַּחְגֹּֽרְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.11|<< Psalms 65:11]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.13|Psalms 65:13 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Ezra 3:4
+type: Verse
+kjv: "They kept also the feast of tabernacles, as it is written, and offered the daily burnt offerings by number, according to the custom, as the duty of every day required;"
+bsb: "They also celebrated the Feast of Tabernacles in accordance with what is written, and they offered burnt offerings daily based on the number prescribed for each day."
+hebrew: "וַֽיַּעֲשׂ֛וּ אֶת־ חַ֥ג הַסֻּכּ֖וֹת כַּכָּת֑וּב וְעֹלַ֨ת י֤וֹם בְּיוֹם֙ בְּמִסְפָּ֔ר כְּמִשְׁפַּ֖ט דְּבַר־ י֥וֹם בְּיוֹמֽוֹ׃"
+pericope: "[[Ezra.3.1 Sacrifices Restored|Sacrifices Restored]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 3
+book/chapter: "[[Ezra.3|Ezra 3]]"
+chronological_order: 851
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic DAILY OFFERING|DAILY OFFERING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZERUBBABEL|ZERUBBABEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2282]]"
+- "[[H9009]]"
+- "[[H5521]]"
+- "[[H9004]]"
+- "[[H3789]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H3117J]]"
+- "[[H9003]]"
+- "[[H4557]]"
+- "[[H4941G]]"
+- "[[H1697N]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 3:4**<big><big>[[Ezra.3.1 Sacrifices Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They kept also the feast of tabernacles, as [it is] written, and [offered] the daily burnt offerings by number, according to the custom, as the duty of every day required;
 <small><sub>**BSB:**</sub></small>
 They also celebrated the Feast of Tabernacles in accordance with what is written, and they offered burnt offerings daily based on the number prescribed for each day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H6213A\|יַּעֲשׂ֛וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H2282\|חַ֥ג]] [[H9009\|הַ]][[H5521\|סֻּכּ֖וֹת]] [[H9004\|כַּ]][[H3789\|כָּת֑וּב]] [[H9002\|וְ]][[H5930A\|עֹלַ֨ת]] [[H3117J\|י֤וֹם]] [[H9003\|בְּ]][[H3117J\|יוֹם֙]] [[H9003\|בְּ]][[H4557\|מִסְפָּ֔ר]] [[H9004\|כְּ]][[H4941G\|מִשְׁפַּ֖ט]] [[H1697N\|דְּבַר]][[H9014\|־]] [[H3117J\|י֥וֹם]] [[H9003\|בְּ]][[H3117J\|יוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic DAILY OFFERING|DAILY OFFERING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]] • [[topic TABERNACLES, FEAST OF|TABERNACLES, FEAST OF]] • [[topic TEMPLE|TEMPLE]] • [[topic ZERUBBABEL|ZERUBBABEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.3|<< Ezra 3:3]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.3.5|Ezra 3:5 >>]]</td></tr></table>
 

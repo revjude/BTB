@@ -1,8 +1,56 @@
+---
+title: Hosea 13:6
+type: Verse
+kjv: "According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me."
+bsb: "When they had pasture, they became satisfied; when they were satisfied, their hearts became proud, and as a result they forgot Me."
+hebrew: "כְּמַרְעִיתָם֙ וַיִּשְׂבָּ֔עוּ שָׂבְע֖וּ וַיָּ֣רָם לִבָּ֑ם עַל־ כֵּ֖ן שְׁכֵחֽוּנִי׃"
+pericope: "[[Hos.13.1 God’s Anger against Israel|God’s Anger against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 13
+book/chapter: "[[Hos.13|Hosea 13]]"
+chronological_order: 654
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+strongs:
+- "[[H9004]]"
+- "[[H4830]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H7646]]"
+- "[[H7311A]]"
+- "[[H3820A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7911]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 13:6**<big><big>[[Hos.13.1 God’s Anger against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me.
 <small><sub>**BSB:**</sub></small>
 When they had pasture, they became satisfied; when they were satisfied, their hearts became proud, and as a result they forgot Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H4830\|מַרְעִיתָ]][[H9028\|ם֙]] [[H9001\|וַ]][[H7646\|יִּשְׂבָּ֔עוּ]] [[H7646\|שָׂבְע֖וּ]] [[H9001\|וַ]][[H7311A\|יָּ֣רָם]] [[H3820A\|לִבָּ֑]][[H9028\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H7911\|שְׁכֵחֽוּ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGETTING GOD|FORGETTING GOD]] • [[topic HEART|HEART]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic PROSPERITY|PROSPERITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.13.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.13.5|<< Hosea 13:5]]</td><td align="center" style="border:none;">[[Hos.13|Hosea 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.13.7|Hosea 13:7 >>]]</td></tr></table>
 

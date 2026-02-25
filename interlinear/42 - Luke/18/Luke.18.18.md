@@ -1,10 +1,59 @@
+---
+title: Luke 18:18
+type: Verse
+kjv: "And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?"
+bsb: "Then a certain ruler asked Him, “Good Teacher, what must I do to inherit eternal life?”"
+greek: "Καὶ ἐπηρώτησέν τις αὐτὸν ἄρχων λέγων· διδάσκαλε ἀγαθέ, τί ποιήσας ζωὴν αἰώνιον κληρονομήσω;"
+pericope: "[[Luke.18.18 The Rich Young Ruler|The Rich Young Ruler]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 18
+book/chapter: "[[Luke.18|Luke 18]]"
+chronological_order: 980
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1905]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G0758]]"
+- "[[G3004G]]"
+- "[[G1320]]"
+- "[[G0018]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G2222]]"
+- "[[G0166]]"
+- "[[G2816]]"
+texts:
+- NKO
+---
+
 **Luke 18:18**<big><big>[[Luke.18.18 The Rich Young Ruler|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?
 <small><sub>**BSB:**</sub></small>
 Then a certain ruler asked Him, “Good Teacher, what must I do to inherit eternal life?”
-<small><sub>**Literal:**</sub></small>
-And asked a certain Him ruler saying; Teacher good, what having done life eternal will I inherit?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.17|<< Luke 18:17]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.19|Luke 18:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1905\|ἐπηρώτησέν]]  [[G5100\|τις]]  [[G0846\|αὐτὸν]]  [[G0758\|ἄρχων]]  [[G3004G\|λέγων·]]  [[G1320\|διδάσκαλε]]  [[G0018\|ἀγαθέ,]]  [[G5101\|τί]]  [[G4160G\|ποιήσας]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον]]  [[G2816\|κληρονομήσω;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.18.17|<< Luke 18:17]]</td><td align="center" style="border:none;">[[Luke.18|Luke 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.18.19|Luke 18:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

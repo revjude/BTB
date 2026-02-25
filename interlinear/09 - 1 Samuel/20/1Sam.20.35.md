@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 20:35
+type: Verse
+kjv: "And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him."
+bsb: "In the morning Jonathan went out to the field for the appointment with David, and a small boy was with him."
+hebrew: "וַיְהִ֣י בַבֹּ֔קֶר וַיֵּצֵ֧א יְהוֹנָתָ֛ן הַשָּׂדֶ֖ה לְמוֹעֵ֣ד דָּוִ֑ד וְנַ֥עַר קָטֹ֖ן עִמּֽוֹ׃"
+pericope: "[[1Sam.20.30 Saul Seeks to Kill Jonathan|Saul Seeks to Kill Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H3318G]]"
+- "[[H3083H]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9005]]"
+- "[[H4150G]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H5288]]"
+- "[[H6996B]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:35**<big><big>[[1Sam.20.30 Saul Seeks to Kill Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the morning, that Jonathan went out into the field at the time appointed with David, and a little lad with him.
 <small><sub>**BSB:**</sub></small>
 In the morning Jonathan went out to the field for the appointment with David, and a small boy was with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֧א]] [[H3083H\|יְהוֹנָתָ֛ן]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֖ה]] [[H9005\|לְ]][[H4150G\|מוֹעֵ֣ד]] [[H1732\|דָּוִ֑ד]] [[H9002\|וְ]][[H5288\|נַ֥עַר]] [[H6996B\|קָטֹ֖ן]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.34|<< 1 Samuel 20:34]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.36|1 Samuel 20:36 >>]]</td></tr></table>
 

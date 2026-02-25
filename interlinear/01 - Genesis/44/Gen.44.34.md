@@ -1,8 +1,68 @@
+---
+title: Genesis 44:34
+type: Verse
+kjv: "For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father."
+bsb: "For how can I go back to my father without the boy? I could not bear to see the misery that would overwhelm him.”"
+hebrew: "כִּי־ אֵיךְ֙ אֶֽעֱלֶ֣ה אֶל־ אָבִ֔י וְהַנַּ֖עַר אֵינֶ֣נּוּ אִתִּ֑י פֶּ֚ן אֶרְאֶ֣ה בָרָ֔ע אֲשֶׁ֥ר יִמְצָ֖א אֶת־ אָבִֽי׃"
+pericope: "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0349A]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H6435]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H7451B]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:34**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For how shall I go up to my father, and the lad [be] not with me? lest peradventure I see the evil that shall come on my father.
 <small><sub>**BSB:**</sub></small>
 For how can I go back to my father without the boy? I could not bear to see the misery that would overwhelm him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H0349A\|אֵיךְ֙]] [[H5927G\|אֶֽעֱלֶ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H9002\|וְ]][[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H0369\|אֵינֶ֣]][[H9043\|נּוּ]] [[H0854\|אִתִּ֑]][[H9030\|י]] [[H6435\|פֶּ֚ן]] [[H7200G\|אֶרְאֶ֣ה]] [[H9003\|בָ]][[H7451B\|רָ֔ע]] [[H0834A\|אֲשֶׁ֥ר]] [[H4672\|יִמְצָ֖א]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JUDAH|JUDAH]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.33|<< Genesis 44:33]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.1|Genesis 45:1 >>]]</td></tr></table>
 

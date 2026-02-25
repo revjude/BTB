@@ -1,8 +1,50 @@
+---
+title: Psalm 21:8
+type: Verse
+kjv: "Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee."
+bsb: "Your hand will apprehend all Your enemies; Your right hand will seize those who hate You."
+hebrew: "תִּמְצָ֣א יָ֭דְךָ לְכָל־ אֹיְבֶ֑יךָ יְ֝מִֽינְךָ תִּמְצָ֥א שֹׂנְאֶֽיךָ׃"
+pericope: "[[Ps.21.1 After the Battle|After the Battle]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 21
+book/chapter: "[[Ps.21|Psalm 21]]"
+chronological_order: 354
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H4672]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H3225G]]"
+- "[[H8130]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 21:8**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.
 <small><sub>**BSB:**</sub></small>
 Your hand will apprehend all Your enemies; Your right hand will seize those who hate You.
+<small><sub>**Hebrew:**</sub></small>
+[[H4672\|תִּמְצָ֣א]] [[H3027H\|יָ֭דְ]][[H9021\|ךָ]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0341\|אֹיְבֶ֑י]][[H9021\|ךָ]] [[H3225G\|יְ֝מִֽינְ]][[H9021\|ךָ]] [[H4672\|תִּמְצָ֥א]] [[H8130\|שֹׂנְאֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.7|<< Psalms 21:7]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.9|Psalms 21:9 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Ruth 4:6
+type: Verse
+kjv: "And the kinsman said, I cannot redeem it for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem it."
+bsb: "The kinsman-redeemer replied, “I cannot redeem it myself, or I would jeopardize my own inheritance. Take my right of redemption, because I cannot redeem it.”"
+hebrew: "וַיֹּ֣אמֶר הַגֹּאֵ֗ל לֹ֤א אוּכַל֙ לִגְאָל לִ֔י פֶּן־ אַשְׁחִ֖ית אֶת־ נַחֲלָתִ֑י גְּאַל־ לְךָ֤ אַתָּה֙ אֶת־ גְּאֻלָּתִ֔י כִּ֥י לֹא־ אוּכַ֖ל לִגְאֹֽל׃"
+pericope: "[[Ruth.4.1 Boaz Redeems Ruth|Boaz Redeems Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic DOWRY|DOWRY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEIR|HEIR]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+- "[[topic WITNESS|WITNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H1350A]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H7843]]"
+- "[[H0853]]"
+- "[[H5159]]"
+- "[[H9020]]"
+- "[[H9031]]"
+- "[[H0859A]]"
+- "[[H1353]]"
+- "[[H3588A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ruth 4:6**<big><big>[[Ruth.4.1 Boaz Redeems Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the kinsman said, I cannot redeem [it] for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem [it].
 <small><sub>**BSB:**</sub></small>
 The kinsman-redeemer replied, “I cannot redeem it myself, or I would jeopardize my own inheritance. Take my right of redemption, because I cannot redeem it.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H1350A\|גֹּאֵ֗ל]] [[H3808\|לֹ֤א]] [[H3201\|אוּכַל֙]] [[H9005\|לִ]][[H1350A\|גְאָל]] [[H9005\|לִ֔]][[H9030\|י]] [[H6435\|פֶּן]][[H9014\|־]] [[H7843\|אַשְׁחִ֖ית]] [[H0853\|אֶת]][[H9014\|־]] [[H5159\|נַחֲלָתִ֑]][[H9020\|י]] [[H1350A\|גְּאַל]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֤]] [[H0859A\|אַתָּה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1353\|גְּאֻלָּתִ֔]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H3808\|לֹא]][[H9014\|־]] [[H3201\|אוּכַ֖ל]] [[H9005\|לִ]][[H1350A\|גְאֹֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic DOWRY|DOWRY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEIR|HEIR]] • [[topic LAND|LAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic REDEMPTION|REDEMPTION]] • [[topic WITNESS|WITNESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.5|<< Ruth 4:5]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.7|Ruth 4:7 >>]]</td></tr></table>
 

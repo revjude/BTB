@@ -1,8 +1,73 @@
+---
+title: Exodus 16:16
+type: Verse
+kjv: "This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents."
+bsb: "This is what the LORD has commanded: ‘Each one is to gather as much as he needs. You may take an omer for each person in your tent.’”"
+hebrew: "זֶ֤ה הַדָּבָר֙ אֲשֶׁ֣ר צִוָּ֣ה יְהוָ֔ה לִקְט֣וּ מִמֶּ֔נּוּ אִ֖ישׁ לְפִ֣י אָכְל֑וֹ עֹ֣מֶר לַגֻּלְגֹּ֗לֶת מִסְפַּר֙ נַפְשֹׁ֣תֵיכֶ֔ם אִ֛ישׁ לַאֲשֶׁ֥ר בְּאָהֳל֖וֹ תִּקָּֽחוּ׃"
+pericope: "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OMER|OMER]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H3950]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H6310K]]"
+- "[[H0400]]"
+- "[[H9023]]"
+- "[[H6016B]]"
+- "[[H1538]]"
+- "[[H4557]]"
+- "[[H5315J]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H3947G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:16**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, [according to] the number of your persons; take ye every man for [them] which [are] in his tents.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD has commanded: ‘Each one is to gather as much as he needs. You may take an omer for each person in your tent.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶ֤ה]] [[H9009\|הַ]][[H1697G\|דָּבָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6680\|צִוָּ֣ה]] [[H3068G\|יְהוָ֔ה]] [[H3950\|לִקְט֣וּ]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H0376I\|אִ֖ישׁ]] [[H9005\|לְ]][[H6310K\|פִ֣י]] [[H0400\|אָכְל֑]][[H9023\|וֹ]] [[H6016B\|עֹ֣מֶר]] [[H9005\|לַ]][[H1538\|גֻּלְגֹּ֗לֶת]] [[H4557\|מִסְפַּר֙]] [[H5315J\|נַפְשֹׁ֣תֵי]][[H9026\|כֶ֔ם]] [[H0376I\|אִ֛ישׁ]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בְּ]][[H0168G\|אָהֳל֖]][[H9023\|וֹ]] [[H3947G\|תִּקָּֽחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MEASURE|MEASURE]] • [[topic MIRACLES|MIRACLES]] • [[topic OMER|OMER]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.15|<< Exodus 16:15]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.17|Exodus 16:17 >>]]</td></tr></table>
 

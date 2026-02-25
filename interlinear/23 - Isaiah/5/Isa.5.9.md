@@ -1,8 +1,61 @@
+---
+title: Isaiah 5:9
+type: Verse
+kjv: "In mine ears said the LORD of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant."
+bsb: "I heard the LORD of Hosts declare: “Surely many houses will become desolate, great mansions left unoccupied."
+hebrew: "בְּאָזְנָ֖י יְהוָ֣ה צְבָא֑וֹת אִם־ לֹ֞א בָּתִּ֤ים רַבִּים֙ לְשַׁמָּ֣ה יִֽהְי֔וּ גְּדֹלִ֥ים וְטוֹבִ֖ים מֵאֵ֥ין יוֹשֵֽׁב׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H9020]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H1004B]]"
+- "[[H7227A]]"
+- "[[H9005]]"
+- "[[H8047G]]"
+- "[[H1961]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:9**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In mine ears [said] the LORD of hosts, Of a truth many houses shall be desolate, [even] great and fair, without inhabitant.
 <small><sub>**BSB:**</sub></small>
 I heard the LORD of Hosts declare: “Surely many houses will become desolate, great mansions left unoccupied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0241H\|אָזְנָ֖]][[H9020\|י]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֑וֹת]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֞א]] [[H1004B\|בָּתִּ֤ים]] [[H7227A\|רַבִּים֙]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֣ה]] [[H1961\|יִֽהְי֔וּ]] [[H1419A\|גְּדֹלִ֥ים]] [[H9002\|וְ]][[H2896A\|טוֹבִ֖ים]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H3427\|יוֹשֵֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.8|<< Isaiah 5:8]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.10|Isaiah 5:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 28:17
+type: Verse
+kjv: "Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons he gave gold by weight for every bason; and likewise silver by weight for every bason of silver:"
+bsb: "the weight of the pure gold for the forks, sprinkling bowls, and pitchers; the weight of each gold dish; the weight of each silver bowl;"
+hebrew: "וְהַמִּזְלָג֧וֹת וְהַמִּזְרָק֛וֹת וְהַקְּשָׂוֹ֖ת זָהָ֣ב טָה֑וֹר וְלִכְפוֹרֵ֨י הַזָּהָ֤ב בְּמִשְׁקָל֙ לִכְפ֣וֹר וּכְפ֔וֹר וְלִכְפוֹרֵ֥י הַכֶּ֛סֶף בְּמִשְׁקָ֖ל לִכְפ֥וֹר וּכְפֽוֹר׃"
+pericope: "[[1Chr.28.11 The Plans for the Temple|The Plans for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BASIN|BASIN]]"
+- "[[topic BOWL|BOWL]]"
+- "[[topic CUP|CUP]]"
+- "[[topic FLESHHOOK|FLESHHOOK]]"
+- "[[topic REVELATION|REVELATION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4207B]]"
+- "[[H4219]]"
+- "[[H7184]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H9005]]"
+- "[[H3713A]]"
+- "[[H9003]]"
+- "[[H4948]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:17**<big><big>[[1Chr.28.11 The Plans for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons [he gave gold] by weight for every bason; and [likewise silver] by weight for every bason of silver:
 <small><sub>**BSB:**</sub></small>
 the weight of the pure gold for the forks, sprinkling bowls, and pitchers; the weight of each gold dish; the weight of each silver bowl;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4207B\|מִּזְלָג֧וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H4219\|מִּזְרָק֛וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H7184\|קְּשָׂוֹ֖ת]] [[H2091\|זָהָ֣ב]] [[H2889\|טָה֑וֹר]] [[H9002\|וְ]][[H9005\|לִ]][[H3713A\|כְפוֹרֵ֨י]] [[H9009\|הַ]][[H2091\|זָּהָ֤ב]] [[H9003\|בְּ]][[H4948\|מִשְׁקָל֙]] [[H9005\|לִ]][[H3713A\|כְפ֣וֹר]] [[H9002\|וּ]][[H3713A\|כְפ֔וֹר]] [[H9002\|וְ]][[H9005\|לִ]][[H3713A\|כְפוֹרֵ֥י]] [[H9009\|הַ]][[H3701G\|כֶּ֛סֶף]] [[H9003\|בְּ]][[H4948\|מִשְׁקָ֖ל]] [[H9005\|לִ]][[H3713A\|כְפ֥וֹר]] [[H9002\|וּ]][[H3713A\|כְפֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BASIN|BASIN]] • [[topic BOWL|BOWL]] • [[topic CUP|CUP]] • [[topic FLESHHOOK|FLESHHOOK]] • [[topic REVELATION|REVELATION]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.16|<< 1 Chronicles 28:16]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.18|1 Chronicles 28:18 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Matthew 1:25
+type: Verse
+kjv: "And knew her not till she had brought forth her firstborn son: and he called his name JESUS."
+bsb: "But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus."
+greek: "καὶ οὐκ ἐγίνωσκεν αὐτὴν ἕως οὗ ἔτεκεν τὸν υἱόν αὐτῆς τὸν πρωτότοκον, καὶ ἐκάλεσεν τὸ ὄνομα αὐτοῦ Ἰησοῦν.¶"
+pericope: "[[Matt.1.18 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G0846]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G5088]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G4416]]"
+- "[[G2564G]]"
+- "[[G3686]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 1:25**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And knew her not till she had brought forth her firstborn son: and he called his name JESUS.
 <small><sub>**BSB:**</sub></small>
 But he had no union with her until she gave birth to a Son. And he gave Him the name Jesus.
-<small><sub>**Literal:**</sub></small>
-and not he was knowing her until that she had brought forth the a son of her <the> firstborn, and (s)he called the name of Him Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.24|<< Matthew 1:24]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.1|Matthew 2:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1097\|ἐγίνωσκεν]]  [[G0846\|αὐτὴν]]  [[G2193\|ἕως]]  [[G3739\|οὗ]]  [[G5088\|ἔτεκεν]]  [[G3588\|τὸν]]  [[G5207\|υἱόν]]  [[G0846\|αὐτῆς]]  [[G3588\|τὸν]]  [[G4416\|πρωτότοκον,]]  [[G2532\|καὶ]]  [[G2564G\|ἐκάλεσεν]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G2424G\|Ἰησοῦν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENCE|CONTINENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.24|<< Matthew 1:24]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.1|Matthew 2:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

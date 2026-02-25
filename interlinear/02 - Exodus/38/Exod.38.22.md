@@ -1,8 +1,64 @@
+---
+title: Exodus 38:22
+type: Verse
+kjv: "And Bezaleel the son of Uri, the son of Hur, of the tribe of Judah, made all that the LORD commanded Moses."
+bsb: "Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything that the LORD had commanded Moses."
+hebrew: "וּבְצַלְאֵ֛ל בֶּן־ אוּרִ֥י בֶן־ ח֖וּר לְמַטֵּ֣ה יְהוּדָ֑ה עָשָׂ֕ה אֵ֛ת כָּל־ אֲשֶׁר־ צִוָּ֥ה יְהוָ֖ה אֶת־ מֹשֶֽׁה׃"
+pericope: "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic EMBROIDERY|EMBROIDERY]]"
+- "[[topic HUR|HUR]]"
+strongs:
+- "[[H9002]]"
+- "[[H1212G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0221G]]"
+- "[[H2354G]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H3063G]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H4872]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:22**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Bezaleel the son of Uri, the son of Hur, of the tribe of Judah, made all that the LORD commanded Moses.
 <small><sub>**BSB:**</sub></small>
 Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything that the LORD had commanded Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1212G\|בְצַלְאֵ֛ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0221G\|אוּרִ֥י]] [[H1121A\|בֶן]][[H9014\|־]] [[H2354G\|ח֖וּר]] [[H9005\|לְ]][[H4294H\|מַטֵּ֣ה]] [[H3063G\|יְהוּדָ֑ה]] [[H6213H\|עָשָׂ֕ה]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEZALEL|BEZALEL]] • [[topic EMBROIDERY|EMBROIDERY]] • [[topic HUR|HUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.21|<< Exodus 38:21]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.23|Exodus 38:23 >>]]</td></tr></table>
 

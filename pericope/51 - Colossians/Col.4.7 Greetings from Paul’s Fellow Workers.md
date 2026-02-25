@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Greetings from Paul’s Fellow Workers
+type: Pericope
 pericope: "[[Col.4.7 Greetings from Paul’s Fellow Workers|Greetings from Paul’s Fellow Workers]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 4
 book/chapter: "[[Col.4|Colossians 4]]"
-genre:
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 8
 verses:
 - "[[Col.4.7]]"
 - "[[Col.4.8]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Col.4.14]]"
 ---
 
-[[Col.4|Colossians 4:7 - Colossians 4:14]]
+<small>[[Col.4|Colossians 4:7-14]]</small>
 *Greetings from Paul’s Fellow Workers*
 
 [[Col.4.7|7]] All my state shall Tychicus declare unto you, \[who is\] a beloved brother, and a faithful minister and fellowservant in the Lord:

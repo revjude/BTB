@@ -1,10 +1,60 @@
+---
+title: 1 Timothy 2:7
+type: Verse
+kjv: "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity."
+bsb: "For this reason I was appointed as a preacher, an apostle, and a faithful and true teacher of the Gentiles. I am telling the truth; I am not lying about anything."
+greek: "εἰς ὃ ἐτέθην ἐγὼ κῆρυξ καὶ ἀπόστολος, ἀλήθειαν λέγω ἐν Χριστῷ, οὐ ψεύδομαι, διδάσκαλος ἐθνῶν ἐν πίστει καὶ ἀληθείᾳ.¶"
+pericope: "[[1Tim.2.1 A Call to Prayer|A Call to Prayer]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 2
+book/chapter: "[[1Tim.2|1 Timothy 2]]"
+chronological_order: 1127
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic HERALD|HERALD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic TRUTH|TRUTH]]"
+strongs:
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G5087]]"
+- "[[G1473]]"
+- "[[G2783]]"
+- "[[G2532]]"
+- "[[G0652]]"
+- "[[G0225]]"
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G3756]]"
+- "[[G5574]]"
+- "[[G1320]]"
+- "[[G1484]]"
+- "[[G4102G]]"
+texts:
+- NKO
+- K
+---
+
 **1 Timothy 2:7**<big><big>[[1Tim.2.1 A Call to Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, [and] lie not;) a teacher of the Gentiles in faith and verity.
 <small><sub>**BSB:**</sub></small>
 For this reason I was appointed as a preacher, an apostle, and a faithful and true teacher of the Gentiles. I am telling the truth; I am not lying about anything.
-<small><sub>**Literal:**</sub></small>
-in regard to which was appointed I myself a herald and an apostle — [the] truth I am speaking in Christ not I do lie — a teacher of [the] Gentiles in faith and truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.6|<< 1 Timothy 2:6]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.8|1 Timothy 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1519\|εἰς]]  [[G3739\|ὃ]]  [[G5087\|ἐτέθην]]  [[G1473\|ἐγὼ]]  [[G2783\|κῆρυξ]]  [[G2532\|καὶ]]  [[G0652\|ἀπόστολος,]]  [[G0225\|ἀλήθειαν]]  [[G3004G\|λέγω]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ,]]  [[G3756\|οὐ]]  [[G5574\|ψεύδομαι,]]  [[G1320\|διδάσκαλος]]  [[G1484\|ἐθνῶν]]  [[G1722\|ἐν]]  [[G4102G\|πίστει]]  [[G2532\|καὶ]]  [[G0225\|ἀληθείᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HERALD|HERALD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic TRUTH|TRUTH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.2.6|<< 1 Timothy 2:6]]</td><td align="center" style="border:none;">[[1Tim.2|1 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.2.8|1 Timothy 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

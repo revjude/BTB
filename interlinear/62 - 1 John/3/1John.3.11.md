@@ -1,10 +1,56 @@
+---
+title: 1 John 3:11
+type: Verse
+kjv: "For this is the message that ye heard from the beginning, that we should love one another."
+bsb: "This is the message you have heard from the beginning: We should love one another."
+greek: "ὅτι αὕτη ἐστὶν ἡ ἀγγελία ἣν ἠκούσατε ἀπ᾽ ἀρχῆς ἵνα ἀγαπῶμεν ἀλλήλους·"
+pericope: "[[1John.3.11 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 3
+book/chapter: "[[1John.3|1 John 3]]"
+chronological_order: 1163
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3754H]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0031]]"
+- "[[G3739]]"
+- "[[G0191]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G2443]]"
+- "[[G0025]]"
+- "[[G0240]]"
+texts:
+- NKO
+---
+
 **1 John 3:11**<big><big>[[1John.3.11 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For this is the message that ye heard from the beginning, that we should love one another.
 <small><sub>**BSB:**</sub></small>
 This is the message you have heard from the beginning: We should love one another.
-<small><sub>**Literal:**</sub></small>
-For this is the message that you have heard from [the] beginning that we may love one another;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.10|<< 1 John 3:10]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.12|1 John 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G0031\|ἀγγελία]]  [[G3739\|ἣν]]  [[G0191\|ἠκούσατε]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς]]  [[G2443\|ἵνα]]  [[G0025\|ἀγαπῶμεν]]  [[G0240\|ἀλλήλους·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.3.10|<< 1 John 3:10]]</td><td align="center" style="border:none;">[[1John.3|1 John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.3.12|1 John 3:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,60 @@
+---
+title: Ezekiel 28:10
+type: Verse
+kjv: "Thou shalt die the deaths of the uncircumcised by the hand of strangers: for I have spoken it, saith the Lord GOD."
+bsb: "You will die the death of the uncircumcised at the hands of foreigners. For I have spoken, declares the Lord GOD.”"
+hebrew: "מוֹתֵ֧י עֲרֵלִ֛ים תָּמ֖וּת בְּיַד־ זָרִ֑ים כִּ֚י אֲנִ֣י דִבַּ֔רְתִּי נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ ס"
+pericope: "[[Ezek.28.1 A Prophecy against the Ruler of Tyre|A Prophecy against the Ruler of Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 28
+book/chapter: "[[Ezek.28|Ezekiel 28]]"
+chronological_order: 819
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic TYRE|TYRE]]"
+- "[[topic UNCIRCUMCISION|UNCIRCUMCISION]]"
+strongs:
+- "[[H4194]]"
+- "[[H6189]]"
+- "[[H4191]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9014]]"
+- "[[H2114A]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H1696G]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 28:10**<big><big>[[Ezek.28.1 A Prophecy against the Ruler of Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt die the deaths of the uncircumcised by the hand of strangers: for I have spoken [it], saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 You will die the death of the uncircumcised at the hands of foreigners. For I have spoken, declares the Lord GOD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4194\|מוֹתֵ֧י]] [[H6189\|עֲרֵלִ֛ים]] [[H4191\|תָּמ֖וּת]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H2114A\|זָרִ֑ים]] [[H3588A\|כִּ֚י]] [[H0589\|אֲנִ֣י]] [[H1696G\|דִבַּ֔רְתִּי]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic TYRE|TYRE]] • [[topic UNCIRCUMCISION|UNCIRCUMCISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.28.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.9|<< Ezekiel 28:9]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.11|Ezekiel 28:11 >>]]</td></tr></table>
 
@@ -18,7 +70,7 @@ You will die the death of the uncircumcised at the hands of foreigners. For I ha
 | I have spoken  |**<big>&#8207;[[H1696G\|דִבַּ֔רְתִּי]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.28.9|<< Ezekiel 28:9]]</td><td align="center" style="border:none;">[[Ezek.28|Ezekiel 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.28.11|Ezekiel 28:11 >>]]</td></tr></table>
 
 

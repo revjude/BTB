@@ -1,10 +1,58 @@
+---
+title: Hebrews 2:15
+type: Verse
+kjv: "And deliver them who through fear of death were all their lifetime subject to bondage."
+bsb: "and free those who all their lives were held in slavery by their fear of death."
+greek: "καὶ ἀπαλλάξῃ τούτους ὅσοι φόβῳ θανάτου διὰ παντὸς τοῦ ζῆν ἔνοχοι ἦσαν δουλείας."
+pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G0525]]"
+- "[[G3778]]"
+- "[[G3745]]"
+- "[[G5401]]"
+- "[[G2288]]"
+- "[[G1223]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2198]]"
+- "[[G1777]]"
+- "[[G1510]]"
+- "[[G1397]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:15**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And deliver them who through fear of death were all their lifetime subject to bondage.
 <small><sub>**BSB:**</sub></small>
 and free those who all their lives were held in slavery by their fear of death.
-<small><sub>**Literal:**</sub></small>
-and may set free those as many as fear of death through all [times] of them to live subject they were to slavery.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.14|<< Hebrews 2:14]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.16|Hebrews 2:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0525\|ἀπαλλάξῃ]]  [[G3778\|τούτους]]  [[G3745\|ὅσοι]]  [[G5401\|φόβῳ]]  [[G2288\|θανάτου]]  [[G1223\|διὰ]]  [[G3956\|παντὸς]]  [[G3588\|τοῦ]]  [[G2198\|ζῆν]]  [[G1777\|ἔνοχοι]]  [[G1510\|ἦσαν]]  [[G1397\|δουλείας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.14|<< Hebrews 2:14]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.16|Hebrews 2:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

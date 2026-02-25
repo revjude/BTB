@@ -1,8 +1,76 @@
+---
+title: 2 Kings 23:17
+type: Verse
+kjv: "Then he said, What title is that that I see? And the men of the city told him, It is the sepulchre of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Bethel."
+bsb: "Then the king asked, “What is this monument I see?” And the men of the city replied, “It is the tomb of the man of God who came from Judah and proclaimed these things that you have done to the altar of Bethel.”"
+hebrew: "וַיֹּ֕אמֶר מָ֚ה הַצִּיּ֣וּן הַלָּ֔ז אֲשֶׁ֖ר אֲנִ֣י רֹאֶ֑ה וַיֹּאמְר֨וּ אֵלָ֜יו אַנְשֵׁ֣י הָעִ֗יר הַקֶּ֤בֶר אִישׁ־ הָֽאֱלֹהִים֙ אֲשֶׁר־ בָּ֣א מִֽיהוּדָ֔ה וַיִּקְרָ֗א אֶת־ הַדְּבָרִ֤ים הָאֵ֙לֶּה֙ אֲשֶׁ֣ר עָשִׂ֔יתָ עַ֖ל הַמִּזְבַּ֥ח בֵּֽית־ אֵֽל׃"
+pericope: "[[2Kgs.23.4 Josiah Destroys Idolatry|Josiah Destroys Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic BURIAL|BURIAL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic INSCRIPTIONS|INSCRIPTIONS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H6725]]"
+- "[[H1975]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H7200G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0582]]"
+- "[[H5892B]]"
+- "[[H6913]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H3063G]]"
+- "[[H7121I]]"
+- "[[H0853]]"
+- "[[H1697I]]"
+- "[[H0428]]"
+- "[[H6213A]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H1008G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:17**<big><big>[[2Kgs.23.4 Josiah Destroys Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he said, What title [is] that that I see? And the men of the city told him, [It is] the sepulchre of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Bethel.
 <small><sub>**BSB:**</sub></small>
 Then the king asked, “What is this monument I see?” And the men of the city replied, “It is the tomb of the man of God who came from Judah and proclaimed these things that you have done to the altar of Bethel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H4100\|מָ֚ה]] [[H9009\|הַ]][[H6725\|צִּיּ֣וּן]] [[H1975\|הַלָּ֔ז]] [[H0834A\|אֲשֶׁ֖ר]] [[H0589\|אֲנִ֣י]] [[H7200G\|רֹאֶ֑ה]] [[H9001\|וַ]][[H0559\|יֹּאמְר֨וּ]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הָ]][[H5892B\|עִ֗יר]] [[H9009\|הַ]][[H6913\|קֶּ֤בֶר]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֣א]] [[H9006\|מִֽ]][[H3063G\|יהוּדָ֔ה]] [[H9001\|וַ]][[H7121I\|יִּקְרָ֗א]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֤ים]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשִׂ֔יתָ]] [[H5921A\|עַ֖ל]] [[H9009\|הַ]][[H4196\|מִּזְבַּ֥ח]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic BURIAL|BURIAL]] • [[topic CALF|CALF]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic INSCRIPTIONS|INSCRIPTIONS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOSIAH|JOSIAH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.16|<< 2 Kings 23:16]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.18|2 Kings 23:18 >>]]</td></tr></table>
 

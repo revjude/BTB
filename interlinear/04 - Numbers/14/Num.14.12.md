@@ -1,8 +1,65 @@
+---
+title: Numbers 14:12
+type: Verse
+kjv: "I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation and mightier than they."
+bsb: "I will strike them with a plague and destroy them—and I will make you into a nation greater and mightier than they are.”"
+hebrew: "אַכֶּ֥נּוּ בַדֶּ֖בֶר וְאוֹרִשֶׁ֑נּוּ וְאֶֽעֱשֶׂה֙ אֹֽתְךָ֔ לְגוֹי־ גָּד֥וֹל וְעָצ֖וּם מִמֶּֽנּוּ׃"
+pericope: "[[Num.14.1 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1698]]"
+- "[[H9002]]"
+- "[[H3423H]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H6099]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:12**<big><big>[[Num.14.1 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation and mightier than they.
 <small><sub>**BSB:**</sub></small>
 I will strike them with a plague and destroy them—and I will make you into a nation greater and mightier than they are.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5221\|אַכֶּ֥]][[H9033\|נּוּ]] [[H9003\|בַ]][[H1698\|דֶּ֖בֶר]] [[H9002\|וְ]][[H3423H\|אוֹרִשֶׁ֑]][[H9033\|נּוּ]] [[H9002\|וְ]][[H6213H\|אֶֽעֱשֶׂה֙]] [[H0853\|אֹֽתְ]][[H9031\|ךָ֔]] [[H9005\|לְ]][[H1471A\|גוֹי]][[H9014\|־]] [[H1419A\|גָּד֥וֹל]] [[H9002\|וְ]][[H6099\|עָצ֖וּם]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic COURAGE|COURAGE]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MOSES|MOSES]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.11|<< Numbers 14:11]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.13|Numbers 14:13 >>]]</td></tr></table>
 

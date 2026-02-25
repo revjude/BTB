@@ -1,10 +1,65 @@
+---
+title: 2 Corinthians 12:7
+type: Verse
+kjv: "And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure."
+bsb: "or because of these surpassingly great revelations. So to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me."
+greek: "καὶ τῇ ὑπερβολῇ τῶν ἀποκαλύψεων.¶ Διὸ ἵνα μὴ ὑπεραίρωμαι, ἐδόθη μοι σκόλοψ τῇ σαρκί, ἄγγελος σατανᾶ ἵνα με κολαφίζῃ ἵνα μὴ ὑπεραίρωμαι."
+pericope: "[[2Cor.12.5 Paul’s Thorn and God’s Grace|Paul’s Thorn and God’s Grace]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 12
+book/chapter: "[[2Cor.12|2 Corinthians 12]]"
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MESSENGER|MESSENGER]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic THORN|THORN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5236]]"
+- "[[G0602]]"
+- "[[G1352]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G5229]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G4647]]"
+- "[[G4561]]"
+- "[[G0032H]]"
+- "[[G4567]]"
+- "[[G2852]]"
+texts:
+- NKO
+- NO
+---
+
 **2 Corinthians 12:7**<big><big>[[2Cor.12.5 Paul’s Thorn and God’s Grace|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And lest I should be exalted above measure through the abundance of the revelations, there was given to me a thorn in the flesh, the messenger of Satan to buffet me, lest I should be exalted above measure.
 <small><sub>**BSB:**</sub></small>
 or because of these surpassingly great revelations. So to keep me from becoming conceited, I was given a thorn in my flesh, a messenger of Satan, to torment me.
-<small><sub>**Literal:**</sub></small>
-and the by surpassingness of the revelations. Therefore that not I may become conceited, was given to me a thorn <the> in [my] flesh, a messenger of Satan that me he may buffet so that not I may become conceited.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.6|<< 2 Corinthians 12:6]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.8|2 Corinthians 12:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G5236\|ὑπερβολῇ]]  [[G3588\|τῶν]]  [[G0602\|ἀποκαλύψεων.¶]]  [[G1352\|Διὸ]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G5229\|ὑπεραίρωμαι,]]  [[G1325\|ἐδόθη]]  [[G3165\|μοι]]  [[G4647\|σκόλοψ]]  [[G3588\|τῇ]]  [[G4561\|σαρκί,]]  [[G0032H\|ἄγγελος]]  [[G4567\|σατανᾶ]]  [[G2443\|ἵνα]]  [[G3165\|με]]  [[G2852\|κολαφίζῃ]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G5229\|ὑπεραίρωμαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HUMILITY|HUMILITY]] • [[topic MESSENGER|MESSENGER]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRIDE|PRIDE]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic THORN|THORN]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.6|<< 2 Corinthians 12:6]]</td><td align="center" style="border:none;">[[2Cor.12|2 Corinthians 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.12.8|2 Corinthians 12:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 8:13
+type: Verse
+kjv: "And when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;"
+bsb: "and when your herds and flocks grow large and your silver and gold increase and all that you have is multiplied,"
+hebrew: "וּבְקָֽרְךָ֤ וְצֹֽאנְךָ֙ יִרְבְּיֻ֔ן וְכֶ֥סֶף וְזָהָ֖ב יִרְבֶּה־ לָּ֑ךְ וְכֹ֥ל אֲשֶׁר־ לְךָ֖ יִרְבֶּֽה׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PROSPERITY|PROSPERITY]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H1241]]"
+- "[[H9021]]"
+- "[[H6629G]]"
+- "[[H7235A]]"
+- "[[H9013]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:13**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [when] thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;
 <small><sub>**BSB:**</sub></small>
 and when your herds and flocks grow large and your silver and gold increase and all that you have is multiplied,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1241\|בְקָֽרְ]][[H9021\|ךָ֤]] [[H9002\|וְ]][[H6629G\|צֹֽאנְ]][[H9021\|ךָ֙]] [[H7235A\|יִרְבְּיֻ֔]][[H9013\|ן]] [[H9002\|וְ]][[H3701G\|כֶ֥סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֖ב]] [[H7235A\|יִרְבֶּה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9031\|ךְ]] [[H9002\|וְ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H7235A\|יִרְבֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic FORGETTING GOD|FORGETTING GOD]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PRIDE|PRIDE]] • [[topic PROSPERITY|PROSPERITY]] • [[topic RICHES|RICHES]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.12|<< Deuteronomy 8:12]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.14|Deuteronomy 8:14 >>]]</td></tr></table>
 

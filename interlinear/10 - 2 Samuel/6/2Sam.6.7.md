@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 6:7
+type: Verse
+kjv: "And the anger of the LORD was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God."
+bsb: "And the anger of the LORD burned against Uzzah, and God struck him down on the spot for his irreverence, and he died there beside the ark of God."
+hebrew: "וַיִּֽחַר־ אַ֤ף יְהוָה֙ בְּעֻזָּ֔ה וַיַּכֵּ֥הוּ שָׁ֛ם הָאֱלֹהִ֖ים עַל־ הַשַּׁ֑ל וַיָּ֣מָת שָׁ֔ם עִ֖ם אֲר֥וֹן הָאֱלֹהִֽים׃"
+pericope: "[[2Sam.6.5 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic NACHON|NACHON]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic UZZAH|UZZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5798A]]"
+- "[[H5221]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5921A]]"
+- "[[H7944]]"
+- "[[H4191]]"
+- "[[H5973A]]"
+- "[[H0727]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:7**<big><big>[[2Sam.6.5 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the anger of the LORD was kindled against Uzzah; and God smote him there for [his] error; and there he died by the ark of God.
 <small><sub>**BSB:**</sub></small>
 And the anger of the LORD burned against Uzzah, and God struck him down on the spot for his irreverence, and he died there beside the ark of God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֤ף]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H5798A\|עֻזָּ֔ה]] [[H9001\|וַ]][[H5221\|יַּכֵּ֥]][[H9033\|הוּ]] [[H8033G\|שָׁ֛ם]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7944\|שַּׁ֑ל]] [[H9001\|וַ]][[H4191\|יָּ֣מָת]] [[H8033G\|שָׁ֔ם]] [[H5973A\|עִ֖ם]] [[H0727\|אֲר֥וֹן]] [[H9009\|הָ]][[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic MIRACLES|MIRACLES]] • [[topic NACHON|NACHON]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RASHNESS|RASHNESS]] • [[topic SACRILEGE|SACRILEGE]] • [[topic UZZAH|UZZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.6|<< 2 Samuel 6:6]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.8|2 Samuel 6:8 >>]]</td></tr></table>
 

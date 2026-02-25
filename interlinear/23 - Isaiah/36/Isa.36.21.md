@@ -1,8 +1,59 @@
+---
+title: Isaiah 36:21
+type: Verse
+kjv: "But they held their peace, and answered him not a word: for the king’s commandment was, saying, Answer him not."
+bsb: "But the people remained silent and did not answer a word, for Hezekiah had commanded, “Do not answer him.”"
+hebrew: "וַֽיַּחֲרִ֔ישׁוּ וְלֹֽא־ עָנ֥וּ אֹת֖וֹ דָּבָ֑ר כִּֽי־ מִצְוַ֨ת הַמֶּ֥לֶךְ הִ֛יא לֵאמֹ֖ר לֹ֥א תַעֲנֻֽהוּ׃"
+pericope: "[[Isa.36.1 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 36
+book/chapter: "[[Isa.36|Isaiah 36]]"
+chronological_order: 663
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2790B]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H1697G]]"
+- "[[H3588A]]"
+- "[[H4687]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 36:21**<big><big>[[Isa.36.1 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they held their peace, and answered him not a word: for the king’s commandment was, saying, Answer him not.
 <small><sub>**BSB:**</sub></small>
 But the people remained silent and did not answer a word, for Hezekiah had commanded, “Do not answer him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H2790B\|יַּחֲרִ֔ישׁוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H6030B\|עָנ֥וּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H1697G\|דָּבָ֑ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4687\|מִצְוַ֨ת]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H1931\|הִ֛יא]] [[H9005\|לֵ]][[H0559\|אמֹ֖ר]] [[H3808\|לֹ֥א]] [[H6030B\|תַעֲנֻֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic DIPLOMACY|DIPLOMACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.36.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.36.20|<< Isaiah 36:20]]</td><td align="center" style="border:none;">[[Isa.36|Isaiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.36.22|Isaiah 36:22 >>]]</td></tr></table>
 

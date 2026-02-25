@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 31:3
+type: Verse
+kjv: "The LORD thy God, he will go over before thee, and he will destroy these nations from before thee, and thou shalt possess them: and Joshua, he shall go over before thee, as the LORD hath said."
+bsb: "The LORD your God Himself will cross over ahead of you. He will destroy these nations before you, and you will dispossess them. Joshua will cross ahead of you, as the LORD has said."
+hebrew: "יְהוָ֨ה אֱלֹהֶ֜יךָ ה֣וּא׀ עֹבֵ֣ר לְפָנֶ֗יךָ הֽוּא־ יַשְׁמִ֞יד אֶת־ הַגּוֹיִ֥ם הָאֵ֛לֶּה מִלְּפָנֶ֖יךָ וִֽירִשְׁתָּ֑ם יְהוֹשֻׁ֗עַ ה֚וּא עֹבֵ֣ר לְפָנֶ֔יךָ כַּאֲשֶׁ֖ר דִּבֶּ֥ר יְהוָֽה׃"
+pericope: "[[Deut.31.1 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSHUA|JOSHUA]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1931]]"
+- "[[H9015]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9014]]"
+- "[[H8045]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H9006]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H9038]]"
+- "[[H3091G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:3**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD thy God, he will go over before thee, [and] he will destroy these nations from before thee, and thou shalt possess them: [and] Joshua, he shall go over before thee, as the LORD hath said.
 <small><sub>**BSB:**</sub></small>
 The LORD your God Himself will cross over ahead of you. He will destroy these nations before you, and you will dispossess them. Joshua will cross ahead of you, as the LORD has said.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H1931\|ה֣וּא]][[H9015\|׀]] [[H5674A\|עֹבֵ֣ר]] [[H9005\|לְ]][[H6440G\|פָנֶ֗י]][[H9021\|ךָ]] [[H1931\|הֽוּא]][[H9014\|־]] [[H8045\|יַשְׁמִ֞יד]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֥ם]] [[H9009\|הָ]][[H0428\|אֵ֛לֶּה]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנֶ֖י]][[H9021\|ךָ]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתָּ֑]][[H9038\|ם]] [[H3091G\|יְהוֹשֻׁ֗עַ]] [[H1931\|ה֚וּא]] [[H5674A\|עֹבֵ֣ר]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1696G\|דִּבֶּ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic GOD|GOD]] • [[topic JOSHUA|JOSHUA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.2|<< Deuteronomy 31:2]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.4|Deuteronomy 31:4 >>]]</td></tr></table>
 

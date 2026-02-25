@@ -1,8 +1,57 @@
+---
+title: 2 Kings 17:38
+type: Verse
+kjv: "And the covenant that I have made with you ye shall not forget; neither shall ye fear other gods."
+bsb: "Do not forget the covenant I have made with you. Do not worship other gods,"
+hebrew: "וְהַבְּרִ֛ית אֲשֶׁר־ כָּרַ֥תִּי אִתְּכֶ֖ם לֹ֣א תִשְׁכָּ֑חוּ וְלֹ֥א תִֽירְא֖וּ אֱלֹהִ֥ים אֲחֵרִֽים׃"
+pericope: "[[2Kgs.17.24 Samaria Resettled|Samaria Resettled]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1285]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3772H]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H3808]]"
+- "[[H7911]]"
+- "[[H3372G]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:38**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the covenant that I have made with you ye shall not forget; neither shall ye fear other gods.
 <small><sub>**BSB:**</sub></small>
 Do not forget the covenant I have made with you. Do not worship other gods,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1285\|בְּרִ֛ית]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3772H\|כָּרַ֥תִּי]] [[H0854\|אִתְּ]][[H9036\|כֶ֖ם]] [[H3808\|לֹ֣א]] [[H7911\|תִשְׁכָּ֑חוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3372G\|תִֽירְא֖וּ]] [[H0430\|אֱלֹהִ֥ים]] [[H0312\|אֲחֵרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGETTING GOD|FORGETTING GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.37|<< 2 Kings 17:37]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.39|2 Kings 17:39 >>]]</td></tr></table>
 

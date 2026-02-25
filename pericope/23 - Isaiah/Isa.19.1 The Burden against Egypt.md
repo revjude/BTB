@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Burden against Egypt
+type: Pericope
 pericope: "[[Isa.19.1 The Burden against Egypt|The Burden against Egypt]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 19
 book/chapter: "[[Isa.19|Isaiah 19]]"
-genre:
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 15
 verses:
 - "[[Isa.19.1]]"
 - "[[Isa.19.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Isa.19.15]]"
 ---
 
-[[Isa.19|Isaiah 19:1 - Isaiah 19:15]]
+<small>[[Isa.19|Isaiah 19:1-15]]</small>
 *The Burden against Egypt*
 
 [[Isa.19.1|1]] The burden of Egypt. Behold, the LORD rideth upon a swift cloud, and shall come into Egypt: and the idols of Egypt shall be moved at his presence, and the heart of Egypt shall melt in the midst of it.

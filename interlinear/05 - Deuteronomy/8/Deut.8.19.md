@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 8:19
+type: Verse
+kjv: "And it shall be, if thou do at all forget the LORD thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish."
+bsb: "If you ever forget the LORD your God and go after other gods to worship and bow down to them, I testify against you today that you will surely perish."
+hebrew: "וְהָיָ֗ה אִם־ שָׁכֹ֤חַ תִּשְׁכַּח֙ אֶת־ יְהוָ֣ה אֱלֹהֶ֔יךָ וְהָֽלַכְתָּ֗ אַחֲרֵי֙ אֱלֹהִ֣ים אֲחֵרִ֔ים וַעֲבַדְתָּ֖ם וְהִשְׁתַּחֲוִ֣יתָ לָהֶ֑ם הַעִדֹ֤תִי בָכֶם֙ הַיּ֔וֹם כִּ֥י אָבֹ֖ד תֹּאבֵדֽוּן׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7911]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H5647H]]"
+- "[[H9038]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H5749B]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H3588A]]"
+- "[[H0006]]"
+- "[[H9013]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:19**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, if thou do at all forget the LORD thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish.
 <small><sub>**BSB:**</sub></small>
 If you ever forget the LORD your God and go after other gods to worship and bow down to them, I testify against you today that you will surely perish.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H0518A\|אִם]][[H9014\|־]] [[H7911\|שָׁכֹ֤חַ]] [[H7911\|תִּשְׁכַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9001\|וְ]][[H1980N\|הָֽלַכְתָּ֗]] [[H0310A\|אַחֲרֵי֙]] [[H0430\|אֱלֹהִ֣ים]] [[H0312\|אֲחֵרִ֔ים]] [[H9001\|וַ]][[H5647H\|עֲבַדְתָּ֖]][[H9038\|ם]] [[H9001\|וְ]][[H7812\|הִשְׁתַּחֲוִ֣יתָ]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H5749B\|הַעִדֹ֤תִי]] [[H9003\|בָ]][[H9036\|כֶם֙]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H3588A\|כִּ֥י]] [[H0006\|אָבֹ֖ד]] [[H0006\|תֹּאבֵדֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBEDIENCE|OBEDIENCE]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.18|<< Deuteronomy 8:18]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.20|Deuteronomy 8:20 >>]]</td></tr></table>
 

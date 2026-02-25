@@ -1,8 +1,65 @@
+---
+title: Numbers 1:44
+type: Verse
+kjv: "These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers."
+bsb: "These were the men numbered by Moses and Aaron, with the assistance of the twelve leaders of Israel, each one representing his family."
+hebrew: "אֵ֣לֶּה הַפְּקֻדִ֡ים אֲשֶׁר֩ פָּקַ֨ד מֹשֶׁ֤ה וְאַהֲרֹן֙ וּנְשִׂיאֵ֣י יִשְׂרָאֵ֔ל שְׁנֵ֥ים עָשָׂ֖ר אִ֑ישׁ אִישׁ־ אֶחָ֥ד לְבֵית־ אֲבֹתָ֖יו הָיֽוּ׃"
+pericope: "[[Num.1.17 The Number of Every Tribe|The Number of Every Tribe]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H6485A]]"
+- "[[H0834A]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H5387A]]"
+- "[[H3478]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:44**<big><big>[[Num.1.17 The Number of Every Tribe|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] those that were numbered, which Moses and Aaron numbered, and the princes of Israel, [being] twelve men: each one was for the house of his fathers.
 <small><sub>**BSB:**</sub></small>
 These were the men numbered by Moses and Aaron, with the assistance of the twelve leaders of Israel, each one representing his family.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H9009\|הַ]][[H6485A\|פְּקֻדִ֡ים]] [[H0834A\|אֲשֶׁר֩]] [[H6485A\|פָּקַ֨ד]] [[H4872\|מֹשֶׁ֤ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹן֙]] [[H9002\|וּ]][[H5387A\|נְשִׂיאֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H8147\|שְׁנֵ֥ים]] [[H6240\|עָשָׂ֖ר]] [[H0376G\|אִ֑ישׁ]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H0259\|אֶחָ֥ד]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אֲבֹתָ֖י]][[H9023\|ו]] [[H1961\|הָיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.43|<< Numbers 1:43]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.45|Numbers 1:45 >>]]</td></tr></table>
 

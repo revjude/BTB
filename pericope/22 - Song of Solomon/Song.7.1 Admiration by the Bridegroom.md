@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Admiration by the Bridegroom
+type: Pericope
 pericope: "[[Song.7.1 Admiration by the Bridegroom|Admiration by the Bridegroom]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 7
 book/chapter: "[[Song.7|Song of Solomon 7]]"
-genre:
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 9
 verses:
 - "[[Song.7.1]]"
 - "[[Song.7.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Song.7.9]]"
 ---
 
-[[Song.7|Song of Solomon 7:1 - Song of Solomon 7:9]]
+<small>[[Song.7|Song of Solomon 7:1-9]]</small>
 *Admiration by the Bridegroom*
 
 [[Song.7.1|1]] How beautiful are thy feet with shoes, O prince’s daughter! the joints of thy thighs \[are\] like jewels, the work of the hands of a cunning workman.

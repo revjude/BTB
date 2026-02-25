@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Lands Yet Unconquered
+type: Pericope
 pericope: "[[Josh.13.1 Lands Yet Unconquered|Lands Yet Unconquered]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 13
 book/chapter: "[[Josh.13|Joshua 13]]"
-genre:
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 7
 verses:
 - "[[Josh.13.1]]"
 - "[[Josh.13.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Josh.13.7]]"
 ---
 
-[[Josh.13|Joshua 13:1 - Joshua 13:7]]
+<small>[[Josh.13|Joshua 13:1-7]]</small>
 *Lands Yet Unconquered*
 
 [[Josh.13.1|1]] Now Joshua was old \[and\] stricken in years; and the LORD said unto him, Thou art old \[and\] stricken in years, and there remaineth yet very much land to be possessed.

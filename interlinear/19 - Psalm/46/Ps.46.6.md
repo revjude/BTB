@@ -1,8 +1,54 @@
+---
+title: Psalm 46:6
+type: Verse
+kjv: "The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted."
+bsb: "Nations rage, kingdoms crumble; the earth melts when He lifts His voice."
+hebrew: "הָמ֣וּ ג֭וֹיִם מָ֣טוּ מַמְלָכ֑וֹת נָתַ֥ן בְּ֝קוֹל֗וֹ תָּמ֥וּג אָֽרֶץ׃"
+pericope: "[[Ps.46.1 God Is Our Refuge and Strength|God Is Our Refuge and Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 46
+book/chapter: "[[Ps.46|Psalm 46]]"
+chronological_order: 501
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H1993]]"
+- "[[H1471A]]"
+- "[[H4131]]"
+- "[[H4467]]"
+- "[[H5414M]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H4127]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 46:6**<big><big>[[Ps.46.1 God Is Our Refuge and Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.
 <small><sub>**BSB:**</sub></small>
 Nations rage, kingdoms crumble; the earth melts when He lifts His voice.
+<small><sub>**Hebrew:**</sub></small>
+[[H1993\|הָמ֣וּ]] [[H1471A\|ג֭וֹיִם]] [[H4131\|מָ֣טוּ]] [[H4467\|מַמְלָכ֑וֹת]] [[H5414M\|נָתַ֥ן]] [[H9003\|בְּ֝]][[H6963A\|קוֹל֗]][[H9023\|וֹ]] [[H4127\|תָּמ֥וּג]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.46.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.46.5|<< Psalms 46:5]]</td><td align="center" style="border:none;">[[Ps.46|Psalms 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.46.7|Psalms 46:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

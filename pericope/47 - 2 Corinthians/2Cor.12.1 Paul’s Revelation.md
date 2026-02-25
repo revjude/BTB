@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul’s Revelation
+type: Pericope
 pericope: "[[2Cor.12.1 Paul’s Revelation|Paul’s Revelation]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 12
 book/chapter: "[[2Cor.12|2 Corinthians 12]]"
-genre:
+chronological_order: 1085
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 4
 verses:
 - "[[2Cor.12.1]]"
 - "[[2Cor.12.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Cor.12.4]]"
 ---
 
-[[2Cor.12|2 Corinthians 12:1 - 2 Corinthians 12:4]]
+<small>[[2Cor.12|2 Corinthians 12:1-4]]</small>
 *Paul’s Revelation*
 
 [[2Cor.12.1|1]] It is not expedient for me doubtless to glory. I will come to visions and revelations of the Lord.

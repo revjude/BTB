@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 18:10
+type: Verse
+kjv: "There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch,"
+bsb: "Let no one be found among you who sacrifices his son or daughter in the fire, practices divination or conjury, interprets omens, practices sorcery,"
+hebrew: "לֹֽא־ יִמָּצֵ֣א בְךָ֔ מַעֲבִ֥יר בְּנֽוֹ־ וּבִתּ֖וֹ בָּאֵ֑שׁ קֹסֵ֣ם קְסָמִ֔ים מְעוֹנֵ֥ן וּמְנַחֵ֖שׁ וּמְכַשֵּֽׁף׃"
+pericope: "[[Deut.18.9 Sorcery Forbidden|Sorcery Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 18
+book/chapter: "[[Deut.18|Deuteronomy 18]]"
+chronological_order: 214
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H5674A]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H0784]]"
+- "[[H7080]]"
+- "[[H7081]]"
+- "[[H6049B]]"
+- "[[H5172]]"
+- "[[H3784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 18:10**<big><big>[[Deut.18.9 Sorcery Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall not be found among you [any one] that maketh his son or his daughter to pass through the fire, [or] that useth divination, [or] an observer of times, or an enchanter, or a witch,
 <small><sub>**BSB:**</sub></small>
 Let no one be found among you who sacrifices his son or daughter in the fire, practices divination or conjury, interprets omens, practices sorcery,
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H4672\|יִמָּצֵ֣א]] [[H9003\|בְ]][[H9031\|ךָ֔]] [[H5674A\|מַעֲבִ֥יר]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9014\|־]] [[H9002\|וּ]][[H1323G\|בִתּ֖]][[H9023\|וֹ]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H7080\|קֹסֵ֣ם]] [[H7081\|קְסָמִ֔ים]] [[H6049B\|מְעוֹנֵ֥ן]] [[H9002\|וּ]][[H5172\|מְנַחֵ֖שׁ]] [[H9002\|וּ]][[H3784\|מְכַשֵּֽׁף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.9|<< Deuteronomy 18:9]]</td><td align="center" style="border:none;">[[Deut.18|Deuteronomy 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.18.11|Deuteronomy 18:11 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Acts 12:25
+type: Verse
+kjv: "And Barnabas and Saul returned from Jerusalem, when they had fulfilled their ministry, and took with them John, whose surname was Mark."
+bsb: "When Barnabas and Saul had fulfilled their mission to Jerusalem, they returned, bringing with them John, also called Mark."
+greek: "Βαρναβᾶς δὲ καὶ Σαῦλος ὑπέστρεψαν εἰς Ἰερουσαλὴμ πληρώσαντες τὴν διακονίαν, συμπαραλαβόντες καὶ Ἰωάννην τὸν ἐπικληθέντα Μᾶρκον.¶"
+pericope: "[[Acts.12.20 The Death of Herod|The Death of Herod]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic MARK|MARK]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G0921G]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G4569G]]"
+- "[[G5290]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G1248]]"
+- "[[G4838]]"
+- "[[G2491]]"
+- "[[G1941]]"
+- "[[G3138]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Acts 12:25**<big><big>[[Acts.12.20 The Death of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Barnabas and Saul returned from Jerusalem, when they had fulfilled [their] ministry, and took with them John, whose surname was Mark.
 <small><sub>**BSB:**</sub></small>
 When Barnabas and Saul had fulfilled their mission to Jerusalem, they returned, bringing with them John, also called Mark.
-<small><sub>**Literal:**</sub></small>
-Barnabas then and Saul returned to Jerusalem having fulfilled the mission, having taken with [them] and John the [one] having been called Mark.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.24|<< Acts 12:24]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.1|Acts 13:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0921G\|Βαρναβᾶς]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G4569G\|Σαῦλος]]  [[G5290\|ὑπέστρεψαν]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G4137\|πληρώσαντες]]  [[G3588\|τὴν]]  [[G1248\|διακονίαν,]]  [[G4838\|συμπαραλαβόντες]]  [[G2532\|καὶ]]  [[G2491\|Ἰωάννην]]  [[G3588\|τὸν]]  [[G1941\|ἐπικληθέντα]]  [[G3138\|Μᾶρκον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic MARK|MARK]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.24|<< Acts 12:24]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.1|Acts 13:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

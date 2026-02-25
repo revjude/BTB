@@ -1,8 +1,61 @@
+---
+title: Ezekiel 30:8
+type: Verse
+kjv: "And they shall know that I am the LORD, when I have set a fire in Egypt, and when all her helpers shall be destroyed."
+bsb: "Then they will know that I am the LORD when I set fire to Egypt and all her helpers are shattered."
+hebrew: "וְיָדְע֖וּ כִּֽי־ אֲנִ֣י יְהוָ֑ה בְּתִתִּי־ אֵ֣שׁ בְּמִצְרַ֔יִם וְנִשְׁבְּר֖וּ כָּל־ עֹזְרֶֽיהָ׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5414H]]"
+- "[[H9040]]"
+- "[[H0784]]"
+- "[[H4714G]]"
+- "[[H7665]]"
+- "[[H3605]]"
+- "[[H5826]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:8**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall know that I [am] the LORD, when I have set a fire in Egypt, and [when] all her helpers shall be destroyed.
 <small><sub>**BSB:**</sub></small>
 Then they will know that I am the LORD when I set fire to Egypt and all her helpers are shattered.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3045\|יָדְע֖וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בְּ]][[H5414H\|תִתִּ]][[H9040\|י]][[H9014\|־]] [[H0784\|אֵ֣שׁ]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֔יִם]] [[H9001\|וְ]][[H7665\|נִשְׁבְּר֖וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H5826\|עֹזְרֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.7|<< Ezekiel 30:7]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.9|Ezekiel 30:9 >>]]</td></tr></table>
 

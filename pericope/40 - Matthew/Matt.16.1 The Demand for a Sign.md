@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Demand for a Sign
+type: Pericope
 pericope: "[[Matt.16.1 The Demand for a Sign|The Demand for a Sign]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 16
 book/chapter: "[[Matt.16|Matthew 16]]"
-genre:
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Matt.16.1]]"
 - "[[Matt.16.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Matt.16.4]]"
 ---
 
-[[Matt.16|Matthew 16:1 - Matthew 16:4]]
+<small>[[Matt.16|Matthew 16:1-4]]</small>
 *The Demand for a Sign*
 
 [[Matt.16.1|1]] The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.

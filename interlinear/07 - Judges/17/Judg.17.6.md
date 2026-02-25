@@ -1,8 +1,54 @@
+---
+title: Judges 17:6
+type: Verse
+kjv: "In those days there was no king in Israel, but every man did that which was right in his own eyes."
+bsb: "In those days there was no king in Israel; everyone did what was right in his own eyes."
+hebrew: "בַּיָּמִ֣ים הָהֵ֔ם אֵ֥ין מֶ֖לֶךְ בְּיִשְׂרָאֵ֑ל אִ֛ישׁ הַיָּשָׁ֥ר בְּעֵינָ֖יו יַעֲשֶֽׂה׃ פ"
+pericope: "[[Judg.17.1 Micah’s Idolatry|Micah’s Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 17
+book/chapter: "[[Judg.17|Judges 17]]"
+chronological_order: 271
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic LIBERTY|LIBERTY]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H0369]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H0376I]]"
+- "[[H3477G]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Judges 17:6**<big><big>[[Judg.17.1 Micah’s Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days [there was] no king in Israel, [but] every man did [that which was] right in his own eyes.
 <small><sub>**BSB:**</sub></small>
 In those days there was no king in Israel; everyone did what was right in his own eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H0369\|אֵ֥ין]] [[H4428G\|מֶ֖לֶךְ]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H0376I\|אִ֛ישׁ]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֥ר]] [[H9003\|בְּ]][[H5869A\|עֵינָ֖י]][[H9023\|ו]] [[H6213A\|יַעֲשֶֽׂה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERTY|LIBERTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.17.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.5|<< Judges 17:5]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.7|Judges 17:7 >>]]</td></tr></table>
 
@@ -16,7 +62,7 @@ In those days there was no king in Israel; everyone did what was right in his ow
 | everyone  |**<big>&#8207;[[H0376I\|אִ֛ישׁ]]&#8207; </big>**| 'ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the right  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3477G\|יָּשָׁ֥ר]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> ya.Shar<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in view his  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H5869A\|עֵינָ֖י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> 'ei.Na<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he did  |**<big>&#8207;[[H6213A\|יַעֲשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he did  |**<big>&#8207;[[H6213A\|יַעֲשֶֽׂה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ya.'a.Seh<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.17.5|<< Judges 17:5]]</td><td align="center" style="border:none;">[[Judg.17|Judges 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.17.7|Judges 17:7 >>]]</td></tr></table>
 
 

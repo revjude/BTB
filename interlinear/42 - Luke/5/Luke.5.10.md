@@ -1,10 +1,69 @@
+---
+title: Luke 5:10
+type: Verse
+kjv: "And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men."
+bsb: "and so were his partners James and John, the sons of Zebedee. “Do not be afraid,” Jesus said to Simon. “From now on you will catch men.”"
+jesus_said: "Fear not; from henceforth thou shalt catch men."
+greek: "ὁμοίως δὲ καὶ Ἰάκωβον καὶ Ἰωάννην υἱοὺς Ζεβεδαίου, οἳ ἦσαν κοινωνοὶ τῷ Σίμωνι. καὶ εἶπεν πρὸς τὸν Σίμωνα ὁ Ἰησοῦς· μὴ φοβοῦ· ἀπὸ τοῦ νῦν ἀνθρώπους ἔσῃ ζωγρῶν."
+pericope: "[[Luke.5.1 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3668]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G2385G]]"
+- "[[G2491H]]"
+- "[[G5207]]"
+- "[[G2199G]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G2844]]"
+- "[[G3588]]"
+- "[[G4613O]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G2424G]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G0575]]"
+- "[[G3568]]"
+- "[[G0444]]"
+- "[[G2221]]"
+texts:
+- NKO
+---
+
 **Luke 5:10**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And so [was] also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men.
 <small><sub>**BSB:**</sub></small>
 and so were his partners James and John, the sons of Zebedee. “Do not be afraid,” Jesus said to Simon. “From now on you will catch men.”
-<small><sub>**Literal:**</sub></small>
-likewise now also James and John [the] sons of Zebedee, who were partners <the> with Simon. And said to <the> Simon <the> Jesus; Not do fear; from <the> now on men you will be catching.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.9|<< Luke 5:9]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.11|Luke 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3668\|ὁμοίως]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G2385G\|Ἰάκωβον]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννην]]  [[G5207\|υἱοὺς]]  [[G2199G\|Ζεβεδαίου,]]  [[G3739\|οἳ]]  [[G1510\|ἦσαν]]  [[G2844\|κοινωνοὶ]]  [[G3588\|τῷ]]  [[G4613O\|Σίμωνι.]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G4613O\|Σίμωνα]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3361\|μὴ]]  [[G5399\|φοβοῦ·]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G3568\|νῦν]]  [[G0444\|ἀνθρώπους]]  [[G1510\|ἔσῃ]]  [[G2221\|ζωγρῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic GALILEE|GALILEE]] • [[topic JAMES|JAMES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.9|<< Luke 5:9]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.11|Luke 5:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

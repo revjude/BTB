@@ -1,8 +1,60 @@
+---
+title: Jeremiah 5:27
+type: Verse
+kjv: "As a cage is full of birds, so are their houses full of deceit: therefore they are become great, and waxen rich."
+bsb: "Like cages full of birds, so their houses are full of deceit. Therefore they have become powerful and rich."
+hebrew: "כִּכְלוּב֙ מָ֣לֵא ע֔וֹף כֵּ֥ן בָּתֵּיהֶ֖ם מְלֵאִ֣ים מִרְמָ֑ה עַל־ כֵּ֥ן גָּדְל֖וּ וַֽיַּעֲשִֽׁירוּ׃"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CAGE|CAGE]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9004]]"
+- "[[H3619]]"
+- "[[H4392]]"
+- "[[H5775]]"
+- "[[H3651C]]"
+- "[[H1004B]]"
+- "[[H9028]]"
+- "[[H4820]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1431]]"
+- "[[H9001]]"
+- "[[H6238]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:27**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As a cage is full of birds, so [are] their houses full of deceit: therefore they are become great, and waxen rich.
 <small><sub>**BSB:**</sub></small>
 Like cages full of birds, so their houses are full of deceit. Therefore they have become powerful and rich.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H3619\|כְלוּב֙]] [[H4392\|מָ֣לֵא]] [[H5775\|ע֔וֹף]] [[H3651C\|כֵּ֥ן]] [[H1004B\|בָּתֵּי]][[H9028\|הֶ֖ם]] [[H4392\|מְלֵאִ֣ים]] [[H4820\|מִרְמָ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֥ן]] [[H1431\|גָּדְל֖וּ]] [[H9001\|וַֽ]][[H6238\|יַּעֲשִֽׁירוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CAGE|CAGE]] • [[topic DECEIT|DECEIT]] • [[topic RICH, THE|RICH, THE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.26|<< Jeremiah 5:26]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.28|Jeremiah 5:28 >>]]</td></tr></table>
 

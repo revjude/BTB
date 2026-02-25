@@ -1,8 +1,52 @@
+---
+title: Song of Solomon 6:4
+type: Verse
+kjv: "Thou art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners."
+bsb: "You are as beautiful, my darling, as Tirzah, as lovely as Jerusalem, as majestic as troops with banners."
+hebrew: "יָפָ֨ה אַ֤תְּ רַעְיָתִי֙ כְּתִרְצָ֔ה נָאוָ֖ה כִּירוּשָׁלִָ֑ם אֲיֻמָּ֖ה כַּנִּדְגָּלֽוֹת׃"
+pericope: "[[Song.6.4 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 6
+book/chapter: "[[Song.6|Song of Solomon 6]]"
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic STANDARD|STANDARD]]"
+- "[[topic TIRZAH|TIRZAH]]"
+strongs:
+- "[[H3303]]"
+- "[[H0859C]]"
+- "[[H7474]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H8656H]]"
+- "[[H5000]]"
+- "[[H3389]]"
+- "[[H0366]]"
+- "[[H1713B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 6:4**<big><big>[[Song.6.4 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou [art] beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as [an army] with banners.
 <small><sub>**BSB:**</sub></small>
 You are as beautiful, my darling, as Tirzah, as lovely as Jerusalem, as majestic as troops with banners.
+<small><sub>**Hebrew:**</sub></small>
+[[H3303\|יָפָ֨ה]] [[H0859C\|אַ֤תְּ]] [[H7474\|רַעְיָתִ]][[H9020\|י֙]] [[H9004\|כְּ]][[H8656H\|תִרְצָ֔ה]] [[H5000\|נָאוָ֖ה]] [[H9004\|כִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H0366\|אֲיֻמָּ֖ה]] [[H9004\|כַּ]][[H1713B\|נִּדְגָּלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic STANDARD|STANDARD]] • [[topic TIRZAH|TIRZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.3|<< Song of Solomon 6:3]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.5|Song of Solomon 6:5 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Offerings for Priests and Levites
+type: Pericope
 pericope: "[[Num.18.8 Offerings for Priests and Levites|Offerings for Priests and Levites]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 18
 book/chapter: "[[Num.18|Numbers 18]]"
-genre:
+chronological_order: 178
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 25
 verses:
 - "[[Num.18.8]]"
 - "[[Num.18.9]]"
@@ -47,7 +54,7 @@ verses:
 - "[[Num.18.32]]"
 ---
 
-[[Num.18|Numbers 18:8 - Numbers 18:32]]
+<small>[[Num.18|Numbers 18:8-32]]</small>
 *Offerings for Priests and Levites*
 
 [[Num.18.8|8]] And the LORD spake unto Aaron, Behold, I also have given thee the charge of mine heave offerings of all the hallowed things of the children of Israel; unto thee have I given them by reason of the anointing, and to thy sons, by an ordinance for ever.

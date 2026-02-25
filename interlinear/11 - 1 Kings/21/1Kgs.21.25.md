@@ -1,8 +1,68 @@
+---
+title: 1 Kings 21:25
+type: Verse
+kjv: "But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the LORD, whom Jezebel his wife stirred up."
+bsb: "(Surely there was never one like Ahab, who sold himself to do evil in the sight of the LORD, incited by his wife Jezebel."
+hebrew: "רַ֚ק לֹֽא־ הָיָ֣ה כְאַחְאָ֔ב אֲשֶׁ֣ר הִתְמַכֵּ֔ר לַעֲשׂ֥וֹת הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה אֲשֶׁר־ הֵסַ֥תָּה אֹת֖וֹ אִיזֶ֥בֶל אִשְׁתּֽוֹ׃"
+pericope: "[[1Kgs.21.25 Ahab’s Repentance|Ahab’s Repentance]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H7535]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0256G]]"
+- "[[H0834A]]"
+- "[[H4376]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H5496]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0348]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:25**<big><big>[[1Kgs.21.25 Ahab’s Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But there was none like unto Ahab, which did sell himself to work wickedness in the sight of the LORD, whom Jezebel his wife stirred up.
 <small><sub>**BSB:**</sub></small>
 (Surely there was never one like Ahab, who sold himself to do evil in the sight of the LORD, incited by his wife Jezebel.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֚ק]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיָ֣ה]] [[H9004\|כְ]][[H0256G\|אַחְאָ֔ב]] [[H0834A\|אֲשֶׁ֣ר]] [[H4376\|הִתְמַכֵּ֔ר]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5496\|הֵסַ֥תָּה]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H0348\|אִיזֶ֥בֶל]] [[H0802H\|אִשְׁתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic ELIJAH|ELIJAH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic RULERS|RULERS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.24|<< 1 Kings 21:24]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.26|1 Kings 21:26 >>]]</td></tr></table>
 

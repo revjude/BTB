@@ -1,8 +1,69 @@
+---
+title: 1 Kings 8:56
+type: Verse
+kjv: "Blessed be the LORD, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant."
+bsb: "“Blessed be the LORD, who has given rest to His people Israel according to all that He promised. Not one word has failed of all the good promises He made through His servant Moses."
+hebrew: "בָּר֣וּךְ יְהוָ֗ה אֲשֶׁ֨ר נָתַ֤ן מְנוּחָה֙ לְעַמּ֣וֹ יִשְׂרָאֵ֔ל כְּכֹ֖ל אֲשֶׁ֣ר דִּבֵּ֑ר לֹֽא־ נָפַ֞ל דָּבָ֣ר אֶחָ֗ד מִכֹּל֙ דְּבָר֣וֹ הַטּ֔וֹב אֲשֶׁ֣ר דִּבֶּ֔ר בְּיַ֖ד מֹשֶׁ֥ה עַבְדּֽוֹ׃"
+pericope: "[[1Kgs.8.54 Solomon’s Benediction|Solomon’s Benediction]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H4496H]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H1696I]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5307L]]"
+- "[[H1697G]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9009]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:56**<big><big>[[1Kgs.8.54 Solomon’s Benediction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Blessed [be] the LORD, that hath given rest unto his people Israel, according to all that he promised: there hath not failed one word of all his good promise, which he promised by the hand of Moses his servant.
 <small><sub>**BSB:**</sub></small>
 “Blessed be the LORD, who has given rest to His people Israel according to all that He promised. Not one word has failed of all the good promises He made through His servant Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H1288\|בָּר֣וּךְ]] [[H3068G\|יְהוָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|נָתַ֤ן]] [[H4496H\|מְנוּחָה֙]] [[H9005\|לְ]][[H5971A\|עַמּ֣]][[H9023\|וֹ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9004\|כְּ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696I\|דִּבֵּ֑ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5307L\|נָפַ֞ל]] [[H1697G\|דָּבָ֣ר]] [[H0259\|אֶחָ֗ד]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H1697G\|דְּבָר֣]][[H9023\|וֹ]] [[H9009\|הַ]][[H2896A\|טּ֔וֹב]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696I\|דִּבֶּ֔ר]] [[H9003\|בְּ]][[H3027J\|יַ֖ד]] [[H4872\|מֹשֶׁ֥ה]] [[H5650\|עַבְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.55|<< 1 Kings 8:55]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.57|1 Kings 8:57 >>]]</td></tr></table>
 

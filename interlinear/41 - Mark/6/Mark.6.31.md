@@ -1,10 +1,66 @@
+---
+title: Mark 6:31
+type: Verse
+kjv: "And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat."
+bsb: "And He said to them, “Come with Me privately to a solitary place, and let us rest for a while.” For many people were coming and going, and they did not even have time to eat."
+jesus_said: "Come ye yourselves apart into a desert place, and rest a while:"
+greek: "καὶ λέγει αὐτοῖς· δεῦτε ὑμεῖς αὐτοὶ κατ᾽ ἰδίαν εἰς ἔρημον τόπον καὶ ἀναπαύσασθε ὀλίγον· ἦσαν γὰρ οἱ ἐρχόμενοι καὶ οἱ ὑπάγοντες πολλοί, καὶ οὐδὲ φαγεῖν εὐκαίρουν.¶"
+pericope: "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RECREATION (REST)|RECREATION (REST)]]"
+- "[[topic REST|REST]]"
+strongs:
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G1205]]"
+- "[[G4771]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G1519]]"
+- "[[G2048]]"
+- "[[G5117]]"
+- "[[G0373]]"
+- "[[G3641]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2064]]"
+- "[[G5217]]"
+- "[[G4183]]"
+- "[[G3761]]"
+- "[[G5315]]"
+- "[[G2119]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 6:31**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Come ye yourselves apart into a desert place, and rest a while: for there were many coming and going, and they had no leisure so much as to eat.
 <small><sub>**BSB:**</sub></small>
 And He said to them, “Come with Me privately to a solitary place, and let us rest for a while.” For many people were coming and going, and they did not even have time to eat.
-<small><sub>**Literal:**</sub></small>
-And He speaks to them; Come you yourselves yourselves apart [your] own to [a] solitary place and do rest a little; Were for those coming and those going [are] many, and not even to eat were they able.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.30|<< Mark 6:30]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.32|Mark 6:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G1205\|δεῦτε]]  [[G4771\|ὑμεῖς]]  [[G0846\|αὐτοὶ]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G1519\|εἰς]]  [[G2048\|ἔρημον]]  [[G5117\|τόπον]]  [[G2532\|καὶ]]  [[G0373\|ἀναπαύσασθε]]  [[G3641\|ὀλίγον·]]  [[G1510\|ἦσαν]]  [[G1063\|γὰρ]]  [[G3588\|οἱ]]  [[G2064\|ἐρχόμενοι]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G5217\|ὑπάγοντες]]  [[G4183\|πολλοί,]]  [[G2532\|καὶ]]  [[G3761\|οὐδὲ]]  [[G5315\|φαγεῖν]]  [[G2119\|εὐκαίρουν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RECREATION (REST)|RECREATION (REST)]] • [[topic REST|REST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.30|<< Mark 6:30]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.32|Mark 6:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

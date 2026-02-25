@@ -1,8 +1,70 @@
+---
+title: Exodus 35:23
+type: Verse
+kjv: "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ hair, and red skins of rams, and badgers’ skins, brought them."
+bsb: "Everyone who had blue, purple, or scarlet yarn, or fine linen, goat hair, ram skins dyed red, or articles of fine leather, brought them."
+hebrew: "וְכָל־ אִ֞ישׁ אֲשֶׁר־ נִמְצָ֣א אִתּ֗וֹ תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ וְעִזִּ֑ים וְעֹרֹ֨ת אֵילִ֧ם מְאָדָּמִ֛ים וְעֹרֹ֥ת תְּחָשִׁ֖ים הֵבִֽיאוּ׃"
+pericope: "[[Exod.35.20 The People Offer Gifts|The People Offer Gifts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 35
+book/chapter: "[[Exod.35|Exodus 35]]"
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BADGER|BADGER]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic GOAT|GOAT]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H8504]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H5795]]"
+- "[[H5785]]"
+- "[[H0352A]]"
+- "[[H0119]]"
+- "[[H8476]]"
+- "[[H0935P]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 35:23**<big><big>[[Exod.35.20 The People Offer Gifts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ [hair], and red skins of rams, and badgers’ skins, brought [them].
 <small><sub>**BSB:**</sub></small>
 Everyone who had blue, purple, or scarlet yarn, or fine linen, goat hair, ram skins dyed red, or articles of fine leather, brought them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֞ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H4672\|נִמְצָ֣א]] [[H0854\|אִתּ֗]][[H9033\|וֹ]] [[H8504\|תְּכֵ֧לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֛ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֥עַת]] [[H8144\|שָׁנִ֖י]] [[H9002\|וְ]][[H8336B\|שֵׁ֣שׁ]] [[H9002\|וְ]][[H5795\|עִזִּ֑ים]] [[H9002\|וְ]][[H5785\|עֹרֹ֨ת]] [[H0352A\|אֵילִ֧ם]] [[H0119\|מְאָדָּמִ֛ים]] [[H9002\|וְ]][[H5785\|עֹרֹ֥ת]] [[H8476\|תְּחָשִׁ֖ים]] [[H0935P\|הֵבִֽיאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BADGER|BADGER]] • [[topic COLORS|COLORS]] • [[topic GOAT|GOAT]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SEAL|SEAL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.35.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.35.22|<< Exodus 35:22]]</td><td align="center" style="border:none;">[[Exod.35|Exodus 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.35.24|Exodus 35:24 >>]]</td></tr></table>
 

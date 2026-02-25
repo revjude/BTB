@@ -1,8 +1,64 @@
+---
+title: Jeremiah 52:34
+type: Verse
+kjv: "And for his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life."
+bsb: "And the king of Babylon provided Jehoiachin a daily portion for the rest of his life, until the day of his death."
+hebrew: "וַאֲרֻחָת֗וֹ אֲרֻחַת֩ תָּמִ֨יד נִתְּנָה־ לּ֜וֹ מֵאֵ֧ת מֶֽלֶךְ־ בָּבֶ֛ל דְּבַר־ י֥וֹם בְּיוֹמ֖וֹ עַד־ י֣וֹם מוֹת֑וֹ כֹּ֖ל יְמֵ֥י חַיָּֽיו׃"
+pericope: "[[Jer.52.31 Jehoiachin Released from Prison|Jehoiachin Released from Prison]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EVIL-MERODACH|EVIL-MERODACH]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0737]]"
+- "[[H9023]]"
+- "[[H8548]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H1697N]]"
+- "[[H3117J]]"
+- "[[H9003]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H4194]]"
+- "[[H3605]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:34**<big><big>[[Jer.52.31 Jehoiachin Released from Prison|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [for] his diet, there was a continual diet given him of the king of Babylon, every day a portion until the day of his death, all the days of his life.
 <small><sub>**BSB:**</sub></small>
 And the king of Babylon provided Jehoiachin a daily portion for the rest of his life, until the day of his death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0737\|אֲרֻחָת֗]][[H9023\|וֹ]] [[H0737\|אֲרֻחַת֩]] [[H8548\|תָּמִ֨יד]] [[H5414G\|נִתְּנָה]][[H9014\|־]] [[H9005\|לּ֜]][[H9033\|וֹ]] [[H9006\|מֵ]][[H0854\|אֵ֧ת]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H1697N\|דְּבַר]][[H9014\|־]] [[H3117J\|י֥וֹם]] [[H9003\|בְּ]][[H3117J\|יוֹמ֖]][[H9023\|וֹ]] [[H5704\|עַד]][[H9014\|־]] [[H3117G\|י֣וֹם]] [[H4194\|מוֹת֑]][[H9023\|וֹ]] [[H3605\|כֹּ֖ל]] [[H3117G\|יְמֵ֥י]] [[H2416E\|חַיָּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EVIL-MERODACH|EVIL-MERODACH]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.33|<< Jeremiah 52:33]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.1|Lamentations 1:1 >>]]</td></tr></table>
 

@@ -1,26 +1,33 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bride
+type: Pericope
 pericope: "[[Song.8.10 The Bride|The Bride]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 8
 book/chapter: "[[Song.8|Song of Solomon 8]]"
-genre:
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 3
 verses:
 - "[[Song.8.10]]"
 - "[[Song.8.11]]"
 - "[[Song.8.12]]"
 ---
 
-[[Song.8|Song of Solomon 8:10 - Song of Solomon 8:12]]
+<small>[[Song.8|Song of Solomon 8:10-12]]</small>
 *The Bride*
 
 [[Song.8.10|10]] I \[am\] a wall, and my breasts like towers: then was I in his eyes as one that found favour.

@@ -1,8 +1,52 @@
+---
+title: Proverbs 21:24
+type: Verse
+kjv: "Proud and haughty scorner is his name, who dealeth in proud wrath."
+bsb: "Mocker is the name of the proud and arrogant man—of him who acts with excessive pride."
+hebrew: "זֵ֣ד יָ֭הִיר לֵ֣ץ שְׁמ֑וֹ ע֝וֹשֶׂ֗ה בְּעֶבְרַ֥ת זָדֽוֹן׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SCOFFING|SCOFFING]]"
+strongs:
+- "[[H2086]]"
+- "[[H3093]]"
+- "[[H3887]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H5678]]"
+- "[[H2087]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:24**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Proud [and] haughty scorner [is] his name, who dealeth in proud wrath.
 <small><sub>**BSB:**</sub></small>
 Mocker is the name of the proud and arrogant man—of him who acts with excessive pride.
+<small><sub>**Hebrew:**</sub></small>
+[[H2086\|זֵ֣ד]] [[H3093\|יָ֭הִיר]] [[H3887\|לֵ֣ץ]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H6213A\|ע֝וֹשֶׂ֗ה]] [[H9003\|בְּ]][[H5678\|עֶבְרַ֥ת]] [[H2087\|זָדֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic PRIDE|PRIDE]] • [[topic SCOFFING|SCOFFING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.23|<< Proverbs 21:23]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.25|Proverbs 21:25 >>]]</td></tr></table>
 

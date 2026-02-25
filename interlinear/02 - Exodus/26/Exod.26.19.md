@@ -1,8 +1,63 @@
+---
+title: Exodus 26:19
+type: Verse
+kjv: "And thou shalt make forty sockets of silver under the twenty boards; two sockets under one board for his two tenons, and two sockets under another board for his two tenons."
+bsb: "with forty silver bases under the twenty frames—two bases for each frame, one under each tenon."
+hebrew: "וְאַרְבָּעִים֙ אַדְנֵי־ כֶ֔סֶף תַּעֲשֶׂ֕ה תַּ֖חַת עֶשְׂרִ֣ים הַקָּ֑רֶשׁ שְׁנֵ֨י אֲדָנִ֜ים תַּֽחַת־ הַקֶּ֤רֶשׁ הָאֶחָד֙ לִשְׁתֵּ֣י יְדֹתָ֔יו וּשְׁנֵ֧י אֲדָנִ֛ים תַּֽחַת־ הַקֶּ֥רֶשׁ הָאֶחָ֖ד לִשְׁתֵּ֥י יְדֹתָֽיו׃"
+pericope: "[[Exod.26.15 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic SILVER|SILVER]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0705]]"
+- "[[H0134]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H6213H]]"
+- "[[H8478G]]"
+- "[[H6242]]"
+- "[[H9009]]"
+- "[[H7175]]"
+- "[[H8147]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:19**<big><big>[[Exod.26.15 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make forty sockets of silver under the twenty boards; two sockets under one board for his two tenons, and two sockets under another board for his two tenons.
 <small><sub>**BSB:**</sub></small>
 with forty silver bases under the twenty frames—two bases for each frame, one under each tenon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0705\|אַרְבָּעִים֙]] [[H0134\|אַדְנֵי]][[H9014\|־]] [[H3701G\|כֶ֔סֶף]] [[H6213H\|תַּעֲשֶׂ֕ה]] [[H8478G\|תַּ֖חַת]] [[H6242\|עֶשְׂרִ֣ים]] [[H9009\|הַ]][[H7175\|קָּ֑רֶשׁ]] [[H8147\|שְׁנֵ֨י]] [[H0134\|אֲדָנִ֜ים]] [[H8478G\|תַּֽחַת]][[H9014\|־]] [[H9009\|הַ]][[H7175\|קֶּ֤רֶשׁ]] [[H9009\|הָ]][[H0259\|אֶחָד֙]] [[H9005\|לִ]][[H8147\|שְׁתֵּ֣י]] [[H3027G\|יְדֹתָ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H8147\|שְׁנֵ֧י]] [[H0134\|אֲדָנִ֛ים]] [[H8478G\|תַּֽחַת]][[H9014\|־]] [[H9009\|הַ]][[H7175\|קֶּ֥רֶשׁ]] [[H9009\|הָ]][[H0259\|אֶחָ֖ד]] [[H9005\|לִ]][[H8147\|שְׁתֵּ֥י]] [[H3027G\|יְדֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHITTIM|SHITTIM]] • [[topic SILVER|SILVER]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.18|<< Exodus 26:18]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.20|Exodus 26:20 >>]]</td></tr></table>
 

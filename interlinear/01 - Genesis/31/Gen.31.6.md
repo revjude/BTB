@@ -1,8 +1,58 @@
+---
+title: Genesis 31:6
+type: Verse
+kjv: "And ye know that with all my power I have served your father."
+bsb: "You know that I have served your father with all my strength."
+hebrew: "וְאַתֵּ֖נָה יְדַעְתֶּ֑ן כִּ֚י בְּכָל־ כֹּחִ֔י עָבַ֖דְתִּי אֶת־ אֲבִיכֶֽן׃"
+pericope: "[[Gen.31.1 Jacob Flees from Laban|Jacob Flees from Laban]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 31
+book/chapter: "[[Gen.31|Genesis 31]]"
+chronological_order: 73
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic LABAN|LABAN]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859E]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3581B]]"
+- "[[H9020]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9027]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 31:6**<big><big>[[Gen.31.1 Jacob Flees from Laban|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye know that with all my power I have served your father.
 <small><sub>**BSB:**</sub></small>
 You know that I have served your father with all my strength.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859E\|אַתֵּ֖נָה]] [[H3045\|יְדַעְתֶּ֑ן]] [[H3588A\|כִּ֚י]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3581B\|כֹּחִ֔]][[H9020\|י]] [[H5647G\|עָבַ֖דְתִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבִי]][[H9027\|כֶֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LABAN|LABAN]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.31.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.31.5|<< Genesis 31:5]]</td><td align="center" style="border:none;">[[Gen.31|Genesis 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.31.7|Genesis 31:7 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Job 37:1
+type: Verse
+kjv: "At this also my heart trembleth, and is moved out of his place."
+bsb: "“At this my heart also pounds and leaps from its place."
+hebrew: "אַף־ לְ֭זֹאת יֶחֱרַ֣ד לִבִּ֑י וְ֝יִתַּ֗ר מִמְּקוֹמֽוֹ׃"
+pericope: "[[Job.37.1 Elihu Proclaims God’s Majesty|Elihu Proclaims God’s Majesty]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 37
+book/chapter: "[[Job.37|Job 37]]"
+chronological_order: 48
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H2063]]"
+- "[[H2729]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H5425A]]"
+- "[[H9006]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 37:1**<big><big>[[Job.37.1 Elihu Proclaims God’s Majesty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 At this also my heart trembleth, and is moved out of his place.
 <small><sub>**BSB:**</sub></small>
 “At this my heart also pounds and leaps from its place.
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַף]][[H9014\|־]] [[H9005\|לְ֭]][[H2063\|זֹאת]] [[H2729\|יֶחֱרַ֣ד]] [[H3820A\|לִבִּ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H5425A\|יִתַּ֗ר]] [[H9006\|מִ]][[H4725\|מְּקוֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RELIGION|RELIGION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.37.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.33|<< Job 36:33]]</td><td align="center" style="border:none;">[[Job.37|Job 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.37.2|Job 37:2 >>]]</td></tr></table>
 

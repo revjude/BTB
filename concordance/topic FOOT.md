@@ -1,7 +1,7 @@
 
 **FOOT**
 
-→ Washing the feet of the disciples by Jesus [[John.13.4|Joh 13:4]]-[[John.13.6|6]]
+→ Washing the feet of the disciples by Jesus [[John.13.4|Joh 13:4-6]]
 
 → By disciples [[1Tim.5.10|1Ti 5:10]]
 

@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 1:4
+type: Verse
+kjv: "After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:"
+bsb: "This was after he had defeated Sihon king of the Amorites, who lived in Heshbon, and then at Edrei had defeated Og king of Bashan, who lived in Ashtaroth."
+hebrew: "אַחֲרֵ֣י הַכֹּת֗וֹ אֵ֚ת סִיחֹן֙ מֶ֣לֶךְ הָֽאֱמֹרִ֔י אֲשֶׁ֥ר יוֹשֵׁ֖ב בְּחֶשְׁבּ֑וֹן וְאֵ֗ת ע֚וֹג מֶ֣לֶךְ הַבָּשָׁ֔ן אֲשֶׁר־ יוֹשֵׁ֥ב בְּעַשְׁתָּרֹ֖ת בְּאֶדְרֶֽעִי׃"
+pericope: "[[Deut.1.1 The Command to Leave Horeb|The Command to Leave Horeb]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ASHTAROTH|ASHTAROTH]]"
+- "[[topic EDREI|EDREI]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic OG|OG]]"
+strongs:
+- "[[H0310A]]"
+- "[[H5221]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H5511]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H0834A]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H2809]]"
+- "[[H9002]]"
+- "[[H5747]]"
+- "[[H1316]]"
+- "[[H9014]]"
+- "[[H6252H]]"
+- "[[H0154]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:4**<big><big>[[Deut.1.1 The Command to Leave Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:
 <small><sub>**BSB:**</sub></small>
 This was after he had defeated Sihon king of the Amorites, who lived in Heshbon, and then at Edrei had defeated Og king of Bashan, who lived in Ashtaroth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0310A\|אַחֲרֵ֣י]] [[H5221\|הַכֹּת֗]][[H9043\|וֹ]] [[H0853\|אֵ֚ת]] [[H5511\|סִיחֹן֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הָֽ]][[H0567\|אֱמֹרִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H3427\|יוֹשֵׁ֖ב]] [[H9003\|בְּ]][[H2809\|חֶשְׁבּ֑וֹן]] [[H9002\|וְ]][[H0853\|אֵ֗ת]] [[H5747\|ע֚וֹג]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H1316\|בָּשָׁ֔ן]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3427\|יוֹשֵׁ֥ב]] [[H9003\|בְּ]][[H6252H\|עַשְׁתָּרֹ֖ת]] [[H9003\|בְּ]][[H0154\|אֶדְרֶֽעִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ASHTAROTH|ASHTAROTH]] • [[topic EDREI|EDREI]] • [[topic HESHBON|HESHBON]] • [[topic OG|OG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.3|<< Deuteronomy 1:3]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.5|Deuteronomy 1:5 >>]]</td></tr></table>
 

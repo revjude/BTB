@@ -1,8 +1,52 @@
+---
+title: 1 Chronicles 24:15
+type: Verse
+kjv: "The seventeenth to Hezir, the eighteenth to Aphses,"
+bsb: "the seventeenth to Hezir, the eighteenth to Happizzez,"
+hebrew: "לְחֵזִיר֙ שִׁבְעָ֣ה עָשָׂ֔ר לְהַפִּצֵּ֖ץ שְׁמוֹנָ֥ה עָשָֽׂר׃"
+pericope: "[[1Chr.24.1 Twenty-Four Divisions of Priests|Twenty-Four Divisions of Priests]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 24
+book/chapter: "[[1Chr.24|1 Chronicles 24]]"
+chronological_order: 435
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic APHSES|APHSES]]"
+- "[[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]]"
+- "[[topic HEZIR|HEZIR]]"
+- "[[topic ITHAMAR|ITHAMAR]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9005]]"
+- "[[H2387G]]"
+- "[[H7651]]"
+- "[[H6240]]"
+- "[[H6483]]"
+- "[[H8083]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 24:15**<big><big>[[1Chr.24.1 Twenty-Four Divisions of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The seventeenth to Hezir, the eighteenth to Aphses,
 <small><sub>**BSB:**</sub></small>
 the seventeenth to Hezir, the eighteenth to Happizzez,
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H2387G\|חֵזִיר֙]] [[H7651\|שִׁבְעָ֣ה]] [[H6240\|עָשָׂ֔ר]] [[H9005\|לְ]][[H6483\|הַפִּצֵּ֖ץ]] [[H8083\|שְׁמוֹנָ֥ה]] [[H6240\|עָשָֽׂר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APHSES|APHSES]] • [[topic ELEAZAR (ELEAZER)|ELEAZAR (ELEAZER)]] • [[topic HEZIR|HEZIR]] • [[topic ITHAMAR|ITHAMAR]] • [[topic LOT, THE|LOT, THE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.24.14|<< 1 Chronicles 24:14]]</td><td align="center" style="border:none;">[[1Chr.24|1 Chronicles 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.24.16|1 Chronicles 24:16 >>]]</td></tr></table>
 

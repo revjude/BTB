@@ -1,8 +1,57 @@
+---
+title: Psalm 91:3
+type: Verse
+kjv: "Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence."
+bsb: "Surely He will deliver you from the snare of the fowler, and from the deadly plague."
+hebrew: "כִּ֤י ה֣וּא יַ֭צִּֽילְךָ מִפַּ֥ח יָק֗וּשׁ מִדֶּ֥בֶר הַוּֽוֹת׃"
+pericope: "[[Ps.91.1 You Are My Refuge and My Fortress|You Are My Refuge and My Fortress]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 91
+book/chapter: "[[Ps.91|Psalm 91]]"
+chronological_order: 518
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SNARE|SNARE]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H5337]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H6341A]]"
+- "[[H3353]]"
+- "[[H1698]]"
+- "[[H1942]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 91:3**<big><big>[[Ps.91.1 You Are My Refuge and My Fortress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely he shall deliver thee from the snare of the fowler, [and] from the noisome pestilence.
 <small><sub>**BSB:**</sub></small>
 Surely He will deliver you from the snare of the fowler, and from the deadly plague.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H1931\|ה֣וּא]] [[H5337\|יַ֭צִּֽילְ]][[H9031\|ךָ]] [[H9006\|מִ]][[H6341A\|פַּ֥ח]] [[H3353\|יָק֗וּשׁ]] [[H9006\|מִ]][[H1698\|דֶּ֥בֶר]] [[H1942\|הַוּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SNARE|SNARE]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.91.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.91.2|<< Psalms 91:2]]</td><td align="center" style="border:none;">[[Ps.91|Psalms 91]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.91.4|Psalms 91:4 >>]]</td></tr></table>
 

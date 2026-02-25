@@ -1,8 +1,53 @@
+---
+title: 2 Samuel 22:19
+type: Verse
+kjv: "They prevented me in the day of my calamity: but the LORD was my stay."
+bsb: "They confronted me in my day of calamity, but the LORD was my support."
+hebrew: "יְקַדְּמֻ֖נִי בְּי֣וֹם אֵידִ֑י וַיְהִ֧י יְהוָ֛ה מִשְׁעָ֖ן לִֽי׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic NOB|NOB]]"
+strongs:
+- "[[H6923]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0343]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H4937A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:19**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They prevented me in the day of my calamity: but the LORD was my stay.
 <small><sub>**BSB:**</sub></small>
 They confronted me in my day of calamity, but the LORD was my support.
+<small><sub>**Hebrew:**</sub></small>
+[[H6923\|יְקַדְּמֻ֖]][[H9030\|נִי]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H0343\|אֵידִ֑]][[H9020\|י]] [[H9001\|וַ]][[H1961\|יְהִ֧י]] [[H3068G\|יְהוָ֛ה]] [[H4937A\|מִשְׁעָ֖ן]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic NOB|NOB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.18|<< 2 Samuel 22:18]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.20|2 Samuel 22:20 >>]]</td></tr></table>
 

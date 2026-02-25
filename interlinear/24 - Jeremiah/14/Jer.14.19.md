@@ -1,8 +1,69 @@
+---
+title: Jeremiah 14:19
+type: Verse
+kjv: "Hast thou utterly rejected Judah? hath thy soul lothed Zion? why hast thou smitten us, and there is no healing for us? we looked for peace, and there is no good; and for the time of healing, and behold trouble!"
+bsb: "Have You rejected Judah completely? Do You despise Zion? Why have You stricken us so that we are beyond healing? We hoped for peace, but no good has come, and for the time of healing, but there was only terror."
+hebrew: "הֲמָאֹ֨ס מָאַ֜סְתָּ אֶת־ יְהוּדָ֗ה אִם־ בְּצִיּוֹן֙ גָּעֲלָ֣ה נַפְשֶׁ֔ךָ מַדּ֙וּעַ֙ הִכִּיתָ֔נוּ וְאֵ֥ין לָ֖נוּ מַרְפֵּ֑א קַוֵּ֤ה לְשָׁלוֹם֙ וְאֵ֣ין ט֔וֹב וּלְעֵ֥ת מַרְפֵּ֖א וְהִנֵּ֥ה בְעָתָֽה׃"
+pericope: "[[Jer.14.19 A Prayer for Mercy|A Prayer for Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H9008]]"
+- "[[H3988A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H0518I]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H1602]]"
+- "[[H5315G]]"
+- "[[H9021]]"
+- "[[H4069]]"
+- "[[H5221]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H4832]]"
+- "[[H6960A]]"
+- "[[H7965G]]"
+- "[[H2896B]]"
+- "[[H6256]]"
+- "[[H2009]]"
+- "[[H1205]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 14:19**<big><big>[[Jer.14.19 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou utterly rejected Judah? hath thy soul lothed Zion? why hast thou smitten us, and [there is] no healing for us? we looked for peace, and [there is] no good; and for the time of healing, and behold trouble!
 <small><sub>**BSB:**</sub></small>
 Have You rejected Judah completely? Do You despise Zion? Why have You stricken us so that we are beyond healing? We hoped for peace, but no good has come, and for the time of healing, but there was only terror.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3988A\|מָאֹ֨ס]] [[H3988A\|מָאַ֜סְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H0518I\|אִם]][[H9014\|־]] [[H9003\|בְּ]][[H6726\|צִיּוֹן֙]] [[H1602\|גָּעֲלָ֣ה]] [[H5315G\|נַפְשֶׁ֔]][[H9021\|ךָ]] [[H4069\|מַדּ֙וּעַ֙]] [[H5221\|הִכִּיתָ֔]][[H9035\|נוּ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H9005\|לָ֖]][[H9035\|נוּ]] [[H4832\|מַרְפֵּ֑א]] [[H6960A\|קַוֵּ֤ה]] [[H9005\|לְ]][[H7965G\|שָׁלוֹם֙]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H2896B\|ט֔וֹב]] [[H9002\|וּ]][[H9005\|לְ]][[H6256\|עֵ֥ת]] [[H4832\|מַרְפֵּ֖א]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H1205\|בְעָתָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAMINE|FAMINE]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.18|<< Jeremiah 14:18]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.20|Jeremiah 14:20 >>]]</td></tr></table>
 

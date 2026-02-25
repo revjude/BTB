@@ -1,10 +1,62 @@
+---
+title: Mark 7:29
+type: Verse
+kjv: "And he said unto her, For this saying go thy way; the devil is gone out of thy daughter."
+bsb: "Then Jesus told her, “Because of this answer, you may go. The demon has left your daughter.”"
+jesus_said: "For this saying go thy way; the devil is gone out of thy daughter."
+greek: "Καὶ εἶπεν αὐτῇ· διὰ τοῦτον τὸν λόγον ὕπαγε, ἐξελήλυθεν ἐκ τῆς θυγατρός σου τὸ δαιμόνιον."
+pericope: "[[Mark.7.24 The Faith of the Gentile Woman|The Faith of the Gentile Woman]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G5217]]"
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G2364]]"
+- "[[G4771]]"
+- "[[G1140]]"
+texts:
+- NKO
+---
+
 **Mark 7:29**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto her, For this saying go thy way; the devil is gone out of thy daughter.
 <small><sub>**BSB:**</sub></small>
 Then Jesus told her, “Because of this answer, you may go. The demon has left your daughter.”
-<small><sub>**Literal:**</sub></small>
-And He said to her; Because of this <the> word do go, has gone forth out of the daughter of you the demon.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.28|<< Mark 7:28]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.30|Mark 7:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῇ·]]  [[G1223\|διὰ]]  [[G3778\|τοῦτον]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G5217\|ὕπαγε,]]  [[G1831\|ἐξελήλυθεν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2364\|θυγατρός]]  [[G4771\|σου]]  [[G3588\|τὸ]]  [[G1140\|δαιμόνιον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.28|<< Mark 7:28]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.30|Mark 7:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

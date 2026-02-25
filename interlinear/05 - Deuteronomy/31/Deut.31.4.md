@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 31:4
+type: Verse
+kjv: "And the LORD shall do unto them as he did to Sihon and to Og, kings of the Amorites, and unto the land of them, whom he destroyed."
+bsb: "And the LORD will do to them as He did to Sihon and Og, the kings of the Amorites, when He destroyed them along with their land."
+hebrew: "וְעָשָׂ֤ה יְהוָה֙ לָהֶ֔ם כַּאֲשֶׁ֣ר עָשָׂ֗ה לְסִיח֥וֹן וּלְע֛וֹג מַלְכֵ֥י הָאֱמֹרִ֖י וּלְאַרְצָ֑ם אֲשֶׁ֥ר הִשְׁמִ֖יד אֹתָֽם׃"
+pericope: "[[Deut.31.1 Joshua to Succeed Moses|Joshua to Succeed Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic OG|OG]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H5511]]"
+- "[[H9002]]"
+- "[[H5747]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H8045]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:4**<big><big>[[Deut.31.1 Joshua to Succeed Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall do unto them as he did to Sihon and to Og, kings of the Amorites, and unto the land of them, whom he destroyed.
 <small><sub>**BSB:**</sub></small>
 And the LORD will do to them as He did to Sihon and Og, the kings of the Amorites, when He destroyed them along with their land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213A\|עָשָׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֗ה]] [[H9005\|לְ]][[H5511\|סִיח֥וֹן]] [[H9002\|וּ]][[H9005\|לְ]][[H5747\|ע֛וֹג]] [[H4428G\|מַלְכֵ֥י]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֖י]] [[H9002\|וּ]][[H9005\|לְ]][[H0776G\|אַרְצָ֑]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H8045\|הִשְׁמִ֖יד]] [[H0853\|אֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic OG|OG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.3|<< Deuteronomy 31:3]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.5|Deuteronomy 31:5 >>]]</td></tr></table>
 

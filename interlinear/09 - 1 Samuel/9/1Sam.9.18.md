@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 9:18
+type: Verse
+kjv: "Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer’s house is."
+bsb: "Saul approached Samuel in the gateway and asked, “Would you please tell me where the seer’s house is?”"
+hebrew: "וַיִּגַּ֥שׁ שָׁא֛וּל אֶת־ שְׁמוּאֵ֖ל בְּת֣וֹךְ הַשָּׁ֑עַר וַיֹּ֙אמֶר֙ הַגִּֽידָה־ נָּ֣א לִ֔י אֵי־ זֶ֖ה בֵּ֥ית הָרֹאֶֽה׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H0559]]"
+- "[[H5046]]"
+- "[[H9012]]"
+- "[[H4994]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0335]]"
+- "[[H2088]]"
+- "[[H1004B]]"
+- "[[H7203A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:18**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Saul drew near to Samuel in the gate, and said, Tell me, I pray thee, where the seer’s house [is].
 <small><sub>**BSB:**</sub></small>
 Saul approached Samuel in the gateway and asked, “Would you please tell me where the seer’s house is?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066G\|יִּגַּ֥שׁ]] [[H7586G\|שָׁא֛וּל]] [[H0853\|אֶת]][[H9014\|־]] [[H8050G\|שְׁמוּאֵ֖ל]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H8179G\|שָּׁ֑עַר]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H5046\|הַגִּֽידָ]][[H9012\|ה]][[H9014\|־]] [[H4994\|נָּ֣א]] [[H9005\|לִ֔]][[H9030\|י]] [[H0335\|אֵי]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H1004B\|בֵּ֥ית]] [[H9009\|הָ]][[H7203A\|רֹאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.17|<< 1 Samuel 9:17]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.19|1 Samuel 9:19 >>]]</td></tr></table>
 

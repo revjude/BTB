@@ -1,10 +1,62 @@
+---
+title: Luke 7:25
+type: Verse
+kjv: "But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts."
+bsb: "Otherwise, what did you go out to see? A man dressed in fine clothes? Look, those who wear elegant clothing and live in luxury are found in palaces."
+jesus_said: "But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts."
+greek: "ἀλλὰ τί ἐξήλθατε ἰδεῖν; ἄνθρωπον ἐν μαλακοῖς ἱματίοις ἠμφιεσμένον; ἰδοὺ οἱ ἐν ἱματισμῷ ἐνδόξῳ καὶ τρυφῇ ὑπάρχοντες ἐν τοῖς βασιλείοις εἰσίν."
+pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 7
+book/chapter: "[[Luke.7|Luke 7]]"
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G0235]]"
+- "[[G5101]]"
+- "[[G1831]]"
+- "[[G1492H]]"
+- "[[G0444]]"
+- "[[G1722]]"
+- "[[G3120]]"
+- "[[G2440]]"
+- "[[G0294]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G2441]]"
+- "[[G1741]]"
+- "[[G2532]]"
+- "[[G5172]]"
+- "[[G5225]]"
+- "[[G0933]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 7:25**<big><big>[[Luke.7.24 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts.
 <small><sub>**BSB:**</sub></small>
 Otherwise, what did you go out to see? A man dressed in fine clothes? Look, those who wear elegant clothing and live in luxury are found in palaces.
-<small><sub>**Literal:**</sub></small>
-But what have you gone out to see? A man in fine clothing arrayed? Behold those in clothing splendid and in luxury living in the palaces are.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.24|<< Luke 7:24]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.26|Luke 7:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G5101\|τί]]  [[G1831\|ἐξήλθατε]]  [[G1492H\|ἰδεῖν;]]  [[G0444\|ἄνθρωπον]]  [[G1722\|ἐν]]  [[G3120\|μαλακοῖς]]  [[G2440\|ἱματίοις]]  [[G0294\|ἠμφιεσμένον;]]  [[G2400\|ἰδοὺ]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G2441\|ἱματισμῷ]]  [[G1741\|ἐνδόξῳ]]  [[G2532\|καὶ]]  [[G5172\|τρυφῇ]]  [[G5225\|ὑπάρχοντες]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G0933\|βασιλείοις]]  [[G1510\|εἰσίν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.24|<< Luke 7:24]]</td><td align="center" style="border:none;">[[Luke.7|Luke 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.7.26|Luke 7:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

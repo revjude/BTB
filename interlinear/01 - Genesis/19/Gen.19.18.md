@@ -1,8 +1,55 @@
+---
+title: Genesis 19:18
+type: Verse
+kjv: "And Lot said unto them, Oh, not so, my Lord:"
+bsb: "But Lot replied, “No, my lords, please!"
+hebrew: "וַיֹּ֥אמֶר ל֖וֹט אֲלֵהֶ֑ם אַל־ נָ֖א אֲדֹנָֽי׃"
+pericope: "[[Gen.19.12 Lot Flees to Zoar|Lot Flees to Zoar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic LOT|LOT]]"
+- "[[topic SODOM|SODOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3876]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H0136]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:18**<big><big>[[Gen.19.12 Lot Flees to Zoar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Lot said unto them, Oh, not so, my Lord:
 <small><sub>**BSB:**</sub></small>
 But Lot replied, “No, my lords, please!
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3876\|ל֖וֹט]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֖א]] [[H0136\|אֲדֹנָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic LOT|LOT]] • [[topic SODOM|SODOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.17|<< Genesis 19:17]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.19|Genesis 19:19 >>]]</td></tr></table>
 

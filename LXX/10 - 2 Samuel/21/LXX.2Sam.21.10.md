@@ -1,6 +1,85 @@
+---
+title: LXX 2 Samuel 21:10
+type: Verse
+lxx: "And Rizpah daughter of Aiah took  sackcloth, and she strew a bed for herself upon the rock from the beginning of the barley harvest until of which time waters dripped upon them from God from  heaven. And she did not allow the birds of the heaven to rest upon them by day, nor the wild beasts of the field by night."
+greek: "και έλαβε Ρεσφά θυγάτηρ Αϊα τον σάκκον και έστρωσεν αυτόν εαυτή επί την πέτραν απ΄ αρχής θερισμού κριθών έως ου έσταξεν επ΄ αυτούς ύδατα εκ θεού εκ του ουρανού και ουκ αφήκε τα πετεινά του ουρανού καταπαύσαι επ΄ αυτούς ημέρας ουδέ τα θηρία του αγρού νυκτός"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AJAH|AJAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RIZPAH|RIZPAH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[H7532]]"
+- "[[G2364]]"
+- "[[H0345]]"
+- "[[G3588]]"
+- "[[G4526]]"
+- "[[G2532]]"
+- "[[G4766]]"
+- "[[G1473]]"
+- "[[G1438]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4073]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G2326]]"
+- "[[G2915]]"
+- "[[G2193]]"
+- "[[G3739]]"
+- "[[G9147]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G5204]]"
+- "[[G1537]]"
+- "[[G2316]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G0863]]"
+- "[[G3588]]"
+- "[[G4071]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2664]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2250]]"
+- "[[G3761]]"
+- "[[G3588]]"
+- "[[G2342]]"
+- "[[G3588]]"
+- "[[G0068]]"
+- "[[G3571]]"
+---
+
 **LXX 2 Samuel 21:10** 
 <small><sub>**LXX:**</sub></small>
 And Rizpah daughter of Aiah took  sackcloth, and she strew a bed for herself upon the rock from \[the\] beginning of \[the\] barley harvest until of which \[time\] waters dripped upon them from God from  heaven. And she did not allow the birds of the heaven to rest upon them \[by\] day, nor the wild beasts of the field \[by\] night. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2983\|έλαβε]] [[H7532\|Ρεσφά]] [[G2364\|θυγάτηρ]] [[H0345\|Αϊα]] [[G3588\|τον]] [[G4526\|σάκκον]] [[G2532\|και]] [[G4766\|έστρωσεν]] [[G1473\|αυτόν]] [[G1438\|εαυτή]] [[G1909\|επί]] [[G3588\|την]] [[G4073\|πέτραν]] [[G0575\|απ΄]] [[G0746\|αρχής]] [[G2326\|θερισμού]] [[G2915\|κριθών]] [[G2193\|έως]] [[G3739\|ου]] [[G9147\|έσταξεν]] [[G1909\|επ΄]] [[G1473\|αυτούς]] [[G5204\|ύδατα]] [[G1537\|εκ]] [[G2316\|θεού]] [[G1537\|εκ]] [[G3588\|του]] [[G3772\|ουρανού]] [[G2532\|και]] [[G3756\|ουκ]] [[G0863\|αφήκε]] [[G3588\|τα]] [[G4071\|πετεινά]] [[G3588\|του]] [[G3772\|ουρανού]] [[G2664\|καταπαύσαι]] [[G1909\|επ΄]] [[G1473\|αυτούς]] [[G2250\|ημέρας]] [[G3761\|ουδέ]] [[G3588\|τα]] [[G2342\|θηρία]] [[G3588\|του]] [[G0068\|αγρού]] [[G3571\|νυκτός]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AJAH|AJAH]] • [[topic DAVID|DAVID]] • [[topic PARENTS|PARENTS]] • [[topic RIZPAH|RIZPAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.9|<< 2 Samuel 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.11|2 Samuel 21:11 >>]]</td></tr></table>
 
@@ -51,6 +130,6 @@ And Rizpah daughter of Aiah took  sackcloth, and she strew a bed for herself upo
 | of the | **<big>[[G3588\|του]]</big>** |
 | field | **<big>[[G0068\|αγρού]]</big>** |
 | \[by\] night. | **<big>[[G3571\|νυκτός]]</big>** |
-[[2Sam.21.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.9|<< 2 Samuel 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.11|2 Samuel 21:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.21.9|<< 2 Samuel 21:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.21.11|2 Samuel 21:11 >>]]</td></tr></table>
 
 

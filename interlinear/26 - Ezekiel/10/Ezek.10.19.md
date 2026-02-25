@@ -1,8 +1,79 @@
+---
+title: Ezekiel 10:19
+type: Verse
+kjv: "And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also were beside them, and every one stood at the door of the east gate of the LORD’S house; and the glory of the God of Israel was over them above."
+bsb: "As I watched, the cherubim lifted their wings and rose up from the ground, with the wheels beside them as they went. And they stopped at the entrance of the east gate of the house of the LORD, with the glory of the God of Israel above them."
+hebrew: "וַיִּשְׂא֣וּ הַכְּרוּבִ֣ים אֶת־ כַּ֠נְפֵיהֶם וַיֵּר֨וֹמּוּ מִן־ הָאָ֤רֶץ לְעֵינַי֙ בְּצֵאתָ֔ם וְהָאֽוֹפַנִּ֖ים לְעֻמָּתָ֑ם וַֽיַּעֲמֹ֗ד פֶּ֣תַח שַׁ֤עַר בֵּית־ יְהוָה֙ הַקַּדְמוֹנִ֔י וּכְב֧וֹד אֱלֹהֵֽי־ יִשְׂרָאֵ֛ל עֲלֵיהֶ֖ם מִלְמָֽעְלָה׃"
+pericope: "[[Ezek.10.1 God’s Glory Exits the Temple|God’s Glory Exits the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 10
+book/chapter: "[[Ezek.10|Ezekiel 10]]"
+chronological_order: 801
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic WHEEL|WHEEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375G]]"
+- "[[H9009]]"
+- "[[H3742]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3671]]"
+- "[[H9028]]"
+- "[[H7426]]"
+- "[[H4480A]]"
+- "[[H0776G]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H9048]]"
+- "[[H9002]]"
+- "[[H0212]]"
+- "[[H5980]]"
+- "[[H9038]]"
+- "[[H5975G]]"
+- "[[H6607]]"
+- "[[H8179G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H6931G]]"
+- "[[H3519]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H5921A]]"
+- "[[H9006]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 10:19**<big><big>[[Ezek.10.1 God’s Glory Exits the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also [were] beside them, and [every one] stood at the door of the east gate of the LORD’S house; and the glory of the God of Israel [was] over them above.
 <small><sub>**BSB:**</sub></small>
 As I watched, the cherubim lifted their wings and rose up from the ground, with the wheels beside them as they went. And they stopped at the entrance of the east gate of the house of the LORD, with the glory of the God of Israel above them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5375G\|יִּשְׂא֣וּ]] [[H9009\|הַ]][[H3742\|כְּרוּבִ֣ים]] [[H0853\|אֶת]][[H9014\|־]] [[H3671\|כַּ֠נְפֵי]][[H9028\|הֶם]] [[H9001\|וַ]][[H7426\|יֵּר֨וֹמּוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֤רֶץ]] [[H9005\|לְ]][[H5869J\|עֵינַ]][[H9020\|י֙]] [[H9003\|בְּ]][[H3318G\|צֵאתָ֔]][[H9048\|ם]] [[H9002\|וְ]][[H9009\|הָ]][[H0212\|אֽוֹפַנִּ֖ים]] [[H9005\|לְ]][[H5980\|עֻמָּתָ֑]][[H9038\|ם]] [[H9001\|וַֽ]][[H5975G\|יַּעֲמֹ֗ד]] [[H6607\|פֶּ֣תַח]] [[H8179G\|שַׁ֤עַר]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9009\|הַ]][[H6931G\|קַּדְמוֹנִ֔י]] [[H9002\|וּ]][[H3519\|כְב֧וֹד]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H9006\|מִ]][[H9005\|לְ]][[H4605\|מָֽעְלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic WHEEL|WHEEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.10.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.10.18|<< Ezekiel 10:18]]</td><td align="center" style="border:none;">[[Ezek.10|Ezekiel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.10.20|Ezekiel 10:20 >>]]</td></tr></table>
 

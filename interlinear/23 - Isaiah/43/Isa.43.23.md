@@ -1,8 +1,62 @@
+---
+title: Isaiah 43:23
+type: Verse
+kjv: "Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense."
+bsb: "You have not brought Me sheep for burnt offerings, nor honored Me with your sacrifices. I have not burdened you with offerings, nor wearied you with frankincense."
+hebrew: "לֹֽא־ הֵבֵ֤יאתָ לִּי֙ שֵׂ֣ה עֹלֹתֶ֔יךָ וּזְבָחֶ֖יךָ לֹ֣א כִבַּדְתָּ֑נִי לֹ֤א הֶעֱבַדְתִּ֙יךָ֙ בְּמִנְחָ֔ה וְלֹ֥א הוֹגַעְתִּ֖יךָ בִּלְבוֹנָֽה׃"
+pericope: "[[Isa.43.22 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0935P]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H7716]]"
+- "[[H5930A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H2077]]"
+- "[[H3513G]]"
+- "[[H5647J]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H4503G]]"
+- "[[H3021]]"
+- "[[H3828]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:23**<big><big>[[Isa.43.22 Israel’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.
 <small><sub>**BSB:**</sub></small>
 You have not brought Me sheep for burnt offerings, nor honored Me with your sacrifices. I have not burdened you with offerings, nor wearied you with frankincense.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H0935P\|הֵבֵ֤יאתָ]] [[H9005\|לִּ]][[H9030\|י֙]] [[H7716\|שֵׂ֣ה]] [[H5930A\|עֹלֹתֶ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H2077\|זְבָחֶ֖י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H3513G\|כִבַּדְתָּ֑]][[H9030\|נִי]] [[H3808\|לֹ֤א]] [[H5647J\|הֶעֱבַדְתִּ֙י]][[H9031\|ךָ֙]] [[H9003\|בְּ]][[H4503G\|מִנְחָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3021\|הוֹגַעְתִּ֖י]][[H9031\|ךָ]] [[H9003\|בִּ]][[H3828\|לְבוֹנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic FRANKINCENSE|FRANKINCENSE]] • [[topic ISAIAH|ISAIAH]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.22|<< Isaiah 43:22]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.24|Isaiah 43:24 >>]]</td></tr></table>
 

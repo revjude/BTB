@@ -1,8 +1,58 @@
+---
+title: Judges 20:41
+type: Verse
+kjv: "And when the men of Israel turned again, the men of Benjamin were amazed: for they saw that evil was come upon them."
+bsb: "Then the men of Israel turned back on them, and the men of Benjamin were terrified when they realized that disaster had come upon them."
+hebrew: "וְאִ֤ישׁ יִשְׂרָאֵל֙ הָפַ֔ךְ וַיִּבָּהֵ֖ל אִ֣ישׁ בִּנְיָמִ֑ן כִּ֣י רָאָ֔ה כִּֽי־ נָגְעָ֥ה עָלָ֖יו הָרָעָֽה׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H2015]]"
+- "[[H9001]]"
+- "[[H0926]]"
+- "[[H1144G]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H9014]]"
+- "[[H5060]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:41**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the men of Israel turned again, the men of Benjamin were amazed: for they saw that evil was come upon them.
 <small><sub>**BSB:**</sub></small>
 Then the men of Israel turned back on them, and the men of Benjamin were terrified when they realized that disaster had come upon them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִ֤ישׁ]] [[H3478\|יִשְׂרָאֵל֙]] [[H2015\|הָפַ֔ךְ]] [[H9001\|וַ]][[H0926\|יִּבָּהֵ֖ל]] [[H0376G\|אִ֣ישׁ]] [[H1144G\|בִּנְיָמִ֑ן]] [[H3588A\|כִּ֣י]] [[H7200G\|רָאָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5060\|נָגְעָ֥ה]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9009\|הָ]][[H7451C\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.40|<< Judges 20:40]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.42|Judges 20:42 >>]]</td></tr></table>
 

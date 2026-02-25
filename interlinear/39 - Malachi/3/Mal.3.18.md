@@ -1,8 +1,57 @@
+---
+title: Malachi 3:18
+type: Verse
+kjv: "Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not."
+bsb: "So you will again distinguish between the righteous and the wicked, between those who serve God and those who do not.”"
+hebrew: "וְשַׁבְתֶּם֙ וּרְאִיתֶ֔ם בֵּ֥ין צַדִּ֖יק לְרָשָׁ֑ע בֵּ֚ין עֹבֵ֣ד אֱלֹהִ֔ים לַאֲשֶׁ֖ר לֹ֥א עֲבָדֽוֹ׃ ס"
+pericope: "[[Mal.3.13 The Book of Remembrance|The Book of Remembrance]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725J]]"
+- "[[H7200G]]"
+- "[[H0996G]]"
+- "[[H6662]]"
+- "[[H9005]]"
+- "[[H7563]]"
+- "[[H5647H]]"
+- "[[H0430G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Malachi 3:18**<big><big>[[Mal.3.13 The Book of Remembrance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth him not.
 <small><sub>**BSB:**</sub></small>
 So you will again distinguish between the righteous and the wicked, between those who serve God and those who do not.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725J\|שַׁבְתֶּם֙]] [[H9001\|וּ]][[H7200G\|רְאִיתֶ֔ם]] [[H0996G\|בֵּ֥ין]] [[H6662\|צַדִּ֖יק]] [[H9005\|לְ]][[H7563\|רָשָׁ֑ע]] [[H0996G\|בֵּ֚ין]] [[H5647H\|עֹבֵ֣ד]] [[H0430G\|אֱלֹהִ֔ים]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֖ר]] [[H3808\|לֹ֥א]] [[H5647H\|עֲבָדֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.17|<< Malachi 3:17]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.1|Malachi 4:1 >>]]</td></tr></table>
 
@@ -18,7 +67,7 @@ So you will again distinguish between the righteous and the wicked, between thos
 | \<of> God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֔ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [one] who  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he serves him  |**<big>&#8207;[[H5647H\|עֲבָדֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| a.va.D<small><sup>[[HVqp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he serves him  |**<big>&#8207;[[H5647H\|עֲבָדֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| a.va.D<small><sup>[[HVqp3ms]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.17|<< Malachi 3:17]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.4.1|Malachi 4:1 >>]]</td></tr></table>
 
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Half-Tribe of Manasseh
+type: Pericope
 pericope: "[[1Chr.5.23 The Half-Tribe of Manasseh|The Half-Tribe of Manasseh]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 5
 book/chapter: "[[1Chr.5|1 Chronicles 5]]"
-genre:
+chronological_order: 324
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 4
 verses:
 - "[[1Chr.5.23]]"
 - "[[1Chr.5.24]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Chr.5.26]]"
 ---
 
-[[1Chr.5|1 Chronicles 5:23 - 1 Chronicles 5:26]]
+<small>[[1Chr.5|1 Chronicles 5:23-26]]</small>
 *The Half-Tribe of Manasseh*
 
 [[1Chr.5.23|23]] And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baalhermon and Senir, and unto mount Hermon.

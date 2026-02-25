@@ -1,10 +1,61 @@
+---
+title: James 2:23
+type: Verse
+kjv: "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
+bsb: "And the Scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God."
+greek: "καὶ ἐπληρώθη ἡ γραφὴ ἡ λέγουσα· ἐπίστευσεν δὲ Ἀβραὰμ τῷ θεῷ καὶ ἐλογίσθη αὐτῷ εἰς δικαιοσύνην καὶ φίλος θεοῦ ἐκλήθη."
+pericope: "[[Jas.2.14 Faith and Works|Faith and Works]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4137]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G3004G]]"
+- "[[G4100]]"
+- "[[G1161]]"
+- "[[G0011]]"
+- "[[G2316]]"
+- "[[G3049]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1343]]"
+- "[[G5384]]"
+- "[[G2564G]]"
+texts:
+- NKO
+---
+
 **James 2:23**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God.
 <small><sub>**BSB:**</sub></small>
 And the Scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God.
-<small><sub>**Literal:**</sub></small>
-And was fulfilled the Scripture which is saying; Believed then Abraham <the> in God and it was counted to him for righteousness and a friend of God he was called.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.22|<< James 2:22]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.24|James 2:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4137\|ἐπληρώθη]]  [[G3588\|ἡ]]  [[G1124\|γραφὴ]]  [[G3588\|ἡ]]  [[G3004G\|λέγουσα·]]  [[G4100\|ἐπίστευσεν]]  [[G1161\|δὲ]]  [[G0011\|Ἀβραὰμ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G2532\|καὶ]]  [[G3049\|ἐλογίσθη]]  [[G0846\|αὐτῷ]]  [[G1519\|εἰς]]  [[G1343\|δικαιοσύνην]]  [[G2532\|καὶ]]  [[G5384\|φίλος]]  [[G2316\|θεοῦ]]  [[G2564G\|ἐκλήθη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic FAITH|FAITH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.22|<< James 2:22]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.24|James 2:24 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **James 2:23** is...
 > $\quad$ referencing: [[LXX.Gen.15.6|Gen 15:6]]

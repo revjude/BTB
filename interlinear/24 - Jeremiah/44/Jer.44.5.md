@@ -1,8 +1,59 @@
+---
+title: Jeremiah 44:5
+type: Verse
+kjv: "But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods."
+bsb: "But they did not listen or incline their ears; they did not turn from their wickedness or stop burning incense to other gods."
+hebrew: "וְלֹ֤א שָֽׁמְעוּ֙ וְלֹא־ הִטּ֣וּ אֶת־ אָזְנָ֔ם לָשׁ֖וּב מֵרָֽעָתָ֑ם לְבִלְתִּ֥י קַטֵּ֖ר לֵאלֹהִ֥ים אֲחֵרִֽים׃"
+pericope: "[[Jer.44.1 Judgment on the Jews in Egypt|Judgment on the Jews in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H5186]]"
+- "[[H0853]]"
+- "[[H0241G]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H7725O]]"
+- "[[H9006]]"
+- "[[H7451I]]"
+- "[[H1115]]"
+- "[[H6999H]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:5**<big><big>[[Jer.44.1 Judgment on the Jews in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods.
 <small><sub>**BSB:**</sub></small>
 But they did not listen or incline their ears; they did not turn from their wickedness or stop burning incense to other gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8085G\|שָֽׁמְעוּ֙]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5186\|הִטּ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0241G\|אָזְנָ֔]][[H9028\|ם]] [[H9005\|לָ]][[H7725O\|שׁ֖וּב]] [[H9006\|מֵ]][[H7451I\|רָֽעָתָ֑]][[H9028\|ם]] [[H9005\|לְ]][[H1115\|בִלְתִּ֥י]] [[H6999H\|קַטֵּ֖ר]] [[H9005\|לֵ]][[H0430\|אלֹהִ֥ים]] [[H0312\|אֲחֵרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.4|<< Jeremiah 44:4]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.6|Jeremiah 44:6 >>]]</td></tr></table>
 

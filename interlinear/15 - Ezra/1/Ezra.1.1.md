@@ -1,8 +1,76 @@
+---
+title: Ezra 1:1
+type: Verse
+kjv: "Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+bsb: "In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows:"
+hebrew: "וּבִשְׁנַ֣ת אַחַ֗ת לְכ֙וֹרֶשׁ֙ מֶ֣לֶךְ פָּרַ֔ס לִכְל֥וֹת דְּבַר־ יְהוָ֖ה מִפִּ֣י יִרְמְיָ֑ה הֵעִ֣יר יְהוָ֗ה אֶת־ ר֙וּחַ֙ כֹּ֣רֶשׁ מֶֽלֶךְ־ פָּרַ֔ס וַיַּֽעֲבֶר־ קוֹל֙ בְּכָל־ מַלְכוּת֔וֹ וְגַם־ בְּמִכְתָּ֖ב לֵאמֹֽר׃"
+pericope: "[[Ezra.1.1 The Proclamation of Cyrus|The Proclamation of Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 1
+book/chapter: "[[Ezra.1|Ezra 1]]"
+chronological_order: 849
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic EMANCIPATION|EMANCIPATION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H3566]]"
+- "[[H4428G]]"
+- "[[H6539]]"
+- "[[H3615H]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H3414L]]"
+- "[[H5782]]"
+- "[[H0853]]"
+- "[[H7307G]]"
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H6963J]]"
+- "[[H3605]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H1571]]"
+- "[[H4385]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 1:1**<big><big>[[Ezra.1.1 The Proclamation of Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and [put it] also in writing, saying,
 <small><sub>**BSB:**</sub></small>
 In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H8141\|שְׁנַ֣ת]] [[H0259\|אַחַ֗ת]] [[H9005\|לְ]][[H3566\|כ֙וֹרֶשׁ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H6539\|פָּרַ֔ס]] [[H9005\|לִ]][[H3615H\|כְל֥וֹת]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מִ]][[H6310G\|פִּ֣י]] [[H3414L\|יִרְמְיָ֑ה]] [[H5782\|הֵעִ֣יר]] [[H3068G\|יְהוָ֗ה]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֙וּחַ֙]] [[H3566\|כֹּ֣רֶשׁ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H6539\|פָּרַ֔ס]] [[H9001\|וַ]][[H5674A\|יַּֽעֲבֶר]][[H9014\|־]] [[H6963J\|קוֹל֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H4438\|מַלְכוּת֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H9003\|בְּ]][[H4385\|מִכְתָּ֖ב]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic EMANCIPATION|EMANCIPATION]] • [[topic GOD|GOD]] • [[topic HEATHEN|HEATHEN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.36.23|<< 2 Chronicles 36:23]]</td><td align="center" style="border:none;">[[Ezra.1|Ezra 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.1.2|Ezra 1:2 >>]]</td></tr></table>
 

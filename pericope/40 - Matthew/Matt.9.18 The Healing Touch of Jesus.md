@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Healing Touch of Jesus
+type: Pericope
 pericope: "[[Matt.9.18 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 9
 book/chapter: "[[Matt.9|Matthew 9]]"
-genre:
+chronological_order: 951
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Matt.9.18]]"
 - "[[Matt.9.19]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Matt.9.26]]"
 ---
 
-[[Matt.9|Matthew 9:18 - Matthew 9:26]]
+<small>[[Matt.9|Matthew 9:18-26]]</small>
 *The Healing Touch of Jesus*
 
 [[Matt.9.18|18]] While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.

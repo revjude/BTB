@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mourning Turned to Joy
+type: Pericope
 pericope: "[[Jer.31.1 Mourning Turned to Joy|Mourning Turned to Joy]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 31
 book/chapter: "[[Jer.31|Jeremiah 31]]"
-genre:
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 25
 verses:
 - "[[Jer.31.1]]"
 - "[[Jer.31.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Jer.31.25]]"
 ---
 
-[[Jer.31|Jeremiah 31:1 - Jeremiah 31:25]]
+<small>[[Jer.31|Jeremiah 31:1-25]]</small>
 *Mourning Turned to Joy*
 
 [[Jer.31.1|1]] At the same time, saith the LORD, will I be the God of all the families of Israel, and they shall be my people.

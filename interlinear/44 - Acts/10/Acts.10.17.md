@@ -1,10 +1,71 @@
+---
+title: Acts 10:17
+type: Verse
+kjv: "Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made inquiry for Simon’s house, and stood before the gate,"
+bsb: "While Peter was puzzling over the meaning of the vision, the men sent by Cornelius found Simon’s house and approached the gate."
+greek: "ὡς δὲ ἐν ἑαυτῷ διηπόρει ὁ Πέτρος τί ἂν εἴη τὸ ὅραμα ὃ εἶδεν, καὶ ἰδοὺ οἱ ἄνδρες οἱ ἀπεσταλμένοι ὑπὸ τοῦ Κορνηλίου διερωτήσαντες τὴν οἰκίαν τοῦ Σίμωνος, ἐπέστησαν ἐπὶ τὸν πυλῶνα·"
+pericope: "[[Acts.10.17 Peter Called to Caesarea|Peter Called to Caesarea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic SIMON|SIMON]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G1280]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G5101]]"
+- "[[G0302]]"
+- "[[G1510]]"
+- "[[G3705]]"
+- "[[G3739]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0435G]]"
+- "[[G0649]]"
+- "[[G5259G]]"
+- "[[G2883]]"
+- "[[G1331]]"
+- "[[G3614G]]"
+- "[[G4613N]]"
+- "[[G2186]]"
+- "[[G1909]]"
+- "[[G4440]]"
+texts:
+- NKO
+- k
+- N(k)O
+- no
+---
+
 **Acts 10:17**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made inquiry for Simon’s house, and stood before the gate,
 <small><sub>**BSB:**</sub></small>
 While Peter was puzzling over the meaning of the vision, the men sent by Cornelius found Simon’s house and approached the gate.
-<small><sub>**Literal:**</sub></small>
-While then in himself was perplexed <the> Peter what maybe would be the vision that he had seen, and behold the men who sent from <the> Cornelius having inquired for the house <the> of Simon, stood at the gate;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.16|<< Acts 10:16]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.18|Acts 10:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτῷ]]  [[G1280\|διηπόρει]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G5101\|τί]]  [[G0302\|ἂν]]  [[G1510\|εἴη]]  [[G3588\|τὸ]]  [[G3705\|ὅραμα]]  [[G3739\|ὃ]]  [[G1492H\|εἶδεν,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G3588\|οἱ]]  [[G0435G\|ἄνδρες]]  [[G3588\|οἱ]]  [[G0649\|ἀπεσταλμένοι]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2883\|Κορνηλίου]]  [[G1331\|διερωτήσαντες]]  [[G3588\|τὴν]]  [[G3614G\|οἰκίαν]]  [[G3588\|τοῦ]]  [[G4613N\|Σίμωνος,]]  [[G2186\|ἐπέστησαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G4440\|πυλῶνα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic JOPPA|JOPPA]] • [[topic MISSIONS|MISSIONS]] • [[topic SIMON|SIMON]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.16|<< Acts 10:16]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.18|Acts 10:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

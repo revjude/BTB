@@ -1,8 +1,77 @@
+---
+title: Joshua 2:10
+type: Verse
+kjv: "For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom ye utterly destroyed."
+bsb: "For we have heard how the LORD dried up the waters of the Red Sea before you when you came out of Egypt, and what you did to Sihon and Og, the two kings of the Amorites across the Jordan, whom you devoted to destruction."
+hebrew: "כִּ֣י שָׁמַ֗עְנוּ אֵ֠ת אֲשֶׁר־ הוֹבִ֨ישׁ יְהוָ֜ה אֶת־ מֵ֤י יַם־ סוּף֙ מִפְּנֵיכֶ֔ם בְּצֵאתְכֶ֖ם מִמִּצְרָ֑יִם וַאֲשֶׁ֣ר עֲשִׂיתֶ֡ם לִשְׁנֵי֩ מַלְכֵ֨י הָאֱמֹרִ֜י אֲשֶׁ֨ר בְּעֵ֤בֶר הַיַּרְדֵּן֙ לְסִיחֹ֣ן וּלְע֔וֹג אֲשֶׁ֥ר הֶחֱרַמְתֶּ֖ם אוֹתָֽם׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OG|OG]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3001]]"
+- "[[H3068G]]"
+- "[[H4325G]]"
+- "[[H3220G]]"
+- "[[H5488G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H9046]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H8147]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H5676H]]"
+- "[[H3383]]"
+- "[[H5511]]"
+- "[[H5747]]"
+- "[[H2763A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:10**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For we have heard how the LORD dried up the water of the Red sea for you, when ye came out of Egypt; and what ye did unto the two kings of the Amorites, that [were] on the other side Jordan, Sihon and Og, whom ye utterly destroyed.
 <small><sub>**BSB:**</sub></small>
 For we have heard how the LORD dried up the waters of the Red Sea before you when you came out of Egypt, and what you did to Sihon and Og, the two kings of the Amorites across the Jordan, whom you devoted to destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H8085G\|שָׁמַ֗עְנוּ]] [[H0853\|אֵ֠ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3001\|הוֹבִ֨ישׁ]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4325G\|מֵ֤י]] [[H3220G\|יַם]][[H9014\|־]] [[H5488G\|סוּף֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶ֔ם]] [[H9003\|בְּ]][[H3318G\|צֵאתְ]][[H9046\|כֶ֖ם]] [[H9006\|מִ]][[H4714G\|מִּצְרָ֑יִם]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עֲשִׂיתֶ֡ם]] [[H9005\|לִ]][[H8147\|שְׁנֵי֩]] [[H4428G\|מַלְכֵ֨י]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֜י]] [[H0834A\|אֲשֶׁ֨ר]] [[H9003\|בְּ]][[H5676H\|עֵ֤בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּן֙]] [[H9005\|לְ]][[H5511\|סִיחֹ֣ן]] [[H9002\|וּ]][[H9005\|לְ]][[H5747\|ע֔וֹג]] [[H0834A\|אֲשֶׁ֥ר]] [[H2763A\|הֶחֱרַמְתֶּ֖ם]] [[H0853\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]] • [[topic MIRACLES|MIRACLES]] • [[topic OG|OG]] • [[topic RECONNOISSANCE|RECONNOISSANCE]] • [[topic RED SEA|RED SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.9|<< Joshua 2:9]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.11|Joshua 2:11 >>]]</td></tr></table>
 

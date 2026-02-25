@@ -1,8 +1,64 @@
+---
+title: Leviticus 2:9
+type: Verse
+kjv: "And the priest shall take from the meat offering a memorial thereof, and shall burn it upon the altar: it is an offering made by fire, of a sweet savour unto the LORD."
+bsb: "The priest is to remove the memorial portion from the grain offering and burn it on the altar as a food offering, a pleasing aroma to the LORD."
+hebrew: "וְהֵרִ֨ים הַכֹּהֵ֤ן מִן־ הַמִּנְחָה֙ אֶת־ אַזְכָּ֣רָתָ֔הּ וְהִקְטִ֖יר הַמִּזְבֵּ֑חָה אִשֵּׁ֛ה רֵ֥יחַ נִיחֹ֖חַ לַיהוָֽה׃"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H7311A]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H4503G]]"
+- "[[H0853]]"
+- "[[H0234]]"
+- "[[H9024]]"
+- "[[H6999A]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H0801]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 2:9**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall take from the meat offering a memorial thereof, and shall burn [it] upon the altar: [it is] an offering made by fire, of a sweet savour unto the LORD.
 <small><sub>**BSB:**</sub></small>
 The priest is to remove the memorial portion from the grain offering and burn it on the altar as a food offering, a pleasing aroma to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7311A\|הֵרִ֨ים]] [[H9009\|הַ]][[H3548\|כֹּהֵ֤ן]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0234\|אַזְכָּ֣רָתָ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H6999A\|הִקְטִ֖יר]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֑חָ]][[H9011\|ה]] [[H0801\|אִשֵּׁ֛ה]] [[H7381\|רֵ֥יחַ]] [[H5207\|נִיחֹ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.8|<< Leviticus 2:8]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.10|Leviticus 2:10 >>]]</td></tr></table>
 

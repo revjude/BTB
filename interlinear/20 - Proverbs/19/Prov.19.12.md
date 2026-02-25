@@ -1,8 +1,56 @@
+---
+title: Proverbs 19:12
+type: Verse
+kjv: "The king’s wrath is as the roaring of a lion; but his favour is as dew upon the grass."
+bsb: "A king’s rage is like the roar of a lion, but his favor is like dew on the grass."
+hebrew: "נַ֣הַם כַּ֭כְּפִיר זַ֣עַף מֶ֑לֶךְ וּכְטַ֖ל עַל־ עֵ֣שֶׂב רְצוֹנֽוֹ׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic LION|LION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H5099]]"
+- "[[H9004]]"
+- "[[H3715A]]"
+- "[[H2197]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H2919]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6212]]"
+- "[[H7522]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:12**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king’s wrath [is] as the roaring of a lion; but his favour [is] as dew upon the grass.
 <small><sub>**BSB:**</sub></small>
 A king’s rage is like the roar of a lion, but his favor is like dew on the grass.
+<small><sub>**Hebrew:**</sub></small>
+[[H5099\|נַ֣הַם]] [[H9004\|כַּ֭]][[H3715A\|כְּפִיר]] [[H2197\|זַ֣עַף]] [[H4428G\|מֶ֑לֶךְ]] [[H9002\|וּ]][[H9004\|כְ]][[H2919\|טַ֖ל]] [[H5921A\|עַל]][[H9014\|־]] [[H6212\|עֵ֣שֶׂב]] [[H7522\|רְצוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic CITIZENS|CITIZENS]] • [[topic LION|LION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.11|<< Proverbs 19:11]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.13|Proverbs 19:13 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Leviticus 23:16
+type: Verse
+kjv: "Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD."
+bsb: "You shall count off fifty days until the day after the seventh Sabbath, and then present an offering of new grain to the LORD."
+hebrew: "עַ֣ד מִֽמָּחֳרַ֤ת הַשַּׁבָּת֙ הַשְּׁבִיעִ֔ת תִּסְפְּר֖וּ חֲמִשִּׁ֣ים י֑וֹם וְהִקְרַבְתֶּ֛ם מִנְחָ֥ה חֲדָשָׁ֖ה לַיהוָֽה׃"
+pericope: "[[Lev.23.15 The Feast of Weeks|The Feast of Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic HARVEST|HARVEST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PENTECOST|PENTECOST]]"
+strongs:
+- "[[H5704]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H7637]]"
+- "[[H5608A]]"
+- "[[H2572]]"
+- "[[H3117G]]"
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H4503G]]"
+- "[[H2319H]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 23:16**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even unto the morrow after the seventh sabbath shall ye number fifty days; and ye shall offer a new meat offering unto the LORD.
 <small><sub>**BSB:**</sub></small>
 You shall count off fifty days until the day after the seventh Sabbath, and then present an offering of new grain to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַ֣ד]] [[H9006\|מִֽ]][[H4283\|מָּחֳרַ֤ת]] [[H9009\|הַ]][[H7676\|שַּׁבָּת֙]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֔ת]] [[H5608A\|תִּסְפְּר֖וּ]] [[H2572\|חֲמִשִּׁ֣ים]] [[H3117G\|י֑וֹם]] [[H9001\|וְ]][[H7126H\|הִקְרַבְתֶּ֛ם]] [[H4503G\|מִנְחָ֥ה]] [[H2319H\|חֲדָשָׁ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HARVEST|HARVEST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PENTECOST|PENTECOST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.15|<< Leviticus 23:15]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.17|Leviticus 23:17 >>]]</td></tr></table>
 

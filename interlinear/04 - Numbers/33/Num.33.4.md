@@ -1,8 +1,62 @@
+---
+title: Numbers 33:4
+type: Verse
+kjv: "For the Egyptians buried all their firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments."
+bsb: "who were burying all their firstborn, whom the LORD had struck down among them; for the LORD had executed judgment against their gods."
+hebrew: "וּמִצְרַ֣יִם מְקַבְּרִ֗ים אֵת֩ אֲשֶׁ֨ר הִכָּ֧ה יְהוָ֛ה בָּהֶ֖ם כָּל־ בְּכ֑וֹר וּבֵאלֹ֣הֵיהֶ֔ם עָשָׂ֥ה יְהוָ֖ה שְׁפָטִֽים׃"
+pericope: "[[Num.33.1 Forty-Two Journeys of the Israelites|Forty-Two Journeys of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H4713]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H5221]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1060]]"
+- "[[H0430]]"
+- "[[H9028]]"
+- "[[H6213A]]"
+- "[[H8201]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:4**<big><big>[[Num.33.1 Forty-Two Journeys of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Egyptians buried all [their] firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments.
 <small><sub>**BSB:**</sub></small>
 who were burying all their firstborn, whom the LORD had struck down among them; for the LORD had executed judgment against their gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4713\|מִצְרַ֣יִם]] [[H6912\|מְקַבְּרִ֗ים]] [[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H5221\|הִכָּ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בָּ]][[H9038\|הֶ֖ם]] [[H3605\|כָּל]][[H9014\|־]] [[H1060\|בְּכ֑וֹר]] [[H9002\|וּ]][[H9003\|בֵ]][[H0430\|אלֹ֣הֵי]][[H9028\|הֶ֔ם]] [[H6213A\|עָשָׂ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H8201\|שְׁפָטִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRSTBORN|FIRSTBORN]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.3|<< Numbers 33:3]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.5|Numbers 33:5 >>]]</td></tr></table>
 

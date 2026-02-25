@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Curses Pronounced from Ebal
+type: Pericope
 pericope: "[[Deut.27.11 Curses Pronounced from Ebal|Curses Pronounced from Ebal]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 27
 book/chapter: "[[Deut.27|Deuteronomy 27]]"
-genre:
+chronological_order: 223
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 16
 verses:
 - "[[Deut.27.11]]"
 - "[[Deut.27.12]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Deut.27.26]]"
 ---
 
-[[Deut.27|Deuteronomy 27:11 - Deuteronomy 27:26]]
+<small>[[Deut.27|Deuteronomy 27:11-26]]</small>
 *Curses Pronounced from Ebal*
 
 [[Deut.27.11|11]] And Moses charged the people the same day, saying,

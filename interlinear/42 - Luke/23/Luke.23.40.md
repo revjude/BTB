@@ -1,10 +1,62 @@
+---
+title: Luke 23:40
+type: Verse
+kjv: "But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?"
+bsb: "But the other one rebuked him, saying, “Do you not even fear God, since you are under the same judgment?"
+greek: "Ἀποκριθεὶς δὲ ὁ ἕτερος ἐπιτιμῶν αὐτῷ ἔφη· οὐδὲ φοβῇ σὺ τὸν θεὸν ὅτι ἐν τῷ αὐτῷ κρίματι εἶ;"
+pericope: "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2087]]"
+- "[[G2008]]"
+- "[[G0846]]"
+- "[[G5346]]"
+- "[[G3761]]"
+- "[[G5399]]"
+- "[[G4771]]"
+- "[[G2316]]"
+- "[[G3754H]]"
+- "[[G1722]]"
+- "[[G2917]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 23:40**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the other answering rebuked him, saying, Dost not thou fear God, seeing thou art in the same condemnation?
 <small><sub>**BSB:**</sub></small>
 But the other one rebuked him, saying, “Do you not even fear God, since you are under the same judgment?
-<small><sub>**Literal:**</sub></small>
-Answering now the other rebuking him was speaking; Not even do fear you yourself <the> God that under the same judgment you are?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.39|<< Luke 23:39]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.41|Luke 23:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2087\|ἕτερος]]  [[G2008\|ἐπιτιμῶν]]  [[G0846\|αὐτῷ]]  [[G5346\|ἔφη·]]  [[G3761\|οὐδὲ]]  [[G5399\|φοβῇ]]  [[G4771\|σὺ]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G3754H\|ὅτι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0846\|αὐτῷ]]  [[G2917\|κρίματι]]  [[G1510\|εἶ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVERTS|CONVERTS]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RESIGNATION|RESIGNATION]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.39|<< Luke 23:39]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.41|Luke 23:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

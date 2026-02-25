@@ -1,8 +1,78 @@
+---
+title: Ezekiel 12:19
+type: Verse
+kjv: "And say unto the people of the land, Thus saith the Lord GOD of the inhabitants of Jerusalem, and of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein."
+bsb: "Then tell the people of the land that this is what the Lord GOD says about those living in Jerusalem and in the land of Israel: ‘They will eat their bread with anxiety and drink their water in dread, for their land will be stripped of everything in it because of the violence of all who dwell in it."
+hebrew: "וְאָמַרְתָּ֣ אֶל־ עַ֣ם הָאָ֡רֶץ כֹּֽה־ אָמַר֩ אֲדֹנָ֨י יְהוִ֜ה לְיוֹשְׁבֵ֤י יְרוּשָׁלִַ֙ם֙ אֶל־ אַדְמַ֣ת יִשְׂרָאֵ֔ל לַחְמָם֙ בִּדְאָגָ֣ה יֹאכֵ֔לוּ וּמֵֽימֵיהֶ֖ם בְּשִׁמָּמ֣וֹן יִשְׁתּ֑וּ לְמַ֜עַן תֵּשַׁ֤ם אַרְצָהּ֙ מִמְּלֹאָ֔הּ מֵחֲמַ֖ס כָּֽל־ הַיֹּשְׁבִ֥ים בָּֽהּ׃"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H0127G]]"
+- "[[H3478]]"
+- "[[H3899H]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H1674]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H8078]]"
+- "[[H8354]]"
+- "[[H4616]]"
+- "[[H3456]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H4393]]"
+- "[[H2555]]"
+- "[[H3605]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:19**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say unto the people of the land, Thus saith the Lord GOD of the inhabitants of Jerusalem, [and] of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein.
 <small><sub>**BSB:**</sub></small>
 Then tell the people of the land that this is what the Lord GOD says about those living in Jerusalem and in the land of Israel: ‘They will eat their bread with anxiety and drink their water in dread, for their land will be stripped of everything in it because of the violence of all who dwell in it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֶל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֡רֶץ]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֩]] [[H0136\|אֲדֹנָ֨י]] [[H3069\|יְהוִ֜ה]] [[H9005\|לְ]][[H3427\|יוֹשְׁבֵ֤י]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0127G\|אַדְמַ֣ת]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3899H\|לַחְמָ]][[H9028\|ם֙]] [[H9003\|בִּ]][[H1674\|דְאָגָ֣ה]] [[H0398\|יֹאכֵ֔לוּ]] [[H9002\|וּ]][[H4325G\|מֵֽימֵי]][[H9028\|הֶ֖ם]] [[H9003\|בְּ]][[H8078\|שִׁמָּמ֣וֹן]] [[H8354\|יִשְׁתּ֑וּ]] [[H4616\|לְמַ֜עַן]] [[H3456\|תֵּשַׁ֤ם]] [[H0776G\|אַרְצָ]][[H9024\|הּ֙]] [[H9006\|מִ]][[H4393\|מְּלֹאָ֔]][[H9024\|הּ]] [[H9006\|מֵ]][[H2555\|חֲמַ֖ס]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֥ים]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.18|<< Ezekiel 12:18]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.20|Ezekiel 12:20 >>]]</td></tr></table>
 

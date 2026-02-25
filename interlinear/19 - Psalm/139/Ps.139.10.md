@@ -1,8 +1,55 @@
+---
+title: Psalm 139:10
+type: Verse
+kjv: "Even there shall thy hand lead me, and thy right hand shall hold me."
+bsb: "even there Your hand will guide me; Your right hand will hold me fast."
+hebrew: "גַּם־ שָׁ֭ם יָדְךָ֣ תַנְחֵ֑נִי וְֽתֹאחֲזֵ֥נִי יְמִינֶֽךָ׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5148]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0270]]"
+- "[[H3225G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:10**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even there shall thy hand lead me, and thy right hand shall hold me.
 <small><sub>**BSB:**</sub></small>
 even there Your hand will guide me; Your right hand will hold me fast.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H8033G\|שָׁ֭ם]] [[H3027G\|יָדְ]][[H9021\|ךָ֣]] [[H5148\|תַנְחֵ֑]][[H9030\|נִי]] [[H9002\|וְֽ]][[H0270\|תֹאחֲזֵ֥]][[H9030\|נִי]] [[H3225G\|יְמִינֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.9|<< Psalms 139:9]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.11|Psalms 139:11 >>]]</td></tr></table>
 

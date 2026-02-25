@@ -1,8 +1,77 @@
+---
+title: Joshua 23:14
+type: Verse
+kjv: "And, behold, this day I am going the way of all the earth: and ye know in all your hearts and in all your souls, that not one thing hath failed of all the good things which the LORD your God spake concerning you; all are come to pass unto you, and not one thing hath failed thereof."
+bsb: "Now behold, today I am going the way of all the earth, and you know with all your heart and soul that not one of the good promises the LORD your God made to you has failed. Everything was fulfilled for you; not one promise has failed."
+hebrew: "וְהִנֵּ֨ה אָנֹכִ֤י הוֹלֵךְ֙ הַיּ֔וֹם בְּדֶ֖רֶךְ כָּל־ הָאָ֑רֶץ וִידַעְתֶּ֞ם בְּכָל־ לְבַבְכֶ֣ם וּבְכָל־ נַפְשְׁכֶ֗ם כִּ֣י לֹֽא־ נָפַל֩ דָּבָ֨ר אֶחָ֜ד מִכֹּ֣ל׀ הַדְּבָרִ֣ים הַטּוֹבִ֗ים אֲשֶׁ֨ר דִּבֶּ֜ר יְהוָ֤ה אֱלֹהֵיכֶם֙ עֲלֵיכֶ֔ם הַכֹּל֙ בָּ֣אוּ לָכֶ֔ם לֹֽא־ נָפַ֥ל מִמֶּ֖נּוּ דָּבָ֥ר אֶחָֽד׃"
+pericope: "[[Josh.23.1 Joshua’s Charge to Leaders|Joshua’s Charge to Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 23
+book/chapter: "[[Josh.23|Joshua 23]]"
+chronological_order: 253
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H1980G]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H5315G]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H5307L]]"
+- "[[H1697I]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9015]]"
+- "[[H2896A]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 23:14**<big><big>[[Josh.23.1 Joshua’s Charge to Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, this day I [am] going the way of all the earth: and ye know in all your hearts and in all your souls, that not one thing hath failed of all the good things which the LORD your God spake concerning you; all are come to pass unto you, [and] not one thing hath failed thereof.
 <small><sub>**BSB:**</sub></small>
 Now behold, today I am going the way of all the earth, and you know with all your heart and soul that not one of the good promises the LORD your God made to you has failed. Everything was fulfilled for you; not one promise has failed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֨ה]] [[H0595\|אָנֹכִ֤י]] [[H1980G\|הוֹלֵךְ֙]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H9003\|בְּ]][[H1870L\|דֶ֖רֶךְ]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וִ]][[H3045\|ידַעְתֶּ֞ם]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֣ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשְׁ]][[H9026\|כֶ֗ם]] [[H3588A\|כִּ֣י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5307L\|נָפַל֩]] [[H1697I\|דָּבָ֨ר]] [[H0259\|אֶחָ֜ד]] [[H9006\|מִ]][[H3605\|כֹּ֣ל]][[H9015\|׀]] [[H9009\|הַ]][[H1697I\|דְּבָרִ֣ים]] [[H9009\|הַ]][[H2896A\|טּוֹבִ֗ים]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696I\|דִּבֶּ֜ר]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶם֙]] [[H5921A\|עֲלֵי]][[H9036\|כֶ֔ם]] [[H9009\|הַ]][[H3605\|כֹּל֙]] [[H0935G\|בָּ֣אוּ]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5307L\|נָפַ֥ל]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H1697I\|דָּבָ֥ר]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.23.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.23.13|<< Joshua 23:13]]</td><td align="center" style="border:none;">[[Josh.23|Joshua 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.23.15|Joshua 23:15 >>]]</td></tr></table>
 

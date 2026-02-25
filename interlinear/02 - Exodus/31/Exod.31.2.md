@@ -1,8 +1,67 @@
+---
+title: Exodus 31:2
+type: Verse
+kjv: "See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:"
+bsb: "“See, I have called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah."
+hebrew: "רְאֵ֖ה קָרָ֣אתִֽי בְשֵׁ֑ם בְּצַלְאֵ֛ל בֶּן־ אוּרִ֥י בֶן־ ח֖וּר לְמַטֵּ֥ה יְהוּדָֽה׃"
+pericope: "[[Exod.31.1 Bezalel and Oholiab|Bezalel and Oholiab]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 31
+book/chapter: "[[Exod.31|Exodus 31]]"
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BEZALEL|BEZALEL]]"
+- "[[topic CARPENTRY|CARPENTRY]]"
+- "[[topic GENIUS|GENIUS]]"
+- "[[topic HUR|HUR]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic SMITH|SMITH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAILORING|TAILORING]]"
+strongs:
+- "[[H7200I]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H1212G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0221G]]"
+- "[[H2354G]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 31:2**<big><big>[[Exod.31.1 Bezalel and Oholiab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:
 <small><sub>**BSB:**</sub></small>
 “See, I have called by name Bezalel son of Uri, the son of Hur, of the tribe of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200I\|רְאֵ֖ה]] [[H7121G\|קָרָ֣אתִֽי]] [[H9003\|בְ]][[H8034\|שֵׁ֑ם]] [[H1212G\|בְּצַלְאֵ֛ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0221G\|אוּרִ֥י]] [[H1121A\|בֶן]][[H9014\|־]] [[H2354G\|ח֖וּר]] [[H9005\|לְ]][[H4294H\|מַטֵּ֥ה]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BEZALEL|BEZALEL]] • [[topic CARPENTRY|CARPENTRY]] • [[topic GENIUS|GENIUS]] • [[topic HUR|HUR]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic SMITH|SMITH]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAILORING|TAILORING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.1|<< Exodus 31:1]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.3|Exodus 31:3 >>]]</td></tr></table>
 

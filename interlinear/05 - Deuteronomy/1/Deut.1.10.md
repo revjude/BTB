@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 1:10
+type: Verse
+kjv: "The LORD your God hath multiplied you, and, behold, ye are this day as the stars of heaven for multitude."
+bsb: "The LORD your God has multiplied you, so that today you are as numerous as the stars in the sky."
+hebrew: "יְהוָ֥ה אֱלֹהֵיכֶ֖ם הִרְבָּ֣ה אֶתְכֶ֑ם וְהִנְּכֶ֣ם הַיּ֔וֹם כְּכוֹכְבֵ֥י הַשָּׁמַ֖יִם לָרֹֽב׃"
+pericope: "[[Deut.1.9 Moses Appoints Leaders|Moses Appoints Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9046]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9004]]"
+- "[[H3556]]"
+- "[[H8064]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:10**<big><big>[[Deut.1.9 Moses Appoints Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD your God hath multiplied you, and, behold, ye [are] this day as the stars of heaven for multitude.
 <small><sub>**BSB:**</sub></small>
 The LORD your God has multiplied you, so that today you are as numerous as the stars in the sky.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H7235A\|הִרְבָּ֣ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֑ם]] [[H9002\|וְ]][[H2009\|הִנְּ]][[H9046\|כֶ֣ם]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H9004\|כְּ]][[H3556\|כוֹכְבֵ֥י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9005\|לָ]][[H7230\|רֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.9|<< Deuteronomy 1:9]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.11|Deuteronomy 1:11 >>]]</td></tr></table>
 

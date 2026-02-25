@@ -1,8 +1,76 @@
+---
+title: Exodus 16:33
+type: Verse
+kjv: "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations."
+bsb: "So Moses told Aaron, “Take a jar and fill it with an omer of manna. Then place it before the LORD to be preserved for the generations to come.”"
+hebrew: "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶֽל־ אַהֲרֹ֗ן קַ֚ח צִנְצֶ֣נֶת אַחַ֔ת וְתֶן־ שָׁ֥מָּה מְלֹֽא־ הָעֹ֖מֶר מָ֑ן וְהַנַּ֤ח אֹתוֹ֙ לִפְנֵ֣י יְהוָ֔ה לְמִשְׁמֶ֖רֶת לְדֹרֹתֵיכֶֽם׃"
+pericope: "[[Exod.16.31 The Jar of Manna|The Jar of Manna]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MEMORIAL|MEMORIAL]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H3947G]]"
+- "[[H6803]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H5414Q]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H4393]]"
+- "[[H9009]]"
+- "[[H6016B]]"
+- "[[H4478A]]"
+- "[[H5117]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H4931]]"
+- "[[H1755]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:33**<big><big>[[Exod.16.31 The Jar of Manna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations.
 <small><sub>**BSB:**</sub></small>
 So Moses told Aaron, “Take a jar and fill it with an omer of manna. Then place it before the LORD to be preserved for the generations to come.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H4872\|מֹשֶׁ֜ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹ֗ן]] [[H3947G\|קַ֚ח]] [[H6803\|צִנְצֶ֣נֶת]] [[H0259\|אַחַ֔ת]] [[H9002\|וְ]][[H5414Q\|תֶן]][[H9014\|־]] [[H8033G\|שָׁ֥מָּ]][[H9011\|ה]] [[H4393\|מְלֹֽא]][[H9014\|־]] [[H9009\|הָ]][[H6016B\|עֹ֖מֶר]] [[H4478A\|מָ֑ן]] [[H9002\|וְ]][[H5117\|הַנַּ֤ח]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H4931\|מִשְׁמֶ֖רֶת]] [[H9005\|לְ]][[H1755\|דֹרֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MEMORIAL|MEMORIAL]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.32|<< Exodus 16:32]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.34|Exodus 16:34 >>]]</td></tr></table>
 

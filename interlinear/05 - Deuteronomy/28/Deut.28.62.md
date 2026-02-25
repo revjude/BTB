@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 28:62
+type: Verse
+kjv: "And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou wouldest not obey the voice of the LORD thy God."
+bsb: "You who were as numerous as the stars in the sky will be left few in number, because you would not obey the voice of the LORD your God."
+hebrew: "וְנִשְׁאַרְתֶּם֙ בִּמְתֵ֣י מְעָ֔ט תַּ֚חַת אֲשֶׁ֣ר הֱיִיתֶ֔ם כְּכוֹכְבֵ֥י הַשָּׁמַ֖יִם לָרֹ֑ב כִּי־ לֹ֣א שָׁמַ֔עְתָּ בְּק֖וֹל יְהוָ֥ה אֱלֹהֶֽיךָ׃"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H4962]]"
+- "[[H4592]]"
+- "[[H8478J]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H3556]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9005]]"
+- "[[H7230]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:62**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall be left few in number, whereas ye were as the stars of heaven for multitude; because thou wouldest not obey the voice of the LORD thy God.
 <small><sub>**BSB:**</sub></small>
 You who were as numerous as the stars in the sky will be left few in number, because you would not obey the voice of the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7604\|נִשְׁאַרְתֶּם֙]] [[H9003\|בִּ]][[H4962\|מְתֵ֣י]] [[H4592\|מְעָ֔ט]] [[H8478J\|תַּ֚חַת]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הֱיִיתֶ֔ם]] [[H9004\|כְּ]][[H3556\|כוֹכְבֵ֥י]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9005\|לָ]][[H7230\|רֹ֑ב]] [[H3588A\|כִּי]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H8085H\|שָׁמַ֔עְתָּ]] [[H9003\|בְּ]][[H6963A\|ק֖וֹל]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic SANITATION|SANITATION]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.62|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.61|<< Deuteronomy 28:61]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.28.63|Deuteronomy 28:63 >>]]</td></tr></table>
 

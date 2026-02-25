@@ -1,8 +1,59 @@
+---
+title: 2 Samuel 14:29
+type: Verse
+kjv: "Therefore Absalom sent for Joab, to have sent him to the king; but he would not come to him: and when he sent again the second time, he would not come."
+bsb: "Then he sent for Joab to send him to the king, but Joab refused to come to him. So Absalom sent a second time, but Joab still would not come."
+hebrew: "וַיִּשְׁלַ֨ח אַבְשָׁל֜וֹם אֶל־ יוֹאָ֗ב לִשְׁלֹ֤חַ אֹתוֹ֙ אֶל־ הַמֶּ֔לֶךְ וְלֹ֥א אָבָ֖ה לָב֣וֹא אֵלָ֑יו וַיִּשְׁלַ֥ח עוֹד֙ שֵׁנִ֔ית וְלֹ֥א אָבָ֖ה לָבֽוֹא׃"
+pericope: "[[2Sam.14.28 Absalom Reconciled to David|Absalom Reconciled to David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0053]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3097G]]"
+- "[[H9005]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H0935G]]"
+- "[[H5750]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:29**<big><big>[[2Sam.14.28 Absalom Reconciled to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore Absalom sent for Joab, to have sent him to the king; but he would not come to him: and when he sent again the second time, he would not come.
 <small><sub>**BSB:**</sub></small>
 Then he sent for Joab to send him to the king, but Joab refused to come to him. So Absalom sent a second time, but Joab still would not come.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֨ח]] [[H0053\|אַבְשָׁל֜וֹם]] [[H0413\|אֶל]][[H9014\|־]] [[H3097G\|יוֹאָ֗ב]] [[H9005\|לִ]][[H7971G\|שְׁלֹ֤חַ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָבָ֖ה]] [[H9005\|לָ]][[H0935G\|ב֣וֹא]] [[H0413\|אֵלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֥ח]] [[H5750\|עוֹד֙]] [[H8145\|שֵׁנִ֔ית]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָבָ֖ה]] [[H9005\|לָ]][[H0935G\|בֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.28|<< 2 Samuel 14:28]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.30|2 Samuel 14:30 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Matthew 25:31
+type: Verse
+kjv: "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
+bsb: "When the Son of Man comes in His glory, and all the angels with Him, He will sit on His glorious throne."
+jesus_said: "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
+greek: "Ὅταν δὲ ἔλθῃ ὁ υἱὸς τοῦ ἀνθρώπου ἐν τῇ δόξῃ αὐτοῦ καὶ πάντες οἱ ἅγιοι ἄγγελοι μετ᾽ αὐτοῦ, τότε καθίσει ἐπὶ θρόνου δόξης αὐτοῦ,"
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic THRONE|THRONE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+strongs:
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G1722]]"
+- "[[G1391]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0040G]]"
+- "[[G0032G]]"
+- "[[G3326]]"
+- "[[G5119]]"
+- "[[G2523]]"
+- "[[G1909]]"
+- "[[G2362]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 25:31**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:
 <small><sub>**BSB:**</sub></small>
 When the Son of Man comes in His glory, and all the angels with Him, He will sit on His glorious throne.
-<small><sub>**Literal:**</sub></small>
-When then may come the Son <the> of Man in the glory of Him and all the holy angels with Him, then He will sit upon [the] throne of glory of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.30|<< Matthew 25:30]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.32|Matthew 25:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|Ὅταν]]  [[G1161\|δὲ]]  [[G2064\|ἔλθῃ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1391\|δόξῃ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G0040G\|ἅγιοι]]  [[G0032G\|ἄγγελοι]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ,]]  [[G5119\|τότε]]  [[G2523\|καθίσει]]  [[G1909\|ἐπὶ]]  [[G2362\|θρόνου]]  [[G1391\|δόξης]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic THRONE|THRONE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.30|<< Matthew 25:30]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.32|Matthew 25:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

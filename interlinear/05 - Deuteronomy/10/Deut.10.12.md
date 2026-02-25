@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 10:12
+type: Verse
+kjv: "And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,"
+bsb: "And now, O Israel, what does the LORD your God ask of you but to fear the LORD your God by walking in all His ways, to love Him, to serve the LORD your God with all your heart and with all your soul,"
+hebrew: "וְעַתָּה֙ יִשְׂרָאֵ֔ל מָ֚ה יְהוָ֣ה אֱלֹהֶ֔יךָ שֹׁאֵ֖ל מֵעִמָּ֑ךְ כִּ֣י אִם־ לְ֠יִרְאָה אֶת־ יְהוָ֨ה אֱלֹהֶ֜יךָ לָלֶ֤כֶת בְּכָל־ דְּרָכָיו֙ וּלְאַהֲבָ֣ה אֹת֔וֹ וְלַֽעֲבֹד֙ אֶת־ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכָל־ לְבָבְךָ֖ וּבְכָל־ נַפְשֶֽׁךָ׃"
+pericope: "[[Deut.10.12 A Call to Obedience|A Call to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DUTY|DUTY]]"
+- "[[topic HEART|HEART]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H3478]]"
+- "[[H4100]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H7592]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9031]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H0157G]]"
+- "[[H9033]]"
+- "[[H5647G]]"
+- "[[H3824]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:12**<big><big>[[Deut.10.12 A Call to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,
 <small><sub>**BSB:**</sub></small>
 And now, O Israel, what does the LORD your God ask of you but to fear the LORD your God by walking in all His ways, to love Him, to serve the LORD your God with all your heart and with all your soul,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H4100\|מָ֚ה]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H7592\|שֹׁאֵ֖ל]] [[H9006\|מֵ]][[H5973B\|עִמָּ֑]][[H9031\|ךְ]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H9005\|לְ֠]][[H3372H\|יִרְאָה]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H9005\|לָ]][[H1980I\|לֶ֤כֶת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1870G\|דְּרָכָי]][[H9023\|ו֙]] [[H9002\|וּ]][[H9005\|לְ]][[H0157G\|אַהֲבָ֣ה]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H9005\|לַֽ]][[H5647G\|עֲבֹד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֖]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5315G\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUTY|DUTY]] • [[topic HEART|HEART]] • [[topic LOVE|LOVE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.11|<< Deuteronomy 10:11]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.13|Deuteronomy 10:13 >>]]</td></tr></table>
 

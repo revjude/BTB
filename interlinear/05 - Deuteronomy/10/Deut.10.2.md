@@ -1,8 +1,65 @@
+---
+title: Deuteronomy 10:2
+type: Verse
+kjv: "And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark."
+bsb: "And I will write on the tablets the words that were on the first tablets, which you broke; and you are to place them in the ark.”"
+hebrew: "וְאֶכְתֹּב֙ עַל־ הַלֻּחֹ֔ת אֶת־ הַדְּבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ עַל־ הַלֻּחֹ֥ת הָרִאשֹׁנִ֖ים אֲשֶׁ֣ר שִׁבַּ֑רְתָּ וְשַׂמְתָּ֖ם בָּאָרֽוֹן׃"
+pericope: "[[Deut.10.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 10
+book/chapter: "[[Deut.10|Deuteronomy 10]]"
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3871]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H7223G]]"
+- "[[H7665]]"
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0727]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 10:2**<big><big>[[Deut.10.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will write on the tables the words that were in the first tables which thou brakest, and thou shalt put them in the ark.
 <small><sub>**BSB:**</sub></small>
 And I will write on the tablets the words that were on the first tablets, which you broke; and you are to place them in the ark.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3789\|אֶכְתֹּב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3871\|לֻּחֹ֔ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|הָי֛וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3871\|לֻּחֹ֥ת]] [[H9009\|הָ]][[H7223G\|רִאשֹׁנִ֖ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H7665\|שִׁבַּ֑רְתָּ]] [[H9001\|וְ]][[H7760H\|שַׂמְתָּ֖]][[H9038\|ם]] [[H9003\|בָּ]][[H0727\|אָרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic STONES|STONES]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.10.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.10.1|<< Deuteronomy 10:1]]</td><td align="center" style="border:none;">[[Deut.10|Deuteronomy 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.10.3|Deuteronomy 10:3 >>]]</td></tr></table>
 

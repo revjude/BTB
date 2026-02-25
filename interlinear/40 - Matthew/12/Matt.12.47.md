@@ -1,10 +1,54 @@
+---
+title: Matthew 12:47
+type: Verse
+kjv: "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee."
+bsb: "Someone told Him, “Look, Your mother and brothers are standing outside, wanting to speak to You.”"
+greek: "εἶπεν δέ τις αὐτῷ· ἰδοὺ ἡ μήτηρ σου καὶ οἱ ἀδελφοί σου ἔξω ἑστήκασιν ζητοῦντές σοι λαλῆσαι."
+pericope: "[[Matt.12.46 Jesus’ Mother and Brothers|Jesus’ Mother and Brothers]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G3384]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G1854]]"
+- "[[G2476]]"
+- "[[G2212]]"
+- "[[G2980]]"
+texts:
+- NKO
+---
+
 **Matthew 12:47**<big><big>[[Matt.12.46 Jesus’ Mother and Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee.
 <small><sub>**BSB:**</sub></small>
 Someone told Him, “Look, Your mother and brothers are standing outside, wanting to speak to You.”
-<small><sub>**Literal:**</sub></small>
-Said now someone to Him; Behold the mother of You and the brothers of you outside have stood seeking to You to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.46|<< Matthew 12:46]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.48|Matthew 12:48 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G0846\|αὐτῷ·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ἡ]]  [[G3384\|μήτηρ]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0080\|ἀδελφοί]]  [[G4771\|σου]]  [[G1854\|ἔξω]]  [[G2476\|ἑστήκασιν]]  [[G2212\|ζητοῦντές]]  [[G4771\|σοι]]  [[G2980\|λαλῆσαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.46|<< Matthew 12:46]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.48|Matthew 12:48 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

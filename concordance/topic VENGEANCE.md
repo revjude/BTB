@@ -5,7 +5,7 @@
 
 → INSTANCE OF
 
-- Sons of Jacob on Hamor and Shechem  [[Gen.34.20|Ge 34:20]]-[[Gen.34.31|31]]
+- Sons of Jacob on Hamor and Shechem  [[Gen.34.20|Ge 34:20-31]]
 
 - See [[topic JUDGMENTS|JUDGMENTS]]
 

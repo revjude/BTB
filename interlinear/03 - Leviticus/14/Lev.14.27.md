@@ -1,8 +1,66 @@
+---
+title: Leviticus 14:27
+type: Verse
+kjv: "And the priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before the LORD:"
+bsb: "and sprinkle with his right forefinger some of the oil in his left palm seven times before the LORD."
+hebrew: "וְהִזָּ֤ה הַכֹּהֵן֙ בְּאֶצְבָּע֣וֹ הַיְמָנִ֔ית מִן־ הַשֶּׁ֕מֶן אֲשֶׁ֥ר עַל־ כַּפּ֖וֹ הַשְּׂמָאלִ֑ית שֶׁ֥בַע פְּעָמִ֖ים לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Lev.14.1 Cleansing from Skin Diseases|Cleansing from Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 14
+book/chapter: "[[Lev.14|Leviticus 14]]"
+chronological_order: 146
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+strongs:
+- "[[H9001]]"
+- "[[H5137A]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9003]]"
+- "[[H0676]]"
+- "[[H9023]]"
+- "[[H3233G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H8081]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H3709G]]"
+- "[[H8042G]]"
+- "[[H7651]]"
+- "[[H6471]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 14:27**<big><big>[[Lev.14.1 Cleansing from Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall sprinkle with his right finger [some] of the oil that [is] in his left hand seven times before the LORD:
 <small><sub>**BSB:**</sub></small>
 and sprinkle with his right forefinger some of the oil in his left palm seven times before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5137A\|הִזָּ֤ה]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H9003\|בְּ]][[H0676\|אֶצְבָּע֣]][[H9023\|וֹ]] [[H9009\|הַ]][[H3233G\|יְמָנִ֔ית]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8081\|שֶּׁ֕מֶן]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H3709G\|כַּפּ֖]][[H9023\|וֹ]] [[H9009\|הַ]][[H8042G\|שְּׂמָאלִ֑ית]] [[H7651\|שֶׁ֥בַע]] [[H6471\|פְּעָמִ֖ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.14.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.14.26|<< Leviticus 14:26]]</td><td align="center" style="border:none;">[[Lev.14|Leviticus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.14.28|Leviticus 14:28 >>]]</td></tr></table>
 

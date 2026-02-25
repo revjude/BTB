@@ -1,8 +1,66 @@
+---
+title: Haggai 2:4
+type: Verse
+kjv: "Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I am with you, saith the LORD of hosts:"
+bsb: "But now be strong, O Zerubbabel, declares the LORD. Be strong, O Joshua son of Jehozadak, the high priest. And be strong, all you people of the land, declares the LORD. Work! For I am with you, declares the LORD of Hosts."
+hebrew: "וְעַתָּ֣ה חֲזַ֣ק זְרֻבָּבֶ֣ל׀ נְאֻם־ יְהוָ֡ה וַחֲזַ֣ק יְהוֹשֻׁ֣עַ בֶּן־ יְהוֹצָדָק֩ הַכֹּהֵ֨ן הַגָּד֜וֹל וַחֲזַ֨ק כָּל־ עַ֥ם הָאָ֛רֶץ נְאֻם־ יְהוָ֖ה וַֽעֲשׂ֑וּ כִּֽי־ אֲנִ֣י אִתְּכֶ֔ם נְאֻ֖ם יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Hag.2.1 The Coming Glory of God’s House|The Coming Glory of God’s House]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic JEHOZADAK|JEHOZADAK]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H2388G]]"
+- "[[H2216]]"
+- "[[H9015]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3091J]]"
+- "[[H1121A]]"
+- "[[H3087]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H0776G]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:4**<big><big>[[Hag.2.1 The Coming Glory of God’s House|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet now be strong, O Zerubbabel, saith the LORD; and be strong, O Joshua, son of Josedech, the high priest; and be strong, all ye people of the land, saith the LORD, and work: for I [am] with you, saith the LORD of hosts:
 <small><sub>**BSB:**</sub></small>
 But now be strong, O Zerubbabel, declares the LORD. Be strong, O Joshua son of Jehozadak, the high priest. And be strong, all you people of the land, declares the LORD. Work! For I am with you, declares the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H2388G\|חֲזַ֣ק]] [[H2216\|זְרֻבָּבֶ֣ל]][[H9015\|׀]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֡ה]] [[H9002\|וַ]][[H2388G\|חֲזַ֣ק]] [[H3091J\|יְהוֹשֻׁ֣עַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3087\|יְהוֹצָדָק֩]] [[H9009\|הַ]][[H3548\|כֹּהֵ֨ן]] [[H9009\|הַ]][[H1419A\|גָּד֜וֹל]] [[H9002\|וַ]][[H2388G\|חֲזַ֨ק]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֥ם]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וַֽ]][[H6213A\|עֲשׂ֑וּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H0854\|אִתְּ]][[H9036\|כֶ֔ם]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOZADAK|JEHOZADAK]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.3|<< Haggai 2:3]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.2.5|Haggai 2:5 >>]]</td></tr></table>
 

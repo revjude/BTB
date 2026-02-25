@@ -1,8 +1,73 @@
+---
+title: Genesis 47:20
+type: Verse
+kjv: "And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s."
+bsb: "So Joseph acquired for Pharaoh all the land in Egypt; the Egyptians, one and all, sold their fields because the famine was so severe upon them. The land became Pharaoh’s,"
+hebrew: "וַיִּ֨קֶן יוֹסֵ֜ף אֶת־ כָּל־ אַדְמַ֤ת מִצְרַ֙יִם֙ לְפַרְעֹ֔ה כִּֽי־ מָכְר֤וּ מִצְרַ֙יִם֙ אִ֣ישׁ שָׂדֵ֔הוּ כִּֽי־ חָזַ֥ק עֲלֵהֶ֖ם הָרָעָ֑ב וַתְּהִ֥י הָאָ֖רֶץ לְפַרְעֹֽה׃"
+pericope: "[[Gen.47.13 The Famine Continues|The Famine Continues]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EXTORTION|EXTORTION]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MONOPOLY|MONOPOLY]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7069]]"
+- "[[H3130G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0127G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H6547H]]"
+- "[[H3588A]]"
+- "[[H4376]]"
+- "[[H4713]]"
+- "[[H0376I]]"
+- "[[H7704G]]"
+- "[[H9023]]"
+- "[[H2388G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H7458]]"
+- "[[H1961]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:20**<big><big>[[Gen.47.13 The Famine Continues|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh’s.
 <small><sub>**BSB:**</sub></small>
 So Joseph acquired for Pharaoh all the land in Egypt; the Egyptians, one and all, sold their fields because the famine was so severe upon them. The land became Pharaoh’s,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7069\|יִּ֨קֶן]] [[H3130G\|יוֹסֵ֜ף]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0127G\|אַדְמַ֤ת]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9005\|לְ]][[H6547H\|פַרְעֹ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4376\|מָכְר֤וּ]] [[H4713\|מִצְרַ֙יִם֙]] [[H0376I\|אִ֣ישׁ]] [[H7704G\|שָׂדֵ֔]][[H9023\|הוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2388G\|חָזַ֥ק]] [[H5921A\|עֲלֵ]][[H9038\|הֶ֖ם]] [[H9009\|הָ]][[H7458\|רָעָ֑ב]] [[H9001\|וַ]][[H1961\|תְּהִ֥י]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H9005\|לְ]][[H6547H\|פַרְעֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EXTORTION|EXTORTION]] • [[topic JOSEPH|JOSEPH]] • [[topic LAND|LAND]] • [[topic MONOPOLY|MONOPOLY]] • [[topic STATECRAFT|STATECRAFT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.19|<< Genesis 47:19]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.21|Genesis 47:21 >>]]</td></tr></table>
 

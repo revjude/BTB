@@ -1,8 +1,55 @@
+---
+title: Job 15:16
+type: Verse
+kjv: "How much more abominable and filthy is man, which drinketh iniquity like water?"
+bsb: "how much less man, who is vile and corrupt, who drinks injustice like water?"
+hebrew: "אַ֭ף כִּֽי־ נִתְעָ֥ב וְֽנֶאֱלָ֑ח אִישׁ־ שֹׁתֶ֖ה כַמַּ֣יִם עַוְלָֽה׃"
+pericope: "[[Job.15.1 Eliphaz：Job Does Not Fear God|Eliphaz：Job Does Not Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 15
+book/chapter: "[[Job.15|Job 15]]"
+chronological_order: 26
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8581]]"
+- "[[H9002]]"
+- "[[H0444]]"
+- "[[H0376G]]"
+- "[[H8354]]"
+- "[[H9004]]"
+- "[[H4325G]]"
+- "[[H5766B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 15:16**<big><big>[[Job.15.1 Eliphaz：Job Does Not Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How much more abominable and filthy [is] man, which drinketh iniquity like water?
 <small><sub>**BSB:**</sub></small>
 how much less man, who is vile and corrupt, who drinks injustice like water?
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַ֭ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8581\|נִתְעָ֥ב]] [[H9002\|וְֽ]][[H0444\|נֶאֱלָ֑ח]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H8354\|שֹׁתֶ֖ה]] [[H9004\|כַ]][[H4325G\|מַּ֣יִם]] [[H5766B\|עַוְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.15.15|<< Job 15:15]]</td><td align="center" style="border:none;">[[Job.15|Job 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.15.17|Job 15:17 >>]]</td></tr></table>
 

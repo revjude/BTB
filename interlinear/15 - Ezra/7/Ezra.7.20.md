@@ -1,8 +1,60 @@
+---
+title: Ezra 7:20
+type: Verse
+kjv: "And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow it out of the king’s treasure house."
+bsb: "And if anything else is needed for the house of your God that you may have occasion to supply, you may pay for it from the royal treasury."
+aramaic: "וּשְׁאָ֗ר חַשְׁחוּת֙ בֵּ֣ית אֱלָהָ֔ךְ דִּ֥י יִפֶּל־ לָ֖ךְ לְמִנְתַּ֑ן תִּנְתֵּ֕ן מִן־ בֵּ֖ית גִּנְזֵ֥י מַלְכָּֽא׃"
+pericope: "[[Ezra.7.11 Artaxerxes’ Letter for Ezra|Artaxerxes’ Letter for Ezra]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9002]]"
+- "[[H7606]]"
+- "[[H2819]]"
+- "[[H1005]]"
+- "[[H0426]]"
+- "[[H9021]]"
+- "[[H1768]]"
+- "[[H5308]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5415G]]"
+- "[[H4481]]"
+- "[[H1596]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 7:20**<big><big>[[Ezra.7.11 Artaxerxes’ Letter for Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow [it] out of the king’s treasure house.
 <small><sub>**BSB:**</sub></small>
 And if anything else is needed for the house of your God that you may have occasion to supply, you may pay for it from the royal treasury.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H7606\|שְׁאָ֗ר]] [[H2819\|חַשְׁחוּת֙]] [[H1005\|בֵּ֣ית]] [[H0426\|אֱלָהָ֔]][[H9021\|ךְ]] [[H1768\|דִּ֥י]] [[H5308\|יִפֶּל]][[H9014\|־]] [[H9005\|לָ֖]][[H9031\|ךְ]] [[H9005\|לְ]][[H5415G\|מִנְתַּ֑ן]] [[H5415G\|תִּנְתֵּ֕ן]] [[H4481\|מִן]][[H9014\|־]] [[H1005\|בֵּ֖ית]] [[H1596\|גִּנְזֵ֥י]] [[H4430\|מַלְכָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TEMPLE|TEMPLE]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.19|<< Ezra 7:19]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.21|Ezra 7:21 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Luke 4:40
+type: Verse
+kjv: "Now when the sun was setting, all they that had any sick with divers diseases brought them unto him; and he laid his hands on every one of them, and healed them."
+bsb: "At sunset, all who were ill with various diseases were brought to Jesus, and laying His hands on each one, He healed them."
+greek: "Δύνοντος δὲ τοῦ ἡλίου ἅπαντες ὅσοι εἶχον ἀσθενοῦντας νόσοις ποικίλαις ἤγαγον αὐτοὺς πρὸς αὐτόν· ὁ δὲ ἑνὶ ἑκάστῳ αὐτῶν τὰς χεῖρας ἐπιτιθεὶς ἐθεράπευεν αὐτούς."
+pericope: "[[Luke.4.38 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HAND|HAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1416]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2246]]"
+- "[[G0537]]"
+- "[[G3745]]"
+- "[[G2192]]"
+- "[[G0770H]]"
+- "[[G3554]]"
+- "[[G4164]]"
+- "[[G0071]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G1520]]"
+- "[[G1538]]"
+- "[[G5495]]"
+- "[[G2007]]"
+- "[[G2323]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 4:40**<big><big>[[Luke.4.38 Jesus Heals at Peter’s House|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when the sun was setting, all they that had any sick with divers diseases brought them unto him; and he laid his hands on every one of them, and healed them.
 <small><sub>**BSB:**</sub></small>
 At sunset, all who were ill with various diseases were brought to Jesus, and laying His hands on each one, He healed them.
-<small><sub>**Literal:**</sub></small>
-When is setting now the sun all as many as had [any] ailing with diseases various brought them to Him; <the> and on one each of them the hands having laid He was healing them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.39|<< Luke 4:39]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.41|Luke 4:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1416\|Δύνοντος]]  [[G1161\|δὲ]]  [[G3588\|τοῦ]]  [[G2246\|ἡλίου]]  [[G0537\|ἅπαντες]]  [[G3745\|ὅσοι]]  [[G2192\|εἶχον]]  [[G0770H\|ἀσθενοῦντας]]  [[G3554\|νόσοις]]  [[G4164\|ποικίλαις]]  [[G0071\|ἤγαγον]]  [[G0846\|αὐτοὺς]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G1520\|ἑνὶ]]  [[G1538\|ἑκάστῳ]]  [[G0846\|αὐτῶν]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2007\|ἐπιτιθεὶς]]  [[G2323\|ἐθεράπευεν]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAND|HAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.39|<< Luke 4:39]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.41|Luke 4:41 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

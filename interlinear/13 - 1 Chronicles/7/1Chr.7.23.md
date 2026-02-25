@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 7:23
+type: Verse
+kjv: "And when he went in to his wife, she conceived, and bare a son, and he called his name Beriah, because it went evil with his house."
+bsb: "And again he slept with his wife, and she conceived and gave birth to a son. So he named him Beriah, because tragedy had come upon his house."
+hebrew: "וַיָּבֹא֙ אֶל־ אִשְׁתּ֔וֹ וַתַּ֖הַר וַתֵּ֣לֶד בֵּ֑ן וַיִּקְרָ֤א אֶת־ שְׁמוֹ֙ בְּרִיעָ֔ה כִּ֥י בְרָעָ֖ה הָיְתָ֥ה בְּבֵיתֽוֹ׃"
+pericope: "[[1Chr.7.20 The Descendants of Ephraim|The Descendants of Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 7
+book/chapter: "[[1Chr.7|1 Chronicles 7]]"
+chronological_order: 326
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BERIAH|BERIAH]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H2029]]"
+- "[[H3205]]"
+- "[[H1121A]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H1283H]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H7451C]]"
+- "[[H1961]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 7:23**<big><big>[[1Chr.7.20 The Descendants of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he went in to his wife, she conceived, and bare a son, and he called his name Beriah, because it went evil with his house.
 <small><sub>**BSB:**</sub></small>
 And again he slept with his wife, and she conceived and gave birth to a son. So he named him Beriah, because tragedy had come upon his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H2029\|תַּ֖הַר]] [[H9001\|וַ]][[H3205\|תֵּ֣לֶד]] [[H1121A\|בֵּ֑ן]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֤א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ]][[H9023\|וֹ֙]] [[H1283H\|בְּרִיעָ֔ה]] [[H3588A\|כִּ֥י]] [[H9003\|בְ]][[H7451C\|רָעָ֖ה]] [[H1961\|הָיְתָ֥ה]] [[H9003\|בְּ]][[H1004M\|בֵיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BERIAH|BERIAH]] • [[topic EPHRAIM|EPHRAIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.7.22|<< 1 Chronicles 7:22]]</td><td align="center" style="border:none;">[[1Chr.7|1 Chronicles 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.7.24|1 Chronicles 7:24 >>]]</td></tr></table>
 

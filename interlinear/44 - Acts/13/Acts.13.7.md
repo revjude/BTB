@@ -1,10 +1,64 @@
+---
+title: Acts 13:7
+type: Verse
+kjv: "Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God."
+bsb: "an attendant of the proconsul, Sergius Paulus. The proconsul, a man of intelligence, summoned Barnabas and Saul because he wanted to hear the word of God."
+greek: "ὃς ἦν σὺν τῷ ἀνθυπάτῳ Σεργίῳ Παύλῳ, ἀνδρὶ συνετῷ. οὗτος προσκαλεσάμενος Βαρναβᾶν καὶ Σαῦλον ἐπεζήτησεν ἀκοῦσαι τὸν λόγον τοῦ θεοῦ."
+pericope: "[[Acts.13.4 On Cyprus|On Cyprus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic DEPUTY|DEPUTY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAPHOS|PAPHOS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SERGIUS PAULUS|SERGIUS PAULUS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4862]]"
+- "[[G3588]]"
+- "[[G0446]]"
+- "[[G4588]]"
+- "[[G3972]]"
+- "[[G0435G]]"
+- "[[G4908]]"
+- "[[G3778]]"
+- "[[G4341]]"
+- "[[G0921G]]"
+- "[[G2532]]"
+- "[[G4569G]]"
+- "[[G1934]]"
+- "[[G0191]]"
+- "[[G3056]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Acts 13:7**<big><big>[[Acts.13.4 On Cyprus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God.
 <small><sub>**BSB:**</sub></small>
 an attendant of the proconsul, Sergius Paulus. The proconsul, a man of intelligence, summoned Barnabas and Saul because he wanted to hear the word of God.
-<small><sub>**Literal:**</sub></small>
-who was with the proconsul Sergius Paulus, man an intelligent. He having called to [him] Barnabas and Saul desired to hear the word <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.6|<< Acts 13:6]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.8|Acts 13:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G1510\|ἦν]]  [[G4862\|σὺν]]  [[G3588\|τῷ]]  [[G0446\|ἀνθυπάτῳ]]  [[G4588\|Σεργίῳ]]  [[G3972\|Παύλῳ,]]  [[G0435G\|ἀνδρὶ]]  [[G4908\|συνετῷ.]]  [[G3778\|οὗτος]]  [[G4341\|προσκαλεσάμενος]]  [[G0921G\|Βαρναβᾶν]]  [[G2532\|καὶ]]  [[G4569G\|Σαῦλον]]  [[G1934\|ἐπεζήτησεν]]  [[G0191\|ἀκοῦσαι]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic CYPRUS|CYPRUS]] • [[topic DEPUTY|DEPUTY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAPHOS|PAPHOS]] • [[topic PAUL|PAUL]] • [[topic SERGIUS PAULUS|SERGIUS PAULUS]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.6|<< Acts 13:6]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.8|Acts 13:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

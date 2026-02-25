@@ -1,10 +1,66 @@
+---
+title: Revelation 19:2
+type: Verse
+kjv: "For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand."
+bsb: "For His judgments are true and just. He has judged the great prostitute who corrupted the earth with her immorality. He has avenged the blood of His servants that was poured out by her hand.”"
+greek: "ὅτι ἀληθιναὶ καὶ δίκαιαι αἱ κρίσεις αὐτοῦ, ὅτι ἔκρινεν τὴν πόρνην τὴν μεγάλην ἥτις ἔφθειρεν τὴν γῆν ἐν τῇ πορνείᾳ αὐτῆς, καὶ ἐξεδίκησεν τὸ αἷμα τῶν δούλων αὐτοῦ ἐκ τῆς χειρὸς αὐτῆς.¶"
+pericope: "[[Rev.19.1 Rejoicing in Heaven|Rejoicing in Heaven]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3754H]]"
+- "[[G0228]]"
+- "[[G2532]]"
+- "[[G1342]]"
+- "[[G3588]]"
+- "[[G2920]]"
+- "[[G0846]]"
+- "[[G2919]]"
+- "[[G4204]]"
+- "[[G3173]]"
+- "[[G3748]]"
+- "[[G5351]]"
+- "[[G1093G]]"
+- "[[G1722]]"
+- "[[G4202]]"
+- "[[G1556]]"
+- "[[G0129G]]"
+- "[[G1401]]"
+- "[[G1537]]"
+- "[[G5495]]"
+texts:
+- NKO
+- NK(o)
+- k
+---
+
 **Revelation 19:2**<big><big>[[Rev.19.1 Rejoicing in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For true and righteous [are] his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand.
 <small><sub>**BSB:**</sub></small>
 For His judgments are true and just. He has judged the great prostitute who corrupted the earth with her immorality. He has avenged the blood of His servants that was poured out by her hand.”
-<small><sub>**Literal:**</sub></small>
-For true and righteous [are] the judgments of Him, because He has judged the prostitute <the> great who was corrupting the earth with the sexual immorality of her, and He has avenged the blood of the servants of Him out of the hand of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.1|<< Revelation 19:1]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.3|Revelation 19:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3754H\|ὅτι]]  [[G0228\|ἀληθιναὶ]]  [[G2532\|καὶ]]  [[G1342\|δίκαιαι]]  [[G3588\|αἱ]]  [[G2920\|κρίσεις]]  [[G0846\|αὐτοῦ,]]  [[G3754H\|ὅτι]]  [[G2919\|ἔκρινεν]]  [[G3588\|τὴν]]  [[G4204\|πόρνην]]  [[G3588\|τὴν]]  [[G3173\|μεγάλην]]  [[G3748\|ἥτις]]  [[G5351\|ἔφθειρεν]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4202\|πορνείᾳ]]  [[G0846\|αὐτῆς,]]  [[G2532\|καὶ]]  [[G1556\|ἐξεδίκησεν]]  [[G3588\|τὸ]]  [[G0129G\|αἷμα]]  [[G3588\|τῶν]]  [[G1401\|δούλων]]  [[G0846\|αὐτοῦ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic VISION|VISION]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.1|<< Revelation 19:1]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.3|Revelation 19:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 19:2** is...
 > $\quad$ alluding to: [[LXX.Deut.32.4|Deut 32:4]] ☩ [[LXX.Deut.32.43|Deut 32:43]]

@@ -1,8 +1,68 @@
+---
+title: Deuteronomy 32:10
+type: Verse
+kjv: "He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye."
+bsb: "He found him in a desert land, in a barren, howling wilderness; He surrounded him, He instructed him, He guarded him as the apple of His eye."
+hebrew: "יִמְצָאֵ֙הוּ֙ בְּאֶ֣רֶץ מִדְבָּ֔ר וּבְתֹ֖הוּ יְלֵ֣ל יְשִׁמֹ֑ן יְסֹֽבְבֶ֙נְהוּ֙ יְב֣וֹנְנֵ֔הוּ יִצְּרֶ֖נְהוּ כְּאִישׁ֥וֹן עֵינֽוֹ׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WILDERNESS|WILDERNESS]]"
+strongs:
+- "[[H4672]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4057B]]"
+- "[[H9002]]"
+- "[[H8414]]"
+- "[[H3214]]"
+- "[[H3452H]]"
+- "[[H5437H]]"
+- "[[H0995]]"
+- "[[H5341]]"
+- "[[H9004]]"
+- "[[H0380]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:10**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He found him in a desert land, and in the waste howling wilderness; he led him about, he instructed him, he kept him as the apple of his eye.
 <small><sub>**BSB:**</sub></small>
 He found him in a desert land, in a barren, howling wilderness; He surrounded him, He instructed him, He guarded him as the apple of His eye.
+<small><sub>**Hebrew:**</sub></small>
+[[H4672\|יִמְצָאֵ֙]][[H9033\|הוּ֙]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4057B\|מִדְבָּ֔ר]] [[H9002\|וּ]][[H9003\|בְ]][[H8414\|תֹ֖הוּ]] [[H3214\|יְלֵ֣ל]] [[H3452H\|יְשִׁמֹ֑ן]] [[H5437H\|יְסֹֽבְבֶ֙]][[H9033\|נְהוּ֙]] [[H0995\|יְב֣וֹנְנֵ֔]][[H9033\|הוּ]] [[H5341\|יִצְּרֶ֖]][[H9033\|נְהוּ]] [[H9004\|כְּ]][[H0380\|אִישׁ֥וֹן]] [[H5869A\|עֵינֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PSALMS|PSALMS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WILDERNESS|WILDERNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.9|<< Deuteronomy 32:9]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.11|Deuteronomy 32:11 >>]]</td></tr></table>
 

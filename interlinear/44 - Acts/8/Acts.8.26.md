@@ -1,10 +1,64 @@
+---
+title: Acts 8:26
+type: Verse
+kjv: "And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert."
+bsb: "Now an angel of the Lord said to Philip, “Get up and go south to the desert road that goes down from Jerusalem to Gaza.”"
+greek: "Ἄγγελος δὲ κυρίου ἐλάλησεν πρὸς Φίλιππον λέγων· ἀνάστηθι καὶ πορεύου κατὰ μεσημβρίαν ἐπὶ τὴν ὁδὸν τὴν καταβαίνουσαν ἀπὸ Ἰερουσαλὴμ εἰς Γάζαν· αὕτη ἐστὶν ἔρημος."
+pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic EUNUCH|EUNUCH]]"
+- "[[topic GAZA|GAZA]]"
+strongs:
+- "[[G0032G]]"
+- "[[G1161]]"
+- "[[G2962G]]"
+- "[[G2980]]"
+- "[[G4314]]"
+- "[[G5376J]]"
+- "[[G3004G]]"
+- "[[G0450]]"
+- "[[G2532]]"
+- "[[G4198]]"
+- "[[G2596]]"
+- "[[G3314]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G2597]]"
+- "[[G0575]]"
+- "[[G2419]]"
+- "[[G1519]]"
+- "[[G1048]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2048]]"
+texts:
+- NKO
+---
+
 **Acts 8:26**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert.
 <small><sub>**BSB:**</sub></small>
 Now an angel of the Lord said to Philip, “Get up and go south to the desert road that goes down from Jerusalem to Gaza.”
-<small><sub>**Literal:**</sub></small>
-An angel now of [the] Lord spoke to Philip saying; do rise up and do go toward [the] south to the road which is going down from Jerusalem to Gaza; This is [the] desert [road].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.25|<< Acts 8:25]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.27|Acts 8:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0032G\|Ἄγγελος]]  [[G1161\|δὲ]]  [[G2962G\|κυρίου]]  [[G2980\|ἐλάλησεν]]  [[G4314\|πρὸς]]  [[G5376J\|Φίλιππον]]  [[G3004G\|λέγων·]]  [[G0450\|ἀνάστηθι]]  [[G2532\|καὶ]]  [[G4198\|πορεύου]]  [[G2596\|κατὰ]]  [[G3314\|μεσημβρίαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G3598\|ὁδὸν]]  [[G3588\|τὴν]]  [[G2597\|καταβαίνουσαν]]  [[G0575\|ἀπὸ]]  [[G2419\|Ἰερουσαλὴμ]]  [[G1519\|εἰς]]  [[G1048\|Γάζαν·]]  [[G3778\|αὕτη]]  [[G1510\|ἐστὶν]]  [[G2048\|ἔρημος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic EUNUCH|EUNUCH]] • [[topic GAZA|GAZA]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.25|<< Acts 8:25]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.27|Acts 8:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

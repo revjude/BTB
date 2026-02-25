@@ -1,8 +1,55 @@
+---
+title: Psalm 105:41
+type: Verse
+kjv: "He opened the rock, and the waters gushed out; they ran in the dry places like a river."
+bsb: "He opened a rock, and water gushed out; it flowed like a river in the desert."
+hebrew: "פָּ֣תַח צ֭וּר וַיָּז֣וּבוּ מָ֑יִם הָ֝לְכ֗וּ בַּצִּיּ֥וֹת נָהָֽר׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H6605A]]"
+- "[[H6697H]]"
+- "[[H9001]]"
+- "[[H2100G]]"
+- "[[H4325G]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H6723]]"
+- "[[H5104H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:41**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He opened the rock, and the waters gushed out; they ran in the dry places [like] a river.
 <small><sub>**BSB:**</sub></small>
 He opened a rock, and water gushed out; it flowed like a river in the desert.
+<small><sub>**Hebrew:**</sub></small>
+[[H6605A\|פָּ֣תַח]] [[H6697H\|צ֭וּר]] [[H9001\|וַ]][[H2100G\|יָּז֣וּבוּ]] [[H4325G\|מָ֑יִם]] [[H1980I\|הָ֝לְכ֗וּ]] [[H9003\|בַּ]][[H6723\|צִּיּ֥וֹת]] [[H5104H\|נָהָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.40|<< Psalms 105:40]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.42|Psalms 105:42 >>]]</td></tr></table>
 

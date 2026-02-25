@@ -1,8 +1,78 @@
+---
+title: 1 Kings 20:13
+type: Verse
+kjv: "And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I am the LORD."
+bsb: "Meanwhile a prophet approached Ahab king of Israel and declared, “This is what the LORD says: ‘Do you see this entire great army? Behold, I will deliver it into your hand this very day, and you will know that I am the LORD.’”"
+hebrew: "וְהִנֵּ֣ה׀ נָבִ֣יא אֶחָ֗ד נִגַּשׁ֮ אֶל־ אַחְאָ֣ב מֶֽלֶךְ־ יִשְׂרָאֵל֒ וַיֹּ֗אמֶר כֹּ֚ה אָמַ֣ר יְהוָ֔ה הְֽרָאִ֔יתָ אֵ֛ת כָּל־ הֶהָמ֥וֹן הַגָּד֖וֹל הַזֶּ֑ה הִנְנִ֨י נֹתְנ֤וֹ בְיָֽדְךָ֙ הַיּ֔וֹם וְיָדַעְתָּ֖ כִּֽי־ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[1Kgs.20.13 Ahab Defeats Ben-hadad|Ahab Defeats Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9015]]"
+- "[[H5030]]"
+- "[[H0259]]"
+- "[[H5066G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0256G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H9008]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1995A]]"
+- "[[H1419A]]"
+- "[[H2088]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H3117L]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 20:13**<big><big>[[1Kgs.20.13 Ahab Defeats Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, there came a prophet unto Ahab king of Israel, saying, Thus saith the LORD, Hast thou seen all this great multitude? behold, I will deliver it into thine hand this day; and thou shalt know that I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 Meanwhile a prophet approached Ahab king of Israel and declared, “This is what the LORD says: ‘Do you see this entire great army? Behold, I will deliver it into your hand this very day, and you will know that I am the LORD.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֣ה]][[H9015\|׀]] [[H5030\|נָבִ֣יא]] [[H0259\|אֶחָ֗ד]] [[H5066G\|נִגַּשׁ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H0256G\|אַחְאָ֣ב]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֒]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9008\|הְֽ]][[H7200G\|רָאִ֔יתָ]] [[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הֶ]][[H1995A\|הָמ֥וֹן]] [[H9009\|הַ]][[H1419A\|גָּד֖וֹל]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H5414G\|נֹתְנ֤]][[H9033\|וֹ]] [[H9003\|בְ]][[H3027H\|יָֽדְ]][[H9021\|ךָ֙]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H9001\|וְ]][[H3045\|יָדַעְתָּ֖]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.12|<< 1 Kings 20:12]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.14|1 Kings 20:14 >>]]</td></tr></table>
 

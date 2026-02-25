@@ -1,10 +1,72 @@
+---
+title: Luke 20:9
+type: Verse
+kjv: "Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time."
+bsb: "Then He proceeded to tell the people this parable: “A man planted a vineyard, rented it out to some tenants, and went away for a long time."
+jesus_said: "A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time."
+greek: "Ἤρξατο δὲ πρὸς τὸν λαὸν λέγειν τὴν παραβολὴν ταύτην· ἄνθρωπός τις ἐφύτευσεν ἀμπελῶνα καὶ ἐξέδετο αὐτὸν γεωργοῖς καὶ ἀπεδήμησεν χρόνους ἱκανούς."
+pericope: "[[Luke.20.9 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 20
+book/chapter: "[[Luke.20|Luke 20]]"
+chronological_order: 995
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic FORT|FORT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAND|LAND]]"
+- "[[topic LEASE|LEASE]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic RENTING|RENTING]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[G0757]]"
+- "[[G1161]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3004G]]"
+- "[[G3850]]"
+- "[[G3778]]"
+- "[[G0444]]"
+- "[[G5100]]"
+- "[[G5452]]"
+- "[[G0290]]"
+- "[[G2532]]"
+- "[[G1554]]"
+- "[[G0846]]"
+- "[[G1092]]"
+- "[[G0589]]"
+- "[[G5550]]"
+- "[[G2425]]"
+texts:
+- NKO
+- NK
+---
+
 **Luke 20:9**<big><big>[[Luke.20.9 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.
 <small><sub>**BSB:**</sub></small>
 Then He proceeded to tell the people this parable: “A man planted a vineyard, rented it out to some tenants, and went away for a long time.
-<small><sub>**Literal:**</sub></small>
-He began then to the people to speak <the> parable this: A man certain planted a vineyard and rented it to farmers and went abroad a time long.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.8|<< Luke 20:8]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.10|Luke 20:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0757\|Ἤρξατο]]  [[G1161\|δὲ]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G3004G\|λέγειν]]  [[G3588\|τὴν]]  [[G3850\|παραβολὴν]]  [[G3778\|ταύτην·]]  [[G0444\|ἄνθρωπός]]  [[G5100\|τις]]  [[G5452\|ἐφύτευσεν]]  [[G0290\|ἀμπελῶνα]]  [[G2532\|καὶ]]  [[G1554\|ἐξέδετο]]  [[G0846\|αὐτὸν]]  [[G1092\|γεωργοῖς]]  [[G2532\|καὶ]]  [[G0589\|ἀπεδήμησεν]]  [[G5550\|χρόνους]]  [[G2425\|ἱκανούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPITAL AND LABOR|CAPITAL AND LABOR]] • [[topic DEBTOR|DEBTOR]] • [[topic FORT|FORT]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAND|LAND]] • [[topic LEASE|LEASE]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic RENTING|RENTING]] • [[topic REPROOF|REPROOF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.20.8|<< Luke 20:8]]</td><td align="center" style="border:none;">[[Luke.20|Luke 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.20.10|Luke 20:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 20:9** is...
 > $\quad$ alluding to: [[LXX.Isa.5.1|Isa 5:1]]

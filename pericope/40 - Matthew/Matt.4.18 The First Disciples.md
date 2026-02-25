@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The First Disciples
+type: Pericope
 pericope: "[[Matt.4.18 The First Disciples|The First Disciples]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 4
 book/chapter: "[[Matt.4|Matthew 4]]"
-genre:
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.4.18]]"
 - "[[Matt.4.19]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.4.22]]"
 ---
 
-[[Matt.4|Matthew 4:18 - Matthew 4:22]]
+<small>[[Matt.4|Matthew 4:18-22]]</small>
 *The First Disciples*
 
 [[Matt.4.18|18]] And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.

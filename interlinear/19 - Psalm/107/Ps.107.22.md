@@ -1,8 +1,55 @@
+---
+title: Psalm 107:22
+type: Verse
+kjv: "And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing."
+bsb: "Let them offer sacrifices of thanksgiving and declare His works with rejoicing."
+hebrew: "וְ֭יִזְבְּחוּ זִבְחֵ֣י תוֹדָ֑ה וִֽיסַפְּר֖וּ מַעֲשָׂ֣יו בְּרִנָּֽה׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H2076]]"
+- "[[H2077]]"
+- "[[H8426]]"
+- "[[H5608A]]"
+- "[[H4639G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H7440]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Psalms 107:22**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And let them sacrifice the sacrifices of thanksgiving, and declare his works with rejoicing.
 <small><sub>**BSB:**</sub></small>
 Let them offer sacrifices of thanksgiving and declare His works with rejoicing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H2076\|יִזְבְּחוּ]] [[H2077\|זִבְחֵ֣י]] [[H8426\|תוֹדָ֑ה]] [[H9002\|וִֽ]][[H5608A\|יסַפְּר֖וּ]] [[H4639G\|מַעֲשָׂ֣י]][[H9023\|ו]] [[H9003\|בְּ]][[H7440\|רִנָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.21|<< Psalms 107:21]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.23|Psalms 107:23 >>]]</td></tr></table>
 

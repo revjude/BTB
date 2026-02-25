@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 12:22
+type: Verse
+kjv: "Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat of them alike."
+bsb: "Indeed, you may eat it as you would eat a gazelle or deer; both the ceremonially unclean and the clean may eat it."
+hebrew: "אַ֗ךְ כַּאֲשֶׁ֨ר יֵאָכֵ֤ל אֶֽת־ הַצְּבִי֙ וְאֶת־ הָ֣אַיָּ֔ל כֵּ֖ן תֹּאכְלֶ֑נּוּ הַטָּמֵא֙ וְהַטָּה֔וֹר יַחְדָּ֖ו יֹאכְלֶֽנּוּ׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H0389]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6643B]]"
+- "[[H9002]]"
+- "[[H0354]]"
+- "[[H3651C]]"
+- "[[H9033]]"
+- "[[H2931]]"
+- "[[H2889]]"
+- "[[H3162B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:22**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat [of] them alike.
 <small><sub>**BSB:**</sub></small>
 Indeed, you may eat it as you would eat a gazelle or deer; both the ceremonially unclean and the clean may eat it.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֗ךְ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H0398\|יֵאָכֵ֤ל]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הַ]][[H6643B\|צְּבִי֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0354\|אַיָּ֔ל]] [[H3651C\|כֵּ֖ן]] [[H0398\|תֹּאכְלֶ֑]][[H9033\|נּוּ]] [[H9009\|הַ]][[H2931\|טָּמֵא֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2889\|טָּה֔וֹר]] [[H3162B\|יַחְדָּ֖ו]] [[H0398\|יֹאכְלֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.21|<< Deuteronomy 12:21]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.23|Deuteronomy 12:23 >>]]</td></tr></table>
 

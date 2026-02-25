@@ -1,10 +1,65 @@
+---
+title: Luke 12:38
+type: Verse
+kjv: "And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants."
+bsb: "Even if he comes in the second or third watch of the night and finds them alert, those servants will be blessed."
+jesus_said: "And if he shall come in the second watch, or come in the third watch, and find them so, blessed are those servants."
+greek: "κἂν κἂν ἔλθῃ ἐν τῇ δευτέρᾳ φυλακῇ κἂν κἂν ἐν τῇ τρίτῃ φυλακῇ ἔλθῃ καὶ εὕρῃ οὕτως, μακάριοί εἰσιν οἱ δοῦλοι ἐκεῖνοι.¶"
+pericope: "[[Luke.12.35 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1208]]"
+- "[[G5438H]]"
+- "[[G5154]]"
+- "[[G2147]]"
+- "[[G3779]]"
+- "[[G3107]]"
+- "[[G1510]]"
+- "[[G1401]]"
+- "[[G1565]]"
+texts:
+- NKO
+- k
+- N(k)O
+- ko
+---
+
 **Luke 12:38**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if he shall come in the second watch, or come in the third watch, and find [them] so, blessed are those servants.
 <small><sub>**BSB:**</sub></small>
 Even if he comes in the second or third watch of the night and finds them alert, those servants will be blessed.
-<small><sub>**Literal:**</sub></small>
-And if he may come in the second watch and if in the third watch he may come and he may find [them] thus, blessed are <the> servants those!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.37|<< Luke 12:37]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.39|Luke 12:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G2064\|ἔλθῃ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1208\|δευτέρᾳ]]  [[G5438H\|φυλακῇ]]  [[G2532\|κἂν]]  <sup><small>[[G1437\| [ • ] ]]</small></sup>  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5154\|τρίτῃ]]  [[G5438H\|φυλακῇ]]  [[G2064\|ἔλθῃ]]  [[G2532\|καὶ]]  [[G2147\|εὕρῃ]]  [[G3779\|οὕτως,]]  [[G3107\|μακάριοί]]  [[G1510\|εἰσιν]]  [[G3588\|οἱ]]  [[G1401\|δοῦλοι]]  [[G1565\|ἐκεῖνοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NIGHT|NIGHT]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.37|<< Luke 12:37]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.39|Luke 12:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

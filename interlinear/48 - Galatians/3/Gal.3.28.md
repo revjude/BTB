@@ -1,10 +1,67 @@
+---
+title: Galatians 3:28
+type: Verse
+kjv: "There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus."
+bsb: "There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus."
+greek: "οὐκ ἔνι Ἰουδαῖος οὐδὲ Ἕλλην, οὐκ ἔνι δοῦλος οὐδὲ ἐλεύθερος, οὐκ ἔνι ἄρσεν καὶ θῆλυ· πάντες γὰρ ὑμεῖς εἷς ἐστε ἐν Χριστῷ Ἰησοῦ."
+pericope: "[[Gal.3.26 Sons through Faith in Christ|Sons through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 3
+book/chapter: "[[Gal.3|Galatians 3]]"
+chronological_order: 1041
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GREECE|GREECE]]"
+- "[[topic LEGISLATION|LEGISLATION]]"
+- "[[topic LIBERTY|LIBERTY]]"
+- "[[topic MAN|MAN]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1762]]"
+- "[[G2453]]"
+- "[[G3761]]"
+- "[[G1672]]"
+- "[[G1401]]"
+- "[[G1658]]"
+- "[[G0730]]"
+- "[[G2532]]"
+- "[[G2338]]"
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G1520]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Galatians 3:28**<big><big>[[Gal.3.26 Sons through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 There is neither Jew nor Greek, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Jesus.
 <small><sub>**BSB:**</sub></small>
 There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus.
-<small><sub>**Literal:**</sub></small>
-Neither there is Jew nor Greek, neither there is slave nor free, neither there is male and female; all for you yourselves one are in Christ Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.27|<< Galatians 3:27]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.29|Galatians 3:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G1762\|ἔνι]]  [[G2453\|Ἰουδαῖος]]  [[G3761\|οὐδὲ]]  [[G1672\|Ἕλλην,]]  [[G3756\|οὐκ]]  [[G1762\|ἔνι]]  [[G1401\|δοῦλος]]  [[G3761\|οὐδὲ]]  [[G1658\|ἐλεύθερος,]]  [[G3756\|οὐκ]]  [[G1762\|ἔνι]]  [[G0730\|ἄρσεν]]  [[G2532\|καὶ]]  [[G2338\|θῆλυ·]]  [[G3956\|πάντες]]  [[G1063\|γὰρ]]  [[G4771\|ὑμεῖς]]  [[G1520\|εἷς]]  [[G1510\|ἐστε]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic GREECE|GREECE]] • [[topic LEGISLATION|LEGISLATION]] • [[topic LIBERTY|LIBERTY]] • [[topic MAN|MAN]] • [[topic SALVATION|SALVATION]] • [[topic SERVANT|SERVANT]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.3.27|<< Galatians 3:27]]</td><td align="center" style="border:none;">[[Gal.3|Galatians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.3.29|Galatians 3:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

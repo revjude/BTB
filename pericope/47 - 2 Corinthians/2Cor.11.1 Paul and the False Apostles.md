@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul and the False Apostles
+type: Pericope
 pericope: "[[2Cor.11.1 Paul and the False Apostles|Paul and the False Apostles]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 11
 book/chapter: "[[2Cor.11|2 Corinthians 11]]"
-genre:
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 15
 verses:
 - "[[2Cor.11.1]]"
 - "[[2Cor.11.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Cor.11.15]]"
 ---
 
-[[2Cor.11|2 Corinthians 11:1 - 2 Corinthians 11:15]]
+<small>[[2Cor.11|2 Corinthians 11:1-15]]</small>
 *Paul and the False Apostles*
 
 [[2Cor.11.1|1]] Would to God ye could bear with me a little in \[my\] folly: and indeed bear with me.

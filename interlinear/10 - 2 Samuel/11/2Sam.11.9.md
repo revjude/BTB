@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 11:9
+type: Verse
+kjv: "But Uriah slept at the door of the king’s house with all the servants of his lord, and went not down to his house."
+bsb: "But Uriah slept at the door of the palace with all his master’s servants; he did not go down to his house."
+hebrew: "וַיִּשְׁכַּ֣ב אוּרִיָּ֗ה פֶּ֚תַח בֵּ֣ית הַמֶּ֔לֶךְ אֵ֖ת כָּל־ עַבְדֵ֣י אֲדֹנָ֑יו וְלֹ֥א יָרַ֖ד אֶל־ בֵּיתֽוֹ׃"
+pericope: "[[2Sam.11.1 David and Bathsheba|David and Bathsheba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 11
+book/chapter: "[[2Sam.11|2 Samuel 11]]"
+chronological_order: 410
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic URIAH|URIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901H]]"
+- "[[H0223A]]"
+- "[[H6607]]"
+- "[[H1004B]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0854]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3381]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 11:9**<big><big>[[2Sam.11.1 David and Bathsheba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Uriah slept at the door of the king’s house with all the servants of his lord, and went not down to his house.
 <small><sub>**BSB:**</sub></small>
 But Uriah slept at the door of the palace with all his master’s servants; he did not go down to his house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901H\|יִּשְׁכַּ֣ב]] [[H0223A\|אוּרִיָּ֗ה]] [[H6607\|פֶּ֚תַח]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H0854\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H5650\|עַבְדֵ֣י]] [[H0113\|אֲדֹנָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3381\|יָרַ֖ד]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENCE|CONTINENCE]] • [[topic DAVID|DAVID]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic INSTABILITY|INSTABILITY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic LOYALTY|LOYALTY]] • [[topic URIAH|URIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.11.8|<< 2 Samuel 11:8]]</td><td align="center" style="border:none;">[[2Sam.11|2 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.11.10|2 Samuel 11:10 >>]]</td></tr></table>
 

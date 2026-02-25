@@ -1,10 +1,63 @@
+---
+title: 1 Timothy 5:16
+type: Verse
+kjv: "If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed."
+bsb: "If any believing woman has dependent widows, she must assist them and not allow the church to be burdened, so that it can help the widows who are truly in need."
+greek: "εἴ τις πιστὸς ἢ πιστὴ ἔχει χήρας, ἐπαρκείτω αὐταῖς καὶ μὴ βαρείσθω ἡ ἐκκλησία, ἵνα ταῖς ὄντως χήραις ἐπαρκέσῃ.¶"
+pericope: "[[1Tim.5.3 Honoring True Widows|Honoring True Widows]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 5
+book/chapter: "[[1Tim.5|1 Timothy 5]]"
+chronological_order: 1130
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POOR|POOR]]"
+- "[[topic WIDOW|WIDOW]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G4103]]"
+- "[[G2228]]"
+- "[[G2192]]"
+- "[[G5503]]"
+- "[[G1884]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G0916]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G2443]]"
+- "[[G3689]]"
+texts:
+- NKO
+- K
+- NK(o)
+---
+
 **1 Timothy 5:16**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If any man or woman that believeth have widows, let them relieve them, and let not the church be charged; that it may relieve them that are widows indeed.
 <small><sub>**BSB:**</sub></small>
 If any believing woman has dependent widows, she must assist them and not allow the church to be burdened, so that it can help the widows who are truly in need.
-<small><sub>**Literal:**</sub></small>
-If any faithful or believing [woman] has [dependent] widows, she should help to them and not should be burdened the church, so that to those [who are] truly widows it may impart relief.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.15|<< 1 Timothy 5:15]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.17|1 Timothy 5:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἴ]]  [[G5100\|τις]]  [[G4103\|πιστὸς]]  [[G2228\|ἢ]]  [[G4103\|πιστὴ]]  [[G2192\|ἔχει]]  [[G5503\|χήρας,]]  [[G1884\|ἐπαρκείτω]]  [[G0846\|αὐταῖς]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G0916\|βαρείσθω]]  [[G3588\|ἡ]]  [[G1577\|ἐκκλησία,]]  [[G2443\|ἵνα]]  [[G3588\|ταῖς]]  [[G3689\|ὄντως]]  [[G5503\|χήραις]]  [[G1884\|ἐπαρκέσῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POOR|POOR]] • [[topic WIDOW|WIDOW]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.15|<< 1 Timothy 5:15]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.17|1 Timothy 5:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

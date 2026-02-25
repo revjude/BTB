@@ -1,10 +1,62 @@
+---
+title: Philippians 1:23
+type: Verse
+kjv: "For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:"
+bsb: "I am torn between the two. I desire to depart and be with Christ, which is far better indeed."
+greek: "συνέχομαι δὲ ἐκ τῶν δύο, τὴν ἐπιθυμίαν ἔχων εἰς τὸ ἀναλῦσαι καὶ σὺν Χριστῷ εἶναι, πολλῷ γὰρ μᾶλλον κρεῖσσον·"
+pericope: "[[Phil.1.21 To Live Is Christ|To Live Is Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4912]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G1417]]"
+- "[[G1939]]"
+- "[[G2192]]"
+- "[[G1519]]"
+- "[[G0360]]"
+- "[[G2532]]"
+- "[[G4862]]"
+- "[[G5547]]"
+- "[[G1511]]"
+- "[[G4183]]"
+- "[[G1063]]"
+- "[[G3123G]]"
+- "[[G2908]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Philippians 1:23**<big><big>[[Phil.1.21 To Live Is Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:
 <small><sub>**BSB:**</sub></small>
 I am torn between the two. I desire to depart and be with Christ, which is far better indeed.
-<small><sub>**Literal:**</sub></small>
-I am pressed now between the two, the desire having for [myself] <the> to depart and with Christ to be, very much for more better;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.22|<< Philippians 1:22]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.24|Philippians 1:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4912\|συνέχομαι]]  [[G1161\|δὲ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1417\|δύο,]]  [[G3588\|τὴν]]  [[G1939\|ἐπιθυμίαν]]  [[G2192\|ἔχων]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G0360\|ἀναλῦσαι]]  [[G2532\|καὶ]]  [[G4862\|σὺν]]  [[G5547\|Χριστῷ]]  [[G1511\|εἶναι,]]  [[G4183\|πολλῷ]]  [[G1063\|γὰρ]]  [[G3123G\|μᾶλλον]]  [[G2908\|κρεῖσσον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic LOVE|LOVE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.22|<< Philippians 1:22]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.24|Philippians 1:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

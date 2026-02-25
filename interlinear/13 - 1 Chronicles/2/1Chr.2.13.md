@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 2:13
+type: Verse
+kjv: "And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,"
+bsb: "Jesse was the father of Eliab his firstborn; Abinadab was born second, Shimea third,"
+hebrew: "וְאִישַׁ֛י הוֹלִ֥יד אֶת־ בְּכֹר֖וֹ אֶת־ אֱלִיאָ֑ב וַאֲבִינָדָב֙ הַשֵּׁנִ֔י וְשִׁמְעָ֖א הַשְּׁלִישִֽׁי׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELIAB|ELIAB]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic SHAMMAH|SHAMMAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3448]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1060]]"
+- "[[H9023]]"
+- "[[H0446I]]"
+- "[[H0041I]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H8092I]]"
+- "[[H7992]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:13**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jesse begat his firstborn Eliab, and Abinadab the second, and Shimma the third,
 <small><sub>**BSB:**</sub></small>
 Jesse was the father of Eliab his firstborn; Abinadab was born second, Shimea third,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3448\|אִישַׁ֛י]] [[H3205\|הוֹלִ֥יד]] [[H0853\|אֶת]][[H9014\|־]] [[H1060\|בְּכֹר֖]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H0446I\|אֱלִיאָ֑ב]] [[H9002\|וַ]][[H0041I\|אֲבִינָדָב֙]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H9002\|וְ]][[H8092I\|שִׁמְעָ֖א]] [[H9009\|הַ]][[H7992\|שְּׁלִישִֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic ELIAB|ELIAB]] • [[topic JESSE|JESSE]] • [[topic SHAMMAH|SHAMMAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.12|<< 1 Chronicles 2:12]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.14|1 Chronicles 2:14 >>]]</td></tr></table>
 

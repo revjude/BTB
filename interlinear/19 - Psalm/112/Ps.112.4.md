@@ -1,8 +1,59 @@
+---
+title: Psalm 112:4
+type: Verse
+kjv: "Unto the upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous."
+bsb: "Light dawns in the darkness for the upright—for the gracious, compassionate, and righteous."
+hebrew: "זָ֘רַ֤ח בַּחֹ֣שֶׁךְ א֭וֹר לַיְשָׁרִ֑ים חַנּ֖וּן וְרַח֣וּם וְצַדִּֽיק׃"
+pericope: "[[Ps.112.1 The Blessed Fear of the LORD|The Blessed Fear of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 112
+book/chapter: "[[Ps.112|Psalm 112]]"
+chronological_order: 874
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2224]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H0216]]"
+- "[[H9005]]"
+- "[[H3477G]]"
+- "[[H2587]]"
+- "[[H9002]]"
+- "[[H7349]]"
+- "[[H6662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 112:4**<big><big>[[Ps.112.1 The Blessed Fear of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto the upright there ariseth light in the darkness: [he is] gracious, and full of compassion, and righteous.
 <small><sub>**BSB:**</sub></small>
 Light dawns in the darkness for the upright—for the gracious, compassionate, and righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H2224\|זָ֘רַ֤ח]] [[H9003\|בַּ]][[H2822\|חֹ֣שֶׁךְ]] [[H0216\|א֭וֹר]] [[H9005\|לַ]][[H3477G\|יְשָׁרִ֑ים]] [[H2587\|חַנּ֖וּן]] [[H9002\|וְ]][[H7349\|רַח֣וּם]] [[H9002\|וְ]][[H6662\|צַדִּֽיק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic POOR|POOR]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.112.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.112.3|<< Psalms 112:3]]</td><td align="center" style="border:none;">[[Ps.112|Psalms 112]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.112.5|Psalms 112:5 >>]]</td></tr></table>
 

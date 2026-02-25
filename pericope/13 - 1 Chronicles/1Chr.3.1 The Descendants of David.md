@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Descendants of David
+type: Pericope
 pericope: "[[1Chr.3.1 The Descendants of David|The Descendants of David]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 3
 book/chapter: "[[1Chr.3|1 Chronicles 3]]"
-genre:
+chronological_order: 322
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 9
 verses:
 - "[[1Chr.3.1]]"
 - "[[1Chr.3.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[1Chr.3.9]]"
 ---
 
-[[1Chr.3|1 Chronicles 3:1 - 1 Chronicles 3:9]]
+<small>[[1Chr.3|1 Chronicles 3:1-9]]</small>
 *The Descendants of David*
 
 [[1Chr.3.1|1]] Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:

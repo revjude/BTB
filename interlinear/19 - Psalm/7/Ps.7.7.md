@@ -1,8 +1,55 @@
+---
+title: Psalm 7:7
+type: Verse
+kjv: "So shall the congregation of the people compass thee about: for their sakes therefore return thou on high."
+bsb: "Let the assembled peoples gather around You; take Your seat over them on high."
+hebrew: "וַעֲדַ֣ת לְ֭אֻמִּים תְּסוֹבְבֶ֑ךָּ וְ֝עָלֶ֗יהָ לַמָּר֥וֹם שֽׁוּבָה׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9002]]"
+- "[[H5712]]"
+- "[[H3816]]"
+- "[[H5437G]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H4791]]"
+- "[[H7725G]]"
+- "[[H9012]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:7**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall the congregation of the people compass thee about: for their sakes therefore return thou on high.
 <small><sub>**BSB:**</sub></small>
 Let the assembled peoples gather around You; take Your seat over them on high.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H5712\|עֲדַ֣ת]] [[H3816\|לְ֭אֻמִּים]] [[H5437G\|תְּסוֹבְבֶ֑]][[H9031\|ךָּ]] [[H9002\|וְ֝]][[H5921A\|עָלֶ֗י]][[H9034\|הָ]] [[H9005\|לַ]][[H4791\|מָּר֥וֹם]] [[H7725G\|שֽׁוּבָ]][[H9012\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.6|<< Psalms 7:6]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.8|Psalms 7:8 >>]]</td></tr></table>
 

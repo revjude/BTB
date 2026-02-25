@@ -1,8 +1,57 @@
+---
+title: Proverbs 17:9
+type: Verse
+kjv: "He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends."
+bsb: "Whoever conceals an offense promotes love, but he who brings it up separates friends."
+hebrew: "מְֽכַסֶּה־ פֶּ֭שַׁע מְבַקֵּ֣שׁ אַהֲבָ֑ה וְשֹׁנֶ֥ה בְ֝דָבָ֗ר מַפְרִ֥יד אַלּֽוּף׃"
+pericope: "[[Prov.17.1 Better a Dry Morsel in Quietness|Better a Dry Morsel in Quietness]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 17
+book/chapter: "[[Prov.17|Proverbs 17]]"
+chronological_order: 472
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TALEBEARER|TALEBEARER]]"
+strongs:
+- "[[H3680]]"
+- "[[H9014]]"
+- "[[H6588]]"
+- "[[H1245]]"
+- "[[H0160]]"
+- "[[H9002]]"
+- "[[H8138B]]"
+- "[[H9003]]"
+- "[[H1697I]]"
+- "[[H6504]]"
+- "[[H0441A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 17:9**<big><big>[[Prov.17.1 Better a Dry Morsel in Quietness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that covereth a transgression seeketh love; but he that repeateth a matter separateth [very] friends.
 <small><sub>**BSB:**</sub></small>
 Whoever conceals an offense promotes love, but he who brings it up separates friends.
+<small><sub>**Hebrew:**</sub></small>
+[[H3680\|מְֽכַסֶּה]][[H9014\|־]] [[H6588\|פֶּ֭שַׁע]] [[H1245\|מְבַקֵּ֣שׁ]] [[H0160\|אַהֲבָ֑ה]] [[H9002\|וְ]][[H8138B\|שֹׁנֶ֥ה]] [[H9003\|בְ֝]][[H1697I\|דָבָ֗ר]] [[H6504\|מַפְרִ֥יד]] [[H0441A\|אַלּֽוּף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic LOVE|LOVE]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]] • [[topic TALEBEARER|TALEBEARER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.17.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.17.8|<< Proverbs 17:8]]</td><td align="center" style="border:none;">[[Prov.17|Proverbs 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.17.10|Proverbs 17:10 >>]]</td></tr></table>
 

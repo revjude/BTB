@@ -1,10 +1,61 @@
+---
+title: 2 Corinthians 6:17
+type: Verse
+kjv: "Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,"
+bsb: "“Therefore come out from among them and be separate, says the Lord. Touch no unclean thing, and I will receive you.”"
+greek: "Διὸ ἐξέλθατε ἐκ μέσου αὐτῶν καὶ ἀφορίσθητε, λέγει κύριος, καὶ ἀκαθάρτου μὴ ἅπτεσθε· κἀγὼ κἀγὼ εἰσδέξομαι ὑμᾶς,"
+pericope: "[[2Cor.6.14 Do Not Be Unequally Yoked|Do Not Be Unequally Yoked]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 6
+book/chapter: "[[2Cor.6|2 Corinthians 6]]"
+chronological_order: 1079
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G1352]]"
+- "[[G1831]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G0873]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G0169]]"
+- "[[G3361]]"
+- "[[G0681]]"
+- "[[G1473]]"
+- "[[G1523]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 6:17**<big><big>[[2Cor.6.14 Do Not Be Unequally Yoked|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean [thing]; and I will receive you,
 <small><sub>**BSB:**</sub></small>
 “Therefore come out from among them and be separate, says the Lord. Touch no unclean thing, and I will receive you.”
-<small><sub>**Literal:**</sub></small>
-Therefore do come out from [the] midst of them and do be separate, says [the] Lord, and unclean nothing do touch; and I myself will receive you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.16|<< 2 Corinthians 6:16]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.18|2 Corinthians 6:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διὸ]]  [[G1831\|ἐξέλθατε]]  [[G1537\|ἐκ]]  [[G3319\|μέσου]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G0873\|ἀφορίσθητε,]]  [[G3004G\|λέγει]]  [[G2962G\|κύριος,]]  [[G2532\|καὶ]]  [[G0169\|ἀκαθάρτου]]  [[G3361\|μὴ]]  [[G0681\|ἅπτεσθε·]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G1523\|εἰσδέξομαι]]  [[G4771\|ὑμᾶς,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic COMMUNION|COMMUNION]] • [[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HOLINESS|HOLINESS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.6.16|<< 2 Corinthians 6:16]]</td><td align="center" style="border:none;">[[2Cor.6|2 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.6.18|2 Corinthians 6:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 6:17** is...
 > $\quad$ referencing: [[LXX.Jer.51.45|Jer 51:45]] ☩ [[LXX.Isa.52.11|Isa 52:11-12]] ☩ [[LXX.Jer.31.9|Jer 31:9]]

@@ -1,10 +1,54 @@
+---
+title: Matthew 22:1
+type: Verse
+kjv: "And Jesus answered and spake unto them again by parables, and said,"
+bsb: "Once again, Jesus spoke to them in parables:"
+greek: "Καὶ ἀποκριθεὶς ὁ Ἰησοῦς πάλιν εἶπεν ἐν παραβολαῖς αὐτοῖς λέγων·"
+pericope: "[[Matt.22.1 The Parable of the Banquet|The Parable of the Banquet]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3825]]"
+- "[[G2036]]"
+- "[[G1722]]"
+- "[[G3850]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **Matthew 22:1**<big><big>[[Matt.22.1 The Parable of the Banquet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered and spake unto them again by parables, and said,
 <small><sub>**BSB:**</sub></small>
 Once again, Jesus spoke to them in parables:
-<small><sub>**Literal:**</sub></small>
-And answering <the> Jesus again spoke in parables to them saying;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.46|<< Matthew 21:46]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.2|Matthew 22:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0611\|ἀποκριθεὶς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3825\|πάλιν]]  [[G2036\|εἶπεν]]  [[G1722\|ἐν]]  [[G3850\|παραβολαῖς]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγων·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FEASTS|FEASTS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.46|<< Matthew 21:46]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.2|Matthew 22:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

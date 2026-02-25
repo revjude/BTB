@@ -1,10 +1,74 @@
+---
+title: Galatians 5:21
+type: Verse
+kjv: "Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told you in time past, that they which do such things shall not inherit the kingdom of God."
+bsb: "and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God."
+greek: "φθόνοι, φόνοι, μέθαι, κῶμοι, καὶ τὰ ὅμοια τούτοις· ἃ προλέγω ὑμῖν καθὼς καὶ προεῖπον ὅτι οἱ τὰ τοιαῦτα πράσσοντες βασιλείαν θεοῦ οὐ κληρονομήσουσιν."
+pericope: "[[Gal.5.16 Walking by the Spirit|Walking by the Spirit]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic CRIME|CRIME]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FLESH|FLESH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic STRIFE|STRIFE]]"
+strongs:
+- "[[G5355]]"
+- "[[G5408]]"
+- "[[G3178]]"
+- "[[G2970]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3664]]"
+- "[[G3778]]"
+- "[[G3739]]"
+- "[[G4302]]"
+- "[[G4771]]"
+- "[[G2531]]"
+- "[[G4277]]"
+- "[[G3754G]]"
+- "[[G5108]]"
+- "[[G4238]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G2816]]"
+texts:
+- NKO
+- KO
+- k
+---
+
 **Galatians 5:21**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Envyings, murders, drunkenness, revellings, and such like: of the which I tell you before, as I have also told [you] in time past, that they which do such things shall not inherit the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God.
-<small><sub>**Literal:**</sub></small>
-envyings, murders drunkennesses, carousing, and <the> [things] like as these; which I forewarn you even as also I warned before that those such things doing kingdom God’s not will inherit.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.20|<< Galatians 5:20]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.22|Galatians 5:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5355\|φθόνοι,]]  [[G5408\|φόνοι,]]  [[G3178\|μέθαι,]]  [[G2970\|κῶμοι,]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G3664\|ὅμοια]]  [[G3778\|τούτοις·]]  [[G3739\|ἃ]]  [[G4302\|προλέγω]]  [[G4771\|ὑμῖν]]  [[G2531\|καθὼς]]  [[G2532\|καὶ]]  [[G4277\|προεῖπον]]  [[G3754G\|ὅτι]]  [[G3588\|οἱ]]  [[G3588\|τὰ]]  [[G5108\|τοιαῦτα]]  [[G4238\|πράσσοντες]]  [[G0932\|βασιλείαν]]  [[G2316\|θεοῦ]]  [[G3756\|οὐ]]  [[G2816\|κληρονομήσουσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic ANGER|ANGER]] • [[topic CRIME|CRIME]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic ENVY|ENVY]] • [[topic FLESH|FLESH]] • [[topic HEAVEN|HEAVEN]] • [[topic HOMICIDE|HOMICIDE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MALICE|MALICE]] • [[topic SIN|SIN]] • [[topic STRIFE|STRIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.20|<< Galatians 5:20]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.22|Galatians 5:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

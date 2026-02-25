@@ -1,6 +1,76 @@
+---
+title: LXX 2 Samuel 7:14
+type: Verse
+lxx: "I will be to him for father, and he will be to me for son. And if his injustice should come, then I shall reprove him by a rod of men, and by blows of the sons of men."
+greek: "εγώ έσομαι αυτώ εις πατέρα και αυτός έσται μοι εις υιόν και εάν έλθη η αδικία αυτού και ελέγξω αυτόν εν ράβδω ανδρών και εν αφαίς υιών ανθρώπων"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic KING|KING]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3962]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G5207]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G0093]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1651]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G4464]]"
+- "[[G0435]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G0860]]"
+- "[[G5207]]"
+- "[[G0444]]"
+---
+
 **LXX 2 Samuel 7:14** 
 <small><sub>**LXX:**</sub></small>
 I will be to him for father, and he will be to me for son. And if his injustice should come, then I shall reprove him by a rod of men, and by blows of \[the\] sons of men. 
+<small><sub>**Greek:**</sub></small>
+[[G1473\|εγώ]] [[G1510\|έσομαι]] [[G1473\|αυτώ]] [[G1519\|εις]] [[G3962\|πατέρα]] [[G2532\|και]] [[G1473\|αυτός]] [[G1510\|έσται]] [[G1473\|μοι]] [[G1519\|εις]] [[G5207\|υιόν]] [[G2532\|και]] [[G1437\|εάν]] [[G2064\|έλθη]] [[G3588\|η]] [[G0093\|αδικία]] [[G1473\|αυτού]] [[G2532\|και]] [[G1651\|ελέγξω]] [[G1473\|αυτόν]] [[G1722\|εν]] [[G4464\|ράβδω]] [[G0435\|ανδρών]] [[G2532\|και]] [[G1722\|εν]] [[G0860\|αφαίς]] [[G5207\|υιών]] [[G0444\|ανθρώπων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AGENCY|AGENCY]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic KING|KING]] • [[topic NATHAN|NATHAN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SOLOMON|SOLOMON]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.13|<< 2 Samuel 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.15|2 Samuel 7:15 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -38,6 +108,6 @@ I will be to him for father, and he will be to me for son. And if his injustice 
 | blows | **<big>[[G0860\|αφαίς]]</big>** |
 | of \[the\] sons | **<big>[[G5207\|υιών]]</big>** |
 | of men. | **<big>[[G0444\|ανθρώπων]]</big>** |
-[[2Sam.7.14|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.13|<< 2 Samuel 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.15|2 Samuel 7:15 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.7.13|<< 2 Samuel 7:13]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.7.15|2 Samuel 7:15 >>]]</td></tr></table>
 
 

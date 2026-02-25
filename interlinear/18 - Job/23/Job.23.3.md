@@ -1,8 +1,54 @@
+---
+title: Job 23:3
+type: Verse
+kjv: "Oh that I knew where I might find him! that I might come even to his seat!"
+bsb: "If only I knew where to find Him, so that I could go to His seat."
+hebrew: "מִֽי־ יִתֵּ֣ן יָ֭דַעְתִּי וְאֶמְצָאֵ֑הוּ אָ֝ב֗וֹא עַד־ תְּכוּנָתֽוֹ׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H5414Q]]"
+- "[[H3045]]"
+- "[[H9002]]"
+- "[[H4672]]"
+- "[[H9033]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H8499]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:3**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh that I knew where I might find him! [that] I might come [even] to his seat!
 <small><sub>**BSB:**</sub></small>
 If only I knew where to find Him, so that I could go to His seat.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִֽי]][[H9014\|־]] [[H5414Q\|יִתֵּ֣ן]] [[H3045\|יָ֭דַעְתִּי]] [[H9002\|וְ]][[H4672\|אֶמְצָאֵ֑]][[H9033\|הוּ]] [[H0935G\|אָ֝ב֗וֹא]] [[H5704\|עַד]][[H9014\|־]] [[H8499\|תְּכוּנָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.2|<< Job 23:2]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.4|Job 23:4 >>]]</td></tr></table>
 

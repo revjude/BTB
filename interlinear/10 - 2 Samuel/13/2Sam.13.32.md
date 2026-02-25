@@ -1,8 +1,81 @@
+---
+title: 2 Samuel 13:32
+type: Verse
+kjv: "And Jonadab, the son of Shimeah David’s brother, answered and said, Let not my lord suppose that they have slain all the young men the king’s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar."
+bsb: "But Jonadab, the son of David’s brother Shimeah, spoke up: “My lord must not think they have killed all the sons of the king, for only Amnon is dead. In fact, Absalom has planned this since the day Amnon violated his sister Tamar."
+hebrew: "וַיַּ֡עַן יוֹנָדָ֣ב׀ בֶּן־ שִׁמְעָ֨ה אֲחִֽי־ דָוִ֜ד וַיֹּ֗אמֶר אַל־ יֹאמַ֤ר אֲדֹנִי֙ אֵ֣ת כָּל־ הַנְּעָרִ֤ים בְּנֵֽי־ הַמֶּ֙לֶךְ֙ הֵמִ֔יתוּ כִּֽי־ אַמְנ֥וֹן לְבַדּ֖וֹ מֵ֑ת כִּֽי־ עַל־ פִּ֤י אַבְשָׁלוֹם֙ הָיְתָ֣ה שׂוּמָ֔ה מִיּוֹם֙ עַנֹּת֔וֹ אֵ֖ת תָּמָ֥ר אֲחֹתֽוֹ׃"
+pericope: "[[2Sam.13.23 Absalom’s Revenge on Amnon|Absalom’s Revenge on Amnon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SHAMMAH|SHAMMAH]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H3122G]]"
+- "[[H9015]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H8093]]"
+- "[[H0251G]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H0408]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H4428G]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H0550G]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H6310I]]"
+- "[[H0053]]"
+- "[[H1961]]"
+- "[[H7760B]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H6031B]]"
+- "[[H9043]]"
+- "[[H8559H]]"
+- "[[H0269]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:32**<big><big>[[2Sam.13.23 Absalom’s Revenge on Amnon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jonadab, the son of Shimeah David’s brother, answered and said, Let not my lord suppose [that] they have slain all the young men the king’s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.
 <small><sub>**BSB:**</sub></small>
 But Jonadab, the son of David’s brother Shimeah, spoke up: “My lord must not think they have killed all the sons of the king, for only Amnon is dead. In fact, Absalom has planned this since the day Amnon violated his sister Tamar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֡עַן]] [[H3122G\|יוֹנָדָ֣ב]][[H9015\|׀]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8093\|שִׁמְעָ֨ה]] [[H0251G\|אֲחִֽי]][[H9014\|־]] [[H1732\|דָוִ֜ד]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0408\|אַל]][[H9014\|־]] [[H0559\|יֹאמַ֤ר]] [[H0113\|אֲדֹנִ]][[H9020\|י֙]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נְּעָרִ֤ים]] [[H1121A\|בְּנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H4191\|הֵמִ֔יתוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0550G\|אַמְנ֥וֹן]] [[H9005\|לְ]][[H0905H\|בַדּ֖]][[H9033\|וֹ]] [[H4191\|מֵ֑ת]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֤י]] [[H0053\|אַבְשָׁלוֹם֙]] [[H1961\|הָיְתָ֣ה]] [[H7760B\|שׂוּמָ֔ה]] [[H9006\|מִ]][[H3117G\|יּוֹם֙]] [[H6031B\|עַנֹּת֔]][[H9043\|וֹ]] [[H0853\|אֵ֖ת]] [[H8559H\|תָּמָ֥ר]] [[H0269\|אֲחֹתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONADAB|JONADAB]] • [[topic RAPE|RAPE]] • [[topic SHAMMAH|SHAMMAH]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.31|<< 2 Samuel 13:31]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.33|2 Samuel 13:33 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Joel 2:3
+type: Verse
+kjv: "A fire devoureth before them; and behind them a flame burneth: the land is as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them."
+bsb: "Before them a fire devours, and behind them a flame scorches. The land before them is like the Garden of Eden, but behind them, it is like a desert wasteland—surely nothing will escape them."
+hebrew: "לְפָנָיו֙ אָ֣כְלָה אֵ֔שׁ וְאַחֲרָ֖יו תְּלַהֵ֣ט לֶֽהָבָ֑ה כְּגַן־ עֵ֨דֶן הָאָ֜רֶץ לְפָנָ֗יו וְאַֽחֲרָיו֙ מִדְבַּ֣ר שְׁמָמָ֔ה וְגַם־ פְּלֵיטָ֖ה לֹא־ הָ֥יְתָה לּֽוֹ׃"
+pericope: "[[Joel.2.1 The Army of Locusts|The Army of Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 2
+book/chapter: "[[Joel.2|Joel 2]]"
+chronological_order: 841
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EDEN|EDEN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H0398]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H3857]]"
+- "[[H3852]]"
+- "[[H9004]]"
+- "[[H1588M]]"
+- "[[H9014]]"
+- "[[H5731B]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H4057B]]"
+- "[[H8077A]]"
+- "[[H1571]]"
+- "[[H6413]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 2:3**<big><big>[[Joel.2.1 The Army of Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fire devoureth before them; and behind them a flame burneth: the land [is] as the garden of Eden before them, and behind them a desolate wilderness; yea, and nothing shall escape them.
 <small><sub>**BSB:**</sub></small>
 Before them a fire devours, and behind them a flame scorches. The land before them is like the Garden of Eden, but behind them, it is like a desert wasteland—surely nothing will escape them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H0398\|אָ֣כְלָה]] [[H0784\|אֵ֔שׁ]] [[H9002\|וְ]][[H0310A\|אַחֲרָ֖י]][[H9033\|ו]] [[H3857\|תְּלַהֵ֣ט]] [[H3852\|לֶֽהָבָ֑ה]] [[H9004\|כְּ]][[H1588M\|גַן]][[H9014\|־]] [[H5731B\|עֵ֨דֶן]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H9005\|לְ]][[H6440G\|פָנָ֗י]][[H9023\|ו]] [[H9002\|וְ]][[H0310A\|אַֽחֲרָי]][[H9033\|ו֙]] [[H4057B\|מִדְבַּ֣ר]] [[H8077A\|שְׁמָמָ֔ה]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H6413\|פְּלֵיטָ֖ה]] [[H3808\|לֹא]][[H9014\|־]] [[H1961\|הָ֥יְתָה]] [[H9005\|לּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDEN|EDEN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOEL|JOEL]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.2.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.2.2|<< Joel 2:2]]</td><td align="center" style="border:none;">[[Joel.2|Joel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.2.4|Joel 2:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

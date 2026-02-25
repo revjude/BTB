@@ -1,8 +1,50 @@
+---
+title: Proverbs 8:5
+type: Verse
+kjv: "O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart."
+bsb: "O simple ones, learn to be shrewd; O fools, gain understanding."
+hebrew: "הָבִ֣ינוּ פְתָאיִ֣ם עָרְמָ֑ה וּ֝כְסִילִ֗ים הָבִ֥ינוּ לֵֽב׃"
+pericope: "[[Prov.8.1 The Excellence of Wisdom|The Excellence of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 8
+book/chapter: "[[Prov.8|Proverbs 8]]"
+chronological_order: 463
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H0995]]"
+- "[[H6612A]]"
+- "[[H6195]]"
+- "[[H9002]]"
+- "[[H3684]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 8:5**<big><big>[[Prov.8.1 The Excellence of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.
 <small><sub>**BSB:**</sub></small>
 O simple ones, learn to be shrewd; O fools, gain understanding.
+<small><sub>**Hebrew:**</sub></small>
+[[H0995\|הָבִ֣ינוּ]] [[H6612A\|פְתָאיִ֣ם]] [[H6195\|עָרְמָ֑ה]] [[H9002\|וּ֝]][[H3684\|כְסִילִ֗ים]] [[H0995\|הָבִ֥ינוּ]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SALVATION|SALVATION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.8.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.8.4|<< Proverbs 8:4]]</td><td align="center" style="border:none;">[[Prov.8|Proverbs 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.8.6|Proverbs 8:6 >>]]</td></tr></table>
 

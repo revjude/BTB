@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD’s Answer
+type: Pericope
 pericope: "[[Hab.1.5 The LORD’s Answer|The LORD’s Answer]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Habakkuk
 chapter: 1
 book/chapter: "[[Hab.1|Habakkuk 1]]"
-genre:
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - dialogue
 - theodicy
+verse_count: 7
 verses:
 - "[[Hab.1.5]]"
 - "[[Hab.1.6]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Hab.1.11]]"
 ---
 
-[[Hab.1|Habakkuk 1:5 - Habakkuk 1:11]]
+<small>[[Hab.1|Habakkuk 1:5-11]]</small>
 *The LORD’s Answer*
 
 [[Hab.1.5|5]] Behold ye among the heathen, and regard, and wonder marvellously: for \[I\] will work a work in your days, \[which\] ye will not believe, though it be told \[you\].

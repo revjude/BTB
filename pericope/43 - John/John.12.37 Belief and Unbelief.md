@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Belief and Unbelief
+type: Pericope
 pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: John
 chapter: 12
 book/chapter: "[[John.12|John 12]]"
-genre:
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 14
 verses:
 - "[[John.12.37]]"
 - "[[John.12.38]]"
@@ -32,7 +39,7 @@ verses:
 - "[[John.12.50]]"
 ---
 
-[[John.12|John 12:37 - John 12:50]]
+<small>[[John.12|John 12:37-50]]</small>
 *Belief and Unbelief*
 
 [[John.12.37|37]] But though he had done so many miracles before them, yet they believed not on him:

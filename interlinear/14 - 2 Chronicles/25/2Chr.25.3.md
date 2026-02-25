@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 25:3
+type: Verse
+kjv: "Now it came to pass, when the kingdom was established to him, that he slew his servants that had killed the king his father."
+bsb: "As soon as the kingdom was firmly in his grasp, Amaziah executed the servants who had murdered his father the king."
+hebrew: "וַיְהִ֕י כַּאֲשֶׁ֛ר חָזְקָ֥ה הַמַּמְלָכָ֖ה עָלָ֑יו וַֽיַּהֲרֹג֙ אֶת־ עֲבָדָ֔יו הַמַּכִּ֖ים אֶת־ הַמֶּ֥לֶךְ אָבִֽיו׃"
+pericope: "[[2Chr.25.1 Amaziah Reigns in Judah|Amaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 25
+book/chapter: "[[2Chr.25|2 Chronicles 25]]"
+chronological_order: 592
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ZABAD|ZABAD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H2388H]]"
+- "[[H9009]]"
+- "[[H4467]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H5221]]"
+- "[[H4428G]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 25:3**<big><big>[[2Chr.25.1 Amaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now it came to pass, when the kingdom was established to him, that he slew his servants that had killed the king his father.
 <small><sub>**BSB:**</sub></small>
 As soon as the kingdom was firmly in his grasp, Amaziah executed the servants who had murdered his father the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H2388H\|חָזְקָ֥ה]] [[H9009\|הַ]][[H4467\|מַּמְלָכָ֖ה]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9001\|וַֽ]][[H2026\|יַּהֲרֹג֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H9009\|הַ]][[H5221\|מַּכִּ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֥לֶךְ]] [[H0001G\|אָבִֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ZABAD|ZABAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.25.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.25.2|<< 2 Chronicles 25:2]]</td><td align="center" style="border:none;">[[2Chr.25|2 Chronicles 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.25.4|2 Chronicles 25:4 >>]]</td></tr></table>
 

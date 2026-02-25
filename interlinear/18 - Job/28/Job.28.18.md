@@ -1,8 +1,55 @@
+---
+title: Job 28:18
+type: Verse
+kjv: "No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies."
+bsb: "Coral and quartz are unworthy of mention; the price of wisdom is beyond rubies."
+hebrew: "רָאמ֣וֹת וְ֭גָבִישׁ לֹ֣א יִזָּכֵ֑ר וּמֶ֥שֶׁךְ חָ֝כְמָ֗ה מִפְּנִינִֽים׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CORAL|CORAL]]"
+- "[[topic PEARL|PEARL]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RUBY|RUBY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H7215]]"
+- "[[H9002]]"
+- "[[H1378]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H4901]]"
+- "[[H2451]]"
+- "[[H9006]]"
+- "[[H6443]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:18**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 No mention shall be made of coral, or of pearls: for the price of wisdom [is] above rubies.
 <small><sub>**BSB:**</sub></small>
 Coral and quartz are unworthy of mention; the price of wisdom is beyond rubies.
+<small><sub>**Hebrew:**</sub></small>
+[[H7215\|רָאמ֣וֹת]] [[H9002\|וְ֭]][[H1378\|גָבִישׁ]] [[H3808\|לֹ֣א]] [[H2142\|יִזָּכֵ֑ר]] [[H9002\|וּ]][[H4901\|מֶ֥שֶׁךְ]] [[H2451\|חָ֝כְמָ֗ה]] [[H9006\|מִ]][[H6443\|פְּנִינִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORAL|CORAL]] • [[topic PEARL|PEARL]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RUBY|RUBY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.17|<< Job 28:17]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.19|Job 28:19 >>]]</td></tr></table>
 

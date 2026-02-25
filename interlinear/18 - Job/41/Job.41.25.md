@@ -1,8 +1,49 @@
+---
+title: Job 41:25
+type: Verse
+kjv: "When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves."
+bsb: "When Leviathan rises up, the mighty are terrified; they withdraw before his thrashing."
+hebrew: "מִ֭שֵּׂתוֹ יָג֣וּרוּ אֵלִ֑ים מִ֝שְּׁבָרִ֗ים יִתְחַטָּֽאוּ׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9006]]"
+- "[[H7613]]"
+- "[[H9023]]"
+- "[[H1481C]]"
+- "[[H0410K]]"
+- "[[H7667]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:25**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.
 <small><sub>**BSB:**</sub></small>
 When Leviathan rises up, the mighty are terrified; they withdraw before his thrashing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ֭]][[H7613\|שֵּׂת]][[H9023\|וֹ]] [[H1481C\|יָג֣וּרוּ]] [[H0410K\|אֵלִ֑ים]] [[H9006\|מִ֝]][[H7667\|שְּׁבָרִ֗ים]] [[H2398\|יִתְחַטָּֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.24|<< Job 41:24]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.26|Job 41:26 >>]]</td></tr></table>
 

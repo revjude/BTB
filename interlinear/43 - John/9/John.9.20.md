@@ -1,10 +1,59 @@
+---
+title: John 9:20
+type: Verse
+kjv: "His parents answered them and said, We know that this is our son, and that he was born blind:"
+bsb: "His parents answered, “We know he is our son, and we know he was born blind."
+greek: "ἀπεκρίθησαν οὖν αὐτοῖς οἱ γονεῖς αὐτοῦ καὶ εἶπαν· οἴδαμεν ὅτι οὗτός ἐστιν ὁ υἱὸς ἡμῶν καὶ ὅτι τυφλὸς ἐγεννήθη·"
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1118]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G3165]]"
+- "[[G5185]]"
+- "[[G1080]]"
+texts:
+- NKO
+- N(k)
+- k
+---
+
 **John 9:20**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 His parents answered them and said, We know that this is our son, and that he was born blind:
 <small><sub>**BSB:**</sub></small>
 His parents answered, “We know he is our son, and we know he was born blind.
-<small><sub>**Literal:**</sub></small>
-Answered therefore to them the parents of him and said; We know that this is the son of us and that blind he was born;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.19|<< John 9:19]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.21|John 9:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|οἱ]]  [[G1118\|γονεῖς]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν·]]  [[G6063\|οἴδαμεν]]  [[G3754G\|ὅτι]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3165\|ἡμῶν]]  [[G2532\|καὶ]]  [[G3754G\|ὅτι]]  [[G5185\|τυφλὸς]]  [[G1080\|ἐγεννήθη·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.19|<< John 9:19]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.21|John 9:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 1:1
+type: Verse
+kjv: "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,"
+bsb: "Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,"
+greek: "Παῦλος κλητὸς ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ καὶ Σωσθένης ὁ ἀδελφὸς"
+pericope: "[[1Cor.1.1 Greetings from Paul and Sosthenes|Greetings from Paul and Sosthenes]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic SOSTHENES|SOSTHENES]]"
+strongs:
+- "[[G3972G]]"
+- "[[G2822]]"
+- "[[G0652]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1223]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G4988]]"
+- "[[G3588]]"
+- "[[G0080]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:1**<big><big>[[1Cor.1.1 Greetings from Paul and Sosthenes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Paul, called [to be] an apostle of Jesus Christ through the will of God, and Sosthenes [our] brother,
 <small><sub>**BSB:**</sub></small>
 Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,
-<small><sub>**Literal:**</sub></small>
-Paul a called apostle of Christ Jesus through [the] will of God and Sosthenes the brother<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.27|<< Romans 16:27]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.2|1 Corinthians 1:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3972G\|Παῦλος]]  [[G2822\|κλητὸς]]  [[G0652\|ἀπόστολος]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G1223\|διὰ]]  [[G2307\|θελήματος]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G4988\|Σωσθένης]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic SOSTHENES|SOSTHENES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.27|<< Romans 16:27]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.2|1 Corinthians 1:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

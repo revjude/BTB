@@ -1,10 +1,65 @@
+---
+title: James 1:12
+type: Verse
+kjv: "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
+bsb: "Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the crown of life that God has promised to those who love Him."
+greek: "μακάριος ἀνὴρ ὃς ὑπομένει πειρασμόν, ὅτι δόκιμος γενόμενος λήμψεται τὸν στέφανον τῆς ζωῆς ὃν ἐπηγγείλατο ὁ κύριος τοῖς ἀγαπῶσιν αὐτόν.¶"
+pericope: "[[Jas.1.2 Rejoicing in Trials|Rejoicing in Trials]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G3107]]"
+- "[[G0435G]]"
+- "[[G3739]]"
+- "[[G5278]]"
+- "[[G3986H]]"
+- "[[G3754H]]"
+- "[[G1384]]"
+- "[[G1096]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G4735]]"
+- "[[G2222]]"
+- "[[G1861]]"
+- "[[G2962G]]"
+- "[[G0025]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+---
+
 **James 1:12**<big><big>[[Jas.1.2 Rejoicing in Trials|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Blessed [is] the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
 <small><sub>**BSB:**</sub></small>
 Blessed is the man who perseveres under trial, because when he has stood the test, he will receive the crown of life that God has promised to those who love Him.
-<small><sub>**Literal:**</sub></small>
-Blessed [is the] man who endures trial, because approved having been he will receive the crown <the> of life that He has promised the Lord to those loving Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.11|<< James 1:11]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.13|James 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3107\|μακάριος]]  [[G0435G\|ἀνὴρ]]  [[G3739\|ὃς]]  [[G5278\|ὑπομένει]]  [[G3986H\|πειρασμόν,]]  [[G3754H\|ὅτι]]  [[G1384\|δόκιμος]]  [[G1096\|γενόμενος]]  [[G2983\|λήμψεται]]  [[G3588\|τὸν]]  [[G4735\|στέφανον]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς]]  [[G3739\|ὃν]]  [[G1861\|ἐπηγγείλατο]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3588\|τοῖς]]  [[G0025\|ἀγαπῶσιν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ASSURANCE|ASSURANCE]] • [[topic CROWN|CROWN]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic LOVE|LOVE]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.11|<< James 1:11]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.13|James 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,60 @@
+---
+title: 1 Thessalonians 5:5
+type: Verse
+kjv: "Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness."
+bsb: "For you are all sons of the light and sons of the day; we do not belong to the night or to the darkness."
+greek: "πάντες γὰρ ὑμεῖς υἱοὶ φωτός ἐστε καὶ υἱοὶ ἡμέρας· οὐκ ἐσμὲν νυκτὸς οὐδὲ σκότους.¶"
+pericope: "[[1Thess.5.1 The Day of the Lord|The Day of the Lord]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DARKNESS|DARKNESS]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G5207]]"
+- "[[G5457]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G2250]]"
+- "[[G3756]]"
+- "[[G3571]]"
+- "[[G3761]]"
+- "[[G4655]]"
+texts:
+- NKO
+- no
+---
+
 **1 Thessalonians 5:5**<big><big>[[1Thess.5.1 The Day of the Lord|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.
 <small><sub>**BSB:**</sub></small>
 For you are all sons of the light and sons of the day; we do not belong to the night or to the darkness.
-<small><sub>**Literal:**</sub></small>
-All for you yourselves sons of light are and sons of day; Not we are of night nor of darkness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.4|<< 1 Thessalonians 5:4]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.6|1 Thessalonians 5:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντες]]  [[G1063\|γὰρ]]  [[G4771\|ὑμεῖς]]  [[G5207\|υἱοὶ]]  [[G5457\|φωτός]]  [[G1510\|ἐστε]]  [[G2532\|καὶ]]  [[G5207\|υἱοὶ]]  [[G2250\|ἡμέρας·]]  [[G3756\|οὐκ]]  [[G1510\|ἐσμὲν]]  [[G3571\|νυκτὸς]]  [[G3761\|οὐδὲ]]  [[G4655\|σκότους.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DARKNESS|DARKNESS]] • [[topic HOLINESS|HOLINESS]] • [[topic LIGHT|LIGHT]] • [[topic NIGHT|NIGHT]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.4|<< 1 Thessalonians 5:4]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.6|1 Thessalonians 5:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,57 @@
+---
+title: Job 20:19
+type: Verse
+kjv: "Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;"
+bsb: "For he has oppressed and forsaken the poor; he has seized houses he did not build."
+hebrew: "כִּֽי־ רִ֭צַּץ עָזַ֣ב דַּלִּ֑ים בַּ֥יִת גָּ֝זַ֗ל וְלֹ֣א יִבֶנֵֽהוּ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic POOR|POOR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7533]]"
+- "[[H5800H]]"
+- "[[H1800]]"
+- "[[H1004B]]"
+- "[[H1497]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:19**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because he hath oppressed [and] hath forsaken the poor; [because] he hath violently taken away an house which he builded not;
 <small><sub>**BSB:**</sub></small>
 For he has oppressed and forsaken the poor; he has seized houses he did not build.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7533\|רִ֭צַּץ]] [[H5800H\|עָזַ֣ב]] [[H1800\|דַּלִּ֑ים]] [[H1004B\|בַּ֥יִת]] [[H1497\|גָּ֝זַ֗ל]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1129\|יִבֶנֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic POOR|POOR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.18|<< Job 20:18]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.20|Job 20:20 >>]]</td></tr></table>
 

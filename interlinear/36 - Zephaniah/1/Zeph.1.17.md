@@ -1,8 +1,59 @@
+---
+title: Zephaniah 1:17
+type: Verse
+kjv: "And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung."
+bsb: "I will bring such distress on mankind that they will walk like the blind, because they have sinned against the LORD. Their blood will be poured out like dust and their flesh like dung."
+hebrew: "וַהֲצֵרֹ֣תִי לָאָדָ֗ם וְהָֽלְכוּ֙ כַּֽעִוְרִ֔ים כִּ֥י לַֽיהוָ֖ה חָטָ֑אוּ וְשֻׁפַּ֤ךְ דָּמָם֙ כֶּֽעָפָ֔ר וּלְחֻמָ֖ם כַּגְּלָלִֽים׃"
+pericope: "[[Zeph.1.7 The Day of the LORD|The Day of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 1
+book/chapter: "[[Zeph.1|Zephaniah 1]]"
+chronological_order: 715
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H6887B]]"
+- "[[H9005]]"
+- "[[H0120G]]"
+- "[[H1980I]]"
+- "[[H9004]]"
+- "[[H5787]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H2398]]"
+- "[[H8210G]]"
+- "[[H1818]]"
+- "[[H9028]]"
+- "[[H6083]]"
+- "[[H9002]]"
+- "[[H3894]]"
+- "[[H1557]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 1:17**<big><big>[[Zeph.1.7 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the LORD: and their blood shall be poured out as dust, and their flesh as the dung.
 <small><sub>**BSB:**</sub></small>
 I will bring such distress on mankind that they will walk like the blind, because they have sinned against the LORD. Their blood will be poured out like dust and their flesh like dung.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6887B\|הֲצֵרֹ֣תִי]] [[H9005\|לָ]][[H0120G\|אָדָ֗ם]] [[H9001\|וְ]][[H1980I\|הָֽלְכוּ֙]] [[H9004\|כַּֽ]][[H5787\|עִוְרִ֔ים]] [[H3588A\|כִּ֥י]] [[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H2398\|חָטָ֑אוּ]] [[H9001\|וְ]][[H8210G\|שֻׁפַּ֤ךְ]] [[H1818\|דָּמָ]][[H9028\|ם֙]] [[H9004\|כֶּֽ]][[H6083\|עָפָ֔ר]] [[H9002\|וּ]][[H3894\|לְחֻמָ֖]][[H9028\|ם]] [[H9004\|כַּ]][[H1557\|גְּלָלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.1.16|<< Zephaniah 1:16]]</td><td align="center" style="border:none;">[[Zeph.1|Zephaniah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.1.18|Zephaniah 1:18 >>]]</td></tr></table>
 

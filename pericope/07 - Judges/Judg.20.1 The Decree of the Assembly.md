@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Decree of the Assembly
+type: Pericope
 pericope: "[[Judg.20.1 The Decree of the Assembly|The Decree of the Assembly]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 20
 book/chapter: "[[Judg.20|Judges 20]]"
-genre:
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 17
 verses:
 - "[[Judg.20.1]]"
 - "[[Judg.20.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Judg.20.17]]"
 ---
 
-[[Judg.20|Judges 20:1 - Judges 20:17]]
+<small>[[Judg.20|Judges 20:1-17]]</small>
 *The Decree of the Assembly*
 
 [[Judg.20.1|1]] Then all the children of Israel went out, and the congregation was gathered together as one man, from Dan even to Beersheba, with the land of Gilead, unto the LORD in Mizpeh.

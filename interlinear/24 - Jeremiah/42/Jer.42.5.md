@@ -1,8 +1,73 @@
+---
+title: Jeremiah 42:5
+type: Verse
+kjv: "Then they said to Jeremiah, The LORD be a true and faithful witness between us, if we do not even according to all things for the which the LORD thy God shall send thee to us."
+bsb: "Then they said to Jeremiah, “May the LORD be a true and faithful witness against us if we do not act upon every word that the LORD your God sends you to tell us."
+hebrew: "וְהֵ֙מָּה֙ אָמְר֣וּ אֶֽל־ יִרְמְיָ֔הוּ יְהִ֤י יְהוָה֙ בָּ֔נוּ לְעֵ֖ד אֱמֶ֣ת וְנֶאֱמָ֑ן אִם־ לֹ֡א כְּֽכָל־ הַ֠דָּבָר אֲשֶׁ֨ר יִֽשְׁלָחֲךָ֜ יְהוָ֧ה אֱלֹהֶ֛יךָ אֵלֵ֖ינוּ כֵּ֥ן נַעֲשֶֽׂה׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9035]]"
+- "[[H9005]]"
+- "[[H5707]]"
+- "[[H0571H]]"
+- "[[H0539]]"
+- "[[H0518A]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:5**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they said to Jeremiah, The LORD be a true and faithful witness between us, if we do not even according to all things for the which the LORD thy God shall send thee to us.
 <small><sub>**BSB:**</sub></small>
 Then they said to Jeremiah, “May the LORD be a true and faithful witness against us if we do not act upon every word that the LORD your God sends you to tell us.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1992\|הֵ֙מָּה֙]] [[H0559\|אָמְר֣וּ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H1961\|יְהִ֤י]] [[H3068G\|יְהוָה֙]] [[H9003\|בָּ֔]][[H9035\|נוּ]] [[H9005\|לְ]][[H5707\|עֵ֖ד]] [[H0571H\|אֱמֶ֣ת]] [[H9002\|וְ]][[H0539\|נֶאֱמָ֑ן]] [[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֡א]] [[H9004\|כְּֽ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ֠]][[H1697G\|דָּבָר]] [[H0834A\|אֲשֶׁ֨ר]] [[H7971G\|יִֽשְׁלָחֲ]][[H9031\|ךָ֜]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֶ֛י]][[H9021\|ךָ]] [[H0413\|אֵלֵ֖י]][[H9035\|נוּ]] [[H3651C\|כֵּ֥ן]] [[H6213A\|נַעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.4|<< Jeremiah 42:4]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.6|Jeremiah 42:6 >>]]</td></tr></table>
 

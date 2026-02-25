@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 1:31
+type: Verse
+kjv: "And in the wilderness, where thou hast seen how that the LORD thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place."
+bsb: "and in the wilderness, where the LORD your God carried you, as a man carries his son, all the way by which you traveled until you reached this place.”"
+hebrew: "וּבַמִּדְבָּר֙ אֲשֶׁ֣ר רָאִ֔יתָ אֲשֶׁ֤ר נְשָׂאֲךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ כַּאֲשֶׁ֥ר יִשָּׂא־ אִ֖ישׁ אֶת־ בְּנ֑וֹ בְּכָל־ הַדֶּ֙רֶךְ֙ אֲשֶׁ֣ר הֲלַכְתֶּ֔ם עַד־ בֹּאֲכֶ֖ם עַד־ הַמָּק֥וֹם הַזֶּֽה׃"
+pericope: "[[Deut.1.26 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H5375H]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1870L]]"
+- "[[H1980G]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H9046]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:31**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the wilderness, where thou hast seen how that the LORD thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place.
 <small><sub>**BSB:**</sub></small>
 and in the wilderness, where the LORD your God carried you, as a man carries his son, all the way by which you traveled until you reached this place.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H4057B\|מִּדְבָּר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7200G\|רָאִ֔יתָ]] [[H0834A\|אֲשֶׁ֤ר]] [[H5375H\|נְשָׂאֲ]][[H9031\|ךָ֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H5375H\|יִשָּׂא]][[H9014\|־]] [[H0376I\|אִ֖ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנ֑]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H1870L\|דֶּ֙רֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1980G\|הֲלַכְתֶּ֔ם]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּאֲ]][[H9046\|כֶ֖ם]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.30|<< Deuteronomy 1:30]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.32|Deuteronomy 1:32 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

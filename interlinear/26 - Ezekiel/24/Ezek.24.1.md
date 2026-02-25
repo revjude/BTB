@@ -1,8 +1,63 @@
+---
+title: Ezekiel 24:1
+type: Verse
+kjv: "Again in the ninth year, in the tenth month, in the tenth day of the month, the word of the LORD came unto me, saying,"
+bsb: "In the ninth year, on the tenth day of the tenth month, the word of the LORD came to me, saying,"
+hebrew: "וַיְהִי֩ דְבַר־ יְהוָ֨ה אֵלַ֜י בַּשָּׁנָ֤ה הַתְּשִׁיעִית֙ בַּחֹ֣דֶשׁ הָעֲשִׂירִ֔י בֶּעָשׂ֥וֹר לַחֹ֖דֶשׁ לֵאמֹֽר׃"
+pericope: "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H8671]]"
+- "[[H2320G]]"
+- "[[H6224]]"
+- "[[H6218]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:1**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Again in the ninth year, in the tenth month, in the tenth [day] of the month, the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
 In the ninth year, on the tenth day of the tenth month, the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֨ה]] [[H0413\|אֵלַ֜]][[H9030\|י]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֤ה]] [[H9009\|הַ]][[H8671\|תְּשִׁיעִית֙]] [[H9003\|בַּ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הָ]][[H6224\|עֲשִׂירִ֔י]] [[H9003\|בֶּ]][[H6218\|עָשׂ֥וֹר]] [[H9005\|לַ]][[H2320G\|חֹ֖דֶשׁ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.49|<< Ezekiel 23:49]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.2|Ezekiel 24:2 >>]]</td></tr></table>
 

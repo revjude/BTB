@@ -1,8 +1,74 @@
+---
+title: Ezekiel 32:2
+type: Verse
+kjv: "Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou art as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers."
+bsb: "“Son of man, take up a lament for Pharaoh king of Egypt and say to him: ‘You are like a lion among the nations; you are like a monster in the seas. You thrash about in your rivers, churning up the waters with your feet and muddying the streams.’"
+hebrew: "בֶּן־ אָדָ֗ם שָׂ֤א קִינָה֙ עַל־ פַּרְעֹ֣ה מֶֽלֶךְ־ מִצְרַ֔יִם וְאָמַרְתָּ֣ אֵלָ֔יו כְּפִ֥יר גּוֹיִ֖ם נִדְמֵ֑יתָ וְאַתָּה֙ כַּתַּנִּ֣ים בַּיַּמִּ֔ים וַתָּ֣גַח בְּנַהֲרוֹתֶ֗יךָ וַתִּדְלַח־ מַ֙יִם֙ בְּרַגְלֶ֔יךָ וַתִּרְפֹּ֖ס נַהֲרוֹתָֽם׃"
+pericope: "[[Ezek.32.1 A Lament for Pharaoh King of Egypt|A Lament for Pharaoh King of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DRAGON|DRAGON]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H5375G]]"
+- "[[H7015]]"
+- "[[H5921A]]"
+- "[[H6547R]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3715A]]"
+- "[[H1471A]]"
+- "[[H1819]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H9004]]"
+- "[[H8565]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H1518]]"
+- "[[H5104H]]"
+- "[[H9021]]"
+- "[[H1804]]"
+- "[[H4325G]]"
+- "[[H7272]]"
+- "[[H7515]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:2**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou [art] as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers.
 <small><sub>**BSB:**</sub></small>
 “Son of man, take up a lament for Pharaoh king of Egypt and say to him: ‘You are like a lion among the nations; you are like a monster in the seas. You thrash about in your rivers, churning up the waters with your feet and muddying the streams.’
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H5375G\|שָׂ֤א]] [[H7015\|קִינָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6547R\|פַּרְעֹ֣ה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H3715A\|כְּפִ֥יר]] [[H1471A\|גּוֹיִ֖ם]] [[H1819\|נִדְמֵ֑יתָ]] [[H9002\|וְ]][[H0859A\|אַתָּה֙]] [[H9004\|כַּ]][[H8565\|תַּנִּ֣ים]] [[H9003\|בַּ]][[H3220G\|יַּמִּ֔ים]] [[H9001\|וַ]][[H1518\|תָּ֣גַח]] [[H9003\|בְּ]][[H5104H\|נַהֲרוֹתֶ֗י]][[H9021\|ךָ]] [[H9001\|וַ]][[H1804\|תִּדְלַח]][[H9014\|־]] [[H4325G\|מַ֙יִם֙]] [[H9003\|בְּ]][[H7272\|רַגְלֶ֔י]][[H9021\|ךָ]] [[H9001\|וַ]][[H7515\|תִּרְפֹּ֖ס]] [[H5104H\|נַהֲרוֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAGON|DRAGON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.1|<< Ezekiel 32:1]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.3|Ezekiel 32:3 >>]]</td></tr></table>
 

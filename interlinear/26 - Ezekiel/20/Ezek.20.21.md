@@ -1,8 +1,75 @@
+---
+title: Ezekiel 20:21
+type: Verse
+kjv: "Notwithstanding the children rebelled against me: they walked not in my statutes, neither kept my judgments to do them, which if a man do, he shall even live in them; they polluted my sabbaths: then I said, I would pour out my fury upon them, to accomplish my anger against them in the wilderness."
+bsb: "But the children rebelled against Me. They did not walk in My statutes or carefully observe My ordinances—though the man who does these things will live by them—and they profaned My Sabbaths. So I resolved to pour out My wrath upon them and vent My anger against them in the wilderness."
+hebrew: "וַיַּמְרוּ־ בִ֣י הַבָּנִ֗ים בְּחֻקּוֹתַ֣י לֹֽא־ הָ֠לָכוּ וְאֶת־ מִשְׁפָּטַ֨י לֹא־ שָׁמְר֜וּ לַעֲשׂ֣וֹת אוֹתָ֗ם אֲשֶׁר֩ יַעֲשֶׂ֨ה אוֹתָ֤ם הָֽאָדָם֙ וָחַ֣י בָּהֶ֔ם אֶת־ שַׁבְּתוֹתַ֖י חִלֵּ֑לוּ וָאֹמַ֞ר לִשְׁפֹּ֧ךְ חֲמָתִ֣י עֲלֵיהֶ֗ם לְכַלּ֥וֹת אַפִּ֛י בָּ֖ם בַּמִּדְבָּֽר׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4784]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H1121A]]"
+- "[[H2708]]"
+- "[[H9020]]"
+- "[[H3808]]"
+- "[[H1980I]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H4941G]]"
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9038]]"
+- "[[H0834A]]"
+- "[[H0120G]]"
+- "[[H2421]]"
+- "[[H7676]]"
+- "[[H2490H]]"
+- "[[H0559]]"
+- "[[H8210G]]"
+- "[[H2534]]"
+- "[[H5921A]]"
+- "[[H3615J]]"
+- "[[H0639G]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:21**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding the children rebelled against me: they walked not in my statutes, neither kept my judgments to do them, which [if] a man do, he shall even live in them; they polluted my sabbaths: then I said, I would pour out my fury upon them, to accomplish my anger against them in the wilderness.
 <small><sub>**BSB:**</sub></small>
 But the children rebelled against Me. They did not walk in My statutes or carefully observe My ordinances—though the man who does these things will live by them—and they profaned My Sabbaths. So I resolved to pour out My wrath upon them and vent My anger against them in the wilderness.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4784\|יַּמְרוּ]][[H9014\|־]] [[H9003\|בִ֣]][[H9030\|י]] [[H9009\|הַ]][[H1121A\|בָּנִ֗ים]] [[H9003\|בְּ]][[H2708\|חֻקּוֹתַ֣]][[H9020\|י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1980I\|הָ֠לָכוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4941G\|מִשְׁפָּטַ֨]][[H9020\|י]] [[H3808\|לֹא]][[H9014\|־]] [[H8104J\|שָׁמְר֜וּ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֣וֹת]] [[H0853\|אוֹתָ֗]][[H9038\|ם]] [[H0834A\|אֲשֶׁר֩]] [[H6213A\|יַעֲשֶׂ֨ה]] [[H0853\|אוֹתָ֤]][[H9038\|ם]] [[H9009\|הָֽ]][[H0120G\|אָדָם֙]] [[H9001\|וָ]][[H2421\|חַ֣י]] [[H9003\|בָּ]][[H9038\|הֶ֔ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתוֹתַ֖]][[H9020\|י]] [[H2490H\|חִלֵּ֑לוּ]] [[H9001\|וָ]][[H0559\|אֹמַ֞ר]] [[H9005\|לִ]][[H8210G\|שְׁפֹּ֧ךְ]] [[H2534\|חֲמָתִ֣]][[H9020\|י]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֗ם]] [[H9005\|לְ]][[H3615J\|כַלּ֥וֹת]] [[H0639G\|אַפִּ֛]][[H9020\|י]] [[H9003\|בָּ֖]][[H9038\|ם]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.20|<< Ezekiel 20:20]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.22|Ezekiel 20:22 >>]]</td></tr></table>
 

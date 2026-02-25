@@ -1,8 +1,66 @@
+---
+title: Exodus 21:20
+type: Verse
+kjv: "And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished."
+bsb: "If a man strikes his manservant or maidservant with a rod, and the servant dies by his hand, he shall surely be punished."
+hebrew: "וְכִֽי־ יַכֶּה֩ אִ֨ישׁ אֶת־ עַבְדּ֜וֹ א֤וֹ אֶת־ אֲמָתוֹ֙ בַּשֵּׁ֔בֶט וּמֵ֖ת תַּ֣חַת יָד֑וֹ נָקֹ֖ם יִנָּקֵֽם׃"
+pericope: "[[Exod.21.12 Personal Injury Laws|Personal Injury Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 21
+book/chapter: "[[Exod.21|Exodus 21]]"
+chronological_order: 113
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MASTER|MASTER]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SCOURGING|SCOURGING]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H0176A]]"
+- "[[H0519]]"
+- "[[H9003]]"
+- "[[H7626G]]"
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H8478K]]"
+- "[[H3027W]]"
+- "[[H5358]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 21:20**<big><big>[[Exod.21.12 Personal Injury Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.
 <small><sub>**BSB:**</sub></small>
 If a man strikes his manservant or maidservant with a rod, and the servant dies by his hand, he shall surely be punished.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H5221\|יַכֶּה֩]] [[H0376I\|אִ֨ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עַבְדּ֜]][[H9023\|וֹ]] [[H0176A\|א֤וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H0519\|אֲמָת]][[H9023\|וֹ֙]] [[H9003\|בַּ]][[H7626G\|שֵּׁ֔בֶט]] [[H9001\|וּ]][[H4191\|מֵ֖ת]] [[H8478K\|תַּ֣חַת]] [[H3027W\|יָד֑]][[H9023\|וֹ]] [[H5358\|נָקֹ֖ם]] [[H5358\|יִנָּקֵֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MASTER|MASTER]] • [[topic MUSIC|MUSIC]] • [[topic SCOURGING|SCOURGING]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.21.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.21.19|<< Exodus 21:19]]</td><td align="center" style="border:none;">[[Exod.21|Exodus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.21.21|Exodus 21:21 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Psalm 92:15
+type: Verse
+kjv: "To shew that the LORD is upright: he is my rock, and there is no unrighteousness in him."
+bsb: "to proclaim, “The LORD is upright; He is my Rock, and in Him there is no unrighteousness.”"
+hebrew: "לְ֭הַגִּיד כִּֽי־ יָשָׁ֣ר יְהוָ֑ה צ֝וּרִ֗י וְֽלֹא־ עַוְלָ֥תָה בּֽוֹ׃"
+pericope: "[[Ps.92.1 How Great Are Your Works!|How Great Are Your Works!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 92
+book/chapter: "[[Ps.92|Psalm 92]]"
+chronological_order: 519
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9005]]"
+- "[[H5046]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3477G]]"
+- "[[H3068G]]"
+- "[[H6697H]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5766B]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Psalms 92:15**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To shew that the LORD [is] upright: [he is] my rock, and [there is] no unrighteousness in him.
 <small><sub>**BSB:**</sub></small>
 to proclaim, “The LORD is upright; He is my Rock, and in Him there is no unrighteousness.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ֭]][[H5046\|הַגִּיד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3477G\|יָשָׁ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H6697H\|צ֝וּרִ֗]][[H9020\|י]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H5766B\|עַוְלָ֥תָה]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.14|<< Psalms 92:14]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.93.1|Psalms 93:1 >>]]</td></tr></table>
 

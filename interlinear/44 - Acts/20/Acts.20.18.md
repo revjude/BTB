@@ -1,10 +1,64 @@
+---
+title: Acts 20:18
+type: Verse
+kjv: "And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons,"
+bsb: "When they came to him, he said, “You know how I lived the whole time I was with you, from the first day I arrived in the province of Asia."
+greek: "ὡς δὲ παρεγένοντο πρὸς αὐτὸν εἶπεν αὐτοῖς· ὑμεῖς ἐπίστασθε ἀπὸ πρώτης ἡμέρας ἀφ᾽ ἧς ἐπέβην εἰς τὴν Ἀσίαν πῶς μεθ᾽ ὑμῶν τὸν πάντα χρόνον ἐγενόμην"
+pericope: "[[Acts.20.17 Paul’s Farewell to the Ephesians|Paul’s Farewell to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 20
+book/chapter: "[[Acts.20|Acts 20]]"
+chronological_order: 1057
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic EPHESUS|EPHESUS]]"
+- "[[topic MILETUS|MILETUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G3854]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G1987]]"
+- "[[G0575]]"
+- "[[G4413G]]"
+- "[[G2250]]"
+- "[[G3739]]"
+- "[[G1910]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0773]]"
+- "[[G4459]]"
+- "[[G3326]]"
+- "[[G3956]]"
+- "[[G5550]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Acts 20:18**<big><big>[[Acts.20.17 Paul’s Farewell to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons,
 <small><sub>**BSB:**</sub></small>
 When they came to him, he said, “You know how I lived the whole time I was with you, from the first day I arrived in the province of Asia.
-<small><sub>**Literal:**</sub></small>
-When then they had come to him he said to them; You yourselves know from [the] first day on which I arrived in <the> Asia how with you the whole time I was<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.17|<< Acts 20:17]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.19|Acts 20:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G1161\|δὲ]]  [[G3854\|παρεγένοντο]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G4771\|ὑμεῖς]]  [[G1987\|ἐπίστασθε]]  [[G0575\|ἀπὸ]]  [[G4413G\|πρώτης]]  [[G2250\|ἡμέρας]]  [[G0575\|ἀφ᾽]]  [[G3739\|ἧς]]  [[G1910\|ἐπέβην]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0773\|Ἀσίαν]]  [[G4459\|πῶς]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G3588\|τὸν]]  [[G3956\|πάντα]]  [[G5550\|χρόνον]]  [[G1096\|ἐγενόμην]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHESUS|EPHESUS]] • [[topic MILETUS|MILETUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.20.17|<< Acts 20:17]]</td><td align="center" style="border:none;">[[Acts.20|Acts 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.20.19|Acts 20:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

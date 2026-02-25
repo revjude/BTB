@@ -1,8 +1,77 @@
+---
+title: Leviticus 26:34
+type: Verse
+kjv: "Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye be in your enemies’ land; even then shall the land rest, and enjoy her sabbaths."
+bsb: "Then the land shall enjoy its Sabbaths all the days it lies desolate, while you are in the land of your enemies. At that time the land will rest and enjoy its Sabbaths."
+hebrew: "אָז֩ תִּרְצֶ֨ה הָאָ֜רֶץ אֶת־ שַׁבְּתֹתֶ֗יהָ כֹּ֚ל יְמֵ֣י הֳשַׁמָּ֔ה וְאַתֶּ֖ם בְּאֶ֣רֶץ אֹיְבֵיכֶ֑ם אָ֚ז תִּשְׁבַּ֣ת הָאָ֔רֶץ וְהִרְצָ֖ת אֶת־ שַׁבְּתֹתֶֽיהָ׃"
+pericope: "[[Lev.26.14 Punishments for Disobedience|Punishments for Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 26
+book/chapter: "[[Lev.26|Leviticus 26]]"
+chronological_order: 158
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H0227A]]"
+- "[[H7521]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7676]]"
+- "[[H9024]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H8074G]]"
+- "[[H9044]]"
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H9003]]"
+- "[[H0341]]"
+- "[[H9026]]"
+- "[[H7673A]]"
+- "[[H9001]]"
+- "[[H9016]]"
+texts:
+- L
+- L(a+bh)
+---
+
 **Leviticus 26:34**<big><big>[[Lev.26.14 Punishments for Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the land enjoy her sabbaths, as long as it lieth desolate, and ye [be] in your enemies’ land; [even] then shall the land rest, and enjoy her sabbaths.
 <small><sub>**BSB:**</sub></small>
 Then the land shall enjoy its Sabbaths all the days it lies desolate, while you are in the land of your enemies. At that time the land will rest and enjoy its Sabbaths.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָז֩]] [[H7521\|תִּרְצֶ֨ה]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתֹתֶ֗י]][[H9024\|הָ]] [[H3605\|כֹּ֚ל]] [[H3117G\|יְמֵ֣י]] [[H8074G\|הֳשַׁמָּ֔]][[H9044\|ה]] [[H9002\|וְ]][[H0859D\|אַתֶּ֖ם]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H0341\|אֹיְבֵי]][[H9026\|כֶ֑ם]] [[H0227A\|אָ֚ז]] [[H7673A\|תִּשְׁבַּ֣ת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H7521\|הִרְצָ֖ת]] [[H0853\|אֶת]][[H9014\|־]] [[H7676\|שַׁבְּתֹתֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic COVENANT|COVENANT]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]] • [[topic SABBATH|SABBATH]] • [[topic SABBATIC YEAR|SABBATIC YEAR]] • [[topic SIN|SIN]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.26.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.26.33|<< Leviticus 26:33]]</td><td align="center" style="border:none;">[[Lev.26|Leviticus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.35|Leviticus 26:35 >>]]</td></tr></table>
 

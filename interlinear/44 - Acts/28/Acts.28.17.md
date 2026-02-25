@@ -1,10 +1,72 @@
+---
+title: Acts 28:17
+type: Verse
+kjv: "And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men and brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans."
+bsb: "After three days, he called together the leaders of the Jews. When they had gathered, he said to them, “Brothers, although I have done nothing against our people or the customs of our fathers, I was taken prisoner in Jerusalem and handed over to the Romans."
+greek: "Ἐγένετο δὲ μετὰ ἡμέρας τρεῖς συγκαλέσασθαι τὸν αὐτὸν τοὺς ὄντας τῶν Ἰουδαίων πρώτους· συνελθόντων δὲ αὐτῶν ἔλεγεν πρὸς αὐτούς· ἐγώ, ἄνδρες ἀδελφοί, οὐδὲν ἐναντίον ποιήσας τῷ λαῷ ἢ τοῖς ἔθεσιν τοῖς πατρῴοις, δέσμιος ἐξ Ἱεροσολύμων παρεδόθην εἰς τὰς χεῖρας τῶν Ῥωμαίων,"
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G3326]]"
+- "[[G2250]]"
+- "[[G5140]]"
+- "[[G4779]]"
+- "[[G3588]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G2453]]"
+- "[[G4413I]]"
+- "[[G4905]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G0435G]]"
+- "[[G0080]]"
+- "[[G3762]]"
+- "[[G1727]]"
+- "[[G4160G]]"
+- "[[G2992]]"
+- "[[G2228]]"
+- "[[G1485]]"
+- "[[G3971]]"
+- "[[G1198]]"
+- "[[G1537]]"
+- "[[G2414]]"
+- "[[G3860]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G4514]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Acts 28:17**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men [and] brethren, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.
 <small><sub>**BSB:**</sub></small>
 After three days, he called together the leaders of the Jews. When they had gathered, he said to them, “Brothers, although I have done nothing against our people or the customs of our fathers, I was taken prisoner in Jerusalem and handed over to the Romans.
-<small><sub>**Literal:**</sub></small>
-It came to pass then after days three calling together <the> he those being of the Jews leaders; When they were assembling then they he was saying to them; I myself, men brothers no [thing] against having done the people or against the customs <the> of our fathers, a prisoner from Jerusalem was delivered into the hands of the Romans,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.16|<< Acts 28:16]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.18|Acts 28:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G3326\|μετὰ]]  [[G2250\|ἡμέρας]]  [[G5140\|τρεῖς]]  [[G4779\|συγκαλέσασθαι]]  [[G3588\|τὸν]]  [[G0846\|αὐτὸν]]  [[G3588\|τοὺς]]  [[G1510\|ὄντας]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G4413I\|πρώτους·]]  [[G4905\|συνελθόντων]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G3004G\|ἔλεγεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G1473\|ἐγώ,]]  [[G0435G\|ἄνδρες]]  [[G0080\|ἀδελφοί,]]  [[G3762\|οὐδὲν]]  [[G1727\|ἐναντίον]]  [[G4160G\|ποιήσας]]  [[G3588\|τῷ]]  [[G2992\|λαῷ]]  [[G2228\|ἢ]]  [[G3588\|τοῖς]]  [[G1485\|ἔθεσιν]]  [[G3588\|τοῖς]]  [[G3971\|πατρῴοις,]]  [[G1198\|δέσμιος]]  [[G1537\|ἐξ]]  [[G2414\|Ἱεροσολύμων]]  [[G3860\|παρεδόθην]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G3588\|τῶν]]  [[G4514\|Ῥωμαίων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.16|<< Acts 28:16]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.18|Acts 28:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

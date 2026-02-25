@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel Interprets the Second Dream
+type: Pericope
 pericope: "[[Dan.4.19 Daniel Interprets the Second Dream|Daniel Interprets the Second Dream]]"
-verse_count: 9
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 4
 book/chapter: "[[Dan.4|Daniel 4]]"
-genre:
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 9
 verses:
 - "[[Dan.4.19]]"
 - "[[Dan.4.20]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Dan.4.27]]"
 ---
 
-[[Dan.4|Daniel 4:19 - Daniel 4:27]]
+<small>[[Dan.4|Daniel 4:19-27]]</small>
 *Daniel Interprets the Second Dream*
 
 [[Dan.4.19|19]] Then Daniel, whose name \[was\] Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble thee. Belteshazzar answered and said, My lord, the dream \[be\] to them that hate thee, and the interpretation thereof to thine enemies.

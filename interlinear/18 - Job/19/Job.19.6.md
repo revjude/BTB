@@ -1,8 +1,56 @@
+---
+title: Job 19:6
+type: Verse
+kjv: "Know now that God hath overthrown me, and hath compassed me with his net."
+bsb: "then understand that it is God who has wronged me and drawn His net around me."
+hebrew: "דְּֽעוּ־ אֵ֭פוֹ כִּי־ אֱל֣וֹהַּ עִוְּתָ֑נִי וּ֝מְצוּד֗וֹ עָלַ֥י הִקִּֽיף׃"
+pericope: "[[Job.19.1 Job：My Redeemer Lives|Job：My Redeemer Lives]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 19
+book/chapter: "[[Job.19|Job 19]]"
+chronological_order: 30
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic NET|NET]]"
+strongs:
+- "[[H3045]]"
+- "[[H9014]]"
+- "[[H0645]]"
+- "[[H3588A]]"
+- "[[H0433]]"
+- "[[H5791]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H4685B]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H5362B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 19:6**<big><big>[[Job.19.1 Job：My Redeemer Lives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Know now that God hath overthrown me, and hath compassed me with his net.
 <small><sub>**BSB:**</sub></small>
 then understand that it is God who has wronged me and drawn His net around me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|דְּֽעוּ]][[H9014\|־]] [[H0645\|אֵ֭פוֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0433\|אֱל֣וֹהַּ]] [[H5791\|עִוְּתָ֑]][[H9030\|נִי]] [[H9002\|וּ֝]][[H4685B\|מְצוּד֗]][[H9023\|וֹ]] [[H5921A\|עָלַ֥]][[H9030\|י]] [[H5362B\|הִקִּֽיף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic NET|NET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.19.5|<< Job 19:5]]</td><td align="center" style="border:none;">[[Job.19|Job 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.19.7|Job 19:7 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Leviticus 22:28
+type: Verse
+kjv: "And whether it be cow or ewe, ye shall not kill it and her young both in one day."
+bsb: "But you must not slaughter an ox or a sheep on the same day as its young."
+hebrew: "וְשׁ֖וֹר אוֹ־ שֶׂ֑ה אֹת֣וֹ וְאֶת־ בְּנ֔וֹ לֹ֥א תִשְׁחֲט֖וּ בְּי֥וֹם אֶחָֽד׃"
+pericope: "[[Lev.22.17 Worthy Offerings|Worthy Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+strongs:
+- "[[H9002]]"
+- "[[H7794]]"
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H7716]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H1121H]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H7819A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:28**<big><big>[[Lev.22.17 Worthy Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [whether it be] cow or ewe, ye shall not kill it and her young both in one day.
 <small><sub>**BSB:**</sub></small>
 But you must not slaughter an ox or a sheep on the same day as its young.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7794\|שׁ֖וֹר]] [[H0176A\|אוֹ]][[H9014\|־]] [[H7716\|שֶׂ֑ה]] [[H0853\|אֹת֣]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121H\|בְּנ֔]][[H9023\|וֹ]] [[H3808\|לֹ֥א]] [[H7819A\|תִשְׁחֲט֖וּ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0259\|אֶחָֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.27|<< Leviticus 22:27]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.29|Leviticus 22:29 >>]]</td></tr></table>
 

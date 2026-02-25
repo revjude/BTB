@@ -1,8 +1,60 @@
+---
+title: Ezekiel 8:9
+type: Verse
+kjv: "And he said unto me, Go in, and behold the wicked abominations that they do here."
+bsb: "Then He said to me, “Go in and see the wicked abominations they are committing here.”"
+hebrew: "וַיֹּ֖אמֶר אֵלָ֑י בֹּ֤א וּרְאֵה֙ אֶת־ הַתּוֹעֵב֣וֹת הָרָע֔וֹת אֲשֶׁ֛ר הֵ֥ם עֹשִׂ֖ים פֹּֽה׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8441]]"
+- "[[H7451A]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H6213H]]"
+- "[[H6311]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:9**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto me, Go in, and behold the wicked abominations that they do here.
 <small><sub>**BSB:**</sub></small>
 Then He said to me, “Go in and see the wicked abominations they are committing here.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H0413\|אֵלָ֑]][[H9030\|י]] [[H0935G\|בֹּ֤א]] [[H9002\|וּ]][[H7200G\|רְאֵה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8441\|תּוֹעֵב֣וֹת]] [[H9009\|הָ]][[H7451A\|רָע֔וֹת]] [[H0834A\|אֲשֶׁ֛ר]] [[H1992\|הֵ֥ם]] [[H6213H\|עֹשִׂ֖ים]] [[H6311\|פֹּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.8|<< Ezekiel 8:8]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.10|Ezekiel 8:10 >>]]</td></tr></table>
 

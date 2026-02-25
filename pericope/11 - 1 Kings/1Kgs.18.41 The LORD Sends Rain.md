@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Sends Rain
+type: Pericope
 pericope: "[[1Kgs.18.41 The LORD Sends Rain|The LORD Sends Rain]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 18
 book/chapter: "[[1Kgs.18|1 Kings 18]]"
-genre:
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 6
 verses:
 - "[[1Kgs.18.41]]"
 - "[[1Kgs.18.42]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Kgs.18.46]]"
 ---
 
-[[1Kgs.18|1 Kings 18:41 - 1 Kings 18:46]]
+<small>[[1Kgs.18|1 Kings 18:41-46]]</small>
 *The LORD Sends Rain*
 
 [[1Kgs.18.41|41]] And Elijah said unto Ahab, Get thee up, eat and drink; for \[there is\] a sound of abundance of rain.

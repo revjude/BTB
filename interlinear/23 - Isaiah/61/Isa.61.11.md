@@ -1,8 +1,64 @@
+---
+title: Isaiah 61:11
+type: Verse
+kjv: "For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations."
+bsb: "For as the earth brings forth its growth, and as a garden enables seed to spring up, so the Lord GOD will cause righteousness and praise to spring up before all the nations."
+hebrew: "כִּ֤י כָאָ֙רֶץ֙ תּוֹצִ֣יא צִמְחָ֔הּ וּכְגַנָּ֖ה זֵרוּעֶ֣יהָ תַצְמִ֑יחַ כֵּ֣ן׀ אֲדֹנָ֣י יְהוִ֗ה יַצְמִ֤יחַ צְדָקָה֙ וּתְהִלָּ֔ה נֶ֖גֶד כָּל־ הַגּוֹיִֽם׃"
+pericope: "[[Isa.61.1 The Year of the LORD’s Favor|The Year of the LORD’s Favor]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 61
+book/chapter: "[[Isa.61|Isaiah 61]]"
+chronological_order: 700
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0776G]]"
+- "[[H3318M]]"
+- "[[H6780]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H1593]]"
+- "[[H2221]]"
+- "[[H6779]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6666]]"
+- "[[H8416]]"
+- "[[H5048]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 61:11**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations.
 <small><sub>**BSB:**</sub></small>
 For as the earth brings forth its growth, and as a garden enables seed to spring up, so the Lord GOD will cause righteousness and praise to spring up before all the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H9004\|כָ]][[H0776G\|אָ֙רֶץ֙]] [[H3318M\|תּוֹצִ֣יא]] [[H6780\|צִמְחָ֔]][[H9024\|הּ]] [[H9002\|וּ]][[H9004\|כְ]][[H1593\|גַנָּ֖ה]] [[H2221\|זֵרוּעֶ֣י]][[H9024\|הָ]] [[H6779\|תַצְמִ֑יחַ]] [[H3651C\|כֵּ֣ן]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֗ה]] [[H6779\|יַצְמִ֤יחַ]] [[H6666\|צְדָקָה֙]] [[H9002\|וּ]][[H8416\|תְהִלָּ֔ה]] [[H5048\|נֶ֖גֶד]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic HOLINESS|HOLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.10|<< Isaiah 61:10]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.62.1|Isaiah 62:1 >>]]</td></tr></table>
 

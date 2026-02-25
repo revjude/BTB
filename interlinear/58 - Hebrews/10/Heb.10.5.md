@@ -1,10 +1,60 @@
+---
+title: Hebrews 10:5
+type: Verse
+kjv: "Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:"
+bsb: "Therefore, when Christ came into the world, He said: “Sacrifice and offering You did not desire, but a body You prepared for Me."
+greek: "Διὸ εἰσερχόμενος εἰς τὸν κόσμον λέγει· θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας, σῶμα δὲ κατηρτίσω μοι·"
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G1352]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2889]]"
+- "[[G3004G]]"
+- "[[G2378]]"
+- "[[G2532]]"
+- "[[G4376]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G4983]]"
+- "[[G1161]]"
+- "[[G2675]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Hebrews 10:5**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore when he cometh into the world, he saith, Sacrifice and offering thou wouldest not, but a body hast thou prepared me:
 <small><sub>**BSB:**</sub></small>
 Therefore, when Christ came into the world, He said: “Sacrifice and offering You did not desire, but a body You prepared for Me.
-<small><sub>**Literal:**</sub></small>
-Therefore coming into the world He says: Sacrifice and offering not You have desired, a body however You have prepared me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.4|<< Hebrews 10:4]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.6|Hebrews 10:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1352\|Διὸ]]  [[G1525\|εἰσερχόμενος]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον]]  [[G3004G\|λέγει·]]  [[G2378\|θυσίαν]]  [[G2532\|καὶ]]  [[G4376\|προσφορὰν]]  [[G3756\|οὐκ]]  [[G2309\|ἠθέλησας,]]  [[G4983\|σῶμα]]  [[G1161\|δὲ]]  [[G2675\|κατηρτίσω]]  [[G3165\|μοι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.4|<< Hebrews 10:4]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.6|Hebrews 10:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 10:5** is...
 > $\quad$ referencing: [[LXX.Ps.40.6|Ps 40:6-8]]

@@ -1,8 +1,55 @@
+---
+title: Proverbs 20:22
+type: Verse
+kjv: "Say not thou, I will recompense evil; but wait on the LORD, and he shall save thee."
+bsb: "Do not say, “I will avenge this evil!” Wait on the LORD, and He will save you."
+hebrew: "אַל־ תֹּאמַ֥ר אֲשַׁלְּמָה־ רָ֑ע קַוֵּ֥ה לַֽ֝יהוָ֗ה וְיֹ֣שַֽׁע לָֽךְ׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H7999A]]"
+- "[[H7451B]]"
+- "[[H6960A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H3467]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:22**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Say not thou, I will recompense evil; [but] wait on the LORD, and he shall save thee.
 <small><sub>**BSB:**</sub></small>
 Do not say, “I will avenge this evil!” Wait on the LORD, and He will save you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0559\|תֹּאמַ֥ר]] [[H7999A\|אֲשַׁלְּמָה]][[H9014\|־]] [[H7451B\|רָ֑ע]] [[H6960A\|קַוֵּ֥ה]] [[H9005\|לַֽ֝]][[H3068G\|יהוָ֗ה]] [[H9002\|וְ]][[H3467\|יֹ֣שַֽׁע]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MALICE|MALICE]] • [[topic RETALIATION|RETALIATION]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.21|<< Proverbs 20:21]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.23|Proverbs 20:23 >>]]</td></tr></table>
 

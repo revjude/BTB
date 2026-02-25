@@ -1,10 +1,65 @@
+---
+title: Matthew 18:26
+type: Verse
+kjv: "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all."
+bsb: "Then the servant fell on his knees before him. ‘Have patience with me,’ he begged, ‘and I will pay back everything.’"
+jesus_said: "The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all."
+greek: "Πεσὼν οὖν ὁ δοῦλος προσεκύνει αὐτῷ λέγων· κύριε, μακροθύμησον ἐπ᾽ ἐμοί, καὶ πάντα ἀποδώσω σοι.¶"
+pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G4098]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G4352]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2962H]]"
+- "[[G3114]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G0591]]"
+- "[[G4771]]"
+texts:
+- NKO
+- ko
+- NK(o)
+---
+
 **Matthew 18:26**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The servant therefore fell down, and worshipped him, saying, Lord, have patience with me, and I will pay thee all.
 <small><sub>**BSB:**</sub></small>
 Then the servant fell on his knees before him. ‘Have patience with me,’ he begged, ‘and I will pay back everything.’
-<small><sub>**Literal:**</sub></small>
-Having fallen down therefore the servant was bowing on his knees to him saying; lord do have patience with me myself, and all I will pay to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.25|<< Matthew 18:25]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.27|Matthew 18:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4098\|Πεσὼν]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G1401\|δοῦλος]]  [[G4352\|προσεκύνει]]  [[G0846\|αὐτῷ]]  [[G3004G\|λέγων·]]  [[G2962H\|κύριε,]]  [[G3114\|μακροθύμησον]]  [[G1909\|ἐπ᾽]]  [[G1473\|ἐμοί,]]  [[G2532\|καὶ]]  [[G3956\|πάντα]]  [[G0591\|ἀποδώσω]]  [[G4771\|σοι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CREDITOR|CREDITOR]] • [[topic DEBTOR|DEBTOR]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.25|<< Matthew 18:25]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.27|Matthew 18:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,63 @@
+---
+title: John 5:25
+type: Verse
+kjv: "Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
+bsb: "Truly, truly, I tell you, the hour is coming and has now come when the dead will hear the voice of the Son of God, and those who hear will live."
+jesus_said: "Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
+greek: "Ἀμὴν ἀμὴν λέγω ὑμῖν ὅτι ἔρχεται ὥρα καὶ νῦν ἐστιν ὅτε οἱ νεκροὶ ἀκούσουσιν τῆς φωνῆς τοῦ υἱοῦ τοῦ θεοῦ καὶ οἱ ἀκούσαντες ζήσουσιν.¶"
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2064]]"
+- "[[G5610]]"
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G1510]]"
+- "[[G3753]]"
+- "[[G3588]]"
+- "[[G3498]]"
+- "[[G0191]]"
+- "[[G5456G]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G2198]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 5:25**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live.
 <small><sub>**BSB:**</sub></small>
 Truly, truly, I tell you, the hour is coming and has now come when the dead will hear the voice of the Son of God, and those who hear will live.
-<small><sub>**Literal:**</sub></small>
-Amen Amen I say to you that is coming an hour and now is when the dead will hear the voice of the Son <the> of God and those having heard will live.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.24|<< John 5:24]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.26|John 5:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|Ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G2064\|ἔρχεται]]  [[G5610\|ὥρα]]  [[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G1510\|ἐστιν]]  [[G3753\|ὅτε]]  [[G3588\|οἱ]]  [[G3498\|νεκροὶ]]  [[G0191\|ἀκούσουσιν]]  [[G3588\|τῆς]]  [[G5456G\|φωνῆς]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G0191\|ἀκούσαντες]]  [[G2198\|ζήσουσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic POWER|POWER]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.24|<< John 5:24]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.26|John 5:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

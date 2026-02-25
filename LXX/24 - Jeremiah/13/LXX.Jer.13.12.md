@@ -1,9 +1,77 @@
+---
+title: LXX Jeremiah 13:12
+type: Verse
+lxx: "And you shall say to the people  this word, Thus says the lord, the God of Israel. Every leather bag shall be filled of wine. And it will be if they should say to you, Is it in not knowing that we shall not know that every leather bag shall be filled with wine?"
+greek: "και ερείς προς τον λαόν τον λόγον τούτον τάδε λέγει κύριος ο θεός Ισραήλ πας ασκός πληρωθήσεται οίνου και έσται εάν είπωσι προς σε μη γνόντες ου γνωσόμεθα ότι πας ασκός πληρωθήσεται οίνου"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G2532]]"
+- "[[G2046]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3778]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2474]]"
+- "[[G3956]]"
+- "[[G0779]]"
+- "[[G4137]]"
+- "[[G3631]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G3361]]"
+- "[[G1097]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G3754]]"
+- "[[G3956]]"
+- "[[G0779]]"
+- "[[G4137]]"
+- "[[G3631]]"
+---
+
 **LXX Jeremiah 13:12** 
 
 ***The Leather Wine Bag***
 
 <small><sub>**LXX:**</sub></small>
 And you shall say to the people  this word, Thus says \[the\] <span class="smallcaps">lord</span>, the God of Israel. Every leather bag shall be filled of wine. And it will be if they should say to you, Is it in not knowing that we shall not know that every leather bag shall be filled with wine? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2046\|ερείς]] [[G4314\|προς]] [[G3588\|τον]] [[G2992\|λαόν]] [[G3588\|τον]] [[G3056\|λόγον]] [[G3778\|τούτον]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G2474\|Ισραήλ]] [[G3956\|πας]] [[G0779\|ασκός]] [[G4137\|πληρωθήσεται]] [[G3631\|οίνου]] [[G2532\|και]] [[G1510\|έσται]] [[G1437\|εάν]] [[G2036\|είπωσι]] [[G4314\|προς]] [[G1473\|σε]] [[G3361\|μη]] [[G1097\|γνόντες]] [[G3756\|ου]] [[G1097\|γνωσόμεθα]] [[G3754\|ότι]] [[G3956\|πας]] [[G0779\|ασκός]] [[G4137\|πληρωθήσεται]] [[G3631\|οίνου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PARABLES|PARABLES]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WINE|WINE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.11|<< Jeremiah 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.13|Jeremiah 13:13 >>]]</td></tr></table>
 
@@ -41,6 +109,6 @@ And you shall say to the people  this word, Thus says \[the\] <span class="small
 | leather bag | **<big>[[G0779\|ασκός]]</big>** |
 | shall be filled | **<big>[[G4137\|πληρωθήσεται]]</big>** |
 | with wine? | **<big>[[G3631\|οίνου]]</big>** |
-[[Jer.13.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.11|<< Jeremiah 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.13|Jeremiah 13:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.13.11|<< Jeremiah 13:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.13.13|Jeremiah 13:13 >>]]</td></tr></table>
 
 

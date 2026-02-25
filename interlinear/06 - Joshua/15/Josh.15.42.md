@@ -1,8 +1,47 @@
+---
+title: Joshua 15:42
+type: Verse
+kjv: "Libnah, and Ether, and Ashan,"
+bsb: "Libnah, Ether, Ashan,"
+hebrew: "לִבְנָ֥ה וָעֶ֖תֶר וְעָשָֽׁן׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ASHAN|ASHAN]]"
+- "[[topic CHOR-ASHAN|CHOR-ASHAN]]"
+- "[[topic ETHER|ETHER]]"
+strongs:
+- "[[H3841H]]"
+- "[[H9002]]"
+- "[[H6281]]"
+- "[[H6228]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:42**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Libnah, and Ether, and Ashan,
 <small><sub>**BSB:**</sub></small>
 Libnah, Ether, Ashan,
+<small><sub>**Hebrew:**</sub></small>
+[[H3841H\|לִבְנָ֥ה]] [[H9002\|וָ]][[H6281\|עֶ֖תֶר]] [[H9002\|וְ]][[H6228\|עָשָֽׁן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHAN|ASHAN]] • [[topic CHOR-ASHAN|CHOR-ASHAN]] • [[topic ETHER|ETHER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.41|<< Joshua 15:41]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.43|Joshua 15:43 >>]]</td></tr></table>
 

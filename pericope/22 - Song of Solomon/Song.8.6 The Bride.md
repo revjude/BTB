@@ -1,25 +1,32 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Bride
+type: Pericope
 pericope: "[[Song.8.6 The Bride|The Bride]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Song of Solomon
 chapter: 8
 book/chapter: "[[Song.8|Song of Solomon 8]]"
-genre:
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
 - poetry
 - love poetry
 - megillot
+verse_count: 2
 verses:
 - "[[Song.8.6]]"
 - "[[Song.8.7]]"
 ---
 
-[[Song.8|Song of Solomon 8:6 - Song of Solomon 8:7]]
+<small>[[Song.8|Song of Solomon 8:6-7]]</small>
 *The Bride*
 
 [[Song.8.6|6]] Set me as a seal upon thine heart, as a seal upon thine arm: for love \[is\] strong as death; jealousy \[is\] cruel as the grave: the coals thereof \[are\] coals of fire, \[which hath\] a most vehement flame.

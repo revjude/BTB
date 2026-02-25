@@ -1,8 +1,61 @@
+---
+title: Leviticus 7:5
+type: Verse
+kjv: "And the priest shall burn them upon the altar for an offering made by fire unto the LORD: it is a trespass offering."
+bsb: "The priest shall burn them on the altar as a food offering to the LORD; it is a guilt offering."
+hebrew: "וְהִקְטִ֨יר אֹתָ֤ם הַכֹּהֵן֙ הַמִּזְבֵּ֔חָה אִשֶּׁ֖ה לַיהוָ֑ה אָשָׁ֖ם הֽוּא׃"
+pericope: "[[Lev.7.1 The Guilt Offering|The Guilt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic FAT|FAT]]"
+- "[[topic KIDNEY|KIDNEY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6999A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H4196]]"
+- "[[H9011]]"
+- "[[H0801]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0817]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:5**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall burn them upon the altar [for] an offering made by fire unto the LORD: it [is] a trespass offering.
 <small><sub>**BSB:**</sub></small>
 The priest shall burn them on the altar as a food offering to the LORD; it is a guilt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6999A\|הִקְטִ֨יר]] [[H0853\|אֹתָ֤]][[H9038\|ם]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חָ]][[H9011\|ה]] [[H0801\|אִשֶּׁ֖ה]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H0817\|אָשָׁ֖ם]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAT|FAT]] • [[topic KIDNEY|KIDNEY]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.4|<< Leviticus 7:4]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.6|Leviticus 7:6 >>]]</td></tr></table>
 

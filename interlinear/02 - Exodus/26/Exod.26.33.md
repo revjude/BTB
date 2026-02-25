@@ -1,8 +1,71 @@
+---
+title: Exodus 26:33
+type: Verse
+kjv: "And thou shalt hang up the vail under the taches, that thou mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy place and the most holy."
+bsb: "And hang the veil from the clasps and place the ark of the Testimony behind the veil. So the veil will separate the Holy Place from the Most Holy Place."
+hebrew: "וְנָתַתָּ֣ה אֶת־ הַפָּרֹכֶת֮ תַּ֣חַת הַקְּרָסִים֒ וְהֵבֵאתָ֥ שָׁ֙מָּה֙ מִבֵּ֣ית לַפָּרֹ֔כֶת אֵ֖ת אֲר֣וֹן הָעֵד֑וּת וְהִבְדִּילָ֤ה הַפָּרֹ֙כֶת֙ לָכֶ֔ם בֵּ֣ין הַקֹּ֔דֶשׁ וּבֵ֖ין קֹ֥דֶשׁ הַקֳּדָשִֽׁים׃"
+pericope: "[[Exod.26.31 The Veil|The Veil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6532]]"
+- "[[H8478G]]"
+- "[[H7165]]"
+- "[[H0935P]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9006]]"
+- "[[H1004O]]"
+- "[[H9005]]"
+- "[[H0727]]"
+- "[[H5715]]"
+- "[[H0914]]"
+- "[[H9036]]"
+- "[[H0996G]]"
+- "[[H6944J]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:33**<big><big>[[Exod.26.31 The Veil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt hang up the vail under the taches, that thou mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy [place] and the most holy.
 <small><sub>**BSB:**</sub></small>
 And hang the veil from the clasps and place the ark of the Testimony behind the veil. So the veil will separate the Holy Place from the Most Holy Place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414H\|נָתַתָּ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6532\|פָּרֹכֶת֮]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H7165\|קְּרָסִים֒]] [[H9001\|וְ]][[H0935P\|הֵבֵאתָ֥]] [[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H9006\|מִ]][[H1004O\|בֵּ֣ית]] [[H9005\|לַ]][[H6532\|פָּרֹ֔כֶת]] [[H0853\|אֵ֖ת]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָ]][[H5715\|עֵד֑וּת]] [[H9001\|וְ]][[H0914\|הִבְדִּילָ֤ה]] [[H9009\|הַ]][[H6532\|פָּרֹ֙כֶת֙]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H0996G\|בֵּ֣ין]] [[H9009\|הַ]][[H6944J\|קֹּ֔דֶשׁ]] [[H9002\|וּ]][[H0996G\|בֵ֖ין]] [[H6944J\|קֹ֥דֶשׁ]] [[H9009\|הַ]][[H6944J\|קֳּדָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]] • [[topic VAIL|VAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.32|<< Exodus 26:32]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.34|Exodus 26:34 >>]]</td></tr></table>
 

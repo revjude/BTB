@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Hanging of Haman
+type: Pericope
 pericope: "[[Esth.7.7 The Hanging of Haman|The Hanging of Haman]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Esther
 chapter: 7
 book/chapter: "[[Esth.7|Esther 7]]"
-genre:
+chronological_order: 905
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
 - narrative
 - court tale
 - diaspora narrative
 - megillot
+verse_count: 4
 verses:
 - "[[Esth.7.7]]"
 - "[[Esth.7.8]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Esth.7.10]]"
 ---
 
-[[Esth.7|Esther 7:7 - Esther 7:10]]
+<small>[[Esth.7|Esther 7:7-10]]</small>
 *The Hanging of Haman*
 
 [[Esth.7.7|7]] And the king arising from the banquet of wine in his wrath \[went\] into the palace garden: and Haman stood up to make request for his life to Esther the queen; for he saw that there was evil determined against him by the king.

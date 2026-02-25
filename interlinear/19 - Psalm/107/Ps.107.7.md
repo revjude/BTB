@@ -1,8 +1,58 @@
+---
+title: Psalm 107:7
+type: Verse
+kjv: "And he led them forth by the right way, that they might go to a city of habitation."
+bsb: "He led them on a straight path to reach a city where they could live."
+hebrew: "וַ֭יַּֽדְרִיכֵם בְּדֶ֣רֶךְ יְשָׁרָ֑ה לָ֝לֶ֗כֶת אֶל־ עִ֥יר מוֹשָֽׁב׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H1869]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H3477G]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H4186]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 107:7**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he led them forth by the right way, that they might go to a city of habitation.
 <small><sub>**BSB:**</sub></small>
 He led them on a straight path to reach a city where they could live.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֭]][[H1869\|יַּֽדְרִיכֵ]][[H9038\|ם]] [[H9003\|בְּ]][[H1870K\|דֶ֣רֶךְ]] [[H3477G\|יְשָׁרָ֑ה]] [[H9005\|לָ֝]][[H1980G\|לֶ֗כֶת]] [[H0413\|אֶל]][[H9014\|־]] [[H5892B\|עִ֥יר]] [[H4186\|מוֹשָֽׁב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAYER|PRAYER]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.6|<< Psalms 107:6]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.8|Psalms 107:8 >>]]</td></tr></table>
 

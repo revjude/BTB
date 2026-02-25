@@ -1,8 +1,48 @@
+---
+title: Job 34:35
+type: Verse
+kjv: "Job hath spoken without knowledge, and his words were without wisdom."
+bsb: "‘Job speaks without knowledge; his words lack insight.’"
+hebrew: "אִ֭יּוֹב לֹא־ בְדַ֣עַת יְדַבֵּ֑ר וּ֝דְבָרָ֗יו לֹ֣א בְהַשְׂכֵּֽיל׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H0347]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H1847]]"
+- "[[H1696G]]"
+- "[[H9002]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H7919A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:35**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Job hath spoken without knowledge, and his words [were] without wisdom.
 <small><sub>**BSB:**</sub></small>
 ‘Job speaks without knowledge; his words lack insight.’
+<small><sub>**Hebrew:**</sub></small>
+[[H0347\|אִ֭יּוֹב]] [[H3808\|לֹא]][[H9014\|־]] [[H9003\|בְ]][[H1847\|דַ֣עַת]] [[H1696G\|יְדַבֵּ֑ר]] [[H9002\|וּ֝]][[H1697G\|דְבָרָ֗י]][[H9023\|ו]] [[H3808\|לֹ֣א]] [[H9003\|בְ]][[H7919A\|הַשְׂכֵּֽיל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.34|<< Job 34:34]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.36|Job 34:36 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prayer for Restoration
+type: Pericope
 pericope: "[[Lam.5.1 A Prayer for Restoration|A Prayer for Restoration]]"
-verse_count: 22
+original_language: Hebrew
 testament: Old
 book: Lamentations
 chapter: 5
 book/chapter: "[[Lam.5|Lamentations 5]]"
-genre:
+chronological_order: 780
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
 - poetry
 - lament
 - acrostic
 - megillot
+verse_count: 22
 verses:
 - "[[Lam.5.1]]"
 - "[[Lam.5.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Lam.5.22]]"
 ---
 
-[[Lam.5|Lamentations 5:1 - Lamentations 5:22]]
+<small>[[Lam.5|Lamentations 5:1-22]]</small>
 *A Prayer for Restoration*
 
 [[Lam.5.1|1]] Remember, O LORD, what is come upon us: consider, and behold our reproach.

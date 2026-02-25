@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 26:27
+type: Verse
+kjv: "Out of the spoils won in battles did they dedicate to maintain the house of the LORD."
+bsb: "They had dedicated some of the plunder from their battles to the repair of the house of the LORD."
+hebrew: "מִן־ הַמִּלְחָמ֥וֹת וּמִן־ הַשָּׁלָ֖ל הִקְדִּ֑ישׁוּ לְחַזֵּ֖ק לְבֵ֥ית יְהוָֽה׃"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic KING|KING]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic SPOILS|SPOILS]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4421]]"
+- "[[H9002]]"
+- "[[H7998]]"
+- "[[H6942H]]"
+- "[[H9005]]"
+- "[[H2388G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:27**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of the spoils won in battles did they dedicate to maintain the house of the LORD.
 <small><sub>**BSB:**</sub></small>
 They had dedicated some of the plunder from their battles to the repair of the house of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4421\|מִּלְחָמ֥וֹת]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7998\|שָּׁלָ֖ל]] [[H6942H\|הִקְדִּ֑ישׁוּ]] [[H9005\|לְ]][[H2388G\|חַזֵּ֖ק]] [[H9005\|לְ]][[H1004Q\|בֵ֥ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic DEDICATION|DEDICATION]] • [[topic KING|KING]] • [[topic LIBERALITY|LIBERALITY]] • [[topic SPOILS|SPOILS]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.26|<< 1 Chronicles 26:26]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.28|1 Chronicles 26:28 >>]]</td></tr></table>
 

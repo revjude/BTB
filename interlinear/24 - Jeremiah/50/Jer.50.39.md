@@ -1,8 +1,64 @@
+---
+title: Jeremiah 50:39
+type: Verse
+kjv: "Therefore the wild beasts of the desert with the wild beasts of the islands shall dwell there, and the owls shall dwell therein: and it shall be no more inhabited for ever; neither shall it be dwelt in from generation to generation."
+bsb: "So the desert creatures and hyenas will live there and ostriches will dwell there. It will never again be inhabited or lived in from generation to generation."
+hebrew: "לָכֵ֗ן יֵשְׁב֤וּ צִיִּים֙ אֶת־ אִיִּ֔ים וְיָ֥שְׁבוּ בָ֖הּ בְּנ֣וֹת יַֽעֲנָ֑ה וְלֹֽא־ תֵשֵׁ֥ב עוֹד֙ לָנֶ֔צַח וְלֹ֥א תִשְׁכּ֖וֹן עַד־ דּ֥וֹר וָדֽוֹר׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+- "[[topic OWL|OWL]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3427]]"
+- "[[H6728]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H0338]]"
+- "[[H9001]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H1323G]]"
+- "[[H3284]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5750]]"
+- "[[H5331]]"
+- "[[H7931]]"
+- "[[H5704]]"
+- "[[H1755]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:39**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore the wild beasts of the desert with the wild beasts of the islands shall dwell [there], and the owls shall dwell therein: and it shall be no more inhabited for ever; neither shall it be dwelt in from generation to generation.
 <small><sub>**BSB:**</sub></small>
 So the desert creatures and hyenas will live there and ostriches will dwell there. It will never again be inhabited or lived in from generation to generation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3427\|יֵשְׁב֤וּ]] [[H6728\|צִיִּים֙]] [[H0854\|אֶת]][[H9014\|־]] [[H0338\|אִיִּ֔ים]] [[H9001\|וְ]][[H3427\|יָ֥שְׁבוּ]] [[H9003\|בָ֖]][[H9034\|הּ]] [[H1323G\|בְּנ֣וֹת]] [[H3284\|יַֽעֲנָ֑ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3427\|תֵשֵׁ֥ב]] [[H5750\|עוֹד֙]] [[H9005\|לָ]][[H5331\|נֶ֔צַח]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7931\|תִשְׁכּ֖וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H1755\|דּ֥וֹר]] [[H9002\|וָ]][[H1755\|דֽוֹר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic OSTRICHES|OSTRICHES]] • [[topic OWL|OWL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.38|<< Jeremiah 50:38]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.40|Jeremiah 50:40 >>]]</td></tr></table>
 

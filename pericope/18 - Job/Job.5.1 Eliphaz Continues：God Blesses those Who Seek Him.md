@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Eliphaz Continues：God Blesses those Who Seek Him
+type: Pericope
 pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 5
 book/chapter: "[[Job.5|Job 5]]"
-genre:
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 27
 verses:
 - "[[Job.5.1]]"
 - "[[Job.5.2]]"
@@ -46,7 +53,7 @@ verses:
 - "[[Job.5.27]]"
 ---
 
-[[Job.5|Job 5:1 - Job 5:27]]
+<small>[[Job.5|Job 5:1-27]]</small>
 *Eliphaz Continues：God Blesses those Who Seek Him*
 
 [[Job.5.1|1]] Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?

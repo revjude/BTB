@@ -1,8 +1,55 @@
+---
+title: Job 23:8
+type: Verse
+kjv: "Behold, I go forward, but he is not there; and backward, but I cannot perceive him:"
+bsb: "If I go east, He is not there, and if I go west, I cannot find Him."
+hebrew: "הֵ֤ן קֶ֣דֶם אֶהֱלֹ֣ךְ וְאֵינֶ֑נּוּ וְ֝אָח֗וֹר וְֽלֹא־ אָבִ֥ין לֽוֹ׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H2005]]"
+- "[[H6924I]]"
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H0268]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0995]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:8**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I go forward, but he [is] not [there]; and backward, but I cannot perceive him:
 <small><sub>**BSB:**</sub></small>
 If I go east, He is not there, and if I go west, I cannot find Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֤ן]] [[H6924I\|קֶ֣דֶם]] [[H1980G\|אֶהֱלֹ֣ךְ]] [[H9002\|וְ]][[H0369\|אֵינֶ֑]][[H9043\|נּוּ]] [[H9002\|וְ֝]][[H0268\|אָח֗וֹר]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H0995\|אָבִ֥ין]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.7|<< Job 23:7]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.9|Job 23:9 >>]]</td></tr></table>
 

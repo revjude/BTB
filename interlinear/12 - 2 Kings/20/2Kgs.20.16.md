@@ -1,8 +1,54 @@
+---
+title: 2 Kings 20:16
+type: Verse
+kjv: "And Isaiah said unto Hezekiah, Hear the word of the LORD."
+bsb: "Then Isaiah said to Hezekiah, “Hear the word of the LORD:"
+hebrew: "וַיֹּ֥אמֶר יְשַׁעְיָ֖הוּ אֶל־ חִזְקִיָּ֑הוּ שְׁמַ֖ע דְּבַר־ יְהוָֽה׃"
+pericope: "[[2Kgs.20.12 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3470A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2396G]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 20:16**<big><big>[[2Kgs.20.12 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaiah said unto Hezekiah, Hear the word of the LORD.
 <small><sub>**BSB:**</sub></small>
 Then Isaiah said to Hezekiah, “Hear the word of the LORD:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3470A\|יְשַׁעְיָ֖הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֑הוּ]] [[H8085G\|שְׁמַ֖ע]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.15|<< 2 Kings 20:15]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.17|2 Kings 20:17 >>]]</td></tr></table>
 

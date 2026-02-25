@@ -1,8 +1,81 @@
+---
+title: 1 Chronicles 21:12
+type: Verse
+kjv: "Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh thee; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me."
+bsb: "between three years of famine, three months of being swept away before your enemies and overtaken by their swords, or three days of the sword of the LORD—days of plague upon the land, with the angel of the LORD ravaging every part of Israel.’ Now then, decide how I should reply to Him who sent me.”"
+hebrew: "אִם־ שָׁל֨וֹשׁ שָׁנִ֜ים רָעָ֗ב וְאִם־ שְׁלֹשָׁ֨ה חֳדָשִׁ֜ים נִסְפֶּ֥ה מִפְּנֵי־ צָרֶיךָ֮ וְחֶ֣רֶב אוֹיְבֶ֣ךָ׀ לְמַשֶּׂגֶת֒ וְאִם־ שְׁלֹ֣שֶׁת יָ֠מִים חֶ֣רֶב יְהוָ֤ה וְדֶ֙בֶר֙ בָּאָ֔רֶץ וּמַלְאַ֣ךְ יְהוָ֔ה מַשְׁחִ֖ית בְּכָל־ גְּב֣וּל יִשְׂרָאֵ֑ל וְעַתָּ֣ה רְאֵ֔ה מָֽה־ אָשִׁ֥יב אֶת־ שֹׁלְחִ֖י דָּבָֽר׃ פ"
+pericope: "[[1Chr.21.7 Judgment for David’s Sin|Judgment for David’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic CHOICE|CHOICE]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic GAD|GAD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H7458]]"
+- "[[H9002]]"
+- "[[H2320G]]"
+- "[[H5595]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H6862C]]"
+- "[[H9021]]"
+- "[[H2719]]"
+- "[[H0341]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H5381]]"
+- "[[H3117G]]"
+- "[[H3068G]]"
+- "[[H1698]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4397H]]"
+- "[[H7843]]"
+- "[[H3605]]"
+- "[[H1366H]]"
+- "[[H3478]]"
+- "[[H6258]]"
+- "[[H7200J]]"
+- "[[H4100]]"
+- "[[H7725G]]"
+- "[[H0853]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H1697H]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:12**<big><big>[[1Chr.21.7 Judgment for David’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh [thee]; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me.
 <small><sub>**BSB:**</sub></small>
 between three years of famine, three months of being swept away before your enemies and overtaken by their swords, or three days of the sword of the LORD—days of plague upon the land, with the angel of the LORD ravaging every part of Israel.’ Now then, decide how I should reply to Him who sent me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H7969\|שָׁל֨וֹשׁ]] [[H8141\|שָׁנִ֜ים]] [[H7458\|רָעָ֗ב]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7969\|שְׁלֹשָׁ֨ה]] [[H2320G\|חֳדָשִׁ֜ים]] [[H5595\|נִסְפֶּ֥ה]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9014\|־]] [[H6862C\|צָרֶי]][[H9021\|ךָ֮]] [[H9002\|וְ]][[H2719\|חֶ֣רֶב]] [[H0341\|אוֹיְבֶ֣]][[H9021\|ךָ]][[H9015\|׀]] [[H9005\|לְ]][[H5381\|מַשֶּׂגֶת֒]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָ֠מִים]] [[H2719\|חֶ֣רֶב]] [[H3068G\|יְהוָ֤ה]] [[H9002\|וְ]][[H1698\|דֶ֙בֶר֙]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וּ]][[H4397H\|מַלְאַ֣ךְ]] [[H3068G\|יְהוָ֔ה]] [[H7843\|מַשְׁחִ֖ית]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1366H\|גְּב֣וּל]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H6258\|עַתָּ֣ה]] [[H7200J\|רְאֵ֔ה]] [[H4100\|מָֽה]][[H9014\|־]] [[H7725G\|אָשִׁ֥יב]] [[H0853\|אֶת]][[H9014\|־]] [[H7971G\|שֹׁלְחִ֖]][[H9030\|י]] [[H1697H\|דָּבָֽר]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHOICE|CHOICE]] • [[topic FAMINE|FAMINE]] • [[topic GAD|GAD]] • [[topic NATION|NATION]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.11|<< 1 Chronicles 21:11]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.13|1 Chronicles 21:13 >>]]</td></tr></table>
 
@@ -40,7 +113,7 @@ between three years of famine, three months of being swept away before your enem
 | will I bring back  |**<big>&#8207;[[H7725G\|אָשִׁ֥יב]]&#8207; </big>**| 'a.Shiv<small><sup>[[HVhi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] [one who] sent me  |**<big>&#8207;[[H7971G\|שֹׁלְחִ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| sho.le.Ch<small><sup>[[HVqrmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| word  |**<big>&#8207;[[H1697H\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| word  |**<big>&#8207;[[H1697H\|דָּבָֽר]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| da.Var<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.11|<< 1 Chronicles 21:11]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.13|1 Chronicles 21:13 >>]]</td></tr></table>
 
 

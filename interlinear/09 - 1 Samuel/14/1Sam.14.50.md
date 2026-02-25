@@ -1,8 +1,62 @@
+---
+title: 1 Samuel 14:50
+type: Verse
+kjv: "And the name of Saul’s wife was Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host was Abner, the son of Ner, Saul’s uncle."
+bsb: "His wife’s name was Ahinoam daughter of Ahimaaz. The name of the commander of his army was Abner, the son of Saul’s uncle Ner."
+hebrew: "וְשֵׁם֙ אֵ֣שֶׁת שָׁא֔וּל אֲחִינֹ֖עַם בַּת־ אֲחִימָ֑עַץ וְשֵׁ֤ם שַׂר־ צְבָאוֹ֙ אֲבִינֵ֔ר בֶּן־ נֵ֖ר דּ֥וֹד שָׁאֽוּל׃"
+pericope: "[[1Sam.14.47 Saul’s Victories|Saul’s Victories]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABNER|ABNER]]"
+- "[[topic AHIMAAZ|AHIMAAZ]]"
+- "[[topic AHINOAM|AHINOAM]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic NEPOTISM|NEPOTISM]]"
+- "[[topic NER|NER]]"
+strongs:
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H0802H]]"
+- "[[H7586G]]"
+- "[[H0293G]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H0290G]]"
+- "[[H8269]]"
+- "[[H6635A]]"
+- "[[H9023]]"
+- "[[H0074]]"
+- "[[H1121A]]"
+- "[[H5369G]]"
+- "[[H1730I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:50**<big><big>[[1Sam.14.47 Saul’s Victories|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the name of Saul’s wife [was] Ahinoam, the daughter of Ahimaaz: and the name of the captain of his host [was] Abner, the son of Ner, Saul’s uncle.
 <small><sub>**BSB:**</sub></small>
 His wife’s name was Ahinoam daughter of Ahimaaz. The name of the commander of his army was Abner, the son of Saul’s uncle Ner.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8034\|שֵׁם֙]] [[H0802H\|אֵ֣שֶׁת]] [[H7586G\|שָׁא֔וּל]] [[H0293G\|אֲחִינֹ֖עַם]] [[H1323G\|בַּת]][[H9014\|־]] [[H0290G\|אֲחִימָ֑עַץ]] [[H9002\|וְ]][[H8034\|שֵׁ֤ם]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָא]][[H9023\|וֹ֙]] [[H0074\|אֲבִינֵ֔ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5369G\|נֵ֖ר]] [[H1730I\|דּ֥וֹד]] [[H7586G\|שָׁאֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABNER|ABNER]] • [[topic AHIMAAZ|AHIMAAZ]] • [[topic AHINOAM|AHINOAM]] • [[topic ARMIES|ARMIES]] • [[topic CAPTAIN|CAPTAIN]] • [[topic NEPOTISM|NEPOTISM]] • [[topic NER|NER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.50|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.49|<< 1 Samuel 14:49]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.51|1 Samuel 14:51 >>]]</td></tr></table>
 

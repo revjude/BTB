@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Eight Tables for Sacrifices
+type: Pericope
 pericope: "[[Ezek.40.38 Eight Tables for Sacrifices|Eight Tables for Sacrifices]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 40
 book/chapter: "[[Ezek.40|Ezekiel 40]]"
-genre:
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 6
 verses:
 - "[[Ezek.40.38]]"
 - "[[Ezek.40.39]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Ezek.40.43]]"
 ---
 
-[[Ezek.40|Ezekiel 40:38 - Ezekiel 40:43]]
+<small>[[Ezek.40|Ezekiel 40:38-43]]</small>
 *Eight Tables for Sacrifices*
 
 [[Ezek.40.38|38]] And the chambers and the entries thereof \[were\] by the posts of the gates, where they washed the burnt offering.

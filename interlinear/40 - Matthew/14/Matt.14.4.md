@@ -1,10 +1,59 @@
+---
+title: Matthew 14:4
+type: Verse
+kjv: "For John said unto him, It is not lawful for thee to have her."
+bsb: "because John had been telling him, “It is not lawful for you to have her.”"
+greek: "ἔλεγεν γὰρ ὁ Ἰωάννης αὐτῷ· οὐκ ἔξεστίν σοι ἔχειν αὐτήν."
+pericope: "[[Matt.14.1 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic INCEST|INCEST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2491G]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G1832]]"
+- "[[G4771]]"
+- "[[G2192]]"
+texts:
+- NKO
+---
+
 **Matthew 14:4**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For John said unto him, It is not lawful for thee to have her.
 <small><sub>**BSB:**</sub></small>
 because John had been telling him, “It is not lawful for you to have her.”
-<small><sub>**Literal:**</sub></small>
-Were saying for <the> John to him; Not it is lawful for you to have her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.3|<< Matthew 14:3]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.5|Matthew 14:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγεν]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G2491G\|Ἰωάννης]]  [[G0846\|αὐτῷ·]]  [[G3756\|οὐκ]]  [[G1832\|ἔξεστίν]]  [[G4771\|σοι]]  [[G2192\|ἔχειν]]  [[G0846\|αὐτήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HEROD|HEROD]] • [[topic INCEST|INCEST]] • [[topic JOHN|JOHN]] • [[topic MALICE|MALICE]] • [[topic OATH|OATH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POLITICS|POLITICS]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.3|<< Matthew 14:3]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.5|Matthew 14:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

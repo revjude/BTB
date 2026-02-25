@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: One in Christ
+type: Pericope
 pericope: "[[Phil.2.1 One in Christ|One in Christ]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Philippians
 chapter: 2
 book/chapter: "[[Phil.2|Philippians 2]]"
-genre:
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - pastoral letter
+verse_count: 4
 verses:
 - "[[Phil.2.1]]"
 - "[[Phil.2.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Phil.2.4]]"
 ---
 
-[[Phil.2|Philippians 2:1 - Philippians 2:4]]
+<small>[[Phil.2|Philippians 2:1-4]]</small>
 *One in Christ*
 
 [[Phil.2.1|1]] If \[there be\] therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,

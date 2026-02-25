@@ -1,10 +1,65 @@
+---
+title: John 12:42
+type: Verse
+kjv: "Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess him, lest they should be put out of the synagogue:"
+bsb: "Nevertheless, many of the leaders believed in Him. But because of the Pharisees they did not confess Him, for fear that they would be put out of the synagogue."
+greek: "ὅμως μέντοι καὶ ἐκ τῶν ἀρχόντων πολλοὶ ἐπίστευσαν εἰς αὐτόν, ἀλλὰ διὰ τοὺς Φαρισαίους οὐχ ὡμολόγουν, ἵνα μὴ ἀποσυνάγωγοι γένωνται."
+pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONFESSION|CONFESSION]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic INDECISION|INDECISION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G3676]]"
+- "[[G3305]]"
+- "[[G2532]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G4183]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G1223]]"
+- "[[G5330]]"
+- "[[G3756]]"
+- "[[G3670]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G0656]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **John 12:42**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless among the chief rulers also many believed on him; but because of the Pharisees they did not confess [him], lest they should be put out of the synagogue:
 <small><sub>**BSB:**</sub></small>
 Nevertheless, many of the leaders believed in Him. But because of the Pharisees they did not confess Him, for fear that they would be put out of the synagogue.
-<small><sub>**Literal:**</sub></small>
-Nevertheless indeed even of the rulers many believed in Him, but on account of the Pharisees not they were confessing, so that not put out of the synagogue they may be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.41|<< John 12:41]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.43|John 12:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3676\|ὅμως]]  [[G3305\|μέντοι]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G0758\|ἀρχόντων]]  [[G4183\|πολλοὶ]]  [[G4100\|ἐπίστευσαν]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν,]]  [[G0235\|ἀλλὰ]]  [[G1223\|διὰ]]  [[G3588\|τοὺς]]  [[G5330\|Φαρισαίους]]  [[G3756\|οὐχ]]  [[G3670\|ὡμολόγουν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G0656\|ἀποσυνάγωγοι]]  [[G1096\|γένωνται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFESSION|CONFESSION]] • [[topic COWARDICE|COWARDICE]] • [[topic INDECISION|INDECISION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.41|<< John 12:41]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.43|John 12:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

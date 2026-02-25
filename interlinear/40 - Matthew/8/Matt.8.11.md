@@ -1,10 +1,73 @@
+---
+title: Matthew 8:11
+type: Verse
+kjv: "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven."
+bsb: "I say to you that many will come from the east and the west to share the banquet with Abraham, Isaac, and Jacob in the kingdom of heaven."
+jesus_said: "And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven."
+greek: "λέγω δὲ ὑμῖν ὅτι πολλοὶ ἀπὸ ἀνατολῶν καὶ δυσμῶν ἥξουσιν καὶ ἀνακλιθήσονται μετὰ Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ ἐν τῇ βασιλείᾳ τῶν οὐρανῶν."
+pericope: "[[Matt.8.5 The Faith of the Centurion|The Faith of the Centurion]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CENTURION|CENTURION]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic HELL|HELL]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G4183]]"
+- "[[G0575]]"
+- "[[G0395]]"
+- "[[G2532]]"
+- "[[G1424]]"
+- "[[G2240]]"
+- "[[G0347]]"
+- "[[G3326]]"
+- "[[G0011]]"
+- "[[G2464]]"
+- "[[G2384G]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0932]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Matthew 8:11**<big><big>[[Matt.8.5 The Faith of the Centurion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 I say to you that many will come from the east and the west to share the banquet with Abraham, Isaac, and Jacob in the kingdom of heaven.
-<small><sub>**Literal:**</sub></small>
-I say now to you that many from east and west will come and they will recline with Abraham and Isaac and Jacob in the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.10|<< Matthew 8:10]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.12|Matthew 8:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G4183\|πολλοὶ]]  [[G0575\|ἀπὸ]]  [[G0395\|ἀνατολῶν]]  [[G2532\|καὶ]]  [[G1424\|δυσμῶν]]  [[G2240\|ἥξουσιν]]  [[G2532\|καὶ]]  [[G0347\|ἀνακλιθήσονται]]  [[G3326\|μετὰ]]  [[G0011\|Ἀβραὰμ]]  [[G2532\|καὶ]]  [[G2464\|Ἰσαὰκ]]  [[G2532\|καὶ]]  [[G2384G\|Ἰακὼβ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CENTURION|CENTURION]] • [[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic HEATHEN|HEATHEN]] • [[topic HEAVEN|HEAVEN]] • [[topic HELL|HELL]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISAAC|ISAAC]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERVANT|SERVANT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.10|<< Matthew 8:10]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.12|Matthew 8:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

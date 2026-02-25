@@ -1,10 +1,52 @@
+---
+title: John 5:27
+type: Verse
+kjv: "And hath given him authority to execute judgment also, because he is the Son of man."
+bsb: "And He has given Him authority to execute judgment, because He is the Son of Man."
+jesus_said: "And hath given him authority to execute judgment also, because he is the Son of man."
+greek: "καὶ ἐξουσίαν ἔδωκεν αὐτῷ καὶ κρίσιν ποιεῖν, ὅτι υἱὸς ἀνθρώπου ἐστίν.¶"
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1849]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G2920]]"
+- "[[G4160G]]"
+- "[[G3754H]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G1510]]"
+texts:
+- NKO
+- k
+---
+
 **John 5:27**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And hath given him authority to execute judgment also, because he is the Son of man.
 <small><sub>**BSB:**</sub></small>
 And He has given Him authority to execute judgment, because He is the Son of Man.
-<small><sub>**Literal:**</sub></small>
-And authority He gave to Him and judgment to carry out, because Son of Man He is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.26|<< John 5:26]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.28|John 5:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1849\|ἐξουσίαν]]  [[G1325\|ἔδωκεν]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G2920\|κρίσιν]]  [[G4160G\|ποιεῖν,]]  [[G3754H\|ὅτι]]  [[G5207\|υἱὸς]]  [[G0444\|ἀνθρώπου]]  [[G1510\|ἐστίν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.26|<< John 5:26]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.28|John 5:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

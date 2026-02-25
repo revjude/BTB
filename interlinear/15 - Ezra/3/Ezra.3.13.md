@@ -1,8 +1,65 @@
+---
+title: Ezra 3:13
+type: Verse
+kjv: "So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off."
+bsb: "The people could not distinguish the shouts of joy from the sound of weeping, because the people were making so much noise. And the sound was heard from afar."
+hebrew: "וְאֵ֣ין הָעָ֗ם מַכִּירִים֙ ק֚וֹל תְּרוּעַ֣ת הַשִּׂמְחָ֔ה לְק֖וֹל בְּכִ֣י הָעָ֑ם כִּ֣י הָעָ֗ם מְרִיעִים֙ תְּרוּעָ֣ה גְדוֹלָ֔ה וְהַקּ֥וֹל נִשְׁמַ֖ע עַד־ לְמֵרָחֽוֹק׃ פ"
+pericope: "[[Ezra.3.8 Temple Restoration Begins|Temple Restoration Begins]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 3
+book/chapter: "[[Ezra.3|Ezra 3]]"
+chronological_order: 851
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic JESHUA|JESHUA]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHOUTING|SHOUTING]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5234A]]"
+- "[[H6963H]]"
+- "[[H8643]]"
+- "[[H8057]]"
+- "[[H9005]]"
+- "[[H1065]]"
+- "[[H3588A]]"
+- "[[H7321]]"
+- "[[H1419A]]"
+- "[[H8085G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 3:13**<big><big>[[Ezra.3.8 Temple Restoration Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off.
 <small><sub>**BSB:**</sub></small>
 The people could not distinguish the shouts of joy from the sound of weeping, because the people were making so much noise. And the sound was heard from afar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H5234A\|מַכִּירִים֙]] [[H6963H\|ק֚וֹל]] [[H8643\|תְּרוּעַ֣ת]] [[H9009\|הַ]][[H8057\|שִּׂמְחָ֔ה]] [[H9005\|לְ]][[H6963H\|ק֖וֹל]] [[H1065\|בְּכִ֣י]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H3588A\|כִּ֣י]] [[H9009\|הָ]][[H5971A\|עָ֗ם]] [[H7321\|מְרִיעִים֙]] [[H8643\|תְּרוּעָ֣ה]] [[H1419A\|גְדוֹלָ֔ה]] [[H9002\|וְ]][[H9009\|הַ]][[H6963H\|קּ֥וֹל]] [[H8085G\|נִשְׁמַ֖ע]] [[H5704\|עַד]][[H9014\|־]] [[H9005\|לְ]][[H9006\|מֵ]][[H7350\|רָחֽוֹק]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESHUA|JESHUA]] • [[topic JOY|JOY]] • [[topic PRIEST|PRIEST]] • [[topic SHOUTING|SHOUTING]] • [[topic TEMPLE|TEMPLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.3.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.12|<< Ezra 3:12]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.1|Ezra 4:1 >>]]</td></tr></table>
 
@@ -25,7 +82,7 @@ The people could not distinguish the shouts of joy from the sound of weeping, be
 | and the sound  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H6963H\|קּ֥וֹל]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ha.<small><sup>[[HTd]]</sup></small> Kol<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was heard  |**<big>&#8207;[[H8085G\|נִשְׁמַ֖ע]]&#8207; </big>**| nish.Ma'<small><sup>[[HVNp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H5704\|עַד]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ad-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> from a distance  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7350\|רָחֽוֹק]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> me.<small><sup>[[HR]]</sup></small> ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> from a distance  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H7350\|רָחֽוֹק]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> me.<small><sup>[[HR]]</sup></small> ra.Chok<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.3.12|<< Ezra 3:12]]</td><td align="center" style="border:none;">[[Ezra.3|Ezra 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.1|Ezra 4:1 >>]]</td></tr></table>
 
 

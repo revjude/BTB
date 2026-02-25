@@ -1,8 +1,70 @@
+---
+title: Genesis 29:28
+type: Verse
+kjv: "And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also."
+bsb: "And Jacob did just that. He finished the week’s celebration, and Laban gave him his daughter Rachel as his wife."
+hebrew: "וַיַּ֤עַשׂ יַעֲקֹב֙ כֵּ֔ן וַיְמַלֵּ֖א שְׁבֻ֣עַ זֹ֑את וַיִּתֶּן־ ל֛וֹ אֶת־ רָחֵ֥ל בִּתּ֖וֹ ל֥וֹ לְאִשָּֽׁה׃"
+pericope: "[[Gen.29.14 Jacob Marries Leah and Rachel|Jacob Marries Leah and Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BETROTHAL|BETROTHAL]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic LABAN|LABAN]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H3290]]"
+- "[[H3651C]]"
+- "[[H4390]]"
+- "[[H7620H]]"
+- "[[H2063]]"
+- "[[H5414O]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H7354]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:28**<big><big>[[Gen.29.14 Jacob Marries Leah and Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.
 <small><sub>**BSB:**</sub></small>
 And Jacob did just that. He finished the week’s celebration, and Laban gave him his daughter Rachel as his wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֤עַשׂ]] [[H3290\|יַעֲקֹב֙]] [[H3651C\|כֵּ֔ן]] [[H9001\|וַ]][[H4390\|יְמַלֵּ֖א]] [[H7620H\|שְׁבֻ֣עַ]] [[H2063\|זֹ֑את]] [[H9001\|וַ]][[H5414O\|יִּתֶּן]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H7354\|רָחֵ֥ל]] [[H1323G\|בִּתּ֖]][[H9023\|וֹ]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETROTHAL|BETROTHAL]] • [[topic CHILDREN|CHILDREN]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic JACOB|JACOB]] • [[topic LABAN|LABAN]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RACHEL|RACHEL]] • [[topic SEVEN|SEVEN]] • [[topic WAGES|WAGES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.27|<< Genesis 29:27]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.29|Genesis 29:29 >>]]</td></tr></table>
 

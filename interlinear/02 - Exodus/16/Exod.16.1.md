@@ -1,8 +1,77 @@
+---
+title: Exodus 16:1
+type: Verse
+kjv: "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
+bsb: "On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin, which is between Elim and Sinai."
+hebrew: "וַיִּסְעוּ֙ מֵֽאֵילִ֔ם וַיָּבֹ֜אוּ כָּל־ עֲדַ֤ת בְּנֵֽי־ יִשְׂרָאֵל֙ אֶל־ מִדְבַּר־ סִ֔ין אֲשֶׁ֥ר בֵּין־ אֵילִ֖ם וּבֵ֣ין סִינָ֑י בַּחֲמִשָּׁ֨ה עָשָׂ֥ר יוֹם֙ לַחֹ֣דֶשׁ הַשֵּׁנִ֔י לְצֵאתָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H0362]]"
+- "[[H0935G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5712]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H4057B]]"
+- "[[H5512B]]"
+- "[[H0834A]]"
+- "[[H0996G]]"
+- "[[H9002]]"
+- "[[H5514G]]"
+- "[[H9003]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H3318G]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:1**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which [is] between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin, which is between Elim and Sinai.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5265\|יִּסְעוּ֙]] [[H9006\|מֵֽ]][[H0362\|אֵילִ֔ם]] [[H9001\|וַ]][[H0935G\|יָּבֹ֜אוּ]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדַ֤ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4057B\|מִדְבַּר]][[H9014\|־]] [[H5512B\|סִ֔ין]] [[H0834A\|אֲשֶׁ֥ר]] [[H0996G\|בֵּין]][[H9014\|־]] [[H0362\|אֵילִ֖ם]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H5514G\|סִינָ֑י]] [[H9003\|בַּ]][[H2568\|חֲמִשָּׁ֨ה]] [[H6240\|עָשָׂ֥ר]] [[H3117G\|יוֹם֙]] [[H9005\|לַ]][[H2320G\|חֹ֣דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֔י]] [[H9005\|לְ]][[H3318G\|צֵאתָ֖]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SIN|SIN]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.15.27|<< Exodus 15:27]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.2|Exodus 16:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

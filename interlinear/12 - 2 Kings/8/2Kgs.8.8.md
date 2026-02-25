@@ -1,8 +1,72 @@
+---
+title: 2 Kings 8:8
+type: Verse
+kjv: "And the king said unto Hazael, Take a present in thine hand, and go, meet the man of God, and inquire of the LORD by him, saying, Shall I recover of this disease?"
+bsb: "So the king said to Hazael, “Take a gift in your hand, go to meet the man of God, and inquire of the LORD through him, ‘Will I recover from this illness?’”"
+hebrew: "וַיֹּ֨אמֶר הַמֶּ֜לֶךְ אֶל־ חֲזָהאֵ֗ל קַ֤ח בְּיָֽדְךָ֙ מִנְחָ֔ה וְלֵ֕ךְ לִקְרַ֖את אִ֣ישׁ הָאֱלֹהִ֑ים וְדָרַשְׁתָּ֨ אֶת־ יְהוָ֤ה מֵֽאוֹתוֹ֙ לֵאמֹ֔ר הַאֶחְיֶ֖ה מֵחֳלִ֥י זֶֽה׃"
+pericope: "[[2Kgs.8.7 Hazael Murders Ben-hadad|Hazael Murders Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HAZAEL|HAZAEL]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2371]]"
+- "[[H3947G]]"
+- "[[H9003]]"
+- "[[H3027I]]"
+- "[[H9021]]"
+- "[[H4503H]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H9033]]"
+- "[[H9008]]"
+- "[[H2421]]"
+- "[[H2483]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:8**<big><big>[[2Kgs.8.7 Hazael Murders Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said unto Hazael, Take a present in thine hand, and go, meet the man of God, and inquire of the LORD by him, saying, Shall I recover of this disease?
 <small><sub>**BSB:**</sub></small>
 So the king said to Hazael, “Take a gift in your hand, go to meet the man of God, and inquire of the LORD through him, ‘Will I recover from this illness?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H2371\|חֲזָהאֵ֗ל]] [[H3947G\|קַ֤ח]] [[H9003\|בְּ]][[H3027I\|יָֽדְ]][[H9021\|ךָ֙]] [[H4503H\|מִנְחָ֔ה]] [[H9002\|וְ]][[H1980G\|לֵ֕ךְ]] [[H9005\|לִ]][[H7122G\|קְרַ֖את]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וְ]][[H1875\|דָרַשְׁתָּ֨]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]] [[H9006\|מֵֽ]][[H0853\|אוֹת]][[H9033\|וֹ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9008\|הַ]][[H2421\|אֶחְיֶ֖ה]] [[H9006\|מֵ]][[H2483\|חֳלִ֥י]] [[H2088\|זֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEN-HADAD|BEN-HADAD]] • [[topic ELISHA|ELISHA]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HAZAEL|HAZAEL]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.7|<< 2 Kings 8:7]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.9|2 Kings 8:9 >>]]</td></tr></table>
 

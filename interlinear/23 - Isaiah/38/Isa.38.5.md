@@ -1,8 +1,69 @@
+---
+title: Isaiah 38:5
+type: Verse
+kjv: "Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years."
+bsb: "“Go and tell Hezekiah that this is what the LORD, the God of your father David, says: ‘I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life."
+hebrew: "הָל֞וֹךְ וְאָמַרְתָּ֣ אֶל־ חִזְקִיָּ֗הוּ כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵי֙ דָּוִ֣ד אָבִ֔יךָ שָׁמַ֙עְתִּי֙ אֶת־ תְּפִלָּתֶ֔ךָ רָאִ֖יתִי אֶת־ דִּמְעָתֶ֑ךָ הִנְנִי֙ יוֹסִ֣ף עַל־ יָמֶ֔יךָ חֲמֵ֥שׁ עֶשְׂרֵ֖ה שָׁנָֽה׃"
+pericope: "[[Isa.38.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic TEARS|TEARS]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2396G]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H8605]]"
+- "[[H7200G]]"
+- "[[H1832]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H3254H]]"
+- "[[H5921A]]"
+- "[[H3117G]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:5**<big><big>[[Isa.38.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go, and say to Hezekiah, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will add unto thy days fifteen years.
 <small><sub>**BSB:**</sub></small>
 “Go and tell Hezekiah that this is what the LORD, the God of your father David, says: ‘I have heard your prayer; I have seen your tears. Behold, I will add fifteen years to your life.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|הָל֞וֹךְ]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֗הוּ]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵי֙]] [[H1732\|דָּוִ֣ד]] [[H0001G\|אָבִ֔י]][[H9021\|ךָ]] [[H8085G\|שָׁמַ֙עְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8605\|תְּפִלָּתֶ֔]][[H9021\|ךָ]] [[H7200G\|רָאִ֖יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H1832\|דִּמְעָתֶ֑]][[H9021\|ךָ]] [[H2005\|הִנְ]][[H9040\|נִי֙]] [[H3254H\|יוֹסִ֣ף]] [[H5921A\|עַל]][[H9014\|־]] [[H3117G\|יָמֶ֔י]][[H9021\|ךָ]] [[H2568\|חֲמֵ֥שׁ]] [[H6240\|עֶשְׂרֵ֖ה]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISEASE|DISEASE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic TEARS|TEARS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.4|<< Isaiah 38:4]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.6|Isaiah 38:6 >>]]</td></tr></table>
 

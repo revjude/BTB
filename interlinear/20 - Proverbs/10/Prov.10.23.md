@@ -1,8 +1,54 @@
+---
+title: Proverbs 10:23
+type: Verse
+kjv: "It is as sport to a fool to do mischief: but a man of understanding hath wisdom."
+bsb: "The fool delights in shameful conduct, but a man of understanding has wisdom."
+hebrew: "כִּשְׂח֣וֹק לִ֭כְסִיל עֲשׂ֣וֹת זִמָּ֑ה וְ֝חָכְמָ֗ה לְאִ֣ישׁ תְּבוּנָֽה׃"
+pericope: "[[Prov.10.1 Solomon’s Proverbs：The Wise Son|Solomon’s Proverbs：The Wise Son]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 10
+book/chapter: "[[Prov.10|Proverbs 10]]"
+chronological_order: 465
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FOOL|FOOL]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9004]]"
+- "[[H7814]]"
+- "[[H9005]]"
+- "[[H3684]]"
+- "[[H6213A]]"
+- "[[H2154]]"
+- "[[H9002]]"
+- "[[H2451]]"
+- "[[H0376G]]"
+- "[[H8394]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 10:23**<big><big>[[Prov.10.1 Solomon’s Proverbs：The Wise Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] as sport to a fool to do mischief: but a man of understanding hath wisdom.
 <small><sub>**BSB:**</sub></small>
 The fool delights in shameful conduct, but a man of understanding has wisdom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כִּ]][[H7814\|שְׂח֣וֹק]] [[H9005\|לִ֭]][[H3684\|כְסִיל]] [[H6213A\|עֲשׂ֣וֹת]] [[H2154\|זִמָּ֑ה]] [[H9002\|וְ֝]][[H2451\|חָכְמָ֗ה]] [[H9005\|לְ]][[H0376G\|אִ֣ישׁ]] [[H8394\|תְּבוּנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FOOL|FOOL]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.10.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.10.22|<< Proverbs 10:22]]</td><td align="center" style="border:none;">[[Prov.10|Proverbs 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.10.24|Proverbs 10:24 >>]]</td></tr></table>
 

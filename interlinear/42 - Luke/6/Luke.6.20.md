@@ -1,10 +1,60 @@
+---
+title: Luke 6:20
+type: Verse
+kjv: "And he lifted up his eyes on his disciples, and said, Blessed be ye poor: for yours is the kingdom of God."
+bsb: "Looking up at His disciples, Jesus said: “Blessed are you who are poor, for yours is the kingdom of God."
+jesus_said: "Blessed be ye poor: for yours is the kingdom of God."
+greek: "Καὶ αὐτὸς ἐπάρας τοὺς ὀφθαλμοὺς αὐτοῦ εἰς τοὺς μαθητὰς αὐτοῦ ἔλεγεν· μακάριοι οἱ πτωχοί, ὅτι ὑμετέρα ἐστὶν ἡ βασιλεία τοῦ θεοῦ.¶"
+pericope: "[[Luke.6.20 The Beatitudes|The Beatitudes]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G1869]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1519]]"
+- "[[G3101]]"
+- "[[G3004G]]"
+- "[[G3107]]"
+- "[[G4434]]"
+- "[[G3754H]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G0932]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **Luke 6:20**<big><big>[[Luke.6.20 The Beatitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he lifted up his eyes on his disciples, and said, Blessed [be ye] poor: for yours is the kingdom of God.
 <small><sub>**BSB:**</sub></small>
 Looking up at His disciples, Jesus said: “Blessed are you who are poor, for yours is the kingdom of God.
-<small><sub>**Literal:**</sub></small>
-And He himself having lifted up the gaze of Him upon the disciples of Him was saying: Blessed [are] the poor, for yours is the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.19|<< Luke 6:19]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.21|Luke 6:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0846\|αὐτὸς]]  [[G1869\|ἐπάρας]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G3004G\|ἔλεγεν·]]  [[G3107\|μακάριοι]]  [[G3588\|οἱ]]  [[G4434\|πτωχοί,]]  [[G3754H\|ὅτι]]  [[G4771\|ὑμετέρα]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POOR|POOR]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.19|<< Luke 6:19]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.21|Luke 6:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

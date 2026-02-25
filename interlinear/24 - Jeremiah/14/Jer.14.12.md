@@ -1,8 +1,71 @@
+---
+title: Jeremiah 14:12
+type: Verse
+kjv: "When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence."
+bsb: "Although they may fast, I will not listen to their cry; although they may offer burnt offerings and grain offerings, I will not accept them. Instead, I will finish them off by sword and famine and plague.”"
+hebrew: "כִּ֣י יָצֻ֗מוּ אֵינֶ֤נִּי שֹׁמֵ֙עַ֙ אֶל־ רִנָּתָ֔ם וְכִ֧י יַעֲל֛וּ עֹלָ֥ה וּמִנְחָ֖ה אֵינֶ֣נִּי רֹצָ֑ם כִּ֗י בַּחֶ֙רֶב֙ וּבָרָעָ֣ב וּבַדֶּ֔בֶר אָנֹכִ֖י מְכַלֶּ֥ה אוֹתָֽם׃ ס"
+pericope: "[[Jer.14.1 Drought, Famine, Sword, and Plague|Drought, Famine, Sword, and Plague]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 14
+book/chapter: "[[Jer.14|Jeremiah 14]]"
+chronological_order: 731
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic FASTING|FASTING]]"
+- "[[topic FORMALISM|FORMALISM]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6684]]"
+- "[[H0369]]"
+- "[[H9040]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7440]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5927I]]"
+- "[[H5930A]]"
+- "[[H4503G]]"
+- "[[H7521]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H1698]]"
+- "[[H0595]]"
+- "[[H3615H]]"
+- "[[H0853]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 14:12**<big><big>[[Jer.14.1 Drought, Famine, Sword, and Plague|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When they fast, I will not hear their cry; and when they offer burnt offering and an oblation, I will not accept them: but I will consume them by the sword, and by the famine, and by the pestilence.
 <small><sub>**BSB:**</sub></small>
 Although they may fast, I will not listen to their cry; although they may offer burnt offerings and grain offerings, I will not accept them. Instead, I will finish them off by sword and famine and plague.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H6684\|יָצֻ֗מוּ]] [[H0369\|אֵינֶ֤]][[H9040\|נִּי]] [[H8085G\|שֹׁמֵ֙עַ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H7440\|רִנָּתָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H3588A\|כִ֧י]] [[H5927I\|יַעֲל֛וּ]] [[H5930A\|עֹלָ֥ה]] [[H9002\|וּ]][[H4503G\|מִנְחָ֖ה]] [[H0369\|אֵינֶ֣]][[H9040\|נִּי]] [[H7521\|רֹצָ֑]][[H9038\|ם]] [[H3588A\|כִּ֗י]] [[H9003\|בַּ]][[H2719\|חֶ֙רֶב֙]] [[H9002\|וּ]][[H9003\|בָ]][[H7458\|רָעָ֣ב]] [[H9002\|וּ]][[H9003\|בַ]][[H1698\|דֶּ֔בֶר]] [[H0595\|אָנֹכִ֖י]] [[H3615H\|מְכַלֶּ֥ה]] [[H0853\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FASTING|FASTING]] • [[topic FORMALISM|FORMALISM]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic OFFERINGS|OFFERINGS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.14.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.11|<< Jeremiah 14:11]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.13|Jeremiah 14:13 >>]]</td></tr></table>
 
@@ -26,7 +89,7 @@ Although they may fast, I will not listen to their cry; although they may offer 
 | and by \<the> pestilence  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בַ]]&#8207;&#8207;[[H1698\|דֶּ֔בֶר]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> va.<small><sup>[[HRd]]</sup></small> De.ver<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0595\|אָנֹכִ֖י]]&#8207; </big>**| 'a.no.Khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [will be] bringing to an end  |**<big>&#8207;[[H3615H\|מְכַלֶּ֥ה]]&#8207; </big>**| me.kha.Leh<small><sup>[[HVprmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> them  |**<big>&#8207;[[H0853\|אוֹתָֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.14.11|<< Jeremiah 14:11]]</td><td align="center" style="border:none;">[[Jer.14|Jeremiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.14.13|Jeremiah 14:13 >>]]</td></tr></table>
 
 

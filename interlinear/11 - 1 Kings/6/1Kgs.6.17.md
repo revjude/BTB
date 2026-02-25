@@ -1,8 +1,55 @@
+---
+title: 1 Kings 6:17
+type: Verse
+kjv: "And the house, that is, the temple before it, was forty cubits long."
+bsb: "And the main hall in front of this room was forty cubits long."
+hebrew: "וְאַרְבָּעִ֥ים בָּאַמָּ֖ה הָיָ֣ה הַבָּ֑יִת ה֖וּא הַהֵיכָ֥ל לִפְנָֽי׃"
+pericope: "[[1Kgs.6.14 The Temple’s Interior|The Temple’s Interior]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0705]]"
+- "[[H9003]]"
+- "[[H0520A]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H1931]]"
+- "[[H1964I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 6:17**<big><big>[[1Kgs.6.14 The Temple’s Interior|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the house, that [is], the temple before it, was forty cubits [long].
 <small><sub>**BSB:**</sub></small>
 And the main hall in front of this room was forty cubits long.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0705\|אַרְבָּעִ֥ים]] [[H9003\|בָּ]][[H0520A\|אַמָּ֖ה]] [[H1961\|הָיָ֣ה]] [[H9009\|הַ]][[H1004B\|בָּ֑יִת]] [[H1931\|ה֖וּא]] [[H9009\|הַ]][[H1964I\|הֵיכָ֥ל]] [[H9005\|לִ]][[H6440G\|פְנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.6.16|<< 1 Kings 6:16]]</td><td align="center" style="border:none;">[[1Kgs.6|1 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.6.18|1 Kings 6:18 >>]]</td></tr></table>
 

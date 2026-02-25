@@ -1,8 +1,78 @@
+---
+title: Genesis 34:30
+type: Verse
+kjv: "And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I being few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house."
+bsb: "Then Jacob said to Simeon and Levi, “You have brought trouble upon me by making me a stench to the Canaanites and Perizzites, the people of this land. We are few in number; if they unite against me and attack me, I and my household will be destroyed.”"
+hebrew: "וַיֹּ֨אמֶר יַעֲקֹ֜ב אֶל־ שִׁמְע֣וֹן וְאֶל־ לֵוִי֮ עֲכַרְתֶּ֣ם אֹתִי֒ לְהַבְאִישֵׁ֙נִי֙ בְּיֹשֵׁ֣ב הָאָ֔רֶץ בַּֽכְּנַעֲנִ֖י וּבַפְּרִזִּ֑י וַאֲנִי֙ מְתֵ֣י מִסְפָּ֔ר וְנֶאֶסְפ֤וּ עָלַי֙ וְהִכּ֔וּנִי וְנִשְׁמַדְתִּ֖י אֲנִ֥י וּבֵיתִֽי׃"
+pericope: "[[Gen.34.13 The Revenge of Dinah’s Brothers|The Revenge of Dinah’s Brothers]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 34
+book/chapter: "[[Gen.34|Genesis 34]]"
+chronological_order: 76
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SIMEON|SIMEON]]"
+- "[[topic VENGEANCE|VENGEANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8095G]]"
+- "[[H9002]]"
+- "[[H3878]]"
+- "[[H5916]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H0887]]"
+- "[[H9003]]"
+- "[[H3427]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3669A]]"
+- "[[H6522]]"
+- "[[H0589]]"
+- "[[H4962]]"
+- "[[H4557]]"
+- "[[H0622]]"
+- "[[H5921A]]"
+- "[[H5221]]"
+- "[[H8045]]"
+- "[[H1004M]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 34:30**<big><big>[[Gen.34.13 The Revenge of Dinah’s Brothers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said to Simeon and Levi, Ye have troubled me to make me to stink among the inhabitants of the land, among the Canaanites and the Perizzites: and I [being] few in number, they shall gather themselves together against me, and slay me; and I shall be destroyed, I and my house.
 <small><sub>**BSB:**</sub></small>
 Then Jacob said to Simeon and Levi, “You have brought trouble upon me by making me a stench to the Canaanites and Perizzites, the people of this land. We are few in number; if they unite against me and attack me, I and my household will be destroyed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3290\|יַעֲקֹ֜ב]] [[H0413\|אֶל]][[H9014\|־]] [[H8095G\|שִׁמְע֣וֹן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3878\|לֵוִי֮]] [[H5916\|עֲכַרְתֶּ֣ם]] [[H0853\|אֹתִ]][[H9030\|י֒]] [[H9005\|לְ]][[H0887\|הַבְאִישֵׁ֙]][[H9030\|נִי֙]] [[H9003\|בְּ]][[H3427\|יֹשֵׁ֣ב]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9003\|בַּֽ]][[H3669A\|כְּנַעֲנִ֖י]] [[H9002\|וּ]][[H9003\|בַ]][[H6522\|פְּרִזִּ֑י]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H4962\|מְתֵ֣י]] [[H4557\|מִסְפָּ֔ר]] [[H9001\|וְ]][[H0622\|נֶאֶסְפ֤וּ]] [[H5921A\|עָלַ]][[H9030\|י֙]] [[H9001\|וְ]][[H5221\|הִכּ֔וּ]][[H9030\|נִי]] [[H9001\|וְ]][[H8045\|נִשְׁמַדְתִּ֖י]] [[H0589\|אֲנִ֥י]] [[H9002\|וּ]][[H1004M\|בֵיתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HOMICIDE|HOMICIDE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SIMEON|SIMEON]] • [[topic VENGEANCE|VENGEANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.34.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.34.29|<< Genesis 34:29]]</td><td align="center" style="border:none;">[[Gen.34|Genesis 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.34.31|Genesis 34:31 >>]]</td></tr></table>
 

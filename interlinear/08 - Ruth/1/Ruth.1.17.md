@@ -1,8 +1,67 @@
+---
+title: Ruth 1:17
+type: Verse
+kjv: "Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, if ought but death part thee and me."
+bsb: "Where you die, I will die, and there I will be buried. May the LORD punish me, and ever so severely, if anything but death separates you and me.”"
+hebrew: "בַּאֲשֶׁ֤ר תָּמ֙וּתִי֙ אָמ֔וּת וְשָׁ֖ם אֶקָּבֵ֑ר כֹּה֩ יַעֲשֶׂ֨ה יְהוָ֥ה לִי֙ וְכֹ֣ה יֹסִ֔יף כִּ֣י הַמָּ֔וֶת יַפְרִ֖יד בֵּינִ֥י וּבֵינֵֽךְ׃"
+pericope: "[[Ruth.1.6 Ruth’s Loyalty to Naomi|Ruth’s Loyalty to Naomi]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic IMPRECATION|IMPRECATION]]"
+- "[[topic MOTHER-IN-LAW|MOTHER-IN-LAW]]"
+- "[[topic OATH|OATH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RUTH|RUTH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9003]]"
+- "[[H0834B]]"
+- "[[H4191]]"
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H6912]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3254H]]"
+- "[[H3588A]]"
+- "[[H9009]]"
+- "[[H4194]]"
+- "[[H6504]]"
+- "[[H0996G]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:17**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, [if ought] but death part thee and me.
 <small><sub>**BSB:**</sub></small>
 Where you die, I will die, and there I will be buried. May the LORD punish me, and ever so severely, if anything but death separates you and me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H0834B\|אֲשֶׁ֤ר]] [[H4191\|תָּמ֙וּתִי֙]] [[H4191\|אָמ֔וּת]] [[H9002\|וְ]][[H8033G\|שָׁ֖ם]] [[H6912\|אֶקָּבֵ֑ר]] [[H3541\|כֹּה֩]] [[H6213A\|יַעֲשֶׂ֨ה]] [[H3068G\|יְהוָ֥ה]] [[H9005\|לִ]][[H9030\|י֙]] [[H9002\|וְ]][[H3541\|כֹ֣ה]] [[H3254H\|יֹסִ֔יף]] [[H3588A\|כִּ֣י]] [[H9009\|הַ]][[H4194\|מָּ֔וֶת]] [[H6504\|יַפְרִ֖יד]] [[H0996G\|בֵּינִ֥]][[H9030\|י]] [[H9002\|וּ]][[H0996G\|בֵינֵֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic IMPRECATION|IMPRECATION]] • [[topic MOTHER-IN-LAW|MOTHER-IN-LAW]] • [[topic OATH|OATH]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RUTH|RUTH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.16|<< Ruth 1:16]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.18|Ruth 1:18 >>]]</td></tr></table>
 

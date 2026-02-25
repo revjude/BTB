@@ -1,8 +1,52 @@
+---
+title: Exodus 39:36
+type: Verse
+kjv: "The table, and all the vessels thereof, and the shewbread,"
+bsb: "the table with all its utensils and the Bread of the Presence;"
+hebrew: "אֶת־ הַשֻּׁלְחָן֙ אֶת־ כָּל־ כֵּלָ֔יו וְאֵ֖ת לֶ֥חֶם הַפָּנִֽים׃"
+pericope: "[[Exod.39.32 Moses Approves the Work|Moses Approves the Work]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7979]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3899H]]"
+- "[[H6440H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:36**<big><big>[[Exod.39.32 Moses Approves the Work|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The table, [and] all the vessels thereof, and the shewbread,
 <small><sub>**BSB:**</sub></small>
 the table with all its utensils and the Bread of the Presence;
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7979\|שֻּׁלְחָן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3627\|כֵּלָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3899H\|לֶ֥חֶם]] [[H9009\|הַ]][[H6440H\|פָּנִֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.35|<< Exodus 39:35]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.37|Exodus 39:37 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Acts 17:19
+type: Verse
+kjv: "And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is?"
+bsb: "So they took Paul and brought him to the Areopagus, where they asked him, “May we know what this new teaching is that you are presenting?"
+greek: "Ἐπιλαβόμενοί τε αὐτοῦ ἐπὶ τὸν Ἄρειον πάγον ἤγαγον λέγοντες· δυνάμεθα γνῶναι τίς ἡ καινὴ αὕτη ἡ ὑπὸ σοῦ λαλουμένη διδαχή;"
+pericope: "[[Acts.17.16 Paul in Athens|Paul in Athens]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AREOPAGUS|AREOPAGUS]]"
+- "[[topic ATHENS|ATHENS]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic MARS' HILL|MARS' HILL]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G1949]]"
+- "[[G5037]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0697]]"
+- "[[G0071]]"
+- "[[G3004G]]"
+- "[[G1410]]"
+- "[[G1097]]"
+- "[[G5101]]"
+- "[[G2537]]"
+- "[[G3778]]"
+- "[[G5259G]]"
+- "[[G4771]]"
+- "[[G2980]]"
+- "[[G1322]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 17:19**<big><big>[[Acts.17.16 Paul in Athens|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, [is]?
 <small><sub>**BSB:**</sub></small>
 So they took Paul and brought him to the Areopagus, where they asked him, “May we know what this new teaching is that you are presenting?
-<small><sub>**Literal:**</sub></small>
-Having taken hold also of him to the Ares Hill they brought [him] saying; Are we able to know what [is] <the> new this which by you is spoken teaching?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.18|<< Acts 17:18]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.20|Acts 17:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1949\|Ἐπιλαβόμενοί]]  [[G5037\|τε]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G0697\|Ἄρειον]]  [[G0697\|πάγον]]  [[G0071\|ἤγαγον]]  [[G3004G\|λέγοντες·]]  [[G1410\|δυνάμεθα]]  [[G1097\|γνῶναι]]  [[G5101\|τίς]]  [[G3588\|ἡ]]  [[G2537\|καινὴ]]  [[G3778\|αὕτη]]  [[G3588\|ἡ]]  [[G5259G\|ὑπὸ]]  [[G4771\|σοῦ]]  [[G2980\|λαλουμένη]]  [[G1322\|διδαχή;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AREOPAGUS|AREOPAGUS]] • [[topic ATHENS|ATHENS]] • [[topic CURIOSITY|CURIOSITY]] • [[topic MARS' HILL|MARS' HILL]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.18|<< Acts 17:18]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.20|Acts 17:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

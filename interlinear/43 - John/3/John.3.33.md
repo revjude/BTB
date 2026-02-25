@@ -1,10 +1,51 @@
+---
+title: John 3:33
+type: Verse
+kjv: "He that hath received his testimony hath set to his seal that God is true."
+bsb: "Whoever accepts His testimony has certified that God is truthful."
+greek: "ὁ λαβὼν αὐτοῦ τὴν μαρτυρίαν ἐσφράγισεν ὅτι ὁ θεὸς ἀληθής ἐστιν."
+pericope: "[[John.3.22 John’s Testimony about Jesus|John’s Testimony about Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G3588]]"
+- "[[G2983]]"
+- "[[G0846]]"
+- "[[G3141]]"
+- "[[G4972]]"
+- "[[G3754G]]"
+- "[[G2316]]"
+- "[[G0227]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **John 3:33**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He that hath received his testimony hath set to his seal that God is true.
 <small><sub>**BSB:**</sub></small>
 Whoever accepts His testimony has certified that God is truthful.
-<small><sub>**Literal:**</sub></small>
-The [one] having received His <the> testimony has set his seal that <the> God true is.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.32|<< John 3:32]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.34|John 3:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2983\|λαβὼν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G4972\|ἐσφράγισεν]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0227\|ἀληθής]]  [[G1510\|ἐστιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JOHN|JOHN]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.32|<< John 3:32]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.34|John 3:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

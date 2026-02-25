@@ -1,10 +1,57 @@
+---
+title: Matthew 22:17
+type: Verse
+kjv: "Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?"
+bsb: "So tell us what You think: Is it lawful to pay taxes to Caesar or not?”"
+greek: "εἰπὲ οὖν ἡμῖν, τί σοι δοκεῖ; ἔξεστιν δοῦναι κῆνσον Καίσαρι ἢ οὔ;¶"
+pericope: "[[Matt.22.15 Paying Taxes to Caesar|Paying Taxes to Caesar]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 22
+book/chapter: "[[Matt.22|Matthew 22]]"
+chronological_order: 993
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G3165]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G1380]]"
+- "[[G1832]]"
+- "[[G1325]]"
+- "[[G2778]]"
+- "[[G2541]]"
+- "[[G2228]]"
+- "[[G3756]]"
+texts:
+- NKO
+---
+
 **Matthew 22:17**<big><big>[[Matt.22.15 Paying Taxes to Caesar|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Caesar, or not?
 <small><sub>**BSB:**</sub></small>
 So tell us what You think: Is it lawful to pay taxes to Caesar or not?”
-<small><sub>**Literal:**</sub></small>
-do tell therefore us what You think? Is it lawful to give tribute to Caesar or not?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.16|<< Matthew 22:16]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.18|Matthew 22:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἰπὲ]]  [[G3767\|οὖν]]  [[G3165\|ἡμῖν,]]  [[G5101\|τί]]  [[G4771\|σοι]]  [[G1380\|δοκεῖ;]]  [[G1832\|ἔξεστιν]]  [[G1325\|δοῦναι]]  [[G2778\|κῆνσον]]  [[G2541\|Καίσαρι]]  [[G2228\|ἢ]]  [[G3756\|οὔ;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.22.16|<< Matthew 22:16]]</td><td align="center" style="border:none;">[[Matt.22|Matthew 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.22.18|Matthew 22:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

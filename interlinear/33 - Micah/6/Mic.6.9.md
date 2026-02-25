@@ -1,8 +1,59 @@
+---
+title: Micah 6:9
+type: Verse
+kjv: "The LORD’S voice crieth unto the city, and the man of wisdom shall see thy name: hear ye the rod, and who hath appointed it."
+bsb: "The voice of the LORD calls out to the city (and it is sound wisdom to fear Your name): “Heed the rod and the One who ordained it."
+hebrew: "ק֤וֹל יְהוָה֙ לָעִ֣יר יִקְרָ֔א וְתוּשִׁיָּ֖ה יִרְאֶ֣ה שְׁמֶ֑ךָ שִׁמְע֥וּ מַטֶּ֖ה וּמִ֥י יְעָדָֽהּ׃"
+pericope: "[[Mic.6.9 The Punishment of Israel|The Punishment of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 6
+book/chapter: "[[Mic.6|Micah 6]]"
+chronological_order: 628
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5892B]]"
+- "[[H7121G]]"
+- "[[H9002]]"
+- "[[H8454]]"
+- "[[H7200G]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H8085G]]"
+- "[[H4294G]]"
+- "[[H4310]]"
+- "[[H3259]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 6:9**<big><big>[[Mic.6.9 The Punishment of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD’S voice crieth unto the city, and [the man of] wisdom shall see thy name: hear ye the rod, and who hath appointed it.
 <small><sub>**BSB:**</sub></small>
 The voice of the LORD calls out to the city (and it is sound wisdom to fear Your name): “Heed the rod and the One who ordained it.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֤וֹל]] [[H3068G\|יְהוָה֙]] [[H9005\|לָ]][[H5892B\|עִ֣יר]] [[H7121G\|יִקְרָ֔א]] [[H9002\|וְ]][[H8454\|תוּשִׁיָּ֖ה]] [[H7200G\|יִרְאֶ֣ה]] [[H8034\|שְׁמֶ֑]][[H9021\|ךָ]] [[H8085G\|שִׁמְע֥וּ]] [[H4294G\|מַטֶּ֖ה]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H3259\|יְעָדָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic RESIGNATION|RESIGNATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.6.8|<< Micah 6:8]]</td><td align="center" style="border:none;">[[Mic.6|Micah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.6.10|Micah 6:10 >>]]</td></tr></table>
 

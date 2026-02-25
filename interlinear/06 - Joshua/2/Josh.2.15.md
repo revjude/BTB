@@ -1,8 +1,63 @@
+---
+title: Joshua 2:15
+type: Verse
+kjv: "Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall."
+bsb: "Then Rahab let them down by a rope through the window, since the house where she lived was built into the wall of the city."
+hebrew: "וַתּוֹרִדֵ֥ם בַּחֶ֖בֶל בְּעַ֣ד הַֽחַלּ֑וֹן כִּ֤י בֵיתָהּ֙ בְּקִ֣יר הַֽחוֹמָ֔ה וּבַֽחוֹמָ֖ה הִ֥יא יוֹשָֽׁבֶת׃"
+pericope: "[[Josh.2.8 The Promise to Rahab|The Promise to Rahab]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 2
+book/chapter: "[[Josh.2|Joshua 2]]"
+chronological_order: 232
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic RECONNOISSANCE|RECONNOISSANCE]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H2256M]]"
+- "[[H1157]]"
+- "[[H9009]]"
+- "[[H2474]]"
+- "[[H3588A]]"
+- "[[H1004B]]"
+- "[[H9024]]"
+- "[[H7023]]"
+- "[[H2346G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 2:15**<big><big>[[Josh.2.8 The Promise to Rahab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then she let them down by a cord through the window: for her house [was] upon the town wall, and she dwelt upon the wall.
 <small><sub>**BSB:**</sub></small>
 Then Rahab let them down by a rope through the window, since the house where she lived was built into the wall of the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|תּוֹרִדֵ֥]][[H9038\|ם]] [[H9003\|בַּ]][[H2256M\|חֶ֖בֶל]] [[H1157\|בְּעַ֣ד]] [[H9009\|הַֽ]][[H2474\|חַלּ֑וֹן]] [[H3588A\|כִּ֤י]] [[H1004B\|בֵיתָ]][[H9024\|הּ֙]] [[H9003\|בְּ]][[H7023\|קִ֣יר]] [[H9009\|הַֽ]][[H2346G\|חוֹמָ֔ה]] [[H9002\|וּ]][[H9003\|בַֽ]][[H2346G\|חוֹמָ֖ה]] [[H1931\|הִ֥יא]] [[H3427\|יוֹשָֽׁבֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HOUSE|HOUSE]] • [[topic KINDNESS|KINDNESS]] • [[topic RECONNOISSANCE|RECONNOISSANCE]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]] • [[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.2.14|<< Joshua 2:14]]</td><td align="center" style="border:none;">[[Josh.2|Joshua 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.2.16|Joshua 2:16 >>]]</td></tr></table>
 

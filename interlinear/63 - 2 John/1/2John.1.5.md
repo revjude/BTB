@@ -1,10 +1,55 @@
+---
+title: 2 John 1:5
+type: Verse
+kjv: "And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another."
+bsb: "And now I urge you, dear lady—not as a new commandment to you, but one we have had from the beginning—that we love one another."
+greek: "καὶ νῦν ἐρωτῶ σε, κυρία, οὐχ ὡς ἐντολὴν καινὴν γράφων σοι, ἀλλ᾽ ἣν εἴχομεν ἀπ᾽ ἀρχῆς, ἵνα ἀγαπῶμεν ἀλλήλους."
+pericope: "[[2John.1.4 Walking in the Truth|Walking in the Truth]]"
+original_language: Greek
+testament: New
+book: 2 John
+chapter: 1
+book/chapter: "[[2John.1|2 John 1]]"
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+- polemical
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G2065]]"
+- "[[G4771]]"
+- "[[G2959]]"
+- "[[G3756]]"
+- "[[G5613]]"
+- "[[G1785]]"
+- "[[G2537]]"
+- "[[G1125]]"
+- "[[G0235]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G2443]]"
+- "[[G0025]]"
+- "[[G0240]]"
+texts:
+- NKO
+---
+
 **2 John 1:5**<big><big>[[2John.1.4 Walking in the Truth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.
 <small><sub>**BSB:**</sub></small>
 And now I urge you, dear lady—not as a new commandment to you, but one we have had from the beginning—that we love one another.
-<small><sub>**Literal:**</sub></small>
-And now I implore you, lady, not as a commandment new I am writing to you but that which we have had from [the] beginning, that we may love one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.4|<< 2 John 1:4]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.6|2 John 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3568\|νῦν]]  [[G2065\|ἐρωτῶ]]  [[G4771\|σε,]]  [[G2959\|κυρία,]]  [[G3756\|οὐχ]]  [[G5613\|ὡς]]  [[G1785\|ἐντολὴν]]  [[G2537\|καινὴν]]  [[G1125\|γράφων]]  [[G4771\|σοι,]]  [[G0235\|ἀλλ᾽]]  [[G3739\|ἣν]]  [[G2192\|εἴχομεν]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς,]]  [[G2443\|ἵνα]]  [[G0025\|ἀγαπῶμεν]]  [[G0240\|ἀλλήλους.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2John.1.4|<< 2 John 1:4]]</td><td align="center" style="border:none;">[[2John.1|2 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2John.1.6|2 John 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

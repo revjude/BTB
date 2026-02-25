@@ -1,10 +1,70 @@
+---
+title: Luke 12:1
+type: Verse
+kjv: "In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy."
+bsb: "In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy."
+jesus_said: "Beware ye of the leaven of the Pharisees, which is hypocrisy."
+greek: "Ἐν οἷς ἐπισυναχθεισῶν τῶν μυριάδων τοῦ ὄχλου ὥστε καταπατεῖν ἀλλήλους ἤρξατο λέγειν πρὸς τοὺς μαθητὰς αὐτοῦ πρῶτον· προσέχετε ἑαυτοῖς ἀπὸ τῆς ζύμης ἥτις ἐστὶν ὑπόκρισις τῶν Φαρισαίων.¶"
+pericope: "[[Luke.12.1 The Leaven of the Pharisees|The Leaven of the Pharisees]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1996]]"
+- "[[G3588]]"
+- "[[G3461]]"
+- "[[G3793]]"
+- "[[G5620]]"
+- "[[G2662]]"
+- "[[G0240]]"
+- "[[G0757]]"
+- "[[G3004G]]"
+- "[[G4314]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G4413G]]"
+- "[[G4337]]"
+- "[[G1438]]"
+- "[[G0575]]"
+- "[[G2219]]"
+- "[[G3748]]"
+- "[[G1510]]"
+- "[[G5272]]"
+- "[[G5330]]"
+texts:
+- NKO
+---
+
 **Luke 12:1**<big><big>[[Luke.12.1 The Leaven of the Pharisees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all, Beware ye of the leaven of the Pharisees, which is hypocrisy.
 <small><sub>**BSB:**</sub></small>
 In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy.
-<small><sub>**Literal:**</sub></small>
-In these [times] when were gathering the myriads of the crowd so as to trample upon one another He began to say to the disciples of Him first; do take heed to yourselves of the leaven which is hypocrisy of the Pharisees.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.54|<< Luke 11:54]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.2|Luke 12:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|Ἐν]]  [[G3739\|οἷς]]  [[G1996\|ἐπισυναχθεισῶν]]  [[G3588\|τῶν]]  [[G3461\|μυριάδων]]  [[G3588\|τοῦ]]  [[G3793\|ὄχλου]]  [[G5620\|ὥστε]]  [[G2662\|καταπατεῖν]]  [[G0240\|ἀλλήλους]]  [[G0757\|ἤρξατο]]  [[G3004G\|λέγειν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G4413G\|πρῶτον·]]  [[G4337\|προσέχετε]]  [[G1438\|ἑαυτοῖς]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2219\|ζύμης]]  [[G3748\|ἥτις]]  [[G1510\|ἐστὶν]]  [[G5272\|ὑπόκρισις]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic INFLUENCE|INFLUENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.54|<< Luke 11:54]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.2|Luke 12:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

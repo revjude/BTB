@@ -1,8 +1,59 @@
+---
+title: Exodus 5:17
+type: Verse
+kjv: "But he said, Ye are idle, ye are idle: therefore ye say, Let us go and do sacrifice to the LORD."
+bsb: "“You are slackers!” Pharaoh replied. “Slackers! That is why you keep saying, ‘Let us go and sacrifice to the LORD.’"
+hebrew: "וַיֹּ֛אמֶר נִרְפִּ֥ים אַתֶּ֖ם נִרְפִּ֑ים עַל־ כֵּן֙ אַתֶּ֣ם אֹֽמְרִ֔ים נֵלְכָ֖ה נִזְבְּחָ֥ה לַֽיהוָֽה׃"
+pericope: "[[Exod.5.15 The Cry of the Israelites|The Cry of the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 5
+book/chapter: "[[Exod.5|Exodus 5]]"
+chronological_order: 97
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BRICK|BRICK]]"
+- "[[topic CRUELTY|CRUELTY]]"
+- "[[topic PETITION|PETITION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H7503]]"
+- "[[H0859D]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H1980G]]"
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 5:17**<big><big>[[Exod.5.15 The Cry of the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But he said, Ye [are] idle, [ye are] idle: therefore ye say, Let us go [and] do sacrifice to the LORD.
 <small><sub>**BSB:**</sub></small>
 “You are slackers!” Pharaoh replied. “Slackers! That is why you keep saying, ‘Let us go and sacrifice to the LORD.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֛אמֶר]] [[H7503\|נִרְפִּ֥ים]] [[H0859D\|אַתֶּ֖ם]] [[H7503\|נִרְפִּ֑ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H0859D\|אַתֶּ֣ם]] [[H0559\|אֹֽמְרִ֔ים]] [[H1980G\|נֵלְכָ֖ה]] [[H2076\|נִזְבְּחָ֥ה]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRICK|BRICK]] • [[topic CRUELTY|CRUELTY]] • [[topic PETITION|PETITION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.5.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.5.16|<< Exodus 5:16]]</td><td align="center" style="border:none;">[[Exod.5|Exodus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.5.18|Exodus 5:18 >>]]</td></tr></table>
 

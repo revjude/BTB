@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Soldiers Mock Jesus
+type: Pericope
 pericope: "[[Matt.27.27 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 27
 book/chapter: "[[Matt.27|Matthew 27]]"
-genre:
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Matt.27.27]]"
 - "[[Matt.27.28]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Matt.27.31]]"
 ---
 
-[[Matt.27|Matthew 27:27 - Matthew 27:31]]
+<small>[[Matt.27|Matthew 27:27-31]]</small>
 *The Soldiers Mock Jesus*
 
 [[Matt.27.27|27]] Then the soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band \[of soldiers\].

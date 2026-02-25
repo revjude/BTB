@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Demons and the Pigs
+type: Pericope
 pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
-verse_count: 14
+original_language: Greek
 testament: New
 book: Luke
 chapter: 8
 book/chapter: "[[Luke.8|Luke 8]]"
-genre:
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 14
 verses:
 - "[[Luke.8.26]]"
 - "[[Luke.8.27]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Luke.8.39]]"
 ---
 
-[[Luke.8|Luke 8:26 - Luke 8:39]]
+<small>[[Luke.8|Luke 8:26-39]]</small>
 *The Demons and the Pigs*
 
 [[Luke.8.26|26]] And they arrived at the country of the Gadarenes, which is over against Galilee.

@@ -1,8 +1,62 @@
+---
+title: 2 Kings 8:14
+type: Verse
+kjv: "So he departed from Elisha, and came to his master; who said to him, What said Elisha to thee? And he answered, He told me that thou shouldest surely recover."
+bsb: "So Hazael left Elisha and went to his master, who asked him, “What did Elisha say to you?” And he replied, “He told me that you would surely recover.”"
+hebrew: "וַיֵּ֣לֶךְ׀ מֵאֵ֣ת אֱלִישָׁ֗ע וַיָּבֹא֙ אֶל־ אֲדֹנָ֔יו וַיֹּ֣אמֶר ל֔וֹ מָֽה־ אָמַ֥ר לְךָ֖ אֱלִישָׁ֑ע וַיֹּ֕אמֶר אָ֥מַר לִ֖י חָיֹ֥ה תִחְיֶֽה׃"
+pericope: "[[2Kgs.8.7 Hazael Murders Ben-hadad|Hazael Murders Ben-hadad]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BEN-HADAD|BEN-HADAD]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HAZAEL|HAZAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H0477]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H9031]]"
+- "[[H9030]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:14**<big><big>[[2Kgs.8.7 Hazael Murders Ben-hadad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he departed from Elisha, and came to his master; who said to him, What said Elisha to thee? And he answered, He told me [that] thou shouldest surely recover.
 <small><sub>**BSB:**</sub></small>
 So Hazael left Elisha and went to his master, who asked him, “What did Elisha say to you?” And he replied, “He told me that you would surely recover.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]][[H9015\|׀]] [[H9006\|מֵ]][[H0854\|אֵ֣ת]] [[H0477\|אֱלִישָׁ֗ע]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹנָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H4100\|מָֽה]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0477\|אֱלִישָׁ֑ע]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0559\|אָ֥מַר]] [[H9005\|לִ֖]][[H9030\|י]] [[H2421\|חָיֹ֥ה]] [[H2421\|תִחְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEN-HADAD|BEN-HADAD]] • [[topic ELISHA|ELISHA]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HAZAEL|HAZAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.13|<< 2 Kings 8:13]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.15|2 Kings 8:15 >>]]</td></tr></table>
 

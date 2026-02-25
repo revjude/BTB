@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Serving with Honor
+type: Pericope
 pericope: "[[Eph.6.5 Serving with Honor|Serving with Honor]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 6
 book/chapter: "[[Eph.6|Ephesians 6]]"
-genre:
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 5
 verses:
 - "[[Eph.6.5]]"
 - "[[Eph.6.6]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Eph.6.9]]"
 ---
 
-[[Eph.6|Ephesians 6:5 - Ephesians 6:9]]
+<small>[[Eph.6|Ephesians 6:5-9]]</small>
 *Serving with Honor*
 
 [[Eph.6.5|5]] Servants, be obedient to them that are \[your\] masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;

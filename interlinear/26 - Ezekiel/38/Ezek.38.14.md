@@ -1,8 +1,65 @@
+---
+title: Ezekiel 38:14
+type: Verse
+kjv: "Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD; In that day when my people of Israel dwelleth safely, shalt thou not know it?"
+bsb: "Therefore prophesy, son of man, and tell Gog that this is what the Lord GOD says: On that day when My people Israel are dwelling securely, will you not take notice of this?"
+hebrew: "לָכֵן֙ הִנָּבֵ֣א בֶן־ אָדָ֔ם וְאָמַרְתָּ֣ לְג֔וֹג כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה הֲל֣וֹא׀ בַּיּ֣וֹם הַה֗וּא בְּשֶׁ֨בֶת עַמִּ֧י יִשְׂרָאֵ֛ל לָבֶ֖טַח תֵּדָֽע׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H5012]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1463H]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H0983]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:14**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD; In that day when my people of Israel dwelleth safely, shalt thou not know [it]?
 <small><sub>**BSB:**</sub></small>
 Therefore prophesy, son of man, and tell Gog that this is what the Lord GOD says: On that day when My people Israel are dwelling securely, will you not take notice of this?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵן֙]] [[H5012\|הִנָּבֵ֣א]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֔ם]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H9005\|לְ]][[H1463H\|ג֔וֹג]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H9003\|בְּ]][[H3427\|שֶׁ֨בֶת]] [[H5971A\|עַמִּ֧]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9005\|לָ]][[H0983\|בֶ֖טַח]] [[H3045\|תֵּדָֽע]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.13|<< Ezekiel 38:13]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.15|Ezekiel 38:15 >>]]</td></tr></table>
 

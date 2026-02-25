@@ -1,8 +1,65 @@
+---
+title: Numbers 6:9
+type: Verse
+kjv: "And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it."
+bsb: "If someone suddenly dies in his presence and defiles his consecrated head of hair, he must shave his head on the day of his cleansing—the seventh day."
+hebrew: "וְכִֽי־ יָמ֨וּת מֵ֤ת עָלָיו֙ בְּפֶ֣תַע פִּתְאֹ֔ם וְטִמֵּ֖א רֹ֣אשׁ נִזְר֑וֹ וְגִלַּ֤ח רֹאשׁוֹ֙ בְּי֣וֹם טָהֳרָת֔וֹ בַּיּ֥וֹם הַשְּׁבִיעִ֖י יְגַלְּחֶֽנּוּ׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4191]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H6621]]"
+- "[[H6597]]"
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H7218A]]"
+- "[[H5145G]]"
+- "[[H9023]]"
+- "[[H1548]]"
+- "[[H3117G]]"
+- "[[H2893]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:9**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if any man die very suddenly by him, and he hath defiled the head of his consecration; then he shall shave his head in the day of his cleansing, on the seventh day shall he shave it.
 <small><sub>**BSB:**</sub></small>
 If someone suddenly dies in his presence and defiles his consecrated head of hair, he must shave his head on the day of his cleansing—the seventh day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H4191\|יָמ֨וּת]] [[H4191\|מֵ֤ת]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H9003\|בְּ]][[H6621\|פֶ֣תַע]] [[H6597\|פִּתְאֹ֔ם]] [[H9001\|וְ]][[H2930A\|טִמֵּ֖א]] [[H7218A\|רֹ֣אשׁ]] [[H5145G\|נִזְר֑]][[H9023\|וֹ]] [[H9001\|וְ]][[H1548\|גִלַּ֤ח]] [[H7218A\|רֹאשׁ]][[H9023\|וֹ֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H2893\|טָהֳרָת֔]][[H9023\|וֹ]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֖י]] [[H1548\|יְגַלְּחֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.8|<< Numbers 6:8]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.10|Numbers 6:10 >>]]</td></tr></table>
 

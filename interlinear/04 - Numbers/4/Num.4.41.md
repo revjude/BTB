@@ -1,8 +1,64 @@
+---
+title: Numbers 4:41
+type: Verse
+kjv: "These are they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD."
+bsb: "These were counted from the Gershonite clans who served at the Tent of Meeting, whom Moses and Aaron counted at the LORD’s command."
+hebrew: "אֵ֣לֶּה פְקוּדֵ֗י מִשְׁפְּחֹת֙ בְּנֵ֣י גֵרְשׁ֔וֹן כָּל־ הָעֹבֵ֖ד בְּאֹ֣הֶל מוֹעֵ֑ד אֲשֶׁ֨ר פָּקַ֥ד מֹשֶׁ֛ה וְאַהֲרֹ֖ן עַל־ פִּ֥י יְהוָֽה׃"
+pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H0428]]"
+- "[[H6485A]]"
+- "[[H4940]]"
+- "[[H1121G]]"
+- "[[H1648]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5647H]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H0834A]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H5921A]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:41**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] they that were numbered of the families of the sons of Gershon, of all that might do service in the tabernacle of the congregation, whom Moses and Aaron did number according to the commandment of the LORD.
 <small><sub>**BSB:**</sub></small>
 These were counted from the Gershonite clans who served at the Tent of Meeting, whom Moses and Aaron counted at the LORD’s command.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]] [[H6485A\|פְקוּדֵ֗י]] [[H4940\|מִשְׁפְּחֹת֙]] [[H1121G\|בְּנֵ֣י]] [[H1648\|גֵרְשׁ֔וֹן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5647H\|עֹבֵ֖ד]] [[H9003\|בְּ]][[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H0834A\|אֲשֶׁ֨ר]] [[H6485A\|פָּקַ֥ד]] [[H4872\|מֹשֶׁ֛ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֖ן]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.40|<< Numbers 4:40]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.42|Numbers 4:42 >>]]</td></tr></table>
 

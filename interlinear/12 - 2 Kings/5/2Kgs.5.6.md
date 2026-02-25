@@ -1,8 +1,75 @@
+---
+title: 2 Kings 5:6
+type: Verse
+kjv: "And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have therewith sent Naaman my servant to thee, that thou mayest recover him of his leprosy."
+bsb: "And the letter that he took to the king of Israel stated: “With this letter I am sending my servant Naaman, so that you may cure him of his leprosy.”"
+hebrew: "וַיָּבֵ֣א הַסֵּ֔פֶר אֶל־ מֶ֥לֶךְ יִשְׂרָאֵ֖ל לֵאמֹ֑ר וְעַתָּ֗ה כְּב֨וֹא הַסֵּ֤פֶר הַזֶּה֙ אֵלֶ֔יךָ הִנֵּ֨ה שָׁלַ֤חְתִּי אֵלֶ֙יךָ֙ אֶת־ נַעֲמָ֣ן עַבְדִּ֔י וַאֲסַפְתּ֖וֹ מִצָּרַעְתּֽוֹ׃"
+pericope: "[[2Kgs.5.1 Naaman Cured of Leprosy|Naaman Cured of Leprosy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 5
+book/chapter: "[[2Kgs.5|2 Kings 5]]"
+chronological_order: 577
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic NAAMAN|NAAMAN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9009]]"
+- "[[H5612A]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9004]]"
+- "[[H0935G]]"
+- "[[H2088]]"
+- "[[H9031]]"
+- "[[H2009]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H5283I]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H0622]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H6883]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 5:6**<big><big>[[2Kgs.5.1 Naaman Cured of Leprosy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have [therewith] sent Naaman my servant to thee, that thou mayest recover him of his leprosy.
 <small><sub>**BSB:**</sub></small>
 And the letter that he took to the king of Israel stated: “With this letter I am sending my servant Naaman, so that you may cure him of his leprosy.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבֵ֣א]] [[H9009\|הַ]][[H5612A\|סֵּ֔פֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H9004\|כְּ]][[H0935G\|ב֨וֹא]] [[H9009\|הַ]][[H5612A\|סֵּ֤פֶר]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H2009\|הִנֵּ֨ה]] [[H7971G\|שָׁלַ֤חְתִּי]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5283I\|נַעֲמָ֣ן]] [[H5650\|עַבְדִּ֔]][[H9020\|י]] [[H9001\|וַ]][[H0622\|אֲסַפְתּ֖]][[H9033\|וֹ]] [[H9006\|מִ]][[H6883\|צָּרַעְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JORAM|JORAM]] • [[topic LETTERS|LETTERS]] • [[topic MIRACLES|MIRACLES]] • [[topic MOTIVE|MOTIVE]] • [[topic NAAMAN|NAAMAN]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.5.5|<< 2 Kings 5:5]]</td><td align="center" style="border:none;">[[2Kgs.5|2 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.5.7|2 Kings 5:7 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Second Day
+type: Pericope
 pericope: "[[Gen.1.6 The Second Day|The Second Day]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 1
 book/chapter: "[[Gen.1|Genesis 1]]"
-genre:
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,13 +24,14 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 3
 verses:
 - "[[Gen.1.6]]"
 - "[[Gen.1.7]]"
 - "[[Gen.1.8]]"
 ---
 
-[[Gen.1|Genesis 1:6 - Genesis 1:8]]
+<small>[[Gen.1|Genesis 1:6-8]]</small>
 *The Second Day*
 
 [[Gen.1.6|6]] And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment to Come
+type: Pericope
 pericope: "[[Mic.1.1 Judgment to Come|Judgment to Come]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 1
 book/chapter: "[[Mic.1|Micah 1]]"
-genre:
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 7
 verses:
 - "[[Mic.1.1]]"
 - "[[Mic.1.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mic.1.7]]"
 ---
 
-[[Mic.1|Micah 1:1 - Micah 1:7]]
+<small>[[Mic.1|Micah 1:1-7]]</small>
 *Judgment to Come*
 
 [[Mic.1.1|1]] The word of the LORD that came to Micah the Morasthite in the days of Jotham, Ahaz, \[and\] Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.

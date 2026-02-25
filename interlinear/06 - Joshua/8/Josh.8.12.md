@@ -1,8 +1,63 @@
+---
+title: Joshua 8:12
+type: Verse
+kjv: "And he took about five thousand men, and set them to lie in ambush between Bethel and Ai, on the west side of the city."
+bsb: "Now Joshua had taken about five thousand men and set up an ambush between Bethel and Ai, to the west of the city."
+hebrew: "וַיִּקַּ֕ח כַּחֲמֵ֥שֶׁת אֲלָפִ֖ים אִ֑ישׁ וַיָּ֨שֶׂם אוֹתָ֜ם אֹרֵ֗ב בֵּ֧ין בֵּֽית־ אֵ֛ל וּבֵ֥ין הָעַ֖י מִיָּ֥ם לָעִֽיר׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9004]]"
+- "[[H2568]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H7760A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H0693]]"
+- "[[H0996G]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H9006]]"
+- "[[H3220H]]"
+- "[[H9005]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:12**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he took about five thousand men, and set them to lie in ambush between Bethel and Ai, on the west side of the city.
 <small><sub>**BSB:**</sub></small>
 Now Joshua had taken about five thousand men and set up an ambush between Bethel and Ai, to the west of the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֕ח]] [[H9004\|כַּ]][[H2568\|חֲמֵ֥שֶׁת]] [[H0505G\|אֲלָפִ֖ים]] [[H0376G\|אִ֑ישׁ]] [[H9001\|וַ]][[H7760A\|יָּ֨שֶׂם]] [[H0853\|אוֹתָ֜]][[H9038\|ם]] [[H0693\|אֹרֵ֗ב]] [[H0996G\|בֵּ֧ין]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֛ל]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H9009\|הָ]][[H5857G\|עַ֖י]] [[H9006\|מִ]][[H3220H\|יָּ֥ם]] [[H9005\|לָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.11|<< Joshua 8:11]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.13|Joshua 8:13 >>]]</td></tr></table>
 

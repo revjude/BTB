@@ -1,10 +1,60 @@
+---
+title: Matthew 21:44
+type: Verse
+kjv: "And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder."
+bsb: "He who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.”"
+jesus_said: "And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder."
+greek: "καὶ ὁ πεσὼν ἐπὶ τὸν λίθον τοῦτον συνθλασθήσεται· ἐφ᾽ ὃν δ᾽ ἂν πέσῃ, λικμήσει αὐτόν.¶"
+pericope: "[[Matt.21.33 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HUSBANDMAN|HUSBANDMAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic STONES|STONES]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G3037]]"
+- "[[G3778]]"
+- "[[G4917]]"
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G0302]]"
+- "[[G3039]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 21:44**<big><big>[[Matt.21.33 The Parable of the Wicked Tenants|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And whosoever shall fall on this stone shall be broken: but on whomsoever it shall fall, it will grind him to powder.
 <small><sub>**BSB:**</sub></small>
 He who falls on this stone will be broken to pieces, but he on whom it falls will be crushed.”
-<small><sub>**Literal:**</sub></small>
-And the [one] having fallen on <the> stone this will be broken; on whomever but maybe it may fall, it will grind to powder him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.43|<< Matthew 21:43]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.45|Matthew 21:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4098\|πεσὼν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G3037\|λίθον]]  [[G3778\|τοῦτον]]  [[G4917\|συνθλασθήσεται·]]  [[G1909\|ἐφ᾽]]  [[G3739\|ὃν]]  [[G1161\|δ᾽]]  [[G0302\|ἂν]]  [[G4098\|πέσῃ,]]  [[G3039\|λικμήσει]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HUSBANDMAN|HUSBANDMAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic STONES|STONES]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.43|<< Matthew 21:43]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.45|Matthew 21:45 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 21:44** is...
 > $\quad$ alluding to: [[LXX.Isa.8.14|Isa 8:14]] ☩ [[LXX.Zech.12.3|Zech 12:3]] ☩ [[LXX.Dan.2.34|Dan 2:34-35]] ☩ [[LXX.Dan.2.44|Dan 2:44]]

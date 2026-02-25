@@ -1,10 +1,67 @@
+---
+title: Luke 12:36
+type: Verse
+kjv: "And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately."
+bsb: "Then you will be like servants waiting for their master to return from the wedding banquet, so that when he comes and knocks, they can open the door for him at once."
+jesus_said: "And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately."
+greek: "καὶ ὑμεῖς ὅμοιοι ἀνθρώποις προσδεχομένοις τὸν κύριον ἑαυτῶν πότε ἀναλύσῃ ἐκ τῶν γάμων, ἵνα ἐλθόντος καὶ κρούσαντος εὐθέως ἀνοίξωσιν αὐτῷ."
+pericope: "[[Luke.12.35 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WAITING|WAITING]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3664]]"
+- "[[G0444]]"
+- "[[G4327]]"
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G1438]]"
+- "[[G4219]]"
+- "[[G0360]]"
+- "[[G1537]]"
+- "[[G1062]]"
+- "[[G2443]]"
+- "[[G2064]]"
+- "[[G2925]]"
+- "[[G2112]]"
+- "[[G0455]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 12:36**<big><big>[[Luke.12.35 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ye yourselves like unto men that wait for their lord, when he will return from the wedding; that when he cometh and knocketh, they may open unto him immediately.
 <small><sub>**BSB:**</sub></small>
 Then you will be like servants waiting for their master to return from the wedding banquet, so that when he comes and knocks, they can open the door for him at once.
-<small><sub>**Literal:**</sub></small>
-and you yourselves like to men waiting for the master of themselves whenever he may return from the wedding feasts, that having come and having knocked immediately they may open to him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.35|<< Luke 12:35]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.37|Luke 12:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G3664\|ὅμοιοι]]  [[G0444\|ἀνθρώποις]]  [[G4327\|προσδεχομένοις]]  [[G3588\|τὸν]]  [[G2962H\|κύριον]]  [[G1438\|ἑαυτῶν]]  [[G4219\|πότε]]  [[G0360\|ἀναλύσῃ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1062\|γάμων,]]  [[G2443\|ἵνα]]  [[G2064\|ἐλθόντος]]  [[G2532\|καὶ]]  [[G2925\|κρούσαντος]]  [[G2112\|εὐθέως]]  [[G0455\|ἀνοίξωσιν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WAITING|WAITING]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.35|<< Luke 12:35]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.37|Luke 12:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,62 @@
+---
+title: Exodus 37:13
+type: Verse
+kjv: "And he cast for it four rings of gold, and put the rings upon the four corners that were in the four feet thereof."
+bsb: "He cast four gold rings for the table and fastened them to the four corners at its four legs."
+hebrew: "וַיִּצֹ֣ק ל֔וֹ אַרְבַּ֖ע טַבְּעֹ֣ת זָהָ֑ב וַיִּתֵּן֙ אֶת־ הַטַּבָּעֹ֔ת עַ֚ל אַרְבַּ֣ע הַפֵּאֹ֔ת אֲשֶׁ֖ר לְאַרְבַּ֥ע רַגְלָֽיו׃"
+pericope: "[[Exod.37.10 The Table of Showbread|The Table of Showbread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3332H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0702]]"
+- "[[H2885]]"
+- "[[H2091]]"
+- "[[H5414H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5921A]]"
+- "[[H6285]]"
+- "[[H0834A]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 37:13**<big><big>[[Exod.37.10 The Table of Showbread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he cast for it four rings of gold, and put the rings upon the four corners that [were] in the four feet thereof.
 <small><sub>**BSB:**</sub></small>
 He cast four gold rings for the table and fastened them to the four corners at its four legs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3332H\|יִּצֹ֣ק]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H0702\|אַרְבַּ֖ע]] [[H2885\|טַבְּעֹ֣ת]] [[H2091\|זָהָ֑ב]] [[H9001\|וַ]][[H5414H\|יִּתֵּן֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2885\|טַּבָּעֹ֔ת]] [[H5921A\|עַ֚ל]] [[H0702\|אַרְבַּ֣ע]] [[H9009\|הַ]][[H6285\|פֵּאֹ֔ת]] [[H0834A\|אֲשֶׁ֖ר]] [[H9005\|לְ]][[H0702\|אַרְבַּ֥ע]] [[H7272\|רַגְלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.12|<< Exodus 37:12]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.14|Exodus 37:14 >>]]</td></tr></table>
 

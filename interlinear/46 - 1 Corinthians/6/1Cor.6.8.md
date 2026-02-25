@@ -1,10 +1,52 @@
+---
+title: 1 Corinthians 6:8
+type: Verse
+kjv: "Nay, ye do wrong, and defraud, and that your brethren."
+bsb: "Instead, you yourselves cheat and do wrong, even against your own brothers!"
+greek: "ἀλλ᾽ ὑμεῖς ἀδικεῖτε καὶ ἀποστερεῖτε, καὶ τοῦτο ἀδελφούς."
+pericope: "[[1Cor.6.1 Lawsuits among Believers|Lawsuits among Believers]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 6
+book/chapter: "[[1Cor.6|1 Corinthians 6]]"
+chronological_order: 1063
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ARBITRATION|ARBITRATION]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic LAWSUITS|LAWSUITS]]"
+- "[[topic LITIGATION|LITIGATION]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[G0235]]"
+- "[[G4771]]"
+- "[[G0091]]"
+- "[[G2532]]"
+- "[[G0650]]"
+- "[[G3778]]"
+- "[[G0080]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Corinthians 6:8**<big><big>[[1Cor.6.1 Lawsuits among Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nay, ye do wrong, and defraud, and that [your] brethren.
 <small><sub>**BSB:**</sub></small>
 Instead, you yourselves cheat and do wrong, even against your own brothers!
-<small><sub>**Literal:**</sub></small>
-But you yourselves do wrong and defraud, and this [thing] to brothers!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.7|<< 1 Corinthians 6:7]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.9|1 Corinthians 6:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G4771\|ὑμεῖς]]  [[G0091\|ἀδικεῖτε]]  [[G2532\|καὶ]]  [[G0650\|ἀποστερεῖτε,]]  [[G2532\|καὶ]]  [[G3778\|τοῦτο]]  [[G0080\|ἀδελφούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARBITRATION|ARBITRATION]] • [[topic FRATERNITY|FRATERNITY]] • [[topic LAWSUITS|LAWSUITS]] • [[topic LITIGATION|LITIGATION]] • [[topic RETALIATION|RETALIATION]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.6.7|<< 1 Corinthians 6:7]]</td><td align="center" style="border:none;">[[1Cor.6|1 Corinthians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.9|1 Corinthians 6:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

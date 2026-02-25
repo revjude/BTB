@@ -1,8 +1,66 @@
+---
+title: Psalm 40:5
+type: Verse
+kjv: "Many, O LORD my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered."
+bsb: "Many, O LORD my God, are the wonders You have done, and the plans You have for us—none can compare to You—if I proclaim and declare them, they are more than I can count."
+hebrew: "רַבּ֤וֹת עָשִׂ֨יתָ׀ אַתָּ֤ה׀ יְהוָ֣ה אֱלֹהַי֮ נִֽפְלְאֹתֶ֥יךָ וּמַחְשְׁבֹתֶ֗יךָ אֵ֫לֵ֥ינוּ אֵ֤ין׀ עֲרֹ֬ךְ אֵלֶ֗יךָ אַגִּ֥ידָה וַאֲדַבֵּ֑רָה עָ֝צְמ֗וּ מִסַּפֵּֽר׃"
+pericope: "[[Ps.40.1 I Waited Patiently for the LORD|I Waited Patiently for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 40
+book/chapter: "[[Ps.40|Psalm 40]]"
+chronological_order: 367
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H7227A]]"
+- "[[H6213A]]"
+- "[[H9015]]"
+- "[[H0859A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H6381]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H4284]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H0369]]"
+- "[[H6186A]]"
+- "[[H9031]]"
+- "[[H5046]]"
+- "[[H1696G]]"
+- "[[H6105A]]"
+- "[[H9006]]"
+- "[[H5608A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 40:5**<big><big>[[Ps.40.1 I Waited Patiently for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Many, O LORD my God, [are] thy wonderful works [which] thou hast done, and thy thoughts [which are] to us-ward: they cannot be reckoned up in order unto thee: [if] I would declare and speak [of them], they are more than can be numbered.
 <small><sub>**BSB:**</sub></small>
 Many, O LORD my God, are the wonders You have done, and the plans You have for us—none can compare to You—if I proclaim and declare them, they are more than I can count.
+<small><sub>**Hebrew:**</sub></small>
+[[H7227A\|רַבּ֤וֹת]] [[H6213A\|עָשִׂ֨יתָ]][[H9015\|׀]] [[H0859A\|אַתָּ֤ה]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהַ]][[H9020\|י֮]] [[H6381\|נִֽפְלְאֹתֶ֥י]][[H9021\|ךָ]] [[H9002\|וּ]][[H4284\|מַחְשְׁבֹתֶ֗י]][[H9021\|ךָ]] [[H0413\|אֵ֫לֵ֥י]][[H9035\|נוּ]] [[H0369\|אֵ֤ין]][[H9015\|׀]] [[H6186A\|עֲרֹ֬ךְ]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H5046\|אַגִּ֥ידָה]] [[H9002\|וַ]][[H1696G\|אֲדַבֵּ֑רָה]] [[H6105A\|עָ֝צְמ֗וּ]] [[H9006\|מִ]][[H5608A\|סַּפֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.40.4|<< Psalms 40:4]]</td><td align="center" style="border:none;">[[Ps.40|Psalms 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.40.6|Psalms 40:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

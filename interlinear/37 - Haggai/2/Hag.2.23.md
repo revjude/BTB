@@ -1,8 +1,64 @@
+---
+title: Haggai 2:23
+type: Verse
+kjv: "In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts."
+bsb: "On that day, declares the LORD of Hosts, I will take you, My servant, Zerubbabel son of Shealtiel, declares the LORD, and I will make you like My signet ring, for I have chosen you, declares the LORD of Hosts.”"
+hebrew: "בַּיּ֣וֹם הַה֣וּא נְאֻם־ יְהוָ֣ה צְבָא֡וֹת אֶ֠קָּחֲךָ זְרֻבָּבֶ֨ל בֶּן־ שְׁאַלְתִּיאֵ֤ל עַבְדִּי֙ נְאֻם־ יְהוָ֔ה וְשַׂמְתִּ֖יךָ כַּֽחוֹתָ֑ם כִּֽי־ בְךָ֣ בָחַ֔רְתִּי נְאֻ֖ם יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|Zerubbabel the LORD’s Signet Ring]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 2
+book/chapter: "[[Hag.2|Haggai 2]]"
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic SHEALTIEL|SHEALTIEL]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H3947G]]"
+- "[[H9031]]"
+- "[[H2216]]"
+- "[[H1121A]]"
+- "[[H7597A]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H7760A]]"
+- "[[H9004]]"
+- "[[H2368]]"
+- "[[H3588A]]"
+- "[[H0977]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Haggai 2:23**<big><big>[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day, saith the LORD of hosts, will I take thee, O Zerubbabel, my servant, the son of Shealtiel, saith the LORD, and will make thee as a signet: for I have chosen thee, saith the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 On that day, declares the LORD of Hosts, I will take you, My servant, Zerubbabel son of Shealtiel, declares the LORD, and I will make you like My signet ring, for I have chosen you, declares the LORD of Hosts.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֣וּא]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֡וֹת]] [[H3947G\|אֶ֠קָּחֲ]][[H9031\|ךָ]] [[H2216\|זְרֻבָּבֶ֨ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7597A\|שְׁאַלְתִּיאֵ֤ל]] [[H5650\|עַבְדִּ]][[H9020\|י֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּ֖י]][[H9031\|ךָ]] [[H9004\|כַּֽ]][[H2368\|חוֹתָ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9003\|בְ]][[H9031\|ךָ֣]] [[H0977\|בָחַ֔רְתִּי]] [[H5002\|נְאֻ֖ם]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic SHEALTIEL|SHEALTIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.2.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.2.22|<< Haggai 2:22]]</td><td align="center" style="border:none;">[[Hag.2|Haggai 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.1.1|Zechariah 1:1 >>]]</td></tr></table>
 

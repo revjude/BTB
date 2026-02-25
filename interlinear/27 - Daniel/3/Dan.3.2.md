@@ -1,8 +1,68 @@
+---
+title: Daniel 3:2
+type: Verse
+kjv: "Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellers, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up."
+bsb: "Then King Nebuchadnezzar sent word to assemble the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the other officials of the provinces to attend the dedication of the statue he had set up."
+aramaic: "וּנְבוּכַדְנֶצַּ֣ר מַלְכָּ֡א שְׁלַ֡ח לְמִכְנַ֣שׁ׀ לַֽאֲחַשְׁדַּרְפְּנַיָּ֡א סִגְנַיָּ֣א וּֽפַחֲוָתָ֡א אֲדַרְגָּזְרַיָּא֩ גְדָ֨בְרַיָּ֤א דְּתָבְרַיָּא֙ תִּפְתָּיֵ֔א וְכֹ֖ל שִׁלְטֹנֵ֣י מְדִֽינָתָ֑א לְמֵתֵא֙ לַחֲנֻכַּ֣ת צַלְמָ֔א דִּ֥י הֲקֵ֖ים נְבוּכַדְנֶצַּ֥ר מַלְכָּֽא׃"
+pericope: "[[Dan.3.1 Nebuchadnezzar’s Golden Statue|Nebuchadnezzar’s Golden Statue]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SHERIFF|SHERIFF]]"
+strongs:
+- "[[H9002]]"
+- "[[H5020]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H7972]]"
+- "[[H9005]]"
+- "[[H3673]]"
+- "[[H9015]]"
+- "[[H0324]]"
+- "[[H5460]]"
+- "[[H6347]]"
+- "[[H0148]]"
+- "[[H1411]]"
+- "[[H1884]]"
+- "[[H8614]]"
+- "[[H3606]]"
+- "[[H7984]]"
+- "[[H4083]]"
+- "[[H0858]]"
+- "[[H2597]]"
+- "[[H6755]]"
+- "[[H1768]]"
+- "[[H6966I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 3:2**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nebuchadnezzar the king sent to gather together the princes, the governors, and the captains, the judges, the treasurers, the counsellers, the sheriffs, and all the rulers of the provinces, to come to the dedication of the image which Nebuchadnezzar the king had set up.
 <small><sub>**BSB:**</sub></small>
 Then King Nebuchadnezzar sent word to assemble the satraps, prefects, governors, advisers, treasurers, judges, magistrates, and all the other officials of the provinces to attend the dedication of the statue he had set up.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H5020\|נְבוּכַדְנֶצַּ֣ר]] [[H4430\|מַלְכָּ֡]][[H9010\|א]] [[H7972\|שְׁלַ֡ח]] [[H9005\|לְ]][[H3673\|מִכְנַ֣שׁ]][[H9015\|׀]] [[H9005\|לַֽ]][[H0324\|אֲחַשְׁדַּרְפְּנַיָּ֡]][[H9010\|א]] [[H5460\|סִגְנַיָּ֣]][[H9010\|א]] [[H9002\|וּֽ]][[H6347\|פַחֲוָתָ֡]][[H9010\|א]] [[H0148\|אֲדַרְגָּזְרַיָּ]][[H9010\|א֩]] [[H1411\|גְדָ֨בְרַיָּ֤]][[H9010\|א]] [[H1884\|דְּתָבְרַיָּ]][[H9010\|א֙]] [[H8614\|תִּפְתָּיֵ֔]][[H9010\|א]] [[H9002\|וְ]][[H3606\|כֹ֖ל]] [[H7984\|שִׁלְטֹנֵ֣י]] [[H4083\|מְדִֽינָתָ֑]][[H9010\|א]] [[H9005\|לְ]][[H0858\|מֵתֵא֙]] [[H9005\|לַ]][[H2597\|חֲנֻכַּ֣ת]] [[H6755\|צַלְמָ֔]][[H9010\|א]] [[H1768\|דִּ֥י]] [[H6966I\|הֲקֵ֖ים]] [[H5020\|נְבוּכַדְנֶצַּ֥ר]] [[H4430\|מַלְכָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic IDOLATRY|IDOLATRY]] • [[topic RULERS|RULERS]] • [[topic SHERIFF|SHERIFF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.1|<< Daniel 3:1]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.3|Daniel 3:3 >>]]</td></tr></table>
 

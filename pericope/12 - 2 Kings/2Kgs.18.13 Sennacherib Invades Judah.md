@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sennacherib Invades Judah
+type: Pericope
 pericope: "[[2Kgs.18.13 Sennacherib Invades Judah|Sennacherib Invades Judah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 18
 book/chapter: "[[2Kgs.18|2 Kings 18]]"
-genre:
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.18.13]]"
 - "[[2Kgs.18.14]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.18.16]]"
 ---
 
-[[2Kgs.18|2 Kings 18:13 - 2 Kings 18:16]]
+<small>[[2Kgs.18|2 Kings 18:13-16]]</small>
 *Sennacherib Invades Judah*
 
 [[2Kgs.18.13|13]] Now in the fourteenth year of king Hezekiah did Sennacherib king of Assyria come up against all the fenced cities of Judah, and took them.

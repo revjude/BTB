@@ -1,8 +1,57 @@
+---
+title: Numbers 8:25
+type: Verse
+kjv: "And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:"
+bsb: "But at the age of fifty, they must retire from performing the work and no longer serve."
+hebrew: "וּמִבֶּן֙ חֲמִשִּׁ֣ים שָׁנָ֔ה יָשׁ֖וּב מִצְּבָ֣א הָעֲבֹדָ֑ה וְלֹ֥א יַעֲבֹ֖ד עֽוֹד׃"
+pericope: "[[Num.8.23 Retirement for Levites|Retirement for Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 8
+book/chapter: "[[Num.8|Numbers 8]]"
+chronological_order: 167
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H2572]]"
+- "[[H8141]]"
+- "[[H7725J]]"
+- "[[H6635I]]"
+- "[[H9009]]"
+- "[[H5656H]]"
+- "[[H3808]]"
+- "[[H5647H]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 8:25**<big><big>[[Num.8.23 Retirement for Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And from the age of fifty years they shall cease waiting upon the service [thereof], and shall serve no more:
 <small><sub>**BSB:**</sub></small>
 But at the age of fifty, they must retire from performing the work and no longer serve.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H1121L\|בֶּן֙]] [[H2572\|חֲמִשִּׁ֣ים]] [[H8141\|שָׁנָ֔ה]] [[H7725J\|יָשׁ֖וּב]] [[H9006\|מִ]][[H6635I\|צְּבָ֣א]] [[H9009\|הָ]][[H5656H\|עֲבֹדָ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5647H\|יַעֲבֹ֖ד]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.8.24|<< Numbers 8:24]]</td><td align="center" style="border:none;">[[Num.8|Numbers 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.8.26|Numbers 8:26 >>]]</td></tr></table>
 

@@ -1,8 +1,85 @@
+---
+title: Leviticus 5:11
+type: Verse
+kjv: "But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put any frankincense thereon: for it is a sin offering."
+bsb: "But if he cannot afford two turtledoves or two young pigeons, he may bring a tenth of an ephah of fine flour as a sin offering. He must not put olive oil or frankincense on it, because it is a sin offering."
+hebrew: "וְאִם־ לֹא֩ תַשִּׂ֨יג יָד֜וֹ לִשְׁתֵּ֣י תֹרִ֗ים אוֹ֮ לִשְׁנֵ֣י בְנֵי־ יוֹנָה֒ וְהֵבִ֨יא אֶת־ קָרְבָּנ֜וֹ אֲשֶׁ֣ר חָטָ֗א עֲשִׂירִ֧ת הָאֵפָ֛ה סֹ֖לֶת לְחַטָּ֑את לֹא־ יָשִׂ֨ים עָלֶ֜יהָ שֶׁ֗מֶן וְלֹא־ יִתֵּ֤ן עָלֶ֙יהָ֙ לְבֹנָ֔ה כִּ֥י חַטָּ֖את הִֽיא׃"
+pericope: "[[Lev.5.1 Sins Requiring a Sin Offering|Sins Requiring a Sin Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H5381]]"
+- "[[H3027T]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H8147]]"
+- "[[H8449]]"
+- "[[H0176A]]"
+- "[[H1121H]]"
+- "[[H3123]]"
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H7133A]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H6224]]"
+- "[[H9009]]"
+- "[[H0374]]"
+- "[[H5560]]"
+- "[[H2403H]]"
+- "[[H7760H]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H8081]]"
+- "[[H5414H]]"
+- "[[H3828]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:11**<big><big>[[Lev.5.1 Sins Requiring a Sin Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put [any] frankincense thereon: for it [is] a sin offering.
 <small><sub>**BSB:**</sub></small>
 But if he cannot afford two turtledoves or two young pigeons, he may bring a tenth of an ephah of fine flour as a sin offering. He must not put olive oil or frankincense on it, because it is a sin offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹא֩]] [[H5381\|תַשִּׂ֨יג]] [[H3027T\|יָד֜]][[H9023\|וֹ]] [[H9005\|לִ]][[H8147\|שְׁתֵּ֣י]] [[H8449\|תֹרִ֗ים]] [[H0176A\|אוֹ֮]] [[H9005\|לִ]][[H8147\|שְׁנֵ֣י]] [[H1121H\|בְנֵי]][[H9014\|־]] [[H3123\|יוֹנָה֒]] [[H9001\|וְ]][[H0935P\|הֵבִ֨יא]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבָּנ֜]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H2398\|חָטָ֗א]] [[H6224\|עֲשִׂירִ֧ת]] [[H9009\|הָ]][[H0374\|אֵפָ֛ה]] [[H5560\|סֹ֖לֶת]] [[H9005\|לְ]][[H2403H\|חַטָּ֑את]] [[H3808\|לֹא]][[H9014\|־]] [[H7760H\|יָשִׂ֨ים]] [[H5921A\|עָלֶ֜י]][[H9034\|הָ]] [[H8081\|שֶׁ֗מֶן]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H5414H\|יִתֵּ֤ן]] [[H5921A\|עָלֶ֙י]][[H9034\|הָ֙]] [[H3828\|לְבֹנָ֔ה]] [[H3588A\|כִּ֥י]] [[H2403H\|חַטָּ֖את]] [[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic FRANKINCENSE|FRANKINCENSE]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SIN|SIN]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.10|<< Leviticus 5:10]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.12|Leviticus 5:12 >>]]</td></tr></table>
 

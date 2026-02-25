@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Huldah’s Prophecy
+type: Pericope
 pericope: "[[2Kgs.22.14 Huldah’s Prophecy|Huldah’s Prophecy]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 22
 book/chapter: "[[2Kgs.22|2 Kings 22]]"
-genre:
+chronological_order: 711
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.22.14]]"
 - "[[2Kgs.22.15]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.22.20]]"
 ---
 
-[[2Kgs.22|2 Kings 22:14 - 2 Kings 22:20]]
+<small>[[2Kgs.22|2 Kings 22:14-20]]</small>
 *Huldah’s Prophecy*
 
 [[2Kgs.22.14|14]] So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.

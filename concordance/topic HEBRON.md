@@ -15,17 +15,17 @@
 
 - Abraham lived there and Sarah died at [[Gen.23.2|Ge 23:2]]
 
-- Hoham, king of, confederated with other kings of the Canaanites  against Joshua [[Josh.10.3|Jos 10:3]]-[[Josh.10.39|39]]
+- Hoham, king of, confederated with other kings of the Canaanites  against Joshua [[Josh.10.3|Jos 10:3-39]]
 
 - Descendants of the Anakim live at [[Num.13.22|Nu 13:22]]; [[Josh.11.21|Jos 11:21]]
 
-- Conquest of, by Caleb [[Josh.14.6|Jos 14:6]]-[[Josh.14.15|15]]; [[Judg.1.10|Jud 1:10]],[[Judg.1.20|20]]
+- Conquest of, by Caleb [[Josh.14.6|Jos 14:6-15]]; [[Judg.1.10|Jud 1:10]],[[Judg.1.20|20]]
 
 - A city of refuge [[Josh.20.7|Jos 20:7]]; [[Josh.21.11|21:11]],[[Josh.21.13|13]]
 
-- David crowned king of Judah at [[2Sam.2.1|2Sa 2:1]]-[[2Sam.2.11|11]]; [[2Sam.3|3]]
+- David crowned king of Judah at [[2Sam.2.1|2Sa 2:1-11]]; [[2Sam.3|3]]
 
-- David crowned king of Israel at [[2Sam.5.1|2Sa 5:1]]-[[2Sam.5.5|5]]
+- David crowned king of Israel at [[2Sam.5.1|2Sa 5:1-5]]
 
 - The burial place of Sarah [[Gen.23.2|Ge 23:2]]
 

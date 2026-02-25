@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Completion of the Wall
+type: Pericope
 pericope: "[[Neh.6.15 Completion of the Wall|Completion of the Wall]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Nehemiah
 chapter: 6
 book/chapter: "[[Neh.6|Nehemiah 6]]"
-genre:
+chronological_order: 918
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
 - building codes
+verse_count: 5
 verses:
 - "[[Neh.6.15]]"
 - "[[Neh.6.16]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Neh.6.19]]"
 ---
 
-[[Neh.6|Nehemiah 6:15 - Nehemiah 6:19]]
+<small>[[Neh.6|Nehemiah 6:15-19]]</small>
 *Completion of the Wall*
 
 [[Neh.6.15|15]] So the wall was finished in the twenty and fifth \[day\] of \[the month\] Elul, in fifty and two days.

@@ -1,8 +1,66 @@
+---
+title: Isaiah 47:10
+type: Verse
+kjv: "For thou hast trusted in thy wickedness: thou hast said, None seeth me. Thy wisdom and thy knowledge, it hath perverted thee; and thou hast said in thine heart, I am, and none else beside me."
+bsb: "You were secure in your wickedness; you said, ‘No one sees me.’ Your wisdom and knowledge led you astray; you told yourself, ‘I am, and there is none besides me.’"
+hebrew: "וַתִּבְטְחִ֣י בְרָעָתֵ֗ךְ אָמַרְתְּ֙ אֵ֣ין רֹאָ֔נִי חָכְמָתֵ֥ךְ וְדַעְתֵּ֖ךְ הִ֣יא שׁוֹבְבָ֑תֶךְ וַתֹּאמְרִ֣י בְלִבֵּ֔ךְ אֲנִ֖י וְאַפְסִ֥י עֽוֹד׃"
+pericope: "[[Isa.47.1 The Humiliation of Babylon|The Humiliation of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 47
+book/chapter: "[[Isa.47|Isaiah 47]]"
+chronological_order: 686
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SORCERY|SORCERY]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H7451I]]"
+- "[[H9022]]"
+- "[[H0559]]"
+- "[[H0369]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H1931]]"
+- "[[H7725I]]"
+- "[[H9032]]"
+- "[[H3820A]]"
+- "[[H0589]]"
+- "[[H0657A]]"
+- "[[H9040]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 47:10**<big><big>[[Isa.47.1 The Humiliation of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou hast trusted in thy wickedness: thou hast said, None seeth me. Thy wisdom and thy knowledge, it hath perverted thee; and thou hast said in thine heart, I [am], and none else beside me.
 <small><sub>**BSB:**</sub></small>
 You were secure in your wickedness; you said, ‘No one sees me.’ Your wisdom and knowledge led you astray; you told yourself, ‘I am, and there is none besides me.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0982\|תִּבְטְחִ֣י]] [[H9003\|בְ]][[H7451I\|רָעָתֵ֗]][[H9022\|ךְ]] [[H0559\|אָמַרְתְּ֙]] [[H0369\|אֵ֣ין]] [[H7200G\|רֹאָ֔]][[H9030\|נִי]] [[H2451\|חָכְמָתֵ֥]][[H9022\|ךְ]] [[H9002\|וְ]][[H1847\|דַעְתֵּ֖]][[H9022\|ךְ]] [[H1931\|הִ֣יא]] [[H7725I\|שׁוֹבְבָ֑תֶ]][[H9032\|ךְ]] [[H9001\|וַ]][[H0559\|תֹּאמְרִ֣י]] [[H9003\|בְ]][[H3820A\|לִבֵּ֔]][[H9022\|ךְ]] [[H0589\|אֲנִ֖י]] [[H9002\|וְ]][[H0657A\|אַפְסִ֥]][[H9040\|י]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic INFIDELITY|INFIDELITY]] • [[topic PRIDE|PRIDE]] • [[topic SORCERY|SORCERY]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.47.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.47.9|<< Isaiah 47:9]]</td><td align="center" style="border:none;">[[Isa.47|Isaiah 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.47.11|Isaiah 47:11 >>]]</td></tr></table>
 

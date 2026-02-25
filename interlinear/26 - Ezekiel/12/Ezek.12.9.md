@@ -1,8 +1,60 @@
+---
+title: Ezekiel 12:9
+type: Verse
+kjv: "Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?"
+bsb: "“Son of man, hasn’t the rebellious house of Israel asked you, ‘What are you doing?’"
+hebrew: "בֶּן־ אָדָ֕ם הֲלֹ֨א אָמְר֥וּ אֵלֶ֛יךָ בֵּ֥ית יִשְׂרָאֵ֖ל בֵּ֣ית הַמֶּ֑רִי מָ֖ה אַתָּ֥ה עֹשֶֽׂה׃"
+pericope: "[[Ezek.12.1 Signs of the Coming Captivity|Signs of the Coming Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H4805H]]"
+- "[[H4100]]"
+- "[[H0859A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 12:9**<big><big>[[Ezek.12.1 Signs of the Coming Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, hath not the house of Israel, the rebellious house, said unto thee, What doest thou?
 <small><sub>**BSB:**</sub></small>
 “Son of man, hasn’t the rebellious house of Israel asked you, ‘What are you doing?’
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H9008\|הֲ]][[H3808\|לֹ֨א]] [[H0559\|אָמְר֥וּ]] [[H0413\|אֵלֶ֛י]][[H9031\|ךָ]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H1004M\|בֵּ֣ית]] [[H9009\|הַ]][[H4805H\|מֶּ֑רִי]] [[H4100\|מָ֖ה]] [[H0859A\|אַתָּ֥ה]] [[H6213A\|עֹשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.8|<< Ezekiel 12:8]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.10|Ezekiel 12:10 >>]]</td></tr></table>
 

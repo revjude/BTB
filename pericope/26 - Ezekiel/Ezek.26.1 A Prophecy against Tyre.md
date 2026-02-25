@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against Tyre
+type: Pericope
 pericope: "[[Ezek.26.1 A Prophecy against Tyre|A Prophecy against Tyre]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 26
 book/chapter: "[[Ezek.26|Ezekiel 26]]"
-genre:
+chronological_order: 817
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 21
 verses:
 - "[[Ezek.26.1]]"
 - "[[Ezek.26.2]]"
@@ -42,7 +49,7 @@ verses:
 - "[[Ezek.26.21]]"
 ---
 
-[[Ezek.26|Ezekiel 26:1 - Ezekiel 26:21]]
+<small>[[Ezek.26|Ezekiel 26:1-21]]</small>
 *A Prophecy against Tyre*
 
 [[Ezek.26.1|1]] And it came to pass in the eleventh year, in the first \[day\] of the month, \[that\] the word of the LORD came unto me, saying,

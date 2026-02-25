@@ -1,8 +1,66 @@
+---
+title: Isaiah 19:20
+type: Verse
+kjv: "And it shall be for a sign and for a witness unto the LORD of hosts in the land of Egypt: for they shall cry unto the LORD because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them."
+bsb: "It will be a sign and a witness to the LORD of Hosts in the land of Egypt. When they cry out to the LORD because of their oppressors, He will send them a savior and defender to rescue them."
+hebrew: "וְהָיָ֨ה לְא֥וֹת וּלְעֵ֛ד לַֽיהוָ֥ה צְבָא֖וֹת בְּאֶ֣רֶץ מִצְרָ֑יִם כִּֽי־ יִצְעֲק֤וּ אֶל־ יְהוָה֙ מִפְּנֵ֣י לֹֽחֲצִ֔ים וְיִשְׁלַ֥ח לָהֶ֛ם מוֹשִׁ֥יעַ וָרָ֖ב וְהִצִּילָֽם׃"
+pericope: "[[Isa.19.16 A Blessing upon the Earth|A Blessing upon the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0226G]]"
+- "[[H9002]]"
+- "[[H5707]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6817]]"
+- "[[H0413]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H3905]]"
+- "[[H7971G]]"
+- "[[H9038]]"
+- "[[H3467]]"
+- "[[H7378]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 19:20**<big><big>[[Isa.19.16 A Blessing upon the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be for a sign and for a witness unto the LORD of hosts in the land of Egypt: for they shall cry unto the LORD because of the oppressors, and he shall send them a saviour, and a great one, and he shall deliver them.
 <small><sub>**BSB:**</sub></small>
 It will be a sign and a witness to the LORD of Hosts in the land of Egypt. When they cry out to the LORD because of their oppressors, He will send them a savior and defender to rescue them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֨ה]] [[H9005\|לְ]][[H0226G\|א֥וֹת]] [[H9002\|וּ]][[H9005\|לְ]][[H5707\|עֵ֛ד]] [[H9005\|לַֽ]][[H3068G\|יהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6817\|יִצְעֲק֤וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H3905\|לֹֽחֲצִ֔ים]] [[H9002\|וְ]][[H7971G\|יִשְׁלַ֥ח]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H3467\|מוֹשִׁ֥יעַ]] [[H9001\|וָ]][[H7378\|רָ֖ב]] [[H9001\|וְ]][[H5337\|הִצִּילָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.19|<< Isaiah 19:19]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.21|Isaiah 19:21 >>]]</td></tr></table>
 

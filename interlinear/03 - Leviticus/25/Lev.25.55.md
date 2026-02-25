@@ -1,8 +1,69 @@
+---
+title: Leviticus 25:55
+type: Verse
+kjv: "For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the LORD your God."
+bsb: "For the Israelites are My servants. They are My servants, whom I brought out of the land of Egypt. I am the LORD your God."
+hebrew: "כִּֽי־ לִ֤י בְנֵֽי־ יִשְׂרָאֵל֙ עֲבָדִ֔ים עֲבָדַ֣י הֵ֔ם אֲשֶׁר־ הוֹצֵ֥אתִי אוֹתָ֖ם מֵאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Lev.25.47 Redemption of Servants|Redemption of Servants]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H1992]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:55**<big><big>[[Lev.25.47 Redemption of Servants|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For unto me the children of Israel [are] servants; they [are] my servants whom I brought forth out of the land of Egypt: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 For the Israelites are My servants. They are My servants, whom I brought out of the land of Egypt. I am the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לִ֤]][[H9030\|י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H5650\|עֲבָדִ֔ים]] [[H5650\|עֲבָדַ֣]][[H9020\|י]] [[H1992\|הֵ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318H\|הוֹצֵ֥אתִי]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic GOD|GOD]] • [[topic JUBILEE|JUBILEE]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.54|<< Leviticus 25:54]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.26.1|Leviticus 26:1 >>]]</td></tr></table>
 

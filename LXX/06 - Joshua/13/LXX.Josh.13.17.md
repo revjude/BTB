@@ -1,6 +1,58 @@
+---
+title: LXX Joshua 13:17
+type: Verse
+lxx: "and all  their cities  being in  Misor, and Dibon, and Bamoth-baal, and the house of Baal-meon,"
+greek: "και πάσας τας πόλεις αυτών τας ούσας εν τη Μισώρ και Δεβών και Βαμώθ Βαάλ και οίκους Βεελμών"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic BAAL-MEON|BAAL-MEON]]"
+- "[[topic BAMOTH|BAMOTH]]"
+- "[[topic BETH-BAAL-MEON|BETH-BAAL-MEON]]"
+- "[[topic DIBON|DIBON]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic TOPOGRAPHY|TOPOGRAPHY]]"
+strongs:
+- "[[G2532]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[H4334]]"
+- "[[G2532]]"
+- "[[H1769]]"
+- "[[G2532]]"
+- "[[H1120]]"
+- "[[G2532]]"
+- "[[G3624]]"
+- "[[H1186]]"
+---
+
 **LXX Joshua 13:17** 
 <small><sub>**LXX:**</sub></small>
 and all  their cities  being in  Misor, and Dibon, and Bamoth-baal, and \[the\] house of Baal-meon, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3956\|πάσας]] [[G3588\|τας]] [[G4172\|πόλεις]] [[G1473\|αυτών]] [[G3588\|τας]] [[G1510\|ούσας]] [[G1722\|εν]] [[G3588\|τη]] [[H4334\|Μισώρ]] [[G2532\|και]] [[H1769\|Δεβών]] [[G2532\|και]] [[H1120\|Βαμώθ Βαάλ]] [[G2532\|και]] [[G3624\|οίκους]] [[H1186\|Βεελμών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic BAAL-MEON|BAAL-MEON]] • [[topic BAMOTH|BAMOTH]] • [[topic BETH-BAAL-MEON|BETH-BAAL-MEON]] • [[topic DIBON|DIBON]] • [[topic REUBENITES|REUBENITES]] • [[topic TOPOGRAPHY|TOPOGRAPHY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.16|<< Joshua 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.18|Joshua 13:18 >>]]</td></tr></table>
 
@@ -22,6 +74,6 @@ and all  their cities  being in  Misor, and Dibon, and Bamoth-baal, and \[the\] 
 | and | **<big>[[G2532\|και]]</big>** |
 | \[the\] house | **<big>[[G3624\|οίκους]]</big>** |
 | of Baal-meon, | **<big>[[H1186\|Βεελμών]]</big>** |
-[[Josh.13.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.16|<< Joshua 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.18|Joshua 13:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.13.16|<< Joshua 13:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.13.18|Joshua 13:18 >>]]</td></tr></table>
 
 

@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 26:1
+type: Verse
+kjv: "And it shall be, when thou art come in unto the land which the LORD thy God giveth thee for an inheritance, and possessest it, and dwellest therein;"
+bsb: "When you enter the land that the LORD your God is giving you as an inheritance, and you take possession of it and settle in it,"
+hebrew: "וְהָיָה֙ כִּֽי־ תָב֣וֹא אֶל־ הָאָ֔רֶץ אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ נַחֲלָ֑ה וִֽירִשְׁתָּ֖הּ וְיָשַׁ֥בְתָּ בָּֽהּ׃"
+pericope: "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5159]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:1**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when thou [art] come in unto the land which the LORD thy God giveth thee [for] an inheritance, and possessest it, and dwellest therein;
 <small><sub>**BSB:**</sub></small>
 When you enter the land that the LORD your God is giving you as an inheritance, and you take possession of it and settle in it,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|תָב֣וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H5159\|נַחֲלָ֑ה]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתָּ֖]][[H9034\|הּ]] [[H9001\|וְ]][[H3427\|יָשַׁ֥בְתָּ]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.19|<< Deuteronomy 25:19]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.2|Deuteronomy 26:2 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Leviticus 11:30
+type: Verse
+kjv: "And the ferret, and the chameleon, and the lizard, and the snail, and the mole."
+bsb: "the gecko, the monitor lizard, the common lizard, the skink, and the chameleon."
+hebrew: "וְהָאֲנָקָ֥ה וְהַכֹּ֖חַ וְהַלְּטָאָ֑ה וְהַחֹ֖מֶט וְהַתִּנְשָֽׁמֶת׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHAMELEON|CHAMELEON]]"
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic FERRET|FERRET]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic LIZARD|LIZARD]]"
+- "[[topic MOLE|MOLE]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SNAIL|SNAIL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0604]]"
+- "[[H3581A]]"
+- "[[H3911]]"
+- "[[H2546]]"
+- "[[H8580]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:30**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ferret, and the chameleon, and the lizard, and the snail, and the mole.
 <small><sub>**BSB:**</sub></small>
 the gecko, the monitor lizard, the common lizard, the skink, and the chameleon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הָ]][[H0604\|אֲנָקָ֥ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3581A\|כֹּ֖חַ]] [[H9002\|וְ]][[H9009\|הַ]][[H3911\|לְּטָאָ֑ה]] [[H9002\|וְ]][[H9009\|הַ]][[H2546\|חֹ֖מֶט]] [[H9002\|וְ]][[H9009\|הַ]][[H8580\|תִּנְשָֽׁמֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMELEON|CHAMELEON]] • [[topic CREEPING THINGS|CREEPING THINGS]] • [[topic FERRET|FERRET]] • [[topic FOOD|FOOD]] • [[topic LIZARD|LIZARD]] • [[topic MOLE|MOLE]] • [[topic SANITATION|SANITATION]] • [[topic SNAIL|SNAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.29|<< Leviticus 11:29]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.31|Leviticus 11:31 >>]]</td></tr></table>
 

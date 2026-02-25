@@ -1,8 +1,56 @@
+---
+title: Esther 6:5
+type: Verse
+kjv: "And the king’s servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in."
+bsb: "So the king’s attendants answered him, “Haman is there, standing in the court.” “Bring him in,” ordered the king."
+hebrew: "וַיֹּ֨אמְר֜וּ נַעֲרֵ֤י הַמֶּ֙לֶךְ֙ אֵלָ֔יו הִנֵּ֥ה הָמָ֖ן עֹמֵ֣ד בֶּחָצֵ֑ר וַיֹּ֥אמֶר הַמֶּ֖לֶךְ יָבֽוֹא׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MORDECAI|MORDECAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5288]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H2001]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H2691A]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:5**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king’s servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in.
 <small><sub>**BSB:**</sub></small>
 So the king’s attendants answered him, “Haman is there, standing in the court.” “Bring him in,” ordered the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמְר֜וּ]] [[H5288\|נַעֲרֵ֤י]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H2009\|הִנֵּ֥ה]] [[H2001\|הָמָ֖ן]] [[H5975G\|עֹמֵ֣ד]] [[H9003\|בֶּ]][[H2691A\|חָצֵ֑ר]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0935G\|יָבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOD|GOD]] • [[topic MORDECAI|MORDECAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.4|<< Esther 6:4]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.6|Esther 6:6 >>]]</td></tr></table>
 

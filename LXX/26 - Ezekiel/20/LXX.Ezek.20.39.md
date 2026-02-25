@@ -1,6 +1,76 @@
+---
+title: LXX Ezekiel 20:39
+type: Verse
+lxx: "And to you, O house of Israel, thus says Adonai the lord; remove each his evil practices! And after these things, if you listen to me, and  shall not profane my holy name any longer by  your gifts, and by  your practices,"
+greek: "και υμείς οίκος Ισραήλ τάδε λέγει Αδωναϊ κύριος έκαστος τα επιτηδεύματα αυτού εξάρατε και μετά ταύτα ει υμείς εισακούετέ μου και το όνομά μου το άγιον ου βεβηλώσετε ουκέτι εν τοις δώροις υμών και εν τοις επιτηδεύμασιν υμών"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G3624]]"
+- "[[G2474]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[H0113]]"
+- "[[G2962]]"
+- "[[G1538]]"
+- "[[G3588]]"
+- "[[G7461]]"
+- "[[G1473]]"
+- "[[G1808]]"
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G1487]]"
+- "[[G1473]]"
+- "[[G1522]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G3756]]"
+- "[[G0953]]"
+- "[[G3765]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1435]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G7461]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 20:39** 
 <small><sub>**LXX:**</sub></small>
 And to you, O house of Israel, thus says Adonai \[the\] <span class="smallcaps">lord</span>; remove each his \[evil\] practices! And after these \[things\], if you listen to me, and  shall not profane my holy name any longer by  your gifts, and by  your practices, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1473\|υμείς]] [[G3624\|οίκος]] [[G2474\|Ισραήλ]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[H0113\|Αδωναϊ]] [[G2962\|κύριος]] [[G1538\|έκαστος]] [[G3588\|τα]] [[G7461\|επιτηδεύματα]] [[G1473\|αυτού]] [[G1808\|εξάρατε]] [[G2532\|και]] [[G3326\|μετά]] [[G3778\|ταύτα]] [[G1487\|ει]] [[G1473\|υμείς]] [[G1522\|εισακούετέ]] [[G1473\|μου]] [[G2532\|και]] [[G3588\|το]] [[G3686\|όνομά]] [[G1473\|μου]] [[G3588\|το]] [[G0039\|άγιον]] [[G3756\|ου]] [[G0953\|βεβηλώσετε]] [[G3765\|ουκέτι]] [[G1722\|εν]] [[G3588\|τοις]] [[G1435\|δώροις]] [[G1473\|υμών]] [[G2532\|και]] [[G1722\|εν]] [[G3588\|τοις]] [[G7461\|επιτηδεύμασιν]] [[G1473\|υμών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.20.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.38|<< Ezekiel 20:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.40|Ezekiel 20:40 >>]]</td></tr></table>
 
@@ -41,6 +111,6 @@ And to you, O house of Israel, thus says Adonai \[the\] <span class="smallcaps">
 | by | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τοις]]</big>** |
 | your practices, | **<big>[[G7461\|επιτηδεύμασιν]]</big>** **<big>[[G1473\|υμών]]</big>** |
-[[Ezek.20.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.38|<< Ezekiel 20:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.40|Ezekiel 20:40 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.38|<< Ezekiel 20:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.40|Ezekiel 20:40 >>]]</td></tr></table>
 
 

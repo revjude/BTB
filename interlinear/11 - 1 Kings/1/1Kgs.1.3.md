@@ -1,8 +1,65 @@
+---
+title: 1 Kings 1:3
+type: Verse
+kjv: "So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king."
+bsb: "Then they searched throughout Israel for a beautiful girl, and they found Abishag the Shunammite and brought her to the king."
+hebrew: "וַיְבַקְשׁוּ֙ נַעֲרָ֣ה יָפָ֔ה בְּכֹ֖ל גְּב֣וּל יִשְׂרָאֵ֑ל וַֽיִּמְצְא֗וּ אֶת־ אֲבִישַׁג֙ הַשּׁ֣וּנַמִּ֔ית וַיָּבִ֥אוּ אֹתָ֖הּ לַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.1.1 Abishag Cares for David|Abishag Cares for David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABISHAG|ABISHAG]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic SHUNEM|SHUNEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1245]]"
+- "[[H5291]]"
+- "[[H3303]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1366H]]"
+- "[[H3478]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0049]]"
+- "[[H9009]]"
+- "[[H7767]]"
+- "[[H0935P]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:3**<big><big>[[1Kgs.1.1 Abishag Cares for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king.
 <small><sub>**BSB:**</sub></small>
 Then they searched throughout Israel for a beautiful girl, and they found Abishag the Shunammite and brought her to the king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1245\|יְבַקְשׁוּ֙]] [[H5291\|נַעֲרָ֣ה]] [[H3303\|יָפָ֔ה]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H1366H\|גְּב֣וּל]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַֽ]][[H4672\|יִּמְצְא֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0049\|אֲבִישַׁג֙]] [[H9009\|הַ]][[H7767\|שּׁ֣וּנַמִּ֔ית]] [[H9001\|וַ]][[H0935P\|יָּבִ֥אוּ]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H9005\|לַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAG|ABISHAG]] • [[topic DAVID|DAVID]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic SHUNEM|SHUNEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.2|<< 1 Kings 1:2]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.4|1 Kings 1:4 >>]]</td></tr></table>
 

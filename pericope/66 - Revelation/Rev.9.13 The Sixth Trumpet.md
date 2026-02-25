@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sixth Trumpet
+type: Pericope
 pericope: "[[Rev.9.13 The Sixth Trumpet|The Sixth Trumpet]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 9
 book/chapter: "[[Rev.9|Revelation 9]]"
-genre:
+chronological_order: 1176
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 9
 verses:
 - "[[Rev.9.13]]"
 - "[[Rev.9.14]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Rev.9.21]]"
 ---
 
-[[Rev.9|Revelation 9:13 - Revelation 9:21]]
+<small>[[Rev.9|Revelation 9:13-21]]</small>
 *The Sixth Trumpet*
 
 [[Rev.9.13|13]] And the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God,

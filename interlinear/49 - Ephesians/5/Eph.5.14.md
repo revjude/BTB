@@ -1,10 +1,64 @@
+---
+title: Ephesians 5:14
+type: Verse
+kjv: "Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light."
+bsb: "So it is said: “Wake up, O sleeper, rise up from the dead, and Christ will shine on you.”"
+greek: "πᾶν γὰρ τὸ φανερούμενον φῶς ἐστιν· διὸ λέγει· ἔγειρε ὁ καθεύδων καὶ ἀνάστα ἐκ τῶν νεκρῶν, καὶ ἐπιφαύσει σοι ὁ Χριστός.¶"
+pericope: "[[Eph.5.8 Children of Light|Children of Light]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3956]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G5319]]"
+- "[[G5457]]"
+- "[[G1510]]"
+- "[[G1352]]"
+- "[[G3004G]]"
+- "[[G1453]]"
+- "[[G2518]]"
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G1537]]"
+- "[[G3498]]"
+- "[[G2017]]"
+- "[[G4771]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Ephesians 5:14**<big><big>[[Eph.5.8 Children of Light|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherefore he saith, Awake thou that sleepest, and arise from the dead, and Christ shall give thee light.
 <small><sub>**BSB:**</sub></small>
 So it is said: “Wake up, O sleeper, rise up from the dead, and Christ will shine on you.”
-<small><sub>**Literal:**</sub></small>
-everything for which is becoming visible light is; [14] Therefore it says: do awake you who [are] sleeping and do rise up out from the dead, and will shine upon you <the> Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.13|<< Ephesians 5:13]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.15|Ephesians 5:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πᾶν]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G5319\|φανερούμενον]]  [[G5457\|φῶς]]  [[G1510\|ἐστιν·]]  [[G1352\|διὸ]]  [[G3004G\|λέγει·]]  [[G1453\|ἔγειρε]]  [[G3588\|ὁ]]  [[G2518\|καθεύδων]]  [[G2532\|καὶ]]  [[G0450\|ἀνάστα]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν,]]  [[G2532\|καὶ]]  [[G2017\|ἐπιφαύσει]]  [[G4771\|σοι]]  [[G3588\|ὁ]]  [[G5547\|Χριστός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIGHT|LIGHT]] • [[topic REGENERATION|REGENERATION]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.13|<< Ephesians 5:13]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.5.15|Ephesians 5:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

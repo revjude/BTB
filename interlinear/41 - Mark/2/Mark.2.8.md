@@ -1,10 +1,62 @@
+---
+title: Mark 2:8
+type: Verse
+kjv: "And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?"
+bsb: "At once Jesus knew in His spirit that they were thinking this way within themselves. “Why are you thinking these things in your hearts?” He asked."
+jesus_said: "Why reason ye these things in your hearts?"
+greek: "καὶ εὐθὺς ἐπιγνοὺς ὁ Ἰησοῦς τῷ πνεύματι αὐτοῦ ὅτι οὕτως αὐτοὶ διαλογίζονται ἐν ἑαυτοῖς λέγει αὐτοῖς· τί ταῦτα διαλογίζεσθε ἐν ταῖς καρδίαις ὑμῶν;"
+pericope: "[[Mark.2.1 Jesus Heals a Paralytic|Jesus Heals a Paralytic]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G1921]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G4151G]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G3779]]"
+- "[[G1260]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G3778]]"
+- "[[G2588]]"
+- "[[G4771]]"
+texts:
+- NKO
+- o
+- N(k)O
+---
+
 **Mark 2:8**<big><big>[[Mark.2.1 Jesus Heals a Paralytic|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And immediately when Jesus perceived in his spirit that they so reasoned within themselves, he said unto them, Why reason ye these things in your hearts?
 <small><sub>**BSB:**</sub></small>
 At once Jesus knew in His spirit that they were thinking this way within themselves. “Why are you thinking these things in your hearts?” He asked.
-<small><sub>**Literal:**</sub></small>
-And immediately having known <the> Jesus in the spirit of Him that thus they themselves are reasoning within themselves He speaks to them; Why these things reason you in the hearts of you?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.7|<< Mark 2:7]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.9|Mark 2:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2112\|εὐθὺς]]  [[G1921\|ἐπιγνοὺς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G0846\|αὐτοῦ]]  [[G3754G\|ὅτι]]  [[G3779\|οὕτως]]  [[G0846\|αὐτοὶ]]  [[G1260\|διαλογίζονται]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτοῖς]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G3778\|ταῦτα]]  [[G1260\|διαλογίζεσθε]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G4771\|ὑμῶν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.7|<< Mark 2:7]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.9|Mark 2:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

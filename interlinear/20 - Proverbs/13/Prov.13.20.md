@@ -1,8 +1,51 @@
+---
+title: Proverbs 13:20
+type: Verse
+kjv: "He that walketh with wise men shall be wise: but a companion of fools shall be destroyed."
+bsb: "He who walks with the wise will become wise, but the companion of fools will be destroyed."
+hebrew: "הוֹלֵ֣ךְ אֶת־ חֲכָמִ֣ים יֶחְכָּ֑ם וְרֹעֶ֖ה כְסִילִ֣ים יֵרֽוֹעַ׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COMPANY|COMPANY]]"
+strongs:
+- "[[H1980I]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H2450]]"
+- "[[H9002]]"
+- "[[H2449]]"
+- "[[H7462C]]"
+- "[[H3684]]"
+- "[[H7489A]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Proverbs 13:20**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that walketh with wise [men] shall be wise: but a companion of fools shall be destroyed.
 <small><sub>**BSB:**</sub></small>
 He who walks with the wise will become wise, but the companion of fools will be destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H1980I\|הוֹלֵ֣ךְ]] [[H0854\|אֶת]][[H9014\|־]] [[H2450\|חֲכָמִ֣ים]] [[H2449\|יֶחְכָּ֑ם]] [[H9002\|וְ]][[H7462C\|רֹעֶ֖ה]] [[H3684\|כְסִילִ֣ים]] [[H7489A\|יֵרֽוֹעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.19|<< Proverbs 13:19]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.21|Proverbs 13:21 >>]]</td></tr></table>
 
@@ -19,6 +62,6 @@ He who walks with the wise will become wise, but the companion of fools will be 
 
 [^1]: walking  | **<big>[[H1980I|הָלוֹךְ]]</big> ** | ha.lokh<small><sup>[[HVqaa]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>הֹלֵ֣וךְ</big></span>**
-[^3]: and become wise  | **<big>[[H2449|חֲכָם]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> cha.kham<small><sup>[[HVqv2ms]]</sup></small> | K
+[^3]: and become wise  | **<big>[[H9002|וַ]]</big><big>[[H2449|חֲכָם]]</big> ** | va.<small><sup>[[HC]]</sup></small> cha.kham<small><sup>[[HVqv2ms]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וֶחְכָּ֑ם</big></span>**
 

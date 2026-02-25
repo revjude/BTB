@@ -1,8 +1,58 @@
+---
+title: Isaiah 48:18
+type: Verse
+kjv: "O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:"
+bsb: "If only you had paid attention to My commandments, your peace would have been like a river, and your righteousness like waves of the sea."
+hebrew: "ל֥וּא הִקְשַׁ֖בְתָּ לְמִצְוֹתָ֑י וַיְהִ֤י כַנָּהָר֙ שְׁלוֹמֶ֔ךָ וְצִדְקָתְךָ֖ כְּגַלֵּ֥י הַיָּֽם׃"
+pericope: "[[Isa.48.12 Deliverance Promised to Israel|Deliverance Promised to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic PEACE|PEACE]]"
+strongs:
+- "[[H3863]]"
+- "[[H7181]]"
+- "[[H9005]]"
+- "[[H4687]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H5104H]]"
+- "[[H7965G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H1530H]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:18**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O that thou hadst hearkened to my commandments! then had thy peace been as a river, and thy righteousness as the waves of the sea:
 <small><sub>**BSB:**</sub></small>
 If only you had paid attention to My commandments, your peace would have been like a river, and your righteousness like waves of the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H3863\|ל֥וּא]] [[H7181\|הִקְשַׁ֖בְתָּ]] [[H9005\|לְ]][[H4687\|מִצְוֹתָ֑]][[H9020\|י]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9004\|כַ]][[H5104H\|נָּהָר֙]] [[H7965G\|שְׁלוֹמֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H6666\|צִדְקָתְ]][[H9021\|ךָ֖]] [[H9004\|כְּ]][[H1530H\|גַלֵּ֥י]] [[H9009\|הַ]][[H3220G\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PEACE|PEACE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.17|<< Isaiah 48:17]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.19|Isaiah 48:19 >>]]</td></tr></table>
 

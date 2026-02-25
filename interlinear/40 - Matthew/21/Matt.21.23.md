@@ -1,10 +1,63 @@
+---
+title: Matthew 21:23
+type: Verse
+kjv: "And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?"
+bsb: "When Jesus returned to the temple courts and began to teach, the chief priests and elders of the people came up to Him. “By what authority are You doing these things?” they asked. “And who gave You this authority?”"
+greek: "Καὶ ἐλθόντος αὐτοῦ εἰς τὸ ἱερὸν προσῆλθον αὐτῷ διδάσκοντι οἱ ἀρχιερεῖς καὶ οἱ πρεσβύτεροι τοῦ λαοῦ λέγοντες· ἐν ποίᾳ ἐξουσίᾳ ταῦτα ποιεῖς καὶ τίς σοι ἔδωκεν τὴν ἐξουσίαν ταύτην;¶"
+pericope: "[[Matt.21.23 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2411]]"
+- "[[G4334]]"
+- "[[G1321]]"
+- "[[G0749]]"
+- "[[G4245G]]"
+- "[[G2992]]"
+- "[[G3004G]]"
+- "[[G1722]]"
+- "[[G4169]]"
+- "[[G1849]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+- "[[G5101]]"
+- "[[G4771]]"
+- "[[G1325]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 21:23**<big><big>[[Matt.21.23 Jesus’ Authority Challenged|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?
 <small><sub>**BSB:**</sub></small>
 When Jesus returned to the temple courts and began to teach, the chief priests and elders of the people came up to Him. “By what authority are You doing these things?” they asked. “And who gave You this authority?”
-<small><sub>**Literal:**</sub></small>
-And when was coming He into the temple came to Him teaching the chief priests and the elders of the people saying; By what authority these things are You doing And who to You gave <the> authority this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.22|<< Matthew 21:22]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.24|Matthew 21:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἐλθόντος]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2411\|ἱερὸν]]  [[G4334\|προσῆλθον]]  [[G0846\|αὐτῷ]]  [[G1321\|διδάσκοντι]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4245G\|πρεσβύτεροι]]  [[G3588\|τοῦ]]  [[G2992\|λαοῦ]]  [[G3004G\|λέγοντες·]]  [[G1722\|ἐν]]  [[G4169\|ποίᾳ]]  [[G1849\|ἐξουσίᾳ]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιεῖς]]  [[G2532\|καὶ]]  [[G5101\|τίς]]  [[G4771\|σοι]]  [[G1325\|ἔδωκεν]]  [[G3588\|τὴν]]  [[G1849\|ἐξουσίαν]]  [[G3778\|ταύτην;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.22|<< Matthew 21:22]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.24|Matthew 21:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

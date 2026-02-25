@@ -1,8 +1,63 @@
+---
+title: Numbers 29:13
+type: Verse
+kjv: "And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD; thirteen young bullocks, two rams, and fourteen lambs of the first year; they shall be without blemish:"
+bsb: "As a pleasing aroma to the LORD, you are to present a food offering, a burnt offering of thirteen young bulls, two rams, and fourteen male lambs a year old, all unblemished,"
+hebrew: "וְהִקְרַבְתֶּ֨ם עֹלָ֜ה אִשֵּׁ֨ה רֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהוָ֔ה פָּרִ֧ים בְּנֵי־ בָקָ֛ר שְׁלֹשָׁ֥ה עָשָׂ֖ר אֵילִ֣ם שְׁנָ֑יִם כְּבָשִׂ֧ים בְּנֵֽי־ שָׁנָ֛ה אַרְבָּעָ֥ה עָשָׂ֖ר תְּמִימִ֥ם יִהְיֽוּ׃"
+pericope: "[[Num.29.12 The Feast of Tabernacles|The Feast of Tabernacles]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H5930A]]"
+- "[[H0801]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1241]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H0352A]]"
+- "[[H8147]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H0702]]"
+- "[[H8549G]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:13**<big><big>[[Num.29.12 The Feast of Tabernacles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the LORD; thirteen young bullocks, two rams, [and] fourteen lambs of the first year; they shall be without blemish:
 <small><sub>**BSB:**</sub></small>
 As a pleasing aroma to the LORD, you are to present a food offering, a burnt offering of thirteen young bulls, two rams, and fourteen male lambs a year old, all unblemished,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרַבְתֶּ֨ם]] [[H5930A\|עֹלָ֜ה]] [[H0801\|אִשֵּׁ֨ה]] [[H7381\|רֵ֤יחַ]] [[H5207\|נִיחֹ֙חַ֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H6499\|פָּרִ֧ים]] [[H1121H\|בְּנֵי]][[H9014\|־]] [[H1241\|בָקָ֛ר]] [[H7969\|שְׁלֹשָׁ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H0352A\|אֵילִ֣ם]] [[H8147\|שְׁנָ֑יִם]] [[H3532\|כְּבָשִׂ֧ים]] [[H1121L\|בְּנֵֽי]][[H9014\|־]] [[H8141\|שָׁנָ֛ה]] [[H0702\|אַרְבָּעָ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H8549G\|תְּמִימִ֥ם]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.12|<< Numbers 29:12]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.14|Numbers 29:14 >>]]</td></tr></table>
 

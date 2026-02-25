@@ -1,10 +1,58 @@
+---
+title: Luke 1:7
+type: Verse
+kjv: "And they had no child, because that Elisabeth was barren, and they both were now well stricken in years."
+bsb: "But they had no children, because Elizabeth was barren, and they were both well along in years."
+greek: "καὶ οὐκ ἦν αὐτοῖς τέκνον, καθότι ἦν ἡ Ἐλισάβετ στεῖρα καὶ ἀμφότεροι προβεβηκότες ἐν ταῖς ἡμέραις αὐτῶν ἦσαν.¶"
+pericope: "[[Luke.1.5 Gabriel Foretells John’s Birth|Gabriel Foretells John’s Birth]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]]"
+- "[[topic JOY|JOY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G5043]]"
+- "[[G2530]]"
+- "[[G3588]]"
+- "[[G1665]]"
+- "[[G4723]]"
+- "[[G0297]]"
+- "[[G4260]]"
+- "[[G1722]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **Luke 1:7**<big><big>[[Luke.1.5 Gabriel Foretells John’s Birth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they had no child, because that Elisabeth was barren, and they both were [now] well stricken in years.
 <small><sub>**BSB:**</sub></small>
 But they had no children, because Elizabeth was barren, and they were both well along in years.
-<small><sub>**Literal:**</sub></small>
-And no there was to them child, inasmuch as was <the> Elizabeth barren and both having advanced in the years of them were.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.6|<< Luke 1:6]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.8|Luke 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1510\|ἦν]]  [[G0846\|αὐτοῖς]]  [[G5043\|τέκνον,]]  [[G2530\|καθότι]]  [[G1510\|ἦν]]  [[G3588\|ἡ]]  [[G1665\|Ἐλισάβετ]]  [[G4723\|στεῖρα]]  [[G2532\|καὶ]]  [[G0297\|ἀμφότεροι]]  [[G4260\|προβεβηκότες]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G0846\|αὐτῶν]]  [[G1510\|ἦσαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic ELISABETH (ELIZABETH)|ELISABETH (ELIZABETH)]] • [[topic JOY|JOY]] • [[topic TEMPLE|TEMPLE]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.6|<< Luke 1:6]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.8|Luke 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,82 @@
+---
+title: 2 Kings 8:1
+type: Verse
+kjv: "Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years."
+bsb: "Now Elisha had said to the woman whose son he had restored to life, “Arise, you and your household; go and live as a foreigner wherever you can. For the LORD has decreed that a seven-year famine will come to the land.”"
+hebrew: "וֶאֱלִישָׁ֡ע דִּבֶּ֣ר אֶל־ הָאִשָּׁה֩ אֲשֶׁר־ הֶחֱיָ֨ה אֶת־ בְּנָ֜הּ לֵאמֹ֗ר ק֤וּמִי וּלְכִי֙ אַ֣תְּ וּבֵיתֵ֔ךְ וְג֖וּרִי בַּאֲשֶׁ֣ר תָּג֑וּרִי כִּֽי־ קָרָ֤א יְהוָה֙ לָֽרָעָ֔ב וְגַם־ בָּ֥א אֶל־ הָאָ֖רֶץ שֶׁ֥בַע שָׁנִֽים׃"
+pericope: "[[2Kgs.8.1 The Shunammite’s Land Restored|The Shunammite’s Land Restored]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic KING|KING]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0477]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0834A]]"
+- "[[H2421]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H0859B]]"
+- "[[H0859C]]"
+- "[[H1004M]]"
+- "[[H9022]]"
+- "[[H1481A]]"
+- "[[H9003]]"
+- "[[H0834B]]"
+- "[[H3588A]]"
+- "[[H7121G]]"
+- "[[H3068G]]"
+- "[[H7458]]"
+- "[[H1571]]"
+- "[[H0935G]]"
+- "[[H0776G]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 8:1**<big><big>[[2Kgs.8.1 The Shunammite’s Land Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then spake Elisha unto the woman, whose son he had restored to life, saying, Arise, and go thou and thine household, and sojourn wheresoever thou canst sojourn: for the LORD hath called for a famine; and it shall also come upon the land seven years.
 <small><sub>**BSB:**</sub></small>
 Now Elisha had said to the woman whose son he had restored to life, “Arise, you and your household; go and live as a foreigner wherever you can. For the LORD has decreed that a seven-year famine will come to the land.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וֶ]][[H0477\|אֱלִישָׁ֡ע]] [[H1696G\|דִּבֶּ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁה֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H2421\|הֶחֱיָ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנָ֜]][[H9024\|הּ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H6965B\|ק֤וּמִי]] [[H9002\|וּ]][[H1980G\|לְכִי֙]] [[H0859C\|אַ֣תְּ]] [[H9002\|וּ]][[H1004M\|בֵיתֵ֔]][[H9022\|ךְ]] [[H9002\|וְ]][[H1481A\|ג֖וּרִי]] [[H9003\|בַּ]][[H0834B\|אֲשֶׁ֣ר]] [[H1481A\|תָּג֑וּרִי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7121G\|קָרָ֤א]] [[H3068G\|יְהוָה֙]] [[H9005\|לָֽ]][[H7458\|רָעָ֔ב]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0935G\|בָּ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H7651\|שֶׁ֥בַע]] [[H8141\|שָׁנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic FAMINE|FAMINE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JUDGE|JUDGE]] • [[topic KINDNESS|KINDNESS]] • [[topic KING|KING]] • [[topic LAND|LAND]] • [[topic PROPERTY|PROPERTY]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.20|<< 2 Kings 7:20]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.2|2 Kings 8:2 >>]]</td></tr></table>
 

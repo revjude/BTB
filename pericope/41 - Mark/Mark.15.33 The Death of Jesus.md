@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Jesus
+type: Pericope
 pericope: "[[Mark.15.33 The Death of Jesus|The Death of Jesus]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Mark
 chapter: 15
 book/chapter: "[[Mark.15|Mark 15]]"
-genre:
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Mark.15.33]]"
 - "[[Mark.15.34]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Mark.15.41]]"
 ---
 
-[[Mark.15|Mark 15:33 - Mark 15:41]]
+<small>[[Mark.15|Mark 15:33-41]]</small>
 *The Death of Jesus*
 
 [[Mark.15.33|33]] And when the sixth hour was come, there was darkness over the whole land until the ninth hour.

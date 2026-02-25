@@ -1,8 +1,81 @@
+---
+title: 2 Kings 10:15
+type: Verse
+kjv: "And when he was departed thence, he lighted on Jehonadab the son of Rechab coming to meet him: and he saluted him, and said to him, Is thine heart right, as my heart is with thy heart? And Jehonadab answered, It is. If it be, give me thine hand. And he gave him his hand; and he took him up to him into the chariot."
+bsb: "When he left there, he found Jehonadab son of Rechab, who was coming to meet him. Jehu greeted him and asked, “Is your heart as true to mine as my heart is to yours?” “It is!” Jehonadab replied. “If it is,” said Jehu, “give me your hand.” So he gave him his hand, and Jehu helped him into his chariot,"
+hebrew: "וַיֵּ֣לֶךְ מִשָּׁ֡ם וַיִּמְצָ֣א אֶת־ יְהוֹנָדָב֩ בֶּן־ רֵכָ֨ב לִקְרָאת֜וֹ וַֽיְבָרְכֵ֗הוּ וַיֹּ֨אמֶר אֵלָ֜יו הֲיֵ֧שׁ אֶת־ לְבָבְךָ֣ יָשָׁ֗ר כַּאֲשֶׁ֤ר לְבָבִי֙ עִם־ לְבָבֶ֔ךָ וַיֹּ֨אמֶר יְהוֹנָדָ֥ב יֵ֛שׁ וָיֵ֖שׁ תְּנָ֣ה אֶת־ יָדֶ֑ךָ וַיִּתֵּ֣ן יָד֔וֹ וַיַּעֲלֵ֥הוּ אֵלָ֖יו אֶל־ הַמֶּרְכָּבָֽה׃"
+pericope: "[[2Kgs.10.1 Ahab’s Seventy Sons Killed|Ahab’s Seventy Sons Killed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic HAND|HAND]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H4672]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3082G]]"
+- "[[H1121A]]"
+- "[[H7394H]]"
+- "[[H9005]]"
+- "[[H7122G]]"
+- "[[H9033]]"
+- "[[H1288]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H0854]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H3477G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H9020]]"
+- "[[H5973A]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H4818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:15**<big><big>[[2Kgs.10.1 Ahab’s Seventy Sons Killed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he was departed thence, he lighted on Jehonadab the son of Rechab [coming] to meet him: and he saluted him, and said to him, Is thine heart right, as my heart [is] with thy heart? And Jehonadab answered, It is. If it be, give [me] thine hand. And he gave [him] his hand; and he took him up to him into the chariot.
 <small><sub>**BSB:**</sub></small>
 When he left there, he found Jehonadab son of Rechab, who was coming to meet him. Jehu greeted him and asked, “Is your heart as true to mine as my heart is to yours?” “It is!” Jehonadab replied. “If it is,” said Jehu, “give me your hand.” So he gave him his hand, and Jehu helped him into his chariot,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֣לֶךְ]] [[H9006\|מִ]][[H8033G\|שָּׁ֡ם]] [[H9001\|וַ]][[H4672\|יִּמְצָ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H3082G\|יְהוֹנָדָב֩]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7394H\|רֵכָ֨ב]] [[H9005\|לִ]][[H7122G\|קְרָאת֜]][[H9033\|וֹ]] [[H9001\|וַֽ]][[H1288\|יְבָרְכֵ֗]][[H9033\|הוּ]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9008\|הֲ]][[H3426\|יֵ֧שׁ]] [[H0854\|אֶת]][[H9014\|־]] [[H3824\|לְבָבְ]][[H9021\|ךָ֣]] [[H3477G\|יָשָׁ֗ר]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֤ר]] [[H3824\|לְבָבִ]][[H9020\|י֙]] [[H5973A\|עִם]][[H9014\|־]] [[H3824\|לְבָבֶ֔]][[H9021\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3082G\|יְהוֹנָדָ֥ב]] [[H3426\|יֵ֛שׁ]] [[H9002\|וָ]][[H3426\|יֵ֖שׁ]] [[H5414G\|תְּנָ֣]][[H9012\|ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדֶ֑]][[H9021\|ךָ]] [[H9001\|וַ]][[H5414G\|יִּתֵּ֣ן]] [[H3027G\|יָד֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5927G\|יַּעֲלֵ֥]][[H9033\|הוּ]] [[H0413\|אֵלָ֖י]][[H9033\|ו]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4818\|מֶּרְכָּבָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENTHUSIASM|ENTHUSIASM]] • [[topic HAND|HAND]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic JONADAB|JONADAB]] • [[topic RECHAB|RECHAB]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.14|<< 2 Kings 10:14]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.16|2 Kings 10:16 >>]]</td></tr></table>
 

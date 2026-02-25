@@ -1,8 +1,62 @@
+---
+title: Isaiah 59:16
+type: Verse
+kjv: "And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him."
+bsb: "He saw that there was no man; He was amazed that there was no one to intercede. So His own arm brought salvation, and His own righteousness sustained Him."
+hebrew: "וַיַּרְא֙ כִּֽי־ אֵ֣ין אִ֔ישׁ וַיִּשְׁתּוֹמֵ֖ם כִּ֣י אֵ֣ין מַפְגִּ֑יעַ וַתּ֤וֹשַֽׁע לוֹ֙ זְרֹע֔וֹ וְצִדְקָת֖וֹ הִ֥יא סְמָכָֽתְהוּ׃"
+pericope: "[[Isa.59.1 Sin Separates Us from God|Sin Separates Us from God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 59
+book/chapter: "[[Isa.59|Isaiah 59]]"
+chronological_order: 698
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic ARM|ARM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0369]]"
+- "[[H0376I]]"
+- "[[H8074H]]"
+- "[[H6293]]"
+- "[[H3467]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2220]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6666]]"
+- "[[H1931]]"
+- "[[H5564]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 59:16**<big><big>[[Isa.59.1 Sin Separates Us from God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he saw that [there was] no man, and wondered that [there was] no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.
 <small><sub>**BSB:**</sub></small>
 He saw that there was no man; He was amazed that there was no one to intercede. So His own arm brought salvation, and His own righteousness sustained Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|יַּרְא֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0369\|אֵ֣ין]] [[H0376I\|אִ֔ישׁ]] [[H9001\|וַ]][[H8074H\|יִּשְׁתּוֹמֵ֖ם]] [[H3588A\|כִּ֣י]] [[H0369\|אֵ֣ין]] [[H6293\|מַפְגִּ֑יעַ]] [[H9001\|וַ]][[H3467\|תּ֤וֹשַֽׁע]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H2220\|זְרֹע֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H6666\|צִדְקָת֖]][[H9023\|וֹ]] [[H1931\|הִ֥יא]] [[H5564\|סְמָכָֽתְ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic ARM|ARM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SOLDIERS|SOLDIERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.59.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.59.15|<< Isaiah 59:15]]</td><td align="center" style="border:none;">[[Isa.59|Isaiah 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.59.17|Isaiah 59:17 >>]]</td></tr></table>
 

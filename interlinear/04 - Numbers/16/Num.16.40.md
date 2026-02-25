@@ -1,8 +1,80 @@
+---
+title: Numbers 16:40
+type: Verse
+kjv: "To be a memorial unto the children of Israel, that no stranger, which is not of the seed of Aaron, come near to offer incense before the LORD; that he be not as Korah, and as his company: as the LORD said to him by the hand of Moses."
+bsb: "just as the LORD commanded him through Moses. This was to be a reminder to the Israelites that no outsider who is not a descendant of Aaron should approach to offer incense before the LORD, lest he become like Korah and his followers."
+hebrew: "זִכָּר֞וֹן לִבְנֵ֣י יִשְׂרָאֵ֗ל לְ֠מַעַן אֲשֶׁ֨ר לֹֽא־ יִקְרַ֜ב אִ֣ישׁ זָ֗ר אֲ֠שֶׁר לֹ֣א מִזֶּ֤רַע אַהֲרֹן֙ ה֔וּא לְהַקְטִ֥יר קְטֹ֖רֶת לִפְנֵ֣י יְהוָ֑ה וְלֹֽא־ יִהְיֶ֤ה כְקֹ֙רַח֙ וְכַ֣עֲדָת֔וֹ כַּאֲשֶׁ֨ר דִּבֶּ֧ר יְהוָ֛ה בְּיַד־ מֹשֶׁ֖ה לֽוֹ׃"
+pericope: "[[Num.16.36 The Censers Reserved for Holy Use|The Censers Reserved for Holy Use]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H2146]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H4616]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7126G]]"
+- "[[H0376G]]"
+- "[[H2114A]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H0175]]"
+- "[[H1931]]"
+- "[[H6999A]]"
+- "[[H7004]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7141I]]"
+- "[[H5712]]"
+- "[[H9023]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H4872]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:40**<big><big>[[Num.16.36 The Censers Reserved for Holy Use|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [To be] a memorial unto the children of Israel, that no stranger, which [is] not of the seed of Aaron, come near to offer incense before the LORD; that he be not as Korah, and as his company: as the LORD said to him by the hand of Moses.
 <small><sub>**BSB:**</sub></small>
 just as the LORD commanded him through Moses. This was to be a reminder to the Israelites that no outsider who is not a descendant of Aaron should approach to offer incense before the LORD, lest he become like Korah and his followers.
+<small><sub>**Hebrew:**</sub></small>
+[[H2146\|זִכָּר֞וֹן]] [[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H4616\|לְ֠מַעַן]] [[H0834A\|אֲשֶׁ֨ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7126G\|יִקְרַ֜ב]] [[H0376G\|אִ֣ישׁ]] [[H2114A\|זָ֗ר]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹ֣א]] [[H9006\|מִ]][[H2233H\|זֶּ֤רַע]] [[H0175\|אַהֲרֹן֙]] [[H1931\|ה֔וּא]] [[H9005\|לְ]][[H6999A\|הַקְטִ֥יר]] [[H7004\|קְטֹ֖רֶת]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֤ה]] [[H9004\|כְ]][[H7141I\|קֹ֙רַח֙]] [[H9002\|וְ]][[H9004\|כַ֣]][[H5712\|עֲדָת֔]][[H9023\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בְּ]][[H3027J\|יַד]][[H9014\|־]] [[H4872\|מֹשֶׁ֖ה]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic INCENSE|INCENSE]] • [[topic ISRAEL|ISRAEL]] • [[topic SACRILEGE|SACRILEGE]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.39|<< Numbers 16:39]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.41|Numbers 16:41 >>]]</td></tr></table>
 

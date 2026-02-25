@@ -1,8 +1,66 @@
+---
+title: 1 Samuel 17:44
+type: Verse
+kjv: "And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field."
+bsb: "“Come here,” he called to David, “and I will give your flesh to the birds of the air and the beasts of the field!”"
+hebrew: "וַיֹּ֥אמֶר הַפְּלִשְׁתִּ֖י אֶל־ דָּוִ֑ד לְכָ֣ה אֵלַ֔י וְאֶתְּנָה֙ אֶת־ בְּשָׂ֣רְךָ֔ לְע֥וֹף הַשָּׁמַ֖יִם וּלְבֶהֱמַ֥ת הַשָּׂדֶֽה׃ ס"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic SLING|SLING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H1980H]]"
+- "[[H9012]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H1320]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H0929]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 17:44**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the Philistine said to David, Come to me, and I will give thy flesh unto the fowls of the air, and to the beasts of the field.
 <small><sub>**BSB:**</sub></small>
 “Come here,” he called to David, “and I will give your flesh to the birds of the air and the beasts of the field!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֖י]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֑ד]] [[H1980H\|לְכָ֣]][[H9012\|ה]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H5414G\|אֶתְּנָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂ֣רְ]][[H9021\|ךָ֔]] [[H9005\|לְ]][[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H0929\|בֶהֱמַ֥ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic SLING|SLING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.43|<< 1 Samuel 17:43]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.45|1 Samuel 17:45 >>]]</td></tr></table>
 
@@ -20,7 +78,7 @@ And the Philistine said to David, Come to me, and I will give thy flesh unto the
 | to [the] bird[s] of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H5775\|ע֥וֹף]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> 'of<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the heavens  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H8064\|שָּׁמַ֖יִם]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sha.Ma.yim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to [the] animal[s] of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0929\|בֶהֱמַ֥ת]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> ve.he.Mat<small><sup>[[HNcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the field  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H7704G\|שָּׂדֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> sa.Deh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.43|<< 1 Samuel 17:43]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.45|1 Samuel 17:45 >>]]</td></tr></table>
 
 

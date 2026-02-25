@@ -1,10 +1,68 @@
+---
+title: Philippians 4:15
+type: Verse
+kjv: "Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only."
+bsb: "And as you Philippians know, in the early days of the gospel, when I left Macedonia, no church but you partnered with me in the matter of giving and receiving."
+greek: "οἴδατε δὲ καὶ ὑμεῖς, Φιλιππήσιοι, ὅτι ἐν ἀρχῇ τοῦ εὐαγγελίου, ὅτε ἐξῆλθον ἀπὸ Μακεδονίας, οὐδεμία μοι ἐκκλησία ἐκοινώνησεν εἰς λόγον δόσεως καὶ λήμψεως εἰ μὴ ὑμεῖς μόνοι·"
+pericope: "[[Phil.4.10 The Generosity of the Philippians|The Generosity of the Philippians]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 4
+book/chapter: "[[Phil.4|Philippians 4]]"
+chronological_order: 1120
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILIPPI|PHILIPPI]]"
+strongs:
+- "[[G6063]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G5374]]"
+- "[[G3754G]]"
+- "[[G1722]]"
+- "[[G0746]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G3753]]"
+- "[[G1831]]"
+- "[[G0575]]"
+- "[[G3109]]"
+- "[[G3762]]"
+- "[[G3165]]"
+- "[[G1577]]"
+- "[[G2841]]"
+- "[[G1519]]"
+- "[[G3056]]"
+- "[[G1394]]"
+- "[[G3028]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G3441]]"
+texts:
+- NKO
+---
+
 **Philippians 4:15**<big><big>[[Phil.4.10 The Generosity of the Philippians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.
 <small><sub>**BSB:**</sub></small>
 And as you Philippians know, in the early days of the gospel, when I left Macedonia, no church but you partnered with me in the matter of giving and receiving.
-<small><sub>**Literal:**</sub></small>
-Know now also you yourselves, Philippians, that in [the] beginning of the gospel, when I went out from Macedonia, no [one] with me church partnered with regard to [the] matter of giving and receiving only except you alone;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.14|<< Philippians 4:14]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.16|Philippians 4:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|οἴδατε]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς,]]  [[G5374\|Φιλιππήσιοι,]]  [[G3754G\|ὅτι]]  [[G1722\|ἐν]]  [[G0746\|ἀρχῇ]]  [[G3588\|τοῦ]]  [[G2098\|εὐαγγελίου,]]  [[G3753\|ὅτε]]  [[G1831\|ἐξῆλθον]]  [[G0575\|ἀπὸ]]  [[G3109\|Μακεδονίας,]]  [[G3762\|οὐδεμία]]  [[G3165\|μοι]]  [[G1577\|ἐκκλησία]]  [[G2841\|ἐκοινώνησεν]]  [[G1519\|εἰς]]  [[G3056\|λόγον]]  [[G1394\|δόσεως]]  [[G2532\|καὶ]]  [[G3028\|λήμψεως]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G4771\|ὑμεῖς]]  [[G3441\|μόνοι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILIPPI|PHILIPPI]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.4.14|<< Philippians 4:14]]</td><td align="center" style="border:none;">[[Phil.4|Philippians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.16|Philippians 4:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

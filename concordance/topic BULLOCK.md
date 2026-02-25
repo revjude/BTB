@@ -5,19 +5,19 @@
 
 → Uses of
 
-- For sacrifice [[Exod.29.3|Ex 29:3]],[[Exod.29.10|10]]-[[Exod.29.14|14]],[[Exod.29.36|36]]; [[Lev.4.8|Le 4:8]],[[Lev.4.16|16]]; [[Num.7.87|Nu 7:87]],[[Num.7.88|88]];  [[Num.28.11|28:11]]-[[Num.28.31|31]]; [[Num.29|29]]
+- For sacrifice [[Exod.29.3|Ex 29:3]],[[Exod.29.10|10-14]],[[Exod.29.36|36]]; [[Lev.4.8|Le 4:8]],[[Lev.4.16|16]]; [[Num.7.87|Nu 7:87]],[[Num.7.88|88]];  [[Num.28.11|28:11-31]]; [[Num.29|29]]
 
 - For plowing [[1Sam.14.14|1Sa 14:14]]; [[1Kgs.19.19|1Ki 19:19]]; [[Prov.14.4|Pr 14:4]]; [[Isa.32.20|Isa 32:20]];  [[Jer.31.18|Jer 31:18]]
 
 - For treading out grain [[Deut.25.4|De 25:4]]
 
-- With wagons [[Num.7.3|Nu 7:3]]-[[Num.7.8|8]]; [[2Sam.6.3|2Sa 6:3]]-[[2Sam.6.6|6]]
+- With wagons [[Num.7.3|Nu 7:3-8]]; [[2Sam.6.3|2Sa 6:3-6]]
 
 → Laws concerning
 
-- Trespass by [[Exod.21.28|Ex 21:28]]-[[Exod.21.36|36]]
+- Trespass by [[Exod.21.28|Ex 21:28-36]]
 
-- Theft of [[Exod.22.1|Ex 22:1]]-[[Exod.22.10|10]]
+- Theft of [[Exod.22.1|Ex 22:1-10]]
 
 - Rest for [[Exod.23.12|Ex 23:12]]
 

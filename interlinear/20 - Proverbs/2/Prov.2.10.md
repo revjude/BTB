@@ -1,8 +1,59 @@
+---
+title: Proverbs 2:10
+type: Verse
+kjv: "When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;"
+bsb: "For wisdom will enter your heart, and knowledge will delight your soul."
+hebrew: "כִּֽי־ תָב֣וֹא חָכְמָ֣ה בְלִבֶּ֑ךָ וְ֝דַ֗עַת לְֽנַפְשְׁךָ֥ יִנְעָֽם׃"
+pericope: "[[Prov.2.1 The Benefits of Wisdom|The Benefits of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 2
+book/chapter: "[[Prov.2|Proverbs 2]]"
+chronological_order: 457
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic KNOWLEDGE|KNOWLEDGE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H2451]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1847]]"
+- "[[H9005]]"
+- "[[H5315G]]"
+- "[[H5276]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 2:10**<big><big>[[Prov.2.1 The Benefits of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When wisdom entereth into thine heart, and knowledge is pleasant unto thy soul;
 <small><sub>**BSB:**</sub></small>
 For wisdom will enter your heart, and knowledge will delight your soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0935G\|תָב֣וֹא]] [[H2451\|חָכְמָ֣ה]] [[H9003\|בְ]][[H3820A\|לִבֶּ֑]][[H9021\|ךָ]] [[H9002\|וְ֝]][[H1847\|דַ֗עַת]] [[H9005\|לְֽ]][[H5315G\|נַפְשְׁ]][[H9021\|ךָ֥]] [[H5276\|יִנְעָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHASTITY|CHASTITY]] • [[topic KNOWLEDGE|KNOWLEDGE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.2.9|<< Proverbs 2:9]]</td><td align="center" style="border:none;">[[Prov.2|Proverbs 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.2.11|Proverbs 2:11 >>]]</td></tr></table>
 

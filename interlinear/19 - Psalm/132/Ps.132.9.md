@@ -1,8 +1,53 @@
+---
+title: Psalm 132:9
+type: Verse
+kjv: "Let thy priests be clothed with righteousness; and let thy saints shout for joy."
+bsb: "May Your priests be clothed with righteousness, and Your saints shout for joy."
+hebrew: "כֹּהֲנֶ֥יךָ יִלְבְּשׁוּ־ צֶ֑דֶק וַחֲסִידֶ֥יךָ יְרַנֵּֽנוּ׃"
+pericope: "[[Ps.132.1 The LORD Has Chosen Zion|The LORD Has Chosen Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 132
+book/chapter: "[[Ps.132|Psalm 132]]"
+chronological_order: 401
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H3548]]"
+- "[[H9021]]"
+- "[[H3847]]"
+- "[[H9014]]"
+- "[[H6664G]]"
+- "[[H9002]]"
+- "[[H2623]]"
+- "[[H7442B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 132:9**<big><big>[[Ps.132.1 The LORD Has Chosen Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let thy priests be clothed with righteousness; and let thy saints shout for joy.
 <small><sub>**BSB:**</sub></small>
 May Your priests be clothed with righteousness, and Your saints shout for joy.
+<small><sub>**Hebrew:**</sub></small>
+[[H3548\|כֹּהֲנֶ֥י]][[H9021\|ךָ]] [[H3847\|יִלְבְּשׁוּ]][[H9014\|־]] [[H6664G\|צֶ֑דֶק]] [[H9002\|וַ]][[H2623\|חֲסִידֶ֥י]][[H9021\|ךָ]] [[H7442B\|יְרַנֵּֽנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.132.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.132.8|<< Psalms 132:8]]</td><td align="center" style="border:none;">[[Ps.132|Psalms 132]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.132.10|Psalms 132:10 >>]]</td></tr></table>
 

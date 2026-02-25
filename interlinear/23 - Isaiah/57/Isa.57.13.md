@@ -1,8 +1,70 @@
+---
+title: Isaiah 57:13
+type: Verse
+kjv: "When thou criest, let thy companies deliver thee; but the wind shall carry them all away; vanity shall take them: but he that putteth his trust in me shall possess the land, and shall inherit my holy mountain;"
+bsb: "When you cry out, let your companies of idols deliver you! Yet the wind will carry off all of them, a breath will take them away. But he who seeks refuge in Me will inherit the land and possess My holy mountain.”"
+hebrew: "בְּזַֽעֲקֵךְ֙ יַצִּילֻ֣ךְ קִבּוּצַ֔יִךְ וְאֶת־ כֻּלָּ֥ם יִשָּׂא־ ר֖וּחַ יִקַּח־ הָ֑בֶל וְהַחוֹסֶ֥ה בִי֙ יִנְחַל־ אֶ֔רֶץ וְיִירַ֖שׁ הַר־ קָדְשִֽׁי׃"
+pericope: "[[Isa.57.3 God Condemns Idolatry|God Condemns Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H9003]]"
+- "[[H2199]]"
+- "[[H9042]]"
+- "[[H5337]]"
+- "[[H9032]]"
+- "[[H6899]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H5375H]]"
+- "[[H7307H]]"
+- "[[H3947G]]"
+- "[[H1892]]"
+- "[[H9009]]"
+- "[[H2620]]"
+- "[[H9030]]"
+- "[[H5157]]"
+- "[[H0776G]]"
+- "[[H3423G]]"
+- "[[H2022G]]"
+- "[[H6944G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:13**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou criest, let thy companies deliver thee; but the wind shall carry them all away; vanity shall take [them]: but he that putteth his trust in me shall possess the land, and shall inherit my holy mountain;
 <small><sub>**BSB:**</sub></small>
 When you cry out, let your companies of idols deliver you! Yet the wind will carry off all of them, a breath will take them away. But he who seeks refuge in Me will inherit the land and possess My holy mountain.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2199\|זַֽעֲקֵ]][[H9042\|ךְ֙]] [[H5337\|יַצִּילֻ֣]][[H9032\|ךְ]] [[H6899\|קִבּוּצַ֔יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כֻּלָּ֥]][[H9028\|ם]] [[H5375H\|יִשָּׂא]][[H9014\|־]] [[H7307H\|ר֖וּחַ]] [[H3947G\|יִקַּח]][[H9014\|־]] [[H1892\|הָ֑בֶל]] [[H9002\|וְ]][[H9009\|הַ]][[H2620\|חוֹסֶ֥ה]] [[H9003\|בִ]][[H9030\|י֙]] [[H5157\|יִנְחַל]][[H9014\|־]] [[H0776G\|אֶ֔רֶץ]] [[H9002\|וְ]][[H3423G\|יִירַ֖שׁ]] [[H2022G\|הַר]][[H9014\|־]] [[H6944G\|קָדְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic FAITH|FAITH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.12|<< Isaiah 57:12]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.14|Isaiah 57:14 >>]]</td></tr></table>
 

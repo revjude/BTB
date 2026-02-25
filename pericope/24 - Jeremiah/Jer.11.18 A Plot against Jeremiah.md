@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Plot against Jeremiah
+type: Pericope
 pericope: "[[Jer.11.18 A Plot against Jeremiah|A Plot against Jeremiah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 11
 book/chapter: "[[Jer.11|Jeremiah 11]]"
-genre:
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.11.18]]"
 - "[[Jer.11.19]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.11.23]]"
 ---
 
-[[Jer.11|Jeremiah 11:18 - Jeremiah 11:23]]
+<small>[[Jer.11|Jeremiah 11:18-23]]</small>
 *A Plot against Jeremiah*
 
 [[Jer.11.18|18]] And the LORD hath given me knowledge \[of it\], and I know \[it\]: then thou shewedst me their doings.

@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 19:1
+type: Verse
+kjv: "And Saul spake to Jonathan his son, and to all his servants, that they should kill David."
+bsb: "Then Saul ordered his son Jonathan and all his servants to kill David. But Jonathan delighted greatly in David,"
+hebrew: "וַיְדַבֵּ֣ר שָׁא֗וּל אֶל־ יוֹנָתָ֤ן בְּנוֹ֙ וְאֶל־ כָּל־ עֲבָדָ֔יו לְהָמִ֖ית אֶת־ דָּוִ֑ד וִיהֽוֹנָתָן֙ בֶּן־ שָׁא֔וּל חָפֵ֥ץ בְּדָוִ֖ד מְאֹֽד׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic EVIL FOR GOOD|EVIL FOR GOOD]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3129N]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H0853]]"
+- "[[H1732]]"
+- "[[H3083H]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 19:1**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul spake to Jonathan his son, and to all his servants, that they should kill David.
 <small><sub>**BSB:**</sub></small>
 Then Saul ordered his son Jonathan and all his servants to kill David. But Jonathan delighted greatly in David,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H7586G\|שָׁא֗וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H3129N\|יוֹנָתָ֤ן]] [[H1121A\|בְּנ]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H9005\|לְ]][[H4191\|הָמִ֖ית]] [[H0853\|אֶת]][[H9014\|־]] [[H1732\|דָּוִ֑ד]] [[H9002\|וִ]][[H3083H\|יהֽוֹנָתָן֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H2654A\|חָפֵ֥ץ]] [[H9003\|בְּ]][[H1732\|דָוִ֖ד]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic EVIL FOR GOOD|EVIL FOR GOOD]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.18.30|<< 1 Samuel 18:30]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.2|1 Samuel 19:2 >>]]</td></tr></table>
 

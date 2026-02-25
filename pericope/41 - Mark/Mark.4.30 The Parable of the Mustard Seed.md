@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Mustard Seed
+type: Pericope
 pericope: "[[Mark.4.30 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 4
 book/chapter: "[[Mark.4|Mark 4]]"
-genre:
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.4.30]]"
 - "[[Mark.4.31]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.4.34]]"
 ---
 
-[[Mark.4|Mark 4:30 - Mark 4:34]]
+<small>[[Mark.4|Mark 4:30-34]]</small>
 *The Parable of the Mustard Seed*
 
 [[Mark.4.30|30]] And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?

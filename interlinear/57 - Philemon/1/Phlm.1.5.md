@@ -1,10 +1,51 @@
+---
+title: Philemon 1:5
+type: Verse
+kjv: "Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;"
+bsb: "because I hear about your faith in the Lord Jesus and your love for all the saints."
+greek: "ἀκούων σου τὴν ἀγάπην καὶ τὴν πίστιν ἣν ἔχεις πρὸς τὸν κύριον Ἰησοῦν καὶ εἰς πάντας τοὺς ἁγίους,"
+pericope: "[[Phlm.1.4 Philemon’s Faith and Love|Philemon’s Faith and Love]]"
+original_language: Greek
+testament: New
+book: Philemon
+chapter: 1
+book/chapter: "[[Phlm.1|Philemon 1]]"
+chronological_order: 1125
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- personal letter
+strongs:
+- "[[G0191]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0026]]"
+- "[[G2532]]"
+- "[[G4102G]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G4314]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G0040H]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Philemon 1:5**<big><big>[[Phlm.1.4 Philemon’s Faith and Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;
 <small><sub>**BSB:**</sub></small>
 because I hear about your faith in the Lord Jesus and your love for all the saints.
-<small><sub>**Literal:**</sub></small>
-hearing of your <the> love and the faith that you have toward the Lord Jesus and toward all the saints,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.4|<< Philemon 1:4]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.6|Philemon 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|ἀκούων]]  [[G4771\|σου]]  [[G3588\|τὴν]]  [[G0026\|ἀγάπην]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G3739\|ἣν]]  [[G2192\|ἔχεις]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G2424G\|Ἰησοῦν]]  [[G2532\|καὶ]]  [[G1519\|εἰς]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G0040H\|ἁγίους,]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phlm.1.4|<< Philemon 1:4]]</td><td align="center" style="border:none;">[[Phlm.1|Philemon 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phlm.1.6|Philemon 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

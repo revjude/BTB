@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Passover and the Feast of Unleavened Bread
+type: Pericope
 pericope: "[[Num.28.16 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 28
 book/chapter: "[[Num.28|Numbers 28]]"
-genre:
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 10
 verses:
 - "[[Num.28.16]]"
 - "[[Num.28.17]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Num.28.25]]"
 ---
 
-[[Num.28|Numbers 28:16 - Numbers 28:25]]
+<small>[[Num.28|Numbers 28:16-25]]</small>
 *Passover and the Feast of Unleavened Bread*
 
 [[Num.28.16|16]] And in the fourteenth day of the first month \[is\] the passover of the LORD.

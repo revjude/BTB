@@ -1,6 +1,77 @@
+---
+title: LXX Habakkuk 3:16
+type: Verse
+lxx: "I watched, and my belly was terrified from the sound of the prayer of my lips; and trembling entered into  my bones, and my part beneath. My manner was disturbed. I will rest in a day  of my affliction  for me to ascend to the people  of my sojourn."
+greek: "εφυλαξάμην και επτοήθη η κοιλία μου από φωνής προσευχής χειλέων μου και εισήλθε τρόμος εις τα οστά μου και υποκάτωθέν μου εταράχθη η έξις μου αναπαύσομαι εν ημέρα της θλιψεώς μου του αναβήναι με προς τον λαόν της παροικίας μου"
+original_language: Greek
+testament: Old
+book: Habakkuk
+chapter: 3
+book/chapter: "[[Hab.3|Habakkuk 3]]"
+chronological_order: 740
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BELLY|BELLY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[G5442]]"
+- "[[G2532]]"
+- "[[G4422]]"
+- "[[G3588]]"
+- "[[G2836]]"
+- "[[G0575]]"
+- "[[G5456]]"
+- "[[G4335]]"
+- "[[G5491]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G5156]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3747]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G9575]]"
+- "[[G1473]]"
+- "[[G5015]]"
+- "[[G3588]]"
+- "[[G1838]]"
+- "[[G1473]]"
+- "[[G0373]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G3588]]"
+- "[[G2347]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0305]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G3588]]"
+- "[[G3940]]"
+- "[[G1473]]"
+---
+
 **LXX Habakkuk 3:16** 
 <small><sub>**LXX:**</sub></small>
 I watched, and my belly was terrified from \[the\] sound of \[the\] prayer of my lips; and trembling entered into  my bones, and my \[part\] beneath. My manner was disturbed. I will rest in a day  of my affliction  for me to ascend to the people  of my sojourn. 
+<small><sub>**Greek:**</sub></small>
+[[G5442\|εφυλαξάμην]] [[G2532\|και]] [[G4422\|επτοήθη]] [[G3588\|η]] [[G2836\|κοιλία μου]] [[G0575\|από]] [[G5456\|φωνής]] [[G4335\|προσευχής]] [[G5491\|χειλέων]] [[G1473\|μου]] [[G2532\|και]] [[G1525\|εισήλθε]] [[G5156\|τρόμος]] [[G1519\|εις]] [[G3588\|τα]] [[G3747\|οστά]] [[G1473\|μου]] [[G2532\|και]] [[G9575\|υποκάτωθέν]] [[G1473\|μου]] [[G5015\|εταράχθη]] [[G3588\|η]] [[G1838\|έξις]] [[G1473\|μου]] [[G0373\|αναπαύσομαι]] [[G1722\|εν]] [[G2250\|ημέρα]] [[G3588\|της]] [[G2347\|θλιψεώς]] [[G1473\|μου]] [[G3588\|του]] [[G0305\|αναβήναι]] [[G1473\|με]] [[G4314\|προς]] [[G3588\|τον]] [[G2992\|λαόν]] [[G3588\|της]] [[G3940\|παροικίας]] [[G1473\|μου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BELLY|BELLY]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Hab.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.15|<< Habakkuk 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.17|Habakkuk 3:17 >>]]</td></tr></table>
 
@@ -38,6 +109,6 @@ I watched, and my belly was terrified from \[the\] sound of \[the\] prayer of my
 | people | **<big>[[G2992\|λαόν]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | of my sojourn. | **<big>[[G3940\|παροικίας]]</big>** **<big>[[G1473\|μου]]</big>** |
-[[Hab.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.15|<< Habakkuk 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.17|Habakkuk 3:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Hab.3.15|<< Habakkuk 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Hab.3.17|Habakkuk 3:17 >>]]</td></tr></table>
 
 

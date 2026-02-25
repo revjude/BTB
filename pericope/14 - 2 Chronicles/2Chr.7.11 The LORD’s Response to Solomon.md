@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD’s Response to Solomon
+type: Pericope
 pericope: "[[2Chr.7.11 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 7
 book/chapter: "[[2Chr.7|2 Chronicles 7]]"
-genre:
+chronological_order: 496
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 12
 verses:
 - "[[2Chr.7.11]]"
 - "[[2Chr.7.12]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Chr.7.22]]"
 ---
 
-[[2Chr.7|2 Chronicles 7:11 - 2 Chronicles 7:22]]
+<small>[[2Chr.7|2 Chronicles 7:11-22]]</small>
 *The LORD’s Response to Solomon*
 
 [[2Chr.7.11|11]] Thus Solomon finished the house of the LORD, and the king’s house: and all that came into Solomon’s heart to make in the house of the LORD, and in his own house, he prosperously effected.

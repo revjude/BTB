@@ -1,8 +1,64 @@
+---
+title: Joshua 11:1
+type: Verse
+kjv: "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,"
+bsb: "Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph;"
+hebrew: "וַיְהִ֕י כִּשְׁמֹ֖עַ יָבִ֣ין מֶֽלֶךְ־ חָצ֑וֹר וַיִּשְׁלַ֗ח אֶל־ יוֹבָב֙ מֶ֣לֶךְ מָד֔וֹן וְאֶל־ מֶ֥לֶךְ שִׁמְר֖וֹן וְאֶל־ מֶ֥לֶךְ אַכְשָֽׁף׃"
+pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ACHSHAPH|ACHSHAPH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CONFEDERACIES|CONFEDERACIES]]"
+- "[[topic HAZOR|HAZOR]]"
+- "[[topic JABIN|JABIN]]"
+- "[[topic JOBAB|JOBAB]]"
+- "[[topic MADON|MADON]]"
+- "[[topic SHIMRON|SHIMRON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H2985G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H2674G]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H3103I]]"
+- "[[H4068]]"
+- "[[H9002]]"
+- "[[H8110A]]"
+- "[[H0407]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:1**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Jabin king of Hazor had heard [those things], that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,
 <small><sub>**BSB:**</sub></small>
 Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph;
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֖עַ]] [[H2985G\|יָבִ֣ין]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H2674G\|חָצ֑וֹר]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֗ח]] [[H0413\|אֶל]][[H9014\|־]] [[H3103I\|יוֹבָב֙]] [[H4428G\|מֶ֣לֶךְ]] [[H4068\|מָד֔וֹן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H8110A\|שִׁמְר֖וֹן]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0407\|אַכְשָֽׁף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHSHAPH|ACHSHAPH]] • [[topic ARMIES|ARMIES]] • [[topic CANAANITES|CANAANITES]] • [[topic CONFEDERACIES|CONFEDERACIES]] • [[topic HAZOR|HAZOR]] • [[topic JABIN|JABIN]] • [[topic JOBAB|JOBAB]] • [[topic MADON|MADON]] • [[topic SHIMRON|SHIMRON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.10.43|<< Joshua 10:43]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.2|Joshua 11:2 >>]]</td></tr></table>
 

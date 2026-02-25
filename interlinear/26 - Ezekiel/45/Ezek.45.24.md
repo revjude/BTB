@@ -1,8 +1,55 @@
+---
+title: Ezekiel 45:24
+type: Verse
+kjv: "And he shall prepare a meat offering of an ephah for a bullock, and an ephah for a ram, and an hin of oil for an ephah."
+bsb: "He shall also provide as a grain offering an ephah for each bull and an ephah for each ram, along with a hin of olive oil for each ephah of grain."
+hebrew: "וּמִנְחָ֗ה אֵיפָ֥ה לַפָּ֛ר וְאֵיפָ֥ה לָאַ֖יִל יַֽעֲשֶׂ֑ה וְשֶׁ֖מֶן הִ֥ין לָאֵיפָֽה׃"
+pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic KING|KING]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H4503G]]"
+- "[[H0374]]"
+- "[[H9005]]"
+- "[[H6499]]"
+- "[[H0352A]]"
+- "[[H6213I]]"
+- "[[H8081]]"
+- "[[H1969]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 45:24**<big><big>[[Ezek.45.13 Offerings and Feasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall prepare a meat offering of an ephah for a bullock, and an ephah for a ram, and an hin of oil for an ephah.
 <small><sub>**BSB:**</sub></small>
 He shall also provide as a grain offering an ephah for each bull and an ephah for each ram, along with a hin of olive oil for each ephah of grain.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4503G\|מִנְחָ֗ה]] [[H0374\|אֵיפָ֥ה]] [[H9005\|לַ]][[H6499\|פָּ֛ר]] [[H9002\|וְ]][[H0374\|אֵיפָ֥ה]] [[H9005\|לָ]][[H0352A\|אַ֖יִל]] [[H6213I\|יַֽעֲשֶׂ֑ה]] [[H9002\|וְ]][[H8081\|שֶׁ֖מֶן]] [[H1969\|הִ֥ין]] [[H9005\|לָ]][[H0374\|אֵיפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KING|KING]] • [[topic MEASURE|MEASURE]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.23|<< Ezekiel 45:23]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.25|Ezekiel 45:25 >>]]</td></tr></table>
 

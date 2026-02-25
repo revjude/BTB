@@ -1,8 +1,72 @@
+---
+title: Ecclesiastes 7:26
+type: Verse
+kjv: "And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her."
+bsb: "And I find more bitter than death the woman who is a snare, whose heart is a net, and whose hands are chains. The man who pleases God escapes her, but the sinner is ensnared."
+hebrew: "וּמוֹצֶ֨א אֲנִ֜י מַ֣ר מִמָּ֗וֶת אֶת־ הָֽאִשָּׁה֙ אֲשֶׁר־ הִ֨יא מְצוֹדִ֧ים וַחֲרָמִ֛ים לִבָּ֖הּ אֲסוּרִ֣ים יָדֶ֑יהָ ט֞וֹב לִפְנֵ֤י הָאֱלֹהִים֙ יִמָּלֵ֣ט מִמֶּ֔נָּה וְחוֹטֵ֖א יִלָּ֥כֶד בָּֽהּ׃"
+pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic NET|NET]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H4672]]"
+- "[[H0589]]"
+- "[[H4751]]"
+- "[[H9006]]"
+- "[[H4194]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H4685B]]"
+- "[[H2764B]]"
+- "[[H3820A]]"
+- "[[H9024]]"
+- "[[H0612]]"
+- "[[H3027G]]"
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H4422]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H2398]]"
+- "[[H3920]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:26**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I find more bitter than death the woman, whose heart [is] snares and nets, [and] her hands [as] bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
 <small><sub>**BSB:**</sub></small>
 And I find more bitter than death the woman who is a snare, whose heart is a net, and whose hands are chains. The man who pleases God escapes her, but the sinner is ensnared.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4672\|מוֹצֶ֨א]] [[H0589\|אֲנִ֜י]] [[H4751\|מַ֣ר]] [[H9006\|מִ]][[H4194\|מָּ֗וֶת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|הִ֨יא]] [[H4685B\|מְצוֹדִ֧ים]] [[H9002\|וַ]][[H2764B\|חֲרָמִ֛ים]] [[H3820A\|לִבָּ֖]][[H9024\|הּ]] [[H0612\|אֲסוּרִ֣ים]] [[H3027G\|יָדֶ֑י]][[H9024\|הָ]] [[H2896A\|ט֞וֹב]] [[H9005\|לִ]][[H6440G\|פְנֵ֤י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִים֙]] [[H4422\|יִמָּלֵ֣ט]] [[H4480A\|מִמֶּ֔]][[H9034\|נָּה]] [[H9002\|וְ]][[H2398\|חוֹטֵ֖א]] [[H3920\|יִלָּ֥כֶד]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic NET|NET]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.25|<< Ecclesiastes 7:25]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.27|Ecclesiastes 7:27 >>]]</td></tr></table>
 

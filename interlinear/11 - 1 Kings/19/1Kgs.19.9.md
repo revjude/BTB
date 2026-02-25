@@ -1,8 +1,66 @@
+---
+title: 1 Kings 19:9
+type: Verse
+kjv: "And he came thither unto a cave, and lodged there; and, behold, the word of the LORD came to him, and he said unto him, What doest thou here, Elijah?"
+bsb: "There Elijah entered a cave and spent the night. And the word of the LORD came to him, saying, “What are you doing here, Elijah?”"
+hebrew: "וַיָּבֹא־ שָׁ֥ם אֶל־ הַמְּעָרָ֖ה וַיָּ֣לֶן שָׁ֑ם וְהִנֵּ֤ה דְבַר־ יְהוָה֙ אֵלָ֔יו וַיֹּ֣אמֶר ל֔וֹ מַה־ לְּךָ֥ פֹ֖ה אֵלִיָּֽהוּ׃"
+pericope: "[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|The LORD Speaks to Elijah at Horeb]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 19
+book/chapter: "[[1Kgs.19|1 Kings 19]]"
+chronological_order: 565
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CAVE|CAVE]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4631]]"
+- "[[H3885A]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9031]]"
+- "[[H6311]]"
+- "[[H0452G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 19:9**<big><big>[[1Kgs.19.9 The LORD Speaks to Elijah at Horeb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he came thither unto a cave, and lodged there; and, behold, the word of the LORD [came] to him, and he said unto him, What doest thou here, Elijah?
 <small><sub>**BSB:**</sub></small>
 There Elijah entered a cave and spent the night. And the word of the LORD came to him, saying, “What are you doing here, Elijah?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹא]][[H9014\|־]] [[H8033G\|שָׁ֥ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4631\|מְּעָרָ֖ה]] [[H9001\|וַ]][[H3885A\|יָּ֣לֶן]] [[H8033G\|שָׁ֑ם]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לְּ]][[H9031\|ךָ֥]] [[H6311\|פֹ֖ה]] [[H0452G\|אֵלִיָּֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAVE|CAVE]] • [[topic ELIJAH|ELIJAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROPHETS|PROPHETS]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.19.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.19.8|<< 1 Kings 19:8]]</td><td align="center" style="border:none;">[[1Kgs.19|1 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.19.10|1 Kings 19:10 >>]]</td></tr></table>
 

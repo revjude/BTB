@@ -1,6 +1,63 @@
+---
+title: LXX Jeremiah 50:34
+type: Verse
+lxx: "But the one ransoming them is strong; the lord almighty is his name. He will judge equitably against  his opponents, that the land should be removed; and he provokes the ones dwelling in Babylon."
+greek: "και ο λυτρούμενος αυτούς ισχυρός κύριος παντοκράτωρ όνομα αυτώ κρίσιν κρινεί προς τους αντιδίκους αυτού όπως εξάρη την γην και παροξύνει τοις κατοικούσι Βαβυλώνα"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3084]]"
+- "[[G1473]]"
+- "[[G2478]]"
+- "[[G2962]]"
+- "[[G3841]]"
+- "[[G3686]]"
+- "[[G1473]]"
+- "[[G2920]]"
+- "[[G2919]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0476]]"
+- "[[G1473]]"
+- "[[G3704]]"
+- "[[G1808]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G3947]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G0897]]"
+---
+
 **LXX Jeremiah 50:34** 
 <small><sub>**LXX:**</sub></small>
 But the one ransoming them \[is\] strong; \[the\] <span class="smallcaps">lord</span> almighty \[is\] his name. He will judge equitably against  his opponents, that the land should be removed; and he provokes the ones dwelling in Babylon. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3588\|ο]] [[G3084\|λυτρούμενος]] [[G1473\|αυτούς]] [[G2478\|ισχυρός]] [[G2962\|κύριος]] [[G3841\|παντοκράτωρ]] [[G3686\|όνομα]] [[G1473\|αυτώ]] [[G2920\|κρίσιν]] [[G2919\|κρινεί]] [[G4314\|προς]] [[G3588\|τους]] [[G0476\|αντιδίκους]] [[G1473\|αυτού]] [[G3704\|όπως]] [[G1808\|εξάρη]] [[G3588\|την]] [[G1093\|γην]] [[G2532\|και]] [[G3947\|παροξύνει]] [[G3588\|τοις]] [[G2730\|κατοικούσι]] [[G0897\|Βαβυλώνα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic NATION|NATION]] • [[topic OPPRESSION|OPPRESSION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.50.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.33|<< Jeremiah 50:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.35|Jeremiah 50:35 >>]]</td></tr></table>
 
@@ -28,6 +85,6 @@ But the one ransoming them \[is\] strong; \[the\] <span class="smallcaps">lord</
 | the ones | **<big>[[G3588\|τοις]]</big>** |
 | dwelling | **<big>[[G2730\|κατοικούσι]]</big>** |
 | in Babylon. | **<big>[[G0897\|Βαβυλώνα]]</big>** |
-[[Jer.50.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.33|<< Jeremiah 50:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.35|Jeremiah 50:35 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.33|<< Jeremiah 50:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.35|Jeremiah 50:35 >>]]</td></tr></table>
 
 

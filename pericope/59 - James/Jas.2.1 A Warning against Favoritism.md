@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Warning against Favoritism
+type: Pericope
 pericope: "[[Jas.2.1 A Warning against Favoritism|A Warning against Favoritism]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: James
 chapter: 2
 book/chapter: "[[Jas.2|James 2]]"
-genre:
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
 - epistle
 - general epistle
 - wisdom literature
 - ethical instruction
+verse_count: 13
 verses:
 - "[[Jas.2.1]]"
 - "[[Jas.2.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jas.2.13]]"
 ---
 
-[[Jas.2|James 2:1 - James 2:13]]
+<small>[[Jas.2|James 2:1-13]]</small>
 *A Warning against Favoritism*
 
 [[Jas.2.1|1]] My brethren, have not the faith of our Lord Jesus Christ, \[the Lord\] of glory, with respect of persons.

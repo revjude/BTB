@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joshua’s Death and Burial
+type: Pericope
 pericope: "[[Judg.2.6 Joshua’s Death and Burial|Joshua’s Death and Burial]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 2
 book/chapter: "[[Judg.2|Judges 2]]"
-genre:
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 4
 verses:
 - "[[Judg.2.6]]"
 - "[[Judg.2.7]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Judg.2.9]]"
 ---
 
-[[Judg.2|Judges 2:6 - Judges 2:9]]
+<small>[[Judg.2|Judges 2:6-9]]</small>
 *Joshua’s Death and Burial*
 
 [[Judg.2.6|6]] And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land.

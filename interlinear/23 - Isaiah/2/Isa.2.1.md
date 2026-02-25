@@ -1,8 +1,55 @@
+---
+title: Isaiah 2:1
+type: Verse
+kjv: "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem."
+bsb: "This is the message that was revealed to Isaiah son of Amoz concerning Judah and Jerusalem:"
+hebrew: "הַדָּבָר֙ אֲשֶׁ֣ר חָזָ֔ה יְשַֽׁעְיָ֖הוּ בֶּן־ אָמ֑וֹץ עַל־ יְהוּדָ֖ה וִירוּשָׁלִָֽם׃"
+pericope: "[[Isa.2.1 The Mountain of the House of the LORD|The Mountain of the House of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H2372]]"
+- "[[H3470A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0531]]"
+- "[[H5921A]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 2:1**<big><big>[[Isa.2.1 The Mountain of the House of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.
 <small><sub>**BSB:**</sub></small>
 This is the message that was revealed to Isaiah son of Amoz concerning Judah and Jerusalem:
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1697G\|דָּבָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2372\|חָזָ֔ה]] [[H3470A\|יְשַֽׁעְיָ֖הוּ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0531\|אָמ֑וֹץ]] [[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9002\|וִ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.31|<< Isaiah 1:31]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.2|Isaiah 2:2 >>]]</td></tr></table>
 

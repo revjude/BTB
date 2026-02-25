@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Preparation for Judgment
+type: Pericope
 pericope: "[[Rev.15.5 Preparation for Judgment|Preparation for Judgment]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 15
 book/chapter: "[[Rev.15|Revelation 15]]"
-genre:
+chronological_order: 1182
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 4
 verses:
 - "[[Rev.15.5]]"
 - "[[Rev.15.6]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rev.15.8]]"
 ---
 
-[[Rev.15|Revelation 15:5 - Revelation 15:8]]
+<small>[[Rev.15|Revelation 15:5-8]]</small>
 *Preparation for Judgment*
 
 [[Rev.15.5|5]] And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:

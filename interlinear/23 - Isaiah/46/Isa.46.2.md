@@ -1,8 +1,57 @@
+---
+title: Isaiah 46:2
+type: Verse
+kjv: "They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity."
+bsb: "The gods cower; they crouch together, unable to relieve the burden; but they themselves go into captivity."
+hebrew: "קָרְס֤וּ כָֽרְעוּ֙ יַחְדָּ֔ו לֹ֥א יָכְל֖וּ מַלֵּ֣ט מַשָּׂ֑א וְנַפְשָׁ֖ם בַּשְּׁבִ֥י הָלָֽכָה׃ ס"
+pericope: "[[Isa.46.1 Babylon’s Idols|Babylon’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 46
+book/chapter: "[[Isa.46|Isaiah 46]]"
+chronological_order: 685
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H7164]]"
+- "[[H3766]]"
+- "[[H3162B]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H4422]]"
+- "[[H4853A]]"
+- "[[H9002]]"
+- "[[H5315I]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H7628A]]"
+- "[[H1980G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 46:2**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.
 <small><sub>**BSB:**</sub></small>
 The gods cower; they crouch together, unable to relieve the burden; but they themselves go into captivity.
+<small><sub>**Hebrew:**</sub></small>
+[[H7164\|קָרְס֤וּ]] [[H3766\|כָֽרְעוּ֙]] [[H3162B\|יַחְדָּ֔ו]] [[H3808\|לֹ֥א]] [[H3201\|יָכְל֖וּ]] [[H4422\|מַלֵּ֣ט]] [[H4853A\|מַשָּׂ֑א]] [[H9002\|וְ]][[H5315I\|נַפְשָׁ֖]][[H9028\|ם]] [[H9003\|בַּ]][[H7628A\|שְּׁבִ֥י]] [[H1980G\|הָלָֽכָה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.1|<< Isaiah 46:1]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.3|Isaiah 46:3 >>]]</td></tr></table>
 
@@ -17,7 +66,7 @@ The gods cower; they crouch together, unable to relieve the burden; but they the
 | a burden  |**<big>&#8207;[[H4853A\|מַשָּׂ֑א]]&#8207; </big>**| ma.Sa'<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and self their  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5315I\|נַפְשָׁ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> naf.Sha<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in \<the> captivity  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H7628A\|שְּׁבִ֥י]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> she.Vi<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it has gone  |**<big>&#8207;[[H1980G\|הָלָֽכָה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.La.khah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it has gone  |**<big>&#8207;[[H1980G\|הָלָֽכָה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.La.khah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.46.1|<< Isaiah 46:1]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.3|Isaiah 46:3 >>]]</td></tr></table>
 
 

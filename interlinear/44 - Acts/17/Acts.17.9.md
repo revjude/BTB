@@ -1,10 +1,53 @@
+---
+title: Acts 17:9
+type: Verse
+kjv: "And when they had taken security of Jason, and of the other, they let them go."
+bsb: "And they collected bond from Jason and the others and then released them."
+greek: "καὶ λαβόντες τὸ ἱκανὸν παρὰ τοῦ Ἰάσονος καὶ τῶν λοιπῶν ἀπέλυσαν αὐτούς.¶"
+pericope: "[[Acts.17.1 The Uproar in Thessalonica|The Uproar in Thessalonica]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BOND|BOND]]"
+- "[[topic JASON|JASON]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic SILAS|SILAS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G2425]]"
+- "[[G3844]]"
+- "[[G2394]]"
+- "[[G3062]]"
+- "[[G0630G]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 17:9**<big><big>[[Acts.17.1 The Uproar in Thessalonica|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had taken security of Jason, and of the other, they let them go.
 <small><sub>**BSB:**</sub></small>
 And they collected bond from Jason and the others and then released them.
-<small><sub>**Literal:**</sub></small>
-And having taken <the> security from <the> Jason and the rest they let go them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.8|<< Acts 17:8]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.10|Acts 17:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2983\|λαβόντες]]  [[G3588\|τὸ]]  [[G2425\|ἱκανὸν]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G2394\|Ἰάσονος]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G3062\|λοιπῶν]]  [[G0630G\|ἀπέλυσαν]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOND|BOND]] • [[topic JASON|JASON]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PEACE|PEACE]] • [[topic SILAS|SILAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.8|<< Acts 17:8]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.10|Acts 17:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

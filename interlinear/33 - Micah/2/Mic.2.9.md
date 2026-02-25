@@ -1,8 +1,58 @@
+---
+title: Micah 2:9
+type: Verse
+kjv: "The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever."
+bsb: "You drive the women of My people from their pleasant homes. You take away My blessing from their children forever."
+hebrew: "נְשֵׁ֤י עַמִּי֙ תְּגָ֣רְשׁ֔וּן מִבֵּ֖ית תַּֽעֲנֻגֶ֑יהָ מֵעַל֙ עֹֽלָלֶ֔יהָ תִּקְח֥וּ הֲדָרִ֖י לְעוֹלָֽם׃"
+pericope: "[[Mic.2.6 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MICAH|MICAH]]"
+strongs:
+- "[[H0802G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H1644H]]"
+- "[[H9013]]"
+- "[[H9006]]"
+- "[[H1004B]]"
+- "[[H8588]]"
+- "[[H9024]]"
+- "[[H5921A]]"
+- "[[H5768]]"
+- "[[H3947G]]"
+- "[[H1926]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 2:9**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever.
 <small><sub>**BSB:**</sub></small>
 You drive the women of My people from their pleasant homes. You take away My blessing from their children forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H0802G\|נְשֵׁ֤י]] [[H5971A\|עַמִּ]][[H9020\|י֙]] [[H1644H\|תְּגָ֣רְשׁ֔וּ]][[H9013\|ן]] [[H9006\|מִ]][[H1004B\|בֵּ֖ית]] [[H8588\|תַּֽעֲנֻגֶ֑י]][[H9024\|הָ]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H5768\|עֹֽלָלֶ֔י]][[H9024\|הָ]] [[H3947G\|תִּקְח֥וּ]] [[H1926\|הֲדָרִ֖]][[H9020\|י]] [[H9005\|לְ]][[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIVORCE|DIVORCE]] • [[topic MICAH|MICAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.8|<< Micah 2:8]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.10|Micah 2:10 >>]]</td></tr></table>
 

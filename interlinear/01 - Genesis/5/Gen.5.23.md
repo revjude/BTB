@@ -1,8 +1,58 @@
+---
+title: Genesis 5:23
+type: Verse
+kjv: "And all the days of Enoch were three hundred sixty and five years:"
+bsb: "So Enoch lived a total of 365 years."
+hebrew: "וַיְהִ֖י כָּל־ יְמֵ֣י חֲנ֑וֹךְ חָמֵ֤שׁ וְשִׁשִּׁים֙ שָׁנָ֔ה וּשְׁלֹ֥שׁ מֵא֖וֹת שָׁנָֽה׃"
+pericope: "[[Gen.5.18 God Takes Up Enoch|God Takes Up Enoch]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ENOCH|ENOCH]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic METHUSELAH|METHUSELAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3117G]]"
+- "[[H2585H]]"
+- "[[H2568]]"
+- "[[H9002]]"
+- "[[H8346]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:23**<big><big>[[Gen.5.18 God Takes Up Enoch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the days of Enoch were three hundred sixty and five years:
 <small><sub>**BSB:**</sub></small>
 So Enoch lived a total of 365 years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H2585H\|חֲנ֑וֹךְ]] [[H2568\|חָמֵ֤שׁ]] [[H9002\|וְ]][[H8346\|שִׁשִּׁים֙]] [[H8141\|שָׁנָ֔ה]] [[H9002\|וּ]][[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENOCH|ENOCH]] • [[topic LONGEVITY|LONGEVITY]] • [[topic METHUSELAH|METHUSELAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.22|<< Genesis 5:22]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.24|Genesis 5:24 >>]]</td></tr></table>
 

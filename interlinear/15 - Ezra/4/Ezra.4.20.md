@@ -1,8 +1,61 @@
+---
+title: Ezra 4:20
+type: Verse
+kjv: "There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid unto them."
+bsb: "And mighty kings have ruled over Jerusalem and exercised authority over the whole region west of the Euphrates; and tribute, duty, and toll were paid to them."
+aramaic: "וּמַלְכִ֣ין תַּקִּיפִ֗ין הֲווֹ֙ עַל־ יְר֣וּשְׁלֶ֔ם וְשַׁ֨לִּיטִ֔ין בְּכֹ֖ל עֲבַ֣ר נַהֲרָ֑ה וּמִדָּ֥ה בְל֛וֹ וַהֲלָ֖ךְ מִתְיְהֵ֥ב לְהֽוֹן׃"
+pericope: "[[Ezra.4.17 The Decree of Artaxerxes|The Decree of Artaxerxes]]"
+original_language: Aramaic
+testament: Old
+book: Ezra
+chapter: 4
+book/chapter: "[[Ezra.4|Ezra 4]]"
+chronological_order: 852
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ARTAXERXES|ARTAXERXES]]"
+- "[[topic BISHLAM|BISHLAM]]"
+strongs:
+- "[[H9002]]"
+- "[[H4430]]"
+- "[[H8624]]"
+- "[[H1934]]"
+- "[[H5922]]"
+- "[[H9014]]"
+- "[[H3390]]"
+- "[[H7990]]"
+- "[[H9003]]"
+- "[[H3606]]"
+- "[[H5675]]"
+- "[[H5103G]]"
+- "[[H9010]]"
+- "[[H4061]]"
+- "[[H1093]]"
+- "[[H1983]]"
+- "[[H3052]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 4:20**<big><big>[[Ezra.4.17 The Decree of Artaxerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There have been mighty kings also over Jerusalem, which have ruled over all [countries] beyond the river; and toll, tribute, and custom, was paid unto them.
 <small><sub>**BSB:**</sub></small>
 And mighty kings have ruled over Jerusalem and exercised authority over the whole region west of the Euphrates; and tribute, duty, and toll were paid to them.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4430\|מַלְכִ֣ין]] [[H8624\|תַּקִּיפִ֗ין]] [[H1934\|הֲווֹ֙]] [[H5922\|עַל]][[H9014\|־]] [[H3390\|יְר֣וּשְׁלֶ֔ם]] [[H9002\|וְ]][[H7990\|שַׁ֨לִּיטִ֔ין]] [[H9003\|בְּ]][[H3606\|כֹ֖ל]] [[H5675\|עֲבַ֣ר]] [[H5103G\|נַהֲרָ֑]][[H9010\|ה]] [[H9002\|וּ]][[H4061\|מִדָּ֥ה]] [[H1093\|בְל֛וֹ]] [[H9002\|וַ]][[H1983\|הֲלָ֖ךְ]] [[H3052\|מִתְיְהֵ֥ב]] [[H9005\|לְ]][[H9038\|הֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARTAXERXES|ARTAXERXES]] • [[topic BISHLAM|BISHLAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.4.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.4.19|<< Ezra 4:19]]</td><td align="center" style="border:none;">[[Ezra.4|Ezra 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.4.21|Ezra 4:21 >>]]</td></tr></table>
 

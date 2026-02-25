@@ -1,8 +1,73 @@
+---
+title: Numbers 5:22
+type: Verse
+kjv: "And this water that causeth the curse shall go into thy bowels, to make thy belly to swell, and thy thigh to rot: And the woman shall say, Amen, amen."
+bsb: "May this water that brings a curse enter your stomach and cause your belly to swell and your thigh to shrivel.’ Then the woman is to say, ‘Amen, Amen.’"
+hebrew: "וּ֠בָאוּ הַמַּ֨יִם הַמְאָרְרִ֤ים הָאֵ֙לֶּה֙ בְּֽמֵעַ֔יִךְ לַצְבּ֥וֹת בֶּ֖טֶן וְלַנְפִּ֣ל יָרֵ֑ךְ וְאָמְרָ֥ה הָאִשָּׁ֖ה אָמֵ֥ן׀ אָמֵֽן׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic AMEN|AMEN]]"
+- "[[topic BITTER WATER|BITTER WATER]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H0779]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H4578]]"
+- "[[H9022]]"
+- "[[H9005]]"
+- "[[H6638]]"
+- "[[H0990H]]"
+- "[[H9002]]"
+- "[[H5307G]]"
+- "[[H3409]]"
+- "[[H0559]]"
+- "[[H0802G]]"
+- "[[H0543]]"
+- "[[H9015]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:22**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this water that causeth the curse shall go into thy bowels, to make [thy] belly to swell, and [thy] thigh to rot: And the woman shall say, Amen, amen.
 <small><sub>**BSB:**</sub></small>
 May this water that brings a curse enter your stomach and cause your belly to swell and your thigh to shrivel.’ Then the woman is to say, ‘Amen, Amen.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ֠]][[H0935G\|בָאוּ]] [[H9009\|הַ]][[H4325G\|מַּ֨יִם]] [[H9009\|הַ]][[H0779\|מְאָרְרִ֤ים]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H9003\|בְּֽ]][[H4578\|מֵעַ֔יִ]][[H9022\|ךְ]] [[H9005\|לַ]][[H6638\|צְבּ֥וֹת]] [[H0990H\|בֶּ֖טֶן]] [[H9002\|וְ]][[H9005\|לַ]][[H5307G\|נְפִּ֣ל]] [[H3409\|יָרֵ֑ךְ]] [[H9001\|וְ]][[H0559\|אָמְרָ֥ה]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֖ה]] [[H0543\|אָמֵ֥ן]][[H9015\|׀]] [[H0543\|אָמֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic AMEN|AMEN]] • [[topic BITTER WATER|BITTER WATER]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic OATH|OATH]] • [[topic PRIEST|PRIEST]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.21|<< Numbers 5:21]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.23|Numbers 5:23 >>]]</td></tr></table>
 

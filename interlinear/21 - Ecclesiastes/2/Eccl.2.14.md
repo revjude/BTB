@@ -1,8 +1,65 @@
+---
+title: Ecclesiastes 2:14
+type: Verse
+kjv: "The wise man’s eyes are in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all."
+bsb: "The wise man has eyes in his head, but the fool walks in darkness. Yet I also came to realize that one fate overcomes them both."
+hebrew: "הֶֽחָכָם֙ עֵינָ֣יו בְּרֹאשׁ֔וֹ וְהַכְּסִ֖יל בַּחֹ֣שֶׁךְ הוֹלֵ֑ךְ וְיָדַ֣עְתִּי גַם־ אָ֔נִי שֶׁמִּקְרֶ֥ה אֶחָ֖ד יִקְרֶ֥ה אֶת־ כֻּלָּֽם׃"
+pericope: "[[Eccl.2.12 The Wise and the Foolish|The Wise and the Foolish]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 2
+book/chapter: "[[Eccl.2|Ecclesiastes 2]]"
+chronological_order: 540
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic MAN|MAN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9009]]"
+- "[[H2450]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9002]]"
+- "[[H3684]]"
+- "[[H2822]]"
+- "[[H1980I]]"
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H9007]]"
+- "[[H4745]]"
+- "[[H0259]]"
+- "[[H7136A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 2:14**<big><big>[[Eccl.2.12 The Wise and the Foolish|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wise man’s eyes [are] in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.
 <small><sub>**BSB:**</sub></small>
 The wise man has eyes in his head, but the fool walks in darkness. Yet I also came to realize that one fate overcomes them both.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הֶֽ]][[H2450\|חָכָם֙]] [[H5869A\|עֵינָ֣י]][[H9023\|ו]] [[H9003\|בְּ]][[H7218A\|רֹאשׁ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H3684\|כְּסִ֖יל]] [[H9003\|בַּ]][[H2822\|חֹ֣שֶׁךְ]] [[H1980I\|הוֹלֵ֑ךְ]] [[H9001\|וְ]][[H3045\|יָדַ֣עְתִּי]] [[H1571\|גַם]][[H9014\|־]] [[H0589\|אָ֔נִי]] [[H9007\|שֶׁ]][[H4745\|מִּקְרֶ֥ה]] [[H0259\|אֶחָ֖ד]] [[H7136A\|יִקְרֶ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic MAN|MAN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.2.13|<< Ecclesiastes 2:13]]</td><td align="center" style="border:none;">[[Eccl.2|Ecclesiastes 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.2.15|Ecclesiastes 2:15 >>]]</td></tr></table>
 

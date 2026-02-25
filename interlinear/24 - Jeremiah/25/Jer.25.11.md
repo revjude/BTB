@@ -1,8 +1,66 @@
+---
+title: Jeremiah 25:11
+type: Verse
+kjv: "And this whole land shall be a desolation, and an astonishment; and these nations shall serve the king of Babylon seventy years."
+bsb: "And this whole land will become a desolate wasteland, and these nations will serve the king of Babylon for seventy years."
+hebrew: "וְהָֽיְתָה֙ כָּל־ הָאָ֣רֶץ הַזֹּ֔את לְחָרְבָּ֖ה לְשַׁמָּ֑ה וְעָ֨בְד֜וּ הַגּוֹיִ֥ם הָאֵ֛לֶּה אֶת־ מֶ֥לֶךְ בָּבֶ֖ל שִׁבְעִ֥ים שָׁנָֽה׃"
+pericope: "[[Jer.25.1 Seventy Years of Captivity|Seventy Years of Captivity]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 25
+book/chapter: "[[Jer.25|Jeremiah 25]]"
+chronological_order: 748
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CAPTIVITY|CAPTIVITY]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SEVENTY|SEVENTY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H2723]]"
+- "[[H8047G]]"
+- "[[H5647G]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H0853]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H7657]]"
+- "[[H8141]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 25:11**<big><big>[[Jer.25.1 Seventy Years of Captivity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And this whole land shall be a desolation, [and] an astonishment; and these nations shall serve the king of Babylon seventy years.
 <small><sub>**BSB:**</sub></small>
 And this whole land will become a desolate wasteland, and these nations will serve the king of Babylon for seventy years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָֽיְתָה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H9005\|לְ]][[H2723\|חָרְבָּ֖ה]] [[H9005\|לְ]][[H8047G\|שַׁמָּ֑ה]] [[H9001\|וְ]][[H5647G\|עָ֨בְד֜וּ]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֥ם]] [[H9009\|הָ]][[H0428\|אֵ֛לֶּה]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H0894\|בָּבֶ֖ל]] [[H7657\|שִׁבְעִ֥ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CAPTIVITY|CAPTIVITY]] • [[topic HAPPINESS|HAPPINESS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]] • [[topic SEVENTY|SEVENTY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.25.10|<< Jeremiah 25:10]]</td><td align="center" style="border:none;">[[Jer.25|Jeremiah 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.25.12|Jeremiah 25:12 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

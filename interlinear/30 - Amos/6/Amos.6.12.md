@@ -1,8 +1,62 @@
+---
+title: Amos 6:12
+type: Verse
+kjv: "Shall horses run upon the rock? will one plow there with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:"
+bsb: "“Do horses gallop on the cliffs? Does one plow the sea with oxen? But you have turned justice into poison and the fruit of righteousness into wormwood—"
+hebrew: "הַיְרֻצ֤וּן בַּסֶּ֙לַע֙ סוּסִ֔ים אִֽם־ יַחֲר֖וֹשׁ בַּבְּקָרִ֑ים כִּֽי־ הֲפַכְתֶּ֤ם לְרֹאשׁ֙ מִשְׁפָּ֔ט וּפְרִ֥י צְדָקָ֖ה לְלַעֲנָֽה׃"
+pericope: "[[Amos.6.8 The Pride of Israel|The Pride of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 6
+book/chapter: "[[Amos.6|Amos 6]]"
+chronological_order: 603
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic HEMLOCK|HEMLOCK]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9008]]"
+- "[[H7323G]]"
+- "[[H9013]]"
+- "[[H9003]]"
+- "[[H5553H]]"
+- "[[H5483M]]"
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H2790A]]"
+- "[[H1241]]"
+- "[[H3588A]]"
+- "[[H2015]]"
+- "[[H9005]]"
+- "[[H7219]]"
+- "[[H4941H]]"
+- "[[H9002]]"
+- "[[H6529]]"
+- "[[H6666]]"
+- "[[H3939]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 6:12**<big><big>[[Amos.6.8 The Pride of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Shall horses run upon the rock? will [one] plow [there] with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:
 <small><sub>**BSB:**</sub></small>
 “Do horses gallop on the cliffs? Does one plow the sea with oxen? But you have turned justice into poison and the fruit of righteousness into wormwood—
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H7323G\|יְרֻצ֤וּ]][[H9013\|ן]] [[H9003\|בַּ]][[H5553H\|סֶּ֙לַע֙]] [[H5483M\|סוּסִ֔ים]] [[H0518I\|אִֽם]][[H9014\|־]] [[H2790A\|יַחֲר֖וֹשׁ]] [[H9003\|בַּ]][[H1241\|בְּקָרִ֑ים]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2015\|הֲפַכְתֶּ֤ם]] [[H9005\|לְ]][[H7219\|רֹאשׁ֙]] [[H4941H\|מִשְׁפָּ֔ט]] [[H9002\|וּ]][[H6529\|פְרִ֥י]] [[H6666\|צְדָקָ֖ה]] [[H9005\|לְ]][[H3939\|לַעֲנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEMLOCK|HEMLOCK]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.6.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.6.11|<< Amos 6:11]]</td><td align="center" style="border:none;">[[Amos.6|Amos 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.6.13|Amos 6:13 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Mark 9:28
+type: Verse
+kjv: "And when he was come into the house, his disciples asked him privately, Why could not we cast him out?"
+bsb: "After Jesus had gone into the house, His disciples asked Him privately, “Why couldn’t we drive it out?”"
+greek: "Καὶ εἰσελθόντος αὐτοῦ εἰς οἶκον οἱ μαθηταὶ αὐτοῦ κατ᾽ ἰδίαν ἐπηρώτων αὐτόν· ὅτι ἡμεῖς οὐκ ἠδυνήθημεν ἐκβαλεῖν αὐτό;"
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G1905]]"
+- "[[G3754G]]"
+- "[[G3165]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G1544]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 9:28**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was come into the house, his disciples asked him privately, Why could not we cast him out?
 <small><sub>**BSB:**</sub></small>
 After Jesus had gone into the house, His disciples asked Him privately, “Why couldn’t we drive it out?”
-<small><sub>**Literal:**</sub></small>
-And when was entering He into a house the disciples of Him in private were asking Him; Why we ourselves not were able to cast out it?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.27|<< Mark 9:27]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.29|Mark 9:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1525\|εἰσελθόντος]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3624G\|οἶκον]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G1905\|ἐπηρώτων]]  [[G0846\|αὐτόν·]]  [[G3754G\|ὅτι]]  [[G3165\|ἡμεῖς]]  [[G3756\|οὐκ]]  [[G1410\|ἠδυνήθημεν]]  [[G1544\|ἐκβαλεῖν]]  [[G0846\|αὐτό;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.27|<< Mark 9:27]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.29|Mark 9:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

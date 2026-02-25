@@ -1,10 +1,61 @@
+---
+title: Luke 22:11
+type: Verse
+kjv: "And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?"
+bsb: "and say to the owner of that house, ‘The Teacher asks: Where is the guest room, where I may eat the Passover with My disciples?’"
+jesus_said: "And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?"
+greek: "καὶ ἐρεῖτε τῷ οἰκοδεσπότῃ τῆς οἰκίας· λέγει σοι ὁ διδάσκαλος· ποῦ ἐστιν τὸ κατάλυμα ὅπου τὸ πάσχα μετὰ τῶν μαθητῶν μου φάγω;"
+pericope: "[[Luke.22.7 Preparing the Passover|Preparing the Passover]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[G2532]]"
+- "[[G4483]]"
+- "[[G3588]]"
+- "[[G3617]]"
+- "[[G3614G]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G1320]]"
+- "[[G4226]]"
+- "[[G1510]]"
+- "[[G2646]]"
+- "[[G3699]]"
+- "[[G3957]]"
+- "[[G3326]]"
+- "[[G3101]]"
+- "[[G3165]]"
+- "[[G5315]]"
+texts:
+- NKO
+---
+
 **Luke 22:11**<big><big>[[Luke.22.7 Preparing the Passover|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?
 <small><sub>**BSB:**</sub></small>
 and say to the owner of that house, ‘The Teacher asks: Where is the guest room, where I may eat the Passover with My disciples?’
-<small><sub>**Literal:**</sub></small>
-and you will say to the master of the house; Says to you the Teacher; Where is the guest room where the Passover with the disciples of Mine I may eat?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.10|<< Luke 22:10]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.12|Luke 22:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4483\|ἐρεῖτε]]  [[G3588\|τῷ]]  [[G3617\|οἰκοδεσπότῃ]]  [[G3588\|τῆς]]  [[G3614G\|οἰκίας·]]  [[G3004G\|λέγει]]  [[G4771\|σοι]]  [[G3588\|ὁ]]  [[G1320\|διδάσκαλος·]]  [[G4226\|ποῦ]]  [[G1510\|ἐστιν]]  [[G3588\|τὸ]]  [[G2646\|κατάλυμα]]  [[G3699\|ὅπου]]  [[G3588\|τὸ]]  [[G3957\|πάσχα]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G3101\|μαθητῶν]]  [[G3165\|μου]]  [[G5315\|φάγω;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic PASSOVER|PASSOVER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.10|<< Luke 22:10]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.12|Luke 22:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

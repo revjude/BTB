@@ -1,6 +1,49 @@
+---
+title: LXX Psalm 64:6
+type: Verse
+lxx: "They searched out lawlessness; they failed while searching out in the search. Man shall come forward and the heart is deep,"
+greek: "εξηρεύνησαν ανομίαν εξέλιπον εξερευνώντες εξερευνήσεις προσελεύσεται άνθρωπος και καρδία βαθεία"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 64
+book/chapter: "[[Ps.64|Psalm 64]]"
+chronological_order: 374
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic MALICE|MALICE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1830]]"
+- "[[G0458]]"
+- "[[G1587]]"
+- "[[G1830]]"
+- "[[G7314]]"
+- "[[G4334]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G2588]]"
+- "[[G0901]]"
+---
+
 **LXX Psalm 64:6** 
 <small><sub>**LXX:**</sub></small>
 They searched out lawlessness; they failed \[while\] searching out in \[the\] search. Man shall come forward and \[the\] heart \[is\] deep, 
+<small><sub>**Greek:**</sub></small>
+[[G1830\|εξηρεύνησαν]] [[G0458\|ανομίαν]] [[G1587\|εξέλιπον]] [[G1830\|εξερευνώντες]] [[G7314\|εξερευνήσεις]] [[G4334\|προσελεύσεται]] [[G0444\|άνθρωπος]] [[G2532\|και]] [[G2588\|καρδία]] [[G0901\|βαθεία]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MALICE|MALICE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.64.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.5|<< Psalm 64:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.7|Psalm 64:7 >>]]</td></tr></table>
 
@@ -16,6 +59,6 @@ They searched out lawlessness; they failed \[while\] searching out in \[the\] se
 | and | **<big>[[G2532\|και]]</big>** |
 | \[the\] heart | **<big>[[G2588\|καρδία]]</big>** |
 | \[is\] deep, | **<big>[[G0901\|βαθεία]]</big>** |
-[[Ps.64.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.5|<< Psalm 64:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.7|Psalm 64:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.64.5|<< Psalm 64:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.64.7|Psalm 64:7 >>]]</td></tr></table>
 
 

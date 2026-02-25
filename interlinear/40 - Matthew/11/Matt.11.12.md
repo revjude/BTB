@@ -1,10 +1,57 @@
+---
+title: Matthew 11:12
+type: Verse
+kjv: "And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force."
+bsb: "From the days of John the Baptist until now, the kingdom of heaven has been subject to violence, and the violent lay claim to it."
+jesus_said: "And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force."
+greek: "ἀπὸ δὲ τῶν ἡμερῶν Ἰωάννου τοῦ βαπτιστοῦ ἕως ἄρτι ἡ βασιλεία τῶν οὐρανῶν βιάζεται, καὶ βιασταὶ ἁρπάζουσιν αὐτήν."
+pericope: "[[Matt.11.7 Jesus Testifies about John|Jesus Testifies about John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 11
+book/chapter: "[[Matt.11|Matthew 11]]"
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G0575]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G2491G]]"
+- "[[G0910]]"
+- "[[G2193]]"
+- "[[G0737]]"
+- "[[G0932]]"
+- "[[G3772]]"
+- "[[G0971]]"
+- "[[G2532]]"
+- "[[G0973]]"
+- "[[G0726]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 11:12**<big><big>[[Matt.11.7 Jesus Testifies about John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And from the days of John the Baptist until now the kingdom of heaven suffereth violence, and the violent take it by force.
 <small><sub>**BSB:**</sub></small>
 From the days of John the Baptist until now, the kingdom of heaven has been subject to violence, and the violent lay claim to it.
-<small><sub>**Literal:**</sub></small>
-From then the days of John the Baptist until now the kingdom of the heavens is taken by violence, and [the] violent claim it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.11|<< Matthew 11:11]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.13|Matthew 11:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0575\|ἀπὸ]]  [[G1161\|δὲ]]  [[G3588\|τῶν]]  [[G2250\|ἡμερῶν]]  [[G2491G\|Ἰωάννου]]  [[G3588\|τοῦ]]  [[G0910\|βαπτιστοῦ]]  [[G2193\|ἕως]]  [[G0737\|ἄρτι]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν]]  [[G0971\|βιάζεται,]]  [[G2532\|καὶ]]  [[G0973\|βιασταὶ]]  [[G0726\|ἁρπάζουσιν]]  [[G0846\|αὐτήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.11.11|<< Matthew 11:11]]</td><td align="center" style="border:none;">[[Matt.11|Matthew 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.11.13|Matthew 11:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

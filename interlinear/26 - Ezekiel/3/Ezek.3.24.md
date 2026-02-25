@@ -1,8 +1,62 @@
+---
+title: Ezekiel 3:24
+type: Verse
+kjv: "Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within thine house."
+bsb: "Then the Spirit entered me and set me on my feet. He spoke with me and said, “Go, shut yourself inside your house."
+hebrew: "וַתָּבֹא־ בִ֣י ר֔וּחַ וַתַּעֲמִדֵ֖נִי עַל־ רַגְלָ֑י וַיְדַבֵּ֤ר אֹתִי֙ וַיֹּ֣אמֶר אֵלַ֔י בֹּ֥א הִסָּגֵ֖ר בְּת֥וֹךְ בֵּיתֶֽךָ׃"
+pericope: "[[Ezek.3.16 A Watchman for Israel|A Watchman for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H7307G]]"
+- "[[H5975G]]"
+- "[[H5921A]]"
+- "[[H7272]]"
+- "[[H9020]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H5462]]"
+- "[[H8432]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 3:24**<big><big>[[Ezek.3.16 A Watchman for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within thine house.
 <small><sub>**BSB:**</sub></small>
 Then the Spirit entered me and set me on my feet. He spoke with me and said, “Go, shut yourself inside your house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|תָּבֹא]][[H9014\|־]] [[H9003\|בִ֣]][[H9030\|י]] [[H7307G\|ר֔וּחַ]] [[H9001\|וַ]][[H5975G\|תַּעֲמִדֵ֖]][[H9030\|נִי]] [[H5921A\|עַל]][[H9014\|־]] [[H7272\|רַגְלָ֑]][[H9020\|י]] [[H9001\|וַ]][[H1696G\|יְדַבֵּ֤ר]] [[H0854\|אֹתִ]][[H9030\|י֙]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H0935G\|בֹּ֥א]] [[H5462\|הִסָּגֵ֖ר]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H1004B\|בֵּיתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.23|<< Ezekiel 3:23]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.25|Ezekiel 3:25 >>]]</td></tr></table>
 

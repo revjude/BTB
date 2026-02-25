@@ -1,10 +1,62 @@
+---
+title: Luke 6:44
+type: Verse
+kjv: "For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes."
+bsb: "For each tree is known by its own fruit. Indeed, figs are not gathered from thornbushes, nor grapes from brambles."
+jesus_said: "For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes."
+greek: "ἕκαστον γὰρ δένδρον ἐκ τοῦ ἰδίου καρποῦ γινώσκεται. οὐ γὰρ ἐξ ἀκανθῶν συλλέγουσιν σῦκα οὐδὲ ἐκ βάτου σταφυλὴν τρυγῶσιν.¶"
+pericope: "[[Luke.6.43 A Tree and Its Fruit|A Tree and Its Fruit]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BOTANY|BOTANY]]"
+- "[[topic BRAMBLE|BRAMBLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROVERBS|PROVERBS]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G1538]]"
+- "[[G1063]]"
+- "[[G1186]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G2590]]"
+- "[[G1097]]"
+- "[[G3756]]"
+- "[[G0173]]"
+- "[[G4816]]"
+- "[[G4810]]"
+- "[[G3761]]"
+- "[[G0942]]"
+- "[[G4718]]"
+- "[[G5166]]"
+texts:
+- NKO
+---
+
 **Luke 6:44**<big><big>[[Luke.6.43 A Tree and Its Fruit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes.
 <small><sub>**BSB:**</sub></small>
 For each tree is known by its own fruit. Indeed, figs are not gathered from thornbushes, nor grapes from brambles.
-<small><sub>**Literal:**</sub></small>
-Each for tree by the own fruit is known. Not for from thorns do they gather figs nor from a bramble bush grapes gather they.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.43|<< Luke 6:43]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.45|Luke 6:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1538\|ἕκαστον]]  [[G1063\|γὰρ]]  [[G1186\|δένδρον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2398\|ἰδίου]]  [[G2590\|καρποῦ]]  [[G1097\|γινώσκεται.]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G1537\|ἐξ]]  [[G0173\|ἀκανθῶν]]  [[G4816\|συλλέγουσιν]]  [[G4810\|σῦκα]]  [[G3761\|οὐδὲ]]  [[G1537\|ἐκ]]  [[G0942\|βάτου]]  [[G4718\|σταφυλὴν]]  [[G5166\|τρυγῶσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTANY|BOTANY]] • [[topic BRAMBLE|BRAMBLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROVERBS|PROVERBS]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.43|<< Luke 6:43]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.45|Luke 6:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

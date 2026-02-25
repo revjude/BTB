@@ -1,8 +1,66 @@
+---
+title: Esther 1:3
+type: Verse
+kjv: "In the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him:"
+bsb: "In the third year of his reign, Xerxes held a feast for all his officials and servants. The military leaders of Persia and Media were there, along with the nobles and princes of the provinces."
+hebrew: "בִּשְׁנַ֤ת שָׁלוֹשׁ֙ לְמָלְכ֔וֹ עָשָׂ֣ה מִשְׁתֶּ֔ה לְכָל־ שָׂרָ֖יו וַעֲבָדָ֑יו חֵ֣יל׀ פָּרַ֣ס וּמָדַ֗י הַֽפַּרְתְּמִ֛ים וְשָׂרֵ֥י הַמְּדִינ֖וֹת לְפָנָֽיו׃"
+pericope: "[[Esth.1.1 Xerxes’ Royal Feast|Xerxes’ Royal Feast]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 1
+book/chapter: "[[Esth.1|Esther 1]]"
+chronological_order: 899
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7969]]"
+- "[[H9005]]"
+- "[[H4427A]]"
+- "[[H9033]]"
+- "[[H6213I]]"
+- "[[H4960]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H2428A]]"
+- "[[H9015]]"
+- "[[H6539]]"
+- "[[H4074H]]"
+- "[[H9009]]"
+- "[[H6579]]"
+- "[[H4082]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 1:3**<big><big>[[Esth.1.1 Xerxes’ Royal Feast|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, [being] before him:
 <small><sub>**BSB:**</sub></small>
 In the third year of his reign, Xerxes held a feast for all his officials and servants. The military leaders of Persia and Media were there, along with the nobles and princes of the provinces.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֤ת]] [[H7969\|שָׁלוֹשׁ֙]] [[H9005\|לְ]][[H4427A\|מָלְכ֔]][[H9033\|וֹ]] [[H6213I\|עָשָׂ֣ה]] [[H4960\|מִשְׁתֶּ֔ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H8269\|שָׂרָ֖י]][[H9023\|ו]] [[H9002\|וַ]][[H5650\|עֲבָדָ֑י]][[H9023\|ו]] [[H2428A\|חֵ֣יל]][[H9015\|׀]] [[H6539\|פָּרַ֣ס]] [[H9002\|וּ]][[H4074H\|מָדַ֗י]] [[H9009\|הַֽ]][[H6579\|פַּרְתְּמִ֛ים]] [[H9002\|וְ]][[H8269\|שָׂרֵ֥י]] [[H9009\|הַ]][[H4082\|מְּדִינ֖וֹת]] [[H9005\|לְ]][[H6440G\|פָנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic FOOD|FOOD]] • [[topic PERSIA|PERSIA]] • [[topic SHUSHAN (SUSA)|SHUSHAN (SUSA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.1.2|<< Esther 1:2]]</td><td align="center" style="border:none;">[[Esth.1|Esther 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.1.4|Esther 1:4 >>]]</td></tr></table>
 

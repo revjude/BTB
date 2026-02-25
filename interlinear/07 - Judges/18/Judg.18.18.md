@@ -1,8 +1,65 @@
+---
+title: Judges 18:18
+type: Verse
+kjv: "And these went into Micah’s house, and fetched the carved image, the ephod, and the teraphim, and the molten image. Then said the priest unto them, What do ye?"
+bsb: "When they entered Micah’s house and took the graven image, the ephod, the household idols, and the molten idol, the priest said to them, “What are you doing?”"
+hebrew: "וְאֵ֗לֶּה בָּ֚אוּ בֵּ֣ית מִיכָ֔ה וַיִּקְחוּ֙ אֶת־ פֶּ֣סֶל הָאֵפ֔וֹד וְאֶת־ הַתְּרָפִ֖ים וְאֶת־ הַמַּסֵּכָ֑ה וַיֹּ֤אמֶר אֲלֵיהֶם֙ הַכֹּהֵ֔ן מָ֥ה אַתֶּ֖ם עֹשִֽׂים׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H0935G]]"
+- "[[H1004B]]"
+- "[[H4318G]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6459]]"
+- "[[H9009]]"
+- "[[H0646]]"
+- "[[H8655]]"
+- "[[H4541A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3548]]"
+- "[[H4100]]"
+- "[[H0859D]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:18**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these went into Micah’s house, and fetched the carved image, the ephod, and the teraphim, and the molten image. Then said the priest unto them, What do ye?
 <small><sub>**BSB:**</sub></small>
 When they entered Micah’s house and took the graven image, the ephod, the household idols, and the molten idol, the priest said to them, “What are you doing?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֗לֶּה]] [[H0935G\|בָּ֚אוּ]] [[H1004B\|בֵּ֣ית]] [[H4318G\|מִיכָ֔ה]] [[H9001\|וַ]][[H3947G\|יִּקְחוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H6459\|פֶּ֣סֶל]] [[H9009\|הָ]][[H0646\|אֵפ֔וֹד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8655\|תְּרָפִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4541A\|מַּסֵּכָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H4100\|מָ֥ה]] [[H0859D\|אַתֶּ֖ם]] [[H6213A\|עֹשִֽׂים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic JONATHAN|JONATHAN]] • [[topic TERAPHIM|TERAPHIM]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.17|<< Judges 18:17]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.19|Judges 18:19 >>]]</td></tr></table>
 

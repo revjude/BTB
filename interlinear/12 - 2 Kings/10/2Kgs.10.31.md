@@ -1,8 +1,65 @@
+---
+title: 2 Kings 10:31
+type: Verse
+kjv: "But Jehu took no heed to walk in the law of the LORD God of Israel with all his heart: for he departed not from the sins of Jeroboam, which made Israel to sin."
+bsb: "Yet Jehu was not careful to follow the instruction of the LORD, the God of Israel, with all his heart. He did not turn away from the sins that Jeroboam had caused Israel to commit."
+hebrew: "וְיֵה֗וּא לֹ֥א שָׁמַ֛ר לָלֶ֛כֶת בְּתֽוֹרַת־ יְהוָ֥ה אֱלֹהֵֽי־ יִשְׂרָאֵ֖ל בְּכָל־ לְבָב֑וֹ לֹ֣א סָ֗ר מֵעַל֙ חַטֹּ֣אות יָֽרָבְעָ֔ם אֲשֶׁ֥ר הֶחֱטִ֖יא אֶת־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|Jehu Repeats Jeroboam’s Sins]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3058H]]"
+- "[[H3808]]"
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H8451]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H3605]]"
+- "[[H3824]]"
+- "[[H9023]]"
+- "[[H5493I]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H2403B]]"
+- "[[H3379G]]"
+- "[[H0834A]]"
+- "[[H2398]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 10:31**<big><big>[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Jehu took no heed to walk in the law of the LORD God of Israel with all his heart: for he departed not from the sins of Jeroboam, which made Israel to sin.
 <small><sub>**BSB:**</sub></small>
 Yet Jehu was not careful to follow the instruction of the LORD, the God of Israel, with all his heart. He did not turn away from the sins that Jeroboam had caused Israel to commit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3058H\|יֵה֗וּא]] [[H3808\|לֹ֥א]] [[H8104J\|שָׁמַ֛ר]] [[H9005\|לָ]][[H1980I\|לֶ֛כֶת]] [[H9003\|בְּ]][[H8451\|תֽוֹרַת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H3824\|לְבָב֑]][[H9023\|וֹ]] [[H3808\|לֹ֣א]] [[H5493I\|סָ֗ר]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H2403B\|חַטֹּ֣אות]] [[H3379G\|יָֽרָבְעָ֔ם]] [[H0834A\|אֲשֶׁ֥ר]] [[H2398\|הֶחֱטִ֖יא]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.30|<< 2 Kings 10:30]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.32|2 Kings 10:32 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Job 6:26
+type: Verse
+kjv: "Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?"
+bsb: "Do you intend to correct my words, and treat as wind my cry of despair?"
+hebrew: "הַלְהוֹכַ֣ח מִלִּ֣ים תַּחְשֹׁ֑בוּ וּ֝לְר֗וּחַ אִמְרֵ֥י נֹאָֽשׁ׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9008]]"
+- "[[H9005]]"
+- "[[H3198]]"
+- "[[H4405]]"
+- "[[H2803J]]"
+- "[[H9002]]"
+- "[[H7307H]]"
+- "[[H0561]]"
+- "[[H2976]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:26**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Do ye imagine to reprove words, and the speeches of one that is desperate, [which are] as wind?
 <small><sub>**BSB:**</sub></small>
 Do you intend to correct my words, and treat as wind my cry of despair?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H9005\|לְ]][[H3198\|הוֹכַ֣ח]] [[H4405\|מִלִּ֣ים]] [[H2803J\|תַּחְשֹׁ֑בוּ]] [[H9002\|וּ֝]][[H9005\|לְ]][[H7307H\|ר֗וּחַ]] [[H0561\|אִמְרֵ֥י]] [[H2976\|נֹאָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.25|<< Job 6:25]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.27|Job 6:27 >>]]</td></tr></table>
 

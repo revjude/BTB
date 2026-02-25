@@ -1,10 +1,62 @@
+---
+title: Luke 3:2
+type: Verse
+kjv: "Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness."
+bsb: "during the high priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness."
+greek: "ἐπὶ ἀρχιερέως Ἅννα καὶ Καϊάφα, ἐγένετο ῥῆμα θεοῦ ἐπὶ Ἰωάννην τὸν τοῦ Ζαχαρίου υἱὸν ἐν τῇ ἐρήμῳ."
+pericope: "[[Luke.3.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 3
+book/chapter: "[[Luke.3|Luke 3]]"
+chronological_order: 937
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANNAS|ANNAS]]"
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G1909]]"
+- "[[G0749]]"
+- "[[G0452]]"
+- "[[G2532]]"
+- "[[G2533G]]"
+- "[[G1096]]"
+- "[[G4487]]"
+- "[[G2316]]"
+- "[[G2491G]]"
+- "[[G3588]]"
+- "[[G2197H]]"
+- "[[G5207]]"
+- "[[G1722]]"
+- "[[G2048]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Luke 3:2**<big><big>[[Luke.3.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness.
 <small><sub>**BSB:**</sub></small>
 during the high priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness.
-<small><sub>**Literal:**</sub></small>
-during [the] high priesthood of Annas and Caiaphas, came [the] declaration of God upon John the <the> of Zechariah son in the wilderness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.1|<< Luke 3:1]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.3|Luke 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1909\|ἐπὶ]]  [[G0749\|ἀρχιερέως]]  [[G0452\|Ἅννα]]  [[G2532\|καὶ]]  [[G2533G\|Καϊάφα,]]  [[G1096\|ἐγένετο]]  [[G4487\|ῥῆμα]]  [[G2316\|θεοῦ]]  [[G1909\|ἐπὶ]]  [[G2491G\|Ἰωάννην]]  [[G3588\|τὸν]]  [[G3588\|τοῦ]]  [[G2197H\|Ζαχαρίου]]  [[G5207\|υἱὸν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANNAS|ANNAS]] • [[topic CAIAPHAS|CAIAPHAS]] • [[topic JOHN|JOHN]] • [[topic PRIEST|PRIEST]] • [[topic PROPHETS|PROPHETS]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.3.1|<< Luke 3:1]]</td><td align="center" style="border:none;">[[Luke.3|Luke 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.3.3|Luke 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,54 @@
+---
+title: Proverbs 19:19
+type: Verse
+kjv: "A man of great wrath shall suffer punishment: for if thou deliver him, yet thou must do it again."
+bsb: "A man of great anger must pay the penalty; if you rescue him, you will have to do so again."
+hebrew: "גְּֽדָל חֵ֭מָה נֹ֣שֵׂא עֹ֑נֶשׁ כִּ֥י אִם־ תַּ֝צִּ֗יל וְע֣וֹד תּוֹסִֽף׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+strongs:
+- "[[H1632]]"
+- "[[H1419A]]"
+- "[[H2534]]"
+- "[[H5375J]]"
+- "[[H6066]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H5337]]"
+- "[[H9002]]"
+- "[[H5750]]"
+- "[[H3254G]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Proverbs 19:19**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man of great wrath shall suffer punishment: for if thou deliver [him], yet thou must do it again.
 <small><sub>**BSB:**</sub></small>
 A man of great anger must pay the penalty; if you rescue him, you will have to do so again.
+<small><sub>**Hebrew:**</sub></small>
+[[H1419A\|גְּֽדָל]] [[H2534\|חֵ֭מָה]] [[H5375J\|נֹ֣שֵׂא]] [[H6066\|עֹ֑נֶשׁ]] [[H3588B\|כִּ֥י]] [[H0518B\|אִם]][[H9014\|־]] [[H5337\|תַּ֝צִּ֗יל]] [[H9002\|וְ]][[H5750\|ע֣וֹד]] [[H3254G\|תּוֹסִֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.18|<< Proverbs 19:18]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.20|Proverbs 19:20 >>]]</td></tr></table>
 

@@ -1,10 +1,67 @@
+---
+title: Matthew 4:10
+type: Verse
+kjv: "Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
+bsb: "“Away from Me, Satan!” Jesus told him. “For it is written: ‘Worship the Lord your God and serve Him only.’”"
+jesus_said: "Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve."
+greek: "Τότε λέγει αὐτῷ ὁ Ἰησοῦς· ὕπαγε ὀπίσω μου σατανᾶ· γέγραπται γάρ· κύριον τὸν θεόν σου προσκυνήσεις καὶ αὐτῷ μόνῳ λατρεύσεις."
+pericope: "[[Matt.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G5119]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5217]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G4567]]"
+- "[[G1125]]"
+- "[[G1063]]"
+- "[[G2962G]]"
+- "[[G2316]]"
+- "[[G4771]]"
+- "[[G4352]]"
+- "[[G2532]]"
+- "[[G3441]]"
+- "[[G3000]]"
+texts:
+- NKO
+- O
+---
+
 **Matthew 4:10**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then saith Jesus unto him, Get thee hence, Satan: for it is written, Thou shalt worship the Lord thy God, and him only shalt thou serve.
 <small><sub>**BSB:**</sub></small>
 “Away from Me, Satan!” Jesus told him. “For it is written: ‘Worship the Lord your God and serve Him only.’”
-<small><sub>**Literal:**</sub></small>
-Then says to him <the> Jesus; do go away behind me Satan; it has been written for: [The] Lord the God of you you will worship and Him alone will you serve.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.9|<< Matthew 4:9]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.11|Matthew 4:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G5217\|ὕπαγε]]  [[G3694\|ὀπίσω]]  [[G3165\|μου]]  [[G4567\|σατανᾶ·]]  [[G1125\|γέγραπται]]  [[G1063\|γάρ·]]  [[G2962G\|κύριον]]  [[G3588\|τὸν]]  [[G2316\|θεόν]]  [[G4771\|σου]]  [[G4352\|προσκυνήσεις]]  [[G2532\|καὶ]]  [[G0846\|αὐτῷ]]  [[G3441\|μόνῳ]]  [[G3000\|λατρεύσεις.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic DUTY|DUTY]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.9|<< Matthew 4:9]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.11|Matthew 4:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 4:10** is...
 > $\quad$ referencing: [[LXX.Deut.6.13|Deut 6:13]] ☩ [[LXX.Deut.10.20|Deut 10:20]]

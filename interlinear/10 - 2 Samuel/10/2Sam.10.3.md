@@ -1,8 +1,79 @@
+---
+title: 2 Samuel 10:3
+type: Verse
+kjv: "And the princes of the children of Ammon said unto Hanun their lord, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? hath not David rather sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?"
+bsb: "the princes of the Ammonites said to Hanun their lord, “Just because David has sent you comforters, do you really believe he is showing respect for your father? Has not David instead sent his servants to explore the city, spy it out, and overthrow it?”"
+hebrew: "וַיֹּאמְרוּ֩ שָׂרֵ֨י בְנֵֽי־ עַמּ֜וֹן אֶל־ חָנ֣וּן אֲדֹֽנֵיהֶ֗ם הַֽמְכַבֵּ֨ד דָּוִ֤ד אֶת־ אָבִ֙יךָ֙ בְּעֵינֶ֔יךָ כִּֽי־ שָׁלַ֥ח לְךָ֖ מְנַֽחֲמִ֑ים הֲ֠לוֹא בַּעֲב֞וּר חֲק֤וֹר אֶת־ הָעִיר֙ וּלְרַגְּלָ֣הּ וּלְהָפְכָ֔הּ שָׁלַ֥ח דָּוִ֛ד אֶת־ עֲבָדָ֖יו אֵלֶֽיךָ׃"
+pericope: "[[2Sam.10.1 David’s Messengers Disgraced|David’s Messengers Disgraced]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic MORTIFICATION|MORTIFICATION]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8269]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H5983]]"
+- "[[H0413]]"
+- "[[H2586G]]"
+- "[[H0113]]"
+- "[[H9028]]"
+- "[[H9008]]"
+- "[[H3513G]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3588A]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5162G]]"
+- "[[H3808]]"
+- "[[H5668]]"
+- "[[H2713]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H7270]]"
+- "[[H9034]]"
+- "[[H2015]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:3**<big><big>[[2Sam.10.1 David’s Messengers Disgraced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the princes of the children of Ammon said unto Hanun their lord, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? hath not David [rather] sent his servants unto thee, to search the city, and to spy it out, and to overthrow it?
 <small><sub>**BSB:**</sub></small>
 the princes of the Ammonites said to Hanun their lord, “Just because David has sent you comforters, do you really believe he is showing respect for your father? Has not David instead sent his servants to explore the city, spy it out, and overthrow it?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְרוּ֩]] [[H8269\|שָׂרֵ֨י]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֜וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H2586G\|חָנ֣וּן]] [[H0113\|אֲדֹֽנֵי]][[H9028\|הֶ֗ם]] [[H9008\|הַֽ]][[H3513G\|מְכַבֵּ֨ד]] [[H1732\|דָּוִ֤ד]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אָבִ֙י]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֔י]][[H9021\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7971G\|שָׁלַ֥ח]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H5162G\|מְנַֽחֲמִ֑ים]] [[H9008\|הֲ֠]][[H3808\|לוֹא]] [[H9003\|בַּ]][[H5668\|עֲב֞וּר]] [[H2713\|חֲק֤וֹר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H9002\|וּ]][[H9005\|לְ]][[H7270\|רַגְּלָ֣]][[H9034\|הּ]] [[H9002\|וּ]][[H9005\|לְ]][[H2015\|הָפְכָ֔]][[H9034\|הּ]] [[H7971G\|שָׁלַ֥ח]] [[H1732\|דָּוִ֛ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic MORTIFICATION|MORTIFICATION]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.2|<< 2 Samuel 10:2]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.4|2 Samuel 10:4 >>]]</td></tr></table>
 

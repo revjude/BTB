@@ -1,8 +1,56 @@
+---
+title: Psalm 107:40
+type: Verse
+kjv: "He poureth contempt upon princes, and causeth them to wander in the wilderness, where there is no way."
+bsb: "He pours out contempt on the nobles and makes them wander in a trackless wasteland."
+hebrew: "שֹׁפֵ֣ךְ בּ֭וּז עַל־ נְדִיבִ֑ים וַ֝יַּתְעֵ֗ם בְּתֹ֣הוּ לֹא־ דָֽרֶךְ׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H8210G]]"
+- "[[H0937]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5081H]]"
+- "[[H9001]]"
+- "[[H8582]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H8414]]"
+- "[[H3808]]"
+- "[[H1870K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 107:40**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He poureth contempt upon princes, and causeth them to wander in the wilderness, [where there is] no way.
 <small><sub>**BSB:**</sub></small>
 He pours out contempt on the nobles and makes them wander in a trackless wasteland.
+<small><sub>**Hebrew:**</sub></small>
+[[H8210G\|שֹׁפֵ֣ךְ]] [[H0937\|בּ֭וּז]] [[H5921A\|עַל]][[H9014\|־]] [[H5081H\|נְדִיבִ֑ים]] [[H9001\|וַ֝]][[H8582\|יַּתְעֵ֗]][[H9038\|ם]] [[H9003\|בְּ]][[H8414\|תֹ֣הוּ]] [[H3808\|לֹא]][[H9014\|־]] [[H1870K\|דָֽרֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.39|<< Psalms 107:39]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.41|Psalms 107:41 >>]]</td></tr></table>
 

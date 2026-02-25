@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 1:9
+type: Verse
+kjv: "Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude."
+bsb: "Now, O LORD God, let Your promise to my father David be fulfilled. For You have made me king over a people as numerous as the dust of the earth."
+hebrew: "עַתָּה֙ יְהוָ֣ה אֱלֹהִ֔ים יֵֽאָמֵן֙ דְּבָ֣רְךָ֔ עִ֖ם דָּוִ֣יד אָבִ֑י כִּ֤י אַתָּה֙ הִמְלַכְתַּ֔נִי עַל־ עַ֕ם רַ֖ב כַּעֲפַ֥ר הָאָֽרֶץ׃"
+pericope: "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H6258]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0539]]"
+- "[[H1697G]]"
+- "[[H9021]]"
+- "[[H5973A]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H4427A]]"
+- "[[H9030]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H9004]]"
+- "[[H6083]]"
+- "[[H9009]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 1:9**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.
 <small><sub>**BSB:**</sub></small>
 Now, O LORD God, let Your promise to my father David be fulfilled. For You have made me king over a people as numerous as the dust of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H6258\|עַתָּה֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהִ֔ים]] [[H0539\|יֵֽאָמֵן֙]] [[H1697G\|דְּבָ֣רְ]][[H9021\|ךָ֔]] [[H5973A\|עִ֖ם]] [[H1732\|דָּוִ֣יד]] [[H0001G\|אָבִ֑]][[H9020\|י]] [[H3588A\|כִּ֤י]] [[H0859A\|אַתָּה֙]] [[H4427A\|הִמְלַכְתַּ֔]][[H9030\|נִי]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַ֕ם]] [[H7227A\|רַ֖ב]] [[H9004\|כַּ]][[H6083\|עֲפַ֥ר]] [[H9009\|הָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic GOD|GOD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.8|<< 2 Chronicles 1:8]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.10|2 Chronicles 1:10 >>]]</td></tr></table>
 

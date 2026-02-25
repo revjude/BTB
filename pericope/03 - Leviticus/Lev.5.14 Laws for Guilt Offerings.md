@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws for Guilt Offerings
+type: Pericope
 pericope: "[[Lev.5.14 Laws for Guilt Offerings|Laws for Guilt Offerings]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 5
 book/chapter: "[[Lev.5|Leviticus 5]]"
-genre:
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 6
 verses:
 - "[[Lev.5.14]]"
 - "[[Lev.5.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Lev.5.19]]"
 ---
 
-[[Lev.5|Leviticus 5:14 - Leviticus 5:19]]
+<small>[[Lev.5|Leviticus 5:14-19]]</small>
 *Laws for Guilt Offerings*
 
 [[Lev.5.14|14]] And the LORD spake unto Moses, saying,

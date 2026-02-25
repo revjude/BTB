@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Shepherds and the Angels
+type: Pericope
 pericope: "[[Luke.2.8 The Shepherds and the Angels|The Shepherds and the Angels]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Luke
 chapter: 2
 book/chapter: "[[Luke.2|Luke 2]]"
-genre:
+chronological_order: 933
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 13
 verses:
 - "[[Luke.2.8]]"
 - "[[Luke.2.9]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Luke.2.20]]"
 ---
 
-[[Luke.2|Luke 2:8 - Luke 2:20]]
+<small>[[Luke.2|Luke 2:8-20]]</small>
 *The Shepherds and the Angels*
 
 [[Luke.2.8|8]] And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.

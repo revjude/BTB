@@ -1,10 +1,68 @@
+---
+title: Hebrews 13:21
+type: Verse
+kjv: "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen."
+bsb: "equip you with every good thing to do His will. And may He accomplish in us what is pleasing in His sight through Jesus Christ, to whom be glory forever and ever. Amen."
+greek: "καταρτίσαι ὑμᾶς ἐν παντὶ ἔργῳ ἀγαθῷ εἰς τὸ ποιῆσαι τὸ θέλημα αὐτοῦ ποιῶν ἐν ἡμῖν τὸ εὐάρεστον ἐνώπιον αὐτοῦ διὰ Ἰησοῦ Χριστοῦ· ᾧ ἡ δόξα εἰς τοὺς αἰῶνας τῶν αἰώνων, ἀμήν.¶"
+pericope: "[[Heb.13.20 Benediction and Farewell|Benediction and Farewell]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2675]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G2041]]"
+- "[[G0018]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4160G]]"
+- "[[G2307]]"
+- "[[G0846]]"
+- "[[G3165]]"
+- "[[G2101]]"
+- "[[G1799]]"
+- "[[G1223]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G3739]]"
+- "[[G1391]]"
+- "[[G0165H]]"
+- "[[G0281]]"
+texts:
+- NKO
+- KO
+- N(K)O
+---
+
 **Hebrews 13:21**<big><big>[[Heb.13.20 Benediction and Farewell|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom [be] glory for ever and ever. Amen.
 <small><sub>**BSB:**</sub></small>
 equip you with every good thing to do His will. And may He accomplish in us what is pleasing in His sight through Jesus Christ, to whom be glory forever and ever. Amen.
-<small><sub>**Literal:**</sub></small>
-would he equip you in everything work good in order <the> to do the will of Him working in us that which [is] well pleasing before Him through Jesus Christ; to whom [be] the glory to the ages of the ages, Amen.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.20|<< Hebrews 13:20]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.22|Hebrews 13:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2675\|καταρτίσαι]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G3956\|παντὶ]]  [[G2041\|ἔργῳ]]  [[G0018\|ἀγαθῷ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4160G\|ποιῆσαι]]  [[G3588\|τὸ]]  [[G2307\|θέλημα]]  [[G0846\|αὐτοῦ]]  [[G4160G\|ποιῶν]]  [[G1722\|ἐν]]  [[G3165\|ἡμῖν]]  [[G3588\|τὸ]]  [[G2101\|εὐάρεστον]]  [[G1799\|ἐνώπιον]]  [[G0846\|αὐτοῦ]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ·]]  [[G3739\|ᾧ]]  [[G3588\|ἡ]]  [[G1391\|δόξα]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G0165H\|αἰῶνας]]  [[G3588\|τῶν]]  [[G0165H\|αἰώνων,]]  [[G0281\|ἀμήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BENEDICTIONS|BENEDICTIONS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PERFECTION|PERFECTION]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.20|<< Hebrews 13:20]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.22|Hebrews 13:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

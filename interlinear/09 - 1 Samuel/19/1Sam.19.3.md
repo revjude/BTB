@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 19:3
+type: Verse
+kjv: "And I will go out and stand beside my father in the field where thou art, and I will commune with my father of thee; and what I see, that I will tell thee."
+bsb: "I will go out and stand beside my father in the field where you are, so I can ask about you. And if I find out anything, I will tell you.”"
+hebrew: "וַאֲנִ֨י אֵצֵ֜א וְעָמַדְתִּ֣י לְיַד־ אָבִ֗י בַּשָּׂדֶה֙ אֲשֶׁ֣ר אַתָּ֣ה שָׁ֔ם וַאֲנִ֕י אֲדַבֵּ֥ר בְּךָ֖ אֶל־ אָבִ֑י וְרָאִ֥יתִי מָ֖ה וְהִגַּ֥דְתִּי לָֽךְ׃ ס"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H3318G]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H3027K]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H8033G]]"
+- "[[H1696G]]"
+- "[[H9031]]"
+- "[[H0413]]"
+- "[[H7200H]]"
+- "[[H4100]]"
+- "[[H5046]]"
+- "[[H9032]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 19:3**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will go out and stand beside my father in the field where thou [art], and I will commune with my father of thee; and what I see, that I will tell thee.
 <small><sub>**BSB:**</sub></small>
 I will go out and stand beside my father in the field where you are, so I can ask about you. And if I find out anything, I will tell you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֨י]] [[H3318G\|אֵצֵ֜א]] [[H9001\|וְ]][[H5975G\|עָמַדְתִּ֣י]] [[H9005\|לְ]][[H3027K\|יַד]][[H9014\|־]] [[H0001G\|אָבִ֗]][[H9020\|י]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0859A\|אַתָּ֣ה]] [[H8033G\|שָׁ֔ם]] [[H9002\|וַ]][[H0589\|אֲנִ֕י]] [[H1696G\|אֲדַבֵּ֥ר]] [[H9003\|בְּ]][[H9031\|ךָ֖]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִ֑]][[H9020\|י]] [[H9001\|וְ]][[H7200H\|רָאִ֥יתִי]] [[H4100\|מָ֖ה]] [[H9001\|וְ]][[H5046\|הִגַּ֥דְתִּי]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.2|<< 1 Samuel 19:2]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.4|1 Samuel 19:4 >>]]</td></tr></table>
 
@@ -25,7 +84,7 @@ I will go out and stand beside my father in the field where you are, so I can as
 | and I will see  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H7200H\|רָאִ֥יתִי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> ra.'I.ti<small><sup>[[HVqq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | whatever  |**<big>&#8207;[[H4100\|מָ֖ה]]&#8207; </big>**| mah<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and I will tell  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5046\|הִגַּ֥דְתִּי]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> hi.Gad.ti<small><sup>[[HVhq1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> you  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.2|<< 1 Samuel 19:2]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.4|1 Samuel 19:4 >>]]</td></tr></table>
 
 

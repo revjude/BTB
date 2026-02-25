@@ -1,8 +1,56 @@
+---
+title: Leviticus 13:40
+type: Verse
+kjv: "And the man whose hair is fallen off his head, he is bald; yet is he clean."
+bsb: "Now if a man loses his hair and is bald, he is still clean."
+hebrew: "וְאִ֕ישׁ כִּ֥י יִמָּרֵ֖ט רֹאשׁ֑וֹ קֵרֵ֥חַ ה֖וּא טָה֥וֹר הֽוּא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376I]]"
+- "[[H3588A]]"
+- "[[H4803]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H7142]]"
+- "[[H1931]]"
+- "[[H2889]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:40**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man whose hair is fallen off his head, he [is] bald; [yet is] he clean.
 <small><sub>**BSB:**</sub></small>
 Now if a man loses his hair and is bald, he is still clean.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376I\|אִ֕ישׁ]] [[H3588A\|כִּ֥י]] [[H4803\|יִמָּרֵ֖ט]] [[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H7142\|קֵרֵ֥חַ]] [[H1931\|ה֖וּא]] [[H2889\|טָה֥וֹר]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALDNESS|BALDNESS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.39|<< Leviticus 13:39]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.41|Leviticus 13:41 >>]]</td></tr></table>
 

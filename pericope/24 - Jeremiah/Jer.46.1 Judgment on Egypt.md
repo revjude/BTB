@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment on Egypt
+type: Pericope
 pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
-verse_count: 28
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 46
 book/chapter: "[[Jer.46|Jeremiah 46]]"
-genre:
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 28
 verses:
 - "[[Jer.46.1]]"
 - "[[Jer.46.2]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Jer.46.28]]"
 ---
 
-[[Jer.46|Jeremiah 46:1 - Jeremiah 46:28]]
+<small>[[Jer.46|Jeremiah 46:1-28]]</small>
 *Judgment on Egypt*
 
 [[Jer.46.1|1]] The word of the LORD which came to Jeremiah the prophet against the Gentiles;

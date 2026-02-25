@@ -1,6 +1,69 @@
+---
+title: LXX 2 Kings 10:22
+type: Verse
+lxx: "And Jehu told to the one over the house wardrobe to bring out garments for all the servants  of Baal. And the keeper of the wardrobe brought them forth to them."
+greek: "και είπεν Ιού τω επί του οίκου μεσθάαλ εξάγαγε ενδύματα πάσι τοις δούλοις του Βάαλ και εξήνεγκεν αυτοίς ο στολιστής"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic TREACHERY|TREACHERY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[H3058]]"
+- "[[G3588]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G8291]]"
+- "[[G1806]]"
+- "[[G1742]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G3588]]"
+- "[[G0896]]"
+- "[[G2532]]"
+- "[[G1627]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G9190]]"
+---
+
 **LXX 2 Kings 10:22** 
 <small><sub>**LXX:**</sub></small>
 And Jehu told to the one over the house wardrobe to bring out garments for all the servants  of Baal. And the keeper of the wardrobe brought \[them\] forth to them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[H3058\|Ιού]] [[G3588\|τω]] [[G1909\|επί]] [[G3588\|του]] [[G3624\|οίκου]] [[G8291\|μεσθάαλ]] [[G1806\|εξάγαγε]] [[G1742\|ενδύματα]] [[G3956\|πάσι]] [[G3588\|τοις]] [[G1401\|δούλοις]] [[G3588\|του]] [[G0896\|Βάαλ]] [[G2532\|και]] [[G1627\|εξήνεγκεν]] [[G1473\|αυτοίς]] [[G3588\|ο]] [[G9190\|στολιστής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic DRESS|DRESS]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JEHU|JEHU]] • [[topic JONADAB|JONADAB]] • [[topic MASSACRE|MASSACRE]] • [[topic RELIGION|RELIGION]] • [[topic SAMARIA|SAMARIA]] • [[topic TREACHERY|TREACHERY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.21|<< 2 Kings 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.23|2 Kings 10:23 >>]]</td></tr></table>
 
@@ -25,6 +88,6 @@ And Jehu told to the one over the house wardrobe to bring out garments for all t
 | to them | **<big>[[G1473\|αυτοίς]]</big>** |
 | the | **<big>[[G3588\|ο]]</big>** |
 | keeper of the wardrobe | **<big>[[G9190\|στολιστής]]</big>** |
-[[2Kgs.10.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.21|<< 2 Kings 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.23|2 Kings 10:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.10.21|<< 2 Kings 10:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.10.23|2 Kings 10:23 >>]]</td></tr></table>
 
 

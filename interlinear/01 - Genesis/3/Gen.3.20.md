@@ -1,8 +1,63 @@
+---
+title: Genesis 3:20
+type: Verse
+kjv: "And Adam called his wife’s name Eve; because she was the mother of all living."
+bsb: "And Adam named his wife Eve, because she would be the mother of all the living."
+hebrew: "וַיִּקְרָ֧א הָֽאָדָ֛ם שֵׁ֥ם אִשְׁתּ֖וֹ חַוָּ֑ה כִּ֛י הִ֥וא הָֽיְתָ֖ה אֵ֥ם כָּל־ חָֽי׃"
+pericope: "[[Gen.3.16 The Punishment of Mankind|The Punishment of Mankind]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAM|ADAM]]"
+- "[[topic EVE|EVE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic RACE|RACE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H9009]]"
+- "[[H0120H]]"
+- "[[H8034]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H2332]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H0517]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 3:20**<big><big>[[Gen.3.16 The Punishment of Mankind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Adam called his wife’s name Eve; because she was the mother of all living.
 <small><sub>**BSB:**</sub></small>
 And Adam named his wife Eve, because she would be the mother of all the living.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֧א]] [[H9009\|הָֽ]][[H0120H\|אָדָ֛ם]] [[H8034\|שֵׁ֥ם]] [[H0802H\|אִשְׁתּ֖]][[H9023\|וֹ]] [[H2332\|חַוָּ֑ה]] [[H3588A\|כִּ֛י]] [[H1931\|הִ֥וא]] [[H1961\|הָֽיְתָ֖ה]] [[H0517\|אֵ֥ם]] [[H3605\|כָּל]][[H9014\|־]] [[H2416A\|חָֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAM|ADAM]] • [[topic EVE|EVE]] • [[topic GOD|GOD]] • [[topic RACE|RACE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.19|<< Genesis 3:19]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.21|Genesis 3:21 >>]]</td></tr></table>
 

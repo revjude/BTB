@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Absalom’s Revenge on Amnon
+type: Pericope
 pericope: "[[2Sam.13.23 Absalom’s Revenge on Amnon|Absalom’s Revenge on Amnon]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 13
 book/chapter: "[[2Sam.13|2 Samuel 13]]"
-genre:
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 11
 verses:
 - "[[2Sam.13.23]]"
 - "[[2Sam.13.24]]"
@@ -30,7 +37,7 @@ verses:
 - "[[2Sam.13.33]]"
 ---
 
-[[2Sam.13|2 Samuel 13:23 - 2 Samuel 13:33]]
+<small>[[2Sam.13|2 Samuel 13:23-33]]</small>
 *Absalom’s Revenge on Amnon*
 
 [[2Sam.13.23|23]] And it came to pass after two full years, that Absalom had sheepshearers in Baalhazor, which \[is\] beside Ephraim: and Absalom invited all the king’s sons.

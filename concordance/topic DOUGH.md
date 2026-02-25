@@ -1,7 +1,7 @@
 
 **DOUGH**
 
-→ First of, offered to God [[Num.15.19|Nu 15:19]]-[[Num.15.21|21]]; [[Neh.10.37|Ne 10:37]]
+→ First of, offered to God [[Num.15.19|Nu 15:19-21]]; [[Neh.10.37|Ne 10:37]]
 
 → Kneaded [[Jer.7.18|Jer 7:18]]; [[Hos.7.4|Ho 7:4]]
 

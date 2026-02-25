@@ -1,8 +1,69 @@
+---
+title: Ezekiel 37:24
+type: Verse
+kjv: "And David my servant shall be king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them."
+bsb: "My servant David will be king over them, and there will be one shepherd for all of them. They will follow My ordinances and keep and observe My statutes."
+hebrew: "וְעַבְדִּ֤י דָוִד֙ מֶ֣לֶךְ עֲלֵיהֶ֔ם וְרוֹעֶ֥ה אֶחָ֖ד יִהְיֶ֣ה לְכֻלָּ֑ם וּבְמִשְׁפָּטַ֣י יֵלֵ֔כוּ וְחֻקֹּתַ֥י יִשְׁמְר֖וּ וְעָשׂ֥וּ אוֹתָֽם׃"
+pericope: "[[Ezek.37.15 One Nation with One King|One Nation with One King]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 37
+book/chapter: "[[Ezek.37|Ezekiel 37]]"
+chronological_order: 828
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WALKING|WALKING]]"
+strongs:
+- "[[H9002]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H1732]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H7462B]]"
+- "[[H0259]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H4941G]]"
+- "[[H1980I]]"
+- "[[H2708]]"
+- "[[H8104J]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 37:24**<big><big>[[Ezek.37.15 One Nation with One King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David my servant [shall be] king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.
 <small><sub>**BSB:**</sub></small>
 My servant David will be king over them, and there will be one shepherd for all of them. They will follow My ordinances and keep and observe My statutes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5650\|עַבְדִּ֤]][[H9020\|י]] [[H1732\|דָוִד֙]] [[H4428G\|מֶ֣לֶךְ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H7462B\|רוֹעֶ֥ה]] [[H0259\|אֶחָ֖ד]] [[H1961\|יִהְיֶ֣ה]] [[H9005\|לְ]][[H3605\|כֻלָּ֑]][[H9028\|ם]] [[H9002\|וּ]][[H9003\|בְ]][[H4941G\|מִשְׁפָּטַ֣]][[H9020\|י]] [[H1980I\|יֵלֵ֔כוּ]] [[H9002\|וְ]][[H2708\|חֻקֹּתַ֥]][[H9020\|י]] [[H8104J\|יִשְׁמְר֖וּ]] [[H9001\|וְ]][[H6213A\|עָשׂ֥וּ]] [[H0853\|אוֹתָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]] • [[topic WALKING|WALKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.37.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.37.23|<< Ezekiel 37:23]]</td><td align="center" style="border:none;">[[Ezek.37|Ezekiel 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.37.25|Ezekiel 37:25 >>]]</td></tr></table>
 

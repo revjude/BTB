@@ -1,8 +1,70 @@
+---
+title: 2 Kings 19:6
+type: Verse
+kjv: "And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me."
+bsb: "who replied, “Tell your master that this is what the LORD says: ‘Do not be afraid of the words you have heard, with which the servants of the king of Assyria have blasphemed Me."
+hebrew: "וַיֹּ֤אמֶר לָהֶם֙ יְשַֽׁעְיָ֔הוּ כֹּ֥ה תֹאמְר֖וּן אֶל־ אֲדֹֽנֵיכֶ֑ם כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה אַל־ תִּירָא֙ מִפְּנֵ֤י הַדְּבָרִים֙ אֲשֶׁ֣ר שָׁמַ֗עְתָּ אֲשֶׁ֧ר גִּדְּפ֛וּ נַעֲרֵ֥י מֶֽלֶךְ־ אַשּׁ֖וּר אֹתִֽי׃"
+pericope: "[[2Kgs.19.1 Isaiah’s Message of Deliverance|Isaiah’s Message of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 19
+book/chapter: "[[2Kgs.19|2 Kings 19]]"
+chronological_order: 657
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3470A]]"
+- "[[H3541]]"
+- "[[H9013]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0113]]"
+- "[[H9026]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0408]]"
+- "[[H3372G]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H1442]]"
+- "[[H5288]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 19:6**<big><big>[[2Kgs.19.1 Isaiah’s Message of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaiah said unto them, Thus shall ye say to your master, Thus saith the LORD, Be not afraid of the words which thou hast heard, with which the servants of the king of Assyria have blasphemed me.
 <small><sub>**BSB:**</sub></small>
 who replied, “Tell your master that this is what the LORD says: ‘Do not be afraid of the words you have heard, with which the servants of the king of Assyria have blasphemed Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3470A\|יְשַֽׁעְיָ֔הוּ]] [[H3541\|כֹּ֥ה]] [[H0559\|תֹאמְר֖וּ]][[H9013\|ן]] [[H0413\|אֶל]][[H9014\|־]] [[H0113\|אֲדֹֽנֵי]][[H9026\|כֶ֑ם]] [[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0408\|אַל]][[H9014\|־]] [[H3372G\|תִּירָא֙]] [[H9006\|מִ]][[H6440L\|פְּנֵ֤י]] [[H9009\|הַ]][[H1697G\|דְּבָרִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H8085G\|שָׁמַ֗עְתָּ]] [[H0834A\|אֲשֶׁ֧ר]] [[H1442\|גִּדְּפ֛וּ]] [[H5288\|נַעֲרֵ֥י]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֖וּר]] [[H0853\|אֹתִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.19.5|<< 2 Kings 19:5]]</td><td align="center" style="border:none;">[[2Kgs.19|2 Kings 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.19.7|2 Kings 19:7 >>]]</td></tr></table>
 

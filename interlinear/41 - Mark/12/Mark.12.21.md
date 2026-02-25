@@ -1,10 +1,57 @@
+---
+title: Mark 12:21
+type: Verse
+kjv: "And the second took her, and died, neither left he any seed: and the third likewise."
+bsb: "Then the second one married the widow, but he also died and left no children. And the third did likewise."
+greek: "καὶ ὁ δεύτερος ἔλαβεν αὐτὴν καὶ ἀπέθανεν καὶ μὴ αὐτὸς καταλιπὼν σπέρμα καὶ ὁ τρίτος ὡσαύτως·"
+pericope: "[[Mark.12.18 The Sadducees and the Resurrection|The Sadducees and the Resurrection]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 12
+book/chapter: "[[Mark.12|Mark 12]]"
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+- "[[topic SATIRE|SATIRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1208]]"
+- "[[G2983]]"
+- "[[G0846]]"
+- "[[G0599]]"
+- "[[G3361]]"
+- "[[G2641]]"
+- "[[G4690G]]"
+- "[[G5154]]"
+- "[[G5615]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 12:21**<big><big>[[Mark.12.18 The Sadducees and the Resurrection|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the second took her, and died, neither left he any seed: and the third likewise.
 <small><sub>**BSB:**</sub></small>
 Then the second one married the widow, but he also died and left no children. And the third did likewise.
-<small><sub>**Literal:**</sub></small>
-And the second took her and died and not he himself having left seed and the third likewise;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.20|<< Mark 12:20]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.22|Mark 12:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G1208\|δεύτερος]]  [[G2983\|ἔλαβεν]]  [[G0846\|αὐτὴν]]  [[G2532\|καὶ]]  [[G0599\|ἀπέθανεν]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G0846\|αὐτὸς]]  [[G2641\|καταλιπὼν]]  [[G4690G\|σπέρμα]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5154\|τρίτος]]  [[G5615\|ὡσαύτως·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RESURRECTION|RESURRECTION]] • [[topic SADDUCEES|SADDUCEES]] • [[topic SATIRE|SATIRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.12.20|<< Mark 12:20]]</td><td align="center" style="border:none;">[[Mark.12|Mark 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.12.22|Mark 12:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

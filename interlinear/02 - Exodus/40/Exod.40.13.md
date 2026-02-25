@@ -1,8 +1,63 @@
+---
+title: Exodus 40:13
+type: Verse
+kjv: "And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest’s office."
+bsb: "And you are to clothe Aaron with the holy garments, anoint him, and consecrate him, so that he may serve Me as a priest."
+hebrew: "וְהִלְבַּשְׁתָּ֙ אֶֽת־ אַהֲרֹ֔ן אֵ֖ת בִּגְדֵ֣י הַקֹּ֑דֶשׁ וּמָשַׁחְתָּ֥ אֹת֛וֹ וְקִדַּשְׁתָּ֥ אֹת֖וֹ וְכִהֵ֥ן לִֽי׃"
+pericope: "[[Exod.40.1 Setting Up the Tabernacle|Setting Up the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 40
+book/chapter: "[[Exod.40|Exodus 40]]"
+chronological_order: 132
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3847]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0175]]"
+- "[[H0899B]]"
+- "[[H9009]]"
+- "[[H6944G]]"
+- "[[H4886]]"
+- "[[H9033]]"
+- "[[H6942G]]"
+- "[[H3547]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 40:13**<big><big>[[Exod.40.1 Setting Up the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest’s office.
 <small><sub>**BSB:**</sub></small>
 And you are to clothe Aaron with the holy garments, anoint him, and consecrate him, so that he may serve Me as a priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3847\|הִלְבַּשְׁתָּ֙]] [[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹ֔ן]] [[H0853\|אֵ֖ת]] [[H0899B\|בִּגְדֵ֣י]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H9001\|וּ]][[H4886\|מָשַׁחְתָּ֥]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9001\|וְ]][[H6942G\|קִדַּשְׁתָּ֥]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9001\|וְ]][[H3547\|כִהֵ֥ן]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.40.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.40.12|<< Exodus 40:12]]</td><td align="center" style="border:none;">[[Exod.40|Exodus 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.40.14|Exodus 40:14 >>]]</td></tr></table>
 

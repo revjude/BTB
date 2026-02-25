@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Satan Cast into the Lake of Fire
+type: Pericope
 pericope: "[[Rev.20.7 Satan Cast into the Lake of Fire|Satan Cast into the Lake of Fire]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 20
 book/chapter: "[[Rev.20|Revelation 20]]"
-genre:
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 4
 verses:
 - "[[Rev.20.7]]"
 - "[[Rev.20.8]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Rev.20.10]]"
 ---
 
-[[Rev.20|Revelation 20:7 - Revelation 20:10]]
+<small>[[Rev.20|Revelation 20:7-10]]</small>
 *Satan Cast into the Lake of Fire*
 
 [[Rev.20.7|7]] And when the thousand years are expired, Satan shall be loosed out of his prison,

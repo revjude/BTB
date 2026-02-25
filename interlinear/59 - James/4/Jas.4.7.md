@@ -1,10 +1,57 @@
+---
+title: James 4:7
+type: Verse
+kjv: "Submit yourselves therefore to God. Resist the devil, and he will flee from you."
+bsb: "Submit yourselves, then, to God. Resist the devil, and he will flee from you."
+greek: "ὑποτάγητε οὖν τῷ θεῷ. ἀντίστητε δὲ τῷ διαβόλῳ καὶ φεύξεται ἀφ᾽ ὑμῶν,"
+pericope: "[[Jas.4.7 Drawing Near to God|Drawing Near to God]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 4
+book/chapter: "[[Jas.4|James 4]]"
+chronological_order: 1036
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G5293]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0436]]"
+- "[[G1161]]"
+- "[[G1228]]"
+- "[[G2532]]"
+- "[[G5343]]"
+- "[[G0575]]"
+- "[[G4771]]"
+texts:
+- NKO
+- no
+---
+
 **James 4:7**<big><big>[[Jas.4.7 Drawing Near to God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Submit yourselves therefore to God. Resist the devil, and he will flee from you.
 <small><sub>**BSB:**</sub></small>
 Submit yourselves, then, to God. Resist the devil, and he will flee from you.
-<small><sub>**Literal:**</sub></small>
-do be subjected therefore <the> to God. do resist however the devil and he will flee from you,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.6|<< James 4:6]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.8|James 4:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5293\|ὑποτάγητε]]  [[G3767\|οὖν]]  [[G3588\|τῷ]]  [[G2316\|θεῷ.]]  [[G0436\|ἀντίστητε]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G1228\|διαβόλῳ]]  [[G2532\|καὶ]]  [[G5343\|φεύξεται]]  [[G0575\|ἀφ᾽]]  [[G4771\|ὑμῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic RESIGNATION|RESIGNATION]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.4.6|<< James 4:6]]</td><td align="center" style="border:none;">[[Jas.4|James 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.4.8|James 4:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

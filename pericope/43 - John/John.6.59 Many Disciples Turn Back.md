@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Many Disciples Turn Back
+type: Pericope
 pericope: "[[John.6.59 Many Disciples Turn Back|Many Disciples Turn Back]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: John
 chapter: 6
 book/chapter: "[[John.6|John 6]]"
-genre:
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 8
 verses:
 - "[[John.6.59]]"
 - "[[John.6.60]]"
@@ -26,7 +33,7 @@ verses:
 - "[[John.6.66]]"
 ---
 
-[[John.6|John 6:59 - John 6:66]]
+<small>[[John.6|John 6:59-66]]</small>
 *Many Disciples Turn Back*
 
 [[John.6.59|59]] These things said he in the synagogue, as he taught in Capernaum.

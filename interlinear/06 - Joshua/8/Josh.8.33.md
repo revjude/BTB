@@ -1,8 +1,92 @@
+---
+title: Joshua 8:33
+type: Verse
+kjv: "And all Israel, and their elders, and officers, and their judges, stood on this side the ark and on that side before the priests the Levites, which bare the ark of the covenant of the LORD, as well the stranger, as he that was born among them; half of them over against mount Gerizim, and half of them over against mount Ebal; as Moses the servant of the LORD had commanded before, that they should bless the people of Israel."
+bsb: "All Israel, foreigners and citizens alike, with their elders, officers, and judges, stood on both sides of the ark of the covenant of the LORD facing the Levitical priests who carried it. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the LORD had commanded earlier, to bless the people of Israel."
+hebrew: "וְכָל־ יִשְׂרָאֵ֡ל וּזְקֵנָ֡יו וְשֹׁטְרִ֣ים׀ וְשֹׁפְטָ֡יו עֹמְדִ֣ים מִזֶּ֣ה׀ וּמִזֶּ֣ה׀ לָאָר֡וֹן נֶגֶד֩ הַכֹּהֲנִ֨ים הַלְוִיִּ֜ם נֹשְׂאֵ֣י׀ אֲר֣וֹן בְּרִית־ יְהוָ֗ה כַּגֵּר֙ כָּֽאֶזְרָ֔ח חֶצְיוֹ֙ אֶל־ מ֣וּל הַר־ גְּרִזִ֔ים וְהַֽחֶצְי֖וֹ אֶל־ מ֣וּל הַר־ עֵיבָ֑ל כַּאֲשֶׁ֨ר צִוָּ֜ה מֹשֶׁ֣ה עֶֽבֶד־ יְהוָ֗ה לְבָרֵ֛ךְ אֶת־ הָעָ֥ם יִשְׂרָאֵ֖ל בָּרִאשֹׁנָֽה׃"
+pericope: "[[Josh.8.30 Joshua Renews the Covenant|Joshua Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic EBAL|EBAL]]"
+- "[[topic GERIZIM|GERIZIM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H2205G]]"
+- "[[H9023]]"
+- "[[H7860]]"
+- "[[H9015]]"
+- "[[H8199]]"
+- "[[H9033]]"
+- "[[H5975G]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H0727]]"
+- "[[H5048]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H5375H]]"
+- "[[H1285]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H1616]]"
+- "[[H0249]]"
+- "[[H2677]]"
+- "[[H0413]]"
+- "[[H4136]]"
+- "[[H2022G]]"
+- "[[H1630]]"
+- "[[H5858C]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9003]]"
+- "[[H7223H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:33**<big><big>[[Josh.8.30 Joshua Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all Israel, and their elders, and officers, and their judges, stood on this side the ark and on that side before the priests the Levites, which bare the ark of the covenant of the LORD, as well the stranger, as he that was born among them; half of them over against mount Gerizim, and half of them over against mount Ebal; as Moses the servant of the LORD had commanded before, that they should bless the people of Israel.
 <small><sub>**BSB:**</sub></small>
 All Israel, foreigners and citizens alike, with their elders, officers, and judges, stood on both sides of the ark of the covenant of the LORD facing the Levitical priests who carried it. Half of the people stood in front of Mount Gerizim and half of them in front of Mount Ebal, as Moses the servant of the LORD had commanded earlier, to bless the people of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֡ל]] [[H9002\|וּ]][[H2205G\|זְקֵנָ֡י]][[H9023\|ו]] [[H9002\|וְ]][[H7860\|שֹׁטְרִ֣ים]][[H9015\|׀]] [[H9002\|וְ]][[H8199\|שֹׁפְטָ֡י]][[H9033\|ו]] [[H5975G\|עֹמְדִ֣ים]] [[H9006\|מִ]][[H2088\|זֶּ֣ה]][[H9015\|׀]] [[H9002\|וּ]][[H9006\|מִ]][[H2088\|זֶּ֣ה]][[H9015\|׀]] [[H9005\|לָ]][[H0727\|אָר֡וֹן]] [[H5048\|נֶגֶד֩]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֨ים]] [[H9009\|הַ]][[H3881\|לְוִיִּ֜ם]] [[H5375H\|נֹשְׂאֵ֣י]][[H9015\|׀]] [[H0727\|אֲר֣וֹן]] [[H1285\|בְּרִית]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9004\|כַּ]][[H1616\|גֵּר֙]] [[H9004\|כָּֽ]][[H0249\|אֶזְרָ֔ח]] [[H2677\|חֶצְי]][[H9023\|וֹ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4136\|מ֣וּל]] [[H2022G\|הַר]][[H9014\|־]] [[H1630\|גְּרִזִ֔ים]] [[H9002\|וְ]][[H9009\|הַֽ]][[H2677\|חֶצְי֖]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H4136\|מ֣וּל]] [[H2022G\|הַר]][[H9014\|־]] [[H5858C\|עֵיבָ֑ל]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֜ה]] [[H4872\|מֹשֶׁ֣ה]] [[H5650\|עֶֽבֶד]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לְ]][[H1288\|בָרֵ֛ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בָּ]][[H7223H\|רִאשֹׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CURSE|CURSE]] • [[topic EBAL|EBAL]] • [[topic GERIZIM|GERIZIM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic LAW|LAW]] • [[topic LEVITES|LEVITES]] • [[topic PRAYER|PRAYER]] • [[topic REWARD|REWARD]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.32|<< Joshua 8:32]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.34|Joshua 8:34 >>]]</td></tr></table>
 

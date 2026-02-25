@@ -1,10 +1,67 @@
+---
+title: Luke 19:24
+type: Verse
+kjv: "And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds."
+bsb: "Then he told those standing by, ‘Take the mina from him and give it to the one who has ten minas.’"
+jesus_said: "And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds."
+greek: "καὶ τοῖς παρεστῶσιν εἶπεν· ἄρατε ἀπ᾽ αὐτοῦ τὴν μνᾶν καὶ δότε τῷ τὰς δέκα μνᾶς ἔχοντι."
+pericope: "[[Luke.19.11 The Parable of the Ten Minas|The Parable of the Ten Minas]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic POUND|POUND]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3936]]"
+- "[[G2036]]"
+- "[[G0142]]"
+- "[[G0575]]"
+- "[[G0846]]"
+- "[[G3414]]"
+- "[[G1325]]"
+- "[[G1176]]"
+- "[[G2192]]"
+texts:
+- NKO
+---
+
 **Luke 19:24**<big><big>[[Luke.19.11 The Parable of the Ten Minas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them that stood by, Take from him the pound, and give [it] to him that hath ten pounds.
 <small><sub>**BSB:**</sub></small>
 Then he told those standing by, ‘Take the mina from him and give it to the one who has ten minas.’
-<small><sub>**Literal:**</sub></small>
-And to those having stood by he said; do take from him the mina and do give [it] to the [one] the ten minas having.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.23|<< Luke 19:23]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.25|Luke 19:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G3936\|παρεστῶσιν]]  [[G2036\|εἶπεν·]]  [[G0142\|ἄρατε]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὴν]]  [[G3414\|μνᾶν]]  [[G2532\|καὶ]]  [[G1325\|δότε]]  [[G3588\|τῷ]]  [[G3588\|τὰς]]  [[G1176\|δέκα]]  [[G3414\|μνᾶς]]  [[G2192\|ἔχοντι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic IDLENESS|IDLENESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic POUND|POUND]] • [[topic PROBATION|PROBATION]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.23|<< Luke 19:23]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.25|Luke 19:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

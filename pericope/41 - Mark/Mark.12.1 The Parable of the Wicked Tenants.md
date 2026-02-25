@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Wicked Tenants
+type: Pericope
 pericope: "[[Mark.12.1 The Parable of the Wicked Tenants|The Parable of the Wicked Tenants]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Mark
 chapter: 12
 book/chapter: "[[Mark.12|Mark 12]]"
-genre:
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 12
 verses:
 - "[[Mark.12.1]]"
 - "[[Mark.12.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Mark.12.12]]"
 ---
 
-[[Mark.12|Mark 12:1 - Mark 12:12]]
+<small>[[Mark.12|Mark 12:1-12]]</small>
 *The Parable of the Wicked Tenants*
 
 [[Mark.12.1|1]] And he began to speak unto them by parables. A \[certain\] man planted a vineyard, and set an hedge about \[it\], and digged \[a place for\] the winefat, and built a tower, and let it out to husbandmen, and went into a far country.

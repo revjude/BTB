@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 19:22
+type: Verse
+kjv: "Then went he also to Ramah, and came to a great well that is in Sechu: and he asked and said, Where are Samuel and David? And one said, Behold, they be at Naioth in Ramah."
+bsb: "Finally, Saul himself left for Ramah and came to the large cistern at Secu, where he asked, “Where are Samuel and David?” “At Naioth in Ramah,” he was told."
+hebrew: "וַיֵּ֨לֶךְ גַּם־ ה֜וּא הָרָמָ֗תָה וַיָּבֹא֙ עַד־ בּ֤וֹר הַגָּדוֹל֙ אֲשֶׁ֣ר בַּשֶּׂ֔כוּ וַיִּשְׁאַ֣ל וַיֹּ֔אמֶר אֵיפֹ֥ה שְׁמוּאֵ֖ל וְדָוִ֑ד וַיֹּ֕אמֶר הִנֵּ֖ה בְּנָי֥וֹת בָּרָמָֽה׃"
+pericope: "[[1Sam.19.1 Saul Tries to Kill David|Saul Tries to Kill David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 19
+book/chapter: "[[1Sam.19|1 Samuel 19]]"
+chronological_order: 298
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic NAIOTH|NAIOTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H7414J]]"
+- "[[H9011]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H0953A]]"
+- "[[H1419A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7906]]"
+- "[[H7592]]"
+- "[[H0559]]"
+- "[[H0375]]"
+- "[[H8050G]]"
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H2009]]"
+- "[[H5121]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 19:22**<big><big>[[1Sam.19.1 Saul Tries to Kill David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then went he also to Ramah, and came to a great well that [is] in Sechu: and he asked and said, Where [are] Samuel and David? And [one] said, Behold, [they be] at Naioth in Ramah.
 <small><sub>**BSB:**</sub></small>
 Finally, Saul himself left for Ramah and came to the large cistern at Secu, where he asked, “Where are Samuel and David?” “At Naioth in Ramah,” he was told.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֨לֶךְ]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|ה֜וּא]] [[H9009\|הָ]][[H7414J\|רָמָ֗תָ]][[H9011\|ה]] [[H9001\|וַ]][[H0935G\|יָּבֹא֙]] [[H5704\|עַד]][[H9014\|־]] [[H0953A\|בּ֤וֹר]] [[H9009\|הַ]][[H1419A\|גָּדוֹל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H7906\|שֶּׂ֔כוּ]] [[H9001\|וַ]][[H7592\|יִּשְׁאַ֣ל]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H0375\|אֵיפֹ֥ה]] [[H8050G\|שְׁמוּאֵ֖ל]] [[H9002\|וְ]][[H1732\|דָוִ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H2009\|הִנֵּ֖ה]] [[H9003\|בְּ]][[H5121\|נָי֥וֹת]] [[H9003\|בָּ]][[H7414J\|רָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic JEALOUSY|JEALOUSY]] • [[topic NAIOTH|NAIOTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.19.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.19.21|<< 1 Samuel 19:21]]</td><td align="center" style="border:none;">[[1Sam.19|1 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.19.23|1 Samuel 19:23 >>]]</td></tr></table>
 

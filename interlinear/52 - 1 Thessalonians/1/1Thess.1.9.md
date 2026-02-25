@@ -1,10 +1,63 @@
+---
+title: 1 Thessalonians 1:9
+type: Verse
+kjv: "For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;"
+bsb: "For they themselves report what kind of welcome you gave us, and how you turned to God from idols to serve the living and true God"
+greek: "αὐτοὶ γὰρ περὶ ἡμῶν ἀπαγγέλλουσιν ὁποίαν εἴσοδον ἔσχομεν πρὸς ὑμᾶς, καὶ πῶς ἐπεστρέψατε πρὸς τὸν θεὸν ἀπὸ τῶν εἰδώλων δουλεύειν θεῷ ζῶντι καὶ ἀληθινῷ"
+pericope: "[[1Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 1
+book/chapter: "[[1Thess.1|1 Thessalonians 1]]"
+chronological_order: 1048
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G4012]]"
+- "[[G3165]]"
+- "[[G0518]]"
+- "[[G3697]]"
+- "[[G1529]]"
+- "[[G2192]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G4459]]"
+- "[[G1994]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0575]]"
+- "[[G1497]]"
+- "[[G1398]]"
+- "[[G2198]]"
+- "[[G0228]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **1 Thessalonians 1:9**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;
 <small><sub>**BSB:**</sub></small>
 For they themselves report what kind of welcome you gave us, and how you turned to God from idols to serve the living and true God
-<small><sub>**Literal:**</sub></small>
-They themselves for concerning us report what reception we had from you, and how you turned to <the> God from <the> idols to serve [the] God living and true<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.8|<< 1 Thessalonians 1:8]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.10|1 Thessalonians 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτοὶ]]  [[G1063\|γὰρ]]  [[G4012\|περὶ]]  [[G3165\|ἡμῶν]]  [[G0518\|ἀπαγγέλλουσιν]]  [[G3697\|ὁποίαν]]  [[G1529\|εἴσοδον]]  [[G2192\|ἔσχομεν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς,]]  [[G2532\|καὶ]]  [[G4459\|πῶς]]  [[G1994\|ἐπεστρέψατε]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G1497\|εἰδώλων]]  [[G1398\|δουλεύειν]]  [[G2316\|θεῷ]]  [[G2198\|ζῶντι]]  [[G2532\|καὶ]]  [[G0228\|ἀληθινῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.8|<< 1 Thessalonians 1:8]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.10|1 Thessalonians 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

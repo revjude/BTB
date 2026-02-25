@@ -1,8 +1,60 @@
+---
+title: Psalm 62:9
+type: Verse
+kjv: "Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity."
+bsb: "Lowborn men are but a vapor; the exalted are but a lie. Weighed on the scale, they go up; together they are but a vapor."
+hebrew: "אַ֤ךְ׀ הֶ֥בֶל בְּנֵֽי־ אָדָם֮ כָּזָ֪ב בְּנֵ֫י אִ֥ישׁ בְּמֹאזְנַ֥יִם לַעֲל֑וֹת הֵ֝֗מָּה מֵהֶ֥בֶל יָֽחַד׃"
+pericope: "[[Ps.62.1 Waiting on God|Waiting on God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 62
+book/chapter: "[[Ps.62|Psalm 62]]"
+chronological_order: 373
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H0389]]"
+- "[[H9015]]"
+- "[[H1892]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H3577]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H3976]]"
+- "[[H9005]]"
+- "[[H5927G]]"
+- "[[H1992]]"
+- "[[H9006]]"
+- "[[H3162A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 62:9**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely men of low degree [are] vanity, [and] men of high degree [are] a lie: to be laid in the balance, they [are] altogether [lighter] than vanity.
 <small><sub>**BSB:**</sub></small>
 Lowborn men are but a vapor; the exalted are but a lie. Weighed on the scale, they go up; together they are but a vapor.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַ֤ךְ]][[H9015\|׀]] [[H1892\|הֶ֥בֶל]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H0120G\|אָדָם֮]] [[H3577\|כָּזָ֪ב]] [[H1121G\|בְּנֵ֫י]] [[H0376I\|אִ֥ישׁ]] [[H9003\|בְּ]][[H3976\|מֹאזְנַ֥יִם]] [[H9005\|לַ]][[H5927G\|עֲל֑וֹת]] [[H1992\|הֵ֝֗מָּה]] [[H9006\|מֵ]][[H1892\|הֶ֥בֶל]] [[H3162A\|יָֽחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.8|<< Psalms 62:8]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.10|Psalms 62:10 >>]]</td></tr></table>
 

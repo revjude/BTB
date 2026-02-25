@@ -1,10 +1,73 @@
+---
+title: Acts 12:17
+type: Verse
+kjv: "But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place."
+bsb: "Peter motioned with his hand for silence, and he described how the Lord had brought him out of the prison. “Send word to James and to the brothers,” he said, and he left for another place."
+greek: "κατασείσας δὲ αὐτοῖς τῇ χειρὶ σιγᾶν, διηγήσατο αὐτοῖς πῶς ὁ κύριος αὐτὸν ἐξήγαγεν ἐκ τῆς φυλακῆς· εἶπέν τε· ἀπαγγείλατε Ἰακώβῳ καὶ τοῖς ἀδελφοῖς ταῦτα. καὶ ἐξελθὼν ἐπορεύθη εἰς ἕτερον τόπον.¶"
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JAMES|JAMES]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2678]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G4601]]"
+- "[[G1334]]"
+- "[[G4459]]"
+- "[[G2962G]]"
+- "[[G1806]]"
+- "[[G1537]]"
+- "[[G5438G]]"
+- "[[G2036]]"
+- "[[G5037]]"
+- "[[G0518]]"
+- "[[G2385I]]"
+- "[[G2532]]"
+- "[[G0080]]"
+- "[[G3778]]"
+- "[[G1831]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2087]]"
+- "[[G5117]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 12:17**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place.
 <small><sub>**BSB:**</sub></small>
 Peter motioned with his hand for silence, and he described how the Lord had brought him out of the prison. “Send word to James and to the brothers,” he said, and he left for another place.
-<small><sub>**Literal:**</sub></small>
-Having made a sign then to them with the hand to be silent, he related to them how the Lord him had brought out of the prison; He said then; do report to James and to the brothers these things. And having gone out he went to another place.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.16|<< Acts 12:16]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.18|Acts 12:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2678\|κατασείσας]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς]]  [[G3588\|τῇ]]  [[G5495\|χειρὶ]]  [[G4601\|σιγᾶν,]]  [[G1334\|διηγήσατο]]  [[G0846\|αὐτοῖς]]  [[G4459\|πῶς]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G0846\|αὐτὸν]]  [[G1806\|ἐξήγαγεν]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G5438G\|φυλακῆς·]]  [[G2036\|εἶπέν]]  [[G5037\|τε·]]  [[G0518\|ἀπαγγείλατε]]  [[G2385I\|Ἰακώβῳ]]  [[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G0080\|ἀδελφοῖς]]  [[G3778\|ταῦτα.]]  [[G2532\|καὶ]]  [[G1831\|ἐξελθὼν]]  [[G4198\|ἐπορεύθη]]  [[G1519\|εἰς]]  [[G2087\|ἕτερον]]  [[G5117\|τόπον.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JAMES|JAMES]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.16|<< Acts 12:16]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.18|Acts 12:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

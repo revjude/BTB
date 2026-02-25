@@ -1,8 +1,51 @@
+---
+title: Job 24:21
+type: Verse
+kjv: "He evil entreateth the barren that beareth not: and doeth not good to the widow."
+bsb: "They prey on the barren and childless, and show no kindness to the widow."
+hebrew: "רֹעֶ֣ה עֲ֭קָרָה לֹ֣א תֵלֵ֑ד וְ֝אַלְמָנָ֗ה לֹ֣א יְיֵטִֽיב׃"
+pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H7462B]]"
+- "[[H6135]]"
+- "[[H3808]]"
+- "[[H3205]]"
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H3190]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 24:21**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He evil entreateth the barren [that] beareth not: and doeth not good to the widow.
 <small><sub>**BSB:**</sub></small>
 They prey on the barren and childless, and show no kindness to the widow.
+<small><sub>**Hebrew:**</sub></small>
+[[H7462B\|רֹעֶ֣ה]] [[H6135\|עֲ֭קָרָה]] [[H3808\|לֹ֣א]] [[H3205\|תֵלֵ֑ד]] [[H9002\|וְ֝]][[H0490\|אַלְמָנָ֗ה]] [[H3808\|לֹ֣א]] [[H3190\|יְיֵטִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.20|<< Job 24:20]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.22|Job 24:22 >>]]</td></tr></table>
 

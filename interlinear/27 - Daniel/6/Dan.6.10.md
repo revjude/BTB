@@ -1,8 +1,97 @@
+---
+title: Daniel 6:10
+type: Verse
+kjv: "Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime."
+bsb: "Now when Daniel learned that the document had been signed, he went into his house, where the windows of his upper room opened toward Jerusalem, and three times a day he got down on his knees, prayed, and gave thanks to his God, just as he had done before."
+aramaic: "וְ֠דָנִיֵּאל כְּדִ֨י יְדַ֜ע דִּֽי־ רְשִׁ֤ים כְּתָבָא֙ עַ֣ל לְבַיְתֵ֔הּ וְכַוִּ֨ין פְּתִיחָ֥ן לֵהּ֙ בְּעִלִּיתֵ֔הּ נֶ֖גֶד יְרוּשְׁלֶ֑ם וְזִמְנִין֩ תְּלָתָ֨ה בְיוֹמָ֜א ה֣וּא׀ בָּרֵ֣ךְ עַל־ בִּרְכ֗וֹהִי וּמְצַלֵּ֤א וּמוֹדֵא֙ קֳדָ֣ם אֱלָהֵ֔הּ כָּל־ קֳבֵל֙ דִּֽי־ הֲוָ֣א עָבֵ֔ד מִן־ קַדְמַ֖ת דְּנָֽה׃ ס"
+pericope: "[[Dan.6.10 Daniel in the Lions’ Den|Daniel in the Lions’ Den]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H1841H]]"
+- "[[H9004]]"
+- "[[H1768]]"
+- "[[H3046]]"
+- "[[H9014]]"
+- "[[H7560]]"
+- "[[H3792]]"
+- "[[H9010]]"
+- "[[H5954]]"
+- "[[H9005]]"
+- "[[H1005]]"
+- "[[H9023]]"
+- "[[H3551]]"
+- "[[H6606]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5952]]"
+- "[[H5049]]"
+- "[[H3390]]"
+- "[[H2166]]"
+- "[[H8532]]"
+- "[[H3118]]"
+- "[[H1932]]"
+- "[[H9015]]"
+- "[[H1289]]"
+- "[[H5922]]"
+- "[[H1291]]"
+- "[[H6739]]"
+- "[[H3029]]"
+- "[[H6925]]"
+- "[[H0426]]"
+- "[[H6903H]]"
+- "[[H1934]]"
+- "[[H5648]]"
+- "[[H4481]]"
+- "[[H6928]]"
+- "[[H1836]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Daniel 6:10**<big><big>[[Dan.6.10 Daniel in the Lions’ Den|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.
 <small><sub>**BSB:**</sub></small>
 Now when Daniel learned that the document had been signed, he went into his house, where the windows of his upper room opened toward Jerusalem, and three times a day he got down on his knees, prayed, and gave thanks to his God, just as he had done before.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וְ֠]][[H1841H\|דָנִיֵּאל]] [[H9004\|כְּ]][[H1768\|דִ֨י]] [[H3046\|יְדַ֜ע]] [[H1768\|דִּֽי]][[H9014\|־]] [[H7560\|רְשִׁ֤ים]] [[H3792\|כְּתָבָ]][[H9010\|א֙]] [[H5954\|עַ֣ל]] [[H9005\|לְ]][[H1005\|בַיְתֵ֔]][[H9023\|הּ]] [[H9002\|וְ]][[H3551\|כַוִּ֨ין]] [[H6606\|פְּתִיחָ֥ן]] [[H9005\|לֵ]][[H9033\|הּ֙]] [[H9003\|בְּ]][[H5952\|עִלִּיתֵ֔]][[H9023\|הּ]] [[H5049\|נֶ֖גֶד]] [[H3390\|יְרוּשְׁלֶ֑ם]] [[H9002\|וְ]][[H2166\|זִמְנִין֩]] [[H8532\|תְּלָתָ֨ה]] [[H9003\|בְ]][[H3118\|יוֹמָ֜]][[H9010\|א]] [[H1932\|ה֣וּא]][[H9015\|׀]] [[H1289\|בָּרֵ֣ךְ]] [[H5922\|עַל]][[H9014\|־]] [[H1291\|בִּרְכ֗וֹ]][[H9023\|הִי]] [[H9002\|וּ]][[H6739\|מְצַלֵּ֤א]] [[H9002\|וּ]][[H3029\|מוֹדֵא֙]] [[H6925\|קֳדָ֣ם]] [[H0426\|אֱלָהֵ֔]][[H9023\|הּ]] [[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵל֙]] [[H1768\|דִּֽי]][[H9014\|־]] [[H1934\|הֲוָ֣א]] [[H5648\|עָבֵ֔ד]] [[H4481\|מִן]][[H9014\|־]] [[H6928\|קַדְמַ֖ת]] [[H1836\|דְּנָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic COURAGE|COURAGE]] • [[topic DANIEL|DANIEL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSIA|PERSIA]] • [[topic POLITICS|POLITICS]] • [[topic PRAYER|PRAYER]] • [[topic PRAYERFULNESS|PRAYERFULNESS]] • [[topic RELIGION|RELIGION]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TEMPLE|TEMPLE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.9|<< Daniel 6:9]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.11|Daniel 6:11 >>]]</td></tr></table>
 
@@ -40,7 +129,7 @@ Now when Daniel learned that the document had been signed, he went into his hous
 | doing  |**<big>&#8207;[[H5648\|עָבֵ֔ד]]&#8207; </big>**| 'a.Ved<small><sup>[[AVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from  |**<big>&#8207;[[H4481\|מִן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| min-<small><sup>[[AR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] former time of  |**<big>&#8207;[[H6928\|קַדְמַ֖ת]]&#8207; </big>**| kad.Mat<small><sup>[[ANcfsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| this  |**<big>&#8207;[[H1836\|דְּנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| this  |**<big>&#8207;[[H1836\|דְּנָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| de.Nah<small><sup>[[ATm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.9|<< Daniel 6:9]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.11|Daniel 6:11 >>]]</td></tr></table>
 
 

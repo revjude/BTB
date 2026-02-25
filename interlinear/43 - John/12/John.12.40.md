@@ -1,10 +1,60 @@
+---
+title: John 12:40
+type: Verse
+kjv: "He hath blinded their eyes, and hardened their heart; that they should not see with their eyes, nor understand with their heart, and be converted, and I should heal them."
+bsb: "“He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.”"
+greek: "τετύφλωκεν αὐτῶν τοὺς ὀφθαλμοὺς καὶ ἐπώρωσεν αὐτῶν τὴν καρδίαν, ἵνα μὴ ἴδωσιν τοῖς ὀφθαλμοῖς καὶ νοήσωσιν τῇ καρδίᾳ καὶ στραφῶσιν καὶ ἰάσομαι αὐτούς.¶"
+pericope: "[[John.12.37 Belief and Unbelief|Belief and Unbelief]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DEAFNESS|DEAFNESS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G5186]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G2532]]"
+- "[[G4456]]"
+- "[[G2588]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1492H]]"
+- "[[G3539]]"
+- "[[G4762]]"
+- "[[G2390]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 12:40**<big><big>[[John.12.37 Belief and Unbelief|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He hath blinded their eyes, and hardened their heart; that they should not see with [their] eyes, nor understand with [their] heart, and be converted, and I should heal them.
 <small><sub>**BSB:**</sub></small>
 “He has blinded their eyes and hardened their hearts, so that they cannot see with their eyes, and understand with their hearts, and turn, and I would heal them.”
-<small><sub>**Literal:**</sub></small>
-He has blinded of them the eyes and has hardened of them the heart, that not they may see with the eyes and may understand with the heart and may turn and I will heal them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.39|<< John 12:39]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.41|John 12:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5186\|τετύφλωκεν]]  [[G0846\|αὐτῶν]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G2532\|καὶ]]  [[G4456\|ἐπώρωσεν]]  [[G0846\|αὐτῶν]]  [[G3588\|τὴν]]  [[G2588\|καρδίαν,]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1492H\|ἴδωσιν]]  [[G3588\|τοῖς]]  [[G3788\|ὀφθαλμοῖς]]  [[G2532\|καὶ]]  [[G3539\|νοήσωσιν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G2532\|καὶ]]  [[G4762\|στραφῶσιν]]  [[G2532\|καὶ]]  [[G2390\|ἰάσομαι]]  [[G0846\|αὐτούς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DEAFNESS|DEAFNESS]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.39|<< John 12:39]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.41|John 12:41 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 12:40** is...
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9-10]]

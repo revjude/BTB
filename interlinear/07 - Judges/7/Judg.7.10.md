@@ -1,8 +1,58 @@
+---
+title: Judges 7:10
+type: Verse
+kjv: "But if thou fear to go down, go thou with Phurah thy servant down to the host:"
+bsb: "But if you are afraid to do so, then go down to the camp with your servant Purah"
+hebrew: "וְאִם־ יָרֵ֥א אַתָּ֖ה לָרֶ֑דֶת רֵ֥ד אַתָּ֛ה וּפֻרָ֥ה נַעַרְךָ֖ אֶל־ הַֽמַּחֲנֶֽה׃"
+pericope: "[[Judg.7.9 The Sword of Gideon|The Sword of Gideon]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 7
+book/chapter: "[[Judg.7|Judges 7]]"
+chronological_order: 261
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic PHURAH|PHURAH]]"
+- "[[topic PITCHER|PITCHER]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3373]]"
+- "[[H0859A]]"
+- "[[H9005]]"
+- "[[H3381]]"
+- "[[H6513]]"
+- "[[H5288]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 7:10**<big><big>[[Judg.7.9 The Sword of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if thou fear to go down, go thou with Phurah thy servant down to the host:
 <small><sub>**BSB:**</sub></small>
 But if you are afraid to do so, then go down to the camp with your servant Purah
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3373\|יָרֵ֥א]] [[H0859A\|אַתָּ֖ה]] [[H9005\|לָ]][[H3381\|רֶ֑דֶת]] [[H3381\|רֵ֥ד]] [[H0859A\|אַתָּ֛ה]] [[H9002\|וּ]][[H6513\|פֻרָ֥ה]] [[H5288\|נַעַרְ]][[H9021\|ךָ֖]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic PHURAH|PHURAH]] • [[topic PITCHER|PITCHER]] • [[topic TRUMPET|TRUMPET]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.7.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.7.9|<< Judges 7:9]]</td><td align="center" style="border:none;">[[Judg.7|Judges 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.7.11|Judges 7:11 >>]]</td></tr></table>
 

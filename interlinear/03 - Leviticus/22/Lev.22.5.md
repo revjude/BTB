@@ -1,8 +1,62 @@
+---
+title: Leviticus 22:5
+type: Verse
+kjv: "Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;"
+bsb: "or whoever touches a crawling creature or a person that makes him unclean, whatever the uncleanness may be—"
+hebrew: "אוֹ־ אִישׁ֙ אֲשֶׁ֣ר יִגַּ֔ע בְּכָל־ שֶׁ֖רֶץ אֲשֶׁ֣ר יִטְמָא־ ל֑וֹ א֤וֹ בְאָדָם֙ אֲשֶׁ֣ר יִטְמָא־ ל֔וֹ לְכֹ֖ל טֻמְאָתֽוֹ׃"
+pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H0834A]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H8318]]"
+- "[[H2930A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0120G]]"
+- "[[H2932]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:5**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;
 <small><sub>**BSB:**</sub></small>
 or whoever touches a crawling creature or a person that makes him unclean, whatever the uncleanness may be—
+<small><sub>**Hebrew:**</sub></small>
+[[H0176A\|אוֹ]][[H9014\|־]] [[H0376I\|אִישׁ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5060\|יִגַּ֔ע]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H8318\|שֶׁ֖רֶץ]] [[H0834A\|אֲשֶׁ֣ר]] [[H2930A\|יִטְמָא]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H0176A\|א֤וֹ]] [[H9003\|בְ]][[H0120G\|אָדָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2930A\|יִטְמָא]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H2932\|טֻמְאָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.4|<< Leviticus 22:4]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.6|Leviticus 22:6 >>]]</td></tr></table>
 

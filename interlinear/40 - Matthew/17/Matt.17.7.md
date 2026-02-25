@@ -1,10 +1,56 @@
+---
+title: Matthew 17:7
+type: Verse
+kjv: "And Jesus came and touched them, and said, Arise, and be not afraid."
+bsb: "Then Jesus came over and touched them. “Get up,” He said. “Do not be afraid.”"
+jesus_said: "Arise, and be not afraid."
+greek: "καὶ προσῆλθεν ὁ Ἰησοῦς, καὶ ἁψάμενος αὐτῶν εἶπεν· ἐγέρθητε καὶ μὴ φοβεῖσθε."
+pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 17
+book/chapter: "[[Matt.17|Matthew 17]]"
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic TRANSFIGURATION|TRANSFIGURATION]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0681]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G1453]]"
+- "[[G3361]]"
+- "[[G5399]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 17:7**<big><big>[[Matt.17.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus came and touched them, and said, Arise, and be not afraid.
 <small><sub>**BSB:**</sub></small>
 Then Jesus came over and touched them. “Get up,” He said. “Do not be afraid.”
-<small><sub>**Literal:**</sub></small>
-And he came <the> Jesus, and having touched them He said; do rise up and not do be afraid.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.6|<< Matthew 17:6]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.8|Matthew 17:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4334\|προσῆλθεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G2532\|καὶ]]  [[G0681\|ἁψάμενος]]  [[G0846\|αὐτῶν]]  [[G2036\|εἶπεν·]]  [[G1453\|ἐγέρθητε]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G5399\|φοβεῖσθε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic TRANSFIGURATION|TRANSFIGURATION]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.17.6|<< Matthew 17:6]]</td><td align="center" style="border:none;">[[Matt.17|Matthew 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.17.8|Matthew 17:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

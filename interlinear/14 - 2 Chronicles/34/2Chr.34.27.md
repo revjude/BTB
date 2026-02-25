@@ -1,8 +1,77 @@
+---
+title: 2 Chronicles 34:27
+type: Verse
+kjv: "Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard thee also, saith the LORD."
+bsb: "because your heart was tender and you humbled yourself before God when you heard His words against this place and against its people, and because you have humbled yourself before Me and have torn your clothes and wept before Me, I have heard you,’ declares the LORD."
+hebrew: "יַ֠עַן רַךְ־ לְבָ֨בְךָ֜ וַתִּכָּנַ֣ע׀ מִלִּפְנֵ֣י אֱלֹהִ֗ים בְּשָׁמְעֲךָ֤ אֶת־ דְּבָרָיו֙ עַל־ הַמָּק֤וֹם הַזֶּה֙ וְעַל־ יֹ֣שְׁבָ֔יו וַתִּכָּנַ֣ע לְפָנַ֔י וַתִּקְרַ֥ע אֶת־ בְּגָדֶ֖יךָ וַתֵּ֣בְךְּ לְפָנָ֑י וְגַם־ אֲנִ֥י שָׁמַ֖עְתִּי נְאֻם־ יְהוָֽה׃"
+pericope: "[[2Chr.34.22 Huldah’s Prophecy|Huldah’s Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic HULDAH|HULDAH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3282]]"
+- "[[H7401]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H3665]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H8085G]]"
+- "[[H9041]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H9020]]"
+- "[[H7167]]"
+- "[[H0899B]]"
+- "[[H1058]]"
+- "[[H1571]]"
+- "[[H0589]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:27**<big><big>[[2Chr.34.22 Huldah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard [thee] also, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 because your heart was tender and you humbled yourself before God when you heard His words against this place and against its people, and because you have humbled yourself before Me and have torn your clothes and wept before Me, I have heard you,’ declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֠עַן]] [[H7401\|רַךְ]][[H9014\|־]] [[H3824\|לְבָ֨בְ]][[H9021\|ךָ֜]] [[H9001\|וַ]][[H3665\|תִּכָּנַ֣ע]][[H9015\|׀]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֣י]] [[H0430G\|אֱלֹהִ֗ים]] [[H9003\|בְּ]][[H8085G\|שָׁמְעֲ]][[H9041\|ךָ֤]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרָי]][[H9023\|ו֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֤וֹם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3427\|יֹ֣שְׁבָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H3665\|תִּכָּנַ֣ע]] [[H9005\|לְ]][[H6440G\|פָנַ֔]][[H9020\|י]] [[H9001\|וַ]][[H7167\|תִּקְרַ֥ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדֶ֖י]][[H9021\|ךָ]] [[H9001\|וַ]][[H1058\|תֵּ֣בְךְּ]] [[H9005\|לְ]][[H6440G\|פָנָ֑]][[H9020\|י]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H0589\|אֲנִ֥י]] [[H8085G\|שָׁמַ֖עְתִּי]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAHIAH|ASAHIAH]] • [[topic HULDAH|HULDAH]] • [[topic HUMILITY|HUMILITY]] • [[topic JOSIAH|JOSIAH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.26|<< 2 Chronicles 34:26]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.28|2 Chronicles 34:28 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Genesis 35:26
+type: Verse
+kjv: "And the sons of Zilpah, Leah’s handmaid; Gad, and Asher: these are the sons of Jacob, which were born to him in Padanaram."
+bsb: "And the sons of Leah’s maidservant Zilpah were Gad and Asher. These are the sons of Jacob, who were born to him in Paddan-aram."
+hebrew: "וּבְנֵ֥י זִלְפָּ֛ה שִׁפְחַ֥ת לֵאָ֖ה גָּ֣ד וְאָשֵׁ֑ר אֵ֚לֶּה בְּנֵ֣י יַעֲקֹ֔ב אֲשֶׁ֥ר יֻלַּד־ ל֖וֹ בְּפַדַּ֥ן אֲרָֽם׃"
+pericope: "[[Gen.35.21 The Sons of Jacob|The Sons of Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ASHER|ASHER]]"
+- "[[topic GAD|GAD]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic ZILPAH|ZILPAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H2153]]"
+- "[[H8198]]"
+- "[[H3812]]"
+- "[[H1410G]]"
+- "[[H0836]]"
+- "[[H0428]]"
+- "[[H3290]]"
+- "[[H0834A]]"
+- "[[H3205]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H6307]]"
+- "[[H0758L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:26**<big><big>[[Gen.35.21 The Sons of Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Zilpah, Leah’s handmaid; Gad, and Asher: these [are] the sons of Jacob, which were born to him in Padanaram.
 <small><sub>**BSB:**</sub></small>
 And the sons of Leah’s maidservant Zilpah were Gad and Asher. These are the sons of Jacob, who were born to him in Paddan-aram.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֥י]] [[H2153\|זִלְפָּ֛ה]] [[H8198\|שִׁפְחַ֥ת]] [[H3812\|לֵאָ֖ה]] [[H1410G\|גָּ֣ד]] [[H9002\|וְ]][[H0836\|אָשֵׁ֑ר]] [[H0428\|אֵ֚לֶּה]] [[H1121A\|בְּנֵ֣י]] [[H3290\|יַעֲקֹ֔ב]] [[H0834A\|אֲשֶׁ֥ר]] [[H3205\|יֻלַּד]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H6307\|פַדַּ֥ן]] [[H0758L\|אֲרָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASHER|ASHER]] • [[topic GAD|GAD]] • [[topic GENEALOGY|GENEALOGY]] • [[topic JACOB|JACOB]] • [[topic ZILPAH|ZILPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.25|<< Genesis 35:25]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.27|Genesis 35:27 >>]]</td></tr></table>
 

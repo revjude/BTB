@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 6:9
+type: Verse
+kjv: "And David was afraid of the LORD that day, and said, How shall the ark of the LORD come to me?"
+bsb: "That day David feared the LORD and asked, “How can the ark of the LORD ever come to me?”"
+hebrew: "וַיִּרָ֥א דָוִ֛ד אֶת־ יְהוָ֖ה בַּיּ֣וֹם הַה֑וּא וַיֹּ֕אמֶר אֵ֛יךְ יָב֥וֹא אֵלַ֖י אֲר֥וֹן יְהוָֽה׃"
+pericope: "[[2Sam.6.5 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H3372G]]"
+- "[[H1732]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0559]]"
+- "[[H0349A]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0727]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:9**<big><big>[[2Sam.6.5 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David was afraid of the LORD that day, and said, How shall the ark of the LORD come to me?
 <small><sub>**BSB:**</sub></small>
 That day David feared the LORD and asked, “How can the ark of the LORD ever come to me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3372G\|יִּרָ֥א]] [[H1732\|דָוִ֛ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0349A\|אֵ֛יךְ]] [[H0935G\|יָב֥וֹא]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H0727\|אֲר֥וֹן]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.8|<< 2 Samuel 6:8]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.10|2 Samuel 6:10 >>]]</td></tr></table>
 

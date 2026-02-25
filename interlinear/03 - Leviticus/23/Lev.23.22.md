@@ -1,8 +1,73 @@
+---
+title: Leviticus 23:22
+type: Verse
+kjv: "And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I am the LORD your God."
+bsb: "When you reap the harvest of your land, do not reap all the way to the edges of your field or gather the gleanings of your harvest. Leave them for the poor and the foreign resident. I am the LORD your God.’”"
+hebrew: "וּֽבְקֻצְרְכֶ֞ם אֶת־ קְצִ֣יר אַרְצְכֶ֗ם לֹֽא־ תְכַלֶּ֞ה פְּאַ֤ת שָֽׂדְךָ֙ בְּקֻצְרֶ֔ךָ וְלֶ֥קֶט קְצִירְךָ֖ לֹ֣א תְלַקֵּ֑ט לֶֽעָנִ֤י וְלַגֵּר֙ תַּעֲזֹ֣ב אֹתָ֔ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃ ס"
+pericope: "[[Lev.23.15 The Feast of Weeks|The Feast of Weeks]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 23
+book/chapter: "[[Lev.23|Leviticus 23]]"
+chronological_order: 155
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic GLEANING|GLEANING]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7114B]]"
+- "[[H9046]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7105A]]"
+- "[[H0776G]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H3615J]]"
+- "[[H6285]]"
+- "[[H7704G]]"
+- "[[H9021]]"
+- "[[H9041]]"
+- "[[H3951]]"
+- "[[H3950]]"
+- "[[H9005]]"
+- "[[H6041]]"
+- "[[H1616]]"
+- "[[H5800A]]"
+- "[[H9038]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Leviticus 23:22**<big><big>[[Lev.23.15 The Feast of Weeks|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when ye reap the harvest of your land, thou shalt not make clean riddance of the corners of thy field when thou reapest, neither shalt thou gather any gleaning of thy harvest: thou shalt leave them unto the poor, and to the stranger: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 When you reap the harvest of your land, do not reap all the way to the edges of your field or gather the gleanings of your harvest. Leave them for the poor and the foreign resident. I am the LORD your God.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H9003\|בְ]][[H7114B\|קֻצְרְ]][[H9046\|כֶ֞ם]] [[H0853\|אֶת]][[H9014\|־]] [[H7105A\|קְצִ֣יר]] [[H0776G\|אַרְצְ]][[H9026\|כֶ֗ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3615J\|תְכַלֶּ֞ה]] [[H6285\|פְּאַ֤ת]] [[H7704G\|שָֽׂדְ]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H7114B\|קֻצְרֶ֔]][[H9041\|ךָ]] [[H9002\|וְ]][[H3951\|לֶ֥קֶט]] [[H7105A\|קְצִירְ]][[H9021\|ךָ֖]] [[H3808\|לֹ֣א]] [[H3950\|תְלַקֵּ֑ט]] [[H9005\|לֶֽ]][[H6041\|עָנִ֤י]] [[H9002\|וְ]][[H9005\|לַ]][[H1616\|גֵּר֙]] [[H5800A\|תַּעֲזֹ֣ב]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLEANING|GLEANING]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.23.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.21|<< Leviticus 23:21]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.23|Leviticus 23:23 >>]]</td></tr></table>
 
@@ -27,7 +92,7 @@ When you reap the harvest of your land, do not reap all the way to the edges of 
 | \<obj.> them  |**<big>&#8207;[[H0853\|אֹתָ֔]]&#8207;&#8207;[[H9038\|ם]]&#8207; </big>**| 'o.Ta<small><sup>[[HTo]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.23.21|<< Leviticus 23:21]]</td><td align="center" style="border:none;">[[Lev.23|Leviticus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.23.23|Leviticus 23:23 >>]]</td></tr></table>
 
 

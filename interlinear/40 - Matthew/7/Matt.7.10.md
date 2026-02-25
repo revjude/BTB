@@ -1,10 +1,58 @@
+---
+title: Matthew 7:10
+type: Verse
+kjv: "Or if he ask a fish, will he give him a serpent?"
+bsb: "Or if he asks for a fish, will give him a snake?"
+jesus_said: "Or if he ask a fish, will he give him a serpent?"
+greek: "ἢ καὶ ἐὰν ἰχθὺν αἰτήσει, μὴ ὄφιν ἐπιδώσει αὐτῷ;"
+pericope: "[[Matt.7.7 Ask, Seek, Knock|Ask, Seek, Knock]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 7
+book/chapter: "[[Matt.7|Matthew 7]]"
+chronological_order: 945
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SERPENT|SERPENT]]"
+strongs:
+- "[[G2228]]"
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2486]]"
+- "[[G0154]]"
+- "[[G3361]]"
+- "[[G3789]]"
+- "[[G1929]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+- N(K)O
+---
+
 **Matthew 7:10**<big><big>[[Matt.7.7 Ask, Seek, Knock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Or if he ask a fish, will he give him a serpent?
 <small><sub>**BSB:**</sub></small>
 Or if he asks for a fish, will give him a snake?
-<small><sub>**Literal:**</sub></small>
-Or also if a fish he will ask for, surely not a serpent will he give to him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.9|<< Matthew 7:9]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.11|Matthew 7:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2228\|ἢ]]  [[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G2486\|ἰχθὺν]]  [[G0154\|αἰτήσει,]]  [[G3361\|μὴ]]  [[G3789\|ὄφιν]]  [[G1929\|ἐπιδώσει]]  [[G0846\|αὐτῷ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FOOD|FOOD]] • [[topic PENITENT|PENITENT]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]] • [[topic SEEKERS|SEEKERS]] • [[topic SERPENT|SERPENT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.7.9|<< Matthew 7:9]]</td><td align="center" style="border:none;">[[Matt.7|Matthew 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.7.11|Matthew 7:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

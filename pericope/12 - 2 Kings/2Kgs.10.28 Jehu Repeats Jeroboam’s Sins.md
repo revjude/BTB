@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehu Repeats Jeroboam’s Sins
+type: Pericope
 pericope: "[[2Kgs.10.28 Jehu Repeats Jeroboam’s Sins|Jehu Repeats Jeroboam’s Sins]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 10
 book/chapter: "[[2Kgs.10|2 Kings 10]]"
-genre:
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 6
 verses:
 - "[[2Kgs.10.28]]"
 - "[[2Kgs.10.29]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Kgs.10.33]]"
 ---
 
-[[2Kgs.10|2 Kings 10:28 - 2 Kings 10:33]]
+<small>[[2Kgs.10|2 Kings 10:28-33]]</small>
 *Jehu Repeats Jeroboam’s Sins*
 
 [[2Kgs.10.28|28]] Thus Jehu destroyed Baal out of Israel.

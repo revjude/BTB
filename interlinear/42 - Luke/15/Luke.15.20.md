@@ -1,10 +1,73 @@
+---
+title: Luke 15:20
+type: Verse
+kjv: "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+bsb: "So he got up and went to his father. But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him."
+jesus_said: "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+greek: "καὶ ἀναστὰς ἦλθεν πρὸς τὸν πατέρα ἑαυτοῦ.¶ Ἔτι δὲ αὐτοῦ μακρὰν ἀπέχοντος εἶδεν αὐτὸν ὁ πατὴρ αὐτοῦ καὶ ἐσπλαγχνίσθη, καὶ δραμὼν ἐπέπεσεν ἐπὶ τὸν τράχηλον αὐτοῦ καὶ κατεφίλησεν αὐτόν."
+pericope: "[[Luke.15.11 The Parable of the Prodigal Son|The Parable of the Prodigal Son]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 15
+book/chapter: "[[Luke.15|Luke 15]]"
+chronological_order: 977
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic KISS|KISS]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRODIGAL SON|PRODIGAL SON]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0450]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1438]]"
+- "[[G2089]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G3112]]"
+- "[[G0568]]"
+- "[[G1492H]]"
+- "[[G4697]]"
+- "[[G5143]]"
+- "[[G1968]]"
+- "[[G1909]]"
+- "[[G5137]]"
+- "[[G2705]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Luke 15:20**<big><big>[[Luke.15.11 The Parable of the Prodigal Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him.
 <small><sub>**BSB:**</sub></small>
 So he got up and went to his father. But while he was still in the distance, his father saw him and was filled with compassion. He ran to his son, embraced him, and kissed him.
-<small><sub>**Literal:**</sub></small>
-And having risen up he went to the father of himself Still now he far being distant he saw him the father of him and was moved with compassion, and having run he fell upon the neck of him and he kissed him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.19|<< Luke 15:19]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.21|Luke 15:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0450\|ἀναστὰς]]  [[G2064\|ἦλθεν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G1438\|ἑαυτοῦ.¶]]  [[G2089\|Ἔτι]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G3112\|μακρὰν]]  [[G0568\|ἀπέχοντος]]  [[G1492H\|εἶδεν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G4697\|ἐσπλαγχνίσθη,]]  [[G2532\|καὶ]]  [[G5143\|δραμὼν]]  [[G1968\|ἐπέπεσεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G5137\|τράχηλον]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2705\|κατεφίλησεν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic KISS|KISS]] • [[topic PENITENT|PENITENT]] • [[topic PRODIGAL SON|PRODIGAL SON]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.15.19|<< Luke 15:19]]</td><td align="center" style="border:none;">[[Luke.15|Luke 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.15.21|Luke 15:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Is on My Side
+type: Pericope
 pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 118
 book/chapter: "[[Ps.118|Psalm 118]]"
-genre:
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 29
 verses:
 - "[[Ps.118.1]]"
 - "[[Ps.118.2]]"
@@ -50,7 +57,7 @@ verses:
 - "[[Ps.118.29]]"
 ---
 
-[[Ps.118|Psalm 118:1 - Psalm 118:29]]
+<small>[[Ps.118|Psalm 118:1-29]]</small>
 *The LORD Is on My Side*
 
 [[Ps.118.1|1]] O give thanks unto the LORD; for \[he is\] good: because his mercy \[endureth\] for ever.

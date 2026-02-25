@@ -1,10 +1,55 @@
+---
+title: Acts 19:37
+type: Verse
+kjv: "For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess."
+bsb: "For you have brought these men here, though they have neither robbed our temple nor blasphemed our goddess."
+greek: "ἠγάγετε γὰρ τοὺς ἄνδρας τούτους οὔτε ἱεροσύλους οὔτε βλασφημοῦντας τὴν θεὸν ἡμῶν."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DEMETRIUS|DEMETRIUS]]"
+- "[[topic MOB|MOB]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+strongs:
+- "[[G0071]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G0435G]]"
+- "[[G3778]]"
+- "[[G3777]]"
+- "[[G2417]]"
+- "[[G0987]]"
+- "[[G2316]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 19:37**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For ye have brought hither these men, which are neither robbers of churches, nor yet blasphemers of your goddess.
 <small><sub>**BSB:**</sub></small>
 For you have brought these men here, though they have neither robbed our temple nor blasphemed our goddess.
-<small><sub>**Literal:**</sub></small>
-You brought for <the> men these neither temple plunderers nor blaspheming the goddess of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.36|<< Acts 19:36]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.38|Acts 19:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0071\|ἠγάγετε]]  [[G1063\|γὰρ]]  [[G3588\|τοὺς]]  [[G0435G\|ἄνδρας]]  [[G3778\|τούτους]]  [[G3777\|οὔτε]]  [[G2417\|ἱεροσύλους]]  [[G3777\|οὔτε]]  [[G0987\|βλασφημοῦντας]]  [[G3588\|τὴν]]  [[G2316\|θεὸν]]  [[G3165\|ἡμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic DEMETRIUS|DEMETRIUS]] • [[topic MOB|MOB]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.36|<< Acts 19:36]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.38|Acts 19:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

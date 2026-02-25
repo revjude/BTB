@@ -1,8 +1,57 @@
+---
+title: Nehemiah 11:15
+type: Verse
+kjv: "Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;"
+bsb: "From the Levites: Shemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni;"
+hebrew: "וּמִֽן־ הַלְוִיִּ֑ם שְׁמַעְיָ֧ה בֶן־ חַשּׁ֛וּב בֶּן־ עַזְרִיקָ֥ם בֶּן־ חֲשַׁבְיָ֖ה בֶּן־ בּוּנִּֽי׃"
+pericope: "[[Neh.11.1 Jerusalem’s New Settlers|Jerusalem’s New Settlers]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AZRIKAM|AZRIKAM]]"
+- "[[topic BUNNI|BUNNI]]"
+- "[[topic HASHABIAH|HASHABIAH]]"
+- "[[topic HASHUB|HASHUB]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H8098E]]"
+- "[[H1121A]]"
+- "[[H2815G]]"
+- "[[H5840I]]"
+- "[[H2811H]]"
+- "[[H1138I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 11:15**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also of the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;
 <small><sub>**BSB:**</sub></small>
 From the Levites: Shemaiah son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni;
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִֽן]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H8098E\|שְׁמַעְיָ֧ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H2815G\|חַשּׁ֛וּב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5840I\|עַזְרִיקָ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2811H\|חֲשַׁבְיָ֖ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1138I\|בּוּנִּֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZRIKAM|AZRIKAM]] • [[topic BUNNI|BUNNI]] • [[topic HASHABIAH|HASHABIAH]] • [[topic HASHUB|HASHUB]] • [[topic SHEMAIAH|SHEMAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.14|<< Nehemiah 11:14]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.16|Nehemiah 11:16 >>]]</td></tr></table>
 

@@ -3,7 +3,7 @@
 
 → Description of
 
-- Great strength [[Job.39.19|Job 39:19]]-[[Job.39.25|25]]
+- Great strength [[Job.39.19|Job 39:19-25]]
 
 - Swifter than eagles [[Jer.4.13|Jer 4:13]]
 
@@ -49,5 +49,5 @@
 
 → Dedicated to religious uses [[2Kgs.23.11|2Ki 23:11]]
 
-→ SYMBOLICAL [[Zech.1.8|Zec 1:8]]; [[Rev.6.2|Re 6:2]]-[[Rev.6.8|8]]; [[Rev.9.17|9:17]]; [[Rev.19.11|19:11]]-[[Rev.19.21|21]]
+→ SYMBOLICAL [[Zech.1.8|Zec 1:8]]; [[Rev.6.2|Re 6:2-8]]; [[Rev.9.17|9:17]]; [[Rev.19.11|19:11-21]]
 

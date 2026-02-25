@@ -1,8 +1,63 @@
+---
+title: Psalm 31:23
+type: Verse
+kjv: "O love the LORD, all ye his saints: for the LORD preserveth the faithful, and plentifully rewardeth the proud doer."
+bsb: "Love the LORD, all His saints. The LORD preserves the faithful, but fully repays the arrogant."
+hebrew: "אֶֽהֱב֥וּ אֶת־ יְהוָ֗ה כָּֽל־ חֲסִ֫ידָ֥יו אֱ֭מוּנִים נֹצֵ֣ר יְהוָ֑ה וּמְשַׁלֵּ֥ם עַל־ יֶ֝֗תֶר עֹשֵׂ֥ה גַאֲוָֽה׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DUTY|DUTY]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H0157G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3605]]"
+- "[[H2623]]"
+- "[[H9023]]"
+- "[[H0529]]"
+- "[[H5341]]"
+- "[[H9002]]"
+- "[[H7999A]]"
+- "[[H5921A]]"
+- "[[H3499A]]"
+- "[[H6213A]]"
+- "[[H1346]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:23**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O love the LORD, all ye his saints: [for] the LORD preserveth the faithful, and plentifully rewardeth the proud doer.
 <small><sub>**BSB:**</sub></small>
 Love the LORD, all His saints. The LORD preserves the faithful, but fully repays the arrogant.
+<small><sub>**Hebrew:**</sub></small>
+[[H0157G\|אֶֽהֱב֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H3605\|כָּֽל]][[H9014\|־]] [[H2623\|חֲסִ֫ידָ֥י]][[H9023\|ו]] [[H0529\|אֱ֭מוּנִים]] [[H5341\|נֹצֵ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּ]][[H7999A\|מְשַׁלֵּ֥ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3499A\|יֶ֝֗תֶר]] [[H6213A\|עֹשֵׂ֥ה]] [[H1346\|גַאֲוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUTY|DUTY]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic LOVE|LOVE]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.31.22|<< Psalms 31:22]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.24|Psalms 31:24 >>]]</td></tr></table>
 

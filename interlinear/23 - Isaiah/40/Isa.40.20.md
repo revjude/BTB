@@ -1,8 +1,61 @@
+---
+title: Isaiah 40:20
+type: Verse
+kjv: "He that is so impoverished that he hath no oblation chooseth a tree that will not rot; he seeketh unto him a cunning workman to prepare a graven image, that shall not be moved."
+bsb: "One lacking such an offering chooses wood that will not rot. He seeks a skilled craftsman to set up an idol that will not topple."
+hebrew: "הַֽמְסֻכָּ֣ן תְּרוּמָ֔ה עֵ֥ץ לֹֽא־ יִרְקַ֖ב יִבְחָ֑ר חָרָ֤שׁ חָכָם֙ יְבַקֶּשׁ־ ל֔וֹ לְהָכִ֥ין פֶּ֖סֶל לֹ֥א יִמּֽוֹט׃"
+pericope: "[[Isa.40.9 Here Is Your God!|Here Is Your God!]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9009]]"
+- "[[H5533B]]"
+- "[[H8641]]"
+- "[[H6086G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7537]]"
+- "[[H0977]]"
+- "[[H2796]]"
+- "[[H2450]]"
+- "[[H1245]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3559H]]"
+- "[[H6459]]"
+- "[[H4131]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:20**<big><big>[[Isa.40.9 Here Is Your God!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that [is] so impoverished that he hath no oblation chooseth a tree [that] will not rot; he seeketh unto him a cunning workman to prepare a graven image, [that] shall not be moved.
 <small><sub>**BSB:**</sub></small>
 One lacking such an offering chooses wood that will not rot. He seeks a skilled craftsman to set up an idol that will not topple.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַֽ]][[H5533B\|מְסֻכָּ֣ן]] [[H8641\|תְּרוּמָ֔ה]] [[H6086G\|עֵ֥ץ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7537\|יִרְקַ֖ב]] [[H0977\|יִבְחָ֑ר]] [[H2796\|חָרָ֤שׁ]] [[H2450\|חָכָם֙]] [[H1245\|יְבַקֶּשׁ]][[H9014\|־]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9005\|לְ]][[H3559H\|הָכִ֥ין]] [[H6459\|פֶּ֖סֶל]] [[H3808\|לֹ֥א]] [[H4131\|יִמּֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.19|<< Isaiah 40:19]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.21|Isaiah 40:21 >>]]</td></tr></table>
 

@@ -1,8 +1,85 @@
+---
+title: Deuteronomy 28:68
+type: Verse
+kjv: "And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy you."
+bsb: "The LORD will return you to Egypt in ships by a route that I said you should never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”"
+hebrew: "וֶֽהֱשִֽׁיבְךָ֨ יְהוָ֥ה׀ מִצְרַיִם֮ בָּאֳנִיּוֹת֒ בַּדֶּ֙רֶךְ֙ אֲשֶׁ֣ר אָמַ֣רְתִּֽי לְךָ֔ לֹא־ תֹסִ֥יף ע֖וֹד לִרְאֹתָ֑הּ וְהִתְמַכַּרְתֶּ֨ם שָׁ֧ם לְאֹיְבֶ֛יךָ לַעֲבָדִ֥ים וְלִשְׁפָח֖וֹת וְאֵ֥ין קֹנֶֽה׃ ס"
+pericope: "[[Deut.28.15 The Curses of Disobedience|The Curses of Disobedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 28
+book/chapter: "[[Deut.28|Deuteronomy 28]]"
+chronological_order: 224
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9015]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H0591]]"
+- "[[H1870L]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H5750]]"
+- "[[H7200G]]"
+- "[[H9034]]"
+- "[[H4376]]"
+- "[[H8033G]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H5650]]"
+- "[[H9002]]"
+- "[[H8198]]"
+- "[[H0369]]"
+- "[[H7069]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 28:68**<big><big>[[Deut.28.15 The Curses of Disobedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD shall bring thee into Egypt again with ships, by the way whereof I spake unto thee, Thou shalt see it no more again: and there ye shall be sold unto your enemies for bondmen and bondwomen, and no man shall buy [you].
 <small><sub>**BSB:**</sub></small>
 The LORD will return you to Egypt in ships by a route that I said you should never see again. There you will sell yourselves to your enemies as male and female slaves, but no one will buy you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וֶֽ]][[H7725G\|הֱשִֽׁיבְ]][[H9031\|ךָ֨]] [[H3068G\|יְהוָ֥ה]][[H9015\|׀]] [[H4714G\|מִצְרַיִם֮]] [[H9003\|בָּ]][[H0591\|אֳנִיּוֹת֒]] [[H9003\|בַּ]][[H1870L\|דֶּ֙רֶךְ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָמַ֣רְתִּֽי]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H3808\|לֹא]][[H9014\|־]] [[H3254G\|תֹסִ֥יף]] [[H5750\|ע֖וֹד]] [[H9005\|לִ]][[H7200G\|רְאֹתָ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H4376\|הִתְמַכַּרְתֶּ֨ם]] [[H8033G\|שָׁ֧ם]] [[H9005\|לְ]][[H0341\|אֹיְבֶ֛י]][[H9021\|ךָ]] [[H9005\|לַ]][[H5650\|עֲבָדִ֥ים]] [[H9002\|וְ]][[H9005\|לִ]][[H8198\|שְׁפָח֖וֹת]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H7069\|קֹנֶֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic SERVANT|SERVANT]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.28.68|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.67|<< Deuteronomy 28:67]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.1|Deuteronomy 29:1 >>]]</td></tr></table>
 
@@ -26,7 +103,7 @@ The LORD will return you to Egypt in ships by a route that I said you should nev
 | to [male] slaves  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H5650\|עֲבָדִ֥ים]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.va.Dim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and to female slaves  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H8198\|שְׁפָח֖וֹת]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> li<small><sup>[[HR]]</sup></small> sh.fa.Chot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and there not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [will be] a buyer  |**<big>&#8207;[[H7069\|קֹנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ko.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [will be] a buyer  |**<big>&#8207;[[H7069\|קֹנֶֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ko.Neh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.28.67|<< Deuteronomy 28:67]]</td><td align="center" style="border:none;">[[Deut.28|Deuteronomy 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.1|Deuteronomy 29:1 >>]]</td></tr></table>
 
 

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Meaningless Idols
+type: Pericope
 pericope: "[[Isa.41.21 Meaningless Idols|Meaningless Idols]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 41
 book/chapter: "[[Isa.41|Isaiah 41]]"
-genre:
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 9
 verses:
 - "[[Isa.41.21]]"
 - "[[Isa.41.22]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Isa.41.29]]"
 ---
 
-[[Isa.41|Isaiah 41:21 - Isaiah 41:29]]
+<small>[[Isa.41|Isaiah 41:21-29]]</small>
 *Meaningless Idols*
 
 [[Isa.41.21|21]] Produce your cause, saith the LORD; bring forth your strong \[reasons\], saith the King of Jacob.

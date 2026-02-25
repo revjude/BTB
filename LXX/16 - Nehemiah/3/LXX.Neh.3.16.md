@@ -1,6 +1,67 @@
+---
+title: LXX Nehemiah 3:16
+type: Verse
+lxx: "After him Nehemiah repaired, son of Azabuk, ruler of half the place round about Beth-zur, unto the garden of the burying-place of David, and unto the pool  being built by man, and unto the house of the mighty ones."
+greek: "οπίσω αυτού εκράτησε Νεεμίας υιός Εζβούχ άρχων ημίσους περιχώρου Βηθσούρ έως κήπου τάφου Δαυίδ και έως της κολυμβήθρας της γεγονυίας και έως οίκου των δυνατών"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 3
+book/chapter: "[[Neh.3|Nehemiah 3]]"
+chronological_order: 915
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AZBUK|AZBUK]]"
+- "[[topic BETH-ZUR|BETH-ZUR]]"
+- "[[topic GIHON|GIHON]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic NEHEMIAH|NEHEMIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[G3694]]"
+- "[[G1473]]"
+- "[[G2902]]"
+- "[[H5166]]"
+- "[[G5207]]"
+- "[[H5802]]"
+- "[[G0758]]"
+- "[[G2255]]"
+- "[[G4066]]"
+- "[[H1049]]"
+- "[[G2193]]"
+- "[[G2779]]"
+- "[[G5028]]"
+- "[[G4622]]"
+- "[[G2532]]"
+- "[[G2193]]"
+- "[[G3588]]"
+- "[[G2861]]"
+- "[[G3588]]"
+- "[[G1096]]"
+- "[[G2532]]"
+- "[[G2193]]"
+- "[[G3624]]"
+- "[[G3588]]"
+- "[[G1415]]"
+---
+
 **LXX Nehemiah 3:16** 
 <small><sub>**LXX:**</sub></small>
 After him Nehemiah repaired, son of Azabuk, ruler of half \[the\] place round about Beth-zur, unto \[the\] garden of \[the\] burying-place of David, and unto the pool  being \[built by man\], and unto \[the\] house of the mighty ones. 
+<small><sub>**Greek:**</sub></small>
+[[G3694\|οπίσω]] [[G1473\|αυτού]] [[G2902\|εκράτησε]] [[H5166\|Νεεμίας]] [[G5207\|υιός]] [[H5802\|Εζβούχ]] [[G0758\|άρχων]] [[G2255\|ημίσους]] [[G4066\|περιχώρου]] [[H1049\|Βηθσούρ]] [[G2193\|έως]] [[G2779\|κήπου]] [[G5028\|τάφου]] [[G4622\|Δαυίδ]] [[G2532\|και]] [[G2193\|έως]] [[G3588\|της]] [[G2861\|κολυμβήθρας]] [[G3588\|της]] [[G1096\|γεγονυίας]] [[G2532\|και]] [[G2193\|έως]] [[G3624\|οίκου]] [[G3588\|των]] [[G1415\|δυνατών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AZBUK|AZBUK]] • [[topic BETH-ZUR|BETH-ZUR]] • [[topic GIHON|GIHON]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic NEHEMIAH|NEHEMIAH]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.15|<< Nehemiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.17|Nehemiah 3:17 >>]]</td></tr></table>
 
@@ -30,6 +91,6 @@ After him Nehemiah repaired, son of Azabuk, ruler of half \[the\] place round ab
 | \[the\] house | **<big>[[G3624\|οίκου]]</big>** |
 | of the | **<big>[[G3588\|των]]</big>** |
 | mighty ones. | **<big>[[G1415\|δυνατών]]</big>** |
-[[Neh.3.16|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.15|<< Nehemiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.17|Nehemiah 3:17 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.3.15|<< Nehemiah 3:15]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.3.17|Nehemiah 3:17 >>]]</td></tr></table>
 
 

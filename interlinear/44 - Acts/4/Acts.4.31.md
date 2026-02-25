@@ -1,10 +1,63 @@
+---
+title: Acts 4:31
+type: Verse
+kjv: "And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness."
+bsb: "After they had prayed, their meeting place was shaken, and they were all filled with the Holy Spirit and spoke the word of God boldly."
+greek: "καὶ δεηθέντων αὐτῶν ἐσαλεύθη ὁ τόπος ἐν ᾧ ἦσαν συνηγμένοι, καὶ ἐπλήσθησαν ἅπαντες τοῦ ἁγίου πνεύματος καὶ ἐλάλουν τὸν λόγον τοῦ θεοῦ μετὰ παρρησίας.¶"
+pericope: "[[Acts.4.23 The Believers’ Prayer|The Believers’ Prayer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1189]]"
+- "[[G0846]]"
+- "[[G4531]]"
+- "[[G3588]]"
+- "[[G5117]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G4863]]"
+- "[[G4130]]"
+- "[[G0537]]"
+- "[[G0040G]]"
+- "[[G4151G]]"
+- "[[G2980]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G3326]]"
+- "[[G3954]]"
+texts:
+- NKO
+- no
+---
+
 **Acts 4:31**<big><big>[[Acts.4.23 The Believers’ Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness.
 <small><sub>**BSB:**</sub></small>
 After they had prayed, their meeting place was shaken, and they were all filled with the Holy Spirit and spoke the word of God boldly.
-<small><sub>**Literal:**</sub></small>
-And when were praying they was shaken the place in which they were assembled, and they were filled all with the Holy Spirit and were speaking the word <the> of God with boldness.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.30|<< Acts 4:30]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.32|Acts 4:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1189\|δεηθέντων]]  [[G0846\|αὐτῶν]]  [[G4531\|ἐσαλεύθη]]  [[G3588\|ὁ]]  [[G5117\|τόπος]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G1510\|ἦσαν]]  [[G4863\|συνηγμένοι,]]  [[G2532\|καὶ]]  [[G4130\|ἐπλήσθησαν]]  [[G0537\|ἅπαντες]]  [[G3588\|τοῦ]]  [[G0040G\|ἁγίου]]  [[G4151G\|πνεύματος]]  [[G2532\|καὶ]]  [[G2980\|ἐλάλουν]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3326\|μετὰ]]  [[G3954\|παρρησίας.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRAYER|PRAYER]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.30|<< Acts 4:30]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.32|Acts 4:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,66 @@
+---
+title: Romans 14:4
+type: Verse
+kjv: "Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand."
+bsb: "Who are you to judge someone else’s servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand."
+greek: "σὺ τίς εἶ ὁ κρίνων ἀλλότριον οἰκέτην; τῷ ἰδίῳ κυρίῳ στήκει ἢ πίπτει. σταθήσεται δέ, δυνατεῖ γὰρ ἐστιν ὁ κύριος στῆσαι αὐτόν."
+pericope: "[[Rom.14.1 The Law of Liberty|The Law of Liberty]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 14
+book/chapter: "[[Rom.14|Romans 14]]"
+chronological_order: 1100
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic EVIL|EVIL]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2919]]"
+- "[[G0245]]"
+- "[[G3610]]"
+- "[[G2398]]"
+- "[[G2962H]]"
+- "[[G4739]]"
+- "[[G2228]]"
+- "[[G4098]]"
+- "[[G2476]]"
+- "[[G1161]]"
+- "[[G1414]]"
+- "[[G1063]]"
+- "[[G2962G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Romans 14:4**<big><big>[[Rom.14.1 The Law of Liberty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who art thou that judgest another man’s servant? to his own master he standeth or falleth. Yea, he shall be holden up: for God is able to make him stand.
 <small><sub>**BSB:**</sub></small>
 Who are you to judge someone else’s servant? To his own master he stands or falls. And he will stand, for the Lord is able to make him stand.
-<small><sub>**Literal:**</sub></small>
-You yourself who are who is judging another’s servant? To the own master he stands or falls. He will be upheld however, able is for is the Lord to uphold him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.3|<< Romans 14:3]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.5|Romans 14:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|σὺ]]  [[G5101\|τίς]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G2919\|κρίνων]]  [[G0245\|ἀλλότριον]]  [[G3610\|οἰκέτην;]]  [[G3588\|τῷ]]  [[G2398\|ἰδίῳ]]  [[G2962H\|κυρίῳ]]  [[G4739\|στήκει]]  [[G2228\|ἢ]]  [[G4098\|πίπτει.]]  [[G2476\|σταθήσεται]]  [[G1161\|δέ,]]  [[G1414\|δυνατεῖ]]  [[G1063\|γὰρ]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G2476\|στῆσαι]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHARITABLENESS|CHARITABLENESS]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic EVIL|EVIL]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.14.3|<< Romans 14:3]]</td><td align="center" style="border:none;">[[Rom.14|Romans 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.14.5|Romans 14:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

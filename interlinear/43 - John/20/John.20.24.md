@@ -1,10 +1,56 @@
+---
+title: John 20:24
+type: Verse
+kjv: "But Thomas, one of the twelve, called Didymus, was not with them when Jesus came."
+bsb: "Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came."
+greek: "Θωμᾶς δὲ εἷς ἐκ τῶν δώδεκα ὁ λεγόμενος Δίδυμος οὐκ ἦν μετ᾽ αὐτῶν ὅτε ἦλθεν ὁ Ἰησοῦς."
+pericope: "[[John.20.24 Jesus Appears to Thomas|Jesus Appears to Thomas]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic THOMAS|THOMAS]]"
+strongs:
+- "[[G2381]]"
+- "[[G1161]]"
+- "[[G1520]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G1427]]"
+- "[[G3004H]]"
+- "[[G1324]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G3326]]"
+- "[[G0846]]"
+- "[[G3753]]"
+- "[[G2064]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- k
+---
+
 **John 20:24**<big><big>[[John.20.24 Jesus Appears to Thomas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Thomas, one of the twelve, called Didymus, was not with them when Jesus came.
 <small><sub>**BSB:**</sub></small>
 Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came.
-<small><sub>**Literal:**</sub></small>
-Thomas however one of the Twelve who is being named Didymus not was with them when came <the> Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.23|<< John 20:23]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.25|John 20:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2381\|Θωμᾶς]]  [[G1161\|δὲ]]  [[G1520\|εἷς]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1427\|δώδεκα]]  [[G3588\|ὁ]]  [[G3004H\|λεγόμενος]]  [[G1324\|Δίδυμος]]  [[G3756\|οὐκ]]  [[G1510\|ἦν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G3753\|ὅτε]]  [[G2064\|ἦλθεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THOMAS|THOMAS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.23|<< John 20:23]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.25|John 20:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

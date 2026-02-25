@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Light for the Gentiles
+type: Pericope
 pericope: "[[Acts.13.42 A Light for the Gentiles|A Light for the Gentiles]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Acts
 chapter: 13
 book/chapter: "[[Acts.13|Acts 13]]"
-genre:
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 11
 verses:
 - "[[Acts.13.42]]"
 - "[[Acts.13.43]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Acts.13.52]]"
 ---
 
-[[Acts.13|Acts 13:42 - Acts 13:52]]
+<small>[[Acts.13|Acts 13:42-52]]</small>
 *A Light for the Gentiles*
 
 [[Acts.13.42|42]] And when the Jews were gone out of the synagogue, the Gentiles besought that these words might be preached to them the next sabbath.

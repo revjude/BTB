@@ -1,8 +1,57 @@
+---
+title: Psalm 118:24
+type: Verse
+kjv: "This is the day which the LORD hath made; we will rejoice and be glad in it."
+bsb: "This is the day that the LORD has made; we will rejoice and be glad in it."
+hebrew: "זֶה־ הַ֭יּוֹם עָשָׂ֣ה יְהוָ֑ה נָגִ֖ילָה וְנִשְׂמְחָ֣ה בֽוֹ׃"
+pericope: "[[Ps.118.1 The LORD Is on My Side|The LORD Is on My Side]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H2088]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H6213H]]"
+- "[[H3068G]]"
+- "[[H1523]]"
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 118:24**<big><big>[[Ps.118.1 The LORD Is on My Side|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the day [which] the LORD hath made; we will rejoice and be glad in it.
 <small><sub>**BSB:**</sub></small>
 This is the day that the LORD has made; we will rejoice and be glad in it.
+<small><sub>**Hebrew:**</sub></small>
+[[H2088\|זֶה]][[H9014\|־]] [[H9009\|הַ֭]][[H3117G\|יּוֹם]] [[H6213H\|עָשָׂ֣ה]] [[H3068G\|יְהוָ֑ה]] [[H1523\|נָגִ֖ילָה]] [[H9002\|וְ]][[H8055\|נִשְׂמְחָ֣ה]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.118.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.118.23|<< Psalms 118:23]]</td><td align="center" style="border:none;">[[Ps.118|Psalms 118]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.118.25|Psalms 118:25 >>]]</td></tr></table>
 

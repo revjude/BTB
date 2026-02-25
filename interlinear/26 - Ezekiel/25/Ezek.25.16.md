@@ -1,8 +1,70 @@
+---
+title: Ezekiel 25:16
+type: Verse
+kjv: "Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast."
+bsb: "therefore this is what the Lord GOD says: Behold, I will stretch out My hand against the Philistines, and I will cut off the Cherethites and destroy the remnant along the coast."
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הִנְנִ֨י נוֹטֶ֤ה יָדִי֙ עַל־ פְּלִשְׁתִּ֔ים וְהִכְרַתִּ֖י אֶת־ כְּרֵתִ֑ים וְהַ֣אֲבַדְתִּ֔י אֶת־ שְׁאֵרִ֖ית ח֥וֹף הַיָּֽם׃"
+pericope: "[[Ezek.25.15 A Prophecy against the Philistines|A Prophecy against the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 25
+book/chapter: "[[Ezek.25|Ezekiel 25]]"
+chronological_order: 816
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic CHERETHITES|CHERETHITES]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic REVENGE|REVENGE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5186]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6430G]]"
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H3774G]]"
+- "[[H0006]]"
+- "[[H7611]]"
+- "[[H2348]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 25:16**<big><big>[[Ezek.25.15 A Prophecy against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.
 <small><sub>**BSB:**</sub></small>
 therefore this is what the Lord GOD says: Behold, I will stretch out My hand against the Philistines, and I will cut off the Cherethites and destroy the remnant along the coast.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H5186\|נוֹטֶ֤ה]] [[H3027H\|יָדִ]][[H9020\|י֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H9001\|וְ]][[H3772I\|הִכְרַתִּ֖י]] [[H0853\|אֶת]][[H9014\|־]] [[H3774G\|כְּרֵתִ֑ים]] [[H9001\|וְ]][[H0006\|הַ֣אֲבַדְתִּ֔י]] [[H0853\|אֶת]][[H9014\|־]] [[H7611\|שְׁאֵרִ֖ית]] [[H2348\|ח֥וֹף]] [[H9009\|הַ]][[H3220G\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic CHERETHITES|CHERETHITES]] • [[topic PHILISTINES|PHILISTINES]] • [[topic REVENGE|REVENGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.25.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.25.15|<< Ezekiel 25:15]]</td><td align="center" style="border:none;">[[Ezek.25|Ezekiel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.25.17|Ezekiel 25:17 >>]]</td></tr></table>
 

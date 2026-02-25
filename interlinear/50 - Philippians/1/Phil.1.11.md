@@ -1,10 +1,60 @@
+---
+title: Philippians 1:11
+type: Verse
+kjv: "Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God."
+bsb: "filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God."
+greek: "πεπληρωμένοι καρπὸν δικαιοσύνης τὸν διὰ Ἰησοῦ Χριστοῦ εἰς δόξαν καὶ ἔπαινον θεοῦ.¶"
+pericope: "[[Phil.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 1
+book/chapter: "[[Phil.1|Philippians 1]]"
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SINLESSNESS|SINLESSNESS]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4137]]"
+- "[[G2590]]"
+- "[[G1343]]"
+- "[[G3588]]"
+- "[[G1223]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1519]]"
+- "[[G1391]]"
+- "[[G2532]]"
+- "[[G1868]]"
+- "[[G2316]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Philippians 1:11**<big><big>[[Phil.1.3 Thanksgiving and Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.
 <small><sub>**BSB:**</sub></small>
 filled with the fruit of righteousness that comes through Jesus Christ, to the glory and praise of God.
-<small><sub>**Literal:**</sub></small>
-filled with [the] fruit of righteousness that [is] through Jesus Christ to [the] glory and praise of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.10|<< Philippians 1:10]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.12|Philippians 1:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4137\|πεπληρωμένοι]]  [[G2590\|καρπὸν]]  [[G1343\|δικαιοσύνης]]  [[G3588\|τὸν]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1519\|εἰς]]  [[G1391\|δόξαν]]  [[G2532\|καὶ]]  [[G1868\|ἔπαινον]]  [[G2316\|θεοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic HOLINESS|HOLINESS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SINLESSNESS|SINLESSNESS]] • [[topic TACT|TACT]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.1.10|<< Philippians 1:10]]</td><td align="center" style="border:none;">[[Phil.1|Philippians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.1.12|Philippians 1:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

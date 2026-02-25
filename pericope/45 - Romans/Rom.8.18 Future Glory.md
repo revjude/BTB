@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Future Glory
+type: Pericope
 pericope: "[[Rom.8.18 Future Glory|Future Glory]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Romans
 chapter: 8
 book/chapter: "[[Rom.8|Romans 8]]"
-genre:
+chronological_order: 1094
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 10
 verses:
 - "[[Rom.8.18]]"
 - "[[Rom.8.19]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Rom.8.27]]"
 ---
 
-[[Rom.8|Romans 8:18 - Romans 8:27]]
+<small>[[Rom.8|Romans 8:18-27]]</small>
 *Future Glory*
 
 [[Rom.8.18|18]] For I reckon that the sufferings of this present time \[are\] not worthy \[to be compared\] with the glory which shall be revealed in us.

@@ -1,8 +1,51 @@
+---
+title: Ecclesiastes 7:4
+type: Verse
+kjv: "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth."
+bsb: "The heart of the wise is in the house of mourning, but the heart of fools is in the house of pleasure."
+hebrew: "לֵ֤ב חֲכָמִים֙ בְּבֵ֣ית אֵ֔בֶל וְלֵ֥ב כְּסִילִ֖ים בְּבֵ֥ית שִׂמְחָֽה׃"
+pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+strongs:
+- "[[H3820A]]"
+- "[[H2450]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0060]]"
+- "[[H9002]]"
+- "[[H3684]]"
+- "[[H8057]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:4**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The heart of the wise [is] in the house of mourning; but the heart of fools [is] in the house of mirth.
 <small><sub>**BSB:**</sub></small>
 The heart of the wise is in the house of mourning, but the heart of fools is in the house of pleasure.
+<small><sub>**Hebrew:**</sub></small>
+[[H3820A\|לֵ֤ב]] [[H2450\|חֲכָמִים֙]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H0060\|אֵ֔בֶל]] [[H9002\|וְ]][[H3820A\|לֵ֥ב]] [[H3684\|כְּסִילִ֖ים]] [[H9003\|בְּ]][[H1004B\|בֵ֥ית]] [[H8057\|שִׂמְחָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic BEREAVEMENT|BEREAVEMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.3|<< Ecclesiastes 7:3]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.5|Ecclesiastes 7:5 >>]]</td></tr></table>
 

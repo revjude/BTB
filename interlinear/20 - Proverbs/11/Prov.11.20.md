@@ -1,8 +1,55 @@
+---
+title: Proverbs 11:20
+type: Verse
+kjv: "They that are of a froward heart are abomination to the LORD: but such as are upright in their way are his delight."
+bsb: "The perverse in heart are an abomination to the LORD, but the blameless in their walk are His delight."
+hebrew: "תּוֹעֲבַ֣ת יְ֭הוָה עִקְּשֵׁי־ לֵ֑ב וּ֝רְצוֹנ֗וֹ תְּמִ֣ימֵי דָֽרֶךְ׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8441]]"
+- "[[H3068G]]"
+- "[[H6141]]"
+- "[[H9014]]"
+- "[[H3820A]]"
+- "[[H9002]]"
+- "[[H7522]]"
+- "[[H9023]]"
+- "[[H8549H]]"
+- "[[H1870G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:20**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that are of a froward heart [are] abomination to the LORD: but [such as are] upright in [their] way [are] his delight.
 <small><sub>**BSB:**</sub></small>
 The perverse in heart are an abomination to the LORD, but the blameless in their walk are His delight.
+<small><sub>**Hebrew:**</sub></small>
+[[H8441\|תּוֹעֲבַ֣ת]] [[H3068G\|יְ֭הוָה]] [[H6141\|עִקְּשֵׁי]][[H9014\|־]] [[H3820A\|לֵ֑ב]] [[H9002\|וּ֝]][[H7522\|רְצוֹנ֗]][[H9023\|וֹ]] [[H8549H\|תְּמִ֣ימֵי]] [[H1870G\|דָֽרֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.19|<< Proverbs 11:19]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.21|Proverbs 11:21 >>]]</td></tr></table>
 

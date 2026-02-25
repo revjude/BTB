@@ -1,8 +1,56 @@
+---
+title: Ezekiel 22:24
+type: Verse
+kjv: "Son of man, say unto her, Thou art the land that is not cleansed, nor rained upon in the day of indignation."
+bsb: "“Son of man, say to her, ‘In the day of indignation, you are a land that has not been cleansed, upon which no rain has fallen.’"
+hebrew: "בֶּן־ אָדָ֕ם אֱמָר־ לָ֕הּ אַ֣תְּ אֶ֔רֶץ לֹ֥א מְטֹהָרָ֖ה הִ֑יא לֹ֥א גֻשְׁמָ֖הּ בְּי֥וֹם זָֽעַם׃"
+pericope: "[[Ezek.22.23 Israel’s Wicked Leaders|Israel’s Wicked Leaders]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H0859C]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H2891]]"
+- "[[H1931]]"
+- "[[H1656]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H2195]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:24**<big><big>[[Ezek.22.23 Israel’s Wicked Leaders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, say unto her, Thou [art] the land that is not cleansed, nor rained upon in the day of indignation.
 <small><sub>**BSB:**</sub></small>
 “Son of man, say to her, ‘In the day of indignation, you are a land that has not been cleansed, upon which no rain has fallen.’
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H0559\|אֱמָר]][[H9014\|־]] [[H9005\|לָ֕]][[H9034\|הּ]] [[H0859C\|אַ֣תְּ]] [[H0776G\|אֶ֔רֶץ]] [[H3808\|לֹ֥א]] [[H2891\|מְטֹהָרָ֖ה]] [[H1931\|הִ֑יא]] [[H3808\|לֹ֥א]] [[H1656\|גֻשְׁמָ֖]][[H9024\|הּ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H2195\|זָֽעַם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.23|<< Ezekiel 22:23]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.25|Ezekiel 22:25 >>]]</td></tr></table>
 

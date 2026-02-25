@@ -1,10 +1,62 @@
+---
+title: 1 Peter 3:6
+type: Verse
+kjv: "Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement."
+bsb: "just as Sarah obeyed Abraham and called him lord. And you are her children if you do what is right and refuse to give way to fear."
+greek: "ὡς Σάρρα ὑπήκουσεν τῷ Ἀβραὰμ κύριον αὐτὸν καλοῦσα, ἧς ἐγενήθητε τέκνα ἀγαθοποιοῦσαι καὶ μὴ φοβούμεναι μηδεμίαν πτόησιν.¶"
+pericope: "[[1Pet.3.1 Wives and Husbands|Wives and Husbands]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G5613]]"
+- "[[G4564]]"
+- "[[G5219]]"
+- "[[G3588]]"
+- "[[G0011]]"
+- "[[G2962H]]"
+- "[[G0846]]"
+- "[[G2564G]]"
+- "[[G3739]]"
+- "[[G1096]]"
+- "[[G5043]]"
+- "[[G0015]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G3367]]"
+- "[[G4423]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Peter 3:6**<big><big>[[1Pet.3.1 Wives and Husbands|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement.
 <small><sub>**BSB:**</sub></small>
 just as Sarah obeyed Abraham and called him lord. And you are her children if you do what is right and refuse to give way to fear.
-<small><sub>**Literal:**</sub></small>
-as Sarah obeyed <the> Abraham lord him calling, of whom you have become children doing good and not fearing not one consternation.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.5|<< 1 Peter 3:5]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.7|1 Peter 3:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ὡς]]  [[G4564\|Σάρρα]]  [[G5219\|ὑπήκουσεν]]  [[G3588\|τῷ]]  [[G0011\|Ἀβραὰμ]]  [[G2962H\|κύριον]]  [[G0846\|αὐτὸν]]  [[G2564G\|καλοῦσα,]]  [[G3739\|ἧς]]  [[G1096\|ἐγενήθητε]]  [[G5043\|τέκνα]]  [[G0015\|ἀγαθοποιοῦσαι]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G5399\|φοβούμεναι]]  [[G3367\|μηδεμίαν]]  [[G4423\|πτόησιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic FAMILY|FAMILY]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SARAH|SARAH]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.5|<< 1 Peter 3:5]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.7|1 Peter 3:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Peter 3:6** is...
 > $\quad$ alluding to: [[LXX.Gen.18.12|Gen 18:12]]

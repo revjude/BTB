@@ -1,8 +1,71 @@
+---
+title: Jeremiah 44:30
+type: Verse
+kjv: "Thus saith the LORD; Behold, I will give Pharaohhophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life."
+bsb: "This is what the LORD says: Behold, I will deliver Pharaoh Hophra king of Egypt into the hands of his enemies who seek his life, just as I delivered Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, the enemy who was seeking his life.”"
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה הִנְנִ֣י נֹ֠תֵן אֶת־ פַּרְעֹ֨ה חָפְרַ֤ע מֶֽלֶךְ־ מִצְרַ֙יִם֙ בְּיַ֣ד אֹֽיְבָ֔יו וּבְיַ֖ד מְבַקְשֵׁ֣י נַפְשׁ֑וֹ כַּאֲשֶׁ֨ר נָתַ֜תִּי אֶת־ צִדְקִיָּ֣הוּ מֶֽלֶךְ־ יְהוּדָ֗ה בְּיַ֨ד נְבוּכַדְרֶאצַּ֧ר מֶֽלֶךְ־ בָּבֶ֛ל אֹיְב֖וֹ וּמְבַקֵּ֥שׁ נַפְשֽׁוֹ׃ ס"
+pericope: "[[Jer.44.20 Calamity for the Jews|Calamity for the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6547S]]"
+- "[[H6548]]"
+- "[[H4428G]]"
+- "[[H4714G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1245]]"
+- "[[H5315H]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6667H]]"
+- "[[H3063G]]"
+- "[[H5019]]"
+- "[[H0894]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 44:30**<big><big>[[Jer.44.20 Calamity for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD; Behold, I will give Pharaohhophra king of Egypt into the hand of his enemies, and into the hand of them that seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadrezzar king of Babylon, his enemy, and that sought his life.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: Behold, I will deliver Pharaoh Hophra king of Egypt into the hands of his enemies who seek his life, just as I delivered Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, the enemy who was seeking his life.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H2005\|הִנְ]][[H9040\|נִ֣י]] [[H5414G\|נֹ֠תֵן]] [[H0853\|אֶת]][[H9014\|־]] [[H6547S\|פַּרְעֹ֨ה]] [[H6548\|חָפְרַ֤ע]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H4714G\|מִצְרַ֙יִם֙]] [[H9003\|בְּ]][[H3027H\|יַ֣ד]] [[H0341\|אֹֽיְבָ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יַ֖ד]] [[H1245\|מְבַקְשֵׁ֣י]] [[H5315H\|נַפְשׁ֑]][[H9023\|וֹ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H5414G\|נָתַ֜תִּי]] [[H0853\|אֶת]][[H9014\|־]] [[H6667H\|צִדְקִיָּ֣הוּ]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3063G\|יְהוּדָ֗ה]] [[H9003\|בְּ]][[H3027H\|יַ֨ד]] [[H5019\|נְבוּכַדְרֶאצַּ֧ר]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֛ל]] [[H0341\|אֹיְב֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H1245\|מְבַקֵּ֥שׁ]] [[H5315H\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.29|<< Jeremiah 44:29]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.45.1|Jeremiah 45:1 >>]]</td></tr></table>
 
@@ -35,7 +98,7 @@ This is what the LORD says: Behold, I will deliver Pharaoh Hophra king of Egypt 
 | Babylon  |**<big>&#8207;[[H0894\|בָּבֶ֛ל]]&#8207; </big>**| ba.Vel<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | enemy his  |**<big>&#8207;[[H0341\|אֹיְב֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| 'o.ye.V<small><sup>[[HVqrmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [one who] sought  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1245\|מְבַקֵּ֥שׁ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> me.va.Kesh<small><sup>[[HVprmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| life his  |**<big>&#8207;[[H5315H\|נַפְשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| life his  |**<big>&#8207;[[H5315H\|נַפְשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.29|<< Jeremiah 44:29]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.45.1|Jeremiah 45:1 >>]]</td></tr></table>
 
 

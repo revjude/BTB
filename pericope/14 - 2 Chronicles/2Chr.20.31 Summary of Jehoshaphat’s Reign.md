@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Summary of Jehoshaphat’s Reign
+type: Pericope
 pericope: "[[2Chr.20.31 Summary of Jehoshaphat’s Reign|Summary of Jehoshaphat’s Reign]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 20
 book/chapter: "[[2Chr.20|2 Chronicles 20]]"
-genre:
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.20.31]]"
 - "[[2Chr.20.32]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.20.34]]"
 ---
 
-[[2Chr.20|2 Chronicles 20:31 - 2 Chronicles 20:34]]
+<small>[[2Chr.20|2 Chronicles 20:31-34]]</small>
 *Summary of Jehoshaphat’s Reign*
 
 [[2Chr.20.31|31]] And Jehoshaphat reigned over Judah: \[he was\] thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother’s name \[was\] Azubah the daughter of Shilhi.

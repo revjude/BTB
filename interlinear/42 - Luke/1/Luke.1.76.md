@@ -1,10 +1,69 @@
+---
+title: Luke 1:76
+type: Verse
+kjv: "And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;"
+bsb: "And you, child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for Him,"
+greek: "Καὶ σὺ δέ, παιδίον, προφήτης ὑψίστου κληθήσῃ· προπορεύσῃ γὰρ ἐνώπιον προσώπου κυρίου ἑτοιμάσαι ὁδοὺς αὐτοῦ,"
+pericope: "[[Luke.1.67 Zechariah’s Song|Zechariah’s Song]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G3813]]"
+- "[[G4396]]"
+- "[[G5310]]"
+- "[[G2564G]]"
+- "[[G4313]]"
+- "[[G1063]]"
+- "[[G1799]]"
+- "[[G4383]]"
+- "[[G2962G]]"
+- "[[G2090]]"
+- "[[G3598]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- N(k)O
+- ko
+---
+
 **Luke 1:76**<big><big>[[Luke.1.67 Zechariah’s Song|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;
 <small><sub>**BSB:**</sub></small>
 And you, child, will be called a prophet of the Most High; for you will go on before the Lord to prepare the way for Him,
-<small><sub>**Literal:**</sub></small>
-And you yourself now, child, prophet of [the] Most High will be called; you will go for in front of [the] face of [the] Lord to prepare ways of Him,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.75|<< Luke 1:75]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.77|Luke 1:77 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4771\|σὺ]]  [[G1161\|δέ,]]  [[G3813\|παιδίον,]]  [[G4396\|προφήτης]]  [[G5310\|ὑψίστου]]  [[G2564G\|κληθήσῃ·]]  [[G4313\|προπορεύσῃ]]  [[G1063\|γὰρ]]  [[G1799\|ἐνώπιον]]  [[G4383\|προσώπου]]  [[G2962G\|κυρίου]]  [[G2090\|ἑτοιμάσαι]]  [[G3598\|ὁδοὺς]]  [[G0846\|αὐτοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic JOY|JOY]] • [[topic MIRACLES|MIRACLES]] • [[topic POETRY|POETRY]] • [[topic PSALMS|PSALMS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic WISDOM|WISDOM]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.75|<< Luke 1:75]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.77|Luke 1:77 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 1:76** is...
 > $\quad$ alluding to: [[LXX.Mal.3.1|Mal 3:1]]

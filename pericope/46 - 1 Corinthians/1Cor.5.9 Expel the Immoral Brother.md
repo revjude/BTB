@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Expel the Immoral Brother
+type: Pericope
 pericope: "[[1Cor.5.9 Expel the Immoral Brother|Expel the Immoral Brother]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 5
 book/chapter: "[[1Cor.5|1 Corinthians 5]]"
-genre:
+chronological_order: 1062
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 5
 verses:
 - "[[1Cor.5.9]]"
 - "[[1Cor.5.10]]"
@@ -22,7 +29,7 @@ verses:
 - "[[1Cor.5.13]]"
 ---
 
-[[1Cor.5|1 Corinthians 5:9 - 1 Corinthians 5:13]]
+<small>[[1Cor.5|1 Corinthians 5:9-13]]</small>
 *Expel the Immoral Brother*
 
 [[1Cor.5.9|9]] I wrote unto you in an epistle not to company with fornicators:

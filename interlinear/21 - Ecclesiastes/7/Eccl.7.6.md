@@ -1,8 +1,58 @@
+---
+title: Ecclesiastes 7:6
+type: Verse
+kjv: "For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity."
+bsb: "For like the crackling of thorns under the pot, so is the laughter of the fool. This too is futile."
+hebrew: "כִּ֣י כְק֤וֹל הַסִּירִים֙ תַּ֣חַת הַסִּ֔יר כֵּ֖ן שְׂחֹ֣ק הַכְּסִ֑יל וְגַם־ זֶ֖ה הָֽבֶל׃"
+pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic JOY|JOY]]"
+- "[[topic THORN|THORN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H6963H]]"
+- "[[H9009]]"
+- "[[H5518B]]"
+- "[[H8478G]]"
+- "[[H5518A]]"
+- "[[H3651C]]"
+- "[[H7814]]"
+- "[[H3684]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:6**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For as the crackling of thorns under a pot, so [is] the laughter of the fool: this also [is] vanity.
 <small><sub>**BSB:**</sub></small>
 For like the crackling of thorns under the pot, so is the laughter of the fool. This too is futile.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H9004\|כְ]][[H6963H\|ק֤וֹל]] [[H9009\|הַ]][[H5518B\|סִּירִים֙]] [[H8478G\|תַּ֣חַת]] [[H9009\|הַ]][[H5518A\|סִּ֔יר]] [[H3651C\|כֵּ֖ן]] [[H7814\|שְׂחֹ֣ק]] [[H9009\|הַ]][[H3684\|כְּסִ֑יל]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H1892\|הָֽבֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]] • [[topic JOY|JOY]] • [[topic THORN|THORN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.5|<< Ecclesiastes 7:5]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.7|Ecclesiastes 7:7 >>]]</td></tr></table>
 

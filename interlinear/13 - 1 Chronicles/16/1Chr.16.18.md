@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 16:18
+type: Verse
+kjv: "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;"
+bsb: "‘I will give you the land of Canaan as the portion of your inheritance.’"
+hebrew: "לֵאמֹ֗ר לְךָ֙ אֶתֵּ֣ן אֶֽרֶץ־ כְּנָ֔עַן חֶ֖בֶל נַחֲלַתְכֶֽם׃"
+pericope: "[[1Chr.16.7 David’s Psalms of Thanksgiving|David’s Psalms of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9031]]"
+- "[[H5414G]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H3667A]]"
+- "[[H2256M]]"
+- "[[H5159]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:18**<big><big>[[1Chr.16.7 David’s Psalms of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saying, Unto thee will I give the land of Canaan, the lot of your inheritance;
 <small><sub>**BSB:**</sub></small>
 ‘I will give you the land of Canaan as the portion of your inheritance.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H5414G\|אֶתֵּ֣ן]] [[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H3667A\|כְּנָ֔עַן]] [[H2256M\|חֶ֖בֶל]] [[H5159\|נַחֲלַתְ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAAC|ISAAC]] • [[topic JACOB|JACOB]] • [[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.17|<< 1 Chronicles 16:17]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.19|1 Chronicles 16:19 >>]]</td></tr></table>
 

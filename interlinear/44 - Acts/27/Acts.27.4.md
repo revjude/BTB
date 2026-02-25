@@ -1,10 +1,50 @@
+---
+title: Acts 27:4
+type: Verse
+kjv: "And when we had launched from thence, we sailed under Cyprus, because the winds were contrary."
+bsb: "After putting out from there, we sailed to the lee of Cyprus because the winds were against us."
+greek: "κἀκεῖθεν κἀκεῖθεν ἀναχθέντες ὑπεπλεύσαμεν τὴν Κύπρον διὰ τὸ τοὺς ἀνέμους εἶναι ἐναντίους,"
+pericope: "[[Acts.27.1 Paul Sails for Rome|Paul Sails for Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CYPRUS|CYPRUS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2532]]"
+- "[[G1564]]"
+- "[[G0321]]"
+- "[[G5284]]"
+- "[[G3588]]"
+- "[[G2954]]"
+- "[[G1223]]"
+- "[[G0417]]"
+- "[[G1511]]"
+- "[[G1727]]"
+texts:
+- NKO
+---
+
 **Acts 27:4**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when we had launched from thence, we sailed under Cyprus, because the winds were contrary.
 <small><sub>**BSB:**</sub></small>
 After putting out from there, we sailed to the lee of Cyprus because the winds were against us.
-<small><sub>**Literal:**</sub></small>
-And from there having set sail we sailed under <the> Cyprus because of <the> the winds being contrary,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.3|<< Acts 27:3]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.5|Acts 27:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἀκεῖθεν]]  <sup><small>[[G1564\| [ • ] ]]</small></sup>  [[G0321\|ἀναχθέντες]]  [[G5284\|ὑπεπλεύσαμεν]]  [[G3588\|τὴν]]  [[G2954\|Κύπρον]]  [[G1223\|διὰ]]  [[G3588\|τὸ]]  [[G3588\|τοὺς]]  [[G0417\|ἀνέμους]]  [[G1511\|εἶναι]]  [[G1727\|ἐναντίους,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CYPRUS|CYPRUS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.3|<< Acts 27:3]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.5|Acts 27:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

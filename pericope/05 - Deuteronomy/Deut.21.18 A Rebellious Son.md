@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Rebellious Son
+type: Pericope
 pericope: "[[Deut.21.18 A Rebellious Son|A Rebellious Son]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 21
 book/chapter: "[[Deut.21|Deuteronomy 21]]"
-genre:
+chronological_order: 217
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 4
 verses:
 - "[[Deut.21.18]]"
 - "[[Deut.21.19]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Deut.21.21]]"
 ---
 
-[[Deut.21|Deuteronomy 21:18 - Deuteronomy 21:21]]
+<small>[[Deut.21|Deuteronomy 21:18-21]]</small>
 *A Rebellious Son*
 
 [[Deut.21.18|18]] If a man have a stubborn and rebellious son, which will not obey the voice of his father, or the voice of his mother, and \[that\], when they have chastened him, will not hearken unto them:

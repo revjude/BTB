@@ -1,8 +1,75 @@
+---
+title: Exodus 1:10
+type: Verse
+kjv: "Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land."
+bsb: "Come, let us deal shrewdly with them, or they will increase even more; and if a war breaks out, they may join our enemies, fight against us, and leave the country.”"
+hebrew: "הָ֥בָה נִֽתְחַכְּמָ֖ה ל֑וֹ פֶּן־ יִרְבֶּ֗ה וְהָיָ֞ה כִּֽי־ תִקְרֶ֤אנָה מִלְחָמָה֙ וְנוֹסַ֤ף גַּם־ הוּא֙ עַל־ שֹׂ֣נְאֵ֔ינוּ וְנִלְחַם־ בָּ֖נוּ וְעָלָ֥ה מִן־ הָאָֽרֶץ׃"
+pericope: "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 1
+book/chapter: "[[Exod.1|Exodus 1]]"
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic USURPATION|USURPATION]]"
+strongs:
+- "[[H3051]]"
+- "[[H9012]]"
+- "[[H2449]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H7235A]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H7122I]]"
+- "[[H4421]]"
+- "[[H3254H]]"
+- "[[H1571]]"
+- "[[H1931]]"
+- "[[H5921A]]"
+- "[[H8130]]"
+- "[[H9035]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H5927G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 1:10**<big><big>[[Exod.1.8 Oppression by a New King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and [so] get them up out of the land.
 <small><sub>**BSB:**</sub></small>
 Come, let us deal shrewdly with them, or they will increase even more; and if a war breaks out, they may join our enemies, fight against us, and leave the country.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3051\|הָ֥בָ]][[H9012\|ה]] [[H2449\|נִֽתְחַכְּמָ֖ה]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H6435\|פֶּן]][[H9014\|־]] [[H7235A\|יִרְבֶּ֗ה]] [[H9001\|וְ]][[H1961\|הָיָ֞ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7122I\|תִקְרֶ֤אנָה]] [[H4421\|מִלְחָמָה֙]] [[H9001\|וְ]][[H3254H\|נוֹסַ֤ף]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|הוּא֙]] [[H5921A\|עַל]][[H9014\|־]] [[H8130\|שֹׂ֣נְאֵ֔י]][[H9035\|נוּ]] [[H9001\|וְ]][[H3898A\|נִלְחַם]][[H9014\|־]] [[H9003\|בָּ֖]][[H9035\|נוּ]] [[H9001\|וְ]][[H5927G\|עָלָ֥ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic OPPRESSION|OPPRESSION]] • [[topic SERVANT|SERVANT]] • [[topic USURPATION|USURPATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.1.9|<< Exodus 1:9]]</td><td align="center" style="border:none;">[[Exod.1|Exodus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.1.11|Exodus 1:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

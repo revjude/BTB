@@ -1,8 +1,73 @@
+---
+title: Deuteronomy 13:2
+type: Verse
+kjv: "And the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them;"
+bsb: "and if the sign or wonder he has spoken to you comes about, but he says, “Let us follow other gods (which you have not known) and let us worship them,”"
+hebrew: "וּבָ֤א הָאוֹת֙ וְהַמּוֹפֵ֔ת אֲשֶׁר־ דִּבֶּ֥ר אֵלֶ֖יךָ לֵאמֹ֑ר נֵֽלְכָ֞ה אַחֲרֵ֨י אֱלֹהִ֧ים אֲחֵרִ֛ים אֲשֶׁ֥ר לֹֽא־ יְדַעְתָּ֖ם וְנָֽעָבְדֵֽם׃"
+pericope: "[[Deut.13.1 Idolaters to Be Put to Death|Idolaters to Be Put to Death]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 13
+book/chapter: "[[Deut.13|Deuteronomy 13]]"
+chronological_order: 209
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H0226G]]"
+- "[[H9002]]"
+- "[[H4159]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9038]]"
+- "[[H5647H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 13:2**<big><big>[[Deut.13.1 Idolaters to Be Put to Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sign or the wonder come to pass, whereof he spake unto thee, saying, Let us go after other gods, which thou hast not known, and let us serve them;
 <small><sub>**BSB:**</sub></small>
 and if the sign or wonder he has spoken to you comes about, but he says, “Let us follow other gods (which you have not known) and let us worship them,”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H0935G\|בָ֤א]] [[H9009\|הָ]][[H0226G\|אוֹת֙]] [[H9002\|וְ]][[H9009\|הַ]][[H4159\|מּוֹפֵ֔ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֥ר]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1980N\|נֵֽלְכָ֞ה]] [[H0310A\|אַחֲרֵ֨י]] [[H0430\|אֱלֹהִ֧ים]] [[H0312\|אֲחֵרִ֛ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יְדַעְתָּ֖]][[H9038\|ם]] [[H9002\|וְ]][[H5647H\|נָֽעָבְדֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PROPHETS|PROPHETS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic TEACHERS|TEACHERS]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.13.1|<< Deuteronomy 13:1]]</td><td align="center" style="border:none;">[[Deut.13|Deuteronomy 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.13.3|Deuteronomy 13:3 >>]]</td></tr></table>
 

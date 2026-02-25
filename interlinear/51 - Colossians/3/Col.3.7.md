@@ -1,10 +1,51 @@
+---
+title: Colossians 3:7
+type: Verse
+kjv: "In the which ye also walked some time, when ye lived in them."
+bsb: "When you lived among them, you also used to walk in these ways."
+greek: "ἐν οἷς καὶ ὑμεῖς περιεπατήσατέ ποτε, ὅτε ἐζῆτε ἐν τούτοις.¶"
+pericope: "[[Col.3.1 Put On the New Self|Put On the New Self]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 3
+book/chapter: "[[Col.3|Colossians 3]]"
+chronological_order: 1123
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic HOLINESS|HOLINESS]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G4043]]"
+- "[[G4218]]"
+- "[[G3753]]"
+- "[[G2198]]"
+- "[[G3778]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Colossians 3:7**<big><big>[[Col.3.1 Put On the New Self|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 In the which ye also walked some time, when ye lived in them.
 <small><sub>**BSB:**</sub></small>
 When you lived among them, you also used to walk in these ways.
-<small><sub>**Literal:**</sub></small>
-in which also you yourselves walked once when you were living in them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.6|<< Colossians 3:6]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.8|Colossians 3:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|οἷς]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G4043\|περιεπατήσατέ]]  [[G4218\|ποτε,]]  [[G3753\|ὅτε]]  [[G2198\|ἐζῆτε]]  [[G1722\|ἐν]]  [[G3778\|τούτοις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic HOLINESS|HOLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.6|<< Colossians 3:6]]</td><td align="center" style="border:none;">[[Col.3|Colossians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.3.8|Colossians 3:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

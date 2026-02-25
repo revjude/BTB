@@ -1,8 +1,63 @@
+---
+title: 1 Kings 21:14
+type: Verse
+kjv: "Then they sent to Jezebel, saying, Naboth is stoned, and is dead."
+bsb: "Then they sent word to Jezebel: “Naboth has been stoned to death.”"
+hebrew: "וַֽיִּשְׁלְח֖וּ אֶל־ אִיזֶ֣בֶל לֵאמֹ֑ר סֻקַּ֥ל נָב֖וֹת וַיָּמֹֽת׃"
+pericope: "[[1Kgs.21.8 Jezebel’s Plot|Jezebel’s Plot]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CONFISCATION|CONFISCATION]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic KING|KING]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0348]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5619]]"
+- "[[H5022]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:14**<big><big>[[1Kgs.21.8 Jezebel’s Plot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then they sent to Jezebel, saying, Naboth is stoned, and is dead.
 <small><sub>**BSB:**</sub></small>
 Then they sent word to Jezebel: “Naboth has been stoned to death.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7971G\|יִּשְׁלְח֖וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H0348\|אִיזֶ֣בֶל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H5619\|סֻקַּ֥ל]] [[H5022\|נָב֖וֹת]] [[H9001\|וַ]][[H4191\|יָּמֹֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFISCATION|CONFISCATION]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEZEBEL|JEZEBEL]] • [[topic KING|KING]] • [[topic NABOTH|NABOTH]] • [[topic SLANDER|SLANDER]] • [[topic USURPATION|USURPATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.13|<< 1 Kings 21:13]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.15|1 Kings 21:15 >>]]</td></tr></table>
 

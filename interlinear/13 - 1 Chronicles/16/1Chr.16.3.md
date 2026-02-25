@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 16:3
+type: Verse
+kjv: "And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon of wine."
+bsb: "Then he distributed to every man and woman of Israel a loaf of bread, a date cake, and a raisin cake."
+hebrew: "וַיְחַלֵּק֙ לְכָל־ אִ֣ישׁ יִשְׂרָאֵ֔ל מֵאִ֖ישׁ וְעַד־ אִשָּׁ֑ה לְאִישׁ֙ כִּכַּר־ לֶ֔חֶם וְאֶשְׁפָּ֖ר וַאֲשִׁישָֽׁה׃"
+pericope: "[[1Chr.16.1 A Tent for the Ark|A Tent for the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2505A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H0802G]]"
+- "[[H0376I]]"
+- "[[H3603H]]"
+- "[[H3899H]]"
+- "[[H0829]]"
+- "[[H0809]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:3**<big><big>[[1Chr.16.1 A Tent for the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon [of wine].
 <small><sub>**BSB:**</sub></small>
 Then he distributed to every man and woman of Israel a loaf of bread, a date cake, and a raisin cake.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2505A\|יְחַלֵּק֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מֵ]][[H0376G\|אִ֖ישׁ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H0802G\|אִשָּׁ֑ה]] [[H9005\|לְ]][[H0376I\|אִישׁ֙]] [[H3603H\|כִּכַּר]][[H9014\|־]] [[H3899H\|לֶ֔חֶם]] [[H9002\|וְ]][[H0829\|אֶשְׁפָּ֖ר]] [[H9002\|וַ]][[H0809\|אֲשִׁישָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.2|<< 1 Chronicles 16:2]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.4|1 Chronicles 16:4 >>]]</td></tr></table>
 

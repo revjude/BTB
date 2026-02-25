@@ -1,8 +1,77 @@
+---
+title: 1 Kings 18:27
+type: Verse
+kjv: "And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he is a god; either he is talking, or he is pursuing, or he is in a journey, or peradventure he sleepeth, and must be awaked."
+bsb: "At noon Elijah began to taunt them, saying, “Shout louder, for he is a god! Perhaps he is deep in thought, or occupied, or on a journey. Perhaps he is sleeping and must be awakened!”"
+hebrew: "וַיְהִ֨י בַֽצָּהֳרַ֜יִם וַיְהַתֵּ֧ל בָּהֶ֣ם אֵלִיָּ֗הוּ וַיֹּ֙אמֶר֙ קִרְא֤וּ בְקוֹל־ גָּדוֹל֙ כִּֽי־ אֱלֹהִ֣ים ה֔וּא כִּ֣י שִׂ֧יחַ וְכִֽי־ שִׂ֛יג ל֖וֹ וְכִֽי־ דֶ֣רֶךְ ל֑וֹ אוּלַ֛י יָשֵׁ֥ן ה֖וּא וְיִקָֽץ׃"
+pericope: "[[1Kgs.18.16 Elijah on Mount Carmel|Elijah on Mount Carmel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IRONY|IRONY]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic TANTALIZING|TANTALIZING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6672A]]"
+- "[[H2048A]]"
+- "[[H9038]]"
+- "[[H0452G]]"
+- "[[H0559]]"
+- "[[H7121I]]"
+- "[[H6963A]]"
+- "[[H9014]]"
+- "[[H1419A]]"
+- "[[H3588A]]"
+- "[[H0430G]]"
+- "[[H1931]]"
+- "[[H7879]]"
+- "[[H9002]]"
+- "[[H7873]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1870L]]"
+- "[[H0194]]"
+- "[[H3463]]"
+- "[[H3364]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:27**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass at noon, that Elijah mocked them, and said, Cry aloud: for he [is] a god; either he is talking, or he is pursuing, or he is in a journey, [or] peradventure he sleepeth, and must be awaked.
 <small><sub>**BSB:**</sub></small>
 At noon Elijah began to taunt them, saying, “Shout louder, for he is a god! Perhaps he is deep in thought, or occupied, or on a journey. Perhaps he is sleeping and must be awakened!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H9003\|בַֽ]][[H6672A\|צָּהֳרַ֜יִם]] [[H9001\|וַ]][[H2048A\|יְהַתֵּ֧ל]] [[H9003\|בָּ]][[H9038\|הֶ֣ם]] [[H0452G\|אֵלִיָּ֗הוּ]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H7121I\|קִרְא֤וּ]] [[H9003\|בְ]][[H6963A\|קוֹל]][[H9014\|־]] [[H1419A\|גָּדוֹל֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0430G\|אֱלֹהִ֣ים]] [[H1931\|ה֔וּא]] [[H3588A\|כִּ֣י]] [[H7879\|שִׂ֧יחַ]] [[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H7873\|שִׂ֛יג]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H1870L\|דֶ֣רֶךְ]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H0194\|אוּלַ֛י]] [[H3463\|יָשֵׁ֥ן]] [[H1931\|ה֖וּא]] [[H9002\|וְ]][[H3364\|יִקָֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic ELIJAH|ELIJAH]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IRONY|IRONY]] • [[topic MOCKING|MOCKING]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]] • [[topic SARCASM|SARCASM]] • [[topic TANTALIZING|TANTALIZING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.26|<< 1 Kings 18:26]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.28|1 Kings 18:28 >>]]</td></tr></table>
 

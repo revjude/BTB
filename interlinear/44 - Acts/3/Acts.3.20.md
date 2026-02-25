@@ -1,10 +1,59 @@
+---
+title: Acts 3:20
+type: Verse
+kjv: "And he shall send Jesus Christ, which before was preached unto you:"
+bsb: "that times of refreshing may come from the presence of the Lord, and that He may send Jesus, the Christ, who has been appointed for you."
+greek: "ὅπως ἂν ἔλθωσιν καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ κυρίου καὶ ἀποστείλῃ τὸν προκεχειρισμένον ὑμῖν χριστὸν Ἰησοῦν"
+pericope: "[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|Peter Speaks in Solomon’s Colonnade]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 3
+book/chapter: "[[Acts.3|Acts 3]]"
+chronological_order: 1021
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3704]]"
+- "[[G0302]]"
+- "[[G2064]]"
+- "[[G2540]]"
+- "[[G0403]]"
+- "[[G0575]]"
+- "[[G4383]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G4400]]"
+- "[[G4771]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 3:20**<big><big>[[Acts.3.11 Peter Speaks in Solomon’s Colonnade|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he shall send Jesus Christ, which before was preached unto you:
 <small><sub>**BSB:**</sub></small>
 that times of refreshing may come from the presence of the Lord, and that He may send Jesus, the Christ, who has been appointed for you.
-<small><sub>**Literal:**</sub></small>
-so that maybe may come times of refreshing from [the] presence of the Lord [20] and [that] He may send the [One] appointed to you Christ Jesus<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.19|<< Acts 3:19]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.21|Acts 3:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3704\|ὅπως]]  [[G0302\|ἂν]]  [[G2064\|ἔλθωσιν]]  [[G2540\|καιροὶ]]  [[G0403\|ἀναψύξεως]]  [[G0575\|ἀπὸ]]  [[G4383\|προσώπου]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2532\|καὶ]]  [[G0649\|ἀποστείλῃ]]  [[G3588\|τὸν]]  [[G4400\|προκεχειρισμένον]]  [[G4771\|ὑμῖν]]  [[G5547\|χριστὸν]]  [[G2424G\|Ἰησοῦν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURAGE|COURAGE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TYPES|TYPES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.3.19|<< Acts 3:19]]</td><td align="center" style="border:none;">[[Acts.3|Acts 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.21|Acts 3:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

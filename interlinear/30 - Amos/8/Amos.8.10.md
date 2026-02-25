@@ -1,8 +1,69 @@
+---
+title: Amos 8:10
+type: Verse
+kjv: "And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only son, and the end thereof as a bitter day."
+bsb: "I will turn your feasts into mourning and all your songs into lamentation. I will cause everyone to wear sackcloth and every head to be shaved. I will make it like a time of mourning for an only son, and its outcome like a bitter day."
+hebrew: "וְהָפַכְתִּ֨י חַגֵּיכֶ֜ם לְאֵ֗בֶל וְכָל־ שִֽׁירֵיכֶם֙ לְקִינָ֔ה וְהַעֲלֵיתִ֤י עַל־ כָּל־ מָתְנַ֙יִם֙ שָׂ֔ק וְעַל־ כָּל־ רֹ֖אשׁ קָרְחָ֑ה וְשַׂמְתִּ֙יהָ֙ כְּאֵ֣בֶל יָחִ֔יד וְאַחֲרִיתָ֖הּ כְּי֥וֹם מָֽר׃"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H2282]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H0060]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7892A]]"
+- "[[H7015]]"
+- "[[H5927H]]"
+- "[[H5921A]]"
+- "[[H4975]]"
+- "[[H8242]]"
+- "[[H7218A]]"
+- "[[H7144]]"
+- "[[H7760A]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H3173]]"
+- "[[H0319]]"
+- "[[H9024]]"
+- "[[H3117G]]"
+- "[[H4751]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 8:10**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only [son], and the end thereof as a bitter day.
 <small><sub>**BSB:**</sub></small>
 I will turn your feasts into mourning and all your songs into lamentation. I will cause everyone to wear sackcloth and every head to be shaved. I will make it like a time of mourning for an only son, and its outcome like a bitter day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2015\|הָפַכְתִּ֨י]] [[H2282\|חַגֵּי]][[H9026\|כֶ֜ם]] [[H9005\|לְ]][[H0060\|אֵ֗בֶל]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7892A\|שִֽׁירֵי]][[H9026\|כֶם֙]] [[H9005\|לְ]][[H7015\|קִינָ֔ה]] [[H9001\|וְ]][[H5927H\|הַעֲלֵיתִ֤י]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4975\|מָתְנַ֙יִם֙]] [[H8242\|שָׂ֔ק]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H7218A\|רֹ֖אשׁ]] [[H7144\|קָרְחָ֑ה]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּ֙י]][[H9034\|הָ֙]] [[H9004\|כְּ]][[H0060\|אֵ֣בֶל]] [[H3173\|יָחִ֔יד]] [[H9002\|וְ]][[H0319\|אַחֲרִיתָ֖]][[H9024\|הּ]] [[H9004\|כְּ]][[H3117G\|י֥וֹם]] [[H4751\|מָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALDNESS|BALDNESS]] • [[topic MUSIC|MUSIC]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.9|<< Amos 8:9]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.11|Amos 8:11 >>]]</td></tr></table>
 

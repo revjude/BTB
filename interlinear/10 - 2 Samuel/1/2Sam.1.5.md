@@ -1,8 +1,61 @@
+---
+title: 2 Samuel 1:5
+type: Verse
+kjv: "And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son be dead?"
+bsb: "Then David asked the young man who had brought him the report, “How do you know that Saul and his son Jonathan are dead?”"
+hebrew: "וַיֹּ֣אמֶר דָּוִ֔ד אֶל־ הַנַּ֖עַר הַמַּגִּ֣יד ל֑וֹ אֵ֣יךְ יָדַ֔עְתָּ כִּי־ מֵ֥ת שָׁא֖וּל וִיהֽוֹנָתָ֥ן בְּנֽוֹ׃"
+pericope: "[[2Sam.1.1 Saul’s Death Reported to David|Saul’s Death Reported to David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 1
+book/chapter: "[[2Sam.1|2 Samuel 1]]"
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0349A]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H3083H]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 1:5**<big><big>[[2Sam.1.1 Saul’s Death Reported to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto the young man that told him, How knowest thou that Saul and Jonathan his son be dead?
 <small><sub>**BSB:**</sub></small>
 Then David asked the young man who had brought him the report, “How do you know that Saul and his son Jonathan are dead?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H1732\|דָּוִ֔ד]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H9009\|הַ]][[H5046\|מַּגִּ֣יד]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H0349A\|אֵ֣יךְ]] [[H3045\|יָדַ֔עְתָּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H4191\|מֵ֥ת]] [[H7586G\|שָׁא֖וּל]] [[H9002\|וִ]][[H3083H\|יהֽוֹנָתָ֥ן]] [[H1121A\|בְּנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.1.4|<< 2 Samuel 1:4]]</td><td align="center" style="border:none;">[[2Sam.1|2 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.1.6|2 Samuel 1:6 >>]]</td></tr></table>
 

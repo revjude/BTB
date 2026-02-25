@@ -1,8 +1,49 @@
+---
+title: Job 17:11
+type: Verse
+kjv: "My days are past, my purposes are broken off, even the thoughts of my heart."
+bsb: "My days have passed; my plans are broken off—even the desires of my heart."
+hebrew: "יָמַ֣י עָ֭בְרוּ זִמֹּתַ֣י נִתְּק֑וּ מ֖וֹרָשֵׁ֣י לְבָבִֽי׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3117G]]"
+- "[[H9020]]"
+- "[[H5674A]]"
+- "[[H2154]]"
+- "[[H5423]]"
+- "[[H4180]]"
+- "[[H3824]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:11**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My days are past, my purposes are broken off, [even] the thoughts of my heart.
 <small><sub>**BSB:**</sub></small>
 My days have passed; my plans are broken off—even the desires of my heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H3117G\|יָמַ֣]][[H9020\|י]] [[H5674A\|עָ֭בְרוּ]] [[H2154\|זִמֹּתַ֣]][[H9020\|י]] [[H5423\|נִתְּק֑וּ]] [[H4180\|מ֖וֹרָשֵׁ֣י]] [[H3824\|לְבָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.10|<< Job 17:10]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.12|Job 17:12 >>]]</td></tr></table>
 

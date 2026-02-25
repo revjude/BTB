@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Genealogies of Moses and Aaron
+type: Pericope
 pericope: "[[Exod.6.14 Genealogies of Moses and Aaron|Genealogies of Moses and Aaron]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 6
 book/chapter: "[[Exod.6|Exodus 6]]"
-genre:
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 17
 verses:
 - "[[Exod.6.14]]"
 - "[[Exod.6.15]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Exod.6.30]]"
 ---
 
-[[Exod.6|Exodus 6:14 - Exodus 6:30]]
+<small>[[Exod.6|Exodus 6:14-30]]</small>
 *Genealogies of Moses and Aaron*
 
 [[Exod.6.14|14]] These \[be\] the heads of their fathers’ houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these \[be\] the families of Reuben.

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Enemies Destroy Themselves
+type: Pericope
 pericope: "[[2Chr.20.20 The Enemies Destroy Themselves|The Enemies Destroy Themselves]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 20
 book/chapter: "[[2Chr.20|2 Chronicles 20]]"
-genre:
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 6
 verses:
 - "[[2Chr.20.20]]"
 - "[[2Chr.20.21]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Chr.20.25]]"
 ---
 
-[[2Chr.20|2 Chronicles 20:20 - 2 Chronicles 20:25]]
+<small>[[2Chr.20|2 Chronicles 20:20-25]]</small>
 *The Enemies Destroy Themselves*
 
 [[2Chr.20.20|20]] And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper.

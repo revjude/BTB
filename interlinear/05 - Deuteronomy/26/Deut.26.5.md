@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 26:5
+type: Verse
+kjv: "And thou shalt speak and say before the LORD thy God, A Syrian ready to perish was my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:"
+bsb: "and you are to declare before the LORD your God, “My father was a wandering Aramean, and he went down to Egypt few in number and lived there and became a great nation, mighty and numerous."
+hebrew: "וְעָנִ֨יתָ וְאָמַרְתָּ֜ לִפְנֵ֣י׀ יְהוָ֣ה אֱלֹהֶ֗יךָ אֲרַמִּי֙ אֹבֵ֣ד אָבִ֔י וַיֵּ֣רֶד מִצְרַ֔יְמָה וַיָּ֥גָר שָׁ֖ם בִּמְתֵ֣י מְעָ֑ט וַֽיְהִי־ שָׁ֕ם לְג֥וֹי גָּד֖וֹל עָצ֥וּם וָרָֽב׃"
+pericope: "[[Deut.26.1 Offering Firstfruits and Tithes|Offering Firstfruits and Tithes]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 26
+book/chapter: "[[Deut.26|Deuteronomy 26]]"
+chronological_order: 222
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0761J]]"
+- "[[H0006]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H3381]]"
+- "[[H4714G]]"
+- "[[H9011]]"
+- "[[H1481A]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H4962]]"
+- "[[H4592]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H6099]]"
+- "[[H9002]]"
+- "[[H7227A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 26:5**<big><big>[[Deut.26.1 Offering Firstfruits and Tithes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt speak and say before the LORD thy God, A Syrian ready to perish [was] my father, and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous:
 <small><sub>**BSB:**</sub></small>
 and you are to declare before the LORD your God, “My father was a wandering Aramean, and he went down to Egypt few in number and lived there and became a great nation, mighty and numerous.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6030B\|עָנִ֨יתָ]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֜]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H0761J\|אֲרַמִּי֙]] [[H0006\|אֹבֵ֣ד]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H9001\|וַ]][[H3381\|יֵּ֣רֶד]] [[H4714G\|מִצְרַ֔יְמָ]][[H9011\|ה]] [[H9001\|וַ]][[H1481A\|יָּ֥גָר]] [[H8033G\|שָׁ֖ם]] [[H9003\|בִּ]][[H4962\|מְתֵ֣י]] [[H4592\|מְעָ֑ט]] [[H9001\|וַֽ]][[H1961\|יְהִי]][[H9014\|־]] [[H8033G\|שָׁ֕ם]] [[H9005\|לְ]][[H1471A\|ג֥וֹי]] [[H1419A\|גָּד֖וֹל]] [[H6099\|עָצ֥וּם]] [[H9002\|וָ]][[H7227A\|רָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FIRST FRUITS|FIRST FRUITS]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.26.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.26.4|<< Deuteronomy 26:4]]</td><td align="center" style="border:none;">[[Deut.26|Deuteronomy 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.26.6|Deuteronomy 26:6 >>]]</td></tr></table>
 

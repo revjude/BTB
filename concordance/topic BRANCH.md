@@ -1,7 +1,7 @@
 
 **BRANCH**
 
-→ FIGURATIVE [[Prov.11.28|Pr 11:28]]; [[Hos.14.6|Ho 14:6]]; [[Isa.60.21|Isa 60:21]]; [[John.15.2|Joh 15:2]]-[[John.15.5|5]]
+→ FIGURATIVE [[Prov.11.28|Pr 11:28]]; [[Hos.14.6|Ho 14:6]]; [[Isa.60.21|Isa 60:21]]; [[John.15.2|Joh 15:2-5]]
 
 - Pruning of [[Isa.18.5|Isa 18:5]]; [[Dan.4.14|Da 4:14]]; [[John.15.6|Joh 15:6]]; [[Rom.11.17|Ro 11:17]],[[Rom.11.21|21]]
 

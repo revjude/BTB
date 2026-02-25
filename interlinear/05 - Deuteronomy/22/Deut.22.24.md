@@ -1,8 +1,87 @@
+---
+title: Deuteronomy 22:24
+type: Verse
+kjv: "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you."
+bsb: "you must take both of them out to the gate of that city and stone them to death—the young woman because she did not cry out in the city, and the man because he has violated his neighbor’s wife. So you must purge the evil from among you."
+hebrew: "וְהוֹצֵאתֶ֨ם אֶת־ שְׁנֵיהֶ֜ם אֶל־ שַׁ֣עַר׀ הָעִ֣יר הַהִ֗וא וּסְקַלְתֶּ֨ם אֹתָ֥ם בָּאֲבָנִים֮ וָמֵתוּ֒ אֶת־ הַֽנַּעֲרָ֗ה עַל־ דְּבַר֙ אֲשֶׁ֣ר לֹא־ צָעֲקָ֣ה בָעִ֔יר וְאֶ֨ת־ הָאִ֔ישׁ עַל־ דְּבַ֥ר אֲשֶׁר־ עִנָּ֖ה אֶת־ אֵ֣שֶׁת רֵעֵ֑הוּ וּבִֽעַרְתָּ֥ הָרָ֖ע מִקִּרְבֶּֽךָ׃ ס"
+pericope: "[[Deut.22.13 Marriage Violations|Marriage Violations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H0413]]"
+- "[[H8179G]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H1931]]"
+- "[[H5619]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H0068G]]"
+- "[[H4191]]"
+- "[[H5291]]"
+- "[[H5921A]]"
+- "[[H1697L]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H6817]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H6031B]]"
+- "[[H0802H]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H1197I]]"
+- "[[H7451B]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(k)
+---
+
 **Deuteronomy 22:24**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, [being] in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you.
 <small><sub>**BSB:**</sub></small>
 you must take both of them out to the gate of that city and stone them to death—the young woman because she did not cry out in the city, and the man because he has violated his neighbor’s wife. So you must purge the evil from among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318H\|הוֹצֵאתֶ֨ם]] [[H0853\|אֶת]][[H9014\|־]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֜ם]] [[H0413\|אֶל]][[H9014\|־]] [[H8179G\|שַׁ֣עַר]][[H9015\|׀]] [[H9009\|הָ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H1931\|הִ֗וא]] [[H9001\|וּ]][[H5619\|סְקַלְתֶּ֨ם]] [[H0853\|אֹתָ֥]][[H9038\|ם]] [[H9003\|בָּ]][[H0068G\|אֲבָנִים֮]] [[H9001\|וָ]][[H4191\|מֵתוּ֒]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָ֗ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1697L\|דְּבַר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H6817\|צָעֲקָ֣ה]] [[H9003\|בָ]][[H5892B\|עִ֔יר]] [[H9002\|וְ]][[H0853\|אֶ֨ת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H1697L\|דְּבַ֥ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6031B\|עִנָּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אֵ֣שֶׁת]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9001\|וּ]][[H1197I\|בִֽעַרְתָּ֥]] [[H9009\|הָ]][[H7451B\|רָ֖ע]] [[H9006\|מִ]][[H7130G\|קִּרְבֶּֽ]][[H9021\|ךָ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHURCH|CHURCH]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SEDUCTION|SEDUCTION]] • [[topic VIRGIN|VIRGIN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.23|<< Deuteronomy 22:23]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.25|Deuteronomy 22:25 >>]]</td></tr></table>
 
@@ -38,7 +117,7 @@ you must take both of them out to the gate of that city and stone them to death�
 | neighbor his  |**<big>&#8207;[[H7453\|רֵעֵ֑]]&#8207;&#8207;[[H9023\|הוּ]]&#8207; </big>**| re.'E.<small><sup>[[HNcmsc]]</sup></small> hu<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you will remove  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H1197I\|בִֽעַרְתָּ֥]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> vi.'ar.Ta<small><sup>[[HVpq2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the evil  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H7451B\|רָ֖ע]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Ra'<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from midst your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7130G\|קִּרְבֶּֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kir.Be.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from midst your  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H7130G\|קִּרְבֶּֽ]]&#8207;&#8207;[[H9021\|ךָ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kir.Be.<small><sup>[[HNcmsc]]</sup></small> cha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.23|<< Deuteronomy 22:23]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.25|Deuteronomy 22:25 >>]]</td></tr></table>
 
 [^1]: L spelled: **<span class="ashebrew"><big>הַֽנַּעֲרָ֗</big></span>**

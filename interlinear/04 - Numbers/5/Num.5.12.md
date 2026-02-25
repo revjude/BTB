@@ -1,8 +1,66 @@
+---
+title: Numbers 5:12
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him,"
+bsb: "“Speak to the Israelites and tell them that if any man’s wife goes astray and is unfaithful to him"
+hebrew: "דַּבֵּר֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם אִ֥ישׁ אִישׁ֙ כִּֽי־ תִשְׂטֶ֣ה אִשְׁתּ֔וֹ וּמָעֲלָ֥ה ב֖וֹ מָֽעַל׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H0376G]]"
+- "[[H3588A]]"
+- "[[H7847]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H4603]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4604]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:12**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, If any man’s wife go aside, and commit a trespass against him,
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and tell them that if any man’s wife goes astray and is unfaithful to him
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H0376G\|אִ֥ישׁ]] [[H0376G\|אִישׁ֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7847\|תִשְׂטֶ֣ה]] [[H0802H\|אִשְׁתּ֔]][[H9023\|וֹ]] [[H9001\|וּ]][[H4603\|מָעֲלָ֥ה]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H4604\|מָֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.11|<< Numbers 5:11]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.13|Numbers 5:13 >>]]</td></tr></table>
 

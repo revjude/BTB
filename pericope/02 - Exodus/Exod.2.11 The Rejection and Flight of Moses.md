@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Rejection and Flight of Moses
+type: Pericope
 pericope: "[[Exod.2.11 The Rejection and Flight of Moses|The Rejection and Flight of Moses]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 2
 book/chapter: "[[Exod.2|Exodus 2]]"
-genre:
+chronological_order: 94
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 12
 verses:
 - "[[Exod.2.11]]"
 - "[[Exod.2.12]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Exod.2.22]]"
 ---
 
-[[Exod.2|Exodus 2:11 - Exodus 2:22]]
+<small>[[Exod.2|Exodus 2:11-22]]</small>
 *The Rejection and Flight of Moses*
 
 [[Exod.2.11|11]] And it came to pass in those days, when Moses was grown, that he went out unto his brethren, and looked on their burdens: and he spied an Egyptian smiting an Hebrew, one of his brethren.

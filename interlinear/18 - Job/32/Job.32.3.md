@@ -1,8 +1,59 @@
+---
+title: Job 32:3
+type: Verse
+kjv: "Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job."
+bsb: "and he burned with anger against Job’s three friends because they had failed to refute Job, and yet had condemned him."
+hebrew: "וּבִשְׁלֹ֣שֶׁת רֵעָיו֮ חָרָ֪ה אַ֫פּ֥וֹ עַ֤ל אֲשֶׁ֣ר לֹא־ מָצְא֣וּ מַעֲנֶ֑ה וַ֝יַּרְשִׁ֗יעוּ אֶת־ אִיּֽוֹב׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic ANGER|ANGER]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7969]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4672]]"
+- "[[H4617]]"
+- "[[H9001]]"
+- "[[H7561]]"
+- "[[H0853]]"
+- "[[H0347]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:3**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also against his three friends was his wrath kindled, because they had found no answer, and [yet] had condemned Job.
 <small><sub>**BSB:**</sub></small>
 and he burned with anger against Job’s three friends because they had failed to refute Job, and yet had condemned him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H7453\|רֵעָי]][[H9023\|ו֮]] [[H2734\|חָרָ֪ה]] [[H0639G\|אַ֫פּ֥]][[H9023\|וֹ]] [[H5921A\|עַ֤ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H3808\|לֹא]][[H9014\|־]] [[H4672\|מָצְא֣וּ]] [[H4617\|מַעֲנֶ֑ה]] [[H9001\|וַ֝]][[H7561\|יַּרְשִׁ֗יעוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0347\|אִיּֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.2|<< Job 32:2]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.32.4|Job 32:4 >>]]</td></tr></table>
 

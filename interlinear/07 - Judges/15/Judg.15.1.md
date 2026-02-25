@@ -1,8 +1,70 @@
+---
+title: Judges 15:1
+type: Verse
+kjv: "But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in."
+bsb: "Later on, at the time of the wheat harvest, Samson took a young goat and went to visit his wife. “I want to go to my wife in her room,” he said. But her father would not let him enter."
+hebrew: "וַיְהִ֨י מִיָּמִ֜ים בִּימֵ֣י קְצִיר־ חִטִּ֗ים וַיִּפְקֹ֨ד שִׁמְשׁ֤וֹן אֶת־ אִשְׁתּוֹ֙ בִּגְדִ֣י עִזִּ֔ים וַיֹּ֕אמֶר אָבֹ֥אָה אֶל־ אִשְׁתִּ֖י הֶחָ֑דְרָה וְלֹֽא־ נְתָנ֥וֹ אָבִ֖יהָ לָבֽוֹא׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H9003]]"
+- "[[H7105A]]"
+- "[[H9014]]"
+- "[[H2406]]"
+- "[[H6485I]]"
+- "[[H8123]]"
+- "[[H0853]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H1423]]"
+- "[[H5795]]"
+- "[[H0559]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H2315]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5414K]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:1**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in.
 <small><sub>**BSB:**</sub></small>
 Later on, at the time of the wheat harvest, Samson took a young goat and went to visit his wife. “I want to go to my wife in her room,” he said. But her father would not let him enter.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֨י]] [[H9006\|מִ]][[H3117G\|יָּמִ֜ים]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H7105A\|קְצִיר]][[H9014\|־]] [[H2406\|חִטִּ֗ים]] [[H9001\|וַ]][[H6485I\|יִּפְקֹ֨ד]] [[H8123\|שִׁמְשׁ֤וֹן]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתּ]][[H9023\|וֹ֙]] [[H9003\|בִּ]][[H1423\|גְדִ֣י]] [[H5795\|עִזִּ֔ים]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H0935G\|אָבֹ֥אָה]] [[H0413\|אֶל]][[H9014\|־]] [[H0802H\|אִשְׁתִּ֖]][[H9020\|י]] [[H9009\|הֶ]][[H2315\|חָ֑דְרָ]][[H9011\|ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5414K\|נְתָנ֥]][[H9033\|וֹ]] [[H0001G\|אָבִ֖י]][[H9024\|הָ]] [[H9005\|לָ]][[H0935G\|בֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.20|<< Judges 14:20]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.2|Judges 15:2 >>]]</td></tr></table>
 

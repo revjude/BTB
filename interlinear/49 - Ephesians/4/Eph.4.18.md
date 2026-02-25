@@ -1,10 +1,65 @@
+---
+title: Ephesians 4:18
+type: Verse
+kjv: "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
+bsb: "They are darkened in their understanding and alienated from the life of God because of the ignorance that is in them due to the hardness of their hearts."
+greek: "ἐσκοτωμένοι τῇ διανοίᾳ ὄντες, ἀπηλλοτριωμένοι τῆς ζωῆς τοῦ θεοῦ διὰ τὴν ἄγνοιαν τὴν οὖσαν ἐν αὐτοῖς, διὰ τὴν πώρωσιν τῆς καρδίας αὐτῶν·"
+pericope: "[[Eph.4.17 New Life in Christ|New Life in Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 4
+book/chapter: "[[Eph.4|Ephesians 4]]"
+chronological_order: 1114
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G4656]]"
+- "[[G3588]]"
+- "[[G1271]]"
+- "[[G1510]]"
+- "[[G0526]]"
+- "[[G2222]]"
+- "[[G2316]]"
+- "[[G1223]]"
+- "[[G0052]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G4457]]"
+- "[[G2588]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Ephesians 4:18**<big><big>[[Eph.4.17 New Life in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:
 <small><sub>**BSB:**</sub></small>
 They are darkened in their understanding and alienated from the life of God because of the ignorance that is in them due to the hardness of their hearts.
-<small><sub>**Literal:**</sub></small>
-darkened in the understanding being alienated from the life <the> of God because of the ignorance which is being in them, on account of the hardness of the heart of them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.17|<< Ephesians 4:17]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.19|Ephesians 4:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4656\|ἐσκοτωμένοι]]  [[G3588\|τῇ]]  [[G1271\|διανοίᾳ]]  [[G1510\|ὄντες,]]  [[G0526\|ἀπηλλοτριωμένοι]]  [[G3588\|τῆς]]  [[G2222\|ζωῆς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G0052\|ἄγνοιαν]]  [[G3588\|τὴν]]  [[G1510\|οὖσαν]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς,]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G4457\|πώρωσιν]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G0846\|αὐτῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHARACTER|CHARACTER]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GENTILES|GENTILES]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic HEART|HEART]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.4.17|<< Ephesians 4:17]]</td><td align="center" style="border:none;">[[Eph.4|Ephesians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.4.19|Ephesians 4:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

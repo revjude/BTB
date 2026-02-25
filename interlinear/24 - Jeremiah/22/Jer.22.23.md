@@ -1,8 +1,59 @@
+---
+title: Jeremiah 22:23
+type: Verse
+kjv: "O inhabitant of Lebanon, that makest thy nest in the cedars, how gracious shalt thou be when pangs come upon thee, the pain as of a woman in travail!"
+bsb: "O inhabitant of Lebanon, nestled in the cedars, how you will groan when pangs of anguish come upon you, agony like a woman in labor.”"
+hebrew: "יֹשַׁבְתְּ֙ בַּלְּבָנ֔וֹן מְקֻנַּ֖נְתְּ בָּֽאֲרָזִ֑ים מַה־ נֵּחַנְתְּ֙ בְּבֹא־ לָ֣ךְ חֲבָלִ֔ים חִ֖יל כַּיֹּלֵדָֽה׃"
+pericope: "[[Jer.22.13 A Warning about Jehoiakim|A Warning about Jehoiakim]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H3844G]]"
+- "[[H7077]]"
+- "[[H0730]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H0584]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H2256B]]"
+- "[[H2427A]]"
+- "[[H9004]]"
+- "[[H3205]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Jeremiah 22:23**<big><big>[[Jer.22.13 A Warning about Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O inhabitant of Lebanon, that makest thy nest in the cedars, how gracious shalt thou be when pangs come upon thee, the pain as of a woman in travail!
 <small><sub>**BSB:**</sub></small>
 O inhabitant of Lebanon, nestled in the cedars, how you will groan when pangs of anguish come upon you, agony like a woman in labor.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3427\|יֹשַׁבְתְּ֙]] [[H9003\|בַּ]][[H3844G\|לְּבָנ֔וֹן]] [[H7077\|מְקֻנַּ֖נְתְּ]] [[H9003\|בָּֽ]][[H0730\|אֲרָזִ֑ים]] [[H4100\|מַה]][[H9014\|־]] [[H0584\|נֵּחַנְתְּ֙]] [[H9003\|בְּ]][[H0935G\|בֹא]][[H9014\|־]] [[H9005\|לָ֣]][[H9032\|ךְ]] [[H2256B\|חֲבָלִ֔ים]] [[H2427A\|חִ֖יל]] [[H9004\|כַּ]][[H3205\|יֹּלֵדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.22|<< Jeremiah 22:22]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.24|Jeremiah 22:24 >>]]</td></tr></table>
 

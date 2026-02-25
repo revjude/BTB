@@ -1,8 +1,74 @@
+---
+title: Deuteronomy 32:21
+type: Verse
+kjv: "They have moved me to jealousy with that which is not God; they have provoked me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation."
+bsb: "They have provoked My jealousy by that which is not God; they have enraged Me with their worthless idols. So I will make them jealous by those who are not a people; I will make them angry by a nation without understanding."
+hebrew: "הֵ֚ם קִנְא֣וּנִי בְלֹא־ אֵ֔ל כִּעֲס֖וּנִי בְּהַבְלֵיהֶ֑ם וַאֲנִי֙ אַקְנִיאֵ֣ם בְּלֹא־ עָ֔ם בְּג֥וֹי נָבָ֖ל אַכְעִיסֵֽם׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H1992]]"
+- "[[H7065]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0410K]]"
+- "[[H3707]]"
+- "[[H1892]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H9038]]"
+- "[[H5971A]]"
+- "[[H1471A]]"
+- "[[H5036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:21**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They have moved me to jealousy with [that which is] not God; they have provoked me to anger with their vanities: and I will move them to jealousy with [those which are] not a people; I will provoke them to anger with a foolish nation.
 <small><sub>**BSB:**</sub></small>
 They have provoked My jealousy by that which is not God; they have enraged Me with their worthless idols. So I will make them jealous by those who are not a people; I will make them angry by a nation without understanding.
+<small><sub>**Hebrew:**</sub></small>
+[[H1992\|הֵ֚ם]] [[H7065\|קִנְא֣וּ]][[H9030\|נִי]] [[H9003\|בְ]][[H3808\|לֹא]][[H9014\|־]] [[H0410K\|אֵ֔ל]] [[H3707\|כִּעֲס֖וּ]][[H9030\|נִי]] [[H9003\|בְּ]][[H1892\|הַבְלֵי]][[H9028\|הֶ֑ם]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H7065\|אַקְנִיאֵ֣]][[H9038\|ם]] [[H9003\|בְּ]][[H3808\|לֹא]][[H9014\|־]] [[H5971A\|עָ֔ם]] [[H9003\|בְּ]][[H1471A\|ג֥וֹי]] [[H5036\|נָבָ֖ל]] [[H3707\|אַכְעִיסֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic DEATH|DEATH]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PSALMS|PSALMS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.20|<< Deuteronomy 32:20]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.22|Deuteronomy 32:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

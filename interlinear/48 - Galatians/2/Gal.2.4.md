@@ -1,10 +1,63 @@
+---
+title: Galatians 2:4
+type: Verse
+kjv: "And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:"
+bsb: "This issue arose because some false brothers had come in under false pretenses to spy on our freedom in Christ Jesus, in order to enslave us."
+greek: "διὰ δὲ τοὺς παρεισάκτους ψευδαδέλφους, οἵτινες παρεισῆλθον κατασκοπῆσαι τὴν ἐλευθερίαν ἡμῶν ἣν ἔχομεν ἐν Χριστῷ Ἰησοῦ, ἵνα ἡμᾶς καταδουλώσουσιν,"
+pericope: "[[Gal.2.1 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic HERESY|HERESY]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SPIES|SPIES]]"
+strongs:
+- "[[G1223]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3920]]"
+- "[[G5569]]"
+- "[[G3748]]"
+- "[[G3922]]"
+- "[[G2684]]"
+- "[[G1657]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G2443]]"
+- "[[G2615]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 2:4**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
 <small><sub>**BSB:**</sub></small>
 This issue arose because some false brothers had come in under false pretenses to spy on our freedom in Christ Jesus, in order to enslave us.
-<small><sub>**Literal:**</sub></small>
-because of even the brought in secretly false brothers, who came in by stealth to spy out the freedom of us which we have in Christ Jesus, that us they will enslave,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.3|<< Galatians 2:3]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.5|Galatians 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διὰ]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G3920\|παρεισάκτους]]  [[G5569\|ψευδαδέλφους,]]  [[G3748\|οἵτινες]]  [[G3922\|παρεισῆλθον]]  [[G2684\|κατασκοπῆσαι]]  [[G3588\|τὴν]]  [[G1657\|ἐλευθερίαν]]  [[G3165\|ἡμῶν]]  [[G3739\|ἣν]]  [[G2192\|ἔχομεν]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ,]]  [[G2443\|ἵνα]]  [[G3165\|ἡμᾶς]]  [[G2615\|καταδουλώσουσιν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic BIGOTRY|BIGOTRY]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic HERESY|HERESY]] • [[topic LAW|LAW]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SPIES|SPIES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.3|<< Galatians 2:3]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.5|Galatians 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

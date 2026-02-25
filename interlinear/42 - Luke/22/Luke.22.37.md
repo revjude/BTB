@@ -1,10 +1,65 @@
+---
+title: Luke 22:37
+type: Verse
+kjv: "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end."
+bsb: "For I tell you that this Scripture must be fulfilled in Me: ‘And He was numbered with the transgressors.’ For what is written about Me is reaching its fulfillment.”"
+jesus_said: "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end."
+greek: "λέγω γὰρ ὑμῖν ὅτι ἔτι τοῦτο τὸ γεγραμμένον δεῖ τελεσθῆναι ἐν ἐμοί, τὸ καὶ μετὰ ἀνόμων ἐλογίσθη. καὶ γὰρ τὸ περὶ ἐμοῦ τέλος ἔχει."
+pericope: "[[Luke.22.31 Jesus Predicts Peter’s Denial|Jesus Predicts Peter’s Denial]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 22
+book/chapter: "[[Luke.22|Luke 22]]"
+chronological_order: 1008
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G4771]]"
+- "[[G3754G]]"
+- "[[G2089]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1125]]"
+- "[[G1163]]"
+- "[[G5055]]"
+- "[[G1722]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3326]]"
+- "[[G0459]]"
+- "[[G3049]]"
+- "[[G4012]]"
+- "[[G5056]]"
+- "[[G2192]]"
+texts:
+- NKO
+- k
+- N(K)O
+---
+
 **Luke 22:37**<big><big>[[Luke.22.31 Jesus Predicts Peter’s Denial|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.
 <small><sub>**BSB:**</sub></small>
 For I tell you that this Scripture must be fulfilled in Me: ‘And He was numbered with the transgressors.’ For what is written about Me is reaching its fulfillment.”
-<small><sub>**Literal:**</sub></small>
-I say for to you that still this which [was] written it behooves to be accomplished in Me myself, <the> And with [the] lawless He was reckoned.’ And for the [thing] concerning Me an end have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.36|<< Luke 22:36]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.38|Luke 22:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G4771\|ὑμῖν]]  [[G3754G\|ὅτι]]  [[G2089\|ἔτι]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G1125\|γεγραμμένον]]  [[G1163\|δεῖ]]  [[G5055\|τελεσθῆναι]]  [[G1722\|ἐν]]  [[G1473\|ἐμοί,]]  [[G3588\|τὸ]]  [[G2532\|καὶ]]  [[G3326\|μετὰ]]  [[G0459\|ἀνόμων]]  [[G3049\|ἐλογίσθη.]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G3588\|τὸ]]  [[G4012\|περὶ]]  [[G1473\|ἐμοῦ]]  [[G5056\|τέλος]]  [[G2192\|ἔχει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.22.36|<< Luke 22:36]]</td><td align="center" style="border:none;">[[Luke.22|Luke 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.22.38|Luke 22:38 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 22:37** is...
 > $\quad$ referencing: [[LXX.Isa.53.12|Isa 53:12]]

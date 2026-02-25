@@ -1,8 +1,85 @@
+---
+title: Jeremiah 40:5
+type: Verse
+kjv: "Now while he was not yet gone back, he said, Go back also to Gedaliah the son of Ahikam the son of Shaphan, whom the king of Babylon hath made governor over the cities of Judah, and dwell with him among the people: or go wheresoever it seemeth convenient unto thee to go. So the captain of the guard gave him victuals and a reward, and let him go."
+bsb: "But before Jeremiah turned to go, Nebuzaradan added, “Return to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the cities of Judah, and stay with him among the people, or go anywhere else that seems right.” Then the captain of the guard gave him a ration and a gift and released him."
+hebrew: "וְעוֹדֶ֣נּוּ לֹֽא־ יָשׁ֗וּב וְשֻׁ֡בָה אֶל־ גְּדַלְיָ֣ה בֶן־ אֲחִיקָ֣ם בֶּן־ שָׁפָ֡ן אֲשֶׁר֩ הִפְקִ֨יד מֶֽלֶךְ־ בָּבֶ֜ל בְּעָרֵ֣י יְהוּדָ֗ה וְשֵׁ֤ב אִתּוֹ֙ בְּת֣וֹךְ הָעָ֔ם א֠וֹ אֶל־ כָּל־ הַיָּשָׁ֧ר בְּעֵינֶ֛יךָ לָלֶ֖כֶת לֵ֑ךְ וַיִּתֶּן־ ל֧וֹ רַב־ טַבָּחִ֛ים אֲרֻחָ֥ה וּמַשְׂאֵ֖ת וַֽיְשַׁלְּחֵֽהוּ׃"
+pericope: "[[Jer.40.1 Jeremiah Remains in Judah|Jeremiah Remains in Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 40
+book/chapter: "[[Jer.40|Jeremiah 40]]"
+chronological_order: 763
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7725G]]"
+- "[[H9012]]"
+- "[[H0413]]"
+- "[[H1436G]]"
+- "[[H1121A]]"
+- "[[H0296]]"
+- "[[H8227B]]"
+- "[[H0834A]]"
+- "[[H6485J]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H3427]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0176A]]"
+- "[[H3605]]"
+- "[[H3477G]]"
+- "[[H5869I]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H7227B]]"
+- "[[H2876]]"
+- "[[H0737]]"
+- "[[H4864]]"
+- "[[H7971H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 40:5**<big><big>[[Jer.40.1 Jeremiah Remains in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now while he was not yet gone back, [he said], Go back also to Gedaliah the son of Ahikam the son of Shaphan, whom the king of Babylon hath made governor over the cities of Judah, and dwell with him among the people: or go wheresoever it seemeth convenient unto thee to go. So the captain of the guard gave him victuals and a reward, and let him go.
 <small><sub>**BSB:**</sub></small>
 But before Jeremiah turned to go, Nebuzaradan added, “Return to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the cities of Judah, and stay with him among the people, or go anywhere else that seems right.” Then the captain of the guard gave him a ration and a gift and released him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5750\|עוֹדֶ֣]][[H9043\|נּוּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|יָשׁ֗וּב]] [[H9002\|וְ]][[H7725G\|שֻׁ֡בָ]][[H9012\|ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1436G\|גְּדַלְיָ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0296\|אֲחִיקָ֣ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8227B\|שָׁפָ֡ן]] [[H0834A\|אֲשֶׁר֩]] [[H6485J\|הִפְקִ֨יד]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֜ל]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וְ]][[H3427\|שֵׁ֤ב]] [[H0854\|אִתּ]][[H9033\|וֹ֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0176A\|א֠וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3477G\|יָּשָׁ֧ר]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֛י]][[H9021\|ךָ]] [[H9005\|לָ]][[H1980G\|לֶ֖כֶת]] [[H1980G\|לֵ֑ךְ]] [[H9001\|וַ]][[H5414G\|יִּתֶּן]][[H9014\|־]] [[H9005\|ל֧]][[H9033\|וֹ]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִ֛ים]] [[H0737\|אֲרֻחָ֥ה]] [[H9002\|וּ]][[H4864\|מַשְׂאֵ֖ת]] [[H9001\|וַֽ]][[H7971H\|יְשַׁלְּחֵֽ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GEDALIAH|GEDALIAH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.40.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.40.4|<< Jeremiah 40:4]]</td><td align="center" style="border:none;">[[Jer.40|Jeremiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.40.6|Jeremiah 40:6 >>]]</td></tr></table>
 

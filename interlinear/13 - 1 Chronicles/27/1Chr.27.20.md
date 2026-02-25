@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 27:20
+type: Verse
+kjv: "Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:"
+bsb: "over the Ephraimites was Hoshea son of Azaziah; over one of the half-tribes of Manasseh was Joel son of Pedaiah;"
+hebrew: "לִבְנֵ֣י אֶפְרַ֔יִם הוֹשֵׁ֖עַ בֶּן־ עֲזַזְיָ֑הוּ לַחֲצִי֙ שֵׁ֣בֶט מְנַשֶּׁ֔ה יוֹאֵ֖ל בֶּן־ פְּדָיָֽהוּ׃ ס"
+pericope: "[[1Chr.27.16 The Leaders of the Twelve Tribes|The Leaders of the Twelve Tribes]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 27
+book/chapter: "[[1Chr.27|1 Chronicles 27]]"
+chronological_order: 438
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic AZAZIAH|AZAZIAH]]"
+- "[[topic HOSHEA|HOSHEA]]"
+- "[[topic JOEL|JOEL]]"
+strongs:
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H0669G]]"
+- "[[H1954H]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5812H]]"
+- "[[H2677]]"
+- "[[H7626G]]"
+- "[[H4519G]]"
+- "[[H3100P]]"
+- "[[H6305I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Chronicles 27:20**<big><big>[[1Chr.27.16 The Leaders of the Twelve Tribes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:
 <small><sub>**BSB:**</sub></small>
 over the Ephraimites was Hoshea son of Azaziah; over one of the half-tribes of Manasseh was Joel son of Pedaiah;
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H0669G\|אֶפְרַ֔יִם]] [[H1954H\|הוֹשֵׁ֖עַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5812H\|עֲזַזְיָ֑הוּ]] [[H9005\|לַ]][[H2677\|חֲצִי֙]] [[H7626G\|שֵׁ֣בֶט]] [[H4519G\|מְנַשֶּׁ֔ה]] [[H3100P\|יוֹאֵ֖ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6305I\|פְּדָיָֽהוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic AZAZIAH|AZAZIAH]] • [[topic HOSHEA|HOSHEA]] • [[topic JOEL|JOEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.27.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.19|<< 1 Chronicles 27:19]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.21|1 Chronicles 27:21 >>]]</td></tr></table>
 
@@ -18,7 +67,7 @@ over the Ephraimites was Hoshea son of Azaziah; over one of the half-tribes of M
 | Manasseh  |**<big>&#8207;[[H4519G\|מְנַשֶּׁ֔ה]]&#8207; </big>**| me.na.Sheh<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Joel  |**<big>&#8207;[[H3100P\|יוֹאֵ֖ל]]&#8207; </big>**| yo.'El<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] son of  |**<big>&#8207;[[H1121A\|בֶּן]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ben-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pedaiah  |**<big>&#8207;[[H6305I\|פְּדָיָֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pe.da.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pedaiah  |**<big>&#8207;[[H6305I\|פְּדָיָֽהוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| pe.da.Ya.hu<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.27.19|<< 1 Chronicles 27:19]]</td><td align="center" style="border:none;">[[1Chr.27|1 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.27.21|1 Chronicles 27:21 >>]]</td></tr></table>
 
 

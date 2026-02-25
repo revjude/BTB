@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 25:15
+type: Verse
+kjv: "But thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the LORD thy God giveth thee."
+bsb: "You must maintain accurate and honest weights and measures, so that you may live long in the land that the LORD your God is giving you."
+hebrew: "אֶ֣בֶן שְׁלֵמָ֤ה וָצֶ֙דֶק֙ יִֽהְיֶה־ לָּ֔ךְ אֵיפָ֧ה שְׁלֵמָ֛ה וָצֶ֖דֶק יִֽהְיֶה־ לָּ֑ךְ לְמַ֙עַן֙ יַאֲרִ֣יכוּ יָמֶ֔יךָ עַ֚ל הָֽאֲדָמָ֔ה אֲשֶׁר־ יְהוָ֥ה אֱלֹהֶ֖יךָ נֹתֵ֥ן לָֽךְ׃"
+pericope: "[[Deut.25.13 Standard Weights and Measures|Standard Weights and Measures]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic HONESTY|HONESTY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic WEIGHTS|WEIGHTS]]"
+strongs:
+- "[[H0068H]]"
+- "[[H8003]]"
+- "[[H9002]]"
+- "[[H6664G]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0374]]"
+- "[[H4616]]"
+- "[[H0748]]"
+- "[[H3117G]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 25:15**<big><big>[[Deut.25.13 Standard Weights and Measures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the LORD thy God giveth thee.
 <small><sub>**BSB:**</sub></small>
 You must maintain accurate and honest weights and measures, so that you may live long in the land that the LORD your God is giving you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0068H\|אֶ֣בֶן]] [[H8003\|שְׁלֵמָ֤ה]] [[H9002\|וָ]][[H6664G\|צֶ֙דֶק֙]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לָּ֔]][[H9031\|ךְ]] [[H0374\|אֵיפָ֧ה]] [[H8003\|שְׁלֵמָ֛ה]] [[H9002\|וָ]][[H6664G\|צֶ֖דֶק]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9031\|ךְ]] [[H4616\|לְמַ֙עַן֙]] [[H0748\|יַאֲרִ֣יכוּ]] [[H3117G\|יָמֶ֔י]][[H9021\|ךָ]] [[H5921A\|עַ֚ל]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic HONESTY|HONESTY]] • [[topic MEASURE|MEASURE]] • [[topic REWARD|REWARD]] • [[topic WEIGHTS|WEIGHTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.14|<< Deuteronomy 25:14]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.16|Deuteronomy 25:16 >>]]</td></tr></table>
 

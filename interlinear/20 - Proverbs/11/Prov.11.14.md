@@ -1,8 +1,53 @@
+---
+title: Proverbs 11:14
+type: Verse
+kjv: "Where no counsel is, the people fall: but in the multitude of counsellers there is safety."
+bsb: "For lack of guidance, a nation falls, but with many counselors comes deliverance."
+hebrew: "בְּאֵ֣ין תַּ֭חְבֻּלוֹת יִפָּל־ עָ֑ם וּ֝תְשׁוּעָ֗ה בְּרֹ֣ב יוֹעֵֽץ׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9003]]"
+- "[[H0369]]"
+- "[[H8458]]"
+- "[[H5307G]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H8668H]]"
+- "[[H7230]]"
+- "[[H3289]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:14**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Where no counsel [is], the people fall: but in the multitude of counsellers [there is] safety.
 <small><sub>**BSB:**</sub></small>
 For lack of guidance, a nation falls, but with many counselors comes deliverance.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H0369\|אֵ֣ין]] [[H8458\|תַּ֭חְבֻּלוֹת]] [[H5307G\|יִפָּל]][[H9014\|־]] [[H5971A\|עָ֑ם]] [[H9002\|וּ֝]][[H8668H\|תְשׁוּעָ֗ה]] [[H9003\|בְּ]][[H7230\|רֹ֣ב]] [[H3289\|יוֹעֵֽץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic SPEAKING|SPEAKING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.13|<< Proverbs 11:13]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.11.15|Proverbs 11:15 >>]]</td></tr></table>
 

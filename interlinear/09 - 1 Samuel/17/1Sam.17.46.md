@@ -1,8 +1,83 @@
+---
+title: 1 Samuel 17:46
+type: Verse
+kjv: "This day will the LORD deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel."
+bsb: "This day the LORD will deliver you into my hand. This day I will strike you down, cut off your head, and give the carcasses of the Philistine army to the birds of the air and the creatures of the earth. Then the whole world will know that there is a God in Israel."
+hebrew: "הַיּ֣וֹם הַזֶּ֡ה יְסַגֶּרְךָ֩ יְהוָ֨ה בְּיָדִ֜י וְהִכִּיתִ֗ךָ וַהֲסִרֹתִ֤י אֶת־ רֹֽאשְׁךָ֙ מֵעָלֶ֔יךָ וְנָ֨תַתִּ֜י פֶּ֣גֶר מַחֲנֵ֤ה פְלִשְׁתִּים֙ הַיּ֣וֹם הַזֶּ֔ה לְע֥וֹף הַשָּׁמַ֖יִם וּלְחַיַּ֣ת הָאָ֑רֶץ וְיֵֽדְעוּ֙ כָּל־ הָאָ֔רֶץ כִּ֛י יֵ֥שׁ אֱלֹהִ֖ים לְיִשְׂרָאֵֽל׃"
+pericope: "[[1Sam.17.38 David Slays Goliath|David Slays Goliath]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SLING|SLING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H5462]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7218A]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H5414G]]"
+- "[[H6297]]"
+- "[[H4264]]"
+- "[[H6430G]]"
+- "[[H9005]]"
+- "[[H5775]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H2416C]]"
+- "[[H0776H]]"
+- "[[H3045]]"
+- "[[H3605]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H3426]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:46**<big><big>[[1Sam.17.38 David Slays Goliath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This day will the LORD deliver thee into mine hand; and I will smite thee, and take thine head from thee; and I will give the carcases of the host of the Philistines this day unto the fowls of the air, and to the wild beasts of the earth; that all the earth may know that there is a God in Israel.
 <small><sub>**BSB:**</sub></small>
 This day the LORD will deliver you into my hand. This day I will strike you down, cut off your head, and give the carcasses of the Philistine army to the birds of the air and the creatures of the earth. Then the whole world will know that there is a God in Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֡ה]] [[H5462\|יְסַגֶּרְ]][[H9031\|ךָ֩]] [[H3068G\|יְהוָ֨ה]] [[H9003\|בְּ]][[H3027H\|יָדִ֜]][[H9020\|י]] [[H9001\|וְ]][[H5221\|הִכִּיתִ֗]][[H9031\|ךָ]] [[H9001\|וַ]][[H5493G\|הֲסִרֹתִ֤י]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹֽאשְׁ]][[H9021\|ךָ֙]] [[H9006\|מֵ]][[H5921A\|עָלֶ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H5414G\|נָ֨תַתִּ֜י]] [[H6297\|פֶּ֣גֶר]] [[H4264\|מַחֲנֵ֤ה]] [[H6430G\|פְלִשְׁתִּים֙]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9005\|לְ]][[H5775\|ע֥וֹף]] [[H9009\|הַ]][[H8064\|שָּׁמַ֖יִם]] [[H9002\|וּ]][[H9005\|לְ]][[H2416C\|חַיַּ֣ת]] [[H9009\|הָ]][[H0776H\|אָ֑רֶץ]] [[H9002\|וְ]][[H3045\|יֵֽדְעוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H3588A\|כִּ֛י]] [[H3426\|יֵ֥שׁ]] [[H0430G\|אֱלֹהִ֖ים]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic COURAGE|COURAGE]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic SLING|SLING]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.45|<< 1 Samuel 17:45]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.47|1 Samuel 17:47 >>]]</td></tr></table>
 

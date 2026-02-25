@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: John’s Inquiry
+type: Pericope
 pericope: "[[Matt.11.1 John’s Inquiry|John’s Inquiry]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 11
 book/chapter: "[[Matt.11|Matthew 11]]"
-genre:
+chronological_order: 955
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.11.1]]"
 - "[[Matt.11.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.11.6]]"
 ---
 
-[[Matt.11|Matthew 11:1 - Matthew 11:6]]
+<small>[[Matt.11|Matthew 11:1-6]]</small>
 *John’s Inquiry*
 
 [[Matt.11.1|1]] And it came to pass, when Jesus had made an end of commanding his twelve disciples, he departed thence to teach and to preach in their cities.

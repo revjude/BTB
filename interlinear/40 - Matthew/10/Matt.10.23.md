@@ -1,10 +1,68 @@
+---
+title: Matthew 10:23
+type: Verse
+kjv: "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come."
+bsb: "When they persecute you in one town, flee to the next. Truly I tell you, you will not reach all the towns of Israel before the Son of Man comes."
+jesus_said: "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come."
+greek: "Ὅταν δὲ διώκωσιν ὑμᾶς ἐν τῇ πόλει ταύτῃ, φεύγετε εἰς τὴν ἑτέραν· ἀμὴν γὰρ λέγω ὑμῖν· οὐ μὴ τελέσητε τὰς πόλεις τοῦ Ἰσραὴλ ἕως ἂν ἔλθῃ ὁ υἱὸς τοῦ ἀνθρώπου.¶"
+pericope: "[[Matt.10.16 Sheep among Wolves|Sheep among Wolves]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 10
+book/chapter: "[[Matt.10|Matthew 10]]"
+chronological_order: 954
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G3752]]"
+- "[[G1161]]"
+- "[[G1377]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3778]]"
+- "[[G5343]]"
+- "[[G1519]]"
+- "[[G2087]]"
+- "[[G0281]]"
+- "[[G1063]]"
+- "[[G3004G]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G5055]]"
+- "[[G2474]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G2064]]"
+- "[[G5207]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 10:23**<big><big>[[Matt.10.16 Sheep among Wolves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come.
 <small><sub>**BSB:**</sub></small>
 When they persecute you in one town, flee to the next. Truly I tell you, you will not reach all the towns of Israel before the Son of Man comes.
-<small><sub>**Literal:**</sub></small>
-Whenever then they may persecute you in the city one, do flee to <the> a different; Amen for I say to you; certainly not shall you have completed the cities <the> of Israel until when may come the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.22|<< Matthew 10:22]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.24|Matthew 10:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|Ὅταν]]  [[G1161\|δὲ]]  [[G1377\|διώκωσιν]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4172\|πόλει]]  [[G3778\|ταύτῃ,]]  [[G5343\|φεύγετε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2087\|ἑτέραν·]]  [[G0281\|ἀμὴν]]  [[G1063\|γὰρ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G5055\|τελέσητε]]  [[G3588\|τὰς]]  [[G4172\|πόλεις]]  [[G3588\|τοῦ]]  [[G2474\|Ἰσραὴλ]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G2064\|ἔλθῃ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.10.22|<< Matthew 10:22]]</td><td align="center" style="border:none;">[[Matt.10|Matthew 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.10.24|Matthew 10:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

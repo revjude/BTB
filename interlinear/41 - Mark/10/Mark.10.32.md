@@ -1,10 +1,64 @@
+---
+title: Mark 10:32
+type: Verse
+kjv: "And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,"
+bsb: "As they were going up the road to Jerusalem, Jesus was walking ahead of them. The disciples were amazed, but those who followed were afraid. Again Jesus took the Twelve aside and began to tell them what was going to happen to Him:"
+greek: "Ἦσαν δὲ ἐν τῇ ὁδῷ ἀναβαίνοντες εἰς Ἱεροσόλυμα, καὶ ἦν προάγων αὐτοὺς ὁ Ἰησοῦς, καὶ ἐθαμβοῦντο· οἱ δὲ ἀκολουθοῦντες ἐφοβοῦντο.¶ Καὶ παραλαβὼν πάλιν τοὺς δώδεκα ἤρξατο αὐτοῖς λέγειν τὰ μέλλοντα αὐτῷ συμβαίνειν"
+pericope: "[[Mark.10.32 The Third Prediction of the Passion|The Third Prediction of the Passion]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3598]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G2532]]"
+- "[[G4254]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G2284]]"
+- "[[G0190]]"
+- "[[G5399]]"
+- "[[G3880]]"
+- "[[G3825]]"
+- "[[G1427]]"
+- "[[G0757]]"
+- "[[G3004G]]"
+- "[[G3195]]"
+- "[[G4819]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Mark 10:32**<big><big>[[Mark.10.32 The Third Prediction of the Passion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were in the way going up to Jerusalem; and Jesus went before them: and they were amazed; and as they followed, they were afraid. And he took again the twelve, and began to tell them what things should happen unto him,
 <small><sub>**BSB:**</sub></small>
 As they were going up the road to Jerusalem, Jesus was walking ahead of them. The disciples were amazed, but those who followed were afraid. Again Jesus took the Twelve aside and began to tell them what was going to happen to Him:
-<small><sub>**Literal:**</sub></small>
-They were then on the way going up to Jerusalem, and was going on before them <the> Jesus, and they were astonished; those then following were afraid. And having brought to [Himself] again the Twelve He began them to tell the [things] are being soon to Him to happen<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.31|<< Mark 10:31]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.33|Mark 10:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|Ἦσαν]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3598\|ὁδῷ]]  [[G0305\|ἀναβαίνοντες]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα,]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G4254\|προάγων]]  [[G0846\|αὐτοὺς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G2532\|καὶ]]  [[G2284\|ἐθαμβοῦντο·]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0190\|ἀκολουθοῦντες]]  [[G5399\|ἐφοβοῦντο.¶]]  [[G2532\|Καὶ]]  [[G3880\|παραλαβὼν]]  [[G3825\|πάλιν]]  [[G3588\|τοὺς]]  [[G1427\|δώδεκα]]  [[G0757\|ἤρξατο]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγειν]]  [[G3588\|τὰ]]  [[G3195\|μέλλοντα]]  [[G0846\|αὐτῷ]]  [[G4819\|συμβαίνειν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.31|<< Mark 10:31]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.33|Mark 10:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

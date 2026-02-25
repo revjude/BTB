@@ -21,11 +21,11 @@
 
 → Recommended by Paul to Timothy  [[1Tim.5.23|1Ti 5:23]]
 
-→ Used at meals [[Matt.26.27|Mt 26:27]]-[[Matt.26.29|29]]; [[Mark.14.23|Mr 14:23]]
+→ Used at meals [[Matt.26.27|Mt 26:27-29]]; [[Mark.14.23|Mr 14:23]]
 
 → Made by Jesus at the marriage feast in Cana [[John.2.9|Joh 2:9]],[[John.2.10|10]]
 
-→ Sacramental use of [[Matt.26.27|Mt 26:27]]-[[Matt.26.29|29]]; [[Luke.22.17|Lu 22:17]]-[[Luke.22.20|20]]
+→ Sacramental use of [[Matt.26.27|Mt 26:27-29]]; [[Luke.22.17|Lu 22:17-20]]
 
 → Forbidden to priests while on duty [[Lev.10.9|Le 10:9]]; [[Ezek.44.21|Eze 44:21]]
 
@@ -97,7 +97,7 @@
 
 → SYMBOLICAL
 
-- Of the blood of Jesus [[Matt.26.28|Mt 26:28]]; [[Mark.14.23|Mr 14:23]],[[Mark.14.24|24]]; [[Luke.22.20|Lu 22:20]];  [[John.6.53|Joh 6:53]]-[[John.6.56|56]]
+- Of the blood of Jesus [[Matt.26.28|Mt 26:28]]; [[Mark.14.23|Mr 14:23]],[[Mark.14.24|24]]; [[Luke.22.20|Lu 22:20]];  [[John.6.53|Joh 6:53-56]]
 
 → UNCLASSIFIED SCRIPTURES RELATING TO [[Deut.14.26|De 14:26]]; [[Deut.33.28|33:28]];  [[2Kgs.18.32|2Ki 18:32]]; [[2Chr.32.28|2Ch 32:28]]; [[Neh.10.39|Ne 10:39]]; [[Ps.4.7|Ps 4:7]]; [[Ps.104.14|104:14]],[[Ps.104.15|15]]; [[Prov.31.6|Pr 31:6]],[[Prov.31.7|7]]; [[Eccl.2.3|Ec 2:3]],[[Eccl.2.11|11]]; [[Isa.56.12|Isa 56:12]];  [[Hos.2.8|Ho 2:8]],[[Hos.2.22|22]]; [[Hos.7.14|7:14]]; [[Joel.1.5|Joe 1:5]]; [[Joel.2.24|2:24]]; [[Joel.3.3|3:3]]; [[Amos.6.6|Am 6:6]]; [[Hab.2.5|Hab 2:5]]; [[Hag.1.11|Hag 1:11]]; [[Zech.9.17|Zec 9:17]]; [[Zech.10.7|10:7]];  [[1Tim.5.23|1Ti 5:23]]
 
@@ -105,7 +105,7 @@
 
 - See [[topic VINEYARD|VINEYARD]]
 
-→ ADMONITIONS AGAINST THE USE OF [[Lev.10.9|Le 10:9]]; [[Num.6.3|Nu 6:3]]; [[Judg.13.4|Jud  13:4]]; [[Prov.20.1|Pr 20:1]]; [[Prov.21.17|21:17]]; [[Prov.23.29|23:29]]-[[Prov.23.32|32]]; [[Prov.31.4|31:4]],[[Prov.31.5|5]]; [[Isa.5.11|Isa 5:11]],[[Isa.5.22|22]]; [[Isa.24.9|24:9]]; [[Isa.28.1|28:1]],[[Isa.28.3|3]],[[Isa.28.7|7]]; [[Jer.23.9|Jer 23:9]]; [[Jer.35.2|35:2]]-[[Jer.35.10|10]],[[Jer.35.14|14]],[[Jer.35.18|18]],[[Jer.35.19|19]];  [[Ezek.44.21|Eze 44:21]]; [[Hos.4.11|Ho 4:11]]; [[Luke.1.15|Lu 1:15]]; [[Rom.14.21|Ro 14:21]]; [[Eph.5.18|Eph 5:18]]; [[Titus.2.3|Tit 2:3]]
+→ ADMONITIONS AGAINST THE USE OF [[Lev.10.9|Le 10:9]]; [[Num.6.3|Nu 6:3]]; [[Judg.13.4|Jud  13:4]]; [[Prov.20.1|Pr 20:1]]; [[Prov.21.17|21:17]]; [[Prov.23.29|23:29-32]]; [[Prov.31.4|31:4]],[[Prov.31.5|5]]; [[Isa.5.11|Isa 5:11]],[[Isa.5.22|22]]; [[Isa.24.9|24:9]]; [[Isa.28.1|28:1]],[[Isa.28.3|3]],[[Isa.28.7|7]]; [[Jer.23.9|Jer 23:9]]; [[Jer.35.2|35:2-10]],[[Jer.35.14|14]],[[Jer.35.18|18]],[[Jer.35.19|19]];  [[Ezek.44.21|Eze 44:21]]; [[Hos.4.11|Ho 4:11]]; [[Luke.1.15|Lu 1:15]]; [[Rom.14.21|Ro 14:21]]; [[Eph.5.18|Eph 5:18]]; [[Titus.2.3|Tit 2:3]]
 
 - See [[topic ABSTINENCE|ABSTINENCE]]
 

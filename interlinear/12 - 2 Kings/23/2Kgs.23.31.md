@@ -1,8 +1,66 @@
+---
+title: 2 Kings 23:31
+type: Verse
+kjv: "Jehoahaz was twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother’s name was Hamutal, the daughter of Jeremiah of Libnah."
+bsb: "Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וְשָׁלֹ֤שׁ שָׁנָה֙ יְהוֹאָחָ֣ז בְּמָלְכ֔וֹ וּשְׁלֹשָׁ֣ה חֳדָשִׁ֔ים מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ חֲמוּטַ֥ל בַּֽת־ יִרְמְיָ֖הוּ מִלִּבְנָֽה׃"
+pericope: "[[2Kgs.23.31 Jehoahaz Succeeds Josiah|Jehoahaz Succeeds Josiah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic HAMUTAL|HAMUTAL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOAHAZ|JEHOAHAZ]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PHARAOH|PHARAOH]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H8141]]"
+- "[[H3059H]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H2320G]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H2537]]"
+- "[[H1323G]]"
+- "[[H3414G]]"
+- "[[H9006]]"
+- "[[H3841H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 23:31**<big><big>[[2Kgs.23.31 Jehoahaz Succeeds Josiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehoahaz [was] twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother’s name [was] Hamutal, the daughter of Jeremiah of Libnah.
 <small><sub>**BSB:**</sub></small>
 Jehoahaz was twenty-three years old when he became king, and he reigned in Jerusalem three months. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H7969\|שָׁלֹ֤שׁ]] [[H8141\|שָׁנָה֙]] [[H3059H\|יְהוֹאָחָ֣ז]] [[H9003\|בְּ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁ֣ה]] [[H2320G\|חֳדָשִׁ֔ים]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H2537\|חֲמוּטַ֥ל]] [[H1323G\|בַּֽת]][[H9014\|־]] [[H3414G\|יִרְמְיָ֖הוּ]] [[H9006\|מִ]][[H3841H\|לִּבְנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic HAMUTAL|HAMUTAL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOAHAZ|JEHOAHAZ]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PHARAOH|PHARAOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.30|<< 2 Kings 23:30]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.32|2 Kings 23:32 >>]]</td></tr></table>
 

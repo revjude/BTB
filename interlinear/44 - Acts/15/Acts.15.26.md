@@ -1,10 +1,63 @@
+---
+title: Acts 15:26
+type: Verse
+kjv: "Men that have hazarded their lives for the name of our Lord Jesus Christ."
+bsb: "men who have risked their lives for the name of our Lord Jesus Christ."
+greek: "ἀνθρώποις παραδεδωκόσιν τὰς ψυχὰς αὐτῶν ὑπὲρ τοῦ ὀνόματος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ."
+pericope: "[[Acts.15.22 The Letter to the Gentile Believers|The Letter to the Gentile Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 15
+book/chapter: "[[Acts.15|Acts 15]]"
+chronological_order: 1038
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic ELDER|ELDER]]"
+- "[[topic EPISTLES|EPISTLES]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic LAW|LAW]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic TITUS|TITUS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0444]]"
+- "[[G3860]]"
+- "[[G3588]]"
+- "[[G5590H]]"
+- "[[G0846]]"
+- "[[G5228]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Acts 15:26**<big><big>[[Acts.15.22 The Letter to the Gentile Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Men that have hazarded their lives for the name of our Lord Jesus Christ.
 <small><sub>**BSB:**</sub></small>
 men who have risked their lives for the name of our Lord Jesus Christ.
-<small><sub>**Literal:**</sub></small>
-men having handed over the lives of them for the name of the Lord of us Jesus Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.25|<< Acts 15:25]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.27|Acts 15:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0444\|ἀνθρώποις]]  [[G3860\|παραδεδωκόσιν]]  [[G3588\|τὰς]]  [[G5590H\|ψυχὰς]]  [[G0846\|αὐτῶν]]  [[G5228\|ὑπὲρ]]  [[G3588\|τοῦ]]  [[G3686\|ὀνόματος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic CHURCH|CHURCH]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic COUNCIL|COUNCIL]] • [[topic DOCTRINES|DOCTRINES]] • [[topic ELDER|ELDER]] • [[topic EPISTLES|EPISTLES]] • [[topic GENTILES|GENTILES]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic LAW|LAW]] • [[topic SILAS|SILAS]] • [[topic TITUS|TITUS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.15.25|<< Acts 15:25]]</td><td align="center" style="border:none;">[[Acts.15|Acts 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.15.27|Acts 15:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

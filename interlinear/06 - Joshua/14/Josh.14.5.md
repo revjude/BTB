@@ -1,8 +1,53 @@
+---
+title: Joshua 14:5
+type: Verse
+kjv: "As the LORD commanded Moses, so the children of Israel did, and they divided the land."
+bsb: "So the Israelites did as the LORD had commanded Moses, and they divided the land."
+hebrew: "כַּאֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ אֶת־ מֹשֶׁ֔ה כֵּ֥ן עָשׂ֖וּ בְּנֵ֣י יִשְׂרָאֵ֑ל וַֽיַּחְלְק֖וּ אֶת־ הָאָֽרֶץ׃ פ"
+pericope: "[[Josh.14.1 Land Division West of the Jordan|Land Division West of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 14
+book/chapter: "[[Josh.14|Joshua 14]]"
+chronological_order: 244
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H2505A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Joshua 14:5**<big><big>[[Josh.14.1 Land Division West of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the LORD commanded Moses, so the children of Israel did, and they divided the land.
 <small><sub>**BSB:**</sub></small>
 So the Israelites did as the LORD had commanded Moses, and they divided the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֤ה]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H3651C\|כֵּ֥ן]] [[H6213A\|עָשׂ֖וּ]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַֽ]][[H2505A\|יַּחְלְק֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.14.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.4|<< Joshua 14:4]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.6|Joshua 14:6 >>]]</td></tr></table>
 
@@ -19,7 +64,7 @@ So the Israelites did as the LORD had commanded Moses, and they divided the land
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֑ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they apportioned  |**<big>&#8207;[[H9001\|וַֽ]]&#8207;&#8207;[[H2505A\|יַּחְלְק֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yach.le.Ku<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָֽרֶץ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.4|<< Joshua 14:4]]</td><td align="center" style="border:none;">[[Josh.14|Joshua 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.14.6|Joshua 14:6 >>]]</td></tr></table>
 
 

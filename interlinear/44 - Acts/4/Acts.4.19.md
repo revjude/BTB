@@ -1,10 +1,72 @@
+---
+title: Acts 4:19
+type: Verse
+kjv: "But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye."
+bsb: "But Peter and John replied, “Judge for yourselves whether it is right in God’s sight to listen to you rather than God."
+greek: "Ὁ δὲ Πέτρος καὶ Ἰωάννης ἀποκριθέντες εἶπον πρὸς αὐτούς· εἰ δίκαιόν ἐστιν ἐνώπιον τοῦ θεοῦ ὑμῶν ἀκούειν μᾶλλον ἢ τοῦ θεοῦ, κρίνατε."
+pericope: "[[Acts.4.13 The Name Forbidden|The Name Forbidden]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G2491H]]"
+- "[[G0611]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G1342]]"
+- "[[G1510]]"
+- "[[G1799]]"
+- "[[G2316]]"
+- "[[G4771]]"
+- "[[G0191]]"
+- "[[G3123H]]"
+- "[[G2228]]"
+- "[[G2919]]"
+texts:
+- NKO
+---
+
 **Acts 4:19**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye.
 <small><sub>**BSB:**</sub></small>
 But Peter and John replied, “Judge for yourselves whether it is right in God’s sight to listen to you rather than God.
-<small><sub>**Literal:**</sub></small>
-<the> But Peter and John answering said to them; Whether right it is before <the> God to you to listen rather than <the> God, you should judge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.18|<< Acts 4:18]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.20|Acts 4:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G2491H\|Ἰωάννης]]  [[G0611\|ἀποκριθέντες]]  [[G2036\|εἶπον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G1487G\|εἰ]]  [[G1342\|δίκαιόν]]  [[G1510\|ἐστιν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G4771\|ὑμῶν]]  [[G0191\|ἀκούειν]]  [[G3123H\|μᾶλλον]]  [[G2228\|ἢ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2919\|κρίνατε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic COURAGE|COURAGE]] • [[topic COURT|COURT]] • [[topic DUTY|DUTY]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.18|<< Acts 4:18]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.20|Acts 4:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

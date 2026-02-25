@@ -1,8 +1,75 @@
+---
+title: Numbers 11:11
+type: Verse
+kjv: "And Moses said unto the LORD, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me?"
+bsb: "So Moses asked the LORD, “Why have You brought this trouble on Your servant? Why have I not found favor in Your sight, that You have laid upon me the burden of all these people?"
+hebrew: "וַיֹּ֨אמֶר מֹשֶׁ֜ה אֶל־ יְהוָ֗ה לָמָ֤ה הֲרֵעֹ֙תָ֙ לְעַבְדֶּ֔ךָ וְלָ֛מָּה לֹא־ מָצָ֥תִי חֵ֖ן בְּעֵינֶ֑יךָ לָשׂ֗וּם אֶת־ מַשָּׂ֛א כָּל־ הָעָ֥ם הַזֶּ֖ה עָלָֽי׃"
+pericope: "[[Num.11.10 The Complaint of Moses|The Complaint of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7489A]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H7760H]]"
+- "[[H0853]]"
+- "[[H4853A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:11**<big><big>[[Num.11.10 The Complaint of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto the LORD, Wherefore hast thou afflicted thy servant? and wherefore have I not found favour in thy sight, that thou layest the burden of all this people upon me?
 <small><sub>**BSB:**</sub></small>
 So Moses asked the LORD, “Why have You brought this trouble on Your servant? Why have I not found favor in Your sight, that You have laid upon me the burden of all these people?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H4872\|מֹשֶׁ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לָ]][[H4100\|מָ֤ה]] [[H7489A\|הֲרֵעֹ֙תָ֙]] [[H9005\|לְ]][[H5650\|עַבְדֶּ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H9005\|לָ֛]][[H4100\|מָּה]] [[H3808\|לֹא]][[H9014\|־]] [[H4672\|מָצָ֥תִי]] [[H2580\|חֵ֖ן]] [[H9003\|בְּ]][[H5869H\|עֵינֶ֑י]][[H9021\|ךָ]] [[H9005\|לָ]][[H7760H\|שׂ֗וּם]] [[H0853\|אֶת]][[H9014\|־]] [[H4853A\|מַשָּׂ֛א]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H5921A\|עָלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic PRAYER|PRAYER]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.10|<< Numbers 11:10]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.12|Numbers 11:12 >>]]</td></tr></table>
 

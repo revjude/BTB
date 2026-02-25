@@ -1,6 +1,83 @@
+---
+title: LXX 2 Samuel 13:32
+type: Verse
+lxx: "And Jonadab son of Shimeah brother of David answered and said, Let not my master the king say that all the boys of the sons of the king he put to death! but only Amnon alone died, for by the mouth of Absalom it was situated to be from the day of which he abased Tamar  his sister."
+greek: "και απεκρίθη Ιωναδάβ υιός Σαμαά αδελφού Δαυίδ και είπε μη ειπάτω ο κύριός μου ο βασιλεύς ότι πάντα τα παιδάρια τους υιούς του βασιλέως εθανάτωσεν αλλ΄ η Αμνών μονώτατος απέθανεν ότι επί στόματος Αβεσαλώμ ην κείμενος από της ημέρας ης εταπείνωσε Θαμάρ την αδελφήν αυτού"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic JONADAB|JONADAB]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SHAMMAH|SHAMMAH]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G0611]]"
+- "[[H3082]]"
+- "[[G5207]]"
+- "[[H8093]]"
+- "[[G0080]]"
+- "[[G4622]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3361]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G3754]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3808]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2289]]"
+- "[[G6227]]"
+- "[[H0550]]"
+- "[[G3441]]"
+- "[[G0599]]"
+- "[[G3754]]"
+- "[[G1909]]"
+- "[[G4750]]"
+- "[[H0053]]"
+- "[[G1510]]"
+- "[[G2749]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3739]]"
+- "[[G5013]]"
+- "[[G2283]]"
+- "[[G3588]]"
+- "[[G0079]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Samuel 13:32** 
 <small><sub>**LXX:**</sub></small>
 And Jonadab son of Shimeah brother of David answered and said, Let not my master the king say that all the boys of the sons of the king he put to death! but only Amnon alone died, for by \[the\] mouth of Absalom it was situated to be from the day of which he abased Tamar  his sister. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G0611\|απεκρίθη]] [[H3082\|Ιωναδάβ]] [[G5207\|υιός]] [[H8093\|Σαμαά]] [[G0080\|αδελφού]] [[G4622\|Δαυίδ]] [[G2532\|και]] [[G2036\|είπε]] [[G3361\|μη]] [[G2036\|ειπάτω]] [[G3588\|ο]] [[G2962\|κύριός]] [[G1473\|μου]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G3754\|ότι]] [[G3956\|πάντα]] [[G3588\|τα]] [[G3808\|παιδάρια]] [[G3588\|τους]] [[G5207\|υιούς]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2289\|εθανάτωσεν]] [[G6227\|αλλ΄ η]] [[H0550\|Αμνών]] [[G3441\|μονώτατος]] [[G0599\|απέθανεν]] [[G3754\|ότι]] [[G1909\|επί]] [[G4750\|στόματος]] [[H0053\|Αβεσαλώμ]] [[G1510\|ην]] [[G2749\|κείμενος]] [[G0575\|από]] [[G3588\|της]] [[G2250\|ημέρας]] [[G3739\|ης]] [[G5013\|εταπείνωσε]] [[G2283\|Θαμάρ]] [[G3588\|την]] [[G0079\|αδελφήν]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JONADAB|JONADAB]] • [[topic RAPE|RAPE]] • [[topic SHAMMAH|SHAMMAH]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.13.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.31|<< 2 Samuel 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.33|2 Samuel 13:33 >>]]</td></tr></table>
 
@@ -48,6 +125,6 @@ And Jonadab son of Shimeah brother of David answered and said, Let not my master
 | Tamar | **<big>[[G2283\|Θαμάρ]]</big>** |
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
 | his sister. | **<big>[[G0079\|αδελφήν]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[2Sam.13.32|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.31|<< 2 Samuel 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.33|2 Samuel 13:33 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.13.31|<< 2 Samuel 13:31]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.13.33|2 Samuel 13:33 >>]]</td></tr></table>
 
 

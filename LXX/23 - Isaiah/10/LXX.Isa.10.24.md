@@ -1,6 +1,68 @@
+---
+title: LXX Isaiah 10:24
+type: Verse
+lxx: "On account of this, Thus says the lord of Hosts, Do not fear, my people, O ones dwelling in Zion from the Assyrians! For with a rod he shall strike you, For he brings a calamity upon you  beholding the way of Egypt."
+greek: "διά τούτο τάδε λέγει κύριος σαβαώθ μη φοβού λαός μου οι κατοικούντες εν Σιών από Ασσυρίων ότι εν ράβδω πατάξει σε πληγήν πληγήν γαρ επάγει επί σε του ιδείν οδόν Αιγύπτου"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G4519]]"
+- "[[G3361]]"
+- "[[G5399]]"
+- "[[G2992]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G2730]]"
+- "[[G1722]]"
+- "[[G4622]]"
+- "[[G0575]]"
+- "[[H0804]]"
+- "[[G3754]]"
+- "[[G1722]]"
+- "[[G4464]]"
+- "[[G3960]]"
+- "[[G1473]]"
+- "[[G4127]]"
+- "[[G1063]]"
+- "[[G1063]]"
+- "[[G1863]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G1492]]"
+- "[[G3598]]"
+- "[[G0125]]"
+---
+
 **LXX Isaiah 10:24** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says \[the\] <span class="smallcaps">lord</span> of Hosts, Do not fear, my people, O ones dwelling in Zion from \[the\] Assyrians! For with a rod he shall strike you, For he brings a calamity upon you  beholding \[the\] way of Egypt. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G4519\|σαβαώθ]] [[G3361\|μη]] [[G5399\|φοβού]] [[G2992\|λαός]] [[G1473\|μου]] [[G3588\|οι]] [[G2730\|κατοικούντες]] [[G1722\|εν]] [[G4622\|Σιών]] [[G0575\|από]] [[H0804\|Ασσυρίων]] [[G3754\|ότι]] [[G1722\|εν]] [[G4464\|ράβδω]] [[G3960\|πατάξει]] [[G1473\|σε]] [[G4127\|πληγήν]] <sup><small>[[G1063\| [ • ] ]]</small></sup> [[G1063\|γαρ]] [[G1863\|επάγει]] [[G1909\|επί]] [[G1473\|σε]] [[G3588\|του]] [[G1492\|ιδείν]] [[G3598\|οδόν]] [[G0125\|Αιγύπτου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.23|<< Isaiah 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.25|Isaiah 10:25 >>]]</td></tr></table>
 
@@ -35,6 +97,6 @@ On account of this, Thus says \[the\] <span class="smallcaps">lord</span> of Hos
 | beholding | **<big>[[G1492\|ιδείν]]</big>** |
 | \[the\] way | **<big>[[G3598\|οδόν]]</big>** |
 | of Egypt. | **<big>[[G0125\|Αιγύπτου]]</big>** |
-[[Isa.10.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.23|<< Isaiah 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.25|Isaiah 10:25 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.10.23|<< Isaiah 10:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.10.25|Isaiah 10:25 >>]]</td></tr></table>
 
 

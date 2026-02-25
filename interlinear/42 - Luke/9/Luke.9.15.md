@@ -1,10 +1,49 @@
+---
+title: Luke 9:15
+type: Verse
+kjv: "And they did so, and made them all sit down."
+bsb: "They did so, and everyone was seated."
+greek: "καὶ ἐποίησαν οὕτως καὶ κατέκλιναν ἅπαντας."
+pericope: "[[Luke.9.10 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160G]]"
+- "[[G3779]]"
+- "[[G2625]]"
+- "[[G0537]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 9:15**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they did so, and made them all sit down.
 <small><sub>**BSB:**</sub></small>
 They did so, and everyone was seated.
-<small><sub>**Literal:**</sub></small>
-And they did so and he sat all.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.14|<< Luke 9:14]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.16|Luke 9:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4160G\|ἐποίησαν]]  [[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G2625\|κατέκλιναν]]  [[G0537\|ἅπαντας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.14|<< Luke 9:14]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.16|Luke 9:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

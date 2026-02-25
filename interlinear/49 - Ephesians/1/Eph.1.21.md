@@ -1,10 +1,61 @@
+---
+title: Ephesians 1:21
+type: Verse
+kjv: "Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:"
+bsb: "far above all rule and authority, power and dominion, and every name that is named, not only in the present age but also in the one to come."
+greek: "ὑπεράνω πάσης ἀρχῆς καὶ ἐξουσίας καὶ δυνάμεως καὶ κυριότητος καὶ παντὸς ὀνόματος ὀνομαζομένου οὐ μόνον ἐν τῷ αἰῶνι τούτῳ ἀλλὰ καὶ ἐν τῷ μέλλοντι,"
+pericope: "[[Eph.1.15 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G5231]]"
+- "[[G3956]]"
+- "[[G0746]]"
+- "[[G2532]]"
+- "[[G1849]]"
+- "[[G1411]]"
+- "[[G2963]]"
+- "[[G3686]]"
+- "[[G3687]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G0165G]]"
+- "[[G3778]]"
+- "[[G0235]]"
+- "[[G3195]]"
+texts:
+- NKO
+---
+
 **Ephesians 1:21**<big><big>[[Eph.1.15 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Far above all principality, and power, and might, and dominion, and every name that is named, not only in this world, but also in that which is to come:
 <small><sub>**BSB:**</sub></small>
 far above all rule and authority, power and dominion, and every name that is named, not only in the present age but also in the one to come.
-<small><sub>**Literal:**</sub></small>
-above every principality and authority and power and dominion and every name being named not only in <the> age this but also in the [one] coming,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.20|<< Ephesians 1:20]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.22|Ephesians 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5231\|ὑπεράνω]]  [[G3956\|πάσης]]  [[G0746\|ἀρχῆς]]  [[G2532\|καὶ]]  [[G1849\|ἐξουσίας]]  [[G2532\|καὶ]]  [[G1411\|δυνάμεως]]  [[G2532\|καὶ]]  [[G2963\|κυριότητος]]  [[G2532\|καὶ]]  [[G3956\|παντὸς]]  [[G3686\|ὀνόματος]]  [[G3687\|ὀνομαζομένου]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0165G\|αἰῶνι]]  [[G3778\|τούτῳ]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3195\|μέλλοντι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.1.20|<< Ephesians 1:20]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.22|Ephesians 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

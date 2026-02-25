@@ -1,10 +1,70 @@
+---
+title: John 7:39
+type: Verse
+kjv: "(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)"
+bsb: "He was speaking about the Spirit, whom those who believed in Him were later to receive. For the Spirit had not yet been given, because Jesus had not yet been glorified."
+greek: "τοῦτο δὲ εἶπεν περὶ τοῦ πνεύματος ὃ ἔμελλον λαμβάνειν οἱ πιστεύσαντες εἰς αὐτόν· οὔπω γὰρ ἦν πνεῦμα ἅγιον δεδομένον, ὅτι ὃ Ἰησοῦς οὐδέπω ἐδοξάσθη.¶"
+pericope: "[[John.7.37 Living Water|Living Water]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[G3778]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G3739]]"
+- "[[G3195]]"
+- "[[G2983]]"
+- "[[G4100]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G3768]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G0040G]]"
+- "[[G1325]]"
+- "[[G3754H]]"
+- "[[G2424G]]"
+- "[[G3764]]"
+- "[[G1392]]"
+texts:
+- NKO
+- N(k)O
+- KO
+- O
+- k
+---
+
 **John 7:39**<big><big>[[John.7.37 Living Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet [given]; because that Jesus was not yet glorified.)
 <small><sub>**BSB:**</sub></small>
 He was speaking about the Spirit, whom those who believed in Him were later to receive. For the Spirit had not yet been given, because Jesus had not yet been glorified.
-<small><sub>**Literal:**</sub></small>
-This now He said concerning the Spirit which were about to receive those having believed in Him; not yet for was [the] Spirit Holy given because <the> Jesus not yet was glorified.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.38|<< John 7:38]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.40|John 7:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G3739\|ὃ]]  [[G3195\|ἔμελλον]]  [[G2983\|λαμβάνειν]]  [[G3588\|οἱ]]  [[G4100\|πιστεύσαντες]]  [[G1519\|εἰς]]  [[G0846\|αὐτόν·]]  [[G3768\|οὔπω]]  [[G1063\|γὰρ]]  [[G1510\|ἦν]]  [[G4151G\|πνεῦμα]]  [[G0040G\|ἅγιον]]  [[G1325\|δεδομένον,]]  [[G3754H\|ὅτι]]  [[G3588\|ὃ]]  [[G2424G\|Ἰησοῦς]]  [[G3764\|οὐδέπω]]  [[G1392\|ἐδοξάσθη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TRINITY|TRINITY]] • [[topic WATER|WATER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.38|<< John 7:38]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.40|John 7:40 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 7:39** is...
 > $\quad$ alluding to: [[LXX.Isa.44.3|Isa 44:3]]

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Old Prophet and the Man of God
+type: Pericope
 pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 13
 book/chapter: "[[1Kgs.13|1 Kings 13]]"
-genre:
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 24
 verses:
 - "[[1Kgs.13.11]]"
 - "[[1Kgs.13.12]]"
@@ -44,7 +51,7 @@ verses:
 - "[[1Kgs.13.34]]"
 ---
 
-[[1Kgs.13|1 Kings 13:11 - 1 Kings 13:34]]
+<small>[[1Kgs.13|1 Kings 13:11-34]]</small>
 *The Old Prophet and the Man of God*
 
 [[1Kgs.13.11|11]] Now there dwelt an old prophet in Bethel; and his sons came and told him all the works that the man of God had done that day in Bethel: the words which he had spoken unto the king, them they told also to their father.

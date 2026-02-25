@@ -1,10 +1,54 @@
+---
+title: 1 Corinthians 7:3
+type: Verse
+kjv: "Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband."
+bsb: "The husband should fulfill his marital duty to his wife, and likewise the wife to her husband."
+greek: "τῇ γυναικὶ ὁ ἀνὴρ τὴν ὀφειλὴν εὔνοιαν ἀποδιδότω· ὁμοίως δὲ καὶ ἡ γυνὴ τῷ ἀνδρί."
+pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1135H]]"
+- "[[G0435H]]"
+- "[[G3782]]"
+- "[[G2133]]"
+- "[[G0591]]"
+- "[[G3668]]"
+- "[[G1161]]"
+- "[[G2532]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **1 Corinthians 7:3**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let the husband render unto the wife due benevolence: and likewise also the wife unto the husband.
 <small><sub>**BSB:**</sub></small>
 The husband should fulfill his marital duty to his wife, and likewise the wife to her husband.
-<small><sub>**Literal:**</sub></small>
-To the wife the husband the debt good will should fulfill; likewise now also the wife to the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.2|<< 1 Corinthians 7:2]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.4|1 Corinthians 7:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῇ]]  [[G1135H\|γυναικὶ]]  [[G3588\|ὁ]]  [[G0435H\|ἀνὴρ]]  [[G3588\|τὴν]]  [[G3782\|ὀφειλὴν]]  [[G2133\|εὔνοιαν]]  [[G0591\|ἀποδιδότω·]]  [[G3668\|ὁμοίως]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135H\|γυνὴ]]  [[G3588\|τῷ]]  [[G0435H\|ἀνδρί.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENCE|CONTINENCE]] • [[topic HUSBAND|HUSBAND]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.2|<< 1 Corinthians 7:2]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.4|1 Corinthians 7:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

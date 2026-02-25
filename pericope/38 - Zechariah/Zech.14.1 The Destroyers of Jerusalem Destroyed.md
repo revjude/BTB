@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Destroyers of Jerusalem Destroyed
+type: Pericope
 pericope: "[[Zech.14.1 The Destroyers of Jerusalem Destroyed|The Destroyers of Jerusalem Destroyed]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 14
 book/chapter: "[[Zech.14|Zechariah 14]]"
-genre:
+chronological_order: 870
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 15
 verses:
 - "[[Zech.14.1]]"
 - "[[Zech.14.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Zech.14.15]]"
 ---
 
-[[Zech.14|Zechariah 14:1 - Zechariah 14:15]]
+<small>[[Zech.14|Zechariah 14:1-15]]</small>
 *The Destroyers of Jerusalem Destroyed*
 
 [[Zech.14.1|1]] Behold, the day of the LORD cometh, and thy spoil shall be divided in the midst of thee.

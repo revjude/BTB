@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Purification of the Nations
+type: Pericope
 pericope: "[[Zeph.3.6 Purification of the Nations|Purification of the Nations]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Zephaniah
 chapter: 3
 book/chapter: "[[Zeph.3|Zephaniah 3]]"
-genre:
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 3
 verses:
 - "[[Zeph.3.6]]"
 - "[[Zeph.3.7]]"
 - "[[Zeph.3.8]]"
 ---
 
-[[Zeph.3|Zephaniah 3:6 - Zephaniah 3:8]]
+<small>[[Zeph.3|Zephaniah 3:6-8]]</small>
 *Purification of the Nations*
 
 [[Zeph.3.6|6]] I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant.

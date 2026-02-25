@@ -1,8 +1,57 @@
+---
+title: Isaiah 33:17
+type: Verse
+kjv: "Thine eyes shall see the king in his beauty: they shall behold the land that is very far off."
+bsb: "Your eyes will see the King in His beauty and behold a land that stretches afar."
+hebrew: "מֶ֥לֶךְ בְּיָפְי֖וֹ תֶּחֱזֶ֣ינָה עֵינֶ֑יךָ תִּרְאֶ֖ינָה אֶ֥רֶץ מַרְחַקִּֽים׃"
+pericope: "[[Isa.33.1 The LORD Is Exalted|The LORD Is Exalted]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 33
+book/chapter: "[[Isa.33|Isaiah 33]]"
+chronological_order: 676
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H3308]]"
+- "[[H9023]]"
+- "[[H2372]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H7200G]]"
+- "[[H0776G]]"
+- "[[H4801]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 33:17**<big><big>[[Isa.33.1 The LORD Is Exalted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thine eyes shall see the king in his beauty: they shall behold the land that is very far off.
 <small><sub>**BSB:**</sub></small>
 Your eyes will see the King in His beauty and behold a land that stretches afar.
+<small><sub>**Hebrew:**</sub></small>
+[[H4428G\|מֶ֥לֶךְ]] [[H9003\|בְּ]][[H3308\|יָפְי֖]][[H9023\|וֹ]] [[H2372\|תֶּחֱזֶ֣ינָה]] [[H5869A\|עֵינֶ֑י]][[H9021\|ךָ]] [[H7200G\|תִּרְאֶ֖ינָה]] [[H0776G\|אֶ֥רֶץ]] [[H4801\|מַרְחַקִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.33.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.33.16|<< Isaiah 33:16]]</td><td align="center" style="border:none;">[[Isa.33|Isaiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.33.18|Isaiah 33:18 >>]]</td></tr></table>
 

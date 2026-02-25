@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Praise the LORD from the Heavens
+type: Pericope
 pericope: "[[Ps.148.1 Praise the LORD from the Heavens|Praise the LORD from the Heavens]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 148
 book/chapter: "[[Ps.148|Psalm 148]]"
-genre:
+chronological_order: 896
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 14
 verses:
 - "[[Ps.148.1]]"
 - "[[Ps.148.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ps.148.14]]"
 ---
 
-[[Ps.148|Psalm 148:1 - Psalm 148:14]]
+<small>[[Ps.148|Psalm 148:1-14]]</small>
 *Praise the LORD from the Heavens*
 
 [[Ps.148.1|1]] Praise ye the LORD. Praise ye the LORD from the heavens: praise him in the heights.

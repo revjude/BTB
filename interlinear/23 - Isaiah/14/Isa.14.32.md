@@ -1,8 +1,63 @@
+---
+title: Isaiah 14:32
+type: Verse
+kjv: "What shall one then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it."
+bsb: "What answer will be given to the envoys of that nation? “The LORD has founded Zion, where His afflicted people will find refuge.”"
+hebrew: "וּמַֽה־ יַּעֲנֶ֖ה מַלְאֲכֵי־ ג֑וֹי כִּ֤י יְהוָה֙ יִסַּ֣ד צִיּ֔וֹן וּבָ֥הּ יֶחֱס֖וּ עֲנִיֵּ֥י עַמּֽוֹ׃ ס"
+pericope: "[[Isa.14.28 Philistia Will Be Destroyed|Philistia Will Be Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 14
+book/chapter: "[[Isa.14|Isaiah 14]]"
+chronological_order: 631
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H9002]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H6030B]]"
+- "[[H4397G]]"
+- "[[H1471A]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H3245]]"
+- "[[H6726]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H2620]]"
+- "[[H6041]]"
+- "[[H5971A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 14:32**<big><big>[[Isa.14.28 Philistia Will Be Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What shall [one] then answer the messengers of the nation? That the LORD hath founded Zion, and the poor of his people shall trust in it.
 <small><sub>**BSB:**</sub></small>
 What answer will be given to the envoys of that nation? “The LORD has founded Zion, where His afflicted people will find refuge.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4100\|מַֽה]][[H9014\|־]] [[H6030B\|יַּעֲנֶ֖ה]] [[H4397G\|מַלְאֲכֵי]][[H9014\|־]] [[H1471A\|ג֑וֹי]] [[H3588A\|כִּ֤י]] [[H3068G\|יְהוָה֙]] [[H3245\|יִסַּ֣ד]] [[H6726\|צִיּ֔וֹן]] [[H9002\|וּ]][[H9003\|בָ֥]][[H9034\|הּ]] [[H2620\|יֶחֱס֖וּ]] [[H6041\|עֲנִיֵּ֥י]] [[H5971A\|עַמּֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHURCH|CHURCH]] • [[topic FAITH|FAITH]] • [[topic ISAIAH|ISAIAH]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.14.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.31|<< Isaiah 14:31]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.1|Isaiah 15:1 >>]]</td></tr></table>
 
@@ -19,7 +74,7 @@ What answer will be given to the envoys of that nation? “The LORD has founded 
 | and in it  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בָ֥]]&#8207;&#8207;[[H9034\|הּ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> Va<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will take refuge  |**<big>&#8207;[[H2620\|יֶחֱס֖וּ]]&#8207; </big>**| ye.che.Su<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] afflicted [people] of  |**<big>&#8207;[[H6041\|עֲנִיֵּ֥י]]&#8207; </big>**| 'a.ni.Yei<small><sup>[[HAampc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| people his  |**<big>&#8207;[[H5971A\|עַמּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| a.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| people his  |**<big>&#8207;[[H5971A\|עַמּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| a.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.14.31|<< Isaiah 14:31]]</td><td align="center" style="border:none;">[[Isa.14|Isaiah 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.15.1|Isaiah 15:1 >>]]</td></tr></table>
 
 

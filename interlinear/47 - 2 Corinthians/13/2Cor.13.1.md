@@ -1,10 +1,57 @@
+---
+title: 2 Corinthians 13:1
+type: Verse
+kjv: "This is the third time I am coming to you. In the mouth of two or three witnesses shall every word be established."
+bsb: "This is the third time I am coming to you. “Every matter must be established by the testimony of two or three witnesses.”"
+greek: "Τρίτον τοῦτο ἔρχομαι πρὸς ὑμᾶς. ἐπὶ στόματος δύο μαρτύρων καὶ τριῶν σταθήσεται πᾶν ῥῆμα."
+pericope: "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORINTH|CORINTH]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G5154]]"
+- "[[G3778]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G1909]]"
+- "[[G4750]]"
+- "[[G1417]]"
+- "[[G3144]]"
+- "[[G2532]]"
+- "[[G5140]]"
+- "[[G2476]]"
+- "[[G3956]]"
+- "[[G4487]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 13:1**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This [is] the third [time] I am coming to you. In the mouth of two or three witnesses shall every word be established.
 <small><sub>**BSB:**</sub></small>
 This is the third time I am coming to you. “Every matter must be established by the testimony of two or three witnesses.”
-<small><sub>**Literal:**</sub></small>
-Third this [time] I am coming to you. In [the] mouth of two witnesses or three will be established every declaration.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.21|<< 2 Corinthians 12:21]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.2|2 Corinthians 13:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5154\|Τρίτον]]  [[G3778\|τοῦτο]]  [[G2064\|ἔρχομαι]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς.]]  [[G1909\|ἐπὶ]]  [[G4750\|στόματος]]  [[G1417\|δύο]]  [[G3144\|μαρτύρων]]  [[G2532\|καὶ]]  [[G5140\|τριῶν]]  [[G2476\|σταθήσεται]]  [[G3956\|πᾶν]]  [[G4487\|ῥῆμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CORINTH|CORINTH]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WITNESS|WITNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.12.21|<< 2 Corinthians 12:21]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.2|2 Corinthians 13:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **2 Corinthians 13:1** is...
 > $\quad$ referencing: [[LXX.Deut.19.15|Deut 19:15]]

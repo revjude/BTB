@@ -1,8 +1,61 @@
+---
+title: Isaiah 13:22
+type: Verse
+kjv: "And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged."
+bsb: "Hyenas will howl in her fortresses and jackals in her luxurious palaces. Babylon’s time is at hand, and her days will not be prolonged."
+hebrew: "וְעָנָ֤ה אִיִּים֙ בְּאַלְמנוֹתָ֔יו וְתַנִּ֖ים בְּהֵ֣יכְלֵי עֹ֑נֶג וְקָר֤וֹב לָבוֹא֙ עִתָּ֔הּ וְיָמֶ֖יהָ לֹ֥א יִמָּשֵֽׁכוּ׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CYRUS|CYRUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030A]]"
+- "[[H0338]]"
+- "[[H9003]]"
+- "[[H0490]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8577A]]"
+- "[[H1964H]]"
+- "[[H6027]]"
+- "[[H7138]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H6256]]"
+- "[[H9024]]"
+- "[[H3117G]]"
+- "[[H3808]]"
+- "[[H4900]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:22**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the wild beasts of the islands shall cry in their desolate houses, and dragons in [their] pleasant palaces: and her time [is] near to come, and her days shall not be prolonged.
 <small><sub>**BSB:**</sub></small>
 Hyenas will howl in her fortresses and jackals in her luxurious palaces. Babylon’s time is at hand, and her days will not be prolonged.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6030A\|עָנָ֤ה]] [[H0338\|אִיִּים֙]] [[H9003\|בְּ]][[H0490\|אַלְמנוֹתָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H8577A\|תַנִּ֖ים]] [[H9003\|בְּ]][[H1964H\|הֵ֣יכְלֵי]] [[H6027\|עֹ֑נֶג]] [[H9002\|וְ]][[H7138\|קָר֤וֹב]] [[H9005\|לָ]][[H0935G\|בוֹא֙]] [[H6256\|עִתָּ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H3117G\|יָמֶ֖י]][[H9024\|הָ]] [[H3808\|לֹ֥א]] [[H4900\|יִמָּשֵֽׁכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CYRUS|CYRUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.21|<< Isaiah 13:21]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.14.1|Isaiah 14:1 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Titus 1:4
+type: Verse
+kjv: "To Titus, mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour."
+bsb: "To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Savior."
+greek: "Τίτῳ γνησίῳ τέκνῳ κατὰ κοινὴν πίστιν· χάρις καὶ εἰρήνη ἀπὸ θεοῦ πατρὸς καὶ κυρίου Χριστοῦ Ἰησοῦ τοῦ σωτῆρος ἡμῶν.¶"
+pericope: "[[Titus.1.1 Paul’s Greeting to Titus|Paul’s Greeting to Titus]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 1
+book/chapter: "[[Titus.1|Titus 1]]"
+chronological_order: 1132
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G5103]]"
+- "[[G1103]]"
+- "[[G5043]]"
+- "[[G2596]]"
+- "[[G2839H]]"
+- "[[G4102G]]"
+- "[[G5485]]"
+- "[[G2532]]"
+- "[[G1515]]"
+- "[[G0575]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G2962G]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G3588]]"
+- "[[G4990]]"
+- "[[G3165]]"
+texts:
+- NKO
+- N(K)O
+- K
+---
+
 **Titus 1:4**<big><big>[[Titus.1.1 Paul’s Greeting to Titus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To Titus, [mine] own son after the common faith: Grace, mercy, [and] peace, from God the Father and the Lord Jesus Christ our Saviour.
 <small><sub>**BSB:**</sub></small>
 To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Savior.
-<small><sub>**Literal:**</sub></small>
-To Titus [my] true child according to [our] common faith: Grace and peace from God [the] Father and Lord Christ Jesus the Savior of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.3|<< Titus 1:3]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.5|Titus 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5103\|Τίτῳ]]  [[G1103\|γνησίῳ]]  [[G5043\|τέκνῳ]]  [[G2596\|κατὰ]]  [[G2839H\|κοινὴν]]  [[G4102G\|πίστιν·]]  [[G5485\|χάρις]]  [[G2532\|καὶ]]  [[G1515\|εἰρήνη]]  [[G0575\|ἀπὸ]]  [[G2316\|θεοῦ]]  [[G3962\|πατρὸς]]  [[G2532\|καὶ]]  [[G2962G\|κυρίου]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G3588\|τοῦ]]  [[G4990\|σωτῆρος]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEACE|PEACE]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.1.3|<< Titus 1:3]]</td><td align="center" style="border:none;">[[Titus.1|Titus 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.1.5|Titus 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

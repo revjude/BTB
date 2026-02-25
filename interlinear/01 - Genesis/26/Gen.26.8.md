@@ -1,8 +1,74 @@
+---
+title: Genesis 26:8
+type: Verse
+kjv: "And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife."
+bsb: "When Isaac had been there a long time, Abimelech king of the Philistines looked down from the window and was surprised to see Isaac caressing his wife Rebekah."
+hebrew: "וַיְהִ֗י כִּ֣י אָֽרְכוּ־ ל֥וֹ שָׁם֙ הַיָּמִ֔ים וַיַּשְׁקֵ֗ף אֲבִימֶ֙לֶךְ֙ מֶ֣לֶךְ פְּלִשְׁתִּ֔ים בְּעַ֖ד הַֽחַלּ֑וֹן וַיַּ֗רְא וְהִנֵּ֤ה יִצְחָק֙ מְצַחֵ֔ק אֵ֖ת רִבְקָ֥ה אִשְׁתּֽוֹ׃"
+pericope: "[[Gen.26.6 Isaac Deceives Abimelech|Isaac Deceives Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 26
+book/chapter: "[[Gen.26|Genesis 26]]"
+chronological_order: 68
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H0748]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H8259]]"
+- "[[H0040G]]"
+- "[[H4428G]]"
+- "[[H6430G]]"
+- "[[H1157]]"
+- "[[H2474]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3327]]"
+- "[[H6711]]"
+- "[[H0854]]"
+- "[[H7259]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 26:8**<big><big>[[Gen.26.6 Isaac Deceives Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac [was] sporting with Rebekah his wife.
 <small><sub>**BSB:**</sub></small>
 When Isaac had been there a long time, Abimelech king of the Philistines looked down from the window and was surprised to see Isaac caressing his wife Rebekah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H3588A\|כִּ֣י]] [[H0748\|אָֽרְכוּ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H8033G\|שָׁם֙]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H9001\|וַ]][[H8259\|יַּשְׁקֵ֗ף]] [[H0040G\|אֲבִימֶ֙לֶךְ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H1157\|בְּעַ֖ד]] [[H9009\|הַֽ]][[H2474\|חַלּ֑וֹן]] [[H9001\|וַ]][[H7200G\|יַּ֗רְא]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H3327\|יִצְחָק֙]] [[H6711\|מְצַחֵ֔ק]] [[H0854\|אֵ֖ת]] [[H7259\|רִבְקָ֥ה]] [[H0802H\|אִשְׁתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic ISAAC|ISAAC]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic RULERS|RULERS]] • [[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.26.7|<< Genesis 26:7]]</td><td align="center" style="border:none;">[[Gen.26|Genesis 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.26.9|Genesis 26:9 >>]]</td></tr></table>
 

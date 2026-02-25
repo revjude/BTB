@@ -1,8 +1,73 @@
+---
+title: Isaiah 38:1
+type: Verse
+kjv: "In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live."
+bsb: "In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’”"
+hebrew: "בַּיָּמִ֣ים הָהֵ֔ם חָלָ֥ה חִזְקִיָּ֖הוּ לָמ֑וּת וַיָּב֣וֹא אֵ֠לָיו יְשַׁעְיָ֨הוּ בֶן־ אָמ֜וֹץ הַנָּבִ֗יא וַיֹּ֨אמֶר אֵלָ֜יו כֹּֽה־ אָמַ֤ר יְהוָה֙ צַ֣ו לְבֵיתֶ֔ךָ כִּ֛י מֵ֥ת אַתָּ֖ה וְלֹ֥א תִֽחְיֶֽה׃"
+pericope: "[[Isa.38.1 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H2470H]]"
+- "[[H2396G]]"
+- "[[H9005]]"
+- "[[H4191]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3470A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0531]]"
+- "[[H5030]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H6680]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:1**<big><big>[[Isa.38.1 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days was Hezekiah sick unto death. And Isaiah the prophet the son of Amoz came unto him, and said unto him, Thus saith the LORD, Set thine house in order: for thou shalt die, and not live.
 <small><sub>**BSB:**</sub></small>
 In those days Hezekiah became mortally ill. The prophet Isaiah son of Amoz came to him and said, “This is what the LORD says: ‘Put your house in order, for you are about to die; you will not recover.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H2470H\|חָלָ֥ה]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H9005\|לָ]][[H4191\|מ֑וּת]] [[H9001\|וַ]][[H0935G\|יָּב֣וֹא]] [[H0413\|אֵ֠לָי]][[H9033\|ו]] [[H3470A\|יְשַׁעְיָ֨הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H0531\|אָמ֜וֹץ]] [[H9009\|הַ]][[H5030\|נָּבִ֗יא]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H6680\|צַ֣ו]] [[H9005\|לְ]][[H1004M\|בֵיתֶ֔]][[H9021\|ךָ]] [[H3588A\|כִּ֛י]] [[H4191\|מֵ֥ת]] [[H0859A\|אַתָּ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2421\|תִֽחְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DISEASE|DISEASE]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.38|<< Isaiah 37:38]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.2|Isaiah 38:2 >>]]</td></tr></table>
 

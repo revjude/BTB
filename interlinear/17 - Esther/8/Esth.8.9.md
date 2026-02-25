@@ -1,8 +1,88 @@
+---
+title: Esther 8:9
+type: Verse
+kjv: "Then were the king’s scribes called at that time in the third month, that is, the month Sivan, on the three and twentieth day thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which are from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language."
+bsb: "At once the royal scribes were summoned, and on the twenty-third day of the third month (the month of Sivan), they recorded all of Mordecai’s orders to the Jews and to the satraps, governors, and princes of the 127 provinces from India to Cush—writing to each province in its own script, to every people in their own language, and to the Jews in their own script and language."
+hebrew: "וַיִּקָּרְא֣וּ סֹפְרֵֽי־ הַמֶּ֣לֶךְ בָּֽעֵת־ הַ֠הִיא בַּחֹ֨דֶשׁ הַשְּׁלִישִׁ֜י הוּא־ חֹ֣דֶשׁ סִיוָ֗ן בִּשְׁלוֹשָׁ֣ה וְעֶשְׂרִים֮ בּוֹ֒ וַיִּכָּתֵ֣ב כְּֽכָל־ אֲשֶׁר־ צִוָּ֣ה מָרְדֳּכַ֣י אֶל־ הַיְּהוּדִ֡ים וְאֶ֣ל הָאֲחַשְׁדַּרְפְּנִֽים־ וְהַפַּחוֹת֩ וְשָׂרֵ֨י הַמְּדִינ֜וֹת אֲשֶׁ֣ר׀ מֵהֹ֣דּוּ וְעַד־ כּ֗וּשׁ שֶׁ֣בַע וְעֶשְׂרִ֤ים וּמֵאָה֙ מְדִינָ֔ה מְדִינָ֤ה וּמְדִינָה֙ כִּכְתָבָ֔הּ וְעַ֥ם וָעָ֖ם כִּלְשֹׁנ֑וֹ וְאֶ֨ל־ הַיְּהוּדִ֔ים כִּכְתָבָ֖ם וְכִלְשׁוֹנָֽם׃"
+pericope: "[[Esth.8.7 The Decree of Xerxes|The Decree of Xerxes]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 8
+book/chapter: "[[Esth.8|Esther 8]]"
+chronological_order: 906
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic INDIA|INDIA]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic RING|RING]]"
+- "[[topic SCRIBE (S)|SCRIBE (S)]]"
+- "[[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]]"
+- "[[topic SIVAN|SIVAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H5613]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H2320G]]"
+- "[[H7992]]"
+- "[[H5510]]"
+- "[[H7969]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H9033]]"
+- "[[H3789]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H4782H]]"
+- "[[H0413]]"
+- "[[H3064]]"
+- "[[H0323]]"
+- "[[H6346]]"
+- "[[H8269]]"
+- "[[H4082]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H1912]]"
+- "[[H5704]]"
+- "[[H3568A]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H3791]]"
+- "[[H9024]]"
+- "[[H5971A]]"
+- "[[H3956H]]"
+- "[[H9023]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 8:9**<big><big>[[Esth.8.7 The Decree of Xerxes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then were the king’s scribes called at that time in the third month, that [is], the month Sivan, on the three and twentieth [day] thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which [are] from India unto Ethiopia, an hundred twenty and seven provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.
 <small><sub>**BSB:**</sub></small>
 At once the royal scribes were summoned, and on the twenty-third day of the third month (the month of Sivan), they recorded all of Mordecai’s orders to the Jews and to the satraps, governors, and princes of the 127 provinces from India to Cush—writing to each province in its own script, to every people in their own language, and to the Jews in their own script and language.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקָּרְא֣וּ]] [[H5613\|סֹפְרֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H9003\|בָּֽ]][[H6256\|עֵת]][[H9014\|־]] [[H9009\|הַ֠]][[H1931\|הִיא]] [[H9003\|בַּ]][[H2320G\|חֹ֨דֶשׁ]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֜י]] [[H1931\|הוּא]][[H9014\|־]] [[H2320G\|חֹ֣דֶשׁ]] [[H5510\|סִיוָ֗ן]] [[H9003\|בִּ]][[H7969\|שְׁלוֹשָׁ֣ה]] [[H9002\|וְ]][[H6242\|עֶשְׂרִים֮]] [[H9003\|בּ]][[H9033\|וֹ֒]] [[H9001\|וַ]][[H3789\|יִּכָּתֵ֣ב]] [[H9004\|כְּֽ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֣ה]] [[H4782H\|מָרְדֳּכַ֣י]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֡ים]] [[H9002\|וְ]][[H0413\|אֶ֣ל]] [[H9009\|הָ]][[H0323\|אֲחַשְׁדַּרְפְּנִֽים]][[H9014\|־]] [[H9002\|וְ]][[H9009\|הַ]][[H6346\|פַּחוֹת֩]] [[H9002\|וְ]][[H8269\|שָׂרֵ֨י]] [[H9009\|הַ]][[H4082\|מְּדִינ֜וֹת]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H9006\|מֵ]][[H1912\|הֹ֣דּוּ]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3568A\|כּ֗וּשׁ]] [[H7651\|שֶׁ֣בַע]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וּ]][[H3967\|מֵאָה֙]] [[H4082\|מְדִינָ֔ה]] [[H4082\|מְדִינָ֤ה]] [[H9002\|וּ]][[H4082\|מְדִינָה֙]] [[H9004\|כִּ]][[H3791\|כְתָבָ֔]][[H9024\|הּ]] [[H9002\|וְ]][[H5971A\|עַ֥ם]] [[H9002\|וָ]][[H5971A\|עָ֖ם]] [[H9004\|כִּ]][[H3956H\|לְשֹׁנ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0413\|אֶ֨ל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֔ים]] [[H9004\|כִּ]][[H3791\|כְתָבָ֖]][[H9028\|ם]] [[H9002\|וְ]][[H9004\|כִ]][[H3956H\|לְשׁוֹנָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic INDIA|INDIA]] • [[topic MONTH|MONTH]] • [[topic RING|RING]] • [[topic SCRIBE (S)|SCRIBE (S)]] • [[topic SECRETARY (RECORDIST)|SECRETARY (RECORDIST)]] • [[topic SIVAN|SIVAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.8.8|<< Esther 8:8]]</td><td align="center" style="border:none;">[[Esth.8|Esther 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.8.10|Esther 8:10 >>]]</td></tr></table>
 

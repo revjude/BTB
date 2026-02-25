@@ -1,10 +1,64 @@
+---
+title: Acts 23:18
+type: Verse
+kjv: "So he took him, and brought him to the chief captain, and said, Paul the prisoner called me unto him, and prayed me to bring this young man unto thee, who hath something to say unto thee."
+bsb: "So the centurion took him to the commander and said, “Paul the prisoner sent and asked me to bring this young man to you. He has something to tell you.”"
+greek: "ὁ μὲν οὖν παραλαβὼν αὐτὸν ἤγαγεν πρὸς τὸν χιλίαρχον καὶ φησίν· ὁ δέσμιος Παῦλος προσκαλεσάμενός με ἠρώτησεν τοῦτον τὸν νεανίσκον ἀγαγεῖν πρὸς σὲ ἔχοντά τι λαλῆσαί σοι."
+pericope: "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 23
+book/chapter: "[[Acts.23|Acts 23]]"
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHANGE OF VENUE|CHANGE OF VENUE]]"
+- "[[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G3880]]"
+- "[[G0846]]"
+- "[[G0071]]"
+- "[[G4314]]"
+- "[[G5506]]"
+- "[[G2532]]"
+- "[[G5346]]"
+- "[[G1198]]"
+- "[[G3972G]]"
+- "[[G4341]]"
+- "[[G3165]]"
+- "[[G2065]]"
+- "[[G3778]]"
+- "[[G3495]]"
+- "[[G4771]]"
+- "[[G2192]]"
+- "[[G5100]]"
+- "[[G2980]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 23:18**<big><big>[[Acts.23.12 The Plot to Kill Paul|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So he took him, and brought [him] to the chief captain, and said, Paul the prisoner called me unto [him], and prayed me to bring this young man unto thee, who hath something to say unto thee.
 <small><sub>**BSB:**</sub></small>
 So the centurion took him to the commander and said, “Paul the prisoner sent and asked me to bring this young man to you. He has something to tell you.”
-<small><sub>**Literal:**</sub></small>
-The [one] indeed therefore having taken him he brought [him] to the commander and he says; The prisoner Paul having called to me he asked [me] this <the> young man to lead to you having something to say to you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.17|<< Acts 23:17]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.19|Acts 23:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G3880\|παραλαβὼν]]  [[G0846\|αὐτὸν]]  [[G0071\|ἤγαγεν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G5506\|χιλίαρχον]]  [[G2532\|καὶ]]  [[G5346\|φησίν·]]  [[G3588\|ὁ]]  [[G1198\|δέσμιος]]  [[G3972G\|Παῦλος]]  [[G4341\|προσκαλεσάμενός]]  [[G3165\|με]]  [[G2065\|ἠρώτησεν]]  [[G3778\|τοῦτον]]  [[G3588\|τὸν]]  [[G3495\|νεανίσκον]]  [[G0071\|ἀγαγεῖν]]  [[G4314\|πρὸς]]  [[G4771\|σὲ]]  [[G2192\|ἔχοντά]]  [[G5100\|τι]]  [[G2980\|λαλῆσαί]]  [[G4771\|σοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHANGE OF VENUE|CHANGE OF VENUE]] • [[topic CLAUDIUS LYSIUS|CLAUDIUS LYSIUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.23.17|<< Acts 23:17]]</td><td align="center" style="border:none;">[[Acts.23|Acts 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.23.19|Acts 23:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

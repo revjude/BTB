@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Presence of the LORD
+type: Pericope
 pericope: "[[Ps.16.1 The Presence of the LORD|The Presence of the LORD]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 16
 book/chapter: "[[Ps.16|Psalm 16]]"
-genre:
+chronological_order: 350
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 12
 verses:
 - "[[Ps.16.0]]"
 - "[[Ps.16.1]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Ps.16.11]]"
 ---
 
-[[Ps.16|Psalm 16:1 - Psalm 16:11]]
+<small>[[Ps.16|Psalm 16:1-11]]</small>
 *The Presence of the LORD*
 
 [[Ps.16.0|0]] Michtam of David.

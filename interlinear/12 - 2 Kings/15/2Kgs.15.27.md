@@ -1,8 +1,60 @@
+---
+title: 2 Kings 15:27
+type: Verse
+kjv: "In the two and fiftieth year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, and reigned twenty years."
+bsb: "In the fifty-second year of Azariah’s reign over Judah, Pekah son of Remaliah became king of Israel, and he reigned in Samaria twenty years."
+hebrew: "בִּשְׁנַ֨ת חֲמִשִּׁ֤ים וּשְׁתַּ֙יִם֙ שָׁנָ֔ה לַעֲזַרְיָ֖ה מֶ֣לֶךְ יְהוּדָ֑ה מָ֠לַךְ פֶּ֣קַח בֶּן־ רְמַלְיָ֧הוּ עַל־ יִשְׂרָאֵ֛ל בְּשֹׁמְר֖וֹן עֶשְׂרִ֥ים שָׁנָֽה׃"
+pericope: "[[2Kgs.15.27 Pekah Reigns in Israel|Pekah Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 15
+book/chapter: "[[2Kgs.15|2 Kings 15]]"
+chronological_order: 607
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~767–735 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REMALIAH|REMALIAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H2572]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H9005]]"
+- "[[H5838x]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H4427A]]"
+- "[[H6492]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7425]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H8111]]"
+- "[[H6242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 15:27**<big><big>[[2Kgs.15.27 Pekah Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the two and fiftieth year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, [and reigned] twenty years.
 <small><sub>**BSB:**</sub></small>
 In the fifty-second year of Azariah’s reign over Judah, Pekah son of Remaliah became king of Israel, and he reigned in Samaria twenty years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H8141\|שְׁנַ֨ת]] [[H2572\|חֲמִשִּׁ֤ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֙יִם֙]] [[H8141\|שָׁנָ֔ה]] [[H9005\|לַ]][[H5838x\|עֲזַרְיָ֖ה]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H4427A\|מָ֠לַךְ]] [[H6492\|פֶּ֣קַח]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7425\|רְמַלְיָ֧הוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H9003\|בְּ]][[H8111\|שֹׁמְר֖וֹן]] [[H6242\|עֶשְׂרִ֥ים]] [[H8141\|שָׁנָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PEKAH|PEKAH]] • [[topic REMALIAH|REMALIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.15.26|<< 2 Kings 15:26]]</td><td align="center" style="border:none;">[[2Kgs.15|2 Kings 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.15.28|2 Kings 15:28 >>]]</td></tr></table>
 

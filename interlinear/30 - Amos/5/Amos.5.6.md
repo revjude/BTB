@@ -1,8 +1,63 @@
+---
+title: Amos 5:6
+type: Verse
+kjv: "Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour it, and there be none to quench it in Bethel."
+bsb: "Seek the LORD and live, or He will sweep like fire through the house of Joseph; it will devour everything, with no one at Bethel to extinguish it."
+hebrew: "דִּרְשׁ֥וּ אֶת־ יְהוָ֖ה וִֽחְי֑וּ פֶּן־ יִצְלַ֤ח כָּאֵשׁ֙ בֵּ֣ית יוֹסֵ֔ף וְאָכְלָ֥ה וְאֵין־ מְכַבֶּ֖ה לְבֵֽית־ אֵֽל׃"
+pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H6435]]"
+- "[[H6743A]]"
+- "[[H9004]]"
+- "[[H0784]]"
+- "[[H1004M]]"
+- "[[H3130G]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H0369]]"
+- "[[H3518]]"
+- "[[H9005]]"
+- "[[H1008G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:6**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seek the LORD, and ye shall live; lest he break out like fire in the house of Joseph, and devour [it], and [there be] none to quench [it] in Bethel.
 <small><sub>**BSB:**</sub></small>
 Seek the LORD and live, or He will sweep like fire through the house of Joseph; it will devour everything, with no one at Bethel to extinguish it.
+<small><sub>**Hebrew:**</sub></small>
+[[H1875\|דִּרְשׁ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וִֽ]][[H2421\|חְי֑וּ]] [[H6435\|פֶּן]][[H9014\|־]] [[H6743A\|יִצְלַ֤ח]] [[H9004\|כָּ]][[H0784\|אֵשׁ֙]] [[H1004M\|בֵּ֣ית]] [[H3130G\|יוֹסֵ֔ף]] [[H9001\|וְ]][[H0398\|אָכְלָ֥ה]] [[H9002\|וְ]][[H0369\|אֵין]][[H9014\|־]] [[H3518\|מְכַבֶּ֖ה]] [[H9005\|לְ]][[H1008G\|בֵֽית]][[H9014\|־]] [[H1008G\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSEPH|JOSEPH]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.5|<< Amos 5:5]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.7|Amos 5:7 >>]]</td></tr></table>
 

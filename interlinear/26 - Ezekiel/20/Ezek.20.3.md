@@ -1,8 +1,71 @@
+---
+title: Ezekiel 20:3
+type: Verse
+kjv: "Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord GOD; Are ye come to inquire of me? As I live, saith the Lord GOD, I will not be inquired of by you."
+bsb: "“Son of man, speak to the elders of Israel and tell them that this is what the Lord GOD says: Have you come to inquire of Me? As surely as I live, I will not be consulted by you, declares the Lord GOD."
+hebrew: "בֶּן־ אָדָ֗ם דַּבֵּ֞ר אֶת־ זִקְנֵ֤י יִשְׂרָאֵל֙ וְאָמַרְתָּ֣ אֲלֵהֶ֔ם כֹּ֤ה אָמַר֙ אֲדֹנָ֣י יְהוִ֔ה הֲלִדְרֹ֥שׁ אֹתִ֖י אַתֶּ֣ם בָּאִ֑ים חַי־ אָ֙נִי֙ אִם־ אִדָּרֵ֣שׁ לָכֶ֔ם נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.20.1 Israel’s Rebellion in Egypt|Israel’s Rebellion in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H1696G]]"
+- "[[H0854]]"
+- "[[H2205G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9008]]"
+- "[[H9005]]"
+- "[[H1875]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H0859D]]"
+- "[[H0935G]]"
+- "[[H2416A]]"
+- "[[H0589]]"
+- "[[H0518H]]"
+- "[[H9036]]"
+- "[[H5002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:3**<big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord GOD; Are ye come to inquire of me? [As] I live, saith the Lord GOD, I will not be inquired of by you.
 <small><sub>**BSB:**</sub></small>
 “Son of man, speak to the elders of Israel and tell them that this is what the Lord GOD says: Have you come to inquire of Me? As surely as I live, I will not be consulted by you, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H1696G\|דַּבֵּ֞ר]] [[H0854\|אֶת]][[H9014\|־]] [[H2205G\|זִקְנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֔ה]] [[H9008\|הֲ]][[H9005\|לִ]][[H1875\|דְרֹ֥שׁ]] [[H0853\|אֹתִ֖]][[H9030\|י]] [[H0859D\|אַתֶּ֣ם]] [[H0935G\|בָּאִ֑ים]] [[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָ֙נִי֙]] [[H0518H\|אִם]][[H9014\|־]] [[H1875\|אִדָּרֵ֣שׁ]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.2|<< Ezekiel 20:2]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.4|Ezekiel 20:4 >>]]</td></tr></table>
 

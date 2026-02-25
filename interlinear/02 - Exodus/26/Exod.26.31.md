@@ -1,8 +1,66 @@
+---
+title: Exodus 26:31
+type: Verse
+kjv: "And thou shalt make a vail of blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims shall it be made:"
+bsb: "Make a veil of blue, purple, and scarlet yarn, and finely spun linen, with cherubim skillfully worked into it."
+hebrew: "וְעָשִׂ֣יתָ פָרֹ֗כֶת תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֣שׁ מָשְׁזָ֑ר מַעֲשֵׂ֥ה חֹשֵׁ֛ב יַעֲשֶׂ֥ה אֹתָ֖הּ כְּרֻבִֽים׃"
+pericope: "[[Exod.26.31 The Veil|The Veil]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic SHITTIM|SHITTIM]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+- "[[topic VAIL|VAIL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H6532]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H4639G]]"
+- "[[H2803G]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H3742]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:31**<big><big>[[Exod.26.31 The Veil|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make a vail [of] blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubims shall it be made:
 <small><sub>**BSB:**</sub></small>
 Make a veil of blue, purple, and scarlet yarn, and finely spun linen, with cherubim skillfully worked into it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213H\|עָשִׂ֣יתָ]] [[H6532\|פָרֹ֗כֶת]] [[H8504\|תְּכֵ֧לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֛ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֥עַת]] [[H8144\|שָׁנִ֖י]] [[H9002\|וְ]][[H8336B\|שֵׁ֣שׁ]] [[H7806\|מָשְׁזָ֑ר]] [[H4639G\|מַעֲשֵׂ֥ה]] [[H2803G\|חֹשֵׁ֛ב]] [[H6213H\|יַעֲשֶׂ֥ה]] [[H0853\|אֹתָ֖]][[H9034\|הּ]] [[H3742\|כְּרֻבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic COLORS|COLORS]] • [[topic SHITTIM|SHITTIM]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]] • [[topic VAIL|VAIL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.30|<< Exodus 26:30]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.32|Exodus 26:32 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Isaiah 45:4
+type: Verse
+kjv: "For Jacob my servant’s sake, and Israel mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known me."
+bsb: "For the sake of Jacob My servant and Israel My chosen one, I call you by name; I have given you a title of honor, though you have not known Me."
+hebrew: "לְמַ֙עַן֙ עַבְדִּ֣י יַעֲקֹ֔ב וְיִשְׂרָאֵ֖ל בְּחִירִ֑י וָאֶקְרָ֤א לְךָ֙ בִּשְׁמֶ֔ךָ אֲכַנְּךָ֖ וְלֹ֥א יְדַעְתָּֽנִי׃"
+pericope: "[[Isa.45.1 God Calls Cyrus|God Calls Cyrus]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 45
+book/chapter: "[[Isa.45|Isaiah 45]]"
+chronological_order: 684
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic ELECTION|ELECTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H4616]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H0972]]"
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H3655]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 45:4**<big><big>[[Isa.45.1 God Calls Cyrus|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Jacob my servant’s sake, and Israel mine elect, I have even called thee by thy name: I have surnamed thee, though thou hast not known me.
 <small><sub>**BSB:**</sub></small>
 For the sake of Jacob My servant and Israel My chosen one, I call you by name; I have given you a title of honor, though you have not known Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֙עַן֙]] [[H5650\|עַבְדִּ֣]][[H9020\|י]] [[H3290\|יַעֲקֹ֔ב]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H0972\|בְּחִירִ֑]][[H9020\|י]] [[H9001\|וָ]][[H7121G\|אֶקְרָ֤א]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H9003\|בִּ]][[H8034\|שְׁמֶ֔]][[H9021\|ךָ]] [[H3655\|אֲכַנְּ]][[H9031\|ךָ֖]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3045\|יְדַעְתָּֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic CYRUS|CYRUS]] • [[topic ELECTION|ELECTION]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.45.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.3|<< Isaiah 45:3]]</td><td align="center" style="border:none;">[[Isa.45|Isaiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.45.5|Isaiah 45:5 >>]]</td></tr></table>
 

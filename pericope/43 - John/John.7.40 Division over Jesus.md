@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Division over Jesus
+type: Pericope
 pericope: "[[John.7.40 Division over Jesus|Division over Jesus]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: John
 chapter: 7
 book/chapter: "[[John.7|John 7]]"
-genre:
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 5
 verses:
 - "[[John.7.40]]"
 - "[[John.7.41]]"
@@ -23,7 +30,7 @@ verses:
 - "[[John.7.44]]"
 ---
 
-[[John.7|John 7:40 - John 7:44]]
+<small>[[John.7|John 7:40-44]]</small>
 *Division over Jesus*
 
 [[John.7.40|40]] Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.

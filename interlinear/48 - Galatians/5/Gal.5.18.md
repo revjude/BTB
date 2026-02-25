@@ -1,10 +1,48 @@
+---
+title: Galatians 5:18
+type: Verse
+kjv: "But if ye be led of the Spirit, ye are not under the law."
+bsb: "But if you are led by the Spirit, you are not under the law."
+greek: "εἰ δὲ πνεύματι ἄγεσθε, οὐκ ἐστὲ ὑπὸ νόμον."
+pericope: "[[Gal.5.16 Walking by the Spirit|Walking by the Spirit]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 5
+book/chapter: "[[Gal.5|Galatians 5]]"
+chronological_order: 1043
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G4151G]]"
+- "[[G0071]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G5259H]]"
+- "[[G3551]]"
+texts:
+- NKO
+---
+
 **Galatians 5:18**<big><big>[[Gal.5.16 Walking by the Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if ye be led of the Spirit, ye are not under the law.
 <small><sub>**BSB:**</sub></small>
 But if you are led by the Spirit, you are not under the law.
-<small><sub>**Literal:**</sub></small>
-If however by [the] Spirit you are led, not you are under [the] Law.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.17|<< Galatians 5:17]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.19|Galatians 5:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G4151G\|πνεύματι]]  [[G0071\|ἄγεσθε,]]  [[G3756\|οὐκ]]  [[G1510\|ἐστὲ]]  [[G5259H\|ὑπὸ]]  [[G3551\|νόμον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.5.17|<< Galatians 5:17]]</td><td align="center" style="border:none;">[[Gal.5|Galatians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.5.19|Galatians 5:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

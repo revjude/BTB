@@ -1,8 +1,68 @@
+---
+title: 1 Kings 10:26
+type: Verse
+kjv: "And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem."
+bsb: "Solomon accumulated 1,400 chariots and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem."
+hebrew: "וַיֶּאֱסֹ֣ף שְׁלֹמֹה֮ רֶ֣כֶב וּפָרָשִׁים֒ וַיְהִי־ ל֗וֹ אֶ֤לֶף וְאַרְבַּע־ מֵאוֹת֙ רֶ֔כֶב וּשְׁנֵים־ עָשָׂ֥ר אֶ֖לֶף פָּֽרָשִׁ֑ים וַיַּנְחֵם֙ בְּעָרֵ֣י הָרֶ֔כֶב וְעִם־ הַמֶּ֖לֶךְ בִּירוּשָׁלִָֽם׃"
+pericope: "[[1Kgs.10.14 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 10
+book/chapter: "[[1Kgs.10|1 Kings 10]]"
+chronological_order: 535
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic KING|KING]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H8010]]"
+- "[[H7393G]]"
+- "[[H9002]]"
+- "[[H6571B]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0505G]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H5148]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H5973A]]"
+- "[[H4428G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 10:26**<big><big>[[1Kgs.10.14 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Solomon accumulated 1,400 chariots and 12,000 horses, which he stationed in the chariot cities and also with him in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יֶּאֱסֹ֣ף]] [[H8010\|שְׁלֹמֹה֮]] [[H7393G\|רֶ֣כֶב]] [[H9002\|וּ]][[H6571B\|פָרָשִׁים֒]] [[H9001\|וַ]][[H1961\|יְהִי]][[H9014\|־]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H0505G\|אֶ֤לֶף]] [[H9002\|וְ]][[H0702\|אַרְבַּע]][[H9014\|־]] [[H3967\|מֵאוֹת֙]] [[H7393G\|רֶ֔כֶב]] [[H9002\|וּ]][[H8147\|שְׁנֵים]][[H9014\|־]] [[H6240\|עָשָׂ֥ר]] [[H0505G\|אֶ֖לֶף]] [[H6571B\|פָּֽרָשִׁ֑ים]] [[H9001\|וַ]][[H5148\|יַּנְחֵ]][[H9038\|ם֙]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H9009\|הָ]][[H7393G\|רֶ֔כֶב]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARIOT|CHARIOT]] • [[topic KING|KING]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.10.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.10.25|<< 1 Kings 10:25]]</td><td align="center" style="border:none;">[[1Kgs.10|1 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.10.27|1 Kings 10:27 >>]]</td></tr></table>
 

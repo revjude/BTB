@@ -1,8 +1,74 @@
+---
+title: 2 Chronicles 26:19
+type: Verse
+kjv: "Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar."
+bsb: "Uzziah, with a censer in his hand to offer incense, was enraged. But while he raged against the priests in their presence in the house of the LORD before the altar of incense, leprosy broke out on his forehead."
+hebrew: "וַיִּזְעַף֙ עֻזִּיָּ֔הוּ וּבְיָד֥וֹ מִקְטֶ֖רֶת לְהַקְטִ֑יר וּבְזַעְפּ֣וֹ עִם־ הַכֹּהֲנִ֗ים וְ֠הַצָּרַעַת זָרְחָ֨ה בְמִצְח֜וֹ לִפְנֵ֤י הַכֹּֽהֲנִים֙ בְּבֵ֣ית יְהוָ֔ה מֵעַ֖ל לְמִזְבַּ֥ח הַקְּטֹֽרֶת׃"
+pericope: "[[2Chr.26.1 Uzziah Reigns in Judah|Uzziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 26
+book/chapter: "[[2Chr.26|2 Chronicles 26]]"
+chronological_order: 593
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGER|ANGER]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic UZZIAH|UZZIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H2196]]"
+- "[[H5818G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H4730]]"
+- "[[H9005]]"
+- "[[H6999A]]"
+- "[[H9043]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H6883]]"
+- "[[H2224]]"
+- "[[H4696]]"
+- "[[H6440H]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4196]]"
+- "[[H7004]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 26:19**<big><big>[[2Chr.26.1 Uzziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Uzziah was wroth, and [had] a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar.
 <small><sub>**BSB:**</sub></small>
 Uzziah, with a censer in his hand to offer incense, was enraged. But while he raged against the priests in their presence in the house of the LORD before the altar of incense, leprosy broke out on his forehead.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2196\|יִּזְעַף֙]] [[H5818G\|עֻזִּיָּ֔הוּ]] [[H9002\|וּ]][[H9003\|בְ]][[H3027G\|יָד֥]][[H9023\|וֹ]] [[H4730\|מִקְטֶ֖רֶת]] [[H9005\|לְ]][[H6999A\|הַקְטִ֑יר]] [[H9002\|וּ]][[H9003\|בְ]][[H2196\|זַעְפּ֣]][[H9043\|וֹ]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֗ים]] [[H9002\|וְ֠]][[H9009\|הַ]][[H6883\|צָּרַעַת]] [[H2224\|זָרְחָ֨ה]] [[H9003\|בְ]][[H4696\|מִצְח֜]][[H9023\|וֹ]] [[H9005\|לִ]][[H6440H\|פְנֵ֤י]] [[H9009\|הַ]][[H3548\|כֹּֽהֲנִים֙]] [[H9003\|בְּ]][[H1004Q\|בֵ֣ית]] [[H3068G\|יְהוָ֔ה]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H9005\|לְ]][[H4196\|מִזְבַּ֥ח]] [[H9009\|הַ]][[H7004\|קְּטֹֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGER|ANGER]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic DISEASE|DISEASE]] • [[topic INCENSE|INCENSE]] • [[topic PRIDE|PRIDE]] • [[topic SACRILEGE|SACRILEGE]] • [[topic USURPATION|USURPATION]] • [[topic UZZIAH|UZZIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.26.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.26.18|<< 2 Chronicles 26:18]]</td><td align="center" style="border:none;">[[2Chr.26|2 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.26.20|2 Chronicles 26:20 >>]]</td></tr></table>
 

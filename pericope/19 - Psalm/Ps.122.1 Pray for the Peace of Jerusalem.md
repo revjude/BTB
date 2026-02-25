@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Pray for the Peace of Jerusalem
+type: Pericope
 pericope: "[[Ps.122.1 Pray for the Peace of Jerusalem|Pray for the Peace of Jerusalem]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 122
 book/chapter: "[[Ps.122|Psalm 122]]"
-genre:
+chronological_order: 884
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 10
 verses:
 - "[[Ps.122.0]]"
 - "[[Ps.122.1]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ps.122.9]]"
 ---
 
-[[Ps.122|Psalm 122:1 - Psalm 122:9]]
+<small>[[Ps.122|Psalm 122:1-9]]</small>
 *Pray for the Peace of Jerusalem*
 
 [[Ps.122.0|0]] A Song of degrees of David.

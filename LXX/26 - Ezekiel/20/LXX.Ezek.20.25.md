@@ -1,6 +1,49 @@
+---
+title: LXX Ezekiel 20:25
+type: Verse
+lxx: "And I gave them up to orders that were not good, and ordinances in which they shall not live by them."
+greek: "και εγώ έδωκα αυτοίς προστάγματα ου καλά και δικαιώματα εν οις ου ζήσονται εν αυτοίς"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G8943]]"
+- "[[G3756]]"
+- "[[G2570]]"
+- "[[G2532]]"
+- "[[G1345]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G3756]]"
+- "[[G2198]]"
+- "[[G1722]]"
+- "[[G1473]]"
+---
+
 **LXX Ezekiel 20:25** 
 <small><sub>**LXX:**</sub></small>
 And I gave them up to orders \[that were\] not good, and ordinances in which they shall not live by them. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1473\|εγώ]] [[G1325\|έδωκα]] [[G1473\|αυτοίς]] [[G8943\|προστάγματα]] [[G3756\|ου]] [[G2570\|καλά]] [[G2532\|και]] [[G1345\|δικαιώματα]] [[G1722\|εν]] [[G3739\|οις]] [[G3756\|ου]] [[G2198\|ζήσονται]] [[G1722\|εν]] [[G1473\|αυτοίς]]
 <small><sub>**MT:**</sub></small>
 [[Ezek.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.24|<< Ezekiel 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.26|Ezekiel 20:26 >>]]</td></tr></table>
 
@@ -21,6 +64,6 @@ And I gave them up to orders \[that were\] not good, and ordinances in which the
 | live | **<big>[[G2198\|ζήσονται]]</big>** |
 | by | **<big>[[G1722\|εν]]</big>** |
 | them. | **<big>[[G1473\|αυτοίς]]</big>** |
-[[Ezek.20.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.24|<< Ezekiel 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.26|Ezekiel 20:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.20.24|<< Ezekiel 20:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.20.26|Ezekiel 20:26 >>]]</td></tr></table>
 
 

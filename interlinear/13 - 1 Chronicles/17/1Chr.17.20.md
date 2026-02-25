@@ -1,8 +1,57 @@
+---
+title: 1 Chronicles 17:20
+type: Verse
+kjv: "O LORD, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears."
+bsb: "O LORD, there is none like You, and there is no God but You, according to everything we have heard with our own ears."
+hebrew: "יְהוָה֙ אֵ֣ין כָּמ֔וֹךָ וְאֵ֥ין אֱלֹהִ֖ים זוּלָתֶ֑ךָ בְּכֹ֥ל אֲשֶׁר־ שָׁמַ֖עְנוּ בְּאָזְנֵֽינוּ׃"
+pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0369]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H0430G]]"
+- "[[H2108]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0241G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:20**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, [there is] none like thee, neither [is there any] God beside thee, according to all that we have heard with our ears.
 <small><sub>**BSB:**</sub></small>
 O LORD, there is none like You, and there is no God but You, according to everything we have heard with our own ears.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָה֙]] [[H0369\|אֵ֣ין]] [[H3644G\|כָּמ֔וֹ]][[H9031\|ךָ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H0430G\|אֱלֹהִ֖ים]] [[H2108\|זוּלָתֶ֑]][[H9031\|ךָ]] [[H9003\|בְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H8085G\|שָׁמַ֖עְנוּ]] [[H9003\|בְּ]][[H0241G\|אָזְנֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.19|<< 1 Chronicles 17:19]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.21|1 Chronicles 17:21 >>]]</td></tr></table>
 

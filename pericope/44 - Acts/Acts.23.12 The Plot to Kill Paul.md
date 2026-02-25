@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Plot to Kill Paul
+type: Pericope
 pericope: "[[Acts.23.12 The Plot to Kill Paul|The Plot to Kill Paul]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Acts
 chapter: 23
 book/chapter: "[[Acts.23|Acts 23]]"
-genre:
+chronological_order: 1105
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 11
 verses:
 - "[[Acts.23.12]]"
 - "[[Acts.23.13]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Acts.23.22]]"
 ---
 
-[[Acts.23|Acts 23:12 - Acts 23:22]]
+<small>[[Acts.23|Acts 23:12-22]]</small>
 *The Plot to Kill Paul*
 
 [[Acts.23.12|12]] And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.

@@ -1,10 +1,53 @@
+---
+title: Luke 8:31
+type: Verse
+kjv: "And they besought him that he would not command them to go out into the deep."
+bsb: "And the demons kept begging Jesus not to order them to go into the Abyss."
+greek: "καὶ παρεκάλουν αὐτὸν ἵνα μὴ ἐπιτάξῃ αὐτοῖς εἰς τὴν ἄβυσσον ἀπελθεῖν."
+pericope: "[[Luke.8.26 The Demons and the Pigs|The Demons and the Pigs]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3870]]"
+- "[[G0846]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G2004]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0012]]"
+- "[[G0565]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 8:31**<big><big>[[Luke.8.26 The Demons and the Pigs|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they besought him that he would not command them to go out into the deep.
 <small><sub>**BSB:**</sub></small>
 And the demons kept begging Jesus not to order them to go into the Abyss.
-<small><sub>**Literal:**</sub></small>
-And they were begging Him that not he would command to them into the abyss to go away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.30|<< Luke 8:30]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.32|Luke 8:32 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3870\|παρεκάλουν]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G2004\|ἐπιτάξῃ]]  [[G0846\|αὐτοῖς]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0012\|ἄβυσσον]]  [[G0565\|ἀπελθεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.30|<< Luke 8:30]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.32|Luke 8:32 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

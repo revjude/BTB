@@ -1,8 +1,81 @@
+---
+title: Jeremiah 31:34
+type: Verse
+kjv: "And they shall teach no more every man his neighbour, and every man his brother, saying, Know the LORD: for they shall all know me, from the least of them unto the greatest of them, saith the LORD: for I will forgive their iniquity, and I will remember their sin no more."
+bsb: "No longer will each man teach his neighbor or his brother, saying, ‘Know the LORD,’ because they will all know Me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquities and will remember their sins no more.”"
+hebrew: "וְלֹ֧א יְלַמְּד֣וּ ע֗וֹד אִ֣ישׁ אֶת־ רֵעֵ֜הוּ וְאִ֤ישׁ אֶת־ אָחִיו֙ לֵאמֹ֔ר דְּע֖וּ אֶת־ יְהוָ֑ה כִּֽי־ כוּלָּם֩ יֵדְע֨וּ אוֹתִ֜י לְמִקְטַנָּ֤ם וְעַד־ גְּדוֹלָם֙ נְאֻם־ יְהוָ֔ה כִּ֤י אֶסְלַח֙ לַֽעֲוֹנָ֔ם וּלְחַטָּאתָ֖ם לֹ֥א אֶזְכָּר־ עֽוֹד׃ ס"
+pericope: "[[Jer.31.26 The New Covenant|The New Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3925G]]"
+- "[[H5750]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H0251G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3045]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H6996A]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H5002]]"
+- "[[H5545]]"
+- "[[H5771G]]"
+- "[[H2403B]]"
+- "[[H2142]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 31:34**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall teach no more every man his neighbour, and every man his brother, saying, Know the LORD: for they shall all know me, from the least of them unto the greatest of them, saith the LORD: for I will forgive their iniquity, and I will remember their sin no more.
 <small><sub>**BSB:**</sub></small>
 No longer will each man teach his neighbor or his brother, saying, ‘Know the LORD,’ because they will all know Me, from the least of them to the greatest, declares the LORD. For I will forgive their iniquities and will remember their sins no more.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֧א]] [[H3925G\|יְלַמְּד֣וּ]] [[H5750\|ע֗וֹד]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֜]][[H9023\|הוּ]] [[H9002\|וְ]][[H0376I\|אִ֤ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אָחִי]][[H9023\|ו֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3045\|דְּע֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3605\|כוּלָּ]][[H9028\|ם֩]] [[H3045\|יֵדְע֨וּ]] [[H0853\|אוֹתִ֜]][[H9030\|י]] [[H9005\|לְ]][[H9006\|מִ]][[H6996A\|קְטַנָּ֤]][[H9028\|ם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גְּדוֹלָ]][[H9028\|ם֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H3588A\|כִּ֤י]] [[H5545\|אֶסְלַח֙]] [[H9005\|לַֽ]][[H5771G\|עֲוֹנָ֔]][[H9028\|ם]] [[H9002\|וּ]][[H9005\|לְ]][[H2403B\|חַטָּאתָ֖]][[H9028\|ם]] [[H3808\|לֹ֥א]] [[H2142\|אֶזְכָּר]][[H9014\|־]] [[H5750\|עֽוֹד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SIN|SIN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.33|<< Jeremiah 31:33]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.35|Jeremiah 31:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -41,7 +114,7 @@ No longer will each man teach his neighbor or his brother, saying, ‘Know the L
 | and \<to> sin their  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H2403B\|חַטָּאתָ֖]]&#8207;&#8207;[[H9028\|ם]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> le.<small><sup>[[HR]]</sup></small> cha.ta.Ta<small><sup>[[HNcfsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I will remember  |**<big>&#8207;[[H2142\|אֶזְכָּר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'ez.kor-<small><sup>[[HVqi1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.33|<< Jeremiah 31:33]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.35|Jeremiah 31:35 >>]]</td></tr></table>
 
 

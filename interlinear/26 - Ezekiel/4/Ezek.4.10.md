@@ -1,8 +1,62 @@
+---
+title: Ezekiel 4:10
+type: Verse
+kjv: "And thy meat which thou shalt eat shall be by weight, twenty shekels a day: from time to time shalt thou eat it."
+bsb: "You are to weigh out twenty shekels of food to eat each day, and you are to eat it at set times."
+hebrew: "וּמַאֲכָֽלְךָ֙ אֲשֶׁ֣ר תֹּאכֲלֶ֔נּוּ בְּמִשְׁק֕וֹל עֶשְׂרִ֥ים שֶׁ֖קֶל לַיּ֑וֹם מֵעֵ֥ת עַד־ עֵ֖ת תֹּאכֲלֶֽנּוּ׃"
+pericope: "[[Ezek.4.9 The Defiled Bread|The Defiled Bread]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3978]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4946]]"
+- "[[H6242]]"
+- "[[H8255]]"
+- "[[H9005]]"
+- "[[H3117G]]"
+- "[[H9006]]"
+- "[[H6256]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 4:10**<big><big>[[Ezek.4.9 The Defiled Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thy meat which thou shalt eat [shall be] by weight, twenty shekels a day: from time to time shalt thou eat it.
 <small><sub>**BSB:**</sub></small>
 You are to weigh out twenty shekels of food to eat each day, and you are to eat it at set times.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H3978\|מַאֲכָֽלְ]][[H9021\|ךָ֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H0398\|תֹּאכֲלֶ֔]][[H9033\|נּוּ]] [[H9003\|בְּ]][[H4946\|מִשְׁק֕וֹל]] [[H6242\|עֶשְׂרִ֥ים]] [[H8255\|שֶׁ֖קֶל]] [[H9005\|לַ]][[H3117G\|יּ֑וֹם]] [[H9006\|מֵ]][[H6256\|עֵ֥ת]] [[H5704\|עַד]][[H9014\|־]] [[H6256\|עֵ֖ת]] [[H0398\|תֹּאכֲלֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic SHEKEL|SHEKEL]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.9|<< Ezekiel 4:9]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.11|Ezekiel 4:11 >>]]</td></tr></table>
 

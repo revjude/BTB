@@ -1,10 +1,68 @@
+---
+title: John 9:11
+type: Verse
+kjv: "He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight."
+bsb: "He answered, “The man they call Jesus made some mud and anointed my eyes, and He told me to go to Siloam and wash. So I went and washed and received my sight.”"
+greek: "ἀπεκρίθη ἐκεῖνος καὶ εἶπεν· ὁ ἄνθρωπος ὁ λεγόμενος Ἰησοῦς πηλὸν ἐποίησεν καὶ ἐπέχρισέν μου τοὺς ὀφθαλμοὺς καὶ εἶπέν μοι ὅτι ὕπαγε εἰς τοῦ κολυμβήθραν τὸν Σιλωὰμ καὶ νίψαι. ἀπελθὼν οὖν καὶ νιψάμενος ἀνέβλεψα."
+pericope: "[[John.9.1 Jesus Heals the Man Born Blind|Jesus Heals the Man Born Blind]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic POOL|POOL]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SILOAM|SILOAM]]"
+strongs:
+- "[[G0611]]"
+- "[[G1565]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3004H]]"
+- "[[G2424G]]"
+- "[[G4081]]"
+- "[[G4160G]]"
+- "[[G2025]]"
+- "[[G3165]]"
+- "[[G3788]]"
+- "[[G3754G]]"
+- "[[G5217]]"
+- "[[G1519]]"
+- "[[G2861]]"
+- "[[G4611]]"
+- "[[G3538]]"
+- "[[G0565]]"
+- "[[G3767]]"
+- "[[G0308]]"
+texts:
+- NKO
+- k
+- no
+- N(k)O
+---
+
 **John 9:11**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.
 <small><sub>**BSB:**</sub></small>
 He answered, “The man they call Jesus made some mud and anointed my eyes, and He told me to go to Siloam and wash. So I went and washed and received my sight.”
-<small><sub>**Literal:**</sub></small>
-Answered He and said: The man who is being named Jesus clay made and He anointed my <the> eyes and He said to me that do go to <the> pool <the> Siloam and do wash. yourself Having gone therefore and having washed I received sight.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.10|<< John 9:10]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.12|John 9:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G1565\|ἐκεῖνος]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν·]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G3588\|ὁ]]  [[G3004H\|λεγόμενος]]  [[G2424G\|Ἰησοῦς]]  [[G4081\|πηλὸν]]  [[G4160G\|ἐποίησεν]]  [[G2532\|καὶ]]  [[G2025\|ἐπέχρισέν]]  [[G3165\|μου]]  [[G3588\|τοὺς]]  [[G3788\|ὀφθαλμοὺς]]  [[G2532\|καὶ]]  [[G2036\|εἶπέν]]  [[G3165\|μοι]]  [[G3754G\|ὅτι]]  [[G5217\|ὕπαγε]]  [[G1519\|εἰς]]  [[G3588\|τοῦ]]  [[G2861\|κολυμβήθραν]]  [[G3588\|τὸν]]  [[G4611\|Σιλωὰμ]]  [[G2532\|καὶ]]  [[G3538\|νίψαι.]]  [[G0565\|ἀπελθὼν]]  [[G3767\|οὖν]]  [[G2532\|καὶ]]  [[G3538\|νιψάμενος]]  [[G0308\|ἀνέβλεψα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic POOL|POOL]] • [[topic SABBATH|SABBATH]] • [[topic SILOAM|SILOAM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.10|<< John 9:10]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.12|John 9:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

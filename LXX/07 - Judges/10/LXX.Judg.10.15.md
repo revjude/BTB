@@ -1,6 +1,65 @@
+---
+title: LXX Judges 10:15
+type: Verse
+lxx: "And the sons of Israel said to the lord, We sinned, do to us according to all whatever as much as should be pleasing before you, only rescue us in  this day!"
+greek: "και είπαν οι υιοί Ισραήλ προς κύριον ημάρτομεν ποίησον συ ημίν κατά πάντα όσα αν αρέσκη ενώπιόν σου πλην εξελού ημάς εν τη ημέρα ταύτη"
+original_language: Greek
+testament: Old
+book: Judges
+chapter: 10
+book/chapter: "[[Judg.10|Judges 10]]"
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+- "[[G4314]]"
+- "[[G2962]]"
+- "[[G0264]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G0302]]"
+- "[[G0700]]"
+- "[[G1799]]"
+- "[[G1473]]"
+- "[[G4133]]"
+- "[[G1807]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3778]]"
+---
+
 **LXX Judges 10:15** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Israel said to \[the\] <span class="smallcaps">lord</span>, We sinned, do to us according to all whatever as much as should be pleasing before you, only rescue us in  this day! 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπαν]] [[G3588\|οι]] [[G5207\|υιοί]] [[G2474\|Ισραήλ]] [[G4314\|προς]] [[G2962\|κύριον]] [[G0264\|ημάρτομεν]] [[G4160\|ποίησον]] [[G1473\|συ]] [[G1473\|ημίν]] [[G2596\|κατά]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G0302\|αν]] [[G0700\|αρέσκη]] [[G1799\|ενώπιόν]] [[G1473\|σου]] [[G4133\|πλην]] [[G1807\|εξελού]] [[G1473\|ημάς]] [[G1722\|εν]] [[G3588\|τη]] [[G2250\|ημέρα]] [[G3778\|ταύτη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AMMONITES|AMMONITES]] • [[topic ISRAEL|ISRAEL]] • [[topic PRAYER|PRAYER]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESIGNATION|RESIGNATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Judg.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.14|<< Judges 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.16|Judges 10:16 >>]]</td></tr></table>
 
@@ -28,6 +87,6 @@ And the sons of Israel said to \[the\] <span class="smallcaps">lord</span>, We s
 | in | **<big>[[G1722\|εν]]</big>** |
 | \<obj.> | **<big>[[G3588\|τη]]</big>** |
 | this day! | **<big>[[G2250\|ημέρα]]</big>** **<big>[[G3778\|ταύτη]]</big>** |
-[[Judg.10.15|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.14|<< Judges 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.16|Judges 10:16 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Judg.10.14|<< Judges 10:14]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Judg.10.16|Judges 10:16 >>]]</td></tr></table>
 
 

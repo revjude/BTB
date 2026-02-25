@@ -1,8 +1,46 @@
+---
+title: 1 Samuel 13:23
+type: Verse
+kjv: "And the garrison of the Philistines went out to the passage of Michmash."
+bsb: "And a garrison of the Philistines had gone out to the pass at Michmash."
+hebrew: "וַיֵּצֵא֙ מַצַּ֣ב פְּלִשְׁתִּ֔ים אֶֽל־ מַעֲבַ֖ר מִכְמָֽשׂ׃ ס"
+pericope: "[[1Sam.13.16 Israel without Weapons|Israel without Weapons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H4673]]"
+- "[[H6430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4569A]]"
+- "[[H4363]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 13:23**<big><big>[[1Sam.13.16 Israel without Weapons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the garrison of the Philistines went out to the passage of Michmash.
 <small><sub>**BSB:**</sub></small>
 And a garrison of the Philistines had gone out to the pass at Michmash.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H4673\|מַצַּ֣ב]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H0413\|אֶֽל]][[H9014\|־]] [[H4569A\|מַעֲבַ֖ר]] [[H4363\|מִכְמָֽשׂ]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.22|<< 1 Samuel 13:22]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.1|1 Samuel 14:1 >>]]</td></tr></table>
 
@@ -13,7 +51,7 @@ And a garrison of the Philistines had gone out to the pass at Michmash.
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְּלִשְׁתִּ֔ים]]&#8207; </big>**| pe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶֽל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] pass of  |**<big>&#8207;[[H4569A\|מַעֲבַ֖ר]]&#8207; </big>**| ma.'a.Var<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Micmash  |**<big>&#8207;[[H4363\|מִכְמָֽשׂ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mikh.Mas<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Micmash  |**<big>&#8207;[[H4363\|מִכְמָֽשׂ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| mikh.Mas<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.22|<< 1 Samuel 13:22]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.1|1 Samuel 14:1 >>]]</td></tr></table>
 
 

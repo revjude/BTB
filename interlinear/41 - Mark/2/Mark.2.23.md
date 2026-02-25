@@ -1,10 +1,56 @@
+---
+title: Mark 2:23
+type: Verse
+kjv: "And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn."
+bsb: "One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain as they walked along."
+greek: "Καὶ ἐγένετο αὐτὸν ἐν τοῖς σάββασιν παραπορεύεσθαι διὰ τῶν σπορίμων, καὶ οἱ μαθηταὶ αὐτοῦ ἤρξαντο ὁδὸν ποιεῖν τίλλοντες τοὺς στάχυας."
+pericope: "[[Mark.2.23 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 2
+book/chapter: "[[Mark.2|Mark 2]]"
+chronological_order: 947
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4521]]"
+- "[[G3899]]"
+- "[[G1223]]"
+- "[[G4702]]"
+- "[[G3101]]"
+- "[[G0757]]"
+- "[[G3598]]"
+- "[[G4160G]]"
+- "[[G5089]]"
+- "[[G4719]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Mark 2:23**<big><big>[[Mark.2.23 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.
 <small><sub>**BSB:**</sub></small>
 One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain as they walked along.
-<small><sub>**Literal:**</sub></small>
-And it came to pass He on the Sabbaths passing through through the grainfields, and the disciples of Him began [their] way to make plucking the heads of grain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.22|<< Mark 2:22]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.24|Mark 2:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G4521\|σάββασιν]]  [[G3899\|παραπορεύεσθαι]]  [[G1223\|διὰ]]  [[G3588\|τῶν]]  [[G4702\|σπορίμων,]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G0757\|ἤρξαντο]]  [[G3598\|ὁδὸν]]  [[G4160G\|ποιεῖν]]  [[G5089\|τίλλοντες]]  [[G3588\|τοὺς]]  [[G4719\|στάχυας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.2.22|<< Mark 2:22]]</td><td align="center" style="border:none;">[[Mark.2|Mark 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.2.24|Mark 2:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

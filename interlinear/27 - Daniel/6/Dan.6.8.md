@@ -1,8 +1,70 @@
+---
+title: Daniel 6:8
+type: Verse
+kjv: "Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which altereth not."
+bsb: "Therefore, O king, establish the decree and sign the document so that it cannot be changed—in accordance with the law of the Medes and Persians, which cannot be repealed.”"
+aramaic: "כְּעַ֣ן מַלְכָּ֔א תְּקִ֥ים אֱסָרָ֖א וְתִרְשֻׁ֣ם כְּתָבָ֑א דִּ֣י לָ֧א לְהַשְׁנָיָ֛ה כְּדָת־ מָדַ֥י וּפָרַ֖ס דִּי־ לָ֥א תֶעְדֵּֽא׃"
+pericope: "[[Dan.6.1 The Plot against Daniel|The Plot against Daniel]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 6
+book/chapter: "[[Dan.6|Daniel 6]]"
+chronological_order: 791
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic KING|KING]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H3705]]"
+- "[[H4430]]"
+- "[[H9010]]"
+- "[[H6966I]]"
+- "[[H0633]]"
+- "[[H9002]]"
+- "[[H7560]]"
+- "[[H3792]]"
+- "[[H1768]]"
+- "[[H3809]]"
+- "[[H9005]]"
+- "[[H8133]]"
+- "[[H9004]]"
+- "[[H1882]]"
+- "[[H9014]]"
+- "[[H4076G]]"
+- "[[H6540]]"
+- "[[H5709]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 6:8**<big><big>[[Dan.6.1 The Plot against Daniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which altereth not.
 <small><sub>**BSB:**</sub></small>
 Therefore, O king, establish the decree and sign the document so that it cannot be changed—in accordance with the law of the Medes and Persians, which cannot be repealed.”
+<small><sub>**Aramaic:**</sub></small>
+[[H3705\|כְּעַ֣ן]] [[H4430\|מַלְכָּ֔]][[H9010\|א]] [[H6966I\|תְּקִ֥ים]] [[H0633\|אֱסָרָ֖]][[H9010\|א]] [[H9002\|וְ]][[H7560\|תִרְשֻׁ֣ם]] [[H3792\|כְּתָבָ֑]][[H9010\|א]] [[H1768\|דִּ֣י]] [[H3809\|לָ֧א]] [[H9005\|לְ]][[H8133\|הַשְׁנָיָ֛ה]] [[H9004\|כְּ]][[H1882\|דָת]][[H9014\|־]] [[H4076G\|מָדַ֥י]] [[H9002\|וּ]][[H6540\|פָרַ֖ס]] [[H1768\|דִּי]][[H9014\|־]] [[H3809\|לָ֥א]] [[H5709\|תֶעְדֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FAITH|FAITH]] • [[topic KING|KING]] • [[topic MALICE|MALICE]] • [[topic PERSIA|PERSIA]] • [[topic POLITICS|POLITICS]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.6.7|<< Daniel 6:7]]</td><td align="center" style="border:none;">[[Dan.6|Daniel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.6.9|Daniel 6:9 >>]]</td></tr></table>
 

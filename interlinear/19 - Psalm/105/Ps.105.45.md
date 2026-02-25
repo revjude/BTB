@@ -1,8 +1,57 @@
+---
+title: Psalm 105:45
+type: Verse
+kjv: "That they might observe his statutes, and keep his laws. Praise ye the LORD."
+bsb: "that they might keep His statutes and obey His laws. Hallelujah!"
+hebrew: "בַּעֲב֤וּר׀ יִשְׁמְר֣וּ חֻ֭קָּיו וְתוֹרֹתָ֥יו יִנְצֹ֗רוּ הַֽלְלוּ־ יָֽהּ׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9003]]"
+- "[[H5668]]"
+- "[[H9015]]"
+- "[[H8104G]]"
+- "[[H2706G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8451]]"
+- "[[H5341]]"
+- "[[H1984B]]"
+- "[[H9014]]"
+- "[[H3050]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:45**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That they might observe his statutes, and keep his laws. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
 that they might keep His statutes and obey His laws. Hallelujah!
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H5668\|עֲב֤וּר]][[H9015\|׀]] [[H8104G\|יִשְׁמְר֣וּ]] [[H2706G\|חֻ֭קָּי]][[H9023\|ו]] [[H9002\|וְ]][[H8451\|תוֹרֹתָ֥י]][[H9023\|ו]] [[H5341\|יִנְצֹ֗רוּ]] [[H1984B\|הַֽלְלוּ]][[H9014\|־]] [[H3050\|יָֽהּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.45|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.44|<< Psalms 105:44]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.106.1|Psalms 106:1 >>]]</td></tr></table>
 

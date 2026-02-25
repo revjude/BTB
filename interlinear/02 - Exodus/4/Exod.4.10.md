@@ -1,8 +1,82 @@
+---
+title: Exodus 4:10
+type: Verse
+kjv: "And Moses said unto the LORD, O my Lord, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue."
+bsb: "“Please, Lord,” Moses replied, “I have never been eloquent, neither in the past nor since You have spoken to Your servant, for I am slow of speech and tongue.”"
+hebrew: "וַיֹּ֨אמֶר מֹשֶׁ֣ה אֶל־ יְהוָה֮ בִּ֣י אֲדֹנָי֒ לֹא֩ אִ֨ישׁ דְּבָרִ֜ים אָנֹ֗כִי גַּ֤ם מִתְּמוֹל֙ גַּ֣ם מִשִּׁלְשֹׁ֔ם גַּ֛ם מֵאָ֥ז דַּבֶּרְךָ אֶל־ עַבְדֶּ֑ךָ כִּ֧י כְבַד־ פֶּ֛ה וּכְבַ֥ד לָשׁ֖וֹן אָנֹֽכִי׃"
+pericope: "[[Exod.4.10 The Appointment of Aaron|The Appointment of Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 4
+book/chapter: "[[Exod.4|Exodus 4]]"
+chronological_order: 96
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic STAMMERING|STAMMERING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0994]]"
+- "[[H0136]]"
+- "[[H3808]]"
+- "[[H0376G]]"
+- "[[H1697H]]"
+- "[[H0595]]"
+- "[[H1571]]"
+- "[[H9006]]"
+- "[[H8543]]"
+- "[[H8032]]"
+- "[[H0227B]]"
+- "[[H1696G]]"
+- "[[H9041]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H3515]]"
+- "[[H6310I]]"
+- "[[H9002]]"
+- "[[H3956G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 4:10**<big><big>[[Exod.4.10 The Appointment of Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto the LORD, O my Lord, I [am] not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I [am] slow of speech, and of a slow tongue.
 <small><sub>**BSB:**</sub></small>
 “Please, Lord,” Moses replied, “I have never been eloquent, neither in the past nor since You have spoken to Your servant, for I am slow of speech and tongue.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H4872\|מֹשֶׁ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֮]] [[H0994\|בִּ֣י]] [[H0136\|אֲדֹנָי֒]] [[H3808\|לֹא֩]] [[H0376G\|אִ֨ישׁ]] [[H1697H\|דְּבָרִ֜ים]] [[H0595\|אָנֹ֗כִי]] [[H1571\|גַּ֤ם]] [[H9006\|מִ]][[H8543\|תְּמוֹל֙]] [[H1571\|גַּ֣ם]] [[H9006\|מִ]][[H8032\|שִּׁלְשֹׁ֔ם]] [[H1571\|גַּ֛ם]] [[H9006\|מֵ]][[H0227B\|אָ֥ז]] [[H1696G\|דַּבֶּרְ]][[H9041\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֧י]] [[H3515\|כְבַד]][[H9014\|־]] [[H6310I\|פֶּ֛ה]] [[H9002\|וּ]][[H3515\|כְבַ֥ד]] [[H3956G\|לָשׁ֖וֹן]] [[H0595\|אָנֹֽכִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic DOUBTING|DOUBTING]] • [[topic EXCUSES|EXCUSES]] • [[topic FAITH|FAITH]] • [[topic HUMILITY|HUMILITY]] • [[topic ISRAEL|ISRAEL]] • [[topic PREACHING|PREACHING]] • [[topic STAMMERING|STAMMERING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.4.9|<< Exodus 4:9]]</td><td align="center" style="border:none;">[[Exod.4|Exodus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.4.11|Exodus 4:11 >>]]</td></tr></table>
 

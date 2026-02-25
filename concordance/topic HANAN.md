@@ -15,5 +15,5 @@
 
 - 6. A chief who sealed the covenant with Nehemiah [[Neh.10.22|Ne  10:22]],[[Neh.10.26|26]]
 
-- 7. An officer in the temple [[Jer.35.2|Jer 35:2]]-[[Jer.35.10|10]]
+- 7. An officer in the temple [[Jer.35.2|Jer 35:2-10]]
 

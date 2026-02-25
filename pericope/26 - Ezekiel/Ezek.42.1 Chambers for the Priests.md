@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Chambers for the Priests
+type: Pericope
 pericope: "[[Ezek.42.1 Chambers for the Priests|Chambers for the Priests]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 42
 book/chapter: "[[Ezek.42|Ezekiel 42]]"
-genre:
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 14
 verses:
 - "[[Ezek.42.1]]"
 - "[[Ezek.42.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Ezek.42.14]]"
 ---
 
-[[Ezek.42|Ezekiel 42:1 - Ezekiel 42:14]]
+<small>[[Ezek.42|Ezekiel 42:1-14]]</small>
 *Chambers for the Priests*
 
 [[Ezek.42.1|1]] Then he brought me forth into the utter court, the way toward the north: and he brought me into the chamber that \[was\] over against the separate place, and which \[was\] before the building toward the north.

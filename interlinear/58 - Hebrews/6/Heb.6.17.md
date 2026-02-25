@@ -1,10 +1,61 @@
+---
+title: Hebrews 6:17
+type: Verse
+kjv: "Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath:"
+bsb: "So when God wanted to make the unchanging nature of His purpose very clear to the heirs of the promise, He guaranteed it with an oath."
+greek: "ἐν ᾧ περισσότερον βουλόμενος ὁ θεὸς ἐπιδεῖξαι τοῖς κληρονόμοις τῆς ἐπαγγελίας τὸ ἀμετάθετον τῆς βουλῆς αὐτοῦ ἐμεσίτευσεν ὅρκῳ,"
+pericope: "[[Heb.6.13 God’s Unchangeable Promise|God’s Unchangeable Promise]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 6
+book/chapter: "[[Heb.6|Hebrews 6]]"
+chronological_order: 1145
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G4054]]"
+- "[[G1014]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1925]]"
+- "[[G2818]]"
+- "[[G1860]]"
+- "[[G0276]]"
+- "[[G1012]]"
+- "[[G0846]]"
+- "[[G3315]]"
+- "[[G3727]]"
+texts:
+- NKO
+---
+
 **Hebrews 6:17**<big><big>[[Heb.6.13 God’s Unchangeable Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed [it] by an oath:
 <small><sub>**BSB:**</sub></small>
 So when God wanted to make the unchanging nature of His purpose very clear to the heirs of the promise, He guaranteed it with an oath.
-<small><sub>**Literal:**</sub></small>
-In which more excessive desiring <the> God to show to the heirs of the promise the unchangeableness of the purpose of Him guaranteed [it] by an oath,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.16|<< Hebrews 6:16]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.18|Hebrews 6:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G4054\|περισσότερον]]  [[G1014\|βουλόμενος]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1925\|ἐπιδεῖξαι]]  [[G3588\|τοῖς]]  [[G2818\|κληρονόμοις]]  [[G3588\|τῆς]]  [[G1860\|ἐπαγγελίας]]  [[G3588\|τὸ]]  [[G0276\|ἀμετάθετον]]  [[G3588\|τῆς]]  [[G1012\|βουλῆς]]  [[G0846\|αὐτοῦ]]  [[G3315\|ἐμεσίτευσεν]]  [[G3727\|ὅρκῳ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic CONTRACTS|CONTRACTS]] • [[topic COVENANT|COVENANT]] • [[topic GOD|GOD]] • [[topic OATH|OATH]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.6.16|<< Hebrews 6:16]]</td><td align="center" style="border:none;">[[Heb.6|Hebrews 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.6.18|Hebrews 6:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

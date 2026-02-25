@@ -1,8 +1,63 @@
+---
+title: Numbers 36:11
+type: Verse
+kjv: "For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons:"
+bsb: "Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to cousins on their father’s side."
+hebrew: "וַתִּהְיֶ֜ינָה מַחְלָ֣ה תִרְצָ֗ה וְחָגְלָ֧ה וּמִלְכָּ֛ה וְנֹעָ֖ה בְּנ֣וֹת צְלָפְחָ֑ד לִבְנֵ֥י דֹדֵיהֶ֖ן לְנָשִֽׁים׃"
+pericope: "[[Num.36.1 Zelophehad’s Daughters Marry|Zelophehad’s Daughters Marry]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 36
+book/chapter: "[[Num.36|Numbers 36]]"
+chronological_order: 196
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOGLAH|HOGLAH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic MILCAH|MILCAH]]"
+- "[[topic TIRZAH|TIRZAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4244G]]"
+- "[[H8656G]]"
+- "[[H9002]]"
+- "[[H2295]]"
+- "[[H4435H]]"
+- "[[H5270]]"
+- "[[H1323G]]"
+- "[[H6765]]"
+- "[[H9005]]"
+- "[[H1121A]]"
+- "[[H1730I]]"
+- "[[H9029]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 36:11**<big><big>[[Num.36.1 Zelophehad’s Daughters Marry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons:
 <small><sub>**BSB:**</sub></small>
 Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to cousins on their father’s side.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|תִּהְיֶ֜ינָה]] [[H4244G\|מַחְלָ֣ה]] [[H8656G\|תִרְצָ֗ה]] [[H9002\|וְ]][[H2295\|חָגְלָ֧ה]] [[H9002\|וּ]][[H4435H\|מִלְכָּ֛ה]] [[H9002\|וְ]][[H5270\|נֹעָ֖ה]] [[H1323G\|בְּנ֣וֹת]] [[H6765\|צְלָפְחָ֑ד]] [[H9005\|לִ]][[H1121A\|בְנֵ֥י]] [[H1730I\|דֹדֵי]][[H9029\|הֶ֖ן]] [[H9005\|לְ]][[H0802H\|נָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOGLAH|HOGLAH]] • [[topic LAND|LAND]] • [[topic MILCAH|MILCAH]] • [[topic TIRZAH|TIRZAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.36.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.36.10|<< Numbers 36:10]]</td><td align="center" style="border:none;">[[Num.36|Numbers 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.36.12|Numbers 36:12 >>]]</td></tr></table>
 

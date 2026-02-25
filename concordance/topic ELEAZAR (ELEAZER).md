@@ -17,7 +17,7 @@
 
 - Death and burial of [[Josh.24.33|Jos 24:33]]
 
-- Descendants of [[1Chr.24.1|1Ch 24:1]]-[[1Chr.24.19|19]]
+- Descendants of [[1Chr.24.1|1Ch 24:1-19]]
 
 2. An inhabitant of Kirjath-jearim who tended the ark of the  covenant for a while [[1Sam.7.1|1Sa 7:1]],[[1Sam.7.2|2]]
 

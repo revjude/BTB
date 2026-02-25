@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 21:2
+type: Verse
+kjv: "And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.)"
+bsb: "At this, David summoned the Gibeonites and spoke to them. (Now the Gibeonites were not Israelites, but a remnant of the Amorites. The Israelites had taken an oath concerning them, but in his zeal for Israel and Judah, Saul had sought to kill them.)"
+hebrew: "וַיִּקְרָ֥א הַמֶּ֛לֶךְ לַגִּבְעֹנִ֖ים וַיֹּ֣אמֶר אֲלֵיהֶ֑ם וְהַגִּבְעֹנִ֞ים לֹ֣א מִבְּנֵ֧י יִשְׂרָאֵ֣ל הֵ֗מָּה כִּ֚י אִם־ מִיֶּ֣תֶר הָאֱמֹרִ֔י וּבְנֵ֤י יִשְׂרָאֵל֙ נִשְׁבְּע֣וּ לָהֶ֔ם וַיְבַקֵּ֤שׁ שָׁאוּל֙ לְהַכֹּתָ֔ם בְּקַנֹּאת֥וֹ לִבְנֵֽי־ יִשְׂרָאֵ֖ל וִיהוּדָֽה׃"
+pericope: "[[2Sam.21.1 David Avenges the Gibeonites|David Avenges the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 21
+book/chapter: "[[2Sam.21|2 Samuel 21]]"
+chronological_order: 429
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SAUL|SAUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H1393]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H1992]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H3499A]]"
+- "[[H0567]]"
+- "[[H7650]]"
+- "[[H1245]]"
+- "[[H7586G]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H7065]]"
+- "[[H9043]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 21:2**<big><big>[[2Sam.21.1 David Avenges the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king called the Gibeonites, and said unto them; (now the Gibeonites [were] not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.)
 <small><sub>**BSB:**</sub></small>
 At this, David summoned the Gibeonites and spoke to them. (Now the Gibeonites were not Israelites, but a remnant of the Amorites. The Israelites had taken an oath concerning them, but in his zeal for Israel and Judah, Saul had sought to kill them.)
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֥א]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H9005\|לַ]][[H1393\|גִּבְעֹנִ֖ים]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֑ם]] [[H9002\|וְ]][[H9009\|הַ]][[H1393\|גִּבְעֹנִ֞ים]] [[H3808\|לֹ֣א]] [[H9006\|מִ]][[H1121G\|בְּנֵ֧י]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H1992\|הֵ֗מָּה]] [[H3588B\|כִּ֚י]] [[H0518B\|אִם]][[H9014\|־]] [[H9006\|מִ]][[H3499A\|יֶּ֣תֶר]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֔י]] [[H9002\|וּ]][[H1121G\|בְנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H7650\|נִשְׁבְּע֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9001\|וַ]][[H1245\|יְבַקֵּ֤שׁ]] [[H7586G\|שָׁאוּל֙]] [[H9005\|לְ]][[H5221\|הַכֹּתָ֔]][[H9038\|ם]] [[H9003\|בְּ]][[H7065\|קַנֹּאת֥]][[H9043\|וֹ]] [[H9005\|לִ]][[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וִ]][[H3063G\|יהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic GIBEON|GIBEON]] • [[topic ISRAEL|ISRAEL]] • [[topic SAUL|SAUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.21.1|<< 2 Samuel 21:1]]</td><td align="center" style="border:none;">[[2Sam.21|2 Samuel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.21.3|2 Samuel 21:3 >>]]</td></tr></table>
 

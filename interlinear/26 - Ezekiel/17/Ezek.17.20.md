@@ -1,8 +1,67 @@
+---
+title: Ezekiel 17:20
+type: Verse
+kjv: "And I will spread my net upon him, and he shall be taken in my snare, and I will bring him to Babylon, and will plead with him there for his trespass that he hath trespassed against me."
+bsb: "I will spread My net over him and catch him in My snare. I will bring him to Babylon and execute judgment upon him there for the treason he committed against Me."
+hebrew: "וּפָרַשְׂתִּ֤י עָלָיו֙ רִשְׁתִּ֔י וְנִתְפַּ֖שׂ בִּמְצֽוּדָתִ֑י וַהֲבִיאוֹתִ֣יהוּ בָבֶ֗לָה וְנִשְׁפַּטְתִּ֤י אִתּוֹ֙ שָׁ֔ם מַעֲל֖וֹ אֲשֶׁ֥ר מָֽעַל־ בִּֽי׃"
+pericope: "[[Ezek.17.11 The Parable Explained|The Parable Explained]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6566]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7568]]"
+- "[[H9020]]"
+- "[[H8610]]"
+- "[[H9003]]"
+- "[[H4686A]]"
+- "[[H0935P]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H8199]]"
+- "[[H0854]]"
+- "[[H8033G]]"
+- "[[H4604]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H4603]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:20**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will spread my net upon him, and he shall be taken in my snare, and I will bring him to Babylon, and will plead with him there for his trespass that he hath trespassed against me.
 <small><sub>**BSB:**</sub></small>
 I will spread My net over him and catch him in My snare. I will bring him to Babylon and execute judgment upon him there for the treason he committed against Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H6566\|פָרַשְׂתִּ֤י]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H7568\|רִשְׁתִּ֔]][[H9020\|י]] [[H9001\|וְ]][[H8610\|נִתְפַּ֖שׂ]] [[H9003\|בִּ]][[H4686A\|מְצֽוּדָתִ֑]][[H9020\|י]] [[H9001\|וַ]][[H0935P\|הֲבִיאוֹתִ֣י]][[H9033\|הוּ]] [[H0894\|בָבֶ֗לָ]][[H9011\|ה]] [[H9001\|וְ]][[H8199\|נִשְׁפַּטְתִּ֤י]] [[H0854\|אִתּ]][[H9033\|וֹ֙]] [[H8033G\|שָׁ֔ם]] [[H4604\|מַעֲל֖]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֥ר]] [[H4603\|מָֽעַל]][[H9014\|־]] [[H9003\|בִּֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIZENS|CITIZENS]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.19|<< Ezekiel 17:19]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.21|Ezekiel 17:21 >>]]</td></tr></table>
 

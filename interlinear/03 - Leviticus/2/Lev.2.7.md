@@ -1,8 +1,58 @@
+---
+title: Leviticus 2:7
+type: Verse
+kjv: "And if thy oblation be a meat offering baken in the fryingpan, it shall be made of fine flour with oil."
+bsb: "If your offering is a grain offering cooked in a pan, it must consist of fine flour with oil."
+hebrew: "וְאִם־ מִנְחַ֥ת מַרְחֶ֖שֶׁת קָרְבָּנֶ֑ךָ סֹ֥לֶת בַּשֶּׁ֖מֶן תֵּעָשֶֽׂה׃"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic FRYING PAN|FRYING PAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H4503G]]"
+- "[[H4802]]"
+- "[[H7133A]]"
+- "[[H9021]]"
+- "[[H5560]]"
+- "[[H9003]]"
+- "[[H8081]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 2:7**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thy oblation [be] a meat offering [baken] in the fryingpan, it shall be made [of] fine flour with oil.
 <small><sub>**BSB:**</sub></small>
 If your offering is a grain offering cooked in a pan, it must consist of fine flour with oil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H4503G\|מִנְחַ֥ת]] [[H4802\|מַרְחֶ֖שֶׁת]] [[H7133A\|קָרְבָּנֶ֑]][[H9021\|ךָ]] [[H5560\|סֹ֥לֶת]] [[H9003\|בַּ]][[H8081\|שֶּׁ֖מֶן]] [[H6213H\|תֵּעָשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic FRYING PAN|FRYING PAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.6|<< Leviticus 2:6]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.8|Leviticus 2:8 >>]]</td></tr></table>
 

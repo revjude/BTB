@@ -1,8 +1,75 @@
+---
+title: Deuteronomy 11:17
+type: Verse
+kjv: "And then the LORD’S wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and lest ye perish quickly from off the good land which the LORD giveth you."
+bsb: "or the anger of the LORD will be kindled against you. He will shut the heavens so that there will be no rain, nor will the land yield its produce, and you will soon perish from the good land that the LORD is giving you."
+hebrew: "וְחָרָ֨ה אַף־ יְהוָ֜ה בָּכֶ֗ם וְעָצַ֤ר אֶת־ הַשָּׁמַ֙יִם֙ וְלֹֽא־ יִהְיֶ֣ה מָטָ֔ר וְהָ֣אֲדָמָ֔ה לֹ֥א תִתֵּ֖ן אֶת־ יְבוּלָ֑הּ וַאֲבַדְתֶּ֣ם מְהֵרָ֗ה מֵעַל֙ הָאָ֣רֶץ הַטֹּבָ֔ה אֲשֶׁ֥ר יְהוָ֖ה נֹתֵ֥ן לָכֶֽם׃"
+pericope: "[[Deut.11.8 God’s Great Blessings|God’s Great Blessings]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 11
+book/chapter: "[[Deut.11|Deuteronomy 11]]"
+chronological_order: 207
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RAIN|RAIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H0639G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H6113]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H4306]]"
+- "[[H0127G]]"
+- "[[H5414G]]"
+- "[[H2981]]"
+- "[[H9024]]"
+- "[[H0006]]"
+- "[[H4120]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0776G]]"
+- "[[H2896A]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 11:17**<big><big>[[Deut.11.8 God’s Great Blessings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [then] the LORD’S wrath be kindled against you, and he shut up the heaven, that there be no rain, and that the land yield not her fruit; and [lest] ye perish quickly from off the good land which the LORD giveth you.
 <small><sub>**BSB:**</sub></small>
 or the anger of the LORD will be kindled against you. He will shut the heavens so that there will be no rain, nor will the land yield its produce, and you will soon perish from the good land that the LORD is giving you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2734\|חָרָ֨ה]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H9003\|בָּ]][[H9036\|כֶ֗ם]] [[H9001\|וְ]][[H6113\|עָצַ֤ר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִהְיֶ֣ה]] [[H4306\|מָטָ֔ר]] [[H9002\|וְ]][[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H3808\|לֹ֥א]] [[H5414G\|תִתֵּ֖ן]] [[H0853\|אֶת]][[H9014\|־]] [[H2981\|יְבוּלָ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H0006\|אֲבַדְתֶּ֣ם]] [[H4120\|מְהֵרָ֗ה]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2896A\|טֹּבָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RAIN|RAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.11.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.11.16|<< Deuteronomy 11:16]]</td><td align="center" style="border:none;">[[Deut.11|Deuteronomy 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.11.18|Deuteronomy 11:18 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Nehemiah 1:10
+type: Verse
+kjv: "Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand."
+bsb: "They are Your servants and Your people. You redeemed them by Your great power and mighty hand."
+hebrew: "וְהֵ֥ם עֲבָדֶ֖יךָ וְעַמֶּ֑ךָ אֲשֶׁ֤ר פָּדִ֙יתָ֙ בְּכֹחֲךָ֣ הַגָּד֔וֹל וּבְיָדְךָ֖ הַחֲזָקָֽה׃"
+pericope: "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 1
+book/chapter: "[[Neh.1|Nehemiah 1]]"
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H6299]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9009]]"
+- "[[H1419A]]"
+- "[[H3027H]]"
+- "[[H2389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 1:10**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.
 <small><sub>**BSB:**</sub></small>
 They are Your servants and Your people. You redeemed them by Your great power and mighty hand.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1992\|הֵ֥ם]] [[H5650\|עֲבָדֶ֖י]][[H9021\|ךָ]] [[H9002\|וְ]][[H5971A\|עַמֶּ֑]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֤ר]] [[H6299\|פָּדִ֙יתָ֙]] [[H9003\|בְּ]][[H3581B\|כֹחֲ]][[H9021\|ךָ֣]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H9002\|וּ]][[H9003\|בְ]][[H3027H\|יָדְ]][[H9021\|ךָ֖]] [[H9009\|הַ]][[H2389\|חֲזָקָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic NATION|NATION]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic POWER|POWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.9|<< Nehemiah 1:9]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.11|Nehemiah 1:11 >>]]</td></tr></table>
 

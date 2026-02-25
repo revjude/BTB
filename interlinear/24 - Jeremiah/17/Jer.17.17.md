@@ -1,8 +1,58 @@
+---
+title: Jeremiah 17:17
+type: Verse
+kjv: "Be not a terror unto me: thou art my hope in the day of evil."
+bsb: "Do not become a terror to me; You are my refuge in the day of disaster."
+hebrew: "אַל־ תִּֽהְיֵה־ לִ֖י לִמְחִתָּ֑ה מַֽחֲסִי־ אַ֖תָּה בְּי֥וֹם רָעָֽה׃"
+pericope: "[[Jer.17.12 Jeremiah’s Prayer for Deliverance|Jeremiah’s Prayer for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4288]]"
+- "[[H4268]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 17:17**<big><big>[[Jer.17.12 Jeremiah’s Prayer for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be not a terror unto me: thou [art] my hope in the day of evil.
 <small><sub>**BSB:**</sub></small>
 Do not become a terror to me; You are my refuge in the day of disaster.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H1961\|תִּֽהְיֵה]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H9005\|לִ]][[H4288\|מְחִתָּ֑ה]] [[H4268\|מַֽחֲסִ]][[H9020\|י]][[H9014\|־]] [[H0859A\|אַ֖תָּה]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H7451C\|רָעָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.16|<< Jeremiah 17:16]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.18|Jeremiah 17:18 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Numbers 34:14
+type: Verse
+kjv: "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance:"
+bsb: "For the tribes of the Reubenites and Gadites, along with the half-tribe of Manasseh, have already received their inheritance."
+hebrew: "כִּ֣י לָקְח֞וּ מַטֵּ֨ה בְנֵ֤י הָראוּבֵנִי֙ לְבֵ֣ית אֲבֹתָ֔ם וּמַטֵּ֥ה בְנֵֽי־ הַגָּדִ֖י לְבֵ֣ית אֲבֹתָ֑ם וַחֲצִי֙ מַטֵּ֣ה מְנַשֶּׁ֔ה לָקְח֖וּ נַחֲלָתָֽם׃"
+pericope: "[[Num.34.1 The Boundaries of Canaan|The Boundaries of Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 34
+book/chapter: "[[Num.34|Numbers 34]]"
+chronological_order: 194
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H3588A]]"
+- "[[H3947H]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H9009]]"
+- "[[H7206]]"
+- "[[H9005]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H1425]]"
+- "[[H2677]]"
+- "[[H4519G]]"
+- "[[H5159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 34:14**<big><big>[[Num.34.1 The Boundaries of Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received [their inheritance]; and half the tribe of Manasseh have received their inheritance:
 <small><sub>**BSB:**</sub></small>
 For the tribes of the Reubenites and Gadites, along with the half-tribe of Manasseh, have already received their inheritance.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3947H\|לָקְח֞וּ]] [[H4294H\|מַטֵּ֨ה]] [[H1121G\|בְנֵ֤י]] [[H9009\|הָ]][[H7206\|ראוּבֵנִי֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבֹתָ֔]][[H9028\|ם]] [[H9002\|וּ]][[H4294H\|מַטֵּ֥ה]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H9009\|הַ]][[H1425\|גָּדִ֖י]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H0001G\|אֲבֹתָ֑]][[H9028\|ם]] [[H9002\|וַ]][[H2677\|חֲצִי֙]] [[H4294H\|מַטֵּ֣ה]] [[H4519G\|מְנַשֶּׁ֔ה]] [[H3947H\|לָקְח֖וּ]] [[H5159\|נַחֲלָתָֽ]][[H9028\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.34.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.34.13|<< Numbers 34:13]]</td><td align="center" style="border:none;">[[Num.34|Numbers 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.34.15|Numbers 34:15 >>]]</td></tr></table>
 

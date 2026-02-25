@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defeat at Hormah
+type: Pericope
 pericope: "[[Num.14.40 The Defeat at Hormah|The Defeat at Hormah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 14
 book/chapter: "[[Num.14|Numbers 14]]"
-genre:
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 6
 verses:
 - "[[Num.14.40]]"
 - "[[Num.14.41]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Num.14.45]]"
 ---
 
-[[Num.14|Numbers 14:40 - Numbers 14:45]]
+<small>[[Num.14|Numbers 14:40-45]]</small>
 *The Defeat at Hormah*
 
 [[Num.14.40|40]] And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we \[be here\], and will go up unto the place which the LORD hath promised: for we have sinned.

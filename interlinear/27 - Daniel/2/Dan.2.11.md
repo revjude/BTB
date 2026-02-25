@@ -1,8 +1,65 @@
+---
+title: Daniel 2:11
+type: Verse
+kjv: "And it is a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh."
+bsb: "What the king requests is so difficult that no one can tell it to him except the gods, whose dwelling is not with mortals.”"
+aramaic: "וּמִלְּתָ֨א דִֽי־ מַלְכָּ֤ה שָׁאֵל֙ יַקִּירָ֔ה וְאָחֳרָן֙ לָ֣א אִיתַ֔י דִּ֥י יְחַוִּנַּ֖הּ קֳדָ֣ם מַלְכָּ֑א לָהֵ֣ן אֱלָהִ֔ין דִּ֚י מְדָ֣רְה֔וֹן עִם־ בִּשְׂרָ֖א לָ֥א אִיתֽוֹהִי׃"
+pericope: "[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|Nebuchadnezzar’s Troubling Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MAGICIAN|MAGICIAN]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4406]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H4430]]"
+- "[[H7593]]"
+- "[[H3358]]"
+- "[[H0321]]"
+- "[[H3809]]"
+- "[[H0383]]"
+- "[[H2324]]"
+- "[[H9034]]"
+- "[[H6925]]"
+- "[[H3861]]"
+- "[[H0426]]"
+- "[[H4070B]]"
+- "[[H9028]]"
+- "[[H5974]]"
+- "[[H1321]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 2:11**<big><big>[[Dan.2.1 Nebuchadnezzar’s Troubling Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [it is] a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.
 <small><sub>**BSB:**</sub></small>
 What the king requests is so difficult that no one can tell it to him except the gods, whose dwelling is not with mortals.”
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4406\|מִלְּתָ֨]][[H9010\|א]] [[H1768\|דִֽי]][[H9014\|־]] [[H4430\|מַלְכָּ֤]][[H9010\|ה]] [[H7593\|שָׁאֵל֙]] [[H3358\|יַקִּירָ֔ה]] [[H9002\|וְ]][[H0321\|אָחֳרָן֙]] [[H3809\|לָ֣א]] [[H0383\|אִיתַ֔י]] [[H1768\|דִּ֥י]] [[H2324\|יְחַוִּנַּ֖]][[H9034\|הּ]] [[H6925\|קֳדָ֣ם]] [[H4430\|מַלְכָּ֑]][[H9010\|א]] [[H3861\|לָהֵ֣ן]] [[H0426\|אֱלָהִ֔ין]] [[H1768\|דִּ֚י]] [[H4070B\|מְדָ֣רְ]][[H9028\|ה֔וֹן]] [[H5974\|עִם]][[H9014\|־]] [[H1321\|בִּשְׂרָ֖]][[H9010\|א]] [[H3809\|לָ֥א]] [[H0383\|אִיתֽוֹ]][[H9043\|הִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic MAGICIAN|MAGICIAN]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.10|<< Daniel 2:10]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.12|Daniel 2:12 >>]]</td></tr></table>
 

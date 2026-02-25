@@ -1,10 +1,65 @@
+---
+title: Mark 14:54
+type: Verse
+kjv: "And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire."
+bsb: "Peter followed Him at a distance, right into the courtyard of the high priest. And he sat with the officers and warmed himself by the fire."
+greek: "καὶ ὁ Πέτρος ἀπὸ μακρόθεν ἠκολούθησεν αὐτῷ ἕως ἔσω εἰς τὴν αὐλὴν τοῦ ἀρχιερέως καὶ ἦν συγκαθήμενος μετὰ τῶν ὑπηρετῶν καὶ θερμαινόμενος πρὸς τὸ φῶς.¶"
+pericope: "[[Mark.14.53 Jesus before the Sanhedrin|Jesus before the Sanhedrin]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G0575]]"
+- "[[G3113]]"
+- "[[G0190]]"
+- "[[G0846]]"
+- "[[G2193]]"
+- "[[G2080]]"
+- "[[G1519]]"
+- "[[G0833]]"
+- "[[G0749]]"
+- "[[G1510]]"
+- "[[G4775]]"
+- "[[G3326]]"
+- "[[G5257]]"
+- "[[G2328]]"
+- "[[G4314]]"
+- "[[G5457]]"
+texts:
+- NKO
+---
+
 **Mark 14:54**<big><big>[[Mark.14.53 Jesus before the Sanhedrin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Peter followed him afar off, even into the palace of the high priest: and he sat with the servants, and warmed himself at the fire.
 <small><sub>**BSB:**</sub></small>
 Peter followed Him at a distance, right into the courtyard of the high priest. And he sat with the officers and warmed himself by the fire.
-<small><sub>**Literal:**</sub></small>
-And <the> Peter from afar off followed Him until within to the court of the high priest and he was sitting with the officers and warming himself at the fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.53|<< Mark 14:53]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.55|Mark 14:55 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G0575\|ἀπὸ]]  [[G3113\|μακρόθεν]]  [[G0190\|ἠκολούθησεν]]  [[G0846\|αὐτῷ]]  [[G2193\|ἕως]]  [[G2080\|ἔσω]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0833\|αὐλὴν]]  [[G3588\|τοῦ]]  [[G0749\|ἀρχιερέως]]  [[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G4775\|συγκαθήμενος]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G5257\|ὑπηρετῶν]]  [[G2532\|καὶ]]  [[G2328\|θερμαινόμενος]]  [[G4314\|πρὸς]]  [[G3588\|τὸ]]  [[G5457\|φῶς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.53|<< Mark 14:53]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.55|Mark 14:55 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,61 @@
+---
+title: Romans 4:24
+type: Verse
+kjv: "But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;"
+bsb: "but also for us, to whom righteousness will be credited—for us who believe in Him who raised Jesus our Lord from the dead."
+greek: "ἀλλὰ καὶ δι᾽ ἡμᾶς οἷς μέλλει λογίζεσθαι, τοῖς πιστεύουσιν ἐπὶ τὸν ἐγείραντα Ἰησοῦν τὸν κύριον ἡμῶν ἐκ νεκρῶν,"
+pericope: "[[Rom.4.13 Abraham Receives the Promise|Abraham Receives the Promise]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 4
+book/chapter: "[[Rom.4|Romans 4]]"
+chronological_order: 1090
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G1223]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G3195]]"
+- "[[G3049]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1909]]"
+- "[[G1453]]"
+- "[[G2424G]]"
+- "[[G2962G]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+---
+
 **Romans 4:24**<big><big>[[Rom.4.13 Abraham Receives the Promise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;
 <small><sub>**BSB:**</sub></small>
 but also for us, to whom righteousness will be credited—for us who believe in Him who raised Jesus our Lord from the dead.
-<small><sub>**Literal:**</sub></small>
-but also on account of us to whom it is about to be credited, to those believing on the [One] having raised Jesus the Lord of us out from [the] dead,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.23|<< Romans 4:23]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.25|Romans 4:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G1223\|δι᾽]]  [[G3165\|ἡμᾶς]]  [[G3739\|οἷς]]  [[G3195\|μέλλει]]  [[G3049\|λογίζεσθαι,]]  [[G3588\|τοῖς]]  [[G4100\|πιστεύουσιν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G1453\|ἐγείραντα]]  [[G2424G\|Ἰησοῦν]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G3165\|ἡμῶν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SALVATION|SALVATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.4.23|<< Romans 4:23]]</td><td align="center" style="border:none;">[[Rom.4|Romans 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.25|Romans 4:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

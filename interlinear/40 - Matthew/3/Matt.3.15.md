@@ -1,10 +1,63 @@
+---
+title: Matthew 3:15
+type: Verse
+kjv: "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him."
+bsb: "“Let it be so now,” Jesus replied. “It is fitting for us to fulfill all righteousness in this way.” Then John permitted Him."
+jesus_said: "Suffer it to be so now: for thus it becometh us to fulfil all righteousness."
+greek: "ἀποκριθεὶς δὲ ὁ Ἰησοῦς εἶπεν πρὸς αὐτόν· ἄφες ἄρτι· οὕτως γὰρ πρέπον ἐστὶν ἡμῖν πληρῶσαι πᾶσαν δικαιοσύνην. τότε ἀφίησιν αὐτόν.¶"
+pericope: "[[Matt.3.13 The Baptism of Jesus|The Baptism of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 3
+book/chapter: "[[Matt.3|Matthew 3]]"
+chronological_order: 935
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G0863I]]"
+- "[[G0737]]"
+- "[[G3779]]"
+- "[[G1063]]"
+- "[[G4241]]"
+- "[[G1510]]"
+- "[[G3165]]"
+- "[[G4137]]"
+- "[[G3956]]"
+- "[[G1343]]"
+- "[[G5119]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 3:15**<big><big>[[Matt.3.13 The Baptism of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answering said unto him, Suffer [it to be so] now: for thus it becometh us to fulfil all righteousness. Then he suffered him.
 <small><sub>**BSB:**</sub></small>
 “Let it be so now,” Jesus replied. “It is fitting for us to fulfill all righteousness in this way.” Then John permitted Him.
-<small><sub>**Literal:**</sub></small>
-Answering however <the> Jesus said unto him; do permit [it] now; thus for fitting it is to us to fulfill all righteousness. Then he permits Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.14|<< Matthew 3:14]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.16|Matthew 3:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G0863I\|ἄφες]]  [[G0737\|ἄρτι·]]  [[G3779\|οὕτως]]  [[G1063\|γὰρ]]  [[G4241\|πρέπον]]  [[G1510\|ἐστὶν]]  [[G3165\|ἡμῖν]]  [[G4137\|πληρῶσαι]]  [[G3956\|πᾶσαν]]  [[G1343\|δικαιοσύνην.]]  [[G5119\|τότε]]  [[G0863I\|ἀφίησιν]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic OBEDIENCE|OBEDIENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.3.14|<< Matthew 3:14]]</td><td align="center" style="border:none;">[[Matt.3|Matthew 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.3.16|Matthew 3:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,55 @@
+---
+title: Nehemiah 4:10
+type: Verse
+kjv: "And Judah said, The strength of the bearers of burdens is decayed, and there is much rubbish; so that we are not able to build the wall."
+bsb: "Meanwhile, the people of Judah said: “The strength of the laborer fails, and there is so much rubble that we will never be able to rebuild the wall.”"
+hebrew: "וַיֹּ֣אמֶר יְהוּדָ֗ה כָּשַׁל֙ כֹּ֣חַ הַסַּבָּ֔ל וְהֶעָפָ֖ר הַרְבֵּ֑ה וַאֲנַ֙חְנוּ֙ לֹ֣א נוּכַ֔ל לִבְנ֖וֹת בַּחוֹמָֽה׃"
+pericope: "[[Neh.4.9 Discouragement Overcome|Discouragement Overcome]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3063G]]"
+- "[[H3782]]"
+- "[[H3581B]]"
+- "[[H9009]]"
+- "[[H5449]]"
+- "[[H9002]]"
+- "[[H6083]]"
+- "[[H7235A]]"
+- "[[H0587]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H9003]]"
+- "[[H2346G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 4:10**<big><big>[[Neh.4.9 Discouragement Overcome|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah said, The strength of the bearers of burdens is decayed, and [there is] much rubbish; so that we are not able to build the wall.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, the people of Judah said: “The strength of the laborer fails, and there is so much rubble that we will never be able to rebuild the wall.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3063G\|יְהוּדָ֗ה]] [[H3782\|כָּשַׁל֙]] [[H3581B\|כֹּ֣חַ]] [[H9009\|הַ]][[H5449\|סַּבָּ֔ל]] [[H9002\|וְ]][[H9009\|הֶ]][[H6083\|עָפָ֖ר]] [[H7235A\|הַרְבֵּ֑ה]] [[H9002\|וַ]][[H0587\|אֲנַ֙חְנוּ֙]] [[H3808\|לֹ֣א]] [[H3201\|נוּכַ֔ל]] [[H9005\|לִ]][[H1129\|בְנ֖וֹת]] [[H9003\|בַּ]][[H2346G\|חוֹמָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.9|<< Nehemiah 4:9]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.11|Nehemiah 4:11 >>]]</td></tr></table>
 

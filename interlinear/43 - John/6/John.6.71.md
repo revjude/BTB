@@ -1,10 +1,59 @@
+---
+title: John 6:71
+type: Verse
+kjv: "He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve."
+bsb: "He was speaking about Judas, the son of Simon Iscariot. For although Judas was one of the Twelve, he was later to betray Jesus."
+greek: "ἔλεγεν δὲ τὸν Ἰούδαν Σίμωνος Ἰσκαριώτου· οὗτος γὰρ ἔμελλεν παραδιδόναι αὐτὸν εἷς ὢν ἐκ τῶν δώδεκα.¶"
+pericope: "[[John.6.67 Peter’s Confession of Faith|Peter’s Confession of Faith]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIMON|SIMON]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2455H]]"
+- "[[G4613L]]"
+- "[[G2469]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G3195]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G1520]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G1427]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **John 6:71**<big><big>[[John.6.67 Peter’s Confession of Faith|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He spake of Judas Iscariot [the son] of Simon: for he it was that should betray him, being one of the twelve.
 <small><sub>**BSB:**</sub></small>
 He was speaking about Judas, the son of Simon Iscariot. For although Judas was one of the Twelve, he was later to betray Jesus.
-<small><sub>**Literal:**</sub></small>
-He was speaking now <the> of Judas [son] of Simon Iscariot; he for was about to betray Him one being of the Twelve.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.70|<< John 6:70]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.1|John 7:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγεν]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G2455H\|Ἰούδαν]]  [[G4613L\|Σίμωνος]]  [[G2469\|Ἰσκαριώτου·]]  [[G3778\|οὗτος]]  [[G1063\|γὰρ]]  [[G3195\|ἔμελλεν]]  [[G3860\|παραδιδόναι]]  [[G0846\|αὐτὸν]]  [[G1520\|εἷς]]  [[G1510\|ὢν]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G1427\|δώδεκα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIMON|SIMON]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.70|<< John 6:70]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.1|John 7:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job’s Former Blessings
+type: Pericope
 pericope: "[[Job.29.1 Job’s Former Blessings|Job’s Former Blessings]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 29
 book/chapter: "[[Job.29|Job 29]]"
-genre:
+chronological_order: 40
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 25
 verses:
 - "[[Job.29.1]]"
 - "[[Job.29.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Job.29.25]]"
 ---
 
-[[Job.29|Job 29:1 - Job 29:25]]
+<small>[[Job.29|Job 29:1-25]]</small>
 *Job’s Former Blessings*
 
 [[Job.29.1|1]] Moreover Job continued his parable, and said,

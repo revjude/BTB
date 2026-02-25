@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Oppression by a New King
+type: Pericope
 pericope: "[[Exod.1.8 Oppression by a New King|Oppression by a New King]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 1
 book/chapter: "[[Exod.1|Exodus 1]]"
-genre:
+chronological_order: 93
+era: Egypt and Exodus
+period: "Israel in Egypt: Slavery and the Call of Moses"
+date: ~1526–1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 15
 verses:
 - "[[Exod.1.8]]"
 - "[[Exod.1.9]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Exod.1.22]]"
 ---
 
-[[Exod.1|Exodus 1:8 - Exodus 1:22]]
+<small>[[Exod.1|Exodus 1:8-22]]</small>
 *Oppression by a New King*
 
 [[Exod.1.8|8]] Now there arose up a new king over Egypt, which knew not Joseph.

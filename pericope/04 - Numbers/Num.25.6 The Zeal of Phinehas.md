@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Zeal of Phinehas
+type: Pericope
 pericope: "[[Num.25.6 The Zeal of Phinehas|The Zeal of Phinehas]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 25
 book/chapter: "[[Num.25|Numbers 25]]"
-genre:
+chronological_order: 185
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 13
 verses:
 - "[[Num.25.6]]"
 - "[[Num.25.7]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Num.25.18]]"
 ---
 
-[[Num.25|Numbers 25:6 - Numbers 25:18]]
+<small>[[Num.25|Numbers 25:6-18]]</small>
 *The Zeal of Phinehas*
 
 [[Num.25.6|6]] And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who \[were\] weeping \[before\] the door of the tabernacle of the congregation.

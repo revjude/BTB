@@ -1,8 +1,67 @@
+---
+title: Judges 19:5
+type: Verse
+kjv: "And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel’s father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way."
+bsb: "On the fourth day, they got up early in the morning and prepared to depart, but the girl’s father said to his son-in-law, “Refresh your heart with a morsel of bread, and then you can go.”"
+hebrew: "וַֽיְהִי֙ בַּיּ֣וֹם הָרְבִיעִ֔י וַיַּשְׁכִּ֥ימוּ בַבֹּ֖קֶר וַיָּ֣קָם לָלֶ֑כֶת וַיֹּאמֶר֩ אֲבִ֨י הַֽנַּעֲרָ֜ה אֶל־ חֲתָנ֗וֹ סְעָ֧ד לִבְּךָ֛ פַּת־ לֶ֖חֶם וְאַחַ֥ר תֵּלֵֽכוּ׃"
+pericope: "[[Judg.19.1 The Crime of the Benjamites|The Crime of the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 19
+book/chapter: "[[Judg.19|Judges 19]]"
+chronological_order: 273
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONCUBINAGE|CONCUBINAGE]]"
+- "[[topic FATHER-IN-LAW|FATHER-IN-LAW]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H7243]]"
+- "[[H7925]]"
+- "[[H1242]]"
+- "[[H6965B]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H0559]]"
+- "[[H0001G]]"
+- "[[H5291]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2860]]"
+- "[[H9023]]"
+- "[[H5582]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H6595A]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 19:5**<big><big>[[Judg.19.1 The Crime of the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel’s father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way.
 <small><sub>**BSB:**</sub></small>
 On the fourth day, they got up early in the morning and prepared to depart, but the girl’s father said to his son-in-law, “Refresh your heart with a morsel of bread, and then you can go.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הָ]][[H7243\|רְבִיעִ֔י]] [[H9001\|וַ]][[H7925\|יַּשְׁכִּ֥ימוּ]] [[H9003\|בַ]][[H1242\|בֹּ֖קֶר]] [[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H9005\|לָ]][[H1980G\|לֶ֑כֶת]] [[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H0001G\|אֲבִ֨י]] [[H9009\|הַֽ]][[H5291\|נַּעֲרָ֜ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2860\|חֲתָנ֗]][[H9023\|וֹ]] [[H5582\|סְעָ֧ד]] [[H3820A\|לִבְּ]][[H9021\|ךָ֛]] [[H6595A\|פַּת]][[H9014\|־]] [[H3899H\|לֶ֖חֶם]] [[H9002\|וְ]][[H0310A\|אַחַ֥ר]] [[H1980G\|תֵּלֵֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCUBINAGE|CONCUBINAGE]] • [[topic FATHER-IN-LAW|FATHER-IN-LAW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.19.4|<< Judges 19:4]]</td><td align="center" style="border:none;">[[Judg.19|Judges 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.19.6|Judges 19:6 >>]]</td></tr></table>
 

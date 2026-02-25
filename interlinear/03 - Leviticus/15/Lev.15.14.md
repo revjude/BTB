@@ -1,8 +1,72 @@
+---
+title: Leviticus 15:14
+type: Verse
+kjv: "And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the LORD unto the door of the tabernacle of the congregation, and give them unto the priest:"
+bsb: "On the eighth day he is to take two turtledoves or two young pigeons, come before the LORD at the entrance to the Tent of Meeting, and give them to the priest."
+hebrew: "וּבַיּ֣וֹם הַשְּׁמִינִ֗י יִֽקַּֽח־ לוֹ֙ שְׁתֵּ֣י תֹרִ֔ים א֥וֹ שְׁנֵ֖י בְּנֵ֣י יוֹנָ֑ה וּבָ֣א׀ לִפְנֵ֣י יְהוָ֗ה אֶל־ פֶּ֙תַח֙ אֹ֣הֶל מוֹעֵ֔ד וּנְתָנָ֖ם אֶל־ הַכֹּהֵֽן׃"
+pericope: "[[Lev.15.13 The Cleansing of Men|The Cleansing of Men]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 15
+book/chapter: "[[Lev.15|Leviticus 15]]"
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H8066]]"
+- "[[H3947G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8147]]"
+- "[[H8449]]"
+- "[[H0176A]]"
+- "[[H1121H]]"
+- "[[H3123]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9015]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3548]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 15:14**<big><big>[[Lev.15.13 The Cleansing of Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And on the eighth day he shall take to him two turtledoves, or two young pigeons, and come before the LORD unto the door of the tabernacle of the congregation, and give them unto the priest:
 <small><sub>**BSB:**</sub></small>
 On the eighth day he is to take two turtledoves or two young pigeons, come before the LORD at the entrance to the Tent of Meeting, and give them to the priest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H8066\|שְּׁמִינִ֗י]] [[H3947G\|יִֽקַּֽח]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H8147\|שְׁתֵּ֣י]] [[H8449\|תֹרִ֔ים]] [[H0176A\|א֥וֹ]] [[H8147\|שְׁנֵ֖י]] [[H1121H\|בְּנֵ֣י]] [[H3123\|יוֹנָ֑ה]] [[H9001\|וּ]][[H0935G\|בָ֣א]][[H9015\|׀]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֗ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֙תַח֙]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֔ד]] [[H9001\|וּ]][[H5414G\|נְתָנָ֖]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.15.13|<< Leviticus 15:13]]</td><td align="center" style="border:none;">[[Lev.15|Leviticus 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.15.15|Leviticus 15:15 >>]]</td></tr></table>
 

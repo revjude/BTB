@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 1:24
+type: Verse
+kjv: "And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out."
+bsb: "They left and went up into the hill country, and came to the Valley of Eshcol and spied out the land."
+hebrew: "וַיִּפְנוּ֙ וַיַּעֲל֣וּ הָהָ֔רָה וַיָּבֹ֖אוּ עַד־ נַ֣חַל אֶשְׁכֹּ֑ל וַֽיְרַגְּל֖וּ אֹתָֽהּ׃"
+pericope: "[[Deut.1.19 Twelve Spies Sent Out|Twelve Spies Sent Out]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ESHCOL|ESHCOL]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6437G]]"
+- "[[H5927G]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H9011]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H5158H]]"
+- "[[H0812H]]"
+- "[[H7270]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:24**<big><big>[[Deut.1.19 Twelve Spies Sent Out|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.
 <small><sub>**BSB:**</sub></small>
 They left and went up into the hill country, and came to the Valley of Eshcol and spied out the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6437G\|יִּפְנוּ֙]] [[H9001\|וַ]][[H5927G\|יַּעֲל֣וּ]] [[H9009\|הָ]][[H2022H\|הָ֔רָ]][[H9011\|ה]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H5704\|עַד]][[H9014\|־]] [[H5158H\|נַ֣חַל]] [[H0812H\|אֶשְׁכֹּ֑ל]] [[H9001\|וַֽ]][[H7270\|יְרַגְּל֖וּ]] [[H0853\|אֹתָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESHCOL|ESHCOL]] • [[topic FAITH|FAITH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.23|<< Deuteronomy 1:23]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.25|Deuteronomy 1:25 >>]]</td></tr></table>
 

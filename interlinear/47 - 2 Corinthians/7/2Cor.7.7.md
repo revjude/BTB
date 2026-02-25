@@ -1,10 +1,66 @@
+---
+title: 2 Corinthians 7:7
+type: Verse
+kjv: "And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more."
+bsb: "and not only by his arrival, but also by the comfort he had received from you. He told us about your longing, your mourning, and your zeal for me, so that I rejoiced all the more."
+greek: "οὐ μόνον δὲ ἐν τῇ παρουσίᾳ αὐτοῦ, ἀλλὰ καὶ ἐν τῇ παρακλήσει ᾗ παρεκλήθη ἐφ᾽ ὑμῖν ἀναγγέλλων ἡμῖν τὴν ὑμῶν ἐπιπόθησιν, τὸν ὑμῶν ὀδυρμόν, τὸν ὑμῶν ζῆλον ὑπὲρ ἐμοῦ, ὥστε με μᾶλλον χαρῆναι."
+pericope: "[[2Cor.7.1 Paul’s Joy in the Corinthians|Paul’s Joy in the Corinthians]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 7
+book/chapter: "[[2Cor.7|2 Corinthians 7]]"
+chronological_order: 1080
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3952]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G3874]]"
+- "[[G3739]]"
+- "[[G3870]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G0312]]"
+- "[[G3165]]"
+- "[[G1972]]"
+- "[[G3602]]"
+- "[[G2205]]"
+- "[[G5228]]"
+- "[[G1473]]"
+- "[[G5620]]"
+- "[[G3123G]]"
+- "[[G5463]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 7:7**<big><big>[[2Cor.7.1 Paul’s Joy in the Corinthians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And not by his coming only, but by the consolation wherewith he was comforted in you, when he told us your earnest desire, your mourning, your fervent mind toward me; so that I rejoiced the more.
 <small><sub>**BSB:**</sub></small>
 and not only by his arrival, but also by the comfort he had received from you. He told us about your longing, your mourning, and your zeal for me, so that I rejoiced all the more.
-<small><sub>**Literal:**</sub></small>
-not only now by the coming of him, but also by the comfort with which he was comforted as to you relating to us <the> your earnest desire, <the> your mourning, <the> your zeal for me, so as for me [the] more to rejoice.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.6|<< 2 Corinthians 7:6]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.8|2 Corinthians 7:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3952\|παρουσίᾳ]]  [[G0846\|αὐτοῦ,]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3874\|παρακλήσει]]  [[G3739\|ᾗ]]  [[G3870\|παρεκλήθη]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμῖν]]  [[G0312\|ἀναγγέλλων]]  [[G3165\|ἡμῖν]]  [[G3588\|τὴν]]  [[G4771\|ὑμῶν]]  [[G1972\|ἐπιπόθησιν,]]  [[G3588\|τὸν]]  [[G4771\|ὑμῶν]]  [[G3602\|ὀδυρμόν,]]  [[G3588\|τὸν]]  [[G4771\|ὑμῶν]]  [[G2205\|ζῆλον]]  [[G5228\|ὑπὲρ]]  [[G1473\|ἐμοῦ,]]  [[G5620\|ὥστε]]  [[G3165\|με]]  [[G3123G\|μᾶλλον]]  [[G5463\|χαρῆναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.7.6|<< 2 Corinthians 7:6]]</td><td align="center" style="border:none;">[[2Cor.7|2 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.7.8|2 Corinthians 7:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,76 @@
+---
+title: Exodus 10:3
+type: Verse
+kjv: "And Moses and Aaron came in unto Pharaoh, and said unto him, Thus saith the LORD God of the Hebrews, How long wilt thou refuse to humble thyself before me? let my people go, that they may serve me."
+bsb: "So Moses and Aaron went to Pharaoh and told him, “This is what the LORD, the God of the Hebrews, says: ‘How long will you refuse to humble yourself before Me? Let My people go, so that they may worship Me."
+hebrew: "וַיָּבֹ֨א מֹשֶׁ֣ה וְאַהֲרֹן֮ אֶל־ פַּרְעֹה֒ וַיֹּאמְר֣וּ אֵלָ֗יו כֹּֽה־ אָמַ֤ר יְהוָה֙ אֱלֹהֵ֣י הָֽעִבְרִ֔ים עַד־ מָתַ֣י מֵאַ֔נְתָּ לֵעָנֹ֖ת מִפָּנָ֑י שַׁלַּ֥ח עַמִּ֖י וְיַֽעַבְדֻֽנִי׃"
+pericope: "[[Exod.10.1 The Eighth Plague：Locusts|The Eighth Plague：Locusts]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 10
+book/chapter: "[[Exod.10|Exodus 10]]"
+chronological_order: 102
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic LOCUST|LOCUST]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547J]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9009]]"
+- "[[H5680]]"
+- "[[H5704]]"
+- "[[H4970]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H6031B]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H7971H]]"
+- "[[H5971A]]"
+- "[[H5647H]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 10:3**<big><big>[[Exod.10.1 The Eighth Plague：Locusts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron came in unto Pharaoh, and said unto him, Thus saith the LORD God of the Hebrews, How long wilt thou refuse to humble thyself before me? let my people go, that they may serve me.
 <small><sub>**BSB:**</sub></small>
 So Moses and Aaron went to Pharaoh and told him, “This is what the LORD, the God of the Hebrews, says: ‘How long will you refuse to humble yourself before Me? Let My people go, so that they may worship Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H4872\|מֹשֶׁ֣ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹן֮]] [[H0413\|אֶל]][[H9014\|־]] [[H6547J\|פַּרְעֹה֒]] [[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֤ר]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹהֵ֣י]] [[H9009\|הָֽ]][[H5680\|עִבְרִ֔ים]] [[H5704\|עַד]][[H9014\|־]] [[H4970\|מָתַ֣י]] [[H3985\|מֵאַ֔נְתָּ]] [[H9005\|לֵ]][[H6031B\|עָנֹ֖ת]] [[H9006\|מִ]][[H6440G\|פָּנָ֑]][[H9020\|י]] [[H7971H\|שַׁלַּ֥ח]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9002\|וְ]][[H5647H\|יַֽעַבְדֻֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ISRAEL|ISRAEL]] • [[topic LOCUST|LOCUST]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.10.2|<< Exodus 10:2]]</td><td align="center" style="border:none;">[[Exod.10|Exodus 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.10.4|Exodus 10:4 >>]]</td></tr></table>
 

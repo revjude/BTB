@@ -1,8 +1,64 @@
+---
+title: Isaiah 21:2
+type: Verse
+kjv: "A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease."
+bsb: "A dire vision is declared to me: “The traitor still betrays, and the destroyer still destroys. Go up, O Elam! Lay siege, O Media! I will put an end to all her groaning.”"
+hebrew: "חָז֥וּת קָשָׁ֖ה הֻגַּד־ לִ֑י הַבּוֹגֵ֤ד׀ בּוֹגֵד֙ וְהַשּׁוֹדֵ֣ד׀ שׁוֹדֵ֔ד עֲלִ֤י עֵילָם֙ צוּרִ֣י מָדַ֔י כָּל־ אַנְחָתָ֖ה הִשְׁבַּֽתִּי׃"
+pericope: "[[Isa.21.1 Babylon Is Fallen|Babylon Is Fallen]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 21
+book/chapter: "[[Isa.21|Isaiah 21]]"
+chronological_order: 638
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H2380]]"
+- "[[H7186]]"
+- "[[H5046]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9009]]"
+- "[[H0898]]"
+- "[[H9015]]"
+- "[[H9002]]"
+- "[[H7703]]"
+- "[[H5927G]]"
+- "[[H5867A]]"
+- "[[H6696A]]"
+- "[[H4074H]]"
+- "[[H3605]]"
+- "[[H0585]]"
+- "[[H9024]]"
+- "[[H7673A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 21:2**<big><big>[[Isa.21.1 Babylon Is Fallen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A grievous vision is declared unto me; the treacherous dealer dealeth treacherously, and the spoiler spoileth. Go up, O Elam: besiege, O Media; all the sighing thereof have I made to cease.
 <small><sub>**BSB:**</sub></small>
 A dire vision is declared to me: “The traitor still betrays, and the destroyer still destroys. Go up, O Elam! Lay siege, O Media! I will put an end to all her groaning.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2380\|חָז֥וּת]] [[H7186\|קָשָׁ֖ה]] [[H5046\|הֻגַּד]][[H9014\|־]] [[H9005\|לִ֑]][[H9030\|י]] [[H9009\|הַ]][[H0898\|בּוֹגֵ֤ד]][[H9015\|׀]] [[H0898\|בּוֹגֵד֙]] [[H9002\|וְ]][[H9009\|הַ]][[H7703\|שּׁוֹדֵ֣ד]][[H9015\|׀]] [[H7703\|שׁוֹדֵ֔ד]] [[H5927G\|עֲלִ֤י]] [[H5867A\|עֵילָם֙]] [[H6696A\|צוּרִ֣י]] [[H4074H\|מָדַ֔י]] [[H3605\|כָּל]][[H9014\|־]] [[H0585\|אַנְחָתָ֖]][[H9024\|ה]] [[H7673A\|הִשְׁבַּֽתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CYRUS|CYRUS]] • [[topic ISAIAH|ISAIAH]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.21.1|<< Isaiah 21:1]]</td><td align="center" style="border:none;">[[Isa.21|Isaiah 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.21.3|Isaiah 21:3 >>]]</td></tr></table>
 

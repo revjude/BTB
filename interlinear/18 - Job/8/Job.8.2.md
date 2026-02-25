@@ -1,8 +1,53 @@
+---
+title: Job 8:2
+type: Verse
+kjv: "How long wilt thou speak these things? and how long shall the words of thy mouth be like a strong wind?"
+bsb: "“How long will you go on saying such things? The words of your mouth are a blustering wind."
+hebrew: "עַד־ אָ֥ן תְּמַלֶּל־ אֵ֑לֶּה וְר֥וּחַ כַּ֝בִּיר אִמְרֵי־ פִֽיךָ׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H0575]]"
+- "[[H4448A]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H7307H]]"
+- "[[H3524]]"
+- "[[H0561]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:2**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How long wilt thou speak these [things]? and [how long shall] the words of thy mouth [be like] a strong wind?
 <small><sub>**BSB:**</sub></small>
 “How long will you go on saying such things? The words of your mouth are a blustering wind.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַד]][[H9014\|־]] [[H0575\|אָ֥ן]] [[H4448A\|תְּמַלֶּל]][[H9014\|־]] [[H0428\|אֵ֑לֶּה]] [[H9002\|וְ]][[H7307H\|ר֥וּחַ]] [[H3524\|כַּ֝בִּיר]] [[H0561\|אִמְרֵי]][[H9014\|־]] [[H6310G\|פִֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORDS|WORDS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.1|<< Job 8:1]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.3|Job 8:3 >>]]</td></tr></table>
 

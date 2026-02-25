@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 15:6
+type: Verse
+kjv: "For the LORD thy God blesseth thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee."
+bsb: "When the LORD your God blesses you as He has promised, you will lend to many nations but borrow from none; you will rule over many nations but be ruled by none."
+hebrew: "כִּֽי־ יְהוָ֤ה אֱלֹהֶ֙יךָ֙ בֵּֽרַכְךָ֔ כַּאֲשֶׁ֖ר דִּבֶּר־ לָ֑ךְ וְהַֽעֲבַטְתָּ֞ גּוֹיִ֣ם רַבִּ֗ים וְאַתָּה֙ לֹ֣א תַעֲבֹ֔ט וּמָֽשַׁלְתָּ֙ בְּגוֹיִ֣ם רַבִּ֔ים וּבְךָ֖ לֹ֥א יִמְשֹֽׁלוּ׃ ס"
+pericope: "[[Deut.15.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H9005]]"
+- "[[H9001]]"
+- "[[H5670]]"
+- "[[H1471A]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3808]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:6**<big><big>[[Deut.15.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD thy God blesseth thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee.
 <small><sub>**BSB:**</sub></small>
 When the LORD your God blesses you as He has promised, you will lend to many nations but borrow from none; you will rule over many nations but be ruled by none.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H1288\|בֵּֽרַכְ]][[H9031\|ךָ֔]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H1696I\|דִּבֶּר]][[H9014\|־]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H9001\|וְ]][[H5670\|הַֽעֲבַטְתָּ֞]] [[H1471A\|גּוֹיִ֣ם]] [[H7227A\|רַבִּ֗ים]] [[H9002\|וְ]][[H0859A\|אַתָּה֙]] [[H3808\|לֹ֣א]] [[H5670\|תַעֲבֹ֔ט]] [[H9001\|וּ]][[H4910\|מָֽשַׁלְתָּ֙]] [[H9003\|בְּ]][[H1471A\|גוֹיִ֣ם]] [[H7227A\|רַבִּ֔ים]] [[H9002\|וּ]][[H9003\|בְ]][[H9031\|ךָ֖]] [[H3808\|לֹ֥א]] [[H4910\|יִמְשֹֽׁלוּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.5|<< Deuteronomy 15:5]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.7|Deuteronomy 15:7 >>]]</td></tr></table>
 
@@ -26,7 +89,7 @@ When the LORD your God blesses you as He has promised, you will lend to many nat
 | many  |**<big>&#8207;[[H7227A\|רַבִּ֔ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and over \<the> you  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H9031\|ךָ֖]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.<small><sup>[[HRd]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they will rule  |**<big>&#8207;[[H4910\|יִמְשֹֽׁלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yim.Sho.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| they will rule  |**<big>&#8207;[[H4910\|יִמְשֹֽׁלוּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yim.Sho.lu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.5|<< Deuteronomy 15:5]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.7|Deuteronomy 15:7 >>]]</td></tr></table>
 
 

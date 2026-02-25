@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Children and Parents
+type: Pericope
 pericope: "[[Eph.6.1 Children and Parents|Children and Parents]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 6
 book/chapter: "[[Eph.6|Ephesians 6]]"
-genre:
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 4
 verses:
 - "[[Eph.6.1]]"
 - "[[Eph.6.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Eph.6.4]]"
 ---
 
-[[Eph.6|Ephesians 6:1 - Ephesians 6:4]]
+<small>[[Eph.6|Ephesians 6:1-4]]</small>
 *Children and Parents*
 
 [[Eph.6.1|1]] Children, obey your parents in the Lord: for this is right.

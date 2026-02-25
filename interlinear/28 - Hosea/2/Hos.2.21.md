@@ -1,8 +1,58 @@
+---
+title: Hosea 2:21
+type: Verse
+kjv: "And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth;"
+bsb: "“On that day I will respond—” declares the LORD—“I will respond to the heavens, and they will respond to the earth."
+hebrew: "וְהָיָ֣ה׀ בַּיּ֣וֹם הַה֗וּא אֶֽעֱנֶה֙ נְאֻם־ יְהוָ֔ה אֶעֱנֶ֖ה אֶת־ הַשָּׁמָ֑יִם וְהֵ֖ם יַעֲנ֥וּ אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Hos.2.14 God’s Mercy to Israel|God’s Mercy to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H6030B]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:21**<big><big>[[Hos.2.14 God’s Mercy to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth;
 <small><sub>**BSB:**</sub></small>
 “On that day I will respond—” declares the LORD—“I will respond to the heavens, and they will respond to the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H6030B\|אֶֽעֱנֶה֙]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H6030B\|אֶעֱנֶ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9002\|וְ]][[H1992\|הֵ֖ם]] [[H6030B\|יַעֲנ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.20|<< Hosea 2:20]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.22|Hosea 2:22 >>]]</td></tr></table>
 

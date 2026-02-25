@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Isaac Blesses Jacob
+type: Pericope
 pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
-verse_count: 29
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 27
 book/chapter: "[[Gen.27|Genesis 27]]"
-genre:
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 29
 verses:
 - "[[Gen.27.1]]"
 - "[[Gen.27.2]]"
@@ -50,7 +57,7 @@ verses:
 - "[[Gen.27.29]]"
 ---
 
-[[Gen.27|Genesis 27:1 - Genesis 27:29]]
+<small>[[Gen.27|Genesis 27:1-29]]</small>
 *Isaac Blesses Jacob*
 
 [[Gen.27.1|1]] And it came to pass, that when Isaac was old, and his eyes were dim, so that he could not see, he called Esau his eldest son, and said unto him, My son: and he said unto him, Behold, \[here am\] I.

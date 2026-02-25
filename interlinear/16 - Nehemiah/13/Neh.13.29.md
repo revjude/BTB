@@ -1,8 +1,58 @@
+---
+title: Nehemiah 13:29
+type: Verse
+kjv: "Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites."
+bsb: "Remember them, O my God, because they have defiled the priesthood and the covenant of the priesthood and of the Levites."
+hebrew: "זָכְרָ֥ה לָהֶ֖ם אֱלֹהָ֑י עַ֚ל גָּאֳלֵ֣י הַכְּהֻנָּ֔ה וּבְרִ֥ית הַכְּהֻנָּ֖ה וְהַלְוִיִּֽם׃"
+pericope: "[[Neh.13.23 Intermarriage Forbidden|Intermarriage Forbidden]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H2142]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H1352]]"
+- "[[H9009]]"
+- "[[H3550]]"
+- "[[H9002]]"
+- "[[H1285]]"
+- "[[H3881]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:29**<big><big>[[Neh.13.23 Intermarriage Forbidden|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.
 <small><sub>**BSB:**</sub></small>
 Remember them, O my God, because they have defiled the priesthood and the covenant of the priesthood and of the Levites.
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|זָכְרָ֥]][[H9012\|ה]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H5921A\|עַ֚ל]] [[H1352\|גָּאֳלֵ֣י]] [[H9009\|הַ]][[H3550\|כְּהֻנָּ֔ה]] [[H9002\|וּ]][[H1285\|בְרִ֥ית]] [[H9009\|הַ]][[H3550\|כְּהֻנָּ֖ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DIVORCE|DIVORCE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.28|<< Nehemiah 13:28]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.30|Nehemiah 13:30 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 52:19
+type: Verse
+kjv: "And the basons, and the firepans, and the bowls, and the caldrons, and the candlesticks, and the spoons, and the cups; that which was of gold in gold, and that which was of silver in silver, took the captain of the guard away."
+bsb: "The captain of the guard also took away the basins, censers, sprinkling bowls, pots, lampstands, pans, and drink offering bowls—anything made of pure gold or fine silver."
+hebrew: "וְאֶת־ הַ֠סִּפִּים וְאֶת־ הַמַּחְתּ֨וֹת וְאֶת־ הַמִּזְרָק֜וֹת וְאֶת־ הַסִּיר֣וֹת וְאֶת־ הַמְּנֹר֗וֹת וְאֶת־ הַכַּפּוֹת֙ וְאֶת־ הַמְּנַקִי֔וֹת אֲשֶׁ֤ר זָהָב֙ זָהָ֔ב וַאֲשֶׁר־ כֶּ֖סֶף כָּ֑סֶף לָקַ֖ח רַב־ טַבָּחִֽים׃"
+pericope: "[[Jer.52.12 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 52
+book/chapter: "[[Jer.52|Jeremiah 52]]"
+chronological_order: 775
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CALDRON|CALDRON]]"
+- "[[topic CANDLESTICK|CANDLESTICK]]"
+- "[[topic CUP|CUP]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5592A]]"
+- "[[H4289]]"
+- "[[H4219]]"
+- "[[H5518A]]"
+- "[[H4501]]"
+- "[[H3709I]]"
+- "[[H4518]]"
+- "[[H0834A]]"
+- "[[H2091]]"
+- "[[H3701G]]"
+- "[[H3947G]]"
+- "[[H7227B]]"
+- "[[H2876]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 52:19**<big><big>[[Jer.52.12 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the basons, and the firepans, and the bowls, and the caldrons, and the candlesticks, and the spoons, and the cups; [that] which [was] of gold [in] gold, and [that] which [was] of silver [in] silver, took the captain of the guard away.
 <small><sub>**BSB:**</sub></small>
 The captain of the guard also took away the basins, censers, sprinkling bowls, pots, lampstands, pans, and drink offering bowls—anything made of pure gold or fine silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֠]][[H5592A\|סִּפִּים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4289\|מַּחְתּ֨וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4219\|מִּזְרָק֜וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5518A\|סִּיר֣וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4501\|מְּנֹר֗וֹת]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3709I\|כַּפּוֹת֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4518\|מְּנַקִי֔וֹת]] [[H0834A\|אֲשֶׁ֤ר]] [[H2091\|זָהָב֙]] [[H2091\|זָהָ֔ב]] [[H9002\|וַ]][[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3701G\|כֶּ֖סֶף]] [[H3701G\|כָּ֑סֶף]] [[H3947G\|לָקַ֖ח]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALDRON|CALDRON]] • [[topic CANDLESTICK|CANDLESTICK]] • [[topic CUP|CUP]] • [[topic GOLD|GOLD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MONTH|MONTH]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.52.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.52.18|<< Jeremiah 52:18]]</td><td align="center" style="border:none;">[[Jer.52|Jeremiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.52.20|Jeremiah 52:20 >>]]</td></tr></table>
 

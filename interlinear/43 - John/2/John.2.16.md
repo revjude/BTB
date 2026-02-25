@@ -1,10 +1,60 @@
+---
+title: John 2:16
+type: Verse
+kjv: "And said unto them that sold doves, Take these things hence; make not my Father’s house an house of merchandise."
+bsb: "To those selling doves He said, “Get these out of here! How dare you turn My Father’s house into a marketplace!”"
+jesus_said: "Take these things hence; make not my Father’s house an house of merchandise."
+greek: "καὶ τοῖς τὰς περιστερὰς πωλοῦσιν εἶπεν· ἄρατε ταῦτα ἐντεῦθεν, μὴ ποιεῖτε τὸν οἶκον τοῦ πατρός μου οἶκον ἐμπορίου."
+pericope: "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4058]]"
+- "[[G4453]]"
+- "[[G2036]]"
+- "[[G0142]]"
+- "[[G3778]]"
+- "[[G1782]]"
+- "[[G3361]]"
+- "[[G4160G]]"
+- "[[G3624G]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G1712]]"
+texts:
+- NKO
+---
+
 **John 2:16**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And said unto them that sold doves, Take these things hence; make not my Father’s house an house of merchandise.
 <small><sub>**BSB:**</sub></small>
 To those selling doves He said, “Get these out of here! How dare you turn My Father’s house into a marketplace!”
-<small><sub>**Literal:**</sub></small>
-And to those <the> doves selling He said; do take these things from here, not do make the house of the Father of Mine a house of trade.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.15|<< John 2:15]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.17|John 2:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τοῖς]]  [[G3588\|τὰς]]  [[G4058\|περιστερὰς]]  [[G4453\|πωλοῦσιν]]  [[G2036\|εἶπεν·]]  [[G0142\|ἄρατε]]  [[G3778\|ταῦτα]]  [[G1782\|ἐντεῦθεν,]]  [[G3361\|μὴ]]  [[G4160G\|ποιεῖτε]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G3588\|τοῦ]]  [[G3962\|πατρός]]  [[G3165\|μου]]  [[G3624G\|οἶκον]]  [[G1712\|ἐμπορίου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SACRILEGE|SACRILEGE]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.15|<< John 2:15]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.17|John 2:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 32:30
+type: Verse
+kjv: "This same Hezekiah also stopped the upper watercourse of Gihon, and brought it straight down to the west side of the city of David. And Hezekiah prospered in all his works."
+bsb: "It was Hezekiah who blocked the upper outlet of the Spring of Gihon and channeled it down to the west side of the City of David. And Hezekiah prospered in all that he did."
+hebrew: "וְה֣וּא יְחִזְקִיָּ֗הוּ סָתַם֙ אֶת־ מוֹצָ֞א מֵימֵ֤י גִיחוֹן֙ הָֽעֶלְי֔וֹן וַֽיַּישְּׁרֵ֥ם לְמַֽטָּה־ מַּעְרָ֖בָה לְעִ֣יר דָּוִ֑יד וַיַּצְלַ֥ח יְחִזְקִיָּ֖הוּ בְּכָֽל־ מַעֲשֵֽׂהוּ׃"
+pericope: "[[2Chr.32.24 Hezekiah’s Illness and Recovery|Hezekiah’s Illness and Recovery]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GIHON|GIHON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H2396G]]"
+- "[[H5640A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4161]]"
+- "[[H4325G]]"
+- "[[H1521]]"
+- "[[H9009]]"
+- "[[H5945A]]"
+- "[[H9001]]"
+- "[[H3474]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H4295]]"
+- "[[H4628]]"
+- "[[H9011]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H6743B]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H4639K]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:30**<big><big>[[2Chr.32.24 Hezekiah’s Illness and Recovery|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This same Hezekiah also stopped the upper watercourse of Gihon, and brought it straight down to the west side of the city of David. And Hezekiah prospered in all his works.
 <small><sub>**BSB:**</sub></small>
 It was Hezekiah who blocked the upper outlet of the Spring of Gihon and channeled it down to the west side of the City of David. And Hezekiah prospered in all that he did.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1931\|ה֣וּא]] [[H2396G\|יְחִזְקִיָּ֗הוּ]] [[H5640A\|סָתַם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4161\|מוֹצָ֞א]] [[H4325G\|מֵימֵ֤י]] [[H1521\|גִיחוֹן֙]] [[H9009\|הָֽ]][[H5945A\|עֶלְי֔וֹן]] [[H9001\|וַֽ]][[H3474\|יַּישְּׁרֵ֥]][[H9038\|ם]] [[H9005\|לְ]][[H4295\|מַֽטָּה]][[H9014\|־]] [[H4628\|מַּעְרָ֖בָ]][[H9011\|ה]] [[H9005\|לְ]][[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֑יד]] [[H9001\|וַ]][[H6743B\|יַּצְלַ֥ח]] [[H2396G\|יְחִזְקִיָּ֖הוּ]] [[H9003\|בְּ]][[H3605\|כָֽל]][[H9014\|־]] [[H4639K\|מַעֲשֵֽׂ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIHON|GIHON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.29|<< 2 Chronicles 32:29]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.31|2 Chronicles 32:31 >>]]</td></tr></table>
 

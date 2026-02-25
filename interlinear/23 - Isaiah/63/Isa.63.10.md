@@ -1,8 +1,60 @@
+---
+title: Isaiah 63:10
+type: Verse
+kjv: "But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, and he fought against them."
+bsb: "But they rebelled and grieved His Holy Spirit. So He turned and became their enemy, and He Himself fought against them."
+hebrew: "וְהֵ֛מָּה מָר֥וּ וְעִצְּב֖וּ אֶת־ ר֣וּחַ קָדְשׁ֑וֹ וַיֵּהָפֵ֥ךְ לָהֶ֛ם לְאוֹיֵ֖ב ה֥וּא נִלְחַם־ בָּֽם׃"
+pericope: "[[Isa.63.7 God’s Mercies Recalled|God’s Mercies Recalled]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H4784]]"
+- "[[H6087A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H6944G]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0341]]"
+- "[[H1931]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 63:10**<big><big>[[Isa.63.7 God’s Mercies Recalled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, [and] he fought against them.
 <small><sub>**BSB:**</sub></small>
 But they rebelled and grieved His Holy Spirit. So He turned and became their enemy, and He Himself fought against them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1992\|הֵ֛מָּה]] [[H4784\|מָר֥וּ]] [[H9002\|וְ]][[H6087A\|עִצְּב֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֣וּחַ]] [[H6944G\|קָדְשׁ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H2015\|יֵּהָפֵ֥ךְ]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H9005\|לְ]][[H0341\|אוֹיֵ֖ב]] [[H1931\|ה֥וּא]] [[H3898A\|נִלְחַם]][[H9014\|־]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic TRINITY|TRINITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.9|<< Isaiah 63:9]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.11|Isaiah 63:11 >>]]</td></tr></table>
 

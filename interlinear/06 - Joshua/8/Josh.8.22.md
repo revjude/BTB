@@ -1,8 +1,68 @@
+---
+title: Joshua 8:22
+type: Verse
+kjv: "And the other issued out of the city against them; so they were in the midst of Israel, some on this side, and some on that side: and they smote them, so that they let none of them remain or escape."
+bsb: "Meanwhile, those in the ambush came out of the city against them, and the men of Ai were trapped between the Israelite forces on both sides. So Israel struck them down until no survivor or fugitive remained."
+hebrew: "וְאֵ֨לֶּה יָצְא֤וּ מִן־ הָעִיר֙ לִקְרָאתָ֔ם וַיִּֽהְי֤וּ לְיִשְׂרָאֵל֙ בַּתָּ֔וֶךְ אֵ֥לֶּה מִזֶּ֖ה וְאֵ֣לֶּה מִזֶּ֑ה וַיַּכּ֣וּ אוֹתָ֔ם עַד־ בִּלְתִּ֥י הִשְׁאִֽיר־ ל֖וֹ שָׂרִ֥יד וּפָלִֽיט׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9005]]"
+- "[[H7122H]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H5704]]"
+- "[[H1115]]"
+- "[[H7604]]"
+- "[[H9033]]"
+- "[[H8300]]"
+- "[[H6412A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:22**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the other issued out of the city against them; so they were in the midst of Israel, some on this side, and some on that side: and they smote them, so that they let none of them remain or escape.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, those in the ambush came out of the city against them, and the men of Ai were trapped between the Israelite forces on both sides. So Israel struck them down until no survivor or fugitive remained.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֨לֶּה]] [[H3318G\|יָצְא֤וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִיר֙]] [[H9005\|לִ]][[H7122H\|קְרָאתָ֔]][[H9038\|ם]] [[H9001\|וַ]][[H1961\|יִּֽהְי֤וּ]] [[H9005\|לְ]][[H3478\|יִשְׂרָאֵל֙]] [[H9003\|בַּ]][[H8432\|תָּ֔וֶךְ]] [[H0428\|אֵ֥לֶּה]] [[H9006\|מִ]][[H2088\|זֶּ֖ה]] [[H9002\|וְ]][[H0428\|אֵ֣לֶּה]] [[H9006\|מִ]][[H2088\|זֶּ֑ה]] [[H9001\|וַ]][[H5221\|יַּכּ֣וּ]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H5704\|עַד]][[H9014\|־]] [[H1115\|בִּלְתִּ֥י]] [[H7604\|הִשְׁאִֽיר]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H8300\|שָׂרִ֥יד]] [[H9002\|וּ]][[H6412A\|פָלִֽיט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic ARMIES|ARMIES]] • [[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.21|<< Joshua 8:21]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.23|Joshua 8:23 >>]]</td></tr></table>
 

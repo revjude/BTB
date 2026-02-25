@@ -1,8 +1,63 @@
+---
+title: Joshua 11:3
+type: Verse
+kjv: "And to the Canaanite on the east and on the west, and to the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh."
+bsb: "to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites, and Jebusites in the hill country; and to the Hivites at the foot of Hermon in the land of Mizpah."
+hebrew: "הַֽכְּנַעֲנִי֙ מִמִּזְרָ֣ח וּמִיָּ֔ם וְהָאֱמֹרִ֧י וְהַחִתִּ֛י וְהַפְּרִזִּ֥י וְהַיְבוּסִ֖י בָּהָ֑ר וְהַֽחִוִּי֙ תַּ֣חַת חֶרְמ֔וֹן בְּאֶ֖רֶץ הַמִּצְפָּֽה׃"
+pericope: "[[Josh.11.1 Conquest of the Northern Cities|Conquest of the Northern Cities]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 11
+book/chapter: "[[Josh.11|Joshua 11]]"
+chronological_order: 241
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CONFEDERACIES|CONFEDERACIES]]"
+- "[[topic HIVITES|HIVITES]]"
+- "[[topic JABIN|JABIN]]"
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H9006]]"
+- "[[H4217H]]"
+- "[[H9002]]"
+- "[[H3220H]]"
+- "[[H0567]]"
+- "[[H2850]]"
+- "[[H6522]]"
+- "[[H2983G]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H2340]]"
+- "[[H8478G]]"
+- "[[H2768]]"
+- "[[H0776G]]"
+- "[[H4709I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 11:3**<big><big>[[Josh.11.1 Conquest of the Northern Cities|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And to] the Canaanite on the east and on the west, and [to] the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and [to] the Hivite under Hermon in the land of Mizpeh.
 <small><sub>**BSB:**</sub></small>
 to the Canaanites in the east and west; to the Amorites, Hittites, Perizzites, and Jebusites in the hill country; and to the Hivites at the foot of Hermon in the land of Mizpah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִי֙]] [[H9006\|מִ]][[H4217H\|מִּזְרָ֣ח]] [[H9002\|וּ]][[H9006\|מִ]][[H3220H\|יָּ֔ם]] [[H9002\|וְ]][[H9009\|הָ]][[H0567\|אֱמֹרִ֧י]] [[H9002\|וְ]][[H9009\|הַ]][[H2850\|חִתִּ֛י]] [[H9002\|וְ]][[H9009\|הַ]][[H6522\|פְּרִזִּ֥י]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִ֖י]] [[H9003\|בָּ]][[H2022H\|הָ֑ר]] [[H9002\|וְ]][[H9009\|הַֽ]][[H2340\|חִוִּי֙]] [[H8478G\|תַּ֣חַת]] [[H2768\|חֶרְמ֔וֹן]] [[H9003\|בְּ]][[H0776G\|אֶ֖רֶץ]] [[H9009\|הַ]][[H4709I\|מִּצְפָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CANAANITES|CANAANITES]] • [[topic CONFEDERACIES|CONFEDERACIES]] • [[topic HIVITES|HIVITES]] • [[topic JABIN|JABIN]] • [[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.11.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.11.2|<< Joshua 11:2]]</td><td align="center" style="border:none;">[[Josh.11|Joshua 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.11.4|Joshua 11:4 >>]]</td></tr></table>
 

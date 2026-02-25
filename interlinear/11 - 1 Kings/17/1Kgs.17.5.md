@@ -1,8 +1,65 @@
+---
+title: 1 Kings 17:5
+type: Verse
+kjv: "So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that is before Jordan."
+bsb: "So Elijah did what the LORD had told him, and he went and lived by the Brook of Cherith, east of the Jordan."
+hebrew: "וַיֵּ֥לֶךְ וַיַּ֖עַשׂ כִּדְבַ֣ר יְהוָ֑ה וַיֵּ֗לֶךְ וַיֵּ֙שֶׁב֙ בְּנַ֣חַל כְּרִ֔ית אֲשֶׁ֖ר עַל־ פְּנֵ֥י הַיַּרְדֵּֽן׃"
+pericope: "[[1Kgs.17.1 The Ravens Feed Elijah|The Ravens Feed Elijah]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 17
+book/chapter: "[[1Kgs.17|1 Kings 17]]"
+chronological_order: 563
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHERITH|CHERITH]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic RAVEN|RAVEN]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5158A]]"
+- "[[H3747]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440K]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 17:5**<big><big>[[1Kgs.17.1 The Ravens Feed Elijah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So he went and did according unto the word of the LORD: for he went and dwelt by the brook Cherith, that [is] before Jordan.
 <small><sub>**BSB:**</sub></small>
 So Elijah did what the LORD had told him, and he went and lived by the Brook of Cherith, east of the Jordan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֥לֶךְ]] [[H9001\|וַ]][[H6213A\|יַּ֖עַשׂ]] [[H9004\|כִּ]][[H1697G\|דְבַ֣ר]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H1980G\|יֵּ֗לֶךְ]] [[H9001\|וַ]][[H3427\|יֵּ֙שֶׁב֙]] [[H9003\|בְּ]][[H5158A\|נַ֣חַל]] [[H3747\|כְּרִ֔ית]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440K\|פְּנֵ֥י]] [[H9009\|הַ]][[H3383\|יַּרְדֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHERITH|CHERITH]] • [[topic ELIJAH|ELIJAH]] • [[topic FRUGALITY|FRUGALITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic RAVEN|RAVEN]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.17.4|<< 1 Kings 17:4]]</td><td align="center" style="border:none;">[[1Kgs.17|1 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.17.6|1 Kings 17:6 >>]]</td></tr></table>
 

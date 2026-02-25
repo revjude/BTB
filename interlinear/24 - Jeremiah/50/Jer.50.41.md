@@ -1,8 +1,53 @@
+---
+title: Jeremiah 50:41
+type: Verse
+kjv: "Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth."
+bsb: "Behold, an army is coming from the north; a great nation and many kings are stirred up from the ends of the earth."
+hebrew: "הִנֵּ֛ה עַ֥ם בָּ֖א מִצָּפ֑וֹן וְג֤וֹי גָּדוֹל֙ וּמְלָכִ֣ים רַבִּ֔ים יֵעֹ֖רוּ מִיַּרְכְּתֵי־ אָֽרֶץ׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H2009]]"
+- "[[H5971A]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H9002]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H4428G]]"
+- "[[H7227A]]"
+- "[[H5782]]"
+- "[[H3411]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:41**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, a people shall come from the north, and a great nation, and many kings shall be raised up from the coasts of the earth.
 <small><sub>**BSB:**</sub></small>
 Behold, an army is coming from the north; a great nation and many kings are stirred up from the ends of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֛ה]] [[H5971A\|עַ֥ם]] [[H0935G\|בָּ֖א]] [[H9006\|מִ]][[H6828G\|צָּפ֑וֹן]] [[H9002\|וְ]][[H1471A\|ג֤וֹי]] [[H1419A\|גָּדוֹל֙]] [[H9002\|וּ]][[H4428G\|מְלָכִ֣ים]] [[H7227A\|רַבִּ֔ים]] [[H5782\|יֵעֹ֖רוּ]] [[H9006\|מִ]][[H3411\|יַּרְכְּתֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.40|<< Jeremiah 50:40]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.42|Jeremiah 50:42 >>]]</td></tr></table>
 

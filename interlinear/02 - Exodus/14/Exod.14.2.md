@@ -1,8 +1,69 @@
+---
+title: Exodus 14:2
+type: Verse
+kjv: "Speak unto the children of Israel, that they turn and encamp before Pihahiroth, between Migdol and the sea, over against Baalzephon: before it shall ye encamp by the sea."
+bsb: "“Tell the Israelites to turn back and encamp before Pi-hahiroth, between Migdol and the sea. You are to encamp by the sea, directly opposite Baal-zephon."
+hebrew: "דַּבֵּר֮ אֶל־ בְּנֵ֣י יִשְׂרָאֵל֒ וְיָשֻׁ֗בוּ וְיַחֲנוּ֙ לִפְנֵי֙ פִּ֣י הַחִירֹ֔ת בֵּ֥ין מִגְדֹּ֖ל וּבֵ֣ין הַיָּ֑ם לִפְנֵי֙ בַּ֣עַל צְפֹ֔ן נִכְח֥וֹ תַחֲנ֖וּ עַל־ הַיָּֽם׃"
+pericope: "[[Exod.14.1 Pharaoh Pursues the Israelites|Pharaoh Pursues the Israelites]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BAAL-ZEPHON|BAAL-ZEPHON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIGDOL|MIGDOL]]"
+- "[[topic PI-HAHIROTH|PI-HAHIROTH]]"
+- "[[topic RED SEA|RED SEA]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H2583]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H6367]]"
+- "[[H0996G]]"
+- "[[H4024B]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H1189]]"
+- "[[H5227]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:2**<big><big>[[Exod.14.1 Pharaoh Pursues the Israelites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, that they turn and encamp before Pihahiroth, between Migdol and the sea, over against Baalzephon: before it shall ye encamp by the sea.
 <small><sub>**BSB:**</sub></small>
 “Tell the Israelites to turn back and encamp before Pi-hahiroth, between Migdol and the sea. You are to encamp by the sea, directly opposite Baal-zephon.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּר֮]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵל֒]] [[H9002\|וְ]][[H7725G\|יָשֻׁ֗בוּ]] [[H9002\|וְ]][[H2583\|יַחֲנוּ֙]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H6367\|פִּ֣י]] [[H6367\|הַחִירֹ֔ת]] [[H0996G\|בֵּ֥ין]] [[H4024B\|מִגְדֹּ֖ל]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H3220G\|יָּ֑ם]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H1189\|בַּ֣עַל]] [[H1189\|צְפֹ֔ן]] [[H5227\|נִכְח֥]][[H9033\|וֹ]] [[H2583\|תַחֲנ֖וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-ZEPHON|BAAL-ZEPHON]] • [[topic ISRAEL|ISRAEL]] • [[topic MIGDOL|MIGDOL]] • [[topic PI-HAHIROTH|PI-HAHIROTH]] • [[topic RED SEA|RED SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.1|<< Exodus 14:1]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.3|Exodus 14:3 >>]]</td></tr></table>
 

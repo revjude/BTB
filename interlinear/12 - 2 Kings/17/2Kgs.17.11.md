@@ -1,8 +1,65 @@
+---
+title: 2 Kings 17:11
+type: Verse
+kjv: "And there they burnt incense in all the high places, as did the heathen whom the LORD carried away before them; and wrought wicked things to provoke the LORD to anger:"
+bsb: "They burned incense on all the high places like the nations that the LORD had driven out before them. They did wicked things, provoking the LORD to anger."
+hebrew: "וַיְקַטְּרוּ־ שָׁם֙ בְּכָל־ בָּמ֔וֹת כַּגּוֹיִ֕ם אֲשֶׁר־ הֶגְלָ֥ה יְהוָ֖ה מִפְּנֵיהֶ֑ם וַֽיַּעֲשׂוּ֙ דְּבָרִ֣ים רָעִ֔ים לְהַכְעִ֖יס אֶת־ יְהוָֽה׃"
+pericope: "[[2Kgs.17.5 Israel Carried Captive to Assyria|Israel Carried Captive to Assyria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6999H]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H1116]]"
+- "[[H9004]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H1540K]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H6213A]]"
+- "[[H1697I]]"
+- "[[H7451H]]"
+- "[[H9005]]"
+- "[[H3707]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:11**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there they burnt incense in all the high places, as [did] the heathen whom the LORD carried away before them; and wrought wicked things to provoke the LORD to anger:
 <small><sub>**BSB:**</sub></small>
 They burned incense on all the high places like the nations that the LORD had driven out before them. They did wicked things, provoking the LORD to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6999H\|יְקַטְּרוּ]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H1116\|בָּמ֔וֹת]] [[H9004\|כַּ]][[H1471A\|גּוֹיִ֕ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1540K\|הֶגְלָ֥ה]] [[H3068G\|יְהוָ֖ה]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַֽ]][[H6213A\|יַּעֲשׂוּ֙]] [[H1697I\|דְּבָרִ֣ים]] [[H7451H\|רָעִ֔ים]] [[H9005\|לְ]][[H3707\|הַכְעִ֖יס]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.10|<< 2 Kings 17:10]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.12|2 Kings 17:12 >>]]</td></tr></table>
 

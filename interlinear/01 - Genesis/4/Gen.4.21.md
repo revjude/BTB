@@ -1,8 +1,65 @@
+---
+title: Genesis 4:21
+type: Verse
+kjv: "And his brother’s name was Jubal: he was the father of all such as handle the harp and organ."
+bsb: "And his brother’s name was Jubal; he was the father of all who play the harp and flute."
+hebrew: "וְשֵׁ֥ם אָחִ֖יו יוּבָ֑ל ה֣וּא הָיָ֔ה אֲבִ֕י כָּל־ תֹּפֵ֥שׂ כִּנּ֖וֹר וְעוּגָֽב׃"
+pericope: "[[Gen.4.17 The Descendants of Cain|The Descendants of Cain]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 4
+book/chapter: "[[Gen.4|Genesis 4]]"
+chronological_order: 4
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADAH|ADAH]]"
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic ART|ART]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HARP|HARP]]"
+- "[[topic INVENTION|INVENTION]]"
+- "[[topic JUBAL|JUBAL]]"
+- "[[topic LAMECH|LAMECH]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H3106]]"
+- "[[H1931]]"
+- "[[H1961]]"
+- "[[H0001G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8610]]"
+- "[[H3658]]"
+- "[[H5748]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 4:21**<big><big>[[Gen.4.17 The Descendants of Cain|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his brother’s name [was] Jubal: he was the father of all such as handle the harp and organ.
 <small><sub>**BSB:**</sub></small>
 And his brother’s name was Jubal; he was the father of all who play the harp and flute.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H0251G\|אָחִ֖י]][[H9023\|ו]] [[H3106\|יוּבָ֑ל]] [[H1931\|ה֣וּא]] [[H1961\|הָיָ֔ה]] [[H0001G\|אֲבִ֕י]] [[H3605\|כָּל]][[H9014\|־]] [[H8610\|תֹּפֵ֥שׂ]] [[H3658\|כִּנּ֖וֹר]] [[H9002\|וְ]][[H5748\|עוּגָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAH|ADAH]] • [[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic ART|ART]] • [[topic GENEALOGY|GENEALOGY]] • [[topic HARP|HARP]] • [[topic INVENTION|INVENTION]] • [[topic JUBAL|JUBAL]] • [[topic LAMECH|LAMECH]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.4.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.4.20|<< Genesis 4:20]]</td><td align="center" style="border:none;">[[Gen.4|Genesis 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.4.22|Genesis 4:22 >>]]</td></tr></table>
 

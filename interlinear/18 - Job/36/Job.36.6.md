@@ -1,8 +1,51 @@
+---
+title: Job 36:6
+type: Verse
+kjv: "He preserveth not the life of the wicked: but giveth right to the poor."
+bsb: "He does not keep the wicked alive, but He grants justice to the afflicted."
+hebrew: "לֹא־ יְחַיֶּ֥ה רָשָׁ֑ע וּמִשְׁפַּ֖ט עֲנִיִּ֣ים יִתֵּֽן׃"
+pericope: "[[Job.36.1 Elihu Describes God’s Power|Elihu Describes God’s Power]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 36
+book/chapter: "[[Job.36|Job 36]]"
+chronological_order: 47
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2421]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H4941H]]"
+- "[[H6041]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 36:6**<big><big>[[Job.36.1 Elihu Describes God’s Power|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He preserveth not the life of the wicked: but giveth right to the poor.
 <small><sub>**BSB:**</sub></small>
 He does not keep the wicked alive, but He grants justice to the afflicted.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H2421\|יְחַיֶּ֥ה]] [[H7563\|רָשָׁ֑ע]] [[H9002\|וּ]][[H4941H\|מִשְׁפַּ֖ט]] [[H6041\|עֲנִיִּ֣ים]] [[H5414G\|יִתֵּֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.36.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.36.5|<< Job 36:5]]</td><td align="center" style="border:none;">[[Job.36|Job 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.36.7|Job 36:7 >>]]</td></tr></table>
 

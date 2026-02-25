@@ -1,8 +1,51 @@
+---
+title: Proverbs 26:13
+type: Verse
+kjv: "The slothful man saith, There is a lion in the way; a lion is in the streets."
+bsb: "The slacker says, “A lion is in the road! A fierce lion roams the public square!”"
+hebrew: "אָמַ֣ר עָ֭צֵל שַׁ֣חַל בַּדָּ֑רֶךְ אֲ֝רִ֗י בֵּ֣ין הָרְחֹבֽוֹת׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H0559]]"
+- "[[H6102]]"
+- "[[H7826]]"
+- "[[H9003]]"
+- "[[H1870K]]"
+- "[[H0738A]]"
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H7339]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:13**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The slothful [man] saith, [There is] a lion in the way; a lion [is] in the streets.
 <small><sub>**BSB:**</sub></small>
 The slacker says, “A lion is in the road! A fierce lion roams the public square!”
+<small><sub>**Hebrew:**</sub></small>
+[[H0559\|אָמַ֣ר]] [[H6102\|עָ֭צֵל]] [[H7826\|שַׁ֣חַל]] [[H9003\|בַּ]][[H1870K\|דָּ֑רֶךְ]] [[H0738A\|אֲ֝רִ֗י]] [[H0996G\|בֵּ֣ין]] [[H9009\|הָ]][[H7339\|רְחֹבֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDLENESS|IDLENESS]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.12|<< Proverbs 26:12]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.14|Proverbs 26:14 >>]]</td></tr></table>
 

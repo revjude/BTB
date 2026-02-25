@@ -1,10 +1,56 @@
+---
+title: Mark 15:20
+type: Verse
+kjv: "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him."
+bsb: "After they had mocked Him, they removed the purple robe and put His own clothes back on Him. Then they led Him out to crucify Him."
+greek: "καὶ ὅτε ἐνέπαιξαν αὐτῷ, ἐξέδυσαν αὐτὸν τὴν πορφύραν καὶ ἐνέδυσαν αὐτὸν τὰ ἱμάτια αὐτοῦ. καὶ ἐξάγουσιν αὐτὸν ἵνα σταυρώσωσιν αὐτόν."
+pericope: "[[Mark.15.16 The Soldiers Mock Jesus|The Soldiers Mock Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G1702]]"
+- "[[G0846]]"
+- "[[G1562]]"
+- "[[G3588]]"
+- "[[G4209]]"
+- "[[G1746]]"
+- "[[G2440]]"
+- "[[G1806]]"
+- "[[G2443]]"
+- "[[G4717]]"
+texts:
+- NKO
+- N(K)O
+- NK(o)
+---
+
 **Mark 15:20**<big><big>[[Mark.15.16 The Soldiers Mock Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.
 <small><sub>**BSB:**</sub></small>
 After they had mocked Him, they removed the purple robe and put His own clothes back on Him. Then they led Him out to crucify Him.
-<small><sub>**Literal:**</sub></small>
-And when they had mocked Him, they took off him the purple and put on Him the garments His. And they are leading out him that they may crucify Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.19|<< Mark 15:19]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.21|Mark 15:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3753\|ὅτε]]  [[G1702\|ἐνέπαιξαν]]  [[G0846\|αὐτῷ,]]  [[G1562\|ἐξέδυσαν]]  [[G0846\|αὐτὸν]]  [[G3588\|τὴν]]  [[G4209\|πορφύραν]]  [[G2532\|καὶ]]  [[G1746\|ἐνέδυσαν]]  [[G0846\|αὐτὸν]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτοῦ.]]  [[G2532\|καὶ]]  [[G1806\|ἐξάγουσιν]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G4717\|σταυρώσωσιν]]  [[G0846\|αὐτόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOCKING|MOCKING]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.15.19|<< Mark 15:19]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.21|Mark 15:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

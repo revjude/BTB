@@ -1,8 +1,54 @@
+---
+title: Psalm 140:1
+type: Verse
+kjv: "Deliver me, O LORD, from the evil man: preserve me from the violent man;"
+bsb: "For the choirmaster. A Psalm of David. Rescue me, O LORD, from evil men. Protect me from men of violence,"
+hebrew: "חַלְּצֵ֣נִי יְ֭הוָה מֵאָדָ֣ם רָ֑ע מֵאִ֖ישׁ חֲמָסִ֣ים תִּנְצְרֵֽנִי׃"
+pericope: "[[Ps.140.1 Rescue Me from Evil Men|Rescue Me from Evil Men]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 140
+book/chapter: "[[Ps.140|Psalm 140]]"
+chronological_order: 387
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H2502A]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H0120G]]"
+- "[[H7451H]]"
+- "[[H0376G]]"
+- "[[H2555]]"
+- "[[H5341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 140:1**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me, O LORD, from the evil man: preserve me from the violent man;
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. Rescue me, O LORD, from evil men. Protect me from men of violence,
+<small><sub>**Hebrew:**</sub></small>
+[[H2502A\|חַלְּצֵ֣]][[H9030\|נִי]] [[H3068G\|יְ֭הוָה]] [[H9006\|מֵ]][[H0120G\|אָדָ֣ם]] [[H7451H\|רָ֑ע]] [[H9006\|מֵ]][[H0376G\|אִ֖ישׁ]] [[H2555\|חֲמָסִ֣ים]] [[H5341\|תִּנְצְרֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.0|<< Psalms 140:0]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.2|Psalms 140:2 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Isaiah 48:12
+type: Verse
+kjv: "Hearken unto me, O Jacob and Israel, my called; I am he; I am the first, I also am the last."
+bsb: "Listen to Me, O Jacob, and Israel, whom I have called: I am He; I am the first, and I am the last."
+hebrew: "שְׁמַ֤ע אֵלַי֙ יַֽעֲקֹ֔ב וְיִשְׂרָאֵ֖ל מְקֹרָאִ֑י אֲנִי־ הוּא֙ אֲנִ֣י רִאשׁ֔וֹן אַ֖ף אֲנִ֥י אַחֲרֽוֹן׃"
+pericope: "[[Isa.48.12 Deliverance Promised to Israel|Deliverance Promised to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ALPHA|ALPHA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H3290]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H7121G]]"
+- "[[H9020]]"
+- "[[H0589]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H7223G]]"
+- "[[H0637]]"
+- "[[H0314]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:12**<big><big>[[Isa.48.12 Deliverance Promised to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken unto me, O Jacob and Israel, my called; I [am] he; I [am] the first, I also [am] the last.
 <small><sub>**BSB:**</sub></small>
 Listen to Me, O Jacob, and Israel, whom I have called: I am He; I am the first, and I am the last.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שְׁמַ֤ע]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H3290\|יַֽעֲקֹ֔ב]] [[H9002\|וְ]][[H3478\|יִשְׂרָאֵ֖ל]] [[H7121G\|מְקֹרָאִ֑]][[H9020\|י]] [[H0589\|אֲנִי]][[H9014\|־]] [[H1931\|הוּא֙]] [[H0589\|אֲנִ֣י]] [[H7223G\|רִאשׁ֔וֹן]] [[H0637\|אַ֖ף]] [[H0589\|אֲנִ֥י]] [[H0314\|אַחֲרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALPHA|ALPHA]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.11|<< Isaiah 48:11]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.13|Isaiah 48:13 >>]]</td></tr></table>
 

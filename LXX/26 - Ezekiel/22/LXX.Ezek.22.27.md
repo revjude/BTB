@@ -1,6 +1,60 @@
+---
+title: LXX Ezekiel 22:27
+type: Verse
+lxx: "Her rulers in her midst are as wolves seizing prey  to shed blood,  to destroy lives, so that their desire for wealth should overabound."
+greek: "οι άρχοντες αυτής εν μέσω αυτής ως λύκοι αρπάζοντες αρπάγματα του εκχέαι αίμα του απολέσαι ψυχάς όπως πλεονεξία πλεονεκτώσι"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CRIME|CRIME]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOLF|WOLF]]"
+strongs:
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G1473]]"
+- "[[G5613]]"
+- "[[G3074]]"
+- "[[G0726]]"
+- "[[G6540]]"
+- "[[G3588]]"
+- "[[G1632]]"
+- "[[G0129]]"
+- "[[G3588]]"
+- "[[G0622]]"
+- "[[G5590]]"
+- "[[G3704]]"
+- "[[G4124]]"
+- "[[G4122]]"
+---
+
 **LXX Ezekiel 22:27** 
 <small><sub>**LXX:**</sub></small>
  Her rulers in her midst \[are\] as wolves seizing prey  to shed blood,  to destroy lives, so that their desire for wealth should overabound. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οι]] [[G0758\|άρχοντες]] [[G1473\|αυτής]] [[G1722\|εν]] [[G3319\|μέσω]] [[G1473\|αυτής]] [[G5613\|ως]] [[G3074\|λύκοι]] [[G0726\|αρπάζοντες]] [[G6540\|αρπάγματα]] [[G3588\|του]] [[G1632\|εκχέαι]] [[G0129\|αίμα]] [[G3588\|του]] [[G0622\|απολέσαι]] [[G5590\|ψυχάς]] [[G3704\|όπως]] [[G4124\|πλεονεξία]] [[G4122\|πλεονεκτώσι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRIME|CRIME]] • [[topic JERUSALEM|JERUSALEM]] • [[topic RULERS|RULERS]] • [[topic WOLF|WOLF]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.26|<< Ezekiel 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.28|Ezekiel 22:28 >>]]</td></tr></table>
 
@@ -23,6 +77,6 @@
 | so that | **<big>[[G3704\|όπως]]</big>** |
 | their desire for wealth | **<big>[[G4124\|πλεονεξία]]</big>** |
 | should overabound. | **<big>[[G4122\|πλεονεκτώσι]]</big>** |
-[[Ezek.22.27|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.26|<< Ezekiel 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.28|Ezekiel 22:28 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.22.26|<< Ezekiel 22:26]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.22.28|Ezekiel 22:28 >>]]</td></tr></table>
 
 

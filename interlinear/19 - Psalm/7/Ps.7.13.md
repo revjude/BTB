@@ -1,8 +1,57 @@
+---
+title: Psalm 7:13
+type: Verse
+kjv: "He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors."
+bsb: "He has prepared His deadly weapons; He ordains His arrows with fire."
+hebrew: "וְ֭לוֹ הֵכִ֣ין כְּלֵי־ מָ֑וֶת חִ֝צָּ֗יו לְֽדֹלְקִ֥ים יִפְעָֽל׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ARROW|ARROW]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3559A]]"
+- "[[H3627]]"
+- "[[H9014]]"
+- "[[H4194]]"
+- "[[H2671]]"
+- "[[H9023]]"
+- "[[H1814]]"
+- "[[H6466]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:13**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He hath also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.
 <small><sub>**BSB:**</sub></small>
 He has prepared His deadly weapons; He ordains His arrows with fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H9005\|ל]][[H9033\|וֹ]] [[H3559A\|הֵכִ֣ין]] [[H3627\|כְּלֵי]][[H9014\|־]] [[H4194\|מָ֑וֶת]] [[H2671\|חִ֝צָּ֗י]][[H9023\|ו]] [[H9005\|לְֽ]][[H1814\|דֹלְקִ֥ים]] [[H6466\|יִפְעָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARROW|ARROW]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.12|<< Psalms 7:12]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.14|Psalms 7:14 >>]]</td></tr></table>
 

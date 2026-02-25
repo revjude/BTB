@@ -1,8 +1,66 @@
+---
+title: Isaiah 3:16
+type: Verse
+kjv: "Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing as they go, and making a tinkling with their feet:"
+bsb: "The LORD also says: “Because the daughters of Zion are haughty—walking with heads held high and wanton eyes, prancing and skipping as they go, jingling the bracelets on their ankles—"
+hebrew: "וַיֹּ֣אמֶר יְהוָ֗ה יַ֚עַן כִּ֤י גָֽבְהוּ֙ בְּנ֣וֹת צִיּ֔וֹן וַתֵּלַ֙כְנָה֙ נְטוּי֣וֹת גָּר֔וֹן וּֽמְשַׂקְּר֖וֹת עֵינָ֑יִם הָל֤וֹךְ וְטָפֹף֙ תֵּלַ֔כְנָה וּבְרַגְלֵיהֶ֖ם תְּעַכַּֽסְנָה׃"
+pericope: "[[Isa.3.16 A Warning to the Daughters of Zion|A Warning to the Daughters of Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FEET|FEET]]"
+- "[[topic MINCING|MINCING]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H3282]]"
+- "[[H3588A]]"
+- "[[H1361]]"
+- "[[H1323G]]"
+- "[[H6726]]"
+- "[[H1980I]]"
+- "[[H5186]]"
+- "[[H1627]]"
+- "[[H9002]]"
+- "[[H8265]]"
+- "[[H5869A]]"
+- "[[H2952]]"
+- "[[H1980G]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H9028]]"
+- "[[H5913]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Isaiah 3:16**<big><big>[[Isa.3.16 A Warning to the Daughters of Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover the LORD saith, Because the daughters of Zion are haughty, and walk with stretched forth necks and wanton eyes, walking and mincing [as] they go, and making a tinkling with their feet:
 <small><sub>**BSB:**</sub></small>
 The LORD also says: “Because the daughters of Zion are haughty—walking with heads held high and wanton eyes, prancing and skipping as they go, jingling the bracelets on their ankles—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֗ה]] [[H3282\|יַ֚עַן]] [[H3588A\|כִּ֤י]] [[H1361\|גָֽבְהוּ֙]] [[H1323G\|בְּנ֣וֹת]] [[H6726\|צִיּ֔וֹן]] [[H9001\|וַ]][[H1980I\|תֵּלַ֙כְנָה֙]] [[H5186\|נְטוּי֣וֹת]] [[H1627\|גָּר֔וֹן]] [[H9002\|וּֽ]][[H8265\|מְשַׂקְּר֖וֹת]] [[H5869A\|עֵינָ֑יִם]] [[H1980I\|הָל֤וֹךְ]] [[H9002\|וְ]][[H2952\|טָפֹף֙]] [[H1980G\|תֵּלַ֔כְנָה]] [[H9002\|וּ]][[H9003\|בְ]][[H7272\|רַגְלֵי]][[H9028\|הֶ֖ם]] [[H5913\|תְּעַכַּֽסְנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEET|FEET]] • [[topic MINCING|MINCING]] • [[topic PRIDE|PRIDE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.15|<< Isaiah 3:15]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.17|Isaiah 3:17 >>]]</td></tr></table>
 

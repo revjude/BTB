@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Paul the Minister to the Gentiles
+type: Pericope
 pericope: "[[Rom.15.14 Paul the Minister to the Gentiles|Paul the Minister to the Gentiles]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Romans
 chapter: 15
 book/chapter: "[[Rom.15|Romans 15]]"
-genre:
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 9
 verses:
 - "[[Rom.15.14]]"
 - "[[Rom.15.15]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Rom.15.22]]"
 ---
 
-[[Rom.15|Romans 15:14 - Romans 15:22]]
+<small>[[Rom.15|Romans 15:14-22]]</small>
 *Paul the Minister to the Gentiles*
 
 [[Rom.15.14|14]] And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.

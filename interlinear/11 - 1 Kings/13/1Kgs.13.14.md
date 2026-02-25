@@ -1,8 +1,67 @@
+---
+title: 1 Kings 13:14
+type: Verse
+kjv: "And went after the man of God, and found him sitting under an oak: and he said unto him, Art thou the man of God that camest from Judah? And he said, I am."
+bsb: "and went after the man of God. He found him sitting under an oak tree and asked, “Are you the man of God who came from Judah?” “I am,” he replied."
+hebrew: "וַיֵּ֗לֶךְ אַֽחֲרֵי֙ אִ֣ישׁ הָאֱלֹהִ֔ים וַיִּ֨מְצָאֵ֔הוּ יֹשֵׁ֖ב תַּ֣חַת הָאֵלָ֑ה וַיֹּ֣אמֶר אֵלָ֗יו הַאַתָּ֧ה אִישׁ־ הָאֱלֹהִ֛ים אֲשֶׁר־ בָּ֥אתָ מִֽיהוּדָ֖ה וַיֹּ֥אמֶר אָֽנִי׃"
+pericope: "[[1Kgs.13.11 The Old Prophet and the Man of God|The Old Prophet and the Man of God]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980G]]"
+- "[[H0310A]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H4672]]"
+- "[[H9033]]"
+- "[[H3427]]"
+- "[[H8478G]]"
+- "[[H0424]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9008]]"
+- "[[H0859A]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9006]]"
+- "[[H3063G]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 13:14**<big><big>[[1Kgs.13.11 The Old Prophet and the Man of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And went after the man of God, and found him sitting under an oak: and he said unto him, [Art] thou the man of God that camest from Judah? And he said, I [am].
 <small><sub>**BSB:**</sub></small>
 and went after the man of God. He found him sitting under an oak tree and asked, “Are you the man of God who came from Judah?” “I am,” he replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980G\|יֵּ֗לֶךְ]] [[H0310A\|אַֽחֲרֵי֙]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H4672\|יִּ֨מְצָאֵ֔]][[H9033\|הוּ]] [[H3427\|יֹשֵׁ֖ב]] [[H8478G\|תַּ֣חַת]] [[H9009\|הָ]][[H0424\|אֵלָ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H9008\|הַ]][[H0859A\|אַתָּ֧ה]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֛ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥אתָ]] [[H9006\|מִֽ]][[H3063G\|יהוּדָ֖ה]] [[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.13.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.13.13|<< 1 Kings 13:13]]</td><td align="center" style="border:none;">[[1Kgs.13|1 Kings 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.13.15|1 Kings 13:15 >>]]</td></tr></table>
 

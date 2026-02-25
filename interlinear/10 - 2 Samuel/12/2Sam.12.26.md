@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 12:26
+type: Verse
+kjv: "And Joab fought against Rabbah of the children of Ammon, and took the royal city."
+bsb: "Meanwhile, Joab fought against Rabbah of the Ammonites and captured the royal fortress."
+hebrew: "וַיִּלָּ֣חֶם יוֹאָ֔ב בְּרַבַּ֖ת בְּנֵ֣י עַמּ֑וֹן וַיִּלְכֹּ֖ד אֶת־ עִ֥יר הַמְּלוּכָֽה׃"
+pericope: "[[2Sam.12.26 The Capture of Rabbah|The Capture of Rabbah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CITIES|CITIES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic RABBAH|RABBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3898A]]"
+- "[[H3097G]]"
+- "[[H9003]]"
+- "[[H7237]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H3920]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H4410]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 12:26**<big><big>[[2Sam.12.26 The Capture of Rabbah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab fought against Rabbah of the children of Ammon, and took the royal city.
 <small><sub>**BSB:**</sub></small>
 Meanwhile, Joab fought against Rabbah of the Ammonites and captured the royal fortress.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3898A\|יִּלָּ֣חֶם]] [[H3097G\|יוֹאָ֔ב]] [[H9003\|בְּ]][[H7237\|רַבַּ֖ת]] [[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֑וֹן]] [[H9001\|וַ]][[H3920\|יִּלְכֹּ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H4410\|מְּלוּכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CITIES|CITIES]] • [[topic DAVID|DAVID]] • [[topic JOAB|JOAB]] • [[topic LIBERALITY|LIBERALITY]] • [[topic RABBAH|RABBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.25|<< 2 Samuel 12:25]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.27|2 Samuel 12:27 >>]]</td></tr></table>
 

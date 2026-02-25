@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Oppression by the Philistines and Ammonites
+type: Pericope
 pericope: "[[Judg.10.6 Oppression by the Philistines and Ammonites|Oppression by the Philistines and Ammonites]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 10
 book/chapter: "[[Judg.10|Judges 10]]"
-genre:
+chronological_order: 264
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 13
 verses:
 - "[[Judg.10.6]]"
 - "[[Judg.10.7]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Judg.10.18]]"
 ---
 
-[[Judg.10|Judges 10:6 - Judges 10:18]]
+<small>[[Judg.10|Judges 10:6-18]]</small>
 *Oppression by the Philistines and Ammonites*
 
 [[Judg.10.6|6]] And the children of Israel did evil again in the sight of the LORD, and served Baalim, and Ashtaroth, and the gods of Syria, and the gods of Zidon, and the gods of Moab, and the gods of the children of Ammon, and the gods of the Philistines, and forsook the LORD, and served not him.

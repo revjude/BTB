@@ -1,10 +1,55 @@
+---
+title: Mark 8:14
+type: Verse
+kjv: "Now the disciples had forgotten to take bread, neither had they in the ship with them more than one loaf."
+bsb: "Now the disciples had forgotten to take bread, except for one loaf they had with them in the boat."
+greek: "καὶ ἐπελάθοντο λαβεῖν ἄρτους καὶ εἰ μὴ ἕνα ἄρτον οὐκ εἶχον μεθ᾽ ἑαυτῶν ἐν τῷ πλοίῳ."
+pericope: "[[Mark.8.14 The Leaven of the Pharisees and of Herod|The Leaven of the Pharisees and of Herod]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 8
+book/chapter: "[[Mark.8|Mark 8]]"
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1950]]"
+- "[[G2983]]"
+- "[[G0740]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1520]]"
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G3326]]"
+- "[[G1438]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4143]]"
+texts:
+- NKO
+---
+
 **Mark 8:14**<big><big>[[Mark.8.14 The Leaven of the Pharisees and of Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now [the disciples] had forgotten to take bread, neither had they in the ship with them more than one loaf.
 <small><sub>**BSB:**</sub></small>
 Now the disciples had forgotten to take bread, except for one loaf they had with them in the boat.
-<small><sub>**Literal:**</sub></small>
-And they forgot to take loaves and only except one loaf not they had with themselves in the boat.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.13|<< Mark 8:13]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.15|Mark 8:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1950\|ἐπελάθοντο]]  [[G2983\|λαβεῖν]]  [[G0740\|ἄρτους]]  [[G2532\|καὶ]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1520\|ἕνα]]  [[G0740\|ἄρτον]]  [[G3756\|οὐκ]]  [[G2192\|εἶχον]]  [[G3326\|μεθ᾽]]  [[G1438\|ἑαυτῶν]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4143\|πλοίῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.8.13|<< Mark 8:13]]</td><td align="center" style="border:none;">[[Mark.8|Mark 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.8.15|Mark 8:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

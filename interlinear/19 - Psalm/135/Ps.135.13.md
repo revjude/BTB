@@ -1,8 +1,53 @@
+---
+title: Psalm 135:13
+type: Verse
+kjv: "Thy name, O LORD, endureth for ever; and thy memorial, O LORD, throughout all generations."
+bsb: "Your name, O LORD, endures forever, Your renown, O LORD, through all generations."
+hebrew: "יְ֭הוָה שִׁמְךָ֣ לְעוֹלָ֑ם יְ֝הוָ֗ה זִכְרְךָ֥ לְדֹר־ וָדֹֽר׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H3068G]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5769G]]"
+- "[[H2143]]"
+- "[[H1755]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:13**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy name, O LORD, [endureth] for ever; [and] thy memorial, O LORD, throughout all generations.
 <small><sub>**BSB:**</sub></small>
 Your name, O LORD, endures forever, Your renown, O LORD, through all generations.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְ֭הוָה]] [[H8034\|שִׁמְ]][[H9021\|ךָ֣]] [[H9005\|לְ]][[H5769G\|עוֹלָ֑ם]] [[H3068G\|יְ֝הוָ֗ה]] [[H2143\|זִכְרְ]][[H9021\|ךָ֥]] [[H9005\|לְ]][[H1755\|דֹר]][[H9014\|־]] [[H9002\|וָ]][[H1755\|דֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.12|<< Psalms 135:12]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.14|Psalms 135:14 >>]]</td></tr></table>
 

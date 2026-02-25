@@ -1,8 +1,63 @@
+---
+title: Malachi 4:6
+type: Verse
+kjv: "And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse."
+bsb: "And he will turn the hearts of the fathers to their children, and the hearts of the children to their fathers. Otherwise, I will come and strike the land with a curse.”"
+hebrew: "וְהֵשִׁ֤יב לֵב־ אָבוֹת֙ עַל־ בָּנִ֔ים וְלֵ֥ב בָּנִ֖ים עַל־ אֲבוֹתָ֑ם פֶּן־ אָב֕וֹא וְהִכֵּיתִ֥י אֶת־ הָאָ֖רֶץ חֵֽרֶם׃"
+pericope: "[[Mal.4.1 The Day of the LORD|The Day of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 4
+book/chapter: "[[Mal.4|Malachi 4]]"
+chronological_order: 929
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic MESSENGER|MESSENGER]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725I]]"
+- "[[H3820A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H5921A]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H9028]]"
+- "[[H6435]]"
+- "[[H0935G]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2764A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 4:6**<big><big>[[Mal.4.1 The Day of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
 <small><sub>**BSB:**</sub></small>
 And he will turn the hearts of the fathers to their children, and the hearts of the children to their fathers. Otherwise, I will come and strike the land with a curse.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725I\|הֵשִׁ֤יב]] [[H3820A\|לֵב]][[H9014\|־]] [[H0001G\|אָבוֹת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1121A\|בָּנִ֔ים]] [[H9002\|וְ]][[H3820A\|לֵ֥ב]] [[H1121A\|בָּנִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H0001G\|אֲבוֹתָ֑]][[H9028\|ם]] [[H6435\|פֶּן]][[H9014\|־]] [[H0935G\|אָב֕וֹא]] [[H9001\|וְ]][[H5221\|הִכֵּיתִ֥י]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H2764A\|חֵֽרֶם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic MALACHI|MALACHI]] • [[topic MESSENGER|MESSENGER]] • [[topic PARENTS|PARENTS]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.4.5|<< Malachi 4:5]]</td><td align="center" style="border:none;">[[Mal.4|Malachi 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">&nbsp;</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

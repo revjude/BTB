@@ -1,10 +1,64 @@
+---
+title: Hebrews 10:8
+type: Verse
+kjv: "Above when he said, Sacrifice and offering and burnt offerings and offering for sin thou wouldest not, neither hadst pleasure therein; which are offered by the law;"
+bsb: "In the passage above He says, “Sacrifices and offerings, burnt offerings and sin offerings You did not desire, nor did You delight in them” (although they are offered according to the law)."
+greek: "ἀνώτερον λέγων ὅτι θυσίας καὶ προσφορὰς καὶ ὁλοκαυτώματα καὶ περὶ ἁμαρτίας οὐκ ἠθέλησας οὐδὲ εὐδόκησας, αἵτινες κατὰ τόν νόμον προσφέρονται,"
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G0511]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2378]]"
+- "[[G2532]]"
+- "[[G4376]]"
+- "[[G3646]]"
+- "[[G4012]]"
+- "[[G0266]]"
+- "[[G3756]]"
+- "[[G2309]]"
+- "[[G3761]]"
+- "[[G2106]]"
+- "[[G3748]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G4374]]"
+texts:
+- NKO
+- N(K)O
+- k
+---
+
 **Hebrews 10:8**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Above when he said, Sacrifice and offering and burnt offerings and [offering] for sin thou wouldest not, neither hadst pleasure [therein]; which are offered by the law;
 <small><sub>**BSB:**</sub></small>
 In the passage above He says, “Sacrifices and offerings, burnt offerings and sin offerings You did not desire, nor did You delight in them” (although they are offered according to the law).
-<small><sub>**Literal:**</sub></small>
-Above saying that sacrifices and offerings and burnt offerings and [offerings] for sin not You have desired nor You delighted in, which according to the Law are offered,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.7|<< Hebrews 10:7]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.9|Hebrews 10:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0511\|ἀνώτερον]]  [[G3004G\|λέγων]]  [[G3754G\|ὅτι]]  [[G2378\|θυσίας]]  [[G2532\|καὶ]]  [[G4376\|προσφορὰς]]  [[G2532\|καὶ]]  [[G3646\|ὁλοκαυτώματα]]  [[G2532\|καὶ]]  [[G4012\|περὶ]]  [[G0266\|ἁμαρτίας]]  [[G3756\|οὐκ]]  [[G2309\|ἠθέλησας]]  [[G3761\|οὐδὲ]]  [[G2106\|εὐδόκησας,]]  [[G3748\|αἵτινες]]  [[G2596\|κατὰ]]  [[G3588\|τόν]]  [[G3551\|νόμον]]  [[G4374\|προσφέρονται,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic OFFERINGS|OFFERINGS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.7|<< Hebrews 10:7]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.9|Hebrews 10:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

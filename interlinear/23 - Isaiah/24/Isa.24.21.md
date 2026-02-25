@@ -1,8 +1,57 @@
+---
+title: Isaiah 24:21
+type: Verse
+kjv: "And it shall come to pass in that day, that the LORD shall punish the host of the high ones that are on high, and the kings of the earth upon the earth."
+bsb: "In that day the LORD will punish the host of heaven above and the kings of the earth below."
+hebrew: "וְהָיָה֙ בַּיּ֣וֹם הַה֔וּא יִפְקֹ֧ד יְהוָ֛ה עַל־ צְבָ֥א הַמָּר֖וֹם בַּמָּר֑וֹם וְעַל־ מַלְכֵ֥י הָאֲדָמָ֖ה עַל־ הָאֲדָמָֽה׃"
+pericope: "[[Isa.24.1 God’s Judgment on the Earth|God’s Judgment on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 24
+book/chapter: "[[Isa.24|Isaiah 24]]"
+chronological_order: 667
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H6485H]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6635A]]"
+- "[[H4791]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H0127I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 24:21**<big><big>[[Isa.24.1 God’s Judgment on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass in that day, [that] the LORD shall punish the host of the high ones [that are] on high, and the kings of the earth upon the earth.
 <small><sub>**BSB:**</sub></small>
 In that day the LORD will punish the host of heaven above and the kings of the earth below.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֔וּא]] [[H6485H\|יִפְקֹ֧ד]] [[H3068G\|יְהוָ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6635A\|צְבָ֥א]] [[H9009\|הַ]][[H4791\|מָּר֖וֹם]] [[H9003\|בַּ]][[H4791\|מָּר֑וֹם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H4428G\|מַלְכֵ֥י]] [[H9009\|הָ]][[H0127I\|אֲדָמָ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0127I\|אֲדָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.24.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.24.20|<< Isaiah 24:20]]</td><td align="center" style="border:none;">[[Isa.24|Isaiah 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.24.22|Isaiah 24:22 >>]]</td></tr></table>
 

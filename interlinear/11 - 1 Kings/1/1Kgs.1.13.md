@@ -1,8 +1,82 @@
+---
+title: 1 Kings 1:13
+type: Verse
+kjv: "Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?"
+bsb: "Go at once to King David and say, ‘My lord the king, did you not swear to your maidservant, “Surely your son Solomon will reign after me, and he will sit on my throne”? Why then has Adonijah become king?’"
+hebrew: "לְכִ֞י וּבֹ֣אִי׀ אֶל־ הַמֶּ֣לֶךְ דָּוִ֗ד וְאָמַ֤רְתְּ אֵלָיו֙ הֲלֹֽא־ אַתָּ֞ה אֲדֹנִ֣י הַמֶּ֗לֶךְ נִשְׁבַּ֤עְתָּ לַאֲמָֽתְךָ֙ לֵאמֹ֔ר כִּֽי־ שְׁלֹמֹ֤ה בְנֵךְ֙ יִמְלֹ֣ךְ אַחֲרַ֔י וְה֖וּא יֵשֵׁ֣ב עַל־ כִּסְאִ֑י וּמַדּ֖וּעַ מָלַ֥ךְ אֲדֹנִיָֽהוּ׃"
+pericope: "[[1Kgs.1.11 Nathan and Bathsheba before David|Nathan and Bathsheba before David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic STATECRAFT|STATECRAFT]]"
+strongs:
+- "[[H1980G]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0859A]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0519]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H9022]]"
+- "[[H4427A]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H1931]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H4069]]"
+- "[[H0138G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:13**<big><big>[[1Kgs.1.11 Nathan and Bathsheba before David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Go and get thee in unto king David, and say unto him, Didst not thou, my lord, O king, swear unto thine handmaid, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne? why then doth Adonijah reign?
 <small><sub>**BSB:**</sub></small>
 Go at once to King David and say, ‘My lord the king, did you not swear to your maidservant, “Surely your son Solomon will reign after me, and he will sit on my throne”? Why then has Adonijah become king?’
+<small><sub>**Hebrew:**</sub></small>
+[[H1980G\|לְכִ֞י]] [[H9002\|וּ]][[H0935G\|בֹ֣אִי]][[H9015\|׀]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H1732\|דָּוִ֗ד]] [[H9001\|וְ]][[H0559\|אָמַ֤רְתְּ]] [[H0413\|אֵלָי]][[H9033\|ו֙]] [[H9008\|הֲ]][[H3808\|לֹֽא]][[H9014\|־]] [[H0859A\|אַתָּ֞ה]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H7650\|נִשְׁבַּ֤עְתָּ]] [[H9005\|לַ]][[H0519\|אֲמָֽתְ]][[H9021\|ךָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8010\|שְׁלֹמֹ֤ה]] [[H1121A\|בְנֵ]][[H9022\|ךְ֙]] [[H4427A\|יִמְלֹ֣ךְ]] [[H0310A\|אַחֲרַ֔]][[H9030\|י]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H3427\|יֵשֵׁ֣ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְאִ֑]][[H9020\|י]] [[H9002\|וּ]][[H4069\|מַדּ֖וּעַ]] [[H4427A\|מָלַ֥ךְ]] [[H0138G\|אֲדֹנִיָֽהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic NATHAN|NATHAN]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]] • [[topic STATECRAFT|STATECRAFT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.12|<< 1 Kings 1:12]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.14|1 Kings 1:14 >>]]</td></tr></table>
 

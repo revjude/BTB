@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job’s Three Friends
+type: Pericope
 pericope: "[[Job.2.11 Job’s Three Friends|Job’s Three Friends]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 2
 book/chapter: "[[Job.2|Job 2]]"
-genre:
+chronological_order: 13
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 3
 verses:
 - "[[Job.2.11]]"
 - "[[Job.2.12]]"
 - "[[Job.2.13]]"
 ---
 
-[[Job.2|Job 2:11 - Job 2:13]]
+<small>[[Job.2|Job 2:11-13]]</small>
 *Job’s Three Friends*
 
 [[Job.2.11|11]] Now when Job’s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.

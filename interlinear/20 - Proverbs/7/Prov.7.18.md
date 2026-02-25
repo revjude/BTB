@@ -1,8 +1,60 @@
+---
+title: Proverbs 7:18
+type: Verse
+kjv: "Come, let us take our fill of love until the morning: let us solace ourselves with loves."
+bsb: "Come, let us take our fill of love till morning. Let us delight in loving caresses!"
+hebrew: "לְכָ֤ה נִרְוֶ֣ה דֹ֭דִים עַד־ הַבֹּ֑קֶר נִ֝תְעַלְּסָ֗ה בָּאֳהָבִֽים׃"
+pericope: "[[Prov.7.1 Warnings about the Adulteress|Warnings about the Adulteress]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 7
+book/chapter: "[[Prov.7|Proverbs 7]]"
+chronological_order: 462
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1980K]]"
+- "[[H9012]]"
+- "[[H7301]]"
+- "[[H1730H]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1242]]"
+- "[[H5965]]"
+- "[[H9003]]"
+- "[[H0159]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 7:18**<big><big>[[Prov.7.1 Warnings about the Adulteress|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Come, let us take our fill of love until the morning: let us solace ourselves with loves.
 <small><sub>**BSB:**</sub></small>
 Come, let us take our fill of love till morning. Let us delight in loving caresses!
+<small><sub>**Hebrew:**</sub></small>
+[[H1980K\|לְכָ֤]][[H9012\|ה]] [[H7301\|נִרְוֶ֣ה]] [[H1730H\|דֹ֭דִים]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1242\|בֹּ֑קֶר]] [[H5965\|נִ֝תְעַלְּסָ֗ה]] [[H9003\|בָּ]][[H0159\|אֳהָבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BLINDNESS|BLINDNESS]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.7.17|<< Proverbs 7:17]]</td><td align="center" style="border:none;">[[Prov.7|Proverbs 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.7.19|Proverbs 7:19 >>]]</td></tr></table>
 

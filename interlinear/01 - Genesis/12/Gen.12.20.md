@@ -1,8 +1,64 @@
+---
+title: Genesis 12:20
+type: Verse
+kjv: "And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had."
+bsb: "Then Pharaoh gave his men orders concerning Abram, and they sent him away with his wife and all his possessions."
+hebrew: "וַיְצַ֥ו עָלָ֛יו פַּרְעֹ֖ה אֲנָשִׁ֑ים וַֽיְשַׁלְּח֥וּ אֹת֛וֹ וְאֶת־ אִשְׁתּ֖וֹ וְאֶת־ כָּל־ אֲשֶׁר־ לֽוֹ׃"
+pericope: "[[Gen.12.10 Abram and Sarai in Egypt|Abram and Sarai in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 12
+book/chapter: "[[Gen.12|Genesis 12]]"
+chronological_order: 54
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic PHARAOH|PHARAOH]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SARAH|SARAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H6547G]]"
+- "[[H0582]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 12:20**<big><big>[[Gen.12.10 Abram and Sarai in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Pharaoh commanded [his] men concerning him: and they sent him away, and his wife, and all that he had.
 <small><sub>**BSB:**</sub></small>
 Then Pharaoh gave his men orders concerning Abram, and they sent him away with his wife and all his possessions.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֥ו]] [[H5921A\|עָלָ֛י]][[H9033\|ו]] [[H6547G\|פַּרְעֹ֖ה]] [[H0582\|אֲנָשִׁ֑ים]] [[H9001\|וַֽ]][[H7971G\|יְשַׁלְּח֥וּ]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתּ֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic PHARAOH|PHARAOH]] • [[topic RULERS|RULERS]] • [[topic SARAH|SARAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.12.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.12.19|<< Genesis 12:19]]</td><td align="center" style="border:none;">[[Gen.12|Genesis 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.13.1|Genesis 13:1 >>]]</td></tr></table>
 

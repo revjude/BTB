@@ -1,8 +1,58 @@
+---
+title: Proverbs 5:10
+type: Verse
+kjv: "Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;"
+bsb: "lest strangers feast on your wealth, and your labors enrich the house of a foreigner."
+hebrew: "פֶּֽן־ יִשְׂבְּע֣וּ זָרִ֣ים כֹּחֶ֑ךָ וַ֝עֲצָבֶ֗יךָ בְּבֵ֣ית נָכְרִֽי׃"
+pericope: "[[Prov.5.1 Avoiding Immorality|Avoiding Immorality]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 5
+book/chapter: "[[Prov.5|Proverbs 5]]"
+chronological_order: 460
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H7646]]"
+- "[[H2114A]]"
+- "[[H3581B]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6089A]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 5:10**<big><big>[[Prov.5.1 Avoiding Immorality|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lest strangers be filled with thy wealth; and thy labours [be] in the house of a stranger;
 <small><sub>**BSB:**</sub></small>
 lest strangers feast on your wealth, and your labors enrich the house of a foreigner.
+<small><sub>**Hebrew:**</sub></small>
+[[H6435\|פֶּֽן]][[H9014\|־]] [[H7646\|יִשְׂבְּע֣וּ]] [[H2114A\|זָרִ֣ים]] [[H3581B\|כֹּחֶ֑]][[H9021\|ךָ]] [[H9002\|וַ֝]][[H6089A\|עֲצָבֶ֗י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H1004B\|בֵ֣ית]] [[H5237\|נָכְרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HARLOT (PROSTITUTE)|HARLOT (PROSTITUTE)]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic REMORSE|REMORSE]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.5.9|<< Proverbs 5:9]]</td><td align="center" style="border:none;">[[Prov.5|Proverbs 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.11|Proverbs 5:11 >>]]</td></tr></table>
 

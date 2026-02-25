@@ -1,8 +1,68 @@
+---
+title: Exodus 38:24
+type: Verse
+kjv: "All the gold that was occupied for the work in all the work of the holy place, even the gold of the offering, was twenty and nine talents, and seven hundred and thirty shekels, after the shekel of the sanctuary."
+bsb: "All the gold from the wave offering used for the work on the sanctuary totaled 29 talents and 730 shekels, according to the sanctuary shekel."
+hebrew: "כָּל־ הַזָּהָ֗ב הֶֽעָשׂוּי֙ לַמְּלָאכָ֔ה בְּכֹ֖ל מְלֶ֣אכֶת הַקֹּ֑דֶשׁ וַיְהִ֣י׀ זְהַ֣ב הַתְּנוּפָ֗ה תֵּ֤שַׁע וְעֶשְׂרִים֙ כִּכָּ֔ר וּשְׁבַ֨ע מֵא֧וֹת וּשְׁלֹשִׁ֛ים שֶׁ֖קֶל בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃"
+pericope: "[[Exod.38.21 An Inventory of Materials|An Inventory of Materials]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 38
+book/chapter: "[[Exod.38|Exodus 38]]"
+chronological_order: 130
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H4399]]"
+- "[[H9003]]"
+- "[[H6944G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H8573]]"
+- "[[H8672]]"
+- "[[H9002]]"
+- "[[H6242]]"
+- "[[H3603H]]"
+- "[[H7651]]"
+- "[[H3967]]"
+- "[[H7970]]"
+- "[[H8255]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 38:24**<big><big>[[Exod.38.21 An Inventory of Materials|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the gold that was occupied for the work in all the work of the holy [place], even the gold of the offering, was twenty and nine talents, and seven hundred and thirty shekels, after the shekel of the sanctuary.
 <small><sub>**BSB:**</sub></small>
 All the gold from the wave offering used for the work on the sanctuary totaled 29 talents and 730 shekels, according to the sanctuary shekel.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2091\|זָּהָ֗ב]] [[H9009\|הֶֽ]][[H6213A\|עָשׂוּי֙]] [[H9005\|לַ]][[H4399\|מְּלָאכָ֔ה]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H4399\|מְלֶ֣אכֶת]] [[H9009\|הַ]][[H6944G\|קֹּ֑דֶשׁ]] [[H9001\|וַ]][[H1961\|יְהִ֣י]][[H9015\|׀]] [[H2091\|זְהַ֣ב]] [[H9009\|הַ]][[H8573\|תְּנוּפָ֗ה]] [[H8672\|תֵּ֤שַׁע]] [[H9002\|וְ]][[H6242\|עֶשְׂרִים֙]] [[H3603H\|כִּכָּ֔ר]] [[H9002\|וּ]][[H7651\|שְׁבַ֨ע]] [[H3967\|מֵא֧וֹת]] [[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֛ים]] [[H8255\|שֶׁ֖קֶל]] [[H9003\|בְּ]][[H8255\|שֶׁ֥קֶל]] [[H9009\|הַ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.38.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.38.23|<< Exodus 38:23]]</td><td align="center" style="border:none;">[[Exod.38|Exodus 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.38.25|Exodus 38:25 >>]]</td></tr></table>
 

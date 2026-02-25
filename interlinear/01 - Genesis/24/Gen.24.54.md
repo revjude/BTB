@@ -1,8 +1,65 @@
+---
+title: Genesis 24:54
+type: Verse
+kjv: "And they did eat and drink, he and the men that were with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master."
+bsb: "Then he and the men with him ate and drank and spent the night there. When they got up the next morning, he said, “Send me on my way to my master.”"
+hebrew: "וַיֹּאכְל֣וּ וַיִּשְׁתּ֗וּ ה֛וּא וְהָאֲנָשִׁ֥ים אֲשֶׁר־ עִמּ֖וֹ וַיָּלִ֑ינוּ וַיָּק֣וּמוּ בַבֹּ֔קֶר וַיֹּ֖אמֶר שַׁלְּחֻ֥נִי לַֽאדֹנִֽי׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H8354]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3885A]]"
+- "[[H6965B]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H0559]]"
+- "[[H7971G]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:54**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they did eat and drink, he and the men that [were] with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.
 <small><sub>**BSB:**</sub></small>
 Then he and the men with him ate and drank and spent the night there. When they got up the next morning, he said, “Send me on my way to my master.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0398\|יֹּאכְל֣וּ]] [[H9001\|וַ]][[H8354\|יִּשְׁתּ֗וּ]] [[H1931\|ה֛וּא]] [[H9002\|וְ]][[H9009\|הָ]][[H0582\|אֲנָשִׁ֥ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H9001\|וַ]][[H3885A\|יָּלִ֑ינוּ]] [[H9001\|וַ]][[H6965B\|יָּק֣וּמוּ]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H7971G\|שַׁלְּחֻ֥]][[H9030\|נִי]] [[H9005\|לַֽ]][[H0113\|אדֹנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.53|<< Genesis 24:53]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.55|Genesis 24:55 >>]]</td></tr></table>
 

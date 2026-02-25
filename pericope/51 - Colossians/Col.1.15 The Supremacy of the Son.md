@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Supremacy of the Son
+type: Pericope
 pericope: "[[Col.1.15 The Supremacy of the Son|The Supremacy of the Son]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Colossians
 chapter: 1
 book/chapter: "[[Col.1|Colossians 1]]"
-genre:
+chronological_order: 1121
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - polemical
+verse_count: 9
 verses:
 - "[[Col.1.15]]"
 - "[[Col.1.16]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Col.1.23]]"
 ---
 
-[[Col.1|Colossians 1:15 - Colossians 1:23]]
+<small>[[Col.1|Colossians 1:15-23]]</small>
 *The Supremacy of the Son*
 
 [[Col.1.15|15]] Who is the image of the invisible God, the firstborn of every creature:

@@ -1,10 +1,50 @@
+---
+title: 1 Peter 1:9
+type: Verse
+kjv: "Receiving the end of your faith, even the salvation of your souls."
+bsb: "now that you are receiving the goal of your faith, the salvation of your souls."
+greek: "κομιζόμενοι τὸ τέλος τῆς πίστεως ὑμῶν, σωτηρίαν ψυχῶν·"
+pericope: "[[1Pet.1.3 A Living Hope|A Living Hope]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JOY|JOY]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2865]]"
+- "[[G3588]]"
+- "[[G5056]]"
+- "[[G4102G]]"
+- "[[G4771]]"
+- "[[G4991]]"
+- "[[G5590G]]"
+texts:
+- NKO
+---
+
 **1 Peter 1:9**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Receiving the end of your faith, [even] the salvation of [your] souls.
 <small><sub>**BSB:**</sub></small>
 now that you are receiving the goal of your faith, the salvation of your souls.
-<small><sub>**Literal:**</sub></small>
-receiving the outcome of the faith of you, [the] salvation of [your] souls;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.8|<< 1 Peter 1:8]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.10|1 Peter 1:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2865\|κομιζόμενοι]]  [[G3588\|τὸ]]  [[G5056\|τέλος]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως]]  [[G4771\|ὑμῶν,]]  [[G4991\|σωτηρίαν]]  [[G5590G\|ψυχῶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic FAITH|FAITH]] • [[topic JOY|JOY]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.8|<< 1 Peter 1:8]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.10|1 Peter 1:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

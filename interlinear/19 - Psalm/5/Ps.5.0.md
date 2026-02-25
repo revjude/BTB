@@ -1,6 +1,45 @@
+---
+title: Psalm 5:0
+type: Verse
+kjv: "To the chief Musician upon Nehiloth, A Psalm of David."
+hebrew: "לַמְנַצֵּ֥חַ אֶֽל־ הַנְּחִיל֗וֹת מִזְמ֥וֹר לְדָוִֽד׃"
+pericope: "[[Ps.5.1 Give Ear to My Words|Give Ear to My Words]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 5
+book/chapter: "[[Ps.5|Psalm 5]]"
+chronological_order: 340
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5155]]"
+- "[[H4210]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 5:0**<big><big>[[Ps.5.1 Give Ear to My Words|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician upon Nehiloth, A Psalm of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֥חַ]] [[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הַ]][[H5155\|נְּחִיל֗וֹת]] [[H4210\|מִזְמ֥וֹר]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.5.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.4.8|<< Psalms 4:8]]</td><td align="center" style="border:none;">[[Ps.5|Psalms 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.5.1|Psalms 5:1 >>]]</td></tr></table>
 

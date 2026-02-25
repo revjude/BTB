@@ -1,8 +1,53 @@
+---
+title: Proverbs 23:30
+type: Verse
+kjv: "They that tarry long at the wine; they that go to seek mixed wine."
+bsb: "Those who linger over wine, who go to taste mixed drinks."
+hebrew: "לַֽמְאַחֲרִ֥ים עַל־ הַיָּ֑יִן לַ֝בָּאִ֗ים לַחְקֹ֥ר מִמְסָֽךְ׃"
+pericope: "[[Prov.23.29 Saying 19|Saying 19]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic WINE|WINE]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9005]]"
+- "[[H0309]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3196]]"
+- "[[H0935G]]"
+- "[[H2713]]"
+- "[[H4469]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:30**<big><big>[[Prov.23.29 Saying 19|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that tarry long at the wine; they that go to seek mixed wine.
 <small><sub>**BSB:**</sub></small>
 Those who linger over wine, who go to taste mixed drinks.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַֽ]][[H0309\|מְאַחֲרִ֥ים]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3196\|יָּ֑יִן]] [[H9005\|לַ֝]][[H0935G\|בָּאִ֗ים]] [[H9005\|לַ]][[H2713\|חְקֹ֥ר]] [[H4469\|מִמְסָֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic STRIFE|STRIFE]] • [[topic WINE|WINE]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.29|<< Proverbs 23:29]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.31|Proverbs 23:31 >>]]</td></tr></table>
 

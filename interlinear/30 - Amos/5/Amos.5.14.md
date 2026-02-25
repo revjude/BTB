@@ -1,8 +1,60 @@
+---
+title: Amos 5:14
+type: Verse
+kjv: "Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken."
+bsb: "Seek good, not evil, so that you may live. And the LORD, the God of Hosts, will be with you, as you have claimed."
+hebrew: "דִּרְשׁוּ־ ט֥וֹב וְאַל־ רָ֖ע לְמַ֣עַן תִּֽחְי֑וּ וִיהִי־ כֵ֞ן יְהוָ֧ה אֱלֹהֵֽי־ צְבָא֛וֹת אִתְּכֶ֖ם כַּאֲשֶׁ֥ר אֲמַרְתֶּֽם׃"
+pericope: "[[Amos.5.4 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 5
+book/chapter: "[[Amos.5|Amos 5]]"
+chronological_order: 602
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H1875]]"
+- "[[H9014]]"
+- "[[H2896B]]"
+- "[[H9002]]"
+- "[[H0408]]"
+- "[[H7451B]]"
+- "[[H4616]]"
+- "[[H2421]]"
+- "[[H1961]]"
+- "[[H3651C]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H6635B]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 5:14**<big><big>[[Amos.5.4 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seek good, and not evil, that ye may live: and so the LORD, the God of hosts, shall be with you, as ye have spoken.
 <small><sub>**BSB:**</sub></small>
 Seek good, not evil, so that you may live. And the LORD, the God of Hosts, will be with you, as you have claimed.
+<small><sub>**Hebrew:**</sub></small>
+[[H1875\|דִּרְשׁוּ]][[H9014\|־]] [[H2896B\|ט֥וֹב]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H7451B\|רָ֖ע]] [[H4616\|לְמַ֣עַן]] [[H2421\|תִּֽחְי֑וּ]] [[H9002\|וִ]][[H1961\|יהִי]][[H9014\|־]] [[H3651C\|כֵ֞ן]] [[H3068G\|יְהוָ֧ה]] [[H0430G\|אֱלֹהֵֽי]][[H9014\|־]] [[H6635B\|צְבָא֛וֹת]] [[H0854\|אִתְּ]][[H9036\|כֶ֖ם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H0559\|אֲמַרְתֶּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.5.13|<< Amos 5:13]]</td><td align="center" style="border:none;">[[Amos.5|Amos 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.5.15|Amos 5:15 >>]]</td></tr></table>
 

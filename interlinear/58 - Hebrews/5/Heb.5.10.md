@@ -1,10 +1,50 @@
+---
+title: Hebrews 5:10
+type: Verse
+kjv: "Called of God an high priest after the order of Melchisedec."
+bsb: "and was designated by God as high priest in the order of Melchizedek."
+greek: "προσαγορευθεὶς ὑπὸ τοῦ θεοῦ ἀρχιερεὺς κατὰ τὴν τάξιν Μελχισέδεκ."
+pericope: "[[Heb.5.1 The Perfect High Priest|The Perfect High Priest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 5
+book/chapter: "[[Heb.5|Hebrews 5]]"
+chronological_order: 1144
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MELCHIZEDEK|MELCHIZEDEK]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G4316]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0749]]"
+- "[[G2596]]"
+- "[[G5010]]"
+- "[[G3198]]"
+texts:
+- NKO
+---
+
 **Hebrews 5:10**<big><big>[[Heb.5.1 The Perfect High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Called of God an high priest after the order of Melchisedec.
 <small><sub>**BSB:**</sub></small>
 and was designated by God as high priest in the order of Melchizedek.
-<small><sub>**Literal:**</sub></small>
-having been designated by <the> God a high priest according to the order of Melchizedek.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.9|<< Hebrews 5:9]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.11|Hebrews 5:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4316\|προσαγορευθεὶς]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G0749\|ἀρχιερεὺς]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G5010\|τάξιν]]  [[G3198\|Μελχισέδεκ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MELCHIZEDEK|MELCHIZEDEK]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.5.9|<< Hebrews 5:9]]</td><td align="center" style="border:none;">[[Heb.5|Hebrews 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.5.11|Hebrews 5:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

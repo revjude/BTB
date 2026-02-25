@@ -1,8 +1,76 @@
+---
+title: Judges 16:14
+type: Verse
+kjv: "And she fastened it with the pin, and said unto him, The Philistines be upon thee, Samson. And he awaked out of his sleep, and went away with the pin of the beam, and with the web."
+bsb: "So while he slept, Delilah took the seven braids of his hair and wove them into the web. Then she tightened it with a pin and called to him, “Samson, the Philistines are here!” But he awoke from his sleep and pulled out the pin with the loom and the web."
+hebrew: "וַתְּיַשְּׁנֵהוּ וַתַּאֲרִיג אֶת־ שֶׁבַע מַחְלְפוֹת רֹאשׁוֹ עִם־ הַמַּסֶּכֶת וַתִּתְקַע֙ בַּיָּתֵ֔ד וַתֹּ֣אמֶר אֵלָ֔יו פְּלִשְׁתִּ֥ים עָלֶ֖יךָ שִׁמְשׁ֑וֹן וַיִּיקַץ֙ מִשְּׁנָת֔וֹ וַיִּסַּ֛ע אֶת־ הַיְתַ֥ד הָאֶ֖רֶג וְאֶת־ הַמַּסָּֽכֶת׃"
+pericope: "[[Judg.16.4 Samson and Delilah|Samson and Delilah]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DELILAH|DELILAH]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WEAVING|WEAVING]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3462]]"
+- "[[H9033]]"
+- "[[H0707]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7651]]"
+- "[[H4253]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H5973A]]"
+- "[[H9009]]"
+- "[[H4545]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H3489]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H6430G]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H8123]]"
+- "[[H3364]]"
+- "[[H9006]]"
+- "[[H8142]]"
+- "[[H5265]]"
+- "[[H0708]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- X
+- L
+---
+
 **Judges 16:14**<big><big>[[Judg.16.4 Samson and Delilah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she fastened [it] with the pin, and said unto him, The Philistines [be] upon thee, Samson. And he awaked out of his sleep, and went away with the pin of the beam, and with the web.
 <small><sub>**BSB:**</sub></small>
 So while he slept, Delilah took the seven braids of his hair and wove them into the web. Then she tightened it with a pin and called to him, “Samson, the Philistines are here!” But he awoke from his sleep and pulled out the pin with the loom and the web.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3462\|תְּיַשְּׁנֵ]][[H9033\|הוּ]] [[H9001\|וַ]][[H0707\|תַּאֲרִיג]] [[H0853\|אֶת]][[H9014\|־]] [[H7651\|שֶׁבַע]] [[H4253\|מַחְלְפוֹת]] [[H7218A\|רֹאשׁ]][[H9023\|וֹ]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H4545\|מַּסֶּכֶת]] [[H9001\|וַ]][[H8628\|תִּתְקַע֙]] [[H9003\|בַּ]][[H3489\|יָּתֵ֔ד]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H6430G\|פְּלִשְׁתִּ֥ים]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H8123\|שִׁמְשׁ֑וֹן]] [[H9001\|וַ]][[H3364\|יִּיקַץ֙]] [[H9006\|מִ]][[H8142\|שְּׁנָת֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H5265\|יִּסַּ֛ע]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3489\|יְתַ֥ד]] [[H9009\|הָ]][[H0708\|אֶ֖רֶג]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4545\|מַּסָּֽכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic DELILAH|DELILAH]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic WEAVING|WEAVING]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.13|<< Judges 16:13]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.15|Judges 16:15 >>]]</td></tr></table>
 

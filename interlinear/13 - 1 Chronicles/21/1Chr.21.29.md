@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 21:29
+type: Verse
+kjv: "For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, were at that season in the high place at Gibeon."
+bsb: "For the tabernacle of the LORD that Moses had made in the wilderness and the altar of burnt offering were presently at the high place in Gibeon,"
+hebrew: "וּמִשְׁכַּ֣ן יְ֠הוָה אֲשֶׁר־ עָשָׂ֨ה מֹשֶׁ֧ה בַמִּדְבָּ֛ר וּמִזְבַּ֥ח הָעוֹלָ֖ה בָּעֵ֣ת הַהִ֑יא בַּבָּמָ֖ה בְּגִבְעֽוֹן׃"
+pericope: "[[1Chr.21.18 David Builds an Altar|David Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H4908]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H4872]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H4196]]"
+- "[[H9009]]"
+- "[[H5930A]]"
+- "[[H6256]]"
+- "[[H1931]]"
+- "[[H1116]]"
+- "[[H1391]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:29**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, [were] at that season in the high place at Gibeon.
 <small><sub>**BSB:**</sub></small>
 For the tabernacle of the LORD that Moses had made in the wilderness and the altar of burnt offering were presently at the high place in Gibeon,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4908\|מִשְׁכַּ֣ן]] [[H3068G\|יְ֠הוָה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשָׂ֨ה]] [[H4872\|מֹשֶׁ֧ה]] [[H9003\|בַ]][[H4057B\|מִּדְבָּ֛ר]] [[H9002\|וּ]][[H4196\|מִזְבַּ֥ח]] [[H9009\|הָ]][[H5930A\|עוֹלָ֖ה]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֑יא]] [[H9003\|בַּ]][[H1116\|בָּמָ֖ה]] [[H9003\|בְּ]][[H1391\|גִבְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEON|GIBEON]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.28|<< 1 Chronicles 21:28]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.30|1 Chronicles 21:30 >>]]</td></tr></table>
 

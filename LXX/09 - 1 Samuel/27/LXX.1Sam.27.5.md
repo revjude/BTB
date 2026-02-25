@@ -1,6 +1,78 @@
+---
+title: LXX 1 Samuel 27:5
+type: Verse
+lxx: "And David said to Achish, If indeed your servant has found favor in your eyes, give indeed to me a place in one of the cities of the ones in the country! and I shall settle there. For why does your servant settle in a city reigning with you?"
+greek: "και είπε Δαυίδ προς Ακχίς ει δη εύρηκεν ο δούλός σου χάριν εν οφθαλμοίς σου δότωσαν δη μοι τόπον εν μία των πόλεων των κατ΄ αγρόν και καθήσομαι εκεί και ινατί κάθηται ο δούλός σου εν πόλει βασιλευομένη μετά σου"
+original_language: Greek
+testament: Old
+book: 1 Samuel
+chapter: 27
+book/chapter: "[[1Sam.27|1 Samuel 27]]"
+chronological_order: 306
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CITIES|CITIES]]"
+- "[[topic GATH|GATH]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic ZIKLAG|ZIKLAG]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4622]]"
+- "[[G4314]]"
+- "[[H0397]]"
+- "[[G1487]]"
+- "[[G1211]]"
+- "[[G2147]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G5485]]"
+- "[[G1722]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G1211]]"
+- "[[G1473]]"
+- "[[G5117]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G0068]]"
+- "[[G2532]]"
+- "[[G2521]]"
+- "[[G1563]]"
+- "[[G2532]]"
+- "[[G2444]]"
+- "[[G2521]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G4172]]"
+- "[[G0936]]"
+- "[[G3326]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Samuel 27:5** 
 <small><sub>**LXX:**</sub></small>
 And David said to Achish, If indeed your servant has found favor in your eyes, give indeed to me a place in one of the cities of the ones in the country! and I shall settle there. For why \[does\] your servant settle in a city reigning with you? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπε]] [[G4622\|Δαυίδ]] [[G4314\|προς]] [[H0397\|Ακχίς]] [[G1487\|ει]] [[G1211\|δη]] [[G2147\|εύρηκεν]] [[G3588\|ο]] [[G1401\|δούλός]] [[G1473\|σου]] [[G5485\|χάριν]] [[G1722\|εν]] [[G3788\|οφθαλμοίς]] [[G1473\|σου]] [[G1325\|δότωσαν]] [[G1211\|δη]] [[G1473\|μοι]] [[G5117\|τόπον]] [[G1722\|εν]] [[G1520\|μία]] [[G3588\|των]] [[G4172\|πόλεων]] [[G3588\|των]] [[G2596\|κατ΄]] [[G0068\|αγρόν]] [[G2532\|και]] [[G2521\|καθήσομαι]] [[G1563\|εκεί]] [[G2532\|και]] [[G2444\|ινατί]] [[G2521\|κάθηται]] [[G3588\|ο]] [[G1401\|δούλός]] [[G1473\|σου]] [[G1722\|εν]] [[G4172\|πόλει]] [[G0936\|βασιλευομένη]] [[G3326\|μετά]] [[G1473\|σου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CITIES|CITIES]] • [[topic GATH|GATH]] • [[topic PHILISTINES|PHILISTINES]] • [[topic ZIKLAG|ZIKLAG]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Sam.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.4|<< 1 Samuel 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.6|1 Samuel 27:6 >>]]</td></tr></table>
 
@@ -42,6 +114,6 @@ And David said to Achish, If indeed your servant has found favor in your eyes, g
 | reigning | **<big>[[G0936\|βασιλευομένη]]</big>** |
 | with | **<big>[[G3326\|μετά]]</big>** |
 | you? | **<big>[[G1473\|σου]]</big>** |
-[[1Sam.27.5|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.4|<< 1 Samuel 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.6|1 Samuel 27:6 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Sam.27.4|<< 1 Samuel 27:4]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Sam.27.6|1 Samuel 27:6 >>]]</td></tr></table>
 
 

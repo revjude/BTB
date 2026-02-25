@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of Two Eagles and a Vine
+type: Pericope
 pericope: "[[Ezek.17.1 The Parable of Two Eagles and a Vine|The Parable of Two Eagles and a Vine]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 17
 book/chapter: "[[Ezek.17|Ezekiel 17]]"
-genre:
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 10
 verses:
 - "[[Ezek.17.1]]"
 - "[[Ezek.17.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ezek.17.10]]"
 ---
 
-[[Ezek.17|Ezekiel 17:1 - Ezekiel 17:10]]
+<small>[[Ezek.17|Ezekiel 17:1-10]]</small>
 *The Parable of Two Eagles and a Vine*
 
 [[Ezek.17.1|1]] And the word of the LORD came unto me, saying,

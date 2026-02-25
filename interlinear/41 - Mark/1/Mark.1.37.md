@@ -1,10 +1,52 @@
+---
+title: Mark 1:37
+type: Verse
+kjv: "And when they had found him, they said unto him, All men seek for thee."
+bsb: "and when they found Him, they said, “Everyone is looking for You!”"
+greek: "καὶ εὗρον αὐτὸν καὶ λέγουσιν αὐτῷ ὅτι πάντες ζητοῦσίν σε.¶"
+pericope: "[[Mark.1.35 Jesus Prays and Preaches|Jesus Prays and Preaches]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2147]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G3956]]"
+- "[[G2212]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Mark 1:37**<big><big>[[Mark.1.35 Jesus Prays and Preaches|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had found him, they said unto him, All [men] seek for thee.
 <small><sub>**BSB:**</sub></small>
 and when they found Him, they said, “Everyone is looking for You!”
-<small><sub>**Literal:**</sub></small>
-and having found Him also they say to Him that Everyone seeks You.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.36|<< Mark 1:36]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.38|Mark 1:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2147\|εὗρον]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ]]  [[G3754G\|ὅτι]]  [[G3956\|πάντες]]  [[G2212\|ζητοῦσίν]]  [[G4771\|σε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.36|<< Mark 1:36]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.38|Mark 1:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

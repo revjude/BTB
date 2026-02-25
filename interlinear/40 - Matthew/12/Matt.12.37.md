@@ -1,10 +1,55 @@
+---
+title: Matthew 12:37
+type: Verse
+kjv: "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
+bsb: "For by your words you will be acquitted, and by your words you will be condemned.”"
+jesus_said: "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
+greek: "ἐκ γὰρ τῶν λόγων σου δικαιωθήσῃ καὶ ἐκ τῶν λόγων σου καταδικασθήσῃ.¶"
+pericope: "[[Matt.12.33 Good and Bad Fruit|Good and Bad Fruit]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONVERSATION|CONVERSATION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G1537]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G4771]]"
+- "[[G1344]]"
+- "[[G2532]]"
+- "[[G2613]]"
+texts:
+- NKO
+---
+
 **Matthew 12:37**<big><big>[[Matt.12.33 Good and Bad Fruit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For by thy words thou shalt be justified, and by thy words thou shalt be condemned.
 <small><sub>**BSB:**</sub></small>
 For by your words you will be acquitted, and by your words you will be condemned.”
-<small><sub>**Literal:**</sub></small>
-By for the words of you you will be justified and by the words of you you will be condemned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.36|<< Matthew 12:36]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.38|Matthew 12:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1537\|ἐκ]]  [[G1063\|γὰρ]]  [[G3588\|τῶν]]  [[G3056\|λόγων]]  [[G4771\|σου]]  [[G1344\|δικαιωθήσῃ]]  [[G2532\|καὶ]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G3056\|λόγων]]  [[G4771\|σου]]  [[G2613\|καταδικασθήσῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERSATION|CONVERSATION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic MIRACLES|MIRACLES]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SPEAKING|SPEAKING]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.36|<< Matthew 12:36]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.38|Matthew 12:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

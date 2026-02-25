@@ -1,8 +1,59 @@
+---
+title: Genesis 25:15
+type: Verse
+kjv: "Hadar, and Tema, Jetur, Naphish, and Kedemah:"
+bsb: "Hadad, Tema, Jetur, Naphish, and Kedemah."
+hebrew: "חֲדַ֣ד וְתֵימָ֔א יְט֥וּר נָפִ֖ישׁ וָקֵֽדְמָה׃"
+pericope: "[[Gen.25.12 The Descendants of Ishmael|The Descendants of Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 25
+book/chapter: "[[Gen.25|Genesis 25]]"
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic HADAD|HADAD]]"
+- "[[topic HAGAR|HAGAR]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic JETUR|JETUR]]"
+- "[[topic KEDEMAH|KEDEMAH]]"
+- "[[topic NAPHISH|NAPHISH]]"
+- "[[topic TEMA|TEMA]]"
+strongs:
+- "[[H2316]]"
+- "[[H2301]]"
+- "[[H9002]]"
+- "[[H8485G]]"
+- "[[H3195G]]"
+- "[[H5305]]"
+- "[[H6929]]"
+- "[[H9016]]"
+texts:
+- LA(BH)
+- L
+---
+
 **Genesis 25:15**<big><big>[[Gen.25.12 The Descendants of Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hadar, and Tema, Jetur, Naphish, and Kedemah:
 <small><sub>**BSB:**</sub></small>
 Hadad, Tema, Jetur, Naphish, and Kedemah.
+<small><sub>**Hebrew:**</sub></small>
+[[H2301\|חֲדַ֣ד]] [[H9002\|וְ]][[H8485G\|תֵימָ֔א]] [[H3195G\|יְט֥וּר]] [[H5305\|נָפִ֖ישׁ]] [[H9002\|וָ]][[H6929\|קֵֽדְמָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic HADAD|HADAD]] • [[topic HAGAR|HAGAR]] • [[topic ISHMAEL|ISHMAEL]] • [[topic JETUR|JETUR]] • [[topic KEDEMAH|KEDEMAH]] • [[topic NAPHISH|NAPHISH]] • [[topic TEMA|TEMA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.25.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.25.14|<< Genesis 25:14]]</td><td align="center" style="border:none;">[[Gen.25|Genesis 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.25.16|Genesis 25:16 >>]]</td></tr></table>
 

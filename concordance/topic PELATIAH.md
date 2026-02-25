@@ -7,5 +7,5 @@
 
 3. One of those who signed the covenant with Nehemiah [[Neh.10.22|Ne 10:22]]
 
-4. A prince against whom Ezekiel prophesied, and who fell dead  at the close of the prophecy [[Ezek.11.1|Eze 11:1]]-[[Ezek.11.13|13]]
+4. A prince against whom Ezekiel prophesied, and who fell dead  at the close of the prophecy [[Ezek.11.1|Eze 11:1-13]]
 

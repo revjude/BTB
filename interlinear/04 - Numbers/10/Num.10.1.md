@@ -1,8 +1,53 @@
+---
+title: Numbers 10:1
+type: Verse
+kjv: "And the LORD spake unto Moses, saying,"
+bsb: "Then the LORD said to Moses,"
+hebrew: "וַיְדַבֵּ֥ר יְהוָ֖ה אֶל־ מֹשֶׁ֥ה לֵּאמֹֽר׃"
+pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:1**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake unto Moses, saying,
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֥ה]] [[H9005\|לֵּ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.23|<< Numbers 9:23]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.2|Numbers 10:2 >>]]</td></tr></table>
 

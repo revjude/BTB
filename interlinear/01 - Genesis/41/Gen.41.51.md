@@ -1,8 +1,70 @@
+---
+title: Genesis 41:51
+type: Verse
+kjv: "And Joseph called the name of the firstborn Manasseh: For God, said he, hath made me forget all my toil, and all my father’s house."
+bsb: "Joseph named the firstborn Manasseh, saying, “God has made me forget all my hardship and all my father’s household.”"
+hebrew: "וַיִּקְרָ֥א יוֹסֵ֛ף אֶת־ שֵׁ֥ם הַבְּכ֖וֹר מְנַשֶּׁ֑ה כִּֽי־ נַשַּׁ֤נִי אֱלֹהִים֙ אֶת־ כָּל־ עֲמָלִ֔י וְאֵ֖ת כָּל־ בֵּ֥ית אָבִֽי׃"
+pericope: "[[Gen.41.46 The Seven Years of Plenty|The Seven Years of Plenty]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MANASSEH|MANASSEH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H3130G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9009]]"
+- "[[H1060]]"
+- "[[H4519G]]"
+- "[[H3588A]]"
+- "[[H5382]]"
+- "[[H9030]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H5999]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:51**<big><big>[[Gen.41.46 The Seven Years of Plenty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph called the name of the firstborn Manasseh: For God, [said he], hath made me forget all my toil, and all my father’s house.
 <small><sub>**BSB:**</sub></small>
 Joseph named the firstborn Manasseh, saying, “God has made me forget all my hardship and all my father’s household.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֥א]] [[H3130G\|יוֹסֵ֛ף]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֥ם]] [[H9009\|הַ]][[H1060\|בְּכ֖וֹר]] [[H4519G\|מְנַשֶּׁ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5382\|נַשַּׁ֤]][[H9030\|נִי]] [[H0430G\|אֱלֹהִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5999\|עֲמָלִ֔]][[H9020\|י]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic MANASSEH|MANASSEH]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.50|<< Genesis 41:50]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.52|Genesis 41:52 >>]]</td></tr></table>
 

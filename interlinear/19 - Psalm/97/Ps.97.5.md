@@ -1,8 +1,61 @@
+---
+title: Psalm 97:5
+type: Verse
+kjv: "The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth."
+bsb: "The mountains melt like wax at the presence of the LORD, before the Lord of all the earth."
+hebrew: "הָרִ֗ים כַּדּוֹנַ֗ג נָ֭מַסּוּ מִלִּפְנֵ֣י יְהוָ֑ה מִ֝לִּפְנֵ֗י אֲד֣וֹן כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Ps.97.1 Let the Earth Rejoice|Let the Earth Rejoice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 97
+book/chapter: "[[Ps.97|Psalm 97]]"
+chronological_order: 524
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOUNTAIN|MOUNTAIN]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+- "[[topic WAX|WAX]]"
+strongs:
+- "[[H2022G]]"
+- "[[H9004]]"
+- "[[H1749]]"
+- "[[H4549]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0113]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 97:5**<big><big>[[Ps.97.1 Let the Earth Rejoice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth.
 <small><sub>**BSB:**</sub></small>
 The mountains melt like wax at the presence of the LORD, before the Lord of all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2022G\|הָרִ֗ים]] [[H9004\|כַּ]][[H1749\|דּוֹנַ֗ג]] [[H4549\|נָ֭מַסּוּ]] [[H9006\|מִ]][[H9005\|לִּ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9006\|מִ֝]][[H9005\|לִּ]][[H6440G\|פְנֵ֗י]] [[H0113\|אֲד֣וֹן]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOUNTAIN|MOUNTAIN]] • [[topic VOLCANOES|VOLCANOES]] • [[topic WAX|WAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.97.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.97.4|<< Psalms 97:4]]</td><td align="center" style="border:none;">[[Ps.97|Psalms 97]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.97.6|Psalms 97:6 >>]]</td></tr></table>
 

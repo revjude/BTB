@@ -1,8 +1,63 @@
+---
+title: Isaiah 41:9
+type: Verse
+kjv: "Thou whom I have taken from the ends of the earth, and called thee from the chief men thereof, and said unto thee, Thou art my servant; I have chosen thee, and not cast thee away."
+bsb: "I brought you from the ends of the earth and called you from its farthest corners. I said, ‘You are My servant.’ I have chosen and not rejected you."
+hebrew: "אֲשֶׁ֤ר הֶחֱזַקְתִּ֙יךָ֙ מִקְצ֣וֹת הָאָ֔רֶץ וּמֵאֲצִילֶ֖יהָ קְרָאתִ֑יךָ וָאֹ֤מַר לְךָ֙ עַבְדִּי־ אַ֔תָּה בְּחַרְתִּ֖יךָ וְלֹ֥א מְאַסְתִּֽיךָ׃"
+pericope: "[[Isa.41.1 God’s Help to Israel|God’s Help to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 41
+book/chapter: "[[Isa.41|Isaiah 41]]"
+chronological_order: 680
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0834A]]"
+- "[[H2388J]]"
+- "[[H9031]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H0678]]"
+- "[[H9024]]"
+- "[[H7121G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0977]]"
+- "[[H3808]]"
+- "[[H3988A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 41:9**<big><big>[[Isa.41.1 God’s Help to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Thou] whom I have taken from the ends of the earth, and called thee from the chief men thereof, and said unto thee, Thou [art] my servant; I have chosen thee, and not cast thee away.
 <small><sub>**BSB:**</sub></small>
 I brought you from the ends of the earth and called you from its farthest corners. I said, ‘You are My servant.’ I have chosen and not rejected you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֤ר]] [[H2388J\|הֶחֱזַקְתִּ֙י]][[H9031\|ךָ֙]] [[H9006\|מִ]][[H7098\|קְצ֣וֹת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9002\|וּ]][[H9006\|מֵ]][[H0678\|אֲצִילֶ֖י]][[H9024\|הָ]] [[H7121G\|קְרָאתִ֑י]][[H9031\|ךָ]] [[H9001\|וָ]][[H0559\|אֹ֤מַר]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H5650\|עַבְדִּ]][[H9020\|י]][[H9014\|־]] [[H0859A\|אַ֔תָּה]] [[H0977\|בְּחַרְתִּ֖י]][[H9031\|ךָ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3988A\|מְאַסְתִּֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.41.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.41.8|<< Isaiah 41:8]]</td><td align="center" style="border:none;">[[Isa.41|Isaiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.41.10|Isaiah 41:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

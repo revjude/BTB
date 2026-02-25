@@ -1,8 +1,59 @@
+---
+title: Proverbs 21:17
+type: Verse
+kjv: "He that loveth pleasure shall be a poor man: he that loveth wine and oil shall not be rich."
+bsb: "He who loves pleasure will become poor; the one who loves wine and oil will never be rich."
+hebrew: "אִ֣ישׁ מַ֭חְסוֹר אֹהֵ֣ב שִׂמְחָ֑ה אֹהֵ֥ב יַֽיִן־ וָ֝שֶׁ֗מֶן לֹ֣א יַעֲשִֽׁיר׃"
+pericope: "[[Prov.21.1 The King’s Heart|The King’s Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 21
+book/chapter: "[[Prov.21|Proverbs 21]]"
+chronological_order: 476
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic EXTRAVAGANCE|EXTRAVAGANCE]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic OIL|OIL]]"
+- "[[topic PLEASURE|PLEASURE]]"
+- "[[topic WINE|WINE]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H0376G]]"
+- "[[H4270]]"
+- "[[H0157G]]"
+- "[[H8057]]"
+- "[[H3196]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H8081]]"
+- "[[H3808]]"
+- "[[H6238]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 21:17**<big><big>[[Prov.21.1 The King’s Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that loveth pleasure [shall be] a poor man: he that loveth wine and oil shall not be rich.
 <small><sub>**BSB:**</sub></small>
 He who loves pleasure will become poor; the one who loves wine and oil will never be rich.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִ֣ישׁ]] [[H4270\|מַ֭חְסוֹר]] [[H0157G\|אֹהֵ֣ב]] [[H8057\|שִׂמְחָ֑ה]] [[H0157G\|אֹהֵ֥ב]] [[H3196\|יַֽיִן]][[H9014\|־]] [[H9002\|וָ֝]][[H8081\|שֶׁ֗מֶן]] [[H3808\|לֹ֣א]] [[H6238\|יַעֲשִֽׁיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic DRUNKENNESS|DRUNKENNESS]] • [[topic EXTRAVAGANCE|EXTRAVAGANCE]] • [[topic FOOD|FOOD]] • [[topic FRUGALITY|FRUGALITY]] • [[topic OIL|OIL]] • [[topic PLEASURE|PLEASURE]] • [[topic WINE|WINE]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.21.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.21.16|<< Proverbs 21:16]]</td><td align="center" style="border:none;">[[Prov.21|Proverbs 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.21.18|Proverbs 21:18 >>]]</td></tr></table>
 

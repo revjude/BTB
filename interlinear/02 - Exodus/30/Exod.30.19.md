@@ -1,8 +1,63 @@
+---
+title: Exodus 30:19
+type: Verse
+kjv: "For Aaron and his sons shall wash their hands and their feet thereat:"
+bsb: "with which Aaron and his sons are to wash their hands and feet."
+hebrew: "וְרָחֲצ֛וּ אַהֲרֹ֥ן וּבָנָ֖יו מִמֶּ֑נּוּ אֶת־ יְדֵיהֶ֖ם וְאֶת־ רַגְלֵיהֶֽם׃"
+pericope: "[[Exod.30.17 The Bronze Basin|The Bronze Basin]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic LAVER|LAVER]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H0175]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H7272]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:19**<big><big>[[Exod.30.17 The Bronze Basin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For Aaron and his sons shall wash their hands and their feet thereat:
 <small><sub>**BSB:**</sub></small>
 with which Aaron and his sons are to wash their hands and feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7364\|רָחֲצ֛וּ]] [[H0175\|אַהֲרֹ֥ן]] [[H9002\|וּ]][[H1121A\|בָנָ֖י]][[H9023\|ו]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יְדֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7272\|רַגְלֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic LAVER|LAVER]] • [[topic PURIFICATION|PURIFICATION]] • [[topic TYPES|TYPES]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.18|<< Exodus 30:18]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.20|Exodus 30:20 >>]]</td></tr></table>
 

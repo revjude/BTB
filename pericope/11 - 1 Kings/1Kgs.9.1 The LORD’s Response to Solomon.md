@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD’s Response to Solomon
+type: Pericope
 pericope: "[[1Kgs.9.1 The LORD’s Response to Solomon|The LORD’s Response to Solomon]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 9
 book/chapter: "[[1Kgs.9|1 Kings 9]]"
-genre:
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 9
 verses:
 - "[[1Kgs.9.1]]"
 - "[[1Kgs.9.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Kgs.9.9]]"
 ---
 
-[[1Kgs.9|1 Kings 9:1 - 1 Kings 9:9]]
+<small>[[1Kgs.9|1 Kings 9:1-9]]</small>
 *The LORD’s Response to Solomon*
 
 [[1Kgs.9.1|1]] And it came to pass, when Solomon had finished the building of the house of the LORD, and the king’s house, and all Solomon’s desire which he was pleased to do,

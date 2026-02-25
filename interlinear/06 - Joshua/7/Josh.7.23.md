@@ -1,8 +1,66 @@
+---
+title: Joshua 7:23
+type: Verse
+kjv: "And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the LORD."
+bsb: "They took the things from inside the tent, brought them to Joshua and all the Israelites, and spread them out before the LORD."
+hebrew: "וַיִּקָּחוּם֙ מִתּ֣וֹךְ הָאֹ֔הֶל וַיְבִאוּם֙ אֶל־ יְהוֹשֻׁ֔עַ וְאֶ֖ל כָּל־ בְּנֵ֣י יִשְׂרָאֵ֑ל וַיַּצִּקֻ֖ם לִפְנֵ֥י יְהוָֽה׃"
+pericope: "[[Josh.7.16 The Sin of Achan|The Sin of Achan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DISCIPLINE|DISCIPLINE]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NATION|NATION]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0168G]]"
+- "[[H0935P]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H3332I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 7:23**<big><big>[[Josh.7.16 The Sin of Achan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the LORD.
 <small><sub>**BSB:**</sub></small>
 They took the things from inside the tent, brought them to Joshua and all the Israelites, and spread them out before the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקָּחוּ]][[H9038\|ם֙]] [[H9006\|מִ]][[H8432\|תּ֣וֹךְ]] [[H9009\|הָ]][[H0168G\|אֹ֔הֶל]] [[H9001\|וַ]][[H0935P\|יְבִאוּ]][[H9038\|ם֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H9002\|וְ]][[H0413\|אֶ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H3332I\|יַּצִּקֻ֖]][[H9038\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISCIPLINE|DISCIPLINE]] • [[topic DISHONESTY|DISHONESTY]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NATION|NATION]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.22|<< Joshua 7:22]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.24|Joshua 7:24 >>]]</td></tr></table>
 

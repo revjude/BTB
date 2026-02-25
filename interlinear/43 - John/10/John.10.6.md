@@ -1,10 +1,58 @@
+---
+title: John 10:6
+type: Verse
+kjv: "This parable spake Jesus unto them: but they understood not what things they were which he spake unto them."
+bsb: "Jesus spoke to them using this illustration, but they did not understand what He was telling them."
+greek: "Ταύτην τὴν παροιμίαν εἶπεν αὐτοῖς ὁ Ἰησοῦς· ἐκεῖνοι δὲ οὐκ ἔγνωσαν τίνα ἦν ἃ ἐλάλει αὐτοῖς.¶"
+pericope: "[[John.10.1 Jesus the Good Shepherd|Jesus the Good Shepherd]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3942]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G1565]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3739]]"
+- "[[G2980]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 10:6**<big><big>[[John.10.1 Jesus the Good Shepherd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 This parable spake Jesus unto them: but they understood not what things they were which he spake unto them.
 <small><sub>**BSB:**</sub></small>
 Jesus spoke to them using this illustration, but they did not understand what He was telling them.
-<small><sub>**Literal:**</sub></small>
-This <the> allegory spoke to them <the> Jesus; they however not knew what it was that He was saying to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.5|<< John 10:5]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.7|John 10:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταύτην]]  [[G3588\|τὴν]]  [[G3942\|παροιμίαν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1565\|ἐκεῖνοι]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνωσαν]]  [[G5101\|τίνα]]  [[G1510\|ἦν]]  [[G3739\|ἃ]]  [[G2980\|ἐλάλει]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SHEEP|SHEEP]] • [[topic SHEPHERD|SHEPHERD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.5|<< John 10:5]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.7|John 10:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

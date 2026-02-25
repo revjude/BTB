@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 13:2
+type: Verse
+kjv: "Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent."
+bsb: "He chose for himself three thousand men of Israel: Two thousand were with Saul at Michmash and in the hill country of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. And the rest of the troops he sent away, each to his own home."
+hebrew: "וַיִּבְחַר־ ל֨וֹ שָׁא֜וּל שְׁלֹ֣שֶׁת אֲלָפִים֮ מִיִּשְׂרָאֵל֒ וַיִּהְי֨וּ עִם־ שָׁא֜וּל אַלְפַּ֗יִם בְּמִכְמָשׂ֙ וּבְהַ֣ר בֵּֽית־ אֵ֔ל וְאֶ֗לֶף הָיוּ֙ עִם־ י֣וֹנָתָ֔ן בְּגִבְעַ֖ת בִּנְיָמִ֑ין וְיֶ֣תֶר הָעָ֔ם שִׁלַּ֖ח אִ֥ישׁ לְאֹהָלָֽיו׃"
+pericope: "[[1Sam.13.1 War with the Philistines|War with the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic MICHMASH|MICHMASH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7586G]]"
+- "[[H7969]]"
+- "[[H0505G]]"
+- "[[H9006]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9003]]"
+- "[[H4363]]"
+- "[[H9002]]"
+- "[[H2022H]]"
+- "[[H1008G]]"
+- "[[H3129N]]"
+- "[[H1390H]]"
+- "[[H1144G]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H7971G]]"
+- "[[H0376I]]"
+- "[[H0168G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:2**<big><big>[[1Sam.13.1 War with the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Saul chose him three thousand [men] of Israel; [whereof] two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent.
 <small><sub>**BSB:**</sub></small>
 He chose for himself three thousand men of Israel: Two thousand were with Saul at Michmash and in the hill country of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. And the rest of the troops he sent away, each to his own home.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0977\|יִּבְחַר]][[H9014\|־]] [[H9005\|ל֨]][[H9033\|וֹ]] [[H7586G\|שָׁא֜וּל]] [[H7969\|שְׁלֹ֣שֶׁת]] [[H0505G\|אֲלָפִים֮]] [[H9006\|מִ]][[H3478\|יִּשְׂרָאֵל֒]] [[H9001\|וַ]][[H1961\|יִּהְי֨וּ]] [[H5973A\|עִם]][[H9014\|־]] [[H7586G\|שָׁא֜וּל]] [[H0505G\|אַלְפַּ֗יִם]] [[H9003\|בְּ]][[H4363\|מִכְמָשׂ֙]] [[H9002\|וּ]][[H9003\|בְ]][[H2022H\|הַ֣ר]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֔ל]] [[H9002\|וְ]][[H0505G\|אֶ֗לֶף]] [[H1961\|הָיוּ֙]] [[H5973A\|עִם]][[H9014\|־]] [[H3129N\|י֣וֹנָתָ֔ן]] [[H9003\|בְּ]][[H1390H\|גִבְעַ֖ת]] [[H1144G\|בִּנְיָמִ֑ין]] [[H9002\|וְ]][[H3499A\|יֶ֣תֶר]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H7971G\|שִׁלַּ֖ח]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H0168G\|אֹהָלָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic BETH-EL|BETH-EL]] • [[topic MICHMASH|MICHMASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.1|<< 1 Samuel 13:1]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.3|1 Samuel 13:3 >>]]</td></tr></table>
 

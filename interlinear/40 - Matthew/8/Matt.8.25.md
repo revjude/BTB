@@ -1,10 +1,61 @@
+---
+title: Matthew 8:25
+type: Verse
+kjv: "And his disciples came to him, and awoke him, saying, Lord, save us: we perish."
+bsb: "The disciples went and woke Him, saying, “Lord, save us! We are perishing!”"
+greek: "καὶ προσελθόντες οἱ μαθηταὶ αὐτου ἤγειραν αὐτὸν λέγοντες· κύριε, σῶσον ἡμᾶς, ἀπολλύμεθα."
+pericope: "[[Matt.8.23 Jesus Calms the Storm|Jesus Calms the Storm]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SEA|SEA]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1453]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G4982]]"
+- "[[G3165]]"
+- "[[G0622]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 8:25**<big><big>[[Matt.8.23 Jesus Calms the Storm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And his disciples came to [him], and awoke him, saying, Lord, save us: we perish.
 <small><sub>**BSB:**</sub></small>
 The disciples went and woke Him, saying, “Lord, save us! We are perishing!”
-<small><sub>**Literal:**</sub></small>
-And having come to [Him] the disciples of Him they awoke Him saying; Lord, do save us we are perishing!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.24|<< Matthew 8:24]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.26|Matthew 8:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4334\|προσελθόντες]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτου]]  [[G1453\|ἤγειραν]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγοντες·]]  [[G2962G\|κύριε,]]  [[G4982\|σῶσον]]  [[G3165\|ἡμᾶς,]]  [[G0622\|ἀπολλύμεθα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic APOSTLES|APOSTLES]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic SEA|SEA]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.24|<< Matthew 8:24]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.26|Matthew 8:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

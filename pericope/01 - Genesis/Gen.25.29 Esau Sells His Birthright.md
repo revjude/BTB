@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Esau Sells His Birthright
+type: Pericope
 pericope: "[[Gen.25.29 Esau Sells His Birthright|Esau Sells His Birthright]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 25
 book/chapter: "[[Gen.25|Genesis 25]]"
-genre:
+chronological_order: 67
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 6
 verses:
 - "[[Gen.25.29]]"
 - "[[Gen.25.30]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Gen.25.34]]"
 ---
 
-[[Gen.25|Genesis 25:29 - Genesis 25:34]]
+<small>[[Gen.25|Genesis 25:29-34]]</small>
 *Esau Sells His Birthright*
 
 [[Gen.25.29|29]] And Jacob sod pottage: and Esau came from the field, and he \[was\] faint:

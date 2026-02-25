@@ -1,10 +1,71 @@
+---
+title: Luke 13:14
+type: Verse
+kjv: "And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day."
+bsb: "But the synagogue leader was indignant that Jesus had healed on the Sabbath. “There are six days for work,” he told the crowd. “So come and be healed on those days and not on the Sabbath.”"
+greek: "Ἀποκριθεὶς δὲ ὁ ἀρχισυνάγωγος, ἀγανακτῶν ὅτι τῷ σαββάτῳ ἐθεράπευσεν ὁ Ἰησοῦς, ἔλεγεν τῷ ὄχλῳ ὅτι ἓξ ἡμέραι εἰσὶν ἐν αἷς δεῖ ἐργάζεσθαι· ἐν αὐταῖς οὖν ἐρχόμενοι θεραπεύεσθε καὶ μὴ τῇ ἡμέρᾳ τοῦ σαββάτου.¶"
+pericope: "[[Luke.13.10 Jesus Heals a Disabled Woman|Jesus Heals a Disabled Woman]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 13
+book/chapter: "[[Luke.13|Luke 13]]"
+chronological_order: 975
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G0752]]"
+- "[[G0023]]"
+- "[[G3754H]]"
+- "[[G4521]]"
+- "[[G2323]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G3793]]"
+- "[[G3754G]]"
+- "[[G1803]]"
+- "[[G2250]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G1163]]"
+- "[[G2038]]"
+- "[[G0846]]"
+- "[[G3767]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G3361]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 13:14**<big><big>[[Luke.13.10 Jesus Heals a Disabled Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.
 <small><sub>**BSB:**</sub></small>
 But the synagogue leader was indignant that Jesus had healed on the Sabbath. “There are six days for work,” he told the crowd. “So come and be healed on those days and not on the Sabbath.”
-<small><sub>**Literal:**</sub></small>
-Answering now the ruler of the synagogue, indignant because on the Sabbath healed <the> Jesus, he was saying to the crowd that Six days there are in which it behooves to work; in these therefore coming do be healed and not on the day of the Sabbath.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.13|<< Luke 13:13]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.15|Luke 13:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G0752\|ἀρχισυνάγωγος,]]  [[G0023\|ἀγανακτῶν]]  [[G3754H\|ὅτι]]  [[G3588\|τῷ]]  [[G4521\|σαββάτῳ]]  [[G2323\|ἐθεράπευσεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς,]]  [[G3004G\|ἔλεγεν]]  [[G3588\|τῷ]]  [[G3793\|ὄχλῳ]]  [[G3754G\|ὅτι]]  [[G1803\|ἓξ]]  [[G2250\|ἡμέραι]]  [[G1510\|εἰσὶν]]  [[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G1163\|δεῖ]]  [[G2038\|ἐργάζεσθαι·]]  [[G1722\|ἐν]]  [[G0846\|αὐταῖς]]  [[G3767\|οὖν]]  [[G2064\|ἐρχόμενοι]]  [[G2323\|θεραπεύεσθε]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τοῦ]]  [[G4521\|σαββάτου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.13.13|<< Luke 13:13]]</td><td align="center" style="border:none;">[[Luke.13|Luke 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.13.15|Luke 13:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

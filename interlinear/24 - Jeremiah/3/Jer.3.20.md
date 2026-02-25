@@ -1,8 +1,58 @@
+---
+title: Jeremiah 3:20
+type: Verse
+kjv: "Surely as a wife treacherously departeth from her husband, so have ye dealt treacherously with me, O house of Israel, saith the LORD."
+bsb: "But as a woman may betray her husband, so you have betrayed Me, O house of Israel,” declares the LORD."
+hebrew: "אָכֵ֛ן בָּגְדָ֥ה אִשָּׁ֖ה מֵרֵעָ֑הּ כֵּ֣ן בְּגַדְתֶּ֥ם בִּ֛י בֵּ֥ית יִשְׂרָאֵ֖ל נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.3.11 A Call to Repentance|A Call to Repentance]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+strongs:
+- "[[H0403]]"
+- "[[H0898]]"
+- "[[H0802H]]"
+- "[[H9006]]"
+- "[[H7453]]"
+- "[[H9024]]"
+- "[[H3651C]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 3:20**<big><big>[[Jer.3.11 A Call to Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely [as] a wife treacherously departeth from her husband, so have ye dealt treacherously with me, O house of Israel, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 But as a woman may betray her husband, so you have betrayed Me, O house of Israel,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0403\|אָכֵ֛ן]] [[H0898\|בָּגְדָ֥ה]] [[H0802H\|אִשָּׁ֖ה]] [[H9006\|מֵ]][[H7453\|רֵעָ֑]][[H9024\|הּ]] [[H3651C\|כֵּ֣ן]] [[H0898\|בְּגַדְתֶּ֥ם]] [[H9003\|בִּ֛]][[H9030\|י]] [[H1004M\|בֵּ֥ית]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.19|<< Jeremiah 3:19]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.21|Jeremiah 3:21 >>]]</td></tr></table>
 

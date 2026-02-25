@@ -1,8 +1,66 @@
+---
+title: Leviticus 21:5
+type: Verse
+kjv: "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh."
+bsb: "Priests must not make bald spots on their heads, shave off the edges of their beards, or make cuts in their bodies."
+hebrew: "לֹֽא־ יִקְרְח֤וּ קָרְחָה֙ בְּרֹאשָׁ֔ם וּפְאַ֥ת זְקָנָ֖ם לֹ֣א יְגַלֵּ֑חוּ וּבִ֨בְשָׂרָ֔ם לֹ֥א יִשְׂרְט֖וּ שָׂרָֽטֶת׃"
+pericope: "[[Lev.21.1 Holiness Required of Priests|Holiness Required of Priests]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 21
+book/chapter: "[[Lev.21|Leviticus 21]]"
+chronological_order: 153
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic BEARD|BEARD]]"
+- "[[topic CUTTING|CUTTING]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic UNCLEANNESS|UNCLEANNESS]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7139]]"
+- "[[H7144]]"
+- "[[H9003]]"
+- "[[H7218A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H6285]]"
+- "[[H2206]]"
+- "[[H1548]]"
+- "[[H1320]]"
+- "[[H8295]]"
+- "[[H8296B]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Leviticus 21:5**<big><big>[[Lev.21.1 Holiness Required of Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.
 <small><sub>**BSB:**</sub></small>
 Priests must not make bald spots on their heads, shave off the edges of their beards, or make cuts in their bodies.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H7139\|יִקְרְח֤וּ]] [[H7144\|קָרְחָה֙]] [[H9003\|בְּ]][[H7218A\|רֹאשָׁ֔]][[H9028\|ם]] [[H9002\|וּ]][[H6285\|פְאַ֥ת]] [[H2206\|זְקָנָ֖]][[H9028\|ם]] [[H3808\|לֹ֣א]] [[H1548\|יְגַלֵּ֑חוּ]] [[H9002\|וּ]][[H9003\|בִ֨]][[H1320\|בְשָׂרָ֔]][[H9028\|ם]] [[H3808\|לֹ֥א]] [[H8295\|יִשְׂרְט֖וּ]] [[H8296B\|שָׂרָֽטֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALDNESS|BALDNESS]] • [[topic BEARD|BEARD]] • [[topic CUTTING|CUTTING]] • [[topic MOURNING|MOURNING]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic UNCLEANNESS|UNCLEANNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.21.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.21.4|<< Leviticus 21:4]]</td><td align="center" style="border:none;">[[Lev.21|Leviticus 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.21.6|Leviticus 21:6 >>]]</td></tr></table>
 

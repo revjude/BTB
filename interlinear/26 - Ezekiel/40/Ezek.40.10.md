@@ -1,8 +1,54 @@
+---
+title: Ezekiel 40:10
+type: Verse
+kjv: "And the little chambers of the gate eastward were three on this side, and three on that side; they three were of one measure: and the posts had one measure on this side and on that side."
+bsb: "There were three gate chambers on each side of the east gate, each with the same measurements, and the gateposts on either side also had the same measurements."
+hebrew: "וְתָאֵ֨י הַשַּׁ֜עַר דֶּ֣רֶךְ הַקָּדִ֗ים שְׁלֹשָׁ֤ה מִפֹּה֙ וּשְׁלֹשָׁ֣ה מִפֹּ֔ה מִדָּ֥ה אַחַ֖ת לִשְׁלָשְׁתָּ֑ם וּמִדָּ֥ה אַחַ֛ת לָאֵילִ֖ם מִפֹּ֥ה וּמִפּֽוֹ׃"
+pericope: "[[Ezek.40.5 The East Gate|The East Gate]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H8372]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H1870J]]"
+- "[[H6921]]"
+- "[[H7969]]"
+- "[[H9006]]"
+- "[[H6311]]"
+- "[[H4060A]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H9028]]"
+- "[[H0352B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:10**<big><big>[[Ezek.40.5 The East Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the little chambers of the gate eastward [were] three on this side, and three on that side; they three [were] of one measure: and the posts had one measure on this side and on that side.
 <small><sub>**BSB:**</sub></small>
 There were three gate chambers on each side of the east gate, each with the same measurements, and the gateposts on either side also had the same measurements.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8372\|תָאֵ֨י]] [[H9009\|הַ]][[H8179G\|שַּׁ֜עַר]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H6921\|קָּדִ֗ים]] [[H7969\|שְׁלֹשָׁ֤ה]] [[H9006\|מִ]][[H6311\|פֹּה֙]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁ֣ה]] [[H9006\|מִ]][[H6311\|פֹּ֔ה]] [[H4060A\|מִדָּ֥ה]] [[H0259\|אַחַ֖ת]] [[H9005\|לִ]][[H7969\|שְׁלָשְׁתָּ֑]][[H9028\|ם]] [[H9002\|וּ]][[H4060A\|מִדָּ֥ה]] [[H0259\|אַחַ֛ת]] [[H9005\|לָ]][[H0352B\|אֵילִ֖ם]] [[H9006\|מִ]][[H6311\|פֹּ֥ה]] [[H9002\|וּ]][[H9006\|מִ]][[H6311\|פּֽוֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.9|<< Ezekiel 40:9]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.11|Ezekiel 40:11 >>]]</td></tr></table>
 

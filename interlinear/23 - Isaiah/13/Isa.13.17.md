@@ -1,8 +1,63 @@
+---
+title: Isaiah 13:17
+type: Verse
+kjv: "Behold, I will stir up the Medes against them, which shall not regard silver; and as for gold, they shall not delight in it."
+bsb: "Behold, I will stir up against them the Medes, who have no regard for silver and no desire for gold."
+hebrew: "הִנְנִ֛י מֵעִ֥יר עֲלֵיהֶ֖ם אֶת־ מָדָ֑י אֲשֶׁר־ כֶּ֙סֶף֙ לֹ֣א יַחְשֹׁ֔בוּ וְזָהָ֖ב לֹ֥א יַחְפְּצוּ־ בֽוֹ׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARCHERY|ARCHERY]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H5782]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4074I]]"
+- "[[H0834A]]"
+- "[[H3701G]]"
+- "[[H3808]]"
+- "[[H2803H]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H2654A]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:17**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will stir up the Medes against them, which shall not regard silver; and [as for] gold, they shall not delight in it.
 <small><sub>**BSB:**</sub></small>
 Behold, I will stir up against them the Medes, who have no regard for silver and no desire for gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֛י]] [[H5782\|מֵעִ֥יר]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H4074I\|מָדָ֑י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3701G\|כֶּ֙סֶף֙]] [[H3808\|לֹ֣א]] [[H2803H\|יַחְשֹׁ֔בוּ]] [[H9002\|וְ]][[H2091\|זָהָ֖ב]] [[H3808\|לֹ֥א]] [[H2654A\|יַחְפְּצוּ]][[H9014\|־]] [[H9003\|בֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHERY|ARCHERY]] • [[topic CYRUS|CYRUS]] • [[topic GOLD|GOLD]] • [[topic MONEY|MONEY]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.16|<< Isaiah 13:16]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.18|Isaiah 13:18 >>]]</td></tr></table>
 

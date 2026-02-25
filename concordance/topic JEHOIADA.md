@@ -9,9 +9,9 @@
 
 - Salutary influence of, over Jehoash [[2Kgs.12.2|2Ki 12:2]]; [[2Chr.24.2|2Ch 24:2]],[[2Chr.24.22|22]]
 
-- Directs the repairs of the temple [[2Kgs.12.4|2Ki 12:4]]-[[2Kgs.12.16|16]]; [[2Chr.24.4|2Ch  24:4]]-[[2Chr.24.14|14]]
+- Directs the repairs of the temple [[2Kgs.12.4|2Ki 12:4-16]]; [[2Chr.24.4|2Ch  24:4-14]]
 
-- Death of [[2Chr.24.4|2Ch 24:4]]-[[2Chr.24.16|16]]
+- Death of [[2Chr.24.4|2Ch 24:4-16]]
 
 3. A priest who led three-thousand seven-hundred priests armed  for war [[1Chr.12.27|1Ch 12:27]]
 

@@ -1,8 +1,66 @@
+---
+title: Joshua 24:12
+type: Verse
+kjv: "And I sent the hornet before you, which drave them out from before you, even the two kings of the Amorites; but not with thy sword, nor with thy bow."
+bsb: "I sent the hornet ahead of you, and it drove out the two Amorite kings before you, but not by your own sword or bow."
+hebrew: "וָאֶשְׁלַ֤ח לִפְנֵיכֶם֙ אֶת־ הַצִּרְעָ֔ה וַתְּגָ֤רֶשׁ אוֹתָם֙ מִפְּנֵיכֶ֔ם שְׁנֵ֖י מַלְכֵ֣י הָאֱמֹרִ֑י לֹ֥א בְחַרְבְּךָ֖ וְלֹ֥א בְקַשְׁתֶּֽךָ׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HORNET|HORNET]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9026]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6880]]"
+- "[[H1644G]]"
+- "[[H9038]]"
+- "[[H9006]]"
+- "[[H8147]]"
+- "[[H4428G]]"
+- "[[H0567]]"
+- "[[H3808]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7198]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:12**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I sent the hornet before you, which drave them out from before you, [even] the two kings of the Amorites; [but] not with thy sword, nor with thy bow.
 <small><sub>**BSB:**</sub></small>
 I sent the hornet ahead of you, and it drove out the two Amorite kings before you, but not by your own sword or bow.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7971G\|אֶשְׁלַ֤ח]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6880\|צִּרְעָ֔ה]] [[H9001\|וַ]][[H1644G\|תְּגָ֤רֶשׁ]] [[H0853\|אוֹתָ]][[H9038\|ם֙]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶ֔ם]] [[H8147\|שְׁנֵ֖י]] [[H4428G\|מַלְכֵ֣י]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֑י]] [[H3808\|לֹ֥א]] [[H9003\|בְ]][[H2719\|חַרְבְּ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9003\|בְ]][[H7198\|קַשְׁתֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic ANIMALS|ANIMALS]] • [[topic GOD|GOD]] • [[topic HORNET|HORNET]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.11|<< Joshua 24:11]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.13|Joshua 24:13 >>]]</td></tr></table>
 

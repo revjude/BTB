@@ -1,10 +1,53 @@
+---
+title: Matthew 21:10
+type: Verse
+kjv: "And when he was come into Jerusalem, all the city was moved, saying, Who is this?"
+bsb: "When Jesus had entered Jerusalem, the whole city was stirred and asked, “Who is this?”"
+greek: "Καὶ εἰσελθόντος αὐτοῦ εἰς Ἱεροσόλυμα ἐσείσθη πᾶσα ἡ πόλις λέγουσα· τίς ἐστιν οὗτος;¶"
+pericope: "[[Matt.21.1 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 21
+book/chapter: "[[Matt.21|Matthew 21]]"
+chronological_order: 991
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G4579]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Matthew 21:10**<big><big>[[Matt.21.1 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he was come into Jerusalem, all the city was moved, saying, Who is this?
 <small><sub>**BSB:**</sub></small>
 When Jesus had entered Jerusalem, the whole city was stirred and asked, “Who is this?”
-<small><sub>**Literal:**</sub></small>
-And when was entering He into Jerusalem was stirred all the city saying; Who is this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.9|<< Matthew 21:9]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.11|Matthew 21:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1525\|εἰσελθόντος]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G4579\|ἐσείσθη]]  [[G3956\|πᾶσα]]  [[G3588\|ἡ]]  [[G4172\|πόλις]]  [[G3004G\|λέγουσα·]]  [[G5101\|τίς]]  [[G1510\|ἐστιν]]  [[G3778\|οὗτος;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.21.9|<< Matthew 21:9]]</td><td align="center" style="border:none;">[[Matt.21|Matthew 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.21.11|Matthew 21:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

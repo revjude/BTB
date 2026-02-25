@@ -1,8 +1,69 @@
+---
+title: Numbers 12:4
+type: Verse
+kjv: "And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out."
+bsb: "And suddenly the LORD said to Moses, Aaron, and Miriam, “You three, come out to the Tent of Meeting.” So the three went out,"
+hebrew: "וַיֹּ֨אמֶר יְהוָ֜ה פִּתְאֹ֗ם אֶל־ מֹשֶׁ֤ה וְאֶֽל־ אַהֲרֹן֙ וְאֶל־ מִרְיָ֔ם צְא֥וּ שְׁלָשְׁתְּכֶ֖ם אֶל־ אֹ֣הֶל מוֹעֵ֑ד וַיֵּצְא֖וּ שְׁלָשְׁתָּֽם׃"
+pericope: "[[Num.12.1 The Complaint of Miriam and Aaron|The Complaint of Miriam and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 12
+book/chapter: "[[Num.12|Numbers 12]]"
+chronological_order: 172
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic LEPROSY|LEPROSY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6597]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H4813G]]"
+- "[[H3318G]]"
+- "[[H7969]]"
+- "[[H9026]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 12:4**<big><big>[[Num.12.1 The Complaint of Miriam and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD spake suddenly unto Moses, and unto Aaron, and unto Miriam, Come out ye three unto the tabernacle of the congregation. And they three came out.
 <small><sub>**BSB:**</sub></small>
 And suddenly the LORD said to Moses, Aaron, and Miriam, “You three, come out to the Tent of Meeting.” So the three went out,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H3068G\|יְהוָ֜ה]] [[H6597\|פִּתְאֹ֗ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֤ה]] [[H9002\|וְ]][[H0413\|אֶֽל]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4813G\|מִרְיָ֔ם]] [[H3318G\|צְא֥וּ]] [[H7969\|שְׁלָשְׁתְּ]][[H9026\|כֶ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וַ]][[H3318G\|יֵּצְא֖וּ]] [[H7969\|שְׁלָשְׁתָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CITIZENS|CITIZENS]] • [[topic ENVY|ENVY]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic LEPROSY|LEPROSY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.12.3|<< Numbers 12:3]]</td><td align="center" style="border:none;">[[Num.12|Numbers 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.12.5|Numbers 12:5 >>]]</td></tr></table>
 

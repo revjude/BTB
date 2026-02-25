@@ -5,7 +5,7 @@
 
 → Paul visits  [[Acts.17.1|Ac 17:1]]; [[Phil.4.16|Php 4:16]]
 
-→ People of, persecute Paul [[Acts.17.5|Ac 17:5]]-[[Acts.17.8|8]],[[Acts.17.11|11]],[[Acts.17.13|13]]
+→ People of, persecute Paul [[Acts.17.5|Ac 17:5-8]],[[Acts.17.11|11]],[[Acts.17.13|13]]
 
 → Men of, accompany Paul [[Acts.20.4|Ac 20:4]]; [[Acts.27.2|27:2]]
 

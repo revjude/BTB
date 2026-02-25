@@ -1,8 +1,54 @@
+---
+title: Song of Solomon 5:13
+type: Verse
+kjv: "His cheeks are as a bed of spices, as sweet flowers: his lips like lilies, dropping sweet smelling myrrh."
+bsb: "His cheeks are like beds of spice, towers of perfume. His lips are like lilies, dripping with flowing myrrh."
+hebrew: "לְחָיָו֙ כַּעֲרוּגַ֣ת הַבֹּ֔שֶׂם מִגְדְּל֖וֹת מֶרְקָחִ֑ים שִׂפְתוֹתָיו֙ שֽׁוֹשַׁנִּ֔ים נֹטְפ֖וֹת מ֥וֹר עֹבֵֽר׃"
+pericope: "[[Song.5.10 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 5
+book/chapter: "[[Song.5|Song of Solomon 5]]"
+chronological_order: 452
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic LILY|LILY]]"
+- "[[topic MYRRH|MYRRH]]"
+strongs:
+- "[[H3895H]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H6170]]"
+- "[[H9009]]"
+- "[[H1314]]"
+- "[[H4026M]]"
+- "[[H4840]]"
+- "[[H8193G]]"
+- "[[H7799]]"
+- "[[H5197]]"
+- "[[H4753]]"
+- "[[H5674A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 5:13**<big><big>[[Song.5.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His cheeks [are] as a bed of spices, [as] sweet flowers: his lips [like] lilies, dropping sweet smelling myrrh.
 <small><sub>**BSB:**</sub></small>
 His cheeks are like beds of spice, towers of perfume. His lips are like lilies, dripping with flowing myrrh.
+<small><sub>**Hebrew:**</sub></small>
+[[H3895H\|לְחָיָ]][[H9023\|ו֙]] [[H9004\|כַּ]][[H6170\|עֲרוּגַ֣ת]] [[H9009\|הַ]][[H1314\|בֹּ֔שֶׂם]] [[H4026M\|מִגְדְּל֖וֹת]] [[H4840\|מֶרְקָחִ֑ים]] [[H8193G\|שִׂפְתוֹתָי]][[H9023\|ו֙]] [[H7799\|שֽׁוֹשַׁנִּ֔ים]] [[H5197\|נֹטְפ֖וֹת]] [[H4753\|מ֥וֹר]] [[H5674A\|עֹבֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LILY|LILY]] • [[topic MYRRH|MYRRH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.5.12|<< Song of Solomon 5:12]]</td><td align="center" style="border:none;">[[Song.5|Song of Solomon 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.5.14|Song of Solomon 5:14 >>]]</td></tr></table>
 

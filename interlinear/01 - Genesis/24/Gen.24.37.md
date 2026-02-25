@@ -1,8 +1,69 @@
+---
+title: Genesis 24:37
+type: Verse
+kjv: "And my master made me swear, saying, Thou shalt not take a wife to my son of the daughters of the Canaanites, in whose land I dwell:"
+bsb: "My master made me swear an oath and said, ‘You shall not take a wife for my son from the daughters of the Canaanites in whose land I dwell,"
+hebrew: "וַיַּשְׁבִּעֵ֥נִי אֲדֹנִ֖י לֵאמֹ֑ר לֹא־ תִקַּ֤ח אִשָּׁה֙ לִבְנִ֔י מִבְּנוֹת֙ הַֽכְּנַעֲנִ֔י אֲשֶׁ֥ר אָנֹכִ֖י יֹשֵׁ֥ב בְּאַרְצֽוֹ׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7650]]"
+- "[[H9030]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3947G]]"
+- "[[H0802H]]"
+- "[[H1121A]]"
+- "[[H9006]]"
+- "[[H1323G]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- LA(bh)
+---
+
 **Genesis 24:37**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And my master made me swear, saying, Thou shalt not take a wife to my son of the daughters of the Canaanites, in whose land I dwell:
 <small><sub>**BSB:**</sub></small>
 My master made me swear an oath and said, ‘You shall not take a wife for my son from the daughters of the Canaanites in whose land I dwell,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7650\|יַּשְׁבִּעֵ֥]][[H9030\|נִי]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3808\|לֹא]][[H9014\|־]] [[H3947G\|תִקַּ֤ח]] [[H0802H\|אִשָּׁה֙]] [[H9005\|לִ]][[H1121A\|בְנִ֔]][[H9020\|י]] [[H9006\|מִ]][[H1323G\|בְּנוֹת֙]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H0595\|אָנֹכִ֖י]] [[H3427\|יֹשֵׁ֥ב]] [[H9003\|בְּ]][[H0776G\|אַרְצֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.36|<< Genesis 24:36]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.38|Genesis 24:38 >>]]</td></tr></table>
 

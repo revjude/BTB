@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Fairness and Mercy
+type: Pericope
 pericope: "[[Deut.25.1 Fairness and Mercy|Fairness and Mercy]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 25
 book/chapter: "[[Deut.25|Deuteronomy 25]]"
-genre:
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 4
 verses:
 - "[[Deut.25.1]]"
 - "[[Deut.25.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Deut.25.4]]"
 ---
 
-[[Deut.25|Deuteronomy 25:1 - Deuteronomy 25:4]]
+<small>[[Deut.25|Deuteronomy 25:1-4]]</small>
 *Fairness and Mercy*
 
 [[Deut.25.1|1]] If there be a controversy between men, and they come unto judgment, that \[the judges\] may judge them; then they shall justify the righteous, and condemn the wicked.

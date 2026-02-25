@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The List of Returning Exiles
+type: Pericope
 pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
-verse_count: 67
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 2
 book/chapter: "[[Ezra.2|Ezra 2]]"
-genre:
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 67
 verses:
 - "[[Ezra.2.1]]"
 - "[[Ezra.2.2]]"
@@ -85,7 +92,7 @@ verses:
 - "[[Ezra.2.67]]"
 ---
 
-[[Ezra.2|Ezra 2:1 - Ezra 2:67]]
+<small>[[Ezra.2|Ezra 2:1-67]]</small>
 *The List of Returning Exiles*
 
 [[Ezra.2.1|1]] Now these \[are\] the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;

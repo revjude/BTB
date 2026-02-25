@@ -1,8 +1,75 @@
+---
+title: Numbers 16:38
+type: Verse
+kjv: "The censers of these sinners against their own souls, let them make them broad plates for a covering of the altar: for they offered them before the LORD, therefore they are hallowed: and they shall be a sign unto the children of Israel."
+bsb: "As for the censers of those who sinned at the cost of their own lives, hammer them into sheets to overlay the altar, for these were presented before the LORD, and so have become holy. They will serve as a sign to the Israelites.”"
+hebrew: "אֵ֡ת מַחְתּוֹת֩ הַֽחַטָּאִ֨ים הָאֵ֜לֶּה בְּנַפְשֹׁתָ֗ם וְעָשׂ֨וּ אֹתָ֜ם רִקֻּעֵ֤י פַחִים֙ צִפּ֣וּי לַמִּזְבֵּ֔חַ כִּֽי־ הִקְרִיבֻ֥ם לִפְנֵֽי־ יְהוָ֖ה וַיִּקְדָּ֑שׁוּ וְיִֽהְי֥וּ לְא֖וֹת לִבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.16.36 The Censers Reserved for Holy Use|The Censers Reserved for Holy Use]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 16
+book/chapter: "[[Num.16|Numbers 16]]"
+chronological_order: 176
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic CENSER|CENSER]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H0853]]"
+- "[[H4289]]"
+- "[[H9009]]"
+- "[[H2400]]"
+- "[[H0428]]"
+- "[[H9003]]"
+- "[[H5315H]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H6213H]]"
+- "[[H9038]]"
+- "[[H7555]]"
+- "[[H6341B]]"
+- "[[H6826]]"
+- "[[H9005]]"
+- "[[H4196]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7126H]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H1961]]"
+- "[[H0226H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 16:38**<big><big>[[Num.16.36 The Censers Reserved for Holy Use|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The censers of these sinners against their own souls, let them make them broad plates [for] a covering of the altar: for they offered them before the LORD, therefore they are hallowed: and they shall be a sign unto the children of Israel.
 <small><sub>**BSB:**</sub></small>
 As for the censers of those who sinned at the cost of their own lives, hammer them into sheets to overlay the altar, for these were presented before the LORD, and so have become holy. They will serve as a sign to the Israelites.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֵ֡ת]] [[H4289\|מַחְתּוֹת֩]] [[H9009\|הַֽ]][[H2400\|חַטָּאִ֨ים]] [[H9009\|הָ]][[H0428\|אֵ֜לֶּה]] [[H9003\|בְּ]][[H5315H\|נַפְשֹׁתָ֗]][[H9028\|ם]] [[H9002\|וְ]][[H6213H\|עָשׂ֨וּ]] [[H0853\|אֹתָ֜]][[H9038\|ם]] [[H7555\|רִקֻּעֵ֤י]] [[H6341B\|פַחִים֙]] [[H6826\|צִפּ֣וּי]] [[H9005\|לַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7126H\|הִקְרִיבֻ֥]][[H9038\|ם]] [[H9005\|לִ]][[H6440G\|פְנֵֽי]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וַ]][[H6942G\|יִּקְדָּ֑שׁוּ]] [[H9002\|וְ]][[H1961\|יִֽהְי֥וּ]] [[H9005\|לְ]][[H0226H\|א֖וֹת]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic CENSER|CENSER]] • [[topic ISRAEL|ISRAEL]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.16.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.16.37|<< Numbers 16:37]]</td><td align="center" style="border:none;">[[Num.16|Numbers 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.16.39|Numbers 16:39 >>]]</td></tr></table>
 

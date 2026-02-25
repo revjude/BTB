@@ -1,8 +1,51 @@
+---
+title: Proverbs 14:17
+type: Verse
+kjv: "He that is soon angry dealeth foolishly: and a man of wicked devices is hated."
+bsb: "A quick-tempered man acts foolishly, and a devious man is hated."
+hebrew: "קְֽצַר־ אַ֭פַּיִם יַעֲשֶׂ֣ה אִוֶּ֑לֶת וְאִ֥ישׁ מְ֝זִמּ֗וֹת יִשָּׂנֵֽא׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H7116]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H6213A]]"
+- "[[H0200]]"
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H4209]]"
+- "[[H8130]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:17**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [He that is] soon angry dealeth foolishly: and a man of wicked devices is hated.
 <small><sub>**BSB:**</sub></small>
 A quick-tempered man acts foolishly, and a devious man is hated.
+<small><sub>**Hebrew:**</sub></small>
+[[H7116\|קְֽצַר]][[H9014\|־]] [[H0639G\|אַ֭פַּיִם]] [[H6213A\|יַעֲשֶׂ֣ה]] [[H0200\|אִוֶּ֑לֶת]] [[H9002\|וְ]][[H0376G\|אִ֥ישׁ]] [[H4209\|מְ֝זִמּ֗וֹת]] [[H8130\|יִשָּׂנֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.16|<< Proverbs 14:16]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.18|Proverbs 14:18 >>]]</td></tr></table>
 

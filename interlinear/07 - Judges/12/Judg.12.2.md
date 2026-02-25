@@ -1,8 +1,72 @@
+---
+title: Judges 12:2
+type: Verse
+kjv: "And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands."
+bsb: "But Jephthah replied, “My people and I had a serious conflict with the Ammonites, and when I called, you did not save me out of their hands."
+hebrew: "וַיֹּ֤אמֶר יִפְתָּח֙ אֲלֵיהֶ֔ם אִ֣ישׁ רִ֗יב הָיִ֛יתִי אֲנִ֛י וְעַמִּ֥י וּבְנֵֽי־ עַמּ֖וֹן מְאֹ֑ד וָאֶזְעַ֣ק אֶתְכֶ֔ם וְלֹֽא־ הוֹשַׁעְתֶּ֥ם אוֹתִ֖י מִיָּדָֽם׃"
+pericope: "[[Judg.12.1 Jephthah Defeats Ephraim|Jephthah Defeats Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 12
+book/chapter: "[[Judg.12|Judges 12]]"
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TREASON|TREASON]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3316H]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0376G]]"
+- "[[H7379]]"
+- "[[H1961]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H5983]]"
+- "[[H3966]]"
+- "[[H2199]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H3808]]"
+- "[[H3467]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H3027H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 12:2**<big><big>[[Judg.12.1 Jephthah Defeats Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.
 <small><sub>**BSB:**</sub></small>
 But Jephthah replied, “My people and I had a serious conflict with the Ammonites, and when I called, you did not save me out of their hands.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3316H\|יִפְתָּח֙]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H0376G\|אִ֣ישׁ]] [[H7379\|רִ֗יב]] [[H1961\|הָיִ֛יתִי]] [[H0589\|אֲנִ֛י]] [[H9002\|וְ]][[H5971A\|עַמִּ֥]][[H9020\|י]] [[H9002\|וּ]][[H1121G\|בְנֵֽי]][[H9014\|־]] [[H5983\|עַמּ֖וֹן]] [[H3966\|מְאֹ֑ד]] [[H9001\|וָ]][[H2199\|אֶזְעַ֣ק]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3467\|הוֹשַׁעְתֶּ֥ם]] [[H0853\|אוֹתִ֖]][[H9030\|י]] [[H9006\|מִ]][[H3027H\|יָּדָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic CITIZENS|CITIZENS]] • [[topic ISRAEL|ISRAEL]] • [[topic JUDGE|JUDGE]] • [[topic STRIFE|STRIFE]] • [[topic TREASON|TREASON]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.12.1|<< Judges 12:1]]</td><td align="center" style="border:none;">[[Judg.12|Judges 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.12.3|Judges 12:3 >>]]</td></tr></table>
 

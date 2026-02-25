@@ -1,10 +1,55 @@
+---
+title: John 6:46
+type: Verse
+kjv: "Not that any man hath seen the Father, save he which is of God, he hath seen the Father."
+bsb: "not that anyone has seen the Father except the One who is from God; only He has seen the Father."
+jesus_said: "Not that any man hath seen the Father, save he which is of God, he hath seen the Father."
+greek: "οὐχ ὅτι τὸν πατέρα ἑώρακέν τις εἰ μὴ ὁ ὢν παρὰ τοῦ θεοῦ, οὗτος ἑώρακεν τὸν πατέρα.¶"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G3756]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3708]]"
+- "[[G5100]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G3844]]"
+- "[[G2316]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **John 6:46**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not that any man hath seen the Father, save he which is of God, he hath seen the Father.
 <small><sub>**BSB:**</sub></small>
 not that anyone has seen the Father except the One who is from God; only He has seen the Father.
-<small><sub>**Literal:**</sub></small>
-Not for the Father has seen anyone only except the [One] being from <the> God, He has seen the Father.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.45|<< John 6:45]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.47|John 6:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐχ]]  [[G3754H\|ὅτι]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G3708\|ἑώρακέν]]  [[G5100\|τις]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G3588\|ὁ]]  [[G1510\|ὢν]]  [[G3844\|παρὰ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3778\|οὗτος]]  [[G3708\|ἑώρακεν]]  [[G3588\|τὸν]]  [[G3962\|πατέρα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYMBOLS|SYMBOLS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.45|<< John 6:45]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.47|John 6:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

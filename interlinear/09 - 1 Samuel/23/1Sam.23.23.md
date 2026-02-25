@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 23:23
+type: Verse
+kjv: "See therefore, and take knowledge of all the lurking places where he hideth himself, and come ye again to me with the certainty, and I will go with you: and it shall come to pass, if he be in the land, that I will search him out throughout all the thousands of Judah."
+bsb: "Observe and find out all the places where he hides. Then come back to me with certainty, and I will go with you. If he is in the land, I will search him out among all the clans of Judah.”"
+hebrew: "וּרְא֣וּ וּדְע֗וּ מִכֹּ֤ל הַמַּֽחֲבֹאִים֙ אֲשֶׁ֣ר יִתְחַבֵּ֣א שָׁ֔ם וְשַׁבְתֶּ֤ם אֵלַי֙ אֶל־ נָכ֔וֹן וְהָלַכְתִּ֖י אִתְּכֶ֑ם וְהָיָה֙ אִם־ יֶשְׁנ֣וֹ בָאָ֔רֶץ וְחִפַּשְׂתִּ֣י אֹת֔וֹ בְּכֹ֖ל אַלְפֵ֥י יְהוּדָֽה׃"
+pericope: "[[1Sam.23.7 Saul Pursues David|Saul Pursues David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 23
+book/chapter: "[[1Sam.23|1 Samuel 23]]"
+chronological_order: 302
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic MALICE|MALICE]]"
+strongs:
+- "[[H9002]]"
+- "[[H7200I]]"
+- "[[H3045]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4224B]]"
+- "[[H0834A]]"
+- "[[H2244]]"
+- "[[H8033G]]"
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9014]]"
+- "[[H3559H]]"
+- "[[H1980G]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H3426]]"
+- "[[H9043]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H2664]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H0505H]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 23:23**<big><big>[[1Sam.23.7 Saul Pursues David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 See therefore, and take knowledge of all the lurking places where he hideth himself, and come ye again to me with the certainty, and I will go with you: and it shall come to pass, if he be in the land, that I will search him out throughout all the thousands of Judah.
 <small><sub>**BSB:**</sub></small>
 Observe and find out all the places where he hides. Then come back to me with certainty, and I will go with you. If he is in the land, I will search him out among all the clans of Judah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7200I\|רְא֣וּ]] [[H9002\|וּ]][[H3045\|דְע֗וּ]] [[H9006\|מִ]][[H3605\|כֹּ֤ל]] [[H9009\|הַ]][[H4224B\|מַּֽחֲבֹאִים֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H2244\|יִתְחַבֵּ֣א]] [[H8033G\|שָׁ֔ם]] [[H9001\|וְ]][[H7725G\|שַׁבְתֶּ֤ם]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3559H\|נָכ֔וֹן]] [[H9001\|וְ]][[H1980G\|הָלַכְתִּ֖י]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9001\|וְ]][[H1961\|הָיָה֙]] [[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֶשְׁנ֣]][[H9043\|וֹ]] [[H9003\|בָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H2664\|חִפַּשְׂתִּ֣י]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H0505H\|אַלְפֵ֥י]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic MALICE|MALICE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.23.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.23.22|<< 1 Samuel 23:22]]</td><td align="center" style="border:none;">[[1Sam.23|1 Samuel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.23.24|1 Samuel 23:24 >>]]</td></tr></table>
 

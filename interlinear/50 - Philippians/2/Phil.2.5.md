@@ -1,10 +1,54 @@
+---
+title: Philippians 2:5
+type: Verse
+kjv: "Let this mind be in you, which was also in Christ Jesus:"
+bsb: "Let this mind be in you which was also in Christ Jesus:"
+greek: "τοῦτο γὰρ φρονεῖτε ἐν ὑμῖν ὃ καὶ ἐν Χριστῷ Ἰησοῦ,"
+pericope: "[[Phil.2.5 The Mind of Christ|The Mind of Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G5426]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G2532]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Philippians 2:5**<big><big>[[Phil.2.5 The Mind of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Let this mind be in you, which was also in Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 Let this mind be in you which was also in Christ Jesus:
-<small><sub>**Literal:**</sub></small>
-This for do be thinking in you which also in Christ Jesus [was]:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.4|<< Philippians 2:4]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.6|Philippians 2:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|τοῦτο]]  [[G1063\|γὰρ]]  [[G5426\|φρονεῖτε]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3739\|ὃ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.4|<< Philippians 2:4]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.6|Philippians 2:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

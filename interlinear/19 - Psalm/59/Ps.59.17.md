@@ -1,8 +1,56 @@
+---
+title: Psalm 59:17
+type: Verse
+kjv: "Unto thee, O my strength, will I sing: for God is my defence, and the God of my mercy."
+bsb: "To You, O my strength, I sing praises, for You, O God, are my fortress, my God of loving devotion."
+hebrew: "עֻ֭זִּי אֵלֶ֣יךָ אֲזַמֵּ֑רָה כִּֽי־ אֱלֹהִ֥ים מִ֝שְׂגַּבִּ֗י אֱלֹהֵ֥י חַסְדִּֽי׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H5797]]"
+- "[[H9020]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H2167]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0430G]]"
+- "[[H4869A]]"
+- "[[H2617A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:17**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto thee, O my strength, will I sing: for God [is] my defence, [and] the God of my mercy.
 <small><sub>**BSB:**</sub></small>
 To You, O my strength, I sing praises, for You, O God, are my fortress, my God of loving devotion.
+<small><sub>**Hebrew:**</sub></small>
+[[H5797\|עֻ֭זִּ]][[H9020\|י]] [[H0413\|אֵלֶ֣י]][[H9031\|ךָ]] [[H2167\|אֲזַמֵּ֑רָה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0430G\|אֱלֹהִ֥ים]] [[H4869A\|מִ֝שְׂגַּבִּ֗]][[H9020\|י]] [[H0430G\|אֱלֹהֵ֥י]] [[H2617A\|חַסְדִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.16|<< Psalms 59:16]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.60.0|Psalms 60:0 >>]]</td></tr></table>
 

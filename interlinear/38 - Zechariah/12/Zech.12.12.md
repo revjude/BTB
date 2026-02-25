@@ -1,8 +1,59 @@
+---
+title: Zechariah 12:12
+type: Verse
+kjv: "And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;"
+bsb: "The land will mourn, each clan on its own: the clan of the house of David and their wives, the clan of the house of Nathan and their wives,"
+hebrew: "וְסָפְדָ֣ה הָאָ֔רֶץ מִשְׁפָּח֥וֹת מִשְׁפָּח֖וֹת לְבָ֑ד מִשְׁפַּ֨חַת בֵּית־ דָּוִ֤יד לְבָד֙ וּנְשֵׁיהֶ֣ם לְבָ֔ד מִשְׁפַּ֤חַת בֵּית־ נָתָן֙ לְבָ֔ד וּנְשֵׁיהֶ֖ם לְבָֽד׃"
+pericope: "[[Zech.12.10 Mourning the One They Pierced|Mourning the One They Pierced]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 12
+book/chapter: "[[Zech.12|Zechariah 12]]"
+chronological_order: 868
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H5594]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H4940]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H0802H]]"
+- "[[H9028]]"
+- "[[H5416G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 12:12**<big><big>[[Zech.12.10 Mourning the One They Pierced|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the land shall mourn, every family apart; the family of the house of David apart, and their wives apart; the family of the house of Nathan apart, and their wives apart;
 <small><sub>**BSB:**</sub></small>
 The land will mourn, each clan on its own: the clan of the house of David and their wives, the clan of the house of Nathan and their wives,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5594\|סָפְדָ֣ה]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H4940\|מִשְׁפָּח֥וֹת]] [[H4940\|מִשְׁפָּח֖וֹת]] [[H9005\|לְ]][[H0905H\|בָ֑ד]] [[H4940\|מִשְׁפַּ֨חַת]] [[H1004M\|בֵּית]][[H9014\|־]] [[H1732\|דָּוִ֤יד]] [[H9005\|לְ]][[H0905H\|בָד֙]] [[H9002\|וּ]][[H0802H\|נְשֵׁי]][[H9028\|הֶ֣ם]] [[H9005\|לְ]][[H0905H\|בָ֔ד]] [[H4940\|מִשְׁפַּ֤חַת]] [[H1004M\|בֵּית]][[H9014\|־]] [[H5416G\|נָתָן֙]] [[H9005\|לְ]][[H0905H\|בָ֔ד]] [[H9002\|וּ]][[H0802H\|נְשֵׁי]][[H9028\|הֶ֖ם]] [[H9005\|לְ]][[H0905H\|בָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.12.11|<< Zechariah 12:11]]</td><td align="center" style="border:none;">[[Zech.12|Zechariah 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.12.13|Zechariah 12:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

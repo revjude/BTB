@@ -1,8 +1,64 @@
+---
+title: Exodus 34:23
+type: Verse
+kjv: "Thrice in the year shall all your men children appear before the Lord GOD, the God of Israel."
+bsb: "Three times a year all your males are to appear before the Lord GOD, the God of Israel."
+hebrew: "שָׁלֹ֥שׁ פְּעָמִ֖ים בַּשָּׁנָ֑ה יֵרָאֶה֙ כָּל־ זְכ֣וּרְךָ֔ אֶת־ פְּנֵ֛י הָֽאָדֹ֥ן׀ יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Exod.34.10 The LORD Renews the Covenant|The LORD Renews the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H7969]]"
+- "[[H6471]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H7200G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2138]]"
+- "[[H9021]]"
+- "[[H0854]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H0113]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:23**<big><big>[[Exod.34.10 The LORD Renews the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thrice in the year shall all your men children appear before the Lord GOD, the God of Israel.
 <small><sub>**BSB:**</sub></small>
 Three times a year all your males are to appear before the Lord GOD, the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H7969\|שָׁלֹ֥שׁ]] [[H6471\|פְּעָמִ֖ים]] [[H9003\|בַּ]][[H8141\|שָּׁנָ֑ה]] [[H7200G\|יֵרָאֶה֙]] [[H3605\|כָּל]][[H9014\|־]] [[H2138\|זְכ֣וּרְ]][[H9021\|ךָ֔]] [[H0854\|אֶת]][[H9014\|־]] [[H6440G\|פְּנֵ֛י]] [[H9009\|הָֽ]][[H0113\|אָדֹ֥ן]][[H9015\|׀]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.34.22|<< Exodus 34:22]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.24|Exodus 34:24 >>]]</td></tr></table>
 

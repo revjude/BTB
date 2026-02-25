@@ -1,8 +1,75 @@
+---
+title: Genesis 47:9
+type: Verse
+kjv: "And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage."
+bsb: "“My travels have lasted 130 years,” Jacob replied. “My years have been few and hard, and they have not matched the years of the travels of my fathers.”"
+hebrew: "וַיֹּ֤אמֶר יַעֲקֹב֙ אֶל־ פַּרְעֹ֔ה יְמֵי֙ שְׁנֵ֣י מְגוּרַ֔י שְׁלֹשִׁ֥ים וּמְאַ֖ת שָׁנָ֑ה מְעַ֣ט וְרָעִ֗ים הָיוּ֙ יְמֵי֙ שְׁנֵ֣י חַיַּ֔י וְלֹ֣א הִשִּׂ֗יגוּ אֶת־ יְמֵי֙ שְׁנֵי֙ חַיֵּ֣י אֲבֹתַ֔י בִּימֵ֖י מְגוּרֵיהֶֽם׃"
+pericope: "[[Gen.47.1 Jacob Settles in Goshen|Jacob Settles in Goshen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 47
+book/chapter: "[[Gen.47|Genesis 47]]"
+chronological_order: 89
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3290]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6547H]]"
+- "[[H3117G]]"
+- "[[H8141]]"
+- "[[H4033]]"
+- "[[H9020]]"
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H4592]]"
+- "[[H7451H]]"
+- "[[H1961]]"
+- "[[H2416E]]"
+- "[[H3808]]"
+- "[[H5381]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9003]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 47:9**<big><big>[[Gen.47.1 Jacob Settles in Goshen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jacob said unto Pharaoh, The days of the years of my pilgrimage [are] an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.
 <small><sub>**BSB:**</sub></small>
 “My travels have lasted 130 years,” Jacob replied. “My years have been few and hard, and they have not matched the years of the travels of my fathers.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3290\|יַעֲקֹב֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6547H\|פַּרְעֹ֔ה]] [[H3117G\|יְמֵי֙]] [[H8141\|שְׁנֵ֣י]] [[H4033\|מְגוּרַ֔]][[H9020\|י]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H9002\|וּ]][[H3967\|מְאַ֖ת]] [[H8141\|שָׁנָ֑ה]] [[H4592\|מְעַ֣ט]] [[H9002\|וְ]][[H7451H\|רָעִ֗ים]] [[H1961\|הָיוּ֙]] [[H3117G\|יְמֵי֙]] [[H8141\|שְׁנֵ֣י]] [[H2416E\|חַיַּ֔]][[H9020\|י]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5381\|הִשִּׂ֗יגוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|יְמֵי֙]] [[H8141\|שְׁנֵי֙]] [[H2416E\|חַיֵּ֣י]] [[H0001G\|אֲבֹתַ֔]][[H9020\|י]] [[H9003\|בִּ]][[H3117G\|ימֵ֖י]] [[H4033\|מְגוּרֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic JOSEPH|JOSEPH]] • [[topic LIFE|LIFE]] • [[topic OLD AGE|OLD AGE]] • [[topic RULERS|RULERS]] • [[topic YEAR|YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.47.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.47.8|<< Genesis 47:8]]</td><td align="center" style="border:none;">[[Gen.47|Genesis 47]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.47.10|Genesis 47:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

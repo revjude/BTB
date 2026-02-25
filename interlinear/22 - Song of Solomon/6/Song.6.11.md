@@ -1,8 +1,58 @@
+---
+title: Song of Solomon 6:11
+type: Verse
+kjv: "I went down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished, and the pomegranates budded."
+bsb: "I went down to the walnut grove to see the blossoms of the valley, to see if the vines were budding or the pomegranates were in bloom."
+hebrew: "אֶל־ גִּנַּ֤ת אֱגוֹז֙ יָרַ֔דְתִּי לִרְא֖וֹת בְּאִבֵּ֣י הַנָּ֑חַל לִרְאוֹת֙ הֲפָֽרְחָ֣ה הַגֶּ֔פֶן הֵנֵ֖צוּ הָרִמֹּנִֽים׃"
+pericope: "[[Song.6.11 The Bridegroom|The Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 6
+book/chapter: "[[Song.6|Song of Solomon 6]]"
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic NUT|NUT]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1594]]"
+- "[[H0093]]"
+- "[[H3381]]"
+- "[[H9005]]"
+- "[[H7200G]]"
+- "[[H9003]]"
+- "[[H0003]]"
+- "[[H9009]]"
+- "[[H5158N]]"
+- "[[H9008]]"
+- "[[H6524A]]"
+- "[[H1612]]"
+- "[[H5132B]]"
+- "[[H7416]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 6:11**<big><big>[[Song.6.11 The Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I went down into the garden of nuts to see the fruits of the valley, [and] to see whether the vine flourished, [and] the pomegranates budded.
 <small><sub>**BSB:**</sub></small>
 I went down to the walnut grove to see the blossoms of the valley, to see if the vines were budding or the pomegranates were in bloom.
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶל]][[H9014\|־]] [[H1594\|גִּנַּ֤ת]] [[H0093\|אֱגוֹז֙]] [[H3381\|יָרַ֔דְתִּי]] [[H9005\|לִ]][[H7200G\|רְא֖וֹת]] [[H9003\|בְּ]][[H0003\|אִבֵּ֣י]] [[H9009\|הַ]][[H5158N\|נָּ֑חַל]] [[H9005\|לִ]][[H7200G\|רְאוֹת֙]] [[H9008\|הֲ]][[H6524A\|פָֽרְחָ֣ה]] [[H9009\|הַ]][[H1612\|גֶּ֔פֶן]] [[H5132B\|הֵנֵ֖צוּ]] [[H9009\|הָ]][[H7416\|רִמֹּנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRAPE|GRAPE]] • [[topic NUT|NUT]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.10|<< Song of Solomon 6:10]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.12|Song of Solomon 6:12 >>]]</td></tr></table>
 

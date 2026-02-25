@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Name Is Great in Israel
+type: Pericope
 pericope: "[[Ps.76.1 God’s Name Is Great in Israel|God’s Name Is Great in Israel]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 76
 book/chapter: "[[Ps.76|Psalm 76]]"
-genre:
+chronological_order: 508
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 13
 verses:
 - "[[Ps.76.0]]"
 - "[[Ps.76.1]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ps.76.12]]"
 ---
 
-[[Ps.76|Psalm 76:1 - Psalm 76:12]]
+<small>[[Ps.76|Psalm 76:1-12]]</small>
 *God’s Name Is Great in Israel*
 
 [[Ps.76.0|0]] To the chief Musician on Neginoth, A Psalm \[or\] Song of Asaph.

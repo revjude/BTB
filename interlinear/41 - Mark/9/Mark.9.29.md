@@ -1,10 +1,62 @@
+---
+title: Mark 9:29
+type: Verse
+kjv: "And he said unto them, This kind can come forth by nothing, but by prayer and fasting."
+bsb: "Jesus answered, “This kind cannot come out, except by prayer.”"
+jesus_said: "This kind can come forth by nothing, but by prayer and fasting."
+greek: "καὶ εἶπεν αὐτοῖς· τοῦτο τὸ γένος ἐν οὐδενὶ δύναται ἐξελθεῖν εἰ μὴ ἐν προσευχῇ καὶ νηστείᾳ.¶"
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1085H]]"
+- "[[G1722]]"
+- "[[G3762]]"
+- "[[G1410]]"
+- "[[G1831]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G4335]]"
+- "[[G3521]]"
+texts:
+- NKO
+- KO
+---
+
 **Mark 9:29**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, This kind can come forth by nothing, but by prayer and fasting.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “This kind cannot come out, except by prayer.”
-<small><sub>**Literal:**</sub></small>
-And He said to them; This <the> kind by no [thing] is able to go out only except by prayer and with fastings.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.28|<< Mark 9:28]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.30|Mark 9:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G1085H\|γένος]]  [[G1722\|ἐν]]  [[G3762\|οὐδενὶ]]  [[G1410\|δύναται]]  [[G1831\|ἐξελθεῖν]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1722\|ἐν]]  [[G4335\|προσευχῇ]]  [[G2532\|καὶ]]  [[G3521\|νηστείᾳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic POWER|POWER]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.28|<< Mark 9:28]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.30|Mark 9:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

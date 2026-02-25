@@ -1,8 +1,62 @@
+---
+title: Ezekiel 36:28
+type: Verse
+kjv: "And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God."
+bsb: "Then you will live in the land that I gave your forefathers; you will be My people, and I will be your God."
+hebrew: "וִישַׁבְתֶּ֣ם בָּאָ֔רֶץ אֲשֶׁ֥ר נָתַ֖תִּי לַאֲבֹֽתֵיכֶ֑ם וִהְיִ֤יתֶם לִי֙ לְעָ֔ם וְאָ֣נֹכִ֔י אֶהְיֶ֥ה לָכֶ֖ם לֵאלֹהִֽים׃"
+pericope: "[[Ezek.36.16 A New Heart and a New Spirit|A New Heart and a New Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H1961]]"
+- "[[H9030]]"
+- "[[H5971A]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H9036]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:28**<big><big>[[Ezek.36.16 A New Heart and a New Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall dwell in the land that I gave to your fathers; and ye shall be my people, and I will be your God.
 <small><sub>**BSB:**</sub></small>
 Then you will live in the land that I gave your forefathers; you will be My people, and I will be your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וִ]][[H3427\|ישַׁבְתֶּ֣ם]] [[H9003\|בָּ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לַ]][[H0001G\|אֲבֹֽתֵי]][[H9026\|כֶ֑ם]] [[H9001\|וִ]][[H1961\|הְיִ֤יתֶם]] [[H9005\|לִ]][[H9030\|י֙]] [[H9005\|לְ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H0595\|אָ֣נֹכִ֔י]] [[H1961\|אֶהְיֶ֥ה]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לֵ]][[H0430G\|אלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.27|<< Ezekiel 36:27]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.29|Ezekiel 36:29 >>]]</td></tr></table>
 

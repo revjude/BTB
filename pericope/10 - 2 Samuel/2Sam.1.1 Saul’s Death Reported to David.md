@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul’s Death Reported to David
+type: Pericope
 pericope: "[[2Sam.1.1 Saul’s Death Reported to David|Saul’s Death Reported to David]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 1
 book/chapter: "[[2Sam.1|2 Samuel 1]]"
-genre:
+chronological_order: 329
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 16
 verses:
 - "[[2Sam.1.1]]"
 - "[[2Sam.1.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[2Sam.1.16]]"
 ---
 
-[[2Sam.1|2 Samuel 1:1 - 2 Samuel 1:16]]
+<small>[[2Sam.1|2 Samuel 1:1-16]]</small>
 *Saul’s Death Reported to David*
 
 [[2Sam.1.1|1]] Now it came to pass after the death of Saul, when David was returned from the slaughter of the Amalekites, and David had abode two days in Ziklag;

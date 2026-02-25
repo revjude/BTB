@@ -1,8 +1,64 @@
+---
+title: 2 Samuel 9:13
+type: Verse
+kjv: "So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king’s table; and was lame on both his feet."
+bsb: "So Mephibosheth lived in Jerusalem, because he always ate at the king’s table, and he was lame in both feet."
+hebrew: "וּמְפִיבֹ֗שֶׁת יֹשֵׁב֙ בִּיר֣וּשָׁלִַ֔ם כִּ֣י עַל־ שֻׁלְחַ֥ן הַמֶּ֛לֶךְ תָּמִ֖יד ה֣וּא אֹכֵ֑ל וְה֥וּא פִסֵּ֖חַ שְׁתֵּ֥י רַגְלָֽיו׃ פ"
+pericope: "[[2Sam.9.1 David and Mephibosheth|David and Mephibosheth]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 9
+book/chapter: "[[2Sam.9|2 Samuel 9]]"
+chronological_order: 403
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4648G]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H3588A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7979]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8548]]"
+- "[[H1931]]"
+- "[[H0398]]"
+- "[[H6455]]"
+- "[[H8147]]"
+- "[[H7272]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- LA(bh)
+---
+
 **2 Samuel 9:13**<big><big>[[2Sam.9.1 David and Mephibosheth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Mephibosheth dwelt in Jerusalem: for he did eat continually at the king’s table; and was lame on both his feet.
 <small><sub>**BSB:**</sub></small>
 So Mephibosheth lived in Jerusalem, because he always ate at the king’s table, and he was lame in both feet.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4648G\|מְפִיבֹ֗שֶׁת]] [[H3427\|יֹשֵׁב֙]] [[H9003\|בִּ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H3588A\|כִּ֣י]] [[H5921A\|עַל]][[H9014\|־]] [[H7979\|שֻׁלְחַ֥ן]] [[H9009\|הַ]][[H4428G\|מֶּ֛לֶךְ]] [[H8548\|תָּמִ֖יד]] [[H1931\|ה֣וּא]] [[H0398\|אֹכֵ֑ל]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H6455\|פִסֵּ֖חַ]] [[H8147\|שְׁתֵּ֥י]] [[H7272\|רַגְלָֽי]][[H9023\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRIENDSHIP|FRIENDSHIP]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.12|<< 2 Samuel 9:12]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.1|2 Samuel 10:1 >>]]</td></tr></table>
 
@@ -21,7 +77,7 @@ So Mephibosheth lived in Jerusalem, because he always ate at the king’s table,
 | and he  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H1931\|ה֥וּא]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [was] lame  |**<big>&#8207;[[H6455\|פִסֵּ֖חַ]]&#8207; </big>**[^1] | pi.Se.ach<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad Aleppo (biblia benchayim)">LA(bh)</abbr> |
 | [the] two  |**<big>&#8207;[[H8147\|שְׁתֵּ֥י]]&#8207; </big>**| she.Tei<small><sup>[[HNcfdc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| feet his  |**<big>&#8207;[[H7272\|רַגְלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| rag.La<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| feet his  |**<big>&#8207;[[H7272\|רַגְלָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| rag.La<small><sup>[[HNcfdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.9.12|<< 2 Samuel 9:12]]</td><td align="center" style="border:none;">[[2Sam.9|2 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.1|2 Samuel 10:1 >>]]</td></tr></table>
 
 [^1]: BH spelled: **<span class="ashebrew"><big>פִּסֵּ֖חַ</big></span>**

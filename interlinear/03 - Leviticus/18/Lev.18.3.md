@@ -1,8 +1,68 @@
+---
+title: Leviticus 18:3
+type: Verse
+kjv: "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances."
+bsb: "You must not follow the practices of the land of Egypt, where you used to live, and you must not follow the practices of the land of Canaan, into which I am bringing you. You must not walk in their customs."
+hebrew: "כְּמַעֲשֵׂ֧ה אֶֽרֶץ־ מִצְרַ֛יִם אֲשֶׁ֥ר יְשַׁבְתֶּם־ בָּ֖הּ לֹ֣א תַעֲשׂ֑וּ וּכְמַעֲשֵׂ֣ה אֶֽרֶץ־ כְּנַ֡עַן אֲשֶׁ֣ר אֲנִי֩ מֵבִ֨יא אֶתְכֶ֥ם שָׁ֙מָּה֙ לֹ֣א תַעֲשׂ֔וּ וּבְחֻקֹּתֵיהֶ֖ם לֹ֥א תֵלֵֽכוּ׃"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic COMPANY|COMPANY]]"
+strongs:
+- "[[H9004]]"
+- "[[H4639K]]"
+- "[[H0776G]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9002]]"
+- "[[H3667A]]"
+- "[[H0589]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H2708]]"
+- "[[H9028]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 18:3**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.
 <small><sub>**BSB:**</sub></small>
 You must not follow the practices of the land of Egypt, where you used to live, and you must not follow the practices of the land of Canaan, into which I am bringing you. You must not walk in their customs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H4639K\|מַעֲשֵׂ֧ה]] [[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרַ֛יִם]] [[H0834A\|אֲשֶׁ֥ר]] [[H3427\|יְשַׁבְתֶּם]][[H9014\|־]] [[H9003\|בָּ֖]][[H9034\|הּ]] [[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֑וּ]] [[H9002\|וּ]][[H9004\|כְ]][[H4639K\|מַעֲשֵׂ֣ה]] [[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H3667A\|כְּנַ֡עַן]] [[H0834A\|אֲשֶׁ֣ר]] [[H0589\|אֲנִי֩]] [[H0935P\|מֵבִ֨יא]] [[H0853\|אֶתְ]][[H9036\|כֶ֥ם]] [[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H3808\|לֹ֣א]] [[H6213A\|תַעֲשׂ֔וּ]] [[H9002\|וּ]][[H9003\|בְ]][[H2708\|חֻקֹּתֵי]][[H9028\|הֶ֖ם]] [[H3808\|לֹ֥א]] [[H1980I\|תֵלֵֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.2|<< Leviticus 18:2]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.4|Leviticus 18:4 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Exodus 8:8
+type: Verse
+kjv: "Then Pharaoh called for Moses and Aaron, and said, Intreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD."
+bsb: "Pharaoh summoned Moses and Aaron and said, “Pray to the LORD to take the frogs away from me and my people. Then I will let your people go, that they may sacrifice to the LORD.”"
+hebrew: "וַיִּקְרָ֨א פַרְעֹ֜ה לְמֹשֶׁ֣ה וּֽלְאַהֲרֹ֗ן וַיֹּ֙אמֶר֙ הַעְתִּ֣ירוּ אֶל־ יְהוָ֔ה וְיָסֵר֙ הַֽצְפַרְדְּעִ֔ים מִמֶּ֖נִּי וּמֵֽעַמִּ֑י וַאֲשַׁלְּחָה֙ אֶת־ הָעָ֔ם וְיִזְבְּח֖וּ לַיהוָֽה׃"
+pericope: "[[Exod.8.1 The Second Plague：Frogs|The Second Plague：Frogs]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 8
+book/chapter: "[[Exod.8|Exodus 8]]"
+chronological_order: 100
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FROGS|FROGS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H6547J]]"
+- "[[H9005]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H0559]]"
+- "[[H6279]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5493G]]"
+- "[[H9009]]"
+- "[[H6854]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H7971H]]"
+- "[[H0853]]"
+- "[[H2076]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 8:8**<big><big>[[Exod.8.1 The Second Plague：Frogs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Pharaoh called for Moses and Aaron, and said, Intreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Pharaoh summoned Moses and Aaron and said, “Pray to the LORD to take the frogs away from me and my people. Then I will let your people go, that they may sacrifice to the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֨א]] [[H6547J\|פַרְעֹ֜ה]] [[H9005\|לְ]][[H4872\|מֹשֶׁ֣ה]] [[H9002\|וּֽ]][[H9005\|לְ]][[H0175\|אַהֲרֹ֗ן]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H6279\|הַעְתִּ֣ירוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H5493G\|יָסֵר֙]] [[H9009\|הַֽ]][[H6854\|צְפַרְדְּעִ֔ים]] [[H4480A\|מִמֶּ֖]][[H9030\|נִּי]] [[H9002\|וּ]][[H9006\|מֵֽ]][[H5971A\|עַמִּ֑]][[H9020\|י]] [[H9002\|וַ]][[H7971H\|אֲשַׁלְּחָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9002\|וְ]][[H2076\|יִזְבְּח֖וּ]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FROGS|FROGS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MIRACLES|MIRACLES]] • [[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.8.7|<< Exodus 8:7]]</td><td align="center" style="border:none;">[[Exod.8|Exodus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.8.9|Exodus 8:9 >>]]</td></tr></table>
 

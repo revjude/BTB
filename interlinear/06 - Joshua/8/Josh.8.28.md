@@ -1,8 +1,56 @@
+---
+title: Joshua 8:28
+type: Verse
+kjv: "And Joshua burnt Ai, and made it an heap for ever, even a desolation unto this day."
+bsb: "So Joshua burned Ai and made it a permanent heap of ruins, a desolation to this day."
+hebrew: "וַיִּשְׂרֹ֥ף יְהוֹשֻׁ֖עַ אֶת־ הָעָ֑י וַיְשִׂימֶ֤הָ תֵּל־ עוֹלָם֙ שְׁמָמָ֔ה עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H3091G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H7760A]]"
+- "[[H9034]]"
+- "[[H8510]]"
+- "[[H5769G]]"
+- "[[H8077A]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:28**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua burnt Ai, and made it an heap for ever, [even] a desolation unto this day.
 <small><sub>**BSB:**</sub></small>
 So Joshua burned Ai and made it a permanent heap of ruins, a desolation to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8313\|יִּשְׂרֹ֥ף]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5857G\|עָ֑י]] [[H9001\|וַ]][[H7760A\|יְשִׂימֶ֤]][[H9034\|הָ]] [[H8510\|תֵּל]][[H9014\|־]] [[H5769G\|עוֹלָם֙]] [[H8077A\|שְׁמָמָ֔ה]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.27|<< Joshua 8:27]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.29|Joshua 8:29 >>]]</td></tr></table>
 

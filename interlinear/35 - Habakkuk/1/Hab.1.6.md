@@ -1,8 +1,66 @@
+---
+title: Habakkuk 1:6
+type: Verse
+kjv: "For, lo, I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs."
+bsb: "For behold, I am raising up the Chaldeans—that ruthless and impetuous nation which marches through the breadth of the earth to seize dwellings not their own."
+hebrew: "כִּֽי־ הִנְנִ֤י מֵקִים֙ אֶת־ הַכַּשְׂדִּ֔ים הַגּ֖וֹי הַמַּ֣ר וְהַנִּמְהָ֑ר הַֽהוֹלֵךְ֙ לְמֶרְחֲבֵי־ אֶ֔רֶץ לָרֶ֖שֶׁת מִשְׁכָּנ֥וֹת לֹּא־ לֽוֹ׃"
+pericope: "[[Hab.1.5 The LORD’s Answer|The LORD’s Answer]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHALDEA|CHALDEA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6965H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3778]]"
+- "[[H1471A]]"
+- "[[H4751]]"
+- "[[H9002]]"
+- "[[H4116A]]"
+- "[[H1980I]]"
+- "[[H9005]]"
+- "[[H4800]]"
+- "[[H0776G]]"
+- "[[H3423H]]"
+- "[[H4908]]"
+- "[[H3808]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:6**<big><big>[[Hab.1.5 The LORD’s Answer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For, lo, I raise up the Chaldeans, [that] bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces [that are] not theirs.
 <small><sub>**BSB:**</sub></small>
 For behold, I am raising up the Chaldeans—that ruthless and impetuous nation which marches through the breadth of the earth to seize dwellings not their own.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2005\|הִנְ]][[H9040\|נִ֤י]] [[H6965H\|מֵקִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּ֔ים]] [[H9009\|הַ]][[H1471A\|גּ֖וֹי]] [[H9009\|הַ]][[H4751\|מַּ֣ר]] [[H9002\|וְ]][[H9009\|הַ]][[H4116A\|נִּמְהָ֑ר]] [[H9009\|הַֽ]][[H1980I\|הוֹלֵךְ֙]] [[H9005\|לְ]][[H4800\|מֶרְחֲבֵי]][[H9014\|־]] [[H0776G\|אֶ֔רֶץ]] [[H9005\|לָ]][[H3423H\|רֶ֖שֶׁת]] [[H4908\|מִשְׁכָּנ֥וֹת]] [[H3808\|לֹּא]][[H9014\|־]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CHALDEA|CHALDEA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.5|<< Habakkuk 1:5]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.7|Habakkuk 1:7 >>]]</td></tr></table>
 

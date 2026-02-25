@@ -1,8 +1,67 @@
+---
+title: Leviticus 13:5
+type: Verse
+kjv: "And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more:"
+bsb: "On the seventh day the priest is to reexamine him, and if he sees that the infection is unchanged and has not spread on the skin, the priest must isolate him for another seven days."
+hebrew: "וְרָאָ֣הוּ הַכֹּהֵן֮ בַּיּ֣וֹם הַשְּׁבִיעִי֒ וְהִנֵּ֤ה הַנֶּ֙גַע֙ עָמַ֣ד בְּעֵינָ֔יו לֹֽא־ פָשָׂ֥ה הַנֶּ֖גַע בָּע֑וֹר וְהִסְגִּיר֧וֹ הַכֹּהֵ֛ן שִׁבְעַ֥ת יָמִ֖ים שֵׁנִֽית׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7637]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H5061]]"
+- "[[H5975G]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6581]]"
+- "[[H5785]]"
+- "[[H5462]]"
+- "[[H7651]]"
+- "[[H8145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:5**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall look on him the seventh day: and, behold, [if] the plague in his sight be at a stay, [and] the plague spread not in the skin; then the priest shall shut him up seven days more:
 <small><sub>**BSB:**</sub></small>
 On the seventh day the priest is to reexamine him, and if he sees that the infection is unchanged and has not spread on the skin, the priest must isolate him for another seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֣]][[H9033\|הוּ]] [[H9009\|הַ]][[H3548\|כֹּהֵן֮]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִי֒]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H9009\|הַ]][[H5061\|נֶּ֙גַע֙]] [[H5975G\|עָמַ֣ד]] [[H9003\|בְּ]][[H5869A\|עֵינָ֔י]][[H9023\|ו]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6581\|פָשָׂ֥ה]] [[H9009\|הַ]][[H5061\|נֶּ֖גַע]] [[H9003\|בָּ]][[H5785\|ע֑וֹר]] [[H9001\|וְ]][[H5462\|הִסְגִּיר֧]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H8145\|שֵׁנִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.4|<< Leviticus 13:4]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.6|Leviticus 13:6 >>]]</td></tr></table>
 

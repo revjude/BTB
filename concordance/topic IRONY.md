@@ -9,7 +9,7 @@
 
 - Job to his accusers [[Job.12.2|Job 12:2]]
 
-- Ezekiel to the prince of Tyre [[Ezek.28.3|Eze 28:3]]-[[Ezek.28.5|5]]
+- Ezekiel to the prince of Tyre [[Ezek.28.3|Eze 28:3-5]]
 
 - Micaiah [[1Kgs.22.15|1Ki 22:15]]
 
@@ -19,7 +19,7 @@
 
 - The Pharisees and the Herodians to Jesus [[Matt.22.16|Mt 22:16]]
 
-- The Roman soldiers to Jesus [[Matt.27.29|Mt 27:29]]; [[Mark.15.17|Mr 15:17]]-[[Mark.15.19|19]];  [[Luke.23.11|Lu 23:11]]; [[John.19.2|Joh 19:2]],[[John.19.3|3]]
+- The Roman soldiers to Jesus [[Matt.27.29|Mt 27:29]]; [[Mark.15.17|Mr 15:17-19]];  [[Luke.23.11|Lu 23:11]]; [[John.19.2|Joh 19:2]],[[John.19.3|3]]
 
 - Pilate, calling Jesus &#8220;king,&#8221; [[Mark.15.19|Mr 15:19]]; [[John.19.15|Joh 19:15]]
 

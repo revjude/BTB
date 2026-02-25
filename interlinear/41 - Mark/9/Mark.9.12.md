@@ -1,10 +1,66 @@
+---
+title: Mark 9:12
+type: Verse
+kjv: "And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought."
+bsb: "He replied, “Elijah does indeed come first, and he restores all things. Why then is it written that the Son of Man must suffer many things and be rejected?"
+jesus_said: "Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought."
+greek: "ὁ δὲ ἀποκριθείς ἔφη αὐτοῖς· Ἠλίας μὲν ἐλθὼν πρῶτον ἀποκαθιστάνει πάντα· καὶ πῶς γέγραπται ἐπὶ τὸν υἱὸν τοῦ ἀνθρώπου ἵνα πολλὰ πάθῃ καὶ ἐξουδενηθῇ."
+pericope: "[[Mark.9.1 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G5346]]"
+- "[[G0846]]"
+- "[[G2243]]"
+- "[[G3303]]"
+- "[[G2064]]"
+- "[[G4413G]]"
+- "[[G0600]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G4459]]"
+- "[[G1125]]"
+- "[[G1909]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2443]]"
+- "[[G4183]]"
+- "[[G3958]]"
+- "[[G1847]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **Mark 9:12**<big><big>[[Mark.9.1 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.
 <small><sub>**BSB:**</sub></small>
 He replied, “Elijah does indeed come first, and he restores all things. Why then is it written that the Son of Man must suffer many things and be rejected?
-<small><sub>**Literal:**</sub></small>
-<the> And answering He was saying to them; Elijah indeed having come first restores all things; and how has it been written of the Son <the> of Man that many things He may suffer and may be set at naught.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.11|<< Mark 9:11]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.13|Mark 9:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθείς]]  [[G5346\|ἔφη]]  [[G0846\|αὐτοῖς·]]  [[G2243\|Ἠλίας]]  [[G3303\|μὲν]]  [[G2064\|ἐλθὼν]]  [[G4413G\|πρῶτον]]  [[G0600\|ἀποκαθιστάνει]]  [[G3956\|πάντα·]]  [[G2532\|καὶ]]  [[G4459\|πῶς]]  [[G1125\|γέγραπται]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸν]]  [[G5207\|υἱὸν]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2443\|ἵνα]]  [[G4183\|πολλὰ]]  [[G3958\|πάθῃ]]  [[G2532\|καὶ]]  [[G1847\|ἐξουδενηθῇ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIJAH|ELIJAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.11|<< Mark 9:11]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.13|Mark 9:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

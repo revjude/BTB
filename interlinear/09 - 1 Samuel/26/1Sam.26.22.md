@@ -1,8 +1,53 @@
+---
+title: 1 Samuel 26:22
+type: Verse
+kjv: "And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it."
+bsb: "“Here is the king’s spear,” David answered. “Let one of the young men come over and get it."
+hebrew: "וַיַּ֤עַן דָּוִד֙ וַיֹּ֔אמֶר הִנֵּ֖ה חֲנִ֣ית הַמֶּ֑לֶךְ וְיַעֲבֹ֛ר אֶחָ֥ד מֵֽהַנְּעָרִ֖ים וְיִקָּחֶֽהָ׃"
+pericope: "[[1Sam.26.21 Saul Acknowledges His Sin|Saul Acknowledges His Sin]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H9009]]"
+- "[[H2595]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H5288]]"
+- "[[H3947G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **1 Samuel 26:22**<big><big>[[1Sam.26.21 Saul Acknowledges His Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David answered and said, Behold the king’s spear! and let one of the young men come over and fetch it.
 <small><sub>**BSB:**</sub></small>
 “Here is the king’s spear,” David answered. “Let one of the young men come over and get it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֤עַן]] [[H1732\|דָּוִד֙]] [[H9001\|וַ]][[H0559\|יֹּ֔אמֶר]] [[H2009\|הִנֵּ֖ה]] [[H2595\|חֲנִ֣ית]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H5674A\|יַעֲבֹ֛ר]] [[H0259\|אֶחָ֥ד]] [[H9006\|מֵֽ]][[H9009\|הַ]][[H5288\|נְּעָרִ֖ים]] [[H9002\|וְ]][[H3947G\|יִקָּחֶֽ]][[H9034\|הָ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.21|<< 1 Samuel 26:21]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.23|1 Samuel 26:23 >>]]</td></tr></table>
 
@@ -20,6 +65,6 @@ And David answered and said, Behold the king’s spear! and let one of the young
 | and let him take it  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3947G\|יִקָּחֶֽ]]&#8207;&#8207;[[H9034\|הָ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> yi.ka.Che.<small><sup>[[HVqu3ms]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.21|<< 1 Samuel 26:21]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.23|1 Samuel 26:23 >>]]</td></tr></table>
 
-[^1]: the spear of  | **<big>[[H2595|חֲנִית]]</big><big>[[H9009|הַ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> cha.nit<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: the spear of  | **<big>[[H9009|הַ]]</big><big>[[H2595|חֲנִית]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> cha.nit<small><sup>[[HNcbsc]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>החֲנִ֣ית</big></span>**
 

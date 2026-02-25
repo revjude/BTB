@@ -1,10 +1,57 @@
+---
+title: Hebrews 10:17
+type: Verse
+kjv: "And their sins and iniquities will I remember no more."
+bsb: "Then He adds: “Their sins and lawless acts I will remember no more.”"
+greek: "καὶ τῶν ἁμαρτιῶν αὐτῶν καὶ τῶν ἀνομιῶν αὐτῶν οὐ μὴ μνησθήσομαι ἔτι."
+pericope: "[[Heb.10.1 Christ’s Perfect Sacrifice|Christ’s Perfect Sacrifice]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 10
+book/chapter: "[[Heb.10|Hebrews 10]]"
+chronological_order: 1149
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0266]]"
+- "[[G0846]]"
+- "[[G0458]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G3403]]"
+- "[[G2089]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Hebrews 10:17**<big><big>[[Heb.10.1 Christ’s Perfect Sacrifice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And their sins and iniquities will I remember no more.
 <small><sub>**BSB:**</sub></small>
 Then He adds: “Their sins and lawless acts I will remember no more.”
-<small><sub>**Literal:**</sub></small>
-and The sins of them and the lawless acts of them certainly not will I remember any more.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.16|<< Hebrews 10:16]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.18|Hebrews 10:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0266\|ἁμαρτιῶν]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G3588\|τῶν]]  [[G0458\|ἀνομιῶν]]  [[G0846\|αὐτῶν]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G3403\|μνησθήσομαι]]  [[G2089\|ἔτι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAW|LAW]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REGENERATION|REGENERATION]] • [[topic SIN|SIN]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.10.16|<< Hebrews 10:16]]</td><td align="center" style="border:none;">[[Heb.10|Hebrews 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.10.18|Hebrews 10:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 10:17** is...
 > $\quad$ referencing: [[LXX.Jer.31.33|Jer 31:33-34]]

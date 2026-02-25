@@ -1,8 +1,57 @@
+---
+title: Zephaniah 2:10
+type: Verse
+kjv: "This shall they have for their pride, because they have reproached and magnified themselves against the people of the LORD of hosts."
+bsb: "This they shall have in return for their pride, for taunting and mocking the people of the LORD of Hosts."
+hebrew: "זֹ֥את לָהֶ֖ם תַּ֣חַת גְּאוֹנָ֑ם כִּ֤י חֵֽרְפוּ֙ וַיַּגְדִּ֔לוּ עַל־ עַ֖ם יְהוָ֥ה צְבָאֽוֹת׃"
+pericope: "[[Zeph.2.8 Judgment on Moab and Ammon|Judgment on Moab and Ammon]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 2
+book/chapter: "[[Zeph.2|Zephaniah 2]]"
+chronological_order: 716
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H8478H]]"
+- "[[H1347]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H2778A]]"
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zephaniah 2:10**<big><big>[[Zeph.2.8 Judgment on Moab and Ammon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This shall they have for their pride, because they have reproached and magnified [themselves] against the people of the LORD of hosts.
 <small><sub>**BSB:**</sub></small>
 This they shall have in return for their pride, for taunting and mocking the people of the LORD of Hosts.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֥את]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H8478H\|תַּ֣חַת]] [[H1347\|גְּאוֹנָ֑]][[H9028\|ם]] [[H3588A\|כִּ֤י]] [[H2778A\|חֵֽרְפוּ֙]] [[H9001\|וַ]][[H1431\|יַּגְדִּ֔לוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַ֖ם]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.2.9|<< Zephaniah 2:9]]</td><td align="center" style="border:none;">[[Zeph.2|Zephaniah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.2.11|Zephaniah 2:11 >>]]</td></tr></table>
 

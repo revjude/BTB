@@ -1,8 +1,54 @@
+---
+title: Psalm 119:90
+type: Verse
+kjv: "Thy faithfulness is unto all generations: thou hast established the earth, and it abideth."
+bsb: "Your faithfulness continues through all generations; You established the earth, and it endures."
+hebrew: "לְדֹ֣ר וָ֭דֹר אֱמֽוּנָתֶ֑ךָ כּוֹנַ֥נְתָּ אֶ֝֗רֶץ וַֽתַּעֲמֹֽד׃"
+pericope: "[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|Your Word Is a Lamp to My Feet - LAMED]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H9002]]"
+- "[[H0530]]"
+- "[[H9021]]"
+- "[[H3559H]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H5975G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:90**<big><big>[[Ps.119.89 Your Word Is a Lamp to My Feet - LAMED|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy faithfulness [is] unto all generations: thou hast established the earth, and it abideth.
 <small><sub>**BSB:**</sub></small>
 Your faithfulness continues through all generations; You established the earth, and it endures.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H1755\|דֹ֣ר]] [[H9002\|וָ֭]][[H1755\|דֹר]] [[H0530\|אֱמֽוּנָתֶ֑]][[H9021\|ךָ]] [[H3559H\|כּוֹנַ֥נְתָּ]] [[H0776G\|אֶ֝֗רֶץ]] [[H9001\|וַֽ]][[H5975G\|תַּעֲמֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.90|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.89|<< Psalms 119:89]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.91|Psalms 119:91 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 9:14
+type: Verse
+kjv: "Beside that which chapmen and merchants brought. And all the kings of Arabia and governors of the country brought gold and silver to Solomon."
+bsb: "not including the revenue from the merchants and traders. And all the Arabian kings and governors of the land also brought gold and silver to Solomon."
+hebrew: "לְבַ֞ד מֵאַנְשֵׁ֧י הַתָּרִ֛ים וְהַסֹּחֲרִ֖ים מְבִיאִ֑ים וְכָל־ מַלְכֵ֤י עֲרַב֙ וּפַח֣וֹת הָאָ֔רֶץ מְבִיאִ֛ים זָהָ֥ב וָכֶ֖סֶף לִשְׁלֹמֹֽה׃"
+pericope: "[[2Chr.9.13 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARABIA|ARABIA]]"
+- "[[topic ARABIANS|ARABIANS]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic REVENUE|REVENUE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]"
+strongs:
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9006]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H8446]]"
+- "[[H9002]]"
+- "[[H5503]]"
+- "[[H0935P]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H6152B]]"
+- "[[H6346]]"
+- "[[H0776G]]"
+- "[[H2091]]"
+- "[[H3701G]]"
+- "[[H8010]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:14**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside [that which] chapmen and merchants brought. And all the kings of Arabia and governors of the country brought gold and silver to Solomon.
 <small><sub>**BSB:**</sub></small>
 not including the revenue from the merchants and traders. And all the Arabian kings and governors of the land also brought gold and silver to Solomon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H0905H\|בַ֞ד]] [[H9006\|מֵ]][[H0582\|אַנְשֵׁ֧י]] [[H9009\|הַ]][[H8446\|תָּרִ֛ים]] [[H9002\|וְ]][[H9009\|הַ]][[H5503\|סֹּחֲרִ֖ים]] [[H0935P\|מְבִיאִ֑ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H4428G\|מַלְכֵ֤י]] [[H6152B\|עֲרַב֙]] [[H9002\|וּ]][[H6346\|פַח֣וֹת]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0935P\|מְבִיאִ֛ים]] [[H2091\|זָהָ֥ב]] [[H9002\|וָ]][[H3701G\|כֶ֖סֶף]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARABIA|ARABIA]] • [[topic ARABIANS|ARABIANS]] • [[topic MERCHANT|MERCHANT]] • [[topic REVENUE|REVENUE]] • [[topic SOLOMON|SOLOMON]] • [[topic TRIBUTE (TAXES)|TRIBUTE (TAXES)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.13|<< 2 Chronicles 9:13]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.15|2 Chronicles 9:15 >>]]</td></tr></table>
 

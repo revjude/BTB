@@ -1,8 +1,60 @@
+---
+title: Genesis 6:1
+type: Verse
+kjv: "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,"
+bsb: "Now when men began to multiply on the face of the earth and daughters were born to them,"
+hebrew: "וַֽיְהִי֙ כִּֽי־ הֵחֵ֣ל הָֽאָדָ֔ם לָרֹ֖ב עַל־ פְּנֵ֣י הָֽאֲדָמָ֑ה וּבָנ֖וֹת יֻלְּד֥וּ לָהֶֽם׃"
+pericope: "[[Gen.6.1 Corruption on the Earth|Corruption on the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic SHIP|SHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2490C]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H9005]]"
+- "[[H7231]]"
+- "[[H5921A]]"
+- "[[H6440J]]"
+- "[[H0127G]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H3205]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:1**<big><big>[[Gen.6.1 Corruption on the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,
 <small><sub>**BSB:**</sub></small>
 Now when men began to multiply on the face of the earth and daughters were born to them,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2490C\|הֵחֵ֣ל]] [[H9009\|הָֽ]][[H0120G\|אָדָ֔ם]] [[H9005\|לָ]][[H7231\|רֹ֖ב]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֣י]] [[H9009\|הָֽ]][[H0127G\|אֲדָמָ֑ה]] [[H9002\|וּ]][[H1323G\|בָנ֖וֹת]] [[H3205\|יֻלְּד֥וּ]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHIP|SHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.32|<< Genesis 5:32]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.2|Genesis 6:2 >>]]</td></tr></table>
 

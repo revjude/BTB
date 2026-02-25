@@ -1,8 +1,68 @@
+---
+title: Joshua 3:7
+type: Verse
+kjv: "And the LORD said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, so I will be with thee."
+bsb: "Now the LORD said to Joshua, “Today I will begin to exalt you in the sight of all Israel, so they may know that I am with you just as I was with Moses."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ יְהוֹשֻׁ֔עַ הַיּ֣וֹם הַזֶּ֗ה אָחֵל֙ גַּדֶּלְךָ֔ בְּעֵינֵ֖י כָּל־ יִשְׂרָאֵ֑ל אֲשֶׁר֙ יֵֽדְע֔וּן כִּ֗י כַּאֲשֶׁ֥ר הָיִ֛יתִי עִם־ מֹשֶׁ֖ה אֶהְיֶ֥ה עִמָּֽךְ׃"
+pericope: "[[Josh.3.1 Crossing the Jordan|Crossing the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 3
+book/chapter: "[[Josh.3|Joshua 3]]"
+chronological_order: 233
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H2490C]]"
+- "[[H1431]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H3045]]"
+- "[[H9013]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H4872]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 3:7**<big><big>[[Josh.3.1 Crossing the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, [so] I will be with thee.
 <small><sub>**BSB:**</sub></small>
 Now the LORD said to Joshua, “Today I will begin to exalt you in the sight of all Israel, so they may know that I am with you just as I was with Moses.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֗ה]] [[H2490C\|אָחֵל֙]] [[H1431\|גַּדֶּלְ]][[H9031\|ךָ֔]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֖י]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0834A\|אֲשֶׁר֙]] [[H3045\|יֵֽדְע֔וּ]][[H9013\|ן]] [[H3588A\|כִּ֗י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H1961\|הָיִ֛יתִי]] [[H5973A\|עִם]][[H9014\|־]] [[H4872\|מֹשֶׁ֖ה]] [[H1961\|אֶהְיֶ֥ה]] [[H5973A\|עִמָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSHUA|JOSHUA]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.3.6|<< Joshua 3:6]]</td><td align="center" style="border:none;">[[Josh.3|Joshua 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.3.8|Joshua 3:8 >>]]</td></tr></table>
 

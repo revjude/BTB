@@ -1,10 +1,67 @@
+---
+title: Matthew 14:15
+type: Verse
+kjv: "And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals."
+bsb: "When evening came, the disciples came to Him and said, “This is a desolate place, and the hour is already late. Dismiss the crowds so they can go to the villages and buy themselves some food.”"
+greek: "Ὀψίας δὲ γενομένης προσῆλθον αὐτῷ οἱ μαθηταὶ αὐτοῦ λέγοντες· ἔρημός ἐστιν ὁ τόπος, καὶ ἡ ὥρα ἤδη παρῆλθεν· ἀπόλυσον τοὺς ὄχλους ἵνα ἀπελθόντες εἰς τὰς κώμας ἀγοράσωσιν ἑαυτοῖς βρώματα.¶"
+pericope: "[[Matt.14.13 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G3798]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G4334]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G3004G]]"
+- "[[G2048]]"
+- "[[G1510]]"
+- "[[G5117]]"
+- "[[G2532]]"
+- "[[G5610]]"
+- "[[G2235]]"
+- "[[G3928]]"
+- "[[G0630G]]"
+- "[[G3793]]"
+- "[[G2443]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G2968]]"
+- "[[G0059]]"
+- "[[G1438]]"
+- "[[G1033]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 14:15**<big><big>[[Matt.14.13 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals.
 <small><sub>**BSB:**</sub></small>
 When evening came, the disciples came to Him and said, “This is a desolate place, and the hour is already late. Dismiss the crowds so they can go to the villages and buy themselves some food.”
-<small><sub>**Literal:**</sub></small>
-Evening now having come they came to Him the disciples of him saying; Desolate is this place, and the time already is gone by; do dismiss the crowds that having gone into the villages they may buy for themselves food.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.14|<< Matthew 14:14]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.16|Matthew 14:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3798\|Ὀψίας]]  [[G1161\|δὲ]]  [[G1096\|γενομένης]]  [[G4334\|προσῆλθον]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγοντες·]]  [[G2048\|ἔρημός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5117\|τόπος,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G5610\|ὥρα]]  [[G2235\|ἤδη]]  [[G3928\|παρῆλθεν·]]  [[G0630G\|ἀπόλυσον]]  [[G3588\|τοὺς]]  [[G3793\|ὄχλους]]  [[G2443\|ἵνα]]  [[G0565\|ἀπελθόντες]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G2968\|κώμας]]  [[G0059\|ἀγοράσωσιν]]  [[G1438\|ἑαυτοῖς]]  [[G1033\|βρώματα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.14|<< Matthew 14:14]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.16|Matthew 14:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

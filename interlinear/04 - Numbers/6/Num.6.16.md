@@ -1,8 +1,61 @@
+---
+title: Numbers 6:16
+type: Verse
+kjv: "And the priest shall bring them before the LORD, and shall offer his sin offering, and his burnt offering:"
+bsb: "The priest is to present all these before the LORD and make the sin offering and the burnt offering."
+hebrew: "וְהִקְרִ֥יב הַכֹּהֵ֖ן לִפְנֵ֣י יְהוָ֑ה וְעָשָׂ֥ה אֶת־ חַטָּאת֖וֹ וְאֶת־ עֹלָתֽוֹ׃"
+pericope: "[[Num.6.1 The Nazirite Vow|The Nazirite Vow]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 6
+book/chapter: "[[Num.6|Numbers 6]]"
+chronological_order: 165
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic NAZARITE|NAZARITE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H6213I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2403H]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 6:16**<big><big>[[Num.6.1 The Nazirite Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall bring [them] before the LORD, and shall offer his sin offering, and his burnt offering:
 <small><sub>**BSB:**</sub></small>
 The priest is to present all these before the LORD and make the sin offering and the burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7126H\|הִקְרִ֥יב]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H6213I\|עָשָׂ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2403H\|חַטָּאת֖]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5930A\|עֹלָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic NAZARITE|NAZARITE]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.6.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.6.15|<< Numbers 6:15]]</td><td align="center" style="border:none;">[[Num.6|Numbers 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.6.17|Numbers 6:17 >>]]</td></tr></table>
 

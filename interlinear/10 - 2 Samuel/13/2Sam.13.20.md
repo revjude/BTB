@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 13:20
+type: Verse
+kjv: "And Absalom her brother said unto her, Hath Amnon thy brother been with thee? but hold now thy peace, my sister: he is thy brother; regard not this thing. So Tamar remained desolate in her brother Absalom’s house."
+bsb: "Her brother Absalom said to her, “Has your brother Amnon been with you? Be quiet for now, my sister. He is your brother. Do not take this thing to heart.” So Tamar lived as a desolate woman in the house of her brother Absalom."
+hebrew: "וַיֹּ֨אמֶר אֵלֶ֜יהָ אַבְשָׁל֣וֹם אָחִ֗יהָ הַאֲמִינ֣וֹן אָחִיךְ֮ הָיָ֣ה עִמָּךְ֒ וְעַתָּ֞ה אֲחוֹתִ֤י הַחֲרִ֙ישִׁי֙ אָחִ֣יךְ ה֔וּא אַל־ תָּשִׁ֥יתִי אֶת־ לִבֵּ֖ךְ לַדָּבָ֣ר הַזֶּ֑ה וַתֵּ֤שֶׁב תָּמָר֙ וְשֹׁ֣מֵמָ֔ה בֵּ֖ית אַבְשָׁל֥וֹם אָחִֽיהָ׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9034]]"
+- "[[H0053]]"
+- "[[H0251G]]"
+- "[[H9024]]"
+- "[[H9008]]"
+- "[[H0550G]]"
+- "[[H9022]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0269]]"
+- "[[H9020]]"
+- "[[H2790B]]"
+- "[[H1931]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7896K]]"
+- "[[H0853]]"
+- "[[H3820A]]"
+- "[[H9005]]"
+- "[[H1697I]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H3427]]"
+- "[[H8559H]]"
+- "[[H8076]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:20**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom her brother said unto her, Hath Amnon thy brother been with thee? but hold now thy peace, my sister: he [is] thy brother; regard not this thing. So Tamar remained desolate in her brother Absalom’s house.
 <small><sub>**BSB:**</sub></small>
 Her brother Absalom said to her, “Has your brother Amnon been with you? Be quiet for now, my sister. He is your brother. Do not take this thing to heart.” So Tamar lived as a desolate woman in the house of her brother Absalom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֵלֶ֜י]][[H9034\|הָ]] [[H0053\|אַבְשָׁל֣וֹם]] [[H0251G\|אָחִ֗י]][[H9024\|הָ]] [[H9008\|הַ]][[H0550G\|אֲמִינ֣וֹן]] [[H0251G\|אָחִי]][[H9022\|ךְ֮]] [[H1961\|הָיָ֣ה]] [[H5973A\|עִמָּ]][[H9032\|ךְ֒]] [[H9002\|וְ]][[H6258\|עַתָּ֞ה]] [[H0269\|אֲחוֹתִ֤]][[H9020\|י]] [[H2790B\|הַחֲרִ֙ישִׁי֙]] [[H0251G\|אָחִ֣י]][[H9022\|ךְ]] [[H1931\|ה֔וּא]] [[H0408\|אַל]][[H9014\|־]] [[H7896K\|תָּשִׁ֥יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבֵּ֖]][[H9022\|ךְ]] [[H9005\|לַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וַ]][[H3427\|תֵּ֤שֶׁב]] [[H8559H\|תָּמָר֙]] [[H9002\|וְ]][[H8076\|שֹׁ֣מֵמָ֔ה]] [[H1004B\|בֵּ֖ית]] [[H0053\|אַבְשָׁל֥וֹם]] [[H0251G\|אָחִֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic RAPE|RAPE]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.19|<< 2 Samuel 13:19]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.21|2 Samuel 13:21 >>]]</td></tr></table>
 

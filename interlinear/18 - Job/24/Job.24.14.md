@@ -1,8 +1,57 @@
+---
+title: Job 24:14
+type: Verse
+kjv: "The murderer rising with the light killeth the poor and needy, and in the night is as a thief."
+bsb: "When daylight is gone, the murderer rises to kill the poor and needy; in the night he is like a thief."
+hebrew: "לָא֡וֹר יָ֘ק֤וּם רוֹצֵ֗חַ יִֽקְטָל־ עָנִ֥י וְאֶבְי֑וֹן וּ֝בַלַּ֗יְלָה יְהִ֣י כַגַּנָּֽב׃"
+pericope: "[[Job.24.1 Job：Judgment for the Wicked|Job：Judgment for the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 24
+book/chapter: "[[Job.24|Job 24]]"
+chronological_order: 35
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9005]]"
+- "[[H0216]]"
+- "[[H6965B]]"
+- "[[H7523]]"
+- "[[H6991]]"
+- "[[H9014]]"
+- "[[H6041]]"
+- "[[H9002]]"
+- "[[H0034]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1590]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 24:14**<big><big>[[Job.24.1 Job：Judgment for the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The murderer rising with the light killeth the poor and needy, and in the night is as a thief.
 <small><sub>**BSB:**</sub></small>
 When daylight is gone, the murderer rises to kill the poor and needy; in the night he is like a thief.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H0216\|א֡וֹר]] [[H6965B\|יָ֘ק֤וּם]] [[H7523\|רוֹצֵ֗חַ]] [[H6991\|יִֽקְטָל]][[H9014\|־]] [[H6041\|עָנִ֥י]] [[H9002\|וְ]][[H0034\|אֶבְי֑וֹן]] [[H9002\|וּ֝]][[H9003\|בַ]][[H3915\|לַּ֗יְלָה]] [[H1961\|יְהִ֣י]] [[H9004\|כַ]][[H1590\|גַּנָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.24.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.24.13|<< Job 24:13]]</td><td align="center" style="border:none;">[[Job.24|Job 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.24.15|Job 24:15 >>]]</td></tr></table>
 

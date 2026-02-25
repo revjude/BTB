@@ -1,8 +1,61 @@
+---
+title: Exodus 11:6
+type: Verse
+kjv: "And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more."
+bsb: "Then a great cry will go out over all the land of Egypt. Such an outcry has never been heard before and will never be heard again."
+hebrew: "וְהָֽיְתָ֛ה צְעָקָ֥ה גְדֹלָ֖ה בְּכָל־ אֶ֣רֶץ מִצְרָ֑יִם אֲשֶׁ֤ר כָּמֹ֙הוּ֙ לֹ֣א נִהְיָ֔תָה וְכָמֹ֖הוּ לֹ֥א תֹסִֽף׃"
+pericope: "[[Exod.11.1 The Plague on the Firstborn Foretold|The Plague on the Firstborn Foretold]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 11
+book/chapter: "[[Exod.11|Exodus 11]]"
+chronological_order: 103
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PLAGUE|PLAGUE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6818]]"
+- "[[H1419A]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0834A]]"
+- "[[H3644G]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H9002]]"
+- "[[H3254G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 11:6**<big><big>[[Exod.11.1 The Plague on the Firstborn Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more.
 <small><sub>**BSB:**</sub></small>
 Then a great cry will go out over all the land of Egypt. Such an outcry has never been heard before and will never be heard again.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָֽיְתָ֛ה]] [[H6818\|צְעָקָ֥ה]] [[H1419A\|גְדֹלָ֖ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H0834A\|אֲשֶׁ֤ר]] [[H3644G\|כָּמֹ֙]][[H9033\|הוּ֙]] [[H3808\|לֹ֣א]] [[H1961\|נִהְיָ֔תָה]] [[H9002\|וְ]][[H3644G\|כָמֹ֖]][[H9033\|הוּ]] [[H3808\|לֹ֥א]] [[H3254G\|תֹסִֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PLAGUE|PLAGUE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.5|<< Exodus 11:5]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.7|Exodus 11:7 >>]]</td></tr></table>
 

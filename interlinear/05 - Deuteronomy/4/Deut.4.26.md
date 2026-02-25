@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 4:26
+type: Verse
+kjv: "I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong your days upon it, but shall utterly be destroyed."
+bsb: "I call heaven and earth as witnesses against you this day that you will quickly perish from the land that you are crossing the Jordan to possess. You will not live long upon it, but will be utterly destroyed."
+hebrew: "הַעִידֹתִי֩ בָכֶ֨ם הַיּ֜וֹם אֶת־ הַשָּׁמַ֣יִם וְאֶת־ הָאָ֗רֶץ כִּֽי־ אָבֹ֣ד תֹּאבֵדוּן֮ מַהֵר֒ מֵעַ֣ל הָאָ֔רֶץ אֲשֶׁ֨ר אַתֶּ֜ם עֹבְרִ֧ים אֶת־ הַיַּרְדֵּ֛ן שָׁ֖מָּה לְרִשְׁתָּ֑הּ לֹֽא־ תַאֲרִיכֻ֤ן יָמִים֙ עָלֶ֔יהָ כִּ֥י הִשָּׁמֵ֖ד תִּשָּׁמֵדֽוּן׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H5749B]]"
+- "[[H9003]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H3588A]]"
+- "[[H0006]]"
+- "[[H9013]]"
+- "[[H4118B]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H0834A]]"
+- "[[H0859D]]"
+- "[[H5674A]]"
+- "[[H3383]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H3808]]"
+- "[[H0748]]"
+- "[[H8045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:26**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong [your] days upon it, but shall utterly be destroyed.
 <small><sub>**BSB:**</sub></small>
 I call heaven and earth as witnesses against you this day that you will quickly perish from the land that you are crossing the Jordan to possess. You will not live long upon it, but will be utterly destroyed.
+<small><sub>**Hebrew:**</sub></small>
+[[H5749B\|הַעִידֹתִי֩]] [[H9003\|בָ]][[H9036\|כֶ֨ם]] [[H9009\|הַ]][[H3117L\|יּ֜וֹם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֣יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֗רֶץ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0006\|אָבֹ֣ד]] [[H0006\|תֹּאבֵדוּ]][[H9013\|ן֮]] [[H4118B\|מַהֵר֒]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֨ר]] [[H0859D\|אַתֶּ֜ם]] [[H5674A\|עֹבְרִ֧ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֛ן]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּ֑]][[H9034\|הּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H0748\|תַאֲרִיכֻ֤]][[H9013\|ן]] [[H3117L\|יָמִים֙]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H3588A\|כִּ֥י]] [[H8045\|הִשָּׁמֵ֖ד]] [[H8045\|תִּשָּׁמֵדֽוּ]][[H9013\|ן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.25|<< Deuteronomy 4:25]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.27|Deuteronomy 4:27 >>]]</td></tr></table>
 

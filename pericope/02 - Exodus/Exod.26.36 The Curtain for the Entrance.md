@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Curtain for the Entrance
+type: Pericope
 pericope: "[[Exod.26.36 The Curtain for the Entrance|The Curtain for the Entrance]]"
-verse_count: 2
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 26
 book/chapter: "[[Exod.26|Exodus 26]]"
-genre:
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,12 +26,13 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 2
 verses:
 - "[[Exod.26.36]]"
 - "[[Exod.26.37]]"
 ---
 
-[[Exod.26|Exodus 26:36 - Exodus 26:37]]
+<small>[[Exod.26|Exodus 26:36-37]]</small>
 *The Curtain for the Entrance*
 
 [[Exod.26.36|36]] And thou shalt make an hanging for the door of the tent, \[of\] blue, and purple, and scarlet, and fine twined linen, wrought with needlework.

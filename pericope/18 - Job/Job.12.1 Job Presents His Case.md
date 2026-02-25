@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Presents His Case
+type: Pericope
 pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 12
 book/chapter: "[[Job.12|Job 12]]"
-genre:
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 25
 verses:
 - "[[Job.12.1]]"
 - "[[Job.12.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Job.12.25]]"
 ---
 
-[[Job.12|Job 12:1 - Job 12:25]]
+<small>[[Job.12|Job 12:1-25]]</small>
 *Job Presents His Case*
 
 [[Job.12.1|1]] And Job answered and said,

@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 26:24
+type: Verse
+kjv: "And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the LORD, and let him deliver me out of all tribulation."
+bsb: "As surely as I valued your life today, so may the LORD value my life and rescue me from all trouble.”"
+hebrew: "וְהִנֵּ֗ה כַּאֲשֶׁ֨ר גָּדְלָ֧ה נַפְשְׁךָ֛ הַיּ֥וֹם הַזֶּ֖ה בְּעֵינָ֑י כֵּ֣ן תִּגְדַּ֤ל נַפְשִׁי֙ בְּעֵינֵ֣י יְהוָ֔ה וְיַצִּלֵ֖נִי מִכָּל־ צָרָֽה׃ פ"
+pericope: "[[1Sam.26.21 Saul Acknowledges His Sin|Saul Acknowledges His Sin]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 26
+book/chapter: "[[1Sam.26|1 Samuel 26]]"
+chronological_order: 305
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+strongs:
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1431]]"
+- "[[H5315H]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9020]]"
+- "[[H3651C]]"
+- "[[H3068G]]"
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6869B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Samuel 26:24**<big><big>[[1Sam.26.21 Saul Acknowledges His Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And, behold, as thy life was much set by this day in mine eyes, so let my life be much set by in the eyes of the LORD, and let him deliver me out of all tribulation.
 <small><sub>**BSB:**</sub></small>
 As surely as I valued your life today, so may the LORD value my life and rescue me from all trouble.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2009\|הִנֵּ֗ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H1431\|גָּדְלָ֧ה]] [[H5315H\|נַפְשְׁ]][[H9021\|ךָ֛]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בְּ]][[H5869H\|עֵינָ֑]][[H9020\|י]] [[H3651C\|כֵּ֣ן]] [[H1431\|תִּגְדַּ֤ל]] [[H5315H\|נַפְשִׁ]][[H9020\|י֙]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H5337\|יַצִּלֵ֖]][[H9030\|נִי]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H6869B\|צָרָֽה]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.26.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.23|<< 1 Samuel 26:23]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.25|1 Samuel 26:25 >>]]</td></tr></table>
 
@@ -22,7 +73,7 @@ As surely as I valued your life today, so may the LORD value my life and rescue 
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and may he deliver me  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5337\|יַצִּלֵ֖]]&#8207;&#8207;[[H9030\|נִי]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> ya.tzi.Le.<small><sup>[[HVhj3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from every  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| trouble  |**<big>&#8207;[[H6869B\|צָרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| trouble  |**<big>&#8207;[[H6869B\|צָרָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| tza.Rah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.26.23|<< 1 Samuel 26:23]]</td><td align="center" style="border:none;">[[1Sam.26|1 Samuel 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.26.25|1 Samuel 26:25 >>]]</td></tr></table>
 
 

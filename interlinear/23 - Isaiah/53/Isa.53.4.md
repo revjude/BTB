@@ -1,8 +1,63 @@
+---
+title: Isaiah 53:4
+type: Verse
+kjv: "Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted."
+bsb: "Surely He took up our infirmities and carried our sorrows; yet we considered Him stricken, struck down by God, and afflicted."
+hebrew: "אָכֵ֤ן חֳלָיֵ֙נוּ֙ ה֣וּא נָשָׂ֔א וּמַכְאֹבֵ֖ינוּ סְבָלָ֑ם וַאֲנַ֣חְנוּ חֲשַׁבְנֻ֔הוּ נָג֛וּעַ מֻכֵּ֥ה אֱלֹהִ֖ים וּמְעֻנֶּֽה׃"
+pericope: "[[Isa.53.1 The Suffering Servant|The Suffering Servant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 53
+book/chapter: "[[Isa.53|Isaiah 53]]"
+chronological_order: 692
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[H0403]]"
+- "[[H2483]]"
+- "[[H9025]]"
+- "[[H1931]]"
+- "[[H5375H]]"
+- "[[H9002]]"
+- "[[H4341]]"
+- "[[H5445]]"
+- "[[H9038]]"
+- "[[H0587]]"
+- "[[H2803J]]"
+- "[[H9033]]"
+- "[[H5060]]"
+- "[[H5221]]"
+- "[[H0430G]]"
+- "[[H6031B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 53:4**<big><big>[[Isa.53.1 The Suffering Servant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely he hath borne our griefs, and carried our sorrows: yet we did esteem him stricken, smitten of God, and afflicted.
 <small><sub>**BSB:**</sub></small>
 Surely He took up our infirmities and carried our sorrows; yet we considered Him stricken, struck down by God, and afflicted.
+<small><sub>**Hebrew:**</sub></small>
+[[H0403\|אָכֵ֤ן]] [[H2483\|חֳלָיֵ֙]][[H9025\|נוּ֙]] [[H1931\|ה֣וּא]] [[H5375H\|נָשָׂ֔א]] [[H9002\|וּ]][[H4341\|מַכְאֹבֵ֖י]][[H9025\|נוּ]] [[H5445\|סְבָלָ֑]][[H9038\|ם]] [[H9002\|וַ]][[H0587\|אֲנַ֣חְנוּ]] [[H2803J\|חֲשַׁבְנֻ֔]][[H9033\|הוּ]] [[H5060\|נָג֛וּעַ]] [[H5221\|מֻכֵּ֥ה]] [[H0430G\|אֱלֹהִ֖ים]] [[H9002\|וּ]][[H6031B\|מְעֻנֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.53.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.53.3|<< Isaiah 53:3]]</td><td align="center" style="border:none;">[[Isa.53|Isaiah 53]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.53.5|Isaiah 53:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 1:30
+type: Verse
+kjv: "The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;"
+bsb: "The LORD your God, who goes before you, will fight for you, just as you saw Him do for you in Egypt"
+hebrew: "יְהוָ֤ה אֱלֹֽהֵיכֶם֙ הַהֹלֵ֣ךְ לִפְנֵיכֶ֔ם ה֖וּא יִלָּחֵ֣ם לָכֶ֑ם כְּ֠כֹל אֲשֶׁ֨ר עָשָׂ֧ה אִתְּכֶ֛ם בְּמִצְרַ֖יִם לְעֵינֵיכֶֽם׃"
+pericope: "[[Deut.1.26 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9009]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H1931]]"
+- "[[H3898A]]"
+- "[[H9036]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H0854]]"
+- "[[H9003]]"
+- "[[H4714G]]"
+- "[[H5869J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:30**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;
 <small><sub>**BSB:**</sub></small>
 The LORD your God, who goes before you, will fight for you, just as you saw Him do for you in Egypt
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶם֙]] [[H9009\|הַ]][[H1980G\|הֹלֵ֣ךְ]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9026\|כֶ֔ם]] [[H1931\|ה֖וּא]] [[H3898A\|יִלָּחֵ֣ם]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H9004\|כְּ֠]][[H3605\|כֹל]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשָׂ֧ה]] [[H0854\|אִתְּ]][[H9036\|כֶ֛ם]] [[H9003\|בְּ]][[H4714G\|מִצְרַ֖יִם]] [[H9005\|לְ]][[H5869J\|עֵינֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic REPROOF|REPROOF]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.29|<< Deuteronomy 1:29]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.31|Deuteronomy 1:31 >>]]</td></tr></table>
 

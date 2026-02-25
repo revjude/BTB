@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ezra Sends for the Levites
+type: Pericope
 pericope: "[[Ezra.8.15 Ezra Sends for the Levites|Ezra Sends for the Levites]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 8
 book/chapter: "[[Ezra.8|Ezra 8]]"
-genre:
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 6
 verses:
 - "[[Ezra.8.15]]"
 - "[[Ezra.8.16]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Ezra.8.20]]"
 ---
 
-[[Ezra.8|Ezra 8:15 - Ezra 8:20]]
+<small>[[Ezra.8|Ezra 8:15-20]]</small>
 *Ezra Sends for the Levites*
 
 [[Ezra.8.15|15]] And I gathered them together to the river that runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.

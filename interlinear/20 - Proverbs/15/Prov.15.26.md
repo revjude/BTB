@@ -1,8 +1,53 @@
+---
+title: Proverbs 15:26
+type: Verse
+kjv: "The thoughts of the wicked are an abomination to the LORD: but the words of the pure are pleasant words."
+bsb: "The LORD detests the thoughts of the wicked, but the words of the pure are pleasant to Him."
+hebrew: "תּוֹעֲבַ֣ת יְ֭הוָה מַחְשְׁב֣וֹת רָ֑ע וּ֝טְהֹרִ֗ים אִמְרֵי־ נֹֽעַם׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H8441]]"
+- "[[H3068G]]"
+- "[[H4284]]"
+- "[[H7451B]]"
+- "[[H9002]]"
+- "[[H2889]]"
+- "[[H0561]]"
+- "[[H9014]]"
+- "[[H5278]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:26**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The thoughts of the wicked [are] an abomination to the LORD: but [the words] of the pure [are] pleasant words.
 <small><sub>**BSB:**</sub></small>
 The LORD detests the thoughts of the wicked, but the words of the pure are pleasant to Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H8441\|תּוֹעֲבַ֣ת]] [[H3068G\|יְ֭הוָה]] [[H4284\|מַחְשְׁב֣וֹת]] [[H7451B\|רָ֑ע]] [[H9002\|וּ֝]][[H2889\|טְהֹרִ֗ים]] [[H0561\|אִמְרֵי]][[H9014\|־]] [[H5278\|נֹֽעַם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic PURITY|PURITY]] • [[topic SIN|SIN]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.25|<< Proverbs 15:25]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.27|Proverbs 15:27 >>]]</td></tr></table>
 

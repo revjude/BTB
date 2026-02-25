@@ -1,8 +1,73 @@
+---
+title: Genesis 24:35
+type: Verse
+kjv: "And the LORD hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses."
+bsb: "“The LORD has greatly blessed my master, and he has become rich. He has given him sheep and cattle, silver and gold, menservants and maidservants, camels and donkeys."
+hebrew: "וַיהוָ֞ה בֵּרַ֧ךְ אֶת־ אֲדֹנִ֛י מְאֹ֖ד וַיִּגְדָּ֑ל וַיִּתֶּן־ ל֞וֹ צֹ֤אן וּבָקָר֙ וְכֶ֣סֶף וְזָהָ֔ב וַעֲבָדִם֙ וּשְׁפָחֹ֔ת וּגְמַלִּ֖ים וַחֲמֹרִֽים׃"
+pericope: "[[Gen.24.15 Rebekah Is Chosen|Rebekah Is Chosen]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 24
+book/chapter: "[[Gen.24|Genesis 24]]"
+chronological_order: 66
+era: Patriarchal Period
+period: "The Patriarchs: Isaac"
+date: ~2066–1886 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H3966]]"
+- "[[H9001]]"
+- "[[H1431]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H6629G]]"
+- "[[H1241]]"
+- "[[H3701G]]"
+- "[[H2091]]"
+- "[[H5650]]"
+- "[[H8198]]"
+- "[[H1581]]"
+- "[[H2543]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 24:35**<big><big>[[Gen.24.15 Rebekah Is Chosen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses.
 <small><sub>**BSB:**</sub></small>
 “The LORD has greatly blessed my master, and he has become rich. He has given him sheep and cattle, silver and gold, menservants and maidservants, camels and donkeys.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H3068G\|יהוָ֞ה]] [[H1288\|בֵּרַ֧ךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H0113\|אֲדֹנִ֛]][[H9020\|י]] [[H3966\|מְאֹ֖ד]] [[H9001\|וַ]][[H1431\|יִּגְדָּ֑ל]] [[H9001\|וַ]][[H5414G\|יִּתֶּן]][[H9014\|־]] [[H9005\|ל֞]][[H9033\|וֹ]] [[H6629G\|צֹ֤אן]] [[H9002\|וּ]][[H1241\|בָקָר֙]] [[H9002\|וְ]][[H3701G\|כֶ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֔ב]] [[H9002\|וַ]][[H5650\|עֲבָדִם֙]] [[H9002\|וּ]][[H8198\|שְׁפָחֹ֔ת]] [[H9002\|וּ]][[H1581\|גְמַלִּ֖ים]] [[H9002\|וַ]][[H2543\|חֲמֹרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic CAMEL|CAMEL]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic MONEY|MONEY]] • [[topic PRAYER|PRAYER]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic RICH, THE|RICH, THE]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.24.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.24.34|<< Genesis 24:34]]</td><td align="center" style="border:none;">[[Gen.24|Genesis 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.24.36|Genesis 24:36 >>]]</td></tr></table>
 

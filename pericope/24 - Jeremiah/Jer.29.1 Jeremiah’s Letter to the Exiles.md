@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jeremiah’s Letter to the Exiles
+type: Pericope
 pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
-verse_count: 23
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 29
 book/chapter: "[[Jer.29|Jeremiah 29]]"
-genre:
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 23
 verses:
 - "[[Jer.29.1]]"
 - "[[Jer.29.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Jer.29.23]]"
 ---
 
-[[Jer.29|Jeremiah 29:1 - Jeremiah 29:23]]
+<small>[[Jer.29|Jeremiah 29:1-23]]</small>
 *Jeremiah’s Letter to the Exiles*
 
 [[Jer.29.1|1]] Now these \[are\] the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;

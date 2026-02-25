@@ -1,6 +1,58 @@
+---
+title: LXX Jeremiah 18:13
+type: Verse
+lxx: "On account of this, Thus says the lord, Ask indeed among the nations! who heard such causes for shuddering which virgin Israel did exceedingly?"
+greek: "διά τούτο τάδε λέγει κύριος ερωτήσατε δη εν έθνεσι τις ήκουσε τοιαύτα φρικτά α εποίησε σφόδρα παρθένος Ισραήλ"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G2065]]"
+- "[[G1211]]"
+- "[[G1722]]"
+- "[[G1484]]"
+- "[[G5100]]"
+- "[[G0191]]"
+- "[[G5108]]"
+- "[[G9663]]"
+- "[[G3739]]"
+- "[[G4160]]"
+- "[[G4970]]"
+- "[[G3933]]"
+- "[[G2474]]"
+---
+
 **LXX Jeremiah 18:13** 
 <small><sub>**LXX:**</sub></small>
 On account of this, Thus says \[the\] <span class="smallcaps">lord</span>, Ask indeed among \[the\] nations! who heard such causes for shuddering which virgin Israel did exceedingly? 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G2065\|ερωτήσατε]] [[G1211\|δη]] [[G1722\|εν]] [[G1484\|έθνεσι]] [[G5100\|τις]] [[G0191\|ήκουσε]] [[G5108\|τοιαύτα]] [[G9663\|φρικτά]] [[G3739\|α]] [[G4160\|εποίησε]] [[G4970\|σφόδρα]] [[G3933\|παρθένος]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.12|<< Jeremiah 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.14|Jeremiah 18:14 >>]]</td></tr></table>
 
@@ -24,6 +76,6 @@ On account of this, Thus says \[the\] <span class="smallcaps">lord</span>, Ask i
 | exceedingly | **<big>[[G4970\|σφόδρα]]</big>** |
 | virgin | **<big>[[G3933\|παρθένος]]</big>** |
 | Israel | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Jer.18.13|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.12|<< Jeremiah 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.14|Jeremiah 18:14 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.18.12|<< Jeremiah 18:12]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.18.14|Jeremiah 18:14 >>]]</td></tr></table>
 
 

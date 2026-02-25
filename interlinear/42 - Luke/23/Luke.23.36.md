@@ -1,10 +1,58 @@
+---
+title: Luke 23:36
+type: Verse
+kjv: "And the soldiers also mocked him, coming to him, and offering him vinegar,"
+bsb: "The soldiers also mocked Him and came up to offer Him sour wine."
+greek: "ἐνέπαιξαν δὲ αὐτῷ καὶ οἱ στρατιῶται προσερχόμενοι, καὶ ὄξος προσφέροντες αὐτῷ"
+pericope: "[[Luke.23.26 The Crucifixion|The Crucifixion]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G1702]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4757]]"
+- "[[G4334]]"
+- "[[G3690]]"
+- "[[G4374]]"
+texts:
+- N(k)O
+- NKO
+- k
+---
+
 **Luke 23:36**<big><big>[[Luke.23.26 The Crucifixion|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the soldiers also mocked him, coming to him, and offering him vinegar,
 <small><sub>**BSB:**</sub></small>
 The soldiers also mocked Him and came up to offer Him sour wine.
-<small><sub>**Literal:**</sub></small>
-Mocked then Him also the soldiers coming near, and sour wine offering to Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.35|<< Luke 23:35]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.37|Luke 23:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1702\|ἐνέπαιξαν]]  [[G1161\|δὲ]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4757\|στρατιῶται]]  [[G4334\|προσερχόμενοι,]]  [[G2532\|καὶ]]  [[G3690\|ὄξος]]  [[G4374\|προσφέροντες]]  [[G0846\|αὐτῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALEFACTORS (CRIMINALS)|MALEFACTORS (CRIMINALS)]] • [[topic PROPHECY|PROPHECY]] • [[topic SCOFFING|SCOFFING]] • [[topic SOLDIERS|SOLDIERS]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.35|<< Luke 23:35]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.37|Luke 23:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,64 @@
+---
+title: Isaiah 38:15
+type: Verse
+kjv: "What shall I say? he hath both spoken unto me, and himself hath done it: I shall go softly all my years in the bitterness of my soul."
+bsb: "What can I say? He has spoken to me, and He Himself has done this. I will walk slowly all my years because of the anguish of my soul."
+hebrew: "מָֽה־ אֲדַבֵּ֥ר וְאָֽמַר־ לִ֖י וְה֣וּא עָשָׂ֑ה אֶדַּדֶּ֥ה כָל־ שְׁנוֹתַ֖י עַל־ מַ֥ר נַפְשִֽׁי׃"
+pericope: "[[Isa.38.9 Hezekiah’s Song of Thanksgiving|Hezekiah’s Song of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 38
+book/chapter: "[[Isa.38|Isaiah 38]]"
+chronological_order: 665
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6213A]]"
+- "[[H1718]]"
+- "[[H3605]]"
+- "[[H8141]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H4751]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 38:15**<big><big>[[Isa.38.9 Hezekiah’s Song of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 What shall I say? he hath both spoken unto me, and himself hath done [it]: I shall go softly all my years in the bitterness of my soul.
 <small><sub>**BSB:**</sub></small>
 What can I say? He has spoken to me, and He Himself has done this. I will walk slowly all my years because of the anguish of my soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H4100\|מָֽה]][[H9014\|־]] [[H1696G\|אֲדַבֵּ֥ר]] [[H9001\|וְ]][[H0559\|אָֽמַר]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H6213A\|עָשָׂ֑ה]] [[H1718\|אֶדַּדֶּ֥ה]] [[H3605\|כָל]][[H9014\|־]] [[H8141\|שְׁנוֹתַ֖]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H4751\|מַ֥ר]] [[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic HUMILITY|HUMILITY]] • [[topic MURMURING|MURMURING]] • [[topic PSALMS|PSALMS]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.38.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.38.14|<< Isaiah 38:14]]</td><td align="center" style="border:none;">[[Isa.38|Isaiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.38.16|Isaiah 38:16 >>]]</td></tr></table>
 

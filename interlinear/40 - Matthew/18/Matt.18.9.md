@@ -1,10 +1,67 @@
+---
+title: Matthew 18:9
+type: Verse
+kjv: "And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire."
+bsb: "And if your eye causes you to sin, gouge it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell."
+jesus_said: "And if thine eye offend thee, pluck it out, and cast it from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire."
+greek: "καὶ εἰ ὁ ὀφθαλμός σου σκανδαλίζει σε, ἔξελε αὐτὸν καὶ βάλε ἀπὸ σοῦ· καλόν σοί ἐστιν μονόφθαλμον εἰς τὴν ζωὴν εἰσελθεῖν ἢ δύο ὀφθαλμοὺς ἔχοντα βληθῆναι εἰς τὴν γέενναν τοῦ πυρός."
+pericope: "[[Matt.18.6 Temptations and Trespasses|Temptations and Trespasses]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G4771]]"
+- "[[G4624]]"
+- "[[G1807]]"
+- "[[G0846]]"
+- "[[G0906G]]"
+- "[[G0575]]"
+- "[[G2570G]]"
+- "[[G1510]]"
+- "[[G3442]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G1525]]"
+- "[[G2228]]"
+- "[[G1417]]"
+- "[[G2192]]"
+- "[[G1067]]"
+- "[[G4442]]"
+texts:
+- NKO
+---
+
 **Matthew 18:9**<big><big>[[Matt.18.6 Temptations and Trespasses|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if thine eye offend thee, pluck it out, and cast [it] from thee: it is better for thee to enter into life with one eye, rather than having two eyes to be cast into hell fire.
 <small><sub>**BSB:**</sub></small>
 And if your eye causes you to sin, gouge it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell.
-<small><sub>**Literal:**</sub></small>
-And if the eye of you causes to sin you, do gouge out it and do cast [it] from you; better for you it is one-eyed into <the> life to enter than two eyes having to be cast into the hell of the fire.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.8|<< Matthew 18:8]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.10|Matthew 18:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1487G\|εἰ]]  [[G3588\|ὁ]]  [[G3788\|ὀφθαλμός]]  [[G4771\|σου]]  [[G4624\|σκανδαλίζει]]  [[G4771\|σε,]]  [[G1807\|ἔξελε]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G0906G\|βάλε]]  [[G0575\|ἀπὸ]]  [[G4771\|σοῦ·]]  [[G2570G\|καλόν]]  [[G4771\|σοί]]  [[G1510\|ἐστιν]]  [[G3442\|μονόφθαλμον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2222\|ζωὴν]]  [[G1525\|εἰσελθεῖν]]  [[G2228\|ἢ]]  [[G1417\|δύο]]  [[G3788\|ὀφθαλμοὺς]]  [[G2192\|ἔχοντα]]  [[G0906G\|βληθῆναι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1067\|γέενναν]]  [[G3588\|τοῦ]]  [[G4442\|πυρός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.8|<< Matthew 18:8]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.10|Matthew 18:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

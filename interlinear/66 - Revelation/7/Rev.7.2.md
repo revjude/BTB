@@ -1,10 +1,68 @@
+---
+title: Revelation 7:2
+type: Verse
+kjv: "And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,"
+bsb: "And I saw another angel ascending from the east, with the seal of the living God. And he called out in a loud voice to the four angels who had been given power to harm the land and the sea:"
+greek: "Καὶ εἶδον ἄλλον ἄγγελον ἀναβαίνοντα ἀπὸ ἀνατολῆς ἡλίου ἔχοντα σφραγῖδα θεοῦ ζῶντος. καὶ ἔκραξεν φωνῇ μεγάλῃ τοῖς τέσσαρσιν ἀγγέλοις οἷς ἐδόθη αὐτοῖς ἀδικῆσαι τὴν γῆν καὶ τὴν θάλασσαν"
+pericope: "[[Rev.7.1 144,000 Sealed|144,000 Sealed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 7
+book/chapter: "[[Rev.7|Revelation 7]]"
+chronological_order: 1174
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G0243]]"
+- "[[G0032G]]"
+- "[[G0305]]"
+- "[[G0575]]"
+- "[[G0395]]"
+- "[[G2246]]"
+- "[[G2192]]"
+- "[[G4973]]"
+- "[[G2316]]"
+- "[[G2198]]"
+- "[[G2896]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G3588]]"
+- "[[G5064]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G0846]]"
+- "[[G0091]]"
+- "[[G1093G]]"
+- "[[G2281]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 7:2**<big><big>[[Rev.7.1 144,000 Sealed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw another angel ascending from the east, having the seal of the living God: and he cried with a loud voice to the four angels, to whom it was given to hurt the earth and the sea,
 <small><sub>**BSB:**</sub></small>
 And I saw another angel ascending from the east, with the seal of the living God. And he called out in a loud voice to the four angels who had been given power to harm the land and the sea:
-<small><sub>**Literal:**</sub></small>
-And I saw another angel is  ascending from [the] rising of [the] sun having [the] seal of God [the] living. And he cried in a voice loud to the four angels to whom it had been given to them to harm the earth and the sea<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.1|<< Revelation 7:1]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.3|Revelation 7:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G0243\|ἄλλον]]  [[G0032G\|ἄγγελον]]  [[G0305\|ἀναβαίνοντα]]  [[G0575\|ἀπὸ]]  [[G0395\|ἀνατολῆς]]  [[G2246\|ἡλίου]]  [[G2192\|ἔχοντα]]  [[G4973\|σφραγῖδα]]  [[G2316\|θεοῦ]]  [[G2198\|ζῶντος.]]  [[G2532\|καὶ]]  [[G2896\|ἔκραξεν]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ]]  [[G3588\|τοῖς]]  [[G5064\|τέσσαρσιν]]  [[G0032G\|ἀγγέλοις]]  [[G3739\|οἷς]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτοῖς]]  [[G0091\|ἀδικῆσαι]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2281\|θάλασσαν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ISRAEL|ISRAEL]] • [[topic SYMBOLS|SYMBOLS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.7.1|<< Revelation 7:1]]</td><td align="center" style="border:none;">[[Rev.7|Revelation 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.7.3|Revelation 7:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 7:2** is...
 > $\quad$ possibly alluding to: [[LXX.Ezek.9.2|Ezek 9:2]]

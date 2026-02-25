@@ -13,7 +13,7 @@
 
 → Assassination of Amaziah at [[2Kgs.14.19|2Ki 14:19]]
 
-→ Besieged by Sennacherib [[2Kgs.18.13|2Ki 18:13]]-[[2Kgs.18.17|17]]; [[2Kgs.19.8|19:8]]; [[2Chr.32.9|2Ch 32:9]]
+→ Besieged by Sennacherib [[2Kgs.18.13|2Ki 18:13-17]]; [[2Kgs.19.8|19:8]]; [[2Chr.32.9|2Ch 32:9]]
 
 → By Nebuchadnezzar [[Jer.34.7|Jer 34:7]]
 

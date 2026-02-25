@@ -1,8 +1,63 @@
+---
+title: Joshua 15:1
+type: Verse
+kjv: "This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast."
+bsb: "Now the allotment for the clans of the tribe of Judah extended to the border of Edom, to the Wilderness of Zin at the extreme southern boundary:"
+hebrew: "וַיְהִ֣י הַגּוֹרָ֗ל לְמַטֵּ֛ה בְּנֵ֥י יְהוּדָ֖ה לְמִשְׁפְּחֹתָ֑ם אֶל־ גְּב֨וּל אֱד֧וֹם מִדְבַּר־ צִ֛ן נֶ֖גְבָּה מִקְצֵ֥ה תֵימָֽן׃"
+pericope: "[[Josh.15.1 Judah’s Inheritance|Judah’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic ZIN|ZIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H1486]]"
+- "[[H9005]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H3063G]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1366G]]"
+- "[[H0123G]]"
+- "[[H4057B]]"
+- "[[H6790]]"
+- "[[H5045H]]"
+- "[[H9011]]"
+- "[[H9006]]"
+- "[[H7097A]]"
+- "[[H8486]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:1**<big><big>[[Josh.15.1 Judah’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [This] then was the lot of the tribe of the children of Judah by their families; [even] to the border of Edom the wilderness of Zin southward [was] the uttermost part of the south coast.
 <small><sub>**BSB:**</sub></small>
 Now the allotment for the clans of the tribe of Judah extended to the border of Edom, to the Wilderness of Zin at the extreme southern boundary:
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9009\|הַ]][[H1486\|גּוֹרָ֗ל]] [[H9005\|לְ]][[H4294H\|מַטֵּ֛ה]] [[H1121G\|בְּנֵ֥י]] [[H3063G\|יְהוּדָ֖ה]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֑]][[H9028\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H1366G\|גְּב֨וּל]] [[H0123G\|אֱד֧וֹם]] [[H4057B\|מִדְבַּר]][[H9014\|־]] [[H6790\|צִ֛ן]] [[H5045H\|נֶ֖גְבָּ]][[H9011\|ה]] [[H9006\|מִ]][[H7097A\|קְצֵ֥ה]] [[H8486\|תֵימָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]] • [[topic ZIN|ZIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.14.15|<< Joshua 14:15]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.2|Joshua 15:2 >>]]</td></tr></table>
 

@@ -1,8 +1,53 @@
+---
+title: 1 Kings 7:4
+type: Verse
+kjv: "And there were windows in three rows, and light was against light in three ranks."
+bsb: "There were three rows of high windows facing one another in three tiers."
+hebrew: "וּשְׁקֻפִ֖ים שְׁלֹשָׁ֣ה טוּרִ֑ים וּמֶחֱזָ֥ה אֶל־ מֶחֱזָ֖ה שָׁלֹ֥שׁ פְּעָמִֽים׃"
+pericope: "[[1Kgs.7.1 Solomon’s Palace Complex|Solomon’s Palace Complex]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic LEBANON|LEBANON]]"
+- "[[topic PALACE|PALACE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H8261]]"
+- "[[H7969]]"
+- "[[H2905]]"
+- "[[H4237]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6471]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:4**<big><big>[[1Kgs.7.1 Solomon’s Palace Complex|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] windows [in] three rows, and light [was] against light [in] three ranks.
 <small><sub>**BSB:**</sub></small>
 There were three rows of high windows facing one another in three tiers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H8261\|שְׁקֻפִ֖ים]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H2905\|טוּרִ֑ים]] [[H9002\|וּ]][[H4237\|מֶחֱזָ֥ה]] [[H0413\|אֶל]][[H9014\|־]] [[H4237\|מֶחֱזָ֖ה]] [[H7969\|שָׁלֹ֥שׁ]] [[H6471\|פְּעָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEBANON|LEBANON]] • [[topic PALACE|PALACE]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.3|<< 1 Kings 7:3]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.5|1 Kings 7:5 >>]]</td></tr></table>
 

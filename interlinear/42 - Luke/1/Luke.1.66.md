@@ -1,10 +1,62 @@
+---
+title: Luke 1:66
+type: Verse
+kjv: "And all they that heard them laid them up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him."
+bsb: "And all who heard this wondered in their hearts and asked, “What then will this child become?” For the Lord’s hand was with him."
+greek: "καὶ ἔθεντο πάντες οἱ ἀκούσαντες ἐν τῇ καρδίᾳ αὐτῶν λέγοντες· τί ἄρα τὸ παιδίον τοῦτο ἔσται; καὶ γὰρ χεὶρ κυρίου ἦν μετ᾽ αὐτοῦ.¶"
+pericope: "[[Luke.1.57 The Birth of John the Baptist|The Birth of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G5087]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G0191]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G0686]]"
+- "[[G3813]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G5495]]"
+- "[[G2962G]]"
+- "[[G3326]]"
+texts:
+- NKO
+- no
+---
+
 **Luke 1:66**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And all they that heard [them] laid [them] up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him.
 <small><sub>**BSB:**</sub></small>
 And all who heard this wondered in their hearts and asked, “What then will this child become?” For the Lord’s hand was with him.
-<small><sub>**Literal:**</sub></small>
-And laid [them] up all those having heard in the heart of them saying; What then <the> child this will be? And for [the] hand of [the] Lord was with him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.65|<< Luke 1:65]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.67|Luke 1:67 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5087\|ἔθεντο]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G0191\|ἀκούσαντες]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G0846\|αὐτῶν]]  [[G3004G\|λέγοντες·]]  [[G5101\|τί]]  [[G0686\|ἄρα]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G3778\|τοῦτο]]  [[G1510\|ἔσται;]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G5495\|χεὶρ]]  [[G2962G\|κυρίου]]  [[G1510\|ἦν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.65|<< Luke 1:65]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.67|Luke 1:67 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

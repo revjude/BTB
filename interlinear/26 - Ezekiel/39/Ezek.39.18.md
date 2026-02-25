@@ -1,8 +1,63 @@
+---
+title: Ezekiel 39:18
+type: Verse
+kjv: "Ye shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan."
+bsb: "You will eat the flesh of the mighty and drink the blood of the princes of the earth as though they were rams, lambs, goats, and bulls—all the fattened animals of Bashan."
+hebrew: "בְּשַׂ֤ר גִּבּוֹרִים֙ תֹּאכֵ֔לוּ וְדַם־ נְשִׂיאֵ֥י הָאָ֖רֶץ תִּשְׁתּ֑וּ אֵילִ֨ים כָּרִ֤ים וְעַתּוּדִים֙ פָּרִ֔ים מְרִיאֵ֥י בָשָׁ֖ן כֻּלָּֽם׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CATTLE|CATTLE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H1320]]"
+- "[[H1368]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H1818]]"
+- "[[H9014]]"
+- "[[H5387A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8354]]"
+- "[[H0352A]]"
+- "[[H3733C]]"
+- "[[H6260]]"
+- "[[H6499]]"
+- "[[H4806]]"
+- "[[H1316]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:18**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bullocks, all of them fatlings of Bashan.
 <small><sub>**BSB:**</sub></small>
 You will eat the flesh of the mighty and drink the blood of the princes of the earth as though they were rams, lambs, goats, and bulls—all the fattened animals of Bashan.
+<small><sub>**Hebrew:**</sub></small>
+[[H1320\|בְּשַׂ֤ר]] [[H1368\|גִּבּוֹרִים֙]] [[H0398\|תֹּאכֵ֔לוּ]] [[H9002\|וְ]][[H1818\|דַם]][[H9014\|־]] [[H5387A\|נְשִׂיאֵ֥י]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H8354\|תִּשְׁתּ֑וּ]] [[H0352A\|אֵילִ֨ים]] [[H3733C\|כָּרִ֤ים]] [[H9002\|וְ]][[H6260\|עַתּוּדִים֙]] [[H6499\|פָּרִ֔ים]] [[H4806\|מְרִיאֵ֥י]] [[H1316\|בָשָׁ֖ן]] [[H3605\|כֻּלָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATTLE|CATTLE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.17|<< Ezekiel 39:17]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.19|Ezekiel 39:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,57 @@
+---
+title: Genesis 40:6
+type: Verse
+kjv: "And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad."
+bsb: "When Joseph came to them in the morning, he saw that they were distraught."
+hebrew: "וַיָּבֹ֧א אֲלֵיהֶ֛ם יוֹסֵ֖ף בַּבֹּ֑קֶר וַיַּ֣רְא אֹתָ֔ם וְהִנָּ֖ם זֹעֲפִֽים׃"
+pericope: "[[Gen.40.1 The Cupbearer and the Baker|The Cupbearer and the Baker]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 40
+book/chapter: "[[Gen.40|Genesis 40]]"
+chronological_order: 82
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic JOSEPH|JOSEPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3130G]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9002]]"
+- "[[H2005]]"
+- "[[H9048]]"
+- "[[H2196]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 40:6**<big><big>[[Gen.40.1 The Cupbearer and the Baker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joseph came in unto them in the morning, and looked upon them, and, behold, they [were] sad.
 <small><sub>**BSB:**</sub></small>
 When Joseph came to them in the morning, he saw that they were distraught.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֧א]] [[H0413\|אֲלֵי]][[H9038\|הֶ֛ם]] [[H3130G\|יוֹסֵ֖ף]] [[H9003\|בַּ]][[H1242\|בֹּ֑קֶר]] [[H9001\|וַ]][[H7200G\|יַּ֣רְא]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H9002\|וְ]][[H2005\|הִנָּ֖]][[H9048\|ם]] [[H2196\|זֹעֲפִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSEPH|JOSEPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.40.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.40.5|<< Genesis 40:5]]</td><td align="center" style="border:none;">[[Gen.40|Genesis 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.40.7|Genesis 40:7 >>]]</td></tr></table>
 

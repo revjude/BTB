@@ -1,6 +1,51 @@
+---
+title: LXX Job 21:18
+type: Verse
+lxx: "And they will be as straw before the wind, or as a cloud of dust which the tempest took up."
+greek: "έσονται δε ώσπερ άχυρα προ ανέμου η ώσπερ κονιορτός ον υφείλετο λαίλαψ"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 21
+book/chapter: "[[Job.21|Job 21]]"
+chronological_order: 32
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic CHAFF|CHAFF]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic STUBBLE|STUBBLE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G5618]]"
+- "[[G0892]]"
+- "[[G4253]]"
+- "[[G0417]]"
+- "[[G2228]]"
+- "[[G5618]]"
+- "[[G2868]]"
+- "[[G3739]]"
+- "[[G9606]]"
+- "[[G2978]]"
+---
+
 **LXX Job 21:18** 
 <small><sub>**LXX:**</sub></small>
 And they will be as straw before \[the\] wind, or as a cloud of dust which \[the\] tempest took up. 
+<small><sub>**Greek:**</sub></small>
+[[G1510\|έσονται]] [[G1161\|δε]] [[G5618\|ώσπερ]] [[G0892\|άχυρα]] [[G4253\|προ]] [[G0417\|ανέμου]] [[G2228\|η]] [[G5618\|ώσπερ]] [[G2868\|κονιορτός]] [[G3739\|ον]] [[G9606\|υφείλετο]] [[G2978\|λαίλαψ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAFF|CHAFF]] • [[topic DEATH|DEATH]] • [[topic STUBBLE|STUBBLE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.17|<< Job 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.19|Job 21:19 >>]]</td></tr></table>
 
@@ -17,6 +62,6 @@ And they will be as straw before \[the\] wind, or as a cloud of dust which \[the
 | which | **<big>[[G3739\|ον]]</big>** |
 | took up | **<big>[[G9606\|υφείλετο]]</big>** |
 | \[the\] tempest | **<big>[[G2978\|λαίλαψ]]</big>** |
-[[Job.21.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.17|<< Job 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.19|Job 21:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.21.17|<< Job 21:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.21.19|Job 21:19 >>]]</td></tr></table>
 
 

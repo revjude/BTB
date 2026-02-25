@@ -1,10 +1,64 @@
+---
+title: John 11:2
+type: Verse
+kjv: "(It was that Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)"
+bsb: "(Mary, whose brother Lazarus was sick, was to anoint the Lord with perfume and wipe His feet with her hair.)"
+greek: "ἦν δὲ Μαριὰμ ἡ ἀλείψασα τὸν κύριον μύρῳ καὶ ἐκμάξασα τοὺς πόδας αὐτοῦ ταῖς θριξὶν αὐτῆς, ἧς ὁ ἀδελφὸς Λάζαρος ἠσθένει."
+pericope: "[[John.11.1 The Death of Lazarus|The Death of Lazarus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAZARUS|LAZARUS]]"
+- "[[topic MARY|MARY]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WEEPING|WEEPING]]"
+strongs:
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3137J]]"
+- "[[G3588]]"
+- "[[G0218]]"
+- "[[G2962G]]"
+- "[[G3464]]"
+- "[[G2532]]"
+- "[[G1591]]"
+- "[[G4228]]"
+- "[[G0846]]"
+- "[[G2359]]"
+- "[[G3739]]"
+- "[[G0080]]"
+- "[[G2976H]]"
+- "[[G0770H]]"
+texts:
+- NKO
+---
+
 **John 11:2**<big><big>[[John.11.1 The Death of Lazarus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 (It was [that] Mary which anointed the Lord with ointment, and wiped his feet with her hair, whose brother Lazarus was sick.)
 <small><sub>**BSB:**</sub></small>
 (Mary, whose brother Lazarus was sick, was to anoint the Lord with perfume and wipe His feet with her hair.)
-<small><sub>**Literal:**</sub></small>
-Was now Mary the [one] having anointed the Lord with fragrant oil and having wiped the feet of Him with the hair of her, whose <the> brother Lazarus was sick.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.1|<< John 11:1]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.3|John 11:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G3137J\|Μαριὰμ]]  [[G3588\|ἡ]]  [[G0218\|ἀλείψασα]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G3464\|μύρῳ]]  [[G2532\|καὶ]]  [[G1591\|ἐκμάξασα]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G0846\|αὐτοῦ]]  [[G3588\|ταῖς]]  [[G2359\|θριξὶν]]  [[G0846\|αὐτῆς,]]  [[G3739\|ἧς]]  [[G3588\|ὁ]]  [[G0080\|ἀδελφὸς]]  [[G2976H\|Λάζαρος]]  [[G0770H\|ἠσθένει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic FAMILY|FAMILY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAZARUS|LAZARUS]] • [[topic MARY|MARY]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WEEPING|WEEPING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.1|<< John 11:1]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.3|John 11:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

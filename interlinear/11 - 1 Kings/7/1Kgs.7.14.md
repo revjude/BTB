@@ -1,8 +1,83 @@
+---
+title: 1 Kings 7:14
+type: Verse
+kjv: "He was a widow’s son of the tribe of Naphtali, and his father was a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work."
+bsb: "He was the son of a widow from the tribe of Naphtali, and his father was a man of Tyre, a craftsman in bronze. Huram had great skill, understanding, and knowledge for every kind of bronze work. So he came to King Solomon and carried out all his work."
+hebrew: "בֶּן־ אִשָּׁה֩ אַלְמָנָ֨ה ה֜וּא מִמַּטֵּ֣ה נַפְתָּלִ֗י וְאָבִ֣יו אִישׁ־ צֹרִי֮ חֹרֵ֣שׁ נְחֹשֶׁת֒ וַ֠יִּמָּלֵא אֶת־ הַחָכְמָ֤ה וְאֶת־ הַתְּבוּנָה֙ וְאֶת־ הַדַּ֔עַת לַעֲשׂ֥וֹת כָּל־ מְלָאכָ֖ה בַּנְּחֹ֑שֶׁת וַיָּבוֹא֙ אֶל־ הַמֶּ֣לֶךְ שְׁלֹמֹ֔ה וַיַּ֖עַשׂ אֶת־ כָּל־ מְלַאכְתּֽוֹ׃"
+pericope: "[[1Kgs.7.13 The Pillars and Capitals|The Pillars and Capitals]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 7
+book/chapter: "[[1Kgs.7|1 Kings 7]]"
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ART|ART]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CARVING|CARVING]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic MASTER WORKMAN|MASTER WORKMAN]]"
+- "[[topic MECHANIC|MECHANIC]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H0490]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H4294H]]"
+- "[[H5321G]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0376G]]"
+- "[[H6876]]"
+- "[[H2790A]]"
+- "[[H5178A]]"
+- "[[H9001]]"
+- "[[H4390]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H2451]]"
+- "[[H8394]]"
+- "[[H1847]]"
+- "[[H9005]]"
+- "[[H6213H]]"
+- "[[H3605]]"
+- "[[H4399]]"
+- "[[H9003]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 7:14**<big><big>[[1Kgs.7.13 The Pillars and Capitals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He [was] a widow’s son of the tribe of Naphtali, and his father [was] a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work.
 <small><sub>**BSB:**</sub></small>
 He was the son of a widow from the tribe of Naphtali, and his father was a man of Tyre, a craftsman in bronze. Huram had great skill, understanding, and knowledge for every kind of bronze work. So he came to King Solomon and carried out all his work.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0802H\|אִשָּׁה֩]] [[H0490\|אַלְמָנָ֨ה]] [[H1931\|ה֜וּא]] [[H9006\|מִ]][[H4294H\|מַּטֵּ֣ה]] [[H5321G\|נַפְתָּלִ֗י]] [[H9002\|וְ]][[H0001G\|אָבִ֣י]][[H9023\|ו]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H6876\|צֹרִי֮]] [[H2790A\|חֹרֵ֣שׁ]] [[H5178A\|נְחֹשֶׁת֒]] [[H9001\|וַ֠]][[H4390\|יִּמָּלֵא]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2451\|חָכְמָ֤ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8394\|תְּבוּנָה֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1847\|דַּ֔עַת]] [[H9005\|לַ]][[H6213H\|עֲשׂ֥וֹת]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלָאכָ֖ה]] [[H9003\|בַּ]][[H5178A\|נְּחֹ֑שֶׁת]] [[H9001\|וַ]][[H0935G\|יָּבוֹא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H8010\|שְׁלֹמֹ֔ה]] [[H9001\|וַ]][[H6213A\|יַּ֖עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4399\|מְלַאכְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ART|ART]] • [[topic BRASS|BRASS]] • [[topic CARVING|CARVING]] • [[topic HIRAM|HIRAM]] • [[topic MASTER WORKMAN|MASTER WORKMAN]] • [[topic MECHANIC|MECHANIC]] • [[topic PILLAR|PILLAR]] • [[topic TEMPLE|TEMPLE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.7.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.7.13|<< 1 Kings 7:13]]</td><td align="center" style="border:none;">[[1Kgs.7|1 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.7.15|1 Kings 7:15 >>]]</td></tr></table>
 

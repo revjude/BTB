@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 1:24
+type: Verse
+kjv: "And when she had weaned him, she took him up with her, with three bullocks, and one ephah of flour, and a bottle of wine, and brought him unto the house of the LORD in Shiloh: and the child was young."
+bsb: "Once she had weaned him, Hannah took the boy with her, along with a three-year-old bull, an ephah of flour, and a skin of wine. Though the boy was still young, she brought him to the house of the LORD at Shiloh."
+hebrew: "וַתַּעֲלֵ֨הוּ עִמָּ֜הּ כַּאֲשֶׁ֣ר גְּמָלַ֗תּוּ בְּפָרִ֤ים שְׁלֹשָׁה֙ וְאֵיפָ֨ה אַחַ֥ת קֶ֙מַח֙ וְנֵ֣בֶל יַ֔יִן וַתְּבִאֵ֥הוּ בֵית־ יְהוָ֖ה שִׁל֑וֹ וְהַנַּ֖עַר נָֽעַר׃"
+pericope: "[[1Sam.1.19 The Birth of Samuel|The Birth of Samuel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic ELI|ELI]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SHILOH|SHILOH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H9033]]"
+- "[[H5973A]]"
+- "[[H9034]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1580]]"
+- "[[H9003]]"
+- "[[H6499]]"
+- "[[H7969]]"
+- "[[H9002]]"
+- "[[H0374]]"
+- "[[H0259]]"
+- "[[H7058]]"
+- "[[H5035A]]"
+- "[[H3196]]"
+- "[[H0935P]]"
+- "[[H1004Q]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H7887]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:24**<big><big>[[1Sam.1.19 The Birth of Samuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when she had weaned him, she took him up with her, with three bullocks, and one ephah of flour, and a bottle of wine, and brought him unto the house of the LORD in Shiloh: and the child [was] young.
 <small><sub>**BSB:**</sub></small>
 Once she had weaned him, Hannah took the boy with her, along with a three-year-old bull, an ephah of flour, and a skin of wine. Though the boy was still young, she brought him to the house of the LORD at Shiloh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|תַּעֲלֵ֨]][[H9033\|הוּ]] [[H5973A\|עִמָּ֜]][[H9034\|הּ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H1580\|גְּמָלַ֗תּ]][[H9033\|וּ]] [[H9003\|בְּ]][[H6499\|פָרִ֤ים]] [[H7969\|שְׁלֹשָׁה֙]] [[H9002\|וְ]][[H0374\|אֵיפָ֨ה]] [[H0259\|אַחַ֥ת]] [[H7058\|קֶ֙מַח֙]] [[H9002\|וְ]][[H5035A\|נֵ֣בֶל]] [[H3196\|יַ֔יִן]] [[H9001\|וַ]][[H0935P\|תְּבִאֵ֥]][[H9033\|הוּ]] [[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H7887\|שִׁל֑וֹ]] [[H9002\|וְ]][[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H5288\|נָֽעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic CONSECRATION|CONSECRATION]] • [[topic ELI|ELI]] • [[topic HANNAH|HANNAH]] • [[topic MEASURE|MEASURE]] • [[topic SAMUEL|SAMUEL]] • [[topic SHILOH|SHILOH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.23|<< 1 Samuel 1:23]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.25|1 Samuel 1:25 >>]]</td></tr></table>
 

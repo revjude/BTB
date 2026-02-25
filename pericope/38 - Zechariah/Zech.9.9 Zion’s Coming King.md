@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zion’s Coming King
+type: Pericope
 pericope: "[[Zech.9.9 Zion’s Coming King|Zion’s Coming King]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 9
 book/chapter: "[[Zech.9|Zechariah 9]]"
-genre:
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 5
 verses:
 - "[[Zech.9.9]]"
 - "[[Zech.9.10]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Zech.9.13]]"
 ---
 
-[[Zech.9|Zechariah 9:9 - Zechariah 9:13]]
+<small>[[Zech.9|Zechariah 9:9-13]]</small>
 *Zion’s Coming King*
 
 [[Zech.9.9|9]] Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he \[is\] just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.

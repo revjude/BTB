@@ -1,8 +1,56 @@
+---
+title: Psalm 119:128
+type: Verse
+kjv: "Therefore I esteem all thy precepts concerning all things to be right; and I hate every false way."
+bsb: "Therefore I admire all Your precepts and hate every false way."
+hebrew: "עַל־ כֵּ֤ן׀ כָּל־ פִּקּ֣וּדֵי כֹ֣ל יִשָּׁ֑רְתִּי כָּל־ אֹ֖רַח שֶׁ֣קֶר שָׂנֵֽאתִי׃"
+pericope: "[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|Your Word Is a Lamp to My Feet - AIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic HATRED|HATRED]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H6490]]"
+- "[[H3474]]"
+- "[[H0734]]"
+- "[[H8267]]"
+- "[[H8130]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:128**<big><big>[[Ps.119.121 Your Word Is a Lamp to My Feet - AIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I esteem all [thy] precepts [concerning] all [things to be] right; [and] I hate every false way.
 <small><sub>**BSB:**</sub></small>
 Therefore I admire all Your precepts and hate every false way.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֤ן]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H6490\|פִּקּ֣וּדֵי]] [[H3605\|כֹ֣ל]] [[H3474\|יִשָּׁ֑רְתִּי]] [[H3605\|כָּל]][[H9014\|־]] [[H0734\|אֹ֖רַח]] [[H8267\|שֶׁ֣קֶר]] [[H8130\|שָׂנֵֽאתִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HATRED|HATRED]] • [[topic SIN|SIN]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.128|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.127|<< Psalms 119:127]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.129|Psalms 119:129 >>]]</td></tr></table>
 

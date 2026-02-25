@@ -1,8 +1,71 @@
+---
+title: Exodus 18:8
+type: Verse
+kjv: "And Moses told his father in law all that the LORD had done unto Pharaoh and to the Egyptians for Israel’s sake, and all the travail that had come upon them by the way, and how the LORD delivered them."
+bsb: "Then Moses recounted to his father-in-law all that the LORD had done to Pharaoh and the Egyptians for Israel’s sake, all the hardships they had encountered along the way, and how the LORD had delivered them."
+hebrew: "וַיְסַפֵּ֤ר מֹשֶׁה֙ לְחֹ֣תְנ֔וֹ אֵת֩ כָּל־ אֲשֶׁ֨ר עָשָׂ֤ה יְהוָה֙ לְפַרְעֹ֣ה וּלְמִצְרַ֔יִם עַ֖ל אוֹדֹ֣ת יִשְׂרָאֵ֑ל אֵ֤ת כָּל־ הַתְּלָאָה֙ אֲשֶׁ֣ר מְצָאָ֣תַם בַּדֶּ֔רֶךְ וַיַּצִּלֵ֖ם יְהוָֽה׃"
+pericope: "[[Exod.18.1 The Visit of Jethro|The Visit of Jethro]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 18
+book/chapter: "[[Exod.18|Exodus 18]]"
+chronological_order: 110
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5608A]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H2859A]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H6547J]]"
+- "[[H9002]]"
+- "[[H4714G]]"
+- "[[H5921A]]"
+- "[[H0182]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H8513]]"
+- "[[H4672]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H1870L]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 18:8**<big><big>[[Exod.18.1 The Visit of Jethro|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses told his father in law all that the LORD had done unto Pharaoh and to the Egyptians for Israel’s sake, [and] all the travail that had come upon them by the way, and [how] the LORD delivered them.
 <small><sub>**BSB:**</sub></small>
 Then Moses recounted to his father-in-law all that the LORD had done to Pharaoh and the Egyptians for Israel’s sake, all the hardships they had encountered along the way, and how the LORD had delivered them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5608A\|יְסַפֵּ֤ר]] [[H4872\|מֹשֶׁה֙]] [[H9005\|לְ]][[H2859A\|חֹ֣תְנ֔]][[H9023\|וֹ]] [[H0853\|אֵת֩]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשָׂ֤ה]] [[H3068G\|יְהוָה֙]] [[H9005\|לְ]][[H6547J\|פַרְעֹ֣ה]] [[H9002\|וּ]][[H9005\|לְ]][[H4714G\|מִצְרַ֔יִם]] [[H5921A\|עַ֖ל]] [[H0182\|אוֹדֹ֣ת]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H8513\|תְּלָאָה֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H4672\|מְצָאָ֣תַ]][[H9038\|ם]] [[H9003\|בַּ]][[H1870L\|דֶּ֔רֶךְ]] [[H9001\|וַ]][[H5337\|יַּצִּלֵ֖]][[H9038\|ם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.18.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.18.7|<< Exodus 18:7]]</td><td align="center" style="border:none;">[[Exod.18|Exodus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.18.9|Exodus 18:9 >>]]</td></tr></table>
 

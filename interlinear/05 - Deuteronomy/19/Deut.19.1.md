@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 19:1
+type: Verse
+kjv: "When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;"
+bsb: "When the LORD your God has cut off the nations whose land He is giving you, and when you have driven them out and settled in their cities and houses,"
+hebrew: "כִּֽי־ יַכְרִ֞ית יְהוָ֤ה אֱלֹהֶ֙יךָ֙ אֶת־ הַגּוֹיִ֔ם אֲשֶׁר֙ יְהוָ֣ה אֱלֹהֶ֔יךָ נֹתֵ֥ן לְךָ֖ אֶת־ אַרְצָ֑ם וִֽירִשְׁתָּ֕ם וְיָשַׁבְתָּ֥ בְעָרֵיהֶ֖ם וּבְבָתֵּיהֶֽם׃"
+pericope: "[[Deut.19.1 Cities of Refuge|Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3772I]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H9001]]"
+- "[[H3423H]]"
+- "[[H9038]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9002]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:1**<big><big>[[Deut.19.1 Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;
 <small><sub>**BSB:**</sub></small>
 When the LORD your God has cut off the nations whose land He is giving you, and when you have driven them out and settled in their cities and houses,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H3772I\|יַכְרִ֞ית]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H0834A\|אֲשֶׁר֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H5414G\|נֹתֵ֥ן]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ֑]][[H9028\|ם]] [[H9001\|וִֽ]][[H3423H\|ירִשְׁתָּ֕]][[H9038\|ם]] [[H9001\|וְ]][[H3427\|יָשַׁבְתָּ֥]] [[H9003\|בְ]][[H5892B\|עָרֵי]][[H9028\|הֶ֖ם]] [[H9002\|וּ]][[H9003\|בְ]][[H1004B\|בָתֵּי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.18.22|<< Deuteronomy 18:22]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.2|Deuteronomy 19:2 >>]]</td></tr></table>
 

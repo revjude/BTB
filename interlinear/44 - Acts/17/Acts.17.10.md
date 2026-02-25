@@ -1,10 +1,63 @@
+---
+title: Acts 17:10
+type: Verse
+kjv: "And the brethren immediately sent away Paul and Silas by night unto Berea: who coming thither went into the synagogue of the Jews."
+bsb: "As soon as night had fallen, the brothers sent Paul and Silas away to Berea. On arriving there, they went into the Jewish synagogue."
+greek: "Οἱ δὲ ἀδελφοὶ εὐθέως διὰ τῆς νυκτὸς ἐξέπεμψαν τόν τε Παῦλον καὶ τὸν Σιλᾶν εἰς Βέροιαν, οἵτινες παραγενόμενοι εἰς τὴν συναγωγὴν τῶν Ἰουδαίων ἀπῄεσαν."
+pericope: "[[Acts.17.10 The Character of the Bereans|The Character of the Bereans]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 17
+book/chapter: "[[Acts.17|Acts 17]]"
+chronological_order: 1046
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BEREA|BEREA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SILAS|SILAS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0080]]"
+- "[[G2112]]"
+- "[[G1223]]"
+- "[[G3571]]"
+- "[[G1599]]"
+- "[[G5037]]"
+- "[[G3972G]]"
+- "[[G2532]]"
+- "[[G4609]]"
+- "[[G1519]]"
+- "[[G0960]]"
+- "[[G3748]]"
+- "[[G3854]]"
+- "[[G4864]]"
+- "[[G2453]]"
+- "[[G0549]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 17:10**<big><big>[[Acts.17.10 The Character of the Bereans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the brethren immediately sent away Paul and Silas by night unto Berea: who coming [thither] went into the synagogue of the Jews.
 <small><sub>**BSB:**</sub></small>
 As soon as night had fallen, the brothers sent Paul and Silas away to Berea. On arriving there, they went into the Jewish synagogue.
-<small><sub>**Literal:**</sub></small>
-<the> And the brothers immediately through <the> night sent away <the> both Paul and <the> Silas to Berea, who having arrived into the synagogue of the Jews were going.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.9|<< Acts 17:9]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.11|Acts 17:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G1161\|δὲ]]  [[G0080\|ἀδελφοὶ]]  [[G2112\|εὐθέως]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G3571\|νυκτὸς]]  [[G1599\|ἐξέπεμψαν]]  [[G3588\|τόν]]  [[G5037\|τε]]  [[G3972G\|Παῦλον]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G4609\|Σιλᾶν]]  [[G1519\|εἰς]]  [[G0960\|Βέροιαν,]]  [[G3748\|οἵτινες]]  [[G3854\|παραγενόμενοι]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4864\|συναγωγὴν]]  [[G3588\|τῶν]]  [[G2453\|Ἰουδαίων]]  [[G0549\|ἀπῄεσαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEREA|BEREA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SILAS|SILAS]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.17.9|<< Acts 17:9]]</td><td align="center" style="border:none;">[[Acts.17|Acts 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.17.11|Acts 17:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

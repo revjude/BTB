@@ -1,8 +1,51 @@
+---
+title: Psalm 135:19
+type: Verse
+kjv: "Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:"
+bsb: "O house of Israel, bless the LORD; O house of Aaron, bless the LORD;"
+hebrew: "בֵּ֣ית יִ֭שְׂרָאֵל בָּרֲכ֣וּ אֶת־ יְהוָ֑ה בֵּ֥ית אַ֝הֲרֹ֗ן בָּרֲכ֥וּ אֶת־ יְהוָֽה׃"
+pericope: "[[Ps.135.1 Give Praise, O Servants of the LORD|Give Praise, O Servants of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 135
+book/chapter: "[[Ps.135|Psalm 135]]"
+chronological_order: 532
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H1288]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 135:19**<big><big>[[Ps.135.1 Give Praise, O Servants of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bless the LORD, O house of Israel: bless the LORD, O house of Aaron:
 <small><sub>**BSB:**</sub></small>
 O house of Israel, bless the LORD; O house of Aaron, bless the LORD;
+<small><sub>**Hebrew:**</sub></small>
+[[H1004M\|בֵּ֣ית]] [[H3478\|יִ֭שְׂרָאֵל]] [[H1288\|בָּרֲכ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H1004M\|בֵּ֥ית]] [[H0175\|אַ֝הֲרֹ֗ן]] [[H1288\|בָּרֲכ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.135.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.135.18|<< Psalms 135:18]]</td><td align="center" style="border:none;">[[Ps.135|Psalms 135]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.135.20|Psalms 135:20 >>]]</td></tr></table>
 

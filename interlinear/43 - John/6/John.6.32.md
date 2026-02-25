@@ -1,10 +1,65 @@
+---
+title: John 6:32
+type: Verse
+kjv: "Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven."
+bsb: "Jesus said to them, “Truly, truly, I tell you, it was not Moses who gave you the bread from heaven, but it is My Father who gives you the true bread from heaven."
+jesus_said: "Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven."
+greek: "Εἶπεν οὖν αὐτοῖς ὁ Ἰησοῦς· ἀμὴν ἀμὴν λέγω ὑμῖν· οὐ Μωϋσῆς δέδωκεν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ, ἀλλ᾽ ὁ πατήρ μου δίδωσιν ὑμῖν τὸν ἄρτον ἐκ τοῦ οὐρανοῦ τὸν ἀληθινόν."
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0281]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G3475]]"
+- "[[G1325]]"
+- "[[G0740]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G0235]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G0228]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 6:32**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven.
 <small><sub>**BSB:**</sub></small>
 Jesus said to them, “Truly, truly, I tell you, it was not Moses who gave you the bread from heaven, but it is My Father who gives you the true bread from heaven.
-<small><sub>**Literal:**</sub></small>
-Said therefore to them <the> Jesus; Amen Amen I say to you; not Moses has given you the bread from <the> heaven, but the Father of Mine gives you the bread from <the> heaven <the> true.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.31|<< John 6:31]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.33|John 6:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπεν]]  [[G3767\|οὖν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3756\|οὐ]]  [[G3475\|Μωϋσῆς]]  [[G1325\|δέδωκεν]]  [[G4771\|ὑμῖν]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ,]]  [[G0235\|ἀλλ᾽]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3165\|μου]]  [[G1325\|δίδωσιν]]  [[G4771\|ὑμῖν]]  [[G3588\|τὸν]]  [[G0740\|ἄρτον]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G3588\|τὸν]]  [[G0228\|ἀληθινόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TYPES|TYPES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.31|<< John 6:31]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.33|John 6:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

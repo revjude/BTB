@@ -1,8 +1,52 @@
+---
+title: Proverbs 13:24
+type: Verse
+kjv: "He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes."
+bsb: "He who spares the rod hates his son, but he who loves him disciplines him diligently."
+hebrew: "חוֹשֵׂ֣ךְ שִׁ֭בְטוֹ שׂוֹנֵ֣א בְנ֑וֹ וְ֝אֹהֲב֗וֹ שִֽׁחֲר֥וֹ מוּסָֽר׃"
+pericope: "[[Prov.13.1 A Father’s Discipline|A Father’s Discipline]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 13
+book/chapter: "[[Prov.13|Proverbs 13]]"
+chronological_order: 468
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H2820]]"
+- "[[H7626G]]"
+- "[[H9023]]"
+- "[[H8130]]"
+- "[[H1121A]]"
+- "[[H9002]]"
+- "[[H0157G]]"
+- "[[H9033]]"
+- "[[H7836]]"
+- "[[H4148G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 13:24**<big><big>[[Prov.13.1 A Father’s Discipline|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that spareth his rod hateth his son: but he that loveth him chasteneth him betimes.
 <small><sub>**BSB:**</sub></small>
 He who spares the rod hates his son, but he who loves him disciplines him diligently.
+<small><sub>**Hebrew:**</sub></small>
+[[H2820\|חוֹשֵׂ֣ךְ]] [[H7626G\|שִׁ֭בְט]][[H9023\|וֹ]] [[H8130\|שׂוֹנֵ֣א]] [[H1121A\|בְנ֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H0157G\|אֹהֲב֗]][[H9033\|וֹ]] [[H7836\|שִֽׁחֲר֥]][[H9033\|וֹ]] [[H4148G\|מוּסָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.13.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.13.23|<< Proverbs 13:23]]</td><td align="center" style="border:none;">[[Prov.13|Proverbs 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.13.25|Proverbs 13:25 >>]]</td></tr></table>
 

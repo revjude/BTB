@@ -1,10 +1,66 @@
+---
+title: James 1:26
+type: Verse
+kjv: "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain."
+bsb: "If anyone considers himself religious and yet does not bridle his tongue, he deceives his heart and his religion is worthless."
+greek: "Εἴ τις δοκεῖ θρησκὸς εἶναι ἐν ὑμῖν μὴ χαλιναγωγῶν γλῶσσαν αὐτοῦ ἀλλ᾽ ἀπατῶν καρδίαν αὐτοῦ, τούτου μάταιος ἡ θρησκεία."
+pericope: "[[Jas.1.19 Hearing and Doing|Hearing and Doing]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 1
+book/chapter: "[[Jas.1|James 1]]"
+chronological_order: 1033
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic BRIDLE|BRIDLE]]"
+- "[[topic DOER|DOER]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SELF-DECEPTION|SELF-DECEPTION]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G1380]]"
+- "[[G2357]]"
+- "[[G1511]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G3361]]"
+- "[[G5468]]"
+- "[[G1100]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G0538]]"
+- "[[G2588]]"
+- "[[G3778]]"
+- "[[G3152]]"
+- "[[G3588]]"
+- "[[G2356]]"
+texts:
+- NKO
+- K
+- NK(o)
+---
+
 **James 1:26**<big><big>[[Jas.1.19 Hearing and Doing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion [is] vain.
 <small><sub>**BSB:**</sub></small>
 If anyone considers himself religious and yet does not bridle his tongue, he deceives his heart and his religion is worthless.
-<small><sub>**Literal:**</sub></small>
-If anyone seems religious to be among you not bridling [the] tongue of him but deceiving [the] heart of him, of this one worthless [is] the religion.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.25|<< James 1:25]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.27|James 1:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἴ]]  [[G5100\|τις]]  [[G1380\|δοκεῖ]]  [[G2357\|θρησκὸς]]  [[G1511\|εἶναι]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3361\|μὴ]]  [[G5468\|χαλιναγωγῶν]]  [[G1100\|γλῶσσαν]]  [[G0846\|αὐτοῦ]]  [[G0235\|ἀλλ᾽]]  [[G0538\|ἀπατῶν]]  [[G2588\|καρδίαν]]  [[G0846\|αὐτοῦ,]]  [[G3778\|τούτου]]  [[G3152\|μάταιος]]  [[G3588\|ἡ]]  [[G2356\|θρησκεία.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDLE|BRIDLE]] • [[topic DOER|DOER]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SELF-DECEPTION|SELF-DECEPTION]] • [[topic SPEAKING|SPEAKING]] • [[topic VANITY|VANITY]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.1.25|<< James 1:25]]</td><td align="center" style="border:none;">[[Jas.1|James 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.1.27|James 1:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

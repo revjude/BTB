@@ -1,8 +1,54 @@
+---
+title: Judges 5:10
+type: Verse
+kjv: "Speak, ye that ride on white asses, ye that sit in judgment, and walk by the way."
+bsb: "You who ride white donkeys, who sit on saddle blankets, and you who travel the road, ponder"
+hebrew: "רֹכְבֵי֩ אֲתֹנ֨וֹת צְחֹר֜וֹת יֹשְׁבֵ֧י עַל־ מִדִּ֛ין וְהֹלְכֵ֥י עַל־ דֶּ֖רֶךְ שִֽׂיחוּ׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H7392]]"
+- "[[H0860]]"
+- "[[H6715]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4055]]"
+- "[[H9002]]"
+- "[[H1980I]]"
+- "[[H1870K]]"
+- "[[H7878]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:10**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak, ye that ride on white asses, ye that sit in judgment, and walk by the way.
 <small><sub>**BSB:**</sub></small>
 You who ride white donkeys, who sit on saddle blankets, and you who travel the road, ponder
+<small><sub>**Hebrew:**</sub></small>
+[[H7392\|רֹכְבֵי֩]] [[H0860\|אֲתֹנ֨וֹת]] [[H6715\|צְחֹר֜וֹת]] [[H3427\|יֹשְׁבֵ֧י]] [[H5921A\|עַל]][[H9014\|־]] [[H4055\|מִדִּ֛ין]] [[H9002\|וְ]][[H1980I\|הֹלְכֵ֥י]] [[H5921A\|עַל]][[H9014\|־]] [[H1870K\|דֶּ֖רֶךְ]] [[H7878\|שִֽׂיחוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic COUNTRY|COUNTRY]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.9|<< Judges 5:9]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.11|Judges 5:11 >>]]</td></tr></table>
 

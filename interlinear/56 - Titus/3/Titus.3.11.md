@@ -1,10 +1,52 @@
+---
+title: Titus 3:11
+type: Verse
+kjv: "Knowing that he that is such is subverted, and sinneth, being condemned of himself."
+bsb: "knowing that such a man is corrupt and sinful; he is self-condemned."
+greek: "εἰδὼς ὅτι ἐξέστραπται ὁ τοιοῦτος καὶ ἁμαρτάνει ὢν αὐτοκατάκριτος.¶"
+pericope: "[[Titus.3.9 Avoid Divisions|Avoid Divisions]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 3
+book/chapter: "[[Titus.3|Titus 3]]"
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic HERESY|HERESY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G1612]]"
+- "[[G3588]]"
+- "[[G5108]]"
+- "[[G2532]]"
+- "[[G0264]]"
+- "[[G1510]]"
+- "[[G0843]]"
+texts:
+- NKO
+---
+
 **Titus 3:11**<big><big>[[Titus.3.9 Avoid Divisions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Knowing that he that is such is subverted, and sinneth, being condemned of himself.
 <small><sub>**BSB:**</sub></small>
 knowing that such a man is corrupt and sinful; he is self-condemned.
-<small><sub>**Literal:**</sub></small>
-knowing that has been corrupt <the> such a man and is sinning being self-condemned.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.10|<< Titus 3:10]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.12|Titus 3:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|εἰδὼς]]  [[G3754G\|ὅτι]]  [[G1612\|ἐξέστραπται]]  [[G3588\|ὁ]]  [[G5108\|τοιοῦτος]]  [[G2532\|καὶ]]  [[G0264\|ἁμαρτάνει]]  [[G1510\|ὢν]]  [[G0843\|αὐτοκατάκριτος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DOCTRINES|DOCTRINES]] • [[topic HERESY|HERESY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.3.10|<< Titus 3:10]]</td><td align="center" style="border:none;">[[Titus.3|Titus 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.3.12|Titus 3:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

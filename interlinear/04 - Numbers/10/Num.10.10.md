@@ -1,8 +1,74 @@
+---
+title: Numbers 10:10
+type: Verse
+kjv: "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God."
+bsb: "And on your joyous occasions, your appointed feasts, and the beginning of each month, you are to blow the trumpets over your burnt offerings and peace offerings to serve as a reminder for you before your God. I am the LORD your God.”"
+hebrew: "וּבְי֨וֹם שִׂמְחַתְכֶ֥ם וּֽבְמוֹעֲדֵיכֶם֮ וּבְרָאשֵׁ֣י חָדְשֵׁיכֶם֒ וּתְקַעְתֶּ֣ם בַּחֲצֹֽצְרֹ֗ת עַ֚ל עֹלֹ֣תֵיכֶ֔ם וְעַ֖ל זִבְחֵ֣י שַׁלְמֵיכֶ֑ם וְהָי֨וּ לָכֶ֤ם לְזִכָּרוֹן֙ לִפְנֵ֣י אֱלֹֽהֵיכֶ֔ם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃ פ"
+pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic MOON|MOON]]"
+- "[[topic NEW MOON|NEW MOON]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H8057]]"
+- "[[H9026]]"
+- "[[H4150H]]"
+- "[[H7218J]]"
+- "[[H2320G]]"
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H2689]]"
+- "[[H5921A]]"
+- "[[H5930A]]"
+- "[[H2077]]"
+- "[[H8002]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H2146]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Numbers 10:10**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 And on your joyous occasions, your appointed feasts, and the beginning of each month, you are to blow the trumpets over your burnt offerings and peace offerings to serve as a reminder for you before your God. I am the LORD your God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֨וֹם]] [[H8057\|שִׂמְחַתְ]][[H9026\|כֶ֥ם]] [[H9002\|וּֽ]][[H9003\|בְ]][[H4150H\|מוֹעֲדֵי]][[H9026\|כֶם֮]] [[H9002\|וּ]][[H9003\|בְ]][[H7218J\|רָאשֵׁ֣י]] [[H2320G\|חָדְשֵׁי]][[H9026\|כֶם֒]] [[H9001\|וּ]][[H8628\|תְקַעְתֶּ֣ם]] [[H9003\|בַּ]][[H2689\|חֲצֹֽצְרֹ֗ת]] [[H5921A\|עַ֚ל]] [[H5930A\|עֹלֹ֣תֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H2077\|זִבְחֵ֣י]] [[H8002\|שַׁלְמֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְ]][[H1961\|הָי֨וּ]] [[H9005\|לָ]][[H9036\|כֶ֤ם]] [[H9005\|לְ]][[H2146\|זִכָּרוֹן֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֔ם]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOON|MOON]] • [[topic NEW MOON|NEW MOON]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic TRUMPET|TRUMPET]] • [[topic YEAR|YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.9|<< Numbers 10:9]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.11|Numbers 10:11 >>]]</td></tr></table>
 
@@ -27,7 +93,7 @@ And on your joyous occasions, your appointed feasts, and the beginning of each m
 | God your  |**<big>&#8207;[[H0430G\|אֱלֹֽהֵי]]&#8207;&#8207;[[H9026\|כֶ֔ם]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֖י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God your  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.9|<< Numbers 10:9]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.11|Numbers 10:11 >>]]</td></tr></table>
 
 

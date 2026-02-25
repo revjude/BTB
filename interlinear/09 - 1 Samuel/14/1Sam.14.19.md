@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 14:19
+type: Verse
+kjv: "And it came to pass, while Saul talked unto the priest, that the noise that was in the host of the Philistines went on and increased: and Saul said unto the priest, Withdraw thine hand."
+bsb: "While Saul was talking to the priest, the commotion in the Philistine camp continued to increase. So Saul said to the priest, “Withdraw your hand.”"
+hebrew: "וַיְהִ֗י עַ֣ד דִּבֶּ֤ר שָׁאוּל֙ אֶל־ הַכֹּהֵ֔ן וְהֶהָמ֗וֹן אֲשֶׁר֙ בְּמַחֲנֵ֣ה פְלִשְׁתִּ֔ים וַיֵּ֥לֶךְ הָל֖וֹךְ וָרָ֑ב פ וַיֹּ֧אמֶר שָׁא֛וּל אֶל־ הַכֹּהֵ֖ן אֱסֹ֥ף יָדֶֽךָ׃"
+pericope: "[[1Sam.14.1 Jonathan’s Victory over the Philistines|Jonathan’s Victory over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 14
+book/chapter: "[[1Sam.14|1 Samuel 14]]"
+chronological_order: 293
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic PANIC|PANIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5704]]"
+- "[[H1696G]]"
+- "[[H7586G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H1995A]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4264]]"
+- "[[H6430G]]"
+- "[[H1980L]]"
+- "[[H7227A]]"
+- "[[H9017]]"
+- "[[H0559]]"
+- "[[H0622]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 14:19**<big><big>[[1Sam.14.1 Jonathan’s Victory over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, while Saul talked unto the priest, that the noise that [was] in the host of the Philistines went on and increased: and Saul said unto the priest, Withdraw thine hand.
 <small><sub>**BSB:**</sub></small>
 While Saul was talking to the priest, the commotion in the Philistine camp continued to increase. So Saul said to the priest, “Withdraw your hand.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H5704\|עַ֣ד]] [[H1696G\|דִּבֶּ֤ר]] [[H7586G\|שָׁאוּל֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9002\|וְ]][[H9009\|הֶ]][[H1995A\|הָמ֗וֹן]] [[H0834A\|אֲשֶׁר֙]] [[H9003\|בְּ]][[H4264\|מַחֲנֵ֣ה]] [[H6430G\|פְלִשְׁתִּ֔ים]] [[H9001\|וַ]][[H1980L\|יֵּ֥לֶךְ]] [[H1980L\|הָל֖וֹךְ]] [[H9002\|וָ]][[H7227A\|רָ֑ב]] [[H9017\|פ]] [[H9001\|וַ]][[H0559\|יֹּ֧אמֶר]] [[H7586G\|שָׁא֛וּל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H0622\|אֱסֹ֥ף]] [[H3027G\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic PANIC|PANIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.14.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.14.18|<< 1 Samuel 14:18]]</td><td align="center" style="border:none;">[[1Sam.14|1 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.14.20|1 Samuel 14:20 >>]]</td></tr></table>
 
@@ -20,7 +76,7 @@ While Saul was talking to the priest, the commotion in the Philistine camp conti
 | [the] Philistines  |**<big>&#8207;[[H6430G\|פְלִשְׁתִּ֔ים]]&#8207; </big>**| fe.lish.Tim<small><sup>[[HNgmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and it went  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1980L\|יֵּ֥לֶךְ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Ye.lekh<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | continuously \<to go>  |**<big>&#8207;[[H1980L\|הָל֖וֹךְ]]&#8207; </big>**| ha.Lokh<small><sup>[[HVqaa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and great  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H7227A\|רָ֑ב]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and great  |**<big>&#8207;[[H9002\|וָ]]&#8207;&#8207;[[H7227A\|רָ֑ב]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> Rav<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֧אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Saul  |**<big>&#8207;[[H7586G\|שָׁא֛וּל]]&#8207; </big>**| sha.'Ul<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to  |**<big>&#8207;[[H0413\|אֶל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'el-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |

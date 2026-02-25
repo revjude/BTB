@@ -1,10 +1,65 @@
+---
+title: Hebrews 12:25
+type: Verse
+kjv: "See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:"
+bsb: "See to it that you do not refuse Him who speaks. For if the people did not escape when they refused Him who warned them on earth, how much less will we escape if we reject Him who warns us from heaven?"
+greek: "Βλέπετε μὴ παραιτήσησθε τὸν λαλοῦντα· εἰ γὰρ ἐκεῖνοι οὐκ ἐξέφυγον ἐπὶ τῆς γῆς παραιτησάμενοι τὸν χρηματίζοντα, πολὺ μᾶλλον ἡμεῖς οἱ τὸν ἀπ᾽ οὐρανῶν ἀποστρεφόμενοι,"
+pericope: "[[Heb.12.18 An Unshakable Kingdom|An Unshakable Kingdom]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 12
+book/chapter: "[[Heb.12|Hebrews 12]]"
+chronological_order: 1151
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ESCAPE|ESCAPE]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G0991]]"
+- "[[G3361]]"
+- "[[G3868]]"
+- "[[G3588]]"
+- "[[G2980]]"
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G1565]]"
+- "[[G3756]]"
+- "[[G1628]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+- "[[G5537]]"
+- "[[G4183]]"
+- "[[G3123G]]"
+- "[[G3165]]"
+- "[[G0575]]"
+- "[[G3772]]"
+- "[[G0654]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Hebrews 12:25**<big><big>[[Heb.12.18 An Unshakable Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more [shall not] we [escape], if we turn away from him that [speaketh] from heaven:
 <small><sub>**BSB:**</sub></small>
 See to it that you do not refuse Him who speaks. For if the people did not escape when they refused Him who warned them on earth, how much less will we escape if we reject Him who warns us from heaven?
-<small><sub>**Literal:**</sub></small>
-do take heed lest you may refuse the [One] speaking; If for they not escaped on <the> earth having refused the [One] divinely instructing [them], much less we ourselves <the> the [One] from [the] heavens turning away from,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.24|<< Hebrews 12:24]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.26|Hebrews 12:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0991\|Βλέπετε]]  [[G3361\|μὴ]]  [[G3868\|παραιτήσησθε]]  [[G3588\|τὸν]]  [[G2980\|λαλοῦντα·]]  [[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G1565\|ἐκεῖνοι]]  [[G3756\|οὐκ]]  [[G1628\|ἐξέφυγον]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G3868\|παραιτησάμενοι]]  [[G3588\|τὸν]]  [[G5537\|χρηματίζοντα,]]  [[G4183\|πολὺ]]  [[G3123G\|μᾶλλον]]  [[G3165\|ἡμεῖς]]  [[G3588\|οἱ]]  [[G3588\|τὸν]]  [[G0575\|ἀπ᾽]]  [[G3772\|οὐρανῶν]]  [[G0654\|ἀποστρεφόμενοι,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ESCAPE|ESCAPE]] • [[topic JUDGMENT|JUDGMENT]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.12.24|<< Hebrews 12:24]]</td><td align="center" style="border:none;">[[Heb.12|Hebrews 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.12.26|Hebrews 12:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

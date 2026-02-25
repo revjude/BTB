@@ -1,8 +1,78 @@
+---
+title: Deuteronomy 2:14
+type: Verse
+kjv: "And the space in which we came from Kadeshbarnea, until we were come over the brook Zered, was thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them."
+bsb: "The time we spent traveling from Kadesh-barnea until we crossed over the Brook of Zered was thirty-eight years, until that entire generation of fighting men had perished from the camp, as the LORD had sworn to them."
+hebrew: "וְהַיָּמִ֞ים אֲשֶׁר־ הָלַ֣כְנוּ׀ מִקָּדֵ֣שׁ בַּרְנֵ֗עַ עַ֤ד אֲשֶׁר־ עָבַ֙רְנוּ֙ אֶת־ נַ֣חַל זֶ֔רֶד שְׁלֹשִׁ֥ים וּשְׁמֹנֶ֖ה שָׁנָ֑ה עַד־ תֹּ֨ם כָּל־ הַדּ֜וֹר אַנְשֵׁ֤י הַמִּלְחָמָה֙ מִקֶּ֣רֶב הַֽמַּחֲנֶ֔ה כַּאֲשֶׁ֛ר נִשְׁבַּ֥ע יְהוָ֖ה לָהֶֽם׃"
+pericope: "[[Deut.2.1 Wanderings in the Wilderness|Wanderings in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 2
+book/chapter: "[[Deut.2|Deuteronomy 2]]"
+chronological_order: 198
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic ZARED|ZARED]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1980G]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H6947]]"
+- "[[H5704]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H5158N]]"
+- "[[H2218]]"
+- "[[H7970]]"
+- "[[H8083]]"
+- "[[H8141]]"
+- "[[H8552]]"
+- "[[H3605]]"
+- "[[H1755]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H7130G]]"
+- "[[H4264]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7650]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 2:14**<big><big>[[Deut.2.1 Wanderings in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the space in which we came from Kadeshbarnea, until we were come over the brook Zered, [was] thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them.
 <small><sub>**BSB:**</sub></small>
 The time we spent traveling from Kadesh-barnea until we crossed over the Brook of Zered was thirty-eight years, until that entire generation of fighting men had perished from the camp, as the LORD had sworn to them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H3117G\|יָּמִ֞ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1980G\|הָלַ֣כְנוּ]][[H9015\|׀]] [[H9006\|מִ]][[H6947\|קָּדֵ֣שׁ]] [[H6947\|בַּרְנֵ֗עַ]] [[H5704\|עַ֤ד]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5674A\|עָבַ֙רְנוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5158N\|נַ֣חַל]] [[H2218\|זֶ֔רֶד]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H9002\|וּ]][[H8083\|שְׁמֹנֶ֖ה]] [[H8141\|שָׁנָ֑ה]] [[H5704\|עַד]][[H9014\|־]] [[H8552\|תֹּ֨ם]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1755\|דּ֜וֹר]] [[H0582\|אַנְשֵׁ֤י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָה֙]] [[H9006\|מִ]][[H7130G\|קֶּ֣רֶב]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H7650\|נִשְׁבַּ֥ע]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic ZARED|ZARED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.2.13|<< Deuteronomy 2:13]]</td><td align="center" style="border:none;">[[Deut.2|Deuteronomy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.2.15|Deuteronomy 2:15 >>]]</td></tr></table>
 

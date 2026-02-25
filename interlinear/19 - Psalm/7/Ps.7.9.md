@@ -1,8 +1,59 @@
+---
+title: Psalm 7:9
+type: Verse
+kjv: "Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins."
+bsb: "Put an end to the evil of the wicked, but establish the righteous, O righteous God who searches hearts and minds."
+hebrew: "יִגְמָר־ נָ֬א רַ֨ע׀ רְשָׁעִים֮ וּתְכוֹנֵ֪ן צַ֫דִּ֥יק וּבֹחֵ֣ן לִ֭בּ֗וֹת וּכְלָי֗וֹת אֱלֹהִ֥ים צַדִּֽיק׃"
+pericope: "[[Ps.7.1 I Take Refuge in You|I Take Refuge in You]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 7
+book/chapter: "[[Ps.7|Psalm 7]]"
+chronological_order: 311
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+strongs:
+- "[[H1584]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H7451B]]"
+- "[[H9015]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H3559H]]"
+- "[[H6662]]"
+- "[[H0974]]"
+- "[[H3826]]"
+- "[[H3629]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 7:9**<big><big>[[Ps.7.1 I Take Refuge in You|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.
 <small><sub>**BSB:**</sub></small>
 Put an end to the evil of the wicked, but establish the righteous, O righteous God who searches hearts and minds.
+<small><sub>**Hebrew:**</sub></small>
+[[H1584\|יִגְמָר]][[H9014\|־]] [[H4994\|נָ֬א]] [[H7451B\|רַ֨ע]][[H9015\|׀]] [[H7563\|רְשָׁעִים֮]] [[H9002\|וּ]][[H3559H\|תְכוֹנֵ֪ן]] [[H6662\|צַ֫דִּ֥יק]] [[H9002\|וּ]][[H0974\|בֹחֵ֣ן]] [[H3826\|לִ֭בּ֗וֹת]] [[H9002\|וּ]][[H3629\|כְלָי֗וֹת]] [[H0430G\|אֱלֹהִ֥ים]] [[H6662\|צַדִּֽיק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic INTERCESSION|INTERCESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.7.8|<< Psalms 7:8]]</td><td align="center" style="border:none;">[[Ps.7|Psalms 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.7.10|Psalms 7:10 >>]]</td></tr></table>
 

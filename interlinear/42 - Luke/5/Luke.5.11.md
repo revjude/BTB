@@ -1,10 +1,56 @@
+---
+title: Luke 5:11
+type: Verse
+kjv: "And when they had brought their ships to land, they forsook all, and followed him."
+bsb: "And when they had brought their boats ashore, they left everything and followed Him."
+greek: "καὶ καταγαγόντες τὰ πλοῖα ἐπὶ τὴν γῆν, ἀφέντες πάντα ἠκολούθησαν αὐτῷ.¶"
+pericope: "[[Luke.5.1 The First Disciples|The First Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+strongs:
+- "[[G2532]]"
+- "[[G2609]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G1909]]"
+- "[[G1093H]]"
+- "[[G0863G]]"
+- "[[G3956]]"
+- "[[G0190]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 5:11**<big><big>[[Luke.5.1 The First Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they had brought their ships to land, they forsook all, and followed him.
 <small><sub>**BSB:**</sub></small>
 And when they had brought their boats ashore, they left everything and followed Him.
-<small><sub>**Literal:**</sub></small>
-And having brought the boats to the land, having left all [things] they followed Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.10|<< Luke 5:10]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.12|Luke 5:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2609\|καταγαγόντες]]  [[G3588\|τὰ]]  [[G4143\|πλοῖα]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G1093H\|γῆν,]]  [[G0863G\|ἀφέντες]]  [[G3956\|πάντα]]  [[G0190\|ἠκολούθησαν]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PETER|PETER]] • [[topic SELF-DENIAL|SELF-DENIAL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.10|<< Luke 5:10]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.12|Luke 5:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

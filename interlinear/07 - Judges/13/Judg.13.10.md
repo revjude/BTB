@@ -1,8 +1,63 @@
+---
+title: Judges 13:10
+type: Verse
+kjv: "And the woman made haste, and ran, and shewed her husband, and said unto him, Behold, the man hath appeared unto me, that came unto me the other day."
+bsb: "The woman ran quickly to tell her husband, “Behold, the man who came to me the other day has reappeared!”"
+hebrew: "וַתְּמַהֵר֙ הָֽאִשָּׁ֔ה וַתָּ֖רָץ וַתַּגֵּ֣ד לְאִישָׁ֑הּ וַתֹּ֣אמֶר אֵלָ֔יו הִנֵּ֨ה נִרְאָ֤ה אֵלַי֙ הָאִ֔ישׁ אֲשֶׁר־ בָּ֥א בַיּ֖וֹם אֵלָֽי׃"
+pericope: "[[Judg.13.1 The Birth of Samson|The Birth of Samson]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 13
+book/chapter: "[[Judg.13|Judges 13]]"
+chronological_order: 267
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONCEPTION|CONCEPTION]]"
+- "[[topic MANOAH|MANOAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H4116A]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H7323G]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H2009]]"
+- "[[H7200L]]"
+- "[[H9030]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 13:10**<big><big>[[Judg.13.1 The Birth of Samson|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the woman made haste, and ran, and shewed her husband, and said unto him, Behold, the man hath appeared unto me, that came unto me the [other] day.
 <small><sub>**BSB:**</sub></small>
 The woman ran quickly to tell her husband, “Behold, the man who came to me the other day has reappeared!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4116A\|תְּמַהֵר֙]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁ֔ה]] [[H9001\|וַ]][[H7323G\|תָּ֖רָץ]] [[H9001\|וַ]][[H5046\|תַּגֵּ֣ד]] [[H9005\|לְ]][[H0376H\|אִישָׁ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H2009\|הִנֵּ֨ה]] [[H7200L\|נִרְאָ֤ה]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥א]] [[H9003\|בַ]][[H3117G\|יּ֖וֹם]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONCEPTION|CONCEPTION]] • [[topic MANOAH|MANOAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.13.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.13.9|<< Judges 13:9]]</td><td align="center" style="border:none;">[[Judg.13|Judges 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.13.11|Judges 13:11 >>]]</td></tr></table>
 

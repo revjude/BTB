@@ -1,8 +1,60 @@
+---
+title: Joshua 16:6
+type: Verse
+kjv: "And the border went out toward the sea to Michmethah on the north side; and the border went about eastward unto Taanathshiloh, and passed by it on the east to Janohah;"
+bsb: "and out toward the Sea. From Michmethath on the north it turned eastward toward Taanath-shiloh and passed by it to Janoah on the east."
+hebrew: "וְיָצָ֨א הַגְּב֜וּל הַיָּ֗מָּה הַֽמִּכְמְתָת֙ מִצָּפ֔וֹן וְנָסַ֧ב הַגְּב֛וּל מִזְרָ֖חָה תַּאֲנַ֣ת שִׁלֹ֑ה וְעָבַ֣ר אוֹת֔וֹ מִמִּזְרַ֖ח יָנֽוֹחָה׃"
+pericope: "[[Josh.16.1 Ephraim’s Inheritance|Ephraim’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 16
+book/chapter: "[[Josh.16|Joshua 16]]"
+chronological_order: 246
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JANOHAH|JANOHAH]]"
+- "[[topic MICHMETHAH|MICHMETHAH]]"
+- "[[topic TAANATH-SHILOH|TAANATH-SHILOH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318I]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H3220G]]"
+- "[[H9011]]"
+- "[[H4366]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H5437G]]"
+- "[[H4217H]]"
+- "[[H8387]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H3239B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 16:6**<big><big>[[Josh.16.1 Ephraim’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border went out toward the sea to Michmethah on the north side; and the border went about eastward unto Taanathshiloh, and passed by it on the east to Janohah;
 <small><sub>**BSB:**</sub></small>
 and out toward the Sea. From Michmethath on the north it turned eastward toward Taanath-shiloh and passed by it to Janoah on the east.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3318I\|יָצָ֨א]] [[H9009\|הַ]][[H1366G\|גְּב֜וּל]] [[H9009\|הַ]][[H3220G\|יָּ֗מָּ]][[H9011\|ה]] [[H9009\|הַֽ]][[H4366\|מִּכְמְתָת֙]] [[H9006\|מִ]][[H6828G\|צָּפ֔וֹן]] [[H9001\|וְ]][[H5437G\|נָסַ֧ב]] [[H9009\|הַ]][[H1366G\|גְּב֛וּל]] [[H4217H\|מִזְרָ֖חָ]][[H9011\|ה]] [[H8387\|תַּאֲנַ֣ת]] [[H8387\|שִׁלֹ֑ה]] [[H9001\|וְ]][[H5674A\|עָבַ֣ר]] [[H0853\|אוֹת֔]][[H9033\|וֹ]] [[H9006\|מִ]][[H4217H\|מִּזְרַ֖ח]] [[H3239B\|יָנֽוֹחָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EPHRAIM|EPHRAIM]] • [[topic JANOHAH|JANOHAH]] • [[topic MICHMETHAH|MICHMETHAH]] • [[topic TAANATH-SHILOH|TAANATH-SHILOH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.16.5|<< Joshua 16:5]]</td><td align="center" style="border:none;">[[Josh.16|Joshua 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.16.7|Joshua 16:7 >>]]</td></tr></table>
 

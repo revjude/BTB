@@ -1,8 +1,73 @@
+---
+title: Ezekiel 24:6
+type: Verse
+kjv: "Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum is therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it."
+bsb: "Therefore this is what the Lord GOD says: ‘Woe to the city of bloodshed, to the pot now rusted, whose rust will not come off! Empty it piece by piece; cast no lots for its contents."
+hebrew: "לָכֵ֞ן כֹּה־ אָמַ֣ר׀ אֲדֹנָ֣י יְהֹוִ֗ה אוֹי֮ עִ֣יר הַדָּמִים֒ סִ֚יר אֲשֶׁ֣ר חֶלְאָתָ֣ה בָ֔הּ וְחֶ֨לְאָתָ֔הּ לֹ֥א יָצְאָ֖ה מִמֶּ֑נָּה לִנְתָחֶ֤יהָ לִנְתָחֶ֙יהָ֙ הוֹצִיאָ֔הּ לֹא־ נָפַ֥ל עָלֶ֖יהָ גּוֹרָֽל׃"
+pericope: "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0188]]"
+- "[[H5892B]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H5518A]]"
+- "[[H0834A]]"
+- "[[H2457]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H4480A]]"
+- "[[H5409]]"
+- "[[H3318H]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H1486]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:6**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore thus saith the Lord GOD; Woe to the bloody city, to the pot whose scum [is] therein, and whose scum is not gone out of it! bring it out piece by piece; let no lot fall upon it.
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the Lord GOD says: ‘Woe to the city of bloodshed, to the pot now rusted, whose rust will not come off! Empty it piece by piece; cast no lots for its contents.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֞ן]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]][[H9015\|׀]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֗ה]] [[H0188\|אוֹי֮]] [[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H1818\|דָּמִים֒]] [[H5518A\|סִ֚יר]] [[H0834A\|אֲשֶׁ֣ר]] [[H2457\|חֶלְאָתָ֣]][[H9024\|ה]] [[H9003\|בָ֔]][[H9034\|הּ]] [[H9002\|וְ]][[H2457\|חֶ֨לְאָתָ֔]][[H9024\|הּ]] [[H3808\|לֹ֥א]] [[H3318G\|יָצְאָ֖ה]] [[H4480A\|מִמֶּ֑]][[H9034\|נָּה]] [[H9005\|לִ]][[H5409\|נְתָחֶ֤י]][[H9024\|הָ]] [[H9005\|לִ]][[H5409\|נְתָחֶ֙י]][[H9024\|הָ֙]] [[H3318H\|הוֹצִיאָ֔]][[H9034\|הּ]] [[H3808\|לֹא]][[H9014\|־]] [[H5307G\|נָפַ֥ל]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H1486\|גּוֹרָֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.5|<< Ezekiel 24:5]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.7|Ezekiel 24:7 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Acts 13:14
+type: Verse
+kjv: "But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down."
+bsb: "And from Perga, they traveled inland to Pisidian Antioch, where they entered the synagogue on the Sabbath and sat down."
+greek: "αὐτοὶ δὲ διελθόντες ἀπὸ τῆς Πέργης παρεγένοντο εἰς Ἀντιόχειαν τὴν Πισιδίαν, καὶ εἰσελθόντες εἰς τὴν συναγωγὴν τῇ ἡμέρᾳ τῶν σαββάτων ἐκάθισαν.¶"
+pericope: "[[Acts.13.13 In Pisidian Antioch|In Pisidian Antioch]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 13
+book/chapter: "[[Acts.13|Acts 13]]"
+chronological_order: 1031
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PAMPHYLIA|PAMPHYLIA]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERGA|PERGA]]"
+- "[[topic PISIDIA|PISIDIA]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G1330]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G4011]]"
+- "[[G3854]]"
+- "[[G1519]]"
+- "[[G0490H]]"
+- "[[G4099]]"
+- "[[G2532]]"
+- "[[G1525]]"
+- "[[G4864]]"
+- "[[G2250]]"
+- "[[G4521]]"
+- "[[G2523]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **Acts 13:14**<big><big>[[Acts.13.13 In Pisidian Antioch|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when they departed from Perga, they came to Antioch in Pisidia, and went into the synagogue on the sabbath day, and sat down.
 <small><sub>**BSB:**</sub></small>
 And from Perga, they traveled inland to Pisidian Antioch, where they entered the synagogue on the Sabbath and sat down.
-<small><sub>**Literal:**</sub></small>
-They themselves now having passed through from <the> Perga came to Antioch <the> Pisidia, and having gone into the synagogue on the day of the Sabbaths they sat down.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.13|<< Acts 13:13]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.15|Acts 13:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτοὶ]]  [[G1161\|δὲ]]  [[G1330\|διελθόντες]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G4011\|Πέργης]]  [[G3854\|παρεγένοντο]]  [[G1519\|εἰς]]  [[G0490H\|Ἀντιόχειαν]]  [[G3588\|τὴν]]  [[G4099\|Πισιδίαν,]]  [[G2532\|καὶ]]  [[G1525\|εἰσελθόντες]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4864\|συναγωγὴν]]  [[G3588\|τῇ]]  [[G2250\|ἡμέρᾳ]]  [[G3588\|τῶν]]  [[G4521\|σαββάτων]]  [[G2523\|ἐκάθισαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic LAW|LAW]] • [[topic PAMPHYLIA|PAMPHYLIA]] • [[topic PAUL|PAUL]] • [[topic PERGA|PERGA]] • [[topic PISIDIA|PISIDIA]] • [[topic SABBATH|SABBATH]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.13.13|<< Acts 13:13]]</td><td align="center" style="border:none;">[[Acts.13|Acts 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.13.15|Acts 13:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

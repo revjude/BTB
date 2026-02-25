@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Athaliah and Joash
+type: Pericope
 pericope: "[[2Kgs.11.1 Athaliah and Joash|Athaliah and Joash]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 11
 book/chapter: "[[2Kgs.11|2 Kings 11]]"
-genre:
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 3
 verses:
 - "[[2Kgs.11.1]]"
 - "[[2Kgs.11.2]]"
 - "[[2Kgs.11.3]]"
 ---
 
-[[2Kgs.11|2 Kings 11:1 - 2 Kings 11:3]]
+<small>[[2Kgs.11|2 Kings 11:1-3]]</small>
 *Athaliah and Joash*
 
 [[2Kgs.11.1|1]] And when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal.

@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 16:30
+type: Verse
+kjv: "Fear before him, all the earth: the world also shall be stable, that it be not moved."
+bsb: "tremble before Him, all the earth. The world is firmly established; it cannot be moved."
+hebrew: "חִ֤ילוּ מִלְּפָנָיו֙ כָּל־ הָאָ֔רֶץ אַף־ תִּכּ֥וֹן תֵּבֵ֖ל בַּל־ תִּמּֽוֹט׃"
+pericope: "[[1Chr.16.23 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H2342A]]"
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0637]]"
+- "[[H3559H]]"
+- "[[H8398]]"
+- "[[H1077]]"
+- "[[H4131]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:30**<big><big>[[1Chr.16.23 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear before him, all the earth: the world also shall be stable, that it be not moved.
 <small><sub>**BSB:**</sub></small>
 tremble before Him, all the earth. The world is firmly established; it cannot be moved.
+<small><sub>**Hebrew:**</sub></small>
+[[H2342A\|חִ֤ילוּ]] [[H9006\|מִ]][[H9005\|לְּ]][[H6440G\|פָנָי]][[H9023\|ו֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0637\|אַף]][[H9014\|־]] [[H3559H\|תִּכּ֥וֹן]] [[H8398\|תֵּבֵ֖ל]] [[H1077\|בַּל]][[H9014\|־]] [[H4131\|תִּמּֽוֹט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MUSIC|MUSIC]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.29|<< 1 Chronicles 16:29]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.31|1 Chronicles 16:31 >>]]</td></tr></table>
 

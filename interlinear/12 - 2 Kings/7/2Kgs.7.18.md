@@ -1,8 +1,64 @@
+---
+title: 2 Kings 7:18
+type: Verse
+kjv: "And it came to pass as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, shall be to morrow about this time in the gate of Samaria:"
+bsb: "It happened just as the man of God had told the king: “About this time tomorrow at the gate of Samaria, two seahs of barley will sell for a shekel, and a seah of fine flour will sell for a shekel.”"
+hebrew: "וַיְהִ֗י כְּדַבֵּר֙ אִ֣ישׁ הָאֱלֹהִ֔ים אֶל־ הַמֶּ֖לֶךְ לֵאמֹ֑ר סָאתַ֨יִם שְׂעֹרִ֜ים בְּשֶׁ֗קֶל וּֽסְאָה־ סֹ֙לֶת֙ בְּשֶׁ֔קֶל יִהְיֶה֙ כָּעֵ֣ת מָחָ֔ר בְּשַׁ֖עַר שֹׁמְרֽוֹן׃"
+pericope: "[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|Elisha’s Prophecy Fulfilled]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1696G]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5429]]"
+- "[[H8184]]"
+- "[[H9003]]"
+- "[[H8255]]"
+- "[[H9002]]"
+- "[[H5560]]"
+- "[[H6256]]"
+- "[[H4279]]"
+- "[[H8179G]]"
+- "[[H8111]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:18**<big><big>[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass as the man of God had spoken to the king, saying, Two measures of barley for a shekel, and a measure of fine flour for a shekel, shall be to morrow about this time in the gate of Samaria:
 <small><sub>**BSB:**</sub></small>
 It happened just as the man of God had told the king: “About this time tomorrow at the gate of Samaria, two seahs of barley will sell for a shekel, and a seah of fine flour will sell for a shekel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כְּ]][[H1696G\|דַבֵּר֙]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H5429\|סָאתַ֨יִם]] [[H8184\|שְׂעֹרִ֜ים]] [[H9003\|בְּ]][[H8255\|שֶׁ֗קֶל]] [[H9002\|וּֽ]][[H5429\|סְאָה]][[H9014\|־]] [[H5560\|סֹ֙לֶת֙]] [[H9003\|בְּ]][[H8255\|שֶׁ֔קֶל]] [[H1961\|יִהְיֶה֙]] [[H9004\|כָּ]][[H6256\|עֵ֣ת]] [[H4279\|מָחָ֔ר]] [[H9003\|בְּ]][[H8179G\|שַׁ֖עַר]] [[H8111\|שֹׁמְרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEASURE|MEASURE]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.17|<< 2 Kings 7:17]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.19|2 Kings 7:19 >>]]</td></tr></table>
 

@@ -1,10 +1,54 @@
+---
+title: Matthew 15:10
+type: Verse
+kjv: "And he called the multitude, and said unto them, Hear, and understand:"
+bsb: "Jesus called the crowd to Him and said, “Listen and understand."
+jesus_said: "Hear, and understand:"
+greek: "Καὶ προσκαλεσάμενος τὸν ὄχλον εἶπεν αὐτοῖς· ἀκούετε καὶ συνίετε·"
+pericope: "[[Matt.15.10 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4341]]"
+- "[[G3588]]"
+- "[[G3793]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G0191]]"
+- "[[G4920]]"
+texts:
+- NKO
+---
+
 **Matthew 15:10**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he called the multitude, and said unto them, Hear, and understand:
 <small><sub>**BSB:**</sub></small>
 Jesus called the crowd to Him and said, “Listen and understand.
-<small><sub>**Literal:**</sub></small>
-And having called to [Him] the crowd He said to them; do hear and do understand:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.9|<< Matthew 15:9]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.11|Matthew 15:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4341\|προσκαλεσάμενος]]  [[G3588\|τὸν]]  [[G3793\|ὄχλον]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G0191\|ἀκούετε]]  [[G2532\|καὶ]]  [[G4920\|συνίετε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIN|SIN]] • [[topic TEACHERS|TEACHERS]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.9|<< Matthew 15:9]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.11|Matthew 15:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,58 @@
+---
+title: Isaiah 1:19
+type: Verse
+kjv: "If ye be willing and obedient, ye shall eat the good of the land:"
+bsb: "If you are willing and obedient, you will eat the best of the land."
+hebrew: "אִם־ תֹּאב֖וּ וּשְׁמַעְתֶּ֑ם ט֥וּב הָאָ֖רֶץ תֹּאכֵֽלוּ׃"
+pericope: "[[Isa.1.10 Meaningless Offerings|Meaningless Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 1
+book/chapter: "[[Isa.1|Isaiah 1]]"
+chronological_order: 609
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic WILL|WILL]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0014]]"
+- "[[H9001]]"
+- "[[H8085H]]"
+- "[[H2898]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 1:19**<big><big>[[Isa.1.10 Meaningless Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If ye be willing and obedient, ye shall eat the good of the land:
 <small><sub>**BSB:**</sub></small>
 If you are willing and obedient, you will eat the best of the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H0014\|תֹּאב֖וּ]] [[H9001\|וּ]][[H8085H\|שְׁמַעְתֶּ֑ם]] [[H2898\|ט֥וּב]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0398\|תֹּאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REWARD|REWARD]] • [[topic WILL|WILL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.1.18|<< Isaiah 1:18]]</td><td align="center" style="border:none;">[[Isa.1|Isaiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.1.20|Isaiah 1:20 >>]]</td></tr></table>
 

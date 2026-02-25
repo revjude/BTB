@@ -1,8 +1,61 @@
+---
+title: Hosea 7:7
+type: Verse
+kjv: "They are all hot as an oven, and have devoured their judges; all their kings are fallen: there is none among them that calleth unto me."
+bsb: "All of them are hot as an oven, and they devour their rulers. All their kings fall; not one of them calls upon Me."
+hebrew: "כֻּלָּ֤ם יֵחַ֙מּוּ֙ כַּתַּנּ֔וּר וְאָכְל֖וּ אֶת־ שֹֽׁפְטֵיהֶ֑ם כָּל־ מַלְכֵיהֶ֣ם נָפָ֔לוּ אֵין־ קֹרֵ֥א בָהֶ֖ם אֵלָֽי׃"
+pericope: "[[Hos.7.1 Ephraim’s Iniquity|Ephraim’s Iniquity]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 7
+book/chapter: "[[Hos.7|Hosea 7]]"
+chronological_order: 648
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic OVEN|OVEN]]"
+- "[[topic PRAYERLESSNESS|PRAYERLESSNESS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H2552]]"
+- "[[H9004]]"
+- "[[H8574H]]"
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8199]]"
+- "[[H9038]]"
+- "[[H4428G]]"
+- "[[H5307G]]"
+- "[[H0369]]"
+- "[[H7121G]]"
+- "[[H9003]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 7:7**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are all hot as an oven, and have devoured their judges; all their kings are fallen: [there is] none among them that calleth unto me.
 <small><sub>**BSB:**</sub></small>
 All of them are hot as an oven, and they devour their rulers. All their kings fall; not one of them calls upon Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֻּלָּ֤]][[H9028\|ם]] [[H2552\|יֵחַ֙מּוּ֙]] [[H9004\|כַּ]][[H8574H\|תַּנּ֔וּר]] [[H9001\|וְ]][[H0398\|אָכְל֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8199\|שֹֽׁפְטֵי]][[H9038\|הֶ֑ם]] [[H3605\|כָּל]][[H9014\|־]] [[H4428G\|מַלְכֵי]][[H9028\|הֶ֣ם]] [[H5307G\|נָפָ֔לוּ]] [[H0369\|אֵין]][[H9014\|־]] [[H7121G\|קֹרֵ֥א]] [[H9003\|בָ]][[H9038\|הֶ֖ם]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OVEN|OVEN]] • [[topic PRAYERLESSNESS|PRAYERLESSNESS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.6|<< Hosea 7:6]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.8|Hosea 7:8 >>]]</td></tr></table>
 

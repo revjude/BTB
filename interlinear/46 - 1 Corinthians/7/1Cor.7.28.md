@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 7:28
+type: Verse
+kjv: "But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you."
+bsb: "But if you do marry, you have not sinned. And if a virgin marries, she has not sinned. But those who marry will face troubles in this life, and I want to spare you this."
+greek: "ἐὰν δὲ καὶ γαμήσῃς, οὐχ ἥμαρτες· καὶ ἐὰν γήμῃ ἡ παρθένος, οὐχ ἥμαρτεν· θλῖψιν δὲ τῇ σαρκὶ ἕξουσιν οἱ τοιοῦτοι· ἐγὼ δὲ ὑμῶν φείδομαι.¶"
+pericope: "[[1Cor.7.25 The Unmarried and Widowed|The Unmarried and Widowed]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1060]]"
+- "[[G3756]]"
+- "[[G0264]]"
+- "[[G3588]]"
+- "[[G3933]]"
+- "[[G2347]]"
+- "[[G4561]]"
+- "[[G2192]]"
+- "[[G5108]]"
+- "[[G1473]]"
+- "[[G4771]]"
+- "[[G5339]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 7:28**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.
 <small><sub>**BSB:**</sub></small>
 But if you do marry, you have not sinned. And if a virgin marries, she has not sinned. But those who marry will face troubles in this life, and I want to spare you this.
-<small><sub>**Literal:**</sub></small>
-If however also you shall marry, not you did sin; and if shall marry the virgin, not she did sin; tribulation however in the flesh will have <the> such; I myself now you am sparing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.27|<< 1 Corinthians 7:27]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.29|1 Corinthians 7:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1060\|γαμήσῃς,]]  [[G3756\|οὐχ]]  [[G0264\|ἥμαρτες·]]  [[G2532\|καὶ]]  [[G1437\|ἐὰν]]  [[G1060\|γήμῃ]]  [[G3588\|ἡ]]  [[G3933\|παρθένος,]]  [[G3756\|οὐχ]]  [[G0264\|ἥμαρτεν·]]  [[G2347\|θλῖψιν]]  [[G1161\|δὲ]]  [[G3588\|τῇ]]  [[G4561\|σαρκὶ]]  [[G2192\|ἕξουσιν]]  [[G3588\|οἱ]]  [[G5108\|τοιοῦτοι·]]  [[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G4771\|ὑμῶν]]  [[G5339\|φείδομαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENCE|CONTINENCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.27|<< 1 Corinthians 7:27]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.29|1 Corinthians 7:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

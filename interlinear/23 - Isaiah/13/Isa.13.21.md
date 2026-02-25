@@ -1,8 +1,61 @@
+---
+title: Isaiah 13:21
+type: Verse
+kjv: "But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there."
+bsb: "But desert creatures will lie down there, and howling creatures will fill her houses. Ostriches will dwell there, and wild goats will leap about."
+hebrew: "וְרָבְצוּ־ שָׁ֣ם צִיִּ֔ים וּמָלְא֥וּ בָתֵּיהֶ֖ם אֹחִ֑ים וְשָׁ֤כְנוּ שָׁם֙ בְּנ֣וֹת יַֽעֲנָ֔ה וּשְׂעִירִ֖ים יְרַקְּדוּ־ שָֽׁם׃"
+pericope: "[[Isa.13.1 The Burden against Babylon|The Burden against Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 13
+book/chapter: "[[Isa.13|Isaiah 13]]"
+chronological_order: 630
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CYRUS|CYRUS]]"
+- "[[topic OSTRICHES|OSTRICHES]]"
+- "[[topic OWL|OWL]]"
+- "[[topic SATYR|SATYR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7257]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H6728]]"
+- "[[H4390]]"
+- "[[H1004B]]"
+- "[[H9028]]"
+- "[[H0255]]"
+- "[[H7931]]"
+- "[[H1323G]]"
+- "[[H3284]]"
+- "[[H9002]]"
+- "[[H8163C]]"
+- "[[H7540]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 13:21**<big><big>[[Isa.13.1 The Burden against Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
 <small><sub>**BSB:**</sub></small>
 But desert creatures will lie down there, and howling creatures will fill her houses. Ostriches will dwell there, and wild goats will leap about.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7257\|רָבְצוּ]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H6728\|צִיִּ֔ים]] [[H9001\|וּ]][[H4390\|מָלְא֥וּ]] [[H1004B\|בָתֵּי]][[H9028\|הֶ֖ם]] [[H0255\|אֹחִ֑ים]] [[H9001\|וְ]][[H7931\|שָׁ֤כְנוּ]] [[H8033G\|שָׁם֙]] [[H1323G\|בְּנ֣וֹת]] [[H3284\|יַֽעֲנָ֔ה]] [[H9002\|וּ]][[H8163C\|שְׂעִירִ֖ים]] [[H7540\|יְרַקְּדוּ]][[H9014\|־]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CYRUS|CYRUS]] • [[topic OSTRICHES|OSTRICHES]] • [[topic OWL|OWL]] • [[topic SATYR|SATYR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.13.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.13.20|<< Isaiah 13:20]]</td><td align="center" style="border:none;">[[Isa.13|Isaiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.13.22|Isaiah 13:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

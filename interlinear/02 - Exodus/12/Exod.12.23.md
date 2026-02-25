@@ -1,8 +1,76 @@
+---
+title: Exodus 12:23
+type: Verse
+kjv: "For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite you."
+bsb: "When the LORD passes through to strike down the Egyptians, He will see the blood on the top and sides of the doorframe and will pass over that doorway; so He will not allow the destroyer to enter your houses and strike you down."
+hebrew: "וְעָבַ֣ר יְהוָה֮ לִנְגֹּ֣ף אֶת־ מִצְרַיִם֒ וְרָאָ֤ה אֶת־ הַדָּם֙ עַל־ הַמַּשְׁק֔וֹף וְעַ֖ל שְׁתֵּ֣י הַמְּזוּזֹ֑ת וּפָסַ֤ח יְהוָה֙ עַל־ הַפֶּ֔תַח וְלֹ֤א יִתֵּן֙ הַמַּשְׁחִ֔ית לָבֹ֥א אֶל־ בָּתֵּיכֶ֖ם לִנְגֹּֽף׃"
+pericope: "[[Exod.12.14 The Feast of Unleavened Bread|The Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 12
+book/chapter: "[[Exod.12|Exodus 12]]"
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PASSOVER|PASSOVER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H5062]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4714G]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H1818]]"
+- "[[H5921A]]"
+- "[[H4947]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H4201]]"
+- "[[H6452A]]"
+- "[[H6607]]"
+- "[[H3808]]"
+- "[[H5414K]]"
+- "[[H7843]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H1004B]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 12:23**<big><big>[[Exod.12.14 The Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD will pass through to smite the Egyptians; and when he seeth the blood upon the lintel, and on the two side posts, the LORD will pass over the door, and will not suffer the destroyer to come in unto your houses to smite [you].
 <small><sub>**BSB:**</sub></small>
 When the LORD passes through to strike down the Egyptians, He will see the blood on the top and sides of the doorframe and will pass over that doorway; so He will not allow the destroyer to enter your houses and strike you down.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5674A\|עָבַ֣ר]] [[H3068G\|יְהוָה֮]] [[H9005\|לִ]][[H5062\|נְגֹּ֣ף]] [[H0853\|אֶת]][[H9014\|־]] [[H4714G\|מִצְרַיִם֒]] [[H9001\|וְ]][[H7200G\|רָאָ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1818\|דָּם֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4947\|מַּשְׁק֔וֹף]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H8147\|שְׁתֵּ֣י]] [[H9009\|הַ]][[H4201\|מְּזוּזֹ֑ת]] [[H9001\|וּ]][[H6452A\|פָסַ֤ח]] [[H3068G\|יְהוָה֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H6607\|פֶּ֔תַח]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H5414K\|יִתֵּן֙]] [[H9009\|הַ]][[H7843\|מַּשְׁחִ֔ית]] [[H9005\|לָ]][[H0935G\|בֹ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בָּתֵּי]][[H9026\|כֶ֖ם]] [[H9005\|לִ]][[H5062\|נְגֹּֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MONTH|MONTH]] • [[topic PASSOVER|PASSOVER]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.12.22|<< Exodus 12:22]]</td><td align="center" style="border:none;">[[Exod.12|Exodus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.12.24|Exodus 12:24 >>]]</td></tr></table>
 

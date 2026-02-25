@@ -1,8 +1,73 @@
+---
+title: Esther 2:14
+type: Verse
+kjv: "In the evening she went, and on the morrow she returned into the second house of the women, to the custody of Shaashgaz, the king’s chamberlain, which kept the concubines: she came in unto the king no more, except the king delighted in her, and that she were called by name."
+bsb: "She would go there in the evening, and in the morning she would return to a second harem under the care of Shaashgaz, the king’s eunuch in charge of the concubines. She would not return to the king unless he delighted in her and summoned her by name."
+hebrew: "בָּעֶ֣רֶב׀ הִ֣יא בָאָ֗ה וּ֠בַבֹּקֶר הִ֣יא שָׁבָ֞ה אֶל־ בֵּ֤ית הַנָּשִׁים֙ שֵׁנִ֔י אֶל־ יַ֧ד שַֽׁעֲשְׁגַ֛ז סְרִ֥יס הַמֶּ֖לֶךְ שֹׁמֵ֣ר הַפִּֽילַגְשִׁ֑ים לֹא־ תָב֥וֹא עוֹד֙ אֶל־ הַמֶּ֔לֶךְ כִּ֣י אִם־ חָפֵ֥ץ בָּ֛הּ הַמֶּ֖לֶךְ וְנִקְרְאָ֥ה בְשֵֽׁם׃"
+pericope: "[[Esth.2.5 Esther Finds Favor|Esther Finds Favor]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SHAASHGAZ|SHAASHGAZ]]"
+strongs:
+- "[[H9003]]"
+- "[[H6153]]"
+- "[[H9015]]"
+- "[[H1931]]"
+- "[[H0935G]]"
+- "[[H9002]]"
+- "[[H1242]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004P]]"
+- "[[H9009]]"
+- "[[H0802H]]"
+- "[[H8145]]"
+- "[[H3027H]]"
+- "[[H8190]]"
+- "[[H5631]]"
+- "[[H4428G]]"
+- "[[H8104H]]"
+- "[[H6370]]"
+- "[[H3808]]"
+- "[[H5750]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H2654A]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H8034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:14**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the evening she went, and on the morrow she returned into the second house of the women, to the custody of Shaashgaz, the king’s chamberlain, which kept the concubines: she came in unto the king no more, except the king delighted in her, and that she were called by name.
 <small><sub>**BSB:**</sub></small>
 She would go there in the evening, and in the morning she would return to a second harem under the care of Shaashgaz, the king’s eunuch in charge of the concubines. She would not return to the king unless he delighted in her and summoned her by name.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בָּ]][[H6153\|עֶ֣רֶב]][[H9015\|׀]] [[H1931\|הִ֣יא]] [[H0935G\|בָאָ֗ה]] [[H9002\|וּ֠]][[H9003\|בַ]][[H1242\|בֹּקֶר]] [[H1931\|הִ֣יא]] [[H7725G\|שָׁבָ֞ה]] [[H0413\|אֶל]][[H9014\|־]] [[H1004P\|בֵּ֤ית]] [[H9009\|הַ]][[H0802H\|נָּשִׁים֙]] [[H8145\|שֵׁנִ֔י]] [[H0413\|אֶל]][[H9014\|־]] [[H3027H\|יַ֧ד]] [[H8190\|שַֽׁעֲשְׁגַ֛ז]] [[H5631\|סְרִ֥יס]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H8104H\|שֹׁמֵ֣ר]] [[H9009\|הַ]][[H6370\|פִּֽילַגְשִׁ֑ים]] [[H3808\|לֹא]][[H9014\|־]] [[H0935G\|תָב֥וֹא]] [[H5750\|עוֹד֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H2654A\|חָפֵ֥ץ]] [[H9003\|בָּ֛]][[H9034\|הּ]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9001\|וְ]][[H7121G\|נִקְרְאָ֥ה]] [[H9003\|בְ]][[H8034\|שֵֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SHAASHGAZ|SHAASHGAZ]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.13|<< Esther 2:13]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.15|Esther 2:15 >>]]</td></tr></table>
 

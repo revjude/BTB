@@ -1,8 +1,67 @@
+---
+title: Leviticus 2:11
+type: Verse
+kjv: "No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire."
+bsb: "No grain offering that you present to the LORD may be made with leaven, for you are not to burn any leaven or honey as a food offering to the LORD."
+hebrew: "כָּל־ הַמִּנְחָ֗ה אֲשֶׁ֤ר תַּקְרִ֙יבוּ֙ לַיהוָ֔ה לֹ֥א תֵעָשֶׂ֖ה חָמֵ֑ץ כִּ֤י כָל־ שְׂאֹר֙ וְכָל־ דְּבַ֔שׁ לֹֽא־ תַקְטִ֧ירוּ מִמֶּ֛נּוּ אִשֶּׁ֖ה לַֽיהוָֽה׃"
+pericope: "[[Lev.2.1 Laws for Grain Offerings|Laws for Grain Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 2
+book/chapter: "[[Lev.2|Leviticus 2]]"
+chronological_order: 134
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic HONEY|HONEY]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4503G]]"
+- "[[H0834A]]"
+- "[[H7126H]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H6213H]]"
+- "[[H2557A]]"
+- "[[H3588A]]"
+- "[[H7603]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H6999A]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H0801]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 2:11**<big><big>[[Lev.2.1 Laws for Grain Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire.
 <small><sub>**BSB:**</sub></small>
 No grain offering that you present to the LORD may be made with leaven, for you are not to burn any leaven or honey as a food offering to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4503G\|מִּנְחָ֗ה]] [[H0834A\|אֲשֶׁ֤ר]] [[H7126H\|תַּקְרִ֙יבוּ֙]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H3808\|לֹ֥א]] [[H6213H\|תֵעָשֶׂ֖ה]] [[H2557A\|חָמֵ֑ץ]] [[H3588A\|כִּ֤י]] [[H3605\|כָל]][[H9014\|־]] [[H7603\|שְׂאֹר֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1706\|דְּבַ֔שׁ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6999A\|תַקְטִ֧ירוּ]] [[H4480A\|מִמֶּ֛]][[H9033\|נּוּ]] [[H0801\|אִשֶּׁ֖ה]] [[H9005\|לַֽ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HONEY|HONEY]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.2.10|<< Leviticus 2:10]]</td><td align="center" style="border:none;">[[Lev.2|Leviticus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.2.12|Leviticus 2:12 >>]]</td></tr></table>
 

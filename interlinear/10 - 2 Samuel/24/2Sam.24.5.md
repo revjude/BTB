@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 24:5
+type: Verse
+kjv: "And they passed over Jordan, and pitched in Aroer, on the right side of the city that lieth in the midst of the river of Gad, and toward Jazer:"
+bsb: "They crossed the Jordan and camped near Aroer, south of the town in the middle of the valley, and proceeded toward Gad and Jazer."
+hebrew: "וַיַּעַבְר֖וּ אֶת־ הַיַּרְדֵּ֑ן וַיַּחֲנ֣וּ בַעֲרוֹעֵ֗ר יְמִ֥ין הָעִ֛יר אֲשֶׁ֛ר בְּתוֹךְ־ הַנַּ֥חַל הַגָּ֖ד וְאֶל־ יַעְזֵֽר׃"
+pericope: "[[2Sam.24.1 David’s Military Census|David’s Military Census]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H2583]]"
+- "[[H9003]]"
+- "[[H6177G]]"
+- "[[H3225H]]"
+- "[[H5892B]]"
+- "[[H0834A]]"
+- "[[H8432]]"
+- "[[H5158N]]"
+- "[[H1410G]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H3270G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 24:5**<big><big>[[2Sam.24.1 David’s Military Census|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they passed over Jordan, and pitched in Aroer, on the right side of the city that [lieth] in the midst of the river of Gad, and toward Jazer:
 <small><sub>**BSB:**</sub></small>
 They crossed the Jordan and camped near Aroer, south of the town in the middle of the valley, and proceeded toward Gad and Jazer.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5674A\|יַּעַבְר֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9001\|וַ]][[H2583\|יַּחֲנ֣וּ]] [[H9003\|בַ]][[H6177G\|עֲרוֹעֵ֗ר]] [[H3225H\|יְמִ֥ין]] [[H9009\|הָ]][[H5892B\|עִ֛יר]] [[H0834A\|אֲשֶׁ֛ר]] [[H9003\|בְּ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הַ]][[H5158N\|נַּ֥חַל]] [[H9009\|הַ]][[H1410G\|גָּ֖ד]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3270G\|יַעְזֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CENSUS|CENSUS]] • [[topic ISRAEL|ISRAEL]] • [[topic JOAB|JOAB]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.4|<< 2 Samuel 24:4]]</td><td align="center" style="border:none;">[[2Sam.24|2 Samuel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.24.6|2 Samuel 24:6 >>]]</td></tr></table>
 

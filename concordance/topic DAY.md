@@ -5,7 +5,7 @@
 
 → Divided into twelve hours [[John.11.9|Joh 11:9]]
 
-→ Prophetic [[2Pet.3.8|2Pe 3:8]]; [[Dan.8.14|Da 8:14]]; [[Dan.9.24|9:24]]-[[Dan.9.27|27]]; [[Dan.12.11|12:11]],[[Dan.12.12|12]]; [[Rev.11.3|Re 11:3]];  [[Rev.9.15|9:15]]; [[Rev.12.6|12:6]]
+→ Prophetic [[2Pet.3.8|2Pe 3:8]]; [[Dan.8.14|Da 8:14]]; [[Dan.9.24|9:24-27]]; [[Dan.12.11|12:11]],[[Dan.12.12|12]]; [[Rev.11.3|Re 11:3]];  [[Rev.9.15|9:15]]; [[Rev.12.6|12:6]]
 
 → Six working days ordained [[Exod.20.9|Ex 20:9]]; [[Ezek.46.1|Eze 46:1]]
 

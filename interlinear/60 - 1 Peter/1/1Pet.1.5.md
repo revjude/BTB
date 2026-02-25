@@ -1,10 +1,61 @@
+---
+title: 1 Peter 1:5
+type: Verse
+kjv: "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time."
+bsb: "who through faith are shielded by God’s power for the salvation that is ready to be revealed in the last time."
+greek: "τοὺς ἐν δυνάμει θεοῦ φρουρουμένους διὰ πίστεως εἰς σωτηρίαν ἑτοίμην ἀποκαλυφθῆναι ἐν καιρῷ ἐσχάτῳ·"
+pericope: "[[1Pet.1.3 A Living Hope|A Living Hope]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G1411]]"
+- "[[G2316]]"
+- "[[G5432]]"
+- "[[G1223]]"
+- "[[G4102G]]"
+- "[[G1519]]"
+- "[[G4991]]"
+- "[[G2092]]"
+- "[[G0601]]"
+- "[[G2540]]"
+- "[[G2078]]"
+texts:
+- NKO
+---
+
 **1 Peter 1:5**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.
 <small><sub>**BSB:**</sub></small>
 who through faith are shielded by God’s power for the salvation that is ready to be revealed in the last time.
-<small><sub>**Literal:**</sub></small>
-who by [the] power of God [are] being guarded through faith for [the] salvation ready to be revealed in [the] time last;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.4|<< 1 Peter 1:4]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.6|1 Peter 1:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G1411\|δυνάμει]]  [[G2316\|θεοῦ]]  [[G5432\|φρουρουμένους]]  [[G1223\|διὰ]]  [[G4102G\|πίστεως]]  [[G1519\|εἰς]]  [[G4991\|σωτηρίαν]]  [[G2092\|ἑτοίμην]]  [[G0601\|ἀποκαλυφθῆναι]]  [[G1722\|ἐν]]  [[G2540\|καιρῷ]]  [[G2078\|ἐσχάτῳ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic POWER|POWER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.4|<< 1 Peter 1:4]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.6|1 Peter 1:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

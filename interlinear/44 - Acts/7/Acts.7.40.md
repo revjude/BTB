@@ -1,10 +1,65 @@
+---
+title: Acts 7:40
+type: Verse
+kjv: "Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him."
+bsb: "They said to Aaron, ‘Make us gods who will go before us! As for this Moses who led us out of the land of Egypt, we do not know what has happened to him.’"
+greek: "εἰπόντες τῷ Ἀαρών· ποίησον ἡμῖν θεοὺς οἳ προπορεύσονται ἡμῶν· ὁ γὰρ Μωϋσῆς οὗτος ὃς ἐξήγαγεν ἡμᾶς ἐκ γῆς Αἰγύπτου, οὐκ οἴδαμεν τί ἐγένετο αὐτῷ."
+pericope: "[[Acts.7.39 The Rebellion of Israel|The Rebellion of Israel]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G0002]]"
+- "[[G4160G]]"
+- "[[G3165]]"
+- "[[G2316]]"
+- "[[G3739]]"
+- "[[G4313]]"
+- "[[G1063]]"
+- "[[G3475]]"
+- "[[G3778]]"
+- "[[G1806]]"
+- "[[G1537]]"
+- "[[G1093H]]"
+- "[[G0125]]"
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G5101]]"
+- "[[G1096]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 7:40**<big><big>[[Acts.7.39 The Rebellion of Israel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying unto Aaron, Make us gods to go before us: for [as for] this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
 <small><sub>**BSB:**</sub></small>
 They said to Aaron, ‘Make us gods who will go before us! As for this Moses who led us out of the land of Egypt, we do not know what has happened to him.’
-<small><sub>**Literal:**</sub></small>
-having said <the> to Aaron; do make us gods who will go before us; <the> As for Moses this who brought out us from [the] land of Egypt, not we know what happened to him.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.39|<< Acts 7:39]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.41|Acts 7:41 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἰπόντες]]  [[G3588\|τῷ]]  [[G0002\|Ἀαρών·]]  [[G4160G\|ποίησον]]  [[G3165\|ἡμῖν]]  [[G2316\|θεοὺς]]  [[G3739\|οἳ]]  [[G4313\|προπορεύσονται]]  [[G3165\|ἡμῶν·]]  [[G3588\|ὁ]]  [[G1063\|γὰρ]]  [[G3475\|Μωϋσῆς]]  [[G3778\|οὗτος]]  [[G3739\|ὃς]]  [[G1806\|ἐξήγαγεν]]  [[G3165\|ἡμᾶς]]  [[G1537\|ἐκ]]  [[G1093H\|γῆς]]  [[G0125\|Αἰγύπτου,]]  [[G3756\|οὐκ]]  [[G6063\|οἴδαμεν]]  [[G5101\|τί]]  [[G1096\|ἐγένετο]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic APOSTASY|APOSTASY]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.39|<< Acts 7:39]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.41|Acts 7:41 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:40** is...
 > $\quad$ referencing: [[LXX.Exod.32.1|Exod 32:1]] ☩ [[LXX.Exod.32.23|Exod 32:23]]

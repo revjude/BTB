@@ -1,10 +1,57 @@
+---
+title: Ephesians 6:20
+type: Verse
+kjv: "For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak."
+bsb: "for which I am an ambassador in chains. Pray that I may proclaim it fearlessly, as I should."
+greek: "ὑπὲρ οὗ πρεσβεύω ἐν ἁλύσει, ἵνα ἐν αὐτῷ παρρησιάσωμαι ὡς δεῖ με λαλῆσαι.¶"
+pericope: "[[Eph.6.10 The Full Armor of God|The Full Armor of God]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 6
+book/chapter: "[[Eph.6|Ephesians 6]]"
+chronological_order: 1116
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5228]]"
+- "[[G3739]]"
+- "[[G4243]]"
+- "[[G1722]]"
+- "[[G0254]]"
+- "[[G2443]]"
+- "[[G0846]]"
+- "[[G3955]]"
+- "[[G5613]]"
+- "[[G1163]]"
+- "[[G3165]]"
+- "[[G2980]]"
+texts:
+- NKO
+---
+
 **Ephesians 6:20**<big><big>[[Eph.6.10 The Full Armor of God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For which I am an ambassador in bonds: that therein I may speak boldly, as I ought to speak.
 <small><sub>**BSB:**</sub></small>
 for which I am an ambassador in chains. Pray that I may proclaim it fearlessly, as I should.
-<small><sub>**Literal:**</sub></small>
-for which I am an ambassador in a chain, that in it I may be bold as it behooves me to speak.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.19|<< Ephesians 6:19]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.21|Ephesians 6:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5228\|ὑπὲρ]]  [[G3739\|οὗ]]  [[G4243\|πρεσβεύω]]  [[G1722\|ἐν]]  [[G0254\|ἁλύσει,]]  [[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ]]  [[G3955\|παρρησιάσωμαι]]  [[G5613\|ὡς]]  [[G1163\|δεῖ]]  [[G3165\|με]]  [[G2980\|λαλῆσαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic GOSPEL|GOSPEL]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.6.19|<< Ephesians 6:19]]</td><td align="center" style="border:none;">[[Eph.6|Ephesians 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.21|Ephesians 6:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

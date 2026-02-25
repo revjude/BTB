@@ -1,8 +1,66 @@
+---
+title: Jeremiah 30:17
+type: Verse
+kjv: "For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, saying, This is Zion, whom no man seeketh after."
+bsb: "But I will restore your health and heal your wounds, declares the LORD, because they call you an outcast, Zion, for whom no one cares.”"
+hebrew: "כִּי֩ אַעֲלֶ֨ה אֲרֻכָ֥ה לָ֛ךְ וּמִמַּכּוֹתַ֥יִךְ אֶרְפָּאֵ֖ךְ נְאֻם־ יְהוָ֑ה כִּ֤י נִדָּחָה֙ קָ֣רְאוּ לָ֔ךְ צִיּ֣וֹן הִ֔יא דֹּרֵ֖שׁ אֵ֥ין לָֽהּ׃ ס"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5927H]]"
+- "[[H0724]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H4347]]"
+- "[[H9022]]"
+- "[[H7495]]"
+- "[[H5002]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H5080]]"
+- "[[H7121H]]"
+- "[[H6726]]"
+- "[[H1931]]"
+- "[[H1875]]"
+- "[[H0369]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 30:17**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I will restore health unto thee, and I will heal thee of thy wounds, saith the LORD; because they called thee an Outcast, [saying], This [is] Zion, whom no man seeketh after.
 <small><sub>**BSB:**</sub></small>
 But I will restore your health and heal your wounds, declares the LORD, because they call you an outcast, Zion, for whom no one cares.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H5927H\|אַעֲלֶ֨ה]] [[H0724\|אֲרֻכָ֥ה]] [[H9005\|לָ֛]][[H9032\|ךְ]] [[H9002\|וּ]][[H9006\|מִ]][[H4347\|מַּכּוֹתַ֥יִ]][[H9022\|ךְ]] [[H7495\|אֶרְפָּאֵ֖]][[H9032\|ךְ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H3588A\|כִּ֤י]] [[H5080\|נִדָּחָה֙]] [[H7121H\|קָ֣רְאוּ]] [[H9005\|לָ֔]][[H9032\|ךְ]] [[H6726\|צִיּ֣וֹן]] [[H1931\|הִ֔יא]] [[H1875\|דֹּרֵ֖שׁ]] [[H0369\|אֵ֥ין]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.16|<< Jeremiah 30:16]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.18|Jeremiah 30:18 >>]]</td></tr></table>
 
@@ -24,7 +82,7 @@ But I will restore your health and heal your wounds, declares the LORD, because 
 | it  |**<big>&#8207;[[H1931\|הִ֔יא]]&#8207; </big>**| Hi'<small><sup>[[HPp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is one who] cares  |**<big>&#8207;[[H1875\|דֹּרֵ֖שׁ]]&#8207; </big>**| do.Resh<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | there not  |**<big>&#8207;[[H0369\|אֵ֥ין]]&#8207; </big>**| 'ein<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for \<the> it  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for \<the> it  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9034\|הּ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| La<small><sup>[[HRd]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.16|<< Jeremiah 30:16]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.18|Jeremiah 30:18 >>]]</td></tr></table>
 
 

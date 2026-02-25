@@ -1,8 +1,67 @@
+---
+title: Ruth 2:19
+type: Verse
+kjv: "And her mother in law said unto her, Where hast thou gleaned to day? and where wroughtest thou? blessed be he that did take knowledge of thee. And she shewed her mother in law with whom she had wrought, and said, The man’s name with whom I wrought to day is Boaz."
+bsb: "Then her mother-in-law asked her, “Where did you glean today, and where did you work? Blessed be the man who noticed you.” So she told her mother-in-law where she had worked. “The name of the man I worked with today is Boaz,” she said."
+hebrew: "וַתֹּאמֶר֩ לָ֨הּ חֲמוֹתָ֜הּ אֵיפֹ֨ה לִקַּ֤טְתְּ הַיּוֹם֙ וְאָ֣נָה עָשִׂ֔ית יְהִ֥י מַכִּירֵ֖ךְ בָּר֑וּךְ וַתַּגֵּ֣ד לַחֲמוֹתָ֗הּ אֵ֤ת אֲשֶׁר־ עָשְׂתָה֙ עִמּ֔וֹ וַתֹּ֗אמֶר שֵׁ֤ם הָאִישׁ֙ אֲשֶׁ֨ר עָשִׂ֧יתִי עִמּ֛וֹ הַיּ֖וֹם בֹּֽעַז׃"
+pericope: "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 2
+book/chapter: "[[Ruth.2|Ruth 2]]"
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H2545]]"
+- "[[H9024]]"
+- "[[H0375]]"
+- "[[H3950]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H0575]]"
+- "[[H6213A]]"
+- "[[H1961]]"
+- "[[H5234A]]"
+- "[[H9032]]"
+- "[[H1288]]"
+- "[[H5046]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H8034]]"
+- "[[H0376G]]"
+- "[[H1162G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 2:19**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And her mother in law said unto her, Where hast thou gleaned to day? and where wroughtest thou? blessed be he that did take knowledge of thee. And she shewed her mother in law with whom she had wrought, and said, The man’s name with whom I wrought to day [is] Boaz.
 <small><sub>**BSB:**</sub></small>
 Then her mother-in-law asked her, “Where did you glean today, and where did you work? Blessed be the man who noticed you.” So she told her mother-in-law where she had worked. “The name of the man I worked with today is Boaz,” she said.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּאמֶר֩]] [[H9005\|לָ֨]][[H9034\|הּ]] [[H2545\|חֲמוֹתָ֜]][[H9024\|הּ]] [[H0375\|אֵיפֹ֨ה]] [[H3950\|לִקַּ֤טְתְּ]] [[H9009\|הַ]][[H3117G\|יּוֹם֙]] [[H9002\|וְ]][[H0575\|אָ֣נָה]] [[H6213A\|עָשִׂ֔ית]] [[H1961\|יְהִ֥י]] [[H5234A\|מַכִּירֵ֖]][[H9032\|ךְ]] [[H1288\|בָּר֑וּךְ]] [[H9001\|וַ]][[H5046\|תַּגֵּ֣ד]] [[H9005\|לַ]][[H2545\|חֲמוֹתָ֗]][[H9024\|הּ]] [[H0853\|אֵ֤ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשְׂתָה֙]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H0559\|תֹּ֗אמֶר]] [[H8034\|שֵׁ֤ם]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H6213A\|עָשִׂ֧יתִי]] [[H5973A\|עִמּ֛]][[H9033\|וֹ]] [[H9009\|הַ]][[H3117G\|יּ֖וֹם]] [[H1162G\|בֹּֽעַז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.18|<< Ruth 2:18]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.20|Ruth 2:20 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Leviticus 13:27
+type: Verse
+kjv: "And the priest shall look upon him the seventh day: and if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it is the plague of leprosy."
+bsb: "On the seventh day the priest is to reexamine him, and if it has spread further on the skin, the priest must pronounce him unclean; it is a diseased infection."
+hebrew: "וְרָאָ֥הוּ הַכֹּהֵ֖ן בַּיּ֣וֹם הַשְּׁבִיעִ֑י אִם־ פָּשֹׂ֤ה תִפְשֶׂה֙ בָּע֔וֹר וְטִמֵּ֤א הַכֹּהֵן֙ אֹת֔וֹ נֶ֥גַע צָרַ֖עַת הִֽוא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7637]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6581]]"
+- "[[H5785]]"
+- "[[H2930A]]"
+- "[[H0853]]"
+- "[[H5061]]"
+- "[[H6883]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:27**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall look upon him the seventh day: [and] if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it [is] the plague of leprosy.
 <small><sub>**BSB:**</sub></small>
 On the seventh day the priest is to reexamine him, and if it has spread further on the skin, the priest must pronounce him unclean; it is a diseased infection.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7200G\|רָאָ֥]][[H9033\|הוּ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֖ן]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֑י]] [[H0518A\|אִם]][[H9014\|־]] [[H6581\|פָּשֹׂ֤ה]] [[H6581\|תִפְשֶׂה֙]] [[H9003\|בָּ]][[H5785\|ע֔וֹר]] [[H9001\|וְ]][[H2930A\|טִמֵּ֤א]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H5061\|נֶ֥גַע]] [[H6883\|צָרַ֖עַת]] [[H1931\|הִֽוא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.26|<< Leviticus 13:26]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.28|Leviticus 13:28 >>]]</td></tr></table>
 

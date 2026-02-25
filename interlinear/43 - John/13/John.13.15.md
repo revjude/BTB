@@ -1,10 +1,54 @@
+---
+title: John 13:15
+type: Verse
+kjv: "For I have given you an example, that ye should do as I have done to you."
+bsb: "I have set you an example so that you should do as I have done for you."
+jesus_said: "For I have given you an example, that ye should do as I have done to you."
+greek: "ὑπόδειγμα γὰρ ἔδωκα ὑμῖν, ἵνα καθὼς ἐγὼ ἐποίησα ὑμῖν καὶ ὑμεῖς ποιῆτε."
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G5262]]"
+- "[[G1063]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G2531]]"
+- "[[G1473]]"
+- "[[G4160G]]"
+- "[[G2532]]"
+texts:
+- NKO
+---
+
 **John 13:15**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I have given you an example, that ye should do as I have done to you.
 <small><sub>**BSB:**</sub></small>
 I have set you an example so that you should do as I have done for you.
-<small><sub>**Literal:**</sub></small>
-A pattern for I gave you, that even as I myself did to you also you yourselves may do.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.14|<< John 13:14]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.16|John 13:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5262\|ὑπόδειγμα]]  [[G1063\|γὰρ]]  [[G1325\|ἔδωκα]]  [[G4771\|ὑμῖν,]]  [[G2443\|ἵνα]]  [[G2531\|καθὼς]]  [[G1473\|ἐγὼ]]  [[G4160G\|ἐποίησα]]  [[G4771\|ὑμῖν]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G4160G\|ποιῆτε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.14|<< John 13:14]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.16|John 13:16 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

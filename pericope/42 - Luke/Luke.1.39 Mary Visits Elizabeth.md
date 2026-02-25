@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Mary Visits Elizabeth
+type: Pericope
 pericope: "[[Luke.1.39 Mary Visits Elizabeth|Mary Visits Elizabeth]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Luke
 chapter: 1
 book/chapter: "[[Luke.1|Luke 1]]"
-genre:
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 7
 verses:
 - "[[Luke.1.39]]"
 - "[[Luke.1.40]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Luke.1.45]]"
 ---
 
-[[Luke.1|Luke 1:39 - Luke 1:45]]
+<small>[[Luke.1|Luke 1:39-45]]</small>
 *Mary Visits Elizabeth*
 
 [[Luke.1.39|39]] And Mary arose in those days, and went into the hill country with haste, into a city of Juda;

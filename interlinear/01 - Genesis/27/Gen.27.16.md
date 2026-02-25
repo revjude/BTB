@@ -1,8 +1,68 @@
+---
+title: Genesis 27:16
+type: Verse
+kjv: "And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:"
+bsb: "She also put the skins of the young goats on his hands and on the smooth part of his neck."
+hebrew: "וְאֵ֗ת עֹרֹת֙ גְּדָיֵ֣י הָֽעִזִּ֔ים הִלְבִּ֖ישָׁה עַל־ יָדָ֑יו וְעַ֖ל חֶלְקַ֥ת צַוָּארָֽיו׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H5785]]"
+- "[[H1423]]"
+- "[[H9009]]"
+- "[[H5795]]"
+- "[[H3847]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H2513B]]"
+- "[[H6677A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:16**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she put the skins of the kids of the goats upon his hands, and upon the smooth of his neck:
 <small><sub>**BSB:**</sub></small>
 She also put the skins of the young goats on his hands and on the smooth part of his neck.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵ֗ת]] [[H5785\|עֹרֹת֙]] [[H1423\|גְּדָיֵ֣י]] [[H9009\|הָֽ]][[H5795\|עִזִּ֔ים]] [[H3847\|הִלְבִּ֖ישָׁה]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יָדָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H5921A\|עַ֖ל]] [[H2513B\|חֶלְקַ֥ת]] [[H6677A\|צַוָּארָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.15|<< Genesis 27:15]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.17|Genesis 27:17 >>]]</td></tr></table>
 

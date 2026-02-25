@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 14:32
+type: Verse
+kjv: "And Absalom answered Joab, Behold, I sent unto thee, saying, Come hither, that I may send thee to the king, to say, Wherefore am I come from Geshur? it had been good for me to have been there still: now therefore let me see the king’s face; and if there be any iniquity in me, let him kill me."
+bsb: "“Look,” said Absalom, “I sent for you and said, ‘Come here. I want to send you to the king to ask: Why have I come back from Geshur? It would be better for me if I were still there.’ So now, let me see the king’s face, and if there is iniquity in me, let him kill me.”"
+hebrew: "וַיֹּ֣אמֶר אַבְשָׁל֣וֹם אֶל־ יוֹאָ֡ב הִנֵּ֣ה שָׁלַ֣חְתִּי אֵלֶ֣יךָ׀ לֵאמֹ֡ר בֹּ֣א הֵ֠נָּה וְאֶשְׁלְחָה֩ אֹתְךָ֨ אֶל־ הַמֶּ֜לֶךְ לֵאמֹ֗ר לָ֤מָּה בָּ֙אתִי֙ מִגְּשׁ֔וּר ט֥וֹב לִ֖י עֹ֣ד אֲנִי־ שָׁ֑ם וְעַתָּ֗ה אֶרְאֶה֙ פְּנֵ֣י הַמֶּ֔לֶךְ וְאִם־ יֶשׁ־ בִּ֥י עָוֹ֖ן וֶהֱמִתָֽנִי׃"
+pericope: "[[2Sam.14.28 Absalom Reconciled to David|Absalom Reconciled to David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0053]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3097G]]"
+- "[[H2009]]"
+- "[[H7971G]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0935G]]"
+- "[[H2008]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H4100]]"
+- "[[H9006]]"
+- "[[H1650]]"
+- "[[H2896A]]"
+- "[[H9030]]"
+- "[[H5750]]"
+- "[[H0589]]"
+- "[[H8033G]]"
+- "[[H6258]]"
+- "[[H7200G]]"
+- "[[H6440G]]"
+- "[[H0518A]]"
+- "[[H3426]]"
+- "[[H9003]]"
+- "[[H5771H]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:32**<big><big>[[2Sam.14.28 Absalom Reconciled to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Absalom answered Joab, Behold, I sent unto thee, saying, Come hither, that I may send thee to the king, to say, Wherefore am I come from Geshur? [it had been] good for me [to have been] there still: now therefore let me see the king’s face; and if there be [any] iniquity in me, let him kill me.
 <small><sub>**BSB:**</sub></small>
 “Look,” said Absalom, “I sent for you and said, ‘Come here. I want to send you to the king to ask: Why have I come back from Geshur? It would be better for me if I were still there.’ So now, let me see the king’s face, and if there is iniquity in me, let him kill me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0053\|אַבְשָׁל֣וֹם]] [[H0413\|אֶל]][[H9014\|־]] [[H3097G\|יוֹאָ֡ב]] [[H2009\|הִנֵּ֣ה]] [[H7971G\|שָׁלַ֣חְתִּי]] [[H0413\|אֵלֶ֣י]][[H9031\|ךָ]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹ֡ר]] [[H0935G\|בֹּ֣א]] [[H2008\|הֵ֠נָּה]] [[H9002\|וְ]][[H7971G\|אֶשְׁלְחָה֩]] [[H0853\|אֹתְ]][[H9031\|ךָ֨]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֜לֶךְ]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H9005\|לָ֤]][[H4100\|מָּה]] [[H0935G\|בָּ֙אתִי֙]] [[H9006\|מִ]][[H1650\|גְּשׁ֔וּר]] [[H2896A\|ט֥וֹב]] [[H9005\|לִ֖]][[H9030\|י]] [[H5750\|עֹ֣ד]] [[H0589\|אֲנִי]][[H9014\|־]] [[H8033G\|שָׁ֑ם]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H7200G\|אֶרְאֶה֙]] [[H6440G\|פְּנֵ֣י]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֶשׁ]][[H9014\|־]] [[H9003\|בִּ֥]][[H9030\|י]] [[H5771H\|עָוֹ֖ן]] [[H9001\|וֶ]][[H4191\|הֱמִתָֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.31|<< 2 Samuel 14:31]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.33|2 Samuel 14:33 >>]]</td></tr></table>
 

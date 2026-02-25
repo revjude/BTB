@@ -1,10 +1,58 @@
+---
+title: Romans 2:14
+type: Verse
+kjv: "For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:"
+bsb: "Indeed, when Gentiles, who do not have the law, do by nature what the law requires, they are a law to themselves, even though they do not have the law."
+greek: "ὅταν γὰρ ἔθνη τὰ μὴ νόμον ἔχοντα φύσει τὰ τοῦ νόμου ποιῶσιν, οὗτοι νόμον μὴ ἔχοντες ἑαυτοῖς εἰσιν νόμος,"
+pericope: "[[Rom.2.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 2
+book/chapter: "[[Rom.2|Romans 2]]"
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic DOER|DOER]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LAW|LAW]]"
+strongs:
+- "[[G3752]]"
+- "[[G1063]]"
+- "[[G1484]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G3551]]"
+- "[[G2192]]"
+- "[[G5449]]"
+- "[[G4160G]]"
+- "[[G3778]]"
+- "[[G1438]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 2:14**<big><big>[[Rom.2.1 God’s Righteous Judgment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For when the Gentiles, which have not the law, do by nature the things contained in the law, these, having not the law, are a law unto themselves:
 <small><sub>**BSB:**</sub></small>
 Indeed, when Gentiles, who do not have the law, do by nature what the law requires, they are a law to themselves, even though they do not have the law.
-<small><sub>**Literal:**</sub></small>
-When for Gentiles <the> not the law having by nature the [things] of the law they may do, these [the] Law not having to themselves are a law,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.13|<< Romans 2:13]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.15|Romans 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3752\|ὅταν]]  [[G1063\|γὰρ]]  [[G1484\|ἔθνη]]  [[G3588\|τὰ]]  [[G3361\|μὴ]]  [[G3551\|νόμον]]  [[G2192\|ἔχοντα]]  [[G5449\|φύσει]]  [[G3588\|τὰ]]  [[G3588\|τοῦ]]  [[G3551\|νόμου]]  [[G4160G\|ποιῶσιν,]]  [[G3778\|οὗτοι]]  [[G3551\|νόμον]]  [[G3361\|μὴ]]  [[G2192\|ἔχοντες]]  [[G1438\|ἑαυτοῖς]]  [[G1510\|εἰσιν]]  [[G3551\|νόμος,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic DOER|DOER]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LAW|LAW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.2.13|<< Romans 2:13]]</td><td align="center" style="border:none;">[[Rom.2|Romans 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.2.15|Romans 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

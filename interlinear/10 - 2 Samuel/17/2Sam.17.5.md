@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 17:5
+type: Verse
+kjv: "Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he saith."
+bsb: "Then Absalom said, “Summon Hushai the Archite as well, and let us hear what he too has to say.”"
+hebrew: "וַיֹּ֙אמֶר֙ אַבְשָׁל֔וֹם קְרָ֣א נָ֔א גַּ֖ם לְחוּשַׁ֣י הָאַרְכִּ֑י וְנִשְׁמְעָ֥ה מַה־ בְּפִ֖יו גַּם־ הֽוּא׃"
+pericope: "[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|Hushai Counters Ahithophel’s Advice]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 17
+book/chapter: "[[2Sam.17|2 Samuel 17]]"
+chronological_order: 416
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic SPIES|SPIES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0053]]"
+- "[[H7121G]]"
+- "[[H4994]]"
+- "[[H1571]]"
+- "[[H9005]]"
+- "[[H2365]]"
+- "[[H9009]]"
+- "[[H0757]]"
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H6310I]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 17:5**<big><big>[[2Sam.17.1 Hushai Counters Ahithophel’s Advice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he saith.
 <small><sub>**BSB:**</sub></small>
 Then Absalom said, “Summon Hushai the Archite as well, and let us hear what he too has to say.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0053\|אַבְשָׁל֔וֹם]] [[H7121G\|קְרָ֣א]] [[H4994\|נָ֔א]] [[H1571\|גַּ֖ם]] [[H9005\|לְ]][[H2365\|חוּשַׁ֣י]] [[H9009\|הָ]][[H0757\|אַרְכִּ֑י]] [[H9002\|וְ]][[H8085G\|נִשְׁמְעָ֥ה]] [[H4100\|מַה]][[H9014\|־]] [[H9003\|בְּ]][[H6310I\|פִ֖י]][[H9023\|ו]] [[H1571\|גַּם]][[H9014\|־]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic COUNCIL|COUNCIL]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic SPIES|SPIES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.17.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.17.4|<< 2 Samuel 17:4]]</td><td align="center" style="border:none;">[[2Sam.17|2 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.17.6|2 Samuel 17:6 >>]]</td></tr></table>
 

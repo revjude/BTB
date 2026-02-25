@@ -1,10 +1,60 @@
+---
+title: Revelation 21:15
+type: Verse
+kjv: "And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof."
+bsb: "The angel who spoke with me had a golden measuring rod to measure the city and its gates and walls."
+greek: "Καὶ ὁ λαλῶν μετ᾽ ἐμοῦ εἶχεν μέτρον κάλαμον χρυσοῦν ἵνα μετρήσῃ τὴν πόλιν καὶ τοὺς πυλῶνας αὐτῆς καὶ τὸ τεῖχος αὐτῆς."
+pericope: "[[Rev.21.9 The New Jerusalem|The New Jerusalem]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 21
+book/chapter: "[[Rev.21|Revelation 21]]"
+chronological_order: 1188
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REED|REED]]"
+strongs:
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2980]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G2192]]"
+- "[[G3358]]"
+- "[[G2563]]"
+- "[[G5552]]"
+- "[[G2443]]"
+- "[[G3354]]"
+- "[[G4172]]"
+- "[[G4440]]"
+- "[[G0846]]"
+- "[[G5038]]"
+texts:
+- NKO
+- NO
+---
+
 **Revelation 21:15**<big><big>[[Rev.21.9 The New Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he that talked with me had a golden reed to measure the city, and the gates thereof, and the wall thereof.
 <small><sub>**BSB:**</sub></small>
 The angel who spoke with me had a golden measuring rod to measure the city and its gates and walls.
-<small><sub>**Literal:**</sub></small>
-And the [one] speaking with me he had a measuring reed golden so that he may measure the city and the gates of it and the wall of it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.14|<< Revelation 21:14]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.16|Revelation 21:16 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3588\|ὁ]]  [[G2980\|λαλῶν]]  [[G3326\|μετ᾽]]  [[G1473\|ἐμοῦ]]  [[G2192\|εἶχεν]]  [[G3358\|μέτρον]]  [[G2563\|κάλαμον]]  [[G5552\|χρυσοῦν]]  [[G2443\|ἵνα]]  [[G3354\|μετρήσῃ]]  [[G3588\|τὴν]]  [[G4172\|πόλιν]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G4440\|πυλῶνας]]  [[G0846\|αὐτῆς]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5038\|τεῖχος]]  [[G0846\|αὐτῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REED|REED]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.21.14|<< Revelation 21:14]]</td><td align="center" style="border:none;">[[Rev.21|Revelation 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.21.16|Revelation 21:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 21:15** is...
 > $\quad$ alluding to: [[LXX.Ezek.40.3|Ezek 40:3]] ☩ [[LXX.Zech.2.1|Zech 2:1]]

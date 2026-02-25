@@ -1,10 +1,51 @@
+---
+title: Romans 3:31
+type: Verse
+kjv: "Do we then make void the law through faith? God forbid: yea, we establish the law."
+bsb: "Do we, then, nullify the law by this faith? Certainly not! Instead, we uphold the law."
+greek: "νόμον οὖν καταργοῦμεν διὰ τῆς πίστεως; μὴ γένοιτο, ἀλλὰ νόμον ἱστάνομεν.¶"
+pericope: "[[Rom.3.21 Righteousness through Faith in Christ|Righteousness through Faith in Christ]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 3
+book/chapter: "[[Rom.3|Romans 3]]"
+chronological_order: 1089
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G3551]]"
+- "[[G3767]]"
+- "[[G2673]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G3361]]"
+- "[[G1096]]"
+- "[[G0235]]"
+- "[[G2476]]"
+texts:
+- NKO
+---
+
 **Romans 3:31**<big><big>[[Rom.3.21 Righteousness through Faith in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Do we then make void the law through faith? God forbid: yea, we establish the law.
 <small><sub>**BSB:**</sub></small>
 Do we, then, nullify the law by this faith? Certainly not! Instead, we uphold the law.
-<small><sub>**Literal:**</sub></small>
-Law then do we nullify through <the> faith? Never would it be! Instead law we uphold.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.30|<< Romans 3:30]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.1|Romans 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3551\|νόμον]]  [[G3767\|οὖν]]  [[G2673\|καταργοῦμεν]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4102G\|πίστεως;]]  [[G3361\|μὴ]]  [[G1096\|γένοιτο,]]  [[G0235\|ἀλλὰ]]  [[G3551\|νόμον]]  [[G2476\|ἱστάνομεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOASTING|BOASTING]] • [[topic CATHOLICITY|CATHOLICITY]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.3.30|<< Romans 3:30]]</td><td align="center" style="border:none;">[[Rom.3|Romans 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.4.1|Romans 4:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

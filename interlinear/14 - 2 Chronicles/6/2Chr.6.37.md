@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 6:37
+type: Verse
+kjv: "Yet if they bethink themselves in the land whither they are carried captive, and turn and pray unto thee in the land of their captivity, saying, We have sinned, we have done amiss, and have dealt wickedly;"
+bsb: "and when they come to their senses in the land to which they were taken, and they repent and plead with You in the land of their captors, saying, ‘We have sinned and done wrong; we have acted wickedly,’"
+hebrew: "וְהֵשִׁ֙יבוּ֙ אֶל־ לְבָבָ֔ם בָּאָ֖רֶץ אֲשֶׁ֣ר נִשְׁבּוּ־ שָׁ֑ם וְשָׁ֣בוּ׀ וְהִֽתְחַנְּנ֣וּ אֵלֶ֗יךָ בְּאֶ֤רֶץ שִׁבְיָם֙ לֵאמֹ֔ר חָטָ֥אנוּ הֶעֱוִ֖ינוּ וְרָשָֽׁעְנוּ׃"
+pericope: "[[2Chr.6.12 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725N]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7617]]"
+- "[[H8033G]]"
+- "[[H7725O]]"
+- "[[H9015]]"
+- "[[H2603A]]"
+- "[[H9031]]"
+- "[[H7628A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2398]]"
+- "[[H5753B]]"
+- "[[H9002]]"
+- "[[H7561]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:37**<big><big>[[2Chr.6.12 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet [if] they bethink themselves in the land whither they are carried captive, and turn and pray unto thee in the land of their captivity, saying, We have sinned, we have done amiss, and have dealt wickedly;
 <small><sub>**BSB:**</sub></small>
 and when they come to their senses in the land to which they were taken, and they repent and plead with You in the land of their captors, saying, ‘We have sinned and done wrong; we have acted wickedly,’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7725N\|הֵשִׁ֙יבוּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3824\|לְבָבָ֔]][[H9028\|ם]] [[H9003\|בָּ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁ֣ר]] [[H7617\|נִשְׁבּוּ]][[H9014\|־]] [[H8033G\|שָׁ֑ם]] [[H9001\|וְ]][[H7725O\|שָׁ֣בוּ]][[H9015\|׀]] [[H9001\|וְ]][[H2603A\|הִֽתְחַנְּנ֣וּ]] [[H0413\|אֵלֶ֗י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H0776G\|אֶ֤רֶץ]] [[H7628A\|שִׁבְיָ]][[H9028\|ם֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H2398\|חָטָ֥אנוּ]] [[H5753B\|הֶעֱוִ֖ינוּ]] [[H9002\|וְ]][[H7561\|רָשָֽׁעְנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.36|<< 2 Chronicles 6:36]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.38|2 Chronicles 6:38 >>]]</td></tr></table>
 

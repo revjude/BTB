@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 7:9
+type: Verse
+kjv: "And I was with thee whithersoever thou wentest, and have cut off all thine enemies out of thy sight, and have made thee a great name, like unto the name of the great men that are in the earth."
+bsb: "I have been with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make for you a name like that of the greatest in the land."
+hebrew: "וָאֶהְיֶ֣ה עִמְּךָ֗ בְּכֹל֙ אֲשֶׁ֣ר הָלַ֔כְתָּ וָאַכְרִ֥תָה אֶת־ כָּל־ אֹיְבֶ֖יךָ מִפָּנֶ֑יךָ וְעָשִׂ֤תִֽי לְךָ֙ שֵׁ֣ם גָּד֔וֹל כְּשֵׁ֥ם הַגְּדֹלִ֖ים אֲשֶׁ֥ר בָּאָֽרֶץ׃"
+pericope: "[[2Sam.7.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 7
+book/chapter: "[[2Sam.7|2 Samuel 7]]"
+chronological_order: 393
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H1980G]]"
+- "[[H3772I]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H1419A]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 7:9**<big><big>[[2Sam.7.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I was with thee whithersoever thou wentest, and have cut off all thine enemies out of thy sight, and have made thee a great name, like unto the name of the great [men] that [are] in the earth.
 <small><sub>**BSB:**</sub></small>
 I have been with you wherever you have gone, and I have cut off all your enemies from before you. Now I will make for you a name like that of the greatest in the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H1961\|אֶהְיֶ֣ה]] [[H5973A\|עִמְּ]][[H9031\|ךָ֗]] [[H9003\|בְּ]][[H3605\|כֹל֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1980G\|הָלַ֔כְתָּ]] [[H9001\|וָ]][[H3772I\|אַכְרִ֥תָ]][[H9012\|ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0341\|אֹיְבֶ֖י]][[H9021\|ךָ]] [[H9006\|מִ]][[H6440G\|פָּנֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H6213H\|עָשִׂ֤תִֽי]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H8034\|שֵׁ֣ם]] [[H1419A\|גָּד֔וֹל]] [[H9004\|כְּ]][[H8034\|שֵׁ֥ם]] [[H9009\|הַ]][[H1419A\|גְּדֹלִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בָּ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic NATHAN|NATHAN]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.7.8|<< 2 Samuel 7:8]]</td><td align="center" style="border:none;">[[2Sam.7|2 Samuel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.7.10|2 Samuel 7:10 >>]]</td></tr></table>
 

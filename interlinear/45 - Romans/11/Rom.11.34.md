@@ -1,10 +1,51 @@
+---
+title: Romans 11:34
+type: Verse
+kjv: "For who hath known the mind of the Lord? or who hath been his counseller?"
+bsb: "“Who has known the mind of the Lord? Or who has been His counselor?”"
+greek: "τίς γὰρ ἔγνω νοῦν κυρίου; ἢ τίς σύμβουλος αὐτοῦ ἐγένετο;"
+pericope: "[[Rom.11.33 A Hymn of Praise|A Hymn of Praise]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 11
+book/chapter: "[[Rom.11|Romans 11]]"
+chronological_order: 1097
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G5101]]"
+- "[[G1063]]"
+- "[[G1097]]"
+- "[[G3563]]"
+- "[[G2962G]]"
+- "[[G2228]]"
+- "[[G4825]]"
+- "[[G0846]]"
+- "[[G1096]]"
+texts:
+- NKO
+---
+
 **Romans 11:34**<big><big>[[Rom.11.33 A Hymn of Praise|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For who hath known the mind of the Lord? or who hath been his counseller?
 <small><sub>**BSB:**</sub></small>
 “Who has known the mind of the Lord? Or who has been His counselor?”
-<small><sub>**Literal:**</sub></small>
-Who for has known [the] mind of [the] Lord? or who counselor of Him has been?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.33|<< Romans 11:33]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.35|Romans 11:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τίς]]  [[G1063\|γὰρ]]  [[G1097\|ἔγνω]]  [[G3563\|νοῦν]]  [[G2962G\|κυρίου;]]  [[G2228\|ἢ]]  [[G5101\|τίς]]  [[G4825\|σύμβουλος]]  [[G0846\|αὐτοῦ]]  [[G1096\|ἐγένετο;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.11.33|<< Romans 11:33]]</td><td align="center" style="border:none;">[[Rom.11|Romans 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.11.35|Romans 11:35 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 11:34** is...
 > $\quad$ referencing: [[LXX.Isa.40.13|Isa 40:13]]

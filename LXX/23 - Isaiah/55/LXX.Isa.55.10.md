@@ -1,6 +1,72 @@
+---
+title: LXX Isaiah 55:10
+type: Verse
+lxx: "For as whenever the rain or snow should come down from  heaven, and in no way shall it return until whenever it should saturate the earth, and the earth should bring forth, and should sprout, and should give seed to the one sowing, and bread for food;"
+greek: "ως γαρ αν καταβή ο υετός η χιών εκ του ουρανού και ου μη αποστραφή έως αν μεθύση την γην και εκτέκη και εκβλαστήση και δω σπέρμα τω σπείροντι και άρτον εις βρώσιν"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 55
+book/chapter: "[[Isa.55|Isaiah 55]]"
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G5613]]"
+- "[[G1063]]"
+- "[[G0302]]"
+- "[[G2597]]"
+- "[[G3588]]"
+- "[[G5205]]"
+- "[[G2228]]"
+- "[[G5510]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G2532]]"
+- "[[G3364]]"
+- "[[G0654]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G3184]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2532]]"
+- "[[G7153]]"
+- "[[G2532]]"
+- "[[G7079]]"
+- "[[G2532]]"
+- "[[G1325]]"
+- "[[G4690]]"
+- "[[G3588]]"
+- "[[G4687]]"
+- "[[G2532]]"
+- "[[G0740]]"
+- "[[G1519]]"
+- "[[G1035]]"
+---
+
 **LXX Isaiah 55:10** 
 <small><sub>**LXX:**</sub></small>
 For as whenever the rain or snow should come down from  heaven, and in no way shall it return until whenever it should saturate the earth, and \[the earth\] should bring forth, and should sprout, and should give seed to the one sowing, and bread for food; 
+<small><sub>**Greek:**</sub></small>
+[[G5613\|ως]] [[G1063\|γαρ]] [[G0302\|αν]] [[G2597\|καταβή]] [[G3588\|ο]] [[G5205\|υετός]] [[G2228\|η]] [[G5510\|χιών]] [[G1537\|εκ]] [[G3588\|του]] [[G3772\|ουρανού]] [[G2532\|και]] [[G3364\|ου μη]] [[G0654\|αποστραφή]] [[G2193\|έως]] [[G0302\|αν]] [[G3184\|μεθύση]] [[G3588\|την]] [[G1093\|γην]] [[G2532\|και]] [[G7153\|εκτέκη]] [[G2532\|και]] [[G7079\|εκβλαστήση]] [[G2532\|και]] [[G1325\|δω]] [[G4690\|σπέρμα]] [[G3588\|τω]] [[G4687\|σπείροντι]] [[G2532\|και]] [[G0740\|άρτον]] [[G1519\|εις]] [[G1035\|βρώσιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.55.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.9|<< Isaiah 55:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.11|Isaiah 55:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -41,6 +107,6 @@ For as whenever the rain or snow should come down from  heaven, and in no way sh
 | bread | **<big>[[G0740\|άρτον]]</big>** |
 | for | **<big>[[G1519\|εις]]</big>** |
 | food; | **<big>[[G1035\|βρώσιν]]</big>** |
-[[Isa.55.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.9|<< Isaiah 55:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.11|Isaiah 55:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.55.9|<< Isaiah 55:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.55.11|Isaiah 55:11 >>]]</td></tr></table>
 
 

@@ -1,8 +1,61 @@
+---
+title: Numbers 10:3
+type: Verse
+kjv: "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation."
+bsb: "When both are sounded, the whole congregation is to assemble before you at the entrance to the Tent of Meeting."
+hebrew: "וְתָקְע֖וּ בָּהֵ֑ן וְנֽוֹעֲד֤וּ אֵלֶ֙יךָ֙ כָּל־ הָ֣עֵדָ֔ה אֶל־ פֶּ֖תַח אֹ֥הֶל מוֹעֵֽד׃"
+pericope: "[[Num.10.1 The Two Silver Trumpets|The Two Silver Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 10
+book/chapter: "[[Num.10|Numbers 10]]"
+chronological_order: 169
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H8628]]"
+- "[[H9003]]"
+- "[[H9039]]"
+- "[[H3259]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H6607]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 10:3**<big><big>[[Num.10.1 The Two Silver Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation.
 <small><sub>**BSB:**</sub></small>
 When both are sounded, the whole congregation is to assemble before you at the entrance to the Tent of Meeting.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8628\|תָקְע֖וּ]] [[H9003\|בָּ]][[H9039\|הֵ֑ן]] [[H9001\|וְ]][[H3259\|נֽוֹעֲד֤וּ]] [[H0413\|אֵלֶ֙י]][[H9031\|ךָ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ֣]][[H5712\|עֵדָ֔ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6607\|פֶּ֖תַח]] [[H0168G\|אֹ֥הֶל]] [[H4150I\|מוֹעֵֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.10.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.10.2|<< Numbers 10:2]]</td><td align="center" style="border:none;">[[Num.10|Numbers 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.10.4|Numbers 10:4 >>]]</td></tr></table>
 

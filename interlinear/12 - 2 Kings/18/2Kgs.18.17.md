@@ -1,8 +1,83 @@
+---
+title: 2 Kings 18:17
+type: Verse
+kjv: "And the king of Assyria sent Tartan and Rabsaris and Rabshakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which is in the highway of the fuller’s field."
+bsb: "Nevertheless, the king of Assyria sent the Tartan, the Rabsaris, and the Rabshakeh, along with a great army, from Lachish to King Hezekiah at Jerusalem. They advanced up to Jerusalem and stationed themselves by the aqueduct of the upper pool, on the road to the Launderer’s Field."
+hebrew: "וַיִּשְׁלַ֣ח מֶֽלֶךְ־ אַשּׁ֡וּר אֶת־ תַּרְתָּ֥ן וְאֶת־ רַב־ סָרִ֣יס׀ וְאֶת־ רַב־ שָׁקֵ֨ה מִן־ לָכִ֜ישׁ אֶל־ הַמֶּ֧לֶךְ חִזְקִיָּ֛הוּ בְּחֵ֥יל כָּבֵ֖ד יְרוּשָׁלִָ֑ם וַֽיַּעֲלוּ֙ וַיָּבֹ֣אוּ יְרוּשָׁלִַ֔ם וַיַּעֲל֣וּ וַיָּבֹ֗אוּ וַיַּֽעַמְדוּ֙ בִּתְעָלַת֙ הַבְּרֵכָ֣ה הָֽעֶלְיוֹנָ֔ה אֲשֶׁ֕ר בִּמְסִלַּ֖ת שְׂדֵ֥ה כוֹבֵֽס׃"
+pericope: "[[2Kgs.18.17 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 18
+book/chapter: "[[2Kgs.18|2 Kings 18]]"
+chronological_order: 656
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FULLER'S FIELD|FULLER'S FIELD]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LACHISH|LACHISH]]"
+- "[[topic POOL|POOL]]"
+- "[[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]]"
+- "[[topic RABSARIS|RABSARIS]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic TARTAN|TARTAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0804G]]"
+- "[[H0853]]"
+- "[[H8661]]"
+- "[[H9002]]"
+- "[[H7249G]]"
+- "[[H9015]]"
+- "[[H7262]]"
+- "[[H4480A]]"
+- "[[H3923]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H2396G]]"
+- "[[H9003]]"
+- "[[H2428A]]"
+- "[[H3515]]"
+- "[[H3389]]"
+- "[[H5927G]]"
+- "[[H0935G]]"
+- "[[H5975G]]"
+- "[[H8585A]]"
+- "[[H1295H]]"
+- "[[H5945A]]"
+- "[[H0834A]]"
+- "[[H4546]]"
+- "[[H7704H]]"
+- "[[H3526G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 18:17**<big><big>[[2Kgs.18.17 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Assyria sent Tartan and Rabsaris and Rabshakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which [is] in the highway of the fuller’s field.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, the king of Assyria sent the Tartan, the Rabsaris, and the Rabshakeh, along with a great army, from Lachish to King Hezekiah at Jerusalem. They advanced up to Jerusalem and stationed themselves by the aqueduct of the upper pool, on the road to the Launderer’s Field.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַשּׁ֡וּר]] [[H0853\|אֶת]][[H9014\|־]] [[H8661\|תַּרְתָּ֥ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7249G\|רַב]][[H9014\|־]] [[H7249G\|סָרִ֣יס]][[H9015\|׀]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7262\|רַב]][[H9014\|־]] [[H7262\|שָׁקֵ֨ה]] [[H4480A\|מִן]][[H9014\|־]] [[H3923\|לָכִ֜ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֧לֶךְ]] [[H2396G\|חִזְקִיָּ֛הוּ]] [[H9003\|בְּ]][[H2428A\|חֵ֥יל]] [[H3515\|כָּבֵ֖ד]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9001\|וַֽ]][[H5927G\|יַּעֲלוּ֙]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H3389\|יְרוּשָׁלִַ֔ם]] [[H9001\|וַ]][[H5927G\|יַּעֲל֣וּ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֗אוּ]] [[H9001\|וַ]][[H5975G\|יַּֽעַמְדוּ֙]] [[H9003\|בִּ]][[H8585A\|תְעָלַת֙]] [[H9009\|הַ]][[H1295H\|בְּרֵכָ֣ה]] [[H9009\|הָֽ]][[H5945A\|עֶלְיוֹנָ֔ה]] [[H0834A\|אֲשֶׁ֕ר]] [[H9003\|בִּ]][[H4546\|מְסִלַּ֖ת]] [[H7704H\|שְׂדֵ֥ה]] [[H3526G\|כוֹבֵֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FULLER'S FIELD|FULLER'S FIELD]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LACHISH|LACHISH]] • [[topic POOL|POOL]] • [[topic RAB-SHAKEH (RABSHAKEH)|RAB-SHAKEH (RABSHAKEH)]] • [[topic RABSARIS|RABSARIS]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic TARTAN|TARTAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.18.16|<< 2 Kings 18:16]]</td><td align="center" style="border:none;">[[2Kgs.18|2 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.18.18|2 Kings 18:18 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sacrifices Restored
+type: Pericope
 pericope: "[[Ezra.3.1 Sacrifices Restored|Sacrifices Restored]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezra
 chapter: 3
 book/chapter: "[[Ezra.3|Ezra 3]]"
-genre:
+chronological_order: 851
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
 - narrative
 - post exilic
 - restoration narrative
 - memoir
+verse_count: 7
 verses:
 - "[[Ezra.3.1]]"
 - "[[Ezra.3.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ezra.3.7]]"
 ---
 
-[[Ezra.3|Ezra 3:1 - Ezra 3:7]]
+<small>[[Ezra.3|Ezra 3:1-7]]</small>
 *Sacrifices Restored*
 
 [[Ezra.3.1|1]] And when the seventh month was come, and the children of Israel \[were\] in the cities, the people gathered themselves together as one man to Jerusalem.

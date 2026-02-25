@@ -1,8 +1,69 @@
+---
+title: Jeremiah 7:6
+type: Verse
+kjv: "If ye oppress not the stranger, the fatherless, and the widow, and shed not innocent blood in this place, neither walk after other gods to your hurt:"
+bsb: "if you no longer oppress the foreigner and the fatherless and the widow, and if you no longer shed innocent blood in this place or follow other gods to your own harm,"
+hebrew: "גֵּ֣ר יָת֤וֹם וְאַלְמָנָה֙ לֹ֣א תַֽעֲשֹׁ֔קוּ וְדָ֣ם נָקִ֔י אַֽל־ תִּשְׁפְּכ֖וּ בַּמָּק֣וֹם הַזֶּ֑ה וְאַחֲרֵ֨י אֱלֹהִ֧ים אֲחֵרִ֛ים לֹ֥א תֵלְכ֖וּ לְרַ֥ע לָכֶֽם׃"
+pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H1616]]"
+- "[[H3490]]"
+- "[[H9002]]"
+- "[[H0490]]"
+- "[[H3808]]"
+- "[[H6231]]"
+- "[[H1818]]"
+- "[[H5355A]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8210H]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H1980N]]"
+- "[[H9005]]"
+- "[[H7451B]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:6**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] ye oppress not the stranger, the fatherless, and the widow, and shed not innocent blood in this place, neither walk after other gods to your hurt:
 <small><sub>**BSB:**</sub></small>
 if you no longer oppress the foreigner and the fatherless and the widow, and if you no longer shed innocent blood in this place or follow other gods to your own harm,
+<small><sub>**Hebrew:**</sub></small>
+[[H1616\|גֵּ֣ר]] [[H3490\|יָת֤וֹם]] [[H9002\|וְ]][[H0490\|אַלְמָנָה֙]] [[H3808\|לֹ֣א]] [[H6231\|תַֽעֲשֹׁ֔קוּ]] [[H9002\|וְ]][[H1818\|דָ֣ם]] [[H5355A\|נָקִ֔י]] [[H0408\|אַֽל]][[H9014\|־]] [[H8210H\|תִּשְׁפְּכ֖וּ]] [[H9003\|בַּ]][[H4725\|מָּק֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וְ]][[H0310A\|אַחֲרֵ֨י]] [[H0430\|אֱלֹהִ֧ים]] [[H0312\|אֲחֵרִ֛ים]] [[H3808\|לֹ֥א]] [[H1980N\|תֵלְכ֖וּ]] [[H9005\|לְ]][[H7451B\|רַ֥ע]] [[H9005\|לָ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic BLESSING|BLESSING]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic ORPHAN|ORPHAN]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.5|<< Jeremiah 7:5]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.7|Jeremiah 7:7 >>]]</td></tr></table>
 

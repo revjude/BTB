@@ -1,8 +1,50 @@
+---
+title: Numbers 2:11
+type: Verse
+kjv: "And his host, and those that were numbered thereof, were forty and six thousand and five hundred."
+bsb: "and his division numbers 46,500."
+hebrew: "וּצְבָא֖וֹ וּפְקֻדָ֑יו שִׁשָּׁ֧ה וְאַרְבָּעִ֛ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃"
+pericope: "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H6635A]]"
+- "[[H9023]]"
+- "[[H6485A]]"
+- "[[H8337]]"
+- "[[H0705]]"
+- "[[H0505G]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 2:11**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his host, and those that were numbered thereof, [were] forty and six thousand and five hundred.
 <small><sub>**BSB:**</sub></small>
 and his division numbers 46,500.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6635A\|צְבָא֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H6485A\|פְקֻדָ֑י]][[H9023\|ו]] [[H8337\|שִׁשָּׁ֧ה]] [[H9002\|וְ]][[H0705\|אַרְבָּעִ֛ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וַ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.10|<< Numbers 2:10]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.12|Numbers 2:12 >>]]</td></tr></table>
 

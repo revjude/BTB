@@ -1,8 +1,66 @@
+---
+title: Joshua 7:9
+type: Verse
+kjv: "For the Canaanites and all the inhabitants of the land shall hear of it, and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name?"
+bsb: "When the Canaanites and all who live in the land hear about this, they will surround us and wipe out our name from the earth. Then what will You do for Your great name?”"
+hebrew: "וְיִשְׁמְע֣וּ הַֽכְּנַעֲנִ֗י וְכֹל֙ יֹשְׁבֵ֣י הָאָ֔רֶץ וְנָסַ֣בּוּ עָלֵ֔ינוּ וְהִכְרִ֥יתוּ אֶת־ שְׁמֵ֖נוּ מִן־ הָאָ֑רֶץ וּמַֽה־ תַּעֲשֵׂ֖ה לְשִׁמְךָ֥ הַגָּדֽוֹל׃ ס"
+pericope: "[[Josh.7.1 The Defeat at Ai|The Defeat at Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 7
+book/chapter: "[[Josh.7|Joshua 7]]"
+chronological_order: 237
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H8085G]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H3605]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H5437H]]"
+- "[[H5921A]]"
+- "[[H9035]]"
+- "[[H3772I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9025]]"
+- "[[H4480A]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9021]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 7:9**<big><big>[[Josh.7.1 The Defeat at Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the Canaanites and all the inhabitants of the land shall hear [of it], and shall environ us round, and cut off our name from the earth: and what wilt thou do unto thy great name?
 <small><sub>**BSB:**</sub></small>
 When the Canaanites and all who live in the land hear about this, they will surround us and wipe out our name from the earth. Then what will You do for Your great name?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8085G\|יִשְׁמְע֣וּ]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֗י]] [[H9002\|וְ]][[H3605\|כֹל֙]] [[H3427\|יֹשְׁבֵ֣י]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H5437H\|נָסַ֣בּוּ]] [[H5921A\|עָלֵ֔י]][[H9035\|נוּ]] [[H9001\|וְ]][[H3772I\|הִכְרִ֥יתוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמֵ֖]][[H9025\|נוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וּ]][[H4100\|מַֽה]][[H9014\|־]] [[H6213A\|תַּעֲשֵׂ֖ה]] [[H9005\|לְ]][[H8034\|שִׁמְ]][[H9021\|ךָ֥]] [[H9009\|הַ]][[H1419A\|גָּדֽוֹל]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.7.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.8|<< Joshua 7:8]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.10|Joshua 7:10 >>]]</td></tr></table>
 
@@ -23,7 +81,7 @@ When the Canaanites and all who live in the land hear about this, they will surr
 | and what?  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H4100\|מַֽה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> mah-<small><sup>[[HPi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will you do  |**<big>&#8207;[[H6213A\|תַּעֲשֵׂ֖ה]]&#8207; </big>**| ta.'a.Seh<small><sup>[[HVqi2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for name your  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H8034\|שִׁמְ]]&#8207;&#8207;[[H9021\|ךָ֥]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> shim.<small><sup>[[HNcmsc]]</sup></small> Kha<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גָּדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> great  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1419A\|גָּדֽוֹל]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ga.Dol<small><sup>[[HAamsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.7.8|<< Joshua 7:8]]</td><td align="center" style="border:none;">[[Josh.7|Joshua 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.7.10|Joshua 7:10 >>]]</td></tr></table>
 
 

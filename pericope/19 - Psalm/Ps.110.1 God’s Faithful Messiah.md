@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Faithful Messiah
+type: Pericope
 pericope: "[[Ps.110.1 God’s Faithful Messiah|God’s Faithful Messiah]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 110
 book/chapter: "[[Ps.110|Psalm 110]]"
-genre:
+chronological_order: 384
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.110.0]]"
 - "[[Ps.110.1]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.110.7]]"
 ---
 
-[[Ps.110|Psalm 110:1 - Psalm 110:7]]
+<small>[[Ps.110|Psalm 110:1-7]]</small>
 *God’s Faithful Messiah*
 
 [[Ps.110.0|0]] A Psalm of David.

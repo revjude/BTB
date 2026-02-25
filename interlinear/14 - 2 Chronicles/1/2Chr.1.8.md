@@ -1,8 +1,61 @@
+---
+title: 2 Chronicles 1:8
+type: Verse
+kjv: "And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead."
+bsb: "Solomon replied to God: “You have shown much loving devotion to my father David, and You have made me king in his place."
+hebrew: "וַיֹּ֤אמֶר שְׁלֹמֹה֙ לֵֽאלֹהִ֔ים אַתָּ֗ה עָשִׂ֛יתָ עִם־ דָּוִ֥יד אָבִ֖י חֶ֣סֶד גָּד֑וֹל וְהִמְלַכְתַּ֖נִי תַּחְתָּֽיו׃"
+pericope: "[[2Chr.1.1 Solomon’s Prayer for Wisdom|Solomon’s Prayer for Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 1
+book/chapter: "[[2Chr.1|2 Chronicles 1]]"
+chronological_order: 445
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H0859A]]"
+- "[[H6213A]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H2617A]]"
+- "[[H1419A]]"
+- "[[H4427A]]"
+- "[[H9030]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 1:8**<big><big>[[2Chr.1.1 Solomon’s Prayer for Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.
 <small><sub>**BSB:**</sub></small>
 Solomon replied to God: “You have shown much loving devotion to my father David, and You have made me king in his place.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H8010\|שְׁלֹמֹה֙]] [[H9005\|לֵֽ]][[H0430G\|אלֹהִ֔ים]] [[H0859A\|אַתָּ֗ה]] [[H6213A\|עָשִׂ֛יתָ]] [[H5973A\|עִם]][[H9014\|־]] [[H1732\|דָּוִ֥יד]] [[H0001G\|אָבִ֖]][[H9020\|י]] [[H2617A\|חֶ֣סֶד]] [[H1419A\|גָּד֑וֹל]] [[H9001\|וְ]][[H4427A\|הִמְלַכְתַּ֖]][[H9030\|נִי]] [[H8478H\|תַּחְתָּֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic GOD|GOD]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.1.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.1.7|<< 2 Chronicles 1:7]]</td><td align="center" style="border:none;">[[2Chr.1|2 Chronicles 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.1.9|2 Chronicles 1:9 >>]]</td></tr></table>
 

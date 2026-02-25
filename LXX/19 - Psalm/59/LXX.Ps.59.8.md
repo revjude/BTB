@@ -1,6 +1,52 @@
+---
+title: LXX Psalm 59:8
+type: Verse
+lxx: "And you, O lord, shall laugh out loud at them; you shall treat with contempt all the nations."
+greek: "και συ κύριε εκγελάσεις αυτούς εξουδενώσεις πάντα τα έθνη"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic LAUGHTER|LAUGHTER]]"
+- "[[topic WAITING|WAITING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G7083]]"
+- "[[G1473]]"
+- "[[G1847]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G1484]]"
+---
+
 **LXX Psalm 59:8** 
 <small><sub>**LXX:**</sub></small>
 And you, O <span class="smallcaps">lord</span>, shall laugh out loud at them; you shall treat with contempt all the nations. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1473\|συ]] [[G2962\|κύριε]] [[G7083\|εκγελάσεις]] [[G1473\|αυτούς]] [[G1847\|εξουδενώσεις]] [[G3956\|πάντα]] [[G3588\|τα]] [[G1484\|έθνη]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic LAUGHTER|LAUGHTER]] • [[topic WAITING|WAITING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.59.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.7|<< Psalm 59:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.9|Psalm 59:9 >>]]</td></tr></table>
 
@@ -15,6 +61,6 @@ And you, O <span class="smallcaps">lord</span>, shall laugh out loud at them; yo
 | all | **<big>[[G3956\|πάντα]]</big>** |
 | the | **<big>[[G3588\|τα]]</big>** |
 | nations. | **<big>[[G1484\|έθνη]]</big>** |
-[[Ps.59.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.7|<< Psalm 59:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.9|Psalm 59:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.59.7|<< Psalm 59:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.59.9|Psalm 59:9 >>]]</td></tr></table>
 
 

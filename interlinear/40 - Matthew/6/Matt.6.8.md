@@ -1,10 +1,63 @@
+---
+title: Matthew 6:8
+type: Verse
+kjv: "Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him."
+bsb: "Do not be like them, for your Father knows what you need before you ask Him."
+jesus_said: "Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him."
+greek: "μὴ οὖν ὁμοιωθῆτε αὐτοῖς· οἶδεν γὰρ ὁ θεὸς ὁ πατὴρ ὑμῶν ὧν χρείαν ἔχετε πρὸ τοῦ ὑμᾶς αἰτῆσαι αὐτόν.¶"
+pericope: "[[Matt.6.5 The Lord’s Prayer|The Lord’s Prayer]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 6
+book/chapter: "[[Matt.6|Matthew 6]]"
+chronological_order: 944
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G3361]]"
+- "[[G3767]]"
+- "[[G3666]]"
+- "[[G0846]]"
+- "[[G6063]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G5532]]"
+- "[[G2192]]"
+- "[[G4253]]"
+- "[[G0154]]"
+texts:
+- NKO
+- O
+---
+
 **Matthew 6:8**<big><big>[[Matt.6.5 The Lord’s Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
 <small><sub>**BSB:**</sub></small>
 Do not be like them, for your Father knows what you need before you ask Him.
-<small><sub>**Literal:**</sub></small>
-Not therefore may be like to them; has known for the God the Father of you of what things need you have before <the> your asking Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.7|<< Matthew 6:7]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.9|Matthew 6:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G3767\|οὖν]]  [[G3666\|ὁμοιωθῆτε]]  [[G0846\|αὐτοῖς·]]  [[G6063\|οἶδεν]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G4771\|ὑμῶν]]  [[G3739\|ὧν]]  [[G5532\|χρείαν]]  [[G2192\|ἔχετε]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G4771\|ὑμᾶς]]  [[G0154\|αἰτῆσαι]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GENTILES|GENTILES]] • [[topic GOD|GOD]] • [[topic MOTIVE|MOTIVE]] • [[topic PHARISEES|PHARISEES]] • [[topic PRAYER|PRAYER]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.6.7|<< Matthew 6:7]]</td><td align="center" style="border:none;">[[Matt.6|Matthew 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.6.9|Matthew 6:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,59 @@
+---
+title: Acts 14:10
+type: Verse
+kjv: "Said with a loud voice, Stand upright on thy feet. And he leaped and walked."
+bsb: "In a loud voice Paul called out, “Stand up on your feet!” And the man jumped up and began to walk."
+greek: "εἶπεν μεγάλῃ τῇ φωνῇ· ἀνάστηθι ἐπὶ τοὺς πόδας σου ὀρθός. καὶ ἥλατο καὶ περιεπάτει."
+pericope: "[[Acts.14.8 The Visit to Lystra and Derbe|The Visit to Lystra and Derbe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2036]]"
+- "[[G3173]]"
+- "[[G3588]]"
+- "[[G5456G]]"
+- "[[G0450]]"
+- "[[G1909]]"
+- "[[G4228]]"
+- "[[G4771]]"
+- "[[G3717]]"
+- "[[G2532]]"
+- "[[G0242]]"
+- "[[G4043]]"
+texts:
+- NKO
+- ko
+- NK(o)
+- N(k)O
+---
+
 **Acts 14:10**<big><big>[[Acts.14.8 The Visit to Lystra and Derbe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Said with a loud voice, Stand upright on thy feet. And he leaped and walked.
 <small><sub>**BSB:**</sub></small>
 In a loud voice Paul called out, “Stand up on your feet!” And the man jumped up and began to walk.
-<small><sub>**Literal:**</sub></small>
-said in a loud <the> voice; do stand on the feet of you upright! And he sprang up and was walking.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.9|<< Acts 14:9]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.11|Acts 14:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G3173\|μεγάλῃ]]  [[G3588\|τῇ]]  [[G5456G\|φωνῇ·]]  [[G0450\|ἀνάστηθι]]  [[G1909\|ἐπὶ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G4771\|σου]]  [[G3717\|ὀρθός.]]  [[G2532\|καὶ]]  [[G0242\|ἥλατο]]  [[G2532\|καὶ]]  [[G4043\|περιεπάτει.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.9|<< Acts 14:9]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.11|Acts 14:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

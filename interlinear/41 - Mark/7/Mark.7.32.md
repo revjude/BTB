@@ -1,10 +1,54 @@
+---
+title: Mark 7:32
+type: Verse
+kjv: "And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to put his hand upon him."
+bsb: "Some people brought to Him a man who was deaf and hardly able to speak, and they begged Jesus to place His hand on him."
+greek: "καὶ φέρουσιν αὐτῷ κωφὸν καὶ μογιλάλον καὶ παρακαλοῦσιν αὐτὸν ἵνα ἐπιθῇ αὐτῷ τὴν χεῖρα."
+pericope: "[[Mark.7.31 The Deaf and Mute Man|The Deaf and Mute Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEAFNESS|DEAFNESS]]"
+- "[[topic HAND|HAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G5342]]"
+- "[[G0846]]"
+- "[[G2974]]"
+- "[[G3424]]"
+- "[[G3870]]"
+- "[[G2443]]"
+- "[[G2007]]"
+- "[[G3588]]"
+- "[[G5495]]"
+texts:
+- NKO
+- no
+---
+
 **Mark 7:32**<big><big>[[Mark.7.31 The Deaf and Mute Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to put his hand upon him.
 <small><sub>**BSB:**</sub></small>
 Some people brought to Him a man who was deaf and hardly able to speak, and they begged Jesus to place His hand on him.
-<small><sub>**Literal:**</sub></small>
-And they bring to Him a deaf man and who spoke with difficulty and they implore Him that He may lay on him the hand.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.31|<< Mark 7:31]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.33|Mark 7:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5342\|φέρουσιν]]  [[G0846\|αὐτῷ]]  [[G2974\|κωφὸν]]  [[G2532\|καὶ]]  [[G3424\|μογιλάλον]]  [[G2532\|καὶ]]  [[G3870\|παρακαλοῦσιν]]  [[G0846\|αὐτὸν]]  [[G2443\|ἵνα]]  [[G2007\|ἐπιθῇ]]  [[G0846\|αὐτῷ]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEAFNESS|DEAFNESS]] • [[topic HAND|HAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.31|<< Mark 7:31]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.33|Mark 7:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

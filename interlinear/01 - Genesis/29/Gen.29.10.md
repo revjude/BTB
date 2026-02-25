@@ -1,8 +1,70 @@
+---
+title: Genesis 29:10
+type: Verse
+kjv: "And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother."
+bsb: "As soon as Jacob saw Rachel, the daughter of his mother’s brother Laban, with Laban’s sheep, he went up and rolled the stone away from the mouth of the well and watered his uncle’s sheep."
+hebrew: "וַיְהִ֡י כַּאֲשֶׁר֩ רָאָ֨ה יַעֲקֹ֜ב אֶת־ רָחֵ֗ל בַּת־ לָבָן֙ אֲחִ֣י אִמּ֔וֹ וְאֶת־ צֹ֥אן לָבָ֖ן אֲחִ֣י אִמּ֑וֹ וַיִּגַּ֣שׁ יַעֲקֹ֗ב וַיָּ֤גֶל אֶת־ הָאֶ֙בֶן֙ מֵעַל֙ פִּ֣י הַבְּאֵ֔ר וַיַּ֕שְׁקְ אֶת־ צֹ֥אן לָבָ֖ן אֲחִ֥י אִמּֽוֹ׃"
+pericope: "[[Gen.29.1 Jacob Meets Rachel|Jacob Meets Rachel]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 29
+book/chapter: "[[Gen.29|Genesis 29]]"
+chronological_order: 71
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic RACHEL|RACHEL]]"
+- "[[topic SHEPHERD|SHEPHERD]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H7200G]]"
+- "[[H3290]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7354]]"
+- "[[H1323G]]"
+- "[[H3837A]]"
+- "[[H0251G]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6629G]]"
+- "[[H5066G]]"
+- "[[H1556]]"
+- "[[H9009]]"
+- "[[H0068G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H6310G]]"
+- "[[H0875]]"
+- "[[H8248G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 29:10**<big><big>[[Gen.29.1 Jacob Meets Rachel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Jacob saw Rachel the daughter of Laban his mother’s brother, and the sheep of Laban his mother’s brother, that Jacob went near, and rolled the stone from the well’s mouth, and watered the flock of Laban his mother’s brother.
 <small><sub>**BSB:**</sub></small>
 As soon as Jacob saw Rachel, the daughter of his mother’s brother Laban, with Laban’s sheep, he went up and rolled the stone away from the mouth of the well and watered his uncle’s sheep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H7200G\|רָאָ֨ה]] [[H3290\|יַעֲקֹ֜ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7354\|רָחֵ֗ל]] [[H1323G\|בַּת]][[H9014\|־]] [[H3837A\|לָבָן֙]] [[H0251G\|אֲחִ֣י]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹ֥אן]] [[H3837A\|לָבָ֖ן]] [[H0251G\|אֲחִ֣י]] [[H0517\|אִמּ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H5066G\|יִּגַּ֣שׁ]] [[H3290\|יַעֲקֹ֗ב]] [[H9001\|וַ]][[H1556\|יָּ֤גֶל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0068G\|אֶ֙בֶן֙]] [[H9006\|מֵ]][[H5921A\|עַל֙]] [[H6310G\|פִּ֣י]] [[H9009\|הַ]][[H0875\|בְּאֵ֔ר]] [[H9001\|וַ]][[H8248G\|יַּ֕שְׁקְ]] [[H0853\|אֶת]][[H9014\|־]] [[H6629G\|צֹ֥אן]] [[H3837A\|לָבָ֖ן]] [[H0251G\|אֲחִ֥י]] [[H0517\|אִמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RACHEL|RACHEL]] • [[topic SHEPHERD|SHEPHERD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.29.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.29.9|<< Genesis 29:9]]</td><td align="center" style="border:none;">[[Gen.29|Genesis 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.29.11|Genesis 29:11 >>]]</td></tr></table>
 

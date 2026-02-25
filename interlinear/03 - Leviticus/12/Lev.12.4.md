@@ -1,8 +1,67 @@
+---
+title: Leviticus 12:4
+type: Verse
+kjv: "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."
+bsb: "The woman shall continue in purification from her bleeding for thirty-three days. She must not touch anything sacred or go into the sanctuary until the days of her purification are complete."
+hebrew: "וּשְׁלֹשִׁ֥ים יוֹם֙ וּשְׁלֹ֣שֶׁת יָמִ֔ים תֵּשֵׁ֖ב בִּדְמֵ֣י טָהֳרָ֑ה בְּכָל־ קֹ֣דֶשׁ לֹֽא־ תִגָּ֗ע וְאֶל־ הַמִּקְדָּשׁ֙ לֹ֣א תָבֹ֔א עַד־ מְלֹ֖את יְמֵ֥י טָהֳרָֽהּ׃"
+pericope: "[[Lev.12.1 Purification after Childbirth|Purification after Childbirth]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 12
+book/chapter: "[[Lev.12|Leviticus 12]]"
+chronological_order: 144
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H7970]]"
+- "[[H3117G]]"
+- "[[H7969]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H1818]]"
+- "[[H2892A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6944G]]"
+- "[[H3808]]"
+- "[[H5060]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4720]]"
+- "[[H0935G]]"
+- "[[H5704]]"
+- "[[H4390]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 12:4**<big><big>[[Lev.12.1 Purification after Childbirth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
 <small><sub>**BSB:**</sub></small>
 The woman shall continue in purification from her bleeding for thirty-three days. She must not touch anything sacred or go into the sanctuary until the days of her purification are complete.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7970\|שְׁלֹשִׁ֥ים]] [[H3117G\|יוֹם֙]] [[H9002\|וּ]][[H7969\|שְׁלֹ֣שֶׁת]] [[H3117G\|יָמִ֔ים]] [[H3427\|תֵּשֵׁ֖ב]] [[H9003\|בִּ]][[H1818\|דְמֵ֣י]] [[H2892A\|טָהֳרָ֑ה]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6944G\|קֹ֣דֶשׁ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5060\|תִגָּ֗ע]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4720\|מִּקְדָּשׁ֙]] [[H3808\|לֹ֣א]] [[H0935G\|תָבֹ֔א]] [[H5704\|עַד]][[H9014\|־]] [[H4390\|מְלֹ֖את]] [[H3117G\|יְמֵ֥י]] [[H2892A\|טָהֳרָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.3|<< Leviticus 12:3]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.5|Leviticus 12:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

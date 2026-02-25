@@ -1,8 +1,53 @@
+---
+title: Psalm 89:44
+type: Verse
+kjv: "Thou hast made his glory to cease, and cast his throne down to the ground."
+bsb: "You have ended his splendor and cast his throne to the ground."
+hebrew: "הִשְׁבַּ֥תָּ מִטְּהָר֑וֹ וְ֝כִסְא֗וֹ לָאָ֥רֶץ מִגַּֽרְתָּה׃"
+pericope: "[[Ps.89.1 I Will Sing of His Love Forever|I Will Sing of His Love Forever]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 89
+book/chapter: "[[Ps.89|Psalm 89]]"
+chronological_order: 517
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H7673A]]"
+- "[[H9006]]"
+- "[[H2892B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3678G]]"
+- "[[H9005]]"
+- "[[H0776H]]"
+- "[[H4048]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 89:44**<big><big>[[Ps.89.1 I Will Sing of His Love Forever|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast made his glory to cease, and cast his throne down to the ground.
 <small><sub>**BSB:**</sub></small>
 You have ended his splendor and cast his throne to the ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H7673A\|הִשְׁבַּ֥תָּ]] [[H9006\|מִ]][[H2892B\|טְּהָר֑]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H3678G\|כִסְא֗]][[H9023\|וֹ]] [[H9005\|לָ]][[H0776H\|אָ֥רֶץ]] [[H4048\|מִגַּֽרְתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.89.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.89.43|<< Psalms 89:43]]</td><td align="center" style="border:none;">[[Ps.89|Psalms 89]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.89.45|Psalms 89:45 >>]]</td></tr></table>
 

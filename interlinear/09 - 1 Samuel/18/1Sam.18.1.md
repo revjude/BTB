@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 18:1
+type: Verse
+kjv: "And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul."
+bsb: "After David had finished speaking with Saul, the souls of Jonathan and David were knit together, and Jonathan loved him as himself."
+hebrew: "וַיְהִ֗י כְּכַלֹּתוֹ֙ לְדַבֵּ֣ר אֶל־ שָׁא֔וּל וְנֶ֙פֶשׁ֙ יְה֣וֹנָתָ֔ן נִקְשְׁרָ֖ה בְּנֶ֣פֶשׁ דָּוִ֑ד וַיֶּאֱהָבֵ֥הוּ יְהוֹנָתָ֖ן כְּנַפְשֽׁוֹ׃"
+pericope: "[[1Sam.18.1 Jonathan Befriends David|Jonathan Befriends David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 18
+book/chapter: "[[1Sam.18|1 Samuel 18]]"
+chronological_order: 297
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JONATHAN|JONATHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H9002]]"
+- "[[H5315G]]"
+- "[[H3083H]]"
+- "[[H7194]]"
+- "[[H9003]]"
+- "[[H1732]]"
+- "[[H0157G]]"
+- "[[H9033]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 18:1**<big><big>[[1Sam.18.1 Jonathan Befriends David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he had made an end of speaking unto Saul, that the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul.
 <small><sub>**BSB:**</sub></small>
 After David had finished speaking with Saul, the souls of Jonathan and David were knit together, and Jonathan loved him as himself.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9004\|כְּ]][[H3615G\|כַלֹּת]][[H9043\|וֹ֙]] [[H9005\|לְ]][[H1696G\|דַבֵּ֣ר]] [[H0413\|אֶל]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H9002\|וְ]][[H5315G\|נֶ֙פֶשׁ֙]] [[H3083H\|יְה֣וֹנָתָ֔ן]] [[H7194\|נִקְשְׁרָ֖ה]] [[H9003\|בְּ]][[H5315G\|נֶ֣פֶשׁ]] [[H1732\|דָּוִ֑ד]] [[H9001\|וַ]][[H0157G\|יֶּאֱהָבֵ֥]][[H9033\|הוּ]] [[H3083H\|יְהוֹנָתָ֖ן]] [[H9004\|כְּ]][[H5315G\|נַפְשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSTANCY|CONSTANCY]] • [[topic DAVID|DAVID]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JONATHAN|JONATHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.18.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.58|<< 1 Samuel 17:58]]</td><td align="center" style="border:none;">[[1Sam.18|1 Samuel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.18.2|1 Samuel 18:2 >>]]</td></tr></table>
 

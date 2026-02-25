@@ -1,8 +1,54 @@
+---
+title: 2 Chronicles 3:2
+type: Verse
+kjv: "And he began to build in the second day of the second month, in the fourth year of his reign."
+bsb: "Solomon began construction on the second day of the second month in the fourth year of his reign."
+hebrew: "וַ֠יָּחֶל לִבְנ֞וֹת בַּחֹ֤דֶשׁ הַשֵּׁנִי֙ בַּשֵּׁנִ֔י בִּשְׁנַ֥ת אַרְבַּ֖ע לְמַלְכוּתֽוֹ׃"
+pericope: "[[2Chr.3.1 Temple Construction Begins|Temple Construction Begins]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 3
+book/chapter: "[[2Chr.3|2 Chronicles 3]]"
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic MONTH|MONTH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H2490C]]"
+- "[[H9005]]"
+- "[[H1129]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H8141]]"
+- "[[H0702]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 3:2**<big><big>[[2Chr.3.1 Temple Construction Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he began to build in the second [day] of the second month, in the fourth year of his reign.
 <small><sub>**BSB:**</sub></small>
 Solomon began construction on the second day of the second month in the fourth year of his reign.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H2490C\|יָּחֶל]] [[H9005\|לִ]][[H1129\|בְנ֞וֹת]] [[H9003\|בַּ]][[H2320G\|חֹ֤דֶשׁ]] [[H9009\|הַ]][[H8145\|שֵּׁנִי֙]] [[H9003\|בַּ]][[H8145\|שֵּׁנִ֔י]] [[H9003\|בִּ]][[H8141\|שְׁנַ֥ת]] [[H0702\|אַרְבַּ֖ע]] [[H9005\|לְ]][[H4438\|מַלְכוּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONTH|MONTH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.3.1|<< 2 Chronicles 3:1]]</td><td align="center" style="border:none;">[[2Chr.3|2 Chronicles 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.3.3|2 Chronicles 3:3 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Psalm 16:4
+type: Verse
+kjv: "Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips."
+bsb: "Sorrows will multiply to those who chase other gods. I will not pour out their libations of blood, or speak their names with my lips."
+hebrew: "יִרְבּ֥וּ עַצְּבוֹתָם֮ אַחֵ֪ר מָ֫הָ֥רוּ בַּל־ אַסִּ֣יךְ נִסְכֵּיהֶ֣ם מִדָּ֑ם וּֽבַל־ אֶשָּׂ֥א אֶת־ שְׁ֝מוֹתָ֗ם עַל־ שְׂפָתָֽי׃"
+pericope: "[[Ps.16.1 The Presence of the LORD|The Presence of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 16
+book/chapter: "[[Ps.16|Psalm 16]]"
+chronological_order: 350
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H7235A]]"
+- "[[H6094]]"
+- "[[H9028]]"
+- "[[H0312]]"
+- "[[H4116A]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H5258A]]"
+- "[[H5262]]"
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H9002]]"
+- "[[H5375G]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H5921A]]"
+- "[[H8193G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 16:4**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their sorrows shall be multiplied [that] hasten [after] another [god]: their drink offerings of blood will I not offer, nor take up their names into my lips.
 <small><sub>**BSB:**</sub></small>
 Sorrows will multiply to those who chase other gods. I will not pour out their libations of blood, or speak their names with my lips.
+<small><sub>**Hebrew:**</sub></small>
+[[H7235A\|יִרְבּ֥וּ]] [[H6094\|עַצְּבוֹתָ]][[H9028\|ם֮]] [[H0312\|אַחֵ֪ר]] [[H4116A\|מָ֫הָ֥רוּ]] [[H1077\|בַּל]][[H9014\|־]] [[H5258A\|אַסִּ֣יךְ]] [[H5262\|נִסְכֵּי]][[H9028\|הֶ֣ם]] [[H9006\|מִ]][[H1818\|דָּ֑ם]] [[H9002\|וּֽ]][[H1077\|בַל]][[H9014\|־]] [[H5375G\|אֶשָּׂ֥א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁ֝מוֹתָ֗]][[H9028\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H8193G\|שְׂפָתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.16.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.3|<< Psalms 16:3]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.5|Psalms 16:5 >>]]</td></tr></table>
 

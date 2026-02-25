@@ -1,8 +1,62 @@
+---
+title: Judges 1:19
+type: Verse
+kjv: "And the LORD was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron."
+bsb: "The LORD was with Judah, and they took possession of the hill country; but they could not drive out the inhabitants of the plains because they had chariots of iron."
+hebrew: "וַיְהִ֤י יְהוָה֙ אֶתּ־ יְהוּדָ֔ה וַיֹּ֖רֶשׁ אֶת־ הָהָ֑ר כִּ֣י לֹ֤א לְהוֹרִישׁ֙ אֶת־ יֹשְׁבֵ֣י הָעֵ֔מֶק כִּי־ רֶ֥כֶב בַּרְזֶ֖ל לָהֶֽם׃"
+pericope: "[[Judg.1.8 The Capture of Jerusalem and Hebron|The Capture of Jerusalem and Hebron]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic CHARIOT|CHARIOT]]"
+- "[[topic IRON|IRON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H3423H]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H6010R]]"
+- "[[H7393G]]"
+- "[[H1270]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Judges 1:19**<big><big>[[Judg.1.8 The Capture of Jerusalem and Hebron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD was with Judah; and he drave out [the inhabitants of] the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.
 <small><sub>**BSB:**</sub></small>
 The LORD was with Judah, and they took possession of the hill country; but they could not drive out the inhabitants of the plains because they had chariots of iron.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H3068G\|יְהוָה֙]] [[H0854\|אֶתּ]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9001\|וַ]][[H3423H\|יֹּ֖רֶשׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H2022H\|הָ֑ר]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H9005\|לְ]][[H3423H\|הוֹרִישׁ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֣י]] [[H9009\|הָ]][[H6010R\|עֵ֔מֶק]] [[H3588A\|כִּי]][[H9014\|־]] [[H7393G\|רֶ֥כֶב]] [[H1270\|בַּרְזֶ֖ל]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic CHARIOT|CHARIOT]] • [[topic IRON|IRON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.1.18|<< Judges 1:18]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.20|Judges 1:20 >>]]</td></tr></table>
 

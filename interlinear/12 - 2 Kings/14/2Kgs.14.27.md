@@ -1,8 +1,65 @@
+---
+title: 2 Kings 14:27
+type: Verse
+kjv: "And the LORD said not that he would blot out the name of Israel from under heaven: but he saved them by the hand of Jeroboam the son of Joash."
+bsb: "and since the LORD had said that He would not blot out the name of Israel from under heaven, He saved them by the hand of Jeroboam son of Jehoash."
+hebrew: "וְלֹא־ דִבֶּ֣ר יְהוָ֔ה לִמְחוֹת֙ אֶת־ שֵׁ֣ם יִשְׂרָאֵ֔ל מִתַּ֖חַת הַשָּׁמָ֑יִם וַיּ֣וֹשִׁיעֵ֔ם בְּיַ֖ד יָרָבְעָ֥ם בֶּן־ יוֹאָֽשׁ׃"
+pericope: "[[2Kgs.14.23 Jeroboam II Reigns in Israel|Jeroboam II Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 14
+book/chapter: "[[2Kgs.14|2 Kings 14]]"
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H4229A]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H3478]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H9001]]"
+- "[[H3467]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H3379H]]"
+- "[[H1121A]]"
+- "[[H3101J]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 14:27**<big><big>[[2Kgs.14.23 Jeroboam II Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said not that he would blot out the name of Israel from under heaven: but he saved them by the hand of Jeroboam the son of Joash.
 <small><sub>**BSB:**</sub></small>
 and since the LORD had said that He would not blot out the name of Israel from under heaven, He saved them by the hand of Jeroboam son of Jehoash.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H1696G\|דִבֶּ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לִ]][[H4229A\|מְחוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֣ם]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9006\|מִ]][[H8478G\|תַּ֖חַת]] [[H9009\|הַ]][[H8064\|שָּׁמָ֑יִם]] [[H9001\|וַ]][[H3467\|יּ֣וֹשִׁיעֵ֔]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יַ֖ד]] [[H3379H\|יָרָבְעָ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3101J\|יוֹאָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.14.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.14.26|<< 2 Kings 14:26]]</td><td align="center" style="border:none;">[[2Kgs.14|2 Kings 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.14.28|2 Kings 14:28 >>]]</td></tr></table>
 

@@ -1,10 +1,58 @@
+---
+title: Luke 9:32
+type: Verse
+kjv: "But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him."
+bsb: "Meanwhile Peter and his companions were overcome by sleep, but when they awoke, they saw Jesus’ glory and the two men standing with Him."
+greek: "ὁ δὲ Πέτρος καὶ οἱ σὺν αὐτῷ ἦσαν βεβαρημένοι ὕπνῳ. διαγρηγορήσαντες δὲ εἶδον τὴν δόξαν αὐτοῦ καὶ τοὺς δύο ἄνδρας τοὺς συνεστῶτας αὐτῷ.¶"
+pericope: "[[Luke.9.28 The Transfiguration|The Transfiguration]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G0916]]"
+- "[[G5258]]"
+- "[[G1235]]"
+- "[[G1492H]]"
+- "[[G1391]]"
+- "[[G1417]]"
+- "[[G0435G]]"
+- "[[G4921]]"
+texts:
+- NKO
+---
+
 **Luke 9:32**<big><big>[[Luke.9.28 The Transfiguration|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him.
 <small><sub>**BSB:**</sub></small>
 Meanwhile Peter and his companions were overcome by sleep, but when they awoke, they saw Jesus’ glory and the two men standing with Him.
-<small><sub>**Literal:**</sub></small>
-<the> And Peter and those with him were wearied with sleep. having awoken fully then they saw the glory of Him and the two men who already standing with Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.31|<< Luke 9:31]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.33|Luke 9:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G1510\|ἦσαν]]  [[G0916\|βεβαρημένοι]]  [[G5258\|ὕπνῳ.]]  [[G1235\|διαγρηγορήσαντες]]  [[G1161\|δὲ]]  [[G1492H\|εἶδον]]  [[G3588\|τὴν]]  [[G1391\|δόξαν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1417\|δύο]]  [[G0435G\|ἄνδρας]]  [[G3588\|τοὺς]]  [[G4921\|συνεστῶτας]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.31|<< Luke 9:31]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.33|Luke 9:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

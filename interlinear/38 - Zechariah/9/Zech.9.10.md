@@ -1,8 +1,70 @@
+---
+title: Zechariah 9:10
+type: Verse
+kjv: "And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion shall be from sea even to sea, and from the river even to the ends of the earth."
+bsb: "And I will cut off the chariot from Ephraim and the horse from Jerusalem, and the bow of war will be broken. Then He will proclaim peace to the nations. His dominion will extend from sea to sea, and from the Euphrates to the ends of the earth."
+hebrew: "וְהִכְרַתִּי־ רֶ֣כֶב מֵאֶפְרַ֗יִם וְסוּס֙ מִיר֣וּשָׁלִַ֔ם וְנִכְרְתָה֙ קֶ֣שֶׁת מִלְחָמָ֔ה וְדִבֶּ֥ר שָׁל֖וֹם לַגּוֹיִ֑ם וּמָשְׁלוֹ֙ מִיָּ֣ם עַד־ יָ֔ם וּמִנָּהָ֖ר עַד־ אַפְסֵי־ אָֽרֶץ׃"
+pericope: "[[Zech.9.9 Zion’s Coming King|Zion’s Coming King]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic NATION|NATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H3772I]]"
+- "[[H9014]]"
+- "[[H7393G]]"
+- "[[H9006]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H5483M]]"
+- "[[H3389]]"
+- "[[H7198]]"
+- "[[H4421]]"
+- "[[H1696G]]"
+- "[[H7965G]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H4915B]]"
+- "[[H9023]]"
+- "[[H3220G]]"
+- "[[H5704]]"
+- "[[H5104G]]"
+- "[[H0657A]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 9:10**<big><big>[[Zech.9.9 Zion’s Coming King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto the heathen: and his dominion [shall be] from sea [even] to sea, and from the river [even] to the ends of the earth.
 <small><sub>**BSB:**</sub></small>
 And I will cut off the chariot from Ephraim and the horse from Jerusalem, and the bow of war will be broken. Then He will proclaim peace to the nations. His dominion will extend from sea to sea, and from the Euphrates to the ends of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3772I\|הִכְרַתִּי]][[H9014\|־]] [[H7393G\|רֶ֣כֶב]] [[H9006\|מֵ]][[H0669G\|אֶפְרַ֗יִם]] [[H9002\|וְ]][[H5483M\|סוּס֙]] [[H9006\|מִ]][[H3389\|יר֣וּשָׁלִַ֔ם]] [[H9001\|וְ]][[H3772I\|נִכְרְתָה֙]] [[H7198\|קֶ֣שֶׁת]] [[H4421\|מִלְחָמָ֔ה]] [[H9001\|וְ]][[H1696G\|דִבֶּ֥ר]] [[H7965G\|שָׁל֖וֹם]] [[H9005\|לַ]][[H1471A\|גּוֹיִ֑ם]] [[H9002\|וּ]][[H4915B\|מָשְׁל]][[H9023\|וֹ֙]] [[H9006\|מִ]][[H3220G\|יָּ֣ם]] [[H5704\|עַד]][[H9014\|־]] [[H3220G\|יָ֔ם]] [[H9002\|וּ]][[H9006\|מִ]][[H5104G\|נָּהָ֖ר]] [[H5704\|עַד]][[H9014\|־]] [[H0657A\|אַפְסֵי]][[H9014\|־]] [[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EPHRAIM|EPHRAIM]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic NATION|NATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.9|<< Zechariah 9:9]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.11|Zechariah 9:11 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Habakkuk 2:15
+type: Verse
+kjv: "Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness!"
+bsb: "Woe to him who gives drink to his neighbors, pouring it from the wineskin until they are drunk, in order to gaze at their nakedness!"
+hebrew: "ה֚וֹי מַשְׁקֵ֣ה רֵעֵ֔הוּ מְסַפֵּ֥חַ חֲמָתְךָ֖ וְאַ֣ף שַׁכֵּ֑ר לְמַ֥עַן הַבִּ֖יט עַל־ מְעוֹרֵיהֶֽם׃"
+pericope: "[[Hab.2.6 Woe to the Chaldeans|Woe to the Chaldeans]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 2
+book/chapter: "[[Hab.2|Habakkuk 2]]"
+chronological_order: 739
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+strongs:
+- "[[H1945]]"
+- "[[H8248H]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H5596A]]"
+- "[[H2534]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0637]]"
+- "[[H7937]]"
+- "[[H4616]]"
+- "[[H5027]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4589]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 2:15**<big><big>[[Hab.2.6 Woe to the Chaldeans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto him that giveth his neighbour drink, that puttest thy bottle to [him], and makest [him] drunken also, that thou mayest look on their nakedness!
 <small><sub>**BSB:**</sub></small>
 Woe to him who gives drink to his neighbors, pouring it from the wineskin until they are drunk, in order to gaze at their nakedness!
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֚וֹי]] [[H8248H\|מַשְׁקֵ֣ה]] [[H7453\|רֵעֵ֔]][[H9023\|הוּ]] [[H5596A\|מְסַפֵּ֥חַ]] [[H2534\|חֲמָתְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H0637\|אַ֣ף]] [[H7937\|שַׁכֵּ֑ר]] [[H4616\|לְמַ֥עַן]] [[H5027\|הַבִּ֖יט]] [[H5921A\|עַל]][[H9014\|־]] [[H4589\|מְעוֹרֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.2.14|<< Habakkuk 2:14]]</td><td align="center" style="border:none;">[[Hab.2|Habakkuk 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.2.16|Habakkuk 2:16 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: Numbers 14:40
+type: Verse
+kjv: "And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we be here, and will go up unto the place which the LORD hath promised: for we have sinned."
+bsb: "Early the next morning they got up and went up toward the ridge of the hill country. “We have indeed sinned,” they said, “but we will go to the place the LORD has promised.”"
+hebrew: "וַיַּשְׁכִּ֣מוּ בַבֹּ֔קֶר וַיַּֽעֲל֥וּ אֶל־ רֹאשׁ־ הָהָ֖ר לֵאמֹ֑ר הִנֶּ֗נּוּ וְעָלִ֛ינוּ אֶל־ הַמָּק֛וֹם אֲשֶׁר־ אָמַ֥ר יְהוָ֖ה כִּ֥י חָטָֽאנוּ׃"
+pericope: "[[Num.14.40 The Defeat at Hormah|The Defeat at Hormah]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7925]]"
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H5927G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7218I]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2005]]"
+- "[[H9045]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:40**<big><big>[[Num.14.40 The Defeat at Hormah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we [be here], and will go up unto the place which the LORD hath promised: for we have sinned.
 <small><sub>**BSB:**</sub></small>
 Early the next morning they got up and went up toward the ridge of the hill country. “We have indeed sinned,” they said, “but we will go to the place the LORD has promised.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7925\|יַּשְׁכִּ֣מוּ]] [[H9003\|בַ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַ]][[H5927G\|יַּֽעֲל֥וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H7218I\|רֹאשׁ]][[H9014\|־]] [[H9009\|הָ]][[H2022H\|הָ֖ר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2005\|הִנֶּ֗]][[H9045\|נּוּ]] [[H9001\|וְ]][[H5927G\|עָלִ֛ינוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֛וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H3588A\|כִּ֥י]] [[H2398\|חָטָֽאנוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic ISRAEL|ISRAEL]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic SIN|SIN]] • [[topic UNPARDONABLE SIN|UNPARDONABLE SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.39|<< Numbers 14:39]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.41|Numbers 14:41 >>]]</td></tr></table>
 

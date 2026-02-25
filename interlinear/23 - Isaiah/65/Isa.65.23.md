@@ -1,8 +1,63 @@
+---
+title: Isaiah 65:23
+type: Verse
+kjv: "They shall not labour in vain, nor bring forth for trouble; for they are the seed of the blessed of the LORD, and their offspring with them."
+bsb: "They will not labor in vain or bear children doomed to disaster; for they will be a people blessed by the LORD—they and their descendants with them."
+hebrew: "לֹ֤א יִֽיגְעוּ֙ לָרִ֔יק וְלֹ֥א יֵלְד֖וּ לַבֶּהָלָ֑ה כִּ֣י זֶ֜רַע בְּרוּכֵ֤י יְהוָה֙ הֵ֔מָּה וְצֶאֱצָאֵיהֶ֖ם אִתָּֽם׃"
+pericope: "[[Isa.65.17 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 65
+book/chapter: "[[Isa.65|Isaiah 65]]"
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3808]]"
+- "[[H3021]]"
+- "[[H9005]]"
+- "[[H7385]]"
+- "[[H9002]]"
+- "[[H3205]]"
+- "[[H0928]]"
+- "[[H3588A]]"
+- "[[H2233H]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H1992]]"
+- "[[H6631]]"
+- "[[H9028]]"
+- "[[H0854]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 65:23**<big><big>[[Isa.65.17 A New Heaven and a New Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They shall not labour in vain, nor bring forth for trouble; for they [are] the seed of the blessed of the LORD, and their offspring with them.
 <small><sub>**BSB:**</sub></small>
 They will not labor in vain or bear children doomed to disaster; for they will be a people blessed by the LORD—they and their descendants with them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֤א]] [[H3021\|יִֽיגְעוּ֙]] [[H9005\|לָ]][[H7385\|רִ֔יק]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3205\|יֵלְד֖וּ]] [[H9005\|לַ]][[H0928\|בֶּהָלָ֑ה]] [[H3588A\|כִּ֣י]] [[H2233H\|זֶ֜רַע]] [[H1288\|בְּרוּכֵ֤י]] [[H3068G\|יְהוָה֙]] [[H1992\|הֵ֔מָּה]] [[H9002\|וְ]][[H6631\|צֶאֱצָאֵי]][[H9028\|הֶ֖ם]] [[H0854\|אִתָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.65.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.65.22|<< Isaiah 65:22]]</td><td align="center" style="border:none;">[[Isa.65|Isaiah 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.65.24|Isaiah 65:24 >>]]</td></tr></table>
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Wine Is a Mocker
+type: Pericope
 pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
-verse_count: 30
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 20
 book/chapter: "[[Prov.20|Proverbs 20]]"
-genre:
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 30
 verses:
 - "[[Prov.20.1]]"
 - "[[Prov.20.2]]"
@@ -48,7 +55,7 @@ verses:
 - "[[Prov.20.30]]"
 ---
 
-[[Prov.20|Proverbs 20:1 - Proverbs 20:30]]
+<small>[[Prov.20|Proverbs 20:1-30]]</small>
 *Wine Is a Mocker*
 
 [[Prov.20.1|1]] Wine \[is\] a mocker, strong drink \[is\] raging: and whosoever is deceived thereby is not wise.

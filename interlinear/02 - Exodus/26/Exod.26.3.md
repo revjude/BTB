@@ -1,8 +1,58 @@
+---
+title: Exodus 26:3
+type: Verse
+kjv: "The five curtains shall be coupled together one to another; and other five curtains shall be coupled one to another."
+bsb: "Five of the curtains are to be joined together, and the other five joined as well."
+hebrew: "חֲמֵ֣שׁ הַיְרִיעֹ֗ת תִּֽהְיֶ֙יןָ֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָ֑הּ וְחָמֵ֤שׁ יְרִיעֹת֙ חֹֽבְרֹ֔ת אִשָּׁ֖ה אֶל־ אֲחֹתָֽהּ׃"
+pericope: "[[Exod.26.1 The Ten Curtains for the Tabernacle|The Ten Curtains for the Tabernacle]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 26
+book/chapter: "[[Exod.26|Exodus 26]]"
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H2568]]"
+- "[[H9009]]"
+- "[[H3407]]"
+- "[[H1961]]"
+- "[[H2266]]"
+- "[[H0802I]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0269]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 26:3**<big><big>[[Exod.26.1 The Ten Curtains for the Tabernacle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The five curtains shall be coupled together one to another; and [other] five curtains [shall be] coupled one to another.
 <small><sub>**BSB:**</sub></small>
 Five of the curtains are to be joined together, and the other five joined as well.
+<small><sub>**Hebrew:**</sub></small>
+[[H2568\|חֲמֵ֣שׁ]] [[H9009\|הַ]][[H3407\|יְרִיעֹ֗ת]] [[H1961\|תִּֽהְיֶ֙יןָ֙]] [[H2266\|חֹֽבְרֹ֔ת]] [[H0802I\|אִשָּׁ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0269\|אֲחֹתָ֑]][[H9024\|הּ]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H3407\|יְרִיעֹת֙]] [[H2266\|חֹֽבְרֹ֔ת]] [[H0802I\|אִשָּׁ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0269\|אֲחֹתָֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.26.2|<< Exodus 26:2]]</td><td align="center" style="border:none;">[[Exod.26|Exodus 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.26.4|Exodus 26:4 >>]]</td></tr></table>
 

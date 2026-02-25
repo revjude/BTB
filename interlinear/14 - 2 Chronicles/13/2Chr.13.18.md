@@ -1,8 +1,62 @@
+---
+title: 2 Chronicles 13:18
+type: Verse
+kjv: "Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers."
+bsb: "Thus the Israelites were subdued at that time, and the men of Judah prevailed because they relied on the LORD, the God of their fathers."
+hebrew: "וַיִּכָּנְע֥וּ בְנֵי־ יִשְׂרָאֵ֖ל בָּעֵ֣ת הַהִ֑יא וַיֶּֽאֶמְצוּ֙ בְּנֵ֣י יְהוּדָ֔ה כִּ֣י נִשְׁעֲנ֔וּ עַל־ יְהוָ֖ה אֱלֹהֵ֥י אֲבוֹתֵיהֶֽם׃"
+pericope: "[[2Chr.13.4 Civil War against Jeroboam|Civil War against Jeroboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 13
+book/chapter: "[[2Chr.13|2 Chronicles 13]]"
+chronological_order: 559
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3665]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H0553]]"
+- "[[H3063G]]"
+- "[[H3588A]]"
+- "[[H8172]]"
+- "[[H5921A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 13:18**<big><big>[[2Chr.13.4 Civil War against Jeroboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers.
 <small><sub>**BSB:**</sub></small>
 Thus the Israelites were subdued at that time, and the men of Judah prevailed because they relied on the LORD, the God of their fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3665\|יִּכָּנְע֥וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בָּ]][[H6256\|עֵ֣ת]] [[H9009\|הַ]][[H1931\|הִ֑יא]] [[H9001\|וַ]][[H0553\|יֶּֽאֶמְצוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H3588A\|כִּ֣י]] [[H8172\|נִשְׁעֲנ֔וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H0001G\|אֲבוֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.13.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.17|<< 2 Chronicles 13:17]]</td><td align="center" style="border:none;">[[2Chr.13|2 Chronicles 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.13.19|2 Chronicles 13:19 >>]]</td></tr></table>
 

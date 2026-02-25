@@ -1,10 +1,52 @@
+---
+title: John 1:8
+type: Verse
+kjv: "He was not that Light, but was sent to bear witness of that Light."
+bsb: "He himself was not the Light, but he came to testify about the Light."
+greek: "οὐκ ἦν ἐκεῖνος τὸ φῶς, ἀλλ᾽ ἵνα μαρτυρήσῃ περὶ τοῦ φωτός."
+pericope: "[[John.1.6 The Witness of John|The Witness of John]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LIGHT|LIGHT]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1565]]"
+- "[[G3588]]"
+- "[[G5457]]"
+- "[[G0235]]"
+- "[[G2443]]"
+- "[[G3140]]"
+- "[[G4012]]"
+texts:
+- NKO
+---
+
 **John 1:8**<big><big>[[John.1.6 The Witness of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He was not that Light, but [was sent] to bear witness of that Light.
 <small><sub>**BSB:**</sub></small>
 He himself was not the Light, but he came to testify about the Light.
-<small><sub>**Literal:**</sub></small>
-Not was He the Light, but that he may witness concerning the Light.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.7|<< John 1:7]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.9|John 1:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G1510\|ἦν]]  [[G1565\|ἐκεῖνος]]  [[G3588\|τὸ]]  [[G5457\|φῶς,]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G3140\|μαρτυρήσῃ]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G5457\|φωτός.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic LIGHT|LIGHT]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.7|<< John 1:7]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.9|John 1:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

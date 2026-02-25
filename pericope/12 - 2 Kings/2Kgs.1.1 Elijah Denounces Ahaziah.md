@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elijah Denounces Ahaziah
+type: Pericope
 pericope: "[[2Kgs.1.1 Elijah Denounces Ahaziah|Elijah Denounces Ahaziah]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 1
 book/chapter: "[[2Kgs.1|2 Kings 1]]"
-genre:
+chronological_order: 571
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~853–852 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 16
 verses:
 - "[[2Kgs.1.1]]"
 - "[[2Kgs.1.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[2Kgs.1.16]]"
 ---
 
-[[2Kgs.1|2 Kings 1:1 - 2 Kings 1:16]]
+<small>[[2Kgs.1|2 Kings 1:1-16]]</small>
 *Elijah Denounces Ahaziah*
 
 [[2Kgs.1.1|1]] Then Moab rebelled against Israel after the death of Ahab.

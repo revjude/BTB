@@ -1,8 +1,57 @@
+---
+title: Numbers 33:51
+type: Verse
+kjv: "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;"
+bsb: "“Speak to the Israelites and tell them: When you cross the Jordan into the land of Canaan,"
+hebrew: "דַּבֵּר֙ אֶל־ בְּנֵ֣י יִשְׂרָאֵ֔ל וְאָמַרְתָּ֖ אֲלֵהֶ֑ם כִּ֥י אַתֶּ֛ם עֹבְרִ֥ים אֶת־ הַיַּרְדֵּ֖ן אֶל־ אֶ֥רֶץ כְּנָֽעַן׃"
+pericope: "[[Num.33.50 Instructions for Occupying Canaan|Instructions for Occupying Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 33
+book/chapter: "[[Num.33|Numbers 33]]"
+chronological_order: 193
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H0859D]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 33:51**<big><big>[[Num.33.50 Instructions for Occupying Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;
 <small><sub>**BSB:**</sub></small>
 “Speak to the Israelites and tell them: When you cross the Jordan into the land of Canaan,
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֖]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H3588A\|כִּ֥י]] [[H0859D\|אַתֶּ֛ם]] [[H5674A\|עֹבְרִ֥ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֥רֶץ]] [[H3667A\|כְּנָֽעַן]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.33.51|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.33.50|<< Numbers 33:50]]</td><td align="center" style="border:none;">[[Num.33|Numbers 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.33.52|Numbers 33:52 >>]]</td></tr></table>
 

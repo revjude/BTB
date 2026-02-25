@@ -1,8 +1,73 @@
+---
+title: Genesis 48:5
+type: Verse
+kjv: "And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, are mine; as Reuben and Simeon, they shall be mine."
+bsb: "And now your two sons born to you in Egypt before I came to you here shall be reckoned as mine; Ephraim and Manasseh shall be mine, just as Reuben and Simeon are mine."
+hebrew: "וְעַתָּ֡ה שְׁנֵֽי־ בָנֶיךָ֩ הַנּוֹלָדִ֨ים לְךָ֜ בְּאֶ֣רֶץ מִצְרַ֗יִם עַד־ בֹּאִ֥י אֵלֶ֛יךָ מִצְרַ֖יְמָה לִי־ הֵ֑ם אֶפְרַ֙יִם֙ וּמְנַשֶּׁ֔ה כִּרְאוּבֵ֥ן וְשִׁמְע֖וֹן יִֽהְיוּ־ לִֽי׃"
+pericope: "[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|Jacob Blesses Ephraim and Manasseh]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 48
+book/chapter: "[[Gen.48|Genesis 48]]"
+chronological_order: 90
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADOPTION|ADOPTION]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANASSEH|MANASSEH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H8147]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H9009]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9011]]"
+- "[[H9030]]"
+- "[[H1992]]"
+- "[[H0669G]]"
+- "[[H4519G]]"
+- "[[H9004]]"
+- "[[H7205]]"
+- "[[H8095G]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 48:5**<big><big>[[Gen.48.1 Jacob Blesses Ephraim and Manasseh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now thy two sons, Ephraim and Manasseh, which were born unto thee in the land of Egypt before I came unto thee into Egypt, [are] mine; as Reuben and Simeon, they shall be mine.
 <small><sub>**BSB:**</sub></small>
 And now your two sons born to you in Egypt before I came to you here shall be reckoned as mine; Ephraim and Manasseh shall be mine, just as Reuben and Simeon are mine.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֡ה]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H1121A\|בָנֶי]][[H9021\|ךָ֩]] [[H9009\|הַ]][[H3205\|נּוֹלָדִ֨ים]] [[H9005\|לְ]][[H9031\|ךָ֜]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֗יִם]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּאִ֥]][[H9040\|י]] [[H0413\|אֵלֶ֛י]][[H9031\|ךָ]] [[H4714G\|מִצְרַ֖יְמָ]][[H9011\|ה]] [[H9005\|לִ]][[H9030\|י]][[H9014\|־]] [[H1992\|הֵ֑ם]] [[H0669G\|אֶפְרַ֙יִם֙]] [[H9002\|וּ]][[H4519G\|מְנַשֶּׁ֔ה]] [[H9004\|כִּ]][[H7205\|רְאוּבֵ֥ן]] [[H9002\|וְ]][[H8095G\|שִׁמְע֖וֹן]] [[H1961\|יִֽהְיוּ]][[H9014\|־]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADOPTION|ADOPTION]] • [[topic EPHRAIM|EPHRAIM]] • [[topic ISRAEL|ISRAEL]] • [[topic MANASSEH|MANASSEH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.48.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.48.4|<< Genesis 48:4]]</td><td align="center" style="border:none;">[[Gen.48|Genesis 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.48.6|Genesis 48:6 >>]]</td></tr></table>
 

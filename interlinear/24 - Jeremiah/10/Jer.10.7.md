@@ -1,8 +1,65 @@
+---
+title: Jeremiah 10:7
+type: Verse
+kjv: "Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise men of the nations, and in all their kingdoms, there is none like unto thee."
+bsb: "Who would not fear You, O King of nations? This is Your due. For among all the wise men of the nations, and in all their kingdoms, there is none like You."
+hebrew: "מִ֣י לֹ֤א יִֽרָאֲךָ֙ מֶ֣לֶךְ הַגּוֹיִ֔ם כִּ֥י לְךָ֖ יָאָ֑תָה כִּ֣י בְכָל־ חַכְמֵ֧י הַגּוֹיִ֛ם וּבְכָל־ מַלְכוּתָ֖ם מֵאֵ֥ין כָּמֽוֹךָ׃"
+pericope: "[[Jer.10.1 The Sovereignty of God|The Sovereignty of God]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 10
+book/chapter: "[[Jer.10|Jeremiah 10]]"
+chronological_order: 727
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H4310]]"
+- "[[H3808]]"
+- "[[H3372H]]"
+- "[[H9031]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H2969]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2450]]"
+- "[[H9002]]"
+- "[[H4438]]"
+- "[[H9028]]"
+- "[[H9006]]"
+- "[[H0369]]"
+- "[[H3644G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 10:7**<big><big>[[Jer.10.1 The Sovereignty of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who would not fear thee, O King of nations? for to thee doth it appertain: forasmuch as among all the wise [men] of the nations, and in all their kingdoms, [there is] none like unto thee.
 <small><sub>**BSB:**</sub></small>
 Who would not fear You, O King of nations? This is Your due. For among all the wise men of the nations, and in all their kingdoms, there is none like You.
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֣י]] [[H3808\|לֹ֤א]] [[H3372H\|יִֽרָאֲ]][[H9031\|ךָ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H3588A\|כִּ֥י]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H2969\|יָאָ֑תָה]] [[H3588A\|כִּ֣י]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H2450\|חַכְמֵ֧י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֛ם]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H4438\|מַלְכוּתָ֖]][[H9028\|ם]] [[H9006\|מֵ]][[H0369\|אֵ֥ין]] [[H3644G\|כָּמֽוֹ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.10.6|<< Jeremiah 10:6]]</td><td align="center" style="border:none;">[[Jer.10|Jeremiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.10.8|Jeremiah 10:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

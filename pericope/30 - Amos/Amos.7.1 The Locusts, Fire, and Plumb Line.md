@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Locusts, Fire, and Plumb Line
+type: Pericope
 pericope: "[[Amos.7.1 The Locusts, Fire, and Plumb Line|The Locusts, Fire, and Plumb Line]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 7
 book/chapter: "[[Amos.7|Amos 7]]"
-genre:
+chronological_order: 604
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 9
 verses:
 - "[[Amos.7.1]]"
 - "[[Amos.7.2]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Amos.7.9]]"
 ---
 
-[[Amos.7|Amos 7:1 - Amos 7:9]]
+<small>[[Amos.7|Amos 7:1-9]]</small>
 *The Locusts, Fire, and Plumb Line*
 
 [[Amos.7.1|1]] Thus hath the Lord GOD shewed unto me; and, behold, he formed grasshoppers in the beginning of the shooting up of the latter growth; and, lo, \[it was\] the latter growth after the king’s mowings.

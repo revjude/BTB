@@ -1,10 +1,53 @@
+---
+title: Mark 6:29
+type: Verse
+kjv: "And when his disciples heard of it, they came and took up his corpse, and laid it in a tomb."
+bsb: "When John’s disciples heard about this, they came and took his body and placed it in a tomb."
+greek: "Καὶ ἀκούσαντες οἱ μαθηταὶ αὐτοῦ ἦλθον καὶ ἦραν τὸ πτῶμα αὐτοῦ καὶ ἔθηκαν αὐτὸ ἐν τῷ μνημείῳ.¶"
+pericope: "[[Mark.6.14 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2064]]"
+- "[[G0142]]"
+- "[[G4430]]"
+- "[[G5087]]"
+- "[[G1722]]"
+- "[[G3419]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 6:29**<big><big>[[Mark.6.14 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when his disciples heard [of it], they came and took up his corpse, and laid it in a tomb.
 <small><sub>**BSB:**</sub></small>
 When John’s disciples heard about this, they came and took his body and placed it in a tomb.
-<small><sub>**Literal:**</sub></small>
-And having heard [it] the disciples of him came and they took up the body of him and laid it in <the> [a] tomb.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.28|<< Mark 6:28]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.30|Mark 6:30 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G0191\|ἀκούσαντες]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G2064\|ἦλθον]]  [[G2532\|καὶ]]  [[G0142\|ἦραν]]  [[G3588\|τὸ]]  [[G4430\|πτῶμα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G5087\|ἔθηκαν]]  [[G0846\|αὐτὸ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3419\|μνημείῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.28|<< Mark 6:28]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.30|Mark 6:30 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

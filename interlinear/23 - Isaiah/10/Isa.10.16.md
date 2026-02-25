@@ -1,8 +1,62 @@
+---
+title: Isaiah 10:16
+type: Verse
+kjv: "Therefore shall the Lord, the Lord of hosts, send among his fat ones leanness; and under his glory he shall kindle a burning like the burning of a fire."
+bsb: "Therefore the Lord GOD of Hosts will send a wasting disease among Assyria’s stout warriors, and under his pomp will be kindled a fire like a burning flame."
+hebrew: "לָ֠כֵן יְשַׁלַּ֨ח הָאָד֜וֹן יְהוָ֧ה צְבָא֛וֹת בְּמִשְׁמַנָּ֖יו רָז֑וֹן וְתַ֧חַת כְּבֹד֛וֹ יֵקַ֥ד יְקֹ֖ד כִּיק֥וֹד אֵֽשׁ׃"
+pericope: "[[Isa.10.5 Judgment on Assyria|Judgment on Assyria]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 10
+book/chapter: "[[Isa.10|Isaiah 10]]"
+chronological_order: 620
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H7971G]]"
+- "[[H9009]]"
+- "[[H0113]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9003]]"
+- "[[H4924B]]"
+- "[[H9023]]"
+- "[[H7332]]"
+- "[[H9002]]"
+- "[[H8478G]]"
+- "[[H3519]]"
+- "[[H3344]]"
+- "[[H3350]]"
+- "[[H9004]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 10:16**<big><big>[[Isa.10.5 Judgment on Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore shall the Lord, the Lord of hosts, send among his fat ones leanness; and under his glory he shall kindle a burning like the burning of a fire.
 <small><sub>**BSB:**</sub></small>
 Therefore the Lord GOD of Hosts will send a wasting disease among Assyria’s stout warriors, and under his pomp will be kindled a fire like a burning flame.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֠]][[H3651C\|כֵן]] [[H7971G\|יְשַׁלַּ֨ח]] [[H9009\|הָ]][[H0113\|אָד֜וֹן]] [[H3068G\|יְהוָ֧ה]] [[H6635B\|צְבָא֛וֹת]] [[H9003\|בְּ]][[H4924B\|מִשְׁמַנָּ֖י]][[H9023\|ו]] [[H7332\|רָז֑וֹן]] [[H9002\|וְ]][[H8478G\|תַ֧חַת]] [[H3519\|כְּבֹד֛]][[H9023\|וֹ]] [[H3344\|יֵקַ֥ד]] [[H3350\|יְקֹ֖ד]] [[H9004\|כִּ]][[H3350\|יק֥וֹד]] [[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic ISAIAH|ISAIAH]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.10.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.10.15|<< Isaiah 10:15]]</td><td align="center" style="border:none;">[[Isa.10|Isaiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.10.17|Isaiah 10:17 >>]]</td></tr></table>
 

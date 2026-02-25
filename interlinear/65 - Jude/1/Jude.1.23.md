@@ -1,10 +1,53 @@
+---
+title: Jude 1:23
+type: Verse
+kjv: "And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh."
+bsb: "save others by snatching them from the fire; and to still others show mercy tempered with fear, hating even the clothing stained by the flesh."
+greek: "οὓς δὲ σῴζετε ἐκ τοῦ πυρὸς ἁρπάζοντες, οὓς δὲ ἐλεᾶτε ἐν φόβῳ, μισοῦντες καὶ τὸν ἀπὸ τῆς σαρκὸς ἐσπιλωμένον χιτῶνα.¶"
+pericope: "[[Jude.1.17 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G4982]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4442]]"
+- "[[G0726]]"
+- "[[G1653]]"
+- "[[G1722]]"
+- "[[G5401]]"
+- "[[G3404]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G4561]]"
+- "[[G4695]]"
+- "[[G5509]]"
+texts:
+- NKO
+- k
+- NO
+---
+
 **Jude 1:23**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And others save with fear, pulling [them] out of the fire; hating even the garment spotted by the flesh.
 <small><sub>**BSB:**</sub></small>
 save others by snatching them from the fire; and to still others show mercy tempered with fear, hating even the clothing stained by the flesh.
-<small><sub>**Literal:**</sub></small>
-others however do save from the fire snatching , to others then do show mercy with fear, hating even the by the flesh stained clothing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.22|<< Jude 1:22]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.24|Jude 1:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|οὓς]]  [[G1161\|δὲ]]  [[G4982\|σῴζετε]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4442\|πυρὸς]]  [[G0726\|ἁρπάζοντες,]]  [[G3739\|οὓς]]  [[G1161\|δὲ]]  [[G1653\|ἐλεᾶτε]]  [[G1722\|ἐν]]  [[G5401\|φόβῳ,]]  [[G3404\|μισοῦντες]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G4561\|σαρκὸς]]  [[G4695\|ἐσπιλωμένον]]  [[G5509\|χιτῶνα.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.22|<< Jude 1:22]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.24|Jude 1:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

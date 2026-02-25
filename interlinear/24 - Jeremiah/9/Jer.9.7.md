@@ -1,8 +1,65 @@
+---
+title: Jeremiah 9:7
+type: Verse
+kjv: "Therefore thus saith the LORD of hosts, Behold, I will melt them, and try them; for how shall I do for the daughter of my people?"
+bsb: "Therefore this is what the LORD of Hosts says: “Behold, I will refine them and test them, for what else can I do because of the daughter of My people?"
+hebrew: "לָכֵ֗ן כֹּ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת הִנְנִ֥י צוֹרְפָ֖ם וּבְחַנְתִּ֑ים כִּֽי־ אֵ֣יךְ אֶעֱשֶׂ֔ה מִפְּנֵ֖י בַּת־ עַמִּֽי׃"
+pericope: "[[Jer.9.1 A Lament over Zion|A Lament over Zion]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 9
+book/chapter: "[[Jer.9|Jeremiah 9]]"
+chronological_order: 726
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic REFINING|REFINING]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6884]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H0974]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0349A]]"
+- "[[H6213A]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H1323G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 9:7**<big><big>[[Jer.9.1 A Lament over Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thus saith the LORD of hosts, Behold, I will melt them, and try them; for how shall I do for the daughter of my people?
 <small><sub>**BSB:**</sub></small>
 Therefore this is what the LORD of Hosts says: “Behold, I will refine them and test them, for what else can I do because of the daughter of My people?
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H3541\|כֹּ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H6884\|צוֹרְפָ֖]][[H9038\|ם]] [[H9001\|וּ]][[H0974\|בְחַנְתִּ֑י]][[H9038\|ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0349A\|אֵ֣יךְ]] [[H6213A\|אֶעֱשֶׂ֔ה]] [[H9006\|מִ]][[H6440I\|פְּנֵ֖י]] [[H1323G\|בַּת]][[H9014\|־]] [[H5971A\|עַמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic REFINING|REFINING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.9.6|<< Jeremiah 9:6]]</td><td align="center" style="border:none;">[[Jer.9|Jeremiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.9.8|Jeremiah 9:8 >>]]</td></tr></table>
 

@@ -1,8 +1,67 @@
+---
+title: Deuteronomy 1:35
+type: Verse
+kjv: "Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,"
+bsb: "“Not one of the men of this evil generation shall see the good land I swore to give your fathers,"
+hebrew: "אִם־ יִרְאֶ֥ה אִישׁ֙ בָּאֲנָשִׁ֣ים הָאֵ֔לֶּה הַדּ֥וֹר הָרָ֖ע הַזֶּ֑ה אֵ֚ת הָאָ֣רֶץ הַטּוֹבָ֔ה אֲשֶׁ֣ר נִשְׁבַּ֔עְתִּי לָתֵ֖ת לַאֲבֹתֵיכֶֽם׃"
+pericope: "[[Deut.1.34 Israel’s Penalty|Israel’s Penalty]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CALEB|CALEB]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H0582]]"
+- "[[H9009]]"
+- "[[H0428]]"
+- "[[H1755]]"
+- "[[H7451H]]"
+- "[[H2088]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H2896A]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H0001G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:35**<big><big>[[Deut.1.34 Israel’s Penalty|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely there shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,
 <small><sub>**BSB:**</sub></small>
 “Not one of the men of this evil generation shall see the good land I swore to give your fathers,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518H\|אִם]][[H9014\|־]] [[H7200G\|יִרְאֶ֥ה]] [[H0376I\|אִישׁ֙]] [[H9003\|בָּ]][[H0582\|אֲנָשִׁ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9009\|הַ]][[H1755\|דּ֥וֹר]] [[H9009\|הָ]][[H7451H\|רָ֖ע]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H0853\|אֵ֚ת]] [[H9009\|הָ]][[H0776G\|אָ֣רֶץ]] [[H9009\|הַ]][[H2896A\|טּוֹבָ֔ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H7650\|נִשְׁבַּ֔עְתִּי]] [[H9005\|לָ]][[H5414G\|תֵ֖ת]] [[H9005\|לַ]][[H0001G\|אֲבֹתֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALEB|CALEB]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.34|<< Deuteronomy 1:34]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.36|Deuteronomy 1:36 >>]]</td></tr></table>
 

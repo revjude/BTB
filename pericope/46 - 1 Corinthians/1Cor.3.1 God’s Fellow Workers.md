@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Fellow Workers
+type: Pericope
 pericope: "[[1Cor.3.1 God’s Fellow Workers|God’s Fellow Workers]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 3
 book/chapter: "[[1Cor.3|1 Corinthians 3]]"
-genre:
+chronological_order: 1060
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 9
 verses:
 - "[[1Cor.3.1]]"
 - "[[1Cor.3.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Cor.3.9]]"
 ---
 
-[[1Cor.3|1 Corinthians 3:1 - 1 Corinthians 3:9]]
+<small>[[1Cor.3|1 Corinthians 3:1-9]]</small>
 *God’s Fellow Workers*
 
 [[1Cor.3.1|1]] And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, \[even\] as unto babes in Christ.

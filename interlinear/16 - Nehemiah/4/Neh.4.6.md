@@ -1,8 +1,60 @@
+---
+title: Nehemiah 4:6
+type: Verse
+kjv: "So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work."
+bsb: "So we rebuilt the wall until all of it was joined together up to half its height, for the people had a mind to work."
+hebrew: "וַנִּבְנֶה֙ אֶת־ הַ֣חוֹמָ֔ה וַתִּקָּשֵׁ֥ר כָּל־ הַחוֹמָ֖ה עַד־ חֶצְיָ֑הּ וַיְהִ֧י לֵ֦ב לָעָ֖ם לַעֲשֽׂוֹת׃ פ"
+pericope: "[[Neh.4.1 The Work Ridiculed|The Work Ridiculed]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 4
+book/chapter: "[[Neh.4|Nehemiah 4]]"
+chronological_order: 916
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2346G]]"
+- "[[H7194]]"
+- "[[H3605]]"
+- "[[H5704]]"
+- "[[H2677]]"
+- "[[H9024]]"
+- "[[H1961]]"
+- "[[H3820A]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 4:6**<big><big>[[Neh.4.1 The Work Ridiculed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work.
 <small><sub>**BSB:**</sub></small>
 So we rebuilt the wall until all of it was joined together up to half its height, for the people had a mind to work.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1129\|נִּבְנֶה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ֣]][[H2346G\|חוֹמָ֔ה]] [[H9001\|וַ]][[H7194\|תִּקָּשֵׁ֥ר]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2346G\|חוֹמָ֖ה]] [[H5704\|עַד]][[H9014\|־]] [[H2677\|חֶצְיָ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H1961\|יְהִ֧י]] [[H3820A\|לֵ֦ב]] [[H9005\|לָ]][[H5971A\|עָ֖ם]] [[H9005\|לַ]][[H6213A\|עֲשֽׂוֹת]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DILIGENCE|DILIGENCE]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.5|<< Nehemiah 4:5]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.7|Nehemiah 4:7 >>]]</td></tr></table>
 
@@ -19,7 +71,7 @@ So we rebuilt the wall until all of it was joined together up to half its height
 | and it belonged  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H1961\|יְהִ֧י]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> y.Hi<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a heart  |**<big>&#8207;[[H3820A\|לֵ֦ב]]&#8207; </big>**| lev<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to the people  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H5971A\|עָ֖ם]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> 'Am<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to work  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשֽׂוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to work  |**<big>&#8207;[[H9005\|לַ]]&#8207;&#8207;[[H6213A\|עֲשֽׂוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> 'a.Sot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.4.5|<< Nehemiah 4:5]]</td><td align="center" style="border:none;">[[Neh.4|Nehemiah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.4.7|Nehemiah 4:7 >>]]</td></tr></table>
 
 

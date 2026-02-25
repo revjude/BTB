@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Sabbath
+type: Pericope
 pericope: "[[Exod.35.1 The Sabbath|The Sabbath]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 35
 book/chapter: "[[Exod.35|Exodus 35]]"
-genre:
+chronological_order: 127
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,13 +26,14 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 3
 verses:
 - "[[Exod.35.1]]"
 - "[[Exod.35.2]]"
 - "[[Exod.35.3]]"
 ---
 
-[[Exod.35|Exodus 35:1 - Exodus 35:3]]
+<small>[[Exod.35|Exodus 35:1-3]]</small>
 *The Sabbath*
 
 [[Exod.35.1|1]] And Moses gathered all the congregation of the children of Israel together, and said unto them, These \[are\] the words which the LORD hath commanded, that \[ye\] should do them.

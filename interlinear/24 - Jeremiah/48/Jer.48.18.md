@@ -1,8 +1,62 @@
+---
+title: Jeremiah 48:18
+type: Verse
+kjv: "Thou daughter that dost inhabit Dibon, come down from thy glory, and sit in thirst; for the spoiler of Moab shall come upon thee, and he shall destroy thy strong holds."
+bsb: "Come down from your glory; sit on parched ground, O daughter dwelling in Dibon, for the destroyer of Moab has come against you; he has destroyed your fortresses."
+hebrew: "רְדִ֤י מִכָּבוֹד֙ וּשְׁבִ֣י בַצָּמָ֔א יֹשֶׁ֖בֶת בַּת־ דִּיב֑וֹן כִּֽי־ שֹׁדֵ֤ד מוֹאָב֙ עָ֣לָה בָ֔ךְ שִׁחֵ֖ת מִבְצָרָֽיִךְ׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DIBON|DIBON]]"
+strongs:
+- "[[H3381]]"
+- "[[H9006]]"
+- "[[H3519]]"
+- "[[H3427]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H6772]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H1769G]]"
+- "[[H3588A]]"
+- "[[H7703]]"
+- "[[H4124G]]"
+- "[[H5927G]]"
+- "[[H9032]]"
+- "[[H7843]]"
+- "[[H4013]]"
+- "[[H9022]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 48:18**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou daughter that dost inhabit Dibon, come down from [thy] glory, and sit in thirst; for the spoiler of Moab shall come upon thee, [and] he shall destroy thy strong holds.
 <small><sub>**BSB:**</sub></small>
 Come down from your glory; sit on parched ground, O daughter dwelling in Dibon, for the destroyer of Moab has come against you; he has destroyed your fortresses.
+<small><sub>**Hebrew:**</sub></small>
+[[H3381\|רְדִ֤י]] [[H9006\|מִ]][[H3519\|כָּבוֹד֙]] [[H9002\|וּ]][[H3427\|שְׁבִ֣י]] [[H9003\|בַ]][[H6772\|צָּמָ֔א]] [[H3427\|יֹשֶׁ֖בֶת]] [[H1323G\|בַּת]][[H9014\|־]] [[H1769G\|דִּיב֑וֹן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7703\|שֹׁדֵ֤ד]] [[H4124G\|מוֹאָב֙]] [[H5927G\|עָ֣לָה]] [[H9003\|בָ֔]][[H9032\|ךְ]] [[H7843\|שִׁחֵ֖ת]] [[H4013\|מִבְצָרָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DIBON|DIBON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.17|<< Jeremiah 48:17]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.19|Jeremiah 48:19 >>]]</td></tr></table>
 

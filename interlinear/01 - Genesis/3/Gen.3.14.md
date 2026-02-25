@@ -1,8 +1,81 @@
+---
+title: Genesis 3:14
+type: Verse
+kjv: "And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:"
+bsb: "So the LORD God said to the serpent: “Because you have done this, cursed are you above all livestock and every beast of the field! On your belly will you go, and dust you will eat, all the days of your life."
+hebrew: "וַיֹּאמֶר֩ יְהֹוָ֨ה אֱלֹהִ֥ים׀ אֶֽל־ הַנָּחָשׁ֮ כִּ֣י עָשִׂ֣יתָ זֹּאת֒ אָר֤וּר אַתָּה֙ מִכָּל־ הַבְּהֵמָ֔ה וּמִכֹּ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה עַל־ גְּחֹנְךָ֣ תֵלֵ֔ךְ וְעָפָ֥ר תֹּאכַ֖ל כָּל־ יְמֵ֥י חַיֶּֽיךָ׃"
+pericope: "[[Gen.3.14 The Fate of the Serpent|The Fate of the Serpent]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 3
+book/chapter: "[[Gen.3|Genesis 3]]"
+chronological_order: 3
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic CURSE|CURSE]]"
+- "[[topic FALL OF MAN|FALL OF MAN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SERPENT|SERPENT]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5175]]"
+- "[[H3588A]]"
+- "[[H6213A]]"
+- "[[H2063]]"
+- "[[H0779]]"
+- "[[H0859A]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0929]]"
+- "[[H9002]]"
+- "[[H2416C]]"
+- "[[H7704G]]"
+- "[[H5921A]]"
+- "[[H1512]]"
+- "[[H9021]]"
+- "[[H1980G]]"
+- "[[H6083]]"
+- "[[H0398]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 3:14**<big><big>[[Gen.3.14 The Fate of the Serpent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD God said unto the serpent, Because thou hast done this, thou [art] cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:
 <small><sub>**BSB:**</sub></small>
 So the LORD God said to the serpent: “Because you have done this, cursed are you above all livestock and every beast of the field! On your belly will you go, and dust you will eat, all the days of your life.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H3068G\|יְהֹוָ֨ה]] [[H0430G\|אֱלֹהִ֥ים]][[H9015\|׀]] [[H0413\|אֶֽל]][[H9014\|־]] [[H9009\|הַ]][[H5175\|נָּחָשׁ֮]] [[H3588A\|כִּ֣י]] [[H6213A\|עָשִׂ֣יתָ]] [[H2063\|זֹּאת֒]] [[H0779\|אָר֤וּר]] [[H0859A\|אַתָּה֙]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֔ה]] [[H9002\|וּ]][[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H2416C\|חַיַּ֣ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶ֑ה]] [[H5921A\|עַל]][[H9014\|־]] [[H1512\|גְּחֹנְ]][[H9021\|ךָ֣]] [[H1980G\|תֵלֵ֔ךְ]] [[H9002\|וְ]][[H6083\|עָפָ֥ר]] [[H0398\|תֹּאכַ֖ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3117G\|יְמֵ֥י]] [[H2416E\|חַיֶּֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic CURSE|CURSE]] • [[topic FALL OF MAN|FALL OF MAN]] • [[topic GOD|GOD]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic SATAN|SATAN]] • [[topic SERPENT|SERPENT]] • [[topic SIN|SIN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.3.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.3.13|<< Genesis 3:13]]</td><td align="center" style="border:none;">[[Gen.3|Genesis 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.3.15|Genesis 3:15 >>]]</td></tr></table>
 

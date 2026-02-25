@@ -1,8 +1,73 @@
+---
+title: 2 Kings 20:17
+type: Verse
+kjv: "Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD."
+bsb: "The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon. Nothing will be left, says the LORD."
+hebrew: "הִנֵּה֮ יָמִ֣ים בָּאִים֒ וְנִשָּׂ֣א׀ כָּל־ אֲשֶׁ֣ר בְּבֵיתֶ֗ךָ וַאֲשֶׁ֨ר אָצְר֧וּ אֲבֹתֶ֛יךָ עַד־ הַיּ֥וֹם הַזֶּ֖ה בָּבֶ֑לָה לֹֽא־ יִוָּתֵ֥ר דָּבָ֖ר אָמַ֥ר יְהוָֽה׃"
+pericope: "[[2Kgs.20.12 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H2009]]"
+- "[[H3117G]]"
+- "[[H0935G]]"
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0686]]"
+- "[[H0001G]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H3808]]"
+- "[[H3498]]"
+- "[[H1697I]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 20:17**<big><big>[[2Kgs.20.12 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the days come, that all that [is] in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 The time will surely come when everything in your palace and all that your fathers have stored up until this day will be carried off to Babylon. Nothing will be left, says the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה֮]] [[H3117G\|יָמִ֣ים]] [[H0935G\|בָּאִים֒]] [[H9001\|וְ]][[H5375H\|נִשָּׂ֣א]][[H9015\|׀]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H1004B\|בֵיתֶ֗]][[H9021\|ךָ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֨ר]] [[H0686\|אָצְר֧וּ]] [[H0001G\|אֲבֹתֶ֛י]][[H9021\|ךָ]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H0894\|בָּבֶ֑לָ]][[H9011\|ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3498\|יִוָּתֵ֥ר]] [[H1697I\|דָּבָ֖ר]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PROPHECY|PROPHECY]] • [[topic REPROOF|REPROOF]] • [[topic RICH, THE|RICH, THE]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.16|<< 2 Kings 20:16]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.18|2 Kings 20:18 >>]]</td></tr></table>
 

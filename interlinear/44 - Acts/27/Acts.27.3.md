@@ -1,10 +1,61 @@
+---
+title: Acts 27:3
+type: Verse
+kjv: "And the next day we touched at Sidon. And Julius courteously entreated Paul, and gave him liberty to go unto his friends to refresh himself."
+bsb: "The next day we landed at Sidon, and Julius treated Paul with consideration, allowing him to visit his friends and receive their care."
+greek: "τῇ τε ἑτέρᾳ κατήχθημεν εἰς Σιδῶνα, φιλανθρώπως τε ὁ Ἰούλιος τῷ Παύλῳ χρησάμενος ἐπέτρεψεν πρὸς τοὺς φίλους πορευθέντι ἐπιμελείας τυχεῖν."
+pericope: "[[Acts.27.1 Paul Sails for Rome|Paul Sails for Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JULIUS|JULIUS]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHENICIA|PHENICIA]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SIDON|SIDON]]"
+strongs:
+- "[[G3588]]"
+- "[[G5037]]"
+- "[[G2087]]"
+- "[[G2609]]"
+- "[[G1519]]"
+- "[[G4605]]"
+- "[[G5364]]"
+- "[[G2457]]"
+- "[[G3972G]]"
+- "[[G5530]]"
+- "[[G2010]]"
+- "[[G4314]]"
+- "[[G5384]]"
+- "[[G4198]]"
+- "[[G1958]]"
+- "[[G5177]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 27:3**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the next [day] we touched at Sidon. And Julius courteously entreated Paul, and gave [him] liberty to go unto his friends to refresh himself.
 <small><sub>**BSB:**</sub></small>
 The next day we landed at Sidon, and Julius treated Paul with consideration, allowing him to visit his friends and receive their care.
-<small><sub>**Literal:**</sub></small>
-On the then next [day] we landed at Sidon, Considerately then <the> Julius <the> Paul was treating he allowed [him] to <the> [his] friends may be going care to receive.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.2|<< Acts 27:2]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.4|Acts 27:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῇ]]  [[G5037\|τε]]  [[G2087\|ἑτέρᾳ]]  [[G2609\|κατήχθημεν]]  [[G1519\|εἰς]]  [[G4605\|Σιδῶνα,]]  [[G5364\|φιλανθρώπως]]  [[G5037\|τε]]  [[G3588\|ὁ]]  [[G2457\|Ἰούλιος]]  [[G3588\|τῷ]]  [[G3972G\|Παύλῳ]]  [[G5530\|χρησάμενος]]  [[G2010\|ἐπέτρεψεν]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G5384\|φίλους]]  [[G4198\|πορευθέντι]]  [[G1958\|ἐπιμελείας]]  [[G5177\|τυχεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JULIUS|JULIUS]] • [[topic KINDNESS|KINDNESS]] • [[topic PAUL|PAUL]] • [[topic PHENICIA|PHENICIA]] • [[topic PRISONERS|PRISONERS]] • [[topic SIDON|SIDON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.2|<< Acts 27:2]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.4|Acts 27:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

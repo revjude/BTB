@@ -1,10 +1,58 @@
+---
+title: 1 Peter 4:10
+type: Verse
+kjv: "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God."
+bsb: "As good stewards of the manifold grace of God, each of you should use whatever gift he has received to serve one another."
+greek: "ἕκαστος καθὼς ἔλαβεν χάρισμα εἰς ἑαυτοὺς αὐτὸ διακονοῦντες ὡς καλοὶ οἰκονόμοι ποικίλης χάριτος θεοῦ·"
+pericope: "[[1Pet.4.1 Living for God’s Glory|Living for God’s Glory]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 4
+book/chapter: "[[1Pet.4|1 Peter 4]]"
+chronological_order: 1138
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic STEWARD|STEWARD]]"
+strongs:
+- "[[G1538]]"
+- "[[G2531]]"
+- "[[G2983]]"
+- "[[G5486]]"
+- "[[G1519]]"
+- "[[G1438]]"
+- "[[G0846]]"
+- "[[G1247]]"
+- "[[G5613]]"
+- "[[G2570G]]"
+- "[[G3623]]"
+- "[[G4164]]"
+- "[[G5485]]"
+- "[[G2316]]"
+texts:
+- NKO
+---
+
 **1 Peter 4:10**<big><big>[[1Pet.4.1 Living for God’s Glory|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As every man hath received the gift, [even so] minister the same one to another, as good stewards of the manifold grace of God.
 <small><sub>**BSB:**</sub></small>
 As good stewards of the manifold grace of God, each of you should use whatever gift he has received to serve one another.
-<small><sub>**Literal:**</sub></small>
-each even as has received a gift to each other them serving as good stewards of [the] manifold grace of God:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.9|<< 1 Peter 4:9]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.11|1 Peter 4:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1538\|ἕκαστος]]  [[G2531\|καθὼς]]  [[G2983\|ἔλαβεν]]  [[G5486\|χάρισμα]]  [[G1519\|εἰς]]  [[G1438\|ἑαυτοὺς]]  [[G0846\|αὐτὸ]]  [[G1247\|διακονοῦντες]]  [[G5613\|ὡς]]  [[G2570G\|καλοὶ]]  [[G3623\|οἰκονόμοι]]  [[G4164\|ποικίλης]]  [[G5485\|χάριτος]]  [[G2316\|θεοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic STEWARD|STEWARD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.4.9|<< 1 Peter 4:9]]</td><td align="center" style="border:none;">[[1Pet.4|1 Peter 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.4.11|1 Peter 4:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

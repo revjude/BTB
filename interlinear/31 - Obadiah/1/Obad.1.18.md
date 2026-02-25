@@ -1,8 +1,58 @@
+---
+title: Obadiah 1:18
+type: Verse
+kjv: "And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the LORD hath spoken it."
+bsb: "Then the house of Jacob will be a blazing fire, and the house of Joseph a burning flame; but the house of Esau will be stubble—Jacob will set it ablaze and consume it. Therefore no survivor will remain from the house of Esau.” For the LORD has spoken."
+hebrew: "וְהָיָה֩ בֵית־ יַעֲקֹ֨ב אֵ֜שׁ וּבֵ֧ית יוֹסֵ֣ף לֶהָבָ֗ה וּבֵ֤ית עֵשָׂו֙ לְקַ֔שׁ וְדָלְק֥וּ בָהֶ֖ם וַאֲכָל֑וּם וְלֹֽא־ יִֽהְיֶ֤ה שָׂרִיד֙ לְבֵ֣ית עֵשָׂ֔ו כִּ֥י יְהוָ֖ה דִּבֵּֽר׃"
+pericope: "[[Obad.1.15 The Deliverance of Israel|The Deliverance of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3290]]"
+- "[[H0784]]"
+- "[[H9002]]"
+- "[[H3130G]]"
+- "[[H3852]]"
+- "[[H6215H]]"
+- "[[H9005]]"
+- "[[H7179]]"
+- "[[H1814]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H0398]]"
+- "[[H3808]]"
+- "[[H8300]]"
+- "[[H3588A]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:18**<big><big>[[Obad.1.15 The Deliverance of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be [any] remaining of the house of Esau; for the LORD hath spoken [it].
 <small><sub>**BSB:**</sub></small>
 Then the house of Jacob will be a blazing fire, and the house of Joseph a burning flame; but the house of Esau will be stubble—Jacob will set it ablaze and consume it. Therefore no survivor will remain from the house of Esau.” For the LORD has spoken.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֩]] [[H1004M\|בֵית]][[H9014\|־]] [[H3290\|יַעֲקֹ֨ב]] [[H0784\|אֵ֜שׁ]] [[H9002\|וּ]][[H1004M\|בֵ֧ית]] [[H3130G\|יוֹסֵ֣ף]] [[H3852\|לֶהָבָ֗ה]] [[H9002\|וּ]][[H1004M\|בֵ֤ית]] [[H6215H\|עֵשָׂו֙]] [[H9005\|לְ]][[H7179\|קַ֔שׁ]] [[H9001\|וְ]][[H1814\|דָלְק֥וּ]] [[H9003\|בָ]][[H9038\|הֶ֖ם]] [[H9001\|וַ]][[H0398\|אֲכָל֑וּ]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|יִֽהְיֶ֤ה]] [[H8300\|שָׂרִיד֙]] [[H9005\|לְ]][[H1004M\|בֵ֣ית]] [[H6215H\|עֵשָׂ֔ו]] [[H3588A\|כִּ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1696G\|דִּבֵּֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.17|<< Obadiah 1:17]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.19|Obadiah 1:19 >>]]</td></tr></table>
 

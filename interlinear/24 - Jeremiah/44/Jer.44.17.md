@@ -1,8 +1,89 @@
+---
+title: Jeremiah 44:17
+type: Verse
+kjv: "But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for then had we plenty of victuals, and were well, and saw no evil."
+bsb: "Instead, we will do everything we vowed to do: We will burn incense to the Queen of Heaven and offer drink offerings to her, just as we, our fathers, our kings, and our officials did in the cities of Judah and in the streets of Jerusalem. At that time we had plenty of food and good things, and we saw no disaster."
+hebrew: "כִּ֩י עָשֹׂ֨ה נַעֲשֶׂ֜ה אֶֽת־ כָּל־ הַדָּבָ֣ר׀ אֲשֶׁר־ יָצָ֣א מִפִּ֗ינוּ לְקַטֵּ֞ר לִמְלֶ֣כֶת הַשָּׁמַיִם֮ וְהַסֵּֽיךְ־ לָ֣הּ נְסָכִים֒ כַּאֲשֶׁ֨ר עָשִׂ֜ינוּ אֲנַ֤חְנוּ וַאֲבֹתֵ֙ינוּ֙ מְלָכֵ֣ינוּ וְשָׂרֵ֔ינוּ בְּעָרֵ֣י יְהוּדָ֔ה וּבְחֻצ֖וֹת יְרוּשָׁלִָ֑ם וַנִּֽשְׂבַּֽע־ לֶ֙חֶם֙ וַנִּֽהְיֶ֣ה טוֹבִ֔ים וְרָעָ֖ה לֹ֥א רָאִֽינוּ׃"
+pericope: "[[Jer.44.15 The Stubbornness of the People|The Stubbornness of the People]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic MOON|MOON]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H9015]]"
+- "[[H0834A]]"
+- "[[H3318O]]"
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H9025]]"
+- "[[H9005]]"
+- "[[H6999H]]"
+- "[[H4446]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H5258A]]"
+- "[[H9034]]"
+- "[[H5262]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H0587]]"
+- "[[H0001G]]"
+- "[[H4428G]]"
+- "[[H8269]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H2351]]"
+- "[[H3389]]"
+- "[[H9001]]"
+- "[[H7646]]"
+- "[[H3899G]]"
+- "[[H1961]]"
+- "[[H2896A]]"
+- "[[H7451C]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:17**<big><big>[[Jer.44.15 The Stubbornness of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for [then] had we plenty of victuals, and were well, and saw no evil.
 <small><sub>**BSB:**</sub></small>
 Instead, we will do everything we vowed to do: We will burn incense to the Queen of Heaven and offer drink offerings to her, just as we, our fathers, our kings, and our officials did in the cities of Judah and in the streets of Jerusalem. At that time we had plenty of food and good things, and we saw no disaster.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֩י]] [[H6213A\|עָשֹׂ֨ה]] [[H6213A\|נַעֲשֶׂ֜ה]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]][[H9015\|׀]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318O\|יָצָ֣א]] [[H9006\|מִ]][[H6310G\|פִּ֗י]][[H9025\|נוּ]] [[H9005\|לְ]][[H6999H\|קַטֵּ֞ר]] [[H9005\|לִ]][[H4446\|מְלֶ֣כֶת]] [[H9009\|הַ]][[H8064\|שָּׁמַיִם֮]] [[H9002\|וְ]][[H5258A\|הַסֵּֽיךְ]][[H9014\|־]] [[H9005\|לָ֣]][[H9034\|הּ]] [[H5262\|נְסָכִים֒]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H6213A\|עָשִׂ֜ינוּ]] [[H0587\|אֲנַ֤חְנוּ]] [[H9002\|וַ]][[H0001G\|אֲבֹתֵ֙י]][[H9025\|נוּ֙]] [[H4428G\|מְלָכֵ֣י]][[H9025\|נוּ]] [[H9002\|וְ]][[H8269\|שָׂרֵ֔י]][[H9025\|נוּ]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וּ]][[H9003\|בְ]][[H2351\|חֻצ֖וֹת]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9001\|וַ]][[H7646\|נִּֽשְׂבַּֽע]][[H9014\|־]] [[H3899G\|לֶ֙חֶם֙]] [[H9001\|וַ]][[H1961\|נִּֽהְיֶ֣ה]] [[H2896A\|טוֹבִ֔ים]] [[H9002\|וְ]][[H7451C\|רָעָ֖ה]] [[H3808\|לֹ֥א]] [[H7200G\|רָאִֽינוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic MOON|MOON]] • [[topic QUEEN|QUEEN]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic SUPERSTITION|SUPERSTITION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.16|<< Jeremiah 44:16]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.18|Jeremiah 44:18 >>]]</td></tr></table>
 

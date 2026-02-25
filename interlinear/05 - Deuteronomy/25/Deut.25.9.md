@@ -1,8 +1,82 @@
+---
+title: Deuteronomy 25:9
+type: Verse
+kjv: "Then shall his brother’s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother’s house."
+bsb: "his brother’s widow shall go up to him in the presence of the elders, remove his sandal, spit in his face, and declare, “This is what is done to the man who will not maintain his brother’s line.”"
+hebrew: "וְנִגְּשָׁ֨ה יְבִמְתּ֣וֹ אֵלָיו֮ לְעֵינֵ֣י הַזְּקֵנִים֒ וְחָלְצָ֤ה נַעֲלוֹ֙ מֵעַ֣ל רַגְל֔וֹ וְיָרְקָ֖ה בְּפָנָ֑יו וְעָֽנְתָה֙ וְאָ֣מְרָ֔ה כָּ֚כָה יֵעָשֶׂ֣ה לָאִ֔ישׁ אֲשֶׁ֥ר לֹא־ יִבְנֶ֖ה אֶת־ בֵּ֥ית אָחִֽיו"
+pericope: "[[Deut.25.5 Widowhood and Marriage|Widowhood and Marriage]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 25
+book/chapter: "[[Deut.25|Deuteronomy 25]]"
+chronological_order: 221
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic SHOE|SHOE]]"
+- "[[topic SPITTING|SPITTING]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H2994]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5869J]]"
+- "[[H9009]]"
+- "[[H2205G]]"
+- "[[H2502A]]"
+- "[[H5275]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H7272]]"
+- "[[H3417]]"
+- "[[H9003]]"
+- "[[H6440H]]"
+- "[[H6030B]]"
+- "[[H0559]]"
+- "[[H3602]]"
+- "[[H6213A]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1129]]"
+- "[[H0853]]"
+- "[[H1004M]]"
+- "[[H0251G]]"
+texts:
+- L
+- L(abh)
+---
+
 **Deuteronomy 25:9**<big><big>[[Deut.25.5 Widowhood and Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall his brother’s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother’s house.
 <small><sub>**BSB:**</sub></small>
 his brother’s widow shall go up to him in the presence of the elders, remove his sandal, spit in his face, and declare, “This is what is done to the man who will not maintain his brother’s line.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5066G\|נִגְּשָׁ֨ה]] [[H2994\|יְבִמְתּ֣]][[H9023\|וֹ]] [[H0413\|אֵלָי]][[H9033\|ו֮]] [[H9005\|לְ]][[H5869J\|עֵינֵ֣י]] [[H9009\|הַ]][[H2205G\|זְּקֵנִים֒]] [[H9001\|וְ]][[H2502A\|חָלְצָ֤ה]] [[H5275\|נַעֲל]][[H9023\|וֹ֙]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H7272\|רַגְל֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H3417\|יָרְקָ֖ה]] [[H9003\|בְּ]][[H6440H\|פָנָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H6030B\|עָֽנְתָה֙]] [[H9001\|וְ]][[H0559\|אָ֣מְרָ֔ה]] [[H3602\|כָּ֚כָה]] [[H6213A\|יֵעָשֶׂ֣ה]] [[H9005\|לָ]][[H0376G\|אִ֔ישׁ]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H1129\|יִבְנֶ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֥ית]] [[H0251G\|אָחִֽי]][[H9023\|ו]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INHERITANCE|INHERITANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic SHOE|SHOE]] • [[topic SPITTING|SPITTING]] • [[topic WIDOW|WIDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.25.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.25.8|<< Deuteronomy 25:8]]</td><td align="center" style="border:none;">[[Deut.25|Deuteronomy 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.25.10|Deuteronomy 25:10 >>]]</td></tr></table>
 

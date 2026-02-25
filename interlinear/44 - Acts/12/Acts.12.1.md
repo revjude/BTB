@@ -1,10 +1,55 @@
+---
+title: Acts 12:1
+type: Verse
+kjv: "Now about that time Herod the king stretched forth his hands to vex certain of the church."
+bsb: "About that time, King Herod reached out to harm some who belonged to the church."
+greek: "Κατ᾽ ἐκεῖνον δὲ τὸν καιρὸν ἐπέβαλεν Ἡρῴδης ὁ βασιλεὺς τὰς χεῖρας κακῶσαί τινας τῶν ἀπὸ τῆς ἐκκλησίας."
+pericope: "[[Acts.12.1 James Killed, Peter Imprisoned|James Killed, Peter Imprisoned]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2596]]"
+- "[[G1565]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2540]]"
+- "[[G1911]]"
+- "[[G2264I]]"
+- "[[G0935]]"
+- "[[G5495]]"
+- "[[G2559]]"
+- "[[G5100]]"
+- "[[G0575]]"
+- "[[G1577]]"
+texts:
+- NKO
+---
+
 **Acts 12:1**<big><big>[[Acts.12.1 James Killed, Peter Imprisoned|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now about that time Herod the king stretched forth [his] hands to vex certain of the church.
 <small><sub>**BSB:**</sub></small>
 About that time, King Herod reached out to harm some who belonged to the church.
-<small><sub>**Literal:**</sub></small>
-At that [very] now <the> time put forth Herod the king the hands to mistreat some of those of the church.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.30|<< Acts 11:30]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.2|Acts 12:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2596\|Κατ᾽]]  [[G1565\|ἐκεῖνον]]  [[G1161\|δὲ]]  [[G3588\|τὸν]]  [[G2540\|καιρὸν]]  [[G1911\|ἐπέβαλεν]]  [[G2264I\|Ἡρῴδης]]  [[G3588\|ὁ]]  [[G0935\|βασιλεὺς]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2559\|κακῶσαί]]  [[G5100\|τινας]]  [[G3588\|τῶν]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.11.30|<< Acts 11:30]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.2|Acts 12:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

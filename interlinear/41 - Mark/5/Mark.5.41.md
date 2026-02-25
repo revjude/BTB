@@ -1,10 +1,60 @@
+---
+title: Mark 5:41
+type: Verse
+kjv: "And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise."
+bsb: "Taking her by the hand, Jesus said, “Talitha koum!” which means, “Little girl, I say to you, get up!”"
+jesus_said: "Talitha cumi;"
+greek: "καὶ κρατήσας τῆς χειρὸς τοῦ παιδίου λέγει αὐτῇ· ταλιθα κουμ, ὅ ἐστιν μεθερμηνευόμενον, τὸ κοράσιον, σοὶ λέγω, ἔγειρε."
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2902]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G3813]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G5008]]"
+- "[[G2891]]"
+- "[[G3739]]"
+- "[[G1510]]"
+- "[[G3177]]"
+- "[[G2877]]"
+- "[[G4771]]"
+- "[[G1453]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 5:41**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise.
 <small><sub>**BSB:**</sub></small>
 Taking her by the hand, Jesus said, “Talitha koum!” which means, “Little girl, I say to you, get up!”
-<small><sub>**Literal:**</sub></small>
-And when taking of the hand of the child He says to her; Talitha koum! Which is being translated, O Little girl, to you I say, do arise.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.40|<< Mark 5:40]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.42|Mark 5:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2902\|κρατήσας]]  [[G3588\|τῆς]]  [[G5495\|χειρὸς]]  [[G3588\|τοῦ]]  [[G3813\|παιδίου]]  [[G3004G\|λέγει]]  [[G0846\|αὐτῇ·]]  [[G5008\|ταλιθα]]  [[G2891\|κουμ,]]  [[G3739\|ὅ]]  [[G1510\|ἐστιν]]  [[G3177\|μεθερμηνευόμενον,]]  [[G3588\|τὸ]]  [[G2877\|κοράσιον,]]  [[G4771\|σοὶ]]  [[G3004G\|λέγω,]]  [[G1453\|ἔγειρε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.40|<< Mark 5:40]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.42|Mark 5:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

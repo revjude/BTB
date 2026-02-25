@@ -1,10 +1,65 @@
+---
+title: Acts 12:14
+type: Verse
+kjv: "And when she knew Peter’s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate."
+bsb: "When she recognized Peter’s voice, she was so overjoyed that she forgot to open the gate, but ran inside and announced, “Peter is standing at the gate!”"
+greek: "καὶ ἐπιγνοῦσα τὴν φωνὴν τοῦ Πέτρου ἀπὸ τῆς χαρᾶς οὐκ ἤνοιξεν τὸν πυλῶνα εἰσδραμοῦσα δὲ ἀπήγγειλεν ἑστάναι τὸν Πέτρον πρὸ τοῦ πυλῶνος."
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JOY|JOY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1921]]"
+- "[[G3588]]"
+- "[[G5456G]]"
+- "[[G4074G]]"
+- "[[G0575]]"
+- "[[G5479]]"
+- "[[G3756]]"
+- "[[G0455]]"
+- "[[G4440]]"
+- "[[G1532]]"
+- "[[G1161]]"
+- "[[G0518]]"
+- "[[G2476]]"
+- "[[G4253]]"
+texts:
+- NKO
+---
+
 **Acts 12:14**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when she knew Peter’s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.
 <small><sub>**BSB:**</sub></small>
 When she recognized Peter’s voice, she was so overjoyed that she forgot to open the gate, but ran inside and announced, “Peter is standing at the gate!”
-<small><sub>**Literal:**</sub></small>
-And having recognized the voice <the> of Peter from <the> joy not she opened the gate having run in but she reported to have been standing <the> Peter before the gate.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.13|<< Acts 12:13]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.15|Acts 12:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1921\|ἐπιγνοῦσα]]  [[G3588\|τὴν]]  [[G5456G\|φωνὴν]]  [[G3588\|τοῦ]]  [[G4074G\|Πέτρου]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G5479\|χαρᾶς]]  [[G3756\|οὐκ]]  [[G0455\|ἤνοιξεν]]  [[G3588\|τὸν]]  [[G4440\|πυλῶνα]]  [[G1532\|εἰσδραμοῦσα]]  [[G1161\|δὲ]]  [[G0518\|ἀπήγγειλεν]]  [[G2476\|ἑστάναι]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G4440\|πυλῶνος.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JOY|JOY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]] • [[topic SUPERSTITION|SUPERSTITION]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.13|<< Acts 12:13]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.15|Acts 12:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

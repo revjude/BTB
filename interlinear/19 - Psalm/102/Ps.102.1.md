@@ -1,8 +1,54 @@
+---
+title: Psalm 102:1
+type: Verse
+kjv: "Hear my prayer, O LORD, and let my cry come unto thee."
+bsb: "A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD. Hear my prayer, O LORD; let my cry for help come before You."
+hebrew: "יְ֭הוָה שִׁמְעָ֣ה תְפִלָּתִ֑י וְ֝שַׁוְעָתִ֗י אֵלֶ֥יךָ תָבֽוֹא׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3068G]]"
+- "[[H8085G]]"
+- "[[H9012]]"
+- "[[H8605]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7775]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:1**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear my prayer, O LORD, and let my cry come unto thee.
 <small><sub>**BSB:**</sub></small>
 A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD. Hear my prayer, O LORD; let my cry for help come before You.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְ֭הוָה]] [[H8085G\|שִׁמְעָ֣]][[H9012\|ה]] [[H8605\|תְפִלָּתִ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H7775\|שַׁוְעָתִ֗]][[H9020\|י]] [[H0413\|אֵלֶ֥י]][[H9031\|ךָ]] [[H0935G\|תָבֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.0|<< Psalms 102:0]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.2|Psalms 102:2 >>]]</td></tr></table>
 

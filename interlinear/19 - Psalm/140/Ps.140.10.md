@@ -1,8 +1,57 @@
+---
+title: Psalm 140:10
+type: Verse
+kjv: "Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again."
+bsb: "May burning coals fall on them; may they be thrown into the fire, into the miry pits, never to rise again."
+hebrew: "יִמּ֥וֹטוּ עֲלֵיהֶ֗ם גֶּֽחָ֫לִ֥ים בָּאֵ֥שׁ יַפִּלֵ֑ם בְּ֝מַהֲמֹר֗וֹת בַּֽל־ יָקֽוּמוּ׃"
+pericope: "[[Ps.140.1 Rescue Me from Evil Men|Rescue Me from Evil Men]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 140
+book/chapter: "[[Ps.140|Psalm 140]]"
+chronological_order: 387
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H4131]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H1513]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H5307G]]"
+- "[[H4113]]"
+- "[[H1077]]"
+- "[[H9014]]"
+- "[[H6965B]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Psalms 140:10**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.
 <small><sub>**BSB:**</sub></small>
 May burning coals fall on them; may they be thrown into the fire, into the miry pits, never to rise again.
+<small><sub>**Hebrew:**</sub></small>
+[[H4131\|יִמּ֥וֹטוּ]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֗ם]] [[H1513\|גֶּֽחָ֫לִ֥ים]] [[H9003\|בָּ]][[H0784\|אֵ֥שׁ]] [[H5307G\|יַפִּלֵ֑]][[H9038\|ם]] [[H9003\|בְּ֝]][[H4113\|מַהֲמֹר֗וֹת]] [[H1077\|בַּֽל]][[H9014\|־]] [[H6965B\|יָקֽוּמוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.9|<< Psalms 140:9]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.11|Psalms 140:11 >>]]</td></tr></table>
 

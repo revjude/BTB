@@ -1,10 +1,58 @@
+---
+title: Luke 1:65
+type: Verse
+kjv: "And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea."
+bsb: "All their neighbors were filled with awe, and people throughout the hill country of Judea were talking about these events."
+greek: "καὶ ἐγένετο ἐπὶ πάντας φόβος τοὺς περιοικοῦντας αὐτούς· καὶ ἐν ὅλῃ τῇ ὀρεινῇ τῆς Ἰουδαίας διελαλεῖτο πάντα τὰ ῥήματα ταῦτα,"
+pericope: "[[Luke.1.57 The Birth of John the Baptist|The Birth of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1909]]"
+- "[[G3956]]"
+- "[[G5401]]"
+- "[[G3588]]"
+- "[[G4039]]"
+- "[[G0846]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G3714]]"
+- "[[G2449]]"
+- "[[G1255]]"
+- "[[G4487]]"
+- "[[G3778]]"
+texts:
+- NKO
+---
+
 **Luke 1:65**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea.
 <small><sub>**BSB:**</sub></small>
 All their neighbors were filled with awe, and people throughout the hill country of Judea were talking about these events.
-<small><sub>**Literal:**</sub></small>
-And came upon all fear those dwelling around them; and in all the hill country <the> of Judea were being talked about all <the> declarations these,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.64|<< Luke 1:64]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.66|Luke 1:66 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1096\|ἐγένετο]]  [[G1909\|ἐπὶ]]  [[G3956\|πάντας]]  [[G5401\|φόβος]]  [[G3588\|τοὺς]]  [[G4039\|περιοικοῦντας]]  [[G0846\|αὐτούς·]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3650\|ὅλῃ]]  [[G3588\|τῇ]]  [[G3714\|ὀρεινῇ]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G1255\|διελαλεῖτο]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G4487\|ῥήματα]]  [[G3778\|ταῦτα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic MIRACLES|MIRACLES]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.64|<< Luke 1:64]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.66|Luke 1:66 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

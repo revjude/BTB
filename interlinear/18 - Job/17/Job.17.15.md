@@ -1,8 +1,52 @@
+---
+title: Job 17:15
+type: Verse
+kjv: "And where is now my hope? as for my hope, who shall see it?"
+bsb: "where then is my hope? Who can see any hope for me?"
+hebrew: "וְ֭אַיֵּה אֵפ֣וֹ תִקְוָתִ֑י וְ֝תִקְוָתִ֗י מִ֣י יְשׁוּרֶֽנָּה׃"
+pericope: "[[Job.17.1 Job Prepares for Death|Job Prepares for Death]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 17
+book/chapter: "[[Job.17|Job 17]]"
+chronological_order: 28
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0346]]"
+- "[[H0645]]"
+- "[[H8615B]]"
+- "[[H9020]]"
+- "[[H4310]]"
+- "[[H7789]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 17:15**<big><big>[[Job.17.1 Job Prepares for Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And where [is] now my hope? as for my hope, who shall see it?
 <small><sub>**BSB:**</sub></small>
 where then is my hope? Who can see any hope for me?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֭]][[H0346\|אַיֵּה]] [[H0645\|אֵפ֣וֹ]] [[H8615B\|תִקְוָתִ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H8615B\|תִקְוָתִ֗]][[H9020\|י]] [[H4310\|מִ֣י]] [[H7789\|יְשׁוּרֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic DESPONDENCY|DESPONDENCY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.17.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.17.14|<< Job 17:14]]</td><td align="center" style="border:none;">[[Job.17|Job 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.17.16|Job 17:16 >>]]</td></tr></table>
 

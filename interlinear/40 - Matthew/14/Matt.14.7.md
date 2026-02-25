@@ -1,10 +1,61 @@
+---
+title: Matthew 14:7
+type: Verse
+kjv: "Whereupon he promised with an oath to give her whatsoever she would ask."
+bsb: "so much that he promised with an oath to give to her whatever she asked."
+greek: "ὅθεν μεθ᾽ ὅρκου ὡμολόγησεν αὐτῇ δοῦναι ὃ ἐὰν αἰτήσηται."
+pericope: "[[Matt.14.1 The Beheading of John|The Beheading of John]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3606]]"
+- "[[G3326]]"
+- "[[G3727]]"
+- "[[G3670]]"
+- "[[G0846]]"
+- "[[G1325]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G0154]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 14:7**<big><big>[[Matt.14.1 The Beheading of John|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whereupon he promised with an oath to give her whatsoever she would ask.
 <small><sub>**BSB:**</sub></small>
 so much that he promised with an oath to give to her whatever she asked.
-<small><sub>**Literal:**</sub></small>
-whereupon with oath he promised to her to give whatever if she shall ask.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.6|<< Matthew 14:6]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.8|Matthew 14:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3606\|ὅθεν]]  [[G3326\|μεθ᾽]]  [[G3727\|ὅρκου]]  [[G3670\|ὡμολόγησεν]]  [[G0846\|αὐτῇ]]  [[G1325\|δοῦναι]]  [[G3739\|ὃ]]  [[G1437\|ἐὰν]]  [[G0154\|αἰτήσηται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMUSEMENTS AND WORLDLY PLEASURES|AMUSEMENTS AND WORLDLY PLEASURES]] • [[topic HEROD|HEROD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MALICE|MALICE]] • [[topic OATH|OATH]] • [[topic PERSECUTION|PERSECUTION]] • [[topic POLITICS|POLITICS]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]] • [[topic WOMEN|WOMEN]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.6|<< Matthew 14:6]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.8|Matthew 14:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

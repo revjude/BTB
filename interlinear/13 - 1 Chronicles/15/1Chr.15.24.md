@@ -1,8 +1,75 @@
+---
+title: 1 Chronicles 15:24
+type: Verse
+kjv: "And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obededom and Jehiah were doorkeepers for the ark."
+bsb: "Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer—the priests—were to blow the trumpets before the ark of God. Obed-edom and Jehiah were also to be guardians of the ark."
+hebrew: "וּשְׁבַנְיָ֡הוּ וְיֽוֹשָׁפָ֡ט וּנְתַנְאֵ֡ל וַעֲמָשַׂ֡י וּ֠זְכַרְיָהוּ וּבְנָיָ֤הוּ וֶֽאֱלִיעֶ֙זֶר֙ הַכֹּ֣הֲנִ֔ים מַחְצְרִים֙ בַּחֲצֹ֣צְר֔וֹת לִפְנֵ֖י אֲר֣וֹן הָֽאֱלֹהִ֑ים וְעֹבֵ֤ד אֱדֹם֙ וִֽיחִיָּ֔ה שֹׁעֲרִ֖ים לָאָרֽוֹן׃"
+pericope: "[[1Chr.15.14 The Priests and Levites Carry the Ark|The Priests and Levites Carry the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMASAI|AMASAI]]"
+- "[[topic ARK|ARK]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELIEZER|ELIEZER]]"
+- "[[topic JEHIAH|JEHIAH]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic NETHANEEL|NETHANEEL]]"
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+- "[[topic SHEBANIAH|SHEBANIAH]]"
+- "[[topic TACT|TACT]]"
+- "[[topic TRUMPET|TRUMPET]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H7645G]]"
+- "[[H3146H]]"
+- "[[H5417I]]"
+- "[[H6022I]]"
+- "[[H2148A]]"
+- "[[H1141J]]"
+- "[[H0461J]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H2690]]"
+- "[[H9003]]"
+- "[[H2689]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H0430G]]"
+- "[[H5654]]"
+- "[[H3174]]"
+- "[[H7778]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Chronicles 15:24**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obededom and Jehiah [were] doorkeepers for the ark.
 <small><sub>**BSB:**</sub></small>
 Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer—the priests—were to blow the trumpets before the ark of God. Obed-edom and Jehiah were also to be guardians of the ark.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7645G\|שְׁבַנְיָ֡הוּ]] [[H9002\|וְ]][[H3146H\|יֽוֹשָׁפָ֡ט]] [[H9002\|וּ]][[H5417I\|נְתַנְאֵ֡ל]] [[H9002\|וַ]][[H6022I\|עֲמָשַׂ֡י]] [[H9002\|וּ֠]][[H2148A\|זְכַרְיָהוּ]] [[H9002\|וּ]][[H1141J\|בְנָיָ֤הוּ]] [[H9002\|וֶֽ]][[H0461J\|אֱלִיעֶ֙זֶר֙]] [[H9009\|הַ]][[H3548\|כֹּ֣הֲנִ֔ים]] [[H2690\|מַחְצְרִים֙]] [[H9003\|בַּ]][[H2689\|חֲצֹ֣צְר֔וֹת]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H0727\|אֲר֣וֹן]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וְ]][[H5654\|עֹבֵ֤ד]] [[H5654\|אֱדֹם֙]] [[H9002\|וִֽ]][[H3174\|יחִיָּ֔ה]] [[H7778\|שֹׁעֲרִ֖ים]] [[H9005\|לָ]][[H0727\|אָרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMASAI|AMASAI]] • [[topic ARK|ARK]] • [[topic BENAIAH|BENAIAH]] • [[topic DAVID|DAVID]] • [[topic ELIEZER|ELIEZER]] • [[topic JEHIAH|JEHIAH]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic MUSIC|MUSIC]] • [[topic NETHANEEL|NETHANEEL]] • [[topic OBED-EDOM|OBED-EDOM]] • [[topic SHEBANIAH|SHEBANIAH]] • [[topic TACT|TACT]] • [[topic TRUMPET|TRUMPET]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.23|<< 1 Chronicles 15:23]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.25|1 Chronicles 15:25 >>]]</td></tr></table>
 

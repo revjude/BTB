@@ -1,8 +1,60 @@
+---
+title: Joshua 13:13
+type: Verse
+kjv: "Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day."
+bsb: "but the Israelites did not drive out the Geshurites or the Maacathites. So Geshur and Maacath dwell among the Israelites to this day."
+hebrew: "וְלֹ֤א הוֹרִ֙ישׁוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶת־ הַגְּשׁוּרִ֖י וְאֶת־ הַמַּעֲכָתִ֑י וַיֵּ֨שֶׁב גְּשׁ֤וּר וּמַֽעֲכָת֙ בְּקֶ֣רֶב יִשְׂרָאֵ֔ל עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[Josh.13.8 The Inheritance East of the Jordan|The Inheritance East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 13
+book/chapter: "[[Josh.13|Joshua 13]]"
+chronological_order: 243
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GESHUR|GESHUR]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3423H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1651]]"
+- "[[H4602]]"
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H1650]]"
+- "[[H4601R]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 13:13**<big><big>[[Josh.13.8 The Inheritance East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day.
 <small><sub>**BSB:**</sub></small>
 but the Israelites did not drive out the Geshurites or the Maacathites. So Geshur and Maacath dwell among the Israelites to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֤א]] [[H3423H\|הוֹרִ֙ישׁוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1651\|גְּשׁוּרִ֖י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4602\|מַּעֲכָתִ֑י]] [[H9001\|וַ]][[H3427\|יֵּ֨שֶׁב]] [[H1650\|גְּשׁ֤וּר]] [[H9002\|וּ]][[H4601R\|מַֽעֲכָת֙]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117L\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GESHUR|GESHUR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.13.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.13.12|<< Joshua 13:12]]</td><td align="center" style="border:none;">[[Josh.13|Joshua 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.13.14|Joshua 13:14 >>]]</td></tr></table>
 

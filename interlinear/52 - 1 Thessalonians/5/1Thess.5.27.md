@@ -1,10 +1,52 @@
+---
+title: 1 Thessalonians 5:27
+type: Verse
+kjv: "I charge you by the Lord that this epistle be read unto all the holy brethren."
+bsb: "I charge you before the Lord to have this letter read to all the brothers."
+greek: "ἐνορκίζω ὑμᾶς τὸν κύριον ἀναγνωσθῆναι τὴν ἐπιστολὴν πᾶσιν τοῖς ἁγίοις ἀδελφοῖς.¶"
+pericope: "[[1Thess.5.23 Final Blessings and Instructions|Final Blessings and Instructions]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 5
+book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G6034]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G0314]]"
+- "[[G1992]]"
+- "[[G3956]]"
+- "[[G0040H]]"
+- "[[G0080]]"
+texts:
+- N(k)O
+- NKO
+- K
+---
+
 **1 Thessalonians 5:27**<big><big>[[1Thess.5.23 Final Blessings and Instructions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I charge you by the Lord that this epistle be read unto all the holy brethren.
 <small><sub>**BSB:**</sub></small>
 I charge you before the Lord to have this letter read to all the brothers.
-<small><sub>**Literal:**</sub></small>
-I adjure you [by] the Lord to be read [this] letter to all the saints brothers.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.26|<< 1 Thessalonians 5:26]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.28|1 Thessalonians 5:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6034\|ἐνορκίζω]]  [[G4771\|ὑμᾶς]]  [[G3588\|τὸν]]  [[G2962G\|κύριον]]  [[G0314\|ἀναγνωσθῆναι]]  [[G3588\|τὴν]]  [[G1992\|ἐπιστολὴν]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G0040H\|ἁγίοις]]  [[G0080\|ἀδελφοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.5.26|<< 1 Thessalonians 5:26]]</td><td align="center" style="border:none;">[[1Thess.5|1 Thessalonians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.5.28|1 Thessalonians 5:28 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

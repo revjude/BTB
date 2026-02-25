@@ -1,8 +1,62 @@
+---
+title: Genesis 44:14
+type: Verse
+kjv: "And Judah and his brethren came to Joseph’s house; for he was yet there: and they fell before him on the ground."
+bsb: "When Judah and his brothers arrived at Joseph’s house, he was still there, and they fell to the ground before him."
+hebrew: "וַיָּבֹ֨א יְהוּדָ֤ה וְאֶחָיו֙ בֵּ֣יתָה יוֹסֵ֔ף וְה֖וּא עוֹדֶ֣נּוּ שָׁ֑ם וַיִּפְּל֥וּ לְפָנָ֖יו אָֽרְצָה׃"
+pericope: "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H3130G]]"
+- "[[H1931]]"
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H8033G]]"
+- "[[H5307J]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:14**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah and his brethren came to Joseph’s house; for he [was] yet there: and they fell before him on the ground.
 <small><sub>**BSB:**</sub></small>
 When Judah and his brothers arrived at Joseph’s house, he was still there, and they fell to the ground before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H3063G\|יְהוּדָ֤ה]] [[H9002\|וְ]][[H0251G\|אֶחָי]][[H9023\|ו֙]] [[H1004B\|בֵּ֣יתָ]][[H9011\|ה]] [[H3130G\|יוֹסֵ֔ף]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H5750\|עוֹדֶ֣]][[H9043\|נּוּ]] [[H8033G\|שָׁ֑ם]] [[H9001\|וַ]][[H5307J\|יִּפְּל֥וּ]] [[H9005\|לְ]][[H6440G\|פָנָ֖י]][[H9023\|ו]] [[H0776H\|אָֽרְצָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.13|<< Genesis 44:13]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.15|Genesis 44:15 >>]]</td></tr></table>
 

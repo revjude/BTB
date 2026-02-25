@@ -1,8 +1,59 @@
+---
+title: Exodus 6:30
+type: Verse
+kjv: "And Moses said before the LORD, Behold, I am of uncircumcised lips, and how shall Pharaoh hearken unto me?"
+bsb: "But in the LORD’s presence Moses replied, “Since I am unskilled in speech, why would Pharaoh listen to me?”"
+hebrew: "וַיֹּ֥אמֶר מֹשֶׁ֖ה לִפְנֵ֣י יְהוָ֑ה הֵ֤ן אֲנִי֙ עֲרַ֣ל שְׂפָתַ֔יִם וְאֵ֕יךְ יִשְׁמַ֥ע אֵלַ֖י פַּרְעֹֽה׃ פ"
+pericope: "[[Exod.6.14 Genealogies of Moses and Aaron|Genealogies of Moses and Aaron]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 6
+book/chapter: "[[Exod.6|Exodus 6]]"
+chronological_order: 98
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H0589]]"
+- "[[H6189]]"
+- "[[H8193G]]"
+- "[[H9002]]"
+- "[[H0349A]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H6547J]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 6:30**<big><big>[[Exod.6.14 Genealogies of Moses and Aaron|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said before the LORD, Behold, I [am] of uncircumcised lips, and how shall Pharaoh hearken unto me?
 <small><sub>**BSB:**</sub></small>
 But in the LORD’s presence Moses replied, “Since I am unskilled in speech, why would Pharaoh listen to me?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H4872\|מֹשֶׁ֖ה]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H2005\|הֵ֤ן]] [[H0589\|אֲנִי֙]] [[H6189\|עֲרַ֣ל]] [[H8193G\|שְׂפָתַ֔יִם]] [[H9002\|וְ]][[H0349A\|אֵ֕יךְ]] [[H8085G\|יִשְׁמַ֥ע]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H6547J\|פַּרְעֹֽה]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.6.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.29|<< Exodus 6:29]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.1|Exodus 7:1 >>]]</td></tr></table>
 
@@ -19,7 +70,7 @@ But in the LORD’s presence Moses replied, “Since I am unskilled in speech, w
 | and how?  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0349A\|אֵ֕יךְ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'Eikh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | will he listen  |**<big>&#8207;[[H8085G\|יִשְׁמַ֥ע]]&#8207; </big>**| yish.Ma'<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to me  |**<big>&#8207;[[H0413\|אֵלַ֖]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| 'e.La<small><sup>[[HRd]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Pharaoh  |**<big>&#8207;[[H6547J\|פַּרְעֹֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| par.'Oh<small><sup>[[HNtmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.6.29|<< Exodus 6:29]]</td><td align="center" style="border:none;">[[Exod.6|Exodus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.7.1|Exodus 7:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,69 @@
+---
+title: Ezekiel 12:25
+type: Verse
+kjv: "For I am the LORD: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord GOD."
+bsb: "because I, the LORD, will speak whatever word I speak, and it will be fulfilled without delay. For in your days, O rebellious house, I will speak a message and bring it to pass, declares the Lord GOD.’”"
+hebrew: "כִּ֣י׀ אֲנִ֣י יְהוָ֗ה אֲדַבֵּר֙ אֵת֩ אֲשֶׁ֨ר אֲדַבֵּ֤ר דָּבָר֙ וְיֵ֣עָשֶׂ֔ה לֹ֥א תִמָּשֵׁ֖ךְ ע֑וֹד כִּ֣י בִֽימֵיכֶ֞ם בֵּ֣ית הַמֶּ֗רִי אֲדַבֵּ֤ר דָּבָר֙ וַעֲשִׂיתִ֔יו נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃ פ"
+pericope: "[[Ezek.12.21 The Presumptuous Proverb|The Presumptuous Proverb]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 12
+book/chapter: "[[Ezek.12|Ezekiel 12]]"
+chronological_order: 803
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H1697G]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H3808]]"
+- "[[H4900]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9026]]"
+- "[[H1004M]]"
+- "[[H9009]]"
+- "[[H4805H]]"
+- "[[H9001]]"
+- "[[H9033]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 12:25**<big><big>[[Ezek.12.21 The Presumptuous Proverb|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I [am] the LORD: I will speak, and the word that I shall speak shall come to pass; it shall be no more prolonged: for in your days, O rebellious house, will I say the word, and will perform it, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 because I, the LORD, will speak whatever word I speak, and it will be fulfilled without delay. For in your days, O rebellious house, I will speak a message and bring it to pass, declares the Lord GOD.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]][[H9015\|׀]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָ֗ה]] [[H1696G\|אֲדַבֵּר֙]] [[H0853\|אֵת֩]] [[H0834A\|אֲשֶׁ֨ר]] [[H1696G\|אֲדַבֵּ֤ר]] [[H1697G\|דָּבָר֙]] [[H9002\|וְ]][[H6213A\|יֵ֣עָשֶׂ֔ה]] [[H3808\|לֹ֥א]] [[H4900\|תִמָּשֵׁ֖ךְ]] [[H5750\|ע֑וֹד]] [[H3588A\|כִּ֣י]] [[H9003\|בִֽ]][[H3117G\|ימֵי]][[H9026\|כֶ֞ם]] [[H1004M\|בֵּ֣ית]] [[H9009\|הַ]][[H4805H\|מֶּ֗רִי]] [[H1696G\|אֲדַבֵּ֤ר]] [[H1697G\|דָּבָר֙]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתִ֔י]][[H9033\|ו]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.12.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.24|<< Ezekiel 12:24]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.26|Ezekiel 12:26 >>]]</td></tr></table>
 
@@ -29,7 +90,7 @@ because I, the LORD, will speak whatever word I speak, and it will be fulfilled 
 | and I will do it  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H6213A\|עֲשִׂיתִ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> 'a.si.Ti<small><sup>[[HVqq1cs]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻ֖ם]]&#8207; </big>**| ne.'Um<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.12.24|<< Ezekiel 12:24]]</td><td align="center" style="border:none;">[[Ezek.12|Ezekiel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.12.26|Ezekiel 12:26 >>]]</td></tr></table>
 
 

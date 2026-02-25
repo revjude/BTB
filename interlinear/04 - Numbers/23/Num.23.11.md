@@ -1,8 +1,64 @@
+---
+title: Numbers 23:11
+type: Verse
+kjv: "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether."
+bsb: "Then Balak said to Balaam, “What have you done to me? I brought you here to curse my enemies, and behold, you have only blessed them!”"
+hebrew: "וַיֹּ֤אמֶר בָּלָק֙ אֶל־ בִּלְעָ֔ם מֶ֥ה עָשִׂ֖יתָ לִ֑י לָקֹ֤ב אֹיְבַי֙ לְקַחְתִּ֔יךָ וְהִנֵּ֖ה בֵּרַ֥כְתָּ בָרֵֽךְ׃"
+pericope: "[[Num.23.1 Balaam’s First Oracle|Balaam’s First Oracle]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 23
+book/chapter: "[[Num.23|Numbers 23]]"
+chronological_order: 183
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CURSE|CURSE]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1111]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6895]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H3947G]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 23:11**<big><big>[[Num.23.1 Balaam’s First Oracle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed [them] altogether.
 <small><sub>**BSB:**</sub></small>
 Then Balak said to Balaam, “What have you done to me? I brought you here to curse my enemies, and behold, you have only blessed them!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H1111\|בָּלָק֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֔ם]] [[H4100\|מֶ֥ה]] [[H6213A\|עָשִׂ֖יתָ]] [[H9005\|לִ֑]][[H9030\|י]] [[H9005\|לָ]][[H6895\|קֹ֤ב]] [[H0341\|אֹיְבַ]][[H9020\|י֙]] [[H3947G\|לְקַחְתִּ֔י]][[H9031\|ךָ]] [[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H1288\|בֵּרַ֥כְתָּ]] [[H1288\|בָרֵֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURSE|CURSE]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.23.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.23.10|<< Numbers 23:10]]</td><td align="center" style="border:none;">[[Num.23|Numbers 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.23.12|Numbers 23:12 >>]]</td></tr></table>
 

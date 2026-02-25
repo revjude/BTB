@@ -1,10 +1,68 @@
+---
+title: Matthew 27:46
+type: Verse
+kjv: "And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?"
+bsb: "About the ninth hour Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”"
+jesus_said: "Eli, Eli, lama sabachthani?"
+greek: "περὶ δὲ τὴν ἐνάτην ὥραν ἀνεβόησεν ὁ Ἰησοῦς φωνῇ μεγάλῃ λέγων· ηλι ηλι, λεμα σαβαχθανι; τοῦτ᾽ ἔστιν· θεέ μου θεέ μου, ἱνατί ἱνατί με ἐγκατέλιπες;¶"
+pericope: "[[Matt.27.45 The Death of Jesus|The Death of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic HOURS|HOURS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMA SABACHTHANI|LAMA SABACHTHANI]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G4012]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G1766]]"
+- "[[G5610]]"
+- "[[G0310]]"
+- "[[G2424G]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G3004G]]"
+- "[[G2241]]"
+- "[[G2982]]"
+- "[[G4518]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G2316]]"
+- "[[G3165]]"
+- "[[G2443]]"
+- "[[G5101]]"
+- "[[G1459]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Matthew 27:46**<big><big>[[Matt.27.45 The Death of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?
 <small><sub>**BSB:**</sub></small>
 About the ninth hour Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”
-<small><sub>**Literal:**</sub></small>
-About then the ninth hour cried out <the> Jesus in a voice loud saying; Eli Eli, lema sabachthani? That is: God of Mine God of Mine, so why Me have you forsaken?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.45|<< Matthew 27:45]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.47|Matthew 27:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|περὶ]]  [[G1161\|δὲ]]  [[G3588\|τὴν]]  [[G1766\|ἐνάτην]]  [[G5610\|ὥραν]]  [[G0310\|ἀνεβόησεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ]]  [[G3004G\|λέγων·]]  [[G2241\|ηλι]]  [[G2241\|ηλι,]]  [[G2982\|λεμα]]  [[G4518\|σαβαχθανι;]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν·]]  [[G2316\|θεέ]]  [[G3165\|μου]]  [[G2316\|θεέ]]  [[G3165\|μου,]]  [[G2443\|ἱνατί]]  <sup><small>[[G5101\| [ • ] ]]</small></sup>  [[G3165\|με]]  [[G1459\|ἐγκατέλιπες;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic HOURS|HOURS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMA SABACHTHANI|LAMA SABACHTHANI]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.45|<< Matthew 27:45]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.47|Matthew 27:47 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 27:46** is...
 > $\quad$ referencing: [[LXX.Ps.22.1|Ps 22:1]]

@@ -1,10 +1,60 @@
+---
+title: Mark 10:20
+type: Verse
+kjv: "And he answered and said unto him, Master, all these have I observed from my youth."
+bsb: "“Teacher,” he replied, “all these I have kept from my youth.”"
+greek: "ὁ δὲ ἀποκριθεὶς ἔφη αὐτῷ· διδάσκαλε, ταῦτα πάντα ἐφυλαξάμην ἐκ νεότητός μου.¶"
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0611]]"
+- "[[G5346]]"
+- "[[G0846]]"
+- "[[G1320]]"
+- "[[G3778]]"
+- "[[G3956]]"
+- "[[G5442G]]"
+- "[[G1537]]"
+- "[[G3503]]"
+- "[[G3165]]"
+texts:
+- NKO
+- ko
+- N(k)O
+---
+
 **Mark 10:20**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he answered and said unto him, Master, all these have I observed from my youth.
 <small><sub>**BSB:**</sub></small>
 “Teacher,” he replied, “all these I have kept from my youth.”
-<small><sub>**Literal:**</sub></small>
-<the> And answering he was saying to Him; Teacher, these all I have kept from [the] youth of me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.19|<< Mark 10:19]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.21|Mark 10:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G5346\|ἔφη]]  [[G0846\|αὐτῷ·]]  [[G1320\|διδάσκαλε,]]  [[G3778\|ταῦτα]]  [[G3956\|πάντα]]  [[G5442G\|ἐφυλαξάμην]]  [[G1537\|ἐκ]]  [[G3503\|νεότητός]]  [[G3165\|μου.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.19|<< Mark 10:19]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.21|Mark 10:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

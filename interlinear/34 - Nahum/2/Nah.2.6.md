@@ -1,8 +1,48 @@
+---
+title: Nahum 2:6
+type: Verse
+kjv: "The gates of the rivers shall be opened, and the palace shall be dissolved."
+bsb: "The river gates are thrown open and the palace collapses."
+hebrew: "שַׁעֲרֵ֥י הַנְּהָר֖וֹת נִפְתָּ֑חוּ וְהַֽהֵיכָ֖ל נָמֽוֹג׃"
+pericope: "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic PALACE|PALACE]]"
+strongs:
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H5104H]]"
+- "[[H6605A]]"
+- "[[H9002]]"
+- "[[H1964H]]"
+- "[[H4127]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 2:6**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The gates of the rivers shall be opened, and the palace shall be dissolved.
 <small><sub>**BSB:**</sub></small>
 The river gates are thrown open and the palace collapses.
+<small><sub>**Hebrew:**</sub></small>
+[[H8179G\|שַׁעֲרֵ֥י]] [[H9009\|הַ]][[H5104H\|נְּהָר֖וֹת]] [[H6605A\|נִפְתָּ֑חוּ]] [[H9002\|וְ]][[H9009\|הַֽ]][[H1964H\|הֵיכָ֖ל]] [[H4127\|נָמֽוֹג]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PALACE|PALACE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.5|<< Nahum 2:5]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.7|Nahum 2:7 >>]]</td></tr></table>
 

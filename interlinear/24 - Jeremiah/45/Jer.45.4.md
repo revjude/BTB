@@ -1,8 +1,59 @@
+---
+title: Jeremiah 45:4
+type: Verse
+kjv: "Thus shalt thou say unto him, The LORD saith thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land."
+bsb: "Thus Jeremiah was to say to Baruch: “This is what the LORD says: Throughout the land I will demolish what I have built and uproot what I have planted."
+hebrew: "כֹּ֣ה׀ תֹּאמַ֣ר אֵלָ֗יו כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנֵּ֤ה אֲשֶׁר־ בָּנִ֙יתִי֙ אֲנִ֣י הֹרֵ֔ס וְאֵ֥ת אֲשֶׁר־ נָטַ֖עְתִּי אֲנִ֣י נֹתֵ֑שׁ וְאֶת־ כָּל־ הָאָ֖רֶץ הִֽיא׃"
+pericope: "[[Jer.45.1 Jeremiah’s Message to Baruch|Jeremiah’s Message to Baruch]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 45
+book/chapter: "[[Jer.45|Jeremiah 45]]"
+chronological_order: 768
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3068G]]"
+- "[[H2009]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1129]]"
+- "[[H0589]]"
+- "[[H2040]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H5193]]"
+- "[[H5428]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 45:4**<big><big>[[Jer.45.1 Jeremiah’s Message to Baruch|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shalt thou say unto him, The LORD saith thus; Behold, [that] which I have built will I break down, and that which I have planted I will pluck up, even this whole land.
 <small><sub>**BSB:**</sub></small>
 Thus Jeremiah was to say to Baruch: “This is what the LORD says: Throughout the land I will demolish what I have built and uproot what I have planted.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|תֹּאמַ֣ר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2009\|הִנֵּ֤ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1129\|בָּנִ֙יתִי֙]] [[H0589\|אֲנִ֣י]] [[H2040\|הֹרֵ֔ס]] [[H9002\|וְ]][[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5193\|נָטַ֖עְתִּי]] [[H0589\|אֲנִ֣י]] [[H5428\|נֹתֵ֑שׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H1931\|הִֽיא]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.45.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.45.3|<< Jeremiah 45:3]]</td><td align="center" style="border:none;">[[Jer.45|Jeremiah 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.45.5|Jeremiah 45:5 >>]]</td></tr></table>
 

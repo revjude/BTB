@@ -1,8 +1,80 @@
+---
+title: Isaiah 61:3
+type: Verse
+kjv: "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified."
+bsb: "to console the mourners in Zion—to give them a crown of beauty for ashes, the oil of joy for mourning, and a garment of praise for a spirit of despair. So they will be called oaks of righteousness, the planting of the LORD, that He may be glorified."
+hebrew: "לָשׂ֣וּם׀ לַאֲבֵלֵ֣י צִיּ֗וֹן לָתֵת֩ לָהֶ֨ם פְּאֵ֜ר תַּ֣חַת אֵ֗פֶר שֶׁ֤מֶן שָׂשׂוֹן֙ תַּ֣חַת אֵ֔בֶל מַעֲטֵ֣ה תְהִלָּ֔ה תַּ֖חַת ר֣וּחַ כֵּהָ֑ה וְקֹרָ֤א לָהֶם֙ אֵילֵ֣י הַצֶּ֔דֶק מַטַּ֥ע יְהוָ֖ה לְהִתְפָּאֵֽר׃"
+pericope: "[[Isa.61.1 The Year of the LORD’s Favor|The Year of the LORD’s Favor]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 61
+book/chapter: "[[Isa.61|Isaiah 61]]"
+chronological_order: 700
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[H9005]]"
+- "[[H7760H]]"
+- "[[H9015]]"
+- "[[H0057]]"
+- "[[H6726]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H6287]]"
+- "[[H8478H]]"
+- "[[H0665]]"
+- "[[H8081]]"
+- "[[H8342]]"
+- "[[H0060]]"
+- "[[H4594]]"
+- "[[H8416]]"
+- "[[H7307G]]"
+- "[[H3544]]"
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H0352D]]"
+- "[[H9009]]"
+- "[[H6664G]]"
+- "[[H4302]]"
+- "[[H3068G]]"
+- "[[H6286A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 61:3**<big><big>[[Isa.61.1 The Year of the LORD’s Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified.
 <small><sub>**BSB:**</sub></small>
 to console the mourners in Zion—to give them a crown of beauty for ashes, the oil of joy for mourning, and a garment of praise for a spirit of despair. So they will be called oaks of righteousness, the planting of the LORD, that He may be glorified.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H7760H\|שׂ֣וּם]][[H9015\|׀]] [[H9005\|לַ]][[H0057\|אֲבֵלֵ֣י]] [[H6726\|צִיּ֗וֹן]] [[H9005\|לָ]][[H5414G\|תֵת֩]] [[H9005\|לָ]][[H9038\|הֶ֨ם]] [[H6287\|פְּאֵ֜ר]] [[H8478H\|תַּ֣חַת]] [[H0665\|אֵ֗פֶר]] [[H8081\|שֶׁ֤מֶן]] [[H8342\|שָׂשׂוֹן֙]] [[H8478H\|תַּ֣חַת]] [[H0060\|אֵ֔בֶל]] [[H4594\|מַעֲטֵ֣ה]] [[H8416\|תְהִלָּ֔ה]] [[H8478H\|תַּ֖חַת]] [[H7307G\|ר֣וּחַ]] [[H3544\|כֵּהָ֑ה]] [[H9001\|וְ]][[H7121H\|קֹרָ֤א]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H0352D\|אֵילֵ֣י]] [[H9009\|הַ]][[H6664G\|צֶּ֔דֶק]] [[H4302\|מַטַּ֥ע]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H6286A\|הִתְפָּאֵֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANOINTING|ANOINTING]] • [[topic CHURCH|CHURCH]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic HOLINESS|HOLINESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic SALVATION|SALVATION]] • [[topic SEEKERS|SEEKERS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TRINITY|TRINITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.61.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.61.2|<< Isaiah 61:2]]</td><td align="center" style="border:none;">[[Isa.61|Isaiah 61]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.61.4|Isaiah 61:4 >>]]</td></tr></table>
 

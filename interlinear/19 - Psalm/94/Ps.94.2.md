@@ -1,8 +1,55 @@
+---
+title: Psalm 94:2
+type: Verse
+kjv: "Lift up thyself, thou judge of the earth: render a reward to the proud."
+bsb: "Rise up, O Judge of the earth; render a reward to the proud."
+hebrew: "הִ֭נָּשֵׂא שֹׁפֵ֣ט הָאָ֑רֶץ הָשֵׁ֥ב גְּ֝מ֗וּל עַל־ גֵּאִֽים׃"
+pericope: "[[Ps.94.1 The LORD Will Not Forget His People|The LORD Will Not Forget His People]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 94
+book/chapter: "[[Ps.94|Psalm 94]]"
+chronological_order: 521
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H5375G]]"
+- "[[H8199]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7725K]]"
+- "[[H1576]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1343]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 94:2**<big><big>[[Ps.94.1 The LORD Will Not Forget His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up thyself, thou judge of the earth: render a reward to the proud.
 <small><sub>**BSB:**</sub></small>
 Rise up, O Judge of the earth; render a reward to the proud.
+<small><sub>**Hebrew:**</sub></small>
+[[H5375G\|הִ֭נָּשֵׂא]] [[H8199\|שֹׁפֵ֣ט]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H7725K\|הָשֵׁ֥ב]] [[H1576\|גְּ֝מ֗וּל]] [[H5921A\|עַל]][[H9014\|־]] [[H1343\|גֵּאִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.94.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.94.1|<< Psalms 94:1]]</td><td align="center" style="border:none;">[[Ps.94|Psalms 94]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.94.3|Psalms 94:3 >>]]</td></tr></table>
 

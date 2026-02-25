@@ -1,8 +1,56 @@
+---
+title: Psalm 59:1
+type: Verse
+kjv: "Deliver me from mine enemies, O my God: defend me from them that rise up against me."
+bsb: "For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David, when Saul sent men to watch David’s house in order to kill him. Deliver me from my enemies, O my God; protect me from those who rise against me."
+hebrew: "הַצִּילֵ֖נִי מֵאֹיְבַ֥י׀ אֱלֹהָ֑י מִּמִתְקוֹמְמַ֥י תְּשַׂגְּבֵֽנִי׃"
+pericope: "[[Ps.59.1 Deliver Me from My Enemies|Deliver Me from My Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 59
+book/chapter: "[[Ps.59|Psalm 59]]"
+chronological_order: 317
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[H5337]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H0430G]]"
+- "[[H6965J]]"
+- "[[H7682]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 59:1**<big><big>[[Ps.59.1 Deliver Me from My Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Deliver me from mine enemies, O my God: defend me from them that rise up against me.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David, when Saul sent men to watch David’s house in order to kill him. Deliver me from my enemies, O my God; protect me from those who rise against me.
+<small><sub>**Hebrew:**</sub></small>
+[[H5337\|הַצִּילֵ֖]][[H9030\|נִי]] [[H9006\|מֵ]][[H0341\|אֹיְבַ֥]][[H9020\|י]][[H9015\|׀]] [[H0430G\|אֱלֹהָ֑]][[H9020\|י]] [[H9006\|מִּ]][[H6965J\|מִתְקוֹמְמַ֥]][[H9030\|י]] [[H7682\|תְּשַׂגְּבֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic MUSIC|MUSIC]] • [[topic PERSECUTION|PERSECUTION]] • [[topic WAITING|WAITING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.59.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.59.0|<< Psalms 59:0]]</td><td align="center" style="border:none;">[[Ps.59|Psalms 59]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.59.2|Psalms 59:2 >>]]</td></tr></table>
 

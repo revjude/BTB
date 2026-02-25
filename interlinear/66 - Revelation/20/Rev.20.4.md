@@ -1,10 +1,84 @@
+---
+title: Revelation 20:4
+type: Verse
+kjv: "And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years."
+bsb: "Then I saw the thrones, and those seated on them had been given authority to judge. And I saw the souls of those who had been beheaded for their testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or hands. And they came to life and reigned with Christ for a thousand years."
+greek: "Καὶ εἶδον θρόνους, καὶ ἐκάθισαν ἐπ᾽ αὐτούς, καὶ κρίμα ἐδόθη αὐτοῖς, καὶ τὰς ψυχὰς τῶν πεπελεκισμένων διὰ τὴν μαρτυρίαν Ἰησοῦ καὶ διὰ τὸν λόγον τοῦ θεοῦ, καὶ οἵτινες οὐ προσεκύνησαν τὸ θηρίον οὐδὲ τὴν εἰκόνα αὐτοῦ καὶ οὐκ ἔλαβον τὸ χάραγμα ἐπὶ τὸ μέτωπον αὐτῶν καὶ ἐπὶ τὴν χεῖρα αὐτῶν, καὶ ἔζησαν καὶ ἐβασίλευσαν μετὰ τοῦ Χριστοῦ τὰ χίλια ἔτη."
+pericope: "[[Rev.20.1 Satan Bound|Satan Bound]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BEHEADING|BEHEADING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic VISION|VISION]]"
+- "[[topic YEAR|YEAR]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G2362]]"
+- "[[G2523]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G2917]]"
+- "[[G1325]]"
+- "[[G3588]]"
+- "[[G5590G]]"
+- "[[G3990]]"
+- "[[G1223]]"
+- "[[G3141]]"
+- "[[G2424G]]"
+- "[[G3056]]"
+- "[[G2316]]"
+- "[[G3748]]"
+- "[[G3756]]"
+- "[[G4352]]"
+- "[[G2342]]"
+- "[[G3761]]"
+- "[[G1504]]"
+- "[[G2983]]"
+- "[[G5480]]"
+- "[[G3359]]"
+- "[[G5495]]"
+- "[[G2198]]"
+- "[[G0936]]"
+- "[[G3326]]"
+- "[[G5547]]"
+- "[[G5507]]"
+- "[[G2094]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **Revelation 20:4**<big><big>[[Rev.20.1 Satan Bound|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw thrones, and they sat upon them, and judgment was given unto them: and [I saw] the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received [his] mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
 <small><sub>**BSB:**</sub></small>
 Then I saw the thrones, and those seated on them had been given authority to judge. And I saw the souls of those who had been beheaded for their testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or hands. And they came to life and reigned with Christ for a thousand years.
-<small><sub>**Literal:**</sub></small>
-And I saw thrones, and they sat upon them and judgment was given to them, and the souls of those beheaded because of the testimony of Jesus and because of the word <the> of God, and those who not did worship the beast nor the image of him and not did take the mark upon the forehead of them and upon the hand of them, And they lived and they reigned with <the> Christ the thousand years.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.3|<< Revelation 20:3]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.5|Revelation 20:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G2362\|θρόνους,]]  [[G2532\|καὶ]]  [[G2523\|ἐκάθισαν]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτούς,]]  [[G2532\|καὶ]]  [[G2917\|κρίμα]]  [[G1325\|ἐδόθη]]  [[G0846\|αὐτοῖς,]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G5590G\|ψυχὰς]]  [[G3588\|τῶν]]  [[G3990\|πεπελεκισμένων]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G3141\|μαρτυρίαν]]  [[G2424G\|Ἰησοῦ]]  [[G2532\|καὶ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G2532\|καὶ]]  [[G3748\|οἵτινες]]  [[G3756\|οὐ]]  [[G4352\|προσεκύνησαν]]  [[G3588\|τὸ]]  [[G2342\|θηρίον]]  [[G3761\|οὐδὲ]]  [[G3588\|τὴν]]  [[G1504\|εἰκόνα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G2983\|ἔλαβον]]  [[G3588\|τὸ]]  [[G5480\|χάραγμα]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G3359\|μέτωπον]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G0846\|αὐτῶν,]]  [[G2532\|καὶ]]  [[G2198\|ἔζησαν]]  [[G2532\|καὶ]]  [[G0936\|ἐβασίλευσαν]]  [[G3326\|μετὰ]]  [[G3588\|τοῦ]]  [[G5547\|Χριστοῦ]]  [[G3588\|τὰ]]  [[G5507\|χίλια]]  [[G2094\|ἔτη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BEHEADING|BEHEADING]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RESURRECTION|RESURRECTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic VISION|VISION]] • [[topic YEAR|YEAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.3|<< Revelation 20:3]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.5|Revelation 20:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 20:4** is...
 > $\quad$ possibly alluding to: [[LXX.Dan.9.22|Dan 9:22]] ☩ [[LXX.Dan.9.27|Dan 9:27]]

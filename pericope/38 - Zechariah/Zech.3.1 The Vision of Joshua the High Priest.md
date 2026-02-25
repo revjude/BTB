@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Vision of Joshua the High Priest
+type: Pericope
 pericope: "[[Zech.3.1 The Vision of Joshua the High Priest|The Vision of Joshua the High Priest]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Zechariah
 chapter: 3
 book/chapter: "[[Zech.3|Zechariah 3]]"
-genre:
+chronological_order: 859
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - visionary
 - apocalyptic
 - post exilic
+verse_count: 10
 verses:
 - "[[Zech.3.1]]"
 - "[[Zech.3.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Zech.3.10]]"
 ---
 
-[[Zech.3|Zechariah 3:1 - Zechariah 3:10]]
+<small>[[Zech.3|Zechariah 3:1-10]]</small>
 *The Vision of Joshua the High Priest*
 
 [[Zech.3.1|1]] And he shewed me Joshua the high priest standing before the angel of the LORD, and Satan standing at his right hand to resist him.

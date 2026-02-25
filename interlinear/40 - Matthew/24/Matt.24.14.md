@@ -1,10 +1,62 @@
+---
+title: Matthew 24:14
+type: Verse
+kjv: "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
+bsb: "And this gospel of the kingdom will be preached in all the world as a testimony to all nations, and then the end will come."
+jesus_said: "And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come."
+greek: "καὶ κηρυχθήσεται τοῦτο τὸ εὐαγγέλιον τῆς βασιλείας ἐν ὅλῃ τῇ οἰκουμένῃ εἰς μαρτύριον πᾶσιν τοῖς ἔθνεσιν· καὶ τότε ἥξει τὸ τέλος.¶"
+pericope: "[[Matt.24.9 Witnessing to All Nations|Witnessing to All Nations]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 24
+book/chapter: "[[Matt.24|Matthew 24]]"
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic EARTH|EARTH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G2784]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G0932]]"
+- "[[G1722]]"
+- "[[G3650]]"
+- "[[G3625]]"
+- "[[G1519]]"
+- "[[G3142]]"
+- "[[G3956]]"
+- "[[G1484]]"
+- "[[G5119]]"
+- "[[G2240]]"
+- "[[G5056]]"
+texts:
+- NKO
+---
+
 **Matthew 24:14**<big><big>[[Matt.24.9 Witnessing to All Nations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this gospel of the kingdom shall be preached in all the world for a witness unto all nations; and then shall the end come.
 <small><sub>**BSB:**</sub></small>
 And this gospel of the kingdom will be preached in all the world as a testimony to all nations, and then the end will come.
-<small><sub>**Literal:**</sub></small>
-And there will be proclaimed this the gospel of the kingdom in all the earth for a testimony to all the nations; and then will come the end.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.13|<< Matthew 24:13]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.15|Matthew 24:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2784\|κηρυχθήσεται]]  [[G3778\|τοῦτο]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G1722\|ἐν]]  [[G3650\|ὅλῃ]]  [[G3588\|τῇ]]  [[G3625\|οἰκουμένῃ]]  [[G1519\|εἰς]]  [[G3142\|μαρτύριον]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G1484\|ἔθνεσιν·]]  [[G2532\|καὶ]]  [[G5119\|τότε]]  [[G2240\|ἥξει]]  [[G3588\|τὸ]]  [[G5056\|τέλος.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EARTH|EARTH]] • [[topic GOSPEL|GOSPEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MISSIONS|MISSIONS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.24.13|<< Matthew 24:13]]</td><td align="center" style="border:none;">[[Matt.24|Matthew 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.24.15|Matthew 24:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

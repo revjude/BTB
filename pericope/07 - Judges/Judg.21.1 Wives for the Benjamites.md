@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Wives for the Benjamites
+type: Pericope
 pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
-verse_count: 25
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 21
 book/chapter: "[[Judg.21|Judges 21]]"
-genre:
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 25
 verses:
 - "[[Judg.21.1]]"
 - "[[Judg.21.2]]"
@@ -43,7 +50,7 @@ verses:
 - "[[Judg.21.25]]"
 ---
 
-[[Judg.21|Judges 21:1 - Judges 21:25]]
+<small>[[Judg.21|Judges 21:1-25]]</small>
 *Wives for the Benjamites*
 
 [[Judg.21.1|1]] Now the men of Israel had sworn in Mizpeh, saying, There shall not any of us give his daughter unto Benjamin to wife.

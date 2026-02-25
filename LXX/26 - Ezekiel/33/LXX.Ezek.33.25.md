@@ -1,6 +1,69 @@
+---
+title: LXX Ezekiel 33:25
+type: Verse
+lxx: "On account of this say to them! Thus says the Lord the lord; Since you chew upon food with blood, and  lift your eyes unto  your abominations, and you pour out blood -- then shall you inherit the land?"
+greek: "διά τούτο είπον αυτοίς τάδε λέγει κύριος κύριος επί αίματος τρώγετε και τους οφθαλμούς υμών αίρετε εις τα βδελύγματα υμών και αίμα εκχέετε και την γην κληρονομήσετε"
+original_language: Greek
+testament: Old
+book: Ezekiel
+chapter: 33
+book/chapter: "[[Ezek.33|Ezekiel 33]]"
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLOOD|BLOOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G3592]]"
+- "[[G3004]]"
+- "[[G2962]]"
+- "[[G2962]]"
+- "[[G1909]]"
+- "[[G0129]]"
+- "[[G5176]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G0142]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0946]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G0129]]"
+- "[[G1632]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G2816]]"
+---
+
 **LXX Ezekiel 33:25** 
 <small><sub>**LXX:**</sub></small>
 On account of this say to them! Thus says \[the\] Lord \[the\] <span class="smallcaps">lord</span>; \[Since\] you chew upon \[food with\] blood, and  lift your eyes unto  your abominations, and you pour out blood -- then shall you inherit the land? 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G2036\|είπον]] [[G1473\|αυτοίς]] [[G3592\|τάδε]] [[G3004\|λέγει]] [[G2962\|κύριος]] [[G2962\|κύριος]] [[G1909\|επί]] [[G0129\|αίματος]] [[G5176\|τρώγετε]] [[G2532\|και]] [[G3588\|τους]] [[G3788\|οφθαλμούς]] [[G1473\|υμών]] [[G0142\|αίρετε]] [[G1519\|εις]] [[G3588\|τα]] [[G0946\|βδελύγματα]] [[G1473\|υμών]] [[G2532\|και]] [[G0129\|αίμα]] [[G1632\|εκχέετε]] [[G2532\|και]] [[G3588\|την]] [[G1093\|γην]] [[G2816\|κληρονομήσετε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLOOD|BLOOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JERUSALEM|JERUSALEM]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic SIN|SIN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ezek.33.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.24|<< Ezekiel 33:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.26|Ezekiel 33:26 >>]]</td></tr></table>
 
@@ -31,6 +94,6 @@ On account of this say to them! Thus says \[the\] Lord \[the\] <span class="smal
 | the | **<big>[[G3588\|την]]</big>** |
 | land | **<big>[[G1093\|γην]]</big>** |
 | shall you inherit | **<big>[[G2816\|κληρονομήσετε]]</big>** |
-[[Ezek.33.25|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.24|<< Ezekiel 33:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.26|Ezekiel 33:26 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ezek.33.24|<< Ezekiel 33:24]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ezek.33.26|Ezekiel 33:26 >>]]</td></tr></table>
 
 

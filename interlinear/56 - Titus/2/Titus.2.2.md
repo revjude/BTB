@@ -1,10 +1,56 @@
+---
+title: Titus 2:2
+type: Verse
+kjv: "That the aged men be sober, grave, temperate, sound in faith, in charity, in patience."
+bsb: "Older men are to be temperate, dignified, self-controlled, and sound in faith, love, and perseverance."
+greek: "Πρεσβύτας νηφαλίους εἶναι, σεμνούς, σώφρονας, ὑγιαίνοντας τῇ πίστει, τῇ ἀγάπῃ, τῇ ὑπομονῇ.¶"
+pericope: "[[Titus.2.1 Teaching Sound Doctrine|Teaching Sound Doctrine]]"
+original_language: Greek
+testament: New
+book: Titus
+chapter: 2
+book/chapter: "[[Titus.2|Titus 2]]"
+chronological_order: 1133
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic OLD AGE|OLD AGE]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SOBRIETY|SOBRIETY]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[G4246]]"
+- "[[G3524]]"
+- "[[G1511]]"
+- "[[G4586]]"
+- "[[G4998]]"
+- "[[G5198]]"
+- "[[G3588]]"
+- "[[G4102G]]"
+- "[[G0026]]"
+- "[[G5281]]"
+texts:
+- NKO
+---
+
 **Titus 2:2**<big><big>[[Titus.2.1 Teaching Sound Doctrine|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.
 <small><sub>**BSB:**</sub></small>
 Older men are to be temperate, dignified, self-controlled, and sound in faith, love, and perseverance.
-<small><sub>**Literal:**</sub></small>
-[The] aged [men] sober-minded are to be, dignified, self-controlled, sound <the> in faith, <the> in love, <the> in endurance.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.1|<< Titus 2:1]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.3|Titus 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4246\|Πρεσβύτας]]  [[G3524\|νηφαλίους]]  [[G1511\|εἶναι,]]  [[G4586\|σεμνούς,]]  [[G4998\|σώφρονας,]]  [[G5198\|ὑγιαίνοντας]]  [[G3588\|τῇ]]  [[G4102G\|πίστει,]]  [[G3588\|τῇ]]  [[G0026\|ἀγάπῃ,]]  [[G3588\|τῇ]]  [[G5281\|ὑπομονῇ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic MEEKNESS|MEEKNESS]] • [[topic OLD AGE|OLD AGE]] • [[topic PATIENCE|PATIENCE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SOBRIETY|SOBRIETY]] • [[topic TEMPERANCE|TEMPERANCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Titus.2.1|<< Titus 2:1]]</td><td align="center" style="border:none;">[[Titus.2|Titus 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Titus.2.3|Titus 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

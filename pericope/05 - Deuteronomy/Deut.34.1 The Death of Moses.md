@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Moses
+type: Pericope
 pericope: "[[Deut.34.1 The Death of Moses|The Death of Moses]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 34
 book/chapter: "[[Deut.34|Deuteronomy 34]]"
-genre:
+chronological_order: 230
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 12
 verses:
 - "[[Deut.34.1]]"
 - "[[Deut.34.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Deut.34.12]]"
 ---
 
-[[Deut.34|Deuteronomy 34:1 - Deuteronomy 34:12]]
+<small>[[Deut.34|Deuteronomy 34:1-12]]</small>
 *The Death of Moses*
 
 [[Deut.34.1|1]] And Moses went up from the plains of Moab unto the mountain of Nebo, to the top of Pisgah, that \[is\] over against Jericho. And the LORD shewed him all the land of Gilead, unto Dan,

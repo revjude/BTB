@@ -1,8 +1,71 @@
+---
+title: Judges 6:18
+type: Verse
+kjv: "Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set it before thee. And he said, I will tarry until thou come again."
+bsb: "Please do not depart from this place until I return to You. Let me bring my offering and set it before You.” And the LORD said, “I will stay until you return.”"
+hebrew: "אַל־ נָ֨א תָמֻ֤שׁ מִזֶּה֙ עַד־ בֹּאִ֣י אֵלֶ֔יךָ וְהֹֽצֵאתִי֙ אֶת־ מִנְחָתִ֔י וְהִנַּחְתִּ֖י לְפָנֶ֑יךָ וַיֹּאמַ֕ר אָנֹכִ֥י אֵשֵׁ֖ב עַ֥ד שׁוּבֶֽךָ׃"
+pericope: "[[Judg.6.11 The Call of Gideon|The Call of Gideon]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 6
+book/chapter: "[[Judg.6|Judges 6]]"
+chronological_order: 260
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H4185]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H5704]]"
+- "[[H0935G]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H4503H]]"
+- "[[H9020]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H0559]]"
+- "[[H0595]]"
+- "[[H3427]]"
+- "[[H7725G]]"
+- "[[H9041]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 6:18**<big><big>[[Judg.6.11 The Call of Gideon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Depart not hence, I pray thee, until I come unto thee, and bring forth my present, and set [it] before thee. And he said, I will tarry until thou come again.
 <small><sub>**BSB:**</sub></small>
 Please do not depart from this place until I return to You. Let me bring my offering and set it before You.” And the LORD said, “I will stay until you return.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֨א]] [[H4185\|תָמֻ֤שׁ]] [[H9006\|מִ]][[H2088\|זֶּה֙]] [[H5704\|עַד]][[H9014\|־]] [[H0935G\|בֹּאִ֣]][[H9040\|י]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H9001\|וְ]][[H3318H\|הֹֽצֵאתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4503H\|מִנְחָתִ֔]][[H9020\|י]] [[H9001\|וְ]][[H5117\|הִנַּחְתִּ֖י]] [[H9005\|לְ]][[H6440G\|פָנֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּאמַ֕ר]] [[H0595\|אָנֹכִ֥י]] [[H3427\|אֵשֵׁ֖ב]] [[H5704\|עַ֥ד]] [[H7725G\|שׁוּבֶֽ]][[H9041\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COMMUNION|COMMUNION]] • [[topic GOD|GOD]] • [[topic JUDGE|JUDGE]] • [[topic MIRACLES|MIRACLES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.6.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.6.17|<< Judges 6:17]]</td><td align="center" style="border:none;">[[Judg.6|Judges 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.6.19|Judges 6:19 >>]]</td></tr></table>
 

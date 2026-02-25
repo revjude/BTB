@@ -1,8 +1,54 @@
+---
+title: Proverbs 15:5
+type: Verse
+kjv: "A fool despiseth his father’s instruction: but he that regardeth reproof is prudent."
+bsb: "A fool rejects his father’s discipline, but whoever heeds correction is prudent."
+hebrew: "אֱוִ֗יל יִ֭נְאַץ מוּסַ֣ר אָבִ֑יו וְשֹׁמֵ֖ר תּוֹכַ֣חַת יַעְרִֽם׃"
+pericope: "[[Prov.15.1 A Gentle Answer Turns Away Wrath|A Gentle Answer Turns Away Wrath]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 15
+book/chapter: "[[Prov.15|Proverbs 15]]"
+chronological_order: 470
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0191]]"
+- "[[H5006]]"
+- "[[H4148G]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8104I]]"
+- "[[H8433B]]"
+- "[[H6191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 15:5**<big><big>[[Prov.15.1 A Gentle Answer Turns Away Wrath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fool despiseth his father’s instruction: but he that regardeth reproof is prudent.
 <small><sub>**BSB:**</sub></small>
 A fool rejects his father’s discipline, but whoever heeds correction is prudent.
+<small><sub>**Hebrew:**</sub></small>
+[[H0191\|אֱוִ֗יל]] [[H5006\|יִ֭נְאַץ]] [[H4148G\|מוּסַ֣ר]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H8104I\|שֹׁמֵ֖ר]] [[H8433B\|תּוֹכַ֣חַת]] [[H6191\|יַעְרִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic PRIDE|PRIDE]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REPROOF|REPROOF]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.15.4|<< Proverbs 15:4]]</td><td align="center" style="border:none;">[[Prov.15|Proverbs 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.15.6|Proverbs 15:6 >>]]</td></tr></table>
 

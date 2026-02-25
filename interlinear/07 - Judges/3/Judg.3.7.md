@@ -1,8 +1,66 @@
+---
+title: Judges 3:7
+type: Verse
+kjv: "And the children of Israel did evil in the sight of the LORD, and forgat the LORD their God, and served Baalim and the groves."
+bsb: "So the Israelites did evil in the sight of the LORD; they forgot the LORD their God and served the Baals and the Asherahs."
+hebrew: "וַיַּעֲשׂ֨וּ בְנֵי־ יִשְׂרָאֵ֤ל אֶת־ הָרַע֙ בְּעֵינֵ֣י יְהוָ֔ה וַֽיִּשְׁכְּח֖וּ אֶת־ יְהוָ֣ה אֱלֹֽהֵיהֶ֑ם וַיַּעַבְד֥וּ אֶת־ הַבְּעָלִ֖ים וְאֶת־ הָאֲשֵׁרֽוֹת׃"
+pericope: "[[Judg.3.7 Othniel|Othniel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 3
+book/chapter: "[[Judg.3|Judges 3]]"
+chronological_order: 257
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GROVES|GROVES]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MISCEGENATION|MISCEGENATION]]"
+- "[[topic PERIZZITES|PERIZZITES]]"
+- "[[topic POLYTHEISM|POLYTHEISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H7911]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H5647H]]"
+- "[[H1168A]]"
+- "[[H9002]]"
+- "[[H0842]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 3:7**<big><big>[[Judg.3.7 Othniel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel did evil in the sight of the LORD, and forgat the LORD their God, and served Baalim and the groves.
 <small><sub>**BSB:**</sub></small>
 So the Israelites did evil in the sight of the LORD; they forgot the LORD their God and served the Baals and the Asherahs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּעֲשׂ֨וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֤ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7451H\|רַע֙]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וַֽ]][[H7911\|יִּשְׁכְּח֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹֽהֵי]][[H9028\|הֶ֑ם]] [[H9001\|וַ]][[H5647H\|יַּעַבְד֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1168A\|בְּעָלִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0842\|אֲשֵׁרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GROVES|GROVES]] • [[topic HITTITES|HITTITES]] • [[topic ISRAEL|ISRAEL]] • [[topic MISCEGENATION|MISCEGENATION]] • [[topic PERIZZITES|PERIZZITES]] • [[topic POLYTHEISM|POLYTHEISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.3.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.6|<< Judges 3:6]]</td><td align="center" style="border:none;">[[Judg.3|Judges 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.3.8|Judges 3:8 >>]]</td></tr></table>
 

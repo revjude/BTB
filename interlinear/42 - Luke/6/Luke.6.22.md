@@ -1,10 +1,65 @@
+---
+title: Luke 6:22
+type: Verse
+kjv: "Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake."
+bsb: "Blessed are you when people hate you, and when they exclude you and insult you and reject your name as evil because of the Son of Man."
+jesus_said: "Blessed are ye, when men shall hate you, and when they shall separate you from their company, and shall reproach you, and cast out your name as evil, for the Son of man’s sake."
+greek: "Μακάριοί ἐστε, ὅταν μισήσωσιν ὑμᾶς οἱ ἄνθρωποι καὶ ὅταν ἀφορίσωσιν ὑμᾶς καὶ ὀνειδίσωσιν καὶ ἐκβάλωσιν τὸ ὄνομα ὑμῶν ὡς πονηρὸν ἕνεκα τοῦ υἱοῦ τοῦ ἀνθρώπου."
+pericope: "[[Luke.6.20 The Beatitudes|The Beatitudes]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3107]]"
+- "[[G1510]]"
+- "[[G3752]]"
+- "[[G3404]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G2532]]"
+- "[[G0873]]"
+- "[[G3679]]"
+- "[[G1544]]"
+- "[[G3686]]"
+- "[[G5613]]"
+- "[[G4190]]"
+- "[[G1752]]"
+- "[[G5207]]"
+texts:
+- NKO
+---
+
 **Luke 6:22**<big><big>[[Luke.6.20 The Beatitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Blessed are ye, when men shall hate you, and when they shall separate you [from their company], and shall reproach [you], and cast out your name as evil, for the Son of man’s sake.
 <small><sub>**BSB:**</sub></small>
 Blessed are you when people hate you, and when they exclude you and insult you and reject your name as evil because of the Son of Man.
-<small><sub>**Literal:**</sub></small>
-Blessed are you when may hate you <the> men and when they may exclude you and they may insult [you] and they may cast out the name of you as evil on account of the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.21|<< Luke 6:21]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.23|Luke 6:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3107\|Μακάριοί]]  [[G1510\|ἐστε,]]  [[G3752\|ὅταν]]  [[G3404\|μισήσωσιν]]  [[G4771\|ὑμᾶς]]  [[G3588\|οἱ]]  [[G0444\|ἄνθρωποι]]  [[G2532\|καὶ]]  [[G3752\|ὅταν]]  [[G0873\|ἀφορίσωσιν]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G3679\|ὀνειδίσωσιν]]  [[G2532\|καὶ]]  [[G1544\|ἐκβάλωσιν]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G4771\|ὑμῶν]]  [[G5613\|ὡς]]  [[G4190\|πονηρὸν]]  [[G1752\|ἕνεκα]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOY|JOY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic REWARD|REWARD]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SERMON|SERMON]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.21|<< Luke 6:21]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.23|Luke 6:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: Deuteronomy 20:15
+type: Verse
+kjv: "Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations."
+bsb: "This is how you are to treat all the cities that are far away from you and do not belong to the nations nearby."
+hebrew: "כֵּ֤ן תַּעֲשֶׂה֙ לְכָל־ הֶ֣עָרִ֔ים הָרְחֹקֹ֥ת מִמְּךָ֖ מְאֹ֑ד אֲשֶׁ֛ר לֹא־ מֵעָרֵ֥י הַגּֽוֹיִם־ הָאֵ֖לֶּה הֵֽנָּה׃"
+pericope: "[[Deut.20.1 Laws of Warfare|Laws of Warfare]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 20
+book/chapter: "[[Deut.20|Deuteronomy 20]]"
+chronological_order: 216
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H7350]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H3966]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H2007]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 20:15**<big><big>[[Deut.20.1 Laws of Warfare|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus shalt thou do unto all the cities [which are] very far off from thee, which [are] not of the cities of these nations.
 <small><sub>**BSB:**</sub></small>
 This is how you are to treat all the cities that are far away from you and do not belong to the nations nearby.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֤ן]] [[H6213A\|תַּעֲשֶׂה֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הֶ֣]][[H5892B\|עָרִ֔ים]] [[H9009\|הָ]][[H7350\|רְחֹקֹ֥ת]] [[H4480A\|מִמְּ]][[H9031\|ךָ֖]] [[H3966\|מְאֹ֑ד]] [[H0834A\|אֲשֶׁ֛ר]] [[H3808\|לֹא]][[H9014\|־]] [[H9006\|מֵ]][[H5892B\|עָרֵ֥י]] [[H9009\|הַ]][[H1471A\|גּֽוֹיִם]][[H9014\|־]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H2007\|הֵֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.20.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.20.14|<< Deuteronomy 20:14]]</td><td align="center" style="border:none;">[[Deut.20|Deuteronomy 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.20.16|Deuteronomy 20:16 >>]]</td></tr></table>
 

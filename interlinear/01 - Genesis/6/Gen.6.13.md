@@ -1,8 +1,77 @@
+---
+title: Genesis 6:13
+type: Verse
+kjv: "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth."
+bsb: "Then God said to Noah, “The end of all living creatures has come before Me, because through them the earth is full of violence. Now behold, I will destroy both them and the earth."
+hebrew: "וַיֹּ֨אמֶר אֱלֹהִ֜ים לְנֹ֗חַ קֵ֤ץ כָּל־ בָּשָׂר֙ בָּ֣א לְפָנַ֔י כִּֽי־ מָלְאָ֥ה הָאָ֛רֶץ חָמָ֖ס מִפְּנֵיהֶ֑ם וְהִנְנִ֥י מַשְׁחִיתָ֖ם אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Gen.6.13 Preparing the Ark|Preparing the Ark]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 6
+book/chapter: "[[Gen.6|Genesis 6]]"
+chronological_order: 6
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H5146]]"
+- "[[H7093]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H0935M]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H4390]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H2555]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H7843]]"
+- "[[H9038]]"
+- "[[H0854]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 6:13**<big><big>[[Gen.6.13 Preparing the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.
 <small><sub>**BSB:**</sub></small>
 Then God said to Noah, “The end of all living creatures has come before Me, because through them the earth is full of violence. Now behold, I will destroy both them and the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0430G\|אֱלֹהִ֜ים]] [[H9005\|לְ]][[H5146\|נֹ֗חַ]] [[H7093\|קֵ֤ץ]] [[H3605\|כָּל]][[H9014\|־]] [[H1320\|בָּשָׂר֙]] [[H0935M\|בָּ֣א]] [[H9005\|לְ]][[H6440G\|פָנַ֔]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4390\|מָלְאָ֥ה]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H2555\|חָמָ֖ס]] [[H9006\|מִ]][[H6440I\|פְּנֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H2005\|הִנְ]][[H9040\|נִ֥י]] [[H7843\|מַשְׁחִיתָ֖]][[H9038\|ם]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic FLOOD|FLOOD]] • [[topic GOD|GOD]] • [[topic SHIP|SHIP]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.6.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.6.12|<< Genesis 6:12]]</td><td align="center" style="border:none;">[[Gen.6|Genesis 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.6.14|Genesis 6:14 >>]]</td></tr></table>
 

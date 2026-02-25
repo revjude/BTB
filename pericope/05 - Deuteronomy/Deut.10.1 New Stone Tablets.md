@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: New Stone Tablets
+type: Pericope
 pericope: "[[Deut.10.1 New Stone Tablets|New Stone Tablets]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 10
 book/chapter: "[[Deut.10|Deuteronomy 10]]"
-genre:
+chronological_order: 206
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 11
 verses:
 - "[[Deut.10.1]]"
 - "[[Deut.10.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Deut.10.11]]"
 ---
 
-[[Deut.10|Deuteronomy 10:1 - Deuteronomy 10:11]]
+<small>[[Deut.10|Deuteronomy 10:1-11]]</small>
 *New Stone Tablets*
 
 [[Deut.10.1|1]] At that time the LORD said unto me, Hew thee two tables of stone like unto the first, and come up unto me into the mount, and make thee an ark of wood.

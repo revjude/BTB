@@ -1,8 +1,67 @@
+---
+title: Ezekiel 43:19
+type: Verse
+kjv: "And thou shalt give to the priests the Levites that be of the seed of Zadok, which approach unto me, to minister unto me, saith the Lord GOD, a young bullock for a sin offering."
+bsb: "You are to give a young bull from the herd as a sin offering to the Levitical priests who are of the family of Zadok, who approach Me to minister before Me, declares the Lord GOD."
+hebrew: "וְנָתַתָּ֣ה אֶל־ הַכֹּהֲנִ֣ים הַלְוִיִּ֡ם אֲשֶׁ֣ר הֵם֩ מִזֶּ֨רַע צָד֜וֹק הַקְּרֹבִ֣ים אֵלַ֗י נְאֻ֛ם אֲדֹנָ֥י יְהוִ֖ה לְשָֽׁרְתֵ֑נִי פַּ֥ר בֶּן־ בָּקָ֖ר לְחַטָּֽאת׃"
+pericope: "[[Ezek.43.13 The Altar of Sacrifice|The Altar of Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 43
+book/chapter: "[[Ezek.43|Ezekiel 43]]"
+chronological_order: 834
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ALTAR|ALTAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H5414G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H6659G]]"
+- "[[H7138]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9005]]"
+- "[[H8334]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H1241]]"
+- "[[H2403H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 43:19**<big><big>[[Ezek.43.13 The Altar of Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt give to the priests the Levites that be of the seed of Zadok, which approach unto me, to minister unto me, saith the Lord GOD, a young bullock for a sin offering.
 <small><sub>**BSB:**</sub></small>
 You are to give a young bull from the herd as a sin offering to the Levitical priests who are of the family of Zadok, who approach Me to minister before Me, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5414G\|נָתַתָּ֣ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֣ים]] [[H9009\|הַ]][[H3881\|לְוִיִּ֡ם]] [[H0834A\|אֲשֶׁ֣ר]] [[H1992\|הֵם֩]] [[H9006\|מִ]][[H2233H\|זֶּ֨רַע]] [[H6659G\|צָד֜וֹק]] [[H9009\|הַ]][[H7138\|קְּרֹבִ֣ים]] [[H0413\|אֵלַ֗]][[H9030\|י]] [[H5002\|נְאֻ֛ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִ֖ה]] [[H9005\|לְ]][[H8334\|שָֽׁרְתֵ֑]][[H9030\|נִי]] [[H6499\|פַּ֥ר]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֖ר]] [[H9005\|לְ]][[H2403H\|חַטָּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.43.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.43.18|<< Ezekiel 43:18]]</td><td align="center" style="border:none;">[[Ezek.43|Ezekiel 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.43.20|Ezekiel 43:20 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Judges 9:35
+type: Verse
+kjv: "And Gaal the son of Ebed went out, and stood in the entering of the gate of the city: and Abimelech rose up, and the people that were with him, from lying in wait."
+bsb: "Now Gaal son of Ebed went out and stood at the entrance of the city gate just as Abimelech and his men came out from their hiding places."
+hebrew: "וַיֵּצֵא֙ גַּ֣עַל בֶּן־ עֶ֔בֶד וַיַּעֲמֹ֕ד פֶּ֖תַח שַׁ֣עַר הָעִ֑יר וַיָּ֧קָם אֲבִימֶ֛לֶךְ וְהָעָ֥ם אֲשֶׁר־ אִתּ֖וֹ מִן־ הַמַּאְרָֽב׃"
+pericope: "[[Judg.9.30 The Fall of Shechem|The Fall of Shechem]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 9
+book/chapter: "[[Judg.9|Judges 9]]"
+chronological_order: 263
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic EBED|EBED]]"
+- "[[topic GAAL|GAAL]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic ZEBUL|ZEBUL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H1603]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5651G]]"
+- "[[H5975G]]"
+- "[[H6607]]"
+- "[[H8179G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H6965B]]"
+- "[[H0040H]]"
+- "[[H9002]]"
+- "[[H5971K]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H4480A]]"
+- "[[H3993]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 9:35**<big><big>[[Judg.9.30 The Fall of Shechem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Gaal the son of Ebed went out, and stood in the entering of the gate of the city: and Abimelech rose up, and the people that [were] with him, from lying in wait.
 <small><sub>**BSB:**</sub></small>
 Now Gaal son of Ebed went out and stood at the entrance of the city gate just as Abimelech and his men came out from their hiding places.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵא֙]] [[H1603\|גַּ֣עַל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5651G\|עֶ֔בֶד]] [[H9001\|וַ]][[H5975G\|יַּעֲמֹ֕ד]] [[H6607\|פֶּ֖תַח]] [[H8179G\|שַׁ֣עַר]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H6965B\|יָּ֧קָם]] [[H0040H\|אֲבִימֶ֛לֶךְ]] [[H9002\|וְ]][[H9009\|הָ]][[H5971K\|עָ֥ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3993\|מַּאְרָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic EBED|EBED]] • [[topic GAAL|GAAL]] • [[topic JUDGE|JUDGE]] • [[topic ZEBUL|ZEBUL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.9.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.9.34|<< Judges 9:34]]</td><td align="center" style="border:none;">[[Judg.9|Judges 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.9.36|Judges 9:36 >>]]</td></tr></table>
 

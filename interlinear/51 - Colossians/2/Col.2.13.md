@@ -1,10 +1,60 @@
+---
+title: Colossians 2:13
+type: Verse
+kjv: "And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;"
+bsb: "When you were dead in your trespasses and in the uncircumcision of your sinful nature, God made you alive with Christ. He forgave us all our trespasses,"
+greek: "Καὶ ὑμᾶς νεκροὺς ὄντας ἐν τοῖς παραπτώμασιν καὶ τῇ ἀκροβυστίᾳ τῆς σαρκὸς ὑμῶν, συνεζωοποίησεν ὑμᾶς σὺν αὐτῷ χαρισάμενος ἡμῖν πάντα τὰ παραπτώματα·"
+pericope: "[[Col.2.6 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 2
+book/chapter: "[[Col.2|Colossians 2]]"
+chronological_order: 1122
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3498]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3900]]"
+- "[[G0203]]"
+- "[[G4561]]"
+- "[[G4806]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G5483]]"
+- "[[G3165]]"
+- "[[G3956]]"
+texts:
+- NKO
+- NO
+---
+
 **Colossians 2:13**<big><big>[[Col.2.6 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;
 <small><sub>**BSB:**</sub></small>
 When you were dead in your trespasses and in the uncircumcision of your sinful nature, God made you alive with Christ. He forgave us all our trespasses,
-<small><sub>**Literal:**</sub></small>
-And you dead being in the trespasses and in the uncircumcision of the flesh of you, He made alive together you with Him having forgiven us all the transgressions;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.12|<< Colossians 2:12]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.14|Colossians 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4771\|ὑμᾶς]]  [[G3498\|νεκροὺς]]  [[G1510\|ὄντας]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3900\|παραπτώμασιν]]  [[G2532\|καὶ]]  [[G3588\|τῇ]]  [[G0203\|ἀκροβυστίᾳ]]  [[G3588\|τῆς]]  [[G4561\|σαρκὸς]]  [[G4771\|ὑμῶν,]]  [[G4806\|συνεζωοποίησεν]]  [[G4771\|ὑμᾶς]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G5483\|χαρισάμενος]]  [[G3165\|ἡμῖν]]  [[G3956\|πάντα]]  [[G3588\|τὰ]]  [[G3900\|παραπτώματα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic REGENERATION|REGENERATION]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.2.12|<< Colossians 2:12]]</td><td align="center" style="border:none;">[[Col.2|Colossians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.2.14|Colossians 2:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

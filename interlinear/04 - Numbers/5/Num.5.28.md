@@ -1,8 +1,63 @@
+---
+title: Numbers 5:28
+type: Verse
+kjv: "And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed."
+bsb: "But if the woman has not defiled herself and is clean, she will be unaffected and able to conceive children."
+hebrew: "וְאִם־ לֹ֤א נִטְמְאָה֙ הָֽאִשָּׁ֔ה וּטְהֹרָ֖ה הִ֑וא וְנִקְּתָ֖ה וְנִזְרְעָ֥ה זָֽרַע׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H2930A]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H2889]]"
+- "[[H1931]]"
+- "[[H9001]]"
+- "[[H5352]]"
+- "[[H2232]]"
+- "[[H2233H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:28**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the woman be not defiled, but be clean; then she shall be free, and shall conceive seed.
 <small><sub>**BSB:**</sub></small>
 But if the woman has not defiled herself and is clean, she will be unaffected and able to conceive children.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֤א]] [[H2930A\|נִטְמְאָה֙]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁ֔ה]] [[H9002\|וּ]][[H2889\|טְהֹרָ֖ה]] [[H1931\|הִ֑וא]] [[H9001\|וְ]][[H5352\|נִקְּתָ֖ה]] [[H9001\|וְ]][[H2232\|נִזְרְעָ֥ה]] [[H2233H\|זָֽרַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic PRIEST|PRIEST]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.27|<< Numbers 5:27]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.29|Numbers 5:29 >>]]</td></tr></table>
 

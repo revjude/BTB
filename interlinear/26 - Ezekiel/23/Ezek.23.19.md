@@ -1,8 +1,59 @@
+---
+title: Ezekiel 23:19
+type: Verse
+kjv: "Yet she multiplied her whoredoms, in calling to remembrance the days of her youth, wherein she had played the harlot in the land of Egypt."
+bsb: "Yet she multiplied her promiscuity, remembering the days of her youth, when she had prostituted herself in the land of Egypt"
+hebrew: "וַתַּרְבֶּ֖ה אֶת־ תַּזְנוּתֶ֑יהָ לִזְכֹּר֙ אֶת־ יְמֵ֣י נְעוּרֶ֔יהָ אֲשֶׁ֥ר זָנְתָ֖ה בְּאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Ezek.23.1 The Two Adulterous Sisters|The Two Adulterous Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8457]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H2142]]"
+- "[[H3117G]]"
+- "[[H5271A]]"
+- "[[H0834A]]"
+- "[[H2181]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:19**<big><big>[[Ezek.23.1 The Two Adulterous Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet she multiplied her whoredoms, in calling to remembrance the days of her youth, wherein she had played the harlot in the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 Yet she multiplied her promiscuity, remembering the days of her youth, when she had prostituted herself in the land of Egypt
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7235A\|תַּרְבֶּ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H8457\|תַּזְנוּתֶ֑י]][[H9024\|הָ]] [[H9005\|לִ]][[H2142\|זְכֹּר֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3117G\|יְמֵ֣י]] [[H5271A\|נְעוּרֶ֔י]][[H9024\|הָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H2181\|זָנְתָ֖ה]] [[H9003\|בְּ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.18|<< Ezekiel 23:18]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.20|Ezekiel 23:20 >>]]</td></tr></table>
 

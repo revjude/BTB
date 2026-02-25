@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 6:10
+type: Verse
+kjv: "And the men did so; and took two milch kine, and tied them to the cart, and shut up their calves at home:"
+bsb: "So the men did as instructed. They took two milk cows, hitched them to the cart, and penned up their calves."
+hebrew: "וַיַּעֲשׂ֤וּ הָאֲנָשִׁים֙ כֵּ֔ן וַיִּקְח֗וּ שְׁתֵּ֤י פָרוֹת֙ עָל֔וֹת וַיַּאַסְר֖וּם בָּעֲגָלָ֑ה וְאֶת־ בְּנֵיהֶ֖ם כָּל֥וּ בַבָּֽיִת׃"
+pericope: "[[1Sam.6.1 The Ark Returned to Israel|The Ark Returned to Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 6
+book/chapter: "[[1Sam.6|1 Samuel 6]]"
+chronological_order: 285
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CART|CART]]"
+- "[[topic COW|COW]]"
+- "[[topic MILK|MILK]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H3651C]]"
+- "[[H3947G]]"
+- "[[H8147]]"
+- "[[H6510]]"
+- "[[H5763]]"
+- "[[H0631]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H5699]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121H]]"
+- "[[H9028]]"
+- "[[H3607]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 6:10**<big><big>[[1Sam.6.1 The Ark Returned to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men did so; and took two milch kine, and tied them to the cart, and shut up their calves at home:
 <small><sub>**BSB:**</sub></small>
 So the men did as instructed. They took two milk cows, hitched them to the cart, and penned up their calves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּעֲשׂ֤וּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁים֙]] [[H3651C\|כֵּ֔ן]] [[H9001\|וַ]][[H3947G\|יִּקְח֗וּ]] [[H8147\|שְׁתֵּ֤י]] [[H6510\|פָרוֹת֙]] [[H5763\|עָל֔וֹת]] [[H9001\|וַ]][[H0631\|יַּאַסְר֖וּ]][[H9038\|ם]] [[H9003\|בָּ]][[H5699\|עֲגָלָ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1121H\|בְּנֵי]][[H9028\|הֶ֖ם]] [[H3607\|כָּל֥וּ]] [[H9003\|בַ]][[H1004B\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CART|CART]] • [[topic COW|COW]] • [[topic MILK|MILK]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.6.9|<< 1 Samuel 6:9]]</td><td align="center" style="border:none;">[[1Sam.6|1 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.6.11|1 Samuel 6:11 >>]]</td></tr></table>
 

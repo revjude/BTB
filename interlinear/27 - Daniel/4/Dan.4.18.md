@@ -1,8 +1,81 @@
+---
+title: Daniel 4:18
+type: Verse
+kjv: "This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation: but thou art able; for the spirit of the holy gods is in thee."
+bsb: "This is the dream that I, King Nebuchadnezzar, saw. Now, Belteshazzar, tell me the interpretation, because none of the wise men of my kingdom can interpret it for me. But you are able, because the spirit of the holy gods is in you.”"
+aramaic: "דְּנָה֙ חֶלְמָ֣א חֲזֵ֔ית אֲנָ֖ה מַלְכָּ֣א נְבוּכַדְנֶצַּ֑ר וְאַ֨נְתְּ בֵּלְטְשַׁאצַּ֜ר פִּשְׁרֵ֣א׀ אֱמַ֗ר כָּל־ קֳבֵל֙ דִּ֣י׀ כָּל־ חַכִּימֵ֣י מַלְכוּתִ֗י לָֽא־ יָכְלִ֤ין פִּשְׁרָא֙ לְהוֹדָ֣עֻתַ֔נִי וְאַ֣נְתְּ כָּהֵ֔ל דִּ֛י רֽוּחַ־ אֱלָהִ֥ין קַדִּישִׁ֖ין בָּֽךְ׃"
+pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISE MEN|WISE MEN]]"
+strongs:
+- "[[H1836]]"
+- "[[H2493]]"
+- "[[H9010]]"
+- "[[H2370]]"
+- "[[H0576B]]"
+- "[[H4430]]"
+- "[[H5020]]"
+- "[[H9002]]"
+- "[[H0607]]"
+- "[[H1096]]"
+- "[[H6591]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H0560]]"
+- "[[H9004]]"
+- "[[H9005]]"
+- "[[H9014]]"
+- "[[H6903H]]"
+- "[[H1768]]"
+- "[[H3606]]"
+- "[[H2445]]"
+- "[[H4437]]"
+- "[[H9020]]"
+- "[[H3809]]"
+- "[[H3202]]"
+- "[[H3046]]"
+- "[[H9030]]"
+- "[[H3546]]"
+- "[[H7308]]"
+- "[[H0426]]"
+- "[[H6922]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 4:18**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise [men] of my kingdom are not able to make known unto me the interpretation: but thou [art] able; for the spirit of the holy gods [is] in thee.
 <small><sub>**BSB:**</sub></small>
 This is the dream that I, King Nebuchadnezzar, saw. Now, Belteshazzar, tell me the interpretation, because none of the wise men of my kingdom can interpret it for me. But you are able, because the spirit of the holy gods is in you.”
+<small><sub>**Aramaic:**</sub></small>
+[[H1836\|דְּנָה֙]] [[H2493\|חֶלְמָ֣]][[H9010\|א]] [[H2370\|חֲזֵ֔ית]] [[H0576B\|אֲנָ֖ה]] [[H4430\|מַלְכָּ֣]][[H9010\|א]] [[H5020\|נְבוּכַדְנֶצַּ֑ר]] [[H9002\|וְ]][[H0607\|אַ֨נְתְּ]] [[H1096\|בֵּלְטְשַׁאצַּ֜ר]] [[H6591\|פִּשְׁרֵ֣]][[H9023\|א]][[H9015\|׀]] [[H0560\|אֱמַ֗ר]] [[H9004\|כָּ]][[H9005\|ל]][[H9014\|־]] [[H6903H\|קֳבֵל֙]] [[H1768\|דִּ֣י]][[H9015\|׀]] [[H3606\|כָּל]][[H9014\|־]] [[H2445\|חַכִּימֵ֣י]] [[H4437\|מַלְכוּתִ֗]][[H9020\|י]] [[H3809\|לָֽא]][[H9014\|־]] [[H3202\|יָכְלִ֤ין]] [[H6591\|פִּשְׁרָ]][[H9010\|א֙]] [[H9005\|לְ]][[H3046\|הוֹדָ֣עֻתַ֔]][[H9030\|נִי]] [[H9002\|וְ]][[H0607\|אַ֣נְתְּ]] [[H3546\|כָּהֵ֔ל]] [[H1768\|דִּ֛י]] [[H7308\|רֽוּחַ]][[H9014\|־]] [[H0426\|אֱלָהִ֥ין]] [[H6922\|קַדִּישִׁ֖ין]] [[H9003\|בָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CONVERTS|CONVERTS]] • [[topic HEATHEN|HEATHEN]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISE MEN|WISE MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.17|<< Daniel 4:17]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.19|Daniel 4:19 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Genesis 19:10
+type: Verse
+kjv: "But the men put forth their hand, and pulled Lot into the house to them, and shut to the door."
+bsb: "But the men inside reached out, pulled Lot into the house with them, and shut the door."
+hebrew: "וַיִּשְׁלְח֤וּ הָֽאֲנָשִׁים֙ אֶת־ יָדָ֔ם וַיָּבִ֧יאוּ אֶת־ ל֛וֹט אֲלֵיהֶ֖ם הַבָּ֑יְתָה וְאֶת־ הַדֶּ֖לֶת סָגָֽרוּ׃"
+pericope: "[[Gen.19.1 Lot Welcomes the Angels|Lot Welcomes the Angels]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 19
+book/chapter: "[[Gen.19|Genesis 19]]"
+chronological_order: 61
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic SODOM|SODOM]]"
+- "[[topic SODOMITES|SODOMITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971K]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H0935P]]"
+- "[[H3876]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H1817C]]"
+- "[[H5462]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 19:10**<big><big>[[Gen.19.1 Lot Welcomes the Angels|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.
 <small><sub>**BSB:**</sub></small>
 But the men inside reached out, pulled Lot into the house with them, and shut the door.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971K\|יִּשְׁלְח֤וּ]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדָ֔]][[H9028\|ם]] [[H9001\|וַ]][[H0935P\|יָּבִ֧יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3876\|ל֛וֹט]] [[H0413\|אֲלֵי]][[H9038\|הֶ֖ם]] [[H9009\|הַ]][[H1004B\|בָּ֑יְתָ]][[H9011\|ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1817C\|דֶּ֖לֶת]] [[H5462\|סָגָֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic SODOM|SODOM]] • [[topic SODOMITES|SODOMITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.19.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.19.9|<< Genesis 19:9]]</td><td align="center" style="border:none;">[[Gen.19|Genesis 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.19.11|Genesis 19:11 >>]]</td></tr></table>
 

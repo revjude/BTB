@@ -1,10 +1,62 @@
+---
+title: Acts 2:1
+type: Verse
+kjv: "And when the day of Pentecost was fully come, they were all with one accord in one place."
+bsb: "When the day of Pentecost came, they were all together in one place."
+greek: "Καὶ ἐν τῷ συμπληροῦσθαι τὴν ἡμέραν τῆς πεντηκοστῆς ἦσαν πάντες ὁμοῦ ἐπὶ τὸ αὐτό."
+pericope: "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PENTECOST|PENTECOST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4845]]"
+- "[[G2250]]"
+- "[[G4005]]"
+- "[[G1510]]"
+- "[[G3956]]"
+- "[[G3674]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 2:1**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the day of Pentecost was fully come, they were all with one accord in one place.
 <small><sub>**BSB:**</sub></small>
 When the day of Pentecost came, they were all together in one place.
-<small><sub>**Literal:**</sub></small>
-And during the arriving of the day <the> of Pentecost they were all together in the one [place].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.26|<< Acts 1:26]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.2|Acts 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4845\|συμπληροῦσθαι]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν]]  [[G3588\|τῆς]]  [[G4005\|πεντηκοστῆς]]  [[G1510\|ἦσαν]]  [[G3956\|πάντες]]  [[G3674\|ὁμοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G0846\|αὐτό.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic FEASTS|FEASTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic ORATOR|ORATOR]] • [[topic PENTECOST|PENTECOST]] • [[topic PROPHECY|PROPHECY]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic TONGUE|TONGUE]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.26|<< Acts 1:26]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.2|Acts 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

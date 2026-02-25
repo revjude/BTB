@@ -1,8 +1,77 @@
+---
+title: Exodus 30:16
+type: Verse
+kjv: "And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the LORD, to make an atonement for your souls."
+bsb: "Take the atonement money from the Israelites and use it for the service of the Tent of Meeting. It will serve as a memorial for the Israelites before the LORD to make atonement for your lives.”"
+hebrew: "וְלָקַחְתָּ֞ אֶת־ כֶּ֣סֶף הַכִּפֻּרִ֗ים מֵאֵת֙ בְּנֵ֣י יִשְׂרָאֵ֔ל וְנָתַתָּ֣ אֹת֔וֹ עַל־ עֲבֹדַ֖ת אֹ֣הֶל מוֹעֵ֑ד וְהָיָה֩ לִבְנֵ֨י יִשְׂרָאֵ֤ל לְזִכָּרוֹן֙ לִפְנֵ֣י יְהוָ֔ה לְכַפֵּ֖ר עַל־ נַפְשֹׁתֵיכֶֽם׃ פ"
+pericope: "[[Exod.30.11 The Census Offering|The Census Offering]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H9009]]"
+- "[[H3725]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H5414G]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H5656H]]"
+- "[[H0168G]]"
+- "[[H4150I]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H2146]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H3722A]]"
+- "[[H5315H]]"
+- "[[H9026]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 30:16**<big><big>[[Exod.30.11 The Census Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the LORD, to make an atonement for your souls.
 <small><sub>**BSB:**</sub></small>
 Take the atonement money from the Israelites and use it for the service of the Tent of Meeting. It will serve as a memorial for the Israelites before the LORD to make atonement for your lives.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַחְתָּ֞]] [[H0853\|אֶת]][[H9014\|־]] [[H3701G\|כֶּ֣סֶף]] [[H9009\|הַ]][[H3725\|כִּפֻּרִ֗ים]] [[H9006\|מֵ]][[H0854\|אֵת֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H5414G\|נָתַתָּ֣]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H5656H\|עֲבֹדַ֖ת]] [[H0168G\|אֹ֣הֶל]] [[H4150I\|מוֹעֵ֑ד]] [[H9001\|וְ]][[H1961\|הָיָה֩]] [[H9005\|לִ]][[H1121G\|בְנֵ֨י]] [[H3478\|יִשְׂרָאֵ֤ל]] [[H9005\|לְ]][[H2146\|זִכָּרוֹן֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9005\|לְ]][[H3722A\|כַפֵּ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H5315H\|נַפְשֹׁתֵי]][[H9026\|כֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic CENSUS|CENSUS]] • [[topic MONEY|MONEY]] • [[topic RELIGION|RELIGION]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.15|<< Exodus 30:15]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.17|Exodus 30:17 >>]]</td></tr></table>
 
@@ -29,7 +98,7 @@ Take the atonement money from the Israelites and use it for the service of the T
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to make atonement  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3722A\|כַפֵּ֖ר]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> kha.Per<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| selves your  |**<big>&#8207;[[H5315H\|נַפְשֹׁתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| naf.sho.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| selves your  |**<big>&#8207;[[H5315H\|נַפְשֹׁתֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| naf.sho.tei.<small><sup>[[HNcfpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.15|<< Exodus 30:15]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.17|Exodus 30:17 >>]]</td></tr></table>
 
 

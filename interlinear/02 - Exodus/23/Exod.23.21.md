@@ -1,8 +1,68 @@
+---
+title: Exodus 23:21
+type: Verse
+kjv: "Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name is in him."
+bsb: "Pay attention to him and listen to his voice; do not defy him, for he will not forgive rebellion, since My Name is in him."
+hebrew: "הִשָּׁ֧מֶר מִפָּנָ֛יו וּשְׁמַ֥ע בְּקֹל֖וֹ אַל־ תַּמֵּ֣ר בּ֑וֹ כִּ֣י לֹ֤א יִשָּׂא֙ לְפִשְׁעֲכֶ֔ם כִּ֥י שְׁמִ֖י בְּקִרְבּֽוֹ׃"
+pericope: "[[Exod.23.20 God’s Angel to Lead|God’s Angel to Lead]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H8104J]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4843]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H5375I]]"
+- "[[H9005]]"
+- "[[H6588]]"
+- "[[H9026]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H7130G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:21**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beware of him, and obey his voice, provoke him not; for he will not pardon your transgressions: for my name [is] in him.
 <small><sub>**BSB:**</sub></small>
 Pay attention to him and listen to his voice; do not defy him, for he will not forgive rebellion, since My Name is in him.
+<small><sub>**Hebrew:**</sub></small>
+[[H8104J\|הִשָּׁ֧מֶר]] [[H9006\|מִ]][[H6440G\|פָּנָ֛י]][[H9023\|ו]] [[H9002\|וּ]][[H8085H\|שְׁמַ֥ע]] [[H9003\|בְּ]][[H6963A\|קֹל֖]][[H9023\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H4843\|תַּמֵּ֣ר]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H5375I\|יִשָּׂא֙]] [[H9005\|לְ]][[H6588\|פִשְׁעֲ]][[H9026\|כֶ֔ם]] [[H3588A\|כִּ֥י]] [[H8034\|שְׁמִ֖]][[H9020\|י]] [[H9003\|בְּ]][[H7130G\|קִרְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.20|<< Exodus 23:20]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.22|Exodus 23:22 >>]]</td></tr></table>
 

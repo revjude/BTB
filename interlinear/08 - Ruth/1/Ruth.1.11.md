@@ -1,8 +1,62 @@
+---
+title: Ruth 1:11
+type: Verse
+kjv: "And Naomi said, Turn again, my daughters: why will ye go with me? are there yet any more sons in my womb, that they may be your husbands?"
+bsb: "But Naomi replied, “Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands?"
+hebrew: "וַתֹּ֤אמֶר נָעֳמִי֙ שֹׁ֣בְנָה בְנֹתַ֔י לָ֥מָּה תֵלַ֖כְנָה עִמִּ֑י הַֽעֽוֹד־ לִ֤י בָנִים֙ בְּֽמֵעַ֔י וְהָי֥וּ לָכֶ֖ם לַאֲנָשִֽׁים׃"
+pericope: "[[Ruth.1.6 Ruth’s Loyalty to Naomi|Ruth’s Loyalty to Naomi]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5281]]"
+- "[[H7725G]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H1980G]]"
+- "[[H5973A]]"
+- "[[H9030]]"
+- "[[H9008]]"
+- "[[H5750]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9003]]"
+- "[[H4578]]"
+- "[[H1961]]"
+- "[[H9036]]"
+- "[[H0582]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:11**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Naomi said, Turn again, my daughters: why will ye go with me? [are] there yet [any more] sons in my womb, that they may be your husbands?
 <small><sub>**BSB:**</sub></small>
 But Naomi replied, “Return home, my daughters. Why would you go with me? Are there still sons in my womb to become your husbands?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H5281\|נָעֳמִי֙]] [[H7725G\|שֹׁ֣בְנָה]] [[H1323G\|בְנֹתַ֔]][[H9020\|י]] [[H9005\|לָ֥]][[H4100\|מָּה]] [[H1980G\|תֵלַ֖כְנָה]] [[H5973A\|עִמִּ֑]][[H9030\|י]] [[H9008\|הַֽ]][[H5750\|עֽוֹד]][[H9014\|־]] [[H9005\|לִ֤]][[H9030\|י]] [[H1121A\|בָנִים֙]] [[H9003\|בְּֽ]][[H4578\|מֵעַ֔]][[H9020\|י]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לַ]][[H0582\|אֲנָשִֽׁים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.10|<< Ruth 1:10]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.12|Ruth 1:12 >>]]</td></tr></table>
 

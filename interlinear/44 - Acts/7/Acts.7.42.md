@@ -1,10 +1,70 @@
+---
+title: Acts 7:42
+type: Verse
+kjv: "Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices by the space of forty years in the wilderness?"
+bsb: "But God turned away from them and gave them over to the worship of the host of heaven, as it is written in the book of the prophets: ‘Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?"
+greek: "ἔστρεψεν δὲ ὁ θεὸς καὶ παρέδωκεν αὐτοὺς λατρεύειν τῇ στρατιᾷ τοῦ οὐρανοῦ, καθὼς γέγραπται ἐν βίβλῳ τῶν προφητῶν· μὴ σφάγια καὶ θυσίας προσηνέγκατέ μοι ἔτη τεσσεράκοντα ἐν τῇ ἐρήμῳ, οἶκος Ἰσραήλ;"
+pericope: "[[Acts.7.39 The Rebellion of Israel|The Rebellion of Israel]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic STARS|STARS]]"
+strongs:
+- "[[G4762]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3860]]"
+- "[[G0846]]"
+- "[[G3000]]"
+- "[[G4756]]"
+- "[[G3772]]"
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G1722]]"
+- "[[G0976]]"
+- "[[G4396]]"
+- "[[G3361]]"
+- "[[G4968]]"
+- "[[G2378]]"
+- "[[G4374]]"
+- "[[G3165]]"
+- "[[G2094]]"
+- "[[G5062]]"
+- "[[G2048]]"
+- "[[G3624G]]"
+- "[[G2474]]"
+texts:
+- NKO
+---
+
 **Acts 7:42**<big><big>[[Acts.7.39 The Rebellion of Israel|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices [by the space of] forty years in the wilderness?
 <small><sub>**BSB:**</sub></small>
 But God turned away from them and gave them over to the worship of the host of heaven, as it is written in the book of the prophets: ‘Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?
-<small><sub>**Literal:**</sub></small>
-Turned away however <the> God and delivered them to worship the host <the> of heaven, even as it has been written in [the] book of the prophets: Not slain beasts and sacrifices did you offer to Me years forty in the wilderness, O house of Israel?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.41|<< Acts 7:41]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.43|Acts 7:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4762\|ἔστρεψεν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2532\|καὶ]]  [[G3860\|παρέδωκεν]]  [[G0846\|αὐτοὺς]]  [[G3000\|λατρεύειν]]  [[G3588\|τῇ]]  [[G4756\|στρατιᾷ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ,]]  [[G2531\|καθὼς]]  [[G1125\|γέγραπται]]  [[G1722\|ἐν]]  [[G0976\|βίβλῳ]]  [[G3588\|τῶν]]  [[G4396\|προφητῶν·]]  [[G3361\|μὴ]]  [[G4968\|σφάγια]]  [[G2532\|καὶ]]  [[G2378\|θυσίας]]  [[G4374\|προσηνέγκατέ]]  [[G3165\|μοι]]  [[G2094\|ἔτη]]  [[G5062\|τεσσεράκοντα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2048\|ἐρήμῳ,]]  [[G3624G\|οἶκος]]  [[G2474\|Ἰσραήλ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic STARS|STARS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.41|<< Acts 7:41]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.43|Acts 7:43 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:42** is...
 > $\quad$ referencing: [[LXX.Amos.5.25|Amos 5:25-27]]

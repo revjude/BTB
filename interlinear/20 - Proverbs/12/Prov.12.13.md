@@ -1,8 +1,55 @@
+---
+title: Proverbs 12:13
+type: Verse
+kjv: "The wicked is snared by the transgression of his lips: but the just shall come out of trouble."
+bsb: "An evil man is trapped by his rebellious speech, but a righteous man escapes from trouble."
+hebrew: "בְּפֶ֣שַׁע שְׂ֭פָתַיִם מוֹקֵ֣שׁ רָ֑ע וַיֵּצֵ֖א מִצָּרָ֣ה צַדִּֽיק׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H6588]]"
+- "[[H8193G]]"
+- "[[H4170]]"
+- "[[H7451H]]"
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H6869B]]"
+- "[[H6662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:13**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The wicked is snared by the transgression of [his] lips: but the just shall come out of trouble.
 <small><sub>**BSB:**</sub></small>
 An evil man is trapped by his rebellious speech, but a righteous man escapes from trouble.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H6588\|פֶ֣שַׁע]] [[H8193G\|שְׂ֭פָתַיִם]] [[H4170\|מוֹקֵ֣שׁ]] [[H7451H\|רָ֑ע]] [[H9001\|וַ]][[H3318G\|יֵּצֵ֖א]] [[H9006\|מִ]][[H6869B\|צָּרָ֣ה]] [[H6662\|צַדִּֽיק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic SIN|SIN]] • [[topic SPEAKING|SPEAKING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.12|<< Proverbs 12:12]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.14|Proverbs 12:14 >>]]</td></tr></table>
 

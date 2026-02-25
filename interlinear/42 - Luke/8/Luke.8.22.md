@@ -1,10 +1,66 @@
+---
+title: Luke 8:22
+type: Verse
+kjv: "Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth."
+bsb: "One day Jesus said to His disciples, “Let us cross to the other side of the lake.” So He got into a boat with them and set out."
+jesus_said: "Let us go over unto the other side of the lake."
+greek: "Καὶ Ἐγένετο δὲ ἐν μιᾷ τῶν ἡμερῶν καὶ αὐτὸς ἐνέβη εἰς πλοῖον καὶ οἱ μαθηταὶ αὐτοῦ καὶ εἶπεν πρὸς αὐτούς· διέλθωμεν εἰς τὸ πέραν τῆς λίμνης. καὶ ἀνήχθησαν."
+pericope: "[[Luke.8.22 Jesus Calms the Storm|Jesus Calms the Storm]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G1520]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G0846]]"
+- "[[G1684]]"
+- "[[G1519]]"
+- "[[G4143]]"
+- "[[G3101]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1330]]"
+- "[[G4008]]"
+- "[[G3041]]"
+- "[[G0321]]"
+texts:
+- k
+- NKO
+- no
+---
+
 **Luke 8:22**<big><big>[[Luke.8.22 Jesus Calms the Storm|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.
 <small><sub>**BSB:**</sub></small>
 One day Jesus said to His disciples, “Let us cross to the other side of the lake.” So He got into a boat with them and set out.
-<small><sub>**Literal:**</sub></small>
-and It came to pass then on one of the days also He himself climbed into a boat with the disciples of Him and He said to them; Let us pass over to the other side of the lake. And they launched out.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.21|<< Luke 8:21]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.23|Luke 8:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G1520\|μιᾷ]]  [[G3588\|τῶν]]  [[G2250\|ἡμερῶν]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1684\|ἐνέβη]]  [[G1519\|εἰς]]  [[G4143\|πλοῖον]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G1330\|διέλθωμεν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4008\|πέραν]]  [[G3588\|τῆς]]  [[G3041\|λίμνης.]]  [[G2532\|καὶ]]  [[G0321\|ἀνήχθησαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GALILEE|GALILEE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.21|<< Luke 8:21]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.23|Luke 8:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

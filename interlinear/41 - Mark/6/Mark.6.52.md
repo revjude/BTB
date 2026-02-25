@@ -1,10 +1,56 @@
+---
+title: Mark 6:52
+type: Verse
+kjv: "For they considered not the miracle of the loaves: for their heart was hardened."
+bsb: "for they had not understood about the loaves, but their hearts had been hardened."
+greek: "οὐ γὰρ συνῆκαν ἐπὶ τοῖς ἄρτοις, ἀλλ᾽ ἦν αὐτῶν ἡ καρδία πεπωρωμένη.¶"
+pericope: "[[Mark.6.45 Jesus Walks on Water|Jesus Walks on Water]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G4920]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0740]]"
+- "[[G0235]]"
+- "[[G1510]]"
+- "[[G0846]]"
+- "[[G2588]]"
+- "[[G4456]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 6:52**<big><big>[[Mark.6.45 Jesus Walks on Water|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For they considered not [the miracle] of the loaves: for their heart was hardened.
 <small><sub>**BSB:**</sub></small>
 for they had not understood about the loaves, but their hearts had been hardened.
-<small><sub>**Literal:**</sub></small>
-not for they understood by the loaves, but were of them the heart hardened.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.51|<< Mark 6:51]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.53|Mark 6:53 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G4920\|συνῆκαν]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῖς]]  [[G0740\|ἄρτοις,]]  [[G0235\|ἀλλ᾽]]  [[G1510\|ἦν]]  [[G0846\|αὐτῶν]]  [[G3588\|ἡ]]  [[G2588\|καρδία]]  [[G4456\|πεπωρωμένη.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic BLINDNESS|BLINDNESS]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.51|<< Mark 6:51]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.53|Mark 6:53 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

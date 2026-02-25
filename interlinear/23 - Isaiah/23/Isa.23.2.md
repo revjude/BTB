@@ -1,8 +1,54 @@
+---
+title: Isaiah 23:2
+type: Verse
+kjv: "Be still, ye inhabitants of the isle; thou whom the merchants of Zidon, that pass over the sea, have replenished."
+bsb: "Be silent, O dwellers of the coastland, you merchants of Sidon, whose traders have crossed the sea."
+hebrew: "דֹּ֖מּוּ יֹ֣שְׁבֵי אִ֑י סֹחֵ֥ר צִיד֛וֹן עֹבֵ֥ר יָ֖ם מִלְאֽוּךְ׃"
+pericope: "[[Isa.23.1 The Burden against Tyre|The Burden against Tyre]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic MERCHANT|MERCHANT]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[H1826B]]"
+- "[[H3427]]"
+- "[[H0339]]"
+- "[[H5503]]"
+- "[[H6721H]]"
+- "[[H5674A]]"
+- "[[H3220G]]"
+- "[[H4390]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 23:2**<big><big>[[Isa.23.1 The Burden against Tyre|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Be still, ye inhabitants of the isle; thou whom the merchants of Zidon, that pass over the sea, have replenished.
 <small><sub>**BSB:**</sub></small>
 Be silent, O dwellers of the coastland, you merchants of Sidon, whose traders have crossed the sea.
+<small><sub>**Hebrew:**</sub></small>
+[[H1826B\|דֹּ֖מּוּ]] [[H3427\|יֹ֣שְׁבֵי]] [[H0339\|אִ֑י]] [[H5503\|סֹחֵ֥ר]] [[H6721H\|צִיד֛וֹן]] [[H5674A\|עֹבֵ֥ר]] [[H3220G\|יָ֖ם]] [[H4390\|מִלְאֽוּ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic MERCHANT|MERCHANT]] • [[topic SIDON|SIDON]] • [[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.23.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.23.1|<< Isaiah 23:1]]</td><td align="center" style="border:none;">[[Isa.23|Isaiah 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.23.3|Isaiah 23:3 >>]]</td></tr></table>
 

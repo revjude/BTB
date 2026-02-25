@@ -1,10 +1,56 @@
+---
+title: 1 Thessalonians 1:7
+type: Verse
+kjv: "So that ye were ensamples to all that believe in Macedonia and Achaia."
+bsb: "As a result, you have become an example to all the believers in Macedonia and Achaia."
+greek: "ὥστε γενέσθαι ὑμᾶς τύπον πᾶσιν τοῖς πιστεύουσιν ἐν τῇ Μακεδονίᾳ καὶ ἐν τῇ Ἀχαΐᾳ."
+pericope: "[[1Thess.1.1 Greetings to the Thessalonians|Greetings to the Thessalonians]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 1
+book/chapter: "[[1Thess.1|1 Thessalonians 1]]"
+chronological_order: 1048
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5620]]"
+- "[[G1096]]"
+- "[[G4771]]"
+- "[[G5179]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G4100]]"
+- "[[G1722]]"
+- "[[G3109]]"
+- "[[G2532]]"
+- "[[G0882]]"
+texts:
+- NKO
+- N(K)O
+- no
+---
+
 **1 Thessalonians 1:7**<big><big>[[1Thess.1.1 Greetings to the Thessalonians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So that ye were ensamples to all that believe in Macedonia and Achaia.
 <small><sub>**BSB:**</sub></small>
 As a result, you have become an example to all the believers in Macedonia and Achaia.
-<small><sub>**Literal:**</sub></small>
-so as for to became you an example to all the believing [ones] in <the> Macedonia and in <the> Achaia.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.6|<< 1 Thessalonians 1:6]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.8|1 Thessalonians 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5620\|ὥστε]]  [[G1096\|γενέσθαι]]  [[G4771\|ὑμᾶς]]  [[G5179\|τύπον]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G4100\|πιστεύουσιν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G3109\|Μακεδονίᾳ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0882\|Ἀχαΐᾳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic INFLUENCE|INFLUENCE]] • [[topic WORKS|WORKS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.1.6|<< 1 Thessalonians 1:6]]</td><td align="center" style="border:none;">[[1Thess.1|1 Thessalonians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.1.8|1 Thessalonians 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

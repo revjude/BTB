@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Israel’s Unfaithfulness
+type: Pericope
 pericope: "[[Judg.2.10 Israel’s Unfaithfulness|Israel’s Unfaithfulness]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 2
 book/chapter: "[[Judg.2|Judges 2]]"
-genre:
+chronological_order: 256
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 6
 verses:
 - "[[Judg.2.10]]"
 - "[[Judg.2.11]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Judg.2.15]]"
 ---
 
-[[Judg.2|Judges 2:10 - Judges 2:15]]
+<small>[[Judg.2|Judges 2:10-15]]</small>
 *Israel’s Unfaithfulness*
 
 [[Judg.2.10|10]] And also all that generation were gathered unto their fathers: and there arose another generation after them, which knew not the LORD, nor yet the works which he had done for Israel.

@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 15:14
+type: Verse
+kjv: "So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel."
+bsb: "So the priests and Levites consecrated themselves to bring up the ark of the LORD, the God of Israel."
+hebrew: "וַיִּֽתְקַדְּשׁ֔וּ הַכֹּהֲנִ֖ים וְהַלְוִיִּ֑ם לְהַעֲל֕וֹת אֶת־ אֲר֥וֹן יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[1Chr.15.14 The Priests and Levites Carry the Ark|The Priests and Levites Carry the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic FORM|FORM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H3881]]"
+- "[[H9005]]"
+- "[[H5927H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:14**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
 So the priests and Levites consecrated themselves to bring up the ark of the LORD, the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6942G\|יִּֽתְקַדְּשׁ֔וּ]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לְוִיִּ֑ם]] [[H9005\|לְ]][[H5927H\|הַעֲל֕וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H0727\|אֲר֥וֹן]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORM|FORM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.13|<< 1 Chronicles 15:13]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.15|1 Chronicles 15:15 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 18:4
+type: Verse
+kjv: "And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot horses, but reserved of them an hundred chariots."
+bsb: "David captured from him a thousand chariots, seven thousand charioteers, and twenty thousand foot soldiers, and he hamstrung all the horses except a hundred he kept for the chariots."
+hebrew: "וַיִּלְכֹּד֩ דָּוִ֨יד מִמֶּ֜נּוּ אֶ֣לֶף רֶ֗כֶב וְשִׁבְעַ֤ת אֲלָפִים֙ פָּֽרָשִׁ֔ים וְעֶשְׂרִ֥ים אֶ֖לֶף אִ֣ישׁ רַגְלִ֑י וַיְעַקֵּ֤ר דָּוִיד֙ אֶת־ כָּל־ הָרֶ֔כֶב וַיּוֹתֵ֥ר מִמֶּ֖נּוּ מֵ֥אָה רָֽכֶב׃"
+pericope: "[[1Chr.18.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 18
+book/chapter: "[[1Chr.18|1 Chronicles 18]]"
+chronological_order: 405
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic HOUGHING|HOUGHING]]"
+- "[[topic MOABITES|MOABITES]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H1732]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H0505G]]"
+- "[[H7393G]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H6571B]]"
+- "[[H6242]]"
+- "[[H0376G]]"
+- "[[H7273]]"
+- "[[H6131B]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 18:4**<big><big>[[1Chr.18.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot [horses], but reserved of them an hundred chariots.
 <small><sub>**BSB:**</sub></small>
 David captured from him a thousand chariots, seven thousand charioteers, and twenty thousand foot soldiers, and he hamstrung all the horses except a hundred he kept for the chariots.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3920\|יִּלְכֹּד֩]] [[H1732\|דָּוִ֨יד]] [[H4480A\|מִמֶּ֜]][[H9033\|נּוּ]] [[H0505G\|אֶ֣לֶף]] [[H7393G\|רֶ֗כֶב]] [[H9002\|וְ]][[H7651\|שִׁבְעַ֤ת]] [[H0505G\|אֲלָפִים֙]] [[H6571B\|פָּֽרָשִׁ֔ים]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִ֣ישׁ]] [[H7273\|רַגְלִ֑י]] [[H9001\|וַ]][[H6131B\|יְעַקֵּ֤ר]] [[H1732\|דָּוִיד֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H7393G\|רֶ֔כֶב]] [[H9001\|וַ]][[H3498\|יּוֹתֵ֥ר]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H3967\|מֵ֥אָה]] [[H7393G\|רָֽכֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic HADADEZER|HADADEZER]] • [[topic HOUGHING|HOUGHING]] • [[topic MOABITES|MOABITES]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.3|<< 1 Chronicles 18:3]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.5|1 Chronicles 18:5 >>]]</td></tr></table>
 

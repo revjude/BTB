@@ -1,10 +1,72 @@
+---
+title: John 5:19
+type: Verse
+kjv: "Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise."
+bsb: "So Jesus replied, “Truly, truly, I tell you, the Son can do nothing by Himself, unless He sees the Father doing it. For whatever the Father does, the Son also does."
+jesus_said: "Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise."
+greek: "ἀπεκρίνατο οὖν ὁ Ἰησοῦς καὶ ἔλεγεν αὐτοῖς· ἀμὴν ἀμὴν λέγω ὑμῖν· οὐ δύναται ὁ υἱὸς ποιεῖν ἀφ᾽ ἑαυτοῦ οὐδέν, ἐὰν μή τι βλέπῃ τὸν πατέρα ποιοῦντα. ἃ γὰρ ἂν ἐκεῖνος ποιῇ, ταῦτα καὶ ὁ υἱὸς ὁμοίως ποιεῖ."
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G0281]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G5207]]"
+- "[[G4160G]]"
+- "[[G0575]]"
+- "[[G1438]]"
+- "[[G3762]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G5100]]"
+- "[[G0991]]"
+- "[[G3962]]"
+- "[[G3739]]"
+- "[[G1063]]"
+- "[[G0302]]"
+- "[[G1565]]"
+- "[[G3778]]"
+- "[[G3668]]"
+texts:
+- NKO
+- N(k)O
+- NK(o)
+---
+
 **John 5:19**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise.
 <small><sub>**BSB:**</sub></small>
 So Jesus replied, “Truly, truly, I tell you, the Son can do nothing by Himself, unless He sees the Father doing it. For whatever the Father does, the Son also does.
-<small><sub>**Literal:**</sub></small>
-Answered therefore <the> Jesus and was saying to them; Amen Amen I say to you; not is able the Son to do of Himself no [thing], only unless anything He shall see the Father doing. whatever for maybe He shall do, these things also the Son likewise does.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.18|<< John 5:18]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.20|John 5:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίνατο]]  [[G3767\|οὖν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G3004G\|ἔλεγεν]]  [[G0846\|αὐτοῖς·]]  [[G0281\|ἀμὴν]]  [[G0281\|ἀμὴν]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3756\|οὐ]]  [[G1410\|δύναται]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G4160G\|ποιεῖν]]  [[G0575\|ἀφ᾽]]  [[G1438\|ἑαυτοῦ]]  [[G3762\|οὐδέν,]]  [[G1437\|ἐὰν]]  [[G3361\|μή]]  [[G5100\|τι]]  [[G0991\|βλέπῃ]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G4160G\|ποιοῦντα.]]  [[G3739\|ἃ]]  [[G1063\|γὰρ]]  [[G0302\|ἂν]]  [[G1565\|ἐκεῖνος]]  [[G4160G\|ποιῇ,]]  [[G3778\|ταῦτα]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3668\|ὁμοίως]]  [[G4160G\|ποιεῖ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.18|<< John 5:18]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.20|John 5:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

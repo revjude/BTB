@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Shemaiah’s Prophecy
+type: Pericope
 pericope: "[[1Kgs.12.20 Shemaiah’s Prophecy|Shemaiah’s Prophecy]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 12
 book/chapter: "[[1Kgs.12|1 Kings 12]]"
-genre:
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 5
 verses:
 - "[[1Kgs.12.20]]"
 - "[[1Kgs.12.21]]"
@@ -25,7 +32,7 @@ verses:
 - "[[1Kgs.12.24]]"
 ---
 
-[[1Kgs.12|1 Kings 12:20 - 1 Kings 12:24]]
+<small>[[1Kgs.12|1 Kings 12:20-24]]</small>
 *Shemaiah’s Prophecy*
 
 [[1Kgs.12.20|20]] And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.

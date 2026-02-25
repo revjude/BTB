@@ -1,8 +1,72 @@
+---
+title: 1 Kings 5:7
+type: Verse
+kjv: "And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the LORD this day, which hath given unto David a wise son over this great people."
+bsb: "When Hiram received Solomon’s message, he rejoiced greatly and said, “Blessed be the LORD this day! He has given David a wise son over this great people!”"
+hebrew: "וַיְהִ֞י כִּשְׁמֹ֧עַ חִירָ֛ם אֶת־ דִּבְרֵ֥י שְׁלֹמֹ֖ה וַיִּשְׂמַ֣ח מְאֹ֑ד וַיֹּ֗אמֶר בָּר֤וּךְ יְהוָה֙ הַיּ֔וֹם אֲשֶׁ֨ר נָתַ֤ן לְדָוִד֙ בֵּ֣ן חָכָ֔ם עַל־ הָעָ֥ם הָרָ֖ב הַזֶּֽה׃"
+pericope: "[[1Kgs.5.7 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic TREATY|TREATY]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H2438G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H8010]]"
+- "[[H8055]]"
+- "[[H3966]]"
+- "[[H0559]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H1121A]]"
+- "[[H2450]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 5:7**<big><big>[[1Kgs.5.7 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed [be] the LORD this day, which hath given unto David a wise son over this great people.
 <small><sub>**BSB:**</sub></small>
 When Hiram received Solomon’s message, he rejoiced greatly and said, “Blessed be the LORD this day! He has given David a wise son over this great people!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9004\|כִּ]][[H8085G\|שְׁמֹ֧עַ]] [[H2438G\|חִירָ֛ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֥י]] [[H8010\|שְׁלֹמֹ֖ה]] [[H9001\|וַ]][[H8055\|יִּשְׂמַ֣ח]] [[H3966\|מְאֹ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H1288\|בָּר֤וּךְ]] [[H3068G\|יְהוָה֙]] [[H9009\|הַ]][[H3117L\|יּ֔וֹם]] [[H0834A\|אֲשֶׁ֨ר]] [[H5414G\|נָתַ֤ן]] [[H9005\|לְ]][[H1732\|דָוִד֙]] [[H1121A\|בֵּ֣ן]] [[H2450\|חָכָ֔ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הָ]][[H7227A\|רָ֖ב]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic TREATY|TREATY]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.6|<< 1 Kings 5:6]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.8|1 Kings 5:8 >>]]</td></tr></table>
 

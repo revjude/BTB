@@ -1,6 +1,65 @@
+---
+title: LXX Joshua 1:9
+type: Verse
+lxx: "Behold, I give charge to you; be strong and be manly! You should not be timid, nor should you be terrified, for the lord your God is with you in every place where ever you should go."
+greek: "ιδού εντέλλομαί σοι ίσχυε και ανδρίζου μη δειλιάσης μηδέ πτοηθής ότι μετά σου κύριος ο θεός σου εις πάντα τόπον ου εάν πορεύση"
+original_language: Greek
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G2400]]"
+- "[[G1781]]"
+- "[[G1473]]"
+- "[[G2480]]"
+- "[[G2532]]"
+- "[[G0407]]"
+- "[[G3361]]"
+- "[[G1168]]"
+- "[[G3366]]"
+- "[[G4422]]"
+- "[[G3754]]"
+- "[[G3326]]"
+- "[[G1473]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3956]]"
+- "[[G5117]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G4198]]"
+---
+
 **LXX Joshua 1:9** 
 <small><sub>**LXX:**</sub></small>
 Behold, I give charge to you; be strong and be manly! You should not be timid, nor should you be terrified, for \[the\] <span class="smallcaps">lord</span> your God \[is\] with you in every place where ever you should go. 
+<small><sub>**Greek:**</sub></small>
+[[G2400\|ιδού]] [[G1781\|εντέλλομαί]] [[G1473\|σοι]] [[G2480\|ίσχυε]] [[G2532\|και]] [[G0407\|ανδρίζου]] [[G3361\|μη]] [[G1168\|δειλιάσης]] [[G3366\|μηδέ]] [[G4422\|πτοηθής]] [[G3754\|ότι]] [[G3326\|μετά]] [[G1473\|σου]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|σου]] [[G1519\|εις]] [[G3956\|πάντα]] [[G5117\|τόπον]] [[G3739\|ου]] [[G1437\|εάν]] [[G4198\|πορεύση]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JOSHUA|JOSHUA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WAR|WAR]]</small>
 <small><sub>**MT:**</sub></small>
 [[Josh.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.8|<< Joshua 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.10|Joshua 1:10 >>]]</td></tr></table>
 
@@ -28,6 +87,6 @@ Behold, I give charge to you; be strong and be manly! You should not be timid, n
 | where | **<big>[[G3739\|ου]]</big>** |
 | ever | **<big>[[G1437\|εάν]]</big>** |
 | you should go. | **<big>[[G4198\|πορεύση]]</big>** |
-[[Josh.1.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.8|<< Joshua 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.10|Joshua 1:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Josh.1.8|<< Joshua 1:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Josh.1.10|Joshua 1:10 >>]]</td></tr></table>
 
 

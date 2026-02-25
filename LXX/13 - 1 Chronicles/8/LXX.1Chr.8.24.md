@@ -1,6 +1,43 @@
+---
+title: LXX 1 Chronicles 8:24
+type: Verse
+lxx: "and Hananiah, and Elam, and Antothijah,"
+greek: "και Ανανία και Ηλάμ και Αναθωθά"
+original_language: Greek
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- septuagint
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ANTOTHIJAH|ANTOTHIJAH]]"
+- "[[topic ELAM|ELAM]]"
+- "[[topic HANANIAH|HANANIAH]]"
+strongs:
+- "[[G2532]]"
+- "[[H2608b]]"
+- "[[G2532]]"
+- "[[H0198]]"
+- "[[G2532]]"
+- "[[H6070]]"
+---
+
 **LXX 1 Chronicles 8:24** 
 <small><sub>**LXX:**</sub></small>
 and Hananiah, and Elam, and Antothijah, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[H2608b\|Ανανία]] [[G2532\|και]] [[H0198\|Ηλάμ]] [[G2532\|και]] [[H6070\|Αναθωθά]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTOTHIJAH|ANTOTHIJAH]] • [[topic ELAM|ELAM]] • [[topic HANANIAH|HANANIAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Chr.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.23|<< 1 Chronicles 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.25|1 Chronicles 8:25 >>]]</td></tr></table>
 
@@ -12,6 +49,6 @@ and Hananiah, and Elam, and Antothijah,
 | Elam, | **<big>[[H0198\|Ηλάμ]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | Antothijah, | **<big>[[H6070\|Αναθωθά]]</big>** |
-[[1Chr.8.24|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.23|<< 1 Chronicles 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.25|1 Chronicles 8:25 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Chr.8.23|<< 1 Chronicles 8:23]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Chr.8.25|1 Chronicles 8:25 >>]]</td></tr></table>
 
 

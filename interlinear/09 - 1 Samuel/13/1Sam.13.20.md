@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 13:20
+type: Verse
+kjv: "But all the Israelites went down to the Philistines, to sharpen every man his share, and his coulter, and his axe, and his mattock."
+bsb: "Instead, all the Israelites would go down to the Philistines to sharpen their plowshares, mattocks, axes, and sickles."
+hebrew: "וַיֵּרְד֥וּ כָל־ יִשְׂרָאֵ֖ל הַפְּלִשְׁתִּ֑ים לִ֠לְטוֹשׁ אִ֣ישׁ אֶת־ מַחֲרַשְׁתּ֤וֹ וְאֶת־ אֵתוֹ֙ וְאֶת־ קַרְדֻּמּ֔וֹ וְאֵ֖ת מַחֲרֵשָׁתֽוֹ׃"
+pericope: "[[1Sam.13.16 Israel without Weapons|Israel without Weapons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 13
+book/chapter: "[[1Sam.13|1 Samuel 13]]"
+chronological_order: 292
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic AX|AX]]"
+- "[[topic MATTOCK|MATTOCK]]"
+- "[[topic PLOW|PLOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H6430G]]"
+- "[[H9005]]"
+- "[[H3913]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H4281]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0855]]"
+- "[[H7134]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 13:20**<big><big>[[1Sam.13.16 Israel without Weapons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But all the Israelites went down to the Philistines, to sharpen every man his share, and his coulter, and his axe, and his mattock.
 <small><sub>**BSB:**</sub></small>
 Instead, all the Israelites would go down to the Philistines to sharpen their plowshares, mattocks, axes, and sickles.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּרְד֥וּ]] [[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֑ים]] [[H9005\|לִ֠]][[H3913\|לְטוֹשׁ]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H4281\|מַחֲרַשְׁתּ֤]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0855\|אֵת]][[H9023\|וֹ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7134\|קַרְדֻּמּ֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H4281\|מַחֲרֵשָׁתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic AX|AX]] • [[topic MATTOCK|MATTOCK]] • [[topic PLOW|PLOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.13.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.13.19|<< 1 Samuel 13:19]]</td><td align="center" style="border:none;">[[1Sam.13|1 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.13.21|1 Samuel 13:21 >>]]</td></tr></table>
 

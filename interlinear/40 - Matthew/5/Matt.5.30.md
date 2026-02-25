@@ -1,10 +1,74 @@
+---
+title: Matthew 5:30
+type: Verse
+kjv: "And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell."
+bsb: "And if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to depart into hell."
+jesus_said: "And if thy right hand offend thee, cut it off, and cast it from thee: for it is profitable for thee that one of thy members should perish, and not that thy whole body should be cast into hell."
+greek: "Καὶ εἰ ἡ δεξιά σου χεὶρ σκανδαλίζει σε, ἔκκοψον αὐτὴν καὶ βάλε ἀπὸ σοῦ· συμφέρει γάρ σοι ἵνα ἀπόληται ἓν τῶν μελῶν σου καὶ μὴ ὅλον τὸ σῶμά σου εἰς γέενναν ἀπέλθῃ.¶"
+pericope: "[[Matt.5.27 Adultery|Adultery]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HAND|HAND]]"
+- "[[topic HELL|HELL]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1487G]]"
+- "[[G3588]]"
+- "[[G1188]]"
+- "[[G4771]]"
+- "[[G5495]]"
+- "[[G4624]]"
+- "[[G1581]]"
+- "[[G0846]]"
+- "[[G0906G]]"
+- "[[G0575]]"
+- "[[G4851]]"
+- "[[G1063]]"
+- "[[G2443]]"
+- "[[G0622]]"
+- "[[G1520]]"
+- "[[G3196]]"
+- "[[G3361]]"
+- "[[G3650]]"
+- "[[G4983]]"
+- "[[G1519]]"
+- "[[G1067]]"
+- "[[G0565]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Matthew 5:30**<big><big>[[Matt.5.27 Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if thy right hand offend thee, cut it off, and cast [it] from thee: for it is profitable for thee that one of thy members should perish, and not [that] thy whole body should be cast into hell.
 <small><sub>**BSB:**</sub></small>
 And if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to depart into hell.
-<small><sub>**Literal:**</sub></small>
-And if the right of you hand causes to stumble you, do cut off it and do cast [it] from you; it is better indeed for you that may perish one of the members of you and not all the body of you into hell may depart.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.29|<< Matthew 5:29]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.31|Matthew 5:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1487G\|εἰ]]  [[G3588\|ἡ]]  [[G1188\|δεξιά]]  [[G4771\|σου]]  [[G5495\|χεὶρ]]  [[G4624\|σκανδαλίζει]]  [[G4771\|σε,]]  [[G1581\|ἔκκοψον]]  [[G0846\|αὐτὴν]]  [[G2532\|καὶ]]  [[G0906G\|βάλε]]  [[G0575\|ἀπὸ]]  [[G4771\|σοῦ·]]  [[G4851\|συμφέρει]]  [[G1063\|γάρ]]  [[G4771\|σοι]]  [[G2443\|ἵνα]]  [[G0622\|ἀπόληται]]  [[G1520\|ἓν]]  [[G3588\|τῶν]]  [[G3196\|μελῶν]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4983\|σῶμά]]  [[G4771\|σου]]  [[G1519\|εἰς]]  [[G1067\|γέενναν]]  [[G0565\|ἀπέλθῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HAND|HAND]] • [[topic HELL|HELL]] • [[topic HOLINESS|HOLINESS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic RELIGION|RELIGION]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.29|<< Matthew 5:29]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.31|Matthew 5:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,58 @@
+---
+title: Psalm 65:3
+type: Verse
+kjv: "Iniquities prevail against me: as for our transgressions, thou shalt purge them away."
+bsb: "When iniquities prevail against me, You atone for our transgressions."
+hebrew: "דִּבְרֵ֣י עֲ֭וֹנֹת גָּ֣בְרוּ מֶ֑נִּי פְּ֝שָׁעֵ֗ינוּ אַתָּ֥ה תְכַפְּרֵֽם׃"
+pericope: "[[Ps.65.1 Praise Awaits God in Zion|Praise Awaits God in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 65
+book/chapter: "[[Ps.65|Psalm 65]]"
+chronological_order: 375
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PURITY|PURITY]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H1697M]]"
+- "[[H5771H]]"
+- "[[H1396]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H6588]]"
+- "[[H9025]]"
+- "[[H0859A]]"
+- "[[H3722A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 65:3**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Iniquities prevail against me: [as for] our transgressions, thou shalt purge them away.
 <small><sub>**BSB:**</sub></small>
 When iniquities prevail against me, You atone for our transgressions.
+<small><sub>**Hebrew:**</sub></small>
+[[H1697M\|דִּבְרֵ֣י]] [[H5771H\|עֲ֭וֹנֹת]] [[H1396\|גָּ֣בְרוּ]] [[H4480A\|מֶ֑נִּ]][[H9030\|י]] [[H6588\|פְּ֝שָׁעֵ֗י]][[H9025\|נוּ]] [[H0859A\|אַתָּ֥ה]] [[H3722A\|תְכַפְּרֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic GOD|GOD]] • [[topic PURITY|PURITY]] • [[topic REGENERATION|REGENERATION]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.2|<< Psalms 65:2]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.4|Psalms 65:4 >>]]</td></tr></table>
 

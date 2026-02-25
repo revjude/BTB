@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Abraham, Sarah, and Abimelech
+type: Pericope
 pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 20
 book/chapter: "[[Gen.20|Genesis 20]]"
-genre:
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 18
 verses:
 - "[[Gen.20.1]]"
 - "[[Gen.20.2]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Gen.20.18]]"
 ---
 
-[[Gen.20|Genesis 20:1 - Genesis 20:18]]
+<small>[[Gen.20|Genesis 20:1-18]]</small>
 *Abraham, Sarah, and Abimelech*
 
 [[Gen.20.1|1]] And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.

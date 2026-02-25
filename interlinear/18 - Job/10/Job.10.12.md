@@ -1,8 +1,56 @@
+---
+title: Job 10:12
+type: Verse
+kjv: "Thou hast granted me life and favour, and thy visitation hath preserved my spirit."
+bsb: "You have granted me life and loving devotion, and Your care has preserved my spirit."
+hebrew: "חַיִּ֣ים וָ֭חֶסֶד עָשִׂ֣יתָ עִמָּדִ֑י וּ֝פְקֻדָּתְךָ֗ שָֽׁמְרָ֥ה רוּחִֽי׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H2416E]]"
+- "[[H9002]]"
+- "[[H2617A]]"
+- "[[H6213I]]"
+- "[[H5978]]"
+- "[[H9030]]"
+- "[[H6486]]"
+- "[[H9021]]"
+- "[[H8104H]]"
+- "[[H7307G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:12**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou hast granted me life and favour, and thy visitation hath preserved my spirit.
 <small><sub>**BSB:**</sub></small>
 You have granted me life and loving devotion, and Your care has preserved my spirit.
+<small><sub>**Hebrew:**</sub></small>
+[[H2416E\|חַיִּ֣ים]] [[H9002\|וָ֭]][[H2617A\|חֶסֶד]] [[H6213I\|עָשִׂ֣יתָ]] [[H5978\|עִמָּדִ֑]][[H9030\|י]] [[H9002\|וּ֝]][[H6486\|פְקֻדָּתְ]][[H9021\|ךָ֗]] [[H8104H\|שָֽׁמְרָ֥ה]] [[H7307G\|רוּחִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic GRACE OF GOD|GRACE OF GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.11|<< Job 10:11]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.13|Job 10:13 >>]]</td></tr></table>
 

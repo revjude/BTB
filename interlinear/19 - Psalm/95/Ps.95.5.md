@@ -1,8 +1,59 @@
+---
+title: Psalm 95:5
+type: Verse
+kjv: "The sea is his, and he made it: and his hands formed the dry land."
+bsb: "The sea is His, for He made it, and His hands formed the dry land."
+hebrew: "אֲשֶׁר־ ל֣וֹ הַ֭יָּם וְה֣וּא עָשָׂ֑הוּ וְ֝יַבֶּ֗שֶׁת יָדָ֥יו יָצָֽרוּ׃"
+pericope: "[[Ps.95.1 Do Not Harden Your Hearts|Do Not Harden Your Hearts]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 95
+book/chapter: "[[Ps.95|Psalm 95]]"
+chronological_order: 522
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SEA|SEA]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3220G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H6213H]]"
+- "[[H3006]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H3335G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 95:5**<big><big>[[Ps.95.1 Do Not Harden Your Hearts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sea [is] his, and he made it: and his hands formed the dry [land].
 <small><sub>**BSB:**</sub></small>
 The sea is His, for He made it, and His hands formed the dry land.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9009\|הַ֭]][[H3220G\|יָּם]] [[H9002\|וְ]][[H1931\|ה֣וּא]] [[H6213H\|עָשָׂ֑]][[H9033\|הוּ]] [[H9002\|וְ֝]][[H3006\|יַבֶּ֗שֶׁת]] [[H3027G\|יָדָ֥י]][[H9023\|ו]] [[H3335G\|יָצָֽרוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINENTS|CONTINENTS]] • [[topic GOD|GOD]] • [[topic SEA|SEA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.95.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.95.4|<< Psalms 95:4]]</td><td align="center" style="border:none;">[[Ps.95|Psalms 95]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.95.6|Psalms 95:6 >>]]</td></tr></table>
 

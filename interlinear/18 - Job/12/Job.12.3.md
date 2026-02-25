@@ -1,8 +1,62 @@
+---
+title: Job 12:3
+type: Verse
+kjv: "But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?"
+bsb: "But I also have a mind; I am not inferior to you. Who does not know such things as these?"
+hebrew: "גַּם־ לִ֤י לֵבָ֨ב׀ כְּֽמוֹכֶ֗ם לֹא־ נֹפֵ֣ל אָנֹכִ֣י מִכֶּ֑ם וְאֶת־ מִי־ אֵ֥ין כְּמוֹ־ אֵֽלֶּה׃"
+pericope: "[[Job.12.1 Job Presents His Case|Job Presents His Case]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 12
+book/chapter: "[[Job.12|Job 12]]"
+chronological_order: 23
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic SARCASM|SARCASM]]"
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3824]]"
+- "[[H9015]]"
+- "[[H3644G]]"
+- "[[H9036]]"
+- "[[H3808]]"
+- "[[H5307G]]"
+- "[[H0595]]"
+- "[[H9006]]"
+- "[[H9002]]"
+- "[[H0854]]"
+- "[[H4310]]"
+- "[[H0369]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 12:3**<big><big>[[Job.12.1 Job Presents His Case|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I have understanding as well as you; I [am] not inferior to you: yea, who knoweth not such things as these?
 <small><sub>**BSB:**</sub></small>
 But I also have a mind; I am not inferior to you. Who does not know such things as these?
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H9005\|לִ֤]][[H9030\|י]] [[H3824\|לֵבָ֨ב]][[H9015\|׀]] [[H3644G\|כְּֽמוֹ]][[H9036\|כֶ֗ם]] [[H3808\|לֹא]][[H9014\|־]] [[H5307G\|נֹפֵ֣ל]] [[H0595\|אָנֹכִ֣י]] [[H9006\|מִ]][[H9036\|כֶּ֑ם]] [[H9002\|וְ]][[H0854\|אֶת]][[H9014\|־]] [[H4310\|מִי]][[H9014\|־]] [[H0369\|אֵ֥ין]] [[H3644G\|כְּמוֹ]][[H9014\|־]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIDE|PRIDE]] • [[topic SARCASM|SARCASM]] • [[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.12.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.12.2|<< Job 12:2]]</td><td align="center" style="border:none;">[[Job.12|Job 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.12.4|Job 12:4 >>]]</td></tr></table>
 

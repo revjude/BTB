@@ -1,8 +1,57 @@
+---
+title: Psalm 119:19
+type: Verse
+kjv: "I am a stranger in the earth: hide not thy commandments from me."
+bsb: "I am a stranger on the earth; do not hide Your commandments from me."
+hebrew: "גֵּ֣ר אָנֹכִ֣י בָאָ֑רֶץ אַל־ תַּסְתֵּ֥ר מִ֝מֶּ֗נִּי מִצְוֹתֶֽיךָ׃"
+pericope: "[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|Your Word Is a Lamp to My Feet - GIMEL]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H1616]]"
+- "[[H0595]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5641]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:19**<big><big>[[Ps.119.17 Your Word Is a Lamp to My Feet - GIMEL|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I [am] a stranger in the earth: hide not thy commandments from me.
 <small><sub>**BSB:**</sub></small>
 I am a stranger on the earth; do not hide Your commandments from me.
+<small><sub>**Hebrew:**</sub></small>
+[[H1616\|גֵּ֣ר]] [[H0595\|אָנֹכִ֣י]] [[H9003\|בָ]][[H0776G\|אָ֑רֶץ]] [[H0408\|אַל]][[H9014\|־]] [[H5641\|תַּסְתֵּ֥ר]] [[H4480A\|מִ֝מֶּ֗]][[H9030\|נִּי]] [[H4687\|מִצְוֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.18|<< Psalms 119:18]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.20|Psalms 119:20 >>]]</td></tr></table>
 

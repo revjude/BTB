@@ -1,8 +1,56 @@
+---
+title: Ezekiel 22:10
+type: Verse
+kjv: "In thee have they discovered their fathers’ nakedness: in thee have they humbled her that was set apart for pollution."
+bsb: "In you they have uncovered the nakedness of their fathers; in you they violate women during their menstrual impurity."
+hebrew: "עֶרְוַת־ אָ֖ב גִּלָּה־ בָ֑ךְ טְמֵאַ֥ת הַנִּדָּ֖ה עִנּוּ־ בָֽךְ׃"
+pericope: "[[Ezek.22.1 The Sins of Jerusalem|The Sins of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 22
+book/chapter: "[[Ezek.22|Ezekiel 22]]"
+chronological_order: 813
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CRIME|CRIME]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H6172]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H1540I]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H2931]]"
+- "[[H9009]]"
+- "[[H5079]]"
+- "[[H6031B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 22:10**<big><big>[[Ezek.22.1 The Sins of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In thee have they discovered their fathers’ nakedness: in thee have they humbled her that was set apart for pollution.
 <small><sub>**BSB:**</sub></small>
 In you they have uncovered the nakedness of their fathers; in you they violate women during their menstrual impurity.
+<small><sub>**Hebrew:**</sub></small>
+[[H6172\|עֶרְוַת]][[H9014\|־]] [[H0001G\|אָ֖ב]] [[H1540I\|גִּלָּה]][[H9014\|־]] [[H9003\|בָ֑]][[H9032\|ךְ]] [[H2931\|טְמֵאַ֥ת]] [[H9009\|הַ]][[H5079\|נִּדָּ֖ה]] [[H6031B\|עִנּוּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CRIME|CRIME]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.22.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.22.9|<< Ezekiel 22:9]]</td><td align="center" style="border:none;">[[Ezek.22|Ezekiel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.11|Ezekiel 22:11 >>]]</td></tr></table>
 

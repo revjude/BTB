@@ -1,8 +1,60 @@
+---
+title: Exodus 22:13
+type: Verse
+kjv: "If it be torn in pieces, then let him bring it for witness, and he shall not make good that which was torn."
+bsb: "If the animal was torn to pieces, he shall bring it as evidence; he need not make restitution for the torn carcass."
+hebrew: "אִם־ טָרֹ֥ף יִטָּרֵ֖ף יְבִאֵ֣הוּ עֵ֑ד הַטְּרֵפָ֖ה לֹ֥א יְשַׁלֵּֽם׃ פ"
+pericope: "[[Exod.22.1 Property Laws|Property Laws]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2963]]"
+- "[[H0935P]]"
+- "[[H9033]]"
+- "[[H5707]]"
+- "[[H9009]]"
+- "[[H2966]]"
+- "[[H3808]]"
+- "[[H7999A]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Exodus 22:13**<big><big>[[Exod.22.1 Property Laws|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If it be torn in pieces, [then] let him bring it [for] witness, [and] he shall not make good that which was torn.
 <small><sub>**BSB:**</sub></small>
 If the animal was torn to pieces, he shall bring it as evidence; he need not make restitution for the torn carcass.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2963\|טָרֹ֥ף]] [[H2963\|יִטָּרֵ֖ף]] [[H0935P\|יְבִאֵ֣]][[H9033\|הוּ]] [[H5707\|עֵ֑ד]] [[H9009\|הַ]][[H2966\|טְּרֵפָ֖ה]] [[H3808\|לֹ֥א]] [[H7999A\|יְשַׁלֵּֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEBTOR|DEBTOR]] • [[topic PROPERTY|PROPERTY]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic TRUSTEE|TRUSTEE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.22.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.12|<< Exodus 22:12]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.14|Exodus 22:14 >>]]</td></tr></table>
 
@@ -15,7 +67,7 @@ If the animal was torn to pieces, he shall bring it as evidence; he need not mak
 | evidence  |**<big>&#8207;[[H5707\|עֵ֑ד]]&#8207; </big>**| 'Ed<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the torn animal  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2966\|טְּרֵפָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> te.re.Fah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | not  |**<big>&#8207;[[H3808\|לֹ֥א]]&#8207; </big>**| lo'<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| he will make restitution  |**<big>&#8207;[[H7999A\|יְשַׁלֵּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.sha.Lem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| he will make restitution  |**<big>&#8207;[[H7999A\|יְשַׁלֵּֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ye.sha.Lem<small><sup>[[HVpi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.22.12|<< Exodus 22:12]]</td><td align="center" style="border:none;">[[Exod.22|Exodus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.22.14|Exodus 22:14 >>]]</td></tr></table>
 
 

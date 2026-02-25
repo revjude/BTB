@@ -1,10 +1,59 @@
+---
+title: 1 John 2:7
+type: Verse
+kjv: "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning."
+bsb: "Beloved, I am not writing to you a new commandment, but an old one, which you have had from the beginning. This commandment is the message you have heard."
+greek: "Ἀγαπητοί, οὐκ ἐντολὴν καινὴν γράφω ὑμῖν ἀλλ᾽ ἐντολὴν παλαιὰν ἣν εἴχετε ἀπ᾽ ἀρχῆς· ἡ ἐντολὴ ἡ παλαιά ἐστιν ὁ λόγος ὃν ἠκούσατε ἀπ᾽ ἀρχῆς."
+pericope: "[[1John.2.7 A New Commandment|A New Commandment]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 2
+book/chapter: "[[1John.2|1 John 2]]"
+chronological_order: 1162
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0027]]"
+- "[[G3756]]"
+- "[[G1785]]"
+- "[[G2537]]"
+- "[[G1125]]"
+- "[[G4771]]"
+- "[[G0235]]"
+- "[[G3820]]"
+- "[[G3739]]"
+- "[[G2192]]"
+- "[[G0575]]"
+- "[[G0746]]"
+- "[[G3588]]"
+- "[[G1510]]"
+- "[[G3056]]"
+- "[[G0191]]"
+texts:
+- N(K)O
+- NKO
+- K
+---
+
 **1 John 2:7**<big><big>[[1John.2.7 A New Commandment|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.
 <small><sub>**BSB:**</sub></small>
 Beloved, I am not writing to you a new commandment, but an old one, which you have had from the beginning. This commandment is the message you have heard.
-<small><sub>**Literal:**</sub></small>
-Beloved, not a commandment new I am writing to you but a commandment old which you have had from [the] beginning; The commandment <the> old is the word that you have heard from beginning.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.6|<< 1 John 2:6]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.8|1 John 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|Ἀγαπητοί,]]  [[G3756\|οὐκ]]  [[G1785\|ἐντολὴν]]  [[G2537\|καινὴν]]  [[G1125\|γράφω]]  [[G4771\|ὑμῖν]]  [[G0235\|ἀλλ᾽]]  [[G1785\|ἐντολὴν]]  [[G3820\|παλαιὰν]]  [[G3739\|ἣν]]  [[G2192\|εἴχετε]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς·]]  [[G3588\|ἡ]]  [[G1785\|ἐντολὴ]]  [[G3588\|ἡ]]  [[G3820\|παλαιά]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3056\|λόγος]]  [[G3739\|ὃν]]  [[G0191\|ἠκούσατε]]  [[G0575\|ἀπ᾽]]  [[G0746\|ἀρχῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.2.6|<< 1 John 2:6]]</td><td align="center" style="border:none;">[[1John.2|1 John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.2.8|1 John 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

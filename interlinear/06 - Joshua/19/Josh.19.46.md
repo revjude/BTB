@@ -1,8 +1,54 @@
+---
+title: Joshua 19:46
+type: Verse
+kjv: "And Mejarkon, and Rakkon, with the border before Japho."
+bsb: "Me-jarkon, and Rakkon, including the territory across from Joppa."
+hebrew: "וּמֵ֥י הַיַּרְק֖וֹן וְהָֽרַקּ֑וֹן עִֽם־ הַגְּב֖וּל מ֥וּל יָפֽוֹ׃"
+pericope: "[[Josh.19.40 Dan’s Inheritance|Dan’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic DAN|DAN]]"
+- "[[topic JAPHO|JAPHO]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic ME-JARKON|ME-JARKON]]"
+- "[[topic RAKKON|RAKKON]]"
+strongs:
+- "[[H9002]]"
+- "[[H4313]]"
+- "[[H9009]]"
+- "[[H7542]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H1366H]]"
+- "[[H4136]]"
+- "[[H3305]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:46**<big><big>[[Josh.19.40 Dan’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Mejarkon, and Rakkon, with the border before Japho.
 <small><sub>**BSB:**</sub></small>
 Me-jarkon, and Rakkon, including the territory across from Joppa.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4313\|מֵ֥י]] [[H9009\|הַ]][[H4313\|יַּרְק֖וֹן]] [[H9002\|וְ]][[H9009\|הָֽ]][[H7542\|רַקּ֑וֹן]] [[H5973A\|עִֽם]][[H9014\|־]] [[H9009\|הַ]][[H1366H\|גְּב֖וּל]] [[H4136\|מ֥וּל]] [[H3305\|יָפֽוֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAN|DAN]] • [[topic JAPHO|JAPHO]] • [[topic JOPPA|JOPPA]] • [[topic ME-JARKON|ME-JARKON]] • [[topic RAKKON|RAKKON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.45|<< Joshua 19:45]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.47|Joshua 19:47 >>]]</td></tr></table>
 

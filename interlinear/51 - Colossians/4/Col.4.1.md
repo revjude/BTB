@@ -1,10 +1,57 @@
+---
+title: Colossians 4:1
+type: Verse
+kjv: "Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven."
+bsb: "Masters, supply your slaves with what is right and fair, since you know that you also have a Master in heaven."
+greek: "Οἱ κύριοι, τὸ δίκαιον καὶ τὴν ἰσότητα τοῖς δούλοις παρέχεσθε εἰδότες ὅτι καὶ ὑμεῖς ἔχετε κύριον ἐν οὐρανῷ.¶"
+pericope: "[[Col.4.1 Prayerful Speech and Actions|Prayerful Speech and Actions]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic EMPLOYER|EMPLOYER]]"
+- "[[topic MASTER|MASTER]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WAGES|WAGES]]"
+strongs:
+- "[[G3588]]"
+- "[[G2962H]]"
+- "[[G1342]]"
+- "[[G2532]]"
+- "[[G2471]]"
+- "[[G1401]]"
+- "[[G3930]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G4771]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G3772]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Colossians 4:1**<big><big>[[Col.4.1 Prayerful Speech and Actions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Masters, give unto [your] servants that which is just and equal; knowing that ye also have a Master in heaven.
 <small><sub>**BSB:**</sub></small>
 Masters, supply your slaves with what is right and fair, since you know that you also have a Master in heaven.
-<small><sub>**Literal:**</sub></small>
-you who [are] Masters, that which [is] righteous and that which [is] equal to the slaves do give knowing that also you yourselves have a Master in heaven.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.25|<< Colossians 3:25]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.2|Colossians 4:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Οἱ]]  [[G2962H\|κύριοι,]]  [[G3588\|τὸ]]  [[G1342\|δίκαιον]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2471\|ἰσότητα]]  [[G3588\|τοῖς]]  [[G1401\|δούλοις]]  [[G3930\|παρέχεσθε]]  [[G6063\|εἰδότες]]  [[G3754G\|ὅτι]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G2192\|ἔχετε]]  [[G2962H\|κύριον]]  [[G1722\|ἐν]]  [[G3772\|οὐρανῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EMPLOYER|EMPLOYER]] • [[topic MASTER|MASTER]] • [[topic SERVANT|SERVANT]] • [[topic WAGES|WAGES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.3.25|<< Colossians 3:25]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.2|Colossians 4:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

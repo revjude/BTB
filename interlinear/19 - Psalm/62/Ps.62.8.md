@@ -1,8 +1,64 @@
+---
+title: Psalm 62:8
+type: Verse
+kjv: "Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah."
+bsb: "Trust in Him at all times, O people; pour out your hearts before Him. God is our refuge. Selah"
+hebrew: "בִּטְח֘וּ ב֤וֹ בְכָל־ עֵ֨ת׀ עָ֗ם שִׁפְכֽוּ־ לְפָנָ֥יו לְבַבְכֶ֑ם אֱלֹהִ֖ים מַחֲסֶה־ לָּ֣נוּ סֶֽלָה׃"
+pericope: "[[Ps.62.1 Waiting on God|Waiting on God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 62
+book/chapter: "[[Ps.62|Psalm 62]]"
+chronological_order: 373
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6256]]"
+- "[[H9015]]"
+- "[[H5971A]]"
+- "[[H8210G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H3824]]"
+- "[[H9026]]"
+- "[[H0430G]]"
+- "[[H4268]]"
+- "[[H9035]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 62:8**<big><big>[[Ps.62.1 Waiting on God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Trust in him at all times; ye people, pour out your heart before him: God [is] a refuge for us. Selah.
 <small><sub>**BSB:**</sub></small>
 Trust in Him at all times, O people; pour out your hearts before Him. God is our refuge. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H0982\|בִּטְח֘וּ]] [[H9003\|ב֤]][[H9033\|וֹ]] [[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H6256\|עֵ֨ת]][[H9015\|׀]] [[H5971A\|עָ֗ם]] [[H8210G\|שִׁפְכֽוּ]][[H9014\|־]] [[H9005\|לְ]][[H6440G\|פָנָ֥י]][[H9023\|ו]] [[H3824\|לְבַבְ]][[H9026\|כֶ֑ם]] [[H0430G\|אֱלֹהִ֖ים]] [[H4268\|מַחֲסֶה]][[H9014\|־]] [[H9005\|לָּ֣]][[H9035\|נוּ]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.62.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.62.7|<< Psalms 62:7]]</td><td align="center" style="border:none;">[[Ps.62|Psalms 62]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.62.9|Psalms 62:9 >>]]</td></tr></table>
 

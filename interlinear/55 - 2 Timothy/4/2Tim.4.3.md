@@ -1,10 +1,63 @@
+---
+title: 2 Timothy 4:3
+type: Verse
+kjv: "For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;"
+bsb: "For the time will come when men will not tolerate sound doctrine, but with itching ears they will gather around themselves teachers to suit their own desires."
+greek: "ἔσται γὰρ καιρὸς ὅτε τῆς ὑγιαινούσης διδασκαλίας οὐκ ἀνέξονται, ἀλλὰ κατὰ τὰς ἰδίας τὰς ἐπιθυμίας ἑαυτοῖς ἐπισωρεύσουσιν διδασκάλους κνηθόμενοι τὴν ἀκοήν·"
+pericope: "[[2Tim.4.1 Preach the Word|Preach the Word]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 4
+book/chapter: "[[2Tim.4|2 Timothy 4]]"
+chronological_order: 1156
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic LUST|LUST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G1510]]"
+- "[[G1063]]"
+- "[[G2540]]"
+- "[[G3753]]"
+- "[[G3588]]"
+- "[[G5198]]"
+- "[[G1319]]"
+- "[[G3756]]"
+- "[[G0430]]"
+- "[[G0235]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G1939]]"
+- "[[G1438]]"
+- "[[G2002]]"
+- "[[G1320]]"
+- "[[G2833]]"
+- "[[G0189]]"
+texts:
+- NKO
+- k
+---
+
 **2 Timothy 4:3**<big><big>[[2Tim.4.1 Preach the Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;
 <small><sub>**BSB:**</sub></small>
 For the time will come when men will not tolerate sound doctrine, but with itching ears they will gather around themselves teachers to suit their own desires.
-<small><sub>**Literal:**</sub></small>
-There will be for a time when <the> sound teaching not they will endure, but according to <the> [their] own <the> desires to themselves they will gather around [them] teachers having an itching <the> ear;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.2|<< 2 Timothy 4:2]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.4|2 Timothy 4:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1510\|ἔσται]]  [[G1063\|γὰρ]]  [[G2540\|καιρὸς]]  [[G3753\|ὅτε]]  [[G3588\|τῆς]]  [[G5198\|ὑγιαινούσης]]  [[G1319\|διδασκαλίας]]  [[G3756\|οὐκ]]  [[G0430\|ἀνέξονται,]]  [[G0235\|ἀλλὰ]]  [[G2596\|κατὰ]]  [[G3588\|τὰς]]  [[G2398\|ἰδίας]]  [[G3588\|τὰς]]  [[G1939\|ἐπιθυμίας]]  [[G1438\|ἑαυτοῖς]]  [[G2002\|ἐπισωρεύσουσιν]]  [[G1320\|διδασκάλους]]  [[G2833\|κνηθόμενοι]]  [[G3588\|τὴν]]  [[G0189\|ἀκοήν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTASY|APOSTASY]] • [[topic DOCTRINES|DOCTRINES]] • [[topic LUST|LUST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.4.2|<< 2 Timothy 4:2]]</td><td align="center" style="border:none;">[[2Tim.4|2 Timothy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.4.4|2 Timothy 4:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

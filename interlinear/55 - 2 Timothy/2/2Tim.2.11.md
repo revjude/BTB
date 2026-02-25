@@ -1,10 +1,52 @@
+---
+title: 2 Timothy 2:11
+type: Verse
+kjv: "It is a faithful saying: For if we be dead with him, we shall also live with him:"
+bsb: "This is a trustworthy saying: If we died with Him, we will also live with Him;"
+greek: "Πιστὸς ὁ λόγος· εἰ γὰρ συναπεθάνομεν, καὶ συζήσομεν·"
+pericope: "[[2Tim.2.1 Grace and Perseverance|Grace and Perseverance]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 2
+book/chapter: "[[2Tim.2|2 Timothy 2]]"
+chronological_order: 1154
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[G4103]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1487G]]"
+- "[[G1063]]"
+- "[[G4880]]"
+- "[[G2532]]"
+- "[[G4800]]"
+texts:
+- NKO
+---
+
 **2 Timothy 2:11**<big><big>[[2Tim.2.1 Grace and Perseverance|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [It is] a faithful saying: For if we be dead with [him], we shall also live with [him]:
 <small><sub>**BSB:**</sub></small>
 This is a trustworthy saying: If we died with Him, we will also live with Him;
-<small><sub>**Literal:**</sub></small>
-Trustworthy [is] the saying: If for we have died with [Him], also we will live with [Him];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.10|<< 2 Timothy 2:10]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.12|2 Timothy 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4103\|Πιστὸς]]  [[G3588\|ὁ]]  [[G3056\|λόγος·]]  [[G1487G\|εἰ]]  [[G1063\|γὰρ]]  [[G4880\|συναπεθάνομεν,]]  [[G2532\|καὶ]]  [[G4800\|συζήσομεν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.2.10|<< 2 Timothy 2:10]]</td><td align="center" style="border:none;">[[2Tim.2|2 Timothy 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.2.12|2 Timothy 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

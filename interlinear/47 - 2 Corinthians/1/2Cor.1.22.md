@@ -1,10 +1,58 @@
+---
+title: 2 Corinthians 1:22
+type: Verse
+kjv: "Who hath also sealed us, and given the earnest of the Spirit in our hearts."
+bsb: "placed His seal on us, and put His Spirit in our hearts as a pledge of what is to come."
+greek: "ὁ καὶ σφραγισάμενος ἡμᾶς καὶ δοὺς τὸν ἀρραβῶνα τοῦ πνεύματος ἐν ταῖς καρδίαις ἡμῶν.¶"
+pericope: "[[2Cor.1.12 Paul’s Change of Plans|Paul’s Change of Plans]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 1
+book/chapter: "[[2Cor.1|2 Corinthians 1]]"
+chronological_order: 1074
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic EARNEST|EARNEST]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TRINITY|TRINITY]]"
+strongs:
+- "[[G3588]]"
+- "[[G2532]]"
+- "[[G4972]]"
+- "[[G3165]]"
+- "[[G1325]]"
+- "[[G0728]]"
+- "[[G4151G]]"
+- "[[G1722]]"
+- "[[G2588]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 1:22**<big><big>[[2Cor.1.12 Paul’s Change of Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who hath also sealed us, and given the earnest of the Spirit in our hearts.
 <small><sub>**BSB:**</sub></small>
 placed His seal on us, and put His Spirit in our hearts as a pledge of what is to come.
-<small><sub>**Literal:**</sub></small>
-the [One] also having sealed us and having given the pledge of the Spirit in the hearts of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.21|<< 2 Corinthians 1:21]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.23|2 Corinthians 1:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G2532\|καὶ]]  [[G4972\|σφραγισάμενος]]  [[G3165\|ἡμᾶς]]  [[G2532\|καὶ]]  [[G1325\|δοὺς]]  [[G3588\|τὸν]]  [[G0728\|ἀρραβῶνα]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2588\|καρδίαις]]  [[G3165\|ἡμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic EARNEST|EARNEST]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SANCTIFICATION|SANCTIFICATION]] • [[topic SEAL|SEAL]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TRINITY|TRINITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.1.21|<< 2 Corinthians 1:21]]</td><td align="center" style="border:none;">[[2Cor.1|2 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.1.23|2 Corinthians 1:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

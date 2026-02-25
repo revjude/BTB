@@ -1,10 +1,59 @@
+---
+title: Luke 17:26
+type: Verse
+kjv: "And as it was in the days of Noe, so shall it be also in the days of the Son of man."
+bsb: "Just as it was in the days of Noah, so also will it be in the days of the Son of Man:"
+jesus_said: "And as it was in the days of Noe, so shall it be also in the days of the Son of man."
+greek: "Καὶ καθὼς ἐγένετο ἐν ταῖς ἡμέραις τοῦ Νῶε, οὕτως ἔσται καὶ ἐν ταῖς ἡμέραις τοῦ υἱοῦ τοῦ ἀνθρώπου·"
+pericope: "[[Luke.17.20 The Coming of the Kingdom|The Coming of the Kingdom]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 17
+book/chapter: "[[Luke.17|Luke 17]]"
+chronological_order: 979
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic ANTEDILUVIANS|ANTEDILUVIANS]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FLOOD|FLOOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2531]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2250]]"
+- "[[G3575]]"
+- "[[G3779]]"
+- "[[G1510]]"
+- "[[G5207]]"
+- "[[G0444]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 17:26**<big><big>[[Luke.17.20 The Coming of the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as it was in the days of Noe, so shall it be also in the days of the Son of man.
 <small><sub>**BSB:**</sub></small>
 Just as it was in the days of Noah, so also will it be in the days of the Son of Man:
-<small><sub>**Literal:**</sub></small>
-And even as it came to pass in the days <the> of Noah, thus will it be also in the days of the Son <the> of man:<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.25|<< Luke 17:25]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.27|Luke 17:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2531\|καθὼς]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3588\|τοῦ]]  [[G3575\|Νῶε,]]  [[G3779\|οὕτως]]  [[G1510\|ἔσται]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις]]  [[G3588\|τοῦ]]  [[G5207\|υἱοῦ]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTEDILUVIANS|ANTEDILUVIANS]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FLOOD|FLOOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.17.25|<< Luke 17:25]]</td><td align="center" style="border:none;">[[Luke.17|Luke 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.17.27|Luke 17:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

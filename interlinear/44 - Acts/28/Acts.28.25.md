@@ -1,10 +1,67 @@
+---
+title: Acts 28:25
+type: Verse
+kjv: "And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,"
+bsb: "They disagreed among themselves and began to leave after Paul had made this final statement: “The Holy Spirit was right when He spoke to your fathers through Isaiah the prophet:"
+greek: "ἀσύμφωνοι δὲ ὄντες πρὸς ἀλλήλους ἀπελύοντο εἰπόντος τοῦ Παύλου ῥῆμα ἕν, ὅτι καλῶς τὸ πνεῦμα τὸ ἅγιον ἐλάλησεν διὰ Ἠσαΐου τοῦ προφήτου πρὸς τοὺς πατέρας ὑμῶν"
+pericope: "[[Acts.28.16 Paul Preaches at Rome|Paul Preaches at Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 28
+book/chapter: "[[Acts.28|Acts 28]]"
+chronological_order: 1110
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0800]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G4314]]"
+- "[[G0240]]"
+- "[[G0630G]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G4487]]"
+- "[[G1520]]"
+- "[[G3754G]]"
+- "[[G2573]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G2980]]"
+- "[[G1223]]"
+- "[[G2268]]"
+- "[[G4396]]"
+- "[[G3962]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 28:25**<big><big>[[Acts.28.16 Paul Preaches at Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they agreed not among themselves, they departed, after that Paul had spoken one word, Well spake the Holy Ghost by Esaias the prophet unto our fathers,
 <small><sub>**BSB:**</sub></small>
 They disagreed among themselves and began to leave after Paul had made this final statement: “The Holy Spirit was right when He spoke to your fathers through Isaiah the prophet:
-<small><sub>**Literal:**</sub></small>
-Discordant then being with one another they were leaving when was speaking <the> Paul declaration one that Rightly the Spirit <the> Holy spoke through Isaiah the prophet to the fathers of you<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.24|<< Acts 28:24]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.26|Acts 28:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0800\|ἀσύμφωνοι]]  [[G1161\|δὲ]]  [[G1510\|ὄντες]]  [[G4314\|πρὸς]]  [[G0240\|ἀλλήλους]]  [[G0630G\|ἀπελύοντο]]  [[G2036\|εἰπόντος]]  [[G3588\|τοῦ]]  [[G3972G\|Παύλου]]  [[G4487\|ῥῆμα]]  [[G1520\|ἕν,]]  [[G3754G\|ὅτι]]  [[G2573\|καλῶς]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G3588\|τὸ]]  [[G0040G\|ἅγιον]]  [[G2980\|ἐλάλησεν]]  [[G1223\|διὰ]]  [[G2268\|Ἠσαΐου]]  [[G3588\|τοῦ]]  [[G4396\|προφήτου]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3962\|πατέρας]]  [[G4771\|ὑμῶν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WORD OF GOD|WORD OF GOD]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.28.24|<< Acts 28:24]]</td><td align="center" style="border:none;">[[Acts.28|Acts 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.28.26|Acts 28:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

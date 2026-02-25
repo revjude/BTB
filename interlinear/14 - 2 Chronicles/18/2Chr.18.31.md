@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 18:31
+type: Verse
+kjv: "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It is the king of Israel. Therefore they compassed about him to fight: but Jehoshaphat cried out, and the LORD helped him; and God moved them to depart from him."
+bsb: "When the chariot commanders saw Jehoshaphat, they said, “This is the king of Israel!” So they turned to fight against him, but Jehoshaphat cried out, and the LORD helped him. God drew them away from him."
+hebrew: "וַיְהִ֡י כִּרְאוֹת֩ שָׂרֵ֨י הָרֶ֜כֶב אֶת־ יְהוֹשָׁפָ֗ט וְהֵ֤מָּה אָֽמְרוּ֙ מֶ֣לֶךְ יִשְׂרָאֵ֣ל ה֔וּא וַיָּסֹ֥בּוּ עָלָ֖יו לְהִלָּחֵ֑ם וַיִּזְעַ֤ק יְהֽוֹשָׁפָט֙ וַֽיהוָ֣ה עֲזָר֔וֹ וַיְסִיתֵ֥ם אֱלֹהִ֖ים מִמֶּֽנּוּ׃"
+pericope: "[[2Chr.18.28 Ahab’s Defeat and Death|Ahab’s Defeat and Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 18
+book/chapter: "[[2Chr.18|2 Chronicles 18]]"
+chronological_order: 570
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H7393G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3092I]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H1931]]"
+- "[[H5437G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H3898A]]"
+- "[[H2199]]"
+- "[[H3068G]]"
+- "[[H5826]]"
+- "[[H5496]]"
+- "[[H9038]]"
+- "[[H0430G]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 18:31**<big><big>[[2Chr.18.28 Ahab’s Defeat and Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It [is] the king of Israel. Therefore they compassed about him to fight: but Jehoshaphat cried out, and the LORD helped him; and God moved them [to depart] from him.
 <small><sub>**BSB:**</sub></small>
 When the chariot commanders saw Jehoshaphat, they said, “This is the king of Israel!” So they turned to fight against him, but Jehoshaphat cried out, and the LORD helped him. God drew them away from him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H9004\|כִּ]][[H7200G\|רְאוֹת֩]] [[H8269\|שָׂרֵ֨י]] [[H9009\|הָ]][[H7393G\|רֶ֜כֶב]] [[H0853\|אֶת]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָ֗ט]] [[H9002\|וְ]][[H1992\|הֵ֤מָּה]] [[H0559\|אָֽמְרוּ֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֣ל]] [[H1931\|ה֔וּא]] [[H9001\|וַ]][[H5437G\|יָּסֹ֥בּוּ]] [[H5921A\|עָלָ֖י]][[H9033\|ו]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֑ם]] [[H9001\|וַ]][[H2199\|יִּזְעַ֤ק]] [[H3092I\|יְהֽוֹשָׁפָט֙]] [[H9002\|וַֽ]][[H3068G\|יהוָ֣ה]] [[H5826\|עֲזָר֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H5496\|יְסִיתֵ֥]][[H9038\|ם]] [[H0430G\|אֱלֹהִ֖ים]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.18.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.18.30|<< 2 Chronicles 18:30]]</td><td align="center" style="border:none;">[[2Chr.18|2 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.18.32|2 Chronicles 18:32 >>]]</td></tr></table>
 

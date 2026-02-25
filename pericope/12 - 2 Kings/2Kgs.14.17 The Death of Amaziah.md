@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Amaziah
+type: Pericope
 pericope: "[[2Kgs.14.17 The Death of Amaziah|The Death of Amaziah]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 14
 book/chapter: "[[2Kgs.14|2 Kings 14]]"
-genre:
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 4
 verses:
 - "[[2Kgs.14.17]]"
 - "[[2Kgs.14.18]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Kgs.14.20]]"
 ---
 
-[[2Kgs.14|2 Kings 14:17 - 2 Kings 14:20]]
+<small>[[2Kgs.14|2 Kings 14:17-20]]</small>
 *The Death of Amaziah*
 
 [[2Kgs.14.17|17]] And Amaziah the son of Joash king of Judah lived after the death of Jehoash son of Jehoahaz king of Israel fifteen years.

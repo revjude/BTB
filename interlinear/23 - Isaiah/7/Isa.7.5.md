@@ -1,8 +1,59 @@
+---
+title: Isaiah 7:5
+type: Verse
+kjv: "Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying,"
+bsb: "For Aram, along with Ephraim and the son of Remaliah, has plotted your ruin, saying:"
+hebrew: "יַ֗עַן כִּֽי־ יָעַ֥ץ עָלֶ֛יךָ אֲרָ֖ם רָעָ֑ה אֶפְרַ֥יִם וּבֶן־ רְמַלְיָ֖הוּ לֵאמֹֽר׃"
+pericope: "[[Isa.7.1 A Message to Ahaz|A Message to Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic REZIN|REZIN]]"
+strongs:
+- "[[H3282]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3289]]"
+- "[[H5921A]]"
+- "[[H9031]]"
+- "[[H0758I]]"
+- "[[H7451I]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H7425]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:5**<big><big>[[Isa.7.1 A Message to Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying,
 <small><sub>**BSB:**</sub></small>
 For Aram, along with Ephraim and the son of Remaliah, has plotted your ruin, saying:
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֗עַן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3289\|יָעַ֥ץ]] [[H5921A\|עָלֶ֛י]][[H9031\|ךָ]] [[H0758I\|אֲרָ֖ם]] [[H7451I\|רָעָ֑ה]] [[H0669G\|אֶפְרַ֥יִם]] [[H9002\|וּ]][[H1121A\|בֶן]][[H9014\|־]] [[H7425\|רְמַלְיָ֖הוּ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISAIAH|ISAIAH]] • [[topic PEKAH|PEKAH]] • [[topic REZIN|REZIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.4|<< Isaiah 7:4]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.6|Isaiah 7:6 >>]]</td></tr></table>
 

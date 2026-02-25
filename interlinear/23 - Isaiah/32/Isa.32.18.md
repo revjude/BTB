@@ -1,8 +1,58 @@
+---
+title: Isaiah 32:18
+type: Verse
+kjv: "And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;"
+bsb: "Then my people will dwell in a peaceful place, in safe and secure places of rest."
+hebrew: "וְיָשַׁ֥ב עַמִּ֖י בִּנְוֵ֣ה שָׁל֑וֹם וּֽבְמִשְׁכְּנוֹת֙ מִבְטַחִ֔ים וּבִמְנוּחֹ֖ת שַׁאֲנַנּֽוֹת׃"
+pericope: "[[Isa.32.9 The Women of Jerusalem|The Women of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 32
+book/chapter: "[[Isa.32|Isaiah 32]]"
+chronological_order: 675
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3427]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H5116A]]"
+- "[[H7965G]]"
+- "[[H9002]]"
+- "[[H4908]]"
+- "[[H4009]]"
+- "[[H4496H]]"
+- "[[H7600]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 32:18**<big><big>[[Isa.32.9 The Women of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;
 <small><sub>**BSB:**</sub></small>
 Then my people will dwell in a peaceful place, in safe and secure places of rest.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3427\|יָשַׁ֥ב]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9003\|בִּ]][[H5116A\|נְוֵ֣ה]] [[H7965G\|שָׁל֑וֹם]] [[H9002\|וּֽ]][[H9003\|בְ]][[H4908\|מִשְׁכְּנוֹת֙]] [[H4009\|מִבְטַחִ֔ים]] [[H9002\|וּ]][[H9003\|בִ]][[H4496H\|מְנוּחֹ֖ת]] [[H7600\|שַׁאֲנַנּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.32.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.32.17|<< Isaiah 32:17]]</td><td align="center" style="border:none;">[[Isa.32|Isaiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.32.19|Isaiah 32:19 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: Jeremiah 44:16
+type: Verse
+kjv: "As for the word that thou hast spoken unto us in the name of the LORD, we will not hearken unto thee."
+bsb: "“As for the word you have spoken to us in the name of the LORD, we will not listen to you!"
+hebrew: "הַדָּבָ֛ר אֲשֶׁר־ דִּבַּ֥רְתָּ אֵלֵ֖ינוּ בְּשֵׁ֣ם יְהוָ֑ה אֵינֶ֥נּוּ שֹׁמְעִ֖ים אֵלֶֽיךָ׃"
+pericope: "[[Jer.44.15 The Stubbornness of the People|The Stubbornness of the People]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic QUEEN|QUEEN]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9035]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H0369]]"
+- "[[H9045]]"
+- "[[H8085G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:16**<big><big>[[Jer.44.15 The Stubbornness of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As for] the word that thou hast spoken unto us in the name of the LORD, we will not hearken unto thee.
 <small><sub>**BSB:**</sub></small>
 “As for the word you have spoken to us in the name of the LORD, we will not listen to you!
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1697G\|דָּבָ֛ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבַּ֥רְתָּ]] [[H0413\|אֵלֵ֖י]][[H9035\|נוּ]] [[H9003\|בְּ]][[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֑ה]] [[H0369\|אֵינֶ֥]][[H9045\|נּוּ]] [[H8085G\|שֹׁמְעִ֖ים]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic QUEEN|QUEEN]] • [[topic SELF-WILL|SELF-WILL]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.15|<< Jeremiah 44:15]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.17|Jeremiah 44:17 >>]]</td></tr></table>
 

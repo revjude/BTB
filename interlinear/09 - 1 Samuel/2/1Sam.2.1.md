@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 2:1
+type: Verse
+kjv: "And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation."
+bsb: "At that time Hannah prayed: “My heart rejoices in the LORD; my horn is exalted in the LORD. My mouth speaks boldly against my enemies, for I rejoice in Your salvation."
+hebrew: "וַתִּתְפַּלֵּ֤ל חַנָּה֙ וַתֹּאמַ֔ר עָלַ֤ץ לִבִּי֙ בַּֽיהוָ֔ה רָ֥מָה קַרְנִ֖י בַּֽיהוָ֑ה רָ֤חַב פִּי֙ עַל־ א֣וֹיְבַ֔י כִּ֥י שָׂמַ֖חְתִּי בִּישׁוּעָתֶֽךָ׃"
+pericope: "[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|Hannah’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BARRENNESS|BARRENNESS]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JOY|JOY]]"
+- "[[topic POETRY|POETRY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PSALMS|PSALMS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6419]]"
+- "[[H2584]]"
+- "[[H0559]]"
+- "[[H5970]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H7311A]]"
+- "[[H7161A]]"
+- "[[H7337]]"
+- "[[H6310G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0341]]"
+- "[[H3588A]]"
+- "[[H8055]]"
+- "[[H3444]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:1**<big><big>[[1Sam.2.1 Hannah’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hannah prayed, and said, My heart rejoiceth in the LORD, mine horn is exalted in the LORD: my mouth is enlarged over mine enemies; because I rejoice in thy salvation.
 <small><sub>**BSB:**</sub></small>
 At that time Hannah prayed: “My heart rejoices in the LORD; my horn is exalted in the LORD. My mouth speaks boldly against my enemies, for I rejoice in Your salvation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6419\|תִּתְפַּלֵּ֤ל]] [[H2584\|חַנָּה֙]] [[H9001\|וַ]][[H0559\|תֹּאמַ֔ר]] [[H5970\|עָלַ֤ץ]] [[H3820A\|לִבִּ]][[H9020\|י֙]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֔ה]] [[H7311A\|רָ֥מָה]] [[H7161A\|קַרְנִ֖]][[H9020\|י]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֑ה]] [[H7337\|רָ֤חַב]] [[H6310G\|פִּ]][[H9020\|י֙]] [[H5921A\|עַל]][[H9014\|־]] [[H0341\|א֣וֹיְבַ֔]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H8055\|שָׂמַ֖חְתִּי]] [[H9003\|בִּ]][[H3444\|ישׁוּעָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARRENNESS|BARRENNESS]] • [[topic HANNAH|HANNAH]] • [[topic HEART|HEART]] • [[topic JOY|JOY]] • [[topic POETRY|POETRY]] • [[topic PRAISE|PRAISE]] • [[topic PSALMS|PSALMS]] • [[topic SAMUEL|SAMUEL]] • [[topic SATIRE|SATIRE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.28|<< 1 Samuel 1:28]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.2|1 Samuel 2:2 >>]]</td></tr></table>
 

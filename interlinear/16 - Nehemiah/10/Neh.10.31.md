@@ -1,8 +1,72 @@
+---
+title: Nehemiah 10:31
+type: Verse
+kjv: "And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt."
+bsb: "When the people of the land bring merchandise or any kind of grain to sell on the Sabbath day, we will not buy from them on a Sabbath or holy day. Every seventh year we will let the fields lie fallow and will cancel every debt."
+hebrew: "וְעַמֵּ֣י הָאָ֡רֶץ הַֽמְבִיאִים֩ אֶת־ הַמַּקָּח֨וֹת וְכָל־ שֶׁ֜בֶר בְּי֤וֹם הַשַּׁבָּת֙ לִמְכּ֔וֹר לֹא־ נִקַּ֥ח מֵהֶ֛ם בַּשַּׁבָּ֖ת וּבְי֣וֹם קֹ֑דֶשׁ וְנִטֹּ֛שׁ אֶת־ הַשָּׁנָ֥ה הַשְּׁבִיעִ֖ית וּמַשָּׁ֥א כָל־ יָֽד׃"
+pericope: "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4728]]"
+- "[[H3605]]"
+- "[[H7668]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7676]]"
+- "[[H9005]]"
+- "[[H4376]]"
+- "[[H3808]]"
+- "[[H3947K]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H6944G]]"
+- "[[H5203]]"
+- "[[H8141]]"
+- "[[H7637]]"
+- "[[H4855]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 10:31**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [if] the people of the land bring ware or any victuals on the sabbath day to sell, [that] we would not buy it of them on the sabbath, or on the holy day: and [that] we would leave the seventh year, and the exaction of every debt.
 <small><sub>**BSB:**</sub></small>
 When the people of the land bring merchandise or any kind of grain to sell on the Sabbath day, we will not buy from them on a Sabbath or holy day. Every seventh year we will let the fields lie fallow and will cancel every debt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5971A\|עַמֵּ֣י]] [[H9009\|הָ]][[H0776G\|אָ֡רֶץ]] [[H9009\|הַֽ]][[H0935P\|מְבִיאִים֩]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4728\|מַּקָּח֨וֹת]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7668\|שֶׁ֜בֶר]] [[H9003\|בְּ]][[H3117G\|י֤וֹם]] [[H9009\|הַ]][[H7676\|שַּׁבָּת֙]] [[H9005\|לִ]][[H4376\|מְכּ֔וֹר]] [[H3808\|לֹא]][[H9014\|־]] [[H3947K\|נִקַּ֥ח]] [[H9006\|מֵ]][[H9038\|הֶ֛ם]] [[H9003\|בַּ]][[H7676\|שַּׁבָּ֖ת]] [[H9002\|וּ]][[H9003\|בְ]][[H3117G\|י֣וֹם]] [[H6944G\|קֹ֑דֶשׁ]] [[H9002\|וְ]][[H5203\|נִטֹּ֛שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8141\|שָּׁנָ֥ה]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִ֖ית]] [[H9002\|וּ]][[H4855\|מַשָּׁ֥א]] [[H3605\|כָל]][[H9014\|־]] [[H3027G\|יָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DEBTOR|DEBTOR]] • [[topic DECISION|DECISION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic SABBATH|SABBATH]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.30|<< Nehemiah 10:30]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.32|Nehemiah 10:32 >>]]</td></tr></table>
 

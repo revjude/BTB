@@ -1,8 +1,69 @@
+---
+title: 1 Chronicles 20:4
+type: Verse
+kjv: "And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, that was of the children of the giant: and they were subdued."
+bsb: "Some time later, war broke out with the Philistines at Gezer. At that time Sibbecai the Hushathite killed Sippai, a descendant of the Rephaim, and the Philistines were subdued."
+hebrew: "וַיְהִי֙ אַחֲרֵיכֵ֔ן וַתַּעֲמֹ֧ד מִלְחָמָ֛ה בְּגֶ֖זֶר עִם־ פְּלִשְׁתִּ֑ים אָ֣ז הִכָּ֞ה סִבְּכַ֣י הַחֻֽשָׁתִ֗י אֶת־ סִפַּ֛י מִילִדֵ֥י הָרְפָאִ֖ים וַיִּכָּנֵֽעוּ׃"
+pericope: "[[1Chr.20.4 Battles against the Philistines|Battles against the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 20
+book/chapter: "[[1Chr.20|1 Chronicles 20]]"
+chronological_order: 407
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GEZER|GEZER]]"
+- "[[topic GOLIATH|GOLIATH]]"
+- "[[topic RAPHA|RAPHA]]"
+- "[[topic SAPH|SAPH]]"
+- "[[topic SIBBECHAI|SIBBECHAI]]"
+- "[[topic SIPPAI|SIPPAI]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H5975I]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H1507]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H6430G]]"
+- "[[H0227A]]"
+- "[[H5221]]"
+- "[[H5444]]"
+- "[[H9009]]"
+- "[[H2843]]"
+- "[[H0853]]"
+- "[[H5598]]"
+- "[[H9006]]"
+- "[[H3211]]"
+- "[[H7497H]]"
+- "[[H3665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 20:4**<big><big>[[1Chr.20.4 Battles against the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, [that was] of the children of the giant: and they were subdued.
 <small><sub>**BSB:**</sub></small>
 Some time later, war broke out with the Philistines at Gezer. At that time Sibbecai the Hushathite killed Sippai, a descendant of the Rephaim, and the Philistines were subdued.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H0310A\|אַחֲרֵי]][[H3651C\|כֵ֔ן]] [[H9001\|וַ]][[H5975I\|תַּעֲמֹ֧ד]] [[H4421\|מִלְחָמָ֛ה]] [[H9003\|בְּ]][[H1507\|גֶ֖זֶר]] [[H5973A\|עִם]][[H9014\|־]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H0227A\|אָ֣ז]] [[H5221\|הִכָּ֞ה]] [[H5444\|סִבְּכַ֣י]] [[H9009\|הַ]][[H2843\|חֻֽשָׁתִ֗י]] [[H0853\|אֶת]][[H9014\|־]] [[H5598\|סִפַּ֛י]] [[H9006\|מִ]][[H3211\|ילִדֵ֥י]] [[H9009\|הָ]][[H7497H\|רְפָאִ֖ים]] [[H9001\|וַ]][[H3665\|יִּכָּנֵֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GEZER|GEZER]] • [[topic GOLIATH|GOLIATH]] • [[topic RAPHA|RAPHA]] • [[topic SAPH|SAPH]] • [[topic SIBBECHAI|SIBBECHAI]] • [[topic SIPPAI|SIPPAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.20.3|<< 1 Chronicles 20:3]]</td><td align="center" style="border:none;">[[1Chr.20|1 Chronicles 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.20.5|1 Chronicles 20:5 >>]]</td></tr></table>
 

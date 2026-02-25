@@ -1,8 +1,63 @@
+---
+title: Numbers 29:2
+type: Verse
+kjv: "And ye shall offer a burnt offering for a sweet savour unto the LORD; one young bullock, one ram, and seven lambs of the first year without blemish:"
+bsb: "As a pleasing aroma to the LORD, you are to present a burnt offering of one young bull, one ram, and seven male lambs a year old, all unblemished,"
+hebrew: "וַעֲשִׂיתֶ֨ם עֹלָ֜ה לְרֵ֤יחַ נִיחֹ֙חַ֙ לַֽיהוָ֔ה פַּ֧ר בֶּן־ בָּקָ֛ר אֶחָ֖ד אַ֣יִל אֶחָ֑ד כְּבָשִׂ֧ים בְּנֵי־ שָׁנָ֛ה שִׁבְעָ֖ה תְּמִימִֽם׃"
+pericope: "[[Num.29.1 The Feast of Trumpets|The Feast of Trumpets]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 29
+book/chapter: "[[Num.29|Numbers 29]]"
+chronological_order: 189
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic TRUMPETS|TRUMPETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213I]]"
+- "[[H5930A]]"
+- "[[H9005]]"
+- "[[H7381]]"
+- "[[H5207]]"
+- "[[H3068G]]"
+- "[[H6499]]"
+- "[[H1121H]]"
+- "[[H9014]]"
+- "[[H1241]]"
+- "[[H0259]]"
+- "[[H0352A]]"
+- "[[H3532]]"
+- "[[H1121L]]"
+- "[[H8141]]"
+- "[[H7651]]"
+- "[[H8549G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 29:2**<big><big>[[Num.29.1 The Feast of Trumpets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall offer a burnt offering for a sweet savour unto the LORD; one young bullock, one ram, [and] seven lambs of the first year without blemish:
 <small><sub>**BSB:**</sub></small>
 As a pleasing aroma to the LORD, you are to present a burnt offering of one young bull, one ram, and seven male lambs a year old, all unblemished,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213I\|עֲשִׂיתֶ֨ם]] [[H5930A\|עֹלָ֜ה]] [[H9005\|לְ]][[H7381\|רֵ֤יחַ]] [[H5207\|נִיחֹ֙חַ֙]] [[H9005\|לַֽ]][[H3068G\|יהוָ֔ה]] [[H6499\|פַּ֧ר]] [[H1121H\|בֶּן]][[H9014\|־]] [[H1241\|בָּקָ֛ר]] [[H0259\|אֶחָ֖ד]] [[H0352A\|אַ֣יִל]] [[H0259\|אֶחָ֑ד]] [[H3532\|כְּבָשִׂ֧ים]] [[H1121L\|בְּנֵי]][[H9014\|־]] [[H8141\|שָׁנָ֛ה]] [[H7651\|שִׁבְעָ֖ה]] [[H8549G\|תְּמִימִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TRUMPETS|TRUMPETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.29.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.29.1|<< Numbers 29:1]]</td><td align="center" style="border:none;">[[Num.29|Numbers 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.29.3|Numbers 29:3 >>]]</td></tr></table>
 

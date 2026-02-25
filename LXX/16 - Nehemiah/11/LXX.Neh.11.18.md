@@ -1,6 +1,46 @@
+---
+title: LXX Nehemiah 11:18
+type: Verse
+lxx: "All the Levites in the holy city -- two hundred eighty-four."
+greek: "πάντες οι Λευίται εν τη πόλει τη αγία διακόσιοι ογδοηκοντατέσσαρες"
+original_language: Greek
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- septuagint
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3017]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3588]]"
+- "[[G0039]]"
+- "[[G1250]]"
+- "[[G8441]]"
+---
+
 **LXX Nehemiah 11:18** 
 <small><sub>**LXX:**</sub></small>
 All the Levites in the holy city -- two hundred eighty-four. 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάντες]] [[G3588\|οι]] [[G3017\|Λευίται]] [[G1722\|εν]] [[G3588\|τη]] [[G4172\|πόλει]] [[G3588\|τη]] [[G0039\|αγία]] [[G1250\|διακόσιοι]] [[G8441\|ογδοηκοντατέσσαρες]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**MT:**</sub></small>
 [[Neh.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.17|<< Nehemiah 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.19|Nehemiah 11:19 >>]]</td></tr></table>
 
@@ -16,6 +56,6 @@ All the Levites in the holy city -- two hundred eighty-four.
 | holy | **<big>[[G0039\|αγία]]</big>** |
 | two hundred | **<big>[[G1250\|διακόσιοι]]</big>** |
 | eighty-four. | **<big>[[G8441\|ογδοηκοντατέσσαρες]]</big>** |
-[[Neh.11.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.17|<< Nehemiah 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.19|Nehemiah 11:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Neh.11.17|<< Nehemiah 11:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Neh.11.19|Nehemiah 11:19 >>]]</td></tr></table>
 
 

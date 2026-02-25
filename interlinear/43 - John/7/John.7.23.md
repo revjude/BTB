@@ -1,10 +1,64 @@
+---
+title: John 7:23
+type: Verse
+kjv: "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?"
+bsb: "If a boy can be circumcised on the Sabbath so that the law of Moses will not be broken, why are you angry with Me for making the whole man well on the Sabbath?"
+jesus_said: "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?"
+greek: "εἰ περιτομὴν λαμβάνει ὁ ἄνθρωπος ἐν σαββάτῳ ἵνα μὴ λυθῇ ὁ νόμος Μωϋσέως, ἐμοὶ χολᾶτε ὅτι ὅλον ἄνθρωπον ὑγιῆ ἐποίησα ἐν σαββάτῳ;"
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G1487G]]"
+- "[[G4061]]"
+- "[[G2983]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G1722]]"
+- "[[G4521]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3089]]"
+- "[[G3551]]"
+- "[[G3475]]"
+- "[[G1473]]"
+- "[[G5520]]"
+- "[[G3754H]]"
+- "[[G3650]]"
+- "[[G5199]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- o
+---
+
 **John 7:23**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?
 <small><sub>**BSB:**</sub></small>
 If a boy can be circumcised on the Sabbath so that the law of Moses will not be broken, why are you angry with Me for making the whole man well on the Sabbath?
-<small><sub>**Literal:**</sub></small>
-If circumcision receives <the> a man on Sabbath so that not shall be broken the law of Moses, with Me myself are you angry because entirely a man sound I made on [the] Sabbath?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.22|<< John 7:22]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.24|John 7:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G4061\|περιτομὴν]]  [[G2983\|λαμβάνει]]  [[G3588\|ὁ]]  [[G0444\|ἄνθρωπος]]  [[G1722\|ἐν]]  [[G4521\|σαββάτῳ]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3089\|λυθῇ]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G3475\|Μωϋσέως,]]  [[G1473\|ἐμοὶ]]  [[G5520\|χολᾶτε]]  [[G3754H\|ὅτι]]  [[G3650\|ὅλον]]  [[G0444\|ἄνθρωπον]]  [[G5199\|ὑγιῆ]]  [[G4160G\|ἐποίησα]]  [[G1722\|ἐν]]  [[G4521\|σαββάτῳ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIRCUMCISION|CIRCUMCISION]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SABBATH|SABBATH]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.22|<< John 7:22]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.24|John 7:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

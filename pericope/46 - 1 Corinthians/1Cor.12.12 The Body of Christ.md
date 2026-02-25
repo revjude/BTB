@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Body of Christ
+type: Pericope
 pericope: "[[1Cor.12.12 The Body of Christ|The Body of Christ]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 12
 book/chapter: "[[1Cor.12|1 Corinthians 12]]"
-genre:
+chronological_order: 1069
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 15
 verses:
 - "[[1Cor.12.12]]"
 - "[[1Cor.12.13]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Cor.12.26]]"
 ---
 
-[[1Cor.12|1 Corinthians 12:12 - 1 Corinthians 12:26]]
+<small>[[1Cor.12|1 Corinthians 12:12-26]]</small>
 *The Body of Christ*
 
 [[1Cor.12.12|12]] For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also \[is\] Christ.

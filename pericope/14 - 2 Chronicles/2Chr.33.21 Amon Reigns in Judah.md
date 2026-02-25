@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Amon Reigns in Judah
+type: Pericope
 pericope: "[[2Chr.33.21 Amon Reigns in Judah|Amon Reigns in Judah]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 33
 book/chapter: "[[2Chr.33|2 Chronicles 33]]"
-genre:
+chronological_order: 707
+era: Exile
+period: "Judah Alone: Manasseh's Wicked Reign"
+date: ~696–642 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 5
 verses:
 - "[[2Chr.33.21]]"
 - "[[2Chr.33.22]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Chr.33.25]]"
 ---
 
-[[2Chr.33|2 Chronicles 33:21 - 2 Chronicles 33:25]]
+<small>[[2Chr.33|2 Chronicles 33:21-25]]</small>
 *Amon Reigns in Judah*
 
 [[2Chr.33.21|21]] Amon \[was\] two and twenty years old when he began to reign, and reigned two years in Jerusalem.

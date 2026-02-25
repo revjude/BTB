@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Absalom Reconciled to David
+type: Pericope
 pericope: "[[2Sam.14.28 Absalom Reconciled to David|Absalom Reconciled to David]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 14
 book/chapter: "[[2Sam.14|2 Samuel 14]]"
-genre:
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 6
 verses:
 - "[[2Sam.14.28]]"
 - "[[2Sam.14.29]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Sam.14.33]]"
 ---
 
-[[2Sam.14|2 Samuel 14:28 - 2 Samuel 14:33]]
+<small>[[2Sam.14|2 Samuel 14:28-33]]</small>
 *Absalom Reconciled to David*
 
 [[2Sam.14.28|28]] So Absalom dwelt two full years in Jerusalem, and saw not the king’s face.

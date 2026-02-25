@@ -1,8 +1,73 @@
+---
+title: Genesis 38:12
+type: Verse
+kjv: "And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite."
+bsb: "After a long time Judah’s wife, the daughter of Shua, died. When Judah had finished mourning, he and his friend Hirah the Adullamite went up to his sheepshearers at Timnah."
+hebrew: "וַיִּרְבּוּ֙ הַיָּמִ֔ים וַתָּ֖מָת בַּת־ שׁ֣וּעַ אֵֽשֶׁת־ יְהוּדָ֑ה וַיִּנָּ֣חֶם יְהוּדָ֗ה וַיַּ֜עַל עַל־ גֹּֽזֲזֵ֤י צֹאנוֹ֙ ה֗וּא וְחִירָ֛ה רֵעֵ֥הוּ הָעֲדֻלָּמִ֖י תִּמְנָֽתָה׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic HIRAH|HIRAH]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHUA|SHUA]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic TIMNATH|TIMNATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7235A]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H4191]]"
+- "[[H1323G]]"
+- "[[H9014]]"
+- "[[H7770]]"
+- "[[H0802H]]"
+- "[[H3063G]]"
+- "[[H5162G]]"
+- "[[H5927G]]"
+- "[[H5921A]]"
+- "[[H1494]]"
+- "[[H6629G]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H2437]]"
+- "[[H7453]]"
+- "[[H5726]]"
+- "[[H8553G]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:12**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
 <small><sub>**BSB:**</sub></small>
 After a long time Judah’s wife, the daughter of Shua, died. When Judah had finished mourning, he and his friend Hirah the Adullamite went up to his sheepshearers at Timnah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7235A\|יִּרְבּוּ֙]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H9001\|וַ]][[H4191\|תָּ֖מָת]] [[H1323G\|בַּת]][[H9014\|־]] [[H7770\|שׁ֣וּעַ]] [[H0802H\|אֵֽשֶׁת]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H9001\|וַ]][[H5162G\|יִּנָּ֣חֶם]] [[H3063G\|יְהוּדָ֗ה]] [[H9001\|וַ]][[H5927G\|יַּ֜עַל]] [[H5921A\|עַל]][[H9014\|־]] [[H1494\|גֹּֽזֲזֵ֤י]] [[H6629G\|צֹאנ]][[H9023\|וֹ֙]] [[H1931\|ה֗וּא]] [[H9002\|וְ]][[H2437\|חִירָ֛ה]] [[H7453\|רֵעֵ֥]][[H9023\|הוּ]] [[H9009\|הָ]][[H5726\|עֲדֻלָּמִ֖י]] [[H8553G\|תִּמְנָֽתָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic HIRAH|HIRAH]] • [[topic JUDAH|JUDAH]] • [[topic SHEEP|SHEEP]] • [[topic SHUA|SHUA]] • [[topic TAMAR|TAMAR]] • [[topic TIMNATH|TIMNATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.11|<< Genesis 38:11]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.13|Genesis 38:13 >>]]</td></tr></table>
 

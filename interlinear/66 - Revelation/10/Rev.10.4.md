@@ -1,10 +1,64 @@
+---
+title: Revelation 10:4
+type: Verse
+kjv: "And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not."
+bsb: "When the seven thunders had spoken, I was about to put it in writing. But I heard a voice from heaven saying, “Seal up what the seven thunders have said, and do not write it down.”"
+greek: "καὶ ὅτε ἐλάλησαν αἱ ἑπτὰ βρονταί, τὰς φωνὰς ἑαυτῶν ἤμελλον γράφειν. καὶ ἤκουσα φωνὴν ἐκ τοῦ οὐρανοῦ λέγουσαν μοι, σφράγισον ἃ ἐλάλησαν αἱ ἑπτὰ βρονταί, καὶ μὴ αὐτὰ γράψῃς."
+pericope: "[[Rev.10.1 The Angel and the Small Scroll|The Angel and the Small Scroll]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 10
+book/chapter: "[[Rev.10|Revelation 10]]"
+chronological_order: 1177
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3753]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G1027]]"
+- "[[G5456H]]"
+- "[[G1438]]"
+- "[[G3195]]"
+- "[[G1125]]"
+- "[[G0191]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G3004G]]"
+- "[[G3165]]"
+- "[[G4972]]"
+- "[[G3739]]"
+- "[[G3361]]"
+- "[[G0846]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Revelation 10:4**<big><big>[[Rev.10.1 The Angel and the Small Scroll|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.
 <small><sub>**BSB:**</sub></small>
 When the seven thunders had spoken, I was about to put it in writing. But I heard a voice from heaven saying, “Seal up what the seven thunders have said, and do not write it down.”
-<small><sub>**Literal:**</sub></small>
-And when spoke the seven thunders, the voices of themselves I was about to write. But I heard a voice out of <the> heaven saying to me do seal what spoke the seven thunders, and not them may write.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.3|<< Revelation 10:3]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.5|Revelation 10:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3753\|ὅτε]]  [[G2980\|ἐλάλησαν]]  [[G3588\|αἱ]]  [[G2033\|ἑπτὰ]]  [[G1027\|βρονταί,]]  [[G3588\|τὰς]]  [[G5456H\|φωνὰς]]  [[G1438\|ἑαυτῶν]]  [[G3195\|ἤμελλον]]  [[G1125\|γράφειν.]]  [[G2532\|καὶ]]  [[G0191\|ἤκουσα]]  [[G5456H\|φωνὴν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3772\|οὐρανοῦ]]  [[G3004G\|λέγουσαν]]  [[G3165\|μοι,]]  [[G4972\|σφράγισον]]  [[G3739\|ἃ]]  [[G2980\|ἐλάλησαν]]  [[G3588\|αἱ]]  [[G2033\|ἑπτὰ]]  [[G1027\|βρονταί,]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G0846\|αὐτὰ]]  [[G1125\|γράψῃς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.10.3|<< Revelation 10:3]]</td><td align="center" style="border:none;">[[Rev.10|Revelation 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.10.5|Revelation 10:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 10:4** is...
 > $\quad$ alluding to: [[LXX.Dan.12.4|Dan 12:4]] ☩ [[LXX.Dan.7.1|Dan 7]] ☩ [[LXX.Dan.9.1|Dan 9]] ☩ [[LXX.Dan.8.26|Dan 8:26]]

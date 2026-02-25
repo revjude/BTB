@@ -1,7 +1,7 @@
 
 **PRISON**
 
-→ General scriptures concerning [[Gen.39.20|Ge 39:20]]; [[Gen.42.16|42:16]]-[[Gen.42.19|19]]; [[Lev.24.12|Le  24:12]]; [[Num.15.34|Nu 15:34]]; [[Ezra.7.26|Ezr 7:26]]; [[Jer.52.11|Jer 52:11]]; [[Luke.23.19|Lu 23:19]]; [[Acts.4.3|Ac 4:3]]; [[Acts.12.4|12:4]],[[Acts.12.5|5]]
+→ General scriptures concerning [[Gen.39.20|Ge 39:20]]; [[Gen.42.16|42:16-19]]; [[Lev.24.12|Le  24:12]]; [[Num.15.34|Nu 15:34]]; [[Ezra.7.26|Ezr 7:26]]; [[Jer.52.11|Jer 52:11]]; [[Luke.23.19|Lu 23:19]]; [[Acts.4.3|Ac 4:3]]; [[Acts.12.4|12:4]],[[Acts.12.5|5]]
 
 → Public ward of [[Acts.5.18|Ac 5:18]]
 

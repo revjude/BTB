@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Heirs of Grace
+type: Pericope
 pericope: "[[Titus.3.1 Heirs of Grace|Heirs of Grace]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Titus
 chapter: 3
 book/chapter: "[[Titus.3|Titus 3]]"
-genre:
+chronological_order: 1134
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
 - epistle
 - pauline epistle
 - pastoral epistle
 - church order
+verse_count: 8
 verses:
 - "[[Titus.3.1]]"
 - "[[Titus.3.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Titus.3.8]]"
 ---
 
-[[Titus.3|Titus 3:1 - Titus 3:8]]
+<small>[[Titus.3|Titus 3:1-8]]</small>
 *Heirs of Grace*
 
 [[Titus.3.1|1]] Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,

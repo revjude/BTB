@@ -1,10 +1,67 @@
+---
+title: Acts 19:21
+type: Verse
+kjv: "After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome."
+bsb: "After these things had happened, Paul resolved in the Spirit to go to Jerusalem, passing through Macedonia and Achaia. “After I have been there,” he said, “I must see Rome as well.”"
+greek: "Ὡς δὲ ἐπληρώθη ταῦτα, ἔθετο ὁ Παῦλος ἐν τῷ πνεύματι διελθὼν τὴν Μακεδονίαν καὶ Ἀχαΐαν πορεύεσθαι εἰς Ἱεροσόλυμα εἰπὼν ὅτι μετὰ τὸ γενέσθαι με ἐκεῖ, δεῖ με καὶ Ῥώμην ἰδεῖν."
+pericope: "[[Acts.19.21 The Riot in Ephesus|The Riot in Ephesus]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 19
+book/chapter: "[[Acts.19|Acts 19]]"
+chronological_order: 1056
+era: Church
+period: "Paul's Third Missionary Journey: Ephesus"
+date: ~AD 53–55
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ACHAIA|ACHAIA]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G4137]]"
+- "[[G3778]]"
+- "[[G5087]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G1722]]"
+- "[[G4151G]]"
+- "[[G1330]]"
+- "[[G3109]]"
+- "[[G2532]]"
+- "[[G0882]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G2036]]"
+- "[[G3754G]]"
+- "[[G3326]]"
+- "[[G1096]]"
+- "[[G3165]]"
+- "[[G1563]]"
+- "[[G1163]]"
+- "[[G4516]]"
+- "[[G1492H]]"
+texts:
+- NKO
+---
+
 **Acts 19:21**<big><big>[[Acts.19.21 The Riot in Ephesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After these things were ended, Paul purposed in the spirit, when he had passed through Macedonia and Achaia, to go to Jerusalem, saying, After I have been there, I must also see Rome.
 <small><sub>**BSB:**</sub></small>
 After these things had happened, Paul resolved in the Spirit to go to Jerusalem, passing through Macedonia and Achaia. “After I have been there,” he said, “I must see Rome as well.”
-<small><sub>**Literal:**</sub></small>
-After now were fulfilled these things, purposed <the> Paul in the Spirit having passed through <the> Macedonia and Achaia to go to Jerusalem having said that After <the> being me there, it behooves me also Rome to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.20|<< Acts 19:20]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.22|Acts 19:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5613\|Ὡς]]  [[G1161\|δὲ]]  [[G4137\|ἐπληρώθη]]  [[G3778\|ταῦτα,]]  [[G5087\|ἔθετο]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G1330\|διελθὼν]]  [[G3588\|τὴν]]  [[G3109\|Μακεδονίαν]]  [[G2532\|καὶ]]  [[G0882\|Ἀχαΐαν]]  [[G4198\|πορεύεσθαι]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G2036\|εἰπὼν]]  [[G3754G\|ὅτι]]  [[G3326\|μετὰ]]  [[G3588\|τὸ]]  [[G1096\|γενέσθαι]]  [[G3165\|με]]  [[G1563\|ἐκεῖ,]]  [[G1163\|δεῖ]]  [[G3165\|με]]  [[G2532\|καὶ]]  [[G4516\|Ῥώμην]]  [[G1492H\|ἰδεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHAIA|ACHAIA]] • [[topic FEASTS|FEASTS]] • [[topic PAUL|PAUL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.19.20|<< Acts 19:20]]</td><td align="center" style="border:none;">[[Acts.19|Acts 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.19.22|Acts 19:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

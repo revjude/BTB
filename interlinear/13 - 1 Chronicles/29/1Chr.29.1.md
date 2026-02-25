@@ -1,8 +1,68 @@
+---
+title: 1 Chronicles 29:1
+type: Verse
+kjv: "Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God."
+bsb: "Then King David said to the whole assembly, “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great because this palace is not for man, but for the LORD God."
+hebrew: "וַיֹּ֨אמֶר דָּוִ֤יד הַמֶּ֙לֶךְ֙ לְכָל־ הַקָּהָ֔ל שְׁלֹמֹ֨ה בְנִ֥י אֶחָ֛ד בָּֽחַר־ בּ֥וֹ אֱלֹהִ֖ים נַ֣עַר וָרָ֑ךְ וְהַמְּלָאכָ֣ה גְדוֹלָ֔ה כִּ֣י לֹ֤א לְאָדָם֙ הַבִּירָ֔ה כִּ֖י לַיהוָ֥ה אֱלֹהִֽים׃"
+pericope: "[[1Chr.29.1 Offerings for the Temple|Offerings for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 29
+book/chapter: "[[1Chr.29|1 Chronicles 29]]"
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6951]]"
+- "[[H8010]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H0259]]"
+- "[[H0977]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0430G]]"
+- "[[H5288]]"
+- "[[H9002]]"
+- "[[H7390]]"
+- "[[H4399]]"
+- "[[H1419A]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H0120G]]"
+- "[[H1002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 29:1**<big><big>[[1Chr.29.1 Offerings for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, [is yet] young and tender, and the work [is] great: for the palace [is] not for man, but for the LORD God.
 <small><sub>**BSB:**</sub></small>
 Then King David said to the whole assembly, “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great because this palace is not for man, but for the LORD God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֤יד]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H6951\|קָּהָ֔ל]] [[H8010\|שְׁלֹמֹ֨ה]] [[H1121A\|בְנִ֥]][[H9020\|י]] [[H0259\|אֶחָ֛ד]] [[H0977\|בָּֽחַר]][[H9014\|־]] [[H9003\|בּ֥]][[H9033\|וֹ]] [[H0430G\|אֱלֹהִ֖ים]] [[H5288\|נַ֣עַר]] [[H9002\|וָ]][[H7390\|רָ֑ךְ]] [[H9002\|וְ]][[H9009\|הַ]][[H4399\|מְּלָאכָ֣ה]] [[H1419A\|גְדוֹלָ֔ה]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H9005\|לְ]][[H0120G\|אָדָם֙]] [[H9009\|הַ]][[H1002\|בִּירָ֔ה]] [[H3588A\|כִּ֖י]] [[H9005\|לַ]][[H3068G\|יהוָ֥ה]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.21|<< 1 Chronicles 28:21]]</td><td align="center" style="border:none;">[[1Chr.29|1 Chronicles 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.29.2|1 Chronicles 29:2 >>]]</td></tr></table>
 

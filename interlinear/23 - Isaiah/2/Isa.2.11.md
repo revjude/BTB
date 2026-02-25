@@ -1,8 +1,62 @@
+---
+title: Isaiah 2:11
+type: Verse
+kjv: "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day."
+bsb: "The proud look of man will be humbled, and the loftiness of men brought low; the LORD alone will be exalted in that day."
+hebrew: "עֵינֵ֞י גַּבְה֤וּת אָדָם֙ שָׁפֵ֔ל וְשַׁ֖ח ר֣וּם אֲנָשִׁ֑ים וְנִשְׂגַּ֧ב יְהוָ֛ה לְבַדּ֖וֹ בַּיּ֥וֹם הַהֽוּא׃ ס"
+pericope: "[[Isa.2.5 The Day of Reckoning|The Day of Reckoning]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 2
+book/chapter: "[[Isa.2|Isaiah 2]]"
+chronological_order: 610
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[H5869H]]"
+- "[[H1365]]"
+- "[[H0120G]]"
+- "[[H8213]]"
+- "[[H9001]]"
+- "[[H7817]]"
+- "[[H7312]]"
+- "[[H0582]]"
+- "[[H7682]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 2:11**<big><big>[[Isa.2.5 The Day of Reckoning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.
 <small><sub>**BSB:**</sub></small>
 The proud look of man will be humbled, and the loftiness of men brought low; the LORD alone will be exalted in that day.
+<small><sub>**Hebrew:**</sub></small>
+[[H5869H\|עֵינֵ֞י]] [[H1365\|גַּבְה֤וּת]] [[H0120G\|אָדָם֙]] [[H8213\|שָׁפֵ֔ל]] [[H9001\|וְ]][[H7817\|שַׁ֖ח]] [[H7312\|ר֣וּם]] [[H0582\|אֲנָשִׁ֑ים]] [[H9001\|וְ]][[H7682\|נִשְׂגַּ֧ב]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לְ]][[H0905H\|בַדּ֖]][[H9033\|וֹ]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|הֽוּא]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic ISAIAH|ISAIAH]] • [[topic PRIDE|PRIDE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.10|<< Isaiah 2:10]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.12|Isaiah 2:12 >>]]</td></tr></table>
 
@@ -19,7 +73,7 @@ The proud look of man will be humbled, and the loftiness of men brought low; the
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֛ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to only him  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905H\|בַדּ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.D<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the day  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H3117G\|יּ֥וֹם]]&#8207; </big>**| ba<small><sup>[[HRd]]</sup></small> i.Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> that  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.2.10|<< Isaiah 2:10]]</td><td align="center" style="border:none;">[[Isa.2|Isaiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.2.12|Isaiah 2:12 >>]]</td></tr></table>
 
 

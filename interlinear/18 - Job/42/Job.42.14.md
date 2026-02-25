@@ -1,8 +1,57 @@
+---
+title: Job 42:14
+type: Verse
+kjv: "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch."
+bsb: "He named his first daughter Jemimah, his second Keziah, and his third Keren-happuch."
+hebrew: "וַיִּקְרָ֤א שֵׁם־ הָֽאַחַת֙ יְמִימָ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית קְצִיעָ֑ה וְשֵׁ֥ם הַשְּׁלִישִׁ֖ית קֶ֥רֶן הַפּֽוּךְ׃"
+pericope: "[[Job.42.10 The LORD Blesses Job|The LORD Blesses Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 42
+book/chapter: "[[Job.42|Job 42]]"
+chronological_order: 53
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic JEMIMA|JEMIMA]]"
+- "[[topic JOB|JOB]]"
+- "[[topic KEREN-HAPPUCH|KEREN-HAPPUCH]]"
+- "[[topic KEZIA|KEZIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H3224]]"
+- "[[H9002]]"
+- "[[H8145]]"
+- "[[H7103]]"
+- "[[H7992]]"
+- "[[H7163]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 42:14**<big><big>[[Job.42.10 The LORD Blesses Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch.
 <small><sub>**BSB:**</sub></small>
 He named his first daughter Jemimah, his second Keziah, and his third Keren-happuch.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֤א]] [[H8034\|שֵׁם]][[H9014\|־]] [[H9009\|הָֽ]][[H0259\|אַחַת֙]] [[H3224\|יְמִימָ֔ה]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖ית]] [[H7103\|קְצִיעָ֑ה]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֖ית]] [[H7163\|קֶ֥רֶן]] [[H7163\|הַפּֽוּךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEMIMA|JEMIMA]] • [[topic JOB|JOB]] • [[topic KEREN-HAPPUCH|KEREN-HAPPUCH]] • [[topic KEZIA|KEZIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.42.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.42.13|<< Job 42:13]]</td><td align="center" style="border:none;">[[Job.42|Job 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.42.15|Job 42:15 >>]]</td></tr></table>
 

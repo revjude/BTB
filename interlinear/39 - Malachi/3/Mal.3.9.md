@@ -1,8 +1,56 @@
+---
+title: Malachi 3:9
+type: Verse
+kjv: "Ye are cursed with a curse: for ye have robbed me, even this whole nation."
+bsb: "You are cursed with a curse, yet you—the whole nation—are still robbing Me."
+hebrew: "בַּמְּאֵרָה֙ אַתֶּ֣ם נֵֽאָרִ֔ים וְאֹתִ֖י אַתֶּ֣ם קֹבְעִ֑ים הַגּ֖וֹי כֻּלּֽוֹ׃"
+pericope: "[[Mal.3.6 Robbing God|Robbing God]]"
+original_language: Hebrew
+testament: Old
+book: Malachi
+chapter: 3
+book/chapter: "[[Mal.3|Malachi 3]]"
+chronological_order: 928
+era: Return
+period: "Return from Exile: Malachi's Prophecy"
+date: ~435–430 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+- dialogue
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic MALACHI|MALACHI]]"
+- "[[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]]"
+strongs:
+- "[[H9003]]"
+- "[[H3994]]"
+- "[[H0859D]]"
+- "[[H0779]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H6906]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H3605]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Malachi 3:9**<big><big>[[Mal.3.6 Robbing God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye [are] cursed with a curse: for ye have robbed me, [even] this whole nation.
 <small><sub>**BSB:**</sub></small>
 You are cursed with a curse, yet you—the whole nation—are still robbing Me.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3994\|מְּאֵרָה֙]] [[H0859D\|אַתֶּ֣ם]] [[H0779\|נֵֽאָרִ֔ים]] [[H9002\|וְ]][[H0853\|אֹתִ֖]][[H9030\|י]] [[H0859D\|אַתֶּ֣ם]] [[H6906\|קֹבְעִ֑ים]] [[H9009\|הַ]][[H1471A\|גּ֖וֹי]] [[H3605\|כֻּלּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic MALACHI|MALACHI]] • [[topic PARSIMONY (STINGINESS)|PARSIMONY (STINGINESS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mal.3.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mal.3.8|<< Malachi 3:8]]</td><td align="center" style="border:none;">[[Mal.3|Malachi 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mal.3.10|Malachi 3:10 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Proverbs 26:15
+type: Verse
+kjv: "The slothful hideth his hand in his bosom; it grieveth him to bring it again to his mouth."
+bsb: "The slacker buries his hand in the dish; it wearies him to bring it back to his mouth."
+hebrew: "טָ֘מַ֤ן עָצֵ֣ל יָ֭דוֹ בַּצַּלָּ֑חַת נִ֝לְאָ֗ה לַֽהֲשִׁיבָ֥הּ אֶל־ פִּֽיו׃"
+pericope: "[[Prov.26.1 Similitudes and Instructions|Similitudes and Instructions]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 26
+book/chapter: "[[Prov.26|Proverbs 26]]"
+chronological_order: 481
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic IDLENESS|IDLENESS]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+strongs:
+- "[[H2934]]"
+- "[[H6102]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H6747]]"
+- "[[H3811]]"
+- "[[H9005]]"
+- "[[H7725G]]"
+- "[[H9034]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6310G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 26:15**<big><big>[[Prov.26.1 Similitudes and Instructions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The slothful hideth his hand in [his] bosom; it grieveth him to bring it again to his mouth.
 <small><sub>**BSB:**</sub></small>
 The slacker buries his hand in the dish; it wearies him to bring it back to his mouth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2934\|טָ֘מַ֤ן]] [[H6102\|עָצֵ֣ל]] [[H3027G\|יָ֭ד]][[H9023\|וֹ]] [[H9003\|בַּ]][[H6747\|צַּלָּ֑חַת]] [[H3811\|נִ֝לְאָ֗ה]] [[H9005\|לַֽ]][[H7725G\|הֲשִׁיבָ֥]][[H9034\|הּ]] [[H0413\|אֶל]][[H9014\|־]] [[H6310G\|פִּֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDLENESS|IDLENESS]] • [[topic SLOTHFULNESS|SLOTHFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.26.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.26.14|<< Proverbs 26:14]]</td><td align="center" style="border:none;">[[Prov.26|Proverbs 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.26.16|Proverbs 26:16 >>]]</td></tr></table>
 

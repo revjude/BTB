@@ -1,8 +1,69 @@
+---
+title: Numbers 14:13
+type: Verse
+kjv: "And Moses said unto the LORD, Then the Egyptians shall hear it, (for thou broughtest up this people in thy might from among them;)"
+bsb: "But Moses said to the LORD, “The Egyptians will hear of it, for by Your strength You brought this people from among them."
+hebrew: "וַיֹּ֥אמֶר מֹשֶׁ֖ה אֶל־ יְהוָ֑ה וְשָׁמְע֣וּ מִצְרַ֔יִם כִּֽי־ הֶעֱלִ֧יתָ בְכֹחֲךָ֛ אֶת־ הָעָ֥ם הַזֶּ֖ה מִקִּרְבּֽוֹ׃"
+pericope: "[[Num.14.13 Moses Intercedes for Israel|Moses Intercedes for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 14
+book/chapter: "[[Num.14|Numbers 14]]"
+chronological_order: 174
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4872]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H8085G]]"
+- "[[H4713]]"
+- "[[H3588A]]"
+- "[[H5927H]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9006]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 14:13**<big><big>[[Num.14.13 Moses Intercedes for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto the LORD, Then the Egyptians shall hear [it], (for thou broughtest up this people in thy might from among them;)
 <small><sub>**BSB:**</sub></small>
 But Moses said to the LORD, “The Egyptians will hear of it, for by Your strength You brought this people from among them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H4872\|מֹשֶׁ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וְ]][[H8085G\|שָׁמְע֣וּ]] [[H4713\|מִצְרַ֔יִם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5927H\|הֶעֱלִ֧יתָ]] [[H9003\|בְ]][[H3581B\|כֹחֲ]][[H9021\|ךָ֛]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9006\|מִ]][[H7130G\|קִּרְבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.14.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.14.12|<< Numbers 14:12]]</td><td align="center" style="border:none;">[[Num.14|Numbers 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.14.14|Numbers 14:14 >>]]</td></tr></table>
 

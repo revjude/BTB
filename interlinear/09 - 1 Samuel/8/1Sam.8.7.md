@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 8:7
+type: Verse
+kjv: "And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them."
+bsb: "And the LORD said to Samuel, “Listen to the voice of the people in all that they say to you. For it is not you they have rejected, but they have rejected Me as their king."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ שְׁמוּאֵ֔ל שְׁמַע֙ בְּק֣וֹל הָעָ֔ם לְכֹ֥ל אֲשֶׁר־ יֹאמְר֖וּ אֵלֶ֑יךָ כִּ֣י לֹ֤א אֹֽתְךָ֙ מָאָ֔סוּ כִּֽי־ אֹתִ֥י מָאֲס֖וּ מִמְּלֹ֥ךְ עֲלֵיהֶֽם׃"
+pericope: "[[1Sam.8.1 Israel Demands a King|Israel Demands a King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 8
+book/chapter: "[[1Sam.8|1 Samuel 8]]"
+chronological_order: 287
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SAMUEL|SAMUEL]]"
+- "[[topic THEOCRACY|THEOCRACY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8050G]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H0853]]"
+- "[[H3988A]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 8:7**<big><big>[[1Sam.8.1 Israel Demands a King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Samuel, Hearken unto the voice of the people in all that they say unto thee: for they have not rejected thee, but they have rejected me, that I should not reign over them.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Samuel, “Listen to the voice of the people in all that they say to you. For it is not you they have rejected, but they have rejected Me as their king.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H8050G\|שְׁמוּאֵ֔ל]] [[H8085H\|שְׁמַע֙]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9005\|לְ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|יֹאמְר֖וּ]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H3588A\|כִּ֣י]] [[H3808\|לֹ֤א]] [[H0853\|אֹֽתְ]][[H9031\|ךָ֙]] [[H3988A\|מָאָ֔סוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0853\|אֹתִ֥]][[H9030\|י]] [[H3988A\|מָאֲס֖וּ]] [[H9006\|מִ]][[H4427A\|מְּלֹ֥ךְ]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic ISRAEL|ISRAEL]] • [[topic SAMUEL|SAMUEL]] • [[topic THEOCRACY|THEOCRACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.8.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.8.6|<< 1 Samuel 8:6]]</td><td align="center" style="border:none;">[[1Sam.8|1 Samuel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.8.8|1 Samuel 8:8 >>]]</td></tr></table>
 

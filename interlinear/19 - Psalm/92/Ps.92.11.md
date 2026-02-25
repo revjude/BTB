@@ -1,8 +1,56 @@
+---
+title: Psalm 92:11
+type: Verse
+kjv: "Mine eye also shall see my desire on mine enemies, and mine ears shall hear my desire of the wicked that rise up against me."
+bsb: "My eyes see the downfall of my enemies; my ears hear the wailing of my wicked foes."
+hebrew: "וַתַּבֵּ֥ט עֵינִ֗י בְּשׁ֫וּרָ֥י בַּקָּמִ֖ים עָלַ֥י מְרֵעִ֗ים תִּשְׁמַ֥עְנָה אָזְנָֽי׃"
+pericope: "[[Ps.92.1 How Great Are Your Works!|How Great Are Your Works!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 92
+book/chapter: "[[Ps.92|Psalm 92]]"
+chronological_order: 519
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5027]]"
+- "[[H5869A]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H7790]]"
+- "[[H6965J]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H7489A]]"
+- "[[H8085G]]"
+- "[[H0241G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 92:11**<big><big>[[Ps.92.1 How Great Are Your Works!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mine eye also shall see [my desire] on mine enemies, [and] mine ears shall hear [my desire] of the wicked that rise up against me.
 <small><sub>**BSB:**</sub></small>
 My eyes see the downfall of my enemies; my ears hear the wailing of my wicked foes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5027\|תַּבֵּ֥ט]] [[H5869A\|עֵינִ֗]][[H9020\|י]] [[H9003\|בְּ]][[H7790\|שׁ֫וּרָ֥]][[H9020\|י]] [[H9003\|בַּ]][[H6965J\|קָּמִ֖ים]] [[H5921A\|עָלַ֥]][[H9030\|י]] [[H7489A\|מְרֵעִ֗ים]] [[H8085G\|תִּשְׁמַ֥עְנָה]] [[H0241G\|אָזְנָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SABBATH|SABBATH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.92.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.92.10|<< Psalms 92:10]]</td><td align="center" style="border:none;">[[Ps.92|Psalms 92]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.92.12|Psalms 92:12 >>]]</td></tr></table>
 

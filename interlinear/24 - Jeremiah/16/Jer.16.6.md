@@ -1,8 +1,62 @@
+---
+title: Jeremiah 16:6
+type: Verse
+kjv: "Both the great and the small shall die in this land: they shall not be buried, neither shall men lament for them, nor cut themselves, nor make themselves bald for them:"
+bsb: "“Both great and small will die in this land. They will not be buried or mourned, nor will anyone cut himself or shave his head for them."
+hebrew: "וּמֵ֨תוּ גְדֹלִ֧ים וּקְטַנִּ֛ים בָּאָ֥רֶץ הַזֹּ֖את לֹ֣א יִקָּבֵ֑רוּ וְלֹֽא־ יִסְפְּד֣וּ לָהֶ֔ם וְלֹ֣א יִתְגֹּדַ֔ד וְלֹ֥א יִקָּרֵ֖חַ לָהֶֽם׃"
+pericope: "[[Jer.16.1 Disaster Predicted|Disaster Predicted]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 16
+book/chapter: "[[Jer.16|Jeremiah 16]]"
+chronological_order: 733
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BALDNESS|BALDNESS]]"
+- "[[topic CUTTING|CUTTING]]"
+- "[[topic MOURNING|MOURNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H6996A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H2063]]"
+- "[[H3808]]"
+- "[[H6912]]"
+- "[[H9014]]"
+- "[[H5594]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H1413]]"
+- "[[H7139]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 16:6**<big><big>[[Jer.16.1 Disaster Predicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Both the great and the small shall die in this land: they shall not be buried, neither shall [men] lament for them, nor cut themselves, nor make themselves bald for them:
 <small><sub>**BSB:**</sub></small>
 “Both great and small will die in this land. They will not be buried or mourned, nor will anyone cut himself or shave his head for them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4191\|מֵ֨תוּ]] [[H1419A\|גְדֹלִ֧ים]] [[H9002\|וּ]][[H6996A\|קְטַנִּ֛ים]] [[H9003\|בָּ]][[H0776G\|אָ֥רֶץ]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H3808\|לֹ֣א]] [[H6912\|יִקָּבֵ֑רוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5594\|יִסְפְּד֣וּ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1413\|יִתְגֹּדַ֔ד]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7139\|יִקָּרֵ֖חַ]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALDNESS|BALDNESS]] • [[topic CUTTING|CUTTING]] • [[topic MOURNING|MOURNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.16.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.16.5|<< Jeremiah 16:5]]</td><td align="center" style="border:none;">[[Jer.16|Jeremiah 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.16.7|Jeremiah 16:7 >>]]</td></tr></table>
 

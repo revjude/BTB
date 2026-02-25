@@ -1,8 +1,61 @@
+---
+title: Isaiah 37:9
+type: Verse
+kjv: "And he heard say concerning Tirhakah king of Ethiopia, He is come forth to make war with thee. And when he heard it, he sent messengers to Hezekiah, saying,"
+bsb: "Now Sennacherib had been warned about Tirhakah king of Cush: “He has set out to fight against you.” On hearing this, Sennacherib sent messengers to Hezekiah, saying,"
+hebrew: "וַיִּשְׁמַ֗ע עַל־ תִּרְהָ֤קָה מֶֽלֶךְ־ כּוּשׁ֙ לֵאמֹ֔ר יָצָ֖א לְהִלָּחֵ֣ם אִתָּ֑ךְ וַיִּשְׁמַע֙ וַיִּשְׁלַ֣ח מַלְאָכִ֔ים אֶל־ חִזְקִיָּ֖הוּ לֵאמֹֽר׃"
+pericope: "[[Isa.37.8 Sennacherib’s Blasphemous Letter|Sennacherib’s Blasphemous Letter]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic LETTERS|LETTERS]]"
+- "[[topic LIBNAH|LIBNAH]]"
+- "[[topic TIRHAKAH|TIRHAKAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8640]]"
+- "[[H4428G]]"
+- "[[H3568A]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3318G]]"
+- "[[H3898A]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H2396G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:9**<big><big>[[Isa.37.8 Sennacherib’s Blasphemous Letter|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he heard say concerning Tirhakah king of Ethiopia, He is come forth to make war with thee. And when he heard [it], he sent messengers to Hezekiah, saying,
 <small><sub>**BSB:**</sub></small>
 Now Sennacherib had been warned about Tirhakah king of Cush: “He has set out to fight against you.” On hearing this, Sennacherib sent messengers to Hezekiah, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085G\|יִּשְׁמַ֗ע]] [[H5921A\|עַל]][[H9014\|־]] [[H8640\|תִּרְהָ֤קָה]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3568A\|כּוּשׁ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H3318G\|יָצָ֖א]] [[H9005\|לְ]][[H3898A\|הִלָּחֵ֣ם]] [[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H9001\|וַ]][[H8085G\|יִּשְׁמַע֙]] [[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H4397G\|מַלְאָכִ֔ים]] [[H0413\|אֶל]][[H9014\|־]] [[H2396G\|חִזְקִיָּ֖הוּ]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LETTERS|LETTERS]] • [[topic LIBNAH|LIBNAH]] • [[topic TIRHAKAH|TIRHAKAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.8|<< Isaiah 37:8]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.10|Isaiah 37:10 >>]]</td></tr></table>
 

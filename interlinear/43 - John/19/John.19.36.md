@@ -1,10 +1,55 @@
+---
+title: John 19:36
+type: Verse
+kjv: "For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken."
+bsb: "Now these things happened so that the Scripture would be fulfilled: “Not one of His bones will be broken.”"
+greek: "ἐγένετο γὰρ ταῦτα ἵνα ἡ γραφὴ πληρωθῇ· ὀστοῦν οὐ συντριβήσεται ἀπ᾽ αὐτοῦ."
+pericope: "[[John.19.31 Jesus’ Side Is Pierced|Jesus’ Side Is Pierced]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 19
+book/chapter: "[[John.19|John 19]]"
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BONES|BONES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G1096]]"
+- "[[G1063]]"
+- "[[G3778]]"
+- "[[G2443]]"
+- "[[G3588]]"
+- "[[G1124]]"
+- "[[G4137]]"
+- "[[G3747]]"
+- "[[G3756]]"
+- "[[G4937]]"
+- "[[G0575]]"
+- "[[G0846]]"
+texts:
+- NKO
+- o
+---
+
 **John 19:36**<big><big>[[John.19.31 Jesus’ Side Is Pierced|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.
 <small><sub>**BSB:**</sub></small>
 Now these things happened so that the Scripture would be fulfilled: “Not one of His bones will be broken.”
-<small><sub>**Literal:**</sub></small>
-Took place for these things so that the Scripture may be fulfilled: Bone not one will be broken from of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.35|<< John 19:35]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.37|John 19:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|ἐγένετο]]  [[G1063\|γὰρ]]  [[G3778\|ταῦτα]]  [[G2443\|ἵνα]]  [[G3588\|ἡ]]  [[G1124\|γραφὴ]]  [[G4137\|πληρωθῇ·]]  [[G3747\|ὀστοῦν]]  [[G3756\|οὐ]]  [[G4937\|συντριβήσεται]]  [[G0575\|ἀπ᾽]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BONES|BONES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.19.35|<< John 19:35]]</td><td align="center" style="border:none;">[[John.19|John 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.19.37|John 19:37 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **John 19:36** is...
 > $\quad$ referencing: [[LXX.Exod.12.46|Exod 12:46]] ☩ [[LXX.Num.9.12|Num 9:12]] ☩ [[LXX.Ps.34.20|Ps 34:20]]

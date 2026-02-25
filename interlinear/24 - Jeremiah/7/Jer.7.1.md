@@ -1,8 +1,57 @@
+---
+title: Jeremiah 7:1
+type: Verse
+kjv: "The word that came to Jeremiah from the LORD, saying,"
+bsb: "This is the word that came to Jeremiah from the LORD, saying,"
+hebrew: "הַדָּבָר֙ אֲשֶׁ֣ר הָיָ֣ה אֶֽל־ יִרְמְיָ֔הוּ מֵאֵ֥ת יְהוָ֖ה לֵאמֹֽר׃"
+pericope: "[[Jer.7.1 Jeremiah’s Message at the Temple Gate|Jeremiah’s Message at the Temple Gate]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3414L]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:1**<big><big>[[Jer.7.1 Jeremiah’s Message at the Temple Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word that came to Jeremiah from the LORD, saying,
 <small><sub>**BSB:**</sub></small>
 This is the word that came to Jeremiah from the LORD, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H1697G\|דָּבָר֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָיָ֣ה]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֔הוּ]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.30|<< Jeremiah 6:30]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.2|Jeremiah 7:2 >>]]</td></tr></table>
 

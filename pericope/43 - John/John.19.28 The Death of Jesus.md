@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Death of Jesus
+type: Pericope
 pericope: "[[John.19.28 The Death of Jesus|The Death of Jesus]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: John
 chapter: 19
 book/chapter: "[[John.19|John 19]]"
-genre:
+chronological_order: 1013
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 3
 verses:
 - "[[John.19.28]]"
 - "[[John.19.29]]"
 - "[[John.19.30]]"
 ---
 
-[[John.19|John 19:28 - John 19:30]]
+<small>[[John.19|John 19:28-30]]</small>
 *The Death of Jesus*
 
 [[John.19.28|28]] After this, Jesus knowing that all things were now accomplished, that the scripture might be fulfilled, saith, I thirst.

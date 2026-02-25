@@ -1,10 +1,64 @@
+---
+title: Luke 6:10
+type: Verse
+kjv: "And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other."
+bsb: "And after looking around at all of them, He said to the man, “Stretch out your hand.” He did so, and it was restored."
+jesus_said: "Stretch forth thy hand."
+greek: "καὶ περιβλεψάμενος πάντας αὐτοὺς εἶπεν αὐτῷ· ἔκτεινον τὴν χεῖρά σου. ὁ δὲ ἐποίησεν οὕτως· καὶ ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ ὑγιὴς ὡς ἡ ἄλλη."
+pericope: "[[Luke.6.6 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4017]]"
+- "[[G3956]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G1614]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G4771]]"
+- "[[G1161]]"
+- "[[G4160G]]"
+- "[[G3779]]"
+- "[[G0600]]"
+- "[[G5199]]"
+- "[[G5613]]"
+- "[[G0243]]"
+texts:
+- NKO
+- N(K)O
+- k
+- KO
+---
+
 **Luke 6:10**<big><big>[[Luke.6.6 Jesus Heals on the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other.
 <small><sub>**BSB:**</sub></small>
 And after looking around at all of them, He said to the man, “Stretch out your hand.” He did so, and it was restored.
-<small><sub>**Literal:**</sub></small>
-And having looked around all on them He said to him; do stretch out the hand of you. <the> And he did thus; and was restored the hand of him sound as <the> another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.9|<< Luke 6:9]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.11|Luke 6:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4017\|περιβλεψάμενος]]  [[G3956\|πάντας]]  [[G0846\|αὐτοὺς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G1614\|ἔκτεινον]]  [[G3588\|τὴν]]  [[G5495\|χεῖρά]]  [[G4771\|σου.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4160G\|ἐποίησεν]]  [[G3779\|οὕτως·]]  [[G2532\|καὶ]]  [[G0600\|ἀπεκατεστάθη]]  [[G3588\|ἡ]]  [[G5495\|χεὶρ]]  [[G0846\|αὐτοῦ]]  [[G5199\|ὑγιὴς]]  [[G5613\|ὡς]]  [[G3588\|ἡ]]  [[G0243\|ἄλλη.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.9|<< Luke 6:9]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.11|Luke 6:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

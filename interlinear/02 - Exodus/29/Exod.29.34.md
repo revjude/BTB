@@ -1,8 +1,69 @@
+---
+title: Exodus 29:34
+type: Verse
+kjv: "And if ought of the flesh of the consecrations, or of the bread, remain unto the morning, then thou shalt burn the remainder with fire: it shall not be eaten, because it is holy."
+bsb: "And if any of the meat of ordination or any bread is left until the morning, you are to burn up the remainder. It must not be eaten, because it is sacred."
+hebrew: "וְֽאִם־ יִוָּתֵ֞ר מִבְּשַׂ֧ר הַמִּלֻּאִ֛ים וּמִן־ הַלֶּ֖חֶם עַד־ הַבֹּ֑קֶר וְשָׂרַפְתָּ֤ אֶת־ הַנּוֹתָר֙ בָּאֵ֔שׁ לֹ֥א יֵאָכֵ֖ל כִּי־ קֹ֥דֶשׁ הֽוּא׃"
+pericope: "[[Exod.29.31 Food for the Priests|Food for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3498]]"
+- "[[H9006]]"
+- "[[H1320]]"
+- "[[H9009]]"
+- "[[H4394]]"
+- "[[H4480A]]"
+- "[[H3899H]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H9001]]"
+- "[[H8313]]"
+- "[[H0853]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H3588A]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:34**<big><big>[[Exod.29.31 Food for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if ought of the flesh of the consecrations, or of the bread, remain unto the morning, then thou shalt burn the remainder with fire: it shall not be eaten, because it [is] holy.
 <small><sub>**BSB:**</sub></small>
 And if any of the meat of ordination or any bread is left until the morning, you are to burn up the remainder. It must not be eaten, because it is sacred.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְֽ]][[H0518A\|אִם]][[H9014\|־]] [[H3498\|יִוָּתֵ֞ר]] [[H9006\|מִ]][[H1320\|בְּשַׂ֧ר]] [[H9009\|הַ]][[H4394\|מִּלֻּאִ֛ים]] [[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3899H\|לֶּ֖חֶם]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H1242\|בֹּ֑קֶר]] [[H9001\|וְ]][[H8313\|שָׂרַפְתָּ֤]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3498\|נּוֹתָר֙]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H3808\|לֹ֥א]] [[H0398\|יֵאָכֵ֖ל]] [[H3588A\|כִּי]][[H9014\|־]] [[H6944G\|קֹ֥דֶשׁ]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRIEST|PRIEST]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.33|<< Exodus 29:33]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.35|Exodus 29:35 >>]]</td></tr></table>
 

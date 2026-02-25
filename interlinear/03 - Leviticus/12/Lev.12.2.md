@@ -1,8 +1,68 @@
+---
+title: Leviticus 12:2
+type: Verse
+kjv: "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."
+bsb: "“Say to the Israelites, ‘A woman who becomes pregnant and gives birth to a son will be unclean for seven days, as she is during the days of her menstruation."
+hebrew: "דַּבֵּ֞ר אֶל־ בְּנֵ֤י יִשְׂרָאֵל֙ לֵאמֹ֔ר אִשָּׁה֙ כִּ֣י תַזְרִ֔יעַ וְיָלְדָ֖ה זָכָ֑ר וְטָֽמְאָה֙ שִׁבְעַ֣ת יָמִ֔ים כִּימֵ֛י נִדַּ֥ת דְּוֹתָ֖הּ תִּטְמָֽא׃"
+pericope: "[[Lev.12.1 Purification after Childbirth|Purification after Childbirth]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 12
+book/chapter: "[[Lev.12|Leviticus 12]]"
+chronological_order: 144
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0802G]]"
+- "[[H3588A]]"
+- "[[H2232]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H2145]]"
+- "[[H2930A]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9004]]"
+- "[[H5079]]"
+- "[[H1738]]"
+- "[[H9044]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 12:2**<big><big>[[Lev.12.1 Purification after Childbirth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.
 <small><sub>**BSB:**</sub></small>
 “Say to the Israelites, ‘A woman who becomes pregnant and gives birth to a son will be unclean for seven days, as she is during the days of her menstruation.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֞ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H0802G\|אִשָּׁה֙]] [[H3588A\|כִּ֣י]] [[H2232\|תַזְרִ֔יעַ]] [[H9001\|וְ]][[H3205\|יָלְדָ֖ה]] [[H2145\|זָכָ֑ר]] [[H9001\|וְ]][[H2930A\|טָֽמְאָה֙]] [[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֔ים]] [[H9004\|כִּ]][[H3117G\|ימֵ֛י]] [[H5079\|נִדַּ֥ת]] [[H1738\|דְּוֹתָ֖]][[H9044\|הּ]] [[H2930A\|תִּטְמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEFILEMENT|DEFILEMENT]] • [[topic SANITATION|SANITATION]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.12.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.12.1|<< Leviticus 12:1]]</td><td align="center" style="border:none;">[[Lev.12|Leviticus 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.12.3|Leviticus 12:3 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Psalm 119:131
+type: Verse
+kjv: "I opened my mouth, and panted: for I longed for thy commandments."
+bsb: "I open my mouth and pant, longing for Your commandments."
+hebrew: "פִּֽי־ פָ֭עַרְתִּי וָאֶשְׁאָ֑פָה כִּ֖י לְמִצְוֹתֶ֣יךָ יָאָֽבְתִּי׃"
+pericope: "[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|Your Word Is a Lamp to My Feet - PE]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H9014]]"
+- "[[H6473]]"
+- "[[H9001]]"
+- "[[H7602A]]"
+- "[[H9012]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H4687]]"
+- "[[H9021]]"
+- "[[H2968]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:131**<big><big>[[Ps.119.129 Your Word Is a Lamp to My Feet - PE|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I opened my mouth, and panted: for I longed for thy commandments.
 <small><sub>**BSB:**</sub></small>
 I open my mouth and pant, longing for Your commandments.
+<small><sub>**Hebrew:**</sub></small>
+[[H6310G\|פִּֽ]][[H9020\|י]][[H9014\|־]] [[H6473\|פָ֭עַרְתִּי]] [[H9001\|וָ]][[H7602A\|אֶשְׁאָ֑פָ]][[H9012\|ה]] [[H3588A\|כִּ֖י]] [[H9005\|לְ]][[H4687\|מִצְוֹתֶ֣י]][[H9021\|ךָ]] [[H2968\|יָאָֽבְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.131|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.130|<< Psalms 119:130]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.132|Psalms 119:132 >>]]</td></tr></table>
 

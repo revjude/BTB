@@ -1,8 +1,57 @@
+---
+title: 1 Kings 5:13
+type: Verse
+kjv: "And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men."
+bsb: "Then King Solomon conscripted a labor force of 30,000 men from all Israel."
+hebrew: "וַיַּ֨עַל הַמֶּ֧לֶךְ שְׁלֹמֹ֛ה מַ֖ס מִכָּל־ יִשְׂרָאֵ֑ל וַיְהִ֣י הַמַּ֔ס שְׁלֹשִׁ֥ים אֶ֖לֶף אִֽישׁ׃"
+pericope: "[[1Kgs.5.13 Solomon’s Labor Force|Solomon’s Labor Force]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8010]]"
+- "[[H4522]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H7970]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 5:13**<big><big>[[1Kgs.5.13 Solomon’s Labor Force|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men.
 <small><sub>**BSB:**</sub></small>
 Then King Solomon conscripted a labor force of 30,000 men from all Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927H\|יַּ֨עַל]] [[H9009\|הַ]][[H4428G\|מֶּ֧לֶךְ]] [[H8010\|שְׁלֹמֹ֛ה]] [[H4522\|מַ֖ס]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9009\|הַ]][[H4522\|מַּ֔ס]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H0376G\|אִֽישׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.12|<< 1 Kings 5:12]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.14|1 Kings 5:14 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Job 9:3
+type: Verse
+kjv: "If he will contend with him, he cannot answer him one of a thousand."
+bsb: "If one wished to contend with God, he could not answer Him one time out of a thousand."
+hebrew: "אִם־ יַ֭חְפֹּץ לָרִ֣יב עִמּ֑וֹ לֹֽא־ יַ֝עֲנֶ֗נּוּ אַחַ֥ת מִנִּי־ אָֽלֶף׃"
+pericope: "[[Job.9.1 Job：How Can I Contend with God？|Job：How Can I Contend with God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 9
+book/chapter: "[[Job.9|Job 9]]"
+chronological_order: 20
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2654A]]"
+- "[[H9005]]"
+- "[[H7378]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3808]]"
+- "[[H6030B]]"
+- "[[H0259]]"
+- "[[H4480A]]"
+- "[[H0505G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 9:3**<big><big>[[Job.9.1 Job：How Can I Contend with God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If he will contend with him, he cannot answer him one of a thousand.
 <small><sub>**BSB:**</sub></small>
 If one wished to contend with God, he could not answer Him one time out of a thousand.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H2654A\|יַ֭חְפֹּץ]] [[H9005\|לָ]][[H7378\|רִ֣יב]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H6030B\|יַ֝עֲנֶ֗]][[H9033\|נּוּ]] [[H0259\|אַחַ֥ת]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H0505G\|אָֽלֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.9.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.9.2|<< Job 9:2]]</td><td align="center" style="border:none;">[[Job.9|Job 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.9.4|Job 9:4 >>]]</td></tr></table>
 

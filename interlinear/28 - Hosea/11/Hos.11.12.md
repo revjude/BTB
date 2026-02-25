@@ -1,8 +1,60 @@
+---
+title: Hosea 11:12
+type: Verse
+kjv: "Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints."
+bsb: "Ephraim surrounds Me with lies, the house of Israel with deceit; but Judah still walks with God and is faithful to the Holy One."
+hebrew: "סְבָבֻ֤נִי בְכַ֙חַשׁ֙ אֶפְרַ֔יִם וּבְמִרְמָ֖ה בֵּ֣ית יִשְׂרָאֵ֑ל וִֽיהוּדָ֗ה עֹ֥ד רָד֙ עִם־ אֵ֔ל וְעִם־ קְדוֹשִׁ֖ים נֶאֱמָֽן׃"
+pericope: "[[Hos.11.8 God’s Love for Israel|God’s Love for Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 11
+book/chapter: "[[Hos.11|Hosea 11]]"
+chronological_order: 652
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+strongs:
+- "[[H5437H]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H3585]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H4820]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H5750]]"
+- "[[H7300]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H6918G]]"
+- "[[H0539]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 11:12**<big><big>[[Hos.11.8 God’s Love for Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.
 <small><sub>**BSB:**</sub></small>
 Ephraim surrounds Me with lies, the house of Israel with deceit; but Judah still walks with God and is faithful to the Holy One.
+<small><sub>**Hebrew:**</sub></small>
+[[H5437H\|סְבָבֻ֤]][[H9030\|נִי]] [[H9003\|בְ]][[H3585\|כַ֙חַשׁ֙]] [[H0669G\|אֶפְרַ֔יִם]] [[H9002\|וּ]][[H9003\|בְ]][[H4820\|מִרְמָ֖ה]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וִֽ]][[H3063G\|יהוּדָ֗ה]] [[H5750\|עֹ֥ד]] [[H7300\|רָד֙]] [[H5973A\|עִם]][[H9014\|־]] [[H0410G\|אֵ֔ל]] [[H9002\|וְ]][[H5973A\|עִם]][[H9014\|־]] [[H6918G\|קְדוֹשִׁ֖ים]] [[H0539\|נֶאֱמָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEIT|DECEIT]] • [[topic DECISION|DECISION]] • [[topic HYPOCRISY|HYPOCRISY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.11.11|<< Hosea 11:11]]</td><td align="center" style="border:none;">[[Hos.11|Hosea 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.1|Hosea 12:1 >>]]</td></tr></table>
 

@@ -1,8 +1,55 @@
+---
+title: Joshua 21:26
+type: Verse
+kjv: "All the cities were ten with their suburbs for the families of the children of Kohath that remained."
+bsb: "In all, ten cities, together with their pasturelands, were given to the rest of the Kohathite clans."
+hebrew: "כָּל־ עָרִ֥ים עֶ֖שֶׂר וּמִגְרְשֵׁיהֶ֑ן לְמִשְׁפְּח֥וֹת בְּנֵֽי־ קְהָ֖ת הַנּוֹתָרִֽים׃ ס"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5892B]]"
+- "[[H6235]]"
+- "[[H9002]]"
+- "[[H4054]]"
+- "[[H9029]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H1121G]]"
+- "[[H6955]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 21:26**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the cities [were] ten with their suburbs for the families of the children of Kohath that remained.
 <small><sub>**BSB:**</sub></small>
 In all, ten cities, together with their pasturelands, were given to the rest of the Kohathite clans.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H5892B\|עָרִ֥ים]] [[H6235\|עֶ֖שֶׂר]] [[H9002\|וּ]][[H4054\|מִגְרְשֵׁי]][[H9029\|הֶ֑ן]] [[H9005\|לְ]][[H4940\|מִשְׁפְּח֥וֹת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H6955\|קְהָ֖ת]] [[H9009\|הַ]][[H3498\|נּוֹתָרִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.25|<< Joshua 21:25]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.27|Joshua 21:27 >>]]</td></tr></table>
 
@@ -15,7 +62,7 @@ In all, ten cities, together with their pasturelands, were given to the rest of 
 | [belonged] to [the] clans of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H4940\|מִשְׁפְּח֥וֹת]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> mish.pe.Chot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] descendants of  |**<big>&#8207;[[H1121G\|בְּנֵֽי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Kohath  |**<big>&#8207;[[H6955\|קְהָ֖ת]]&#8207; </big>**| ke.Hat<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| which remained  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3498\|נּוֹתָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.ta.Rim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| which remained  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3498\|נּוֹתָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.ta.Rim<small><sup>[[HVNrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.25|<< Joshua 21:25]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.27|Joshua 21:27 >>]]</td></tr></table>
 
 

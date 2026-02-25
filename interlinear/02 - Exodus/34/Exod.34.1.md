@@ -1,8 +1,70 @@
+---
+title: Exodus 34:1
+type: Verse
+kjv: "And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon these tables the words that were in the first tables, which thou brakest."
+bsb: "Then the LORD said to Moses, “Chisel out two stone tablets like the originals, and I will write on them the words that were on the first tablets, which you broke."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ מֹשֶׁ֔ה פְּסָל־ לְךָ֛ שְׁנֵֽי־ לֻחֹ֥ת אֲבָנִ֖ים כָּרִאשֹׁנִ֑ים וְכָתַבְתִּי֙ עַל־ הַלֻּחֹ֔ת אֶת־ הַדְּבָרִ֔ים אֲשֶׁ֥ר הָי֛וּ עַל־ הַלֻּחֹ֥ת הָרִאשֹׁנִ֖ים אֲשֶׁ֥ר שִׁבַּֽרְתָּ׃"
+pericope: "[[Exod.34.1 New Stone Tablets|New Stone Tablets]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 34
+book/chapter: "[[Exod.34|Exodus 34]]"
+chronological_order: 126
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic LAW|LAW]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TABLE|TABLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H6458]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H8147]]"
+- "[[H3871]]"
+- "[[H0068G]]"
+- "[[H9004]]"
+- "[[H7223G]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H7665]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 34:1**<big><big>[[Exod.34.1 New Stone Tablets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon [these] tables the words that were in the first tables, which thou brakest.
 <small><sub>**BSB:**</sub></small>
 Then the LORD said to Moses, “Chisel out two stone tablets like the originals, and I will write on them the words that were on the first tablets, which you broke.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H6458\|פְּסָל]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H8147\|שְׁנֵֽי]][[H9014\|־]] [[H3871\|לֻחֹ֥ת]] [[H0068G\|אֲבָנִ֖ים]] [[H9004\|כָּ]][[H7223G\|רִאשֹׁנִ֑ים]] [[H9001\|וְ]][[H3789\|כָתַבְתִּי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3871\|לֻּחֹ֔ת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|הָי֛וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3871\|לֻּחֹ֥ת]] [[H9009\|הָ]][[H7223G\|רִאשֹׁנִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H7665\|שִׁבַּֽרְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LAW|LAW]] • [[topic STONES|STONES]] • [[topic TABLE|TABLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.34.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.23|<< Exodus 33:23]]</td><td align="center" style="border:none;">[[Exod.34|Exodus 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.34.2|Exodus 34:2 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Manna and Quail from Heaven
+type: Pericope
 pericope: "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
-verse_count: 21
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 16
 book/chapter: "[[Exod.16|Exodus 16]]"
-genre:
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 21
 verses:
 - "[[Exod.16.1]]"
 - "[[Exod.16.2]]"
@@ -44,7 +51,7 @@ verses:
 - "[[Exod.16.21]]"
 ---
 
-[[Exod.16|Exodus 16:1 - Exodus 16:21]]
+<small>[[Exod.16|Exodus 16:1-21]]</small>
 *Manna and Quail from Heaven*
 
 [[Exod.16.1|1]] And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which \[is\] between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.

@@ -1,8 +1,62 @@
+---
+title: Leviticus 13:11
+type: Verse
+kjv: "It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean."
+bsb: "it is a chronic skin disease and the priest must pronounce him unclean. He need not isolate him, for he is unclean."
+hebrew: "צָרַ֨עַת נוֹשֶׁ֤נֶת הִוא֙ בְּע֣וֹר בְּשָׂר֔וֹ וְטִמְּא֖וֹ הַכֹּהֵ֑ן לֹ֣א יַסְגִּרֶ֔נּוּ כִּ֥י טָמֵ֖א הֽוּא׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H6883]]"
+- "[[H3462]]"
+- "[[H1931]]"
+- "[[H9003]]"
+- "[[H5785]]"
+- "[[H1320]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H2930A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3808]]"
+- "[[H5462]]"
+- "[[H3588A]]"
+- "[[H2931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:11**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 It [is] an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he [is] unclean.
 <small><sub>**BSB:**</sub></small>
 it is a chronic skin disease and the priest must pronounce him unclean. He need not isolate him, for he is unclean.
+<small><sub>**Hebrew:**</sub></small>
+[[H6883\|צָרַ֨עַת]] [[H3462\|נוֹשֶׁ֤נֶת]] [[H1931\|הִוא֙]] [[H9003\|בְּ]][[H5785\|ע֣וֹר]] [[H1320\|בְּשָׂר֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H2930A\|טִמְּא֖]][[H9033\|וֹ]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H3808\|לֹ֣א]] [[H5462\|יַסְגִּרֶ֔]][[H9033\|נּוּ]] [[H3588A\|כִּ֥י]] [[H2931\|טָמֵ֖א]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.10|<< Leviticus 13:10]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.12|Leviticus 13:12 >>]]</td></tr></table>
 

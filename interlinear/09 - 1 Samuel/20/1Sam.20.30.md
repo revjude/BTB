@@ -1,8 +1,72 @@
+---
+title: 1 Samuel 20:30
+type: Verse
+kjv: "Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious woman, do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness?"
+bsb: "Then Saul’s anger burned against Jonathan, and he said to him, “You son of a perverse and rebellious woman! Do I not know that you have chosen the son of Jesse to your own shame and to the shame of the mother who bore you?"
+hebrew: "וַיִּֽחַר־ אַ֤ף שָׁאוּל֙ בִּיה֣וֹנָתָ֔ן וַיֹּ֣אמֶר ל֔וֹ בֶּֽן־ נַעֲוַ֖ת הַמַּרְדּ֑וּת הֲל֣וֹא יָדַ֗עְתִּי כִּֽי־ בֹחֵ֤ר אַתָּה֙ לְבֶן־ יִשַׁ֔י לְבָ֨שְׁתְּךָ֔ וּלְבֹ֖שֶׁת עֶרְוַ֥ת אִמֶּֽךָ׃"
+pericope: "[[1Sam.20.30 Saul Seeks to Kill Jonathan|Saul Seeks to Kill Jonathan]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 20
+book/chapter: "[[1Sam.20|1 Samuel 20]]"
+chronological_order: 299
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ARROW|ARROW]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H2734]]"
+- "[[H9014]]"
+- "[[H0639G]]"
+- "[[H7586G]]"
+- "[[H9003]]"
+- "[[H3083H]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1121A]]"
+- "[[H5753B]]"
+- "[[H9009]]"
+- "[[H4780]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H0977]]"
+- "[[H0859A]]"
+- "[[H3448]]"
+- "[[H1322]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6172]]"
+- "[[H0517]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 20:30**<big><big>[[1Sam.20.30 Saul Seeks to Kill Jonathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Saul’s anger was kindled against Jonathan, and he said unto him, Thou son of the perverse rebellious [woman], do not I know that thou hast chosen the son of Jesse to thine own confusion, and unto the confusion of thy mother’s nakedness?
 <small><sub>**BSB:**</sub></small>
 Then Saul’s anger burned against Jonathan, and he said to him, “You son of a perverse and rebellious woman! Do I not know that you have chosen the son of Jesse to your own shame and to the shame of the mother who bore you?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2734\|יִּֽחַר]][[H9014\|־]] [[H0639G\|אַ֤ף]] [[H7586G\|שָׁאוּל֙]] [[H9003\|בִּ]][[H3083H\|יה֣וֹנָתָ֔ן]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H5753B\|נַעֲוַ֖ת]] [[H9009\|הַ]][[H4780\|מַּרְדּ֑וּת]] [[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H3045\|יָדַ֗עְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0977\|בֹחֵ֤ר]] [[H0859A\|אַתָּה֙]] [[H9005\|לְ]][[H1121A\|בֶן]][[H9014\|־]] [[H3448\|יִשַׁ֔י]] [[H9005\|לְ]][[H1322\|בָ֨שְׁתְּ]][[H9021\|ךָ֔]] [[H9002\|וּ]][[H9005\|לְ]][[H1322\|בֹ֖שֶׁת]] [[H6172\|עֶרְוַ֥ת]] [[H0517\|אִמֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ARROW|ARROW]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MALICE|MALICE]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.20.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.20.29|<< 1 Samuel 20:29]]</td><td align="center" style="border:none;">[[1Sam.20|1 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.20.31|1 Samuel 20:31 >>]]</td></tr></table>
 

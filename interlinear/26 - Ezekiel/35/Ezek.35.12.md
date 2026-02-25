@@ -1,8 +1,67 @@
+---
+title: Ezekiel 35:12
+type: Verse
+kjv: "And thou shalt know that I am the LORD, and that I have heard all thy blasphemies which thou hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume."
+bsb: "Then you will know that I, the LORD, have heard every contemptuous word you uttered against the mountains of Israel when you said, ‘They are desolate; they are given to us to devour!’"
+hebrew: "וְֽיָדַעְתָּ֮ כִּֽי־ אֲנִ֣י יְהוָה֒ שָׁמַ֣עְתִּי׀ אֶת־ כָּל־ נָאָֽצוֹתֶ֗יךָ אֲשֶׁ֥ר אָמַ֛רְתָּ עַל־ הָרֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֣ר׀ שָׁמֵ֑מוּ לָ֥נוּ נִתְּנ֖וּ לְאָכְלָֽה׃"
+pericope: "[[Ezek.35.1 A Prophecy against Mount Seir|A Prophecy against Mount Seir]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 35
+book/chapter: "[[Ezek.35|Ezekiel 35]]"
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+strongs:
+- "[[H9001]]"
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H8085G]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H5007B]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H5921A]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H8074G]]"
+- "[[H9035]]"
+- "[[H5414G]]"
+- "[[H0402]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 35:12**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt know that I [am] the LORD, [and that] I have heard all thy blasphemies which thou hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.
 <small><sub>**BSB:**</sub></small>
 Then you will know that I, the LORD, have heard every contemptuous word you uttered against the mountains of Israel when you said, ‘They are desolate; they are given to us to devour!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ]][[H3045\|יָדַעְתָּ֮]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0589\|אֲנִ֣י]] [[H3068G\|יְהוָה֒]] [[H8085G\|שָׁמַ֣עְתִּי]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H5007B\|נָאָֽצוֹתֶ֗י]][[H9021\|ךָ]] [[H0834A\|אֲשֶׁ֥ר]] [[H0559\|אָמַ֛רְתָּ]] [[H5921A\|עַל]][[H9014\|־]] [[H2022G\|הָרֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֣ר]][[H9015\|׀]] [[H8074G\|שָׁמֵ֑מוּ]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H5414G\|נִתְּנ֖וּ]] [[H9005\|לְ]][[H0402\|אָכְלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.11|<< Ezekiel 35:11]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.13|Ezekiel 35:13 >>]]</td></tr></table>
 

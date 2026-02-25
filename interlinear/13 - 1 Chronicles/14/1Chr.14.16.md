@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 14:16
+type: Verse
+kjv: "David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer."
+bsb: "So David did as God had commanded him, and they struck down the army of the Philistines all the way from Gibeon to Gezer."
+hebrew: "וַיַּ֣עַשׂ דָּוִ֔יד כַּֽאֲשֶׁ֥ר צִוָּ֖הוּ הָֽאֱלֹהִ֑ים וַיַּכּוּ֙ אֶת־ מַחֲנֵ֣ה פְלִשְׁתִּ֔ים מִגִּבְע֖וֹן וְעַד־ גָּֽזְרָה׃"
+pericope: "[[1Chr.14.8 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GAZER|GAZER]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H1732]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H6430G]]"
+- "[[H9006]]"
+- "[[H1391]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H1507]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 14:16**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer.
 <small><sub>**BSB:**</sub></small>
 So David did as God had commanded him, and they struck down the army of the Philistines all the way from Gibeon to Gezer.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֣עַשׂ]] [[H1732\|דָּוִ֔יד]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֖]][[H9033\|הוּ]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H5221\|יַּכּוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H4264\|מַחֲנֵ֣ה]] [[H6430G\|פְלִשְׁתִּ֔ים]] [[H9006\|מִ]][[H1391\|גִּבְע֖וֹן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1507\|גָּֽזְרָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAZER|GAZER]] • [[topic GIBEON|GIBEON]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.15|<< 1 Chronicles 14:15]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.17|1 Chronicles 14:17 >>]]</td></tr></table>
 

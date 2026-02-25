@@ -1,10 +1,57 @@
+---
+title: Acts 10:19
+type: Verse
+kjv: "While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee."
+bsb: "As Peter continued to reflect on the vision, the Spirit said to him, “Behold, three men are looking for you."
+greek: "Τοῦ δὲ Πέτρου διενθυμουμένου περὶ τοῦ ὁράματος εἶπεν αὐτῷ τὸ πνεῦμα· ἰδοὺ ἄνδρες τρεῖς ζητοῦντές σε·"
+pericope: "[[Acts.10.17 Peter Called to Caesarea|Peter Called to Caesarea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MISSIONS|MISSIONS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G6018]]"
+- "[[G4012]]"
+- "[[G3705]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G4151G]]"
+- "[[G2400]]"
+- "[[G0435G]]"
+- "[[G5140]]"
+- "[[G2212]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+- NK(O)
+---
+
 **Acts 10:19**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.
 <small><sub>**BSB:**</sub></small>
 As Peter continued to reflect on the vision, the Spirit said to him, “Behold, three men are looking for you.
-<small><sub>**Literal:**</sub></small>
-<the> And Peter thinking over the vision said to him the Spirit: Behold men three are seeking you;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.18|<< Acts 10:18]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.20|Acts 10:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Τοῦ]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρου]]  [[G6018\|διενθυμουμένου]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G3705\|ὁράματος]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα·]]  [[G2400\|ἰδοὺ]]  [[G0435G\|ἄνδρες]]  [[G5140\|τρεῖς]]  [[G2212\|ζητοῦντές]]  [[G4771\|σε·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MISSIONS|MISSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.18|<< Acts 10:18]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.20|Acts 10:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

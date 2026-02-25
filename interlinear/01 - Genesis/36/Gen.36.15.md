@@ -1,8 +1,60 @@
+---
+title: Genesis 36:15
+type: Verse
+kjv: "These were dukes of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,"
+bsb: "These are the chiefs among the sons of Esau. The sons of Eliphaz the firstborn of Esau: Chiefs Teman, Omar, Zepho, Kenaz,"
+hebrew: "אֵ֖לֶּה אַלּוּפֵ֣י בְנֵֽי־ עֵשָׂ֑ו בְּנֵ֤י אֱלִיפַז֙ בְּכ֣וֹר עֵשָׂ֔ו אַלּ֤וּף תֵּימָן֙ אַלּ֣וּף אוֹמָ֔ר אַלּ֥וּף צְפ֖וֹ אַלּ֥וּף קְנַֽז׃"
+pericope: "[[Gen.36.1 The Descendants of Esau|The Descendants of Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic ELIPHAZ|ELIPHAZ]]"
+- "[[topic KENAZ|KENAZ]]"
+- "[[topic OMAR|OMAR]]"
+- "[[topic ZEPHO|ZEPHO]]"
+strongs:
+- "[[H0428]]"
+- "[[H0441B]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6215G]]"
+- "[[H0464G]]"
+- "[[H1060]]"
+- "[[H8487G]]"
+- "[[H0201]]"
+- "[[H6825]]"
+- "[[H7073G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:15**<big><big>[[Gen.36.1 The Descendants of Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] dukes of the sons of Esau: the sons of Eliphaz the firstborn [son] of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,
 <small><sub>**BSB:**</sub></small>
 These are the chiefs among the sons of Esau. The sons of Eliphaz the firstborn of Esau: Chiefs Teman, Omar, Zepho, Kenaz,
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֖לֶּה]] [[H0441B\|אַלּוּפֵ֣י]] [[H1121A\|בְנֵֽי]][[H9014\|־]] [[H6215G\|עֵשָׂ֑ו]] [[H1121A\|בְּנֵ֤י]] [[H0464G\|אֱלִיפַז֙]] [[H1060\|בְּכ֣וֹר]] [[H6215G\|עֵשָׂ֔ו]] [[H0441B\|אַלּ֤וּף]] [[H8487G\|תֵּימָן֙]] [[H0441B\|אַלּ֣וּף]] [[H0201\|אוֹמָ֔ר]] [[H0441B\|אַלּ֥וּף]] [[H6825\|צְפ֖וֹ]] [[H0441B\|אַלּ֥וּף]] [[H7073G\|קְנַֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic ELIPHAZ|ELIPHAZ]] • [[topic KENAZ|KENAZ]] • [[topic OMAR|OMAR]] • [[topic ZEPHO|ZEPHO]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.14|<< Genesis 36:14]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.16|Genesis 36:16 >>]]</td></tr></table>
 

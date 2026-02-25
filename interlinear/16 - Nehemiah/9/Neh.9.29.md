@@ -1,8 +1,77 @@
+---
+title: Nehemiah 9:29
+type: Verse
+kjv: "And testifiedst against them, that thou mightest bring them again unto thy law: yet they dealt proudly, and hearkened not unto thy commandments, but sinned against thy judgments, (which if a man do, he shall live in them;) and withdrew the shoulder, and hardened their neck, and would not hear."
+bsb: "You admonished them to turn back to Your law, but they were arrogant and disobeyed Your commandments. They sinned against Your ordinances, by which a man will live if he practices them. They turned a stubborn shoulder; they stiffened their necks and would not obey."
+hebrew: "וַתָּ֨עַד בָּהֶ֜ם לַהֲשִׁיבָ֣ם אֶל־ תּוֹרָתֶ֗ךָ וְהֵ֨מָּה הֵזִ֜ידוּ וְלֹא־ שָׁמְע֤וּ לְמִצְוֹתֶ֙יךָ֙ וּבְמִשְׁפָּטֶ֣יךָ חָֽטְאוּ־ בָ֔ם אֲשֶׁר־ יַעֲשֶׂ֥ה אָדָ֖ם וְחָיָ֣ה בָהֶ֑ם וַיִּתְּנ֤וּ כָתֵף֙ סוֹרֶ֔רֶת וְעָרְפָּ֥ם הִקְשׁ֖וּ וְלֹ֥א שָׁמֵֽעוּ׃"
+pericope: "[[Neh.9.1 The People Confess Their Sins|The People Confess Their Sins]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 9
+book/chapter: "[[Neh.9|Nehemiah 9]]"
+chronological_order: 921
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic SIN|SIN]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5749B]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H7725O]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H2102]]"
+- "[[H3808]]"
+- "[[H8085H]]"
+- "[[H4687]]"
+- "[[H4941G]]"
+- "[[H2398]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H0120G]]"
+- "[[H2421]]"
+- "[[H5414H]]"
+- "[[H3802]]"
+- "[[H5637]]"
+- "[[H6203]]"
+- "[[H9028]]"
+- "[[H7185]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 9:29**<big><big>[[Neh.9.1 The People Confess Their Sins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And testifiedst against them, that thou mightest bring them again unto thy law: yet they dealt proudly, and hearkened not unto thy commandments, but sinned against thy judgments, (which if a man do, he shall live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.
 <small><sub>**BSB:**</sub></small>
 You admonished them to turn back to Your law, but they were arrogant and disobeyed Your commandments. They sinned against Your ordinances, by which a man will live if he practices them. They turned a stubborn shoulder; they stiffened their necks and would not obey.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5749B\|תָּ֨עַד]] [[H9003\|בָּ]][[H9038\|הֶ֜ם]] [[H9005\|לַ]][[H7725O\|הֲשִׁיבָ֣]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H8451\|תּוֹרָתֶ֗]][[H9021\|ךָ]] [[H9002\|וְ]][[H1992\|הֵ֨מָּה]] [[H2102\|הֵזִ֜ידוּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H8085H\|שָׁמְע֤וּ]] [[H9005\|לְ]][[H4687\|מִצְוֹתֶ֙י]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H9003\|בְ]][[H4941G\|מִשְׁפָּטֶ֣י]][[H9021\|ךָ]] [[H2398\|חָֽטְאוּ]][[H9014\|־]] [[H9003\|בָ֔]][[H9038\|ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֥ה]] [[H0120G\|אָדָ֖ם]] [[H9001\|וְ]][[H2421\|חָיָ֣ה]] [[H9003\|בָ]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H5414H\|יִּתְּנ֤וּ]] [[H3802\|כָתֵף֙]] [[H5637\|סוֹרֶ֔רֶת]] [[H9002\|וְ]][[H6203\|עָרְפָּ֥]][[H9028\|ם]] [[H7185\|הִקְשׁ֖וּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085H\|שָׁמֵֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic SELF-WILL|SELF-WILL]] • [[topic SIN|SIN]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.9.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.9.28|<< Nehemiah 9:28]]</td><td align="center" style="border:none;">[[Neh.9|Nehemiah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.9.30|Nehemiah 9:30 >>]]</td></tr></table>
 

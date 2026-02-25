@@ -1,8 +1,75 @@
+---
+title: Nehemiah 10:34
+type: Verse
+kjv: "And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law:"
+bsb: "We have cast lots among the priests, Levites, and people for the donation of wood by our families at the appointed times each year. They are to bring it to the house of our God to burn on the altar of the LORD our God, as it is written in the Law."
+hebrew: "וְהַגּוֹרָל֨וֹת הִפַּ֜לְנוּ עַל־ קֻרְבַּ֣ן הָעֵצִ֗ים הַכֹּהֲנִ֣ים הַלְוִיִּם֮ וְהָעָם֒ לְ֠הָבִיא לְבֵ֨ית אֱלֹהֵ֧ינוּ לְבֵית־ אֲבֹתֵ֛ינוּ לְעִתִּ֥ים מְזֻמָּנִ֖ים שָׁנָ֣ה בְשָׁנָ֑ה לְבַעֵ֗ר עַל־ מִזְבַּח֙ יְהוָ֣ה אֱלֹהֵ֔ינוּ כַּכָּת֖וּב בַּתּוֹרָֽה׃"
+pericope: "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FUEL|FUEL]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H1486]]"
+- "[[H5307I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H7133B]]"
+- "[[H6086G]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H1004Q]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H6256]]"
+- "[[H2163]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H1197A]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H3789]]"
+- "[[H8451]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 10:34**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring [it] into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as [it is] written in the law:
 <small><sub>**BSB:**</sub></small>
 We have cast lots among the priests, Levites, and people for the donation of wood by our families at the appointed times each year. They are to bring it to the house of our God to burn on the altar of the LORD our God, as it is written in the Law.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H1486\|גּוֹרָל֨וֹת]] [[H5307I\|הִפַּ֜לְנוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H7133B\|קֻרְבַּ֣ן]] [[H9009\|הָ]][[H6086G\|עֵצִ֗ים]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֣ים]] [[H9009\|הַ]][[H3881\|לְוִיִּם֮]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָם֒]] [[H9005\|לְ֠]][[H0935P\|הָבִיא]] [[H9005\|לְ]][[H1004Q\|בֵ֨ית]] [[H0430G\|אֱלֹהֵ֧י]][[H9025\|נוּ]] [[H9005\|לְ]][[H1004M\|בֵית]][[H9014\|־]] [[H0001G\|אֲבֹתֵ֛י]][[H9025\|נוּ]] [[H9005\|לְ]][[H6256\|עִתִּ֥ים]] [[H2163\|מְזֻמָּנִ֖ים]] [[H8141\|שָׁנָ֣ה]] [[H9003\|בְ]][[H8141\|שָׁנָ֑ה]] [[H9005\|לְ]][[H1197A\|בַעֵ֗ר]] [[H5921A\|עַל]][[H9014\|־]] [[H4196\|מִזְבַּח֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֔י]][[H9025\|נוּ]] [[H9004\|כַּ]][[H3789\|כָּת֖וּב]] [[H9003\|בַּ]][[H8451\|תּוֹרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FUEL|FUEL]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOT, THE|LOT, THE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.33|<< Nehemiah 10:33]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.35|Nehemiah 10:35 >>]]</td></tr></table>
 

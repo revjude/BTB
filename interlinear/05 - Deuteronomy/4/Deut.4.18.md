@@ -1,8 +1,61 @@
+---
+title: Deuteronomy 4:18
+type: Verse
+kjv: "The likeness of any thing that creepeth on the ground, the likeness of any fish that is in the waters beneath the earth:"
+bsb: "or of any creature that crawls on the ground or fish that is in the waters below."
+hebrew: "תַּבְנִ֕ית כָּל־ רֹמֵ֖שׂ בָּאֲדָמָ֑ה תַּבְנִ֛ית כָּל־ דָּגָ֥ה אֲשֶׁר־ בַּמַּ֖יִם מִתַּ֥חַת לָאָֽרֶץ׃"
+pericope: "[[Deut.4.15 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H8403]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7430]]"
+- "[[H9003]]"
+- "[[H0127G]]"
+- "[[H1710]]"
+- "[[H0834A]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H8478G]]"
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:18**<big><big>[[Deut.4.15 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The likeness of any thing that creepeth on the ground, the likeness of any fish that [is] in the waters beneath the earth:
 <small><sub>**BSB:**</sub></small>
 or of any creature that crawls on the ground or fish that is in the waters below.
+<small><sub>**Hebrew:**</sub></small>
+[[H8403\|תַּבְנִ֕ית]] [[H3605\|כָּל]][[H9014\|־]] [[H7430\|רֹמֵ֖שׂ]] [[H9003\|בָּ]][[H0127G\|אֲדָמָ֑ה]] [[H8403\|תַּבְנִ֛ית]] [[H3605\|כָּל]][[H9014\|־]] [[H1710\|דָּגָ֥ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בַּ]][[H4325G\|מַּ֖יִם]] [[H9006\|מִ]][[H8478G\|תַּ֥חַת]] [[H9005\|לָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.17|<< Deuteronomy 4:17]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.19|Deuteronomy 4:19 >>]]</td></tr></table>
 

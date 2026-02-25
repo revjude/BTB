@@ -1,10 +1,64 @@
+---
+title: Matthew 16:27
+type: Verse
+kjv: "For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works."
+bsb: "For the Son of Man will come in His Father’s glory with His angels, and then He will repay each one according to what he has done."
+jesus_said: "For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works."
+greek: "μέλλει γὰρ ὁ υἱὸς τοῦ ἀνθρώπου ἔρχεσθαι ἐν τῇ δόξῃ τοῦ πατρὸς αὐτοῦ μετὰ τῶν ἀγγέλων αὐτοῦ καὶ τότε ἀποδώσει ἑκάστῳ κατὰ τὴν πρᾶξιν αὐτοῦ.¶"
+pericope: "[[Matt.16.24 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REWARD|REWARD]]"
+strongs:
+- "[[G3195]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G2064]]"
+- "[[G1722]]"
+- "[[G1391]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G3326]]"
+- "[[G0032G]]"
+- "[[G2532]]"
+- "[[G5119]]"
+- "[[G0591]]"
+- "[[G1538]]"
+- "[[G2596]]"
+- "[[G4234]]"
+texts:
+- NKO
+---
+
 **Matthew 16:27**<big><big>[[Matt.16.24 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.
 <small><sub>**BSB:**</sub></small>
 For the Son of Man will come in His Father’s glory with His angels, and then He will repay each one according to what he has done.
-<small><sub>**Literal:**</sub></small>
-Is about for the Son of the man to come in the glory of the Father of Him with the angels of Him and then He will give to each according to the deeds of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.26|<< Matthew 16:26]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.28|Matthew 16:28 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3195\|μέλλει]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G2064\|ἔρχεσθαι]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G1391\|δόξῃ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G0846\|αὐτοῦ]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G0032G\|ἀγγέλων]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G5119\|τότε]]  [[G0591\|ἀποδώσει]]  [[G1538\|ἑκάστῳ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G4234\|πρᾶξιν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REWARD|REWARD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.26|<< Matthew 16:26]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.28|Matthew 16:28 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 16:27** is...
 > $\quad$ referencing: [[LXX.Ps.62.12|Ps 62:12]] ☩ [[LXX.Prov.24.12|Prov 24:12]]

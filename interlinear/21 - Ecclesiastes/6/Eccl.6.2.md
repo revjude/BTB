@@ -1,8 +1,75 @@
+---
+title: Ecclesiastes 6:2
+type: Verse
+kjv: "A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this is vanity, and it is an evil disease."
+bsb: "God gives a man riches, wealth, and honor, so that he lacks nothing his heart desires; but God does not allow him to enjoy them. Instead, a stranger will enjoy them. This is futile and a grievous affliction."
+hebrew: "אִ֣ישׁ אֲשֶׁ֣ר יִתֶּן־ ל֣וֹ הָאֱלֹהִ֡ים עֹשֶׁר֩ וּנְכָסִ֨ים וְכָב֜וֹד וְֽאֵינֶ֨נּוּ חָסֵ֥ר לְנַפְשׁ֣וֹ׀ מִכֹּ֣ל אֲשֶׁר־ יִתְאַוֶּ֗ה וְלֹֽא־ יַשְׁלִיטֶ֤נּוּ הָֽאֱלֹהִים֙ לֶאֱכֹ֣ל מִמֶּ֔נּוּ כִּ֛י אִ֥ישׁ נָכְרִ֖י יֹֽאכֲלֶ֑נּוּ זֶ֥ה הֶ֛בֶל וָחֳלִ֥י רָ֖ע הֽוּא׃"
+pericope: "[[Eccl.6.1 The Futility of Life|The Futility of Life]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 6
+book/chapter: "[[Eccl.6|Ecclesiastes 6]]"
+chronological_order: 544
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic RICHES|RICHES]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H0376I]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H6239]]"
+- "[[H9002]]"
+- "[[H5233]]"
+- "[[H3519]]"
+- "[[H0369]]"
+- "[[H9043]]"
+- "[[H2638]]"
+- "[[H5315I]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0183]]"
+- "[[H3808]]"
+- "[[H7980]]"
+- "[[H0398]]"
+- "[[H4480A]]"
+- "[[H3588A]]"
+- "[[H0376G]]"
+- "[[H5237]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H2483]]"
+- "[[H7451A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 6:2**<big><big>[[Eccl.6.1 The Futility of Life|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A man to whom God hath given riches, wealth, and honour, so that he wanteth nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but a stranger eateth it: this [is] vanity, and it [is] an evil disease.
 <small><sub>**BSB:**</sub></small>
 God gives a man riches, wealth, and honor, so that he lacks nothing his heart desires; but God does not allow him to enjoy them. Instead, a stranger will enjoy them. This is futile and a grievous affliction.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376I\|אִ֣ישׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5414G\|יִתֶּן]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֡ים]] [[H6239\|עֹשֶׁר֩]] [[H9002\|וּ]][[H5233\|נְכָסִ֨ים]] [[H9002\|וְ]][[H3519\|כָב֜וֹד]] [[H9002\|וְֽ]][[H0369\|אֵינֶ֨]][[H9043\|נּוּ]] [[H2638\|חָסֵ֥ר]] [[H9005\|לְ]][[H5315I\|נַפְשׁ֣]][[H9023\|וֹ]][[H9015\|׀]] [[H9006\|מִ]][[H3605\|כֹּ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0183\|יִתְאַוֶּ֗ה]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H7980\|יַשְׁלִיטֶ֤]][[H9033\|נּוּ]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H9005\|לֶ]][[H0398\|אֱכֹ֣ל]] [[H4480A\|מִמֶּ֔]][[H9033\|נּוּ]] [[H3588A\|כִּ֛י]] [[H0376G\|אִ֥ישׁ]] [[H5237\|נָכְרִ֖י]] [[H0398\|יֹֽאכֲלֶ֑]][[H9033\|נּוּ]] [[H2088\|זֶ֥ה]] [[H1892\|הֶ֛בֶל]] [[H9002\|וָ]][[H2483\|חֳלִ֥י]] [[H7451A\|רָ֖ע]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RICHES|RICHES]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.6.1|<< Ecclesiastes 6:1]]</td><td align="center" style="border:none;">[[Eccl.6|Ecclesiastes 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.6.3|Ecclesiastes 6:3 >>]]</td></tr></table>
 

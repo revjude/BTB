@@ -1,8 +1,69 @@
+---
+title: Isaiah 37:29
+type: Verse
+kjv: "Because thy rage against me, and thy tumult, is come up into mine ears, therefore will I put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest."
+bsb: "Because your rage and arrogance against Me have reached My ears, I will put My hook in your nose and My bit in your mouth; I will send you back the way you came.’"
+hebrew: "יַ֚עַן הִתְרַגֶּזְךָ֣ אֵלַ֔י וְשַׁאֲנַנְךָ֖ עָלָ֣ה בְאָזְנָ֑י וְשַׂמְתִּ֨י חַחִ֜י בְּאַפֶּ֗ךָ וּמִתְגִּי֙ בִּשְׂפָתֶ֔יךָ וַהֲשִׁ֣יבֹתִ֔יךָ בַּדֶּ֖רֶךְ אֲשֶׁר־ בָּ֥אתָ בָּֽהּ׃"
+pericope: "[[Isa.37.21 Sennacherib’s Fall Prophesied|Sennacherib’s Fall Prophesied]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 37
+book/chapter: "[[Isa.37|Isaiah 37]]"
+chronological_order: 664
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic LIBNAH|LIBNAH]]"
+strongs:
+- "[[H3282]]"
+- "[[H7264]]"
+- "[[H9041]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H7600]]"
+- "[[H9021]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H0241G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H7760H]]"
+- "[[H2397]]"
+- "[[H0639H]]"
+- "[[H4964]]"
+- "[[H8193G]]"
+- "[[H7725G]]"
+- "[[H9031]]"
+- "[[H1870K]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 37:29**<big><big>[[Isa.37.21 Sennacherib’s Fall Prophesied|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because thy rage against me, and thy tumult, is come up into mine ears, therefore will I put my hook in thy nose, and my bridle in thy lips, and I will turn thee back by the way by which thou camest.
 <small><sub>**BSB:**</sub></small>
 Because your rage and arrogance against Me have reached My ears, I will put My hook in your nose and My bit in your mouth; I will send you back the way you came.’
+<small><sub>**Hebrew:**</sub></small>
+[[H3282\|יַ֚עַן]] [[H7264\|הִתְרַגֶּזְ]][[H9041\|ךָ֣]] [[H0413\|אֵלַ֔]][[H9030\|י]] [[H9002\|וְ]][[H7600\|שַׁאֲנַנְ]][[H9021\|ךָ֖]] [[H5927G\|עָלָ֣ה]] [[H9003\|בְ]][[H0241G\|אָזְנָ֑]][[H9020\|י]] [[H9001\|וְ]][[H7760H\|שַׂמְתִּ֨י]] [[H2397\|חַחִ֜]][[H9020\|י]] [[H9003\|בְּ]][[H0639H\|אַפֶּ֗]][[H9021\|ךָ]] [[H9002\|וּ]][[H4964\|מִתְגִּ]][[H9020\|י֙]] [[H9003\|בִּ]][[H8193G\|שְׂפָתֶ֔י]][[H9021\|ךָ]] [[H9001\|וַ]][[H7725G\|הֲשִׁ֣יבֹתִ֔י]][[H9031\|ךָ]] [[H9003\|בַּ]][[H1870K\|דֶּ֖רֶךְ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥אתָ]] [[H9003\|בָּֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic LIBNAH|LIBNAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.37.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.37.28|<< Isaiah 37:28]]</td><td align="center" style="border:none;">[[Isa.37|Isaiah 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.37.30|Isaiah 37:30 >>]]</td></tr></table>
 

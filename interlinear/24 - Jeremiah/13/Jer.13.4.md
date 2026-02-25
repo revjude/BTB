@@ -1,8 +1,67 @@
+---
+title: Jeremiah 13:4
+type: Verse
+kjv: "Take the girdle that thou hast got, which is upon thy loins, and arise, go to Euphrates, and hide it there in a hole of the rock."
+bsb: "“Take the loincloth that you bought and are wearing, and go at once to Perath and hide it there in a crevice of the rocks.”"
+hebrew: "קַ֧ח אֶת־ הָאֵז֛וֹר אֲשֶׁ֥ר קָנִ֖יתָ אֲשֶׁ֣ר עַל־ מָתְנֶ֑יךָ וְקוּם֙ לֵ֣ךְ פְּרָ֔תָה וְטָמְנֵ֥הוּ שָׁ֖ם בִּנְקִ֥יק הַסָּֽלַע׃"
+pericope: "[[Jer.13.1 The Linen Loincloth|The Linen Loincloth]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 13
+book/chapter: "[[Jer.13|Jeremiah 13]]"
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic EUPHRATES|EUPHRATES]]"
+- "[[topic GIRDLE|GIRDLE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0232]]"
+- "[[H0834A]]"
+- "[[H7069]]"
+- "[[H5921A]]"
+- "[[H4975]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H6965B]]"
+- "[[H1980G]]"
+- "[[H6578]]"
+- "[[H9011]]"
+- "[[H2934]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H9003]]"
+- "[[H5357]]"
+- "[[H5553H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 13:4**<big><big>[[Jer.13.1 The Linen Loincloth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take the girdle that thou hast got, which [is] upon thy loins, and arise, go to Euphrates, and hide it there in a hole of the rock.
 <small><sub>**BSB:**</sub></small>
 “Take the loincloth that you bought and are wearing, and go at once to Perath and hide it there in a crevice of the rocks.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3947G\|קַ֧ח]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0232\|אֵז֛וֹר]] [[H0834A\|אֲשֶׁ֥ר]] [[H7069\|קָנִ֖יתָ]] [[H0834A\|אֲשֶׁ֣ר]] [[H5921A\|עַל]][[H9014\|־]] [[H4975\|מָתְנֶ֑י]][[H9021\|ךָ]] [[H9002\|וְ]][[H6965B\|קוּם֙]] [[H1980G\|לֵ֣ךְ]] [[H6578\|פְּרָ֔תָ]][[H9011\|ה]] [[H9002\|וְ]][[H2934\|טָמְנֵ֥]][[H9033\|הוּ]] [[H8033G\|שָׁ֖ם]] [[H9003\|בִּ]][[H5357\|נְקִ֥יק]] [[H9009\|הַ]][[H5553H\|סָּֽלַע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EUPHRATES|EUPHRATES]] • [[topic GIRDLE|GIRDLE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.13.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.13.3|<< Jeremiah 13:3]]</td><td align="center" style="border:none;">[[Jer.13|Jeremiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.13.5|Jeremiah 13:5 >>]]</td></tr></table>
 

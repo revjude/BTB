@@ -1,10 +1,59 @@
+---
+title: John 9:19
+type: Verse
+kjv: "And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?"
+bsb: "and asked, “Is this your son, the one you say was born blind? So how is it that he can now see?”"
+greek: "καὶ ἠρώτησαν αὐτοὺς λέγοντες· οὗτός ἐστιν ὁ υἱὸς ὑμῶν ὃν ὑμεῖς λέγετε ὅτι τυφλὸς ἐγεννήθη; πῶς οὖν βλέπει ἄρτι;¶"
+pericope: "[[John.9.13 The Pharisees Investigate the Healing|The Pharisees Investigate the Healing]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic SABBATH|SABBATH]]"
+strongs:
+- "[[G2532]]"
+- "[[G2065]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G4771]]"
+- "[[G3739]]"
+- "[[G3754G]]"
+- "[[G5185]]"
+- "[[G1080]]"
+- "[[G4459]]"
+- "[[G3767]]"
+- "[[G0991]]"
+- "[[G0737]]"
+texts:
+- NKO
+---
+
 **John 9:19**<big><big>[[John.9.13 The Pharisees Investigate the Healing|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?
 <small><sub>**BSB:**</sub></small>
 and asked, “Is this your son, the one you say was born blind? So how is it that he can now see?”
-<small><sub>**Literal:**</sub></small>
-And they asked them saying; This is the son of you of whom you yourselves say that blind he was born? How then does he see presently<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.18|<< John 9:18]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.20|John 9:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2065\|ἠρώτησαν]]  [[G0846\|αὐτοὺς]]  [[G3004G\|λέγοντες·]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G4771\|ὑμῶν]]  [[G3739\|ὃν]]  [[G4771\|ὑμεῖς]]  [[G3004G\|λέγετε]]  [[G3754G\|ὅτι]]  [[G5185\|τυφλὸς]]  [[G1080\|ἐγεννήθη;]]  [[G4459\|πῶς]]  [[G3767\|οὖν]]  [[G0991\|βλέπει]]  [[G0737\|ἄρτι;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic SABBATH|SABBATH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.18|<< John 9:18]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.20|John 9:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

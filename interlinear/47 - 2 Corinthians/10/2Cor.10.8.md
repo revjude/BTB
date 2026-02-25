@@ -1,10 +1,62 @@
+---
+title: 2 Corinthians 10:8
+type: Verse
+kjv: "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:"
+bsb: "For even if I boast somewhat excessively about the authority the Lord gave us for building you up rather than tearing you down, I will not be ashamed."
+greek: "ἐάν τε γὰρ καὶ περισσότερόν τι καυχήσωμαι περὶ τῆς ἐξουσίας ἡμῶν ἧς ἔδωκεν ὁ κύριος ἡμῖν εἰς οἰκοδομὴν καὶ οὐκ εἰς καθαίρεσιν ὑμῶν, οὐκ αἰσχυνθήσομαι·"
+pericope: "[[2Cor.10.1 Paul’s Apostolic Authority|Paul’s Apostolic Authority]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 10
+book/chapter: "[[2Cor.10|2 Corinthians 10]]"
+chronological_order: 1083
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[G1437]]"
+- "[[G5037]]"
+- "[[G1063]]"
+- "[[G2532]]"
+- "[[G4055]]"
+- "[[G5100]]"
+- "[[G2744]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G1849]]"
+- "[[G3165]]"
+- "[[G3739]]"
+- "[[G1325]]"
+- "[[G2962G]]"
+- "[[G1519]]"
+- "[[G3619]]"
+- "[[G3756]]"
+- "[[G2506]]"
+- "[[G4771]]"
+- "[[G0153]]"
+texts:
+- NKO
+- k
+---
+
 **2 Corinthians 10:8**<big><big>[[2Cor.10.1 Paul’s Apostolic Authority|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:
 <small><sub>**BSB:**</sub></small>
 For even if I boast somewhat excessively about the authority the Lord gave us for building you up rather than tearing you down, I will not be ashamed.
-<small><sub>**Literal:**</sub></small>
-If even for and more excessive somewhat I shall boast concerning the authority of us which has given the Lord to us for building [you] up and not for tearing down you, not I will be ashamed;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.7|<< 2 Corinthians 10:7]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.9|2 Corinthians 10:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐάν]]  [[G5037\|τε]]  [[G1063\|γὰρ]]  [[G2532\|καὶ]]  [[G4055\|περισσότερόν]]  [[G5100\|τι]]  [[G2744\|καυχήσωμαι]]  [[G4012\|περὶ]]  [[G3588\|τῆς]]  [[G1849\|ἐξουσίας]]  [[G3165\|ἡμῶν]]  [[G3739\|ἧς]]  [[G1325\|ἔδωκεν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος]]  [[G3165\|ἡμῖν]]  [[G1519\|εἰς]]  [[G3619\|οἰκοδομὴν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1519\|εἰς]]  [[G2506\|καθαίρεσιν]]  [[G4771\|ὑμῶν,]]  [[G3756\|οὐκ]]  [[G0153\|αἰσχυνθήσομαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.10.7|<< 2 Corinthians 10:7]]</td><td align="center" style="border:none;">[[2Cor.10|2 Corinthians 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.10.9|2 Corinthians 10:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

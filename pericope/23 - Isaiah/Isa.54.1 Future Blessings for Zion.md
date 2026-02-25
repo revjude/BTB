@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Future Blessings for Zion
+type: Pericope
 pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 54
 book/chapter: "[[Isa.54|Isaiah 54]]"
-genre:
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 17
 verses:
 - "[[Isa.54.1]]"
 - "[[Isa.54.2]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Isa.54.17]]"
 ---
 
-[[Isa.54|Isaiah 54:1 - Isaiah 54:17]]
+<small>[[Isa.54|Isaiah 54:1-17]]</small>
 *Future Blessings for Zion*
 
 [[Isa.54.1|1]] Sing, O barren, thou \[that\] didst not bear; break forth into singing, and cry aloud, thou \[that\] didst not travail with child: for more \[are\] the children of the desolate than the children of the married wife, saith the LORD.

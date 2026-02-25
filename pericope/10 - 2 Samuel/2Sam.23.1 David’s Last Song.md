@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David’s Last Song
+type: Pericope
 pericope: "[[2Sam.23.1 David’s Last Song|David’s Last Song]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 23
 book/chapter: "[[2Sam.23|2 Samuel 23]]"
-genre:
+chronological_order: 431
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 7
 verses:
 - "[[2Sam.23.1]]"
 - "[[2Sam.23.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Sam.23.7]]"
 ---
 
-[[2Sam.23|2 Samuel 23:1 - 2 Samuel 23:7]]
+<small>[[2Sam.23|2 Samuel 23:1-7]]</small>
 *David’s Last Song*
 
 [[2Sam.23.1|1]] Now these \[be\] the last words of David. David the son of Jesse said, and the man \[who was\] raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said,

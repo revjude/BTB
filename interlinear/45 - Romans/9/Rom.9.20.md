@@ -1,10 +1,58 @@
+---
+title: Romans 9:20
+type: Verse
+kjv: "Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?"
+bsb: "But who are you, O man, to talk back to God? Shall what is formed say to Him who formed it, “Why did You make me like this?”"
+greek: "ὦ ἄνθρωπε, μενοῦνγε, σὺ τίς εἶ ὁ ἀνταποκρινόμενος τῷ θεῷ; μὴ ἐρεῖ τὸ πλάσμα τῷ πλάσαντι· τί με ἐποίησας οὕτως;"
+pericope: "[[Rom.9.6 God’s Sovereign Choice|God’s Sovereign Choice]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 9
+book/chapter: "[[Rom.9|Romans 9]]"
+chronological_order: 1095
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+strongs:
+- "[[G5599]]"
+- "[[G0444]]"
+- "[[G3304]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G0470]]"
+- "[[G2316]]"
+- "[[G3361]]"
+- "[[G4483]]"
+- "[[G4110]]"
+- "[[G4111]]"
+- "[[G3165]]"
+- "[[G4160H]]"
+- "[[G3779]]"
+texts:
+- NKO
+---
+
 **Romans 9:20**<big><big>[[Rom.9.6 God’s Sovereign Choice|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed [it], Why hast thou made me thus?
 <small><sub>**BSB:**</sub></small>
 But who are you, O man, to talk back to God? Shall what is formed say to Him who formed it, “Why did You make me like this?”
-<small><sub>**Literal:**</sub></small>
-O man, but rather, you yourself who are who is answering against <the> to God? Not will say the thing formed to the [One] having formed [it]; Why me did you make like this?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.19|<< Romans 9:19]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.21|Romans 9:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5599\|ὦ]]  [[G0444\|ἄνθρωπε,]]  [[G3304\|μενοῦνγε,]]  [[G4771\|σὺ]]  [[G5101\|τίς]]  [[G1510\|εἶ]]  [[G3588\|ὁ]]  [[G0470\|ἀνταποκρινόμενος]]  [[G3588\|τῷ]]  [[G2316\|θεῷ;]]  [[G3361\|μὴ]]  [[G4483\|ἐρεῖ]]  [[G3588\|τὸ]]  [[G4110\|πλάσμα]]  [[G3588\|τῷ]]  [[G4111\|πλάσαντι·]]  [[G5101\|τί]]  [[G3165\|με]]  [[G4160H\|ἐποίησας]]  [[G3779\|οὕτως;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic MURMURING|MURMURING]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic PRESUMPTION|PRESUMPTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.9.19|<< Romans 9:19]]</td><td align="center" style="border:none;">[[Rom.9|Romans 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.9.21|Romans 9:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 9:20** is...
 > $\quad$ referencing: [[LXX.Isa.29.16|Isa 29:16]]

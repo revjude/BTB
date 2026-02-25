@@ -1,8 +1,79 @@
+---
+title: 2 Chronicles 12:5
+type: Verse
+kjv: "Then came Shemaiah the prophet to Rehoboam, and to the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the LORD, Ye have forsaken me, and therefore have I also left you in the hand of Shishak."
+bsb: "Then Shemaiah the prophet came to Rehoboam and the leaders of Judah who had gathered at Jerusalem because of Shishak, and he said to them, “This is what the LORD says: ‘You have forsaken Me; therefore, I have forsaken you into the hand of Shishak.’”"
+hebrew: "וּֽשְׁמַֽעְיָ֤ה הַנָּבִיא֙ בָּ֣א אֶל־ רְחַבְעָ֔ם וְשָׂרֵ֣י יְהוּדָ֔ה אֲשֶׁר־ נֶאֶסְפ֥וּ אֶל־ יְרוּשָׁלִַ֖ם מִפְּנֵ֣י שִׁישָׁ֑ק וַיֹּ֨אמֶר לָהֶ֜ם כֹּה־ אָמַ֣ר יְהוָ֗ה אַתֶּם֙ עֲזַבְתֶּ֣ם אֹתִ֔י וְאַף־ אֲנִ֛י עָזַ֥בְתִּי אֶתְכֶ֖ם בְּיַד־ שִׁישָֽׁק׃"
+pericope: "[[2Chr.12.1 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 12
+book/chapter: "[[2Chr.12|2 Chronicles 12]]"
+chronological_order: 558
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+- "[[topic SHISHAK|SHISHAK]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H8098A]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7346]]"
+- "[[H8269]]"
+- "[[H3063G]]"
+- "[[H0834A]]"
+- "[[H0622]]"
+- "[[H3389]]"
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H7895]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H3068G]]"
+- "[[H0859D]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H0637]]"
+- "[[H0589]]"
+- "[[H9036]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 12:5**<big><big>[[2Chr.12.1 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then came Shemaiah the prophet to Rehoboam, and [to] the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the LORD, Ye have forsaken me, and therefore have I also left you in the hand of Shishak.
 <small><sub>**BSB:**</sub></small>
 Then Shemaiah the prophet came to Rehoboam and the leaders of Judah who had gathered at Jerusalem because of Shishak, and he said to them, “This is what the LORD says: ‘You have forsaken Me; therefore, I have forsaken you into the hand of Shishak.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּֽ]][[H8098A\|שְׁמַֽעְיָ֤ה]] [[H9009\|הַ]][[H5030\|נָּבִיא֙]] [[H0935G\|בָּ֣א]] [[H0413\|אֶל]][[H9014\|־]] [[H7346\|רְחַבְעָ֔ם]] [[H9002\|וְ]][[H8269\|שָׂרֵ֣י]] [[H3063G\|יְהוּדָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0622\|נֶאֶסְפ֥וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִַ֖ם]] [[H9006\|מִ]][[H6440I\|פְּנֵ֣י]] [[H7895\|שִׁישָׁ֑ק]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|לָ]][[H9038\|הֶ֜ם]] [[H3541\|כֹּה]][[H9014\|־]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H0859D\|אַתֶּם֙]] [[H5800A\|עֲזַבְתֶּ֣ם]] [[H0853\|אֹתִ֔]][[H9030\|י]] [[H9002\|וְ]][[H0637\|אַף]][[H9014\|־]] [[H0589\|אֲנִ֛י]] [[H5800A\|עָזַ֥בְתִּי]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H9003\|בְּ]][[H3027H\|יַד]][[H9014\|־]] [[H7895\|שִׁישָֽׁק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROOF|REPROOF]] • [[topic SHEMAIAH|SHEMAIAH]] • [[topic SHISHAK|SHISHAK]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.4|<< 2 Chronicles 12:4]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.6|2 Chronicles 12:6 >>]]</td></tr></table>
 

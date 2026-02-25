@@ -1,10 +1,56 @@
+---
+title: John 7:8
+type: Verse
+kjv: "Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come."
+bsb: "Go up to the feast on your own. I am not going up to this feast, because My time has not yet come.”"
+jesus_said: "Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come."
+greek: "ὑμεῖς ἀνάβητε εἰς τὴν ἑορτήν ταύτην· ἐγὼ οὐκ ἀναβαίνω εἰς τὴν ἑορτὴν ταύτην, ὅτι ὁ ἐμὸς καιρὸς ὁ οὔπω πεπλήρωται."
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G4771]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1859]]"
+- "[[G3778]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G3754H]]"
+- "[[G2540]]"
+- "[[G3768]]"
+- "[[G4137]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 7:8**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come.
 <small><sub>**BSB:**</sub></small>
 Go up to the feast on your own. I am not going up to this feast, because My time has not yet come.”
-<small><sub>**Literal:**</sub></small>
-You yourselves do go up to <the> feast this; I myself not am going up to <the> feast this, for <the> My time <the> not yet has been fulfilled.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.7|<< John 7:7]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.9|John 7:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4771\|ὑμεῖς]]  [[G0305\|ἀνάβητε]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1859\|ἑορτήν]]  [[G3778\|ταύτην·]]  [[G1473\|ἐγὼ]]  [[G3756\|οὐκ]]  [[G0305\|ἀναβαίνω]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1859\|ἑορτὴν]]  [[G3778\|ταύτην,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G1473\|ἐμὸς]]  [[G2540\|καιρὸς]]  [[G3588\|ὁ]]  [[G3768\|οὔπω]]  [[G4137\|πεπλήρωται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.7|<< John 7:7]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.9|John 7:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

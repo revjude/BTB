@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Visits Sinai
+type: Pericope
 pericope: "[[Exod.19.16 The LORD Visits Sinai|The LORD Visits Sinai]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 19
 book/chapter: "[[Exod.19|Exodus 19]]"
-genre:
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 10
 verses:
 - "[[Exod.19.16]]"
 - "[[Exod.19.17]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Exod.19.25]]"
 ---
 
-[[Exod.19|Exodus 19:16 - Exodus 19:25]]
+<small>[[Exod.19|Exodus 19:16-25]]</small>
 *The LORD Visits Sinai*
 
 [[Exod.19.16|16]] And it came to pass on the third day in the morning, that there were thunders and lightnings, and a thick cloud upon the mount, and the voice of the trumpet exceeding loud; so that all the people that \[was\] in the camp trembled.

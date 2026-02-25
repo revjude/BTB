@@ -5,17 +5,17 @@
 
 → Asked for by, and given to
 
-- Abraham [[Gen.15.8|Ge 15:8]]-[[Gen.15.17|17]]
+- Abraham [[Gen.15.8|Ge 15:8-17]]
 
-- Moses  [[Exod.4.1|Ex 4:1]]-[[Exod.4.9|9]]
+- Moses  [[Exod.4.1|Ex 4:1-9]]
 
-- Gideon [[Judg.6.17|Jud 6:17]],[[Judg.6.36|36]]-[[Judg.6.40|40]]
+- Gideon [[Judg.6.17|Jud 6:17]],[[Judg.6.36|36-40]]
 
 - Hezekiah [[2Kgs.20.8|2Ki 20:8]]
 
 - Zacharias [[Luke.1.18|Lu 1:18]]
 
-→ Given to Jeroboam [[1Kgs.13.3|1Ki 13:3]]-[[1Kgs.13.5|5]]
+→ Given to Jeroboam [[1Kgs.13.3|1Ki 13:3-5]]
 
 → A token of coming events [[Matt.16.3|Mt 16:3]],[[Matt.16.4|4]]; [[Matt.24.3|24:3]]
 

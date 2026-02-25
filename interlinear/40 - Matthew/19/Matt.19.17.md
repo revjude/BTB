@@ -1,10 +1,77 @@
+---
+title: Matthew 19:17
+type: Verse
+kjv: "And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments."
+bsb: "“Why do you ask Me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.”"
+jesus_said: "Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments."
+greek: "ὁ δὲ εἶπεν αὐτῷ· τί με ἐρωτᾷς περὶ τοῦ ἀγαθοῦ; εἷς ἐστιν ὁ ἀγαθός εἰ μὴ εἷς ὁ θεός. εἰ δὲ θέλεις εἰς τὴν ζωὴν εἰσελθεῖν, τήρησον τὰς ἐντολάς.¶"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G2065]]"
+- "[[G4012]]"
+- "[[G0018]]"
+- "[[G1520]]"
+- "[[G1510]]"
+- "[[G1487G]]"
+- "[[G3361]]"
+- "[[G2316]]"
+- "[[G2309]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G1525]]"
+- "[[G5083G]]"
+- "[[G1785]]"
+texts:
+- NKO
+- N(k)O
+- no
+- K
+- NK(o)
+---
+
 **Matthew 19:17**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto him, Why callest thou me good? [there is] none good but one, [that is], God: but if thou wilt enter into life, keep the commandments.
 <small><sub>**BSB:**</sub></small>
 “Why do you ask Me about what is good?” Jesus replied. “There is only One who is good. If you want to enter life, keep the commandments.”
-<small><sub>**Literal:**</sub></small>
-<the> And He said to him; Why Me you ask about what is good? One is <the> good only except one <the> God. If however you desire into <the> life to enter, do keep the commandments.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.16|<< Matthew 19:16]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.18|Matthew 19:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G5101\|τί]]  [[G3165\|με]]  [[G2065\|ἐρωτᾷς]]  [[G4012\|περὶ]]  [[G3588\|τοῦ]]  [[G0018\|ἀγαθοῦ;]]  [[G1520\|εἷς]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G0018\|ἀγαθός]]  [[G1487G\|εἰ]]  [[G3361\|μὴ]]  [[G1520\|εἷς]]  [[G3588\|ὁ]]  [[G2316\|θεός.]]  [[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G2309\|θέλεις]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2222\|ζωὴν]]  [[G1525\|εἰσελθεῖν,]]  [[G5083G\|τήρησον]]  [[G3588\|τὰς]]  [[G1785\|ἐντολάς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WORKS|WORKS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.16|<< Matthew 19:16]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.18|Matthew 19:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

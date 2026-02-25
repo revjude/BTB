@@ -1,10 +1,69 @@
+---
+title: Acts 4:16
+type: Verse
+kjv: "Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them is manifest to all them that dwell in Jerusalem; and we cannot deny it."
+bsb: "“What shall we do with these men?” they asked. “It is clear to everyone living in Jerusalem that a remarkable miracle has occurred through them, and we cannot deny it."
+greek: "λέγοντες· τί ποιήσωμεν τοῖς ἀνθρώποις τούτοις; ὅτι μὲν γὰρ γνωστὸν σημεῖον γέγονεν δι᾽ αὐτῶν πᾶσιν τοῖς κατοικοῦσιν Ἰερουσαλὴμ φανερόν, καὶ οὐ δυνάμεθα ἀρνεῖσθαι·"
+pericope: "[[Acts.4.13 The Name Forbidden|The Name Forbidden]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3778]]"
+- "[[G3754H]]"
+- "[[G3303]]"
+- "[[G1063]]"
+- "[[G1110]]"
+- "[[G4592]]"
+- "[[G1096]]"
+- "[[G1223]]"
+- "[[G0846]]"
+- "[[G3956]]"
+- "[[G2730]]"
+- "[[G2419]]"
+- "[[G5318]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G0720]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 4:16**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them [is] manifest to all them that dwell in Jerusalem; and we cannot deny [it].
 <small><sub>**BSB:**</sub></small>
 “What shall we do with these men?” they asked. “It is clear to everyone living in Jerusalem that a remarkable miracle has occurred through them, and we cannot deny it.
-<small><sub>**Literal:**</sub></small>
-saying; What shall we do to the men these? for truly for a noteworthy sign has come to pass through them to all those inhabiting Jerusalem [is] evident, and not we are able to deny [it];<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.15|<< Acts 4:15]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.17|Acts 4:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγοντες·]]  [[G5101\|τί]]  [[G4160G\|ποιήσωμεν]]  [[G3588\|τοῖς]]  [[G0444\|ἀνθρώποις]]  [[G3778\|τούτοις;]]  [[G3754H\|ὅτι]]  [[G3303\|μὲν]]  [[G1063\|γὰρ]]  [[G1110\|γνωστὸν]]  [[G4592\|σημεῖον]]  [[G1096\|γέγονεν]]  [[G1223\|δι᾽]]  [[G0846\|αὐτῶν]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G2730\|κατοικοῦσιν]]  [[G2419\|Ἰερουσαλὴμ]]  [[G5318\|φανερόν,]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G1410\|δυνάμεθα]]  [[G0720\|ἀρνεῖσθαι·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JOHN|JOHN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.15|<< Acts 4:15]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.17|Acts 4:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

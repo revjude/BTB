@@ -1,8 +1,60 @@
+---
+title: Joshua 24:5
+type: Verse
+kjv: "I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out."
+bsb: "Then I sent Moses and Aaron, and I afflicted the Egyptians by what I did there, and afterward I brought you out."
+hebrew: "וָאֶשְׁלַ֞ח אֶת־ מֹשֶׁ֤ה וְאֶֽת־ אַהֲרֹן֙ וָאֶגֹּ֣ף אֶת־ מִצְרַ֔יִם כַּאֲשֶׁ֥ר עָשִׂ֖יתִי בְּקִרְבּ֑וֹ וְאַחַ֖ר הוֹצֵ֥אתִי אֶתְכֶֽם׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H5062]]"
+- "[[H4714G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9023]]"
+- "[[H0310A]]"
+- "[[H3318H]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:5**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out.
 <small><sub>**BSB:**</sub></small>
 Then I sent Moses and Aaron, and I afflicted the Egyptians by what I did there, and afterward I brought you out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7971G\|אֶשְׁלַ֞ח]] [[H0853\|אֶת]][[H9014\|־]] [[H4872\|מֹשֶׁ֤ה]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9001\|וָ]][[H5062\|אֶגֹּ֣ף]] [[H0853\|אֶת]][[H9014\|־]] [[H4714G\|מִצְרַ֔יִם]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6213A\|עָשִׂ֖יתִי]] [[H9003\|בְּ]][[H7130G\|קִרְבּ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0310A\|אַחַ֖ר]] [[H3318H\|הוֹצֵ֥אתִי]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.4|<< Joshua 24:4]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.6|Joshua 24:6 >>]]</td></tr></table>
 

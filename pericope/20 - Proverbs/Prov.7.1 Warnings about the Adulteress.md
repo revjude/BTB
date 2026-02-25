@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Warnings about the Adulteress
+type: Pericope
 pericope: "[[Prov.7.1 Warnings about the Adulteress|Warnings about the Adulteress]]"
-verse_count: 27
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 7
 book/chapter: "[[Prov.7|Proverbs 7]]"
-genre:
+chronological_order: 462
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 27
 verses:
 - "[[Prov.7.1]]"
 - "[[Prov.7.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Prov.7.27]]"
 ---
 
-[[Prov.7|Proverbs 7:1 - Proverbs 7:27]]
+<small>[[Prov.7|Proverbs 7:1-27]]</small>
 *Warnings about the Adulteress*
 
 [[Prov.7.1|1]] My son, keep my words, and lay up my commandments with thee.

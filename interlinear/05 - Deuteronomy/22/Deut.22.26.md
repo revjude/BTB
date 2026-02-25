@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 22:26
+type: Verse
+kjv: "But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death: for as when a man riseth against his neighbour, and slayeth him, even so is this matter:"
+bsb: "Do nothing to the young woman, because she has committed no sin worthy of death. This case is just like one in which a man attacks his neighbor and murders him."
+hebrew: "וְלַֽנַּעֲרָה֙ לֹא־ תַעֲשֶׂ֣ה דָבָ֔ר אֵ֥ין לַֽנַּעֲרָ֖ה חֵ֣טְא מָ֑וֶת כִּ֡י כַּאֲשֶׁר֩ יָק֨וּם אִ֤ישׁ עַל־ רֵעֵ֙הוּ֙ וּרְצָח֣וֹ נֶ֔פֶשׁ כֵּ֖ן הַדָּבָ֥ר הַזֶּֽה׃"
+pericope: "[[Deut.22.13 Marriage Violations|Marriage Violations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 22
+book/chapter: "[[Deut.22|Deuteronomy 22]]"
+chronological_order: 218
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H5291]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H1697I]]"
+- "[[H0369]]"
+- "[[H2399]]"
+- "[[H4194]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6965J]]"
+- "[[H0376I]]"
+- "[[H5921A]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7523]]"
+- "[[H9033]]"
+- "[[H5315H]]"
+- "[[H3651C]]"
+- "[[H9009]]"
+- "[[H1697L]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Deuteronomy 22:26**<big><big>[[Deut.22.13 Marriage Violations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But unto the damsel thou shalt do nothing; [there is] in the damsel no sin [worthy] of death: for as when a man riseth against his neighbour, and slayeth him, even so [is] this matter:
 <small><sub>**BSB:**</sub></small>
 Do nothing to the young woman, because she has committed no sin worthy of death. This case is just like one in which a man attacks his neighbor and murders him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לַֽ]][[H5291\|נַּעֲרָה֙]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|תַעֲשֶׂ֣ה]] [[H1697I\|דָבָ֔ר]] [[H0369\|אֵ֥ין]] [[H9005\|לַֽ]][[H5291\|נַּעֲרָ֖ה]] [[H2399\|חֵ֣טְא]] [[H4194\|מָ֑וֶת]] [[H3588A\|כִּ֡י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֩]] [[H6965J\|יָק֨וּם]] [[H0376I\|אִ֤ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H7453\|רֵעֵ֙]][[H9023\|הוּ֙]] [[H9001\|וּ]][[H7523\|רְצָח֣]][[H9033\|וֹ]] [[H5315H\|נֶ֔פֶשׁ]] [[H3651C\|כֵּ֖ן]] [[H9009\|הַ]][[H1697L\|דָּבָ֥ר]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHURCH|CHURCH]] • [[topic RAPE|RAPE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.22.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.22.25|<< Deuteronomy 22:25]]</td><td align="center" style="border:none;">[[Deut.22|Deuteronomy 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.22.27|Deuteronomy 22:27 >>]]</td></tr></table>
 

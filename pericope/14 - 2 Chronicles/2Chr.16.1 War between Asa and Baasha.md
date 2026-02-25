@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: War between Asa and Baasha
+type: Pericope
 pericope: "[[2Chr.16.1 War between Asa and Baasha|War between Asa and Baasha]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 16
 book/chapter: "[[2Chr.16|2 Chronicles 16]]"
-genre:
+chronological_order: 562
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 6
 verses:
 - "[[2Chr.16.1]]"
 - "[[2Chr.16.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2Chr.16.6]]"
 ---
 
-[[2Chr.16|2 Chronicles 16:1 - 2 Chronicles 16:6]]
+<small>[[2Chr.16|2 Chronicles 16:1-6]]</small>
 *War between Asa and Baasha*
 
 [[2Chr.16.1|1]] In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah.

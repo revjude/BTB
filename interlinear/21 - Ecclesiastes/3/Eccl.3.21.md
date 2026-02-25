@@ -1,8 +1,60 @@
+---
+title: Ecclesiastes 3:21
+type: Verse
+kjv: "Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?"
+bsb: "Who knows if the spirit of man rises upward and the spirit of the animal descends into the earth?"
+hebrew: "מִ֣י יוֹדֵ֗עַ ר֚וּחַ בְּנֵ֣י הָאָדָ֔ם הָעֹלָ֥ה הִ֖יא לְמָ֑עְלָה וְר֙וּחַ֙ הַבְּהֵמָ֔ה הַיֹּרֶ֥דֶת הִ֖יא לְמַ֥טָּה לָאָֽרֶץ׃"
+pericope: "[[Eccl.3.16 From Dust to Dust|From Dust to Dust]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 3
+book/chapter: "[[Eccl.3|Ecclesiastes 3]]"
+chronological_order: 541
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H4310]]"
+- "[[H3045]]"
+- "[[H7307G]]"
+- "[[H1121G]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H5927G]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H3381]]"
+- "[[H4295]]"
+- "[[H0776H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 3:21**<big><big>[[Eccl.3.16 From Dust to Dust|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who knoweth the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?
 <small><sub>**BSB:**</sub></small>
 Who knows if the spirit of man rises upward and the spirit of the animal descends into the earth?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִ֣י]] [[H3045\|יוֹדֵ֗עַ]] [[H7307G\|ר֚וּחַ]] [[H1121G\|בְּנֵ֣י]] [[H9009\|הָ]][[H0120G\|אָדָ֔ם]] [[H9009\|הָ]][[H5927G\|עֹלָ֥ה]] [[H1931\|הִ֖יא]] [[H9005\|לְ]][[H4605\|מָ֑עְלָ]][[H9011\|ה]] [[H9002\|וְ]][[H7307G\|ר֙וּחַ֙]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֔ה]] [[H9009\|הַ]][[H3381\|יֹּרֶ֥דֶת]] [[H1931\|הִ֖יא]] [[H9005\|לְ]][[H4295\|מַ֥טָּה]] [[H9005\|לָ]][[H0776H\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.3.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.3.20|<< Ecclesiastes 3:20]]</td><td align="center" style="border:none;">[[Eccl.3|Ecclesiastes 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.3.22|Ecclesiastes 3:22 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: Acts 27:6
+type: Verse
+kjv: "And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein."
+bsb: "There the centurion found an Alexandrian ship sailing for Italy and put us on board."
+greek: "κἀκεῖ κἀκεῖ εὑρὼν ὁ ἑκατοντάρχης πλοῖον Ἀλεξανδρῖνον πλέον εἰς τὴν Ἰταλίαν ἐνεβίβασεν ἡμᾶς εἰς αὐτό."
+pericope: "[[Acts.27.1 Paul Sails for Rome|Paul Sails for Rome]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ALEXANDRIA|ALEXANDRIA]]"
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic MYRA|MYRA]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G2532]]"
+- "[[G1563]]"
+- "[[G2147]]"
+- "[[G3588]]"
+- "[[G1543]]"
+- "[[G4143]]"
+- "[[G0222]]"
+- "[[G4126]]"
+- "[[G1519]]"
+- "[[G2482]]"
+- "[[G1688]]"
+- "[[G3165]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Acts 27:6**<big><big>[[Acts.27.1 Paul Sails for Rome|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein.
 <small><sub>**BSB:**</sub></small>
 There the centurion found an Alexandrian ship sailing for Italy and put us on board.
-<small><sub>**Literal:**</sub></small>
-And there having found the centurion a ship of Alexandria sailing to <the> Italy he placed us into it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.5|<< Acts 27:5]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.7|Acts 27:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἀκεῖ]]  <sup><small>[[G1563\| [ • ] ]]</small></sup>  [[G2147\|εὑρὼν]]  [[G3588\|ὁ]]  [[G1543\|ἑκατοντάρχης]]  [[G4143\|πλοῖον]]  [[G0222\|Ἀλεξανδρῖνον]]  [[G4126\|πλέον]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2482\|Ἰταλίαν]]  [[G1688\|ἐνεβίβασεν]]  [[G3165\|ἡμᾶς]]  [[G1519\|εἰς]]  [[G0846\|αὐτό.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALEXANDRIA|ALEXANDRIA]] • [[topic COMMERCE|COMMERCE]] • [[topic MYRA|MYRA]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.5|<< Acts 27:5]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.7|Acts 27:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

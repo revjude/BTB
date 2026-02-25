@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: John’s Vision on Patmos
+type: Pericope
 pericope: "[[Rev.1.9 John’s Vision on Patmos|John’s Vision on Patmos]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 1
 book/chapter: "[[Rev.1|Revelation 1]]"
-genre:
+chronological_order: 1168
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 12
 verses:
 - "[[Rev.1.9]]"
 - "[[Rev.1.10]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Rev.1.20]]"
 ---
 
-[[Rev.1|Revelation 1:9 - Revelation 1:20]]
+<small>[[Rev.1|Revelation 1:9-20]]</small>
 *John’s Vision on Patmos*
 
 [[Rev.1.9|9]] I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.

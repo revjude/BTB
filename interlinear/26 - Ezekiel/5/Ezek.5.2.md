@@ -1,8 +1,74 @@
+---
+title: Ezekiel 5:2
+type: Verse
+kjv: "Thou shalt burn with fire a third part in the midst of the city, when the days of the siege are fulfilled: and thou shalt take a third part, and smite about it with a knife: and a third part thou shalt scatter in the wind; and I will draw out a sword after them."
+bsb: "When the days of the siege have ended, you are to burn up a third of the hair inside the city; you are also to take a third and slash it with the sword all around the city; and you are to scatter a third to the wind. For I will unleash a sword behind them."
+hebrew: "שְׁלִשִׁ֗ית בָּא֤וּר תַּבְעִיר֙ בְּת֣וֹךְ הָעִ֔יר כִּמְלֹ֖את יְמֵ֣י הַמָּצ֑וֹר וְלָֽקַחְתָּ֣ אֶת־ הַשְּׁלִשִׁ֗ית תַּכֶּ֤ה בַחֶ֙רֶב֙ סְבִ֣יבוֹתֶ֔יהָ וְהַשְּׁלִשִׁית֙ תִּזְרֶ֣ה לָר֔וּחַ וְחֶ֖רֶב אָרִ֥יק אַחֲרֵיהֶֽם׃"
+pericope: "[[Ezek.5.1 The Razor of Judgment|The Razor of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 5
+book/chapter: "[[Ezek.5|Ezekiel 5]]"
+chronological_order: 796
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic HAIR|HAIR]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H7992]]"
+- "[[H9003]]"
+- "[[H0217A]]"
+- "[[H1197A]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9004]]"
+- "[[H4390]]"
+- "[[H3117G]]"
+- "[[H4692]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H2719]]"
+- "[[H5439G]]"
+- "[[H9034]]"
+- "[[H9002]]"
+- "[[H2219]]"
+- "[[H9005]]"
+- "[[H7307H]]"
+- "[[H7324]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 5:2**<big><big>[[Ezek.5.1 The Razor of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt burn with fire a third part in the midst of the city, when the days of the siege are fulfilled: and thou shalt take a third part, [and] smite about it with a knife: and a third part thou shalt scatter in the wind; and I will draw out a sword after them.
 <small><sub>**BSB:**</sub></small>
 When the days of the siege have ended, you are to burn up a third of the hair inside the city; you are also to take a third and slash it with the sword all around the city; and you are to scatter a third to the wind. For I will unleash a sword behind them.
+<small><sub>**Hebrew:**</sub></small>
+[[H7992\|שְׁלִשִׁ֗ית]] [[H9003\|בָּ]][[H0217A\|א֤וּר]] [[H1197A\|תַּבְעִיר֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9004\|כִּ]][[H4390\|מְלֹ֖את]] [[H3117G\|יְמֵ֣י]] [[H9009\|הַ]][[H4692\|מָּצ֑וֹר]] [[H9001\|וְ]][[H3947G\|לָֽקַחְתָּ֣]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7992\|שְּׁלִשִׁ֗ית]] [[H5221\|תַּכֶּ֤ה]] [[H9003\|בַ]][[H2719\|חֶ֙רֶב֙]] [[H5439G\|סְבִ֣יבוֹתֶ֔י]][[H9034\|הָ]] [[H9002\|וְ]][[H9009\|הַ]][[H7992\|שְּׁלִשִׁית֙]] [[H2219\|תִּזְרֶ֣ה]] [[H9005\|לָ]][[H7307H\|ר֔וּחַ]] [[H9002\|וְ]][[H2719\|חֶ֖רֶב]] [[H7324\|אָרִ֥יק]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic EZEKIEL|EZEKIEL]] • [[topic HAIR|HAIR]] • [[topic PROPHECY|PROPHECY]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.5.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.5.1|<< Ezekiel 5:1]]</td><td align="center" style="border:none;">[[Ezek.5|Ezekiel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.5.3|Ezekiel 5:3 >>]]</td></tr></table>
 

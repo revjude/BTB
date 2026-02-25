@@ -1,8 +1,57 @@
+---
+title: Proverbs 3:12
+type: Verse
+kjv: "For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth."
+bsb: "for the LORD disciplines the one He loves, as does a father the son in whom he delights."
+hebrew: "כִּ֤י אֶ֥ת אֲשֶׁ֣ר יֶאֱהַ֣ב יְהוָ֣ה יוֹכִ֑יחַ וּ֝כְאָ֗ב אֶת־ בֵּ֥ן יִרְצֶֽה׃"
+pericope: "[[Prov.3.1 Trust in the LORD with All Your Heart|Trust in the LORD with All Your Heart]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHASTISEMENT|CHASTISEMENT]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H0157G]]"
+- "[[H3068G]]"
+- "[[H3198]]"
+- "[[H9002]]"
+- "[[H9004]]"
+- "[[H0001G]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H7521]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 3:12**<big><big>[[Prov.3.1 Trust in the LORD with All Your Heart|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For whom the LORD loveth he correcteth; even as a father the son [in whom] he delighteth.
 <small><sub>**BSB:**</sub></small>
 for the LORD disciplines the one He loves, as does a father the son in whom he delights.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0853\|אֶ֥ת]] [[H0834A\|אֲשֶׁ֣ר]] [[H0157G\|יֶאֱהַ֣ב]] [[H3068G\|יְהוָ֣ה]] [[H3198\|יוֹכִ֑יחַ]] [[H9002\|וּ֝]][[H9004\|כְ]][[H0001G\|אָ֗ב]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בֵּ֥ן]] [[H7521\|יִרְצֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHASTISEMENT|CHASTISEMENT]] • [[topic PARENTS|PARENTS]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.11|<< Proverbs 3:11]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.13|Proverbs 3:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,70 @@
+---
+title: 2 Kings 4:39
+type: Verse
+kjv: "And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred them into the pot of pottage: for they knew them not."
+bsb: "One of them went out to the field to gather herbs, and he found a wild vine from which he gathered as many wild gourds as his garment could hold. Then he came back and cut them up into the pot of stew, though no one knew what they were."
+hebrew: "וַיֵּצֵ֨א אֶחָ֣ד אֶל־ הַשָּׂדֶה֮ לְלַקֵּ֣ט אֹרֹת֒ וַיִּמְצָא֙ גֶּ֣פֶן שָׂדֶ֔ה וַיְלַקֵּ֥ט מִמֶּ֛נּוּ פַּקֻּעֹ֥ת שָׂדֶ֖ה מְלֹ֣א בִגְד֑וֹ וַיָּבֹ֗א וַיְפַלַּ֛ח אֶל־ סִ֥יר הַנָּזִ֖יד כִּֽי־ לֹ֥א יָדָֽעוּ׃"
+pericope: "[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|Elisha Purifies the Poisonous Stew]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic GILGAL|GILGAL]]"
+- "[[topic GOURD|GOURD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0259]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9005]]"
+- "[[H3950]]"
+- "[[H0219B]]"
+- "[[H4672]]"
+- "[[H1612]]"
+- "[[H7704I]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H6498]]"
+- "[[H4393]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H0935G]]"
+- "[[H6398]]"
+- "[[H5518A]]"
+- "[[H5138]]"
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:39**<big><big>[[2Kgs.4.38 Elisha Purifies the Poisonous Stew|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And one went out into the field to gather herbs, and found a wild vine, and gathered thereof wild gourds his lap full, and came and shred [them] into the pot of pottage: for they knew [them] not.
 <small><sub>**BSB:**</sub></small>
 One of them went out to the field to gather herbs, and he found a wild vine from which he gathered as many wild gourds as his garment could hold. Then he came back and cut them up into the pot of stew, though no one knew what they were.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֨א]] [[H0259\|אֶחָ֣ד]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7704G\|שָּׂדֶה֮]] [[H9005\|לְ]][[H3950\|לַקֵּ֣ט]] [[H0219B\|אֹרֹת֒]] [[H9001\|וַ]][[H4672\|יִּמְצָא֙]] [[H1612\|גֶּ֣פֶן]] [[H7704I\|שָׂדֶ֔ה]] [[H9001\|וַ]][[H3950\|יְלַקֵּ֥ט]] [[H4480A\|מִמֶּ֛]][[H9033\|נּוּ]] [[H6498\|פַּקֻּעֹ֥ת]] [[H7704I\|שָׂדֶ֖ה]] [[H4393\|מְלֹ֣א]] [[H0899B\|בִגְד֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H0935G\|יָּבֹ֗א]] [[H9001\|וַ]][[H6398\|יְפַלַּ֛ח]] [[H0413\|אֶל]][[H9014\|־]] [[H5518A\|סִ֥יר]] [[H9009\|הַ]][[H5138\|נָּזִ֖יד]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H3045\|יָדָֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic GILGAL|GILGAL]] • [[topic GOURD|GOURD]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.38|<< 2 Kings 4:38]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.40|2 Kings 4:40 >>]]</td></tr></table>
 

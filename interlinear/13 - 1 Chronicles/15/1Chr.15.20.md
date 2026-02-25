@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 15:20
+type: Verse
+kjv: "And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;"
+bsb: "Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were to play the harps according to Alamoth."
+hebrew: "וּזְכַרְיָ֨ה וַעֲזִיאֵ֜ל וּשְׁמִֽירָמ֤וֹת וִֽיחִיאֵל֙ וְעֻנִּ֣י וֶֽאֱלִיאָ֔ב וּמַעֲשֵׂיָ֖הוּ וּבְנָיָ֑הוּ בִּנְבָלִ֖ים עַל־ עֲלָמֽוֹת׃"
+pericope: "[[1Chr.15.14 The Priests and Levites Carry the Ark|The Priests and Levites Carry the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ALAMOTH|ALAMOTH]]"
+- "[[topic AZIEL|AZIEL]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELIAB|ELIAB]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic SHEMIRAMOTH|SHEMIRAMOTH]]"
+- "[[topic TACT|TACT]]"
+- "[[topic UNNI|UNNI]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H9002]]"
+- "[[H2148A]]"
+- "[[H5815]]"
+- "[[H8070G]]"
+- "[[H3171G]]"
+- "[[H6042G]]"
+- "[[H0446K]]"
+- "[[H4641G]]"
+- "[[H1141J]]"
+- "[[H9003]]"
+- "[[H5035B]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:20**<big><big>[[1Chr.15.14 The Priests and Levites Carry the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;
 <small><sub>**BSB:**</sub></small>
 Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were to play the harps according to Alamoth.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H2148A\|זְכַרְיָ֨ה]] [[H9002\|וַ]][[H5815\|עֲזִיאֵ֜ל]] [[H9002\|וּ]][[H8070G\|שְׁמִֽירָמ֤וֹת]] [[H9002\|וִֽ]][[H3171G\|יחִיאֵל֙]] [[H9002\|וְ]][[H6042G\|עֻנִּ֣י]] [[H9002\|וֶֽ]][[H0446K\|אֱלִיאָ֔ב]] [[H9002\|וּ]][[H4641G\|מַעֲשֵׂיָ֖הוּ]] [[H9002\|וּ]][[H1141J\|בְנָיָ֑הוּ]] [[H9003\|בִּ]][[H5035B\|נְבָלִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5961\|עֲלָמֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALAMOTH|ALAMOTH]] • [[topic AZIEL|AZIEL]] • [[topic BENAIAH|BENAIAH]] • [[topic DAVID|DAVID]] • [[topic ELIAB|ELIAB]] • [[topic MAASEIAH|MAASEIAH]] • [[topic MUSIC|MUSIC]] • [[topic SHEMIRAMOTH|SHEMIRAMOTH]] • [[topic TACT|TACT]] • [[topic UNNI|UNNI]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.19|<< 1 Chronicles 15:19]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.21|1 Chronicles 15:21 >>]]</td></tr></table>
 

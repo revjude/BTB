@@ -1,8 +1,75 @@
+---
+title: 1 Samuel 11:11
+type: Verse
+kjv: "And it was so on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together."
+bsb: "The next day Saul organized the troops into three divisions, and during the morning watch they invaded the camp of the Ammonites and slaughtered them, until the hottest part of the day. And the survivors were so scattered that no two of them were left together."
+hebrew: "וַיְהִ֣י מִֽמָּחֳרָ֗ת וַיָּ֨שֶׂם שָׁא֣וּל אֶת־ הָעָם֮ שְׁלֹשָׁ֣ה רָאשִׁים֒ וַיָּבֹ֤אוּ בְתוֹךְ־ הַֽמַּחֲנֶה֙ בְּאַשְׁמֹ֣רֶת הַבֹּ֔קֶר וַיַּכּ֥וּ אֶת־ עַמּ֖וֹן עַד־ חֹ֣ם הַיּ֑וֹם וַיְהִ֤י הַנִּשְׁאָרִים֙ וַיָּפֻ֔צוּ וְלֹ֥א נִשְׁאֲרוּ־ בָ֖ם שְׁנַ֥יִם יָֽחַד׃"
+pericope: "[[1Sam.11.1 Saul Defeats the Ammonites|Saul Defeats the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 11
+book/chapter: "[[1Sam.11|1 Samuel 11]]"
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic NAHASH|NAHASH]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic TIME|TIME]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H4283]]"
+- "[[H7760H]]"
+- "[[H7586G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H7969]]"
+- "[[H7218K]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H4264]]"
+- "[[H0821]]"
+- "[[H1242]]"
+- "[[H5221]]"
+- "[[H5983]]"
+- "[[H5704]]"
+- "[[H2527]]"
+- "[[H3117G]]"
+- "[[H7604]]"
+- "[[H6327A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9038]]"
+- "[[H8147]]"
+- "[[H3162A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 11:11**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was [so] on the morrow, that Saul put the people in three companies; and they came into the midst of the host in the morning watch, and slew the Ammonites until the heat of the day: and it came to pass, that they which remained were scattered, so that two of them were not left together.
 <small><sub>**BSB:**</sub></small>
 The next day Saul organized the troops into three divisions, and during the morning watch they invaded the camp of the Ammonites and slaughtered them, until the hottest part of the day. And the survivors were so scattered that no two of them were left together.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֣י]] [[H9006\|מִֽ]][[H4283\|מָּחֳרָ֗ת]] [[H9001\|וַ]][[H7760H\|יָּ֨שֶׂם]] [[H7586G\|שָׁא֣וּל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָם֮]] [[H7969\|שְׁלֹשָׁ֣ה]] [[H7218K\|רָאשִׁים֒]] [[H9001\|וַ]][[H0935G\|יָּבֹ֤אוּ]] [[H9003\|בְ]][[H8432\|תוֹךְ]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶה֙]] [[H9003\|בְּ]][[H0821\|אַשְׁמֹ֣רֶת]] [[H9009\|הַ]][[H1242\|בֹּ֔קֶר]] [[H9001\|וַ]][[H5221\|יַּכּ֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5983\|עַמּ֖וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H2527\|חֹ֣ם]] [[H9009\|הַ]][[H3117G\|יּ֑וֹם]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִים֙]] [[H9001\|וַ]][[H6327A\|יָּפֻ֔צוּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7604\|נִשְׁאֲרוּ]][[H9014\|־]] [[H9003\|בָ֖]][[H9038\|ם]] [[H8147\|שְׁנַ֥יִם]] [[H3162A\|יָֽחַד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic NAHASH|NAHASH]] • [[topic NIGHT|NIGHT]] • [[topic TIME|TIME]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.11.10|<< 1 Samuel 11:10]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.12|1 Samuel 11:12 >>]]</td></tr></table>
 

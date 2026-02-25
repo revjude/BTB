@@ -1,8 +1,60 @@
+---
+title: Zephaniah 3:15
+type: Verse
+kjv: "The LORD hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, even the LORD, is in the midst of thee: thou shalt not see evil any more."
+bsb: "The LORD has taken away your punishment; He has turned back your enemy. Israel’s King, the LORD, is among you; no longer will you fear any harm."
+hebrew: "הֵסִ֤יר יְהוָה֙ מִשְׁפָּטַ֔יִךְ פִּנָּ֖ה אֹֽיְבֵ֑ךְ מֶ֣לֶךְ יִשְׂרָאֵ֤ל׀ יְהוָה֙ בְּקִרְבֵּ֔ךְ לֹא־ תִֽירְאִ֥י רָ֖ע עֽוֹד׃"
+pericope: "[[Zeph.3.14 Israel’s Restoration|Israel’s Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Zephaniah
+chapter: 3
+book/chapter: "[[Zeph.3|Zephaniah 3]]"
+chronological_order: 717
+era: Exile
+period: "Judah Alone: Zephaniah's Prophecy"
+date: ~630–625 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H5493G]]"
+- "[[H3068G]]"
+- "[[H4941G]]"
+- "[[H9022]]"
+- "[[H6437G]]"
+- "[[H0341]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H3372G]]"
+- "[[H7451B]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+- L(V)
+---
+
 **Zephaniah 3:15**<big><big>[[Zeph.3.14 Israel’s Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD hath taken away thy judgments, he hath cast out thine enemy: the king of Israel, [even] the LORD, [is] in the midst of thee: thou shalt not see evil any more.
 <small><sub>**BSB:**</sub></small>
 The LORD has taken away your punishment; He has turned back your enemy. Israel’s King, the LORD, is among you; no longer will you fear any harm.
+<small><sub>**Hebrew:**</sub></small>
+[[H5493G\|הֵסִ֤יר]] [[H3068G\|יְהוָה֙]] [[H4941G\|מִשְׁפָּטַ֔יִ]][[H9022\|ךְ]] [[H6437G\|פִּנָּ֖ה]] [[H0341\|אֹֽיְבֵ֑]][[H9022\|ךְ]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֤ל]][[H9015\|׀]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H7130G\|קִרְבֵּ֔]][[H9022\|ךְ]] [[H3808\|לֹא]][[H9014\|־]] [[H3372G\|תִֽירְאִ֥י]] [[H7451B\|רָ֖ע]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zeph.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zeph.3.14|<< Zephaniah 3:14]]</td><td align="center" style="border:none;">[[Zeph.3|Zephaniah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zeph.3.16|Zephaniah 3:16 >>]]</td></tr></table>
 

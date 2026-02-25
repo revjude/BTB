@@ -1,7 +1,7 @@
 
 **BETROTHAL**
 
-→ Of Jacob [[Gen.29.18|Ge 29:18]]-[[Gen.29.30|30]]
+→ Of Jacob [[Gen.29.18|Ge 29:18-30]]
 
 → Exempts from military duty [[Deut.20.7|De 20:7]]
 

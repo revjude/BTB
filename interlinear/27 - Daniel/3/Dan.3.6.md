@@ -1,8 +1,65 @@
+---
+title: Daniel 3:6
+type: Verse
+kjv: "And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace."
+bsb: "And whoever does not fall down and worship will immediately be thrown into the blazing fiery furnace.”"
+aramaic: "וּמַן־ דִּי־ לָ֥א יִפֵּ֖ל וְיִסְגֻּ֑ד בַּהּ־ שַׁעֲתָ֣א יִתְרְמֵ֔א לְגֽוֹא־ אַתּ֥וּן נוּרָ֖א יָקִֽדְתָּֽא׃"
+pericope: "[[Dan.3.1 Nebuchadnezzar’s Golden Statue|Nebuchadnezzar’s Golden Statue]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 3
+book/chapter: "[[Dan.3|Daniel 3]]"
+chronological_order: 788
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic COERCION|COERCION]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4479]]"
+- "[[H9014]]"
+- "[[H1768]]"
+- "[[H3809]]"
+- "[[H5308]]"
+- "[[H5457]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H8160]]"
+- "[[H9010]]"
+- "[[H7412]]"
+- "[[H9005]]"
+- "[[H1459]]"
+- "[[H0861]]"
+- "[[H5135]]"
+- "[[H3345]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 3:6**<big><big>[[Dan.3.1 Nebuchadnezzar’s Golden Statue|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And whoso falleth not down and worshippeth shall the same hour be cast into the midst of a burning fiery furnace.
 <small><sub>**BSB:**</sub></small>
 And whoever does not fall down and worship will immediately be thrown into the blazing fiery furnace.”
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H4479\|מַן]][[H9014\|־]] [[H1768\|דִּי]][[H9014\|־]] [[H3809\|לָ֥א]] [[H5308\|יִפֵּ֖ל]] [[H9002\|וְ]][[H5457\|יִסְגֻּ֑ד]] [[H9003\|בַּ]][[H9034\|הּ]][[H9014\|־]] [[H8160\|שַׁעֲתָ֣]][[H9010\|א]] [[H7412\|יִתְרְמֵ֔א]] [[H9005\|לְ]][[H1459\|גֽוֹא]][[H9014\|־]] [[H0861\|אַתּ֥וּן]] [[H5135\|נוּרָ֖]][[H9010\|א]] [[H3345\|יָקִֽדְתָּֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COERCION|COERCION]] • [[topic FIRE|FIRE]] • [[topic FURNACE|FURNACE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MUSIC|MUSIC]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.3.5|<< Daniel 3:5]]</td><td align="center" style="border:none;">[[Dan.3|Daniel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.3.7|Daniel 3:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

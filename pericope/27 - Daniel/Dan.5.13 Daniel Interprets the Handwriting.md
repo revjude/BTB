@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel Interprets the Handwriting
+type: Pericope
 pericope: "[[Dan.5.13 Daniel Interprets the Handwriting|Daniel Interprets the Handwriting]]"
-verse_count: 19
+original_language: Aramaic
 testament: Old
 book: Daniel
 chapter: 5
 book/chapter: "[[Dan.5|Daniel 5]]"
-genre:
+chronological_order: 790
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 19
 verses:
 - "[[Dan.5.13]]"
 - "[[Dan.5.14]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Dan.5.31]]"
 ---
 
-[[Dan.5|Daniel 5:13 - Daniel 5:31]]
+<small>[[Dan.5|Daniel 5:13-31]]</small>
 *Daniel Interprets the Handwriting*
 
 [[Dan.5.13|13]] Then was Daniel brought in before the king. \[And\] the king spake and said unto Daniel, \[Art\] thou that Daniel, which \[art\] of the children of the captivity of Judah, whom the king my father brought out of Jewry?

@@ -1,8 +1,58 @@
+---
+title: Genesis 16:14
+type: Verse
+kjv: "Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered."
+bsb: "Therefore the well was called Beer-lahai-roi. It is located between Kadesh and Bered."
+hebrew: "עַל־ כֵּן֙ קָרָ֣א לַבְּאֵ֔ר בְּאֵ֥ר לַחַ֖י רֹאִ֑י הִנֵּ֥ה בֵין־ קָדֵ֖שׁ וּבֵ֥ין בָּֽרֶד׃"
+pericope: "[[Gen.16.1 Hagar and Ishmael|Hagar and Ishmael]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 16
+book/chapter: "[[Gen.16|Genesis 16]]"
+chronological_order: 58
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEER-LAHAI-ROI|BEER-LAHAI-ROI]]"
+- "[[topic BERED|BERED]]"
+- "[[topic LAHAI-ROI|LAHAI-ROI]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H7121H]]"
+- "[[H9005]]"
+- "[[H0875]]"
+- "[[H0883]]"
+- "[[H2009]]"
+- "[[H0996G]]"
+- "[[H6946G]]"
+- "[[H9002]]"
+- "[[H1260G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 16:14**<big><big>[[Gen.16.1 Hagar and Ishmael|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the well was called Beerlahairoi; behold, [it is] between Kadesh and Bered.
 <small><sub>**BSB:**</sub></small>
 Therefore the well was called Beer-lahai-roi. It is located between Kadesh and Bered.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H7121H\|קָרָ֣א]] [[H9005\|לַ]][[H0875\|בְּאֵ֔ר]] [[H0883\|בְּאֵ֥ר]] [[H0883\|לַחַ֖י]] [[H0883\|רֹאִ֑י]] [[H2009\|הִנֵּ֥ה]] [[H0996G\|בֵין]][[H9014\|־]] [[H6946G\|קָדֵ֖שׁ]] [[H9002\|וּ]][[H0996G\|בֵ֥ין]] [[H1260G\|בָּֽרֶד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-LAHAI-ROI|BEER-LAHAI-ROI]] • [[topic BERED|BERED]] • [[topic LAHAI-ROI|LAHAI-ROI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.16.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.16.13|<< Genesis 16:13]]</td><td align="center" style="border:none;">[[Gen.16|Genesis 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.16.15|Genesis 16:15 >>]]</td></tr></table>
 

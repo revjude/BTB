@@ -1,10 +1,61 @@
+---
+title: Matthew 1:21
+type: Verse
+kjv: "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins."
+bsb: "She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.”"
+greek: "τέξεται δὲ υἱόν, καὶ καλέσεις τὸ ὄνομα αὐτοῦ Ἰησοῦν· αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν.¶"
+pericope: "[[Matt.1.18 The Birth of Jesus|The Birth of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[G5088]]"
+- "[[G1161]]"
+- "[[G5207]]"
+- "[[G2532]]"
+- "[[G2564G]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G0846]]"
+- "[[G2424G]]"
+- "[[G1063]]"
+- "[[G4982]]"
+- "[[G2992]]"
+- "[[G0575]]"
+- "[[G0266]]"
+texts:
+- NKO
+---
+
 **Matthew 1:21**<big><big>[[Matt.1.18 The Birth of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.
 <small><sub>**BSB:**</sub></small>
 She will give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.”
-<small><sub>**Literal:**</sub></small>
-She will bear then a son, and you will call the name of Him Jesus; He himself for will save the people of Him from the sins of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.20|<< Matthew 1:20]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.22|Matthew 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5088\|τέξεται]]  [[G1161\|δὲ]]  [[G5207\|υἱόν,]]  [[G2532\|καὶ]]  [[G2564G\|καλέσεις]]  [[G3588\|τὸ]]  [[G3686\|ὄνομα]]  [[G0846\|αὐτοῦ]]  [[G2424G\|Ἰησοῦν·]]  [[G0846\|αὐτὸς]]  [[G1063\|γὰρ]]  [[G4982\|σώσει]]  [[G3588\|τὸν]]  [[G2992\|λαὸν]]  [[G0846\|αὐτοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G0266\|ἁμαρτιῶν]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DREAM|DREAM]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MIRACLES|MIRACLES]] • [[topic SALVATION|SALVATION]] • [[topic SIN|SIN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.20|<< Matthew 1:20]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.22|Matthew 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -103,7 +103,7 @@
 
 - Disobedient [[Neh.9.26|Ne 9:26]]; [[Titus.3.3|Tit 3:3]]; [[1Pet.2.7|1Pe 2:7]]
 
-- Enticing to evil [[Prov.1.10|Pr 1:10]]-[[Prov.1.14|14]]; [[2Tim.3.6|2Ti 3:6]]
+- Enticing to evil [[Prov.1.10|Pr 1:10-14]]; [[2Tim.3.6|2Ti 3:6]]
 
 - Envious [[Neh.2.10|Ne 2:10]]; [[Titus.3.3|Tit 3:3]]
 
@@ -201,7 +201,7 @@
 
 → GOOD [[Prov.22.1|Pr 22:1]]; [[Eccl.7.1|Ec 7:1]]
 
-→ DEFAMATION OF, PUNISHED [[Deut.22.13|De 22:13]]-[[Deut.22.19|19]]
+→ DEFAMATION OF, PUNISHED [[Deut.22.13|De 22:13-19]]
 
 → REVEALED IN COUNTENANCE [[Isa.3.9|Isa 3:9]]
 
@@ -213,17 +213,17 @@
 
 → INSTANCES OF FIRMNESS
 
-- Joseph in resisting Potiphar's wife [[Gen.39.7|Ge 39:7]]-[[Gen.39.12|12]]
+- Joseph in resisting Potiphar's wife [[Gen.39.7|Ge 39:7-12]]
 
 - Pilate [[John.19.22|Joh 19:22]]
 
-- Paul [[Acts.20.22|Ac 20:22]]-[[Acts.20.24|24]]; [[Acts.21.13|21:13]],[[Acts.21.14|14]]
+- Paul [[Acts.20.22|Ac 20:22-24]]; [[Acts.21.13|21:13]],[[Acts.21.14|14]]
 
 - See [[topic DECISION|DECISION]]
 
 - See [[topic STABILITY|STABILITY]]
 
-→ INSTABILITY OF [[Prov.24.21|Pr 24:21]],[[Prov.24.22|22]]; [[Prov.27.8|27:8]]; [[Jer.2.36|Jer 2:36]]; [[Hos.6.4|Ho 6:4]];  [[Hos.7.8|7:8]]; [[Hos.10.2|10:2]]; [[Matt.8.19|Mt 8:19]]-[[Matt.8.22|22]]; [[Matt.13.19|13:19]]-[[Matt.13.22|22]]; [[Mark.4.15|Mr 4:15]]-[[Mark.4.19|19]]; [[Luke.8.5|Lu 8:5]]-[[Luke.8.15|15]]; [[Luke.9.59|9:59]]-[[Luke.9.62|62]]; [[Eph.4.14|Eph 4:14]]; [[Jas.1.6|Jas 1:6]]-[[Jas.1.8|8]];  [[Jas.4.8|4:8]]; [[2Pet.2.14|2Pe 2:14]]
+→ INSTABILITY OF [[Prov.24.21|Pr 24:21]],[[Prov.24.22|22]]; [[Prov.27.8|27:8]]; [[Jer.2.36|Jer 2:36]]; [[Hos.6.4|Ho 6:4]];  [[Hos.7.8|7:8]]; [[Hos.10.2|10:2]]; [[Matt.8.19|Mt 8:19-22]]; [[Matt.13.19|13:19-22]]; [[Mark.4.15|Mr 4:15-19]]; [[Luke.8.5|Lu 8:5-15]]; [[Luke.9.59|9:59-62]]; [[Eph.4.14|Eph 4:14]]; [[Jas.1.6|Jas 1:6-8]];  [[Jas.4.8|4:8]]; [[2Pet.2.14|2Pe 2:14]]
 
 - See [[topic INDECISION|INDECISION]]
 
@@ -241,7 +241,7 @@
 
 - PHARAOH [[Exod.8.15|Ex 8:15]],[[Exod.8.32|32]]; [[Exod.9.34|9:34]]; [[Exod.14.5|14:5]]
 
-- SOLOMON [[1Kgs.11.4|1Ki 11:4]]-[[1Kgs.11.8|8]]
+- SOLOMON [[1Kgs.11.4|1Ki 11:4-8]]
 
 - ISRAELITES [[Exod.32.8|Ex 32:8]]; [[Judg.2.17|Jud 2:17]],[[Judg.2.19|19]]; [[2Chr.11.17|2Ch 11:17]]; [[2Chr.12.1|12:1]]; [[1Sam.18.19|1Sa  18:19]]
 

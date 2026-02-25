@@ -1,8 +1,57 @@
+---
+title: Judges 5:6
+type: Verse
+kjv: "In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways."
+bsb: "In the days of Shamgar son of Anath, in the days of Jael, the highways were deserted and the travelers took the byways."
+hebrew: "בִּימֵ֞י שַׁמְגַּ֤ר בֶּן־ עֲנָת֙ בִּימֵ֣י יָעֵ֔ל חָדְל֖וּ אֳרָח֑וֹת וְהֹלְכֵ֣י נְתִיב֔וֹת יֵלְכ֕וּ אֳרָח֖וֹת עֲקַלְקַלּֽוֹת׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic JAEL|JAEL]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SHAMGAR|SHAMGAR]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H8044]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6067]]"
+- "[[H3278]]"
+- "[[H2308]]"
+- "[[H0734]]"
+- "[[H9002]]"
+- "[[H1980I]]"
+- "[[H5410B]]"
+- "[[H6128]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:6**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways.
 <small><sub>**BSB:**</sub></small>
 In the days of Shamgar son of Anath, in the days of Jael, the highways were deserted and the travelers took the byways.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בִּ]][[H3117G\|ימֵ֞י]] [[H8044\|שַׁמְגַּ֤ר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6067\|עֲנָת֙]] [[H9003\|בִּ]][[H3117G\|ימֵ֣י]] [[H3278\|יָעֵ֔ל]] [[H2308\|חָדְל֖וּ]] [[H0734\|אֳרָח֑וֹת]] [[H9002\|וְ]][[H1980I\|הֹלְכֵ֣י]] [[H5410B\|נְתִיב֔וֹת]] [[H1980I\|יֵלְכ֕וּ]] [[H0734\|אֳרָח֖וֹת]] [[H6128\|עֲקַלְקַלּֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic JAEL|JAEL]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SHAMGAR|SHAMGAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.5|<< Judges 5:5]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.7|Judges 5:7 >>]]</td></tr></table>
 

@@ -1,8 +1,70 @@
+---
+title: 2 Chronicles 34:24
+type: Verse
+kjv: "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the curses that are written in the book which they have read before the king of Judah:"
+bsb: "that this is what the LORD says: I am about to bring calamity on this place and on its people, according to all the curses written in the book that has been read in the presence of the king of Judah,"
+hebrew: "כֹּ֚ה אָמַ֣ר יְהוָ֔ה הִנְנִ֨י מֵבִ֥יא רָעָ֛ה עַל־ הַמָּק֥וֹם הַזֶּ֖ה וְעַל־ יוֹשְׁבָ֑יו אֵ֤ת כָּל־ הָאָלוֹת֙ הַכְּתוּב֣וֹת עַל־ הַסֵּ֔פֶר אֲשֶׁ֣ר קָֽרְא֔וּ לִפְנֵ֖י מֶ֥לֶךְ יְהוּדָֽה׃"
+pericope: "[[2Chr.34.22 Huldah’s Prophecy|Huldah’s Prophecy]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 34
+book/chapter: "[[2Chr.34|2 Chronicles 34]]"
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ASAHIAH|ASAHIAH]]"
+- "[[topic HULDAH|HULDAH]]"
+- "[[topic JOSIAH|JOSIAH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H0935P]]"
+- "[[H7451C]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0423]]"
+- "[[H3789]]"
+- "[[H5612H]]"
+- "[[H0834A]]"
+- "[[H7121J]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 34:24**<big><big>[[2Chr.34.22 Huldah’s Prophecy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, [even] all the curses that are written in the book which they have read before the king of Judah:
 <small><sub>**BSB:**</sub></small>
 that this is what the LORD says: I am about to bring calamity on this place and on its people, according to all the curses written in the book that has been read in the presence of the king of Judah,
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H0935P\|מֵבִ֥יא]] [[H7451C\|רָעָ֛ה]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3427\|יוֹשְׁבָ֑י]][[H9023\|ו]] [[H0853\|אֵ֤ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0423\|אָלוֹת֙]] [[H9009\|הַ]][[H3789\|כְּתוּב֣וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H5612H\|סֵּ֔פֶר]] [[H0834A\|אֲשֶׁ֣ר]] [[H7121J\|קָֽרְא֔וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H4428G\|מֶ֥לֶךְ]] [[H3063G\|יְהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAHIAH|ASAHIAH]] • [[topic HULDAH|HULDAH]] • [[topic JOSIAH|JOSIAH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.34.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.34.23|<< 2 Chronicles 34:23]]</td><td align="center" style="border:none;">[[2Chr.34|2 Chronicles 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.34.25|2 Chronicles 34:25 >>]]</td></tr></table>
 

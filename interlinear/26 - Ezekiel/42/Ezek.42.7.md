@@ -1,8 +1,58 @@
+---
+title: Ezekiel 42:7
+type: Verse
+kjv: "And the wall that was without over against the chambers, toward the utter court on the forepart of the chambers, the length thereof was fifty cubits."
+bsb: "An outer wall in front of the chambers was fifty cubits long and ran parallel to the chambers and the outer court."
+hebrew: "וְגָדֵ֤ר אֲשֶׁר־ לַחוּץ֙ לְעֻמַּ֣ת הַלְּשָׁכ֔וֹת דֶּ֛רֶךְ הֶחָצֵ֥ר הַחִֽצוֹנָ֖ה אֶל־ פְּנֵ֣י הַלְּשָׁכ֑וֹת אָרְכּ֖וֹ חֲמִשִּׁ֥ים אַמָּֽה׃"
+pericope: "[[Ezek.42.1 Chambers for the Priests|Chambers for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 42
+book/chapter: "[[Ezek.42|Ezekiel 42]]"
+chronological_order: 833
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H1447]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H2351]]"
+- "[[H5980]]"
+- "[[H9009]]"
+- "[[H3957]]"
+- "[[H1870J]]"
+- "[[H2691A]]"
+- "[[H2435]]"
+- "[[H0413]]"
+- "[[H6440G]]"
+- "[[H0753]]"
+- "[[H9023]]"
+- "[[H2572]]"
+- "[[H0520A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 42:7**<big><big>[[Ezek.42.1 Chambers for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the wall that [was] without over against the chambers, toward the utter court on the forepart of the chambers, the length thereof [was] fifty cubits.
 <small><sub>**BSB:**</sub></small>
 An outer wall in front of the chambers was fifty cubits long and ran parallel to the chambers and the outer court.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1447\|גָדֵ֤ר]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לַ]][[H2351\|חוּץ֙]] [[H9005\|לְ]][[H5980\|עֻמַּ֣ת]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֔וֹת]] [[H1870J\|דֶּ֛רֶךְ]] [[H9009\|הֶ]][[H2691A\|חָצֵ֥ר]] [[H9009\|הַ]][[H2435\|חִֽצוֹנָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H9009\|הַ]][[H3957\|לְּשָׁכ֑וֹת]] [[H0753\|אָרְכּ֖]][[H9023\|וֹ]] [[H2572\|חֲמִשִּׁ֥ים]] [[H0520A\|אַמָּֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.42.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.42.6|<< Ezekiel 42:6]]</td><td align="center" style="border:none;">[[Ezek.42|Ezekiel 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.42.8|Ezekiel 42:8 >>]]</td></tr></table>
 

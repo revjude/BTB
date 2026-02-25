@@ -1,8 +1,61 @@
+---
+title: Ezekiel 21:32
+type: Verse
+kjv: "Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no more remembered: for I the LORD have spoken it."
+bsb: "You will be fuel for the fire. Your blood will stain your own land. You will not be remembered, for I, the LORD, have spoken.’”"
+hebrew: "לָאֵ֤שׁ תִּֽהְיֶה֙ לְאָכְלָ֔ה דָּמֵ֥ךְ יִהְיֶ֖ה בְּת֣וֹךְ הָאָ֑רֶץ לֹ֣א תִזָּכֵ֔רִי כִּ֛י אֲנִ֥י יְהוָ֖ה דִּבַּֽרְתִּי׃ פ"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+strongs:
+- "[[H9005]]"
+- "[[H0784]]"
+- "[[H1961]]"
+- "[[H0402]]"
+- "[[H1818]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3808]]"
+- "[[H2142]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezekiel 21:32**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no [more] remembered: for I the LORD have spoken [it].
 <small><sub>**BSB:**</sub></small>
 You will be fuel for the fire. Your blood will stain your own land. You will not be remembered, for I, the LORD, have spoken.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H0784\|אֵ֤שׁ]] [[H1961\|תִּֽהְיֶה֙]] [[H9005\|לְ]][[H0402\|אָכְלָ֔ה]] [[H1818\|דָּמֵ֥]][[H9022\|ךְ]] [[H1961\|יִהְיֶ֖ה]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H3808\|לֹ֣א]] [[H2142\|תִזָּכֵ֔רִי]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H1696G\|דִּבַּֽרְתִּי]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.31|<< Ezekiel 21:31]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.1|Ezekiel 22:1 >>]]</td></tr></table>
 
@@ -20,7 +73,7 @@ You will be fuel for the fire. Your blood will stain your own land. You will not
 | for  |**<big>&#8207;[[H3588A\|כִּ֛י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I  |**<big>&#8207;[[H0589\|אֲנִ֥י]]&#8207; </big>**| 'a.Ni<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֖ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I have spoken  |**<big>&#8207;[[H1696G\|דִּבַּֽרְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I have spoken  |**<big>&#8207;[[H1696G\|דִּבַּֽרְתִּי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| di.Bar.ti<small><sup>[[HVpp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.31|<< Ezekiel 21:31]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.22.1|Ezekiel 22:1 >>]]</td></tr></table>
 
 

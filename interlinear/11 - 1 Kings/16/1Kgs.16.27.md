@@ -1,8 +1,65 @@
+---
+title: 1 Kings 16:27
+type: Verse
+kjv: "Now the rest of the acts of Omri which he did, and his might that he shewed, are they not written in the book of the chronicles of the kings of Israel?"
+bsb: "As for the rest of the acts of Omri, along with his accomplishments and the might he exercised, are they not written in the Book of the Chronicles of the Kings of Israel?"
+hebrew: "וְיֶ֨תֶר דִּבְרֵ֤י עָמְרִי֙ אֲשֶׁ֣ר עָשָׂ֔ה וּגְבוּרָת֖וֹ אֲשֶׁ֣ר עָשָׂ֑ה הֲלֹֽא־ הֵ֣ם כְּתוּבִ֗ים עַל־ סֵ֛פֶר דִּבְרֵ֥י הַיָּמִ֖ים לְמַלְכֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[1Kgs.16.21 Omri Reigns in Israel|Omri Reigns in Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 16
+book/chapter: "[[1Kgs.16|1 Kings 16]]"
+chronological_order: 555
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic OMRI|OMRI]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H6018G]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H1369]]"
+- "[[H9023]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H1697O]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9005]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 16:27**<big><big>[[1Kgs.16.21 Omri Reigns in Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the acts of Omri which he did, and his might that he shewed, [are] they not written in the book of the chronicles of the kings of Israel?
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Omri, along with his accomplishments and the might he exercised, are they not written in the Book of the Chronicles of the Kings of Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֨תֶר]] [[H1697K\|דִּבְרֵ֤י]] [[H6018G\|עָמְרִי֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֔ה]] [[H9002\|וּ]][[H1369\|גְבוּרָת֖]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָׂ֑ה]] [[H9008\|הֲ]][[H3808\|לֹֽא]][[H9014\|־]] [[H1992\|הֵ֣ם]] [[H3789\|כְּתוּבִ֗ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֛פֶר]] [[H1697O\|דִּבְרֵ֥י]] [[H9009\|הַ]][[H3117G\|יָּמִ֖ים]] [[H9005\|לְ]][[H4428G\|מַלְכֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OMRI|OMRI]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.16.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.16.26|<< 1 Kings 16:26]]</td><td align="center" style="border:none;">[[1Kgs.16|1 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.16.28|1 Kings 16:28 >>]]</td></tr></table>
 

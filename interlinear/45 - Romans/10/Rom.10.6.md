@@ -1,10 +1,64 @@
+---
+title: Romans 10:6
+type: Verse
+kjv: "But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)"
+bsb: "But the righteousness that is by faith says: “Do not say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down)"
+greek: "Ἡ δὲ ἐκ πίστεως δικαιοσύνη οὕτως λέγει· μὴ εἴπῃς ἐν τῇ καρδίᾳ σου· τίς ἀναβήσεται εἰς τὸν οὐρανόν; τοῦτ᾽ ἔστιν Χριστὸν καταγαγεῖν·"
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1537]]"
+- "[[G4102G]]"
+- "[[G1343]]"
+- "[[G3779]]"
+- "[[G3004G]]"
+- "[[G3361]]"
+- "[[G2036]]"
+- "[[G1722]]"
+- "[[G2588]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G5547]]"
+- "[[G2609]]"
+texts:
+- NKO
+---
+
 **Romans 10:6**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the righteousness which is of faith speaketh on this wise, Say not in thine heart, Who shall ascend into heaven? (that is, to bring Christ down [from above]:)
 <small><sub>**BSB:**</sub></small>
 But the righteousness that is by faith says: “Do not say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down)
-<small><sub>**Literal:**</sub></small>
-The however of faith righteousness thus speaks: Not you may say in the heart of you; Who will ascend into <the> heaven?’ That is Christ to bring down;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.5|<< Romans 10:5]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.7|Romans 10:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ἡ]]  [[G1161\|δὲ]]  [[G1537\|ἐκ]]  [[G4102G\|πίστεως]]  [[G1343\|δικαιοσύνη]]  [[G3779\|οὕτως]]  [[G3004G\|λέγει·]]  [[G3361\|μὴ]]  [[G2036\|εἴπῃς]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2588\|καρδίᾳ]]  [[G4771\|σου·]]  [[G5101\|τίς]]  [[G0305\|ἀναβήσεται]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανόν;]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G5547\|Χριστὸν]]  [[G2609\|καταγαγεῖν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.5|<< Romans 10:5]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.7|Romans 10:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 10:6** is...
 > $\quad$ referencing: [[LXX.Deut.9.4|Deut 9:4]] ☩ [[LXX.Deut.30.12|Deut 30:12]]

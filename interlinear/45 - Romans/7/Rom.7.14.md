@@ -1,10 +1,57 @@
+---
+title: Romans 7:14
+type: Verse
+kjv: "For we know that the law is spiritual: but I am carnal, sold under sin."
+bsb: "We know that the law is spiritual; but I am unspiritual, sold as a slave to sin."
+greek: "Οἴδαμεν γὰρ ὅτι ὁ νόμος πνευματικός ἐστιν, ἐγὼ δὲ σάρκινός εἰμι πεπραμένος ὑπὸ τὴν ἁμαρτίαν."
+pericope: "[[Rom.7.13 Struggling with Sin|Struggling with Sin]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 7
+book/chapter: "[[Rom.7|Romans 7]]"
+chronological_order: 1093
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic LAW|LAW]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[G6063]]"
+- "[[G1063]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G4152]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G1161]]"
+- "[[G4560]]"
+- "[[G4097]]"
+- "[[G5259H]]"
+- "[[G0266]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Romans 7:14**<big><big>[[Rom.7.13 Struggling with Sin|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we know that the law is spiritual: but I am carnal, sold under sin.
 <small><sub>**BSB:**</sub></small>
 We know that the law is spiritual; but I am unspiritual, sold as a slave to sin.
-<small><sub>**Literal:**</sub></small>
-We know for that the Law spiritual is, I myself however fleshly am sold under <the> sin.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.13|<< Romans 7:13]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.15|Romans 7:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G6063\|Οἴδαμεν]]  [[G1063\|γὰρ]]  [[G3754G\|ὅτι]]  [[G3588\|ὁ]]  [[G3551\|νόμος]]  [[G4152\|πνευματικός]]  [[G1510\|ἐστιν,]]  [[G1473\|ἐγὼ]]  [[G1161\|δὲ]]  [[G4560\|σάρκινός]]  [[G1510\|εἰμι]]  [[G4097\|πεπραμένος]]  [[G5259H\|ὑπὸ]]  [[G3588\|τὴν]]  [[G0266\|ἁμαρτίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic LAW|LAW]] • [[topic MAN|MAN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.7.13|<< Romans 7:13]]</td><td align="center" style="border:none;">[[Rom.7|Romans 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.7.15|Romans 7:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

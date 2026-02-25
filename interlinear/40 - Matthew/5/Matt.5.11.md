@@ -1,10 +1,67 @@
+---
+title: Matthew 5:11
+type: Verse
+kjv: "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake."
+bsb: "Blessed are you when people insult you, persecute you, and falsely say all kinds of evil against you because of Me."
+jesus_said: "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake."
+greek: "Μακάριοί ἐστε, ὅταν ὀνειδίσωσιν ὑμᾶς καὶ διώξωσιν καὶ εἴπωσιν πᾶν πονηρὸν ῥῆμα καθ᾽ ὑμῶν ψευδόμενοι ἕνεκεν ἐμοῦ."
+pericope: "[[Matt.5.3 The Beatitudes|The Beatitudes]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GRACES|GRACES]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3107]]"
+- "[[G1510]]"
+- "[[G3752]]"
+- "[[G3679]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1377]]"
+- "[[G2036]]"
+- "[[G3956]]"
+- "[[G4190]]"
+- "[[G4487]]"
+- "[[G2596]]"
+- "[[G5574]]"
+- "[[G1752]]"
+- "[[G1473]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 5:11**<big><big>[[Matt.5.3 The Beatitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Blessed are ye, when [men] shall revile you, and persecute [you], and shall say all manner of evil against you falsely, for my sake.
 <small><sub>**BSB:**</sub></small>
 Blessed are you when people insult you, persecute you, and falsely say all kinds of evil against you because of Me.
-<small><sub>**Literal:**</sub></small>
-Blessed are you when they may insult you and they may persecute [you] and they may say all kinds of evil declaration against you lying on account of Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.10|<< Matthew 5:10]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.12|Matthew 5:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3107\|Μακάριοί]]  [[G1510\|ἐστε,]]  [[G3752\|ὅταν]]  [[G3679\|ὀνειδίσωσιν]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G1377\|διώξωσιν]]  [[G2532\|καὶ]]  [[G2036\|εἴπωσιν]]  [[G3956\|πᾶν]]  [[G4190\|πονηρὸν]]  [[G4487\|ῥῆμα]]  [[G2596\|καθ᾽]]  [[G4771\|ὑμῶν]]  [[G5574\|ψευδόμενοι]]  [[G1752\|ἕνεκεν]]  [[G1473\|ἐμοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GRACES|GRACES]] • [[topic HAPPINESS|HAPPINESS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PERSECUTION|PERSECUTION]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SLANDER|SLANDER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.10|<< Matthew 5:10]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.12|Matthew 5:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

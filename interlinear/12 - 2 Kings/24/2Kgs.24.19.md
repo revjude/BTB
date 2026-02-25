@@ -1,8 +1,55 @@
+---
+title: 2 Kings 24:19
+type: Verse
+kjv: "And he did that which was evil in the sight of the LORD, according to all that Jehoiakim had done."
+bsb: "And Zedekiah did evil in the sight of the LORD, just as Jehoiakim had done."
+hebrew: "וַיַּ֥עַשׂ הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה כְּכֹ֥ל אֲשֶׁר־ עָשָׂ֖ה יְהוֹיָקִֽים׃"
+pericope: "[[2Kgs.24.18 Zedekiah Reigns in Judah|Zedekiah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3079]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 24:19**<big><big>[[2Kgs.24.18 Zedekiah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he did [that which was] evil in the sight of the LORD, according to all that Jehoiakim had done.
 <small><sub>**BSB:**</sub></small>
 And Zedekiah did evil in the sight of the LORD, just as Jehoiakim had done.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213A\|יַּ֥עַשׂ]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9004\|כְּ]][[H3605\|כֹ֥ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|עָשָׂ֖ה]] [[H3079\|יְהוֹיָקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic RULERS|RULERS]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.18|<< 2 Kings 24:18]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.20|2 Kings 24:20 >>]]</td></tr></table>
 

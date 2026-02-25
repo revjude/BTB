@@ -1,8 +1,55 @@
+---
+title: Ezekiel 30:3
+type: Verse
+kjv: "For the day is near, even the day of the LORD is near, a cloudy day; it shall be the time of the heathen."
+bsb: "For the day is near, the Day of the LORD is near. It will be a day of clouds, a time of doom for the nations."
+hebrew: "כִּֽי־ קָר֣וֹב י֔וֹם וְקָר֥וֹב י֖וֹם לַֽיהוָ֑ה י֣וֹם עָנָ֔ן עֵ֥ת גּוֹיִ֖ם יִֽהְיֶֽה׃"
+pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 30
+book/chapter: "[[Ezek.30|Ezekiel 30]]"
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic DAY|DAY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7138]]"
+- "[[H3117G]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H6051]]"
+- "[[H6256]]"
+- "[[H1471A]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 30:3**<big><big>[[Ezek.30.1 A Lament for Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the day [is] near, even the day of the LORD [is] near, a cloudy day; it shall be the time of the heathen.
 <small><sub>**BSB:**</sub></small>
 For the day is near, the Day of the LORD is near. It will be a day of clouds, a time of doom for the nations.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7138\|קָר֣וֹב]] [[H3117G\|י֔וֹם]] [[H9002\|וְ]][[H7138\|קָר֥וֹב]] [[H3117G\|י֖וֹם]] [[H9005\|לַֽ]][[H3068G\|יהוָ֑ה]] [[H3117G\|י֣וֹם]] [[H6051\|עָנָ֔ן]] [[H6256\|עֵ֥ת]] [[H1471A\|גּוֹיִ֖ם]] [[H1961\|יִֽהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAY|DAY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.30.2|<< Ezekiel 30:2]]</td><td align="center" style="border:none;">[[Ezek.30|Ezekiel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.30.4|Ezekiel 30:4 >>]]</td></tr></table>
 

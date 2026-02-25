@@ -1,6 +1,76 @@
+---
+title: LXX 1 Kings 1:19
+type: Verse
+lxx: "And he sacrificed calves and lambs and sheep in multitude, and he called all the sons of the king, and Abiathar the priest, and Joab the ruler of the force; and  Solomon  your servant he did not call."
+greek: "και εθυσίασε μόσχους και άρνας και πρόβατα εις πλήθος και εκάλεσε πάντας τους υιούς του βασιλέως και Αβιαθάρ τον ιερέα και Ιωάβ τον άρχοντα της δυνάμεως και τον Σολομώντα τον δούλόν σου ουκ εκάλεσε"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[G2532]]"
+- "[[G7700]]"
+- "[[G3448]]"
+- "[[G2532]]"
+- "[[G0704]]"
+- "[[G2532]]"
+- "[[G4263]]"
+- "[[G1519]]"
+- "[[G4128]]"
+- "[[G2532]]"
+- "[[G2564]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G2532]]"
+- "[[G0008]]"
+- "[[G3588]]"
+- "[[G2409]]"
+- "[[G2532]]"
+- "[[H3097]]"
+- "[[G3588]]"
+- "[[G0758]]"
+- "[[G3588]]"
+- "[[G1411]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4672]]"
+- "[[G3588]]"
+- "[[G1401]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G2564]]"
+---
+
 **LXX 1 Kings 1:19** 
 <small><sub>**LXX:**</sub></small>
 And he sacrificed calves and lambs and sheep in multitude, and he called all the sons of the king, and Abiathar the priest, and Joab the ruler of the force; and  Solomon  your servant he did not call. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G7700\|εθυσίασε]] [[G3448\|μόσχους]] [[G2532\|και]] [[G0704\|άρνας]] [[G2532\|και]] [[G4263\|πρόβατα]] [[G1519\|εις]] [[G4128\|πλήθος]] [[G2532\|και]] [[G2564\|εκάλεσε]] [[G3956\|πάντας]] [[G3588\|τους]] [[G5207\|υιούς]] [[G3588\|του]] [[G0935\|βασιλέως]] [[G2532\|και]] [[G0008\|Αβιαθάρ]] [[G3588\|τον]] [[G2409\|ιερέα]] [[G2532\|και]] [[H3097\|Ιωάβ]] [[G3588\|τον]] [[G0758\|άρχοντα]] [[G3588\|της]] [[G1411\|δυνάμεως]] [[G2532\|και]] [[G3588\|τον]] [[G4672\|Σολομώντα]] [[G3588\|τον]] [[G1401\|δούλόν]] [[G1473\|σου]] [[G3756\|ουκ]] [[G2564\|εκάλεσε]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BATH-SHEBA (BATHSHEBA)|BATH-SHEBA (BATHSHEBA)]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PETITION|PETITION]] • [[topic POLITICS|POLITICS]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.18|<< 1 Kings 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.20|1 Kings 1:20 >>]]</td></tr></table>
 
@@ -39,6 +109,6 @@ And he sacrificed calves and lambs and sheep in multitude, and he called all the
 | your servant | **<big>[[G1401\|δούλόν]]</big>** **<big>[[G1473\|σου]]</big>** |
 | he did not | **<big>[[G3756\|ουκ]]</big>** |
 | call. | **<big>[[G2564\|εκάλεσε]]</big>** |
-[[1Kgs.1.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.18|<< 1 Kings 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.20|1 Kings 1:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.1.18|<< 1 Kings 1:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.1.20|1 Kings 1:20 >>]]</td></tr></table>
 
 

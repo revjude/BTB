@@ -1,8 +1,73 @@
+---
+title: Jeremiah 3:2
+type: Verse
+kjv: "Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness."
+bsb: "“Lift up your eyes to the barren heights and see. Is there any place where you have not been violated? You sat beside the highways waiting for your lovers, like a nomad in the desert. You have defiled the land with your prostitution and wickedness."
+hebrew: "שְׂאִֽי־ עֵינַ֨יִךְ עַל־ שְׁפָיִ֜ם וּרְאִ֗י אֵיפֹה֙ לֹ֣א שֻׁכַּ֔בְתְּ עַל־ דְּרָכִים֙ יָשַׁ֣בְתְּ לָהֶ֔ם כַּעֲרָבִ֖י בַּמִּדְבָּ֑ר וַתַּחֲנִ֣יפִי אֶ֔רֶץ בִּזְנוּתַ֖יִךְ וּבְרָעָתֵֽךְ׃"
+pericope: "[[Jer.3.1 The Wages of the Harlot|The Wages of the Harlot]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 3
+book/chapter: "[[Jer.3|Jeremiah 3]]"
+chronological_order: 720
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H5375M]]"
+- "[[H9014]]"
+- "[[H5869A]]"
+- "[[H9022]]"
+- "[[H5921A]]"
+- "[[H8205]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H0375]]"
+- "[[H3808]]"
+- "[[H7693]]"
+- "[[H7901I]]"
+- "[[H1870K]]"
+- "[[H3427]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H6163A]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H9001]]"
+- "[[H2610]]"
+- "[[H0776G]]"
+- "[[H2184]]"
+- "[[H7451C]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 3:2**<big><big>[[Jer.3.1 The Wages of the Harlot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lift up thine eyes unto the high places, and see where thou hast not been lien with. In the ways hast thou sat for them, as the Arabian in the wilderness; and thou hast polluted the land with thy whoredoms and with thy wickedness.
 <small><sub>**BSB:**</sub></small>
 “Lift up your eyes to the barren heights and see. Is there any place where you have not been violated? You sat beside the highways waiting for your lovers, like a nomad in the desert. You have defiled the land with your prostitution and wickedness.
+<small><sub>**Hebrew:**</sub></small>
+[[H5375M\|שְׂאִֽי]][[H9014\|־]] [[H5869A\|עֵינַ֨יִ]][[H9022\|ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H8205\|שְׁפָיִ֜ם]] [[H9002\|וּ]][[H7200G\|רְאִ֗י]] [[H0375\|אֵיפֹה֙]] [[H3808\|לֹ֣א]] [[H7901I\|שֻׁכַּ֔בְתְּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1870K\|דְּרָכִים֙]] [[H3427\|יָשַׁ֣בְתְּ]] [[H9005\|לָ]][[H9038\|הֶ֔ם]] [[H9004\|כַּ]][[H6163A\|עֲרָבִ֖י]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֑ר]] [[H9001\|וַ]][[H2610\|תַּחֲנִ֣יפִי]] [[H0776G\|אֶ֔רֶץ]] [[H9003\|בִּ]][[H2184\|זְנוּתַ֖יִ]][[H9022\|ךְ]] [[H9002\|וּ]][[H9003\|בְ]][[H7451C\|רָעָתֵֽ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.3.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.3.1|<< Jeremiah 3:1]]</td><td align="center" style="border:none;">[[Jer.3|Jeremiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.3.3|Jeremiah 3:3 >>]]</td></tr></table>
 

@@ -1,8 +1,57 @@
+---
+title: Psalm 119:85
+type: Verse
+kjv: "The proud have digged pits for me, which are not after thy law."
+bsb: "The arrogant have dug pits for me in violation of Your law."
+hebrew: "כָּֽרוּ־ לִ֣י זֵדִ֣ים שִׁיח֑וֹת אֲ֝שֶׁ֗ר לֹ֣א כְתוֹרָתֶֽךָ׃"
+pericope: "[[Ps.119.81 Your Word Is a Lamp to My Feet - CAPH|Your Word Is a Lamp to My Feet - CAPH]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PIT|PIT]]"
+strongs:
+- "[[H3738B]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H2086]]"
+- "[[H7882]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H9004]]"
+- "[[H8451]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:85**<big><big>[[Ps.119.81 Your Word Is a Lamp to My Feet - CAPH|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The proud have digged pits for me, which [are] not after thy law.
 <small><sub>**BSB:**</sub></small>
 The arrogant have dug pits for me in violation of Your law.
+<small><sub>**Hebrew:**</sub></small>
+[[H3738B\|כָּֽרוּ]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H2086\|זֵדִ֣ים]] [[H7882\|שִׁיח֑וֹת]] [[H0834A\|אֲ֝שֶׁ֗ר]] [[H3808\|לֹ֣א]] [[H9004\|כְ]][[H8451\|תוֹרָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PIT|PIT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.85|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.84|<< Psalms 119:84]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.86|Psalms 119:86 >>]]</td></tr></table>
 

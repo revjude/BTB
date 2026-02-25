@@ -1,8 +1,65 @@
+---
+title: Numbers 21:28
+type: Verse
+kjv: "For there is a fire gone out of Heshbon, a flame from the city of Sihon: it hath consumed Ar of Moab, and the lords of the high places of Arnon."
+bsb: "For a fire went out from Heshbon, a blaze from the city of Sihon. It consumed Ar of Moab, the rulers of Arnon’s heights."
+hebrew: "כִּי־ אֵשׁ֙ יָֽצְאָ֣ה מֵֽחֶשְׁבּ֔וֹן לֶהָבָ֖ה מִקִּרְיַ֣ת סִיחֹ֑ן אָֽכְלָה֙ עָ֣ר מוֹאָ֔ב בַּעֲלֵ֖י בָּמ֥וֹת אַרְנֹֽן׃"
+pericope: "[[Num.21.21 The Defeat of Sihon|The Defeat of Sihon]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 21
+book/chapter: "[[Num.21|Numbers 21]]"
+chronological_order: 181
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic AR|AR]]"
+- "[[topic HESHBON|HESHBON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic SIHON|SIHON]]"
+- "[[topic SONG|SONG]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0784]]"
+- "[[H3318L]]"
+- "[[H9006]]"
+- "[[H2809]]"
+- "[[H3852]]"
+- "[[H7151]]"
+- "[[H5511]]"
+- "[[H0398]]"
+- "[[H6144]]"
+- "[[H4124G]]"
+- "[[H1167K]]"
+- "[[H1116]]"
+- "[[H0769]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 21:28**<big><big>[[Num.21.21 The Defeat of Sihon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For there is a fire gone out of Heshbon, a flame from the city of Sihon: it hath consumed Ar of Moab, [and] the lords of the high places of Arnon.
 <small><sub>**BSB:**</sub></small>
 For a fire went out from Heshbon, a blaze from the city of Sihon. It consumed Ar of Moab, the rulers of Arnon’s heights.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי]][[H9014\|־]] [[H0784\|אֵשׁ֙]] [[H3318L\|יָֽצְאָ֣ה]] [[H9006\|מֵֽ]][[H2809\|חֶשְׁבּ֔וֹן]] [[H3852\|לֶהָבָ֖ה]] [[H9006\|מִ]][[H7151\|קִּרְיַ֣ת]] [[H5511\|סִיחֹ֑ן]] [[H0398\|אָֽכְלָה֙]] [[H6144\|עָ֣ר]] [[H4124G\|מוֹאָ֔ב]] [[H1167K\|בַּעֲלֵ֖י]] [[H1116\|בָּמ֥וֹת]] [[H0769\|אַרְנֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic AR|AR]] • [[topic HESHBON|HESHBON]] • [[topic ISRAEL|ISRAEL]] • [[topic SIHON|SIHON]] • [[topic SONG|SONG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.21.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.21.27|<< Numbers 21:27]]</td><td align="center" style="border:none;">[[Num.21|Numbers 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.21.29|Numbers 21:29 >>]]</td></tr></table>
 

@@ -9,17 +9,17 @@
 
 → Choke the word of God in the heart [[Luke.8.14|Lu 8:14]]
 
-→ Formed a part of idolatrous worship [[Exod.32.4|Ex 32:4]],[[Exod.32.6|6]],[[Exod.32.19|19]]; with  [[1Cor.10.7|1Co 10:7]]; [[Judg.16.23|Jud 16:23]]-[[Judg.16.25|25]]
+→ Formed a part of idolatrous worship [[Exod.32.4|Ex 32:4]],[[Exod.32.6|6]],[[Exod.32.19|19]]; with  [[1Cor.10.7|1Co 10:7]]; [[Judg.16.23|Jud 16:23-25]]
 
 → Lead to rejection of God [[Job.21.14|Job 21:14]],[[Job.21.15|15]]
 
 → Poverty [[Prov.21.17|Pr 21:17]]
 
-→ Disregard of the judgments and works of God [[Isa.5.12|Isa 5:12]];  [[Amos.6.1|Am 6:1]]-[[Amos.6.6|6]]
+→ Disregard of the judgments and works of God [[Isa.5.12|Isa 5:12]];  [[Amos.6.1|Am 6:1-6]]
 
 → Terminate in sorrow [[Prov.14.13|Pr 14:13]]
 
-→ Lead to greater evil [[Job.1.5|Job 1:5]]; [[Matt.14.6|Mt 14:6]]-[[Matt.14.8|8]]
+→ Lead to greater evil [[Job.1.5|Job 1:5]]; [[Matt.14.6|Mt 14:6-8]]
 
 → The wicked seek for happiness in [[Eccl.2.1|Ec 2:1]],[[Eccl.2.8|8]]
 

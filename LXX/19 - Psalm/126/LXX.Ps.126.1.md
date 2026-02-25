@@ -1,3 +1,42 @@
+---
+title: LXX Psalm 126:1
+type: Verse
+lxx: "In the lord returning the captivity of Zion, we became as ones comforted."
+greek: "εν τω επιστρέψαι κύριον την αιχμαλωσίαν Σιών εγενήθημεν ωσεί παρακεκλημένοι"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 126
+book/chapter: "[[Ps.126|Psalm 126]]"
+chronological_order: 888
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G1994]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G0161]]"
+- "[[G4622]]"
+- "[[G1096]]"
+- "[[G5616]]"
+- "[[G3870]]"
+---
+
 **LXX Psalm 126:1** 
 
 ***The LORD Returns the Captivity***
@@ -6,6 +45,10 @@ An ode of the steps.
 
 <small><sub>**LXX:**</sub></small>
 In the <span class="smallcaps">lord</span> returning the captivity of Zion, we became as ones comforted. 
+<small><sub>**Greek:**</sub></small>
+[[G1722\|εν]] [[G3588\|τω]] [[G1994\|επιστρέψαι]] [[G2962\|κύριον]] [[G3588\|την]] [[G0161\|αιχμαλωσίαν]] [[G4622\|Σιών]] [[G1096\|εγενήθημεν]] [[G5616\|ωσεί]] [[G3870\|παρακεκλημένοι]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.126.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.125.5|<< Psalm 125:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.126.2|Psalm 126:2 >>]]</td></tr></table>
 
@@ -21,6 +64,6 @@ In the <span class="smallcaps">lord</span> returning the captivity of Zion, we b
 | we became | **<big>[[G1096\|εγενήθημεν]]</big>** |
 | as | **<big>[[G5616\|ωσεί]]</big>** |
 | ones comforted. | **<big>[[G3870\|παρακεκλημένοι]]</big>** |
-[[Ps.126.1|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.125.5|<< Psalm 125:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.126.2|Psalm 126:2 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.125.5|<< Psalm 125:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.126.2|Psalm 126:2 >>]]</td></tr></table>
 
 

@@ -1,8 +1,78 @@
+---
+title: 2 Chronicles 23:1
+type: Verse
+kjv: "And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him."
+bsb: "Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri."
+hebrew: "וּבַשָּׁנָ֨ה הַשְּׁבִעִ֜ית הִתְחַזַּ֣ק יְהוֹיָדָ֗ע וַיִּקַּ֣ח אֶת־ שָׂרֵ֣י הַמֵּא֡וֹת לַעֲזַרְיָ֣הוּ בֶן־ יְרֹחָ֡ם וּלְיִשְׁמָעֵ֣אל בֶּן־ יְ֠הוֹחָנָן וְלַֽעֲזַרְיָ֨הוּ בֶן־ עוֹבֵ֜ד וְאֶת־ מַעֲשֵׂיָ֧הוּ בֶן־ עֲדָיָ֛הוּ וְאֶת־ אֱלִישָׁפָ֥ט בֶּן־ זִכְרִ֖י עִמּ֥וֹ בַבְּרִֽית׃"
+pericope: "[[2Chr.23.1 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 23
+book/chapter: "[[2Chr.23|2 Chronicles 23]]"
+chronological_order: 588
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ADAIAH|ADAIAH]]"
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic ELISHAPHAT|ELISHAPHAT]]"
+- "[[topic ISHMAEL|ISHMAEL]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOHANAN|JEHOHANAN]]"
+- "[[topic MAASEIAH|MAASEIAH]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+- "[[topic ZICHRI|ZICHRI]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H9009]]"
+- "[[H7637]]"
+- "[[H2388G]]"
+- "[[H3077H]]"
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8269]]"
+- "[[H3967]]"
+- "[[H9005]]"
+- "[[H5838S]]"
+- "[[H1121A]]"
+- "[[H3395M]]"
+- "[[H3458K]]"
+- "[[H3076K]]"
+- "[[H5838T]]"
+- "[[H5744K]]"
+- "[[H4641H]]"
+- "[[H5718J]]"
+- "[[H0478]]"
+- "[[H2147O]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 23:1**<big><big>[[2Chr.23.1 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him.
 <small><sub>**BSB:**</sub></small>
 Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בַ]][[H8141\|שָּׁנָ֨ה]] [[H9009\|הַ]][[H7637\|שְּׁבִעִ֜ית]] [[H2388G\|הִתְחַזַּ֣ק]] [[H3077H\|יְהוֹיָדָ֗ע]] [[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H0853\|אֶת]][[H9014\|־]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H3967\|מֵּא֡וֹת]] [[H9005\|לַ]][[H5838S\|עֲזַרְיָ֣הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3395M\|יְרֹחָ֡ם]] [[H9002\|וּ]][[H9005\|לְ]][[H3458K\|יִשְׁמָעֵ֣אל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3076K\|יְ֠הוֹחָנָן]] [[H9002\|וְ]][[H9005\|לַֽ]][[H5838T\|עֲזַרְיָ֨הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H5744K\|עוֹבֵ֜ד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4641H\|מַעֲשֵׂיָ֧הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H5718J\|עֲדָיָ֛הוּ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0478\|אֱלִישָׁפָ֥ט]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2147O\|זִכְרִ֖י]] [[H5973A\|עִמּ֥]][[H9033\|וֹ]] [[H9003\|בַ]][[H1285\|בְּרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADAIAH|ADAIAH]] • [[topic AZARIAH|AZARIAH]] • [[topic COVENANT|COVENANT]] • [[topic ELISHAPHAT|ELISHAPHAT]] • [[topic ISHMAEL|ISHMAEL]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOHANAN|JEHOHANAN]] • [[topic MAASEIAH|MAASEIAH]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]] • [[topic ZICHRI|ZICHRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.23.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.22.12|<< 2 Chronicles 22:12]]</td><td align="center" style="border:none;">[[2Chr.23|2 Chronicles 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.23.2|2 Chronicles 23:2 >>]]</td></tr></table>
 

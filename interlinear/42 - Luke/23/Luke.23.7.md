@@ -1,10 +1,61 @@
+---
+title: Luke 23:7
+type: Verse
+kjv: "And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time."
+bsb: "And learning that Jesus was under Herod’s jurisdiction, he sent Him to Herod, who himself was in Jerusalem at that time."
+greek: "καὶ ἐπιγνοὺς ὅτι ἐκ τῆς ἐξουσίας Ἡρῴδου ἐστίν, ἀνέπεμψεν αὐτὸν πρὸς τὸν Ἡρῴδην ὄντα καὶ αὐτὸν ἐν Ἱεροσολύμοις ἐν ταύταις ταῖς ἡμέραις.¶"
+pericope: "[[Luke.23.6 Jesus before Herod|Jesus before Herod]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 23
+book/chapter: "[[Luke.23|Luke 23]]"
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1921]]"
+- "[[G3754G]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G1849]]"
+- "[[G2264H]]"
+- "[[G1510]]"
+- "[[G0375]]"
+- "[[G0846]]"
+- "[[G4314]]"
+- "[[G1722]]"
+- "[[G2414]]"
+- "[[G3778]]"
+- "[[G2250]]"
+texts:
+- NKO
+- o
+---
+
 **Luke 23:7**<big><big>[[Luke.23.6 Jesus before Herod|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And as soon as he knew that he belonged unto Herod’s jurisdiction, he sent him to Herod, who himself also was at Jerusalem at that time.
 <small><sub>**BSB:**</sub></small>
 And learning that Jesus was under Herod’s jurisdiction, he sent Him to Herod, who himself was in Jerusalem at that time.
-<small><sub>**Literal:**</sub></small>
-and having learned that from the jurisdiction of Herod He is, he sent up Him to <the> Herod being also he himself in Jerusalem in those <the> days.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.6|<< Luke 23:6]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.8|Luke 23:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1921\|ἐπιγνοὺς]]  [[G3754G\|ὅτι]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G1849\|ἐξουσίας]]  [[G2264H\|Ἡρῴδου]]  [[G1510\|ἐστίν,]]  [[G0375\|ἀνέπεμψεν]]  [[G0846\|αὐτὸν]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2264H\|Ἡρῴδην]]  [[G1510\|ὄντα]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸν]]  [[G1722\|ἐν]]  [[G2414\|Ἱεροσολύμοις]]  [[G1722\|ἐν]]  [[G3778\|ταύταις]]  [[G3588\|ταῖς]]  [[G2250\|ἡμέραις.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GALILEE|GALILEE]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.23.6|<< Luke 23:6]]</td><td align="center" style="border:none;">[[Luke.23|Luke 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.23.8|Luke 23:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 19:17
+type: Verse
+kjv: "And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him."
+bsb: "When this was reported to David, he gathered all Israel, crossed the Jordan, advanced toward the Arameans, and arrayed for battle against them. When David lined up to engage them in battle, they fought against him."
+hebrew: "וַיֻּגַּ֣ד לְדָוִ֗יד וַיֶּאֱסֹ֤ף אֶת־ כָּל־ יִשְׂרָאֵל֙ וַיַּעֲבֹ֣ר הַיַּרְדֵּ֔ן וַיָּבֹ֣א אֲלֵהֶ֔ם וַֽיַּעֲרֹ֖ךְ אֲלֵהֶ֑ם וַיַּעֲרֹ֨ךְ דָּוִ֜יד לִקְרַ֤את אֲרָם֙ מִלְחָמָ֔ה וַיִּֽלָּחֲמ֖וּ עִמּֽוֹ׃"
+pericope: "[[1Chr.19.10 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 19
+book/chapter: "[[1Chr.19|1 Chronicles 19]]"
+chronological_order: 406
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HADADEZER|HADADEZER]]"
+- "[[topic JORDAN|JORDAN]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H1732]]"
+- "[[H0622]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H5674A]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H6186A]]"
+- "[[H7122H]]"
+- "[[H0758I]]"
+- "[[H4421]]"
+- "[[H3898A]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 19:17**<big><big>[[1Chr.19.10 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set [the battle] in array against them. So when David had put the battle in array against the Syrians, they fought with him.
 <small><sub>**BSB:**</sub></small>
 When this was reported to David, he gathered all Israel, crossed the Jordan, advanced toward the Arameans, and arrayed for battle against them. When David lined up to engage them in battle, they fought against him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5046\|יֻּגַּ֣ד]] [[H9005\|לְ]][[H1732\|דָוִ֗יד]] [[H9001\|וַ]][[H0622\|יֶּאֱסֹ֤ף]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9001\|וַ]][[H5674A\|יַּעֲבֹ֣ר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H0413\|אֲלֵ]][[H9038\|הֶ֔ם]] [[H9001\|וַֽ]][[H6186A\|יַּעֲרֹ֖ךְ]] [[H0413\|אֲלֵ]][[H9038\|הֶ֑ם]] [[H9001\|וַ]][[H6186A\|יַּעֲרֹ֨ךְ]] [[H1732\|דָּוִ֜יד]] [[H9005\|לִ]][[H7122H\|קְרַ֤את]] [[H0758I\|אֲרָם֙]] [[H4421\|מִלְחָמָ֔ה]] [[H9001\|וַ]][[H3898A\|יִּֽלָּחֲמ֖וּ]] [[H5973A\|עִמּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HADADEZER|HADADEZER]] • [[topic JORDAN|JORDAN]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.19.16|<< 1 Chronicles 19:16]]</td><td align="center" style="border:none;">[[1Chr.19|1 Chronicles 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.19.18|1 Chronicles 19:18 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 12:11
+type: Verse
+kjv: "And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber."
+bsb: "And whenever the king entered the house of the LORD, the guards would go with him, bearing the shields, and later they would return them to the guardroom."
+hebrew: "וַיְהִ֛י מִדֵּי־ ב֥וֹא הַמֶּ֖לֶךְ בֵּ֣ית יְהוָ֑ה בָּ֤אוּ הָרָצִים֙ וּנְשָׂא֔וּם וֶהֱשִׁב֖וּם אֶל־ תָּ֥א הָרָצִֽים׃"
+pericope: "[[2Chr.12.1 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 12
+book/chapter: "[[2Chr.12|2 Chronicles 12]]"
+chronological_order: 558
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H1767]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H7323H]]"
+- "[[H5375H]]"
+- "[[H9038]]"
+- "[[H7725G]]"
+- "[[H0413]]"
+- "[[H8372]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 12:11**<big><big>[[2Chr.12.1 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber.
 <small><sub>**BSB:**</sub></small>
 And whenever the king entered the house of the LORD, the guards would go with him, bearing the shields, and later they would return them to the guardroom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֛י]] [[H9006\|מִ]][[H1767\|דֵּי]][[H9014\|־]] [[H0935G\|ב֥וֹא]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H0935G\|בָּ֤אוּ]] [[H9009\|הָ]][[H7323H\|רָצִים֙]] [[H9001\|וּ]][[H5375H\|נְשָׂא֔וּ]][[H9038\|ם]] [[H9001\|וֶ]][[H7725G\|הֱשִׁב֖וּ]][[H9038\|ם]] [[H0413\|אֶל]][[H9014\|־]] [[H8372\|תָּ֥א]] [[H9009\|הָ]][[H7323H\|רָצִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.10|<< 2 Chronicles 12:10]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.12|2 Chronicles 12:12 >>]]</td></tr></table>
 

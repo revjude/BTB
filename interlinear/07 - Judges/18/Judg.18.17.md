@@ -1,8 +1,74 @@
+---
+title: Judges 18:17
+type: Verse
+kjv: "And the five men that went to spy out the land went up, and came in thither, and took the graven image, and the ephod, and the teraphim, and the molten image: and the priest stood in the entering of the gate with the six hundred men that were appointed with weapons of war."
+bsb: "And the five men who had gone to spy out the land went inside and took the graven image, the ephod, the household idols, and the molten idol, while the priest stood at the entrance of the gate with the six hundred armed men."
+hebrew: "וַֽיַּעֲל֞וּ חֲמֵ֣שֶׁת הָאֲנָשִׁ֗ים הַהֹלְכִים֮ לְרַגֵּ֣ל אֶת־ הָאָרֶץ֒ בָּ֣אוּ שָׁ֔מָּה לָקְח֗וּ אֶת־ הַפֶּ֙סֶל֙ וְאֶת־ הָ֣אֵפ֔וֹד וְאֶת־ הַתְּרָפִ֖ים וְאֶת־ הַמַּסֵּכָ֑ה וְהַכֹּהֵ֗ן נִצָּב֙ פֶּ֣תַח הַשַּׁ֔עַר וְשֵׁשׁ־ מֵא֣וֹת הָאִ֔ישׁ הֶחָג֖וּר כְּלֵ֥י הַמִּלְחָמָֽה׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic TERAPHIM|TERAPHIM]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H2568]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H7270]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3947G]]"
+- "[[H6459]]"
+- "[[H9002]]"
+- "[[H0646]]"
+- "[[H8655]]"
+- "[[H4541A]]"
+- "[[H3548]]"
+- "[[H5324]]"
+- "[[H6607]]"
+- "[[H8179G]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H2296]]"
+- "[[H3627]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:17**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the five men that went to spy out the land went up, [and] came in thither, [and] took the graven image, and the ephod, and the teraphim, and the molten image: and the priest stood in the entering of the gate with the six hundred men [that were] appointed with weapons of war.
 <small><sub>**BSB:**</sub></small>
 And the five men who had gone to spy out the land went inside and took the graven image, the ephod, the household idols, and the molten idol, while the priest stood at the entrance of the gate with the six hundred armed men.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5927G\|יַּעֲל֞וּ]] [[H2568\|חֲמֵ֣שֶׁת]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֗ים]] [[H9009\|הַ]][[H1980G\|הֹלְכִים֮]] [[H9005\|לְ]][[H7270\|רַגֵּ֣ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָרֶץ֒]] [[H0935G\|בָּ֣אוּ]] [[H8033G\|שָׁ֔מָּ]][[H9011\|ה]] [[H3947G\|לָקְח֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H6459\|פֶּ֙סֶל֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H0646\|אֵפ֔וֹד]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8655\|תְּרָפִ֖ים]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4541A\|מַּסֵּכָ֑ה]] [[H9002\|וְ]][[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H5324\|נִצָּב֙]] [[H6607\|פֶּ֣תַח]] [[H9009\|הַ]][[H8179G\|שַּׁ֔עַר]] [[H9002\|וְ]][[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֣וֹת]] [[H9009\|הָ]][[H0376G\|אִ֔ישׁ]] [[H9009\|הֶ]][[H2296\|חָג֖וּר]] [[H3627\|כְּלֵ֥י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DISHONESTY|DISHONESTY]] • [[topic JONATHAN|JONATHAN]] • [[topic TERAPHIM|TERAPHIM]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.16|<< Judges 18:16]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.18|Judges 18:18 >>]]</td></tr></table>
 

@@ -11,15 +11,15 @@
 
 - See above
 
-- The false prophet, Shemaiah [[Neh.6.10|Ne 6:10]]-[[Neh.6.13|13]]
+- The false prophet, Shemaiah [[Neh.6.10|Ne 6:10-13]]
 
 - Ben-hadad [[1Kgs.15.19|1Ki 15:19]]
 
 - Haman bribes Ahasuerus to destroy the Jews [[Esth.3.9|Es 3:9]]
 
-- Chief priests bribe Judas [[Matt.26.15|Mt 26:15]]; [[Matt.27.3|27:3]]-[[Matt.27.9|9]]; [[Mark.14.11|Mr 14:11]];  [[Luke.22.5|Lu 22:5]]
+- Chief priests bribe Judas [[Matt.26.15|Mt 26:15]]; [[Matt.27.3|27:3-9]]; [[Mark.14.11|Mr 14:11]];  [[Luke.22.5|Lu 22:5]]
 
-- Soldiers bribed to declare that the disciples stole the body  of Jesus [[Matt.28.12|Mt 28:12]]-[[Matt.28.15|15]]
+- Soldiers bribed to declare that the disciples stole the body  of Jesus [[Matt.28.12|Mt 28:12-15]]
 
 - Governor Felix seeks a bribe from Paul [[Acts.24.26|Ac 24:26]]
 

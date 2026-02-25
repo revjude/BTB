@@ -1,8 +1,77 @@
+---
+title: Jeremiah 5:22
+type: Verse
+kjv: "Fear ye not me? saith the LORD: will ye not tremble at my presence, which have placed the sand for the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?"
+bsb: "Do you not fear Me?” declares the LORD. “Do you not tremble before Me, the One who set the sand as the boundary for the sea, an enduring barrier it cannot cross? The waves surge, but they cannot prevail. They roar but cannot cross it."
+hebrew: "הַאוֹתִ֨י לֹא־ תִירָ֜אוּ נְאֻם־ יְהֹוָ֗ה אִ֤ם מִפָּנַי֙ לֹ֣א תָחִ֔ילוּ אֲשֶׁר־ שַׂ֤מְתִּי חוֹל֙ גְּב֣וּל לַיָּ֔ם חָק־ עוֹלָ֖ם וְלֹ֣א יַעַבְרֶ֑נְהוּ וַיִּֽתְגָּעֲשׁוּ֙ וְלֹ֣א יוּכָ֔לוּ וְהָמ֥וּ גַלָּ֖יו וְלֹ֥א יַעַבְרֻֽנְהוּ׃"
+pericope: "[[Jer.5.14 Judgment Proclaimed|Judgment Proclaimed]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9008]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3372H]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H0518H]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9020]]"
+- "[[H2342A]]"
+- "[[H0834A]]"
+- "[[H7760H]]"
+- "[[H2344]]"
+- "[[H1366G]]"
+- "[[H9005]]"
+- "[[H3220G]]"
+- "[[H2706I]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H5674A]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H1607]]"
+- "[[H3201]]"
+- "[[H1993]]"
+- "[[H1530H]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 5:22**<big><big>[[Jer.5.14 Judgment Proclaimed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Fear ye not me? saith the LORD: will ye not tremble at my presence, which have placed the sand [for] the bound of the sea by a perpetual decree, that it cannot pass it: and though the waves thereof toss themselves, yet can they not prevail; though they roar, yet can they not pass over it?
 <small><sub>**BSB:**</sub></small>
 Do you not fear Me?” declares the LORD. “Do you not tremble before Me, the One who set the sand as the boundary for the sea, an enduring barrier it cannot cross? The waves surge, but they cannot prevail. They roar but cannot cross it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H0853\|אוֹתִ֨]][[H9030\|י]] [[H3808\|לֹא]][[H9014\|־]] [[H3372H\|תִירָ֜אוּ]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהֹוָ֗ה]] [[H0518H\|אִ֤ם]] [[H9006\|מִ]][[H6440G\|פָּנַ]][[H9020\|י֙]] [[H3808\|לֹ֣א]] [[H2342A\|תָחִ֔ילוּ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760H\|שַׂ֤מְתִּי]] [[H2344\|חוֹל֙]] [[H1366G\|גְּב֣וּל]] [[H9005\|לַ]][[H3220G\|יָּ֔ם]] [[H2706I\|חָק]][[H9014\|־]] [[H5769G\|עוֹלָ֖ם]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5674A\|יַעַבְרֶ֑]][[H9033\|נְהוּ]] [[H9001\|וַ]][[H1607\|יִּֽתְגָּעֲשׁוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H3201\|יוּכָ֔לוּ]] [[H9001\|וְ]][[H1993\|הָמ֥וּ]] [[H1530H\|גַלָּ֖י]][[H9023\|ו]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5674A\|יַעַבְרֻֽ]][[H9033\|נְהוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic POWER|POWER]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.21|<< Jeremiah 5:21]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.23|Jeremiah 5:23 >>]]</td></tr></table>
 

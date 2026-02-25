@@ -1,8 +1,68 @@
+---
+title: Lamentations 1:20
+type: Verse
+kjv: "Behold, O LORD; for I am in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home there is as death."
+bsb: "See, O LORD, how distressed I am! I am churning within; my heart is pounding within me, for I have been most rebellious. Outside, the sword bereaves; inside, there is death."
+hebrew: "רְאֵ֨ה יְהוָ֤ה כִּֽי־ צַר־ לִי֙ מֵעַ֣י חֳמַרְמָ֔רוּ נֶהְפַּ֤ךְ לִבִּי֙ בְּקִרְבִּ֔י כִּ֥י מָר֖וֹ מָרִ֑יתִי מִח֥וּץ שִׁכְּלָה־ חֶ֖רֶב בַּבַּ֥יִת כַּמָּֽוֶת׃ ס"
+pericope: "[[Lam.1.1 How Lonely Lies the City!|How Lonely Lies the City!]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 1
+book/chapter: "[[Lam.1|Lamentations 1]]"
+chronological_order: 776
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BOWELS|BOWELS]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H7200G]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6862B]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4578]]"
+- "[[H9020]]"
+- "[[H2560A]]"
+- "[[H2015]]"
+- "[[H3820A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H4784]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H7921A]]"
+- "[[H2719]]"
+- "[[H1004B]]"
+- "[[H9004]]"
+- "[[H4194]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 1:20**<big><big>[[Lam.1.1 How Lonely Lies the City!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, O LORD; for I [am] in distress: my bowels are troubled; mine heart is turned within me; for I have grievously rebelled: abroad the sword bereaveth, at home [there is] as death.
 <small><sub>**BSB:**</sub></small>
 See, O LORD, how distressed I am! I am churning within; my heart is pounding within me, for I have been most rebellious. Outside, the sword bereaves; inside, there is death.
+<small><sub>**Hebrew:**</sub></small>
+[[H7200G\|רְאֵ֨ה]] [[H3068G\|יְהוָ֤ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6862B\|צַר]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H4578\|מֵעַ֣]][[H9020\|י]] [[H2560A\|חֳמַרְמָ֔רוּ]] [[H2015\|נֶהְפַּ֤ךְ]] [[H3820A\|לִבִּ]][[H9020\|י֙]] [[H9003\|בְּ]][[H7130G\|קִרְבִּ֔]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H4784\|מָר֖וֹ]] [[H4784\|מָרִ֑יתִי]] [[H9006\|מִ]][[H2351\|ח֥וּץ]] [[H7921A\|שִׁכְּלָה]][[H9014\|־]] [[H2719\|חֶ֖רֶב]] [[H9003\|בַּ]][[H1004B\|בַּ֥יִת]] [[H9004\|כַּ]][[H4194\|מָּֽוֶת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BOWELS|BOWELS]] • [[topic CONVICTION|CONVICTION]] • [[topic REMORSE|REMORSE]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.1.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.19|<< Lamentations 1:19]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.21|Lamentations 1:21 >>]]</td></tr></table>
 
@@ -25,7 +85,7 @@ See, O LORD, how distressed I am! I am churning within; my heart is pounding wit
 | it has bereaved  |**<big>&#8207;[[H7921A\|שִׁכְּלָה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| shi.ke.lah-<small><sup>[[HVpp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a sword  |**<big>&#8207;[[H2719\|חֶ֖רֶב]]&#8207; </big>**| Che.rev<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [is] in the house  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1004B\|בַּ֥יִת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Ba.yit<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| like \<the> death  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4194\|מָּֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| like \<the> death  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H4194\|מָּֽוֶת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ka.<small><sup>[[HRd]]</sup></small> Ma.vet<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.1.19|<< Lamentations 1:19]]</td><td align="center" style="border:none;">[[Lam.1|Lamentations 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.1.21|Lamentations 1:21 >>]]</td></tr></table>
 
 

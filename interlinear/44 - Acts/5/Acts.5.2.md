@@ -1,10 +1,63 @@
+---
+title: Acts 5:2
+type: Verse
+kjv: "And kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles’ feet."
+bsb: "With his wife’s full knowledge, he kept back some of the proceeds for himself, but brought a portion and laid it at the apostles’ feet."
+greek: "καὶ ἐνοσφίσατο ἀπὸ τῆς τιμῆς, συνειδυίης καὶ τῆς γυναικός αὐτοῦ, καὶ ἐνέγκας μέρος τι παρὰ τοὺς πόδας τῶν ἀποστόλων ἔθηκεν.¶"
+pericope: "[[Acts.5.1 Ananias and Sapphira|Ananias and Sapphira]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 5
+book/chapter: "[[Acts.5|Acts 5]]"
+chronological_order: 1023
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANANIAS|ANANIAS]]"
+- "[[topic COMMUNISM|COMMUNISM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SAPPHIRA|SAPPHIRA]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G3557]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G5092]]"
+- "[[G4894]]"
+- "[[G1135H]]"
+- "[[G0846]]"
+- "[[G5342]]"
+- "[[G3313]]"
+- "[[G5100]]"
+- "[[G3844]]"
+- "[[G4228]]"
+- "[[G0652]]"
+- "[[G5087]]"
+texts:
+- NKO
+- k
+---
+
 **Acts 5:2**<big><big>[[Acts.5.1 Ananias and Sapphira|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And kept back [part] of the price, his wife also being privy [to it], and brought a certain part, and laid [it] at the apostles’ feet.
 <small><sub>**BSB:**</sub></small>
 With his wife’s full knowledge, he kept back some of the proceeds for himself, but brought a portion and laid it at the apostles’ feet.
-<small><sub>**Literal:**</sub></small>
-and he kept back from the proceeds, already being aware also the wife of him, and having brought a portion certain at the feet of the apostles he laid [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.1|<< Acts 5:1]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.3|Acts 5:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3557\|ἐνοσφίσατο]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G5092\|τιμῆς,]]  [[G4894\|συνειδυίης]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G1135H\|γυναικός]]  [[G0846\|αὐτοῦ,]]  [[G2532\|καὶ]]  [[G5342\|ἐνέγκας]]  [[G3313\|μέρος]]  [[G5100\|τι]]  [[G3844\|παρὰ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3588\|τῶν]]  [[G0652\|ἀποστόλων]]  [[G5087\|ἔθηκεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANANIAS|ANANIAS]] • [[topic COMMUNISM|COMMUNISM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LAND|LAND]] • [[topic PETER|PETER]] • [[topic SAPPHIRA|SAPPHIRA]] • [[topic VOWS|VOWS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.5.1|<< Acts 5:1]]</td><td align="center" style="border:none;">[[Acts.5|Acts 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.5.3|Acts 5:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

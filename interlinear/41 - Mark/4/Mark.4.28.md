@@ -1,10 +1,62 @@
+---
+title: Mark 4:28
+type: Verse
+kjv: "For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear."
+bsb: "All by itself the earth produces a crop—first the stalk, then the head, then grain that ripens within."
+jesus_said: "For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear."
+greek: "αὐτομάτη γὰρ ἡ γῆ καρποφορεῖ πρῶτον χόρτον εἶτα στάχυν εἶτα πλήρης σῖτον ἐν τῷ στάχυϊ."
+pericope: "[[Mark.4.26 The Seed Growing Secretly|The Seed Growing Secretly]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CORN|CORN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0844]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G1093I]]"
+- "[[G2592]]"
+- "[[G4413G]]"
+- "[[G5528]]"
+- "[[G1534]]"
+- "[[G4719]]"
+- "[[G4134]]"
+- "[[G4621]]"
+- "[[G1722]]"
+texts:
+- NKO
+- k
+- NK(o)
+---
+
 **Mark 4:28**<big><big>[[Mark.4.26 The Seed Growing Secretly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.
 <small><sub>**BSB:**</sub></small>
 All by itself the earth produces a crop—first the stalk, then the head, then grain that ripens within.
-<small><sub>**Literal:**</sub></small>
-Of itself for the earth brings forth fruit — first a plant then an ear then full grain in the ear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.27|<< Mark 4:27]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.29|Mark 4:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0844\|αὐτομάτη]]  [[G1063\|γὰρ]]  [[G3588\|ἡ]]  [[G1093I\|γῆ]]  [[G2592\|καρποφορεῖ]]  [[G4413G\|πρῶτον]]  [[G5528\|χόρτον]]  [[G1534\|εἶτα]]  [[G4719\|στάχυν]]  [[G1534\|εἶτα]]  [[G4134\|πλήρης]]  [[G4621\|σῖτον]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4719\|στάχυϊ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CORN|CORN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic REGENERATION|REGENERATION]] • [[topic SERMON|SERMON]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.27|<< Mark 4:27]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.29|Mark 4:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

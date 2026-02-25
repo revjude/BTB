@@ -1,8 +1,70 @@
+---
+title: Nehemiah 7:3
+type: Verse
+kjv: "And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar them: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one to be over against his house."
+bsb: "And I told them, “Do not open the gates of Jerusalem until the sun is hot. While the guards are on duty, keep the doors shut and securely fastened. And appoint the residents of Jerusalem as guards, some at their posts and some at their own homes.”"
+hebrew: "וָאֹמַ֣ר לָהֶ֗ם לֹ֣א יִפָּֽתְח֞וּ שַׁעֲרֵ֤י יְרוּשָׁלִַ֙ם֙ עַד־ חֹ֣ם הַשֶּׁ֔מֶשׁ וְעַ֨ד הֵ֥ם עֹמְדִ֛ים יָגִ֥יפוּ הַדְּלָת֖וֹת וֶאֱחֹ֑זוּ וְהַעֲמֵ֗יד מִשְׁמְרוֹת֙ יֹשְׁבֵ֣י יְרוּשָׁלִַ֔ם אִ֚ישׁ בְּמִשְׁמָר֔וֹ וְאִ֖ישׁ נֶ֥גֶד בֵּיתֽוֹ׃"
+pericope: "[[Neh.7.1 Securing the City|Securing the City]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic WATCHMAN|WATCHMAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3808]]"
+- "[[H6605A]]"
+- "[[H8179G]]"
+- "[[H3389]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2552]]"
+- "[[H9009]]"
+- "[[H8121]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H5975H]]"
+- "[[H1479]]"
+- "[[H1817C]]"
+- "[[H0270]]"
+- "[[H4931]]"
+- "[[H3427]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H4929]]"
+- "[[H9023]]"
+- "[[H5048]]"
+- "[[H1004B]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Nehemiah 7:3**<big><big>[[Neh.7.1 Securing the City|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto them, Let not the gates of Jerusalem be opened until the sun be hot; and while they stand by, let them shut the doors, and bar [them]: and appoint watches of the inhabitants of Jerusalem, every one in his watch, and every one [to be] over against his house.
 <small><sub>**BSB:**</sub></small>
 And I told them, “Do not open the gates of Jerusalem until the sun is hot. While the guards are on duty, keep the doors shut and securely fastened. And appoint the residents of Jerusalem as guards, some at their posts and some at their own homes.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H9005\|לָ]][[H9038\|הֶ֗ם]] [[H3808\|לֹ֣א]] [[H6605A\|יִפָּֽתְח֞וּ]] [[H8179G\|שַׁעֲרֵ֤י]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H5704\|עַד]][[H9014\|־]] [[H2552\|חֹ֣ם]] [[H9009\|הַ]][[H8121\|שֶּׁ֔מֶשׁ]] [[H9002\|וְ]][[H5704\|עַ֨ד]] [[H1992\|הֵ֥ם]] [[H5975H\|עֹמְדִ֛ים]] [[H1479\|יָגִ֥יפוּ]] [[H9009\|הַ]][[H1817C\|דְּלָת֖וֹת]] [[H9002\|וֶ]][[H0270\|אֱחֹ֑זוּ]] [[H9001\|וְ]][[H5975H\|הַעֲמֵ֗יד]] [[H4931\|מִשְׁמְרוֹת֙]] [[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִַ֔ם]] [[H0376I\|אִ֚ישׁ]] [[H9003\|בְּ]][[H4929\|מִשְׁמָר֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H0376I\|אִ֖ישׁ]] [[H5048\|נֶ֥גֶד]] [[H1004B\|בֵּיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WATCHMAN|WATCHMAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.2|<< Nehemiah 7:2]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.4|Nehemiah 7:4 >>]]</td></tr></table>
 
@@ -34,7 +96,7 @@ And I told them, “Do not open the gates of Jerusalem until the sun is hot. Whi
 | house his  |**<big>&#8207;[[H1004B\|בֵּיתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| bei.T<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.2|<< Nehemiah 7:2]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.4|Nehemiah 7:4 >>]]</td></tr></table>
 
-[^1]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
-[^2]: and he said  | **<big>[[H0559|יֹּאמֶר]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^1]: and he said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמֶר]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
+[^2]: and he said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמֶר]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.mer<small><sup>[[HVqw3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וָיאֹמַ֣ר</big></span>**
 

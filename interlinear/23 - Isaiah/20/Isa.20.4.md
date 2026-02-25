@@ -1,8 +1,63 @@
+---
+title: Isaiah 20:4
+type: Verse
+kjv: "So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with their buttocks uncovered, to the shame of Egypt."
+bsb: "so the king of Assyria will lead away the captives of Egypt and the exiles of Cush, young and old alike, naked and barefoot, with bared buttocks—to Egypt’s shame."
+hebrew: "כֵּ֣ן יִנְהַ֣ג מֶֽלֶךְ־ אַ֠שּׁוּר אֶת־ שְׁבִ֨י מִצְרַ֜יִם וְאֶת־ גָּל֥וּת כּ֛וּשׁ נְעָרִ֥ים וּזְקֵנִ֖ים עָר֣וֹם וְיָחֵ֑ף וַחֲשׂוּפַ֥י שֵׁ֖ת עֶרְוַ֥ת מִצְרָֽיִם׃"
+pericope: "[[Isa.20.1 A Sign against Egypt and Cush|A Sign against Egypt and Cush]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 20
+book/chapter: "[[Isa.20|Isaiah 20]]"
+chronological_order: 637
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CAPTIVE|CAPTIVE]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H3651C]]"
+- "[[H5090A]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0804G]]"
+- "[[H0853]]"
+- "[[H7628A]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H1546]]"
+- "[[H3568A]]"
+- "[[H5288]]"
+- "[[H2205H]]"
+- "[[H6174]]"
+- "[[H3182]]"
+- "[[H2834]]"
+- "[[H8357]]"
+- "[[H6172]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 20:4**<big><big>[[Isa.20.1 A Sign against Egypt and Cush|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So shall the king of Assyria lead away the Egyptians prisoners, and the Ethiopians captives, young and old, naked and barefoot, even with [their] buttocks uncovered, to the shame of Egypt.
 <small><sub>**BSB:**</sub></small>
 so the king of Assyria will lead away the captives of Egypt and the exiles of Cush, young and old alike, naked and barefoot, with bared buttocks—to Egypt’s shame.
+<small><sub>**Hebrew:**</sub></small>
+[[H3651C\|כֵּ֣ן]] [[H5090A\|יִנְהַ֣ג]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0804G\|אַ֠שּׁוּר]] [[H0853\|אֶת]][[H9014\|־]] [[H7628A\|שְׁבִ֨י]] [[H4714G\|מִצְרַ֜יִם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1546\|גָּל֥וּת]] [[H3568A\|כּ֛וּשׁ]] [[H5288\|נְעָרִ֥ים]] [[H9002\|וּ]][[H2205H\|זְקֵנִ֖ים]] [[H6174\|עָר֣וֹם]] [[H9002\|וְ]][[H3182\|יָחֵ֑ף]] [[H9002\|וַ]][[H2834\|חֲשׂוּפַ֥י]] [[H8357\|שֵׁ֖ת]] [[H6172\|עֶרְוַ֥ת]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPTIVE|CAPTIVE]] • [[topic EGYPT|EGYPT]] • [[topic ETHIOPIA|ETHIOPIA]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.20.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.20.3|<< Isaiah 20:3]]</td><td align="center" style="border:none;">[[Isa.20|Isaiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.20.5|Isaiah 20:5 >>]]</td></tr></table>
 

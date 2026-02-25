@@ -1,8 +1,54 @@
+---
+title: 2 Chronicles 5:11
+type: Verse
+kjv: "And it came to pass, when the priests were come out of the holy place: (for all the priests that were present were sanctified, and did not then wait by course:"
+bsb: "Now all the priests who were present had consecrated themselves regardless of their divisions. And when the priests came out of the Holy Place,"
+hebrew: "וַיְהִ֕י בְּצֵ֥את הַכֹּהֲנִ֖ים מִן־ הַקֹּ֑דֶשׁ כִּ֠י כָּל־ הַכֹּהֲנִ֤ים הַֽנִּמְצְאִים֙ הִתְקַדָּ֔שׁוּ אֵ֖ין לִשְׁמ֥וֹר לְמַחְלְקֽוֹת׃"
+pericope: "[[2Chr.5.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 5
+book/chapter: "[[2Chr.5|2 Chronicles 5]]"
+chronological_order: 494
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H6944J]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H4672]]"
+- "[[H6942G]]"
+- "[[H0369]]"
+- "[[H9005]]"
+- "[[H8104J]]"
+- "[[H4256]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 5:11**<big><big>[[2Chr.5.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the priests were come out of the holy [place]: (for all the priests [that were] present were sanctified, [and] did not [then] wait by course:
 <small><sub>**BSB:**</sub></small>
 Now all the priests who were present had consecrated themselves regardless of their divisions. And when the priests came out of the Holy Place,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9003\|בְּ]][[H3318G\|צֵ֥את]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6944J\|קֹּ֑דֶשׁ]] [[H3588A\|כִּ֠י]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֤ים]] [[H9009\|הַֽ]][[H4672\|נִּמְצְאִים֙]] [[H6942G\|הִתְקַדָּ֔שׁוּ]] [[H0369\|אֵ֖ין]] [[H9005\|לִ]][[H8104J\|שְׁמ֥וֹר]] [[H9005\|לְ]][[H4256\|מַחְלְקֽוֹת]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.5.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.5.10|<< 2 Chronicles 5:10]]</td><td align="center" style="border:none;">[[2Chr.5|2 Chronicles 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.5.12|2 Chronicles 5:12 >>]]</td></tr></table>
 

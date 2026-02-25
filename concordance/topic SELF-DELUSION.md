@@ -3,7 +3,7 @@
 
 → A characteristic of wicked people  [[Ps.49.18|Ps 49:18]]
 
-→ Prosperity frequently leads to [[Ps.30.6|Ps 30:6]]; [[Hos.12.8|Ho 12:8]]; [[Luke.12.17|Lu  12:17]]-[[Luke.12.19|19]]
+→ Prosperity frequently leads to [[Ps.30.6|Ps 30:6]]; [[Hos.12.8|Ho 12:8]]; [[Luke.12.17|Lu  12:17-19]]
 
 → Obstinate sinners often given up to [[Ps.81.11|Ps 81:11]],[[Ps.81.12|12]]; [[Hos.4.17|Ho  4:17]]; [[2Thess.2.10|2Th 2:10]],[[2Thess.2.11|11]]
 
@@ -35,7 +35,7 @@
 
 → Frequently persevered in, to the end  [[Matt.7.22|Mt 7:22]]; [[Matt.25.11|25:11]],[[Matt.25.12|12]];  [[Luke.13.24|Lu 13:24]],[[Luke.13.25|25]]
 
-→ Fatal consequences of [[Matt.7.23|Mt 7:23]]; [[Matt.24.48|24:48]]-[[Matt.24.51|51]]; [[Luke.12.20|Lu 12:20]];  [[1Thess.5.3|1Th 5:3]]
+→ Fatal consequences of [[Matt.7.23|Mt 7:23]]; [[Matt.24.48|24:48-51]]; [[Luke.12.20|Lu 12:20]];  [[1Thess.5.3|1Th 5:3]]
 
 → EXEMPLIFIED
 

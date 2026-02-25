@@ -1,8 +1,64 @@
+---
+title: Esther 2:20
+type: Verse
+kjv: "Esther had not yet shewed her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him."
+bsb: "Esther still had not revealed her lineage or her people, just as Mordecai had instructed. She obeyed Mordecai’s command, as she had done under his care."
+hebrew: "אֵ֣ין אֶסְתֵּ֗ר מַגֶּ֤דֶת מֽוֹלַדְתָּהּ֙ וְאֶת־ עַמָּ֔הּ כַּאֲשֶׁ֛ר צִוָּ֥ה עָלֶ֖יהָ מָרְדֳּכָ֑י וְאֶת־ מַאֲמַ֤ר מָרְדֳּכַי֙ אֶסְתֵּ֣ר עֹשָׂ֔ה כַּאֲשֶׁ֛ר הָיְתָ֥ה בְאָמְנָ֖ה אִתּֽוֹ׃ ס"
+pericope: "[[Esth.2.17 Esther Becomes Queen|Esther Becomes Queen]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+strongs:
+- "[[H0369]]"
+- "[[H0635]]"
+- "[[H5046]]"
+- "[[H4138]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H4782H]]"
+- "[[H3982]]"
+- "[[H6213A]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H0545]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Esther 2:20**<big><big>[[Esth.2.17 Esther Becomes Queen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Esther had not [yet] shewed her kindred nor her people; as Mordecai had charged her: for Esther did the commandment of Mordecai, like as when she was brought up with him.
 <small><sub>**BSB:**</sub></small>
 Esther still had not revealed her lineage or her people, just as Mordecai had instructed. She obeyed Mordecai’s command, as she had done under his care.
+<small><sub>**Hebrew:**</sub></small>
+[[H0369\|אֵ֣ין]] [[H0635\|אֶסְתֵּ֗ר]] [[H5046\|מַגֶּ֤דֶת]] [[H4138\|מֽוֹלַדְתָּ]][[H9024\|הּ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמָּ֔]][[H9024\|הּ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H6680\|צִוָּ֥ה]] [[H5921A\|עָלֶ֖י]][[H9034\|הָ]] [[H4782H\|מָרְדֳּכָ֑י]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3982\|מַאֲמַ֤ר]] [[H4782H\|מָרְדֳּכַי֙]] [[H0635\|אֶסְתֵּ֣ר]] [[H6213A\|עֹשָׂ֔ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֛ר]] [[H1961\|הָיְתָ֥ה]] [[H9003\|בְ]][[H0545\|אָמְנָ֖ה]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.19|<< Esther 2:19]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.21|Esther 2:21 >>]]</td></tr></table>
 
@@ -26,7 +82,7 @@ Esther still had not revealed her lineage or her people, just as Mordecai had in
 | just as  |**<big>&#8207;[[H9004\|כַּ]]&#8207;&#8207;[[H0834D\|אֲשֶׁ֛ר]]&#8207; </big>**| ka.<small><sup>[[HR]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | she had done  |**<big>&#8207;[[H1961\|הָיְתָ֥ה]]&#8207; </big>**| ha.ye.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in guardianship  |**<big>&#8207;[[H9003\|בְ]]&#8207;&#8207;[[H0545\|אָמְנָ֖ה]]&#8207; </big>**| ve.<small><sup>[[HR]]</sup></small> 'a.me.Nah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with him  |**<big>&#8207;[[H0854\|אִתּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'i.T<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with him  |**<big>&#8207;[[H0854\|אִתּֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'i.T<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.19|<< Esther 2:19]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.21|Esther 2:21 >>]]</td></tr></table>
 
 

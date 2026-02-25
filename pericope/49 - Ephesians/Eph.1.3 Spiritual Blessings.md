@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Spiritual Blessings
+type: Pericope
 pericope: "[[Eph.1.3 Spiritual Blessings|Spiritual Blessings]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Ephesians
 chapter: 1
 book/chapter: "[[Eph.1|Ephesians 1]]"
-genre:
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - theological treatise
+verse_count: 12
 verses:
 - "[[Eph.1.3]]"
 - "[[Eph.1.4]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Eph.1.14]]"
 ---
 
-[[Eph.1|Ephesians 1:3 - Ephesians 1:14]]
+<small>[[Eph.1|Ephesians 1:3-14]]</small>
 *Spiritual Blessings*
 
 [[Eph.1.3|3]] Blessed \[be\] the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly \[places\] in Christ:

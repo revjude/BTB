@@ -1,8 +1,64 @@
+---
+title: Joshua 15:16
+type: Verse
+kjv: "And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife."
+bsb: "And Caleb said, “To the man who strikes down Kiriath-sepher and captures it, I will give my daughter Acsah in marriage.”"
+hebrew: "וַיֹּ֣אמֶר כָּלֵ֔ב אֲשֶׁר־ יַכֶּ֥ה אֶת־ קִרְיַת־ סֵ֖פֶר וּלְכָדָ֑הּ וְנָתַ֥תִּי ל֛וֹ אֶת־ עַכְסָ֥ה בִתִּ֖י לְאִשָּֽׁה׃"
+pericope: "[[Josh.15.13 Caleb’s Portion and Conquest|Caleb’s Portion and Conquest]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ACHSAH|ACHSAH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CALEB|CALEB]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic KIRJATH-SEPHER|KIRJATH-SEPHER]]"
+- "[[topic OTHNIEL|OTHNIEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3612G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H7158]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H5414O]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5915G]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:16**<big><big>[[Josh.15.13 Caleb’s Portion and Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
 <small><sub>**BSB:**</sub></small>
 And Caleb said, “To the man who strikes down Kiriath-sepher and captures it, I will give my daughter Acsah in marriage.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3612G\|כָּלֵ֔ב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5221\|יַכֶּ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H7158\|קִרְיַת]][[H9014\|־]] [[H7158\|סֵ֖פֶר]] [[H9001\|וּ]][[H3920\|לְכָדָ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H5414O\|נָתַ֥תִּי]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H5915G\|עַכְסָ֥ה]] [[H1323G\|בִתִּ֖]][[H9020\|י]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHSAH|ACHSAH]] • [[topic ARMIES|ARMIES]] • [[topic CALEB|CALEB]] • [[topic COURAGE|COURAGE]] • [[topic DEBIR|DEBIR]] • [[topic KIRJATH-SEPHER|KIRJATH-SEPHER]] • [[topic OTHNIEL|OTHNIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.15|<< Joshua 15:15]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.17|Joshua 15:17 >>]]</td></tr></table>
 

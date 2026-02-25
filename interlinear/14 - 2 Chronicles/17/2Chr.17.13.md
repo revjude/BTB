@@ -1,8 +1,56 @@
+---
+title: 2 Chronicles 17:13
+type: Verse
+kjv: "And he had much business in the cities of Judah: and the men of war, mighty men of valour, were in Jerusalem."
+bsb: "and kept vast supplies in the cities of Judah. He also had warriors in Jerusalem who were mighty men of valor."
+hebrew: "וּמְלָאכָ֥ה רַבָּ֛ה הָ֥יָה ל֖וֹ בְּעָרֵ֣י יְהוּדָ֑ה וְאַנְשֵׁ֧י מִלְחָמָ֛ה גִּבּ֥וֹרֵי חַ֖יִל בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+strongs:
+- "[[H9002]]"
+- "[[H4399]]"
+- "[[H7227A]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H3063G]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H1368]]"
+- "[[H2428G]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:13**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had much business in the cities of Judah: and the men of war, mighty men of valour, [were] in Jerusalem.
 <small><sub>**BSB:**</sub></small>
 and kept vast supplies in the cities of Judah. He also had warriors in Jerusalem who were mighty men of valor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4399\|מְלָאכָ֥ה]] [[H7227A\|רַבָּ֛ה]] [[H1961\|הָ֥יָה]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9003\|בְּ]][[H5892B\|עָרֵ֣י]] [[H3063G\|יְהוּדָ֑ה]] [[H9002\|וְ]][[H0582\|אַנְשֵׁ֧י]] [[H4421\|מִלְחָמָ֛ה]] [[H1368\|גִּבּ֥וֹרֵי]] [[H2428G\|חַ֖יִל]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.12|<< 2 Chronicles 17:12]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.14|2 Chronicles 17:14 >>]]</td></tr></table>
 

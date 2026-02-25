@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 17:14
+type: Verse
+kjv: "But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore."
+bsb: "But I will set him over My house and My kingdom forever, and his throne will be established forever.”"
+hebrew: "וְהַֽעֲמַדְתִּ֛יהוּ בְּבֵיתִ֥י וּבְמַלְכוּתִ֖י עַד־ הָעוֹלָ֑ם וְכִסְא֕וֹ יִהְיֶ֥ה נָכ֖וֹן עַד־ עוֹלָֽם׃"
+pericope: "[[1Chr.17.1 God’s Covenant with David|God’s Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H5975H]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H4438]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5769G]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H1961]]"
+- "[[H3559H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:14**<big><big>[[1Chr.17.1 God’s Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore.
 <small><sub>**BSB:**</sub></small>
 But I will set him over My house and My kingdom forever, and his throne will be established forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5975H\|הַֽעֲמַדְתִּ֛י]][[H9033\|הוּ]] [[H9003\|בְּ]][[H1004Q\|בֵיתִ֥]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בְ]][[H4438\|מַלְכוּתִ֖]][[H9020\|י]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H5769G\|עוֹלָ֑ם]] [[H9002\|וְ]][[H3678G\|כִסְא֕]][[H9023\|וֹ]] [[H1961\|יִהְיֶ֥ה]] [[H3559H\|נָכ֖וֹן]] [[H5704\|עַד]][[H9014\|־]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic DAVID|DAVID]] • [[topic NATHAN|NATHAN]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.13|<< 1 Chronicles 17:13]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.15|1 Chronicles 17:15 >>]]</td></tr></table>
 

@@ -1,8 +1,75 @@
+---
+title: Jeremiah 33:24
+type: Verse
+kjv: "Considerest thou not what this people have spoken, saying, The two families which the LORD hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them."
+bsb: "“Have you not noticed what these people are saying: ‘The LORD has rejected the two families He had chosen’? So they despise My people and no longer regard them as a nation."
+hebrew: "הֲל֣וֹא רָאִ֗יתָ מָֽה־ הָעָ֤ם הַזֶּה֙ דִּבְּר֣וּ לֵאמֹ֔ר שְׁתֵּ֣י הַמִּשְׁפָּח֗וֹת אֲשֶׁ֨ר בָּחַ֧ר יְהוָ֛ה בָּהֶ֖ם וַיִּמְאָסֵ֑ם וְאֶת־ עַמִּי֙ יִנְאָצ֔וּן מִֽהְי֥וֹת ע֖וֹד גּ֥וֹי לִפְנֵיהֶֽם׃ ס"
+pericope: "[[Jer.33.14 The Covenant with David|The Covenant with David]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 33
+book/chapter: "[[Jer.33|Jeremiah 33]]"
+chronological_order: 756
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic DAVID|DAVID]]"
+strongs:
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H1696G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H8147]]"
+- "[[H4940]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H3988A]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9020]]"
+- "[[H5006]]"
+- "[[H9013]]"
+- "[[H9006]]"
+- "[[H1961]]"
+- "[[H5750]]"
+- "[[H1471A]]"
+- "[[H6440G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 33:24**<big><big>[[Jer.33.14 The Covenant with David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Considerest thou not what this people have spoken, saying, The two families which the LORD hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them.
 <small><sub>**BSB:**</sub></small>
 “Have you not noticed what these people are saying: ‘The LORD has rejected the two families He had chosen’? So they despise My people and no longer regard them as a nation.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3808\|ל֣וֹא]] [[H7200G\|רָאִ֗יתָ]] [[H4100\|מָֽה]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֤ם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H1696G\|דִּבְּר֣וּ]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H8147\|שְׁתֵּ֣י]] [[H9009\|הַ]][[H4940\|מִּשְׁפָּח֗וֹת]] [[H0834A\|אֲשֶׁ֨ר]] [[H0977\|בָּחַ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H9003\|בָּ]][[H9038\|הֶ֖ם]] [[H9001\|וַ]][[H3988A\|יִּמְאָסֵ֑]][[H9038\|ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֙]] [[H5006\|יִנְאָצ֔וּ]][[H9013\|ן]] [[H9006\|מִֽ]][[H1961\|הְי֥וֹת]] [[H5750\|ע֖וֹד]] [[H1471A\|גּ֥וֹי]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.33.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.23|<< Jeremiah 33:23]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.25|Jeremiah 33:25 >>]]</td></tr></table>
 
@@ -28,7 +95,7 @@ Considerest thou not what this people have spoken, saying, The two families whic
 | from being  |**<big>&#8207;[[H9006\|מִֽ]]&#8207;&#8207;[[H1961\|הְי֥וֹת]]&#8207; </big>**| mi<small><sup>[[HR]]</sup></small> h.Yot<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | again  |**<big>&#8207;[[H5750\|ע֖וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a nation  |**<big>&#8207;[[H1471A\|גּ֥וֹי]]&#8207; </big>**| Goy<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<to> before them  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<to> before them  |**<big>&#8207;[[H9005\|לִ]]&#8207;&#8207;[[H6440G\|פְנֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| li<small><sup>[[HR]]</sup></small> f.nei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.33.23|<< Jeremiah 33:23]]</td><td align="center" style="border:none;">[[Jer.33|Jeremiah 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.33.25|Jeremiah 33:25 >>]]</td></tr></table>
 
 

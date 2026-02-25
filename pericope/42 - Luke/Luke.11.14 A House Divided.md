@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A House Divided
+type: Pericope
 pericope: "[[Luke.11.14 A House Divided|A House Divided]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 11
 book/chapter: "[[Luke.11|Luke 11]]"
-genre:
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.11.14]]"
 - "[[Luke.11.15]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.11.23]]"
 ---
 
-[[Luke.11|Luke 11:14 - Luke 11:23]]
+<small>[[Luke.11|Luke 11:14-23]]</small>
 *A House Divided*
 
 [[Luke.11.14|14]] And he was casting out a devil, and it was dumb. And it came to pass, when the devil was gone out, the dumb spake; and the people wondered.

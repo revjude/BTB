@@ -1,8 +1,60 @@
+---
+title: Isaiah 52:8
+type: Verse
+kjv: "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion."
+bsb: "Listen! Your watchmen lift up their voices, together they shout for joy. For every eye will see when the LORD returns to Zion."
+hebrew: "ק֥וֹל צֹפַ֛יִךְ נָ֥שְׂאוּ ק֖וֹל יַחְדָּ֣ו יְרַנֵּ֑נוּ כִּ֣י עַ֤יִן בְּעַ֙יִן֙ יִרְא֔וּ בְּשׁ֥וּב יְהוָ֖ה צִיּֽוֹן׃"
+pericope: "[[Isa.52.1 Deliverance for Jerusalem|Deliverance for Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 52
+book/chapter: "[[Isa.52|Isaiah 52]]"
+chronological_order: 691
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic UNITY|UNITY]]"
+- "[[topic WATCHMAN|WATCHMAN]]"
+- "[[topic ZION|ZION]]"
+strongs:
+- "[[H6963A]]"
+- "[[H6822]]"
+- "[[H9032]]"
+- "[[H5375N]]"
+- "[[H3162B]]"
+- "[[H7442B]]"
+- "[[H3588A]]"
+- "[[H5869A]]"
+- "[[H9003]]"
+- "[[H7200G]]"
+- "[[H7725G]]"
+- "[[H3068G]]"
+- "[[H6726]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 52:8**<big><big>[[Isa.52.1 Deliverance for Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.
 <small><sub>**BSB:**</sub></small>
 Listen! Your watchmen lift up their voices, together they shout for joy. For every eye will see when the LORD returns to Zion.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֥וֹל]] [[H6822\|צֹפַ֛יִ]][[H9032\|ךְ]] [[H5375N\|נָ֥שְׂאוּ]] [[H6963A\|ק֖וֹל]] [[H3162B\|יַחְדָּ֣ו]] [[H7442B\|יְרַנֵּ֑נוּ]] [[H3588A\|כִּ֣י]] [[H5869A\|עַ֤יִן]] [[H9003\|בְּ]][[H5869A\|עַ֙יִן֙]] [[H7200G\|יִרְא֔וּ]] [[H9003\|בְּ]][[H7725G\|שׁ֥וּב]] [[H3068G\|יְהוָ֖ה]] [[H6726\|צִיּֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PRAISE|PRAISE]] • [[topic UNITY|UNITY]] • [[topic WATCHMAN|WATCHMAN]] • [[topic ZION|ZION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.52.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.52.7|<< Isaiah 52:7]]</td><td align="center" style="border:none;">[[Isa.52|Isaiah 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.52.9|Isaiah 52:9 >>]]</td></tr></table>
 

@@ -1,10 +1,59 @@
+---
+title: John 11:28
+type: Verse
+kjv: "And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee."
+bsb: "After Martha had said this, she went back and called her sister Mary aside to tell her, “The Teacher is here and is asking for you.”"
+greek: "Καὶ τοῦτο εἰποῦσα ἀπῆλθεν καὶ ἐφώνησεν Μαριὰμ τὴν ἀδελφὴν αὐτῆς λάθρᾳ εἰποῦσα· ὁ διδάσκαλος πάρεστιν καὶ φωνεῖ σε."
+pericope: "[[John.11.17 Jesus Comforts Martha and Mary|Jesus Comforts Martha and Mary]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 11
+book/chapter: "[[John.11|John 11]]"
+chronological_order: 985
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic FRIENDSHIP|FRIENDSHIP]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G0565]]"
+- "[[G5455]]"
+- "[[G3137J]]"
+- "[[G3588]]"
+- "[[G0079]]"
+- "[[G0846]]"
+- "[[G2977]]"
+- "[[G1320]]"
+- "[[G3918]]"
+- "[[G4771]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 11:28**<big><big>[[John.11.17 Jesus Comforts Martha and Mary|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.
 <small><sub>**BSB:**</sub></small>
 After Martha had said this, she went back and called her sister Mary aside to tell her, “The Teacher is here and is asking for you.”
-<small><sub>**Literal:**</sub></small>
-And these things having said she went away and she called Mary the sister of her secretly having said; The Teacher is come and He calls you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.27|<< John 11:27]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.29|John 11:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G3778\|τοῦτο]]  [[G2036\|εἰποῦσα]]  [[G0565\|ἀπῆλθεν]]  [[G2532\|καὶ]]  [[G5455\|ἐφώνησεν]]  [[G3137J\|Μαριὰμ]]  [[G3588\|τὴν]]  [[G0079\|ἀδελφὴν]]  [[G0846\|αὐτῆς]]  [[G2977\|λάθρᾳ]]  [[G2036\|εἰποῦσα·]]  [[G3588\|ὁ]]  [[G1320\|διδάσκαλος]]  [[G3918\|πάρεστιν]]  [[G2532\|καὶ]]  [[G5455\|φωνεῖ]]  [[G4771\|σε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDOLENCE|CONDOLENCE]] • [[topic FRIENDSHIP|FRIENDSHIP]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.11.27|<< John 11:27]]</td><td align="center" style="border:none;">[[John.11|John 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.11.29|John 11:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

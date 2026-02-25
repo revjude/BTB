@@ -1,8 +1,66 @@
+---
+title: Leviticus 18:21
+type: Verse
+kjv: "And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the LORD."
+bsb: "You must not give any of your children to be sacrificed to Molech, for you must not profane the name of your God. I am the LORD."
+hebrew: "וּמִֽזַּרְעֲךָ֥ לֹא־ תִתֵּ֖ן לְהַעֲבִ֣יר לַמֹּ֑לֶךְ וְלֹ֧א תְחַלֵּ֛ל אֶת־ שֵׁ֥ם אֱלֹהֶ֖יךָ אֲנִ֥י יְהוָֽה׃"
+pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 18
+book/chapter: "[[Lev.18|Leviticus 18]]"
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABOMINATION|ABOMINATION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MOLECH|MOLECH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H5674A]]"
+- "[[H4432]]"
+- "[[H2490H]]"
+- "[[H0853]]"
+- "[[H8034]]"
+- "[[H0430G]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 18:21**<big><big>[[Lev.18.1 Unlawful Sexual Relations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt not let any of thy seed pass through [the fire] to Molech, neither shalt thou profane the name of thy God: I [am] the LORD.
 <small><sub>**BSB:**</sub></small>
 You must not give any of your children to be sacrificed to Molech, for you must not profane the name of your God. I am the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִֽ]][[H2233H\|זַּרְעֲ]][[H9021\|ךָ֥]] [[H3808\|לֹא]][[H9014\|־]] [[H5414G\|תִתֵּ֖ן]] [[H9005\|לְ]][[H5674A\|הַעֲבִ֣יר]] [[H9005\|לַ]][[H4432\|מֹּ֑לֶךְ]] [[H9002\|וְ]][[H3808\|לֹ֧א]] [[H2490H\|תְחַלֵּ֛ל]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שֵׁ֥ם]] [[H0430G\|אֱלֹהֶ֖י]][[H9021\|ךָ]] [[H0589\|אֲנִ֥י]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABOMINATION|ABOMINATION]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MOLECH|MOLECH]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.18.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.18.20|<< Leviticus 18:20]]</td><td align="center" style="border:none;">[[Lev.18|Leviticus 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.18.22|Leviticus 18:22 >>]]</td></tr></table>
 

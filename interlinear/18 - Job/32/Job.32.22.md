@@ -1,8 +1,51 @@
+---
+title: Job 32:22
+type: Verse
+kjv: "For I know not to give flattering titles; in so doing my maker would soon take me away."
+bsb: "For I do not know how to flatter, or my Maker would remove me in an instant."
+hebrew: "כִּ֤י לֹ֣א יָדַ֣עְתִּי אֲכַנֶּ֑ה כִּ֝מְעַ֗ט יִשָּׂאֵ֥נִי עֹשֵֽׂנִי׃"
+pericope: "[[Job.32.1 Elihu Rebukes Job’s Friends|Elihu Rebukes Job’s Friends]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 32
+book/chapter: "[[Job.32|Job 32]]"
+chronological_order: 43
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic FLATTERY|FLATTERY]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H3655]]"
+- "[[H9004]]"
+- "[[H4592]]"
+- "[[H5375H]]"
+- "[[H9030]]"
+- "[[H6213H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 32:22**<big><big>[[Job.32.1 Elihu Rebukes Job’s Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For I know not to give flattering titles; [in so doing] my maker would soon take me away.
 <small><sub>**BSB:**</sub></small>
 For I do not know how to flatter, or my Maker would remove me in an instant.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H3808\|לֹ֣א]] [[H3045\|יָדַ֣עְתִּי]] [[H3655\|אֲכַנֶּ֑ה]] [[H9004\|כִּ֝]][[H4592\|מְעַ֗ט]] [[H5375H\|יִשָּׂאֵ֥]][[H9030\|נִי]] [[H6213H\|עֹשֵֽׂ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLATTERY|FLATTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.32.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.32.21|<< Job 32:21]]</td><td align="center" style="border:none;">[[Job.32|Job 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.1|Job 33:1 >>]]</td></tr></table>
 

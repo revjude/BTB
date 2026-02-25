@@ -1,8 +1,73 @@
+---
+title: Genesis 5:29
+type: Verse
+kjv: "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed."
+bsb: "And he named him Noah, saying, “May this one comfort us in the labor and toil of our hands caused by the ground that the LORD has cursed.”"
+hebrew: "וַיִּקְרָ֧א אֶת־ שְׁמ֛וֹ נֹ֖חַ לֵאמֹ֑ר זֶ֠ה יְנַחֲמֵ֤נוּ מִֽמַּעֲשֵׂ֙נוּ֙ וּמֵעִצְּב֣וֹן יָדֵ֔ינוּ מִן־ הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר אֵֽרְרָ֖הּ יְהוָֽה׃"
+pericope: "[[Gen.5.25 From Methuselah to Noah|From Methuselah to Noah]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 5
+book/chapter: "[[Gen.5|Genesis 5]]"
+chronological_order: 5
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GROUND|GROUND]]"
+- "[[topic LAMECH|LAMECH]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H5146]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H2088]]"
+- "[[H5162G]]"
+- "[[H9035]]"
+- "[[H9006]]"
+- "[[H4639G]]"
+- "[[H9025]]"
+- "[[H9002]]"
+- "[[H6093]]"
+- "[[H3027G]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0127G]]"
+- "[[H0834A]]"
+- "[[H0779]]"
+- "[[H9034]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 5:29**<big><big>[[Gen.5.25 From Methuselah to Noah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he called his name Noah, saying, This [same] shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.
 <small><sub>**BSB:**</sub></small>
 And he named him Noah, saying, “May this one comfort us in the labor and toil of our hands caused by the ground that the LORD has cursed.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121H\|יִּקְרָ֧א]] [[H0853\|אֶת]][[H9014\|־]] [[H8034\|שְׁמ֛]][[H9023\|וֹ]] [[H5146\|נֹ֖חַ]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H2088\|זֶ֠ה]] [[H5162G\|יְנַחֲמֵ֤]][[H9035\|נוּ]] [[H9006\|מִֽ]][[H4639G\|מַּעֲשֵׂ֙]][[H9025\|נוּ֙]] [[H9002\|וּ]][[H9006\|מֵ]][[H6093\|עִצְּב֣וֹן]] [[H3027G\|יָדֵ֔י]][[H9025\|נוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ֣]][[H0127G\|אֲדָמָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0779\|אֵֽרְרָ֖]][[H9034\|הּ]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic GROUND|GROUND]] • [[topic LAMECH|LAMECH]] • [[topic NOAH|NOAH]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.5.28|<< Genesis 5:28]]</td><td align="center" style="border:none;">[[Gen.5|Genesis 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.5.30|Genesis 5:30 >>]]</td></tr></table>
 

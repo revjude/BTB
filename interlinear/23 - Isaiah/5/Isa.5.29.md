@@ -1,8 +1,60 @@
+---
+title: Isaiah 5:29
+type: Verse
+kjv: "Their roaring shall be like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and shall carry it away safe, and none shall deliver it."
+bsb: "Their roaring is like that of a lion; they roar like young lions. They growl and seize their prey; they carry it away, and no one can rescue it."
+hebrew: "שְׁאָגָ֥ה ל֖וֹ כַּלָּבִ֑יא יִשְׁאַ֨ג כַּכְּפִירִ֤ים וְיִנְהֹם֙ וְיֹאחֵ֣ז טֶ֔רֶף וְיַפְלִ֖יט וְאֵ֥ין מַצִּֽיל׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H7581]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9004]]"
+- "[[H3833C]]"
+- "[[H9001]]"
+- "[[H7580]]"
+- "[[H3715A]]"
+- "[[H9002]]"
+- "[[H5098]]"
+- "[[H0270]]"
+- "[[H2964]]"
+- "[[H6403]]"
+- "[[H0369]]"
+- "[[H5337]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 5:29**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their roaring [shall be] like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and shall carry [it] away safe, and none shall deliver [it].
 <small><sub>**BSB:**</sub></small>
 Their roaring is like that of a lion; they roar like young lions. They growl and seize their prey; they carry it away, and no one can rescue it.
+<small><sub>**Hebrew:**</sub></small>
+[[H7581\|שְׁאָגָ֥ה]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9004\|כַּ]][[H3833C\|לָּבִ֑יא]] [[H7580\|יִשְׁאַ֨ג]] [[H9004\|כַּ]][[H3715A\|כְּפִירִ֤ים]] [[H9002\|וְ]][[H5098\|יִנְהֹם֙]] [[H9002\|וְ]][[H0270\|יֹאחֵ֣ז]] [[H2964\|טֶ֔רֶף]] [[H9002\|וְ]][[H6403\|יַפְלִ֖יט]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H5337\|מַצִּֽיל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISAIAH|ISAIAH]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.28|<< Isaiah 5:28]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.30|Isaiah 5:30 >>]]</td></tr></table>
 
@@ -21,6 +73,6 @@ Their roaring is like that of a lion; they roar like young lions. They growl and
 | [is] a deliverer  |**<big>&#8207;[[H5337\|מַצִּֽיל]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ma.Tzil<small><sup>[[HVhrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.28|<< Isaiah 5:28]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.30|Isaiah 5:30 >>]]</td></tr></table>
 
-[^1]: and it will roar  | **<big>[[H7580|שָׁאַג]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> sha.'ag<small><sup>[[HVqq3ms]]</sup></small> | K
+[^1]: and it will roar  | **<big>[[H9001|וְ]]</big><big>[[H7580|שָׁאַג]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> sha.'ag<small><sup>[[HVqq3ms]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>וִשְׁאַ֨ג</big></span>**
 

@@ -1,10 +1,61 @@
+---
+title: Galatians 1:1
+type: Verse
+kjv: "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+bsb: "Paul, an apostle—sent not from men nor by man, but by Jesus Christ and God the Father, who raised Him from the dead—"
+greek: "Παῦλος ἀπόστολος οὐκ ἀπ᾽ ἀνθρώπων οὐδὲ δι᾽ ἀνθρώπου ἀλλὰ διὰ Ἰησοῦ Χριστοῦ καὶ θεοῦ πατρὸς τοῦ ἐγείραντος αὐτὸν ἐκ νεκρῶν"
+pericope: "[[Gal.1.1 Paul’s Greeting to the Galatians|Paul’s Greeting to the Galatians]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 1
+book/chapter: "[[Gal.1|Galatians 1]]"
+chronological_order: 1039
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic GALATIA|GALATIA]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G3972G]]"
+- "[[G0652]]"
+- "[[G3756]]"
+- "[[G0575]]"
+- "[[G0444]]"
+- "[[G3761]]"
+- "[[G1223]]"
+- "[[G0235]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2532]]"
+- "[[G2316]]"
+- "[[G3962]]"
+- "[[G3588]]"
+- "[[G1453]]"
+- "[[G0846]]"
+- "[[G1537]]"
+- "[[G3498]]"
+texts:
+- NKO
+---
+
 **Galatians 1:1**<big><big>[[Gal.1.1 Paul’s Greeting to the Galatians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)
 <small><sub>**BSB:**</sub></small>
 Paul, an apostle—sent not from men nor by man, but by Jesus Christ and God the Father, who raised Him from the dead—
-<small><sub>**Literal:**</sub></small>
-Paul an apostle not from men nor through man but through Jesus Christ and God [the] Father the [One who] having raised Him out from [the] dead —<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.13|<< 2 Corinthians 13:13]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.2|Galatians 1:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3972G\|Παῦλος]]  [[G0652\|ἀπόστολος]]  [[G3756\|οὐκ]]  [[G0575\|ἀπ᾽]]  [[G0444\|ἀνθρώπων]]  [[G3761\|οὐδὲ]]  [[G1223\|δι᾽]]  [[G0444\|ἀνθρώπου]]  [[G0235\|ἀλλὰ]]  [[G1223\|διὰ]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G2532\|καὶ]]  [[G2316\|θεοῦ]]  [[G3962\|πατρὸς]]  [[G3588\|τοῦ]]  [[G1453\|ἐγείραντος]]  [[G0846\|αὐτὸν]]  [[G1537\|ἐκ]]  [[G3498\|νεκρῶν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic GALATIA|GALATIA]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.13|<< 2 Corinthians 13:13]]</td><td align="center" style="border:none;">[[Gal.1|Galatians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.1.2|Galatians 1:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

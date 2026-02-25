@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 25:13
+type: Verse
+kjv: "And David said unto his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff."
+bsb: "And David said to his men, “Strap on your swords!” So David and all his men strapped on their swords, and about four hundred men followed David, while two hundred stayed with the supplies."
+hebrew: "וַיֹּאמֶר֩ דָּוִ֨ד לַאֲנָשָׁ֜יו חִגְר֣וּ׀ אִ֣ישׁ אֶת־ חַרְבּ֗וֹ וַֽיַּחְגְּרוּ֙ אִ֣ישׁ אֶת־ חַרְבּ֔וֹ וַיַּחְגֹּ֥ר גַּם־ דָּוִ֖ד אֶת־ חַרְבּ֑וֹ וַֽיַּעֲל֣וּ׀ אַחֲרֵ֣י דָוִ֗ד כְּאַרְבַּ֤ע מֵאוֹת֙ אִ֔ישׁ וּמָאתַ֖יִם יָשְׁב֥וּ עַל־ הַכֵּלִֽים׃"
+pericope: "[[1Sam.25.2 David, Nabal, and Abigail|David, Nabal, and Abigail]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INHOSPITABLENESS|INHOSPITABLENESS]]"
+- "[[topic NABAL|NABAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H2296]]"
+- "[[H9015]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2719]]"
+- "[[H1571]]"
+- "[[H5927G]]"
+- "[[H0310A]]"
+- "[[H9004]]"
+- "[[H0702]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H3627]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:13**<big><big>[[1Sam.25.2 David, Nabal, and Abigail|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff.
 <small><sub>**BSB:**</sub></small>
 And David said to his men, “Strap on your swords!” So David and all his men strapped on their swords, and about four hundred men followed David, while two hundred stayed with the supplies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H1732\|דָּוִ֨ד]] [[H9005\|לַ]][[H0582\|אֲנָשָׁ֜י]][[H9023\|ו]] [[H2296\|חִגְר֣וּ]][[H9015\|׀]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H2719\|חַרְבּ֗]][[H9023\|וֹ]] [[H9001\|וַֽ]][[H2296\|יַּחְגְּרוּ֙]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H2719\|חַרְבּ֔]][[H9023\|וֹ]] [[H9001\|וַ]][[H2296\|יַּחְגֹּ֥ר]] [[H1571\|גַּם]][[H9014\|־]] [[H1732\|דָּוִ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H2719\|חַרְבּ֑]][[H9023\|וֹ]] [[H9001\|וַֽ]][[H5927G\|יַּעֲל֣וּ]][[H9015\|׀]] [[H0310A\|אַחֲרֵ֣י]] [[H1732\|דָוִ֗ד]] [[H9004\|כְּ]][[H0702\|אַרְבַּ֤ע]] [[H3967\|מֵאוֹת֙]] [[H0376G\|אִ֔ישׁ]] [[H9002\|וּ]][[H3967\|מָאתַ֖יִם]] [[H3427\|יָשְׁב֥וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INHOSPITABLENESS|INHOSPITABLENESS]] • [[topic NABAL|NABAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.12|<< 1 Samuel 25:12]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.14|1 Samuel 25:14 >>]]</td></tr></table>
 

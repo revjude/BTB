@@ -1,8 +1,71 @@
+---
+title: Jeremiah 38:2
+type: Verse
+kjv: "Thus saith the LORD, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live."
+bsb: "“This is what the LORD says: Whoever stays in this city will die by sword and famine and plague, but whoever surrenders to the Chaldeans will live; he will retain his life like a spoil of war, and he will live."
+hebrew: "כֹּה֮ אָמַ֣ר יְהוָה֒ הַיֹּשֵׁב֙ בָּעִ֣יר הַזֹּ֔את יָמ֕וּת בַּחֶ֖רֶב בָּרָעָ֣ב וּבַדָּ֑בֶר וְהַיֹּצֵ֤א אֶל־ הַכַּשְׂדִּים֙ וְחָיָ֔ה וְהָיְתָה־ לּ֥וֹ נַפְשׁ֛וֹ לְשָׁלָ֖ל וָחָֽי׃ ס"
+pericope: "[[Jer.38.1 Jeremiah Cast into the Cistern|Jeremiah Cast into the Cistern]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 38
+book/chapter: "[[Jer.38|Jeremiah 38]]"
+chronological_order: 761
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H4191]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H9002]]"
+- "[[H1698]]"
+- "[[H3318G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3778]]"
+- "[[H2421]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5315H]]"
+- "[[H9023]]"
+- "[[H7998]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 38:2**<big><big>[[Jer.38.1 Jeremiah Cast into the Cistern|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live.
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD says: Whoever stays in this city will die by sword and famine and plague, but whoever surrenders to the Chaldeans will live; he will retain his life like a spoil of war, and he will live.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּה֮]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָה֒]] [[H9009\|הַ]][[H3427\|יֹּשֵׁב֙]] [[H9003\|בָּ]][[H5892B\|עִ֣יר]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H4191\|יָמ֕וּת]] [[H9003\|בַּ]][[H2719\|חֶ֖רֶב]] [[H9003\|בָּ]][[H7458\|רָעָ֣ב]] [[H9002\|וּ]][[H9003\|בַ]][[H1698\|דָּ֑בֶר]] [[H9002\|וְ]][[H9009\|הַ]][[H3318G\|יֹּצֵ֤א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3778\|כַּשְׂדִּים֙]] [[H9001\|וְ]][[H2421\|חָיָ֔ה]] [[H9001\|וְ]][[H1961\|הָיְתָה]][[H9014\|־]] [[H9005\|לּ֥]][[H9033\|וֹ]] [[H5315H\|נַפְשׁ֛]][[H9023\|וֹ]] [[H9005\|לְ]][[H7998\|שָׁלָ֖ל]] [[H9001\|וָ]][[H2421\|חָֽי]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.38.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.1|<< Jeremiah 38:1]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.3|Jeremiah 38:3 >>]]</td></tr></table>
 
@@ -26,7 +89,7 @@ Thus saith the LORD, He that remaineth in this city shall die by the sword, by t
 | to \<the> him  |**<big>&#8207;[[H9005\|לּ֥]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| l<small><sup>[[HRd]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | life his  |**<big>&#8207;[[H5315H\|נַפְשׁ֛]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| naf.Sh<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to plunder  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7998\|שָׁלָ֖ל]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> sha.Lal<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and he will live  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H2421\|חָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Chai<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and he will live  |**<big>&#8207;[[H9001\|וָ]]&#8207;&#8207;[[H2421\|חָֽי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| va.<small><sup>[[Hc]]</sup></small> Chai<small><sup>[[HVqq3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.38.1|<< Jeremiah 38:1]]</td><td align="center" style="border:none;">[[Jer.38|Jeremiah 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.38.3|Jeremiah 38:3 >>]]</td></tr></table>
 
 [^1]: he will live  | **<big>[[H2421|יִחְיֶה]]</big> ** | yich.yeh<small><sup>[[HVqi3ms]]</sup></small> | K

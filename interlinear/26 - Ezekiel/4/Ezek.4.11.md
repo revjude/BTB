@@ -1,8 +1,59 @@
+---
+title: Ezekiel 4:11
+type: Verse
+kjv: "Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink."
+bsb: "You are also to measure out a sixth of a hin of water to drink, and you are to drink it at set times."
+hebrew: "וּמַ֛יִם בִּמְשׂוּרָ֥ה תִשְׁתֶּ֖ה שִׁשִּׁ֣ית הַהִ֑ין מֵעֵ֥ת עַד־ עֵ֖ת תִּשְׁתֶּֽה׃"
+pericope: "[[Ezek.4.9 The Defiled Bread|The Defiled Bread]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 4
+book/chapter: "[[Ezek.4|Ezekiel 4]]"
+chronological_order: 795
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H9003]]"
+- "[[H4884]]"
+- "[[H8354]]"
+- "[[H8345]]"
+- "[[H9009]]"
+- "[[H1969]]"
+- "[[H9006]]"
+- "[[H6256]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 4:11**<big><big>[[Ezek.4.9 The Defiled Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt drink also water by measure, the sixth part of an hin: from time to time shalt thou drink.
 <small><sub>**BSB:**</sub></small>
 You are also to measure out a sixth of a hin of water to drink, and you are to drink it at set times.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4325G\|מַ֛יִם]] [[H9003\|בִּ]][[H4884\|מְשׂוּרָ֥ה]] [[H8354\|תִשְׁתֶּ֖ה]] [[H8345\|שִׁשִּׁ֣ית]] [[H9009\|הַ]][[H1969\|הִ֑ין]] [[H9006\|מֵ]][[H6256\|עֵ֥ת]] [[H5704\|עַד]][[H9014\|־]] [[H6256\|עֵ֖ת]] [[H8354\|תִּשְׁתֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic MEASURE|MEASURE]] • [[topic SYMBOLS|SYMBOLS]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.4.10|<< Ezekiel 4:10]]</td><td align="center" style="border:none;">[[Ezek.4|Ezekiel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.4.12|Ezekiel 4:12 >>]]</td></tr></table>
 

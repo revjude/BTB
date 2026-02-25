@@ -1,8 +1,64 @@
+---
+title: Jeremiah 22:16
+type: Verse
+kjv: "He judged the cause of the poor and needy; then it was well with him: was not this to know me? saith the LORD."
+bsb: "He took up the cause of the poor and needy, and so it went well with him. Is this not what it means to know Me?” declares the LORD."
+hebrew: "דָּ֛ן דִּין־ עָנִ֥י וְאֶבְי֖וֹן אָ֣ז ט֑וֹב הֲלוֹא־ הִ֛יא הַדַּ֥עַת אֹתִ֖י נְאֻם־ יְהוָֽה׃"
+pericope: "[[Jer.22.13 A Warning about Jehoiakim|A Warning about Jehoiakim]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H1777]]"
+- "[[H1779]]"
+- "[[H9014]]"
+- "[[H6041]]"
+- "[[H9002]]"
+- "[[H0034]]"
+- "[[H0227A]]"
+- "[[H2895]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1931]]"
+- "[[H9009]]"
+- "[[H1847]]"
+- "[[H0853]]"
+- "[[H9030]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:16**<big><big>[[Jer.22.13 A Warning about Jehoiakim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He judged the cause of the poor and needy; then [it was] well [with him: was] not this to know me? saith the LORD.
 <small><sub>**BSB:**</sub></small>
 He took up the cause of the poor and needy, and so it went well with him. Is this not what it means to know Me?” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H1777\|דָּ֛ן]] [[H1779\|דִּין]][[H9014\|־]] [[H6041\|עָנִ֥י]] [[H9002\|וְ]][[H0034\|אֶבְי֖וֹן]] [[H0227A\|אָ֣ז]] [[H2895\|ט֑וֹב]] [[H9008\|הֲ]][[H3808\|לוֹא]][[H9014\|־]] [[H1931\|הִ֛יא]] [[H9009\|הַ]][[H1847\|דַּ֥עַת]] [[H0853\|אֹתִ֖]][[H9030\|י]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic JEHOIAKIM|JEHOIAKIM]] • [[topic POOR|POOR]] • [[topic RICH, THE|RICH, THE]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.15|<< Jeremiah 22:15]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.17|Jeremiah 22:17 >>]]</td></tr></table>
 

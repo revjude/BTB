@@ -1,8 +1,72 @@
+---
+title: Numbers 11:24
+type: Verse
+kjv: "And Moses went out, and told the people the words of the LORD, and gathered the seventy men of the elders of the people, and set them round about the tabernacle."
+bsb: "So Moses went out and relayed to the people the words of the LORD, and he gathered seventy of the elders of the people and had them stand around the tent."
+hebrew: "וַיֵּצֵ֣א מֹשֶׁ֗ה וַיְדַבֵּר֙ אֶל־ הָעָ֔ם אֵ֖ת דִּבְרֵ֣י יְהוָ֑ה וַיֶּאֱסֹ֞ף שִׁבְעִ֥ים אִישׁ֙ מִזִּקְנֵ֣י הָעָ֔ם וַֽיַּעֲמֵ֥ד אֹתָ֖ם סְבִיבֹ֥ת הָאֹֽהֶל׃"
+pericope: "[[Num.11.16 Seventy Elders Anointed|Seventy Elders Anointed]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JURY|JURY]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SEVENTY|SEVENTY]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H4872]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H0622]]"
+- "[[H7657]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H2205G]]"
+- "[[H5975J]]"
+- "[[H9038]]"
+- "[[H5439G]]"
+- "[[H0168G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:24**<big><big>[[Num.11.16 Seventy Elders Anointed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses went out, and told the people the words of the LORD, and gathered the seventy men of the elders of the people, and set them round about the tabernacle.
 <small><sub>**BSB:**</sub></small>
 So Moses went out and relayed to the people the words of the LORD, and he gathered seventy of the elders of the people and had them stand around the tent.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֣א]] [[H4872\|מֹשֶׁ֗ה]] [[H9001\|וַ]][[H1696G\|יְדַבֵּר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0853\|אֵ֖ת]] [[H1697G\|דִּבְרֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H0622\|יֶּאֱסֹ֞ף]] [[H7657\|שִׁבְעִ֥ים]] [[H0376G\|אִישׁ֙]] [[H9006\|מִ]][[H2205G\|זִּקְנֵ֣י]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9001\|וַֽ]][[H5975J\|יַּעֲמֵ֥ד]] [[H0853\|אֹתָ֖]][[H9038\|ם]] [[H5439G\|סְבִיבֹ֥ת]] [[H9009\|הָ]][[H0168G\|אֹֽהֶל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic INSPIRATION|INSPIRATION]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JURY|JURY]] • [[topic MOSES|MOSES]] • [[topic PRAYER|PRAYER]] • [[topic SEVENTY|SEVENTY]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.23|<< Numbers 11:23]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.25|Numbers 11:25 >>]]</td></tr></table>
 

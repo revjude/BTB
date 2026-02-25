@@ -1,10 +1,63 @@
+---
+title: John 1:48
+type: Verse
+kjv: "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee."
+bsb: "“How do You know me?” Nathanael asked. Jesus replied, “Before Philip called you, I saw you under the fig tree.”"
+jesus_said: "Before that Philip called thee, when thou wast under the fig tree, I saw thee."
+greek: "λέγει αὐτῷ Ναθαναήλ· πόθεν με γινώσκεις; ἀπεκρίθη ὁ Ἰησοῦς καὶ εἶπεν αὐτῷ· πρὸ τοῦ σε Φίλιππον φωνῆσαι ὄντα ὑπὸ τὴν συκῆν εἶδόν σε."
+pericope: "[[John.1.43 Jesus Calls Philip and Nathanael|Jesus Calls Philip and Nathanael]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 1
+book/chapter: "[[John.1|John 1]]"
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NATHANAEL|NATHANAEL]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3482]]"
+- "[[G4159]]"
+- "[[G3165]]"
+- "[[G1097]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G4253]]"
+- "[[G4771]]"
+- "[[G5376G]]"
+- "[[G5455]]"
+- "[[G1510]]"
+- "[[G5259H]]"
+- "[[G4808]]"
+- "[[G1492H]]"
+texts:
+- NKO
+- k
+---
+
 **John 1:48**<big><big>[[John.1.43 Jesus Calls Philip and Nathanael|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.
 <small><sub>**BSB:**</sub></small>
 “How do You know me?” Nathanael asked. Jesus replied, “Before Philip called you, I saw you under the fig tree.”
-<small><sub>**Literal:**</sub></small>
-Says to Him Nathanael; From where me know You? Answered <the> Jesus and said to him; Before <the> you Philip calling being under the fig tree I saw you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.47|<< John 1:47]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.49|John 1:49 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3482\|Ναθαναήλ·]]  [[G4159\|πόθεν]]  [[G3165\|με]]  [[G1097\|γινώσκεις;]]  [[G0611\|ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G4253\|πρὸ]]  [[G3588\|τοῦ]]  [[G4771\|σε]]  [[G5376G\|Φίλιππον]]  [[G5455\|φωνῆσαι]]  [[G1510\|ὄντα]]  [[G5259H\|ὑπὸ]]  [[G3588\|τὴν]]  [[G4808\|συκῆν]]  [[G1492H\|εἶδόν]]  [[G4771\|σε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NATHANAEL|NATHANAEL]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.1.47|<< John 1:47]]</td><td align="center" style="border:none;">[[John.1|John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.1.49|John 1:49 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

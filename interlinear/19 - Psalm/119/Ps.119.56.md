@@ -1,8 +1,54 @@
+---
+title: Psalm 119:56
+type: Verse
+kjv: "This I had, because I kept thy precepts."
+bsb: "This is my practice, for I obey Your precepts."
+hebrew: "זֹ֥את הָֽיְתָה־ לִּ֑י כִּ֖י פִקֻּדֶ֣יךָ נָצָֽרְתִּי׃"
+pericope: "[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|Your Word Is a Lamp to My Feet - ZAIN]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[H2063]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H3588A]]"
+- "[[H6490]]"
+- "[[H9021]]"
+- "[[H5341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:56**<big><big>[[Ps.119.49 Your Word Is a Lamp to My Feet - ZAIN|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This I had, because I kept thy precepts.
 <small><sub>**BSB:**</sub></small>
 This is my practice, for I obey Your precepts.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֥את]] [[H1961\|הָֽיְתָה]][[H9014\|־]] [[H9005\|לִּ֑]][[H9030\|י]] [[H3588A\|כִּ֖י]] [[H6490\|פִקֻּדֶ֣י]][[H9021\|ךָ]] [[H5341\|נָצָֽרְתִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.56|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.55|<< Psalms 119:55]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.57|Psalms 119:57 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Jeremiah 8:19
+type: Verse
+kjv: "Behold the voice of the cry of the daughter of my people because of them that dwell in a far country: Is not the LORD in Zion? is not her king in her? Why have they provoked me to anger with their graven images, and with strange vanities?"
+bsb: "Listen to the cry of the daughter of my people from a land far away: “Is the LORD no longer in Zion? Is her King no longer there?” “Why have they provoked Me to anger with their carved images, with their worthless foreign idols?”"
+hebrew: "הִנֵּה־ ק֞וֹל שַֽׁוְעַ֣ת בַּת־ עַמִּ֗י מֵאֶ֙רֶץ֙ מַרְחַקִּ֔ים הַֽיהוָה֙ אֵ֣ין בְּצִיּ֔וֹן אִם־ מַלְכָּ֖הּ אֵ֣ין בָּ֑הּ מַדּ֗וּעַ הִכְעִס֛וּנִי בִּפְסִלֵיהֶ֖ם בְּהַבְלֵ֥י נֵכָֽר׃"
+pericope: "[[Jer.8.18 Jeremiah Weeps for His People|Jeremiah Weeps for His People]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 8
+book/chapter: "[[Jer.8|Jeremiah 8]]"
+chronological_order: 725
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H6963A]]"
+- "[[H7775]]"
+- "[[H1323G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4801]]"
+- "[[H9008]]"
+- "[[H3068G]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H6726]]"
+- "[[H0518I]]"
+- "[[H4428G]]"
+- "[[H9024]]"
+- "[[H9034]]"
+- "[[H4069]]"
+- "[[H3707]]"
+- "[[H9030]]"
+- "[[H6456]]"
+- "[[H9028]]"
+- "[[H1892]]"
+- "[[H5236]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 8:19**<big><big>[[Jer.8.18 Jeremiah Weeps for His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold the voice of the cry of the daughter of my people because of them that dwell in a far country: [Is] not the LORD in Zion? [is] not her king in her? Why have they provoked me to anger with their graven images, [and] with strange vanities?
 <small><sub>**BSB:**</sub></small>
 Listen to the cry of the daughter of my people from a land far away: “Is the LORD no longer in Zion? Is her King no longer there?” “Why have they provoked Me to anger with their carved images, with their worthless foreign idols?”
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה]][[H9014\|־]] [[H6963A\|ק֞וֹל]] [[H7775\|שַֽׁוְעַ֣ת]] [[H1323G\|בַּת]][[H9014\|־]] [[H5971A\|עַמִּ֗]][[H9020\|י]] [[H9006\|מֵ]][[H0776G\|אֶ֙רֶץ֙]] [[H4801\|מַרְחַקִּ֔ים]] [[H9008\|הַֽ]][[H3068G\|יהוָה֙]] [[H0369\|אֵ֣ין]] [[H9003\|בְּ]][[H6726\|צִיּ֔וֹן]] [[H0518I\|אִם]][[H9014\|־]] [[H4428G\|מַלְכָּ֖]][[H9024\|הּ]] [[H0369\|אֵ֣ין]] [[H9003\|בָּ֑]][[H9034\|הּ]] [[H4069\|מַדּ֗וּעַ]] [[H3707\|הִכְעִס֛וּ]][[H9030\|נִי]] [[H9003\|בִּ]][[H6456\|פְסִלֵי]][[H9028\|הֶ֖ם]] [[H9003\|בְּ]][[H1892\|הַבְלֵ֥י]] [[H5236\|נֵכָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CHURCH|CHURCH]] • [[topic IDOLATRY|IDOLATRY]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.8.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.8.18|<< Jeremiah 8:18]]</td><td align="center" style="border:none;">[[Jer.8|Jeremiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.8.20|Jeremiah 8:20 >>]]</td></tr></table>
 

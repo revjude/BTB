@@ -1,10 +1,68 @@
+---
+title: John 18:20
+type: Verse
+kjv: "Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing."
+bsb: "“I have spoken openly to the world,” Jesus answered. “I always taught in the synagogues and at the temple, where all the Jews come together. I said nothing in secret."
+jesus_said: "I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing."
+greek: "ἀπεκρίθη αὐτῷ ὁ Ἰησοῦς· ἐγὼ παρρησίᾳ λελάληκα τῷ κόσμῳ. ἐγὼ πάντοτε ἐδίδαξα ἐν τῇ συναγωγῇ καὶ ἐν τῷ ἱερῷ ὅπου πάντες οἱ Ἰουδαῖοι συνέρχονται, καὶ ἐν κρυπτῷ ἐλάλησα οὐδέν."
+pericope: "[[John.18.19 Jesus before the High Priest|Jesus before the High Priest]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1473]]"
+- "[[G3954]]"
+- "[[G2980]]"
+- "[[G2889]]"
+- "[[G3842]]"
+- "[[G1321]]"
+- "[[G1722]]"
+- "[[G4864]]"
+- "[[G2532]]"
+- "[[G2411]]"
+- "[[G3699]]"
+- "[[G3956]]"
+- "[[G2453]]"
+- "[[G4905]]"
+- "[[G2927]]"
+- "[[G3762]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **John 18:20**<big><big>[[John.18.19 Jesus before the High Priest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.
 <small><sub>**BSB:**</sub></small>
 “I have spoken openly to the world,” Jesus answered. “I always taught in the synagogues and at the temple, where all the Jews come together. I said nothing in secret.
-<small><sub>**Literal:**</sub></small>
-Answered to him <the> Jesus; I myself openly have spoken to the world. I myself always taught in the synagogue and in the temple where all the Jews come together, and in secret I spoke not [anything].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.19|<< John 18:19]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.21|John 18:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθη]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G1473\|ἐγὼ]]  [[G3954\|παρρησίᾳ]]  [[G2980\|λελάληκα]]  [[G3588\|τῷ]]  [[G2889\|κόσμῳ.]]  [[G1473\|ἐγὼ]]  [[G3842\|πάντοτε]]  [[G1321\|ἐδίδαξα]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4864\|συναγωγῇ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2411\|ἱερῷ]]  [[G3699\|ὅπου]]  [[G3956\|πάντες]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G4905\|συνέρχονται,]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G2927\|κρυπτῷ]]  [[G2980\|ἐλάλησα]]  [[G3762\|οὐδέν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]] • [[topic PRISONERS|PRISONERS]] • [[topic SYNAGOGUE|SYNAGOGUE]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.19|<< John 18:19]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.21|John 18:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

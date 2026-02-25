@@ -1,8 +1,65 @@
+---
+title: Numbers 19:8
+type: Verse
+kjv: "And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even."
+bsb: "The one who burned the heifer must also wash his clothes and bathe his body in water, and he too will be ceremonially unclean until evening."
+hebrew: "וְהַשֹּׂרֵ֣ף אֹתָ֔הּ יְכַבֵּ֤ס בְּגָדָיו֙ בַּמַּ֔יִם וְרָחַ֥ץ בְּשָׂר֖וֹ בַּמָּ֑יִם וְטָמֵ֖א עַד־ הָעָֽרֶב׃"
+pericope: "[[Num.19.1 The Red Heifer|The Red Heifer]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8313]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H1320]]"
+- "[[H2930A]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 19:8**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even.
 <small><sub>**BSB:**</sub></small>
 The one who burned the heifer must also wash his clothes and bathe his body in water, and he too will be ceremonially unclean until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H8313\|שֹּׂרֵ֣ף]] [[H0853\|אֹתָ֔]][[H9034\|הּ]] [[H3526H\|יְכַבֵּ֤ס]] [[H0899B\|בְּגָדָי]][[H9023\|ו֙]] [[H9003\|בַּ]][[H4325G\|מַּ֔יִם]] [[H9001\|וְ]][[H7364\|רָחַ֥ץ]] [[H1320\|בְּשָׂר֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H4325G\|מָּ֑יִם]] [[H9001\|וְ]][[H2930A\|טָמֵ֖א]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.7|<< Numbers 19:7]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.9|Numbers 19:9 >>]]</td></tr></table>
 

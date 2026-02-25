@@ -1,6 +1,70 @@
+---
+title: LXX 2 Kings 8:3
+type: Verse
+lxx: "And it came to pass after the end of the seven years, that the woman returned from out of the land of the philistines. And she went to yell to the king on account of  her house, and on account of  her fields."
+greek: "και εγένετο μετά το τέλος των επτά ετών και επέστρεψεν η γυνή εκ γης αλλοφύλων και ήλθε βοήσαι προς τον βασιλέα περί του οίκου αυτής και περί των αγρών αυτής"
+original_language: Greek
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic KING|KING]]"
+- "[[topic LAND|LAND]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G3326]]"
+- "[[G3588]]"
+- "[[G5056]]"
+- "[[G3588]]"
+- "[[G2033]]"
+- "[[G2094]]"
+- "[[G2532]]"
+- "[[G1994]]"
+- "[[G3588]]"
+- "[[G1135]]"
+- "[[G1537]]"
+- "[[G1093]]"
+- "[[G0246]]"
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G0994]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G0068]]"
+- "[[G1473]]"
+---
+
 **LXX 2 Kings 8:3** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass after the end of the seven years, that the woman returned from out of \[the\] land of \[the\] philistines. And she went to yell to the king on account of  her house, and on account of  her fields. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G3326\|μετά]] [[G3588\|το]] [[G5056\|τέλος]] [[G3588\|των]] [[G2033\|επτά]] [[G2094\|ετών]] [[G2532\|και]] [[G1994\|επέστρεψεν]] [[G3588\|η]] [[G1135\|γυνή]] [[G1537\|εκ]] [[G1093\|γης]] [[G0246\|αλλοφύλων]] [[G2532\|και]] [[G2064\|ήλθε]] [[G0994\|βοήσαι]] [[G4314\|προς]] [[G3588\|τον]] [[G0935\|βασιλέα]] [[G4012\|περί]] [[G3588\|του]] [[G3624\|οίκου]] [[G1473\|αυτής]] [[G2532\|και]] [[G4012\|περί]] [[G3588\|των]] [[G0068\|αγρών]] [[G1473\|αυτής]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELISHA|ELISHA]] • [[topic JUDGE|JUDGE]] • [[topic KING|KING]] • [[topic LAND|LAND]] • [[topic PETITION|PETITION]] • [[topic PROPERTY|PROPERTY]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Kgs.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.2|<< 2 Kings 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.4|2 Kings 8:4 >>]]</td></tr></table>
 
@@ -34,6 +98,6 @@ And it came to pass after the end of the seven years, that the woman returned fr
 | on account of | **<big>[[G4012\|περί]]</big>** |
 | \<obj.> | **<big>[[G3588\|των]]</big>** |
 | her fields. | **<big>[[G0068\|αγρών]]</big>** **<big>[[G1473\|αυτής]]</big>** |
-[[2Kgs.8.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.2|<< 2 Kings 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.4|2 Kings 8:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Kgs.8.2|<< 2 Kings 8:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Kgs.8.4|2 Kings 8:4 >>]]</td></tr></table>
 
 

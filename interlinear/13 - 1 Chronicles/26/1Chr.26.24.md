@@ -1,8 +1,54 @@
+---
+title: 1 Chronicles 26:24
+type: Verse
+kjv: "And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures."
+bsb: "Shebuel, a descendant of Gershom son of Moses, was the officer in charge of the treasuries."
+hebrew: "וּשְׁבֻאֵל֙ בֶּן־ גֵּרְשׁ֣וֹם בֶּן־ מֹשֶׁ֔ה נָגִ֖יד עַל־ הָאֹצָרֽוֹת׃"
+pericope: "[[1Chr.26.20 The Treasurers, Officers, and Judges|The Treasurers, Officers, and Judges]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GERSHOM|GERSHOM]]"
+- "[[topic SHEBUEL|SHEBUEL]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9002]]"
+- "[[H7619G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1647G]]"
+- "[[H1121A]]"
+- "[[H4872]]"
+- "[[H5057]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H0214]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:24**<big><big>[[1Chr.26.20 The Treasurers, Officers, and Judges|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Shebuel the son of Gershom, the son of Moses, [was] ruler of the treasures.
 <small><sub>**BSB:**</sub></small>
 Shebuel, a descendant of Gershom son of Moses, was the officer in charge of the treasuries.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7619G\|שְׁבֻאֵל֙]] [[H1121G\|בֶּן]][[H9014\|־]] [[H1647G\|גֵּרְשׁ֣וֹם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4872\|מֹשֶׁ֔ה]] [[H5057\|נָגִ֖יד]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0214\|אֹצָרֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GERSHOM|GERSHOM]] • [[topic SHEBUEL|SHEBUEL]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.23|<< 1 Chronicles 26:23]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.25|1 Chronicles 26:25 >>]]</td></tr></table>
 

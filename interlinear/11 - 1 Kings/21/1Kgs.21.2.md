@@ -1,8 +1,85 @@
+---
+title: 1 Kings 21:2
+type: Verse
+kjv: "And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it is near unto my house: and I will give thee for it a better vineyard than it; or, if it seem good to thee, I will give thee the worth of it in money."
+bsb: "So Ahab said to Naboth, “Give me your vineyard to use as a vegetable garden, since it is next to my palace. I will give you a better vineyard in its place—or if you prefer, I will give you its value in silver.”"
+hebrew: "וַיְדַבֵּ֣ר אַחְאָ֣ב אֶל־ נָב֣וֹת׀ לֵאמֹר֩׀ תְּנָה־ לִּ֨י אֶֽת־ כַּרְמְךָ֜ וִֽיהִי־ לִ֣י לְגַן־ יָרָ֗ק כִּ֣י ה֤וּא קָרוֹב֙ אֵ֣צֶל בֵּיתִ֔י וְאֶתְּנָ֤ה לְךָ֙ תַּחְתָּ֔יו כֶּ֖רֶם ט֣וֹב מִמֶּ֑נּוּ אִ֚ם ט֣וֹב בְּעֵינֶ֔יךָ אֶתְּנָה־ לְךָ֥ כֶ֖סֶף מְחִ֥יר זֶֽה׃"
+pericope: "[[1Kgs.21.1 Naboth’s Vineyard|Naboth’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 21
+book/chapter: "[[1Kgs.21|1 Kings 21]]"
+chronological_order: 567
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic KING|KING]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0256G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5022]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H3754]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H1588M]]"
+- "[[H3419]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H7138]]"
+- "[[H0681]]"
+- "[[H1004P]]"
+- "[[H9020]]"
+- "[[H9031]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H2896A]]"
+- "[[H4480A]]"
+- "[[H0518A]]"
+- "[[H2895]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H3701G]]"
+- "[[H4242]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 21:2**<big><big>[[1Kgs.21.1 Naboth’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahab spake unto Naboth, saying, Give me thy vineyard, that I may have it for a garden of herbs, because it [is] near unto my house: and I will give thee for it a better vineyard than it; [or], if it seem good to thee, I will give thee the worth of it in money.
 <small><sub>**BSB:**</sub></small>
 So Ahab said to Naboth, “Give me your vineyard to use as a vegetable garden, since it is next to my palace. I will give you a better vineyard in its place—or if you prefer, I will give you its value in silver.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבֵּ֣ר]] [[H0256G\|אַחְאָ֣ב]] [[H0413\|אֶל]][[H9014\|־]] [[H5022\|נָב֣וֹת]][[H9015\|׀]] [[H9005\|לֵ]][[H0559\|אמֹר֩]][[H9015\|׀]] [[H5414G\|תְּנָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ֨]][[H9030\|י]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3754\|כַּרְמְ]][[H9021\|ךָ֜]] [[H9002\|וִֽ]][[H1961\|יהִי]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H9005\|לְ]][[H1588M\|גַן]][[H9014\|־]] [[H3419\|יָרָ֗ק]] [[H3588A\|כִּ֣י]] [[H1931\|ה֤וּא]] [[H7138\|קָרוֹב֙]] [[H0681\|אֵ֣צֶל]] [[H1004P\|בֵּיתִ֔]][[H9020\|י]] [[H9002\|וְ]][[H5414G\|אֶתְּנָ֤ה]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H8478H\|תַּחְתָּ֔י]][[H9033\|ו]] [[H3754\|כֶּ֖רֶם]] [[H2896A\|ט֣וֹב]] [[H4480A\|מִמֶּ֑]][[H9033\|נּוּ]] [[H0518A\|אִ֚ם]] [[H2895\|ט֣וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֔י]][[H9021\|ךָ]] [[H5414G\|אֶתְּנָה]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H3701G\|כֶ֖סֶף]] [[H4242\|מְחִ֥יר]] [[H2088\|זֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic KING|KING]] • [[topic MONEY|MONEY]] • [[topic NABOTH|NABOTH]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.21.1|<< 1 Kings 21:1]]</td><td align="center" style="border:none;">[[1Kgs.21|1 Kings 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.21.3|1 Kings 21:3 >>]]</td></tr></table>
 

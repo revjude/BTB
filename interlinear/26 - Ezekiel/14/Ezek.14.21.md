@@ -1,8 +1,71 @@
+---
+title: Ezekiel 14:21
+type: Verse
+kjv: "For thus saith the Lord GOD; How much more when I send my four sore judgments upon Jerusalem, the sword, and the famine, and the noisome beast, and the pestilence, to cut off from it man and beast?"
+bsb: "For this is what the Lord GOD says: ‘How much worse will it be when I send against Jerusalem My four dire judgments—sword, famine, wild beasts, and plague—in order to cut off from it both man and beast?"
+hebrew: "כִּי֩ כֹ֨ה אָמַ֜ר אֲדֹנָ֣י יְהֹוִ֗ה אַ֣ף כִּֽי־ אַרְבַּ֣עַת שְׁפָטַ֣י׀ הָרָעִ֡ים חֶ֠רֶב וְרָעָ֞ב וְחַיָּ֤ה רָעָה֙ וָדֶ֔בֶר שִׁלַּ֖חְתִּי אֶל־ יְרוּשָׁלִָ֑ם לְהַכְרִ֥ית מִמֶּ֖נָּה אָדָ֥ם וּבְהֵמָֽה׃"
+pericope: "[[Ezek.14.12 Four Dire Judgments|Four Dire Judgments]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H0702]]"
+- "[[H8201]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H9009]]"
+- "[[H7451A]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H7458]]"
+- "[[H2416C]]"
+- "[[H1698]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H3389]]"
+- "[[H9005]]"
+- "[[H3772I]]"
+- "[[H4480A]]"
+- "[[H9034]]"
+- "[[H0120G]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 14:21**<big><big>[[Ezek.14.12 Four Dire Judgments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the Lord GOD; How much more when I send my four sore judgments upon Jerusalem, the sword, and the famine, and the noisome beast, and the pestilence, to cut off from it man and beast?
 <small><sub>**BSB:**</sub></small>
 For this is what the Lord GOD says: ‘How much worse will it be when I send against Jerusalem My four dire judgments—sword, famine, wild beasts, and plague—in order to cut off from it both man and beast?
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H3541\|כֹ֨ה]] [[H0559\|אָמַ֜ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֗ה]] [[H0637\|אַ֣ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0702\|אַרְבַּ֣עַת]] [[H8201\|שְׁפָטַ֣]][[H9020\|י]][[H9015\|׀]] [[H9009\|הָ]][[H7451A\|רָעִ֡ים]] [[H2719\|חֶ֠רֶב]] [[H9002\|וְ]][[H7458\|רָעָ֞ב]] [[H9002\|וְ]][[H2416C\|חַיָּ֤ה]] [[H7451A\|רָעָה֙]] [[H9002\|וָ]][[H1698\|דֶ֔בֶר]] [[H7971G\|שִׁלַּ֖חְתִּי]] [[H0413\|אֶל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9005\|לְ]][[H3772I\|הַכְרִ֥ית]] [[H4480A\|מִמֶּ֖]][[H9034\|נָּה]] [[H0120G\|אָדָ֥ם]] [[H9002\|וּ]][[H0929\|בְהֵמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.20|<< Ezekiel 14:20]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.22|Ezekiel 14:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,62 @@
+---
+title: Exodus 36:33
+type: Verse
+kjv: "And he made the middle bar to shoot through the boards from the one end to the other."
+bsb: "He made the central crossbar to run through the center of the frames, from one end to the other."
+hebrew: "וַיַּ֖עַשׂ אֶת־ הַבְּרִ֣יחַ הַתִּיכֹ֑ן לִבְרֹ֙חַ֙ בְּת֣וֹךְ הַקְּרָשִׁ֔ים מִן־ הַקָּצֶ֖ה אֶל־ הַקָּצֶֽה׃"
+pericope: "[[Exod.36.20 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1280]]"
+- "[[H8484]]"
+- "[[H9005]]"
+- "[[H1272]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H7175]]"
+- "[[H4480A]]"
+- "[[H7097A]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:33**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the middle bar to shoot through the boards from the one end to the other.
 <small><sub>**BSB:**</sub></small>
 He made the central crossbar to run through the center of the frames, from one end to the other.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֖עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1280\|בְּרִ֣יחַ]] [[H9009\|הַ]][[H8484\|תִּיכֹ֑ן]] [[H9005\|לִ]][[H1272\|בְרֹ֙חַ֙]] [[H9003\|בְּ]][[H8432\|ת֣וֹךְ]] [[H9009\|הַ]][[H7175\|קְּרָשִׁ֔ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7097A\|קָּצֶ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7097A\|קָּצֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.32|<< Exodus 36:32]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.34|Exodus 36:34 >>]]</td></tr></table>
 

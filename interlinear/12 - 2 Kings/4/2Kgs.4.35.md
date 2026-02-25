@@ -1,8 +1,71 @@
+---
+title: 2 Kings 4:35
+type: Verse
+kjv: "Then he returned, and walked in the house to and fro; and went up, and stretched himself upon him: and the child sneezed seven times, and the child opened his eyes."
+bsb: "Elisha turned away and paced back and forth across the room. Then he got on the bed and stretched himself out over the boy again, and the boy sneezed seven times and opened his eyes."
+hebrew: "וַיָּ֜שָׁב וַיֵּ֣לֶךְ בַּבַּ֗יִת אַחַ֥ת הֵ֙נָּה֙ וְאַחַ֣ת הֵ֔נָּה וַיַּ֖עַל וַיִּגְהַ֣ר עָלָ֑יו וַיְזוֹרֵ֤ר הַנַּ֙עַר֙ עַד־ שֶׁ֣בַע פְּעָמִ֔ים וַיִּפְקַ֥ח הַנַּ֖עַר אֶת־ עֵינָֽיו׃"
+pericope: "[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|Elisha Raises the Shunammite’s Son]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 4
+book/chapter: "[[2Kgs.4|2 Kings 4]]"
+chronological_order: 576
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEAD (PEOPLE)|DEAD (PEOPLE)]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SHUNAMMITE|SHUNAMMITE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H0259]]"
+- "[[H2008]]"
+- "[[H9002]]"
+- "[[H5927G]]"
+- "[[H1457]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H2237]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7651]]"
+- "[[H6471]]"
+- "[[H6491]]"
+- "[[H0853]]"
+- "[[H5869A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 4:35**<big><big>[[2Kgs.4.18 Elisha Raises the Shunammite’s Son|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then he returned, and walked in the house to and fro; and went up, and stretched himself upon him: and the child sneezed seven times, and the child opened his eyes.
 <small><sub>**BSB:**</sub></small>
 Elisha turned away and paced back and forth across the room. Then he got on the bed and stretched himself out over the boy again, and the boy sneezed seven times and opened his eyes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֜שָׁב]] [[H9001\|וַ]][[H1980I\|יֵּ֣לֶךְ]] [[H9003\|בַּ]][[H1004B\|בַּ֗יִת]] [[H0259\|אַחַ֥ת]] [[H2008\|הֵ֙נָּה֙]] [[H9002\|וְ]][[H0259\|אַחַ֣ת]] [[H2008\|הֵ֔נָּה]] [[H9001\|וַ]][[H5927G\|יַּ֖עַל]] [[H9001\|וַ]][[H1457\|יִּגְהַ֣ר]] [[H5921A\|עָלָ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H2237\|יְזוֹרֵ֤ר]] [[H9009\|הַ]][[H5288\|נַּ֙עַר֙]] [[H5704\|עַד]][[H9014\|־]] [[H7651\|שֶׁ֣בַע]] [[H6471\|פְּעָמִ֔ים]] [[H9001\|וַ]][[H6491\|יִּפְקַ֥ח]] [[H9009\|הַ]][[H5288\|נַּ֖עַר]] [[H0853\|אֶת]][[H9014\|־]] [[H5869A\|עֵינָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CHILDREN|CHILDREN]] • [[topic DEAD (PEOPLE)|DEAD (PEOPLE)]] • [[topic ELISHA|ELISHA]] • [[topic INTERCESSION|INTERCESSION]] • [[topic MIRACLES|MIRACLES]] • [[topic SHUNAMMITE|SHUNAMMITE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.4.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.4.34|<< 2 Kings 4:34]]</td><td align="center" style="border:none;">[[2Kgs.4|2 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.4.36|2 Kings 4:36 >>]]</td></tr></table>
 

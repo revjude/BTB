@@ -1,6 +1,41 @@
+---
+title: Psalm 31:0
+type: Verse
+kjv: "To the chief Musician, A Psalm of David."
+hebrew: "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד׃"
+pericope: "[[Ps.31.1 Into Your Hands I Commit My Spirit|Into Your Hands I Commit My Spirit]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 31
+book/chapter: "[[Ps.31|Psalm 31]]"
+chronological_order: 362
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H4210]]"
+- "[[H1732]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 31:0**<big><big>[[Ps.31.1 Into Your Hands I Commit My Spirit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, A Psalm of David.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֗חַ]] [[H4210\|מִזְמ֥וֹר]] [[H9005\|לְ]][[H1732\|דָוִֽד]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.31.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.30.12|<< Psalms 30:12]]</td><td align="center" style="border:none;">[[Ps.31|Psalms 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.31.1|Psalms 31:1 >>]]</td></tr></table>
 

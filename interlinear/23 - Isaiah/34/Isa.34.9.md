@@ -1,8 +1,58 @@
+---
+title: Isaiah 34:9
+type: Verse
+kjv: "And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch."
+bsb: "Edom’s streams will be turned to tar, and her soil to sulfur; her land will become a blazing pitch."
+hebrew: "וְנֶהֶפְכ֤וּ נְחָלֶ֙יהָ֙ לְזֶ֔פֶת וַעֲפָרָ֖הּ לְגָפְרִ֑ית וְהָיְתָ֣ה אַרְצָ֔הּ לְזֶ֖פֶת בֹּעֵרָֽה׃"
+pericope: "[[Isa.34.5 Judgment on Edom|Judgment on Edom]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 34
+book/chapter: "[[Isa.34|Isaiah 34]]"
+chronological_order: 677
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic PITCH|PITCH]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SLIME|SLIME]]"
+- "[[topic VOLCANOES|VOLCANOES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2015]]"
+- "[[H5158A]]"
+- "[[H9024]]"
+- "[[H9005]]"
+- "[[H2203]]"
+- "[[H9002]]"
+- "[[H6083]]"
+- "[[H1614]]"
+- "[[H1961]]"
+- "[[H0776G]]"
+- "[[H1197A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 34:9**<big><big>[[Isa.34.5 Judgment on Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the streams thereof shall be turned into pitch, and the dust thereof into brimstone, and the land thereof shall become burning pitch.
 <small><sub>**BSB:**</sub></small>
 Edom’s streams will be turned to tar, and her soil to sulfur; her land will become a blazing pitch.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2015\|נֶהֶפְכ֤וּ]] [[H5158A\|נְחָלֶ֙י]][[H9024\|הָ֙]] [[H9005\|לְ]][[H2203\|זֶ֔פֶת]] [[H9002\|וַ]][[H6083\|עֲפָרָ֖]][[H9024\|הּ]] [[H9005\|לְ]][[H1614\|גָפְרִ֑ית]] [[H9001\|וְ]][[H1961\|הָיְתָ֣ה]] [[H0776G\|אַרְצָ֔]][[H9024\|הּ]] [[H9005\|לְ]][[H2203\|זֶ֖פֶת]] [[H1197A\|בֹּעֵרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PITCH|PITCH]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SLIME|SLIME]] • [[topic VOLCANOES|VOLCANOES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.34.8|<< Isaiah 34:8]]</td><td align="center" style="border:none;">[[Isa.34|Isaiah 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.34.10|Isaiah 34:10 >>]]</td></tr></table>
 

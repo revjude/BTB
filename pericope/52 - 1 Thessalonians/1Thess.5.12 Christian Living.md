@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Christian Living
+type: Pericope
 pericope: "[[1Thess.5.12 Christian Living|Christian Living]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 1 Thessalonians
 chapter: 5
 book/chapter: "[[1Thess.5|1 Thessalonians 5]]"
-genre:
+chronological_order: 1052
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - eschatological
+verse_count: 11
 verses:
 - "[[1Thess.5.12]]"
 - "[[1Thess.5.13]]"
@@ -29,7 +36,7 @@ verses:
 - "[[1Thess.5.22]]"
 ---
 
-[[1Thess.5|1 Thessalonians 5:12 - 1 Thessalonians 5:22]]
+<small>[[1Thess.5|1 Thessalonians 5:12-22]]</small>
 *Christian Living*
 
 [[1Thess.5.12|12]] And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;

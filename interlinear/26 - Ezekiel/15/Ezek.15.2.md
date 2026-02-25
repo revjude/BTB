@@ -1,8 +1,59 @@
+---
+title: Ezekiel 15:2
+type: Verse
+kjv: "Son of man, What is the vine tree more than any tree, or than a branch which is among the trees of the forest?"
+bsb: "“Son of man, how does the wood of the vine surpass any other branch among the trees in the forest?"
+hebrew: "בֶּן־ אָדָ֕ם מַה־ יִּֽהְיֶ֥ה עֵץ־ הַגֶּ֖פֶן מִכָּל־ עֵ֑ץ הַזְּמוֹרָ֕ה אֲשֶׁ֥ר הָיָ֖ה בַּעֲצֵ֥י הַיָּֽעַר׃"
+pericope: "[[Ezek.15.1 Jerusalem the Useless Vine|Jerusalem the Useless Vine]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 15
+book/chapter: "[[Ezek.15|Ezekiel 15]]"
+chronological_order: 806
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H4100]]"
+- "[[H1961]]"
+- "[[H6086G]]"
+- "[[H9009]]"
+- "[[H1612]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H2156]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H6086H]]"
+- "[[H3293A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 15:2**<big><big>[[Ezek.15.1 Jerusalem the Useless Vine|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Son of man, What is the vine tree more than any tree, [or than] a branch which is among the trees of the forest?
 <small><sub>**BSB:**</sub></small>
 “Son of man, how does the wood of the vine surpass any other branch among the trees in the forest?
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בֶּן]][[H9014\|־]] [[H0120G\|אָדָ֕ם]] [[H4100\|מַה]][[H9014\|־]] [[H1961\|יִּֽהְיֶ֥ה]] [[H6086G\|עֵץ]][[H9014\|־]] [[H9009\|הַ]][[H1612\|גֶּ֖פֶן]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H6086G\|עֵ֑ץ]] [[H9009\|הַ]][[H2156\|זְּמוֹרָ֕ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H1961\|הָיָ֖ה]] [[H9003\|בַּ]][[H6086H\|עֲצֵ֥י]] [[H9009\|הַ]][[H3293A\|יָּֽעַר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.15.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.15.1|<< Ezekiel 15:1]]</td><td align="center" style="border:none;">[[Ezek.15|Ezekiel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.15.3|Ezekiel 15:3 >>]]</td></tr></table>
 

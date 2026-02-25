@@ -1,8 +1,53 @@
+---
+title: Hosea 7:3
+type: Verse
+kjv: "They make the king glad with their wickedness, and the princes with their lies."
+bsb: "They delight the king with their evil, and the princes with their lies."
+hebrew: "בְּרָעָתָ֖ם יְשַׂמְּחוּ־ מֶ֑לֶךְ וּבְכַחֲשֵׁיהֶ֖ם שָׂרִֽים׃"
+pericope: "[[Hos.7.1 Ephraim’s Iniquity|Ephraim’s Iniquity]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 7
+book/chapter: "[[Hos.7|Hosea 7]]"
+chronological_order: 648
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9003]]"
+- "[[H7451I]]"
+- "[[H9028]]"
+- "[[H8055]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H3585]]"
+- "[[H8269]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 7:3**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They make the king glad with their wickedness, and the princes with their lies.
 <small><sub>**BSB:**</sub></small>
 They delight the king with their evil, and the princes with their lies.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7451I\|רָעָתָ֖]][[H9028\|ם]] [[H8055\|יְשַׂמְּחוּ]][[H9014\|־]] [[H4428G\|מֶ֑לֶךְ]] [[H9002\|וּ]][[H9003\|בְ]][[H3585\|כַחֲשֵׁי]][[H9028\|הֶ֖ם]] [[H8269\|שָׂרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GODLESSNESS|GODLESSNESS]] • [[topic RULERS|RULERS]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.2|<< Hosea 7:2]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.4|Hosea 7:4 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Frames and Bases
+type: Pericope
 pericope: "[[Exod.36.20 The Frames and Bases|The Frames and Bases]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 36
 book/chapter: "[[Exod.36|Exodus 36]]"
-genre:
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 15
 verses:
 - "[[Exod.36.20]]"
 - "[[Exod.36.21]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Exod.36.34]]"
 ---
 
-[[Exod.36|Exodus 36:20 - Exodus 36:34]]
+<small>[[Exod.36|Exodus 36:20-34]]</small>
 *The Frames and Bases*
 
 [[Exod.36.20|20]] And he made boards for the tabernacle \[of\] shittim wood, standing up.

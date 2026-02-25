@@ -1,10 +1,67 @@
+---
+title: John 21:3
+type: Verse
+kjv: "Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing."
+bsb: "Simon Peter told them, “I am going fishing.” “We will go with you,” they said. So they went out and got into the boat, but caught nothing that night."
+greek: "λέγει αὐτοῖς Σίμων Πέτρος· ὑπάγω ἁλιεύειν. λέγουσιν αὐτῷ· ἐρχόμεθα καὶ ἡμεῖς σὺν σοί. ἐξῆλθον καὶ ἐνέβησαν εἰς τὸ πλοῖον εὐθύς, καὶ ἐν ἐκείνῃ τῇ νυκτὶ ἐπίασαν οὐδέν."
+pericope: "[[John.21.1 Jesus Appears by the Sea of Tiberias|Jesus Appears by the Sea of Tiberias]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 21
+book/chapter: "[[John.21|John 21]]"
+chronological_order: 1018
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FISHERMEN|FISHERMEN]]"
+- "[[topic GALILEE|GALILEE]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G5217]]"
+- "[[G0232]]"
+- "[[G2064]]"
+- "[[G2532]]"
+- "[[G3165]]"
+- "[[G4862]]"
+- "[[G4771]]"
+- "[[G1831]]"
+- "[[G1684]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G4143]]"
+- "[[G2112]]"
+- "[[G1722]]"
+- "[[G1565]]"
+- "[[G3571]]"
+- "[[G4084]]"
+- "[[G3762]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **John 21:3**<big><big>[[John.21.1 Jesus Appears by the Sea of Tiberias|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing.
 <small><sub>**BSB:**</sub></small>
 Simon Peter told them, “I am going fishing.” “We will go with you,” they said. So they went out and got into the boat, but caught nothing that night.
-<small><sub>**Literal:**</sub></small>
-Says to them Simon Peter; I am going to fish. They say to him; Come also we ourselves with you. They went forth and they climbed into the boat immediately and during that [very] <the> night they caught no [thing].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.2|<< John 21:2]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.4|John 21:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτοῖς]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος·]]  [[G5217\|ὑπάγω]]  [[G0232\|ἁλιεύειν.]]  [[G3004G\|λέγουσιν]]  [[G0846\|αὐτῷ·]]  [[G2064\|ἐρχόμεθα]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G4862\|σὺν]]  [[G4771\|σοί.]]  [[G1831\|ἐξῆλθον]]  [[G2532\|καὶ]]  [[G1684\|ἐνέβησαν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4143\|πλοῖον]]  [[G2112\|εὐθύς,]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G1565\|ἐκείνῃ]]  [[G3588\|τῇ]]  [[G3571\|νυκτὶ]]  [[G4084\|ἐπίασαν]]  [[G3762\|οὐδέν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISHERMEN|FISHERMEN]] • [[topic GALILEE|GALILEE]] • [[topic JOHN|JOHN]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.21.2|<< John 21:2]]</td><td align="center" style="border:none;">[[John.21|John 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.21.4|John 21:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

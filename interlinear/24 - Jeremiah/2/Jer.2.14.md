@@ -1,8 +1,56 @@
+---
+title: Jeremiah 2:14
+type: Verse
+kjv: "Is Israel a servant? is he a homeborn slave? why is he spoiled?"
+bsb: "Is Israel a slave? Was he born into slavery? Why then has he become prey?"
+hebrew: "הַעֶ֙בֶד֙ יִשְׂרָאֵ֔ל אִם־ יְלִ֥יד בַּ֖יִת ה֑וּא מַדּ֖וּעַ הָיָ֥ה לָבַֽז׃"
+pericope: "[[Jer.2.14 The Consequence of Israel’s Sin|The Consequence of Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 2
+book/chapter: "[[Jer.2|Jeremiah 2]]"
+chronological_order: 719
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9008]]"
+- "[[H5650]]"
+- "[[H3478]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H3211]]"
+- "[[H1004M]]"
+- "[[H1931]]"
+- "[[H4069]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0957]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 2:14**<big><big>[[Jer.2.14 The Consequence of Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is] Israel a servant? [is] he a homeborn [slave]? why is he spoiled?
 <small><sub>**BSB:**</sub></small>
 Is Israel a slave? Was he born into slavery? Why then has he become prey?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H5650\|עֶ֙בֶד֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0518H\|אִם]][[H9014\|־]] [[H3211\|יְלִ֥יד]] [[H1004M\|בַּ֖יִת]] [[H1931\|ה֑וּא]] [[H4069\|מַדּ֖וּעַ]] [[H1961\|הָיָ֥ה]] [[H9005\|לָ]][[H0957\|בַֽז]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.2.13|<< Jeremiah 2:13]]</td><td align="center" style="border:none;">[[Jer.2|Jeremiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.2.15|Jeremiah 2:15 >>]]</td></tr></table>
 

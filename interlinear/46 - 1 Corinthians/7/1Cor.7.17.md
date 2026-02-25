@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 7:17
+type: Verse
+kjv: "But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches."
+bsb: "Regardless, each one should lead the life that the Lord has assigned to him and to which God has called him. This is what I prescribe in all the churches."
+greek: "εἰ μὴ ἑκάστῳ ὡς ἐμέρισεν ὁ κύριος, ἕκαστον ὡς κέκληκεν ὁ θεός, οὕτως περιπατείτω· καὶ οὕτως ἐν ταῖς ἐκκλησίαις πάσαις διατάσσομαι.¶"
+pericope: "[[1Cor.7.17 Live Your Calling|Live Your Calling]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic CONTENTMENT|CONTENTMENT]]"
+- "[[topic DIVORCE|DIVORCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+strongs:
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1538]]"
+- "[[G5613]]"
+- "[[G3307]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G2564G]]"
+- "[[G2316]]"
+- "[[G3779]]"
+- "[[G4043]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1577]]"
+- "[[G3956]]"
+- "[[G1299]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Corinthians 7:17**<big><big>[[1Cor.7.17 Live Your Calling|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.
 <small><sub>**BSB:**</sub></small>
 Regardless, each one should lead the life that the Lord has assigned to him and to which God has called him. This is what I prescribe in all the churches.
-<small><sub>**Literal:**</sub></small>
-only except to each as has assigned the Lord to each as has called <the> God so he should walk; And thus in the churches all I prescribe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.16|<< 1 Corinthians 7:16]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.18|1 Corinthians 7:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1538\|ἑκάστῳ]]  [[G5613\|ὡς]]  [[G3307\|ἐμέρισεν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος,]]  [[G1538\|ἕκαστον]]  [[G5613\|ὡς]]  [[G2564G\|κέκληκεν]]  [[G3588\|ὁ]]  [[G2316\|θεός,]]  [[G3779\|οὕτως]]  [[G4043\|περιπατείτω·]]  [[G2532\|καὶ]]  [[G3779\|οὕτως]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G1577\|ἐκκλησίαις]]  [[G3956\|πάσαις]]  [[G1299\|διατάσσομαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic CONTENTMENT|CONTENTMENT]] • [[topic DIVORCE|DIVORCE]] • [[topic MARRIAGE|MARRIAGE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.16|<< 1 Corinthians 7:16]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.18|1 Corinthians 7:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

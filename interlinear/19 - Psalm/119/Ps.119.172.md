@@ -1,8 +1,58 @@
+---
+title: Psalm 119:172
+type: Verse
+kjv: "My tongue shall speak of thy word: for all thy commandments are righteousness."
+bsb: "My tongue sings of Your word, for all Your commandments are righteous."
+hebrew: "תַּ֣עַן לְ֭שׁוֹנִי אִמְרָתֶ֑ךָ כִּ֖י כָל־ מִצְוֹתֶ֣יךָ צֶּֽדֶק׃"
+pericope: "[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|Your Word Is a Lamp to My Feet - TAU]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 119
+book/chapter: "[[Ps.119|Psalm 119]]"
+chronological_order: 881
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H6030C]]"
+- "[[H3956G]]"
+- "[[H9020]]"
+- "[[H0565A]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H4687]]"
+- "[[H6664G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 119:172**<big><big>[[Ps.119.169 Your Word Is a Lamp to My Feet - TAU|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My tongue shall speak of thy word: for all thy commandments [are] righteousness.
 <small><sub>**BSB:**</sub></small>
 My tongue sings of Your word, for all Your commandments are righteous.
+<small><sub>**Hebrew:**</sub></small>
+[[H6030C\|תַּ֣עַן]] [[H3956G\|לְ֭שׁוֹנִ]][[H9020\|י]] [[H0565A\|אִמְרָתֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֖י]] [[H3605\|כָל]][[H9014\|־]] [[H4687\|מִצְוֹתֶ֣י]][[H9021\|ךָ]] [[H6664G\|צֶּֽדֶק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic PRAISE|PRAISE]] • [[topic SPEAKING|SPEAKING]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.119.172|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.119.171|<< Psalms 119:171]]</td><td align="center" style="border:none;">[[Ps.119|Psalms 119]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.119.173|Psalms 119:173 >>]]</td></tr></table>
 

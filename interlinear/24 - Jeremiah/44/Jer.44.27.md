@@ -1,8 +1,68 @@
+---
+title: Jeremiah 44:27
+type: Verse
+kjv: "Behold, I will watch over them for evil, and not for good: and all the men of Judah that are in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them."
+bsb: "I am watching over them for harm and not for good, and every man of Judah who is in the land of Egypt will meet his end by sword or famine, until they are finished off."
+hebrew: "הִנְנִ֨י שֹׁקֵ֧ד עֲלֵיהֶ֛ם לְרָעָ֖ה וְלֹ֣א לְטוֹבָ֑ה וְתַמּוּ֩ כָל־ אִ֨ישׁ יְהוּדָ֜ה אֲשֶׁ֧ר בְּאֶֽרֶץ־ מִצְרַ֛יִם בַּחֶ֥רֶב וּבָרָעָ֖ב עַד־ כְּלוֹתָֽם׃"
+pericope: "[[Jer.44.20 Calamity for the Jews|Calamity for the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic COVENANT|COVENANT]]"
+strongs:
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H8245]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H7451C]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2896C]]"
+- "[[H9001]]"
+- "[[H8552]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H3063G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H2719]]"
+- "[[H7458]]"
+- "[[H5704]]"
+- "[[H3615H]]"
+- "[[H9048]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:27**<big><big>[[Jer.44.20 Calamity for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I will watch over them for evil, and not for good: and all the men of Judah that [are] in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them.
 <small><sub>**BSB:**</sub></small>
 I am watching over them for harm and not for good, and every man of Judah who is in the land of Egypt will meet his end by sword or famine, until they are finished off.
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הִנְ]][[H9040\|נִ֨י]] [[H8245\|שֹׁקֵ֧ד]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֛ם]] [[H9005\|לְ]][[H7451C\|רָעָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H9005\|לְ]][[H2896C\|טוֹבָ֑ה]] [[H9001\|וְ]][[H8552\|תַמּוּ֩]] [[H3605\|כָל]][[H9014\|־]] [[H0376G\|אִ֨ישׁ]] [[H3063G\|יְהוּדָ֜ה]] [[H0834A\|אֲשֶׁ֧ר]] [[H9003\|בְּ]][[H0776G\|אֶֽרֶץ]][[H9014\|־]] [[H4714G\|מִצְרַ֛יִם]] [[H9003\|בַּ]][[H2719\|חֶ֥רֶב]] [[H9002\|וּ]][[H9003\|בָ]][[H7458\|רָעָ֖ב]] [[H5704\|עַד]][[H9014\|־]] [[H3615H\|כְּלוֹתָֽ]][[H9048\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.26|<< Jeremiah 44:26]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.28|Jeremiah 44:28 >>]]</td></tr></table>
 

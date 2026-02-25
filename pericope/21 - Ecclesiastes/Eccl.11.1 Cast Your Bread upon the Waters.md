@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Cast Your Bread upon the Waters
+type: Pericope
 pericope: "[[Eccl.11.1 Cast Your Bread upon the Waters|Cast Your Bread upon the Waters]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 11
 book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
-genre:
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 6
 verses:
 - "[[Eccl.11.1]]"
 - "[[Eccl.11.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Eccl.11.6]]"
 ---
 
-[[Eccl.11|Ecclesiastes 11:1 - Ecclesiastes 11:6]]
+<small>[[Eccl.11|Ecclesiastes 11:1-6]]</small>
 *Cast Your Bread upon the Waters*
 
 [[Eccl.11.1|1]] Cast thy bread upon the waters: for thou shalt find it after many days.

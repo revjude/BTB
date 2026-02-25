@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 6:10
+type: Verse
+kjv: "And Johanan begat Azariah, (he it is that executed the priest’s office in the temple that Solomon built in Jerusalem:)"
+bsb: "Johanan was the father of Azariah, who served as priest in the temple that Solomon built in Jerusalem,"
+hebrew: "וְיוֹחָנָ֖ן הוֹלִ֣יד אֶת־ עֲזַרְיָ֑ה ה֚וּא אֲשֶׁ֣ר כִּהֵ֔ן בַּבַּ֕יִת אֲשֶׁר־ בָּנָ֥ה שְׁלֹמֹ֖ה בִּירוּשָׁלִָֽם׃"
+pericope: "[[1Chr.6.1 The Descendants of Levi|The Descendants of Levi]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic AZARIAH|AZARIAH]]"
+- "[[topic JOHANAN|JOHANAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H3110J]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5838K]]"
+- "[[H1931]]"
+- "[[H0834A]]"
+- "[[H3547]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H1129]]"
+- "[[H8010]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:10**<big><big>[[1Chr.6.1 The Descendants of Levi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Johanan begat Azariah, (he [it is] that executed the priest’s office in the temple that Solomon built in Jerusalem:)
 <small><sub>**BSB:**</sub></small>
 Johanan was the father of Azariah, who served as priest in the temple that Solomon built in Jerusalem,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3110J\|יוֹחָנָ֖ן]] [[H3205\|הוֹלִ֣יד]] [[H0853\|אֶת]][[H9014\|־]] [[H5838K\|עֲזַרְיָ֑ה]] [[H1931\|ה֚וּא]] [[H0834A\|אֲשֶׁ֣ר]] [[H3547\|כִּהֵ֔ן]] [[H9003\|בַּ]][[H1004Q\|בַּ֕יִת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1129\|בָּנָ֥ה]] [[H8010\|שְׁלֹמֹ֖ה]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic AZARIAH|AZARIAH]] • [[topic JOHANAN|JOHANAN]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.9|<< 1 Chronicles 6:9]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.11|1 Chronicles 6:11 >>]]</td></tr></table>
 

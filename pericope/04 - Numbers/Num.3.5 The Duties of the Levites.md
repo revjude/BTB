@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Duties of the Levites
+type: Pericope
 pericope: "[[Num.3.5 The Duties of the Levites|The Duties of the Levites]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 3
 book/chapter: "[[Num.3|Numbers 3]]"
-genre:
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 9
 verses:
 - "[[Num.3.5]]"
 - "[[Num.3.6]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Num.3.13]]"
 ---
 
-[[Num.3|Numbers 3:5 - Numbers 3:13]]
+<small>[[Num.3|Numbers 3:5-13]]</small>
 *The Duties of the Levites*
 
 [[Num.3.5|5]] And the LORD spake unto Moses, saying,

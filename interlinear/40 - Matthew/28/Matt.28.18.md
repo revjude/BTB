@@ -1,10 +1,59 @@
+---
+title: Matthew 28:18
+type: Verse
+kjv: "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth."
+bsb: "Then Jesus came to them and said, “All authority in heaven and on earth has been given to Me."
+jesus_said: "All power is given unto me in heaven and in earth."
+greek: "Καὶ προσελθὼν ὁ Ἰησοῦς ἐλάλησεν αὐτοῖς λέγων· ἐδόθη μοι πᾶσα ἐξουσία ἐν οὐρανῷ καὶ ἐπὶ τῆς γῆς."
+pericope: "[[Matt.28.16 The Great Commission|The Great Commission]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 28
+book/chapter: "[[Matt.28|Matthew 28]]"
+chronological_order: 1014
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G2532]]"
+- "[[G4334]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G1325]]"
+- "[[G3165]]"
+- "[[G3956]]"
+- "[[G1849]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G1909]]"
+- "[[G1093G]]"
+texts:
+- NKO
+- no
+---
+
 **Matthew 28:18**<big><big>[[Matt.28.16 The Great Commission|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth.
 <small><sub>**BSB:**</sub></small>
 Then Jesus came to them and said, “All authority in heaven and on earth has been given to Me.
-<small><sub>**Literal:**</sub></small>
-And having come to [them] <the> Jesus spoke to them saying; Has been given to Me all authority in heaven and on the earth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.17|<< Matthew 28:17]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.19|Matthew 28:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4334\|προσελθὼν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2980\|ἐλάλησεν]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγων·]]  [[G1325\|ἐδόθη]]  [[G3165\|μοι]]  [[G3956\|πᾶσα]]  [[G1849\|ἐξουσία]]  [[G1722\|ἐν]]  [[G3772\|οὐρανῷ]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.28.17|<< Matthew 28:17]]</td><td align="center" style="border:none;">[[Matt.28|Matthew 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.28.19|Matthew 28:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 28:18** is...
 > $\quad$ alluding to: [[LXX.Dan.7.14|Dan 7:14]]

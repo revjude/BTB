@@ -1,8 +1,64 @@
+---
+title: Exodus 37:8
+type: Verse
+kjv: "One cherub on the end on this side, and another cherub on the other end on that side: out of the mercy seat made he the cherubims on the two ends thereof."
+bsb: "one cherub on one end and one on the other, all made from one piece of gold."
+hebrew: "כְּרוּב־ אֶחָ֤ד מִקָּצָה֙ מִזֶּ֔ה וּכְרוּב־ אֶחָ֥ד מִקָּצָ֖ה מִזֶּ֑ה מִן־ הַכַּפֹּ֛רֶת עָשָׂ֥ה אֶת־ הַכְּרֻבִ֖ים מִשְּׁנֵ֥י קְצוֹתָֽיו׃"
+pericope: "[[Exod.37.6 The Mercy Seat|The Mercy Seat]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 37
+book/chapter: "[[Exod.37|Exodus 37]]"
+chronological_order: 129
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CHERUBIM|CHERUBIM]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MERCY-SEAT|MERCY-SEAT]]"
+strongs:
+- "[[H3742]]"
+- "[[H9014]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H7098]]"
+- "[[H2088]]"
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3727]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H8147]]"
+- "[[H7117]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Exodus 37:8**<big><big>[[Exod.37.6 The Mercy Seat|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 One cherub on the end on this side, and another cherub on the [other] end on that side: out of the mercy seat made he the cherubims on the two ends thereof.
 <small><sub>**BSB:**</sub></small>
 one cherub on one end and one on the other, all made from one piece of gold.
+<small><sub>**Hebrew:**</sub></small>
+[[H3742\|כְּרוּב]][[H9014\|־]] [[H0259\|אֶחָ֤ד]] [[H9006\|מִ]][[H7098\|קָּצָה֙]] [[H9006\|מִ]][[H2088\|זֶּ֔ה]] [[H9002\|וּ]][[H3742\|כְרוּב]][[H9014\|־]] [[H0259\|אֶחָ֥ד]] [[H9006\|מִ]][[H7098\|קָּצָ֖ה]] [[H9006\|מִ]][[H2088\|זֶּ֑ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3727\|כַּפֹּ֛רֶת]] [[H6213H\|עָשָׂ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3742\|כְּרֻבִ֖ים]] [[H9006\|מִ]][[H8147\|שְּׁנֵ֥י]] [[H7098\|קְצוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERUBIM|CHERUBIM]] • [[topic GOLD|GOLD]] • [[topic MERCY-SEAT|MERCY-SEAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.37.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.7|<< Exodus 37:7]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.9|Exodus 37:9 >>]]</td></tr></table>
 
@@ -25,7 +81,7 @@ one cherub on one end and one on the other, all made from one piece of gold.
 | ends its  [^2]|**<big>&#8207;[[H7098\|קְצוֹתָֽי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | kitz.vo.to<small><sup>[[HNcfpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.37.7|<< Exodus 37:7]]</td><td align="center" style="border:none;">[[Exod.37|Exodus 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.37.9|Exodus 37:9 >>]]</td></tr></table>
 
-[^1]: end its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: end its  | **<big>[[H9016|׃]]</big><big>[[H9023|וֹ]]</big><big>[[H7117|קִצְווֹת]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: end its  | **<big>[[H7117|קִצְווֹת]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: end its  | **<big>[[H7117|קִצְווֹת]]</big><big>[[H9023|וֹ]]</big><big>[[H9016|׃]]</big> ** | kitz.vo.to<small><sup>[[HNcfsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>קְצוֹותָֽו\׃</big></span>**
 

@@ -1,8 +1,66 @@
+---
+title: Isaiah 54:5
+type: Verse
+kjv: "For thy Maker is thine husband; the LORD of hosts is his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called."
+bsb: "For your husband is your Maker—the LORD of Hosts is His name—the Holy One of Israel is your Redeemer; He is called the God of all the earth."
+hebrew: "כִּ֤י בֹעֲלַ֙יִךְ֙ עֹשַׂ֔יִךְ יְהוָ֥ה צְבָא֖וֹת שְׁמ֑וֹ וְגֹֽאֲלֵךְ֙ קְד֣וֹשׁ יִשְׂרָאֵ֔ל אֱלֹהֵ֥י כָל־ הָאָ֖רֶץ יִקָּרֵֽא׃"
+pericope: "[[Isa.54.1 Future Blessings for Zion|Future Blessings for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 54
+book/chapter: "[[Isa.54|Isaiah 54]]"
+chronological_order: 693
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1166I]]"
+- "[[H9032]]"
+- "[[H6213H]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H1350A]]"
+- "[[H9022]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H0430G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7121H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 54:5**<big><big>[[Isa.54.1 Future Blessings for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thy Maker [is] thine husband; the LORD of hosts [is] his name; and thy Redeemer the Holy One of Israel; The God of the whole earth shall he be called.
 <small><sub>**BSB:**</sub></small>
 For your husband is your Maker—the LORD of Hosts is His name—the Holy One of Israel is your Redeemer; He is called the God of all the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H1166I\|בֹעֲלַ֙יִ]][[H9032\|ךְ֙]] [[H6213H\|עֹשַׂ֔יִ]][[H9032\|ךְ]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H1350A\|גֹֽאֲלֵ]][[H9022\|ךְ֙]] [[H6918G\|קְד֣וֹשׁ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0430G\|אֱלֹהֵ֥י]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H7121H\|יִקָּרֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HUSBAND|HUSBAND]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.54.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.54.4|<< Isaiah 54:4]]</td><td align="center" style="border:none;">[[Isa.54|Isaiah 54]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.54.6|Isaiah 54:6 >>]]</td></tr></table>
 

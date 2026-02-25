@@ -1,6 +1,59 @@
+---
+title: LXX 1 Kings 4:22
+type: Verse
+lxx: "And these were the necessary things  for Solomon. In one day were thirty cors of fine flour, and sixty cors of flour."
+greek: "και ταύτα τα δεόντα τω Σολομώντι εν ημέρα μία τριάκοντα κόροι σεμιδάλεως και εξήκοντα κόροι αλεύρου"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic COR|COR]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G1163]]"
+- "[[G3588]]"
+- "[[G4672]]"
+- "[[G1722]]"
+- "[[G2250]]"
+- "[[G1520]]"
+- "[[G5144]]"
+- "[[G2884]]"
+- "[[G4585]]"
+- "[[G2532]]"
+- "[[G1835]]"
+- "[[G2884]]"
+- "[[G0224]]"
+---
+
 **LXX 1 Kings 4:22** 
 <small><sub>**LXX:**</sub></small>
 And these \[were\] the necessary \[things\]  for Solomon. In one day \[were\] thirty cors of fine flour, and sixty cors of flour. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3778\|ταύτα]] [[G3588\|τα]] [[G1163\|δεόντα]] [[G3588\|τω]] [[G4672\|Σολομώντι]] [[G1722\|εν]] [[G2250\|ημέρα]] [[G1520\|μία]] [[G5144\|τριάκοντα]] [[G2884\|κόροι]] [[G4585\|σεμιδάλεως]] [[G2532\|και]] [[G1835\|εξήκοντα]] [[G2884\|κόροι]] [[G0224\|αλεύρου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic COR|COR]] • [[topic FEASTS|FEASTS]] • [[topic MEASURE|MEASURE]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TAX|TAX]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.21|<< 1 Kings 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.23|1 Kings 4:23 >>]]</td></tr></table>
 
@@ -22,6 +75,6 @@ And these \[were\] the necessary \[things\]  for Solomon. In one day \[were\] th
 | sixty | **<big>[[G1835\|εξήκοντα]]</big>** |
 | cors | **<big>[[G2884\|κόροι]]</big>** |
 | of flour. | **<big>[[G0224\|αλεύρου]]</big>** |
-[[1Kgs.4.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.21|<< 1 Kings 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.23|1 Kings 4:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.4.21|<< 1 Kings 4:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.4.23|1 Kings 4:23 >>]]</td></tr></table>
 
 

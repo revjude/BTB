@@ -1,10 +1,66 @@
+---
+title: 1 Corinthians 2:7
+type: Verse
+kjv: "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:"
+bsb: "No, we speak of the mysterious and hidden wisdom of God, which He destined for our glory before time began."
+greek: "ἀλλὰ λαλοῦμεν θεοῦ σοφίαν ἐν μυστηρίῳ τὴν ἀποκεκρυμμένην, ἣν προώρισεν ὁ θεὸς πρὸ τῶν αἰώνων εἰς δόξαν ἡμῶν,"
+pericope: "[[1Cor.2.6 Spiritual Wisdom|Spiritual Wisdom]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 2
+book/chapter: "[[1Cor.2|1 Corinthians 2]]"
+chronological_order: 1059
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G2980]]"
+- "[[G2316]]"
+- "[[G4678]]"
+- "[[G1722]]"
+- "[[G3466]]"
+- "[[G3588]]"
+- "[[G0613]]"
+- "[[G3739]]"
+- "[[G4309]]"
+- "[[G4253]]"
+- "[[G0165G]]"
+- "[[G1519]]"
+- "[[G1391]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 2:7**<big><big>[[1Cor.2.6 Spiritual Wisdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But we speak the wisdom of God in a mystery, [even] the hidden [wisdom], which God ordained before the world unto our glory:
 <small><sub>**BSB:**</sub></small>
 No, we speak of the mysterious and hidden wisdom of God, which He destined for our glory before time began.
-<small><sub>**Literal:**</sub></small>
-But we speak of God wisdom in a mystery which hidden, which foreordained <the> God before the ages for glory of us,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.6|<< 1 Corinthians 2:6]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.8|1 Corinthians 2:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G2980\|λαλοῦμεν]]  [[G2316\|θεοῦ]]  [[G4678\|σοφίαν]]  [[G1722\|ἐν]]  [[G3466\|μυστηρίῳ]]  [[G3588\|τὴν]]  [[G0613\|ἀποκεκρυμμένην,]]  [[G3739\|ἣν]]  [[G4309\|προώρισεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G4253\|πρὸ]]  [[G3588\|τῶν]]  [[G0165G\|αἰώνων]]  [[G1519\|εἰς]]  [[G1391\|δόξαν]]  [[G3165\|ἡμῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic GLORY|GLORY]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic PREACHING|PREACHING]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic REASONING|REASONING]] • [[topic SALVATION|SALVATION]] • [[topic WISDOM|WISDOM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.2.6|<< 1 Corinthians 2:6]]</td><td align="center" style="border:none;">[[1Cor.2|1 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.2.8|1 Corinthians 2:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

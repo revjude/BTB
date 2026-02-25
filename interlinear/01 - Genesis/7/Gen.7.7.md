@@ -1,8 +1,62 @@
+---
+title: Genesis 7:7
+type: Verse
+kjv: "And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood."
+bsb: "And Noah and his wife, with his sons and their wives, entered the ark to escape the waters of the flood."
+hebrew: "וַיָּ֣בֹא נֹ֗חַ וּ֠בָנָיו וְאִשְׁתּ֧וֹ וּנְשֵֽׁי־ בָנָ֛יו אִתּ֖וֹ אֶל־ הַתֵּבָ֑ה מִפְּנֵ֖י מֵ֥י הַמַּבּֽוּל׃"
+pericope: "[[Gen.7.1 The Great Flood|The Great Flood]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 7
+book/chapter: "[[Gen.7|Genesis 7]]"
+chronological_order: 7
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ARK|ARK]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5146]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H0802H]]"
+- "[[H9014]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H8392]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H4325G]]"
+- "[[H3999]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 7:7**<big><big>[[Gen.7.1 The Great Flood|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.
 <small><sub>**BSB:**</sub></small>
 And Noah and his wife, with his sons and their wives, entered the ark to escape the waters of the flood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּ֣בֹא]] [[H5146\|נֹ֗חַ]] [[H9002\|וּ֠]][[H1121A\|בָנָי]][[H9023\|ו]] [[H9002\|וְ]][[H0802H\|אִשְׁתּ֧]][[H9023\|וֹ]] [[H9002\|וּ]][[H0802H\|נְשֵֽׁי]][[H9014\|־]] [[H1121A\|בָנָ֛י]][[H9023\|ו]] [[H0854\|אִתּ֖]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H8392\|תֵּבָ֑ה]] [[H9006\|מִ]][[H6440G\|פְּנֵ֖י]] [[H4325G\|מֵ֥י]] [[H9009\|הַ]][[H3999\|מַּבּֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ARK|ARK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.7.6|<< Genesis 7:6]]</td><td align="center" style="border:none;">[[Gen.7|Genesis 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.7.8|Genesis 7:8 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

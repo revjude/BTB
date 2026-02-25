@@ -1,8 +1,68 @@
+---
+title: Genesis 20:16
+type: Verse
+kjv: "And unto Sarah he said, Behold, I have given thy brother a thousand pieces of silver: behold, he is to thee a covering of the eyes, unto all that are with thee, and with all other: thus she was reproved."
+bsb: "And he said to Sarah, “See, I am giving your brother a thousand pieces of silver. It is your vindication before all who are with you; you are completely cleared.”"
+hebrew: "וּלְשָׂרָ֣ה אָמַ֗ר הִנֵּ֨ה נָתַ֜תִּי אֶ֤לֶף כֶּ֙סֶף֙ לְאָחִ֔יךְ הִנֵּ֤ה הוּא־ לָךְ֙ כְּס֣וּת עֵינַ֔יִם לְכֹ֖ל אֲשֶׁ֣ר אִתָּ֑ךְ וְאֵ֥ת כֹּ֖ל וְנֹכָֽחַת׃"
+pericope: "[[Gen.20.1 Abraham, Sarah, and Abimelech|Abraham, Sarah, and Abimelech]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 20
+book/chapter: "[[Gen.20|Genesis 20]]"
+chronological_order: 62
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOOD FOR EVIL|GOOD FOR EVIL]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H8283]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H5414G]]"
+- "[[H0505G]]"
+- "[[H3701G]]"
+- "[[H0251G]]"
+- "[[H9022]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H9032]]"
+- "[[H3682]]"
+- "[[H5869A]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H3198]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 20:16**<big><big>[[Gen.20.1 Abraham, Sarah, and Abimelech|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Sarah he said, Behold, I have given thy brother a thousand [pieces] of silver: behold, he [is] to thee a covering of the eyes, unto all that [are] with thee, and with all [other]: thus she was reproved.
 <small><sub>**BSB:**</sub></small>
 And he said to Sarah, “See, I am giving your brother a thousand pieces of silver. It is your vindication before all who are with you; you are completely cleared.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H8283\|שָׂרָ֣ה]] [[H0559\|אָמַ֗ר]] [[H2009\|הִנֵּ֨ה]] [[H5414G\|נָתַ֜תִּי]] [[H0505G\|אֶ֤לֶף]] [[H3701G\|כֶּ֙סֶף֙]] [[H9005\|לְ]][[H0251G\|אָחִ֔י]][[H9022\|ךְ]] [[H2009\|הִנֵּ֤ה]] [[H1931\|הוּא]][[H9014\|־]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H3682\|כְּס֣וּת]] [[H5869A\|עֵינַ֔יִם]] [[H9005\|לְ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H0854\|אִתָּ֑]][[H9032\|ךְ]] [[H9002\|וְ]][[H0854\|אֵ֥ת]] [[H3605\|כֹּ֖ל]] [[H9002\|וְ]][[H3198\|נֹכָֽחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic GOOD FOR EVIL|GOOD FOR EVIL]] • [[topic IGNORANCE|IGNORANCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MONEY|MONEY]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.20.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.20.15|<< Genesis 20:15]]</td><td align="center" style="border:none;">[[Gen.20|Genesis 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.20.17|Genesis 20:17 >>]]</td></tr></table>
 

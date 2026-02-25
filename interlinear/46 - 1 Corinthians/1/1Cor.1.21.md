@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 1:21
+type: Verse
+kjv: "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe."
+bsb: "For since in the wisdom of God the world through its wisdom did not know Him, God was pleased through the foolishness of what was preached to save those who believe."
+greek: "ἐπειδὴ γὰρ ἐν τῇ σοφίᾳ τοῦ θεοῦ οὐκ ἔγνω ὁ κόσμος διὰ τῆς σοφίας τὸν θεόν, εὐδόκησεν ὁ θεὸς διὰ τῆς μωρίας τοῦ κηρύγματος σῶσαι τοὺς πιστεύοντας·"
+pericope: "[[1Cor.1.18 The Message of the Cross|The Message of the Cross]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G1894]]"
+- "[[G1063]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4678]]"
+- "[[G2316]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G2889]]"
+- "[[G1223]]"
+- "[[G2106]]"
+- "[[G3472]]"
+- "[[G2782]]"
+- "[[G4982]]"
+- "[[G4100]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:21**<big><big>[[1Cor.1.18 The Message of the Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.
 <small><sub>**BSB:**</sub></small>
 For since in the wisdom of God the world through its wisdom did not know Him, God was pleased through the foolishness of what was preached to save those who believe.
-<small><sub>**Literal:**</sub></small>
-Since for in the wisdom <the> of God not knew the world through the wisdom <the> God, was pleased <the> God through the foolishness of the proclamation to save those believing;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.20|<< 1 Corinthians 1:20]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.22|1 Corinthians 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1894\|ἐπειδὴ]]  [[G1063\|γὰρ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4678\|σοφίᾳ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνω]]  [[G3588\|ὁ]]  [[G2889\|κόσμος]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G4678\|σοφίας]]  [[G3588\|τὸν]]  [[G2316\|θεόν,]]  [[G2106\|εὐδόκησεν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G1223\|διὰ]]  [[G3588\|τῆς]]  [[G3472\|μωρίας]]  [[G3588\|τοῦ]]  [[G2782\|κηρύγματος]]  [[G4982\|σῶσαι]]  [[G3588\|τοὺς]]  [[G4100\|πιστεύοντας·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic BOASTING|BOASTING]] • [[topic FAITH|FAITH]] • [[topic GOSPEL|GOSPEL]] • [[topic PHILOSOPHY|PHILOSOPHY]] • [[topic PREACHING|PREACHING]] • [[topic REASONING|REASONING]] • [[topic SALVATION|SALVATION]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.20|<< 1 Corinthians 1:20]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.22|1 Corinthians 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

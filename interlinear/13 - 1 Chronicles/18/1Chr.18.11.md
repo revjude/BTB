@@ -1,8 +1,69 @@
+---
+title: 1 Chronicles 18:11
+type: Verse
+kjv: "Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek."
+bsb: "and King David dedicated these to the LORD, along with the silver and gold he had carried off from all these nations—from Edom and Moab, and from the Ammonites, Philistines, and Amalekites."
+hebrew: "גַּם־ אֹתָ֗ם הִקְדִּ֞ישׁ הַמֶּ֤לֶךְ דָּוִיד֙ לַיהוָ֔ה עִם־ הַכֶּ֙סֶף֙ וְהַזָּהָ֔ב אֲשֶׁ֥ר נָשָׂ֖א מִכָּל־ הַגּוֹיִ֑ם מֵֽאֱד֤וֹם וּמִמּוֹאָב֙ וּמִבְּנֵ֣י עַמּ֔וֹן וּמִפְּלִשְׁתִּ֖ים וּמֵֽעֲמָלֵֽק׃"
+pericope: "[[1Chr.18.1 David’s Triumphs|David’s Triumphs]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 18
+book/chapter: "[[1Chr.18|1 Chronicles 18]]"
+chronological_order: 405
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H6942H]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H5375H]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H1471A]]"
+- "[[H0123G]]"
+- "[[H4124G]]"
+- "[[H1121G]]"
+- "[[H5983]]"
+- "[[H6430G]]"
+- "[[H6002G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 18:11**<big><big>[[1Chr.18.1 David’s Triumphs|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all [these] nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.
 <small><sub>**BSB:**</sub></small>
 and King David dedicated these to the LORD, along with the silver and gold he had carried off from all these nations—from Edom and Moab, and from the Ammonites, Philistines, and Amalekites.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H0853\|אֹתָ֗]][[H9038\|ם]] [[H6942H\|הִקְדִּ֞ישׁ]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H1732\|דָּוִיד֙]] [[H9005\|לַ]][[H3068G\|יהוָ֔ה]] [[H5973A\|עִם]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּ֙סֶף֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2091\|זָּהָ֔ב]] [[H0834A\|אֲשֶׁ֥ר]] [[H5375H\|נָשָׂ֖א]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֑ם]] [[H9006\|מֵֽ]][[H0123G\|אֱד֤וֹם]] [[H9002\|וּ]][[H9006\|מִ]][[H4124G\|מּוֹאָב֙]] [[H9002\|וּ]][[H9006\|מִ]][[H1121G\|בְּנֵ֣י]] [[H5983\|עַמּ֔וֹן]] [[H9002\|וּ]][[H9006\|מִ]][[H6430G\|פְּלִשְׁתִּ֖ים]] [[H9002\|וּ]][[H9006\|מֵֽ]][[H6002G\|עֲמָלֵֽק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic EDOMITES|EDOMITES]] • [[topic GOLD|GOLD]] • [[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.18.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.18.10|<< 1 Chronicles 18:10]]</td><td align="center" style="border:none;">[[1Chr.18|1 Chronicles 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.18.12|1 Chronicles 18:12 >>]]</td></tr></table>
 

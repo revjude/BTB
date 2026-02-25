@@ -1,8 +1,61 @@
+---
+title: Ezekiel 39:13
+type: Verse
+kjv: "Yea, all the people of the land shall bury them; and it shall be to them a renown the day that I shall be glorified, saith the Lord GOD."
+bsb: "All the people of the land will bury them, and it will bring them renown on the day I display My glory, declares the Lord GOD."
+hebrew: "וְקָֽבְרוּ֙ כָּל־ עַ֣ם הָאָ֔רֶץ וְהָיָ֥ה לָהֶ֖ם לְשֵׁ֑ם י֚וֹם הִכָּ֣בְדִ֔י נְאֻ֖ם אֲדֹנָ֥י יְהוִֽה׃"
+pericope: "[[Ezek.39.1 The Slaughter of Gog’s Armies|The Slaughter of Gog’s Armies]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 39
+book/chapter: "[[Ezek.39|Ezekiel 39]]"
+chronological_order: 830
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BURIAL|BURIAL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6912]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H8034]]"
+- "[[H3117G]]"
+- "[[H3513G]]"
+- "[[H9040]]"
+- "[[H5002]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 39:13**<big><big>[[Ezek.39.1 The Slaughter of Gog’s Armies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, all the people of the land shall bury [them]; and it shall be to them a renown the day that I shall be glorified, saith the Lord GOD.
 <small><sub>**BSB:**</sub></small>
 All the people of the land will bury them, and it will bring them renown on the day I display My glory, declares the Lord GOD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6912\|קָֽבְרוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H5971A\|עַ֣ם]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H9005\|לָ]][[H9038\|הֶ֖ם]] [[H9005\|לְ]][[H8034\|שֵׁ֑ם]] [[H3117G\|י֚וֹם]] [[H3513G\|הִכָּ֣בְדִ֔]][[H9040\|י]] [[H5002\|נְאֻ֖ם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BURIAL|BURIAL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.39.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.39.12|<< Ezekiel 39:12]]</td><td align="center" style="border:none;">[[Ezek.39|Ezekiel 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.39.14|Ezekiel 39:14 >>]]</td></tr></table>
 

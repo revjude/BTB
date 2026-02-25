@@ -1,10 +1,68 @@
+---
+title: Acts 2:4
+type: Verse
+kjv: "And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance."
+bsb: "And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them."
+greek: "καὶ ἐπλήσθησαν πάντες πνεύματος ἁγίου καὶ ἤρξαντο λαλεῖν ἑτέραις γλώσσαις καθὼς τὸ πνεῦμα ἐδίδου ἀποφθέγγεσθαι αὐτοῖς.¶"
+pericope: "[[Acts.2.1 The Holy Spirit at Pentecost|The Holy Spirit at Pentecost]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic CHARISM|CHARISM]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic POWER|POWER]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic TONGUE|TONGUE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G2532]]"
+- "[[G4130]]"
+- "[[G3956]]"
+- "[[G4151G]]"
+- "[[G0040G]]"
+- "[[G0757]]"
+- "[[G2980]]"
+- "[[G2087]]"
+- "[[G1100]]"
+- "[[G2531]]"
+- "[[G3588]]"
+- "[[G1325]]"
+- "[[G0669]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 2:4**<big><big>[[Acts.2.1 The Holy Spirit at Pentecost|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.
 <small><sub>**BSB:**</sub></small>
 And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit enabled them.
-<small><sub>**Literal:**</sub></small>
-And they were filled with all Spirit Holy and began to speak in other tongues even as the Spirit was giving to utter forth to them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.3|<< Acts 2:3]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.5|Acts 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4130\|ἐπλήσθησαν]]  [[G3956\|πάντες]]  [[G4151G\|πνεύματος]]  [[G0040G\|ἁγίου]]  [[G2532\|καὶ]]  [[G0757\|ἤρξαντο]]  [[G2980\|λαλεῖν]]  [[G2087\|ἑτέραις]]  [[G1100\|γλώσσαις]]  [[G2531\|καθὼς]]  [[G3588\|τὸ]]  [[G4151G\|πνεῦμα]]  [[G1325\|ἐδίδου]]  [[G0669\|ἀποφθέγγεσθαι]]  [[G0846\|αὐτοῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic BAPTISM|BAPTISM]] • [[topic CHARISM|CHARISM]] • [[topic FEASTS|FEASTS]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MIRACLES|MIRACLES]] • [[topic ORATOR|ORATOR]] • [[topic POWER|POWER]] • [[topic PROPHETS|PROPHETS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic TONGUE|TONGUE]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.3|<< Acts 2:3]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.5|Acts 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

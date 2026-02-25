@@ -1,8 +1,78 @@
+---
+title: Genesis 27:37
+type: Verse
+kjv: "And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?"
+bsb: "But Isaac answered Esau: “Look, I have made him your master and given him all his relatives as servants; I have sustained him with grain and new wine. What is left that I can do for you, my son?”"
+hebrew: "וַיַּ֨עַן יִצְחָ֜ק וַיֹּ֣אמֶר לְעֵשָׂ֗ו הֵ֣ן גְּבִ֞יר שַׂמְתִּ֥יו לָךְ֙ וְאֶת־ כָּל־ אֶחָ֗יו נָתַ֤תִּי לוֹ֙ לַעֲבָדִ֔ים וְדָגָ֥ן וְתִירֹ֖שׁ סְמַכְתִּ֑יו וּלְכָ֣ה אֵפ֔וֹא מָ֥ה אֶֽעֱשֶׂ֖ה בְּנִֽי׃"
+pericope: "[[Gen.27.30 Esau’s Lost Hope|Esau’s Lost Hope]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BENEDICTIONS|BENEDICTIONS]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H3327]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H6215G]]"
+- "[[H2005]]"
+- "[[H1376]]"
+- "[[H7760A]]"
+- "[[H9033]]"
+- "[[H9032]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H5414G]]"
+- "[[H5650]]"
+- "[[H1715]]"
+- "[[H8492]]"
+- "[[H5564]]"
+- "[[H9031]]"
+- "[[H0645]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H1121A]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:37**<big><big>[[Gen.27.30 Esau’s Lost Hope|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?
 <small><sub>**BSB:**</sub></small>
 But Isaac answered Esau: “Look, I have made him your master and given him all his relatives as servants; I have sustained him with grain and new wine. What is left that I can do for you, my son?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H3327\|יִצְחָ֜ק]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|לְ]][[H6215G\|עֵשָׂ֗ו]] [[H2005\|הֵ֣ן]] [[H1376\|גְּבִ֞יר]] [[H7760A\|שַׂמְתִּ֥י]][[H9033\|ו]] [[H9005\|לָ]][[H9032\|ךְ֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0251G\|אֶחָ֗י]][[H9023\|ו]] [[H5414G\|נָתַ֤תִּי]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9005\|לַ]][[H5650\|עֲבָדִ֔ים]] [[H9002\|וְ]][[H1715\|דָגָ֥ן]] [[H9002\|וְ]][[H8492\|תִירֹ֖שׁ]] [[H5564\|סְמַכְתִּ֑י]][[H9033\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H9031\|כָ֣ה]] [[H0645\|אֵפ֔וֹא]] [[H4100\|מָ֥ה]] [[H6213A\|אֶֽעֱשֶׂ֖ה]] [[H1121A\|בְּנִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEDICTIONS|BENEDICTIONS]] • [[topic DEATH|DEATH]] • [[topic EDOMITES|EDOMITES]] • [[topic FAMILY|FAMILY]] • [[topic ISAAC|ISAAC]] • [[topic PARENTS|PARENTS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.36|<< Genesis 27:36]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.38|Genesis 27:38 >>]]</td></tr></table>
 

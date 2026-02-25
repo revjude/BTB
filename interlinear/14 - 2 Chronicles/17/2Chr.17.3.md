@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 17:3
+type: Verse
+kjv: "And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;"
+bsb: "Now the LORD was with Jehoshaphat because he walked in the earlier ways of his father David. He did not seek the Baals,"
+hebrew: "וַיְהִ֥י יְהוָ֖ה עִם־ יְהוֹשָׁפָ֑ט כִּ֣י הָלַ֗ךְ בְּדַרְכֵ֞י דָּוִ֤יד אָבִיו֙ הָרִ֣אשֹׁנִ֔ים וְלֹ֥א דָרַ֖שׁ לַבְּעָלִֽים׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3092I]]"
+- "[[H3588A]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H7223H]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1875]]"
+- "[[H9005]]"
+- "[[H1168A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:3**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;
 <small><sub>**BSB:**</sub></small>
 Now the LORD was with Jehoshaphat because he walked in the earlier ways of his father David. He did not seek the Baals,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֥י]] [[H3068G\|יְהוָ֖ה]] [[H5973A\|עִם]][[H9014\|־]] [[H3092I\|יְהוֹשָׁפָ֑ט]] [[H3588A\|כִּ֣י]] [[H1980I\|הָלַ֗ךְ]] [[H9003\|בְּ]][[H1870G\|דַרְכֵ֞י]] [[H1732\|דָּוִ֤יד]] [[H0001G\|אָבִי]][[H9023\|ו֙]] [[H9009\|הָ]][[H7223H\|רִ֣אשֹׁנִ֔ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1875\|דָרַ֖שׁ]] [[H9005\|לַ]][[H1168A\|בְּעָלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHILDREN|CHILDREN]] • [[topic GOD|GOD]] • [[topic JEHOSHAPHAT|JEHOSHAPHAT]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RELIGION|RELIGION]] • [[topic RULERS|RULERS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.17.2|<< 2 Chronicles 17:2]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.4|2 Chronicles 17:4 >>]]</td></tr></table>
 

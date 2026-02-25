@@ -1,10 +1,65 @@
+---
+title: Matthew 12:41
+type: Verse
+kjv: "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here."
+bsb: "The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now One greater than Jonah is here."
+jesus_said: "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here."
+greek: "Ἄνδρες Νινευῖται ἀναστήσονται ἐν τῇ κρίσει μετὰ τῆς γενεᾶς ταύτης καὶ κατακρινοῦσιν αὐτήν, ὅτι μετενόησαν εἰς τὸ κήρυγμα Ἰωνᾶ· καὶ ἰδοὺ πλεῖον Ἰωνᾶ ὧδε.¶"
+pericope: "[[Matt.12.38 The Sign of Jonah|The Sign of Jonah]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JONAH|JONAH]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+strongs:
+- "[[G0435G]]"
+- "[[G3536]]"
+- "[[G0450]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2920]]"
+- "[[G3326]]"
+- "[[G1074]]"
+- "[[G3778]]"
+- "[[G2532]]"
+- "[[G2632]]"
+- "[[G0846]]"
+- "[[G3754H]]"
+- "[[G3340]]"
+- "[[G1519]]"
+- "[[G2782]]"
+- "[[G2495H]]"
+- "[[G2400]]"
+- "[[G4119]]"
+- "[[G5602]]"
+texts:
+- NKO
+---
+
 **Matthew 12:41**<big><big>[[Matt.12.38 The Sign of Jonah|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas [is] here.
 <small><sub>**BSB:**</sub></small>
 The men of Nineveh will stand at the judgment with this generation and condemn it; for they repented at the preaching of Jonah, and now One greater than Jonah is here.
-<small><sub>**Literal:**</sub></small>
-[The] men of Nineveh will stand up in the judgment with <the> generation this and will condemn it, for they repented at the preaching of Jonah; and behold greater than Jonah here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.40|<< Matthew 12:40]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.42|Matthew 12:42 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0435G\|Ἄνδρες]]  [[G3536\|Νινευῖται]]  [[G0450\|ἀναστήσονται]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2920\|κρίσει]]  [[G3326\|μετὰ]]  [[G3588\|τῆς]]  [[G1074\|γενεᾶς]]  [[G3778\|ταύτης]]  [[G2532\|καὶ]]  [[G2632\|κατακρινοῦσιν]]  [[G0846\|αὐτήν,]]  [[G3754H\|ὅτι]]  [[G3340\|μετενόησαν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G2782\|κήρυγμα]]  [[G2495H\|Ἰωνᾶ·]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G4119\|πλεῖον]]  [[G2495H\|Ἰωνᾶ]]  [[G5602\|ὧδε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVICTION|CONVICTION]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JONAH|JONAH]] • [[topic JUDGMENT|JUDGMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.40|<< Matthew 12:40]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.42|Matthew 12:42 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

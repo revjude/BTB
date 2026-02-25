@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Witness of John
+type: Pericope
 pericope: "[[John.1.6 The Witness of John|The Witness of John]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: John
 chapter: 1
 book/chapter: "[[John.1|John 1]]"
-genre:
+chronological_order: 939
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 8
 verses:
 - "[[John.1.6]]"
 - "[[John.1.7]]"
@@ -26,7 +33,7 @@ verses:
 - "[[John.1.13]]"
 ---
 
-[[John.1|John 1:6 - John 1:13]]
+<small>[[John.1|John 1:6-13]]</small>
 *The Witness of John*
 
 [[John.1.6|6]] There was a man sent from God, whose name \[was\] John.

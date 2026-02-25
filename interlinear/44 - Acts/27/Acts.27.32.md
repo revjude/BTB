@@ -1,10 +1,53 @@
+---
+title: Acts 27:32
+type: Verse
+kjv: "Then the soldiers cut off the ropes of the boat, and let her fall off."
+bsb: "So the soldiers cut the ropes to the lifeboat and set it adrift."
+greek: "τότε ἀπέκοψαν οἱ στρατιῶται τὰ σχοινία τῆς σκάφης καὶ εἴασαν αὐτὴν ἐκπεσεῖν.¶"
+pericope: "[[Acts.27.27 The Shipwreck|The Shipwreck]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 27
+book/chapter: "[[Acts.27|Acts 27]]"
+chronological_order: 1109
+era: Church
+period: "Paul's Journey to Rome"
+date: ~AD 59–60
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SHIP|SHIP]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G5119]]"
+- "[[G0609]]"
+- "[[G3588]]"
+- "[[G4757]]"
+- "[[G4979]]"
+- "[[G4627]]"
+- "[[G2532]]"
+- "[[G1439]]"
+- "[[G0846]]"
+- "[[G1601]]"
+texts:
+- NKO
+---
+
 **Acts 27:32**<big><big>[[Acts.27.27 The Shipwreck|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the soldiers cut off the ropes of the boat, and let her fall off.
 <small><sub>**BSB:**</sub></small>
 So the soldiers cut the ropes to the lifeboat and set it adrift.
-<small><sub>**Literal:**</sub></small>
-Then cut away the soldiers the ropes of the lifeboat and allowed her to fall away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.31|<< Acts 27:31]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.33|Acts 27:33 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G0609\|ἀπέκοψαν]]  [[G3588\|οἱ]]  [[G4757\|στρατιῶται]]  [[G3588\|τὰ]]  [[G4979\|σχοινία]]  [[G3588\|τῆς]]  [[G4627\|σκάφης]]  [[G2532\|καὶ]]  [[G1439\|εἴασαν]]  [[G0846\|αὐτὴν]]  [[G1601\|ἐκπεσεῖν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARINERS (SAILORS)|MARINERS (SAILORS)]] • [[topic PAUL|PAUL]] • [[topic PROPHECY|PROPHECY]] • [[topic SHIP|SHIP]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.27.31|<< Acts 27:31]]</td><td align="center" style="border:none;">[[Acts.27|Acts 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.27.33|Acts 27:33 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,77 @@
+---
+title: Deuteronomy 4:6
+type: Verse
+kjv: "Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation is a wise and understanding people."
+bsb: "Observe them carefully, for this will show your wisdom and understanding in the sight of the peoples, who will hear of all these statutes and say, “Surely this great nation is a wise and understanding people.”"
+hebrew: "וּשְׁמַרְתֶּם֮ וַעֲשִׂיתֶם֒ כִּ֣י הִ֤וא חָכְמַתְכֶם֙ וּבִ֣ינַתְכֶ֔ם לְעֵינֵ֖י הָעַמִּ֑ים אֲשֶׁ֣ר יִשְׁמְע֗וּן אֵ֚ת כָּל־ הַחֻקִּ֣ים הָאֵ֔לֶּה וְאָמְר֗וּ רַ֚ק עַם־ חָכָ֣ם וְנָב֔וֹן הַגּ֥וֹי הַגָּד֖וֹל הַזֶּֽה׃"
+pericope: "[[Deut.4.1 An Exhortation to Obedience|An Exhortation to Obedience]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H6213A]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H2451]]"
+- "[[H9026]]"
+- "[[H9002]]"
+- "[[H0998]]"
+- "[[H9005]]"
+- "[[H5869H]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H8085G]]"
+- "[[H9013]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2706G]]"
+- "[[H0428]]"
+- "[[H0559]]"
+- "[[H7535]]"
+- "[[H2450]]"
+- "[[H0995]]"
+- "[[H1471A]]"
+- "[[H1419A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 4:6**<big><big>[[Deut.4.1 An Exhortation to Obedience|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Keep therefore and do [them]; for this [is] your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation [is] a wise and understanding people.
 <small><sub>**BSB:**</sub></small>
 Observe them carefully, for this will show your wisdom and understanding in the sight of the peoples, who will hear of all these statutes and say, “Surely this great nation is a wise and understanding people.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H8104G\|שְׁמַרְתֶּם֮]] [[H9001\|וַ]][[H6213A\|עֲשִׂיתֶם֒]] [[H3588A\|כִּ֣י]] [[H1931\|הִ֤וא]] [[H2451\|חָכְמַתְ]][[H9026\|כֶם֙]] [[H9002\|וּ]][[H0998\|בִ֣ינַתְ]][[H9026\|כֶ֔ם]] [[H9005\|לְ]][[H5869H\|עֵינֵ֖י]] [[H9009\|הָ]][[H5971A\|עַמִּ֑ים]] [[H0834A\|אֲשֶׁ֣ר]] [[H8085G\|יִשְׁמְע֗וּ]][[H9013\|ן]] [[H0853\|אֵ֚ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H2706G\|חֻקִּ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9001\|וְ]][[H0559\|אָמְר֗וּ]] [[H7535\|רַ֚ק]] [[H5971A\|עַם]][[H9014\|־]] [[H2450\|חָכָ֣ם]] [[H9002\|וְ]][[H0995\|נָב֔וֹן]] [[H9009\|הַ]][[H1471A\|גּ֥וֹי]] [[H9009\|הַ]][[H1419A\|גָּד֖וֹל]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic WISDOM|WISDOM]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.4.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.4.5|<< Deuteronomy 4:5]]</td><td align="center" style="border:none;">[[Deut.4|Deuteronomy 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.4.7|Deuteronomy 4:7 >>]]</td></tr></table>
 

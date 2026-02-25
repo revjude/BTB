@@ -1,8 +1,62 @@
+---
+title: Esther 2:16
+type: Verse
+kjv: "So Esther was taken unto king Ahasuerus into his house royal in the tenth month, which is the month Tebeth, in the seventh year of his reign."
+bsb: "She was taken to King Xerxes in the royal palace in the tenth month, the month of Tebeth, in the seventh year of his reign."
+hebrew: "וַתִּלָּקַ֨ח אֶסְתֵּ֜ר אֶל־ הַמֶּ֤לֶךְ אֲחַשְׁוֵרוֹשׁ֙ אֶל־ בֵּ֣ית מַלְכוּת֔וֹ בַּחֹ֥דֶשׁ הָעֲשִׂירִ֖י הוּא־ חֹ֣דֶשׁ טֵבֵ֑ת בִּשְׁנַת־ שֶׁ֖בַע לְמַלְכוּתֽוֹ׃"
+pericope: "[[Esth.2.5 Esther Finds Favor|Esther Finds Favor]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 2
+book/chapter: "[[Esth.2|Esther 2]]"
+chronological_order: 900
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic CHAMBERLAIN|CHAMBERLAIN]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic TEBETH|TEBETH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0635]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0325]]"
+- "[[H1004B]]"
+- "[[H4438]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H2320G]]"
+- "[[H6224]]"
+- "[[H1931]]"
+- "[[H2887]]"
+- "[[H8141]]"
+- "[[H7651]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 2:16**<big><big>[[Esth.2.5 Esther Finds Favor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Esther was taken unto king Ahasuerus into his house royal in the tenth month, which [is] the month Tebeth, in the seventh year of his reign.
 <small><sub>**BSB:**</sub></small>
 She was taken to King Xerxes in the royal palace in the tenth month, the month of Tebeth, in the seventh year of his reign.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|תִּלָּקַ֨ח]] [[H0635\|אֶסְתֵּ֜ר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H0325\|אֲחַשְׁוֵרוֹשׁ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H4438\|מַלְכוּת֔]][[H9023\|וֹ]] [[H9003\|בַּ]][[H2320G\|חֹ֥דֶשׁ]] [[H9009\|הָ]][[H6224\|עֲשִׂירִ֖י]] [[H1931\|הוּא]][[H9014\|־]] [[H2320G\|חֹ֣דֶשׁ]] [[H2887\|טֵבֵ֑ת]] [[H9003\|בִּ]][[H8141\|שְׁנַת]][[H9014\|־]] [[H7651\|שֶׁ֖בַע]] [[H9005\|לְ]][[H4438\|מַלְכוּתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHAMBERLAIN|CHAMBERLAIN]] • [[topic MONTH|MONTH]] • [[topic TEBETH|TEBETH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.2.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.2.15|<< Esther 2:15]]</td><td align="center" style="border:none;">[[Esth.2|Esther 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.2.17|Esther 2:17 >>]]</td></tr></table>
 

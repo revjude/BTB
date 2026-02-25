@@ -1,8 +1,75 @@
+---
+title: Ezekiel 8:11
+type: Verse
+kjv: "And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up."
+bsb: "Before them stood seventy elders of the house of Israel, with Jaazaniah son of Shaphan standing among them. Each had a censer in his hand, and a fragrant cloud of incense was rising."
+hebrew: "וְשִׁבְעִ֣ים אִ֣ישׁ מִזִּקְנֵ֣י בֵֽית־ יִ֠שְׂרָאֵל וְיַאֲזַנְיָ֨הוּ בֶן־ שָׁפָ֜ן עֹמֵ֤ד בְּתוֹכָם֙ עֹמְדִ֣ים לִפְנֵיהֶ֔ם וְאִ֥ישׁ מִקְטַרְתּ֖וֹ בְּיָד֑וֹ וַעֲתַ֥ר עֲנַֽן־ הַקְּטֹ֖רֶת עֹלֶֽה׃"
+pericope: "[[Ezek.8.1 The Vision of Idolatry in the Temple|The Vision of Idolatry in the Temple]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 8
+book/chapter: "[[Ezek.8|Ezekiel 8]]"
+chronological_order: 799
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CENSER|CENSER]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic JAAZANIAH|JAAZANIAH]]"
+- "[[topic SHAPHAN|SHAPHAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H7657]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H2205G]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H2970H]]"
+- "[[H1121A]]"
+- "[[H8227G]]"
+- "[[H5975G]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0376I]]"
+- "[[H4730]]"
+- "[[H9023]]"
+- "[[H3027G]]"
+- "[[H6282B]]"
+- "[[H6051]]"
+- "[[H9009]]"
+- "[[H7004]]"
+- "[[H5927G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 8:11**<big><big>[[Ezek.8.1 The Vision of Idolatry in the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up.
 <small><sub>**BSB:**</sub></small>
 Before them stood seventy elders of the house of Israel, with Jaazaniah son of Shaphan standing among them. Each had a censer in his hand, and a fragrant cloud of incense was rising.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7657\|שִׁבְעִ֣ים]] [[H0376G\|אִ֣ישׁ]] [[H9006\|מִ]][[H2205G\|זִּקְנֵ֣י]] [[H1004M\|בֵֽית]][[H9014\|־]] [[H3478\|יִ֠שְׂרָאֵל]] [[H9002\|וְ]][[H2970H\|יַאֲזַנְיָ֨הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H8227G\|שָׁפָ֜ן]] [[H5975G\|עֹמֵ֤ד]] [[H9003\|בְּ]][[H8432\|תוֹכָ]][[H9028\|ם֙]] [[H5975G\|עֹמְדִ֣ים]] [[H9005\|לִ]][[H6440G\|פְנֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H0376I\|אִ֥ישׁ]] [[H4730\|מִקְטַרְתּ֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3027G\|יָד֑]][[H9023\|וֹ]] [[H9002\|וַ]][[H6282B\|עֲתַ֥ר]] [[H6051\|עֲנַֽן]][[H9014\|־]] [[H9009\|הַ]][[H7004\|קְּטֹ֖רֶת]] [[H5927G\|עֹלֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSER|CENSER]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic IDOLATRY|IDOLATRY]] • [[topic INCENSE|INCENSE]] • [[topic JAAZANIAH|JAAZANIAH]] • [[topic SHAPHAN|SHAPHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.8.10|<< Ezekiel 8:10]]</td><td align="center" style="border:none;">[[Ezek.8|Ezekiel 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.8.12|Ezekiel 8:12 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cleansing of Men
+type: Pericope
 pericope: "[[Lev.15.13 The Cleansing of Men|The Cleansing of Men]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 15
 book/chapter: "[[Lev.15|Leviticus 15]]"
-genre:
+chronological_order: 147
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 6
 verses:
 - "[[Lev.15.13]]"
 - "[[Lev.15.14]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Lev.15.18]]"
 ---
 
-[[Lev.15|Leviticus 15:13 - Leviticus 15:18]]
+<small>[[Lev.15|Leviticus 15:13-18]]</small>
 *The Cleansing of Men*
 
 [[Lev.15.13|13]] And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean.

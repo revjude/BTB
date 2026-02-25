@@ -1,10 +1,74 @@
+---
+title: Acts 21:13
+type: Verse
+kjv: "Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus."
+bsb: "Then Paul answered, “Why are you weeping and breaking my heart? I am ready not only to be bound, but also to die in Jerusalem for the name of the Lord Jesus.”"
+greek: "τότε ἀπεκρίθη ὁ Παῦλος· τί ποιεῖτε κλαίοντες καὶ συνθρύπτοντές μου τὴν καρδίαν; ἐγὼ γὰρ οὐ μόνον δεθῆναι ἀλλὰ καὶ ἀποθανεῖν εἰς Ἰερουσαλὴμ ἑτοίμως ἔχω ὑπὲρ τοῦ ὀνόματος τοῦ κυρίου Ἰησοῦ."
+pericope: "[[Acts.21.8 Paul Visits Philip the Evangelist|Paul Visits Philip the Evangelist]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 21
+book/chapter: "[[Acts.21|Acts 21]]"
+chronological_order: 1103
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic LUKE|LUKE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G5119]]"
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G3972G]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G2799]]"
+- "[[G2532]]"
+- "[[G4919]]"
+- "[[G3165]]"
+- "[[G2588]]"
+- "[[G1473]]"
+- "[[G1063]]"
+- "[[G3756]]"
+- "[[G3441]]"
+- "[[G1210]]"
+- "[[G0235]]"
+- "[[G0599]]"
+- "[[G1519]]"
+- "[[G2419]]"
+- "[[G2093]]"
+- "[[G2192]]"
+- "[[G5228]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Acts 21:13**<big><big>[[Acts.21.8 Paul Visits Philip the Evangelist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Paul answered, What mean ye to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.
 <small><sub>**BSB:**</sub></small>
 Then Paul answered, “Why are you weeping and breaking my heart? I am ready not only to be bound, but also to die in Jerusalem for the name of the Lord Jesus.”
-<small><sub>**Literal:**</sub></small>
-Then answered <the> Paul; What are you doing weeping and breaking my <the> heart? I myself for not only to be bound but also to die at Jerusalem readiness have for the name of the Lord Jesus.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.12|<< Acts 21:12]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.14|Acts 21:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G0611\|ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G3972G\|Παῦλος·]]  [[G5101\|τί]]  [[G4160G\|ποιεῖτε]]  [[G2799\|κλαίοντες]]  [[G2532\|καὶ]]  [[G4919\|συνθρύπτοντές]]  [[G3165\|μου]]  [[G3588\|τὴν]]  [[G2588\|καρδίαν;]]  [[G1473\|ἐγὼ]]  [[G1063\|γὰρ]]  [[G3756\|οὐ]]  [[G3441\|μόνον]]  [[G1210\|δεθῆναι]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G0599\|ἀποθανεῖν]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλὴμ]]  [[G2093\|ἑτοίμως]]  [[G2192\|ἔχω]]  [[G5228\|ὑπὲρ]]  [[G3588\|τοῦ]]  [[G3686\|ὀνόματος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G2424G\|Ἰησοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic DISOBEDIENCE TO GOD|DISOBEDIENCE TO GOD]] • [[topic LOVE|LOVE]] • [[topic LUKE|LUKE]] • [[topic PAUL|PAUL]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RASHNESS|RASHNESS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.21.12|<< Acts 21:12]]</td><td align="center" style="border:none;">[[Acts.21|Acts 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.21.14|Acts 21:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 28:24
+type: Verse
+kjv: "And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of the LORD, and he made him altars in every corner of Jerusalem."
+bsb: "Then Ahaz gathered up the articles of the house of God, cut them into pieces, shut the doors of the house of the LORD, and set up altars of his own on every street corner in Jerusalem."
+hebrew: "וַיֶּאֱסֹ֨ף אָחָ֜ז אֶת־ כְּלֵ֣י בֵית־ הָֽאֱלֹהִ֗ים וַיְקַצֵּץ֙ אֶת־ כְּלֵ֣י בֵית־ הָֽאֱלֹהִ֔ים וַיִּסְגֹּ֖ר אֶת־ דַּלְת֣וֹת בֵּית־ יְהוָ֑ה וַיַּ֨עַשׂ ל֧וֹ מִזְבְּח֛וֹת בְּכָל־ פִּנָּ֖ה בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic SACRILEGE|SACRILEGE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0622]]"
+- "[[H0271G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3627]]"
+- "[[H1004Q]]"
+- "[[H9009]]"
+- "[[H0430G]]"
+- "[[H7112]]"
+- "[[H5462]]"
+- "[[H1817C]]"
+- "[[H3068G]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4196]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H6438H]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:24**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of the LORD, and he made him altars in every corner of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Then Ahaz gathered up the articles of the house of God, cut them into pieces, shut the doors of the house of the LORD, and set up altars of his own on every street corner in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0622\|יֶּאֱסֹ֨ף]] [[H0271G\|אָחָ֜ז]] [[H0853\|אֶת]][[H9014\|־]] [[H3627\|כְּלֵ֣י]] [[H1004Q\|בֵית]][[H9014\|־]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֗ים]] [[H9001\|וַ]][[H7112\|יְקַצֵּץ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3627\|כְּלֵ֣י]] [[H1004Q\|בֵית]][[H9014\|־]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H5462\|יִּסְגֹּ֖ר]] [[H0853\|אֶת]][[H9014\|־]] [[H1817C\|דַּלְת֣וֹת]] [[H1004Q\|בֵּית]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9001\|וַ]][[H6213H\|יַּ֨עַשׂ]] [[H9005\|ל֧]][[H9033\|וֹ]] [[H4196\|מִזְבְּח֛וֹת]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H6438H\|פִּנָּ֖ה]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic SACRILEGE|SACRILEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.23|<< 2 Chronicles 28:23]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.25|2 Chronicles 28:25 >>]]</td></tr></table>
 

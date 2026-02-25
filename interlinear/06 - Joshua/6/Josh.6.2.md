@@ -1,8 +1,60 @@
+---
+title: Joshua 6:2
+type: Verse
+kjv: "And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, and the mighty men of valour."
+bsb: "And the LORD said to Joshua, “Behold, I have delivered Jericho into your hand, along with its king and its mighty men of valor."
+hebrew: "וַיֹּ֤אמֶר יְהוָה֙ אֶל־ יְהוֹשֻׁ֔עַ רְאֵה֙ נָתַ֣תִּי בְיָֽדְךָ֔ אֶת־ יְרִיח֖וֹ וְאֶת־ מַלְכָּ֑הּ גִּבּוֹרֵ֖י הֶחָֽיִל׃"
+pericope: "[[Josh.6.1 The Walls of Jericho|The Walls of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 6
+book/chapter: "[[Josh.6|Joshua 6]]"
+chronological_order: 236
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic COMMUNION|COMMUNION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H7200I]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3027H]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H3405G]]"
+- "[[H9002]]"
+- "[[H4428G]]"
+- "[[H9024]]"
+- "[[H1368]]"
+- "[[H9009]]"
+- "[[H2428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 6:2**<big><big>[[Josh.6.1 The Walls of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, [and] the mighty men of valour.
 <small><sub>**BSB:**</sub></small>
 And the LORD said to Joshua, “Behold, I have delivered Jericho into your hand, along with its king and its mighty men of valor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3068G\|יְהוָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H7200I\|רְאֵה֙]] [[H5414G\|נָתַ֣תִּי]] [[H9003\|בְ]][[H3027H\|יָֽדְ]][[H9021\|ךָ֔]] [[H0853\|אֶת]][[H9014\|־]] [[H3405G\|יְרִיח֖וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מַלְכָּ֑]][[H9024\|הּ]] [[H1368\|גִּבּוֹרֵ֖י]] [[H9009\|הֶ]][[H2428G\|חָֽיִל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMUNION|COMMUNION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.6.1|<< Joshua 6:1]]</td><td align="center" style="border:none;">[[Josh.6|Joshua 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.6.3|Joshua 6:3 >>]]</td></tr></table>
 

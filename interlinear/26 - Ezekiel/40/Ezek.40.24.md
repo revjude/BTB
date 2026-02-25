@@ -1,8 +1,62 @@
+---
+title: Ezekiel 40:24
+type: Verse
+kjv: "After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures."
+bsb: "Then he led me to the south side, and I saw a gateway facing south. He measured its side pillars and portico, and they had the same measurements as the others."
+hebrew: "וַיּוֹלִכֵ֙נִי֙ דֶּ֣רֶךְ הַדָּר֔וֹם וְהִנֵּה־ שַׁ֖עַר דֶּ֣רֶךְ הַדָּר֑וֹם וּמָדַ֤ד אֵילָיו֙ וְאֵ֣ילַמָּ֔יו כַּמִּדּ֖וֹת הָאֵֽלֶּה׃"
+pericope: "[[Ezek.40.24 The South Gate|The South Gate]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WINDOW|WINDOW]]"
+strongs:
+- "[[H9001]]"
+- "[[H1980J]]"
+- "[[H9030]]"
+- "[[H1870J]]"
+- "[[H9009]]"
+- "[[H1864]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H8179G]]"
+- "[[H4058]]"
+- "[[H0352B]]"
+- "[[H9023]]"
+- "[[H0361]]"
+- "[[H9004]]"
+- "[[H4060A]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 40:24**<big><big>[[Ezek.40.24 The South Gate|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.
 <small><sub>**BSB:**</sub></small>
 Then he led me to the south side, and I saw a gateway facing south. He measured its side pillars and portico, and they had the same measurements as the others.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1980J\|יּוֹלִכֵ֙]][[H9030\|נִי֙]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H1864\|דָּר֔וֹם]] [[H9002\|וְ]][[H2009\|הִנֵּה]][[H9014\|־]] [[H8179G\|שַׁ֖עַר]] [[H1870J\|דֶּ֣רֶךְ]] [[H9009\|הַ]][[H1864\|דָּר֑וֹם]] [[H9001\|וּ]][[H4058\|מָדַ֤ד]] [[H0352B\|אֵילָי]][[H9023\|ו֙]] [[H9002\|וְ]][[H0361\|אֵ֣ילַמָּ֔י]][[H9023\|ו]] [[H9004\|כַּ]][[H4060A\|מִּדּ֖וֹת]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WINDOW|WINDOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.23|<< Ezekiel 40:23]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.25|Ezekiel 40:25 >>]]</td></tr></table>
 
@@ -22,11 +76,11 @@ Then he led me to the south side, and I saw a gateway facing south. He measured 
 | \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.23|<< Ezekiel 40:23]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.25|Ezekiel 40:25 >>]]</td></tr></table>
 
-[^1]: pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big> ** | 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: pillar its  | **<big>[[H9023|וֹ]]</big><big>[[H0352B|אֵיל]]</big> ** | 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: pillar its  | **<big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: pillar its  | **<big>[[H0352B|אֵיל]]</big><big>[[H9023|וֹ]]</big> ** | 'ei.lo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>אֵילָו֙</big></span>**
-[^4]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^5]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^6]: and porch its  | **<big>[[H9023|וֹ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^4]: and porch its  | **<big>[[H9002|וְ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^5]: and porch its  | **<big>[[H9002|וְ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^6]: and porch its  | **<big>[[H9002|וְ]]</big><big>[[H0361|אֵילַמּ]]</big><big>[[H9023|וֹ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'ei.la.mo<small><sup>[[HNcmsc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^7]: L spelled: **<span class="ashebrew"><big>וְאֵ֣ילַמָּ֔/ו</big></span>**
 

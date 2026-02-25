@@ -1,8 +1,57 @@
+---
+title: Psalm 38:2
+type: Verse
+kjv: "For thine arrows stick fast in me, and thy hand presseth me sore."
+bsb: "For Your arrows have pierced me deeply, and Your hand has pressed down on me."
+hebrew: "כִּֽי־ חִ֭צֶּיךָ נִ֣חֲתוּ בִ֑י וַתִּנְחַ֖ת עָלַ֣י יָדֶֽךָ׃"
+pericope: "[[Ps.38.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 38
+book/chapter: "[[Ps.38|Psalm 38]]"
+chronological_order: 424
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ARROW|ARROW]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic REMORSE|REMORSE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2671]]"
+- "[[H9021]]"
+- "[[H5181]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 38:2**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thine arrows stick fast in me, and thy hand presseth me sore.
 <small><sub>**BSB:**</sub></small>
 For Your arrows have pierced me deeply, and Your hand has pressed down on me.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H2671\|חִ֭צֶּי]][[H9021\|ךָ]] [[H5181\|נִ֣חֲתוּ]] [[H9003\|בִ֑]][[H9030\|י]] [[H9001\|וַ]][[H5181\|תִּנְחַ֖ת]] [[H5921A\|עָלַ֣]][[H9030\|י]] [[H3027G\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ARROW|ARROW]] • [[topic CONVICTION|CONVICTION]] • [[topic REMORSE|REMORSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.1|<< Psalms 38:1]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.3|Psalms 38:3 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Ezekiel 19:5
+type: Verse
+kjv: "Now when she saw that she had waited, and her hope was lost, then she took another of her whelps, and made him a young lion."
+bsb: "When she saw that she had waited in vain, that her hope was lost, she took another of her cubs and made him a young lion."
+hebrew: "וַתֵּ֙רֶא֙ כִּ֣י נֽוֹחֲלָ֔ה אָבְדָ֖ה תִּקְוָתָ֑הּ וַתִּקַּ֛ח אֶחָ֥ד מִגֻּרֶ֖יהָ כְּפִ֥יר שָׂמָֽתְהוּ׃"
+pericope: "[[Ezek.19.1 A Lament for the Princes of Israel|A Lament for the Princes of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 19
+book/chapter: "[[Ezek.19|Ezekiel 19]]"
+chronological_order: 810
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LION|LION]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H3176H]]"
+- "[[H0006]]"
+- "[[H8615B]]"
+- "[[H9024]]"
+- "[[H3947G]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H1482]]"
+- "[[H3715A]]"
+- "[[H7760A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 19:5**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when she saw that she had waited, [and] her hope was lost, then she took another of her whelps, [and] made him a young lion.
 <small><sub>**BSB:**</sub></small>
 When she saw that she had waited in vain, that her hope was lost, she took another of her cubs and made him a young lion.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|תֵּ֙רֶא֙]] [[H3588A\|כִּ֣י]] [[H3176H\|נֽוֹחֲלָ֔ה]] [[H0006\|אָבְדָ֖ה]] [[H8615B\|תִּקְוָתָ֑]][[H9024\|הּ]] [[H9001\|וַ]][[H3947G\|תִּקַּ֛ח]] [[H0259\|אֶחָ֥ד]] [[H9006\|מִ]][[H1482\|גֻּרֶ֖י]][[H9024\|הָ]] [[H3715A\|כְּפִ֥יר]] [[H7760A\|שָׂמָֽתְ]][[H9033\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic PARABLES|PARABLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.4|<< Ezekiel 19:4]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.6|Ezekiel 19:6 >>]]</td></tr></table>
 

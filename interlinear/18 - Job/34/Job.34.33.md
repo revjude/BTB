@@ -1,8 +1,60 @@
+---
+title: Job 34:33
+type: Verse
+kjv: "Should it be according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest."
+bsb: "Should God repay you on your own terms when you have disavowed Him? You must choose, not I; so tell me what you know."
+hebrew: "הַֽמֵעִמְּךָ֬ יְשַׁלְמֶ֨נָּה כִּֽי־ מָאַ֗סְתָּ כִּי־ אַתָּ֣ה תִבְחַ֣ר וְלֹא־ אָ֑נִי וּֽמַה־ יָדַ֥עְתָּ דַבֵּֽר׃"
+pericope: "[[Job.34.1 Elihu Confirms God’s Justice|Elihu Confirms God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 34
+book/chapter: "[[Job.34|Job 34]]"
+chronological_order: 45
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[H9008]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9031]]"
+- "[[H7999A]]"
+- "[[H9034]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3988A]]"
+- "[[H0859A]]"
+- "[[H0977]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H0589]]"
+- "[[H4100]]"
+- "[[H3045]]"
+- "[[H1696I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 34:33**<big><big>[[Job.34.1 Elihu Confirms God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Should it be] according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest.
 <small><sub>**BSB:**</sub></small>
 Should God repay you on your own terms when you have disavowed Him? You must choose, not I; so tell me what you know.
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַֽ]][[H9006\|מֵ]][[H5973B\|עִמְּ]][[H9031\|ךָ֬]] [[H7999A\|יְשַׁלְמֶ֨]][[H9034\|נָּה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3988A\|מָאַ֗סְתָּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H0859A\|אַתָּ֣ה]] [[H0977\|תִבְחַ֣ר]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H0589\|אָ֑נִי]] [[H9002\|וּֽ]][[H4100\|מַה]][[H9014\|־]] [[H3045\|יָדַ֥עְתָּ]] [[H1696I\|דַבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.34.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.34.32|<< Job 34:32]]</td><td align="center" style="border:none;">[[Job.34|Job 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.34.34|Job 34:34 >>]]</td></tr></table>
 

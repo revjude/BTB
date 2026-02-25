@@ -1,8 +1,75 @@
+---
+title: Exodus 16:7
+type: Verse
+kjv: "And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what are we, that ye murmur against us?"
+bsb: "and in the morning you will see the LORD’s glory, because He has heard your grumbling against Him. For who are we, that you should grumble against us?”"
+hebrew: "וּבֹ֗קֶר וּרְאִיתֶם֙ אֶת־ כְּב֣וֹד יְהוָ֔ה בְּשָׁמְע֥וֹ אֶת־ תְּלֻנֹּתֵיכֶ֖ם עַל־ יְהוָ֑ה וְנַ֣חְנוּ מָ֔ה כִּ֥י תַלִּ֖ינוּ עָלֵֽינוּ׃"
+pericope: "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1242]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3519]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H8085G]]"
+- "[[H9043]]"
+- "[[H8519]]"
+- "[[H9026]]"
+- "[[H5921A]]"
+- "[[H5168]]"
+- "[[H4100]]"
+- "[[H3588A]]"
+- "[[H3885B]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Exodus 16:7**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what [are] we, that ye murmur against us?
 <small><sub>**BSB:**</sub></small>
 and in the morning you will see the LORD’s glory, because He has heard your grumbling against Him. For who are we, that you should grumble against us?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1242\|בֹ֗קֶר]] [[H9001\|וּ]][[H7200G\|רְאִיתֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3519\|כְּב֣וֹד]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H8085G\|שָׁמְע֥]][[H9043\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H8519\|תְּלֻנֹּתֵי]][[H9026\|כֶ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H5168\|נַ֣חְנוּ]] [[H4100\|מָ֔ה]] [[H3588A\|כִּ֥י]] [[H3885B\|תַלִּ֖ינוּ]] [[H5921A\|עָלֵֽי]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic INFIDELITY|INFIDELITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MEEKNESS|MEEKNESS]] • [[topic MIRACLES|MIRACLES]] • [[topic MOSES|MOSES]] • [[topic PATIENCE|PATIENCE]] • [[topic REPROOF|REPROOF]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.6|<< Exodus 16:6]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.8|Exodus 16:8 >>]]</td></tr></table>
 

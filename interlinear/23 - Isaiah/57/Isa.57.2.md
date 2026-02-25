@@ -1,8 +1,55 @@
+---
+title: Isaiah 57:2
+type: Verse
+kjv: "He shall enter into peace: they shall rest in their beds, each one walking in his uprightness."
+bsb: "Those who walk uprightly enter into peace; they find rest, lying down in death."
+hebrew: "יָב֣וֹא שָׁל֔וֹם יָנ֖וּחוּ עַל־ מִשְׁכְּבוֹתָ֑ם הֹלֵ֖ךְ נְכֹחֽוֹ׃"
+pericope: "[[Isa.57.1 The Blessed Death of the Righteous|The Blessed Death of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H0935G]]"
+- "[[H7965G]]"
+- "[[H5117]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4904]]"
+- "[[H9028]]"
+- "[[H1980I]]"
+- "[[H5228]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:2**<big><big>[[Isa.57.1 The Blessed Death of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall enter into peace: they shall rest in their beds, [each one] walking [in] his uprightness.
 <small><sub>**BSB:**</sub></small>
 Those who walk uprightly enter into peace; they find rest, lying down in death.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935G\|יָב֣וֹא]] [[H7965G\|שָׁל֔וֹם]] [[H5117\|יָנ֖וּחוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4904\|מִשְׁכְּבוֹתָ֑]][[H9028\|ם]] [[H1980I\|הֹלֵ֖ךְ]] [[H5228\|נְכֹחֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic HOLINESS|HOLINESS]] • [[topic PEACE|PEACE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.1|<< Isaiah 57:1]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.3|Isaiah 57:3 >>]]</td></tr></table>
 

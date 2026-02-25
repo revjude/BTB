@@ -1,8 +1,70 @@
+---
+title: Ezekiel 11:16
+type: Verse
+kjv: "Therefore say, Thus saith the Lord GOD; Although I have cast them far off among the heathen, and although I have scattered them among the countries, yet will I be to them as a little sanctuary in the countries where they shall come."
+bsb: "Therefore declare that this is what the Lord GOD says: ‘Although I sent them far away among the nations and scattered them among the countries, yet for a little while I have been a sanctuary for them in the countries to which they have gone.’"
+hebrew: "לָכֵ֣ן אֱמֹ֗ר כֹּֽה־ אָמַר֮ אֲדֹנָ֣י יְהוִה֒ כִּ֤י הִרְחַקְתִּים֙ בַּגּוֹיִ֔ם וְכִ֥י הֲפִֽיצוֹתִ֖ים בָּאֲרָצ֑וֹת וָאֱהִ֤י לָהֶם֙ לְמִקְדָּ֣שׁ מְעַ֔ט בָּאֲרָצ֖וֹת אֲשֶׁר־ בָּ֥אוּ שָֽׁם׃ ס"
+pericope: "[[Ezek.11.13 A Promise of Restoration|A Promise of Restoration]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 11
+book/chapter: "[[Ezek.11|Ezekiel 11]]"
+chronological_order: 802
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic SANCTUARY|SANCTUARY]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H0559]]"
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H3588A]]"
+- "[[H7368]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H9002]]"
+- "[[H6327A]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4720]]"
+- "[[H4592]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 11:16**<big><big>[[Ezek.11.13 A Promise of Restoration|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore say, Thus saith the Lord GOD; Although I have cast them far off among the heathen, and although I have scattered them among the countries, yet will I be to them as a little sanctuary in the countries where they shall come.
 <small><sub>**BSB:**</sub></small>
 Therefore declare that this is what the Lord GOD says: ‘Although I sent them far away among the nations and scattered them among the countries, yet for a little while I have been a sanctuary for them in the countries to which they have gone.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֣ן]] [[H0559\|אֱמֹ֗ר]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֮]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִה֒]] [[H3588A\|כִּ֤י]] [[H7368\|הִרְחַקְתִּי]][[H9038\|ם֙]] [[H9003\|בַּ]][[H1471A\|גּוֹיִ֔ם]] [[H9002\|וְ]][[H3588A\|כִ֥י]] [[H6327A\|הֲפִֽיצוֹתִ֖י]][[H9038\|ם]] [[H9003\|בָּ]][[H0776G\|אֲרָצ֑וֹת]] [[H9001\|וָ]][[H1961\|אֱהִ֤י]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לְ]][[H4720\|מִקְדָּ֣שׁ]] [[H4592\|מְעַ֔ט]] [[H9003\|בָּ]][[H0776G\|אֲרָצ֖וֹת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥אוּ]] [[H8033G\|שָֽׁם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic SANCTUARY|SANCTUARY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.11.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.15|<< Ezekiel 11:15]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.17|Ezekiel 11:17 >>]]</td></tr></table>
 
@@ -27,7 +89,7 @@ Therefore declare that this is what the Lord GOD says: ‘Although I sent them f
 | in the lands  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0776G\|אֲרָצ֖וֹת]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'a.ra.Tzot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they have gone  |**<big>&#8207;[[H0935G\|בָּ֥אוּ]]&#8207; </big>**| Ba.'u<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| there  |**<big>&#8207;[[H8033G\|שָֽׁם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Sham<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.11.15|<< Ezekiel 11:15]]</td><td align="center" style="border:none;">[[Ezek.11|Ezekiel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.11.17|Ezekiel 11:17 >>]]</td></tr></table>
 
 

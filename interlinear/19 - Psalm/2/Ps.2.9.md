@@ -1,8 +1,58 @@
+---
+title: Psalm 2:9
+type: Verse
+kjv: "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel."
+bsb: "You will break them with an iron scepter; You will shatter them like pottery.”"
+hebrew: "תְּ֭רֹעֵם בְּשֵׁ֣בֶט בַּרְזֶ֑ל כִּכְלִ֖י יוֹצֵ֣ר תְּנַפְּצֵֽם׃"
+pericope: "[[Ps.2.1 The Triumphant Messiah|The Triumphant Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 2
+book/chapter: "[[Ps.2|Psalm 2]]"
+chronological_order: 338
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic IRON|IRON]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SCEPTER (SCEPTRE)|SCEPTER (SCEPTRE)]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7489B]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H7626G]]"
+- "[[H1270]]"
+- "[[H9004]]"
+- "[[H3627]]"
+- "[[H3335H]]"
+- "[[H5310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 2:9**<big><big>[[Ps.2.1 The Triumphant Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.
 <small><sub>**BSB:**</sub></small>
 You will break them with an iron scepter; You will shatter them like pottery.”
+<small><sub>**Hebrew:**</sub></small>
+[[H7489B\|תְּ֭רֹעֵ]][[H9038\|ם]] [[H9003\|בְּ]][[H7626G\|שֵׁ֣בֶט]] [[H1270\|בַּרְזֶ֑ל]] [[H9004\|כִּ]][[H3627\|כְלִ֖י]] [[H3335H\|יוֹצֵ֣ר]] [[H5310A\|תְּנַפְּצֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IRON|IRON]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SCEPTER (SCEPTRE)|SCEPTER (SCEPTRE)]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.2.8|<< Psalms 2:8]]</td><td align="center" style="border:none;">[[Ps.2|Psalms 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.2.10|Psalms 2:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

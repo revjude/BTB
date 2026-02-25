@@ -1,10 +1,61 @@
+---
+title: Acts 22:22
+type: Verse
+kjv: "And they gave him audience unto this word, and then lifted up their voices, and said, Away with such a fellow from the earth: for it is not fit that he should live."
+bsb: "The crowd listened to Paul until he made this statement. Then they lifted up their voices and shouted, “Rid the earth of him! He is not fit to live!”"
+greek: "Ἤκουον δὲ αὐτοῦ ἄχρι τούτου τοῦ λόγου καὶ ἐπῆραν τὴν φωνὴν αὐτῶν λέγοντες· αἶρε ἀπὸ τῆς γῆς τὸν τοιοῦτον· οὐ γὰρ καθῆκεν αὐτὸν ζῆν."
+pericope: "[[Acts.22.22 Paul the Roman Citizen|Paul the Roman Citizen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 22
+book/chapter: "[[Acts.22|Acts 22]]"
+chronological_order: 1104
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G0891]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2532]]"
+- "[[G1869]]"
+- "[[G5456G]]"
+- "[[G3004G]]"
+- "[[G0142]]"
+- "[[G0575]]"
+- "[[G1093G]]"
+- "[[G5108]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G2520]]"
+- "[[G2198]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 22:22**<big><big>[[Acts.22.22 Paul the Roman Citizen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they gave him audience unto this word, and [then] lifted up their voices, and said, Away with such a [fellow] from the earth: for it is not fit that he should live.
 <small><sub>**BSB:**</sub></small>
 The crowd listened to Paul until he made this statement. Then they lifted up their voices and shouted, “Rid the earth of him! He is not fit to live!”
-<small><sub>**Literal:**</sub></small>
-They were listening now to him until this <the> word and they lifted up the voice of them saying; Away from the earth <the> [with] such; Not for it was proper [for] him to live!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.21|<< Acts 22:21]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.23|Acts 22:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἤκουον]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G0891\|ἄχρι]]  [[G3778\|τούτου]]  [[G3588\|τοῦ]]  [[G3056\|λόγου]]  [[G2532\|καὶ]]  [[G1869\|ἐπῆραν]]  [[G3588\|τὴν]]  [[G5456G\|φωνὴν]]  [[G0846\|αὐτῶν]]  [[G3004G\|λέγοντες·]]  [[G0142\|αἶρε]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G3588\|τὸν]]  [[G5108\|τοιοῦτον·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G2520\|καθῆκεν]]  [[G0846\|αὐτὸν]]  [[G2198\|ζῆν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.22.21|<< Acts 22:21]]</td><td align="center" style="border:none;">[[Acts.22|Acts 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.22.23|Acts 22:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

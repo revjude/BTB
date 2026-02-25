@@ -1,8 +1,71 @@
+---
+title: Genesis 41:55
+type: Verse
+kjv: "And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do."
+bsb: "When extreme hunger came to all the land of Egypt and the people cried out to Pharaoh for food, he told all the Egyptians, “Go to Joseph and do whatever he tells you.”"
+hebrew: "וַתִּרְעַב֙ כָּל־ אֶ֣רֶץ מִצְרַ֔יִם וַיִּצְעַ֥ק הָעָ֛ם אֶל־ פַּרְעֹ֖ה לַלָּ֑חֶם וַיֹּ֨אמֶר פַּרְעֹ֤ה לְכָל־ מִצְרַ֙יִם֙ לְכ֣וּ אֶל־ יוֹסֵ֔ף אֲשֶׁר־ יֹאמַ֥ר לָכֶ֖ם תַּעֲשֽׂוּ׃"
+pericope: "[[Gen.41.53 The Famine Begins|The Famine Begins]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7456]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H6817]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H6547H]]"
+- "[[H9005]]"
+- "[[H3899H]]"
+- "[[H0559]]"
+- "[[H4713]]"
+- "[[H1980G]]"
+- "[[H3130G]]"
+- "[[H0834A]]"
+- "[[H9036]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:55**<big><big>[[Gen.41.53 The Famine Begins|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.
 <small><sub>**BSB:**</sub></small>
 When extreme hunger came to all the land of Egypt and the people cried out to Pharaoh for food, he told all the Egyptians, “Go to Joseph and do whatever he tells you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7456\|תִּרְעַב֙]] [[H3605\|כָּל]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וַ]][[H6817\|יִּצְעַ֥ק]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H0413\|אֶל]][[H9014\|־]] [[H6547H\|פַּרְעֹ֖ה]] [[H9005\|לַ]][[H3899H\|לָּ֑חֶם]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H6547H\|פַּרְעֹ֤ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H4713\|מִצְרַ֙יִם֙]] [[H1980G\|לְכ֣וּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|יֹאמַ֥ר]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H6213A\|תַּעֲשֽׂוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ECONOMICS|ECONOMICS]] • [[topic FAMINE|FAMINE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic PRUDENCE|PRUDENCE]] • [[topic RULERS|RULERS]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.55|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.54|<< Genesis 41:54]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.56|Genesis 41:56 >>]]</td></tr></table>
 

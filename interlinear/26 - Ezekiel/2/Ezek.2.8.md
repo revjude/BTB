@@ -1,8 +1,68 @@
+---
+title: Ezekiel 2:8
+type: Verse
+kjv: "But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee."
+bsb: "And you, son of man, listen to what I tell you. Do not be rebellious like that rebellious house. Open your mouth and eat what I give you.”"
+hebrew: "וְאַתָּ֣ה בֶן־ אָדָ֗ם שְׁמַע֙ אֵ֤ת אֲשֶׁר־ אֲנִי֙ מְדַבֵּ֣ר אֵלֶ֔יךָ אַל־ תְּהִי־ מֶ֖רִי כְּבֵ֣ית הַמֶּ֑רִי פְּצֵ֣ה פִ֔יךָ וֶאֱכֹ֕ל אֵ֥ת אֲשֶׁר־ אֲנִ֖י נֹתֵ֥ן אֵלֶֽיךָ׃"
+pericope: "[[Ezek.2.1 Ezekiel’s Call|Ezekiel’s Call]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 2
+book/chapter: "[[Ezek.2|Ezekiel 2]]"
+chronological_order: 793
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H0589]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0408]]"
+- "[[H1961]]"
+- "[[H4805H]]"
+- "[[H9004]]"
+- "[[H1004M]]"
+- "[[H9009]]"
+- "[[H6475]]"
+- "[[H6310G]]"
+- "[[H9021]]"
+- "[[H0398]]"
+- "[[H5414G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 2:8**<big><big>[[Ezek.2.1 Ezekiel’s Call|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee.
 <small><sub>**BSB:**</sub></small>
 And you, son of man, listen to what I tell you. Do not be rebellious like that rebellious house. Open your mouth and eat what I give you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֗ם]] [[H8085G\|שְׁמַע֙]] [[H0853\|אֵ֤ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0589\|אֲנִי֙]] [[H1696G\|מְדַבֵּ֣ר]] [[H0413\|אֵלֶ֔י]][[H9031\|ךָ]] [[H0408\|אַל]][[H9014\|־]] [[H1961\|תְּהִי]][[H9014\|־]] [[H4805H\|מֶ֖רִי]] [[H9004\|כְּ]][[H1004M\|בֵ֣ית]] [[H9009\|הַ]][[H4805H\|מֶּ֑רִי]] [[H6475\|פְּצֵ֣ה]] [[H6310G\|פִ֔י]][[H9021\|ךָ]] [[H9002\|וֶ]][[H0398\|אֱכֹ֕ל]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0589\|אֲנִ֖י]] [[H5414G\|נֹתֵ֥ן]] [[H0413\|אֵלֶֽי]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.2.7|<< Ezekiel 2:7]]</td><td align="center" style="border:none;">[[Ezek.2|Ezekiel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.2.9|Ezekiel 2:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,52 @@
+---
+title: Job 20:10
+type: Verse
+kjv: "His children shall seek to please the poor, and his hands shall restore their goods."
+bsb: "His sons will seek the favor of the poor, for his own hands must return his wealth."
+hebrew: "בָּ֭נָיו יְרַצּ֣וּ דַלִּ֑ים וְ֝יָדָ֗יו תָּשֵׁ֥בְנָה אוֹנֽוֹ׃"
+pericope: "[[Job.20.1 Zophar：Destruction Awaits the Wicked|Zophar：Destruction Awaits the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 20
+book/chapter: "[[Job.20|Job 20]]"
+chronological_order: 31
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H7521]]"
+- "[[H1800]]"
+- "[[H9002]]"
+- "[[H3027G]]"
+- "[[H7725G]]"
+- "[[H0202]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 20:10**<big><big>[[Job.20.1 Zophar：Destruction Awaits the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 His children shall seek to please the poor, and his hands shall restore their goods.
 <small><sub>**BSB:**</sub></small>
 His sons will seek the favor of the poor, for his own hands must return his wealth.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121A\|בָּ֭נָי]][[H9023\|ו]] [[H7521\|יְרַצּ֣וּ]] [[H1800\|דַלִּ֑ים]] [[H9002\|וְ֝]][[H3027G\|יָדָ֗י]][[H9023\|ו]] [[H7725G\|תָּשֵׁ֥בְנָה]] [[H0202\|אוֹנֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.20.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.20.9|<< Job 20:9]]</td><td align="center" style="border:none;">[[Job.20|Job 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.20.11|Job 20:11 >>]]</td></tr></table>
 

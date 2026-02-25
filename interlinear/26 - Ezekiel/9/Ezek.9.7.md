@@ -1,8 +1,61 @@
+---
+title: Ezekiel 9:7
+type: Verse
+kjv: "And he said unto them, Defile the house, and fill the courts with the slain: go ye forth. And they went forth, and slew in the city."
+bsb: "Then He told them, “Defile the temple and fill the courts with the slain. Go forth!” So they went out and began killing throughout the city."
+hebrew: "וַיֹּ֨אמֶר אֲלֵיהֶ֜ם טַמְּא֣וּ אֶת־ הַבַּ֗יִת וּמַלְא֧וּ אֶת־ הַחֲצֵר֛וֹת חֲלָלִ֖ים צֵ֑אוּ וְיָצְא֖וּ וְהִכּ֥וּ בָעִֽיר׃"
+pericope: "[[Ezek.9.1 Execution of the Idolaters|Execution of the Idolaters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 9
+book/chapter: "[[Ezek.9|Ezekiel 9]]"
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H2930A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9002]]"
+- "[[H4390]]"
+- "[[H2691A]]"
+- "[[H2491A]]"
+- "[[H3318G]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 9:7**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Defile the house, and fill the courts with the slain: go ye forth. And they went forth, and slew in the city.
 <small><sub>**BSB:**</sub></small>
 Then He told them, “Defile the temple and fill the courts with the slain. Go forth!” So they went out and began killing throughout the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H2930A\|טַמְּא֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1004B\|בַּ֗יִת]] [[H9002\|וּ]][[H4390\|מַלְא֧וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2691A\|חֲצֵר֛וֹת]] [[H2491A\|חֲלָלִ֖ים]] [[H3318G\|צֵ֑אוּ]] [[H9001\|וְ]][[H3318G\|יָצְא֖וּ]] [[H9001\|וְ]][[H5221\|הִכּ֥וּ]] [[H9003\|בָ]][[H5892B\|עִֽיר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.6|<< Ezekiel 9:6]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.8|Ezekiel 9:8 >>]]</td></tr></table>
 

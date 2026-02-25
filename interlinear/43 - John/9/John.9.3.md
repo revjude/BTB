@@ -1,10 +1,60 @@
+---
+title: John 9:3
+type: Verse
+kjv: "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him."
+bsb: "Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him."
+jesus_said: "Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him."
+greek: "Ἀπεκρίθη ὁ Ἰησοῦς· οὔτε οὗτος ἥμαρτεν οὔτε οἱ γονεῖς αὐτοῦ, ἀλλ᾽ ἵνα φανερωθῇ τὰ ἔργα τοῦ θεοῦ ἐν αὐτῷ."
+pericope: "[[John.9.1 Jesus Heals the Man Born Blind|Jesus Heals the Man Born Blind]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 9
+book/chapter: "[[John.9|John 9]]"
+chronological_order: 983
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SILOAM|SILOAM]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3777]]"
+- "[[G3778]]"
+- "[[G0264]]"
+- "[[G1118]]"
+- "[[G0846]]"
+- "[[G0235]]"
+- "[[G2443]]"
+- "[[G5319]]"
+- "[[G2041]]"
+- "[[G2316]]"
+- "[[G1722]]"
+texts:
+- NKO
+- k
+---
+
 **John 9:3**<big><big>[[John.9.1 Jesus Heals the Man Born Blind|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “Neither this man nor his parents sinned, but this happened so that the works of God would be displayed in him.
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus; Neither this [man] sinned nor [sinned] the parents of him, but [it was] that may be displayed the works <the> of God in him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.2|<< John 9:2]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.4|John 9:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3777\|οὔτε]]  [[G3778\|οὗτος]]  [[G0264\|ἥμαρτεν]]  [[G3777\|οὔτε]]  [[G3588\|οἱ]]  [[G1118\|γονεῖς]]  [[G0846\|αὐτοῦ,]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G5319\|φανερωθῇ]]  [[G3588\|τὰ]]  [[G2041\|ἔργα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1722\|ἐν]]  [[G0846\|αὐτῷ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BLINDNESS|BLINDNESS]] • [[topic MIRACLES|MIRACLES]] • [[topic SABBATH|SABBATH]] • [[topic SILOAM|SILOAM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.9.2|<< John 9:2]]</td><td align="center" style="border:none;">[[John.9|John 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.9.4|John 9:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

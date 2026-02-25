@@ -1,10 +1,58 @@
+---
+title: Matthew 8:16
+type: Verse
+kjv: "When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:"
+bsb: "When evening came, many who were demon-possessed were brought to Jesus, and He drove out the spirits with a word and healed all the sick."
+greek: "Ὀψίας δὲ γενομένης προσήνεγκαν αὐτῷ δαιμονιζομένους πολλούς, καὶ ἐξέβαλεν τὰ πνεύματα λόγῳ, καὶ πάντας τοὺς κακῶς ἔχοντας ἐθεράπευσεν,"
+pericope: "[[Matt.8.14 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 8
+book/chapter: "[[Matt.8|Matthew 8]]"
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G3798]]"
+- "[[G1161]]"
+- "[[G1096]]"
+- "[[G4374]]"
+- "[[G0846]]"
+- "[[G1139]]"
+- "[[G4183]]"
+- "[[G2532]]"
+- "[[G1544]]"
+- "[[G3588]]"
+- "[[G4151G]]"
+- "[[G3056]]"
+- "[[G3956]]"
+- "[[G2560]]"
+- "[[G2192]]"
+- "[[G2323]]"
+texts:
+- NKO
+---
+
 **Matthew 8:16**<big><big>[[Matt.8.14 Jesus Heals at Peter’s House|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with [his] word, and healed all that were sick:
 <small><sub>**BSB:**</sub></small>
 When evening came, many who were demon-possessed were brought to Jesus, and He drove out the spirits with a word and healed all the sick.
-<small><sub>**Literal:**</sub></small>
-When evening now having come they brought to Him being demonised many, and He cast out the spirits by a word, and all those sick being He healed,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.15|<< Matthew 8:15]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.17|Matthew 8:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3798\|Ὀψίας]]  [[G1161\|δὲ]]  [[G1096\|γενομένης]]  [[G4374\|προσήνεγκαν]]  [[G0846\|αὐτῷ]]  [[G1139\|δαιμονιζομένους]]  [[G4183\|πολλούς,]]  [[G2532\|καὶ]]  [[G1544\|ἐξέβαλεν]]  [[G3588\|τὰ]]  [[G4151G\|πνεύματα]]  [[G3056\|λόγῳ,]]  [[G2532\|καὶ]]  [[G3956\|πάντας]]  [[G3588\|τοὺς]]  [[G2560\|κακῶς]]  [[G2192\|ἔχοντας]]  [[G2323\|ἐθεράπευσεν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.8.15|<< Matthew 8:15]]</td><td align="center" style="border:none;">[[Matt.8|Matthew 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.8.17|Matthew 8:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

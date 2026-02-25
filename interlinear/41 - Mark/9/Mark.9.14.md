@@ -1,10 +1,57 @@
+---
+title: Mark 9:14
+type: Verse
+kjv: "And when he came to his disciples, he saw a great multitude about them, and the scribes questioning with them."
+bsb: "When they returned to the other disciples, they saw a large crowd around them, and scribes arguing with them."
+greek: "Καὶ ἐλθόντες πρὸς τοὺς μαθητὰς εἶδον ὄχλον πολὺν περὶ αὐτοὺς καὶ γραμματεῖς συζητοῦντας πρὸς αὐτούς."
+pericope: "[[Mark.9.14 The Boy with an Evil Spirit|The Boy with an Evil Spirit]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 9
+book/chapter: "[[Mark.9|Mark 9]]"
+chronological_order: 971
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G2532]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G1492H]]"
+- "[[G3793]]"
+- "[[G4183]]"
+- "[[G4012]]"
+- "[[G0846]]"
+- "[[G1122]]"
+- "[[G4802]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Mark 9:14**<big><big>[[Mark.9.14 The Boy with an Evil Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he came to [his] disciples, he saw a great multitude about them, and the scribes questioning with them.
 <small><sub>**BSB:**</sub></small>
 When they returned to the other disciples, they saw a large crowd around them, and scribes arguing with them.
-<small><sub>**Literal:**</sub></small>
-And having come to the disciples they saw a crowd great around them and scribes arguing with them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.13|<< Mark 9:13]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.15|Mark 9:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2064\|ἐλθόντες]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G1492H\|εἶδον]]  [[G3793\|ὄχλον]]  [[G4183\|πολὺν]]  [[G4012\|περὶ]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G1122\|γραμματεῖς]]  [[G4802\|συζητοῦντας]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.9.13|<< Mark 9:13]]</td><td align="center" style="border:none;">[[Mark.9|Mark 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.9.15|Mark 9:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

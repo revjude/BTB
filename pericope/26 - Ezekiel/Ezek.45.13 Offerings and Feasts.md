@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Offerings and Feasts
+type: Pericope
 pericope: "[[Ezek.45.13 Offerings and Feasts|Offerings and Feasts]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 45
 book/chapter: "[[Ezek.45|Ezekiel 45]]"
-genre:
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 13
 verses:
 - "[[Ezek.45.13]]"
 - "[[Ezek.45.14]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Ezek.45.25]]"
 ---
 
-[[Ezek.45|Ezekiel 45:13 - Ezekiel 45:25]]
+<small>[[Ezek.45|Ezekiel 45:13-25]]</small>
 *Offerings and Feasts*
 
 [[Ezek.45.13|13]] This \[is\] the oblation that ye shall offer; the sixth part of an ephah of an homer of wheat, and ye shall give the sixth part of an ephah of an homer of barley:

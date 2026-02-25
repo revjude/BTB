@@ -1,8 +1,80 @@
+---
+title: 2 Kings 20:13
+type: Verse
+kjv: "And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not."
+bsb: "And Hezekiah received the envoys and showed them all that was in his treasure house—the silver, the gold, the spices, and the precious oil, as well as his armory—all that was found in his storehouses. There was nothing in his palace or in all his dominion that Hezekiah did not show them."
+hebrew: "וַיִּשְׁמַ֣ע עֲלֵיהֶם֮ חִזְקִיָּהוּ֒ וַיַּרְאֵ֣ם אֶת־ כָּל־ בֵּ֣ית נְכֹת֡וֹ אֶת־ הַכֶּסֶף֩ וְאֶת־ הַזָּהָ֨ב וְאֶת־ הַבְּשָׂמִ֜ים וְאֵ֣ת׀ שֶׁ֣מֶן הַטּ֗וֹב וְאֵת֙ בֵּ֣ית כֵּלָ֔יו וְאֵ֛ת כָּל־ אֲשֶׁ֥ר נִמְצָ֖א בְּאֽוֹצְרֹתָ֑יו לֹֽא־ הָיָ֣ה דָבָ֗ר אֲ֠שֶׁר לֹֽא־ הֶרְאָ֧ם חִזְקִיָּ֛הוּ בְּבֵית֖וֹ וּבְכָל־ מֶמְשַׁלְתּֽוֹ׃"
+pericope: "[[2Kgs.20.12 Hezekiah Shows His Treasures|Hezekiah Shows His Treasures]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 20
+book/chapter: "[[2Kgs.20|2 Kings 20]]"
+chronological_order: 658
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONDOLENCE|CONDOLENCE]]"
+- "[[topic CURIOSITY|CURIOSITY]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic OINTMENT|OINTMENT]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic SPICES|SPICES]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic TREASURE-HOUSES|TREASURE-HOUSES]]"
+strongs:
+- "[[H9001]]"
+- "[[H8085L]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H2396G]]"
+- "[[H7200G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H1004B]]"
+- "[[H5238]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H1314]]"
+- "[[H9015]]"
+- "[[H8081]]"
+- "[[H2896A]]"
+- "[[H3627]]"
+- "[[H0834A]]"
+- "[[H4672]]"
+- "[[H9003]]"
+- "[[H0214]]"
+- "[[H3808]]"
+- "[[H1961]]"
+- "[[H1697I]]"
+- "[[H4475]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 20:13**<big><big>[[2Kgs.20.12 Hezekiah Shows His Treasures|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and [all] the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not.
 <small><sub>**BSB:**</sub></small>
 And Hezekiah received the envoys and showed them all that was in his treasure house—the silver, the gold, the spices, and the precious oil, as well as his armory—all that was found in his storehouses. There was nothing in his palace or in all his dominion that Hezekiah did not show them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8085L\|יִּשְׁמַ֣ע]] [[H5921A\|עֲלֵי]][[H9038\|הֶם֮]] [[H2396G\|חִזְקִיָּהוּ֒]] [[H9001\|וַ]][[H7200G\|יַּרְאֵ֣]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H5238\|נְכֹת֡]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3701G\|כֶּסֶף֩]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2091\|זָּהָ֨ב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1314\|בְּשָׂמִ֜ים]] [[H9002\|וְ]][[H0853\|אֵ֣ת]][[H9015\|׀]] [[H8081\|שֶׁ֣מֶן]] [[H9009\|הַ]][[H2896A\|טּ֗וֹב]] [[H9002\|וְ]][[H0853\|אֵת֙]] [[H1004B\|בֵּ֣ית]] [[H3627\|כֵּלָ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H0853\|אֵ֛ת]] [[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H4672\|נִמְצָ֖א]] [[H9003\|בְּ]][[H0214\|אֽוֹצְרֹתָ֑י]][[H9023\|ו]] [[H3808\|לֹֽא]][[H9014\|־]] [[H1961\|הָיָ֣ה]] [[H1697I\|דָבָ֗ר]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7200G\|הֶרְאָ֧]][[H9038\|ם]] [[H2396G\|חִזְקִיָּ֛הוּ]] [[H9003\|בְּ]][[H1004B\|בֵית֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H4475\|מֶמְשַׁלְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDOLENCE|CONDOLENCE]] • [[topic CURIOSITY|CURIOSITY]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic ISAIAH|ISAIAH]] • [[topic OINTMENT|OINTMENT]] • [[topic PRIDE|PRIDE]] • [[topic RICH, THE|RICH, THE]] • [[topic SPICES|SPICES]] • [[topic TEMPTATION|TEMPTATION]] • [[topic TREASURE-HOUSES|TREASURE-HOUSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.20.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.12|<< 2 Kings 20:12]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.14|2 Kings 20:14 >>]]</td></tr></table>
 
@@ -45,7 +117,7 @@ And Hezekiah received the envoys and showed them all that was in his treasure ho
 | realm his  |**<big>&#8207;[[H4475\|מֶמְשַׁלְתּֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mem.shal.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.20.12|<< 2 Kings 20:12]]</td><td align="center" style="border:none;">[[2Kgs.20|2 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.20.14|2 Kings 20:14 >>]]</td></tr></table>
 
-[^1]: treasure his  | **<big>[[H9023|ה]]</big><big>[[H5238|נְכֹתֹ]]</big> ** | ne.kho.To<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: treasure his  | **<big>[[H9023|ה]]</big><big>[[H5238|נְכֹתֹ]]</big> ** | ne.kho.To<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: treasure his  | **<big>[[H5238|נְכֹתֹ]]</big><big>[[H9023|ה]]</big> ** | ne.kho.To<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: treasure his  | **<big>[[H5238|נְכֹתֹ]]</big><big>[[H9023|ה]]</big> ** | ne.kho.To<small><sup>[[HNcbsc]]</sup></small> h<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>נְכֹתֹ֡ה</big></span>**
 

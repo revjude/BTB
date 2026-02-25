@@ -1,8 +1,54 @@
+---
+title: Proverbs 29:9
+type: Verse
+kjv: "If a wise man contendeth with a foolish man, whether he rage or laugh, there is no rest."
+bsb: "If a wise man goes to court with a fool, there will be raving and laughing with no resolution."
+hebrew: "אִֽישׁ־ חָכָ֗ם נִ֭שְׁפָּט אֶת־ אִ֣ישׁ אֱוִ֑יל וְרָגַ֥ז וְ֝שָׂחַ֗ק וְאֵ֣ין נָֽחַת׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic FOOL|FOOL]]"
+strongs:
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H2450]]"
+- "[[H8199]]"
+- "[[H0854]]"
+- "[[H0191]]"
+- "[[H9001]]"
+- "[[H7264]]"
+- "[[H7832]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5183A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:9**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [If] a wise man contendeth with a foolish man, whether he rage or laugh, [there is] no rest.
 <small><sub>**BSB:**</sub></small>
 If a wise man goes to court with a fool, there will be raving and laughing with no resolution.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִֽישׁ]][[H9014\|־]] [[H2450\|חָכָ֗ם]] [[H8199\|נִ֭שְׁפָּט]] [[H0854\|אֶת]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H0191\|אֱוִ֑יל]] [[H9001\|וְ]][[H7264\|רָגַ֥ז]] [[H9001\|וְ֝]][[H7832\|שָׂחַ֗ק]] [[H9002\|וְ]][[H0369\|אֵ֣ין]] [[H5183A\|נָֽחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic FOOL|FOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.8|<< Proverbs 29:8]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.10|Proverbs 29:10 >>]]</td></tr></table>
 

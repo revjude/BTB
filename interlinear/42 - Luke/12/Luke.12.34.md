@@ -1,10 +1,54 @@
+---
+title: Luke 12:34
+type: Verse
+kjv: "For where your treasure is, there will your heart be also."
+bsb: "For where your treasure is, there your heart will be also."
+jesus_said: "For where your treasure is, there will your heart be also."
+greek: "ὅπου γάρ ἐστιν ὁ θησαυρὸς ὑμῶν, ἐκεῖ καὶ ἡ καρδία ὑμῶν ἔσται.¶"
+pericope: "[[Luke.12.32 Treasures in Heaven|Treasures in Heaven]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 12
+book/chapter: "[[Luke.12|Luke 12]]"
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic TREASURE|TREASURE]]"
+strongs:
+- "[[G3699]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2344]]"
+- "[[G4771]]"
+- "[[G1563]]"
+- "[[G2532]]"
+- "[[G2588]]"
+texts:
+- NKO
+---
+
 **Luke 12:34**<big><big>[[Luke.12.32 Treasures in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For where your treasure is, there will your heart be also.
 <small><sub>**BSB:**</sub></small>
 For where your treasure is, there your heart will be also.
-<small><sub>**Literal:**</sub></small>
-Where for is the treasure of you, there also the heart of you will be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.33|<< Luke 12:33]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.35|Luke 12:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3699\|ὅπου]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2344\|θησαυρὸς]]  [[G4771\|ὑμῶν,]]  [[G1563\|ἐκεῖ]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G2588\|καρδία]]  [[G4771\|ὑμῶν]]  [[G1510\|ἔσται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic TREASURE|TREASURE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.12.33|<< Luke 12:33]]</td><td align="center" style="border:none;">[[Luke.12|Luke 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.35|Luke 12:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

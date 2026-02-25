@@ -1,10 +1,52 @@
+---
+title: John 6:30
+type: Verse
+kjv: "They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?"
+bsb: "So they asked Him, “What sign then will You perform, so that we may see it and believe You? What will You do?"
+greek: "Εἶπον οὖν αὐτῷ· τί οὖν ποιεῖς σὺ σημεῖον ἵνα ἴδωμεν καὶ πιστεύσωμέν σοι; τί ἐργάζῃ;"
+pericope: "[[John.6.22 Jesus the Bread of Life|Jesus the Bread of Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 6
+book/chapter: "[[John.6|John 6]]"
+chronological_order: 962
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2036]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G4771]]"
+- "[[G4592]]"
+- "[[G2443]]"
+- "[[G1492H]]"
+- "[[G2532]]"
+- "[[G4100]]"
+- "[[G2038]]"
+texts:
+- NKO
+---
+
 **John 6:30**<big><big>[[John.6.22 Jesus the Bread of Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?
 <small><sub>**BSB:**</sub></small>
 So they asked Him, “What sign then will You perform, so that we may see it and believe You? What will You do?
-<small><sub>**Literal:**</sub></small>
-They said therefore to Him; What then do You yourself [as a] sign that we may see and may believe You? What work do You perform?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.29|<< John 6:29]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.31|John 6:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|Εἶπον]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ·]]  [[G5101\|τί]]  [[G3767\|οὖν]]  [[G4160G\|ποιεῖς]]  [[G4771\|σὺ]]  [[G4592\|σημεῖον]]  [[G2443\|ἵνα]]  [[G1492H\|ἴδωμεν]]  [[G2532\|καὶ]]  [[G4100\|πιστεύσωμέν]]  [[G4771\|σοι;]]  [[G5101\|τί]]  [[G2038\|ἐργάζῃ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.6.29|<< John 6:29]]</td><td align="center" style="border:none;">[[John.6|John 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.6.31|John 6:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

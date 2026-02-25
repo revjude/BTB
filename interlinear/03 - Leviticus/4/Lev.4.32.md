@@ -1,8 +1,61 @@
+---
+title: Leviticus 4:32
+type: Verse
+kjv: "And if he bring a lamb for a sin offering, he shall bring it a female without blemish."
+bsb: "If, however, he brings a lamb as a sin offering, he must bring an unblemished female."
+hebrew: "וְאִם־ כֶּ֛בֶשׂ יָבִ֥יא קָרְבָּנ֖וֹ לְחַטָּ֑את נְקֵבָ֥ה תְמִימָ֖ה יְבִיאֶֽנָּה׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic LAMB|LAMB]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3532]]"
+- "[[H0935P]]"
+- "[[H7133A]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H2403H]]"
+- "[[H5347]]"
+- "[[H8549G]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:32**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if he bring a lamb for a sin offering, he shall bring it a female without blemish.
 <small><sub>**BSB:**</sub></small>
 If, however, he brings a lamb as a sin offering, he must bring an unblemished female.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3532\|כֶּ֛בֶשׂ]] [[H0935P\|יָבִ֥יא]] [[H7133A\|קָרְבָּנ֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H2403H\|חַטָּ֑את]] [[H5347\|נְקֵבָ֥ה]] [[H8549G\|תְמִימָ֖ה]] [[H0935P\|יְבִיאֶֽ]][[H9034\|נָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic IGNORANCE|IGNORANCE]] • [[topic LAMB|LAMB]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.31|<< Leviticus 4:31]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.33|Leviticus 4:33 >>]]</td></tr></table>
 

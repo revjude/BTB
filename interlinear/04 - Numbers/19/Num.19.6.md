@@ -1,8 +1,65 @@
+---
+title: Numbers 19:6
+type: Verse
+kjv: "And the priest shall take cedar wood, and hyssop, and scarlet, and cast it into the midst of the burning of the heifer."
+bsb: "The priest is to take cedar wood, hyssop, and scarlet wool and throw them onto the burning heifer."
+hebrew: "וְלָקַ֣ח הַכֹּהֵ֗ן עֵ֥ץ אֶ֛רֶז וְאֵז֖וֹב וּשְׁנִ֣י תוֹלָ֑עַת וְהִשְׁלִ֕יךְ אֶל־ תּ֖וֹךְ שְׂרֵפַ֥ת הַפָּרָֽה׃"
+pericope: "[[Num.19.1 The Red Heifer|The Red Heifer]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 19
+book/chapter: "[[Num.19|Numbers 19]]"
+chronological_order: 179
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic COLORS|COLORS]]"
+- "[[topic HYSSOP|HYSSOP]]"
+- "[[topic TYPES|TYPES]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H6086G]]"
+- "[[H0730]]"
+- "[[H9002]]"
+- "[[H0231]]"
+- "[[H8144]]"
+- "[[H8438B]]"
+- "[[H7993]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8432]]"
+- "[[H8316]]"
+- "[[H6510]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 19:6**<big><big>[[Num.19.1 The Red Heifer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priest shall take cedar wood, and hyssop, and scarlet, and cast [it] into the midst of the burning of the heifer.
 <small><sub>**BSB:**</sub></small>
 The priest is to take cedar wood, hyssop, and scarlet wool and throw them onto the burning heifer.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3947G\|לָקַ֣ח]] [[H9009\|הַ]][[H3548\|כֹּהֵ֗ן]] [[H6086G\|עֵ֥ץ]] [[H0730\|אֶ֛רֶז]] [[H9002\|וְ]][[H0231\|אֵז֖וֹב]] [[H9002\|וּ]][[H8144\|שְׁנִ֣י]] [[H8438B\|תוֹלָ֑עַת]] [[H9001\|וְ]][[H7993\|הִשְׁלִ֕יךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֖וֹךְ]] [[H8316\|שְׂרֵפַ֥ת]] [[H9009\|הַ]][[H6510\|פָּרָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic COLORS|COLORS]] • [[topic HYSSOP|HYSSOP]] • [[topic TYPES|TYPES]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.19.5|<< Numbers 19:5]]</td><td align="center" style="border:none;">[[Num.19|Numbers 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.19.7|Numbers 19:7 >>]]</td></tr></table>
 

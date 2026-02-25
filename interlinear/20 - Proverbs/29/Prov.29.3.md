@@ -1,8 +1,56 @@
+---
+title: Proverbs 29:3
+type: Verse
+kjv: "Whoso loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth his substance."
+bsb: "A man who loves wisdom brings joy to his father, but a companion of prostitutes squanders his wealth."
+hebrew: "אִֽישׁ־ אֹהֵ֣ב חָ֭כְמָה יְשַׂמַּ֣ח אָבִ֑יו וְרֹעֶ֥ה ז֝וֹנ֗וֹת יְאַבֶּד־ הֽוֹן׃"
+pericope: "[[Prov.29.1 The Flourishing of the Righteous|The Flourishing of the Righteous]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 29
+book/chapter: "[[Prov.29|Proverbs 29]]"
+chronological_order: 484
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H0157G]]"
+- "[[H2451]]"
+- "[[H8055]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7462C]]"
+- "[[H2181]]"
+- "[[H0006]]"
+- "[[H1952]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 29:3**<big><big>[[Prov.29.1 The Flourishing of the Righteous|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whoso loveth wisdom rejoiceth his father: but he that keepeth company with harlots spendeth [his] substance.
 <small><sub>**BSB:**</sub></small>
 A man who loves wisdom brings joy to his father, but a companion of prostitutes squanders his wealth.
+<small><sub>**Hebrew:**</sub></small>
+[[H0376G\|אִֽישׁ]][[H9014\|־]] [[H0157G\|אֹהֵ֣ב]] [[H2451\|חָ֭כְמָה]] [[H8055\|יְשַׂמַּ֣ח]] [[H0001G\|אָבִ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H7462C\|רֹעֶ֥ה]] [[H2181\|ז֝וֹנ֗וֹת]] [[H0006\|יְאַבֶּד]][[H9014\|־]] [[H1952\|הֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHILDREN|CHILDREN]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.29.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.29.2|<< Proverbs 29:2]]</td><td align="center" style="border:none;">[[Prov.29|Proverbs 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.29.4|Proverbs 29:4 >>]]</td></tr></table>
 

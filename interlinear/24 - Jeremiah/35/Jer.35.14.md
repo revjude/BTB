@@ -1,8 +1,78 @@
+---
+title: Jeremiah 35:14
+type: Verse
+kjv: "The words of Jonadab the son of Rechab, that he commanded his sons not to drink wine, are performed; for unto this day they drink none, but obey their father’s commandment: notwithstanding I have spoken unto you, rising early and speaking; but ye hearkened not unto me."
+bsb: "The words of Jonadab son of Rechab have been carried out. He commanded his sons not to drink wine, and they have not drunk it to this very day because they have obeyed the command of their forefather. But I have spoken to you again and again, and you have not obeyed Me!"
+hebrew: "הוּקַ֡ם אֶת־ דִּבְרֵ֣י יְהוֹנָדָ֣ב בֶּן־ רֵ֠כָב אֲשֶׁר־ צִוָּ֨ה אֶת־ בָּנָ֜יו לְבִלְתִּ֣י שְׁתֽוֹת־ יַ֗יִן וְלֹ֤א שָׁתוּ֙ עַד־ הַיּ֣וֹם הַזֶּ֔ה כִּ֣י שָֽׁמְע֔וּ אֵ֖ת מִצְוַ֣ת אֲבִיהֶ֑ם וְאָ֨נֹכִ֜י דִּבַּ֤רְתִּי אֲלֵיכֶם֙ הַשְׁכֵּ֣ם וְדַבֵּ֔ר וְלֹ֥א שְׁמַעְתֶּ֖ם אֵלָֽי׃"
+pericope: "[[Jer.35.12 Judah Rebuked|Judah Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 35
+book/chapter: "[[Jer.35|Jeremiah 35]]"
+chronological_order: 758
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ABSTINENCE|ABSTINENCE]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697G]]"
+- "[[H3082G]]"
+- "[[H1121A]]"
+- "[[H7394H]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H8354]]"
+- "[[H3196]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H8085H]]"
+- "[[H4687]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H0595]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9036]]"
+- "[[H7925]]"
+- "[[H8085G]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 35:14**<big><big>[[Jer.35.12 Judah Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of Jonadab the son of Rechab, that he commanded his sons not to drink wine, are performed; for unto this day they drink none, but obey their father’s commandment: notwithstanding I have spoken unto you, rising early and speaking; but ye hearkened not unto me.
 <small><sub>**BSB:**</sub></small>
 The words of Jonadab son of Rechab have been carried out. He commanded his sons not to drink wine, and they have not drunk it to this very day because they have obeyed the command of their forefather. But I have spoken to you again and again, and you have not obeyed Me!
+<small><sub>**Hebrew:**</sub></small>
+[[H6965I\|הוּקַ֡ם]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דִּבְרֵ֣י]] [[H3082G\|יְהוֹנָדָ֣ב]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7394H\|רֵ֠כָב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6680\|צִוָּ֨ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בָּנָ֜י]][[H9023\|ו]] [[H9005\|לְ]][[H1115\|בִלְתִּ֣י]] [[H8354\|שְׁתֽוֹת]][[H9014\|־]] [[H3196\|יַ֗יִן]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H8354\|שָׁתוּ֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H3588A\|כִּ֣י]] [[H8085H\|שָֽׁמְע֔וּ]] [[H0853\|אֵ֖ת]] [[H4687\|מִצְוַ֣ת]] [[H0001G\|אֲבִי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H0595\|אָ֨נֹכִ֜י]] [[H1696G\|דִּבַּ֤רְתִּי]] [[H0413\|אֲלֵי]][[H9036\|כֶם֙]] [[H7925\|הַשְׁכֵּ֣ם]] [[H9002\|וְ]][[H1696G\|דַבֵּ֔ר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|שְׁמַעְתֶּ֖ם]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABSTINENCE|ABSTINENCE]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic WINE|WINE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.35.13|<< Jeremiah 35:13]]</td><td align="center" style="border:none;">[[Jer.35|Jeremiah 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.35.15|Jeremiah 35:15 >>]]</td></tr></table>
 

@@ -1,6 +1,62 @@
+---
+title: LXX Jeremiah 23:8
+type: Verse
+lxx: "But as the lord lives, who led up and gathered all together the seed of Israel from the land of the north, and from all the places of which they were pushed there; and he restored them unto  their land."
+greek: "αλλά ζη κύριος ος ανήγαγε και συνήγαγε άπαν το σπέρμα Ισραήλ από γης βορρά και από πασών των χωρών ου εξώθησαν εκεί και απεκατέστησεν αυτούς εις την γην αυτών"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 23
+book/chapter: "[[Jer.23|Jeremiah 23]]"
+chronological_order: 746
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[G0235]]"
+- "[[G2198]]"
+- "[[G2962]]"
+- "[[G3739]]"
+- "[[G0321]]"
+- "[[G2532]]"
+- "[[G4863]]"
+- "[[G0537]]"
+- "[[G3588]]"
+- "[[G4690]]"
+- "[[G2474]]"
+- "[[G0575]]"
+- "[[G1093]]"
+- "[[G1005]]"
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G5561]]"
+- "[[G3739]]"
+- "[[G1856]]"
+- "[[G1563]]"
+- "[[G2532]]"
+- "[[G0600]]"
+- "[[G1473]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1473]]"
+---
+
 **LXX Jeremiah 23:8** 
 <small><sub>**LXX:**</sub></small>
 But as \[the\] <span class="smallcaps">lord</span> lives, who led up and gathered all together the seed of Israel from \[the\] land of \[the\] north, and from all the places of which they were pushed there; and he restored them unto  their land. 
+<small><sub>**Greek:**</sub></small>
+[[G0235\|αλλά]] [[G2198\|ζη]] [[G2962\|κύριος]] [[G3739\|ος]] [[G0321\|ανήγαγε]] [[G2532\|και]] [[G4863\|συνήγαγε]] [[G0537\|άπαν]] [[G3588\|το]] [[G4690\|σπέρμα]] [[G2474\|Ισραήλ]] [[G0575\|από]] [[G1093\|γης]] [[G1005\|βορρά]] [[G2532\|και]] [[G0575\|από]] [[G3956\|πασών]] [[G3588\|των]] [[G5561\|χωρών]] [[G3739\|ου]] [[G1856\|εξώθησαν]] [[G1563\|εκεί]] [[G2532\|και]] [[G0600\|απεκατέστησεν]] [[G1473\|αυτούς]] [[G1519\|εις]] [[G3588\|την]] [[G1093\|γην]] [[G1473\|αυτών]]
 <small><sub>**MT:**</sub></small>
 [[Jer.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.7|<< Jeremiah 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.9|Jeremiah 23:9 >>]]</td></tr></table>
 
@@ -33,6 +89,6 @@ But as \[the\] <span class="smallcaps">lord</span> lives, who led up and gathere
 | unto | **<big>[[G1519\|εις]]</big>** |
 | \<obj.> | **<big>[[G3588\|την]]</big>** |
 | their land. | **<big>[[G1093\|γην]]</big>** **<big>[[G1473\|αυτών]]</big>** |
-[[Jer.23.8|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.7|<< Jeremiah 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.9|Jeremiah 23:9 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.23.7|<< Jeremiah 23:7]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.23.9|Jeremiah 23:9 >>]]</td></tr></table>
 
 

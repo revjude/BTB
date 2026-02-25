@@ -1,8 +1,63 @@
+---
+title: Numbers 13:17
+type: Verse
+kjv: "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:"
+bsb: "When Moses sent them to spy out the land of Canaan, he told them, “Go up through the Negev and into the hill country."
+hebrew: "וַיִּשְׁלַ֤ח אֹתָם֙ מֹשֶׁ֔ה לָת֖וּר אֶת־ אֶ֣רֶץ כְּנָ֑עַן וַיֹּ֣אמֶר אֲלֵהֶ֗ם עֲל֥וּ זֶה֙ בַּנֶּ֔גֶב וַעֲלִיתֶ֖ם אֶת־ הָהָֽר׃"
+pericope: "[[Num.13.1 The Spies Explore Canaan|The Spies Explore Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 13
+book/chapter: "[[Num.13|Numbers 13]]"
+chronological_order: 173
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CANAAN|CANAAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4872]]"
+- "[[H9005]]"
+- "[[H8446]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H3667A]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H5927G]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H5045G]]"
+- "[[H9009]]"
+- "[[H2022H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 13:17**<big><big>[[Num.13.1 The Spies Explore Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this [way] southward, and go up into the mountain:
 <small><sub>**BSB:**</sub></small>
 When Moses sent them to spy out the land of Canaan, he told them, “Go up through the Negev and into the hill country.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֤ח]] [[H0853\|אֹתָ]][[H9038\|ם֙]] [[H4872\|מֹשֶׁ֔ה]] [[H9005\|לָ]][[H8446\|ת֖וּר]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אֶ֣רֶץ]] [[H3667A\|כְּנָ֑עַן]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֗ם]] [[H5927G\|עֲל֥וּ]] [[H2088\|זֶה֙]] [[H9003\|בַּ]][[H5045G\|נֶּ֔גֶב]] [[H9001\|וַ]][[H5927G\|עֲלִיתֶ֖ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H2022H\|הָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAAN|CANAAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.13.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.13.16|<< Numbers 13:16]]</td><td align="center" style="border:none;">[[Num.13|Numbers 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.13.18|Numbers 13:18 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 16:3
+type: Verse
+kjv: "And the king said, And where is thy master’s son? And Ziba said unto the king, Behold, he abideth at Jerusalem: for he said, To day shall the house of Israel restore me the kingdom of my father."
+bsb: "“Where is your master’s grandson?” asked the king. And Ziba answered, “Indeed, he is staying in Jerusalem, for he has said, ‘Today, the house of Israel will restore to me the kingdom of my grandfather.’”"
+hebrew: "וַיֹּ֣אמֶר הַמֶּ֔לֶךְ וְאַיֵּ֖ה בֶּן־ אֲדֹנֶ֑יךָ וַיֹּ֨אמֶר צִיבָ֜א אֶל־ הַמֶּ֗לֶךְ הִנֵּה֙ יוֹשֵׁ֣ב בִּירוּשָׁלִַ֔ם כִּ֣י אָמַ֔ר הַיּ֗וֹם יָשִׁ֤יבוּ לִי֙ בֵּ֣ית יִשְׂרָאֵ֔ל אֵ֖ת מַמְלְכ֥וּת אָבִֽי׃"
+pericope: "[[2Sam.16.1 David and Ziba|David and Ziba]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic MEPHIBOSHETH|MEPHIBOSHETH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic ZIBA|ZIBA]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H0346]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H0113]]"
+- "[[H9021]]"
+- "[[H6717]]"
+- "[[H0413]]"
+- "[[H2009]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H3588A]]"
+- "[[H3117G]]"
+- "[[H7725G]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H4468]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 16:3**<big><big>[[2Sam.16.1 David and Ziba|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king said, And where [is] thy master’s son? And Ziba said unto the king, Behold, he abideth at Jerusalem: for he said, To day shall the house of Israel restore me the kingdom of my father.
 <small><sub>**BSB:**</sub></small>
 “Where is your master’s grandson?” asked the king. And Ziba answered, “Indeed, he is staying in Jerusalem, for he has said, ‘Today, the house of Israel will restore to me the kingdom of my grandfather.’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וְ]][[H0346\|אַיֵּ֖ה]] [[H1121G\|בֶּן]][[H9014\|־]] [[H0113\|אֲדֹנֶ֑י]][[H9021\|ךָ]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H6717\|צִיבָ֜א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H2009\|הִנֵּה֙]] [[H3427\|יוֹשֵׁ֣ב]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִַ֔ם]] [[H3588A\|כִּ֣י]] [[H0559\|אָמַ֔ר]] [[H9009\|הַ]][[H3117G\|יּ֗וֹם]] [[H7725G\|יָשִׁ֤יבוּ]] [[H9005\|לִ]][[H9030\|י֙]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0853\|אֵ֖ת]] [[H4468\|מַמְלְכ֥וּת]] [[H0001G\|אָבִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MEPHIBOSHETH|MEPHIBOSHETH]] • [[topic SERVANT|SERVANT]] • [[topic SLANDER|SLANDER]] • [[topic ZIBA|ZIBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.2|<< 2 Samuel 16:2]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.4|2 Samuel 16:4 >>]]</td></tr></table>
 

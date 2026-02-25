@@ -1,8 +1,68 @@
+---
+title: Jeremiah 51:12
+type: Verse
+kjv: "Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the LORD hath both devised and done that which he spake against the inhabitants of Babylon."
+bsb: "Raise a banner against the walls of Babylon; post the guard; station the watchmen; prepare the ambush. For the LORD has both devised and accomplished what He spoke against the people of Babylon."
+hebrew: "אֶל־ חוֹמֹ֨ת בָּבֶ֜ל שְׂאוּ־ נֵ֗ס הַחֲזִ֙יקוּ֙ הַמִּשְׁמָ֔ר הָקִ֙ימוּ֙ שֹֽׁמְרִ֔ים הָכִ֖ינוּ הָאֹֽרְבִ֑ים כִּ֚י גַּם־ זָמַ֣ם יְהוָ֔ה גַּם־ עָשָׂ֕ה אֵ֥ת אֲשֶׁר־ דִּבֶּ֖ר אֶל־ יֹשְׁבֵ֥י בָבֶֽל׃"
+pericope: "[[Jer.51.1 Judgment on Babylon|Judgment on Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMBUSH|AMBUSH]]"
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic STANDARD|STANDARD]]"
+- "[[topic WATCHMAN|WATCHMAN]]"
+strongs:
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H2346G]]"
+- "[[H0894]]"
+- "[[H5375G]]"
+- "[[H5251H]]"
+- "[[H2388G]]"
+- "[[H9009]]"
+- "[[H4929]]"
+- "[[H6965I]]"
+- "[[H8104H]]"
+- "[[H3559A]]"
+- "[[H0693]]"
+- "[[H3588A]]"
+- "[[H1571]]"
+- "[[H2161]]"
+- "[[H3068G]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H3427]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 51:12**<big><big>[[Jer.51.1 Judgment on Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Set up the standard upon the walls of Babylon, make the watch strong, set up the watchmen, prepare the ambushes: for the LORD hath both devised and done that which he spake against the inhabitants of Babylon.
 <small><sub>**BSB:**</sub></small>
 Raise a banner against the walls of Babylon; post the guard; station the watchmen; prepare the ambush. For the LORD has both devised and accomplished what He spoke against the people of Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H0413\|אֶל]][[H9014\|־]] [[H2346G\|חוֹמֹ֨ת]] [[H0894\|בָּבֶ֜ל]] [[H5375G\|שְׂאוּ]][[H9014\|־]] [[H5251H\|נֵ֗ס]] [[H2388G\|הַחֲזִ֙יקוּ֙]] [[H9009\|הַ]][[H4929\|מִּשְׁמָ֔ר]] [[H6965I\|הָקִ֙ימוּ֙]] [[H8104H\|שֹֽׁמְרִ֔ים]] [[H3559A\|הָכִ֖ינוּ]] [[H9009\|הָ]][[H0693\|אֹֽרְבִ֑ים]] [[H3588A\|כִּ֚י]] [[H1571\|גַּם]][[H9014\|־]] [[H2161\|זָמַ֣ם]] [[H3068G\|יְהוָ֔ה]] [[H1571\|גַּם]][[H9014\|־]] [[H6213A\|עָשָׂ֕ה]] [[H0853\|אֵ֥ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבֶּ֖ר]] [[H0413\|אֶל]][[H9014\|־]] [[H3427\|יֹשְׁבֵ֥י]] [[H0894\|בָבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBUSH|AMBUSH]] • [[topic PERSIA|PERSIA]] • [[topic STANDARD|STANDARD]] • [[topic WATCHMAN|WATCHMAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.11|<< Jeremiah 51:11]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.13|Jeremiah 51:13 >>]]</td></tr></table>
 

@@ -1,10 +1,49 @@
+---
+title: Luke 19:28
+type: Verse
+kjv: "And when he had thus spoken, he went before, ascending up to Jerusalem."
+bsb: "After Jesus had said this, He went on ahead, going up to Jerusalem."
+greek: "Καὶ εἰπὼν ταῦτα ἐπορεύετο ἔμπροσθεν ἀναβαίνων εἰς Ἱεροσόλυμα."
+pericope: "[[Luke.19.28 The Triumphal Entry|The Triumphal Entry]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 19
+book/chapter: "[[Luke.19|Luke 19]]"
+chronological_order: 989
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G3778]]"
+- "[[G4198]]"
+- "[[G1715]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G2414]]"
+texts:
+- NKO
+---
+
 **Luke 19:28**<big><big>[[Luke.19.28 The Triumphal Entry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when he had thus spoken, he went before, ascending up to Jerusalem.
 <small><sub>**BSB:**</sub></small>
 After Jesus had said this, He went on ahead, going up to Jerusalem.
-<small><sub>**Literal:**</sub></small>
-And having said these things He was going on ahead going up to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.27|<< Luke 19:27]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.29|Luke 19:29 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2036\|εἰπὼν]]  [[G3778\|ταῦτα]]  [[G4198\|ἐπορεύετο]]  [[G1715\|ἔμπροσθεν]]  [[G0305\|ἀναβαίνων]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.19.27|<< Luke 19:27]]</td><td align="center" style="border:none;">[[Luke.19|Luke 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.19.29|Luke 19:29 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

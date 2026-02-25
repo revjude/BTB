@@ -1,10 +1,59 @@
+---
+title: Mark 5:35
+type: Verse
+kjv: "While he yet spake, there came from the ruler of the synagogue’s house certain which said, Thy daughter is dead: why troublest thou the Master any further?"
+bsb: "While He was still speaking, messengers from the house of Jairus arrived and said, “Your daughter is dead; why bother the Teacher anymore?”"
+greek: "ἔτι αὐτοῦ λαλοῦντος ἔρχονται ἀπὸ τοῦ ἀρχισυναγώγου λέγοντες ὅτι ἡ θυγάτηρ σου ἀπέθανεν· τί ἔτι σκύλλεις τὸν διδάσκαλον;¶"
+pericope: "[[Mark.5.21 The Healing Touch of Jesus|The Healing Touch of Jesus]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 5
+book/chapter: "[[Mark.5|Mark 5]]"
+chronological_order: 958
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JAIRUS|JAIRUS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[G2089]]"
+- "[[G0846]]"
+- "[[G2980]]"
+- "[[G2064]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G0752]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G2364]]"
+- "[[G4771]]"
+- "[[G0599]]"
+- "[[G5101]]"
+- "[[G4660]]"
+- "[[G1320]]"
+texts:
+- NKO
+---
+
 **Mark 5:35**<big><big>[[Mark.5.21 The Healing Touch of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 While he yet spake, there came from the ruler of the synagogue’s [house certain] which said, Thy daughter is dead: why troublest thou the Master any further?
 <small><sub>**BSB:**</sub></small>
 While He was still speaking, messengers from the house of Jairus arrived and said, “Your daughter is dead; why bother the Teacher anymore?”
-<small><sub>**Literal:**</sub></small>
-Still when He is speaking they come from the ruler of synagogue’s [house] saying that The daughter of You is dead; why still trouble you the Teacher?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.34|<< Mark 5:34]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.36|Mark 5:36 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2089\|ἔτι]]  [[G0846\|αὐτοῦ]]  [[G2980\|λαλοῦντος]]  [[G2064\|ἔρχονται]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G0752\|ἀρχισυναγώγου]]  [[G3004G\|λέγοντες]]  [[G3754G\|ὅτι]]  [[G3588\|ἡ]]  [[G2364\|θυγάτηρ]]  [[G4771\|σου]]  [[G0599\|ἀπέθανεν·]]  [[G5101\|τί]]  [[G2089\|ἔτι]]  [[G4660\|σκύλλεις]]  [[G3588\|τὸν]]  [[G1320\|διδάσκαλον;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JAIRUS|JAIRUS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic TROUBLE|TROUBLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.5.34|<< Mark 5:34]]</td><td align="center" style="border:none;">[[Mark.5|Mark 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.5.36|Mark 5:36 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

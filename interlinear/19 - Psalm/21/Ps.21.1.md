@@ -1,8 +1,57 @@
+---
+title: Psalm 21:1
+type: Verse
+kjv: "The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!"
+bsb: "For the choirmaster. A Psalm of David. O LORD, the king rejoices in Your strength. How greatly he exults in Your salvation!"
+hebrew: "יְֽהוָ֗ה בְּעָזְּךָ֥ יִשְׂמַח־ מֶ֑לֶךְ וּ֝בִישׁ֥וּעָתְךָ֗ מַה־ יָּ֥גֶל מְאֹֽד׃"
+pericope: "[[Ps.21.1 After the Battle|After the Battle]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 21
+book/chapter: "[[Ps.21|Psalm 21]]"
+chronological_order: 354
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H5797]]"
+- "[[H9021]]"
+- "[[H8055]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H3444]]"
+- "[[H4100]]"
+- "[[H1523]]"
+- "[[H3966]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Psalms 21:1**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. O LORD, the king rejoices in Your strength. How greatly he exults in Your salvation!
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְֽהוָ֗ה]] [[H9003\|בְּ]][[H5797\|עָזְּ]][[H9021\|ךָ֥]] [[H8055\|יִשְׂמַח]][[H9014\|־]] [[H4428G\|מֶ֑לֶךְ]] [[H9002\|וּ֝]][[H9003\|בִ]][[H3444\|ישׁ֥וּעָתְ]][[H9021\|ךָ֗]] [[H4100\|מַה]][[H9014\|־]] [[H1523\|יָּ֥גֶל]] [[H3966\|מְאֹֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.0|<< Psalms 21:0]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.2|Psalms 21:2 >>]]</td></tr></table>
 

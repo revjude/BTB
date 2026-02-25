@@ -1,8 +1,54 @@
+---
+title: Joshua 8:23
+type: Verse
+kjv: "And the king of Ai they took alive, and brought him to Joshua."
+bsb: "But they took the king of Ai alive and brought him to Joshua."
+hebrew: "וְאֶת־ מֶ֥לֶךְ הָעַ֖י תָּ֣פְשׂוּ חָ֑י וַיַּקְרִ֥בוּ אֹת֖וֹ אֶל־ יְהוֹשֻֽׁעַ׃"
+pericope: "[[Josh.8.1 The Conquest of Ai|The Conquest of Ai]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 8
+book/chapter: "[[Josh.8|Joshua 8]]"
+chronological_order: 238
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic STRATEGY|STRATEGY]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H9009]]"
+- "[[H5857G]]"
+- "[[H8610]]"
+- "[[H2416A]]"
+- "[[H9001]]"
+- "[[H7126H]]"
+- "[[H9033]]"
+- "[[H0413]]"
+- "[[H3091G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 8:23**<big><big>[[Josh.8.1 The Conquest of Ai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king of Ai they took alive, and brought him to Joshua.
 <small><sub>**BSB:**</sub></small>
 But they took the king of Ai alive and brought him to Joshua.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶ֥לֶךְ]] [[H9009\|הָ]][[H5857G\|עַ֖י]] [[H8610\|תָּ֣פְשׂוּ]] [[H2416A\|חָ֑י]] [[H9001\|וַ]][[H7126H\|יַּקְרִ֥בוּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H3091G\|יְהוֹשֻֽׁעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic STRATEGY|STRATEGY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.8.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.8.22|<< Joshua 8:22]]</td><td align="center" style="border:none;">[[Josh.8|Joshua 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.8.24|Joshua 8:24 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Ezekiel 13:5
+type: Verse
+kjv: "Ye have not gone up into the gaps, neither made up the hedge for the house of Israel to stand in the battle in the day of the LORD."
+bsb: "You did not go up to the gaps or restore the wall around the house of Israel so that it would stand in the battle on the Day of the LORD."
+hebrew: "לֹ֤א עֲלִיתֶם֙ בַּפְּרָצ֔וֹת וַתִּגְדְּר֥וּ גָדֵ֖ר עַל־ בֵּ֣ית יִשְׂרָאֵ֑ל לַעֲמֹ֥ד בַּמִּלְחָמָ֖ה בְּי֥וֹם יְהוָֽה׃"
+pericope: "[[Ezek.13.1 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 13
+book/chapter: "[[Ezek.13|Ezekiel 13]]"
+chronological_order: 804
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HEDGE|HEDGE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic LUKEWARMNESS|LUKEWARMNESS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H3808]]"
+- "[[H5927G]]"
+- "[[H9003]]"
+- "[[H6556]]"
+- "[[H9001]]"
+- "[[H1443]]"
+- "[[H1447]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H5975G]]"
+- "[[H4421]]"
+- "[[H3117G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 13:5**<big><big>[[Ezek.13.1 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye have not gone up into the gaps, neither made up the hedge for the house of Israel to stand in the battle in the day of the LORD.
 <small><sub>**BSB:**</sub></small>
 You did not go up to the gaps or restore the wall around the house of Israel so that it would stand in the battle on the Day of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֤א]] [[H5927G\|עֲלִיתֶם֙]] [[H9003\|בַּ]][[H6556\|פְּרָצ֔וֹת]] [[H9001\|וַ]][[H1443\|תִּגְדְּר֥וּ]] [[H1447\|גָדֵ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9005\|לַ]][[H5975G\|עֲמֹ֥ד]] [[H9003\|בַּ]][[H4421\|מִּלְחָמָ֖ה]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEDGE|HEDGE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic LUKEWARMNESS|LUKEWARMNESS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.13.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.13.4|<< Ezekiel 13:4]]</td><td align="center" style="border:none;">[[Ezek.13|Ezekiel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.13.6|Ezekiel 13:6 >>]]</td></tr></table>
 

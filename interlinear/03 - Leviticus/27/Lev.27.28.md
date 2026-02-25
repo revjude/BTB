@@ -1,8 +1,70 @@
+---
+title: Leviticus 27:28
+type: Verse
+kjv: "Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, both of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing is most holy unto the LORD."
+bsb: "Nothing that a man sets apart to the LORD from all he owns—whether a man, an animal, or his inherited land—can be sold or redeemed; everything so devoted is most holy to the LORD."
+hebrew: "אַךְ־ כָּל־ חֵ֡רֶם אֲשֶׁ֣ר יַחֲרִם֩ אִ֨ישׁ לַֽיהוָ֜ה מִכָּל־ אֲשֶׁר־ ל֗וֹ מֵאָדָ֤ם וּבְהֵמָה֙ וּמִשְּׂדֵ֣ה אֲחֻזָּת֔וֹ לֹ֥א יִמָּכֵ֖ר וְלֹ֣א יִגָּאֵ֑ל כָּל־ חֵ֕רֶם קֹֽדֶשׁ־ קָֽדָשִׁ֥ים ה֖וּא לַיהוָֽה׃"
+pericope: "[[Lev.27.1 Rules about Valuations|Rules about Valuations]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 27
+book/chapter: "[[Lev.27|Leviticus 27]]"
+chronological_order: 159
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic DEDICATION|DEDICATION]]"
+- "[[topic PROPERTY|PROPERTY]]"
+- "[[topic REDEMPTION|REDEMPTION]]"
+strongs:
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H2764A]]"
+- "[[H0834A]]"
+- "[[H2763A]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H9033]]"
+- "[[H0120G]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H7704G]]"
+- "[[H0272]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H4376]]"
+- "[[H1350A]]"
+- "[[H6944G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 27:28**<big><big>[[Lev.27.1 Rules about Valuations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, [both] of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing [is] most holy unto the LORD.
 <small><sub>**BSB:**</sub></small>
 Nothing that a man sets apart to the LORD from all he owns—whether a man, an animal, or his inherited land—can be sold or redeemed; everything so devoted is most holy to the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַךְ]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H2764A\|חֵ֡רֶם]] [[H0834A\|אֲשֶׁ֣ר]] [[H2763A\|יַחֲרִם֩]] [[H0376I\|אִ֨ישׁ]] [[H9005\|לַֽ]][[H3068G\|יהוָ֜ה]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H9006\|מֵ]][[H0120G\|אָדָ֤ם]] [[H9002\|וּ]][[H0929\|בְהֵמָה֙]] [[H9002\|וּ]][[H9006\|מִ]][[H7704G\|שְּׂדֵ֣ה]] [[H0272\|אֲחֻזָּת֔]][[H9023\|וֹ]] [[H3808\|לֹ֥א]] [[H4376\|יִמָּכֵ֖ר]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H1350A\|יִגָּאֵ֑ל]] [[H3605\|כָּל]][[H9014\|־]] [[H2764A\|חֵ֕רֶם]] [[H6944G\|קֹֽדֶשׁ]][[H9014\|־]] [[H6944G\|קָֽדָשִׁ֥ים]] [[H1931\|ה֖וּא]] [[H9005\|לַ]][[H3068G\|יהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEDICATION|DEDICATION]] • [[topic PROPERTY|PROPERTY]] • [[topic REDEMPTION|REDEMPTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.27.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.27.27|<< Leviticus 27:27]]</td><td align="center" style="border:none;">[[Lev.27|Leviticus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.27.29|Leviticus 27:29 >>]]</td></tr></table>
 

@@ -1,8 +1,73 @@
+---
+title: Daniel 1:15
+type: Verse
+kjv: "And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king’s meat."
+bsb: "And at the end of ten days, they looked healthier and better nourished than all the young men who were eating the king’s food."
+hebrew: "וּמִקְצָת֙ יָמִ֣ים עֲשָׂרָ֔ה נִרְאָ֤ה מַרְאֵיהֶם֙ ט֔וֹב וּבְרִיאֵ֖י בָּשָׂ֑ר מִן־ כָּל־ הַיְלָדִ֔ים הָאֹ֣כְלִ֔ים אֵ֖ת פַּתְבַּ֥ג הַמֶּֽלֶךְ׃"
+pericope: "[[Dan.1.8 Daniel’s Faithfulness|Daniel’s Faithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]]"
+- "[[topic APPETITE|APPETITE]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic COUNTENANCE|COUNTENANCE]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MELZAR|MELZAR]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic SCHOOL|SCHOOL]]"
+- "[[topic TEMPERANCE|TEMPERANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H7117]]"
+- "[[H3117G]]"
+- "[[H6235]]"
+- "[[H7200G]]"
+- "[[H4758]]"
+- "[[H9028]]"
+- "[[H2896A]]"
+- "[[H1277]]"
+- "[[H1320]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H3206]]"
+- "[[H0398]]"
+- "[[H0853]]"
+- "[[H6598]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:15**<big><big>[[Dan.1.8 Daniel’s Faithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king’s meat.
 <small><sub>**BSB:**</sub></small>
 And at the end of ten days, they looked healthier and better nourished than all the young men who were eating the king’s food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H7117\|קְצָת֙]] [[H3117G\|יָמִ֣ים]] [[H6235\|עֲשָׂרָ֔ה]] [[H7200G\|נִרְאָ֤ה]] [[H4758\|מַרְאֵי]][[H9028\|הֶם֙]] [[H2896A\|ט֔וֹב]] [[H9002\|וּ]][[H1277\|בְרִיאֵ֖י]] [[H1320\|בָּשָׂ֑ר]] [[H4480A\|מִן]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3206\|יְלָדִ֔ים]] [[H9009\|הָ]][[H0398\|אֹ֣כְלִ֔ים]] [[H0853\|אֵ֖ת]] [[H6598\|פַּתְבַּ֥ג]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic ABSTEMIOUSNESS|ABSTEMIOUSNESS]] • [[topic APPETITE|APPETITE]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic COUNTENANCE|COUNTENANCE]] • [[topic DANIEL|DANIEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MELZAR|MELZAR]] • [[topic MISHAEL|MISHAEL]] • [[topic SCHOOL|SCHOOL]] • [[topic TEMPERANCE|TEMPERANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.14|<< Daniel 1:14]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.16|Daniel 1:16 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Exodus 33:22
+type: Verse
+kjv: "And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by:"
+bsb: "and when My glory passes by, I will put you in a cleft of the rock and cover you with My hand until I have passed by."
+hebrew: "וְהָיָה֙ בַּעֲבֹ֣ר כְּבֹדִ֔י וְשַׂמְתִּ֖יךָ בְּנִקְרַ֣ת הַצּ֑וּר וְשַׂכֹּתִ֥י כַפִּ֛י עָלֶ֖יךָ עַד־ עָבְרִֽי׃"
+pericope: "[[Exod.33.12 The Promise of God’s Presence|The Promise of God’s Presence]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5674A]]"
+- "[[H3519]]"
+- "[[H9020]]"
+- "[[H7760H]]"
+- "[[H9031]]"
+- "[[H5366]]"
+- "[[H9009]]"
+- "[[H6697H]]"
+- "[[H5526E]]"
+- "[[H3709G]]"
+- "[[H5921A]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9040]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 33:22**<big><big>[[Exod.33.12 The Promise of God’s Presence|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall come to pass, while my glory passeth by, that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by:
 <small><sub>**BSB:**</sub></small>
 and when My glory passes by, I will put you in a cleft of the rock and cover you with My hand until I have passed by.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָה֙]] [[H9003\|בַּ]][[H5674A\|עֲבֹ֣ר]] [[H3519\|כְּבֹדִ֔]][[H9020\|י]] [[H9001\|וְ]][[H7760H\|שַׂמְתִּ֖י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H5366\|נִקְרַ֣ת]] [[H9009\|הַ]][[H6697H\|צּ֑וּר]] [[H9001\|וְ]][[H5526E\|שַׂכֹּתִ֥י]] [[H3709G\|כַפִּ֛]][[H9020\|י]] [[H5921A\|עָלֶ֖י]][[H9031\|ךָ]] [[H5704\|עַד]][[H9014\|־]] [[H5674A\|עָבְרִֽ]][[H9040\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.21|<< Exodus 33:21]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.23|Exodus 33:23 >>]]</td></tr></table>
 

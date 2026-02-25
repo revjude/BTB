@@ -1,8 +1,51 @@
+---
+title: 2 Chronicles 27:4
+type: Verse
+kjv: "Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers."
+bsb: "He also built cities in the hill country of Judah and fortresses and towers in the forests."
+hebrew: "וְעָרִ֥ים בָּנָ֖ה בְּהַר־ יְהוּדָ֑ה וּבֶחֳרָשִׁ֣ים בָּנָ֔ה בִּֽירָנִיּ֖וֹת וּמִגְדָּלִֽים׃"
+pericope: "[[2Chr.27.1 Jotham Reigns in Judah|Jotham Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 27
+book/chapter: "[[2Chr.27|2 Chronicles 27]]"
+chronological_order: 608
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CASTLE|CASTLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H5892B]]"
+- "[[H1129]]"
+- "[[H9003]]"
+- "[[H2022H]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H2793H]]"
+- "[[H1003]]"
+- "[[H4026M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 27:4**<big><big>[[2Chr.27.1 Jotham Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers.
 <small><sub>**BSB:**</sub></small>
 He also built cities in the hill country of Judah and fortresses and towers in the forests.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5892B\|עָרִ֥ים]] [[H1129\|בָּנָ֖ה]] [[H9003\|בְּ]][[H2022H\|הַר]][[H9014\|־]] [[H3063G\|יְהוּדָ֑ה]] [[H9002\|וּ]][[H9003\|בֶ]][[H2793H\|חֳרָשִׁ֣ים]] [[H1129\|בָּנָ֔ה]] [[H1003\|בִּֽירָנִיּ֖וֹת]] [[H9002\|וּ]][[H4026M\|מִגְדָּלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CASTLE|CASTLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.27.3|<< 2 Chronicles 27:3]]</td><td align="center" style="border:none;">[[2Chr.27|2 Chronicles 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.27.5|2 Chronicles 27:5 >>]]</td></tr></table>
 

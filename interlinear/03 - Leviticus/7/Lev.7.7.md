@@ -1,8 +1,62 @@
+---
+title: Leviticus 7:7
+type: Verse
+kjv: "As the sin offering is, so is the trespass offering: there is one law for them: the priest that maketh atonement therewith shall have it."
+bsb: "The guilt offering is like the sin offering; the same law applies to both. It belongs to the priest who makes atonement with it."
+hebrew: "כַּֽחַטָּאת֙ כָּֽאָשָׁ֔ם תּוֹרָ֥ה אַחַ֖ת לָהֶ֑ם הַכֹּהֵ֛ן אֲשֶׁ֥ר יְכַפֶּר־ בּ֖וֹ ל֥וֹ יִהְיֶֽה׃"
+pericope: "[[Lev.7.1 The Guilt Offering|The Guilt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9004]]"
+- "[[H2403H]]"
+- "[[H0817]]"
+- "[[H8451]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0834A]]"
+- "[[H3722A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:7**<big><big>[[Lev.7.1 The Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As the sin offering [is], so [is] the trespass offering: [there is] one law for them: the priest that maketh atonement therewith shall have [it].
 <small><sub>**BSB:**</sub></small>
 The guilt offering is like the sin offering; the same law applies to both. It belongs to the priest who makes atonement with it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּֽ]][[H2403H\|חַטָּאת֙]] [[H9004\|כָּֽ]][[H0817\|אָשָׁ֔ם]] [[H8451\|תּוֹרָ֥ה]] [[H0259\|אַחַ֖ת]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H0834A\|אֲשֶׁ֥ר]] [[H3722A\|יְכַפֶּר]][[H9014\|־]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.6|<< Leviticus 7:6]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.8|Leviticus 7:8 >>]]</td></tr></table>
 

@@ -1,10 +1,61 @@
+---
+title: Romans 15:9
+type: Verse
+kjv: "And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name."
+bsb: "so that the Gentiles may glorify God for His mercy. As it is written: “Therefore I will praise You among the Gentiles; I will sing hymns to Your name.”"
+greek: "τὰ δὲ ἔθνη ὑπὲρ ἐλέους δοξάσαι τὸν θεὸν καθὼς γέγραπται· διὰ τοῦτο ἐξομολογήσομαί σοι ἐν ἔθνεσιν καὶ τῷ ὀνόματί σου ψαλῶ."
+pericope: "[[Rom.15.7 Christ the Servant of Jews and Gentiles|Christ the Servant of Jews and Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GLORIFYING GOD|GLORIFYING GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1484]]"
+- "[[G5228]]"
+- "[[G1656]]"
+- "[[G1392]]"
+- "[[G2316]]"
+- "[[G2531]]"
+- "[[G1125]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1843]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G2532]]"
+- "[[G3686]]"
+- "[[G5567]]"
+texts:
+- NKO
+---
+
 **Romans 15:9**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And that the Gentiles might glorify God for [his] mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name.
 <small><sub>**BSB:**</sub></small>
 so that the Gentiles may glorify God for His mercy. As it is written: “Therefore I will praise You among the Gentiles; I will sing hymns to Your name.”
-<small><sub>**Literal:**</sub></small>
-<the> and [for] the Gentiles for mercy to glorify <the> God even as it has been written: Because of this I will praise You among [the] Gentiles and to the name of You will I sing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.8|<< Romans 15:8]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.10|Romans 15:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰ]]  [[G1161\|δὲ]]  [[G1484\|ἔθνη]]  [[G5228\|ὑπὲρ]]  [[G1656\|ἐλέους]]  [[G1392\|δοξάσαι]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2531\|καθὼς]]  [[G1125\|γέγραπται·]]  [[G1223\|διὰ]]  [[G3778\|τοῦτο]]  [[G1843\|ἐξομολογήσομαί]]  [[G4771\|σοι]]  [[G1722\|ἐν]]  [[G1484\|ἔθνεσιν]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματί]]  [[G4771\|σου]]  [[G5567\|ψαλῶ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENTILES|GENTILES]] • [[topic GLORIFYING GOD|GLORIFYING GOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SALVATION|SALVATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.8|<< Romans 15:8]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.10|Romans 15:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Romans 15:9** is...
 > $\quad$ referencing: [[LXX.2Sam.22.50|2Sam 22:50]] ☩ [[LXX.Ps.18.49|Ps 18:49]]

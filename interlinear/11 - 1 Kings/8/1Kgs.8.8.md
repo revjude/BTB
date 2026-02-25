@@ -1,8 +1,67 @@
+---
+title: 1 Kings 8:8
+type: Verse
+kjv: "And they drew out the staves, that the ends of the staves were seen out in the holy place before the oracle, and they were not seen without: and there they are unto this day."
+bsb: "The poles extended far enough that their ends were visible from the Holy Place in front of the inner sanctuary, but not from outside the Holy Place; and they are there to this day."
+hebrew: "וַֽיַּאֲרִכוּ֮ הַבַּדִּים֒ וַיֵּרָאוּ֩ רָאשֵׁ֨י הַבַּדִּ֤ים מִן־ הַקֹּ֙דֶשׁ֙ עַל־ פְּנֵ֣י הַדְּבִ֔יר וְלֹ֥א יֵרָא֖וּ הַח֑וּצָה וַיִּ֣הְיוּ שָׁ֔ם עַ֖ד הַיּ֥וֹם הַזֶּֽה׃"
+pericope: "[[1Kgs.8.1 The Ark Enters the Temple|The Ark Enters the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H9001]]"
+- "[[H0748]]"
+- "[[H9009]]"
+- "[[H0905G]]"
+- "[[H7200G]]"
+- "[[H7218I]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H6944J]]"
+- "[[H5921A]]"
+- "[[H6440G]]"
+- "[[H1687]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2351]]"
+- "[[H9011]]"
+- "[[H1961]]"
+- "[[H8033G]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 8:8**<big><big>[[1Kgs.8.1 The Ark Enters the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they drew out the staves, that the ends of the staves were seen out in the holy [place] before the oracle, and they were not seen without: and there they are unto this day.
 <small><sub>**BSB:**</sub></small>
 The poles extended far enough that their ends were visible from the Holy Place in front of the inner sanctuary, but not from outside the Holy Place; and they are there to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H0748\|יַּאֲרִכוּ֮]] [[H9009\|הַ]][[H0905G\|בַּדִּים֒]] [[H9001\|וַ]][[H7200G\|יֵּרָאוּ֩]] [[H7218I\|רָאשֵׁ֨י]] [[H9009\|הַ]][[H0905G\|בַּדִּ֤ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6944J\|קֹּ֙דֶשׁ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֣י]] [[H9009\|הַ]][[H1687\|דְּבִ֔יר]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7200G\|יֵרָא֖וּ]] [[H9009\|הַ]][[H2351\|ח֑וּצָ]][[H9011\|ה]] [[H9001\|וַ]][[H1961\|יִּ֣הְיוּ]] [[H8033G\|שָׁ֔ם]] [[H5704\|עַ֖ד]] [[H9009\|הַ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CHURCH|CHURCH]] • [[topic TEMPLE|TEMPLE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.7|<< 1 Kings 8:7]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.9|1 Kings 8:9 >>]]</td></tr></table>
 

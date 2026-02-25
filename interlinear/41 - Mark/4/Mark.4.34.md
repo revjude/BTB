@@ -1,10 +1,53 @@
+---
+title: Mark 4:34
+type: Verse
+kjv: "But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples."
+bsb: "He did not tell them anything without using a parable. But privately He explained everything to His own disciples."
+greek: "χωρὶς δὲ παραβολῆς οὐκ ἐλάλει αὐτοῖς· κατ᾽ ἰδίαν δὲ τοῖς ἰδίοις μαθηταῖς ἐπέλυεν πάντα.¶"
+pericope: "[[Mark.4.30 The Parable of the Mustard Seed|The Parable of the Mustard Seed]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G5565]]"
+- "[[G1161]]"
+- "[[G3850]]"
+- "[[G3756]]"
+- "[[G2980]]"
+- "[[G0846]]"
+- "[[G2596]]"
+- "[[G2398]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G1956]]"
+- "[[G3956]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Mark 4:34**<big><big>[[Mark.4.30 The Parable of the Mustard Seed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples.
 <small><sub>**BSB:**</sub></small>
 He did not tell them anything without using a parable. But privately He explained everything to His own disciples.
-<small><sub>**Literal:**</sub></small>
-Without then parables not was He speaking to them; in private however <the> to [His] own disciples He was explaining all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.33|<< Mark 4:33]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.35|Mark 4:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5565\|χωρὶς]]  [[G1161\|δὲ]]  [[G3850\|παραβολῆς]]  [[G3756\|οὐκ]]  [[G2980\|ἐλάλει]]  [[G0846\|αὐτοῖς·]]  [[G2596\|κατ᾽]]  [[G2398\|ἰδίαν]]  [[G1161\|δὲ]]  [[G3588\|τοῖς]]  [[G2398\|ἰδίοις]]  [[G3101\|μαθηταῖς]]  [[G1956\|ἐπέλυεν]]  [[G3956\|πάντα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.33|<< Mark 4:33]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.35|Mark 4:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Kings Defeated West of the Jordan
+type: Pericope
 pericope: "[[Josh.12.7 The Kings Defeated West of the Jordan|The Kings Defeated West of the Jordan]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Joshua
 chapter: 12
 book/chapter: "[[Josh.12|Joshua 12]]"
-genre:
+chronological_order: 242
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
 - former prophets
 - narrative
 - conquest narrative
 - deuteronomistic history
+verse_count: 18
 verses:
 - "[[Josh.12.7]]"
 - "[[Josh.12.8]]"
@@ -36,7 +43,7 @@ verses:
 - "[[Josh.12.24]]"
 ---
 
-[[Josh.12|Joshua 12:7 - Joshua 12:24]]
+<small>[[Josh.12|Joshua 12:7-24]]</small>
 *The Kings Defeated West of the Jordan*
 
 [[Josh.12.7|7]] And these \[are\] the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel \[for\] a possession according to their divisions;

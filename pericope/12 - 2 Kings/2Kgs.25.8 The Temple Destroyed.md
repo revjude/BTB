@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Temple Destroyed
+type: Pericope
 pericope: "[[2Kgs.25.8 The Temple Destroyed|The Temple Destroyed]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 25
 book/chapter: "[[2Kgs.25|2 Kings 25]]"
-genre:
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 10
 verses:
 - "[[2Kgs.25.8]]"
 - "[[2Kgs.25.9]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Kgs.25.17]]"
 ---
 
-[[2Kgs.25|2 Kings 25:8 - 2 Kings 25:17]]
+<small>[[2Kgs.25|2 Kings 25:8-17]]</small>
 *The Temple Destroyed*
 
 [[2Kgs.25.8|8]] And in the fifth month, on the seventh \[day\] of the month, which \[is\] the nineteenth year of king Nebuchadnezzar king of Babylon, came Nebuzaradan, captain of the guard, a servant of the king of Babylon, unto Jerusalem:

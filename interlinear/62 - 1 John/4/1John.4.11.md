@@ -1,10 +1,54 @@
+---
+title: 1 John 4:11
+type: Verse
+kjv: "Beloved, if God so loved us, we ought also to love one another."
+bsb: "Beloved, if God so loved us, we also ought to love one another."
+greek: "Ἀγαπητοί, εἰ οὕτως ὁ θεὸς ἠγάπησεν ἡμᾶς, καὶ ἡμεῖς ὀφείλομεν ἀλλήλους ἀγαπᾶν·"
+pericope: "[[1John.4.7 Love Comes from God|Love Comes from God]]"
+original_language: Greek
+testament: New
+book: 1 John
+chapter: 4
+book/chapter: "[[1John.4|1 John 4]]"
+chronological_order: 1164
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- theological treatise
+- polemical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[G0027]]"
+- "[[G1487G]]"
+- "[[G3779]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0025]]"
+- "[[G3165]]"
+- "[[G2532]]"
+- "[[G3784]]"
+- "[[G0240]]"
+texts:
+- NKO
+---
+
 **1 John 4:11**<big><big>[[1John.4.7 Love Comes from God|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Beloved, if God so loved us, we ought also to love one another.
 <small><sub>**BSB:**</sub></small>
 Beloved, if God so loved us, we also ought to love one another.
-<small><sub>**Literal:**</sub></small>
-Beloved, if so <the> God loved us, also we ourselves ought one another to love;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.10|<< 1 John 4:10]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.12|1 John 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|Ἀγαπητοί,]]  [[G1487G\|εἰ]]  [[G3779\|οὕτως]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0025\|ἠγάπησεν]]  [[G3165\|ἡμᾶς,]]  [[G2532\|καὶ]]  [[G3165\|ἡμεῖς]]  [[G3784\|ὀφείλομεν]]  [[G0240\|ἀλλήλους]]  [[G0025\|ἀγαπᾶν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic LOVE|LOVE]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1John.4.10|<< 1 John 4:10]]</td><td align="center" style="border:none;">[[1John.4|1 John 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1John.4.12|1 John 4:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoiakim Burns the Scroll
+type: Pericope
 pericope: "[[Jer.36.20 Jehoiakim Burns the Scroll|Jehoiakim Burns the Scroll]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 36
 book/chapter: "[[Jer.36|Jeremiah 36]]"
-genre:
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 7
 verses:
 - "[[Jer.36.20]]"
 - "[[Jer.36.21]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Jer.36.26]]"
 ---
 
-[[Jer.36|Jeremiah 36:20 - Jeremiah 36:26]]
+<small>[[Jer.36|Jeremiah 36:20-26]]</small>
 *Jehoiakim Burns the Scroll*
 
 [[Jer.36.20|20]] And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king.

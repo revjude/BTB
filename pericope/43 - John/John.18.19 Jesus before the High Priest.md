@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus before the High Priest
+type: Pericope
 pericope: "[[John.18.19 Jesus before the High Priest|Jesus before the High Priest]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: John
 chapter: 18
 book/chapter: "[[John.18|John 18]]"
-genre:
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 6
 verses:
 - "[[John.18.19]]"
 - "[[John.18.20]]"
@@ -24,7 +31,7 @@ verses:
 - "[[John.18.24]]"
 ---
 
-[[John.18|John 18:19 - John 18:24]]
+<small>[[John.18|John 18:19-24]]</small>
 *Jesus before the High Priest*
 
 [[John.18.19|19]] The high priest then asked Jesus of his disciples, and of his doctrine.

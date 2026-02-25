@@ -1,8 +1,79 @@
+---
+title: Deuteronomy 9:23
+type: Verse
+kjv: "Likewise when the LORD sent you from Kadeshbarnea, saying, Go up and possess the land which I have given you; then ye rebelled against the commandment of the LORD your God, and ye believed him not, nor hearkened to his voice."
+bsb: "And when the LORD sent you out from Kadesh-barnea, He said, “Go up and possess the land that I have given you.” But you rebelled against the command of the LORD your God. You neither believed Him nor obeyed Him."
+hebrew: "וּבִשְׁלֹ֨חַ יְהוָ֜ה אֶתְכֶ֗ם מִקָּדֵ֤שׁ בַּרְנֵ֙עַ֙ לֵאמֹ֔ר עֲלוּ֙ וּרְשׁ֣וּ אֶת־ הָאָ֔רֶץ אֲשֶׁ֥ר נָתַ֖תִּי לָכֶ֑ם וַתַּמְר֗וּ אֶת־ פִּ֤י יְהוָה֙ אֱלֹ֣הֵיכֶ֔ם וְלֹ֤א הֶֽאֱמַנְתֶּם֙ ל֔וֹ וְלֹ֥א שְׁמַעְתֶּ֖ם בְּקֹלֽוֹ׃"
+pericope: "[[Deut.9.7 The Golden Calf|The Golden Calf]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 9
+book/chapter: "[[Deut.9|Deuteronomy 9]]"
+chronological_order: 205
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H7971G]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9006]]"
+- "[[H6947]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5927G]]"
+- "[[H3423H]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H9001]]"
+- "[[H4784]]"
+- "[[H6310I]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H3808]]"
+- "[[H0539]]"
+- "[[H9033]]"
+- "[[H8085H]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 9:23**<big><big>[[Deut.9.7 The Golden Calf|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Likewise when the LORD sent you from Kadeshbarnea, saying, Go up and possess the land which I have given you; then ye rebelled against the commandment of the LORD your God, and ye believed him not, nor hearkened to his voice.
 <small><sub>**BSB:**</sub></small>
 And when the LORD sent you out from Kadesh-barnea, He said, “Go up and possess the land that I have given you.” But you rebelled against the command of the LORD your God. You neither believed Him nor obeyed Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בִ]][[H7971G\|שְׁלֹ֨חַ]] [[H3068G\|יְהוָ֜ה]] [[H0853\|אֶתְ]][[H9036\|כֶ֗ם]] [[H9006\|מִ]][[H6947\|קָּדֵ֤שׁ]] [[H6947\|בַּרְנֵ֙עַ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H5927G\|עֲלוּ֙]] [[H9002\|וּ]][[H3423H\|רְשׁ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414G\|נָתַ֖תִּי]] [[H9005\|לָ]][[H9036\|כֶ֑ם]] [[H9001\|וַ]][[H4784\|תַּמְר֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H6310I\|פִּ֤י]] [[H3068G\|יְהוָה֙]] [[H0430G\|אֱלֹ֣הֵי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H0539\|הֶֽאֱמַנְתֶּם֙]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085H\|שְׁמַעְתֶּ֖ם]] [[H9003\|בְּ]][[H6963A\|קֹלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUMILITY|HUMILITY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic REPROOF|REPROOF]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.9.22|<< Deuteronomy 9:22]]</td><td align="center" style="border:none;">[[Deut.9|Deuteronomy 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.9.24|Deuteronomy 9:24 >>]]</td></tr></table>
 

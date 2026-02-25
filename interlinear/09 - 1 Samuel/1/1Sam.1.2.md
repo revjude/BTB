@@ -1,8 +1,58 @@
+---
+title: 1 Samuel 1:2
+type: Verse
+kjv: "And he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children."
+bsb: "He had two wives, one named Hannah and the other Peninnah. And Peninnah had children, but Hannah had none."
+hebrew: "וְלוֹ֙ שְׁתֵּ֣י נָשִׁ֔ים שֵׁ֤ם אַחַת֙ חַנָּ֔ה וְשֵׁ֥ם הַשֵּׁנִ֖ית פְּנִנָּ֑ה וַיְהִ֤י לִפְנִנָּה֙ יְלָדִ֔ים וּלְחַנָּ֖ה אֵ֥ין יְלָדִֽים׃"
+pericope: "[[1Sam.1.1 Elkanah and His Wives|Elkanah and His Wives]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic PENINNAH|PENINNAH]]"
+- "[[topic POLYGAMY|POLYGAMY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8147]]"
+- "[[H0802H]]"
+- "[[H8034]]"
+- "[[H0259]]"
+- "[[H2584]]"
+- "[[H9009]]"
+- "[[H8145]]"
+- "[[H6444]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3206]]"
+- "[[H0369]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:2**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he had two wives; the name of the one [was] Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.
 <small><sub>**BSB:**</sub></small>
 He had two wives, one named Hannah and the other Peninnah. And Peninnah had children, but Hannah had none.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|ל]][[H9033\|וֹ֙]] [[H8147\|שְׁתֵּ֣י]] [[H0802H\|נָשִׁ֔ים]] [[H8034\|שֵׁ֤ם]] [[H0259\|אַחַת֙]] [[H2584\|חַנָּ֔ה]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H9009\|הַ]][[H8145\|שֵּׁנִ֖ית]] [[H6444\|פְּנִנָּ֑ה]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9005\|לִ]][[H6444\|פְנִנָּה֙]] [[H3206\|יְלָדִ֔ים]] [[H9002\|וּ]][[H9005\|לְ]][[H2584\|חַנָּ֖ה]] [[H0369\|אֵ֥ין]] [[H3206\|יְלָדִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HANNAH|HANNAH]] • [[topic PENINNAH|PENINNAH]] • [[topic POLYGAMY|POLYGAMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.1.1|<< 1 Samuel 1:1]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.3|1 Samuel 1:3 >>]]</td></tr></table>
 

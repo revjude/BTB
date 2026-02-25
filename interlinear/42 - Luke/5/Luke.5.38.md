@@ -1,10 +1,55 @@
+---
+title: Luke 5:38
+type: Verse
+kjv: "But new wine must be put into new bottles; and both are preserved."
+bsb: "Instead, new wine is poured into new wineskins."
+jesus_said: "But new wine must be put into new bottles; and both are preserved."
+greek: "ἀλλ᾽ οἶνον νέον εἰς ἀσκοὺς καινοὺς βλητέον καὶ ἀμφότεροι συντηροῦνται."
+pericope: "[[Luke.5.36 The Patches and the Wineskins|The Patches and the Wineskins]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BOTTLE|BOTTLE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WINE|WINE]]"
+strongs:
+- "[[G0235]]"
+- "[[G3631]]"
+- "[[G3501]]"
+- "[[G1519]]"
+- "[[G0779]]"
+- "[[G2537]]"
+- "[[G0992]]"
+- "[[G2532]]"
+- "[[G0297]]"
+- "[[G4933]]"
+texts:
+- NKO
+- KO
+---
+
 **Luke 5:38**<big><big>[[Luke.5.36 The Patches and the Wineskins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But new wine must be put into new bottles; and both are preserved.
 <small><sub>**BSB:**</sub></small>
 Instead, new wine is poured into new wineskins.
-<small><sub>**Literal:**</sub></small>
-But wine new into wineskins fresh must be put and both are preserved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.37|<< Luke 5:37]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.39|Luke 5:39 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G3631\|οἶνον]]  [[G3501\|νέον]]  [[G1519\|εἰς]]  [[G0779\|ἀσκοὺς]]  [[G2537\|καινοὺς]]  [[G0992\|βλητέον]]  [[G2532\|καὶ]]  [[G0297\|ἀμφότεροι]]  [[G4933\|συντηροῦνται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOTTLE|BOTTLE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WINE|WINE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.37|<< Luke 5:37]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.39|Luke 5:39 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

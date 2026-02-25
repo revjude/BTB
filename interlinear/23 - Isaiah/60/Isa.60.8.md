@@ -1,8 +1,58 @@
+---
+title: Isaiah 60:8
+type: Verse
+kjv: "Who are these that fly as a cloud, and as the doves to their windows?"
+bsb: "Who are these who fly like clouds, like doves to their shelters?"
+hebrew: "מִי־ אֵ֖לֶּה כָּעָ֣ב תְּעוּפֶ֑ינָה וְכַיּוֹנִ֖ים אֶל־ אֲרֻבֹּתֵיהֶֽם׃"
+pericope: "[[Isa.60.1 Future Glory for Zion|Future Glory for Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 60
+book/chapter: "[[Isa.60|Isaiah 60]]"
+chronological_order: 699
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DOVE, TURTLE|DOVE, TURTLE]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[H4310]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9004]]"
+- "[[H5645]]"
+- "[[H5774A]]"
+- "[[H9002]]"
+- "[[H3123]]"
+- "[[H0413]]"
+- "[[H0699]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 60:8**<big><big>[[Isa.60.1 Future Glory for Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Who [are] these [that] fly as a cloud, and as the doves to their windows?
 <small><sub>**BSB:**</sub></small>
 Who are these who fly like clouds, like doves to their shelters?
+<small><sub>**Hebrew:**</sub></small>
+[[H4310\|מִי]][[H9014\|־]] [[H0428\|אֵ֖לֶּה]] [[H9004\|כָּ]][[H5645\|עָ֣ב]] [[H5774A\|תְּעוּפֶ֑ינָה]] [[H9002\|וְ]][[H9004\|כַ]][[H3123\|יּוֹנִ֖ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0699\|אֲרֻבֹּתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DOVE, TURTLE|DOVE, TURTLE]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.60.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.60.7|<< Isaiah 60:7]]</td><td align="center" style="border:none;">[[Isa.60|Isaiah 60]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.60.9|Isaiah 60:9 >>]]</td></tr></table>
 

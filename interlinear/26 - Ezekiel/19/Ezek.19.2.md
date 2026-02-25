@@ -1,8 +1,60 @@
+---
+title: Ezekiel 19:2
+type: Verse
+kjv: "And say, What is thy mother? A lioness: she lay down among lions, she nourished her whelps among young lions."
+bsb: "and say: ‘What was your mother? A lioness among the lions! She lay down among the young lions; she reared her cubs."
+hebrew: "וְאָמַרְתָּ֗ מָ֤ה אִמְּךָ֙ לְבִיָּ֔א בֵּ֥ין אֲרָי֖וֹת רָבָ֑צָה בְּת֥וֹךְ כְּפִרִ֖ים רִבְּתָ֥ה גוּרֶֽיהָ׃"
+pericope: "[[Ezek.19.1 A Lament for the Princes of Israel|A Lament for the Princes of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 19
+book/chapter: "[[Ezek.19|Ezekiel 19]]"
+chronological_order: 810
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic LION|LION]]"
+- "[[topic PARABLES|PARABLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H0517]]"
+- "[[H9021]]"
+- "[[H3833B]]"
+- "[[H0996H]]"
+- "[[H0738A]]"
+- "[[H7257]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H3715A]]"
+- "[[H7235A]]"
+- "[[H1482]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 19:2**<big><big>[[Ezek.19.1 A Lament for the Princes of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say, What [is] thy mother? A lioness: she lay down among lions, she nourished her whelps among young lions.
 <small><sub>**BSB:**</sub></small>
 and say: ‘What was your mother? A lioness among the lions! She lay down among the young lions; she reared her cubs.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֗]] [[H4100\|מָ֤ה]] [[H0517\|אִמְּ]][[H9021\|ךָ֙]] [[H3833B\|לְבִיָּ֔א]] [[H0996H\|בֵּ֥ין]] [[H0738A\|אֲרָי֖וֹת]] [[H7257\|רָבָ֑צָה]] [[H9003\|בְּ]][[H8432\|ת֥וֹךְ]] [[H3715A\|כְּפִרִ֖ים]] [[H7235A\|רִבְּתָ֥ה]] [[H1482\|גוּרֶֽי]][[H9024\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LION|LION]] • [[topic PARABLES|PARABLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.19.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.19.1|<< Ezekiel 19:1]]</td><td align="center" style="border:none;">[[Ezek.19|Ezekiel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.19.3|Ezekiel 19:3 >>]]</td></tr></table>
 

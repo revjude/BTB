@@ -1,8 +1,59 @@
+---
+title: Ezekiel 32:13
+type: Verse
+kjv: "I will destroy also all the beasts thereof from beside the great waters; neither shall the foot of man trouble them any more, nor the hoofs of beasts trouble them."
+bsb: "I will slaughter all her cattle beside the abundant waters. No human foot will muddy them again, and no cattle hooves will disturb them."
+hebrew: "וְהַֽאֲבַדְתִּי֙ אֶת־ כָּל־ בְּהֶמְתָּ֔הּ מֵעַ֖ל מַ֣יִם רַבִּ֑ים וְלֹ֨א תִדְלָחֵ֤ם רֶֽגֶל־ אָדָם֙ ע֔וֹד וּפַרְס֥וֹת בְּהֵמָ֖ה לֹ֥א תִדְלָחֵֽם׃"
+pericope: "[[Ezek.32.1 A Lament for Pharaoh King of Egypt|A Lament for Pharaoh King of Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 32
+book/chapter: "[[Ezek.32|Ezekiel 32]]"
+chronological_order: 823
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H0006]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0929]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H4325G]]"
+- "[[H7227A]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1804]]"
+- "[[H9038]]"
+- "[[H7272]]"
+- "[[H0120G]]"
+- "[[H5750]]"
+- "[[H6541]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 32:13**<big><big>[[Ezek.32.1 A Lament for Pharaoh King of Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will destroy also all the beasts thereof from beside the great waters; neither shall the foot of man trouble them any more, nor the hoofs of beasts trouble them.
 <small><sub>**BSB:**</sub></small>
 I will slaughter all her cattle beside the abundant waters. No human foot will muddy them again, and no cattle hooves will disturb them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0006\|הַֽאֲבַדְתִּי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0929\|בְּהֶמְתָּ֔]][[H9024\|הּ]] [[H9006\|מֵ]][[H5921A\|עַ֖ל]] [[H4325G\|מַ֣יִם]] [[H7227A\|רַבִּ֑ים]] [[H9002\|וְ]][[H3808\|לֹ֨א]] [[H1804\|תִדְלָחֵ֤]][[H9038\|ם]] [[H7272\|רֶֽגֶל]][[H9014\|־]] [[H0120G\|אָדָם֙]] [[H5750\|ע֔וֹד]] [[H9002\|וּ]][[H6541\|פַרְס֥וֹת]] [[H0929\|בְּהֵמָ֖ה]] [[H3808\|לֹ֥א]] [[H1804\|תִדְלָחֵֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.32.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.32.12|<< Ezekiel 32:12]]</td><td align="center" style="border:none;">[[Ezek.32|Ezekiel 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.32.14|Ezekiel 32:14 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Isaiah 46:1
+type: Verse
+kjv: "Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast."
+bsb: "Bel crouches; Nebo cowers. Their idols weigh down beasts and cattle. The images you carry are burdensome, a load to the weary animal."
+hebrew: "כָּרַ֥ע בֵּל֙ קֹרֵ֣ס נְב֔וֹ הָיוּ֙ עֲצַבֵּיהֶ֔ם לַחַיָּ֖ה וְלַבְּהֵמָ֑ה נְשֻׂאֹתֵיכֶ֣ם עֲמוּס֔וֹת מַשָּׂ֖א לַעֲיֵפָֽה׃"
+pericope: "[[Isa.46.1 Babylon’s Idols|Babylon’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 46
+book/chapter: "[[Isa.46|Isaiah 46]]"
+chronological_order: 685
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BEL|BEL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic NEBO|NEBO]]"
+strongs:
+- "[[H3766]]"
+- "[[H1078]]"
+- "[[H7164]]"
+- "[[H5015B]]"
+- "[[H1961]]"
+- "[[H6091]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H2416C]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H5385]]"
+- "[[H9026]]"
+- "[[H6006]]"
+- "[[H4853A]]"
+- "[[H5889]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 46:1**<big><big>[[Isa.46.1 Babylon’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages [were] heavy loaden; [they are] a burden to the weary [beast].
 <small><sub>**BSB:**</sub></small>
 Bel crouches; Nebo cowers. Their idols weigh down beasts and cattle. The images you carry are burdensome, a load to the weary animal.
+<small><sub>**Hebrew:**</sub></small>
+[[H3766\|כָּרַ֥ע]] [[H1078\|בֵּל֙]] [[H7164\|קֹרֵ֣ס]] [[H5015B\|נְב֔וֹ]] [[H1961\|הָיוּ֙]] [[H6091\|עֲצַבֵּי]][[H9028\|הֶ֔ם]] [[H9005\|לַ]][[H2416C\|חַיָּ֖ה]] [[H9002\|וְ]][[H9005\|לַ]][[H0929\|בְּהֵמָ֑ה]] [[H5385\|נְשֻׂאֹתֵי]][[H9026\|כֶ֣ם]] [[H6006\|עֲמוּס֔וֹת]] [[H4853A\|מַשָּׂ֖א]] [[H9005\|לַ]][[H5889\|עֲיֵפָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BEL|BEL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic NEBO|NEBO]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.46.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.45.25|<< Isaiah 45:25]]</td><td align="center" style="border:none;">[[Isa.46|Isaiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.46.2|Isaiah 46:2 >>]]</td></tr></table>
 

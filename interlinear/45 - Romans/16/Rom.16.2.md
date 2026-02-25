@@ -1,10 +1,63 @@
+---
+title: Romans 16:2
+type: Verse
+kjv: "That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also."
+bsb: "Welcome her in the Lord in a manner worthy of the saints, and assist her with anything she may need from you. For she has been a great help to many people, including me."
+greek: "ἵνα αὐτὴν προσδέξησθε ἐν κυρίῳ ἀξίως τῶν ἁγίων καὶ παραστῆτε αὐτῇ ἐν ᾧ ἂν ὑμῶν χρῄζῃ πράγματι· καὶ γὰρ αὐτὴ προστάτις πολλῶν ἐγενήθη καὶ ἐμοῦ αὐτοῦ.¶"
+pericope: "[[Rom.16.1 Personal Greetings and Love|Personal Greetings and Love]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 16
+book/chapter: "[[Rom.16|Romans 16]]"
+chronological_order: 1102
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2443]]"
+- "[[G0846]]"
+- "[[G4327]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G0516]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+- "[[G2532]]"
+- "[[G3936]]"
+- "[[G3739]]"
+- "[[G0302]]"
+- "[[G4771]]"
+- "[[G5535]]"
+- "[[G4229]]"
+- "[[G1063]]"
+- "[[G4368]]"
+- "[[G4183]]"
+- "[[G1096]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Romans 16:2**<big><big>[[Rom.16.1 Personal Greetings and Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.
 <small><sub>**BSB:**</sub></small>
 Welcome her in the Lord in a manner worthy of the saints, and assist her with anything she may need from you. For she has been a great help to many people, including me.
-<small><sub>**Literal:**</sub></small>
-that her you may receive in [the] Lord worthily <the> of the saints and you may assist her in whatever maybe of you she may need matter; Also for she a patroness of many has been and of me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.1|<< Romans 16:1]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.3|Romans 16:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2443\|ἵνα]]  [[G0846\|αὐτὴν]]  [[G4327\|προσδέξησθε]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ]]  [[G0516\|ἀξίως]]  [[G3588\|τῶν]]  [[G0040H\|ἁγίων]]  [[G2532\|καὶ]]  [[G3936\|παραστῆτε]]  [[G0846\|αὐτῇ]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G0302\|ἂν]]  [[G4771\|ὑμῶν]]  [[G5535\|χρῄζῃ]]  [[G4229\|πράγματι·]]  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G0846\|αὐτὴ]]  [[G4368\|προστάτις]]  [[G4183\|πολλῶν]]  [[G1096\|ἐγενήθη]]  [[G2532\|καὶ]]  [[G1473\|ἐμοῦ]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOSPITALITY|HOSPITALITY]] • [[topic LOVE|LOVE]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WOMEN|WOMEN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.16.1|<< Romans 16:1]]</td><td align="center" style="border:none;">[[Rom.16|Romans 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.16.3|Romans 16:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

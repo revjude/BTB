@@ -57,7 +57,7 @@
 
 → See [[topic HUMILITY|HUMILITY]]
 
-→ UNCLASSIFIED SCRIPTURES RELATING TO [[Ezra.8.21|Ezr 8:21]]-[[Ezra.8.23|23]]; [[Ps.35.13|Ps  35:13]]; [[Ps.69.10|69:10]]; [[Isa.58.3|Isa 58:3]]-[[Isa.58.7|7]]; [[Jer.14.12|Jer 14:12]]; [[Dan.10.3|Da 10:3]]; [[Joel.1.14|Joe 1:14]]; [[Joel.2.12|2:12]],[[Joel.2.13|13]]; [[Zech.7.5|Zec 7:5]]; [[Zech.8.19|8:19]];  [[Matt.6.16|Mt 6:16]]-[[Matt.6.18|18]]; [[Matt.9.14|9:14]],[[Matt.9.15|15]]; [[Matt.17.21|17:21]]; [[Acts.27.9|Ac 27:9]],[[Acts.27.33|33]],[[Acts.27.34|34]]; [[1Cor.7.5|1Co 7:5]]
+→ UNCLASSIFIED SCRIPTURES RELATING TO [[Ezra.8.21|Ezr 8:21-23]]; [[Ps.35.13|Ps  35:13]]; [[Ps.69.10|69:10]]; [[Isa.58.3|Isa 58:3-7]]; [[Jer.14.12|Jer 14:12]]; [[Dan.10.3|Da 10:3]]; [[Joel.1.14|Joe 1:14]]; [[Joel.2.12|2:12]],[[Joel.2.13|13]]; [[Zech.7.5|Zec 7:5]]; [[Zech.8.19|8:19]];  [[Matt.6.16|Mt 6:16-18]]; [[Matt.9.14|9:14]],[[Matt.9.15|15]]; [[Matt.17.21|17:21]]; [[Acts.27.9|Ac 27:9]],[[Acts.27.33|33]],[[Acts.27.34|34]]; [[1Cor.7.5|1Co 7:5]]
 
 → INSTANCES OF
 
@@ -71,7 +71,7 @@ When they went to Mizpeh for the ark of the covenant [[1Sam.7.6|1Sa 7:6]]
 
 Upon the death of Saul [[2Sam.1.12|2Sa 1:12]]
 
-During the sickness of the child born to him by Bath-sheba [[2Sam.12.16|2Sa 12:16]]-[[2Sam.12.22|22]]
+During the sickness of the child born to him by Bath-sheba [[2Sam.12.16|2Sa 12:16-22]]
 
 While interceding in prayer for his friends [[Ps.35.13|Ps 35:13]]
 
@@ -97,9 +97,9 @@ In prayer for himself and his adversaries [[Ps.109.4|Ps 109:4]],[[Ps.109.24|24]]
 
 On account of the captivity of the people, with prayer for their  deliverance [[Dan.9.3|Da 9:3]]
 
-At the time of his vision [[Dan.10.1|Da 10:1]]-[[Dan.10.3|3]]
+At the time of his vision [[Dan.10.1|Da 10:1-3]]
 
-- Ninevites, when Jonah preached to them [[Jonah.3.5|Jon 3:5]]-[[Jonah.3.10|10]]
+- Ninevites, when Jonah preached to them [[Jonah.3.5|Jon 3:5-10]]
 
 - By Paul, at the time of his conversion [[Acts.9.9|Ac 9:9]]
 

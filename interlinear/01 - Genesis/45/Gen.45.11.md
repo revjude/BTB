@@ -1,8 +1,67 @@
+---
+title: Genesis 45:11
+type: Verse
+kjv: "And there will I nourish thee; for yet there are five years of famine; lest thou, and thy household, and all that thou hast, come to poverty."
+bsb: "And there I will provide for you, because there will be five more years of famine. Otherwise, you and your household and everything you own will come to destitution.’"
+hebrew: "וְכִלְכַּלְתִּ֤י אֹֽתְךָ֙ שָׁ֔ם כִּי־ ע֛וֹד חָמֵ֥שׁ שָׁנִ֖ים רָעָ֑ב פֶּן־ תִּוָּרֵ֛שׁ אַתָּ֥ה וּבֵֽיתְךָ֖ וְכָל־ אֲשֶׁר־ לָֽךְ׃"
+pericope: "[[Gen.45.9 Joseph Sends for His Father|Joseph Sends for His Father]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 45
+book/chapter: "[[Gen.45|Genesis 45]]"
+chronological_order: 87
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9001]]"
+- "[[H3557]]"
+- "[[H0853]]"
+- "[[H9031]]"
+- "[[H8033G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H7458]]"
+- "[[H6435]]"
+- "[[H3423I]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H1004M]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 45:11**<big><big>[[Gen.45.9 Joseph Sends for His Father|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there will I nourish thee; for yet [there are] five years of famine; lest thou, and thy household, and all that thou hast, come to poverty.
 <small><sub>**BSB:**</sub></small>
 And there I will provide for you, because there will be five more years of famine. Otherwise, you and your household and everything you own will come to destitution.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H3557\|כִלְכַּלְתִּ֤י]] [[H0853\|אֹֽתְ]][[H9031\|ךָ֙]] [[H8033G\|שָׁ֔ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H5750\|ע֛וֹד]] [[H2568\|חָמֵ֥שׁ]] [[H8141\|שָׁנִ֖ים]] [[H7458\|רָעָ֑ב]] [[H6435\|פֶּן]][[H9014\|־]] [[H3423I\|תִּוָּרֵ֛שׁ]] [[H0859A\|אַתָּ֥ה]] [[H9002\|וּ]][[H1004M\|בֵֽיתְ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.45.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.45.10|<< Genesis 45:10]]</td><td align="center" style="border:none;">[[Gen.45|Genesis 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.45.12|Genesis 45:12 >>]]</td></tr></table>
 

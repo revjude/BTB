@@ -1,10 +1,50 @@
+---
+title: 2 Corinthians 13:8
+type: Verse
+kjv: "For we can do nothing against the truth, but for the truth."
+bsb: "For we cannot do anything against the truth, but only for the truth."
+greek: "οὐ γὰρ δυνάμεθά τι κατὰ τῆς ἀληθείας ἀλλ᾽ ὑπὲρ τῆς ἀληθείας."
+pericope: "[[2Cor.13.1 Examine Yourselves|Examine Yourselves]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 13
+book/chapter: "[[2Cor.13|2 Corinthians 13]]"
+chronological_order: 1086
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1410]]"
+- "[[G5100]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G0225]]"
+- "[[G0235]]"
+- "[[G5228]]"
+texts:
+- NKO
+---
+
 **2 Corinthians 13:8**<big><big>[[2Cor.13.1 Examine Yourselves|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For we can do nothing against the truth, but for the truth.
 <small><sub>**BSB:**</sub></small>
 For we cannot do anything against the truth, but only for the truth.
-<small><sub>**Literal:**</sub></small>
-Nothing for have we power any against the truth but for the truth.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.7|<< 2 Corinthians 13:7]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.9|2 Corinthians 13:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G1410\|δυνάμεθά]]  [[G5100\|τι]]  [[G2596\|κατὰ]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G0235\|ἀλλ᾽]]  [[G5228\|ὑπὲρ]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOLINESS|HOLINESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.13.7|<< 2 Corinthians 13:7]]</td><td align="center" style="border:none;">[[2Cor.13|2 Corinthians 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.13.9|2 Corinthians 13:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,6 +1,70 @@
+---
+title: LXX Genesis 32:9
+type: Verse
+lxx: "And Jacob said, The God  of my father Abraham, and the God  of my father Isaac, O lord, the one saying to me, Run to the land  of your birth! and I will do good to you."
+greek: "είπε δε Ιακώβ ο θεός του πατρός μου Αβραάμ και ο θεός του πατρός μου Ισαάκ κύριε ο ειπών μοι απότρεχε εις την γην της γενέσεώς σου και ευ σε ποιήσω"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G2384]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G0011]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G2464]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2036]]"
+- "[[G1473]]"
+- "[[G6503]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3588]]"
+- "[[G1078]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2095]]"
+- "[[G1473]]"
+- "[[G4160]]"
+---
+
 **LXX Genesis 32:9** 
 <small><sub>**LXX:**</sub></small>
 And Jacob said, The God  of my father Abraham, and the God  of my father Isaac, O <span class="smallcaps">lord</span>, the one saying to me, Run to the land  of your birth! and I will do good to you. 
+<small><sub>**Greek:**</sub></small>
+[[G2036\|είπε]] [[G1161\|δε]] [[G2384\|Ιακώβ]] [[G3588\|ο]] [[G2316\|θεός]] [[G3588\|του]] [[G3962\|πατρός]] [[G1473\|μου]] [[G0011\|Αβραάμ]] [[G2532\|και]] [[G3588\|ο]] [[G2316\|θεός]] [[G3588\|του]] [[G3962\|πατρός]] [[G1473\|μου]] [[G2464\|Ισαάκ]] [[G2962\|κύριε]] [[G3588\|ο]] [[G2036\|ειπών]] [[G1473\|μοι]] [[G6503\|απότρεχε]] [[G1519\|εις]] [[G3588\|την]] [[G1093\|γην]] [[G3588\|της]] [[G1078\|γενέσεώς]] [[G1473\|σου]] [[G2532\|και]] [[G2095\|ευ]] [[G1473\|σε]] [[G4160\|ποιήσω]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.8|<< Genesis 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.10|Genesis 32:10 >>]]</td></tr></table>
 
@@ -34,6 +98,6 @@ And Jacob said, The God  of my father Abraham, and the God  of my father Isaac, 
 | good | **<big>[[G2095\|ευ]]</big>** |
 | to you | **<big>[[G1473\|σε]]</big>** |
 | I will do | **<big>[[G4160\|ποιήσω]]</big>** |
-[[Gen.32.9|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.8|<< Genesis 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.10|Genesis 32:10 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.32.8|<< Genesis 32:8]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.32.10|Genesis 32:10 >>]]</td></tr></table>
 
 

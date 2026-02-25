@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Hezekiah Celebrates the Passover
+type: Pericope
 pericope: "[[2Chr.30.13 Hezekiah Celebrates the Passover|Hezekiah Celebrates the Passover]]"
-verse_count: 15
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 30
 book/chapter: "[[2Chr.30|2 Chronicles 30]]"
-genre:
+chronological_order: 660
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 15
 verses:
 - "[[2Chr.30.13]]"
 - "[[2Chr.30.14]]"
@@ -33,7 +40,7 @@ verses:
 - "[[2Chr.30.27]]"
 ---
 
-[[2Chr.30|2 Chronicles 30:13 - 2 Chronicles 30:27]]
+<small>[[2Chr.30|2 Chronicles 30:13-27]]</small>
 *Hezekiah Celebrates the Passover*
 
 [[2Chr.30.13|13]] And there assembled at Jerusalem much people to keep the feast of unleavened bread in the second month, a very great congregation.

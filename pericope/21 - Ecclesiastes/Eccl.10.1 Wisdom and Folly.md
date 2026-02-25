@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Wisdom and Folly
+type: Pericope
 pericope: "[[Eccl.10.1 Wisdom and Folly|Wisdom and Folly]]"
-verse_count: 20
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 10
 book/chapter: "[[Eccl.10|Ecclesiastes 10]]"
-genre:
+chronological_order: 548
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 20
 verses:
 - "[[Eccl.10.1]]"
 - "[[Eccl.10.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Eccl.10.20]]"
 ---
 
-[[Eccl.10|Ecclesiastes 10:1 - Ecclesiastes 10:20]]
+<small>[[Eccl.10|Ecclesiastes 10:1-20]]</small>
 *Wisdom and Folly*
 
 [[Eccl.10.1|1]] Dead flies cause the ointment of the apothecary to send forth a stinking savour: \[so doth\] a little folly him that is in reputation for wisdom \[and\] honour.

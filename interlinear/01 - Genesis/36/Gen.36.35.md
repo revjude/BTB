@@ -1,8 +1,70 @@
+---
+title: Genesis 36:35
+type: Verse
+kjv: "And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith."
+bsb: "When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, reigned in his place. And the name of his city was Avith."
+hebrew: "וַיָּ֖מָת חֻשָׁ֑ם וַיִּמְלֹ֨ךְ תַּחְתָּ֜יו הֲדַ֣ד בֶּן־ בְּדַ֗ד הַמַּכֶּ֤ה אֶת־ מִדְיָן֙ בִּשְׂדֵ֣ה מוֹאָ֔ב וְשֵׁ֥ם עִיר֖וֹ עֲוִֽית׃"
+pericope: "[[Gen.36.31 The Kings of Edom|The Kings of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 36
+book/chapter: "[[Gen.36|Genesis 36]]"
+chronological_order: 78
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic AVITH|AVITH]]"
+- "[[topic DUKE|DUKE]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic HADAD|HADAD]]"
+- "[[topic HUSHAM|HUSHAM]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H2367]]"
+- "[[H4427A]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H1908G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0911]]"
+- "[[H9009]]"
+- "[[H5221]]"
+- "[[H0853]]"
+- "[[H4080H]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H4124G]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H5892B]]"
+- "[[H9023]]"
+- "[[H5762]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 36:35**<big><big>[[Gen.36.31 The Kings of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Husham died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city [was] Avith.
 <small><sub>**BSB:**</sub></small>
 When Husham died, Hadad son of Bedad, who defeated Midian in the country of Moab, reigned in his place. And the name of his city was Avith.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4191\|יָּ֖מָת]] [[H2367\|חֻשָׁ֑ם]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֨ךְ]] [[H8478H\|תַּחְתָּ֜י]][[H9033\|ו]] [[H1908G\|הֲדַ֣ד]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0911\|בְּדַ֗ד]] [[H9009\|הַ]][[H5221\|מַּכֶּ֤ה]] [[H0853\|אֶת]][[H9014\|־]] [[H4080H\|מִדְיָן֙]] [[H9003\|בִּ]][[H7704G\|שְׂדֵ֣ה]] [[H4124G\|מוֹאָ֔ב]] [[H9002\|וְ]][[H8034\|שֵׁ֥ם]] [[H5892B\|עִיר֖]][[H9023\|וֹ]] [[H5762\|עֲוִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVITH|AVITH]] • [[topic DUKE|DUKE]] • [[topic EDOMITES|EDOMITES]] • [[topic HADAD|HADAD]] • [[topic HUSHAM|HUSHAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.36.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.36.34|<< Genesis 36:34]]</td><td align="center" style="border:none;">[[Gen.36|Genesis 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.36.36|Genesis 36:36 >>]]</td></tr></table>
 

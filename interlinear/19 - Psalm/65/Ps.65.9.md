@@ -1,8 +1,65 @@
+---
+title: Psalm 65:9
+type: Verse
+kjv: "Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it."
+bsb: "You attend to the earth and water it; with abundance You enrich it. The streams of God are full of water, for You prepare our grain by providing for the earth."
+hebrew: "פָּקַ֥דְתָּ הָאָ֨רֶץ׀ וַתְּשֹׁ֪קְקֶ֡הָ רַבַּ֬ת תַּעְשְׁרֶ֗נָּה פֶּ֣לֶג אֱ֭לֹהִים מָ֣לֵא מָ֑יִם תָּכִ֥ין דְּ֝גָנָ֗ם כִּי־ כֵ֥ן תְּכִינֶֽהָ׃"
+pericope: "[[Ps.65.1 Praise Awaits God in Zion|Praise Awaits God in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 65
+book/chapter: "[[Ps.65|Psalm 65]]"
+chronological_order: 375
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+strongs:
+- "[[H6485I]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9015]]"
+- "[[H9001]]"
+- "[[H7783]]"
+- "[[H9034]]"
+- "[[H7227A]]"
+- "[[H6238]]"
+- "[[H6388]]"
+- "[[H0430G]]"
+- "[[H4390]]"
+- "[[H4325G]]"
+- "[[H3559A]]"
+- "[[H1715]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3651A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 65:9**<big><big>[[Ps.65.1 Praise Awaits God in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, [which] is full of water: thou preparest them corn, when thou hast so provided for it.
 <small><sub>**BSB:**</sub></small>
 You attend to the earth and water it; with abundance You enrich it. The streams of God are full of water, for You prepare our grain by providing for the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H6485I\|פָּקַ֥דְתָּ]] [[H9009\|הָ]][[H0776G\|אָ֨רֶץ]][[H9015\|׀]] [[H9001\|וַ]][[H7783\|תְּשֹׁ֪קְקֶ֡]][[H9034\|הָ]] [[H7227A\|רַבַּ֬ת]] [[H6238\|תַּעְשְׁרֶ֗]][[H9034\|נָּה]] [[H6388\|פֶּ֣לֶג]] [[H0430G\|אֱ֭לֹהִים]] [[H4390\|מָ֣לֵא]] [[H4325G\|מָ֑יִם]] [[H3559A\|תָּכִ֥ין]] [[H1715\|דְּ֝גָנָ֗]][[H9028\|ם]] [[H3588A\|כִּי]][[H9014\|־]] [[H3651A\|כֵ֥ן]] [[H3559A\|תְּכִינֶֽ]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.65.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.65.8|<< Psalms 65:8]]</td><td align="center" style="border:none;">[[Ps.65|Psalms 65]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.65.10|Psalms 65:10 >>]]</td></tr></table>
 

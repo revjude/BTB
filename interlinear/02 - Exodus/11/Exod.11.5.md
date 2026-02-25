@@ -1,8 +1,72 @@
+---
+title: Exodus 11:5
+type: Verse
+kjv: "And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that is behind the mill; and all the firstborn of beasts."
+bsb: "and every firstborn son in the land of Egypt will die, from the firstborn of Pharaoh who sits on his throne, to the firstborn of the servant girl behind the hand mill, as well as the firstborn of all the cattle."
+hebrew: "וּמֵ֣ת כָּל־ בְּכוֹר֮ בְּאֶ֣רֶץ מִצְרַיִם֒ מִבְּכ֤וֹר פַּרְעֹה֙ הַיֹּשֵׁ֣ב עַל־ כִּסְא֔וֹ עַ֚ד בְּכ֣וֹר הַשִּׁפְחָ֔ה אֲשֶׁ֖ר אַחַ֣ר הָרֵחָ֑יִם וְכֹ֖ל בְּכ֥וֹר בְּהֵמָֽה׃"
+pericope: "[[Exod.11.1 The Plague on the Firstborn Foretold|The Plague on the Firstborn Foretold]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 11
+book/chapter: "[[Exod.11|Exodus 11]]"
+chronological_order: 103
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic FIRSTBORN|FIRSTBORN]]"
+- "[[topic MILL|MILL]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H9001]]"
+- "[[H4191]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1060]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9006]]"
+- "[[H6547J]]"
+- "[[H9009]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H9023]]"
+- "[[H5704]]"
+- "[[H8198]]"
+- "[[H0834A]]"
+- "[[H0310A]]"
+- "[[H7347]]"
+- "[[H9002]]"
+- "[[H0929]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 11:5**<big><big>[[Exod.11.1 The Plague on the Firstborn Foretold|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that [is] behind the mill; and all the firstborn of beasts.
 <small><sub>**BSB:**</sub></small>
 and every firstborn son in the land of Egypt will die, from the firstborn of Pharaoh who sits on his throne, to the firstborn of the servant girl behind the hand mill, as well as the firstborn of all the cattle.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H4191\|מֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H1060\|בְּכוֹר֮]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרַיִם֒]] [[H9006\|מִ]][[H1060\|בְּכ֤וֹר]] [[H6547J\|פַּרְעֹה֙]] [[H9009\|הַ]][[H3427\|יֹּשֵׁ֣ב]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסְא֔]][[H9023\|וֹ]] [[H5704\|עַ֚ד]] [[H1060\|בְּכ֣וֹר]] [[H9009\|הַ]][[H8198\|שִּׁפְחָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H0310A\|אַחַ֣ר]] [[H9009\|הָ]][[H7347\|רֵחָ֑יִם]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H1060\|בְּכ֥וֹר]] [[H0929\|בְּהֵמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic FIRSTBORN|FIRSTBORN]] • [[topic MILL|MILL]] • [[topic PLAGUE|PLAGUE]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.11.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.11.4|<< Exodus 11:4]]</td><td align="center" style="border:none;">[[Exod.11|Exodus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.11.6|Exodus 11:6 >>]]</td></tr></table>
 

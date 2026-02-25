@@ -1,8 +1,84 @@
+---
+title: Jeremiah 32:8
+type: Verse
+kjv: "So Hanameel mine uncle’s son came to me in the court of the prison according to the word of the LORD, and said unto me, Buy my field, I pray thee, that is in Anathoth, which is in the country of Benjamin: for the right of inheritance is thine, and the redemption is thine; buy it for thyself. Then I knew that this was the word of the LORD."
+bsb: "Then, as the LORD had said, my cousin Hanamel came to me in the courtyard of the guard and urged me, ‘Please buy my field in Anathoth in the land of Benjamin, for you own the right of inheritance and redemption. Buy it for yourself.’” Then I knew that this was the word of the LORD."
+hebrew: "וַיָּבֹ֣א אֵ֠לַי חֲנַמְאֵ֨ל בֶּן־ דֹּדִ֜י כִּדְבַ֣ר יְהוָה֮ אֶל־ חֲצַ֣ר הַמַּטָּרָה֒ וַיֹּ֣אמֶר אֵלַ֡י קְנֵ֣ה נָ֠א אֶת־ שָׂדִ֨י אֲשֶׁר־ בַּעֲנָת֜וֹת אֲשֶׁ֣ר׀ בְּאֶ֣רֶץ בִּנְיָמִ֗ין כִּֽי־ לְךָ֞ מִשְׁפַּ֧ט הַיְרֻשָּׁ֛ה וּלְךָ֥ הַגְּאֻלָּ֖ה קְנֵה־ לָ֑ךְ וָאֵדַ֕ע כִּ֥י דְבַר־ יְהוָ֖ה הֽוּא׃"
+pericope: "[[Jer.32.1 Jeremiah Buys Hanamel’s Field|Jeremiah Buys Hanamel’s Field]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 32
+book/chapter: "[[Jer.32|Jeremiah 32]]"
+chronological_order: 755
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ANATHOTH|ANATHOTH]]"
+- "[[topic HANAMEL|HANAMEL]]"
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic LAND|LAND]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H2601]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1730I]]"
+- "[[H9020]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H2691A]]"
+- "[[H9009]]"
+- "[[H4307H]]"
+- "[[H0559]]"
+- "[[H7069]]"
+- "[[H4994]]"
+- "[[H0853]]"
+- "[[H7704G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H6068G]]"
+- "[[H9015]]"
+- "[[H0776G]]"
+- "[[H1144G]]"
+- "[[H3588A]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H4941H]]"
+- "[[H3425]]"
+- "[[H9002]]"
+- "[[H1353]]"
+- "[[H9032]]"
+- "[[H3045]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 32:8**<big><big>[[Jer.32.1 Jeremiah Buys Hanamel’s Field|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Hanameel mine uncle’s son came to me in the court of the prison according to the word of the LORD, and said unto me, Buy my field, I pray thee, that [is] in Anathoth, which [is] in the country of Benjamin: for the right of inheritance [is] thine, and the redemption [is] thine; buy [it] for thyself. Then I knew that this [was] the word of the LORD.
 <small><sub>**BSB:**</sub></small>
 Then, as the LORD had said, my cousin Hanamel came to me in the courtyard of the guard and urged me, ‘Please buy my field in Anathoth in the land of Benjamin, for you own the right of inheritance and redemption. Buy it for yourself.’” Then I knew that this was the word of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H0413\|אֵ֠לַ]][[H9030\|י]] [[H2601\|חֲנַמְאֵ֨ל]] [[H1121G\|בֶּן]][[H9014\|־]] [[H1730I\|דֹּדִ֜]][[H9020\|י]] [[H9004\|כִּ]][[H1697G\|דְבַ֣ר]] [[H3068G\|יְהוָה֮]] [[H0413\|אֶל]][[H9014\|־]] [[H2691A\|חֲצַ֣ר]] [[H9009\|הַ]][[H4307H\|מַּטָּרָה֒]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלַ֡]][[H9030\|י]] [[H7069\|קְנֵ֣ה]] [[H4994\|נָ֠א]] [[H0853\|אֶת]][[H9014\|־]] [[H7704G\|שָׂדִ֨]][[H9020\|י]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9003\|בַּ]][[H6068G\|עֲנָת֜וֹת]] [[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H1144G\|בִּנְיָמִ֗ין]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֞]] [[H4941H\|מִשְׁפַּ֧ט]] [[H9009\|הַ]][[H3425\|יְרֻשָּׁ֛ה]] [[H9002\|וּ]][[H9005\|לְ]][[H9031\|ךָ֥]] [[H9009\|הַ]][[H1353\|גְּאֻלָּ֖ה]] [[H7069\|קְנֵה]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9001\|וָ]][[H3045\|אֵדַ֕ע]] [[H3588A\|כִּ֥י]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANATHOTH|ANATHOTH]] • [[topic HANAMEL|HANAMEL]] • [[topic INHERITANCE|INHERITANCE]] • [[topic JEREMIAH|JEREMIAH]] • [[topic LAND|LAND]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.32.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.32.7|<< Jeremiah 32:7]]</td><td align="center" style="border:none;">[[Jer.32|Jeremiah 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.32.9|Jeremiah 32:9 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

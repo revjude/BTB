@@ -1,10 +1,56 @@
+---
+title: Revelation 8:9
+type: Verse
+kjv: "And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed."
+bsb: "a third of the living creatures in the sea died, and a third of the ships were destroyed."
+greek: "καὶ ἀπέθανεν τὸ τρίτον τῶν κτισμάτων τῶν ἐν τῇ θαλάσσῃ, τὰ ἔχοντα ψυχάς, καὶ τὸ τρίτον τῶν πλοίων διεφθάρησαν.¶"
+pericope: "[[Rev.8.6 The First Four Trumpets|The First Four Trumpets]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 8
+book/chapter: "[[Rev.8|Revelation 8]]"
+chronological_order: 1175
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SEA|SEA]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0599]]"
+- "[[G3588]]"
+- "[[G5154]]"
+- "[[G2938]]"
+- "[[G1722]]"
+- "[[G2281]]"
+- "[[G2192]]"
+- "[[G5590G]]"
+- "[[G4143]]"
+- "[[G1311]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 8:9**<big><big>[[Rev.8.6 The First Four Trumpets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.
 <small><sub>**BSB:**</sub></small>
 a third of the living creatures in the sea died, and a third of the ships were destroyed.
-<small><sub>**Literal:**</sub></small>
-and died <the> a third of the creatures <the> in the sea who are having life, and <the> a third of the ships were destroyed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.8|<< Revelation 8:8]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.10|Revelation 8:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0599\|ἀπέθανεν]]  [[G3588\|τὸ]]  [[G5154\|τρίτον]]  [[G3588\|τῶν]]  [[G2938\|κτισμάτων]]  [[G3588\|τῶν]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G2281\|θαλάσσῃ,]]  [[G3588\|τὰ]]  [[G2192\|ἔχοντα]]  [[G5590G\|ψυχάς,]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G5154\|τρίτον]]  [[G3588\|τῶν]]  [[G4143\|πλοίων]]  [[G1311\|διεφθάρησαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SEA|SEA]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.8.8|<< Revelation 8:8]]</td><td align="center" style="border:none;">[[Rev.8|Revelation 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.8.10|Revelation 8:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

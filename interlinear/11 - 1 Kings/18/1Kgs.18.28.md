@@ -1,8 +1,68 @@
+---
+title: 1 Kings 18:28
+type: Verse
+kjv: "And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them."
+bsb: "So they shouted louder and cut themselves with knives and lances, as was their custom, until the blood gushed over them."
+hebrew: "וַֽיִּקְרְאוּ֙ בְּק֣וֹל גָּד֔וֹל וַיִּתְגֹּֽדְדוּ֙ כְּמִשְׁפָּטָ֔ם בַּחֲרָב֖וֹת וּבָֽרְמָחִ֑ים עַד־ שְׁפָךְ־ דָּ֖ם עֲלֵיהֶֽם׃"
+pericope: "[[1Kgs.18.16 Elijah on Mount Carmel|Elijah on Mount Carmel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 18
+book/chapter: "[[1Kgs.18|1 Kings 18]]"
+chronological_order: 564
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AHAB|AHAB]]"
+- "[[topic CARMEL|CARMEL]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic IDOL|IDOL]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic KNIFE|KNIFE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic REVIVALS|REVIVALS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121I]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H1419A]]"
+- "[[H1413]]"
+- "[[H9004]]"
+- "[[H4941J]]"
+- "[[H9028]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H7420]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H8210G]]"
+- "[[H1818]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 18:28**<big><big>[[1Kgs.18.16 Elijah on Mount Carmel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.
 <small><sub>**BSB:**</sub></small>
 So they shouted louder and cut themselves with knives and lances, as was their custom, until the blood gushed over them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H7121I\|יִּקְרְאוּ֙]] [[H9003\|בְּ]][[H6963A\|ק֣וֹל]] [[H1419A\|גָּד֔וֹל]] [[H9001\|וַ]][[H1413\|יִּתְגֹּֽדְדוּ֙]] [[H9004\|כְּ]][[H4941J\|מִשְׁפָּטָ֔]][[H9028\|ם]] [[H9003\|בַּ]][[H2719\|חֲרָב֖וֹת]] [[H9002\|וּ]][[H9003\|בָֽ]][[H7420\|רְמָחִ֑ים]] [[H5704\|עַד]][[H9014\|־]] [[H8210G\|שְׁפָךְ]][[H9014\|־]] [[H1818\|דָּ֖ם]] [[H5921A\|עֲלֵי]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAB|AHAB]] • [[topic CARMEL|CARMEL]] • [[topic ELIJAH|ELIJAH]] • [[topic IDOL|IDOL]] • [[topic IDOLATRY|IDOLATRY]] • [[topic KNIFE|KNIFE]] • [[topic PRAYER|PRAYER]] • [[topic REVIVALS|REVIVALS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.18.27|<< 1 Kings 18:27]]</td><td align="center" style="border:none;">[[1Kgs.18|1 Kings 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.18.29|1 Kings 18:29 >>]]</td></tr></table>
 

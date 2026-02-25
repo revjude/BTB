@@ -1,10 +1,62 @@
+---
+title: 1 Peter 2:11
+type: Verse
+kjv: "Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;"
+bsb: "Beloved, I urge you, as foreigners and exiles, to abstain from the desires of the flesh, which war against your soul."
+greek: "Ἀγαπητοί, παρακαλῶ ὡς παροίκους καὶ παρεπιδήμους ἀπέχεσθαι τῶν σαρκικῶν ἐπιθυμιῶν, αἵτινες στρατεύονται κατὰ τῆς ψυχῆς·"
+pericope: "[[1Pet.2.1 The Living Stone and Chosen People|The Living Stone and Chosen People]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 2
+book/chapter: "[[1Pet.2|1 Peter 2]]"
+chronological_order: 1136
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic LUST|LUST]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G0027]]"
+- "[[G3870]]"
+- "[[G5613]]"
+- "[[G3941]]"
+- "[[G2532]]"
+- "[[G3927]]"
+- "[[G0568]]"
+- "[[G3588]]"
+- "[[G4559]]"
+- "[[G1939]]"
+- "[[G3748]]"
+- "[[G4754]]"
+- "[[G2596]]"
+- "[[G5590G]]"
+texts:
+- NKO
+---
+
 **1 Peter 2:11**<big><big>[[1Pet.2.1 The Living Stone and Chosen People|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Dearly beloved, I beseech [you] as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
 <small><sub>**BSB:**</sub></small>
 Beloved, I urge you, as foreigners and exiles, to abstain from the desires of the flesh, which war against your soul.
-<small><sub>**Literal:**</sub></small>
-Beloved, I exhort [you] as aliens and sojourners to abstain <the> from fleshly desires, which war against the soul;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.10|<< 1 Peter 2:10]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.12|1 Peter 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0027\|Ἀγαπητοί,]]  [[G3870\|παρακαλῶ]]  [[G5613\|ὡς]]  [[G3941\|παροίκους]]  [[G2532\|καὶ]]  [[G3927\|παρεπιδήμους]]  [[G0568\|ἀπέχεσθαι]]  [[G3588\|τῶν]]  [[G4559\|σαρκικῶν]]  [[G1939\|ἐπιθυμιῶν,]]  [[G3748\|αἵτινες]]  [[G4754\|στρατεύονται]]  [[G2596\|κατὰ]]  [[G3588\|τῆς]]  [[G5590G\|ψυχῆς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic HOLINESS|HOLINESS]] • [[topic INFLUENCE|INFLUENCE]] • [[topic LUST|LUST]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic WAR|WAR]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.2.10|<< 1 Peter 2:10]]</td><td align="center" style="border:none;">[[1Pet.2|1 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.2.12|1 Peter 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

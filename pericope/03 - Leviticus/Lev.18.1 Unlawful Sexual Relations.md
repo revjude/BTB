@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Unlawful Sexual Relations
+type: Pericope
 pericope: "[[Lev.18.1 Unlawful Sexual Relations|Unlawful Sexual Relations]]"
-verse_count: 30
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 18
 book/chapter: "[[Lev.18|Leviticus 18]]"
-genre:
+chronological_order: 150
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 30
 verses:
 - "[[Lev.18.1]]"
 - "[[Lev.18.2]]"
@@ -53,7 +60,7 @@ verses:
 - "[[Lev.18.30]]"
 ---
 
-[[Lev.18|Leviticus 18:1 - Leviticus 18:30]]
+<small>[[Lev.18|Leviticus 18:1-30]]</small>
 *Unlawful Sexual Relations*
 
 [[Lev.18.1|1]] And the LORD spake unto Moses, saying,

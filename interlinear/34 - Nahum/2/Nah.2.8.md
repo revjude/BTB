@@ -1,8 +1,51 @@
+---
+title: Nahum 2:8
+type: Verse
+kjv: "But Nineveh is of old like a pool of water: yet they shall flee away. Stand, stand, shall they cry; but none shall look back."
+bsb: "Nineveh has been like a pool of water throughout her days, but now it is draining away. “Stop! Stop!” they cry, but no one turns back."
+hebrew: "וְנִינְוֵ֥ה כִבְרֵֽכַת־ מַ֖יִם מִ֣ימֵי הִ֑יא וְהֵ֣מָּה נָסִ֔ים עִמְד֥וּ עֲמֹ֖דוּ וְאֵ֥ין מַפְנֶֽה׃"
+pericope: "[[Nah.2.1 The Overthrow of Nineveh|The Overthrow of Nineveh]]"
+original_language: Hebrew
+testament: Old
+book: Nahum
+chapter: 2
+book/chapter: "[[Nah.2|Nahum 2]]"
+chronological_order: 709
+era: Exile
+period: "Judah Alone: Nahum Against Nineveh"
+date: ~663–612 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H9002]]"
+- "[[H5210]]"
+- "[[H9004]]"
+- "[[H1295H]]"
+- "[[H9014]]"
+- "[[H4325G]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H1992]]"
+- "[[H5127]]"
+- "[[H5975G]]"
+- "[[H0369]]"
+- "[[H6437G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nahum 2:8**<big><big>[[Nah.2.1 The Overthrow of Nineveh|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But Nineveh [is] of old like a pool of water: yet they shall flee away. Stand, stand, [shall they cry]; but none shall look back.
 <small><sub>**BSB:**</sub></small>
 Nineveh has been like a pool of water throughout her days, but now it is draining away. “Stop! Stop!” they cry, but no one turns back.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5210\|נִינְוֵ֥ה]] [[H9004\|כִ]][[H1295H\|בְרֵֽכַת]][[H9014\|־]] [[H4325G\|מַ֖יִם]] [[H9006\|מִ֣]][[H3117G\|ימֵי]] [[H1931\|הִ֑יא]] [[H9002\|וְ]][[H1992\|הֵ֣מָּה]] [[H5127\|נָסִ֔ים]] [[H5975G\|עִמְד֥וּ]] [[H5975G\|עֲמֹ֖דוּ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H6437G\|מַפְנֶֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Nah.2.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Nah.2.7|<< Nahum 2:7]]</td><td align="center" style="border:none;">[[Nah.2|Nahum 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Nah.2.9|Nahum 2:9 >>]]</td></tr></table>
 

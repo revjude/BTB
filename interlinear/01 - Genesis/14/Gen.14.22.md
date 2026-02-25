@@ -1,8 +1,65 @@
+---
+title: Genesis 14:22
+type: Verse
+kjv: "And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth,"
+bsb: "But Abram replied to the king of Sodom, “I have raised my hand to the LORD God Most High, Creator of heaven and earth,"
+hebrew: "וַיֹּ֥אמֶר אַבְרָ֖ם אֶל־ מֶ֣לֶךְ סְדֹ֑ם הֲרִימֹ֨תִי יָדִ֤י אֶל־ יְהוָה֙ אֵ֣ל עֶלְי֔וֹן קֹנֵ֖ה שָׁמַ֥יִם וָאָֽרֶץ׃"
+pericope: "[[Gen.14.17 Melchizedek Blesses Abram|Melchizedek Blesses Abram]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 14
+book/chapter: "[[Gen.14|Genesis 14]]"
+chronological_order: 56
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAND|HAND]]"
+- "[[topic OATH|OATH]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0087]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4428G]]"
+- "[[H5467]]"
+- "[[H7311A]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H3068G]]"
+- "[[H0410J]]"
+- "[[H5945H]]"
+- "[[H7069]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 14:22**<big><big>[[Gen.14.17 Melchizedek Blesses Abram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth,
 <small><sub>**BSB:**</sub></small>
 But Abram replied to the king of Sodom, “I have raised my hand to the LORD God Most High, Creator of heaven and earth,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0087\|אַבְרָ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H5467\|סְדֹ֑ם]] [[H7311A\|הֲרִימֹ֨תִי]] [[H3027G\|יָדִ֤]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָה֙]] [[H0410J\|אֵ֣ל]] [[H5945H\|עֶלְי֔וֹן]] [[H7069\|קֹנֵ֖ה]] [[H8064\|שָׁמַ֥יִם]] [[H9002\|וָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic GOD|GOD]] • [[topic HAND|HAND]] • [[topic OATH|OATH]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.14.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.14.21|<< Genesis 14:21]]</td><td align="center" style="border:none;">[[Gen.14|Genesis 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.14.23|Genesis 14:23 >>]]</td></tr></table>
 

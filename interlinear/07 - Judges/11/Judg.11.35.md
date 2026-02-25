@@ -1,8 +1,78 @@
+---
+title: Judges 11:35
+type: Verse
+kjv: "And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back."
+bsb: "As soon as Jephthah saw her, he tore his clothes and said, “No! Not my daughter! You have brought me to my knees! You have brought great misery upon me, for I have given my word to the LORD and cannot take it back.”"
+hebrew: "וַיְהִי֩ כִרְאוֹת֨וֹ אוֹתָ֜הּ וַיִּקְרַ֣ע אֶת־ בְּגָדָ֗יו וַיֹּ֙אמֶר֙ אֲהָ֤הּ בִּתִּי֙ הַכְרֵ֣עַ הִכְרַעְתִּ֔נִי וְאַ֖תְּ הָיִ֣יתְ בְּעֹֽכְרָ֑י וְאָנֹכִ֗י פָּצִ֤יתִי־ פִי֙ אֶל־ יְהוָ֔ה וְלֹ֥א אוּכַ֖ל לָשֽׁוּב׃"
+pericope: "[[Judg.11.29 Jephthah’s Tragic Vow|Jephthah’s Tragic Vow]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic VOWS|VOWS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7200G]]"
+- "[[H9043]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H7167]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H0559]]"
+- "[[H0162]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H3766]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0859C]]"
+- "[[H9003]]"
+- "[[H5916]]"
+- "[[H0595]]"
+- "[[H6475]]"
+- "[[H6310G]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H3201]]"
+- "[[H9005]]"
+- "[[H7725I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:35**<big><big>[[Judg.11.29 Jephthah’s Tragic Vow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he saw her, that he rent his clothes, and said, Alas, my daughter! thou hast brought me very low, and thou art one of them that trouble me: for I have opened my mouth unto the LORD, and I cannot go back.
 <small><sub>**BSB:**</sub></small>
 As soon as Jephthah saw her, he tore his clothes and said, “No! Not my daughter! You have brought me to my knees! You have brought great misery upon me, for I have given my word to the LORD and cannot take it back.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H9004\|כִ]][[H7200G\|רְאוֹת֨]][[H9043\|וֹ]] [[H0853\|אוֹתָ֜]][[H9034\|הּ]] [[H9001\|וַ]][[H7167\|יִּקְרַ֣ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0162\|אֲהָ֤הּ]] [[H1323G\|בִּתִּ]][[H9020\|י֙]] [[H3766\|הַכְרֵ֣עַ]] [[H3766\|הִכְרַעְתִּ֔]][[H9030\|נִי]] [[H9002\|וְ]][[H0859C\|אַ֖תְּ]] [[H1961\|הָיִ֣יתְ]] [[H9003\|בְּ]][[H5916\|עֹֽכְרָ֑]][[H9030\|י]] [[H9002\|וְ]][[H0595\|אָנֹכִ֗י]] [[H6475\|פָּצִ֤יתִי]][[H9014\|־]] [[H6310G\|פִ]][[H9020\|י֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3201\|אוּכַ֖ל]] [[H9005\|לָ]][[H7725I\|שֽׁוּב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSECRATION|CONSECRATION]] • [[topic GOD|GOD]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic MOURNING|MOURNING]] • [[topic RASHNESS|RASHNESS]] • [[topic RENDING|RENDING]] • [[topic VOWS|VOWS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.34|<< Judges 11:34]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.36|Judges 11:36 >>]]</td></tr></table>
 

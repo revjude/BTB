@@ -1,8 +1,54 @@
+---
+title: Psalm 99:3
+type: Verse
+kjv: "Let them praise thy great and terrible name; for it is holy."
+bsb: "Let them praise Your great and awesome name—He is holy!"
+hebrew: "יוֹד֣וּ שִׁ֭מְךָ גָּד֥וֹל וְנוֹרָ֗א קָד֥וֹשׁ הֽוּא׃"
+pericope: "[[Ps.99.1 The LORD Reigns!|The LORD Reigns!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 99
+book/chapter: "[[Ps.99|Psalm 99]]"
+chronological_order: 526
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+strongs:
+- "[[H3034]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H6918G]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 99:3**<big><big>[[Ps.99.1 The LORD Reigns!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let them praise thy great and terrible name; [for] it [is] holy.
 <small><sub>**BSB:**</sub></small>
 Let them praise Your great and awesome name—He is holy!
+<small><sub>**Hebrew:**</sub></small>
+[[H3034\|יוֹד֣וּ]] [[H8034\|שִׁ֭מְ]][[H9021\|ךָ]] [[H1419A\|גָּד֥וֹל]] [[H9002\|וְ]][[H3372H\|נוֹרָ֗א]] [[H6918G\|קָד֥וֹשׁ]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.99.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.99.2|<< Psalms 99:2]]</td><td align="center" style="border:none;">[[Ps.99|Psalms 99]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.99.4|Psalms 99:4 >>]]</td></tr></table>
 

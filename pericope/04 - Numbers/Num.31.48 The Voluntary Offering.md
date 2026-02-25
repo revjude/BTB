@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Voluntary Offering
+type: Pericope
 pericope: "[[Num.31.48 The Voluntary Offering|The Voluntary Offering]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 31
 book/chapter: "[[Num.31|Numbers 31]]"
-genre:
+chronological_order: 191
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 7
 verses:
 - "[[Num.31.48]]"
 - "[[Num.31.49]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Num.31.54]]"
 ---
 
-[[Num.31|Numbers 31:48 - Numbers 31:54]]
+<small>[[Num.31|Numbers 31:48-54]]</small>
 *The Voluntary Offering*
 
 [[Num.31.48|48]] And the officers which \[were\] over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses:

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Demons and the Pigs
+type: Pericope
 pericope: "[[Matt.8.28 The Demons and the Pigs|The Demons and the Pigs]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 8
 book/chapter: "[[Matt.8|Matthew 8]]"
-genre:
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Matt.8.28]]"
 - "[[Matt.8.29]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Matt.8.34]]"
 ---
 
-[[Matt.8|Matthew 8:28 - Matthew 8:34]]
+<small>[[Matt.8|Matthew 8:28-34]]</small>
 *The Demons and the Pigs*
 
 [[Matt.8.28|28]] And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.

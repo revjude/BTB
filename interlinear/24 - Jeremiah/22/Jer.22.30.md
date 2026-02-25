@@ -1,8 +1,73 @@
+---
+title: Jeremiah 22:30
+type: Verse
+kjv: "Thus saith the LORD, Write ye this man childless, a man that shall not prosper in his days: for no man of his seed shall prosper, sitting upon the throne of David, and ruling any more in Judah."
+bsb: "This is what the LORD says: “Enroll this man as childless, a man who will not prosper in his lifetime. None of his descendants will prosper to sit on the throne of David or to rule again in Judah.”"
+hebrew: "כֹּ֣ה׀ אָמַ֣ר יְהוָ֗ה כִּתְב֞וּ אֶת־ הָאִ֤ישׁ הַזֶּה֙ עֲרִירִ֔י גֶּ֖בֶר לֹא־ יִצְלַ֣ח בְּיָמָ֑יו כִּי֩ לֹ֨א יִצְלַ֜ח מִזַּרְע֗וֹ אִ֚ישׁ יֹשֵׁב֙ עַל־ כִּסֵּ֣א דָוִ֔ד וּמֹשֵׁ֥ל ע֖וֹד בִּיהוּדָֽה׃"
+pericope: "[[Jer.22.24 A Warning to Coniah|A Warning to Coniah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H3541]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H3789]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H2088]]"
+- "[[H6185]]"
+- "[[H1397]]"
+- "[[H3808]]"
+- "[[H6743B]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H2233H]]"
+- "[[H0376I]]"
+- "[[H3427]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H4910]]"
+- "[[H5750]]"
+- "[[H3063G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:30**<big><big>[[Jer.22.24 A Warning to Coniah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, Write ye this man childless, a man [that] shall not prosper in his days: for no man of his seed shall prosper, sitting upon the throne of David, and ruling any more in Judah.
 <small><sub>**BSB:**</sub></small>
 This is what the LORD says: “Enroll this man as childless, a man who will not prosper in his lifetime. None of his descendants will prosper to sit on the throne of David or to rule again in Judah.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H3789\|כִּתְב֞וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֤ישׁ]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H6185\|עֲרִירִ֔י]] [[H1397\|גֶּ֖בֶר]] [[H3808\|לֹא]][[H9014\|־]] [[H6743B\|יִצְלַ֣ח]] [[H9003\|בְּ]][[H3117G\|יָמָ֑י]][[H9023\|ו]] [[H3588A\|כִּי֩]] [[H3808\|לֹ֨א]] [[H6743B\|יִצְלַ֜ח]] [[H9006\|מִ]][[H2233H\|זַּרְע֗]][[H9023\|וֹ]] [[H0376I\|אִ֚ישׁ]] [[H3427\|יֹשֵׁב֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֣א]] [[H1732\|דָוִ֔ד]] [[H9002\|וּ]][[H4910\|מֹשֵׁ֥ל]] [[H5750\|ע֖וֹד]] [[H9003\|בִּ]][[H3063G\|יהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.29|<< Jeremiah 22:29]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.23.1|Jeremiah 23:1 >>]]</td></tr></table>
 

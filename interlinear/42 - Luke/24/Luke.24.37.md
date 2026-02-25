@@ -1,10 +1,52 @@
+---
+title: Luke 24:37
+type: Verse
+kjv: "But they were terrified and affrighted, and supposed that they had seen a spirit."
+bsb: "But they were startled and frightened, thinking they had seen a spirit."
+greek: "πτοηθέντες δὲ καὶ ἔμφοβοι γενόμενοι ἐδόκουν πνεῦμα θεωρεῖν."
+pericope: "[[Luke.24.36 Jesus Appears to the Disciples|Jesus Appears to the Disciples]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 24
+book/chapter: "[[Luke.24|Luke 24]]"
+chronological_order: 1016
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic TROUBLE|TROUBLE]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G4422]]"
+- "[[G1161]]"
+- "[[G2532]]"
+- "[[G1719]]"
+- "[[G1096]]"
+- "[[G1380]]"
+- "[[G4151G]]"
+- "[[G2334]]"
+texts:
+- NKO
+---
+
 **Luke 24:37**<big><big>[[Luke.24.36 Jesus Appears to the Disciples|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But they were terrified and affrighted, and supposed that they had seen a spirit.
 <small><sub>**BSB:**</sub></small>
 But they were startled and frightened, thinking they had seen a spirit.
-<small><sub>**Literal:**</sub></small>
-Having been terrified however and filled with fear having been they were thinking [themselves] a spirit to see.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.36|<< Luke 24:36]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.38|Luke 24:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4422\|πτοηθέντες]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G1719\|ἔμφοβοι]]  [[G1096\|γενόμενοι]]  [[G1380\|ἐδόκουν]]  [[G4151G\|πνεῦμα]]  [[G2334\|θεωρεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic TROUBLE|TROUBLE]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.24.36|<< Luke 24:36]]</td><td align="center" style="border:none;">[[Luke.24|Luke 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.24.38|Luke 24:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

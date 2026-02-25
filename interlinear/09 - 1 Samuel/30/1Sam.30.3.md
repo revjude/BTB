@@ -1,8 +1,61 @@
+---
+title: 1 Samuel 30:3
+type: Verse
+kjv: "So David and his men came to the city, and, behold, it was burned with fire; and their wives, and their sons, and their daughters, were taken captives."
+bsb: "When David and his men came to the city, they found it burned down and their wives and sons and daughters taken captive."
+hebrew: "וַיָּבֹ֨א דָוִ֤ד וַֽאֲנָשָׁיו֙ אֶל־ הָעִ֔יר וְהִנֵּ֥ה שְׂרוּפָ֖ה בָּאֵ֑שׁ וּנְשֵׁיהֶ֛ם וּבְנֵיהֶ֥ם וּבְנֹתֵיהֶ֖ם נִשְׁבּֽוּ׃"
+pericope: "[[1Sam.30.1 The Amalekites Raid Ziklag|The Amalekites Raid Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 30
+book/chapter: "[[1Sam.30|1 Samuel 30]]"
+chronological_order: 309
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMALEKITES|AMALEKITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H1732]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2009]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H0802H]]"
+- "[[H9028]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H7617]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 30:3**<big><big>[[1Sam.30.1 The Amalekites Raid Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So David and his men came to the city, and, behold, [it was] burned with fire; and their wives, and their sons, and their daughters, were taken captives.
 <small><sub>**BSB:**</sub></small>
 When David and his men came to the city, they found it burned down and their wives and sons and daughters taken captive.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H1732\|דָוִ֤ד]] [[H9002\|וַֽ]][[H0582\|אֲנָשָׁי]][[H9023\|ו֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֔יר]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H8313\|שְׂרוּפָ֖ה]] [[H9003\|בָּ]][[H0784\|אֵ֑שׁ]] [[H9002\|וּ]][[H0802H\|נְשֵׁי]][[H9028\|הֶ֛ם]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9028\|הֶ֥ם]] [[H9002\|וּ]][[H1323G\|בְנֹתֵי]][[H9028\|הֶ֖ם]] [[H7617\|נִשְׁבּֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMALEKITES|AMALEKITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.30.2|<< 1 Samuel 30:2]]</td><td align="center" style="border:none;">[[1Sam.30|1 Samuel 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.30.4|1 Samuel 30:4 >>]]</td></tr></table>
 

@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 5:13
+type: Verse
+kjv: "But them that are without God judgeth. Therefore put away from among yourselves that wicked person."
+bsb: "God will judge those outside. “Expel the wicked man from among you.”"
+greek: "τοὺς δὲ ἔξω ὁ θεὸς κρινεῖ; καί ἐξάρατε τὸν πονηρὸν ἐξ ὑμῶν αὐτῶν.¶"
+pericope: "[[1Cor.5.9 Expel the Immoral Brother|Expel the Immoral Brother]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 5
+book/chapter: "[[1Cor.5|1 Corinthians 5]]"
+chronological_order: 1062
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1854]]"
+- "[[G2316]]"
+- "[[G2919]]"
+- "[[G2532]]"
+- "[[G1808]]"
+- "[[G4190]]"
+- "[[G1537]]"
+- "[[G4771]]"
+- "[[G0846]]"
+texts:
+- NKO
+- NK(o)
+- k
+- N(k)O
+---
+
 **1 Corinthians 5:13**<big><big>[[1Cor.5.9 Expel the Immoral Brother|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But them that are without God judgeth. Therefore put away from among yourselves that wicked person.
 <small><sub>**BSB:**</sub></small>
 God will judge those outside. “Expel the wicked man from among you.”
-<small><sub>**Literal:**</sub></small>
-Those however outside <the> God will judge? and do yourselves expel the evil out from you them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.12|<< 1 Corinthians 5:12]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.1|1 Corinthians 6:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τοὺς]]  [[G1161\|δὲ]]  [[G1854\|ἔξω]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G2919\|κρινεῖ;]]  [[G2532\|καί]]  [[G1808\|ἐξάρατε]]  [[G3588\|τὸν]]  [[G4190\|πονηρὸν]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CHURCH|CHURCH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.5.12|<< 1 Corinthians 5:12]]</td><td align="center" style="border:none;">[[1Cor.5|1 Corinthians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.6.1|1 Corinthians 6:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **1 Corinthians 5:13** is...
 > $\quad$ referencing: [[LXX.Deut.17.7|Deut 17:7]]

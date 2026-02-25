@@ -1,8 +1,67 @@
+---
+title: 1 Chronicles 28:4
+type: Verse
+kjv: "Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel:"
+bsb: "Yet the LORD, the God of Israel, chose me out of all my father’s house to be king over Israel forever. For He chose Judah as leader, and from the house of Judah He chose my father’s household, and from my father’s sons He was pleased to make me king over all Israel."
+hebrew: "וַיִּבְחַ֡ר יְהוָ֣ה אֱלֹהֵי֩ יִשְׂרָאֵ֨ל בִּ֜י מִכֹּ֣ל בֵּית־ אָבִ֗י לִהְי֨וֹת לְמֶ֤לֶךְ עַל־ יִשְׂרָאֵל֙ לְעוֹלָ֔ם כִּ֤י בִֽיהוּדָה֙ בָּחַ֣ר לְנָגִ֔יד וּבְבֵ֥ית יְהוּדָ֖ה בֵּ֣ית אָבִ֑י וּבִבְנֵ֣י אָבִ֔י בִּ֣י רָצָ֔ה לְהַמְלִ֖יךְ עַל־ כָּל־ יִשְׂרָאֵֽל׃"
+pericope: "[[1Chr.28.1 David Commissions Solomon|David Commissions Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 28
+book/chapter: "[[1Chr.28|1 Chronicles 28]]"
+chronological_order: 439
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0977]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H1004M]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H1961]]"
+- "[[H4428G]]"
+- "[[H5921A]]"
+- "[[H5769G]]"
+- "[[H3588A]]"
+- "[[H3063G]]"
+- "[[H5057]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H7521]]"
+- "[[H4427A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 28:4**<big><big>[[1Chr.28.1 David Commissions Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah [to be] the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make [me] king over all Israel:
 <small><sub>**BSB:**</sub></small>
 Yet the LORD, the God of Israel, chose me out of all my father’s house to be king over Israel forever. For He chose Judah as leader, and from the house of Judah He chose my father’s household, and from my father’s sons He was pleased to make me king over all Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0977\|יִּבְחַ֡ר]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי֩]] [[H3478\|יִשְׂרָאֵ֨ל]] [[H9003\|בִּ֜]][[H9030\|י]] [[H9006\|מִ]][[H3605\|כֹּ֣ל]] [[H1004M\|בֵּית]][[H9014\|־]] [[H0001G\|אָבִ֗]][[H9020\|י]] [[H9005\|לִ]][[H1961\|הְי֨וֹת]] [[H9005\|לְ]][[H4428G\|מֶ֤לֶךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9005\|לְ]][[H5769G\|עוֹלָ֔ם]] [[H3588A\|כִּ֤י]] [[H9003\|בִֽ]][[H3063G\|יהוּדָה֙]] [[H0977\|בָּחַ֣ר]] [[H9005\|לְ]][[H5057\|נָגִ֔יד]] [[H9002\|וּ]][[H9003\|בְ]][[H1004M\|בֵ֥ית]] [[H3063G\|יְהוּדָ֖ה]] [[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֑]][[H9020\|י]] [[H9002\|וּ]][[H9003\|בִ]][[H1121A\|בְנֵ֣י]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H9003\|בִּ֣]][[H9030\|י]] [[H7521\|רָצָ֔ה]] [[H9005\|לְ]][[H4427A\|הַמְלִ֖יךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.28.3|<< 1 Chronicles 28:3]]</td><td align="center" style="border:none;">[[1Chr.28|1 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.28.5|1 Chronicles 28:5 >>]]</td></tr></table>
 

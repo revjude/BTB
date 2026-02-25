@@ -1,8 +1,63 @@
+---
+title: Genesis 1:18
+type: Verse
+kjv: "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good."
+bsb: "to preside over the day and the night, and to separate the light from the darkness. And God saw that it was good."
+hebrew: "וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־ טֽוֹב׃"
+pericope: "[[Gen.1.14 The Fourth Day|The Fourth Day]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 1
+book/chapter: "[[Gen.1|Genesis 1]]"
+chronological_order: 1
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic SUN|SUN]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3915]]"
+- "[[H0914]]"
+- "[[H0996G]]"
+- "[[H9009]]"
+- "[[H0216]]"
+- "[[H2822]]"
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H0430G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H2895]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 1:18**<big><big>[[Gen.1.14 The Fourth Day|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to rule over the day and over the night, and to divide the light from the darkness: and God saw that [it was] good.
 <small><sub>**BSB:**</sub></small>
 to preside over the day and the night, and to separate the light from the darkness. And God saw that it was good.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9005\|לִ]][[H4910\|מְשֹׁל֙]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9002\|וּ]][[H9003\|בַ]][[H3915\|לַּ֔יְלָה]] [[H9002\|וּֽ]][[H9005\|לֲ]][[H0914\|הַבְדִּ֔יל]] [[H0996G\|בֵּ֥ין]] [[H9009\|הָ]][[H0216\|א֖וֹר]] [[H9002\|וּ]][[H0996G\|בֵ֣ין]] [[H9009\|הַ]][[H2822\|חֹ֑שֶׁךְ]] [[H9001\|וַ]][[H7200G\|יַּ֥רְא]] [[H0430G\|אֱלֹהִ֖ים]] [[H3588A\|כִּי]][[H9014\|־]] [[H2895\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic NIGHT|NIGHT]] • [[topic SUN|SUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.1.17|<< Genesis 1:17]]</td><td align="center" style="border:none;">[[Gen.1|Genesis 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.1.19|Genesis 1:19 >>]]</td></tr></table>
 

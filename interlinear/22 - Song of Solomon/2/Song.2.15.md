@@ -1,8 +1,53 @@
+---
+title: Song of Solomon 2:15
+type: Verse
+kjv: "Take us the foxes, the little foxes, that spoil the vines: for our vines have tender grapes."
+bsb: "Catch for us the foxes—the little foxes that ruin the vineyards—for our vineyards are in bloom."
+hebrew: "אֶֽחֱזוּ־ לָ֙נוּ֙ שֽׁוּעָלִ֔ים שֽׁוּעָלִ֥ים קְטַנִּ֖ים מְחַבְּלִ֣ים כְּרָמִ֑ים וּכְרָמֵ֖ינוּ סְמָדַֽר׃"
+pericope: "[[Song.2.15 The Friends|The Friends]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 2
+book/chapter: "[[Song.2|Song of Solomon 2]]"
+chronological_order: 449
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic FLAGON|FLAGON]]"
+- "[[topic FOX|FOX]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H0270]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H7776]]"
+- "[[H6996A]]"
+- "[[H2254B]]"
+- "[[H3754]]"
+- "[[H9002]]"
+- "[[H9025]]"
+- "[[H5563]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 2:15**<big><big>[[Song.2.15 The Friends|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take us the foxes, the little foxes, that spoil the vines: for our vines [have] tender grapes.
 <small><sub>**BSB:**</sub></small>
 Catch for us the foxes—the little foxes that ruin the vineyards—for our vineyards are in bloom.
+<small><sub>**Hebrew:**</sub></small>
+[[H0270\|אֶֽחֱזוּ]][[H9014\|־]] [[H9005\|לָ֙]][[H9035\|נוּ֙]] [[H7776\|שֽׁוּעָלִ֔ים]] [[H7776\|שֽׁוּעָלִ֥ים]] [[H6996A\|קְטַנִּ֖ים]] [[H2254B\|מְחַבְּלִ֣ים]] [[H3754\|כְּרָמִ֑ים]] [[H9002\|וּ]][[H3754\|כְרָמֵ֖י]][[H9025\|נוּ]] [[H5563\|סְמָדַֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FLAGON|FLAGON]] • [[topic FOX|FOX]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.2.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.2.14|<< Song of Solomon 2:14]]</td><td align="center" style="border:none;">[[Song.2|Song of Solomon 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.2.16|Song of Solomon 2:16 >>]]</td></tr></table>
 

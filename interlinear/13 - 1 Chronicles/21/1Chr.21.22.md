@@ -1,8 +1,69 @@
+---
+title: 1 Chronicles 21:22
+type: Verse
+kjv: "Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar therein unto the LORD: thou shalt grant it me for the full price: that the plague may be stayed from the people."
+bsb: "Then David said to Ornan, “Grant me the site of this threshing floor, that I may build an altar to the LORD. Sell it to me for the full price, so that the plague upon the people may be halted.”"
+hebrew: "וַיֹּ֨אמֶר דָּוִ֜יד אֶל־ אָרְנָ֗ן תְּנָה־ לִּי֙ מְק֣וֹם הַגֹּ֔רֶן וְאֶבְנֶה־ בּ֥וֹ מִזְבֵּ֖חַ לַיהוָ֑ה בְּכֶ֤סֶף מָלֵא֙ תְּנֵ֣הוּ לִ֔י וְתֵעָצַ֥ר הַמַּגֵּפָ֖ה מֵעַ֥ל הָעָֽם׃"
+pericope: "[[1Chr.21.18 David Builds an Altar|David Builds an Altar]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 21
+book/chapter: "[[1Chr.21|1 Chronicles 21]]"
+chronological_order: 420
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARAUNAH|ARAUNAH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic ORNAN|ORNAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0771]]"
+- "[[H5414G]]"
+- "[[H9012]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4725]]"
+- "[[H9009]]"
+- "[[H1637]]"
+- "[[H9002]]"
+- "[[H1129]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4196]]"
+- "[[H3068G]]"
+- "[[H3701H]]"
+- "[[H4392]]"
+- "[[H6113]]"
+- "[[H4046]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 21:22**<big><big>[[1Chr.21.18 David Builds an Altar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then David said to Ornan, Grant me the place of [this] threshingfloor, that I may build an altar therein unto the LORD: thou shalt grant it me for the full price: that the plague may be stayed from the people.
 <small><sub>**BSB:**</sub></small>
 Then David said to Ornan, “Grant me the site of this threshing floor, that I may build an altar to the LORD. Sell it to me for the full price, so that the plague upon the people may be halted.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֜יד]] [[H0413\|אֶל]][[H9014\|־]] [[H0771\|אָרְנָ֗ן]] [[H5414G\|תְּנָ]][[H9012\|ה]][[H9014\|־]] [[H9005\|לִּ]][[H9030\|י֙]] [[H4725\|מְק֣וֹם]] [[H9009\|הַ]][[H1637\|גֹּ֔רֶן]] [[H9002\|וְ]][[H1129\|אֶבְנֶה]][[H9014\|־]] [[H9003\|בּ֥]][[H9033\|וֹ]] [[H4196\|מִזְבֵּ֖חַ]] [[H9005\|לַ]][[H3068G\|יהוָ֑ה]] [[H9003\|בְּ]][[H3701H\|כֶ֤סֶף]] [[H4392\|מָלֵא֙]] [[H5414G\|תְּנֵ֣]][[H9033\|הוּ]] [[H9005\|לִ֔]][[H9030\|י]] [[H9002\|וְ]][[H6113\|תֵעָצַ֥ר]] [[H9009\|הַ]][[H4046\|מַּגֵּפָ֖ה]] [[H9006\|מֵ]][[H5921A\|עַ֥ל]] [[H9009\|הָ]][[H5971A\|עָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAUNAH|ARAUNAH]] • [[topic MIRACLES|MIRACLES]] • [[topic ORNAN|ORNAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.21.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.21.21|<< 1 Chronicles 21:21]]</td><td align="center" style="border:none;">[[1Chr.21|1 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.21.23|1 Chronicles 21:23 >>]]</td></tr></table>
 

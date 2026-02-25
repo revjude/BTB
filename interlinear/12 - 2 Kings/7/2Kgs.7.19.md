@@ -1,8 +1,71 @@
+---
+title: 2 Kings 7:19
+type: Verse
+kjv: "And that lord answered the man of God, and said, Now, behold, if the LORD should make windows in heaven, might such a thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof."
+bsb: "And the officer had answered the man of God, “Look, even if the LORD were to make windows in heaven, could this really happen?” So Elisha had replied, “You will see it with your own eyes, but you will not eat any of it!”"
+hebrew: "וַיַּ֨עַן הַשָּׁלִ֜ישׁ אֶת־ אִ֣ישׁ הָאֱלֹהִים֮ וַיֹּאמַר֒ וְהִנֵּ֣ה יְהוָ֗ה עֹשֶׂ֤ה אֲרֻבּוֹת֙ בַּשָּׁמַ֔יִם הֲיִהְיֶ֖ה כַּדָּבָ֣ר הַזֶּ֑ה וַיֹּ֗אמֶר הִנְּךָ֤ רֹאֶה֙ בְּעֵינֶ֔יךָ וּמִשָּׁ֖ם לֹ֥א תֹאכֵֽל׃"
+pericope: "[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|Elisha’s Prophecy Fulfilled]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 7
+book/chapter: "[[2Kgs.7|2 Kings 7]]"
+chronological_order: 579
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H6030B]]"
+- "[[H9009]]"
+- "[[H7991C]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H0430G]]"
+- "[[H0559]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3068G]]"
+- "[[H6213H]]"
+- "[[H0699]]"
+- "[[H9003]]"
+- "[[H8064]]"
+- "[[H9008]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H1697O]]"
+- "[[H2088]]"
+- "[[H2005]]"
+- "[[H9041]]"
+- "[[H7200G]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H3808]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 7:19**<big><big>[[2Kgs.7.16 Elisha’s Prophecy Fulfilled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that lord answered the man of God, and said, Now, behold, [if] the LORD should make windows in heaven, might such a thing be? And he said, Behold, thou shalt see it with thine eyes, but shalt not eat thereof.
 <small><sub>**BSB:**</sub></small>
 And the officer had answered the man of God, “Look, even if the LORD were to make windows in heaven, could this really happen?” So Elisha had replied, “You will see it with your own eyes, but you will not eat any of it!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6030B\|יַּ֨עַן]] [[H9009\|הַ]][[H7991C\|שָּׁלִ֜ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0376G\|אִ֣ישׁ]] [[H9009\|הָ]][[H0430G\|אֱלֹהִים֮]] [[H9001\|וַ]][[H0559\|יֹּאמַר֒]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H3068G\|יְהוָ֗ה]] [[H6213H\|עֹשֶׂ֤ה]] [[H0699\|אֲרֻבּוֹת֙]] [[H9003\|בַּ]][[H8064\|שָּׁמַ֔יִם]] [[H9008\|הֲ]][[H1961\|יִהְיֶ֖ה]] [[H9004\|כַּ]][[H1697O\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H2005\|הִנְּ]][[H9041\|ךָ֤]] [[H7200G\|רֹאֶה֙]] [[H9003\|בְּ]][[H5869A\|עֵינֶ֔י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H3808\|לֹ֥א]] [[H0398\|תֹאכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.7.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.7.18|<< 2 Kings 7:18]]</td><td align="center" style="border:none;">[[2Kgs.7|2 Kings 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.7.20|2 Kings 7:20 >>]]</td></tr></table>
 

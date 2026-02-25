@@ -1,10 +1,60 @@
+---
+title: Ephesians 2:2
+type: Verse
+kjv: "Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:"
+bsb: "in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience."
+greek: "ἐν αἷς ποτε περιεπατήσατε κατὰ τὸν αἰῶνα τοῦ κόσμου τούτου, κατὰ τὸν ἄρχοντα τῆς ἐξουσίας τοῦ ἀέρος, τοῦ πνεύματος τοῦ νῦν ἐνεργοῦντος ἐν τοῖς υἱοῖς τῆς ἀπειθείας,"
+pericope: "[[Eph.2.1 Alive with Christ|Alive with Christ]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 2
+book/chapter: "[[Eph.2|Ephesians 2]]"
+chronological_order: 1112
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G4218]]"
+- "[[G4043]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G0165G]]"
+- "[[G2889]]"
+- "[[G3778]]"
+- "[[G0758]]"
+- "[[G1849]]"
+- "[[G0109]]"
+- "[[G4151G]]"
+- "[[G3568]]"
+- "[[G1754]]"
+- "[[G5207]]"
+- "[[G0543]]"
+texts:
+- NKO
+---
+
 **Ephesians 2:2**<big><big>[[Eph.2.1 Alive with Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:
 <small><sub>**BSB:**</sub></small>
 in which you used to walk when you conformed to the ways of this world and of the ruler of the power of the air, the spirit who is now at work in the sons of disobedience.
-<small><sub>**Literal:**</sub></small>
-in which once you walked according to the age <the> world of this, according to the ruler of the authority of the air, the spirit <the> now working in the sons <the> of disobedience,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.1|<< Ephesians 2:1]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.3|Ephesians 2:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|αἷς]]  [[G4218\|ποτε]]  [[G4043\|περιεπατήσατε]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G0165G\|αἰῶνα]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3778\|τούτου,]]  [[G2596\|κατὰ]]  [[G3588\|τὸν]]  [[G0758\|ἄρχοντα]]  [[G3588\|τῆς]]  [[G1849\|ἐξουσίας]]  [[G3588\|τοῦ]]  [[G0109\|ἀέρος,]]  [[G3588\|τοῦ]]  [[G4151G\|πνεύματος]]  [[G3588\|τοῦ]]  [[G3568\|νῦν]]  [[G1754\|ἐνεργοῦντος]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G5207\|υἱοῖς]]  [[G3588\|τῆς]]  [[G0543\|ἀπειθείας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic SATAN|SATAN]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.2.1|<< Ephesians 2:1]]</td><td align="center" style="border:none;">[[Eph.2|Ephesians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.2.3|Ephesians 2:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

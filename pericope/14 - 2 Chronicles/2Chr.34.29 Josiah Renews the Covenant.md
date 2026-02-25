@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Josiah Renews the Covenant
+type: Pericope
 pericope: "[[2Chr.34.29 Josiah Renews the Covenant|Josiah Renews the Covenant]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 34
 book/chapter: "[[2Chr.34|2 Chronicles 34]]"
-genre:
+chronological_order: 713
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 5
 verses:
 - "[[2Chr.34.29]]"
 - "[[2Chr.34.30]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Chr.34.33]]"
 ---
 
-[[2Chr.34|2 Chronicles 34:29 - 2 Chronicles 34:33]]
+<small>[[2Chr.34|2 Chronicles 34:29-33]]</small>
 *Josiah Renews the Covenant*
 
 [[2Chr.34.29|29]] Then the king sent and gathered together all the elders of Judah and Jerusalem.

@@ -1,8 +1,55 @@
+---
+title: Jeremiah 48:10
+type: Verse
+kjv: "Cursed be he that doeth the work of the LORD deceitfully, and cursed be he that keepeth back his sword from blood."
+bsb: "Cursed is the one who is remiss in doing the work of the LORD, and cursed is he who withholds his sword from bloodshed."
+hebrew: "אָר֗וּר עֹשֶׂ֛ה מְלֶ֥אכֶת יְהוָ֖ה רְמִיָּ֑ה וְאָר֕וּר מֹנֵ֥עַ חַרְבּ֖וֹ מִדָּֽם׃"
+pericope: "[[Jer.48.1 Judgment on Moab|Judgment on Moab]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 48
+book/chapter: "[[Jer.48|Jeremiah 48]]"
+chronological_order: 771
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0779]]"
+- "[[H6213A]]"
+- "[[H4399]]"
+- "[[H3068G]]"
+- "[[H7423B]]"
+- "[[H9002]]"
+- "[[H4513]]"
+- "[[H2719]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 48:10**<big><big>[[Jer.48.1 Judgment on Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Cursed [be] he that doeth the work of the LORD deceitfully, and cursed [be] he that keepeth back his sword from blood.
 <small><sub>**BSB:**</sub></small>
 Cursed is the one who is remiss in doing the work of the LORD, and cursed is he who withholds his sword from bloodshed.
+<small><sub>**Hebrew:**</sub></small>
+[[H0779\|אָר֗וּר]] [[H6213A\|עֹשֶׂ֛ה]] [[H4399\|מְלֶ֥אכֶת]] [[H3068G\|יְהוָ֖ה]] [[H7423B\|רְמִיָּ֑ה]] [[H9002\|וְ]][[H0779\|אָר֕וּר]] [[H4513\|מֹנֵ֥עַ]] [[H2719\|חַרְבּ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H1818\|דָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.48.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.48.9|<< Jeremiah 48:9]]</td><td align="center" style="border:none;">[[Jer.48|Jeremiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.48.11|Jeremiah 48:11 >>]]</td></tr></table>
 

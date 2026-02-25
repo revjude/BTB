@@ -1,10 +1,55 @@
+---
+title: Revelation 22:20
+type: Verse
+kjv: "He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus."
+bsb: "He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus!"
+jesus_said: "Surely I come quickly."
+greek: "Λέγει ὁ μαρτυρῶν ταῦτα· ναὶ ἔρχομαι ταχύ· ἀμήν. ναί ἔρχου, κύριε Ἰησοῦ.¶"
+pericope: "[[Rev.22.18 Nothing May Be Added or Removed|Nothing May Be Added or Removed]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 22
+book/chapter: "[[Rev.22|Revelation 22]]"
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic AMEN|AMEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3588]]"
+- "[[G3140]]"
+- "[[G3778]]"
+- "[[G3483]]"
+- "[[G2064]]"
+- "[[G5035]]"
+- "[[G0281]]"
+- "[[G2962G]]"
+- "[[G2424G]]"
+texts:
+- NKO
+- KO
+---
+
 **Revelation 22:20**<big><big>[[Rev.22.6 Jesus Is Coming|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.
 <small><sub>**BSB:**</sub></small>
 He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus!
-<small><sub>**Literal:**</sub></small>
-Says the [One] testifying these things; Yes I am coming quickly; Amen. yes do come, Lord Jesus!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.19|<< Revelation 22:19]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.21|Revelation 22:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|Λέγει]]  [[G3588\|ὁ]]  [[G3140\|μαρτυρῶν]]  [[G3778\|ταῦτα·]]  [[G3483\|ναὶ]]  [[G2064\|ἔρχομαι]]  [[G5035\|ταχύ·]]  [[G0281\|ἀμήν.]]  [[G3483\|ναί]]  [[G2064\|ἔρχου,]]  [[G2962G\|κύριε]]  [[G2424G\|Ἰησοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMEN|AMEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.22.19|<< Revelation 22:19]]</td><td align="center" style="border:none;">[[Rev.22|Revelation 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.22.21|Revelation 22:21 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 22:20** is...
 > $\quad$ possibly alluding to: [[LXX.Hab.2.3|Hab 2:3]]

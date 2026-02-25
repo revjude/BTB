@@ -1,8 +1,57 @@
+---
+title: Psalm 78:33
+type: Verse
+kjv: "Therefore their days did he consume in vanity, and their years in trouble."
+bsb: "So He ended their days in futility, and their years in sudden terror."
+hebrew: "וַיְכַל־ בַּהֶ֥בֶל יְמֵיהֶ֑ם וּ֝שְׁנוֹתָ֗ם בַּבֶּהָלָֽה׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H3615J]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H1892]]"
+- "[[H3117G]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H8141]]"
+- "[[H0928]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:33**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore their days did he consume in vanity, and their years in trouble.
 <small><sub>**BSB:**</sub></small>
 So He ended their days in futility, and their years in sudden terror.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3615J\|יְכַל]][[H9014\|־]] [[H9003\|בַּ]][[H1892\|הֶ֥בֶל]] [[H3117G\|יְמֵי]][[H9028\|הֶ֑ם]] [[H9002\|וּ֝]][[H8141\|שְׁנוֹתָ֗]][[H9028\|ם]] [[H9003\|בַּ]][[H0928\|בֶּהָלָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic VANITY|VANITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.32|<< Psalms 78:32]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.34|Psalms 78:34 >>]]</td></tr></table>
 

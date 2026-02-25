@@ -1,10 +1,56 @@
+---
+title: Ephesians 1:1
+type: Verse
+kjv: "Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:"
+bsb: "Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:"
+greek: "Παῦλος ἀπόστολος Χριστοῦ Ἰησοῦ διὰ θελήματος θεοῦ τοῖς ἁγίοις τοῖς οὖσιν ἐν Ἐφέσῳ καὶ πιστοῖς ἐν Χριστῷ Ἰησοῦ·"
+pericope: "[[Eph.1.1 Paul’s Greeting to the Ephesians|Paul’s Greeting to the Ephesians]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 1
+book/chapter: "[[Eph.1|Ephesians 1]]"
+chronological_order: 1111
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3972G]]"
+- "[[G0652]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1223]]"
+- "[[G2307]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G0040H]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G2181]]"
+- "[[G2532]]"
+- "[[G4103]]"
+texts:
+- NKO
+---
+
 **Ephesians 1:1**<big><big>[[Eph.1.1 Paul’s Greeting to the Ephesians|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Paul, an apostle of Jesus Christ by the will of God, to the saints which are at Ephesus, and to the faithful in Christ Jesus:
 <small><sub>**BSB:**</sub></small>
 Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:
-<small><sub>**Literal:**</sub></small>
-Paul an apostle of Christ Jesus through [the] will of God To the saints who are being in Ephesus and faithful in Christ Jesus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.18|<< Galatians 6:18]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.2|Ephesians 1:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3972G\|Παῦλος]]  [[G0652\|ἀπόστολος]]  [[G5547\|Χριστοῦ]]  [[G2424G\|Ἰησοῦ]]  [[G1223\|διὰ]]  [[G2307\|θελήματος]]  [[G2316\|θεοῦ]]  [[G3588\|τοῖς]]  [[G0040H\|ἁγίοις]]  [[G3588\|τοῖς]]  [[G1510\|οὖσιν]]  [[G1722\|ἐν]]  [[G2181\|Ἐφέσῳ]]  [[G2532\|καὶ]]  [[G4103\|πιστοῖς]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G2424G\|Ἰησοῦ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic PAUL|PAUL]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.6.18|<< Galatians 6:18]]</td><td align="center" style="border:none;">[[Eph.1|Ephesians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.1.2|Ephesians 1:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

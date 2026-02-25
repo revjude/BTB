@@ -1,8 +1,55 @@
+---
+title: Isaiah 57:12
+type: Verse
+kjv: "I will declare thy righteousness, and thy works; for they shall not profit thee."
+bsb: "I will expose your righteousness and your works, and they will not profit you."
+hebrew: "אֲנִ֥י אַגִּ֖יד צִדְקָתֵ֑ךְ וְאֶֽת־ מַעֲשַׂ֖יִךְ וְלֹ֥א יוֹעִילֽוּךְ׃"
+pericope: "[[Isa.57.3 God Condemns Idolatry|God Condemns Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[H0589]]"
+- "[[H5046]]"
+- "[[H6666]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4639K]]"
+- "[[H3808]]"
+- "[[H3276]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 57:12**<big><big>[[Isa.57.3 God Condemns Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will declare thy righteousness, and thy works; for they shall not profit thee.
 <small><sub>**BSB:**</sub></small>
 I will expose your righteousness and your works, and they will not profit you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0589\|אֲנִ֥י]] [[H5046\|אַגִּ֖יד]] [[H6666\|צִדְקָתֵ֑]][[H9022\|ךְ]] [[H9002\|וְ]][[H0853\|אֶֽת]][[H9014\|־]] [[H4639K\|מַעֲשַׂ֖יִ]][[H9022\|ךְ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3276\|יוֹעִילֽוּ]][[H9032\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]] • [[topic VANITY|VANITY]] • [[topic WORKS|WORKS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.11|<< Isaiah 57:11]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.13|Isaiah 57:13 >>]]</td></tr></table>
 

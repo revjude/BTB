@@ -1,8 +1,61 @@
+---
+title: Genesis 39:2
+type: Verse
+kjv: "And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian."
+bsb: "And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master."
+hebrew: "וַיְהִ֤י יְהוָה֙ אֶת־ יוֹסֵ֔ף וַיְהִ֖י אִ֣ישׁ מַצְלִ֑יחַ וַיְהִ֕י בְּבֵ֥ית אֲדֹנָ֖יו הַמִּצְרִֽי׃"
+pericope: "[[Gen.39.1 Joseph and Potiphar’s Wife|Joseph and Potiphar’s Wife]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 39
+book/chapter: "[[Gen.39|Genesis 39]]"
+chronological_order: 81
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3068G]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H3130G]]"
+- "[[H0376G]]"
+- "[[H6743B]]"
+- "[[H9003]]"
+- "[[H1004M]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H9009]]"
+- "[[H4713]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 39:2**<big><big>[[Gen.39.1 Joseph and Potiphar’s Wife|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.
 <small><sub>**BSB:**</sub></small>
 And the LORD was with Joseph, and he became a successful man, serving in the household of his Egyptian master.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H3068G\|יְהוָה֙]] [[H0854\|אֶת]][[H9014\|־]] [[H3130G\|יוֹסֵ֔ף]] [[H9001\|וַ]][[H1961\|יְהִ֖י]] [[H0376G\|אִ֣ישׁ]] [[H6743B\|מַצְלִ֑יחַ]] [[H9001\|וַ]][[H1961\|יְהִ֕י]] [[H9003\|בְּ]][[H1004M\|בֵ֥ית]] [[H0113\|אֲדֹנָ֖י]][[H9023\|ו]] [[H9009\|הַ]][[H4713\|מִּצְרִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOD|GOD]] • [[topic JOSEPH|JOSEPH]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.39.1|<< Genesis 39:1]]</td><td align="center" style="border:none;">[[Gen.39|Genesis 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.39.3|Genesis 39:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

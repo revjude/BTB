@@ -1,8 +1,66 @@
+---
+title: 1 Chronicles 17:17
+type: Verse
+kjv: "And yet this was a small thing in thine eyes, O God; for thou hast also spoken of thy servant’s house for a great while to come, and hast regarded me according to the estate of a man of high degree, O LORD God."
+bsb: "And as if this was a small thing in Your eyes, O God, You have spoken about the future of the house of Your servant and have regarded me as a man of great distinction, O LORD God."
+hebrew: "וַתִּקְטַ֨ן זֹ֤את בְּעֵינֶ֙יךָ֙ אֱלֹהִ֔ים וַתְּדַבֵּ֥ר עַל־ בֵּֽית־ עַבְדְּךָ֖ לְמֵרָח֑וֹק וּרְאִיתַ֗נִי כְּת֧וֹר הָאָדָ֛ם הַֽמַּעֲלָ֖ה יְהוָ֥ה אֱלֹהִֽים׃"
+pericope: "[[1Chr.17.16 David’s Prayer of Thanksgiving|David’s Prayer of Thanksgiving]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 17
+book/chapter: "[[1Chr.17|1 Chronicles 17]]"
+chronological_order: 398
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H9001]]"
+- "[[H6994]]"
+- "[[H2063]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9021]]"
+- "[[H0430G]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H5650]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H9004]]"
+- "[[H8448]]"
+- "[[H9009]]"
+- "[[H0120G]]"
+- "[[H4609B]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 17:17**<big><big>[[1Chr.17.16 David’s Prayer of Thanksgiving|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [yet] this was a small thing in thine eyes, O God; for thou hast [also] spoken of thy servant’s house for a great while to come, and hast regarded me according to the estate of a man of high degree, O LORD God.
 <small><sub>**BSB:**</sub></small>
 And as if this was a small thing in Your eyes, O God, You have spoken about the future of the house of Your servant and have regarded me as a man of great distinction, O LORD God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6994\|תִּקְטַ֨ן]] [[H2063\|זֹ֤את]] [[H9003\|בְּ]][[H5869I\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H0430G\|אֱלֹהִ֔ים]] [[H9001\|וַ]][[H1696G\|תְּדַבֵּ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H1004M\|בֵּֽית]][[H9014\|־]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֖]] [[H9005\|לְ]][[H9006\|מֵ]][[H7350\|רָח֑וֹק]] [[H9001\|וּ]][[H7200G\|רְאִיתַ֗]][[H9030\|נִי]] [[H9004\|כְּ]][[H8448\|ת֧וֹר]] [[H9009\|הָ]][[H0120G\|אָדָ֛ם]] [[H9009\|הַֽ]][[H4609B\|מַּעֲלָ֖ה]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HUMILITY|HUMILITY]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.17.16|<< 1 Chronicles 17:16]]</td><td align="center" style="border:none;">[[1Chr.17|1 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.17.18|1 Chronicles 17:18 >>]]</td></tr></table>
 

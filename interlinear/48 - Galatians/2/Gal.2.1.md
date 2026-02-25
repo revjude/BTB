@@ -1,10 +1,55 @@
+---
+title: Galatians 2:1
+type: Verse
+kjv: "Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with me also."
+bsb: "Fourteen years later I went up again to Jerusalem, accompanied by Barnabas. I took Titus along also."
+greek: "Ἔπειτα διὰ δεκατεσσάρων ἐτῶν πάλιν ἀνέβην εἰς Ἱεροσόλυμα μετὰ Βαρναβᾶ συμπαραλαβὼν καὶ Τίτον·"
+pericope: "[[Gal.2.1 The Council at Jerusalem|The Council at Jerusalem]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TITUS|TITUS]]"
+strongs:
+- "[[G1899]]"
+- "[[G1223]]"
+- "[[G1180]]"
+- "[[G2094]]"
+- "[[G3825]]"
+- "[[G0305]]"
+- "[[G1519]]"
+- "[[G2414]]"
+- "[[G3326]]"
+- "[[G0921G]]"
+- "[[G4838]]"
+- "[[G2532]]"
+- "[[G5103]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Galatians 2:1**<big><big>[[Gal.2.1 The Council at Jerusalem|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then fourteen years after I went up again to Jerusalem with Barnabas, and took Titus with [me] also.
 <small><sub>**BSB:**</sub></small>
 Fourteen years later I went up again to Jerusalem, accompanied by Barnabas. I took Titus along also.
-<small><sub>**Literal:**</sub></small>
-Then after fourteen years again I went up to Jerusalem with Barnabas having taken with [me] also Titus;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.24|<< Galatians 1:24]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.2|Galatians 2:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1899\|Ἔπειτα]]  [[G1223\|διὰ]]  [[G1180\|δεκατεσσάρων]]  [[G2094\|ἐτῶν]]  [[G3825\|πάλιν]]  [[G0305\|ἀνέβην]]  [[G1519\|εἰς]]  [[G2414\|Ἱεροσόλυμα]]  [[G3326\|μετὰ]]  [[G0921G\|Βαρναβᾶ]]  [[G4838\|συμπαραλαβὼν]]  [[G2532\|καὶ]]  [[G5103\|Τίτον·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TITUS|TITUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.1.24|<< Galatians 1:24]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.2|Galatians 2:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

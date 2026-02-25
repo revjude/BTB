@@ -1,10 +1,59 @@
+---
+title: Revelation 14:19
+type: Verse
+kjv: "And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast it into the great winepress of the wrath of God."
+bsb: "So the angel swung his sickle over the earth and gathered the grapes of the earth, and he threw them into the great winepress of God’s wrath."
+greek: "καὶ ἔβαλεν ὁ ἄγγελος τὸ δρέπανον αὐτοῦ εἰς τὴν γῆν καὶ ἐτρύγησεν τὴν ἄμπελον τῆς γῆς καὶ ἔβαλεν εἰς τὴν ληνὸν τοῦ θυμοῦ τοῦ θεοῦ τὸν μέγαν."
+pericope: "[[Rev.14.14 The Harvest of the Earth|The Harvest of the Earth]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 14
+book/chapter: "[[Rev.14|Revelation 14]]"
+chronological_order: 1181
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic SICKLE|SICKLE]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WINE PRESS|WINE PRESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G0906G]]"
+- "[[G3588]]"
+- "[[G0032G]]"
+- "[[G1407]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G1093G]]"
+- "[[G5166]]"
+- "[[G0288]]"
+- "[[G3025]]"
+- "[[G2372]]"
+- "[[G2316]]"
+- "[[G3173]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Revelation 14:19**<big><big>[[Rev.14.14 The Harvest of the Earth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the angel thrust in his sickle into the earth, and gathered the vine of the earth, and cast [it] into the great winepress of the wrath of God.
 <small><sub>**BSB:**</sub></small>
 So the angel swung his sickle over the earth and gathered the grapes of the earth, and he threw them into the great winepress of God’s wrath.
-<small><sub>**Literal:**</sub></small>
-And put forth the angel the sickle of him to the earth and gathered the vine of the earth and cast [them] into the winepress of the wrath <the> of God <the> great.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.18|<< Revelation 14:18]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.20|Revelation 14:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0906G\|ἔβαλεν]]  [[G3588\|ὁ]]  [[G0032G\|ἄγγελος]]  [[G3588\|τὸ]]  [[G1407\|δρέπανον]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G1093G\|γῆν]]  [[G2532\|καὶ]]  [[G5166\|ἐτρύγησεν]]  [[G3588\|τὴν]]  [[G0288\|ἄμπελον]]  [[G3588\|τῆς]]  [[G1093G\|γῆς]]  [[G2532\|καὶ]]  [[G0906G\|ἔβαλεν]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G3025\|ληνὸν]]  [[G3588\|τοῦ]]  [[G2372\|θυμοῦ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G3588\|τὸν]]  [[G3173\|μέγαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRAPE|GRAPE]] • [[topic SICKLE|SICKLE]] • [[topic VISION|VISION]] • [[topic WINE PRESS|WINE PRESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.14.18|<< Revelation 14:18]]</td><td align="center" style="border:none;">[[Rev.14|Revelation 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.14.20|Revelation 14:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 14:19** is...
 > $\quad$ alluding to: [[LXX.Isa.63.3|Isa 63:3]] ☩ [[LXX.Lam.1.15|Lam 1:15]] ☩ [[LXX.Joel.3.13|Joel 3:13]]

@@ -1,8 +1,72 @@
+---
+title: Ecclesiastes 11:6
+type: Verse
+kjv: "In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good."
+bsb: "Sow your seed in the morning, and do not rest your hands in the evening, for you do not know which will succeed, whether this or that, or if both will equally prosper."
+hebrew: "בַּבֹּ֙קֶר֙ זְרַ֣ע אֶת־ זַרְעֶ֔ךָ וְלָעֶ֖רֶב אַל־ תַּנַּ֣ח יָדֶ֑ךָ כִּי֩ אֵֽינְךָ֨ יוֹדֵ֜ע אֵ֣י זֶ֤ה יִכְשָׁר֙ הֲזֶ֣ה אוֹ־ זֶ֔ה וְאִם־ שְׁנֵיהֶ֥ם כְּאֶחָ֖ד טוֹבִֽים׃"
+pericope: "[[Eccl.11.1 Cast Your Bread upon the Waters|Cast Your Bread upon the Waters]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 11
+book/chapter: "[[Eccl.11|Ecclesiastes 11]]"
+chronological_order: 549
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic ECONOMICS|ECONOMICS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic SEED|SEED]]"
+strongs:
+- "[[H9003]]"
+- "[[H1242]]"
+- "[[H2232]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2233G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6153]]"
+- "[[H0408]]"
+- "[[H5117]]"
+- "[[H3027G]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H9041]]"
+- "[[H3045]]"
+- "[[H0335]]"
+- "[[H2088]]"
+- "[[H3787]]"
+- "[[H9008]]"
+- "[[H0176A]]"
+- "[[H0518A]]"
+- "[[H8147]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 11:6**<big><big>[[Eccl.11.1 Cast Your Bread upon the Waters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the morning sow thy seed, and in the evening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both [shall be] alike good.
 <small><sub>**BSB:**</sub></small>
 Sow your seed in the morning, and do not rest your hands in the evening, for you do not know which will succeed, whether this or that, or if both will equally prosper.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H1242\|בֹּ֙קֶר֙]] [[H2232\|זְרַ֣ע]] [[H0853\|אֶת]][[H9014\|־]] [[H2233G\|זַרְעֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H9005\|לָ]][[H6153\|עֶ֖רֶב]] [[H0408\|אַל]][[H9014\|־]] [[H5117\|תַּנַּ֣ח]] [[H3027G\|יָדֶ֑]][[H9021\|ךָ]] [[H3588A\|כִּי֩]] [[H0369\|אֵֽינְ]][[H9041\|ךָ֨]] [[H3045\|יוֹדֵ֜ע]] [[H0335\|אֵ֣י]] [[H2088\|זֶ֤ה]] [[H3787\|יִכְשָׁר֙]] [[H9008\|הֲ]][[H2088\|זֶ֣ה]] [[H0176A\|אוֹ]][[H9014\|־]] [[H2088\|זֶ֔ה]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H8147\|שְׁנֵי]][[H9028\|הֶ֥ם]] [[H9004\|כְּ]][[H0259\|אֶחָ֖ד]] [[H2896A\|טוֹבִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic ECONOMICS|ECONOMICS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic SEED|SEED]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.11.5|<< Ecclesiastes 11:5]]</td><td align="center" style="border:none;">[[Eccl.11|Ecclesiastes 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.11.7|Ecclesiastes 11:7 >>]]</td></tr></table>
 

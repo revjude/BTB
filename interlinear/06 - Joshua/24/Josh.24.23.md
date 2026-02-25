@@ -1,8 +1,62 @@
+---
+title: Joshua 24:23
+type: Verse
+kjv: "Now therefore put away, said he, the strange gods which are among you, and incline your heart unto the LORD God of Israel."
+bsb: "“Now, therefore,” he said, “get rid of the foreign gods among you and incline your hearts to the LORD, the God of Israel.”"
+hebrew: "וְעַתָּ֕ה הָסִ֛ירוּ אֶת־ אֱלֹהֵ֥י הַנֵּכָ֖ר אֲשֶׁ֣ר בְּקִרְבְּכֶ֑ם וְהַטּוּ֙ אֶת־ לְבַבְכֶ֔ם אֶל־ יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic POLYTHEISM|POLYTHEISM]]"
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H5493G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0430]]"
+- "[[H9009]]"
+- "[[H5236]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9026]]"
+- "[[H5186]]"
+- "[[H3824]]"
+- "[[H0413]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 24:23**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore put away, [said he], the strange gods which [are] among you, and incline your heart unto the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
 “Now, therefore,” he said, “get rid of the foreign gods among you and incline your hearts to the LORD, the God of Israel.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H5493G\|הָסִ֛ירוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵ֥י]] [[H9009\|הַ]][[H5236\|נֵּכָ֖ר]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בְּ]][[H7130G\|קִרְבְּ]][[H9026\|כֶ֑ם]] [[H9002\|וְ]][[H5186\|הַטּוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3824\|לְבַבְ]][[H9026\|כֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic DECISION|DECISION]] • [[topic POLYTHEISM|POLYTHEISM]] • [[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.22|<< Joshua 24:22]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.24|Joshua 24:24 >>]]</td></tr></table>
 

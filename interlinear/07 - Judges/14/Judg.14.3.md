@@ -1,8 +1,77 @@
+---
+title: Judges 14:3
+type: Verse
+kjv: "Then his father and his mother said unto him, Is there never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well."
+bsb: "But his father and mother replied, “Can’t you find a young woman among your relatives or among any of our people? Must you go to the uncircumcised Philistines to get a wife?” But Samson told his father, “Get her for me, for she is pleasing to my eyes.”"
+hebrew: "וַיֹּ֨אמֶר ל֜וֹ אָבִ֣יו וְאִמּ֗וֹ הַאֵין֩ בִּבְנ֨וֹת אַחֶ֤יךָ וּבְכָל־ עַמִּי֙ אִשָּׁ֔ה כִּֽי־ אַתָּ֤ה הוֹלֵךְ֙ לָקַ֣חַת אִשָּׁ֔ה מִפְּלִשְׁתִּ֖ים הָעֲרֵלִ֑ים וַיֹּ֨אמֶר שִׁמְשׁ֤וֹן אֶל־ אָבִיו֙ אוֹתָ֣הּ קַֽח־ לִ֔י כִּֽי־ הִ֖יא יָשְׁרָ֥ה בְעֵינָֽי׃"
+pericope: "[[Judg.14.1 Samson’s Marriage|Samson’s Marriage]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H0517]]"
+- "[[H9008]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H1323G]]"
+- "[[H0251H]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5971B]]"
+- "[[H9020]]"
+- "[[H0802G]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H1980G]]"
+- "[[H3947I]]"
+- "[[H0802H]]"
+- "[[H9006]]"
+- "[[H6430G]]"
+- "[[H9009]]"
+- "[[H6189]]"
+- "[[H8123]]"
+- "[[H0413]]"
+- "[[H0853]]"
+- "[[H9034]]"
+- "[[H9030]]"
+- "[[H1931]]"
+- "[[H3474]]"
+- "[[H5869A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:3**<big><big>[[Judg.14.1 Samson’s Marriage|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then his father and his mother said unto him, [Is there] never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.
 <small><sub>**BSB:**</sub></small>
 But his father and mother replied, “Can’t you find a young woman among your relatives or among any of our people? Must you go to the uncircumcised Philistines to get a wife?” But Samson told his father, “Get her for me, for she is pleasing to my eyes.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H9005\|ל֜]][[H9033\|וֹ]] [[H0001G\|אָבִ֣י]][[H9023\|ו]] [[H9002\|וְ]][[H0517\|אִמּ֗]][[H9023\|וֹ]] [[H9008\|הַ]][[H0369\|אֵין֩]] [[H9003\|בִּ]][[H1323G\|בְנ֨וֹת]] [[H0251H\|אַחֶ֤י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H5971B\|עַמִּ]][[H9020\|י֙]] [[H0802G\|אִשָּׁ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֤ה]] [[H1980G\|הוֹלֵךְ֙]] [[H9005\|לָ]][[H3947I\|קַ֣חַת]] [[H0802H\|אִשָּׁ֔ה]] [[H9006\|מִ]][[H6430G\|פְּלִשְׁתִּ֖ים]] [[H9009\|הָ]][[H6189\|עֲרֵלִ֑ים]] [[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H8123\|שִׁמְשׁ֤וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H0001G\|אָבִי]][[H9023\|ו֙]] [[H0853\|אוֹתָ֣]][[H9034\|הּ]] [[H3947I\|קַֽח]][[H9014\|־]] [[H9005\|לִ֔]][[H9030\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1931\|הִ֖יא]] [[H3474\|יָשְׁרָ֥ה]] [[H9003\|בְ]][[H5869A\|עֵינָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.2|<< Judges 14:2]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.4|Judges 14:4 >>]]</td></tr></table>
 

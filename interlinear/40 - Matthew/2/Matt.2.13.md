@@ -1,10 +1,80 @@
+---
+title: Matthew 2:13
+type: Verse
+kjv: "And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him."
+bsb: "When the Magi had gone, an angel of the Lord appeared to Joseph in a dream. “Get up!” he said. “Take the Child and His mother and flee to Egypt. Stay there until I tell you, for Herod is going to search for the Child to kill Him.”"
+greek: "Ἀναχωρησάντων δὲ αὐτῶν ἰδοὺ ἄγγελος κυρίου φαίνεται κατ᾽ ὄναρ τῷ Ἰωσὴφ λέγων· ἐγερθεὶς παράλαβε τὸ παιδίον καὶ τὴν μητέρα αὐτοῦ καὶ φεῦγε εἰς Αἴγυπτον καὶ ἴσθι ἐκεῖ ἕως ἂν εἴπω σοι· μέλλει γὰρ Ἡρῴδης ζητεῖν τὸ παιδίον τοῦ ἀπολέσαι αὐτό."
+pericope: "[[Matt.2.13 The Flight to Egypt|The Flight to Egypt]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FUGITIVES|FUGITIVES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[G0402]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G2400]]"
+- "[[G0032G]]"
+- "[[G2962G]]"
+- "[[G5316]]"
+- "[[G2596]]"
+- "[[G3677]]"
+- "[[G3588]]"
+- "[[G2501G]]"
+- "[[G3004G]]"
+- "[[G1453]]"
+- "[[G3880]]"
+- "[[G3813]]"
+- "[[G2532]]"
+- "[[G3384]]"
+- "[[G5343]]"
+- "[[G1519]]"
+- "[[G0125]]"
+- "[[G1510]]"
+- "[[G1563]]"
+- "[[G2193]]"
+- "[[G0302]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G3195]]"
+- "[[G1063]]"
+- "[[G2264G]]"
+- "[[G2212]]"
+- "[[G0622]]"
+texts:
+- NKO
+---
+
 **Matthew 2:13**<big><big>[[Matt.2.13 The Flight to Egypt|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
 <small><sub>**BSB:**</sub></small>
 When the Magi had gone, an angel of the Lord appeared to Joseph in a dream. “Get up!” he said. “Take the Child and His mother and flee to Egypt. Stay there until I tell you, for Herod is going to search for the Child to kill Him.”
-<small><sub>**Literal:**</sub></small>
-When were withdrawing then they behold an angel of [the] Lord appears in a dream <the> to Joseph saying; Having arisen do take the Child and the mother of Him and do flee into Egypt and do remain there until when I may tell you; is about for Herod is to seek the Child <the> to destroy Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.12|<< Matthew 2:12]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.14|Matthew 2:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0402\|Ἀναχωρησάντων]]  [[G1161\|δὲ]]  [[G0846\|αὐτῶν]]  [[G2400\|ἰδοὺ]]  [[G0032G\|ἄγγελος]]  [[G2962G\|κυρίου]]  [[G5316\|φαίνεται]]  [[G2596\|κατ᾽]]  [[G3677\|ὄναρ]]  [[G3588\|τῷ]]  [[G2501G\|Ἰωσὴφ]]  [[G3004G\|λέγων·]]  [[G1453\|ἐγερθεὶς]]  [[G3880\|παράλαβε]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G5343\|φεῦγε]]  [[G1519\|εἰς]]  [[G0125\|Αἴγυπτον]]  [[G2532\|καὶ]]  [[G1510\|ἴσθι]]  [[G1563\|ἐκεῖ]]  [[G2193\|ἕως]]  [[G0302\|ἂν]]  [[G2036\|εἴπω]]  [[G4771\|σοι·]]  [[G3195\|μέλλει]]  [[G1063\|γὰρ]]  [[G2264G\|Ἡρῴδης]]  [[G2212\|ζητεῖν]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G3588\|τοῦ]]  [[G0622\|ἀπολέσαι]]  [[G0846\|αὐτό.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic DREAM|DREAM]] • [[topic EGYPT|EGYPT]] • [[topic FAITH|FAITH]] • [[topic FUGITIVES|FUGITIVES]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MIRACLES|MIRACLES]] • [[topic PERSECUTION|PERSECUTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.12|<< Matthew 2:12]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.14|Matthew 2:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

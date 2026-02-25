@@ -1,8 +1,59 @@
+---
+title: Deuteronomy 32:12
+type: Verse
+kjv: "So the LORD alone did lead him, and there was no strange god with him."
+bsb: "The LORD alone led him, and no foreign god was with him."
+hebrew: "יְהוָ֖ה בָּדָ֣ד יַנְחֶ֑נּוּ וְאֵ֥ין עִמּ֖וֹ אֵ֥ל נֵכָֽר׃"
+pericope: "[[Deut.32.1 The Song of Moses|The Song of Moses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 32
+book/chapter: "[[Deut.32|Deuteronomy 32]]"
+chronological_order: 228
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PSALMS|PSALMS]]"
+strongs:
+- "[[H3068G]]"
+- "[[H0910]]"
+- "[[H5148]]"
+- "[[H9033]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H5973A]]"
+- "[[H0410K]]"
+- "[[H5236]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 32:12**<big><big>[[Deut.32.1 The Song of Moses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [So] the LORD alone did lead him, and [there was] no strange god with him.
 <small><sub>**BSB:**</sub></small>
 The LORD alone led him, and no foreign god was with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H3068G\|יְהוָ֖ה]] [[H0910\|בָּדָ֣ד]] [[H5148\|יַנְחֶ֑]][[H9033\|נּוּ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H0410K\|אֵ֥ל]] [[H5236\|נֵכָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENJAMIN|BENJAMIN]] • [[topic DEATH|DEATH]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PSALMS|PSALMS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.32.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.32.11|<< Deuteronomy 32:11]]</td><td align="center" style="border:none;">[[Deut.32|Deuteronomy 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.32.13|Deuteronomy 32:13 >>]]</td></tr></table>
 

@@ -1,8 +1,60 @@
+---
+title: 1 Kings 1:1
+type: Verse
+kjv: "Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat."
+bsb: "Now King David was old and well along in years, and though they covered him with blankets, he could not keep warm."
+hebrew: "וְהַמֶּ֤לֶךְ דָּוִד֙ זָקֵ֔ן בָּ֖א בַּיָּמִ֑ים וַיְכַסֻּ֙הוּ֙ בַּבְּגָדִ֔ים וְלֹ֥א יִחַ֖ם לֽוֹ׃"
+pericope: "[[1Kgs.1.1 Abishag Cares for David|Abishag Cares for David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ABISHAG|ABISHAG]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H2204]]"
+- "[[H0935J]]"
+- "[[H9003]]"
+- "[[H3117I]]"
+- "[[H9001]]"
+- "[[H3680]]"
+- "[[H9033]]"
+- "[[H0899B]]"
+- "[[H3808]]"
+- "[[H2552]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:1**<big><big>[[1Kgs.1.1 Abishag Cares for David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now king David was old [and] stricken in years; and they covered him with clothes, but he gat no heat.
 <small><sub>**BSB:**</sub></small>
 Now King David was old and well along in years, and though they covered him with blankets, he could not keep warm.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּ֤לֶךְ]] [[H1732\|דָּוִד֙]] [[H2204\|זָקֵ֔ן]] [[H0935J\|בָּ֖א]] [[H9003\|בַּ]][[H3117I\|יָּמִ֑ים]] [[H9001\|וַ]][[H3680\|יְכַסֻּ֙]][[H9033\|הוּ֙]] [[H9003\|בַּ]][[H0899B\|בְּגָדִ֔ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2552\|יִחַ֖ם]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAG|ABISHAG]] • [[topic DAVID|DAVID]] • [[topic DIPLOMACY|DIPLOMACY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.24.25|<< 2 Samuel 24:25]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.2|1 Kings 1:2 >>]]</td></tr></table>
 

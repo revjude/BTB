@@ -1,10 +1,69 @@
+---
+title: Luke 8:10
+type: Verse
+kjv: "And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand."
+bsb: "He replied, “The knowledge of the mysteries of the kingdom of God has been given to you, but to others I speak in parables, so that, ‘though seeing, they may not see; though hearing, they may not understand.’"
+jesus_said: "Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand."
+greek: "ὁ δὲ εἶπεν· ὑμῖν δέδοται γνῶναι τὰ μυστήρια τῆς βασιλείας τοῦ θεοῦ, τοῖς δὲ λοιποῖς ἐν παραβολαῖς ἵνα βλέποντες μὴ βλέπωσιν καὶ ἀκούοντες μὴ συνιῶσιν."
+pericope: "[[Luke.8.4 The Parable of the Sower|The Parable of the Sower]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MYSTERIES|MYSTERIES]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G1325]]"
+- "[[G1097]]"
+- "[[G3466]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G3062]]"
+- "[[G1722]]"
+- "[[G3850]]"
+- "[[G2443]]"
+- "[[G0991]]"
+- "[[G3361]]"
+- "[[G2532]]"
+- "[[G0191]]"
+- "[[G4920]]"
+texts:
+- NKO
+---
+
 **Luke 8:10**<big><big>[[Luke.8.4 The Parable of the Sower|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand.
 <small><sub>**BSB:**</sub></small>
 He replied, “The knowledge of the mysteries of the kingdom of God has been given to you, but to others I speak in parables, so that, ‘though seeing, they may not see; though hearing, they may not understand.’
-<small><sub>**Literal:**</sub></small>
-<the> And He said; To you it has been given to know the mysteries of the kingdom <the> of God, to the however rest [it is] in parables so that Seeing not shall they see and hearing not shall they understand.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.9|<< Luke 8:9]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.11|Luke 8:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G4771\|ὑμῖν]]  [[G1325\|δέδοται]]  [[G1097\|γνῶναι]]  [[G3588\|τὰ]]  [[G3466\|μυστήρια]]  [[G3588\|τῆς]]  [[G0932\|βασιλείας]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]  [[G3588\|τοῖς]]  [[G1161\|δὲ]]  [[G3062\|λοιποῖς]]  [[G1722\|ἐν]]  [[G3850\|παραβολαῖς]]  [[G2443\|ἵνα]]  [[G0991\|βλέποντες]]  [[G3361\|μὴ]]  [[G0991\|βλέπωσιν]]  [[G2532\|καὶ]]  [[G0191\|ἀκούοντες]]  [[G3361\|μὴ]]  [[G4920\|συνιῶσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic BLINDNESS|BLINDNESS]] • [[topic CHARACTER|CHARACTER]] • [[topic CONVERTS|CONVERTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MYSTERIES|MYSTERIES]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.8.9|<< Luke 8:9]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.11|Luke 8:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Luke 8:10** is...
 > $\quad$ referencing: [[LXX.Isa.6.9|Isa 6:9]]

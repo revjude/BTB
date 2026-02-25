@@ -1,8 +1,54 @@
+---
+title: Jeremiah 46:1
+type: Verse
+kjv: "The word of the LORD which came to Jeremiah the prophet against the Gentiles;"
+bsb: "This is the word of the LORD about the nations—the word that came to Jeremiah the prophet"
+hebrew: "אֲשֶׁ֨ר הָיָ֧ה דְבַר־ יְהוָ֛ה אֶל־ יִרְמְיָ֥הוּ הַנָּבִ֖יא עַל־ הַגּוֹיִֽם׃"
+pericope: "[[Jer.46.1 Judgment on Egypt|Judgment on Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 46
+book/chapter: "[[Jer.46|Jeremiah 46]]"
+chronological_order: 769
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H0834A]]"
+- "[[H1961]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H5921A]]"
+- "[[H1471A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 46:1**<big><big>[[Jer.46.1 Judgment on Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The word of the LORD which came to Jeremiah the prophet against the Gentiles;
 <small><sub>**BSB:**</sub></small>
 This is the word of the LORD about the nations—the word that came to Jeremiah the prophet
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֨ר]] [[H1961\|הָיָ֧ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֥הוּ]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1471A\|גּוֹיִֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.46.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.45.5|<< Jeremiah 45:5]]</td><td align="center" style="border:none;">[[Jer.46|Jeremiah 46]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.46.2|Jeremiah 46:2 >>]]</td></tr></table>
 

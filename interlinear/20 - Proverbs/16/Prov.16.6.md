@@ -1,8 +1,55 @@
+---
+title: Proverbs 16:6
+type: Verse
+kjv: "By mercy and truth iniquity is purged: and by the fear of the LORD men depart from evil."
+bsb: "By loving devotion and faithfulness iniquity is atoned for, and by the fear of the LORD one turns aside from evil."
+hebrew: "בְּחֶ֣סֶד וֶ֭אֱמֶת יְכֻפַּ֣ר עָוֹ֑ן וּבְיִרְאַ֥ת יְ֝הוָ֗ה ס֣וּר מֵרָֽע׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9003]]"
+- "[[H2617A]]"
+- "[[H9002]]"
+- "[[H0571G]]"
+- "[[H3722A]]"
+- "[[H5771G]]"
+- "[[H3374]]"
+- "[[H3068G]]"
+- "[[H5493H]]"
+- "[[H9006]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:6**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 By mercy and truth iniquity is purged: and by the fear of the LORD [men] depart from evil.
 <small><sub>**BSB:**</sub></small>
-By loving devotion and faithfulness iniquity is atoned for, and by the fear of the LORD one turns aside from evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.5|<< Proverbs 16:5]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.7|Proverbs 16:7 >>]]</td></tr></table>
+By loving devotion and faithfulness iniquity is atoned for, and by the fear of the LORD one turns aside from evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2617A\|חֶ֣סֶד]] [[H9002\|וֶ֭]][[H0571G\|אֱמֶת]] [[H3722A\|יְכֻפַּ֣ר]] [[H5771G\|עָוֹ֑ן]] [[H9002\|וּ]][[H9003\|בְ]][[H3374\|יִרְאַ֥ת]] [[H3068G\|יְ֝הוָ֗ה]] [[H5493H\|ס֣וּר]] [[H9006\|מֵ]][[H7451H\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.5|<< Proverbs 16:5]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.7|Proverbs 16:7 >>]]</td></tr></table>
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

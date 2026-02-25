@@ -1,6 +1,67 @@
+---
+title: LXX Isaiah 40:28
+type: Verse
+lxx: "And now, did you not know? Have you not heard? the eternal God, the God  carefully preparing the tips of the earth, he shall not hunger nor tire, nor is there a finding out  of his intelligence;"
+greek: "και νυν ουκ έγνως ει μη ήκουσας θεός αιώνιος ο θεός ο κατασκευάσας τα άκρα της γης ου πεινάσει ουδέ κοπιάσει ουδέ έστιν εξεύρεσις της φρονήσεως αυτού"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[G2532]]"
+- "[[G3568]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G1508]]"
+- "[[G0191]]"
+- "[[G2316]]"
+- "[[G0166]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G2680]]"
+- "[[G3588]]"
+- "[[G6208]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G3756]]"
+- "[[G3983]]"
+- "[[G3761]]"
+- "[[G2872]]"
+- "[[G3761]]"
+- "[[G1510]]"
+- "[[G7318]]"
+- "[[G3588]]"
+- "[[G5428]]"
+- "[[G1473]]"
+---
+
 **LXX Isaiah 40:28** 
 <small><sub>**LXX:**</sub></small>
 And now, did you not know? \[Have\] you not heard? \[the\] eternal God, the God  carefully preparing the tips of the earth, he shall not hunger nor tire, nor is \[there\] a finding out  of his intelligence; 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3568\|νυν]] [[G3756\|ουκ]] [[G1097\|έγνως]] [[G1508\|ει μη]] [[G0191\|ήκουσας]] [[G2316\|θεός]] [[G0166\|αιώνιος]] [[G3588\|ο]] [[G2316\|θεός]] [[G3588\|ο]] [[G2680\|κατασκευάσας]] [[G3588\|τα]] [[G6208\|άκρα]] [[G3588\|της]] [[G1093\|γης]] [[G3756\|ου]] [[G3983\|πεινάσει]] [[G3761\|ουδέ]] [[G2872\|κοπιάσει]] [[G3761\|ουδέ]] [[G1510\|έστιν]] [[G7318\|εξεύρεσις]] [[G3588\|της]] [[G5428\|φρονήσεως]] [[G1473\|αυτού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic BLINDNESS|BLINDNESS]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.40.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.27|<< Isaiah 40:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.29|Isaiah 40:29 >>]]</td></tr></table>
 
@@ -31,6 +92,6 @@ And now, did you not know? \[Have\] you not heard? \[the\] eternal God, the God 
 | a finding out | **<big>[[G7318\|εξεύρεσις]]</big>** |
 | \<obj.> | **<big>[[G3588\|της]]</big>** |
 | of his intelligence; | **<big>[[G5428\|φρονήσεως]]</big>** **<big>[[G1473\|αυτού]]</big>** |
-[[Isa.40.28|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.27|<< Isaiah 40:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.29|Isaiah 40:29 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.40.27|<< Isaiah 40:27]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.40.29|Isaiah 40:29 >>]]</td></tr></table>
 
 

@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 14:26
+type: Verse
+kjv: "How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying."
+bsb: "What then shall we say, brothers? When you come together, everyone has a psalm or a teaching, a revelation, a tongue, or an interpretation. All of these must be done to build up the church."
+greek: "Τί οὖν ἐστιν, ἀδελφοί; ὅταν συνέρχησθε, ἕκαστος ὑμῶν ψαλμὸν ἔχει, διδαχὴν ἔχει, ἀποκάλυψιν ἔχει, γλῶσσαν ἔχει, ἑρμηνείαν ἔχει· πάντα πρὸς οἰκοδομὴν γινέσθω."
+pericope: "[[1Cor.14.26 Orderly Worship|Orderly Worship]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 14
+book/chapter: "[[1Cor.14|1 Corinthians 14]]"
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTERPRETER|INTERPRETER]]"
+- "[[topic LANGUAGE|LANGUAGE]]"
+- "[[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]"
+strongs:
+- "[[G5101]]"
+- "[[G3767]]"
+- "[[G1510]]"
+- "[[G0080]]"
+- "[[G3752]]"
+- "[[G4905]]"
+- "[[G1538]]"
+- "[[G4771]]"
+- "[[G5568]]"
+- "[[G2192]]"
+- "[[G1322]]"
+- "[[G0602]]"
+- "[[G1100]]"
+- "[[G2058]]"
+- "[[G3956]]"
+- "[[G4314]]"
+- "[[G3619]]"
+- "[[G1096]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **1 Corinthians 14:26**<big><big>[[1Cor.14.26 Orderly Worship|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying.
 <small><sub>**BSB:**</sub></small>
 What then shall we say, brothers? When you come together, everyone has a psalm or a teaching, a revelation, a tongue, or an interpretation. All of these must be done to build up the church.
-<small><sub>**Literal:**</sub></small>
-What then is it, brothers? When you may come together, each of you a psalm has, a teaching has, a revelation has, a tongue has, an interpretation has; All things for edification should be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.25|<< 1 Corinthians 14:25]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.27|1 Corinthians 14:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|Τί]]  [[G3767\|οὖν]]  [[G1510\|ἐστιν,]]  [[G0080\|ἀδελφοί;]]  [[G3752\|ὅταν]]  [[G4905\|συνέρχησθε,]]  [[G1538\|ἕκαστος]]  [[G4771\|ὑμῶν]]  [[G5568\|ψαλμὸν]]  [[G2192\|ἔχει,]]  [[G1322\|διδαχὴν]]  [[G2192\|ἔχει,]]  [[G0602\|ἀποκάλυψιν]]  [[G2192\|ἔχει,]]  [[G1100\|γλῶσσαν]]  [[G2192\|ἔχει,]]  [[G2058\|ἑρμηνείαν]]  [[G2192\|ἔχει·]]  [[G3956\|πάντα]]  [[G4314\|πρὸς]]  [[G3619\|οἰκοδομὴν]]  [[G1096\|γινέσθω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTERPRETER|INTERPRETER]] • [[topic LANGUAGE|LANGUAGE]] • [[topic TONGUES (THE GIFT)|TONGUES (THE GIFT)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.14.25|<< 1 Corinthians 14:25]]</td><td align="center" style="border:none;">[[1Cor.14|1 Corinthians 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.14.27|1 Corinthians 14:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

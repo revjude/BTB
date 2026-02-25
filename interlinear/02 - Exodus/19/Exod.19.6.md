@@ -1,8 +1,72 @@
+---
+title: Exodus 19:6
+type: Verse
+kjv: "And ye shall be unto me a kingdom of priests, and an holy nation. These are the words which thou shalt speak unto the children of Israel."
+bsb: "And unto Me you shall be a kingdom of priests and a holy nation.’ These are the words that you are to speak to the Israelites.”"
+hebrew: "וְאַתֶּ֧ם תִּהְיוּ־ לִ֛י מַמְלֶ֥כֶת כֹּהֲנִ֖ים וְג֣וֹי קָד֑וֹשׁ אֵ֚לֶּה הַדְּבָרִ֔ים אֲשֶׁ֥ר תְּדַבֵּ֖ר אֶל־ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Exod.19.1 Israel at Mount Sinai|Israel at Mount Sinai]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 19
+book/chapter: "[[Exod.19|Exodus 19]]"
+chronological_order: 111
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOLINESS|HOLINESS]]"
+- "[[topic INSPIRATION|INSPIRATION]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SINAI|SINAI]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H4467]]"
+- "[[H3548]]"
+- "[[H1471A]]"
+- "[[H6918G]]"
+- "[[H0428]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 19:6**<big><big>[[Exod.19.1 Israel at Mount Sinai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye shall be unto me a kingdom of priests, and an holy nation. These [are] the words which thou shalt speak unto the children of Israel.
 <small><sub>**BSB:**</sub></small>
 And unto Me you shall be a kingdom of priests and a holy nation.’ These are the words that you are to speak to the Israelites.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּ֧ם]] [[H1961\|תִּהְיוּ]][[H9014\|־]] [[H9005\|לִ֛]][[H9030\|י]] [[H4467\|מַמְלֶ֥כֶת]] [[H3548\|כֹּהֲנִ֖ים]] [[H9002\|וְ]][[H1471A\|ג֣וֹי]] [[H6918G\|קָד֑וֹשׁ]] [[H0428\|אֵ֚לֶּה]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|תְּדַבֵּ֖ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOLINESS|HOLINESS]] • [[topic INSPIRATION|INSPIRATION]] • [[topic ISRAEL|ISRAEL]] • [[topic MOSES|MOSES]] • [[topic PRIEST|PRIEST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SINAI|SINAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.19.5|<< Exodus 19:5]]</td><td align="center" style="border:none;">[[Exod.19|Exodus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.19.7|Exodus 19:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,56 @@
+---
+title: Jeremiah 44:20
+type: Verse
+kjv: "Then Jeremiah said unto all the people, to the men, and to the women, and to all the people which had given him that answer, saying,"
+bsb: "Then Jeremiah said to all the people, both men and women, who were answering him,"
+hebrew: "וַיֹּ֥אמֶר יִרְמְיָ֖הוּ אֶל־ כָּל־ הָעָ֑ם עַל־ הַגְּבָרִ֤ים וְעַל־ הַנָּשִׁים֙ וְעַל־ כָּל־ הָעָ֔ם הָעֹנִ֥ים אֹת֛וֹ דָּבָ֖ר לֵאמֹֽר׃"
+pericope: "[[Jer.44.20 Calamity for the Jews|Calamity for the Jews]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 44
+book/chapter: "[[Jer.44|Jeremiah 44]]"
+chronological_order: 767
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3414L]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H5921A]]"
+- "[[H1397]]"
+- "[[H9002]]"
+- "[[H0802G]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H1697G]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 44:20**<big><big>[[Jer.44.20 Calamity for the Jews|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jeremiah said unto all the people, to the men, and to the women, and to all the people which had given him [that] answer, saying,
 <small><sub>**BSB:**</sub></small>
 Then Jeremiah said to all the people, both men and women, who were answering him,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3414L\|יִרְמְיָ֖הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1397\|גְּבָרִ֤ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H0802G\|נָּשִׁים֙]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H9009\|הָ]][[H6030B\|עֹנִ֥ים]] [[H0853\|אֹת֛]][[H9033\|וֹ]] [[H1697G\|דָּבָ֖ר]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.44.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.44.19|<< Jeremiah 44:19]]</td><td align="center" style="border:none;">[[Jer.44|Jeremiah 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.44.21|Jeremiah 44:21 >>]]</td></tr></table>
 

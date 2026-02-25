@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus’ Authority Challenged
+type: Pericope
 pericope: "[[Mark.11.27 Jesus’ Authority Challenged|Jesus’ Authority Challenged]]"
-verse_count: 7
+original_language: Greek
 testament: New
 book: Mark
 chapter: 11
 book/chapter: "[[Mark.11|Mark 11]]"
-genre:
+chronological_order: 992
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 7
 verses:
 - "[[Mark.11.27]]"
 - "[[Mark.11.28]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Mark.11.33]]"
 ---
 
-[[Mark.11|Mark 11:27 - Mark 11:33]]
+<small>[[Mark.11|Mark 11:27-33]]</small>
 *Jesus’ Authority Challenged*
 
 [[Mark.11.27|27]] And they come again to Jerusalem: and as he was walking in the temple, there come to him the chief priests, and the scribes, and the elders,

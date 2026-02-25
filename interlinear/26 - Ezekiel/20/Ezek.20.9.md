@@ -1,8 +1,64 @@
+---
+title: Ezekiel 20:9
+type: Verse
+kjv: "But I wrought for my name’s sake, that it should not be polluted before the heathen, among whom they were, in whose sight I made myself known unto them, in bringing them forth out of the land of Egypt."
+bsb: "But I acted for the sake of My name, that it should not be profaned in the eyes of the nations among whom they were living, in whose sight I had revealed Myself to Israel by bringing them out of the land of Egypt."
+hebrew: "וָאַ֙עַשׂ֙ לְמַ֣עַן שְׁמִ֔י לְבִלְתִּ֥י הֵחֵ֛ל לְעֵינֵ֥י הַגּוֹיִ֖ם אֲשֶׁר־ הֵ֣מָּה בְתוֹכָ֑ם אֲשֶׁ֨ר נוֹדַ֤עְתִּי אֲלֵיהֶם֙ לְעֵ֣ינֵיהֶ֔ם לְהוֹצִיאָ֖ם מֵאֶ֥רֶץ מִצְרָֽיִם׃"
+pericope: "[[Ezek.20.1 Israel’s Rebellion in Egypt|Israel’s Rebellion in Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H4616]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H2490H]]"
+- "[[H5869H]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1992]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H3045]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:9**<big><big>[[Ezek.20.1 Israel’s Rebellion in Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But I wrought for my name’s sake, that it should not be polluted before the heathen, among whom they [were], in whose sight I made myself known unto them, in bringing them forth out of the land of Egypt.
 <small><sub>**BSB:**</sub></small>
 But I acted for the sake of My name, that it should not be profaned in the eyes of the nations among whom they were living, in whose sight I had revealed Myself to Israel by bringing them out of the land of Egypt.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H6213A\|אַ֙עַשׂ֙]] [[H4616\|לְמַ֣עַן]] [[H8034\|שְׁמִ֔]][[H9020\|י]] [[H9005\|לְ]][[H1115\|בִלְתִּ֥י]] [[H2490H\|הֵחֵ֛ל]] [[H9005\|לְ]][[H5869H\|עֵינֵ֥י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֖ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֣מָּה]] [[H9003\|בְ]][[H8432\|תוֹכָ֑]][[H9028\|ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H3045\|נוֹדַ֤עְתִּי]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H9005\|לְ]][[H5869H\|עֵ֣ינֵי]][[H9028\|הֶ֔ם]] [[H9005\|לְ]][[H3318H\|הוֹצִיאָ֖]][[H9038\|ם]] [[H9006\|מֵ]][[H0776G\|אֶ֥רֶץ]] [[H4714G\|מִצְרָֽיִם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.8|<< Ezekiel 20:8]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.10|Ezekiel 20:10 >>]]</td></tr></table>
 

@@ -1,10 +1,64 @@
+---
+title: Matthew 16:24
+type: Verse
+kjv: "Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me."
+bsb: "Then Jesus told His disciples, “If anyone wants to come after Me, he must deny himself and take up his cross and follow Me."
+jesus_said: "If any man will come after me, let him deny himself, and take up his cross, and follow me."
+greek: "Τότε ὁ Ἰησοῦς εἶπεν τοῖς μαθηταῖς αὐτοῦ· εἴ τις θέλει ὀπίσω μου ἐλθεῖν, ἀπαρνησάσθω ἑαυτὸν καὶ ἀράτω τὸν σταυρὸν αὐτοῦ καὶ ἀκολουθείτω μοι."
+pericope: "[[Matt.16.24 Take Up Your Cross|Take Up Your Cross]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CROSS|CROSS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic STOICISM|STOICISM]]"
+strongs:
+- "[[G5119]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G2309]]"
+- "[[G3694]]"
+- "[[G3165]]"
+- "[[G2064]]"
+- "[[G0533]]"
+- "[[G1438]]"
+- "[[G2532]]"
+- "[[G0142]]"
+- "[[G4716]]"
+- "[[G0190]]"
+texts:
+- NKO
+---
+
 **Matthew 16:24**<big><big>[[Matt.16.24 Take Up Your Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then said Jesus unto his disciples, If any [man] will come after me, let him deny himself, and take up his cross, and follow me.
 <small><sub>**BSB:**</sub></small>
 Then Jesus told His disciples, “If anyone wants to come after Me, he must deny himself and take up his cross and follow Me.
-<small><sub>**Literal:**</sub></small>
-Then <the> Jesus said to the disciples of Him; If anyone desires after Me to come, he should deny himself and he should take up the cross of him and he should follow Me.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.23|<< Matthew 16:23]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.25|Matthew 16:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ·]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G2309\|θέλει]]  [[G3694\|ὀπίσω]]  [[G3165\|μου]]  [[G2064\|ἐλθεῖν,]]  [[G0533\|ἀπαρνησάσθω]]  [[G1438\|ἑαυτὸν]]  [[G2532\|καὶ]]  [[G0142\|ἀράτω]]  [[G3588\|τὸν]]  [[G4716\|σταυρὸν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0190\|ἀκολουθείτω]]  [[G3165\|μοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CROSS|CROSS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REWARD|REWARD]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic STOICISM|STOICISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.23|<< Matthew 16:23]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.25|Matthew 16:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

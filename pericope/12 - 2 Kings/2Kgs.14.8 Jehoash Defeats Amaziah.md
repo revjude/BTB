@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jehoash Defeats Amaziah
+type: Pericope
 pericope: "[[2Kgs.14.8 Jehoash Defeats Amaziah|Jehoash Defeats Amaziah]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 14
 book/chapter: "[[2Kgs.14|2 Kings 14]]"
-genre:
+chronological_order: 591
+era: Divided Kingdom
+period: "The Divided Kingdom: Amaziah to Uzziah"
+date: ~796–767 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 7
 verses:
 - "[[2Kgs.14.8]]"
 - "[[2Kgs.14.9]]"
@@ -25,7 +32,7 @@ verses:
 - "[[2Kgs.14.14]]"
 ---
 
-[[2Kgs.14|2 Kings 14:8 - 2 Kings 14:14]]
+<small>[[2Kgs.14|2 Kings 14:8-14]]</small>
 *Jehoash Defeats Amaziah*
 
 [[2Kgs.14.8|8]] Then Amaziah sent messengers to Jehoash, the son of Jehoahaz son of Jehu, king of Israel, saying, Come, let us look one another in the face.

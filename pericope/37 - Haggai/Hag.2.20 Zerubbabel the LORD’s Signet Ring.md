@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Zerubbabel the LORD’s Signet Ring
+type: Pericope
 pericope: "[[Hag.2.20 Zerubbabel the LORD’s Signet Ring|Zerubbabel the LORD’s Signet Ring]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Haggai
 chapter: 2
 book/chapter: "[[Hag.2|Haggai 2]]"
-genre:
+chronological_order: 856
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - post exilic
+verse_count: 4
 verses:
 - "[[Hag.2.20]]"
 - "[[Hag.2.21]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Hag.2.23]]"
 ---
 
-[[Hag.2|Haggai 2:20 - Haggai 2:23]]
+<small>[[Hag.2|Haggai 2:20-23]]</small>
 *Zerubbabel the LORD’s Signet Ring*
 
 [[Hag.2.20|20]] And again the word of the LORD came unto Haggai in the four and twentieth \[day\] of the month, saying,

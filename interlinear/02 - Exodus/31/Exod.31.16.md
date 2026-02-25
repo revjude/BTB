@@ -1,8 +1,62 @@
+---
+title: Exodus 31:16
+type: Verse
+kjv: "Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant."
+bsb: "The Israelites must keep the Sabbath, celebrating it as a permanent covenant for the generations to come."
+hebrew: "וְשָׁמְר֥וּ בְנֵֽי־ יִשְׂרָאֵ֖ל אֶת־ הַשַּׁבָּ֑ת לַעֲשׂ֧וֹת אֶת־ הַשַּׁבָּ֛ת לְדֹרֹתָ֖ם בְּרִ֥ית עוֹלָֽם׃"
+pericope: "[[Exod.31.12 The Sign of the Sabbath|The Sign of the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 31
+book/chapter: "[[Exod.31|Exodus 31]]"
+chronological_order: 123
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H7676]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H1755]]"
+- "[[H9028]]"
+- "[[H1285]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 31:16**<big><big>[[Exod.31.12 The Sign of the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, [for] a perpetual covenant.
 <small><sub>**BSB:**</sub></small>
 The Israelites must keep the Sabbath, celebrating it as a permanent covenant for the generations to come.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8104G\|שָׁמְר֥וּ]] [[H1121G\|בְנֵֽי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֑ת]] [[H9005\|לַ]][[H6213A\|עֲשׂ֧וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H7676\|שַּׁבָּ֛ת]] [[H9005\|לְ]][[H1755\|דֹרֹתָ֖]][[H9028\|ם]] [[H1285\|בְּרִ֥ית]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic SABBATH|SABBATH]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.31.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.31.15|<< Exodus 31:15]]</td><td align="center" style="border:none;">[[Exod.31|Exodus 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.31.17|Exodus 31:17 >>]]</td></tr></table>
 

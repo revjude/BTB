@@ -1,8 +1,68 @@
+---
+title: 2 Samuel 13:7
+type: Verse
+kjv: "Then David sent home to Tamar, saying, Go now to thy brother Amnon’s house, and dress him meat."
+bsb: "Then David sent word to Tamar at the palace: “Please go to the house of Amnon your brother and prepare a meal for him.”"
+hebrew: "וַיִּשְׁלַ֥ח דָּוִ֛ד אֶל־ תָּמָ֖ר הַבַּ֣יְתָה לֵאמֹ֑ר לְכִ֣י נָ֗א בֵּ֚ית אַמְנ֣וֹן אָחִ֔יךְ וַעֲשִׂי־ ל֖וֹ הַבִּרְיָֽה׃"
+pericope: "[[2Sam.13.1 Amnon and Tamar|Amnon and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 13
+book/chapter: "[[2Sam.13|2 Samuel 13]]"
+chronological_order: 412
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+- "[[topic RAPE|RAPE]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic TAMAR|TAMAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H1732]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8559H]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H1980G]]"
+- "[[H4994]]"
+- "[[H0550G]]"
+- "[[H0251G]]"
+- "[[H9022]]"
+- "[[H9002]]"
+- "[[H6213H]]"
+- "[[H9033]]"
+- "[[H1279]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 13:7**<big><big>[[2Sam.13.1 Amnon and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then David sent home to Tamar, saying, Go now to thy brother Amnon’s house, and dress him meat.
 <small><sub>**BSB:**</sub></small>
 Then David sent word to Tamar at the palace: “Please go to the house of Amnon your brother and prepare a meal for him.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֥ח]] [[H1732\|דָּוִ֛ד]] [[H0413\|אֶל]][[H9014\|־]] [[H8559H\|תָּמָ֖ר]] [[H9009\|הַ]][[H1004B\|בַּ֣יְתָ]][[H9011\|ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H1980G\|לְכִ֣י]] [[H4994\|נָ֗א]] [[H1004B\|בֵּ֚ית]] [[H0550G\|אַמְנ֣וֹן]] [[H0251G\|אָחִ֔י]][[H9022\|ךְ]] [[H9002\|וַ]][[H6213H\|עֲשִׂי]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9009\|הַ]][[H1279\|בִּרְיָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BREAD|BREAD]] • [[topic DECEPTION|DECEPTION]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]] • [[topic RAPE|RAPE]] • [[topic SEDUCTION|SEDUCTION]] • [[topic TAMAR|TAMAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.13.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.13.6|<< 2 Samuel 13:6]]</td><td align="center" style="border:none;">[[2Sam.13|2 Samuel 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.13.8|2 Samuel 13:8 >>]]</td></tr></table>
 

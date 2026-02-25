@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Has Chosen Zion
+type: Pericope
 pericope: "[[Ps.132.1 The LORD Has Chosen Zion|The LORD Has Chosen Zion]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 132
 book/chapter: "[[Ps.132|Psalm 132]]"
-genre:
+chronological_order: 401
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 19
 verses:
 - "[[Ps.132.0]]"
 - "[[Ps.132.1]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Ps.132.18]]"
 ---
 
-[[Ps.132|Psalm 132:1 - Psalm 132:18]]
+<small>[[Ps.132|Psalm 132:1-18]]</small>
 *The LORD Has Chosen Zion*
 
 [[Ps.132.0|0]] A Song of degrees.

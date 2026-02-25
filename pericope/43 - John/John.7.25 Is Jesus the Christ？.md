@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Is Jesus the Christ？
+type: Pericope
 pericope: "[[John.7.25 Is Jesus the Christ？|Is Jesus the Christ？]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: John
 chapter: 7
 book/chapter: "[[John.7|John 7]]"
-genre:
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - narrative
 - biographical
 - theological discourse
+verse_count: 12
 verses:
 - "[[John.7.25]]"
 - "[[John.7.26]]"
@@ -30,7 +37,7 @@ verses:
 - "[[John.7.36]]"
 ---
 
-[[John.7|John 7:25 - John 7:36]]
+<small>[[John.7|John 7:25-36]]</small>
 *Is Jesus the Christ？*
 
 [[John.7.25|25]] Then said some of them of Jerusalem, Is not this he, whom they seek to kill?

@@ -1,8 +1,71 @@
+---
+title: Exodus 16:18
+type: Verse
+kjv: "And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating."
+bsb: "When they measured it by the omer, he who gathered much had no excess, and he who gathered little had no shortfall. Each one gathered as much as he needed to eat."
+hebrew: "וַיָּמֹ֣דּוּ בָעֹ֔מֶר וְלֹ֤א הֶעְדִּיף֙ הַמַּרְבֶּ֔ה וְהַמַּמְעִ֖יט לֹ֣א הֶחְסִ֑יר אִ֥ישׁ לְפִֽי־ אָכְל֖וֹ לָקָֽטוּ׃"
+pericope: "[[Exod.16.1 Manna and Quail from Heaven|Manna and Quail from Heaven]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 16
+book/chapter: "[[Exod.16|Exodus 16]]"
+chronological_order: 108
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic FRUGALITY|FRUGALITY]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OMER|OMER]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H4058]]"
+- "[[H9003]]"
+- "[[H6016B]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H5736]]"
+- "[[H9009]]"
+- "[[H7235A]]"
+- "[[H4591]]"
+- "[[H2637]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H6310K]]"
+- "[[H9014]]"
+- "[[H0400]]"
+- "[[H9023]]"
+- "[[H3950]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 16:18**<big><big>[[Exod.16.1 Manna and Quail from Heaven|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when they did mete [it] with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
 <small><sub>**BSB:**</sub></small>
 When they measured it by the omer, he who gathered much had no excess, and he who gathered little had no shortfall. Each one gathered as much as he needed to eat.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4058\|יָּמֹ֣דּוּ]] [[H9003\|בָ]][[H6016B\|עֹ֔מֶר]] [[H9002\|וְ]][[H3808\|לֹ֤א]] [[H5736\|הֶעְדִּיף֙]] [[H9009\|הַ]][[H7235A\|מַּרְבֶּ֔ה]] [[H9002\|וְ]][[H9009\|הַ]][[H4591\|מַּמְעִ֖יט]] [[H3808\|לֹ֣א]] [[H2637\|הֶחְסִ֑יר]] [[H0376I\|אִ֥ישׁ]] [[H9005\|לְ]][[H6310K\|פִֽי]][[H9014\|־]] [[H0400\|אָכְל֖]][[H9023\|וֹ]] [[H3950\|לָקָֽטוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRUGALITY|FRUGALITY]] • [[topic ISRAEL|ISRAEL]] • [[topic MANNA|MANNA]] • [[topic MEASURE|MEASURE]] • [[topic MIRACLES|MIRACLES]] • [[topic OMER|OMER]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.16.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.16.17|<< Exodus 16:17]]</td><td align="center" style="border:none;">[[Exod.16|Exodus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.16.19|Exodus 16:19 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

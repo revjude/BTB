@@ -1,10 +1,52 @@
+---
+title: Romans 12:11
+type: Verse
+kjv: "Not slothful in business; fervent in spirit; serving the Lord;"
+bsb: "Do not let your zeal subside; keep your spiritual fervor, serving the Lord."
+greek: "τῇ σπουδῇ μὴ ὀκνηροί, τῷ πνεύματι ζέοντες, τῷ κυρίῳ δουλεύοντες,"
+pericope: "[[Rom.12.9 Love, Zeal, Hope, Hospitality|Love, Zeal, Hope, Hospitality]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 12
+book/chapter: "[[Rom.12|Romans 12]]"
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SLOTHFULNESS|SLOTHFULNESS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G4710]]"
+- "[[G3361]]"
+- "[[G3636]]"
+- "[[G4151G]]"
+- "[[G2204]]"
+- "[[G2962G]]"
+- "[[G1398]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Romans 12:11**<big><big>[[Rom.12.9 Love, Zeal, Hope, Hospitality|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Not slothful in business; fervent in spirit; serving the Lord;
 <small><sub>**BSB:**</sub></small>
 Do not let your zeal subside; keep your spiritual fervor, serving the Lord.
-<small><sub>**Literal:**</sub></small>
-<the> in diligence not lagging, <the> in spirit being fervent, the Lord serving,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.10|<< Romans 12:10]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.12|Romans 12:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῇ]]  [[G4710\|σπουδῇ]]  [[G3361\|μὴ]]  [[G3636\|ὀκνηροί,]]  [[G3588\|τῷ]]  [[G4151G\|πνεύματι]]  [[G2204\|ζέοντες,]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G1398\|δουλεύοντες,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic INDUSTRY|INDUSTRY]] • [[topic RELIGION|RELIGION]] • [[topic SLOTHFULNESS|SLOTHFULNESS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.10|<< Romans 12:10]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.12|Romans 12:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

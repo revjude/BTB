@@ -1,10 +1,65 @@
+---
+title: Acts 7:58
+type: Verse
+kjv: "And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man’s feet, whose name was Saul."
+bsb: "They dragged him out of the city and began to stone him. Meanwhile the witnesses laid their garments at the feet of a young man named Saul."
+greek: "καὶ ἐκβαλόντες ἔξω τῆς πόλεως ἐλιθοβόλουν. καὶ οἱ μάρτυρες ἀπέθεντο τὰ ἱμάτια αὐτῶν παρὰ τοὺς πόδας νεανίου καλουμένου Σαύλου"
+pericope: "[[Acts.7.54 The Stoning of Stephen|The Stoning of Stephen]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic GATES|GATES]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic MARTYRDOM|MARTYRDOM]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REVENGE|REVENGE]]"
+- "[[topic STEPHEN|STEPHEN]]"
+- "[[topic WITNESS|WITNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1544]]"
+- "[[G1854]]"
+- "[[G3588]]"
+- "[[G4172]]"
+- "[[G3036]]"
+- "[[G3144]]"
+- "[[G0659]]"
+- "[[G2440]]"
+- "[[G0846]]"
+- "[[G3844]]"
+- "[[G4228]]"
+- "[[G3494]]"
+- "[[G2564H]]"
+- "[[G4569G]]"
+texts:
+- NKO
+---
+
 **Acts 7:58**<big><big>[[Acts.7.54 The Stoning of Stephen|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And cast [him] out of the city, and stoned [him]: and the witnesses laid down their clothes at a young man’s feet, whose name was Saul.
 <small><sub>**BSB:**</sub></small>
 They dragged him out of the city and began to stone him. Meanwhile the witnesses laid their garments at the feet of a young man named Saul.
-<small><sub>**Literal:**</sub></small>
-and having cast [him] out of the city they were stoning [him]. And the witnesses laid aside the garments of them at the feet of a young man named Saul<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.57|<< Acts 7:57]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.59|Acts 7:59 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1544\|ἐκβαλόντες]]  [[G1854\|ἔξω]]  [[G3588\|τῆς]]  [[G4172\|πόλεως]]  [[G3036\|ἐλιθοβόλουν.]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3144\|μάρτυρες]]  [[G0659\|ἀπέθεντο]]  [[G3588\|τὰ]]  [[G2440\|ἱμάτια]]  [[G0846\|αὐτῶν]]  [[G3844\|παρὰ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3494\|νεανίου]]  [[G2564H\|καλουμένου]]  [[G4569G\|Σαύλου]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic COMPLICITY|COMPLICITY]] • [[topic GATES|GATES]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic MARTYRDOM|MARTYRDOM]] • [[topic PAUL|PAUL]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REVENGE|REVENGE]] • [[topic STEPHEN|STEPHEN]] • [[topic WITNESS|WITNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.57|<< Acts 7:57]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.59|Acts 7:59 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,66 @@
+---
+title: Luke 16:9
+type: Verse
+kjv: "And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations."
+bsb: "I tell you, use worldly wealth to make friends for yourselves so that when it is gone, they will welcome you into eternal dwellings."
+jesus_said: "And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations."
+greek: "καὶ ἐγὼ ὑμῖν λέγω· ἑαυτοῖς ποιήσατε φίλους ἐκ τοῦ μαμωνᾶ τῆς ἀδικίας, ἵνα ὅταν ἐκλίπῃ δέξωνται ὑμᾶς εἰς τὰς αἰωνίους σκηνάς.¶"
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MAMMON|MAMMON]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G1438]]"
+- "[[G4160G]]"
+- "[[G5384]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3126]]"
+- "[[G0093]]"
+- "[[G2443]]"
+- "[[G3752]]"
+- "[[G1587]]"
+- "[[G1209]]"
+- "[[G1519]]"
+- "[[G0166]]"
+- "[[G4633]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Luke 16:9**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I say unto you, Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations.
 <small><sub>**BSB:**</sub></small>
 I tell you, use worldly wealth to make friends for yourselves so that when it is gone, they will welcome you into eternal dwellings.
-<small><sub>**Literal:**</sub></small>
-and I myself to you say; for yourselves do make friends by the wealth <the> of unrighteousness, that when it may fail they may receive you into the eternal dwellings.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.8|<< Luke 16:8]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.10|Luke 16:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1473\|ἐγὼ]]  [[G4771\|ὑμῖν]]  [[G3004G\|λέγω·]]  [[G1438\|ἑαυτοῖς]]  [[G4160G\|ποιήσατε]]  [[G5384\|φίλους]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G3126\|μαμωνᾶ]]  [[G3588\|τῆς]]  [[G0093\|ἀδικίας,]]  [[G2443\|ἵνα]]  [[G3752\|ὅταν]]  [[G1587\|ἐκλίπῃ]]  [[G1209\|δέξωνται]]  [[G4771\|ὑμᾶς]]  [[G1519\|εἰς]]  [[G3588\|τὰς]]  [[G0166\|αἰωνίους]]  [[G4633\|σκηνάς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MAMMON|MAMMON]] • [[topic PROBATION|PROBATION]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.8|<< Luke 16:8]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.10|Luke 16:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

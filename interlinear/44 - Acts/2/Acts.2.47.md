@@ -1,10 +1,67 @@
+---
+title: Acts 2:47
+type: Verse
+kjv: "Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved."
+bsb: "praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved."
+greek: "αἰνοῦντες τὸν θεὸν καὶ ἔχοντες χάριν πρὸς ὅλον τὸν λαόν. ὁ δὲ κύριος προσετίθει τοὺς σῳζομένους καθ᾽ ἡμέραν ἐπὶ τὸ αὐτό.¶"
+pericope: "[[Acts.2.42 The Fellowship of Believers|The Fellowship of Believers]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic PREDESTINATION|PREDESTINATION]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[G0134]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G2192]]"
+- "[[G5485]]"
+- "[[G4314]]"
+- "[[G3650]]"
+- "[[G2992]]"
+- "[[G1161]]"
+- "[[G2962G]]"
+- "[[G4369]]"
+- "[[G4982]]"
+- "[[G2596]]"
+- "[[G2250]]"
+- "[[G1909]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Acts 2:47**<big><big>[[Acts.2.42 The Fellowship of Believers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Praising God, and having favour with all the people. And the Lord added to the church daily such as should be saved.
 <small><sub>**BSB:**</sub></small>
 praising God and enjoying the favor of all the people. And the Lord added to their number daily those who were being saved.
-<small><sub>**Literal:**</sub></small>
-praising <the> God and having favor with all the people. <the> And the Lord was adding those who were being saved every day to <the> them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.46|<< Acts 2:46]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.1|Acts 3:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0134\|αἰνοῦντες]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2532\|καὶ]]  [[G2192\|ἔχοντες]]  [[G5485\|χάριν]]  [[G4314\|πρὸς]]  [[G3650\|ὅλον]]  [[G3588\|τὸν]]  [[G2992\|λαόν.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2962G\|κύριος]]  [[G4369\|προσετίθει]]  [[G3588\|τοὺς]]  [[G4982\|σῳζομένους]]  [[G2596\|καθ᾽]]  [[G2250\|ἡμέραν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G0846\|αὐτό.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EUCHARIST (THE LORD'S SUPPER)|EUCHARIST (THE LORD'S SUPPER)]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JOY|JOY]] • [[topic PRAISE|PRAISE]] • [[topic PREDESTINATION|PREDESTINATION]] • [[topic REGENERATION|REGENERATION]] • [[topic REVIVALS|REVIVALS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic THANKFULNESS|THANKFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.46|<< Acts 2:46]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.3.1|Acts 3:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

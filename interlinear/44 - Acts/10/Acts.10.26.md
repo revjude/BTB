@@ -1,10 +1,52 @@
+---
+title: Acts 10:26
+type: Verse
+kjv: "But Peter took him up, saying, Stand up; I myself also am a man."
+bsb: "But Peter helped him up. “Stand up,” he said, “I am only a man myself.”"
+greek: "ὁ δὲ Πέτρος ἤγειρεν αὐτὸν λέγων· ἀνάστηθι· καὶ ἐγὼ αὐτὸς ἄνθρωπός εἰμι."
+pericope: "[[Acts.10.24 Peter Visits Cornelius|Peter Visits Cornelius]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic HOMAGE|HOMAGE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4074G]]"
+- "[[G1453]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G0450]]"
+- "[[G2532]]"
+- "[[G1473]]"
+- "[[G0444]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Acts 10:26**<big><big>[[Acts.10.24 Peter Visits Cornelius|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Peter took him up, saying, Stand up; I myself also am a man.
 <small><sub>**BSB:**</sub></small>
 But Peter helped him up. “Stand up,” he said, “I am only a man myself.”
-<small><sub>**Literal:**</sub></small>
-<the> But Peter lifted up him saying; do rise up; also I myself myself a man am.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.25|<< Acts 10:25]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.27|Acts 10:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4074G\|Πέτρος]]  [[G1453\|ἤγειρεν]]  [[G0846\|αὐτὸν]]  [[G3004G\|λέγων·]]  [[G0450\|ἀνάστηθι·]]  [[G2532\|καὶ]]  [[G1473\|ἐγὼ]]  [[G0846\|αὐτὸς]]  [[G0444\|ἄνθρωπός]]  [[G1510\|εἰμι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic HOMAGE|HOMAGE]] • [[topic WORSHIP|WORSHIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.25|<< Acts 10:25]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.27|Acts 10:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

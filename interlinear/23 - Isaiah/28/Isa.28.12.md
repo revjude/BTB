@@ -1,8 +1,62 @@
+---
+title: Isaiah 28:12
+type: Verse
+kjv: "To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear."
+bsb: "to whom He has said: “This is the place of rest, let the weary rest; this is the place of repose.” But they would not listen."
+hebrew: "אֲשֶׁ֣ר׀ אָמַ֣ר אֲלֵיהֶ֗ם זֹ֤את הַמְּנוּחָה֙ הָנִ֣יחוּ לֶֽעָיֵ֔ף וְזֹ֖את הַמַּרְגֵּעָ֑ה וְלֹ֥א אָב֖וּא שְׁמֽוֹעַ׃"
+pericope: "[[Isa.28.1 The Captivity of Ephraim|The Captivity of Ephraim]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H0834A]]"
+- "[[H9015]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H2063]]"
+- "[[H9009]]"
+- "[[H4496H]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H5889]]"
+- "[[H9002]]"
+- "[[H4774]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H8085G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:12**<big><big>[[Isa.28.1 The Captivity of Ephraim|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To whom he said, This [is] the rest [wherewith] ye may cause the weary to rest; and this [is] the refreshing: yet they would not hear.
 <small><sub>**BSB:**</sub></small>
 to whom He has said: “This is the place of rest, let the weary rest; this is the place of repose.” But they would not listen.
+<small><sub>**Hebrew:**</sub></small>
+[[H0834A\|אֲשֶׁ֣ר]][[H9015\|׀]] [[H0559\|אָמַ֣ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H2063\|זֹ֤את]] [[H9009\|הַ]][[H4496H\|מְּנוּחָה֙]] [[H5117\|הָנִ֣יחוּ]] [[H9005\|לֶֽ]][[H5889\|עָיֵ֔ף]] [[H9002\|וְ]][[H2063\|זֹ֖את]] [[H9009\|הַ]][[H4774\|מַּרְגֵּעָ֑ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H0014\|אָב֖וּא]] [[H8085G\|שְׁמֽוֹעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic ISAIAH|ISAIAH]] • [[topic PEACE|PEACE]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.11|<< Isaiah 28:11]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.13|Isaiah 28:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

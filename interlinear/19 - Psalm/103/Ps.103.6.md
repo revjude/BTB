@@ -1,8 +1,54 @@
+---
+title: Psalm 103:6
+type: Verse
+kjv: "The LORD executeth righteousness and judgment for all that are oppressed."
+bsb: "The LORD executes righteousness and justice for all the oppressed."
+hebrew: "עֹשֵׂ֣ה צְדָק֣וֹת יְהוָ֑ה וּ֝מִשְׁפָּטִ֗ים לְכָל־ עֲשׁוּקִֽים׃"
+pericope: "[[Ps.103.1 Bless the LORD, O My Soul|Bless the LORD, O My Soul]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 103
+book/chapter: "[[Ps.103|Psalm 103]]"
+chronological_order: 381
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+strongs:
+- "[[H6213A]]"
+- "[[H6666]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H4941H]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6231]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 103:6**<big><big>[[Ps.103.1 Bless the LORD, O My Soul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD executeth righteousness and judgment for all that are oppressed.
 <small><sub>**BSB:**</sub></small>
 The LORD executes righteousness and justice for all the oppressed.
+<small><sub>**Hebrew:**</sub></small>
+[[H6213A\|עֹשֵׂ֣ה]] [[H6666\|צְדָק֣וֹת]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וּ֝]][[H4941H\|מִשְׁפָּטִ֗ים]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H6231\|עֲשׁוּקִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic OPPRESSION|OPPRESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.103.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.103.5|<< Psalms 103:5]]</td><td align="center" style="border:none;">[[Ps.103|Psalms 103]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.103.7|Psalms 103:7 >>]]</td></tr></table>
 

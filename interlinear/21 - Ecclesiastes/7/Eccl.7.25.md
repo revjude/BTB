@@ -1,8 +1,58 @@
+---
+title: Ecclesiastes 7:25
+type: Verse
+kjv: "I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:"
+bsb: "I directed my mind to understand, to explore, to search out wisdom and explanations, and to understand the stupidity of wickedness and the folly of madness."
+hebrew: "סַבּ֨וֹתִֽי אֲנִ֤י וְלִבִּי֙ לָדַ֣עַת וְלָת֔וּר וּבַקֵּ֥שׁ חָכְמָ֖ה וְחֶשְׁבּ֑וֹן וְלָדַ֙עַת֙ רֶ֣שַׁע כֶּ֔סֶל וְהַסִּכְל֖וּת הוֹלֵלֽוֹת׃"
+pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H5437G]]"
+- "[[H0589]]"
+- "[[H9002]]"
+- "[[H3820A]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H8446]]"
+- "[[H1245]]"
+- "[[H2451]]"
+- "[[H2808]]"
+- "[[H7562]]"
+- "[[H3689]]"
+- "[[H9009]]"
+- "[[H5531B]]"
+- "[[H1947]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:25**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I applied mine heart to know, and to search, and to seek out wisdom, and the reason [of things], and to know the wickedness of folly, even of foolishness [and] madness:
 <small><sub>**BSB:**</sub></small>
 I directed my mind to understand, to explore, to search out wisdom and explanations, and to understand the stupidity of wickedness and the folly of madness.
+<small><sub>**Hebrew:**</sub></small>
+[[H5437G\|סַבּ֨וֹתִֽי]] [[H0589\|אֲנִ֤י]] [[H9002\|וְ]][[H3820A\|לִבִּ]][[H9020\|י֙]] [[H9005\|לָ]][[H3045\|דַ֣עַת]] [[H9002\|וְ]][[H9005\|לָ]][[H8446\|ת֔וּר]] [[H9002\|וּ]][[H1245\|בַקֵּ֥שׁ]] [[H2451\|חָכְמָ֖ה]] [[H9002\|וְ]][[H2808\|חֶשְׁבּ֑וֹן]] [[H9002\|וְ]][[H9005\|לָ]][[H3045\|דַ֙עַת֙]] [[H7562\|רֶ֣שַׁע]] [[H3689\|כֶּ֔סֶל]] [[H9002\|וְ]][[H9009\|הַ]][[H5531B\|סִּכְל֖וּת]] [[H1947\|הוֹלֵלֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.24|<< Ecclesiastes 7:24]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.26|Ecclesiastes 7:26 >>]]</td></tr></table>
 

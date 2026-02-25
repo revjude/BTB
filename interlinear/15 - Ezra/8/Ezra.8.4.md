@@ -1,8 +1,56 @@
+---
+title: Ezra 8:4
+type: Verse
+kjv: "Of the sons of Pahathmoab; Elihoenai the son of Zerahiah, and with him two hundred males."
+bsb: "from the descendants of Pahath-Moab, Eliehoenai son of Zerahiah, and with him 200 men;"
+hebrew: "מִבְּנֵי֙ פַּחַ֣ת מוֹאָ֔ב אֶלְיְהֽוֹעֵינַ֖י בֶּן־ זְרַֽחְיָ֑ה וְעִמּ֖וֹ מָאתַ֥יִם הַזְּכָרִֽים׃ ס"
+pericope: "[[Ezra.8.1 The Exiles Who Returned with Ezra|The Exiles Who Returned with Ezra]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 8
+book/chapter: "[[Ezra.8|Ezra 8]]"
+chronological_order: 910
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic ELIHOENAI|ELIHOENAI]]"
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic ZERAHIAH|ZERAHIAH]]"
+strongs:
+- "[[H9006]]"
+- "[[H1121G]]"
+- "[[H6355G]]"
+- "[[H0454G]]"
+- "[[H9014]]"
+- "[[H2228H]]"
+- "[[H9002]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H3967]]"
+- "[[H9009]]"
+- "[[H2145]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezra 8:4**<big><big>[[Ezra.8.1 The Exiles Who Returned with Ezra|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Of the sons of Pahathmoab; Elihoenai the son of Zerahiah, and with him two hundred males.
 <small><sub>**BSB:**</sub></small>
 from the descendants of Pahath-Moab, Eliehoenai son of Zerahiah, and with him 200 men;
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H1121G\|בְּנֵי֙]] [[H6355G\|פַּחַ֣ת]] [[H6355G\|מוֹאָ֔ב]] [[H0454G\|אֶלְיְהֽוֹעֵינַ֖י]] [[H1121G\|בֶּן]][[H9014\|־]] [[H2228H\|זְרַֽחְיָ֑ה]] [[H9002\|וְ]][[H5973A\|עִמּ֖]][[H9033\|וֹ]] [[H3967\|מָאתַ֥יִם]] [[H9009\|הַ]][[H2145\|זְּכָרִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIHOENAI|ELIHOENAI]] • [[topic GENEALOGY|GENEALOGY]] • [[topic ZERAHIAH|ZERAHIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.8.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.3|<< Ezra 8:3]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.5|Ezra 8:5 >>]]</td></tr></table>
 
@@ -16,7 +64,7 @@ from the descendants of Pahath-Moab, Eliehoenai son of Zerahiah, and with him 20
 | Zerahiah  |**<big>&#8207;[[H2228H\|זְרַֽחְיָ֑ה]]&#8207; </big>**| ze.rach.Yah<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and with him  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5973A\|עִמּ֖]]&#8207;&#8207;[[H9033\|וֹ]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'i.M<small><sup>[[HR]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [were] two hundred  |**<big>&#8207;[[H3967\|מָאתַ֥יִם]]&#8207; </big>**| ma.Ta.yim<small><sup>[[HAcfda]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the males  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2145\|זְּכָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ze.kha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the males  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2145\|זְּכָרִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ze.kha.Rim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.8.3|<< Ezra 8:3]]</td><td align="center" style="border:none;">[[Ezra.8|Ezra 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.8.5|Ezra 8:5 >>]]</td></tr></table>
 
 

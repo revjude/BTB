@@ -1,10 +1,63 @@
+---
+title: John 18:1
+type: Verse
+kjv: "When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples."
+bsb: "After Jesus had spoken these words, He went out with His disciples across the Kidron Valley, where they entered a garden."
+greek: "Ταῦτα εἰπὼν ὁ Ἰησοῦς ἐξῆλθεν σὺν τοῖς μαθηταῖς αὐτοῦ πέραν τοῦ χειμάρρου τοῦ Κεδρὼν ὅπου ἦν κῆπος εἰς ὃν εἰσῆλθεν αὐτὸς καὶ οἱ μαθηταὶ αὐτοῦ."
+pericope: "[[John.18.1 The Betrayal of Jesus|The Betrayal of Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KIDRON|KIDRON]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[G3778]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G1831]]"
+- "[[G4862]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G4008]]"
+- "[[G5493]]"
+- "[[G2748]]"
+- "[[G3699]]"
+- "[[G1510]]"
+- "[[G2779]]"
+- "[[G1519]]"
+- "[[G3739]]"
+- "[[G1525]]"
+- "[[G2532]]"
+texts:
+- NKO
+- ko
+- N(k)O
+---
+
 **John 18:1**<big><big>[[John.18.1 The Betrayal of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus had spoken these words, he went forth with his disciples over the brook Cedron, where was a garden, into the which he entered, and his disciples.
 <small><sub>**BSB:**</sub></small>
 After Jesus had spoken these words, He went out with His disciples across the Kidron Valley, where they entered a garden.
-<small><sub>**Literal:**</sub></small>
-These things having said <the> Jesus went out with the disciples of Him beyond the winter stream of the of Kidron where there was a garden into which entered He himself and the disciples of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.26|<< John 17:26]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.2|John 18:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3778\|Ταῦτα]]  [[G2036\|εἰπὼν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G1831\|ἐξῆλθεν]]  [[G4862\|σὺν]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ]]  [[G4008\|πέραν]]  [[G3588\|τοῦ]]  [[G5493\|χειμάρρου]]  [[G3588\|τοῦ]]  [[G2748\|Κεδρὼν]]  [[G3699\|ὅπου]]  [[G1510\|ἦν]]  [[G2779\|κῆπος]]  [[G1519\|εἰς]]  [[G3739\|ὃν]]  [[G1525\|εἰσῆλθεν]]  [[G0846\|αὐτὸς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KIDRON|KIDRON]] • [[topic PROPHECY|PROPHECY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.17.26|<< John 17:26]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.2|John 18:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

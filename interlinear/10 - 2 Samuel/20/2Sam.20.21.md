@@ -1,8 +1,89 @@
+---
+title: 2 Samuel 20:21
+type: Verse
+kjv: "The matter is not so: but a man of mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, even against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall."
+bsb: "That is not the case. But a man named Sheba son of Bichri, from the hill country of Ephraim, has lifted up his hand against the king, against David. Deliver him alone, and I will depart from the city.” “Look,” the woman replied, “his head will be thrown to you over the wall.”"
+hebrew: "לֹא־ כֵ֣ן הַדָּבָ֗ר כִּ֡י אִישׁ֩ מֵהַ֨ר אֶפְרַ֜יִם שֶׁ֧בַע בֶּן־ בִּכְרִ֣י שְׁמ֗וֹ נָשָׂ֤א יָדוֹ֙ בַּמֶּ֣לֶךְ בְּדָוִ֔ד תְּנֽוּ־ אֹת֣וֹ לְבַדּ֔וֹ וְאֵלְכָ֖ה מֵעַ֣ל הָעִ֑יר וַתֹּ֤אמֶר הָֽאִשָּׁה֙ אֶל־ יוֹאָ֔ב הִנֵּ֥ה רֹאשׁ֛וֹ מֻשְׁלָ֥ךְ אֵלֶ֖יךָ בְּעַ֥ד הַחוֹמָֽה׃"
+pericope: "[[2Sam.20.1 Sheba’s Rebellion|Sheba’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 20
+book/chapter: "[[2Sam.20|2 Samuel 20]]"
+chronological_order: 419
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]]"
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic EPHRAIM|EPHRAIM]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H3588A]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H7652A]]"
+- "[[H1121A]]"
+- "[[H1075]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H5375R]]"
+- "[[H3027G]]"
+- "[[H9003]]"
+- "[[H4428G]]"
+- "[[H1732]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0905H]]"
+- "[[H9002]]"
+- "[[H1980G]]"
+- "[[H5921A]]"
+- "[[H5892B]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0802G]]"
+- "[[H0413]]"
+- "[[H3097G]]"
+- "[[H2009]]"
+- "[[H7218A]]"
+- "[[H7993]]"
+- "[[H9031]]"
+- "[[H1157]]"
+- "[[H2346G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 20:21**<big><big>[[2Sam.20.1 Sheba’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The matter [is] not so: but a man of mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, [even] against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall.
 <small><sub>**BSB:**</sub></small>
 That is not the case. But a man named Sheba son of Bichri, from the hill country of Ephraim, has lifted up his hand against the king, against David. Deliver him alone, and I will depart from the city.” “Look,” the woman replied, “his head will be thrown to you over the wall.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹא]][[H9014\|־]] [[H3651C\|כֵ֣ן]] [[H9009\|הַ]][[H1697I\|דָּבָ֗ר]] [[H3588A\|כִּ֡י]] [[H0376G\|אִישׁ֩]] [[H9006\|מֵ]][[H2022H\|הַ֨ר]] [[H0669G\|אֶפְרַ֜יִם]] [[H7652A\|שֶׁ֧בַע]] [[H1121A\|בֶּן]][[H9014\|־]] [[H1075\|בִּכְרִ֣י]] [[H8034\|שְׁמ֗]][[H9023\|וֹ]] [[H5375R\|נָשָׂ֤א]] [[H3027G\|יָד]][[H9023\|וֹ֙]] [[H9003\|בַּ]][[H4428G\|מֶּ֣לֶךְ]] [[H9003\|בְּ]][[H1732\|דָוִ֔ד]] [[H5414G\|תְּנֽוּ]][[H9014\|־]] [[H0853\|אֹת֣]][[H9033\|וֹ]] [[H9005\|לְ]][[H0905H\|בַדּ֔]][[H9033\|וֹ]] [[H9002\|וְ]][[H1980G\|אֵלְכָ֖ה]] [[H9006\|מֵ]][[H5921A\|עַ֣ל]] [[H9009\|הָ]][[H5892B\|עִ֑יר]] [[H9001\|וַ]][[H0559\|תֹּ֤אמֶר]] [[H9009\|הָֽ]][[H0802G\|אִשָּׁה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3097G\|יוֹאָ֔ב]] [[H2009\|הִנֵּ֥ה]] [[H7218A\|רֹאשׁ֛]][[H9023\|וֹ]] [[H7993\|מֻשְׁלָ֥ךְ]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H1157\|בְּעַ֥ד]] [[H9009\|הַ]][[H2346G\|חוֹמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABEL-BETH-MAACHAH|ABEL-BETH-MAACHAH]] • [[topic ABISHAI|ABISHAI]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic EPHRAIM|EPHRAIM]] • [[topic JOAB|JOAB]] • [[topic POLITICS|POLITICS]] • [[topic TACT|TACT]] • [[topic WALLS, OF THE CITIES|WALLS, OF THE CITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.20.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.20.20|<< 2 Samuel 20:20]]</td><td align="center" style="border:none;">[[2Sam.20|2 Samuel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.20.22|2 Samuel 20:22 >>]]</td></tr></table>
 

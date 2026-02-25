@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Preparing to Move the Ark
+type: Pericope
 pericope: "[[1Chr.15.1 Preparing to Move the Ark|Preparing to Move the Ark]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 15
 book/chapter: "[[1Chr.15|1 Chronicles 15]]"
-genre:
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 13
 verses:
 - "[[1Chr.15.1]]"
 - "[[1Chr.15.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Chr.15.13]]"
 ---
 
-[[1Chr.15|1 Chronicles 15:1 - 1 Chronicles 15:13]]
+<small>[[1Chr.15|1 Chronicles 15:1-13]]</small>
 *Preparing to Move the Ark*
 
 [[1Chr.15.1|1]] And \[David\] made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent.

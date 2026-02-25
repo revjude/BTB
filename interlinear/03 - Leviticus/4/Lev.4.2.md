@@ -1,8 +1,69 @@
+---
+title: Leviticus 4:2
+type: Verse
+kjv: "Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD concerning things which ought not to be done, and shall do against any of them:"
+bsb: "“Tell the Israelites to do as follows with one who sins unintentionally against any of the LORD’s commandments and does what is forbidden by them:"
+hebrew: "דַּבֵּ֞ר אֶל־ בְּנֵ֣י יִשְׂרָאֵ֘ל לֵאמֹר֒ נֶ֗פֶשׁ כִּֽי־ תֶחֱטָ֤א בִשְׁגָגָה֙ מִכֹּל֙ מִצְוֹ֣ת יְהוָ֔ה אֲשֶׁ֖ר לֹ֣א תֵעָשֶׂ֑ינָה וְעָשָׂ֕ה מֵאַחַ֖ת מֵהֵֽנָּה׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic TYPES|TYPES]]"
+strongs:
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H5315J]]"
+- "[[H3588A]]"
+- "[[H2398]]"
+- "[[H9003]]"
+- "[[H7684]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H6213A]]"
+- "[[H9001]]"
+- "[[H0259]]"
+- "[[H9039]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:2**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD [concerning things] which ought not to be done, and shall do against any of them:
 <small><sub>**BSB:**</sub></small>
 “Tell the Israelites to do as follows with one who sins unintentionally against any of the LORD’s commandments and does what is forbidden by them:
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דַּבֵּ֞ר]] [[H0413\|אֶל]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֘ל]] [[H9005\|לֵ]][[H0559\|אמֹר֒]] [[H5315J\|נֶ֗פֶשׁ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2398\|תֶחֱטָ֤א]] [[H9003\|בִ]][[H7684\|שְׁגָגָה֙]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H4687\|מִצְוֹ֣ת]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲשֶׁ֖ר]] [[H3808\|לֹ֣א]] [[H6213A\|תֵעָשֶׂ֑ינָה]] [[H9001\|וְ]][[H6213A\|עָשָׂ֕ה]] [[H9006\|מֵ]][[H0259\|אַחַ֖ת]] [[H9006\|מֵ]][[H9039\|הֵֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic TYPES|TYPES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.1|<< Leviticus 4:1]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.3|Leviticus 4:3 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: Jeremiah 7:27
+type: Verse
+kjv: "Therefore thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee."
+bsb: "When you tell them all these things, they will not listen to you. When you call to them, they will not answer."
+hebrew: "וְדִבַּרְתָּ֤ אֲלֵיהֶם֙ אֶת־ כָּל־ הַדְּבָרִ֣ים הָאֵ֔לֶּה וְלֹ֥א יִשְׁמְע֖וּ אֵלֶ֑יךָ וְקָרָ֥אתָ אֲלֵיהֶ֖ם וְלֹ֥א יַעֲנֽוּכָה׃"
+pericope: "[[Jer.7.16 Judah’s Idolatry Persists|Judah’s Idolatry Persists]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 7
+book/chapter: "[[Jer.7|Jeremiah 7]]"
+chronological_order: 724
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H8085G]]"
+- "[[H9031]]"
+- "[[H7121G]]"
+- "[[H6030B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 7:27**<big><big>[[Jer.7.16 Judah’s Idolatry Persists|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee.
 <small><sub>**BSB:**</sub></small>
 When you tell them all these things, they will not listen to you. When you call to them, they will not answer.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1696G\|דִבַּרְתָּ֤]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֣ים]] [[H9009\|הָ]][[H0428\|אֵ֔לֶּה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H8085G\|יִשְׁמְע֖וּ]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H9001\|וְ]][[H7121G\|קָרָ֥אתָ]] [[H0413\|אֲלֵי]][[H9038\|הֶ֖ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6030B\|יַעֲנֽוּ]][[H9031\|כָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.7.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.7.26|<< Jeremiah 7:26]]</td><td align="center" style="border:none;">[[Jer.7|Jeremiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.7.28|Jeremiah 7:28 >>]]</td></tr></table>
 

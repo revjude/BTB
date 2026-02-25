@@ -1,8 +1,56 @@
+---
+title: Psalm 140:12
+type: Verse
+kjv: "I know that the LORD will maintain the cause of the afflicted, and the right of the poor."
+bsb: "I know that the LORD upholds justice for the poor and defends the cause of the needy."
+hebrew: "יָדַ֗עְתִּי כִּֽי־ יַעֲשֶׂ֣ה יְ֭הוָה דִּ֣ין עָנִ֑י מִ֝שְׁפַּ֗ט אֶבְיֹנִֽים׃"
+pericope: "[[Ps.140.1 Rescue Me from Evil Men|Rescue Me from Evil Men]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 140
+book/chapter: "[[Ps.140|Psalm 140]]"
+chronological_order: 387
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic POOR|POOR]]"
+strongs:
+- "[[H3045]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H3068G]]"
+- "[[H1779]]"
+- "[[H6041]]"
+- "[[H4941H]]"
+- "[[H0034]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **Psalms 140:12**<big><big>[[Ps.140.1 Rescue Me from Evil Men|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I know that the LORD will maintain the cause of the afflicted, [and] the right of the poor.
 <small><sub>**BSB:**</sub></small>
 I know that the LORD upholds justice for the poor and defends the cause of the needy.
+<small><sub>**Hebrew:**</sub></small>
+[[H3045\|יָדַ֗עְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֣ה]] [[H3068G\|יְ֭הוָה]] [[H1779\|דִּ֣ין]] [[H6041\|עָנִ֑י]] [[H4941H\|מִ֝שְׁפַּ֗ט]] [[H0034\|אֶבְיֹנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic POOR|POOR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.140.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.140.11|<< Psalms 140:11]]</td><td align="center" style="border:none;">[[Ps.140|Psalms 140]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.140.13|Psalms 140:13 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Numbers 3:16
+type: Verse
+kjv: "And Moses numbered them according to the word of the LORD, as he was commanded."
+bsb: "So Moses numbered them according to the word of the LORD, as he had been commanded."
+hebrew: "וַיִּפְקֹ֥ד אֹתָ֛ם מֹשֶׁ֖ה עַל־ פִּ֣י יְהוָ֑ה כַּאֲשֶׁ֖ר צֻוָּֽה׃"
+pericope: "[[Num.3.14 The Numbering of the Levites|The Numbering of the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H4872]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6310I]]"
+- "[[H3068G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6680]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 3:16**<big><big>[[Num.3.14 The Numbering of the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses numbered them according to the word of the LORD, as he was commanded.
 <small><sub>**BSB:**</sub></small>
 So Moses numbered them according to the word of the LORD, as he had been commanded.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6485A\|יִּפְקֹ֥ד]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H4872\|מֹשֶׁ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H6310I\|פִּ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֖ר]] [[H6680\|צֻוָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.3.15|<< Numbers 3:15]]</td><td align="center" style="border:none;">[[Num.3|Numbers 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.3.17|Numbers 3:17 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Jeremiah 29:1
+type: Verse
+kjv: "Now these are the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;"
+bsb: "This is the text of the letter that Jeremiah the prophet sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets, and all the others Nebuchadnezzar had carried into exile from Jerusalem to Babylon."
+hebrew: "וְאֵ֙לֶּה֙ דִּבְרֵ֣י הַסֵּ֔פֶר אֲשֶׁ֥ר שָׁלַ֛ח יִרְמְיָ֥ה הַנָּבִ֖יא מִירוּשָׁלִָ֑ם אֶל־ יֶ֜תֶר זִקְנֵ֣י הַגּוֹלָ֗ה וְאֶל־ הַכֹּהֲנִ֤ים וְאֶל־ הַנְּבִיאִים֙ וְאֶל־ כָּל־ הָעָ֔ם אֲשֶׁ֨ר הֶגְלָ֧ה נְבֽוּכַדְנֶאצַּ֛ר מִירוּשָׁלִַ֖ם בָּבֶֽלָה׃"
+pericope: "[[Jer.29.1 Jeremiah’s Letter to the Exiles|Jeremiah’s Letter to the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 29
+book/chapter: "[[Jer.29|Jeremiah 29]]"
+chronological_order: 752
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H1697G]]"
+- "[[H9009]]"
+- "[[H5612A]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H3414L]]"
+- "[[H5030]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3499A]]"
+- "[[H2205G]]"
+- "[[H1473]]"
+- "[[H3548]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H1540K]]"
+- "[[H5019]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 29:1**<big><big>[[Jer.29.1 Jeremiah’s Letter to the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the words of the letter that Jeremiah the prophet sent from Jerusalem unto the residue of the elders which were carried away captives, and to the priests, and to the prophets, and to all the people whom Nebuchadnezzar had carried away captive from Jerusalem to Babylon;
 <small><sub>**BSB:**</sub></small>
 This is the text of the letter that Jeremiah the prophet sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets, and all the others Nebuchadnezzar had carried into exile from Jerusalem to Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H1697G\|דִּבְרֵ֣י]] [[H9009\|הַ]][[H5612A\|סֵּ֔פֶר]] [[H0834A\|אֲשֶׁ֥ר]] [[H7971G\|שָׁלַ֛ח]] [[H3414L\|יִרְמְיָ֥ה]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H9006\|מִ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H0413\|אֶל]][[H9014\|־]] [[H3499A\|יֶ֜תֶר]] [[H2205G\|זִקְנֵ֣י]] [[H9009\|הַ]][[H1473\|גּוֹלָ֗ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֤ים]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5030\|נְּבִיאִים֙]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֔ם]] [[H0834A\|אֲשֶׁ֨ר]] [[H1540K\|הֶגְלָ֧ה]] [[H5019\|נְבֽוּכַדְנֶאצַּ֛ר]] [[H9006\|מִ]][[H3389\|ירוּשָׁלִַ֖ם]] [[H0894\|בָּבֶֽלָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.29.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.28.17|<< Jeremiah 28:17]]</td><td align="center" style="border:none;">[[Jer.29|Jeremiah 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.29.2|Jeremiah 29:2 >>]]</td></tr></table>
 

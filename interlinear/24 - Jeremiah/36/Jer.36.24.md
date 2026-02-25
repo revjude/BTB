@@ -1,8 +1,62 @@
+---
+title: Jeremiah 36:24
+type: Verse
+kjv: "Yet they were not afraid, nor rent their garments, neither the king, nor any of his servants that heard all these words."
+bsb: "Yet in hearing all these words, the king and his servants did not become frightened or tear their garments."
+hebrew: "וְלֹ֣א פָחֲד֔וּ וְלֹ֥א קָרְע֖וּ אֶת־ בִּגְדֵיהֶ֑ם הַמֶּ֙לֶךְ֙ וְכָל־ עֲבָדָ֔יו הַשֹּׁ֣מְעִ֔ים אֵ֥ת כָּל־ הַדְּבָרִ֖ים הָאֵֽלֶּה׃"
+pericope: "[[Jer.36.20 Jehoiakim Burns the Scroll|Jehoiakim Burns the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic BRAZIER|BRAZIER]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6342]]"
+- "[[H7167]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0899B]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3605]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:24**<big><big>[[Jer.36.20 Jehoiakim Burns the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yet they were not afraid, nor rent their garments, [neither] the king, nor any of his servants that heard all these words.
 <small><sub>**BSB:**</sub></small>
 Yet in hearing all these words, the king and his servants did not become frightened or tear their garments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6342\|פָחֲד֔וּ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H7167\|קָרְע֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בִּגְדֵי]][[H9028\|הֶ֑ם]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָ֔י]][[H9023\|ו]] [[H9009\|הַ]][[H8085G\|שֹּׁ֣מְעִ֔ים]] [[H0853\|אֵ֥ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֖ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic BRAZIER|BRAZIER]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.23|<< Jeremiah 36:23]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.25|Jeremiah 36:25 >>]]</td></tr></table>
 

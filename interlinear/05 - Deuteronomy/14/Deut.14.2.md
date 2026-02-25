@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 14:2
+type: Verse
+kjv: "For thou art an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth."
+bsb: "for you are a people holy to the LORD your God. The LORD has chosen you to be a people for His prized possession out of all the peoples on the face of the earth."
+hebrew: "כִּ֣י עַ֤ם קָדוֹשׁ֙ אַתָּ֔ה לַיהוָ֖ה אֱלֹהֶ֑יךָ וּבְךָ֞ בָּחַ֣ר יְהוָ֗ה לִֽהְי֥וֹת לוֹ֙ לְעַ֣ם סְגֻלָּ֔ה מִכֹּל֙ הָֽעַמִּ֔ים אֲשֶׁ֖ר עַל־ פְּנֵ֥י הָאֲדָמָֽה׃ ס"
+pericope: "[[Deut.14.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 14
+book/chapter: "[[Deut.14|Deuteronomy 14]]"
+chronological_order: 210
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLINESS|HOLINESS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H5971A]]"
+- "[[H6918G]]"
+- "[[H0859A]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H0977]]"
+- "[[H1961]]"
+- "[[H9033]]"
+- "[[H5459]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440J]]"
+- "[[H0127I]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Deuteronomy 14:2**<big><big>[[Deut.14.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou [art] an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that [are] upon the earth.
 <small><sub>**BSB:**</sub></small>
 for you are a people holy to the LORD your God. The LORD has chosen you to be a people for His prized possession out of all the peoples on the face of the earth.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H5971A\|עַ֤ם]] [[H6918G\|קָדוֹשׁ֙]] [[H0859A\|אַתָּ֔ה]] [[H9005\|לַ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9002\|וּ]][[H9003\|בְ]][[H9031\|ךָ֞]] [[H0977\|בָּחַ֣ר]] [[H3068G\|יְהוָ֗ה]] [[H9005\|לִֽ]][[H1961\|הְי֥וֹת]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H9005\|לְ]][[H5971A\|עַ֣ם]] [[H5459\|סְגֻלָּ֔ה]] [[H9006\|מִ]][[H3605\|כֹּל֙]] [[H9009\|הָֽ]][[H5971A\|עַמִּ֔ים]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H6440J\|פְּנֵ֥י]] [[H9009\|הָ]][[H0127I\|אֲדָמָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic GOD|GOD]] • [[topic HOLINESS|HOLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.14.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.1|<< Deuteronomy 14:1]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.3|Deuteronomy 14:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -30,7 +94,7 @@ for you are a people holy to the LORD your God. The LORD has chosen you to be a 
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֖ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [are] on  |**<big>&#8207;[[H5921A\|עַל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'al-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] surface of  |**<big>&#8207;[[H6440J\|פְּנֵ֥י]]&#8207; </big>**| pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the ground  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0127I\|אֲדָמָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.da.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.14.1|<< Deuteronomy 14:1]]</td><td align="center" style="border:none;">[[Deut.14|Deuteronomy 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.14.3|Deuteronomy 14:3 >>]]</td></tr></table>
 
 

@@ -1,10 +1,54 @@
+---
+title: 2 Corinthians 11:14
+type: Verse
+kjv: "And no marvel; for Satan himself is transformed into an angel of light."
+bsb: "And no wonder, for Satan himself masquerades as an angel of light."
+greek: "καὶ οὐ θαῦμα· αὐτὸς γὰρ ὁ σατανᾶς μετασχηματίζεται εἰς ἄγγελον φωτός·"
+pericope: "[[2Cor.11.1 Paul and the False Apostles|Paul and the False Apostles]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 11
+book/chapter: "[[2Cor.11|2 Corinthians 11]]"
+chronological_order: 1084
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G2295]]"
+- "[[G0846]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G4567]]"
+- "[[G3345]]"
+- "[[G1519]]"
+- "[[G0032G]]"
+- "[[G5457]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 11:14**<big><big>[[2Cor.11.1 Paul and the False Apostles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And no marvel; for Satan himself is transformed into an angel of light.
 <small><sub>**BSB:**</sub></small>
 And no wonder, for Satan himself masquerades as an angel of light.
-<small><sub>**Literal:**</sub></small>
-And no wonder; himself for <the> Satan masquerades as an angel of light;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.13|<< 2 Corinthians 11:13]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.15|2 Corinthians 11:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G2295\|θαῦμα·]]  [[G0846\|αὐτὸς]]  [[G1063\|γὰρ]]  [[G3588\|ὁ]]  [[G4567\|σατανᾶς]]  [[G3345\|μετασχηματίζεται]]  [[G1519\|εἰς]]  [[G0032G\|ἄγγελον]]  [[G5457\|φωτός·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.11.13|<< 2 Corinthians 11:13]]</td><td align="center" style="border:none;">[[2Cor.11|2 Corinthians 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.11.15|2 Corinthians 11:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

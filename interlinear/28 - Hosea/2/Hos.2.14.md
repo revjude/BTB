@@ -1,8 +1,58 @@
+---
+title: Hosea 2:14
+type: Verse
+kjv: "Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her."
+bsb: "“Therefore, behold, I will allure her and lead her to the wilderness, and speak to her tenderly."
+hebrew: "לָכֵ֗ן הִנֵּ֤ה אָֽנֹכִי֙ מְפַתֶּ֔יהָ וְהֹֽלַכְתִּ֖יהָ הַמִּדְבָּ֑ר וְדִבַּרְתִּ֖י עַל לִבָּֽהּ׃"
+pericope: "[[Hos.2.14 God’s Mercy to Israel|God’s Mercy to Israel]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H2009]]"
+- "[[H0595]]"
+- "[[H6601B]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H1980J]]"
+- "[[H9009]]"
+- "[[H4057B]]"
+- "[[H1696G]]"
+- "[[H5921A]]"
+- "[[H3820A]]"
+- "[[H9024]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Hosea 2:14**<big><big>[[Hos.2.14 God’s Mercy to Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.
 <small><sub>**BSB:**</sub></small>
 “Therefore, behold, I will allure her and lead her to the wilderness, and speak to her tenderly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H3651C\|כֵ֗ן]] [[H2009\|הִנֵּ֤ה]] [[H0595\|אָֽנֹכִי֙]] [[H6601B\|מְפַתֶּ֔י]][[H9034\|הָ]] [[H9001\|וְ]][[H1980J\|הֹֽלַכְתִּ֖י]][[H9034\|הָ]] [[H9009\|הַ]][[H4057B\|מִּדְבָּ֑ר]] [[H9001\|וְ]][[H1696G\|דִבַּרְתִּ֖י]] [[H5921A\|עַל]] [[H3820A\|לִבָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.13|<< Hosea 2:13]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.15|Hosea 2:15 >>]]</td></tr></table>
 

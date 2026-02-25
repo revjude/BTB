@@ -1,8 +1,68 @@
+---
+title: Joshua 21:4
+type: Verse
+kjv: "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities."
+bsb: "The first lot came out for the Kohathite clans. The Levites who were descendants of Aaron the priest received thirteen cities by lot from the tribes of Judah, Simeon, and Benjamin."
+hebrew: "וַיֵּצֵ֥א הַגּוֹרָ֖ל לְמִשְׁפְּחֹ֣ת הַקְּהָתִ֑י וַיְהִ֡י לִבְנֵי֩ אַהֲרֹ֨ן הַכֹּהֵ֜ן מִן־ הַלְוִיִּ֗ם מִמַּטֵּ֣ה יְ֠הוּדָה וּמִמַּטֵּ֨ה הַשִּׁמְעֹנִ֜י וּמִמַּטֵּ֤ה בִנְיָמִן֙ בַּגּוֹרָ֔ל עָרִ֖ים שְׁלֹ֥שׁ עֶשְׂרֵֽה׃ ס"
+pericope: "[[Josh.21.1 Forty-Eight Cities for the Levites|Forty-Eight Cities for the Levites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 21
+book/chapter: "[[Josh.21|Joshua 21]]"
+chronological_order: 251
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318J]]"
+- "[[H9009]]"
+- "[[H1486]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H6956]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H0175]]"
+- "[[H3548]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H3881]]"
+- "[[H9006]]"
+- "[[H4294H]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H8099]]"
+- "[[H1144G]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H7969]]"
+- "[[H6240]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Joshua 21:4**<big><big>[[Josh.21.1 Forty-Eight Cities for the Levites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the lot came out for the families of the Kohathites: and the children of Aaron the priest, [which were] of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.
 <small><sub>**BSB:**</sub></small>
 The first lot came out for the Kohathite clans. The Levites who were descendants of Aaron the priest received thirteen cities by lot from the tribes of Judah, Simeon, and Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318J\|יֵּצֵ֥א]] [[H9009\|הַ]][[H1486\|גּוֹרָ֖ל]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹ֣ת]] [[H9009\|הַ]][[H6956\|קְּהָתִ֑י]] [[H9001\|וַ]][[H1961\|יְהִ֡י]] [[H9005\|לִ]][[H1121G\|בְנֵי֩]] [[H0175\|אַהֲרֹ֨ן]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3881\|לְוִיִּ֗ם]] [[H9006\|מִ]][[H4294H\|מַּטֵּ֣ה]] [[H3063G\|יְ֠הוּדָה]] [[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּטֵּ֨ה]] [[H9009\|הַ]][[H8099\|שִּׁמְעֹנִ֜י]] [[H9002\|וּ]][[H9006\|מִ]][[H4294H\|מַּטֵּ֤ה]] [[H1144G\|בִנְיָמִן֙]] [[H9003\|בַּ]][[H1486\|גּוֹרָ֔ל]] [[H5892B\|עָרִ֖ים]] [[H7969\|שְׁלֹ֥שׁ]] [[H6240\|עֶשְׂרֵֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.3|<< Joshua 21:3]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.5|Joshua 21:5 >>]]</td></tr></table>
 
@@ -27,7 +87,7 @@ The first lot came out for the Kohathite clans. The Levites who were descendants
 | by the lot  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H1486\|גּוֹרָ֔ל]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> go.Ral<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | cities  |**<big>&#8207;[[H5892B\|עָרִ֖ים]]&#8207; </big>**| 'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thir-  |**<big>&#8207;[[H7969\|שְׁלֹ֥שׁ]]&#8207; </big>**| she.Losh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| teen  |**<big>&#8207;[[H6240\|עֶשְׂרֵֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'es.Reh<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.21.3|<< Joshua 21:3]]</td><td align="center" style="border:none;">[[Josh.21|Joshua 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.21.5|Joshua 21:5 >>]]</td></tr></table>
 
 

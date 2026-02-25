@@ -1,10 +1,61 @@
+---
+title: Acts 1:4
+type: Verse
+kjv: "And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, ye have heard of me."
+bsb: "And while they were gathered together, He commanded them: “Do not leave Jerusalem, but wait for the gift the Father promised, which you have heard Me discuss."
+jesus_said: "wait for the promise of the Father, which, ye have heard of me."
+greek: "καὶ συναλιζόμενος παρήγγειλεν αὐτοῖς ἀπὸ Ἱεροσολύμων μὴ χωρίζεσθαι, ἀλλὰ περιμένειν τὴν ἐπαγγελίαν τοῦ πατρὸς ἣν ἠκούσατέ μου·"
+pericope: "[[Acts.1.1 Prologue|Prologue]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 1
+book/chapter: "[[Acts.1|Acts 1]]"
+chronological_order: 1019
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TRINITY|TRINITY]]"
+- "[[topic WAITING|WAITING]]"
+strongs:
+- "[[G2532]]"
+- "[[G4871]]"
+- "[[G3853]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G2414]]"
+- "[[G3361]]"
+- "[[G5563]]"
+- "[[G0235]]"
+- "[[G4037]]"
+- "[[G3588]]"
+- "[[G1860]]"
+- "[[G3962]]"
+- "[[G3739]]"
+- "[[G0191]]"
+- "[[G3165]]"
+texts:
+- NKO
+---
+
 **Acts 1:4**<big><big>[[Acts.1.1 Prologue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, being assembled together with [them], commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, [saith he], ye have heard of me.
 <small><sub>**BSB:**</sub></small>
 And while they were gathered together, He commanded them: “Do not leave Jerusalem, but wait for the gift the Father promised, which you have heard Me discuss.
-<small><sub>**Literal:**</sub></small>
-And being assembled together He instructed to them from Jerusalem not to depart, but to await the promise of the Father That which you heard of Me;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.3|<< Acts 1:3]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.5|Acts 1:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4871\|συναλιζόμενος]]  [[G3853\|παρήγγειλεν]]  [[G0846\|αὐτοῖς]]  [[G0575\|ἀπὸ]]  [[G2414\|Ἱεροσολύμων]]  [[G3361\|μὴ]]  [[G5563\|χωρίζεσθαι,]]  [[G0235\|ἀλλὰ]]  [[G4037\|περιμένειν]]  [[G3588\|τὴν]]  [[G1860\|ἐπαγγελίαν]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G3739\|ἣν]]  [[G0191\|ἠκούσατέ]]  [[G3165\|μου·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TRINITY|TRINITY]] • [[topic WAITING|WAITING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.1.3|<< Acts 1:3]]</td><td align="center" style="border:none;">[[Acts.1|Acts 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.1.5|Acts 1:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

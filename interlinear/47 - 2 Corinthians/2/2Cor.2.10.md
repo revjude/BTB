@@ -1,10 +1,55 @@
+---
+title: 2 Corinthians 2:10
+type: Verse
+kjv: "To whom ye forgive any thing, I forgive also: for if I forgave any thing, to whom I forgave it, for your sakes forgave I it in the person of Christ;"
+bsb: "If you forgive anyone, I also forgive him. And if I have forgiven anything, I have forgiven it in the presence of Christ for your sake,"
+greek: "ᾧ δέ τι χαρίζεσθε, κἀγώ· κἀγώ· καὶ γὰρ ἐγὼ ὃ κεχάρισμαι, εἴ τι κεχάρισμαι, δι᾽ ὑμᾶς ἐν προσώπῳ Χριστοῦ,"
+pericope: "[[2Cor.2.1 Reaffirm Your Love|Reaffirm Your Love]]"
+original_language: Greek
+testament: New
+book: 2 Corinthians
+chapter: 2
+book/chapter: "[[2Cor.2|2 Corinthians 2]]"
+chronological_order: 1075
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- apologetic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G5483]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G1487G]]"
+- "[[G1223]]"
+- "[[G4771]]"
+- "[[G1722]]"
+- "[[G4383]]"
+- "[[G5547]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **2 Corinthians 2:10**<big><big>[[2Cor.2.1 Reaffirm Your Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 To whom ye forgive any thing, I [forgive] also: for if I forgave any thing, to whom I forgave [it], for your sakes [forgave I it] in the person of Christ;
 <small><sub>**BSB:**</sub></small>
 If you forgive anyone, I also forgive him. And if I have forgiven anything, I have forgiven it in the presence of Christ for your sake,
-<small><sub>**Literal:**</sub></small>
-To whomever now anything you forgive, I also myself; and for I myself to whom I have forgiven, if anything I have forgiven, [it is] for you in [the] presence of Christ,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.9|<< 2 Corinthians 2:9]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.11|2 Corinthians 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ᾧ]]  [[G1161\|δέ]]  [[G5100\|τι]]  [[G5483\|χαρίζεσθε,]]  [[G1473\|κἀγώ·]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2532\|καὶ]]  [[G1063\|γὰρ]]  [[G1473\|ἐγὼ]]  [[G3739\|ὃ]]  [[G5483\|κεχάρισμαι,]]  [[G1487G\|εἴ]]  [[G5100\|τι]]  [[G5483\|κεχάρισμαι,]]  [[G1223\|δι᾽]]  [[G4771\|ὑμᾶς]]  [[G1722\|ἐν]]  [[G4383\|προσώπῳ]]  [[G5547\|Χριστοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Cor.2.9|<< 2 Corinthians 2:9]]</td><td align="center" style="border:none;">[[2Cor.2|2 Corinthians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Cor.2.11|2 Corinthians 2:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

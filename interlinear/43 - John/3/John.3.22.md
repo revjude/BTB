@@ -1,10 +1,55 @@
+---
+title: John 3:22
+type: Verse
+kjv: "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized."
+bsb: "After this, Jesus and His disciples went into the Judean countryside, where He spent some time with them and baptized."
+greek: "Μετὰ ταῦτα ἦλθεν ὁ Ἰησοῦς καὶ οἱ μαθηταὶ αὐτοῦ εἰς τὴν Ἰουδαίαν γῆν, καὶ ἐκεῖ διέτριβεν μετ᾽ αὐτῶν καὶ ἐβάπτιζεν."
+pericope: "[[John.3.22 John’s Testimony about Jesus|John’s Testimony about Jesus]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 3
+book/chapter: "[[John.3|John 3]]"
+chronological_order: 941
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3326]]"
+- "[[G3778]]"
+- "[[G2064]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2532]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G1519]]"
+- "[[G2453]]"
+- "[[G1093H]]"
+- "[[G1563]]"
+- "[[G1304]]"
+- "[[G0907]]"
+texts:
+- NKO
+---
+
 **John 3:22**<big><big>[[John.3.22 John’s Testimony about Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized.
 <small><sub>**BSB:**</sub></small>
 After this, Jesus and His disciples went into the Judean countryside, where He spent some time with them and baptized.
-<small><sub>**Literal:**</sub></small>
-After these things came <the> Jesus and the disciples of Him into the Judean land, and there He was staying with them and was baptizing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.21|<< John 3:21]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.23|John 3:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3326\|Μετὰ]]  [[G3778\|ταῦτα]]  [[G2064\|ἦλθεν]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G2453\|Ἰουδαίαν]]  [[G1093H\|γῆν,]]  [[G2532\|καὶ]]  [[G1563\|ἐκεῖ]]  [[G1304\|διέτριβεν]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G2532\|καὶ]]  [[G0907\|ἐβάπτιζεν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.3.21|<< John 3:21]]</td><td align="center" style="border:none;">[[John.3|John 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.3.23|John 3:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

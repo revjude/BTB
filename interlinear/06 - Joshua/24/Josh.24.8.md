@@ -1,8 +1,67 @@
+---
+title: Joshua 24:8
+type: Verse
+kjv: "And I brought you into the land of the Amorites, which dwelt on the other side Jordan; and they fought with you: and I gave them into your hand, that ye might possess their land; and I destroyed them from before you."
+bsb: "Later, I brought you to the land of the Amorites who lived beyond the Jordan. They fought against you, but I delivered them into your hand, that you should possess their land when I destroyed them before you."
+hebrew: "וָאָבִ֣יא אֶתְכֶ֗ם אֶל־ אֶ֤רֶץ הָאֱמֹרִי֙ הַיּוֹשֵׁב֙ בְּעֵ֣בֶר הַיַּרְדֵּ֔ן וַיִּֽלָּחֲמ֖וּ אִתְּכֶ֑ם וָאֶתֵּ֨ן אוֹתָ֤ם בְּיֶדְכֶם֙ וַתִּֽירְשׁ֣וּ אֶת־ אַרְצָ֔ם וָאַשְׁמִידֵ֖ם מִפְּנֵיכֶֽם׃"
+pericope: "[[Josh.24.1 Joshua Reviews Israel’s History|Joshua Reviews Israel’s History]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic SHECHEM|SHECHEM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9012]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H5676G]]"
+- "[[H3383]]"
+- "[[H3898A]]"
+- "[[H0854]]"
+- "[[H5414G]]"
+- "[[H9038]]"
+- "[[H3027H]]"
+- "[[H9026]]"
+- "[[H3423H]]"
+- "[[H9028]]"
+- "[[H8045]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Joshua 24:8**<big><big>[[Josh.24.1 Joshua Reviews Israel’s History|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I brought you into the land of the Amorites, which dwelt on the other side Jordan; and they fought with you: and I gave them into your hand, that ye might possess their land; and I destroyed them from before you.
 <small><sub>**BSB:**</sub></small>
 Later, I brought you to the land of the Amorites who lived beyond the Jordan. They fought against you, but I delivered them into your hand, that you should possess their land when I destroyed them before you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0935P\|אָבִ֣יא]] [[H0853\|אֶתְ]][[H9036\|כֶ֗ם]] [[H0413\|אֶל]][[H9014\|־]] [[H0776G\|אֶ֤רֶץ]] [[H9009\|הָ]][[H0567\|אֱמֹרִי֙]] [[H9009\|הַ]][[H3427\|יּוֹשֵׁב֙]] [[H9003\|בְּ]][[H5676G\|עֵ֣בֶר]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֔ן]] [[H9001\|וַ]][[H3898A\|יִּֽלָּחֲמ֖וּ]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9001\|וָ]][[H5414G\|אֶתֵּ֨ן]] [[H0853\|אוֹתָ֤]][[H9038\|ם]] [[H9003\|בְּ]][[H3027H\|יֶדְ]][[H9026\|כֶם֙]] [[H9001\|וַ]][[H3423H\|תִּֽירְשׁ֣וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ֔]][[H9028\|ם]] [[H9001\|וָ]][[H8045\|אַשְׁמִידֵ֖]][[H9038\|ם]] [[H9006\|מִ]][[H6440G\|פְּנֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHECHEM|SHECHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.7|<< Joshua 24:7]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.9|Joshua 24:9 >>]]</td></tr></table>
 
@@ -28,7 +87,7 @@ Later, I brought you to the land of the Amorites who lived beyond the Jordan. Th
 | from before you  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440G\|פְּנֵי]]&#8207;&#8207;[[H9026\|כֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.nei.<small><sup>[[HNcmpc]]</sup></small> Khem<small><sup>[[HSp2mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.7|<< Joshua 24:7]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.9|Joshua 24:9 >>]]</td></tr></table>
 
-[^1]: and I brought !  | **<big>[[H9012|ה]]</big><big>[[H0935P|אָבִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.vi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
-[^2]: and I brought !  | **<big>[[H9012|ה]]</big><big>[[H0935P|אָבִאָ]]</big><big>[[H9001|וָ]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.vi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
+[^1]: and I brought !  | **<big>[[H9001|וָ]]</big><big>[[H0935P|אָבִאָ]]</big><big>[[H9012|ה]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.vi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
+[^2]: and I brought !  | **<big>[[H9001|וָ]]</big><big>[[H0935P|אָבִאָ]]</big><big>[[H9012|ה]]</big> ** | va.<small><sup>[[Hc]]</sup></small> 'a.vi.'a<small><sup>[[HVhw1cs]]</sup></small> h<small><sup>[[HSh]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וָאָבִ֣א/ה</big></span>**
 

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ibzan, Elon, and Abdon
+type: Pericope
 pericope: "[[Judg.12.8 Ibzan, Elon, and Abdon|Ibzan, Elon, and Abdon]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 12
 book/chapter: "[[Judg.12|Judges 12]]"
-genre:
+chronological_order: 266
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 8
 verses:
 - "[[Judg.12.8]]"
 - "[[Judg.12.9]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Judg.12.15]]"
 ---
 
-[[Judg.12|Judges 12:8 - Judges 12:15]]
+<small>[[Judg.12|Judges 12:8-15]]</small>
 *Ibzan, Elon, and Abdon*
 
 [[Judg.12.8|8]] And after him Ibzan of Bethlehem judged Israel.

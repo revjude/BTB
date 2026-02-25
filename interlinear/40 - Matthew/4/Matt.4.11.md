@@ -1,10 +1,53 @@
+---
+title: Matthew 4:11
+type: Verse
+kjv: "Then the devil leaveth him, and, behold, angels came and ministered unto him."
+bsb: "Then the devil left Him, and angels came and ministered to Him."
+greek: "τότε ἀφίησιν αὐτὸν ὁ διάβολος, καὶ ἰδοὺ ἄγγελοι προσῆλθον καὶ διηκόνουν αὐτῷ.¶"
+pericope: "[[Matt.4.1 The Temptation of Jesus|The Temptation of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 4
+book/chapter: "[[Matt.4|Matthew 4]]"
+chronological_order: 936
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G5119]]"
+- "[[G0863G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1228]]"
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G0032G]]"
+- "[[G4334]]"
+- "[[G1247]]"
+texts:
+- NKO
+---
+
 **Matthew 4:11**<big><big>[[Matt.4.1 The Temptation of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then the devil leaveth him, and, behold, angels came and ministered unto him.
 <small><sub>**BSB:**</sub></small>
 Then the devil left Him, and angels came and ministered to Him.
-<small><sub>**Literal:**</sub></small>
-Then leaves Him the devil, and behold angels came and they were ministering to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.10|<< Matthew 4:10]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.12|Matthew 4:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|τότε]]  [[G0863G\|ἀφίησιν]]  [[G0846\|αὐτὸν]]  [[G3588\|ὁ]]  [[G1228\|διάβολος,]]  [[G2532\|καὶ]]  [[G2400\|ἰδοὺ]]  [[G0032G\|ἄγγελοι]]  [[G4334\|προσῆλθον]]  [[G2532\|καὶ]]  [[G1247\|διηκόνουν]]  [[G0846\|αὐτῷ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.4.10|<< Matthew 4:10]]</td><td align="center" style="border:none;">[[Matt.4|Matthew 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.4.12|Matthew 4:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

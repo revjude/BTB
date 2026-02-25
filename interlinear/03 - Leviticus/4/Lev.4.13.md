@@ -1,8 +1,68 @@
+---
+title: Leviticus 4:13
+type: Verse
+kjv: "And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the LORD concerning things which should not be done, and are guilty;"
+bsb: "Now if the whole congregation of Israel strays unintentionally and the matter escapes the notice of the assembly so that they violate any of the LORD’s commandments and incur guilt by doing what is forbidden,"
+hebrew: "וְאִ֨ם כָּל־ עֲדַ֤ת יִשְׂרָאֵל֙ יִשְׁגּ֔וּ וְנֶעְלַ֣ם דָּבָ֔ר מֵעֵינֵ֖י הַקָּהָ֑ל וְ֠עָשׂוּ אַחַ֨ת מִכָּל־ מִצְוֹ֧ת יְהוָ֛ה אֲשֶׁ֥ר לֹא־ תֵעָשֶׂ֖ינָה וְאָשֵֽׁמוּ׃"
+pericope: "[[Lev.4.1 Laws for Sin Offerings|Laws for Sin Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 4
+book/chapter: "[[Lev.4|Leviticus 4]]"
+chronological_order: 136
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5712]]"
+- "[[H3478]]"
+- "[[H7686]]"
+- "[[H9001]]"
+- "[[H5956]]"
+- "[[H1697I]]"
+- "[[H9006]]"
+- "[[H5869A]]"
+- "[[H9009]]"
+- "[[H6951]]"
+- "[[H6213A]]"
+- "[[H0259]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H0816]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 4:13**<big><big>[[Lev.4.1 Laws for Sin Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done [somewhat against] any of the commandments of the LORD [concerning things] which should not be done, and are guilty;
 <small><sub>**BSB:**</sub></small>
 Now if the whole congregation of Israel strays unintentionally and the matter escapes the notice of the assembly so that they violate any of the LORD’s commandments and incur guilt by doing what is forbidden,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִ֨ם]] [[H3605\|כָּל]][[H9014\|־]] [[H5712\|עֲדַ֤ת]] [[H3478\|יִשְׂרָאֵל֙]] [[H7686\|יִשְׁגּ֔וּ]] [[H9001\|וְ]][[H5956\|נֶעְלַ֣ם]] [[H1697I\|דָּבָ֔ר]] [[H9006\|מֵ]][[H5869A\|עֵינֵ֖י]] [[H9009\|הַ]][[H6951\|קָּהָ֑ל]] [[H9001\|וְ֠]][[H6213A\|עָשׂוּ]] [[H0259\|אַחַ֨ת]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹ֧ת]] [[H3068G\|יְהוָ֛ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H6213A\|תֵעָשֶׂ֖ינָה]] [[H9001\|וְ]][[H0816\|אָשֵֽׁמוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic IGNORANCE|IGNORANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.4.12|<< Leviticus 4:12]]</td><td align="center" style="border:none;">[[Lev.4|Leviticus 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.4.14|Leviticus 4:14 >>]]</td></tr></table>
 

@@ -1,10 +1,44 @@
+---
+title: Revelation 12:18
+type: Verse
+kjv: "Not in KJV"
+bsb: "[End of Rev.12.17 IN BSB:  And the dragon stood on the shore of the sea.]"
+greek: "καὶ ἐστάθη ἐπὶ τὴν ἄμμον τῆς θαλάσσης.¶"
+pericope: "[[Rev.12.13 The Woman Persecuted|The Woman Persecuted]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+strongs:
+- "[[G2532]]"
+- "[[G2476]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0285]]"
+- "[[G2281]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Revelation 12:18**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 [Not in KJV]
 <small><sub>**BSB:**</sub></small>
 [End of Rev.12.17 IN BSB:  And the dragon stood on the shore of the sea.]
-<small><sub>**Literal:**</sub></small>
-[13.1] And he stood upon the sand of the sea.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.17|<< Revelation 12:17]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.1|Revelation 13:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2476\|ἐστάθη]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G0285\|ἄμμον]]  [[G3588\|τῆς]]  [[G2281\|θαλάσσης.¶]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.17|<< Revelation 12:17]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.13.1|Revelation 13:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

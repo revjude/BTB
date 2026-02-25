@@ -1,8 +1,59 @@
+---
+title: Isaiah 22:15
+type: Verse
+kjv: "Thus saith the Lord GOD of hosts, Go, get thee unto this treasurer, even unto Shebna, which is over the house, and say,"
+bsb: "This is what the Lord GOD of Hosts says: “Go, say to Shebna, the steward in charge of the palace:"
+hebrew: "כֹּ֥ה אָמַ֛ר אֲדֹנָ֥י יְהוִ֖ה צְבָא֑וֹת לֶךְ־ בֹּא֙ אֶל־ הַסֹּכֵ֣ן הַזֶּ֔ה עַל־ שֶׁבְנָ֖א אֲשֶׁ֥ר עַל־ הַבָּֽיִת׃"
+pericope: "[[Isa.22.15 A Message for Shebna|A Message for Shebna]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 22
+book/chapter: "[[Isa.22|Isaiah 22]]"
+chronological_order: 639
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6635B]]"
+- "[[H1980G]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5532]]"
+- "[[H2088]]"
+- "[[H5921A]]"
+- "[[H7644]]"
+- "[[H0834A]]"
+- "[[H1004P]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 22:15**<big><big>[[Isa.22.15 A Message for Shebna|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD of hosts, Go, get thee unto this treasurer, [even] unto Shebna, which [is] over the house, [and say],
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD of Hosts says: “Go, say to Shebna, the steward in charge of the palace:
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֛ר]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִ֖ה]] [[H6635B\|צְבָא֑וֹת]] [[H1980G\|לֶךְ]][[H9014\|־]] [[H0935G\|בֹּא֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5532\|סֹּכֵ֣ן]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H5921A\|עַל]][[H9014\|־]] [[H7644\|שֶׁבְנָ֖א]] [[H0834A\|אֲשֶׁ֥ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H1004P\|בָּֽיִת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISAIAH|ISAIAH]] • [[topic SHEBNA (SHEBNAH)|SHEBNA (SHEBNAH)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.22.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.22.14|<< Isaiah 22:14]]</td><td align="center" style="border:none;">[[Isa.22|Isaiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.22.16|Isaiah 22:16 >>]]</td></tr></table>
 

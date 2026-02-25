@@ -1,8 +1,54 @@
+---
+title: Job 30:2
+type: Verse
+kjv: "Yea, whereto might the strength of their hands profit me, in whom old age was perished?"
+bsb: "What use to me was the strength of their hands, since their vigor had left them?"
+hebrew: "גַּם־ כֹּ֣חַ יְ֭דֵיהֶם לָ֣מָּה לִּ֑י עָ֝לֵ֗ימוֹ אָ֣בַד כָּֽלַח׃"
+pericope: "[[Job.30.1 Job’s Honor Turned to Contempt|Job’s Honor Turned to Contempt]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 30
+book/chapter: "[[Job.30|Job 30]]"
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H3581B]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H9030]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H0006]]"
+- "[[H3624]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 30:2**<big><big>[[Job.30.1 Job’s Honor Turned to Contempt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, whereto [might] the strength of their hands [profit] me, in whom old age was perished?
 <small><sub>**BSB:**</sub></small>
 What use to me was the strength of their hands, since their vigor had left them?
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H3581B\|כֹּ֣חַ]] [[H3027G\|יְ֭דֵי]][[H9028\|הֶם]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H9005\|לִּ֑]][[H9030\|י]] [[H5921A\|עָ֝לֵ֗י]][[H9038\|מוֹ]] [[H0006\|אָ֣בַד]] [[H3624\|כָּֽלַח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.30.1|<< Job 30:1]]</td><td align="center" style="border:none;">[[Job.30|Job 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.30.3|Job 30:3 >>]]</td></tr></table>
 

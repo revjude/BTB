@@ -1,8 +1,59 @@
+---
+title: Isaiah 5:21
+type: Verse
+kjv: "Woe unto them that are wise in their own eyes, and prudent in their own sight!"
+bsb: "Woe to those who are wise in their own eyes and clever in their own sight."
+hebrew: "ה֖וֹי חֲכָמִ֣ים בְּעֵֽינֵיהֶ֑ם וְנֶ֥גֶד פְּנֵיהֶ֖ם נְבֹנִֽים׃"
+pericope: "[[Isa.5.8 Woes to the Wicked|Woes to the Wicked]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 5
+book/chapter: "[[Isa.5|Isaiah 5]]"
+chronological_order: 613
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CONCEIT|CONCEIT]]"
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic FALSE CONFIDENCE|FALSE CONFIDENCE]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H1945]]"
+- "[[H2450]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5048]]"
+- "[[H6440G]]"
+- "[[H0995]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 5:21**<big><big>[[Isa.5.8 Woes to the Wicked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Woe unto [them that are] wise in their own eyes, and prudent in their own sight!
 <small><sub>**BSB:**</sub></small>
 Woe to those who are wise in their own eyes and clever in their own sight.
+<small><sub>**Hebrew:**</sub></small>
+[[H1945\|ה֖וֹי]] [[H2450\|חֲכָמִ֣ים]] [[H9003\|בְּ]][[H5869A\|עֵֽינֵי]][[H9028\|הֶ֑ם]] [[H9002\|וְ]][[H5048\|נֶ֥גֶד]] [[H6440G\|פְּנֵי]][[H9028\|הֶ֖ם]] [[H0995\|נְבֹנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CONCEIT|CONCEIT]] • [[topic CONFIDENCE|CONFIDENCE]] • [[topic FALSE CONFIDENCE|FALSE CONFIDENCE]] • [[topic ISAIAH|ISAIAH]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.5.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.5.20|<< Isaiah 5:20]]</td><td align="center" style="border:none;">[[Isa.5|Isaiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.5.22|Isaiah 5:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

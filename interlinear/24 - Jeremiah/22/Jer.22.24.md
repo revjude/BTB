@@ -1,8 +1,67 @@
+---
+title: Jeremiah 22:24
+type: Verse
+kjv: "As I live, saith the LORD, though Coniah the son of Jehoiakim king of Judah were the signet upon my right hand, yet would I pluck thee thence;"
+bsb: "“As surely as I live,” declares the LORD, “even if you, Coniah son of Jehoiakim king of Judah, were a signet ring on My right hand, I would pull you off."
+hebrew: "חַי־ אָנִי֮ נְאֻם־ יְהוָה֒ כִּ֣י אִם־ יִהְיֶ֞ה כָּנְיָ֤הוּ בֶן־ יְהֽוֹיָקִים֙ מֶ֣לֶךְ יְהוּדָ֔ה חוֹתָ֖ם עַל־ יַ֣ד יְמִינִ֑י כִּ֥י מִשָּׁ֖ם אֶתְּקֶֽנְךָּ׃"
+pericope: "[[Jer.22.24 A Warning to Coniah|A Warning to Coniah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 22
+book/chapter: "[[Jer.22|Jeremiah 22]]"
+chronological_order: 745
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+strongs:
+- "[[H2416A]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H1961]]"
+- "[[H3659]]"
+- "[[H1121A]]"
+- "[[H3079]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H2368]]"
+- "[[H5921A]]"
+- "[[H3027G]]"
+- "[[H3225G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H9006]]"
+- "[[H8033G]]"
+- "[[H5423]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 22:24**<big><big>[[Jer.22.24 A Warning to Coniah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [As] I live, saith the LORD, though Coniah the son of Jehoiakim king of Judah were the signet upon my right hand, yet would I pluck thee thence;
 <small><sub>**BSB:**</sub></small>
 “As surely as I live,” declares the LORD, “even if you, Coniah son of Jehoiakim king of Judah, were a signet ring on My right hand, I would pull you off.
+<small><sub>**Hebrew:**</sub></small>
+[[H2416A\|חַי]][[H9014\|־]] [[H0589\|אָנִי֮]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָה֒]] [[H3588B\|כִּ֣י]] [[H0518B\|אִם]][[H9014\|־]] [[H1961\|יִהְיֶ֞ה]] [[H3659\|כָּנְיָ֤הוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H3079\|יְהֽוֹיָקִים֙]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֔ה]] [[H2368\|חוֹתָ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3027G\|יַ֣ד]] [[H3225G\|יְמִינִ֑]][[H9020\|י]] [[H3588A\|כִּ֥י]] [[H9006\|מִ]][[H8033G\|שָּׁ֖ם]] [[H5423\|אֶתְּקֶֽ]][[H9031\|נְךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.22.23|<< Jeremiah 22:23]]</td><td align="center" style="border:none;">[[Jer.22|Jeremiah 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.22.25|Jeremiah 22:25 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Job 28:4
+type: Verse
+kjv: "The flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men."
+bsb: "Far from human habitation he cuts a shaft in places forgotten by the foot of man. Far from men he dangles and sways."
+hebrew: "פָּ֤רַץ נַ֨חַל׀ מֵֽעִם־ גָּ֗ר הַֽנִּשְׁכָּחִ֥ים מִנִּי־ רָ֑גֶל דַּ֖לּוּ מֵאֱנ֣וֹשׁ נָֽעוּ׃"
+pericope: "[[Job.28.1 Where Can Wisdom Be Found？|Where Can Wisdom Be Found？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 28
+book/chapter: "[[Job.28|Job 28]]"
+chronological_order: 39
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H6555]]"
+- "[[H5158A]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H5973B]]"
+- "[[H9014]]"
+- "[[H1481A]]"
+- "[[H9009]]"
+- "[[H7911]]"
+- "[[H4480A]]"
+- "[[H7272]]"
+- "[[H1809]]"
+- "[[H0582]]"
+- "[[H5128]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 28:4**<big><big>[[Job.28.1 Where Can Wisdom Be Found？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The flood breaketh out from the inhabitant; [even the waters] forgotten of the foot: they are dried up, they are gone away from men.
 <small><sub>**BSB:**</sub></small>
 Far from human habitation he cuts a shaft in places forgotten by the foot of man. Far from men he dangles and sways.
+<small><sub>**Hebrew:**</sub></small>
+[[H6555\|פָּ֤רַץ]] [[H5158A\|נַ֨חַל]][[H9015\|׀]] [[H9006\|מֵֽ]][[H5973B\|עִם]][[H9014\|־]] [[H1481A\|גָּ֗ר]] [[H9009\|הַֽ]][[H7911\|נִּשְׁכָּחִ֥ים]] [[H4480A\|מִנִּי]][[H9014\|־]] [[H7272\|רָ֑גֶל]] [[H1809\|דַּ֖לּוּ]] [[H9006\|מֵ]][[H0582\|אֱנ֣וֹשׁ]] [[H5128\|נָֽעוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.28.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.28.3|<< Job 28:3]]</td><td align="center" style="border:none;">[[Job.28|Job 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.28.5|Job 28:5 >>]]</td></tr></table>
 

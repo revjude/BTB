@@ -1,8 +1,81 @@
+---
+title: 2 Chronicles 2:4
+type: Verse
+kjv: "Behold, I build an house to the name of the LORD my God, to dedicate it to him, and to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the LORD our God. This is an ordinance for ever to Israel."
+bsb: "Behold, I am about to build a house for the Name of the LORD my God to dedicate to Him for burning fragrant incense before Him, for displaying the showbread continuously, and for making burnt offerings every morning and evening as well as on the Sabbaths, New Moons, and appointed feasts of the LORD our God. This is ordained for Israel forever."
+hebrew: "הִנֵּה֩ אֲנִ֨י בֽוֹנֶה־ בַּ֜יִת לְשֵׁ֣ם׀ יְהוָ֣ה אֱלֹהָ֗י לְהַקְדִּ֣ישׁ ל֡וֹ לְהַקְטִ֣יר לְפָנָ֣יו קְטֹֽרֶת־ סַמִּים֩ וּמַעֲרֶ֨כֶת תָּמִ֤יד וְעֹלוֹת֙ לַבֹּ֣קֶר וְלָעֶ֔רֶב לַשַּׁבָּתוֹת֙ וְלֶ֣חֳדָשִׁ֔ים וּֽלְמוֹעֲדֵ֖י יְהוָ֣ה אֱלֹהֵ֑ינוּ לְעוֹלָ֖ם זֹ֥את עַל־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.2.1 Preparations for the Temple|Preparations for the Temple]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 2
+book/chapter: "[[2Chr.2|2 Chronicles 2]]"
+chronological_order: 491
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic HIRAM|HIRAM]]"
+- "[[topic INCENSE|INCENSE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H2009]]"
+- "[[H0589]]"
+- "[[H1129]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9020]]"
+- "[[H6942H]]"
+- "[[H9033]]"
+- "[[H6999A]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H7004]]"
+- "[[H5561]]"
+- "[[H9002]]"
+- "[[H4635]]"
+- "[[H8548]]"
+- "[[H5930A]]"
+- "[[H1242]]"
+- "[[H6153]]"
+- "[[H7676]]"
+- "[[H2320H]]"
+- "[[H4150H]]"
+- "[[H9025]]"
+- "[[H5769G]]"
+- "[[H2063]]"
+- "[[H5921A]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 2:4**<big><big>[[2Chr.2.1 Preparations for the Temple|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, I build an house to the name of the LORD my God, to dedicate [it] to him, [and] to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the LORD our God. This [is an ordinance] for ever to Israel.
 <small><sub>**BSB:**</sub></small>
 Behold, I am about to build a house for the Name of the LORD my God to dedicate to Him for burning fragrant incense before Him, for displaying the showbread continuously, and for making burnt offerings every morning and evening as well as on the Sabbaths, New Moons, and appointed feasts of the LORD our God. This is ordained for Israel forever.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה֩]] [[H0589\|אֲנִ֨י]] [[H1129\|בֽוֹנֶה]][[H9014\|־]] [[H1004B\|בַּ֜יִת]] [[H9005\|לְ]][[H8034\|שֵׁ֣ם]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהָ֗]][[H9020\|י]] [[H9005\|לְ]][[H6942H\|הַקְדִּ֣ישׁ]] [[H9005\|ל֡]][[H9033\|וֹ]] [[H9005\|לְ]][[H6999A\|הַקְטִ֣יר]] [[H9005\|לְ]][[H6440G\|פָנָ֣י]][[H9023\|ו]] [[H7004\|קְטֹֽרֶת]][[H9014\|־]] [[H5561\|סַמִּים֩]] [[H9002\|וּ]][[H4635\|מַעֲרֶ֨כֶת]] [[H8548\|תָּמִ֤יד]] [[H9002\|וְ]][[H5930A\|עֹלוֹת֙]] [[H9005\|לַ]][[H1242\|בֹּ֣קֶר]] [[H9002\|וְ]][[H9005\|לָ]][[H6153\|עֶ֔רֶב]] [[H9005\|לַ]][[H7676\|שַּׁבָּתוֹת֙]] [[H9002\|וְ]][[H9005\|לֶ֣]][[H2320H\|חֳדָשִׁ֔ים]] [[H9002\|וּֽ]][[H9005\|לְ]][[H4150H\|מוֹעֲדֵ֖י]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵ֑י]][[H9025\|נוּ]] [[H9005\|לְ]][[H5769G\|עוֹלָ֖ם]] [[H2063\|זֹ֥את]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic HIRAM|HIRAM]] • [[topic INCENSE|INCENSE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]] • [[topic TEMPLE|TEMPLE]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.2.3|<< 2 Chronicles 2:3]]</td><td align="center" style="border:none;">[[2Chr.2|2 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.2.5|2 Chronicles 2:5 >>]]</td></tr></table>
 

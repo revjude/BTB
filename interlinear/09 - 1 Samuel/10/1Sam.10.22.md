@@ -1,8 +1,59 @@
+---
+title: 1 Samuel 10:22
+type: Verse
+kjv: "Therefore they inquired of the LORD further, if the man should yet come thither. And the LORD answered, Behold, he hath hid himself among the stuff."
+bsb: "So again they inquired of the LORD, “Has the man come here yet?” And the LORD replied, “Behold, he has hidden himself among the baggage.”"
+hebrew: "וַיִּשְׁאֲלוּ־ עוֹד֙ בַּֽיהוָ֔ה הֲבָ֥א ע֖וֹד הֲלֹ֣ם אִ֑ישׁ ס וַיֹּ֣אמֶר יְהוָ֔ה הִנֵּה־ ה֥וּא נֶחְבָּ֖א אֶל־ הַכֵּלִֽים׃"
+pericope: "[[1Sam.10.17 Saul Proclaimed King|Saul Proclaimed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MIZPAH|MIZPAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7592]]"
+- "[[H9014]]"
+- "[[H5750]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9008]]"
+- "[[H0935G]]"
+- "[[H1988]]"
+- "[[H0376G]]"
+- "[[H9018]]"
+- "[[H0559]]"
+- "[[H2009]]"
+- "[[H1931]]"
+- "[[H2244]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H3627]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 10:22**<big><big>[[1Sam.10.17 Saul Proclaimed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they inquired of the LORD further, if the man should yet come thither. And the LORD answered, Behold, he hath hid himself among the stuff.
 <small><sub>**BSB:**</sub></small>
 So again they inquired of the LORD, “Has the man come here yet?” And the LORD replied, “Behold, he has hidden himself among the baggage.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7592\|יִּשְׁאֲלוּ]][[H9014\|־]] [[H5750\|עוֹד֙]] [[H9003\|בַּֽ]][[H3068G\|יהוָ֔ה]] [[H9008\|הֲ]][[H0935G\|בָ֥א]] [[H5750\|ע֖וֹד]] [[H1988\|הֲלֹ֣ם]] [[H0376G\|אִ֑ישׁ]] [[H9018\|ס]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H3068G\|יְהוָ֔ה]] [[H2009\|הִנֵּה]][[H9014\|־]] [[H1931\|ה֥וּא]] [[H2244\|נֶחְבָּ֖א]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MIZPAH|MIZPAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.21|<< 1 Samuel 10:21]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.23|1 Samuel 10:23 >>]]</td></tr></table>
 
@@ -14,7 +65,7 @@ So again they inquired of the LORD, “Has the man come here yet?” And the LOR
 | ¿ has he come  |**<big>&#8207;[[H9008\|הֲ]]&#8207;&#8207;[[H0935G\|בָ֥א]]&#8207; </big>**| ha.<small><sup>[[HTi]]</sup></small> Va'<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | yet  |**<big>&#8207;[[H5750\|ע֖וֹד]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here  |**<big>&#8207;[[H1988\|הֲלֹ֣ם]]&#8207; </big>**| ha.Lom<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] man  |**<big>&#8207;[[H0376G\|אִ֑ישׁ]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] man  |**<big>&#8207;[[H0376G\|אִ֑ישׁ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'Ish<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and he said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּ֣אמֶר]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.Yo.mer<small><sup>[[HVqw3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֔ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | here!  |**<big>&#8207;[[H2009\|הִנֵּה]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| hi.neh-<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |

@@ -1,8 +1,60 @@
+---
+title: Ezekiel 38:10
+type: Verse
+kjv: "Thus saith the Lord GOD; It shall also come to pass, that at the same time shall things come into thy mind, and thou shalt think an evil thought:"
+bsb: "This is what the Lord GOD says: On that day, thoughts will arise in your mind, and you will devise an evil plan."
+hebrew: "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה וְהָיָ֣ה׀ בַּיּ֣וֹם הַה֗וּא יַעֲל֤וּ דְבָרִים֙ עַל־ לְבָבֶ֔ךָ וְחָשַׁבְתָּ֖ מַחֲשֶׁ֥בֶת רָעָֽה׃"
+pericope: "[[Ezek.38.1 A Prophecy against Gog|A Prophecy against Gog]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 38
+book/chapter: "[[Ezek.38|Ezekiel 38]]"
+chronological_order: 829
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5927G]]"
+- "[[H1697I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H9021]]"
+- "[[H2803I]]"
+- "[[H4284]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 38:10**<big><big>[[Ezek.38.1 A Prophecy against Gog|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; It shall also come to pass, [that] at the same time shall things come into thy mind, and thou shalt think an evil thought:
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: On that day, thoughts will arise in your mind, and you will devise an evil plan.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9001\|וְ]][[H1961\|הָיָ֣ה]][[H9015\|׀]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֗וּא]] [[H5927G\|יַעֲל֤וּ]] [[H1697I\|דְבָרִים֙]] [[H5921A\|עַל]][[H9014\|־]] [[H3824\|לְבָבֶ֔]][[H9021\|ךָ]] [[H9001\|וְ]][[H2803I\|חָשַׁבְתָּ֖]] [[H4284\|מַחֲשֶׁ֥בֶת]] [[H7451H\|רָעָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.38.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.38.9|<< Ezekiel 38:9]]</td><td align="center" style="border:none;">[[Ezek.38|Ezekiel 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.38.11|Ezekiel 38:11 >>]]</td></tr></table>
 

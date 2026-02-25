@@ -1,8 +1,53 @@
+---
+title: Proverbs 23:27
+type: Verse
+kjv: "For a whore is a deep ditch; and a strange woman is a narrow pit."
+bsb: "For a prostitute is a deep pit, and an adulteress is a narrow well."
+hebrew: "כִּֽי־ שׁוּחָ֣ה עֲמֻקָּ֣ה זוֹנָ֑ה וּבְאֵ֥ר צָ֝רָ֗ה נָכְרִיָּֽה׃"
+pericope: "[[Prov.23.26 Saying 18|Saying 18]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 23
+book/chapter: "[[Prov.23|Proverbs 23]]"
+chronological_order: 478
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DITCH|DITCH]]"
+- "[[topic PIT|PIT]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7745]]"
+- "[[H6013]]"
+- "[[H2181]]"
+- "[[H9002]]"
+- "[[H0875]]"
+- "[[H6862A]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 23:27**<big><big>[[Prov.23.26 Saying 18|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For a whore [is] a deep ditch; and a strange woman [is] a narrow pit.
 <small><sub>**BSB:**</sub></small>
 For a prostitute is a deep pit, and an adulteress is a narrow well.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7745\|שׁוּחָ֣ה]] [[H6013\|עֲמֻקָּ֣ה]] [[H2181\|זוֹנָ֑ה]] [[H9002\|וּ]][[H0875\|בְאֵ֥ר]] [[H6862A\|צָ֝רָ֗ה]] [[H5237\|נָכְרִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DITCH|DITCH]] • [[topic PIT|PIT]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.23.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.23.26|<< Proverbs 23:26]]</td><td align="center" style="border:none;">[[Prov.23|Proverbs 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.23.28|Proverbs 23:28 >>]]</td></tr></table>
 

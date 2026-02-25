@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Shimei Pardoned
+type: Pericope
 pericope: "[[2Sam.19.16 Shimei Pardoned|Shimei Pardoned]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 19
 book/chapter: "[[2Sam.19|2 Samuel 19]]"
-genre:
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 8
 verses:
 - "[[2Sam.19.16]]"
 - "[[2Sam.19.17]]"
@@ -27,7 +34,7 @@ verses:
 - "[[2Sam.19.23]]"
 ---
 
-[[2Sam.19|2 Samuel 19:16 - 2 Samuel 19:23]]
+<small>[[2Sam.19|2 Samuel 19:16-23]]</small>
 *Shimei Pardoned*
 
 [[2Sam.19.16|16]] And Shimei the son of Gera, a Benjamite, which \[was\] of Bahurim, hasted and came down with the men of Judah to meet king David.

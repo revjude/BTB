@@ -1,8 +1,62 @@
+---
+title: Ezekiel 45:8
+type: Verse
+kjv: "In the land shall be his possession in Israel: and my princes shall no more oppress my people; and the rest of the land shall they give to the house of Israel according to their tribes."
+bsb: "This land will be his possession in Israel. And My princes will no longer oppress My people, but will give the rest of the land to the house of Israel according to their tribes."
+hebrew: "לָאָ֛רֶץ יִֽהְיֶה־ לּ֥וֹ לַֽאֲחֻזָּ֖ה בְּיִשְׂרָאֵ֑ל וְלֹא־ יוֹנ֨וּ ע֤וֹד נְשִׂיאַי֙ אֶת־ עַמִּ֔י וְהָאָ֛רֶץ יִתְּנ֥וּ לְבֵֽית־ יִשְׂרָאֵ֖ל לְשִׁבְטֵיהֶֽם׃ ס"
+pericope: "[[Ezek.45.7 The Prince’s Portion|The Prince’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 45
+book/chapter: "[[Ezek.45|Ezekiel 45]]"
+chronological_order: 836
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9005]]"
+- "[[H0776G]]"
+- "[[H1961]]"
+- "[[H9014]]"
+- "[[H9033]]"
+- "[[H0272]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3238]]"
+- "[[H5750]]"
+- "[[H5387A]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H5414G]]"
+- "[[H1004M]]"
+- "[[H7626H]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Ezekiel 45:8**<big><big>[[Ezek.45.7 The Prince’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the land shall be his possession in Israel: and my princes shall no more oppress my people; and [the rest of] the land shall they give to the house of Israel according to their tribes.
 <small><sub>**BSB:**</sub></small>
 This land will be his possession in Israel. And My princes will no longer oppress My people, but will give the rest of the land to the house of Israel according to their tribes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ]][[H0776G\|אָ֛רֶץ]] [[H1961\|יִֽהְיֶה]][[H9014\|־]] [[H9005\|לּ֥]][[H9033\|וֹ]] [[H9005\|לַֽ]][[H0272\|אֲחֻזָּ֖ה]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3238\|יוֹנ֨וּ]] [[H5750\|ע֤וֹד]] [[H5387A\|נְשִׂיאַ]][[H9020\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H5414G\|יִתְּנ֥וּ]] [[H9005\|לְ]][[H1004M\|בֵֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לְ]][[H7626H\|שִׁבְטֵי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.45.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.7|<< Ezekiel 45:7]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.9|Ezekiel 45:9 >>]]</td></tr></table>
 
@@ -23,7 +77,7 @@ This land will be his possession in Israel. And My princes will no longer oppres
 | they will give  |**<big>&#8207;[[H5414G\|יִתְּנ֥וּ]]&#8207; </big>**| yi.te.Nu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to [the] house of  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H1004M\|בֵֽית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> veit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Israel  |**<big>&#8207;[[H3478\|יִשְׂרָאֵ֖ל]]&#8207; </big>**| Yis.ra.'El<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to tribes their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7626H\|שִׁבְטֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> shiv.tei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to tribes their  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H7626H\|שִׁבְטֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> shiv.tei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.45.7|<< Ezekiel 45:7]]</td><td align="center" style="border:none;">[[Ezek.45|Ezekiel 45]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.45.9|Ezekiel 45:9 >>]]</td></tr></table>
 
 

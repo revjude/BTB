@@ -1,8 +1,75 @@
+---
+title: Leviticus 6:2
+type: Verse
+kjv: "If a soul sin, and commit a trespass against the LORD, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;"
+bsb: "“If someone sins and acts unfaithfully against the LORD by deceiving his neighbor in regard to a deposit or security entrusted to him or stolen, or if he extorts his neighbor"
+hebrew: "נֶ֚פֶשׁ כִּ֣י תֶחֱטָ֔א וּמָעֲלָ֥ה מַ֖עַל בַּיהוָ֑ה וְכִחֵ֨שׁ בַּעֲמִית֜וֹ בְּפִקָּד֗וֹן אֽוֹ־ בִתְשׂ֤וּמֶת יָד֙ א֣וֹ בְגָזֵ֔ל א֖וֹ עָשַׁ֥ק אֶת־ עֲמִיתֽוֹ׃"
+pericope: "[[Lev.6.1 Sins Requiring a Guilt Offering|Sins Requiring a Guilt Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 6
+book/chapter: "[[Lev.6|Leviticus 6]]"
+chronological_order: 138
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OATH|OATH]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic RESTITUTION|RESTITUTION]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+strongs:
+- "[[H5315J]]"
+- "[[H3588A]]"
+- "[[H2398]]"
+- "[[H9001]]"
+- "[[H4603]]"
+- "[[H4604]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H3584]]"
+- "[[H5997]]"
+- "[[H9023]]"
+- "[[H6487]]"
+- "[[H0176A]]"
+- "[[H9014]]"
+- "[[H8667]]"
+- "[[H3027G]]"
+- "[[H1498]]"
+- "[[H6231]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 6:2**<big><big>[[Lev.6.1 Sins Requiring a Guilt Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a soul sin, and commit a trespass against the LORD, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;
 <small><sub>**BSB:**</sub></small>
 “If someone sins and acts unfaithfully against the LORD by deceiving his neighbor in regard to a deposit or security entrusted to him or stolen, or if he extorts his neighbor
+<small><sub>**Hebrew:**</sub></small>
+[[H5315J\|נֶ֚פֶשׁ]] [[H3588A\|כִּ֣י]] [[H2398\|תֶחֱטָ֔א]] [[H9001\|וּ]][[H4603\|מָעֲלָ֥ה]] [[H4604\|מַ֖עַל]] [[H9003\|בַּ]][[H3068G\|יהוָ֑ה]] [[H9001\|וְ]][[H3584\|כִחֵ֨שׁ]] [[H9003\|בַּ]][[H5997\|עֲמִית֜]][[H9023\|וֹ]] [[H9003\|בְּ]][[H6487\|פִקָּד֗וֹן]] [[H0176A\|אֽוֹ]][[H9014\|־]] [[H9003\|בִ]][[H8667\|תְשׂ֤וּמֶת]] [[H3027G\|יָד֙]] [[H0176A\|א֣וֹ]] [[H9003\|בְ]][[H1498\|גָזֵ֔ל]] [[H0176A\|א֖וֹ]] [[H6231\|עָשַׁ֥ק]] [[H0853\|אֶת]][[H9014\|־]] [[H5997\|עֲמִיתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTRACTS|CONTRACTS]] • [[topic DAMAGES AND COMPENSATION|DAMAGES AND COMPENSATION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OATH|OATH]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PERJURY|PERJURY]] • [[topic RESTITUTION|RESTITUTION]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]] • [[topic TRUSTEE|TRUSTEE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.6.1|<< Leviticus 6:1]]</td><td align="center" style="border:none;">[[Lev.6|Leviticus 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.6.3|Leviticus 6:3 >>]]</td></tr></table>
 

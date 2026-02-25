@@ -1,8 +1,59 @@
+---
+title: Song of Solomon 8:11
+type: Verse
+kjv: "Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand pieces of silver."
+bsb: "Solomon had a vineyard in Baal-hamon. He leased it to the tenants. For its fruit, each was to bring a thousand shekels of silver."
+hebrew: "כֶּ֣רֶם הָיָ֤ה לִשְׁלֹמֹה֙ בְּבַ֣עַל הָמ֔וֹן נָתַ֥ן אֶת־ הַכֶּ֖רֶם לַנֹּטְרִ֑ים אִ֛ישׁ יָבִ֥א בְּפִרְי֖וֹ אֶ֥לֶף כָּֽסֶף׃"
+pericope: "[[Song.8.10 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 8
+book/chapter: "[[Song.8|Song of Solomon 8]]"
+chronological_order: 455
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+topics:
+- "[[topic BAAL-HAMON|BAAL-HAMON]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic VINEYARD|VINEYARD]]"
+strongs:
+- "[[H3754]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H9003]]"
+- "[[H1174]]"
+- "[[H5414G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5201]]"
+- "[[H0376I]]"
+- "[[H0935P]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H0505G]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 8:11**<big><big>[[Song.8.10 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand [pieces] of silver.
 <small><sub>**BSB:**</sub></small>
 Solomon had a vineyard in Baal-hamon. He leased it to the tenants. For its fruit, each was to bring a thousand shekels of silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H3754\|כֶּ֣רֶם]] [[H1961\|הָיָ֤ה]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹה֙]] [[H9003\|בְּ]][[H1174\|בַ֣עַל]] [[H1174\|הָמ֔וֹן]] [[H5414G\|נָתַ֥ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3754\|כֶּ֖רֶם]] [[H9005\|לַ]][[H5201\|נֹּטְרִ֑ים]] [[H0376I\|אִ֛ישׁ]] [[H0935P\|יָבִ֥א]] [[H9003\|בְּ]][[H6529\|פִרְי֖]][[H9023\|וֹ]] [[H0505G\|אֶ֥לֶף]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL-HAMON|BAAL-HAMON]] • [[topic GRAPE|GRAPE]] • [[topic VINEYARD|VINEYARD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.8.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.8.10|<< Song of Solomon 8:10]]</td><td align="center" style="border:none;">[[Song.8|Song of Solomon 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.8.12|Song of Solomon 8:12 >>]]</td></tr></table>
 

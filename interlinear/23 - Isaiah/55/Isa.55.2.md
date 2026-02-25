@@ -1,8 +1,72 @@
+---
+title: Isaiah 55:2
+type: Verse
+kjv: "Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness."
+bsb: "Why spend money on that which is not bread, and your labor on that which does not satisfy? Listen carefully to Me, and eat what is good, and your soul will delight in the richest of foods."
+hebrew: "לָ֤מָּה תִשְׁקְלוּ־ כֶ֙סֶף֙ בְּֽלוֹא־ לֶ֔חֶם וִיגִיעֲכֶ֖ם בְּל֣וֹא לְשָׂבְעָ֑ה שִׁמְע֨וּ שָׁמ֤וֹעַ אֵלַי֙ וְאִכְלוּ־ ט֔וֹב וְתִתְעַנַּ֥ג בַּדֶּ֖שֶׁן נַפְשְׁכֶֽם׃"
+pericope: "[[Isa.55.1 Invitation to the Needy|Invitation to the Needy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 55
+book/chapter: "[[Isa.55|Isaiah 55]]"
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BREAD|BREAD]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H8254]]"
+- "[[H9014]]"
+- "[[H3701G]]"
+- "[[H9003]]"
+- "[[H3808]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H3018]]"
+- "[[H9026]]"
+- "[[H7654]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0398]]"
+- "[[H2896B]]"
+- "[[H6026]]"
+- "[[H1880]]"
+- "[[H5315L]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 55:2**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore do ye spend money for [that which is] not bread? and your labour for [that which] satisfieth not? hearken diligently unto me, and eat ye [that which is] good, and let your soul delight itself in fatness.
 <small><sub>**BSB:**</sub></small>
 Why spend money on that which is not bread, and your labor on that which does not satisfy? Listen carefully to Me, and eat what is good, and your soul will delight in the richest of foods.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לָ֤]][[H4100\|מָּה]] [[H8254\|תִשְׁקְלוּ]][[H9014\|־]] [[H3701G\|כֶ֙סֶף֙]] [[H9003\|בְּֽ]][[H3808\|לוֹא]][[H9014\|־]] [[H3899H\|לֶ֔חֶם]] [[H9002\|וִ]][[H3018\|יגִיעֲ]][[H9026\|כֶ֖ם]] [[H9003\|בְּ]][[H3808\|ל֣וֹא]] [[H9005\|לְ]][[H7654\|שָׂבְעָ֑ה]] [[H8085G\|שִׁמְע֨וּ]] [[H8085G\|שָׁמ֤וֹעַ]] [[H0413\|אֵלַ]][[H9030\|י֙]] [[H9002\|וְ]][[H0398\|אִכְלוּ]][[H9014\|־]] [[H2896B\|ט֔וֹב]] [[H9002\|וְ]][[H6026\|תִתְעַנַּ֥ג]] [[H9003\|בַּ]][[H1880\|דֶּ֖שֶׁן]] [[H5315L\|נַפְשְׁ]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BREAD|BREAD]] • [[topic CHURCH|CHURCH]] • [[topic DESIRE|DESIRE]] • [[topic DILIGENCE|DILIGENCE]] • [[topic GOSPEL|GOSPEL]] • [[topic HUNGER|HUNGER]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MONEY|MONEY]] • [[topic PEACE|PEACE]] • [[topic REGENERATION|REGENERATION]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.1|<< Isaiah 55:1]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.3|Isaiah 55:3 >>]]</td></tr></table>
 

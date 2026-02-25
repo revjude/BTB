@@ -1,8 +1,52 @@
+---
+title: Job 38:39
+type: Verse
+kjv: "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,"
+bsb: "Can you hunt the prey for a lioness or satisfy the hunger of young lions"
+hebrew: "הֲתָצ֣וּד לְלָבִ֣יא טָ֑רֶף וְחַיַּ֖ת כְּפִירִ֣ים תְּמַלֵּֽא׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9008]]"
+- "[[H6679A]]"
+- "[[H9005]]"
+- "[[H3833C]]"
+- "[[H2964]]"
+- "[[H9002]]"
+- "[[H2416C]]"
+- "[[H3715A]]"
+- "[[H4390]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 38:39**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,
 <small><sub>**BSB:**</sub></small>
 Can you hunt the prey for a lioness or satisfy the hunger of young lions
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H6679A\|תָצ֣וּד]] [[H9005\|לְ]][[H3833C\|לָבִ֣יא]] [[H2964\|טָ֑רֶף]] [[H9002\|וְ]][[H2416C\|חַיַּ֖ת]] [[H3715A\|כְּפִירִ֣ים]] [[H4390\|תְּמַלֵּֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.38|<< Job 38:38]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.40|Job 38:40 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 14:15
+type: Verse
+kjv: "And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, that then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines."
+bsb: "As soon as you hear the sound of marching in the tops of the balsam trees, move out to battle, because this will mean that God has gone out before you to strike the camp of the Philistines.”"
+hebrew: "וִ֠יהִי כְּֽשָׁמְעֲךָ֞ אֶת־ ק֤וֹל הַצְּעָדָה֙ בְּרָאשֵׁ֣י הַבְּכָאִ֔ים אָ֖ז תֵּצֵ֣א בַמִּלְחָמָ֑ה כִּֽי־ יָצָ֤א הָֽאֱלֹהִים֙ לְפָנֶ֔יךָ לְהַכּ֖וֹת אֶת־ מַחֲנֵ֥ה פְלִשְׁתִּֽים׃"
+pericope: "[[1Chr.14.8 Two Victories over the Philistines|Two Victories over the Philistines]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 14
+book/chapter: "[[1Chr.14|1 Chronicles 14]]"
+chronological_order: 395
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H8085G]]"
+- "[[H9041]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6963H]]"
+- "[[H9009]]"
+- "[[H6807A]]"
+- "[[H9003]]"
+- "[[H7218I]]"
+- "[[H1057]]"
+- "[[H0227A]]"
+- "[[H3318G]]"
+- "[[H4421]]"
+- "[[H3588A]]"
+- "[[H0430G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H5221]]"
+- "[[H4264]]"
+- "[[H6430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 14:15**<big><big>[[1Chr.14.8 Two Victories over the Philistines|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, [that] then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines.
 <small><sub>**BSB:**</sub></small>
 As soon as you hear the sound of marching in the tops of the balsam trees, move out to battle, because this will mean that God has gone out before you to strike the camp of the Philistines.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וִ֠]][[H1961\|יהִי]] [[H9004\|כְּֽ]][[H8085G\|שָׁמְעֲ]][[H9041\|ךָ֞]] [[H0853\|אֶת]][[H9014\|־]] [[H6963H\|ק֤וֹל]] [[H9009\|הַ]][[H6807A\|צְּעָדָה֙]] [[H9003\|בְּ]][[H7218I\|רָאשֵׁ֣י]] [[H9009\|הַ]][[H1057\|בְּכָאִ֔ים]] [[H0227A\|אָ֖ז]] [[H3318G\|תֵּצֵ֣א]] [[H9003\|בַ]][[H4421\|מִּלְחָמָ֑ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3318G\|יָצָ֤א]] [[H9009\|הָֽ]][[H0430G\|אֱלֹהִים֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H9005\|לְ]][[H5221\|הַכּ֖וֹת]] [[H0853\|אֶת]][[H9014\|־]] [[H4264\|מַחֲנֵ֥ה]] [[H6430G\|פְלִשְׁתִּֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.14.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.14.14|<< 1 Chronicles 14:14]]</td><td align="center" style="border:none;">[[1Chr.14|1 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.14.16|1 Chronicles 14:16 >>]]</td></tr></table>
 

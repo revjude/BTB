@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 29:11
+type: Verse
+kjv: "Your little ones, your wives, and thy stranger that is in thy camp, from the hewer of thy wood unto the drawer of thy water:"
+bsb: "your children and wives, and the foreigners in your camps who cut your wood and draw your water—"
+hebrew: "טַפְּכֶ֣ם נְשֵׁיכֶ֔ם וְגֵ֣רְךָ֔ אֲשֶׁ֖ר בְּקֶ֣רֶב מַחֲנֶ֑יךָ מֵחֹטֵ֣ב עֵצֶ֔יךָ עַ֖ד שֹׁאֵ֥ב מֵימֶֽיךָ׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H2945]]"
+- "[[H9026]]"
+- "[[H0802H]]"
+- "[[H9002]]"
+- "[[H1616]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H4264]]"
+- "[[H9006]]"
+- "[[H2404]]"
+- "[[H6086G]]"
+- "[[H5704]]"
+- "[[H7579]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:11**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Your little ones, your wives, and thy stranger that [is] in thy camp, from the hewer of thy wood unto the drawer of thy water:
 <small><sub>**BSB:**</sub></small>
 your children and wives, and the foreigners in your camps who cut your wood and draw your water—
+<small><sub>**Hebrew:**</sub></small>
+[[H2945\|טַפְּ]][[H9026\|כֶ֣ם]] [[H0802H\|נְשֵׁי]][[H9026\|כֶ֔ם]] [[H9002\|וְ]][[H1616\|גֵ֣רְ]][[H9021\|ךָ֔]] [[H0834A\|אֲשֶׁ֖ר]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H4264\|מַחֲנֶ֑י]][[H9021\|ךָ]] [[H9006\|מֵ]][[H2404\|חֹטֵ֣ב]] [[H6086G\|עֵצֶ֔י]][[H9021\|ךָ]] [[H5704\|עַ֖ד]] [[H7579\|שֹׁאֵ֥ב]] [[H4325G\|מֵימֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.10|<< Deuteronomy 29:10]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.12|Deuteronomy 29:12 >>]]</td></tr></table>
 

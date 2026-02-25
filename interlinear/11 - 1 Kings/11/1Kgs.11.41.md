@@ -1,8 +1,60 @@
+---
+title: 1 Kings 11:41
+type: Verse
+kjv: "And the rest of the acts of Solomon, and all that he did, and his wisdom, are they not written in the book of the acts of Solomon?"
+bsb: "As for the rest of the acts of Solomon—all that he did, as well as his wisdom—are they not written in the Book of the Acts of Solomon?"
+hebrew: "וְיֶ֨תֶר דִּבְרֵ֧י שְׁלֹמֹ֛ה וְכָל־ אֲשֶׁ֥ר עָשָׂ֖ה וְחָכְמָת֑וֹ הֲלֽוֹא־ הֵ֣ם כְּתֻבִ֔ים עַל־ סֵ֖פֶר דִּבְרֵ֥י שְׁלֹמֹֽה׃"
+pericope: "[[1Kgs.11.41 The Death of Solomon|The Death of Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 11
+book/chapter: "[[1Kgs.11|1 Kings 11]]"
+chronological_order: 536
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic KING|KING]]"
+strongs:
+- "[[H9002]]"
+- "[[H3499A]]"
+- "[[H1697K]]"
+- "[[H8010]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H2451]]"
+- "[[H9023]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1992]]"
+- "[[H3789]]"
+- "[[H5921A]]"
+- "[[H5612H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 11:41**<big><big>[[1Kgs.11.41 The Death of Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the rest of the acts of Solomon, and all that he did, and his wisdom, [are] they not written in the book of the acts of Solomon?
 <small><sub>**BSB:**</sub></small>
 As for the rest of the acts of Solomon—all that he did, as well as his wisdom—are they not written in the Book of the Acts of Solomon?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3499A\|יֶ֨תֶר]] [[H1697K\|דִּבְרֵ֧י]] [[H8010\|שְׁלֹמֹ֛ה]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֖ה]] [[H9002\|וְ]][[H2451\|חָכְמָת֑]][[H9023\|וֹ]] [[H9008\|הֲ]][[H3808\|לֽוֹא]][[H9014\|־]] [[H1992\|הֵ֣ם]] [[H3789\|כְּתֻבִ֔ים]] [[H5921A\|עַל]][[H9014\|־]] [[H5612H\|סֵ֖פֶר]] [[H1697K\|דִּבְרֵ֥י]] [[H8010\|שְׁלֹמֹֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic KING|KING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.11.41|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.11.40|<< 1 Kings 11:40]]</td><td align="center" style="border:none;">[[1Kgs.11|1 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.11.42|1 Kings 11:42 >>]]</td></tr></table>
 

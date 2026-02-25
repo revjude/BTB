@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 6:5
+type: Verse
+kjv: "And David and all the house of Israel played before the LORD on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals."
+bsb: "David and all the house of Israel were celebrating before the LORD with all kinds of wood instruments, harps, stringed instruments, tambourines, sistrums, and cymbals."
+hebrew: "וְדָוִ֣ד׀ וְכָל־ בֵּ֣ית יִשְׂרָאֵ֗ל מְשַֽׂחֲקִים֙ לִפְנֵ֣י יְהוָ֔ה בְּכֹ֖ל עֲצֵ֣י בְרוֹשִׁ֑ים וּבְכִנֹּר֤וֹת וּבִנְבָלִים֙ וּבְתֻפִּ֔ים וּבִמְנַֽעַנְעִ֖ים וּֽבְצֶלְצֶלִֽים׃"
+pericope: "[[2Sam.6.5 Uzzah Touches the Ark|Uzzah Touches the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 6
+book/chapter: "[[2Sam.6|2 Samuel 6]]"
+chronological_order: 392
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic CYMBAL|CYMBAL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic FIR TREE|FIR TREE]]"
+- "[[topic KIRJATH-JEARIM|KIRJATH-JEARIM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PSALTERY|PSALTERY]]"
+- "[[topic TIMBREL|TIMBREL]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9002]]"
+- "[[H1732]]"
+- "[[H9015]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H7832]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H6086G]]"
+- "[[H1265]]"
+- "[[H3658]]"
+- "[[H5035B]]"
+- "[[H8596]]"
+- "[[H4517]]"
+- "[[H6767D]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 6:5**<big><big>[[2Sam.6.5 Uzzah Touches the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David and all the house of Israel played before the LORD on all manner of [instruments made of] fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals.
 <small><sub>**BSB:**</sub></small>
 David and all the house of Israel were celebrating before the LORD with all kinds of wood instruments, harps, stringed instruments, tambourines, sistrums, and cymbals.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1732\|דָוִ֣ד]][[H9015\|׀]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H7832\|מְשַֽׂחֲקִים֙]] [[H9005\|לִ]][[H6440G\|פְנֵ֣י]] [[H3068G\|יְהוָ֔ה]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H6086G\|עֲצֵ֣י]] [[H1265\|בְרוֹשִׁ֑ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3658\|כִנֹּר֤וֹת]] [[H9002\|וּ]][[H9003\|בִ]][[H5035B\|נְבָלִים֙]] [[H9002\|וּ]][[H9003\|בְ]][[H8596\|תֻפִּ֔ים]] [[H9002\|וּ]][[H9003\|בִ]][[H4517\|מְנַֽעַנְעִ֖ים]] [[H9002\|וּֽ]][[H9003\|בְ]][[H6767D\|צֶלְצֶלִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic CYMBAL|CYMBAL]] • [[topic DAVID|DAVID]] • [[topic FIR TREE|FIR TREE]] • [[topic KIRJATH-JEARIM|KIRJATH-JEARIM]] • [[topic MIRACLES|MIRACLES]] • [[topic PSALTERY|PSALTERY]] • [[topic TIMBREL|TIMBREL]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.6.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.6.4|<< 2 Samuel 6:4]]</td><td align="center" style="border:none;">[[2Sam.6|2 Samuel 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.6.6|2 Samuel 6:6 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Matthew 19:16
+type: Verse
+kjv: "And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?"
+bsb: "Just then a man came up to Jesus and inquired, “Teacher, what good thing must I do to obtain eternal life?”"
+greek: "Καὶ ἰδοὺ εἷς προσελθὼν αὐτῷ εἶπεν· διδάσκαλε ἀγαθέ, τί ἀγαθὸν ποιήσω ἵνα σχῶ ζωὴν αἰώνιον;"
+pericope: "[[Matt.19.16 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G2400]]"
+- "[[G1520]]"
+- "[[G4334]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G1320]]"
+- "[[G0018]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G2443]]"
+- "[[G2192]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Matthew 19:16**<big><big>[[Matt.19.16 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
 <small><sub>**BSB:**</sub></small>
 Just then a man came up to Jesus and inquired, “Teacher, what good thing must I do to obtain eternal life?”
-<small><sub>**Literal:**</sub></small>
-And behold one having come to Him said: Teacher good what good [thing] shall I do that I may have life eternal?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.15|<< Matthew 19:15]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.17|Matthew 19:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2400\|ἰδοὺ]]  [[G1520\|εἷς]]  [[G4334\|προσελθὼν]]  [[G0846\|αὐτῷ]]  [[G2036\|εἶπεν·]]  [[G1320\|διδάσκαλε]]  [[G0018\|ἀγαθέ,]]  [[G5101\|τί]]  [[G0018\|ἀγαθὸν]]  [[G4160G\|ποιήσω]]  [[G2443\|ἵνα]]  [[G2192\|σχῶ]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LIFE|LIFE]] • [[topic RICHES|RICHES]] • [[topic SALVATION|SALVATION]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic WORKS|WORKS]] • [[topic YOUNG MEN|YOUNG MEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.15|<< Matthew 19:15]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.17|Matthew 19:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

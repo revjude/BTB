@@ -1,8 +1,68 @@
+---
+title: Leviticus 11:29
+type: Verse
+kjv: "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,"
+bsb: "The following creatures that move along the ground are unclean for you: the mole, the mouse, any kind of great lizard,"
+hebrew: "וְזֶ֤ה לָכֶם֙ הַטָּמֵ֔א בַּשֶּׁ֖רֶץ הַשֹּׁרֵ֣ץ עַל־ הָאָ֑רֶץ הַחֹ֥לֶד וְהָעַכְבָּ֖ר וְהַצָּ֥ב לְמִינֵֽהוּ׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic MOUSE|MOUSE]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic TORTOISE|TORTOISE]]"
+- "[[topic WEASEL|WEASEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H2088]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H2931]]"
+- "[[H9003]]"
+- "[[H8318]]"
+- "[[H8317]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0776H]]"
+- "[[H2467]]"
+- "[[H5909]]"
+- "[[H6632B]]"
+- "[[H4327]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:29**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These also [shall be] unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,
 <small><sub>**BSB:**</sub></small>
 The following creatures that move along the ground are unclean for you: the mole, the mouse, any kind of great lizard,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H2088\|זֶ֤ה]] [[H9005\|לָ]][[H9036\|כֶם֙]] [[H9009\|הַ]][[H2931\|טָּמֵ֔א]] [[H9003\|בַּ]][[H8318\|שֶּׁ֖רֶץ]] [[H9009\|הַ]][[H8317\|שֹּׁרֵ֣ץ]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הָ]][[H0776H\|אָ֑רֶץ]] [[H9009\|הַ]][[H2467\|חֹ֥לֶד]] [[H9002\|וְ]][[H9009\|הָ]][[H5909\|עַכְבָּ֖ר]] [[H9002\|וְ]][[H9009\|הַ]][[H6632B\|צָּ֥ב]] [[H9005\|לְ]][[H4327\|מִינֵֽ]][[H9023\|הוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREEPING THINGS|CREEPING THINGS]] • [[topic FOOD|FOOD]] • [[topic MOUSE|MOUSE]] • [[topic SANITATION|SANITATION]] • [[topic TORTOISE|TORTOISE]] • [[topic WEASEL|WEASEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.28|<< Leviticus 11:28]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.30|Leviticus 11:30 >>]]</td></tr></table>
 

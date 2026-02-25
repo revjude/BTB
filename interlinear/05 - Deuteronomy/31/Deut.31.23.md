@@ -1,8 +1,82 @@
+---
+title: Deuteronomy 31:23
+type: Verse
+kjv: "And he gave Joshua the son of Nun a charge, and said, Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee."
+bsb: "Then the LORD commissioned Joshua son of Nun and said, “Be strong and courageous, for you will bring the Israelites into the land that I swore to give them, and I will be with you.”"
+hebrew: "וַיְצַ֞ו אֶת־ יְהוֹשֻׁ֣עַ בִּן־ נ֗וּן וַיֹּאמֶר֮ חֲזַ֣ק וֶֽאֱמָץ֒ כִּ֣י אַתָּ֗ה תָּבִיא֙ אֶת־ בְּנֵ֣י יִשְׂרָאֵ֔ל אֶל־ הָאָ֖רֶץ אֲשֶׁר־ נִשְׁבַּ֣עְתִּי לָהֶ֑ם וְאָנֹכִ֖י אֶֽהְיֶ֥ה עִמָּֽךְ׃"
+pericope: "[[Deut.31.14 God Commissions Joshua|God Commissions Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 31
+book/chapter: "[[Deut.31|Deuteronomy 31]]"
+chronological_order: 227
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic CALL|CALL]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H1121A]]"
+- "[[H5126]]"
+- "[[H0559]]"
+- "[[H2388G]]"
+- "[[H9002]]"
+- "[[H0553]]"
+- "[[H3588A]]"
+- "[[H0859A]]"
+- "[[H0935P]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0595]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 31:23**<big><big>[[Deut.31.14 God Commissions Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he gave Joshua the son of Nun a charge, and said, Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee.
 <small><sub>**BSB:**</sub></small>
 Then the LORD commissioned Joshua son of Nun and said, “Be strong and courageous, for you will bring the Israelites into the land that I swore to give them, and I will be with you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֞ו]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֣עַ]] [[H1121A\|בִּן]][[H9014\|־]] [[H5126\|נ֗וּן]] [[H9001\|וַ]][[H0559\|יֹּאמֶר֮]] [[H2388G\|חֲזַ֣ק]] [[H9002\|וֶֽ]][[H0553\|אֱמָץ֒]] [[H3588A\|כִּ֣י]] [[H0859A\|אַתָּ֗ה]] [[H0935P\|תָּבִיא֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7650\|נִשְׁבַּ֣עְתִּי]] [[H9005\|לָ]][[H9038\|הֶ֑ם]] [[H9002\|וְ]][[H0595\|אָנֹכִ֖י]] [[H1961\|אֶֽהְיֶ֥ה]] [[H5973A\|עִמָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic CALL|CALL]] • [[topic COURAGE|COURAGE]] • [[topic DEATH|DEATH]] • [[topic FAITH|FAITH]] • [[topic ISRAEL|ISRAEL]] • [[topic JOSHUA|JOSHUA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOSES|MOSES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.31.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.31.22|<< Deuteronomy 31:22]]</td><td align="center" style="border:none;">[[Deut.31|Deuteronomy 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.31.24|Deuteronomy 31:24 >>]]</td></tr></table>
 

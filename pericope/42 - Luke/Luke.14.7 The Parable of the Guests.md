@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Parable of the Guests
+type: Pericope
 pericope: "[[Luke.14.7 The Parable of the Guests|The Parable of the Guests]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Luke
 chapter: 14
 book/chapter: "[[Luke.14|Luke 14]]"
-genre:
+chronological_order: 976
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 8
 verses:
 - "[[Luke.14.7]]"
 - "[[Luke.14.8]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Luke.14.14]]"
 ---
 
-[[Luke.14|Luke 14:7 - Luke 14:14]]
+<small>[[Luke.14|Luke 14:7-14]]</small>
 *The Parable of the Guests*
 
 [[Luke.14.7|7]] And he put forth a parable to those which were bidden, when he marked how they chose out the chief rooms; saying unto them,

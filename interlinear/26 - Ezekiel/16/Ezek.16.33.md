@@ -1,8 +1,67 @@
+---
+title: Ezekiel 16:33
+type: Verse
+kjv: "They give gifts to all whores: but thou givest thy gifts to all thy lovers, and hirest them, that they may come unto thee on every side for thy whoredom."
+bsb: "Men give gifts to all their prostitutes, but you gave gifts to all your lovers. You bribed them to come to you from everywhere for your illicit favors."
+hebrew: "לְכָל־ זֹנ֖וֹת יִתְּנוּ־ נֵ֑דֶה וְאַ֨תְּ נָתַ֤תְּ אֶת־ נְדָנַ֙יִךְ֙ לְכָל־ מְאַֽהֲבַ֔יִךְ וַתִּשְׁחֳדִ֣י אוֹתָ֗ם לָב֥וֹא אֵלַ֛יִךְ מִסָּבִ֖יב בְּתַזְנוּתָֽיִךְ׃"
+pericope: "[[Ezek.16.1 Jerusalem’s Unfaithfulness|Jerusalem’s Unfaithfulness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2181]]"
+- "[[H5414G]]"
+- "[[H5078]]"
+- "[[H9002]]"
+- "[[H0859C]]"
+- "[[H0853]]"
+- "[[H5083]]"
+- "[[H9022]]"
+- "[[H0157G]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H7809]]"
+- "[[H9038]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9006]]"
+- "[[H5439H]]"
+- "[[H9003]]"
+- "[[H8457]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:33**<big><big>[[Ezek.16.1 Jerusalem’s Unfaithfulness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They give gifts to all whores: but thou givest thy gifts to all thy lovers, and hirest them, that they may come unto thee on every side for thy whoredom.
 <small><sub>**BSB:**</sub></small>
 Men give gifts to all their prostitutes, but you gave gifts to all your lovers. You bribed them to come to you from everywhere for your illicit favors.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H2181\|זֹנ֖וֹת]] [[H5414G\|יִתְּנוּ]][[H9014\|־]] [[H5078\|נֵ֑דֶה]] [[H9002\|וְ]][[H0859C\|אַ֨תְּ]] [[H5414G\|נָתַ֤תְּ]] [[H0853\|אֶת]][[H9014\|־]] [[H5083\|נְדָנַ֙יִ]][[H9022\|ךְ֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H0157G\|מְאַֽהֲבַ֔יִ]][[H9032\|ךְ]] [[H9001\|וַ]][[H7809\|תִּשְׁחֳדִ֣י]] [[H0853\|אוֹתָ֗]][[H9038\|ם]] [[H9005\|לָ]][[H0935G\|ב֥וֹא]] [[H0413\|אֵלַ֛יִ]][[H9032\|ךְ]] [[H9006\|מִ]][[H5439H\|סָּבִ֖יב]] [[H9003\|בְּ]][[H8457\|תַזְנוּתָֽיִ]][[H9022\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HIGH PLACES|HIGH PLACES]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.32|<< Ezekiel 16:32]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.34|Ezekiel 16:34 >>]]</td></tr></table>
 

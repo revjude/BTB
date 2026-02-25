@@ -1,6 +1,47 @@
+---
+title: LXX Isaiah 23:10
+type: Verse
+lxx: "Work  your land! for even boats no longer come from out of Carthage."
+greek: "εργάζου την γην σου και γαρ πλοία ουκέτι έρχεται εκ Καρχηδόνος"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 23
+book/chapter: "[[Isa.23|Isaiah 23]]"
+chronological_order: 640
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic TARSHISH|TARSHISH]]"
+strongs:
+- "[[G2038]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1063]]"
+- "[[G4143]]"
+- "[[G3765]]"
+- "[[G2064]]"
+- "[[G1537]]"
+- "[[H8659]]"
+---
+
 **LXX Isaiah 23:10** 
 <small><sub>**LXX:**</sub></small>
 Work  your land! for even boats no longer come from out of Carthage. 
+<small><sub>**Greek:**</sub></small>
+[[G2038\|εργάζου]] [[G3588\|την]] [[G1093\|γην]] [[G1473\|σου]] [[G2532\|και]] [[G1063\|γαρ]] [[G4143\|πλοία]] [[G3765\|ουκέτι]] [[G2064\|έρχεται]] [[G1537\|εκ]] [[H8659\|Καρχηδόνος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TARSHISH|TARSHISH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.9|<< Isaiah 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.11|Isaiah 23:11 >>]]</td></tr></table>
 
@@ -15,6 +56,6 @@ Work  your land! for even boats no longer come from out of Carthage.
 | come | **<big>[[G2064\|έρχεται]]</big>** |
 | from out of | **<big>[[G1537\|εκ]]</big>** |
 | Carthage. | **<big>[[H8659\|Καρχηδόνος]]</big>** |
-[[Isa.23.10|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.9|<< Isaiah 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.11|Isaiah 23:11 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.23.9|<< Isaiah 23:9]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.23.11|Isaiah 23:11 >>]]</td></tr></table>
 
 

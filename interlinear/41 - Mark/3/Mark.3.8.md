@@ -1,10 +1,64 @@
+---
+title: Mark 3:8
+type: Verse
+kjv: "And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him."
+bsb: "Jerusalem, Idumea, the region beyond the Jordan, and the vicinity of Tyre and Sidon. The large crowd came to Him when they heard what great things He was doing."
+greek: "καὶ ἀπὸ Ἱεροσολύμων καὶ ἀπὸ τῆς Ἰδουμαίας καὶ πέραν τοῦ Ἰορδάνου καὶ οἱ περὶ Τύρον καὶ Σιδῶνα, πλῆθος πολὺ ἀκούοντες ὅσα ἐποίει ἦλθον πρὸς αὐτόν.¶"
+pericope: "[[Mark.3.7 Jesus Heals the Multitudes|Jesus Heals the Multitudes]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 3
+book/chapter: "[[Mark.3|Mark 3]]"
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHENICIA|PHENICIA]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0575]]"
+- "[[G2414]]"
+- "[[G3588]]"
+- "[[G2401]]"
+- "[[G4008]]"
+- "[[G2446]]"
+- "[[G4012]]"
+- "[[G5184]]"
+- "[[G4605]]"
+- "[[G4128]]"
+- "[[G4183]]"
+- "[[G0191]]"
+- "[[G3745]]"
+- "[[G4160G]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+- N(k)O
+- NK(o)
+---
+
 **Mark 3:8**<big><big>[[Mark.3.7 Jesus Heals the Multitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And from Jerusalem, and from Idumaea, and [from] beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.
 <small><sub>**BSB:**</sub></small>
 Jerusalem, Idumea, the region beyond the Jordan, and the vicinity of Tyre and Sidon. The large crowd came to Him when they heard what great things He was doing.
-<small><sub>**Literal:**</sub></small>
-and from Jerusalem and from <the> Idumea and beyond the Jordan and <the> around Tyre and Sidon, A multitude great having heard as much as He was doing came to Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.7|<< Mark 3:7]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.9|Mark 3:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G2414\|Ἱεροσολύμων]]  [[G2532\|καὶ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2401\|Ἰδουμαίας]]  [[G2532\|καὶ]]  [[G4008\|πέραν]]  [[G3588\|τοῦ]]  [[G2446\|Ἰορδάνου]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4012\|περὶ]]  [[G5184\|Τύρον]]  [[G2532\|καὶ]]  [[G4605\|Σιδῶνα,]]  [[G4128\|πλῆθος]]  [[G4183\|πολὺ]]  [[G0191\|ἀκούοντες]]  [[G3745\|ὅσα]]  [[G4160G\|ἐποίει]]  [[G2064\|ἦλθον]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHENICIA|PHENICIA]] • [[topic SIDON|SIDON]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.3.7|<< Mark 3:7]]</td><td align="center" style="border:none;">[[Mark.3|Mark 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.3.9|Mark 3:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

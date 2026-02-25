@@ -1,8 +1,62 @@
+---
+title: Micah 2:11
+type: Verse
+kjv: "If a man walking in the spirit and falsehood do lie, saying, I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people."
+bsb: "If a man of wind were to come and say falsely, “I will preach to you of wine and strong drink,” he would be just the preacher for this people!"
+hebrew: "לוּ־ אִ֞ישׁ הֹלֵ֥ךְ ר֙וּחַ֙ וָשֶׁ֣קֶר כִּזֵּ֔ב אַטִּ֣ף לְךָ֔ לַיַּ֖יִן וְלַשֵּׁכָ֑ר וְהָיָ֥ה מַטִּ֖יף הָעָ֥ם הַזֶּֽה׃"
+pericope: "[[Mic.2.6 Reproof of False Prophets|Reproof of False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 2
+book/chapter: "[[Mic.2|Micah 2]]"
+chronological_order: 624
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic DRUNKENNESS|DRUNKENNESS]]"
+- "[[topic MICAH|MICAH]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H3863]]"
+- "[[H9014]]"
+- "[[H0376I]]"
+- "[[H1980G]]"
+- "[[H7307H]]"
+- "[[H9002]]"
+- "[[H8267]]"
+- "[[H3576]]"
+- "[[H5197]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H3196]]"
+- "[[H7941]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 2:11**<big><big>[[Mic.2.6 Reproof of False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man walking in the spirit and falsehood do lie, [saying], I will prophesy unto thee of wine and of strong drink; he shall even be the prophet of this people.
 <small><sub>**BSB:**</sub></small>
 If a man of wind were to come and say falsely, “I will preach to you of wine and strong drink,” he would be just the preacher for this people!
+<small><sub>**Hebrew:**</sub></small>
+[[H3863\|לוּ]][[H9014\|־]] [[H0376I\|אִ֞ישׁ]] [[H1980G\|הֹלֵ֥ךְ]] [[H7307H\|ר֙וּחַ֙]] [[H9002\|וָ]][[H8267\|שֶׁ֣קֶר]] [[H3576\|כִּזֵּ֔ב]] [[H5197\|אַטִּ֣ף]] [[H9005\|לְ]][[H9031\|ךָ֔]] [[H9005\|לַ]][[H3196\|יַּ֖יִן]] [[H9002\|וְ]][[H9005\|לַ]][[H7941\|שֵּׁכָ֑ר]] [[H9001\|וְ]][[H1961\|הָיָ֥ה]] [[H5197\|מַטִּ֖יף]] [[H9009\|הָ]][[H5971A\|עָ֥ם]] [[H9009\|הַ]][[H2088\|זֶּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRUNKENNESS|DRUNKENNESS]] • [[topic MICAH|MICAH]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.2.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.2.10|<< Micah 2:10]]</td><td align="center" style="border:none;">[[Mic.2|Micah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.2.12|Micah 2:12 >>]]</td></tr></table>
 

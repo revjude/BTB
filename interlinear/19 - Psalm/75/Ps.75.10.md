@@ -1,8 +1,53 @@
+---
+title: Psalm 75:10
+type: Verse
+kjv: "All the horns of the wicked also will I cut off; but the horns of the righteous shall be exalted."
+bsb: "“All the horns of the wicked I will cut off, but the horns of the righteous will be exalted.”"
+hebrew: "וְכָל־ קַרְנֵ֣י רְשָׁעִ֣ים אֲגַדֵּ֑עַ תְּ֝רוֹמַ֗מְנָה קַֽרְנ֥וֹת צַדִּֽיק׃"
+pericope: "[[Ps.75.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 75
+book/chapter: "[[Ps.75|Psalm 75]]"
+chronological_order: 507
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7161A]]"
+- "[[H7563]]"
+- "[[H1438]]"
+- "[[H7311A]]"
+- "[[H6662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 75:10**<big><big>[[Ps.75.1 God’s Righteous Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All the horns of the wicked also will I cut off; [but] the horns of the righteous shall be exalted.
 <small><sub>**BSB:**</sub></small>
 “All the horns of the wicked I will cut off, but the horns of the righteous will be exalted.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H7161A\|קַרְנֵ֣י]] [[H7563\|רְשָׁעִ֣ים]] [[H1438\|אֲגַדֵּ֑עַ]] [[H7311A\|תְּ֝רוֹמַ֗מְנָה]] [[H7161A\|קַֽרְנ֥וֹת]] [[H6662\|צַדִּֽיק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.75.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.75.9|<< Psalms 75:9]]</td><td align="center" style="border:none;">[[Ps.75|Psalms 75]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.76.0|Psalms 76:0 >>]]</td></tr></table>
 

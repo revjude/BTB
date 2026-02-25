@@ -1,8 +1,67 @@
+---
+title: 1 Samuel 22:22
+type: Verse
+kjv: "And David said unto Abiathar, I knew it that day, when Doeg the Edomite was there, that he would surely tell Saul: I have occasioned the death of all the persons of thy father’s house."
+bsb: "Then David said to Abiathar, “I knew that Doeg the Edomite was there that day, and that he was sure to tell Saul. I myself am responsible for the lives of everyone in your father’s house."
+hebrew: "וַיֹּ֨אמֶר דָּוִ֜ד לְאֶבְיָתָ֗ר יָדַ֜עְתִּי בַּיּ֤וֹם הַהוּא֙ כִּֽי־ שָׁם֙ דּוֹאֵ֣ג הָאֲדֹמִ֔י כִּֽי־ הַגֵּ֥ד יַגִּ֖יד לְשָׁא֑וּל אָנֹכִ֣י סַבֹּ֔תִי בְּכָל־ נֶ֖פֶשׁ בֵּ֥ית אָבִֽיךָ׃"
+pericope: "[[1Sam.22.6 Saul Slays the Priests of Nob|Saul Slays the Priests of Nob]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 22
+book/chapter: "[[1Sam.22|1 Samuel 22]]"
+chronological_order: 301
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AHIMELECH|AHIMELECH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H0054]]"
+- "[[H3045]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8033G]]"
+- "[[H1673]]"
+- "[[H0130]]"
+- "[[H5046]]"
+- "[[H7586G]]"
+- "[[H0595]]"
+- "[[H5437G]]"
+- "[[H3605]]"
+- "[[H5315J]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **1 Samuel 22:22**<big><big>[[1Sam.22.6 Saul Slays the Priests of Nob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David said unto Abiathar, I knew [it] that day, when Doeg the Edomite [was] there, that he would surely tell Saul: I have occasioned [the death] of all the persons of thy father’s house.
 <small><sub>**BSB:**</sub></small>
 Then David said to Abiathar, “I knew that Doeg the Edomite was there that day, and that he was sure to tell Saul. I myself am responsible for the lives of everyone in your father’s house.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H1732\|דָּוִ֜ד]] [[H9005\|לְ]][[H0054\|אֶבְיָתָ֗ר]] [[H3045\|יָדַ֜עְתִּי]] [[H9003\|בַּ]][[H3117G\|יּ֤וֹם]] [[H9009\|הַ]][[H1931\|הוּא֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8033G\|שָׁם֙]] [[H1673\|דּוֹאֵ֣ג]] [[H9009\|הָ]][[H0130\|אֲדֹמִ֔י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5046\|הַגֵּ֥ד]] [[H5046\|יַגִּ֖יד]] [[H9005\|לְ]][[H7586G\|שָׁא֑וּל]] [[H0595\|אָנֹכִ֣י]] [[H5437G\|סַבֹּ֔תִי]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H5315J\|נֶ֖פֶשׁ]] [[H1004M\|בֵּ֥ית]] [[H0001G\|אָבִֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AHIMELECH|AHIMELECH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.22.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.22.21|<< 1 Samuel 22:21]]</td><td align="center" style="border:none;">[[1Sam.22|1 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.22.23|1 Samuel 22:23 >>]]</td></tr></table>
 

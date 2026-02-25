@@ -1,8 +1,67 @@
+---
+title: Ezekiel 3:15
+type: Verse
+kjv: "Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days."
+bsb: "I came to the exiles at Tel-abib who dwelt by the River Kebar. And for seven days I sat where they sat and remained there among them, overwhelmed."
+hebrew: "וָאָב֨וֹא אֶל־ הַגּוֹלָ֜ה תֵּ֣ל אָ֠בִיב הַיֹּשְׁבִ֤ים אֶֽל־ נְהַר־ כְּבָר֙ וָֽאֵשֵׁ֔ב הֵ֖מָּה יוֹשְׁבִ֣ים שָׁ֑ם וָאֵשֵׁ֥ב שָׁ֛ם שִׁבְעַ֥ת יָמִ֖ים מַשְׁמִ֥ים בְּתוֹכָֽם׃"
+pericope: "[[Ezek.3.1 Ezekiel Eats the Scroll|Ezekiel Eats the Scroll]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 3
+book/chapter: "[[Ezek.3|Ezekiel 3]]"
+chronological_order: 794
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHEBAR|CHEBAR]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic TEL-ABIB|TEL-ABIB]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1473]]"
+- "[[H8512]]"
+- "[[H3427]]"
+- "[[H5104H]]"
+- "[[H3529]]"
+- "[[H9002]]"
+- "[[H0834A]]"
+- "[[H1992]]"
+- "[[H8033G]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H8074H]]"
+- "[[H9003]]"
+- "[[H8432]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 3:15**<big><big>[[Ezek.3.1 Ezekiel Eats the Scroll|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then I came to them of the captivity at Telabib, that dwelt by the river of Chebar, and I sat where they sat, and remained there astonished among them seven days.
 <small><sub>**BSB:**</sub></small>
 I came to the exiles at Tel-abib who dwelt by the River Kebar. And for seven days I sat where they sat and remained there among them, overwhelmed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0935G\|אָב֨וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H1473\|גּוֹלָ֜ה]] [[H8512\|תֵּ֣ל]] [[H8512\|אָ֠בִיב]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֤ים]] [[H0413\|אֶֽל]][[H9014\|־]] [[H5104H\|נְהַר]][[H9014\|־]] [[H3529\|כְּבָר֙]] [[H9001\|וָֽ]][[H3427\|אֵשֵׁ֔ב]] [[H1992\|הֵ֖מָּה]] [[H3427\|יוֹשְׁבִ֣ים]] [[H8033G\|שָׁ֑ם]] [[H9001\|וָ]][[H3427\|אֵשֵׁ֥ב]] [[H8033G\|שָׁ֛ם]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִ֖ים]] [[H8074H\|מַשְׁמִ֥ים]] [[H9003\|בְּ]][[H8432\|תוֹכָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHEBAR|CHEBAR]] • [[topic SEVEN|SEVEN]] • [[topic TEL-ABIB|TEL-ABIB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.14|<< Ezekiel 3:14]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.16|Ezekiel 3:16 >>]]</td></tr></table>
 
@@ -29,7 +88,7 @@ I came to the exiles at Tel-abib who dwelt by the River Kebar. And for seven day
 | in midst of them  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H8432\|תוֹכָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> to.Kha<small><sup>[[HNcmsc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.3.14|<< Ezekiel 3:14]]</td><td align="center" style="border:none;">[[Ezek.3|Ezekiel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.3.16|Ezekiel 3:16 >>]]</td></tr></table>
 
-[^1]: and where  | **<big>[[H0834A|אֲשֶׁר]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
-[^2]: and where  | **<big>[[H0834A|אֲשֶׁר]]</big><big>[[H9002|וַ]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
+[^1]: and where  | **<big>[[H9002|וַ]]</big><big>[[H0834A|אֲשֶׁר]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
+[^2]: and where  | **<big>[[H9002|וַ]]</big><big>[[H0834A|אֲשֶׁר]]</big> ** | va.<small><sup>[[HC]]</sup></small> 'a.Sher<small><sup>[[HTr]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וָֽאֵשֵׁ֔ר</big></span>**
 

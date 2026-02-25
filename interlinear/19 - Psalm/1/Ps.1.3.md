@@ -1,8 +1,72 @@
+---
+title: Psalm 1:3
+type: Verse
+kjv: "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper."
+bsb: "He is like a tree planted by streams of water, yielding its fruit in season, whose leaf does not wither, and who prospers in all he does."
+hebrew: "וְֽהָיָ֗ה כְּעֵץ֮ שָׁת֪וּל עַֽל־ פַּלְגֵ֫י מָ֥יִם אֲשֶׁ֤ר פִּרְי֨וֹ׀ יִתֵּ֬ן בְּעִתּ֗וֹ וְעָלֵ֥הוּ לֹֽא־ יִבּ֑וֹל וְכֹ֖ל אֲשֶׁר־ יַעֲשֶׂ֣ה יַצְלִֽיחַ׃"
+pericope: "[[Ps.1.1 The Two Paths|The Two Paths]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 1
+book/chapter: "[[Ps.1|Psalm 1]]"
+chronological_order: 337
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic TREE|TREE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H6086H]]"
+- "[[H8362]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6388]]"
+- "[[H4325G]]"
+- "[[H0834A]]"
+- "[[H6529]]"
+- "[[H9023]]"
+- "[[H9015]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9002]]"
+- "[[H5929]]"
+- "[[H3808]]"
+- "[[H5034B]]"
+- "[[H3605]]"
+- "[[H6213A]]"
+- "[[H6743B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 1:3**<big><big>[[Ps.1.1 The Two Paths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
 <small><sub>**BSB:**</sub></small>
 He is like a tree planted by streams of water, yielding its fruit in season, whose leaf does not wither, and who prospers in all he does.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְֽ]][[H1961\|הָיָ֗ה]] [[H9004\|כְּ]][[H6086H\|עֵץ֮]] [[H8362\|שָׁת֪וּל]] [[H5921A\|עַֽל]][[H9014\|־]] [[H6388\|פַּלְגֵ֫י]] [[H4325G\|מָ֥יִם]] [[H0834A\|אֲשֶׁ֤ר]] [[H6529\|פִּרְי֨]][[H9023\|וֹ]][[H9015\|׀]] [[H5414G\|יִתֵּ֬ן]] [[H9003\|בְּ]][[H6256\|עִתּ֗]][[H9023\|וֹ]] [[H9002\|וְ]][[H5929\|עָלֵ֥]][[H9023\|הוּ]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5034B\|יִבּ֑וֹל]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213A\|יַעֲשֶׂ֣ה]] [[H6743B\|יַצְלִֽיחַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SYMBOLS|SYMBOLS]] • [[topic TREE|TREE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.1.2|<< Psalms 1:2]]</td><td align="center" style="border:none;">[[Ps.1|Psalms 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.1.4|Psalms 1:4 >>]]</td></tr></table>
 

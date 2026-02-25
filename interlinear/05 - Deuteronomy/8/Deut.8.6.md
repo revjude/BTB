@@ -1,8 +1,64 @@
+---
+title: Deuteronomy 8:6
+type: Verse
+kjv: "Therefore thou shalt keep the commandments of the LORD thy God, to walk in his ways, and to fear him."
+bsb: "Therefore you shall keep the commandments of the LORD your God, walking in His ways and fearing Him."
+hebrew: "וְשָׁ֣מַרְתָּ֔ אֶת־ מִצְוֹ֖ת יְהוָ֣ה אֱלֹהֶ֑יךָ לָלֶ֥כֶת בִּדְרָכָ֖יו וּלְיִרְאָ֥ה אֹתֽוֹ׃"
+pericope: "[[Deut.8.1 Remember the LORD Your God|Remember the LORD Your God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 8
+book/chapter: "[[Deut.8|Deuteronomy 8]]"
+chronological_order: 204
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H8104G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H1980I]]"
+- "[[H9003]]"
+- "[[H1870G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 8:6**<big><big>[[Deut.8.1 Remember the LORD Your God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore thou shalt keep the commandments of the LORD thy God, to walk in his ways, and to fear him.
 <small><sub>**BSB:**</sub></small>
 Therefore you shall keep the commandments of the LORD your God, walking in His ways and fearing Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8104G\|שָׁ֣מַרְתָּ֔]] [[H0853\|אֶת]][[H9014\|־]] [[H4687\|מִצְוֹ֖ת]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9005\|לָ]][[H1980I\|לֶ֥כֶת]] [[H9003\|בִּ]][[H1870G\|דְרָכָ֖י]][[H9023\|ו]] [[H9002\|וּ]][[H9005\|לְ]][[H3372H\|יִרְאָ֥ה]] [[H0853\|אֹתֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.8.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.8.5|<< Deuteronomy 8:5]]</td><td align="center" style="border:none;">[[Deut.8|Deuteronomy 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.8.7|Deuteronomy 8:7 >>]]</td></tr></table>
 

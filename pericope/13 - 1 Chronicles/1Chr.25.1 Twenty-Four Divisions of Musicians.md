@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Twenty-Four Divisions of Musicians
+type: Pericope
 pericope: "[[1Chr.25.1 Twenty-Four Divisions of Musicians|Twenty-Four Divisions of Musicians]]"
-verse_count: 31
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 25
 book/chapter: "[[1Chr.25|1 Chronicles 25]]"
-genre:
+chronological_order: 436
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 31
 verses:
 - "[[1Chr.25.1]]"
 - "[[1Chr.25.2]]"
@@ -49,7 +56,7 @@ verses:
 - "[[1Chr.25.31]]"
 ---
 
-[[1Chr.25|1 Chronicles 25:1 - 1 Chronicles 25:31]]
+<small>[[1Chr.25|1 Chronicles 25:1-31]]</small>
 *Twenty-Four Divisions of Musicians*
 
 [[1Chr.25.1|1]] Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:

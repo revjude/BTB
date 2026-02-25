@@ -13,7 +13,7 @@
 
 - A temple of Dagon, situated at [[Judg.16.23|Jud 16:23]]
 
-- Samson dies at [[Judg.16.21|Jud 16:21]]-[[Judg.16.31|31]]
+- Samson dies at [[Judg.16.21|Jud 16:21-31]]
 
 - On the western boundary of the kingdom of Israel in the time  of Solomon [[1Kgs.4.24|1Ki 4:24]]
 
@@ -21,7 +21,7 @@
 
 - Prophecies relating to [[Amos.1.6|Am 1:6]],[[Amos.1.7|7]]; [[Zeph.2.4|Zep 2:4]]; [[Zech.9.5|Zec 9:5]]
 
-- Desert of [[Acts.8.26|Ac 8:26]]-[[Acts.8.39|39]]
+- Desert of [[Acts.8.26|Ac 8:26-39]]
 
 2. A city of the tribe of Ephraim [[Judg.6.4|Jud 6:4]]; [[1Chr.7.28|1Ch 7:28]]
 

@@ -1,8 +1,83 @@
+---
+title: 1 Samuel 25:25
+type: Verse
+kjv: "Let not my lord, I pray thee, regard this man of Belial, even Nabal: for as his name is, so is he; Nabal is his name, and folly is with him: but I thine handmaid saw not the young men of my lord, whom thou didst send."
+bsb: "My lord should pay no attention to this scoundrel Nabal, for he lives up to his name: His name means Fool, and folly accompanies him. I, your servant, did not see my lord’s young men whom you sent."
+hebrew: "אַל־ נָ֣א יָשִׂ֣ים אֲדֹנִ֣י׀ אֶת־ לִבּ֡וֹ אֶל־ אִישׁ֩ הַבְּלִיַּ֨עַל הַזֶּ֜ה עַל־ נָבָ֗ל כִּ֤י כִשְׁמוֹ֙ כֶּן־ ה֔וּא נָבָ֣ל שְׁמ֔וֹ וּנְבָלָ֖ה עִמּ֑וֹ וַֽאֲנִי֙ אֲמָ֣תְךָ֔ לֹ֥א רָאִ֛יתִי אֶת־ נַעֲרֵ֥י אֲדֹנִ֖י אֲשֶׁ֥ר שָׁלָֽחְתָּ׃"
+pericope: "[[1Sam.25.18 Abigail Intercedes for Nabal|Abigail Intercedes for Nabal]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 25
+book/chapter: "[[1Sam.25|1 Samuel 25]]"
+chronological_order: 304
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic FIG|FIG]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic NABAL|NABAL]]"
+- "[[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic TACT|TACT]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H7760K]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H0376G]]"
+- "[[H9009]]"
+- "[[H1100G]]"
+- "[[H2088]]"
+- "[[H5921A]]"
+- "[[H5037]]"
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H8034]]"
+- "[[H3651C]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H5039]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H0589]]"
+- "[[H0519]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H7200G]]"
+- "[[H5288]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 25:25**<big><big>[[1Sam.25.18 Abigail Intercedes for Nabal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let not my lord, I pray thee, regard this man of Belial, [even] Nabal: for as his name [is], so [is] he; Nabal [is] his name, and folly [is] with him: but I thine handmaid saw not the young men of my lord, whom thou didst send.
 <small><sub>**BSB:**</sub></small>
 My lord should pay no attention to this scoundrel Nabal, for he lives up to his name: His name means Fool, and folly accompanies him. I, your servant, did not see my lord’s young men whom you sent.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H4994\|נָ֣א]] [[H7760K\|יָשִׂ֣ים]] [[H0113\|אֲדֹנִ֣]][[H9020\|י]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H3820A\|לִבּ֡]][[H9023\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H0376G\|אִישׁ֩]] [[H9009\|הַ]][[H1100G\|בְּלִיַּ֨עַל]] [[H9009\|הַ]][[H2088\|זֶּ֜ה]] [[H5921A\|עַל]][[H9014\|־]] [[H5037\|נָבָ֗ל]] [[H3588A\|כִּ֤י]] [[H9004\|כִ]][[H8034\|שְׁמ]][[H9023\|וֹ֙]] [[H3651C\|כֶּן]][[H9014\|־]] [[H1931\|ה֔וּא]] [[H5037\|נָבָ֣ל]] [[H8034\|שְׁמ֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H5039\|נְבָלָ֖ה]] [[H5973A\|עִמּ֑]][[H9033\|וֹ]] [[H9002\|וַֽ]][[H0589\|אֲנִי֙]] [[H0519\|אֲמָ֣תְ]][[H9021\|ךָ֔]] [[H3808\|לֹ֥א]] [[H7200G\|רָאִ֛יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H5288\|נַעֲרֵ֥י]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H7971G\|שָׁלָֽחְתָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic FIG|FIG]] • [[topic INTERCESSION|INTERCESSION]] • [[topic NABAL|NABAL]] • [[topic OBSEQUIOUSNESS|OBSEQUIOUSNESS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic TACT|TACT]] • [[topic WIFE|WIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.25.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.25.24|<< 1 Samuel 25:24]]</td><td align="center" style="border:none;">[[1Sam.25|1 Samuel 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.25.26|1 Samuel 25:26 >>]]</td></tr></table>
 

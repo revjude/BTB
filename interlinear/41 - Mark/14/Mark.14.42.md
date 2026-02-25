@@ -1,10 +1,51 @@
+---
+title: Mark 14:42
+type: Verse
+kjv: "Rise up, let us go; lo, he that betrayeth me is at hand."
+bsb: "Rise, let us go. See, My betrayer is approaching!”"
+jesus_said: "Rise up, let us go; lo, he that betrayeth me is at hand."
+greek: "ἐγείρεσθε, ἄγωμεν· ἰδοὺ ὁ παραδιδούς με ἤγγικεν.¶"
+pericope: "[[Mark.14.32 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+- "[[topic SORROW|SORROW]]"
+strongs:
+- "[[G1453]]"
+- "[[G0071]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G3860]]"
+- "[[G3165]]"
+- "[[G1448]]"
+texts:
+- NKO
+---
+
 **Mark 14:42**<big><big>[[Mark.14.32 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Rise up, let us go; lo, he that betrayeth me is at hand.
 <small><sub>**BSB:**</sub></small>
 Rise, let us go. See, My betrayer is approaching!”
-<small><sub>**Literal:**</sub></small>
-do rise, let us go; behold the [one] betraying Me has drawn near!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.41|<< Mark 14:41]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.43|Mark 14:43 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1453\|ἐγείρεσθε,]]  [[G0071\|ἄγωμεν·]]  [[G2400\|ἰδοὺ]]  [[G3588\|ὁ]]  [[G3860\|παραδιδούς]]  [[G3165\|με]]  [[G1448\|ἤγγικεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]] • [[topic SORROW|SORROW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.41|<< Mark 14:41]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.43|Mark 14:43 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

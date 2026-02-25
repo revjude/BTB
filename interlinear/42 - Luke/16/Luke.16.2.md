@@ -1,10 +1,69 @@
+---
+title: Luke 16:2
+type: Verse
+kjv: "And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward."
+bsb: "So he called him in to ask, ‘What is this I hear about you? Turn in an account of your management, for you cannot be manager any longer.’"
+jesus_said: "And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward."
+greek: "καὶ φωνήσας αὐτὸν εἶπεν αὐτῷ· τί τοῦτο ἀκούω περὶ σοῦ; ἀπόδος τὸν λόγον τῆς οἰκονομίας σου· οὐ γὰρ δύνῃ ἔτι οἰκονομεῖν."
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMBEZZLEMENT|EMBEZZLEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G5455]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G5101]]"
+- "[[G3778]]"
+- "[[G0191]]"
+- "[[G4012]]"
+- "[[G4771]]"
+- "[[G0591]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3622]]"
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1410]]"
+- "[[G2089]]"
+- "[[G3621]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 16:2**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he called him, and said unto him, How is it that I hear this of thee? give an account of thy stewardship; for thou mayest be no longer steward.
 <small><sub>**BSB:**</sub></small>
 So he called him in to ask, ‘What is this I hear about you? Turn in an account of your management, for you cannot be manager any longer.’
-<small><sub>**Literal:**</sub></small>
-And having called him he said to him; What [is] this I hear concerning you? do give the account of the stewardship of you; not for you are able any longer to manage.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.1|<< Luke 16:1]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.3|Luke 16:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5455\|φωνήσας]]  [[G0846\|αὐτὸν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτῷ·]]  [[G5101\|τί]]  [[G3778\|τοῦτο]]  [[G0191\|ἀκούω]]  [[G4012\|περὶ]]  [[G4771\|σοῦ;]]  [[G0591\|ἀπόδος]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G3588\|τῆς]]  [[G3622\|οἰκονομίας]]  [[G4771\|σου·]]  [[G3756\|οὐ]]  [[G1063\|γὰρ]]  [[G1410\|δύνῃ]]  [[G2089\|ἔτι]]  [[G3621\|οἰκονομεῖν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EMBEZZLEMENT|EMBEZZLEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic PROBATION|PROBATION]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.1|<< Luke 16:1]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.3|Luke 16:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

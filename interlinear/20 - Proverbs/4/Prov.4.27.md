@@ -1,8 +1,54 @@
+---
+title: Proverbs 4:27
+type: Verse
+kjv: "Turn not to the right hand nor to the left: remove thy foot from evil."
+bsb: "Do not swerve to the right or to the left; turn your feet away from evil."
+hebrew: "אַֽל־ תֵּט־ יָמִ֥ין וּשְׂמֹ֑אול הָסֵ֖ר רַגְלְךָ֣ מֵרָֽע׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H5186]]"
+- "[[H3225G]]"
+- "[[H9002]]"
+- "[[H8040G]]"
+- "[[H5493H]]"
+- "[[H7272]]"
+- "[[H9021]]"
+- "[[H9006]]"
+- "[[H7451H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:27**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Turn not to the right hand nor to the left: remove thy foot from evil.
 <small><sub>**BSB:**</sub></small>
 Do not swerve to the right or to the left; turn your feet away from evil.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַֽל]][[H9014\|־]] [[H5186\|תֵּט]][[H9014\|־]] [[H3225G\|יָמִ֥ין]] [[H9002\|וּ]][[H8040G\|שְׂמֹ֑אול]] [[H5493H\|הָסֵ֖ר]] [[H7272\|רַגְלְ]][[H9021\|ךָ֣]] [[H9006\|מֵ]][[H7451H\|רָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.26|<< Proverbs 4:26]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.5.1|Proverbs 5:1 >>]]</td></tr></table>
 

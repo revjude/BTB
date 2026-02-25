@@ -1,8 +1,87 @@
+---
+title: Genesis 22:12
+type: Verse
+kjv: "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me."
+bsb: "“Do not lay a hand on the boy or do anything to him,” said the angel, “for now I know that you fear God, since you have not withheld your only son from me.”"
+hebrew: "וַיֹּ֗אמֶר אַל־ תִּשְׁלַ֤ח יָֽדְךָ֙ אֶל־ הַנַּ֔עַר וְאַל־ תַּ֥עַשׂ ל֖וֹ מְא֑וּמָּה כִּ֣י׀ עַתָּ֣ה יָדַ֗עְתִּי כִּֽי־ יְרֵ֤א אֱלֹהִים֙ אַ֔תָּה וְלֹ֥א חָשַׂ֛כְתָּ אֶת־ בִּנְךָ֥ אֶת־ יְחִידְךָ֖ מִמֶּֽנִּי׃"
+pericope: "[[Gen.22.11 The LORD Provides the Sacrifice|The LORD Provides the Sacrifice]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 22
+book/chapter: "[[Gen.22|Genesis 22]]"
+chronological_order: 64
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic CONSECRATION|CONSECRATION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic ISAAC|ISAAC]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H7971K]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9002]]"
+- "[[H6213A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3972]]"
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H6258]]"
+- "[[H3045]]"
+- "[[H3373]]"
+- "[[H0430G]]"
+- "[[H0859A]]"
+- "[[H3808]]"
+- "[[H2820]]"
+- "[[H0853]]"
+- "[[H1121A]]"
+- "[[H3173]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 22:12**<big><big>[[Gen.22.11 The LORD Provides the Sacrifice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only [son] from me.
 <small><sub>**BSB:**</sub></small>
 “Do not lay a hand on the boy or do anything to him,” said the angel, “for now I know that you fear God, since you have not withheld your only son from me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H0408\|אַל]][[H9014\|־]] [[H7971K\|תִּשְׁלַ֤ח]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נַּ֔עַר]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H6213A\|תַּ֥עַשׂ]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H3972\|מְא֑וּמָּה]] [[H3588A\|כִּ֣י]][[H9015\|׀]] [[H6258\|עַתָּ֣ה]] [[H3045\|יָדַ֗עְתִּי]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3373\|יְרֵ֤א]] [[H0430G\|אֱלֹהִים֙]] [[H0859A\|אַ֔תָּה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2820\|חָשַׂ֛כְתָּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בִּנְ]][[H9021\|ךָ֥]] [[H0853\|אֶת]][[H9014\|־]] [[H3173\|יְחִידְ]][[H9021\|ךָ֖]] [[H4480A\|מִמֶּֽ]][[H9030\|נִּי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic ANTHROPOMORPHISMS|ANTHROPOMORPHISMS]] • [[topic CHILDREN|CHILDREN]] • [[topic COMMUNION|COMMUNION]] • [[topic CONSECRATION|CONSECRATION]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic ISAAC|ISAAC]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic REVERENCE|REVERENCE]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.22.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.22.11|<< Genesis 22:11]]</td><td align="center" style="border:none;">[[Gen.22|Genesis 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.22.13|Genesis 22:13 >>]]</td></tr></table>
 

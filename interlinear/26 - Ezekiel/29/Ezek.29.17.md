@@ -1,8 +1,62 @@
+---
+title: Ezekiel 29:17
+type: Verse
+kjv: "And it came to pass in the seven and twentieth year, in the first month, in the first day of the month, the word of the LORD came unto me, saying,"
+bsb: "In the twenty-seventh year, on the first day of the first month, the word of the LORD came to me, saying,"
+hebrew: "וַיְהִ֗י בְּעֶשְׂרִ֤ים וָשֶׁ֙בַע֙ שָׁנָ֔ה בָּֽרִאשׁ֖וֹן בְּאֶחָ֣ד לַחֹ֑דֶשׁ הָיָ֥ה דְבַר־ יְהוָ֖ה אֵלַ֥י לֵאמֹֽר׃"
+pericope: "[[Ezek.29.17 Egypt the Reward of Nebuchadnezzar|Egypt the Reward of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 29
+book/chapter: "[[Ezek.29|Ezekiel 29]]"
+chronological_order: 820
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic PROPHECY|PROPHECY]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H7223G]]"
+- "[[H0259]]"
+- "[[H9005]]"
+- "[[H2320G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 29:17**<big><big>[[Ezek.29.17 Egypt the Reward of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass in the seven and twentieth year, in the first [month], in the first [day] of the month, the word of the LORD came unto me, saying,
 <small><sub>**BSB:**</sub></small>
 In the twenty-seventh year, on the first day of the first month, the word of the LORD came to me, saying,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H9003\|בְּ]][[H6242\|עֶשְׂרִ֤ים]] [[H9002\|וָ]][[H7651\|שֶׁ֙בַע֙]] [[H8141\|שָׁנָ֔ה]] [[H9003\|בָּֽ]][[H7223G\|רִאשׁ֖וֹן]] [[H9003\|בְּ]][[H0259\|אֶחָ֣ד]] [[H9005\|לַ]][[H2320G\|חֹ֑דֶשׁ]] [[H1961\|הָיָ֥ה]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic PROPHECY|PROPHECY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.29.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.29.16|<< Ezekiel 29:16]]</td><td align="center" style="border:none;">[[Ezek.29|Ezekiel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.29.18|Ezekiel 29:18 >>]]</td></tr></table>
 

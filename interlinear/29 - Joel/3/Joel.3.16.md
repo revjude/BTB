@@ -1,8 +1,65 @@
+---
+title: Joel 3:16
+type: Verse
+kjv: "The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD will be the hope of his people, and the strength of the children of Israel."
+bsb: "The LORD will roar from Zion and raise His voice from Jerusalem; heaven and earth will tremble. But the LORD will be a refuge for His people, a stronghold for the people of Israel."
+hebrew: "וַיהוָ֞ה מִצִּיּ֣וֹן יִשְׁאָ֗ג וּמִירוּשָׁלִַ֙ם֙ יִתֵּ֣ן קוֹל֔וֹ וְרָעֲשׁ֖וּ שָׁמַ֣יִם וָאָ֑רֶץ וַֽיהוָה֙ מַֽחֲסֶ֣ה לְעַמּ֔וֹ וּמָע֖וֹז לִבְנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H6726]]"
+- "[[H7580]]"
+- "[[H3389]]"
+- "[[H5414M]]"
+- "[[H6963A]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7493]]"
+- "[[H8064]]"
+- "[[H0776G]]"
+- "[[H4268]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H4581]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 3:16**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD also shall roar out of Zion, and utter his voice from Jerusalem; and the heavens and the earth shall shake: but the LORD [will be] the hope of his people, and the strength of the children of Israel.
 <small><sub>**BSB:**</sub></small>
 The LORD will roar from Zion and raise His voice from Jerusalem; heaven and earth will tremble. But the LORD will be a refuge for His people, a stronghold for the people of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H3068G\|יהוָ֞ה]] [[H9006\|מִ]][[H6726\|צִּיּ֣וֹן]] [[H7580\|יִשְׁאָ֗ג]] [[H9002\|וּ]][[H9006\|מִ]][[H3389\|ירוּשָׁלִַ֙ם֙]] [[H5414M\|יִתֵּ֣ן]] [[H6963A\|קוֹל֔]][[H9023\|וֹ]] [[H9001\|וְ]][[H7493\|רָעֲשׁ֖וּ]] [[H8064\|שָׁמַ֣יִם]] [[H9002\|וָ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וַֽ]][[H3068G\|יהוָה֙]] [[H4268\|מַֽחֲסֶ֣ה]] [[H9005\|לְ]][[H5971A\|עַמּ֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H4581\|מָע֖וֹז]] [[H9005\|לִ]][[H1121G\|בְנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic HOPE|HOPE]] • [[topic JOEL|JOEL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.15|<< Joel 3:15]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.17|Joel 3:17 >>]]</td></tr></table>
 

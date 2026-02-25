@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Defeat at Hormah
+type: Pericope
 pericope: "[[Deut.1.41 The Defeat at Hormah|The Defeat at Hormah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 1
 book/chapter: "[[Deut.1|Deuteronomy 1]]"
-genre:
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 6
 verses:
 - "[[Deut.1.41]]"
 - "[[Deut.1.42]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Deut.1.46]]"
 ---
 
-[[Deut.1|Deuteronomy 1:41 - Deuteronomy 1:46]]
+<small>[[Deut.1|Deuteronomy 1:41-46]]</small>
 *The Defeat at Hormah*
 
 [[Deut.1.41|41]] Then ye answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.

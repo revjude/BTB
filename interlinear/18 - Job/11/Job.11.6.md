@@ -1,8 +1,62 @@
+---
+title: Job 11:6
+type: Verse
+kjv: "And that he would shew thee the secrets of wisdom, that they are double to that which is! Know therefore that God exacteth of thee less than thine iniquity deserveth."
+bsb: "and disclose to you the secrets of wisdom, for true wisdom has two sides. Know then that God exacts from you less than your iniquity deserves."
+hebrew: "וְיַגֶּד־ לְךָ֨׀ תַּֽעֲלֻמ֣וֹת חָכְמָה֮ כִּֽי־ כִפְלַ֪יִם לְֽת֫וּשִׁיָּ֥ה וְדַ֡ע כִּֽי־ יַשֶּׁ֥ה לְךָ֥ אֱ֝ל֗וֹהַ מֵעֲוֹנֶֽךָ׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9002]]"
+- "[[H5046]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H8587]]"
+- "[[H2451]]"
+- "[[H3588A]]"
+- "[[H3718]]"
+- "[[H8454]]"
+- "[[H3045]]"
+- "[[H5382]]"
+- "[[H0433]]"
+- "[[H9006]]"
+- "[[H5771H]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:6**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And that he would shew thee the secrets of wisdom, that [they are] double to that which is! Know therefore that God exacteth of thee [less] than thine iniquity [deserveth].
 <small><sub>**BSB:**</sub></small>
 and disclose to you the secrets of wisdom, for true wisdom has two sides. Know then that God exacts from you less than your iniquity deserves.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H5046\|יַגֶּד]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֨]][[H9015\|׀]] [[H8587\|תַּֽעֲלֻמ֣וֹת]] [[H2451\|חָכְמָה֮]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3718\|כִפְלַ֪יִם]] [[H9005\|לְֽ]][[H8454\|ת֫וּשִׁיָּ֥ה]] [[H9002\|וְ]][[H3045\|דַ֡ע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H5382\|יַשֶּׁ֥ה]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H0433\|אֱ֝ל֗וֹהַ]] [[H9006\|מֵ]][[H5771H\|עֲוֹנֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.5|<< Job 11:5]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.7|Job 11:7 >>]]</td></tr></table>
 

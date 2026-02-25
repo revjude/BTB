@@ -1,10 +1,64 @@
+---
+title: Acts 7:49
+type: Verse
+kjv: "Heaven is my throne, and earth is my footstool: what house will ye build me? saith the Lord: or what is the place of my rest?"
+bsb: "‘Heaven is My throne and the earth is My footstool. What kind of house will you build for Me, says the Lord, or where will My place of repose be?"
+greek: "ὁ οὐρανός μοι θρόνος, ἡ δὲ γῆ ὑποπόδιον τῶν ποδῶν μου· ποῖον οἶκον οἰκοδομήσετέ μοι; λέγει κύριος, ἢ τίς τόπος τῆς καταπαύσεώς μου;"
+pericope: "[[Acts.7.44 The Tabernacle of the Testimony|The Tabernacle of the Testimony]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic FOOTSTOOL|FOOTSTOOL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic STOOL|STOOL]]"
+strongs:
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G3165]]"
+- "[[G2362]]"
+- "[[G1161]]"
+- "[[G1093G]]"
+- "[[G5286]]"
+- "[[G4228]]"
+- "[[G4169]]"
+- "[[G3624G]]"
+- "[[G3618]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G2228]]"
+- "[[G5101]]"
+- "[[G5117]]"
+- "[[G2663]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 7:49**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Heaven [is] my throne, and earth [is] my footstool: what house will ye build me? saith the Lord: or what [is] the place of my rest?
 <small><sub>**BSB:**</sub></small>
 ‘Heaven is My throne and the earth is My footstool. What kind of house will you build for Me, says the Lord, or where will My place of repose be?
-<small><sub>**Literal:**</sub></small>
-<the> Heaven [is] to Me a throne, <the> and the earth a footstool of the feet of Mine; What kind of house will you build Me? says [the] Lord, or what [is] [the] place of the rest of Mine?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.48|<< Acts 7:48]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.50|Acts 7:50 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G3772\|οὐρανός]]  [[G3165\|μοι]]  [[G2362\|θρόνος,]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G1093G\|γῆ]]  [[G5286\|ὑποπόδιον]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G3165\|μου·]]  [[G4169\|ποῖον]]  [[G3624G\|οἶκον]]  [[G3618\|οἰκοδομήσετέ]]  [[G3165\|μοι;]]  [[G3004G\|λέγει]]  [[G2962G\|κύριος,]]  [[G2228\|ἢ]]  [[G5101\|τίς]]  [[G5117\|τόπος]]  [[G3588\|τῆς]]  [[G2663\|καταπαύσεώς]]  [[G3165\|μου;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic FOOTSTOOL|FOOTSTOOL]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HEAVEN|HEAVEN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic STOOL|STOOL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.48|<< Acts 7:48]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.50|Acts 7:50 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:49** is...
 > $\quad$ referencing: [[LXX.Isa.66.1|Isa 66:1-2]]

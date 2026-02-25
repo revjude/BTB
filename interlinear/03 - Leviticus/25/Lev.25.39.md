@@ -1,8 +1,67 @@
+---
+title: Leviticus 25:39
+type: Verse
+kjv: "And if thy brother that dwelleth by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:"
+bsb: "If a countryman among you becomes destitute and sells himself to you, then you must not force him into slave labor."
+hebrew: "וְכִֽי־ יָמ֥וּךְ אָחִ֛יךָ עִמָּ֖ךְ וְנִמְכַּר־ לָ֑ךְ לֹא־ תַעֲבֹ֥ד בּ֖וֹ עֲבֹ֥דַת עָֽבֶד׃"
+pericope: "[[Lev.25.39 Redemption of Bondmen|Redemption of Bondmen]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 25
+book/chapter: "[[Lev.25|Leviticus 25]]"
+chronological_order: 157
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic DEBTOR|DEBTOR]]"
+- "[[topic JUBILEE|JUBILEE]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4134]]"
+- "[[H0251I]]"
+- "[[H9021]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H9001]]"
+- "[[H4376]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H5647G]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5656G]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 25:39**<big><big>[[Lev.25.39 Redemption of Bondmen|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if thy brother [that dwelleth] by thee be waxen poor, and be sold unto thee; thou shalt not compel him to serve as a bondservant:
 <small><sub>**BSB:**</sub></small>
 If a countryman among you becomes destitute and sells himself to you, then you must not force him into slave labor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H4134\|יָמ֥וּךְ]] [[H0251I\|אָחִ֛י]][[H9021\|ךָ]] [[H5973A\|עִמָּ֖]][[H9032\|ךְ]] [[H9001\|וְ]][[H4376\|נִמְכַּר]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H3808\|לֹא]][[H9014\|־]] [[H5647G\|תַעֲבֹ֥ד]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H5656G\|עֲבֹ֥דַת]] [[H5650\|עָֽבֶד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic DEBTOR|DEBTOR]] • [[topic JUBILEE|JUBILEE]] • [[topic POOR|POOR]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.25.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.25.38|<< Leviticus 25:38]]</td><td align="center" style="border:none;">[[Lev.25|Leviticus 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.25.40|Leviticus 25:40 >>]]</td></tr></table>
 

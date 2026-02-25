@@ -1,8 +1,71 @@
+---
+title: 2 Kings 17:16
+type: Verse
+kjv: "And they left all the commandments of the LORD their God, and made them molten images, even two calves, and made a grove, and worshipped all the host of heaven, and served Baal."
+bsb: "They abandoned all the commandments of the LORD their God and made for themselves two cast idols of calves and an Asherah pole. They bowed down to all the host of heaven and served Baal."
+hebrew: "וַיַּעַזְב֗וּ אֶת־ כָּל־ מִצְוֹת֙ יְהוָ֣ה אֱלֹהֵיהֶ֔ם וַיַּעֲשׂ֥וּ לָהֶ֛ם מַסֵּכָ֖ה שְׁנֵ֣י עֲגָלִ֑ים וַיַּעֲשׂ֣וּ אֲשֵׁירָ֗ה וַיִּֽשְׁתַּחֲווּ֙ לְכָל־ צְבָ֣א הַשָּׁמַ֔יִם וַיַּעַבְד֖וּ אֶת־ הַבָּֽעַל׃"
+pericope: "[[2Kgs.17.5 Israel Carried Captive to Assyria|Israel Carried Captive to Assyria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BAAL|BAAL]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic GROVES|GROVES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic STARS|STARS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5800A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H4687]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4541A]]"
+- "[[H8147]]"
+- "[[H5695]]"
+- "[[H0842]]"
+- "[[H7812]]"
+- "[[H6635A]]"
+- "[[H9009]]"
+- "[[H8064]]"
+- "[[H5647H]]"
+- "[[H1168A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 17:16**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they left all the commandments of the LORD their God, and made them molten images, [even] two calves, and made a grove, and worshipped all the host of heaven, and served Baal.
 <small><sub>**BSB:**</sub></small>
 They abandoned all the commandments of the LORD their God and made for themselves two cast idols of calves and an Asherah pole. They bowed down to all the host of heaven and served Baal.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5800A\|יַּעַזְב֗וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H4687\|מִצְוֹת֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֔ם]] [[H9001\|וַ]][[H6213H\|יַּעֲשׂ֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H4541A\|מַסֵּכָ֖ה]] [[H8147\|שְׁנֵ֣י]] [[H5695\|עֲגָלִ֑ים]] [[H9001\|וַ]][[H6213H\|יַּעֲשׂ֣וּ]] [[H0842\|אֲשֵׁירָ֗ה]] [[H9001\|וַ]][[H7812\|יִּֽשְׁתַּחֲווּ֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H6635A\|צְבָ֣א]] [[H9009\|הַ]][[H8064\|שָּׁמַ֔יִם]] [[H9001\|וַ]][[H5647H\|יַּעַבְד֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1168A\|בָּֽעַל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BAAL|BAAL]] • [[topic BABYLON|BABYLON]] • [[topic GROVES|GROVES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RULERS|RULERS]] • [[topic STARS|STARS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.15|<< 2 Kings 17:15]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.17|2 Kings 17:17 >>]]</td></tr></table>
 

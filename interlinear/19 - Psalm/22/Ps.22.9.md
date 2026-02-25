@@ -1,8 +1,56 @@
+---
+title: Psalm 22:9
+type: Verse
+kjv: "But thou art he that took me out of the womb: thou didst make me hope when I was upon my mother’s breasts."
+bsb: "Yet You brought me forth from the womb; You made me secure at my mother’s breast."
+hebrew: "כִּֽי־ אַתָּ֣ה גֹחִ֣י מִבָּ֑טֶן מַ֝בְטִיחִ֗י עַל־ שְׁדֵ֥י אִמִּֽי׃"
+pericope: "[[Ps.22.1 The Psalm of the Cross|The Psalm of the Cross]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 22
+book/chapter: "[[Ps.22|Psalm 22]]"
+chronological_order: 355
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H1518]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H0990H]]"
+- "[[H0982]]"
+- "[[H5921A]]"
+- "[[H7699A]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 22:9**<big><big>[[Ps.22.1 The Psalm of the Cross|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou [art] he that took me out of the womb: thou didst make me hope [when I was] upon my mother’s breasts.
 <small><sub>**BSB:**</sub></small>
 Yet You brought me forth from the womb; You made me secure at my mother’s breast.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֣ה]] [[H1518\|גֹחִ֣]][[H9030\|י]] [[H9006\|מִ]][[H0990H\|בָּ֑טֶן]] [[H0982\|מַ֝בְטִיחִ֗]][[H9030\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H7699A\|שְׁדֵ֥י]] [[H0517\|אִמִּֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.22.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.22.8|<< Psalms 22:8]]</td><td align="center" style="border:none;">[[Ps.22|Psalms 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.22.10|Psalms 22:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

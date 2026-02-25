@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Servants of Christ
+type: Pericope
 pericope: "[[1Cor.4.1 Servants of Christ|Servants of Christ]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 4
 book/chapter: "[[1Cor.4|1 Corinthians 4]]"
-genre:
+chronological_order: 1061
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 13
 verses:
 - "[[1Cor.4.1]]"
 - "[[1Cor.4.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Cor.4.13]]"
 ---
 
-[[1Cor.4|1 Corinthians 4:1 - 1 Corinthians 4:13]]
+<small>[[1Cor.4|1 Corinthians 4:1-13]]</small>
 *Servants of Christ*
 
 [[1Cor.4.1|1]] Let a man so account of us, as of the ministers of Christ, and stewards of the mysteries of God.

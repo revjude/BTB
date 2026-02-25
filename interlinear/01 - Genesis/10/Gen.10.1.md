@@ -1,8 +1,60 @@
+---
+title: Genesis 10:1
+type: Verse
+kjv: "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood."
+bsb: "This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood."
+hebrew: "וְאֵ֙לֶּה֙ תּוֹלְדֹ֣ת בְּנֵי־ נֹ֔חַ שֵׁ֖ם חָ֣ם וָיָ֑פֶת וַיִּוָּלְד֥וּ לָהֶ֛ם בָּנִ֖ים אַחַ֥ר הַמַּבּֽוּל׃"
+pericope: "[[Gen.10.1 The Table of Nations|The Table of Nations]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 10
+book/chapter: "[[Gen.10|Genesis 10]]"
+chronological_order: 10
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic SHEM|SHEM]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H8435]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H5146]]"
+- "[[H8035]]"
+- "[[H2526G]]"
+- "[[H3315]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H0310A]]"
+- "[[H9009]]"
+- "[[H3999]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 10:1**<big><big>[[Gen.10.1 The Table of Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now these [are] the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.
 <small><sub>**BSB:**</sub></small>
 This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H8435\|תּוֹלְדֹ֣ת]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H5146\|נֹ֔חַ]] [[H8035\|שֵׁ֖ם]] [[H2526G\|חָ֣ם]] [[H9002\|וָ]][[H3315\|יָ֑פֶת]] [[H9001\|וַ]][[H3205\|יִּוָּלְד֥וּ]] [[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H1121A\|בָּנִ֖ים]] [[H0310A\|אַחַ֥ר]] [[H9009\|הַ]][[H3999\|מַּבּֽוּל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SHEM|SHEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.10.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.29|<< Genesis 9:29]]</td><td align="center" style="border:none;">[[Gen.10|Genesis 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.10.2|Genesis 10:2 >>]]</td></tr></table>
 

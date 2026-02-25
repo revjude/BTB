@@ -1,8 +1,65 @@
+---
+title: Genesis 35:18
+type: Verse
+kjv: "And it came to pass, as her soul was in departing, (for she died) that she called his name Benoni: but his father called him Benjamin."
+bsb: "And with her last breath—for she was dying—she named him Ben-oni. But his father called him Benjamin."
+hebrew: "וַיְהִ֞י בְּצֵ֤את נַפְשָׁהּ֙ כִּ֣י מֵ֔תָה וַתִּקְרָ֥א שְׁמ֖וֹ בֶּן־ אוֹנִ֑י וְאָבִ֖יו קָֽרָא־ ל֥וֹ בִנְיָמִֽין׃"
+pericope: "[[Gen.35.16 Benjamin Born, Rachel Dies|Benjamin Born, Rachel Dies]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 35
+book/chapter: "[[Gen.35|Genesis 35]]"
+chronological_order: 77
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic BEN-ONI|BEN-ONI]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic RACHEL|RACHEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H3318G]]"
+- "[[H5315G]]"
+- "[[H9024]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H1126]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H0001G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1144G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 35:18**<big><big>[[Gen.35.16 Benjamin Born, Rachel Dies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, as her soul was in departing, (for she died) that she called his name Benoni: but his father called him Benjamin.
 <small><sub>**BSB:**</sub></small>
 And with her last breath—for she was dying—she named him Ben-oni. But his father called him Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֞י]] [[H9003\|בְּ]][[H3318G\|צֵ֤את]] [[H5315G\|נַפְשָׁ]][[H9024\|הּ֙]] [[H3588A\|כִּ֣י]] [[H4191\|מֵ֔תָה]] [[H9001\|וַ]][[H7121H\|תִּקְרָ֥א]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H1126\|בֶּן]][[H9014\|־]] [[H1126\|אוֹנִ֑י]] [[H9002\|וְ]][[H0001G\|אָבִ֖י]][[H9023\|ו]] [[H7121H\|קָֽרָא]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1144G\|בִנְיָמִֽין]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEN-ONI|BEN-ONI]] • [[topic BENJAMIN|BENJAMIN]] • [[topic JACOB|JACOB]] • [[topic RACHEL|RACHEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.35.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.35.17|<< Genesis 35:17]]</td><td align="center" style="border:none;">[[Gen.35|Genesis 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.35.19|Genesis 35:19 >>]]</td></tr></table>
 

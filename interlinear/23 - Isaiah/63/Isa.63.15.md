@@ -1,8 +1,61 @@
+---
+title: Isaiah 63:15
+type: Verse
+kjv: "Look down from heaven, and behold from the habitation of thy holiness and of thy glory: where is thy zeal and thy strength, the sounding of thy bowels and of thy mercies toward me? are they restrained?"
+bsb: "Look down from heaven and see, from Your holy and glorious habitation. Where are Your zeal and might? Your yearning and compassion for me are restrained."
+hebrew: "הַבֵּ֤ט מִשָּׁמַ֙יִם֙ וּרְאֵ֔ה מִזְּבֻ֥ל קָדְשְׁךָ֖ וְתִפְאַרְתֶּ֑ךָ אַיֵּ֤ה קִנְאָֽתְךָ֙ וּגְב֣וּרֹתֶ֔ךָ הֲמ֥וֹן מֵעֶ֛יךָ וְֽרַחֲמֶ֖יךָ אֵלַ֥י הִתְאַפָּֽקוּ׃"
+pericope: "[[Isa.63.15 A Prayer for Mercy|A Prayer for Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic HEAVEN|HEAVEN]]"
+strongs:
+- "[[H5027]]"
+- "[[H9006]]"
+- "[[H8064]]"
+- "[[H9002]]"
+- "[[H7200G]]"
+- "[[H2073]]"
+- "[[H6944G]]"
+- "[[H9021]]"
+- "[[H8597]]"
+- "[[H0346]]"
+- "[[H7068]]"
+- "[[H1369]]"
+- "[[H1995A]]"
+- "[[H4578]]"
+- "[[H7356B]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H0662]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 63:15**<big><big>[[Isa.63.15 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Look down from heaven, and behold from the habitation of thy holiness and of thy glory: where [is] thy zeal and thy strength, the sounding of thy bowels and of thy mercies toward me? are they restrained?
 <small><sub>**BSB:**</sub></small>
 Look down from heaven and see, from Your holy and glorious habitation. Where are Your zeal and might? Your yearning and compassion for me are restrained.
+<small><sub>**Hebrew:**</sub></small>
+[[H5027\|הַבֵּ֤ט]] [[H9006\|מִ]][[H8064\|שָּׁמַ֙יִם֙]] [[H9002\|וּ]][[H7200G\|רְאֵ֔ה]] [[H9006\|מִ]][[H2073\|זְּבֻ֥ל]] [[H6944G\|קָדְשְׁ]][[H9021\|ךָ֖]] [[H9002\|וְ]][[H8597\|תִפְאַרְתֶּ֑]][[H9021\|ךָ]] [[H0346\|אַיֵּ֤ה]] [[H7068\|קִנְאָֽתְ]][[H9021\|ךָ֙]] [[H9002\|וּ]][[H1369\|גְב֣וּרֹתֶ֔]][[H9021\|ךָ]] [[H1995A\|הֲמ֥וֹן]] [[H4578\|מֵעֶ֛י]][[H9021\|ךָ]] [[H9002\|וְֽ]][[H7356B\|רַחֲמֶ֖י]][[H9021\|ךָ]] [[H0413\|אֵלַ֥]][[H9030\|י]] [[H0662\|הִתְאַפָּֽקוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic HEAVEN|HEAVEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.14|<< Isaiah 63:14]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.16|Isaiah 63:16 >>]]</td></tr></table>
 

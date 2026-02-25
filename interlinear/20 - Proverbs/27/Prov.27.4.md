@@ -1,8 +1,53 @@
+---
+title: Proverbs 27:4
+type: Verse
+kjv: "Wrath is cruel, and anger is outrageous; but who is able to stand before envy?"
+bsb: "Wrath is cruel and anger is like a flood, but who can withstand jealousy?"
+hebrew: "אַכְזְרִיּ֣וּת חֵ֭מָה וְשֶׁ֣טֶף אָ֑ף וּמִ֥י יַ֝עֲמֹד לִפְנֵ֥י קִנְאָֽה׃"
+pericope: "[[Prov.27.1 Do Not Boast about Tomorrow|Do Not Boast about Tomorrow]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 27
+book/chapter: "[[Prov.27|Proverbs 27]]"
+chronological_order: 482
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic ENVY|ENVY]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+strongs:
+- "[[H0395]]"
+- "[[H2534]]"
+- "[[H9002]]"
+- "[[H7858]]"
+- "[[H0639G]]"
+- "[[H4310]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H7068]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 27:4**<big><big>[[Prov.27.1 Do Not Boast about Tomorrow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wrath [is] cruel, and anger [is] outrageous; but who [is] able to stand before envy?
 <small><sub>**BSB:**</sub></small>
 Wrath is cruel and anger is like a flood, but who can withstand jealousy?
+<small><sub>**Hebrew:**</sub></small>
+[[H0395\|אַכְזְרִיּ֣וּת]] [[H2534\|חֵ֭מָה]] [[H9002\|וְ]][[H7858\|שֶׁ֣טֶף]] [[H0639G\|אָ֑ף]] [[H9002\|וּ]][[H4310\|מִ֥י]] [[H5975G\|יַ֝עֲמֹד]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H7068\|קִנְאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic ENVY|ENVY]] • [[topic JEALOUSY|JEALOUSY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.27.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.27.3|<< Proverbs 27:3]]</td><td align="center" style="border:none;">[[Prov.27|Proverbs 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.27.5|Proverbs 27:5 >>]]</td></tr></table>
 

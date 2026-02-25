@@ -1,8 +1,80 @@
+---
+title: 1 Kings 4:13
+type: Verse
+kjv: "The son of Geber, in Ramothgilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:"
+bsb: "Ben-geber in Ramoth-gilead (the villages of Jair son of Manasseh in Gilead belonged to him, as well as the region of Argob in Bashan with its sixty great cities with walls and bronze bars);"
+hebrew: "בֶּן־ גֶּ֖בֶר בְּרָמֹ֣ת גִּלְעָ֑ד ל֡וֹ חַוֹּת֩ יָאִ֨יר בֶּן־ מְנַשֶּׁ֜ה אֲשֶׁ֣ר בַּגִּלְעָ֗ד ל֚וֹ חֶ֤בֶל אַרְגֹּב֙ אֲשֶׁ֣ר בַּבָּשָׁ֔ן שִׁשִּׁים֙ עָרִ֣ים גְּדֹל֔וֹת חוֹמָ֖ה וּבְרִ֥יחַ נְחֹֽשֶׁת׃ ס"
+pericope: "[[1Kgs.4.7 Solomon’s Twelve Officers|Solomon’s Twelve Officers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 4
+book/chapter: "[[1Kgs.4|1 Kings 4]]"
+chronological_order: 444
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–966 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARGOB|ARGOB]]"
+- "[[topic BEN-GEBER (R. V.)|BEN-GEBER (R. V.)]]"
+- "[[topic BRASS|BRASS]]"
+- "[[topic CANAAN|CANAAN]]"
+- "[[topic COMMISSARY|COMMISSARY]]"
+- "[[topic GEBER|GEBER]]"
+- "[[topic JAIR|JAIR]]"
+- "[[topic KING|KING]]"
+- "[[topic OFFICER|OFFICER]]"
+- "[[topic PURVEYOR|PURVEYOR]]"
+- "[[topic RAMOTH-GILEAD|RAMOTH-GILEAD]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic TAX|TAX]]"
+strongs:
+- "[[H1127]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H7418G]]"
+- "[[H1568M]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H2333]]"
+- "[[H2971G]]"
+- "[[H1121A]]"
+- "[[H4519G]]"
+- "[[H0834A]]"
+- "[[H1568G]]"
+- "[[H2256M]]"
+- "[[H0709G]]"
+- "[[H1316]]"
+- "[[H8346]]"
+- "[[H5892B]]"
+- "[[H1419A]]"
+- "[[H2346G]]"
+- "[[H9002]]"
+- "[[H1280]]"
+- "[[H5178A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Kings 4:13**<big><big>[[1Kgs.4.7 Solomon’s Twelve Officers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The son of Geber, in Ramothgilead; to him [pertained] the towns of Jair the son of Manasseh, which [are] in Gilead; to him [also pertained] the region of Argob, which [is] in Bashan, threescore great cities with walls and brasen bars:
 <small><sub>**BSB:**</sub></small>
 Ben-geber in Ramoth-gilead (the villages of Jair son of Manasseh in Gilead belonged to him, as well as the region of Argob in Bashan with its sixty great cities with walls and bronze bars);
+<small><sub>**Hebrew:**</sub></small>
+[[H1127\|בֶּן]][[H9014\|־]] [[H1127\|גֶּ֖בֶר]] [[H9003\|בְּ]][[H7418G\|רָמֹ֣ת]] [[H1568M\|גִּלְעָ֑ד]] [[H9005\|ל֡]][[H9033\|וֹ]] [[H2333\|חַוֹּת֩]] [[H2971G\|יָאִ֨יר]] [[H1121A\|בֶּן]][[H9014\|־]] [[H4519G\|מְנַשֶּׁ֜ה]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H1568G\|גִּלְעָ֗ד]] [[H9005\|ל֚]][[H9033\|וֹ]] [[H2256M\|חֶ֤בֶל]] [[H0709G\|אַרְגֹּב֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H1316\|בָּשָׁ֔ן]] [[H8346\|שִׁשִּׁים֙]] [[H5892B\|עָרִ֣ים]] [[H1419A\|גְּדֹל֔וֹת]] [[H2346G\|חוֹמָ֖ה]] [[H9002\|וּ]][[H1280\|בְרִ֥יחַ]] [[H5178A\|נְחֹֽשֶׁת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARGOB|ARGOB]] • [[topic BEN-GEBER (R. V.)|BEN-GEBER (R. V.)]] • [[topic BRASS|BRASS]] • [[topic CANAAN|CANAAN]] • [[topic COMMISSARY|COMMISSARY]] • [[topic GEBER|GEBER]] • [[topic JAIR|JAIR]] • [[topic KING|KING]] • [[topic OFFICER|OFFICER]] • [[topic PURVEYOR|PURVEYOR]] • [[topic RAMOTH-GILEAD|RAMOTH-GILEAD]] • [[topic RULERS|RULERS]] • [[topic SOLOMON|SOLOMON]] • [[topic TAX|TAX]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.4.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.12|<< 1 Kings 4:12]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.14|1 Kings 4:14 >>]]</td></tr></table>
 
@@ -29,7 +101,7 @@ Ben-geber in Ramoth-gilead (the villages of Jair son of Manasseh in Gilead belon
 | large  |**<big>&#8207;[[H1419A\|גְּדֹל֔וֹת]]&#8207; </big>**| ge.do.Lot<small><sup>[[HAafpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | a wall  |**<big>&#8207;[[H2346G\|חוֹמָ֖ה]]&#8207; </big>**| cho.Mah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and bar[s] of  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1280\|בְרִ֥יחַ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> ve.Ri.ach<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| bronze  |**<big>&#8207;[[H5178A\|נְחֹֽשֶׁת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| bronze  |**<big>&#8207;[[H5178A\|נְחֹֽשֶׁת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ne.Cho.shet<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.4.12|<< 1 Kings 4:12]]</td><td align="center" style="border:none;">[[1Kgs.4|1 Kings 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.4.14|1 Kings 4:14 >>]]</td></tr></table>
 
 

@@ -1,8 +1,50 @@
+---
+title: Lamentations 3:38
+type: Verse
+kjv: "Out of the mouth of the most High proceedeth not evil and good?"
+bsb: "Do not both adversity and good come from the mouth of the Most High?"
+hebrew: "מִפִּ֤י עֶלְיוֹן֙ לֹ֣א תֵצֵ֔א הָרָע֖וֹת וְהַטּֽוֹב׃"
+pericope: "[[Lam.3.37 God’s Justice|God’s Justice]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9006]]"
+- "[[H6310G]]"
+- "[[H5945B]]"
+- "[[H3808]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H7451C]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Lamentations 3:38**<big><big>[[Lam.3.37 God’s Justice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Out of the mouth of the most High proceedeth not evil and good?
 <small><sub>**BSB:**</sub></small>
 Do not both adversity and good come from the mouth of the Most High?
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6310G\|פִּ֤י]] [[H5945B\|עֶלְיוֹן֙]] [[H3808\|לֹ֣א]] [[H3318G\|תֵצֵ֔א]] [[H9009\|הָ]][[H7451C\|רָע֖וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H2896A\|טּֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.37|<< Lamentations 3:37]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.39|Lamentations 3:39 >>]]</td></tr></table>
 

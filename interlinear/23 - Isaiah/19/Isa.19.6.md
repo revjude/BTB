@@ -1,8 +1,58 @@
+---
+title: Isaiah 19:6
+type: Verse
+kjv: "And they shall turn the rivers far away; and the brooks of defence shall be emptied and dried up: the reeds and flags shall wither."
+bsb: "The canals will stink; the streams of Egypt will trickle and dry up; the reeds and rushes will wither."
+hebrew: "וְהֶאֶזְנִ֣יחוּ נְהָר֔וֹת דָּלֲל֥וּ וְחָרְב֖וּ יְאֹרֵ֣י מָצ֑וֹר קָנֶ֥ה וָס֖וּף קָמֵֽלוּ׃"
+pericope: "[[Isa.19.1 The Burden against Egypt|The Burden against Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 19
+book/chapter: "[[Isa.19|Isaiah 19]]"
+chronological_order: 636
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Oracles Against the Nations"
+date: ~725–710 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic FLAG|FLAG]]"
+- "[[topic FLAX|FLAX]]"
+- "[[topic NILE|NILE]]"
+- "[[topic REED|REED]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H2186B]]"
+- "[[H5104H]]"
+- "[[H1809]]"
+- "[[H2717A]]"
+- "[[H2975G]]"
+- "[[H4693]]"
+- "[[H7070H]]"
+- "[[H9002]]"
+- "[[H5488H]]"
+- "[[H7060]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 19:6**<big><big>[[Isa.19.1 The Burden against Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall turn the rivers far away; [and] the brooks of defence shall be emptied and dried up: the reeds and flags shall wither.
 <small><sub>**BSB:**</sub></small>
 The canals will stink; the streams of Egypt will trickle and dry up; the reeds and rushes will wither.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H2186B\|הֶאֶזְנִ֣יחוּ]] [[H5104H\|נְהָר֔וֹת]] [[H1809\|דָּלֲל֥וּ]] [[H9001\|וְ]][[H2717A\|חָרְב֖וּ]] [[H2975G\|יְאֹרֵ֣י]] [[H4693\|מָצ֑וֹר]] [[H7070H\|קָנֶ֥ה]] [[H9002\|וָ]][[H5488H\|ס֖וּף]] [[H7060\|קָמֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic FLAG|FLAG]] • [[topic FLAX|FLAX]] • [[topic NILE|NILE]] • [[topic REED|REED]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.19.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.19.5|<< Isaiah 19:5]]</td><td align="center" style="border:none;">[[Isa.19|Isaiah 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.19.7|Isaiah 19:7 >>]]</td></tr></table>
 

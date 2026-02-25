@@ -1,8 +1,68 @@
+---
+title: Genesis 32:17
+type: Verse
+kjv: "And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose art thou? and whither goest thou? and whose are these before thee?"
+bsb: "He instructed the one in the lead, “When my brother Esau meets you and asks, ‘To whom do you belong, where are you going, and whose animals are these before you?’"
+hebrew: "וַיְצַ֥ו אֶת־ הָרִאשׁ֖וֹן לֵאמֹ֑ר כִּ֣י יִֽפְגָּשְׁךָ֞ עֵשָׂ֣ו אָחִ֗י וִשְׁאֵֽלְךָ֙ לֵאמֹ֔ר לְמִי־ אַ֙תָּה֙ וְאָ֣נָה תֵלֵ֔ךְ וּלְמִ֖י אֵ֥לֶּה לְפָנֶֽיךָ׃"
+pericope: "[[Gen.32.1 Jacob Prepares to Meet Esau|Jacob Prepares to Meet Esau]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 32
+book/chapter: "[[Gen.32|Genesis 32]]"
+chronological_order: 74
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H6298]]"
+- "[[H9031]]"
+- "[[H6215G]]"
+- "[[H0251G]]"
+- "[[H9020]]"
+- "[[H7592]]"
+- "[[H4310]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H0575]]"
+- "[[H1980G]]"
+- "[[H0428]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 32:17**<big><big>[[Gen.32.1 Jacob Prepares to Meet Esau|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose [art] thou? and whither goest thou? and whose [are] these before thee?
 <small><sub>**BSB:**</sub></small>
 He instructed the one in the lead, “When my brother Esau meets you and asks, ‘To whom do you belong, where are you going, and whose animals are these before you?’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6680\|יְצַ֥ו]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H7223G\|רִאשׁ֖וֹן]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3588A\|כִּ֣י]] [[H6298\|יִֽפְגָּשְׁ]][[H9031\|ךָ֞]] [[H6215G\|עֵשָׂ֣ו]] [[H0251G\|אָחִ֗]][[H9020\|י]] [[H9001\|וִ]][[H7592\|שְׁאֵֽלְ]][[H9031\|ךָ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H9005\|לְ]][[H4310\|מִי]][[H9014\|־]] [[H0859A\|אַ֙תָּה֙]] [[H9002\|וְ]][[H0575\|אָ֣נָה]] [[H1980G\|תֵלֵ֔ךְ]] [[H9002\|וּ]][[H9005\|לְ]][[H4310\|מִ֖י]] [[H0428\|אֵ֥לֶּה]] [[H9005\|לְ]][[H6440G\|פָנֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.32.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.32.16|<< Genesis 32:16]]</td><td align="center" style="border:none;">[[Gen.32|Genesis 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.32.18|Genesis 32:18 >>]]</td></tr></table>
 

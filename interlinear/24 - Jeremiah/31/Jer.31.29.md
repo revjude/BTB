@@ -1,8 +1,62 @@
+---
+title: Jeremiah 31:29
+type: Verse
+kjv: "In those days they shall say no more, The fathers have eaten a sour grape, and the children’s teeth are set on edge."
+bsb: "“In those days, it will no longer be said: ‘The fathers have eaten sour grapes, and the teeth of the children are set on edge.’"
+hebrew: "בַּיָּמִ֣ים הָהֵ֔ם לֹא־ יֹאמְר֣וּ ע֔וֹד אָב֖וֹת אָ֣כְלוּ בֹ֑סֶר וְשִׁנֵּ֥י בָנִ֖ים תִּקְהֶֽינָה׃"
+pericope: "[[Jer.31.26 The New Covenant|The New Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 31
+book/chapter: "[[Jer.31|Jeremiah 31]]"
+chronological_order: 754
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HEREDITY|HEREDITY]]"
+- "[[topic PROVERBS|PROVERBS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1992]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H5750]]"
+- "[[H0001G]]"
+- "[[H0398]]"
+- "[[H1155]]"
+- "[[H9002]]"
+- "[[H8127G]]"
+- "[[H1121A]]"
+- "[[H6949]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 31:29**<big><big>[[Jer.31.26 The New Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In those days they shall say no more, The fathers have eaten a sour grape, and the children’s teeth are set on edge.
 <small><sub>**BSB:**</sub></small>
 “In those days, it will no longer be said: ‘The fathers have eaten sour grapes, and the teeth of the children are set on edge.’
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יָּמִ֣ים]] [[H9009\|הָ]][[H1992\|הֵ֔ם]] [[H3808\|לֹא]][[H9014\|־]] [[H0559\|יֹאמְר֣וּ]] [[H5750\|ע֔וֹד]] [[H0001G\|אָב֖וֹת]] [[H0398\|אָ֣כְלוּ]] [[H1155\|בֹ֑סֶר]] [[H9002\|וְ]][[H8127G\|שִׁנֵּ֥י]] [[H1121A\|בָנִ֖ים]] [[H6949\|תִּקְהֶֽינָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic HEREDITY|HEREDITY]] • [[topic PROVERBS|PROVERBS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.31.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.31.28|<< Jeremiah 31:28]]</td><td align="center" style="border:none;">[[Jer.31|Jeremiah 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.31.30|Jeremiah 31:30 >>]]</td></tr></table>
 

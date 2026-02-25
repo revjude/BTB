@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter and John before the Sanhedrin
+type: Pericope
 pericope: "[[Acts.4.1 Peter and John before the Sanhedrin|Peter and John before the Sanhedrin]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Acts
 chapter: 4
 book/chapter: "[[Acts.4|Acts 4]]"
-genre:
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 12
 verses:
 - "[[Acts.4.1]]"
 - "[[Acts.4.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Acts.4.12]]"
 ---
 
-[[Acts.4|Acts 4:1 - Acts 4:12]]
+<small>[[Acts.4|Acts 4:1-12]]</small>
 *Peter and John before the Sanhedrin*
 
 [[Acts.4.1|1]] And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,

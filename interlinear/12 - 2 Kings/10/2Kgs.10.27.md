@@ -1,8 +1,69 @@
+---
+title: 2 Kings 10:27
+type: Verse
+kjv: "And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day."
+bsb: "They also demolished the sacred pillar of Baal. Then they tore down the temple of Baal and made it into a latrine, which it is to this day."
+hebrew: "וַֽיִּתְּצ֔וּ אֵ֖ת מַצְּבַ֣ת הַבָּ֑עַל וַֽיִּתְּצוּ֙ אֶת־ בֵּ֣ית הַבַּ֔עַל וַיְשִׂמֻ֥הוּ לְמֽוֹצָא֖וֹת עַד־ הַיּֽוֹם׃"
+pericope: "[[2Kgs.10.18 Jehu Kills the Priests of Baal|Jehu Kills the Priests of Baal]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 10
+book/chapter: "[[2Kgs.10|2 Kings 10]]"
+chronological_order: 583
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic ENTHUSIASM|ENTHUSIASM]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic INCONSISTENCY|INCONSISTENCY]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic MASSACRE|MASSACRE]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREACHERY|TREACHERY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5422]]"
+- "[[H0853]]"
+- "[[H4676]]"
+- "[[H9009]]"
+- "[[H1168A]]"
+- "[[H9014]]"
+- "[[H1004B]]"
+- "[[H7760A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H4280]]"
+- "[[H4163]]"
+- "[[H5704]]"
+- "[[H3117L]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 10:27**<big><big>[[2Kgs.10.18 Jehu Kills the Priests of Baal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day.
 <small><sub>**BSB:**</sub></small>
 They also demolished the sacred pillar of Baal. Then they tore down the temple of Baal and made it into a latrine, which it is to this day.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H5422\|יִּתְּצ֔וּ]] [[H0853\|אֵ֖ת]] [[H4676\|מַצְּבַ֣ת]] [[H9009\|הַ]][[H1168A\|בָּ֑עַל]] [[H9001\|וַֽ]][[H5422\|יִּתְּצוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H1168A\|בַּ֔עַל]] [[H9001\|וַ]][[H7760A\|יְשִׂמֻ֥]][[H9033\|הוּ]] [[H9005\|לְ]][[H4163\|מֽוֹצָא֖וֹת]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic ENTHUSIASM|ENTHUSIASM]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic INCONSISTENCY|INCONSISTENCY]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JEHU|JEHU]] • [[topic MASSACRE|MASSACRE]] • [[topic RELIGION|RELIGION]] • [[topic SAMARIA|SAMARIA]] • [[topic TEMPLE|TEMPLE]] • [[topic TREACHERY|TREACHERY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.10.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.26|<< 2 Kings 10:26]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.28|2 Kings 10:28 >>]]</td></tr></table>
 
@@ -22,7 +83,7 @@ They also demolished the sacred pillar of Baal. Then they tore down the temple o
 | this day  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H3117L\|יּֽוֹם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| hai.<small><sup>[[HTd]]</sup></small> Yom<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.10.26|<< 2 Kings 10:26]]</td><td align="center" style="border:none;">[[2Kgs.10|2 Kings 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.10.28|2 Kings 10:28 >>]]</td></tr></table>
 
-[^1]: \<into> latrines  | **<big>[[H4280|מַחֲרָאוֹת]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ma.cha.ra.'ot<small><sup>[[HNcfpa]]</sup></small> | K
-[^2]: \<into> latrines  | **<big>[[H4280|מַחֲרָאוֹת]]</big><big>[[H9005|לְ]]</big> ** | le.<small><sup>[[HR]]</sup></small> ma.cha.ra.'ot<small><sup>[[HNcfpa]]</sup></small> | K
+[^1]: \<into> latrines  | **<big>[[H9005|לְ]]</big><big>[[H4280|מַחֲרָאוֹת]]</big> ** | le.<small><sup>[[HR]]</sup></small> ma.cha.ra.'ot<small><sup>[[HNcfpa]]</sup></small> | K
+[^2]: \<into> latrines  | **<big>[[H9005|לְ]]</big><big>[[H4280|מַחֲרָאוֹת]]</big> ** | le.<small><sup>[[HR]]</sup></small> ma.cha.ra.'ot<small><sup>[[HNcfpa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>לְמֹֽחָרא֖וֹת</big></span>**
 

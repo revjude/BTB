@@ -1,10 +1,62 @@
+---
+title: Mark 1:6
+type: Verse
+kjv: "And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;"
+bsb: "John was clothed in camel’s hair, with a leather belt around his waist. His food was locusts and wild honey."
+greek: "καὶ ἦν δὲ ὁ Ἰωάννης ἐνδεδυμένος τρίχας καμήλου καὶ ζώνην δερματίνην περὶ τὴν ὀσφὺν αὐτοῦ καὶ ἐσθίων ἀκρίδας καὶ μέλι ἄγριον."
+pericope: "[[Mark.1.1 The Mission of John the Baptist|The Mission of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAMEL|CAMEL]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic LEATHER|LEATHER]]"
+- "[[topic LOCUST|LOCUST]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2491G]]"
+- "[[G1746]]"
+- "[[G2359]]"
+- "[[G2574]]"
+- "[[G2223]]"
+- "[[G1193]]"
+- "[[G4012]]"
+- "[[G3751]]"
+- "[[G0846]]"
+- "[[G2068]]"
+- "[[G0200]]"
+- "[[G3192]]"
+- "[[G0066]]"
+texts:
+- no
+- NKO
+- k
+---
+
 **Mark 1:6**<big><big>[[Mark.1.1 The Mission of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And John was clothed with camel’s hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;
 <small><sub>**BSB:**</sub></small>
 John was clothed in camel’s hair, with a leather belt around his waist. His food was locusts and wild honey.
-<small><sub>**Literal:**</sub></small>
-And was now <the> John having clothed himself in hair of a camel and a belt of leather around the waist of him and he is eating locusts and honey wild.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.5|<< Mark 1:5]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.7|Mark 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1510\|ἦν]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2491G\|Ἰωάννης]]  [[G1746\|ἐνδεδυμένος]]  [[G2359\|τρίχας]]  [[G2574\|καμήλου]]  [[G2532\|καὶ]]  [[G2223\|ζώνην]]  [[G1193\|δερματίνην]]  [[G4012\|περὶ]]  [[G3588\|τὴν]]  [[G3751\|ὀσφὺν]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G2068\|ἐσθίων]]  [[G0200\|ἀκρίδας]]  [[G2532\|καὶ]]  [[G3192\|μέλι]]  [[G0066\|ἄγριον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAMEL|CAMEL]] • [[topic JOHN|JOHN]] • [[topic LEATHER|LEATHER]] • [[topic LOCUST|LOCUST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.5|<< Mark 1:5]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.7|Mark 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

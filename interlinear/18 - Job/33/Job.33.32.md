@@ -1,8 +1,49 @@
+---
+title: Job 33:32
+type: Verse
+kjv: "If thou hast any thing to say, answer me: speak, for I desire to justify thee."
+bsb: "But if you have something to say, answer me; speak up, for I would like to vindicate you."
+hebrew: "אִם־ יֵשׁ־ מִלִּ֥ין הֲשִׁיבֵ֑נִי דַּ֝בֵּ֗ר כִּֽי־ חָפַ֥צְתִּי צַדְּקֶֽךָּ׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H4405]]"
+- "[[H7725M]]"
+- "[[H9030]]"
+- "[[H1696G]]"
+- "[[H3588A]]"
+- "[[H2654A]]"
+- "[[H6663]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:32**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou hast any thing to say, answer me: speak, for I desire to justify thee.
 <small><sub>**BSB:**</sub></small>
 But if you have something to say, answer me; speak up, for I would like to vindicate you.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H3426\|יֵשׁ]][[H9014\|־]] [[H4405\|מִלִּ֥ין]] [[H7725M\|הֲשִׁיבֵ֑]][[H9030\|נִי]] [[H1696G\|דַּ֝בֵּ֗ר]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H2654A\|חָפַ֥צְתִּי]] [[H6663\|צַדְּקֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.31|<< Job 33:31]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.33|Job 33:33 >>]]</td></tr></table>
 

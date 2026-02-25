@@ -1,10 +1,62 @@
+---
+title: Luke 5:33
+type: Verse
+kjv: "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?"
+bsb: "Then they said to Him, “John’s disciples and those of the Pharisees frequently fast and pray, but Yours keep on eating and drinking.”"
+greek: "οἱ δὲ εἶπαν πρὸς αὐτόν· διὰ τί οἱ μαθηταὶ Ἰωάννου νηστεύουσιν πυκνὰ καὶ δεήσεις ποιοῦνται, ὁμοίως καὶ οἱ τῶν Φαρισαίων, οἱ δὲ σοὶ ἐσθίουσιν καὶ πίνουσιν.¶"
+pericope: "[[Luke.5.33 Questions about Fasting|Questions about Fasting]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G1223]]"
+- "[[G5101]]"
+- "[[G3101]]"
+- "[[G2491G]]"
+- "[[G3522]]"
+- "[[G4437]]"
+- "[[G2532]]"
+- "[[G1162]]"
+- "[[G4160G]]"
+- "[[G3668]]"
+- "[[G5330]]"
+- "[[G4771]]"
+- "[[G2068]]"
+- "[[G4095]]"
+texts:
+- NKO
+- KO
+---
+
 **Luke 5:33**<big><big>[[Luke.5.33 Questions about Fasting|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise [the disciples] of the Pharisees; but thine eat and drink?
 <small><sub>**BSB:**</sub></small>
 Then they said to Him, “John’s disciples and those of the Pharisees frequently fast and pray, but Yours keep on eating and drinking.”
-<small><sub>**Literal:**</sub></small>
-<the> And they said to Him; through why The disciples of John fast often and prayers make, likewise also those of the Pharisees, those however of You eat and drink.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.32|<< Luke 5:32]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.34|Luke 5:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G2036\|εἶπαν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτόν·]]  [[G1223\|διὰ]]  [[G5101\|τί]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G2491G\|Ἰωάννου]]  [[G3522\|νηστεύουσιν]]  [[G4437\|πυκνὰ]]  [[G2532\|καὶ]]  [[G1162\|δεήσεις]]  [[G4160G\|ποιοῦνται,]]  [[G3668\|ὁμοίως]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων,]]  [[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G4771\|σοὶ]]  [[G2068\|ἐσθίουσιν]]  [[G2532\|καὶ]]  [[G4095\|πίνουσιν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.32|<< Luke 5:32]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.34|Luke 5:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

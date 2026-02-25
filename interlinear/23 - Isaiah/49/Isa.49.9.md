@@ -1,8 +1,65 @@
+---
+title: Isaiah 49:9
+type: Verse
+kjv: "That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places."
+bsb: "to say to the prisoners, ‘Come out,’ and to those in darkness, ‘Show yourselves.’ They will feed along the pathways, and find pasture on every barren hill."
+hebrew: "לֵאמֹ֤ר לַֽאֲסוּרִים֙ צֵ֔אוּ לַאֲשֶׁ֥ר בַּחֹ֖שֶׁךְ הִגָּל֑וּ עַל־ דְּרָכִ֣ים יִרְע֔וּ וּבְכָל־ שְׁפָיִ֖ים מַרְעִיתָֽם׃"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0631]]"
+- "[[H3318G]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H1540I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1870K]]"
+- "[[H7462B]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H8205]]"
+- "[[H4830]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 49:9**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That thou mayest say to the prisoners, Go forth; to them that [are] in darkness, Shew yourselves. They shall feed in the ways, and their pastures [shall be] in all high places.
 <small><sub>**BSB:**</sub></small>
 to say to the prisoners, ‘Come out,’ and to those in darkness, ‘Show yourselves.’ They will feed along the pathways, and find pasture on every barren hill.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לֵ]][[H0559\|אמֹ֤ר]] [[H9005\|לַֽ]][[H0631\|אֲסוּרִים֙]] [[H3318G\|צֵ֔אוּ]] [[H9005\|לַ]][[H0834A\|אֲשֶׁ֥ר]] [[H9003\|בַּ]][[H2822\|חֹ֖שֶׁךְ]] [[H1540I\|הִגָּל֑וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H1870K\|דְּרָכִ֣ים]] [[H7462B\|יִרְע֔וּ]] [[H9002\|וּ]][[H9003\|בְ]][[H3605\|כָל]][[H9014\|־]] [[H8205\|שְׁפָיִ֖ים]] [[H4830\|מַרְעִיתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic HEAVEN|HEAVEN]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic REGENERATION|REGENERATION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.8|<< Isaiah 49:8]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.10|Isaiah 49:10 >>]]</td></tr></table>
 

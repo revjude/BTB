@@ -1,10 +1,51 @@
+---
+title: Mark 6:39
+type: Verse
+kjv: "And he commanded them to make all sit down by companies upon the green grass."
+bsb: "Then Jesus directed them to have the people sit in groups on the green grass."
+greek: "καὶ ἐπέταξεν αὐτοῖς ἀνακλῖναι πάντας συμπόσια συμπόσια ἐπὶ τῷ χλωρῷ χόρτῳ."
+pericope: "[[Mark.6.30 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 6
+book/chapter: "[[Mark.6|Mark 6]]"
+chronological_order: 959
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2004]]"
+- "[[G0846]]"
+- "[[G0347]]"
+- "[[G3956]]"
+- "[[G4849]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5515]]"
+- "[[G5528]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Mark 6:39**<big><big>[[Mark.6.30 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he commanded them to make all sit down by companies upon the green grass.
 <small><sub>**BSB:**</sub></small>
 Then Jesus directed them to have the people sit in groups on the green grass.
-<small><sub>**Literal:**</sub></small>
-And He commanded them to recline all groups [by] groups on the green grass.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.38|<< Mark 6:38]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.40|Mark 6:40 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2004\|ἐπέταξεν]]  [[G0846\|αὐτοῖς]]  [[G0347\|ἀνακλῖναι]]  [[G3956\|πάντας]]  [[G4849\|συμπόσια]]  [[G4849\|συμπόσια]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G5515\|χλωρῷ]]  [[G5528\|χόρτῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.6.38|<< Mark 6:38]]</td><td align="center" style="border:none;">[[Mark.6|Mark 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.6.40|Mark 6:40 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

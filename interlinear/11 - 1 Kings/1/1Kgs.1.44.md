@@ -1,8 +1,68 @@
+---
+title: 1 Kings 1:44
+type: Verse
+kjv: "And the king hath sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king’s mule:"
+bsb: "And with Solomon, the king has sent Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada, along with the Cherethites and Pelethites, and they have set him on the king’s mule."
+hebrew: "וַיִּשְׁלַ֣ח אִתּֽוֹ־ הַ֠מֶּלֶךְ אֶת־ צָד֨וֹק הַכֹּהֵ֜ן וְאֶת־ נָתָ֣ן הַנָּבִ֗יא וּבְנָיָ֙הוּ֙ בֶּן־ יְה֣וֹיָדָ֔ע וְהַכְּרֵתִ֖י וְהַפְּלֵתִ֑י וַיַּרְכִּ֣בוּ אֹת֔וֹ עַ֖ל פִּרְדַּ֥ת הַמֶּֽלֶךְ׃"
+pericope: "[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|Adonijah Learns of Solomon’s Kingship]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 1
+book/chapter: "[[1Kgs.1|1 Kings 1]]"
+chronological_order: 441
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CHERETHITES|CHERETHITES]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic NATHAN|NATHAN]]"
+- "[[topic SOLOMON|SOLOMON]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0853]]"
+- "[[H6659G]]"
+- "[[H3548]]"
+- "[[H9002]]"
+- "[[H5416H]]"
+- "[[H5030]]"
+- "[[H1141G]]"
+- "[[H1121A]]"
+- "[[H3077G]]"
+- "[[H3774H]]"
+- "[[H6432]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H6506]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 1:44**<big><big>[[1Kgs.1.41 Adonijah Learns of Solomon’s Kingship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the king hath sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king’s mule:
 <small><sub>**BSB:**</sub></small>
 And with Solomon, the king has sent Zadok the priest, Nathan the prophet, and Benaiah son of Jehoiada, along with the Cherethites and Pelethites, and they have set him on the king’s mule.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֣ח]] [[H0854\|אִתּֽ]][[H9033\|וֹ]][[H9014\|־]] [[H9009\|הַ֠]][[H4428G\|מֶּלֶךְ]] [[H0853\|אֶת]][[H9014\|־]] [[H6659G\|צָד֨וֹק]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5416H\|נָתָ֣ן]] [[H9009\|הַ]][[H5030\|נָּבִ֗יא]] [[H9002\|וּ]][[H1141G\|בְנָיָ֙הוּ֙]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3077G\|יְה֣וֹיָדָ֔ע]] [[H9002\|וְ]][[H9009\|הַ]][[H3774H\|כְּרֵתִ֖י]] [[H9002\|וְ]][[H9009\|הַ]][[H6432\|פְּלֵתִ֑י]] [[H9001\|וַ]][[H7392\|יַּרְכִּ֣בוּ]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H5921A\|עַ֖ל]] [[H6506\|פִּרְדַּ֥ת]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERETHITES|CHERETHITES]] • [[topic JONATHAN|JONATHAN]] • [[topic NATHAN|NATHAN]] • [[topic SOLOMON|SOLOMON]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.1.44|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.1.43|<< 1 Kings 1:43]]</td><td align="center" style="border:none;">[[1Kgs.1|1 Kings 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.1.45|1 Kings 1:45 >>]]</td></tr></table>
 

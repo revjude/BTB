@@ -1,8 +1,59 @@
+---
+title: 1 Chronicles 8:9
+type: Verse
+kjv: "And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham,"
+bsb: "His sons by his wife Hodesh: Jobab, Zibia, Mesha, Malcam,"
+hebrew: "וַיּ֖וֹלֶד מִן־ חֹ֣דֶשׁ אִשְׁתּ֑וֹ אֶת־ יוֹבָב֙ וְאֶת־ צִבְיָ֔א וְאֶת־ מֵישָׁ֖א וְאֶת־ מַלְכָּֽם׃"
+pericope: "[[1Chr.8.1 Genealogy from Benjamin to Saul|Genealogy from Benjamin to Saul]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 8
+book/chapter: "[[1Chr.8|1 Chronicles 8]]"
+chronological_order: 327
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BAARA|BAARA]]"
+- "[[topic HODESH|HODESH]]"
+- "[[topic JOBAB|JOBAB]]"
+- "[[topic MALCHAM|MALCHAM]]"
+- "[[topic MESHA|MESHA]]"
+- "[[topic ZIBIA|ZIBIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H2321]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H0853]]"
+- "[[H3103J]]"
+- "[[H9002]]"
+- "[[H6644]]"
+- "[[H4331]]"
+- "[[H4445A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 8:9**<big><big>[[1Chr.8.1 Genealogy from Benjamin to Saul|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham,
 <small><sub>**BSB:**</sub></small>
 His sons by his wife Hodesh: Jobab, Zibia, Mesha, Malcam,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|יּ֖וֹלֶד]] [[H4480A\|מִן]][[H9014\|־]] [[H2321\|חֹ֣דֶשׁ]] [[H0802H\|אִשְׁתּ֑]][[H9023\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H3103J\|יוֹבָב֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6644\|צִבְיָ֔א]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4331\|מֵישָׁ֖א]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H4445A\|מַלְכָּֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAARA|BAARA]] • [[topic HODESH|HODESH]] • [[topic JOBAB|JOBAB]] • [[topic MALCHAM|MALCHAM]] • [[topic MESHA|MESHA]] • [[topic ZIBIA|ZIBIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.8.8|<< 1 Chronicles 8:8]]</td><td align="center" style="border:none;">[[1Chr.8|1 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.8.10|1 Chronicles 8:10 >>]]</td></tr></table>
 

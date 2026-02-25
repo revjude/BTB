@@ -1,10 +1,59 @@
+---
+title: Mark 10:23
+type: Verse
+kjv: "And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!"
+bsb: "Then Jesus looked around and said to His disciples, “How hard it is for the rich to enter the kingdom of God!”"
+jesus_said: "How hardly shall they that have riches enter into the kingdom of God!"
+greek: "καὶ περιβλεψάμενος ὁ Ἰησοῦς λέγει τοῖς μαθηταῖς αὐτοῦ· πῶς δυσκόλως οἱ τὰ χρήματα ἔχοντες εἰς τὴν βασιλείαν τοῦ θεοῦ εἰσελεύσονται."
+pericope: "[[Mark.10.17 The Rich Young Man|The Rich Young Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 10
+book/chapter: "[[Mark.10|Mark 10]]"
+chronological_order: 988
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic RICHES|RICHES]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G2532]]"
+- "[[G4017]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G3004G]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G4459]]"
+- "[[G1423]]"
+- "[[G5536]]"
+- "[[G2192]]"
+- "[[G1519]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G1525]]"
+texts:
+- NKO
+---
+
 **Mark 10:23**<big><big>[[Mark.10.17 The Rich Young Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus looked round about, and saith unto his disciples, How hardly shall they that have riches enter into the kingdom of God!
 <small><sub>**BSB:**</sub></small>
 Then Jesus looked around and said to His disciples, “How hard it is for the rich to enter the kingdom of God!”
-<small><sub>**Literal:**</sub></small>
-And having looked around <the> Jesus says to the disciples of Him; How difficultly those <the> riches having into the kingdom <the> of God will enter!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.22|<< Mark 10:22]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.24|Mark 10:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G4017\|περιβλεψάμενος]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G3004G\|λέγει]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G0846\|αὐτοῦ·]]  [[G4459\|πῶς]]  [[G1423\|δυσκόλως]]  [[G3588\|οἱ]]  [[G3588\|τὰ]]  [[G5536\|χρήματα]]  [[G2192\|ἔχοντες]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1525\|εἰσελεύσονται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic RICH, THE|RICH, THE]] • [[topic RICHES|RICHES]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.10.22|<< Mark 10:22]]</td><td align="center" style="border:none;">[[Mark.10|Mark 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.10.24|Mark 10:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

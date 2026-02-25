@@ -1,8 +1,60 @@
+---
+title: Job 5:27
+type: Verse
+kjv: "Lo this, we have searched it, so it is; hear it, and know thou it for thy good."
+bsb: "Indeed, we have investigated, and it is true! So hear it and know for yourself.”"
+hebrew: "הִנֵּה־ זֹ֭את חֲקַרְנ֥וּהָ כֶּֽן־ הִ֑יא שְׁ֝מָעֶ֗נָּה וְאַתָּ֥ה דַֽע־ לָֽךְ׃ פ"
+pericope: "[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|Eliphaz Continues：God Blesses those Who Seek Him]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 5
+book/chapter: "[[Job.5|Job 5]]"
+chronological_order: 16
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H2009]]"
+- "[[H9014]]"
+- "[[H2063]]"
+- "[[H2713]]"
+- "[[H9034]]"
+- "[[H3651C]]"
+- "[[H1931]]"
+- "[[H8085G]]"
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Job 5:27**<big><big>[[Job.5.1 Eliphaz Continues：God Blesses those Who Seek Him|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Lo this, we have searched it, so it [is]; hear it, and know thou [it] for thy good.
 <small><sub>**BSB:**</sub></small>
 Indeed, we have investigated, and it is true! So hear it and know for yourself.”
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּה]][[H9014\|־]] [[H2063\|זֹ֭את]] [[H2713\|חֲקַרְנ֥וּ]][[H9034\|הָ]] [[H3651C\|כֶּֽן]][[H9014\|־]] [[H1931\|הִ֑יא]] [[H8085G\|שְׁ֝מָעֶ֗]][[H9034\|נָּה]] [[H9002\|וְ]][[H0859A\|אַתָּ֥ה]] [[H3045\|דַֽע]][[H9014\|־]] [[H9005\|לָֽ]][[H9032\|ךְ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic FAITH|FAITH]] • [[topic HAPPINESS|HAPPINESS]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.26|<< Job 5:26]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.1|Job 6:1 >>]]</td></tr></table>
 
@@ -16,7 +68,7 @@ Indeed, we have investigated, and it is true! So hear it and know for yourself.�
 | hear it  |**<big>&#8207;[[H8085G\|שְׁ֝מָעֶ֗]]&#8207;&#8207;[[H9034\|נָּה]]&#8207; </big>**| She.ma.'E.<small><sup>[[HVqv2ms]]</sup></small> nah<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and you  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H0859A\|אַתָּ֥ה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Tah<small><sup>[[HPp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | know  |**<big>&#8207;[[H3045\|דַֽע]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| da'-<small><sup>[[HVqv2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| for yourself  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| for yourself  |**<big>&#8207;[[H9005\|לָֽ]]&#8207;&#8207;[[H9032\|ךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| La<small><sup>[[HR]]</sup></small> kh<small><sup>[[HSp2ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.5.26|<< Job 5:26]]</td><td align="center" style="border:none;">[[Job.5|Job 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.1|Job 6:1 >>]]</td></tr></table>
 
 

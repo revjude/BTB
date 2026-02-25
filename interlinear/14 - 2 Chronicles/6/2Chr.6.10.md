@@ -1,8 +1,69 @@
+---
+title: 2 Chronicles 6:10
+type: Verse
+kjv: "The LORD therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as the LORD promised, and have built the house for the name of the LORD God of Israel."
+bsb: "Now the LORD has fulfilled the word that He spoke. I have succeeded my father David, and I sit on the throne of Israel, as the LORD promised. I have built the house for the Name of the LORD, the God of Israel."
+hebrew: "וַיָּ֣קֶם יְהוָ֔ה אֶת־ דְּבָר֖וֹ אֲשֶׁ֣ר דִּבֵּ֑ר וָאָק֡וּם תַּחַת֩ דָּוִ֨יד אָבִ֜י וָאֵשֵׁ֣ב׀ עַל־ כִּסֵּ֣א יִשְׂרָאֵ֗ל כַּאֲשֶׁר֙ דִּבֶּ֣ר יְהוָ֔ה וָאֶבְנֶ֣ה הַבַּ֔יִת לְשֵׁ֥ם יְהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.6.1 Solomon Blesses the LORD|Solomon Blesses the LORD]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 6
+book/chapter: "[[2Chr.6|2 Chronicles 6]]"
+chronological_order: 495
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic GOD|GOD]]"
+- "[[topic THRONE|THRONE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1697J]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H1696I]]"
+- "[[H8478H]]"
+- "[[H1732]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H3427]]"
+- "[[H9015]]"
+- "[[H5921A]]"
+- "[[H3678G]]"
+- "[[H3478]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1129]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9005]]"
+- "[[H8034]]"
+- "[[H0430G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 6:10**<big><big>[[2Chr.6.1 Solomon Blesses the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as the LORD promised, and have built the house for the name of the LORD God of Israel.
 <small><sub>**BSB:**</sub></small>
 Now the LORD has fulfilled the word that He spoke. I have succeeded my father David, and I sit on the throne of Israel, as the LORD promised. I have built the house for the Name of the LORD, the God of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|יָּ֣קֶם]] [[H3068G\|יְהוָ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1697J\|דְּבָר֖]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁ֣ר]] [[H1696I\|דִּבֵּ֑ר]] [[H9001\|וָ]][[H6965I\|אָק֡וּם]] [[H8478H\|תַּחַת֩]] [[H1732\|דָּוִ֨יד]] [[H0001G\|אָבִ֜]][[H9020\|י]] [[H9001\|וָ]][[H3427\|אֵשֵׁ֣ב]][[H9015\|׀]] [[H5921A\|עַל]][[H9014\|־]] [[H3678G\|כִּסֵּ֣א]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁר֙]] [[H1696I\|דִּבֶּ֣ר]] [[H3068G\|יְהוָ֔ה]] [[H9001\|וָ]][[H1129\|אֶבְנֶ֣ה]] [[H9009\|הַ]][[H1004B\|בַּ֔יִת]] [[H9005\|לְ]][[H8034\|שֵׁ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic GOD|GOD]] • [[topic THRONE|THRONE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.6.9|<< 2 Chronicles 6:9]]</td><td align="center" style="border:none;">[[2Chr.6|2 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.6.11|2 Chronicles 6:11 >>]]</td></tr></table>
 

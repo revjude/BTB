@@ -1,10 +1,60 @@
+---
+title: Luke 11:54
+type: Verse
+kjv: "Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him."
+bsb: "waiting to catch Him in something He might say."
+greek: "ἐνεδρεύοντες αὐτὸν καὶ ζητοῦντες θηρεῦσαί τι ἐκ τοῦ στόματος αὐτοῦ ἵνα κατηγορήσωσιν αὐτοῦ.¶"
+pericope: "[[Luke.11.37 Woes to Pharisees and Experts in the Law|Woes to Pharisees and Experts in the Law]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic SATIRE|SATIRE]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[G1748]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2212]]"
+- "[[G2340]]"
+- "[[G5100]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G4750]]"
+- "[[G2443]]"
+- "[[G2723]]"
+texts:
+- NKO
+- K
+- KO
+---
+
 **Luke 11:54**<big><big>[[Luke.11.37 Woes to Pharisees and Experts in the Law|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him.
 <small><sub>**BSB:**</sub></small>
 waiting to catch Him in something He might say.
-<small><sub>**Literal:**</sub></small>
-watching Him and seeking to catch in something out of the mouth of Him so that they may accuse him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.53|<< Luke 11:53]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.1|Luke 12:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1748\|ἐνεδρεύοντες]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G2212\|ζητοῦντες]]  [[G2340\|θηρεῦσαί]]  [[G5100\|τι]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G0846\|αὐτοῦ]]  [[G2443\|ἵνα]]  [[G2723\|κατηγορήσωσιν]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALICE|MALICE]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PHARISEES|PHARISEES]] • [[topic REPROOF|REPROOF]] • [[topic SATIRE|SATIRE]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.53|<< Luke 11:53]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.12.1|Luke 12:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

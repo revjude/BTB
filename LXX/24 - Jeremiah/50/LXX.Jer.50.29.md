@@ -1,6 +1,72 @@
+---
+title: LXX Jeremiah 50:29
+type: Verse
+lxx: "Exhort many against Babylon! to every one stretching tight the bow. Camp upon her round about! Let there not be her escaping! Recompense to her according to  her works! According to all as much as she did, you do to her! For she withstood against the lord God, the holy one of Israel."
+greek: "παραγγείλατε επί Βαβυλώνα πολλοίς παντί εντείνοντι τόξον παρεμβάλλετε επ΄ αυτήν κυκλόθεν μη έστω αυτής ανασωζόμενος ανταπόδοτε αυτή κατά τα έργα αυτής κατά πάντα όσα εποίησε ποιήσατε αυτή ότι προς τον κύριον αντέστη θεόν άγιον Ισραήλ"
+original_language: Greek
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+strongs:
+- "[[G3853]]"
+- "[[G1909]]"
+- "[[G0897]]"
+- "[[G4183]]"
+- "[[G3956]]"
+- "[[G7265]]"
+- "[[G5115]]"
+- "[[G6070]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2943]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G1473]]"
+- "[[G6314]]"
+- "[[G0467]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G2041]]"
+- "[[G1473]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G4160]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G3754]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G0436]]"
+- "[[G2316]]"
+- "[[G0039]]"
+- "[[G2474]]"
+---
+
 **LXX Jeremiah 50:29** 
 <small><sub>**LXX:**</sub></small>
 Exhort many against Babylon! to every one stretching tight \[the\] bow. Camp upon her round about! Let there not be her escaping! Recompense to her according to  her works! According to all as much as she did, you do to her! For she withstood against the <span class="smallcaps">lord</span> God, \[the\] holy one of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G3853\|παραγγείλατε]] [[G1909\|επί]] [[G0897\|Βαβυλώνα]] [[G4183\|πολλοίς]] [[G3956\|παντί]] [[G7265\|εντείνοντι]] [[G5115\|τόξον]] [[G6070\|παρεμβάλλετε]] [[G1909\|επ΄]] [[G1473\|αυτήν]] [[G2943\|κυκλόθεν]] [[G3361\|μη]] [[G1510\|έστω]] [[G1473\|αυτής]] [[G6314\|ανασωζόμενος]] [[G0467\|ανταπόδοτε]] [[G1473\|αυτή]] [[G2596\|κατά]] [[G3588\|τα]] [[G2041\|έργα]] [[G1473\|αυτής]] [[G2596\|κατά]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G4160\|εποίησε]] [[G4160\|ποιήσατε]] [[G1473\|αυτή]] [[G3754\|ότι]] [[G4314\|προς]] [[G3588\|τον]] [[G2962\|κύριον]] [[G0436\|αντέστη]] [[G2316\|θεόν]] [[G0039\|άγιον]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Jer.50.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.28|<< Jeremiah 50:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.30|Jeremiah 50:30 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -44,6 +110,6 @@ Exhort many against Babylon! to every one stretching tight \[the\] bow. Camp upo
 | God, | **<big>[[G2316\|θεόν]]</big>** |
 | \[the\] holy one | **<big>[[G0039\|άγιον]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Jer.50.29|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.28|<< Jeremiah 50:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.30|Jeremiah 50:30 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Jer.50.28|<< Jeremiah 50:28]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Jer.50.30|Jeremiah 50:30 >>]]</td></tr></table>
 
 

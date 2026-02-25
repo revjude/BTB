@@ -1,10 +1,66 @@
+---
+title: Acts 4:17
+type: Verse
+kjv: "But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name."
+bsb: "But to keep this message from spreading any further among the people, we must warn them not to speak to anyone in this name.”"
+greek: "ἀλλ᾽ ἵνα μὴ ἐπὶ πλεῖον διανεμηθῇ εἰς τὸν λαόν, ἀπειλῇ ἀπειλησώμεθα αὐτοῖς μηκέτι λαλεῖν ἐπὶ τῷ ὀνόματι τούτῳ μηδενὶ ἀνθρώπων."
+pericope: "[[Acts.4.13 The Name Forbidden|The Name Forbidden]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 4
+book/chapter: "[[Acts.4|Acts 4]]"
+chronological_order: 1022
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CAIAPHAS|CAIAPHAS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G0235]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G1909]]"
+- "[[G4119]]"
+- "[[G1268]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G2992]]"
+- "[[G0547]]"
+- "[[G0546]]"
+- "[[G0846]]"
+- "[[G3371]]"
+- "[[G2980]]"
+- "[[G3686]]"
+- "[[G3778]]"
+- "[[G3367]]"
+- "[[G0444]]"
+texts:
+- NKO
+- K
+- NK(o)
+---
+
 **Acts 4:17**<big><big>[[Acts.4.13 The Name Forbidden|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name.
 <small><sub>**BSB:**</sub></small>
 But to keep this message from spreading any further among the people, we must warn them not to speak to anyone in this name.”
-<small><sub>**Literal:**</sub></small>
-But that not on further it may spread among the people, threats let us warn them no longer to speak in <the> name this to no man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.16|<< Acts 4:16]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.18|Acts 4:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G1909\|ἐπὶ]]  [[G4119\|πλεῖον]]  [[G1268\|διανεμηθῇ]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2992\|λαόν,]]  [[G0547\|ἀπειλῇ]]  [[G0546\|ἀπειλησώμεθα]]  [[G0846\|αὐτοῖς]]  [[G3371\|μηκέτι]]  [[G2980\|λαλεῖν]]  [[G1909\|ἐπὶ]]  [[G3588\|τῷ]]  [[G3686\|ὀνόματι]]  [[G3778\|τούτῳ]]  [[G3367\|μηδενὶ]]  [[G0444\|ἀνθρώπων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAIAPHAS|CAIAPHAS]] • [[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JOHN|JOHN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.4.16|<< Acts 4:16]]</td><td align="center" style="border:none;">[[Acts.4|Acts 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.4.18|Acts 4:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

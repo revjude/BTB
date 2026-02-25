@@ -1,8 +1,73 @@
+---
+title: 1 Samuel 2:13
+type: Verse
+kjv: "And the priests’ custom with the people was, that, when any man offered sacrifice, the priest’s servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;"
+bsb: "or for the custom of the priests with the people. When any man offered a sacrifice, the servant of the priest would come with a three-pronged meat fork while the meat was boiling"
+hebrew: "וּמִשְׁפַּ֥ט הַכֹּהֲנִ֖ים אֶת־ הָעָ֑ם כָּל־ אִ֞ישׁ זֹבֵ֣חַ זֶ֗בַח וּבָ֨א נַ֤עַר הַכֹּהֵן֙ כְּבַשֵּׁ֣ל הַבָּשָׂ֔ר וְהַמַּזְלֵ֛ג שְׁלֹ֥שׁ־ הַשִּׁנַּ֖יִם בְּיָדֽוֹ׃"
+pericope: "[[1Sam.2.12 Eli’s Wicked Sons|Eli’s Wicked Sons]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 2
+book/chapter: "[[1Sam.2|1 Samuel 2]]"
+chronological_order: 281
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic FLESHHOOK|FLESHHOOK]]"
+- "[[topic GLUTTONY|GLUTTONY]]"
+- "[[topic HOPHNI|HOPHNI]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4941J]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0854]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H3605]]"
+- "[[H0376G]]"
+- "[[H2076]]"
+- "[[H2077]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5288]]"
+- "[[H9004]]"
+- "[[H1310]]"
+- "[[H1320]]"
+- "[[H4207A]]"
+- "[[H7969]]"
+- "[[H8127J]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 2:13**<big><big>[[1Sam.2.12 Eli’s Wicked Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the priests’ custom with the people [was, that], when any man offered sacrifice, the priest’s servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;
 <small><sub>**BSB:**</sub></small>
 or for the custom of the priests with the people. When any man offered a sacrifice, the servant of the priest would come with a three-pronged meat fork while the meat was boiling
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4941J\|מִשְׁפַּ֥ט]] [[H9009\|הַ]][[H3548\|כֹּהֲנִ֖ים]] [[H0854\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H3605\|כָּל]][[H9014\|־]] [[H0376G\|אִ֞ישׁ]] [[H2076\|זֹבֵ֣חַ]] [[H2077\|זֶ֗בַח]] [[H9001\|וּ]][[H0935G\|בָ֨א]] [[H5288\|נַ֤עַר]] [[H9009\|הַ]][[H3548\|כֹּהֵן֙]] [[H9004\|כְּ]][[H1310\|בַשֵּׁ֣ל]] [[H9009\|הַ]][[H1320\|בָּשָׂ֔ר]] [[H9002\|וְ]][[H9009\|הַ]][[H4207A\|מַּזְלֵ֛ג]] [[H7969\|שְׁלֹ֥שׁ]][[H9014\|־]] [[H9009\|הַ]][[H8127J\|שִּׁנַּ֖יִם]] [[H9003\|בְּ]][[H3027G\|יָדֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic FLESHHOOK|FLESHHOOK]] • [[topic GLUTTONY|GLUTTONY]] • [[topic HOPHNI|HOPHNI]] • [[topic JUDGE|JUDGE]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]] • [[topic RULERS|RULERS]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.2.12|<< 1 Samuel 2:12]]</td><td align="center" style="border:none;">[[1Sam.2|1 Samuel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.2.14|1 Samuel 2:14 >>]]</td></tr></table>
 

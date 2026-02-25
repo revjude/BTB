@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 7:21
+type: Verse
+kjv: "Thou shalt not be affrighted at them: for the LORD thy God is among you, a mighty God and terrible."
+bsb: "Do not be terrified by them, for the LORD your God, who is among you, is a great and awesome God."
+hebrew: "לֹ֥א תַעֲרֹ֖ץ מִפְּנֵיהֶ֑ם כִּֽי־ יְהוָ֤ה אֱלֹהֶ֙יךָ֙ בְּקִרְבֶּ֔ךָ אֵ֥ל גָּד֖וֹל וְנוֹרָֽא׃"
+pericope: "[[Deut.7.12 The Promises of God|The Promises of God]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3808]]"
+- "[[H6206]]"
+- "[[H9006]]"
+- "[[H6440L]]"
+- "[[H9028]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H0410G]]"
+- "[[H1419A]]"
+- "[[H9002]]"
+- "[[H3372H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:21**<big><big>[[Deut.7.12 The Promises of God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not be affrighted at them: for the LORD thy God [is] among you, a mighty God and terrible.
 <small><sub>**BSB:**</sub></small>
 Do not be terrified by them, for the LORD your God, who is among you, is a great and awesome God.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֥א]] [[H6206\|תַעֲרֹ֖ץ]] [[H9006\|מִ]][[H6440L\|פְּנֵי]][[H9028\|הֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H9003\|בְּ]][[H7130G\|קִרְבֶּ֔]][[H9021\|ךָ]] [[H0410G\|אֵ֥ל]] [[H1419A\|גָּד֖וֹל]] [[H9002\|וְ]][[H3372H\|נוֹרָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.7.20|<< Deuteronomy 7:20]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.22|Deuteronomy 7:22 >>]]</td></tr></table>
 

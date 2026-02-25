@@ -1,8 +1,61 @@
+---
+title: Ezekiel 16:42
+type: Verse
+kjv: "So will I make my fury toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry."
+bsb: "So I will lay to rest My wrath against you, and My jealousy will turn away from you. Then I will be calm and no longer angry."
+hebrew: "וַהֲנִחֹתִ֤י חֲמָתִי֙ בָּ֔ךְ וְסָ֥רָה קִנְאָתִ֖י מִמֵּ֑ךְ וְשָׁ֣קַטְתִּ֔י וְלֹ֥א אֶכְעַ֖ס עֽוֹד׃"
+pericope: "[[Ezek.16.35 Judgment on Jerusalem|Judgment on Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 16
+book/chapter: "[[Ezek.16|Ezekiel 16]]"
+chronological_order: 807
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HIGH PLACES|HIGH PLACES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5117]]"
+- "[[H2534]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H9032]]"
+- "[[H5493H]]"
+- "[[H7068]]"
+- "[[H4480A]]"
+- "[[H8252]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3707]]"
+- "[[H5750]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 16:42**<big><big>[[Ezek.16.35 Judgment on Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So will I make my fury toward thee to rest, and my jealousy shall depart from thee, and I will be quiet, and will be no more angry.
 <small><sub>**BSB:**</sub></small>
 So I will lay to rest My wrath against you, and My jealousy will turn away from you. Then I will be calm and no longer angry.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5117\|הֲנִחֹתִ֤י]] [[H2534\|חֲמָתִ]][[H9020\|י֙]] [[H9003\|בָּ֔]][[H9032\|ךְ]] [[H9001\|וְ]][[H5493H\|סָ֥רָה]] [[H7068\|קִנְאָתִ֖]][[H9020\|י]] [[H4480A\|מִמֵּ֑]][[H9032\|ךְ]] [[H9001\|וְ]][[H8252\|שָׁ֣קַטְתִּ֔י]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H3707\|אֶכְעַ֖ס]] [[H5750\|עֽוֹד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HIGH PLACES|HIGH PLACES]] • [[topic JEALOUSY|JEALOUSY]] • [[topic LASCIVIOUSNESS|LASCIVIOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.16.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.16.41|<< Ezekiel 16:41]]</td><td align="center" style="border:none;">[[Ezek.16|Ezekiel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.16.43|Ezekiel 16:43 >>]]</td></tr></table>
 

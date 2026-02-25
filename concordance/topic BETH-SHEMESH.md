@@ -9,7 +9,7 @@
 
 - Mentioned in Solomon's commission districts [[1Kgs.4.9|1Ki 4:9]]
 
-- Amaziah taken prisoner at [[2Kgs.14.11|2Ki 14:11]]-[[2Kgs.14.13|13]]; [[2Chr.25.21|2Ch 25:21]]-[[2Chr.25.23|23]]
+- Amaziah taken prisoner at [[2Kgs.14.11|2Ki 14:11-13]]; [[2Chr.25.21|2Ch 25:21-23]]
 
 - Retaken by the Philistines [[2Chr.28.18|2Ch 28:18]]
 

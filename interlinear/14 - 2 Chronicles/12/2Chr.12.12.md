@@ -1,8 +1,64 @@
+---
+title: 2 Chronicles 12:12
+type: Verse
+kjv: "And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy him altogether: and also in Judah things went well."
+bsb: "Because Rehoboam humbled himself, the anger of the LORD turned away from him, and He did not destroy him completely. Indeed, conditions were good in Judah."
+hebrew: "וּבְהִכָּֽנְע֗וֹ שָׁ֤ב מִמֶּ֙נּוּ֙ אַף־ יְהוָ֔ה וְלֹ֥א לְהַשְׁחִ֖ית לְכָלָ֑ה וְגַם֙ בִּֽיהוּדָ֔ה הָיָ֖ה דְּבָרִ֥ים טוֹבִֽים׃ ס"
+pericope: "[[2Chr.12.1 Shishak Raids Jerusalem|Shishak Raids Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 12
+book/chapter: "[[2Chr.12|2 Chronicles 12]]"
+chronological_order: 558
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3665]]"
+- "[[H9043]]"
+- "[[H7725I]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H0639G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H9005]]"
+- "[[H7843]]"
+- "[[H3617]]"
+- "[[H1571]]"
+- "[[H3063G]]"
+- "[[H1961]]"
+- "[[H1697I]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Chronicles 12:12**<big><big>[[2Chr.12.1 Shishak Raids Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy [him] altogether: and also in Judah things went well.
 <small><sub>**BSB:**</sub></small>
 Because Rehoboam humbled himself, the anger of the LORD turned away from him, and He did not destroy him completely. Indeed, conditions were good in Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3665\|הִכָּֽנְע֗]][[H9043\|וֹ]] [[H7725I\|שָׁ֤ב]] [[H4480A\|מִמֶּ֙]][[H9033\|נּוּ֙]] [[H0639G\|אַף]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H9005\|לְ]][[H7843\|הַשְׁחִ֖ית]] [[H9005\|לְ]][[H3617\|כָלָ֑ה]] [[H9002\|וְ]][[H1571\|גַם֙]] [[H9003\|בִּֽ]][[H3063G\|יהוּדָ֔ה]] [[H1961\|הָיָ֖ה]] [[H1697I\|דְּבָרִ֥ים]] [[H2896A\|טוֹבִֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REPENTANCE|REPENTANCE]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.11|<< 2 Chronicles 12:11]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.13|2 Chronicles 12:13 >>]]</td></tr></table>
 
@@ -20,7 +76,7 @@ Because Rehoboam humbled himself, the anger of the LORD turned away from him, an
 | in Judah  |**<big>&#8207;[[H9003\|בִּֽ]]&#8207;&#8207;[[H3063G\|יהוּדָ֔ה]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> hu.Dah<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | it was  |**<big>&#8207;[[H1961\|הָיָ֖ה]]&#8207; </big>**| ha.Yah<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | things  |**<big>&#8207;[[H1697I\|דְּבָרִ֥ים]]&#8207; </big>**| de.va.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| good  |**<big>&#8207;[[H2896A\|טוֹבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| good  |**<big>&#8207;[[H2896A\|טוֹבִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| to.Vim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.12.11|<< 2 Chronicles 12:11]]</td><td align="center" style="border:none;">[[2Chr.12|2 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.12.13|2 Chronicles 12:13 >>]]</td></tr></table>
 
 

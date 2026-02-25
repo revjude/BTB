@@ -1,8 +1,59 @@
+---
+title: Psalm 78:10
+type: Verse
+kjv: "They kept not the covenant of God, and refused to walk in his law;"
+bsb: "They failed to keep God’s covenant and refused to live by His law."
+hebrew: "לֹ֣א שָׁ֭מְרוּ בְּרִ֣ית אֱלֹהִ֑ים וּ֝בְתוֹרָת֗וֹ מֵאֲנ֥וּ לָלֶֽכֶת׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SELF-WILL|SELF-WILL]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3808]]"
+- "[[H8104G]]"
+- "[[H1285]]"
+- "[[H0430G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8451]]"
+- "[[H9023]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:10**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They kept not the covenant of God, and refused to walk in his law;
 <small><sub>**BSB:**</sub></small>
 They failed to keep God’s covenant and refused to live by His law.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֣א]] [[H8104G\|שָׁ֭מְרוּ]] [[H1285\|בְּרִ֣ית]] [[H0430G\|אֱלֹהִ֑ים]] [[H9002\|וּ֝]][[H9003\|בְ]][[H8451\|תוֹרָת֗]][[H9023\|וֹ]] [[H3985\|מֵאֲנ֥וּ]] [[H9005\|לָ]][[H1980I\|לֶֽכֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic SELF-WILL|SELF-WILL]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.9|<< Psalms 78:9]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.11|Psalms 78:11 >>]]</td></tr></table>
 

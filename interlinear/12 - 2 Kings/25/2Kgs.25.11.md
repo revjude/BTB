@@ -1,8 +1,63 @@
+---
+title: 2 Kings 25:11
+type: Verse
+kjv: "Now the rest of the people that were left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzaradan the captain of the guard carry away."
+bsb: "Then Nebuzaradan captain of the guard carried into exile the people who remained in the city, along with the deserters who had defected to the king of Babylon and the rest of the population."
+hebrew: "וְאֵת֩ יֶ֨תֶר הָעָ֜ם הַנִּשְׁאָרִ֣ים בָּעִ֗יר וְאֶת־ הַנֹּֽפְלִים֙ אֲשֶׁ֤ר נָפְלוּ֙ עַל־ הַמֶּ֣לֶךְ בָּבֶ֔ל וְאֵ֖ת יֶ֣תֶר הֶהָמ֑וֹן הֶגְלָ֕ה נְבוּזַרְאֲדָ֖ן רַב־ טַבָּחִֽים׃"
+pericope: "[[2Kgs.25.8 The Temple Destroyed|The Temple Destroyed]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H3499A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H7604]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H9014]]"
+- "[[H5307H]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H1995A]]"
+- "[[H1540K]]"
+- "[[H5018]]"
+- "[[H7227B]]"
+- "[[H2876]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:11**<big><big>[[2Kgs.25.8 The Temple Destroyed|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the rest of the people [that were] left in the city, and the fugitives that fell away to the king of Babylon, with the remnant of the multitude, did Nebuzaradan the captain of the guard carry away.
 <small><sub>**BSB:**</sub></small>
 Then Nebuzaradan captain of the guard carried into exile the people who remained in the city, along with the deserters who had defected to the king of Babylon and the rest of the population.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֵת֩]] [[H3499A\|יֶ֨תֶר]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֣ים]] [[H9003\|בָּ]][[H5892B\|עִ֗יר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5307H\|נֹּֽפְלִים֙]] [[H0834A\|אֲשֶׁ֤ר]] [[H5307H\|נָפְלוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֣לֶךְ]] [[H0894\|בָּבֶ֔ל]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3499A\|יֶ֣תֶר]] [[H9009\|הֶ]][[H1995A\|הָמ֑וֹן]] [[H1540K\|הֶגְלָ֕ה]] [[H5018\|נְבוּזַרְאֲדָ֖ן]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JERUSALEM|JERUSALEM]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PROPHECY|PROPHECY]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.10|<< 2 Kings 25:10]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.12|2 Kings 25:12 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Nehemiah 7:70
+type: Verse
+kjv: "And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests’ garments."
+bsb: "Some of the heads of the families contributed to the project. The governor gave to the treasury 1,000 darics of gold, 50 bowls, and 530 priestly garments."
+hebrew: "וּמִקְצָת֙ רָאשֵׁ֣י הָֽאָב֔וֹת נָתְנ֖וּ לַמְּלָאכָ֑ה הַתִּרְשָׁ֜תָא נָתַ֣ן לָאוֹצָ֗ר זָהָ֞ב דַּרְכְּמֹנִ֥ים אֶ֙לֶף֙ מִזְרָק֣וֹת חֲמִשִּׁ֔ים כָּתְנוֹת֙ כֹּֽהֲנִ֔ים שְׁלֹשִׁ֖ים וַחֲמֵ֥שׁ מֵאֽוֹת׃"
+pericope: "[[Neh.7.70 Offerings by the Exiles|Offerings by the Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DRAM|DRAM]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TIRSHATHA|TIRSHATHA]]"
+strongs:
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H7117]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0001G]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H4399]]"
+- "[[H8660]]"
+- "[[H0214]]"
+- "[[H2091]]"
+- "[[H1871]]"
+- "[[H0505G]]"
+- "[[H4219]]"
+- "[[H2572]]"
+- "[[H3801]]"
+- "[[H3548]]"
+- "[[H7970]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 7:70**<big><big>[[Neh.7.70 Offerings by the Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basons, five hundred and thirty priests’ garments.
 <small><sub>**BSB:**</sub></small>
 Some of the heads of the families contributed to the project. The governor gave to the treasury 1,000 darics of gold, 50 bowls, and 530 priestly garments.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9006\|מִ]][[H7117\|קְצָת֙]] [[H7218H\|רָאשֵׁ֣י]] [[H9009\|הָֽ]][[H0001G\|אָב֔וֹת]] [[H5414G\|נָתְנ֖וּ]] [[H9005\|לַ]][[H4399\|מְּלָאכָ֑ה]] [[H9009\|הַ]][[H8660\|תִּרְשָׁ֜תָא]] [[H5414G\|נָתַ֣ן]] [[H9005\|לָ]][[H0214\|אוֹצָ֗ר]] [[H2091\|זָהָ֞ב]] [[H1871\|דַּרְכְּמֹנִ֥ים]] [[H0505G\|אֶ֙לֶף֙]] [[H4219\|מִזְרָק֣וֹת]] [[H2572\|חֲמִשִּׁ֔ים]] [[H3801\|כָּתְנוֹת֙]] [[H3548\|כֹּֽהֲנִ֔ים]] [[H7970\|שְׁלֹשִׁ֖ים]] [[H9002\|וַ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DRAM|DRAM]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic PRIEST|PRIEST]] • [[topic TEMPLE|TEMPLE]] • [[topic TIRSHATHA|TIRSHATHA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.70|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.69|<< Nehemiah 7:69]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.71|Nehemiah 7:71 >>]]</td></tr></table>
 

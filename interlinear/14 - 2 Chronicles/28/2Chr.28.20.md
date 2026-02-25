@@ -1,8 +1,54 @@
+---
+title: 2 Chronicles 28:20
+type: Verse
+kjv: "And Tilgathpilneser king of Assyria came unto him, and distressed him, but strengthened him not."
+bsb: "Then Tiglath-pileser king of Assyria came to Ahaz but afflicted him rather than strengthening him."
+hebrew: "וַיָּבֹ֣א עָלָ֔יו תִּלְּגַ֥ת פִּלְנְאֶ֖סֶר מֶ֣לֶךְ אַשּׁ֑וּר וַיָּ֥צַר ל֖וֹ וְלֹ֥א חֲזָקֽוֹ׃"
+pericope: "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic TIGLATH-PILESER|TIGLATH-PILESER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H8407]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H6887B]]"
+- "[[H9005]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H2388G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:20**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Tilgathpilneser king of Assyria came unto him, and distressed him, but strengthened him not.
 <small><sub>**BSB:**</sub></small>
 Then Tiglath-pileser king of Assyria came to Ahaz but afflicted him rather than strengthening him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֣א]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H8407\|תִּלְּגַ֥ת]] [[H8407\|פִּלְנְאֶ֖סֶר]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֑וּר]] [[H9001\|וַ]][[H6887B\|יָּ֥צַר]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H2388G\|חֲזָקֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic TIGLATH-PILESER|TIGLATH-PILESER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.19|<< 2 Chronicles 28:19]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.21|2 Chronicles 28:21 >>]]</td></tr></table>
 

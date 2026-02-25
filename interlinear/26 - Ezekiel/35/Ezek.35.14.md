@@ -1,8 +1,54 @@
+---
+title: Ezekiel 35:14
+type: Verse
+kjv: "Thus saith the Lord GOD; When the whole earth rejoiceth, I will make thee desolate."
+bsb: "This is what the Lord GOD says: While the whole earth rejoices, I will make you desolate."
+hebrew: "כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה כִּשְׂמֹ֙חַ֙ כָּל־ הָאָ֔רֶץ שְׁמָמָ֖ה אֶעֱשֶׂה־ לָּֽךְ׃"
+pericope: "[[Ezek.35.1 A Prophecy against Mount Seir|A Prophecy against Mount Seir]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 35
+book/chapter: "[[Ezek.35|Ezekiel 35]]"
+chronological_order: 826
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9004]]"
+- "[[H8055]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H8077A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 35:14**<big><big>[[Ezek.35.1 A Prophecy against Mount Seir|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the Lord GOD; When the whole earth rejoiceth, I will make thee desolate.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD says: While the whole earth rejoices, I will make you desolate.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9004\|כִּ]][[H8055\|שְׂמֹ֙חַ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H8077A\|שְׁמָמָ֖ה]] [[H6213H\|אֶעֱשֶׂה]][[H9014\|־]] [[H9005\|לָּֽ]][[H9032\|ךְ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.35.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.35.13|<< Ezekiel 35:13]]</td><td align="center" style="border:none;">[[Ezek.35|Ezekiel 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.35.15|Ezekiel 35:15 >>]]</td></tr></table>
 

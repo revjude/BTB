@@ -1,10 +1,63 @@
+---
+title: 1 Timothy 5:8
+type: Verse
+kjv: "But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel."
+bsb: "If anyone does not provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever."
+greek: "Εἰ δέ τις τῶν ἰδίων καὶ μάλιστα τῶν οἰκείων οὐ προνοεῖ, τὴν πίστιν ἤρνηται καὶ ἔστιν ἀπίστου χείρων."
+pericope: "[[1Tim.5.3 Honoring True Widows|Honoring True Widows]]"
+original_language: Greek
+testament: New
+book: 1 Timothy
+chapter: 5
+book/chapter: "[[1Tim.5|1 Timothy 5]]"
+chronological_order: 1130
+era: Church
+period: "Paul's Later Ministry: Pastoral Epistles (First)"
+date: ~AD 62–64
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- church order
+topics:
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G5100]]"
+- "[[G3588]]"
+- "[[G2398]]"
+- "[[G2532]]"
+- "[[G3122]]"
+- "[[G3609]]"
+- "[[G3756]]"
+- "[[G4306]]"
+- "[[G4102G]]"
+- "[[G0720]]"
+- "[[G1510]]"
+- "[[G0571]]"
+- "[[G5501]]"
+texts:
+- NKO
+- k
+- N(k)O
+---
+
 **1 Timothy 5:8**<big><big>[[1Tim.5.3 Honoring True Widows|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if any provide not for his own, and specially for those of his own house, he hath denied the faith, and is worse than an infidel.
 <small><sub>**BSB:**</sub></small>
 If anyone does not provide for his own, and especially his own household, he has denied the faith and is worse than an unbeliever.
-<small><sub>**Literal:**</sub></small>
-If now anyone <the> [their] own and especially of the [their] household not does provide for, the faith he has denied and he is than an unbeliever worse.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.7|<< 1 Timothy 5:7]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.9|1 Timothy 5:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἰ]]  [[G1161\|δέ]]  [[G5100\|τις]]  [[G3588\|τῶν]]  [[G2398\|ἰδίων]]  [[G2532\|καὶ]]  [[G3122\|μάλιστα]]  [[G3588\|τῶν]]  [[G3609\|οἰκείων]]  [[G3756\|οὐ]]  [[G4306\|προνοεῖ,]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G0720\|ἤρνηται]]  [[G2532\|καὶ]]  [[G1510\|ἔστιν]]  [[G0571\|ἀπίστου]]  [[G5501\|χείρων.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HUSBAND|HUSBAND]] • [[topic INDUSTRY|INDUSTRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PARENTS|PARENTS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Tim.5.7|<< 1 Timothy 5:7]]</td><td align="center" style="border:none;">[[1Tim.5|1 Timothy 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Tim.5.9|1 Timothy 5:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

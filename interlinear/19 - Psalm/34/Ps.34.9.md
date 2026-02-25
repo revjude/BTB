@@ -1,8 +1,58 @@
+---
+title: Psalm 34:9
+type: Verse
+kjv: "O fear the LORD, ye his saints: for there is no want to them that fear him."
+bsb: "Fear the LORD, you His saints, for those who fear Him lack nothing."
+hebrew: "יְר֣אוּ אֶת־ יְהוָ֣ה קְדֹשָׁ֑יו כִּי־ אֵ֥ין מַ֝חְס֗וֹר לִירֵאָֽיו׃"
+pericope: "[[Ps.34.1 Taste and See That the LORD Is Good|Taste and See That the LORD Is Good]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 34
+book/chapter: "[[Ps.34|Psalm 34]]"
+chronological_order: 312
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+strongs:
+- "[[H3372H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6918H]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H0369]]"
+- "[[H4270]]"
+- "[[H9005]]"
+- "[[H3373]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 34:9**<big><big>[[Ps.34.1 Taste and See That the LORD Is Good|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O fear the LORD, ye his saints: for [there is] no want to them that fear him.
 <small><sub>**BSB:**</sub></small>
 Fear the LORD, you His saints, for those who fear Him lack nothing.
+<small><sub>**Hebrew:**</sub></small>
+[[H3372H\|יְר֣אוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H6918H\|קְדֹשָׁ֑י]][[H9023\|ו]] [[H3588A\|כִּי]][[H9014\|־]] [[H0369\|אֵ֥ין]] [[H4270\|מַ֝חְס֗וֹר]] [[H9005\|לִ]][[H3373\|ירֵאָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic REVERENCE|REVERENCE]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TESTIMONY|TESTIMONY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.34.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.34.8|<< Psalms 34:8]]</td><td align="center" style="border:none;">[[Ps.34|Psalms 34]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.34.10|Psalms 34:10 >>]]</td></tr></table>
 

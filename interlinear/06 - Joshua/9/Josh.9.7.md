@@ -1,8 +1,71 @@
+---
+title: Joshua 9:7
+type: Verse
+kjv: "And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and how shall we make a league with you?"
+bsb: "But the men of Israel said to the Hivites, “Perhaps you dwell near us. How can we make a treaty with you?”"
+hebrew: "וַיֹּ֥אמֶר אִֽישׁ־ יִשְׂרָאֵ֖ל אֶל־ הַחִוִּ֑י אוּלַ֗י בְּקִרְבִּי֙ אַתָּ֣ה יוֹשֵׁ֔ב וְאֵ֖יךְ אֶֽכְרָת לְךָ֥ בְרִֽית׃"
+pericope: "[[Josh.9.1 The Deceit of the Gibeonites|The Deceit of the Gibeonites]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 9
+book/chapter: "[[Josh.9|Joshua 9]]"
+chronological_order: 239
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CONFIDENCE|CONFIDENCE]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic HIVITES|HIVITES]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MAGNANIMITY|MAGNANIMITY]]"
+- "[[topic OATH|OATH]]"
+- "[[topic TREATY|TREATY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H2340]]"
+- "[[H0194]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9020]]"
+- "[[H0859A]]"
+- "[[H3427]]"
+- "[[H9002]]"
+- "[[H0349A]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H1285]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Joshua 9:7**<big><big>[[Josh.9.1 The Deceit of the Gibeonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the men of Israel said unto the Hivites, Peradventure ye dwell among us; and how shall we make a league with you?
 <small><sub>**BSB:**</sub></small>
 But the men of Israel said to the Hivites, “Perhaps you dwell near us. How can we make a treaty with you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H2340\|חִוִּ֑י]] [[H0194\|אוּלַ֗י]] [[H9003\|בְּ]][[H7130G\|קִרְבִּ]][[H9020\|י֙]] [[H0859A\|אַתָּ֣ה]] [[H3427\|יוֹשֵׁ֔ב]] [[H9002\|וְ]][[H0349A\|אֵ֖יךְ]] [[H3772H\|אֶֽכְרָת]] [[H9005\|לְ]][[H9031\|ךָ֥]] [[H1285\|בְרִֽית]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONFIDENCE|CONFIDENCE]] • [[topic CONTRACTS|CONTRACTS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic HIVITES|HIVITES]] • [[topic JOSHUA|JOSHUA]] • [[topic MAGNANIMITY|MAGNANIMITY]] • [[topic OATH|OATH]] • [[topic TREATY|TREATY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.6|<< Joshua 9:6]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.8|Joshua 9:8 >>]]</td></tr></table>
 
@@ -23,8 +86,8 @@ But the men of Israel said to the Hivites, “Perhaps you dwell near us. How can
 | a covenant  |**<big>&#8207;[[H1285\|בְרִֽית]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| ve.Rit<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.9.6|<< Joshua 9:6]]</td><td align="center" style="border:none;">[[Josh.9|Joshua 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.9.8|Joshua 9:8 >>]]</td></tr></table>
 
-[^1]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
-[^2]: and they said  | **<big>[[H0559|יֹּאמְרוּ]]</big><big>[[H9001|וַ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^1]: and they said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמְרוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
+[^2]: and they said  | **<big>[[H9001|וַ]]</big><big>[[H0559|יֹּאמְרוּ]]</big> ** | va<small><sup>[[Hc]]</sup></small> i.yo.me.ru<small><sup>[[HVqw3mp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>וַיֹּ֥אמֶרו</big></span>**
 [^4]: L spelled: **<span class="ashebrew"><big>אֶֽכְרָות\־</big></span>**
 [^5]: K spelled: **<span class="ashebrew"><big>אֶכְרוֹת</big></span>**

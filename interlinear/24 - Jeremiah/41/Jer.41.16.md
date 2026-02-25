@@ -1,8 +1,81 @@
+---
+title: Jeremiah 41:16
+type: Verse
+kjv: "Then took Johanan the son of Kareah, and all the captains of the forces that were with him, all the remnant of the people whom he had recovered from Ishmael the son of Nethaniah, from Mizpah, after that he had slain Gedaliah the son of Ahikam, even mighty men of war, and the women, and the children, and the eunuchs, whom he had brought again from Gibeon:"
+bsb: "Then Johanan son of Kareah and all the commanders of the armies with him took the whole remnant of the people from Mizpah whom he had recovered from Ishmael son of Nethaniah after Ishmael had killed Gedaliah son of Ahikam: the soldiers, women, children, and court officials he had brought back from Gibeon."
+hebrew: "וַיִּקַּח֩ יוֹחָנָ֨ן בֶּן־ קָרֵ֜חַ וְכָל־ שָׂרֵ֧י הַחֲיָלִ֣ים אֲשֶׁר־ אִתּ֗וֹ אֵ֣ת כָּל־ שְׁאֵרִ֤ית הָעָם֙ אֲשֶׁ֣ר הֵ֠שִׁיב מֵאֵ֨ת יִשְׁמָעֵ֤אל בֶּן־ נְתַנְיָה֙ מִן־ הַמִּצְפָּ֔ה אַחַ֣ר הִכָּ֔ה אֶת־ גְּדַלְיָ֖ה בֶּן־ אֲחִיקָ֑ם גְּבָרִ֞ים אַנְשֵׁ֣י הַמִּלְחָמָ֗ה וְנָשִׁ֤ים וְטַף֙ וְסָ֣רִסִ֔ים אֲשֶׁ֥ר הֵשִׁ֖יב מִגִּבְעֽוֹן׃"
+pericope: "[[Jer.41.11 Johanan Rescues the Captives|Johanan Rescues the Captives]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 41
+book/chapter: "[[Jer.41|Jeremiah 41]]"
+chronological_order: 764
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AHIKAM|AHIKAM]]"
+- "[[topic GIBEON|GIBEON]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic KAREAH|KAREAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H3110G]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7143]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H2428A]]"
+- "[[H0834A]]"
+- "[[H0854]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H7611]]"
+- "[[H5971A]]"
+- "[[H7725H]]"
+- "[[H9006]]"
+- "[[H3458H]]"
+- "[[H5418G]]"
+- "[[H4480A]]"
+- "[[H4709G]]"
+- "[[H0310A]]"
+- "[[H5221]]"
+- "[[H1436G]]"
+- "[[H0296]]"
+- "[[H1397]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H0802G]]"
+- "[[H2945]]"
+- "[[H5631]]"
+- "[[H7725G]]"
+- "[[H1391]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 41:16**<big><big>[[Jer.41.11 Johanan Rescues the Captives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then took Johanan the son of Kareah, and all the captains of the forces that [were] with him, all the remnant of the people whom he had recovered from Ishmael the son of Nethaniah, from Mizpah, after [that] he had slain Gedaliah the son of Ahikam, [even] mighty men of war, and the women, and the children, and the eunuchs, whom he had brought again from Gibeon:
 <small><sub>**BSB:**</sub></small>
 Then Johanan son of Kareah and all the commanders of the armies with him took the whole remnant of the people from Mizpah whom he had recovered from Ishmael son of Nethaniah after Ishmael had killed Gedaliah son of Ahikam: the soldiers, women, children, and court officials he had brought back from Gibeon.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּח֩]] [[H3110G\|יוֹחָנָ֨ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7143\|קָרֵ֜חַ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8269\|שָׂרֵ֧י]] [[H9009\|הַ]][[H2428A\|חֲיָלִ֣ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0854\|אִתּ֗]][[H9033\|וֹ]] [[H0853\|אֵ֣ת]] [[H3605\|כָּל]][[H9014\|־]] [[H7611\|שְׁאֵרִ֤ית]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H7725H\|הֵ֠שִׁיב]] [[H9006\|מֵ]][[H0854\|אֵ֨ת]] [[H3458H\|יִשְׁמָעֵ֤אל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H5418G\|נְתַנְיָה֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H4709G\|מִּצְפָּ֔ה]] [[H0310A\|אַחַ֣ר]] [[H5221\|הִכָּ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1436G\|גְּדַלְיָ֖ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0296\|אֲחִיקָ֑ם]] [[H1397\|גְּבָרִ֞ים]] [[H0582\|אַנְשֵׁ֣י]] [[H9009\|הַ]][[H4421\|מִּלְחָמָ֗ה]] [[H9002\|וְ]][[H0802G\|נָשִׁ֤ים]] [[H9002\|וְ]][[H2945\|טַף֙]] [[H9002\|וְ]][[H5631\|סָ֣רִסִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H7725G\|הֵשִׁ֖יב]] [[H9006\|מִ]][[H1391\|גִּבְעֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHIKAM|AHIKAM]] • [[topic GIBEON|GIBEON]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic KAREAH|KAREAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.41.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.41.15|<< Jeremiah 41:15]]</td><td align="center" style="border:none;">[[Jer.41|Jeremiah 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.41.17|Jeremiah 41:17 >>]]</td></tr></table>
 

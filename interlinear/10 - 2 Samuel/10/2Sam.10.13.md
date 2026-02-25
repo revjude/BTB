@@ -1,8 +1,60 @@
+---
+title: 2 Samuel 10:13
+type: Verse
+kjv: "And Joab drew nigh, and the people that were with him, unto the battle against the Syrians: and they fled before him."
+bsb: "So Joab and his troops advanced to fight the Arameans, who fled before him."
+hebrew: "וַיִּגַּ֣שׁ יוֹאָ֗ב וְהָעָם֙ אֲשֶׁ֣ר עִמּ֔וֹ לַמִּלְחָמָ֖ה בַּֽאֲרָ֑ם וַיָּנֻ֖סוּ מִפָּנָֽיו׃"
+pericope: "[[2Sam.10.9 David Defeats Ammon and Aram|David Defeats Ammon and Aram]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 10
+book/chapter: "[[2Sam.10|2 Samuel 10]]"
+chronological_order: 404
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic JOAB|JOAB]]"
+- "[[topic ZOBAH|ZOBAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5066G]]"
+- "[[H3097G]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0834A]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H0758I]]"
+- "[[H5127]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 10:13**<big><big>[[2Sam.10.9 David Defeats Ammon and Aram|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joab drew nigh, and the people that [were] with him, unto the battle against the Syrians: and they fled before him.
 <small><sub>**BSB:**</sub></small>
 So Joab and his troops advanced to fight the Arameans, who fled before him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5066G\|יִּגַּ֣שׁ]] [[H3097G\|יוֹאָ֗ב]] [[H9002\|וְ]][[H9009\|הָ]][[H5971A\|עָם֙]] [[H0834A\|אֲשֶׁ֣ר]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H9003\|בַּֽ]][[H0758I\|אֲרָ֑ם]] [[H9001\|וַ]][[H5127\|יָּנֻ֖סוּ]] [[H9006\|מִ]][[H6440G\|פָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOAB|JOAB]] • [[topic ZOBAH|ZOBAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.10.12|<< 2 Samuel 10:12]]</td><td align="center" style="border:none;">[[2Sam.10|2 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.10.14|2 Samuel 10:14 >>]]</td></tr></table>
 

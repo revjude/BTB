@@ -1,8 +1,68 @@
+---
+title: Daniel 7:4
+type: Verse
+kjv: "The first was like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it."
+bsb: "The first beast was like a lion, and it had the wings of an eagle. I watched until its wings were torn off and it was lifted up from the ground and made to stand on two feet like a man and given the mind of a man."
+aramaic: "קַדְמָיְתָ֣א כְאַרְיֵ֔ה וְגַפִּ֥ין דִּֽי־ נְשַׁ֖ר לַ֑הּ חָזֵ֣ה הֲוֵ֡ית עַד֩ דִּי־ מְּרִ֨יטוּ גַפַּ֜יהּ וּנְטִ֣ילַת מִן־ אַרְעָ֗א וְעַל־ רַגְלַ֙יִן֙ כֶּאֱנָ֣שׁ הֳקִימַ֔ת וּלְבַ֥ב אֱנָ֖שׁ יְהִ֥יב לַֽהּ׃"
+pericope: "[[Dan.7.1 Daniel’s Vision of the Four Beasts|Daniel’s Vision of the Four Beasts]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 7
+book/chapter: "[[Dan.7|Daniel 7]]"
+chronological_order: 843
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic EAGLE|EAGLE]]"
+- "[[topic LION|LION]]"
+strongs:
+- "[[H6933]]"
+- "[[H9010]]"
+- "[[H9004]]"
+- "[[H0744]]"
+- "[[H9002]]"
+- "[[H1611]]"
+- "[[H1768]]"
+- "[[H9014]]"
+- "[[H5403]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H2370]]"
+- "[[H1934]]"
+- "[[H5705]]"
+- "[[H4804]]"
+- "[[H9024]]"
+- "[[H5191]]"
+- "[[H4481]]"
+- "[[H0772G]]"
+- "[[H5922]]"
+- "[[H7271]]"
+- "[[H0606]]"
+- "[[H6966I]]"
+- "[[H3825]]"
+- "[[H3052]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 7:4**<big><big>[[Dan.7.1 Daniel’s Vision of the Four Beasts|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The first [was] like a lion, and had eagle’s wings: I beheld till the wings thereof were plucked, and it was lifted up from the earth, and made stand upon the feet as a man, and a man’s heart was given to it.
 <small><sub>**BSB:**</sub></small>
 The first beast was like a lion, and it had the wings of an eagle. I watched until its wings were torn off and it was lifted up from the ground and made to stand on two feet like a man and given the mind of a man.
+<small><sub>**Aramaic:**</sub></small>
+[[H6933\|קַדְמָיְתָ֣]][[H9010\|א]] [[H9004\|כְ]][[H0744\|אַרְיֵ֔ה]] [[H9002\|וְ]][[H1611\|גַפִּ֥ין]] [[H1768\|דִּֽי]][[H9014\|־]] [[H5403\|נְשַׁ֖ר]] [[H9005\|לַ֑]][[H9034\|הּ]] [[H2370\|חָזֵ֣ה]] [[H1934\|הֲוֵ֡ית]] [[H5705\|עַד֩]] [[H1768\|דִּי]][[H9014\|־]] [[H4804\|מְּרִ֨יטוּ]] [[H1611\|גַפַּ֜י]][[H9024\|הּ]] [[H9002\|וּ]][[H5191\|נְטִ֣ילַת]] [[H4481\|מִן]][[H9014\|־]] [[H0772G\|אַרְעָ֗]][[H9010\|א]] [[H9002\|וְ]][[H5922\|עַל]][[H9014\|־]] [[H7271\|רַגְלַ֙יִן֙]] [[H9004\|כֶּ]][[H0606\|אֱנָ֣שׁ]] [[H6966I\|הֳקִימַ֔ת]] [[H9002\|וּ]][[H3825\|לְבַ֥ב]] [[H0606\|אֱנָ֖שׁ]] [[H3052\|יְהִ֥יב]] [[H9005\|לַֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EAGLE|EAGLE]] • [[topic LION|LION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.7.3|<< Daniel 7:3]]</td><td align="center" style="border:none;">[[Dan.7|Daniel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.7.5|Daniel 7:5 >>]]</td></tr></table>
 

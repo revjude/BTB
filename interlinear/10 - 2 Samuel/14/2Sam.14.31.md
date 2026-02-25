@@ -1,8 +1,65 @@
+---
+title: 2 Samuel 14:31
+type: Verse
+kjv: "Then Joab arose, and came to Absalom unto his house, and said unto him, Wherefore have thy servants set my field on fire?"
+bsb: "Then Joab came to Absalom’s house and demanded, “Why did your servants set my field on fire?”"
+hebrew: "וַיָּ֣קָם יוֹאָ֔ב וַיָּבֹ֥א אֶל־ אַבְשָׁל֖וֹם הַבָּ֑יְתָה וַיֹּ֣אמֶר אֵלָ֔יו לָ֣מָּה הִצִּ֧יתוּ עֲבָדֶ֛ךָ אֶת־ הַחֶלְקָ֥ה אֲשֶׁר־ לִ֖י בָּאֵֽשׁ׃"
+pericope: "[[2Sam.14.28 Absalom Reconciled to David|Absalom Reconciled to David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic JOAB|JOAB]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3097G]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0053]]"
+- "[[H9009]]"
+- "[[H1004B]]"
+- "[[H9011]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H3341]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H0853]]"
+- "[[H2513A]]"
+- "[[H0834A]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 14:31**<big><big>[[2Sam.14.28 Absalom Reconciled to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Joab arose, and came to Absalom unto [his] house, and said unto him, Wherefore have thy servants set my field on fire?
 <small><sub>**BSB:**</sub></small>
 Then Joab came to Absalom’s house and demanded, “Why did your servants set my field on fire?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֣קָם]] [[H3097G\|יוֹאָ֔ב]] [[H9001\|וַ]][[H0935G\|יָּבֹ֥א]] [[H0413\|אֶל]][[H9014\|־]] [[H0053\|אַבְשָׁל֖וֹם]] [[H9009\|הַ]][[H1004B\|בָּ֑יְתָ]][[H9011\|ה]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H3341\|הִצִּ֧יתוּ]] [[H5650\|עֲבָדֶ֛]][[H9021\|ךָ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2513A\|חֶלְקָ֥ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOAB|JOAB]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.30|<< 2 Samuel 14:30]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.32|2 Samuel 14:32 >>]]</td></tr></table>
 

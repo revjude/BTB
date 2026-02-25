@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon Anointed to Build the Temple
+type: Pericope
 pericope: "[[1Chr.22.6 Solomon Anointed to Build the Temple|Solomon Anointed to Build the Temple]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 22
 book/chapter: "[[1Chr.22|1 Chronicles 22]]"
-genre:
+chronological_order: 433
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 14
 verses:
 - "[[1Chr.22.6]]"
 - "[[1Chr.22.7]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Chr.22.19]]"
 ---
 
-[[1Chr.22|1 Chronicles 22:6 - 1 Chronicles 22:19]]
+<small>[[1Chr.22|1 Chronicles 22:6-19]]</small>
 *Solomon Anointed to Build the Temple*
 
 [[1Chr.22.6|6]] Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel.

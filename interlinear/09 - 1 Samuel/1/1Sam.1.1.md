@@ -1,8 +1,70 @@
+---
+title: 1 Samuel 1:1
+type: Verse
+kjv: "Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:"
+bsb: "Now there was a man named Elkanah who was from Ramathaim-zophim in the hill country of Ephraim. He was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite."
+hebrew: "וַיְהִי֩ אִ֨ישׁ אֶחָ֜ד מִן־ הָרָמָתַ֛יִם צוֹפִ֖ים מֵהַ֣ר אֶפְרָ֑יִם וּשְׁמ֡וֹ אֶ֠לְקָנָה בֶּן־ יְרֹחָ֧ם בֶּן־ אֱלִיה֛וּא בֶּן־ תֹּ֥חוּ בֶן־ צ֖וּף אֶפְרָתִֽי׃"
+pericope: "[[1Sam.1.1 Elkanah and His Wives|Elkanah and His Wives]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 1
+book/chapter: "[[1Sam.1|1 Samuel 1]]"
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ELIAB|ELIAB]]"
+- "[[topic ELIHU|ELIHU]]"
+- "[[topic ELKANAH|ELKANAH]]"
+- "[[topic HANNAH|HANNAH]]"
+- "[[topic JEROHAM|JEROHAM]]"
+- "[[topic NAHATH|NAHATH]]"
+- "[[topic RAMAH|RAMAH]]"
+- "[[topic ZOPHIM|ZOPHIM]]"
+- "[[topic ZUPH|ZUPH]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0376G]]"
+- "[[H0259]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7436]]"
+- "[[H9006]]"
+- "[[H2022H]]"
+- "[[H0669G]]"
+- "[[H9002]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H0511H]]"
+- "[[H1121A]]"
+- "[[H3395G]]"
+- "[[H0453G]]"
+- "[[H8459]]"
+- "[[H6689G]]"
+- "[[H0673G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 1:1**<big><big>[[1Sam.1.1 Elkanah and His Wives|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name [was] Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:
 <small><sub>**BSB:**</sub></small>
 Now there was a man named Elkanah who was from Ramathaim-zophim in the hill country of Ephraim. He was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H0376G\|אִ֨ישׁ]] [[H0259\|אֶחָ֜ד]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H7436\|רָמָתַ֛יִם]] [[H7436\|צוֹפִ֖ים]] [[H9006\|מֵ]][[H2022H\|הַ֣ר]] [[H0669G\|אֶפְרָ֑יִם]] [[H9002\|וּ]][[H8034\|שְׁמ֡]][[H9023\|וֹ]] [[H0511H\|אֶ֠לְקָנָה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3395G\|יְרֹחָ֧ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0453G\|אֱלִיה֛וּא]] [[H1121A\|בֶּן]][[H9014\|־]] [[H8459\|תֹּ֥חוּ]] [[H1121A\|בֶן]][[H9014\|־]] [[H6689G\|צ֖וּף]] [[H0673G\|אֶפְרָתִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELIAB|ELIAB]] • [[topic ELIHU|ELIHU]] • [[topic ELKANAH|ELKANAH]] • [[topic HANNAH|HANNAH]] • [[topic JEROHAM|JEROHAM]] • [[topic NAHATH|NAHATH]] • [[topic RAMAH|RAMAH]] • [[topic ZOPHIM|ZOPHIM]] • [[topic ZUPH|ZUPH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.22|<< Ruth 4:22]]</td><td align="center" style="border:none;">[[1Sam.1|1 Samuel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.1.2|1 Samuel 1:2 >>]]</td></tr></table>
 

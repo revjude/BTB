@@ -1,8 +1,63 @@
+---
+title: Jeremiah 17:20
+type: Verse
+kjv: "And say unto them, Hear ye the word of the LORD, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:"
+bsb: "Say to them, ‘Hear the word of the LORD, O kings of Judah, all people of Judah and Jerusalem who enter through these gates."
+hebrew: "וְאָמַרְתָּ֣ אֲ֠לֵיהֶם שִׁמְע֨וּ דְבַר־ יְהוָ֜ה מַלְכֵ֤י יְהוּדָה֙ וְכָל־ יְהוּדָ֔ה וְכֹ֖ל יֹשְׁבֵ֣י יְרוּשָׁלִָ֑ם הַבָּאִ֖ים בַּשְּׁעָרִ֥ים הָאֵֽלֶּה׃ ס"
+pericope: "[[Jer.17.19 Restoring the Sabbath|Restoring the Sabbath]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 17
+book/chapter: "[[Jer.17|Jeremiah 17]]"
+chronological_order: 734
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GATES|GATES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H3427]]"
+- "[[H3389]]"
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H0428]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 17:20**<big><big>[[Jer.17.19 Restoring the Sabbath|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And say unto them, Hear ye the word of the LORD, ye kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:
 <small><sub>**BSB:**</sub></small>
 Say to them, ‘Hear the word of the LORD, O kings of Judah, all people of Judah and Jerusalem who enter through these gates.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲ֠לֵי]][[H9038\|הֶם]] [[H8085G\|שִׁמְע֨וּ]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֜ה]] [[H4428G\|מַלְכֵ֤י]] [[H3063G\|יְהוּדָה֙]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H9002\|וְ]][[H3605\|כֹ֖ל]] [[H3427\|יֹשְׁבֵ֣י]] [[H3389\|יְרוּשָׁלִָ֑ם]] [[H9009\|הַ]][[H0935G\|בָּאִ֖ים]] [[H9003\|בַּ]][[H8179G\|שְּׁעָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵֽלֶּה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATES|GATES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.17.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.19|<< Jeremiah 17:19]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.21|Jeremiah 17:21 >>]]</td></tr></table>
 
@@ -22,7 +77,7 @@ Say to them, ‘Hear the word of the LORD, O kings of Judah, all people of Judah
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִָ֑ם]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who go  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H0935G\|בָּאִ֖ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> ba.'Im<small><sup>[[HVqrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | in the gates  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H8179G\|שְּׁעָרִ֥ים]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> she.'a.Rim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<the> these  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0428\|אֵֽלֶּה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.17.19|<< Jeremiah 17:19]]</td><td align="center" style="border:none;">[[Jer.17|Jeremiah 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.17.21|Jeremiah 17:21 >>]]</td></tr></table>
 
 

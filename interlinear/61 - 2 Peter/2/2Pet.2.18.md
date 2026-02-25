@@ -1,10 +1,65 @@
+---
+title: 2 Peter 2:18
+type: Verse
+kjv: "For when they speak great swelling words of vanity, they allure through the lusts of the flesh, through much wantonness, those that were clean escaped from them who live in error."
+bsb: "With lofty but empty words, they appeal to the sensual passions of the flesh and entice those who are just escaping from others who live in error."
+greek: "Ὑπέρογκα γὰρ ματαιότητος φθεγγόμενοι δελεάζουσιν ἐν ἐπιθυμίαις σαρκὸς ἀσελγείαις τοὺς ὀλίγως ἀποφεύγοντας τοὺς ἐν πλάνῃ ἀναστρεφομένους,"
+pericope: "[[2Pet.2.1 Deliverance from False Prophets|Deliverance from False Prophets]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 2
+book/chapter: "[[2Pet.2|2 Peter 2]]"
+chronological_order: 1158
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic AFFECTIONS|AFFECTIONS]]"
+- "[[topic ANARCHY|ANARCHY]]"
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic DOCTRINES|DOCTRINES]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic LUST|LUST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic VANITY|VANITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G5246]]"
+- "[[G1063]]"
+- "[[G3153]]"
+- "[[G5350]]"
+- "[[G1185]]"
+- "[[G1722]]"
+- "[[G1939]]"
+- "[[G4561]]"
+- "[[G0766]]"
+- "[[G3588]]"
+- "[[G6067]]"
+- "[[G0668]]"
+- "[[G4106]]"
+- "[[G0390]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **2 Peter 2:18**<big><big>[[2Pet.2.1 Deliverance from False Prophets|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For when they speak great swelling [words] of vanity, they allure through the lusts of the flesh, [through much] wantonness, those that were clean escaped from them who live in error.
 <small><sub>**BSB:**</sub></small>
 With lofty but empty words, they appeal to the sensual passions of the flesh and entice those who are just escaping from others who live in error.
-<small><sub>**Literal:**</sub></small>
-Arrogant for of vanity speaking words they entice with [the] passions of [the] flesh to sensuality those scarcely escaping from those in error living,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.17|<< 2 Peter 2:17]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.19|2 Peter 2:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5246\|Ὑπέρογκα]]  [[G1063\|γὰρ]]  [[G3153\|ματαιότητος]]  [[G5350\|φθεγγόμενοι]]  [[G1185\|δελεάζουσιν]]  [[G1722\|ἐν]]  [[G1939\|ἐπιθυμίαις]]  [[G4561\|σαρκὸς]]  [[G0766\|ἀσελγείαις]]  [[G3588\|τοὺς]]  [[G6067\|ὀλίγως]]  [[G0668\|ἀποφεύγοντας]]  [[G3588\|τοὺς]]  [[G1722\|ἐν]]  [[G4106\|πλάνῃ]]  [[G0390\|ἀναστρεφομένους,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFECTIONS|AFFECTIONS]] • [[topic ANARCHY|ANARCHY]] • [[topic COMPANY|COMPANY]] • [[topic DOCTRINES|DOCTRINES]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic LUST|LUST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic TEMPTATION|TEMPTATION]] • [[topic VANITY|VANITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.2.17|<< 2 Peter 2:17]]</td><td align="center" style="border:none;">[[2Pet.2|2 Peter 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.2.19|2 Peter 2:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

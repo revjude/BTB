@@ -1,8 +1,51 @@
+---
+title: Song of Solomon 7:2
+type: Verse
+kjv: "Thy navel is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies."
+bsb: "Your navel is a rounded goblet; it never lacks blended wine. Your waist is a mound of wheat encircled by the lilies."
+hebrew: "שָׁרְרֵךְ֙ אַגַּ֣ן הַסַּ֔הַר אַל־ יֶחְסַ֖ר הַמָּ֑זֶג בִּטְנֵךְ֙ עֲרֵמַ֣ת חִטִּ֔ים סוּגָ֖ה בַּשּׁוֹשַׁנִּֽים׃"
+pericope: "[[Song.7.1 Admiration by the Bridegroom|Admiration by the Bridegroom]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 7
+book/chapter: "[[Song.7|Song of Solomon 7]]"
+chronological_order: 454
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H8326]]"
+- "[[H9022]]"
+- "[[H0101]]"
+- "[[H9009]]"
+- "[[H5469]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H2637]]"
+- "[[H4197]]"
+- "[[H0990G]]"
+- "[[H6194]]"
+- "[[H2406]]"
+- "[[H5473]]"
+- "[[H9003]]"
+- "[[H7799]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 7:2**<big><big>[[Song.7.1 Admiration by the Bridegroom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy navel [is like] a round goblet, [which] wanteth not liquor: thy belly [is like] an heap of wheat set about with lilies.
 <small><sub>**BSB:**</sub></small>
 Your navel is a rounded goblet; it never lacks blended wine. Your waist is a mound of wheat encircled by the lilies.
+<small><sub>**Hebrew:**</sub></small>
+[[H8326\|שָׁרְרֵ]][[H9022\|ךְ֙]] [[H0101\|אַגַּ֣ן]] [[H9009\|הַ]][[H5469\|סַּ֔הַר]] [[H0408\|אַל]][[H9014\|־]] [[H2637\|יֶחְסַ֖ר]] [[H9009\|הַ]][[H4197\|מָּ֑זֶג]] [[H0990G\|בִּטְנֵ]][[H9022\|ךְ֙]] [[H6194\|עֲרֵמַ֣ת]] [[H2406\|חִטִּ֔ים]] [[H5473\|סוּגָ֖ה]] [[H9003\|בַּ]][[H7799\|שּׁוֹשַׁנִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.7.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.7.1|<< Song of Solomon 7:1]]</td><td align="center" style="border:none;">[[Song.7|Song of Solomon 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.7.3|Song of Solomon 7:3 >>]]</td></tr></table>
 

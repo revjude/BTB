@@ -1,10 +1,59 @@
+---
+title: Acts 8:13
+type: Verse
+kjv: "Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done."
+bsb: "Even Simon himself believed and was baptized. He followed Philip closely and was astounded by the great signs and miracles he observed."
+greek: "ὁ δὲ Σίμων καὶ αὐτὸς ἐπίστευσεν, καὶ βαπτισθεὶς ἦν προσκαρτερῶν τῷ Φιλίππῳ, θεωρῶν τε σημεῖα καὶ δυνάμεις μεγάλας γινομένας ἐξίστατο.¶"
+pericope: "[[Acts.8.9 Simon the Sorcerer|Simon the Sorcerer]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BAPTISM|BAPTISM]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic SAMARIA|SAMARIA]]"
+- "[[topic SIMON|SIMON]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G4613N]]"
+- "[[G2532]]"
+- "[[G0846]]"
+- "[[G4100]]"
+- "[[G0907]]"
+- "[[G1510]]"
+- "[[G4342]]"
+- "[[G5376J]]"
+- "[[G2334]]"
+- "[[G5037]]"
+- "[[G4592]]"
+- "[[G1411]]"
+- "[[G3173]]"
+- "[[G1096]]"
+- "[[G1839]]"
+texts:
+- NKO
+---
+
 **Acts 8:13**<big><big>[[Acts.8.9 Simon the Sorcerer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done.
 <small><sub>**BSB:**</sub></small>
 Even Simon himself believed and was baptized. He followed Philip closely and was astounded by the great signs and miracles he observed.
-<small><sub>**Literal:**</sub></small>
-<the> And Simon also himself believed, and having been baptized he was steadfastly continuing <the> with Philip, Beholding then [the] signs and miracles great being performed he was amazed.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.12|<< Acts 8:12]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.14|Acts 8:14 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G4613N\|Σίμων]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G4100\|ἐπίστευσεν,]]  [[G2532\|καὶ]]  [[G0907\|βαπτισθεὶς]]  [[G1510\|ἦν]]  [[G4342\|προσκαρτερῶν]]  [[G3588\|τῷ]]  [[G5376J\|Φιλίππῳ,]]  [[G2334\|θεωρῶν]]  [[G5037\|τε]]  [[G4592\|σημεῖα]]  [[G2532\|καὶ]]  [[G1411\|δυνάμεις]]  [[G3173\|μεγάλας]]  [[G1096\|γινομένας]]  [[G1839\|ἐξίστατο.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAPTISM|BAPTISM]] • [[topic PHILIP|PHILIP]] • [[topic SAMARIA|SAMARIA]] • [[topic SIMON|SIMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.12|<< Acts 8:12]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.14|Acts 8:14 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

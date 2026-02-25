@@ -1,8 +1,54 @@
+---
+title: Job 10:5
+type: Verse
+kjv: "Are thy days as the days of man? are thy years as man’s days,"
+bsb: "Are Your days like those of a mortal, or Your years like those of a man,"
+hebrew: "הֲכִימֵ֣י אֱנ֣וֹשׁ יָמֶ֑יךָ אִם־ שְׁ֝נוֹתֶ֗יךָ כִּ֣ימֵי גָֽבֶר׃"
+pericope: "[[Job.10.1 Job’s Plea to God|Job’s Plea to God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 10
+book/chapter: "[[Job.10|Job 10]]"
+chronological_order: 21
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PHILOSOPHY|PHILOSOPHY]]"
+strongs:
+- "[[H9008]]"
+- "[[H9004]]"
+- "[[H3117G]]"
+- "[[H0582]]"
+- "[[H9021]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H8141]]"
+- "[[H3117I]]"
+- "[[H1397]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 10:5**<big><big>[[Job.10.1 Job’s Plea to God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Are] thy days as the days of man? [are] thy years as man’s days,
 <small><sub>**BSB:**</sub></small>
 Are Your days like those of a mortal, or Your years like those of a man,
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H9004\|כִ]][[H3117G\|ימֵ֣י]] [[H0582\|אֱנ֣וֹשׁ]] [[H3117G\|יָמֶ֑י]][[H9021\|ךָ]] [[H0518H\|אִם]][[H9014\|־]] [[H8141\|שְׁ֝נוֹתֶ֗י]][[H9021\|ךָ]] [[H9004\|כִּ֣]][[H3117I\|ימֵי]] [[H1397\|גָֽבֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic GOD|GOD]] • [[topic PHILOSOPHY|PHILOSOPHY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.10.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.10.4|<< Job 10:4]]</td><td align="center" style="border:none;">[[Job.10|Job 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.10.6|Job 10:6 >>]]</td></tr></table>
 

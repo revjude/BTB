@@ -1,8 +1,66 @@
+---
+title: Judges 1:1
+type: Verse
+kjv: "Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?"
+bsb: "After the death of Joshua, the Israelites inquired of the LORD, “Who will be the first to go up and fight for us against the Canaanites?”"
+hebrew: "וַיְהִ֗י אַחֲרֵי֙ מ֣וֹת יְהוֹשֻׁ֔עַ וַֽיִּשְׁאֲלוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל בַּיהוָ֖ה לֵאמֹ֑ר מִ֣י יַעֲלֶה־ לָּ֧נוּ אֶל־ הַֽכְּנַעֲנִ֛י בַּתְּחִלָּ֖ה לְהִלָּ֥חֶם בּֽוֹ׃"
+pericope: "[[Judg.1.1 The Conquest of Canaan Proceeds|The Conquest of Canaan Proceeds]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 1
+book/chapter: "[[Judg.1|Judges 1]]"
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic URIM AND THUMMIM|URIM AND THUMMIM]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H0310A]]"
+- "[[H4194]]"
+- "[[H3091G]]"
+- "[[H7592]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4310]]"
+- "[[H5927G]]"
+- "[[H9014]]"
+- "[[H9035]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H3669A]]"
+- "[[H8462]]"
+- "[[H3898A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 1:1**<big><big>[[Judg.1.1 The Conquest of Canaan Proceeds|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now after the death of Joshua it came to pass, that the children of Israel asked the LORD, saying, Who shall go up for us against the Canaanites first, to fight against them?
 <small><sub>**BSB:**</sub></small>
 After the death of Joshua, the Israelites inquired of the LORD, “Who will be the first to go up and fight for us against the Canaanites?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִ֗י]] [[H0310A\|אַחֲרֵי֙]] [[H4194\|מ֣וֹת]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H9001\|וַֽ]][[H7592\|יִּשְׁאֲלוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9003\|בַּ]][[H3068G\|יהוָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4310\|מִ֣י]] [[H5927G\|יַעֲלֶה]][[H9014\|־]] [[H9005\|לָּ֧]][[H9035\|נוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H3669A\|כְּנַעֲנִ֛י]] [[H9003\|בַּ]][[H8462\|תְּחִלָּ֖ה]] [[H9005\|לְ]][[H3898A\|הִלָּ֥חֶם]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CANAANITES|CANAANITES]] • [[topic JUDAH|JUDAH]] • [[topic URIM AND THUMMIM|URIM AND THUMMIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.1.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.33|<< Joshua 24:33]]</td><td align="center" style="border:none;">[[Judg.1|Judges 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.1.2|Judges 1:2 >>]]</td></tr></table>
 

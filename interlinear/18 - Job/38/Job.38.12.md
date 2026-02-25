@@ -1,8 +1,57 @@
+---
+title: Job 38:12
+type: Verse
+kjv: "Hast thou commanded the morning since thy days; and caused the dayspring to know his place;"
+bsb: "In your days, have you commanded the morning or assigned the dawn its place,"
+hebrew: "הְֽ֭מִיָּמֶיךָ צִוִּ֣יתָ בֹּ֑קֶר יִדַּ֖עְתָּ הַשַּׁ֣חַר מְקֹמֽוֹ׃"
+pericope: "[[Job.38.1 The LORD Challenges Job|The LORD Challenges Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 38
+book/chapter: "[[Job.38|Job 38]]"
+chronological_order: 49
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CONTINENTS|CONTINENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MAN|MAN]]"
+strongs:
+- "[[H9008]]"
+- "[[H9006]]"
+- "[[H3117G]]"
+- "[[H9021]]"
+- "[[H6680]]"
+- "[[H1242]]"
+- "[[H3045]]"
+- "[[H7837]]"
+- "[[H9009]]"
+- "[[H4725]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Job 38:12**<big><big>[[Job.38.1 The LORD Challenges Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hast thou commanded the morning since thy days; [and] caused the dayspring to know his place;
 <small><sub>**BSB:**</sub></small>
 In your days, have you commanded the morning or assigned the dawn its place,
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הְֽ֭]][[H9006\|מִ]][[H3117G\|יָּמֶי]][[H9021\|ךָ]] [[H6680\|צִוִּ֣יתָ]] [[H1242\|בֹּ֑קֶר]] [[H3045\|יִדַּ֖עְתָּ]] [[H9009\|הַ]][[H7837\|שַּׁ֣חַר]] [[H4725\|מְקֹמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CONTINENTS|CONTINENTS]] • [[topic GOD|GOD]] • [[topic MAN|MAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.38.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.11|<< Job 38:11]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.13|Job 38:13 >>]]</td></tr></table>
 
@@ -16,7 +65,7 @@ In your days, have you commanded the morning or assigned the dawn its place,
 | place its  |**<big>&#8207;[[H4725\|מְקֹמֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| me.ko.M<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.38.11|<< Job 38:11]]</td><td align="center" style="border:none;">[[Job.38|Job 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.38.13|Job 38:13 >>]]</td></tr></table>
 
-[^1]: have you caused to know ?  | **<big>[[H9008|ה]]</big><big>[[H3045|יִדַּעְתָּ]]</big> ** | yi.da'.ta<small><sup>[[HTi]]</sup></small> h<small><sup>[[HVpp2ms]]</sup></small> | K
+[^1]: have you caused to know ?  | **<big>[[H3045|יִדַּעְתָּ]]</big><big>[[H9008|ה]]</big> ** | yi.da'.ta<small><sup>[[HTi]]</sup></small> h<small><sup>[[HVpp2ms]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>יִדַּ֖עְתָּהַ</big></span>**
 [^3]: dawn  | **<big>[[H7837|שַׁחַר]]</big> ** | sha.char<small><sup>[[HNcbsa]]</sup></small> | K
 [^4]: dawn  | **<big>[[H7837|שַׁחַר]]</big> ** | sha.char<small><sup>[[HNcbsa]]</sup></small> | K

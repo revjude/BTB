@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Faith of the Centurion
+type: Pericope
 pericope: "[[Matt.8.5 The Faith of the Centurion|The Faith of the Centurion]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 8
 book/chapter: "[[Matt.8|Matthew 8]]"
-genre:
+chronological_order: 950
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 9
 verses:
 - "[[Matt.8.5]]"
 - "[[Matt.8.6]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Matt.8.13]]"
 ---
 
-[[Matt.8|Matthew 8:5 - Matthew 8:13]]
+<small>[[Matt.8|Matthew 8:5-13]]</small>
 *The Faith of the Centurion*
 
 [[Matt.8.5|5]] And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,

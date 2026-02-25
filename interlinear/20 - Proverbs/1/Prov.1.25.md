@@ -1,8 +1,66 @@
+---
+title: Proverbs 1:25
+type: Verse
+kjv: "But ye have set at nought all my counsel, and would none of my reproof:"
+bsb: "because you neglected all my counsel, and wanted none of my correction,"
+hebrew: "וַתִּפְרְע֥וּ כָל־ עֲצָתִ֑י וְ֝תוֹכַחְתִּ֗י לֹ֣א אֲבִיתֶֽם׃"
+pericope: "[[Prov.1.20 Wisdom Calls Aloud|Wisdom Calls Aloud]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H6544B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6098]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H8433B]]"
+- "[[H3808]]"
+- "[[H0014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:25**<big><big>[[Prov.1.20 Wisdom Calls Aloud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye have set at nought all my counsel, and would none of my reproof:
 <small><sub>**BSB:**</sub></small>
 because you neglected all my counsel, and wanted none of my correction,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6544B\|תִּפְרְע֥וּ]] [[H3605\|כָל]][[H9014\|־]] [[H6098\|עֲצָתִ֑]][[H9020\|י]] [[H9002\|וְ֝]][[H8433B\|תוֹכַחְתִּ֗]][[H9020\|י]] [[H3808\|לֹ֣א]] [[H0014\|אֲבִיתֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic GOD|GOD]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REMORSE|REMORSE]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic REVERENCE|REVERENCE]] • [[topic SCOFFING|SCOFFING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.24|<< Proverbs 1:24]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.26|Proverbs 1:26 >>]]</td></tr></table>
 

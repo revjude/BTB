@@ -5,15 +5,15 @@
 
 2. A prophet in the time of David
 
-- His message to David concerning the building of a temple [[2Sam.7.1|2Sa 7:1]]-[[2Sam.7.17|17]]; [[1Chr.17.1|1Ch 17:1]]-[[1Chr.17.15|15]]
+- His message to David concerning the building of a temple [[2Sam.7.1|2Sa 7:1-17]]; [[1Chr.17.1|1Ch 17:1-15]]
 
-- Reproves David for his adultery with Bath-sheba and his murder  of Uriah [[2Sam.12.1|2Sa 12:1]]-[[2Sam.12.15|15]]
+- Reproves David for his adultery with Bath-sheba and his murder  of Uriah [[2Sam.12.1|2Sa 12:1-15]]
 
 - Gives Solomon the name Jedidiah [[2Sam.12.25|2Sa 12:25]]
 
-- Assists Bath-sheba in securing to Solomon, her son, the succession  to the throne [[1Kgs.1.10|1Ki 1:10]]-[[1Kgs.1.14|14]],[[1Kgs.1.22|22]]-[[1Kgs.1.27|27]]
+- Assists Bath-sheba in securing to Solomon, her son, the succession  to the throne [[1Kgs.1.10|1Ki 1:10-14]],[[1Kgs.1.22|22-27]]
 
-- Assists in anointing Solomon to be king [[1Kgs.1.32|1Ki 1:32]]-[[1Kgs.1.45|45]]
+- Assists in anointing Solomon to be king [[1Kgs.1.32|1Ki 1:32-45]]
 
 - Kept the chronicles [[1Chr.29.29|1Ch 29:29]]; [[2Chr.9.29|2Ch 9:29]]
 

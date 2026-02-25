@@ -1,8 +1,81 @@
+---
+title: 1 Kings 5:9
+type: Verse
+kjv: "My servants shall bring them down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive them: and thou shalt accomplish my desire, in giving food for my household."
+bsb: "My servants will haul the logs from Lebanon to the Sea, and I will float them as rafts by sea to the place you specify. There I will separate the logs, and you can take them away. And in exchange, you can meet my needs by providing my household with food.”"
+hebrew: "עֲ֠בָדַי יֹרִ֨דוּ מִן־ הַלְּבָנ֜וֹן יָ֗מָּה וַ֠אֲנִי אֲשִׂימֵ֨ם דֹּבְר֤וֹת בַּיָּם֙ עַֽד־ הַמָּק֞וֹם אֲשֶׁר־ תִּשְׁלַ֥ח אֵלַ֛י וְנִפַּצְתִּ֥ים שָׁ֖ם וְאַתָּ֣ה תִשָּׂ֑א וְאַתָּה֙ תַּעֲשֶׂ֣ה אֶת־ חֶפְצִ֔י לָתֵ֖ת לֶ֥חֶם בֵּיתִֽי׃"
+pericope: "[[1Kgs.5.7 Hiram’s Reply to Solomon|Hiram’s Reply to Solomon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 5
+book/chapter: "[[1Kgs.5|1 Kings 5]]"
+chronological_order: 487
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic CEDAR|CEDAR]]"
+- "[[topic CONTRACTS|CONTRACTS]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic TREATY|TREATY]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H5650]]"
+- "[[H9020]]"
+- "[[H3381]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3844G]]"
+- "[[H3220G]]"
+- "[[H9011]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H7760A]]"
+- "[[H9038]]"
+- "[[H1702]]"
+- "[[H9003]]"
+- "[[H5704]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H5310A]]"
+- "[[H8033G]]"
+- "[[H0859A]]"
+- "[[H5375G]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H2656]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H3899G]]"
+- "[[H1004M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 5:9**<big><big>[[1Kgs.5.7 Hiram’s Reply to Solomon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My servants shall bring [them] down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive [them]: and thou shalt accomplish my desire, in giving food for my household.
 <small><sub>**BSB:**</sub></small>
 My servants will haul the logs from Lebanon to the Sea, and I will float them as rafts by sea to the place you specify. There I will separate the logs, and you can take them away. And in exchange, you can meet my needs by providing my household with food.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5650\|עֲ֠בָדַ]][[H9020\|י]] [[H3381\|יֹרִ֨דוּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3844G\|לְּבָנ֜וֹן]] [[H3220G\|יָ֗מָּ]][[H9011\|ה]] [[H9002\|וַ֠]][[H0589\|אֲנִי]] [[H7760A\|אֲשִׂימֵ֨]][[H9038\|ם]] [[H1702\|דֹּבְר֤וֹת]] [[H9003\|בַּ]][[H3220G\|יָּם֙]] [[H5704\|עַֽד]][[H9014\|־]] [[H9009\|הַ]][[H4725\|מָּק֞וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7971G\|תִּשְׁלַ֥ח]] [[H0413\|אֵלַ֛]][[H9030\|י]] [[H9001\|וְ]][[H5310A\|נִפַּצְתִּ֥י]][[H9038\|ם]] [[H8033G\|שָׁ֖ם]] [[H9002\|וְ]][[H0859A\|אַתָּ֣ה]] [[H5375G\|תִשָּׂ֑א]] [[H9002\|וְ]][[H0859A\|אַתָּה֙]] [[H6213A\|תַּעֲשֶׂ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H2656\|חֶפְצִ֔]][[H9020\|י]] [[H9005\|לָ]][[H5414G\|תֵ֖ת]] [[H3899G\|לֶ֥חֶם]] [[H1004M\|בֵּיתִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CEDAR|CEDAR]] • [[topic CONTRACTS|CONTRACTS]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic TEMPLE|TEMPLE]] • [[topic TREATY|TREATY]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.5.8|<< 1 Kings 5:8]]</td><td align="center" style="border:none;">[[1Kgs.5|1 Kings 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.5.10|1 Kings 5:10 >>]]</td></tr></table>
 

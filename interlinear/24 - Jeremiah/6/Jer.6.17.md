@@ -1,8 +1,55 @@
+---
+title: Jeremiah 6:17
+type: Verse
+kjv: "Also I set watchmen over you, saying, Hearken to the sound of the trumpet. But they said, We will not hearken."
+bsb: "I appointed watchmen over you and said, ‘Listen for the sound of the ram’s horn.’ But they answered, ‘We will not listen!’"
+hebrew: "וַהֲקִמֹתִ֤י עֲלֵיכֶם֙ צֹפִ֔ים הַקְשִׁ֖יבוּ לְק֣וֹל שׁוֹפָ֑ר וַיֹּאמְר֖וּ לֹ֥א נַקְשִֽׁיב׃"
+pericope: "[[Jer.6.1 Jerusalem’s Final Warning|Jerusalem’s Final Warning]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 6
+book/chapter: "[[Jer.6|Jeremiah 6]]"
+chronological_order: 723
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic TRUMPET|TRUMPET]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965I]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H6822]]"
+- "[[H7181]]"
+- "[[H9005]]"
+- "[[H6963H]]"
+- "[[H7782]]"
+- "[[H0559]]"
+- "[[H3808]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 6:17**<big><big>[[Jer.6.1 Jerusalem’s Final Warning|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Also I set watchmen over you, [saying], Hearken to the sound of the trumpet. But they said, We will not hearken.
 <small><sub>**BSB:**</sub></small>
 I appointed watchmen over you and said, ‘Listen for the sound of the ram’s horn.’ But they answered, ‘We will not listen!’
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965I\|הֲקִמֹתִ֤י]] [[H5921A\|עֲלֵי]][[H9036\|כֶם֙]] [[H6822\|צֹפִ֔ים]] [[H7181\|הַקְשִׁ֖יבוּ]] [[H9005\|לְ]][[H6963H\|ק֣וֹל]] [[H7782\|שׁוֹפָ֑ר]] [[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H3808\|לֹ֥א]] [[H7181\|נַקְשִֽׁיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IMPENITENCE|IMPENITENCE]] • [[topic TRUMPET|TRUMPET]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.6.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.6.16|<< Jeremiah 6:16]]</td><td align="center" style="border:none;">[[Jer.6|Jeremiah 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.6.18|Jeremiah 6:18 >>]]</td></tr></table>
 

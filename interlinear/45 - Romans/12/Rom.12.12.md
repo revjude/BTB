@@ -1,10 +1,54 @@
+---
+title: Romans 12:12
+type: Verse
+kjv: "Rejoicing in hope; patient in tribulation; continuing instant in prayer;"
+bsb: "Be joyful in hope, patient in affliction, persistent in prayer."
+greek: "τῇ ἐλπίδι χαίροντες, τῇ θλίψει ὑπομένοντες, τῇ προσευχῇ προσκαρτεροῦντες,"
+pericope: "[[Rom.12.9 Love, Zeal, Hope, Hospitality|Love, Zeal, Hope, Hospitality]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 12
+book/chapter: "[[Rom.12|Romans 12]]"
+chronological_order: 1098
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic HOPE|HOPE]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PRAYERFULNESS|PRAYERFULNESS]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1680]]"
+- "[[G5463]]"
+- "[[G2347]]"
+- "[[G5278]]"
+- "[[G4335]]"
+- "[[G4342]]"
+texts:
+- NKO
+---
+
 **Romans 12:12**<big><big>[[Rom.12.9 Love, Zeal, Hope, Hospitality|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Rejoicing in hope; patient in tribulation; continuing instant in prayer;
 <small><sub>**BSB:**</sub></small>
 Be joyful in hope, patient in affliction, persistent in prayer.
-<small><sub>**Literal:**</sub></small>
-<the> in hope rejoicing, <the> in tribulation being patient, <the> in prayer being constant,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.11|<< Romans 12:11]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.13|Romans 12:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῇ]]  [[G1680\|ἐλπίδι]]  [[G5463\|χαίροντες,]]  [[G3588\|τῇ]]  [[G2347\|θλίψει]]  [[G5278\|ὑπομένοντες,]]  [[G3588\|τῇ]]  [[G4335\|προσευχῇ]]  [[G4342\|προσκαρτεροῦντες,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSTANCY|CONSTANCY]] • [[topic HOPE|HOPE]] • [[topic JOY|JOY]] • [[topic PATIENCE|PATIENCE]] • [[topic PRAYERFULNESS|PRAYERFULNESS]] • [[topic RELIGION|RELIGION]] • [[topic RESIGNATION|RESIGNATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.12.11|<< Romans 12:11]]</td><td align="center" style="border:none;">[[Rom.12|Romans 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.12.13|Romans 12:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

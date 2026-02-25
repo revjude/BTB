@@ -1,8 +1,57 @@
+---
+title: Hosea 4:10
+type: Verse
+kjv: "For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD."
+bsb: "They will eat but not be satisfied; they will be promiscuous but not multiply. For they have abandoned the LORD to give themselves"
+hebrew: "וְאָֽכְלוּ֙ וְלֹ֣א יִשְׂבָּ֔עוּ הִזְנ֖וּ וְלֹ֣א יִפְרֹ֑צוּ כִּֽי־ אֶת־ יְהוָ֥ה עָזְב֖וּ לִשְׁמֹֽר׃"
+pericope: "[[Hos.4.1 God’s Case against His People|God’s Case against His People]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 4
+book/chapter: "[[Hos.4|Hosea 4]]"
+chronological_order: 645
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SIN|SIN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0398]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H7646]]"
+- "[[H2181]]"
+- "[[H6555]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H5800A]]"
+- "[[H9005]]"
+- "[[H8104I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 4:10**<big><big>[[Hos.4.1 God’s Case against His People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD.
 <small><sub>**BSB:**</sub></small>
 They will eat but not be satisfied; they will be promiscuous but not multiply. For they have abandoned the LORD to give themselves
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0398\|אָֽכְלוּ֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H7646\|יִשְׂבָּ֔עוּ]] [[H2181\|הִזְנ֖וּ]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6555\|יִפְרֹ֑צוּ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H5800A\|עָזְב֖וּ]] [[H9005\|לִ]][[H8104I\|שְׁמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SIN|SIN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.4.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.4.9|<< Hosea 4:9]]</td><td align="center" style="border:none;">[[Hos.4|Hosea 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.4.11|Hosea 4:11 >>]]</td></tr></table>
 

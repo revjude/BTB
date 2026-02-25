@@ -1,8 +1,59 @@
+---
+title: Numbers 11:9
+type: Verse
+kjv: "And when the dew fell upon the camp in the night, the manna fell upon it."
+bsb: "When the dew fell on the camp at night, the manna would fall with it."
+hebrew: "וּבְרֶ֧דֶת הַטַּ֛ל עַל־ הַֽמַּחֲנֶ֖ה לָ֑יְלָה יֵרֵ֥ד הַמָּ֖ן עָלָֽיו׃"
+pericope: "[[Num.11.1 The Complaints of the People|The Complaints of the People]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 11
+book/chapter: "[[Num.11|Numbers 11]]"
+chronological_order: 171
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Rebellion and Delay"
+date: ~1444–1407 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic MANNA|MANNA]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic TROUBLE|TROUBLE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H2919]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4264]]"
+- "[[H3915]]"
+- "[[H4478A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 11:9**<big><big>[[Num.11.1 The Complaints of the People|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when the dew fell upon the camp in the night, the manna fell upon it.
 <small><sub>**BSB:**</sub></small>
 When the dew fell on the camp at night, the manna would fall with it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3381\|רֶ֧דֶת]] [[H9009\|הַ]][[H2919\|טַּ֛ל]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶ֖ה]] [[H3915\|לָ֑יְלָה]] [[H3381\|יֵרֵ֥ד]] [[H9009\|הַ]][[H4478A\|מָּ֖ן]] [[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic MANNA|MANNA]] • [[topic MURMURING|MURMURING]] • [[topic TROUBLE|TROUBLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.11.8|<< Numbers 11:8]]</td><td align="center" style="border:none;">[[Num.11|Numbers 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.11.10|Numbers 11:10 >>]]</td></tr></table>
 

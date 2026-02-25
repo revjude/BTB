@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Feeding of the Four Thousand
+type: Pericope
 pericope: "[[Matt.15.29 The Feeding of the Four Thousand|The Feeding of the Four Thousand]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 15
 book/chapter: "[[Matt.15|Matthew 15]]"
-genre:
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.15.29]]"
 - "[[Matt.15.30]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.15.39]]"
 ---
 
-[[Matt.15|Matthew 15:29 - Matthew 15:39]]
+<small>[[Matt.15|Matthew 15:29-39]]</small>
 *The Feeding of the Four Thousand*
 
 [[Matt.15.29|29]] And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.

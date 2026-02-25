@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jezebel’s Violent Death
+type: Pericope
 pericope: "[[2Kgs.9.30 Jezebel’s Violent Death|Jezebel’s Violent Death]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 2 Kings
 chapter: 9
 book/chapter: "[[2Kgs.9|2 Kings 9]]"
-genre:
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[2Kgs.9.30]]"
 - "[[2Kgs.9.31]]"
@@ -26,7 +33,7 @@ verses:
 - "[[2Kgs.9.37]]"
 ---
 
-[[2Kgs.9|2 Kings 9:30 - 2 Kings 9:37]]
+<small>[[2Kgs.9|2 Kings 9:30-37]]</small>
 *Jezebel’s Violent Death*
 
 [[2Kgs.9.30|30]] And when Jehu was come to Jezreel, Jezebel heard \[of it\]; and she painted her face, and tired her head, and looked out at a window.

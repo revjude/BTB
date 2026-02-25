@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Inside the Temple
+type: Pericope
 pericope: "[[Ezek.41.1 Inside the Temple|Inside the Temple]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 41
 book/chapter: "[[Ezek.41|Ezekiel 41]]"
-genre:
+chronological_order: 832
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 4
 verses:
 - "[[Ezek.41.1]]"
 - "[[Ezek.41.2]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Ezek.41.4]]"
 ---
 
-[[Ezek.41|Ezekiel 41:1 - Ezekiel 41:4]]
+<small>[[Ezek.41|Ezekiel 41:1-4]]</small>
 *Inside the Temple*
 
 [[Ezek.41.1|1]] Afterward he brought me to the temple, and measured the posts, six cubits broad on the one side, and six cubits broad on the other side, \[which was\] the breadth of the tabernacle.

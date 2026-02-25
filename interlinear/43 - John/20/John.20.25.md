@@ -1,10 +1,67 @@
+---
+title: John 20:25
+type: Verse
+kjv: "The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
+bsb: "So the other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe.”"
+greek: "ἔλεγον οὖν αὐτῷ οἱ ἄλλοι μαθηταί· ἑωράκαμεν τὸν κύριον. ὁ δὲ εἶπεν αὐτοῖς· ἐὰν μὴ ἴδω ἐν ταῖς χερσὶν αὐτοῦ τὸν τύπον τῶν ἥλων καὶ βάλω τὸν δάκτυλόν μου εἰς τὸν τύπον τῶν ἥλων καὶ βάλω μου τὴν χεῖρα εἰς τὴν πλευρὰν αὐτοῦ, οὐ μὴ πιστεύσω.¶"
+pericope: "[[John.20.24 Jesus Appears to Thomas|Jesus Appears to Thomas]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 20
+book/chapter: "[[John.20|John 20]]"
+chronological_order: 1017
+era: Gospel
+period: "The Life of Christ: Resurrection and Ascension"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic SKEPTICISM|SKEPTICISM]]"
+- "[[topic THOMAS|THOMAS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3004G]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G0243]]"
+- "[[G3101]]"
+- "[[G3708]]"
+- "[[G2962G]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G1492H]]"
+- "[[G1722]]"
+- "[[G5495]]"
+- "[[G5179]]"
+- "[[G2247]]"
+- "[[G2532]]"
+- "[[G0906H]]"
+- "[[G1147]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G4125]]"
+- "[[G3756]]"
+- "[[G4100]]"
+texts:
+- NKO
+---
+
 **John 20:25**<big><big>[[John.20.24 Jesus Appears to Thomas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.
 <small><sub>**BSB:**</sub></small>
 So the other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe.”
-<small><sub>**Literal:**</sub></small>
-Were saying therefore to him the other disciples; We have seen the Lord. <the> But he said to them; Only unless I shall see in the hands of Him the mark of the nails and shall put the finger of mine into the mark of the nails and shall put my <the> hand into the side of Him, certainly not shall I believe.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.24|<< John 20:24]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.26|John 20:26 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|ἔλεγον]]  [[G3767\|οὖν]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G0243\|ἄλλοι]]  [[G3101\|μαθηταί·]]  [[G3708\|ἑωράκαμεν]]  [[G3588\|τὸν]]  [[G2962G\|κύριον.]]  [[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G1492H\|ἴδω]]  [[G1722\|ἐν]]  [[G3588\|ταῖς]]  [[G5495\|χερσὶν]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸν]]  [[G5179\|τύπον]]  [[G3588\|τῶν]]  [[G2247\|ἥλων]]  [[G2532\|καὶ]]  [[G0906H\|βάλω]]  [[G3588\|τὸν]]  [[G1147\|δάκτυλόν]]  [[G3165\|μου]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G5179\|τύπον]]  [[G3588\|τῶν]]  [[G2247\|ἥλων]]  [[G2532\|καὶ]]  [[G0906H\|βάλω]]  [[G3165\|μου]]  [[G3588\|τὴν]]  [[G5495\|χεῖρα]]  [[G1519\|εἰς]]  [[G3588\|τὴν]]  [[G4125\|πλευρὰν]]  [[G0846\|αὐτοῦ,]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G4100\|πιστεύσω.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SKEPTICISM|SKEPTICISM]] • [[topic THOMAS|THOMAS]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.20.24|<< John 20:24]]</td><td align="center" style="border:none;">[[John.20|John 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.20.26|John 20:26 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

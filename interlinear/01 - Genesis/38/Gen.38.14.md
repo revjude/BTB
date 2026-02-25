@@ -1,8 +1,84 @@
+---
+title: Genesis 38:14
+type: Verse
+kjv: "And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife."
+bsb: "she removed her widow’s garments, covered her face with a veil to disguise herself, and sat at the entrance to Enaim, which is on the way to Timnah. For she saw that although Shelah had grown up, she had not been given to him as a wife."
+hebrew: "וַתָּסַר֩ בִּגְדֵ֨י אַלְמְנוּתָ֜הּ מֵֽעָלֶ֗יהָ וַתְּכַ֤ס בַּצָּעִיף֙ וַתִּתְעַלָּ֔ף וַתֵּ֙שֶׁב֙ בְּפֶ֣תַח עֵינַ֔יִם אֲשֶׁ֖ר עַל־ דֶּ֣רֶךְ תִּמְנָ֑תָה כִּ֤י רָאֲתָה֙ כִּֽי־ גָדַ֣ל שֵׁלָ֔ה וְהִ֕וא לֹֽא־ נִתְּנָ֥ה ל֖וֹ לְאִשָּֽׁה׃"
+pericope: "[[Gen.38.1 Judah and Tamar|Judah and Tamar]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 38
+book/chapter: "[[Gen.38|Genesis 38]]"
+chronological_order: 80
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic MASKING|MASKING]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic SHEEP|SHEEP]]"
+- "[[topic SHELAH|SHELAH]]"
+- "[[topic TAMAR|TAMAR]]"
+- "[[topic TIMNATH|TIMNATH]]"
+- "[[topic VEIL|VEIL]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5493G]]"
+- "[[H0899B]]"
+- "[[H0491]]"
+- "[[H9024]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H3680]]"
+- "[[H9003]]"
+- "[[H6809]]"
+- "[[H5968]]"
+- "[[H3427]]"
+- "[[H6607]]"
+- "[[H5879G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H1870K]]"
+- "[[H8553G]]"
+- "[[H9011]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H1431]]"
+- "[[H7956]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H5414O]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 38:14**<big><big>[[Gen.38.1 Judah and Tamar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which [is] by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.
 <small><sub>**BSB:**</sub></small>
 she removed her widow’s garments, covered her face with a veil to disguise herself, and sat at the entrance to Enaim, which is on the way to Timnah. For she saw that although Shelah had grown up, she had not been given to him as a wife.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5493G\|תָּסַר֩]] [[H0899B\|בִּגְדֵ֨י]] [[H0491\|אַלְמְנוּתָ֜]][[H9024\|הּ]] [[H9006\|מֵֽ]][[H5921A\|עָלֶ֗י]][[H9034\|הָ]] [[H9001\|וַ]][[H3680\|תְּכַ֤ס]] [[H9003\|בַּ]][[H6809\|צָּעִיף֙]] [[H9001\|וַ]][[H5968\|תִּתְעַלָּ֔ף]] [[H9001\|וַ]][[H3427\|תֵּ֙שֶׁב֙]] [[H9003\|בְּ]][[H6607\|פֶ֣תַח]] [[H5879G\|עֵינַ֔יִם]] [[H0834A\|אֲשֶׁ֖ר]] [[H5921A\|עַל]][[H9014\|־]] [[H1870K\|דֶּ֣רֶךְ]] [[H8553G\|תִּמְנָ֑תָ]][[H9011\|ה]] [[H3588A\|כִּ֤י]] [[H7200G\|רָאֲתָה֙]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1431\|גָדַ֣ל]] [[H7956\|שֵׁלָ֔ה]] [[H9002\|וְ]][[H1931\|הִ֕וא]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414O\|נִתְּנָ֥ה]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic JUDAH|JUDAH]] • [[topic MASKING|MASKING]] • [[topic MOURNING|MOURNING]] • [[topic SHEEP|SHEEP]] • [[topic SHELAH|SHELAH]] • [[topic TAMAR|TAMAR]] • [[topic TIMNATH|TIMNATH]] • [[topic VEIL|VEIL]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.38.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.38.13|<< Genesis 38:13]]</td><td align="center" style="border:none;">[[Gen.38|Genesis 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.38.15|Genesis 38:15 >>]]</td></tr></table>
 

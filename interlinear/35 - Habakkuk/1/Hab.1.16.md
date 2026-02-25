@@ -1,8 +1,63 @@
+---
+title: Habakkuk 1:16
+type: Verse
+kjv: "Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous."
+bsb: "Therefore he sacrifices to his dragnet and burns incense to his fishing net, for by these things his portion is sumptuous and his food is rich."
+hebrew: "עַל־ כֵּן֙ יְזַבֵּ֣חַ לְחֶרְמ֔וֹ וִֽיקַטֵּ֖ר לְמִכְמַרְתּ֑וֹ כִּ֤י בָהֵ֙מָּה֙ שָׁמֵ֣ן חֶלְק֔וֹ וּמַאֲכָל֖וֹ בְּרִאָֽה׃"
+pericope: "[[Hab.1.12 Habakkuk’s Second Complaint|Habakkuk’s Second Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Habakkuk
+chapter: 1
+book/chapter: "[[Hab.1|Habakkuk 1]]"
+chronological_order: 738
+era: Exile
+period: "Judah's Final Days: Habakkuk's Prophecy"
+date: ~608–605 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- dialogue
+- theodicy
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H2764B]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6999H]]"
+- "[[H4365A]]"
+- "[[H3588A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H8082]]"
+- "[[H2506A]]"
+- "[[H3978]]"
+- "[[H1277]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Habakkuk 1:16**<big><big>[[Hab.1.12 Habakkuk’s Second Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion [is] fat, and their meat plenteous.
 <small><sub>**BSB:**</sub></small>
 Therefore he sacrifices to his dragnet and burns incense to his fishing net, for by these things his portion is sumptuous and his food is rich.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּן֙]] [[H2076\|יְזַבֵּ֣חַ]] [[H9005\|לְ]][[H2764B\|חֶרְמ֔]][[H9023\|וֹ]] [[H9002\|וִֽ]][[H6999H\|יקַטֵּ֖ר]] [[H9005\|לְ]][[H4365A\|מִכְמַרְתּ֑]][[H9023\|וֹ]] [[H3588A\|כִּ֤י]] [[H9003\|בָ]][[H9038\|הֵ֙מָּה֙]] [[H8082\|שָׁמֵ֣ן]] [[H2506A\|חֶלְק֔]][[H9023\|וֹ]] [[H9002\|וּ]][[H3978\|מַאֲכָל֖]][[H9023\|וֹ]] [[H1277\|בְּרִאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic HAPPINESS|HAPPINESS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hab.1.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hab.1.15|<< Habakkuk 1:15]]</td><td align="center" style="border:none;">[[Hab.1|Habakkuk 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hab.1.17|Habakkuk 1:17 >>]]</td></tr></table>
 

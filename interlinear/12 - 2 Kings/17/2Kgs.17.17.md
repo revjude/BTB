@@ -1,8 +1,69 @@
+---
+title: 2 Kings 17:17
+type: Verse
+kjv: "And they caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do evil in the sight of the LORD, to provoke him to anger."
+bsb: "They sacrificed their sons and daughters in the fire and practiced divination and soothsaying. They devoted themselves to doing evil in the sight of the LORD, provoking Him to anger."
+hebrew: "וַֽ֠יַּעֲבִירוּ אֶת־ בְּנֵיהֶ֤ם וְאֶת־ בְּנֽוֹתֵיהֶם֙ בָּאֵ֔שׁ וַיִּקְסְמ֥וּ קְסָמִ֖ים וַיְנַחֵ֑שׁוּ וַיִּֽתְמַכְּר֗וּ לַעֲשׂ֥וֹת הָרַ֛ע בְּעֵינֵ֥י יְהוָ֖ה לְהַכְעִיסֽוֹ׃"
+pericope: "[[2Kgs.17.5 Israel Carried Captive to Assyria|Israel Carried Captive to Assyria]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H5674A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H1323G]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H7080]]"
+- "[[H7081]]"
+- "[[H5172]]"
+- "[[H4376]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H3707]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:17**<big><big>[[2Kgs.17.5 Israel Carried Captive to Assyria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they caused their sons and their daughters to pass through the fire, and used divination and enchantments, and sold themselves to do evil in the sight of the LORD, to provoke him to anger.
 <small><sub>**BSB:**</sub></small>
 They sacrificed their sons and daughters in the fire and practiced divination and soothsaying. They devoted themselves to doing evil in the sight of the LORD, provoking Him to anger.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֠]][[H5674A\|יַּעֲבִירוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בְּנֵי]][[H9028\|הֶ֤ם]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1323G\|בְּנֽוֹתֵי]][[H9028\|הֶם֙]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H9001\|וַ]][[H7080\|יִּקְסְמ֥וּ]] [[H7081\|קְסָמִ֖ים]] [[H9001\|וַ]][[H5172\|יְנַחֵ֑שׁוּ]] [[H9001\|וַ]][[H4376\|יִּֽתְמַכְּר֗וּ]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9009\|הָ]][[H7451H\|רַ֛ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לְ]][[H3707\|הַכְעִיסֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic BABYLON|BABYLON]] • [[topic CHARACTER|CHARACTER]] • [[topic FIRE|FIRE]] • [[topic IDOLATRY|IDOLATRY]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.16|<< 2 Kings 17:16]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.18|2 Kings 17:18 >>]]</td></tr></table>
 

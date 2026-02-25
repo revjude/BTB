@@ -1,8 +1,58 @@
+---
+title: 1 Chronicles 6:31
+type: Verse
+kjv: "And these are they whom David set over the service of song in the house of the LORD, after that the ark had rest."
+bsb: "These are the men David put in charge of the music in the house of the LORD after the ark rested there."
+hebrew: "וְאֵ֗לֶּה אֲשֶׁ֨ר הֶעֱמִ֥יד דָּוִ֛יד עַל־ יְדֵי־ שִׁ֖יר בֵּ֣ית יְהוָ֑ה מִמְּנ֖וֹחַ הָאָרֽוֹן׃"
+pericope: "[[1Chr.6.31 The Temple Musicians|The Temple Musicians]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 6
+book/chapter: "[[1Chr.6|1 Chronicles 6]]"
+chronological_order: 325
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ARK|ARK]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9002]]"
+- "[[H0428]]"
+- "[[H0834A]]"
+- "[[H5975H]]"
+- "[[H1732]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3027H]]"
+- "[[H7892A]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H4494]]"
+- "[[H9009]]"
+- "[[H0727]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 6:31**<big><big>[[1Chr.6.31 The Temple Musicians|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And these [are they] whom David set over the service of song in the house of the LORD, after that the ark had rest.
 <small><sub>**BSB:**</sub></small>
 These are the men David put in charge of the music in the house of the LORD after the ark rested there.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0428\|אֵ֗לֶּה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5975H\|הֶעֱמִ֥יד]] [[H1732\|דָּוִ֛יד]] [[H5921A\|עַל]][[H9014\|־]] [[H3027H\|יְדֵי]][[H9014\|־]] [[H7892A\|שִׁ֖יר]] [[H1004Q\|בֵּ֣ית]] [[H3068G\|יְהוָ֑ה]] [[H9006\|מִ]][[H4494\|מְּנ֖וֹחַ]] [[H9009\|הָ]][[H0727\|אָרֽוֹן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARK|ARK]] • [[topic CHURCH|CHURCH]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.6.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.6.30|<< 1 Chronicles 6:30]]</td><td align="center" style="border:none;">[[1Chr.6|1 Chronicles 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.6.32|1 Chronicles 6:32 >>]]</td></tr></table>
 

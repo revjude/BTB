@@ -1,8 +1,53 @@
+---
+title: Amos 8:1
+type: Verse
+kjv: "Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit."
+bsb: "This is what the Lord GOD showed me: I saw a basket of summer fruit."
+hebrew: "כֹּ֥ה הִרְאַ֖נִי אֲדֹנָ֣י יְהוִ֑ה וְהִנֵּ֖ה כְּל֥וּב קָֽיִץ׃"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic SUMMER|SUMMER]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H3541]]"
+- "[[H7200G]]"
+- "[[H9030]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H3619]]"
+- "[[H7019]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 8:1**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus hath the Lord GOD shewed unto me: and behold a basket of summer fruit.
 <small><sub>**BSB:**</sub></small>
 This is what the Lord GOD showed me: I saw a basket of summer fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֥ה]] [[H7200G\|הִרְאַ֖]][[H9030\|נִי]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H9002\|וְ]][[H2009\|הִנֵּ֖ה]] [[H3619\|כְּל֥וּב]] [[H7019\|קָֽיִץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SUMMER|SUMMER]] • [[topic SYMBOLS|SYMBOLS]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.7.17|<< Amos 7:17]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.2|Amos 8:2 >>]]</td></tr></table>
 

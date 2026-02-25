@@ -1,10 +1,62 @@
+---
+title: Matthew 27:17
+type: Verse
+kjv: "Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?"
+bsb: "So when the crowd had assembled, Pilate asked them, “Which one do you want me to release to you: Barabbas, or Jesus who is called Christ?”"
+greek: "συνηγμένων οὖν αὐτῶν εἶπεν αὐτοῖς ὁ Πιλᾶτος· τίνα θέλετε ἀπολύσω ὑμῖν; Ἰησοῦν τὸν Βαραββᾶν ἢ Ἰησοῦν τὸν λεγόμενον χριστόν;"
+pericope: "[[Matt.27.15 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[G4863]]"
+- "[[G3767]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G4091]]"
+- "[[G5101]]"
+- "[[G2309]]"
+- "[[G0630G]]"
+- "[[G4771]]"
+- "[[G2424G]]"
+- "[[G0912]]"
+- "[[G2228]]"
+- "[[G3004H]]"
+- "[[G5547]]"
+texts:
+- NKO
+- NO
+---
+
 **Matthew 27:17**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?
 <small><sub>**BSB:**</sub></small>
 So when the crowd had assembled, Pilate asked them, “Which one do you want me to release to you: Barabbas, or Jesus who is called Christ?”
-<small><sub>**Literal:**</sub></small>
-When were assembled therefore they said to them <the> Pilate; Whom do you want [that] I may release to you? Jesus <the> Barabbas or Jesus who is named Christ?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.16|<< Matthew 27:16]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.18|Matthew 27:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4863\|συνηγμένων]]  [[G3767\|οὖν]]  [[G0846\|αὐτῶν]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς]]  [[G3588\|ὁ]]  [[G4091\|Πιλᾶτος·]]  [[G5101\|τίνα]]  [[G2309\|θέλετε]]  [[G0630G\|ἀπολύσω]]  [[G4771\|ὑμῖν;]]  [[G2424G\|Ἰησοῦν]]  [[G3588\|τὸν]]  [[G0912\|Βαραββᾶν]]  [[G2228\|ἢ]]  [[G2424G\|Ἰησοῦν]]  [[G3588\|τὸν]]  [[G3004H\|λεγόμενον]]  [[G5547\|χριστόν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.16|<< Matthew 27:16]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.18|Matthew 27:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

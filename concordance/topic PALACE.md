@@ -5,7 +5,7 @@
 
 → Of David [[2Sam.7.2|2Sa 7:2]]
 
-→ Of Solomon [[1Kgs.7.1|1Ki 7:1]]-[[1Kgs.7.12|12]]
+→ Of Solomon [[1Kgs.7.1|1Ki 7:1-12]]
 
 → At Babylon [[Dan.4.29|Da 4:29]]; [[Dan.5.5|5:5]]; [[Dan.6.18|6:18]]
 

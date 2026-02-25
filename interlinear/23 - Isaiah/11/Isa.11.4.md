@@ -1,8 +1,68 @@
+---
+title: Isaiah 11:4
+type: Verse
+kjv: "But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked."
+bsb: "but with righteousness He will judge the poor, and with equity He will decide for the lowly of the earth. He will strike the earth with the rod of His mouth and slay the wicked with the breath of His lips."
+hebrew: "וְשָׁפַ֤ט בְּצֶ֙דֶק֙ דַּלִּ֔ים וְהוֹכִ֥יחַ בְּמִישׁ֖וֹר לְעַנְוֵי־ אָ֑רֶץ וְהִֽכָּה־ אֶ֙רֶץ֙ בְּשֵׁ֣בֶט פִּ֔יו וּבְר֥וּחַ שְׂפָתָ֖יו יָמִ֥ית רָשָֽׁע׃"
+pericope: "[[Isa.11.1 The Root of Jesse|The Root of Jesse]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 11
+book/chapter: "[[Isa.11|Isaiah 11]]"
+chronological_order: 621
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic POOR|POOR]]"
+- "[[topic POWER|POWER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H9003]]"
+- "[[H6664G]]"
+- "[[H1800]]"
+- "[[H3198]]"
+- "[[H4334]]"
+- "[[H9005]]"
+- "[[H6035]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H5221]]"
+- "[[H7626G]]"
+- "[[H6310G]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7307H]]"
+- "[[H8193G]]"
+- "[[H4191]]"
+- "[[H7563]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 11:4**<big><big>[[Isa.11.1 The Root of Jesse|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
 <small><sub>**BSB:**</sub></small>
 but with righteousness He will judge the poor, and with equity He will decide for the lowly of the earth. He will strike the earth with the rod of His mouth and slay the wicked with the breath of His lips.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8199\|שָׁפַ֤ט]] [[H9003\|בְּ]][[H6664G\|צֶ֙דֶק֙]] [[H1800\|דַּלִּ֔ים]] [[H9001\|וְ]][[H3198\|הוֹכִ֥יחַ]] [[H9003\|בְּ]][[H4334\|מִישׁ֖וֹר]] [[H9005\|לְ]][[H6035\|עַנְוֵי]][[H9014\|־]] [[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H5221\|הִֽכָּה]][[H9014\|־]] [[H0776G\|אֶ֙רֶץ֙]] [[H9003\|בְּ]][[H7626G\|שֵׁ֣בֶט]] [[H6310G\|פִּ֔י]][[H9023\|ו]] [[H9002\|וּ]][[H9003\|בְ]][[H7307H\|ר֥וּחַ]] [[H8193G\|שְׂפָתָ֖י]][[H9023\|ו]] [[H4191\|יָמִ֥ית]] [[H7563\|רָשָֽׁע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MEEKNESS|MEEKNESS]] • [[topic POOR|POOR]] • [[topic POWER|POWER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.11.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.11.3|<< Isaiah 11:3]]</td><td align="center" style="border:none;">[[Isa.11|Isaiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.11.5|Isaiah 11:5 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

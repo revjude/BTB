@@ -1,8 +1,60 @@
+---
+title: Amos 3:15
+type: Verse
+kjv: "And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the LORD."
+bsb: "I will tear down the winter house along with the summer house; the houses of ivory will also perish, and the great houses will come to an end,” declares the LORD."
+hebrew: "וְהִכֵּיתִ֥י בֵית־ הַחֹ֖רֶף עַל־ בֵּ֣ית הַקָּ֑יִץ וְאָבְד֞וּ בָּתֵּ֣י הַשֵּׁ֗ן וְסָפ֛וּ בָּתִּ֥ים רַבִּ֖ים נְאֻם־ יְהוָֽה׃ ס"
+pericope: "[[Amos.3.1 Witnesses against Israel|Witnesses against Israel]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 3
+book/chapter: "[[Amos.3|Amos 3]]"
+chronological_order: 600
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic HOUSE|HOUSE]]"
+- "[[topic IVORY|IVORY]]"
+- "[[topic SUMMER|SUMMER]]"
+- "[[topic WINTER|WINTER]]"
+strongs:
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H1004B]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H2779]]"
+- "[[H5921A]]"
+- "[[H7019]]"
+- "[[H0006]]"
+- "[[H8127H]]"
+- "[[H5595]]"
+- "[[H7227A]]"
+- "[[H5002]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Amos 3:15**<big><big>[[Amos.3.1 Witnesses against Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the LORD.
 <small><sub>**BSB:**</sub></small>
 I will tear down the winter house along with the summer house; the houses of ivory will also perish, and the great houses will come to an end,” declares the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5221\|הִכֵּיתִ֥י]] [[H1004B\|בֵית]][[H9014\|־]] [[H9009\|הַ]][[H2779\|חֹ֖רֶף]] [[H5921A\|עַל]][[H9014\|־]] [[H1004B\|בֵּ֣ית]] [[H9009\|הַ]][[H7019\|קָּ֑יִץ]] [[H9001\|וְ]][[H0006\|אָבְד֞וּ]] [[H1004B\|בָּתֵּ֣י]] [[H9009\|הַ]][[H8127H\|שֵּׁ֗ן]] [[H9001\|וְ]][[H5595\|סָפ֛וּ]] [[H1004B\|בָּתִּ֥ים]] [[H7227A\|רַבִּ֖ים]] [[H5002\|נְאֻם]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOUSE|HOUSE]] • [[topic IVORY|IVORY]] • [[topic SUMMER|SUMMER]] • [[topic WINTER|WINTER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.14|<< Amos 3:14]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.1|Amos 4:1 >>]]</td></tr></table>
 
@@ -21,7 +73,7 @@ I will tear down the winter house along with the summer house; the houses of ivo
 | houses  |**<big>&#8207;[[H1004B\|בָּתִּ֥ים]]&#8207; </big>**| ba.Tim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | great  |**<big>&#8207;[[H7227A\|רַבִּ֖ים]]&#8207; </big>**| ra.Bim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] utterance of  |**<big>&#8207;[[H5002\|נְאֻם]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ne.'um-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.3.14|<< Amos 3:14]]</td><td align="center" style="border:none;">[[Amos.3|Amos 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.4.1|Amos 4:1 >>]]</td></tr></table>
 
 

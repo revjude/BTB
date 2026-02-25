@@ -1,10 +1,65 @@
+---
+title: Matthew 5:12
+type: Verse
+kjv: "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you."
+bsb: "Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets before you."
+jesus_said: "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you."
+greek: "χαίρετε καὶ ἀγαλλιᾶσθε, ὅτι ὁ μισθὸς ὑμῶν πολὺς ἐν τοῖς οὐρανοῖς· οὕτως γὰρ ἐδίωξαν τοὺς προφήτας τοὺς πρὸ ὑμῶν.¶"
+pericope: "[[Matt.5.3 The Beatitudes|The Beatitudes]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONSTANCY|CONSTANCY]]"
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G5463]]"
+- "[[G2532]]"
+- "[[G0021]]"
+- "[[G3754H]]"
+- "[[G3588]]"
+- "[[G3408]]"
+- "[[G4771]]"
+- "[[G4183]]"
+- "[[G1722]]"
+- "[[G3772]]"
+- "[[G3779]]"
+- "[[G1063]]"
+- "[[G1377]]"
+- "[[G4396]]"
+- "[[G4253]]"
+texts:
+- NKO
+---
+
 **Matthew 5:12**<big><big>[[Matt.5.3 The Beatitudes|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Rejoice, and be exceeding glad: for great [is] your reward in heaven: for so persecuted they the prophets which were before you.
 <small><sub>**BSB:**</sub></small>
 Rejoice and be glad, because great is your reward in heaven, for in the same way they persecuted the prophets before you.
-<small><sub>**Literal:**</sub></small>
-do rejoice and do exult, for the reward of you [is] great in the heavens; thus for they persecuted the prophets <the> before you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.11|<< Matthew 5:11]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.13|Matthew 5:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5463\|χαίρετε]]  [[G2532\|καὶ]]  [[G0021\|ἀγαλλιᾶσθε,]]  [[G3754H\|ὅτι]]  [[G3588\|ὁ]]  [[G3408\|μισθὸς]]  [[G4771\|ὑμῶν]]  [[G4183\|πολὺς]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G3772\|οὐρανοῖς·]]  [[G3779\|οὕτως]]  [[G1063\|γὰρ]]  [[G1377\|ἐδίωξαν]]  [[G3588\|τοὺς]]  [[G4396\|προφήτας]]  [[G3588\|τοὺς]]  [[G4253\|πρὸ]]  [[G4771\|ὑμῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONSTANCY|CONSTANCY]] • [[topic HAPPINESS|HAPPINESS]] • [[topic HEAVEN|HEAVEN]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PERSECUTION|PERSECUTION]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.11|<< Matthew 5:11]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.13|Matthew 5:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

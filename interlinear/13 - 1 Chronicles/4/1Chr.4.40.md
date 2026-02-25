@@ -1,8 +1,63 @@
+---
+title: 1 Chronicles 4:40
+type: Verse
+kjv: "And they found fat pasture and good, and the land was wide, and quiet, and peaceable; for they of Ham had dwelt there of old."
+bsb: "There they found rich, good pasture, and the land was spacious, peaceful, and quiet; for some Hamites had lived there formerly."
+hebrew: "וַֽיִּמְצְא֤וּ מִרְעֶה֙ שָׁמֵ֣ן וָט֔וֹב וְהָאָ֙רֶץ֙ רַחֲבַ֣ת יָדַ֔יִם וְשֹׁקֶ֖טֶת וּשְׁלֵוָ֑ה כִּ֣י מִן־ חָ֔ם הַיֹּשְׁבִ֥ים שָׁ֖ם לְפָנִֽים׃"
+pericope: "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic HAM|HAM]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9001]]"
+- "[[H4672]]"
+- "[[H4829]]"
+- "[[H8082]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H7342H]]"
+- "[[H3027K]]"
+- "[[H8252]]"
+- "[[H7961]]"
+- "[[H3588A]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H2526H]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:40**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they found fat pasture and good, and the land [was] wide, and quiet, and peaceable; for [they] of Ham had dwelt there of old.
 <small><sub>**BSB:**</sub></small>
 There they found rich, good pasture, and the land was spacious, peaceful, and quiet; for some Hamites had lived there formerly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H4672\|יִּמְצְא֤וּ]] [[H4829\|מִרְעֶה֙]] [[H8082\|שָׁמֵ֣ן]] [[H9002\|וָ]][[H2896A\|ט֔וֹב]] [[H9002\|וְ]][[H9009\|הָ]][[H0776G\|אָ֙רֶץ֙]] [[H7342H\|רַחֲבַ֣ת]] [[H3027K\|יָדַ֔יִם]] [[H9002\|וְ]][[H8252\|שֹׁקֶ֖טֶת]] [[H9002\|וּ]][[H7961\|שְׁלֵוָ֑ה]] [[H3588A\|כִּ֣י]] [[H4480A\|מִן]][[H9014\|־]] [[H2526H\|חָ֔ם]] [[H9009\|הַ]][[H3427\|יֹּשְׁבִ֥ים]] [[H8033G\|שָׁ֖ם]] [[H9005\|לְ]][[H6440G\|פָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAM|HAM]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.39|<< 1 Chronicles 4:39]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.41|1 Chronicles 4:41 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Hosea 2:12
+type: Verse
+kjv: "And I will destroy her vines and her fig trees, whereof she hath said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them."
+bsb: "I will destroy her vines and fig trees, which she thinks are the wages paid by her lovers. So I will make them into a thicket, and the beasts of the field will devour them."
+hebrew: "וַהֲשִׁמֹּתִ֗י גַּפְנָהּ֙ וּתְאֵ֣נָתָ֔הּ אֲשֶׁ֣ר אָמְרָ֗ה אֶתְנָ֥ה הֵ֙מָּה֙ לִ֔י אֲשֶׁ֥ר נָֽתְנוּ־ לִ֖י מְאַֽהֲבָ֑י וְשַׂמְתִּ֣ים לְיַ֔עַר וַאֲכָלָ֖תַם חַיַּ֥ת הַשָּׂדֶֽה׃"
+pericope: "[[Hos.2.1 Israel’s Adultery Rebuked|Israel’s Adultery Rebuked]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 2
+book/chapter: "[[Hos.2|Hosea 2]]"
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H8074G]]"
+- "[[H1612]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H8384]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H0866]]"
+- "[[H1992]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H5414N]]"
+- "[[H9014]]"
+- "[[H0157G]]"
+- "[[H7760A]]"
+- "[[H9038]]"
+- "[[H3293A]]"
+- "[[H0398]]"
+- "[[H2416C]]"
+- "[[H9009]]"
+- "[[H7704G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 2:12**<big><big>[[Hos.2.1 Israel’s Adultery Rebuked|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will destroy her vines and her fig trees, whereof she hath said, These [are] my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them.
 <small><sub>**BSB:**</sub></small>
 I will destroy her vines and fig trees, which she thinks are the wages paid by her lovers. So I will make them into a thicket, and the beasts of the field will devour them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H8074G\|הֲשִׁמֹּתִ֗י]] [[H1612\|גַּפְנָ]][[H9024\|הּ֙]] [[H9002\|וּ]][[H8384\|תְאֵ֣נָתָ֔]][[H9024\|הּ]] [[H0834A\|אֲשֶׁ֣ר]] [[H0559\|אָמְרָ֗ה]] [[H0866\|אֶתְנָ֥ה]] [[H1992\|הֵ֙מָּה֙]] [[H9005\|לִ֔]][[H9030\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H5414N\|נָֽתְנוּ]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H0157G\|מְאַֽהֲבָ֑]][[H9030\|י]] [[H9001\|וְ]][[H7760A\|שַׂמְתִּ֣י]][[H9038\|ם]] [[H9005\|לְ]][[H3293A\|יַ֔עַר]] [[H9001\|וַ]][[H0398\|אֲכָלָ֖תַ]][[H9038\|ם]] [[H2416C\|חַיַּ֥ת]] [[H9009\|הַ]][[H7704G\|שָּׂדֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.2.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.2.11|<< Hosea 2:11]]</td><td align="center" style="border:none;">[[Hos.2|Hosea 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.2.13|Hosea 2:13 >>]]</td></tr></table>
 

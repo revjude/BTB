@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Tribe of Asher
+type: Pericope
 pericope: "[[Num.26.44 The Tribe of Asher|The Tribe of Asher]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 26
 book/chapter: "[[Num.26|Numbers 26]]"
-genre:
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 4
 verses:
 - "[[Num.26.44]]"
 - "[[Num.26.45]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Num.26.47]]"
 ---
 
-[[Num.26|Numbers 26:44 - Numbers 26:47]]
+<small>[[Num.26|Numbers 26:44-47]]</small>
 *The Tribe of Asher*
 
 [[Num.26.44|44]] \[Of\] the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites.

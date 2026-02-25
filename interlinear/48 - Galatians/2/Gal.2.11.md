@@ -1,10 +1,56 @@
+---
+title: Galatians 2:11
+type: Verse
+kjv: "But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed."
+bsb: "When Cephas came to Antioch, however, I opposed him to his face, because he stood condemned."
+greek: "Ὅτε δὲ ἦλθεν Κηφᾶς εἰς Ἀντιόχειαν, κατὰ πρόσωπον αὐτῷ ἀντέστην, ὅτι κατεγνωσμένος ἦν."
+pericope: "[[Gal.2.11 Paul Confronts Cephas|Paul Confronts Cephas]]"
+original_language: Greek
+testament: New
+book: Galatians
+chapter: 2
+book/chapter: "[[Gal.2|Galatians 2]]"
+chronological_order: 1040
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 48–49
+book_genre:
+- epistle
+- pauline epistle
+- polemical
+topics:
+- "[[topic ANTIOCH|ANTIOCH]]"
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic OPINION, PUBLIC|OPINION, PUBLIC]]"
+strongs:
+- "[[G3753]]"
+- "[[G1161]]"
+- "[[G2064]]"
+- "[[G2786]]"
+- "[[G1519]]"
+- "[[G0490G]]"
+- "[[G2596]]"
+- "[[G4383]]"
+- "[[G0846]]"
+- "[[G0436]]"
+- "[[G3754H]]"
+- "[[G2607]]"
+- "[[G1510]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Galatians 2:11**<big><big>[[Gal.2.11 Paul Confronts Cephas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
 <small><sub>**BSB:**</sub></small>
 When Cephas came to Antioch, however, I opposed him to his face, because he stood condemned.
-<small><sub>**Literal:**</sub></small>
-When however came Peter to Antioch, to face his I opposed [him], because condemned he was standing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.10|<< Galatians 2:10]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.12|Galatians 2:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3753\|Ὅτε]]  [[G1161\|δὲ]]  [[G2064\|ἦλθεν]]  [[G2786\|Κηφᾶς]]  [[G1519\|εἰς]]  [[G0490G\|Ἀντιόχειαν,]]  [[G2596\|κατὰ]]  [[G4383\|πρόσωπον]]  [[G0846\|αὐτῷ]]  [[G0436\|ἀντέστην,]]  [[G3754H\|ὅτι]]  [[G2607\|κατεγνωσμένος]]  [[G1510\|ἦν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTIOCH|ANTIOCH]] • [[topic COWARDICE|COWARDICE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic OPINION, PUBLIC|OPINION, PUBLIC]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gal.2.10|<< Galatians 2:10]]</td><td align="center" style="border:none;">[[Gal.2|Galatians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gal.2.12|Galatians 2:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

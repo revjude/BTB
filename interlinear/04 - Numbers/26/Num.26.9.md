@@ -1,8 +1,72 @@
+---
+title: Numbers 26:9
+type: Verse
+kjv: "And the sons of Eliab; Nemuel, and Dathan, and Abiram. This is that Dathan and Abiram, which were famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD:"
+bsb: "and the sons of Eliab were Nemuel, Dathan, and Abiram. It was Dathan and Abiram, chosen by the congregation, who rebelled against Moses and Aaron with the followers of Korah who rebelled against the LORD."
+hebrew: "וּבְנֵ֣י אֱלִיאָ֔ב נְמוּאֵ֖ל וְדָתָ֣ן וַאֲבִירָ֑ם הֽוּא־ דָתָ֨ן וַאֲבִירָ֜ם קְרִיאֵ֣י הָעֵדָ֗ה אֲשֶׁ֨ר הִצּ֜וּ עַל־ מֹשֶׁ֤ה וְעַֽל־ אַהֲרֹן֙ בַּעֲדַת־ קֹ֔רַח בְּהַצֹּתָ֖ם עַל־ יְהוָֽה׃"
+pericope: "[[Num.26.5 The Tribe of Reuben|The Tribe of Reuben]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ABIRAM|ABIRAM]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic DATHAN|DATHAN]]"
+- "[[topic ELIAB|ELIAB]]"
+- "[[topic KORAH|KORAH]]"
+- "[[topic NEMUEL|NEMUEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H0446H]]"
+- "[[H5241G]]"
+- "[[H1885]]"
+- "[[H0048G]]"
+- "[[H1931]]"
+- "[[H9014]]"
+- "[[H7121G]]"
+- "[[H7148]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H0834A]]"
+- "[[H5327A]]"
+- "[[H5921A]]"
+- "[[H4872]]"
+- "[[H0175]]"
+- "[[H9003]]"
+- "[[H7141I]]"
+- "[[H9048]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Numbers 26:9**<big><big>[[Num.26.5 The Tribe of Reuben|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Eliab; Nemuel, and Dathan, and Abiram. This [is that] Dathan and Abiram, [which were] famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD:
 <small><sub>**BSB:**</sub></small>
 and the sons of Eliab were Nemuel, Dathan, and Abiram. It was Dathan and Abiram, chosen by the congregation, who rebelled against Moses and Aaron with the followers of Korah who rebelled against the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1121A\|בְנֵ֣י]] [[H0446H\|אֱלִיאָ֔ב]] [[H5241G\|נְמוּאֵ֖ל]] [[H9002\|וְ]][[H1885\|דָתָ֣ן]] [[H9002\|וַ]][[H0048G\|אֲבִירָ֑ם]] [[H1931\|הֽוּא]][[H9014\|־]] [[H1885\|דָתָ֨ן]] [[H9002\|וַ]][[H0048G\|אֲבִירָ֜ם]] [[H7148\|קְרִיאֵ֣י]] [[H9009\|הָ]][[H5712\|עֵדָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5327A\|הִצּ֜וּ]] [[H5921A\|עַל]][[H9014\|־]] [[H4872\|מֹשֶׁ֤ה]] [[H9002\|וְ]][[H5921A\|עַֽל]][[H9014\|־]] [[H0175\|אַהֲרֹן֙]] [[H9003\|בַּ]][[H5712\|עֲדַת]][[H9014\|־]] [[H7141I\|קֹ֔רַח]] [[H9003\|בְּ]][[H5327A\|הַצֹּתָ֖]][[H9048\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIRAM|ABIRAM]] • [[topic CITIZENS|CITIZENS]] • [[topic DATHAN|DATHAN]] • [[topic ELIAB|ELIAB]] • [[topic KORAH|KORAH]] • [[topic NEMUEL|NEMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.8|<< Numbers 26:8]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.10|Numbers 26:10 >>]]</td></tr></table>
 

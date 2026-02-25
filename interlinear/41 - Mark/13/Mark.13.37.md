@@ -1,10 +1,52 @@
+---
+title: Mark 13:37
+type: Verse
+kjv: "And what I say unto you I say unto all, Watch."
+bsb: "And what I say to you, I say to everyone: Keep watch!”"
+jesus_said: "And what I say unto you I say unto all, Watch."
+greek: "ὃ δὲ ὑμῖν λέγω, πᾶσιν λέγω· γρηγορεῖτε.¶"
+pericope: "[[Mark.13.32 Readiness at Any Hour|Readiness at Any Hour]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 13
+book/chapter: "[[Mark.13|Mark 13]]"
+chronological_order: 998
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G3739]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G3956]]"
+- "[[G1127]]"
+texts:
+- N(k)O
+- NKO
+---
+
 **Mark 13:37**<big><big>[[Mark.13.32 Readiness at Any Hour|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And what I say unto you I say unto all, Watch.
 <small><sub>**BSB:**</sub></small>
 And what I say to you, I say to everyone: Keep watch!”
-<small><sub>**Literal:**</sub></small>
-What [thing] now to you I say, to all I say: do watch.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.36|<< Mark 13:36]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.1|Mark 14:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃ]]  [[G1161\|δὲ]]  [[G4771\|ὑμῖν]]  [[G3004G\|λέγω,]]  [[G3956\|πᾶσιν]]  [[G3004G\|λέγω·]]  [[G1127\|γρηγορεῖτε.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EARTH|EARTH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.13.36|<< Mark 13:36]]</td><td align="center" style="border:none;">[[Mark.13|Mark 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.1|Mark 14:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

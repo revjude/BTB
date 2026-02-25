@@ -1,6 +1,44 @@
+---
+title: Psalm 49:0
+type: Verse
+kjv: "To the chief Musician, A Psalm for the sons of Korah."
+hebrew: "לַמְנַצֵּ֬חַ׀ לִבְנֵי־ קֹ֬רַח מִזְמֽוֹר׃"
+pericope: "[[Ps.49.1 The Evanescence of Wealth|The Evanescence of Wealth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 49
+book/chapter: "[[Ps.49|Psalm 49]]"
+chronological_order: 504
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+strongs:
+- "[[H9005]]"
+- "[[H5329]]"
+- "[[H9015]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H7141I]]"
+- "[[H4210]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 49:0**<big><big>[[Ps.49.1 The Evanescence of Wealth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To the chief Musician, A Psalm for the sons of Korah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9005\|לַ]][[H5329\|מְנַצֵּ֬חַ]][[H9015\|׀]] [[H9005\|לִ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H7141I\|קֹ֬רַח]] [[H4210\|מִזְמֽוֹר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.49.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.48.14|<< Psalms 48:14]]</td><td align="center" style="border:none;">[[Ps.49|Psalms 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.49.1|Psalms 49:1 >>]]</td></tr></table>
 

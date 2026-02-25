@@ -1,8 +1,80 @@
+---
+title: Ecclesiastes 4:8
+type: Verse
+kjv: "There is one alone, and there is not a second; yea, he hath neither child nor brother: yet is there no end of all his labour; neither is his eye satisfied with riches; neither saith he, For whom do I labour, and bereave my soul of good? This is also vanity, yea, it is a sore travail."
+bsb: "There is a man all alone, without even a son or brother. And though there is no end to his labor, his eyes are still not content with his wealth: “For whom do I toil and bereave my soul of enjoyment?” This too is futile—a miserable task."
+hebrew: "יֵ֣שׁ אֶחָד֩ וְאֵ֨ין שֵׁנִ֜י גַּ֣ם בֵּ֧ן וָאָ֣ח אֵֽין־ ל֗וֹ וְאֵ֥ין קֵץ֙ לְכָל־ עֲמָל֔וֹ גַּם־ עֵינ֖וֹ לֹא־ תִשְׂבַּ֣ע עֹ֑שֶׁר וּלְמִ֣י׀ אֲנִ֣י עָמֵ֗ל וּמְחַסֵּ֤ר אֶת־ נַפְשִׁי֙ מִטּוֹבָ֔ה גַּם־ זֶ֥ה הֶ֛בֶל וְעִנְיַ֥ן רָ֖ע הֽוּא׃"
+pericope: "[[Eccl.4.1 The Evil of Oppression|The Evil of Oppression]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 4
+book/chapter: "[[Eccl.4|Ecclesiastes 4]]"
+chronological_order: 542
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic AVARICE|AVARICE]]"
+- "[[topic CARE|CARE]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic MISER|MISER]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H3426]]"
+- "[[H0259]]"
+- "[[H9002]]"
+- "[[H0369]]"
+- "[[H8145]]"
+- "[[H1571]]"
+- "[[H1121A]]"
+- "[[H0251G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H7093]]"
+- "[[H3605]]"
+- "[[H5999]]"
+- "[[H9023]]"
+- "[[H5869A]]"
+- "[[H3808]]"
+- "[[H7646]]"
+- "[[H6239]]"
+- "[[H4310]]"
+- "[[H9015]]"
+- "[[H0589]]"
+- "[[H6001B]]"
+- "[[H2637]]"
+- "[[H0853]]"
+- "[[H5315I]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H2896C]]"
+- "[[H2088]]"
+- "[[H1892]]"
+- "[[H6045]]"
+- "[[H7451A]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ecclesiastes 4:8**<big><big>[[Eccl.4.1 The Evil of Oppression|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There is one [alone], and [there is] not a second; yea, he hath neither child nor brother: yet [is there] no end of all his labour; neither is his eye satisfied with riches; neither [saith he], For whom do I labour, and bereave my soul of good? This [is] also vanity, yea, it [is] a sore travail.
 <small><sub>**BSB:**</sub></small>
 There is a man all alone, without even a son or brother. And though there is no end to his labor, his eyes are still not content with his wealth: “For whom do I toil and bereave my soul of enjoyment?” This too is futile—a miserable task.
+<small><sub>**Hebrew:**</sub></small>
+[[H3426\|יֵ֣שׁ]] [[H0259\|אֶחָד֩]] [[H9002\|וְ]][[H0369\|אֵ֨ין]] [[H8145\|שֵׁנִ֜י]] [[H1571\|גַּ֣ם]] [[H1121A\|בֵּ֧ן]] [[H9002\|וָ]][[H0251G\|אָ֣ח]] [[H0369\|אֵֽין]][[H9014\|־]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H9002\|וְ]][[H0369\|אֵ֥ין]] [[H7093\|קֵץ֙]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H5999\|עֲמָל֔]][[H9023\|וֹ]] [[H1571\|גַּם]][[H9014\|־]] [[H5869A\|עֵינ֖]][[H9023\|וֹ]] [[H3808\|לֹא]][[H9014\|־]] [[H7646\|תִשְׂבַּ֣ע]] [[H6239\|עֹ֑שֶׁר]] [[H9002\|וּ]][[H9005\|לְ]][[H4310\|מִ֣י]][[H9015\|׀]] [[H0589\|אֲנִ֣י]] [[H6001B\|עָמֵ֗ל]] [[H9002\|וּ]][[H2637\|מְחַסֵּ֤ר]] [[H0853\|אֶת]][[H9014\|־]] [[H5315I\|נַפְשִׁ]][[H9020\|י֙]] [[H9006\|מִ]][[H2896C\|טּוֹבָ֔ה]] [[H1571\|גַּם]][[H9014\|־]] [[H2088\|זֶ֥ה]] [[H1892\|הֶ֛בֶל]] [[H9002\|וְ]][[H6045\|עִנְיַ֥ן]] [[H7451A\|רָ֖ע]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AVARICE|AVARICE]] • [[topic CARE|CARE]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic MISER|MISER]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.4.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.7|<< Ecclesiastes 4:7]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.9|Ecclesiastes 4:9 >>]]</td></tr></table>
 
@@ -41,7 +113,7 @@ There is a man all alone, without even a son or brother. And though there is no 
 | it  |**<big>&#8207;[[H1931\|הֽוּא]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| Hu'<small><sup>[[HPp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.4.7|<< Ecclesiastes 4:7]]</td><td align="center" style="border:none;">[[Eccl.4|Ecclesiastes 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.4.9|Ecclesiastes 4:9 >>]]</td></tr></table>
 
-[^1]: eyes his  | **<big>[[H9023|ו]]</big><big>[[H5869A|עֵינָי]]</big> ** | ei.na<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
-[^2]: eyes his  | **<big>[[H9023|ו]]</big><big>[[H5869A|עֵינָי]]</big> ** | ei.na<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^1]: eyes his  | **<big>[[H5869A|עֵינָי]]</big><big>[[H9023|ו]]</big> ** | ei.na<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
+[^2]: eyes his  | **<big>[[H5869A|עֵינָי]]</big><big>[[H9023|ו]]</big> ** | ei.na<small><sup>[[HNcbdc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>עֵינ֖יוֹ</big></span>**
 

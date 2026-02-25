@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 6:10
+type: Verse
+kjv: "And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,"
+bsb: "And when the LORD your God brings you into the land He swore to your fathers, to Abraham, Isaac, and Jacob, that He would give you—a land with great and splendid cities that you did not build,"
+hebrew: "וְהָיָ֞ה כִּ֥י יְבִיאֲךָ֣׀ יְהוָ֣ה אֱלֹהֶ֗יךָ אֶל־ הָאָ֜רֶץ אֲשֶׁ֨ר נִשְׁבַּ֧ע לַאֲבֹתֶ֛יךָ לְאַבְרָהָ֛ם לְיִצְחָ֥ק וּֽלְיַעֲקֹ֖ב לָ֣תֶת לָ֑ךְ עָרִ֛ים גְּדֹלֹ֥ת וְטֹבֹ֖ת אֲשֶׁ֥ר לֹא־ בָנִֽיתָ׃"
+pericope: "[[Deut.6.1 The Greatest Commandment|The Greatest Commandment]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic RICHES|RICHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3588A]]"
+- "[[H0935P]]"
+- "[[H9031]]"
+- "[[H9015]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7650]]"
+- "[[H9005]]"
+- "[[H0001G]]"
+- "[[H0085]]"
+- "[[H3327]]"
+- "[[H9002]]"
+- "[[H3290]]"
+- "[[H5414G]]"
+- "[[H5892B]]"
+- "[[H1419A]]"
+- "[[H2896A]]"
+- "[[H3808]]"
+- "[[H1129]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:10**<big><big>[[Deut.6.1 The Greatest Commandment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,
 <small><sub>**BSB:**</sub></small>
 And when the LORD your God brings you into the land He swore to your fathers, to Abraham, Isaac, and Jacob, that He would give you—a land with great and splendid cities that you did not build,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֞ה]] [[H3588A\|כִּ֥י]] [[H0935P\|יְבִיאֲ]][[H9031\|ךָ֣]][[H9015\|׀]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֗י]][[H9021\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֜רֶץ]] [[H0834A\|אֲשֶׁ֨ר]] [[H7650\|נִשְׁבַּ֧ע]] [[H9005\|לַ]][[H0001G\|אֲבֹתֶ֛י]][[H9021\|ךָ]] [[H9005\|לְ]][[H0085\|אַבְרָהָ֛ם]] [[H9005\|לְ]][[H3327\|יִצְחָ֥ק]] [[H9002\|וּֽ]][[H9005\|לְ]][[H3290\|יַעֲקֹ֖ב]] [[H9005\|לָ֣]][[H5414G\|תֶת]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H5892B\|עָרִ֛ים]] [[H1419A\|גְּדֹלֹ֥ת]] [[H9002\|וְ]][[H2896A\|טֹבֹ֖ת]] [[H0834A\|אֲשֶׁ֥ר]] [[H3808\|לֹא]][[H9014\|־]] [[H1129\|בָנִֽיתָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic RICHES|RICHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.9|<< Deuteronomy 6:9]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.11|Deuteronomy 6:11 >>]]</td></tr></table>
 

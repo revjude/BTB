@@ -1,8 +1,56 @@
+---
+title: Numbers 26:60
+type: Verse
+kjv: "And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar."
+bsb: "Nadab, Abihu, Eleazar, and Ithamar were born to Aaron,"
+hebrew: "וַיִּוָּלֵ֣ד לְאַהֲרֹ֔ן אֶת־ נָדָ֖ב וְאֶת־ אֲבִיה֑וּא אֶת־ אֶלְעָזָ֖ר וְאֶת־ אִיתָמָֽר׃"
+pericope: "[[Num.26.57 The Levites Numbered|The Levites Numbered]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9005]]"
+- "[[H0175]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5070G]]"
+- "[[H9002]]"
+- "[[H0030]]"
+- "[[H0499G]]"
+- "[[H0385]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 26:60**<big><big>[[Num.26.57 The Levites Numbered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar.
 <small><sub>**BSB:**</sub></small>
 Nadab, Abihu, Eleazar, and Ithamar were born to Aaron,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3205\|יִּוָּלֵ֣ד]] [[H9005\|לְ]][[H0175\|אַהֲרֹ֔ן]] [[H0853\|אֶת]][[H9014\|־]] [[H5070G\|נָדָ֖ב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0030\|אֲבִיה֑וּא]] [[H0853\|אֶת]][[H9014\|־]] [[H0499G\|אֶלְעָזָ֖ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H0385\|אִיתָמָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.60|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.59|<< Numbers 26:59]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.61|Numbers 26:61 >>]]</td></tr></table>
 

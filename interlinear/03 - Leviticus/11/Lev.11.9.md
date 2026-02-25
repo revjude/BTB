@@ -1,8 +1,66 @@
+---
+title: Leviticus 11:9
+type: Verse
+kjv: "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat."
+bsb: "Of all the creatures that live in the water, whether in the seas or in the streams, you may eat anything with fins and scales."
+hebrew: "אֶת־ זֶה֙ תֹּֽאכְל֔וּ מִכֹּ֖ל אֲשֶׁ֣ר בַּמָּ֑יִם כֹּ֣ל אֲשֶׁר־ לוֹ֩ סְנַפִּ֨יר וְקַשְׂקֶ֜שֶׂת בַּמַּ֗יִם בַּיַּמִּ֛ים וּבַנְּחָלִ֖ים אֹתָ֥ם תֹּאכֵֽלוּ׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic FISH|FISH]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H2088]]"
+- "[[H0398]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H5579]]"
+- "[[H9002]]"
+- "[[H7193]]"
+- "[[H3220G]]"
+- "[[H5158A]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:9**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These shall ye eat of all that [are] in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.
 <small><sub>**BSB:**</sub></small>
 Of all the creatures that live in the water, whether in the seas or in the streams, you may eat anything with fins and scales.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H2088\|זֶה֙]] [[H0398\|תֹּֽאכְל֔וּ]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בַּ]][[H4325G\|מָּ֑יִם]] [[H3605\|כֹּ֣ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֩]] [[H5579\|סְנַפִּ֨יר]] [[H9002\|וְ]][[H7193\|קַשְׂקֶ֜שֶׂת]] [[H9003\|בַּ]][[H4325G\|מַּ֗יִם]] [[H9003\|בַּ]][[H3220G\|יַּמִּ֛ים]] [[H9002\|וּ]][[H9003\|בַ]][[H5158A\|נְּחָלִ֖ים]] [[H0853\|אֹתָ֥]][[H9038\|ם]] [[H0398\|תֹּאכֵֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic FISH|FISH]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.8|<< Leviticus 11:8]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.10|Leviticus 11:10 >>]]</td></tr></table>
 

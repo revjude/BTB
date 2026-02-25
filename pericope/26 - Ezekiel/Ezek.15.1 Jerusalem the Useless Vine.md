@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jerusalem the Useless Vine
+type: Pericope
 pericope: "[[Ezek.15.1 Jerusalem the Useless Vine|Jerusalem the Useless Vine]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 15
 book/chapter: "[[Ezek.15|Ezekiel 15]]"
-genre:
+chronological_order: 806
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 8
 verses:
 - "[[Ezek.15.1]]"
 - "[[Ezek.15.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ezek.15.8]]"
 ---
 
-[[Ezek.15|Ezekiel 15:1 - Ezekiel 15:8]]
+<small>[[Ezek.15|Ezekiel 15:1-8]]</small>
 *Jerusalem the Useless Vine*
 
 [[Ezek.15.1|1]] And the word of the LORD came unto me, saying,

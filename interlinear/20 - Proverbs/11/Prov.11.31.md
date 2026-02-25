@@ -1,8 +1,54 @@
+---
+title: Proverbs 11:31
+type: Verse
+kjv: "Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner."
+bsb: "If the righteous receive their due on earth, how much more the ungodly and the sinner!"
+hebrew: "הֵ֣ן צַ֭דִּיק בָּאָ֣רֶץ יְשֻׁלָּ֑ם אַ֝֗ף כִּֽי־ רָשָׁ֥ע וְחוֹטֵֽא׃"
+pericope: "[[Prov.11.1 Dishonest Scales|Dishonest Scales]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 11
+book/chapter: "[[Prov.11|Proverbs 11]]"
+chronological_order: 466
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H2005]]"
+- "[[H6662]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H7999A]]"
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7563]]"
+- "[[H9002]]"
+- "[[H2398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 11:31**<big><big>[[Prov.11.1 Dishonest Scales|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the righteous shall be recompensed in the earth: much more the wicked and the sinner.
 <small><sub>**BSB:**</sub></small>
 If the righteous receive their due on earth, how much more the ungodly and the sinner!
+<small><sub>**Hebrew:**</sub></small>
+[[H2005\|הֵ֣ן]] [[H6662\|צַ֭דִּיק]] [[H9003\|בָּ]][[H0776G\|אָ֣רֶץ]] [[H7999A\|יְשֻׁלָּ֑ם]] [[H0637\|אַ֝֗ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7563\|רָשָׁ֥ע]] [[H9002\|וְ]][[H2398\|חוֹטֵֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.11.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.11.30|<< Proverbs 11:30]]</td><td align="center" style="border:none;">[[Prov.11|Proverbs 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.1|Proverbs 12:1 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

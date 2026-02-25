@@ -1,8 +1,71 @@
+---
+title: 2 Samuel 14:30
+type: Verse
+kjv: "Therefore he said unto his servants, See, Joab’s field is near mine, and he hath barley there; go and set it on fire. And Absalom’s servants set the field on fire."
+bsb: "Then Absalom said to his servants, “Look, Joab’s field is next to mine, and he has barley there. Go and set it on fire!” And Absalom’s servants set the field on fire."
+hebrew: "וַיֹּ֨אמֶר אֶל־ עֲבָדָ֜יו רְאוּ֩ חֶלְקַ֨ת יוֹאָ֤ב אֶל־ יָדִי֙ וְלוֹ־ שָׁ֣ם שְׂעֹרִ֔ים לְכ֖וּ וְהַצִּית֣וּהָ בָאֵ֑שׁ וַיַּצִּ֜תוּ עַבְדֵ֧י אַבְשָׁל֛וֹם אֶת־ הַחֶלְקָ֖ה בָּאֵֽשׁ׃ פ"
+pericope: "[[2Sam.14.28 Absalom Reconciled to David|Absalom Reconciled to David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 14
+book/chapter: "[[2Sam.14|2 Samuel 14]]"
+chronological_order: 413
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARSON|ARSON]]"
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic JOAB|JOAB]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H7200I]]"
+- "[[H2513A]]"
+- "[[H3097G]]"
+- "[[H3027I]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H8033G]]"
+- "[[H8184]]"
+- "[[H1980G]]"
+- "[[H3341]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H0053]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Samuel 14:30**<big><big>[[2Sam.14.28 Absalom Reconciled to David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore he said unto his servants, See, Joab’s field is near mine, and he hath barley there; go and set it on fire. And Absalom’s servants set the field on fire.
 <small><sub>**BSB:**</sub></small>
 Then Absalom said to his servants, “Look, Joab’s field is next to mine, and he has barley there. Go and set it on fire!” And Absalom’s servants set the field on fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עֲבָדָ֜י]][[H9023\|ו]] [[H7200I\|רְאוּ֩]] [[H2513A\|חֶלְקַ֨ת]] [[H3097G\|יוֹאָ֤ב]] [[H0413\|אֶל]][[H9014\|־]] [[H3027I\|יָדִ]][[H9020\|י֙]] [[H9002\|וְ]][[H9005\|ל]][[H9033\|וֹ]][[H9014\|־]] [[H8033G\|שָׁ֣ם]] [[H8184\|שְׂעֹרִ֔ים]] [[H1980G\|לְכ֖וּ]] [[H9002\|וְ]][[H3341\|הַצִּית֣וּ]][[H9034\|הָ]] [[H9003\|בָ]][[H0784\|אֵ֑שׁ]] [[H9001\|וַ]][[H3341\|יַּצִּ֜תוּ]] [[H5650\|עַבְדֵ֧י]] [[H0053\|אַבְשָׁל֛וֹם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H2513A\|חֶלְקָ֖ה]] [[H9003\|בָּ]][[H0784\|אֵֽשׁ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARSON|ARSON]] • [[topic BARLEY|BARLEY]] • [[topic JOAB|JOAB]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.14.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.29|<< 2 Samuel 14:29]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.31|2 Samuel 14:31 >>]]</td></tr></table>
 
@@ -27,11 +90,11 @@ Then Absalom said to his servants, “Look, Joab’s field is next to mine, and 
 | Absalom  |**<big>&#8207;[[H0053\|אַבְשָׁל֛וֹם]]&#8207; </big>**| 'av.sha.Lom<small><sup>[[HNpm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the portion of land  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H2513A\|חֶלְקָ֖ה]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> chel.Kah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| with \<the> fire  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0784\|אֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| with \<the> fire  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H0784\|אֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.14.29|<< 2 Samuel 14:29]]</td><td align="center" style="border:none;">[[2Sam.14|2 Samuel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.14.31|2 Samuel 14:31 >>]]</td></tr></table>
 
-[^1]: and I will set on fire it  | **<big>[[H9034|הָ]]</big><big>[[H3341|הוֹצִתִּי]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ho.tzi.tei.<small><sup>[[HVhq1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
-[^2]: and I will set on fire it  | **<big>[[H9034|הָ]]</big><big>[[H3341|הוֹצִתִּי]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ho.tzi.tei.<small><sup>[[HVhq1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
-[^3]: and I will set on fire it  | **<big>[[H9034|הָ]]</big><big>[[H3341|הוֹצִתִּי]]</big><big>[[H9001|וְ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ho.tzi.tei.<small><sup>[[HVhq1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^1]: and I will set on fire it  | **<big>[[H9001|וְ]]</big><big>[[H3341|הוֹצִתִּי]]</big><big>[[H9034|הָ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ho.tzi.tei.<small><sup>[[HVhq1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: and I will set on fire it  | **<big>[[H9001|וְ]]</big><big>[[H3341|הוֹצִתִּי]]</big><big>[[H9034|הָ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ho.tzi.tei.<small><sup>[[HVhq1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
+[^3]: and I will set on fire it  | **<big>[[H9001|וְ]]</big><big>[[H3341|הוֹצִתִּי]]</big><big>[[H9034|הָ]]</big> ** | ve.<small><sup>[[Hc]]</sup></small> ho.tzi.tei.<small><sup>[[HVhq1cs]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | K
 [^4]: L spelled: **<span class="ashebrew"><big>וְהַוצִּת֣יּ/הָ</big></span>**
 

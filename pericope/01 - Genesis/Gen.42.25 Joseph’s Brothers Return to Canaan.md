@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph’s Brothers Return to Canaan
+type: Pericope
 pericope: "[[Gen.42.25 Joseph’s Brothers Return to Canaan|Joseph’s Brothers Return to Canaan]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 42
 book/chapter: "[[Gen.42|Genesis 42]]"
-genre:
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 14
 verses:
 - "[[Gen.42.25]]"
 - "[[Gen.42.26]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Gen.42.38]]"
 ---
 
-[[Gen.42|Genesis 42:25 - Genesis 42:38]]
+<small>[[Gen.42|Genesis 42:25-38]]</small>
 *Joseph’s Brothers Return to Canaan*
 
 [[Gen.42.25|25]] Then Joseph commanded to fill their sacks with corn, and to restore every man’s money into his sack, and to give them provision for the way: and thus did he unto them.

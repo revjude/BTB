@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 4:33
+type: Verse
+kjv: "And all their villages that were round about the same cities, unto Baal. These were their habitations, and their genealogy."
+bsb: "and all their surrounding villages as far as Baal. These were their settlements, and they kept a genealogical record:"
+hebrew: "וְכָל־ חַצְרֵיהֶ֗ם אֲשֶׁ֧ר סְבִיב֛וֹת הֶעָרִ֥ים הָאֵ֖לֶּה עַד־ בָּ֑עַל זֹ֚את מוֹשְׁבֹתָ֔ם וְהִתְיַחְשָׂ֖ם לָהֶֽם׃"
+pericope: "[[1Chr.4.24 The Descendants of Simeon|The Descendants of Simeon]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 4
+book/chapter: "[[1Chr.4|1 Chronicles 4]]"
+chronological_order: 323
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic BAAL|BAAL]]"
+- "[[topic SIMEON|SIMEON]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2691A]]"
+- "[[H9028]]"
+- "[[H0834A]]"
+- "[[H5439G]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H0428]]"
+- "[[H5704]]"
+- "[[H1168H]]"
+- "[[H2063]]"
+- "[[H4186]]"
+- "[[H3187]]"
+- "[[H9048]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 4:33**<big><big>[[1Chr.4.24 The Descendants of Simeon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all their villages that [were] round about the same cities, unto Baal. These [were] their habitations, and their genealogy.
 <small><sub>**BSB:**</sub></small>
 and all their surrounding villages as far as Baal. These were their settlements, and they kept a genealogical record:
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2691A\|חַצְרֵי]][[H9028\|הֶ֗ם]] [[H0834A\|אֲשֶׁ֧ר]] [[H5439G\|סְבִיב֛וֹת]] [[H9009\|הֶ]][[H5892B\|עָרִ֥ים]] [[H9009\|הָ]][[H0428\|אֵ֖לֶּה]] [[H5704\|עַד]][[H9014\|־]] [[H1168H\|בָּ֑עַל]] [[H2063\|זֹ֚את]] [[H4186\|מוֹשְׁבֹתָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H3187\|הִתְיַחְשָׂ֖]][[H9048\|ם]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAAL|BAAL]] • [[topic SIMEON|SIMEON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.4.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.4.32|<< 1 Chronicles 4:32]]</td><td align="center" style="border:none;">[[1Chr.4|1 Chronicles 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.4.34|1 Chronicles 4:34 >>]]</td></tr></table>
 

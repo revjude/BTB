@@ -1,8 +1,57 @@
+---
+title: Judges 8:25
+type: Verse
+kjv: "And they answered, We will willingly give them. And they spread a garment, and did cast therein every man the earrings of his prey."
+bsb: "“We will give them gladly,” they replied. So they spread out a garment, and each man threw an earring from his plunder onto it."
+hebrew: "וַיֹּאמְר֖וּ נָת֣וֹן נִתֵּ֑ן וַֽיִּפְרְשׂוּ֙ אֶת־ הַשִּׂמְלָ֔ה וַיַּשְׁלִ֣יכוּ שָׁ֔מָּה אִ֖ישׁ נֶ֥זֶם שְׁלָלֽוֹ׃"
+pericope: "[[Judg.8.22 Gideon’s Ephod|Gideon’s Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 8
+book/chapter: "[[Judg.8|Judges 8]]"
+chronological_order: 262
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic GIDEON|GIDEON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H5414G]]"
+- "[[H6566]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8071]]"
+- "[[H7993]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H0376I]]"
+- "[[H5141]]"
+- "[[H7998]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 8:25**<big><big>[[Judg.8.22 Gideon’s Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they answered, We will willingly give [them]. And they spread a garment, and did cast therein every man the earrings of his prey.
 <small><sub>**BSB:**</sub></small>
 “We will give them gladly,” they replied. So they spread out a garment, and each man threw an earring from his plunder onto it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H5414G\|נָת֣וֹן]] [[H5414G\|נִתֵּ֑ן]] [[H9001\|וַֽ]][[H6566\|יִּפְרְשׂוּ֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8071\|שִּׂמְלָ֔ה]] [[H9001\|וַ]][[H7993\|יַּשְׁלִ֣יכוּ]] [[H8033G\|שָׁ֔מָּ]][[H9011\|ה]] [[H0376I\|אִ֖ישׁ]] [[H5141\|נֶ֥זֶם]] [[H7998\|שְׁלָלֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIDEON|GIDEON]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.8.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.8.24|<< Judges 8:24]]</td><td align="center" style="border:none;">[[Judg.8|Judges 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.8.26|Judges 8:26 >>]]</td></tr></table>
 

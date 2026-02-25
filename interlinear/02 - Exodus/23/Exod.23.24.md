@@ -1,8 +1,67 @@
+---
+title: Exodus 23:24
+type: Verse
+kjv: "Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images."
+bsb: "You must not bow down to their gods or serve them or follow their practices. Instead, you are to demolish them and smash their sacred stones to pieces."
+hebrew: "לֹֽא־ תִשְׁתַּחֲוֶ֤ה לֵאלֹֽהֵיהֶם֙ וְלֹ֣א תָֽעָבְדֵ֔ם וְלֹ֥א תַעֲשֶׂ֖ה כְּמַֽעֲשֵׂיהֶ֑ם כִּ֤י הָרֵס֙ תְּהָ֣רְסֵ֔ם וְשַׁבֵּ֥ר תְּשַׁבֵּ֖ר מַצֵּבֹתֵיהֶֽם׃"
+pericope: "[[Exod.23.20 God’s Angel to Lead|God’s Angel to Lead]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 23
+book/chapter: "[[Exod.23|Exodus 23]]"
+chronological_order: 115
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ICONOCLASM|ICONOCLASM]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H0430]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H5647H]]"
+- "[[H9038]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H4639G]]"
+- "[[H3588A]]"
+- "[[H2040]]"
+- "[[H7665]]"
+- "[[H4676]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 23:24**<big><big>[[Exod.23.20 God’s Angel to Lead|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt not bow down to their gods, nor serve them, nor do after their works: but thou shalt utterly overthrow them, and quite break down their images.
 <small><sub>**BSB:**</sub></small>
 You must not bow down to their gods or serve them or follow their practices. Instead, you are to demolish them and smash their sacred stones to pieces.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H7812\|תִשְׁתַּחֲוֶ֤ה]] [[H9005\|לֵ]][[H0430\|אלֹֽהֵי]][[H9028\|הֶם֙]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H5647H\|תָֽעָבְדֵ֔]][[H9038\|ם]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6213A\|תַעֲשֶׂ֖ה]] [[H9004\|כְּ]][[H4639G\|מַֽעֲשֵׂי]][[H9028\|הֶ֑ם]] [[H3588A\|כִּ֤י]] [[H2040\|הָרֵס֙]] [[H2040\|תְּהָ֣רְסֵ֔]][[H9038\|ם]] [[H9002\|וְ]][[H7665\|שַׁבֵּ֥ר]] [[H7665\|תְּשַׁבֵּ֖ר]] [[H4676\|מַצֵּבֹתֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic CANAANITES|CANAANITES]] • [[topic GOD|GOD]] • [[topic ICONOCLASM|ICONOCLASM]] • [[topic JEBUSITES|JEBUSITES]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.23.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.23.23|<< Exodus 23:23]]</td><td align="center" style="border:none;">[[Exod.23|Exodus 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.23.25|Exodus 23:25 >>]]</td></tr></table>
 

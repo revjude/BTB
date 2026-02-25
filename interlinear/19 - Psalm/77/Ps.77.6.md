@@ -1,8 +1,60 @@
+---
+title: Psalm 77:6
+type: Verse
+kjv: "I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search."
+bsb: "At night I remembered my song; in my heart I mused, and my spirit pondered:"
+hebrew: "אֶֽזְכְּרָ֥ה נְגִינָתִ֗י בַּ֫לָּ֥יְלָה עִם־ לְבָבִ֥י אָשִׂ֑יחָה וַיְחַפֵּ֥שׂ רוּחִֽי׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DILIGENCE|DILIGENCE]]"
+- "[[topic HEART|HEART]]"
+- "[[topic NIGHT|NIGHT]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SELF-EXAMINATION|SELF-EXAMINATION]]"
+strongs:
+- "[[H2142]]"
+- "[[H5058]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H3915]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H3824]]"
+- "[[H7878]]"
+- "[[H9001]]"
+- "[[H2664]]"
+- "[[H7307G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 77:6**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.
 <small><sub>**BSB:**</sub></small>
 At night I remembered my song; in my heart I mused, and my spirit pondered:
+<small><sub>**Hebrew:**</sub></small>
+[[H2142\|אֶֽזְכְּרָ֥ה]] [[H5058\|נְגִינָתִ֗]][[H9020\|י]] [[H9003\|בַּ֫]][[H3915\|לָּ֥יְלָה]] [[H5973A\|עִם]][[H9014\|־]] [[H3824\|לְבָבִ֥]][[H9020\|י]] [[H7878\|אָשִׂ֑יחָה]] [[H9001\|וַ]][[H2664\|יְחַפֵּ֥שׂ]] [[H7307G\|רוּחִֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DILIGENCE|DILIGENCE]] • [[topic HEART|HEART]] • [[topic NIGHT|NIGHT]] • [[topic SEEKERS|SEEKERS]] • [[topic SELF-EXAMINATION|SELF-EXAMINATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.5|<< Psalms 77:5]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.7|Psalms 77:7 >>]]</td></tr></table>
 

@@ -1,8 +1,66 @@
+---
+title: Ruth 2:10
+type: Verse
+kjv: "Then she fell on her face, and bowed herself to the ground, and said unto him, Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I am a stranger?"
+bsb: "At this, she fell on her face, bowing low to the ground, and said to him, “Why have I found such favor in your eyes that you should take notice of me, even though I am a foreigner?”"
+hebrew: "וַתִּפֹּל֙ עַל־ פָּנֶ֔יהָ וַתִּשְׁתַּ֖חוּ אָ֑רְצָה וַתֹּ֣אמֶר אֵלָ֗יו מַדּוּעַ֩ מָצָ֨אתִי חֵ֤ן בְּעֵינֶ֙יךָ֙ לְהַכִּירֵ֔נִי וְאָּנֹכִ֖י נָכְרִיָּֽה׃"
+pericope: "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 2
+book/chapter: "[[Ruth.2|Ruth 2]]"
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic RUTH|RUTH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5307G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H6440H]]"
+- "[[H9024]]"
+- "[[H7812]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H4069]]"
+- "[[H4672]]"
+- "[[H2580]]"
+- "[[H9003]]"
+- "[[H5869A]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H5234A]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H5237]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Ruth 2:10**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then she fell on her face, and bowed herself to the ground, and said unto him, Why have I found grace in thine eyes, that thou shouldest take knowledge of me, seeing I [am] a stranger?
 <small><sub>**BSB:**</sub></small>
 At this, she fell on her face, bowing low to the ground, and said to him, “Why have I found such favor in your eyes that you should take notice of me, even though I am a foreigner?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5307G\|תִּפֹּל֙]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנֶ֔י]][[H9024\|הָ]] [[H9001\|וַ]][[H7812\|תִּשְׁתַּ֖חוּ]] [[H0776H\|אָ֑רְצָ]][[H9011\|ה]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H0413\|אֵלָ֗י]][[H9033\|ו]] [[H4069\|מַדּוּעַ֩]] [[H4672\|מָצָ֨אתִי]] [[H2580\|חֵ֤ן]] [[H9003\|בְּ]][[H5869A\|עֵינֶ֙י]][[H9021\|ךָ֙]] [[H9005\|לְ]][[H5234A\|הַכִּירֵ֔]][[H9030\|נִי]] [[H9002\|וְ]][[H0595\|אָּנֹכִ֖י]] [[H5237\|נָכְרִיָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RUTH|RUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.9|<< Ruth 2:9]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.11|Ruth 2:11 >>]]</td></tr></table>
 

@@ -1,8 +1,68 @@
+---
+title: Ruth 1:13
+type: Verse
+kjv: "Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the LORD is gone out against me."
+bsb: "would you wait for them to grow up? Would you refrain from having husbands? No, my daughters, it is much more bitter for me than for you, because the hand of the LORD has gone out against me.”"
+hebrew: "הֲלָהֵ֣ן׀ תְּשַׂבֵּ֗רְנָה עַ֚ד אֲשֶׁ֣ר יִגְדָּ֔לוּ הֲלָהֵן֙ תֵּֽעָגֵ֔נָה לְבִלְתִּ֖י הֱי֣וֹת לְאִ֑ישׁ אַ֣ל בְּנֹתַ֗י כִּֽי־ מַר־ לִ֤י מְאֹד֙ מִכֶּ֔ם כִּֽי־ יָצְאָ֥ה בִ֖י יַד־ יְהוָֽה׃"
+pericope: "[[Ruth.1.6 Ruth’s Loyalty to Naomi|Ruth’s Loyalty to Naomi]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H9008]]"
+- "[[H3860]]"
+- "[[H9015]]"
+- "[[H7663B]]"
+- "[[H5704]]"
+- "[[H0834A]]"
+- "[[H1431]]"
+- "[[H5702]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H1961]]"
+- "[[H0376H]]"
+- "[[H0408]]"
+- "[[H1323G]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H4843]]"
+- "[[H9030]]"
+- "[[H3966]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H3318G]]"
+- "[[H9003]]"
+- "[[H3027G]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:13**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the LORD is gone out against me.
 <small><sub>**BSB:**</sub></small>
 would you wait for them to grow up? Would you refrain from having husbands? No, my daughters, it is much more bitter for me than for you, because the hand of the LORD has gone out against me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3860\|לָהֵ֣ן]][[H9015\|׀]] [[H7663B\|תְּשַׂבֵּ֗רְנָה]] [[H5704\|עַ֚ד]] [[H0834A\|אֲשֶׁ֣ר]] [[H1431\|יִגְדָּ֔לוּ]] [[H9008\|הֲ]][[H3860\|לָהֵן֙]] [[H5702\|תֵּֽעָגֵ֔נָה]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H1961\|הֱי֣וֹת]] [[H9005\|לְ]][[H0376H\|אִ֑ישׁ]] [[H0408\|אַ֣ל]] [[H1323G\|בְּנֹתַ֗]][[H9020\|י]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4843\|מַר]][[H9014\|־]] [[H9005\|לִ֤]][[H9030\|י]] [[H3966\|מְאֹד֙]] [[H9006\|מִ]][[H9036\|כֶּ֔ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3318G\|יָצְאָ֥ה]] [[H9003\|בִ֖]][[H9030\|י]] [[H3027G\|יַד]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.12|<< Ruth 1:12]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.14|Ruth 1:14 >>]]</td></tr></table>
 

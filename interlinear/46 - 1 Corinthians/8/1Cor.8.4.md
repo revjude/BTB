@@ -1,10 +1,59 @@
+---
+title: 1 Corinthians 8:4
+type: Verse
+kjv: "As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol is nothing in the world, and that there is none other God but one."
+bsb: "So about eating food sacrificed to idols: We know that an idol is nothing at all in the world, and that there is no God but one."
+greek: "Περὶ τῆς βρώσεως οὖν τῶν εἰδωλοθύτων οἴδαμεν ὅτι οὐδὲν εἴδωλον ἐν κόσμῳ καὶ ὅτι οὐδεὶς θεὸς ἕτερος εἰ μὴ εἷς."
+pericope: "[[1Cor.8.1 Food Sacrificed to Idols|Food Sacrificed to Idols]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 8
+book/chapter: "[[1Cor.8|1 Corinthians 8]]"
+chronological_order: 1065
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G1035]]"
+- "[[G3767]]"
+- "[[G1494]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3762]]"
+- "[[G1497]]"
+- "[[G1722]]"
+- "[[G2889]]"
+- "[[G2532]]"
+- "[[G2316]]"
+- "[[G2087]]"
+- "[[G1487H]]"
+- "[[G3361]]"
+- "[[G1520]]"
+texts:
+- NKO
+- k
+---
+
 **1 Corinthians 8:4**<big><big>[[1Cor.8.1 Food Sacrificed to Idols|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As concerning therefore the eating of those things that are offered in sacrifice unto idols, we know that an idol [is] nothing in the world, and that [there is] none other God but one.
 <small><sub>**BSB:**</sub></small>
 So about eating food sacrificed to idols: We know that an idol is nothing at all in the world, and that there is no God but one.
-<small><sub>**Literal:**</sub></small>
-Concerning the eating therefore of the idol-sacrifices we know that no [thing] an idol [is] in [the] world and that [there is] no God other only except one.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.3|<< 1 Corinthians 8:3]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.5|1 Corinthians 8:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4012\|Περὶ]]  [[G3588\|τῆς]]  [[G1035\|βρώσεως]]  [[G3767\|οὖν]]  [[G3588\|τῶν]]  [[G1494\|εἰδωλοθύτων]]  [[G6063\|οἴδαμεν]]  [[G3754G\|ὅτι]]  [[G3762\|οὐδὲν]]  [[G1497\|εἴδωλον]]  [[G1722\|ἐν]]  [[G2889\|κόσμῳ]]  [[G2532\|καὶ]]  [[G3754G\|ὅτι]]  [[G3762\|οὐδεὶς]]  [[G2316\|θεὸς]]  [[G2087\|ἕτερος]]  [[G1487H\|εἰ]]  [[G3361\|μὴ]]  [[G1520\|εἷς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATERNITY|FRATERNITY]] • [[topic GOD|GOD]] • [[topic IDOLATRY|IDOLATRY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.8.3|<< 1 Corinthians 8:3]]</td><td align="center" style="border:none;">[[1Cor.8|1 Corinthians 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.5|1 Corinthians 8:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

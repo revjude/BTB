@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Word Brings Salvation
+type: Pericope
 pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
-verse_count: 21
+original_language: Greek
 testament: New
 book: Romans
 chapter: 10
 book/chapter: "[[Rom.10|Romans 10]]"
-genre:
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 21
 verses:
 - "[[Rom.10.1]]"
 - "[[Rom.10.2]]"
@@ -38,7 +45,7 @@ verses:
 - "[[Rom.10.21]]"
 ---
 
-[[Rom.10|Romans 10:1 - Romans 10:21]]
+<small>[[Rom.10|Romans 10:1-21]]</small>
 *The Word Brings Salvation*
 
 [[Rom.10.1|1]] Brethren, my heart’s desire and prayer to God for Israel is, that they might be saved.

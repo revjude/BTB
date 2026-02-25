@@ -1,8 +1,59 @@
+---
+title: Numbers 26:18
+type: Verse
+kjv: "These are the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred."
+bsb: "These were the clans of Gad, and their registration numbered 40,500."
+hebrew: "אֵ֛לֶּה מִשְׁפְּחֹ֥ת בְּנֵֽי־ גָ֖ד לִפְקֻדֵיהֶ֑ם אַרְבָּעִ֥ים אֶ֖לֶף וַחֲמֵ֥שׁ מֵאֽוֹת׃ ס"
+pericope: "[[Num.26.15 The Tribe of Gad|The Tribe of Gad]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+strongs:
+- "[[H0428]]"
+- "[[H4940]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1410G]]"
+- "[[H9005]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H0705]]"
+- "[[H0505G]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Numbers 26:18**<big><big>[[Num.26.15 The Tribe of Gad|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [are] the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred.
 <small><sub>**BSB:**</sub></small>
 These were the clans of Gad, and their registration numbered 40,500.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֛לֶּה]] [[H4940\|מִשְׁפְּחֹ֥ת]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H1410G\|גָ֖ד]] [[H9005\|לִ]][[H6485A\|פְקֻדֵי]][[H9028\|הֶ֑ם]] [[H0705\|אַרְבָּעִ֥ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וַ]][[H2568\|חֲמֵ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.17|<< Numbers 26:17]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.19|Numbers 26:19 >>]]</td></tr></table>
 
@@ -16,7 +67,7 @@ These were the clans of Gad, and their registration numbered 40,500.
 | forty  |**<big>&#8207;[[H0705\|אַרְבָּעִ֥ים]]&#8207; </big>**| 'ar.ba.'Im<small><sup>[[HAcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thousand  |**<big>&#8207;[[H0505G\|אֶ֖לֶף]]&#8207; </big>**| 'E.lef<small><sup>[[HAcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and five  |**<big>&#8207;[[H9002\|וַ]]&#8207;&#8207;[[H2568\|חֲמֵ֥שׁ]]&#8207; </big>**| va.<small><sup>[[HC]]</sup></small> cha.Mesh<small><sup>[[HAcbsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| hundred\<s>  |**<big>&#8207;[[H3967\|מֵאֽוֹת]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.'ot<small><sup>[[HAcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.17|<< Numbers 26:17]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.19|Numbers 26:19 >>]]</td></tr></table>
 
 

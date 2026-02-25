@@ -1,10 +1,61 @@
+---
+title: James 3:2
+type: Verse
+kjv: "For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body."
+bsb: "We all stumble in many ways. If anyone is never at fault in what he says, he is a perfect man, able to control his whole body."
+greek: "πολλὰ γὰρ πταίομεν ἅπαντες· εἴ τις ἐν λόγῳ οὐ πταίει, οὗτος τέλειος ἀνήρ, δυνατὸς χαλιναγωγῆσαι καὶ ὅλον τὸ σῶμα.¶"
+pericope: "[[Jas.3.1 Taming the Tongue|Taming the Tongue]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 3
+book/chapter: "[[Jas.3|James 3]]"
+chronological_order: 1035
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]]"
+- "[[topic PERFECTION|PERFECTION]]"
+- "[[topic SPEAKING|SPEAKING]]"
+- "[[topic WORDS|WORDS]]"
+strongs:
+- "[[G4183]]"
+- "[[G1063]]"
+- "[[G4417]]"
+- "[[G0537]]"
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G1722]]"
+- "[[G3056]]"
+- "[[G3756]]"
+- "[[G3778]]"
+- "[[G5046]]"
+- "[[G0435G]]"
+- "[[G1415]]"
+- "[[G5468]]"
+- "[[G2532]]"
+- "[[G3650]]"
+- "[[G3588]]"
+- "[[G4983]]"
+texts:
+- NKO
+---
+
 **James 3:2**<big><big>[[Jas.3.1 Taming the Tongue|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For in many things we offend all. If any man offend not in word, the same [is] a perfect man, [and] able also to bridle the whole body.
 <small><sub>**BSB:**</sub></small>
 We all stumble in many ways. If anyone is never at fault in what he says, he is a perfect man, able to control his whole body.
-<small><sub>**Literal:**</sub></small>
-In many ways for we stumble all; If anyone in what he says not does stumble, this one [is] a perfect man, able to bridle indeed all the body.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.1|<< James 3:1]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.3|James 3:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4183\|πολλὰ]]  [[G1063\|γὰρ]]  [[G4417\|πταίομεν]]  [[G0537\|ἅπαντες·]]  [[G1487G\|εἴ]]  [[G5100\|τις]]  [[G1722\|ἐν]]  [[G3056\|λόγῳ]]  [[G3756\|οὐ]]  [[G4417\|πταίει,]]  [[G3778\|οὗτος]]  [[G5046\|τέλειος]]  [[G0435G\|ἀνήρ,]]  [[G1415\|δυνατὸς]]  [[G5468\|χαλιναγωγῆσαι]]  [[G2532\|καὶ]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4983\|σῶμα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEPRAVITY OF MAN|DEPRAVITY OF MAN]] • [[topic PERFECTION|PERFECTION]] • [[topic SPEAKING|SPEAKING]] • [[topic WORDS|WORDS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.3.1|<< James 3:1]]</td><td align="center" style="border:none;">[[Jas.3|James 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.3.3|James 3:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

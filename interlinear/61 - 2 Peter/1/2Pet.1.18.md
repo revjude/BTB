@@ -1,10 +1,58 @@
+---
+title: 2 Peter 1:18
+type: Verse
+kjv: "And this voice which came from heaven we heard, when we were with him in the holy mount."
+bsb: "And we ourselves heard this voice from heaven when we were with Him on the holy mountain."
+greek: "καὶ ταύτην τὴν φωνὴν ἡμεῖς ἠκούσαμεν ἐξ οὐρανοῦ ἐνεχθεῖσαν σὺν αὐτῷ ὄντες ἐν τῷ ἁγίῳ τῷ ὄρει.¶"
+pericope: "[[2Pet.1.16 Eyewitnesses of His Majesty|Eyewitnesses of His Majesty]]"
+original_language: Greek
+testament: New
+book: 2 Peter
+chapter: 1
+book/chapter: "[[2Pet.1|2 Peter 1]]"
+chronological_order: 1157
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- testament letter
+- polemical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G5456G]]"
+- "[[G3165]]"
+- "[[G0191]]"
+- "[[G1537]]"
+- "[[G3772]]"
+- "[[G5342]]"
+- "[[G4862]]"
+- "[[G0846]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G0040G]]"
+- "[[G3735]]"
+texts:
+- NKO
+- ko
+---
+
 **2 Peter 1:18**<big><big>[[2Pet.1.16 Eyewitnesses of His Majesty|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And this voice which came from heaven we heard, when we were with him in the holy mount.
 <small><sub>**BSB:**</sub></small>
 And we ourselves heard this voice from heaven when we were with Him on the holy mountain.
-<small><sub>**Literal:**</sub></small>
-And this <the> voice we ourselves heard from heaven having been brought with Him being in the holy <the> mountain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.17|<< 2 Peter 1:17]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.19|2 Peter 1:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G3778\|ταύτην]]  [[G3588\|τὴν]]  [[G5456G\|φωνὴν]]  [[G3165\|ἡμεῖς]]  [[G0191\|ἠκούσαμεν]]  [[G1537\|ἐξ]]  [[G3772\|οὐρανοῦ]]  [[G5342\|ἐνεχθεῖσαν]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]  [[G1510\|ὄντες]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0040G\|ἁγίῳ]]  [[G3588\|τῷ]]  [[G3735\|ὄρει.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Pet.1.17|<< 2 Peter 1:17]]</td><td align="center" style="border:none;">[[2Pet.1|2 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Pet.1.19|2 Peter 1:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

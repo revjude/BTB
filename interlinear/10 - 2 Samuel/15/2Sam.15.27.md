@@ -1,8 +1,75 @@
+---
+title: 2 Samuel 15:27
+type: Verse
+kjv: "The king said also unto Zadok the priest, Art not thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar."
+bsb: "The king also said to Zadok the priest, “Are you not a seer? Return to the city in peace—you with your son Ahimaaz, and Abiathar with his son Jonathan."
+hebrew: "וַיֹּ֤אמֶר הַמֶּ֙לֶךְ֙ אֶל־ צָד֣וֹק הַכֹּהֵ֔ן הֲרוֹאֶ֣ה אַתָּ֔ה שֻׁ֥בָה הָעִ֖יר בְּשָׁל֑וֹם וַאֲחִימַ֨עַץ בִּנְךָ֜ וִיהוֹנָתָ֧ן בֶּן־ אֶבְיָתָ֛ר שְׁנֵ֥י בְנֵיכֶ֖ם אִתְּכֶֽם׃"
+pericope: "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic ARK|ARK]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic POLITICS|POLITICS]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6659G]]"
+- "[[H3548]]"
+- "[[H9008]]"
+- "[[H7200L]]"
+- "[[H0859A]]"
+- "[[H7725G]]"
+- "[[H9012]]"
+- "[[H5892B]]"
+- "[[H9003]]"
+- "[[H7965G]]"
+- "[[H9002]]"
+- "[[H0290H]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H3083I]]"
+- "[[H0054]]"
+- "[[H8147]]"
+- "[[H9026]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:27**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The king said also unto Zadok the priest, [Art not] thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar.
 <small><sub>**BSB:**</sub></small>
 The king also said to Zadok the priest, “Are you not a seer? Return to the city in peace—you with your son Ahimaaz, and Abiathar with his son Jonathan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H6659G\|צָד֣וֹק]] [[H9009\|הַ]][[H3548\|כֹּהֵ֔ן]] [[H9008\|הֲ]][[H7200L\|רוֹאֶ֣ה]] [[H0859A\|אַתָּ֔ה]] [[H7725G\|שֻׁ֥בָ]][[H9012\|ה]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H9003\|בְּ]][[H7965G\|שָׁל֑וֹם]] [[H9002\|וַ]][[H0290H\|אֲחִימַ֨עַץ]] [[H1121A\|בִּנְ]][[H9021\|ךָ֜]] [[H9002\|וִ]][[H3083I\|יהוֹנָתָ֧ן]] [[H1121A\|בֶּן]][[H9014\|־]] [[H0054\|אֶבְיָתָ֛ר]] [[H8147\|שְׁנֵ֥י]] [[H1121A\|בְנֵי]][[H9026\|כֶ֖ם]] [[H0854\|אִתְּ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic ARK|ARK]] • [[topic DAVID|DAVID]] • [[topic JONATHAN|JONATHAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic POLITICS|POLITICS]] • [[topic PROPHETS|PROPHETS]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.26|<< 2 Samuel 15:26]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.28|2 Samuel 15:28 >>]]</td></tr></table>
 

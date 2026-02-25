@@ -1,6 +1,77 @@
+---
+title: LXX Isaiah 8:19
+type: Verse
+lxx: "And if they should say to you, Seek the ones who deliver oracles, and the ones from the earth speaking out loud, and the empty words which they speak out loud from the belly; shall not a nation inquire to its God? Why do they inquire concerning the living of the ones dead?"
+greek: "και εάν είπωσι προς υμάς ζητήσατε τους εγγαστριμύθους και τους από της γης φωνούντας και τους κενολογούντας οι εκ της κοιλίας φωνούνσιν ουκ έθνος προς θεόν αυτού εκζητήσουσι τι εκζητούσι περί των ζώντων τους νεκρούς"
+original_language: Greek
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- septuagint
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic NECROMANCY|NECROMANCY]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic SORCERY|SORCERY]]"
+strongs:
+- "[[G2532]]"
+- "[[G1437]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G1473]]"
+- "[[G2212]]"
+- "[[G3588]]"
+- "[[G6995]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G1093]]"
+- "[[G5455]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G7991]]"
+- "[[G3739]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2836]]"
+- "[[G5455]]"
+- "[[G3756]]"
+- "[[G1484]]"
+- "[[G4314]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1567]]"
+- "[[G5100]]"
+- "[[G1567]]"
+- "[[G4012]]"
+- "[[G3588]]"
+- "[[G2198]]"
+- "[[G3588]]"
+- "[[G3498]]"
+---
+
 **LXX Isaiah 8:19** 
 <small><sub>**LXX:**</sub></small>
 And if they should say to you, Seek the ones who deliver oracles, and the ones from the earth speaking out loud, and the empty words which they speak out loud from the belly; \[shall\] not a nation inquire to its God? Why do they inquire concerning the living of the ones dead? 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1437\|εάν]] [[G2036\|είπωσι]] [[G4314\|προς]] [[G1473\|υμάς]] [[G2212\|ζητήσατε]] [[G3588\|τους]] [[G6995\|εγγαστριμύθους]] [[G2532\|και]] [[G3588\|τους]] [[G0575\|από]] [[G3588\|της]] [[G1093\|γης]] [[G5455\|φωνούντας]] [[G2532\|και]] [[G3588\|τους]] [[G7991\|κενολογούντας]] [[G3739\|οι]] [[G1537\|εκ]] [[G3588\|της]] [[G2836\|κοιλίας]] [[G5455\|φωνούνσιν]] [[G3756\|ουκ]] [[G1484\|έθνος]] [[G4314\|προς]] [[G2316\|θεόν]] [[G1473\|αυτού]] [[G1567\|εκζητήσουσι]] [[G5100\|τι]] [[G1567\|εκζητούσι]] [[G4012\|περί]] [[G3588\|των]] [[G2198\|ζώντων]] [[G3588\|τους]] [[G3498\|νεκρούς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic FAMILIAR SPIRITS|FAMILIAR SPIRITS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic NECROMANCY|NECROMANCY]] • [[topic SEEKERS|SEEKERS]] • [[topic SORCERY|SORCERY]]</small>
 <small><sub>**MT:**</sub></small>
 [[Isa.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.18|<< Isaiah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.20|Isaiah 8:20 >>]]</td></tr></table>
 
@@ -40,6 +111,6 @@ And if they should say to you, Seek the ones who deliver oracles, and the ones f
 | living | **<big>[[G2198\|ζώντων]]</big>** |
 | of the ones | **<big>[[G3588\|τους]]</big>** |
 | dead? | **<big>[[G3498\|νεκρούς]]</big>** |
-[[Isa.8.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.18|<< Isaiah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.20|Isaiah 8:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Isa.8.18|<< Isaiah 8:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Isa.8.20|Isaiah 8:20 >>]]</td></tr></table>
 
 

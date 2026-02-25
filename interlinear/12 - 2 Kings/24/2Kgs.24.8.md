@@ -1,8 +1,66 @@
+---
+title: 2 Kings 24:8
+type: Verse
+kjv: "Jehoiachin was eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother’s name was Nehushta, the daughter of Elnathan of Jerusalem."
+bsb: "Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months. His mother’s name was Nehushta daughter of Elnathan; she was from Jerusalem."
+hebrew: "בֶּן־ שְׁמֹנֶ֨ה עֶשְׂרֵ֤ה שָׁנָה֙ יְהוֹיָכִ֣ין בְּמָלְכ֔וֹ וּשְׁלֹשָׁ֣ה חֳדָשִׁ֔ים מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ נְחֻשְׁתָּ֥א בַת־ אֶלְנָתָ֖ן מִירוּשָׂלִָֽם׃"
+pericope: "[[2Kgs.24.6 Jehoiachin Reigns in Judah|Jehoiachin Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 24
+book/chapter: "[[2Kgs.24|2 Kings 24]]"
+chronological_order: 741
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic ELNATHAN|ELNATHAN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JEHOIACHIN|JEHOIACHIN]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic NEHUSHTA|NEHUSHTA]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H8083]]"
+- "[[H6240]]"
+- "[[H8141]]"
+- "[[H3078]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H9002]]"
+- "[[H7969]]"
+- "[[H2320G]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H5179]]"
+- "[[H1323G]]"
+- "[[H0494G]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 24:8**<big><big>[[2Kgs.24.6 Jehoiachin Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehoiachin [was] eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother’s name [was] Nehushta, the daughter of Elnathan of Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Jehoiachin was eighteen years old when he became king, and he reigned in Jerusalem three months. His mother’s name was Nehushta daughter of Elnathan; she was from Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H8083\|שְׁמֹנֶ֨ה]] [[H6240\|עֶשְׂרֵ֤ה]] [[H8141\|שָׁנָה֙]] [[H3078\|יְהוֹיָכִ֣ין]] [[H9003\|בְּ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וּ]][[H7969\|שְׁלֹשָׁ֣ה]] [[H2320G\|חֳדָשִׁ֔ים]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H5179\|נְחֻשְׁתָּ֥א]] [[H1323G\|בַת]][[H9014\|־]] [[H0494G\|אֶלְנָתָ֖ן]] [[H9006\|מִ]][[H3389\|ירוּשָׂלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic ELNATHAN|ELNATHAN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JEHOIACHIN|JEHOIACHIN]] • [[topic JERUSALEM|JERUSALEM]] • [[topic NEHUSHTA|NEHUSHTA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.24.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.24.7|<< 2 Kings 24:7]]</td><td align="center" style="border:none;">[[2Kgs.24|2 Kings 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.24.9|2 Kings 24:9 >>]]</td></tr></table>
 

@@ -1,6 +1,65 @@
+---
+title: LXX Deuteronomy 19:19
+type: Verse
+lxx: "then you shall do to him in which manner he devised wickedly to do against  his brother, and you shall lift away the wicked from yourselves."
+greek: "και ποιήσετε αυτώ ον τρόπον επονηρεύσατο ποιήσαι κατά του αδελφού αυτού και εξαρείτε το πονηρόν εξ υμών αυτών"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[G2532]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G5158]]"
+- "[[G8863]]"
+- "[[G4160]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G1808]]"
+- "[[G3588]]"
+- "[[G4190]]"
+- "[[G1537]]"
+- "[[G1473]]"
+- "[[G1473]]"
+---
+
 **LXX Deuteronomy 19:19** 
 <small><sub>**LXX:**</sub></small>
 then you shall do to him in which manner he devised wickedly to do against  his brother, and you shall lift away the wicked from yourselves. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G4160\|ποιήσετε]] [[G1473\|αυτώ]] [[G3739\|ον]] [[G5158\|τρόπον]] [[G8863\|επονηρεύσατο]] [[G4160\|ποιήσαι]] [[G2596\|κατά]] [[G3588\|του]] [[G0080\|αδελφού]] [[G1473\|αυτού]] [[G2532\|και]] [[G1808\|εξαρείτε]] [[G3588\|το]] [[G4190\|πονηρόν]] [[G1537\|εξ]] [[G1473\|υμών]] [[G1473\|αυτών]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EVIDENCE|EVIDENCE]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic JUDGE|JUDGE]] • [[topic RETALIATION|RETALIATION]] • [[topic REVERENCE|REVERENCE]] • [[topic RULERS|RULERS]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.18|<< Deuteronomy 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.20|Deuteronomy 19:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -26,6 +85,6 @@ then you shall do to him in which manner he devised wickedly to do against  his 
 | wicked | **<big>[[G4190\|πονηρόν]]</big>** |
 | from | **<big>[[G1537\|εξ]]</big>** |
 | yourselves. | **<big>[[G1473\|υμών]]</big>** **<big>[[G1473\|αυτών]]</big>** |
-[[Deut.19.19|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.18|<< Deuteronomy 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.20|Deuteronomy 19:20 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.19.18|<< Deuteronomy 19:18]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.19.20|Deuteronomy 19:20 >>]]</td></tr></table>
 
 

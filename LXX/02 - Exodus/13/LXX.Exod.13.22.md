@@ -1,6 +1,62 @@
+---
+title: LXX Exodus 13:22
+type: Verse
+lxx: "The column of cloud did not fail by day, and the column  of fire by night before all the people."
+greek: "ουκ εξέλιπεν ο στύλος της νεφέλης ημέρας και ο στύλος του πυρός νυκτός εναντίον παντός του λαού"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 13
+book/chapter: "[[Exod.13|Exodus 13]]"
+chronological_order: 105
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1587]]"
+- "[[G3588]]"
+- "[[G4769]]"
+- "[[G3588]]"
+- "[[G3507]]"
+- "[[G2250]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4769]]"
+- "[[G3588]]"
+- "[[G4442]]"
+- "[[G3571]]"
+- "[[G1726]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2992]]"
+---
+
 **LXX Exodus 13:22** 
 <small><sub>**LXX:**</sub></small>
 The column of cloud did not fail \[by\] day, and the column  of fire \[by\] night before all the people. 
+<small><sub>**Greek:**</sub></small>
+[[G3756\|ουκ]] [[G1587\|εξέλιπεν]] [[G3588\|ο]] [[G4769\|στύλος]] [[G3588\|της]] [[G3507\|νεφέλης]] [[G2250\|ημέρας]] [[G2532\|και]] [[G3588\|ο]] [[G4769\|στύλος]] [[G3588\|του]] [[G4442\|πυρός]] [[G3571\|νυκτός]] [[G1726\|εναντίον]] [[G3956\|παντός]] [[G3588\|του]] [[G2992\|λαού]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic FIRE|FIRE]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.21|<< Exodus 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.1|Exodus 14:1 >>]]</td></tr></table>
 
@@ -23,6 +79,6 @@ The column of cloud did not fail \[by\] day, and the column  of fire \[by\] nigh
 | all | **<big>[[G3956\|παντός]]</big>** |
 | the | **<big>[[G3588\|του]]</big>** |
 | people. | **<big>[[G2992\|λαού]]</big>** |
-[[Exod.13.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.21|<< Exodus 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.1|Exodus 14:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.13.21|<< Exodus 13:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.14.1|Exodus 14:1 >>]]</td></tr></table>
 
 

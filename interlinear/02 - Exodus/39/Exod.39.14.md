@@ -1,8 +1,68 @@
+---
+title: Exodus 39:14
+type: Verse
+kjv: "And the stones were according to the names of the children of Israel, twelve, according to their names, like the engravings of a signet, every one with his name, according to the twelve tribes."
+bsb: "The twelve stones corresponded to the names of the sons of Israel. Each stone was engraved like a seal with the name of one of the twelve tribes."
+hebrew: "וְ֠הָאֲבָנִים עַל־ שְׁמֹ֨ת בְּנֵי־ יִשְׂרָאֵ֥ל הֵ֛נָּה שְׁתֵּ֥ים עֶשְׂרֵ֖ה עַל־ שְׁמֹתָ֑ם פִּתּוּחֵ֤י חֹתָם֙ אִ֣ישׁ עַל־ שְׁמ֔וֹ לִשְׁנֵ֥ים עָשָׂ֖ר שָֽׁבֶט׃"
+pericope: "[[Exod.39.8 The Breastpiece|The Breastpiece]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ENGRAVING|ENGRAVING]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SEAL|SEAL]]"
+- "[[topic STONES|STONES]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H0068G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H8034]]"
+- "[[H1121A]]"
+- "[[H3478]]"
+- "[[H2007]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H9028]]"
+- "[[H6603]]"
+- "[[H2368]]"
+- "[[H0376I]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H7626H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:14**<big><big>[[Exod.39.8 The Breastpiece|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the stones [were] according to the names of the children of Israel, twelve, according to their names, [like] the engravings of a signet, every one with his name, according to the twelve tribes.
 <small><sub>**BSB:**</sub></small>
 The twelve stones corresponded to the names of the sons of Israel. Each stone was engraved like a seal with the name of one of the twelve tribes.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ֠]][[H9009\|הָ]][[H0068G\|אֲבָנִים]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמֹ֨ת]] [[H1121A\|בְּנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֥ל]] [[H2007\|הֵ֛נָּה]] [[H8147\|שְׁתֵּ֥ים]] [[H6240\|עֶשְׂרֵ֖ה]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמֹתָ֑]][[H9028\|ם]] [[H6603\|פִּתּוּחֵ֤י]] [[H2368\|חֹתָם֙]] [[H0376I\|אִ֣ישׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H8034\|שְׁמ֔]][[H9023\|וֹ]] [[H9005\|לִ]][[H8147\|שְׁנֵ֥ים]] [[H6240\|עָשָׂ֖ר]] [[H7626H\|שָֽׁבֶט]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ENGRAVING|ENGRAVING]] • [[topic EPHOD|EPHOD]] • [[topic PRIEST|PRIEST]] • [[topic SEAL|SEAL]] • [[topic STONES|STONES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.13|<< Exodus 39:13]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.15|Exodus 39:15 >>]]</td></tr></table>
 

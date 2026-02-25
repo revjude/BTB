@@ -1,10 +1,60 @@
+---
+title: Romans 15:8
+type: Verse
+kjv: "Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:"
+bsb: "For I tell you that Christ has become a servant of the circumcised on behalf of God’s truth, to confirm the promises made to the patriarchs,"
+greek: "λέγω γὰρ Χριστὸν Ἰησοῦν διάκονον γεγενῆσθαι περιτομῆς ὑπὲρ ἀληθείας θεοῦ εἰς τὸ βεβαιῶσαι τὰς ἐπαγγελίας τῶν πατέρων,"
+pericope: "[[Rom.15.7 Christ the Servant of Jews and Gentiles|Christ the Servant of Jews and Gentiles]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ABRAHAM|ABRAHAM]]"
+- "[[topic CIRCUMCISION|CIRCUMCISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3004G]]"
+- "[[G1063]]"
+- "[[G5547]]"
+- "[[G2424G]]"
+- "[[G1249]]"
+- "[[G1096]]"
+- "[[G4061]]"
+- "[[G5228]]"
+- "[[G0225]]"
+- "[[G2316]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0950]]"
+- "[[G1860]]"
+- "[[G3962]]"
+texts:
+- NKO
+- N(k)O
+- K
+- NK(o)
+---
+
 **Romans 15:8**<big><big>[[Rom.15.7 Christ the Servant of Jews and Gentiles|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises [made] unto the fathers:
 <small><sub>**BSB:**</sub></small>
 For I tell you that Christ has become a servant of the circumcised on behalf of God’s truth, to confirm the promises made to the patriarchs,
-<small><sub>**Literal:**</sub></small>
-I say for Christ Jesus a servant to have become of [the] circumcision for [the] truth of God in order <the> to confirm the promises given to the fathers,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.7|<< Romans 15:7]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.9|Romans 15:9 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγω]]  [[G1063\|γὰρ]]  [[G5547\|Χριστὸν]]  [[G2424G\|Ἰησοῦν]]  [[G1249\|διάκονον]]  [[G1096\|γεγενῆσθαι]]  [[G4061\|περιτομῆς]]  [[G5228\|ὑπὲρ]]  [[G0225\|ἀληθείας]]  [[G2316\|θεοῦ]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G0950\|βεβαιῶσαι]]  [[G3588\|τὰς]]  [[G1860\|ἐπαγγελίας]]  [[G3588\|τῶν]]  [[G3962\|πατέρων,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABRAHAM|ABRAHAM]] • [[topic CIRCUMCISION|CIRCUMCISION]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.7|<< Romans 15:7]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.9|Romans 15:9 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

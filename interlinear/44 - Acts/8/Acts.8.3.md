@@ -1,10 +1,58 @@
+---
+title: Acts 8:3
+type: Verse
+kjv: "As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison."
+bsb: "But Saul began to destroy the church. Going from house to house, he dragged off men and women and put them in prison."
+greek: "Σαῦλος δὲ ἐλυμαίνετο τὴν ἐκκλησίαν κατὰ τοὺς οἴκους εἰσπορευόμενος, σύρων τε ἄνδρας καὶ γυναῖκας παρεδίδου εἰς φυλακήν.¶"
+pericope: "[[Acts.8.1 Saul Persecutes the Church|Saul Persecutes the Church]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PAUL|PAUL]]"
+strongs:
+- "[[G4569G]]"
+- "[[G1161]]"
+- "[[G3075]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G2596]]"
+- "[[G3624G]]"
+- "[[G1531]]"
+- "[[G4951]]"
+- "[[G5037]]"
+- "[[G0435G]]"
+- "[[G2532]]"
+- "[[G1135G]]"
+- "[[G3860]]"
+- "[[G1519]]"
+- "[[G5438G]]"
+texts:
+- NKO
+---
+
 **Acts 8:3**<big><big>[[Acts.8.1 Saul Persecutes the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 As for Saul, he made havock of the church, entering into every house, and haling men and women committed [them] to prison.
 <small><sub>**BSB:**</sub></small>
 But Saul began to destroy the church. Going from house to house, he dragged off men and women and put them in prison.
-<small><sub>**Literal:**</sub></small>
-Saul however was destroying the church by <the> houses entering, dragging off then men and women he was delivering [them] to prison.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.2|<< Acts 8:2]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.4|Acts 8:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4569G\|Σαῦλος]]  [[G1161\|δὲ]]  [[G3075\|ἐλυμαίνετο]]  [[G3588\|τὴν]]  [[G1577\|ἐκκλησίαν]]  [[G2596\|κατὰ]]  [[G3588\|τοὺς]]  [[G3624G\|οἴκους]]  [[G1531\|εἰσπορευόμενος,]]  [[G4951\|σύρων]]  [[G5037\|τε]]  [[G0435G\|ἄνδρας]]  [[G2532\|καὶ]]  [[G1135G\|γυναῖκας]]  [[G3860\|παρεδίδου]]  [[G1519\|εἰς]]  [[G5438G\|φυλακήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic INTOLERANCE, RELIGIOUS|INTOLERANCE, RELIGIOUS]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PAUL|PAUL]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.2|<< Acts 8:2]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.4|Acts 8:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

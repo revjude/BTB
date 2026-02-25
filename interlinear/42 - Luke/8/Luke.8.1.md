@@ -1,10 +1,59 @@
+---
+title: Luke 8:1
+type: Verse
+kjv: "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,"
+bsb: "Soon afterward, Jesus traveled from one town and village to another, preaching and proclaiming the good news of the kingdom of God. The Twelve were with Him,"
+greek: "Καὶ ἐγένετο ἐν τῷ καθεξῆς καὶ αὐτὸς διώδευεν κατὰ πόλιν καὶ κώμην κηρύσσων καὶ εὐαγγελιζόμενος τὴν βασιλείαν τοῦ θεοῦ καὶ οἱ δώδεκα σὺν αὐτῷ"
+pericope: "[[Luke.8.1 Women Minister to Jesus|Women Minister to Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 8
+book/chapter: "[[Luke.8|Luke 8]]"
+chronological_order: 953
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2517]]"
+- "[[G0846]]"
+- "[[G1353]]"
+- "[[G2596]]"
+- "[[G4172]]"
+- "[[G2968]]"
+- "[[G2784]]"
+- "[[G2097]]"
+- "[[G0932]]"
+- "[[G2316]]"
+- "[[G1427]]"
+- "[[G4862]]"
+texts:
+- NKO
+---
+
 **Luke 8:1**<big><big>[[Luke.8.1 Women Minister to Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve [were] with him,
 <small><sub>**BSB:**</sub></small>
 Soon afterward, Jesus traveled from one town and village to another, preaching and proclaiming the good news of the kingdom of God. The Twelve were with Him,
-<small><sub>**Literal:**</sub></small>
-And it came to pass afterward <the> soon that He himself was traveling throughout city and village preaching and evangelising of the kingdom <the> of God And the Twelve [were] with Him<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.50|<< Luke 7:50]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.2|Luke 8:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1096\|ἐγένετο]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2517\|καθεξῆς]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G1353\|διώδευεν]]  [[G2596\|κατὰ]]  [[G4172\|πόλιν]]  [[G2532\|καὶ]]  [[G2968\|κώμην]]  [[G2784\|κηρύσσων]]  [[G2532\|καὶ]]  [[G2097\|εὐαγγελιζόμενος]]  [[G3588\|τὴν]]  [[G0932\|βασιλείαν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G1427\|δώδεκα]]  [[G4862\|σὺν]]  [[G0846\|αὐτῷ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic PREACHING|PREACHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.7.50|<< Luke 7:50]]</td><td align="center" style="border:none;">[[Luke.8|Luke 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.8.2|Luke 8:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

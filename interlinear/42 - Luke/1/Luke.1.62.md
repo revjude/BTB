@@ -1,10 +1,54 @@
+---
+title: Luke 1:62
+type: Verse
+kjv: "And they made signs to his father, how he would have him called."
+bsb: "So they made signs to his father to find out what he wanted to name the child."
+greek: "ἐνένευον δὲ τῷ πατρὶ αὐτοῦ τὸ τί ἂν θέλοι καλεῖσθαι αὐτό."
+pericope: "[[Luke.1.57 The Birth of John the Baptist|The Birth of John the Baptist]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 1
+book/chapter: "[[Luke.1|Luke 1]]"
+chronological_order: 930
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic JOHN|JOHN]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+- "[[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]"
+strongs:
+- "[[G1770]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G0302]]"
+- "[[G2309]]"
+- "[[G2564G]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 1:62**<big><big>[[Luke.1.57 The Birth of John the Baptist|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they made signs to his father, how he would have him called.
 <small><sub>**BSB:**</sub></small>
 So they made signs to his father to find out what he wanted to name the child.
-<small><sub>**Literal:**</sub></small>
-They were making signs then to the father of him the what maybe he would wish to be called him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.61|<< Luke 1:61]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.63|Luke 1:63 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1770\|ἐνένευον]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G3962\|πατρὶ]]  [[G0846\|αὐτοῦ]]  [[G3588\|τὸ]]  [[G5101\|τί]]  [[G0302\|ἂν]]  [[G2309\|θέλοι]]  [[G2564G\|καλεῖσθαι]]  [[G0846\|αὐτό.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOHN|JOHN]] • [[topic MIRACLES|MIRACLES]] • [[topic SYMBOLS|SYMBOLS]] • [[topic ZACHARIAS (ZECHARIAH)|ZACHARIAS (ZECHARIAH)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.1.61|<< Luke 1:61]]</td><td align="center" style="border:none;">[[Luke.1|Luke 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.1.63|Luke 1:63 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

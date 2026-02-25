@@ -1,8 +1,64 @@
+---
+title: Hosea 10:11
+type: Verse
+kjv: "And Ephraim is as an heifer that is taught, and loveth to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods."
+bsb: "Ephraim is a well-trained heifer that loves to thresh; but I will place a yoke on her fair neck. I will harness Ephraim, Judah will plow, and Jacob will break the hard ground."
+hebrew: "וְאֶפְרַ֜יִם עֶגְלָ֤ה מְלֻמָּדָה֙ אֹהַ֣בְתִּי לָד֔וּשׁ וַאֲנִ֣י עָבַ֔רְתִּי עַל־ ט֖וּב צַוָּארָ֑הּ אַרְכִּ֤יב אֶפְרַ֙יִם֙ יַחֲר֣וֹשׁ יְהוּדָ֔ה יְשַׂדֶּד־ ל֖וֹ יַעֲקֹֽב׃"
+pericope: "[[Hos.10.1 Retribution for Israel’s Sin|Retribution for Israel’s Sin]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 10
+book/chapter: "[[Hos.10|Hosea 10]]"
+chronological_order: 651
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic COW|COW]]"
+- "[[topic HEIFER|HEIFER]]"
+- "[[topic PRIDE|PRIDE]]"
+- "[[topic THRESHING|THRESHING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0669G]]"
+- "[[H5697A]]"
+- "[[H3925G]]"
+- "[[H0157G]]"
+- "[[H9005]]"
+- "[[H1758]]"
+- "[[H0589]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2898]]"
+- "[[H6677A]]"
+- "[[H9024]]"
+- "[[H7392]]"
+- "[[H2790A]]"
+- "[[H3063G]]"
+- "[[H7702]]"
+- "[[H9033]]"
+- "[[H3290]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 10:11**<big><big>[[Hos.10.1 Retribution for Israel’s Sin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Ephraim [is as] an heifer [that is] taught, [and] loveth to tread out [the corn]; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, [and] Jacob shall break his clods.
 <small><sub>**BSB:**</sub></small>
 Ephraim is a well-trained heifer that loves to thresh; but I will place a yoke on her fair neck. I will harness Ephraim, Judah will plow, and Jacob will break the hard ground.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0669G\|אֶפְרַ֜יִם]] [[H5697A\|עֶגְלָ֤ה]] [[H3925G\|מְלֻמָּדָה֙]] [[H0157G\|אֹהַ֣בְתִּי]] [[H9005\|לָ]][[H1758\|ד֔וּשׁ]] [[H9002\|וַ]][[H0589\|אֲנִ֣י]] [[H5674A\|עָבַ֔רְתִּי]] [[H5921A\|עַל]][[H9014\|־]] [[H2898\|ט֖וּב]] [[H6677A\|צַוָּארָ֑]][[H9024\|הּ]] [[H7392\|אַרְכִּ֤יב]] [[H0669G\|אֶפְרַ֙יִם֙]] [[H2790A\|יַחֲר֣וֹשׁ]] [[H3063G\|יְהוּדָ֔ה]] [[H7702\|יְשַׂדֶּד]][[H9014\|־]] [[H9005\|ל֖]][[H9033\|וֹ]] [[H3290\|יַעֲקֹֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COW|COW]] • [[topic HEIFER|HEIFER]] • [[topic PRIDE|PRIDE]] • [[topic THRESHING|THRESHING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.10.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.10.10|<< Hosea 10:10]]</td><td align="center" style="border:none;">[[Hos.10|Hosea 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.10.12|Hosea 10:12 >>]]</td></tr></table>
 

@@ -5,7 +5,7 @@
 
 → Visited
 
-- By Paul [[Acts.18|Ac 18]]; [[2Cor.12.14|2Co 12:14]]; [[2Cor.13.1|13:1]]; with [[1Cor.16.5|1Co 16:5]]-[[1Cor.16.7|7]]
+- By Paul [[Acts.18|Ac 18]]; [[2Cor.12.14|2Co 12:14]]; [[2Cor.13.1|13:1]]; with [[1Cor.16.5|1Co 16:5-7]]
 
 - And [[2Cor.1.16|2Co 1:16]]
 
@@ -33,5 +33,5 @@
 
 - Liberality of [[2Cor.9|2Co 9]]
 
-- Paul's letters to [[1Cor.1.2|1Co 1:2]]; [[1Cor.16.21|16:21]]-[[1Cor.16.24|24]]; [[2Cor.1.1|2Co 1:1]],[[2Cor.1.13|13]]
+- Paul's letters to [[1Cor.1.2|1Co 1:2]]; [[1Cor.16.21|16:21-24]]; [[2Cor.1.1|2Co 1:1]],[[2Cor.1.13|13]]
 

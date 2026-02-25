@@ -1,8 +1,57 @@
+---
+title: Hosea 8:10
+type: Verse
+kjv: "Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes."
+bsb: "Though they hire allies among the nations, I will now round them up, and they will begin to diminish under the oppression of the king of princes."
+hebrew: "גַּ֛ם כִּֽי־ יִתְנ֥וּ בַגּוֹיִ֖ם עַתָּ֣ה אֲקַבְּצֵ֑ם וַיָּחֵ֣לּוּ מְּעָ֔ט מִמַּשָּׂ֖א מֶ֥לֶךְ שָׂרִֽים׃"
+pericope: "[[Hos.8.1 Israel Will Reap the Whirlwind|Israel Will Reap the Whirlwind]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 8
+book/chapter: "[[Hos.8|Hosea 8]]"
+chronological_order: 649
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H1571]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8566]]"
+- "[[H9003]]"
+- "[[H1471A]]"
+- "[[H6258]]"
+- "[[H6908]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H2490C]]"
+- "[[H4592]]"
+- "[[H9006]]"
+- "[[H4853A]]"
+- "[[H4428G]]"
+- "[[H8269]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 8:10**<big><big>[[Hos.8.1 Israel Will Reap the Whirlwind|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes.
 <small><sub>**BSB:**</sub></small>
 Though they hire allies among the nations, I will now round them up, and they will begin to diminish under the oppression of the king of princes.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֛ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8566\|יִתְנ֥וּ]] [[H9003\|בַ]][[H1471A\|גּוֹיִ֖ם]] [[H6258\|עַתָּ֣ה]] [[H6908\|אֲקַבְּצֵ֑]][[H9038\|ם]] [[H9001\|וַ]][[H2490C\|יָּחֵ֣לּוּ]] [[H4592\|מְּעָ֔ט]] [[H9006\|מִ]][[H4853A\|מַּשָּׂ֖א]] [[H4428G\|מֶ֥לֶךְ]] [[H8269\|שָׂרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.8.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.8.9|<< Hosea 8:9]]</td><td align="center" style="border:none;">[[Hos.8|Hosea 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.8.11|Hosea 8:11 >>]]</td></tr></table>
 

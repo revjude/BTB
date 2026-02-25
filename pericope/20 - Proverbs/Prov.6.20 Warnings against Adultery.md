@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Warnings against Adultery
+type: Pericope
 pericope: "[[Prov.6.20 Warnings against Adultery|Warnings against Adultery]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 6
 book/chapter: "[[Prov.6|Proverbs 6]]"
-genre:
+chronological_order: 461
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 16
 verses:
 - "[[Prov.6.20]]"
 - "[[Prov.6.21]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Prov.6.35]]"
 ---
 
-[[Prov.6|Proverbs 6:20 - Proverbs 6:35]]
+<small>[[Prov.6|Proverbs 6:20-35]]</small>
 *Warnings against Adultery*
 
 [[Prov.6.20|20]] My son, keep thy father’s commandment, and forsake not the law of thy mother:

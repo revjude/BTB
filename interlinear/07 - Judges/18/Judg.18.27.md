@@ -1,8 +1,71 @@
+---
+title: Judges 18:27
+type: Verse
+kjv: "And they took the things which Micah had made, and the priest which he had, and came unto Laish, unto a people that were at quiet and secure: and they smote them with the edge of the sword, and burnt the city with fire."
+bsb: "After they had taken Micah’s idols and his priest, they went to Laish, to a quiet and unsuspecting people, and they struck them with their swords and burned down the city."
+hebrew: "וְהֵ֨מָּה לָקְח֜וּ אֵ֧ת אֲשֶׁר־ עָשָׂ֣ה מִיכָ֗ה וְֽאֶת־ הַכֹּהֵן֮ אֲשֶׁ֣ר הָיָה־ לוֹ֒ וַיָּבֹ֣אוּ עַל־ לַ֗יִשׁ עַל־ עַם֙ שֹׁקֵ֣ט וּבֹטֵ֔חַ וַיַּכּ֥וּ אוֹתָ֖ם לְפִי־ חָ֑רֶב וְאֶת־ הָעִ֖יר שָׂרְפ֥וּ בָאֵֽשׁ׃"
+pericope: "[[Judg.18.14 The Danites Take Micah’s Idols|The Danites Take Micah’s Idols]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 18
+book/chapter: "[[Judg.18|Judges 18]]"
+chronological_order: 272
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DAN|DAN]]"
+- "[[topic JONATHAN|JONATHAN]]"
+- "[[topic THEFT AND THIEVES|THEFT AND THIEVES]]"
+strongs:
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H6213H]]"
+- "[[H4318G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H5921A]]"
+- "[[H3919A]]"
+- "[[H5971A]]"
+- "[[H8252]]"
+- "[[H0982]]"
+- "[[H5221]]"
+- "[[H9038]]"
+- "[[H6310H]]"
+- "[[H2719]]"
+- "[[H5892B]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 18:27**<big><big>[[Judg.18.14 The Danites Take Micah’s Idols|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they took [the things] which Micah had made, and the priest which he had, and came unto Laish, unto a people [that were] at quiet and secure: and they smote them with the edge of the sword, and burnt the city with fire.
 <small><sub>**BSB:**</sub></small>
 After they had taken Micah’s idols and his priest, they went to Laish, to a quiet and unsuspecting people, and they struck them with their swords and burned down the city.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1992\|הֵ֨מָּה]] [[H3947G\|לָקְח֜וּ]] [[H0853\|אֵ֧ת]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6213H\|עָשָׂ֣ה]] [[H4318G\|מִיכָ֗ה]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵן֮]] [[H0834A\|אֲשֶׁ֣ר]] [[H1961\|הָיָה]][[H9014\|־]] [[H9005\|ל]][[H9033\|וֹ֒]] [[H9001\|וַ]][[H0935G\|יָּבֹ֣אוּ]] [[H5921A\|עַל]][[H9014\|־]] [[H3919A\|לַ֗יִשׁ]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַם֙]] [[H8252\|שֹׁקֵ֣ט]] [[H9002\|וּ]][[H0982\|בֹטֵ֔חַ]] [[H9001\|וַ]][[H5221\|יַּכּ֥וּ]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9005\|לְ]][[H6310H\|פִי]][[H9014\|־]] [[H2719\|חָ֑רֶב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5892B\|עִ֖יר]] [[H8313\|שָׂרְפ֥וּ]] [[H9003\|בָ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAN|DAN]] • [[topic JONATHAN|JONATHAN]] • [[topic THEFT AND THIEVES|THEFT AND THIEVES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.18.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.18.26|<< Judges 18:26]]</td><td align="center" style="border:none;">[[Judg.18|Judges 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.18.28|Judges 18:28 >>]]</td></tr></table>
 

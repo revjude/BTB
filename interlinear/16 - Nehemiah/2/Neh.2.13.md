@@ -1,8 +1,73 @@
+---
+title: Nehemiah 2:13
+type: Verse
+kjv: "And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire."
+bsb: "So I went out at night through the Valley Gate toward the Well of the Serpent and the Dung Gate, and I inspected the walls of Jerusalem that had been broken down and the gates that had been destroyed by fire."
+hebrew: "וָאֵצְאָ֨ה בְשַֽׁעַר־ הַגַּ֜יא לַ֗יְלָה וְאֶל־ פְּנֵי֙ עֵ֣ין הַתַּנִּ֔ין וְאֶל־ שַׁ֖עַר הָאַשְׁפֹּ֑ת וָאֱהִ֨י שֹׂבֵ֜ר בְּחוֹמֹ֤ת יְרוּשָׁלִַ֙ם֙ אֲשֶׁר־ הֵ֣ם׀ פְּרוּצִ֔ים וּשְׁעָרֶ֖יהָ אֻכְּל֥וּ בָאֵֽשׁ׃"
+pericope: "[[Neh.2.11 Nehemiah Inspects the Walls|Nehemiah Inspects the Walls]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 2
+book/chapter: "[[Neh.2|Nehemiah 2]]"
+chronological_order: 914
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic GIHON|GIHON]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9012]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1516M]]"
+- "[[H3915]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H6440G]]"
+- "[[H5869G]]"
+- "[[H8577B]]"
+- "[[H0830G]]"
+- "[[H1961]]"
+- "[[H7663A]]"
+- "[[H2346G]]"
+- "[[H3389]]"
+- "[[H0834A]]"
+- "[[H6555]]"
+- "[[H1992]]"
+- "[[H9015]]"
+- "[[H9024]]"
+- "[[H0398]]"
+- "[[H0784]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Nehemiah 2:13**<big><big>[[Neh.2.11 Nehemiah Inspects the Walls|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire.
 <small><sub>**BSB:**</sub></small>
 So I went out at night through the Valley Gate toward the Well of the Serpent and the Dung Gate, and I inspected the walls of Jerusalem that had been broken down and the gates that had been destroyed by fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H3318G\|אֵצְאָ֨]][[H9012\|ה]] [[H9003\|בְ]][[H8179G\|שַֽׁעַר]][[H9014\|־]] [[H9009\|הַ]][[H1516M\|גַּ֜יא]] [[H3915\|לַ֗יְלָה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H6440G\|פְּנֵי֙]] [[H5869G\|עֵ֣ין]] [[H8577B\|הַתַּנִּ֔ין]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H8179G\|שַׁ֖עַר]] [[H9009\|הָ]][[H0830G\|אַשְׁפֹּ֑ת]] [[H9001\|וָ]][[H1961\|אֱהִ֨י]] [[H7663A\|שֹׂבֵ֜ר]] [[H9003\|בְּ]][[H2346G\|חוֹמֹ֤ת]] [[H3389\|יְרוּשָׁלִַ֙ם֙]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1992\|הֵ֣ם]][[H9015\|׀]] [[H6555\|פְּרוּצִ֔ים]] [[H9002\|וּ]][[H8179G\|שְׁעָרֶ֖י]][[H9024\|הָ]] [[H0398\|אֻכְּל֥וּ]] [[H9003\|בָ]][[H0784\|אֵֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic GIHON|GIHON]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic PRUDENCE|PRUDENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.2.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.12|<< Nehemiah 2:12]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.14|Nehemiah 2:14 >>]]</td></tr></table>
 
@@ -24,17 +89,17 @@ So I went out at night through the Valley Gate toward the Well of the Serpent an
 | \<on> [the] walls of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H2346G\|חוֹמֹ֤ת]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> cho.Mot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Jerusalem  |**<big>&#8207;[[H3389\|יְרוּשָׁלִַ֙ם֙]]&#8207; </big>**| ye.ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁר]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'a.Sher-<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| they  [were] broken down  [^5][^6]|**<big>&#8207;[[H1992\|הֵ֣ם]]&#8207;&#8207;[[H9015\|׀]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H6555\|פְּרוּצִ֔ים]]&#8207; </big>**[^7] | hem<small><sup>[[HPp3mp]]</sup></small>   fe.ru.tzim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
+| they  [were] broken down  [^5][^6]|**<big>&#8207;[[H1992\|הֵ֣ם]]&#8207;&#8207;[[H9015\|׀]]&#8207;&#8207;[[H6555\|פְּרוּצִ֔ים]]&#8207; </big>**[^7] | hem<small><sup>[[HPp3mp]]</sup></small>   fe.ru.tzim<small><sup>[[HVqsmpa]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 | and gates its  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H8179G\|שְׁעָרֶ֖י]]&#8207;&#8207;[[H9024\|הָ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> she.'a.Rei.<small><sup>[[HNcmpc]]</sup></small> ha<small><sup>[[HSp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they had been consumed  |**<big>&#8207;[[H0398\|אֻכְּל֥וּ]]&#8207; </big>**| 'u.ke.Lu<small><sup>[[HVPp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | by \<the> fire  |**<big>&#8207;[[H9003\|בָ]]&#8207;&#8207;[[H0784\|אֵֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| va.<small><sup>[[HRd]]</sup></small> 'Esh<small><sup>[[HNcbsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.2.12|<< Nehemiah 2:12]]</td><td align="center" style="border:none;">[[Neh.2|Nehemiah 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.2.14|Nehemiah 2:14 >>]]</td></tr></table>
 
-[^1]: \<the> [had been] broken down  | **<big>[[H6555|מפְּרוּצִ֔ים]]</big><big>[[H9009|הֵ֣]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> | B
-[^2]: \<the> [had been] broken down  | **<big>[[H6555|מְפֹרוָצִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> | K
-[^3]: \<the> [had been] broken down  | **<big>[[H6555|מפְּרוּצִ֔ים]]</big><big>[[H9009|הֵ֣]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> | B
-[^4]: \<the> [had been] broken down  | **<big>[[H6555|מְפֹרוָצִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> | K
-[^5]: \<the> [had been] broken down  | **<big>[[H6555|מפְּרוּצִ֔ים]]</big><big>[[H9009|הֵ֣]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> | B
-[^6]: \<the> [had been] broken down  | **<big>[[H6555|מְפֹרוָצִים]]</big><big>[[H9009|הַ]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> | K
+[^1]: \<the> [had been] broken down  | **<big>[[H9009|הֵ֣]]</big><big>[[H6555|מפְּרוּצִ֔ים]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> | B
+[^2]: \<the> [had been] broken down  | **<big>[[H9009|הַ]]</big><big>[[H6555|מְפֹרוָצִים]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> | K
+[^3]: \<the> [had been] broken down  | **<big>[[H9009|הֵ֣]]</big><big>[[H6555|מפְּרוּצִ֔ים]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> | B
+[^4]: \<the> [had been] broken down  | **<big>[[H9009|הַ]]</big><big>[[H6555|מְפֹרוָצִים]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> | K
+[^5]: \<the> [had been] broken down  | **<big>[[H9009|הֵ֣]]</big><big>[[H6555|מפְּרוּצִ֔ים]]</big> ** | he<small><sup>[[HTd]]</sup></small> m.fe.ru.tzim<small><sup>[[HPp3mp]]</sup></small> | B
+[^6]: \<the> [had been] broken down  | **<big>[[H9009|הַ]]</big><big>[[H6555|מְפֹרוָצִים]]</big> ** | ha<small><sup>[[HTd]]</sup></small> me.for.va.tzim<small><sup>[[HPp3mp]]</sup></small> | K
 [^7]: L spelled: **<span class="ashebrew"><big>הֵ֣מ\׀/פְּרוּצִ֔ים</big></span>**
 

@@ -1,8 +1,50 @@
+---
+title: Proverbs 20:25
+type: Verse
+kjv: "It is a snare to the man who devoureth that which is holy, and after vows to make inquiry."
+bsb: "It is a trap for a man to dedicate something rashly, only later to reconsider his vows."
+hebrew: "מוֹקֵ֣שׁ אָ֭דָם יָ֣לַע קֹ֑דֶשׁ וְאַחַ֖ר נְדָרִ֣ים לְבַקֵּֽר׃"
+pericope: "[[Prov.20.1 Wine Is a Mocker|Wine Is a Mocker]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 20
+book/chapter: "[[Prov.20|Proverbs 20]]"
+chronological_order: 475
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H4170]]"
+- "[[H0120G]]"
+- "[[H3216]]"
+- "[[H6944G]]"
+- "[[H9002]]"
+- "[[H0310A]]"
+- "[[H5088]]"
+- "[[H9005]]"
+- "[[H1239]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 20:25**<big><big>[[Prov.20.1 Wine Is a Mocker|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] a snare to the man [who] devoureth [that which is] holy, and after vows to make inquiry.
 <small><sub>**BSB:**</sub></small>
 It is a trap for a man to dedicate something rashly, only later to reconsider his vows.
+<small><sub>**Hebrew:**</sub></small>
+[[H4170\|מוֹקֵ֣שׁ]] [[H0120G\|אָ֭דָם]] [[H3216\|יָ֣לַע]] [[H6944G\|קֹ֑דֶשׁ]] [[H9002\|וְ]][[H0310A\|אַחַ֖ר]] [[H5088\|נְדָרִ֣ים]] [[H9005\|לְ]][[H1239\|בַקֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.20.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.20.24|<< Proverbs 20:24]]</td><td align="center" style="border:none;">[[Prov.20|Proverbs 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.20.26|Proverbs 20:26 >>]]</td></tr></table>
 

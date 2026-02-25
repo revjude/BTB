@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Daniel Removed to Babylon
+type: Pericope
 pericope: "[[Dan.1.1 Daniel Removed to Babylon|Daniel Removed to Babylon]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Daniel
 chapter: 1
 book/chapter: "[[Dan.1|Daniel 1]]"
-genre:
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
 - narrative
 - court tale
 - apocalyptic
 - visionary
 - diaspora narrative
+verse_count: 7
 verses:
 - "[[Dan.1.1]]"
 - "[[Dan.1.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Dan.1.7]]"
 ---
 
-[[Dan.1|Daniel 1:1 - Daniel 1:7]]
+<small>[[Dan.1|Daniel 1:1-7]]</small>
 *Daniel Removed to Babylon*
 
 [[Dan.1.1|1]] In the third year of the reign of Jehoiakim king of Judah came Nebuchadnezzar king of Babylon unto Jerusalem, and besieged it.

@@ -1,10 +1,55 @@
+---
+title: John 12:23
+type: Verse
+kjv: "And Jesus answered them, saying, The hour is come, that the Son of man should be glorified."
+bsb: "But Jesus replied, “The hour has come for the Son of Man to be glorified."
+jesus_said: "The hour is come, that the Son of man should be glorified."
+greek: "ὁ δὲ Ἰησοῦς ἀποκρίνεται αὐτοῖς λέγων· ἐλήλυθεν ἡ ὥρα ἵνα δοξασθῇ ὁ υἱὸς τοῦ ἀνθρώπου."
+pericope: "[[John.12.20 Jesus Predicts His Death|Jesus Predicts His Death]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 12
+book/chapter: "[[John.12|John 12]]"
+chronological_order: 990
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GREECE|GREECE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G2064]]"
+- "[[G5610]]"
+- "[[G2443]]"
+- "[[G1392]]"
+- "[[G5207]]"
+- "[[G0444]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **John 12:23**<big><big>[[John.12.20 Jesus Predicts His Death|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jesus answered them, saying, The hour is come, that the Son of man should be glorified.
 <small><sub>**BSB:**</sub></small>
 But Jesus replied, “The hour has come for the Son of Man to be glorified.
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus answered to them saying; Has come the hour that may be glorified the Son <the> of Man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.22|<< John 12:22]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.24|John 12:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G0611\|ἀποκρίνεται]]  [[G0846\|αὐτοῖς]]  [[G3004G\|λέγων·]]  [[G2064\|ἐλήλυθεν]]  [[G3588\|ἡ]]  [[G5610\|ὥρα]]  [[G2443\|ἵνα]]  [[G1392\|δοξασθῇ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GREECE|GREECE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.12.22|<< John 12:22]]</td><td align="center" style="border:none;">[[John.12|John 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.12.24|John 12:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

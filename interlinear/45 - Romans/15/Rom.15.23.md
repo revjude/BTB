@@ -1,10 +1,56 @@
+---
+title: Romans 15:23
+type: Verse
+kjv: "But now having no more place in these parts, and having a great desire these many years to come unto you;"
+bsb: "But now that there are no further opportunities for me in these regions, and since I have longed for many years to visit you,"
+greek: "νυνὶ δὲ μηκέτι τόπον ἔχων ἐν τοῖς κλίμασιν τούτοις ἐπιποθίαν δὲ ἔχων τοῦ ἐλθεῖν πρὸς ὑμᾶς ἀπὸ πολλῶν ἐτῶν,"
+pericope: "[[Rom.15.23 Paul’s Travel Plans|Paul’s Travel Plans]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 15
+book/chapter: "[[Rom.15|Romans 15]]"
+chronological_order: 1101
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3570]]"
+- "[[G1161]]"
+- "[[G3371]]"
+- "[[G5117]]"
+- "[[G2192]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2824]]"
+- "[[G3778]]"
+- "[[G1974]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G4771]]"
+- "[[G0575]]"
+- "[[G4183]]"
+- "[[G2094]]"
+texts:
+- NKO
+- NK(O)
+---
+
 **Romans 15:23**<big><big>[[Rom.15.23 Paul’s Travel Plans|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But now having no more place in these parts, and having a great desire these many years to come unto you;
 <small><sub>**BSB:**</sub></small>
 But now that there are no further opportunities for me in these regions, and since I have longed for many years to visit you,
-<small><sub>**Literal:**</sub></small>
-Now however no longer a place having in <the> regions these a great desire now having had <the> to come to you for many years,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.22|<< Romans 15:22]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.24|Romans 15:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3570\|νυνὶ]]  [[G1161\|δὲ]]  [[G3371\|μηκέτι]]  [[G5117\|τόπον]]  [[G2192\|ἔχων]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G2824\|κλίμασιν]]  [[G3778\|τούτοις]]  [[G1974\|ἐπιποθίαν]]  [[G1161\|δὲ]]  [[G2192\|ἔχων]]  [[G3588\|τοῦ]]  [[G2064\|ἐλθεῖν]]  [[G4314\|πρὸς]]  [[G4771\|ὑμᾶς]]  [[G0575\|ἀπὸ]]  [[G4183\|πολλῶν]]  [[G2094\|ἐτῶν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.15.22|<< Romans 15:22]]</td><td align="center" style="border:none;">[[Rom.15|Romans 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.15.24|Romans 15:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

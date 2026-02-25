@@ -1,8 +1,68 @@
+---
+title: 2 Chronicles 31:12
+type: Verse
+kjv: "And brought in the offerings and the tithes and the dedicated things faithfully: over which Cononiah the Levite was ruler, and Shimei his brother was the next."
+bsb: "And they faithfully brought in the contributions, tithes, and dedicated gifts. Conaniah the Levite was the officer in charge of them, and his brother Shimei was second."
+hebrew: "וַיָּבִ֨יאוּ אֶת־ הַתְּרוּמָ֧ה וְהַֽמַּעֲשֵׂ֛ר וְהַקֳּדָשִׁ֖ים בֶּאֱמוּנָ֑ה וַעֲלֵיהֶ֤ם נָגִיד֙ כָּֽנַנְיָ֣הוּ הַלֵּוִ֔י וְשִׁמְעִ֥י אָחִ֖יהוּ מִשְׁנֶֽה׃"
+pericope: "[[2Chr.31.11 Hezekiah Organizes the Priests|Hezekiah Organizes the Priests]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 31
+book/chapter: "[[2Chr.31|2 Chronicles 31]]"
+chronological_order: 661
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CONONIAH|CONONIAH]]"
+- "[[topic HEZEKIAH|HEZEKIAH]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SHIMEI|SHIMEI]]"
+- "[[topic TITHES|TITHES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H8641]]"
+- "[[H9002]]"
+- "[[H4643]]"
+- "[[H6944G]]"
+- "[[H9003]]"
+- "[[H0530]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H5057]]"
+- "[[H3562]]"
+- "[[H3881]]"
+- "[[H8096Q]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H4932H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **2 Chronicles 31:12**<big><big>[[2Chr.31.11 Hezekiah Organizes the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And brought in the offerings and the tithes and the dedicated [things] faithfully: over which Cononiah the Levite [was] ruler, and Shimei his brother [was] the next.
 <small><sub>**BSB:**</sub></small>
 And they faithfully brought in the contributions, tithes, and dedicated gifts. Conaniah the Levite was the officer in charge of them, and his brother Shimei was second.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935P\|יָּבִ֨יאוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H8641\|תְּרוּמָ֧ה]] [[H9002\|וְ]][[H9009\|הַֽ]][[H4643\|מַּעֲשֵׂ֛ר]] [[H9002\|וְ]][[H9009\|הַ]][[H6944G\|קֳּדָשִׁ֖ים]] [[H9003\|בֶּ]][[H0530\|אֱמוּנָ֑ה]] [[H9002\|וַ]][[H5921A\|עֲלֵי]][[H9038\|הֶ֤ם]] [[H5057\|נָגִיד֙]] [[H3562\|כָּֽנַנְיָ֣הוּ]] [[H9009\|הַ]][[H3881\|לֵּוִ֔י]] [[H9002\|וְ]][[H8096Q\|שִׁמְעִ֥י]] [[H0251G\|אָחִ֖י]][[H9023\|הוּ]] [[H4932H\|מִשְׁנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CONONIAH|CONONIAH]] • [[topic HEZEKIAH|HEZEKIAH]] • [[topic LEVITES|LEVITES]] • [[topic PRIEST|PRIEST]] • [[topic SHIMEI|SHIMEI]] • [[topic TITHES|TITHES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.31.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.31.11|<< 2 Chronicles 31:11]]</td><td align="center" style="border:none;">[[2Chr.31|2 Chronicles 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.31.13|2 Chronicles 31:13 >>]]</td></tr></table>
 

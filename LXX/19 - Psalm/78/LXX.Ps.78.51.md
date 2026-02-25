@@ -1,6 +1,56 @@
+---
+title: LXX Psalm 78:51
+type: Verse
+lxx: "And he struck every first-born in the land of Egypt; first-fruit of all their toil in the tents of Ham."
+greek: "και επάταξε παν πρωτότοκον εν γη Αιγύπτω απαρχήν πάντος πόνου αυτών εν τοις σκηνώμασι Χαμ"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HAM|HAM]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G3960]]"
+- "[[G3956]]"
+- "[[G4416]]"
+- "[[G1722]]"
+- "[[G1093]]"
+- "[[G0125]]"
+- "[[G0536]]"
+- "[[G3956]]"
+- "[[G4192]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4638]]"
+- "[[H2526]]"
+---
+
 **LXX Psalm 78:51** 
 <small><sub>**LXX:**</sub></small>
 And he struck every first-born in \[the\] land of Egypt; first-fruit of all their toil in the tents of Ham. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G3960\|επάταξε]] [[G3956\|παν]] [[G4416\|πρωτότοκον]] [[G1722\|εν]] [[G1093\|γη]] [[G0125\|Αιγύπτω]] [[G0536\|απαρχήν]] [[G3956\|πάντος]] [[G4192\|πόνου]] [[G1473\|αυτών]] [[G1722\|εν]] [[G3588\|τοις]] [[G4638\|σκηνώμασι]] [[H2526\|Χαμ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic HAM|HAM]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.78.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.50|<< Psalm 78:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.52|Psalm 78:52 >>]]</td></tr></table>
 
@@ -20,6 +70,6 @@ And he struck every first-born in \[the\] land of Egypt; first-fruit of all thei
 | the | **<big>[[G3588\|τοις]]</big>** |
 | tents | **<big>[[G4638\|σκηνώμασι]]</big>** |
 | of Ham. | **<big>[[H2526\|Χαμ]]</big>** |
-[[Ps.78.51|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.50|<< Psalm 78:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.52|Psalm 78:52 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.78.50|<< Psalm 78:50]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.78.52|Psalm 78:52 >>]]</td></tr></table>
 
 

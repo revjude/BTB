@@ -1,8 +1,76 @@
+---
+title: Haggai 1:14
+type: Verse
+kjv: "And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the LORD of hosts, their God,"
+bsb: "So the LORD stirred the spirit of Zerubbabel son of Shealtiel, governor of Judah, and the spirit of Joshua son of Jehozadak, the high priest, as well as the spirit of all the remnant of the people. And they came and began the work on the house of the LORD of Hosts, their God,"
+hebrew: "וַיָּ֣עַר יְהוָ֡ה אֶת־ רוּחַ֩ זְרֻבָּבֶ֨ל בֶּן־ שַׁלְתִּיאֵ֜ל פַּחַ֣ת יְהוּדָ֗ה וְאֶת־ ר֙וּחַ֙ יְהוֹשֻׁ֤עַ בֶּן־ יְהוֹצָדָק֙ הַכֹּהֵ֣ן הַגָּד֔וֹל וְֽאֶת־ ר֔וּחַ כֹּ֖ל שְׁאֵרִ֣ית הָעָ֑ם וַיָּבֹ֙אוּ֙ וַיַּעֲשׂ֣וּ מְלָאכָ֔ה בְּבֵית־ יְהוָ֥ה צְבָא֖וֹת אֱלֹהֵיהֶֽם׃ פ"
+pericope: "[[Hag.1.12 The People Obey|The People Obey]]"
+original_language: Hebrew
+testament: Old
+book: Haggai
+chapter: 1
+book/chapter: "[[Hag.1|Haggai 1]]"
+chronological_order: 855
+era: Return
+period: "Return from Exile: Haggai and the Temple Rebuilding"
+date: ~520 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- post exilic
+topics:
+- "[[topic ELUL|ELUL]]"
+- "[[topic JEHOZADAK|JEHOZADAK]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic SHEALTIEL|SHEALTIEL]]"
+- "[[topic ZERUBBABEL|ZERUBBABEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H5782]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7307G]]"
+- "[[H2216]]"
+- "[[H1121A]]"
+- "[[H7597B]]"
+- "[[H6346]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3091J]]"
+- "[[H3087]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H1419A]]"
+- "[[H3605]]"
+- "[[H7611]]"
+- "[[H5971A]]"
+- "[[H0935G]]"
+- "[[H6213J]]"
+- "[[H4399]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Haggai 1:14**<big><big>[[Hag.1.12 The People Obey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the LORD stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Josedech, the high priest, and the spirit of all the remnant of the people; and they came and did work in the house of the LORD of hosts, their God,
 <small><sub>**BSB:**</sub></small>
 So the LORD stirred the spirit of Zerubbabel son of Shealtiel, governor of Judah, and the spirit of Joshua son of Jehozadak, the high priest, as well as the spirit of all the remnant of the people. And they came and began the work on the house of the LORD of Hosts, their God,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5782\|יָּ֣עַר]] [[H3068G\|יְהוָ֡ה]] [[H0853\|אֶת]][[H9014\|־]] [[H7307G\|רוּחַ֩]] [[H2216\|זְרֻבָּבֶ֨ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7597B\|שַׁלְתִּיאֵ֜ל]] [[H6346\|פַּחַ֣ת]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֙וּחַ֙]] [[H3091J\|יְהוֹשֻׁ֤עַ]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3087\|יְהוֹצָדָק֙]] [[H9009\|הַ]][[H3548\|כֹּהֵ֣ן]] [[H9009\|הַ]][[H1419A\|גָּד֔וֹל]] [[H9002\|וְֽ]][[H0853\|אֶת]][[H9014\|־]] [[H7307G\|ר֔וּחַ]] [[H3605\|כֹּ֖ל]] [[H7611\|שְׁאֵרִ֣ית]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9001\|וַ]][[H0935G\|יָּבֹ֙אוּ֙]] [[H9001\|וַ]][[H6213J\|יַּעֲשׂ֣וּ]] [[H4399\|מְלָאכָ֔ה]] [[H9003\|בְּ]][[H1004Q\|בֵית]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELUL|ELUL]] • [[topic JEHOZADAK|JEHOZADAK]] • [[topic JOSHUA|JOSHUA]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MONTH|MONTH]] • [[topic SHEALTIEL|SHEALTIEL]] • [[topic ZERUBBABEL|ZERUBBABEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hag.1.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.13|<< Haggai 1:13]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.15|Haggai 1:15 >>]]</td></tr></table>
 
@@ -35,7 +103,7 @@ So the LORD stirred the spirit of Zerubbabel son of Shealtiel, governor of Judah
 | in [the] house of  |**<big>&#8207;[[H9003\|בְּ]]&#8207;&#8207;[[H1004Q\|בֵית]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| be.<small><sup>[[HR]]</sup></small> veit-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | Yahweh  |**<big>&#8207;[[H3068G\|יְהוָ֥ה]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of hosts  |**<big>&#8207;[[H6635B\|צְבָא֖וֹת]]&#8207; </big>**| tze.va.'ot<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| God their  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| God their  |**<big>&#8207;[[H0430G\|אֱלֹהֵי]]&#8207;&#8207;[[H9028\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'e.lo.hei.<small><sup>[[HNcmpc]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hag.1.13|<< Haggai 1:13]]</td><td align="center" style="border:none;">[[Hag.1|Haggai 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hag.1.15|Haggai 1:15 >>]]</td></tr></table>
 
 

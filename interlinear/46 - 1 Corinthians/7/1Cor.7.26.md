@@ -1,10 +1,56 @@
+---
+title: 1 Corinthians 7:26
+type: Verse
+kjv: "I suppose therefore that this is good for the present distress, I say, that it is good for a man so to be."
+bsb: "Because of the present crisis, I think it is good for a man to remain as he is."
+greek: "νομίζω οὖν τοῦτο καλὸν ὑπάρχειν διὰ τὴν ἐνεστῶσαν ἀνάγκην, ὅτι καλὸν ἀνθρώπῳ τὸ οὕτως εἶναι."
+pericope: "[[1Cor.7.25 The Unmarried and Widowed|The Unmarried and Widowed]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+strongs:
+- "[[G3543]]"
+- "[[G3767]]"
+- "[[G3778]]"
+- "[[G2570G]]"
+- "[[G5225]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G1764]]"
+- "[[G0318]]"
+- "[[G3754G]]"
+- "[[G0444]]"
+- "[[G3779]]"
+- "[[G1511]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 7:26**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I suppose therefore that this is good for the present distress, [I say], that [it is] good for a man so to be.
 <small><sub>**BSB:**</sub></small>
 Because of the present crisis, I think it is good for a man to remain as he is.
-<small><sub>**Literal:**</sub></small>
-I think therefore this good being because of the being present necessity, that [it is] good for a man <the> in the same manner to remain.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.25|<< 1 Corinthians 7:25]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.27|1 Corinthians 7:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3543\|νομίζω]]  [[G3767\|οὖν]]  [[G3778\|τοῦτο]]  [[G2570G\|καλὸν]]  [[G5225\|ὑπάρχειν]]  [[G1223\|διὰ]]  [[G3588\|τὴν]]  [[G1764\|ἐνεστῶσαν]]  [[G0318\|ἀνάγκην,]]  [[G3754G\|ὅτι]]  [[G2570G\|καλὸν]]  [[G0444\|ἀνθρώπῳ]]  [[G3588\|τὸ]]  [[G3779\|οὕτως]]  [[G1511\|εἶναι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.25|<< 1 Corinthians 7:25]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.27|1 Corinthians 7:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

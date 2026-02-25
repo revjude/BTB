@@ -1,8 +1,61 @@
+---
+title: Jeremiah 20:7
+type: Verse
+kjv: "O LORD, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me."
+bsb: "You have deceived me, O LORD, and I was deceived. You have overcome me and prevailed. I am a laughingstock all day long; everyone mocks me."
+hebrew: "פִּתִּיתַ֤נִי יְהוָה֙ וָֽאֶפָּ֔ת חֲזַקְתַּ֖נִי וַתּוּכָ֑ל הָיִ֤יתִי לִשְׂחוֹק֙ כָּל־ הַיּ֔וֹם כֻּלֹּ֖ה לֹעֵ֥ג לִֽי׃"
+pericope: "[[Jer.20.7 Jeremiah’s Complaint|Jeremiah’s Complaint]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 20
+book/chapter: "[[Jer.20|Jeremiah 20]]"
+chronological_order: 737
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H6601B]]"
+- "[[H9030]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H2388G]]"
+- "[[H3201]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H7814]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H9023]]"
+- "[[H3932]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 20:7**<big><big>[[Jer.20.7 Jeremiah’s Complaint|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O LORD, thou hast deceived me, and I was deceived: thou art stronger than I, and hast prevailed: I am in derision daily, every one mocketh me.
 <small><sub>**BSB:**</sub></small>
 You have deceived me, O LORD, and I was deceived. You have overcome me and prevailed. I am a laughingstock all day long; everyone mocks me.
+<small><sub>**Hebrew:**</sub></small>
+[[H6601B\|פִּתִּיתַ֤]][[H9030\|נִי]] [[H3068G\|יְהוָה֙]] [[H9001\|וָֽ]][[H6601B\|אֶפָּ֔ת]] [[H2388G\|חֲזַקְתַּ֖]][[H9030\|נִי]] [[H9001\|וַ]][[H3201\|תּוּכָ֑ל]] [[H1961\|הָיִ֤יתִי]] [[H9005\|לִ]][[H7814\|שְׂחוֹק֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֔וֹם]] [[H3605\|כֻּלֹּ֖]][[H9023\|ה]] [[H3932\|לֹעֵ֥ג]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BLASPHEMY|BLASPHEMY]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.20.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.20.6|<< Jeremiah 20:6]]</td><td align="center" style="border:none;">[[Jer.20|Jeremiah 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.20.8|Jeremiah 20:8 >>]]</td></tr></table>
 

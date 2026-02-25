@@ -1,10 +1,62 @@
+---
+title: 1 Corinthians 1:24
+type: Verse
+kjv: "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."
+bsb: "but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God."
+greek: "αὐτοῖς δὲ τοῖς κλητοῖς, Ἰουδαίοις τε καὶ Ἕλλησιν, Χριστὸν θεοῦ δύναμιν καὶ θεοῦ σοφίαν."
+pericope: "[[1Cor.1.18 The Message of the Cross|The Message of the Cross]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic BOASTING|BOASTING]]"
+- "[[topic CALL|CALL]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic REASONING|REASONING]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[G0846]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2822]]"
+- "[[G2453]]"
+- "[[G5037]]"
+- "[[G2532]]"
+- "[[G1672]]"
+- "[[G5547]]"
+- "[[G2316]]"
+- "[[G1411]]"
+- "[[G4678]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:24**<big><big>[[1Cor.1.18 The Message of the Cross|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God.
 <small><sub>**BSB:**</sub></small>
 but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God.
-<small><sub>**Literal:**</sub></small>
-to them however to those called, Jews both and to Greeks, Christ of God [the] power and of God [the] wisdom.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.23|<< 1 Corinthians 1:23]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.25|1 Corinthians 1:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0846\|αὐτοῖς]]  [[G1161\|δὲ]]  [[G3588\|τοῖς]]  [[G2822\|κλητοῖς,]]  [[G2453\|Ἰουδαίοις]]  [[G5037\|τε]]  [[G2532\|καὶ]]  [[G1672\|Ἕλλησιν,]]  [[G5547\|Χριστὸν]]  [[G2316\|θεοῦ]]  [[G1411\|δύναμιν]]  [[G2532\|καὶ]]  [[G2316\|θεοῦ]]  [[G4678\|σοφίαν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ATONEMENT|ATONEMENT]] • [[topic BOASTING|BOASTING]] • [[topic CALL|CALL]] • [[topic GOD|GOD]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic REASONING|REASONING]] • [[topic REGENERATION|REGENERATION]] • [[topic SALVATION|SALVATION]] • [[topic SUFFERING|SUFFERING]] • [[topic WISDOM|WISDOM]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.23|<< 1 Corinthians 1:23]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.25|1 Corinthians 1:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

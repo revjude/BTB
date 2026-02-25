@@ -1,10 +1,48 @@
+---
+title: Mark 7:16
+type: Verse
+kjv: "If any man have ears to hear, let him hear."
+bsb: ""
+jesus_said: "If any man have ears to hear, let him hear."
+greek: "Εἴ τις ἔχει ὦτα ἀκούειν ἀκουέτω."
+pericope: "[[Mark.7.14 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1487G]]"
+- "[[G5100]]"
+- "[[G2192]]"
+- "[[G3775]]"
+- "[[G0191]]"
+texts:
+- KO
+---
+
 **Mark 7:16**<big><big>[[Mark.7.14 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 If any man have ears to hear, let him hear.
 <small><sub>**BSB:**</sub></small>
 
-<small><sub>**Literal:**</sub></small>
-if anyone has ears to hear he should hear.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.15|<< Mark 7:15]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.17|Mark 7:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|Εἴ]]  [[G5100\|τις]]  [[G2192\|ἔχει]]  [[G3775\|ὦτα]]  [[G0191\|ἀκούειν]]  [[G0191\|ἀκουέτω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.15|<< Mark 7:15]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.17|Mark 7:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

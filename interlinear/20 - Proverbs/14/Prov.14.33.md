@@ -1,8 +1,51 @@
+---
+title: Proverbs 14:33
+type: Verse
+kjv: "Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known."
+bsb: "Wisdom rests in the heart of the discerning; even among fools she is known."
+hebrew: "בְּלֵ֣ב נָ֭בוֹן תָּנ֣וּחַ חָכְמָ֑ה וּבְקֶ֥רֶב כְּ֝סִילִ֗ים תִּוָּדֵֽעַ׃"
+pericope: "[[Prov.14.1 The Wise Woman|The Wise Woman]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 14
+book/chapter: "[[Prov.14|Proverbs 14]]"
+chronological_order: 469
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HEART|HEART]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H0995]]"
+- "[[H5117]]"
+- "[[H2451]]"
+- "[[H9002]]"
+- "[[H7130G]]"
+- "[[H3684]]"
+- "[[H3045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 14:33**<big><big>[[Prov.14.1 The Wise Woman|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wisdom resteth in the heart of him that hath understanding: but [that which is] in the midst of fools is made known.
 <small><sub>**BSB:**</sub></small>
 Wisdom rests in the heart of the discerning; even among fools she is known.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H3820A\|לֵ֣ב]] [[H0995\|נָ֭בוֹן]] [[H5117\|תָּנ֣וּחַ]] [[H2451\|חָכְמָ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H7130G\|קֶ֥רֶב]] [[H3684\|כְּ֝סִילִ֗ים]] [[H3045\|תִּוָּדֵֽעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HEART|HEART]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.14.33|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.14.32|<< Proverbs 14:32]]</td><td align="center" style="border:none;">[[Prov.14|Proverbs 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.14.34|Proverbs 14:34 >>]]</td></tr></table>
 

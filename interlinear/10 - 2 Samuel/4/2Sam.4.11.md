@@ -1,8 +1,76 @@
+---
+title: 2 Samuel 4:11
+type: Verse
+kjv: "How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of your hand, and take you away from the earth?"
+bsb: "How much more, when wicked men kill a righteous man in his own house and on his own bed, shall I not now require his blood from your hands and remove you from the earth!”"
+hebrew: "אַ֞ף כִּֽי־ אֲנָשִׁ֣ים רְשָׁעִ֗ים הָרְג֧וּ אֶת־ אִישׁ־ צַדִּ֛יק בְּבֵית֖וֹ עַל־ מִשְׁכָּב֑וֹ וְעַתָּ֗ה הֲל֨וֹא אֲבַקֵּ֤שׁ אֶת־ דָּמוֹ֙ מִיֶּדְכֶ֔ם וּבִעַרְתִּ֥י אֶתְכֶ֖ם מִן־ הָאָֽרֶץ׃"
+pericope: "[[2Sam.4.9 The Execution of Rechab and Baanah|The Execution of Rechab and Baanah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 4
+book/chapter: "[[2Sam.4|2 Samuel 4]]"
+chronological_order: 332
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ASSASSINATION|ASSASSINATION]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic ISH-BOSHETH|ISH-BOSHETH]]"
+- "[[topic RECHAB|RECHAB]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H0637]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0582]]"
+- "[[H7563]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H0376G]]"
+- "[[H6662]]"
+- "[[H9003]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H4904]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H1245]]"
+- "[[H1818]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9026]]"
+- "[[H9001]]"
+- "[[H1197H]]"
+- "[[H9036]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 4:11**<big><big>[[2Sam.4.9 The Execution of Rechab and Baanah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of your hand, and take you away from the earth?
 <small><sub>**BSB:**</sub></small>
 How much more, when wicked men kill a righteous man in his own house and on his own bed, shall I not now require his blood from your hands and remove you from the earth!”
+<small><sub>**Hebrew:**</sub></small>
+[[H0637\|אַ֞ף]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0582\|אֲנָשִׁ֣ים]] [[H7563\|רְשָׁעִ֗ים]] [[H2026\|הָרְג֧וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0376G\|אִישׁ]][[H9014\|־]] [[H6662\|צַדִּ֛יק]] [[H9003\|בְּ]][[H1004B\|בֵית֖]][[H9023\|וֹ]] [[H5921A\|עַל]][[H9014\|־]] [[H4904\|מִשְׁכָּב֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H9008\|הֲ]][[H3808\|ל֨וֹא]] [[H1245\|אֲבַקֵּ֤שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמ]][[H9023\|וֹ֙]] [[H9006\|מִ]][[H3027G\|יֶּדְ]][[H9026\|כֶ֔ם]] [[H9001\|וּ]][[H1197H\|בִעַרְתִּ֥י]] [[H0853\|אֶתְ]][[H9036\|כֶ֖ם]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSASSINATION|ASSASSINATION]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic HOMICIDE|HOMICIDE]] • [[topic ISH-BOSHETH|ISH-BOSHETH]] • [[topic RECHAB|RECHAB]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.4.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.4.10|<< 2 Samuel 4:10]]</td><td align="center" style="border:none;">[[2Sam.4|2 Samuel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.4.12|2 Samuel 4:12 >>]]</td></tr></table>
 

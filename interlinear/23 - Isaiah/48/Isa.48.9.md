@@ -1,8 +1,57 @@
+---
+title: Isaiah 48:9
+type: Verse
+kjv: "For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off."
+bsb: "For the sake of My name I will delay My wrath; for the sake of My praise I will restrain it, so that you will not be cut off."
+hebrew: "לְמַ֤עַן שְׁמִי֙ אַאֲרִ֣יךְ אַפִּ֔י וּתְהִלָּתִ֖י אֶחֱטָם־ לָ֑ךְ לְבִלְתִּ֖י הַכְרִיתֶֽךָ׃"
+pericope: "[[Isa.48.1 Israel’s Stubbornness|Israel’s Stubbornness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 48
+book/chapter: "[[Isa.48|Isaiah 48]]"
+chronological_order: 687
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H4616]]"
+- "[[H8034]]"
+- "[[H9020]]"
+- "[[H0748]]"
+- "[[H0639G]]"
+- "[[H9002]]"
+- "[[H8416]]"
+- "[[H2413]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H1115]]"
+- "[[H3772I]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 48:9**<big><big>[[Isa.48.1 Israel’s Stubbornness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For my name’s sake will I defer mine anger, and for my praise will I refrain for thee, that I cut thee not off.
 <small><sub>**BSB:**</sub></small>
 For the sake of My name I will delay My wrath; for the sake of My praise I will restrain it, so that you will not be cut off.
+<small><sub>**Hebrew:**</sub></small>
+[[H4616\|לְמַ֤עַן]] [[H8034\|שְׁמִ]][[H9020\|י֙]] [[H0748\|אַאֲרִ֣יךְ]] [[H0639G\|אַפִּ֔]][[H9020\|י]] [[H9002\|וּ]][[H8416\|תְהִלָּתִ֖]][[H9020\|י]] [[H2413\|אֶחֱטָם]][[H9014\|־]] [[H9005\|לָ֑]][[H9032\|ךְ]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H3772I\|הַכְרִיתֶֽ]][[H9031\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.48.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.48.8|<< Isaiah 48:8]]</td><td align="center" style="border:none;">[[Isa.48|Isaiah 48]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.48.10|Isaiah 48:10 >>]]</td></tr></table>
 

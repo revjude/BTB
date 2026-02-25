@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Three Visitors
+type: Pericope
 pericope: "[[Gen.18.1 The Three Visitors|The Three Visitors]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 18
 book/chapter: "[[Gen.18|Genesis 18]]"
-genre:
+chronological_order: 60
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 8
 verses:
 - "[[Gen.18.1]]"
 - "[[Gen.18.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Gen.18.8]]"
 ---
 
-[[Gen.18|Genesis 18:1 - Genesis 18:8]]
+<small>[[Gen.18|Genesis 18:1-8]]</small>
 *The Three Visitors*
 
 [[Gen.18.1|1]] And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;

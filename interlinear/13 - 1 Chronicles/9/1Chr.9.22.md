@@ -1,8 +1,65 @@
+---
+title: 1 Chronicles 9:22
+type: Verse
+kjv: "All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office."
+bsb: "The number of those chosen to be gatekeepers at the thresholds was 212. They were registered by genealogy in their villages. David and Samuel the seer had appointed them to their positions of trust."
+hebrew: "כֻּלָּ֤ם הַבְּרוּרִים֙ לְשֹׁעֲרִ֣ים בַּסִּפִּ֔ים מָאתַ֖יִם וּשְׁנֵ֣ים עָשָׂ֑ר הֵ֤מָּה בְחַצְרֵיהֶם֙ הִתְיַחְשָׂ֔ם הֵ֣מָּה יִסַּ֥ד דָּוִ֛יד וּשְׁמוּאֵ֥ל הָרֹאֶ֖ה בֶּאֱמוּנָתָֽם׃"
+pericope: "[[1Chr.9.1 The People of Jerusalem|The People of Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 9
+book/chapter: "[[1Chr.9|1 Chronicles 9]]"
+chronological_order: 328
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic PORTERS|PORTERS]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic SAMUEL|SAMUEL]]"
+strongs:
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H1305]]"
+- "[[H9005]]"
+- "[[H7778]]"
+- "[[H9003]]"
+- "[[H5592B]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H6240]]"
+- "[[H1992]]"
+- "[[H2691B]]"
+- "[[H3187]]"
+- "[[H9048]]"
+- "[[H3245]]"
+- "[[H1732]]"
+- "[[H8050G]]"
+- "[[H7203A]]"
+- "[[H0530]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 9:22**<big><big>[[1Chr.9.1 The People of Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these [which were] chosen to be porters in the gates [were] two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.
 <small><sub>**BSB:**</sub></small>
 The number of those chosen to be gatekeepers at the thresholds was 212. They were registered by genealogy in their villages. David and Samuel the seer had appointed them to their positions of trust.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֻּלָּ֤]][[H9028\|ם]] [[H9009\|הַ]][[H1305\|בְּרוּרִים֙]] [[H9005\|לְ]][[H7778\|שֹׁעֲרִ֣ים]] [[H9003\|בַּ]][[H5592B\|סִּפִּ֔ים]] [[H3967\|מָאתַ֖יִם]] [[H9002\|וּ]][[H8147\|שְׁנֵ֣ים]] [[H6240\|עָשָׂ֑ר]] [[H1992\|הֵ֤מָּה]] [[H9003\|בְ]][[H2691B\|חַצְרֵי]][[H9028\|הֶם֙]] [[H3187\|הִתְיַחְשָׂ֔]][[H9048\|ם]] [[H1992\|הֵ֣מָּה]] [[H3245\|יִסַּ֥ד]] [[H1732\|דָּוִ֛יד]] [[H9002\|וּ]][[H8050G\|שְׁמוּאֵ֥ל]] [[H9009\|הָ]][[H7203A\|רֹאֶ֖ה]] [[H9003\|בֶּ]][[H0530\|אֱמוּנָתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic PORTERS|PORTERS]] • [[topic PROPHETS|PROPHETS]] • [[topic SAMUEL|SAMUEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.9.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.9.21|<< 1 Chronicles 9:21]]</td><td align="center" style="border:none;">[[1Chr.9|1 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.9.23|1 Chronicles 9:23 >>]]</td></tr></table>
 

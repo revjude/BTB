@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Mercy to Israel
+type: Pericope
 pericope: "[[Hos.2.14 God’s Mercy to Israel|God’s Mercy to Israel]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 2
 book/chapter: "[[Hos.2|Hosea 2]]"
-genre:
+chronological_order: 643
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 10
 verses:
 - "[[Hos.2.14]]"
 - "[[Hos.2.15]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Hos.2.23]]"
 ---
 
-[[Hos.2|Hosea 2:14 - Hosea 2:23]]
+<small>[[Hos.2|Hosea 2:14-23]]</small>
 *God’s Mercy to Israel*
 
 [[Hos.2.14|14]] Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.

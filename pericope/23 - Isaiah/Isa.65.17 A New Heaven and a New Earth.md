@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A New Heaven and a New Earth
+type: Pericope
 pericope: "[[Isa.65.17 A New Heaven and a New Earth|A New Heaven and a New Earth]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 65
 book/chapter: "[[Isa.65|Isaiah 65]]"
-genre:
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 9
 verses:
 - "[[Isa.65.17]]"
 - "[[Isa.65.18]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Isa.65.25]]"
 ---
 
-[[Isa.65|Isaiah 65:17 - Isaiah 65:25]]
+<small>[[Isa.65|Isaiah 65:17-25]]</small>
 *A New Heaven and a New Earth*
 
 [[Isa.65.17|17]] For, behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind.

@@ -1,10 +1,65 @@
+---
+title: 2 Thessalonians 2:10
+type: Verse
+kjv: "And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved."
+bsb: "and with every wicked deception directed against those who are perishing, because they refused the love of the truth that would have saved them."
+greek: "καὶ ἐν πάσῃ ἀπάτῃ τῆς ἀδικίας ἐν τοῖς ἀπολλυμένοις, ἀνθ᾽ ὧν τὴν ἀγάπην τῆς ἀληθείας οὐκ ἐδέξαντο εἰς τὸ σωθῆναι αὐτούς·"
+pericope: "[[2Thess.2.1 The Man of Lawlessness|The Man of Lawlessness]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 2
+book/chapter: "[[2Thess.2|2 Thessalonians 2]]"
+chronological_order: 1054
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic ANTICHRIST|ANTICHRIST]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic SELF-DELUSION|SELF-DELUSION]]"
+- "[[topic TRUTH|TRUTH]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3956]]"
+- "[[G0539]]"
+- "[[G3588]]"
+- "[[G0093]]"
+- "[[G0622]]"
+- "[[G0473]]"
+- "[[G3739]]"
+- "[[G0026]]"
+- "[[G0225]]"
+- "[[G3756]]"
+- "[[G1209]]"
+- "[[G1519]]"
+- "[[G4982]]"
+- "[[G0846]]"
+texts:
+- NKO
+- k
+---
+
 **2 Thessalonians 2:10**<big><big>[[2Thess.2.1 The Man of Lawlessness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
 <small><sub>**BSB:**</sub></small>
 and with every wicked deception directed against those who are perishing, because they refused the love of the truth that would have saved them.
-<small><sub>**Literal:**</sub></small>
-and in every deceit <the> of wickedness in unto those perishing, in return for which the love of the truth not they received in order for <the> to be saved them;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.9|<< 2 Thessalonians 2:9]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.11|2 Thessalonians 2:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3956\|πάσῃ]]  [[G0539\|ἀπάτῃ]]  [[G3588\|τῆς]]  [[G0093\|ἀδικίας]]  [[G1722\|ἐν]]  [[G3588\|τοῖς]]  [[G0622\|ἀπολλυμένοις,]]  [[G0473\|ἀνθ᾽]]  [[G3739\|ὧν]]  [[G3588\|τὴν]]  [[G0026\|ἀγάπην]]  [[G3588\|τῆς]]  [[G0225\|ἀληθείας]]  [[G3756\|οὐκ]]  [[G1209\|ἐδέξαντο]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G4982\|σωθῆναι]]  [[G0846\|αὐτούς·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANTICHRIST|ANTICHRIST]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DECEIT|DECEIT]] • [[topic GOSPEL|GOSPEL]] • [[topic MIRACLES|MIRACLES]] • [[topic REPROBACY|REPROBACY]] • [[topic SELF-DELUSION|SELF-DELUSION]] • [[topic TRUTH|TRUTH]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.2.9|<< 2 Thessalonians 2:9]]</td><td align="center" style="border:none;">[[2Thess.2|2 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.2.11|2 Thessalonians 2:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Do Not Worry
+type: Pericope
 pericope: "[[Luke.12.22 Do Not Worry|Do Not Worry]]"
-verse_count: 10
+original_language: Greek
 testament: New
 book: Luke
 chapter: 12
 book/chapter: "[[Luke.12|Luke 12]]"
-genre:
+chronological_order: 974
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 10
 verses:
 - "[[Luke.12.22]]"
 - "[[Luke.12.23]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Luke.12.31]]"
 ---
 
-[[Luke.12|Luke 12:22 - Luke 12:31]]
+<small>[[Luke.12|Luke 12:22-31]]</small>
 *Do Not Worry*
 
 [[Luke.12.22|22]] And he said unto his disciples, Therefore I say unto you, Take no thought for your life, what ye shall eat; neither for the body, what ye shall put on.

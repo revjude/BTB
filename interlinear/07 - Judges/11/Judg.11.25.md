@@ -1,8 +1,64 @@
+---
+title: Judges 11:25
+type: Verse
+kjv: "And now art thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,"
+bsb: "Are you now so much better than Balak son of Zippor, king of Moab? Did he ever contend with Israel or fight against them?"
+hebrew: "וְעַתָּ֗ה הֲט֥וֹב טוֹב֙ אַתָּ֔ה מִבָּלָ֥ק בֶּן־ צִפּ֖וֹר מֶ֣לֶךְ מוֹאָ֑ב הֲר֥וֹב רָב֙ עִם־ יִשְׂרָאֵ֔ל אִם־ נִלְחֹ֥ם נִלְחַ֖ם בָּֽם׃"
+pericope: "[[Judg.11.1 Jephthah Delivers Israel|Jephthah Delivers Israel]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 11
+book/chapter: "[[Judg.11|Judges 11]]"
+chronological_order: 265
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+- "[[topic BALAK|BALAK]]"
+- "[[topic DIPLOMACY|DIPLOMACY]]"
+- "[[topic JEPHTHAH|JEPHTHAH]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9008]]"
+- "[[H2895]]"
+- "[[H0859A]]"
+- "[[H9006]]"
+- "[[H1111]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6834]]"
+- "[[H4428G]]"
+- "[[H4124G]]"
+- "[[H7378]]"
+- "[[H5973A]]"
+- "[[H3478]]"
+- "[[H0518A]]"
+- "[[H3898A]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 11:25**<big><big>[[Judg.11.1 Jephthah Delivers Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now [art] thou any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,
 <small><sub>**BSB:**</sub></small>
 Are you now so much better than Balak son of Zippor, king of Moab? Did he ever contend with Israel or fight against them?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֗ה]] [[H9008\|הֲ]][[H2895\|ט֥וֹב]] [[H2895\|טוֹב֙]] [[H0859A\|אַתָּ֔ה]] [[H9006\|מִ]][[H1111\|בָּלָ֥ק]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6834\|צִפּ֖וֹר]] [[H4428G\|מֶ֣לֶךְ]] [[H4124G\|מוֹאָ֑ב]] [[H9008\|הֲ]][[H7378\|ר֥וֹב]] [[H7378\|רָב֙]] [[H5973A\|עִם]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0518A\|אִם]][[H9014\|־]] [[H3898A\|נִלְחֹ֥ם]] [[H3898A\|נִלְחַ֖ם]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]] • [[topic BALAK|BALAK]] • [[topic DIPLOMACY|DIPLOMACY]] • [[topic JEPHTHAH|JEPHTHAH]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.11.25|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.11.24|<< Judges 11:24]]</td><td align="center" style="border:none;">[[Judg.11|Judges 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.11.26|Judges 11:26 >>]]</td></tr></table>
 

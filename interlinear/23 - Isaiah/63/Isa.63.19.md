@@ -1,8 +1,55 @@
+---
+title: Isaiah 63:19
+type: Verse
+kjv: "We are thine: thou never barest rule over them; they were not called by thy name."
+bsb: "We have become like those You never ruled, like those not called by Your name."
+hebrew: "הָיִ֗ינוּ מֵֽעוֹלָם֙ לֹֽא־ מָשַׁ֣לְתָּ בָּ֔ם לֹֽא־ נִקְרָ֥א שִׁמְךָ֖ עֲלֵיהֶ֑ם"
+pericope: "[[Isa.63.15 A Prayer for Mercy|A Prayer for Mercy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1961]]"
+- "[[H9006]]"
+- "[[H5769J]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H4910]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9021]]"
+- "[[H5921A]]"
+texts:
+- L
+---
+
 **Isaiah 63:19**<big><big>[[Isa.63.15 A Prayer for Mercy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We are [thine]: thou never barest rule over them; they were not called by thy name.
 <small><sub>**BSB:**</sub></small>
 We have become like those You never ruled, like those not called by Your name.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|הָיִ֗ינוּ]] [[H9006\|מֵֽ]][[H5769J\|עוֹלָם֙]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4910\|מָשַׁ֣לְתָּ]] [[H9003\|בָּ֔]][[H9038\|ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7121H\|נִקְרָ֥א]] [[H8034\|שִׁמְ]][[H9021\|ךָ֖]] [[H5921A\|עֲלֵי]][[H9038\|הֶ֑ם]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.18|<< Isaiah 63:18]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.64.1|Isaiah 64:1 >>]]</td></tr></table>
 

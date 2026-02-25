@@ -1,8 +1,74 @@
+---
+title: Leviticus 5:18
+type: Verse
+kjv: "And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist it not, and it shall be forgiven him."
+bsb: "He is to bring to the priest an unblemished ram of proper value from the flock as a guilt offering. Then the priest will make atonement on his behalf for the wrong he has committed in ignorance, and he will be forgiven."
+hebrew: "וְ֠הֵבִיא אַ֣יִל תָּמִ֧ים מִן־ הַצֹּ֛אן בְּעֶרְכְּךָ֥ לְאָשָׁ֖ם אֶל־ הַכֹּהֵ֑ן וְכִפֶּר֩ עָלָ֨יו הַכֹּהֵ֜ן עַ֣ל שִׁגְגָת֧וֹ אֲשֶׁר־ שָׁגָ֛ג וְה֥וּא לֹֽא־ יָדַ֖ע וְנִסְלַ֥ח לֽוֹ׃"
+pericope: "[[Lev.5.14 Laws for Guilt Offerings|Laws for Guilt Offerings]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 5
+book/chapter: "[[Lev.5|Leviticus 5]]"
+chronological_order: 137
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H0352A]]"
+- "[[H8549G]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H6629G]]"
+- "[[H9003]]"
+- "[[H6187]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H0817]]"
+- "[[H0413]]"
+- "[[H3548]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H7684]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H7683]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H5545]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 5:18**<big><big>[[Lev.5.14 Laws for Guilt Offerings|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist [it] not, and it shall be forgiven him.
 <small><sub>**BSB:**</sub></small>
 He is to bring to the priest an unblemished ram of proper value from the flock as a guilt offering. Then the priest will make atonement on his behalf for the wrong he has committed in ignorance, and he will be forgiven.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H0935P\|הֵבִיא]] [[H0352A\|אַ֣יִל]] [[H8549G\|תָּמִ֧ים]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H6629G\|צֹּ֛אן]] [[H9003\|בְּ]][[H6187\|עֶרְכְּ]][[H9021\|ךָ֥]] [[H9005\|לְ]][[H0817\|אָשָׁ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵ֑ן]] [[H9001\|וְ]][[H3722A\|כִפֶּר֩]] [[H5921A\|עָלָ֨י]][[H9033\|ו]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H5921A\|עַ֣ל]] [[H7684\|שִׁגְגָת֧]][[H9023\|וֹ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7683\|שָׁגָ֛ג]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3045\|יָדַ֖ע]] [[H9001\|וְ]][[H5545\|נִסְלַ֥ח]] [[H9005\|לֽ]][[H9033\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic IGNORANCE|IGNORANCE]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.5.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.5.17|<< Leviticus 5:17]]</td><td align="center" style="border:none;">[[Lev.5|Leviticus 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.5.19|Leviticus 5:19 >>]]</td></tr></table>
 

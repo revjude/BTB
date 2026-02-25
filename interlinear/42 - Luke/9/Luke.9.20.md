@@ -1,10 +1,58 @@
+---
+title: Luke 9:20
+type: Verse
+kjv: "He said unto them, But whom say ye that I am? Peter answering said, The Christ of God."
+bsb: "“But what about you?” Jesus asked. “Who do you say I am?” Peter answered, “The Christ of God.”"
+jesus_said: "But whom say ye that I am?"
+greek: "εἶπεν δὲ αὐτοῖς· ὑμεῖς δὲ τίνα με λέγετε εἶναι; ὁ Πέτρος δὲ ἀποκριθεὶς εἶπεν· τὸν χριστὸν τοῦ θεοῦ."
+pericope: "[[Luke.9.18 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G2036]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G4771]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G3004G]]"
+- "[[G1511]]"
+- "[[G3588]]"
+- "[[G4074G]]"
+- "[[G0611]]"
+- "[[G5547]]"
+- "[[G2316]]"
+texts:
+- NKO
+- k
+---
+
 **Luke 9:20**<big><big>[[Luke.9.18 Peter’s Confession of Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He said unto them, But whom say ye that I am? Peter answering said, The Christ of God.
 <small><sub>**BSB:**</sub></small>
 “But what about you?” Jesus asked. “Who do you say I am?” Peter answered, “The Christ of God.”
-<small><sub>**Literal:**</sub></small>
-He said then to them; You yourselves however whom Me do pronounce to be? <the> Peter then answering said; The Christ <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.19|<< Luke 9:19]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.21|Luke 9:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2036\|εἶπεν]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῖς·]]  [[G4771\|ὑμεῖς]]  [[G1161\|δὲ]]  [[G5101\|τίνα]]  [[G3165\|με]]  [[G3004G\|λέγετε]]  [[G1511\|εἶναι;]]  [[G3588\|ὁ]]  [[G4074G\|Πέτρος]]  [[G1161\|δὲ]]  [[G0611\|ἀποκριθεὶς]]  [[G2036\|εἶπεν·]]  [[G3588\|τὸν]]  [[G5547\|χριστὸν]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.19|<< Luke 9:19]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.21|Luke 9:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 8:9
+type: Verse
+kjv: "But of the children of Israel did Solomon make no servants for his work; but they were men of war, and chief of his captains, and captains of his chariots and horsemen."
+bsb: "But Solomon did not consign any of the Israelites to slave labor, because they were his men of war, the leaders of his captains, and the commanders of his chariots and cavalry."
+hebrew: "וּמִן־ בְּנֵי֙ יִשְׂרָאֵ֔ל אֲ֠שֶׁר לֹא־ נָתַ֧ן שְׁלֹמֹ֛ה לַעֲבָדִ֖ים לִמְלַאכְתּ֑וֹ כִּי־ הֵ֜מָּה אַנְשֵׁ֤י מִלְחָמָה֙ וְשָׂרֵ֣י שָׁלִישָׁ֔יו וְשָׂרֵ֥י רִכְבּ֖וֹ וּפָרָשָֽׁיו׃ פ"
+pericope: "[[2Chr.8.1 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 8
+book/chapter: "[[2Chr.8|2 Chronicles 8]]"
+chronological_order: 537
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9002]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H5414I]]"
+- "[[H8010]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H4399]]"
+- "[[H9023]]"
+- "[[H3588A]]"
+- "[[H1992]]"
+- "[[H0582]]"
+- "[[H4421]]"
+- "[[H8269]]"
+- "[[H7991C]]"
+- "[[H7393G]]"
+- "[[H6571B]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 8:9**<big><big>[[2Chr.8.1 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But of the children of Israel did Solomon make no servants for his work; but they [were] men of war, and chief of his captains, and captains of his chariots and horsemen.
 <small><sub>**BSB:**</sub></small>
 But Solomon did not consign any of the Israelites to slave labor, because they were his men of war, the leaders of his captains, and the commanders of his chariots and cavalry.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4480A\|מִן]][[H9014\|־]] [[H1121G\|בְּנֵי֙]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹא]][[H9014\|־]] [[H5414I\|נָתַ֧ן]] [[H8010\|שְׁלֹמֹ֛ה]] [[H9005\|לַ]][[H5650\|עֲבָדִ֖ים]] [[H9005\|לִ]][[H4399\|מְלַאכְתּ֑]][[H9023\|וֹ]] [[H3588A\|כִּי]][[H9014\|־]] [[H1992\|הֵ֜מָּה]] [[H0582\|אַנְשֵׁ֤י]] [[H4421\|מִלְחָמָה֙]] [[H9002\|וְ]][[H8269\|שָׂרֵ֣י]] [[H7991C\|שָׁלִישָׁ֔י]][[H9023\|ו]] [[H9002\|וְ]][[H8269\|שָׂרֵ֥י]] [[H7393G\|רִכְבּ֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H6571B\|פָרָשָֽׁי]][[H9023\|ו]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.8.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.8|<< 2 Chronicles 8:8]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.10|2 Chronicles 8:10 >>]]</td></tr></table>
 
@@ -25,7 +80,7 @@ But Solomon did not consign any of the Israelites to slave labor, because they w
 | officers his  |**<big>&#8207;[[H7991C\|שָׁלִישָׁ֔י]]&#8207;&#8207;[[H9023\|ו]]&#8207; </big>**| sha.li.Sha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and [the] commanders of  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8269\|שָׂרֵ֥י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> sa.Rei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | chariotry his  |**<big>&#8207;[[H7393G\|רִכְבּ֖]]&#8207;&#8207;[[H9023\|וֹ]]&#8207; </big>**| rikh.B<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| and horsemen his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6571B\|פָרָשָֽׁי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fa.ra.Sha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| and horsemen his  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H6571B\|פָרָשָֽׁי]]&#8207;&#8207;[[H9023\|ו]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> fa.ra.Sha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.8.8|<< 2 Chronicles 8:8]]</td><td align="center" style="border:none;">[[2Chr.8|2 Chronicles 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.8.10|2 Chronicles 8:10 >>]]</td></tr></table>
 
 

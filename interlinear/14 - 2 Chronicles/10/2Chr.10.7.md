@@ -1,8 +1,63 @@
+---
+title: 2 Chronicles 10:7
+type: Verse
+kjv: "And they spake unto him, saying, If thou be kind to this people, and please them, and speak good words to them, they will be thy servants for ever."
+bsb: "They replied, “If you will be kind to these people and please them by speaking kind words to them, they will be your servants forever.”"
+hebrew: "וַיְדַבְּר֨וּ אֵלָ֜יו לֵאמֹ֗ר אִם־ תִּֽהְיֶ֨ה לְט֜וֹב לְהָעָ֤ם הַזֶּה֙ וּרְצִיתָ֔ם וְדִבַּרְתָּ֥ אֲלֵהֶ֖ם דְּבָרִ֣ים טוֹבִ֑ים וְהָי֥וּ לְךָ֛ עֲבָדִ֖ים כָּל־ הַיָּמִֽים׃"
+pericope: "[[2Chr.10.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 10
+book/chapter: "[[2Chr.10|2 Chronicles 10]]"
+chronological_order: 556
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic CANDIDATE|CANDIDATE]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic RULERS|RULERS]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H2896A]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H7521]]"
+- "[[H9038]]"
+- "[[H1697G]]"
+- "[[H9031]]"
+- "[[H5650]]"
+- "[[H3605]]"
+- "[[H3117K]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 10:7**<big><big>[[2Chr.10.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they spake unto him, saying, If thou be kind to this people, and please them, and speak good words to them, they will be thy servants for ever.
 <small><sub>**BSB:**</sub></small>
 They replied, “If you will be kind to these people and please them by speaking kind words to them, they will be your servants forever.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1696G\|יְדַבְּר֨וּ]] [[H0413\|אֵלָ֜י]][[H9033\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֗ר]] [[H0518A\|אִם]][[H9014\|־]] [[H1961\|תִּֽהְיֶ֨ה]] [[H9005\|לְ]][[H2896A\|ט֜וֹב]] [[H9005\|לְ]][[H9009\|הָ]][[H5971A\|עָ֤ם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9001\|וּ]][[H7521\|רְצִיתָ֔]][[H9038\|ם]] [[H9001\|וְ]][[H1696G\|דִבַּרְתָּ֥]] [[H0413\|אֲלֵ]][[H9038\|הֶ֖ם]] [[H1697G\|דְּבָרִ֣ים]] [[H2896A\|טוֹבִ֑ים]] [[H9001\|וְ]][[H1961\|הָי֥וּ]] [[H9005\|לְ]][[H9031\|ךָ֛]] [[H5650\|עֲבָדִ֖ים]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3117K\|יָּמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANDIDATE|CANDIDATE]] • [[topic REHOBOAM|REHOBOAM]] • [[topic RULERS|RULERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.10.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.10.6|<< 2 Chronicles 10:6]]</td><td align="center" style="border:none;">[[2Chr.10|2 Chronicles 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.10.8|2 Chronicles 10:8 >>]]</td></tr></table>
 

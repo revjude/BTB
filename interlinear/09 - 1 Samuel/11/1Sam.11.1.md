@@ -1,8 +1,64 @@
+---
+title: 1 Samuel 11:1
+type: Verse
+kjv: "Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee."
+bsb: "Then Nahash the Ammonite came up and laid siege to Jabesh-gilead. All the men of Jabesh said to him, “Make a treaty with us, and we will serve you.”"
+hebrew: "וַיַּ֗עַל נָחָשׁ֙ הָֽעַמּוֹנִ֔י וַיִּ֖חַן עַל־ יָבֵ֣שׁ גִּלְעָ֑ד וַיֹּ֨אמְר֜וּ כָּל־ אַנְשֵׁ֤י יָבֵישׁ֙ אֶל־ נָחָ֔שׁ כְּרָת־ לָ֥נוּ בְרִ֖ית וְנַעַבְדֶֽךָּ׃"
+pericope: "[[1Sam.11.1 Saul Defeats the Ammonites|Saul Defeats the Ammonites]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 11
+book/chapter: "[[1Sam.11|1 Samuel 11]]"
+chronological_order: 290
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JABESH-GILEAD|JABESH-GILEAD]]"
+- "[[topic NAHASH|NAHASH]]"
+strongs:
+- "[[H9001]]"
+- "[[H5927G]]"
+- "[[H5176G]]"
+- "[[H9009]]"
+- "[[H5984H]]"
+- "[[H2583]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3003I]]"
+- "[[H1568L]]"
+- "[[H0559]]"
+- "[[H3605]]"
+- "[[H0582]]"
+- "[[H3003G]]"
+- "[[H0413]]"
+- "[[H3772H]]"
+- "[[H9005]]"
+- "[[H9035]]"
+- "[[H1285]]"
+- "[[H9002]]"
+- "[[H5647G]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 11:1**<big><big>[[1Sam.11.1 Saul Defeats the Ammonites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.
 <small><sub>**BSB:**</sub></small>
 Then Nahash the Ammonite came up and laid siege to Jabesh-gilead. All the men of Jabesh said to him, “Make a treaty with us, and we will serve you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H5927G\|יַּ֗עַל]] [[H5176G\|נָחָשׁ֙]] [[H9009\|הָֽ]][[H5984H\|עַמּוֹנִ֔י]] [[H9001\|וַ]][[H2583\|יִּ֖חַן]] [[H5921A\|עַל]][[H9014\|־]] [[H3003I\|יָבֵ֣שׁ]] [[H1568L\|גִּלְעָ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֨אמְר֜וּ]] [[H3605\|כָּל]][[H9014\|־]] [[H0582\|אַנְשֵׁ֤י]] [[H3003G\|יָבֵישׁ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H5176G\|נָחָ֔שׁ]] [[H3772H\|כְּרָת]][[H9014\|־]] [[H9005\|לָ֥]][[H9035\|נוּ]] [[H1285\|בְרִ֖ית]] [[H9002\|וְ]][[H5647G\|נַעַבְדֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JABESH-GILEAD|JABESH-GILEAD]] • [[topic NAHASH|NAHASH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.11.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.27|<< 1 Samuel 10:27]]</td><td align="center" style="border:none;">[[1Sam.11|1 Samuel 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.11.2|1 Samuel 11:2 >>]]</td></tr></table>
 

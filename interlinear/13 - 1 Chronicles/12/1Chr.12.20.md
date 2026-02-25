@@ -1,8 +1,72 @@
+---
+title: 1 Chronicles 12:20
+type: Verse
+kjv: "As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that were of Manasseh."
+bsb: "When David went to Ziklag, these men of Manasseh defected to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, chiefs of thousands in Manasseh."
+hebrew: "בְּלֶכְתּ֣וֹ אֶל־ צִֽיקְלַ֗ג נָפְל֣וּ עָלָ֣יו׀ מִֽמְּנַשֶּׁ֡ה עַ֠דְנַח וְיוֹזָבָ֤ד וִידִֽיעֲאֵל֙ וּמִיכָאֵ֣ל וְיוֹזָבָ֔ד וֶאֱלִיה֖וּא וְצִלְּתָ֑י רָאשֵׁ֥י הָאֲלָפִ֖ים אֲשֶׁ֥ר לִמְנַשֶּֽׁה׃"
+pericope: "[[1Chr.12.1 The Mighty Men Join David at Ziklag|The Mighty Men Join David at Ziklag]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 12
+book/chapter: "[[1Chr.12|1 Chronicles 12]]"
+chronological_order: 336
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ADNAH|ADNAH]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELIHU|ELIHU]]"
+- "[[topic JEDIAEL|JEDIAEL]]"
+- "[[topic JOZABAD|JOZABAD]]"
+- "[[topic MICHAEL|MICHAEL]]"
+- "[[topic ZILTHAI|ZILTHAI]]"
+strongs:
+- "[[H9003]]"
+- "[[H1980G]]"
+- "[[H9043]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H6860]]"
+- "[[H5307H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H4519G]]"
+- "[[H5734G]]"
+- "[[H9002]]"
+- "[[H3107I]]"
+- "[[H3043I]]"
+- "[[H4317M]]"
+- "[[H3107J]]"
+- "[[H0453H]]"
+- "[[H6769H]]"
+- "[[H7218H]]"
+- "[[H9009]]"
+- "[[H0505G]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 12:20**<big><big>[[1Chr.12.1 The Mighty Men Join David at Ziklag|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that [were] of Manasseh.
 <small><sub>**BSB:**</sub></small>
 When David went to Ziklag, these men of Manasseh defected to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, chiefs of thousands in Manasseh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H1980G\|לֶכְתּ֣]][[H9043\|וֹ]] [[H0413\|אֶל]][[H9014\|־]] [[H6860\|צִֽיקְלַ֗ג]] [[H5307H\|נָפְל֣וּ]] [[H5921A\|עָלָ֣י]][[H9033\|ו]][[H9015\|׀]] [[H9006\|מִֽ]][[H4519G\|מְּנַשֶּׁ֡ה]] [[H5734G\|עַ֠דְנַח]] [[H9002\|וְ]][[H3107I\|יוֹזָבָ֤ד]] [[H9002\|וִ]][[H3043I\|ידִֽיעֲאֵל֙]] [[H9002\|וּ]][[H4317M\|מִיכָאֵ֣ל]] [[H9002\|וְ]][[H3107J\|יוֹזָבָ֔ד]] [[H9002\|וֶ]][[H0453H\|אֱלִיה֖וּא]] [[H9002\|וְ]][[H6769H\|צִלְּתָ֑י]] [[H7218H\|רָאשֵׁ֥י]] [[H9009\|הָ]][[H0505G\|אֲלָפִ֖ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H9005\|לִ]][[H4519G\|מְנַשֶּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADNAH|ADNAH]] • [[topic DAVID|DAVID]] • [[topic ELIHU|ELIHU]] • [[topic JEDIAEL|JEDIAEL]] • [[topic JOZABAD|JOZABAD]] • [[topic MICHAEL|MICHAEL]] • [[topic ZILTHAI|ZILTHAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.12.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.12.19|<< 1 Chronicles 12:19]]</td><td align="center" style="border:none;">[[1Chr.12|1 Chronicles 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.12.21|1 Chronicles 12:21 >>]]</td></tr></table>
 

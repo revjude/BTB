@@ -1,8 +1,56 @@
+---
+title: Psalm 77:17
+type: Verse
+kjv: "The clouds poured out water: the skies sent out a sound: thine arrows also went abroad."
+bsb: "The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth."
+hebrew: "זֹ֤רְמוּ מַ֨יִם׀ עָב֗וֹת ק֭וֹל נָתְנ֣וּ שְׁחָקִ֑ים אַף־ חֲ֝צָצֶ֗יךָ יִתְהַלָּֽכוּ׃"
+pericope: "[[Ps.77.1 In the Day of Trouble I Sought the Lord|In the Day of Trouble I Sought the Lord]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 77
+book/chapter: "[[Ps.77|Psalm 77]]"
+chronological_order: 509
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H2229]]"
+- "[[H4325G]]"
+- "[[H9015]]"
+- "[[H5645]]"
+- "[[H6963I]]"
+- "[[H5414M]]"
+- "[[H7834]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H2671]]"
+- "[[H9021]]"
+- "[[H1980I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 77:17**<big><big>[[Ps.77.1 In the Day of Trouble I Sought the Lord|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The clouds poured out water: the skies sent out a sound: thine arrows also went abroad.
 <small><sub>**BSB:**</sub></small>
 The clouds poured down water; the skies resounded with thunder; Your arrows flashed back and forth.
+<small><sub>**Hebrew:**</sub></small>
+[[H2229\|זֹ֤רְמוּ]] [[H4325G\|מַ֨יִם]][[H9015\|׀]] [[H5645\|עָב֗וֹת]] [[H6963I\|ק֭וֹל]] [[H5414M\|נָתְנ֣וּ]] [[H7834\|שְׁחָקִ֑ים]] [[H0637\|אַף]][[H9014\|־]] [[H2671\|חֲ֝צָצֶ֗י]][[H9021\|ךָ]] [[H1980I\|יִתְהַלָּֽכוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.77.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.77.16|<< Psalms 77:16]]</td><td align="center" style="border:none;">[[Ps.77|Psalms 77]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.77.18|Psalms 77:18 >>]]</td></tr></table>
 

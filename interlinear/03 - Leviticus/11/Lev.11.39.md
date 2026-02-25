@@ -1,8 +1,68 @@
+---
+title: Leviticus 11:39
+type: Verse
+kjv: "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even."
+bsb: "If an animal that you may eat dies, anyone who touches the carcass will be unclean until evening."
+hebrew: "וְכִ֤י יָמוּת֙ מִן־ הַבְּהֵמָ֔ה אֲשֶׁר־ הִ֥יא לָכֶ֖ם לְאָכְלָ֑ה הַנֹּגֵ֥עַ בְּנִבְלָתָ֖הּ יִטְמָ֥א עַד־ הָעָֽרֶב׃"
+pericope: "[[Lev.11.1 Clean and Unclean Animals|Clean and Unclean Animals]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 11
+book/chapter: "[[Lev.11|Leviticus 11]]"
+chronological_order: 143
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic CREEPING THINGS|CREEPING THINGS]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H4191]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0929]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H0402]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H5038]]"
+- "[[H9024]]"
+- "[[H2930A]]"
+- "[[H5704]]"
+- "[[H6153]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 11:39**<big><big>[[Lev.11.1 Clean and Unclean Animals|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even.
 <small><sub>**BSB:**</sub></small>
 If an animal that you may eat dies, anyone who touches the carcass will be unclean until evening.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִ֤י]] [[H4191\|יָמוּת֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H0929\|בְּהֵמָ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|הִ֥יא]] [[H9005\|לָ]][[H9036\|כֶ֖ם]] [[H9005\|לְ]][[H0402\|אָכְלָ֑ה]] [[H9009\|הַ]][[H5060\|נֹּגֵ֥עַ]] [[H9003\|בְּ]][[H5038\|נִבְלָתָ֖]][[H9024\|הּ]] [[H2930A\|יִטְמָ֥א]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עָֽרֶב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CREEPING THINGS|CREEPING THINGS]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic FOOD|FOOD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.11.39|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.11.38|<< Leviticus 11:38]]</td><td align="center" style="border:none;">[[Lev.11|Leviticus 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.11.40|Leviticus 11:40 >>]]</td></tr></table>
 

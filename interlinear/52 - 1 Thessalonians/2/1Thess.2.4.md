@@ -1,10 +1,65 @@
+---
+title: 1 Thessalonians 2:4
+type: Verse
+kjv: "But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts."
+bsb: "Instead, we speak as those approved by God to be entrusted with the gospel, not in order to please men but God, who examines our hearts."
+greek: "ἀλλὰ καθὼς δεδοκιμάσμεθα ὑπὸ τοῦ θεοῦ πιστευθῆναι τὸ εὐαγγέλιον, οὕτως λαλοῦμεν, οὐχ ὡς ἀνθρώποις ἀρέσκοντες ἀλλὰ τῷ θεῷ τῷ δοκιμάζοντι τὰς καρδίας ἡμῶν."
+pericope: "[[1Thess.2.1 Paul’s Ministry|Paul’s Ministry]]"
+original_language: Greek
+testament: New
+book: 1 Thessalonians
+chapter: 2
+book/chapter: "[[1Thess.2|1 Thessalonians 2]]"
+chronological_order: 1049
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic AGENCY|AGENCY]]"
+- "[[topic FLATTERY|FLATTERY]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0235]]"
+- "[[G2531]]"
+- "[[G1381]]"
+- "[[G5259G]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G4100]]"
+- "[[G2098]]"
+- "[[G3779]]"
+- "[[G2980]]"
+- "[[G3756]]"
+- "[[G5613]]"
+- "[[G0444]]"
+- "[[G0700]]"
+- "[[G2588]]"
+- "[[G3165]]"
+texts:
+- NKO
+- k
+---
+
 **1 Thessalonians 2:4**<big><big>[[1Thess.2.1 Paul’s Ministry|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts.
 <small><sub>**BSB:**</sub></small>
 Instead, we speak as those approved by God to be entrusted with the gospel, not in order to please men but God, who examines our hearts.
-<small><sub>**Literal:**</sub></small>
-but even as we have been approved by <the> God to be entrusted with the gospel, so we speak, not as men pleasing but <the> as God who is examining the hearts of us.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.3|<< 1 Thessalonians 2:3]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.5|1 Thessalonians 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G2531\|καθὼς]]  [[G1381\|δεδοκιμάσμεθα]]  [[G5259G\|ὑπὸ]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G4100\|πιστευθῆναι]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον,]]  [[G3779\|οὕτως]]  [[G2980\|λαλοῦμεν,]]  [[G3756\|οὐχ]]  [[G5613\|ὡς]]  [[G0444\|ἀνθρώποις]]  [[G0700\|ἀρέσκοντες]]  [[G0235\|ἀλλὰ]]  [[G3588\|τῷ]]  [[G2316\|θεῷ]]  [[G3588\|τῷ]]  [[G1381\|δοκιμάζοντι]]  [[G3588\|τὰς]]  [[G2588\|καρδίας]]  [[G3165\|ἡμῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGENCY|AGENCY]] • [[topic FLATTERY|FLATTERY]] • [[topic GOD|GOD]] • [[topic HEART|HEART]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PREACHING|PREACHING]] • [[topic SINCERITY|SINCERITY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Thess.2.3|<< 1 Thessalonians 2:3]]</td><td align="center" style="border:none;">[[1Thess.2|1 Thessalonians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Thess.2.5|1 Thessalonians 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

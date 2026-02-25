@@ -1,28 +1,35 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: An Unclean Spirit Returns
+type: Pericope
 pericope: "[[Luke.11.24 An Unclean Spirit Returns|An Unclean Spirit Returns]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Luke
 chapter: 11
 book/chapter: "[[Luke.11|Luke 11]]"
-genre:
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 3
 verses:
 - "[[Luke.11.24]]"
 - "[[Luke.11.25]]"
 - "[[Luke.11.26]]"
 ---
 
-[[Luke.11|Luke 11:24 - Luke 11:26]]
+<small>[[Luke.11|Luke 11:24-26]]</small>
 *An Unclean Spirit Returns*
 
 [[Luke.11.24|24]] When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out.

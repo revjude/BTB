@@ -1,8 +1,60 @@
+---
+title: 2 Kings 2:20
+type: Verse
+kjv: "And he said, Bring me a new cruse, and put salt therein. And they brought it to him."
+bsb: "“Bring me a new bowl,” he replied, “and put some salt in it.” So they brought it to him,"
+hebrew: "וַיֹּ֗אמֶר קְחוּ־ לִי֙ צְלֹחִ֣ית חֲדָשָׁ֔ה וְשִׂ֥ימוּ שָׁ֖ם מֶ֑לַח וַיִּקְח֖וּ אֵלָֽיו׃"
+pericope: "[[2Kgs.2.19 Elisha Heals the Waters of Jericho|Elisha Heals the Waters of Jericho]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 2
+book/chapter: "[[2Kgs.2|2 Kings 2]]"
+chronological_order: 574
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic CRUSE|CRUSE]]"
+- "[[topic ELISHA|ELISHA]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SALT|SALT]]"
+- "[[topic WATER|WATER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3947J]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H6746]]"
+- "[[H2319H]]"
+- "[[H9002]]"
+- "[[H7760H]]"
+- "[[H8033G]]"
+- "[[H4417M]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 2:20**<big><big>[[2Kgs.2.19 Elisha Heals the Waters of Jericho|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Bring me a new cruse, and put salt therein. And they brought [it] to him.
 <small><sub>**BSB:**</sub></small>
 “Bring me a new bowl,” he replied, “and put some salt in it.” So they brought it to him,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H3947J\|קְחוּ]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H6746\|צְלֹחִ֣ית]] [[H2319H\|חֲדָשָׁ֔ה]] [[H9002\|וְ]][[H7760H\|שִׂ֥ימוּ]] [[H8033G\|שָׁ֖ם]] [[H4417M\|מֶ֑לַח]] [[H9001\|וַ]][[H3947J\|יִּקְח֖וּ]] [[H0413\|אֵלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CRUSE|CRUSE]] • [[topic ELISHA|ELISHA]] • [[topic JERICHO|JERICHO]] • [[topic MIRACLES|MIRACLES]] • [[topic SALT|SALT]] • [[topic WATER|WATER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.2.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.2.19|<< 2 Kings 2:19]]</td><td align="center" style="border:none;">[[2Kgs.2|2 Kings 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.2.21|2 Kings 2:21 >>]]</td></tr></table>
 

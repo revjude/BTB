@@ -1,8 +1,69 @@
+---
+title: Ezekiel 17:23
+type: Verse
+kjv: "In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell."
+bsb: "I will plant it on the mountain heights of Israel so that it will bear branches; it will yield fruit and become a majestic cedar. Birds of every kind will nest under it, taking shelter in the shade of its branches."
+hebrew: "בְּהַ֨ר מְר֤וֹם יִשְׂרָאֵל֙ אֶשְׁתֳּלֶ֔נּוּ וְנָשָׂ֤א עָנָף֙ וְעָ֣שָׂה פֶ֔רִי וְהָיָ֖ה לְאֶ֣רֶז אַדִּ֑יר וְשָׁכְנ֣וּ תַחְתָּ֗יו כֹּ֚ל צִפּ֣וֹר כָּל־ כָּנָ֔ף בְּצֵ֥ל דָּלִיּוֹתָ֖יו תִּשְׁכֹּֽנָּה׃"
+pericope: "[[Ezek.17.11 The Parable Explained|The Parable Explained]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 17
+book/chapter: "[[Ezek.17|Ezekiel 17]]"
+chronological_order: 808
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9003]]"
+- "[[H2022G]]"
+- "[[H4791]]"
+- "[[H3478]]"
+- "[[H8362]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H5375H]]"
+- "[[H6057]]"
+- "[[H6213H]]"
+- "[[H6529]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H0730]]"
+- "[[H0117]]"
+- "[[H7931]]"
+- "[[H8478G]]"
+- "[[H3605]]"
+- "[[H6833]]"
+- "[[H9014]]"
+- "[[H3671]]"
+- "[[H6738]]"
+- "[[H1808]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 17:23**<big><big>[[Ezek.17.11 The Parable Explained|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell.
 <small><sub>**BSB:**</sub></small>
 I will plant it on the mountain heights of Israel so that it will bear branches; it will yield fruit and become a majestic cedar. Birds of every kind will nest under it, taking shelter in the shade of its branches.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2022G\|הַ֨ר]] [[H4791\|מְר֤וֹם]] [[H3478\|יִשְׂרָאֵל֙]] [[H8362\|אֶשְׁתֳּלֶ֔]][[H9033\|נּוּ]] [[H9001\|וְ]][[H5375H\|נָשָׂ֤א]] [[H6057\|עָנָף֙]] [[H9001\|וְ]][[H6213H\|עָ֣שָׂה]] [[H6529\|פֶ֔רִי]] [[H9001\|וְ]][[H1961\|הָיָ֖ה]] [[H9005\|לְ]][[H0730\|אֶ֣רֶז]] [[H0117\|אַדִּ֑יר]] [[H9001\|וְ]][[H7931\|שָׁכְנ֣וּ]] [[H8478G\|תַחְתָּ֗י]][[H9033\|ו]] [[H3605\|כֹּ֚ל]] [[H6833\|צִפּ֣וֹר]] [[H3605\|כָּל]][[H9014\|־]] [[H3671\|כָּנָ֔ף]] [[H9003\|בְּ]][[H6738\|צֵ֥ל]] [[H1808\|דָּלִיּוֹתָ֖י]][[H9023\|ו]] [[H7931\|תִּשְׁכֹּֽנָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.17.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.17.22|<< Ezekiel 17:22]]</td><td align="center" style="border:none;">[[Ezek.17|Ezekiel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.17.24|Ezekiel 17:24 >>]]</td></tr></table>
 

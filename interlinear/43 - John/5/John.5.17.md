@@ -1,10 +1,56 @@
+---
+title: John 5:17
+type: Verse
+kjv: "But Jesus answered them, My Father worketh hitherto, and I work."
+bsb: "But Jesus answered them, “To this very day My Father is at His work, and I too am working.”"
+jesus_said: "My Father worketh hitherto, and I work."
+greek: "Ὁ δὲ Ἰησοῦς ἀπεκρίνατο αὐτοῖς· ὁ πατήρ μου ἕως ἄρτι ἐργάζεται, κἀγὼ κἀγὼ ἐργάζομαι."
+pericope: "[[John.5.16 The Father and the Son|The Father and the Son]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 5
+book/chapter: "[[John.5|John 5]]"
+chronological_order: 961
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G2193]]"
+- "[[G0737]]"
+- "[[G2038]]"
+- "[[G1473]]"
+- "[[G2532]]"
+texts:
+- NKO
+---
+
 **John 5:17**<big><big>[[John.5.16 The Father and the Son|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus answered them, My Father worketh hitherto, and I work.
 <small><sub>**BSB:**</sub></small>
 But Jesus answered them, “To this very day My Father is at His work, and I too am working.”
-<small><sub>**Literal:**</sub></small>
-<the> But Jesus answered them; The Father of Mine until now is working, and I myself am working.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.16|<< John 5:16]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.18|John 5:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G0611\|ἀπεκρίνατο]]  [[G0846\|αὐτοῖς·]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3165\|μου]]  [[G2193\|ἕως]]  [[G0737\|ἄρτι]]  [[G2038\|ἐργάζεται,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2038\|ἐργάζομαι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.5.16|<< John 5:16]]</td><td align="center" style="border:none;">[[John.5|John 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.5.18|John 5:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

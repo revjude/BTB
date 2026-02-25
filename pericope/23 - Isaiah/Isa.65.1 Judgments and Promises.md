@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgments and Promises
+type: Pericope
 pericope: "[[Isa.65.1 Judgments and Promises|Judgments and Promises]]"
-verse_count: 16
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 65
 book/chapter: "[[Isa.65|Isaiah 65]]"
-genre:
+chronological_order: 704
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 16
 verses:
 - "[[Isa.65.1]]"
 - "[[Isa.65.2]]"
@@ -35,7 +42,7 @@ verses:
 - "[[Isa.65.16]]"
 ---
 
-[[Isa.65|Isaiah 65:1 - Isaiah 65:16]]
+<small>[[Isa.65|Isaiah 65:1-16]]</small>
 *Judgments and Promises*
 
 [[Isa.65.1|1]] I am sought of \[them that\] asked not \[for me\]; I am found of \[them that\] sought me not: I said, Behold me, behold me, unto a nation \[that\] was not called by my name.

@@ -1,10 +1,72 @@
+---
+title: Matthew 25:37
+type: Verse
+kjv: "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?"
+bsb: "Then the righteous will answer Him, ‘Lord, when did we see You hungry and feed You, or thirsty and give You something to drink?"
+jesus_said: "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?"
+greek: "Τότε ἀποκριθήσονται αὐτῷ οἱ δίκαιοι λέγοντες· κύριε, πότε σε εἴδομεν πεινῶντα καὶ ἐθρέψαμεν ἢ διψῶντα καὶ ἐποτίσαμεν;"
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5119]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G1342]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G4219]]"
+- "[[G4771]]"
+- "[[G1492H]]"
+- "[[G3983]]"
+- "[[G2532]]"
+- "[[G5142]]"
+- "[[G2228]]"
+- "[[G1372]]"
+- "[[G4222]]"
+texts:
+- NKO
+---
+
 **Matthew 25:37**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed [thee]? or thirsty, and gave [thee] drink?
 <small><sub>**BSB:**</sub></small>
 Then the righteous will answer Him, ‘Lord, when did we see You hungry and feed You, or thirsty and give You something to drink?
-<small><sub>**Literal:**</sub></small>
-Then will answer Him the righteous saying; Lord, when You saw we hungering and fed [You] Or thirsting and gave [You] to drink?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.36|<< Matthew 25:36]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.38|Matthew 25:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G0611\|ἀποκριθήσονται]]  [[G0846\|αὐτῷ]]  [[G3588\|οἱ]]  [[G1342\|δίκαιοι]]  [[G3004G\|λέγοντες·]]  [[G2962G\|κύριε,]]  [[G4219\|πότε]]  [[G4771\|σε]]  [[G1492H\|εἴδομεν]]  [[G3983\|πεινῶντα]]  [[G2532\|καὶ]]  [[G5142\|ἐθρέψαμεν]]  [[G2228\|ἢ]]  [[G1372\|διψῶντα]]  [[G2532\|καὶ]]  [[G4222\|ἐποτίσαμεν;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic LIBERALITY|LIBERALITY]] • [[topic LOVE|LOVE]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PRISONERS|PRISONERS]] • [[topic REWARD|REWARD]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.36|<< Matthew 25:36]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.38|Matthew 25:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,65 @@
+---
+title: Esther 6:8
+type: Verse
+kjv: "Let the royal apparel be brought which the king useth to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head:"
+bsb: "have them bring a royal robe that the king himself has worn and a horse on which the king himself has ridden—one with a royal crest placed on its head."
+hebrew: "יָבִ֙יאוּ֙ לְב֣וּשׁ מַלְכ֔וּת אֲשֶׁ֥ר לָֽבַשׁ־ בּ֖וֹ הַמֶּ֑לֶךְ וְס֗וּס אֲשֶׁ֨ר רָכַ֤ב עָלָיו֙ הַמֶּ֔לֶךְ וַאֲשֶׁ֥ר נִתַּ֛ן כֶּ֥תֶר מַלְכ֖וּת בְּרֹאשֽׁוֹ׃"
+pericope: "[[Esth.6.1 Mordecai Is Honored|Mordecai Is Honored]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 6
+book/chapter: "[[Esth.6|Esther 6]]"
+chronological_order: 904
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic AMBITION|AMBITION]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic DRESS|DRESS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic KING|KING]]"
+- "[[topic MORDECAI|MORDECAI]]"
+strongs:
+- "[[H0935P]]"
+- "[[H3830]]"
+- "[[H4438]]"
+- "[[H0834A]]"
+- "[[H3847]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9002]]"
+- "[[H5483M]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H5414H]]"
+- "[[H3804]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 6:8**<big><big>[[Esth.6.1 Mordecai Is Honored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the royal apparel be brought which the king [useth] to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head:
 <small><sub>**BSB:**</sub></small>
 have them bring a royal robe that the king himself has worn and a horse on which the king himself has ridden—one with a royal crest placed on its head.
+<small><sub>**Hebrew:**</sub></small>
+[[H0935P\|יָבִ֙יאוּ֙]] [[H3830\|לְב֣וּשׁ]] [[H4438\|מַלְכ֔וּת]] [[H0834A\|אֲשֶׁ֥ר]] [[H3847\|לָֽבַשׁ]][[H9014\|־]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H9002\|וְ]][[H5483M\|ס֗וּס]] [[H0834A\|אֲשֶׁ֨ר]] [[H7392\|רָכַ֤ב]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9002\|וַ]][[H0834A\|אֲשֶׁ֥ר]] [[H5414H\|נִתַּ֛ן]] [[H3804\|כֶּ֥תֶר]] [[H4438\|מַלְכ֖וּת]] [[H9003\|בְּ]][[H7218A\|רֹאשֽׁ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBITION|AMBITION]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic CROWN|CROWN]] • [[topic DRESS|DRESS]] • [[topic GOD|GOD]] • [[topic KING|KING]] • [[topic MORDECAI|MORDECAI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.6.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.6.7|<< Esther 6:7]]</td><td align="center" style="border:none;">[[Esth.6|Esther 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.6.9|Esther 6:9 >>]]</td></tr></table>
 

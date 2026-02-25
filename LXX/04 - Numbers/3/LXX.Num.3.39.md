@@ -1,6 +1,66 @@
+---
+title: LXX Numbers 3:39
+type: Verse
+lxx: "All the numbering of the Levites, whom Moses and Aaron numbered through the voice of the lord, according to their peoples, every male from a month and up -- two and twenty thousand."
+greek: "πάσα η επίσκεψις των Λευιτών ους επεσκέψατο Μωυσής και Ααρών διά φωνής κυρίου κατά δήμους αυτών παν αρσενικόν από μηνιαίου και επάνω δύο και είκοσι χιλιάδες"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 3
+book/chapter: "[[Num.3|Numbers 3]]"
+chronological_order: 162
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CENSUS|CENSUS]]"
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G7448]]"
+- "[[G3588]]"
+- "[[G3017]]"
+- "[[G3739]]"
+- "[[G1980]]"
+- "[[G3475]]"
+- "[[G2532]]"
+- "[[G0002]]"
+- "[[G1223]]"
+- "[[G5456]]"
+- "[[G2962]]"
+- "[[G2596]]"
+- "[[G1218]]"
+- "[[G1473]]"
+- "[[G3956]]"
+- "[[G6544]]"
+- "[[G0575]]"
+- "[[G8317]]"
+- "[[G2532]]"
+- "[[G1883]]"
+- "[[G1417]]"
+- "[[G2532]]"
+- "[[G1501]]"
+- "[[G5505]]"
+---
+
 **LXX Numbers 3:39** 
 <small><sub>**LXX:**</sub></small>
 All the numbering of the Levites, whom Moses and Aaron numbered through \[the\] voice of \[the\] <span class="smallcaps">lord</span>, according to their peoples, every male from a month and up -- two and twenty thousand. 
+<small><sub>**Greek:**</sub></small>
+[[G3956\|πάσα]] [[G3588\|η]] [[G7448\|επίσκεψις]] [[G3588\|των]] [[G3017\|Λευιτών]] [[G3739\|ους]] [[G1980\|επεσκέψατο]] [[G3475\|Μωυσής]] [[G2532\|και]] [[G0002\|Ααρών]] [[G1223\|διά]] [[G5456\|φωνής]] [[G2962\|κυρίου]] [[G2596\|κατά]] [[G1218\|δήμους]] [[G1473\|αυτών]] [[G3956\|παν]] [[G6544\|αρσενικόν]] [[G0575\|από]] [[G8317\|μηνιαίου]] [[G2532\|και]] [[G1883\|επάνω]] [[G1417\|δύο]] [[G2532\|και]] [[G1501\|είκοσι]] [[G5505\|χιλιάδες]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CENSUS|CENSUS]] • [[topic LEVITES|LEVITES]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.3.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.38|<< Numbers 3:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.40|Numbers 3:40 >>]]</td></tr></table>
 
@@ -31,6 +91,6 @@ All the numbering of the Levites, whom Moses and Aaron numbered through \[the\] 
 | and | **<big>[[G2532\|και]]</big>** |
 | twenty | **<big>[[G1501\|είκοσι]]</big>** |
 | thousand. | **<big>[[G5505\|χιλιάδες]]</big>** |
-[[Num.3.39|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.38|<< Numbers 3:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.40|Numbers 3:40 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.3.38|<< Numbers 3:38]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.3.40|Numbers 3:40 >>]]</td></tr></table>
 
 

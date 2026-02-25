@@ -1,6 +1,50 @@
+---
+title: LXX Psalm 118:6
+type: Verse
+lxx: "The lord to me is a helper; and I shall not fear what man shall do to me."
+greek: "κύριος εμοί βοηθός και ου φοβηθήσομαι τι ποιήσει μοι άνθρωπος"
+original_language: Greek
+testament: Old
+book: Psalm
+chapter: 118
+book/chapter: "[[Ps.118|Psalm 118]]"
+chronological_order: 880
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G0998]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G5399]]"
+- "[[G5100]]"
+- "[[G4160]]"
+- "[[G1473]]"
+- "[[G0444]]"
+---
+
 **LXX Psalm 118:6** 
 <small><sub>**LXX:**</sub></small>
 \[The\] <span class="smallcaps">lord</span> to me \[is\] a helper; and I shall not fear what man shall do to me. 
+<small><sub>**Greek:**</sub></small>
+[[G2962\|κύριος]] [[G1473\|εμοί]] [[G0998\|βοηθός]] [[G2532\|και]] [[G3756\|ου]] [[G5399\|φοβηθήσομαι]] [[G5100\|τι]] [[G4160\|ποιήσει]] [[G1473\|μοι]] [[G0444\|άνθρωπος]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small>
 <small><sub>**MT:**</sub></small>
 [[Ps.118.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.5|<< Psalm 118:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.7|Psalm 118:7 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
@@ -20,6 +64,6 @@
 | shall do | **<big>[[G4160\|ποιήσει]]</big>** |
 | to me | **<big>[[G1473\|μοι]]</big>** |
 | man | **<big>[[G0444\|άνθρωπος]]</big>** |
-[[Ps.118.6|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.5|<< Psalm 118:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.7|Psalm 118:7 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Ps.118.5|<< Psalm 118:5]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Ps.118.7|Psalm 118:7 >>]]</td></tr></table>
 
 

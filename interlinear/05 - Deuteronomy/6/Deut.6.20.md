@@ -1,8 +1,71 @@
+---
+title: Deuteronomy 6:20
+type: Verse
+kjv: "And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?"
+bsb: "In the future, when your son asks, “What is the meaning of the decrees and statutes and ordinances that the LORD our God has commanded you?”"
+hebrew: "כִּֽי־ יִשְׁאָלְךָ֥ בִנְךָ֛ מָחָ֖ר לֵאמֹ֑ר מָ֣ה הָעֵדֹ֗ת וְהַֽחֻקִּים֙ וְהַמִּשְׁפָּטִ֔ים אֲשֶׁ֥ר צִוָּ֛ה יְהוָ֥ה אֱלֹהֵ֖ינוּ אֶתְכֶֽם׃"
+pericope: "[[Deut.6.20 Teach Your Children|Teach Your Children]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 6
+book/chapter: "[[Deut.6|Deuteronomy 6]]"
+chronological_order: 202
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7592]]"
+- "[[H9031]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H4279]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4100]]"
+- "[[H9009]]"
+- "[[H5713B]]"
+- "[[H9002]]"
+- "[[H2706G]]"
+- "[[H4941G]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 6:20**<big><big>[[Deut.6.20 Teach Your Children|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [And] when thy son asketh thee in time to come, saying, What [mean] the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?
 <small><sub>**BSB:**</sub></small>
 In the future, when your son asks, “What is the meaning of the decrees and statutes and ordinances that the LORD our God has commanded you?”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H7592\|יִשְׁאָלְ]][[H9031\|ךָ֥]] [[H1121A\|בִנְ]][[H9021\|ךָ֛]] [[H4279\|מָחָ֖ר]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4100\|מָ֣ה]] [[H9009\|הָ]][[H5713B\|עֵדֹ֗ת]] [[H9002\|וְ]][[H9009\|הַֽ]][[H2706G\|חֻקִּים֙]] [[H9002\|וְ]][[H9009\|הַ]][[H4941G\|מִּשְׁפָּטִ֔ים]] [[H0834A\|אֲשֶׁ֥ר]] [[H6680\|צִוָּ֛ה]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵ֖י]][[H9025\|נוּ]] [[H0853\|אֶתְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.6.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.19|<< Deuteronomy 6:19]]</td><td align="center" style="border:none;">[[Deut.6|Deuteronomy 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.6.21|Deuteronomy 6:21 >>]]</td></tr></table>
 

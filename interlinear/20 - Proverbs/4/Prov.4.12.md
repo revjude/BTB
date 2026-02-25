@@ -1,8 +1,54 @@
+---
+title: Proverbs 4:12
+type: Verse
+kjv: "When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble."
+bsb: "When you walk, your steps will not be impeded; when you run, you will not stumble."
+hebrew: "בְּֽ֭לֶכְתְּךָ לֹא־ יֵצַ֣ר צַעֲדֶ֑ךָ וְאִם־ תָּ֝ר֗וּץ לֹ֣א תִכָּשֵֽׁל׃"
+pericope: "[[Prov.4.1 A Father’s Instruction|A Father’s Instruction]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 4
+book/chapter: "[[Prov.4|Proverbs 4]]"
+chronological_order: 459
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9003]]"
+- "[[H1980I]]"
+- "[[H9041]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3334]]"
+- "[[H6806]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H7323G]]"
+- "[[H3782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 4:12**<big><big>[[Prov.4.1 A Father’s Instruction|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.
 <small><sub>**BSB:**</sub></small>
 When you walk, your steps will not be impeded; when you run, you will not stumble.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּֽ֭]][[H1980I\|לֶכְתְּ]][[H9041\|ךָ]] [[H3808\|לֹא]][[H9014\|־]] [[H3334\|יֵצַ֣ר]] [[H6806\|צַעֲדֶ֑]][[H9021\|ךָ]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H7323G\|תָּ֝ר֗וּץ]] [[H3808\|לֹ֣א]] [[H3782\|תִכָּשֵֽׁל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.4.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.4.11|<< Proverbs 4:11]]</td><td align="center" style="border:none;">[[Prov.4|Proverbs 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.4.13|Proverbs 4:13 >>]]</td></tr></table>
 

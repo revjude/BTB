@@ -1,8 +1,76 @@
+---
+title: Deuteronomy 12:30
+type: Verse
+kjv: "Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou inquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise."
+bsb: "be careful not to be ensnared by their ways after they have been destroyed before you. Do not inquire about their gods, asking, “How do these nations serve their gods? I will do likewise.”"
+hebrew: "הִשָּׁ֣מֶר לְךָ֗ פֶּן־ תִּנָּקֵשׁ֙ אַחֲרֵיהֶ֔ם אַחֲרֵ֖י הִשָּׁמְדָ֣ם מִפָּנֶ֑יךָ וּפֶן־ תִּדְרֹ֨שׁ לֵֽאלֹהֵיהֶ֜ם לֵאמֹ֨ר אֵיכָ֨ה יַעַבְד֜וּ הַגּוֹיִ֤ם הָאֵ֙לֶּה֙ אֶת־ אֱלֹ֣הֵיהֶ֔ם וְאֶעֱשֶׂה־ כֵּ֖ן גַּם־ אָֽנִי׃"
+pericope: "[[Deut.12.29 A Warning against Idolatry|A Warning against Idolatry]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+strongs:
+- "[[H8104J]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H6435]]"
+- "[[H9014]]"
+- "[[H5367]]"
+- "[[H0310A]]"
+- "[[H9038]]"
+- "[[H8045]]"
+- "[[H9048]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H1875]]"
+- "[[H0430]]"
+- "[[H9028]]"
+- "[[H0559]]"
+- "[[H0349B]]"
+- "[[H5647H]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0428]]"
+- "[[H0853]]"
+- "[[H6213A]]"
+- "[[H3651C]]"
+- "[[H1571]]"
+- "[[H0589]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:30**<big><big>[[Deut.12.29 A Warning against Idolatry|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou inquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise.
 <small><sub>**BSB:**</sub></small>
 be careful not to be ensnared by their ways after they have been destroyed before you. Do not inquire about their gods, asking, “How do these nations serve their gods? I will do likewise.”
+<small><sub>**Hebrew:**</sub></small>
+[[H8104J\|הִשָּׁ֣מֶר]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H6435\|פֶּן]][[H9014\|־]] [[H5367\|תִּנָּקֵשׁ֙]] [[H0310A\|אַחֲרֵי]][[H9038\|הֶ֔ם]] [[H0310A\|אַחֲרֵ֖י]] [[H8045\|הִשָּׁמְדָ֣]][[H9048\|ם]] [[H9006\|מִ]][[H6440G\|פָּנֶ֑י]][[H9021\|ךָ]] [[H9002\|וּ]][[H6435\|פֶן]][[H9014\|־]] [[H1875\|תִּדְרֹ֨שׁ]] [[H9005\|לֵֽ]][[H0430\|אלֹהֵי]][[H9028\|הֶ֜ם]] [[H9005\|לֵ]][[H0559\|אמֹ֨ר]] [[H0349B\|אֵיכָ֨ה]] [[H5647H\|יַעַבְד֜וּ]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֤ם]] [[H9009\|הָ]][[H0428\|אֵ֙לֶּה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹ֣הֵי]][[H9028\|הֶ֔ם]] [[H9002\|וְ]][[H6213A\|אֶעֱשֶׂה]][[H9014\|־]] [[H3651C\|כֵּ֖ן]] [[H1571\|גַּם]][[H9014\|־]] [[H0589\|אָֽנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic JUDGMENTS|JUDGMENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.29|<< Deuteronomy 12:29]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.31|Deuteronomy 12:31 >>]]</td></tr></table>
 

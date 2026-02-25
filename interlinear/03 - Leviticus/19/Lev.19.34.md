@@ -1,8 +1,74 @@
+---
+title: Leviticus 19:34
+type: Verse
+kjv: "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the LORD your God."
+bsb: "You must treat the foreigner living among you as native-born and love him as yourself, for you were foreigners in the land of Egypt. I am the LORD your God."
+hebrew: "כְּאֶזְרָ֣ח מִכֶּם֩ יִהְיֶ֨ה לָכֶ֜ם הַגֵּ֣ר׀ הַגָּ֣ר אִתְּכֶ֗ם וְאָהַבְתָּ֥ לוֹ֙ כָּמ֔וֹךָ כִּֽי־ גֵרִ֥ים הֱיִיתֶ֖ם בְּאֶ֣רֶץ מִצְרָ֑יִם אֲנִ֖י יְהוָ֥ה אֱלֹהֵיכֶֽם׃"
+pericope: "[[Lev.19.19 Keep My Statutes|Keep My Statutes]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 19
+book/chapter: "[[Lev.19|Leviticus 19]]"
+chronological_order: 151
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ALIENS|ALIENS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic KINDNESS|KINDNESS]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[H9004]]"
+- "[[H0249]]"
+- "[[H9006]]"
+- "[[H9036]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9009]]"
+- "[[H1616]]"
+- "[[H9015]]"
+- "[[H1481A]]"
+- "[[H0854]]"
+- "[[H9001]]"
+- "[[H0157G]]"
+- "[[H9033]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 19:34**<big><big>[[Lev.19.19 Keep My Statutes|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [But] the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I [am] the LORD your God.
 <small><sub>**BSB:**</sub></small>
 You must treat the foreigner living among you as native-born and love him as yourself, for you were foreigners in the land of Egypt. I am the LORD your God.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כְּ]][[H0249\|אֶזְרָ֣ח]] [[H9006\|מִ]][[H9036\|כֶּם֩]] [[H1961\|יִהְיֶ֨ה]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H9009\|הַ]][[H1616\|גֵּ֣ר]][[H9015\|׀]] [[H9009\|הַ]][[H1481A\|גָּ֣ר]] [[H0854\|אִתְּ]][[H9036\|כֶ֗ם]] [[H9001\|וְ]][[H0157G\|אָהַבְתָּ֥]] [[H9005\|ל]][[H9033\|וֹ֙]] [[H3644G\|כָּמ֔וֹ]][[H9031\|ךָ]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1616\|גֵרִ֥ים]] [[H1961\|הֱיִיתֶ֖ם]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H0589\|אֲנִ֖י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALIENS|ALIENS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic KINDNESS|KINDNESS]] • [[topic LOVE|LOVE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.19.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.19.33|<< Leviticus 19:33]]</td><td align="center" style="border:none;">[[Lev.19|Leviticus 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.19.35|Leviticus 19:35 >>]]</td></tr></table>
 

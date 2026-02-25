@@ -1,10 +1,68 @@
+---
+title: Matthew 13:21
+type: Verse
+kjv: "Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended."
+bsb: "But since he has no root, he remains for only a season. When trouble or persecution comes because of the word, he quickly falls away."
+jesus_said: "Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended."
+greek: "οὐκ ἔχει δὲ ῥίζαν ἐν ἑαυτῷ ἀλλὰ πρόσκαιρός ἐστιν. γενομένης δὲ θλίψεως ἢ διωγμοῦ διὰ τὸν λόγον εὐθὺς σκανδαλίζεται."
+pericope: "[[Matt.13.18 The Parable of the Sower Explained|The Parable of the Sower Explained]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic APOSTASY|APOSTASY]]"
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic HEARERS|HEARERS]]"
+- "[[topic INSTABILITY|INSTABILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G3756]]"
+- "[[G2192]]"
+- "[[G1161]]"
+- "[[G4491]]"
+- "[[G1722]]"
+- "[[G1438]]"
+- "[[G0235]]"
+- "[[G4340]]"
+- "[[G1510]]"
+- "[[G1096]]"
+- "[[G2347]]"
+- "[[G2228]]"
+- "[[G1375]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G2112]]"
+- "[[G4624]]"
+texts:
+- NKO
+---
+
 **Matthew 13:21**<big><big>[[Matt.13.18 The Parable of the Sower Explained|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yet hath he not root in himself, but dureth for a while: for when tribulation or persecution ariseth because of the word, by and by he is offended.
 <small><sub>**BSB:**</sub></small>
 But since he has no root, he remains for only a season. When trouble or persecution comes because of the word, he quickly falls away.
-<small><sub>**Literal:**</sub></small>
-no he has now root in himself but temporary is. when is coming however tribulation or persecution on account of the word immediately he falls away.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.20|<< Matthew 13:20]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.22|Matthew 13:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐκ]]  [[G2192\|ἔχει]]  [[G1161\|δὲ]]  [[G4491\|ῥίζαν]]  [[G1722\|ἐν]]  [[G1438\|ἑαυτῷ]]  [[G0235\|ἀλλὰ]]  [[G4340\|πρόσκαιρός]]  [[G1510\|ἐστιν.]]  [[G1096\|γενομένης]]  [[G1161\|δὲ]]  [[G2347\|θλίψεως]]  [[G2228\|ἢ]]  [[G1375\|διωγμοῦ]]  [[G1223\|διὰ]]  [[G3588\|τὸν]]  [[G3056\|λόγον]]  [[G2112\|εὐθὺς]]  [[G4624\|σκανδαλίζεται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic APOSTASY|APOSTASY]] • [[topic CHARACTER|CHARACTER]] • [[topic CONVERTS|CONVERTS]] • [[topic FAITH|FAITH]] • [[topic HEARERS|HEARERS]] • [[topic INSTABILITY|INSTABILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SERMON|SERMON]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.20|<< Matthew 13:20]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.22|Matthew 13:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

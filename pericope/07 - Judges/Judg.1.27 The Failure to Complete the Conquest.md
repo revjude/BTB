@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Failure to Complete the Conquest
+type: Pericope
 pericope: "[[Judg.1.27 The Failure to Complete the Conquest|The Failure to Complete the Conquest]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Judges
 chapter: 1
 book/chapter: "[[Judg.1|Judges 1]]"
-genre:
+chronological_order: 255
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - cyclical narrative
+verse_count: 10
 verses:
 - "[[Judg.1.27]]"
 - "[[Judg.1.28]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Judg.1.36]]"
 ---
 
-[[Judg.1|Judges 1:27 - Judges 1:36]]
+<small>[[Judg.1|Judges 1:27-36]]</small>
 *The Failure to Complete the Conquest*
 
 [[Judg.1.27|27]] Neither did Manasseh drive out \[the inhabitants of\] Bethshean and her towns, nor Taanach and her towns, nor the inhabitants of Dor and her towns, nor the inhabitants of Ibleam and her towns, nor the inhabitants of Megiddo and her towns: but the Canaanites would dwell in that land.

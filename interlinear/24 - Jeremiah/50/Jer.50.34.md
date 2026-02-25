@@ -1,8 +1,66 @@
+---
+title: Jeremiah 50:34
+type: Verse
+kjv: "Their Redeemer is strong; the LORD of hosts is his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon."
+bsb: "Their Redeemer is strong; the LORD of Hosts is His name. He will fervently plead their case so that He may bring rest to the earth, but turmoil to those who live in Babylon."
+hebrew: "גֹּאֲלָ֣ם׀ חָזָ֗ק יְהוָ֤ה צְבָאוֹת֙ שְׁמ֔וֹ רִ֥יב יָרִ֖יב אֶת־ רִיבָ֑ם לְמַ֙עַן֙ הִרְגִּ֣יעַ אֶת־ הָאָ֔רֶץ וְהִרְגִּ֖יז לְיֹשְׁבֵ֥י בָבֶֽל׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic NATION|NATION]]"
+- "[[topic OPPRESSION|OPPRESSION]]"
+strongs:
+- "[[H1350A]]"
+- "[[H9028]]"
+- "[[H9015]]"
+- "[[H2389]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H7378]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7379]]"
+- "[[H4616]]"
+- "[[H7280B]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H7264]]"
+- "[[H9005]]"
+- "[[H3427]]"
+- "[[H0894]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:34**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Their Redeemer [is] strong; the LORD of hosts [is] his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon.
 <small><sub>**BSB:**</sub></small>
 Their Redeemer is strong; the LORD of Hosts is His name. He will fervently plead their case so that He may bring rest to the earth, but turmoil to those who live in Babylon.
+<small><sub>**Hebrew:**</sub></small>
+[[H1350A\|גֹּאֲלָ֣]][[H9028\|ם]][[H9015\|׀]] [[H2389\|חָזָ֗ק]] [[H3068G\|יְהוָ֤ה]] [[H6635B\|צְבָאוֹת֙]] [[H8034\|שְׁמ֔]][[H9023\|וֹ]] [[H7378\|רִ֥יב]] [[H7378\|יָרִ֖יב]] [[H0853\|אֶת]][[H9014\|־]] [[H7379\|רִיבָ֑]][[H9028\|ם]] [[H4616\|לְמַ֙עַן֙]] [[H7280B\|הִרְגִּ֣יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H7264\|הִרְגִּ֖יז]] [[H9005\|לְ]][[H3427\|יֹשְׁבֵ֥י]] [[H0894\|בָבֶֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic NATION|NATION]] • [[topic OPPRESSION|OPPRESSION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.33|<< Jeremiah 50:33]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.35|Jeremiah 50:35 >>]]</td></tr></table>
 

@@ -1,8 +1,63 @@
+---
+title: Jeremiah 27:19
+type: Verse
+kjv: "For thus saith the LORD of hosts concerning the pillars, and concerning the sea, and concerning the bases, and concerning the residue of the vessels that remain in this city,"
+bsb: "For this is what the LORD of Hosts says about the pillars, the sea, the bases, and the rest of the articles that remain in this city,"
+hebrew: "כִּ֣י כֹ֤ה אָמַר֙ יְהוָ֣ה צְבָא֔וֹת אֶל־ הָֽעַמֻּדִ֔ים וְעַל־ הַיָּ֖ם וְעַל־ הַמְּכֹנ֑וֹת וְעַל֙ יֶ֣תֶר הַכֵּלִ֔ים הַנּוֹתָרִ֖ים בָּעִ֥יר הַזֹּֽאת׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic TEMPLE|TEMPLE]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5982G]]"
+- "[[H9002]]"
+- "[[H5921A]]"
+- "[[H3220G]]"
+- "[[H4350]]"
+- "[[H3499A]]"
+- "[[H3627]]"
+- "[[H3498]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:19**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thus saith the LORD of hosts concerning the pillars, and concerning the sea, and concerning the bases, and concerning the residue of the vessels that remain in this city,
 <small><sub>**BSB:**</sub></small>
 For this is what the LORD of Hosts says about the pillars, the sea, the bases, and the rest of the articles that remain in this city,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3541\|כֹ֤ה]] [[H0559\|אָמַר֙]] [[H3068G\|יְהוָ֣ה]] [[H6635B\|צְבָא֔וֹת]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָֽ]][[H5982G\|עַמֻּדִ֔ים]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֖ם]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4350\|מְּכֹנ֑וֹת]] [[H9002\|וְ]][[H5921A\|עַל֙]] [[H3499A\|יֶ֣תֶר]] [[H9009\|הַ]][[H3627\|כֵּלִ֔ים]] [[H9009\|הַ]][[H3498\|נּוֹתָרִ֖ים]] [[H9003\|בָּ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּֽאת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic TEMPLE|TEMPLE]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.18|<< Jeremiah 27:18]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.20|Jeremiah 27:20 >>]]</td></tr></table>
 

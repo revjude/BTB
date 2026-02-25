@@ -1,10 +1,59 @@
+---
+title: John 7:19
+type: Verse
+kjv: "Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?"
+bsb: "Has not Moses given you the law? Yet not one of you keeps it. Why are you trying to kill Me?”"
+jesus_said: "Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?"
+greek: "οὐ Μωϋσῆς δέδωκεν ὑμῖν τὸν νόμον; καὶ οὐδεὶς ἐξ ὑμῶν ποιεῖ τὸν νόμον· τί με ζητεῖτε ἀποκτεῖναι;"
+pericope: "[[John.7.1 Jesus Teaches at the Feast|Jesus Teaches at the Feast]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 7
+book/chapter: "[[John.7|John 7]]"
+chronological_order: 981
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3756]]"
+- "[[G3475]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G3551]]"
+- "[[G2532]]"
+- "[[G3762]]"
+- "[[G1537]]"
+- "[[G4160G]]"
+- "[[G5101]]"
+- "[[G3165]]"
+- "[[G2212]]"
+- "[[G0615]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **John 7:19**<big><big>[[John.7.1 Jesus Teaches at the Feast|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Did not Moses give you the law, and [yet] none of you keepeth the law? Why go ye about to kill me?
 <small><sub>**BSB:**</sub></small>
 Has not Moses given you the law? Yet not one of you keeps it. Why are you trying to kill Me?”
-<small><sub>**Literal:**</sub></small>
-Not Moses has given to you the law? and no [one] of you keeps the law! Why Me do you seek to kill?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.18|<< John 7:18]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.20|John 7:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G3475\|Μωϋσῆς]]  [[G1325\|δέδωκεν]]  [[G4771\|ὑμῖν]]  [[G3588\|τὸν]]  [[G3551\|νόμον;]]  [[G2532\|καὶ]]  [[G3762\|οὐδεὶς]]  [[G1537\|ἐξ]]  [[G4771\|ὑμῶν]]  [[G4160G\|ποιεῖ]]  [[G3588\|τὸν]]  [[G3551\|νόμον·]]  [[G5101\|τί]]  [[G3165\|με]]  [[G2212\|ζητεῖτε]]  [[G0615\|ἀποκτεῖναι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.7.18|<< John 7:18]]</td><td align="center" style="border:none;">[[John.7|John 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.7.20|John 7:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

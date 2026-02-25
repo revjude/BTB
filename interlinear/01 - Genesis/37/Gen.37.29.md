@@ -1,8 +1,67 @@
+---
+title: Genesis 37:29
+type: Verse
+kjv: "And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes."
+bsb: "When Reuben returned to the pit and saw that Joseph was not there, he tore his clothes,"
+hebrew: "וַיָּ֤שָׁב רְאוּבֵן֙ אֶל־ הַבּ֔וֹר וְהִנֵּ֥ה אֵין־ יוֹסֵ֖ף בַּבּ֑וֹר וַיִּקְרַ֖ע אֶת־ בְּגָדָֽיו׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MOURNING|MOURNING]]"
+- "[[topic RENDING|RENDING]]"
+- "[[topic REUBEN|REUBEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H7205]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0953A]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H3130G]]"
+- "[[H9003]]"
+- "[[H7167]]"
+- "[[H0853]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:29**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Reuben returned unto the pit; and, behold, Joseph [was] not in the pit; and he rent his clothes.
 <small><sub>**BSB:**</sub></small>
 When Reuben returned to the pit and saw that Joseph was not there, he tore his clothes,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֤שָׁב]] [[H7205\|רְאוּבֵן֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H0953A\|בּ֔וֹר]] [[H9002\|וְ]][[H2009\|הִנֵּ֥ה]] [[H0369\|אֵין]][[H9014\|־]] [[H3130G\|יוֹסֵ֖ף]] [[H9003\|בַּ]][[H0953A\|בּ֑וֹר]] [[H9001\|וַ]][[H7167\|יִּקְרַ֖ע]] [[H0853\|אֶת]][[H9014\|־]] [[H0899B\|בְּגָדָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECEPTION|DECEPTION]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JOSEPH|JOSEPH]] • [[topic MOURNING|MOURNING]] • [[topic RENDING|RENDING]] • [[topic REUBEN|REUBEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.28|<< Genesis 37:28]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.30|Genesis 37:30 >>]]</td></tr></table>
 

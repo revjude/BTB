@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Lesson of the Lamp
+type: Pericope
 pericope: "[[Mark.4.21 The Lesson of the Lamp|The Lesson of the Lamp]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Mark
 chapter: 4
 book/chapter: "[[Mark.4|Mark 4]]"
-genre:
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 5
 verses:
 - "[[Mark.4.21]]"
 - "[[Mark.4.22]]"
@@ -23,7 +30,7 @@ verses:
 - "[[Mark.4.25]]"
 ---
 
-[[Mark.4|Mark 4:21 - Mark 4:25]]
+<small>[[Mark.4|Mark 4:21-25]]</small>
 *The Lesson of the Lamp*
 
 [[Mark.4.21|21]] And he said unto them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?

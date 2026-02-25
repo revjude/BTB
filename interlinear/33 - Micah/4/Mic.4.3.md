@@ -1,8 +1,78 @@
+---
+title: Micah 4:3
+type: Verse
+kjv: "And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more."
+bsb: "Then He will judge between many peoples and arbitrate for strong nations far and wide. Then they will beat their swords into plowshares and their spears into pruning hooks. Nation will no longer take up the sword against nation, nor will they train anymore for war."
+hebrew: "וְשָׁפַ֗ט בֵּ֚ין עַמִּ֣ים רַבִּ֔ים וְהוֹכִ֛יחַ לְגוֹיִ֥ם עֲצֻמִ֖ים עַד־ רָח֑וֹק וְכִתְּת֨וּ חַרְבֹתֵיהֶ֜ם לְאִתִּ֗ים וַחֲנִיתֹֽתֵיהֶם֙ לְמַזְמֵר֔וֹת לֹֽא־ יִשְׂא֞וּ גּ֤וֹי אֶל־ גּוֹי֙ חֶ֔רֶב וְלֹא־ יִלְמְד֥וּן ע֖וֹד מִלְחָמָֽה׃"
+pericope: "[[Mic.4.1 The Mountain of the House of the LORD|The Mountain of the House of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Micah
+chapter: 4
+book/chapter: "[[Mic.4|Micah 4]]"
+chronological_order: 626
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic NATION|NATION]]"
+- "[[topic PLOWSHARE|PLOWSHARE]]"
+- "[[topic PRUNING|PRUNING]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SPEAR|SPEAR]]"
+- "[[topic SWORD|SWORD]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H8199]]"
+- "[[H0996G]]"
+- "[[H5971A]]"
+- "[[H7227A]]"
+- "[[H3198]]"
+- "[[H9005]]"
+- "[[H1471A]]"
+- "[[H6099]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H7350]]"
+- "[[H3807]]"
+- "[[H2719]]"
+- "[[H9028]]"
+- "[[H0855]]"
+- "[[H9002]]"
+- "[[H2595]]"
+- "[[H4211]]"
+- "[[H3808]]"
+- "[[H5375R]]"
+- "[[H0413]]"
+- "[[H3925H]]"
+- "[[H9013]]"
+- "[[H5750]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Micah 4:3**<big><big>[[Mic.4.1 The Mountain of the House of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.
 <small><sub>**BSB:**</sub></small>
 Then He will judge between many peoples and arbitrate for strong nations far and wide. Then they will beat their swords into plowshares and their spears into pruning hooks. Nation will no longer take up the sword against nation, nor will they train anymore for war.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8199\|שָׁפַ֗ט]] [[H0996G\|בֵּ֚ין]] [[H5971A\|עַמִּ֣ים]] [[H7227A\|רַבִּ֔ים]] [[H9001\|וְ]][[H3198\|הוֹכִ֛יחַ]] [[H9005\|לְ]][[H1471A\|גוֹיִ֥ם]] [[H6099\|עֲצֻמִ֖ים]] [[H5704\|עַד]][[H9014\|־]] [[H7350\|רָח֑וֹק]] [[H9001\|וְ]][[H3807\|כִתְּת֨וּ]] [[H2719\|חַרְבֹתֵי]][[H9028\|הֶ֜ם]] [[H9005\|לְ]][[H0855\|אִתִּ֗ים]] [[H9002\|וַ]][[H2595\|חֲנִיתֹֽתֵי]][[H9028\|הֶם֙]] [[H9005\|לְ]][[H4211\|מַזְמֵר֔וֹת]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5375R\|יִשְׂא֞וּ]] [[H1471A\|גּ֤וֹי]] [[H0413\|אֶל]][[H9014\|־]] [[H1471A\|גּוֹי֙]] [[H2719\|חֶ֔רֶב]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H3925H\|יִלְמְד֥וּ]][[H9013\|ן]] [[H5750\|ע֖וֹד]] [[H4421\|מִלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic NATION|NATION]] • [[topic PLOWSHARE|PLOWSHARE]] • [[topic PRUNING|PRUNING]] • [[topic REVIVALS|REVIVALS]] • [[topic SPEAR|SPEAR]] • [[topic SWORD|SWORD]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Mic.4.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mic.4.2|<< Micah 4:2]]</td><td align="center" style="border:none;">[[Mic.4|Micah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mic.4.4|Micah 4:4 >>]]</td></tr></table>
 

@@ -1,10 +1,65 @@
+---
+title: Mark 14:9
+type: Verse
+kjv: "Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her."
+bsb: "And truly I tell you, wherever the gospel is preached in all the world, what she has done will also be told in memory of her.”"
+jesus_said: "Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her."
+greek: "ἀμὴν δὲ λέγω ὑμῖν· ὅπου ἐὰν κηρυχθῇ τὸ εὐαγγέλιον τοῦτο εἰς ὅλον τὸν κόσμον, καὶ ὃ ἐποίησεν αὕτη λαληθήσεται εἰς μνημόσυνον αὐτῆς.¶"
+pericope: "[[Mark.14.3 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 14
+book/chapter: "[[Mark.14|Mark 14]]"
+chronological_order: 1007
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MARY|MARY]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G0281]]"
+- "[[G1161]]"
+- "[[G3004G]]"
+- "[[G4771]]"
+- "[[G3699]]"
+- "[[G1437]]"
+- "[[G2784]]"
+- "[[G3588]]"
+- "[[G2098]]"
+- "[[G3778]]"
+- "[[G1519]]"
+- "[[G3650]]"
+- "[[G2889]]"
+- "[[G2532]]"
+- "[[G3739]]"
+- "[[G4160G]]"
+- "[[G2980]]"
+- "[[G3422]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- N(k)O
+- k
+---
+
 **Mark 14:9**<big><big>[[Mark.14.3 Jesus Anointed at Bethany|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, [this] also that she hath done shall be spoken of for a memorial of her.
 <small><sub>**BSB:**</sub></small>
 And truly I tell you, wherever the gospel is preached in all the world, what she has done will also be told in memory of her.”
-<small><sub>**Literal:**</sub></small>
-Amen now I say to you; wherever maybe shall be proclaimed <the> gospel this in whole the world, also what has done this [woman] will be spoken of for a memorial of her.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.8|<< Mark 14:8]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.10|Mark 14:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0281\|ἀμὴν]]  [[G1161\|δὲ]]  [[G3004G\|λέγω]]  [[G4771\|ὑμῖν·]]  [[G3699\|ὅπου]]  [[G1437\|ἐὰν]]  [[G2784\|κηρυχθῇ]]  [[G3588\|τὸ]]  [[G2098\|εὐαγγέλιον]]  [[G3778\|τοῦτο]]  [[G1519\|εἰς]]  [[G3650\|ὅλον]]  [[G3588\|τὸν]]  [[G2889\|κόσμον,]]  [[G2532\|καὶ]]  [[G3739\|ὃ]]  [[G4160G\|ἐποίησεν]]  [[G3778\|αὕτη]]  [[G2980\|λαληθήσεται]]  [[G1519\|εἰς]]  [[G3422\|μνημόσυνον]]  [[G0846\|αὐτῆς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MARY|MARY]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.8|<< Mark 14:8]]</td><td align="center" style="border:none;">[[Mark.14|Mark 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.14.10|Mark 14:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

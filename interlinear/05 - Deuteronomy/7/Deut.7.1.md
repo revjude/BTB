@@ -1,8 +1,86 @@
+---
+title: Deuteronomy 7:1
+type: Verse
+kjv: "When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;"
+bsb: "When the LORD your God brings you into the land that you are entering to possess, and He drives out before you many nations—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations larger and stronger than you—"
+hebrew: "כִּ֤י יְבִֽיאֲךָ֙ יְהוָ֣ה אֱלֹהֶ֔יךָ אֶל־ הָאָ֕רֶץ אֲשֶׁר־ אַתָּ֥ה בָא־ שָׁ֖מָּה לְרִשְׁתָּ֑הּ וְנָשַׁ֣ל גּֽוֹיִם־ רַבִּ֣ים׀ מִפָּנֶ֡יךָ הַֽחִתִּי֩ וְהַגִּרְגָּשִׁ֨י וְהָאֱמֹרִ֜י וְהַכְּנַעֲנִ֣י וְהַפְּרִזִּ֗י וְהַֽחִוִּי֙ וְהַיְבוּסִ֔י שִׁבְעָ֣ה גוֹיִ֔ם רַבִּ֥ים וַעֲצוּמִ֖ים מִמֶּֽךָּ׃"
+pericope: "[[Deut.7.1 Drive Out the Nations|Drive Out the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 7
+book/chapter: "[[Deut.7|Deuteronomy 7]]"
+chronological_order: 203
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic AMORITES|AMORITES]]"
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic GIRGASHITES|GIRGASHITES]]"
+- "[[topic HITTITES|HITTITES]]"
+- "[[topic JEBUSITES|JEBUSITES]]"
+strongs:
+- "[[H3588A]]"
+- "[[H0935P]]"
+- "[[H9031]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H0859A]]"
+- "[[H0935G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H9005]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H5394]]"
+- "[[H1471A]]"
+- "[[H7227A]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H2850]]"
+- "[[H9002]]"
+- "[[H1622]]"
+- "[[H0567]]"
+- "[[H3669A]]"
+- "[[H6522]]"
+- "[[H2340]]"
+- "[[H2983G]]"
+- "[[H7651]]"
+- "[[H6099]]"
+- "[[H4480A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 7:1**<big><big>[[Deut.7.1 Drive Out the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;
 <small><sub>**BSB:**</sub></small>
 When the LORD your God brings you into the land that you are entering to possess, and He drives out before you many nations—the Hittites, Girgashites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites, seven nations larger and stronger than you—
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]] [[H0935P\|יְבִֽיאֲ]][[H9031\|ךָ֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֕רֶץ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0859A\|אַתָּ֥ה]] [[H0935G\|בָא]][[H9014\|־]] [[H8033G\|שָׁ֖מָּ]][[H9011\|ה]] [[H9005\|לְ]][[H3423H\|רִשְׁתָּ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H5394\|נָשַׁ֣ל]] [[H1471A\|גּֽוֹיִם]][[H9014\|־]] [[H7227A\|רַבִּ֣ים]][[H9015\|׀]] [[H9006\|מִ]][[H6440G\|פָּנֶ֡י]][[H9021\|ךָ]] [[H9009\|הַֽ]][[H2850\|חִתִּי֩]] [[H9002\|וְ]][[H9009\|הַ]][[H1622\|גִּרְגָּשִׁ֨י]] [[H9002\|וְ]][[H9009\|הָ]][[H0567\|אֱמֹרִ֜י]] [[H9002\|וְ]][[H9009\|הַ]][[H3669A\|כְּנַעֲנִ֣י]] [[H9002\|וְ]][[H9009\|הַ]][[H6522\|פְּרִזִּ֗י]] [[H9002\|וְ]][[H9009\|הַֽ]][[H2340\|חִוִּי֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2983G\|יְבוּסִ֔י]] [[H7651\|שִׁבְעָ֣ה]] [[H1471A\|גוֹיִ֔ם]] [[H7227A\|רַבִּ֥ים]] [[H9002\|וַ]][[H6099\|עֲצוּמִ֖ים]] [[H4480A\|מִמֶּֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMORITES|AMORITES]] • [[topic CANAANITES|CANAANITES]] • [[topic GIRGASHITES|GIRGASHITES]] • [[topic HITTITES|HITTITES]] • [[topic JEBUSITES|JEBUSITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.7.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.6.25|<< Deuteronomy 6:25]]</td><td align="center" style="border:none;">[[Deut.7|Deuteronomy 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.7.2|Deuteronomy 7:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

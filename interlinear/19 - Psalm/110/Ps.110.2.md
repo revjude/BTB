@@ -1,8 +1,57 @@
+---
+title: Psalm 110:2
+type: Verse
+kjv: "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
+bsb: "The LORD extends Your mighty scepter from Zion: “Rule in the midst of Your enemies.”"
+hebrew: "מַטֵּֽה־ עֻזְּךָ֗ יִשְׁלַ֣ח יְ֭הוָה מִצִּיּ֑וֹן רְ֝דֵ֗ה בְּקֶ֣רֶב אֹיְבֶֽיךָ׃"
+pericope: "[[Ps.110.1 God’s Faithful Messiah|God’s Faithful Messiah]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 110
+book/chapter: "[[Ps.110|Psalm 110]]"
+chronological_order: 384
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H4294G]]"
+- "[[H9014]]"
+- "[[H5797]]"
+- "[[H9021]]"
+- "[[H7971G]]"
+- "[[H3068G]]"
+- "[[H9006]]"
+- "[[H6726]]"
+- "[[H7287A]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H0341]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 110:2**<big><big>[[Ps.110.1 God’s Faithful Messiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
 <small><sub>**BSB:**</sub></small>
 The LORD extends Your mighty scepter from Zion: “Rule in the midst of Your enemies.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4294G\|מַטֵּֽה]][[H9014\|־]] [[H5797\|עֻזְּ]][[H9021\|ךָ֗]] [[H7971G\|יִשְׁלַ֣ח]] [[H3068G\|יְ֭הוָה]] [[H9006\|מִ]][[H6726\|צִּיּ֑וֹן]] [[H7287A\|רְ֝דֵ֗ה]] [[H9003\|בְּ]][[H7130G\|קֶ֣רֶב]] [[H0341\|אֹיְבֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.110.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.110.1|<< Psalms 110:1]]</td><td align="center" style="border:none;">[[Ps.110|Psalms 110]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.110.3|Psalms 110:3 >>]]</td></tr></table>
 

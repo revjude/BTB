@@ -1,10 +1,53 @@
+---
+title: Acts 10:18
+type: Verse
+kjv: "And called, and asked whether Simon, which was surnamed Peter, were lodged there."
+bsb: "They called out to ask if Simon called Peter was staying there."
+greek: "καὶ φωνήσαντες ἐπυνθάνοντο εἰ Σίμων ὁ ἐπικαλούμενος Πέτρος ἐνθάδε ξενίζεται.¶"
+pericope: "[[Acts.10.17 Peter Called to Caesarea|Peter Called to Caesarea]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 10
+book/chapter: "[[Acts.10|Acts 10]]"
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CATHOLICITY|CATHOLICITY]]"
+- "[[topic JOPPA|JOPPA]]"
+- "[[topic MISSIONS|MISSIONS]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G5455]]"
+- "[[G4441]]"
+- "[[G1487G]]"
+- "[[G4613O]]"
+- "[[G3588]]"
+- "[[G1941]]"
+- "[[G4074G]]"
+- "[[G1759]]"
+- "[[G3579]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **Acts 10:18**<big><big>[[Acts.10.17 Peter Called to Caesarea|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And called, and asked whether Simon, which was surnamed Peter, were lodged there.
 <small><sub>**BSB:**</sub></small>
 They called out to ask if Simon called Peter was staying there.
-<small><sub>**Literal:**</sub></small>
-And having called out they were asking if Simon who is being called Peter here is lodged.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.17|<< Acts 10:17]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.19|Acts 10:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G5455\|φωνήσαντες]]  [[G4441\|ἐπυνθάνοντο]]  [[G1487G\|εἰ]]  [[G4613O\|Σίμων]]  [[G3588\|ὁ]]  [[G1941\|ἐπικαλούμενος]]  [[G4074G\|Πέτρος]]  [[G1759\|ἐνθάδε]]  [[G3579\|ξενίζεται.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CATHOLICITY|CATHOLICITY]] • [[topic JOPPA|JOPPA]] • [[topic MISSIONS|MISSIONS]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.10.17|<< Acts 10:17]]</td><td align="center" style="border:none;">[[Acts.10|Acts 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.10.19|Acts 10:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

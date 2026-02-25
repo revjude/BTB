@@ -1,8 +1,63 @@
+---
+title: Ezekiel 18:28
+type: Verse
+kjv: "Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die."
+bsb: "Because he considered and turned from all the transgressions he had committed, he will surely live; he will not die."
+hebrew: "וַיִּרְאֶ֣ה וַיָּ֔שָׁב מִכָּל־ פְּשָׁעָ֖יו אֲשֶׁ֣ר עָשָׂ֑ה חָי֥וֹ יִחְיֶ֖ה לֹ֥א יָמֽוּת׃"
+pericope: "[[Ezek.18.1 The Soul Who Sins Will Die|The Soul Who Sins Will Die]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 18
+book/chapter: "[[Ezek.18|Ezekiel 18]]"
+chronological_order: 809
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200H]]"
+- "[[H7725O]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H6588]]"
+- "[[H9023]]"
+- "[[H0834A]]"
+- "[[H6213H]]"
+- "[[H2421]]"
+- "[[H3808]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Ezekiel 18:28**<big><big>[[Ezek.18.1 The Soul Who Sins Will Die|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because he considereth, and turneth away from all his transgressions that he hath committed, he shall surely live, he shall not die.
 <small><sub>**BSB:**</sub></small>
 Because he considered and turned from all the transgressions he had committed, he will surely live; he will not die.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200H\|יִּרְאֶ֣ה]] [[H9001\|וַ]][[H7725O\|יָּ֔שָׁב]] [[H9006\|מִ]][[H3605\|כָּל]][[H9014\|־]] [[H6588\|פְּשָׁעָ֖י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213H\|עָשָׂ֑ה]] [[H2421\|חָי֥וֹ]] [[H2421\|יִחְיֶ֖ה]] [[H3808\|לֹ֥א]] [[H4191\|יָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic JUDGMENT|JUDGMENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.18.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.18.27|<< Ezekiel 18:27]]</td><td align="center" style="border:none;">[[Ezek.18|Ezekiel 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.18.29|Ezekiel 18:29 >>]]</td></tr></table>
 

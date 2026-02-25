@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Thanksgiving and Prayer
+type: Pericope
 pericope: "[[Phil.1.3 Thanksgiving and Prayer|Thanksgiving and Prayer]]"
-verse_count: 9
+original_language: Greek
 testament: New
 book: Philippians
 chapter: 1
 book/chapter: "[[Phil.1|Philippians 1]]"
-genre:
+chronological_order: 1117
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
 - epistle
 - pauline epistle
 - prison epistle
 - pastoral letter
+verse_count: 9
 verses:
 - "[[Phil.1.3]]"
 - "[[Phil.1.4]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Phil.1.11]]"
 ---
 
-[[Phil.1|Philippians 1:3 - Philippians 1:11]]
+<small>[[Phil.1|Philippians 1:3-11]]</small>
 *Thanksgiving and Prayer*
 
 [[Phil.1.3|3]] I thank my God upon every remembrance of you,

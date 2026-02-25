@@ -1,10 +1,62 @@
+---
+title: Luke 5:34
+type: Verse
+kjv: "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?"
+bsb: "Jesus replied, “Can you make the guests of the bridegroom fast while He is with them?"
+jesus_said: "Can ye make the children of the bridechamber fast, while the bridegroom is with them?"
+greek: "Ὁ δὲ Ἰησοῦς εἶπεν πρὸς αὐτούς· μὴ δύνασθε τοὺς υἱοὺς τοῦ νυμφῶνος ἐν ᾧ ὁ νυμφίος μετ᾽ αὐτῶν ἐστιν, ποιῆσαι νηστεῦσαι;"
+pericope: "[[Luke.5.33 Questions about Fasting|Questions about Fasting]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 5
+book/chapter: "[[Luke.5|Luke 5]]"
+chronological_order: 946
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BRIDEGROOM|BRIDEGROOM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G4314]]"
+- "[[G0846]]"
+- "[[G3361]]"
+- "[[G1410]]"
+- "[[G5207]]"
+- "[[G3567]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G3566]]"
+- "[[G3326]]"
+- "[[G1510]]"
+- "[[G4160G]]"
+- "[[G3522]]"
+texts:
+- NKO
+- no
+- N(k)O
+---
+
 **Luke 5:34**<big><big>[[Luke.5.33 Questions about Fasting|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Can you make the guests of the bridegroom fast while He is with them?
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said to them; Not are you able the sons of the bridechamber in which [time] the bridegroom with them is, to make to fast?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.33|<< Luke 5:33]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.35|Luke 5:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτούς·]]  [[G3361\|μὴ]]  [[G1410\|δύνασθε]]  [[G3588\|τοὺς]]  [[G5207\|υἱοὺς]]  [[G3588\|τοῦ]]  [[G3567\|νυμφῶνος]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G3588\|ὁ]]  [[G3566\|νυμφίος]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτῶν]]  [[G1510\|ἐστιν,]]  [[G4160G\|ποιῆσαι]]  [[G3522\|νηστεῦσαι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BRIDEGROOM|BRIDEGROOM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.5.33|<< Luke 5:33]]</td><td align="center" style="border:none;">[[Luke.5|Luke 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.5.35|Luke 5:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A House Divided
+type: Pericope
 pericope: "[[Mark.3.20 A House Divided|A House Divided]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Mark
 chapter: 3
 book/chapter: "[[Mark.3|Mark 3]]"
-genre:
+chronological_order: 948
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 8
 verses:
 - "[[Mark.3.20]]"
 - "[[Mark.3.21]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Mark.3.27]]"
 ---
 
-[[Mark.3|Mark 3:20 - Mark 3:27]]
+<small>[[Mark.3|Mark 3:20-27]]</small>
 *A House Divided*
 
 [[Mark.3.20|20]] And the multitude cometh together again, so that they could not so much as eat bread.

@@ -1,8 +1,54 @@
+---
+title: Job 23:15
+type: Verse
+kjv: "Therefore am I troubled at his presence: when I consider, I am afraid of him."
+bsb: "Therefore I am terrified in His presence; when I consider this, I fear Him."
+hebrew: "עַל־ כֵּ֭ן מִפָּנָ֣יו אֶבָּהֵ֑ל אֶ֝תְבּוֹנֵ֗ן וְאֶפְחַ֥ד מִמֶּֽנּוּ׃"
+pericope: "[[Job.23.1 Job Longs for God|Job Longs for God]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 23
+book/chapter: "[[Job.23|Job 23]]"
+chronological_order: 34
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic DOUBTING|DOUBTING]]"
+strongs:
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3651C]]"
+- "[[H9006]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H0926]]"
+- "[[H0995]]"
+- "[[H9002]]"
+- "[[H6342]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 23:15**<big><big>[[Job.23.1 Job Longs for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore am I troubled at his presence: when I consider, I am afraid of him.
 <small><sub>**BSB:**</sub></small>
 Therefore I am terrified in His presence; when I consider this, I fear Him.
+<small><sub>**Hebrew:**</sub></small>
+[[H5921A\|עַל]][[H9014\|־]] [[H3651C\|כֵּ֭ן]] [[H9006\|מִ]][[H6440H\|פָּנָ֣י]][[H9023\|ו]] [[H0926\|אֶבָּהֵ֑ל]] [[H0995\|אֶ֝תְבּוֹנֵ֗ן]] [[H9002\|וְ]][[H6342\|אֶפְחַ֥ד]] [[H4480A\|מִמֶּֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOUBTING|DOUBTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.23.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.23.14|<< Job 23:14]]</td><td align="center" style="border:none;">[[Job.23|Job 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.23.16|Job 23:16 >>]]</td></tr></table>
 

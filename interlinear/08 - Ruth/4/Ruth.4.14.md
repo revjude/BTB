@@ -1,8 +1,64 @@
+---
+title: Ruth 4:14
+type: Verse
+kjv: "And the women said unto Naomi, Blessed be the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel."
+bsb: "Then the women said to Naomi, “Blessed be the LORD, who has not left you this day without a kinsman-redeemer. May his name become famous in Israel."
+hebrew: "וַתֹּאמַ֤רְנָה הַנָּשִׁים֙ אֶֽל־ נָעֳמִ֔י בָּר֣וּךְ יְהוָ֔ה אֲ֠שֶׁר לֹ֣א הִשְׁבִּ֥ית לָ֛ךְ גֹּאֵ֖ל הַיּ֑וֹם וְיִקָּרֵ֥א שְׁמ֖וֹ בְּיִשְׂרָאֵֽל׃"
+pericope: "[[Ruth.4.13 Boaz Marries Ruth|Boaz Marries Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 4
+book/chapter: "[[Ruth.4|Ruth 4]]"
+chronological_order: 279
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic INHERITANCE|INHERITANCE]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H5281]]"
+- "[[H1288]]"
+- "[[H3068G]]"
+- "[[H0834A]]"
+- "[[H3808]]"
+- "[[H7673A]]"
+- "[[H9005]]"
+- "[[H9032]]"
+- "[[H1350A]]"
+- "[[H3117L]]"
+- "[[H9002]]"
+- "[[H7121H]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 4:14**<big><big>[[Ruth.4.13 Boaz Marries Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the women said unto Naomi, Blessed [be] the LORD, which hath not left thee this day without a kinsman, that his name may be famous in Israel.
 <small><sub>**BSB:**</sub></small>
 Then the women said to Naomi, “Blessed be the LORD, who has not left you this day without a kinsman-redeemer. May his name become famous in Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּאמַ֤רְנָה]] [[H9009\|הַ]][[H0802G\|נָּשִׁים֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H5281\|נָעֳמִ֔י]] [[H1288\|בָּר֣וּךְ]] [[H3068G\|יְהוָ֔ה]] [[H0834A\|אֲ֠שֶׁר]] [[H3808\|לֹ֣א]] [[H7673A\|הִשְׁבִּ֥ית]] [[H9005\|לָ֛]][[H9032\|ךְ]] [[H1350A\|גֹּאֵ֖ל]] [[H9009\|הַ]][[H3117L\|יּ֑וֹם]] [[H9002\|וְ]][[H7121H\|יִקָּרֵ֥א]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INHERITANCE|INHERITANCE]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.4.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.4.13|<< Ruth 4:13]]</td><td align="center" style="border:none;">[[Ruth.4|Ruth 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.4.15|Ruth 4:15 >>]]</td></tr></table>
 

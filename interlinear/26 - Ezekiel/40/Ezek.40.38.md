@@ -1,8 +1,53 @@
+---
+title: Ezekiel 40:38
+type: Verse
+kjv: "And the chambers and the entries thereof were by the posts of the gates, where they washed the burnt offering."
+bsb: "There was a chamber with a doorway by the portico in each of the inner gateways. There the burnt offering was to be washed."
+hebrew: "וְלִשְׁכָּ֣ה וּפִתְחָ֔הּ בְּאֵילִ֖ים הַשְּׁעָרִ֑ים שָׁ֖ם יָדִ֥יחוּ אֶת־ הָעֹלָֽה׃"
+pericope: "[[Ezek.40.38 Eight Tables for Sacrifices|Eight Tables for Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9002]]"
+- "[[H3957]]"
+- "[[H6607]]"
+- "[[H9024]]"
+- "[[H9003]]"
+- "[[H0352B]]"
+- "[[H9009]]"
+- "[[H8179G]]"
+- "[[H8033G]]"
+- "[[H1740]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5930A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:38**<big><big>[[Ezek.40.38 Eight Tables for Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the chambers and the entries thereof [were] by the posts of the gates, where they washed the burnt offering.
 <small><sub>**BSB:**</sub></small>
 There was a chamber with a doorway by the portico in each of the inner gateways. There the burnt offering was to be washed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3957\|לִשְׁכָּ֣ה]] [[H9002\|וּ]][[H6607\|פִתְחָ֔]][[H9024\|הּ]] [[H9003\|בְּ]][[H0352B\|אֵילִ֖ים]] [[H9009\|הַ]][[H8179G\|שְּׁעָרִ֑ים]] [[H8033G\|שָׁ֖ם]] [[H1740\|יָדִ֥יחוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H5930A\|עֹלָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.37|<< Ezekiel 40:37]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.39|Ezekiel 40:39 >>]]</td></tr></table>
 

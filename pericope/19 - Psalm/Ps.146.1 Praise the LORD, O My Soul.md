@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Praise the LORD, O My Soul
+type: Pericope
 pericope: "[[Ps.146.1 Praise the LORD, O My Soul|Praise the LORD, O My Soul]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 146
 book/chapter: "[[Ps.146|Psalm 146]]"
-genre:
+chronological_order: 894
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 10
 verses:
 - "[[Ps.146.1]]"
 - "[[Ps.146.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ps.146.10]]"
 ---
 
-[[Ps.146|Psalm 146:1 - Psalm 146:10]]
+<small>[[Ps.146|Psalm 146:1-10]]</small>
 *Praise the LORD, O My Soul*
 
 [[Ps.146.1|1]] Praise ye the LORD. Praise the LORD, O my soul.

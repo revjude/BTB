@@ -1,8 +1,62 @@
+---
+title: Isaiah 57:19
+type: Verse
+kjv: "I create the fruit of the lips; Peace, peace to him that is far off, and to him that is near, saith the LORD; and I will heal him."
+bsb: "bringing praise to their lips. Peace, peace to those far and near,” says the LORD, “and I will heal them.”"
+hebrew: "בּוֹרֵ֖א נִ֣יב שְׂפָתָ֑יִם שָׁל֨וֹם׀ שָׁל֜וֹם לָרָח֧וֹק וְלַקָּר֛וֹב אָמַ֥ר יְהוָ֖ה וּרְפָאתִֽיו׃"
+pericope: "[[Isa.57.14 Healing for the Repentant|Healing for the Repentant]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 57
+book/chapter: "[[Isa.57|Isaiah 57]]"
+chronological_order: 696
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic SALVATION|SALVATION]]"
+strongs:
+- "[[H1254A]]"
+- "[[H5108A]]"
+- "[[H5108B]]"
+- "[[H8193G]]"
+- "[[H7965G]]"
+- "[[H9015]]"
+- "[[H9005]]"
+- "[[H7350]]"
+- "[[H9002]]"
+- "[[H7138]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H9001]]"
+- "[[H7495]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 57:19**<big><big>[[Isa.57.14 Healing for the Repentant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I create the fruit of the lips; Peace, peace to [him that is] far off, and to [him that is] near, saith the LORD; and I will heal him.
 <small><sub>**BSB:**</sub></small>
 bringing praise to their lips. Peace, peace to those far and near,” says the LORD, “and I will heal them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1254A\|בּוֹרֵ֖א]] [[H5108B\|נִ֣יב]] [[H8193G\|שְׂפָתָ֑יִם]] [[H7965G\|שָׁל֨וֹם]][[H9015\|׀]] [[H7965G\|שָׁל֜וֹם]] [[H9005\|לָ]][[H7350\|רָח֧וֹק]] [[H9002\|וְ]][[H9005\|לַ]][[H7138\|קָּר֛וֹב]] [[H0559\|אָמַ֥ר]] [[H3068G\|יְהוָ֖ה]] [[H9001\|וּ]][[H7495\|רְפָאתִֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic PEACE|PEACE]] • [[topic SALVATION|SALVATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.57.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.57.18|<< Isaiah 57:18]]</td><td align="center" style="border:none;">[[Isa.57|Isaiah 57]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.57.20|Isaiah 57:20 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

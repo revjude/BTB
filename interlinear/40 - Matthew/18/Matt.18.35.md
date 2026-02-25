@@ -1,10 +1,71 @@
+---
+title: Matthew 18:35
+type: Verse
+kjv: "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses."
+bsb: "That is how My heavenly Father will treat each of you unless you forgive your brother from your heart.”"
+jesus_said: "So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses."
+greek: "οὕτως καὶ ὁ πατήρ μου ὁ οὐράνιος ποιήσει ὑμῖν ἐὰν μὴ ἀφῆτε ἕκαστος τῷ ἀδελφῷ αὐτοῦ ἀπὸ τῶν καρδιῶν ὑμῶν τὰ παραπτώματα αὐτῶν.¶"
+pericope: "[[Matt.18.21 The Unforgiving Servant|The Unforgiving Servant]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BROTHER|BROTHER]]"
+- "[[topic CHARITABLENESS|CHARITABLENESS]]"
+- "[[topic CREDITOR|CREDITOR]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic HELL|HELL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic MALICE|MALICE]]"
+- "[[topic SIN|SIN]]"
+- "[[topic SINCERITY|SINCERITY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G3779]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G3770]]"
+- "[[G4160G]]"
+- "[[G4771]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G0863H]]"
+- "[[G1538]]"
+- "[[G0080]]"
+- "[[G0846]]"
+- "[[G0575]]"
+- "[[G2588]]"
+- "[[G3900]]"
+texts:
+- NKO
+- N(k)O
+- K
+---
+
 **Matthew 18:35**<big><big>[[Matt.18.21 The Unforgiving Servant|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 So likewise shall my heavenly Father do also unto you, if ye from your hearts forgive not every one his brother their trespasses.
 <small><sub>**BSB:**</sub></small>
 That is how My heavenly Father will treat each of you unless you forgive your brother from your heart.”
-<small><sub>**Literal:**</sub></small>
-Thus also the Father of Mine <the> heavenly will do to you only unless you may forgive each the brother of him from the heart of you the trespasses of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.34|<< Matthew 18:34]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.1|Matthew 19:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3962\|πατήρ]]  [[G3165\|μου]]  [[G3588\|ὁ]]  [[G3770\|οὐράνιος]]  [[G4160G\|ποιήσει]]  [[G4771\|ὑμῖν]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G0863H\|ἀφῆτε]]  [[G1538\|ἕκαστος]]  [[G3588\|τῷ]]  [[G0080\|ἀδελφῷ]]  [[G0846\|αὐτοῦ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G2588\|καρδιῶν]]  [[G4771\|ὑμῶν]]  [[G3588\|τὰ]]  [[G3900\|παραπτώματα]]  [[G0846\|αὐτῶν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BROTHER|BROTHER]] • [[topic CHARITABLENESS|CHARITABLENESS]] • [[topic CREDITOR|CREDITOR]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic FRATERNITY|FRATERNITY]] • [[topic HELL|HELL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic MALICE|MALICE]] • [[topic SIN|SIN]] • [[topic SINCERITY|SINCERITY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.34|<< Matthew 18:34]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.1|Matthew 19:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

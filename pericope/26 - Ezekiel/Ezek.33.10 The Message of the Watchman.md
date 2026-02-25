@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Message of the Watchman
+type: Pericope
 pericope: "[[Ezek.33.10 The Message of the Watchman|The Message of the Watchman]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 33
 book/chapter: "[[Ezek.33|Ezekiel 33]]"
-genre:
+chronological_order: 824
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 11
 verses:
 - "[[Ezek.33.10]]"
 - "[[Ezek.33.11]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Ezek.33.20]]"
 ---
 
-[[Ezek.33|Ezekiel 33:10 - Ezekiel 33:20]]
+<small>[[Ezek.33|Ezekiel 33:10-20]]</small>
 *The Message of the Watchman*
 
 [[Ezek.33.10|10]] Therefore, O thou son of man, speak unto the house of Israel; Thus ye speak, saying, If our transgressions and our sins \[be\] upon us, and we pine away in them, how should we then live?

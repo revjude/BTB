@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: David Serves Saul
+type: Pericope
 pericope: "[[1Sam.16.14 David Serves Saul|David Serves Saul]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 16
 book/chapter: "[[1Sam.16|1 Samuel 16]]"
-genre:
+chronological_order: 295
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 10
 verses:
 - "[[1Sam.16.14]]"
 - "[[1Sam.16.15]]"
@@ -28,7 +35,7 @@ verses:
 - "[[1Sam.16.23]]"
 ---
 
-[[1Sam.16|1 Samuel 16:14 - 1 Samuel 16:23]]
+<small>[[1Sam.16|1 Samuel 16:14-23]]</small>
 *David Serves Saul*
 
 [[1Sam.16.14|14]] But the Spirit of the LORD departed from Saul, and an evil spirit from the LORD troubled him.

@@ -1,8 +1,71 @@
+---
+title: Joshua 22:24
+type: Verse
+kjv: "And if we have not rather done it for fear of this thing, saying, In time to come your children might speak unto our children, saying, What have ye to do with the LORD God of Israel?"
+bsb: "But in fact we have done this for fear that in the future your descendants might say to ours, ‘What have you to do with the LORD, the God of Israel?"
+hebrew: "וְאִם־ לֹ֤א מִדְּאָגָה֙ מִדָּבָ֔ר עָשִׂ֥ינוּ אֶת־ זֹ֖את לֵאמֹ֑ר מָחָ֗ר יֹאמְר֨וּ בְנֵיכֶ֤ם לְבָנֵ֙ינוּ֙ לֵאמֹ֔ר מַה־ לָּכֶ֕ם וְלַֽיהוָ֖ה אֱלֹהֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Josh.22.9 The Altar of Witness|The Altar of Witness]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 22
+book/chapter: "[[Josh.22|Joshua 22]]"
+chronological_order: 252
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic HASTE|HASTE]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic PHINEHAS|PHINEHAS]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic REUBENITES|REUBENITES]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518H]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H9006]]"
+- "[[H1674]]"
+- "[[H1697I]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H2063]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H4279]]"
+- "[[H1121G]]"
+- "[[H9026]]"
+- "[[H9025]]"
+- "[[H4100]]"
+- "[[H9036]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 22:24**<big><big>[[Josh.22.9 The Altar of Witness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if we have not [rather] done it for fear of [this] thing, saying, In time to come your children might speak unto our children, saying, What have ye to do with the LORD God of Israel?
 <small><sub>**BSB:**</sub></small>
 But in fact we have done this for fear that in the future your descendants might say to ours, ‘What have you to do with the LORD, the God of Israel?
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518H\|אִם]][[H9014\|־]] [[H3808\|לֹ֤א]] [[H9006\|מִ]][[H1674\|דְּאָגָה֙]] [[H9006\|מִ]][[H1697I\|דָּבָ֔ר]] [[H6213A\|עָשִׂ֥ינוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H2063\|זֹ֖את]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H4279\|מָחָ֗ר]] [[H0559\|יֹאמְר֨וּ]] [[H1121G\|בְנֵי]][[H9026\|כֶ֤ם]] [[H9005\|לְ]][[H1121G\|בָנֵ֙י]][[H9025\|נוּ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H4100\|מַה]][[H9014\|־]] [[H9005\|לָּ]][[H9036\|כֶ֕ם]] [[H9002\|וְ]][[H9005\|לַֽ]][[H3068G\|יהוָ֖ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOVERNMENT|GOVERNMENT]] • [[topic HASTE|HASTE]] • [[topic LIBERALITY|LIBERALITY]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic PHINEHAS|PHINEHAS]] • [[topic PRUDENCE|PRUDENCE]] • [[topic REUBENITES|REUBENITES]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.22.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.22.23|<< Joshua 22:23]]</td><td align="center" style="border:none;">[[Josh.22|Joshua 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.22.25|Joshua 22:25 >>]]</td></tr></table>
 

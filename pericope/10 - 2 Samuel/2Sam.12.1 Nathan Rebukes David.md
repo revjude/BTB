@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Nathan Rebukes David
+type: Pericope
 pericope: "[[2Sam.12.1 Nathan Rebukes David|Nathan Rebukes David]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 12
 book/chapter: "[[2Sam.12|2 Samuel 12]]"
-genre:
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 12
 verses:
 - "[[2Sam.12.1]]"
 - "[[2Sam.12.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[2Sam.12.12]]"
 ---
 
-[[2Sam.12|2 Samuel 12:1 - 2 Samuel 12:12]]
+<small>[[2Sam.12|2 Samuel 12:1-12]]</small>
 *Nathan Rebukes David*
 
 [[2Sam.12.1|1]] And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor.

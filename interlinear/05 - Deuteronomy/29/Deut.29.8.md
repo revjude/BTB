@@ -1,8 +1,66 @@
+---
+title: Deuteronomy 29:8
+type: Verse
+kjv: "And we took their land, and gave it for an inheritance unto the Reubenites, and to the Gadites, and to the half tribe of Manasseh."
+bsb: "We took their land and gave it as an inheritance to the Reubenites, the Gadites, and the half-tribe of Manasseh."
+hebrew: "וַנִּקַּח֙ אֶת־ אַרְצָ֔ם וַנִּתְּנָ֣הּ לְנַחֲלָ֔ה לָרֽאוּבֵנִ֖י וְלַגָּדִ֑י וְלַחֲצִ֖י שֵׁ֥בֶט הַֽמְנַשִּֽׁי׃"
+pericope: "[[Deut.29.1 The Covenant in Moab|The Covenant in Moab]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 29
+book/chapter: "[[Deut.29|Deuteronomy 29]]"
+chronological_order: 225
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic GAD|GAD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic OG|OG]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H5414G]]"
+- "[[H9034]]"
+- "[[H9005]]"
+- "[[H5159]]"
+- "[[H7206]]"
+- "[[H9002]]"
+- "[[H1425]]"
+- "[[H2677]]"
+- "[[H7626H]]"
+- "[[H9009]]"
+- "[[H4520]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 29:8**<big><big>[[Deut.29.1 The Covenant in Moab|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And we took their land, and gave it for an inheritance unto the Reubenites, and to the Gadites, and to the half tribe of Manasseh.
 <small><sub>**BSB:**</sub></small>
 We took their land and gave it as an inheritance to the Reubenites, the Gadites, and the half-tribe of Manasseh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|נִּקַּח֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0776G\|אַרְצָ֔]][[H9028\|ם]] [[H9001\|וַ]][[H5414G\|נִּתְּנָ֣]][[H9034\|הּ]] [[H9005\|לְ]][[H5159\|נַחֲלָ֔ה]] [[H9005\|לָ]][[H7206\|רֽאוּבֵנִ֖י]] [[H9002\|וְ]][[H9005\|לַ]][[H1425\|גָּדִ֑י]] [[H9002\|וְ]][[H9005\|לַ]][[H2677\|חֲצִ֖י]] [[H7626H\|שֵׁ֥בֶט]] [[H9009\|הַֽ]][[H4520\|מְנַשִּֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVENANT|COVENANT]] • [[topic GAD|GAD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic OG|OG]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.29.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.29.7|<< Deuteronomy 29:7]]</td><td align="center" style="border:none;">[[Deut.29|Deuteronomy 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.29.9|Deuteronomy 29:9 >>]]</td></tr></table>
 

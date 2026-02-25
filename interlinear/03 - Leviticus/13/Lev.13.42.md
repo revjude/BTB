@@ -1,8 +1,61 @@
+---
+title: Leviticus 13:42
+type: Verse
+kjv: "And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead."
+bsb: "But if there is a reddish-white sore on the bald head or forehead, it is an infectious disease breaking out on it."
+hebrew: "וְכִֽי־ יִהְיֶ֤ה בַקָּרַ֙חַת֙ א֣וֹ בַגַּבַּ֔חַת נֶ֖גַע לָבָ֣ן אֲדַמְדָּ֑ם צָרַ֤עַת פֹּרַ֙חַת֙ הִ֔וא בְּקָרַחְתּ֖וֹ א֥וֹ בְגַבַּחְתּֽוֹ׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H7146]]"
+- "[[H0176A]]"
+- "[[H1372]]"
+- "[[H5061]]"
+- "[[H3836]]"
+- "[[H0125]]"
+- "[[H6883]]"
+- "[[H6524B]]"
+- "[[H1931]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:42**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if there be in the bald head, or bald forehead, a white reddish sore; it [is] a leprosy sprung up in his bald head, or his bald forehead.
 <small><sub>**BSB:**</sub></small>
 But if there is a reddish-white sore on the bald head or forehead, it is an infectious disease breaking out on it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֤ה]] [[H9003\|בַ]][[H7146\|קָּרַ֙חַת֙]] [[H0176A\|א֣וֹ]] [[H9003\|בַ]][[H1372\|גַּבַּ֔חַת]] [[H5061\|נֶ֖גַע]] [[H3836\|לָבָ֣ן]] [[H0125\|אֲדַמְדָּ֑ם]] [[H6883\|צָרַ֤עַת]] [[H6524B\|פֹּרַ֙חַת֙]] [[H1931\|הִ֔וא]] [[H9003\|בְּ]][[H7146\|קָרַחְתּ֖]][[H9023\|וֹ]] [[H0176A\|א֥וֹ]] [[H9003\|בְ]][[H1372\|גַבַּחְתּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.41|<< Leviticus 13:41]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.43|Leviticus 13:43 >>]]</td></tr></table>
 

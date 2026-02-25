@@ -1,8 +1,59 @@
+---
+title: Jeremiah 5:13
+type: Verse
+kjv: "And the prophets shall become wind, and the word is not in them: thus shall it be done unto them."
+bsb: "The prophets are but wind, for the word is not in them. So let their own predictions befall them.”"
+hebrew: "וְהַנְּבִיאִים֙ יִֽהְי֣וּ לְר֔וּחַ וְהַדִּבֵּ֖ר אֵ֣ין בָּהֶ֑ם כֹּ֥ה יֵעָשֶׂ֖ה לָהֶֽם׃ ס"
+pericope: "[[Jer.5.1 No One Is Just|No One Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 5
+book/chapter: "[[Jer.5|Jeremiah 5]]"
+chronological_order: 722
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H7307H]]"
+- "[[H1699B]]"
+- "[[H0369]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 5:13**<big><big>[[Jer.5.1 No One Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the prophets shall become wind, and the word [is] not in them: thus shall it be done unto them.
 <small><sub>**BSB:**</sub></small>
 The prophets are but wind, for the word is not in them. So let their own predictions befall them.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H5030\|נְּבִיאִים֙]] [[H1961\|יִֽהְי֣וּ]] [[H9005\|לְ]][[H7307H\|ר֔וּחַ]] [[H9002\|וְ]][[H9009\|הַ]][[H1699B\|דִּבֵּ֖ר]] [[H0369\|אֵ֣ין]] [[H9003\|בָּ]][[H9038\|הֶ֑ם]] [[H3541\|כֹּ֥ה]] [[H6213A\|יֵעָשֶׂ֖ה]] [[H9005\|לָ]][[H9038\|הֶֽם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic UNBELIEF|UNBELIEF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.5.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.12|<< Jeremiah 5:12]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.14|Jeremiah 5:14 >>]]</td></tr></table>
 
@@ -16,7 +67,7 @@ The prophets are but wind, for the word is not in them. So let their own predict
 | [is] in \<the> them  |**<big>&#8207;[[H9003\|בָּ]]&#8207;&#8207;[[H9038\|הֶ֑ם]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | thus  |**<big>&#8207;[[H3541\|כֹּ֥ה]]&#8207; </big>**| koh<small><sup>[[HD]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | let it be done  |**<big>&#8207;[[H6213A\|יֵעָשֶׂ֖ה]]&#8207; </big>**| ye.'a.Seh<small><sup>[[HVNi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| to \<the> them  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H9038\|הֶֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| la.<small><sup>[[HRd]]</sup></small> Hem<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.5.12|<< Jeremiah 5:12]]</td><td align="center" style="border:none;">[[Jer.5|Jeremiah 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.5.14|Jeremiah 5:14 >>]]</td></tr></table>
 
 

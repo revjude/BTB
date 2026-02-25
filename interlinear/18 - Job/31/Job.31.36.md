@@ -1,8 +1,54 @@
+---
+title: Job 31:36
+type: Verse
+kjv: "Surely I would take it upon my shoulder, and bind it as a crown to me."
+bsb: "Surely I would carry it on my shoulder and wear it like a crown."
+hebrew: "אִם־ לֹ֣א עַל־ שִׁ֭כְמִי אֶשָּׂאֶ֑נּוּ אֶֽעֶנְדֶ֖נּוּ עֲטָר֣וֹת לִֽי׃"
+pericope: "[[Job.31.1 Job’s Final Appeal|Job’s Final Appeal]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 31
+book/chapter: "[[Job.31|Job 31]]"
+chronological_order: 42
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+strongs:
+- "[[H0518I]]"
+- "[[H9014]]"
+- "[[H3808]]"
+- "[[H5921A]]"
+- "[[H7926]]"
+- "[[H9020]]"
+- "[[H5375H]]"
+- "[[H9033]]"
+- "[[H6029]]"
+- "[[H5850]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 31:36**<big><big>[[Job.31.1 Job’s Final Appeal|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely I would take it upon my shoulder, [and] bind it [as] a crown to me.
 <small><sub>**BSB:**</sub></small>
 Surely I would carry it on my shoulder and wear it like a crown.
+<small><sub>**Hebrew:**</sub></small>
+[[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]] [[H5921A\|עַל]][[H9014\|־]] [[H7926\|שִׁ֭כְמִ]][[H9020\|י]] [[H5375H\|אֶשָּׂאֶ֑]][[H9033\|נּוּ]] [[H6029\|אֶֽעֶנְדֶ֖]][[H9033\|נּוּ]] [[H5850\|עֲטָר֣וֹת]] [[H9005\|לִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.31.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.31.35|<< Job 31:35]]</td><td align="center" style="border:none;">[[Job.31|Job 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.31.37|Job 31:37 >>]]</td></tr></table>
 

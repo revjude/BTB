@@ -1,8 +1,60 @@
+---
+title: 1 Samuel 17:4
+type: Verse
+kjv: "And there went out a champion out of the camp of the Philistines, named Goliath, of Gath, whose height was six cubits and a span."
+bsb: "Then a champion named Goliath, who was from Gath, came out from the Philistine camp. He was six cubits and a span in height,"
+hebrew: "וַיֵּצֵ֤א אִֽישׁ־ הַבֵּנַ֙יִם֙ מִמַּחֲנ֣וֹת פְּלִשְׁתִּ֔ים גָּלְיָ֥ת שְׁמ֖וֹ מִגַּ֑ת גָּבְה֕וֹ שֵׁ֥שׁ אַמּ֖וֹת וָזָֽרֶת׃"
+pericope: "[[1Sam.17.1 Goliath’s Challenge|Goliath’s Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GATH|GATH]]"
+- "[[topic MEASURE|MEASURE]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H0376G]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H1143]]"
+- "[[H9006]]"
+- "[[H4264]]"
+- "[[H6430G]]"
+- "[[H1555]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H1661]]"
+- "[[H1363]]"
+- "[[H8337]]"
+- "[[H0520A]]"
+- "[[H9002]]"
+- "[[H2239]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 17:4**<big><big>[[1Sam.17.1 Goliath’s Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there went out a champion out of the camp of the Philistines, named Goliath, of Gath, whose height [was] six cubits and a span.
 <small><sub>**BSB:**</sub></small>
 Then a champion named Goliath, who was from Gath, came out from the Philistine camp. He was six cubits and a span in height,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֤א]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H9009\|הַ]][[H1143\|בֵּנַ֙יִם֙]] [[H9006\|מִ]][[H4264\|מַּחֲנ֣וֹת]] [[H6430G\|פְּלִשְׁתִּ֔ים]] [[H1555\|גָּלְיָ֥ת]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H1661\|גַּ֑ת]] [[H1363\|גָּבְה֕]][[H9023\|וֹ]] [[H8337\|שֵׁ֥שׁ]] [[H0520A\|אַמּ֖וֹת]] [[H9002\|וָ]][[H2239\|זָֽרֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GATH|GATH]] • [[topic MEASURE|MEASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.3|<< 1 Samuel 17:3]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.5|1 Samuel 17:5 >>]]</td></tr></table>
 

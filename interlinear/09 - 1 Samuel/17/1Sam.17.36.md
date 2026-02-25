@@ -1,8 +1,71 @@
+---
+title: 1 Samuel 17:36
+type: Verse
+kjv: "Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God."
+bsb: "Your servant has killed lions and bears; this uncircumcised Philistine will be like one of them, for he has defied the armies of the living God.”"
+hebrew: "גַּ֧ם אֶֽת־ הָאֲרִ֛י גַּם־ הַדּ֖וֹב הִכָּ֣ה עַבְדֶּ֑ךָ וְֽ֠הָיָה הַפְּלִשְׁתִּ֨י הֶעָרֵ֤ל הַזֶּה֙ כְּאַחַ֣ד מֵהֶ֔ם כִּ֣י חֵרֵ֔ף מַעַרְכֹ֖ת אֱלֹהִ֥ים חַיִּֽים׃ ס"
+pericope: "[[1Sam.17.12 David Accepts the Challenge|David Accepts the Challenge]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 17
+book/chapter: "[[1Sam.17|1 Samuel 17]]"
+chronological_order: 296
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic CHAMPIONSHIP|CHAMPIONSHIP]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic LION|LION]]"
+strongs:
+- "[[H1571]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0738A]]"
+- "[[H1677]]"
+- "[[H5221]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H6430G]]"
+- "[[H6189]]"
+- "[[H2088]]"
+- "[[H9004]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H2778A]]"
+- "[[H4634]]"
+- "[[H0430G]]"
+- "[[H2416A]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **1 Samuel 17:36**<big><big>[[1Sam.17.12 David Accepts the Challenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thy servant slew both the lion and the bear: and this uncircumcised Philistine shall be as one of them, seeing he hath defied the armies of the living God.
 <small><sub>**BSB:**</sub></small>
 Your servant has killed lions and bears; this uncircumcised Philistine will be like one of them, for he has defied the armies of the living God.”
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּ֧ם]] [[H0853\|אֶֽת]][[H9014\|־]] [[H9009\|הָ]][[H0738A\|אֲרִ֛י]] [[H1571\|גַּם]][[H9014\|־]] [[H9009\|הַ]][[H1677\|דּ֖וֹב]] [[H5221\|הִכָּ֣ה]] [[H5650\|עַבְדֶּ֑]][[H9021\|ךָ]] [[H9001\|וְֽ֠]][[H1961\|הָיָה]] [[H9009\|הַ]][[H6430G\|פְּלִשְׁתִּ֨י]] [[H9009\|הֶ]][[H6189\|עָרֵ֤ל]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H9004\|כְּ]][[H0259\|אַחַ֣ד]] [[H9006\|מֵ]][[H9038\|הֶ֔ם]] [[H3588A\|כִּ֣י]] [[H2778A\|חֵרֵ֔ף]] [[H4634\|מַעַרְכֹ֖ת]] [[H0430G\|אֱלֹהִ֥ים]] [[H2416A\|חַיִּֽים]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic CHAMPIONSHIP|CHAMPIONSHIP]] • [[topic COURAGE|COURAGE]] • [[topic DAVID|DAVID]] • [[topic DECISION|DECISION]] • [[topic FAITH|FAITH]] • [[topic LION|LION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.17.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.35|<< 1 Samuel 17:35]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.37|1 Samuel 17:37 >>]]</td></tr></table>
 
@@ -25,7 +88,7 @@ Your servant has killed lions and bears; this uncircumcised Philistine will be l
 | he has defied  |**<big>&#8207;[[H2778A\|חֵרֵ֔ף]]&#8207; </big>**| che.Ref<small><sup>[[HVpp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] battle lines of  |**<big>&#8207;[[H4634\|מַעַרְכֹ֖ת]]&#8207; </big>**| ma.'ar.Khot<small><sup>[[HNcfpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | God  |**<big>&#8207;[[H0430G\|אֱלֹהִ֥ים]]&#8207; </big>**| 'E.lo.Him<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| living  |**<big>&#8207;[[H2416A\|חַיִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chai.Yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| living  |**<big>&#8207;[[H2416A\|חַיִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| chai.Yim<small><sup>[[HAampa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.17.35|<< 1 Samuel 17:35]]</td><td align="center" style="border:none;">[[1Sam.17|1 Samuel 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.17.37|1 Samuel 17:37 >>]]</td></tr></table>
 
 

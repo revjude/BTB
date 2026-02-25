@@ -1,10 +1,63 @@
+---
+title: Philippians 3:21
+type: Verse
+kjv: "Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself."
+bsb: "who, by the power that enables Him to subject all things to Himself, will transform our lowly bodies to be like His glorious body."
+greek: "ὃς μετασχηματίσει τὸ σῶμα τῆς ταπεινώσεως ἡμῶν εἰς τὸ γενέσθαι αὐτὸ σύμμορφον τῷ σώματι τῆς δόξης αὐτοῦ κατὰ τὴν ἐνέργειαν τοῦ δύνασθαι αὐτὸν καὶ ὑποτάξαι αὐτῷ τὰ πάντα.¶"
+pericope: "[[Phil.3.17 Citizenship in Heaven|Citizenship in Heaven]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 3
+book/chapter: "[[Phil.3|Philippians 3]]"
+chronological_order: 1119
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic GLORY|GLORY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[G3739]]"
+- "[[G3345]]"
+- "[[G3588]]"
+- "[[G4983]]"
+- "[[G5014]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G1096]]"
+- "[[G0846]]"
+- "[[G4832]]"
+- "[[G1391]]"
+- "[[G2596]]"
+- "[[G1753]]"
+- "[[G1410]]"
+- "[[G2532]]"
+- "[[G5293]]"
+- "[[G3956]]"
+texts:
+- NKO
+- K
+- N(k)O
+---
+
 **Philippians 3:21**<big><big>[[Phil.3.17 Citizenship in Heaven|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself.
 <small><sub>**BSB:**</sub></small>
 who, by the power that enables Him to subject all things to Himself, will transform our lowly bodies to be like His glorious body.
-<small><sub>**Literal:**</sub></small>
-who will transform the body of the humiliation of us toward <the> to become it conformed to the body of the glory of Himself according to the working <the> enabling Him even to subdue to Him <the> all things.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.20|<< Philippians 3:20]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.1|Philippians 4:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G3345\|μετασχηματίσει]]  [[G3588\|τὸ]]  [[G4983\|σῶμα]]  [[G3588\|τῆς]]  [[G5014\|ταπεινώσεως]]  [[G3165\|ἡμῶν]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1096\|γενέσθαι]]  [[G0846\|αὐτὸ]]  [[G4832\|σύμμορφον]]  [[G3588\|τῷ]]  [[G4983\|σώματι]]  [[G3588\|τῆς]]  [[G1391\|δόξης]]  [[G0846\|αὐτοῦ]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G1753\|ἐνέργειαν]]  [[G3588\|τοῦ]]  [[G1410\|δύνασθαι]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G5293\|ὑποτάξαι]]  [[G0846\|αὐτῷ]]  [[G3588\|τὰ]]  [[G3956\|πάντα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic GLORY|GLORY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic RESURRECTION|RESURRECTION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.3.20|<< Philippians 3:20]]</td><td align="center" style="border:none;">[[Phil.3|Philippians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.4.1|Philippians 4:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

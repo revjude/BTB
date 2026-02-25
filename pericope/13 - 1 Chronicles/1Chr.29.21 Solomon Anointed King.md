@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon Anointed King
+type: Pericope
 pericope: "[[1Chr.29.21 Solomon Anointed King|Solomon Anointed King]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 1 Chronicles
 chapter: 29
 book/chapter: "[[1Chr.29|1 Chronicles 29]]"
-genre:
+chronological_order: 440
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
 - narrative
 - genealogy
 - monarchic narrative
 - temple focused
+verse_count: 5
 verses:
 - "[[1Chr.29.21]]"
 - "[[1Chr.29.22]]"
@@ -23,7 +30,7 @@ verses:
 - "[[1Chr.29.25]]"
 ---
 
-[[1Chr.29|1 Chronicles 29:21 - 1 Chronicles 29:25]]
+<small>[[1Chr.29|1 Chronicles 29:21-25]]</small>
 *Solomon Anointed King*
 
 [[1Chr.29.21|21]] And they sacrificed sacrifices unto the LORD, and offered burnt offerings unto the LORD, on the morrow after that day, \[even\] a thousand bullocks, a thousand rams, \[and\] a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel:

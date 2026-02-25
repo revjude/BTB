@@ -1,8 +1,65 @@
+---
+title: Exodus 28:42
+type: Verse
+kjv: "And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:"
+bsb: "Make linen undergarments to cover their bare flesh, extending from waist to thigh."
+hebrew: "וַעֲשֵׂ֤ה לָהֶם֙ מִכְנְסֵי־ בָ֔ד לְכַסּ֖וֹת בְּשַׂ֣ר עֶרְוָ֑ה מִמָּתְנַ֥יִם וְעַד־ יְרֵכַ֖יִם יִהְיֽוּ׃"
+pericope: "[[Exod.28.31 Additional Priestly Garments|Additional Priestly Garments]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 28
+book/chapter: "[[Exod.28|Exodus 28]]"
+chronological_order: 120
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic AARON|AARON]]"
+- "[[topic BREECHES|BREECHES]]"
+- "[[topic LINEN|LINEN]]"
+- "[[topic NADAB|NADAB]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H4370]]"
+- "[[H9014]]"
+- "[[H0906]]"
+- "[[H3680]]"
+- "[[H1320]]"
+- "[[H6172]]"
+- "[[H9006]]"
+- "[[H4975]]"
+- "[[H5704]]"
+- "[[H3409]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 28:42**<big><big>[[Exod.28.31 Additional Priestly Garments|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:
 <small><sub>**BSB:**</sub></small>
 Make linen undergarments to cover their bare flesh, extending from waist to thigh.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H6213H\|עֲשֵׂ֤ה]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H4370\|מִכְנְסֵי]][[H9014\|־]] [[H0906\|בָ֔ד]] [[H9005\|לְ]][[H3680\|כַסּ֖וֹת]] [[H1320\|בְּשַׂ֣ר]] [[H6172\|עֶרְוָ֑ה]] [[H9006\|מִ]][[H4975\|מָּתְנַ֥יִם]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H3409\|יְרֵכַ֖יִם]] [[H1961\|יִהְיֽוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AARON|AARON]] • [[topic BREECHES|BREECHES]] • [[topic LINEN|LINEN]] • [[topic NADAB|NADAB]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.28.42|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.28.41|<< Exodus 28:41]]</td><td align="center" style="border:none;">[[Exod.28|Exodus 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.28.43|Exodus 28:43 >>]]</td></tr></table>
 

@@ -1,8 +1,81 @@
+---
+title: Joshua 24:15
+type: Verse
+kjv: "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD."
+bsb: "But if it is unpleasing in your sight to serve the LORD, then choose for yourselves this day whom you will serve, whether the gods your fathers served beyond the Euphrates, or the gods of the Amorites in whose land you are living. As for me and my house, we will serve the LORD!”"
+hebrew: "וְאִם֩ רַ֨ע בְּֽעֵינֵיכֶ֜ם לַעֲבֹ֣ד אֶת־ יְהוָ֗ה בַּחֲר֨וּ לָכֶ֣ם הַיּוֹם֮ אֶת־ מִ֣י תַעֲבֹדוּן֒ אִ֣ם אֶת־ אֱלֹהִ֞ים אֲשֶׁר־ עָבְד֣וּ אֲבוֹתֵיכֶ֗ם אֲשֶׁר֙ מֵעֵ֣בֶר הַנָּהָ֔ר וְאִם֙ אֶת־ אֱלֹהֵ֣י הָאֱמֹרִ֔י אֲשֶׁ֥ר אַתֶּ֖ם יֹשְׁבִ֣ים בְּאַרְצָ֑ם וְאָנֹכִ֣י וּבֵיתִ֔י נַעֲבֹ֖ד אֶת־ יְהוָֽה׃ פ"
+pericope: "[[Josh.24.14 Choose Whom You Will Serve|Choose Whom You Will Serve]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 24
+book/chapter: "[[Josh.24|Joshua 24]]"
+chronological_order: 254
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CHOICE|CHOICE]]"
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic GOOD AND EVIL|GOOD AND EVIL]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H7489A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9026]]"
+- "[[H9005]]"
+- "[[H5647H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0977]]"
+- "[[H9036]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H4310]]"
+- "[[H9013]]"
+- "[[H0430]]"
+- "[[H0834A]]"
+- "[[H0001G]]"
+- "[[H5676H]]"
+- "[[H9006]]"
+- "[[H5104G]]"
+- "[[H0567]]"
+- "[[H0859D]]"
+- "[[H3427]]"
+- "[[H0776G]]"
+- "[[H9028]]"
+- "[[H0595]]"
+- "[[H1004M]]"
+- "[[H9020]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+- Q(K)
+---
+
 **Joshua 24:15**<big><big>[[Josh.24.14 Choose Whom You Will Serve|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that [were] on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.
 <small><sub>**BSB:**</sub></small>
 But if it is unpleasing in your sight to serve the LORD, then choose for yourselves this day whom you will serve, whether the gods your fathers served beyond the Euphrates, or the gods of the Amorites in whose land you are living. As for me and my house, we will serve the LORD!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0518A\|אִם֩]] [[H7489A\|רַ֨ע]] [[H9003\|בְּֽ]][[H5869I\|עֵינֵי]][[H9026\|כֶ֜ם]] [[H9005\|לַ]][[H5647H\|עֲבֹ֣ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H0977\|בַּחֲר֨וּ]] [[H9005\|לָ]][[H9036\|כֶ֣ם]] [[H9009\|הַ]][[H3117L\|יּוֹם֮]] [[H0853\|אֶת]][[H9014\|־]] [[H4310\|מִ֣י]] [[H5647H\|תַעֲבֹדוּ]][[H9013\|ן֒]] [[H0518A\|אִ֣ם]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהִ֞ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5647H\|עָבְד֣וּ]] [[H0001G\|אֲבוֹתֵי]][[H9026\|כֶ֗ם]] [[H0834A\|אֲשֶׁר֙]] [[H9006\|מֵ]][[H5676H\|עֵ֣בֶר]] [[H9009\|הַ]][[H5104G\|נָּהָ֔ר]] [[H9002\|וְ]][[H0518A\|אִם֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0430\|אֱלֹהֵ֣י]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֔י]] [[H0834A\|אֲשֶׁ֥ר]] [[H0859D\|אַתֶּ֖ם]] [[H3427\|יֹשְׁבִ֣ים]] [[H9003\|בְּ]][[H0776G\|אַרְצָ֑]][[H9028\|ם]] [[H9002\|וְ]][[H0595\|אָנֹכִ֣י]] [[H9002\|וּ]][[H1004M\|בֵיתִ֔]][[H9020\|י]] [[H5647H\|נַעֲבֹ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHOICE|CHOICE]] • [[topic CONTINGENCIES|CONTINGENCIES]] • [[topic DECISION|DECISION]] • [[topic FAMILY|FAMILY]] • [[topic GOOD AND EVIL|GOOD AND EVIL]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SHECHEM|SHECHEM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.24.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.14|<< Joshua 24:14]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.16|Joshua 24:16 >>]]</td></tr></table>
 
@@ -41,10 +114,10 @@ But if it is unpleasing in your sight to serve the LORD, then choose for yoursel
 | and household my  |**<big>&#8207;[[H9002\|וּ]]&#8207;&#8207;[[H1004M\|בֵיתִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| u.<small><sup>[[HC]]</sup></small> vei.T<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | we will serve  |**<big>&#8207;[[H5647H\|נַעֲבֹ֖ד]]&#8207; </big>**| na.'a.Vod<small><sup>[[HVqi1cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.24.14|<< Joshua 24:14]]</td><td align="center" style="border:none;">[[Josh.24|Joshua 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.24.16|Joshua 24:16 >>]]</td></tr></table>
 
-[^1]: [were] on [the] other side of  | **<big>[[H5676H|עֵבֶר]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
-[^2]: [were] on [the] other side of  | **<big>[[H5676H|עֵבֶר]]</big><big>[[H9003|בְּ]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
+[^1]: [were] on [the] other side of  | **<big>[[H9003|בְּ]]</big><big>[[H5676H|עֵבֶר]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
+[^2]: [were] on [the] other side of  | **<big>[[H9003|בְּ]]</big><big>[[H5676H|עֵבֶר]]</big> ** | be.<small><sup>[[HR]]</sup></small> 'e.ver<small><sup>[[HNcbsc]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בֵּעֵ֣בֶר</big></span>**
 

@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 7:40
+type: Verse
+kjv: "But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God."
+bsb: "In my judgment, however, she is happier if she remains as she is. And I think that I too have the Spirit of God."
+greek: "μακαριωτέρα δέ ἐστιν ἐὰν οὕτως μείνῃ, κατὰ τὴν ἐμὴν γνώμην· δοκῶ δὲ κἀγὼ κἀγὼ πνεῦμα θεοῦ ἔχειν.¶"
+pericope: "[[1Cor.7.25 The Unmarried and Widowed|The Unmarried and Widowed]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G3107]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G1437]]"
+- "[[G3779]]"
+- "[[G3306]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G1473]]"
+- "[[G1106]]"
+- "[[G1380]]"
+- "[[G2532]]"
+- "[[G4151G]]"
+- "[[G2316]]"
+- "[[G2192]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Corinthians 7:40**<big><big>[[1Cor.7.25 The Unmarried and Widowed|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But she is happier if she so abide, after my judgment: and I think also that I have the Spirit of God.
 <small><sub>**BSB:**</sub></small>
 In my judgment, however, she is happier if she remains as she is. And I think that I too have the Spirit of God.
-<small><sub>**Literal:**</sub></small>
-More blessed however she is if in the same manner she shall remain, according to <the> my judgment; I think now myself also [the] Spirit of God to have.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.39|<< 1 Corinthians 7:39]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.1|1 Corinthians 8:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3107\|μακαριωτέρα]]  [[G1161\|δέ]]  [[G1510\|ἐστιν]]  [[G1437\|ἐὰν]]  [[G3779\|οὕτως]]  [[G3306\|μείνῃ,]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G1473\|ἐμὴν]]  [[G1106\|γνώμην·]]  [[G1380\|δοκῶ]]  [[G1161\|δὲ]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G4151G\|πνεῦμα]]  [[G2316\|θεοῦ]]  [[G2192\|ἔχειν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.39|<< 1 Corinthians 7:39]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.8.1|1 Corinthians 8:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

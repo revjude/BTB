@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job’s Honor Turned to Contempt
+type: Pericope
 pericope: "[[Job.30.1 Job’s Honor Turned to Contempt|Job’s Honor Turned to Contempt]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 30
 book/chapter: "[[Job.30|Job 30]]"
-genre:
+chronological_order: 41
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 14
 verses:
 - "[[Job.30.1]]"
 - "[[Job.30.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Job.30.14]]"
 ---
 
-[[Job.30|Job 30:1 - Job 30:14]]
+<small>[[Job.30|Job 30:1-14]]</small>
 *Job’s Honor Turned to Contempt*
 
 [[Job.30.1|1]] But now \[they that are\] younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.

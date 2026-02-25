@@ -1,8 +1,49 @@
+---
+title: 2 Samuel 22:43
+type: Verse
+kjv: "Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, and did spread them abroad."
+bsb: "I ground them as the dust of the earth; I crushed and trampled them like mud in the streets."
+hebrew: "וְאֶשְׁחָקֵ֖ם כַּעֲפַר־ אָ֑רֶץ כְּטִיט־ חוּצ֥וֹת אֲדִקֵּ֖ם אֶרְקָעֵֽם׃"
+pericope: "[[2Sam.22.1 David’s Song of Deliverance|David’s Song of Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 22
+book/chapter: "[[2Sam.22|2 Samuel 22]]"
+chronological_order: 430
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+strongs:
+- "[[H9002]]"
+- "[[H7833]]"
+- "[[H9038]]"
+- "[[H9004]]"
+- "[[H6083]]"
+- "[[H9014]]"
+- "[[H0776H]]"
+- "[[H2916]]"
+- "[[H2351]]"
+- "[[H1854]]"
+- "[[H7554]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 22:43**<big><big>[[2Sam.22.1 David’s Song of Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, [and] did spread them abroad.
 <small><sub>**BSB:**</sub></small>
 I ground them as the dust of the earth; I crushed and trampled them like mud in the streets.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H7833\|אֶשְׁחָקֵ֖]][[H9038\|ם]] [[H9004\|כַּ]][[H6083\|עֲפַר]][[H9014\|־]] [[H0776H\|אָ֑רֶץ]] [[H9004\|כְּ]][[H2916\|טִיט]][[H9014\|־]] [[H2351\|חוּצ֥וֹת]] [[H1854\|אֲדִקֵּ֖]][[H9038\|ם]] [[H7554\|אֶרְקָעֵֽ]][[H9038\|ם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.22.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.22.42|<< 2 Samuel 22:42]]</td><td align="center" style="border:none;">[[2Sam.22|2 Samuel 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.22.44|2 Samuel 22:44 >>]]</td></tr></table>
 

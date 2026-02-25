@@ -1,8 +1,79 @@
+---
+title: Numbers 5:27
+type: Verse
+kjv: "And when he hath made her to drink the water, then it shall come to pass, that, if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, and become bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people."
+bsb: "When he has made her drink the water, if she has defiled herself and been unfaithful to her husband, then the water that brings a curse will enter her and cause bitter suffering; her belly will swell, her thigh will shrivel, and she will become accursed among her people."
+hebrew: "וְהִשְׁקָ֣הּ אֶת־ הַמַּ֗יִם וְהָיְתָ֣ה אִֽם־ נִטְמְאָה֮ וַתִּמְעֹ֣ל מַ֣עַל בְּאִישָׁהּ֒ וּבָ֨אוּ בָ֜הּ הַמַּ֤יִם הַמְאָֽרֲרִים֙ לְמָרִ֔ים וְצָבְתָ֣ה בִטְנָ֔הּ וְנָפְלָ֖ה יְרֵכָ֑הּ וְהָיְתָ֧ה הָאִשָּׁ֛ה לְאָלָ֖ה בְּקֶ֥רֶב עַמָּֽהּ׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BITTER WATER|BITTER WATER]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H8248H]]"
+- "[[H9034]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4325G]]"
+- "[[H1961]]"
+- "[[H0518A]]"
+- "[[H2930A]]"
+- "[[H4603]]"
+- "[[H4604]]"
+- "[[H9003]]"
+- "[[H0376H]]"
+- "[[H9024]]"
+- "[[H0935G]]"
+- "[[H0779]]"
+- "[[H9005]]"
+- "[[H4751]]"
+- "[[H6638]]"
+- "[[H0990H]]"
+- "[[H5307G]]"
+- "[[H3409]]"
+- "[[H0802G]]"
+- "[[H0423]]"
+- "[[H7130G]]"
+- "[[H5971A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:27**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And when he hath made her to drink the water, then it shall come to pass, [that], if she be defiled, and have done trespass against her husband, that the water that causeth the curse shall enter into her, [and become] bitter, and her belly shall swell, and her thigh shall rot: and the woman shall be a curse among her people.
 <small><sub>**BSB:**</sub></small>
 When he has made her drink the water, if she has defiled herself and been unfaithful to her husband, then the water that brings a curse will enter her and cause bitter suffering; her belly will swell, her thigh will shrivel, and she will become accursed among her people.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H8248H\|הִשְׁקָ֣]][[H9034\|הּ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4325G\|מַּ֗יִם]] [[H9001\|וְ]][[H1961\|הָיְתָ֣ה]] [[H0518A\|אִֽם]][[H9014\|־]] [[H2930A\|נִטְמְאָה֮]] [[H9001\|וַ]][[H4603\|תִּמְעֹ֣ל]] [[H4604\|מַ֣עַל]] [[H9003\|בְּ]][[H0376H\|אִישָׁ]][[H9024\|הּ֒]] [[H9001\|וּ]][[H0935G\|בָ֨אוּ]] [[H9003\|בָ֜]][[H9034\|הּ]] [[H9009\|הַ]][[H4325G\|מַּ֤יִם]] [[H9009\|הַ]][[H0779\|מְאָֽרֲרִים֙]] [[H9005\|לְ]][[H4751\|מָרִ֔ים]] [[H9001\|וְ]][[H6638\|צָבְתָ֣ה]] [[H0990H\|בִטְנָ֔]][[H9024\|הּ]] [[H9001\|וְ]][[H5307G\|נָפְלָ֖ה]] [[H3409\|יְרֵכָ֑]][[H9024\|הּ]] [[H9001\|וְ]][[H1961\|הָיְתָ֧ה]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֛ה]] [[H9005\|לְ]][[H0423\|אָלָ֖ה]] [[H9003\|בְּ]][[H7130G\|קֶ֥רֶב]] [[H5971A\|עַמָּֽ]][[H9024\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BITTER WATER|BITTER WATER]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic PRIEST|PRIEST]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.26|<< Numbers 5:26]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.28|Numbers 5:28 >>]]</td></tr></table>
 

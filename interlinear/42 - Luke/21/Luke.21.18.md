@@ -1,10 +1,57 @@
+---
+title: Luke 21:18
+type: Verse
+kjv: "But there shall not an hair of your head perish."
+bsb: "Yet not even a hair of your head will perish."
+jesus_said: "But there shall not an hair of your head perish."
+greek: "καὶ θρὶξ ἐκ τῆς κεφαλῆς ὑμῶν οὐ μὴ ἀπόληται."
+pericope: "[[Luke.21.10 Witnessing to All Nations|Witnessing to All Nations]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 21
+book/chapter: "[[Luke.21|Luke 21]]"
+chronological_order: 999
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2359]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G2776]]"
+- "[[G4771]]"
+- "[[G3756]]"
+- "[[G3361]]"
+- "[[G0622]]"
+texts:
+- NKO
+---
+
 **Luke 21:18**<big><big>[[Luke.21.10 Witnessing to All Nations|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But there shall not an hair of your head perish.
 <small><sub>**BSB:**</sub></small>
 Yet not even a hair of your head will perish.
-<small><sub>**Literal:**</sub></small>
-But a hair of the head of you certainly not may perish.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.17|<< Luke 21:17]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.19|Luke 21:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2359\|θρὶξ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2776\|κεφαλῆς]]  [[G4771\|ὑμῶν]]  [[G3756\|οὐ]]  [[G3361\|μὴ]]  [[G0622\|ἀπόληται.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PERSECUTION|PERSECUTION]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.21.17|<< Luke 21:17]]</td><td align="center" style="border:none;">[[Luke.21|Luke 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.21.19|Luke 21:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

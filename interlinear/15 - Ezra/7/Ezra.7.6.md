@@ -1,8 +1,72 @@
+---
+title: Ezra 7:6
+type: Verse
+kjv: "This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him."
+bsb: "this Ezra came up from Babylon. He was a scribe skilled in the Law of Moses, which the LORD, the God of Israel, had given. The king had granted Ezra all his requests, for the hand of the LORD his God was upon him."
+hebrew: "ה֤וּא עֶזְרָא֙ עָלָ֣ה מִבָּבֶ֔ל וְהֽוּא־ סֹפֵ֤ר מָהִיר֙ בְּתוֹרַ֣ת מֹשֶׁ֔ה אֲשֶׁר־ נָתַ֥ן יְהוָ֖ה אֱלֹהֵ֣י יִשְׂרָאֵ֑ל וַיִּתֶּן־ ל֣וֹ הַמֶּ֗לֶךְ כְּיַד־ יְהוָ֤ה אֱלֹהָיו֙ עָלָ֔יו כֹּ֖ל בַּקָּשָׁתֽוֹ׃ פ"
+pericope: "[[Ezra.7.1 Ezra Arrives in Jerusalem|Ezra Arrives in Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 7
+book/chapter: "[[Ezra.7|Ezra 7]]"
+chronological_order: 909
+era: Return
+period: "Return from Exile: Ezra's Return and Reforms"
+date: ~458–450 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic EZRA|EZRA]]"
+- "[[topic LAW|LAW]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H1931]]"
+- "[[H5830G]]"
+- "[[H5927G]]"
+- "[[H9006]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H5608B]]"
+- "[[H4106]]"
+- "[[H9003]]"
+- "[[H8451]]"
+- "[[H4872]]"
+- "[[H0834A]]"
+- "[[H5414G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9001]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9004]]"
+- "[[H3027H]]"
+- "[[H9023]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H1246]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Ezra 7:6**<big><big>[[Ezra.7.1 Ezra Arrives in Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This Ezra went up from Babylon; and he [was] a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
 <small><sub>**BSB:**</sub></small>
 this Ezra came up from Babylon. He was a scribe skilled in the Law of Moses, which the LORD, the God of Israel, had given. The king had granted Ezra all his requests, for the hand of the LORD his God was upon him.
+<small><sub>**Hebrew:**</sub></small>
+[[H1931\|ה֤וּא]] [[H5830G\|עֶזְרָא֙]] [[H5927G\|עָלָ֣ה]] [[H9006\|מִ]][[H0894\|בָּבֶ֔ל]] [[H9002\|וְ]][[H1931\|הֽוּא]][[H9014\|־]] [[H5608B\|סֹפֵ֤ר]] [[H4106\|מָהִיר֙]] [[H9003\|בְּ]][[H8451\|תוֹרַ֣ת]] [[H4872\|מֹשֶׁ֔ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5414G\|נָתַ֥ן]] [[H3068G\|יְהוָ֖ה]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וַ]][[H5414G\|יִּתֶּן]][[H9014\|־]] [[H9005\|ל֣]][[H9033\|וֹ]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9004\|כְּ]][[H3027H\|יַד]][[H9014\|־]] [[H3068G\|יְהוָ֤ה]] [[H0430G\|אֱלֹהָי]][[H9023\|ו֙]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H3605\|כֹּ֖ל]] [[H1246\|בַּקָּשָׁתֽ]][[H9023\|וֹ]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZRA|EZRA]] • [[topic LAW|LAW]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.5|<< Ezra 7:5]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.7|Ezra 7:7 >>]]</td></tr></table>
 
@@ -30,7 +94,7 @@ this Ezra came up from Babylon. He was a scribe skilled in the Law of Moses, whi
 | God his  |**<big>&#8207;[[H0430G\|אֱלֹהָי]]&#8207;&#8207;[[H9023\|ו֙]]&#8207; </big>**| 'e.lo.Ha<small><sup>[[HNcmpc]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | on him  |**<big>&#8207;[[H5921A\|עָלָ֔י]]&#8207;&#8207;[[H9033\|ו]]&#8207; </big>**| 'a.La<small><sup>[[HRd]]</sup></small> v<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | all  |**<big>&#8207;[[H3605\|כֹּ֖ל]]&#8207; </big>**| kol<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| request his  |**<big>&#8207;[[H1246\|בַּקָּשָׁתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.ka.sha.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| request his  |**<big>&#8207;[[H1246\|בַּקָּשָׁתֽ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| ba.ka.sha.T<small><sup>[[HNcfsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.7.5|<< Ezra 7:5]]</td><td align="center" style="border:none;">[[Ezra.7|Ezra 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.7.7|Ezra 7:7 >>]]</td></tr></table>
 
 

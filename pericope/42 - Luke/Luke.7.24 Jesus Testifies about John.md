@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Testifies about John
+type: Pericope
 pericope: "[[Luke.7.24 Jesus Testifies about John|Jesus Testifies about John]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Luke
 chapter: 7
 book/chapter: "[[Luke.7|Luke 7]]"
-genre:
+chronological_order: 952
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 12
 verses:
 - "[[Luke.7.24]]"
 - "[[Luke.7.25]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Luke.7.35]]"
 ---
 
-[[Luke.7|Luke 7:24 - Luke 7:35]]
+<small>[[Luke.7|Luke 7:24-35]]</small>
 *Jesus Testifies about John*
 
 [[Luke.7.24|24]] And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?

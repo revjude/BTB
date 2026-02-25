@@ -1,8 +1,72 @@
+---
+title: 2 Samuel 19:17
+type: Verse
+kjv: "And there were a thousand men of Benjamin with him, and Ziba the servant of the house of Saul, and his fifteen sons and his twenty servants with him; and they went over Jordan before the king."
+bsb: "along with a thousand men of Benjamin, as well as Ziba the steward of the house of Saul and his fifteen sons and twenty servants. They rushed down to the Jordan before the king"
+hebrew: "וְאֶ֨לֶף אִ֣ישׁ עִמּוֹ֮ מִבִּנְיָמִן֒ וְצִיבָ֗א נַ֚עַר בֵּ֣ית שָׁא֔וּל וַחֲמֵ֨שֶׁת עָשָׂ֥ר בָּנָ֛יו וְעֶשְׂרִ֥ים עֲבָדָ֖יו אִתּ֑וֹ וְצָלְח֥וּ הַיַּרְדֵּ֖ן לִפְנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[2Sam.19.16 Shimei Pardoned|Shimei Pardoned]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMNESTY|AMNESTY]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic CLEMENCY|CLEMENCY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic TREASON|TREASON]]"
+- "[[topic ZIBA|ZIBA]]"
+strongs:
+- "[[H9002]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H1144G]]"
+- "[[H6717]]"
+- "[[H5288]]"
+- "[[H1004M]]"
+- "[[H7586G]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H6242]]"
+- "[[H5650]]"
+- "[[H0854]]"
+- "[[H9001]]"
+- "[[H6743A]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:17**<big><big>[[2Sam.19.16 Shimei Pardoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [there were] a thousand men of Benjamin with him, and Ziba the servant of the house of Saul, and his fifteen sons and his twenty servants with him; and they went over Jordan before the king.
 <small><sub>**BSB:**</sub></small>
 along with a thousand men of Benjamin, as well as Ziba the steward of the house of Saul and his fifteen sons and twenty servants. They rushed down to the Jordan before the king
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0505G\|אֶ֨לֶף]] [[H0376G\|אִ֣ישׁ]] [[H5973A\|עִמּ]][[H9033\|וֹ֮]] [[H9006\|מִ]][[H1144G\|בִּנְיָמִן֒]] [[H9002\|וְ]][[H6717\|צִיבָ֗א]] [[H5288\|נַ֚עַר]] [[H1004M\|בֵּ֣ית]] [[H7586G\|שָׁא֔וּל]] [[H9002\|וַ]][[H2568\|חֲמֵ֨שֶׁת]] [[H6240\|עָשָׂ֥ר]] [[H1121A\|בָּנָ֛י]][[H9023\|ו]] [[H9002\|וְ]][[H6242\|עֶשְׂרִ֥ים]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H0854\|אִתּ֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H6743A\|צָלְח֥וּ]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֖ן]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMNESTY|AMNESTY]] • [[topic BENJAMIN|BENJAMIN]] • [[topic CLEMENCY|CLEMENCY]] • [[topic DAVID|DAVID]] • [[topic TREASON|TREASON]] • [[topic ZIBA|ZIBA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.16|<< 2 Samuel 19:16]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.18|2 Samuel 19:18 >>]]</td></tr></table>
 

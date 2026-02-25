@@ -1,8 +1,59 @@
+---
+title: 1 Kings 20:2
+type: Verse
+kjv: "And he sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Benhadad,"
+bsb: "Then he sent messengers into the city to Ahab king of Israel,"
+hebrew: "וַיִּשְׁלַ֧ח מַלְאָכִ֛ים אֶל־ אַחְאָ֥ב מֶֽלֶךְ־ יִשְׂרָאֵ֖ל הָעִֽירָה׃ וַיֹּ֣אמֶר ל֗וֹ כֹּ֚ה אָמַ֣ר בֶּן־ הֲדַ֔ד"
+pericope: "[[1Kgs.20.1 Ben-hadad Attacks Samaria|Ben-hadad Attacks Samaria]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 20
+book/chapter: "[[1Kgs.20|1 Kings 20]]"
+chronological_order: 566
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AMBASSADORS|AMBASSADORS]]"
+strongs:
+- "[[H9001]]"
+- "[[H7971G]]"
+- "[[H4397G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0256G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H9011]]"
+- "[[H9016]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H3541]]"
+- "[[H1130G]]"
+texts:
+- L
+---
+
 **1 Kings 20:2**<big><big>[[1Kgs.20.1 Ben-hadad Attacks Samaria|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he sent messengers to Ahab king of Israel into the city, and said unto him, Thus saith Benhadad,
 <small><sub>**BSB:**</sub></small>
 Then he sent messengers into the city to Ahab king of Israel,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7971G\|יִּשְׁלַ֧ח]] [[H4397G\|מַלְאָכִ֛ים]] [[H0413\|אֶל]][[H9014\|־]] [[H0256G\|אַחְאָ֥ב]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9009\|הָ]][[H5892B\|עִֽירָ]][[H9011\|ה]][[H9016\|׃]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֗]][[H9033\|וֹ]] [[H3541\|כֹּ֚ה]] [[H0559\|אָמַ֣ר]] [[H1130G\|בֶּן]][[H9014\|־]] [[H1130G\|הֲדַ֔ד]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMBASSADORS|AMBASSADORS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.20.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.20.1|<< 1 Kings 20:1]]</td><td align="center" style="border:none;">[[1Kgs.20|1 Kings 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.20.3|1 Kings 20:3 >>]]</td></tr></table>
 

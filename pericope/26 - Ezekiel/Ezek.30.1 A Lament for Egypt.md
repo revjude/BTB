@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Lament for Egypt
+type: Pericope
 pericope: "[[Ezek.30.1 A Lament for Egypt|A Lament for Egypt]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 30
 book/chapter: "[[Ezek.30|Ezekiel 30]]"
-genre:
+chronological_order: 821
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 19
 verses:
 - "[[Ezek.30.1]]"
 - "[[Ezek.30.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Ezek.30.19]]"
 ---
 
-[[Ezek.30|Ezekiel 30:1 - Ezekiel 30:19]]
+<small>[[Ezek.30|Ezekiel 30:1-19]]</small>
 *A Lament for Egypt*
 
 [[Ezek.30.1|1]] The word of the LORD came again unto me, saying,

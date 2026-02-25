@@ -1,8 +1,57 @@
+---
+title: Psalm 139:2
+type: Verse
+kjv: "Thou knowest my downsitting and mine uprising, thou understandest my thought afar off."
+bsb: "You know when I sit and when I rise; You understand my thoughts from afar."
+hebrew: "אַתָּ֣ה יָ֭דַעְתָּ שִׁבְתִּ֣י וְקוּמִ֑י בַּ֥נְתָּה לְ֝רֵעִ֗י מֵרָחֽוֹק׃"
+pericope: "[[Ps.139.1 You Have Searched Me and Known Me|You Have Searched Me and Known Me]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 139
+book/chapter: "[[Ps.139|Psalm 139]]"
+chronological_order: 386
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H0859A]]"
+- "[[H3045]]"
+- "[[H3427]]"
+- "[[H9040]]"
+- "[[H9002]]"
+- "[[H6965B]]"
+- "[[H0995]]"
+- "[[H9005]]"
+- "[[H7454]]"
+- "[[H9020]]"
+- "[[H9006]]"
+- "[[H7350]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 139:2**<big><big>[[Ps.139.1 You Have Searched Me and Known Me|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou knowest my downsitting and mine uprising, thou understandest my thought afar off.
 <small><sub>**BSB:**</sub></small>
 You know when I sit and when I rise; You understand my thoughts from afar.
+<small><sub>**Hebrew:**</sub></small>
+[[H0859A\|אַתָּ֣ה]] [[H3045\|יָ֭דַעְתָּ]] [[H3427\|שִׁבְתִּ֣]][[H9040\|י]] [[H9002\|וְ]][[H6965B\|קוּמִ֑]][[H9040\|י]] [[H0995\|בַּ֥נְתָּה]] [[H9005\|לְ֝]][[H7454\|רֵעִ֗]][[H9020\|י]] [[H9006\|מֵ]][[H7350\|רָחֽוֹק]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.139.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.139.1|<< Psalms 139:1]]</td><td align="center" style="border:none;">[[Ps.139|Psalms 139]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.139.3|Psalms 139:3 >>]]</td></tr></table>
 

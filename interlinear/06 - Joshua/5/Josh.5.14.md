@@ -1,8 +1,72 @@
+---
+title: Joshua 5:14
+type: Verse
+kjv: "And he said, Nay; but as captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?"
+bsb: "“Neither,” He replied. “I have now come as Commander of the LORD’s army.” Then Joshua fell facedown in reverence and asked Him, “What does my Lord have to say to His servant?”"
+hebrew: "וַיֹּ֣אמֶר׀ לֹ֗א כִּ֛י אֲנִ֥י שַׂר־ צְבָֽא־ יְהוָ֖ה עַתָּ֣ה בָ֑אתִי וַיִּפֹּל֩ יְהוֹשֻׁ֨עַ אֶל־ פָּנָ֥יו אַ֙רְצָה֙ וַיִּשְׁתָּ֔חוּ וַיֹּ֣אמֶר ל֔וֹ מָ֥ה אֲדֹנִ֖י מְדַבֵּ֥ר אֶל־ עַבְדּֽוֹ׃"
+pericope: "[[Josh.5.13 The Commander of the LORD’s Army|The Commander of the LORD’s Army]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 5
+book/chapter: "[[Josh.5|Joshua 5]]"
+chronological_order: 235
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic JERICHO|JERICHO]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H3588A]]"
+- "[[H0589]]"
+- "[[H8269]]"
+- "[[H9014]]"
+- "[[H6635A]]"
+- "[[H3068G]]"
+- "[[H6258]]"
+- "[[H0935G]]"
+- "[[H5307G]]"
+- "[[H3091G]]"
+- "[[H0413]]"
+- "[[H6440H]]"
+- "[[H9023]]"
+- "[[H0776H]]"
+- "[[H9011]]"
+- "[[H7812]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H4100]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H1696G]]"
+- "[[H5650]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 5:14**<big><big>[[Josh.5.13 The Commander of the LORD’s Army|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, Nay; but [as] captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?
 <small><sub>**BSB:**</sub></small>
 “Neither,” He replied. “I have now come as Commander of the LORD’s army.” Then Joshua fell facedown in reverence and asked Him, “What does my Lord have to say to His servant?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]][[H9015\|׀]] [[H3808\|לֹ֗א]] [[H3588A\|כִּ֛י]] [[H0589\|אֲנִ֥י]] [[H8269\|שַׂר]][[H9014\|־]] [[H6635A\|צְבָֽא]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H6258\|עַתָּ֣ה]] [[H0935G\|בָ֑אתִי]] [[H9001\|וַ]][[H5307G\|יִּפֹּל֩]] [[H3091G\|יְהוֹשֻׁ֨עַ]] [[H0413\|אֶל]][[H9014\|־]] [[H6440H\|פָּנָ֥י]][[H9023\|ו]] [[H0776H\|אַ֙רְצָ]][[H9011\|ה֙]] [[H9001\|וַ]][[H7812\|יִּשְׁתָּ֔חוּ]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H9005\|ל֔]][[H9033\|וֹ]] [[H4100\|מָ֥ה]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H1696G\|מְדַבֵּ֥ר]] [[H0413\|אֶל]][[H9014\|־]] [[H5650\|עַבְדּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic CAPTAIN|CAPTAIN]] • [[topic JERICHO|JERICHO]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic VISION|VISION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.5.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.5.13|<< Joshua 5:13]]</td><td align="center" style="border:none;">[[Josh.5|Joshua 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.5.15|Joshua 5:15 >>]]</td></tr></table>
 

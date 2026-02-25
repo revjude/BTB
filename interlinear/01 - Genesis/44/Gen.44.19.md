@@ -1,8 +1,61 @@
+---
+title: Genesis 44:19
+type: Verse
+kjv: "My lord asked his servants, saying, Have ye a father, or a brother?"
+bsb: "My lord asked his servants, ‘Do you have a father or a brother?’"
+hebrew: "אֲדֹנִ֣י שָׁאַ֔ל אֶת־ עֲבָדָ֖יו לֵאמֹ֑ר הֲיֵשׁ־ לָכֶ֥ם אָ֖ב אוֹ־ אָֽח׃"
+pericope: "[[Gen.44.18 Judah Pleads for Benjamin|Judah Pleads for Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+strongs:
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H7592]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3426]]"
+- "[[H9036]]"
+- "[[H0001G]]"
+- "[[H0176A]]"
+- "[[H0251G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:19**<big><big>[[Gen.44.18 Judah Pleads for Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My lord asked his servants, saying, Have ye a father, or a brother?
 <small><sub>**BSB:**</sub></small>
 My lord asked his servants, ‘Do you have a father or a brother?’
+<small><sub>**Hebrew:**</sub></small>
+[[H0113\|אֲדֹנִ֣]][[H9020\|י]] [[H7592\|שָׁאַ֔ל]] [[H0853\|אֶת]][[H9014\|־]] [[H5650\|עֲבָדָ֖י]][[H9023\|ו]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H9008\|הֲ]][[H3426\|יֵשׁ]][[H9014\|־]] [[H9005\|לָ]][[H9036\|כֶ֥ם]] [[H0001G\|אָ֖ב]] [[H0176A\|אוֹ]][[H9014\|־]] [[H0251G\|אָֽח]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic JUDAH|JUDAH]] • [[topic READINGS, SELECT|READINGS, SELECT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.18|<< Genesis 44:18]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.20|Genesis 44:20 >>]]</td></tr></table>
 

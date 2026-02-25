@@ -1,8 +1,60 @@
+---
+title: Numbers 35:31
+type: Verse
+kjv: "Moreover ye shall take no satisfaction for the life of a murderer, which is guilty of death: but he shall be surely put to death."
+bsb: "You are not to accept a ransom for the life of a murderer who deserves to die; he must surely be put to death."
+hebrew: "וְלֹֽא־ תִקְח֥וּ כֹ֙פֶר֙ לְנֶ֣פֶשׁ רֹצֵ֔חַ אֲשֶׁר־ ה֥וּא רָשָׁ֖ע לָמ֑וּת כִּי־ מ֖וֹת יוּמָֽת׃"
+pericope: "[[Num.35.9 Six Cities of Refuge|Six Cities of Refuge]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 35
+book/chapter: "[[Num.35|Numbers 35]]"
+chronological_order: 195
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REFUGE|REFUGE]]"
+strongs:
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3947H]]"
+- "[[H3724A]]"
+- "[[H9005]]"
+- "[[H5315H]]"
+- "[[H7523]]"
+- "[[H0834A]]"
+- "[[H1931]]"
+- "[[H7563]]"
+- "[[H4191]]"
+- "[[H3588A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 35:31**<big><big>[[Num.35.9 Six Cities of Refuge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moreover ye shall take no satisfaction for the life of a murderer, which [is] guilty of death: but he shall be surely put to death.
 <small><sub>**BSB:**</sub></small>
 You are not to accept a ransom for the life of a murderer who deserves to die; he must surely be put to death.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3947H\|תִקְח֥וּ]] [[H3724A\|כֹ֙פֶר֙]] [[H9005\|לְ]][[H5315H\|נֶ֣פֶשׁ]] [[H7523\|רֹצֵ֔חַ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1931\|ה֥וּא]] [[H7563\|רָשָׁ֖ע]] [[H9005\|לָ]][[H4191\|מ֑וּת]] [[H3588A\|כִּי]][[H9014\|־]] [[H4191\|מ֖וֹת]] [[H4191\|יוּמָֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HOMICIDE|HOMICIDE]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REFUGE|REFUGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.35.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.35.30|<< Numbers 35:30]]</td><td align="center" style="border:none;">[[Num.35|Numbers 35]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.35.32|Numbers 35:32 >>]]</td></tr></table>
 

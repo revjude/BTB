@@ -1,8 +1,87 @@
+---
+title: Numbers 5:15
+type: Verse
+kjv: "Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth part of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it is an offering of jealousy, an offering of memorial, bringing iniquity to remembrance."
+bsb: "then he is to bring his wife to the priest. He must also bring for her an offering of a tenth of an ephah of barley flour. He is not to pour oil over it or put frankincense on it, because it is a grain offering for jealousy, an offering of memorial as a reminder of iniquity."
+hebrew: "וְהֵבִ֨יא הָאִ֣ישׁ אֶת־ אִשְׁתּוֹ֮ אֶל־ הַכֹּהֵן֒ וְהֵבִ֤יא אֶת־ קָרְבָּנָהּ֙ עָלֶ֔יהָ עֲשִׂירִ֥ת הָאֵיפָ֖ה קֶ֣מַח שְׂעֹרִ֑ים לֹֽא־ יִצֹ֨ק עָלָ֜יו שֶׁ֗מֶן וְלֹֽא־ יִתֵּ֤ן עָלָיו֙ לְבֹנָ֔ה כִּֽי־ מִנְחַ֤ת קְנָאֹת֙ ה֔וּא מִנְחַ֥ת זִכָּר֖וֹן מַזְכֶּ֥רֶת עָוֹֽן׃"
+pericope: "[[Num.5.11 The Adultery Test|The Adultery Test]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BARLEY|BARLEY]]"
+- "[[topic FRANKINCENSE|FRANKINCENSE]]"
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic MEASURE|MEASURE]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SELF-INCRIMINATION|SELF-INCRIMINATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935P]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H3548]]"
+- "[[H7133A]]"
+- "[[H9024]]"
+- "[[H5921A]]"
+- "[[H9034]]"
+- "[[H6224]]"
+- "[[H0374]]"
+- "[[H7058]]"
+- "[[H8184]]"
+- "[[H3808]]"
+- "[[H3332G]]"
+- "[[H9033]]"
+- "[[H8081]]"
+- "[[H9002]]"
+- "[[H5414H]]"
+- "[[H3828]]"
+- "[[H3588A]]"
+- "[[H4503G]]"
+- "[[H7068]]"
+- "[[H1931]]"
+- "[[H2146]]"
+- "[[H2142]]"
+- "[[H5771G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:15**<big><big>[[Num.5.11 The Adultery Test|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall the man bring his wife unto the priest, and he shall bring her offering for her, the tenth [part] of an ephah of barley meal; he shall pour no oil upon it, nor put frankincense thereon; for it [is] an offering of jealousy, an offering of memorial, bringing iniquity to remembrance.
 <small><sub>**BSB:**</sub></small>
 then he is to bring his wife to the priest. He must also bring for her an offering of a tenth of an ephah of barley flour. He is not to pour oil over it or put frankincense on it, because it is a grain offering for jealousy, an offering of memorial as a reminder of iniquity.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0935P\|הֵבִ֨יא]] [[H9009\|הָ]][[H0376G\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H0802H\|אִשְׁתּ]][[H9023\|וֹ֮]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3548\|כֹּהֵן֒]] [[H9001\|וְ]][[H0935P\|הֵבִ֤יא]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבָּנָ]][[H9024\|הּ֙]] [[H5921A\|עָלֶ֔י]][[H9034\|הָ]] [[H6224\|עֲשִׂירִ֥ת]] [[H9009\|הָ]][[H0374\|אֵיפָ֖ה]] [[H7058\|קֶ֣מַח]] [[H8184\|שְׂעֹרִ֑ים]] [[H3808\|לֹֽא]][[H9014\|־]] [[H3332G\|יִצֹ֨ק]] [[H5921A\|עָלָ֜י]][[H9033\|ו]] [[H8081\|שֶׁ֗מֶן]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H5414H\|יִתֵּ֤ן]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H3828\|לְבֹנָ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H4503G\|מִנְחַ֤ת]] [[H7068\|קְנָאֹת֙]] [[H1931\|ה֔וּא]] [[H4503G\|מִנְחַ֥ת]] [[H2146\|זִכָּר֖וֹן]] [[H2142\|מַזְכֶּ֥רֶת]] [[H5771G\|עָוֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BARLEY|BARLEY]] • [[topic FRANKINCENSE|FRANKINCENSE]] • [[topic HUSBAND|HUSBAND]] • [[topic JEALOUSY|JEALOUSY]] • [[topic MEASURE|MEASURE]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]] • [[topic SELF-INCRIMINATION|SELF-INCRIMINATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.14|<< Numbers 5:14]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.16|Numbers 5:16 >>]]</td></tr></table>
 

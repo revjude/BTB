@@ -1,8 +1,63 @@
+---
+title: 1 Samuel 10:26
+type: Verse
+kjv: "And Saul also went home to Gibeah; and there went with him a band of men, whose hearts God had touched."
+bsb: "Saul also went to his home in Gibeah, and the men of valor whose hearts God had touched went with him."
+hebrew: "וְגַ֨ם־ שָׁא֔וּל הָלַ֥ךְ לְבֵית֖וֹ גִּבְעָ֑תָה וַיֵּלְכ֣וּ עִמּ֔וֹ הַחַ֕יִל אֲשֶׁר־ נָגַ֥ע אֱלֹהִ֖ים בְּלִבָּֽם׃"
+pericope: "[[1Sam.10.17 Saul Proclaimed King|Saul Proclaimed King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 10
+book/chapter: "[[1Sam.10|1 Samuel 10]]"
+chronological_order: 289
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GIBEAH|GIBEAH]]"
+- "[[topic HEART|HEART]]"
+strongs:
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H7586G]]"
+- "[[H1980G]]"
+- "[[H9005]]"
+- "[[H1004B]]"
+- "[[H9023]]"
+- "[[H1390H]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H5973A]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H2428G]]"
+- "[[H0834A]]"
+- "[[H5060]]"
+- "[[H0430G]]"
+- "[[H9003]]"
+- "[[H3820A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 10:26**<big><big>[[1Sam.10.17 Saul Proclaimed King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Saul also went home to Gibeah; and there went with him a band of men, whose hearts God had touched.
 <small><sub>**BSB:**</sub></small>
 Saul also went to his home in Gibeah, and the men of valor whose hearts God had touched went with him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H1571\|גַ֨ם]][[H9014\|־]] [[H7586G\|שָׁא֔וּל]] [[H1980G\|הָלַ֥ךְ]] [[H9005\|לְ]][[H1004B\|בֵית֖]][[H9023\|וֹ]] [[H1390H\|גִּבְעָ֑תָ]][[H9011\|ה]] [[H9001\|וַ]][[H1980G\|יֵּלְכ֣וּ]] [[H5973A\|עִמּ֔]][[H9033\|וֹ]] [[H9009\|הַ]][[H2428G\|חַ֕יִל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5060\|נָגַ֥ע]] [[H0430G\|אֱלֹהִ֖ים]] [[H9003\|בְּ]][[H3820A\|לִבָּֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GIBEAH|GIBEAH]] • [[topic HEART|HEART]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.10.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.10.25|<< 1 Samuel 10:25]]</td><td align="center" style="border:none;">[[1Sam.10|1 Samuel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.10.27|1 Samuel 10:27 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Genesis 27:12
+type: Verse
+kjv: "My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing."
+bsb: "What if my father touches me? Then I would be revealed to him as a deceiver, and I would bring upon myself a curse rather than a blessing.”"
+hebrew: "אוּלַ֤י יְמֻשֵּׁ֙נִי֙ אָבִ֔י וְהָיִ֥יתִי בְעֵינָ֖יו כִּמְתַעְתֵּ֑עַ וְהֵבֵאתִ֥י עָלַ֛י קְלָלָ֖ה וְלֹ֥א בְרָכָֽה׃"
+pericope: "[[Gen.27.1 Isaac Blesses Jacob|Isaac Blesses Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 27
+book/chapter: "[[Gen.27|Genesis 27]]"
+chronological_order: 69
+era: Patriarchal Period
+period: "The Patriarchs: Jacob"
+date: ~2006–1859 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic CRAFTINESS|CRAFTINESS]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic FAMILY|FAMILY]]"
+- "[[topic FAVORITISM|FAVORITISM]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H0194]]"
+- "[[H4959]]"
+- "[[H9030]]"
+- "[[H0001G]]"
+- "[[H9020]]"
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9023]]"
+- "[[H9004]]"
+- "[[H8591]]"
+- "[[H0935P]]"
+- "[[H5921A]]"
+- "[[H7045]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H1293]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 27:12**<big><big>[[Gen.27.1 Isaac Blesses Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My father peradventure will feel me, and I shall seem to him as a deceiver; and I shall bring a curse upon me, and not a blessing.
 <small><sub>**BSB:**</sub></small>
 What if my father touches me? Then I would be revealed to him as a deceiver, and I would bring upon myself a curse rather than a blessing.”
+<small><sub>**Hebrew:**</sub></small>
+[[H0194\|אוּלַ֤י]] [[H4959\|יְמֻשֵּׁ֙]][[H9030\|נִי֙]] [[H0001G\|אָבִ֔]][[H9020\|י]] [[H9001\|וְ]][[H1961\|הָיִ֥יתִי]] [[H9003\|בְ]][[H5869I\|עֵינָ֖י]][[H9023\|ו]] [[H9004\|כִּ]][[H8591\|מְתַעְתֵּ֑עַ]] [[H9001\|וְ]][[H0935P\|הֵבֵאתִ֥י]] [[H5921A\|עָלַ֛]][[H9030\|י]] [[H7045\|קְלָלָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H1293\|בְרָכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COVETOUSNESS|COVETOUSNESS]] • [[topic CRAFTINESS|CRAFTINESS]] • [[topic DECEPTION|DECEPTION]] • [[topic DISHONESTY|DISHONESTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic FAMILY|FAMILY]] • [[topic FAVORITISM|FAVORITISM]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]] • [[topic REBEKAH (REBECCA)|REBEKAH (REBECCA)]] • [[topic TEMPTATION|TEMPTATION]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.27.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.27.11|<< Genesis 27:11]]</td><td align="center" style="border:none;">[[Gen.27|Genesis 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.27.13|Genesis 27:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

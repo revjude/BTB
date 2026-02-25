@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Be My Rock of Refuge
+type: Pericope
 pericope: "[[Ps.71.1 Be My Rock of Refuge|Be My Rock of Refuge]]"
-verse_count: 24
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 71
 book/chapter: "[[Ps.71|Psalm 71]]"
-genre:
+chronological_order: 428
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 24
 verses:
 - "[[Ps.71.1]]"
 - "[[Ps.71.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Ps.71.24]]"
 ---
 
-[[Ps.71|Psalm 71:1 - Psalm 71:24]]
+<small>[[Ps.71|Psalm 71:1-24]]</small>
 *Be My Rock of Refuge*
 
 [[Ps.71.1|1]] In thee, O LORD, do I put my trust: let me never be put to confusion.

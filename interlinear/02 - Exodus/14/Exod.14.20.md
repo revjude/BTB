@@ -1,8 +1,74 @@
+---
+title: Exodus 14:20
+type: Verse
+kjv: "And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness to them, but it gave light by night to these: so that the one came not near the other all the night."
+bsb: "so that it came between the camps of Egypt and Israel. The cloud was there in the darkness, but it lit up the night. So all night long neither camp went near the other."
+hebrew: "וַיָּבֹ֞א בֵּ֣ין׀ מַחֲנֵ֣ה מִצְרַ֗יִם וּבֵין֙ מַחֲנֵ֣ה יִשְׂרָאֵ֔ל וַיְהִ֤י הֶֽעָנָן֙ וְהַחֹ֔שֶׁךְ וַיָּ֖אֶר אֶת־ הַלָּ֑יְלָה וְלֹא־ קָרַ֥ב זֶ֛ה אֶל־ זֶ֖ה כָּל־ הַלָּֽיְלָה׃"
+pericope: "[[Exod.14.15 Parting the Red Sea|Parting the Red Sea]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 14
+book/chapter: "[[Exod.14|Exodus 14]]"
+chronological_order: 106
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic EGYPT|EGYPT]]"
+- "[[topic EGYPTIANS|EGYPTIANS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H0996G]]"
+- "[[H9015]]"
+- "[[H4264]]"
+- "[[H4714G]]"
+- "[[H9002]]"
+- "[[H3478]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H6051]]"
+- "[[H2822]]"
+- "[[H0215]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3915]]"
+- "[[H3808]]"
+- "[[H7126G]]"
+- "[[H2088]]"
+- "[[H0413]]"
+- "[[H3605]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 14:20**<big><big>[[Exod.14.15 Parting the Red Sea|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came between the camp of the Egyptians and the camp of Israel; and it was a cloud and darkness [to them], but it gave light by night [to these]: so that the one came not near the other all the night.
 <small><sub>**BSB:**</sub></small>
 so that it came between the camps of Egypt and Israel. The cloud was there in the darkness, but it lit up the night. So all night long neither camp went near the other.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֞א]] [[H0996G\|בֵּ֣ין]][[H9015\|׀]] [[H4264\|מַחֲנֵ֣ה]] [[H4714G\|מִצְרַ֗יִם]] [[H9002\|וּ]][[H0996G\|בֵין֙]] [[H4264\|מַחֲנֵ֣ה]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וַ]][[H1961\|יְהִ֤י]] [[H9009\|הֶֽ]][[H6051\|עָנָן֙]] [[H9002\|וְ]][[H9009\|הַ]][[H2822\|חֹ֔שֶׁךְ]] [[H9001\|וַ]][[H0215\|יָּ֖אֶר]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לָּ֑יְלָה]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H7126G\|קָרַ֥ב]] [[H2088\|זֶ֛ה]] [[H0413\|אֶל]][[H9014\|־]] [[H2088\|זֶ֖ה]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3915\|לָּֽיְלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EGYPT|EGYPT]] • [[topic EGYPTIANS|EGYPTIANS]] • [[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.14.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.14.19|<< Exodus 14:19]]</td><td align="center" style="border:none;">[[Exod.14|Exodus 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.14.21|Exodus 14:21 >>]]</td></tr></table>
 

@@ -1,8 +1,71 @@
+---
+title: Isaiah 49:21
+type: Verse
+kjv: "Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where had they been?"
+bsb: "Then you will say in your heart, ‘Who has begotten these for me? I was bereaved and barren; I was exiled and rejected. So who has reared them? Look, I was left all alone, so where did they come from?’”"
+hebrew: "וְאָמַ֣רְתְּ בִּלְבָבֵ֗ךְ מִ֤י יָֽלַד־ לִי֙ אֶת־ אֵ֔לֶּה וַאֲנִ֥י שְׁכוּלָ֖ה וְגַלְמוּדָ֑ה גֹּלָ֣ה׀ וְסוּרָ֗ה וְאֵ֙לֶּה֙ מִ֣י גִדֵּ֔ל הֵ֤ן אֲנִי֙ נִשְׁאַ֣רְתִּי לְבַדִּ֔י אֵ֖לֶּה אֵיפֹ֥ה הֵֽם׃ פ"
+pericope: "[[Isa.49.1 The Servant and Light to the Gentiles|The Servant and Light to the Gentiles]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 49
+book/chapter: "[[Isa.49|Isaiah 49]]"
+chronological_order: 688
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GENTILES|GENTILES]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H3824]]"
+- "[[H9022]]"
+- "[[H4310]]"
+- "[[H3205]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0853]]"
+- "[[H0428]]"
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H7909]]"
+- "[[H1565]]"
+- "[[H1540K]]"
+- "[[H9015]]"
+- "[[H5493G]]"
+- "[[H1431]]"
+- "[[H2005]]"
+- "[[H7604]]"
+- "[[H0905H]]"
+- "[[H0375]]"
+- "[[H1992]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Isaiah 49:21**<big><big>[[Isa.49.1 The Servant and Light to the Gentiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shalt thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where [had] they [been]?
 <small><sub>**BSB:**</sub></small>
 Then you will say in your heart, ‘Who has begotten these for me? I was bereaved and barren; I was exiled and rejected. So who has reared them? Look, I was left all alone, so where did they come from?’”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H0559\|אָמַ֣רְתְּ]] [[H9003\|בִּ]][[H3824\|לְבָבֵ֗]][[H9022\|ךְ]] [[H4310\|מִ֤י]] [[H3205\|יָֽלַד]][[H9014\|־]] [[H9005\|לִ]][[H9030\|י֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵ֔לֶּה]] [[H9002\|וַ]][[H0589\|אֲנִ֥י]] [[H7909\|שְׁכוּלָ֖ה]] [[H9002\|וְ]][[H1565\|גַלְמוּדָ֑ה]] [[H1540K\|גֹּלָ֣ה]][[H9015\|׀]] [[H9002\|וְ]][[H5493G\|סוּרָ֗ה]] [[H9002\|וְ]][[H0428\|אֵ֙לֶּה֙]] [[H4310\|מִ֣י]] [[H1431\|גִדֵּ֔ל]] [[H2005\|הֵ֤ן]] [[H0589\|אֲנִי֙]] [[H7604\|נִשְׁאַ֣רְתִּי]] [[H9005\|לְ]][[H0905H\|בַדִּ֔]][[H9030\|י]] [[H0428\|אֵ֖לֶּה]] [[H0375\|אֵיפֹ֥ה]] [[H1992\|הֵֽם]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GENTILES|GENTILES]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.49.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.20|<< Isaiah 49:20]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.22|Isaiah 49:22 >>]]</td></tr></table>
 
@@ -29,7 +92,7 @@ Then you will say in your heart, ‘Who has begotten these for me? I was bereave
 | to alone me  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H0905H\|בַדִּ֔]]&#8207;&#8207;[[H9030\|י]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> va.D<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | these [children]  |**<big>&#8207;[[H0428\|אֵ֖לֶּה]]&#8207; </big>**| 'E.leh<small><sup>[[HTm]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | where?  |**<big>&#8207;[[H0375\|אֵיפֹ֥ה]]&#8207; </big>**| 'ei.Foh<small><sup>[[HTi]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [are] they  |**<big>&#8207;[[H1992\|הֵֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [are] they  |**<big>&#8207;[[H1992\|הֵֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Hem<small><sup>[[HPp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.49.20|<< Isaiah 49:20]]</td><td align="center" style="border:none;">[[Isa.49|Isaiah 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.49.22|Isaiah 49:22 >>]]</td></tr></table>
 
 

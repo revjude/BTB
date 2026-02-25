@@ -1,10 +1,56 @@
+---
+title: John 13:9
+type: Verse
+kjv: "Simon Peter saith unto him, Lord, not my feet only, but also my hands and my head."
+bsb: "“Then, Lord,” Simon Peter replied, “not only my feet, but my hands and my head as well!”"
+greek: "λέγει αὐτῷ Σίμων Πέτρος· κύριε, μὴ τοὺς πόδας μου μόνον ἀλλὰ καὶ τὰς χεῖρας καὶ τὴν κεφαλήν.¶"
+pericope: "[[John.13.1 Jesus Washes His Disciples’ Feet|Jesus Washes His Disciples’ Feet]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FEET|FEET]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G4613O]]"
+- "[[G4074G]]"
+- "[[G2962G]]"
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G4228]]"
+- "[[G3165]]"
+- "[[G3441]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G5495]]"
+- "[[G2776]]"
+texts:
+- NKO
+---
+
 **John 13:9**<big><big>[[John.13.1 Jesus Washes His Disciples’ Feet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Simon Peter saith unto him, Lord, not my feet only, but also [my] hands and [my] head.
 <small><sub>**BSB:**</sub></small>
 “Then, Lord,” Simon Peter replied, “not only my feet, but my hands and my head as well!”
-<small><sub>**Literal:**</sub></small>
-Says to Him Simon Peter; Lord, not the feet of me only but also the hands and the head.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.8|<< John 13:8]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.10|John 13:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G4613O\|Σίμων]]  [[G4074G\|Πέτρος·]]  [[G2962G\|κύριε,]]  [[G3361\|μὴ]]  [[G3588\|τοὺς]]  [[G4228\|πόδας]]  [[G3165\|μου]]  [[G3441\|μόνον]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3588\|τὰς]]  [[G5495\|χεῖρας]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G2776\|κεφαλήν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEET|FEET]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.8|<< John 13:8]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.10|John 13:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,67 @@
+---
+title: Hebrews 2:14
+type: Verse
+kjv: "Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;"
+bsb: "Now since the children have flesh and blood, He too shared in their humanity, so that by His death He might destroy him who holds the power of death, that is, the devil,"
+greek: "Ἐπεὶ οὖν τὰ παιδία κεκοινώνηκεν αἵματος καὶ σαρκός, καὶ αὐτὸς παραπλησίως μετέσχεν τῶν αὐτῶν, ἵνα διὰ τοῦ θανάτου καταργήσῃ τὸν τὸ κράτος ἔχοντα τοῦ θανάτου, τοῦτ᾽ ἔστιν τὸν διάβολον,"
+pericope: "[[Heb.2.5 Jesus like His Brothers|Jesus like His Brothers]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 2
+book/chapter: "[[Heb.2|Hebrews 2]]"
+chronological_order: 1141
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic POWER|POWER]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic SUFFERING|SUFFERING]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[G1893]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G3813]]"
+- "[[G2841]]"
+- "[[G0129G]]"
+- "[[G2532]]"
+- "[[G4561]]"
+- "[[G0846]]"
+- "[[G3898]]"
+- "[[G3348]]"
+- "[[G2443]]"
+- "[[G1223]]"
+- "[[G2288]]"
+- "[[G2673]]"
+- "[[G2904]]"
+- "[[G2192]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G1228]]"
+texts:
+- NKO
+---
+
 **Hebrews 2:14**<big><big>[[Heb.2.5 Jesus like His Brothers|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Forasmuch then as the children are partakers of flesh and blood, he also himself likewise took part of the same; that through death he might destroy him that had the power of death, that is, the devil;
 <small><sub>**BSB:**</sub></small>
 Now since the children have flesh and blood, He too shared in their humanity, so that by His death He might destroy him who holds the power of death, that is, the devil,
-<small><sub>**Literal:**</sub></small>
-Since therefore the children have partaken of blood and of flesh also He himself likewise took part in the same things, so that through <the> [His] death He may destroy the [one] the power holding <the> of death, That is the devil,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.13|<< Hebrews 2:13]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.15|Hebrews 2:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1893\|Ἐπεὶ]]  [[G3767\|οὖν]]  [[G3588\|τὰ]]  [[G3813\|παιδία]]  [[G2841\|κεκοινώνηκεν]]  [[G0129G\|αἵματος]]  [[G2532\|καὶ]]  [[G4561\|σαρκός,]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3898\|παραπλησίως]]  [[G3348\|μετέσχεν]]  [[G3588\|τῶν]]  [[G0846\|αὐτῶν,]]  [[G2443\|ἵνα]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου]]  [[G2673\|καταργήσῃ]]  [[G3588\|τὸν]]  [[G3588\|τὸ]]  [[G2904\|κράτος]]  [[G2192\|ἔχοντα]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου,]]  [[G3778\|τοῦτ᾽]]  [[G1510\|ἔστιν]]  [[G3588\|τὸν]]  [[G1228\|διάβολον,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DEATH|DEATH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic POWER|POWER]] • [[topic SALVATION|SALVATION]] • [[topic SATAN|SATAN]] • [[topic SUFFERING|SUFFERING]] • [[topic WAR|WAR]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.2.13|<< Hebrews 2:13]]</td><td align="center" style="border:none;">[[Heb.2|Hebrews 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.2.15|Hebrews 2:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

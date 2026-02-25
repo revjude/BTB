@@ -1,8 +1,50 @@
+---
+title: 1 Chronicles 26:3
+type: Verse
+kjv: "Elam the fifth, Jehohanan the sixth, Elioenai the seventh."
+bsb: "Elam the fifth, Jehohanan the sixth, and Eliehoenai the seventh."
+hebrew: "עֵילָ֤ם הַחֲמִישִׁי֙ יְהוֹחָנָ֣ן הַשִּׁשִּׁ֔י אֶלְיְהוֹעֵינַ֖י הַשְּׁבִיעִֽי׃"
+pericope: "[[1Chr.26.1 The Divisions of the Gatekeepers|The Divisions of the Gatekeepers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ELAM|ELAM]]"
+- "[[topic ELIHOENAI|ELIHOENAI]]"
+- "[[topic JEHOHANAN|JEHOHANAN]]"
+strongs:
+- "[[H5867H]]"
+- "[[H9009]]"
+- "[[H2549]]"
+- "[[H3076I]]"
+- "[[H8345]]"
+- "[[H0454A]]"
+- "[[H7637]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:3**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Elam the fifth, Jehohanan the sixth, Elioenai the seventh.
 <small><sub>**BSB:**</sub></small>
 Elam the fifth, Jehohanan the sixth, and Eliehoenai the seventh.
+<small><sub>**Hebrew:**</sub></small>
+[[H5867H\|עֵילָ֤ם]] [[H9009\|הַ]][[H2549\|חֲמִישִׁי֙]] [[H3076I\|יְהוֹחָנָ֣ן]] [[H9009\|הַ]][[H8345\|שִּׁשִּׁ֔י]] [[H0454A\|אֶלְיְהוֹעֵינַ֖י]] [[H9009\|הַ]][[H7637\|שְּׁבִיעִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ELAM|ELAM]] • [[topic ELIHOENAI|ELIHOENAI]] • [[topic JEHOHANAN|JEHOHANAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.2|<< 1 Chronicles 26:2]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.4|1 Chronicles 26:4 >>]]</td></tr></table>
 

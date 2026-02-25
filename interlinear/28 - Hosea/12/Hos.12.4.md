@@ -1,8 +1,61 @@
+---
+title: Hosea 12:4
+type: Verse
+kjv: "Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Bethel, and there he spake with us;"
+bsb: "Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—"
+hebrew: "וָיָּ֤שַׂר אֶל־ מַלְאָךְ֙ וַיֻּכָ֔ל בָּכָ֖ה וַיִּתְחַנֶּן־ ל֑וֹ בֵּֽית־ אֵל֙ יִמְצָאֶ֔נּוּ וְשָׁ֖ם יְדַבֵּ֥ר עִמָּֽנוּ׃"
+pericope: "[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|A Reproof of Ephraim, Judah, and Jacob]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 12
+book/chapter: "[[Hos.12|Hosea 12]]"
+chronological_order: 653
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H7786]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H4397H]]"
+- "[[H3201]]"
+- "[[H1058]]"
+- "[[H2603A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H1008G]]"
+- "[[H4672]]"
+- "[[H9002]]"
+- "[[H8033G]]"
+- "[[H1696G]]"
+- "[[H5973A]]"
+- "[[H9035]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 12:4**<big><big>[[Hos.12.1 A Reproof of Ephraim, Judah, and Jacob|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him [in] Bethel, and there he spake with us;
 <small><sub>**BSB:**</sub></small>
 Yes, he struggled with the angel and prevailed; he wept and sought His favor; he found Him at Bethel and spoke with Him there—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H7786\|יָּ֤שַׂר]] [[H0413\|אֶל]][[H9014\|־]] [[H4397H\|מַלְאָךְ֙]] [[H9001\|וַ]][[H3201\|יֻּכָ֔ל]] [[H1058\|בָּכָ֖ה]] [[H9001\|וַ]][[H2603A\|יִּתְחַנֶּן]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵל֙]] [[H4672\|יִמְצָאֶ֔]][[H9033\|נּוּ]] [[H9002\|וְ]][[H8033G\|שָׁ֖ם]] [[H1696G\|יְדַבֵּ֥ר]] [[H5973A\|עִמָּֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic ISRAEL|ISRAEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.12.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.12.3|<< Hosea 12:3]]</td><td align="center" style="border:none;">[[Hos.12|Hosea 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.12.5|Hosea 12:5 >>]]</td></tr></table>
 

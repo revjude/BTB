@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Amaziah Accuses Amos
+type: Pericope
 pericope: "[[Amos.7.10 Amaziah Accuses Amos|Amaziah Accuses Amos]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Amos
 chapter: 7
 book/chapter: "[[Amos.7|Amos 7]]"
-genre:
+chronological_order: 604
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 8
 verses:
 - "[[Amos.7.10]]"
 - "[[Amos.7.11]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Amos.7.17]]"
 ---
 
-[[Amos.7|Amos 7:10 - Amos 7:17]]
+<small>[[Amos.7|Amos 7:10-17]]</small>
 *Amaziah Accuses Amos*
 
 [[Amos.7.10|10]] Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, Amos hath conspired against thee in the midst of the house of Israel: the land is not able to bear all his words.

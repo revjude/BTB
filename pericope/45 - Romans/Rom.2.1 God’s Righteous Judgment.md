@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Righteous Judgment
+type: Pericope
 pericope: "[[Rom.2.1 God’s Righteous Judgment|God’s Righteous Judgment]]"
-verse_count: 16
+original_language: Greek
 testament: New
 book: Romans
 chapter: 2
 book/chapter: "[[Rom.2|Romans 2]]"
-genre:
+chronological_order: 1088
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
 - epistle
 - pauline epistle
 - theological treatise
+verse_count: 16
 verses:
 - "[[Rom.2.1]]"
 - "[[Rom.2.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Rom.2.16]]"
 ---
 
-[[Rom.2|Romans 2:1 - Romans 2:16]]
+<small>[[Rom.2|Romans 2:1-16]]</small>
 *God’s Righteous Judgment*
 
 [[Rom.2.1|1]] Therefore thou art inexcusable, O man, whosoever thou art that judgest: for wherein thou judgest another, thou condemnest thyself; for thou that judgest doest the same things.

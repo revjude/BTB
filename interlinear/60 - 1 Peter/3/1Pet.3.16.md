@@ -1,10 +1,70 @@
+---
+title: 1 Peter 3:16
+type: Verse
+kjv: "Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ."
+bsb: "keeping a clear conscience, so that those who slander you may be put to shame by your good behavior in Christ."
+greek: "ἀλλὰ μετὰ πραΰτητος καὶ φόβου, συνείδησιν ἔχοντες ἀγαθήν, ἵνα ἐν ᾧ καταλαλεῖσθε ὑμῶν ὡς κακοποιῶν, καταισχυνθῶσιν οἱ ἐπηρεάζοντες ὑμῶν τὴν ἀγαθὴν ἐν Χριστῷ ἀναστροφήν."
+pericope: "[[1Pet.3.14 Suffering for Righteousness|Suffering for Righteousness]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic SLANDER|SLANDER]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[G0235]]"
+- "[[G3326]]"
+- "[[G4236]]"
+- "[[G2532]]"
+- "[[G5401]]"
+- "[[G4893]]"
+- "[[G2192]]"
+- "[[G0018]]"
+- "[[G2443]]"
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G2635]]"
+- "[[G4771]]"
+- "[[G5613]]"
+- "[[G2555]]"
+- "[[G2617]]"
+- "[[G3588]]"
+- "[[G1908]]"
+- "[[G5547]]"
+- "[[G0391]]"
+texts:
+- NO
+- NKO
+- N(k)(o)
+- KO
+---
+
 **1 Peter 3:16**<big><big>[[1Pet.3.14 Suffering for Righteousness|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.
 <small><sub>**BSB:**</sub></small>
 keeping a clear conscience, so that those who slander you may be put to shame by your good behavior in Christ.
-<small><sub>**Literal:**</sub></small>
-yet with gentleness and fear, [16] a conscience having good, so that in this you are spoken against you as to evildoers they may be ashamed those reviling your <the> good in Christ manner of life.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.15|<< 1 Peter 3:15]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.17|1 Peter 3:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|ἀλλὰ]]  [[G3326\|μετὰ]]  [[G4236\|πραΰτητος]]  [[G2532\|καὶ]]  [[G5401\|φόβου,]]  [[G4893\|συνείδησιν]]  [[G2192\|ἔχοντες]]  [[G0018\|ἀγαθήν,]]  [[G2443\|ἵνα]]  [[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G2635\|καταλαλεῖσθε]]  [[G4771\|ὑμῶν]]  [[G5613\|ὡς]]  [[G2555\|κακοποιῶν,]]  [[G2617\|καταισχυνθῶσιν]]  [[G3588\|οἱ]]  [[G1908\|ἐπηρεάζοντες]]  [[G4771\|ὑμῶν]]  [[G3588\|τὴν]]  [[G0018\|ἀγαθὴν]]  [[G1722\|ἐν]]  [[G5547\|Χριστῷ]]  [[G0391\|ἀναστροφήν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic INFLUENCE|INFLUENCE]] • [[topic INTEGRITY|INTEGRITY]] • [[topic PERSECUTION|PERSECUTION]] • [[topic SLANDER|SLANDER]] • [[topic SPEAKING|SPEAKING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.15|<< 1 Peter 3:15]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.17|1 Peter 3:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

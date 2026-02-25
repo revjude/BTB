@@ -1,8 +1,55 @@
+---
+title: Ezekiel 14:10
+type: Verse
+kjv: "And they shall bear the punishment of their iniquity: the punishment of the prophet shall be even as the punishment of him that seeketh unto him;"
+bsb: "They will bear their punishment—the punishment of the inquirer will be the same as that of the prophet—"
+hebrew: "וְנָשְׂא֖וּ עֲוֹנָ֑ם כַּֽעֲוֹן֙ הַדֹּרֵ֔שׁ כַּעֲוֹ֥ן הַנָּבִ֖יא יִֽהְיֶֽה׃"
+pericope: "[[Ezek.14.1 Idolatrous Elders Condemned|Idolatrous Elders Condemned]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 14
+book/chapter: "[[Ezek.14|Ezekiel 14]]"
+chronological_order: 805
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5375J]]"
+- "[[H5771I]]"
+- "[[H9028]]"
+- "[[H9004]]"
+- "[[H9009]]"
+- "[[H1875]]"
+- "[[H5030]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 14:10**<big><big>[[Ezek.14.1 Idolatrous Elders Condemned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall bear the punishment of their iniquity: the punishment of the prophet shall be even as the punishment of him that seeketh [unto him];
 <small><sub>**BSB:**</sub></small>
 They will bear their punishment—the punishment of the inquirer will be the same as that of the prophet—
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5375J\|נָשְׂא֖וּ]] [[H5771I\|עֲוֹנָ֑]][[H9028\|ם]] [[H9004\|כַּֽ]][[H5771I\|עֲוֹן֙]] [[H9009\|הַ]][[H1875\|דֹּרֵ֔שׁ]] [[H9004\|כַּ]][[H5771I\|עֲוֹ֥ן]] [[H9009\|הַ]][[H5030\|נָּבִ֖יא]] [[H1961\|יִֽהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic IDOLATRY|IDOLATRY]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.14.9|<< Ezekiel 14:9]]</td><td align="center" style="border:none;">[[Ezek.14|Ezekiel 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.14.11|Ezekiel 14:11 >>]]</td></tr></table>
 

@@ -1,8 +1,62 @@
+---
+title: 2 Kings 25:26
+type: Verse
+kjv: "And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees."
+bsb: "Then all the people small and great, together with the commanders of the army, arose and fled to Egypt for fear of the Chaldeans."
+hebrew: "וַיָּקֻ֨מוּ כָל־ הָעָ֜ם מִקָּטֹ֤ן וְעַד־ גָּדוֹל֙ וְשָׂרֵ֣י הַחֲיָלִ֔ים וַיָּבֹ֖אוּ מִצְרָ֑יִם כִּ֥י יָרְא֖וּ מִפְּנֵ֥י כַשְׂדִּֽים׃ פ"
+pericope: "[[2Kgs.25.25 The Murder of Gedaliah|The Murder of Gedaliah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic GEDALIAH|GEDALIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9006]]"
+- "[[H6996B]]"
+- "[[H9002]]"
+- "[[H5704]]"
+- "[[H1419A]]"
+- "[[H8269]]"
+- "[[H2428A]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H3588A]]"
+- "[[H3372G]]"
+- "[[H6440L]]"
+- "[[H3778]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Kings 25:26**<big><big>[[2Kgs.25.25 The Murder of Gedaliah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.
 <small><sub>**BSB:**</sub></small>
 Then all the people small and great, together with the commanders of the army, arose and fled to Egypt for fear of the Chaldeans.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּקֻ֨מוּ]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֜ם]] [[H9006\|מִ]][[H6996B\|קָּטֹ֤ן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H1419A\|גָּדוֹל֙]] [[H9002\|וְ]][[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H2428A\|חֲיָלִ֔ים]] [[H9001\|וַ]][[H0935G\|יָּבֹ֖אוּ]] [[H4714G\|מִצְרָ֑יִם]] [[H3588A\|כִּ֥י]] [[H3372G\|יָרְא֖וּ]] [[H9006\|מִ]][[H6440L\|פְּנֵ֥י]] [[H3778\|כַשְׂדִּֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GEDALIAH|GEDALIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.25|<< 2 Kings 25:25]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.27|2 Kings 25:27 >>]]</td></tr></table>
 
@@ -21,7 +75,7 @@ Then all the people small and great, together with the commanders of the army, a
 | for  |**<big>&#8207;[[H3588A\|כִּ֥י]]&#8207; </big>**| ki<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they were afraid  |**<big>&#8207;[[H3372G\|יָרְא֖וּ]]&#8207; </big>**| ya.re.'U<small><sup>[[HVqp3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | of \<the face of>  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H6440L\|פְּנֵ֥י]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> pe.Nei<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| [the] Chaldeans  |**<big>&#8207;[[H3778\|כַשְׂדִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| khas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| [the] Chaldeans  |**<big>&#8207;[[H3778\|כַשְׂדִּֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| khas.Dim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.25|<< 2 Kings 25:25]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.27|2 Kings 25:27 >>]]</td></tr></table>
 
 

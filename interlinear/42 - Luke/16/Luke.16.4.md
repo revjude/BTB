@@ -1,10 +1,66 @@
+---
+title: Luke 16:4
+type: Verse
+kjv: "I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses."
+bsb: "I know what I will do so that after my removal from management, people will welcome me into their homes.’"
+jesus_said: "I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses."
+greek: "ἔγνων τί ποιήσω, ἵνα ὅταν μετασταθῶ ἐκ τῆς οἰκονομίας δέξωνταί με εἰς τοὺς οἴκους αὐτῶν."
+pericope: "[[Luke.16.1 The Parable of the Shrewd Manager|The Parable of the Shrewd Manager]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 16
+book/chapter: "[[Luke.16|Luke 16]]"
+chronological_order: 978
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic COVETOUSNESS|COVETOUSNESS]]"
+- "[[topic DISHONESTY|DISHONESTY]]"
+- "[[topic EMBEZZLEMENT|EMBEZZLEMENT]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G1097]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G2443]]"
+- "[[G3752]]"
+- "[[G3179]]"
+- "[[G1537]]"
+- "[[G3588]]"
+- "[[G3622]]"
+- "[[G1209]]"
+- "[[G3165]]"
+- "[[G1519]]"
+- "[[G3624G]]"
+- "[[G0846]]"
+texts:
+- NKO
+- no
+- NK(o)
+---
+
 **Luke 16:4**<big><big>[[Luke.16.1 The Parable of the Shrewd Manager|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.
 <small><sub>**BSB:**</sub></small>
 I know what I will do so that after my removal from management, people will welcome me into their homes.’
-<small><sub>**Literal:**</sub></small>
-I know what I may do so that when I may have been removed from the management they may receive me into the homes of them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.3|<< Luke 16:3]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.5|Luke 16:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|ἔγνων]]  [[G5101\|τί]]  [[G4160G\|ποιήσω,]]  [[G2443\|ἵνα]]  [[G3752\|ὅταν]]  [[G3179\|μετασταθῶ]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G3622\|οἰκονομίας]]  [[G1209\|δέξωνταί]]  [[G3165\|με]]  [[G1519\|εἰς]]  [[G3588\|τοὺς]]  [[G3624G\|οἴκους]]  [[G0846\|αὐτῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COVETOUSNESS|COVETOUSNESS]] • [[topic DISHONESTY|DISHONESTY]] • [[topic EMBEZZLEMENT|EMBEZZLEMENT]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MALFEASANCE IN OFFICE|MALFEASANCE IN OFFICE]] • [[topic PROBATION|PROBATION]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.16.3|<< Luke 16:3]]</td><td align="center" style="border:none;">[[Luke.16|Luke 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.16.5|Luke 16:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

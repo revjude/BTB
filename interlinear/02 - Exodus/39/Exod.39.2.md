@@ -1,8 +1,62 @@
+---
+title: Exodus 39:2
+type: Verse
+kjv: "And he made the ephod of gold, blue, and purple, and scarlet, and fine twined linen."
+bsb: "Bezalel made the ephod of finely spun linen embroidered with gold, and with blue, purple, and scarlet yarn."
+hebrew: "וַיַּ֖עַשׂ אֶת־ הָאֵפֹ֑ד זָהָ֗ב תְּכֵ֧לֶת וְאַרְגָּמָ֛ן וְתוֹלַ֥עַת שָׁנִ֖י וְשֵׁ֥שׁ מָשְׁזָֽר׃"
+pericope: "[[Exod.39.1 The Ephod|The Ephod]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 39
+book/chapter: "[[Exod.39|Exodus 39]]"
+chronological_order: 131
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic EPHOD|EPHOD]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0646]]"
+- "[[H2091]]"
+- "[[H8504]]"
+- "[[H9002]]"
+- "[[H0713]]"
+- "[[H8438B]]"
+- "[[H8144]]"
+- "[[H8336B]]"
+- "[[H7806]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 39:2**<big><big>[[Exod.39.1 The Ephod|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he made the ephod [of] gold, blue, and purple, and scarlet, and fine twined linen.
 <small><sub>**BSB:**</sub></small>
 Bezalel made the ephod of finely spun linen embroidered with gold, and with blue, purple, and scarlet yarn.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6213H\|יַּ֖עַשׂ]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0646\|אֵפֹ֑ד]] [[H2091\|זָהָ֗ב]] [[H8504\|תְּכֵ֧לֶת]] [[H9002\|וְ]][[H0713\|אַרְגָּמָ֛ן]] [[H9002\|וְ]][[H8438B\|תוֹלַ֥עַת]] [[H8144\|שָׁנִ֖י]] [[H9002\|וְ]][[H8336B\|שֵׁ֥שׁ]] [[H7806\|מָשְׁזָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic EPHOD|EPHOD]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.39.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.39.1|<< Exodus 39:1]]</td><td align="center" style="border:none;">[[Exod.39|Exodus 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.39.3|Exodus 39:3 >>]]</td></tr></table>
 

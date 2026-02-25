@@ -1,8 +1,68 @@
+---
+title: Numbers 1:3
+type: Verse
+kjv: "From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies."
+bsb: "You and Aaron are to number those who are twenty years of age or older by their divisions—everyone who can serve in Israel’s army."
+hebrew: "מִבֶּ֨ן עֶשְׂרִ֤ים שָׁנָה֙ וָמַ֔עְלָה כָּל־ יֹצֵ֥א צָבָ֖א בְּיִשְׂרָאֵ֑ל תִּפְקְד֥וּ אֹתָ֛ם לְצִבְאֹתָ֖ם אַתָּ֥ה וְאַהֲרֹֽן׃"
+pericope: "[[Num.1.1 The First Census of Israel|The First Census of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 1
+book/chapter: "[[Num.1|Numbers 1]]"
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9006]]"
+- "[[H1121L]]"
+- "[[H6242]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H4605]]"
+- "[[H9011]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H3318N]]"
+- "[[H6635H]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H6485A]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H6635A]]"
+- "[[H9028]]"
+- "[[H0859A]]"
+- "[[H0175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 1:3**<big><big>[[Num.1.1 The First Census of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.
 <small><sub>**BSB:**</sub></small>
 You and Aaron are to number those who are twenty years of age or older by their divisions—everyone who can serve in Israel’s army.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H1121L\|בֶּ֨ן]] [[H6242\|עֶשְׂרִ֤ים]] [[H8141\|שָׁנָה֙]] [[H9002\|וָ]][[H4605\|מַ֔עְלָ]][[H9011\|ה]] [[H3605\|כָּל]][[H9014\|־]] [[H3318N\|יֹצֵ֥א]] [[H6635H\|צָבָ֖א]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֑ל]] [[H6485A\|תִּפְקְד֥וּ]] [[H0853\|אֹתָ֛]][[H9038\|ם]] [[H9005\|לְ]][[H6635A\|צִבְאֹתָ֖]][[H9028\|ם]] [[H0859A\|אַתָּ֥ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic ISRAEL|ISRAEL]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.1.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.1.2|<< Numbers 1:2]]</td><td align="center" style="border:none;">[[Num.1|Numbers 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.1.4|Numbers 1:4 >>]]</td></tr></table>
 

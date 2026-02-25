@@ -1,8 +1,70 @@
+---
+title: Leviticus 16:28
+type: Verse
+kjv: "And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp."
+bsb: "The one who burns them must wash his clothes and bathe himself with water, and afterward he may reenter the camp."
+hebrew: "וְהַשֹּׂרֵ֣ף אֹתָ֔ם יְכַבֵּ֣ס בְּגָדָ֔יו וְרָחַ֥ץ אֶת־ בְּשָׂר֖וֹ בַּמָּ֑יִם וְאַחֲרֵי־ כֵ֖ן יָב֥וֹא אֶל־ הַֽמַּחֲנֶֽה׃"
+pericope: "[[Lev.16.1 The Day of Atonement|The Day of Atonement]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 16
+book/chapter: "[[Lev.16|Leviticus 16]]"
+chronological_order: 148
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ABLUTION|ABLUTION]]"
+- "[[topic ATONEMENT|ATONEMENT]]"
+- "[[topic DEFILEMENT|DEFILEMENT]]"
+- "[[topic PURIFICATION|PURIFICATION]]"
+- "[[topic SANITATION|SANITATION]]"
+- "[[topic SCAPEGOAT|SCAPEGOAT]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8313]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H3526H]]"
+- "[[H0899B]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H7364]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H9003]]"
+- "[[H4325G]]"
+- "[[H0310A]]"
+- "[[H3651C]]"
+- "[[H0935G]]"
+- "[[H0413]]"
+- "[[H4264]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 16:28**<big><big>[[Lev.16.1 The Day of Atonement|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he that burneth them shall wash his clothes, and bathe his flesh in water, and afterward he shall come into the camp.
 <small><sub>**BSB:**</sub></small>
 The one who burns them must wash his clothes and bathe himself with water, and afterward he may reenter the camp.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H8313\|שֹּׂרֵ֣ף]] [[H0853\|אֹתָ֔]][[H9038\|ם]] [[H3526H\|יְכַבֵּ֣ס]] [[H0899B\|בְּגָדָ֔י]][[H9023\|ו]] [[H9001\|וְ]][[H7364\|רָחַ֥ץ]] [[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשָׂר֖]][[H9023\|וֹ]] [[H9003\|בַּ]][[H4325G\|מָּ֑יִם]] [[H9002\|וְ]][[H0310A\|אַחֲרֵי]][[H9014\|־]] [[H3651C\|כֵ֖ן]] [[H0935G\|יָב֥וֹא]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַֽ]][[H4264\|מַּחֲנֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABLUTION|ABLUTION]] • [[topic ATONEMENT|ATONEMENT]] • [[topic DEFILEMENT|DEFILEMENT]] • [[topic PURIFICATION|PURIFICATION]] • [[topic SANITATION|SANITATION]] • [[topic SCAPEGOAT|SCAPEGOAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.16.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.16.27|<< Leviticus 16:27]]</td><td align="center" style="border:none;">[[Lev.16|Leviticus 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.16.29|Leviticus 16:29 >>]]</td></tr></table>
 

@@ -1,10 +1,63 @@
+---
+title: Mark 15:1
+type: Verse
+kjv: "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate."
+bsb: "Early in the morning, the chief priests, elders, scribes, and the whole Sanhedrin devised a plan. They bound Jesus, led Him away, and handed Him over to Pilate."
+greek: "Καὶ εὐθὺς ἐπὶ τὸ πρωῒ συμβούλιον ποιήσαντες οἱ ἀρχιερεῖς μετὰ τῶν πρεσβυτέρων καὶ γραμματέων καὶ ὅλον τὸ συνέδριον, δήσαντες τὸν Ἰησοῦν ἀπήνεγκαν καὶ παρέδωκαν τῷ Πιλάτῳ.¶"
+pericope: "[[Mark.15.1 Jesus Delivered to Pilate|Jesus Delivered to Pilate]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 15
+book/chapter: "[[Mark.15|Mark 15]]"
+chronological_order: 1011
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2112]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G4404]]"
+- "[[G4824]]"
+- "[[G4160G]]"
+- "[[G0749]]"
+- "[[G3326]]"
+- "[[G4245G]]"
+- "[[G1122]]"
+- "[[G3650]]"
+- "[[G4892]]"
+- "[[G1210]]"
+- "[[G2424G]]"
+- "[[G0667]]"
+- "[[G3860]]"
+- "[[G4091]]"
+texts:
+- NKO
+- k
+---
+
 **Mark 15:1**<big><big>[[Mark.15.1 Jesus Delivered to Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried [him] away, and delivered [him] to Pilate.
 <small><sub>**BSB:**</sub></small>
 Early in the morning, the chief priests, elders, scribes, and the whole Sanhedrin devised a plan. They bound Jesus, led Him away, and handed Him over to Pilate.
-<small><sub>**Literal:**</sub></small>
-And early upon <the> in the morning a counsel having formed the chief priests with the elders and scribes and all the Council, having bound <the> Jesus they led [Him] away and delivered [Him] <the> to Pilate.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.72|<< Mark 14:72]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.2|Mark 15:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G2112\|εὐθὺς]]  [[G1909\|ἐπὶ]]  [[G3588\|τὸ]]  [[G4404\|πρωῒ]]  [[G4824\|συμβούλιον]]  [[G4160G\|ποιήσαντες]]  [[G3588\|οἱ]]  [[G0749\|ἀρχιερεῖς]]  [[G3326\|μετὰ]]  [[G3588\|τῶν]]  [[G4245G\|πρεσβυτέρων]]  [[G2532\|καὶ]]  [[G1122\|γραμματέων]]  [[G2532\|καὶ]]  [[G3650\|ὅλον]]  [[G3588\|τὸ]]  [[G4892\|συνέδριον,]]  [[G1210\|δήσαντες]]  [[G3588\|τὸν]]  [[G2424G\|Ἰησοῦν]]  [[G0667\|ἀπήνεγκαν]]  [[G2532\|καὶ]]  [[G3860\|παρέδωκαν]]  [[G3588\|τῷ]]  [[G4091\|Πιλάτῳ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRIEST|PRIEST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.14.72|<< Mark 14:72]]</td><td align="center" style="border:none;">[[Mark.15|Mark 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.15.2|Mark 15:2 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

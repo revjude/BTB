@@ -1,7 +1,7 @@
 
 **CONGREGATION**
 
-→ Those who were excluded from [[Deut.23.1|De 23:1]]-[[Deut.23.3|3]]
+→ Those who were excluded from [[Deut.23.1|De 23:1-3]]
 
 → See [[topic CHURCH|CHURCH]]
 

@@ -1,8 +1,55 @@
+---
+title: Obadiah 1:13
+type: Verse
+kjv: "Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;"
+bsb: "You should not enter the gate of My people in the day of their disaster, nor gloat over their affliction in the day of their disaster, nor loot their wealth in the day of their disaster."
+hebrew: "אַל־ תָּב֤וֹא בְשַֽׁעַר־ עַמִּי֙ בְּי֣וֹם אֵידָ֔ם אַל־ תֵּ֧רֶא גַם־ אַתָּ֛ה בְּרָעָת֖וֹ בְּי֣וֹם אֵיד֑וֹ וְאַל־ תִּשְׁלַ֥חְנָה בְחֵיל֖וֹ בְּי֥וֹם אֵידֽוֹ׃"
+pericope: "[[Obad.1.1 The Destruction of Edom|The Destruction of Edom]]"
+original_language: Hebrew
+testament: Old
+book: Obadiah
+chapter: 1
+book/chapter: "[[Obad.1|Obadiah 1]]"
+chronological_order: 581
+era: Divided Kingdom
+period: "The Divided Kingdom: Obadiah's Prophecy"
+date: ~845 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3117G]]"
+- "[[H0343]]"
+- "[[H9028]]"
+- "[[H7200G]]"
+- "[[H1571]]"
+- "[[H0859A]]"
+- "[[H7451C]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7971G]]"
+- "[[H2428H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Obadiah 1:13**<big><big>[[Obad.1.1 The Destruction of Edom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid [hands] on their substance in the day of their calamity;
 <small><sub>**BSB:**</sub></small>
 You should not enter the gate of My people in the day of their disaster, nor gloat over their affliction in the day of their disaster, nor loot their wealth in the day of their disaster.
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H0935G\|תָּב֤וֹא]] [[H9003\|בְ]][[H8179G\|שַֽׁעַר]][[H9014\|־]] [[H5971A\|עַמִּ]][[H9020\|י֙]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H0343\|אֵידָ֔]][[H9028\|ם]] [[H0408\|אַל]][[H9014\|־]] [[H7200G\|תֵּ֧רֶא]] [[H1571\|גַם]][[H9014\|־]] [[H0859A\|אַתָּ֛ה]] [[H9003\|בְּ]][[H7451C\|רָעָת֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3117G\|י֣וֹם]] [[H0343\|אֵיד֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H7971G\|תִּשְׁלַ֥חְנָה]] [[H9003\|בְ]][[H2428H\|חֵיל֖]][[H9023\|וֹ]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H0343\|אֵידֽ]][[H9023\|וֹ]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Obad.1.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Obad.1.12|<< Obadiah 1:12]]</td><td align="center" style="border:none;">[[Obad.1|Obadiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Obad.1.14|Obadiah 1:14 >>]]</td></tr></table>
 

@@ -1,8 +1,54 @@
+---
+title: Psalm 107:5
+type: Verse
+kjv: "Hungry and thirsty, their soul fainted in them."
+bsb: "They were hungry and thirsty; their soul fainted within them."
+hebrew: "רְעֵבִ֥ים גַּם־ צְמֵאִ֑ים נַ֝פְשָׁ֗ם בָּהֶ֥ם תִּתְעַטָּֽף׃"
+pericope: "[[Ps.107.1 Thanksgiving for Deliverance|Thanksgiving for Deliverance]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 107
+book/chapter: "[[Ps.107|Psalm 107]]"
+chronological_order: 872
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H7457]]"
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H6771]]"
+- "[[H5315G]]"
+- "[[H9028]]"
+- "[[H9003]]"
+- "[[H9038]]"
+- "[[H5848C]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 107:5**<big><big>[[Ps.107.1 Thanksgiving for Deliverance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hungry and thirsty, their soul fainted in them.
 <small><sub>**BSB:**</sub></small>
 They were hungry and thirsty; their soul fainted within them.
+<small><sub>**Hebrew:**</sub></small>
+[[H7457\|רְעֵבִ֥ים]] [[H1571\|גַּם]][[H9014\|־]] [[H6771\|צְמֵאִ֑ים]] [[H5315G\|נַ֝פְשָׁ֗]][[H9028\|ם]] [[H9003\|בָּ]][[H9038\|הֶ֥ם]] [[H5848C\|תִּתְעַטָּֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.107.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.107.4|<< Psalms 107:4]]</td><td align="center" style="border:none;">[[Ps.107|Psalms 107]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.107.6|Psalms 107:6 >>]]</td></tr></table>
 

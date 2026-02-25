@@ -1,10 +1,57 @@
+---
+title: Luke 9:51
+type: Verse
+kjv: "And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,"
+bsb: "As the day of His ascension approached, Jesus resolutely set out for Jerusalem."
+greek: "Ἐγένετο δὲ ἐν τῷ συμπληροῦσθαι τὰς ἡμέρας τῆς ἀναλήμψεως αὐτοῦ καὶ αὐτὸς τὸ πρόσωπον αὐτοῦ ἐστήρισεν τοῦ πορεύεσθαι εἰς Ἰερουσαλήμ."
+pericope: "[[Luke.9.51 The Samaritans Reject Jesus|The Samaritans Reject Jesus]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4845]]"
+- "[[G2250]]"
+- "[[G0354]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G4383]]"
+- "[[G4741]]"
+- "[[G4198]]"
+- "[[G1519]]"
+- "[[G2419]]"
+texts:
+- NKO
+- ko
+---
+
 **Luke 9:51**<big><big>[[Luke.9.51 The Samaritans Reject Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,
 <small><sub>**BSB:**</sub></small>
 As the day of His ascension approached, Jesus resolutely set out for Jerusalem.
-<small><sub>**Literal:**</sub></small>
-It came to pass then in the completing the days of the ascension of Him that He himself the face of him steadfastly set <the> to go to Jerusalem.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.50|<< Luke 9:50]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.52|Luke 9:52 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1096\|Ἐγένετο]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G4845\|συμπληροῦσθαι]]  [[G3588\|τὰς]]  [[G2250\|ἡμέρας]]  [[G3588\|τῆς]]  [[G0354\|ἀναλήμψεως]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G0846\|αὐτὸς]]  [[G3588\|τὸ]]  [[G4383\|πρόσωπον]]  [[G0846\|αὐτοῦ]]  [[G4741\|ἐστήρισεν]]  [[G3588\|τοῦ]]  [[G4198\|πορεύεσθαι]]  [[G1519\|εἰς]]  [[G2419\|Ἰερουσαλήμ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.50|<< Luke 9:50]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.52|Luke 9:52 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

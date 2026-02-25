@@ -1,8 +1,58 @@
+---
+title: 1 Kings 9:23
+type: Verse
+kjv: "These were the chief of the officers that were over Solomon’s work, five hundred and fifty, which bare rule over the people that wrought in the work."
+bsb: "They were also the chief officers over Solomon’s projects: 550 supervisors over the people who did the work."
+hebrew: "אֵ֣לֶּה׀ שָׂרֵ֣י הַנִּצָּבִ֗ים אֲשֶׁ֤ר עַל־ הַמְּלָאכָה֙ לִשְׁלֹמֹ֔ה חֲמִשִּׁ֖ים וַחֲמֵ֣שׁ מֵא֑וֹת הָרֹדִ֣ים בָּעָ֔ם הָעֹשִׂ֖ים בַּמְּלָאכָֽה׃"
+pericope: "[[1Kgs.9.10 Solomon’s Additional Achievements|Solomon’s Additional Achievements]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 9
+book/chapter: "[[1Kgs.9|1 Kings 9]]"
+chronological_order: 534
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+strongs:
+- "[[H0428]]"
+- "[[H9015]]"
+- "[[H8269]]"
+- "[[H9009]]"
+- "[[H5324]]"
+- "[[H0834A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4399]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H2572]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H3967]]"
+- "[[H7287A]]"
+- "[[H9003]]"
+- "[[H5971A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 9:23**<big><big>[[1Kgs.9.10 Solomon’s Additional Achievements|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 These [were] the chief of the officers that [were] over Solomon’s work, five hundred and fifty, which bare rule over the people that wrought in the work.
 <small><sub>**BSB:**</sub></small>
 They were also the chief officers over Solomon’s projects: 550 supervisors over the people who did the work.
+<small><sub>**Hebrew:**</sub></small>
+[[H0428\|אֵ֣לֶּה]][[H9015\|׀]] [[H8269\|שָׂרֵ֣י]] [[H9009\|הַ]][[H5324\|נִּצָּבִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4399\|מְּלָאכָה֙]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֔ה]] [[H2572\|חֲמִשִּׁ֖ים]] [[H9002\|וַ]][[H2568\|חֲמֵ֣שׁ]] [[H3967\|מֵא֑וֹת]] [[H9009\|הָ]][[H7287A\|רֹדִ֣ים]] [[H9003\|בָּ]][[H5971A\|עָ֔ם]] [[H9009\|הָ]][[H6213A\|עֹשִׂ֖ים]] [[H9003\|בַּ]][[H4399\|מְּלָאכָֽה]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.9.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.9.22|<< 1 Kings 9:22]]</td><td align="center" style="border:none;">[[1Kgs.9|1 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.9.24|1 Kings 9:24 >>]]</td></tr></table>
 

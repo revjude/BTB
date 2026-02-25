@@ -1,8 +1,51 @@
+---
+title: Proverbs 16:3
+type: Verse
+kjv: "Commit thy works unto the LORD, and thy thoughts shall be established."
+bsb: "Commit your works to the LORD and your plans will be achieved."
+hebrew: "גֹּ֣ל אֶל־ יְהוָ֣ה מַעֲשֶׂ֑יךָ וְ֝יִכֹּ֗נוּ מַחְשְׁבֹתֶֽיךָ׃"
+pericope: "[[Prov.16.1 The Reply of the Tongue Is from the LORD|The Reply of the Tongue Is from the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 16
+book/chapter: "[[Prov.16|Proverbs 16]]"
+chronological_order: 471
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CARE|CARE]]"
+- "[[topic FAITH|FAITH]]"
+strongs:
+- "[[H1556]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H4639G]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H3559H]]"
+- "[[H4284]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 16:3**<big><big>[[Prov.16.1 The Reply of the Tongue Is from the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Commit thy works unto the LORD, and thy thoughts shall be established.
 <small><sub>**BSB:**</sub></small>
-Commit your works to the LORD and your plans will be achieved.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.2|<< Proverbs 16:2]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.4|Proverbs 16:4 >>]]</td></tr></table>
+Commit your works to the LORD and your plans will be achieved.
+<small><sub>**Hebrew:**</sub></small>
+[[H1556\|גֹּ֣ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֣ה]] [[H4639G\|מַעֲשֶׂ֑י]][[H9021\|ךָ]] [[H9002\|וְ֝]][[H3559H\|יִכֹּ֗נוּ]] [[H4284\|מַחְשְׁבֹתֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARE|CARE]] • [[topic FAITH|FAITH]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.16.2|<< Proverbs 16:2]]</td><td align="center" style="border:none;">[[Prov.16|Proverbs 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.16.4|Proverbs 16:4 >>]]</td></tr></table>
 
 | Translation | Hebrew/Aramaic | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

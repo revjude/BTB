@@ -1,8 +1,60 @@
+---
+title: 2 Chronicles 9:13
+type: Verse
+kjv: "Now the weight of gold that came to Solomon in one year was six hundred and threescore and six talents of gold;"
+bsb: "The weight of gold that came to Solomon each year was 666 talents,"
+hebrew: "וַיְהִי֙ מִשְׁקַ֣ל הַזָּהָ֔ב אֲשֶׁר־ בָּ֥א לִשְׁלֹמֹ֖ה בְּשָׁנָ֣ה אֶחָ֑ת שֵׁ֥שׁ מֵא֛וֹת וְשִׁשִּׁ֥ים וָשֵׁ֖שׁ כִּכְּרֵ֥י זָהָֽב׃"
+pericope: "[[2Chr.9.13 Solomon’s Wealth and Splendor|Solomon’s Wealth and Splendor]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 9
+book/chapter: "[[2Chr.9|2 Chronicles 9]]"
+chronological_order: 538
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic REVENUE|REVENUE]]"
+- "[[topic SOLOMON|SOLOMON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H4948]]"
+- "[[H9009]]"
+- "[[H2091]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0935G]]"
+- "[[H9005]]"
+- "[[H8010]]"
+- "[[H9003]]"
+- "[[H8141]]"
+- "[[H0259]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H9002]]"
+- "[[H8346]]"
+- "[[H3603H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 9:13**<big><big>[[2Chr.9.13 Solomon’s Wealth and Splendor|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now the weight of gold that came to Solomon in one year was six hundred and threescore and six talents of gold;
 <small><sub>**BSB:**</sub></small>
 The weight of gold that came to Solomon each year was 666 talents,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֙]] [[H4948\|מִשְׁקַ֣ל]] [[H9009\|הַ]][[H2091\|זָּהָ֔ב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֥א]] [[H9005\|לִ]][[H8010\|שְׁלֹמֹ֖ה]] [[H9003\|בְּ]][[H8141\|שָׁנָ֣ה]] [[H0259\|אֶחָ֑ת]] [[H8337\|שֵׁ֥שׁ]] [[H3967\|מֵא֛וֹת]] [[H9002\|וְ]][[H8346\|שִׁשִּׁ֥ים]] [[H9002\|וָ]][[H8337\|שֵׁ֖שׁ]] [[H3603H\|כִּכְּרֵ֥י]] [[H2091\|זָהָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REVENUE|REVENUE]] • [[topic SOLOMON|SOLOMON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.9.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.9.12|<< 2 Chronicles 9:12]]</td><td align="center" style="border:none;">[[2Chr.9|2 Chronicles 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.9.14|2 Chronicles 9:14 >>]]</td></tr></table>
 

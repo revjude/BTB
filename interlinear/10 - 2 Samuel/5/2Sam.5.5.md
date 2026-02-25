@@ -1,8 +1,62 @@
+---
+title: 2 Samuel 5:5
+type: Verse
+kjv: "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah."
+bsb: "In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah."
+hebrew: "בְּחֶבְרוֹן֙ מָלַ֣ךְ עַל־ יְהוּדָ֔ה שֶׁ֥בַע שָׁנִ֖ים וְשִׁשָּׁ֣ה חֳדָשִׁ֑ים וּבִירוּשָׁלִַ֣ם מָלַ֗ךְ שְׁלֹשִׁ֤ים וְשָׁלֹשׁ֙ שָׁנָ֔ה עַ֥ל כָּל־ יִשְׂרָאֵ֖ל וִיהוּדָֽה׃"
+pericope: "[[2Sam.5.1 David Anointed King of All Israel|David Anointed King of All Israel]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 5
+book/chapter: "[[2Sam.5|2 Samuel 5]]"
+chronological_order: 333
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic DAVID|DAVID]]"
+- "[[topic HEBRON|HEBRON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9003]]"
+- "[[H2275A]]"
+- "[[H4427A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H9002]]"
+- "[[H8337]]"
+- "[[H2320G]]"
+- "[[H3389]]"
+- "[[H7970]]"
+- "[[H7969]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 5:5**<big><big>[[2Sam.5.1 David Anointed King of All Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah.
 <small><sub>**BSB:**</sub></small>
 In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H2275A\|חֶבְרוֹן֙]] [[H4427A\|מָלַ֣ךְ]] [[H5921A\|עַל]][[H9014\|־]] [[H3063G\|יְהוּדָ֔ה]] [[H7651\|שֶׁ֥בַע]] [[H8141\|שָׁנִ֖ים]] [[H9002\|וְ]][[H8337\|שִׁשָּׁ֣ה]] [[H2320G\|חֳדָשִׁ֑ים]] [[H9002\|וּ]][[H9003\|בִ]][[H3389\|ירוּשָׁלִַ֣ם]] [[H4427A\|מָלַ֗ךְ]] [[H7970\|שְׁלֹשִׁ֤ים]] [[H9002\|וְ]][[H7969\|שָׁלֹשׁ֙]] [[H8141\|שָׁנָ֔ה]] [[H5921A\|עַ֥ל]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9002\|וִ]][[H3063G\|יהוּדָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DAVID|DAVID]] • [[topic HEBRON|HEBRON]] • [[topic ISRAEL|ISRAEL]] • [[topic JERUSALEM|JERUSALEM]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.5.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.5.4|<< 2 Samuel 5:4]]</td><td align="center" style="border:none;">[[2Sam.5|2 Samuel 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.5.6|2 Samuel 5:6 >>]]</td></tr></table>
 

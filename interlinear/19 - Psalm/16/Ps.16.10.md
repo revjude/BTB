@@ -1,8 +1,64 @@
+---
+title: Psalm 16:10
+type: Verse
+kjv: "For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption."
+bsb: "For You will not abandon my soul to Sheol, nor will You let Your Holy One see decay."
+hebrew: "כִּ֤י׀ לֹא־ תַעֲזֹ֣ב נַפְשִׁ֣י לִשְׁא֑וֹל לֹֽא־ תִתֵּ֥ן חֲ֝סִידְךָ֗ לִרְא֥וֹת שָֽׁחַת׃"
+pericope: "[[Ps.16.1 The Presence of the LORD|The Presence of the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 16
+book/chapter: "[[Ps.16|Psalm 16]]"
+chronological_order: 350
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CORRUPTION|CORRUPTION]]"
+- "[[topic HELL|HELL]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RESURRECTION|RESURRECTION]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9015]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5800A]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H7585]]"
+- "[[H5414K]]"
+- "[[H2623]]"
+- "[[H9021]]"
+- "[[H7200G]]"
+- "[[H7845G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 16:10**<big><big>[[Ps.16.1 The Presence of the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.
 <small><sub>**BSB:**</sub></small>
 For You will not abandon my soul to Sheol, nor will You let Your Holy One see decay.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֤י]][[H9015\|׀]] [[H3808\|לֹא]][[H9014\|־]] [[H5800A\|תַעֲזֹ֣ב]] [[H5315G\|נַפְשִׁ֣]][[H9020\|י]] [[H9005\|לִ]][[H7585\|שְׁא֑וֹל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414K\|תִתֵּ֥ן]] [[H2623\|חֲ֝סִידְ]][[H9021\|ךָ֗]] [[H9005\|לִ]][[H7200G\|רְא֥וֹת]] [[H7845G\|שָֽׁחַת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CORRUPTION|CORRUPTION]] • [[topic HELL|HELL]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RESURRECTION|RESURRECTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.16.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.16.9|<< Psalms 16:9]]</td><td align="center" style="border:none;">[[Ps.16|Psalms 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.16.11|Psalms 16:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

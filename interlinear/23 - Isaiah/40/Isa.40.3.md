@@ -1,8 +1,64 @@
+---
+title: Isaiah 40:3
+type: Verse
+kjv: "The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God."
+bsb: "A voice of one calling: “Prepare the way for the LORD in the wilderness; make a straight highway for our God in the desert."
+hebrew: "ק֣וֹל קוֹרֵ֔א בַּמִּדְבָּ֕ר פַּנּ֖וּ דֶּ֣רֶךְ יְהוָ֑ה יַשְּׁרוּ֙ בָּעֲרָבָ֔ה מְסִלָּ֖ה לֵאלֹהֵֽינוּ׃"
+pericope: "[[Isa.40.1 Prepare the Way for the LORD|Prepare the Way for the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 40
+book/chapter: "[[Isa.40|Isaiah 40]]"
+chronological_order: 679
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic HERALD|HERALD]]"
+- "[[topic HIGHWAYS|HIGHWAYS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOHN|JOHN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PROCLAMATION|PROCLAMATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic STRAIGHT|STRAIGHT]]"
+strongs:
+- "[[H6963A]]"
+- "[[H7121I]]"
+- "[[H9003]]"
+- "[[H4057B]]"
+- "[[H6437G]]"
+- "[[H1870K]]"
+- "[[H3068G]]"
+- "[[H3474]]"
+- "[[H6160L]]"
+- "[[H4546]]"
+- "[[H9005]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 40:3**<big><big>[[Isa.40.1 Prepare the Way for the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The voice of him that crieth in the wilderness, Prepare ye the way of the LORD, make straight in the desert a highway for our God.
 <small><sub>**BSB:**</sub></small>
 A voice of one calling: “Prepare the way for the LORD in the wilderness; make a straight highway for our God in the desert.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963A\|ק֣וֹל]] [[H7121I\|קוֹרֵ֔א]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּ֕ר]] [[H6437G\|פַּנּ֖וּ]] [[H1870K\|דֶּ֣רֶךְ]] [[H3068G\|יְהוָ֑ה]] [[H3474\|יַשְּׁרוּ֙]] [[H9003\|בָּ]][[H6160L\|עֲרָבָ֔ה]] [[H4546\|מְסִלָּ֖ה]] [[H9005\|לֵ]][[H0430G\|אלֹהֵֽי]][[H9025\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HERALD|HERALD]] • [[topic HIGHWAYS|HIGHWAYS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOHN|JOHN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PROCLAMATION|PROCLAMATION]] • [[topic PROPHECY|PROPHECY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic STRAIGHT|STRAIGHT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.40.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.40.2|<< Isaiah 40:2]]</td><td align="center" style="border:none;">[[Isa.40|Isaiah 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.40.4|Isaiah 40:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

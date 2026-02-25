@@ -1,8 +1,54 @@
+---
+title: Proverbs 30:7
+type: Verse
+kjv: "Two things have I required of thee; deny me them not before I die:"
+bsb: "Two things I ask of You—do not refuse me before I die:"
+hebrew: "שְׁ֭תַּיִם שָׁאַ֣לְתִּי מֵאִתָּ֑ךְ אַל־ תִּמְנַ֥ע מִ֝מֶּ֗נִּי בְּטֶ֣רֶם אָמֽוּת׃"
+pericope: "[[Prov.30.1 The Words of Agur|The Words of Agur]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 30
+book/chapter: "[[Prov.30|Proverbs 30]]"
+chronological_order: 485
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+strongs:
+- "[[H8147]]"
+- "[[H7592]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H9031]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H4513]]"
+- "[[H4480A]]"
+- "[[H9030]]"
+- "[[H9003]]"
+- "[[H2962]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 30:7**<big><big>[[Prov.30.1 The Words of Agur|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Two [things] have I required of thee; deny me [them] not before I die:
 <small><sub>**BSB:**</sub></small>
 Two things I ask of You—do not refuse me before I die:
+<small><sub>**Hebrew:**</sub></small>
+[[H8147\|שְׁ֭תַּיִם]] [[H7592\|שָׁאַ֣לְתִּי]] [[H9006\|מֵ]][[H0854\|אִתָּ֑]][[H9031\|ךְ]] [[H0408\|אַל]][[H9014\|־]] [[H4513\|תִּמְנַ֥ע]] [[H4480A\|מִ֝מֶּ֗]][[H9030\|נִּי]] [[H9003\|בְּ]][[H2962\|טֶ֣רֶם]] [[H4191\|אָמֽוּת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.30.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.6|<< Proverbs 30:6]]</td><td align="center" style="border:none;">[[Prov.30|Proverbs 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.30.8|Proverbs 30:8 >>]]</td></tr></table>
 

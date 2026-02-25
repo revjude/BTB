@@ -1,8 +1,55 @@
+---
+title: Job 6:22
+type: Verse
+kjv: "Did I say, Bring unto me? or, Give a reward for me of your substance?"
+bsb: "Have I ever said, ‘Give me something; offer me a bribe from your wealth;"
+hebrew: "הֲֽכִי־ אָ֭מַרְתִּי הָ֣בוּ לִ֑י וּ֝מִכֹּחֲכֶ֗ם שִׁחֲד֥וּ בַעֲדִֽי׃"
+pericope: "[[Job.6.1 Job Replies：My Complaint Is Just|Job Replies：My Complaint Is Just]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 6
+book/chapter: "[[Job.6|Job 6]]"
+chronological_order: 17
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9008]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3051]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H9006]]"
+- "[[H3581B]]"
+- "[[H9026]]"
+- "[[H7809]]"
+- "[[H1157]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 6:22**<big><big>[[Job.6.1 Job Replies：My Complaint Is Just|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Did I say, Bring unto me? or, Give a reward for me of your substance?
 <small><sub>**BSB:**</sub></small>
 Have I ever said, ‘Give me something; offer me a bribe from your wealth;
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲֽ]][[H3588A\|כִי]][[H9014\|־]] [[H0559\|אָ֭מַרְתִּי]] [[H3051\|הָ֣בוּ]] [[H9005\|לִ֑]][[H9030\|י]] [[H9002\|וּ֝]][[H9006\|מִ]][[H3581B\|כֹּחֲ]][[H9026\|כֶ֗ם]] [[H7809\|שִׁחֲד֥וּ]] [[H1157\|בַעֲדִֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.6.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.6.21|<< Job 6:21]]</td><td align="center" style="border:none;">[[Job.6|Job 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.6.23|Job 6:23 >>]]</td></tr></table>
 

@@ -1,10 +1,68 @@
+---
+title: Revelation 20:11
+type: Verse
+kjv: "And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them."
+bsb: "Then I saw a great white throne and the One seated on it. Earth and heaven fled from His presence, and no place was found for them."
+greek: "Καὶ εἶδον θρόνον μέγαν λευκὸν καὶ τὸν καθήμενον ἐπ᾽ αὐτόν, οὗ ἀπὸ τοῦ προσώπου ἔφυγεν ἡ γῆ καὶ ὁ οὐρανός, καὶ τόπος οὐχ εὑρέθη αὐτοῖς."
+pericope: "[[Rev.20.11 Judgment before the Great White Throne|Judgment before the Great White Throne]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 20
+book/chapter: "[[Rev.20|Revelation 20]]"
+chronological_order: 1187
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic EARTH|EARTH]]"
+- "[[topic HEAVEN|HEAVEN]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MILLENNIUM|MILLENNIUM]]"
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G2362]]"
+- "[[G3173]]"
+- "[[G3022]]"
+- "[[G3588]]"
+- "[[G2521]]"
+- "[[G1909]]"
+- "[[G0846]]"
+- "[[G3739]]"
+- "[[G0575]]"
+- "[[G4383]]"
+- "[[G5343]]"
+- "[[G1093G]]"
+- "[[G3772]]"
+- "[[G5117]]"
+- "[[G3756]]"
+- "[[G2147]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+- no
+---
+
 **Revelation 20:11**<big><big>[[Rev.20.11 Judgment before the Great White Throne|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
 <small><sub>**BSB:**</sub></small>
 Then I saw a great white throne and the One seated on it. Earth and heaven fled from His presence, and no place was found for them.
-<small><sub>**Literal:**</sub></small>
-And I saw a throne great white and the [One] sitting on it, whose from <the> face fled the earth and <the> heaven and place not was found for them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.10|<< Revelation 20:10]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.12|Revelation 20:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G2362\|θρόνον]]  [[G3173\|μέγαν]]  [[G3022\|λευκὸν]]  [[G2532\|καὶ]]  [[G3588\|τὸν]]  [[G2521\|καθήμενον]]  [[G1909\|ἐπ᾽]]  [[G0846\|αὐτόν,]]  [[G3739\|οὗ]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4383\|προσώπου]]  [[G5343\|ἔφυγεν]]  [[G3588\|ἡ]]  [[G1093G\|γῆ]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G3772\|οὐρανός,]]  [[G2532\|καὶ]]  [[G5117\|τόπος]]  [[G3756\|οὐχ]]  [[G2147\|εὑρέθη]]  [[G0846\|αὐτοῖς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic EARTH|EARTH]] • [[topic HEAVEN|HEAVEN]] • [[topic JUDGMENT|JUDGMENT]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MILLENNIUM|MILLENNIUM]] • [[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.20.10|<< Revelation 20:10]]</td><td align="center" style="border:none;">[[Rev.20|Revelation 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.20.12|Revelation 20:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

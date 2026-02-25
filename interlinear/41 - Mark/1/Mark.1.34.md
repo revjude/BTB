@@ -1,10 +1,60 @@
+---
+title: Mark 1:34
+type: Verse
+kjv: "And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him."
+bsb: "And He healed many who were ill with various diseases and drove out many demons. But He would not allow the demons to speak, because they knew who He was."
+greek: "καὶ ἐθεράπευσεν πολλοὺς κακῶς ἔχοντας ποικίλαις νόσοις καὶ δαιμόνια πολλὰ ἐξέβαλεν καὶ οὐκ ἤφιεν λαλεῖν τὰ δαιμόνια ὅτι ᾔδεισαν αὐτόν Χριστὸν εἶναι.¶"
+pericope: "[[Mark.1.29 Jesus Heals at Peter’s House|Jesus Heals at Peter’s House]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 1
+book/chapter: "[[Mark.1|Mark 1]]"
+chronological_order: 934
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CAPERNAUM|CAPERNAUM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2532]]"
+- "[[G2323]]"
+- "[[G4183]]"
+- "[[G2560]]"
+- "[[G2192]]"
+- "[[G4164]]"
+- "[[G3554]]"
+- "[[G1140]]"
+- "[[G1544]]"
+- "[[G3756]]"
+- "[[G0863I]]"
+- "[[G2980]]"
+- "[[G3588]]"
+- "[[G3754H]]"
+- "[[G1492I]]"
+- "[[G0846]]"
+- "[[G5547]]"
+- "[[G1511]]"
+texts:
+- NKO
+- O
+---
+
 **Mark 1:34**<big><big>[[Mark.1.29 Jesus Heals at Peter’s House|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.
 <small><sub>**BSB:**</sub></small>
 And He healed many who were ill with various diseases and drove out many demons. But He would not allow the demons to speak, because they knew who He was.
-<small><sub>**Literal:**</sub></small>
-And He healed many sick being of various diseases and demons many He cast out And not He was allowing to speak the demons because they knew Him Christ to be.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.33|<< Mark 1:33]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.35|Mark 1:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2323\|ἐθεράπευσεν]]  [[G4183\|πολλοὺς]]  [[G2560\|κακῶς]]  [[G2192\|ἔχοντας]]  [[G4164\|ποικίλαις]]  [[G3554\|νόσοις]]  [[G2532\|καὶ]]  [[G1140\|δαιμόνια]]  [[G4183\|πολλὰ]]  [[G1544\|ἐξέβαλεν]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G0863I\|ἤφιεν]]  [[G2980\|λαλεῖν]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια]]  [[G3754H\|ὅτι]]  [[G1492I\|ᾔδεισαν]]  [[G0846\|αὐτόν]]  [[G5547\|Χριστὸν]]  [[G1511\|εἶναι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CAPERNAUM|CAPERNAUM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.1.33|<< Mark 1:33]]</td><td align="center" style="border:none;">[[Mark.1|Mark 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.1.35|Mark 1:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

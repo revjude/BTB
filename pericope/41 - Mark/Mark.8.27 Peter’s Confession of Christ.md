@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter’s Confession of Christ
+type: Pericope
 pericope: "[[Mark.8.27 Peter’s Confession of Christ|Peter’s Confession of Christ]]"
-verse_count: 4
+original_language: Greek
 testament: New
 book: Mark
 chapter: 8
 book/chapter: "[[Mark.8|Mark 8]]"
-genre:
+chronological_order: 970
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 4
 verses:
 - "[[Mark.8.27]]"
 - "[[Mark.8.28]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Mark.8.30]]"
 ---
 
-[[Mark.8|Mark 8:27 - Mark 8:30]]
+<small>[[Mark.8|Mark 8:27-30]]</small>
 *Peter’s Confession of Christ*
 
 [[Mark.8.27|27]] And Jesus went out, and his disciples, into the towns of Caesarea Philippi: and by the way he asked his disciples, saying unto them, Whom do men say that I am?

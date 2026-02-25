@@ -1,8 +1,48 @@
+---
+title: Job 33:31
+type: Verse
+kjv: "Mark well, O Job, hearken unto me: hold thy peace, and I will speak."
+bsb: "Pay attention, Job, and listen to me; be silent, and I will speak."
+hebrew: "הַקְשֵׁ֖ב אִיּ֥וֹב שְֽׁמַֽע־ לִ֑י הַ֝חֲרֵ֗שׁ וְאָנֹכִ֥י אֲדַבֵּֽר׃"
+pericope: "[[Job.33.1 Elihu Rebukes Job|Elihu Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 33
+book/chapter: "[[Job.33|Job 33]]"
+chronological_order: 44
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H7181]]"
+- "[[H0347]]"
+- "[[H8085G]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H2790B]]"
+- "[[H9002]]"
+- "[[H0595]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 33:31**<big><big>[[Job.33.1 Elihu Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Mark well, O Job, hearken unto me: hold thy peace, and I will speak.
 <small><sub>**BSB:**</sub></small>
 Pay attention, Job, and listen to me; be silent, and I will speak.
+<small><sub>**Hebrew:**</sub></small>
+[[H7181\|הַקְשֵׁ֖ב]] [[H0347\|אִיּ֥וֹב]] [[H8085G\|שְֽׁמַֽע]][[H9014\|־]] [[H9005\|לִ֑]][[H9030\|י]] [[H2790B\|הַ֝חֲרֵ֗שׁ]] [[H9002\|וְ]][[H0595\|אָנֹכִ֥י]] [[H1696G\|אֲדַבֵּֽר]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.33.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.33.30|<< Job 33:30]]</td><td align="center" style="border:none;">[[Job.33|Job 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.33.32|Job 33:32 >>]]</td></tr></table>
 

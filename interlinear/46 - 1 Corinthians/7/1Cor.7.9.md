@@ -1,10 +1,55 @@
+---
+title: 1 Corinthians 7:9
+type: Verse
+kjv: "But if they cannot contain, let them marry: for it is better to marry than to burn."
+bsb: "But if they cannot control themselves, let them marry. For it is better to marry than to burn with passion."
+greek: "εἰ δὲ οὐκ ἐγκρατεύονται, γαμησάτωσαν· κρεῖττον γάρ ἐστιν γαμῆσαι ἢ πυροῦσθαι.¶"
+pericope: "[[1Cor.7.1 Principles of Marriage|Principles of Marriage]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 7
+book/chapter: "[[1Cor.7|1 Corinthians 7]]"
+chronological_order: 1064
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CELIBACY|CELIBACY]]"
+- "[[topic CHASTITY|CHASTITY]]"
+- "[[topic CONTINENCE|CONTINENCE]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic STOICISM|STOICISM]]"
+- "[[topic WIDOW|WIDOW]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G3756]]"
+- "[[G1467]]"
+- "[[G1060]]"
+- "[[G2908]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G2228]]"
+- "[[G4448]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Corinthians 7:9**<big><big>[[1Cor.7.1 Principles of Marriage|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if they cannot contain, let them marry: for it is better to marry than to burn.
 <small><sub>**BSB:**</sub></small>
 But if they cannot control themselves, let them marry. For it is better to marry than to burn with passion.
-<small><sub>**Literal:**</sub></small>
-If however not they have self-control, they should marry; better for it is to marry than to burn with passion.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.8|<< 1 Corinthians 7:8]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.10|1 Corinthians 7:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G3756\|οὐκ]]  [[G1467\|ἐγκρατεύονται,]]  [[G1060\|γαμησάτωσαν·]]  [[G2908\|κρεῖττον]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G1060\|γαμῆσαι]]  [[G2228\|ἢ]]  [[G4448\|πυροῦσθαι.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CELIBACY|CELIBACY]] • [[topic CHASTITY|CHASTITY]] • [[topic CONTINENCE|CONTINENCE]] • [[topic MARRIAGE|MARRIAGE]] • [[topic STOICISM|STOICISM]] • [[topic WIDOW|WIDOW]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.7.8|<< 1 Corinthians 7:8]]</td><td align="center" style="border:none;">[[1Cor.7|1 Corinthians 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.7.10|1 Corinthians 7:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

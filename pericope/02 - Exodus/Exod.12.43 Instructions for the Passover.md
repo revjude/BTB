@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Instructions for the Passover
+type: Pericope
 pericope: "[[Exod.12.43 Instructions for the Passover|Instructions for the Passover]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 12
 book/chapter: "[[Exod.12|Exodus 12]]"
-genre:
+chronological_order: 104
+era: Egypt and Exodus
+period: "The Exodus and Deliverance"
+date: ~1446 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 9
 verses:
 - "[[Exod.12.43]]"
 - "[[Exod.12.44]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Exod.12.51]]"
 ---
 
-[[Exod.12|Exodus 12:43 - Exodus 12:51]]
+<small>[[Exod.12|Exodus 12:43-51]]</small>
 *Instructions for the Passover*
 
 [[Exod.12.43|43]] And the LORD said unto Moses and Aaron, This \[is\] the ordinance of the passover: There shall no stranger eat thereof:

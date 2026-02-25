@@ -1,8 +1,75 @@
+---
+title: Jeremiah 11:10
+type: Verse
+kjv: "They are turned back to the iniquities of their forefathers, which refused to hear my words; and they went after other gods to serve them: the house of Israel and the house of Judah have broken my covenant which I made with their fathers."
+bsb: "They have returned to the sins of their forefathers who refused to obey My words. They have followed other gods to serve them. The house of Israel and the house of Judah have broken the covenant I made with their fathers."
+hebrew: "שָׁ֩בוּ֩ עַל־ עֲוֹנֹ֨ת אֲבוֹתָ֜ם הָרִֽאשֹׁנִ֗ים אֲשֶׁ֤ר מֵֽאֲנוּ֙ לִשְׁמ֣וֹעַ אֶת־ דְּבָרַ֔י וְהֵ֣מָּה הָלְכ֗וּ אַחֲרֵ֛י אֱלֹהִ֥ים אֲחֵרִ֖ים לְעָבְדָ֑ם הֵפֵ֤רוּ בֵֽית־ יִשְׂרָאֵל֙ וּבֵ֣ית יְהוּדָ֔ה אֶת־ בְּרִיתִ֕י אֲשֶׁ֥ר כָּרַ֖תִּי אֶת־ אֲבוֹתָֽם׃ ס"
+pericope: "[[Jer.11.1 The Broken Covenant|The Broken Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 11
+book/chapter: "[[Jer.11|Jeremiah 11]]"
+chronological_order: 728
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H7725I]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5771G]]"
+- "[[H0001G]]"
+- "[[H9028]]"
+- "[[H9009]]"
+- "[[H7223G]]"
+- "[[H0834A]]"
+- "[[H3985]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H1992]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H0430]]"
+- "[[H0312]]"
+- "[[H5647H]]"
+- "[[H9038]]"
+- "[[H6565A]]"
+- "[[H1004M]]"
+- "[[H3478]]"
+- "[[H3063G]]"
+- "[[H1285]]"
+- "[[H3772H]]"
+- "[[H0854]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Jeremiah 11:10**<big><big>[[Jer.11.1 The Broken Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They are turned back to the iniquities of their forefathers, which refused to hear my words; and they went after other gods to serve them: the house of Israel and the house of Judah have broken my covenant which I made with their fathers.
 <small><sub>**BSB:**</sub></small>
 They have returned to the sins of their forefathers who refused to obey My words. They have followed other gods to serve them. The house of Israel and the house of Judah have broken the covenant I made with their fathers.
+<small><sub>**Hebrew:**</sub></small>
+[[H7725I\|שָׁ֩בוּ֩]] [[H5921A\|עַל]][[H9014\|־]] [[H5771G\|עֲוֹנֹ֨ת]] [[H0001G\|אֲבוֹתָ֜]][[H9028\|ם]] [[H9009\|הָ]][[H7223G\|רִֽאשֹׁנִ֗ים]] [[H0834A\|אֲשֶׁ֤ר]] [[H3985\|מֵֽאֲנוּ֙]] [[H9005\|לִ]][[H8085G\|שְׁמ֣וֹעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבָרַ֔]][[H9020\|י]] [[H9002\|וְ]][[H1992\|הֵ֣מָּה]] [[H1980N\|הָלְכ֗וּ]] [[H0310A\|אַחֲרֵ֛י]] [[H0430\|אֱלֹהִ֥ים]] [[H0312\|אֲחֵרִ֖ים]] [[H9005\|לְ]][[H5647H\|עָבְדָ֑]][[H9038\|ם]] [[H6565A\|הֵפֵ֤רוּ]] [[H1004M\|בֵֽית]][[H9014\|־]] [[H3478\|יִשְׂרָאֵל֙]] [[H9002\|וּ]][[H1004M\|בֵ֣ית]] [[H3063G\|יְהוּדָ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֕]][[H9020\|י]] [[H0834A\|אֲשֶׁ֥ר]] [[H3772H\|כָּרַ֖תִּי]] [[H0854\|אֶת]][[H9014\|־]] [[H0001G\|אֲבוֹתָֽ]][[H9028\|ם]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.11.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.9|<< Jeremiah 11:9]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.11|Jeremiah 11:11 >>]]</td></tr></table>
 
@@ -34,7 +101,7 @@ They have returned to the sins of their forefathers who refused to obey My words
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I made  |**<big>&#8207;[[H3772H\|כָּרַ֖תִּי]]&#8207; </big>**| ka.Ra.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | with  |**<big>&#8207;[[H0854\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HR]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| ancestors their  |**<big>&#8207;[[H0001G\|אֲבוֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| ancestors their  |**<big>&#8207;[[H0001G\|אֲבוֹתָֽ]]&#8207;&#8207;[[H9028\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'a.vo.Ta<small><sup>[[HNcfpc]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.11.9|<< Jeremiah 11:9]]</td><td align="center" style="border:none;">[[Jer.11|Jeremiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.11.11|Jeremiah 11:11 >>]]</td></tr></table>
 
 

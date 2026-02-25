@@ -1,10 +1,55 @@
+---
+title: Jude 1:6
+type: Verse
+kjv: "And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day."
+bsb: "And the angels who did not stay within their own domain but abandoned their proper dwelling—these He has kept in eternal chains under darkness, bound for judgment on that great day."
+greek: "ἀγγέλους τε τοὺς μὴ τηρήσαντας τὴν ἑαυτῶν ἀρχὴν ἀλλ᾽ ἀπολιπόντας τὸ ἴδιον οἰκητήριον, εἰς κρίσιν μεγάλης ἡμέρας δεσμοῖς ἀϊδίοις ὑπὸ ζόφον τετήρηκεν·"
+pericope: "[[Jude.1.3 God’s Judgment on the Ungodly|God’s Judgment on the Ungodly]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G0032G]]"
+- "[[G5037]]"
+- "[[G3588]]"
+- "[[G3361]]"
+- "[[G5083G]]"
+- "[[G1438]]"
+- "[[G0746]]"
+- "[[G0235]]"
+- "[[G0620]]"
+- "[[G2398]]"
+- "[[G3613]]"
+- "[[G1519]]"
+- "[[G2920]]"
+- "[[G3173]]"
+- "[[G2250]]"
+- "[[G1199]]"
+- "[[G0126]]"
+- "[[G5259H]]"
+- "[[G2217]]"
+- "[[G5083H]]"
+texts:
+- NKO
+---
+
 **Jude 1:6**<big><big>[[Jude.1.3 God’s Judgment on the Ungodly|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
 <small><sub>**BSB:**</sub></small>
 And the angels who did not stay within their own domain but abandoned their proper dwelling—these He has kept in eternal chains under darkness, bound for judgment on that great day.
-<small><sub>**Literal:**</sub></small>
-[The] angels both <the> not having kept <the> their own domain but having left <the> [their] own dwelling, unto [the] judgment of [the] great day in chains eternal under darkness He has kept;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.5|<< Jude 1:5]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.7|Jude 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0032G\|ἀγγέλους]]  [[G5037\|τε]]  [[G3588\|τοὺς]]  [[G3361\|μὴ]]  [[G5083G\|τηρήσαντας]]  [[G3588\|τὴν]]  [[G1438\|ἑαυτῶν]]  [[G0746\|ἀρχὴν]]  [[G0235\|ἀλλ᾽]]  [[G0620\|ἀπολιπόντας]]  [[G3588\|τὸ]]  [[G2398\|ἴδιον]]  [[G3613\|οἰκητήριον,]]  [[G1519\|εἰς]]  [[G2920\|κρίσιν]]  [[G3173\|μεγάλης]]  [[G2250\|ἡμέρας]]  [[G1199\|δεσμοῖς]]  [[G0126\|ἀϊδίοις]]  [[G5259H\|ὑπὸ]]  [[G2217\|ζόφον]]  [[G5083H\|τετήρηκεν·]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.5|<< Jude 1:5]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.7|Jude 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: 1 Kings 22:4
+type: Verse
+kjv: "And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramothgilead? And Jehoshaphat said to the king of Israel, I am as thou art, my people as thy people, my horses as thy horses."
+bsb: "So he asked Jehoshaphat, “Will you go with me to fight against Ramoth-gilead?” Jehoshaphat answered the king of Israel, “I am as you are, my people are your people, and my horses are your horses.”"
+hebrew: "וַיֹּ֙אמֶר֙ אֶל־ יְה֣וֹשָׁפָ֔ט הֲתֵלֵ֥ךְ אִתִּ֛י לַמִּלְחָמָ֖ה רָמֹ֣ת גִּלְעָ֑ד וַיֹּ֤אמֶר יְהֽוֹשָׁפָט֙ אֶל־ מֶ֣לֶךְ יִשְׂרָאֵ֔ל כָּמ֧וֹנִי כָמ֛וֹךָ כְּעַמִּ֥י כְעַמֶּ֖ךָ כְּסוּסַ֥י כְּסוּסֶֽיךָ׃"
+pericope: "[[1Kgs.22.1 Ahab and the False Prophets|Ahab and the False Prophets]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 22
+book/chapter: "[[1Kgs.22|1 Kings 22]]"
+chronological_order: 568
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic HORSE|HORSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3092I]]"
+- "[[H9008]]"
+- "[[H1980G]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H7418G]]"
+- "[[H1568G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H3644G]]"
+- "[[H9031]]"
+- "[[H9004]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H9021]]"
+- "[[H5483M]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Kings 22:4**<big><big>[[1Kgs.22.1 Ahab and the False Prophets|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramothgilead? And Jehoshaphat said to the king of Israel, I [am] as thou [art], my people as thy people, my horses as thy horses.
 <small><sub>**BSB:**</sub></small>
 So he asked Jehoshaphat, “Will you go with me to fight against Ramoth-gilead?” Jehoshaphat answered the king of Israel, “I am as you are, my people are your people, and my horses are your horses.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֙אמֶר֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3092I\|יְה֣וֹשָׁפָ֔ט]] [[H9008\|הֲ]][[H1980G\|תֵלֵ֥ךְ]] [[H0854\|אִתִּ֛]][[H9030\|י]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֖ה]] [[H7418G\|רָמֹ֣ת]] [[H1568G\|גִּלְעָ֑ד]] [[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H3092I\|יְהֽוֹשָׁפָט֙]] [[H0413\|אֶל]][[H9014\|־]] [[H4428G\|מֶ֣לֶךְ]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H3644G\|כָּמ֧וֹ]][[H9030\|נִי]] [[H3644G\|כָמ֛וֹ]][[H9031\|ךָ]] [[H9004\|כְּ]][[H5971A\|עַמִּ֥]][[H9020\|י]] [[H9004\|כְ]][[H5971A\|עַמֶּ֖]][[H9021\|ךָ]] [[H9004\|כְּ]][[H5483M\|סוּסַ֥]][[H9020\|י]] [[H9004\|כְּ]][[H5483M\|סוּסֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARMIES|ARMIES]] • [[topic HORSE|HORSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.22.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.22.3|<< 1 Kings 22:3]]</td><td align="center" style="border:none;">[[1Kgs.22|1 Kings 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.22.5|1 Kings 22:5 >>]]</td></tr></table>
 

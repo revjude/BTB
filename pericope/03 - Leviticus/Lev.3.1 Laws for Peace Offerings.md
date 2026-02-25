@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Laws for Peace Offerings
+type: Pericope
 pericope: "[[Lev.3.1 Laws for Peace Offerings|Laws for Peace Offerings]]"
-verse_count: 17
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 3
 book/chapter: "[[Lev.3|Leviticus 3]]"
-genre:
+chronological_order: 135
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 17
 verses:
 - "[[Lev.3.1]]"
 - "[[Lev.3.2]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Lev.3.17]]"
 ---
 
-[[Lev.3|Leviticus 3:1 - Leviticus 3:17]]
+<small>[[Lev.3|Leviticus 3:1-17]]</small>
 *Laws for Peace Offerings*
 
 [[Lev.3.1|1]] And if his oblation \[be\] a sacrifice of peace offering, if he offer \[it\] of the herd; whether \[it be\] a male or female, he shall offer it without blemish before the LORD.

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Portions for the Remaining Tribes
+type: Pericope
 pericope: "[[Ezek.48.23 The Portions for the Remaining Tribes|The Portions for the Remaining Tribes]]"
-verse_count: 7
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 48
 book/chapter: "[[Ezek.48|Ezekiel 48]]"
-genre:
+chronological_order: 839
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 7
 verses:
 - "[[Ezek.48.23]]"
 - "[[Ezek.48.24]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Ezek.48.29]]"
 ---
 
-[[Ezek.48|Ezekiel 48:23 - Ezekiel 48:29]]
+<small>[[Ezek.48|Ezekiel 48:23-29]]</small>
 *The Portions for the Remaining Tribes*
 
 [[Ezek.48.23|23]] As for the rest of the tribes, from the east side unto the west side, Benjamin \[shall have\] a \[portion\].

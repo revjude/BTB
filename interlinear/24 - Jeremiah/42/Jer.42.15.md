@@ -1,8 +1,70 @@
+---
+title: Jeremiah 42:15
+type: Verse
+kjv: "And now therefore hear the word of the LORD, ye remnant of Judah; Thus saith the LORD of hosts, the God of Israel; If ye wholly set your faces to enter into Egypt, and go to sojourn there;"
+bsb: "then hear the word of the LORD, O remnant of Judah! This is what the LORD of Hosts, the God of Israel, says: ‘If you are determined to go to Egypt and reside there,"
+hebrew: "וְעַתָּ֕ה לָכֵ֛ן שִׁמְע֥וּ דְבַר־ יְהוָ֖ה שְׁאֵרִ֣ית יְהוּדָ֑ה כֹּֽה־ אָמַר֩ יְהוָ֨ה צְבָא֜וֹת אֱלֹהֵ֣י יִשְׂרָאֵ֗ל אִם־ אַ֠תֶּם שׂ֣וֹם תְּשִׂמ֤וּן פְּנֵיכֶם֙ לָבֹ֣א מִצְרַ֔יִם וּבָאתֶ֖ם לָג֥וּר שָֽׁם׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9005]]"
+- "[[H3651C]]"
+- "[[H8085G]]"
+- "[[H1697G]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H7611]]"
+- "[[H3063G]]"
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H6635B]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H0518A]]"
+- "[[H0859D]]"
+- "[[H7760H]]"
+- "[[H7760A]]"
+- "[[H9013]]"
+- "[[H6440H]]"
+- "[[H9026]]"
+- "[[H0935G]]"
+- "[[H4714G]]"
+- "[[H9001]]"
+- "[[H1481A]]"
+- "[[H8033G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:15**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And now therefore hear the word of the LORD, ye remnant of Judah; Thus saith the LORD of hosts, the God of Israel; If ye wholly set your faces to enter into Egypt, and go to sojourn there;
 <small><sub>**BSB:**</sub></small>
 then hear the word of the LORD, O remnant of Judah! This is what the LORD of Hosts, the God of Israel, says: ‘If you are determined to go to Egypt and reside there,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֕ה]] [[H9005\|לָ]][[H3651C\|כֵ֛ן]] [[H8085G\|שִׁמְע֥וּ]] [[H1697G\|דְבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H7611\|שְׁאֵרִ֣ית]] [[H3063G\|יְהוּדָ֑ה]] [[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַר֩]] [[H3068G\|יְהוָ֨ה]] [[H6635B\|צְבָא֜וֹת]] [[H0430G\|אֱלֹהֵ֣י]] [[H3478\|יִשְׂרָאֵ֗ל]] [[H0518A\|אִם]][[H9014\|־]] [[H0859D\|אַ֠תֶּם]] [[H7760H\|שׂ֣וֹם]] [[H7760A\|תְּשִׂמ֤וּ]][[H9013\|ן]] [[H6440H\|פְּנֵי]][[H9026\|כֶם֙]] [[H9005\|לָ]][[H0935G\|בֹ֣א]] [[H4714G\|מִצְרַ֔יִם]] [[H9001\|וּ]][[H0935G\|בָאתֶ֖ם]] [[H9005\|לָ]][[H1481A\|ג֥וּר]] [[H8033G\|שָֽׁם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.14|<< Jeremiah 42:14]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.16|Jeremiah 42:16 >>]]</td></tr></table>
 

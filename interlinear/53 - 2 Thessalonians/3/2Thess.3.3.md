@@ -1,10 +1,55 @@
+---
+title: 2 Thessalonians 3:3
+type: Verse
+kjv: "But the Lord is faithful, who shall stablish you, and keep you from evil."
+bsb: "But the Lord is faithful, and He will strengthen you and guard you from the evil one."
+greek: "πιστὸς δέ ἐστιν ὁ κύριος, ὃς στηρίξει ὑμᾶς καὶ φυλάξει ἀπὸ τοῦ πονηροῦ."
+pericope: "[[2Thess.3.1 Request for Prayer|Request for Prayer]]"
+original_language: Greek
+testament: New
+book: 2 Thessalonians
+chapter: 3
+book/chapter: "[[2Thess.3|2 Thessalonians 3]]"
+chronological_order: 1055
+era: Church
+period: "Paul's Letters to the Thessalonians"
+date: ~AD 51
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+- eschatological
+topics:
+- "[[topic CHARACTER|CHARACTER]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic STABILITY|STABILITY]]"
+strongs:
+- "[[G4103]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G2962G]]"
+- "[[G3739]]"
+- "[[G4741]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G5442I]]"
+- "[[G0575]]"
+- "[[G4190]]"
+texts:
+- NKO
+---
+
 **2 Thessalonians 3:3**<big><big>[[2Thess.3.1 Request for Prayer|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But the Lord is faithful, who shall stablish you, and keep [you] from evil.
 <small><sub>**BSB:**</sub></small>
 But the Lord is faithful, and He will strengthen you and guard you from the evil one.
-<small><sub>**Literal:**</sub></small>
-faithful however is the Lord, who will strengthen you and He will keep [you] from <the> evil.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.2|<< 2 Thessalonians 3:2]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.4|2 Thessalonians 3:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4103\|πιστὸς]]  [[G1161\|δέ]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G2962G\|κύριος,]]  [[G3739\|ὃς]]  [[G4741\|στηρίξει]]  [[G4771\|ὑμᾶς]]  [[G2532\|καὶ]]  [[G5442I\|φυλάξει]]  [[G0575\|ἀπὸ]]  [[G3588\|τοῦ]]  [[G4190\|πονηροῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARACTER|CHARACTER]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic STABILITY|STABILITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Thess.3.2|<< 2 Thessalonians 3:2]]</td><td align="center" style="border:none;">[[2Thess.3|2 Thessalonians 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Thess.3.4|2 Thessalonians 3:4 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

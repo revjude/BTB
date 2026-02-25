@@ -1,8 +1,57 @@
+---
+title: Job 8:12
+type: Verse
+kjv: "Whilst it is yet in his greenness, and not cut down, it withereth before any other herb."
+bsb: "While the shoots are still uncut, they dry up more quickly than grass."
+hebrew: "עֹדֶ֣נּוּ בְ֭אִבּוֹ לֹ֣א יִקָּטֵ֑ף וְלִפְנֵ֖י כָל־ חָצִ֣יר יִיבָֽשׁ׃"
+pericope: "[[Job.8.1 Bildad：Job Should Repent|Bildad：Job Should Repent]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 8
+book/chapter: "[[Job.8|Job 8]]"
+chronological_order: 19
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic FORGETTING GOD|FORGETTING GOD]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+strongs:
+- "[[H5750]]"
+- "[[H9043]]"
+- "[[H9003]]"
+- "[[H0003]]"
+- "[[H9023]]"
+- "[[H3808]]"
+- "[[H6998]]"
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2682A]]"
+- "[[H3001]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 8:12**<big><big>[[Job.8.1 Bildad：Job Should Repent|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Whilst it [is] yet in his greenness, [and] not cut down, it withereth before any [other] herb.
 <small><sub>**BSB:**</sub></small>
 While the shoots are still uncut, they dry up more quickly than grass.
+<small><sub>**Hebrew:**</sub></small>
+[[H5750\|עֹדֶ֣]][[H9043\|נּוּ]] [[H9003\|בְ֭]][[H0003\|אִבּ]][[H9023\|וֹ]] [[H3808\|לֹ֣א]] [[H6998\|יִקָּטֵ֑ף]] [[H9002\|וְ]][[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H3605\|כָל]][[H9014\|־]] [[H2682A\|חָצִ֣יר]] [[H3001\|יִיבָֽשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORGETTING GOD|FORGETTING GOD]] • [[topic GODLESSNESS|GODLESSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.8.11|<< Job 8:11]]</td><td align="center" style="border:none;">[[Job.8|Job 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.8.13|Job 8:13 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: 2 Kings 17:34
+type: Verse
+kjv: "Unto this day they do after the former manners: they fear not the LORD, neither do they after their statutes, or after their ordinances, or after the law and commandment which the LORD commanded the children of Jacob, whom he named Israel;"
+bsb: "To this day they are still practicing their former customs. None of them worship the LORD or observe the statutes, ordinances, laws, and commandments that the LORD gave the descendants of Jacob, whom He named Israel."
+hebrew: "עַ֣ד הַיּ֤וֹם הַזֶּה֙ הֵ֣ם עֹשִׂ֔ים כַּמִּשְׁפָּטִ֖ים הָרִֽאשֹׁנִ֑ים אֵינָ֤ם יְרֵאִים֙ אֶת־ יְהוָ֔ה וְאֵינָ֣ם עֹשִׂ֗ים כְּחֻקֹּתָם֙ וּכְמִשְׁפָּטָ֔ם וְכַתּוֹרָ֣ה וְכַמִּצְוָ֗ה אֲשֶׁ֨ר צִוָּ֤ה יְהוָה֙ אֶת־ בְּנֵ֣י יַעֲקֹ֔ב אֲשֶׁר־ שָׂ֥ם שְׁמ֖וֹ יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.17.24 Samaria Resettled|Samaria Resettled]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 17
+book/chapter: "[[2Kgs.17|2 Kings 17]]"
+chronological_order: 641
+era: Exile
+period: "The Assyrian Crisis and Fall of Israel"
+date: ~722 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H3117L]]"
+- "[[H2088]]"
+- "[[H1992]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H4941J]]"
+- "[[H7223H]]"
+- "[[H0369]]"
+- "[[H9048]]"
+- "[[H3373]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H2708]]"
+- "[[H9028]]"
+- "[[H4941G]]"
+- "[[H8451]]"
+- "[[H4687]]"
+- "[[H0834A]]"
+- "[[H6680]]"
+- "[[H1121G]]"
+- "[[H3290]]"
+- "[[H7760M]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 17:34**<big><big>[[2Kgs.17.24 Samaria Resettled|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Unto this day they do after the former manners: they fear not the LORD, neither do they after their statutes, or after their ordinances, or after the law and commandment which the LORD commanded the children of Jacob, whom he named Israel;
 <small><sub>**BSB:**</sub></small>
 To this day they are still practicing their former customs. None of them worship the LORD or observe the statutes, ordinances, laws, and commandments that the LORD gave the descendants of Jacob, whom He named Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H5704\|עַ֣ד]] [[H9009\|הַ]][[H3117L\|יּ֤וֹם]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H1992\|הֵ֣ם]] [[H6213A\|עֹשִׂ֔ים]] [[H9004\|כַּ]][[H4941J\|מִּשְׁפָּטִ֖ים]] [[H9009\|הָ]][[H7223H\|רִֽאשֹׁנִ֑ים]] [[H0369\|אֵינָ֤]][[H9048\|ם]] [[H3373\|יְרֵאִים֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֔ה]] [[H9002\|וְ]][[H0369\|אֵינָ֣]][[H9048\|ם]] [[H6213A\|עֹשִׂ֗ים]] [[H9004\|כְּ]][[H2708\|חֻקֹּתָ]][[H9028\|ם֙]] [[H9002\|וּ]][[H9004\|כְ]][[H4941G\|מִשְׁפָּטָ֔]][[H9028\|ם]] [[H9002\|וְ]][[H9004\|כַ]][[H8451\|תּוֹרָ֣ה]] [[H9002\|וְ]][[H9004\|כַ]][[H4687\|מִּצְוָ֗ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H6680\|צִוָּ֤ה]] [[H3068G\|יְהוָה֙]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H3290\|יַעֲקֹ֔ב]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7760M\|שָׂ֥ם]] [[H8034\|שְׁמ֖]][[H9023\|וֹ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.17.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.17.33|<< 2 Kings 17:33]]</td><td align="center" style="border:none;">[[2Kgs.17|2 Kings 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.17.35|2 Kings 17:35 >>]]</td></tr></table>
 

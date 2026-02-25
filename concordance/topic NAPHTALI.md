@@ -9,13 +9,13 @@
 
 2. Tribe of
 
-- Census of [[Num.1.42|Nu 1:42]],[[Num.1.43|43]]; [[Num.26.48|26:48]]-[[Num.26.50|50]]
+- Census of [[Num.1.42|Nu 1:42]],[[Num.1.43|43]]; [[Num.26.48|26:48-50]]
 
-- Position assigned to, in camping and in marching [[Num.2.25|Nu  2:25]]-[[Num.2.31|31]]; [[Num.10.25|10:25]]-[[Num.10.27|27]]
+- Position assigned to, in camping and in marching [[Num.2.25|Nu  2:25-31]]; [[Num.10.25|10:25-27]]
 
 - Moses' benediction on [[Deut.33.23|De 33:23]]
 
-- Inheritance of [[Josh.19.32|Jos 19:32]]-[[Josh.19.39|39]]; [[Judg.1.33|Jud 1:33]]; [[Ezek.48.3|Eze 48:3]]
+- Inheritance of [[Josh.19.32|Jos 19:32-39]]; [[Judg.1.33|Jud 1:33]]; [[Ezek.48.3|Eze 48:3]]
 
 - Defeat Sisera [[Judg.4.6|Jud 4:6]],[[Judg.4.10|10]]; [[Judg.5.18|5:18]]
 

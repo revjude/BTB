@@ -1,8 +1,61 @@
+---
+title: Psalm 28:2
+type: Verse
+kjv: "Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle."
+bsb: "Hear my cry for mercy when I call to You for help, when I lift up my hands toward Your holy sanctuary."
+hebrew: "שְׁמַ֤ע ק֣וֹל תַּ֭חֲנוּנַי בְּשַׁוְּעִ֣י אֵלֶ֑יךָ בְּנָשְׂאִ֥י יָ֝דַ֗י אֶל־ דְּבִ֥יר קָדְשֶֽׁךָ׃"
+pericope: "[[Ps.28.1 The LORD Is My Strength|The LORD Is My Strength]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 28
+book/chapter: "[[Ps.28|Psalm 28]]"
+chronological_order: 360
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ORACLE|ORACLE]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H8469]]"
+- "[[H9020]]"
+- "[[H9003]]"
+- "[[H7768]]"
+- "[[H9040]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H5375P]]"
+- "[[H3027S]]"
+- "[[H9014]]"
+- "[[H1687]]"
+- "[[H6944G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 28:2**<big><big>[[Ps.28.1 The LORD Is My Strength|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.
 <small><sub>**BSB:**</sub></small>
 Hear my cry for mercy when I call to You for help, when I lift up my hands toward Your holy sanctuary.
+<small><sub>**Hebrew:**</sub></small>
+[[H8085G\|שְׁמַ֤ע]] [[H6963A\|ק֣וֹל]] [[H8469\|תַּ֭חֲנוּנַ]][[H9020\|י]] [[H9003\|בְּ]][[H7768\|שַׁוְּעִ֣]][[H9040\|י]] [[H0413\|אֵלֶ֑י]][[H9031\|ךָ]] [[H9003\|בְּ]][[H5375P\|נָשְׂאִ֥]][[H9040\|י]] [[H3027S\|יָ֝דַ֗]][[H9020\|י]] [[H0413\|אֶל]][[H9014\|־]] [[H1687\|דְּבִ֥יר]] [[H6944G\|קָדְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ORACLE|ORACLE]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.28.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.28.1|<< Psalms 28:1]]</td><td align="center" style="border:none;">[[Ps.28|Psalms 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.28.3|Psalms 28:3 >>]]</td></tr></table>
 

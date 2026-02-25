@@ -1,10 +1,57 @@
+---
+title: John 8:53
+type: Verse
+kjv: "Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?"
+bsb: "Are You greater than our father Abraham? He died, as did the prophets. Who do You claim to be?”"
+greek: "μὴ σὺ μείζων εἶ τοῦ πατρὸς ἡμῶν Ἀβραάμ, ὅστις ἀπέθανεν; καὶ οἱ προφῆται ἀπέθανον. τίνα σεαυτὸν σὺ ποιεῖς;¶"
+pericope: "[[John.8.48 Before Abraham Was Born, I Am|Before Abraham Was Born, I Am]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+strongs:
+- "[[G3361]]"
+- "[[G4771]]"
+- "[[G3173]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G3165]]"
+- "[[G0011]]"
+- "[[G3748]]"
+- "[[G0599]]"
+- "[[G2532]]"
+- "[[G4396]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+texts:
+- NKO
+- k
+---
+
 **John 8:53**<big><big>[[John.8.48 Before Abraham Was Born, I Am|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Art thou greater than our father Abraham, which is dead? and the prophets are dead: whom makest thou thyself?
 <small><sub>**BSB:**</sub></small>
 Are You greater than our father Abraham? He died, as did the prophets. Who do You claim to be?”
-<small><sub>**Literal:**</sub></small>
-Surely not You yourself greater are than the father of us Abraham, who died? And the prophets died! Whom yourself you yourself make You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.52|<< John 8:52]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.54|John 8:54 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G4771\|σὺ]]  [[G3173\|μείζων]]  [[G1510\|εἶ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G3165\|ἡμῶν]]  [[G0011\|Ἀβραάμ,]]  [[G3748\|ὅστις]]  [[G0599\|ἀπέθανεν;]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4396\|προφῆται]]  [[G0599\|ἀπέθανον.]]  [[G5101\|τίνα]]  [[G4771\|σεαυτὸν]]  [[G4771\|σὺ]]  [[G4160G\|ποιεῖς;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]] • [[topic UNBELIEF|UNBELIEF]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.52|<< John 8:52]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.54|John 8:54 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,61 @@
+---
+title: Hebrews 4:6
+type: Verse
+kjv: "Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:"
+bsb: "Since, then, it remains for some to enter His rest, and since those who formerly heard the good news did not enter because of their disobedience,"
+greek: "ἐπεὶ οὖν ἀπολείπεται τινὰς εἰσελθεῖν εἰς αὐτὴν καὶ οἱ πρότερον εὐαγγελισθέντες οὐκ εἰσῆλθον δι᾽ ἀπείθειαν,"
+pericope: "[[Heb.4.1 The Sabbath Rest|The Sabbath Rest]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 4
+book/chapter: "[[Heb.4|Hebrews 4]]"
+chronological_order: 1143
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic PROCRASTINATION|PROCRASTINATION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic REST|REST]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G1893]]"
+- "[[G3767]]"
+- "[[G0620]]"
+- "[[G5100]]"
+- "[[G1525]]"
+- "[[G1519]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4386]]"
+- "[[G2097]]"
+- "[[G3756]]"
+- "[[G1223]]"
+- "[[G0543]]"
+texts:
+- NKO
+---
+
 **Hebrews 4:6**<big><big>[[Heb.4.1 The Sabbath Rest|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:
 <small><sub>**BSB:**</sub></small>
 Since, then, it remains for some to enter His rest, and since those who formerly heard the good news did not enter because of their disobedience,
-<small><sub>**Literal:**</sub></small>
-Since therefore it remains [for] some to enter into it and those formerly having been evangelised not they did enter in because of disobedience,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.5|<< Hebrews 4:5]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.7|Hebrews 4:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1893\|ἐπεὶ]]  [[G3767\|οὖν]]  [[G0620\|ἀπολείπεται]]  [[G5100\|τινὰς]]  [[G1525\|εἰσελθεῖν]]  [[G1519\|εἰς]]  [[G0846\|αὐτὴν]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G4386\|πρότερον]]  [[G2097\|εὐαγγελισθέντες]]  [[G3756\|οὐκ]]  [[G1525\|εἰσῆλθον]]  [[G1223\|δι᾽]]  [[G0543\|ἀπείθειαν,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic PROCRASTINATION|PROCRASTINATION]] • [[topic PROPHECY|PROPHECY]] • [[topic REGENERATION|REGENERATION]] • [[topic REST|REST]] • [[topic SALVATION|SALVATION]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.4.5|<< Hebrews 4:5]]</td><td align="center" style="border:none;">[[Heb.4|Hebrews 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.4.7|Hebrews 4:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

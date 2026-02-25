@@ -1,8 +1,76 @@
+---
+title: Isaiah 55:10
+type: Verse
+kjv: "For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:"
+bsb: "For just as rain and snow fall from heaven and do not return without watering the earth, making it bud and sprout, and providing seed to sow and food to eat,"
+hebrew: "כִּ֡י כַּאֲשֶׁ֣ר יֵרֵד֩ הַגֶּ֨שֶׁם וְהַשֶּׁ֜לֶג מִן־ הַשָּׁמַ֗יִם וְשָׁ֙מָּה֙ לֹ֣א יָשׁ֔וּב כִּ֚י אִם־ הִרְוָ֣ה אֶת־ הָאָ֔רֶץ וְהוֹלִידָ֖הּ וְהִצְמִיחָ֑הּ וְנָ֤תַן זֶ֙רַע֙ לַזֹּרֵ֔עַ וְלֶ֖חֶם לָאֹכֵֽל׃"
+pericope: "[[Isa.55.1 Invitation to the Needy|Invitation to the Needy]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 55
+book/chapter: "[[Isa.55|Isaiah 55]]"
+chronological_order: 694
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3381]]"
+- "[[H9009]]"
+- "[[H1653]]"
+- "[[H9002]]"
+- "[[H7950]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H8064]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3808]]"
+- "[[H7725G]]"
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H7301]]"
+- "[[H0853]]"
+- "[[H0776G]]"
+- "[[H9001]]"
+- "[[H3205]]"
+- "[[H9034]]"
+- "[[H6779]]"
+- "[[H5414G]]"
+- "[[H2233G]]"
+- "[[H9005]]"
+- "[[H2232]]"
+- "[[H3899H]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 55:10**<big><big>[[Isa.55.1 Invitation to the Needy|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:
 <small><sub>**BSB:**</sub></small>
 For just as rain and snow fall from heaven and do not return without watering the earth, making it bud and sprout, and providing seed to sow and food to eat,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֡י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H3381\|יֵרֵד֩]] [[H9009\|הַ]][[H1653\|גֶּ֨שֶׁם]] [[H9002\|וְ]][[H9009\|הַ]][[H7950\|שֶּׁ֜לֶג]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H8064\|שָּׁמַ֗יִם]] [[H9002\|וְ]][[H8033G\|שָׁ֙מָּ]][[H9011\|ה֙]] [[H3808\|לֹ֣א]] [[H7725G\|יָשׁ֔וּב]] [[H3588B\|כִּ֚י]] [[H0518B\|אִם]][[H9014\|־]] [[H7301\|הִרְוָ֣ה]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֔רֶץ]] [[H9001\|וְ]][[H3205\|הוֹלִידָ֖]][[H9034\|הּ]] [[H9001\|וְ]][[H6779\|הִצְמִיחָ֑]][[H9034\|הּ]] [[H9001\|וְ]][[H5414G\|נָ֤תַן]] [[H2233G\|זֶ֙רַע֙]] [[H9005\|לַ]][[H2232\|זֹּרֵ֔עַ]] [[H9002\|וְ]][[H3899H\|לֶ֖חֶם]] [[H9005\|לָ]][[H0398\|אֹכֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.55.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.55.9|<< Isaiah 55:9]]</td><td align="center" style="border:none;">[[Isa.55|Isaiah 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.55.11|Isaiah 55:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

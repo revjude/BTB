@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Cherubim
+type: Pericope
 pericope: "[[2Chr.3.10 The Cherubim|The Cherubim]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 3
 book/chapter: "[[2Chr.3|2 Chronicles 3]]"
-genre:
+chronological_order: 492
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.3.10]]"
 - "[[2Chr.3.11]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.3.13]]"
 ---
 
-[[2Chr.3|2 Chronicles 3:10 - 2 Chronicles 3:13]]
+<small>[[2Chr.3|2 Chronicles 3:10-13]]</small>
 *The Cherubim*
 
 [[2Chr.3.10|10]] And in the most holy house he made two cherubims of image work, and overlaid them with gold.

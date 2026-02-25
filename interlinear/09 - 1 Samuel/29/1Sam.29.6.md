@@ -1,8 +1,76 @@
+---
+title: 1 Samuel 29:6
+type: Verse
+kjv: "Then Achish called David, and said unto him, Surely, as the LORD liveth, thou hast been upright, and thy going out and thy coming in with me in the host is good in my sight: for I have not found evil in thee since the day of thy coming unto me unto this day: nevertheless the lords favour thee not."
+bsb: "So Achish summoned David and told him, “As surely as the LORD lives, you have been upright, and it seems right in my sight that you should march in and out with me in the army, because I have found no fault in you from the day you came to me until this day. But you are not good in the sight of the leaders."
+hebrew: "וַיִּקְרָ֨א אָכִ֜ישׁ אֶל־ דָּוִ֗ד וַיֹּ֣אמֶר אֵ֠לָיו חַי־ יְהוָ֞ה כִּי־ יָשָׁ֣ר אַתָּ֗ה וְט֣וֹב בְּ֠עֵינַי צֵאתְךָ֨ וּבֹאֲךָ֤ אִתִּי֙ בַּֽמַּחֲנֶ֔ה כִּ֠י לֹֽא־ מָצָ֤אתִֽי בְךָ֙ רָעָ֔ה מִיּ֛וֹם בֹּאֲךָ֥ אֵלַ֖י עַד־ הַיּ֣וֹם הַזֶּ֑ה וּבְעֵינֵ֥י הַסְּרָנִ֖ים לֹֽא־ ט֥וֹב אָֽתָּה׃"
+pericope: "[[1Sam.29.1 The Philistines Reject David|The Philistines Reject David]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 29
+book/chapter: "[[1Sam.29|1 Samuel 29]]"
+chronological_order: 308
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H0397]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1732]]"
+- "[[H0559]]"
+- "[[H9033]]"
+- "[[H2416A]]"
+- "[[H3068G]]"
+- "[[H3588A]]"
+- "[[H3477G]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H2896A]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9020]]"
+- "[[H3318G]]"
+- "[[H9041]]"
+- "[[H0935G]]"
+- "[[H0854]]"
+- "[[H9030]]"
+- "[[H4264]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9031]]"
+- "[[H7451I]]"
+- "[[H9006]]"
+- "[[H3117L]]"
+- "[[H5704]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H5633A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 29:6**<big><big>[[1Sam.29.1 The Philistines Reject David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Achish called David, and said unto him, Surely, [as] the LORD liveth, thou hast been upright, and thy going out and thy coming in with me in the host [is] good in my sight: for I have not found evil in thee since the day of thy coming unto me unto this day: nevertheless the lords favour thee not.
 <small><sub>**BSB:**</sub></small>
 So Achish summoned David and told him, “As surely as the LORD lives, you have been upright, and it seems right in my sight that you should march in and out with me in the army, because I have found no fault in you from the day you came to me until this day. But you are not good in the sight of the leaders.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֨א]] [[H0397\|אָכִ֜ישׁ]] [[H0413\|אֶל]][[H9014\|־]] [[H1732\|דָּוִ֗ד]] [[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֵ֠לָי]][[H9033\|ו]] [[H2416A\|חַי]][[H9014\|־]] [[H3068G\|יְהוָ֞ה]] [[H3588A\|כִּי]][[H9014\|־]] [[H3477G\|יָשָׁ֣ר]] [[H0859A\|אַתָּ֗ה]] [[H9002\|וְ]][[H2896A\|ט֣וֹב]] [[H9003\|בְּ֠]][[H5869I\|עֵינַ]][[H9020\|י]] [[H3318G\|צֵאתְ]][[H9041\|ךָ֨]] [[H9002\|וּ]][[H0935G\|בֹאֲ]][[H9041\|ךָ֤]] [[H0854\|אִתִּ]][[H9030\|י֙]] [[H9003\|בַּֽ]][[H4264\|מַּחֲנֶ֔ה]] [[H3588A\|כִּ֠י]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4672\|מָצָ֤אתִֽי]] [[H9003\|בְ]][[H9031\|ךָ֙]] [[H7451I\|רָעָ֔ה]] [[H9006\|מִ]][[H3117L\|יּ֛וֹם]] [[H0935G\|בֹּאֲ]][[H9041\|ךָ֥]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H9002\|וּ]][[H9003\|בְ]][[H5869I\|עֵינֵ֥י]] [[H9009\|הַ]][[H5633A\|סְּרָנִ֖ים]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2896A\|ט֥וֹב]] [[H0859A\|אָֽתָּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTEGRITY|INTEGRITY]] • [[topic PHILISTINES|PHILISTINES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.29.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.29.5|<< 1 Samuel 29:5]]</td><td align="center" style="border:none;">[[1Sam.29|1 Samuel 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.29.7|1 Samuel 29:7 >>]]</td></tr></table>
 

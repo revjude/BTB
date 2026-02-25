@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Value of Wisdom
+type: Pericope
 pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
-verse_count: 14
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 7
 book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
-genre:
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 14
 verses:
 - "[[Eccl.7.1]]"
 - "[[Eccl.7.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[Eccl.7.14]]"
 ---
 
-[[Eccl.7|Ecclesiastes 7:1 - Ecclesiastes 7:14]]
+<small>[[Eccl.7|Ecclesiastes 7:1-14]]</small>
 *The Value of Wisdom*
 
 [[Eccl.7.1|1]] A good name \[is\] better than precious ointment; and the day of death than the day of one’s birth.

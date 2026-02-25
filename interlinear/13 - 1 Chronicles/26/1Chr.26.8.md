@@ -1,8 +1,60 @@
+---
+title: 1 Chronicles 26:8
+type: Verse
+kjv: "All these of the sons of Obededom: they and their sons and their brethren, able men for strength for the service, were threescore and two of Obededom."
+bsb: "All these were descendants of Obed-edom; they and their sons and brothers were capable men with strength to do the work—62 in all from Obed-edom."
+hebrew: "כָּל־ אֵ֜לֶּה מִבְּנֵ֣י׀ עֹבֵ֣ד אֱדֹ֗ם הֵ֤מָּה וּבְנֵיהֶם֙ וַאֲחֵיהֶ֔ם אִֽישׁ־ חַ֥יִל בַּכֹּ֖חַ לַעֲבֹדָ֑ה שִׁשִּׁ֥ים וּשְׁנַ֖יִם לְעֹבֵ֥ד אֱדֹֽם׃"
+pericope: "[[1Chr.26.1 The Divisions of the Gatekeepers|The Divisions of the Gatekeepers]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 26
+book/chapter: "[[1Chr.26|1 Chronicles 26]]"
+chronological_order: 437
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+strongs:
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9015]]"
+- "[[H5654]]"
+- "[[H1992]]"
+- "[[H9002]]"
+- "[[H9028]]"
+- "[[H0251H]]"
+- "[[H0376G]]"
+- "[[H2428G]]"
+- "[[H9003]]"
+- "[[H3581B]]"
+- "[[H9005]]"
+- "[[H5656G]]"
+- "[[H8346]]"
+- "[[H8147]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 26:8**<big><big>[[1Chr.26.1 The Divisions of the Gatekeepers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 All these of the sons of Obededom: they and their sons and their brethren, able men for strength for the service, [were] threescore and two of Obededom.
 <small><sub>**BSB:**</sub></small>
 All these were descendants of Obed-edom; they and their sons and brothers were capable men with strength to do the work—62 in all from Obed-edom.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֜לֶּה]] [[H9006\|מִ]][[H1121A\|בְּנֵ֣י]][[H9015\|׀]] [[H5654\|עֹבֵ֣ד]] [[H5654\|אֱדֹ֗ם]] [[H1992\|הֵ֤מָּה]] [[H9002\|וּ]][[H1121A\|בְנֵי]][[H9028\|הֶם֙]] [[H9002\|וַ]][[H0251H\|אֲחֵי]][[H9028\|הֶ֔ם]] [[H0376G\|אִֽישׁ]][[H9014\|־]] [[H2428G\|חַ֥יִל]] [[H9003\|בַּ]][[H3581B\|כֹּ֖חַ]] [[H9005\|לַ]][[H5656G\|עֲבֹדָ֑ה]] [[H8346\|שִׁשִּׁ֥ים]] [[H9002\|וּ]][[H8147\|שְׁנַ֖יִם]] [[H9005\|לְ]][[H5654\|עֹבֵ֥ד]] [[H5654\|אֱדֹֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OBED-EDOM|OBED-EDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.26.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.26.7|<< 1 Chronicles 26:7]]</td><td align="center" style="border:none;">[[1Chr.26|1 Chronicles 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.26.9|1 Chronicles 26:9 >>]]</td></tr></table>
 

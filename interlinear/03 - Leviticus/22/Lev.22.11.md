@@ -1,8 +1,65 @@
+---
+title: Leviticus 22:11
+type: Verse
+kjv: "But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat."
+bsb: "But if a priest buys a slave with his own money, or if a slave is born in his household, that slave may eat his food."
+hebrew: "וְכֹהֵ֗ן כִּֽי־ יִקְנֶ֥ה נֶ֙פֶשׁ֙ קִנְיַ֣ן כַּסְפּ֔וֹ ה֖וּא יֹ֣אכַל בּ֑וֹ וִילִ֣יד בֵּית֔וֹ הֵ֖ם יֹאכְל֥וּ בְלַחְמֽוֹ׃"
+pericope: "[[Lev.22.1 Restrictions against the Unclean|Restrictions against the Unclean]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 22
+book/chapter: "[[Lev.22|Leviticus 22]]"
+chronological_order: 154
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic MONEY|MONEY]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic SERVANT|SERVANT]]"
+strongs:
+- "[[H9002]]"
+- "[[H3548]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7069]]"
+- "[[H5315J]]"
+- "[[H7075]]"
+- "[[H3701G]]"
+- "[[H9023]]"
+- "[[H1931]]"
+- "[[H0398]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H3211]]"
+- "[[H1004M]]"
+- "[[H1992]]"
+- "[[H3899G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 22:11**<big><big>[[Lev.22.1 Restrictions against the Unclean|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But if the priest buy [any] soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.
 <small><sub>**BSB:**</sub></small>
 But if a priest buys a slave with his own money, or if a slave is born in his household, that slave may eat his food.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3548\|כֹהֵ֗ן]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H7069\|יִקְנֶ֥ה]] [[H5315J\|נֶ֙פֶשׁ֙]] [[H7075\|קִנְיַ֣ן]] [[H3701G\|כַּסְפּ֔]][[H9023\|וֹ]] [[H1931\|ה֖וּא]] [[H0398\|יֹ֣אכַל]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9002\|וִ]][[H3211\|ילִ֣יד]] [[H1004M\|בֵּית֔]][[H9023\|וֹ]] [[H1992\|הֵ֖ם]] [[H0398\|יֹאכְל֥וּ]] [[H9003\|בְ]][[H3899G\|לַחְמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MONEY|MONEY]] • [[topic PRIEST|PRIEST]] • [[topic SERVANT|SERVANT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.22.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.22.10|<< Leviticus 22:10]]</td><td align="center" style="border:none;">[[Lev.22|Leviticus 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.22.12|Leviticus 22:12 >>]]</td></tr></table>
 

@@ -1,8 +1,59 @@
+---
+title: Psalm 38:20
+type: Verse
+kjv: "They also that render evil for good are mine adversaries; because I follow the thing that good is."
+bsb: "Those who repay my good with evil attack me for pursuing the good."
+hebrew: "וּמְשַׁלְּמֵ֣י רָ֭עָה תַּ֣חַת טוֹבָ֑ה יִ֝שְׂטְנ֗וּנִי תַּ֣חַת רָֽדְפִי טֽוֹב׃"
+pericope: "[[Ps.38.1 Do Not Rebuke Me in Your Anger|Do Not Rebuke Me in Your Anger]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 38
+book/chapter: "[[Ps.38|Psalm 38]]"
+chronological_order: 424
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic INGRATITUDE|INGRATITUDE]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H7999A]]"
+- "[[H7451I]]"
+- "[[H8478H]]"
+- "[[H2896C]]"
+- "[[H7853]]"
+- "[[H9030]]"
+- "[[H8478J]]"
+- "[[H7291]]"
+- "[[H9040]]"
+- "[[H2896A]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Psalms 38:20**<big><big>[[Ps.38.1 Do Not Rebuke Me in Your Anger|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They also that render evil for good are mine adversaries; because I follow [the thing that] good [is].
 <small><sub>**BSB:**</sub></small>
 Those who repay my good with evil attack me for pursuing the good.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H7999A\|מְשַׁלְּמֵ֣י]] [[H7451I\|רָ֭עָה]] [[H8478H\|תַּ֣חַת]] [[H2896C\|טוֹבָ֑ה]] [[H7853\|יִ֝שְׂטְנ֗וּ]][[H9030\|נִי]] [[H8478J\|תַּ֣חַת]] [[H7291\|רָֽדְפִ]][[H9040\|י]] [[H2896A\|טֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CONVICTION|CONVICTION]] • [[topic INGRATITUDE|INGRATITUDE]] • [[topic PERSECUTION|PERSECUTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.38.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.38.19|<< Psalms 38:19]]</td><td align="center" style="border:none;">[[Ps.38|Psalms 38]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.38.21|Psalms 38:21 >>]]</td></tr></table>
 

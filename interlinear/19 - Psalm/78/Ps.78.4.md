@@ -1,8 +1,66 @@
+---
+title: Psalm 78:4
+type: Verse
+kjv: "We will not hide them from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done."
+bsb: "We will not hide them from their children but will declare to the next generation the praises of the LORD and His might and the wonders He has performed."
+hebrew: "לֹ֤א נְכַחֵ֨ד׀ מִבְּנֵיהֶ֗ם לְד֥וֹר אַחֲר֗וֹן מְֽ֭סַפְּרִים תְּהִלּ֣וֹת יְהוָ֑ה וֶעֱזוּז֥וֹ וְ֝נִפְלְאוֹתָ֗יו אֲשֶׁ֣ר עָשָֽׂה׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3808]]"
+- "[[H3582]]"
+- "[[H9015]]"
+- "[[H9006]]"
+- "[[H1121A]]"
+- "[[H9028]]"
+- "[[H9005]]"
+- "[[H1755]]"
+- "[[H0314]]"
+- "[[H5608A]]"
+- "[[H8416]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H5807]]"
+- "[[H9023]]"
+- "[[H6381]]"
+- "[[H0834A]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:4**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 We will not hide [them] from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.
 <small><sub>**BSB:**</sub></small>
 We will not hide them from their children but will declare to the next generation the praises of the LORD and His might and the wonders He has performed.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹ֤א]] [[H3582\|נְכַחֵ֨ד]][[H9015\|׀]] [[H9006\|מִ]][[H1121A\|בְּנֵי]][[H9028\|הֶ֗ם]] [[H9005\|לְ]][[H1755\|ד֥וֹר]] [[H0314\|אַחֲר֗וֹן]] [[H5608A\|מְֽ֭סַפְּרִים]] [[H8416\|תְּהִלּ֣וֹת]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וֶ]][[H5807\|עֱזוּז֥]][[H9023\|וֹ]] [[H9002\|וְ֝]][[H6381\|נִפְלְאוֹתָ֗י]][[H9023\|ו]] [[H0834A\|אֲשֶׁ֣ר]] [[H6213A\|עָשָֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic GOD|GOD]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.3|<< Psalms 78:3]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.5|Psalms 78:5 >>]]</td></tr></table>
 

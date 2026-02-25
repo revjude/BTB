@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Execution of Shimei
+type: Pericope
 pericope: "[[1Kgs.2.36 The Execution of Shimei|The Execution of Shimei]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 2
 book/chapter: "[[1Kgs.2|1 Kings 2]]"
-genre:
+chronological_order: 442
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~970 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 11
 verses:
 - "[[1Kgs.2.36]]"
 - "[[1Kgs.2.37]]"
@@ -31,7 +38,7 @@ verses:
 - "[[1Kgs.2.46]]"
 ---
 
-[[1Kgs.2|1 Kings 2:36 - 1 Kings 2:46]]
+<small>[[1Kgs.2|1 Kings 2:36-46]]</small>
 *The Execution of Shimei*
 
 [[1Kgs.2.36|36]] And the king sent and called for Shimei, and said unto him, Build thee an house in Jerusalem, and dwell there, and go not forth thence any whither.

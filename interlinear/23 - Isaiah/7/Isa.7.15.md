@@ -1,8 +1,61 @@
+---
+title: Isaiah 7:15
+type: Verse
+kjv: "Butter and honey shall he eat, that he may know to refuse the evil, and choose the good."
+bsb: "By the time He knows enough to reject evil and choose good, He will be eating curds and honey."
+hebrew: "חֶמְאָ֥ה וּדְבַ֖שׁ יֹאכֵ֑ל לְדַעְתּ֛וֹ מָא֥וֹס בָּרָ֖ע וּבָח֥וֹר בַּטּֽוֹב׃"
+pericope: "[[Isa.7.10 The Sign of Immanuel|The Sign of Immanuel]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 7
+book/chapter: "[[Isa.7|Isaiah 7]]"
+chronological_order: 617
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic BUTTER|BUTTER]]"
+- "[[topic FOOD|FOOD]]"
+- "[[topic HONEY|HONEY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PEKAH|PEKAH]]"
+- "[[topic SYRIA|SYRIA]]"
+strongs:
+- "[[H2529A]]"
+- "[[H9002]]"
+- "[[H1706]]"
+- "[[H0398]]"
+- "[[H9005]]"
+- "[[H3045]]"
+- "[[H9033]]"
+- "[[H3988A]]"
+- "[[H9003]]"
+- "[[H7451B]]"
+- "[[H0977]]"
+- "[[H2896B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 7:15**<big><big>[[Isa.7.10 The Sign of Immanuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.
 <small><sub>**BSB:**</sub></small>
 By the time He knows enough to reject evil and choose good, He will be eating curds and honey.
+<small><sub>**Hebrew:**</sub></small>
+[[H2529A\|חֶמְאָ֥ה]] [[H9002\|וּ]][[H1706\|דְבַ֖שׁ]] [[H0398\|יֹאכֵ֑ל]] [[H9005\|לְ]][[H3045\|דַעְתּ֛]][[H9033\|וֹ]] [[H3988A\|מָא֥וֹס]] [[H9003\|בָּ]][[H7451B\|רָ֖ע]] [[H9002\|וּ]][[H0977\|בָח֥וֹר]] [[H9003\|בַּ]][[H2896B\|טּֽוֹב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic BUTTER|BUTTER]] • [[topic FOOD|FOOD]] • [[topic HONEY|HONEY]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PEKAH|PEKAH]] • [[topic SYRIA|SYRIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.7.14|<< Isaiah 7:14]]</td><td align="center" style="border:none;">[[Isa.7|Isaiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.7.16|Isaiah 7:16 >>]]</td></tr></table>
 

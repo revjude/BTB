@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Another Plot against Jeremiah
+type: Pericope
 pericope: "[[Jer.18.18 Another Plot against Jeremiah|Another Plot against Jeremiah]]"
-verse_count: 6
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 18
 book/chapter: "[[Jer.18|Jeremiah 18]]"
-genre:
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 6
 verses:
 - "[[Jer.18.18]]"
 - "[[Jer.18.19]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Jer.18.23]]"
 ---
 
-[[Jer.18|Jeremiah 18:18 - Jeremiah 18:23]]
+<small>[[Jer.18|Jeremiah 18:18-23]]</small>
 *Another Plot against Jeremiah*
 
 [[Jer.18.18|18]] Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words.

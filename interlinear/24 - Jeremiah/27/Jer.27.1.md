@@ -1,8 +1,69 @@
+---
+title: Jeremiah 27:1
+type: Verse
+kjv: "In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word unto Jeremiah from the LORD, saying,"
+bsb: "At the beginning of the reign of Zedekiah son of Josiah king of Judah, this word came to Jeremiah from the LORD."
+hebrew: "בְּרֵאשִׁ֗ית מַמְלֶ֛כֶת יְהוֹיָקִ֥ם בֶּן־ יֹאושִׁיָּ֖הוּ מֶ֣לֶךְ יְהוּדָ֑ה הָיָ֞ה הַדָּבָ֤ר הַזֶּה֙ אֶֽל־ יִרְמְיָ֔ה מֵאֵ֥ת יְהוָ֖ה לֵאמֹֽר׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic AMMONITES|AMMONITES]]"
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic EDOM|EDOM]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic PROPHETS|PROPHETS]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[H9003]]"
+- "[[H7225G]]"
+- "[[H4467]]"
+- "[[H3079]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H2977G]]"
+- "[[H4428G]]"
+- "[[H3063G]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H2088]]"
+- "[[H0413]]"
+- "[[H3414L]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:1**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word unto Jeremiah from the LORD, saying,
 <small><sub>**BSB:**</sub></small>
 At the beginning of the reign of Zedekiah son of Josiah king of Judah, this word came to Jeremiah from the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בְּ]][[H7225G\|רֵאשִׁ֗ית]] [[H4467\|מַמְלֶ֛כֶת]] [[H3079\|יְהוֹיָקִ֥ם]] [[H1121A\|בֶּן]][[H9014\|־]] [[H2977G\|יֹאושִׁיָּ֖הוּ]] [[H4428G\|מֶ֣לֶךְ]] [[H3063G\|יְהוּדָ֑ה]] [[H1961\|הָיָ֞ה]] [[H9009\|הַ]][[H1697G\|דָּבָ֤ר]] [[H9009\|הַ]][[H2088\|זֶּה֙]] [[H0413\|אֶֽל]][[H9014\|־]] [[H3414L\|יִרְמְיָ֔ה]] [[H9006\|מֵ]][[H0854\|אֵ֥ת]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לֵ]][[H0559\|אמֹֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMMONITES|AMMONITES]] • [[topic BABYLON|BABYLON]] • [[topic EDOM|EDOM]] • [[topic EDOMITES|EDOMITES]] • [[topic PROPHECY|PROPHECY]] • [[topic PROPHETS|PROPHETS]] • [[topic TYRE|TYRE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.26.24|<< Jeremiah 26:24]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.2|Jeremiah 27:2 >>]]</td></tr></table>
 

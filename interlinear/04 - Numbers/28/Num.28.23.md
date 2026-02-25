@@ -1,8 +1,60 @@
+---
+title: Numbers 28:23
+type: Verse
+kjv: "Ye shall offer these beside the burnt offering in the morning, which is for a continual burnt offering."
+bsb: "You are to present these in addition to the regular morning burnt offering."
+hebrew: "מִלְּבַד֙ עֹלַ֣ת הַבֹּ֔קֶר אֲשֶׁ֖ר לְעֹלַ֣ת הַתָּמִ֑יד תַּעֲשׂ֖וּ אֶת־ אֵֽלֶּה׃"
+pericope: "[[Num.28.16 Passover and the Feast of Unleavened Bread|Passover and the Feast of Unleavened Bread]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 28
+book/chapter: "[[Num.28|Numbers 28]]"
+chronological_order: 188
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H5930A]]"
+- "[[H9009]]"
+- "[[H1242]]"
+- "[[H0834A]]"
+- "[[H8548]]"
+- "[[H6213I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H0428]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 28:23**<big><big>[[Num.28.16 Passover and the Feast of Unleavened Bread|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Ye shall offer these beside the burnt offering in the morning, which [is] for a continual burnt offering.
 <small><sub>**BSB:**</sub></small>
 You are to present these in addition to the regular morning burnt offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H9005\|לְּ]][[H0905J\|בַד֙]] [[H5930A\|עֹלַ֣ת]] [[H9009\|הַ]][[H1242\|בֹּ֔קֶר]] [[H0834A\|אֲשֶׁ֖ר]] [[H9005\|לְ]][[H5930A\|עֹלַ֣ת]] [[H9009\|הַ]][[H8548\|תָּמִ֑יד]] [[H6213I\|תַּעֲשׂ֖וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H0428\|אֵֽלֶּה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic FEASTS|FEASTS]] • [[topic OFFERINGS|OFFERINGS]] • [[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.28.22|<< Numbers 28:22]]</td><td align="center" style="border:none;">[[Num.28|Numbers 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.28.24|Numbers 28:24 >>]]</td></tr></table>
 

@@ -1,8 +1,61 @@
+---
+title: Jeremiah 30:2
+type: Verse
+kjv: "Thus speaketh the LORD God of Israel, saying, Write thee all the words that I have spoken unto thee in a book."
+bsb: "“This is what the LORD, the God of Israel, says: ‘Write in a book all the words that I have spoken to you."
+hebrew: "כֹּֽה־ אָמַ֧ר יְהוָ֛ה אֱלֹהֵ֥י יִשְׂרָאֵ֖ל לֵאמֹ֑ר כְּתָב־ לְךָ֗ אֵ֧ת כָּל־ הַדְּבָרִ֛ים אֲשֶׁר־ דִּבַּ֥רְתִּי אֵלֶ֖יךָ אֶל־ סֵֽפֶר׃"
+pericope: "[[Jer.30.1 The Restoration of Israel and Judah|The Restoration of Israel and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 30
+book/chapter: "[[Jer.30|Jeremiah 30]]"
+chronological_order: 753
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic SCRIPTURES|SCRIPTURES]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H3789]]"
+- "[[H9031]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H1697G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H5612H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 30:2**<big><big>[[Jer.30.1 The Restoration of Israel and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus speaketh the LORD God of Israel, saying, Write thee all the words that I have spoken unto thee in a book.
 <small><sub>**BSB:**</sub></small>
 “This is what the LORD, the God of Israel, says: ‘Write in a book all the words that I have spoken to you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H0430G\|אֱלֹהֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9005\|לֵ]][[H0559\|אמֹ֑ר]] [[H3789\|כְּתָב]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֗]] [[H0853\|אֵ֧ת]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H1697G\|דְּבָרִ֛ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H1696G\|דִּבַּ֥רְתִּי]] [[H0413\|אֵלֶ֖י]][[H9031\|ךָ]] [[H0413\|אֶל]][[H9014\|־]] [[H5612H\|סֵֽפֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SCRIPTURES|SCRIPTURES]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.30.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.30.1|<< Jeremiah 30:1]]</td><td align="center" style="border:none;">[[Jer.30|Jeremiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.30.3|Jeremiah 30:3 >>]]</td></tr></table>
 

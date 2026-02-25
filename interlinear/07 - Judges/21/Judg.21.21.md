@@ -1,8 +1,72 @@
+---
+title: Judges 21:21
+type: Verse
+kjv: "And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin."
+bsb: "and watch. When you see the daughters of Shiloh come out to perform their dances, each of you is to come out of the vineyards, catch for himself a wife from the daughters of Shiloh, and go to the land of Benjamin."
+hebrew: "וּרְאִיתֶ֗ם וְ֠הִנֵּה אִם־ יֵ֨צְא֥וּ בְנוֹת־ שִׁילוֹ֮ לָח֣וּל בַּמְּחֹלוֹת֒ וִֽיצָאתֶם֙ מִן־ הַכְּרָמִ֔ים וַחֲטַפְתֶּ֥ם לָכֶ֛ם אִ֥ישׁ אִשְׁתּ֖וֹ מִבְּנ֣וֹת שִׁיל֑וֹ וַהֲלַכְתֶּ֖ם אֶ֥רֶץ בִּנְיָמִֽן׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic DANCING|DANCING]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic GRAPE|GRAPE]]"
+- "[[topic KIDNAPPING|KIDNAPPING]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H9002]]"
+- "[[H2009]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H3318G]]"
+- "[[H1323G]]"
+- "[[H7887]]"
+- "[[H9005]]"
+- "[[H2342J]]"
+- "[[H9003]]"
+- "[[H4246]]"
+- "[[H4480A]]"
+- "[[H9009]]"
+- "[[H3754]]"
+- "[[H2414]]"
+- "[[H9036]]"
+- "[[H0376I]]"
+- "[[H0802H]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H1980G]]"
+- "[[H0776G]]"
+- "[[H1144G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:21**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
 <small><sub>**BSB:**</sub></small>
 and watch. When you see the daughters of Shiloh come out to perform their dances, each of you is to come out of the vineyards, catch for himself a wife from the daughters of Shiloh, and go to the land of Benjamin.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וּ]][[H7200G\|רְאִיתֶ֗ם]] [[H9002\|וְ֠]][[H2009\|הִנֵּה]] [[H0518A\|אִם]][[H9014\|־]] [[H3318G\|יֵ֨צְא֥וּ]] [[H1323G\|בְנוֹת]][[H9014\|־]] [[H7887\|שִׁילוֹ֮]] [[H9005\|לָ]][[H2342J\|ח֣וּל]] [[H9003\|בַּ]][[H4246\|מְּחֹלוֹת֒]] [[H9001\|וִֽ]][[H3318G\|יצָאתֶם֙]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H3754\|כְּרָמִ֔ים]] [[H9001\|וַ]][[H2414\|חֲטַפְתֶּ֥ם]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H0376I\|אִ֥ישׁ]] [[H0802H\|אִשְׁתּ֖]][[H9023\|וֹ]] [[H9006\|מִ]][[H1323G\|בְּנ֣וֹת]] [[H7887\|שִׁיל֑וֹ]] [[H9001\|וַ]][[H1980G\|הֲלַכְתֶּ֖ם]] [[H0776G\|אֶ֥רֶץ]] [[H1144G\|בִּנְיָמִֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DANCING|DANCING]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic GRAPE|GRAPE]] • [[topic KIDNAPPING|KIDNAPPING]] • [[topic MARRIAGE|MARRIAGE]] • [[topic RASHNESS|RASHNESS]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.20|<< Judges 21:20]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.22|Judges 21:22 >>]]</td></tr></table>
 

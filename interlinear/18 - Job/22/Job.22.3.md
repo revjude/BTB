@@ -1,8 +1,57 @@
+---
+title: Job 22:3
+type: Verse
+kjv: "Is it any pleasure to the Almighty, that thou art righteous? or is it gain to him, that thou makest thy ways perfect?"
+bsb: "Does it delight the Almighty that you are righteous? Does He profit if your ways are blameless?"
+hebrew: "הַחֵ֣פֶץ לְ֭שַׁדַּי כִּ֣י תִצְדָּ֑ק וְאִם־ בֶּ֝֗צַע כִּֽי־ תַתֵּ֥ם דְּרָכֶֽיךָ׃"
+pericope: "[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|Eliphaz：Can a Man Be of Use to God？]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 22
+book/chapter: "[[Job.22|Job 22]]"
+chronological_order: 33
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GRACE OF GOD|GRACE OF GOD]]"
+- "[[topic MAN|MAN]]"
+- "[[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]"
+strongs:
+- "[[H9008]]"
+- "[[H2656]]"
+- "[[H9005]]"
+- "[[H7706]]"
+- "[[H3588A]]"
+- "[[H6663]]"
+- "[[H9002]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H1215]]"
+- "[[H8552]]"
+- "[[H1870G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 22:3**<big><big>[[Job.22.1 Eliphaz：Can a Man Be of Use to God？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Is it] any pleasure to the Almighty, that thou art righteous? or [is it] gain [to him], that thou makest thy ways perfect?
 <small><sub>**BSB:**</sub></small>
 Does it delight the Almighty that you are righteous? Does He profit if your ways are blameless?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הַ]][[H2656\|חֵ֣פֶץ]] [[H9005\|לְ֭]][[H7706\|שַׁדַּי]] [[H3588A\|כִּ֣י]] [[H6663\|תִצְדָּ֑ק]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H1215\|בֶּ֝֗צַע]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H8552\|תַתֵּ֥ם]] [[H1870G\|דְּרָכֶֽי]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GRACE OF GOD|GRACE OF GOD]] • [[topic MAN|MAN]] • [[topic SELF-RIGHTEOUSNESS|SELF-RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.22.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.22.2|<< Job 22:2]]</td><td align="center" style="border:none;">[[Job.22|Job 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.22.4|Job 22:4 >>]]</td></tr></table>
 

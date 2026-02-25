@@ -1,8 +1,61 @@
+---
+title: Jonah 4:9
+type: Verse
+kjv: "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death."
+bsb: "Then God asked Jonah, “Have you any right to be angry about the plant?” “I do,” he replied. “I am angry enough to die!”"
+hebrew: "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־ יוֹנָ֔ה הַהֵיטֵ֥ב חָרָֽה־ לְךָ֖ עַל־ הַקִּֽיקָי֑וֹן וַיֹּ֕אמֶר הֵיטֵ֥ב חָֽרָה־ לִ֖י עַד־ מָֽוֶת׃"
+pericope: "[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|Jonah’s Anger at the LORD’s Compassion]]"
+original_language: Hebrew
+testament: Old
+book: Jonah
+chapter: 4
+book/chapter: "[[Jonah.4|Jonah 4]]"
+chronological_order: 597
+era: Divided Kingdom
+period: "The Divided Kingdom: Jonah's Mission"
+date: ~780–760 BC
+book_genre:
+- latter prophets
+- minor prophets
+- narrative
+- prophetic narrative
+- parable
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic GOURD|GOURD]]"
+- "[[topic LIFE|LIFE]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0430G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H3124]]"
+- "[[H9008]]"
+- "[[H3190]]"
+- "[[H2734]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5921A]]"
+- "[[H9009]]"
+- "[[H7021]]"
+- "[[H9030]]"
+- "[[H5704]]"
+- "[[H4194]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jonah 4:9**<big><big>[[Jonah.4.1 Jonah’s Anger at the LORD’s Compassion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, [even] unto death.
 <small><sub>**BSB:**</sub></small>
 Then God asked Jonah, “Have you any right to be angry about the plant?” “I do,” he replied. “I am angry enough to die!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0430G\|אֱלֹהִים֙]] [[H0413\|אֶל]][[H9014\|־]] [[H3124\|יוֹנָ֔ה]] [[H9008\|הַ]][[H3190\|הֵיטֵ֥ב]] [[H2734\|חָרָֽה]][[H9014\|־]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H7021\|קִּֽיקָי֑וֹן]] [[H9001\|וַ]][[H0559\|יֹּ֕אמֶר]] [[H3190\|הֵיטֵ֥ב]] [[H2734\|חָֽרָה]][[H9014\|־]] [[H9005\|לִ֖]][[H9030\|י]] [[H5704\|עַד]][[H9014\|־]] [[H4194\|מָֽוֶת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic GOURD|GOURD]] • [[topic LIFE|LIFE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jonah.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jonah.4.8|<< Jonah 4:8]]</td><td align="center" style="border:none;">[[Jonah.4|Jonah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jonah.4.10|Jonah 4:10 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

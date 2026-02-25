@@ -1,8 +1,59 @@
+---
+title: Numbers 5:9
+type: Verse
+kjv: "And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his."
+bsb: "Every sacred contribution the Israelites bring to the priest shall belong to him."
+hebrew: "וְכָל־ תְּרוּמָ֞ה לְכָל־ קָדְשֵׁ֧י בְנֵי־ יִשְׂרָאֵ֛ל אֲשֶׁר־ יַקְרִ֥יבוּ לַכֹּהֵ֖ן ל֥וֹ יִהְיֶֽה׃"
+pericope: "[[Num.5.5 Confession and Restitution|Confession and Restitution]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 5
+book/chapter: "[[Num.5|Numbers 5]]"
+chronological_order: 164
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H8641]]"
+- "[[H9005]]"
+- "[[H6944G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H0834A]]"
+- "[[H7126H]]"
+- "[[H3548]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 5:9**<big><big>[[Num.5.5 Confession and Restitution|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.
 <small><sub>**BSB:**</sub></small>
 Every sacred contribution the Israelites bring to the priest shall belong to him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H8641\|תְּרוּמָ֞ה]] [[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H6944G\|קָדְשֵׁ֧י]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֛ל]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7126H\|יַקְרִ֥יבוּ]] [[H9005\|לַ]][[H3548\|כֹּהֵ֖ן]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H1961\|יִהְיֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.5.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.5.8|<< Numbers 5:8]]</td><td align="center" style="border:none;">[[Num.5|Numbers 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.5.10|Numbers 5:10 >>]]</td></tr></table>
 

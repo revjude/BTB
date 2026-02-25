@@ -1,8 +1,69 @@
+---
+title: Ezekiel 24:3
+type: Verse
+kjv: "And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord GOD; Set on a pot, set it on, and also pour water into it:"
+bsb: "Now speak a parable to this rebellious house and tell them that this is what the Lord GOD says: ‘Put the pot on the fire; put it on and pour in the water."
+hebrew: "וּמְשֹׁ֤ל אֶל־ בֵּית־ הַמֶּ֙רִי֙ מָשָׁ֔ל וְאָמַרְתָּ֣ אֲלֵיהֶ֔ם כֹּ֥ה אָמַ֖ר אֲדֹנָ֣י יְהוִ֑ה שְׁפֹ֤ת הַסִּיר֙ שְׁפֹ֔ת וְגַם־ יְצֹ֥ק בּ֖וֹ מָֽיִם׃"
+pericope: "[[Ezek.24.1 The Parable of the Cooking Pot|The Parable of the Cooking Pot]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 24
+book/chapter: "[[Ezek.24|Ezekiel 24]]"
+chronological_order: 815
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic BOILING POT|BOILING POT]]"
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PARABLES|PARABLES]]"
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9002]]"
+- "[[H4911B]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H9009]]"
+- "[[H4805H]]"
+- "[[H4912]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9038]]"
+- "[[H3541]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H8239]]"
+- "[[H5518A]]"
+- "[[H1571]]"
+- "[[H3332G]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H4325G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 24:3**<big><big>[[Ezek.24.1 The Parable of the Cooking Pot|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And utter a parable unto the rebellious house, and say unto them, Thus saith the Lord GOD; Set on a pot, set [it] on, and also pour water into it:
 <small><sub>**BSB:**</sub></small>
 Now speak a parable to this rebellious house and tell them that this is what the Lord GOD says: ‘Put the pot on the fire; put it on and pour in the water.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H4911B\|מְשֹׁ֤ל]] [[H0413\|אֶל]][[H9014\|־]] [[H1004M\|בֵּית]][[H9014\|־]] [[H9009\|הַ]][[H4805H\|מֶּ֙רִי֙]] [[H4912\|מָשָׁ֔ל]] [[H9001\|וְ]][[H0559\|אָמַרְתָּ֣]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H3541\|כֹּ֥ה]] [[H0559\|אָמַ֖ר]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהוִ֑ה]] [[H8239\|שְׁפֹ֤ת]] [[H9009\|הַ]][[H5518A\|סִּיר֙]] [[H8239\|שְׁפֹ֔ת]] [[H9002\|וְ]][[H1571\|גַם]][[H9014\|־]] [[H3332G\|יְצֹ֥ק]] [[H9003\|בּ֖]][[H9033\|וֹ]] [[H4325G\|מָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOILING POT|BOILING POT]] • [[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic PARABLES|PARABLES]] • [[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.24.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.24.2|<< Ezekiel 24:2]]</td><td align="center" style="border:none;">[[Ezek.24|Ezekiel 24]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.24.4|Ezekiel 24:4 >>]]</td></tr></table>
 

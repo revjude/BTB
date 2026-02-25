@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 19:19
+type: Verse
+kjv: "And said unto the king, Let not my lord impute iniquity unto me, neither do thou remember that which thy servant did perversely the day that my lord the king went out of Jerusalem, that the king should take it to his heart."
+bsb: "and said, “My lord, do not hold me guilty, and do not remember your servant’s wrongdoing on the day my lord the king left Jerusalem. May the king not take it to heart."
+hebrew: "וַיֹּ֣אמֶר אֶל־ הַמֶּ֗לֶךְ אַל־ יַחֲשָׁב־ לִ֣י אֲדֹנִי֮ עָוֹן֒ וְאַל־ תִּזְכֹּ֗ר אֵ֚ת אֲשֶׁ֣ר הֶעֱוָ֣ה עַבְדְּךָ֔ בַּיּ֕וֹם אֲשֶׁר־ יָׄצָ֥ׄאׄ אֲדֹנִֽי־ הַמֶּ֖לֶךְ מִירֽוּשָׁלִָ֑ם לָשׂ֥וּם הַמֶּ֖לֶךְ אֶל־ לִבּֽוֹ׃"
+pericope: "[[2Sam.19.16 Shimei Pardoned|Shimei Pardoned]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 19
+book/chapter: "[[2Sam.19|2 Samuel 19]]"
+chronological_order: 418
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AMNESTY|AMNESTY]]"
+- "[[topic CLEMENCY|CLEMENCY]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic TREASON|TREASON]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0408]]"
+- "[[H2803H]]"
+- "[[H9005]]"
+- "[[H9030]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H5771H]]"
+- "[[H9002]]"
+- "[[H2142]]"
+- "[[H0853]]"
+- "[[H0834A]]"
+- "[[H5753B]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H3318G]]"
+- "[[H9006]]"
+- "[[H3389]]"
+- "[[H7760K]]"
+- "[[H3820A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 19:19**<big><big>[[2Sam.19.16 Shimei Pardoned|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said unto the king, Let not my lord impute iniquity unto me, neither do thou remember that which thy servant did perversely the day that my lord the king went out of Jerusalem, that the king should take it to his heart.
 <small><sub>**BSB:**</sub></small>
 and said, “My lord, do not hold me guilty, and do not remember your servant’s wrongdoing on the day my lord the king left Jerusalem. May the king not take it to heart.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֣אמֶר]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H0408\|אַל]][[H9014\|־]] [[H2803H\|יַחֲשָׁב]][[H9014\|־]] [[H9005\|לִ֣]][[H9030\|י]] [[H0113\|אֲדֹנִ]][[H9020\|י֮]] [[H5771H\|עָוֹן֒]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2142\|תִּזְכֹּ֗ר]] [[H0853\|אֵ֚ת]] [[H0834A\|אֲשֶׁ֣ר]] [[H5753B\|הֶעֱוָ֣ה]] [[H5650\|עַבְדְּ]][[H9021\|ךָ֔]] [[H9003\|בַּ]][[H3117G\|יּ֕וֹם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318G\|יָׄצָ֥ׄאׄ]] [[H0113\|אֲדֹנִֽ]][[H9020\|י]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9006\|מִ]][[H3389\|ירֽוּשָׁלִָ֑ם]] [[H9005\|לָ]][[H7760K\|שׂ֥וּם]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H0413\|אֶל]][[H9014\|־]] [[H3820A\|לִבּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AMNESTY|AMNESTY]] • [[topic CLEMENCY|CLEMENCY]] • [[topic DAVID|DAVID]] • [[topic TREASON|TREASON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.19.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.19.18|<< 2 Samuel 19:18]]</td><td align="center" style="border:none;">[[2Sam.19|2 Samuel 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.19.20|2 Samuel 19:20 >>]]</td></tr></table>
 

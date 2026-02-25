@@ -1,8 +1,61 @@
+---
+title: Judges 15:17
+type: Verse
+kjv: "And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand, and called that place Ramathlehi."
+bsb: "And when Samson had finished speaking, he cast the jawbone from his hand; and he named that place Ramath-lehi."
+hebrew: "וַֽיְהִי֙ כְּכַלֹּת֣וֹ לְדַבֵּ֔ר וַיַּשְׁלֵ֥ךְ הַלְּחִ֖י מִיָּד֑וֹ וַיִּקְרָ֛א לַמָּק֥וֹם הַה֖וּא רָ֥מַת לֶֽחִי׃"
+pericope: "[[Judg.15.1 Samson’s Revenge|Samson’s Revenge]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 15
+book/chapter: "[[Judg.15|Judges 15]]"
+chronological_order: 269
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic LEHI|LEHI]]"
+- "[[topic RAMATH-LEHI|RAMATH-LEHI]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H3615G]]"
+- "[[H9043]]"
+- "[[H9005]]"
+- "[[H1696G]]"
+- "[[H7993]]"
+- "[[H9009]]"
+- "[[H3895H]]"
+- "[[H9006]]"
+- "[[H3027G]]"
+- "[[H9023]]"
+- "[[H7121H]]"
+- "[[H4725]]"
+- "[[H1931]]"
+- "[[H7437]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 15:17**<big><big>[[Judg.15.1 Samson’s Revenge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand, and called that place Ramathlehi.
 <small><sub>**BSB:**</sub></small>
 And when Samson had finished speaking, he cast the jawbone from his hand; and he named that place Ramath-lehi.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1961\|יְהִי֙]] [[H9004\|כְּ]][[H3615G\|כַלֹּת֣]][[H9043\|וֹ]] [[H9005\|לְ]][[H1696G\|דַבֵּ֔ר]] [[H9001\|וַ]][[H7993\|יַּשְׁלֵ֥ךְ]] [[H9009\|הַ]][[H3895H\|לְּחִ֖י]] [[H9006\|מִ]][[H3027G\|יָּד֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H7121H\|יִּקְרָ֛א]] [[H9005\|לַ]][[H4725\|מָּק֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H7437\|רָ֥מַת]] [[H7437\|לֶֽחִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic LEHI|LEHI]] • [[topic RAMATH-LEHI|RAMATH-LEHI]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.15.16|<< Judges 15:16]]</td><td align="center" style="border:none;">[[Judg.15|Judges 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.15.18|Judges 15:18 >>]]</td></tr></table>
 

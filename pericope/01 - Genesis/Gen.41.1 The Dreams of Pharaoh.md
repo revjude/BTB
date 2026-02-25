@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Dreams of Pharaoh
+type: Pericope
 pericope: "[[Gen.41.1 The Dreams of Pharaoh|The Dreams of Pharaoh]]"
-verse_count: 13
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 41
 book/chapter: "[[Gen.41|Genesis 41]]"
-genre:
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 13
 verses:
 - "[[Gen.41.1]]"
 - "[[Gen.41.2]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Gen.41.13]]"
 ---
 
-[[Gen.41|Genesis 41:1 - Genesis 41:13]]
+<small>[[Gen.41|Genesis 41:1-13]]</small>
 *The Dreams of Pharaoh*
 
 [[Gen.41.1|1]] And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.

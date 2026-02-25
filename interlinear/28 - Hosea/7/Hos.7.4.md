@@ -1,8 +1,66 @@
+---
+title: Hosea 7:4
+type: Verse
+kjv: "They are all adulterers, as an oven heated by the baker, who ceaseth from raising after he hath kneaded the dough, until it be leavened."
+bsb: "They are all adulterers, like an oven heated by a baker who needs not stoke the fire from the kneading to the rising of the dough."
+hebrew: "כֻּלָּם֙ מְנָ֣אֲפִ֔ים כְּמ֣וֹ תַנּ֔וּר בֹּעֵ֖רָה מֵֽאֹפֶ֑ה יִשְׁבּ֣וֹת מֵעִ֔יר מִלּ֥וּשׁ בָּצֵ֖ק עַד־ חֻמְצָתֽוֹ׃"
+pericope: "[[Hos.7.1 Ephraim’s Iniquity|Ephraim’s Iniquity]]"
+original_language: Hebrew
+testament: Old
+book: Hosea
+chapter: 7
+book/chapter: "[[Hos.7|Hosea 7]]"
+chronological_order: 648
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic BAKER|BAKER]]"
+- "[[topic BREAD|BREAD]]"
+- "[[topic DOUGH|DOUGH]]"
+- "[[topic FURNACE|FURNACE]]"
+- "[[topic GODLESSNESS|GODLESSNESS]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic OVEN|OVEN]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H5003]]"
+- "[[H3644G]]"
+- "[[H8574H]]"
+- "[[H1197A]]"
+- "[[H9006]]"
+- "[[H0644]]"
+- "[[H7673A]]"
+- "[[H5782]]"
+- "[[H3888]]"
+- "[[H1217]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H2556A]]"
+- "[[H9043]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Hosea 7:4**<big><big>[[Hos.7.1 Ephraim’s Iniquity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They [are] all adulterers, as an oven heated by the baker, [who] ceaseth from raising after he hath kneaded the dough, until it be leavened.
 <small><sub>**BSB:**</sub></small>
 They are all adulterers, like an oven heated by a baker who needs not stoke the fire from the kneading to the rising of the dough.
+<small><sub>**Hebrew:**</sub></small>
+[[H3605\|כֻּלָּ]][[H9028\|ם֙]] [[H5003\|מְנָ֣אֲפִ֔ים]] [[H3644G\|כְּמ֣וֹ]] [[H8574H\|תַנּ֔וּר]] [[H1197A\|בֹּעֵ֖רָה]] [[H9006\|מֵֽ]][[H0644\|אֹפֶ֑ה]] [[H7673A\|יִשְׁבּ֣וֹת]] [[H5782\|מֵעִ֔יר]] [[H9006\|מִ]][[H3888\|לּ֥וּשׁ]] [[H1217\|בָּצֵ֖ק]] [[H5704\|עַד]][[H9014\|־]] [[H2556A\|חֻמְצָתֽ]][[H9043\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic BAKER|BAKER]] • [[topic BREAD|BREAD]] • [[topic DOUGH|DOUGH]] • [[topic FURNACE|FURNACE]] • [[topic GODLESSNESS|GODLESSNESS]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic OVEN|OVEN]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Hos.7.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Hos.7.3|<< Hosea 7:3]]</td><td align="center" style="border:none;">[[Hos.7|Hosea 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Hos.7.5|Hosea 7:5 >>]]</td></tr></table>
 

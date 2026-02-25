@@ -1,8 +1,59 @@
+---
+title: Ezekiel 36:8
+type: Verse
+kjv: "But ye, O mountains of Israel, ye shall shoot forth your branches, and yield your fruit to my people of Israel; for they are at hand to come."
+bsb: "But you, O mountains of Israel, will produce branches and bear fruit for My people Israel, for they will soon come home."
+hebrew: "וְאַתֶּ֞ם הָרֵ֤י יִשְׂרָאֵל֙ עַנְפְּכֶ֣ם תִּתֵּ֔נוּ וּפֶרְיְכֶ֥ם תִּשְׂא֖וּ לְעַמִּ֣י יִשְׂרָאֵ֑ל כִּ֥י קֵרְב֖וּ לָבֽוֹא׃"
+pericope: "[[Ezek.36.1 A Prophecy to the Mountains of Israel|A Prophecy to the Mountains of Israel]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 36
+book/chapter: "[[Ezek.36|Ezekiel 36]]"
+chronological_order: 827
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859D]]"
+- "[[H2022G]]"
+- "[[H3478]]"
+- "[[H6057]]"
+- "[[H9026]]"
+- "[[H5414G]]"
+- "[[H6529]]"
+- "[[H5375H]]"
+- "[[H9005]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3588A]]"
+- "[[H7126G]]"
+- "[[H0935G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 36:8**<big><big>[[Ezek.36.1 A Prophecy to the Mountains of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But ye, O mountains of Israel, ye shall shoot forth your branches, and yield your fruit to my people of Israel; for they are at hand to come.
 <small><sub>**BSB:**</sub></small>
 But you, O mountains of Israel, will produce branches and bear fruit for My people Israel, for they will soon come home.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859D\|אַתֶּ֞ם]] [[H2022G\|הָרֵ֤י]] [[H3478\|יִשְׂרָאֵל֙]] [[H6057\|עַנְפְּ]][[H9026\|כֶ֣ם]] [[H5414G\|תִּתֵּ֔נוּ]] [[H9002\|וּ]][[H6529\|פֶרְיְ]][[H9026\|כֶ֥ם]] [[H5375H\|תִּשְׂא֖וּ]] [[H9005\|לְ]][[H5971A\|עַמִּ֣]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H3588A\|כִּ֥י]] [[H7126G\|קֵרְב֖וּ]] [[H9005\|לָ]][[H0935G\|בֽוֹא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.36.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.36.7|<< Ezekiel 36:7]]</td><td align="center" style="border:none;">[[Ezek.36|Ezekiel 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.36.9|Ezekiel 36:9 >>]]</td></tr></table>
 

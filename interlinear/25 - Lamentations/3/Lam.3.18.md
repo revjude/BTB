@@ -1,8 +1,53 @@
+---
+title: Lamentations 3:18
+type: Verse
+kjv: "And I said, My strength and my hope is perished from the LORD:"
+bsb: "So I say, “My strength has perished, along with my hope from the LORD.”"
+hebrew: "וָאֹמַר֙ אָבַ֣ד נִצְחִ֔י וְתוֹחַלְתִּ֖י מֵיְהוָֽה׃ ס"
+pericope: "[[Lam.3.1 The Prophet’s Afflictions|The Prophet’s Afflictions]]"
+original_language: Hebrew
+testament: Old
+book: Lamentations
+chapter: 3
+book/chapter: "[[Lam.3|Lamentations 3]]"
+chronological_order: 778
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586 BC
+book_genre:
+- poetry
+- lament
+- acrostic
+- megillot
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DESPONDENCY|DESPONDENCY]]"
+- "[[topic DOUBTING|DOUBTING]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0006]]"
+- "[[H5331]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H8431]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Lamentations 3:18**<big><big>[[Lam.3.1 The Prophet’s Afflictions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said, My strength and my hope is perished from the LORD:
 <small><sub>**BSB:**</sub></small>
 So I say, “My strength has perished, along with my hope from the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַר֙]] [[H0006\|אָבַ֣ד]] [[H5331\|נִצְחִ֔]][[H9020\|י]] [[H9002\|וְ]][[H8431\|תוֹחַלְתִּ֖]][[H9020\|י]] [[H9006\|מֵ]][[H3068G\|יְהוָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DESPONDENCY|DESPONDENCY]] • [[topic DOUBTING|DOUBTING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lam.3.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.17|<< Lamentations 3:17]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.19|Lamentations 3:19 >>]]</td></tr></table>
 
@@ -12,7 +57,7 @@ So I say, “My strength has perished, along with my hope from the LORD.”
 | it has perished  |**<big>&#8207;[[H0006\|אָבַ֣ד]]&#8207; </big>**| 'a.Vad<small><sup>[[HVqp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | endurance my  |**<big>&#8207;[[H5331\|נִצְחִ֔]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| nitz.Ch<small><sup>[[HNcmsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and hope my  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H8431\|תוֹחַלְתִּ֖]]&#8207;&#8207;[[H9020\|י]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> to.chal.T<small><sup>[[HNcfsc]]</sup></small> i<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| from Yahweh  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| from Yahweh  |**<big>&#8207;[[H9006\|מֵ]]&#8207;&#8207;[[H3068G\|יְהוָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| me.<small><sup>[[HR]]</sup></small> Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lam.3.17|<< Lamentations 3:17]]</td><td align="center" style="border:none;">[[Lam.3|Lamentations 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lam.3.19|Lamentations 3:19 >>]]</td></tr></table>
 
 

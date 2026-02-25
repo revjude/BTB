@@ -1,8 +1,63 @@
+---
+title: Genesis 37:17
+type: Verse
+kjv: "And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan."
+bsb: "“They have moved on from here,” the man answered. “I heard them say, ‘Let us go to Dothan.’” So Joseph set out after his brothers and found them at Dothan."
+hebrew: "וַיֹּ֤אמֶר הָאִישׁ֙ נָסְע֣וּ מִזֶּ֔ה כִּ֤י שָׁמַ֙עְתִּי֙ אֹֽמְרִ֔ים נֵלְכָ֖ה דֹּתָ֑יְנָה וַיֵּ֤לֶךְ יוֹסֵף֙ אַחַ֣ר אֶחָ֔יו וַיִּמְצָאֵ֖ם בְּדֹתָֽן׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DOTHAN|DOTHAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H5265]]"
+- "[[H9006]]"
+- "[[H2088]]"
+- "[[H3588A]]"
+- "[[H8085G]]"
+- "[[H1980N]]"
+- "[[H1886]]"
+- "[[H9011]]"
+- "[[H3130G]]"
+- "[[H0310A]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H4672]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:17**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan.
 <small><sub>**BSB:**</sub></small>
 “They have moved on from here,” the man answered. “I heard them say, ‘Let us go to Dothan.’” So Joseph set out after his brothers and found them at Dothan.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9009\|הָ]][[H0376G\|אִישׁ֙]] [[H5265\|נָסְע֣וּ]] [[H9006\|מִ]][[H2088\|זֶּ֔ה]] [[H3588A\|כִּ֤י]] [[H8085G\|שָׁמַ֙עְתִּי֙]] [[H0559\|אֹֽמְרִ֔ים]] [[H1980N\|נֵלְכָ֖ה]] [[H1886\|דֹּתָ֑יְנָ]][[H9011\|ה]] [[H9001\|וַ]][[H1980N\|יֵּ֤לֶךְ]] [[H3130G\|יוֹסֵף֙]] [[H0310A\|אַחַ֣ר]] [[H0251G\|אֶחָ֔י]][[H9023\|ו]] [[H9001\|וַ]][[H4672\|יִּמְצָאֵ֖]][[H9038\|ם]] [[H9003\|בְּ]][[H1886\|דֹתָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOTHAN|DOTHAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.16|<< Genesis 37:16]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.18|Genesis 37:18 >>]]</td></tr></table>
 

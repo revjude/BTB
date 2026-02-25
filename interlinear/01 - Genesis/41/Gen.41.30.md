@@ -1,8 +1,69 @@
+---
+title: Genesis 41:30
+type: Verse
+kjv: "And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;"
+bsb: "but seven years of famine will follow them. Then all the abundance in the land of Egypt will be forgotten, and the famine will devastate the land."
+hebrew: "וְ֠קָמוּ שֶׁ֜בַע שְׁנֵ֤י רָעָב֙ אַחֲרֵיהֶ֔ן וְנִשְׁכַּ֥ח כָּל־ הַשָּׂבָ֖ע בְּאֶ֣רֶץ מִצְרָ֑יִם וְכִלָּ֥ה הָרָעָ֖ב אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|Joseph Interprets Pharaoh’s Dreams]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 41
+book/chapter: "[[Gen.41|Genesis 41]]"
+chronological_order: 83
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DREAM|DREAM]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic KINE (BOVINE)|KINE (BOVINE)]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic PROMOTION|PROMOTION]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic SEVEN|SEVEN]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H7651]]"
+- "[[H8141]]"
+- "[[H7458]]"
+- "[[H0310A]]"
+- "[[H9039]]"
+- "[[H7911]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H7647]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H3615H]]"
+- "[[H0853]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 41:30**<big><big>[[Gen.41.14 Joseph Interprets Pharaoh’s Dreams|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there shall arise after them seven years of famine; and all the plenty shall be forgotten in the land of Egypt; and the famine shall consume the land;
 <small><sub>**BSB:**</sub></small>
 but seven years of famine will follow them. Then all the abundance in the land of Egypt will be forgotten, and the famine will devastate the land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ֠]][[H6965B\|קָמוּ]] [[H7651\|שֶׁ֜בַע]] [[H8141\|שְׁנֵ֤י]] [[H7458\|רָעָב֙]] [[H0310A\|אַחֲרֵי]][[H9039\|הֶ֔ן]] [[H9001\|וְ]][[H7911\|נִשְׁכַּ֥ח]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H7647\|שָּׂבָ֖ע]] [[H9003\|בְּ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9001\|וְ]][[H3615H\|כִלָּ֥ה]] [[H9009\|הָ]][[H7458\|רָעָ֖ב]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DREAM|DREAM]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JOSEPH|JOSEPH]] • [[topic KINE (BOVINE)|KINE (BOVINE)]] • [[topic PRISONERS|PRISONERS]] • [[topic PROMOTION|PROMOTION]] • [[topic SERVANT|SERVANT]] • [[topic SEVEN|SEVEN]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.41.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.41.29|<< Genesis 41:29]]</td><td align="center" style="border:none;">[[Gen.41|Genesis 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.41.31|Genesis 41:31 >>]]</td></tr></table>
 

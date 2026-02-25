@@ -1,8 +1,56 @@
+---
+title: Isaiah 8:13
+type: Verse
+kjv: "Sanctify the LORD of hosts himself; and let him be your fear, and let him be your dread."
+bsb: "The LORD of Hosts is the One you shall regard as holy. Only He should be feared; only He should be dreaded."
+hebrew: "אֶת־ יְהוָ֥ה צְבָא֖וֹת אֹת֣וֹ תַקְדִּ֑ישׁוּ וְה֥וּא מוֹרַאֲכֶ֖ם וְה֥וּא מַֽעֲרִֽצְכֶֽם׃"
+pericope: "[[Isa.8.11 A Call to Fear God|A Call to Fear God]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 8
+book/chapter: "[[Isa.8|Isaiah 8]]"
+chronological_order: 618
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H6635B]]"
+- "[[H9033]]"
+- "[[H6942G]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H4172A]]"
+- "[[H9026]]"
+- "[[H6206]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 8:13**<big><big>[[Isa.8.11 A Call to Fear God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sanctify the LORD of hosts himself; and [let] him [be] your fear, and [let] him [be] your dread.
 <small><sub>**BSB:**</sub></small>
 The LORD of Hosts is the One you shall regard as holy. Only He should be feared; only He should be dreaded.
+<small><sub>**Hebrew:**</sub></small>
+[[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H6635B\|צְבָא֖וֹת]] [[H0853\|אֹת֣]][[H9033\|וֹ]] [[H6942G\|תַקְדִּ֑ישׁוּ]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H4172A\|מוֹרַאֲ]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H1931\|ה֥וּא]] [[H6206\|מַֽעֲרִֽצְ]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.8.12|<< Isaiah 8:12]]</td><td align="center" style="border:none;">[[Isa.8|Isaiah 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.8.14|Isaiah 8:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

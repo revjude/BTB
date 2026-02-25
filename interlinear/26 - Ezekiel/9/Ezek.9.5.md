@@ -1,8 +1,65 @@
+---
+title: Ezekiel 9:5
+type: Verse
+kjv: "And to the others he said in mine hearing, Go ye after him through the city, and smite: let not your eye spare, neither have ye pity:"
+bsb: "And as I listened, He said to the others, “Follow him through the city and start killing; do not show pity or spare anyone!"
+hebrew: "וּלְאֵ֙לֶּה֙ אָמַ֣ר בְּאָזְנַ֔י עִבְר֥וּ בָעִ֛יר אַחֲרָ֖יו וְהַכּ֑וּ אַל תָּחֹ֥ס עֵינְכֶ֖ם וְאַל־ תַּחְמֹֽלוּ׃"
+pericope: "[[Ezek.9.1 Execution of the Idolaters|Execution of the Idolaters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 9
+book/chapter: "[[Ezek.9|Ezekiel 9]]"
+chronological_order: 800
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0428]]"
+- "[[H0559]]"
+- "[[H9003]]"
+- "[[H0241H]]"
+- "[[H9020]]"
+- "[[H5674A]]"
+- "[[H5892B]]"
+- "[[H0310A]]"
+- "[[H9033]]"
+- "[[H5221]]"
+- "[[H5921A]]"
+- "[[H0408]]"
+- "[[H2347]]"
+- "[[H5869A]]"
+- "[[H9026]]"
+- "[[H9014]]"
+- "[[H2550]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **Ezekiel 9:5**<big><big>[[Ezek.9.1 Execution of the Idolaters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to the others he said in mine hearing, Go ye after him through the city, and smite: let not your eye spare, neither have ye pity:
 <small><sub>**BSB:**</sub></small>
 And as I listened, He said to the others, “Follow him through the city and start killing; do not show pity or spare anyone!
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H0428\|אֵ֙לֶּה֙]] [[H0559\|אָמַ֣ר]] [[H9003\|בְּ]][[H0241H\|אָזְנַ֔]][[H9020\|י]] [[H5674A\|עִבְר֥וּ]] [[H9003\|בָ]][[H5892B\|עִ֛יר]] [[H0310A\|אַחֲרָ֖י]][[H9033\|ו]] [[H9002\|וְ]][[H5221\|הַכּ֑וּ]] [[H0408\|אַל]] [[H2347\|תָּחֹ֥ס]] [[H5869A\|עֵינְ]][[H9026\|כֶ֖ם]] [[H9002\|וְ]][[H0408\|אַל]][[H9014\|־]] [[H2550\|תַּחְמֹֽלוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JUDGMENT|JUDGMENT]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.9.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.9.4|<< Ezekiel 9:4]]</td><td align="center" style="border:none;">[[Ezek.9|Ezekiel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.9.6|Ezekiel 9:6 >>]]</td></tr></table>
 
@@ -24,7 +81,7 @@ And as I listened, He said to the others, “Follow him through the city and sta
 
 [^1]: on  | **<big>[[H5921A|עַל]]</big> ** | al-<small><sup>[[HR]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>עַל\־</big></span>**
-[^3]: eyes your  | **<big>[[H9026|כֶם]]</big><big>[[H5869A|עֵינֵי]]</big> ** | ei.nei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
-[^4]: eyes your  | **<big>[[H9026|כֶם]]</big><big>[[H5869A|עֵינֵי]]</big> ** | ei.nei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^3]: eyes your  | **<big>[[H5869A|עֵינֵי]]</big><big>[[H9026|כֶם]]</big> ** | ei.nei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
+[^4]: eyes your  | **<big>[[H5869A|עֵינֵי]]</big><big>[[H9026|כֶם]]</big> ** | ei.nei.<small><sup>[[HNcfpc]]</sup></small> khem<small><sup>[[HSp2mp]]</sup></small> | K
 [^5]: L spelled: **<span class="ashebrew"><big>עֵינְיכֶ֖ם</big></span>**
 

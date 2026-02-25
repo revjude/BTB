@@ -1,8 +1,71 @@
+---
+title: Numbers 9:7
+type: Verse
+kjv: "And those men said unto him, We are defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel?"
+bsb: "and said to Moses, “We are unclean because of a dead body, but why should we be excluded from presenting the LORD’s offering with the other Israelites at the appointed time?”"
+hebrew: "וַ֠יֹּאמְרוּ הָאֲנָשִׁ֤ים הָהֵ֙מָּה֙ אֵלָ֔יו אֲנַ֥חְנוּ טְמֵאִ֖ים לְנֶ֣פֶשׁ אָדָ֑ם לָ֣מָּה נִגָּרַ֗ע לְבִלְתִּ֨י הַקְרִ֜ב אֶת־ קָרְבַּ֤ן יְהוָה֙ בְּמֹ֣עֲד֔וֹ בְּת֖וֹךְ בְּנֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[Num.9.1 The Second Passover|The Second Passover]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic PASSOVER|PASSOVER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0582]]"
+- "[[H1992]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H0587]]"
+- "[[H2931]]"
+- "[[H9005]]"
+- "[[H5315M]]"
+- "[[H0120G]]"
+- "[[H4100]]"
+- "[[H1639]]"
+- "[[H1115]]"
+- "[[H7126H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7133A]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H4150G]]"
+- "[[H9023]]"
+- "[[H8432]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 9:7**<big><big>[[Num.9.1 The Second Passover|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those men said unto him, We [are] defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel?
 <small><sub>**BSB:**</sub></small>
 and said to Moses, “We are unclean because of a dead body, but why should we be excluded from presenting the LORD’s offering with the other Israelites at the appointed time?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H0559\|יֹּאמְרוּ]] [[H9009\|הָ]][[H0582\|אֲנָשִׁ֤ים]] [[H9009\|הָ]][[H1992\|הֵ֙מָּה֙]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H0587\|אֲנַ֥חְנוּ]] [[H2931\|טְמֵאִ֖ים]] [[H9005\|לְ]][[H5315M\|נֶ֣פֶשׁ]] [[H0120G\|אָדָ֑ם]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H1639\|נִגָּרַ֗ע]] [[H9005\|לְ]][[H1115\|בִלְתִּ֨י]] [[H7126H\|הַקְרִ֜ב]] [[H0853\|אֶת]][[H9014\|־]] [[H7133A\|קָרְבַּ֤ן]] [[H3068G\|יְהוָה֙]] [[H9003\|בְּ]][[H4150G\|מֹ֣עֲד֔]][[H9023\|וֹ]] [[H9003\|בְּ]][[H8432\|ת֖וֹךְ]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PASSOVER|PASSOVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.9.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.9.6|<< Numbers 9:6]]</td><td align="center" style="border:none;">[[Num.9|Numbers 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.9.8|Numbers 9:8 >>]]</td></tr></table>
 

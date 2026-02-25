@@ -1,8 +1,60 @@
+---
+title: Psalm 96:4
+type: Verse
+kjv: "For the LORD is great, and greatly to be praised: he is to be feared above all gods."
+bsb: "For great is the LORD, and greatly to be praised; He is to be feared above all gods."
+hebrew: "כִּ֥י גָ֘ד֤וֹל יְהוָ֣ה וּמְהֻלָּ֣ל מְאֹ֑ד נוֹרָ֥א ה֝֗וּא עַל־ כָּל־ אֱלֹהִֽים׃"
+pericope: "[[Ps.96.1 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 96
+book/chapter: "[[Ps.96|Psalm 96]]"
+chronological_order: 523
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic REVERENCE|REVERENCE]]"
+strongs:
+- "[[H3588A]]"
+- "[[H1419A]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H1984B]]"
+- "[[H3966]]"
+- "[[H3372H]]"
+- "[[H1931]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H0430]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 96:4**<big><big>[[Ps.96.1 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For the LORD [is] great, and greatly to be praised: he [is] to be feared above all gods.
 <small><sub>**BSB:**</sub></small>
 For great is the LORD, and greatly to be praised; He is to be feared above all gods.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֥י]] [[H1419A\|גָ֘ד֤וֹל]] [[H3068G\|יְהוָ֣ה]] [[H9002\|וּ]][[H1984B\|מְהֻלָּ֣ל]] [[H3966\|מְאֹ֑ד]] [[H3372H\|נוֹרָ֥א]] [[H1931\|ה֝֗וּא]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0430\|אֱלֹהִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic REVERENCE|REVERENCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.96.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.3|<< Psalms 96:3]]</td><td align="center" style="border:none;">[[Ps.96|Psalms 96]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.5|Psalms 96:5 >>]]</td></tr></table>
 

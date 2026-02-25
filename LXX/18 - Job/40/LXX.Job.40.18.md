@@ -1,6 +1,47 @@
+---
+title: LXX Job 40:18
+type: Verse
+lxx: "His sides are sides of brass;  and his spine is as cast iron."
+greek: "αι πλευραί αυτού πλευραί χάλκειαι η δε ράχις αυτού σίδηρος χυτός"
+original_language: Greek
+testament: Old
+book: Job
+chapter: 40
+book/chapter: "[[Job.40|Job 40]]"
+chronological_order: 51
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- septuagint
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[G3588]]"
+- "[[G4125]]"
+- "[[G1473]]"
+- "[[G4125]]"
+- "[[G5470]]"
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G9018]]"
+- "[[G1473]]"
+- "[[G4604]]"
+- "[[G9765]]"
+---
+
 **LXX Job 40:18** 
 <small><sub>**LXX:**</sub></small>
  His sides \[are\] sides of brass;  and his spine \[is as\] cast iron. 
+<small><sub>**Greek:**</sub></small>
+[[G3588\|αι]] [[G4125\|πλευραί]] [[G1473\|αυτού]] [[G4125\|πλευραί]] [[G5470\|χάλκειαι]] [[G3588\|η]] [[G1161\|δε]] [[G9018\|ράχις]] [[G1473\|αυτού]] [[G4604\|σίδηρος]] [[G9765\|χυτός]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**MT:**</sub></small>
 [[Job.40.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.17|<< Job 40:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.19|Job 40:19 >>]]</td></tr></table>
 
@@ -15,6 +56,6 @@
 | his spine | **<big>[[G9018\|ράχις]]</big>** **<big>[[G1473\|αυτού]]</big>** |
 | iron | **<big>[[G4604\|σίδηρος]]</big>** |
 | \[is as\] cast | **<big>[[G9765\|χυτός]]</big>** |
-[[Job.40.18|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.17|<< Job 40:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.19|Job 40:19 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Job.40.17|<< Job 40:17]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Job.40.19|Job 40:19 >>]]</td></tr></table>
 
 

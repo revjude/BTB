@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God’s Case against His People
+type: Pericope
 pericope: "[[Hos.4.1 God’s Case against His People|God’s Case against His People]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Hosea
 chapter: 4
 book/chapter: "[[Hos.4|Hosea 4]]"
-genre:
+chronological_order: 645
+era: Exile
+period: "Judah Alone: Hosea's Prophecy to Israel"
+date: ~750–715 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
+verse_count: 19
 verses:
 - "[[Hos.4.1]]"
 - "[[Hos.4.2]]"
@@ -37,7 +44,7 @@ verses:
 - "[[Hos.4.19]]"
 ---
 
-[[Hos.4|Hosea 4:1 - Hosea 4:19]]
+<small>[[Hos.4|Hosea 4:1-19]]</small>
 *God’s Case against His People*
 
 [[Hos.4.1|1]] Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because \[there is\] no truth, nor mercy, nor knowledge of God in the land.

@@ -1,10 +1,65 @@
+---
+title: Matthew 16:11
+type: Verse
+kjv: "How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?"
+bsb: "How do you not understand that I was not telling you about bread? But beware of the leaven of the Pharisees and Sadducees.”"
+jesus_said: "How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?"
+greek: "πῶς οὐ νοεῖτε ὅτι οὐ περὶ ἄρτων εἶπον ὑμῖν; προσέχετε δὲ ἀπὸ τῆς ζύμης τῶν Φαρισαίων καὶ Σαδδουκαίων.¶"
+pericope: "[[Matt.16.5 The Leaven of the Pharisees and Sadducees|The Leaven of the Pharisees and Sadducees]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 16
+book/chapter: "[[Matt.16|Matthew 16]]"
+chronological_order: 966
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LEAVEN (YEAST)|LEAVEN (YEAST)]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SADDUCEES|SADDUCEES]]"
+strongs:
+- "[[G4459]]"
+- "[[G3756]]"
+- "[[G3539]]"
+- "[[G3754G]]"
+- "[[G4012]]"
+- "[[G0740]]"
+- "[[G2036]]"
+- "[[G4771]]"
+- "[[G4337]]"
+- "[[G1161]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2219]]"
+- "[[G5330]]"
+- "[[G2532]]"
+- "[[G4523]]"
+texts:
+- NKO
+- N(k)O
+- no
+---
+
 **Matthew 16:11**<big><big>[[Matt.16.5 The Leaven of the Pharisees and Sadducees|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 How is it that ye do not understand that I spake [it] not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?
 <small><sub>**BSB:**</sub></small>
 How do you not understand that I was not telling you about bread? But beware of the leaven of the Pharisees and Sadducees.”
-<small><sub>**Literal:**</sub></small>
-How not understand you that not concerning loaves I spoke to you? do beware also of the leaven of the Pharisees and Sadducees!<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.10|<< Matthew 16:10]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.12|Matthew 16:12 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4459\|πῶς]]  [[G3756\|οὐ]]  [[G3539\|νοεῖτε]]  [[G3754G\|ὅτι]]  [[G3756\|οὐ]]  [[G4012\|περὶ]]  [[G0740\|ἄρτων]]  [[G2036\|εἶπον]]  [[G4771\|ὑμῖν;]]  [[G4337\|προσέχετε]]  [[G1161\|δὲ]]  [[G0575\|ἀπὸ]]  [[G3588\|τῆς]]  [[G2219\|ζύμης]]  [[G3588\|τῶν]]  [[G5330\|Φαρισαίων]]  [[G2532\|καὶ]]  [[G4523\|Σαδδουκαίων.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHIDING|CHIDING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LEAVEN (YEAST)|LEAVEN (YEAST)]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHARISEES|PHARISEES]] • [[topic SADDUCEES|SADDUCEES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.16.10|<< Matthew 16:10]]</td><td align="center" style="border:none;">[[Matt.16|Matthew 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.16.12|Matthew 16:12 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

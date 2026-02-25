@@ -1,10 +1,58 @@
+---
+title: Matthew 15:18
+type: Verse
+kjv: "But those things which proceed out of the mouth come forth from the heart; and they defile the man."
+bsb: "But the things that come out of the mouth come from the heart, and these things defile a man."
+jesus_said: "But those things which proceed out of the mouth come forth from the heart; and they defile the man."
+greek: "τὰ δὲ ἐκπορευόμενα ἐκ τοῦ στόματος ἐκ τῆς καρδίας ἐξέρχεται, κἀκεῖνα κἀκεῖνα κοινοῖ τὸν ἄνθρωπον."
+pericope: "[[Matt.15.10 What Defiles a Man|What Defiles a Man]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 15
+book/chapter: "[[Matt.15|Matthew 15]]"
+chronological_order: 965
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic HEART|HEART]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic SIN|SIN]]"
+- "[[topic TEACHERS|TEACHERS]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G1607]]"
+- "[[G1537]]"
+- "[[G4750]]"
+- "[[G2588]]"
+- "[[G1831]]"
+- "[[G2532]]"
+- "[[G1565]]"
+- "[[G2840]]"
+- "[[G0444]]"
+texts:
+- NKO
+---
+
 **Matthew 15:18**<big><big>[[Matt.15.10 What Defiles a Man|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But those things which proceed out of the mouth come forth from the heart; and they defile the man.
 <small><sub>**BSB:**</sub></small>
 But the things that come out of the mouth come from the heart, and these things defile a man.
-<small><sub>**Literal:**</sub></small>
-Things however going forth out of the mouth out of the heart come forth, and these defile the man.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.17|<< Matthew 15:17]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.19|Matthew 15:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τὰ]]  [[G1161\|δὲ]]  [[G1607\|ἐκπορευόμενα]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G1537\|ἐκ]]  [[G3588\|τῆς]]  [[G2588\|καρδίας]]  [[G1831\|ἐξέρχεται,]]  [[G2532\|κἀκεῖνα]]  <sup><small>[[G1565\| [ • ] ]]</small></sup>  [[G2840\|κοινοῖ]]  [[G3588\|τὸν]]  [[G0444\|ἄνθρωπον.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic HEART|HEART]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic SIN|SIN]] • [[topic TEACHERS|TEACHERS]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.15.17|<< Matthew 15:17]]</td><td align="center" style="border:none;">[[Matt.15|Matthew 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.15.19|Matthew 15:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

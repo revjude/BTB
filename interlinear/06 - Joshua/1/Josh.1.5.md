@@ -1,8 +1,69 @@
+---
+title: Joshua 1:5
+type: Verse
+kjv: "There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, so I will be with thee: I will not fail thee, nor forsake thee."
+bsb: "No one shall stand against you all the days of your life. As I was with Moses, so will I be with you; I will never leave you nor forsake you."
+hebrew: "לֹֽא־ יִתְיַצֵּ֥ב אִישׁ֙ לְפָנֶ֔יךָ כֹּ֖ל יְמֵ֣י חַיֶּ֑יךָ כַּֽאֲשֶׁ֨ר הָיִ֤יתִי עִם־ מֹשֶׁה֙ אֶהְיֶ֣ה עִמָּ֔ךְ לֹ֥א אַרְפְּךָ֖ וְלֹ֥א אֶעֶזְבֶֽךָּ׃"
+pericope: "[[Josh.1.1 God Instructs Joshua|God Instructs Joshua]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 1
+book/chapter: "[[Josh.1|Joshua 1]]"
+chronological_order: 231
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic CALL|CALL]]"
+- "[[topic COMMUNION|COMMUNION]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3320]]"
+- "[[H0376I]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9021]]"
+- "[[H3605]]"
+- "[[H3117G]]"
+- "[[H2416E]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1961]]"
+- "[[H5973A]]"
+- "[[H4872]]"
+- "[[H9032]]"
+- "[[H7503]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H5800A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 1:5**<big><big>[[Josh.1.1 God Instructs Joshua|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There shall not any man be able to stand before thee all the days of thy life: as I was with Moses, [so] I will be with thee: I will not fail thee, nor forsake thee.
 <small><sub>**BSB:**</sub></small>
 No one shall stand against you all the days of your life. As I was with Moses, so will I be with you; I will never leave you nor forsake you.
+<small><sub>**Hebrew:**</sub></small>
+[[H3808\|לֹֽא]][[H9014\|־]] [[H3320\|יִתְיַצֵּ֥ב]] [[H0376I\|אִישׁ֙]] [[H9005\|לְ]][[H6440G\|פָנֶ֔י]][[H9021\|ךָ]] [[H3605\|כֹּ֖ל]] [[H3117G\|יְמֵ֣י]] [[H2416E\|חַיֶּ֑י]][[H9021\|ךָ]] [[H9004\|כַּֽ]][[H0834D\|אֲשֶׁ֨ר]] [[H1961\|הָיִ֤יתִי]] [[H5973A\|עִם]][[H9014\|־]] [[H4872\|מֹשֶׁה֙]] [[H1961\|אֶהְיֶ֣ה]] [[H5973A\|עִמָּ֔]][[H9032\|ךְ]] [[H3808\|לֹ֥א]] [[H7503\|אַרְפְּ]][[H9031\|ךָ֖]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H5800A\|אֶעֶזְבֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CALL|CALL]] • [[topic COMMUNION|COMMUNION]] • [[topic COURAGE|COURAGE]] • [[topic FAITH|FAITH]] • [[topic GOD|GOD]] • [[topic JOSHUA|JOSHUA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.1.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.1.4|<< Joshua 1:4]]</td><td align="center" style="border:none;">[[Josh.1|Joshua 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.1.6|Joshua 1:6 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

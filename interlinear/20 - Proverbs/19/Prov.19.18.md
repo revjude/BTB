@@ -1,8 +1,56 @@
+---
+title: Proverbs 19:18
+type: Verse
+kjv: "Chasten thy son while there is hope, and let not thy soul spare for his crying."
+bsb: "Discipline your son, for in that there is hope; do not be party to his death."
+hebrew: "יַסֵּ֣ר בִּ֭נְךָ כִּי־ יֵ֣שׁ תִּקְוָ֑ה וְאֶל־ הֲ֝מִית֗וֹ אַל־ תִּשָּׂ֥א נַפְשֶֽׁךָ׃"
+pericope: "[[Prov.19.1 The Man of Integrity|The Man of Integrity]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 19
+book/chapter: "[[Prov.19|Proverbs 19]]"
+chronological_order: 474
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H3256]]"
+- "[[H1121A]]"
+- "[[H9021]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H3426]]"
+- "[[H8615B]]"
+- "[[H9002]]"
+- "[[H0413]]"
+- "[[H4191]]"
+- "[[H9033]]"
+- "[[H0408]]"
+- "[[H5375O]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 19:18**<big><big>[[Prov.19.1 The Man of Integrity|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Chasten thy son while there is hope, and let not thy soul spare for his crying.
 <small><sub>**BSB:**</sub></small>
 Discipline your son, for in that there is hope; do not be party to his death.
+<small><sub>**Hebrew:**</sub></small>
+[[H3256\|יַסֵּ֣ר]] [[H1121A\|בִּ֭נְ]][[H9021\|ךָ]] [[H3588A\|כִּי]][[H9014\|־]] [[H3426\|יֵ֣שׁ]] [[H8615B\|תִּקְוָ֑ה]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H4191\|הֲ֝מִית֗]][[H9033\|וֹ]] [[H0408\|אַל]][[H9014\|־]] [[H5375O\|תִּשָּׂ֥א]] [[H5315G\|נַפְשֶֽׁ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.19.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.19.17|<< Proverbs 19:17]]</td><td align="center" style="border:none;">[[Prov.19|Proverbs 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.19.19|Proverbs 19:19 >>]]</td></tr></table>
 

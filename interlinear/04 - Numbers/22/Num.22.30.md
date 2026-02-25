@@ -1,8 +1,73 @@
+---
+title: Numbers 22:30
+type: Verse
+kjv: "And the ass said unto Balaam, Am not I thine ass, upon which thou hast ridden ever since I was thine unto this day? was I ever wont to do so unto thee? And he said, Nay."
+bsb: "But the donkey said to Balaam, “Am I not the donkey you have ridden all your life until today? Have I ever treated you this way before?” “No,” he replied."
+hebrew: "וַתֹּ֨אמֶר הָאָת֜וֹן אֶל־ בִּלְעָ֗ם הֲלוֹא֩ אָנֹכִ֨י אֲתֹֽנְךָ֜ אֲשֶׁר־ רָכַ֣בְתָּ עָלַ֗י מֵעֽוֹדְךָ֙ עַד־ הַיּ֣וֹם הַזֶּ֔ה הַֽהַסְכֵּ֣ן הִסְכַּ֔נְתִּי לַעֲשׂ֥וֹת לְךָ֖ כֹּ֑ה וַיֹּ֖אמֶר לֹֽא׃"
+pericope: "[[Num.22.22 The Angel and Balaam’s Donkey|The Angel and Balaam’s Donkey]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 22
+book/chapter: "[[Num.22|Numbers 22]]"
+chronological_order: 182
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic ASS (DONKEY)|ASS (DONKEY)]]"
+- "[[topic BALAAM|BALAAM]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9009]]"
+- "[[H0860]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H1109A]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H0595]]"
+- "[[H9021]]"
+- "[[H0834A]]"
+- "[[H7392]]"
+- "[[H5921A]]"
+- "[[H9030]]"
+- "[[H9006]]"
+- "[[H5750]]"
+- "[[H5704]]"
+- "[[H3117G]]"
+- "[[H2088]]"
+- "[[H5532]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9031]]"
+- "[[H3541]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 22:30**<big><big>[[Num.22.22 The Angel and Balaam’s Donkey|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the ass said unto Balaam, [Am] not I thine ass, upon which thou hast ridden ever since [I was] thine unto this day? was I ever wont to do so unto thee? And he said, Nay.
 <small><sub>**BSB:**</sub></small>
 But the donkey said to Balaam, “Am I not the donkey you have ridden all your life until today? Have I ever treated you this way before?” “No,” he replied.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|תֹּ֨אמֶר]] [[H9009\|הָ]][[H0860\|אָת֜וֹן]] [[H0413\|אֶל]][[H9014\|־]] [[H1109A\|בִּלְעָ֗ם]] [[H9008\|הֲ]][[H3808\|לוֹא֩]] [[H0595\|אָנֹכִ֨י]] [[H0860\|אֲתֹֽנְ]][[H9021\|ךָ֜]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7392\|רָכַ֣בְתָּ]] [[H5921A\|עָלַ֗]][[H9030\|י]] [[H9006\|מֵ]][[H5750\|עֽוֹדְ]][[H9021\|ךָ֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הַ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9008\|הַֽ]][[H5532\|הַסְכֵּ֣ן]] [[H5532\|הִסְכַּ֔נְתִּי]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9005\|לְ]][[H9031\|ךָ֖]] [[H3541\|כֹּ֑ה]] [[H9001\|וַ]][[H0559\|יֹּ֖אמֶר]] [[H3808\|לֹֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic ASS (DONKEY)|ASS (DONKEY)]] • [[topic BALAAM|BALAAM]] • [[topic MIRACLES|MIRACLES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.22.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.22.29|<< Numbers 22:29]]</td><td align="center" style="border:none;">[[Num.22|Numbers 22]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.22.31|Numbers 22:31 >>]]</td></tr></table>
 

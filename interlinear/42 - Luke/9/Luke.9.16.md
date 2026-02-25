@@ -1,10 +1,63 @@
+---
+title: Luke 9:16
+type: Verse
+kjv: "Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude."
+bsb: "Taking the five loaves and the two fish and looking up to heaven, Jesus spoke a blessing and broke them. Then He gave them to the disciples to set before the people."
+greek: "λαβὼν δὲ τοὺς πέντε ἄρτους καὶ τοὺς δύο ἰχθύας, ἀναβλέψας εἰς τὸν οὐρανὸν εὐλόγησεν αὐτοὺς καὶ κατέκλασεν καὶ ἐδίδου τοῖς μαθηταῖς παραθεῖναι τῷ ὄχλῳ."
+pericope: "[[Luke.9.10 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 9
+book/chapter: "[[Luke.9|Luke 9]]"
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FISH|FISH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[G2983]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4002]]"
+- "[[G0740]]"
+- "[[G2532]]"
+- "[[G1417]]"
+- "[[G2486]]"
+- "[[G0308]]"
+- "[[G1519]]"
+- "[[G3772]]"
+- "[[G2127]]"
+- "[[G0846]]"
+- "[[G2622]]"
+- "[[G1325]]"
+- "[[G3101]]"
+- "[[G3908]]"
+- "[[G3793]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Luke 9:16**<big><big>[[Luke.9.10 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude.
 <small><sub>**BSB:**</sub></small>
 Taking the five loaves and the two fish and looking up to heaven, Jesus spoke a blessing and broke them. Then He gave them to the disciples to set before the people.
-<small><sub>**Literal:**</sub></small>
-Having taken then the five loaves and the two fish, having looked up to the heaven He blessed them and broke [them] and He was giving [them] to the disciples to set before the crowd.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.15|<< Luke 9:15]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.17|Luke 9:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2983\|λαβὼν]]  [[G1161\|δὲ]]  [[G3588\|τοὺς]]  [[G4002\|πέντε]]  [[G0740\|ἄρτους]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G1417\|δύο]]  [[G2486\|ἰχθύας,]]  [[G0308\|ἀναβλέψας]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3772\|οὐρανὸν]]  [[G2127\|εὐλόγησεν]]  [[G0846\|αὐτοὺς]]  [[G2532\|καὶ]]  [[G2622\|κατέκλασεν]]  [[G2532\|καὶ]]  [[G1325\|ἐδίδου]]  [[G3588\|τοῖς]]  [[G3101\|μαθηταῖς]]  [[G3908\|παραθεῖναι]]  [[G3588\|τῷ]]  [[G3793\|ὄχλῳ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FISH|FISH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]] • [[topic PRAYER|PRAYER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.9.15|<< Luke 9:15]]</td><td align="center" style="border:none;">[[Luke.9|Luke 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.9.17|Luke 9:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

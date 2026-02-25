@@ -1,8 +1,62 @@
+---
+title: Numbers 26:40
+type: Verse
+kjv: "And the sons of Bela were Ard and Naaman: of Ard, the family of the Ardites: and of Naaman, the family of the Naamites."
+bsb: "And the descendants of Bela from Ard and Naaman were the Ardite clan from Ard and the Naamite clan from Naaman."
+hebrew: "וַיִּהְי֥וּ בְנֵי־ בֶ֖לַע אַ֣רְדְּ וְנַעֲמָ֑ן לְאַרְדְּ מִשְׁפַּ֙חַת֙ הָֽאַרְדִּ֔י לְנַֽעֲמָ֔ן מִשְׁפַּ֖חַת הַֽנַּעֲמִֽי׃"
+pericope: "[[Num.26.38 The Tribe of Benjamin|The Tribe of Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 26
+book/chapter: "[[Num.26|Numbers 26]]"
+chronological_order: 186
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ARD|ARD]]"
+- "[[topic BELA|BELA]]"
+- "[[topic BENJAMIN|BENJAMIN]]"
+- "[[topic NAAMAN|NAAMAN]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1106A]]"
+- "[[H0714H]]"
+- "[[H9002]]"
+- "[[H5283H]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9009]]"
+- "[[H0716]]"
+- "[[H5280]]"
+- "[[H9016]]"
+texts:
+- L
+- X
+---
+
 **Numbers 26:40**<big><big>[[Num.26.38 The Tribe of Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the sons of Bela were Ard and Naaman: [of Ard], the family of the Ardites: [and] of Naaman, the family of the Naamites.
 <small><sub>**BSB:**</sub></small>
 And the descendants of Bela from Ard and Naaman were the Ardite clan from Ard and the Naamite clan from Naaman.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יִּהְי֥וּ]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H1106A\|בֶ֖לַע]] [[H0714H\|אַ֣רְדְּ]] [[H9002\|וְ]][[H5283H\|נַעֲמָ֑ן]] [[H9005\|לְ]][[H0714H\|אַרְדְּ]] [[H4940\|מִשְׁפַּ֙חַת֙]] [[H9009\|הָֽ]][[H0716\|אַרְדִּ֔י]] [[H9005\|לְ]][[H5283H\|נַֽעֲמָ֔ן]] [[H4940\|מִשְׁפַּ֖חַת]] [[H9009\|הַֽ]][[H5280\|נַּעֲמִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARD|ARD]] • [[topic BELA|BELA]] • [[topic BENJAMIN|BENJAMIN]] • [[topic NAAMAN|NAAMAN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.26.40|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.26.39|<< Numbers 26:39]]</td><td align="center" style="border:none;">[[Num.26|Numbers 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.26.41|Numbers 26:41 >>]]</td></tr></table>
 

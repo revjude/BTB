@@ -1,8 +1,67 @@
+---
+title: Nehemiah 1:2
+type: Verse
+kjv: "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem."
+bsb: "Hanani, one of my brothers, arrived with men from Judah. So I questioned them about the remnant of the Jews who had survived the exile, and also about Jerusalem."
+hebrew: "וַיָּבֹ֨א חֲנָ֜נִי אֶחָ֧ד מֵאַחַ֛י ה֥וּא וַאֲנָשִׁ֖ים מִֽיהוּדָ֑ה וָאֶשְׁאָלֵ֞ם עַל־ הַיְּהוּדִ֧ים הַפְּלֵיטָ֛ה אֲשֶֽׁר־ נִשְׁאֲר֥וּ מִן־ הַשֶּׁ֖בִי וְעַל־ יְרוּשָׁלִָֽם׃"
+pericope: "[[Neh.1.1 Nehemiah’s Prayer|Nehemiah’s Prayer]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 1
+book/chapter: "[[Neh.1|Nehemiah 1]]"
+chronological_order: 913
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic HANANI|HANANI]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H2607J]]"
+- "[[H0259]]"
+- "[[H9006]]"
+- "[[H0251I]]"
+- "[[H9020]]"
+- "[[H1931]]"
+- "[[H9002]]"
+- "[[H0582]]"
+- "[[H3063G]]"
+- "[[H7592]]"
+- "[[H9038]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H3064]]"
+- "[[H6413]]"
+- "[[H0834A]]"
+- "[[H7604]]"
+- "[[H4480A]]"
+- "[[H7628A]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 1:2**<big><big>[[Neh.1.1 Nehemiah’s Prayer|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That Hanani, one of my brethren, came, he and [certain] men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
 <small><sub>**BSB:**</sub></small>
 Hanani, one of my brothers, arrived with men from Judah. So I questioned them about the remnant of the Jews who had survived the exile, and also about Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֨א]] [[H2607J\|חֲנָ֜נִי]] [[H0259\|אֶחָ֧ד]] [[H9006\|מֵ]][[H0251I\|אַחַ֛]][[H9020\|י]] [[H1931\|ה֥וּא]] [[H9002\|וַ]][[H0582\|אֲנָשִׁ֖ים]] [[H9006\|מִֽ]][[H3063G\|יהוּדָ֑ה]] [[H9001\|וָ]][[H7592\|אֶשְׁאָלֵ֞]][[H9038\|ם]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֧ים]] [[H9009\|הַ]][[H6413\|פְּלֵיטָ֛ה]] [[H0834A\|אֲשֶֽׁר]][[H9014\|־]] [[H7604\|נִשְׁאֲר֥וּ]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הַ]][[H7628A\|שֶּׁ֖בִי]] [[H9002\|וְ]][[H5921A\|עַל]][[H9014\|־]] [[H3389\|יְרוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic HANANI|HANANI]] • [[topic PATRIOTISM|PATRIOTISM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.1.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.1.1|<< Nehemiah 1:1]]</td><td align="center" style="border:none;">[[Neh.1|Nehemiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.1.3|Nehemiah 1:3 >>]]</td></tr></table>
 

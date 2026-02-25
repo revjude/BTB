@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Abomination of Desolation
+type: Pericope
 pericope: "[[Matt.24.15 The Abomination of Desolation|The Abomination of Desolation]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 24
 book/chapter: "[[Matt.24|Matthew 24]]"
-genre:
+chronological_order: 997
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 11
 verses:
 - "[[Matt.24.15]]"
 - "[[Matt.24.16]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Matt.24.25]]"
 ---
 
-[[Matt.24|Matthew 24:15 - Matthew 24:25]]
+<small>[[Matt.24|Matthew 24:15-25]]</small>
 *The Abomination of Desolation*
 
 [[Matt.24.15|15]] When ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place, (whoso readeth, let him understand:)

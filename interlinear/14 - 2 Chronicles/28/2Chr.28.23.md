@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 28:23
+type: Verse
+kjv: "For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, therefore will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel."
+bsb: "He sacrificed to the gods of Damascus, who had defeated him, and he said, “Because the gods of the kings of Aram have helped them, I will sacrifice to them that they may help me.” But these gods were the downfall of Ahaz and of all Israel."
+hebrew: "וַיִּזְבַּ֗ח לֵֽאלֹהֵ֣י דַרְמֶשֶׂק֮ הַמַּכִּ֣ים בּוֹ֒ וַיֹּ֗אמֶר כִּ֠י אֱלֹהֵ֤י מַלְכֵֽי־ אֲרָם֙ הֵ֚ם מַעְזְרִ֣ים אוֹתָ֔ם לָהֶ֥ם אֲזַבֵּ֖חַ וְיַעְזְר֑וּנִי וְהֵ֛ם הָֽיוּ־ ל֥וֹ לְהַכְשִׁיל֖וֹ וּלְכָל־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.28.16 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 28
+book/chapter: "[[2Chr.28|2 Chronicles 28]]"
+chronological_order: 616
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic IDOLATRY|IDOLATRY]]"
+strongs:
+- "[[H9001]]"
+- "[[H2076]]"
+- "[[H9005]]"
+- "[[H0430]]"
+- "[[H1834]]"
+- "[[H9009]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H0559]]"
+- "[[H3588A]]"
+- "[[H4428G]]"
+- "[[H9014]]"
+- "[[H0758I]]"
+- "[[H1992]]"
+- "[[H5826]]"
+- "[[H0853]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H9030]]"
+- "[[H1961]]"
+- "[[H3782]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 28:23**<big><big>[[2Chr.28.16 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, [therefore] will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel.
 <small><sub>**BSB:**</sub></small>
 He sacrificed to the gods of Damascus, who had defeated him, and he said, “Because the gods of the kings of Aram have helped them, I will sacrifice to them that they may help me.” But these gods were the downfall of Ahaz and of all Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H2076\|יִּזְבַּ֗ח]] [[H9005\|לֵֽ]][[H0430\|אלֹהֵ֣י]] [[H1834\|דַרְמֶשֶׂק֮]] [[H9009\|הַ]][[H5221\|מַּכִּ֣ים]] [[H9003\|בּ]][[H9033\|וֹ֒]] [[H9001\|וַ]][[H0559\|יֹּ֗אמֶר]] [[H3588A\|כִּ֠י]] [[H0430\|אֱלֹהֵ֤י]] [[H4428G\|מַלְכֵֽי]][[H9014\|־]] [[H0758I\|אֲרָם֙]] [[H1992\|הֵ֚ם]] [[H5826\|מַעְזְרִ֣ים]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H9005\|לָ]][[H9038\|הֶ֥ם]] [[H2076\|אֲזַבֵּ֖חַ]] [[H9002\|וְ]][[H5826\|יַעְזְר֑וּ]][[H9030\|נִי]] [[H9002\|וְ]][[H1992\|הֵ֛ם]] [[H1961\|הָֽיוּ]][[H9014\|־]] [[H9005\|ל֥]][[H9033\|וֹ]] [[H9005\|לְ]][[H3782\|הַכְשִׁיל֖]][[H9033\|וֹ]] [[H9002\|וּ]][[H9005\|לְ]][[H3605\|כָל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic AHAZ|AHAZ]] • [[topic IDOLATRY|IDOLATRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.28.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.28.22|<< 2 Chronicles 28:22]]</td><td align="center" style="border:none;">[[2Chr.28|2 Chronicles 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.28.24|2 Chronicles 28:24 >>]]</td></tr></table>
 

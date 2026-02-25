@@ -1,8 +1,59 @@
+---
+title: Ezekiel 23:48
+type: Verse
+kjv: "Thus will I cause lewdness to cease out of the land, that all women may be taught not to do after your lewdness."
+bsb: "So I will put an end to indecency in the land, and all the women will be admonished not to imitate your behavior."
+hebrew: "וְהִשְׁבַּתִּ֥י זִמָּ֖ה מִן־ הָאָ֑רֶץ וְנִֽוַּסְּרוּ֙ כָּל־ הַנָּשִׁ֔ים וְלֹ֥א תַעֲשֶׂ֖ינָה כְּזִמַּתְכֶֽנָה׃"
+pericope: "[[Ezek.23.36 Judgment on Both Sisters|Judgment on Both Sisters]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 23
+book/chapter: "[[Ezek.23|Ezekiel 23]]"
+chronological_order: 814
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+strongs:
+- "[[H9001]]"
+- "[[H7673A]]"
+- "[[H2154]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H3256]]"
+- "[[H3605]]"
+- "[[H0802G]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6213H]]"
+- "[[H9004]]"
+- "[[H9027]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 23:48**<big><big>[[Ezek.23.36 Judgment on Both Sisters|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus will I cause lewdness to cease out of the land, that all women may be taught not to do after your lewdness.
 <small><sub>**BSB:**</sub></small>
 So I will put an end to indecency in the land, and all the women will be admonished not to imitate your behavior.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H7673A\|הִשְׁבַּתִּ֥י]] [[H2154\|זִמָּ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9001\|וְ]][[H3256\|נִֽוַּסְּרוּ֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H0802G\|נָּשִׁ֔ים]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H6213H\|תַעֲשֶׂ֖ינָה]] [[H9004\|כְּ]][[H2154\|זִמַּתְ]][[H9027\|כֶֽנָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.23.48|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.23.47|<< Ezekiel 23:47]]</td><td align="center" style="border:none;">[[Ezek.23|Ezekiel 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.23.49|Ezekiel 23:49 >>]]</td></tr></table>
 

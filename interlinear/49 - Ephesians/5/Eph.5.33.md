@@ -1,10 +1,57 @@
+---
+title: Ephesians 5:33
+type: Verse
+kjv: "Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband."
+bsb: "Nevertheless, each one of you also must love his wife as he loves himself, and the wife must respect her husband."
+greek: "πλὴν καὶ ὑμεῖς οἱ καθ᾽ ἕνα, ἕκαστος τὴν ἑαυτοῦ γυναῖκα οὕτως ἀγαπάτω ὡς ἑαυτόν, ἡ δὲ γυνὴ ἵνα φοβῆται τὸν ἄνδρα.¶"
+pericope: "[[Eph.5.21 Wives and Husbands|Wives and Husbands]]"
+original_language: Greek
+testament: New
+book: Ephesians
+chapter: 5
+book/chapter: "[[Eph.5|Ephesians 5]]"
+chronological_order: 1115
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- theological treatise
+topics:
+- "[[topic HUSBAND|HUSBAND]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G4133]]"
+- "[[G2532]]"
+- "[[G4771]]"
+- "[[G3588]]"
+- "[[G2596]]"
+- "[[G1520]]"
+- "[[G1538]]"
+- "[[G1438]]"
+- "[[G1135H]]"
+- "[[G3779]]"
+- "[[G0025]]"
+- "[[G5613]]"
+- "[[G1161]]"
+- "[[G2443]]"
+- "[[G5399]]"
+- "[[G0435H]]"
+texts:
+- NKO
+---
+
 **Ephesians 5:33**<big><big>[[Eph.5.21 Wives and Husbands|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Nevertheless let every one of you in particular so love his wife even as himself; and the wife [see] that she reverence [her] husband.
 <small><sub>**BSB:**</sub></small>
 Nevertheless, each one of you also must love his wife as he loves himself, and the wife must respect her husband.
-<small><sub>**Literal:**</sub></small>
-However also you <the> according to individual, each the his own wife so should love as himself, <the> and the wife that she may respect the husband.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.32|<< Ephesians 5:32]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.1|Ephesians 6:1 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4133\|πλὴν]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G3588\|οἱ]]  [[G2596\|καθ᾽]]  [[G1520\|ἕνα,]]  [[G1538\|ἕκαστος]]  [[G3588\|τὴν]]  [[G1438\|ἑαυτοῦ]]  [[G1135H\|γυναῖκα]]  [[G3779\|οὕτως]]  [[G0025\|ἀγαπάτω]]  [[G5613\|ὡς]]  [[G1438\|ἑαυτόν,]]  [[G3588\|ἡ]]  [[G1161\|δὲ]]  [[G1135H\|γυνὴ]]  [[G2443\|ἵνα]]  [[G5399\|φοβῆται]]  [[G3588\|τὸν]]  [[G0435H\|ἄνδρα.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUSBAND|HUSBAND]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eph.5.32|<< Ephesians 5:32]]</td><td align="center" style="border:none;">[[Eph.5|Ephesians 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eph.6.1|Ephesians 6:1 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

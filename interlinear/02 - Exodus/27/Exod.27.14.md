@@ -1,8 +1,59 @@
+---
+title: Exodus 27:14
+type: Verse
+kjv: "The hangings of one side of the gate shall be fifteen cubits: their pillars three, and their sockets three."
+bsb: "Make the curtains on one side fifteen cubits long, with three posts and three bases,"
+hebrew: "וַחֲמֵ֨שׁ עֶשְׂרֵ֥ה אַמָּ֛ה קְלָעִ֖ים לַכָּתֵ֑ף עַמֻּדֵיהֶ֣ם שְׁלֹשָׁ֔ה וְאַדְנֵיהֶ֖ם שְׁלֹשָֽׁה׃"
+pericope: "[[Exod.27.9 The Courtyard|The Courtyard]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 27
+book/chapter: "[[Exod.27|Exodus 27]]"
+chronological_order: 119
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic CURTAINS|CURTAINS]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+- "[[topic TAPESTRY|TAPESTRY]]"
+strongs:
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H6240]]"
+- "[[H0520A]]"
+- "[[H7050B]]"
+- "[[H9005]]"
+- "[[H3802]]"
+- "[[H5982G]]"
+- "[[H9028]]"
+- "[[H7969]]"
+- "[[H0134]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 27:14**<big><big>[[Exod.27.9 The Courtyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The hangings of one side [of the gate shall be] fifteen cubits: their pillars three, and their sockets three.
 <small><sub>**BSB:**</sub></small>
 Make the curtains on one side fifteen cubits long, with three posts and three bases,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H2568\|חֲמֵ֨שׁ]] [[H6240\|עֶשְׂרֵ֥ה]] [[H0520A\|אַמָּ֛ה]] [[H7050B\|קְלָעִ֖ים]] [[H9005\|לַ]][[H3802\|כָּתֵ֑ף]] [[H5982G\|עַמֻּדֵי]][[H9028\|הֶ֣ם]] [[H7969\|שְׁלֹשָׁ֔ה]] [[H9002\|וְ]][[H0134\|אַדְנֵי]][[H9028\|הֶ֖ם]] [[H7969\|שְׁלֹשָֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CURTAINS|CURTAINS]] • [[topic TABERNACLE|TABERNACLE]] • [[topic TAPESTRY|TAPESTRY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.27.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.27.13|<< Exodus 27:13]]</td><td align="center" style="border:none;">[[Exod.27|Exodus 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.27.15|Exodus 27:15 >>]]</td></tr></table>
 

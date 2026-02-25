@@ -1,8 +1,57 @@
+---
+title: Ruth 1:18
+type: Verse
+kjv: "When she saw that she was stedfastly minded to go with her, then she left speaking unto her."
+bsb: "When Naomi saw that Ruth was determined to go with her, she stopped trying to persuade her."
+hebrew: "וַתֵּ֕רֶא כִּֽי־ מִתְאַמֶּ֥צֶת הִ֖יא לָלֶ֣כֶת אִתָּ֑הּ וַתֶּחְדַּ֖ל לְדַבֵּ֥ר אֵלֶֽיהָ׃"
+pericope: "[[Ruth.1.6 Ruth’s Loyalty to Naomi|Ruth’s Loyalty to Naomi]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 1
+book/chapter: "[[Ruth.1|Ruth 1]]"
+chronological_order: 276
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H7200G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0553]]"
+- "[[H1931]]"
+- "[[H9005]]"
+- "[[H1980G]]"
+- "[[H0854]]"
+- "[[H9034]]"
+- "[[H2308]]"
+- "[[H1696G]]"
+- "[[H0413]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ruth 1:18**<big><big>[[Ruth.1.6 Ruth’s Loyalty to Naomi|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When she saw that she was stedfastly minded to go with her, then she left speaking unto her.
 <small><sub>**BSB:**</sub></small>
 When Naomi saw that Ruth was determined to go with her, she stopped trying to persuade her.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7200G\|תֵּ֕רֶא]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H0553\|מִתְאַמֶּ֥צֶת]] [[H1931\|הִ֖יא]] [[H9005\|לָ]][[H1980G\|לֶ֣כֶת]] [[H0854\|אִתָּ֑]][[H9034\|הּ]] [[H9001\|וַ]][[H2308\|תֶּחְדַּ֖ל]] [[H9005\|לְ]][[H1696G\|דַבֵּ֥ר]] [[H0413\|אֵלֶֽי]][[H9034\|הָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DAUGHTER-IN-LAW|DAUGHTER-IN-LAW]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.1.17|<< Ruth 1:17]]</td><td align="center" style="border:none;">[[Ruth.1|Ruth 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.1.19|Ruth 1:19 >>]]</td></tr></table>
 

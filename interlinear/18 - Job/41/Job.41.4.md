@@ -1,8 +1,52 @@
+---
+title: Job 41:4
+type: Verse
+kjv: "Will he make a covenant with thee? wilt thou take him for a servant for ever?"
+bsb: "Will he make a covenant with you to take him as a slave for life?"
+hebrew: "הֲיִכְרֹ֣ת בְּרִ֣ית עִמָּ֑ךְ תִּ֝קָּחֶ֗נּוּ לְעֶ֣בֶד עוֹלָֽם׃"
+pericope: "[[Job.41.1 The LORD’s Power Shown in Leviathan|The LORD’s Power Shown in Leviathan]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 41
+book/chapter: "[[Job.41|Job 41]]"
+chronological_order: 52
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+strongs:
+- "[[H9008]]"
+- "[[H3772H]]"
+- "[[H1285]]"
+- "[[H5973A]]"
+- "[[H9032]]"
+- "[[H3947G]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5650]]"
+- "[[H5769G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 41:4**<big><big>[[Job.41.1 The LORD’s Power Shown in Leviathan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Will he make a covenant with thee? wilt thou take him for a servant for ever?
 <small><sub>**BSB:**</sub></small>
 Will he make a covenant with you to take him as a slave for life?
+<small><sub>**Hebrew:**</sub></small>
+[[H9008\|הֲ]][[H3772H\|יִכְרֹ֣ת]] [[H1285\|בְּרִ֣ית]] [[H5973A\|עִמָּ֑]][[H9032\|ךְ]] [[H3947G\|תִּ֝קָּחֶ֗]][[H9033\|נּוּ]] [[H9005\|לְ]][[H5650\|עֶ֣בֶד]] [[H5769G\|עוֹלָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.41.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.41.3|<< Job 41:3]]</td><td align="center" style="border:none;">[[Job.41|Job 41]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.41.5|Job 41:5 >>]]</td></tr></table>
 

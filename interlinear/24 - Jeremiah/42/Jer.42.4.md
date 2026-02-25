@@ -1,8 +1,75 @@
+---
+title: Jeremiah 42:4
+type: Verse
+kjv: "Then Jeremiah the prophet said unto them, I have heard you; behold, I will pray unto the LORD your God according to your words; and it shall come to pass, that whatsoever thing the LORD shall answer you, I will declare it unto you; I will keep nothing back from you."
+bsb: "“I have heard you,” replied Jeremiah the prophet. “I will surely pray to the LORD your God as you request, and I will tell you everything that the LORD answers. I will not withhold a word from you.”"
+hebrew: "וַיֹּ֨אמֶר אֲלֵיהֶ֜ם יִרְמְיָ֤הוּ הַנָּבִיא֙ שָׁמַ֔עְתִּי הִנְנִ֧י מִתְפַּלֵּ֛ל אֶל־ יְהוָ֥ה אֱלֹהֵיכֶ֖ם כְּדִבְרֵיכֶ֑ם וְֽהָיָ֡ה כָּֽל־ הַדָּבָר֩ אֲשֶׁר־ יַעֲנֶ֨ה יְהוָ֤ה אֶתְכֶם֙ אַגִּ֣יד לָכֶ֔ם לֹֽא־ אֶמְנַ֥ע מִכֶּ֖ם דָּבָֽר׃"
+pericope: "[[Jer.42.1 A Warning against Going to Egypt|A Warning against Going to Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 42
+book/chapter: "[[Jer.42|Jeremiah 42]]"
+chronological_order: 765
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H3414L]]"
+- "[[H9009]]"
+- "[[H5030]]"
+- "[[H8085G]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6419]]"
+- "[[H9014]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H9004]]"
+- "[[H1697H]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H1697I]]"
+- "[[H0834A]]"
+- "[[H6030B]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H5046]]"
+- "[[H9005]]"
+- "[[H3808]]"
+- "[[H4513]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 42:4**<big><big>[[Jer.42.1 A Warning against Going to Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then Jeremiah the prophet said unto them, I have heard [you]; behold, I will pray unto the LORD your God according to your words; and it shall come to pass, [that] whatsoever thing the LORD shall answer you, I will declare [it] unto you; I will keep nothing back from you.
 <small><sub>**BSB:**</sub></small>
 “I have heard you,” replied Jeremiah the prophet. “I will surely pray to the LORD your God as you request, and I will tell you everything that the LORD answers. I will not withhold a word from you.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֜ם]] [[H3414L\|יִרְמְיָ֤הוּ]] [[H9009\|הַ]][[H5030\|נָּבִיא֙]] [[H8085G\|שָׁמַ֔עְתִּי]] [[H2005\|הִנְ]][[H9040\|נִ֧י]] [[H6419\|מִתְפַּלֵּ֛ל]] [[H0413\|אֶל]][[H9014\|־]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9026\|כֶ֖ם]] [[H9004\|כְּ]][[H1697H\|דִבְרֵי]][[H9026\|כֶ֑ם]] [[H9001\|וְֽ]][[H1961\|הָיָ֡ה]] [[H3605\|כָּֽל]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָר֩]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H6030B\|יַעֲנֶ֨ה]] [[H3068G\|יְהוָ֤ה]] [[H0853\|אֶתְ]][[H9036\|כֶם֙]] [[H5046\|אַגִּ֣יד]] [[H9005\|לָ]][[H9036\|כֶ֔ם]] [[H3808\|לֹֽא]][[H9014\|־]] [[H4513\|אֶמְנַ֥ע]] [[H9006\|מִ]][[H9036\|כֶּ֖ם]] [[H1697I\|דָּבָֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HYPOCRISY|HYPOCRISY]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.42.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.42.3|<< Jeremiah 42:3]]</td><td align="center" style="border:none;">[[Jer.42|Jeremiah 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.42.5|Jeremiah 42:5 >>]]</td></tr></table>
 

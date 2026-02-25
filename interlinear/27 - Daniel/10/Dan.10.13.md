@@ -1,8 +1,67 @@
+---
+title: Daniel 10:13
+type: Verse
+kjv: "But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia."
+bsb: "However, the prince of the kingdom of Persia opposed me for twenty-one days. Then Michael, one of the chief princes, came to help me, for I had been left there with the kings of Persia."
+hebrew: "וְשַׂ֣ר׀ מַלְכ֣וּת פָּרַ֗ס עֹמֵ֤ד לְנֶגְדִּי֙ עֶשְׂרִ֣ים וְאֶחָ֣ד י֔וֹם וְהִנֵּ֣ה מִֽיכָאֵ֗ל אַחַ֛ד הַשָּׂרִ֥ים הָרִאשֹׁנִ֖ים בָּ֣א לְעָזְרֵ֑נִי וַאֲנִי֙ נוֹתַ֣רְתִּי שָׁ֔ם אֵ֖צֶל מַלְכֵ֥י פָרָֽס׃"
+pericope: "[[Dan.10.1 Daniel’s Vision by the Tigris|Daniel’s Vision by the Tigris]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 10
+book/chapter: "[[Dan.10|Daniel 10]]"
+chronological_order: 846
+era: Exile
+period: "Exile in Babylon: Daniel's Visions"
+date: ~553–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic MICHAEL|MICHAEL]]"
+strongs:
+- "[[H9002]]"
+- "[[H8269]]"
+- "[[H9015]]"
+- "[[H4438]]"
+- "[[H6539]]"
+- "[[H5975G]]"
+- "[[H9005]]"
+- "[[H5048]]"
+- "[[H9030]]"
+- "[[H6242]]"
+- "[[H0259]]"
+- "[[H3117G]]"
+- "[[H2009]]"
+- "[[H4317Q]]"
+- "[[H9009]]"
+- "[[H7223I]]"
+- "[[H0935G]]"
+- "[[H5826]]"
+- "[[H0589]]"
+- "[[H3498]]"
+- "[[H8033G]]"
+- "[[H0681]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 10:13**<big><big>[[Dan.10.1 Daniel’s Vision by the Tigris|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me; and I remained there with the kings of Persia.
 <small><sub>**BSB:**</sub></small>
 However, the prince of the kingdom of Persia opposed me for twenty-one days. Then Michael, one of the chief princes, came to help me, for I had been left there with the kings of Persia.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H8269\|שַׂ֣ר]][[H9015\|׀]] [[H4438\|מַלְכ֣וּת]] [[H6539\|פָּרַ֗ס]] [[H5975G\|עֹמֵ֤ד]] [[H9005\|לְ]][[H5048\|נֶגְדִּ]][[H9030\|י֙]] [[H6242\|עֶשְׂרִ֣ים]] [[H9002\|וְ]][[H0259\|אֶחָ֣ד]] [[H3117G\|י֔וֹם]] [[H9002\|וְ]][[H2009\|הִנֵּ֣ה]] [[H4317Q\|מִֽיכָאֵ֗ל]] [[H0259\|אַחַ֛ד]] [[H9009\|הַ]][[H8269\|שָּׂרִ֥ים]] [[H9009\|הָ]][[H7223I\|רִאשֹׁנִ֖ים]] [[H0935G\|בָּ֣א]] [[H9005\|לְ]][[H5826\|עָזְרֵ֑]][[H9030\|נִי]] [[H9002\|וַ]][[H0589\|אֲנִי֙]] [[H3498\|נוֹתַ֣רְתִּי]] [[H8033G\|שָׁ֔ם]] [[H0681\|אֵ֖צֶל]] [[H4428G\|מַלְכֵ֥י]] [[H6539\|פָרָֽס]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic MICHAEL|MICHAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.10.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.10.12|<< Daniel 10:12]]</td><td align="center" style="border:none;">[[Dan.10|Daniel 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.10.14|Daniel 10:14 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,10 +1,63 @@
+---
+title: Matthew 20:26
+type: Verse
+kjv: "But it shall not be so among you: but whosoever will be great among you, let him be your minister;"
+bsb: "It shall not be this way among you. Instead, whoever wants to become great among you must be your servant,"
+jesus_said: "But it shall not be so among you: but whosoever will be great among you, let him be your minister;"
+greek: "οὐχ οὕτως δέ ἔσται ἐν ὑμῖν, ἀλλ᾽ ὃς ἐὰν θέλῃ ἐν ὑμῖν μέγας γενέσθαι, ἔσται ὑμῶν διάκονος·"
+pericope: "[[Matt.20.20 A Mother’s Request|A Mother’s Request]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 20
+book/chapter: "[[Matt.20|Matthew 20]]"
+chronological_order: 987
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MAN|MAN]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIDE|PRIDE]]"
+strongs:
+- "[[G3756]]"
+- "[[G3779]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4771]]"
+- "[[G0235]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G2309]]"
+- "[[G3173]]"
+- "[[G1096]]"
+- "[[G1249]]"
+texts:
+- NKO
+- k
+- NK(o)
+- N(k)O
+---
+
 **Matthew 20:26**<big><big>[[Matt.20.20 A Mother’s Request|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But it shall not be so among you: but whosoever will be great among you, let him be your minister;
 <small><sub>**BSB:**</sub></small>
 It shall not be this way among you. Instead, whoever wants to become great among you must be your servant,
-<small><sub>**Literal:**</sub></small>
-Not thus now will it be among you, but who[ever] if shall wish among you great to become, he will be your servant;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.25|<< Matthew 20:25]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.27|Matthew 20:27 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐχ]]  [[G3779\|οὕτως]]  [[G1161\|δέ]]  [[G1510\|ἔσται]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν,]]  [[G0235\|ἀλλ᾽]]  [[G3739\|ὃς]]  [[G1437\|ἐὰν]]  [[G2309\|θέλῃ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G3173\|μέγας]]  [[G1096\|γενέσθαι,]]  [[G1510\|ἔσται]]  [[G4771\|ὑμῶν]]  [[G1249\|διάκονος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MAN|MAN]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIDE|PRIDE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.20.25|<< Matthew 20:25]]</td><td align="center" style="border:none;">[[Matt.20|Matthew 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.20.27|Matthew 20:27 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

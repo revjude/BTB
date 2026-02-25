@@ -1,8 +1,64 @@
+---
+title: Leviticus 7:15
+type: Verse
+kjv: "And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning."
+bsb: "The meat of the sacrifice of his peace offering of thanksgiving must be eaten on the day he offers it; none of it may be left until morning."
+hebrew: "וּבְשַׂ֗ר זֶ֚בַח תּוֹדַ֣ת שְׁלָמָ֔יו בְּי֥וֹם קָרְבָּנ֖וֹ יֵאָכֵ֑ל לֹֽא־ יַנִּ֥יחַ מִמֶּ֖נּוּ עַד־ בֹּֽקֶר׃"
+pericope: "[[Lev.7.11 The Peace Offering|The Peace Offering]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 7
+book/chapter: "[[Lev.7|Leviticus 7]]"
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H1320]]"
+- "[[H2077]]"
+- "[[H8426]]"
+- "[[H8002]]"
+- "[[H9023]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7133A]]"
+- "[[H0398]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5117]]"
+- "[[H4480A]]"
+- "[[H9033]]"
+- "[[H5704]]"
+- "[[H1242]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 7:15**<big><big>[[Lev.7.11 The Peace Offering|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the flesh of the sacrifice of his peace offerings for thanksgiving shall be eaten the same day that it is offered; he shall not leave any of it until the morning.
 <small><sub>**BSB:**</sub></small>
 The meat of the sacrifice of his peace offering of thanksgiving must be eaten on the day he offers it; none of it may be left until morning.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1320\|בְשַׂ֗ר]] [[H2077\|זֶ֚בַח]] [[H8426\|תּוֹדַ֣ת]] [[H8002\|שְׁלָמָ֔י]][[H9023\|ו]] [[H9003\|בְּ]][[H3117G\|י֥וֹם]] [[H7133A\|קָרְבָּנ֖]][[H9023\|וֹ]] [[H0398\|יֵאָכֵ֑ל]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5117\|יַנִּ֥יחַ]] [[H4480A\|מִמֶּ֖]][[H9033\|נּוּ]] [[H5704\|עַד]][[H9014\|־]] [[H1242\|בֹּֽקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic OFFERINGS|OFFERINGS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.7.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.7.14|<< Leviticus 7:14]]</td><td align="center" style="border:none;">[[Lev.7|Leviticus 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.7.16|Leviticus 7:16 >>]]</td></tr></table>
 

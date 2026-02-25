@@ -1,10 +1,71 @@
+---
+title: Matthew 27:19
+type: Verse
+kjv: "When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him."
+bsb: "While Pilate was sitting on the judgment seat, his wife sent him this message: “Have nothing to do with that innocent man, for I have suffered terribly in a dream today because of Him.”"
+greek: "Καθημένου δὲ αὐτοῦ ἐπὶ τοῦ βήματος ἀπέστειλεν πρὸς αὐτὸν ἡ γυνὴ αὐτοῦ λέγουσα· μηδὲν σοὶ καὶ τῷ δικαίῳ ἐκείνῳ· πολλὰ γὰρ ἔπαθον σήμερον κατ᾽ ὄναρ δι᾽ αὐτόν.¶"
+pericope: "[[Matt.27.15 The Crowd Chooses Barabbas|The Crowd Chooses Barabbas]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BARABBAS|BARABBAS]]"
+- "[[topic COMPLICITY|COMPLICITY]]"
+- "[[topic COURT|COURT]]"
+- "[[topic DEMAGOGISM|DEMAGOGISM]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic JUDGMENT-SEAT|JUDGMENT-SEAT]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2521]]"
+- "[[G1161]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0968]]"
+- "[[G0649]]"
+- "[[G4314]]"
+- "[[G1135H]]"
+- "[[G3004G]]"
+- "[[G3367]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G1342]]"
+- "[[G1565]]"
+- "[[G4183]]"
+- "[[G1063]]"
+- "[[G3958]]"
+- "[[G4594]]"
+- "[[G2596]]"
+- "[[G3677]]"
+- "[[G1223]]"
+texts:
+- NKO
+---
+
 **Matthew 27:19**<big><big>[[Matt.27.15 The Crowd Chooses Barabbas|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.
 <small><sub>**BSB:**</sub></small>
 While Pilate was sitting on the judgment seat, his wife sent him this message: “Have nothing to do with that innocent man, for I have suffered terribly in a dream today because of Him.”
-<small><sub>**Literal:**</sub></small>
-When was sitting now he on the judgment seat sent to him the wife of him saying; [Let there be] nothing between you and the righteous [man] that; many things for I suffered today in a dream because of Him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.18|<< Matthew 27:18]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.20|Matthew 27:20 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2521\|Καθημένου]]  [[G1161\|δὲ]]  [[G0846\|αὐτοῦ]]  [[G1909\|ἐπὶ]]  [[G3588\|τοῦ]]  [[G0968\|βήματος]]  [[G0649\|ἀπέστειλεν]]  [[G4314\|πρὸς]]  [[G0846\|αὐτὸν]]  [[G3588\|ἡ]]  [[G1135H\|γυνὴ]]  [[G0846\|αὐτοῦ]]  [[G3004G\|λέγουσα·]]  [[G3367\|μηδὲν]]  [[G4771\|σοὶ]]  [[G2532\|καὶ]]  [[G3588\|τῷ]]  [[G1342\|δικαίῳ]]  [[G1565\|ἐκείνῳ·]]  [[G4183\|πολλὰ]]  [[G1063\|γὰρ]]  [[G3958\|ἔπαθον]]  [[G4594\|σήμερον]]  [[G2596\|κατ᾽]]  [[G3677\|ὄναρ]]  [[G1223\|δι᾽]]  [[G0846\|αὐτόν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARABBAS|BARABBAS]] • [[topic COMPLICITY|COMPLICITY]] • [[topic COURT|COURT]] • [[topic DEMAGOGISM|DEMAGOGISM]] • [[topic DREAM|DREAM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGE|JUDGE]] • [[topic JUDGMENT-SEAT|JUDGMENT-SEAT]] • [[topic RULERS|RULERS]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.18|<< Matthew 27:18]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.20|Matthew 27:20 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

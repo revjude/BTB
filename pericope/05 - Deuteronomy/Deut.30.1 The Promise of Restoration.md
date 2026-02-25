@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Promise of Restoration
+type: Pericope
 pericope: "[[Deut.30.1 The Promise of Restoration|The Promise of Restoration]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 30
 book/chapter: "[[Deut.30|Deuteronomy 30]]"
-genre:
+chronological_order: 226
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 10
 verses:
 - "[[Deut.30.1]]"
 - "[[Deut.30.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Deut.30.10]]"
 ---
 
-[[Deut.30|Deuteronomy 30:1 - Deuteronomy 30:10]]
+<small>[[Deut.30|Deuteronomy 30:1-10]]</small>
 *The Promise of Restoration*
 
 [[Deut.30.1|1]] And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call \[them\] to mind among all the nations, whither the LORD thy God hath driven thee,

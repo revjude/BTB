@@ -1,8 +1,59 @@
+---
+title: Ezekiel 44:28
+type: Verse
+kjv: "And it shall be unto them for an inheritance: I am their inheritance: and ye shall give them no possession in Israel: I am their possession."
+bsb: "In regard to their inheritance, I am their inheritance. You are to give them no possession in Israel, for I am their possession."
+hebrew: "וְהָיְתָ֤ה לָהֶם֙ לְֽנַחֲלָ֔ה אֲנִ֖י נַֽחֲלָתָ֑ם וַאֲחֻזָּ֗ה לֹֽא־ תִתְּנ֤וּ לָהֶם֙ בְּיִשְׂרָאֵ֔ל אֲנִ֖י אֲחֻזָּתָֽם׃"
+pericope: "[[Ezek.44.15 The Duties of the Priests|The Duties of the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 44
+book/chapter: "[[Ezek.44|Ezekiel 44]]"
+chronological_order: 835
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H5159]]"
+- "[[H0589]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H0272]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H5414G]]"
+- "[[H9003]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 44:28**<big><big>[[Ezek.44.15 The Duties of the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And it shall be unto them for an inheritance: I [am] their inheritance: and ye shall give them no possession in Israel: I [am] their possession.
 <small><sub>**BSB:**</sub></small>
 In regard to their inheritance, I am their inheritance. You are to give them no possession in Israel, for I am their possession.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיְתָ֤ה]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9005\|לְֽ]][[H5159\|נַחֲלָ֔ה]] [[H0589\|אֲנִ֖י]] [[H5159\|נַֽחֲלָתָ֑]][[H9028\|ם]] [[H9002\|וַ]][[H0272\|אֲחֻזָּ֗ה]] [[H3808\|לֹֽא]][[H9014\|־]] [[H5414G\|תִתְּנ֤וּ]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H9003\|בְּ]][[H3478\|יִשְׂרָאֵ֔ל]] [[H0589\|אֲנִ֖י]] [[H0272\|אֲחֻזָּתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.44.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.44.27|<< Ezekiel 44:27]]</td><td align="center" style="border:none;">[[Ezek.44|Ezekiel 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.44.29|Ezekiel 44:29 >>]]</td></tr></table>
 

@@ -5,19 +5,19 @@
 
 → Carried on by means of caravans [[Gen.37.25|Ge 37:25]],[[Gen.37.27|27]]; [[Isa.60.6|Isa 60:6]]
 
-→ Carried on by means of ships [[1Kgs.9.27|1Ki 9:27]],[[1Kgs.9.28|28]]; [[1Kgs.10.11|10:11]]; [[1Kgs.22.48|22:48]];  [[Ps.107.23|Ps 107:23]]-[[Ps.107.30|30]]; [[Prov.31.11|Pr 31:11]]; [[Rev.18.19|Re 18:19]]
+→ Carried on by means of ships [[1Kgs.9.27|1Ki 9:27]],[[1Kgs.9.28|28]]; [[1Kgs.10.11|10:11]]; [[1Kgs.22.48|22:48]];  [[Ps.107.23|Ps 107:23-30]]; [[Prov.31.11|Pr 31:11]]; [[Rev.18.19|Re 18:19]]
 
 → Conducted in fairs [[Ezek.27.12|Eze 27:12]],[[Ezek.27.19|19]]; [[Matt.11.16|Mt 11:16]]
 
-→ Of the Arabians [[Isa.60.6|Isa 60:6]]; [[Jer.6.20|Jer 6:20]]; [[Ezek.27.21|Eze 27:21]]-[[Ezek.27.24|24]]
+→ Of the Arabians [[Isa.60.6|Isa 60:6]]; [[Jer.6.20|Jer 6:20]]; [[Ezek.27.21|Eze 27:21-24]]
 
-→ Egyptians [[Gen.42.2|Ge 42:2]]-[[Gen.42.34|34]]
+→ Egyptians [[Gen.42.2|Ge 42:2-34]]
 
 → Ethiopians [[Isa.45.14|Isa 45:14]]
 
 → Ishmaelites [[Gen.37.27|Ge 37:27]],[[Gen.37.28|28]]
 
-→ Israelites [[1Kgs.9.26|1Ki 9:26]]-[[1Kgs.9.28|28]]; [[Neh.3.31|Ne 3:31]],[[Neh.3.32|32]]; [[Ezek.27.17|Eze 27:17]]
+→ Israelites [[1Kgs.9.26|1Ki 9:26-28]]; [[Neh.3.31|Ne 3:31]],[[Neh.3.32|32]]; [[Ezek.27.17|Eze 27:17]]
 
 → Ninevites [[Nah.3.16|Na 3:16]]
 
@@ -27,7 +27,7 @@
 
 → Zidonians [[Isa.23.2|Isa 23:2]]; [[Ezek.27.8|Eze 27:8]]
 
-→ Babylonians [[Rev.18.3|Re 18:3]],[[Rev.18.11|11]]-[[Rev.18.13|13]]
+→ Babylonians [[Rev.18.3|Re 18:3]],[[Rev.18.11|11-13]]
 
 → Jews [[Ezek.27.17|Eze 27:17]]
 
@@ -71,7 +71,7 @@
 
 - Iron and steel [[Ezek.27.12|Eze 27:12]],[[Ezek.27.19|19]]
 
-- Land [[Gen.23.13|Ge 23:13]]-[[Gen.23.16|16]]; [[Ruth.4.3|Ru 4:3]]
+- Land [[Gen.23.13|Ge 23:13-16]]; [[Ruth.4.3|Ru 4:3]]
 
 - Lead [[Ezek.27.12|Eze 27:12]]
 

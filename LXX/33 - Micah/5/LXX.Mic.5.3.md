@@ -1,6 +1,57 @@
+---
+title: LXX Micah 5:3
+type: Verse
+lxx: "On account of this, he will appoint them unto a time of giving birth. She shall give birth, and the remnants  of their brethren shall return unto the sons of Israel."
+greek: "διά τούτο δώσει αυτούς έως καιρού τικτούσης τέξεται και οι επίλοιποι των αδελφών αυτών επιστρέψουσιν επί τους υιούς Ισραήλ"
+original_language: Greek
+testament: Old
+book: Micah
+chapter: 5
+book/chapter: "[[Mic.5|Micah 5]]"
+chronological_order: 627
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
+- septuagint
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G2193]]"
+- "[[G2540]]"
+- "[[G5088]]"
+- "[[G5088]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G1954]]"
+- "[[G3588]]"
+- "[[G0080]]"
+- "[[G1473]]"
+- "[[G1994]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G5207]]"
+- "[[G2474]]"
+---
+
 **LXX Micah 5:3** 
 <small><sub>**LXX:**</sub></small>
 On account of this, he will appoint them unto a time of giving birth. She shall give birth, and the remnants  of their brethren shall return unto the sons of Israel. 
+<small><sub>**Greek:**</sub></small>
+[[G1223\|διά]] [[G3778\|τούτο]] [[G1325\|δώσει]] [[G1473\|αυτούς]] [[G2193\|έως]] [[G2540\|καιρού]] [[G5088\|τικτούσης]] [[G5088\|τέξεται]] [[G2532\|και]] [[G3588\|οι]] [[G1954\|επίλοιποι]] [[G3588\|των]] [[G0080\|αδελφών]] [[G1473\|αυτών]] [[G1994\|επιστρέψουσιν]] [[G1909\|επί]] [[G3588\|τους]] [[G5207\|υιούς]] [[G2474\|Ισραήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**MT:**</sub></small>
 [[Mic.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.2|<< Micah 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.4|Micah 5:4 >>]]</td></tr></table>
 
@@ -24,6 +75,6 @@ On account of this, he will appoint them unto a time of giving birth. She shall 
 | the | **<big>[[G3588\|τους]]</big>** |
 | sons | **<big>[[G5207\|υιούς]]</big>** |
 | of Israel. | **<big>[[G2474\|Ισραήλ]]</big>** |
-[[Mic.5.3|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.2|<< Micah 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.4|Micah 5:4 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Mic.5.2|<< Micah 5:2]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Mic.5.4|Micah 5:4 >>]]</td></tr></table>
 
 

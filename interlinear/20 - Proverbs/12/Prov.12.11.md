@@ -1,8 +1,55 @@
+---
+title: Proverbs 12:11
+type: Verse
+kjv: "He that tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding."
+bsb: "The one who works his land will have plenty of food, but whoever chases fantasies lacks judgment."
+hebrew: "עֹבֵ֣ד אַ֭דְמָתוֹ יִֽשְׂבַּֽע־ לָ֑חֶם וּמְרַדֵּ֖ף רֵיקִ֣ים חֲסַר־ לֵֽב׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COMPANY|COMPANY]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic INDUSTRY|INDUSTRY]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H5647I]]"
+- "[[H0127G]]"
+- "[[H9023]]"
+- "[[H7646]]"
+- "[[H9014]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H7291]]"
+- "[[H7386]]"
+- "[[H2638]]"
+- "[[H3820A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:11**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He that tilleth his land shall be satisfied with bread: but he that followeth vain [persons is] void of understanding.
 <small><sub>**BSB:**</sub></small>
 The one who works his land will have plenty of food, but whoever chases fantasies lacks judgment.
+<small><sub>**Hebrew:**</sub></small>
+[[H5647I\|עֹבֵ֣ד]] [[H0127G\|אַ֭דְמָת]][[H9023\|וֹ]] [[H7646\|יִֽשְׂבַּֽע]][[H9014\|־]] [[H3899H\|לָ֑חֶם]] [[H9002\|וּ]][[H7291\|מְרַדֵּ֖ף]] [[H7386\|רֵיקִ֣ים]] [[H2638\|חֲסַר]][[H9014\|־]] [[H3820A\|לֵֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMPANY|COMPANY]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic INDUSTRY|INDUSTRY]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.10|<< Proverbs 12:10]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.12|Proverbs 12:12 >>]]</td></tr></table>
 

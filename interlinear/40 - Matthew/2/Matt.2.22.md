@@ -1,10 +1,68 @@
+---
+title: Matthew 2:22
+type: Verse
+kjv: "But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:"
+bsb: "But when he learned that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. And having been warned in a dream, he withdrew to the district of Galilee,"
+greek: "Ἀκούσας δὲ ὅτι Ἀρχέλαος βασιλεύει ἐπὶ τῆς Ἰουδαίας ἀντὶ τοῦ πατρὸς αὐτοῦ Ἡρῴδου ἐφοβήθη ἐκεῖ ἀπελθεῖν. χρηματισθεὶς δὲ κατ᾽ ὄναρ ἀνεχώρησεν εἰς τὰ μέρη τῆς Γαλιλαίας,"
+pericope: "[[Matt.2.19 The Return to Nazareth|The Return to Nazareth]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 2
+book/chapter: "[[Matt.2|Matthew 2]]"
+chronological_order: 932
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ARCHELAUS (ARCHAELAUS)|ARCHELAUS (ARCHAELAUS)]]"
+- "[[topic DREAM|DREAM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MIRACLES|MIRACLES]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G3754G]]"
+- "[[G0745]]"
+- "[[G0936]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2449]]"
+- "[[G0473]]"
+- "[[G3962]]"
+- "[[G0846]]"
+- "[[G2264G]]"
+- "[[G5399]]"
+- "[[G1563]]"
+- "[[G0565]]"
+- "[[G5537]]"
+- "[[G2596]]"
+- "[[G3677]]"
+- "[[G0402]]"
+- "[[G1519]]"
+- "[[G3313]]"
+- "[[G1056G]]"
+texts:
+- NKO
+- ko
+---
+
 **Matthew 2:22**<big><big>[[Matt.2.19 The Return to Nazareth|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But when he heard that Archelaus did reign in Judaea in the room of his father Herod, he was afraid to go thither: notwithstanding, being warned of God in a dream, he turned aside into the parts of Galilee:
 <small><sub>**BSB:**</sub></small>
 But when he learned that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. And having been warned in a dream, he withdrew to the district of Galilee,
-<small><sub>**Literal:**</sub></small>
-Having heard now that Archelaus rules upon <the> Judea in place of the father of him Herod he was afraid there to go. having been divinely warned now in a dream he withdrew into the district <the> of Galilee,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.21|<< Matthew 2:21]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.23|Matthew 2:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσας]]  [[G1161\|δὲ]]  [[G3754G\|ὅτι]]  [[G0745\|Ἀρχέλαος]]  [[G0936\|βασιλεύει]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2449\|Ἰουδαίας]]  [[G0473\|ἀντὶ]]  [[G3588\|τοῦ]]  [[G3962\|πατρὸς]]  [[G0846\|αὐτοῦ]]  [[G2264G\|Ἡρῴδου]]  [[G5399\|ἐφοβήθη]]  [[G1563\|ἐκεῖ]]  [[G0565\|ἀπελθεῖν.]]  [[G5537\|χρηματισθεὶς]]  [[G1161\|δὲ]]  [[G2596\|κατ᾽]]  [[G3677\|ὄναρ]]  [[G0402\|ἀνεχώρησεν]]  [[G1519\|εἰς]]  [[G3588\|τὰ]]  [[G3313\|μέρη]]  [[G3588\|τῆς]]  [[G1056G\|Γαλιλαίας,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHELAUS (ARCHAELAUS)|ARCHELAUS (ARCHAELAUS)]] • [[topic DREAM|DREAM]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MIRACLES|MIRACLES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.2.21|<< Matthew 2:21]]</td><td align="center" style="border:none;">[[Matt.2|Matthew 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.2.23|Matthew 2:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

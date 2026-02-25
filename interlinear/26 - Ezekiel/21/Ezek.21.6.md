@@ -1,8 +1,58 @@
+---
+title: Ezekiel 21:6
+type: Verse
+kjv: "Sigh therefore, thou son of man, with the breaking of thy loins; and with bitterness sigh before their eyes."
+bsb: "But you, son of man, groan! Groan before their eyes with a broken heart and bitter grief."
+hebrew: "וְאַתָּ֥ה בֶן־ אָדָ֖ם הֵֽאָנַ֑ח בְּשִׁבְר֤וֹן מָתְנַ֙יִם֙ וּבִמְרִיר֔וּת תֵּֽאָנַ֖ח לְעֵינֵיהֶֽם׃"
+pericope: "[[Ezek.21.1 God’s Sword of Judgment|God’s Sword of Judgment]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 21
+book/chapter: "[[Ezek.21|Ezekiel 21]]"
+chronological_order: 812
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic EZEKIEL|EZEKIEL]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H0120G]]"
+- "[[H0584]]"
+- "[[H9003]]"
+- "[[H7670]]"
+- "[[H4975]]"
+- "[[H4814]]"
+- "[[H9005]]"
+- "[[H5869A]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 21:6**<big><big>[[Ezek.21.1 God’s Sword of Judgment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Sigh therefore, thou son of man, with the breaking of [thy] loins; and with bitterness sigh before their eyes.
 <small><sub>**BSB:**</sub></small>
 But you, son of man, groan! Groan before their eyes with a broken heart and bitter grief.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֥ה]] [[H1121A\|בֶן]][[H9014\|־]] [[H0120G\|אָדָ֖ם]] [[H0584\|הֵֽאָנַ֑ח]] [[H9003\|בְּ]][[H7670\|שִׁבְר֤וֹן]] [[H4975\|מָתְנַ֙יִם֙]] [[H9002\|וּ]][[H9003\|בִ]][[H4814\|מְרִיר֔וּת]] [[H0584\|תֵּֽאָנַ֖ח]] [[H9005\|לְ]][[H5869A\|עֵינֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EZEKIEL|EZEKIEL]] • [[topic INSTRUCTION|INSTRUCTION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.21.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.21.5|<< Ezekiel 21:5]]</td><td align="center" style="border:none;">[[Ezek.21|Ezekiel 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.21.7|Ezekiel 21:7 >>]]</td></tr></table>
 

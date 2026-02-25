@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Tried but Trusting
+type: Pericope
 pericope: "[[Ps.86.1 Tried but Trusting|Tried but Trusting]]"
-verse_count: 18
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 86
 book/chapter: "[[Ps.86|Psalm 86]]"
-genre:
+chronological_order: 379
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 18
 verses:
 - "[[Ps.86.0]]"
 - "[[Ps.86.1]]"
@@ -39,7 +46,7 @@ verses:
 - "[[Ps.86.17]]"
 ---
 
-[[Ps.86|Psalm 86:1 - Psalm 86:17]]
+<small>[[Ps.86|Psalm 86:1-17]]</small>
 *Tried but Trusting*
 
 [[Ps.86.0|0]] A Prayer of David.

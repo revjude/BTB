@@ -1,8 +1,67 @@
+---
+title: 2 Chronicles 14:1
+type: Verse
+kjv: "So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years."
+bsb: "Then Abijah rested with his fathers and was buried in the City of David. And his son Asa reigned in his place, and in his days the land was at peace for ten years."
+hebrew: "וַיִּשְׁכַּ֨ב אֲבִיָּ֜ה עִם־ אֲבֹתָ֗יו וַיִּקְבְּר֤וּ אֹתוֹ֙ בְּעִ֣יר דָּוִ֔יד וַיִּמְלֹ֛ךְ אָסָ֥א בְנ֖וֹ תַּחְתָּ֑יו בְּיָמָ֛יו שָׁקְטָ֥ה הָאָ֖רֶץ עֶ֥שֶׂר שָׁנִֽים׃ פ"
+pericope: "[[2Chr.14.1 Asa Reigns in Judah|Asa Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 14
+book/chapter: "[[2Chr.14|2 Chronicles 14]]"
+chronological_order: 560
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic ABIJAM|ABIJAM]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+- "[[topic ZEPHATHAH|ZEPHATHAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H7901J]]"
+- "[[H0029I]]"
+- "[[H5973A]]"
+- "[[H9014]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H6912]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H5892B]]"
+- "[[H1732]]"
+- "[[H4427A]]"
+- "[[H0609G]]"
+- "[[H1121A]]"
+- "[[H8478H]]"
+- "[[H3117G]]"
+- "[[H8252]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H6235]]"
+- "[[H8141]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **2 Chronicles 14:1**<big><big>[[2Chr.14.1 Asa Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years.
 <small><sub>**BSB:**</sub></small>
 Then Abijah rested with his fathers and was buried in the City of David. And his son Asa reigned in his place, and in his days the land was at peace for ten years.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7901J\|יִּשְׁכַּ֨ב]] [[H0029I\|אֲבִיָּ֜ה]] [[H5973A\|עִם]][[H9014\|־]] [[H0001G\|אֲבֹתָ֗י]][[H9023\|ו]] [[H9001\|וַ]][[H6912\|יִּקְבְּר֤וּ]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9003\|בְּ]][[H5892B\|עִ֣יר]] [[H1732\|דָּוִ֔יד]] [[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H0609G\|אָסָ֥א]] [[H1121A\|בְנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּ֑י]][[H9033\|ו]] [[H9003\|בְּ]][[H3117G\|יָמָ֛י]][[H9023\|ו]] [[H8252\|שָׁקְטָ֥ה]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H6235\|עֶ֥שֶׂר]] [[H8141\|שָׁנִֽים]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIJAM|ABIJAM]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]] • [[topic ZEPHATHAH|ZEPHATHAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.14.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.22|<< 2 Chronicles 13:22]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.2|2 Chronicles 14:2 >>]]</td></tr></table>
 
@@ -24,7 +83,7 @@ Then Abijah rested with his fathers and was buried in the City of David. And his
 | it was at peace  |**<big>&#8207;[[H8252\|שָׁקְטָ֥ה]]&#8207; </big>**| sha.ke.Tah<small><sup>[[HVqp3fs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | the land  |**<big>&#8207;[[H9009\|הָ]]&#8207;&#8207;[[H0776G\|אָ֖רֶץ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'A.retz<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | ten  |**<big>&#8207;[[H6235\|עֶ֥שֶׂר]]&#8207; </big>**| 'E.ser<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| years  |**<big>&#8207;[[H8141\|שָׁנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| years  |**<big>&#8207;[[H8141\|שָׁנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| sha.Nim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.13.22|<< 2 Chronicles 13:22]]</td><td align="center" style="border:none;">[[2Chr.14|2 Chronicles 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.14.2|2 Chronicles 14:2 >>]]</td></tr></table>
 
 

@@ -1,8 +1,70 @@
+---
+title: 2 Samuel 15:18
+type: Verse
+kjv: "And all his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men which came after him from Gath, passed on before the king."
+bsb: "and all his servants marched past him—all the Cherethites and Pelethites, and six hundred Gittites who had followed him from Gath."
+hebrew: "וְכָל־ עֲבָדָיו֙ עֹבְרִ֣ים עַל־ יָד֔וֹ וְכָל־ הַכְּרֵתִ֖י וְכָל־ הַפְּלֵתִ֑י וְכָֽל־ הַגִּתִּ֞ים שֵׁשׁ־ מֵא֣וֹת אִ֗ישׁ אֲשֶׁר־ בָּ֤אוּ בְרַגְלוֹ֙ מִגַּ֔ת עֹבְרִ֖ים עַל־ פְּנֵ֥י הַמֶּֽלֶךְ׃"
+pericope: "[[2Sam.15.13 David Flees Jerusalem|David Flees Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 15
+book/chapter: "[[2Sam.15|2 Samuel 15]]"
+chronological_order: 414
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic CHERETHITES|CHERETHITES]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic GATH|GATH]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic KING|KING]]"
+- "[[topic PELETHITES|PELETHITES]]"
+strongs:
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H5650]]"
+- "[[H9023]]"
+- "[[H5674A]]"
+- "[[H5921A]]"
+- "[[H3027I]]"
+- "[[H9009]]"
+- "[[H3774H]]"
+- "[[H6432]]"
+- "[[H1663]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H7272]]"
+- "[[H9006]]"
+- "[[H1661]]"
+- "[[H6440G]]"
+- "[[H4428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 15:18**<big><big>[[2Sam.15.13 David Flees Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And all his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men which came after him from Gath, passed on before the king.
 <small><sub>**BSB:**</sub></small>
 and all his servants marched past him—all the Cherethites and Pelethites, and six hundred Gittites who had followed him from Gath.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H5650\|עֲבָדָי]][[H9023\|ו֙]] [[H5674A\|עֹבְרִ֣ים]] [[H5921A\|עַל]][[H9014\|־]] [[H3027I\|יָד֔]][[H9023\|וֹ]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H3774H\|כְּרֵתִ֖י]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H6432\|פְּלֵתִ֑י]] [[H9002\|וְ]][[H3605\|כָֽל]][[H9014\|־]] [[H9009\|הַ]][[H1663\|גִּתִּ֞ים]] [[H8337\|שֵׁשׁ]][[H9014\|־]] [[H3967\|מֵא֣וֹת]] [[H0376G\|אִ֗ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0935G\|בָּ֤אוּ]] [[H9003\|בְ]][[H7272\|רַגְל]][[H9023\|וֹ֙]] [[H9006\|מִ]][[H1661\|גַּ֔ת]] [[H5674A\|עֹבְרִ֖ים]] [[H5921A\|עַל]][[H9014\|־]] [[H6440G\|פְּנֵ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHERETHITES|CHERETHITES]] • [[topic DAVID|DAVID]] • [[topic GATH|GATH]] • [[topic ISRAEL|ISRAEL]] • [[topic KING|KING]] • [[topic PELETHITES|PELETHITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.15.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.15.17|<< 2 Samuel 15:17]]</td><td align="center" style="border:none;">[[2Sam.15|2 Samuel 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.15.19|2 Samuel 15:19 >>]]</td></tr></table>
 

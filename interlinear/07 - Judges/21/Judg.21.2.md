@@ -1,8 +1,63 @@
+---
+title: Judges 21:2
+type: Verse
+kjv: "And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore;"
+bsb: "So the people came to Bethel and sat there before God until evening, lifting up their voices and weeping bitterly."
+hebrew: "וַיָּבֹ֤א הָעָם֙ בֵּֽית־ אֵ֔ל וַיֵּ֤שְׁבוּ שָׁם֙ עַד־ הָעֶ֔רֶב לִפְנֵ֖י הָאֱלֹהִ֑ים וַיִּשְׂא֣וּ קוֹלָ֔ם וַיִּבְכּ֖וּ בְּכִ֥י גָדֽוֹל׃"
+pericope: "[[Judg.21.1 Wives for the Benjamites|Wives for the Benjamites]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 21
+book/chapter: "[[Judg.21|Judges 21]]"
+chronological_order: 275
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic NATION|NATION]]"
+- "[[topic RASHNESS|RASHNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H1008G]]"
+- "[[H9014]]"
+- "[[H3427]]"
+- "[[H8033G]]"
+- "[[H5704]]"
+- "[[H6153]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H0430G]]"
+- "[[H5375N]]"
+- "[[H6963A]]"
+- "[[H9028]]"
+- "[[H1058]]"
+- "[[H1065]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 21:2**<big><big>[[Judg.21.1 Wives for the Benjamites|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people came to the house of God, and abode there till even before God, and lifted up their voices, and wept sore;
 <small><sub>**BSB:**</sub></small>
 So the people came to Bethel and sat there before God until evening, lifting up their voices and weeping bitterly.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּבֹ֤א]] [[H9009\|הָ]][[H5971A\|עָם֙]] [[H1008G\|בֵּֽית]][[H9014\|־]] [[H1008G\|אֵ֔ל]] [[H9001\|וַ]][[H3427\|יֵּ֤שְׁבוּ]] [[H8033G\|שָׁם֙]] [[H5704\|עַד]][[H9014\|־]] [[H9009\|הָ]][[H6153\|עֶ֔רֶב]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H9009\|הָ]][[H0430G\|אֱלֹהִ֑ים]] [[H9001\|וַ]][[H5375N\|יִּשְׂא֣וּ]] [[H6963A\|קוֹלָ֔]][[H9028\|ם]] [[H9001\|וַ]][[H1058\|יִּבְכּ֖וּ]] [[H1065\|בְּכִ֥י]] [[H1419A\|גָדֽוֹל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETH-EL|BETH-EL]] • [[topic CHURCH|CHURCH]] • [[topic NATION|NATION]] • [[topic RASHNESS|RASHNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.21.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.21.1|<< Judges 21:1]]</td><td align="center" style="border:none;">[[Judg.21|Judges 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.21.3|Judges 21:3 >>]]</td></tr></table>
 

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Guilt Offering
+type: Pericope
 pericope: "[[Lev.7.1 The Guilt Offering|The Guilt Offering]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Leviticus
 chapter: 7
 book/chapter: "[[Lev.7|Leviticus 7]]"
-genre:
+chronological_order: 139
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - priestly literature
 - purity laws
 - sacrificial codes
+verse_count: 10
 verses:
 - "[[Lev.7.1]]"
 - "[[Lev.7.2]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Lev.7.10]]"
 ---
 
-[[Lev.7|Leviticus 7:1 - Leviticus 7:10]]
+<small>[[Lev.7|Leviticus 7:1-10]]</small>
 *The Guilt Offering*
 
 [[Lev.7.1|1]] Likewise this \[is\] the law of the trespass offering: it \[is\] most holy.

@@ -1,8 +1,66 @@
+---
+title: 2 Kings 23:36
+type: Verse
+kjv: "Jehoiakim was twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother’s name was Zebudah, the daughter of Pedaiah of Rumah."
+bsb: "Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Zebidah daughter of Pedaiah; she was from Rumah."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וְחָמֵ֤שׁ שָׁנָ֨ה יְהוֹיָקִ֣ים בְּמָלְכ֔וֹ וְאַחַ֤ת עֶשְׂרֵה֙ שָׁנָ֔ה מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֣ם אִמּ֔וֹ זְבוּדָּ֥ה בַת־ פְּדָיָ֖ה מִן־ רוּמָֽה׃"
+pericope: "[[2Kgs.23.36 Jehoiakim Reigns in Judah|Jehoiakim Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 23
+book/chapter: "[[2Kgs.23|2 Kings 23]]"
+chronological_order: 712
+era: Exile
+period: "Judah Alone: Josiah's Reform"
+date: ~640–609 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic JEHOIAKIM|JEHOIAKIM]]"
+- "[[topic PEDAIAH|PEDAIAH]]"
+- "[[topic RUMAH|RUMAH]]"
+- "[[topic ZEBUDAH|ZEBUDAH]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H8141]]"
+- "[[H3079]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H0259]]"
+- "[[H6240]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H2080]]"
+- "[[H1323G]]"
+- "[[H6305G]]"
+- "[[H4480A]]"
+- "[[H7316H]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 23:36**<big><big>[[2Kgs.23.36 Jehoiakim Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Jehoiakim [was] twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother’s name [was] Zebudah, the daughter of Pedaiah of Rumah.
 <small><sub>**BSB:**</sub></small>
 Jehoiakim was twenty-five years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Zebidah daughter of Pedaiah; she was from Rumah.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וְ]][[H2568\|חָמֵ֤שׁ]] [[H8141\|שָׁנָ֨ה]] [[H3079\|יְהוֹיָקִ֣ים]] [[H9003\|בְּ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H0259\|אַחַ֤ת]] [[H6240\|עֶשְׂרֵה֙]] [[H8141\|שָׁנָ֔ה]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֣ם]] [[H0517\|אִמּ֔]][[H9023\|וֹ]] [[H2080\|זְבוּדָּ֥ה]] [[H1323G\|בַת]][[H9014\|־]] [[H6305G\|פְּדָיָ֖ה]] [[H4480A\|מִן]][[H9014\|־]] [[H7316H\|רוּמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOIAKIM|JEHOIAKIM]] • [[topic PEDAIAH|PEDAIAH]] • [[topic RUMAH|RUMAH]] • [[topic ZEBUDAH|ZEBUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.23.36|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.23.35|<< 2 Kings 23:35]]</td><td align="center" style="border:none;">[[2Kgs.23|2 Kings 23]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.23.37|2 Kings 23:37 >>]]</td></tr></table>
 

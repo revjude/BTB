@@ -1,10 +1,59 @@
+---
+title: Acts 8:34
+type: Verse
+kjv: "And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man?"
+bsb: "“Tell me,” said the eunuch, “who is the prophet talking about, himself or someone else?”"
+greek: "Ἀποκριθεὶς δὲ ὁ εὐνοῦχος τῷ Φιλίππῳ εἶπεν· δέομαί σου, περὶ τίνος ὁ προφήτης λέγει τοῦτο; περὶ ἑαυτοῦ, ἢ περὶ ἑτέρου τινός;"
+pericope: "[[Acts.8.26 Philip and the Ethiopian|Philip and the Ethiopian]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 8
+book/chapter: "[[Acts.8|Acts 8]]"
+chronological_order: 1026
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic ETHIOPIA|ETHIOPIA]]"
+- "[[topic GAZA|GAZA]]"
+- "[[topic PHILIP|PHILIP]]"
+- "[[topic PREACHING|PREACHING]]"
+strongs:
+- "[[G0611]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2135]]"
+- "[[G5376J]]"
+- "[[G2036]]"
+- "[[G1189]]"
+- "[[G4771]]"
+- "[[G4012]]"
+- "[[G5101]]"
+- "[[G4396]]"
+- "[[G3004G]]"
+- "[[G3778]]"
+- "[[G1438]]"
+- "[[G2228]]"
+- "[[G2087]]"
+- "[[G5100]]"
+texts:
+- NKO
+---
+
 **Acts 8:34**<big><big>[[Acts.8.26 Philip and the Ethiopian|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man?
 <small><sub>**BSB:**</sub></small>
 “Tell me,” said the eunuch, “who is the prophet talking about, himself or someone else?”
-<small><sub>**Literal:**</sub></small>
-Answering now the eunuch <the> to Philip said; I pray you, concerning whom the prophet says this? Concerning himself, or concerning other some?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.33|<< Acts 8:33]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.35|Acts 8:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀποκριθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2135\|εὐνοῦχος]]  [[G3588\|τῷ]]  [[G5376J\|Φιλίππῳ]]  [[G2036\|εἶπεν·]]  [[G1189\|δέομαί]]  [[G4771\|σου,]]  [[G4012\|περὶ]]  [[G5101\|τίνος]]  [[G3588\|ὁ]]  [[G4396\|προφήτης]]  [[G3004G\|λέγει]]  [[G3778\|τοῦτο;]]  [[G4012\|περὶ]]  [[G1438\|ἑαυτοῦ,]]  [[G2228\|ἢ]]  [[G4012\|περὶ]]  [[G2087\|ἑτέρου]]  [[G5100\|τινός;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ETHIOPIA|ETHIOPIA]] • [[topic GAZA|GAZA]] • [[topic PHILIP|PHILIP]] • [[topic PREACHING|PREACHING]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.8.33|<< Acts 8:33]]</td><td align="center" style="border:none;">[[Acts.8|Acts 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.8.35|Acts 8:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

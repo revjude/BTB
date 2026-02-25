@@ -1,8 +1,50 @@
+---
+title: Nehemiah 11:2
+type: Verse
+kjv: "And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem."
+bsb: "And the people blessed all the men who volunteered to live in Jerusalem."
+hebrew: "וַֽיְבָרֲכ֖וּ הָעָ֑ם לְכֹל֙ הָֽאֲנָשִׁ֔ים הַמִּֽתְנַדְּבִ֔ים לָשֶׁ֖בֶת בִּירוּשָׁלִָֽם׃ פ"
+pericope: "[[Neh.11.1 Jerusalem’s New Settlers|Jerusalem’s New Settlers]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 11
+book/chapter: "[[Neh.11|Nehemiah 11]]"
+chronological_order: 923
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+strongs:
+- "[[H9001]]"
+- "[[H1288]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H9005]]"
+- "[[H3605]]"
+- "[[H0582]]"
+- "[[H5068]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H3389]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Nehemiah 11:2**<big><big>[[Neh.11.1 Jerusalem’s New Settlers|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem.
 <small><sub>**BSB:**</sub></small>
 And the people blessed all the men who volunteered to live in Jerusalem.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1288\|יְבָרֲכ֖וּ]] [[H9009\|הָ]][[H5971A\|עָ֑ם]] [[H9005\|לְ]][[H3605\|כֹל֙]] [[H9009\|הָֽ]][[H0582\|אֲנָשִׁ֔ים]] [[H9009\|הַ]][[H5068\|מִּֽתְנַדְּבִ֔ים]] [[H9005\|לָ]][[H3427\|שֶׁ֖בֶת]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]] [[H9017\|פ]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.11.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.1|<< Nehemiah 11:1]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.3|Nehemiah 11:3 >>]]</td></tr></table>
 
@@ -14,7 +56,7 @@ And the people blessed all the men who volunteered to live in Jerusalem.
 | the men  |**<big>&#8207;[[H9009\|הָֽ]]&#8207;&#8207;[[H0582\|אֲנָשִׁ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> 'a.na.Shim<small><sup>[[HNcmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | who volunteered  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5068\|מִּֽתְנַדְּבִ֔ים]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> mit.na.de.Vim<small><sup>[[HVtrmpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to dwell  |**<big>&#8207;[[H9005\|לָ]]&#8207;&#8207;[[H3427\|שֶׁ֖בֶת]]&#8207; </big>**| la.<small><sup>[[HR]]</sup></small> She.vet<small><sup>[[HVqcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| in Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| in Jerusalem  |**<big>&#8207;[[H9003\|בִּ]]&#8207;&#8207;[[H3389\|ירוּשָׁלִָֽם]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| bi.<small><sup>[[HR]]</sup></small> ru.sha.Lim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.11.1|<< Nehemiah 11:1]]</td><td align="center" style="border:none;">[[Neh.11|Nehemiah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.11.3|Nehemiah 11:3 >>]]</td></tr></table>
 
 

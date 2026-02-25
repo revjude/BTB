@@ -1,8 +1,72 @@
+---
+title: Ruth 2:9
+type: Verse
+kjv: "Let thine eyes be on the field that they do reap, and go thou after them: have I not charged the young men that they shall not touch thee? and when thou art athirst, go unto the vessels, and drink of that which the young men have drawn."
+bsb: "Let your eyes be on the field they are harvesting, and follow along after these girls. Indeed, I have ordered the young men not to touch you. And when you are thirsty, go and drink from the jars the young men have filled.”"
+hebrew: "עֵינַ֜יִךְ בַּשָּׂדֶ֤ה אֲשֶׁר־ יִקְצֹרוּן֙ וְהָלַ֣כְתִּ אַחֲרֵיהֶ֔ן הֲל֥וֹא צִוִּ֛יתִי אֶת־ הַנְּעָרִ֖ים לְבִלְתִּ֣י נָגְעֵ֑ךְ וְצָמִ֗ת וְהָלַכְתְּ֙ אֶל־ הַכֵּלִ֔ים וְשָׁתִ֕ית מֵאֲשֶׁ֥ר יִשְׁאֲב֖וּן הַנְּעָרִֽים׃"
+pericope: "[[Ruth.2.1 Boaz Meets Ruth|Boaz Meets Ruth]]"
+original_language: Hebrew
+testament: Old
+book: Ruth
+chapter: 2
+book/chapter: "[[Ruth.2|Ruth 2]]"
+chronological_order: 277
+era: Conquest and Judges
+period: "Ruth and the Ancestry of David"
+date: ~1150–1100 BC
+book_genre:
+- narrative
+- short story
+- idyllic narrative
+- megillot
+topics:
+- "[[topic RUTH|RUTH]]"
+strongs:
+- "[[H5869A]]"
+- "[[H9022]]"
+- "[[H9003]]"
+- "[[H7704G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H7114B]]"
+- "[[H9013]]"
+- "[[H9001]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H9039]]"
+- "[[H9008]]"
+- "[[H3808]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H5288]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H5060]]"
+- "[[H9032]]"
+- "[[H6770]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H3627]]"
+- "[[H8354]]"
+- "[[H9006]]"
+- "[[H0834C]]"
+- "[[H7579]]"
+- "[[H9016]]"
+texts:
+- L
+- L(abh)
+---
+
 **Ruth 2:9**<big><big>[[Ruth.2.1 Boaz Meets Ruth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Let] thine eyes [be] on the field that they do reap, and go thou after them: have I not charged the young men that they shall not touch thee? and when thou art athirst, go unto the vessels, and drink of [that] which the young men have drawn.
 <small><sub>**BSB:**</sub></small>
 Let your eyes be on the field they are harvesting, and follow along after these girls. Indeed, I have ordered the young men not to touch you. And when you are thirsty, go and drink from the jars the young men have filled.”
+<small><sub>**Hebrew:**</sub></small>
+[[H5869A\|עֵינַ֜יִ]][[H9022\|ךְ]] [[H9003\|בַּ]][[H7704G\|שָּׂדֶ֤ה]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H7114B\|יִקְצֹרוּ]][[H9013\|ן֙]] [[H9001\|וְ]][[H1980N\|הָלַ֣כְתִּ]] [[H0310A\|אַחֲרֵי]][[H9039\|הֶ֔ן]] [[H9008\|הֲ]][[H3808\|ל֥וֹא]] [[H6680\|צִוִּ֛יתִי]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5288\|נְּעָרִ֖ים]] [[H9005\|לְ]][[H1115\|בִלְתִּ֣י]] [[H5060\|נָגְעֵ֑]][[H9032\|ךְ]] [[H9001\|וְ]][[H6770\|צָמִ֗ת]] [[H9001\|וְ]][[H1980G\|הָלַכְתְּ֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H3627\|כֵּלִ֔ים]] [[H9001\|וְ]][[H8354\|שָׁתִ֕ית]] [[H9006\|מֵ]][[H0834C\|אֲשֶׁ֥ר]] [[H7579\|יִשְׁאֲב֖וּ]][[H9013\|ן]] [[H9009\|הַ]][[H5288\|נְּעָרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic RUTH|RUTH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ruth.2.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ruth.2.8|<< Ruth 2:8]]</td><td align="center" style="border:none;">[[Ruth.2|Ruth 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ruth.2.10|Ruth 2:10 >>]]</td></tr></table>
 

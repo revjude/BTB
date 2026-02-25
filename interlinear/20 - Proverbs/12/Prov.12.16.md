@@ -1,8 +1,53 @@
+---
+title: Proverbs 12:16
+type: Verse
+kjv: "A fool’s wrath is presently known: but a prudent man covereth shame."
+bsb: "A fool’s anger is known at once, but a prudent man overlooks an insult."
+hebrew: "אֱוִ֗יל בַּ֭יּוֹם יִוָּדַ֣ע כַּעְס֑וֹ וְכֹסֶ֖ה קָל֣וֹן עָרֽוּם׃"
+pericope: "[[Prov.12.1 Loving Discipline and Knowledge|Loving Discipline and Knowledge]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 12
+book/chapter: "[[Prov.12|Proverbs 12]]"
+chronological_order: 467
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic ANGER|ANGER]]"
+- "[[topic PRUDENCE|PRUDENCE]]"
+- "[[topic SPEAKING|SPEAKING]]"
+strongs:
+- "[[H0191]]"
+- "[[H9003]]"
+- "[[H3117L]]"
+- "[[H3045]]"
+- "[[H3708A]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H3680]]"
+- "[[H7036]]"
+- "[[H6175]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 12:16**<big><big>[[Prov.12.1 Loving Discipline and Knowledge|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A fool’s wrath is presently known: but a prudent [man] covereth shame.
 <small><sub>**BSB:**</sub></small>
 A fool’s anger is known at once, but a prudent man overlooks an insult.
+<small><sub>**Hebrew:**</sub></small>
+[[H0191\|אֱוִ֗יל]] [[H9003\|בַּ֭]][[H3117L\|יּוֹם]] [[H3045\|יִוָּדַ֣ע]] [[H3708A\|כַּעְס֑]][[H9023\|וֹ]] [[H9002\|וְ]][[H3680\|כֹסֶ֖ה]] [[H7036\|קָל֣וֹן]] [[H6175\|עָרֽוּם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGER|ANGER]] • [[topic PRUDENCE|PRUDENCE]] • [[topic SPEAKING|SPEAKING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.12.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.12.15|<< Proverbs 12:15]]</td><td align="center" style="border:none;">[[Prov.12|Proverbs 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.12.17|Proverbs 12:17 >>]]</td></tr></table>
 

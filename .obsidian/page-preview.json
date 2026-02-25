@@ -1,4 +1,5 @@
 {
   "bases": false,
-  "editor": false
+  "editor": false,
+  "properties": false
 }

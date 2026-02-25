@@ -1,8 +1,56 @@
+---
+title: Isaiah 27:6
+type: Verse
+kjv: "He shall cause them that come of Jacob to take root: Israel shall blossom and bud, and fill the face of the world with fruit."
+bsb: "In the days to come, Jacob will take root. Israel will bud and blossom and fill the whole world with fruit."
+hebrew: "הַבָּאִים֙ יַשְׁרֵ֣שׁ יַֽעֲקֹ֔ב יָצִ֥יץ וּפָרַ֖ח יִשְׂרָאֵ֑ל וּמָלְא֥וּ פְנֵי־ תֵבֵ֖ל תְּנוּבָֽה׃ ס"
+pericope: "[[Isa.27.1 The LORD’s Vineyard|The LORD’s Vineyard]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 27
+book/chapter: "[[Isa.27|Isaiah 27]]"
+chronological_order: 670
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic SYMBOLS|SYMBOLS]]"
+strongs:
+- "[[H9009]]"
+- "[[H0935G]]"
+- "[[H8327]]"
+- "[[H3290]]"
+- "[[H6692A]]"
+- "[[H9001]]"
+- "[[H6524A]]"
+- "[[H3478]]"
+- "[[H4390]]"
+- "[[H6440J]]"
+- "[[H9014]]"
+- "[[H8398]]"
+- "[[H8570]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Isaiah 27:6**<big><big>[[Isa.27.1 The LORD’s Vineyard|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He shall cause them that come of Jacob to take root: Israel shall blossom and bud, and fill the face of the world with fruit.
 <small><sub>**BSB:**</sub></small>
 In the days to come, Jacob will take root. Israel will bud and blossom and fill the whole world with fruit.
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H0935G\|בָּאִים֙]] [[H8327\|יַשְׁרֵ֣שׁ]] [[H3290\|יַֽעֲקֹ֔ב]] [[H6692A\|יָצִ֥יץ]] [[H9001\|וּ]][[H6524A\|פָרַ֖ח]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H9001\|וּ]][[H4390\|מָלְא֥וּ]] [[H6440J\|פְנֵי]][[H9014\|־]] [[H8398\|תֵבֵ֖ל]] [[H8570\|תְּנוּבָֽה]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SYMBOLS|SYMBOLS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.27.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.5|<< Isaiah 27:5]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.7|Isaiah 27:7 >>]]</td></tr></table>
 
@@ -17,7 +65,7 @@ In the days to come, Jacob will take root. Israel will bud and blossom and fill 
 | and they will fill  |**<big>&#8207;[[H9001\|וּ]]&#8207;&#8207;[[H4390\|מָלְא֥וּ]]&#8207; </big>**| u.<small><sup>[[Hc]]</sup></small> mal.'U<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] surface of  |**<big>&#8207;[[H6440J\|פְנֵי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| fe.nei-<small><sup>[[HNcmpc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [the] world  |**<big>&#8207;[[H8398\|תֵבֵ֖ל]]&#8207; </big>**| te.Vel<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| fruit  |**<big>&#8207;[[H8570\|תְּנוּבָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| te.nu.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| fruit  |**<big>&#8207;[[H8570\|תְּנוּבָֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| te.nu.Vah<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.27.5|<< Isaiah 27:5]]</td><td align="center" style="border:none;">[[Isa.27|Isaiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.27.7|Isaiah 27:7 >>]]</td></tr></table>
 
 

@@ -1,8 +1,67 @@
+---
+title: Genesis 44:2
+type: Verse
+kjv: "And put my cup, the silver cup, in the sack’s mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken."
+bsb: "Put my cup, the silver one, in the mouth of the youngest one’s sack, along with the silver for his grain.” So the steward did as Joseph had instructed."
+hebrew: "וְאֶת־ גְּבִיעִ֞י גְּבִ֣יעַ הַכֶּ֗סֶף תָּשִׂים֙ בְּפִי֙ אַמְתַּ֣חַת הַקָּטֹ֔ן וְאֵ֖ת כֶּ֣סֶף שִׁבְר֑וֹ וַיַּ֕עַשׂ כִּדְבַ֥ר יוֹסֵ֖ף אֲשֶׁ֥ר דִּבֵּֽר׃"
+pericope: "[[Gen.44.1 Benjamin and the Silver Cup|Benjamin and the Silver Cup]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 44
+book/chapter: "[[Gen.44|Genesis 44]]"
+chronological_order: 86
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1375]]"
+- "[[H9020]]"
+- "[[H9009]]"
+- "[[H3701G]]"
+- "[[H7760H]]"
+- "[[H9003]]"
+- "[[H6310G]]"
+- "[[H0572]]"
+- "[[H6996H]]"
+- "[[H7668]]"
+- "[[H9023]]"
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9004]]"
+- "[[H1697G]]"
+- "[[H3130G]]"
+- "[[H0834A]]"
+- "[[H1696G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 44:2**<big><big>[[Gen.44.1 Benjamin and the Silver Cup|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And put my cup, the silver cup, in the sack’s mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.
 <small><sub>**BSB:**</sub></small>
 Put my cup, the silver one, in the mouth of the youngest one’s sack, along with the silver for his grain.” So the steward did as Joseph had instructed.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1375\|גְּבִיעִ֞]][[H9020\|י]] [[H1375\|גְּבִ֣יעַ]] [[H9009\|הַ]][[H3701G\|כֶּ֗סֶף]] [[H7760H\|תָּשִׂים֙]] [[H9003\|בְּ]][[H6310G\|פִי֙]] [[H0572\|אַמְתַּ֣חַת]] [[H9009\|הַ]][[H6996H\|קָּטֹ֔ן]] [[H9002\|וְ]][[H0853\|אֵ֖ת]] [[H3701G\|כֶּ֣סֶף]] [[H7668\|שִׁבְר֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H6213A\|יַּ֕עַשׂ]] [[H9004\|כִּ]][[H1697G\|דְבַ֥ר]] [[H3130G\|יוֹסֵ֖ף]] [[H0834A\|אֲשֶׁ֥ר]] [[H1696G\|דִּבֵּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic MONEY|MONEY]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.44.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.44.1|<< Genesis 44:1]]</td><td align="center" style="border:none;">[[Gen.44|Genesis 44]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.44.3|Genesis 44:3 >>]]</td></tr></table>
 

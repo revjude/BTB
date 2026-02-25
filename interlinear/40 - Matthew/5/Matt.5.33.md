@@ -1,10 +1,61 @@
+---
+title: Matthew 5:33
+type: Verse
+kjv: "Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:"
+bsb: "Again, you have heard that it was said to the ancients, ‘Do not break your oath, but fulfill your vows to the Lord.’"
+jesus_said: "Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:"
+greek: "Πάλιν ἠκούσατε ὅτι ἐρρέθη τοῖς ἀρχαίοις· οὐκ ἐπιορκήσεις, ἀποδώσεις δὲ τῷ κυρίῳ τοὺς ὅρκους σου."
+pericope: "[[Matt.5.33 Oaths and Vows|Oaths and Vows]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 5
+book/chapter: "[[Matt.5|Matthew 5]]"
+chronological_order: 943
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic JUDAISM|JUDAISM]]"
+- "[[topic LAW|LAW]]"
+- "[[topic OATH|OATH]]"
+- "[[topic PERJURY|PERJURY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic RELIGION|RELIGION]]"
+strongs:
+- "[[G3825]]"
+- "[[G0191]]"
+- "[[G3754G]]"
+- "[[G2046]]"
+- "[[G3588]]"
+- "[[G0744]]"
+- "[[G3756]]"
+- "[[G1964]]"
+- "[[G0591]]"
+- "[[G1161]]"
+- "[[G2962G]]"
+- "[[G3727]]"
+- "[[G4771]]"
+texts:
+- NKO
+---
+
 **Matthew 5:33**<big><big>[[Matt.5.33 Oaths and Vows|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Again, ye have heard that it hath been said by them of old time, Thou shalt not forswear thyself, but shalt perform unto the Lord thine oaths:
 <small><sub>**BSB:**</sub></small>
 Again, you have heard that it was said to the ancients, ‘Do not break your oath, but fulfill your vows to the Lord.’
-<small><sub>**Literal:**</sub></small>
-Again you have heard that it was said to the ancients; Not will you swear falsely, you will keep now to the Lord the oaths of you.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.32|<< Matthew 5:32]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.34|Matthew 5:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3825\|Πάλιν]]  [[G0191\|ἠκούσατε]]  [[G3754G\|ὅτι]]  [[G2046\|ἐρρέθη]]  [[G3588\|τοῖς]]  [[G0744\|ἀρχαίοις·]]  [[G3756\|οὐκ]]  [[G1964\|ἐπιορκήσεις,]]  [[G0591\|ἀποδώσεις]]  [[G1161\|δὲ]]  [[G3588\|τῷ]]  [[G2962G\|κυρίῳ]]  [[G3588\|τοὺς]]  [[G3727\|ὅρκους]]  [[G4771\|σου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic JUDAISM|JUDAISM]] • [[topic LAW|LAW]] • [[topic OATH|OATH]] • [[topic PERJURY|PERJURY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic RELIGION|RELIGION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.5.32|<< Matthew 5:32]]</td><td align="center" style="border:none;">[[Matt.5|Matthew 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.5.34|Matthew 5:34 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 5:33** is...
 > $\quad$ referencing: [[LXX.Exod.20.7|Exod 20:7]] ☩ [[LXX.Lev.19.12|Lev 19:12]] ☩ [[LXX.Num.30.2|Num 30:2]]

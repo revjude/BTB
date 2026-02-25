@@ -1,8 +1,61 @@
+---
+title: Exodus 36:30
+type: Verse
+kjv: "And there were eight boards; and their sockets were sixteen sockets of silver, under every board two sockets."
+bsb: "So there were eight frames and sixteen silver bases—two under each frame."
+hebrew: "וְהָיוּ֙ שְׁמֹנָ֣ה קְרָשִׁ֔ים וְאַדְנֵיהֶ֣ם כֶּ֔סֶף שִׁשָּׁ֥ה עָשָׂ֖ר אֲדָנִ֑ים שְׁנֵ֤י אֲדָנִים֙ שְׁנֵ֣י אֲדָנִ֔ים תַּ֖חַת הַקֶּ֥רֶשׁ הָאֶחָֽד׃"
+pericope: "[[Exod.36.20 The Frames and Bases|The Frames and Bases]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 36
+book/chapter: "[[Exod.36|Exodus 36]]"
+chronological_order: 128
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic TABERNACLE|TABERNACLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H8083]]"
+- "[[H7175]]"
+- "[[H9002]]"
+- "[[H0134]]"
+- "[[H9028]]"
+- "[[H3701G]]"
+- "[[H8337]]"
+- "[[H6240]]"
+- "[[H8147]]"
+- "[[H8478G]]"
+- "[[H9009]]"
+- "[[H0259]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 36:30**<big><big>[[Exod.36.20 The Frames and Bases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And there were eight boards; and their sockets [were] sixteen sockets of silver, under every board two sockets.
 <small><sub>**BSB:**</sub></small>
 So there were eight frames and sixteen silver bases—two under each frame.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H8083\|שְׁמֹנָ֣ה]] [[H7175\|קְרָשִׁ֔ים]] [[H9002\|וְ]][[H0134\|אַדְנֵי]][[H9028\|הֶ֣ם]] [[H3701G\|כֶּ֔סֶף]] [[H8337\|שִׁשָּׁ֥ה]] [[H6240\|עָשָׂ֖ר]] [[H0134\|אֲדָנִ֑ים]] [[H8147\|שְׁנֵ֤י]] [[H0134\|אֲדָנִים֙]] [[H8147\|שְׁנֵ֣י]] [[H0134\|אֲדָנִ֔ים]] [[H8478G\|תַּ֖חַת]] [[H9009\|הַ]][[H7175\|קֶּ֥רֶשׁ]] [[H9009\|הָ]][[H0259\|אֶחָֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic TABERNACLE|TABERNACLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.36.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.36.29|<< Exodus 36:29]]</td><td align="center" style="border:none;">[[Exod.36|Exodus 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.36.31|Exodus 36:31 >>]]</td></tr></table>
 

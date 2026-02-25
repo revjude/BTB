@@ -1,10 +1,67 @@
+---
+title: John 14:9
+type: Verse
+kjv: "Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?"
+bsb: "Jesus replied, “Philip, I have been with you all this time, and still you do not know Me? Anyone who has seen Me has seen the Father. How can you say, ‘Show us the Father’?"
+jesus_said: "Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou then, Shew us the Father?"
+greek: "λέγει αὐτῷ ὁ Ἰησοῦς· τοσούτῳ χρόνῳ μεθ᾽ ὑμῶν εἰμι, καὶ οὐκ ἔγνωκάς με, Φίλιππε; ὁ ἑωρακὼς ἐμὲ ἑώρακεν τὸν πατέρα· καὶ πῶς σὺ λέγεις· δεῖξον ἡμῖν τὸν πατέρα;"
+pericope: "[[John.14.5 The Way, the Truth, and the Life|The Way, the Truth, and the Life]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 14
+book/chapter: "[[John.14|John 14]]"
+chronological_order: 1002
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic APOSTLES|APOSTLES]]"
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHILIP|PHILIP]]"
+strongs:
+- "[[G3004G]]"
+- "[[G0846]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G5118]]"
+- "[[G5550]]"
+- "[[G3326]]"
+- "[[G4771]]"
+- "[[G1510]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1097]]"
+- "[[G3165]]"
+- "[[G5376G]]"
+- "[[G3708]]"
+- "[[G1473]]"
+- "[[G3962]]"
+- "[[G4459]]"
+- "[[G1166]]"
+texts:
+- NKO
+- N(k)O
+- ko
+---
+
 **John 14:9**<big><big>[[John.14.5 The Way, the Truth, and the Life|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus saith unto him, Have I been so long time with you, and yet hast thou not known me, Philip? he that hath seen me hath seen the Father; and how sayest thou [then], Shew us the Father?
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Philip, I have been with you all this time, and still you do not know Me? Anyone who has seen Me has seen the Father. How can you say, ‘Show us the Father’?
-<small><sub>**Literal:**</sub></small>
-Says to him <the> Jesus; So long a time with you am I, and not you have known Me, Philip? The [one] having seen Me myself he has seen the Father; and how you yourself say; do show us the Father?’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.8|<< John 14:8]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.10|John 14:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3004G\|λέγει]]  [[G0846\|αὐτῷ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G5118\|τοσούτῳ]]  [[G5550\|χρόνῳ]]  [[G3326\|μεθ᾽]]  [[G4771\|ὑμῶν]]  [[G1510\|εἰμι,]]  [[G2532\|καὶ]]  [[G3756\|οὐκ]]  [[G1097\|ἔγνωκάς]]  [[G3165\|με,]]  [[G5376G\|Φίλιππε;]]  [[G3588\|ὁ]]  [[G3708\|ἑωρακὼς]]  [[G1473\|ἐμὲ]]  [[G3708\|ἑώρακεν]]  [[G3588\|τὸν]]  [[G3962\|πατέρα·]]  [[G2532\|καὶ]]  [[G4459\|πῶς]]  [[G4771\|σὺ]]  [[G3004G\|λέγεις·]]  [[G1166\|δεῖξον]]  [[G3165\|ἡμῖν]]  [[G3588\|τὸν]]  [[G3962\|πατέρα;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic APOSTLES|APOSTLES]] • [[topic CHIDING|CHIDING]] • [[topic DOUBTING|DOUBTING]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHILIP|PHILIP]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.14.8|<< John 14:8]]</td><td align="center" style="border:none;">[[John.14|John 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.14.10|John 14:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

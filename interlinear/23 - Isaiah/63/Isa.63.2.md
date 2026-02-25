@@ -1,8 +1,55 @@
+---
+title: Isaiah 63:2
+type: Verse
+kjv: "Wherefore art thou red in thine apparel, and thy garments like him that treadeth in the winefat?"
+bsb: "Why are Your clothes red, and Your garments like one who treads the winepress?"
+hebrew: "מַדּ֥וּעַ אָדֹ֖ם לִלְבוּשֶׁ֑ךָ וּבְגָדֶ֖יךָ כְּדֹרֵ֥ךְ בְּגַֽת׃"
+pericope: "[[Isa.63.1 God’s Vengeance on the Nations|God’s Vengeance on the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 63
+book/chapter: "[[Isa.63|Isaiah 63]]"
+chronological_order: 702
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic WINE PRESS|WINE PRESS]]"
+strongs:
+- "[[H4069]]"
+- "[[H0122A]]"
+- "[[H9005]]"
+- "[[H3830]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H0899B]]"
+- "[[H9004]]"
+- "[[H1869]]"
+- "[[H9003]]"
+- "[[H1660]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 63:2**<big><big>[[Isa.63.1 God’s Vengeance on the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Wherefore [art thou] red in thine apparel, and thy garments like him that treadeth in the winefat?
 <small><sub>**BSB:**</sub></small>
 Why are Your clothes red, and Your garments like one who treads the winepress?
+<small><sub>**Hebrew:**</sub></small>
+[[H4069\|מַדּ֥וּעַ]] [[H0122A\|אָדֹ֖ם]] [[H9005\|לִ]][[H3830\|לְבוּשֶׁ֑]][[H9021\|ךָ]] [[H9002\|וּ]][[H0899B\|בְגָדֶ֖י]][[H9021\|ךָ]] [[H9004\|כְּ]][[H1869\|דֹרֵ֥ךְ]] [[H9003\|בְּ]][[H1660\|גַֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic EDOMITES|EDOMITES]] • [[topic WINE PRESS|WINE PRESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.63.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.63.1|<< Isaiah 63:1]]</td><td align="center" style="border:none;">[[Isa.63|Isaiah 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.63.3|Isaiah 63:3 >>]]</td></tr></table>
 

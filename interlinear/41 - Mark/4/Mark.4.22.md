@@ -1,10 +1,65 @@
+---
+title: Mark 4:22
+type: Verse
+kjv: "For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should come abroad."
+bsb: "For there is nothing hidden that will not be disclosed, and nothing concealed that will not be brought to light."
+jesus_said: "For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should come abroad."
+greek: "οὐ γάρ ἐστιν τί κρυπτόν ὃ ἐὰν μὴ ἵνα φανερωθῇ, οὐδὲ ἐγένετο ἀπόκρυφον ἀλλ᾽ ἵνα ἔλθῃ εἰς φανερόν."
+pericope: "[[Mark.4.21 The Lesson of the Lamp|The Lesson of the Lamp]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 4
+book/chapter: "[[Mark.4|Mark 4]]"
+chronological_order: 957
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic SECRET|SECRET]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G1063]]"
+- "[[G1510]]"
+- "[[G5100]]"
+- "[[G2927]]"
+- "[[G3739]]"
+- "[[G1437]]"
+- "[[G3361]]"
+- "[[G2443]]"
+- "[[G5319]]"
+- "[[G3761]]"
+- "[[G1096]]"
+- "[[G0614]]"
+- "[[G0235]]"
+- "[[G2064]]"
+- "[[G1519]]"
+- "[[G5318]]"
+texts:
+- NKO
+- k
+- NO
+---
+
 **Mark 4:22**<big><big>[[Mark.4.21 The Lesson of the Lamp|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should come abroad.
 <small><sub>**BSB:**</sub></small>
 For there is nothing hidden that will not be disclosed, and nothing concealed that will not be brought to light.
-<small><sub>**Literal:**</sub></small>
-Nothing for there is anything hidden which only unless in order it shall be made manifest, nor has taken place a secret thing but that it shall come to light.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.21|<< Mark 4:21]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.23|Mark 4:23 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|οὐ]]  [[G1063\|γάρ]]  [[G1510\|ἐστιν]]  [[G5100\|τί]]  [[G2927\|κρυπτόν]]  [[G3739\|ὃ]]  [[G1437\|ἐὰν]]  [[G3361\|μὴ]]  [[G2443\|ἵνα]]  [[G5319\|φανερωθῇ,]]  [[G3761\|οὐδὲ]]  [[G1096\|ἐγένετο]]  [[G0614\|ἀπόκρυφον]]  [[G0235\|ἀλλ᾽]]  [[G2443\|ἵνα]]  [[G2064\|ἔλθῃ]]  [[G1519\|εἰς]]  [[G5318\|φανερόν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFLUENCE|INFLUENCE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic SECRET|SECRET]] • [[topic SERMON|SERMON]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.4.21|<< Mark 4:21]]</td><td align="center" style="border:none;">[[Mark.4|Mark 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.4.23|Mark 4:23 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

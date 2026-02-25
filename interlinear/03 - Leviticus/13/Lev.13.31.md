@@ -1,8 +1,71 @@
+---
+title: Leviticus 13:31
+type: Verse
+kjv: "And if the priest look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest shall shut up him that hath the plague of the scall seven days:"
+bsb: "But if the priest examines the scaly infection and it does not appear to be deeper than the skin, and there is no black hair in it, the priest shall isolate the infected person for seven days."
+hebrew: "וְכִֽי־ יִרְאֶ֨ה הַכֹּהֵ֜ן אֶת־ נֶ֣גַע הַנֶּ֗תֶק וְהִנֵּ֤ה אֵין־ מַרְאֵ֙הוּ֙ עָמֹ֣ק מִן־ הָע֔וֹר וְשֵׂעָ֥ר שָׁחֹ֖ר אֵ֣ין בּ֑וֹ וְהִסְגִּ֧יר הַכֹּהֵ֛ן אֶת־ נֶ֥גַע הַנֶּ֖תֶק שִׁבְעַ֥ת יָמִֽים׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BEARD|BEARD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H7200G]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H0853]]"
+- "[[H5061]]"
+- "[[H5424]]"
+- "[[H2009]]"
+- "[[H0369]]"
+- "[[H4758]]"
+- "[[H9023]]"
+- "[[H6013]]"
+- "[[H4480A]]"
+- "[[H5785]]"
+- "[[H8181]]"
+- "[[H7838]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H9001]]"
+- "[[H5462]]"
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:31**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And if the priest look on the plague of the scall, and, behold, it [be] not in sight deeper than the skin, and [that there is] no black hair in it; then the priest shall shut up [him that hath] the plague of the scall seven days:
 <small><sub>**BSB:**</sub></small>
 But if the priest examines the scaly infection and it does not appear to be deeper than the skin, and there is no black hair in it, the priest shall isolate the infected person for seven days.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3588A\|כִֽי]][[H9014\|־]] [[H7200G\|יִרְאֶ֨ה]] [[H9009\|הַ]][[H3548\|כֹּהֵ֜ן]] [[H0853\|אֶת]][[H9014\|־]] [[H5061\|נֶ֣גַע]] [[H9009\|הַ]][[H5424\|נֶּ֗תֶק]] [[H9002\|וְ]][[H2009\|הִנֵּ֤ה]] [[H0369\|אֵין]][[H9014\|־]] [[H4758\|מַרְאֵ֙]][[H9023\|הוּ֙]] [[H6013\|עָמֹ֣ק]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H5785\|ע֔וֹר]] [[H9002\|וְ]][[H8181\|שֵׂעָ֥ר]] [[H7838\|שָׁחֹ֖ר]] [[H0369\|אֵ֣ין]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H5462\|הִסְגִּ֧יר]] [[H9009\|הַ]][[H3548\|כֹּהֵ֛ן]] [[H0853\|אֶת]][[H9014\|־]] [[H5061\|נֶ֥גַע]] [[H9009\|הַ]][[H5424\|נֶּ֖תֶק]] [[H7651\|שִׁבְעַ֥ת]] [[H3117G\|יָמִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEARD|BEARD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.30|<< Leviticus 13:30]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.32|Leviticus 13:32 >>]]</td></tr></table>
 

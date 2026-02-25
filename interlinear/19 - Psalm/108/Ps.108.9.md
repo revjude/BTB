@@ -1,8 +1,57 @@
+---
+title: Psalm 108:9
+type: Verse
+kjv: "Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph."
+bsb: "Moab is My washbasin; upon Edom I toss My sandal; over Philistia I shout in triumph.”"
+hebrew: "מוֹאָ֤ב׀ סִ֬יר רַחְצִ֗י עַל־ אֱ֭דוֹם אַשְׁלִ֣יךְ נַעֲלִ֑י עֲלֵֽי־ פְ֝לֶ֗שֶׁת אֶתְרוֹעָֽע׃"
+pericope: "[[Ps.108.1 Israel’s Kingdom Blessing|Israel’s Kingdom Blessing]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 108
+book/chapter: "[[Ps.108|Psalm 108]]"
+chronological_order: 382
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic EDOMITES|EDOMITES]]"
+- "[[topic PHILISTIA|PHILISTIA]]"
+strongs:
+- "[[H4124G]]"
+- "[[H9015]]"
+- "[[H5518A]]"
+- "[[H7366]]"
+- "[[H9020]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H0123G]]"
+- "[[H7993]]"
+- "[[H5275]]"
+- "[[H6429]]"
+- "[[H7321]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 108:9**<big><big>[[Ps.108.1 Israel’s Kingdom Blessing|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Moab [is] my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.
 <small><sub>**BSB:**</sub></small>
 Moab is My washbasin; upon Edom I toss My sandal; over Philistia I shout in triumph.”
+<small><sub>**Hebrew:**</sub></small>
+[[H4124G\|מוֹאָ֤ב]][[H9015\|׀]] [[H5518A\|סִ֬יר]] [[H7366\|רַחְצִ֗]][[H9020\|י]] [[H5921A\|עַל]][[H9014\|־]] [[H0123G\|אֱ֭דוֹם]] [[H7993\|אַשְׁלִ֣יךְ]] [[H5275\|נַעֲלִ֑]][[H9020\|י]] [[H5921A\|עֲלֵֽי]][[H9014\|־]] [[H6429\|פְ֝לֶ֗שֶׁת]] [[H7321\|אֶתְרוֹעָֽע]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EDOMITES|EDOMITES]] • [[topic PHILISTIA|PHILISTIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.108.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.108.8|<< Psalms 108:8]]</td><td align="center" style="border:none;">[[Ps.108|Psalms 108]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.108.10|Psalms 108:10 >>]]</td></tr></table>
 

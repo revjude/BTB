@@ -1,10 +1,59 @@
+---
+title: Acts 26:5
+type: Verse
+kjv: "Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee."
+bsb: "They have known me for a long time and can testify, if they are willing, that I lived as a Pharisee, adhering to the strictest sect of our religion."
+greek: "προγινώσκοντές με ἄνωθεν, ἐὰν θέλωσιν μαρτυρεῖν ὅτι κατὰ τὴν ἀκριβεστάτην αἵρεσιν τῆς ἡμετέρας θρησκείας ἔζησα Φαρισαῖος·"
+pericope: "[[Acts.26.1 Paul’s Testimony to Agrippa|Paul’s Testimony to Agrippa]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 26
+book/chapter: "[[Acts.26|Acts 26]]"
+chronological_order: 1108
+era: Church
+period: "Paul's Arrest and Trials"
+date: ~AD 57–59
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic DEFENSE|DEFENSE]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G4267]]"
+- "[[G3165]]"
+- "[[G0509]]"
+- "[[G1437]]"
+- "[[G2309]]"
+- "[[G3140]]"
+- "[[G3754G]]"
+- "[[G2596]]"
+- "[[G3588]]"
+- "[[G0196]]"
+- "[[G0139]]"
+- "[[G1473]]"
+- "[[G2356]]"
+- "[[G2198]]"
+- "[[G5330]]"
+texts:
+- NKO
+---
+
 **Acts 26:5**<big><big>[[Acts.26.1 Paul’s Testimony to Agrippa|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.
 <small><sub>**BSB:**</sub></small>
 They have known me for a long time and can testify, if they are willing, that I lived as a Pharisee, adhering to the strictest sect of our religion.
-<small><sub>**Literal:**</sub></small>
-knowing me from the first, if they may be willing to testify that according to the strictest sect <the> of our own religion I lived [as] a Pharisee;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.4|<< Acts 26:4]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.6|Acts 26:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4267\|προγινώσκοντές]]  [[G3165\|με]]  [[G0509\|ἄνωθεν,]]  [[G1437\|ἐὰν]]  [[G2309\|θέλωσιν]]  [[G3140\|μαρτυρεῖν]]  [[G3754G\|ὅτι]]  [[G2596\|κατὰ]]  [[G3588\|τὴν]]  [[G0196\|ἀκριβεστάτην]]  [[G0139\|αἵρεσιν]]  [[G3588\|τῆς]]  [[G1473\|ἡμετέρας]]  [[G2356\|θρησκείας]]  [[G2198\|ἔζησα]]  [[G5330\|Φαρισαῖος·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic DEFENSE|DEFENSE]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic PAUL|PAUL]] • [[topic PHARISEES|PHARISEES]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.26.4|<< Acts 26:4]]</td><td align="center" style="border:none;">[[Acts.26|Acts 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.26.6|Acts 26:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,69 @@
+---
+title: Deuteronomy 3:28
+type: Verse
+kjv: "But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see."
+bsb: "But commission Joshua, encourage him, and strengthen him, for he will cross over ahead of the people and enable them to inherit the land that you will see.”"
+hebrew: "וְצַ֥ו אֶת־ יְהוֹשֻׁ֖עַ וְחַזְּקֵ֣הוּ וְאַמְּצֵ֑הוּ כִּי־ ה֣וּא יַעֲבֹ֗ר לִפְנֵי֙ הָעָ֣ם הַזֶּ֔ה וְהוּא֙ יַנְחִ֣יל אוֹתָ֔ם אֶת־ הָאָ֖רֶץ אֲשֶׁ֥ר תִּרְאֶֽה׃"
+pericope: "[[Deut.3.23 Moses Forbidden to Cross the Jordan|Moses Forbidden to Cross the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 3
+book/chapter: "[[Deut.3|Deuteronomy 3]]"
+chronological_order: 199
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic JOSHUA|JOSHUA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic MOSES|MOSES]]"
+strongs:
+- "[[H9002]]"
+- "[[H6680]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3091G]]"
+- "[[H2388G]]"
+- "[[H9033]]"
+- "[[H0553]]"
+- "[[H3588A]]"
+- "[[H1931]]"
+- "[[H5674A]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H2088]]"
+- "[[H5157]]"
+- "[[H9038]]"
+- "[[H0776G]]"
+- "[[H0834A]]"
+- "[[H7200G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 3:28**<big><big>[[Deut.3.23 Moses Forbidden to Cross the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But charge Joshua, and encourage him, and strengthen him: for he shall go over before this people, and he shall cause them to inherit the land which thou shalt see.
 <small><sub>**BSB:**</sub></small>
 But commission Joshua, encourage him, and strengthen him, for he will cross over ahead of the people and enable them to inherit the land that you will see.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6680\|צַ֥ו]] [[H0853\|אֶת]][[H9014\|־]] [[H3091G\|יְהוֹשֻׁ֖עַ]] [[H9002\|וְ]][[H2388G\|חַזְּקֵ֣]][[H9033\|הוּ]] [[H9002\|וְ]][[H0553\|אַמְּצֵ֑]][[H9033\|הוּ]] [[H3588A\|כִּי]][[H9014\|־]] [[H1931\|ה֣וּא]] [[H5674A\|יַעֲבֹ֗ר]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H9009\|הָ]][[H5971A\|עָ֣ם]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H9002\|וְ]][[H1931\|הוּא֙]] [[H5157\|יַנְחִ֣יל]] [[H0853\|אוֹתָ֔]][[H9038\|ם]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֖רֶץ]] [[H0834A\|אֲשֶׁ֥ר]] [[H7200G\|תִּרְאֶֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOSHUA|JOSHUA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic MOSES|MOSES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.3.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.3.27|<< Deuteronomy 3:27]]</td><td align="center" style="border:none;">[[Deut.3|Deuteronomy 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.3.29|Deuteronomy 3:29 >>]]</td></tr></table>
 

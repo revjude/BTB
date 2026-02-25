@@ -1,8 +1,63 @@
+---
+title: Exodus 29:15
+type: Verse
+kjv: "Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram."
+bsb: "Take one of the rams, and Aaron and his sons shall lay their hands on its head."
+hebrew: "וְאֶת־ הָאַ֥יִל הָאֶחָ֖ד תִּקָּ֑ח וְסָ֨מְכ֜וּ אַהֲרֹ֧ן וּבָנָ֛יו אֶת־ יְדֵיהֶ֖ם עַל־ רֹ֥אשׁ הָאָֽיִל׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic HAND|HAND]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0352A]]"
+- "[[H0259]]"
+- "[[H3947G]]"
+- "[[H9001]]"
+- "[[H5564]]"
+- "[[H0175]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H3027G]]"
+- "[[H9028]]"
+- "[[H5921A]]"
+- "[[H7218A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:15**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram.
 <small><sub>**BSB:**</sub></small>
 Take one of the rams, and Aaron and his sons shall lay their hands on its head.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0352A\|אַ֥יִל]] [[H9009\|הָ]][[H0259\|אֶחָ֖ד]] [[H3947G\|תִּקָּ֑ח]] [[H9001\|וְ]][[H5564\|סָ֨מְכ֜וּ]] [[H0175\|אַהֲרֹ֧ן]] [[H9002\|וּ]][[H1121A\|בָנָ֛י]][[H9023\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יְדֵי]][[H9028\|הֶ֖ם]] [[H5921A\|עַל]][[H9014\|־]] [[H7218A\|רֹ֥אשׁ]] [[H9009\|הָ]][[H0352A\|אָֽיִל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAND|HAND]] • [[topic OFFERINGS|OFFERINGS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.14|<< Exodus 29:14]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.16|Exodus 29:16 >>]]</td></tr></table>
 

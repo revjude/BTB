@@ -1,8 +1,62 @@
+---
+title: Jeremiah 1:6
+type: Verse
+kjv: "Then said I, Ah, Lord GOD! behold, I cannot speak: for I am a child."
+bsb: "“Ah, Lord GOD,” I said, “I surely do not know how to speak, for I am only a child!”"
+hebrew: "וָאֹמַ֗ר אֲהָהּ֙ אֲדֹנָ֣י יְהֹוִ֔ה הִנֵּ֥ה לֹא־ יָדַ֖עְתִּי דַּבֵּ֑ר כִּי־ נַ֖עַר אָנֹֽכִי׃ פ"
+pericope: "[[Jer.1.1 The Call of Jeremiah|The Call of Jeremiah]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 1
+book/chapter: "[[Jer.1|Jeremiah 1]]"
+chronological_order: 718
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic EXCUSES|EXCUSES]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0162]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H2009]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3045]]"
+- "[[H1696G]]"
+- "[[H3588A]]"
+- "[[H5288]]"
+- "[[H0595]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **Jeremiah 1:6**<big><big>[[Jer.1.1 The Call of Jeremiah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said I, Ah, Lord GOD! behold, I cannot speak: for I [am] a child.
 <small><sub>**BSB:**</sub></small>
 “Ah, Lord GOD,” I said, “I surely do not know how to speak, for I am only a child!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֗ר]] [[H0162\|אֲהָהּ֙]] [[H0136\|אֲדֹנָ֣י]] [[H3069\|יְהֹוִ֔ה]] [[H2009\|הִנֵּ֥ה]] [[H3808\|לֹא]][[H9014\|־]] [[H3045\|יָדַ֖עְתִּי]] [[H1696G\|דַּבֵּ֑ר]] [[H3588A\|כִּי]][[H9014\|־]] [[H5288\|נַ֖עַר]] [[H0595\|אָנֹֽכִי]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DOUBTING|DOUBTING]] • [[topic EXCUSES|EXCUSES]] • [[topic HUMILITY|HUMILITY]] • [[topic JEREMIAH|JEREMIAH]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.1.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.5|<< Jeremiah 1:5]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.7|Jeremiah 1:7 >>]]</td></tr></table>
 
@@ -18,7 +72,7 @@ Then said I, Ah, Lord GOD! behold, I cannot speak: for I [am] a child.
 | to speak  |**<big>&#8207;[[H1696G\|דַּבֵּ֑ר]]&#8207; </big>**| da.Ber<small><sup>[[HVpcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | for  |**<big>&#8207;[[H3588A\|כִּי]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ki-<small><sup>[[HTc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | [am] a youth  |**<big>&#8207;[[H5288\|נַ֖עַר]]&#8207; </big>**| Na.'ar<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| I  |**<big>&#8207;[[H0595\|אָנֹֽכִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.No.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| I  |**<big>&#8207;[[H0595\|אָנֹֽכִי]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| 'a.No.khi<small><sup>[[HPp1bs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.1.5|<< Jeremiah 1:5]]</td><td align="center" style="border:none;">[[Jer.1|Jeremiah 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.1.7|Jeremiah 1:7 >>]]</td></tr></table>
 
 

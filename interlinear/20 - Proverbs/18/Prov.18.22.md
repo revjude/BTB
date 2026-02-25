@@ -1,8 +1,51 @@
+---
+title: Proverbs 18:22
+type: Verse
+kjv: "Whoso findeth a wife findeth a good thing, and obtaineth favour of the LORD."
+bsb: "He who finds a wife finds a good thing and obtains favor from the LORD."
+hebrew: "מָצָ֣א אִ֭שָּׁה מָ֣צָא ט֑וֹב וַיָּ֥פֶק רָ֝צ֗וֹן מֵיְהוָֽה׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H4672]]"
+- "[[H0802H]]"
+- "[[H2896B]]"
+- "[[H9001]]"
+- "[[H6329]]"
+- "[[H7522]]"
+- "[[H9006]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:22**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [Whoso] findeth a wife findeth a good [thing], and obtaineth favour of the LORD.
 <small><sub>**BSB:**</sub></small>
 He who finds a wife finds a good thing and obtains favor from the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H4672\|מָצָ֣א]] [[H0802H\|אִ֭שָּׁה]] [[H4672\|מָ֣צָא]] [[H2896B\|ט֑וֹב]] [[H9001\|וַ]][[H6329\|יָּ֥פֶק]] [[H7522\|רָ֝צ֗וֹן]] [[H9006\|מֵ]][[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MARRIAGE|MARRIAGE]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.21|<< Proverbs 18:21]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.23|Proverbs 18:23 >>]]</td></tr></table>
 

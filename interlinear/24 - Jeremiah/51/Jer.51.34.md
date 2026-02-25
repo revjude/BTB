@@ -1,8 +1,65 @@
+---
+title: Jeremiah 51:34
+type: Verse
+kjv: "Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a dragon, he hath filled his belly with my delicates, he hath cast me out."
+bsb: "“Nebuchadnezzar king of Babylon has devoured me; he has crushed me. He has set me aside like an empty vessel; he has swallowed me like a monster; he filled his belly with my delicacies and vomited me out."
+hebrew: "אֲכָלַ֣נִי הֲמָמַ֗נִי נְבוּכַדְרֶאצַּר֮ מֶ֣לֶךְ בָּבֶל֒ הִצִּיגַ֙נִי֙ כְּלִ֣י רִ֔יק בְּלָעַ֙נִי֙ כַּתַּנִּ֔ין מִלָּ֥א כְרֵשׂ֖וֹ מֵֽעֲדָנָ֑י הֱדִיחָֽנִי׃"
+pericope: "[[Jer.51.20 Babylon’s Punishment|Babylon’s Punishment]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 51
+book/chapter: "[[Jer.51|Jeremiah 51]]"
+chronological_order: 774
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic PERSIA|PERSIA]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H0398]]"
+- "[[H9035]]"
+- "[[H9030]]"
+- "[[H2000]]"
+- "[[H5019]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H3322]]"
+- "[[H3627]]"
+- "[[H7385]]"
+- "[[H1104]]"
+- "[[H9004]]"
+- "[[H8577N]]"
+- "[[H4390]]"
+- "[[H3770]]"
+- "[[H9023]]"
+- "[[H9006]]"
+- "[[H5730A]]"
+- "[[H9020]]"
+- "[[H1740]]"
+- "[[H9016]]"
+texts:
+- Q(K)
+- L
+---
+
 **Jeremiah 51:34**<big><big>[[Jer.51.20 Babylon’s Punishment|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a dragon, he hath filled his belly with my delicates, he hath cast me out.
 <small><sub>**BSB:**</sub></small>
 “Nebuchadnezzar king of Babylon has devoured me; he has crushed me. He has set me aside like an empty vessel; he has swallowed me like a monster; he filled his belly with my delicacies and vomited me out.
+<small><sub>**Hebrew:**</sub></small>
+[[H0398\|אֲכָלַ֣]][[H9030\|נִי]] [[H2000\|הֲמָמַ֗]][[H9030\|נִי]] [[H5019\|נְבוּכַדְרֶאצַּר֮]] [[H4428G\|מֶ֣לֶךְ]] [[H0894\|בָּבֶל֒]] [[H3322\|הִצִּיגַ֙]][[H9030\|נִי֙]] [[H3627\|כְּלִ֣י]] [[H7385\|רִ֔יק]] [[H1104\|בְּלָעַ֙]][[H9030\|נִי֙]] [[H9004\|כַּ]][[H8577N\|תַּנִּ֔ין]] [[H4390\|מִלָּ֥א]] [[H3770\|כְרֵשׂ֖]][[H9023\|וֹ]] [[H9006\|מֵֽ]][[H5730A\|עֲדָנָ֑]][[H9020\|י]] [[H1740\|הֱדִיחָֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PERSIA|PERSIA]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.51.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.33|<< Jeremiah 51:33]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.35|Jeremiah 51:35 >>]]</td></tr></table>
 
@@ -24,19 +81,19 @@ Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath
 | he rinsed out me  [^14]|**<big>&#8207;[[H1740\|הֱדִיחָֽ]]&#8207;&#8207;[[H9030\|נִי]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^15] | he.di.cha.<small><sup>[[HVhp3ms]]</sup></small> ni<small><sup>[[HSp1bs]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.51.33|<< Jeremiah 51:33]]</td><td align="center" style="border:none;">[[Jer.51|Jeremiah 51]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.51.35|Jeremiah 51:35 >>]]</td></tr></table>
 
-[^1]: he devoured us  | **<big>[[H9035|נוּ]]</big><big>[[H0398|אֲכָלָ]]</big> ** | 'a.kha.la.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
-[^2]: he devoured us  | **<big>[[H9035|נוּ]]</big><big>[[H0398|אֲכָלָ]]</big> ** | 'a.kha.la.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^1]: he devoured us  | **<big>[[H0398|אֲכָלָ]]</big><big>[[H9035|נוּ]]</big> ** | 'a.kha.la.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^2]: he devoured us  | **<big>[[H0398|אֲכָלָ]]</big><big>[[H9035|נוּ]]</big> ** | 'a.kha.la.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>אֲכָלַ֣נִו</big></span>**
-[^4]: he confused us  | **<big>[[H9035|נוּ]]</big><big>[[H2000|הֲמָמָ]]</big> ** | ha.ma.ma.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
-[^5]: he confused us  | **<big>[[H9035|נוּ]]</big><big>[[H2000|הֲמָמָ]]</big> ** | ha.ma.ma.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^4]: he confused us  | **<big>[[H2000|הֲמָמָ]]</big><big>[[H9035|נוּ]]</big> ** | ha.ma.ma.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^5]: he confused us  | **<big>[[H2000|הֲמָמָ]]</big><big>[[H9035|נוּ]]</big> ** | ha.ma.ma.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
 [^6]: L spelled: **<span class="ashebrew"><big>הֲמָמַ֗נִו</big></span>**
-[^7]: he set down us  | **<big>[[H9035|נוּ]]</big><big>[[H3322|הִצִּיגָ]]</big> ** | hi.tzi.ga.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
-[^8]: he set down us  | **<big>[[H9035|נוּ]]</big><big>[[H3322|הִצִּיגָ]]</big> ** | hi.tzi.ga.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^7]: he set down us  | **<big>[[H3322|הִצִּיגָ]]</big><big>[[H9035|נוּ]]</big> ** | hi.tzi.ga.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^8]: he set down us  | **<big>[[H3322|הִצִּיגָ]]</big><big>[[H9035|נוּ]]</big> ** | hi.tzi.ga.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
 [^9]: L spelled: **<span class="ashebrew"><big>הִצִּיגַ֙נִו֙</big></span>**
-[^10]: he swallowed us  | **<big>[[H9035|נוּ]]</big><big>[[H1104|בְּלָעָ]]</big> ** | be.la.'a.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
-[^11]: he swallowed us  | **<big>[[H9035|נוּ]]</big><big>[[H1104|בְּלָעָ]]</big> ** | be.la.'a.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^10]: he swallowed us  | **<big>[[H1104|בְּלָעָ]]</big><big>[[H9035|נוּ]]</big> ** | be.la.'a.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^11]: he swallowed us  | **<big>[[H1104|בְּלָעָ]]</big><big>[[H9035|נוּ]]</big> ** | be.la.'a.<small><sup>[[HVqp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
 [^12]: L spelled: **<span class="ashebrew"><big>בְּלָעַ֙נִו֙</big></span>**
-[^13]: he rinsed out us  | **<big>[[H9016|׃]]</big><big>[[H9035|נוּ]]</big><big>[[H1740|הֱדִיחָ]]</big> ** | he.di.cha.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
-[^14]: he rinsed out us  | **<big>[[H9016|׃]]</big><big>[[H9035|נוּ]]</big><big>[[H1740|הֱדִיחָ]]</big> ** | he.di.cha.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^13]: he rinsed out us  | **<big>[[H1740|הֱדִיחָ]]</big><big>[[H9035|נוּ]]</big><big>[[H9016|׃]]</big> ** | he.di.cha.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
+[^14]: he rinsed out us  | **<big>[[H1740|הֱדִיחָ]]</big><big>[[H9035|נוּ]]</big><big>[[H9016|׃]]</big> ** | he.di.cha.<small><sup>[[HVhp3ms]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | K
 [^15]: L spelled: **<span class="ashebrew"><big>הֱדִיחָֽנִו\׃</big></span>**
 

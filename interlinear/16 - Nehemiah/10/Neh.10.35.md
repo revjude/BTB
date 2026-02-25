@@ -1,8 +1,59 @@
+---
+title: Nehemiah 10:35
+type: Verse
+kjv: "And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD:"
+bsb: "We will also bring the firstfruits of our land and of every fruit tree to the house of the LORD year by year."
+hebrew: "וּלְהָבִ֞יא אֶת־ בִּכּוּרֵ֣י אַדְמָתֵ֗נוּ וּבִכּוּרֵ֛י כָּל־ פְּרִ֥י כָל־ עֵ֖ץ שָׁנָ֣ה בְשָׁנָ֑ה לְבֵ֖ית יְהוָֽה׃"
+pericope: "[[Neh.10.28 The Vows of the Covenant|The Vows of the Covenant]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 10
+book/chapter: "[[Neh.10|Nehemiah 10]]"
+chronological_order: 922
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic FIRST FRUITS|FIRST FRUITS]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H0935P]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1061]]"
+- "[[H0127G]]"
+- "[[H9025]]"
+- "[[H3605]]"
+- "[[H6529]]"
+- "[[H6086H]]"
+- "[[H8141]]"
+- "[[H9003]]"
+- "[[H1004Q]]"
+- "[[H3068G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 10:35**<big><big>[[Neh.10.28 The Vows of the Covenant|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD:
 <small><sub>**BSB:**</sub></small>
 We will also bring the firstfruits of our land and of every fruit tree to the house of the LORD year by year.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H0935P\|הָבִ֞יא]] [[H0853\|אֶת]][[H9014\|־]] [[H1061\|בִּכּוּרֵ֣י]] [[H0127G\|אַדְמָתֵ֗]][[H9025\|נוּ]] [[H9002\|וּ]][[H1061\|בִכּוּרֵ֛י]] [[H3605\|כָּל]][[H9014\|־]] [[H6529\|פְּרִ֥י]] [[H3605\|כָל]][[H9014\|־]] [[H6086H\|עֵ֖ץ]] [[H8141\|שָׁנָ֣ה]] [[H9003\|בְ]][[H8141\|שָׁנָ֑ה]] [[H9005\|לְ]][[H1004Q\|בֵ֖ית]] [[H3068G\|יְהוָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic FIRST FRUITS|FIRST FRUITS]] • [[topic LIBERALITY|LIBERALITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.10.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.10.34|<< Nehemiah 10:34]]</td><td align="center" style="border:none;">[[Neh.10|Nehemiah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.10.36|Nehemiah 10:36 >>]]</td></tr></table>
 

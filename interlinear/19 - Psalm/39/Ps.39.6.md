@@ -1,8 +1,63 @@
+---
+title: Psalm 39:6
+type: Verse
+kjv: "Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them."
+bsb: "Surely every man goes about like a phantom; surely he bustles in vain; he heaps up riches not knowing who will haul them away."
+hebrew: "אַךְ־ בְּצֶ֤לֶם׀ יִֽתְהַלֶּךְ־ אִ֗ישׁ אַךְ־ הֶ֥בֶל יֶהֱמָי֑וּן יִ֝צְבֹּ֗ר וְֽלֹא־ יֵדַ֥ע מִי־ אֹסְפָֽם׃"
+pericope: "[[Ps.39.1 I Will Watch My Ways|I Will Watch My Ways]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 39
+book/chapter: "[[Ps.39|Psalm 39]]"
+chronological_order: 366
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CARE|CARE]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic VANITY|VANITY]]"
+strongs:
+- "[[H0389]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H6754]]"
+- "[[H9015]]"
+- "[[H1980I]]"
+- "[[H0376G]]"
+- "[[H1892]]"
+- "[[H1993]]"
+- "[[H9013]]"
+- "[[H6651]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H3045]]"
+- "[[H4310]]"
+- "[[H0622]]"
+- "[[H9038]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 39:6**<big><big>[[Ps.39.1 I Will Watch My Ways|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up [riches], and knoweth not who shall gather them.
 <small><sub>**BSB:**</sub></small>
 Surely every man goes about like a phantom; surely he bustles in vain; he heaps up riches not knowing who will haul them away.
+<small><sub>**Hebrew:**</sub></small>
+[[H0389\|אַךְ]][[H9014\|־]] [[H9003\|בְּ]][[H6754\|צֶ֤לֶם]][[H9015\|׀]] [[H1980I\|יִֽתְהַלֶּךְ]][[H9014\|־]] [[H0376G\|אִ֗ישׁ]] [[H0389\|אַךְ]][[H9014\|־]] [[H1892\|הֶ֥בֶל]] [[H1993\|יֶהֱמָי֑וּ]][[H9013\|ן]] [[H6651\|יִ֝צְבֹּ֗ר]] [[H9002\|וְֽ]][[H3808\|לֹא]][[H9014\|־]] [[H3045\|יֵדַ֥ע]] [[H4310\|מִי]][[H9014\|־]] [[H0622\|אֹסְפָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CARE|CARE]] • [[topic LIFE|LIFE]] • [[topic VANITY|VANITY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.39.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.39.5|<< Psalms 39:5]]</td><td align="center" style="border:none;">[[Ps.39|Psalms 39]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.39.7|Psalms 39:7 >>]]</td></tr></table>
 

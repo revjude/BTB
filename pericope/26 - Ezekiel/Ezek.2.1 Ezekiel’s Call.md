@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Ezekiel’s Call
+type: Pericope
 pericope: "[[Ezek.2.1 Ezekiel’s Call|Ezekiel’s Call]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 2
 book/chapter: "[[Ezek.2|Ezekiel 2]]"
-genre:
+chronological_order: 793
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,6 +24,7 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 10
 verses:
 - "[[Ezek.2.1]]"
 - "[[Ezek.2.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Ezek.2.10]]"
 ---
 
-[[Ezek.2|Ezekiel 2:1 - Ezekiel 2:10]]
+<small>[[Ezek.2|Ezekiel 2:1-10]]</small>
 *Ezekiel’s Call*
 
 [[Ezek.2.1|1]] And he said unto me, Son of man, stand upon thy feet, and I will speak unto thee.

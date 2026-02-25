@@ -1,8 +1,58 @@
+---
+title: Proverbs 3:15
+type: Verse
+kjv: "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her."
+bsb: "She is more precious than rubies; nothing you desire compares with her."
+hebrew: "יְקָ֣רָה הִ֭יא מִפְּנִינִ֑ים וְכָל־ חֲ֝פָצֶ֗יךָ לֹ֣א יִֽשְׁווּ־ בָֽהּ׃"
+pericope: "[[Prov.3.13 The Blessings of Wisdom|The Blessings of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 3
+book/chapter: "[[Prov.3|Proverbs 3]]"
+chronological_order: 458
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic HAPPINESS|HAPPINESS]]"
+- "[[topic PEACE|PEACE]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H3368]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H6443]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H2656]]"
+- "[[H9021]]"
+- "[[H3808]]"
+- "[[H7737A]]"
+- "[[H9003]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Proverbs 3:15**<big><big>[[Prov.3.13 The Blessings of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 She [is] more precious than rubies: and all the things thou canst desire are not to be compared unto her.
 <small><sub>**BSB:**</sub></small>
 She is more precious than rubies; nothing you desire compares with her.
+<small><sub>**Hebrew:**</sub></small>
+[[H3368\|יְקָ֣רָה]] [[H1931\|הִ֭יא]] [[H9006\|מִ]][[H6443\|פְּנִינִ֑ים]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H2656\|חֲ֝פָצֶ֗י]][[H9021\|ךָ]] [[H3808\|לֹ֣א]] [[H7737A\|יִֽשְׁווּ]][[H9014\|־]] [[H9003\|בָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAPPINESS|HAPPINESS]] • [[topic PEACE|PEACE]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.3.14|<< Proverbs 3:14]]</td><td align="center" style="border:none;">[[Prov.3|Proverbs 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.3.16|Proverbs 3:16 >>]]</td></tr></table>
 

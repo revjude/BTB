@@ -1,10 +1,56 @@
+---
+title: John 13:34
+type: Verse
+kjv: "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another."
+bsb: "A new commandment I give you: Love one another. As I have loved you, so you also must love one another."
+jesus_said: "A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another."
+greek: "Ἐντολὴν καινὴν δίδωμι ὑμῖν ἵνα ἀγαπᾶτε ἀλλήλους, καθὼς ἠγάπησα ὑμᾶς ἵνα καὶ ὑμεῖς ἀγαπᾶτε ἀλλήλους."
+pericope: "[[John.13.31 Love One Another|Love One Another]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 13
+book/chapter: "[[John.13|John 13]]"
+chronological_order: 1001
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G1785]]"
+- "[[G2537]]"
+- "[[G1325]]"
+- "[[G4771]]"
+- "[[G2443]]"
+- "[[G0025]]"
+- "[[G0240]]"
+- "[[G2531]]"
+- "[[G2532]]"
+texts:
+- NKO
+---
+
 **John 13:34**<big><big>[[John.13.31 Love One Another|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 A new commandment I give unto you, That ye love one another; as I have loved you, that ye also love one another.
 <small><sub>**BSB:**</sub></small>
 A new commandment I give you: Love one another. As I have loved you, so you also must love one another.
-<small><sub>**Literal:**</sub></small>
-A commandment new I give to you that you may love one another, even as I have loved you so also you yourselves may love one another.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.33|<< John 13:33]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.35|John 13:35 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1785\|Ἐντολὴν]]  [[G2537\|καινὴν]]  [[G1325\|δίδωμι]]  [[G4771\|ὑμῖν]]  [[G2443\|ἵνα]]  [[G0025\|ἀγαπᾶτε]]  [[G0240\|ἀλλήλους,]]  [[G2531\|καθὼς]]  [[G0025\|ἠγάπησα]]  [[G4771\|ὑμᾶς]]  [[G2443\|ἵνα]]  [[G2532\|καὶ]]  [[G4771\|ὑμεῖς]]  [[G0025\|ἀγαπᾶτε]]  [[G0240\|ἀλλήλους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic EXAMPLE|EXAMPLE]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRATERNITY|FRATERNITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.13.33|<< John 13:33]]</td><td align="center" style="border:none;">[[John.13|John 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.13.35|John 13:35 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

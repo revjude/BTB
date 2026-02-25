@@ -1,8 +1,54 @@
+---
+title: Judges 5:29
+type: Verse
+kjv: "Her wise ladies answered her, yea, she returned answer to herself,"
+bsb: "Her wisest ladies answer; indeed she keeps telling herself,"
+hebrew: "חַכְמ֥וֹת שָׂרוֹתֶ֖יהָ תַּעֲנֶ֑ינָּה אַף־ הִ֕יא תָּשִׁ֥יב אֲמָרֶ֖יהָ לָֽהּ׃"
+pericope: "[[Judg.5.1 The Song of Deborah and Barak|The Song of Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 5
+book/chapter: "[[Judg.5|Judges 5]]"
+chronological_order: 259
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic COUNTRY|COUNTRY]]"
+- "[[topic PATRIOTISM|PATRIOTISM]]"
+- "[[topic SISERA|SISERA]]"
+strongs:
+- "[[H2450]]"
+- "[[H8282]]"
+- "[[H9024]]"
+- "[[H6030B]]"
+- "[[H0637]]"
+- "[[H9014]]"
+- "[[H1931]]"
+- "[[H7725M]]"
+- "[[H0561]]"
+- "[[H9005]]"
+- "[[H9034]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 5:29**<big><big>[[Judg.5.1 The Song of Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Her wise ladies answered her, yea, she returned answer to herself,
 <small><sub>**BSB:**</sub></small>
 Her wisest ladies answer; indeed she keeps telling herself,
+<small><sub>**Hebrew:**</sub></small>
+[[H2450\|חַכְמ֥וֹת]] [[H8282\|שָׂרוֹתֶ֖י]][[H9024\|הָ]] [[H6030B\|תַּעֲנֶ֑ינָּה]] [[H0637\|אַף]][[H9014\|־]] [[H1931\|הִ֕יא]] [[H7725M\|תָּשִׁ֥יב]] [[H0561\|אֲמָרֶ֖י]][[H9024\|הָ]] [[H9005\|לָֽ]][[H9034\|הּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNTRY|COUNTRY]] • [[topic PATRIOTISM|PATRIOTISM]] • [[topic SISERA|SISERA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.5.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.5.28|<< Judges 5:28]]</td><td align="center" style="border:none;">[[Judg.5|Judges 5]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.5.30|Judges 5:30 >>]]</td></tr></table>
 

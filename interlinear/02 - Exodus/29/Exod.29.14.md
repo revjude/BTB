@@ -1,8 +1,66 @@
+---
+title: Exodus 29:14
+type: Verse
+kjv: "But the flesh of the bullock, and his skin, and his dung, shalt thou burn with fire without the camp: it is a sin offering."
+bsb: "But burn the flesh of the bull and its hide and dung outside the camp; it is a sin offering."
+hebrew: "וְאֶת־ בְּשַׂ֤ר הַפָּר֙ וְאֶת־ עֹר֣וֹ וְאֶת־ פִּרְשׁ֔וֹ תִּשְׂרֹ֣ף בָּאֵ֔שׁ מִח֖וּץ לַֽמַּחֲנֶ֑ה חַטָּ֖את הֽוּא׃"
+pericope: "[[Exod.29.10 The Order of the Sacrifices|The Order of the Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BULLOCK|BULLOCK]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1320]]"
+- "[[H9009]]"
+- "[[H6499]]"
+- "[[H5785]]"
+- "[[H9023]]"
+- "[[H6569]]"
+- "[[H8313]]"
+- "[[H9003]]"
+- "[[H0784]]"
+- "[[H9006]]"
+- "[[H2351]]"
+- "[[H9005]]"
+- "[[H4264]]"
+- "[[H2403H]]"
+- "[[H1931]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 29:14**<big><big>[[Exod.29.10 The Order of the Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the flesh of the bullock, and his skin, and his dung, shalt thou burn with fire without the camp: it [is] a sin offering.
 <small><sub>**BSB:**</sub></small>
 But burn the flesh of the bull and its hide and dung outside the camp; it is a sin offering.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1320\|בְּשַׂ֤ר]] [[H9009\|הַ]][[H6499\|פָּר֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H5785\|עֹר֣]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6569\|פִּרְשׁ֔]][[H9023\|וֹ]] [[H8313\|תִּשְׂרֹ֣ף]] [[H9003\|בָּ]][[H0784\|אֵ֔שׁ]] [[H9006\|מִ]][[H2351\|ח֖וּץ]] [[H9005\|לַֽ]][[H4264\|מַּחֲנֶ֑ה]] [[H2403H\|חַטָּ֖את]] [[H1931\|הֽוּא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BULLOCK|BULLOCK]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.13|<< Exodus 29:13]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.15|Exodus 29:15 >>]]</td></tr></table>
 

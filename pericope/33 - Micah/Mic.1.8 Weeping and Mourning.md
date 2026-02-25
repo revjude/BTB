@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Weeping and Mourning
+type: Pericope
 pericope: "[[Mic.1.8 Weeping and Mourning|Weeping and Mourning]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Micah
 chapter: 1
 book/chapter: "[[Mic.1|Micah 1]]"
-genre:
+chronological_order: 623
+era: Divided Kingdom
+period: "The Divided Kingdom: Micah's Prophecy"
+date: ~735–700 BC
+book_genre:
 - latter prophets
 - minor prophets
 - prophetic oracle
 - poetry
 - social justice
+verse_count: 9
 verses:
 - "[[Mic.1.8]]"
 - "[[Mic.1.9]]"
@@ -28,7 +35,7 @@ verses:
 - "[[Mic.1.16]]"
 ---
 
-[[Mic.1|Micah 1:8 - Micah 1:16]]
+<small>[[Mic.1|Micah 1:8-16]]</small>
 *Weeping and Mourning*
 
 [[Mic.1.8|8]] Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls.

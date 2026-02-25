@@ -1,6 +1,62 @@
+---
+title: LXX Numbers 9:21
+type: Verse
+lxx: "And it shall be whenever the cloud should be present from evening until morning, and the cloud should ascend in the morning, then they shall depart by day or night,"
+greek: "και έσται όταν γένηται η νεφέλη αφ΄ εσπέρας έως πρωϊ και αναβή η νεφέλη τοπρωϊ και απαρούσιν ημέρας η νυκτός"
+original_language: Greek
+testament: Old
+book: Numbers
+chapter: 9
+book/chapter: "[[Num.9|Numbers 9]]"
+chronological_order: 168
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CLOUD|CLOUD]]"
+- "[[topic FIRE|FIRE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G3752]]"
+- "[[G1096]]"
+- "[[G3588]]"
+- "[[G3507]]"
+- "[[G0575]]"
+- "[[G2073]]"
+- "[[G2193]]"
+- "[[G4404]]"
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G3588]]"
+- "[[G3507]]"
+- "[[G4404]]"
+- "[[G2532]]"
+- "[[G0522]]"
+- "[[G2250]]"
+- "[[G2228]]"
+- "[[G3571]]"
+---
+
 **LXX Numbers 9:21** 
 <small><sub>**LXX:**</sub></small>
 And it shall be whenever the cloud should be \[present\] from evening until morning, and the cloud should ascend in the morning, then they shall depart by day or night, 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1510\|έσται]] [[G3752\|όταν]] [[G1096\|γένηται]] [[G3588\|η]] [[G3507\|νεφέλη]] [[G0575\|αφ΄]] [[G2073\|εσπέρας]] [[G2193\|έως]] [[G4404\|πρωϊ]] [[G2532\|και]] [[G0305\|αναβή]] [[G3588\|η]] [[G3507\|νεφέλη]] [[G4404\|τοπρωϊ]] [[G2532\|και]] [[G0522\|απαρούσιν]] [[G2250\|ημέρας]] [[G2228\|η]] [[G3571\|νυκτός]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CLOUD|CLOUD]] • [[topic FIRE|FIRE]] • [[topic GOD|GOD]] • [[topic OBEDIENCE|OBEDIENCE]]</small>
 <small><sub>**MT:**</sub></small>
 [[Num.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.20|<< Numbers 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.22|Numbers 9:22 >>]]</td></tr></table>
 
@@ -26,6 +82,6 @@ And it shall be whenever the cloud should be \[present\] from evening until morn
 | by day | **<big>[[G2250\|ημέρας]]</big>** |
 | or | **<big>[[G2228\|η]]</big>** |
 | night, | **<big>[[G3571\|νυκτός]]</big>** |
-[[Num.9.21|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.20|<< Numbers 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.22|Numbers 9:22 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Num.9.20|<< Numbers 9:20]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Num.9.22|Numbers 9:22 >>]]</td></tr></table>
 
 

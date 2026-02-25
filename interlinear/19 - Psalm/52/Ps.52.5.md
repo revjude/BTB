@@ -1,8 +1,63 @@
+---
+title: Psalm 52:5
+type: Verse
+kjv: "God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah."
+bsb: "Surely God will bring you down to everlasting ruin; He will snatch you up and tear you away from your tent; He will uproot you from the land of the living. Selah"
+hebrew: "גַּם־ אֵל֮ יִתָּצְךָ֪ לָ֫נֶ֥צַח יַחְתְּךָ֣ וְיִסָּחֲךָ֣ מֵאֹ֑הֶל וְשֵֽׁרֶשְׁךָ֨ מֵאֶ֖רֶץ חַיִּ֣ים סֶֽלָה׃"
+pericope: "[[Ps.52.1 Why Do You Boast of Evil？|Why Do You Boast of Evil？]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 52
+book/chapter: "[[Ps.52|Psalm 52]]"
+chronological_order: 313
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic RICH, THE|RICH, THE]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0410G]]"
+- "[[H5422]]"
+- "[[H9031]]"
+- "[[H9005]]"
+- "[[H5331]]"
+- "[[H2846]]"
+- "[[H9002]]"
+- "[[H5255]]"
+- "[[H9006]]"
+- "[[H0168G]]"
+- "[[H9001]]"
+- "[[H8327]]"
+- "[[H0776G]]"
+- "[[H2416A]]"
+- "[[H5542]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 52:5**<big><big>[[Ps.52.1 Why Do You Boast of Evil？|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of [thy] dwelling place, and root thee out of the land of the living. Selah.
 <small><sub>**BSB:**</sub></small>
 Surely God will bring you down to everlasting ruin; He will snatch you up and tear you away from your tent; He will uproot you from the land of the living. Selah
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H0410G\|אֵל֮]] [[H5422\|יִתָּצְ]][[H9031\|ךָ֪]] [[H9005\|לָ֫]][[H5331\|נֶ֥צַח]] [[H2846\|יַחְתְּ]][[H9031\|ךָ֣]] [[H9002\|וְ]][[H5255\|יִסָּחֲ]][[H9031\|ךָ֣]] [[H9006\|מֵ]][[H0168G\|אֹ֑הֶל]] [[H9001\|וְ]][[H8327\|שֵֽׁרֶשְׁ]][[H9031\|ךָ֨]] [[H9006\|מֵ]][[H0776G\|אֶ֖רֶץ]] [[H2416A\|חַיִּ֣ים]] [[H5542\|סֶֽלָה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic RICH, THE|RICH, THE]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.52.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.52.4|<< Psalms 52:4]]</td><td align="center" style="border:none;">[[Ps.52|Psalms 52]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.52.6|Psalms 52:6 >>]]</td></tr></table>
 

@@ -1,8 +1,51 @@
+---
+title: Nehemiah 7:54
+type: Verse
+kjv: "The children of Bazlith, the children of Mehida, the children of Harsha,"
+bsb: "the descendants of Bazlith, the descendants of Mehida, the descendants of Harsha,"
+hebrew: "בְּנֵי־ בַצְלִ֥ית בְּנֵֽי־ מְחִידָ֖א בְּנֵ֥י חַרְשָֽׁא׃"
+pericope: "[[Neh.7.4 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 7
+book/chapter: "[[Neh.7|Nehemiah 7]]"
+chronological_order: 919
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BAZLITH|BAZLITH]]"
+- "[[topic HARSHA|HARSHA]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic MEHIDA|MEHIDA]]"
+strongs:
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H1213]]"
+- "[[H4240]]"
+- "[[H2797]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 7:54**<big><big>[[Neh.7.4 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The children of Bazlith, the children of Mehida, the children of Harsha,
 <small><sub>**BSB:**</sub></small>
 the descendants of Bazlith, the descendants of Mehida, the descendants of Harsha,
+<small><sub>**Hebrew:**</sub></small>
+[[H1121G\|בְּנֵי]][[H9014\|־]] [[H1213\|בַצְלִ֥ית]] [[H1121G\|בְּנֵֽי]][[H9014\|־]] [[H4240\|מְחִידָ֖א]] [[H1121G\|בְּנֵ֥י]] [[H2797\|חַרְשָֽׁא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BAZLITH|BAZLITH]] • [[topic HARSHA|HARSHA]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LEVITES|LEVITES]] • [[topic MEHIDA|MEHIDA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.7.54|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.7.53|<< Nehemiah 7:53]]</td><td align="center" style="border:none;">[[Neh.7|Nehemiah 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.7.55|Nehemiah 7:55 >>]]</td></tr></table>
 

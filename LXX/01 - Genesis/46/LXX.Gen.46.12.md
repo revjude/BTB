@@ -1,6 +1,73 @@
+---
+title: LXX Genesis 46:12
+type: Verse
+lxx: "And the sons of Judah -- Er, and Onan, and Shelah, and Pharez, and Zerah. And Er and Onan died in the land of Canaan. And the sons born of Pharez -- Hezron, and Hamul."
+greek: "υιοί δε Ιούδα Ηρ και Αυνάν και Σηλών και Φαρές και Ζαρά απεθανον δε Ηρ και Αυνάν εν γη Χαναάν εγένοντο δε υιοί Φαρές Εσρών και Ιεμουήλ"
+original_language: Greek
+testament: Old
+book: Genesis
+chapter: 46
+book/chapter: "[[Gen.46|Genesis 46]]"
+chronological_order: 88
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ER|ER]]"
+- "[[topic HAMUL|HAMUL]]"
+- "[[topic HEZRON|HEZRON]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic ONAN|ONAN]]"
+- "[[topic PHAREZ|PHAREZ]]"
+- "[[topic SHELAH|SHELAH]]"
+- "[[topic ZARAH|ZARAH]]"
+strongs:
+- "[[G5207]]"
+- "[[G1161]]"
+- "[[G2448]]"
+- "[[G2262]]"
+- "[[G2532]]"
+- "[[H0209]]"
+- "[[G2532]]"
+- "[[H7956]]"
+- "[[G2532]]"
+- "[[H6557]]"
+- "[[G2532]]"
+- "[[G2196]]"
+- "[[G0599]]"
+- "[[G1161]]"
+- "[[G2262]]"
+- "[[G2532]]"
+- "[[H0209]]"
+- "[[G1722]]"
+- "[[G1093]]"
+- "[[H3668]]"
+- "[[G1096]]"
+- "[[G1161]]"
+- "[[G5207]]"
+- "[[H6557]]"
+- "[[G2074]]"
+- "[[G2532]]"
+- "[[H3223]]"
+---
+
 **LXX Genesis 46:12** 
 <small><sub>**LXX:**</sub></small>
 And the sons of Judah -- Er, and Onan, and Shelah, and Pharez, and Zerah. And Er and Onan died in \[the\] land of Canaan. And \[the\] sons born of Pharez -- Hezron, and Hamul. 
+<small><sub>**Greek:**</sub></small>
+[[G5207\|υιοί]] [[G1161\|δε]] [[G2448\|Ιούδα]] [[G2262\|Ηρ]] [[G2532\|και]] [[H0209\|Αυνάν]] [[G2532\|και]] [[H7956\|Σηλών]] [[G2532\|και]] [[H6557\|Φαρές]] [[G2532\|και]] [[G2196\|Ζαρά]] [[G0599\|απεθανον]] [[G1161\|δε]] [[G2262\|Ηρ]] [[G2532\|και]] [[H0209\|Αυνάν]] [[G1722\|εν]] [[G1093\|γη]] [[H3668\|Χαναάν]] [[G1096\|εγένοντο]] [[G1161\|δε]] [[G5207\|υιοί]] [[H6557\|Φαρές]] [[G2074\|Εσρών]] [[G2532\|και]] [[H3223\|Ιεμουήλ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ER|ER]] • [[topic HAMUL|HAMUL]] • [[topic HEZRON|HEZRON]] • [[topic ISRAEL|ISRAEL]] • [[topic JACOB|JACOB]] • [[topic ONAN|ONAN]] • [[topic PHAREZ|PHAREZ]] • [[topic SHELAH|SHELAH]] • [[topic ZARAH|ZARAH]]</small>
 <small><sub>**MT:**</sub></small>
 [[Gen.46.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.11|<< Genesis 46:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.13|Genesis 46:13 >>]]</td></tr></table>
 
@@ -32,6 +99,6 @@ And the sons of Judah -- Er, and Onan, and Shelah, and Pharez, and Zerah. And Er
 | Hezron, | **<big>[[G2074\|Εσρών]]</big>** |
 | and | **<big>[[G2532\|και]]</big>** |
 | Hamul. | **<big>[[H3223\|Ιεμουήλ]]</big>** |
-[[Gen.46.12|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.11|<< Genesis 46:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.13|Genesis 46:13 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Gen.46.11|<< Genesis 46:11]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Gen.46.13|Genesis 46:13 >>]]</td></tr></table>
 
 

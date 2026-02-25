@@ -1,8 +1,50 @@
+---
+title: Song of Solomon 6:2
+type: Verse
+kjv: "My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies."
+bsb: "My beloved has gone down to his garden, to the beds of spices, to pasture his flock in the gardens and to gather lilies."
+hebrew: "דּוֹדִי֙ יָרַ֣ד לְגַנּ֔וֹ לַעֲרוּג֖וֹת הַבֹּ֑שֶׂם לִרְעוֹת֙ בַּגַּנִּ֔ים וְלִלְקֹ֖ט שֽׁוֹשַׁנִּֽים׃"
+pericope: "[[Song.6.2 The Bride|The Bride]]"
+original_language: Hebrew
+testament: Old
+book: Song of Solomon
+chapter: 6
+book/chapter: "[[Song.6|Song of Solomon 6]]"
+chronological_order: 453
+era: United Kingdom
+period: "Solomon: Song of Solomon"
+date: ~965 BC
+book_genre:
+- poetry
+- love poetry
+- megillot
+strongs:
+- "[[H1730G]]"
+- "[[H9020]]"
+- "[[H3381]]"
+- "[[H9005]]"
+- "[[H1588M]]"
+- "[[H9023]]"
+- "[[H6170]]"
+- "[[H9009]]"
+- "[[H1314]]"
+- "[[H7462B]]"
+- "[[H9003]]"
+- "[[H9002]]"
+- "[[H3950]]"
+- "[[H7799]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Song of Solomon 6:2**<big><big>[[Song.6.2 The Bride|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 My beloved is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.
 <small><sub>**BSB:**</sub></small>
 My beloved has gone down to his garden, to the beds of spices, to pasture his flock in the gardens and to gather lilies.
+<small><sub>**Hebrew:**</sub></small>
+[[H1730G\|דּוֹדִ]][[H9020\|י֙]] [[H3381\|יָרַ֣ד]] [[H9005\|לְ]][[H1588M\|גַנּ֔]][[H9023\|וֹ]] [[H9005\|לַ]][[H6170\|עֲרוּג֖וֹת]] [[H9009\|הַ]][[H1314\|בֹּ֑שֶׂם]] [[H9005\|לִ]][[H7462B\|רְעוֹת֙]] [[H9003\|בַּ]][[H1588M\|גַּנִּ֔ים]] [[H9002\|וְ]][[H9005\|לִ]][[H3950\|לְקֹ֖ט]] [[H7799\|שֽׁוֹשַׁנִּֽים]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Song.6.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Song.6.1|<< Song of Solomon 6:1]]</td><td align="center" style="border:none;">[[Song.6|Song of Solomon 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Song.6.3|Song of Solomon 6:3 >>]]</td></tr></table>
 

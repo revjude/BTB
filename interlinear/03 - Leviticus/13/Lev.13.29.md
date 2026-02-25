@@ -1,8 +1,59 @@
+---
+title: Leviticus 13:29
+type: Verse
+kjv: "If a man or woman have a plague upon the head or the beard;"
+bsb: "If a man or woman has an infection on the head or chin,"
+hebrew: "וְאִישׁ֙ א֣וֹ אִשָּׁ֔ה כִּֽי־ יִהְיֶ֥ה ב֖וֹ נָ֑גַע בְּרֹ֖אשׁ א֥וֹ בְזָקָֽן׃"
+pericope: "[[Lev.13.1 Laws about Skin Diseases|Laws about Skin Diseases]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 13
+book/chapter: "[[Lev.13|Leviticus 13]]"
+chronological_order: 145
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic BEARD|BEARD]]"
+- "[[topic SANITATION|SANITATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0376G]]"
+- "[[H0176A]]"
+- "[[H0802G]]"
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H1961]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H5061]]"
+- "[[H7218A]]"
+- "[[H2206]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 13:29**<big><big>[[Lev.13.1 Laws about Skin Diseases|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If a man or woman have a plague upon the head or the beard;
 <small><sub>**BSB:**</sub></small>
 If a man or woman has an infection on the head or chin,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0376G\|אִישׁ֙]] [[H0176A\|א֣וֹ]] [[H0802G\|אִשָּׁ֔ה]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H1961\|יִהְיֶ֥ה]] [[H9003\|ב֖]][[H9033\|וֹ]] [[H5061\|נָ֑גַע]] [[H9003\|בְּ]][[H7218A\|רֹ֖אשׁ]] [[H0176A\|א֥וֹ]] [[H9003\|בְ]][[H2206\|זָקָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEARD|BEARD]] • [[topic SANITATION|SANITATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.13.29|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.13.28|<< Leviticus 13:28]]</td><td align="center" style="border:none;">[[Lev.13|Leviticus 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.13.30|Leviticus 13:30 >>]]</td></tr></table>
 

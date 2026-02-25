@@ -1,10 +1,73 @@
+---
+title: 2 Timothy 1:12
+type: Verse
+kjv: "For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day."
+bsb: "For this reason, even though I suffer as I do, I am not ashamed; for I know whom I have believed, and I am convinced that He is able to guard what I have entrusted to Him for that day."
+greek: "δι᾽ ἣν αἰτίαν καὶ ταῦτα πάσχω, ἀλλ᾽ οὐκ ἐπαισχύνομαι· οἶδα γὰρ ᾧ πεπίστευκα καὶ πέπεισμαι ὅτι δυνατός ἐστιν τὴν παραθήκην μου φυλάξαι εἰς ἐκείνην τὴν ἡμέραν.¶"
+pericope: "[[2Tim.1.3 Faithfulness under Persecution|Faithfulness under Persecution]]"
+original_language: Greek
+testament: New
+book: 2 Timothy
+chapter: 1
+book/chapter: "[[2Tim.1|2 Timothy 1]]"
+chronological_order: 1153
+era: Church
+period: "Paul's Final Imprisonment and Farewell"
+date: ~AD 66–67
+book_genre:
+- epistle
+- pauline epistle
+- pastoral epistle
+- testament letter
+topics:
+- "[[topic ASSURANCE|ASSURANCE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PAUL|PAUL]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic POWER|POWER]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G1223]]"
+- "[[G3739]]"
+- "[[G0156]]"
+- "[[G2532]]"
+- "[[G3778]]"
+- "[[G3958]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G1870]]"
+- "[[G6063]]"
+- "[[G1063]]"
+- "[[G4100]]"
+- "[[G3982]]"
+- "[[G3754G]]"
+- "[[G1415]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G3866]]"
+- "[[G3165]]"
+- "[[G5442I]]"
+- "[[G1519]]"
+- "[[G1565]]"
+- "[[G2250]]"
+texts:
+- NKO
+---
+
 **2 Timothy 1:12**<big><big>[[2Tim.1.3 Faithfulness under Persecution|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For the which cause I also suffer these things: nevertheless I am not ashamed: for I know whom I have believed, and am persuaded that he is able to keep that which I have committed unto him against that day.
 <small><sub>**BSB:**</sub></small>
 For this reason, even though I suffer as I do, I am not ashamed; for I know whom I have believed, and I am convinced that He is able to guard what I have entrusted to Him for that day.
-<small><sub>**Literal:**</sub></small>
-For this reason also these things I suffer, But not I am ashamed; I know for in whom I have believed and I have been persuaded that able He is the entrusted deposit of mine to guard for that [very] <the> day.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.11|<< 2 Timothy 1:11]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.13|2 Timothy 1:13 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1223\|δι᾽]]  [[G3739\|ἣν]]  [[G0156\|αἰτίαν]]  [[G2532\|καὶ]]  [[G3778\|ταῦτα]]  [[G3958\|πάσχω,]]  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐκ]]  [[G1870\|ἐπαισχύνομαι·]]  [[G6063\|οἶδα]]  [[G1063\|γὰρ]]  [[G3739\|ᾧ]]  [[G4100\|πεπίστευκα]]  [[G2532\|καὶ]]  [[G3982\|πέπεισμαι]]  [[G3754G\|ὅτι]]  [[G1415\|δυνατός]]  [[G1510\|ἐστιν]]  [[G3588\|τὴν]]  [[G3866\|παραθήκην]]  [[G3165\|μου]]  [[G5442I\|φυλάξαι]]  [[G1519\|εἰς]]  [[G1565\|ἐκείνην]]  [[G3588\|τὴν]]  [[G2250\|ἡμέραν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSURANCE|ASSURANCE]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PAUL|PAUL]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic POWER|POWER]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic TESTIMONY|TESTIMONY]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Tim.1.11|<< 2 Timothy 1:11]]</td><td align="center" style="border:none;">[[2Tim.1|2 Timothy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Tim.1.13|2 Timothy 1:13 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

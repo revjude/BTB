@@ -1,8 +1,71 @@
+---
+title: Isaiah 28:22
+type: Verse
+kjv: "Now therefore be ye not mockers, lest your bands be made strong: for I have heard from the Lord GOD of hosts a consumption, even determined upon the whole earth."
+bsb: "So now, do not mock, or your shackles will become heavier. Indeed, I have heard from the Lord GOD of Hosts a decree of destruction against the whole land."
+hebrew: "וְעַתָּה֙ אַל־ תִּתְלוֹצָ֔צוּ פֶּֽן־ יֶחְזְק֖וּ מֽוֹסְרֵיכֶ֑ם כִּֽי־ כָלָ֨ה וְנֶחֱרָצָ֜ה שָׁמַ֗עְתִּי מֵאֵ֨ת אֲדֹנָ֧י יְהוִ֛ה צְבָא֖וֹת עַל־ כָּל־ הָאָֽרֶץ׃"
+pericope: "[[Isa.28.14 A Cornerstone in Zion|A Cornerstone in Zion]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 28
+book/chapter: "[[Isa.28|Isaiah 28]]"
+chronological_order: 671
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic MOCKING|MOCKING]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SIN|SIN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H3887]]"
+- "[[H6435]]"
+- "[[H2388G]]"
+- "[[H4147]]"
+- "[[H9026]]"
+- "[[H3588A]]"
+- "[[H3617]]"
+- "[[H2782]]"
+- "[[H8085G]]"
+- "[[H9006]]"
+- "[[H0854]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H6635B]]"
+- "[[H5921A]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 28:22**<big><big>[[Isa.28.14 A Cornerstone in Zion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now therefore be ye not mockers, lest your bands be made strong: for I have heard from the Lord GOD of hosts a consumption, even determined upon the whole earth.
 <small><sub>**BSB:**</sub></small>
 So now, do not mock, or your shackles will become heavier. Indeed, I have heard from the Lord GOD of Hosts a decree of destruction against the whole land.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּה֙]] [[H0408\|אַל]][[H9014\|־]] [[H3887\|תִּתְלוֹצָ֔צוּ]] [[H6435\|פֶּֽן]][[H9014\|־]] [[H2388G\|יֶחְזְק֖וּ]] [[H4147\|מֽוֹסְרֵי]][[H9026\|כֶ֑ם]] [[H3588A\|כִּֽי]][[H9014\|־]] [[H3617\|כָלָ֨ה]] [[H9002\|וְ]][[H2782\|נֶחֱרָצָ֜ה]] [[H8085G\|שָׁמַ֗עְתִּי]] [[H9006\|מֵ]][[H0854\|אֵ֨ת]] [[H0136\|אֲדֹנָ֧י]] [[H3069\|יְהוִ֛ה]] [[H6635B\|צְבָא֖וֹת]] [[H5921A\|עַל]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INFIDELITY|INFIDELITY]] • [[topic ISAIAH|ISAIAH]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic MOCKING|MOCKING]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic PROPHECY|PROPHECY]] • [[topic SIN|SIN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.28.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.28.21|<< Isaiah 28:21]]</td><td align="center" style="border:none;">[[Isa.28|Isaiah 28]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.28.23|Isaiah 28:23 >>]]</td></tr></table>
 

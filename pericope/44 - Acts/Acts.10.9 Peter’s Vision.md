@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Peter’s Vision
+type: Pericope
 pericope: "[[Acts.10.9 Peter’s Vision|Peter’s Vision]]"
-verse_count: 8
+original_language: Greek
 testament: New
 book: Acts
 chapter: 10
 book/chapter: "[[Acts.10|Acts 10]]"
-genre:
+chronological_order: 1028
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 8
 verses:
 - "[[Acts.10.9]]"
 - "[[Acts.10.10]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Acts.10.16]]"
 ---
 
-[[Acts.10|Acts 10:9 - Acts 10:16]]
+<small>[[Acts.10|Acts 10:9-16]]</small>
 *Peter’s Vision*
 
 [[Acts.10.9|9]] On the morrow, as they went on their journey, and drew nigh unto the city, Peter went up upon the housetop to pray about the sixth hour:

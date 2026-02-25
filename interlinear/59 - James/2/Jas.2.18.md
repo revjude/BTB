@@ -1,10 +1,60 @@
+---
+title: James 2:18
+type: Verse
+kjv: "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
+bsb: "But someone will say, “You have faith and I have deeds.” Show me your faith without deeds, and I will show you my faith by my deeds."
+greek: "Ἀλλ᾽ ἐρεῖ τις· σὺ πίστιν ἔχεις, κἀγὼ κἀγὼ ἔργα ἔχω· δεῖξόν μοι τὴν πίστιν σου χωρὶς τῶν ἔργων σου, κἀγώ κἀγώ σοι δείξω ἐκ τῶν ἔργων μου τὴν πίστιν μου."
+pericope: "[[Jas.2.14 Faith and Works|Faith and Works]]"
+original_language: Greek
+testament: New
+book: James
+chapter: 2
+book/chapter: "[[Jas.2|James 2]]"
+chronological_order: 1034
+era: Church
+period: "James's Epistle to the Church"
+date: ~AD 45–49
+book_genre:
+- epistle
+- general epistle
+- wisdom literature
+- ethical instruction
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G0235]]"
+- "[[G4483]]"
+- "[[G5100]]"
+- "[[G4771]]"
+- "[[G4102G]]"
+- "[[G2192]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2041]]"
+- "[[G1166]]"
+- "[[G3165]]"
+- "[[G3588]]"
+- "[[G5565]]"
+- "[[G1537]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **James 2:18**<big><big>[[Jas.2.14 Faith and Works|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works.
 <small><sub>**BSB:**</sub></small>
 But someone will say, “You have faith and I have deeds.” Show me your faith without deeds, and I will show you my faith by my deeds.
-<small><sub>**Literal:**</sub></small>
-But will say someone; You yourself faith have, and I myself works have; do show me the faith of you without the works of you and I myself you will show by the works of mine the faith of mine.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.17|<< James 2:17]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.19|James 2:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0235\|Ἀλλ᾽]]  [[G4483\|ἐρεῖ]]  [[G5100\|τις·]]  [[G4771\|σὺ]]  [[G4102G\|πίστιν]]  [[G2192\|ἔχεις,]]  [[G1473\|κἀγὼ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G2041\|ἔργα]]  [[G2192\|ἔχω·]]  [[G1166\|δεῖξόν]]  [[G3165\|μοι]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G4771\|σου]]  [[G5565\|χωρὶς]]  [[G3588\|τῶν]]  [[G2041\|ἔργων]]  [[G4771\|σου,]]  [[G1473\|κἀγώ]]  <sup><small>[[G2532\| [ • ] ]]</small></sup>  [[G4771\|σοι]]  [[G1166\|δείξω]]  [[G1537\|ἐκ]]  [[G3588\|τῶν]]  [[G2041\|ἔργων]]  [[G3165\|μου]]  [[G3588\|τὴν]]  [[G4102G\|πίστιν]]  [[G3165\|μου.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic RELIGION|RELIGION]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jas.2.17|<< James 2:17]]</td><td align="center" style="border:none;">[[Jas.2|James 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jas.2.19|James 2:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Joyful Return
+type: Pericope
 pericope: "[[2Chr.20.26 The Joyful Return|The Joyful Return]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 20
 book/chapter: "[[2Chr.20|2 Chronicles 20]]"
-genre:
+chronological_order: 573
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 5
 verses:
 - "[[2Chr.20.26]]"
 - "[[2Chr.20.27]]"
@@ -23,7 +30,7 @@ verses:
 - "[[2Chr.20.30]]"
 ---
 
-[[2Chr.20|2 Chronicles 20:26 - 2 Chronicles 20:30]]
+<small>[[2Chr.20|2 Chronicles 20:26-30]]</small>
 *The Joyful Return*
 
 [[2Chr.20.26|26]] And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same place was called, The valley of Berachah, unto this day.

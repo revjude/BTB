@@ -1,10 +1,55 @@
+---
+title: Revelation 12:16
+type: Verse
+kjv: "And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth."
+bsb: "But the earth helped the woman and opened its mouth to swallow up the river that the dragon had poured from his mouth."
+greek: "καὶ ἐβοήθησεν ἡ γῆ τῇ γυναικὶ καὶ ἤνοιξεν ἡ γῆ τὸ στόμα αὐτῆς καὶ κατέπιεν τὸν ποταμὸν ὃν ἔβαλεν ὁ δράκων ἐκ τοῦ στόματος αὐτοῦ."
+pericope: "[[Rev.12.13 The Woman Persecuted|The Woman Persecuted]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic VISION|VISION]]"
+strongs:
+- "[[G2532]]"
+- "[[G0997]]"
+- "[[G3588]]"
+- "[[G1093G]]"
+- "[[G1135G]]"
+- "[[G0455]]"
+- "[[G4750]]"
+- "[[G0846]]"
+- "[[G2666]]"
+- "[[G4215]]"
+- "[[G3739]]"
+- "[[G0906J]]"
+- "[[G1404]]"
+- "[[G1537]]"
+texts:
+- NKO
+---
+
 **Revelation 12:16**<big><big>[[Rev.12.13 The Woman Persecuted|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And the earth helped the woman, and the earth opened her mouth, and swallowed up the flood which the dragon cast out of his mouth.
 <small><sub>**BSB:**</sub></small>
 But the earth helped the woman and opened its mouth to swallow up the river that the dragon had poured from his mouth.
-<small><sub>**Literal:**</sub></small>
-And gave help the earth to the woman and opened the earth the mouth of it and swallowed up the river which had cast the dragon out of the mouth of him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.15|<< Revelation 12:15]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.17|Revelation 12:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0997\|ἐβοήθησεν]]  [[G3588\|ἡ]]  [[G1093G\|γῆ]]  [[G3588\|τῇ]]  [[G1135G\|γυναικὶ]]  [[G2532\|καὶ]]  [[G0455\|ἤνοιξεν]]  [[G3588\|ἡ]]  [[G1093G\|γῆ]]  [[G3588\|τὸ]]  [[G4750\|στόμα]]  [[G0846\|αὐτῆς]]  [[G2532\|καὶ]]  [[G2666\|κατέπιεν]]  [[G3588\|τὸν]]  [[G4215\|ποταμὸν]]  [[G3739\|ὃν]]  [[G0906J\|ἔβαλεν]]  [[G3588\|ὁ]]  [[G1404\|δράκων]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G4750\|στόματος]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic VISION|VISION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.12.15|<< Revelation 12:15]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.17|Revelation 12:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,66 @@
+---
+title: Nehemiah 13:2
+type: Verse
+kjv: "Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing."
+bsb: "because they had not met the Israelites with food and water, but had hired Balaam to call down a curse against them (although our God had turned the curse into a blessing)."
+hebrew: "כִּ֣י לֹ֧א קִדְּמ֛וּ אֶת־ בְּנֵ֥י יִשְׂרָאֵ֖ל בַּלֶּ֣חֶם וּבַמָּ֑יִם וַיִּשְׂכֹּ֨ר עָלָ֤יו אֶת־ בִּלְעָם֙ לְקַֽלְל֔וֹ וַיַּהֲפֹ֧ךְ אֱלֹהֵ֛ינוּ הַקְּלָלָ֖ה לִבְרָכָֽה׃"
+pericope: "[[Neh.13.1 Foreigners Excluded|Foreigners Excluded]]"
+original_language: Hebrew
+testament: Old
+book: Nehemiah
+chapter: 13
+book/chapter: "[[Neh.13|Nehemiah 13]]"
+chronological_order: 925
+era: Return
+period: "Return from Exile: Nehemiah Rebuilds Jerusalem"
+date: ~445–432 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+- building codes
+topics:
+- "[[topic BALAAM|BALAAM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H3808]]"
+- "[[H6923]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H3899H]]"
+- "[[H9002]]"
+- "[[H4325G]]"
+- "[[H9001]]"
+- "[[H7936B]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H1109A]]"
+- "[[H9005]]"
+- "[[H7043]]"
+- "[[H2015]]"
+- "[[H0430G]]"
+- "[[H9025]]"
+- "[[H9009]]"
+- "[[H7045]]"
+- "[[H1293]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Nehemiah 13:2**<big><big>[[Neh.13.1 Foreigners Excluded|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because they met not the children of Israel with bread and with water, but hired Balaam against them, that he should curse them: howbeit our God turned the curse into a blessing.
 <small><sub>**BSB:**</sub></small>
 because they had not met the Israelites with food and water, but had hired Balaam to call down a curse against them (although our God had turned the curse into a blessing).
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּ֣י]] [[H3808\|לֹ֧א]] [[H6923\|קִדְּמ֛וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֥י]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בַּ]][[H3899H\|לֶּ֣חֶם]] [[H9002\|וּ]][[H9003\|בַ]][[H4325G\|מָּ֑יִם]] [[H9001\|וַ]][[H7936B\|יִּשְׂכֹּ֨ר]] [[H5921A\|עָלָ֤י]][[H9033\|ו]] [[H0853\|אֶת]][[H9014\|־]] [[H1109A\|בִּלְעָם֙]] [[H9005\|לְ]][[H7043\|קַֽלְל֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H2015\|יַּהֲפֹ֧ךְ]] [[H0430G\|אֱלֹהֵ֛י]][[H9025\|נוּ]] [[H9009\|הַ]][[H7045\|קְּלָלָ֖ה]] [[H9005\|לִ]][[H1293\|בְרָכָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BALAAM|BALAAM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Neh.13.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Neh.13.1|<< Nehemiah 13:1]]</td><td align="center" style="border:none;">[[Neh.13|Nehemiah 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Neh.13.3|Nehemiah 13:3 >>]]</td></tr></table>
 

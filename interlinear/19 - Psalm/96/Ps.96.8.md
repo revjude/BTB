@@ -1,8 +1,59 @@
+---
+title: Psalm 96:8
+type: Verse
+kjv: "Give unto the LORD the glory due unto his name: bring an offering, and come into his courts."
+bsb: "Ascribe to the LORD the glory due His name; bring an offering and enter His courts."
+hebrew: "הָב֣וּ לַ֭יהוָה כְּב֣וֹד שְׁמ֑וֹ שְׂאֽוּ־ מִ֝נְחָ֗ה וּבֹ֥אוּ לְחַצְרוֹתָֽיו׃"
+pericope: "[[Ps.96.1 Sing to the LORD, All the Earth|Sing to the LORD, All the Earth]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 96
+book/chapter: "[[Ps.96|Psalm 96]]"
+chronological_order: 523
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3051]]"
+- "[[H9005]]"
+- "[[H3068G]]"
+- "[[H3519]]"
+- "[[H8034]]"
+- "[[H9023]]"
+- "[[H5375H]]"
+- "[[H9014]]"
+- "[[H4503G]]"
+- "[[H9002]]"
+- "[[H0935G]]"
+- "[[H2691A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 96:8**<big><big>[[Ps.96.1 Sing to the LORD, All the Earth|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Give unto the LORD the glory [due unto] his name: bring an offering, and come into his courts.
 <small><sub>**BSB:**</sub></small>
 Ascribe to the LORD the glory due His name; bring an offering and enter His courts.
+<small><sub>**Hebrew:**</sub></small>
+[[H3051\|הָב֣וּ]] [[H9005\|לַ֭]][[H3068G\|יהוָה]] [[H3519\|כְּב֣וֹד]] [[H8034\|שְׁמ֑]][[H9023\|וֹ]] [[H5375H\|שְׂאֽוּ]][[H9014\|־]] [[H4503G\|מִ֝נְחָ֗ה]] [[H9002\|וּ]][[H0935G\|בֹ֥אוּ]] [[H9005\|לְ]][[H2691A\|חַצְרוֹתָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PRAISE|PRAISE]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.96.8|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.96.7|<< Psalms 96:7]]</td><td align="center" style="border:none;">[[Ps.96|Psalms 96]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.96.9|Psalms 96:9 >>]]</td></tr></table>
 

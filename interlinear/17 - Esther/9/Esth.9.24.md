@@ -1,8 +1,66 @@
+---
+title: Esther 9:24
+type: Verse
+kjv: "Because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast Pur, that is, the lot, to consume them, and to destroy them;"
+bsb: "For Haman son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them and had cast the Pur (that is, the lot) to crush and destroy them."
+hebrew: "כִּי֩ הָמָ֨ן בֶּֽן־ הַמְּדָ֜תָא הָֽאֲגָגִ֗י צֹרֵר֙ כָּל־ הַיְּהוּדִ֔ים חָשַׁ֥ב עַל־ הַיְּהוּדִ֖ים לְאַבְּדָ֑ם וְהִפִּ֥יל פּוּר֙ ה֣וּא הַגּוֹרָ֔ל לְהֻמָּ֖ם וּֽלְאַבְּדָֽם׃"
+pericope: "[[Esth.9.18 The Feast of Purim Instituted|The Feast of Purim Instituted]]"
+original_language: Hebrew
+testament: Old
+book: Esther
+chapter: 9
+book/chapter: "[[Esth.9|Esther 9]]"
+chronological_order: 907
+era: Return
+period: "The Persian Period: Esther"
+date: ~483–473 BC
+book_genre:
+- narrative
+- court tale
+- diaspora narrative
+- megillot
+topics:
+- "[[topic HAMMEDATHA|HAMMEDATHA]]"
+- "[[topic LOT, THE|LOT, THE]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic PURIM|PURIM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H2001]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H4099]]"
+- "[[H9009]]"
+- "[[H0091]]"
+- "[[H6887D]]"
+- "[[H3605]]"
+- "[[H3064]]"
+- "[[H2803I]]"
+- "[[H5921A]]"
+- "[[H9005]]"
+- "[[H0006]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H5307I]]"
+- "[[H6332]]"
+- "[[H1931]]"
+- "[[H1486]]"
+- "[[H2000]]"
+- "[[H9002]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Esther 9:24**<big><big>[[Esth.9.18 The Feast of Purim Instituted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because Haman the son of Hammedatha, the Agagite, the enemy of all the Jews, had devised against the Jews to destroy them, and had cast Pur, that [is], the lot, to consume them, and to destroy them;
 <small><sub>**BSB:**</sub></small>
 For Haman son of Hammedatha, the Agagite, the enemy of all the Jews, had plotted against the Jews to destroy them and had cast the Pur (that is, the lot) to crush and destroy them.
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּי֩]] [[H2001\|הָמָ֨ן]] [[H1121A\|בֶּֽן]][[H9014\|־]] [[H4099\|הַמְּדָ֜תָא]] [[H9009\|הָֽ]][[H0091\|אֲגָגִ֗י]] [[H6887D\|צֹרֵר֙]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֔ים]] [[H2803I\|חָשַׁ֥ב]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H3064\|יְּהוּדִ֖ים]] [[H9005\|לְ]][[H0006\|אַבְּדָ֑]][[H9038\|ם]] [[H9001\|וְ]][[H5307I\|הִפִּ֥יל]] [[H6332\|פּוּר֙]] [[H1931\|ה֣וּא]] [[H9009\|הַ]][[H1486\|גּוֹרָ֔ל]] [[H9005\|לְ]][[H2000\|הֻמָּ֖]][[H9038\|ם]] [[H9002\|וּֽ]][[H9005\|לְ]][[H0006\|אַבְּדָֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HAMMEDATHA|HAMMEDATHA]] • [[topic LOT, THE|LOT, THE]] • [[topic MONTH|MONTH]] • [[topic PURIM|PURIM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Esth.9.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Esth.9.23|<< Esther 9:23]]</td><td align="center" style="border:none;">[[Esth.9|Esther 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Esth.9.25|Esther 9:25 >>]]</td></tr></table>
 

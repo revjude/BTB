@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Joseph’s Hospitality to His Brothers
+type: Pericope
 pericope: "[[Gen.43.16 Joseph’s Hospitality to His Brothers|Joseph’s Hospitality to His Brothers]]"
-verse_count: 19
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 43
 book/chapter: "[[Gen.43|Genesis 43]]"
-genre:
+chronological_order: 85
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 19
 verses:
 - "[[Gen.43.16]]"
 - "[[Gen.43.17]]"
@@ -40,7 +47,7 @@ verses:
 - "[[Gen.43.34]]"
 ---
 
-[[Gen.43|Genesis 43:16 - Genesis 43:34]]
+<small>[[Gen.43|Genesis 43:16-34]]</small>
 *Joseph’s Hospitality to His Brothers*
 
 [[Gen.43.16|16]] And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring \[these\] men home, and slay, and make ready; for \[these\] men shall dine with me at noon.

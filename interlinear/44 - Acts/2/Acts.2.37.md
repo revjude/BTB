@@ -1,10 +1,65 @@
+---
+title: Acts 2:37
+type: Verse
+kjv: "Now when they heard this, they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men and brethren, what shall we do?"
+bsb: "When the people heard this, they were cut to the heart and asked Peter and the other apostles, “Brothers, what shall we do?”"
+greek: "Ἀκούσαντες δὲ κατενύγησαν τὴν καρδίαν, εἶπόν τε πρὸς τὸν Πέτρον καὶ τοὺς λοιποὺς ἀποστόλους· τί ποιήσωμεν, ἄνδρες ἀδελφοί;"
+pericope: "[[Acts.2.37 Three Thousand Believe|Three Thousand Believe]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic REMORSE|REMORSE]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic SELF-DEFENSE|SELF-DEFENSE]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G0191]]"
+- "[[G1161]]"
+- "[[G2660]]"
+- "[[G3588]]"
+- "[[G2588]]"
+- "[[G2036]]"
+- "[[G5037]]"
+- "[[G4314]]"
+- "[[G4074G]]"
+- "[[G2532]]"
+- "[[G3062]]"
+- "[[G0652]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G0435G]]"
+- "[[G0080]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 2:37**<big><big>[[Acts.2.37 Three Thousand Believe|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now when they heard [this], they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men [and] brethren, what shall we do?
 <small><sub>**BSB:**</sub></small>
 When the people heard this, they were cut to the heart and asked Peter and the other apostles, “Brothers, what shall we do?”
-<small><sub>**Literal:**</sub></small>
-Having heard then they were pierced to the heart, they said then to <the> Peter and the other apostles; What shall we do, men brothers?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.36|<< Acts 2:36]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.38|Acts 2:38 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0191\|Ἀκούσαντες]]  [[G1161\|δὲ]]  [[G2660\|κατενύγησαν]]  [[G3588\|τὴν]]  [[G2588\|καρδίαν,]]  [[G2036\|εἶπόν]]  [[G5037\|τε]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G4074G\|Πέτρον]]  [[G2532\|καὶ]]  [[G3588\|τοὺς]]  [[G3062\|λοιποὺς]]  [[G0652\|ἀποστόλους·]]  [[G5101\|τί]]  [[G4160G\|ποιήσωμεν,]]  [[G0435G\|ἄνδρες]]  [[G0080\|ἀδελφοί;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic DAVID|DAVID]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic REMORSE|REMORSE]] • [[topic REVIVALS|REVIVALS]] • [[topic SELF-DEFENSE|SELF-DEFENSE]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.36|<< Acts 2:36]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.38|Acts 2:38 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

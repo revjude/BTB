@@ -1,8 +1,56 @@
+---
+title: Judges 4:1
+type: Verse
+kjv: "And the children of Israel again did evil in the sight of the LORD, when Ehud was dead."
+bsb: "After Ehud died, the Israelites again did evil in the sight of the LORD."
+hebrew: "וַיֹּסִ֙פוּ֙ בְּנֵ֣י יִשְׂרָאֵ֔ל לַעֲשׂ֥וֹת הָרַ֖ע בְּעֵינֵ֣י יְהוָ֑ה וְאֵה֖וּד מֵֽת׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic ISRAEL|ISRAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3254G]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9005]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H3068G]]"
+- "[[H9002]]"
+- "[[H0164G]]"
+- "[[H4191]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:1**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.
 <small><sub>**BSB:**</sub></small>
 After Ehud died, the Israelites again did evil in the sight of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3254G\|יֹּסִ֙פוּ֙]] [[H1121G\|בְּנֵ֣י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9005\|לַ]][[H6213A\|עֲשׂ֥וֹת]] [[H9009\|הָ]][[H7451H\|רַ֖ע]] [[H9003\|בְּ]][[H5869H\|עֵינֵ֣י]] [[H3068G\|יְהוָ֑ה]] [[H9002\|וְ]][[H0164G\|אֵה֖וּד]] [[H4191\|מֵֽת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic ISRAEL|ISRAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.3.31|<< Judges 3:31]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.2|Judges 4:2 >>]]</td></tr></table>
 

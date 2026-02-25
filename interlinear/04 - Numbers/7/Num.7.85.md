@@ -1,8 +1,64 @@
+---
+title: Numbers 7:85
+type: Verse
+kjv: "Each charger of silver weighing an hundred and thirty shekels, each bowl seventy: all the silver vessels weighed two thousand and four hundred shekels, after the shekel of the sanctuary:"
+bsb: "Each silver platter weighed a hundred and thirty shekels, and each silver bowl seventy shekels. The total weight of the silver articles was two thousand four hundred shekels, according to the sanctuary shekel."
+hebrew: "שְׁלֹשִׁ֣ים וּמֵאָ֗ה הַקְּעָרָ֤ה הָֽאַחַת֙ כֶּ֔סֶף וְשִׁבְעִ֖ים הַמִּזְרָ֣ק הָאֶחָ֑ד כֹּ֚ל כֶּ֣סֶף הַכֵּלִ֔ים אַלְפַּ֥יִם וְאַרְבַּע־ מֵא֖וֹת בְּשֶׁ֥קֶל הַקֹּֽדֶשׁ׃"
+pericope: "[[Num.7.1 Offerings of Dedication|Offerings of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 7
+book/chapter: "[[Num.7|Numbers 7]]"
+chronological_order: 166
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic CHARGER|CHARGER]]"
+- "[[topic SHEKEL|SHEKEL]]"
+- "[[topic SILVER|SILVER]]"
+strongs:
+- "[[H7970]]"
+- "[[H9002]]"
+- "[[H3967]]"
+- "[[H9009]]"
+- "[[H7086]]"
+- "[[H0259]]"
+- "[[H3701G]]"
+- "[[H7657]]"
+- "[[H4219]]"
+- "[[H3605]]"
+- "[[H3627]]"
+- "[[H0505G]]"
+- "[[H0702]]"
+- "[[H9014]]"
+- "[[H9003]]"
+- "[[H8255]]"
+- "[[H6944G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 7:85**<big><big>[[Num.7.1 Offerings of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Each charger of silver [weighing] an hundred and thirty [shekels], each bowl seventy: all the silver vessels [weighed] two thousand and four hundred [shekels], after the shekel of the sanctuary:
 <small><sub>**BSB:**</sub></small>
 Each silver platter weighed a hundred and thirty shekels, and each silver bowl seventy shekels. The total weight of the silver articles was two thousand four hundred shekels, according to the sanctuary shekel.
+<small><sub>**Hebrew:**</sub></small>
+[[H7970\|שְׁלֹשִׁ֣ים]] [[H9002\|וּ]][[H3967\|מֵאָ֗ה]] [[H9009\|הַ]][[H7086\|קְּעָרָ֤ה]] [[H9009\|הָֽ]][[H0259\|אַחַת֙]] [[H3701G\|כֶּ֔סֶף]] [[H9002\|וְ]][[H7657\|שִׁבְעִ֖ים]] [[H9009\|הַ]][[H4219\|מִּזְרָ֣ק]] [[H9009\|הָ]][[H0259\|אֶחָ֑ד]] [[H3605\|כֹּ֚ל]] [[H3701G\|כֶּ֣סֶף]] [[H9009\|הַ]][[H3627\|כֵּלִ֔ים]] [[H0505G\|אַלְפַּ֥יִם]] [[H9002\|וְ]][[H0702\|אַרְבַּע]][[H9014\|־]] [[H3967\|מֵא֖וֹת]] [[H9003\|בְּ]][[H8255\|שֶׁ֥קֶל]] [[H9009\|הַ]][[H6944G\|קֹּֽדֶשׁ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHARGER|CHARGER]] • [[topic SHEKEL|SHEKEL]] • [[topic SILVER|SILVER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.7.85|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.7.84|<< Numbers 7:84]]</td><td align="center" style="border:none;">[[Num.7|Numbers 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.7.86|Numbers 7:86 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: 2 Samuel 16:20
+type: Verse
+kjv: "Then said Absalom to Ahithophel, Give counsel among you what we shall do."
+bsb: "Then Absalom said to Ahithophel, “Give me counsel. What should we do?”"
+hebrew: "וַיֹּ֥אמֶר אַבְשָׁל֖וֹם אֶל־ אֲחִיתֹ֑פֶל הָב֥וּ לָכֶ֛ם עֵצָ֖ה מַֽה־ נַּעֲשֶֽׂה׃"
+pericope: "[[2Sam.16.15 The Counsel of Ahithophel and Hushai|The Counsel of Ahithophel and Hushai]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AHITHOPHEL|AHITHOPHEL]]"
+- "[[topic COUNCIL|COUNCIL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0053]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0302]]"
+- "[[H3051]]"
+- "[[H9005]]"
+- "[[H9036]]"
+- "[[H6098]]"
+- "[[H4100]]"
+- "[[H6213A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 16:20**<big><big>[[2Sam.16.15 The Counsel of Ahithophel and Hushai|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Absalom to Ahithophel, Give counsel among you what we shall do.
 <small><sub>**BSB:**</sub></small>
 Then Absalom said to Ahithophel, “Give me counsel. What should we do?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H0053\|אַבְשָׁל֖וֹם]] [[H0413\|אֶל]][[H9014\|־]] [[H0302\|אֲחִיתֹ֑פֶל]] [[H3051\|הָב֥וּ]] [[H9005\|לָ]][[H9036\|כֶ֛ם]] [[H6098\|עֵצָ֖ה]] [[H4100\|מַֽה]][[H9014\|־]] [[H6213A\|נַּעֲשֶֽׂה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHITHOPHEL|AHITHOPHEL]] • [[topic COUNCIL|COUNCIL]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.19|<< 2 Samuel 16:19]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.21|2 Samuel 16:21 >>]]</td></tr></table>
 

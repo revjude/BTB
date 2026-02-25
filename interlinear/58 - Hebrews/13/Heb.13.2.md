@@ -1,10 +1,54 @@
+---
+title: Hebrews 13:2
+type: Verse
+kjv: "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares."
+bsb: "Do not neglect to show hospitality to strangers, for by so doing some people have entertained angels without knowing it."
+greek: "τῆς φιλοξενίας μὴ ἐπιλανθάνεσθε· διὰ ταύτης γὰρ ἔλαθόν τινες ξενίσαντες ἀγγέλους."
+pericope: "[[Heb.13.1 Brotherly Love|Brotherly Love]]"
+original_language: Greek
+testament: New
+book: Hebrews
+chapter: 13
+book/chapter: "[[Heb.13|Hebrews 13]]"
+chronological_order: 1152
+era: Church
+period: "The Epistle to the Hebrews"
+date: ~AD 64–68
+book_genre:
+- epistle
+- sermon
+- theological treatise
+- typological
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic LOVE|LOVE]]"
+strongs:
+- "[[G3588]]"
+- "[[G5381]]"
+- "[[G3361]]"
+- "[[G1950]]"
+- "[[G1223]]"
+- "[[G3778]]"
+- "[[G1063]]"
+- "[[G2990]]"
+- "[[G5100]]"
+- "[[G3579]]"
+- "[[G0032G]]"
+texts:
+- NKO
+---
+
 **Hebrews 13:2**<big><big>[[Heb.13.1 Brotherly Love|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.
 <small><sub>**BSB:**</sub></small>
 Do not neglect to show hospitality to strangers, for by so doing some people have entertained angels without knowing it.
-<small><sub>**Literal:**</sub></small>
-<the> Of hospitality not do forget; through this for unawares some have entertained angels.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.1|<< Hebrews 13:1]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.3|Hebrews 13:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|τῆς]]  [[G5381\|φιλοξενίας]]  [[G3361\|μὴ]]  [[G1950\|ἐπιλανθάνεσθε·]]  [[G1223\|διὰ]]  [[G3778\|ταύτης]]  [[G1063\|γὰρ]]  [[G2990\|ἔλαθόν]]  [[G5100\|τινες]]  [[G3579\|ξενίσαντες]]  [[G0032G\|ἀγγέλους.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic LOVE|LOVE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Heb.13.1|<< Hebrews 13:1]]</td><td align="center" style="border:none;">[[Heb.13|Hebrews 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Heb.13.3|Hebrews 13:3 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Hebrews 13:2** is...
 > $\quad$ alluding to: [[LXX.Gen.18.2|Gen 18:2]]

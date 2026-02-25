@@ -1,10 +1,56 @@
+---
+title: 1 Peter 1:6
+type: Verse
+kjv: "Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:"
+bsb: "In this you greatly rejoice, though now for a little while you may have had to suffer grief in various trials"
+greek: "ἐν ᾧ ἀγαλλιᾶσθε ὀλίγον ἄρτι, εἰ δέον ἐστίν, λυπηθέντες ἐν ποικίλοις πειρασμοῖς"
+pericope: "[[1Pet.1.3 A Living Hope|A Living Hope]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic DOUBTING|DOUBTING]]"
+- "[[topic PERSEVERANCE|PERSEVERANCE]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[G1722]]"
+- "[[G3739]]"
+- "[[G0021]]"
+- "[[G3641]]"
+- "[[G0737]]"
+- "[[G1487G]]"
+- "[[G1163]]"
+- "[[G1510]]"
+- "[[G3076]]"
+- "[[G4164]]"
+- "[[G3986H]]"
+texts:
+- NKO
+- NK(o)
+---
+
 **1 Peter 1:6**<big><big>[[1Pet.1.3 A Living Hope|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:
 <small><sub>**BSB:**</sub></small>
 In this you greatly rejoice, though now for a little while you may have had to suffer grief in various trials
-<small><sub>**Literal:**</sub></small>
-in which you greatly rejoice for a little while at present, if being necessary it is, having been put to grief by various trials<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.5|<< 1 Peter 1:5]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.7|1 Peter 1:7 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1722\|ἐν]]  [[G3739\|ᾧ]]  [[G0021\|ἀγαλλιᾶσθε]]  [[G3641\|ὀλίγον]]  [[G0737\|ἄρτι,]]  [[G1487G\|εἰ]]  [[G1163\|δέον]]  [[G1510\|ἐστίν,]]  [[G3076\|λυπηθέντες]]  [[G1722\|ἐν]]  [[G4164\|ποικίλοις]]  [[G3986H\|πειρασμοῖς]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic DOUBTING|DOUBTING]] • [[topic PERSEVERANCE|PERSEVERANCE]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TEMPTATION|TEMPTATION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.5|<< 1 Peter 1:5]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.7|1 Peter 1:7 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

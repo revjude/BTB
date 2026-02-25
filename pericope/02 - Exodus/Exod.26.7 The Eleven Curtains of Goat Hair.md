@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Eleven Curtains of Goat Hair
+type: Pericope
 pericope: "[[Exod.26.7 The Eleven Curtains of Goat Hair|The Eleven Curtains of Goat Hair]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Exodus
 chapter: 26
 book/chapter: "[[Exod.26|Exodus 26]]"
-genre:
+chronological_order: 118
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - ritual codes
 - building codes
 - liberation narrative
+verse_count: 8
 verses:
 - "[[Exod.26.7]]"
 - "[[Exod.26.8]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Exod.26.14]]"
 ---
 
-[[Exod.26|Exodus 26:7 - Exodus 26:14]]
+<small>[[Exod.26|Exodus 26:7-14]]</small>
 *The Eleven Curtains of Goat Hair*
 
 [[Exod.26.7|7]] And thou shalt make curtains \[of\] goats’ \[hair\] to be a covering upon the tabernacle: eleven curtains shalt thou make.

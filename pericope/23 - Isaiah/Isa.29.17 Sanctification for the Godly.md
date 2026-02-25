@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Sanctification for the Godly
+type: Pericope
 pericope: "[[Isa.29.17 Sanctification for the Godly|Sanctification for the Godly]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 29
 book/chapter: "[[Isa.29|Isaiah 29]]"
-genre:
+chronological_order: 672
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 8
 verses:
 - "[[Isa.29.17]]"
 - "[[Isa.29.18]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Isa.29.24]]"
 ---
 
-[[Isa.29|Isaiah 29:17 - Isaiah 29:24]]
+<small>[[Isa.29|Isaiah 29:17-24]]</small>
 *Sanctification for the Godly*
 
 [[Isa.29.17|17]] \[Is\] it not yet a very little while, and Lebanon shall be turned into a fruitful field, and the fruitful field shall be esteemed as a forest?

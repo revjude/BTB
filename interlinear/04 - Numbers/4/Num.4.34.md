@@ -1,8 +1,62 @@
+---
+title: Numbers 4:34
+type: Verse
+kjv: "And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and after the house of their fathers,"
+bsb: "So Moses, Aaron, and the leaders of the congregation numbered the Kohathites by their clans and families,"
+hebrew: "וַיִּפְקֹ֨ד מֹשֶׁ֧ה וְאַהֲרֹ֛ן וּנְשִׂיאֵ֥י הָעֵדָ֖ה אֶת־ בְּנֵ֣י הַקְּהָתִ֑י לְמִשְׁפְּחֹתָ֖ם וּלְבֵ֥ית אֲבֹתָֽם׃"
+pericope: "[[Num.4.34 The Numbering of the Levite Clans|The Numbering of the Levite Clans]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 4
+book/chapter: "[[Num.4|Numbers 4]]"
+chronological_order: 163
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic LEVITES|LEVITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H6485A]]"
+- "[[H4872]]"
+- "[[H9002]]"
+- "[[H0175]]"
+- "[[H5387A]]"
+- "[[H9009]]"
+- "[[H5712]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121G]]"
+- "[[H6956]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 4:34**<big><big>[[Num.4.34 The Numbering of the Levite Clans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses and Aaron and the chief of the congregation numbered the sons of the Kohathites after their families, and after the house of their fathers,
 <small><sub>**BSB:**</sub></small>
 So Moses, Aaron, and the leaders of the congregation numbered the Kohathites by their clans and families,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6485A\|יִּפְקֹ֨ד]] [[H4872\|מֹשֶׁ֧ה]] [[H9002\|וְ]][[H0175\|אַהֲרֹ֛ן]] [[H9002\|וּ]][[H5387A\|נְשִׂיאֵ֥י]] [[H9009\|הָ]][[H5712\|עֵדָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H1121G\|בְּנֵ֣י]] [[H9009\|הַ]][[H6956\|קְּהָתִ֑י]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ֖]][[H9028\|ם]] [[H9002\|וּ]][[H9005\|לְ]][[H1004M\|בֵ֥ית]] [[H0001G\|אֲבֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEVITES|LEVITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.4.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.4.33|<< Numbers 4:33]]</td><td align="center" style="border:none;">[[Num.4|Numbers 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.4.35|Numbers 4:35 >>]]</td></tr></table>
 

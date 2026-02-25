@@ -1,10 +1,60 @@
+---
+title: Matthew 13:7
+type: Verse
+kjv: "And some fell among thorns; and the thorns sprung up, and choked them:"
+bsb: "Other seed fell among thorns, which grew up and choked the seedlings."
+jesus_said: "And some fell among thorns; and the thorns sprung up, and choked them:"
+greek: "ἄλλα δὲ ἔπεσεν ἐπὶ τὰς ἀκάνθας, καὶ ἀνέβησαν αἱ ἄκανθαι καὶ ἔπνιξαν αὐτά."
+pericope: "[[Matt.13.1 The Parable of the Sower|The Parable of the Sower]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 13
+book/chapter: "[[Matt.13|Matthew 13]]"
+chronological_order: 963
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AGRICULTURE|AGRICULTURE]]"
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic SERMON|SERMON]]"
+- "[[topic SOWER|SOWER]]"
+- "[[topic THORN|THORN]]"
+- "[[topic UNFRUITFULNESS|UNFRUITFULNESS]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0243]]"
+- "[[G1161]]"
+- "[[G4098]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G0173]]"
+- "[[G2532]]"
+- "[[G0305]]"
+- "[[G4155]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 13:7**<big><big>[[Matt.13.1 The Parable of the Sower|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And some fell among thorns; and the thorns sprung up, and choked them:
 <small><sub>**BSB:**</sub></small>
 Other seed fell among thorns, which grew up and choked the seedlings.
-<small><sub>**Literal:**</sub></small>
-Other now fell upon the thorns, and grew up the thorns and choked them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.6|<< Matthew 13:6]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.8|Matthew 13:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0243\|ἄλλα]]  [[G1161\|δὲ]]  [[G4098\|ἔπεσεν]]  [[G1909\|ἐπὶ]]  [[G3588\|τὰς]]  [[G0173\|ἀκάνθας,]]  [[G2532\|καὶ]]  [[G0305\|ἀνέβησαν]]  [[G3588\|αἱ]]  [[G0173\|ἄκανθαι]]  [[G2532\|καὶ]]  [[G4155\|ἔπνιξαν]]  [[G0846\|αὐτά.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AGRICULTURE|AGRICULTURE]] • [[topic CONVERTS|CONVERTS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic SERMON|SERMON]] • [[topic SOWER|SOWER]] • [[topic THORN|THORN]] • [[topic UNFRUITFULNESS|UNFRUITFULNESS]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.13.6|<< Matthew 13:6]]</td><td align="center" style="border:none;">[[Matt.13|Matthew 13]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.13.8|Matthew 13:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

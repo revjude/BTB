@@ -1,8 +1,72 @@
+---
+title: 1 Kings 12:12
+type: Verse
+kjv: "So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day."
+bsb: "After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”"
+hebrew: "וַיָּב֨וֹא יָרָבְעָ֧ם וְכָל־ הָעָ֛ם אֶל־ רְחַבְעָ֖ם בַּיּ֣וֹם הַשְּׁלִישִׁ֑י כַּאֲשֶׁ֨ר דִּבֶּ֤ר הַמֶּ֙לֶךְ֙ לֵאמֹ֔ר שׁ֥וּבוּ אֵלַ֖י בַּיּ֥וֹם הַשְּׁלִישִֽׁי׃"
+pericope: "[[1Kgs.12.1 Rebellion against Rehoboam|Rebellion against Rehoboam]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 12
+book/chapter: "[[1Kgs.12|1 Kings 12]]"
+chronological_order: 551
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic PETITION|PETITION]]"
+- "[[topic RASHNESS|RASHNESS]]"
+- "[[topic REHOBOAM|REHOBOAM]]"
+- "[[topic REVOLT|REVOLT]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0935G]]"
+- "[[H3379G]]"
+- "[[H9002]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5971A]]"
+- "[[H0413]]"
+- "[[H7346]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H7992]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696G]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H0559]]"
+- "[[H7725J]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- Q(k)
+- L
+---
+
 **1 Kings 12:12**<big><big>[[1Kgs.12.1 Rebellion against Rehoboam|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.
 <small><sub>**BSB:**</sub></small>
 After three days, Jeroboam and all the people returned to Rehoboam, since the king had said, “Come back to me on the third day.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0935G\|יָּב֨וֹא]] [[H3379G\|יָרָבְעָ֧ם]] [[H9002\|וְ]][[H3605\|כָל]][[H9014\|־]] [[H9009\|הָ]][[H5971A\|עָ֛ם]] [[H0413\|אֶל]][[H9014\|־]] [[H7346\|רְחַבְעָ֖ם]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִׁ֑י]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H1696G\|דִּבֶּ֤ר]] [[H9009\|הַ]][[H4428G\|מֶּ֙לֶךְ֙]] [[H9005\|לֵ]][[H0559\|אמֹ֔ר]] [[H7725J\|שׁ֥וּבוּ]] [[H0413\|אֵלַ֖]][[H9030\|י]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H7992\|שְּׁלִישִֽׁי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic JEROBOAM|JEROBOAM]] • [[topic PETITION|PETITION]] • [[topic RASHNESS|RASHNESS]] • [[topic REHOBOAM|REHOBOAM]] • [[topic REVOLT|REVOLT]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.12.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.12.11|<< 1 Kings 12:11]]</td><td align="center" style="border:none;">[[1Kgs.12|1 Kings 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.12.13|1 Kings 12:13 >>]]</td></tr></table>
 

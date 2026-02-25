@@ -1,8 +1,54 @@
+---
+title: Ecclesiastes 7:24
+type: Verse
+kjv: "That which is far off, and exceeding deep, who can find it out?"
+bsb: "What exists is out of reach and very deep. Who can fathom it?"
+hebrew: "רָח֖וֹק מַה־ שֶּׁהָיָ֑ה וְעָמֹ֥ק׀ עָמֹ֖ק מִ֥י יִמְצָאֶֽנּוּ׃"
+pericope: "[[Eccl.7.15 The Limits of Human Wisdom|The Limits of Human Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic IGNORANCE|IGNORANCE]]"
+- "[[topic WISDOM|WISDOM]]"
+strongs:
+- "[[H7350]]"
+- "[[H4100]]"
+- "[[H9014]]"
+- "[[H9007]]"
+- "[[H1961]]"
+- "[[H9002]]"
+- "[[H6013]]"
+- "[[H9015]]"
+- "[[H4310]]"
+- "[[H4672]]"
+- "[[H9033]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:24**<big><big>[[Eccl.7.15 The Limits of Human Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 That which is far off, and exceeding deep, who can find it out?
 <small><sub>**BSB:**</sub></small>
 What exists is out of reach and very deep. Who can fathom it?
+<small><sub>**Hebrew:**</sub></small>
+[[H7350\|רָח֖וֹק]] [[H4100\|מַה]][[H9014\|־]] [[H9007\|שֶּׁ]][[H1961\|הָיָ֑ה]] [[H9002\|וְ]][[H6013\|עָמֹ֥ק]][[H9015\|׀]] [[H6013\|עָמֹ֖ק]] [[H4310\|מִ֥י]] [[H4672\|יִמְצָאֶֽ]][[H9033\|נּוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic IGNORANCE|IGNORANCE]] • [[topic WISDOM|WISDOM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.24|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.23|<< Ecclesiastes 7:23]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.25|Ecclesiastes 7:25 >>]]</td></tr></table>
 

@@ -1,10 +1,60 @@
+---
+title: Luke 11:20
+type: Verse
+kjv: "But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you."
+bsb: "But if I drive out demons by the finger of God, then the kingdom of God has come upon you."
+jesus_said: "But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you."
+greek: "εἰ δὲ ἐν δακτύλῳ θεοῦ ἐγὼ ἐκβάλλω τὰ δαιμόνια, ἄρα ἔφθασεν ἐφ᾽ ὑμᾶς ἡ βασιλεία τοῦ θεοῦ."
+pericope: "[[Luke.11.14 A House Divided|A House Divided]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 11
+book/chapter: "[[Luke.11|Luke 11]]"
+chronological_order: 973
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic POWER|POWER]]"
+strongs:
+- "[[G1487G]]"
+- "[[G1161]]"
+- "[[G1722]]"
+- "[[G1147]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1544]]"
+- "[[G3588]]"
+- "[[G1140]]"
+- "[[G0686]]"
+- "[[G5348]]"
+- "[[G1909]]"
+- "[[G4771]]"
+- "[[G0932]]"
+texts:
+- NKO
+- no
+---
+
 **Luke 11:20**<big><big>[[Luke.11.14 A House Divided|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you.
 <small><sub>**BSB:**</sub></small>
 But if I drive out demons by the finger of God, then the kingdom of God has come upon you.
-<small><sub>**Literal:**</sub></small>
-If however by [the] finger of God I myself cast out the demons, then has come upon you the kingdom <the> of God.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.19|<< Luke 11:19]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.21|Luke 11:21 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1487G\|εἰ]]  [[G1161\|δὲ]]  [[G1722\|ἐν]]  [[G1147\|δακτύλῳ]]  [[G2316\|θεοῦ]]  [[G1473\|ἐγὼ]]  [[G1544\|ἐκβάλλω]]  [[G3588\|τὰ]]  [[G1140\|δαιμόνια,]]  [[G0686\|ἄρα]]  [[G5348\|ἔφθασεν]]  [[G1909\|ἐφ᾽]]  [[G4771\|ὑμᾶς]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic POWER|POWER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.11.19|<< Luke 11:19]]</td><td align="center" style="border:none;">[[Luke.11|Luke 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.11.21|Luke 11:21 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

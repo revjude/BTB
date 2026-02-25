@@ -1,8 +1,51 @@
+---
+title: Job 27:7
+type: Verse
+kjv: "Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous."
+bsb: "May my enemy be like the wicked and my opponent like the unjust."
+hebrew: "יְהִ֣י כְ֭רָשָׁע אֹ֣יְבִ֑י וּמִתְקוֹמְמִ֥י כְעַוָּֽל׃"
+pericope: "[[Job.27.7 The Wicked Man’s Portion|The Wicked Man’s Portion]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 27
+book/chapter: "[[Job.27|Job 27]]"
+chronological_order: 38
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H7563]]"
+- "[[H0341]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H6965J]]"
+- "[[H9030]]"
+- "[[H5767]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 27:7**<big><big>[[Job.27.7 The Wicked Man’s Portion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let mine enemy be as the wicked, and he that riseth up against me as the unrighteous.
 <small><sub>**BSB:**</sub></small>
 May my enemy be like the wicked and my opponent like the unjust.
+<small><sub>**Hebrew:**</sub></small>
+[[H1961\|יְהִ֣י]] [[H9004\|כְ֭]][[H7563\|רָשָׁע]] [[H0341\|אֹ֣יְבִ֑]][[H9020\|י]] [[H9002\|וּ]][[H6965J\|מִתְקוֹמְמִ֥]][[H9030\|י]] [[H9004\|כְ]][[H5767\|עַוָּֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.27.7|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.27.6|<< Job 27:6]]</td><td align="center" style="border:none;">[[Job.27|Job 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.27.8|Job 27:8 >>]]</td></tr></table>
 

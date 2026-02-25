@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Transfiguration
+type: Pericope
 pericope: "[[Matt.17.1 The Transfiguration|The Transfiguration]]"
-verse_count: 13
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 17
 book/chapter: "[[Matt.17|Matthew 17]]"
-genre:
+chronological_order: 967
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 13
 verses:
 - "[[Matt.17.1]]"
 - "[[Matt.17.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Matt.17.13]]"
 ---
 
-[[Matt.17|Matthew 17:1 - Matthew 17:13]]
+<small>[[Matt.17|Matthew 17:1-13]]</small>
 *The Transfiguration*
 
 [[Matt.17.1|1]] And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,

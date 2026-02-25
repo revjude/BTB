@@ -1,8 +1,50 @@
+---
+title: Ecclesiastes 7:5
+type: Verse
+kjv: "It is better to hear the rebuke of the wise, than for a man to hear the song of fools."
+bsb: "It is better to heed a wise man’s rebuke than to listen to the song of fools."
+hebrew: "ט֕וֹב לִשְׁמֹ֖עַ גַּעֲרַ֣ת חָכָ֑ם מֵאִ֕ישׁ שֹׁמֵ֖עַ שִׁ֥יר כְּסִילִֽים׃"
+pericope: "[[Eccl.7.1 The Value of Wisdom|The Value of Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Ecclesiastes
+chapter: 7
+book/chapter: "[[Eccl.7|Ecclesiastes 7]]"
+chronological_order: 545
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- philosophical
+- megillot
+topics:
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H2896A]]"
+- "[[H9005]]"
+- "[[H8085G]]"
+- "[[H1606]]"
+- "[[H2450]]"
+- "[[H9006]]"
+- "[[H0376I]]"
+- "[[H7892A]]"
+- "[[H3684]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ecclesiastes 7:5**<big><big>[[Eccl.7.1 The Value of Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 [It is] better to hear the rebuke of the wise, than for a man to hear the song of fools.
 <small><sub>**BSB:**</sub></small>
 It is better to heed a wise man’s rebuke than to listen to the song of fools.
+<small><sub>**Hebrew:**</sub></small>
+[[H2896A\|ט֕וֹב]] [[H9005\|לִ]][[H8085G\|שְׁמֹ֖עַ]] [[H1606\|גַּעֲרַ֣ת]] [[H2450\|חָכָ֑ם]] [[H9006\|מֵ]][[H0376I\|אִ֕ישׁ]] [[H8085G\|שֹׁמֵ֖עַ]] [[H7892A\|שִׁ֥יר]] [[H3684\|כְּסִילִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Eccl.7.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Eccl.7.4|<< Ecclesiastes 7:4]]</td><td align="center" style="border:none;">[[Eccl.7|Ecclesiastes 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Eccl.7.6|Ecclesiastes 7:6 >>]]</td></tr></table>
 

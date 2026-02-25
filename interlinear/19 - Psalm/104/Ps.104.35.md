@@ -1,8 +1,64 @@
+---
+title: Psalm 104:35
+type: Verse
+kjv: "Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD."
+bsb: "May sinners vanish from the earth and the wicked be no more. Bless the LORD, O my soul. Hallelujah!"
+hebrew: "יִתַּ֤מּוּ חַטָּאִ֨ים׀ מִן־ הָאָ֡רֶץ וּרְשָׁעִ֤ים׀ ע֤וֹד אֵינָ֗ם בָּרֲכִ֣י נַ֭פְשִׁי אֶת־ יְהוָ֗ה הַֽלְלוּ־ יָֽהּ׃"
+pericope: "[[Ps.104.1 How Many Are Your Works, O LORD!|How Many Are Your Works, O LORD!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 104
+book/chapter: "[[Ps.104|Psalm 104]]"
+chronological_order: 528
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8552]]"
+- "[[H2400]]"
+- "[[H9015]]"
+- "[[H4480A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H7563]]"
+- "[[H5750]]"
+- "[[H0369]]"
+- "[[H9048]]"
+- "[[H1288]]"
+- "[[H5315G]]"
+- "[[H9020]]"
+- "[[H0853]]"
+- "[[H3068G]]"
+- "[[H1984B]]"
+- "[[H3050]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 104:35**<big><big>[[Ps.104.1 How Many Are Your Works, O LORD!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let the sinners be consumed out of the earth, and let the wicked be no more. Bless thou the LORD, O my soul. Praise ye the LORD.
 <small><sub>**BSB:**</sub></small>
 May sinners vanish from the earth and the wicked be no more. Bless the LORD, O my soul. Hallelujah!
+<small><sub>**Hebrew:**</sub></small>
+[[H8552\|יִתַּ֤מּוּ]] [[H2400\|חַטָּאִ֨ים]][[H9015\|׀]] [[H4480A\|מִן]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָ֡רֶץ]] [[H9002\|וּ]][[H7563\|רְשָׁעִ֤ים]][[H9015\|׀]] [[H5750\|ע֤וֹד]] [[H0369\|אֵינָ֗]][[H9048\|ם]] [[H1288\|בָּרֲכִ֣י]] [[H5315G\|נַ֭פְשִׁ]][[H9020\|י]] [[H0853\|אֶת]][[H9014\|־]] [[H3068G\|יְהוָ֗ה]] [[H1984B\|הַֽלְלוּ]][[H9014\|־]] [[H3050\|יָֽהּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.104.35|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.104.34|<< Psalms 104:34]]</td><td align="center" style="border:none;">[[Ps.104|Psalms 104]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.1|Psalms 105:1 >>]]</td></tr></table>
 

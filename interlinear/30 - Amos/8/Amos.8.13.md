@@ -1,8 +1,54 @@
+---
+title: Amos 8:13
+type: Verse
+kjv: "In that day shall the fair virgins and young men faint for thirst."
+bsb: "In that day the lovely young women—the young men as well—will faint from thirst."
+hebrew: "בַּיּ֨וֹם הַה֜וּא תִּ֠תְעַלַּפְנָה הַבְּתוּלֹ֧ת הַיָּפ֛וֹת וְהַבַּחוּרִ֖ים בַּצָּמָֽא׃"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic THIRST|THIRST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H9009]]"
+- "[[H1931]]"
+- "[[H5968]]"
+- "[[H1330]]"
+- "[[H3303]]"
+- "[[H9002]]"
+- "[[H0970]]"
+- "[[H6772]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 8:13**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 In that day shall the fair virgins and young men faint for thirst.
 <small><sub>**BSB:**</sub></small>
 In that day the lovely young women—the young men as well—will faint from thirst.
+<small><sub>**Hebrew:**</sub></small>
+[[H9003\|בַּ]][[H3117G\|יּ֨וֹם]] [[H9009\|הַ]][[H1931\|ה֜וּא]] [[H5968\|תִּ֠תְעַלַּפְנָה]] [[H9009\|הַ]][[H1330\|בְּתוּלֹ֧ת]] [[H9009\|הַ]][[H3303\|יָּפ֛וֹת]] [[H9002\|וְ]][[H9009\|הַ]][[H0970\|בַּחוּרִ֖ים]] [[H9003\|בַּ]][[H6772\|צָּמָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUNGER|HUNGER]] • [[topic THIRST|THIRST]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.12|<< Amos 8:12]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.14|Amos 8:14 >>]]</td></tr></table>
 

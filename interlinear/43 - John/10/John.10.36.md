@@ -1,10 +1,61 @@
+---
+title: John 10:36
+type: Verse
+kjv: "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?"
+bsb: "then what about the One whom the Father sanctified and sent into the world? How then can you accuse Me of blasphemy for stating that I am the Son of God?"
+jesus_said: "Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?"
+greek: "ὃν ὁ πατὴρ ἡγίασεν καὶ ἀπέστειλεν εἰς τὸν κόσμον, ὑμεῖς λέγετε ὅτι βλασφημεῖς, ὅτι εἶπον· υἱὸς τοῦ θεοῦ εἰμι;"
+pericope: "[[John.10.22 Jesus at the Feast of Dedication|Jesus at the Feast of Dedication]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 10
+book/chapter: "[[John.10|John 10]]"
+chronological_order: 984
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G0037]]"
+- "[[G2532]]"
+- "[[G0649]]"
+- "[[G1519]]"
+- "[[G2889]]"
+- "[[G4771]]"
+- "[[G3004G]]"
+- "[[G3754G]]"
+- "[[G0987]]"
+- "[[G3754H]]"
+- "[[G2036]]"
+- "[[G5207]]"
+- "[[G2316]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **John 10:36**<big><big>[[John.10.22 Jesus at the Feast of Dedication|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Say ye of him, whom the Father hath sanctified, and sent into the world, Thou blasphemest; because I said, I am the Son of God?
 <small><sub>**BSB:**</sub></small>
 then what about the One whom the Father sanctified and sent into the world? How then can you accuse Me of blasphemy for stating that I am the Son of God?
-<small><sub>**Literal:**</sub></small>
-[of Him] whom the Father sanctified and He sent into the world, you yourselves do say that You blaspheme, because I said; Son <the> of God I am’?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.35|<< John 10:35]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.37|John 10:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃν]]  [[G3588\|ὁ]]  [[G3962\|πατὴρ]]  [[G0037\|ἡγίασεν]]  [[G2532\|καὶ]]  [[G0649\|ἀπέστειλεν]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2889\|κόσμον,]]  [[G4771\|ὑμεῖς]]  [[G3004G\|λέγετε]]  [[G3754G\|ὅτι]]  [[G0987\|βλασφημεῖς,]]  [[G3754H\|ὅτι]]  [[G2036\|εἶπον·]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G1510\|εἰμι;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic GOD|GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.10.35|<< John 10:35]]</td><td align="center" style="border:none;">[[John.10|John 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.10.37|John 10:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

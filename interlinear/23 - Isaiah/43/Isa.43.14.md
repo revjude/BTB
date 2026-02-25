@@ -1,8 +1,69 @@
+---
+title: Isaiah 43:14
+type: Verse
+kjv: "Thus saith the LORD, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry is in the ships."
+bsb: "Thus says the LORD your Redeemer, the Holy One of Israel: “For your sake, I will send to Babylon and bring them all as fugitives, even the Chaldeans, in the ships in which they rejoice."
+hebrew: "כֹּֽה־ אָמַ֧ר יְהוָ֛ה גֹּאַלְכֶ֖ם קְד֣וֹשׁ יִשְׂרָאֵ֑ל לְמַעַנְכֶ֞ם שִׁלַּ֣חְתִּי בָבֶ֗לָה וְהוֹרַדְתִּ֤י בָֽרִיחִים֙ כֻּלָּ֔ם וְכַשְׂדִּ֖ים בָּאֳנִיּ֥וֹת רִנָּתָֽם׃"
+pericope: "[[Isa.43.14 A Way in the Wilderness|A Way in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 43
+book/chapter: "[[Isa.43|Isaiah 43]]"
+chronological_order: 682
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISAIAH|ISAIAH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[H3541]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H3068G]]"
+- "[[H1350A]]"
+- "[[H9026]]"
+- "[[H6918G]]"
+- "[[H3478]]"
+- "[[H4616]]"
+- "[[H9036]]"
+- "[[H7971G]]"
+- "[[H0894]]"
+- "[[H9011]]"
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H1281]]"
+- "[[H3605]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H3778]]"
+- "[[H9003]]"
+- "[[H0591]]"
+- "[[H7440]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 43:14**<big><big>[[Isa.43.14 A Way in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith the LORD, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry [is] in the ships.
 <small><sub>**BSB:**</sub></small>
 Thus says the LORD your Redeemer, the Holy One of Israel: “For your sake, I will send to Babylon and bring them all as fugitives, even the Chaldeans, in the ships in which they rejoice.
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּֽה]][[H9014\|־]] [[H0559\|אָמַ֧ר]] [[H3068G\|יְהוָ֛ה]] [[H1350A\|גֹּאַלְ]][[H9026\|כֶ֖ם]] [[H6918G\|קְד֣וֹשׁ]] [[H3478\|יִשְׂרָאֵ֑ל]] [[H4616\|לְמַעַנְ]][[H9036\|כֶ֞ם]] [[H7971G\|שִׁלַּ֣חְתִּי]] [[H0894\|בָבֶ֗לָ]][[H9011\|ה]] [[H9001\|וְ]][[H3381\|הוֹרַדְתִּ֤י]] [[H1281\|בָֽרִיחִים֙]] [[H3605\|כֻּלָּ֔]][[H9028\|ם]] [[H9002\|וְ]][[H3778\|כַשְׂדִּ֖ים]] [[H9003\|בָּ]][[H0591\|אֳנִיּ֥וֹת]] [[H7440\|רִנָּתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic CONDESCENSION OF GOD|CONDESCENSION OF GOD]] • [[topic GOD|GOD]] • [[topic ISAIAH|ISAIAH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.43.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.43.13|<< Isaiah 43:13]]</td><td align="center" style="border:none;">[[Isa.43|Isaiah 43]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.43.15|Isaiah 43:15 >>]]</td></tr></table>
 

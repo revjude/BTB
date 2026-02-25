@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Way of Wisdom
+type: Pericope
 pericope: "[[Prov.9.1 The Way of Wisdom|The Way of Wisdom]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Proverbs
 chapter: 9
 book/chapter: "[[Prov.9|Proverbs 9]]"
-genre:
+chronological_order: 464
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - instructional
 - aphorisms
+verse_count: 12
 verses:
 - "[[Prov.9.1]]"
 - "[[Prov.9.2]]"
@@ -30,7 +37,7 @@ verses:
 - "[[Prov.9.12]]"
 ---
 
-[[Prov.9|Proverbs 9:1 - Proverbs 9:12]]
+<small>[[Prov.9|Proverbs 9:1-12]]</small>
 *The Way of Wisdom*
 
 [[Prov.9.1|1]] Wisdom hath builded her house, she hath hewn out her seven pillars:

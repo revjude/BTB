@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Leaders of the Tribes
+type: Pericope
 pericope: "[[Num.1.5 The Leaders of the Tribes|The Leaders of the Tribes]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: Numbers
 chapter: 1
 book/chapter: "[[Num.1|Numbers 1]]"
-genre:
+chronological_order: 160
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -19,6 +25,7 @@ genre:
 - wilderness narrative
 - census records
 - ritual codes
+verse_count: 12
 verses:
 - "[[Num.1.5]]"
 - "[[Num.1.6]]"
@@ -34,7 +41,7 @@ verses:
 - "[[Num.1.16]]"
 ---
 
-[[Num.1|Numbers 1:5 - Numbers 1:16]]
+<small>[[Num.1|Numbers 1:5-16]]</small>
 *The Leaders of the Tribes*
 
 [[Num.1.5|5]] And these \[are\] the names of the men that shall stand with you: of \[the tribe of\] Reuben; Elizur the son of Shedeur.

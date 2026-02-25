@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Judgment against Israel’s Hypocrisy
+type: Pericope
 pericope: "[[Isa.9.13 Judgment against Israel’s Hypocrisy|Judgment against Israel’s Hypocrisy]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Isaiah
 chapter: 9
 book/chapter: "[[Isa.9|Isaiah 9]]"
-genre:
+chronological_order: 619
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~735–725 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - apocalyptic
+verse_count: 5
 verses:
 - "[[Isa.9.13]]"
 - "[[Isa.9.14]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Isa.9.17]]"
 ---
 
-[[Isa.9|Isaiah 9:13 - Isaiah 9:17]]
+<small>[[Isa.9|Isaiah 9:13-17]]</small>
 *Judgment against Israel’s Hypocrisy*
 
 [[Isa.9.13|13]] For the people turneth not unto him that smiteth them, neither do they seek the LORD of hosts.

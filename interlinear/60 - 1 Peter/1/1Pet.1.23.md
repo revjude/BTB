@@ -1,10 +1,59 @@
+---
+title: 1 Peter 1:23
+type: Verse
+kjv: "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever."
+bsb: "For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God."
+greek: "ἀναγεγεννημένοι οὐκ ἐκ σπορᾶς φθαρτῆς ἀλλ᾽ ἀφθάρτου διὰ λόγου ζῶντος θεοῦ καὶ μένοντος εἰς τὸν αἰῶνα·"
+pericope: "[[1Pet.1.22 The Enduring Word|The Enduring Word]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 1
+book/chapter: "[[1Pet.1|1 Peter 1]]"
+chronological_order: 1135
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic REGENERATION|REGENERATION]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[G0313]]"
+- "[[G3756]]"
+- "[[G1537]]"
+- "[[G4701]]"
+- "[[G5349]]"
+- "[[G0235]]"
+- "[[G0862]]"
+- "[[G1223]]"
+- "[[G3056]]"
+- "[[G2198]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G3306]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G0165H]]"
+texts:
+- NKO
+- K
+---
+
 **1 Peter 1:23**<big><big>[[1Pet.1.22 The Enduring Word|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.
 <small><sub>**BSB:**</sub></small>
 For you have been born again, not of perishable seed, but of imperishable, through the living and enduring word of God.
-<small><sub>**Literal:**</sub></small>
-born again not of seed perishable but of imperishable through [the] word living of God and abiding into the age;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.22|<< 1 Peter 1:22]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.24|1 Peter 1:24 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0313\|ἀναγεγεννημένοι]]  [[G3756\|οὐκ]]  [[G1537\|ἐκ]]  [[G4701\|σπορᾶς]]  [[G5349\|φθαρτῆς]]  [[G0235\|ἀλλ᾽]]  [[G0862\|ἀφθάρτου]]  [[G1223\|διὰ]]  [[G3056\|λόγου]]  [[G2198\|ζῶντος]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G3306\|μένοντος]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G0165H\|αἰῶνα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOSPEL|GOSPEL]] • [[topic REGENERATION|REGENERATION]] • [[topic WORD OF GOD|WORD OF GOD]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.1.22|<< 1 Peter 1:22]]</td><td align="center" style="border:none;">[[1Pet.1|1 Peter 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.1.24|1 Peter 1:24 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

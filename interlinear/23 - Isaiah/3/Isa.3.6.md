@@ -1,8 +1,66 @@
+---
+title: Isaiah 3:6
+type: Verse
+kjv: "When a man shall take hold of his brother of the house of his father, saying, Thou hast clothing, be thou our ruler, and let this ruin be under thy hand:"
+bsb: "A man will seize his brother within his father’s house: “You have a cloak—you be our leader! Take charge of this heap of rubble.”"
+hebrew: "כִּֽי־ יִתְפֹּ֨שׂ אִ֤ישׁ בְּאָחִיו֙ בֵּ֣ית אָבִ֔יו שִׂמְלָ֣ה לְכָ֔ה קָצִ֖ין תִּֽהְיֶה־ לָּ֑נוּ וְהַמַּכְשֵׁלָ֥ה הַזֹּ֖את תַּ֥חַת יָדֶֽךָ׃"
+pericope: "[[Isa.3.1 Judgment on Jerusalem and Judah|Judgment on Jerusalem and Judah]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 3
+book/chapter: "[[Isa.3|Isaiah 3]]"
+chronological_order: 611
+era: Divided Kingdom
+period: "The Divided Kingdom: Isaiah's Early Ministry"
+date: ~740–735 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ANARCHY|ANARCHY]]"
+- "[[topic FAMINE|FAMINE]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H8610]]"
+- "[[H0376I]]"
+- "[[H9003]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H1004M]]"
+- "[[H0001G]]"
+- "[[H8071]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H7101]]"
+- "[[H1961]]"
+- "[[H9035]]"
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4384]]"
+- "[[H2063]]"
+- "[[H8478K]]"
+- "[[H3027W]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 3:6**<big><big>[[Isa.3.1 Judgment on Jerusalem and Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 When a man shall take hold of his brother of the house of his father, [saying], Thou hast clothing, be thou our ruler, and [let] this ruin [be] under thy hand:
 <small><sub>**BSB:**</sub></small>
 A man will seize his brother within his father’s house: “You have a cloak—you be our leader! Take charge of this heap of rubble.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H8610\|יִתְפֹּ֨שׂ]] [[H0376I\|אִ֤ישׁ]] [[H9003\|בְּ]][[H0251G\|אָחִי]][[H9023\|ו֙]] [[H1004M\|בֵּ֣ית]] [[H0001G\|אָבִ֔י]][[H9023\|ו]] [[H8071\|שִׂמְלָ֣ה]] [[H9005\|לְ]][[H9031\|כָ֔ה]] [[H7101\|קָצִ֖ין]] [[H1961\|תִּֽהְיֶה]][[H9014\|־]] [[H9005\|לָּ֑]][[H9035\|נוּ]] [[H9002\|וְ]][[H9009\|הַ]][[H4384\|מַּכְשֵׁלָ֥ה]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H8478K\|תַּ֥חַת]] [[H3027W\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANARCHY|ANARCHY]] • [[topic FAMINE|FAMINE]] • [[topic JERUSALEM|JERUSALEM]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.3.5|<< Isaiah 3:5]]</td><td align="center" style="border:none;">[[Isa.3|Isaiah 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.3.7|Isaiah 3:7 >>]]</td></tr></table>
 

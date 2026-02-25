@@ -1,10 +1,64 @@
+---
+title: Matthew 18:17
+type: Verse
+kjv: "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican."
+bsb: "If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector."
+jesus_said: "And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican."
+greek: "ἐὰν δὲ παρακούσῃ αὐτῶν, εἰπὲ τῇ ἐκκλησίᾳ. ἐὰν δὲ καὶ τῆς ἐκκλησίας παρακούσῃ, ἔστω σοι ὥσπερ ὁ ἐθνικὸς καὶ ὁ τελώνης.¶"
+pericope: "[[Matt.18.15 A Brother Who Sins|A Brother Who Sins]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic COURT|COURT]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic FRATERNITY|FRATERNITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PUBLICANS|PUBLICANS]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic TAX|TAX]]"
+- "[[topic TRESPASS|TRESPASS]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G3878]]"
+- "[[G0846]]"
+- "[[G2036]]"
+- "[[G3588]]"
+- "[[G1577]]"
+- "[[G2532]]"
+- "[[G1510]]"
+- "[[G4771]]"
+- "[[G5618]]"
+- "[[G1482]]"
+- "[[G5057]]"
+texts:
+- NKO
+---
+
 **Matthew 18:17**<big><big>[[Matt.18.15 A Brother Who Sins|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And if he shall neglect to hear them, tell [it] unto the church: but if he neglect to hear the church, let him be unto thee as an heathen man and a publican.
 <small><sub>**BSB:**</sub></small>
 If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, regard him as you would a pagan or a tax collector.
-<small><sub>**Literal:**</sub></small>
-If now he shall fail to listen to them, do tell [it] to the church. If now also to the church he shall fail to listen, he should be to you as the pagan and the tax collector.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.16|<< Matthew 18:16]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.18|Matthew 18:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G3878\|παρακούσῃ]]  [[G0846\|αὐτῶν,]]  [[G2036\|εἰπὲ]]  [[G3588\|τῇ]]  [[G1577\|ἐκκλησίᾳ.]]  [[G1437\|ἐὰν]]  [[G1161\|δὲ]]  [[G2532\|καὶ]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας]]  [[G3878\|παρακούσῃ,]]  [[G1510\|ἔστω]]  [[G4771\|σοι]]  [[G5618\|ὥσπερ]]  [[G3588\|ὁ]]  [[G1482\|ἐθνικὸς]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5057\|τελώνης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic COURT|COURT]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic FRATERNITY|FRATERNITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PUBLICANS|PUBLICANS]] • [[topic REPROOF|REPROOF]] • [[topic STRIFE|STRIFE]] • [[topic TAX|TAX]] • [[topic TRESPASS|TRESPASS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.16|<< Matthew 18:16]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.18|Matthew 18:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

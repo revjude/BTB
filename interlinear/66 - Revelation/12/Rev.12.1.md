@@ -1,10 +1,65 @@
+---
+title: Revelation 12:1
+type: Verse
+kjv: "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:"
+bsb: "And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head."
+greek: "Καὶ σημεῖον μέγα ὤφθη ἐν τῷ οὐρανῷ, γυνὴ περιβεβλημένη τὸν ἥλιον, καὶ ἡ σελήνη ὑποκάτω τῶν ποδῶν αὐτῆς καὶ ἐπὶ τῆς κεφαλῆς αὐτῆς στέφανος ἀστέρων δώδεκα,"
+pericope: "[[Rev.12.1 The Woman and the Dragon|The Woman and the Dragon]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 12
+book/chapter: "[[Rev.12|Revelation 12]]"
+chronological_order: 1179
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic CROWN|CROWN]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MOON|MOON]]"
+- "[[topic STARS|STARS]]"
+- "[[topic SUN|SUN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G2532]]"
+- "[[G4592]]"
+- "[[G3173]]"
+- "[[G3700]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G3772]]"
+- "[[G1135G]]"
+- "[[G4016]]"
+- "[[G2246]]"
+- "[[G4582]]"
+- "[[G5270]]"
+- "[[G4228]]"
+- "[[G0846]]"
+- "[[G1909]]"
+- "[[G2776]]"
+- "[[G4735]]"
+- "[[G0792]]"
+- "[[G1427]]"
+texts:
+- NKO
+---
+
 **Revelation 12:1**<big><big>[[Rev.12.1 The Woman and the Dragon|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:
 <small><sub>**BSB:**</sub></small>
 And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head.
-<small><sub>**Literal:**</sub></small>
-And a sign great appeared in <the> heaven: a woman having been clothed with the sun, and the moon under the feet of her and on the head of her a crown of stars twelve,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.19|<< Revelation 11:19]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.2|Revelation 12:2 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G4592\|σημεῖον]]  [[G3173\|μέγα]]  [[G3700\|ὤφθη]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G3772\|οὐρανῷ,]]  [[G1135G\|γυνὴ]]  [[G4016\|περιβεβλημένη]]  [[G3588\|τὸν]]  [[G2246\|ἥλιον,]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G4582\|σελήνη]]  [[G5270\|ὑποκάτω]]  [[G3588\|τῶν]]  [[G4228\|ποδῶν]]  [[G0846\|αὐτῆς]]  [[G2532\|καὶ]]  [[G1909\|ἐπὶ]]  [[G3588\|τῆς]]  [[G2776\|κεφαλῆς]]  [[G0846\|αὐτῆς]]  [[G4735\|στέφανος]]  [[G0792\|ἀστέρων]]  [[G1427\|δώδεκα,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CROWN|CROWN]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MOON|MOON]] • [[topic STARS|STARS]] • [[topic SUN|SUN]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.11.19|<< Revelation 11:19]]</td><td align="center" style="border:none;">[[Rev.12|Revelation 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.12.2|Revelation 12:2 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 12:1** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.66.7|Isa 66:7]] ☩ [[LXX.Mic.4.9|Mic 4:9-10]]

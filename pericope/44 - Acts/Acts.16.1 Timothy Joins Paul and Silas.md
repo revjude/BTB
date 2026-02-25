@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Timothy Joins Paul and Silas
+type: Pericope
 pericope: "[[Acts.16.1 Timothy Joins Paul and Silas|Timothy Joins Paul and Silas]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Acts
 chapter: 16
 book/chapter: "[[Acts.16|Acts 16]]"
-genre:
+chronological_order: 1045
+era: Church
+period: "The Jerusalem Council and Second Missionary Journey"
+date: ~AD 49–52
+book_genre:
 - narrative
 - historical narrative
 - church history
+verse_count: 5
 verses:
 - "[[Acts.16.1]]"
 - "[[Acts.16.2]]"
@@ -22,7 +29,7 @@ verses:
 - "[[Acts.16.5]]"
 ---
 
-[[Acts.16|Acts 16:1 - Acts 16:5]]
+<small>[[Acts.16|Acts 16:1-5]]</small>
 *Timothy Joins Paul and Silas*
 
 [[Acts.16.1|1]] Then came he to Derbe and Lystra: and, behold, a certain disciple was there, named Timotheus, the son of a certain woman, which was a Jewess, and believed; but his father \[was\] a Greek:

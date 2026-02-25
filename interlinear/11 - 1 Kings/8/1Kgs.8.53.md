@@ -1,8 +1,78 @@
+---
+title: 1 Kings 8:53
+type: Verse
+kjv: "For thou didst separate them from among all the people of the earth, to be thine inheritance, as thou spakest by the hand of Moses thy servant, when thou broughtest our fathers out of Egypt, O Lord GOD."
+bsb: "For You, O Lord GOD, have set them apart from all the peoples of the earth as Your inheritance, as You spoke through Your servant Moses when You brought our fathers out of Egypt.”"
+hebrew: "כִּֽי־ אַתָּ֞ה הִבְדַּלְתָּ֤ם לְךָ֙ לְֽנַחֲלָ֔ה מִכֹּ֖ל עַמֵּ֣י הָאָ֑רֶץ כַּאֲשֶׁ֨ר דִּבַּ֜רְתָּ בְּיַ֣ד׀ מֹשֶׁ֣ה עַבְדֶּ֗ךָ בְּהוֹצִיאֲךָ֧ אֶת־ אֲבֹתֵ֛ינוּ מִמִּצְרַ֖יִם אֲדֹנָ֥י יְהוִֽה׃ פ"
+pericope: "[[1Kgs.8.22 Solomon’s Prayer of Dedication|Solomon’s Prayer of Dedication]]"
+original_language: Hebrew
+testament: Old
+book: 1 Kings
+chapter: 8
+book/chapter: "[[1Kgs.8|1 Kings 8]]"
+chronological_order: 490
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H3588A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H0914]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H5159]]"
+- "[[H9006]]"
+- "[[H3605]]"
+- "[[H5971A]]"
+- "[[H9009]]"
+- "[[H0776G]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H1696I]]"
+- "[[H9003]]"
+- "[[H3027J]]"
+- "[[H9015]]"
+- "[[H4872]]"
+- "[[H5650]]"
+- "[[H9021]]"
+- "[[H3318H]]"
+- "[[H9041]]"
+- "[[H0853]]"
+- "[[H0001G]]"
+- "[[H9025]]"
+- "[[H4714G]]"
+- "[[H0136]]"
+- "[[H3069]]"
+- "[[H9016]]"
+- "[[H9017]]"
+texts:
+- L
+---
+
 **1 Kings 8:53**<big><big>[[1Kgs.8.22 Solomon’s Prayer of Dedication|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 For thou didst separate them from among all the people of the earth, [to be] thine inheritance, as thou spakest by the hand of Moses thy servant, when thou broughtest our fathers out of Egypt, O Lord GOD.
 <small><sub>**BSB:**</sub></small>
 For You, O Lord GOD, have set them apart from all the peoples of the earth as Your inheritance, as You spoke through Your servant Moses when You brought our fathers out of Egypt.”
+<small><sub>**Hebrew:**</sub></small>
+[[H3588A\|כִּֽי]][[H9014\|־]] [[H0859A\|אַתָּ֞ה]] [[H0914\|הִבְדַּלְתָּ֤]][[H9038\|ם]] [[H9005\|לְ]][[H9031\|ךָ֙]] [[H9005\|לְֽ]][[H5159\|נַחֲלָ֔ה]] [[H9006\|מִ]][[H3605\|כֹּ֖ל]] [[H5971A\|עַמֵּ֣י]] [[H9009\|הָ]][[H0776G\|אָ֑רֶץ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֨ר]] [[H1696I\|דִּבַּ֜רְתָּ]] [[H9003\|בְּ]][[H3027J\|יַ֣ד]][[H9015\|׀]] [[H4872\|מֹשֶׁ֣ה]] [[H5650\|עַבְדֶּ֗]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3318H\|הוֹצִיאֲ]][[H9041\|ךָ֧]] [[H0853\|אֶת]][[H9014\|־]] [[H0001G\|אֲבֹתֵ֛י]][[H9025\|נוּ]] [[H9006\|מִ]][[H4714G\|מִּצְרַ֖יִם]] [[H0136\|אֲדֹנָ֥י]] [[H3069\|יְהוִֽה]][[H9016\|׃]] [[H9017\|פ]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic INTERCESSION|INTERCESSION]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Kgs.8.53|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.52|<< 1 Kings 8:52]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.54|1 Kings 8:54 >>]]</td></tr></table>
 
@@ -26,7 +96,7 @@ For You, O Lord GOD, have set them apart from all the peoples of the earth as Yo
 | ancestors our  |**<big>&#8207;[[H0001G\|אֲבֹתֵ֛י]]&#8207;&#8207;[[H9025\|נוּ]]&#8207; </big>**| 'a.vo.Tei.<small><sup>[[HNcfpc]]</sup></small> nu<small><sup>[[HSp1bp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | from Egypt  |**<big>&#8207;[[H9006\|מִ]]&#8207;&#8207;[[H4714G\|מִּצְרַ֖יִם]]&#8207; </big>**| mi.<small><sup>[[HR]]</sup></small> mitz.Ra.yim<small><sup>[[HNpl]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | O Lord  |**<big>&#8207;[[H0136\|אֲדֹנָ֥י]]&#8207; </big>**| 'a.do.Nai<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| Yahweh  |**<big>&#8207;[[H3069\|יְהוִֽה]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9017\|פ]]&#8207; </big>**| Yah.weh<small><sup>[[HNpt]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Kgs.8.52|<< 1 Kings 8:52]]</td><td align="center" style="border:none;">[[1Kgs.8|1 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Kgs.8.54|1 Kings 8:54 >>]]</td></tr></table>
 
 

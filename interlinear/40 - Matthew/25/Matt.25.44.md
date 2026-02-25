@@ -1,10 +1,75 @@
+---
+title: Matthew 25:44
+type: Verse
+kjv: "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+bsb: "And they too will reply, ‘Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?’"
+jesus_said: "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+greek: "Τότε ἀποκριθήσονται αὐτῷ καὶ αὐτοὶ λέγοντες· κύριε, πότε σε εἴδομεν πεινῶντα ἢ διψῶντα ἢ ξένον ἢ γυμνὸν ἢ ἀσθενῆ ἢ ἐν φυλακῇ καὶ οὐ διηκονήσαμέν σοι;¶"
+pericope: "[[Matt.25.31 The Sheep and the Goats|The Sheep and the Goats]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic DUTY|DUTY]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOSPITALITY|HOSPITALITY]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic REWARD|REWARD]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G5119]]"
+- "[[G0611]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G2962G]]"
+- "[[G4219]]"
+- "[[G4771]]"
+- "[[G1492H]]"
+- "[[G3983]]"
+- "[[G2228]]"
+- "[[G1372]]"
+- "[[G3581]]"
+- "[[G1131]]"
+- "[[G0772H]]"
+- "[[G1722]]"
+- "[[G5438G]]"
+- "[[G3756]]"
+- "[[G1247]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 25:44**<big><big>[[Matt.25.31 The Sheep and the Goats|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?
 <small><sub>**BSB:**</sub></small>
 And they too will reply, ‘Lord, when did we see You hungry or thirsty or a stranger or naked or sick or in prison, and did not minister to You?’
-<small><sub>**Literal:**</sub></small>
-Then will answer to him also themselves saying; Lord, when You saw we hungering or thirsting or a stranger or naked or sick or in prison and not did minister to You?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.43|<< Matthew 25:43]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.45|Matthew 25:45 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G0611\|ἀποκριθήσονται]]  [[G0846\|αὐτῷ]]  [[G2532\|καὶ]]  [[G0846\|αὐτοὶ]]  [[G3004G\|λέγοντες·]]  [[G2962G\|κύριε,]]  [[G4219\|πότε]]  [[G4771\|σε]]  [[G1492H\|εἴδομεν]]  [[G3983\|πεινῶντα]]  [[G2228\|ἢ]]  [[G1372\|διψῶντα]]  [[G2228\|ἢ]]  [[G3581\|ξένον]]  [[G2228\|ἢ]]  [[G1131\|γυμνὸν]]  [[G2228\|ἢ]]  [[G0772H\|ἀσθενῆ]]  [[G2228\|ἢ]]  [[G1722\|ἐν]]  [[G5438G\|φυλακῇ]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G1247\|διηκονήσαμέν]]  [[G4771\|σοι;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic DUTY|DUTY]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOSPITALITY|HOSPITALITY]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PRISONERS|PRISONERS]] • [[topic REWARD|REWARD]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.43|<< Matthew 25:43]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.45|Matthew 25:45 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

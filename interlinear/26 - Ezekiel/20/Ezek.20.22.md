@@ -1,8 +1,59 @@
+---
+title: Ezekiel 20:22
+type: Verse
+kjv: "Nevertheless I withdrew mine hand, and wrought for my name’s sake, that it should not be polluted in the sight of the heathen, in whose sight I brought them forth."
+bsb: "But I withheld My hand and acted for the sake of My name, so that it would not be profaned in the eyes of the nations in whose sight I had brought them out."
+hebrew: "וַהֲשִׁבֹ֙תִי֙ אֶת־ יָדִ֔י וָאַ֖עַשׂ לְמַ֣עַן שְׁמִ֑י לְבִלְתִּ֤י הֵחֵל֙ לְעֵינֵ֣י הַגּוֹיִ֔ם אֲשֶׁר־ הוֹצֵ֥אתִי אוֹתָ֖ם לְעֵינֵיהֶֽם׃"
+pericope: "[[Ezek.20.10 Israel’s Rebellion in the Wilderness|Israel’s Rebellion in the Wilderness]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 20
+book/chapter: "[[Ezek.20|Ezekiel 20]]"
+chronological_order: 811
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+strongs:
+- "[[H9001]]"
+- "[[H7725I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H6213A]]"
+- "[[H4616]]"
+- "[[H8034]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H2490H]]"
+- "[[H5869H]]"
+- "[[H9009]]"
+- "[[H1471A]]"
+- "[[H0834A]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 20:22**<big><big>[[Ezek.20.10 Israel’s Rebellion in the Wilderness|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Nevertheless I withdrew mine hand, and wrought for my name’s sake, that it should not be polluted in the sight of the heathen, in whose sight I brought them forth.
 <small><sub>**BSB:**</sub></small>
 But I withheld My hand and acted for the sake of My name, so that it would not be profaned in the eyes of the nations in whose sight I had brought them out.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725I\|הֲשִׁבֹ֙תִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3027G\|יָדִ֔]][[H9020\|י]] [[H9001\|וָ]][[H6213A\|אַ֖עַשׂ]] [[H4616\|לְמַ֣עַן]] [[H8034\|שְׁמִ֑]][[H9020\|י]] [[H9005\|לְ]][[H1115\|בִלְתִּ֤י]] [[H2490H\|הֵחֵל֙]] [[H9005\|לְ]][[H5869H\|עֵינֵ֣י]] [[H9009\|הַ]][[H1471A\|גּוֹיִ֔ם]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H3318H\|הוֹצֵ֥אתִי]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H9005\|לְ]][[H5869H\|עֵינֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.20.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.20.21|<< Ezekiel 20:21]]</td><td align="center" style="border:none;">[[Ezek.20|Ezekiel 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.20.23|Ezekiel 20:23 >>]]</td></tr></table>
 

@@ -1,8 +1,56 @@
+---
+title: Numbers 2:4
+type: Verse
+kjv: "And his host, and those that were numbered of them, were threescore and fourteen thousand and six hundred."
+bsb: "and his division numbers 74,600."
+hebrew: "וּצְבָא֖וֹ וּפְקֻדֵיהֶ֑ם אַרְבָּעָ֧ה וְשִׁבְעִ֛ים אֶ֖לֶף וְשֵׁ֥שׁ מֵאֽוֹת׃"
+pericope: "[[Num.2.1 The Order of the Camps|The Order of the Camps]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 2
+book/chapter: "[[Num.2|Numbers 2]]"
+chronological_order: 161
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Census and Departure from Sinai"
+date: ~1445–1444 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic ALOES|ALOES]]"
+- "[[topic JUDAH|JUDAH]]"
+strongs:
+- "[[H9002]]"
+- "[[H6635A]]"
+- "[[H9023]]"
+- "[[H6485A]]"
+- "[[H9028]]"
+- "[[H0702]]"
+- "[[H7657]]"
+- "[[H0505G]]"
+- "[[H8337]]"
+- "[[H3967]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 2:4**<big><big>[[Num.2.1 The Order of the Camps|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And his host, and those that were numbered of them, [were] threescore and fourteen thousand and six hundred.
 <small><sub>**BSB:**</sub></small>
 and his division numbers 74,600.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H6635A\|צְבָא֖]][[H9023\|וֹ]] [[H9002\|וּ]][[H6485A\|פְקֻדֵי]][[H9028\|הֶ֑ם]] [[H0702\|אַרְבָּעָ֧ה]] [[H9002\|וְ]][[H7657\|שִׁבְעִ֛ים]] [[H0505G\|אֶ֖לֶף]] [[H9002\|וְ]][[H8337\|שֵׁ֥שׁ]] [[H3967\|מֵאֽוֹת]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALOES|ALOES]] • [[topic JUDAH|JUDAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.2.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.2.3|<< Numbers 2:3]]</td><td align="center" style="border:none;">[[Num.2|Numbers 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.2.5|Numbers 2:5 >>]]</td></tr></table>
 

@@ -1,8 +1,72 @@
+---
+title: Deuteronomy 15:5
+type: Verse
+kjv: "Only if thou carefully hearken unto the voice of the LORD thy God, to observe to do all these commandments which I command thee this day."
+bsb: "if only you obey the LORD your God and are careful to follow all these commandments I am giving you today."
+hebrew: "רַ֚ק אִם־ שָׁמ֣וֹעַ תִּשְׁמַ֔ע בְּק֖וֹל יְהוָ֣ה אֱלֹהֶ֑יךָ לִשְׁמֹ֤ר לַעֲשׂוֹת֙ אֶת־ כָּל־ הַמִּצְוָ֣ה הַזֹּ֔את אֲשֶׁ֛ר אָנֹכִ֥י מְצַוְּךָ֖ הַיּֽוֹם׃"
+pericope: "[[Deut.15.1 The Seventh Year|The Seventh Year]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 15
+book/chapter: "[[Deut.15|Deuteronomy 15]]"
+chronological_order: 211
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic LENDING|LENDING]]"
+- "[[topic POOR|POOR]]"
+- "[[topic SABBATIC YEAR|SABBATIC YEAR]]"
+strongs:
+- "[[H7535]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H8085H]]"
+- "[[H9003]]"
+- "[[H6963A]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H9005]]"
+- "[[H8104J]]"
+- "[[H6213A]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H9009]]"
+- "[[H4687]]"
+- "[[H2063]]"
+- "[[H0834A]]"
+- "[[H0595]]"
+- "[[H6680]]"
+- "[[H9031]]"
+- "[[H3117G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 15:5**<big><big>[[Deut.15.1 The Seventh Year|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Only if thou carefully hearken unto the voice of the LORD thy God, to observe to do all these commandments which I command thee this day.
 <small><sub>**BSB:**</sub></small>
 if only you obey the LORD your God and are careful to follow all these commandments I am giving you today.
+<small><sub>**Hebrew:**</sub></small>
+[[H7535\|רַ֚ק]] [[H0518A\|אִם]][[H9014\|־]] [[H8085H\|שָׁמ֣וֹעַ]] [[H8085H\|תִּשְׁמַ֔ע]] [[H9003\|בְּ]][[H6963A\|ק֖וֹל]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֑י]][[H9021\|ךָ]] [[H9005\|לִ]][[H8104J\|שְׁמֹ֤ר]] [[H9005\|לַ]][[H6213A\|עֲשׂוֹת֙]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H4687\|מִּצְוָ֣ה]] [[H9009\|הַ]][[H2063\|זֹּ֔את]] [[H0834A\|אֲשֶׁ֛ר]] [[H0595\|אָנֹכִ֥י]] [[H6680\|מְצַוְּ]][[H9031\|ךָ֖]] [[H9009\|הַ]][[H3117G\|יּֽוֹם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic LENDING|LENDING]] • [[topic POOR|POOR]] • [[topic SABBATIC YEAR|SABBATIC YEAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.15.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.15.4|<< Deuteronomy 15:4]]</td><td align="center" style="border:none;">[[Deut.15|Deuteronomy 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.15.6|Deuteronomy 15:6 >>]]</td></tr></table>
 

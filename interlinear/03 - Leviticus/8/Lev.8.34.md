@@ -1,8 +1,60 @@
+---
+title: Leviticus 8:34
+type: Verse
+kjv: "As he hath done this day, so the LORD hath commanded to do, to make an atonement for you."
+bsb: "What has been done today has been commanded by the LORD in order to make atonement on your behalf."
+hebrew: "כַּאֲשֶׁ֥ר עָשָׂ֖ה בַּיּ֣וֹם הַזֶּ֑ה צִוָּ֧ה יְהוָ֛ה לַעֲשֹׂ֖ת לְכַפֵּ֥ר עֲלֵיכֶֽם׃"
+pericope: "[[Lev.8.22 The Ram of Ordination|The Ram of Ordination]]"
+original_language: Hebrew
+testament: Old
+book: Leviticus
+chapter: 8
+book/chapter: "[[Lev.8|Leviticus 8]]"
+chronological_order: 140
+era: Egypt and Exodus
+period: "The Tabernacle and Levitical Law"
+date: ~1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- ritual codes
+- legal codes
+- holiness code
+- priestly literature
+- purity laws
+- sacrificial codes
+topics:
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic PRIEST|PRIEST]]"
+strongs:
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H6213A]]"
+- "[[H9003]]"
+- "[[H3117L]]"
+- "[[H9009]]"
+- "[[H2088]]"
+- "[[H6680]]"
+- "[[H3068G]]"
+- "[[H9005]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9036]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Leviticus 8:34**<big><big>[[Lev.8.22 The Ram of Ordination|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 As he hath done this day, [so] the LORD hath commanded to do, to make an atonement for you.
 <small><sub>**BSB:**</sub></small>
 What has been done today has been commanded by the LORD in order to make atonement on your behalf.
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כַּ]][[H0834D\|אֲשֶׁ֥ר]] [[H6213A\|עָשָׂ֖ה]] [[H9003\|בַּ]][[H3117L\|יּ֣וֹם]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H6680\|צִוָּ֧ה]] [[H3068G\|יְהוָ֛ה]] [[H9005\|לַ]][[H6213A\|עֲשֹׂ֖ת]] [[H9005\|לְ]][[H3722A\|כַפֵּ֥ר]] [[H5921A\|עֲלֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ISRAEL|ISRAEL]] • [[topic PRIEST|PRIEST]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Lev.8.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Lev.8.33|<< Leviticus 8:33]]</td><td align="center" style="border:none;">[[Lev.8|Leviticus 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Lev.8.35|Leviticus 8:35 >>]]</td></tr></table>
 

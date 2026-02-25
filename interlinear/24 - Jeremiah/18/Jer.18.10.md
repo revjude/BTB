@@ -1,8 +1,70 @@
+---
+title: Jeremiah 18:10
+type: Verse
+kjv: "If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them."
+bsb: "and if it does evil in My sight and does not listen to My voice, then I will relent of the good I had intended for it."
+hebrew: "וְעָשָׂ֤ה הָרַע֙ בְּעֵינַ֔י לְבִלְתִּ֖י שְׁמֹ֣עַ בְּקוֹלִ֑י וְנִֽחַמְתִּי֙ עַל־ הַטּוֹבָ֔ה אֲשֶׁ֥ר אָמַ֖רְתִּי לְהֵיטִ֥יב אוֹתֽוֹ׃ ס"
+pericope: "[[Jer.18.1 The Potter and the Clay|The Potter and the Clay]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 18
+book/chapter: "[[Jer.18|Jeremiah 18]]"
+chronological_order: 735
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic CONTINGENCIES|CONTINGENCIES]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic NATION|NATION]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6213A]]"
+- "[[H9009]]"
+- "[[H7451I]]"
+- "[[H7451H]]"
+- "[[H9003]]"
+- "[[H5869H]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H1115]]"
+- "[[H8085G]]"
+- "[[H6963A]]"
+- "[[H5162H]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H2896C]]"
+- "[[H0834A]]"
+- "[[H0559]]"
+- "[[H3190]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+- Q(K)
+---
+
 **Jeremiah 18:10**<big><big>[[Jer.18.1 The Potter and the Clay|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If it do evil in my sight, that it obey not my voice, then I will repent of the good, wherewith I said I would benefit them.
 <small><sub>**BSB:**</sub></small>
 and if it does evil in My sight and does not listen to My voice, then I will relent of the good I had intended for it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6213A\|עָשָׂ֤ה]] [[H9009\|הָ]][[H7451H\|רַע֙]] [[H9003\|בְּ]][[H5869H\|עֵינַ֔]][[H9020\|י]] [[H9005\|לְ]][[H1115\|בִלְתִּ֖י]] [[H8085G\|שְׁמֹ֣עַ]] [[H9003\|בְּ]][[H6963A\|קוֹלִ֑]][[H9020\|י]] [[H9001\|וְ]][[H5162H\|נִֽחַמְתִּי֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H2896C\|טּוֹבָ֔ה]] [[H0834A\|אֲשֶׁ֥ר]] [[H0559\|אָמַ֖רְתִּי]] [[H9005\|לְ]][[H3190\|הֵיטִ֥יב]] [[H0853\|אוֹתֽ]][[H9033\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONTINGENCIES|CONTINGENCIES]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic NATION|NATION]] • [[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.9|<< Jeremiah 18:9]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.11|Jeremiah 18:11 >>]]</td></tr></table>
 
@@ -20,10 +82,10 @@ and if it does evil in My sight and does not listen to My voice, then I will rel
 | which  |**<big>&#8207;[[H0834A\|אֲשֶׁ֥ר]]&#8207; </big>**| 'a.Sher<small><sup>[[HTr]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | I had said  |**<big>&#8207;[[H0559\|אָמַ֖רְתִּי]]&#8207; </big>**| 'a.Mar.ti<small><sup>[[HVqp1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | to do good to  |**<big>&#8207;[[H9005\|לְ]]&#8207;&#8207;[[H3190\|הֵיטִ֥יב]]&#8207; </big>**| le.<small><sup>[[HR]]</sup></small> hei.Tiv<small><sup>[[HVhcc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| \<obj.> it  |**<big>&#8207;[[H0853\|אוֹתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| \<obj.> it  |**<big>&#8207;[[H0853\|אוֹתֽ]]&#8207;&#8207;[[H9033\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| 'o.T<small><sup>[[HTo]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.18.9|<< Jeremiah 18:9]]</td><td align="center" style="border:none;">[[Jer.18|Jeremiah 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.18.11|Jeremiah 18:11 >>]]</td></tr></table>
 
-[^1]: the evil  | **<big>[[H7451I|רָעָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ra.'ah<small><sup>[[HNcfsa]]</sup></small> | K
-[^2]: the evil  | **<big>[[H7451I|רָעָה]]</big><big>[[H9009|הָ]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ra.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^1]: the evil  | **<big>[[H9009|הָ]]</big><big>[[H7451I|רָעָה]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ra.'ah<small><sup>[[HNcfsa]]</sup></small> | K
+[^2]: the evil  | **<big>[[H9009|הָ]]</big><big>[[H7451I|רָעָה]]</big> ** | ha.<small><sup>[[HTd]]</sup></small> ra.'ah<small><sup>[[HNcfsa]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>הָרַע֙ה</big></span>**
 

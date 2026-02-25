@@ -1,8 +1,60 @@
+---
+title: Proverbs 1:28
+type: Verse
+kjv: "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
+bsb: "Then they will call on me, but I will not answer; they will earnestly seek me, but will not find me."
+hebrew: "אָ֣ז יִ֭קְרָאֻנְנִי וְלֹ֣א אֶֽעֱנֶ֑ה יְ֝שַׁחֲרֻ֗נְנִי וְלֹ֣א יִמְצָאֻֽנְנִי׃"
+pericope: "[[Prov.1.20 Wisdom Calls Aloud|Wisdom Calls Aloud]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 1
+book/chapter: "[[Prov.1|Proverbs 1]]"
+chronological_order: 456
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic COUNSEL|COUNSEL]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+- "[[topic IMPENITENCE|IMPENITENCE]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic REPENTANCE|REPENTANCE]]"
+- "[[topic REPROBACY|REPROBACY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+- "[[topic WISDOM|WISDOM]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H0227A]]"
+- "[[H7121G]]"
+- "[[H9030]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H6030B]]"
+- "[[H7836]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 1:28**<big><big>[[Prov.1.20 Wisdom Calls Aloud|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:
 <small><sub>**BSB:**</sub></small>
 Then they will call on me, but I will not answer; they will earnestly seek me, but will not find me.
+<small><sub>**Hebrew:**</sub></small>
+[[H0227A\|אָ֣ז]] [[H7121G\|יִ֭קְרָאֻ]][[H9030\|נְנִי]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H6030B\|אֶֽעֱנֶ֑ה]] [[H7836\|יְ֝שַׁחֲרֻ֗]][[H9030\|נְנִי]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H4672\|יִמְצָאֻֽ]][[H9030\|נְנִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COUNSEL|COUNSEL]] • [[topic HOLY SPIRIT|HOLY SPIRIT]] • [[topic IMPENITENCE|IMPENITENCE]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic OBDURACY (HARDNESS)|OBDURACY (HARDNESS)]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic REPENTANCE|REPENTANCE]] • [[topic REPROBACY|REPROBACY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]] • [[topic WISDOM|WISDOM]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.1.28|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.1.27|<< Proverbs 1:27]]</td><td align="center" style="border:none;">[[Prov.1|Proverbs 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.1.29|Proverbs 1:29 >>]]</td></tr></table>
 

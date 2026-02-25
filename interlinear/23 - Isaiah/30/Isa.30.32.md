@@ -1,8 +1,66 @@
+---
+title: Isaiah 30:32
+type: Verse
+kjv: "And in every place where the grounded staff shall pass, which the LORD shall lay upon him, it shall be with tabrets and harps: and in battles of shaking will he fight with it."
+bsb: "And with every stroke of the rod of punishment that the LORD brings down on them, the tambourines and lyres will sound as He battles with weapons brandished."
+hebrew: "וְהָיָ֗ה כֹּ֤ל מַֽעֲבַר֙ מַטֵּ֣ה מֽוּסָדָ֔ה אֲשֶׁ֨ר יָנִ֤יחַ יְהוָה֙ עָלָ֔יו בְּתֻפִּ֖ים וּבְכִנֹּר֑וֹת וּבְמִלְחֲמ֥וֹת תְּנוּפָ֖ה נִלְחַם־ בָּֽם׃"
+pericope: "[[Isa.30.18 God Will Be Gracious|God Will Be Gracious]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 30
+book/chapter: "[[Isa.30|Isaiah 30]]"
+chronological_order: 673
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic ASSYRIA|ASSYRIA]]"
+- "[[topic HARP|HARP]]"
+- "[[topic MUSIC|MUSIC]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H4569A]]"
+- "[[H4294G]]"
+- "[[H4145]]"
+- "[[H0834A]]"
+- "[[H5117]]"
+- "[[H3068G]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H8596]]"
+- "[[H9002]]"
+- "[[H3658]]"
+- "[[H4421]]"
+- "[[H8573]]"
+- "[[H3898A]]"
+- "[[H9014]]"
+- "[[H9034]]"
+- "[[H9016]]"
+- "[[H9038]]"
+texts:
+- L
+- Q(K)
+---
+
 **Isaiah 30:32**<big><big>[[Isa.30.18 God Will Be Gracious|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [in] every place where the grounded staff shall pass, which the LORD shall lay upon him, [it] shall be with tabrets and harps: and in battles of shaking will he fight with it.
 <small><sub>**BSB:**</sub></small>
 And with every stroke of the rod of punishment that the LORD brings down on them, the tambourines and lyres will sound as He battles with weapons brandished.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1961\|הָיָ֗ה]] [[H3605\|כֹּ֤ל]] [[H4569A\|מַֽעֲבַר֙]] [[H4294G\|מַטֵּ֣ה]] [[H4145\|מֽוּסָדָ֔ה]] [[H0834A\|אֲשֶׁ֨ר]] [[H5117\|יָנִ֤יחַ]] [[H3068G\|יְהוָה֙]] [[H5921A\|עָלָ֔י]][[H9033\|ו]] [[H9003\|בְּ]][[H8596\|תֻפִּ֖ים]] [[H9002\|וּ]][[H9003\|בְ]][[H3658\|כִנֹּר֑וֹת]] [[H9002\|וּ]][[H9003\|בְ]][[H4421\|מִלְחֲמ֥וֹת]] [[H8573\|תְּנוּפָ֖ה]] [[H3898A\|נִלְחַם]][[H9014\|־]] [[H9003\|בָּֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASSYRIA|ASSYRIA]] • [[topic HARP|HARP]] • [[topic MUSIC|MUSIC]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.30.32|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.31|<< Isaiah 30:31]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.33|Isaiah 30:33 >>]]</td></tr></table>
 
@@ -25,7 +83,7 @@ And with every stroke of the rod of punishment that the LORD brings down on them
 | against them  [^2]|**<big>&#8207;[[H9003\|בָּֽ]]&#8207;&#8207;[[H9038\|ם]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**[^3] | ba<small><sup>[[HR]]</sup></small> m<small><sup>[[HSp3mp]]</sup></small> | <abbr title="Scribal Corrections (the ketiv)">Q(K)</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.30.31|<< Isaiah 30:31]]</td><td align="center" style="border:none;">[[Isa.30|Isaiah 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.30.33|Isaiah 30:33 >>]]</td></tr></table>
 
-[^1]: against it  | **<big>[[H9016|׃]]</big><big>[[H9034|הּ]]</big><big>[[H9003|בָּ]]</big> ** | ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
-[^2]: against it  | **<big>[[H9016|׃]]</big><big>[[H9034|הּ]]</big><big>[[H9003|בָּ]]</big> ** | ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^1]: against it  | **<big>[[H9003|בָּ]]</big><big>[[H9034|הּ]]</big><big>[[H9016|׃]]</big> ** | ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
+[^2]: against it  | **<big>[[H9003|בָּ]]</big><big>[[H9034|הּ]]</big><big>[[H9016|׃]]</big> ** | ba<small><sup>[[HR]]</sup></small> h<small><sup>[[HSp3fs]]</sup></small> | K
 [^3]: L spelled: **<span class="ashebrew"><big>בָּֽה\׃</big></span>**
 

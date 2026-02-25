@@ -1,10 +1,68 @@
+---
+title: John 18:36
+type: Verse
+kjv: "Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence."
+bsb: "Jesus answered, “My kingdom is not of this world; if it were, My servants would fight to prevent My arrest by the Jews. But now My kingdom is not of this realm.”"
+jesus_said: "My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence."
+greek: "Ἀπεκρίθη ὁ Ἰησοῦς· ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐκ τοῦ κόσμου τούτου· εἰ ἐκ τοῦ κόσμου τούτου ἦν ἡ βασιλεία ἡ ἐμή, οἱ ὑπηρέται οἱ ἐμοὶ ἠγωνίζοντο ἂν ἵνα μὴ παραδοθῶ τοῖς Ἰουδαίοις· νῦν δὲ ἡ βασιλεία ἡ ἐμὴ οὐκ ἔστιν ἐντεῦθεν.¶"
+pericope: "[[John.18.28 Jesus before Pilate|Jesus before Pilate]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 18
+book/chapter: "[[John.18|John 18]]"
+chronological_order: 1009
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic GOSPEL|GOSPEL]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic PILATE, PONTIUS|PILATE, PONTIUS]]"
+- "[[topic PRISONERS|PRISONERS]]"
+strongs:
+- "[[G0611]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G0932]]"
+- "[[G1473]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1537]]"
+- "[[G2889]]"
+- "[[G3778]]"
+- "[[G1487G]]"
+- "[[G5257]]"
+- "[[G0075]]"
+- "[[G0302]]"
+- "[[G2443]]"
+- "[[G3361]]"
+- "[[G3860]]"
+- "[[G2453]]"
+- "[[G3568]]"
+- "[[G1161]]"
+- "[[G1782]]"
+texts:
+- NKO
+- k
+---
+
 **John 18:36**<big><big>[[John.18.28 Jesus before Pilate|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.
 <small><sub>**BSB:**</sub></small>
 Jesus answered, “My kingdom is not of this world; if it were, My servants would fight to prevent My arrest by the Jews. But now My kingdom is not of this realm.”
-<small><sub>**Literal:**</sub></small>
-Answered <the> Jesus; The kingdom <the> of Mine not is of <the> world this; if of <the> world this were <the> kingdom <the> of Mine, <the> attendants <the> of Mine they were fighting then would that not I may be betrayed to the Jews; Now however <the> kingdom <the> of Mine not is from here.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.35|<< John 18:35]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.37|John 18:37 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|Ἀπεκρίθη]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς·]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|ἡ]]  [[G1473\|ἐμὴ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3778\|τούτου·]]  [[G1487G\|εἰ]]  [[G1537\|ἐκ]]  [[G3588\|τοῦ]]  [[G2889\|κόσμου]]  [[G3778\|τούτου]]  [[G1510\|ἦν]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|ἡ]]  [[G1473\|ἐμή,]]  [[G3588\|οἱ]]  [[G5257\|ὑπηρέται]]  [[G3588\|οἱ]]  [[G1473\|ἐμοὶ]]  [[G0075\|ἠγωνίζοντο]]  [[G0302\|ἂν]]  [[G2443\|ἵνα]]  [[G3361\|μὴ]]  [[G3860\|παραδοθῶ]]  [[G3588\|τοῖς]]  [[G2453\|Ἰουδαίοις·]]  [[G3568\|νῦν]]  [[G1161\|δὲ]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|ἡ]]  [[G1473\|ἐμὴ]]  [[G3756\|οὐκ]]  [[G1510\|ἔστιν]]  [[G1782\|ἐντεῦθεν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic GOSPEL|GOSPEL]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic PILATE, PONTIUS|PILATE, PONTIUS]] • [[topic PRISONERS|PRISONERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.18.35|<< John 18:35]]</td><td align="center" style="border:none;">[[John.18|John 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.18.37|John 18:37 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

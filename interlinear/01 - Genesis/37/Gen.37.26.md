@@ -1,8 +1,66 @@
+---
+title: Genesis 37:26
+type: Verse
+kjv: "And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?"
+bsb: "Then Judah said to his brothers, “What profit will we gain if we kill our brother and cover up his blood?"
+hebrew: "וַיֹּ֥אמֶר יְהוּדָ֖ה אֶל־ אֶחָ֑יו מַה־ בֶּ֗צַע כִּ֤י נַהֲרֹג֙ אֶת־ אָחִ֔ינוּ וְכִסִּ֖ינוּ אֶת־ דָּמֽוֹ׃"
+pericope: "[[Gen.37.12 Joseph Sold into Egypt|Joseph Sold into Egypt]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 37
+book/chapter: "[[Gen.37|Genesis 37]]"
+chronological_order: 79
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic ISHMAELITES|ISHMAELITES]]"
+- "[[topic JEALOUSY|JEALOUSY]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic JUDAH|JUDAH]]"
+- "[[topic REUBEN|REUBEN]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H3063G]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H0251G]]"
+- "[[H9023]]"
+- "[[H4100]]"
+- "[[H1215]]"
+- "[[H3588A]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H9025]]"
+- "[[H3680]]"
+- "[[H1818]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 37:26**<big><big>[[Gen.37.12 Joseph Sold into Egypt|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Judah said unto his brethren, What profit [is it] if we slay our brother, and conceal his blood?
 <small><sub>**BSB:**</sub></small>
 Then Judah said to his brothers, “What profit will we gain if we kill our brother and cover up his blood?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֥אמֶר]] [[H3063G\|יְהוּדָ֖ה]] [[H0413\|אֶל]][[H9014\|־]] [[H0251G\|אֶחָ֑י]][[H9023\|ו]] [[H4100\|מַה]][[H9014\|־]] [[H1215\|בֶּ֗צַע]] [[H3588A\|כִּ֤י]] [[H2026\|נַהֲרֹג֙]] [[H0853\|אֶת]][[H9014\|־]] [[H0251G\|אָחִ֔י]][[H9025\|נוּ]] [[H9001\|וְ]][[H3680\|כִסִּ֖ינוּ]] [[H0853\|אֶת]][[H9014\|־]] [[H1818\|דָּמֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INTERCESSION|INTERCESSION]] • [[topic ISHMAELITES|ISHMAELITES]] • [[topic JEALOUSY|JEALOUSY]] • [[topic JOSEPH|JOSEPH]] • [[topic JUDAH|JUDAH]] • [[topic REUBEN|REUBEN]] • [[topic SERVANT|SERVANT]] • [[topic WORLDLINESS|WORLDLINESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.37.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.37.25|<< Genesis 37:25]]</td><td align="center" style="border:none;">[[Gen.37|Genesis 37]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.37.27|Genesis 37:27 >>]]</td></tr></table>
 

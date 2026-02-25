@@ -1,10 +1,46 @@
+---
+title: 3 John 1:7
+type: Verse
+kjv: "Because that for his name’s sake they went forth, taking nothing of the Gentiles."
+bsb: "For they went out on behalf of the Name, accepting nothing from the Gentiles."
+greek: "ὑπὲρ γὰρ τοῦ ὀνόματος ἐξῆλθον μηδὲν λαμβάνοντες ἀπὸ τῶν ἐθνικῶν."
+pericope: "[[3John.1.5 Gaius Commended for Hospitality|Gaius Commended for Hospitality]]"
+original_language: Greek
+testament: New
+book: 3 John
+chapter: 1
+book/chapter: "[[3John.1|3 John 1]]"
+chronological_order: 1167
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
+- epistle
+- general epistle
+- johannine epistle
+- personal letter
+strongs:
+- "[[G5228]]"
+- "[[G1063]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G1831]]"
+- "[[G3367]]"
+- "[[G2983]]"
+- "[[G0575]]"
+- "[[G1482]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **3 John 1:7**<big><big>[[3John.1.5 Gaius Commended for Hospitality|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Because that for his name’s sake they went forth, taking nothing of the Gentiles.
 <small><sub>**BSB:**</sub></small>
 For they went out on behalf of the Name, accepting nothing from the Gentiles.
-<small><sub>**Literal:**</sub></small>
-On behalf for of the name they went forth nothing accepting from the Gentile [people].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.6|<< 3 John 1:6]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.8|3 John 1:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5228\|ὑπὲρ]]  [[G1063\|γὰρ]]  [[G3588\|τοῦ]]  [[G3686\|ὀνόματος]]  [[G1831\|ἐξῆλθον]]  [[G3367\|μηδὲν]]  [[G2983\|λαμβάνοντες]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G1482\|ἐθνικῶν.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[3John.1.6|<< 3 John 1:6]]</td><td align="center" style="border:none;">[[3John.1|3 John 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[3John.1.8|3 John 1:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

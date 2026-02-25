@@ -1,8 +1,51 @@
+---
+title: Ezekiel 7:6
+type: Verse
+kjv: "An end is come, the end is come: it watcheth for thee; behold, it is come."
+bsb: "The end has come! The end has come! It has roused itself against you. Behold, it has come!"
+hebrew: "קֵ֣ץ בָּ֔א בָּ֥א הַקֵּ֖ץ הֵקִ֣יץ אֵלָ֑יִךְ הִנֵּ֖ה בָּאָֽה׃"
+pericope: "[[Ezek.7.1 The Hour of Doom|The Hour of Doom]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 7
+book/chapter: "[[Ezek.7|Ezekiel 7]]"
+chronological_order: 798
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H7093]]"
+- "[[H0935G]]"
+- "[[H9009]]"
+- "[[H6974]]"
+- "[[H0413]]"
+- "[[H9032]]"
+- "[[H2009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 7:6**<big><big>[[Ezek.7.1 The Hour of Doom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 An end is come, the end is come: it watcheth for thee; behold, it is come.
 <small><sub>**BSB:**</sub></small>
 The end has come! The end has come! It has roused itself against you. Behold, it has come!
+<small><sub>**Hebrew:**</sub></small>
+[[H7093\|קֵ֣ץ]] [[H0935G\|בָּ֔א]] [[H0935G\|בָּ֥א]] [[H9009\|הַ]][[H7093\|קֵּ֖ץ]] [[H6974\|הֵקִ֣יץ]] [[H0413\|אֵלָ֑יִ]][[H9032\|ךְ]] [[H2009\|הִנֵּ֖ה]] [[H0935G\|בָּאָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.7.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.7.5|<< Ezekiel 7:5]]</td><td align="center" style="border:none;">[[Ezek.7|Ezekiel 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.7.7|Ezekiel 7:7 >>]]</td></tr></table>
 

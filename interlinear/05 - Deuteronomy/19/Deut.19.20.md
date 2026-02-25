@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 19:20
+type: Verse
+kjv: "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you."
+bsb: "Then the rest of the people will hear and be afraid, and they will never again do anything so evil among you."
+hebrew: "וְהַנִּשְׁאָרִ֖ים יִשְׁמְע֣וּ וְיִרָ֑אוּ וְלֹֽא־ יֹסִ֨פוּ לַעֲשׂ֜וֹת ע֗וֹד כַּדָּבָ֥ר הָרָ֛ע הַזֶּ֖ה בְּקִרְבֶּֽךָ׃"
+pericope: "[[Deut.19.15 The Testimony of Two or Three Witnesses|The Testimony of Two or Three Witnesses]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 19
+book/chapter: "[[Deut.19|Deuteronomy 19]]"
+chronological_order: 215
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic EVIDENCE|EVIDENCE]]"
+- "[[topic FALSE TEACHERS|FALSE TEACHERS]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RETALIATION|RETALIATION]]"
+- "[[topic REVERENCE|REVERENCE]]"
+- "[[topic SLANDER|SLANDER]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H7604]]"
+- "[[H8085G]]"
+- "[[H3372G]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H3254G]]"
+- "[[H9005]]"
+- "[[H6213H]]"
+- "[[H5750]]"
+- "[[H9004]]"
+- "[[H1697I]]"
+- "[[H7451H]]"
+- "[[H2088]]"
+- "[[H9003]]"
+- "[[H7130G]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 19:20**<big><big>[[Deut.19.15 The Testimony of Two or Three Witnesses|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.
 <small><sub>**BSB:**</sub></small>
 Then the rest of the people will hear and be afraid, and they will never again do anything so evil among you.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H7604\|נִּשְׁאָרִ֖ים]] [[H8085G\|יִשְׁמְע֣וּ]] [[H9002\|וְ]][[H3372G\|יִרָ֑אוּ]] [[H9002\|וְ]][[H3808\|לֹֽא]][[H9014\|־]] [[H3254G\|יֹסִ֨פוּ]] [[H9005\|לַ]][[H6213H\|עֲשׂ֜וֹת]] [[H5750\|ע֗וֹד]] [[H9004\|כַּ]][[H1697I\|דָּבָ֥ר]] [[H9009\|הָ]][[H7451H\|רָ֛ע]] [[H9009\|הַ]][[H2088\|זֶּ֖ה]] [[H9003\|בְּ]][[H7130G\|קִרְבֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic EVIDENCE|EVIDENCE]] • [[topic FALSE TEACHERS|FALSE TEACHERS]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RETALIATION|RETALIATION]] • [[topic REVERENCE|REVERENCE]] • [[topic SLANDER|SLANDER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.19.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.19.19|<< Deuteronomy 19:19]]</td><td align="center" style="border:none;">[[Deut.19|Deuteronomy 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.19.21|Deuteronomy 19:21 >>]]</td></tr></table>
 

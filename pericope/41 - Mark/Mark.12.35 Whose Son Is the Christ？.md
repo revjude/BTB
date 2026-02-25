@@ -1,27 +1,34 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Whose Son Is the Christ？
+type: Pericope
 pericope: "[[Mark.12.35 Whose Son Is the Christ？|Whose Son Is the Christ？]]"
-verse_count: 3
+original_language: Greek
 testament: New
 book: Mark
 chapter: 12
 book/chapter: "[[Mark.12|Mark 12]]"
-genre:
+chronological_order: 994
+era: Gospel
+period: "The Life of Christ: Final Week — Teaching in Jerusalem"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 3
 verses:
 - "[[Mark.12.35]]"
 - "[[Mark.12.36]]"
 - "[[Mark.12.37]]"
 ---
 
-[[Mark.12|Mark 12:35 - Mark 12:37]]
+<small>[[Mark.12|Mark 12:35-37]]</small>
 *Whose Son Is the Christ？*
 
 [[Mark.12.35|35]] And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the Son of David?

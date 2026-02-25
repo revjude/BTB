@@ -1,10 +1,69 @@
+---
+title: John 8:9
+type: Verse
+kjv: "And they which heard it, being convicted by their own conscience, went out one by one, beginning at the eldest, even unto the last: and Jesus was left alone, and the woman standing in the midst."
+bsb: "When they heard this, they began to go away one by one, beginning with the older ones, until only Jesus was left, with the woman standing there."
+greek: "οἱ δὲ ἀκούσαντες καὶ ὑπὸ τῆς συνειδήσεως ἐλεγχόμενοι ἐξήρχοντο εἷς καθ εἷς ἀρξάμενοι ἀπὸ τῶν πρεσβυτέρων ἕως τῶν ἐσχάτων, καὶ κατελείφθη μόνος, ὁ Ἰησοῦς καὶ ἡ γυνὴ ἐν μέσῳ ἑστῶσα."
+pericope: "[[John.8.1 The Woman Caught in Adultery|The Woman Caught in Adultery]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 8
+book/chapter: "[[John.8|John 8]]"
+chronological_order: 982
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic CONSCIENCE|CONSCIENCE]]"
+- "[[topic CONVICTION|CONVICTION]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic SELF-CONDEMNATION|SELF-CONDEMNATION]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G0191]]"
+- "[[G2532]]"
+- "[[G5259G]]"
+- "[[G4893]]"
+- "[[G1651]]"
+- "[[G1831]]"
+- "[[G1520]]"
+- "[[G2596]]"
+- "[[G0757]]"
+- "[[G0575]]"
+- "[[G4245H]]"
+- "[[G2193]]"
+- "[[G2078]]"
+- "[[G2641]]"
+- "[[G3441]]"
+- "[[G2424G]]"
+- "[[G1135G]]"
+- "[[G1722]]"
+- "[[G3319]]"
+- "[[G2476]]"
+texts:
+- KO
+- K
+- K(o)
+---
+
 **John 8:9**<big><big>[[John.8.1 The Woman Caught in Adultery|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And they which heard [it], being convicted by [their own] conscience, went out one by one, beginning at the eldest, [even] unto the last: and Jesus was left alone, and the woman standing in the midst.
 <small><sub>**BSB:**</sub></small>
 When they heard this, they began to go away one by one, beginning with the older ones, until only Jesus was left, with the woman standing there.
-<small><sub>**Literal:**</sub></small>
-<the> And having heard and by <the> conscience being convicted they were going away one by one having begun from the elder ones until of the last and He was left alone, <the> Jesus and the woman in [the] midst already standing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.8|<< John 8:8]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.10|John 8:10 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|οἱ]]  [[G1161\|δὲ]]  [[G0191\|ἀκούσαντες]]  [[G2532\|καὶ]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῆς]]  [[G4893\|συνειδήσεως]]  [[G1651\|ἐλεγχόμενοι]]  [[G1831\|ἐξήρχοντο]]  [[G1520\|εἷς]]  [[G2596\|καθ]]  [[G1520\|εἷς]]  [[G0757\|ἀρξάμενοι]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G4245H\|πρεσβυτέρων]]  [[G2193\|ἕως]]  [[G3588\|τῶν]]  [[G2078\|ἐσχάτων,]]  [[G2532\|καὶ]]  [[G2641\|κατελείφθη]]  [[G3441\|μόνος,]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2532\|καὶ]]  [[G3588\|ἡ]]  [[G1135G\|γυνὴ]]  [[G1722\|ἐν]]  [[G3319\|μέσῳ]]  [[G2476\|ἑστῶσα.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic CONSCIENCE|CONSCIENCE]] • [[topic CONVICTION|CONVICTION]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic SELF-CONDEMNATION|SELF-CONDEMNATION]] • [[topic WOMEN|WOMEN]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.8.8|<< John 8:8]]</td><td align="center" style="border:none;">[[John.8|John 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.8.10|John 8:10 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

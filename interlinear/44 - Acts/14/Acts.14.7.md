@@ -1,10 +1,47 @@
+---
+title: Acts 14:7
+type: Verse
+kjv: "And there they preached the gospel."
+bsb: "where they continued to preach the gospel."
+greek: "κἀκεῖ κἀκεῖ εὐαγγελιζόμενοι ἦσαν.¶"
+pericope: "[[Acts.14.1 Paul and Barnabas at Iconium|Paul and Barnabas at Iconium]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 14
+book/chapter: "[[Acts.14|Acts 14]]"
+chronological_order: 1032
+era: Church
+period: "Paul's First Missionary Journey"
+date: ~AD 47–49
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic BARNABAS|BARNABAS]]"
+- "[[topic LYCAONIA|LYCAONIA]]"
+- "[[topic LYSTRA|LYSTRA]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G2532]]"
+- "[[G1563]]"
+- "[[G2097]]"
+- "[[G1510]]"
+texts:
+- NKO
+---
+
 **Acts 14:7**<big><big>[[Acts.14.1 Paul and Barnabas at Iconium|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And there they preached the gospel.
 <small><sub>**BSB:**</sub></small>
 where they continued to preach the gospel.
-<small><sub>**Literal:**</sub></small>
-and there evangelising they were  continuing.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.6|<< Acts 14:6]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.8|Acts 14:8 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|κἀκεῖ]]  <sup><small>[[G1563\| [ • ] ]]</small></sup>  [[G2097\|εὐαγγελιζόμενοι]]  [[G1510\|ἦσαν.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARNABAS|BARNABAS]] • [[topic LYCAONIA|LYCAONIA]] • [[topic LYSTRA|LYSTRA]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.14.6|<< Acts 14:6]]</td><td align="center" style="border:none;">[[Acts.14|Acts 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.14.8|Acts 14:8 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

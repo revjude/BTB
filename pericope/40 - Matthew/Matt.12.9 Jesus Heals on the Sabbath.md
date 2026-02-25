@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Heals on the Sabbath
+type: Pericope
 pericope: "[[Matt.12.9 Jesus Heals on the Sabbath|Jesus Heals on the Sabbath]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Matthew
 chapter: 12
 book/chapter: "[[Matt.12|Matthew 12]]"
-genre:
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
+verse_count: 6
 verses:
 - "[[Matt.12.9]]"
 - "[[Matt.12.10]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Matt.12.14]]"
 ---
 
-[[Matt.12|Matthew 12:9 - Matthew 12:14]]
+<small>[[Matt.12|Matthew 12:9-14]]</small>
 *Jesus Heals on the Sabbath*
 
 [[Matt.12.9|9]] And when he was departed thence, he went into their synagogue:

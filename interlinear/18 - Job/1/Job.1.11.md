@@ -1,8 +1,64 @@
+---
+title: Job 1:11
+type: Verse
+kjv: "But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face."
+bsb: "But stretch out Your hand and strike all that he has, and he will surely curse You to Your face.”"
+hebrew: "וְאוּלָם֙ שְֽׁלַֽח־ נָ֣א יָֽדְךָ֔ וְגַ֖ע בְּכָל־ אֲשֶׁר־ ל֑וֹ אִם־ לֹ֥א עַל־ פָּנֶ֖יךָ יְבָרֲכֶֽךָּ׃"
+pericope: "[[Job.1.6 Satan’s First Attack|Satan’s First Attack]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic SATAN|SATAN]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H0199]]"
+- "[[H7971K]]"
+- "[[H9014]]"
+- "[[H4994]]"
+- "[[H3027G]]"
+- "[[H9021]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H3605]]"
+- "[[H0834A]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0518I]]"
+- "[[H3808]]"
+- "[[H5921A]]"
+- "[[H6440H]]"
+- "[[H1288]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 1:11**<big><big>[[Job.1.6 Satan’s First Attack|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.
 <small><sub>**BSB:**</sub></small>
 But stretch out Your hand and strike all that he has, and he will surely curse You to Your face.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0199\|אוּלָם֙]] [[H7971K\|שְֽׁלַֽח]][[H9014\|־]] [[H4994\|נָ֣א]] [[H3027G\|יָֽדְ]][[H9021\|ךָ֔]] [[H9002\|וְ]][[H5060\|גַ֖ע]] [[H9003\|בְּ]][[H3605\|כָל]][[H9014\|־]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H9005\|ל֑]][[H9033\|וֹ]] [[H0518I\|אִם]][[H9014\|־]] [[H3808\|לֹ֥א]] [[H5921A\|עַל]][[H9014\|־]] [[H6440H\|פָּנֶ֖י]][[H9021\|ךָ]] [[H1288\|יְבָרֲכֶֽ]][[H9031\|ךָּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic MOTIVE|MOTIVE]] • [[topic SATAN|SATAN]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.10|<< Job 1:10]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.12|Job 1:12 >>]]</td></tr></table>
 

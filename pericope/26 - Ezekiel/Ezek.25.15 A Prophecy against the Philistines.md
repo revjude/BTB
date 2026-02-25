@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: A Prophecy against the Philistines
+type: Pericope
 pericope: "[[Ezek.25.15 A Prophecy against the Philistines|A Prophecy against the Philistines]]"
-verse_count: 3
+original_language: Hebrew
 testament: Old
 book: Ezekiel
 chapter: 25
 book/chapter: "[[Ezek.25|Ezekiel 25]]"
-genre:
+chronological_order: 816
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
@@ -18,13 +24,14 @@ genre:
 - apocalyptic
 - building codes
 - ritual codes
+verse_count: 3
 verses:
 - "[[Ezek.25.15]]"
 - "[[Ezek.25.16]]"
 - "[[Ezek.25.17]]"
 ---
 
-[[Ezek.25|Ezekiel 25:15 - Ezekiel 25:17]]
+<small>[[Ezek.25|Ezekiel 25:15-17]]</small>
 *A Prophecy against the Philistines*
 
 [[Ezek.25.15|15]] Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy \[it\] for the old hatred;

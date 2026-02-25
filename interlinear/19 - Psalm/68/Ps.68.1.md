@@ -1,8 +1,56 @@
+---
+title: Psalm 68:1
+type: Verse
+kjv: "Let God arise, let his enemies be scattered: let them also that hate him flee before him."
+bsb: "For the choirmaster. A Psalm of David. A song. God arises. His enemies are scattered, and those who hate Him flee His presence."
+hebrew: "יָק֣וּם אֱ֭לֹהִים יָפ֣וּצוּ אוֹיְבָ֑יו וְיָנ֥וּסוּ מְ֝שַׂנְאָ֗יו מִפָּנָֽיו׃"
+pericope: "[[Ps.68.1 God’s Enemies Are Scattered|God’s Enemies Are Scattered]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 68
+book/chapter: "[[Ps.68|Psalm 68]]"
+chronological_order: 376
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H6965B]]"
+- "[[H0430G]]"
+- "[[H6327A]]"
+- "[[H0341]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H5127]]"
+- "[[H8130]]"
+- "[[H9033]]"
+- "[[H9006]]"
+- "[[H6440G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 68:1**<big><big>[[Ps.68.1 God’s Enemies Are Scattered|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let God arise, let his enemies be scattered: let them also that hate him flee before him.
 <small><sub>**BSB:**</sub></small>
 For the choirmaster. A Psalm of David. A song. God arises. His enemies are scattered, and those who hate Him flee His presence.
+<small><sub>**Hebrew:**</sub></small>
+[[H6965B\|יָק֣וּם]] [[H0430G\|אֱ֭לֹהִים]] [[H6327A\|יָפ֣וּצוּ]] [[H0341\|אוֹיְבָ֑י]][[H9023\|ו]] [[H9002\|וְ]][[H5127\|יָנ֥וּסוּ]] [[H8130\|מְ֝שַׂנְאָ֗י]][[H9033\|ו]] [[H9006\|מִ]][[H6440G\|פָּנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic PRAYER|PRAYER]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.68.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.68.0|<< Psalms 68:0]]</td><td align="center" style="border:none;">[[Ps.68|Psalms 68]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.68.2|Psalms 68:2 >>]]</td></tr></table>
 

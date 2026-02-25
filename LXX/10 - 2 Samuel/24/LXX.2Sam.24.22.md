@@ -1,6 +1,77 @@
+---
+title: LXX 2 Samuel 24:22
+type: Verse
+lxx: "And Araunah said to David, Take it and offer,  O my master the king, to the lord what is good in your eyes! Behold, the oxen are for a whole burnt-offering, and the wheels, and the items of the oxen are for wood."
+greek: "και είπεν Ορνά προς Δαυίδ λαβέτω και ανενεγκάτω ο κύριός μου ο βασιλεύς τω κυρίω το αγαθόν εν οφθαλμοίς αυτού ιδού οι βόες εις ολοκαύτωμα και οι τροχοί και τα σκεύη των βοών εις ξύλα"
+original_language: Greek
+testament: Old
+book: 2 Samuel
+chapter: 24
+book/chapter: "[[2Sam.24|2 Samuel 24]]"
+chronological_order: 432
+era: United Kingdom
+period: "David's Latter Years and Final Preparations"
+date: ~975–970 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ARAUNAH|ARAUNAH]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic ORNAN|ORNAN]]"
+- "[[topic PLAGUE|PLAGUE]]"
+- "[[topic THRESHING|THRESHING]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[H0728]]"
+- "[[G4314]]"
+- "[[G4622]]"
+- "[[G2983]]"
+- "[[G2532]]"
+- "[[G0399]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G1473]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[G3588]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G0018]]"
+- "[[G1722]]"
+- "[[G3788]]"
+- "[[G1473]]"
+- "[[G2400]]"
+- "[[G3588]]"
+- "[[G1016]]"
+- "[[G1519]]"
+- "[[G3646]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G5164]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G4632]]"
+- "[[G3588]]"
+- "[[G1016]]"
+- "[[G1519]]"
+- "[[G3586]]"
+---
+
 **LXX 2 Samuel 24:22** 
 <small><sub>**LXX:**</sub></small>
 And Araunah said to David, Take it and offer,  O my master the king, to the <span class="smallcaps">lord</span> \[what is\] good in \[your\] eyes! Behold, the oxen \[are\] for a whole burnt-offering, and the wheels, and the items of the oxen \[are\] for wood. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G2036\|είπεν]] [[H0728\|Ορνά]] [[G4314\|προς]] [[G4622\|Δαυίδ]] [[G2983\|λαβέτω]] [[G2532\|και]] [[G0399\|ανενεγκάτω]] [[G3588\|ο]] [[G2962\|κύριός]] [[G1473\|μου]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[G3588\|τω]] [[G2962\|κυρίω]] [[G3588\|το]] [[G0018\|αγαθόν]] [[G1722\|εν]] [[G3788\|οφθαλμοίς]] [[G1473\|αυτού]] [[G2400\|ιδού]] [[G3588\|οι]] [[G1016\|βόες]] [[G1519\|εις]] [[G3646\|ολοκαύτωμα]] [[G2532\|και]] [[G3588\|οι]] [[G5164\|τροχοί]] [[G2532\|και]] [[G3588\|τα]] [[G4632\|σκεύη]] [[G3588\|των]] [[G1016\|βοών]] [[G1519\|εις]] [[G3586\|ξύλα]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARAUNAH|ARAUNAH]] • [[topic JERUSALEM|JERUSALEM]] • [[topic LIBERALITY|LIBERALITY]] • [[topic ORNAN|ORNAN]] • [[topic PLAGUE|PLAGUE]] • [[topic THRESHING|THRESHING]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small>
 <small><sub>**MT:**</sub></small>
 [[2Sam.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.21|<< 2 Samuel 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.23|2 Samuel 24:23 >>]]</td></tr></table>
 
@@ -38,6 +109,6 @@ And Araunah said to David, Take it and offer,  O my master the king, to the <spa
 | oxen | **<big>[[G1016\|βοών]]</big>** |
 | \[are\] for | **<big>[[G1519\|εις]]</big>** |
 | wood. | **<big>[[G3586\|ξύλα]]</big>** |
-[[2Sam.24.22|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.21|<< 2 Samuel 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.23|2 Samuel 24:23 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.2Sam.24.21|<< 2 Samuel 24:21]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.2Sam.24.23|2 Samuel 24:23 >>]]</td></tr></table>
 
 

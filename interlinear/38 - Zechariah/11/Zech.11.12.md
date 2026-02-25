@@ -1,8 +1,68 @@
+---
+title: Zechariah 11:12
+type: Verse
+kjv: "And I said unto them, If ye think good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver."
+bsb: "Then I told them, “If it seems right to you, give me my wages; but if not, keep them.” So they weighed out my wages, thirty pieces of silver."
+hebrew: "וָאֹמַ֣ר אֲלֵיהֶ֗ם אִם־ ט֧וֹב בְּעֵינֵיכֶ֛ם הָב֥וּ שְׂכָרִ֖י וְאִם־ לֹ֣א׀ חֲדָ֑לוּ וַיִּשְׁקְל֥וּ אֶת־ שְׂכָרִ֖י שְׁלֹשִׁ֥ים כָּֽסֶף׃"
+pericope: "[[Zech.11.10 Thirty Pieces of Silver|Thirty Pieces of Silver]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 11
+book/chapter: "[[Zech.11|Zechariah 11]]"
+chronological_order: 867
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDAS (JUDE)|JUDAS (JUDE)]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+- "[[topic STAVES (LONG POLES)|STAVES (LONG POLES)]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H2895]]"
+- "[[H9003]]"
+- "[[H5869I]]"
+- "[[H9026]]"
+- "[[H3051]]"
+- "[[H7939]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H3808]]"
+- "[[H9015]]"
+- "[[H2308]]"
+- "[[H8254]]"
+- "[[H0853]]"
+- "[[H7970]]"
+- "[[H3701G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 11:12**<big><big>[[Zech.11.10 Thirty Pieces of Silver|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I said unto them, If ye think good, give [me] my price; and if not, forbear. So they weighed for my price thirty [pieces] of silver.
 <small><sub>**BSB:**</sub></small>
 Then I told them, “If it seems right to you, give me my wages; but if not, keep them.” So they weighed out my wages, thirty pieces of silver.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וָ]][[H0559\|אֹמַ֣ר]] [[H0413\|אֲלֵי]][[H9038\|הֶ֗ם]] [[H0518A\|אִם]][[H9014\|־]] [[H2895\|ט֧וֹב]] [[H9003\|בְּ]][[H5869I\|עֵינֵי]][[H9026\|כֶ֛ם]] [[H3051\|הָב֥וּ]] [[H7939\|שְׂכָרִ֖]][[H9020\|י]] [[H9002\|וְ]][[H0518A\|אִם]][[H9014\|־]] [[H3808\|לֹ֣א]][[H9015\|׀]] [[H2308\|חֲדָ֑לוּ]] [[H9001\|וַ]][[H8254\|יִּשְׁקְל֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H7939\|שְׂכָרִ֖]][[H9020\|י]] [[H7970\|שְׁלֹשִׁ֥ים]] [[H3701G\|כָּֽסֶף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDAS (JUDE)|JUDAS (JUDE)]] • [[topic MONEY|MONEY]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]] • [[topic STAVES (LONG POLES)|STAVES (LONG POLES)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.11.11|<< Zechariah 11:11]]</td><td align="center" style="border:none;">[[Zech.11|Zechariah 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.11.13|Zechariah 11:13 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

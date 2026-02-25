@@ -1,8 +1,67 @@
+---
+title: Isaiah 58:10
+type: Verse
+kjv: "And if thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness be as the noonday:"
+bsb: "and if you give yourself to the hungry and satisfy the afflicted soul, then your light will go forth in the darkness, and your night will be like noonday."
+hebrew: "וְתָפֵ֤ק לָֽרָעֵב֙ נַפְשֶׁ֔ךָ וְנֶ֥פֶשׁ נַעֲנָ֖ה תַּשְׂבִּ֑יעַ וְזָרַ֤ח בַּחֹ֙שֶׁךְ֙ אוֹרֶ֔ךָ וַאֲפֵלָתְךָ֖ כַּֽצָּהֳרָֽיִם׃"
+pericope: "[[Isa.58.1 True Fasts and Sabbaths|True Fasts and Sabbaths]]"
+original_language: Hebrew
+testament: Old
+book: Isaiah
+chapter: 58
+book/chapter: "[[Isa.58|Isaiah 58]]"
+chronological_order: 697
+era: Exile
+period: "Judah Alone: Isaiah's Later Prophecies"
+date: ~700–680 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic AFFLICTED|AFFLICTED]]"
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BENEFICENCE|BENEFICENCE]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic NEIGHBOR|NEIGHBOR]]"
+- "[[topic PHILANTHROPY|PHILANTHROPY]]"
+- "[[topic POOR|POOR]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+strongs:
+- "[[H9002]]"
+- "[[H6329]]"
+- "[[H9005]]"
+- "[[H7457]]"
+- "[[H5315I]]"
+- "[[H9021]]"
+- "[[H5315L]]"
+- "[[H6031B]]"
+- "[[H7646]]"
+- "[[H9001]]"
+- "[[H2224]]"
+- "[[H9003]]"
+- "[[H2822]]"
+- "[[H0216]]"
+- "[[H0653]]"
+- "[[H9004]]"
+- "[[H6672A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Isaiah 58:10**<big><big>[[Isa.58.1 True Fasts and Sabbaths|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And [if] thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness [be] as the noonday:
 <small><sub>**BSB:**</sub></small>
 and if you give yourself to the hungry and satisfy the afflicted soul, then your light will go forth in the darkness, and your night will be like noonday.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6329\|תָפֵ֤ק]] [[H9005\|לָֽ]][[H7457\|רָעֵב֙]] [[H5315I\|נַפְשֶׁ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H5315L\|נֶ֥פֶשׁ]] [[H6031B\|נַעֲנָ֖ה]] [[H7646\|תַּשְׂבִּ֑יעַ]] [[H9001\|וְ]][[H2224\|זָרַ֤ח]] [[H9003\|בַּ]][[H2822\|חֹ֙שֶׁךְ֙]] [[H0216\|אוֹרֶ֔]][[H9021\|ךָ]] [[H9002\|וַ]][[H0653\|אֲפֵלָתְ]][[H9021\|ךָ֖]] [[H9004\|כַּֽ]][[H6672A\|צָּהֳרָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTED|AFFLICTED]] • [[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BENEFICENCE|BENEFICENCE]] • [[topic BLESSING|BLESSING]] • [[topic NEIGHBOR|NEIGHBOR]] • [[topic PHILANTHROPY|PHILANTHROPY]] • [[topic POOR|POOR]] • [[topic RIGHTEOUS|RIGHTEOUS]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Isa.58.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Isa.58.9|<< Isaiah 58:9]]</td><td align="center" style="border:none;">[[Isa.58|Isaiah 58]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Isa.58.11|Isaiah 58:11 >>]]</td></tr></table>
 

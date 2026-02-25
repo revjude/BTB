@@ -1,8 +1,64 @@
+---
+title: 2 Kings 8:26
+type: Verse
+kjv: "Two and twenty years old was Ahaziah when he began to reign; and he reigned one year in Jerusalem. And his mother’s name was Athaliah, the daughter of Omri king of Israel."
+bsb: "Ahaziah was twenty-two years old when he became king, and he reigned in Jerusalem one year. His mother’s name was Athaliah, the granddaughter of Omri king of Israel."
+hebrew: "בֶּן־ עֶשְׂרִ֨ים וּשְׁתַּ֤יִם שָׁנָה֙ אֲחַזְיָ֣הוּ בְמָלְכ֔וֹ וְשָׁנָ֣ה אַחַ֔ת מָלַ֖ךְ בִּירוּשָׁלִָ֑ם וְשֵׁ֤ם אִמּוֹ֙ עֲתַלְיָ֔הוּ בַּת־ עָמְרִ֖י מֶ֥לֶךְ יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.8.25 Ahaziah Reigns in Judah|Ahaziah Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 8
+book/chapter: "[[2Kgs.8|2 Kings 8]]"
+chronological_order: 580
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZIAH|AHAZIAH]]"
+- "[[topic ATHALIAH|ATHALIAH]]"
+- "[[topic INFLUENCE|INFLUENCE]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+strongs:
+- "[[H1121L]]"
+- "[[H9014]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H8147]]"
+- "[[H8141]]"
+- "[[H0274H]]"
+- "[[H9003]]"
+- "[[H4427A]]"
+- "[[H9043]]"
+- "[[H0259]]"
+- "[[H3389]]"
+- "[[H8034]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H6271G]]"
+- "[[H1323G]]"
+- "[[H6018G]]"
+- "[[H4428G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 8:26**<big><big>[[2Kgs.8.25 Ahaziah Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Two and twenty years old [was] Ahaziah when he began to reign; and he reigned one year in Jerusalem. And his mother’s name [was] Athaliah, the daughter of Omri king of Israel.
 <small><sub>**BSB:**</sub></small>
 Ahaziah was twenty-two years old when he became king, and he reigned in Jerusalem one year. His mother’s name was Athaliah, the granddaughter of Omri king of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121L\|בֶּן]][[H9014\|־]] [[H6242\|עֶשְׂרִ֨ים]] [[H9002\|וּ]][[H8147\|שְׁתַּ֤יִם]] [[H8141\|שָׁנָה֙]] [[H0274H\|אֲחַזְיָ֣הוּ]] [[H9003\|בְ]][[H4427A\|מָלְכ֔]][[H9043\|וֹ]] [[H9002\|וְ]][[H8141\|שָׁנָ֣ה]] [[H0259\|אַחַ֔ת]] [[H4427A\|מָלַ֖ךְ]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָ֑ם]] [[H9002\|וְ]][[H8034\|שֵׁ֤ם]] [[H0517\|אִמּ]][[H9023\|וֹ֙]] [[H6271G\|עֲתַלְיָ֔הוּ]] [[H1323G\|בַּת]][[H9014\|־]] [[H6018G\|עָמְרִ֖י]] [[H4428G\|מֶ֥לֶךְ]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZIAH|AHAZIAH]] • [[topic ATHALIAH|ATHALIAH]] • [[topic INFLUENCE|INFLUENCE]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.8.26|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.8.25|<< 2 Kings 8:25]]</td><td align="center" style="border:none;">[[2Kgs.8|2 Kings 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.8.27|2 Kings 8:27 >>]]</td></tr></table>
 

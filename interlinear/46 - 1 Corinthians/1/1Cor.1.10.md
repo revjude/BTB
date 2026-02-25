@@ -1,10 +1,66 @@
+---
+title: 1 Corinthians 1:10
+type: Verse
+kjv: "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment."
+bsb: "I appeal to you, brothers, in the name of our Lord Jesus Christ, that all of you agree together, so that there may be no divisions among you and that you may be united in mind and conviction."
+greek: "Παρακαλῶ δὲ ὑμᾶς, ἀδελφοί, διὰ τοῦ ὀνόματος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ ἵνα τὸ αὐτὸ λέγητε πάντες καὶ μὴ ᾖ ἐν ὑμῖν σχίσματα, ἦτε δὲ κατηρτισμένοι ἐν τῷ αὐτῷ νοῒ καὶ ἐν τῇ αὐτῇ γνώμῃ.¶"
+pericope: "[[1Cor.1.10 Unity in the Church|Unity in the Church]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 1
+book/chapter: "[[1Cor.1|1 Corinthians 1]]"
+chronological_order: 1058
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic DISSENSION|DISSENSION]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic STRIFE|STRIFE]]"
+- "[[topic UNITY|UNITY]]"
+strongs:
+- "[[G3870]]"
+- "[[G1161]]"
+- "[[G4771]]"
+- "[[G0080]]"
+- "[[G1223]]"
+- "[[G3588]]"
+- "[[G3686]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G2443]]"
+- "[[G0846]]"
+- "[[G3004G]]"
+- "[[G3956]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1510]]"
+- "[[G1722]]"
+- "[[G4978]]"
+- "[[G2675]]"
+- "[[G3563]]"
+- "[[G1106]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 1:10**<big><big>[[1Cor.1.10 Unity in the Church|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and [that] there be no divisions among you; but [that] ye be perfectly joined together in the same mind and in the same judgment.
 <small><sub>**BSB:**</sub></small>
 I appeal to you, brothers, in the name of our Lord Jesus Christ, that all of you agree together, so that there may be no divisions among you and that you may be united in mind and conviction.
-<small><sub>**Literal:**</sub></small>
-I exhort now you, brothers, through the name of the Lord of us Jesus Christ that the same thing you may speak all and not there may be among you divisions, you may be however knit together in the same mind and in the same judgment.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.9|<< 1 Corinthians 1:9]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.11|1 Corinthians 1:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3870\|Παρακαλῶ]]  [[G1161\|δὲ]]  [[G4771\|ὑμᾶς,]]  [[G0080\|ἀδελφοί,]]  [[G1223\|διὰ]]  [[G3588\|τοῦ]]  [[G3686\|ὀνόματος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G2443\|ἵνα]]  [[G3588\|τὸ]]  [[G0846\|αὐτὸ]]  [[G3004G\|λέγητε]]  [[G3956\|πάντες]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G1510\|ᾖ]]  [[G1722\|ἐν]]  [[G4771\|ὑμῖν]]  [[G4978\|σχίσματα,]]  [[G1510\|ἦτε]]  [[G1161\|δὲ]]  [[G2675\|κατηρτισμένοι]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G0846\|αὐτῷ]]  [[G3563\|νοῒ]]  [[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0846\|αὐτῇ]]  [[G1106\|γνώμῃ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHURCH|CHURCH]] • [[topic DISSENSION|DISSENSION]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic STRIFE|STRIFE]] • [[topic UNITY|UNITY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.1.9|<< 1 Corinthians 1:9]]</td><td align="center" style="border:none;">[[1Cor.1|1 Corinthians 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.1.11|1 Corinthians 1:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

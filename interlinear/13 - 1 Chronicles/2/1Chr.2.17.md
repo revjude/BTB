@@ -1,8 +1,55 @@
+---
+title: 1 Chronicles 2:17
+type: Verse
+kjv: "And Abigail bare Amasa: and the father of Amasa was Jether the Ishmeelite."
+bsb: "Abigail was the mother of Amasa, whose father was Jether the Ishmaelite."
+hebrew: "וַאֲבִיגַ֕יִל יָלְדָ֖ה אֶת־ עֲמָשָׂ֑א וַאֲבִ֣י עֲמָשָׂ֔א יֶ֖תֶר הַיִּשְׁמְעֵאלִֽי׃"
+pericope: "[[1Chr.2.1 The Sons of Israel|The Sons of Israel]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 2
+book/chapter: "[[1Chr.2|1 Chronicles 2]]"
+chronological_order: 321
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–1000 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABIGAIL|ABIGAIL]]"
+- "[[topic AMASA|AMASA]]"
+- "[[topic ITHRA|ITHRA]]"
+- "[[topic JESSE|JESSE]]"
+- "[[topic JETHER|JETHER]]"
+strongs:
+- "[[H9002]]"
+- "[[H0026H]]"
+- "[[H3205]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H6021G]]"
+- "[[H0001G]]"
+- "[[H3500H]]"
+- "[[H9009]]"
+- "[[H3459]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 2:17**<big><big>[[1Chr.2.1 The Sons of Israel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Abigail bare Amasa: and the father of Amasa [was] Jether the Ishmeelite.
 <small><sub>**BSB:**</sub></small>
 Abigail was the mother of Amasa, whose father was Jether the Ishmaelite.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0026H\|אֲבִיגַ֕יִל]] [[H3205\|יָלְדָ֖ה]] [[H0853\|אֶת]][[H9014\|־]] [[H6021G\|עֲמָשָׂ֑א]] [[H9002\|וַ]][[H0001G\|אֲבִ֣י]] [[H6021G\|עֲמָשָׂ֔א]] [[H3500H\|יֶ֖תֶר]] [[H9009\|הַ]][[H3459\|יִּשְׁמְעֵאלִֽי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIGAIL|ABIGAIL]] • [[topic AMASA|AMASA]] • [[topic ITHRA|ITHRA]] • [[topic JESSE|JESSE]] • [[topic JETHER|JETHER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.2.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.2.16|<< 1 Chronicles 2:16]]</td><td align="center" style="border:none;">[[1Chr.2|1 Chronicles 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.2.18|1 Chronicles 2:18 >>]]</td></tr></table>
 

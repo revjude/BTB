@@ -1,8 +1,63 @@
+---
+title: Genesis 9:9
+type: Verse
+kjv: "And I, behold, I establish my covenant with you, and with your seed after you;"
+bsb: "“Behold, I now establish My covenant with you and your descendants after you,"
+hebrew: "וַאֲנִ֕י הִנְנִ֥י מֵקִ֛ים אֶת־ בְּרִיתִ֖י אִתְּכֶ֑ם וְאֶֽת־ זַרְעֲכֶ֖ם אַֽחֲרֵיכֶֽם׃"
+pericope: "[[Gen.9.1 The Covenant of the Rainbow|The Covenant of the Rainbow]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 9
+book/chapter: "[[Gen.9|Genesis 9]]"
+chronological_order: 9
+era: Early World
+period: "Creation and Primeval History"
+date: Before ~2166 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic ANIMALS|ANIMALS]]"
+- "[[topic BOW|BOW]]"
+- "[[topic COVENANT|COVENANT]]"
+- "[[topic NOAH|NOAH]]"
+- "[[topic RAIN|RAIN]]"
+- "[[topic RAINBOW|RAINBOW]]"
+strongs:
+- "[[H9002]]"
+- "[[H0589]]"
+- "[[H2005]]"
+- "[[H9040]]"
+- "[[H6965I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1285]]"
+- "[[H9020]]"
+- "[[H0854]]"
+- "[[H9036]]"
+- "[[H2233H]]"
+- "[[H9026]]"
+- "[[H0310A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 9:9**<big><big>[[Gen.9.1 The Covenant of the Rainbow|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I, behold, I establish my covenant with you, and with your seed after you;
 <small><sub>**BSB:**</sub></small>
 “Behold, I now establish My covenant with you and your descendants after you,
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וַ]][[H0589\|אֲנִ֕י]] [[H2005\|הִנְנִ֥]][[H9040\|י]] [[H6965I\|מֵקִ֛ים]] [[H0853\|אֶת]][[H9014\|־]] [[H1285\|בְּרִיתִ֖]][[H9020\|י]] [[H0854\|אִתְּ]][[H9036\|כֶ֑ם]] [[H9002\|וְ]][[H0854\|אֶֽת]][[H9014\|־]] [[H2233H\|זַרְעֲ]][[H9026\|כֶ֖ם]] [[H0310A\|אַֽחֲרֵי]][[H9036\|כֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANIMALS|ANIMALS]] • [[topic BOW|BOW]] • [[topic COVENANT|COVENANT]] • [[topic NOAH|NOAH]] • [[topic RAIN|RAIN]] • [[topic RAINBOW|RAINBOW]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.9.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.9.8|<< Genesis 9:8]]</td><td align="center" style="border:none;">[[Gen.9|Genesis 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.9.10|Genesis 9:10 >>]]</td></tr></table>
 

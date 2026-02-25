@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: God Renews the Promise to Abram
+type: Pericope
 pericope: "[[Gen.13.14 God Renews the Promise to Abram|God Renews the Promise to Abram]]"
-verse_count: 5
+original_language: Hebrew
 testament: Old
 book: Genesis
 chapter: 13
 book/chapter: "[[Gen.13|Genesis 13]]"
-genre:
+chronological_order: 55
+era: Patriarchal Period
+period: "The Patriarchs: Abraham"
+date: ~2166–1991 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -18,6 +24,7 @@ genre:
 - primeval narrative
 - patriarchal narrative
 - origin story
+verse_count: 5
 verses:
 - "[[Gen.13.14]]"
 - "[[Gen.13.15]]"
@@ -26,7 +33,7 @@ verses:
 - "[[Gen.13.18]]"
 ---
 
-[[Gen.13|Genesis 13:14 - Genesis 13:18]]
+<small>[[Gen.13|Genesis 13:14-18]]</small>
 *God Renews the Promise to Abram*
 
 [[Gen.13.14|14]] And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:

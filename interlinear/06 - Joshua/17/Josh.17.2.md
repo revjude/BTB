@@ -1,8 +1,67 @@
+---
+title: Joshua 17:2
+type: Verse
+kjv: "There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph by their families."
+bsb: "So this allotment was for the rest of the descendants of Manasseh—the clans of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These are the other male descendants of the clans of Manasseh son of Joseph."
+hebrew: "וַ֠יְהִי לִבְנֵ֨י מְנַשֶּׁ֥ה הַנּוֹתָרִים֮ לְמִשְׁפְּחֹתָם֒ לִבְנֵ֨י אֲבִיעֶ֜זֶר וְלִבְנֵי־ חֵ֗לֶק וְלִבְנֵ֤י אַשְׂרִיאֵל֙ וְלִבְנֵי־ שֶׁ֔כֶם וְלִבְנֵי־ חֵ֖פֶר וְלִבְנֵ֣י שְׁמִידָ֑ע אֵ֠לֶּה בְּנֵ֨י מְנַשֶּׁ֧ה בֶּן־ יוֹסֵ֛ף הַזְּכָרִ֖ים לְמִשְׁפְּחֹתָֽם׃"
+pericope: "[[Josh.17.1 Manasseh’s Western Inheritance|Manasseh’s Western Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 17
+book/chapter: "[[Josh.17|Joshua 17]]"
+chronological_order: 247
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ABIEZER|ABIEZER]]"
+- "[[topic ASRIEL|ASRIEL]]"
+- "[[topic HELEK|HELEK]]"
+- "[[topic HEPHER|HEPHER]]"
+- "[[topic SHECHEM|SHECHEM]]"
+- "[[topic SHEMIDA|SHEMIDA]]"
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H9005]]"
+- "[[H1121G]]"
+- "[[H4519G]]"
+- "[[H9009]]"
+- "[[H3498]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H0044I]]"
+- "[[H9002]]"
+- "[[H9014]]"
+- "[[H2507]]"
+- "[[H0844G]]"
+- "[[H7928G]]"
+- "[[H2660A]]"
+- "[[H8061]]"
+- "[[H0428]]"
+- "[[H1121A]]"
+- "[[H3130G]]"
+- "[[H2145]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 17:2**<big><big>[[Josh.17.1 Manasseh’s Western Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 There was also [a lot] for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these [were] the male children of Manasseh the son of Joseph by their families.
 <small><sub>**BSB:**</sub></small>
 So this allotment was for the rest of the descendants of Manasseh—the clans of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These are the other male descendants of the clans of Manasseh son of Joseph.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ֠]][[H1961\|יְהִי]] [[H9005\|לִ]][[H1121G\|בְנֵ֨י]] [[H4519G\|מְנַשֶּׁ֥ה]] [[H9009\|הַ]][[H3498\|נּוֹתָרִים֮]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָ]][[H9028\|ם֒]] [[H9005\|לִ]][[H1121G\|בְנֵ֨י]] [[H0044I\|אֲבִיעֶ֜זֶר]] [[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H2507\|חֵ֗לֶק]] [[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵ֤י]] [[H0844G\|אַשְׂרִיאֵל֙]] [[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H7928G\|שֶׁ֔כֶם]] [[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵי]][[H9014\|־]] [[H2660A\|חֵ֖פֶר]] [[H9002\|וְ]][[H9005\|לִ]][[H1121G\|בְנֵ֣י]] [[H8061\|שְׁמִידָ֑ע]] [[H0428\|אֵ֠לֶּה]] [[H1121G\|בְּנֵ֨י]] [[H4519G\|מְנַשֶּׁ֧ה]] [[H1121A\|בֶּן]][[H9014\|־]] [[H3130G\|יוֹסֵ֛ף]] [[H9009\|הַ]][[H2145\|זְּכָרִ֖ים]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIEZER|ABIEZER]] • [[topic ASRIEL|ASRIEL]] • [[topic HELEK|HELEK]] • [[topic HEPHER|HEPHER]] • [[topic SHECHEM|SHECHEM]] • [[topic SHEMIDA|SHEMIDA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.17.2|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.17.1|<< Joshua 17:1]]</td><td align="center" style="border:none;">[[Josh.17|Joshua 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.17.3|Joshua 17:3 >>]]</td></tr></table>
 

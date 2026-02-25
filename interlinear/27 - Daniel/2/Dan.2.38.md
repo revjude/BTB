@@ -1,8 +1,71 @@
+---
+title: Daniel 2:38
+type: Verse
+kjv: "And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou art this head of gold."
+bsb: "Wherever the sons of men or beasts of the field or birds of the air dwell, He has given them into your hand and has made you ruler over them all. You are that head of gold."
+aramaic: "וּבְכָל־ דִּ֣י דָֽיְרִ֣ין בְּֽנֵי־ אֲ֠נָשָׁא חֵיוַ֨ת בָּרָ֤א וְעוֹף־ שְׁמַיָּא֙ יְהַ֣ב בִּידָ֔ךְ וְהַשְׁלְטָ֖ךְ בְּכָלְּה֑וֹן אַנְתְּ ה֔וּא רֵאשָׁ֖ה דִּ֥י דַהֲבָֽא׃"
+pericope: "[[Dan.2.24 Daniel Interprets the Dream|Daniel Interprets the Dream]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 2
+book/chapter: "[[Dan.2|Daniel 2]]"
+chronological_order: 787
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic BABYLON|BABYLON]]"
+- "[[topic BIRDS|BIRDS]]"
+- "[[topic CLAY|CLAY]]"
+- "[[topic GOLD|GOLD]]"
+- "[[topic MAN|MAN]]"
+- "[[topic PERSIA|PERSIA]]"
+strongs:
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H1768]]"
+- "[[H1753]]"
+- "[[H1247]]"
+- "[[H0606]]"
+- "[[H9010]]"
+- "[[H2423]]"
+- "[[H1251]]"
+- "[[H5776]]"
+- "[[H8065]]"
+- "[[H3052]]"
+- "[[H3028]]"
+- "[[H9021]]"
+- "[[H7981]]"
+- "[[H9031]]"
+- "[[H9028]]"
+- "[[H0607]]"
+- "[[H1932]]"
+- "[[H7217]]"
+- "[[H1722]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Daniel 2:38**<big><big>[[Dan.2.24 Daniel Interprets the Dream|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou [art] this head of gold.
 <small><sub>**BSB:**</sub></small>
 Wherever the sons of men or beasts of the field or birds of the air dwell, He has given them into your hand and has made you ruler over them all. You are that head of gold.
+<small><sub>**Aramaic:**</sub></small>
+[[H9002\|וּ]][[H9003\|בְ]][[H3606\|כָל]][[H9014\|־]] [[H1768\|דִּ֣י]] [[H1753\|דָֽיְרִ֣ין]] [[H1247\|בְּֽנֵי]][[H9014\|־]] [[H0606\|אֲ֠נָשָׁ]][[H9010\|א]] [[H2423\|חֵיוַ֨ת]] [[H1251\|בָּרָ֤]][[H9010\|א]] [[H9002\|וְ]][[H5776\|עוֹף]][[H9014\|־]] [[H8065\|שְׁמַיָּ]][[H9010\|א֙]] [[H3052\|יְהַ֣ב]] [[H9003\|בִּ]][[H3028\|ידָ֔]][[H9021\|ךְ]] [[H9002\|וְ]][[H7981\|הַשְׁלְטָ֖]][[H9031\|ךְ]] [[H9003\|בְּ]][[H3606\|כָלְּ]][[H9028\|ה֑וֹן]] [[H0607\|אַנְתְּ]] [[H1932\|ה֔וּא]] [[H7217\|רֵאשָׁ֖]][[H9010\|ה]] [[H1768\|דִּ֥י]] [[H1722\|דַהֲבָֽ]][[H9010\|א]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABYLON|BABYLON]] • [[topic BIRDS|BIRDS]] • [[topic CLAY|CLAY]] • [[topic GOLD|GOLD]] • [[topic MAN|MAN]] • [[topic PERSIA|PERSIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.2.38|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.2.37|<< Daniel 2:37]]</td><td align="center" style="border:none;">[[Dan.2|Daniel 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.2.39|Daniel 2:39 >>]]</td></tr></table>
 
@@ -30,6 +93,6 @@ Wherever the sons of men or beasts of the field or birds of the air dwell, He ha
 
 [^1]: L spelled: **<span class="asaramaic"><big>דָֽאְרִ֣ין</big></span>**
 [^2]: K spelled: **<span class="asaramaic"><big>דָאֲרִין</big></span>**
-[^3]: you  | **<big>[[H9014|־]]</big><big>[[H0607|אַנְתָּה]]</big> ** | 'an.tah-<small><sup>[[APp2ms]]</sup></small> | K
+[^3]: you  | **<big>[[H0607|אַנְתָּה]]</big><big>[[H9014|־]]</big> ** | 'an.tah-<small><sup>[[APp2ms]]</sup></small> | K
 [^4]: L spelled: **<span class="asaramaic"><big>אַנְתְּה\־</big></span>**
 

@@ -1,10 +1,54 @@
+---
+title: John 2:18
+type: Verse
+kjv: "Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?"
+bsb: "On account of this, the Jews demanded, “What sign can You show us to prove Your authority to do these things?”"
+greek: "ἀπεκρίθησαν οὖν οἱ Ἰουδαῖοι καὶ εἶπαν αὐτῷ· τί σημεῖον δεικνύεις ἡμῖν ὅτι ταῦτα ποιεῖς;¶"
+pericope: "[[John.2.12 Jesus Cleanses the Temple|Jesus Cleanses the Temple]]"
+original_language: Greek
+testament: New
+book: John
+chapter: 2
+book/chapter: "[[John.2|John 2]]"
+chronological_order: 940
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- narrative
+- biographical
+- theological discourse
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G0611]]"
+- "[[G3767]]"
+- "[[G3588]]"
+- "[[G2453]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G4592]]"
+- "[[G1166]]"
+- "[[G3165]]"
+- "[[G3754G]]"
+- "[[G3778]]"
+- "[[G4160G]]"
+texts:
+- NKO
+---
+
 **John 2:18**<big><big>[[John.2.12 Jesus Cleanses the Temple|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?
 <small><sub>**BSB:**</sub></small>
 On account of this, the Jews demanded, “What sign can You show us to prove Your authority to do these things?”
-<small><sub>**Literal:**</sub></small>
-Answered therefore the Jews and said to Him; What sign show You to us that these things You do?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.17|<< John 2:17]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.19|John 2:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G0611\|ἀπεκρίθησαν]]  [[G3767\|οὖν]]  [[G3588\|οἱ]]  [[G2453\|Ἰουδαῖοι]]  [[G2532\|καὶ]]  [[G2036\|εἶπαν]]  [[G0846\|αὐτῷ·]]  [[G5101\|τί]]  [[G4592\|σημεῖον]]  [[G1166\|δεικνύεις]]  [[G3165\|ἡμῖν]]  [[G3754G\|ὅτι]]  [[G3778\|ταῦτα]]  [[G4160G\|ποιεῖς;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[John.2.17|<< John 2:17]]</td><td align="center" style="border:none;">[[John.2|John 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[John.2.19|John 2:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,61 @@
+---
+title: Matthew 26:10
+type: Verse
+kjv: "When Jesus understood it, he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me."
+bsb: "Aware of this, Jesus asked, “Why are you bothering this woman? She has done a beautiful deed to Me."
+jesus_said: "Why trouble ye the woman? for she hath wrought a good work upon me."
+greek: "γνοὺς δὲ ὁ Ἰησοῦς εἶπεν αὐτοῖς· τί κόπους παρέχετε τῇ γυναικί; ἔργον γὰρ καλὸν ἠργάσατο εἰς ἐμέ."
+pericope: "[[Matt.26.6 Jesus Anointed at Bethany|Jesus Anointed at Bethany]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic BETHANY|BETHANY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOVE|LOVE]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G1097]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G5101]]"
+- "[[G2873]]"
+- "[[G3930]]"
+- "[[G1135G]]"
+- "[[G2041]]"
+- "[[G1063]]"
+- "[[G2570G]]"
+- "[[G2038]]"
+- "[[G1519]]"
+- "[[G1473]]"
+texts:
+- NKO
+---
+
 **Matthew 26:10**<big><big>[[Matt.26.6 Jesus Anointed at Bethany|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 When Jesus understood [it], he said unto them, Why trouble ye the woman? for she hath wrought a good work upon me.
 <small><sub>**BSB:**</sub></small>
 Aware of this, Jesus asked, “Why are you bothering this woman? She has done a beautiful deed to Me.
-<small><sub>**Literal:**</sub></small>
-Having known [this] now <the> Jesus said to them; Why trouble do you cause to the woman? A work for beautiful she did to Me myself.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.9|<< Matthew 26:9]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.11|Matthew 26:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1097\|γνοὺς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G5101\|τί]]  [[G2873\|κόπους]]  [[G3930\|παρέχετε]]  [[G3588\|τῇ]]  [[G1135G\|γυναικί;]]  [[G2041\|ἔργον]]  [[G1063\|γὰρ]]  [[G2570G\|καλὸν]]  [[G2038\|ἠργάσατο]]  [[G1519\|εἰς]]  [[G1473\|ἐμέ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic BETHANY|BETHANY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOVE|LOVE]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.9|<< Matthew 26:9]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.11|Matthew 26:11 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,59 @@
+---
+title: Matthew 18:4
+type: Verse
+kjv: "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."
+bsb: "Therefore, whoever humbles himself like this little child is the greatest in the kingdom of heaven."
+jesus_said: "Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven."
+greek: "ὅστις οὖν ταπεινώσει ἑαυτὸν ὡς τὸ παιδίον τοῦτο, οὗτός ἐστιν ὁ μείζων ἐν τῇ βασιλείᾳ τῶν οὐρανῶν."
+pericope: "[[Matt.18.1 The Greatest in the Kingdom|The Greatest in the Kingdom]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 18
+book/chapter: "[[Matt.18|Matthew 18]]"
+chronological_order: 968
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BABES|BABES]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic WORLDLINESS|WORLDLINESS]]"
+strongs:
+- "[[G3748]]"
+- "[[G3767]]"
+- "[[G5013]]"
+- "[[G1438]]"
+- "[[G5613]]"
+- "[[G3588]]"
+- "[[G3813]]"
+- "[[G3778]]"
+- "[[G1510]]"
+- "[[G3173]]"
+- "[[G1722]]"
+- "[[G0932]]"
+- "[[G3772]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Matthew 18:4**<big><big>[[Matt.18.1 The Greatest in the Kingdom|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whosoever therefore shall humble himself as this little child, the same is greatest in the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 Therefore, whoever humbles himself like this little child is the greatest in the kingdom of heaven.
-<small><sub>**Literal:**</sub></small>
-Whoever therefore will humble himself as <the> little child this, he is the greater in the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.3|<< Matthew 18:3]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.5|Matthew 18:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3748\|ὅστις]]  [[G3767\|οὖν]]  [[G5013\|ταπεινώσει]]  [[G1438\|ἑαυτὸν]]  [[G5613\|ὡς]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G3778\|τοῦτο,]]  [[G3778\|οὗτός]]  [[G1510\|ἐστιν]]  [[G3588\|ὁ]]  [[G3173\|μείζων]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G0932\|βασιλείᾳ]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BABES|BABES]] • [[topic CHILDREN|CHILDREN]] • [[topic HUMILITY|HUMILITY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic WORLDLINESS|WORLDLINESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.18.3|<< Matthew 18:3]]</td><td align="center" style="border:none;">[[Matt.18|Matthew 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.18.5|Matthew 18:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

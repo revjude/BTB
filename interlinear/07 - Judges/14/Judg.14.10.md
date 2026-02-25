@@ -1,8 +1,58 @@
+---
+title: Judges 14:10
+type: Verse
+kjv: "So his father went down unto the woman: and Samson made there a feast; for so used the young men to do."
+bsb: "Then his father went to visit the woman, and Samson prepared a feast there, as was customary for the bridegroom."
+hebrew: "וַיֵּ֥רֶד אָבִ֖יהוּ אֶל־ הָאִשָּׁ֑ה וַיַּ֨עַשׂ שָׁ֤ם שִׁמְשׁוֹן֙ מִשְׁתֶּ֔ה כִּ֛י כֵּ֥ן יַעֲשׂ֖וּ הַבַּחוּרִֽים׃"
+pericope: "[[Judg.14.8 Samson’s Riddle|Samson’s Riddle]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 14
+book/chapter: "[[Judg.14|Judges 14]]"
+chronological_order: 268
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic SAMSON|SAMSON]]"
+strongs:
+- "[[H9001]]"
+- "[[H3381]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H0802G]]"
+- "[[H6213H]]"
+- "[[H8033G]]"
+- "[[H8123]]"
+- "[[H4960]]"
+- "[[H3588A]]"
+- "[[H3651C]]"
+- "[[H6213A]]"
+- "[[H0970]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 14:10**<big><big>[[Judg.14.8 Samson’s Riddle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So his father went down unto the woman: and Samson made there a feast; for so used the young men to do.
 <small><sub>**BSB:**</sub></small>
 Then his father went to visit the woman, and Samson prepared a feast there, as was customary for the bridegroom.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3381\|יֵּ֥רֶד]] [[H0001G\|אָבִ֖י]][[H9023\|הוּ]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0802G\|אִשָּׁ֑ה]] [[H9001\|וַ]][[H6213H\|יַּ֨עַשׂ]] [[H8033G\|שָׁ֤ם]] [[H8123\|שִׁמְשׁוֹן֙]] [[H4960\|מִשְׁתֶּ֔ה]] [[H3588A\|כִּ֛י]] [[H3651C\|כֵּ֥ן]] [[H6213A\|יַעֲשׂ֖וּ]] [[H9009\|הַ]][[H0970\|בַּחוּרִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic SAMSON|SAMSON]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.14.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.14.9|<< Judges 14:9]]</td><td align="center" style="border:none;">[[Judg.14|Judges 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.14.11|Judges 14:11 >>]]</td></tr></table>
 

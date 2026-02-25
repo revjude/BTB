@@ -1,8 +1,53 @@
+---
+title: Proverbs 18:10
+type: Verse
+kjv: "The name of the LORD is a strong tower: the righteous runneth into it, and is safe."
+bsb: "The name of the LORD is a strong tower; the righteous run to it and are safe."
+hebrew: "מִגְדַּל־ עֹ֭ז שֵׁ֣ם יְהוָ֑ה בּֽוֹ־ יָר֖וּץ צַדִּ֣יק וְנִשְׂגָּֽב׃"
+pericope: "[[Prov.18.1 The Selfishness of the Unfriendly|The Selfishness of the Unfriendly]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 18
+book/chapter: "[[Prov.18|Proverbs 18]]"
+chronological_order: 473
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic FORT|FORT]]"
+- "[[topic TOWER|TOWER]]"
+strongs:
+- "[[H4026M]]"
+- "[[H9014]]"
+- "[[H5797]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H9003]]"
+- "[[H9033]]"
+- "[[H7323G]]"
+- "[[H6662]]"
+- "[[H9001]]"
+- "[[H7682]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 18:10**<big><big>[[Prov.18.1 The Selfishness of the Unfriendly|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The name of the LORD [is] a strong tower: the righteous runneth into it, and is safe.
 <small><sub>**BSB:**</sub></small>
 The name of the LORD is a strong tower; the righteous run to it and are safe.
+<small><sub>**Hebrew:**</sub></small>
+[[H4026M\|מִגְדַּל]][[H9014\|־]] [[H5797\|עֹ֭ז]] [[H8034\|שֵׁ֣ם]] [[H3068G\|יְהוָ֑ה]] [[H9003\|בּֽ]][[H9033\|וֹ]][[H9014\|־]] [[H7323G\|יָר֖וּץ]] [[H6662\|צַדִּ֣יק]] [[H9001\|וְ]][[H7682\|נִשְׂגָּֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FORT|FORT]] • [[topic TOWER|TOWER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.18.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.18.9|<< Proverbs 18:9]]</td><td align="center" style="border:none;">[[Prov.18|Proverbs 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.18.11|Proverbs 18:11 >>]]</td></tr></table>
 

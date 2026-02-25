@@ -1,10 +1,67 @@
+---
+title: Matthew 27:64
+type: Verse
+kjv: "Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first."
+bsb: "So give the order that the tomb be secured until the third day. Otherwise, His disciples may come and steal Him away and tell the people He has risen from the dead. And this last deception would be worse than the first.”"
+greek: "κέλευσον οὖν ἀσφαλισθῆναι τὸν τάφον ἕως τῆς τρίτης ἡμέρας, μήποτε μήποτε ἐλθόντες οἱ μαθηταὶ αὐτοῦ νυκτὸς κλέψωσιν αὐτὸν καὶ εἴπωσιν τῷ λαῷ· ἠγέρθη ἀπὸ τῶν νεκρῶν. καὶ ἔσται ἡ ἐσχάτη πλάνη χείρων τῆς πρώτης.¶"
+pericope: "[[Matt.27.62 The Guards at the Tomb|The Guards at the Tomb]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 27
+book/chapter: "[[Matt.27|Matthew 27]]"
+chronological_order: 1010
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+strongs:
+- "[[G2753]]"
+- "[[G3767]]"
+- "[[G0805]]"
+- "[[G3588]]"
+- "[[G5028]]"
+- "[[G2193]]"
+- "[[G5154]]"
+- "[[G2250]]"
+- "[[G3361]]"
+- "[[G4218]]"
+- "[[G2064]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G3571]]"
+- "[[G2813]]"
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G2992]]"
+- "[[G1453]]"
+- "[[G0575]]"
+- "[[G3498]]"
+- "[[G1510]]"
+- "[[G2078]]"
+- "[[G4106]]"
+- "[[G5501]]"
+- "[[G4413G]]"
+texts:
+- NKO
+- K
+---
+
 **Matthew 27:64**<big><big>[[Matt.27.62 The Guards at the Tomb|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Command therefore that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.
 <small><sub>**BSB:**</sub></small>
 So give the order that the tomb be secured until the third day. Otherwise, His disciples may come and steal Him away and tell the people He has risen from the dead. And this last deception would be worse than the first.”
-<small><sub>**Literal:**</sub></small>
-do command therefore to be secured the tomb until the third day, otherwise having come the disciples of Him night may steal away him and they may say to the people; He is risen from the dead. And will be the last deception worse than the first.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.63|<< Matthew 27:63]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.65|Matthew 27:65 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2753\|κέλευσον]]  [[G3767\|οὖν]]  [[G0805\|ἀσφαλισθῆναι]]  [[G3588\|τὸν]]  [[G5028\|τάφον]]  [[G2193\|ἕως]]  [[G3588\|τῆς]]  [[G5154\|τρίτης]]  [[G2250\|ἡμέρας,]]  [[G3361\|μήποτε]]  <sup><small>[[G4218\| [ • ] ]]</small></sup>  [[G2064\|ἐλθόντες]]  [[G3588\|οἱ]]  [[G3101\|μαθηταὶ]]  [[G0846\|αὐτοῦ]]  [[G3571\|νυκτὸς]]  [[G2813\|κλέψωσιν]]  [[G0846\|αὐτὸν]]  [[G2532\|καὶ]]  [[G2036\|εἴπωσιν]]  [[G3588\|τῷ]]  [[G2992\|λαῷ·]]  [[G1453\|ἠγέρθη]]  [[G0575\|ἀπὸ]]  [[G3588\|τῶν]]  [[G3498\|νεκρῶν.]]  [[G2532\|καὶ]]  [[G1510\|ἔσται]]  [[G3588\|ἡ]]  [[G2078\|ἐσχάτη]]  [[G4106\|πλάνη]]  [[G5501\|χείρων]]  [[G3588\|τῆς]]  [[G4413G\|πρώτης.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.27.63|<< Matthew 27:63]]</td><td align="center" style="border:none;">[[Matt.27|Matthew 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.27.65|Matthew 27:65 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

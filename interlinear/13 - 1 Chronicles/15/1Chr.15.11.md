@@ -1,8 +1,64 @@
+---
+title: 1 Chronicles 15:11
+type: Verse
+kjv: "And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,"
+bsb: "David summoned the priests Zadok and Abiathar and the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab."
+hebrew: "וַיִּקְרָ֣א דָוִ֔יד לְצָד֥וֹק וּלְאֶבְיָתָ֖ר הַכֹּֽהֲנִ֑ים וְלַלְוִיִּ֗ם לְאֽוּרִיאֵ֤ל עֲשָׂיָה֙ וְיוֹאֵ֣ל שְׁמַֽעְיָ֔ה וֶאֱלִיאֵ֖ל וְעַמִּינָדָֽב׃"
+pericope: "[[1Chr.15.1 Preparing to Move the Ark|Preparing to Move the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 15
+book/chapter: "[[1Chr.15|1 Chronicles 15]]"
+chronological_order: 396
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ABIATHAR|ABIATHAR]]"
+- "[[topic AMMINADAB|AMMINADAB]]"
+- "[[topic ASAIAH|ASAIAH]]"
+- "[[topic ELIEL|ELIEL]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic SHEMAIAH|SHEMAIAH]]"
+- "[[topic URIEL|URIEL]]"
+- "[[topic ZADOK|ZADOK]]"
+strongs:
+- "[[H9001]]"
+- "[[H7121G]]"
+- "[[H1732]]"
+- "[[H9005]]"
+- "[[H6659G]]"
+- "[[H9002]]"
+- "[[H0054]]"
+- "[[H9009]]"
+- "[[H3548]]"
+- "[[H3881]]"
+- "[[H0222H]]"
+- "[[H6222K]]"
+- "[[H3100N]]"
+- "[[H8098G]]"
+- "[[H0447M]]"
+- "[[H5992H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 15:11**<big><big>[[1Chr.15.1 Preparing to Move the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,
 <small><sub>**BSB:**</sub></small>
 David summoned the priests Zadok and Abiathar and the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7121G\|יִּקְרָ֣א]] [[H1732\|דָוִ֔יד]] [[H9005\|לְ]][[H6659G\|צָד֥וֹק]] [[H9002\|וּ]][[H9005\|לְ]][[H0054\|אֶבְיָתָ֖ר]] [[H9009\|הַ]][[H3548\|כֹּֽהֲנִ֑ים]] [[H9002\|וְ]][[H9005\|לַ]][[H3881\|לְוִיִּ֗ם]] [[H9005\|לְ]][[H0222H\|אֽוּרִיאֵ֤ל]] [[H6222K\|עֲשָׂיָה֙]] [[H9002\|וְ]][[H3100N\|יוֹאֵ֣ל]] [[H8098G\|שְׁמַֽעְיָ֔ה]] [[H9002\|וֶ]][[H0447M\|אֱלִיאֵ֖ל]] [[H9002\|וְ]][[H5992H\|עַמִּינָדָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABIATHAR|ABIATHAR]] • [[topic AMMINADAB|AMMINADAB]] • [[topic ASAIAH|ASAIAH]] • [[topic ELIEL|ELIEL]] • [[topic JOEL|JOEL]] • [[topic SHEMAIAH|SHEMAIAH]] • [[topic URIEL|URIEL]] • [[topic ZADOK|ZADOK]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.15.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.15.10|<< 1 Chronicles 15:10]]</td><td align="center" style="border:none;">[[1Chr.15|1 Chronicles 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.15.12|1 Chronicles 15:12 >>]]</td></tr></table>
 

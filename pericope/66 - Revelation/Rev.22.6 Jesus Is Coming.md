@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus Is Coming
+type: Pericope
 pericope: "[[Rev.22.6 Jesus Is Coming|Jesus Is Coming]]"
-verse_count: 12
+original_language: Greek
 testament: New
 book: Revelation
 chapter: 22
 book/chapter: "[[Rev.22|Revelation 22]]"
-genre:
+chronological_order: 1189
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
 - apocalyptic
 - visionary
 - prophetic oracle
 - epistle
 - liturgical
+verse_count: 12
 verses:
 - "[[Rev.22.6]]"
 - "[[Rev.22.7]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Rev.22.17]]"
 ---
 
-[[Rev.22|Revelation 22:6 - Revelation 22:17]]
+<small>[[Rev.22|Revelation 22:6-17]]</small>
 *Jesus Is Coming*
 
 [[Rev.22.6|6]] And he said unto me, These sayings \[are\] faithful and true: and the Lord God of the holy prophets sent his angel to shew unto his servants the things which must shortly be done.

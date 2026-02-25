@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Obey the King
+type: Pericope
 pericope: "[[Eccl.8.1 Obey the King|Obey the King]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: Ecclesiastes
 chapter: 8
 book/chapter: "[[Eccl.8|Ecclesiastes 8]]"
-genre:
+chronological_order: 546
+era: United Kingdom
+period: "Solomon: Later Reign and Ecclesiastes"
+date: ~940–930 BC
+book_genre:
 - wisdom literature
 - poetry
 - philosophical
 - megillot
+verse_count: 9
 verses:
 - "[[Eccl.8.1]]"
 - "[[Eccl.8.2]]"
@@ -27,7 +34,7 @@ verses:
 - "[[Eccl.8.9]]"
 ---
 
-[[Eccl.8|Ecclesiastes 8:1 - Ecclesiastes 8:9]]
+<small>[[Eccl.8|Ecclesiastes 8:1-9]]</small>
 *Obey the King*
 
 [[Eccl.8.1|1]] Who \[is\] as the wise \[man\]? and who knoweth the interpretation of a thing? a man’s wisdom maketh his face to shine, and the boldness of his face shall be changed.

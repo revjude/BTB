@@ -1,6 +1,96 @@
+---
+title: LXX 1 Kings 13:4
+type: Verse
+lxx: "And it came to pass as king Jeroboam heard the words of the man  of God. of the one calling upon the altar  in Beth-el, that he stretched out  his hand from the altar, saying, Seize him! And his hand withered which he stretched out against him, and he was not able to return it to himself."
+greek: "και εγένετο ως ήκουσεν ο βασιλεύς Ιεροβοάμ των λόγων του ανθρώπου του θεού του επικαλεσαμένου επί το θυσιαστήριον το εν Βαιθήλ και εξέτεινεν την χείρα αυτού από του θυσιαστηρίου λέγων συλλάβετε αυτόν και εξηράνθη η χειρ αυτού ην εξέτεινεν επ΄ αυτόν και ουκ ηδυνήθη επιστρέψαι αυτήν προς αυτόν"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 13
+book/chapter: "[[1Kgs.13|1 Kings 13]]"
+chronological_order: 552
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–874 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BETH-EL|BETH-EL]]"
+- "[[topic CALF|CALF]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic INTERCESSION|INTERCESSION]]"
+- "[[topic JEROBOAM|JEROBOAM]]"
+- "[[topic JUDGMENTS|JUDGMENTS]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRESUMPTION|PRESUMPTION]]"
+- "[[topic REPROOF|REPROOF]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SIGN|SIGN]]"
+strongs:
+- "[[G2532]]"
+- "[[G1096]]"
+- "[[G5613]]"
+- "[[G0191]]"
+- "[[G3588]]"
+- "[[G0935]]"
+- "[[H3379]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G3588]]"
+- "[[G0444]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G3588]]"
+- "[[G1941]]"
+- "[[G1909]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[H1008]]"
+- "[[G2532]]"
+- "[[G1614]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G0575]]"
+- "[[G3588]]"
+- "[[G2379]]"
+- "[[G3004]]"
+- "[[G4815]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3583]]"
+- "[[G3588]]"
+- "[[G5495]]"
+- "[[G1473]]"
+- "[[G3739]]"
+- "[[G1614]]"
+- "[[G1909]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G1410]]"
+- "[[G1994]]"
+- "[[G1473]]"
+- "[[G4314]]"
+- "[[G1473]]"
+---
+
 **LXX 1 Kings 13:4** 
 <small><sub>**LXX:**</sub></small>
 And it came to pass as king Jeroboam heard the words of the man  of God. of the one calling upon the altar  in Beth-el, that he stretched out  his hand from the altar, saying, Seize him! And his hand withered which he stretched out against him, and he was not able to return it to himself. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1096\|εγένετο]] [[G5613\|ως]] [[G0191\|ήκουσεν]] [[G3588\|ο]] [[G0935\|βασιλεύς]] [[H3379\|Ιεροβοάμ]] [[G3588\|των]] [[G3056\|λόγων]] [[G3588\|του]] [[G0444\|ανθρώπου]] [[G3588\|του]] [[G2316\|θεού]] [[G3588\|του]] [[G1941\|επικαλεσαμένου]] [[G1909\|επί]] [[G3588\|το]] [[G2379\|θυσιαστήριον]] [[G3588\|το]] [[G1722\|εν]] [[H1008\|Βαιθήλ]] [[G2532\|και]] [[G1614\|εξέτεινεν]] [[G3588\|την]] [[G5495\|χείρα]] [[G1473\|αυτού]] [[G0575\|από]] [[G3588\|του]] [[G2379\|θυσιαστηρίου]] [[G3004\|λέγων]] [[G4815\|συλλάβετε]] [[G1473\|αυτόν]] [[G2532\|και]] [[G3583\|εξηράνθη]] [[G3588\|η]] [[G5495\|χειρ]] [[G1473\|αυτού]] [[G3739\|ην]] [[G1614\|εξέτεινεν]] [[G1909\|επ΄]] [[G1473\|αυτόν]] [[G2532\|και]] [[G3756\|ουκ]] [[G1410\|ηδυνήθη]] [[G1994\|επιστρέψαι]] [[G1473\|αυτήν]] [[G4314\|προς]] [[G1473\|αυτόν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BETH-EL|BETH-EL]] • [[topic CALF|CALF]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic INTERCESSION|INTERCESSION]] • [[topic JEROBOAM|JEROBOAM]] • [[topic JUDGMENTS|JUDGMENTS]] • [[topic MIRACLES|MIRACLES]] • [[topic PRESUMPTION|PRESUMPTION]] • [[topic REPROOF|REPROOF]] • [[topic RULERS|RULERS]] • [[topic SIGN|SIGN]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.3|<< 1 Kings 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.5|1 Kings 13:5 >>]]</td></tr></table>
 
@@ -52,6 +142,6 @@ And it came to pass as king Jeroboam heard the words of the man  of God. of the 
 | it | **<big>[[G1473\|αυτήν]]</big>** |
 | to | **<big>[[G4314\|προς]]</big>** |
 | himself. | **<big>[[G1473\|αυτόν]]</big>** |
-[[1Kgs.13.4|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.3|<< 1 Kings 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.5|1 Kings 13:5 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.13.3|<< 1 Kings 13:3]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.13.5|1 Kings 13:5 >>]]</td></tr></table>
 
 

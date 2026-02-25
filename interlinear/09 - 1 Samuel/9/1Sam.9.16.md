@@ -1,8 +1,79 @@
+---
+title: 1 Samuel 9:16
+type: Verse
+kjv: "To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him to be captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me."
+bsb: "“At this time tomorrow I will send you a man from the land of Benjamin, and you are to anoint him ruler over My people Israel; he will save them from the hand of the Philistines. For I have looked upon My people, because their cry has come to Me.”"
+hebrew: "כָּעֵ֣ת׀ מָחָ֡ר אֶשְׁלַח֩ אֵלֶ֨יךָ אִ֜ישׁ מֵאֶ֣רֶץ בִּנְיָמִ֗ן וּמְשַׁחְתּ֤וֹ לְנָגִיד֙ עַל־ עַמִּ֣י יִשְׂרָאֵ֔ל וְהוֹשִׁ֥יעַ אֶת־ עַמִּ֖י מִיַּ֣ד פְּלִשְׁתִּ֑ים כִּ֤י רָאִ֙יתִי֙ אֶת־ עַמִּ֔י כִּ֛י בָּ֥אָה צַעֲקָת֖וֹ אֵלָֽי׃"
+pericope: "[[1Sam.9.1 Saul Chosen as King|Saul Chosen as King]]"
+original_language: Hebrew
+testament: Old
+book: 1 Samuel
+chapter: 9
+book/chapter: "[[1Sam.9|1 Samuel 9]]"
+chronological_order: 288
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic CAPTAIN|CAPTAIN]]"
+- "[[topic GOD|GOD]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic KING|KING]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PHILISTINES|PHILISTINES]]"
+- "[[topic PROPHETS|PROPHETS]]"
+strongs:
+- "[[H9004]]"
+- "[[H6256]]"
+- "[[H9015]]"
+- "[[H4279]]"
+- "[[H7971G]]"
+- "[[H0413]]"
+- "[[H9031]]"
+- "[[H0376G]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H1144G]]"
+- "[[H9001]]"
+- "[[H4886]]"
+- "[[H9033]]"
+- "[[H9005]]"
+- "[[H5057]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5971A]]"
+- "[[H9020]]"
+- "[[H3478]]"
+- "[[H3467]]"
+- "[[H0853]]"
+- "[[H3027H]]"
+- "[[H6430G]]"
+- "[[H3588A]]"
+- "[[H7200G]]"
+- "[[H0935G]]"
+- "[[H6818]]"
+- "[[H9023]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Samuel 9:16**<big><big>[[1Sam.9.1 Saul Chosen as King|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 To morrow about this time I will send thee a man out of the land of Benjamin, and thou shalt anoint him [to be] captain over my people Israel, that he may save my people out of the hand of the Philistines: for I have looked upon my people, because their cry is come unto me.
 <small><sub>**BSB:**</sub></small>
 “At this time tomorrow I will send you a man from the land of Benjamin, and you are to anoint him ruler over My people Israel; he will save them from the hand of the Philistines. For I have looked upon My people, because their cry has come to Me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9004\|כָּ]][[H6256\|עֵ֣ת]][[H9015\|׀]] [[H4279\|מָחָ֡ר]] [[H7971G\|אֶשְׁלַח֩]] [[H0413\|אֵלֶ֨י]][[H9031\|ךָ]] [[H0376G\|אִ֜ישׁ]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H1144G\|בִּנְיָמִ֗ן]] [[H9001\|וּ]][[H4886\|מְשַׁחְתּ֤]][[H9033\|וֹ]] [[H9005\|לְ]][[H5057\|נָגִיד֙]] [[H5921A\|עַל]][[H9014\|־]] [[H5971A\|עַמִּ֣]][[H9020\|י]] [[H3478\|יִשְׂרָאֵ֔ל]] [[H9001\|וְ]][[H3467\|הוֹשִׁ֥יעַ]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֖]][[H9020\|י]] [[H9006\|מִ]][[H3027H\|יַּ֣ד]] [[H6430G\|פְּלִשְׁתִּ֑ים]] [[H3588A\|כִּ֤י]] [[H7200G\|רָאִ֙יתִי֙]] [[H0853\|אֶת]][[H9014\|־]] [[H5971A\|עַמִּ֔]][[H9020\|י]] [[H3588A\|כִּ֛י]] [[H0935G\|בָּ֥אָה]] [[H6818\|צַעֲקָת֖]][[H9023\|וֹ]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic CAPTAIN|CAPTAIN]] • [[topic GOD|GOD]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic KING|KING]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PHILISTINES|PHILISTINES]] • [[topic PROPHETS|PROPHETS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Sam.9.16|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Sam.9.15|<< 1 Samuel 9:15]]</td><td align="center" style="border:none;">[[1Sam.9|1 Samuel 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Sam.9.17|1 Samuel 9:17 >>]]</td></tr></table>
 

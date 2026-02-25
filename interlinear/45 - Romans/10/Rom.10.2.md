@@ -1,10 +1,53 @@
+---
+title: Romans 10:2
+type: Verse
+kjv: "For I bear them record that they have a zeal of God, but not according to knowledge."
+bsb: "For I testify about them that they are zealous for God, but not on the basis of knowledge."
+greek: "μαρτυρῶ γὰρ αὐτοῖς ὅτι ζῆλον θεοῦ ἔχουσιν ἀλλ᾽ οὐ κατ᾽ ἐπίγνωσιν."
+pericope: "[[Rom.10.1 The Word Brings Salvation|The Word Brings Salvation]]"
+original_language: Greek
+testament: New
+book: Romans
+chapter: 10
+book/chapter: "[[Rom.10|Romans 10]]"
+chronological_order: 1096
+era: Church
+period: "Paul's Letter to the Romans"
+date: ~AD 57
+book_genre:
+- epistle
+- pauline epistle
+- theological treatise
+topics:
+- "[[topic BIGOTRY|BIGOTRY]]"
+- "[[topic JUSTIFICATION|JUSTIFICATION]]"
+- "[[topic RELIGION|RELIGION]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3140]]"
+- "[[G1063]]"
+- "[[G0846]]"
+- "[[G3754G]]"
+- "[[G2205]]"
+- "[[G2316]]"
+- "[[G2192]]"
+- "[[G0235]]"
+- "[[G3756]]"
+- "[[G2596]]"
+- "[[G1922]]"
+texts:
+- NKO
+---
+
 **Romans 10:2**<big><big>[[Rom.10.1 The Word Brings Salvation|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For I bear them record that they have a zeal of God, but not according to knowledge.
 <small><sub>**BSB:**</sub></small>
 For I testify about them that they are zealous for God, but not on the basis of knowledge.
-<small><sub>**Literal:**</sub></small>
-I bear witness for about them that zeal for God they have but not according to knowledge.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.1|<< Romans 10:1]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.3|Romans 10:3 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3140\|μαρτυρῶ]]  [[G1063\|γὰρ]]  [[G0846\|αὐτοῖς]]  [[G3754G\|ὅτι]]  [[G2205\|ζῆλον]]  [[G2316\|θεοῦ]]  [[G2192\|ἔχουσιν]]  [[G0235\|ἀλλ᾽]]  [[G3756\|οὐ]]  [[G2596\|κατ᾽]]  [[G1922\|ἐπίγνωσιν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BIGOTRY|BIGOTRY]] • [[topic JUSTIFICATION|JUSTIFICATION]] • [[topic RELIGION|RELIGION]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rom.10.1|<< Romans 10:1]]</td><td align="center" style="border:none;">[[Rom.10|Romans 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rom.10.3|Romans 10:3 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,10 +1,69 @@
+---
+title: Matthew 25:16
+type: Verse
+kjv: "Then he that had received the five talents went and traded with the same, and made them other five talents."
+bsb: "The servant who had received the five talents went at once and put them to work and gained five more."
+jesus_said: "Then he that had received the five talents went and traded with the same, and made them other five talents."
+greek: "πορευθεὶς δὲ ὁ τὰ πέντε τάλαντα λαβὼν ἠργάσατο ἐν αὐτοῖς καὶ ἐκέρδησεν ἄλλα πέντε τάλαντα·"
+pericope: "[[Matt.25.14 The Parable of the Talents|The Parable of the Talents]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 25
+book/chapter: "[[Matt.25|Matthew 25]]"
+chronological_order: 1000
+era: Gospel
+period: "The Life of Christ: Final Week — Olivet Discourse"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic GIFTS FROM GOD|GIFTS FROM GOD]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JUDGMENT|JUDGMENT]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic OPPORTUNITY|OPPORTUNITY]]"
+- "[[topic PROBATION|PROBATION]]"
+- "[[topic PUNISHMENT|PUNISHMENT]]"
+- "[[topic RESPONSIBILITY|RESPONSIBILITY]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic STEWARD|STEWARD]]"
+- "[[topic TRUSTEE|TRUSTEE]]"
+- "[[topic UNFAITHFULNESS|UNFAITHFULNESS]]"
+- "[[topic WORKS|WORKS]]"
+strongs:
+- "[[G4198]]"
+- "[[G1161]]"
+- "[[G3588]]"
+- "[[G4002]]"
+- "[[G5007]]"
+- "[[G2983]]"
+- "[[G2038]]"
+- "[[G1722]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G2770]]"
+- "[[G0243]]"
+texts:
+- NKO
+- ko
+- N(k)O
+- K
+---
+
 **Matthew 25:16**<big><big>[[Matt.25.14 The Parable of the Talents|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then he that had received the five talents went and traded with the same, and made [them] other five talents.
 <small><sub>**BSB:**</sub></small>
 The servant who had received the five talents went at once and put them to work and gained five more.
-<small><sub>**Literal:**</sub></small>
-Having gone now the [one] the five talents having received he traded with them and he gained more five talents;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.15|<< Matthew 25:15]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.17|Matthew 25:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G4198\|πορευθεὶς]]  [[G1161\|δὲ]]  [[G3588\|ὁ]]  [[G3588\|τὰ]]  [[G4002\|πέντε]]  [[G5007\|τάλαντα]]  [[G2983\|λαβὼν]]  [[G2038\|ἠργάσατο]]  [[G1722\|ἐν]]  [[G0846\|αὐτοῖς]]  [[G2532\|καὶ]]  [[G2770\|ἐκέρδησεν]]  [[G0243\|ἄλλα]]  [[G4002\|πέντε]]  [[G5007\|τάλαντα·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITHFULNESS|FAITHFULNESS]] • [[topic GIFTS FROM GOD|GIFTS FROM GOD]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JUDGMENT|JUDGMENT]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic OPPORTUNITY|OPPORTUNITY]] • [[topic PROBATION|PROBATION]] • [[topic PUNISHMENT|PUNISHMENT]] • [[topic RESPONSIBILITY|RESPONSIBILITY]] • [[topic SERVANT|SERVANT]] • [[topic STEWARD|STEWARD]] • [[topic TRUSTEE|TRUSTEE]] • [[topic UNFAITHFULNESS|UNFAITHFULNESS]] • [[topic WORKS|WORKS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.25.15|<< Matthew 25:15]]</td><td align="center" style="border:none;">[[Matt.25|Matthew 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.25.17|Matthew 25:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

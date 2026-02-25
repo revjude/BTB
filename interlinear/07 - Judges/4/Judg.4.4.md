@@ -1,8 +1,59 @@
+---
+title: Judges 4:4
+type: Verse
+kjv: "And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time."
+bsb: "Now Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that time."
+hebrew: "וּדְבוֹרָה֙ אִשָּׁ֣ה נְבִיאָ֔ה אֵ֖שֶׁת לַפִּיד֑וֹת הִ֛יא שֹׁפְטָ֥ה אֶת־ יִשְׂרָאֵ֖ל בָּעֵ֥ת הַהִֽיא׃"
+pericope: "[[Judg.4.1 Deborah and Barak|Deborah and Barak]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 4
+book/chapter: "[[Judg.4|Judges 4]]"
+chronological_order: 258
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CANAANITES|CANAANITES]]"
+- "[[topic DEBORAH|DEBORAH]]"
+- "[[topic JUDGE|JUDGE]]"
+- "[[topic LAPIDOTH|LAPIDOTH]]"
+- "[[topic PROPHETESSES|PROPHETESSES]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9002]]"
+- "[[H1683H]]"
+- "[[H0802H]]"
+- "[[H5031]]"
+- "[[H3941]]"
+- "[[H1931]]"
+- "[[H8199]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9003]]"
+- "[[H6256]]"
+- "[[H9009]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 4:4**<big><big>[[Judg.4.1 Deborah and Barak|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.
 <small><sub>**BSB:**</sub></small>
 Now Deborah, a prophetess, the wife of Lappidoth, was judging Israel at that time.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H1683H\|דְבוֹרָה֙]] [[H0802H\|אִשָּׁ֣ה]] [[H5031\|נְבִיאָ֔ה]] [[H0802H\|אֵ֖שֶׁת]] [[H3941\|לַפִּיד֑וֹת]] [[H1931\|הִ֛יא]] [[H8199\|שֹׁפְטָ֥ה]] [[H0853\|אֶת]][[H9014\|־]] [[H3478\|יִשְׂרָאֵ֖ל]] [[H9003\|בָּ]][[H6256\|עֵ֥ת]] [[H9009\|הַ]][[H1931\|הִֽיא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CANAANITES|CANAANITES]] • [[topic DEBORAH|DEBORAH]] • [[topic JUDGE|JUDGE]] • [[topic LAPIDOTH|LAPIDOTH]] • [[topic PROPHETESSES|PROPHETESSES]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.4.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.4.3|<< Judges 4:3]]</td><td align="center" style="border:none;">[[Judg.4|Judges 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.4.5|Judges 4:5 >>]]</td></tr></table>
 

@@ -1,8 +1,74 @@
+---
+title: Daniel 4:9
+type: Verse
+kjv: "O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods is in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof."
+bsb: "“O Belteshazzar, chief of the magicians, I know that the spirit of the holy gods is in you and that no mystery baffles you. So explain to me the visions I saw in my dream, and their interpretation."
+aramaic: "בֵּלְטְשַׁאצַּר֮ רַ֣ב חַרְטֻמַיָּא֒ דִּ֣י׀ אֲנָ֣ה יִדְעֵ֗ת דִּ֠י ר֣וּחַ אֱלָהִ֤ין קַדִּישִׁין֙ בָּ֔ךְ וְכָל־ רָ֖ז לָא־ אָנֵ֣ס לָ֑ךְ חֶזְוֵ֨י חֶלְמִ֧י דִֽי־ חֲזֵ֛ית וּפִשְׁרֵ֖הּ אֱמַֽר׃"
+pericope: "[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|Nebuchadnezzar’s Dream of a Great Tree]]"
+original_language: Aramaic
+testament: Old
+book: Daniel
+chapter: 4
+book/chapter: "[[Dan.4|Daniel 4]]"
+chronological_order: 789
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic CONVERTS|CONVERTS]]"
+- "[[topic DANIEL|DANIEL]]"
+- "[[topic HEATHEN|HEATHEN]]"
+- "[[topic SUPERSTITION|SUPERSTITION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H1096]]"
+- "[[H7229]]"
+- "[[H2749]]"
+- "[[H9010]]"
+- "[[H1768]]"
+- "[[H9015]]"
+- "[[H0576B]]"
+- "[[H3046]]"
+- "[[H7308]]"
+- "[[H0426]]"
+- "[[H6922]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9002]]"
+- "[[H3606]]"
+- "[[H9014]]"
+- "[[H7328]]"
+- "[[H3809]]"
+- "[[H0598]]"
+- "[[H9005]]"
+- "[[H2376]]"
+- "[[H2493]]"
+- "[[H9020]]"
+- "[[H2370]]"
+- "[[H6591]]"
+- "[[H9023]]"
+- "[[H0560]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 4:9**<big><big>[[Dan.4.4 Nebuchadnezzar’s Dream of a Great Tree|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods [is] in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof.
 <small><sub>**BSB:**</sub></small>
 “O Belteshazzar, chief of the magicians, I know that the spirit of the holy gods is in you and that no mystery baffles you. So explain to me the visions I saw in my dream, and their interpretation.
+<small><sub>**Aramaic:**</sub></small>
+[[H1096\|בֵּלְטְשַׁאצַּר֮]] [[H7229\|רַ֣ב]] [[H2749\|חַרְטֻמַיָּ]][[H9010\|א֒]] [[H1768\|דִּ֣י]][[H9015\|׀]] [[H0576B\|אֲנָ֣ה]] [[H3046\|יִדְעֵ֗ת]] [[H1768\|דִּ֠י]] [[H7308\|ר֣וּחַ]] [[H0426\|אֱלָהִ֤ין]] [[H6922\|קַדִּישִׁין֙]] [[H9003\|בָּ֔]][[H9031\|ךְ]] [[H9002\|וְ]][[H3606\|כָל]][[H9014\|־]] [[H7328\|רָ֖ז]] [[H3809\|לָא]][[H9014\|־]] [[H0598\|אָנֵ֣ס]] [[H9005\|לָ֑]][[H9031\|ךְ]] [[H2376\|חֶזְוֵ֨י]] [[H2493\|חֶלְמִ֧]][[H9020\|י]] [[H1768\|דִֽי]][[H9014\|־]] [[H2370\|חֲזֵ֛ית]] [[H9002\|וּ]][[H6591\|פִשְׁרֵ֖]][[H9023\|הּ]] [[H0560\|אֱמַֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONVERTS|CONVERTS]] • [[topic DANIEL|DANIEL]] • [[topic HEATHEN|HEATHEN]] • [[topic SUPERSTITION|SUPERSTITION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.4.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.4.8|<< Daniel 4:8]]</td><td align="center" style="border:none;">[[Dan.4|Daniel 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.4.10|Daniel 4:10 >>]]</td></tr></table>
 

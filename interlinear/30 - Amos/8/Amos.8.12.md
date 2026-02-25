@@ -1,8 +1,62 @@
+---
+title: Amos 8:12
+type: Verse
+kjv: "And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the LORD, and shall not find it."
+bsb: "People will stagger from sea to sea and roam from north to east, seeking the word of the LORD, but they will not find it."
+hebrew: "וְנָעוּ֙ מִיָּ֣ם עַד־ יָ֔ם וּמִצָּפ֖וֹן וְעַד־ מִזְרָ֑ח יְשֽׁוֹטְט֛וּ לְבַקֵּ֥שׁ אֶת־ דְּבַר־ יְהוָ֖ה וְלֹ֥א יִמְצָֽאוּ׃"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic HUNGER|HUNGER]]"
+- "[[topic SEEKERS|SEEKERS]]"
+- "[[topic THIRST|THIRST]]"
+- "[[topic WORD OF GOD|WORD OF GOD]]"
+strongs:
+- "[[H9001]]"
+- "[[H5128]]"
+- "[[H9006]]"
+- "[[H3220G]]"
+- "[[H5704]]"
+- "[[H9014]]"
+- "[[H9002]]"
+- "[[H6828G]]"
+- "[[H4217H]]"
+- "[[H7751A]]"
+- "[[H9005]]"
+- "[[H1245]]"
+- "[[H0853]]"
+- "[[H1697G]]"
+- "[[H3068G]]"
+- "[[H3808]]"
+- "[[H4672]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Amos 8:12**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the LORD, and shall not find [it].
 <small><sub>**BSB:**</sub></small>
 People will stagger from sea to sea and roam from north to east, seeking the word of the LORD, but they will not find it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5128\|נָעוּ֙]] [[H9006\|מִ]][[H3220G\|יָּ֣ם]] [[H5704\|עַד]][[H9014\|־]] [[H3220G\|יָ֔ם]] [[H9002\|וּ]][[H9006\|מִ]][[H6828G\|צָּפ֖וֹן]] [[H9002\|וְ]][[H5704\|עַד]][[H9014\|־]] [[H4217H\|מִזְרָ֑ח]] [[H7751A\|יְשֽׁוֹטְט֛וּ]] [[H9005\|לְ]][[H1245\|בַקֵּ֥שׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H1697G\|דְּבַר]][[H9014\|־]] [[H3068G\|יְהוָ֖ה]] [[H9002\|וְ]][[H3808\|לֹ֥א]] [[H4672\|יִמְצָֽאוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HUNGER|HUNGER]] • [[topic SEEKERS|SEEKERS]] • [[topic THIRST|THIRST]] • [[topic WORD OF GOD|WORD OF GOD]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.11|<< Amos 8:11]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.8.13|Amos 8:13 >>]]</td></tr></table>
 

@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Linen Loincloth
+type: Pericope
 pericope: "[[Jer.13.1 The Linen Loincloth|The Linen Loincloth]]"
-verse_count: 11
+original_language: Hebrew
 testament: Old
 book: Jeremiah
 chapter: 13
 book/chapter: "[[Jer.13|Jeremiah 13]]"
-genre:
+chronological_order: 730
+era: Exile
+period: "Judah's Final Days: Jeremiah's Early Ministry"
+date: ~627–605 BC
+book_genre:
 - latter prophets
 - major prophets
 - prophetic oracle
 - poetry
 - narrative
 - lament
+verse_count: 11
 verses:
 - "[[Jer.13.1]]"
 - "[[Jer.13.2]]"
@@ -31,7 +38,7 @@ verses:
 - "[[Jer.13.11]]"
 ---
 
-[[Jer.13|Jeremiah 13:1 - Jeremiah 13:11]]
+<small>[[Jer.13|Jeremiah 13:1-11]]</small>
 *The Linen Loincloth*
 
 [[Jer.13.1|1]] Thus saith the LORD unto me, Go and get thee a linen girdle, and put it upon thy loins, and put it not in water.

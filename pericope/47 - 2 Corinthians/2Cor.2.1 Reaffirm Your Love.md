@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Reaffirm Your Love
+type: Pericope
 pericope: "[[2Cor.2.1 Reaffirm Your Love|Reaffirm Your Love]]"
-verse_count: 11
+original_language: Greek
 testament: New
 book: 2 Corinthians
 chapter: 2
 book/chapter: "[[2Cor.2|2 Corinthians 2]]"
-genre:
+chronological_order: 1075
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55–56
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
 - apologetic
+verse_count: 11
 verses:
 - "[[2Cor.2.1]]"
 - "[[2Cor.2.2]]"
@@ -29,7 +36,7 @@ verses:
 - "[[2Cor.2.11]]"
 ---
 
-[[2Cor.2|2 Corinthians 2:1 - 2 Corinthians 2:11]]
+<small>[[2Cor.2|2 Corinthians 2:1-11]]</small>
 *Reaffirm Your Love*
 
 [[2Cor.2.1|1]] But I determined this with myself, that I would not come again to you in heaviness.

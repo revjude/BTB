@@ -1,8 +1,62 @@
+---
+title: Jeremiah 27:17
+type: Verse
+kjv: "Hearken not unto them; serve the king of Babylon, and live: wherefore should this city be laid waste?"
+bsb: "Do not listen to them. Serve the king of Babylon and live! Why should this city become a ruin?"
+hebrew: "אַל־ תִּשְׁמְע֣וּ אֲלֵיהֶ֔ם עִבְד֥וּ אֶת־ מֶֽלֶךְ־ בָּבֶ֖ל וִֽחְי֑וּ לָ֧מָּה תִֽהְיֶ֛ה הָעִ֥יר הַזֹּ֖את חָרְבָּֽה׃"
+pericope: "[[Jer.27.1 The Yoke of Nebuchadnezzar|The Yoke of Nebuchadnezzar]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 27
+book/chapter: "[[Jer.27|Jeremiah 27]]"
+chronological_order: 750
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic ZEDEKIAH|ZEDEKIAH]]"
+strongs:
+- "[[H0408]]"
+- "[[H9014]]"
+- "[[H8085G]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H5647G]]"
+- "[[H0853]]"
+- "[[H4428G]]"
+- "[[H0894]]"
+- "[[H9002]]"
+- "[[H2421]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H1961]]"
+- "[[H9009]]"
+- "[[H5892B]]"
+- "[[H2063]]"
+- "[[H2723]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 27:17**<big><big>[[Jer.27.1 The Yoke of Nebuchadnezzar|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Hearken not unto them; serve the king of Babylon, and live: wherefore should this city be laid waste?
 <small><sub>**BSB:**</sub></small>
 Do not listen to them. Serve the king of Babylon and live! Why should this city become a ruin?
+<small><sub>**Hebrew:**</sub></small>
+[[H0408\|אַל]][[H9014\|־]] [[H8085G\|תִּשְׁמְע֣וּ]] [[H0413\|אֲלֵי]][[H9038\|הֶ֔ם]] [[H5647G\|עִבְד֥וּ]] [[H0853\|אֶת]][[H9014\|־]] [[H4428G\|מֶֽלֶךְ]][[H9014\|־]] [[H0894\|בָּבֶ֖ל]] [[H9002\|וִֽ]][[H2421\|חְי֑וּ]] [[H9005\|לָ֧]][[H4100\|מָּה]] [[H1961\|תִֽהְיֶ֛ה]] [[H9009\|הָ]][[H5892B\|עִ֥יר]] [[H9009\|הַ]][[H2063\|זֹּ֖את]] [[H2723\|חָרְבָּֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic ZEDEKIAH|ZEDEKIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.27.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.27.16|<< Jeremiah 27:16]]</td><td align="center" style="border:none;">[[Jer.27|Jeremiah 27]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.27.18|Jeremiah 27:18 >>]]</td></tr></table>
 

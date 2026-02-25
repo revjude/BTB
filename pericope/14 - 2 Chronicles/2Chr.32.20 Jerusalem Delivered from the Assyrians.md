@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jerusalem Delivered from the Assyrians
+type: Pericope
 pericope: "[[2Chr.32.20 Jerusalem Delivered from the Assyrians|Jerusalem Delivered from the Assyrians]]"
-verse_count: 4
+original_language: Hebrew
 testament: Old
 book: 2 Chronicles
 chapter: 32
 book/chapter: "[[2Chr.32|2 Chronicles 32]]"
-genre:
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
 - narrative
 - monarchic narrative
 - temple focused
 - building codes
+verse_count: 4
 verses:
 - "[[2Chr.32.20]]"
 - "[[2Chr.32.21]]"
@@ -22,7 +29,7 @@ verses:
 - "[[2Chr.32.23]]"
 ---
 
-[[2Chr.32|2 Chronicles 32:20 - 2 Chronicles 32:23]]
+<small>[[2Chr.32|2 Chronicles 32:20-23]]</small>
 *Jerusalem Delivered from the Assyrians*
 
 [[2Chr.32.20|20]] And for this \[cause\] Hezekiah the king, and the prophet Isaiah the son of Amoz, prayed and cried to heaven.

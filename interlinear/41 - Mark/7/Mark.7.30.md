@@ -1,10 +1,62 @@
+---
+title: Mark 7:30
+type: Verse
+kjv: "And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed."
+bsb: "And she went home and found her child lying on the bed, and the demon was gone."
+greek: "καὶ ἀπελθοῦσα εἰς τὸν οἶκον αὐτῆς εὗρεν τὸ παιδίον βεβλημένον ἐπὶ τὴν κλίνην καὶ τὸ δαιμόνιον ἐξεληλυθός.¶"
+pericope: "[[Mark.7.24 The Faith of the Gentile Woman|The Faith of the Gentile Woman]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SIDON|SIDON]]"
+- "[[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]]"
+- "[[topic TYRE|TYRE]]"
+strongs:
+- "[[G2532]]"
+- "[[G0565]]"
+- "[[G1519]]"
+- "[[G3588]]"
+- "[[G3624G]]"
+- "[[G0846]]"
+- "[[G2147]]"
+- "[[G3813]]"
+- "[[G0906H]]"
+- "[[G1909]]"
+- "[[G2825]]"
+- "[[G1140]]"
+- "[[G1831]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Mark 7:30**<big><big>[[Mark.7.24 The Faith of the Gentile Woman|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And when she was come to her house, she found the devil gone out, and her daughter laid upon the bed.
 <small><sub>**BSB:**</sub></small>
 And she went home and found her child lying on the bed, and the demon was gone.
-<small><sub>**Literal:**</sub></small>
-And having gone away to the home of her she found the child laid on the bed and the demon having left.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.29|<< Mark 7:29]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.31|Mark 7:31 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G0565\|ἀπελθοῦσα]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G3624G\|οἶκον]]  [[G0846\|αὐτῆς]]  [[G2147\|εὗρεν]]  [[G3588\|τὸ]]  [[G3813\|παιδίον]]  [[G0906H\|βεβλημένον]]  [[G1909\|ἐπὶ]]  [[G3588\|τὴν]]  [[G2825\|κλίνην]]  [[G2532\|καὶ]]  [[G3588\|τὸ]]  [[G1140\|δαιμόνιον]]  [[G1831\|ἐξεληλυθός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic DEMONS|DEMONS]] • [[topic FAITH|FAITH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic PRAYER|PRAYER]] • [[topic SIDON|SIDON]] • [[topic SYRO-PHOENICIAN|SYRO-PHOENICIAN]] • [[topic TYRE|TYRE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.29|<< Mark 7:29]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.31|Mark 7:31 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

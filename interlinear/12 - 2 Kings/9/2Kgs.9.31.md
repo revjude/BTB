@@ -1,8 +1,65 @@
+---
+title: 2 Kings 9:31
+type: Verse
+kjv: "And as Jehu entered in at the gate, she said, Had Zimri peace, who slew his master?"
+bsb: "And as Jehu entered the gate, she asked, “Have you come in peace, O Zimri, murderer of your master?”"
+hebrew: "וְיֵה֖וּא בָּ֣א בַשָּׁ֑עַר וַתֹּ֣אמֶר הֲשָׁל֔וֹם זִמְרִ֖י הֹרֵ֥ג אֲדֹנָֽיו׃"
+pericope: "[[2Kgs.9.30 Jezebel’s Violent Death|Jezebel’s Violent Death]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 9
+book/chapter: "[[2Kgs.9|2 Kings 9]]"
+chronological_order: 582
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~841 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DECISION|DECISION]]"
+- "[[topic ELIJAH|ELIJAH]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHU|JEHU]]"
+- "[[topic JEZEBEL|JEZEBEL]]"
+- "[[topic JEZREEL|JEZREEL]]"
+- "[[topic NABOTH|NABOTH]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WIFE|WIFE]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZIMRI|ZIMRI]]"
+strongs:
+- "[[H9002]]"
+- "[[H3058H]]"
+- "[[H0935G]]"
+- "[[H9003]]"
+- "[[H8179G]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H7965G]]"
+- "[[H2174A]]"
+- "[[H2026]]"
+- "[[H0113]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 9:31**<big><big>[[2Kgs.9.30 Jezebel’s Violent Death|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And as Jehu entered in at the gate, she said, [Had] Zimri peace, who slew his master?
 <small><sub>**BSB:**</sub></small>
 And as Jehu entered the gate, she asked, “Have you come in peace, O Zimri, murderer of your master?”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H3058H\|יֵה֖וּא]] [[H0935G\|בָּ֣א]] [[H9003\|בַ]][[H8179G\|שָּׁ֑עַר]] [[H9001\|וַ]][[H0559\|תֹּ֣אמֶר]] [[H9008\|הֲ]][[H7965G\|שָׁל֔וֹם]] [[H2174A\|זִמְרִ֖י]] [[H2026\|הֹרֵ֥ג]] [[H0113\|אֲדֹנָֽי]][[H9023\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DECISION|DECISION]] • [[topic ELIJAH|ELIJAH]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHU|JEHU]] • [[topic JEZEBEL|JEZEBEL]] • [[topic JEZREEL|JEZREEL]] • [[topic NABOTH|NABOTH]] • [[topic SERVANT|SERVANT]] • [[topic USURPATION|USURPATION]] • [[topic WIFE|WIFE]] • [[topic WOMEN|WOMEN]] • [[topic ZIMRI|ZIMRI]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.9.31|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.9.30|<< 2 Kings 9:30]]</td><td align="center" style="border:none;">[[2Kgs.9|2 Kings 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.9.32|2 Kings 9:32 >>]]</td></tr></table>
 

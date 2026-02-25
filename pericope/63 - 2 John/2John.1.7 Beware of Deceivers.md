@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Beware of Deceivers
+type: Pericope
 pericope: "[[2John.1.7 Beware of Deceivers|Beware of Deceivers]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: 2 John
 chapter: 1
 book/chapter: "[[2John.1|2 John 1]]"
-genre:
+chronological_order: 1166
+era: Church
+period: "John's Epistles"
+date: ~AD 85–95
+book_genre:
 - epistle
 - general epistle
 - johannine epistle
 - personal letter
 - polemical
+verse_count: 5
 verses:
 - "[[2John.1.7]]"
 - "[[2John.1.8]]"
@@ -24,7 +31,7 @@ verses:
 - "[[2John.1.11]]"
 ---
 
-[[2John.1|2 John 1:7 - 2 John 1:11]]
+<small>[[2John.1|2 John 1:7-11]]</small>
 *Beware of Deceivers*
 
 [[2John.1.7|7]] For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.

@@ -1,10 +1,65 @@
+---
+title: Matthew 26:45
+type: Verse
+kjv: "Then cometh he to his disciples, and saith unto them, Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners."
+bsb: "Then He returned to the disciples and said, “Are you still sleeping and resting? Look, the hour is near, and the Son of Man is betrayed into the hands of sinners."
+jesus_said: "Sleep on now, and take your rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners."
+greek: "Τότε ἔρχεται πρὸς τοὺς μαθητὰς αὐτοῦ καὶ λέγει αὐτοῖς· καθεύδετε τὸ λοιπὸν καὶ ἀναπαύεσθε· ἰδοὺ ἤγγικεν ἡ ὥρα, καὶ ὁ υἱὸς τοῦ ἀνθρώπου παραδίδοται εἰς χεῖρας ἁμαρτωλῶν."
+pericope: "[[Matt.26.36 Jesus Prays at Gethsemane|Jesus Prays at Gethsemane]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 26
+book/chapter: "[[Matt.26|Matthew 26]]"
+chronological_order: 1006
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic BETRAYAL|BETRAYAL]]"
+- "[[topic GETHSEMANE|GETHSEMANE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PETER|PETER]]"
+strongs:
+- "[[G5119]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3588]]"
+- "[[G3101]]"
+- "[[G0846]]"
+- "[[G2532]]"
+- "[[G3004G]]"
+- "[[G2518]]"
+- "[[G3063]]"
+- "[[G0373]]"
+- "[[G2400]]"
+- "[[G1448]]"
+- "[[G5610]]"
+- "[[G5207]]"
+- "[[G0444]]"
+- "[[G3860]]"
+- "[[G1519]]"
+- "[[G5495]]"
+- "[[G0268]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 26:45**<big><big>[[Matt.26.36 Jesus Prays at Gethsemane|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Then cometh he to his disciples, and saith unto them, Sleep on now, and take [your] rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.
 <small><sub>**BSB:**</sub></small>
 Then He returned to the disciples and said, “Are you still sleeping and resting? Look, the hour is near, and the Son of Man is betrayed into the hands of sinners.
-<small><sub>**Literal:**</sub></small>
-Then He comes to the disciples of him and says to them; Sleep <the> later on and take your rest; Behold has drawn near the hour, and the Son <the> of Man is betrayed into [the] hands of sinners.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.44|<< Matthew 26:44]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.46|Matthew 26:46 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5119\|Τότε]]  [[G2064\|ἔρχεται]]  [[G4314\|πρὸς]]  [[G3588\|τοὺς]]  [[G3101\|μαθητὰς]]  [[G0846\|αὐτοῦ]]  [[G2532\|καὶ]]  [[G3004G\|λέγει]]  [[G0846\|αὐτοῖς·]]  [[G2518\|καθεύδετε]]  [[G3588\|τὸ]]  [[G3063\|λοιπὸν]]  [[G2532\|καὶ]]  [[G0373\|ἀναπαύεσθε·]]  [[G2400\|ἰδοὺ]]  [[G1448\|ἤγγικεν]]  [[G3588\|ἡ]]  [[G5610\|ὥρα,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G5207\|υἱὸς]]  [[G3588\|τοῦ]]  [[G0444\|ἀνθρώπου]]  [[G3860\|παραδίδοται]]  [[G1519\|εἰς]]  [[G5495\|χεῖρας]]  [[G0268\|ἁμαρτωλῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BETRAYAL|BETRAYAL]] • [[topic GETHSEMANE|GETHSEMANE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PETER|PETER]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.26.44|<< Matthew 26:44]]</td><td align="center" style="border:none;">[[Matt.26|Matthew 26]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.26.46|Matthew 26:46 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

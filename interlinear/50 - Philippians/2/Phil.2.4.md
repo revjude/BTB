@@ -1,10 +1,54 @@
+---
+title: Philippians 2:4
+type: Verse
+kjv: "Look not every man on his own things, but every man also on the things of others."
+bsb: "Each of you should look not only to your own interests, but also to the interests of others."
+greek: "μὴ τὰ ἑαυτῶν ἕκαστος σκοποῦντες ἀλλὰ καὶ τὰ ἑτέρων ἕκαστοι."
+pericope: "[[Phil.2.1 One in Christ|One in Christ]]"
+original_language: Greek
+testament: New
+book: Philippians
+chapter: 2
+book/chapter: "[[Phil.2|Philippians 2]]"
+chronological_order: 1118
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- pastoral letter
+topics:
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic HUMILITY|HUMILITY]]"
+- "[[topic SELF-DENIAL|SELF-DENIAL]]"
+- "[[topic SELFISHNESS|SELFISHNESS]]"
+- "[[topic UNSELFISHNESS|UNSELFISHNESS]]"
+strongs:
+- "[[G3361]]"
+- "[[G3588]]"
+- "[[G1438]]"
+- "[[G1538]]"
+- "[[G4648]]"
+- "[[G0235]]"
+- "[[G2532]]"
+- "[[G2087]]"
+texts:
+- NKO
+- NK(o)
+- N(k)O
+---
+
 **Philippians 2:4**<big><big>[[Phil.2.1 One in Christ|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Look not every man on his own things, but every man also on the things of others.
 <small><sub>**BSB:**</sub></small>
 Each of you should look not only to your own interests, but also to the interests of others.
-<small><sub>**Literal:**</sub></small>
-not the [things] their own each one considering but also the [things] of others everyone.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.3|<< Philippians 2:3]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.5|Philippians 2:5 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3361\|μὴ]]  [[G3588\|τὰ]]  [[G1438\|ἑαυτῶν]]  [[G1538\|ἕκαστος]]  [[G4648\|σκοποῦντες]]  [[G0235\|ἀλλὰ]]  [[G2532\|καὶ]]  [[G3588\|τὰ]]  [[G2087\|ἑτέρων]]  [[G1538\|ἕκαστοι.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMANDMENTS|COMMANDMENTS]] • [[topic HUMILITY|HUMILITY]] • [[topic SELF-DENIAL|SELF-DENIAL]] • [[topic SELFISHNESS|SELFISHNESS]] • [[topic UNSELFISHNESS|UNSELFISHNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Phil.2.3|<< Philippians 2:3]]</td><td align="center" style="border:none;">[[Phil.2|Philippians 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Phil.2.5|Philippians 2:5 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

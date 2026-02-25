@@ -1,22 +1,29 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Solomon’s Palace Complex
+type: Pericope
 pericope: "[[1Kgs.7.1 Solomon’s Palace Complex|Solomon’s Palace Complex]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Kings
 chapter: 7
 book/chapter: "[[1Kgs.7|1 Kings 7]]"
-genre:
+chronological_order: 489
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
 - building codes
+verse_count: 12
 verses:
 - "[[1Kgs.7.1]]"
 - "[[1Kgs.7.2]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Kgs.7.12]]"
 ---
 
-[[1Kgs.7|1 Kings 7:1 - 1 Kings 7:12]]
+<small>[[1Kgs.7|1 Kings 7:1-12]]</small>
 *Solomon’s Palace Complex*
 
 [[1Kgs.7.1|1]] But Solomon was building his own house thirteen years, and he finished all his house.

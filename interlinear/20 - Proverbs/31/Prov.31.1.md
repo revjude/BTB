@@ -1,8 +1,52 @@
+---
+title: Proverbs 31:1
+type: Verse
+kjv: "The words of king Lemuel, the prophecy that his mother taught him."
+bsb: "These are the words of King Lemuel—the burden that his mother taught him:"
+hebrew: "דִּ֭בְרֵי לְמוּאֵ֣ל מֶ֑לֶךְ מַ֝שָּׂ֗א אֲֽשֶׁר־ יִסְּרַ֥תּוּ אִמּֽוֹ׃"
+pericope: "[[Prov.31.1 The Sayings for King Lemuel|The Sayings for King Lemuel]]"
+original_language: Hebrew
+testament: Old
+book: Proverbs
+chapter: 31
+book/chapter: "[[Prov.31|Proverbs 31]]"
+chronological_order: 486
+era: United Kingdom
+period: "Solomon: Proverbs"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- instructional
+- aphorisms
+topics:
+- "[[topic LEMUEL|LEMUEL]]"
+- "[[topic YOUNG MEN|YOUNG MEN]]"
+strongs:
+- "[[H1697G]]"
+- "[[H3927]]"
+- "[[H4428G]]"
+- "[[H4853A]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H3256]]"
+- "[[H9033]]"
+- "[[H0517]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Proverbs 31:1**<big><big>[[Prov.31.1 The Sayings for King Lemuel|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The words of king Lemuel, the prophecy that his mother taught him.
 <small><sub>**BSB:**</sub></small>
 These are the words of King Lemuel—the burden that his mother taught him:
+<small><sub>**Hebrew:**</sub></small>
+[[H1697G\|דִּ֭בְרֵי]] [[H3927\|לְמוּאֵ֣ל]] [[H4428G\|מֶ֑לֶךְ]] [[H4853A\|מַ֝שָּׂ֗א]] [[H0834A\|אֲֽשֶׁר]][[H9014\|־]] [[H3256\|יִסְּרַ֥תּ]][[H9033\|וּ]] [[H0517\|אִמּֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic LEMUEL|LEMUEL]] • [[topic YOUNG MEN|YOUNG MEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Prov.31.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Prov.30.33|<< Proverbs 30:33]]</td><td align="center" style="border:none;">[[Prov.31|Proverbs 31]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Prov.31.2|Proverbs 31:2 >>]]</td></tr></table>
 

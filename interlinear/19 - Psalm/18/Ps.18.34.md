@@ -1,8 +1,57 @@
+---
+title: Psalm 18:34
+type: Verse
+kjv: "He teacheth my hands to war, so that a bow of steel is broken by mine arms."
+bsb: "He trains my hands for battle; my arms can bend a bow of bronze."
+hebrew: "מְלַמֵּ֣ד יָ֭דַי לַמִּלְחָמָ֑ה וְֽנִחֲתָ֥ה קֶֽשֶׁת־ נְ֝חוּשָׁ֗ה זְרוֹעֹתָֽי׃"
+pericope: "[[Ps.18.1 The LORD Is My Rock|The LORD Is My Rock]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 18
+book/chapter: "[[Ps.18|Psalm 18]]"
+chronological_order: 408
+era: United Kingdom
+period: "David as King: Victories and Expansion"
+date: ~995–980 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BOW|BOW]]"
+- "[[topic STEEL|STEEL]]"
+- "[[topic WAR|WAR]]"
+strongs:
+- "[[H3925G]]"
+- "[[H3027G]]"
+- "[[H9020]]"
+- "[[H9005]]"
+- "[[H4421]]"
+- "[[H9001]]"
+- "[[H5181]]"
+- "[[H7198]]"
+- "[[H9014]]"
+- "[[H5154]]"
+- "[[H2220]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 18:34**<big><big>[[Ps.18.1 The LORD Is My Rock|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He teacheth my hands to war, so that a bow of steel is broken by mine arms.
 <small><sub>**BSB:**</sub></small>
 He trains my hands for battle; my arms can bend a bow of bronze.
+<small><sub>**Hebrew:**</sub></small>
+[[H3925G\|מְלַמֵּ֣ד]] [[H3027G\|יָ֭דַ]][[H9020\|י]] [[H9005\|לַ]][[H4421\|מִּלְחָמָ֑ה]] [[H9001\|וְֽ]][[H5181\|נִחֲתָ֥ה]] [[H7198\|קֶֽשֶׁת]][[H9014\|־]] [[H5154\|נְ֝חוּשָׁ֗ה]] [[H2220\|זְרוֹעֹתָֽ]][[H9020\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOW|BOW]] • [[topic STEEL|STEEL]] • [[topic WAR|WAR]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.18.34|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.18.33|<< Psalms 18:33]]</td><td align="center" style="border:none;">[[Ps.18|Psalms 18]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.18.35|Psalms 18:35 >>]]</td></tr></table>
 

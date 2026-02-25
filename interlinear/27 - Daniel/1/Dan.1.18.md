@@ -1,8 +1,65 @@
+---
+title: Daniel 1:18
+type: Verse
+kjv: "Now at the end of the days that the king had said he should bring them in, then the prince of the eunuchs brought them in before Nebuchadnezzar."
+bsb: "Now at the end of the time specified by the king, the chief official presented them to Nebuchadnezzar."
+hebrew: "וּלְמִקְצָת֙ הַיָּמִ֔ים אֲשֶׁר־ אָמַ֥ר הַמֶּ֖לֶךְ לַהֲבִיאָ֑ם וַיְבִיאֵם֙ שַׂ֣ר הַסָּרִיסִ֔ים לִפְנֵ֖י נְבֻכַדְנֶצַּֽר׃"
+pericope: "[[Dan.1.17 Daniel’s Wisdom|Daniel’s Wisdom]]"
+original_language: Hebrew
+testament: Old
+book: Daniel
+chapter: 1
+book/chapter: "[[Dan.1|Daniel 1]]"
+chronological_order: 786
+era: Exile
+period: "Exile in Babylon: Daniel's Court Ministry"
+date: ~605–536 BC
+book_genre:
+- narrative
+- court tale
+- apocalyptic
+- visionary
+- diaspora narrative
+topics:
+- "[[topic ABED-NEGO|ABED-NEGO]]"
+- "[[topic CIVIL SERVICE|CIVIL SERVICE]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic INTEGRITY|INTEGRITY]]"
+- "[[topic MISHAEL|MISHAEL]]"
+- "[[topic SCHOOL|SCHOOL]]"
+strongs:
+- "[[H9002]]"
+- "[[H9005]]"
+- "[[H9006]]"
+- "[[H7117]]"
+- "[[H9009]]"
+- "[[H3117G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H0559]]"
+- "[[H4428G]]"
+- "[[H0935P]]"
+- "[[H9038]]"
+- "[[H9001]]"
+- "[[H8269]]"
+- "[[H5631]]"
+- "[[H6440G]]"
+- "[[H5019]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Daniel 1:18**<big><big>[[Dan.1.17 Daniel’s Wisdom|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now at the end of the days that the king had said he should bring them in, then the prince of the eunuchs brought them in before Nebuchadnezzar.
 <small><sub>**BSB:**</sub></small>
 Now at the end of the time specified by the king, the chief official presented them to Nebuchadnezzar.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וּ]][[H9005\|לְ]][[H9006\|מִ]][[H7117\|קְצָת֙]] [[H9009\|הַ]][[H3117G\|יָּמִ֔ים]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H0559\|אָמַ֥ר]] [[H9009\|הַ]][[H4428G\|מֶּ֖לֶךְ]] [[H9005\|לַ]][[H0935P\|הֲבִיאָ֑]][[H9038\|ם]] [[H9001\|וַ]][[H0935P\|יְבִיאֵ]][[H9038\|ם֙]] [[H8269\|שַׂ֣ר]] [[H9009\|הַ]][[H5631\|סָּרִיסִ֔ים]] [[H9005\|לִ]][[H6440G\|פְנֵ֖י]] [[H5019\|נְבֻכַדְנֶצַּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABED-NEGO|ABED-NEGO]] • [[topic CIVIL SERVICE|CIVIL SERVICE]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic INSTRUCTION|INSTRUCTION]] • [[topic INTEGRITY|INTEGRITY]] • [[topic MISHAEL|MISHAEL]] • [[topic SCHOOL|SCHOOL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Dan.1.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Dan.1.17|<< Daniel 1:17]]</td><td align="center" style="border:none;">[[Dan.1|Daniel 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Dan.1.19|Daniel 1:19 >>]]</td></tr></table>
 

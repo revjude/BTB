@@ -1,8 +1,53 @@
+---
+title: Job 11:13
+type: Verse
+kjv: "If thou prepare thine heart, and stretch out thine hands toward him;"
+bsb: "As for you, if you direct your heart and lift up your hands to Him,"
+hebrew: "אִם־ אַ֭תָּ֗ה הֲכִינ֣וֹתָ לִבֶּ֑ךָ וּפָרַשְׂתָּ֖ אֵלָ֣יו כַּפֶּֽךָ׃"
+pericope: "[[Job.11.1 Zophar Rebukes Job|Zophar Rebukes Job]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 11
+book/chapter: "[[Job.11|Job 11]]"
+chronological_order: 22
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic REPENTANCE|REPENTANCE]]"
+strongs:
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H0859A]]"
+- "[[H3559A]]"
+- "[[H3820A]]"
+- "[[H9021]]"
+- "[[H9001]]"
+- "[[H6566]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3709G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 11:13**<big><big>[[Job.11.1 Zophar Rebukes Job|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 If thou prepare thine heart, and stretch out thine hands toward him;
 <small><sub>**BSB:**</sub></small>
 As for you, if you direct your heart and lift up your hands to Him,
+<small><sub>**Hebrew:**</sub></small>
+[[H0518A\|אִם]][[H9014\|־]] [[H0859A\|אַ֭תָּ֗ה]] [[H3559A\|הֲכִינ֣וֹתָ]] [[H3820A\|לִבֶּ֑]][[H9021\|ךָ]] [[H9001\|וּ]][[H6566\|פָרַשְׂתָּ֖]] [[H0413\|אֵלָ֣י]][[H9033\|ו]] [[H3709G\|כַּפֶּֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic REPENTANCE|REPENTANCE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.11.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.11.12|<< Job 11:12]]</td><td align="center" style="border:none;">[[Job.11|Job 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.11.14|Job 11:14 >>]]</td></tr></table>
 

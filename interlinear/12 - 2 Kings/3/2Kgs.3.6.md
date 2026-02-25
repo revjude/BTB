@@ -1,8 +1,56 @@
+---
+title: 2 Kings 3:6
+type: Verse
+kjv: "And king Jehoram went out of Samaria the same time, and numbered all Israel."
+bsb: "So at that time King Jehoram set out from Samaria and mobilized all Israel."
+hebrew: "וַיֵּצֵ֞א הַמֶּ֧לֶךְ יְהוֹרָ֛ם בַּיּ֥וֹם הַה֖וּא מִשֹּׁמְר֑וֹן וַיִּפְקֹ֖ד אֶת־ כָּל־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318G]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H3088I]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H9006]]"
+- "[[H8111]]"
+- "[[H6485A]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H3605]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:6**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Jehoram went out of Samaria the same time, and numbered all Israel.
 <small><sub>**BSB:**</sub></small>
 So at that time King Jehoram set out from Samaria and mobilized all Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318G\|יֵּצֵ֞א]] [[H9009\|הַ]][[H4428G\|מֶּ֧לֶךְ]] [[H3088I\|יְהוֹרָ֛ם]] [[H9003\|בַּ]][[H3117G\|יּ֥וֹם]] [[H9009\|הַ]][[H1931\|ה֖וּא]] [[H9006\|מִ]][[H8111\|שֹּׁמְר֑וֹן]] [[H9001\|וַ]][[H6485A\|יִּפְקֹ֖ד]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.5|<< 2 Kings 3:5]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.7|2 Kings 3:7 >>]]</td></tr></table>
 

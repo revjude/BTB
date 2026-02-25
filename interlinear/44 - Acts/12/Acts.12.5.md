@@ -1,10 +1,70 @@
+---
+title: Acts 12:5
+type: Verse
+kjv: "Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him."
+bsb: "So Peter was kept in prison, but the church was fervently praying to God for him."
+greek: "Ὁ μὲν οὖν Πέτρος ἐτηρεῖτο ἐν τῇ φυλακῇ· προσευχὴ δὲ ἦν ἐκτενῶς γινομένη ὑπὸ τῆς ἐκκλησίας πρὸς τὸν θεὸν περὶ αὐτοῦ."
+pericope: "[[Acts.12.5 The Rescue of Peter|The Rescue of Peter]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 12
+book/chapter: "[[Acts.12|Acts 12]]"
+chronological_order: 1030
+era: Church
+period: "The Early Church: Expansion to the Gentiles"
+date: ~AD 35–44
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic CRIMINALS|CRIMINALS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic HEROD|HEROD]]"
+- "[[topic JERUSALEM|JERUSALEM]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic PERSECUTION|PERSECUTION]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic PRISON|PRISON]]"
+- "[[topic PRISONERS|PRISONERS]]"
+- "[[topic RULERS|RULERS]]"
+- "[[topic SOLDIERS|SOLDIERS]]"
+strongs:
+- "[[G3588]]"
+- "[[G3303]]"
+- "[[G3767]]"
+- "[[G4074G]]"
+- "[[G5083H]]"
+- "[[G1722]]"
+- "[[G5438G]]"
+- "[[G4335]]"
+- "[[G1161]]"
+- "[[G1510]]"
+- "[[G1619]]"
+- "[[G1096]]"
+- "[[G5259G]]"
+- "[[G1577]]"
+- "[[G4314]]"
+- "[[G2316]]"
+- "[[G4012]]"
+- "[[G0846]]"
+texts:
+- NKO
+- N(k)O
+---
+
 **Acts 12:5**<big><big>[[Acts.12.5 The Rescue of Peter|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.
 <small><sub>**BSB:**</sub></small>
 So Peter was kept in prison, but the church was fervently praying to God for him.
-<small><sub>**Literal:**</sub></small>
-<the> Indeed therefore Peter was kept in the prison; prayer however was fervently being made by the church to <the> God concerning him.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.4|<< Acts 12:4]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.6|Acts 12:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G3303\|μὲν]]  [[G3767\|οὖν]]  [[G4074G\|Πέτρος]]  [[G5083H\|ἐτηρεῖτο]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G5438G\|φυλακῇ·]]  [[G4335\|προσευχὴ]]  [[G1161\|δὲ]]  [[G1510\|ἦν]]  [[G1619\|ἐκτενῶς]]  [[G1096\|γινομένη]]  [[G5259G\|ὑπὸ]]  [[G3588\|τῆς]]  [[G1577\|ἐκκλησίας]]  [[G4314\|πρὸς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G4012\|περὶ]]  [[G0846\|αὐτοῦ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic CRIMINALS|CRIMINALS]] • [[topic GOD|GOD]] • [[topic HEROD|HEROD]] • [[topic JERUSALEM|JERUSALEM]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic PERSECUTION|PERSECUTION]] • [[topic PETER|PETER]] • [[topic PRAYER|PRAYER]] • [[topic PRISON|PRISON]] • [[topic PRISONERS|PRISONERS]] • [[topic RULERS|RULERS]] • [[topic SOLDIERS|SOLDIERS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.12.4|<< Acts 12:4]]</td><td align="center" style="border:none;">[[Acts.12|Acts 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.12.6|Acts 12:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The LORD Loves the Gates of Zion
+type: Pericope
 pericope: "[[Ps.87.1 The LORD Loves the Gates of Zion|The LORD Loves the Gates of Zion]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: Psalms
 chapter: 87
 book/chapter: "[[Ps.87|Psalm 87]]"
-genre:
+chronological_order: 515
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
 - wisdom literature
 - poetry
 - hymns
@@ -18,6 +24,7 @@ genre:
 - liturgical
 - lament
 - praise
+verse_count: 8
 verses:
 - "[[Ps.87.0]]"
 - "[[Ps.87.1]]"
@@ -29,7 +36,7 @@ verses:
 - "[[Ps.87.7]]"
 ---
 
-[[Ps.87|Psalm 87:1 - Psalm 87:7]]
+<small>[[Ps.87|Psalm 87:1-7]]</small>
 *The LORD Loves the Gates of Zion*
 
 [[Ps.87.0|0]] A Psalm \[or\] Song for the sons of Korah.

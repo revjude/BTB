@@ -1,8 +1,61 @@
+---
+title: Ezekiel 40:43
+type: Verse
+kjv: "And within were hooks, an hand broad, fastened round about: and upon the tables was the flesh of the offering."
+bsb: "The double-pronged hooks, each a handbreadth long, were fastened all around the inside of the room, and the flesh of the offering was to be placed on the tables."
+hebrew: "וְהַֽשְׁפַתַּ֗יִם טֹ֧פַח אֶחָ֛ד מוּכָנִ֥ים בַּבַּ֖יִת סָבִ֣יב׀ סָבִ֑יב וְאֶל־ הַשֻּׁלְחָנ֖וֹת בְּשַׂ֥ר הַקָּרְבָֽן׃"
+pericope: "[[Ezek.40.38 Eight Tables for Sacrifices|Eight Tables for Sacrifices]]"
+original_language: Hebrew
+testament: Old
+book: Ezekiel
+chapter: 40
+book/chapter: "[[Ezek.40|Ezekiel 40]]"
+chronological_order: 831
+era: Exile
+period: "Exile in Babylon: Ezekiel's Ministry"
+date: ~593–571 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- building codes
+- ritual codes
+topics:
+- "[[topic HANDBREADTH|HANDBREADTH]]"
+- "[[topic HOOKS|HOOKS]]"
+- "[[topic MEASURE|MEASURE]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H8240B]]"
+- "[[H2948]]"
+- "[[H0259]]"
+- "[[H3559H]]"
+- "[[H9003]]"
+- "[[H1004O]]"
+- "[[H5439G]]"
+- "[[H9015]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H7979]]"
+- "[[H1320]]"
+- "[[H7133A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezekiel 40:43**<big><big>[[Ezek.40.38 Eight Tables for Sacrifices|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And within [were] hooks, an hand broad, fastened round about: and upon the tables [was] the flesh of the offering.
 <small><sub>**BSB:**</sub></small>
 The double-pronged hooks, each a handbreadth long, were fastened all around the inside of the room, and the flesh of the offering was to be placed on the tables.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַֽ]][[H8240B\|שְׁפַתַּ֗יִם]] [[H2948\|טֹ֧פַח]] [[H0259\|אֶחָ֛ד]] [[H3559H\|מוּכָנִ֥ים]] [[H9003\|בַּ]][[H1004O\|בַּ֖יִת]] [[H5439G\|סָבִ֣יב]][[H9015\|׀]] [[H5439G\|סָבִ֑יב]] [[H9002\|וְ]][[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H7979\|שֻּׁלְחָנ֖וֹת]] [[H1320\|בְּשַׂ֥ר]] [[H9009\|הַ]][[H7133A\|קָּרְבָֽן]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HANDBREADTH|HANDBREADTH]] • [[topic HOOKS|HOOKS]] • [[topic MEASURE|MEASURE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezek.40.43|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezek.40.42|<< Ezekiel 40:42]]</td><td align="center" style="border:none;">[[Ezek.40|Ezekiel 40]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezek.40.44|Ezekiel 40:44 >>]]</td></tr></table>
 

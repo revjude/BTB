@@ -1,8 +1,70 @@
+---
+title: Zechariah 10:6
+type: Verse
+kjv: "And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them again to place them; for I have mercy upon them: and they shall be as though I had not cast them off: for I am the LORD their God, and will hear them."
+bsb: "I will strengthen the house of Judah and save the house of Joseph. I will restore them because I have compassion on them, and they will be as though I had not rejected them. For I am the LORD their God, and I will answer them."
+hebrew: "וְגִבַּרְתִּ֣י׀ אֶת־ בֵּ֣ית יְהוּדָ֗ה וְאֶת־ בֵּ֤ית יוֹסֵף֙ אוֹשִׁ֔יעַ וְהֽוֹשְׁבוֹתִים֙ כִּ֣י רִֽחַמְתִּ֔ים וְהָי֖וּ כַּאֲשֶׁ֣ר לֹֽא־ זְנַחְתִּ֑ים כִּ֗י אֲנִ֛י יְהוָ֥ה אֱלֹהֵיהֶ֖ם וְאֶעֱנֵֽם׃"
+pericope: "[[Zech.10.1 Judah and Israel Will Be Restored|Judah and Israel Will Be Restored]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 10
+book/chapter: "[[Zech.10|Zechariah 10]]"
+chronological_order: 866
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic BACKSLIDERS|BACKSLIDERS]]"
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H1396]]"
+- "[[H9015]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1004M]]"
+- "[[H3063G]]"
+- "[[H9002]]"
+- "[[H3130G]]"
+- "[[H3467]]"
+- "[[H7725G]]"
+- "[[H9038]]"
+- "[[H3588A]]"
+- "[[H7355]]"
+- "[[H1961]]"
+- "[[H9004]]"
+- "[[H0834D]]"
+- "[[H3808]]"
+- "[[H2186A]]"
+- "[[H0589]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9028]]"
+- "[[H6030B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 10:6**<big><big>[[Zech.10.1 Judah and Israel Will Be Restored|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And I will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them again to place them; for I have mercy upon them: and they shall be as though I had not cast them off: for I [am] the LORD their God, and will hear them.
 <small><sub>**BSB:**</sub></small>
 I will strengthen the house of Judah and save the house of Joseph. I will restore them because I have compassion on them, and they will be as though I had not rejected them. For I am the LORD their God, and I will answer them.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H1396\|גִבַּרְתִּ֣י]][[H9015\|׀]] [[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֣ית]] [[H3063G\|יְהוּדָ֗ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H1004M\|בֵּ֤ית]] [[H3130G\|יוֹסֵף֙]] [[H3467\|אוֹשִׁ֔יעַ]] [[H9001\|וְ]][[H7725G\|הֽוֹשְׁבוֹתִי]][[H9038\|ם֙]] [[H3588A\|כִּ֣י]] [[H7355\|רִֽחַמְתִּ֔י]][[H9038\|ם]] [[H9001\|וְ]][[H1961\|הָי֖וּ]] [[H9004\|כַּ]][[H0834D\|אֲשֶׁ֣ר]] [[H3808\|לֹֽא]][[H9014\|־]] [[H2186A\|זְנַחְתִּ֑י]][[H9038\|ם]] [[H3588A\|כִּ֗י]] [[H0589\|אֲנִ֛י]] [[H3068G\|יְהוָ֥ה]] [[H0430G\|אֱלֹהֵי]][[H9028\|הֶ֖ם]] [[H9002\|וְ]][[H6030B\|אֶעֱנֵֽ]][[H9038\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BACKSLIDERS|BACKSLIDERS]] • [[topic GOD|GOD]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.10.6|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.10.5|<< Zechariah 10:5]]</td><td align="center" style="border:none;">[[Zech.10|Zechariah 10]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.10.7|Zechariah 10:7 >>]]</td></tr></table>
 

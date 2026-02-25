@@ -1,8 +1,70 @@
+---
+title: Deuteronomy 1:27
+type: Verse
+kjv: "And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us."
+bsb: "You grumbled in your tents and said, “Because the LORD hates us, He has brought us out of the land of Egypt to deliver us into the hand of the Amorites to be annihilated."
+hebrew: "וַתֵּרָגְנ֤וּ בְאָהֳלֵיכֶם֙ וַתֹּ֣אמְר֔וּ בְּשִׂנְאַ֤ת יְהוָה֙ אֹתָ֔נוּ הוֹצִיאָ֖נוּ מֵאֶ֣רֶץ מִצְרָ֑יִם לָתֵ֥ת אֹתָ֛נוּ בְּיַ֥ד הָאֱמֹרִ֖י לְהַשְׁמִידֵֽנוּ׃"
+pericope: "[[Deut.1.26 Israel’s Rebellion|Israel’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 1
+book/chapter: "[[Deut.1|Deuteronomy 1]]"
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic COWARDICE|COWARDICE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic REPROOF|REPROOF]]"
+strongs:
+- "[[H9001]]"
+- "[[H7279]]"
+- "[[H9003]]"
+- "[[H0168G]]"
+- "[[H9026]]"
+- "[[H0559]]"
+- "[[H8135]]"
+- "[[H3068G]]"
+- "[[H0853]]"
+- "[[H9035]]"
+- "[[H3318H]]"
+- "[[H9006]]"
+- "[[H0776G]]"
+- "[[H4714G]]"
+- "[[H9005]]"
+- "[[H5414G]]"
+- "[[H3027H]]"
+- "[[H9009]]"
+- "[[H0567]]"
+- "[[H8045]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 1:27**<big><big>[[Deut.1.26 Israel’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And ye murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.
 <small><sub>**BSB:**</sub></small>
 You grumbled in your tents and said, “Because the LORD hates us, He has brought us out of the land of Egypt to deliver us into the hand of the Amorites to be annihilated.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7279\|תֵּרָגְנ֤וּ]] [[H9003\|בְ]][[H0168G\|אָהֳלֵי]][[H9026\|כֶם֙]] [[H9001\|וַ]][[H0559\|תֹּ֣אמְר֔וּ]] [[H9003\|בְּ]][[H8135\|שִׂנְאַ֤ת]] [[H3068G\|יְהוָה֙]] [[H0853\|אֹתָ֔]][[H9035\|נוּ]] [[H3318H\|הוֹצִיאָ֖]][[H9035\|נוּ]] [[H9006\|מֵ]][[H0776G\|אֶ֣רֶץ]] [[H4714G\|מִצְרָ֑יִם]] [[H9005\|לָ]][[H5414G\|תֵ֥ת]] [[H0853\|אֹתָ֛]][[H9035\|נוּ]] [[H9003\|בְּ]][[H3027H\|יַ֥ד]] [[H9009\|הָ]][[H0567\|אֱמֹרִ֖י]] [[H9005\|לְ]][[H8045\|הַשְׁמִידֵֽ]][[H9035\|נוּ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COWARDICE|COWARDICE]] • [[topic FAITH|FAITH]] • [[topic MOSES|MOSES]] • [[topic MURMURING|MURMURING]] • [[topic REPROOF|REPROOF]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.1.27|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.1.26|<< Deuteronomy 1:26]]</td><td align="center" style="border:none;">[[Deut.1|Deuteronomy 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.1.28|Deuteronomy 1:28 >>]]</td></tr></table>
 

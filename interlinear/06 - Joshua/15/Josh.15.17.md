@@ -1,8 +1,63 @@
+---
+title: Joshua 15:17
+type: Verse
+kjv: "And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife."
+bsb: "So Othniel son of Caleb’s brother Kenaz captured the city, and Caleb gave his daughter Acsah to him in marriage."
+hebrew: "וַֽיִּלְכְּדָ֛הּ עָתְנִיאֵ֥ל בֶּן־ קְנַ֖ז אֲחִ֣י כָלֵ֑ב וַיִּתֶּן־ ל֛וֹ אֶת־ עַכְסָ֥ה בִתּ֖וֹ לְאִשָּֽׁה׃"
+pericope: "[[Josh.15.13 Caleb’s Portion and Conquest|Caleb’s Portion and Conquest]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic ACHSAH|ACHSAH]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic COURAGE|COURAGE]]"
+- "[[topic DEBIR|DEBIR]]"
+- "[[topic KENAZ|KENAZ]]"
+- "[[topic OTHNIEL|OTHNIEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H3920]]"
+- "[[H9034]]"
+- "[[H6274]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H7073I]]"
+- "[[H0251G]]"
+- "[[H3612G]]"
+- "[[H5414O]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0853]]"
+- "[[H5915G]]"
+- "[[H1323G]]"
+- "[[H9023]]"
+- "[[H0802H]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:17**<big><big>[[Josh.15.13 Caleb’s Portion and Conquest|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.
 <small><sub>**BSB:**</sub></small>
 So Othniel son of Caleb’s brother Kenaz captured the city, and Caleb gave his daughter Acsah to him in marriage.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H3920\|יִּלְכְּדָ֛]][[H9034\|הּ]] [[H6274\|עָתְנִיאֵ֥ל]] [[H1121A\|בֶּן]][[H9014\|־]] [[H7073I\|קְנַ֖ז]] [[H0251G\|אֲחִ֣י]] [[H3612G\|כָלֵ֑ב]] [[H9001\|וַ]][[H5414O\|יִּתֶּן]][[H9014\|־]] [[H9005\|ל֛]][[H9033\|וֹ]] [[H0853\|אֶת]][[H9014\|־]] [[H5915G\|עַכְסָ֥ה]] [[H1323G\|בִתּ֖]][[H9023\|וֹ]] [[H9005\|לְ]][[H0802H\|אִשָּֽׁה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACHSAH|ACHSAH]] • [[topic ARMIES|ARMIES]] • [[topic COURAGE|COURAGE]] • [[topic DEBIR|DEBIR]] • [[topic KENAZ|KENAZ]] • [[topic OTHNIEL|OTHNIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.16|<< Joshua 15:16]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.18|Joshua 15:18 >>]]</td></tr></table>
 

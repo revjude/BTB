@@ -1,8 +1,53 @@
+---
+title: Zechariah 9:4
+type: Verse
+kjv: "Behold, the Lord will cast her out, and he will smite her power in the sea; and she shall be devoured with fire."
+bsb: "Behold, the Lord will impoverish her and cast her wealth into the sea, and she will be consumed by fire."
+hebrew: "הִנֵּ֤ה אֲדֹנָי֙ יֽוֹרִשֶׁ֔נָּה וְהִכָּ֥ה בַיָּ֖ם חֵילָ֑הּ וְהִ֖יא בָּאֵ֥שׁ תֵּאָכֵֽל׃"
+pericope: "[[Zech.9.1 The Burden against Israel’s Enemies|The Burden against Israel’s Enemies]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 9
+book/chapter: "[[Zech.9|Zechariah 9]]"
+chronological_order: 865
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+strongs:
+- "[[H2009]]"
+- "[[H0136]]"
+- "[[H3423H]]"
+- "[[H9034]]"
+- "[[H9001]]"
+- "[[H5221]]"
+- "[[H9003]]"
+- "[[H3220G]]"
+- "[[H2428G]]"
+- "[[H9024]]"
+- "[[H9002]]"
+- "[[H1931]]"
+- "[[H0784]]"
+- "[[H0398]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 9:4**<big><big>[[Zech.9.1 The Burden against Israel’s Enemies|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Behold, the Lord will cast her out, and he will smite her power in the sea; and she shall be devoured with fire.
 <small><sub>**BSB:**</sub></small>
 Behold, the Lord will impoverish her and cast her wealth into the sea, and she will be consumed by fire.
+<small><sub>**Hebrew:**</sub></small>
+[[H2009\|הִנֵּ֤ה]] [[H0136\|אֲדֹנָי֙]] [[H3423H\|יֽוֹרִשֶׁ֔]][[H9034\|נָּה]] [[H9001\|וְ]][[H5221\|הִכָּ֥ה]] [[H9003\|בַ]][[H3220G\|יָּ֖ם]] [[H2428G\|חֵילָ֑]][[H9024\|הּ]] [[H9002\|וְ]][[H1931\|הִ֖יא]] [[H9003\|בָּ]][[H0784\|אֵ֥שׁ]] [[H0398\|תֵּאָכֵֽל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.9.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.9.3|<< Zechariah 9:3]]</td><td align="center" style="border:none;">[[Zech.9|Zechariah 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.9.5|Zechariah 9:5 >>]]</td></tr></table>
 

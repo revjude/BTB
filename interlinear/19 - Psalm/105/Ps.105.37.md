@@ -1,8 +1,57 @@
+---
+title: Psalm 105:37
+type: Verse
+kjv: "He brought them forth also with silver and gold: and there was not one feeble person among their tribes."
+bsb: "He brought Israel out with silver and gold, and none among His tribes stumbled."
+hebrew: "וַֽ֭יּוֹצִיאֵם בְּכֶ֣סֶף וְזָהָ֑ב וְאֵ֖ין בִּשְׁבָטָ֣יו כּוֹשֵֽׁל׃"
+pericope: "[[Ps.105.1 Tell of His Wonders|Tell of His Wonders]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 105
+book/chapter: "[[Ps.105|Psalm 105]]"
+chronological_order: 529
+era: United Kingdom
+period: "Solomon: Accession and Wisdom"
+date: ~970–930 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic GOD|GOD]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H9038]]"
+- "[[H9003]]"
+- "[[H3701G]]"
+- "[[H9002]]"
+- "[[H2091]]"
+- "[[H0369]]"
+- "[[H7626H]]"
+- "[[H9023]]"
+- "[[H3782]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 105:37**<big><big>[[Ps.105.1 Tell of His Wonders|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He brought them forth also with silver and gold: and [there was] not one feeble [person] among their tribes.
 <small><sub>**BSB:**</sub></small>
 He brought Israel out with silver and gold, and none among His tribes stumbled.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ֭]][[H3318H\|יּוֹצִיאֵ]][[H9038\|ם]] [[H9003\|בְּ]][[H3701G\|כֶ֣סֶף]] [[H9002\|וְ]][[H2091\|זָהָ֑ב]] [[H9002\|וְ]][[H0369\|אֵ֖ין]] [[H9003\|בִּ]][[H7626H\|שְׁבָטָ֣י]][[H9023\|ו]] [[H3782\|כּוֹשֵֽׁל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GOD|GOD]] • [[topic ISRAEL|ISRAEL]] • [[topic THANKFULNESS|THANKFULNESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.105.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.105.36|<< Psalms 105:36]]</td><td align="center" style="border:none;">[[Ps.105|Psalms 105]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.105.38|Psalms 105:38 >>]]</td></tr></table>
 

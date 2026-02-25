@@ -1,8 +1,59 @@
+---
+title: Genesis 42:30
+type: Verse
+kjv: "The man, who is the lord of the land, spake roughly to us, and took us for spies of the country."
+bsb: "“The man who is lord of the land spoke harshly to us and accused us of spying on the country."
+hebrew: "דִּ֠בֶּר הָאִ֨ישׁ אֲדֹנֵ֥י הָאָ֛רֶץ אִתָּ֖נוּ קָשׁ֑וֹת וַיִּתֵּ֣ן אֹתָ֔נוּ כִּֽמְרַגְּלִ֖ים אֶת־ הָאָֽרֶץ׃"
+pericope: "[[Gen.42.25 Joseph’s Brothers Return to Canaan|Joseph’s Brothers Return to Canaan]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 42
+book/chapter: "[[Gen.42|Genesis 42]]"
+chronological_order: 84
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic COMMERCE|COMMERCE]]"
+- "[[topic MONEY|MONEY]]"
+strongs:
+- "[[H1696G]]"
+- "[[H9009]]"
+- "[[H0376G]]"
+- "[[H0113]]"
+- "[[H0776G]]"
+- "[[H0854]]"
+- "[[H9035]]"
+- "[[H7186]]"
+- "[[H9001]]"
+- "[[H5414I]]"
+- "[[H0853]]"
+- "[[H9004]]"
+- "[[H7270]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 42:30**<big><big>[[Gen.42.25 Joseph’s Brothers Return to Canaan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The man, [who is] the lord of the land, spake roughly to us, and took us for spies of the country.
 <small><sub>**BSB:**</sub></small>
 “The man who is lord of the land spoke harshly to us and accused us of spying on the country.
+<small><sub>**Hebrew:**</sub></small>
+[[H1696G\|דִּ֠בֶּר]] [[H9009\|הָ]][[H0376G\|אִ֨ישׁ]] [[H0113\|אֲדֹנֵ֥י]] [[H9009\|הָ]][[H0776G\|אָ֛רֶץ]] [[H0854\|אִתָּ֖]][[H9035\|נוּ]] [[H7186\|קָשׁ֑וֹת]] [[H9001\|וַ]][[H5414I\|יִּתֵּ֣ן]] [[H0853\|אֹתָ֔]][[H9035\|נוּ]] [[H9004\|כִּֽ]][[H7270\|מְרַגְּלִ֖ים]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ]][[H0776G\|אָֽרֶץ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COMMERCE|COMMERCE]] • [[topic MONEY|MONEY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.42.30|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.42.29|<< Genesis 42:29]]</td><td align="center" style="border:none;">[[Gen.42|Genesis 42]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.42.31|Genesis 42:31 >>]]</td></tr></table>
 

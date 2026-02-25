@@ -1,8 +1,56 @@
+---
+title: Ezra 2:65
+type: Verse
+kjv: "Beside their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women."
+bsb: "in addition to their 7,337 menservants and maidservants, as well as their 200 male and female singers."
+hebrew: "מִ֠לְּבַד עַבְדֵיהֶ֤ם וְאַמְהֹֽתֵיהֶם֙ אֵ֔לֶּה שִׁבְעַ֣ת אֲלָפִ֔ים שְׁלֹ֥שׁ מֵא֖וֹת שְׁלֹשִׁ֣ים וְשִׁבְעָ֑ה וְלָהֶ֛ם מְשֹׁרְרִ֥ים וּֽמְשֹׁרְר֖וֹת מָאתָֽיִם׃"
+pericope: "[[Ezra.2.1 The List of Returning Exiles|The List of Returning Exiles]]"
+original_language: Hebrew
+testament: Old
+book: Ezra
+chapter: 2
+book/chapter: "[[Ezra.2|Ezra 2]]"
+chronological_order: 850
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–516 BC
+book_genre:
+- narrative
+- post exilic
+- restoration narrative
+- memoir
+topics:
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9006]]"
+- "[[H9005]]"
+- "[[H0905J]]"
+- "[[H5650]]"
+- "[[H9028]]"
+- "[[H9002]]"
+- "[[H0519]]"
+- "[[H0428]]"
+- "[[H7651]]"
+- "[[H0505G]]"
+- "[[H7969]]"
+- "[[H3967]]"
+- "[[H7970]]"
+- "[[H9038]]"
+- "[[H7891]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Ezra 2:65**<big><big>[[Ezra.2.1 The List of Returning Exiles|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Beside their servants and their maids, of whom [there were] seven thousand three hundred thirty and seven: and [there were] among them two hundred singing men and singing women.
 <small><sub>**BSB:**</sub></small>
 in addition to their 7,337 menservants and maidservants, as well as their 200 male and female singers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ֠]][[H9005\|לְּ]][[H0905J\|בַד]] [[H5650\|עַבְדֵי]][[H9028\|הֶ֤ם]] [[H9002\|וְ]][[H0519\|אַמְהֹֽתֵי]][[H9028\|הֶם֙]] [[H0428\|אֵ֔לֶּה]] [[H7651\|שִׁבְעַ֣ת]] [[H0505G\|אֲלָפִ֔ים]] [[H7969\|שְׁלֹ֥שׁ]] [[H3967\|מֵא֖וֹת]] [[H7970\|שְׁלֹשִׁ֣ים]] [[H9002\|וְ]][[H7651\|שִׁבְעָ֑ה]] [[H9002\|וְ]][[H9005\|לָ]][[H9038\|הֶ֛ם]] [[H7891\|מְשֹׁרְרִ֥ים]] [[H9002\|וּֽ]][[H7891\|מְשֹׁרְר֖וֹת]] [[H3967\|מָאתָֽיִם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ezra.2.65|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ezra.2.64|<< Ezra 2:64]]</td><td align="center" style="border:none;">[[Ezra.2|Ezra 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ezra.2.66|Ezra 2:66 >>]]</td></tr></table>
 

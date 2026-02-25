@@ -1,8 +1,52 @@
+---
+title: Job 7:11
+type: Verse
+kjv: "Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."
+bsb: "Therefore I will not restrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul."
+hebrew: "גַּם־ אֲנִי֮ לֹ֤א אֶחֱשָׂ֫ךְ פִּ֥י אֲֽ֭דַבְּרָה בְּצַ֣ר רוּחִ֑י אָ֝שִׂ֗יחָה בְּמַ֣ר נַפְשִֽׁי׃"
+pericope: "[[Job.7.1 Job Continues：Life Seems Futile|Job Continues：Life Seems Futile]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 7
+book/chapter: "[[Job.7|Job 7]]"
+chronological_order: 18
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+strongs:
+- "[[H1571]]"
+- "[[H9014]]"
+- "[[H0589]]"
+- "[[H3808]]"
+- "[[H2820]]"
+- "[[H6310G]]"
+- "[[H9020]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H6862B]]"
+- "[[H7307G]]"
+- "[[H7878]]"
+- "[[H4751]]"
+- "[[H5315G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Job 7:11**<big><big>[[Job.7.1 Job Continues：Life Seems Futile|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Therefore I will not refrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.
 <small><sub>**BSB:**</sub></small>
 Therefore I will not restrain my mouth; I will speak in the anguish of my spirit; I will complain in the bitterness of my soul.
+<small><sub>**Hebrew:**</sub></small>
+[[H1571\|גַּם]][[H9014\|־]] [[H0589\|אֲנִי֮]] [[H3808\|לֹ֤א]] [[H2820\|אֶחֱשָׂ֫ךְ]] [[H6310G\|פִּ֥]][[H9020\|י]] [[H1696G\|אֲֽ֭דַבְּרָה]] [[H9003\|בְּ]][[H6862B\|צַ֣ר]] [[H7307G\|רוּחִ֑]][[H9020\|י]] [[H7878\|אָ֝שִׂ֗יחָה]] [[H9003\|בְּ]][[H4751\|מַ֣ר]] [[H5315G\|נַפְשִֽׁ]][[H9020\|י]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.7.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.7.10|<< Job 7:10]]</td><td align="center" style="border:none;">[[Job.7|Job 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.7.12|Job 7:12 >>]]</td></tr></table>
 

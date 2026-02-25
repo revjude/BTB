@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Saul’s Confession
+type: Pericope
 pericope: "[[1Sam.15.24 Saul’s Confession|Saul’s Confession]]"
-verse_count: 12
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 15
 book/chapter: "[[1Sam.15|1 Samuel 15]]"
-genre:
+chronological_order: 294
+era: United Kingdom
+period: "The Reign of Saul"
+date: ~1050–1010 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 12
 verses:
 - "[[1Sam.15.24]]"
 - "[[1Sam.15.25]]"
@@ -30,7 +37,7 @@ verses:
 - "[[1Sam.15.35]]"
 ---
 
-[[1Sam.15|1 Samuel 15:24 - 1 Samuel 15:35]]
+<small>[[1Sam.15|1 Samuel 15:24-35]]</small>
 *Saul’s Confession*
 
 [[1Sam.15.24|24]] And Saul said unto Samuel, I have sinned: for I have transgressed the commandment of the LORD, and thy words: because I feared the people, and obeyed their voice.

@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Counsel of Ahithophel and Hushai
+type: Pericope
 pericope: "[[2Sam.16.15 The Counsel of Ahithophel and Hushai|The Counsel of Ahithophel and Hushai]]"
-verse_count: 9
+original_language: Hebrew
 testament: Old
 book: 2 Samuel
 chapter: 16
 book/chapter: "[[2Sam.16|2 Samuel 16]]"
-genre:
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
 - succession narrative
+verse_count: 9
 verses:
 - "[[2Sam.16.15]]"
 - "[[2Sam.16.16]]"
@@ -28,7 +35,7 @@ verses:
 - "[[2Sam.16.23]]"
 ---
 
-[[2Sam.16|2 Samuel 16:15 - 2 Samuel 16:23]]
+<small>[[2Sam.16|2 Samuel 16:15-23]]</small>
 *The Counsel of Ahithophel and Hushai*
 
 [[2Sam.16.15|15]] And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him.

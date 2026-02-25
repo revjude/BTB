@@ -1,8 +1,65 @@
+---
+title: 2 Chronicles 21:4
+type: Verse
+kjv: "Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and divers also of the princes of Israel."
+bsb: "When Jehoram had established himself over his father’s kingdom, he strengthened himself by putting to the sword all his brothers along with some of the princes of Israel."
+hebrew: "וַיָּ֨קָם יְהוֹרָ֜ם עַל־ מַמְלֶ֤כַת אָבִיו֙ וַיִּתְחַזַּ֔ק וַיַּהֲרֹ֥ג אֶת־ כָּל־ אֶחָ֖יו בֶּחָ֑רֶב וְגַ֖ם מִשָּׂרֵ֥י יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.21.1 Jehoram Reigns in Judah|Jehoram Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 21
+book/chapter: "[[2Chr.21|2 Chronicles 21]]"
+chronological_order: 586
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~853–796 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic FRATRICIDE|FRATRICIDE]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic JEHORAM|JEHORAM]]"
+- "[[topic KING|KING]]"
+- "[[topic MICHAEL|MICHAEL]]"
+strongs:
+- "[[H9001]]"
+- "[[H6965B]]"
+- "[[H3088G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4467]]"
+- "[[H0001G]]"
+- "[[H9023]]"
+- "[[H2388G]]"
+- "[[H2026]]"
+- "[[H0853]]"
+- "[[H3605]]"
+- "[[H0251G]]"
+- "[[H9003]]"
+- "[[H2719]]"
+- "[[H9002]]"
+- "[[H1571]]"
+- "[[H9006]]"
+- "[[H8269]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 21:4**<big><big>[[2Chr.21.1 Jehoram Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and [divers] also of the princes of Israel.
 <small><sub>**BSB:**</sub></small>
 When Jehoram had established himself over his father’s kingdom, he strengthened himself by putting to the sword all his brothers along with some of the princes of Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H6965B\|יָּ֨קָם]] [[H3088G\|יְהוֹרָ֜ם]] [[H5921A\|עַל]][[H9014\|־]] [[H4467\|מַמְלֶ֤כַת]] [[H0001G\|אָבִי]][[H9023\|ו֙]] [[H9001\|וַ]][[H2388G\|יִּתְחַזַּ֔ק]] [[H9001\|וַ]][[H2026\|יַּהֲרֹ֥ג]] [[H0853\|אֶת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0251G\|אֶחָ֖י]][[H9023\|ו]] [[H9003\|בֶּ]][[H2719\|חָ֑רֶב]] [[H9002\|וְ]][[H1571\|גַ֖ם]] [[H9006\|מִ]][[H8269\|שָּׂרֵ֥י]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FRATRICIDE|FRATRICIDE]] • [[topic HOMICIDE|HOMICIDE]] • [[topic JEHORAM|JEHORAM]] • [[topic KING|KING]] • [[topic MICHAEL|MICHAEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.21.3|<< 2 Chronicles 21:3]]</td><td align="center" style="border:none;">[[2Chr.21|2 Chronicles 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.21.5|2 Chronicles 21:5 >>]]</td></tr></table>
 

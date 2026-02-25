@@ -1,8 +1,59 @@
+---
+title: Judges 20:46
+type: Verse
+kjv: "So that all which fell that day of Benjamin were twenty and five thousand men that drew the sword; all these were men of valour."
+bsb: "That day 25,000 Benjamite swordsmen fell, all men of valor."
+hebrew: "וַיְהִי֩ כָל־ הַנֹּ֨פְלִ֜ים מִבִּנְיָמִ֗ן עֶשְׂרִים֩ וַחֲמִשָּׁ֨ה אֶ֥לֶף אִ֛ישׁ שֹׁ֥לֵֽף חֶ֖רֶב בַּיּ֣וֹם הַה֑וּא אֶֽת־ כָּל־ אֵ֖לֶּה אַנְשֵׁי־ חָֽיִל׃"
+pericope: "[[Judg.20.18 Civil War against Benjamin|Civil War against Benjamin]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 20
+book/chapter: "[[Judg.20|Judges 20]]"
+chronological_order: 274
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+strongs:
+- "[[H9001]]"
+- "[[H1961]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H5307J]]"
+- "[[H9006]]"
+- "[[H1144G]]"
+- "[[H6242]]"
+- "[[H9002]]"
+- "[[H2568]]"
+- "[[H0505G]]"
+- "[[H0376G]]"
+- "[[H8025]]"
+- "[[H2719]]"
+- "[[H9003]]"
+- "[[H3117G]]"
+- "[[H1931]]"
+- "[[H0853]]"
+- "[[H0428]]"
+- "[[H0582]]"
+- "[[H2428G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 20:46**<big><big>[[Judg.20.18 Civil War against Benjamin|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 So that all which fell that day of Benjamin were twenty and five thousand men that drew the sword; all these [were] men of valour.
 <small><sub>**BSB:**</sub></small>
 That day 25,000 Benjamite swordsmen fell, all men of valor.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H1961\|יְהִי֩]] [[H3605\|כָל]][[H9014\|־]] [[H9009\|הַ]][[H5307J\|נֹּ֨פְלִ֜ים]] [[H9006\|מִ]][[H1144G\|בִּנְיָמִ֗ן]] [[H6242\|עֶשְׂרִים֩]] [[H9002\|וַ]][[H2568\|חֲמִשָּׁ֨ה]] [[H0505G\|אֶ֥לֶף]] [[H0376G\|אִ֛ישׁ]] [[H8025\|שֹׁ֥לֵֽף]] [[H2719\|חֶ֖רֶב]] [[H9003\|בַּ]][[H3117G\|יּ֣וֹם]] [[H9009\|הַ]][[H1931\|ה֑וּא]] [[H0853\|אֶֽת]][[H9014\|־]] [[H3605\|כָּל]][[H9014\|־]] [[H0428\|אֵ֖לֶּה]] [[H0582\|אַנְשֵׁי]][[H9014\|־]] [[H2428G\|חָֽיִל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.20.46|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.20.45|<< Judges 20:45]]</td><td align="center" style="border:none;">[[Judg.20|Judges 20]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.20.47|Judges 20:47 >>]]</td></tr></table>
 

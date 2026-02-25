@@ -1,8 +1,56 @@
+---
+title: Psalm 102:10
+type: Verse
+kjv: "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down."
+bsb: "because of Your indignation and wrath, for You have picked me up and cast me aside."
+hebrew: "מִפְּנֵֽי־ זַֽעַמְךָ֥ וְקִצְפֶּ֑ךָ כִּ֥י נְ֝שָׂאתַ֗נִי וַתַּשְׁלִיכֵֽנִי׃"
+pericope: "[[Ps.102.1 The Prayer of the Afflicted|The Prayer of the Afflicted]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 102
+book/chapter: "[[Ps.102|Psalm 102]]"
+chronological_order: 784
+era: Exile
+period: "Exile in Babylon: Lamentations"
+date: ~586–538 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+strongs:
+- "[[H9006]]"
+- "[[H6440I]]"
+- "[[H9014]]"
+- "[[H2195]]"
+- "[[H9021]]"
+- "[[H9002]]"
+- "[[H7110A]]"
+- "[[H3588A]]"
+- "[[H5375G]]"
+- "[[H9030]]"
+- "[[H9001]]"
+- "[[H7993]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 102:10**<big><big>[[Ps.102.1 The Prayer of the Afflicted|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.
 <small><sub>**BSB:**</sub></small>
 because of Your indignation and wrath, for You have picked me up and cast me aside.
+<small><sub>**Hebrew:**</sub></small>
+[[H9006\|מִ]][[H6440I\|פְּנֵֽי]][[H9014\|־]] [[H2195\|זַֽעַמְ]][[H9021\|ךָ֥]] [[H9002\|וְ]][[H7110A\|קִצְפֶּ֑]][[H9021\|ךָ]] [[H3588A\|כִּ֥י]] [[H5375G\|נְ֝שָׂאתַ֗]][[H9030\|נִי]] [[H9001\|וַ]][[H7993\|תַּשְׁלִיכֵֽ]][[H9030\|נִי]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.102.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.102.9|<< Psalms 102:9]]</td><td align="center" style="border:none;">[[Ps.102|Psalms 102]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.102.11|Psalms 102:11 >>]]</td></tr></table>
 

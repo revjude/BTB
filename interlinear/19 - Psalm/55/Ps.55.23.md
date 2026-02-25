@@ -1,8 +1,71 @@
+---
+title: Psalm 55:23
+type: Verse
+kjv: "But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee."
+bsb: "But You, O God, will bring them down to the Pit of destruction; men of bloodshed and deceit will not live out half their days. But I will trust in You."
+hebrew: "וְאַתָּ֤ה אֱלֹהִ֨ים׀ תּוֹרִדֵ֬ם׀ לִבְאֵ֬ר שַׁ֗חַת אַנְשֵׁ֤י דָמִ֣ים וּ֭מִרְמָה לֹא־ יֶחֱצ֣וּ יְמֵיהֶ֑ם וַ֝אֲנִ֗י אֶבְטַח־ בָּֽךְ׃"
+pericope: "[[Ps.55.1 Cast Your Burden upon the LORD|Cast Your Burden upon the LORD]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 55
+book/chapter: "[[Ps.55|Psalm 55]]"
+chronological_order: 370
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic DECEIT|DECEIT]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic HOMICIDE|HOMICIDE]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9002]]"
+- "[[H0859A]]"
+- "[[H0430G]]"
+- "[[H9015]]"
+- "[[H3381]]"
+- "[[H9038]]"
+- "[[H9005]]"
+- "[[H0875]]"
+- "[[H7845G]]"
+- "[[H0582]]"
+- "[[H1818]]"
+- "[[H4820]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H2673]]"
+- "[[H3117G]]"
+- "[[H9028]]"
+- "[[H0589]]"
+- "[[H0982]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 55:23**<big><big>[[Ps.55.1 Cast Your Burden upon the LORD|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou, O God, shalt bring them down into the pit of destruction: bloody and deceitful men shall not live out half their days; but I will trust in thee.
 <small><sub>**BSB:**</sub></small>
 But You, O God, will bring them down to the Pit of destruction; men of bloodshed and deceit will not live out half their days. But I will trust in You.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H0859A\|אַתָּ֤ה]] [[H0430G\|אֱלֹהִ֨ים]][[H9015\|׀]] [[H3381\|תּוֹרִדֵ֬]][[H9038\|ם]][[H9015\|׀]] [[H9005\|לִ]][[H0875\|בְאֵ֬ר]] [[H7845G\|שַׁ֗חַת]] [[H0582\|אַנְשֵׁ֤י]] [[H1818\|דָמִ֣ים]] [[H9002\|וּ֭]][[H4820\|מִרְמָה]] [[H3808\|לֹא]][[H9014\|־]] [[H2673\|יֶחֱצ֣וּ]] [[H3117G\|יְמֵי]][[H9028\|הֶ֑ם]] [[H9002\|וַ֝]][[H0589\|אֲנִ֗י]] [[H0982\|אֶבְטַח]][[H9014\|־]] [[H9003\|בָּֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic DECEIT|DECEIT]] • [[topic FAITH|FAITH]] • [[topic FALSEHOOD|FALSEHOOD]] • [[topic HOMICIDE|HOMICIDE]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.55.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.55.22|<< Psalms 55:22]]</td><td align="center" style="border:none;">[[Ps.55|Psalms 55]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.56.0|Psalms 56:0 >>]]</td></tr></table>
 

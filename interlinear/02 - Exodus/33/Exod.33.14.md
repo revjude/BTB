@@ -1,8 +1,57 @@
+---
+title: Exodus 33:14
+type: Verse
+kjv: "And he said, My presence shall go with thee, and I will give thee rest."
+bsb: "And the LORD answered, “My Presence will go with you, and I will give you rest.”"
+hebrew: "וַיֹּאמַ֑ר פָּנַ֥י יֵלֵ֖כוּ וַהֲנִחֹ֥תִי לָֽךְ׃"
+pericope: "[[Exod.33.12 The Promise of God’s Presence|The Promise of God’s Presence]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 33
+book/chapter: "[[Exod.33|Exodus 33]]"
+chronological_order: 125
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic BOLDNESS|BOLDNESS]]"
+- "[[topic FELLOWSHIP|FELLOWSHIP]]"
+- "[[topic GOD|GOD]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6440H]]"
+- "[[H9020]]"
+- "[[H1980G]]"
+- "[[H5117]]"
+- "[[H9005]]"
+- "[[H9031]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 33:14**<big><big>[[Exod.33.12 The Promise of God’s Presence|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he said, My presence shall go [with thee], and I will give thee rest.
 <small><sub>**BSB:**</sub></small>
 And the LORD answered, “My Presence will go with you, and I will give you rest.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמַ֑ר]] [[H6440H\|פָּנַ֥]][[H9020\|י]] [[H1980G\|יֵלֵ֖כוּ]] [[H9001\|וַ]][[H5117\|הֲנִחֹ֥תִי]] [[H9005\|לָֽ]][[H9031\|ךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BOLDNESS|BOLDNESS]] • [[topic FELLOWSHIP|FELLOWSHIP]] • [[topic GOD|GOD]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.33.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.33.13|<< Exodus 33:13]]</td><td align="center" style="border:none;">[[Exod.33|Exodus 33]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.33.15|Exodus 33:15 >>]]</td></tr></table>
 

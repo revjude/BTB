@@ -1,8 +1,59 @@
+---
+title: 2 Kings 3:23
+type: Verse
+kjv: "And they said, This is blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil."
+bsb: "“This is blood!” they exclaimed. “The kings have clashed swords and slaughtered one another. Now to the plunder, Moab!”"
+hebrew: "וַיֹּֽאמְרוּ֙ דָּ֣ם זֶ֔ה הָחֳרֵ֤ב נֶֽחֶרְבוּ֙ הַמְּלָכִ֔ים וַיַּכּ֖וּ אִ֣ישׁ אֶת־ רֵעֵ֑הוּ וְעַתָּ֥ה לַשָּׁלָ֖ל מוֹאָֽב׃"
+pericope: "[[2Kgs.3.1 Moab’s Rebellion|Moab’s Rebellion]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 3
+book/chapter: "[[2Kgs.3|2 Kings 3]]"
+chronological_order: 575
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic MOABITES|MOABITES]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H1818]]"
+- "[[H2088]]"
+- "[[H2717C]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5221]]"
+- "[[H0376I]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H7453]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9005]]"
+- "[[H7998]]"
+- "[[H4124G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 3:23**<big><big>[[2Kgs.3.1 Moab’s Rebellion|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said, This [is] blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil.
 <small><sub>**BSB:**</sub></small>
 “This is blood!” they exclaimed. “The kings have clashed swords and slaughtered one another. Now to the plunder, Moab!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּֽאמְרוּ֙]] [[H1818\|דָּ֣ם]] [[H2088\|זֶ֔ה]] [[H2717C\|הָחֳרֵ֤ב]] [[H2717C\|נֶֽחֶרְבוּ֙]] [[H9009\|הַ]][[H4428G\|מְּלָכִ֔ים]] [[H9001\|וַ]][[H5221\|יַּכּ֖וּ]] [[H0376I\|אִ֣ישׁ]] [[H0853\|אֶת]][[H9014\|־]] [[H7453\|רֵעֵ֑]][[H9023\|הוּ]] [[H9002\|וְ]][[H6258\|עַתָּ֥ה]] [[H9005\|לַ]][[H7998\|שָּׁלָ֖ל]] [[H4124G\|מוֹאָֽב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic MOABITES|MOABITES]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.3.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.3.22|<< 2 Kings 3:22]]</td><td align="center" style="border:none;">[[2Kgs.3|2 Kings 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.3.24|2 Kings 3:24 >>]]</td></tr></table>
 

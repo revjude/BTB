@@ -1,8 +1,61 @@
+---
+title: Psalm 116:13
+type: Verse
+kjv: "I will take the cup of salvation, and call upon the name of the LORD."
+bsb: "I will lift the cup of salvation and call on the name of the LORD."
+hebrew: "כּוֹס־ יְשׁוּע֥וֹת אֶשָּׂ֑א וּבְשֵׁ֖ם יְהוָ֣ה אֶקְרָֽא׃"
+pericope: "[[Ps.116.1 The LORD Has Heard My Voice|The LORD Has Heard My Voice]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 116
+book/chapter: "[[Ps.116|Psalm 116]]"
+chronological_order: 878
+era: Return
+period: "Return from Exile: First Return Under Zerubbabel"
+date: ~538–430 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic CUP|CUP]]"
+- "[[topic DECISION|DECISION]]"
+- "[[topic GOD|GOD]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SALVATION|SALVATION]]"
+- "[[topic TESTIMONY|TESTIMONY]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic WORSHIP|WORSHIP]]"
+strongs:
+- "[[H3563A]]"
+- "[[H9014]]"
+- "[[H3444]]"
+- "[[H5375G]]"
+- "[[H9002]]"
+- "[[H9003]]"
+- "[[H8034]]"
+- "[[H3068G]]"
+- "[[H7121G]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 116:13**<big><big>[[Ps.116.1 The LORD Has Heard My Voice|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 I will take the cup of salvation, and call upon the name of the LORD.
 <small><sub>**BSB:**</sub></small>
 I will lift the cup of salvation and call on the name of the LORD.
+<small><sub>**Hebrew:**</sub></small>
+[[H3563A\|כּוֹס]][[H9014\|־]] [[H3444\|יְשׁוּע֥וֹת]] [[H5375G\|אֶשָּׂ֑א]] [[H9002\|וּ]][[H9003\|בְ]][[H8034\|שֵׁ֖ם]] [[H3068G\|יְהוָ֣ה]] [[H7121G\|אֶקְרָֽא]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CUP|CUP]] • [[topic DECISION|DECISION]] • [[topic GOD|GOD]] • [[topic OBLIGATION|OBLIGATION]] • [[topic PRAISE|PRAISE]] • [[topic SALVATION|SALVATION]] • [[topic TESTIMONY|TESTIMONY]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic WORSHIP|WORSHIP]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.116.13|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.116.12|<< Psalms 116:12]]</td><td align="center" style="border:none;">[[Ps.116|Psalms 116]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.116.14|Psalms 116:14 >>]]</td></tr></table>
 

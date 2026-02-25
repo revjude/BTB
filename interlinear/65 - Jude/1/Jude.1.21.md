@@ -1,10 +1,50 @@
+---
+title: Jude 1:21
+type: Verse
+kjv: "Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life."
+bsb: "keep yourselves in the love of God as you await the mercy of our Lord Jesus Christ to bring you eternal life."
+greek: "ἑαυτοὺς ἐν ἀγάπῃ θεοῦ τηρήσατε, προσδεχόμενοι τὸ ἔλεος τοῦ κυρίου ἡμῶν Ἰησοῦ Χριστοῦ εἰς ζωὴν αἰώνιον."
+pericope: "[[Jude.1.17 A Call to Persevere|A Call to Persevere]]"
+original_language: Greek
+testament: New
+book: Jude
+chapter: 1
+book/chapter: "[[Jude.1|Jude 1]]"
+chronological_order: 1160
+era: Church
+period: "Peter's Second Epistle and Jude"
+date: ~AD 67–68
+book_genre:
+- epistle
+- general epistle
+- polemical
+strongs:
+- "[[G1438]]"
+- "[[G1722]]"
+- "[[G0026]]"
+- "[[G2316]]"
+- "[[G5083G]]"
+- "[[G4327]]"
+- "[[G3588]]"
+- "[[G1656]]"
+- "[[G2962G]]"
+- "[[G3165]]"
+- "[[G2424G]]"
+- "[[G5547]]"
+- "[[G1519]]"
+- "[[G2222]]"
+- "[[G0166]]"
+texts:
+- NKO
+---
+
 **Jude 1:21**<big><big>[[Jude.1.17 A Call to Persevere|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
 <small><sub>**BSB:**</sub></small>
 keep yourselves in the love of God as you await the mercy of our Lord Jesus Christ to bring you eternal life.
-<small><sub>**Literal:**</sub></small>
-yourselves in [the] love of God do keep, awaiting the mercy of the Lord of us Jesus Christ unto life eternal.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.20|<< Jude 1:20]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.22|Jude 1:22 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G1438\|ἑαυτοὺς]]  [[G1722\|ἐν]]  [[G0026\|ἀγάπῃ]]  [[G2316\|θεοῦ]]  [[G5083G\|τηρήσατε,]]  [[G4327\|προσδεχόμενοι]]  [[G3588\|τὸ]]  [[G1656\|ἔλεος]]  [[G3588\|τοῦ]]  [[G2962G\|κυρίου]]  [[G3165\|ἡμῶν]]  [[G2424G\|Ἰησοῦ]]  [[G5547\|Χριστοῦ]]  [[G1519\|εἰς]]  [[G2222\|ζωὴν]]  [[G0166\|αἰώνιον.]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jude.1.20|<< Jude 1:20]]</td><td align="center" style="border:none;">[[Jude.1|Jude 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jude.1.22|Jude 1:22 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

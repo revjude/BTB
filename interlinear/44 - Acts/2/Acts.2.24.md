@@ -1,10 +1,59 @@
+---
+title: Acts 2:24
+type: Verse
+kjv: "Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it."
+bsb: "But God raised Him from the dead, releasing Him from the agony of death, because it was impossible for death to keep Him in its grip."
+greek: "ὃν ὁ θεὸς ἀνέστησεν λύσας τὰς ὠδῖνας τοῦ θανάτου, καθότι οὐκ ἦν δυνατὸν κρατεῖσθαι αὐτὸν ὑπ᾽ αὐτοῦ.¶"
+pericope: "[[Acts.2.14 Peter Addresses the Crowd|Peter Addresses the Crowd]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 2
+book/chapter: "[[Acts.2|Acts 2]]"
+chronological_order: 1020
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic ORATOR|ORATOR]]"
+- "[[topic PETER|PETER]]"
+- "[[topic PREACHING|PREACHING]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic REVIVALS|REVIVALS]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[G3739]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G0450]]"
+- "[[G3089]]"
+- "[[G5604]]"
+- "[[G2288]]"
+- "[[G2530]]"
+- "[[G3756]]"
+- "[[G1510]]"
+- "[[G1415]]"
+- "[[G2902]]"
+- "[[G0846]]"
+- "[[G5259G]]"
+texts:
+- NKO
+---
+
 **Acts 2:24**<big><big>[[Acts.2.14 Peter Addresses the Crowd|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it.
 <small><sub>**BSB:**</sub></small>
 But God raised Him from the dead, releasing Him from the agony of death, because it was impossible for death to keep Him in its grip.
-<small><sub>**Literal:**</sub></small>
-whom <the> God raised up having loosed the agony <the> of death, inasmuch as not it was possible [for] to be held Him by it.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.23|<< Acts 2:23]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.25|Acts 2:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃν]]  [[G3588\|ὁ]]  [[G2316\|θεὸς]]  [[G0450\|ἀνέστησεν]]  [[G3089\|λύσας]]  [[G3588\|τὰς]]  [[G5604\|ὠδῖνας]]  [[G3588\|τοῦ]]  [[G2288\|θανάτου,]]  [[G2530\|καθότι]]  [[G3756\|οὐκ]]  [[G1510\|ἦν]]  [[G1415\|δυνατὸν]]  [[G2902\|κρατεῖσθαι]]  [[G0846\|αὐτὸν]]  [[G5259G\|ὑπ᾽]]  [[G0846\|αὐτοῦ.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic ORATOR|ORATOR]] • [[topic PETER|PETER]] • [[topic PREACHING|PREACHING]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic REVIVALS|REVIVALS]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.2.23|<< Acts 2:23]]</td><td align="center" style="border:none;">[[Acts.2|Acts 2]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.2.25|Acts 2:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

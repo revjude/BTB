@@ -1,10 +1,63 @@
+---
+title: Matthew 12:3
+type: Verse
+kjv: "But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;"
+bsb: "Jesus replied, “Have you not read what David did when he and his companions were hungry?"
+jesus_said: "Have ye not read what David did, when he was an hungred, and they that were with him;"
+greek: "Ὁ δὲ εἶπεν αὐτοῖς· οὐκ ἀνέγνωτε τί ἐποίησεν Δαυὶδ ὅτε ἐπείνασεν αὐτὸς καὶ οἱ μετ᾽ αὐτοῦ;"
+pericope: "[[Matt.12.1 The Lord of the Sabbath|The Lord of the Sabbath]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 12
+book/chapter: "[[Matt.12|Matthew 12]]"
+chronological_order: 956
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic FORM|FORM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic SABBATH|SABBATH]]"
+- "[[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]]"
+- "[[topic TRADITION|TRADITION]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G0846]]"
+- "[[G3756]]"
+- "[[G0314]]"
+- "[[G5101]]"
+- "[[G4160G]]"
+- "[[G1138]]"
+- "[[G3753]]"
+- "[[G3983]]"
+- "[[G2532]]"
+- "[[G3326]]"
+texts:
+- NKO
+- k
+---
+
 **Matthew 12:3**<big><big>[[Matt.12.1 The Lord of the Sabbath|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;
 <small><sub>**BSB:**</sub></small>
 Jesus replied, “Have you not read what David did when he and his companions were hungry?
-<small><sub>**Literal:**</sub></small>
-He then said to them; Surely you have read what did David when he was hungry he himself and those with him?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.2|<< Matthew 12:2]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.4|Matthew 12:4 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|Ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν]]  [[G0846\|αὐτοῖς·]]  [[G3756\|οὐκ]]  [[G0314\|ἀνέγνωτε]]  [[G5101\|τί]]  [[G4160G\|ἐποίησεν]]  [[G1138\|Δαυὶδ]]  [[G3753\|ὅτε]]  [[G3983\|ἐπείνασεν]]  [[G0846\|αὐτὸς]]  [[G2532\|καὶ]]  [[G3588\|οἱ]]  [[G3326\|μετ᾽]]  [[G0846\|αὐτοῦ;]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ACCUSATION, FALSE|ACCUSATION, FALSE]] • [[topic DAVID|DAVID]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic FORM|FORM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic PHARISEES|PHARISEES]] • [[topic SABBATH|SABBATH]] • [[topic SHEWBREAD (SHOWBREAD)|SHEWBREAD (SHOWBREAD)]] • [[topic TRADITION|TRADITION]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.12.2|<< Matthew 12:2]]</td><td align="center" style="border:none;">[[Matt.12|Matthew 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.12.4|Matthew 12:4 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Matthew 12:3** is...
 > $\quad$ referencing: [[LXX.1Sam.21.6|1Sam 21:6]]

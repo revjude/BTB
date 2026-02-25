@@ -1,10 +1,73 @@
+---
+title: Revelation 19:17
+type: Verse
+kjv: "And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;"
+bsb: "Then I saw an angel standing in the sun, and he cried out in a loud voice to all the birds flying overhead, “Come, gather together for the great supper of God,"
+greek: "Καὶ εἶδον ἕνα ἄγγελον ἑστῶτα ἐν τῷ ἡλίῳ, καὶ ἔκραξεν ἐν φωνῇ μεγάλῃ λέγων πᾶσιν τοῖς ὀρνέοις τοῖς πετομένοις ἐν μεσουρανήματι· δεῦτε καὶ συνάχθητε εἰς τὸ δεῖπνον τὸ μέγα τοῦ θεοῦ,"
+pericope: "[[Rev.19.17 Defeat of the Beast and False Prophet|Defeat of the Beast and False Prophet]]"
+original_language: Greek
+testament: New
+book: Revelation
+chapter: 19
+book/chapter: "[[Rev.19|Revelation 19]]"
+chronological_order: 1186
+era: Future
+period: "The Revelation to John"
+date: ~AD 95
+book_genre:
+- apocalyptic
+- visionary
+- prophetic oracle
+- epistle
+- liturgical
+topics:
+- "[[topic FEASTS|FEASTS]]"
+- "[[topic HORSE|HORSE]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LAMB OF GOD|LAMB OF GOD]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic SUN|SUN]]"
+- "[[topic VISION|VISION]]"
+- "[[topic WAR|WAR]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[G2532]]"
+- "[[G1492H]]"
+- "[[G1520]]"
+- "[[G0032G]]"
+- "[[G2476]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G2246]]"
+- "[[G2896]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+- "[[G3004G]]"
+- "[[G3956]]"
+- "[[G3732]]"
+- "[[G4072]]"
+- "[[G3321]]"
+- "[[G1205]]"
+- "[[G4863]]"
+- "[[G1519]]"
+- "[[G1173]]"
+- "[[G2316]]"
+texts:
+- NKO
+- no
+- k
+- N(k)O
+---
+
 **Revelation 19:17**<big><big>[[Rev.19.17 Defeat of the Beast and False Prophet|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And I saw an angel standing in the sun; and he cried with a loud voice, saying to all the fowls that fly in the midst of heaven, Come and gather yourselves together unto the supper of the great God;
 <small><sub>**BSB:**</sub></small>
 Then I saw an angel standing in the sun, and he cried out in a loud voice to all the birds flying overhead, “Come, gather together for the great supper of God,
-<small><sub>**Literal:**</sub></small>
-And I saw one angel standing in the sun, and he cried out in a voice loud saying to all the birds who are flying in mid-heaven; Come and do be gathered unto the supper <the> great <the> of God,<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.16|<< Revelation 19:16]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.18|Revelation 19:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|Καὶ]]  [[G1492H\|εἶδον]]  [[G1520\|ἕνα]]  [[G0032G\|ἄγγελον]]  [[G2476\|ἑστῶτα]]  [[G1722\|ἐν]]  [[G3588\|τῷ]]  [[G2246\|ἡλίῳ,]]  [[G2532\|καὶ]]  [[G2896\|ἔκραξεν]]  [[G1722\|ἐν]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ]]  [[G3004G\|λέγων]]  [[G3956\|πᾶσιν]]  [[G3588\|τοῖς]]  [[G3732\|ὀρνέοις]]  [[G3588\|τοῖς]]  [[G4072\|πετομένοις]]  [[G1722\|ἐν]]  [[G3321\|μεσουρανήματι·]]  [[G1205\|δεῦτε]]  [[G2532\|καὶ]]  [[G4863\|συνάχθητε]]  [[G1519\|εἰς]]  [[G3588\|τὸ]]  [[G1173\|δεῖπνον]]  [[G3588\|τὸ]]  [[G3173\|μέγα]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ,]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FEASTS|FEASTS]] • [[topic HORSE|HORSE]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LAMB OF GOD|LAMB OF GOD]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic SUN|SUN]] • [[topic VISION|VISION]] • [[topic WAR|WAR]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Rev.19.16|<< Revelation 19:16]]</td><td align="center" style="border:none;">[[Rev.19|Revelation 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Rev.19.18|Revelation 19:18 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Revelation 19:17** is...
 > $\quad$ possibly alluding to: [[LXX.Isa.34.6|Isa 34:6]]

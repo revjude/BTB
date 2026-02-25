@@ -1,8 +1,58 @@
+---
+title: 2 Chronicles 32:10
+type: Verse
+kjv: "Thus saith Sennacherib king of Assyria, Whereon do ye trust, that ye abide in the siege in Jerusalem?"
+bsb: "“This is what Sennacherib king of Assyria says: What is the basis of your confidence, that you remain in Jerusalem under siege?"
+hebrew: "כֹּ֣ה אָמַ֔ר סַנְחֵרִ֖יב מֶ֣לֶךְ אַשּׁ֑וּר עַל־ מָה֙ אַתֶּ֣ם בֹּטְחִ֔ים וְיֹשְׁבִ֥ים בְּמָצ֖וֹר בִּירוּשָׁלִָֽם׃"
+pericope: "[[2Chr.32.9 Sennacherib Threatens Jerusalem|Sennacherib Threatens Jerusalem]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 32
+book/chapter: "[[2Chr.32|2 Chronicles 32]]"
+chronological_order: 662
+era: Exile
+period: "Judah Alone: Hezekiah and the Assyrian Threat"
+date: ~715–686 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic SELF-EXALTATION|SELF-EXALTATION]]"
+- "[[topic SENNACHERIB|SENNACHERIB]]"
+- "[[topic SIEGE|SIEGE]]"
+strongs:
+- "[[H3541]]"
+- "[[H0559]]"
+- "[[H5576]]"
+- "[[H4428G]]"
+- "[[H0804G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H4100]]"
+- "[[H0859D]]"
+- "[[H0982]]"
+- "[[H9002]]"
+- "[[H3427]]"
+- "[[H9003]]"
+- "[[H4692]]"
+- "[[H3389]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 32:10**<big><big>[[2Chr.32.9 Sennacherib Threatens Jerusalem|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Thus saith Sennacherib king of Assyria, Whereon do ye trust, that ye abide in the siege in Jerusalem?
 <small><sub>**BSB:**</sub></small>
 “This is what Sennacherib king of Assyria says: What is the basis of your confidence, that you remain in Jerusalem under siege?
+<small><sub>**Hebrew:**</sub></small>
+[[H3541\|כֹּ֣ה]] [[H0559\|אָמַ֔ר]] [[H5576\|סַנְחֵרִ֖יב]] [[H4428G\|מֶ֣לֶךְ]] [[H0804G\|אַשּׁ֑וּר]] [[H5921A\|עַל]][[H9014\|־]] [[H4100\|מָה֙]] [[H0859D\|אַתֶּ֣ם]] [[H0982\|בֹּטְחִ֔ים]] [[H9002\|וְ]][[H3427\|יֹשְׁבִ֥ים]] [[H9003\|בְּ]][[H4692\|מָצ֖וֹר]] [[H9003\|בִּ]][[H3389\|ירוּשָׁלִָֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic SELF-EXALTATION|SELF-EXALTATION]] • [[topic SENNACHERIB|SENNACHERIB]] • [[topic SIEGE|SIEGE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.32.10|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.32.9|<< 2 Chronicles 32:9]]</td><td align="center" style="border:none;">[[2Chr.32|2 Chronicles 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.32.11|2 Chronicles 32:11 >>]]</td></tr></table>
 

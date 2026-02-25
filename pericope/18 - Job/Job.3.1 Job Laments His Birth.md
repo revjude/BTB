@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Job Laments His Birth
+type: Pericope
 pericope: "[[Job.3.1 Job Laments His Birth|Job Laments His Birth]]"
-verse_count: 26
+original_language: Hebrew
 testament: Old
 book: Job
 chapter: 3
 book/chapter: "[[Job.3|Job 3]]"
-genre:
+chronological_order: 14
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
 - wisdom literature
 - poetry
 - dialogue
 - narrative frame
 - theodicy
+verse_count: 26
 verses:
 - "[[Job.3.1]]"
 - "[[Job.3.2]]"
@@ -45,7 +52,7 @@ verses:
 - "[[Job.3.26]]"
 ---
 
-[[Job.3|Job 3:1 - Job 3:26]]
+<small>[[Job.3|Job 3:1-26]]</small>
 *Job Laments His Birth*
 
 [[Job.3.1|1]] After this opened Job his mouth, and cursed his day.

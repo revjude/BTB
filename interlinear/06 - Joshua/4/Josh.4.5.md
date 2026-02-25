@@ -1,8 +1,73 @@
+---
+title: Joshua 4:5
+type: Verse
+kjv: "And Joshua said unto them, Pass over before the ark of the LORD your God into the midst of Jordan, and take ye up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel:"
+bsb: "and said to them, “Cross over before the ark of the LORD your God into the middle of the Jordan. Each of you is to take a stone upon his shoulder, according to the number of the tribes of Israel,"
+hebrew: "וַיֹּ֤אמֶר לָהֶם֙ יְהוֹשֻׁ֔עַ עִ֠בְרוּ לִפְנֵ֨י אֲר֧וֹן יְהוָ֛ה אֱלֹֽהֵיכֶ֖ם אֶל־ תּ֣וֹךְ הַיַּרְדֵּ֑ן וְהָרִ֨ימוּ לָכֶ֜ם אִ֣ישׁ אֶ֤בֶן אַחַת֙ עַל־ שִׁכְמ֔וֹ לְמִסְפַּ֖ר שִׁבְטֵ֥י בְנֵי־ יִשְׂרָאֵֽל׃"
+pericope: "[[Josh.4.1 Twelve Stones from the Jordan|Twelve Stones from the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 4
+book/chapter: "[[Josh.4|Joshua 4]]"
+chronological_order: 234
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic INSTRUCTION|INSTRUCTION]]"
+- "[[topic PILLAR|PILLAR]]"
+- "[[topic STONES|STONES]]"
+- "[[topic TOKEN|TOKEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H9005]]"
+- "[[H9038]]"
+- "[[H3091G]]"
+- "[[H5674A]]"
+- "[[H6440G]]"
+- "[[H0727]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9026]]"
+- "[[H0413]]"
+- "[[H9014]]"
+- "[[H8432]]"
+- "[[H9009]]"
+- "[[H3383]]"
+- "[[H9002]]"
+- "[[H7311A]]"
+- "[[H9036]]"
+- "[[H0376I]]"
+- "[[H0068G]]"
+- "[[H0259]]"
+- "[[H5921A]]"
+- "[[H7926]]"
+- "[[H9023]]"
+- "[[H4557]]"
+- "[[H7626H]]"
+- "[[H1121G]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 4:5**<big><big>[[Josh.4.1 Twelve Stones from the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Joshua said unto them, Pass over before the ark of the LORD your God into the midst of Jordan, and take ye up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel:
 <small><sub>**BSB:**</sub></small>
 and said to them, “Cross over before the ark of the LORD your God into the middle of the Jordan. Each of you is to take a stone upon his shoulder, according to the number of the tribes of Israel,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H9005\|לָ]][[H9038\|הֶם֙]] [[H3091G\|יְהוֹשֻׁ֔עַ]] [[H5674A\|עִ֠בְרוּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֨י]] [[H0727\|אֲר֧וֹן]] [[H3068G\|יְהוָ֛ה]] [[H0430G\|אֱלֹֽהֵי]][[H9026\|כֶ֖ם]] [[H0413\|אֶל]][[H9014\|־]] [[H8432\|תּ֣וֹךְ]] [[H9009\|הַ]][[H3383\|יַּרְדֵּ֑ן]] [[H9002\|וְ]][[H7311A\|הָרִ֨ימוּ]] [[H9005\|לָ]][[H9036\|כֶ֜ם]] [[H0376I\|אִ֣ישׁ]] [[H0068G\|אֶ֤בֶן]] [[H0259\|אַחַת֙]] [[H5921A\|עַל]][[H9014\|־]] [[H7926\|שִׁכְמ֔]][[H9023\|וֹ]] [[H9005\|לְ]][[H4557\|מִסְפַּ֖ר]] [[H7626H\|שִׁבְטֵ֥י]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic INSTRUCTION|INSTRUCTION]] • [[topic PILLAR|PILLAR]] • [[topic STONES|STONES]] • [[topic TOKEN|TOKEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.4.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.4.4|<< Joshua 4:4]]</td><td align="center" style="border:none;">[[Josh.4|Joshua 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.4.6|Joshua 4:6 >>]]</td></tr></table>
 

@@ -1,8 +1,65 @@
+---
+title: Psalm 78:19
+type: Verse
+kjv: "Yea, they spake against God; they said, Can God furnish a table in the wilderness?"
+bsb: "They spoke against God, saying, “Can God really prepare a table in the wilderness?"
+hebrew: "וַֽיְדַבְּר֗וּ בֵּֽאלֹ֫הִ֥ים אָ֭מְרוּ הֲי֣וּכַל אֵ֑ל לַעֲרֹ֥ךְ שֻׁ֝לְחָ֗ן בַּמִּדְבָּֽר׃"
+pericope: "[[Ps.78.1 I Will Open My Mouth in Parables|I Will Open My Mouth in Parables]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 78
+book/chapter: "[[Ps.78|Psalm 78]]"
+chronological_order: 510
+era: Divided Kingdom
+period: "The Divided Kingdom: Early Kings"
+date: ~930–800 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLASPHEMY|BLASPHEMY]]"
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic GOD|GOD]]"
+- "[[topic INFIDELITY|INFIDELITY]]"
+- "[[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic MURMURING|MURMURING]]"
+- "[[topic SCOFFING|SCOFFING]]"
+- "[[topic UNBELIEF|UNBELIEF]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9001]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H0559]]"
+- "[[H9008]]"
+- "[[H3201]]"
+- "[[H0410G]]"
+- "[[H9005]]"
+- "[[H6186A]]"
+- "[[H7979]]"
+- "[[H4057B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 78:19**<big><big>[[Ps.78.1 I Will Open My Mouth in Parables|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Yea, they spake against God; they said, Can God furnish a table in the wilderness?
 <small><sub>**BSB:**</sub></small>
 They spoke against God, saying, “Can God really prepare a table in the wilderness?
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַֽ]][[H1696G\|יְדַבְּר֗וּ]] [[H9003\|בֵּֽ]][[H0430G\|אלֹ֫הִ֥ים]] [[H0559\|אָ֭מְרוּ]] [[H9008\|הֲ]][[H3201\|י֣וּכַל]] [[H0410G\|אֵ֑ל]] [[H9005\|לַ]][[H6186A\|עֲרֹ֥ךְ]] [[H7979\|שֻׁ֝לְחָ֗ן]] [[H9003\|בַּ]][[H4057B\|מִּדְבָּֽר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLASPHEMY|BLASPHEMY]] • [[topic BLESSING|BLESSING]] • [[topic GOD|GOD]] • [[topic INFIDELITY|INFIDELITY]] • [[topic METEOROLOGY AND CELESTIAL PHENOMENA|METEOROLOGY AND CELESTIAL PHENOMENA]] • [[topic MIRACLES|MIRACLES]] • [[topic MURMURING|MURMURING]] • [[topic SCOFFING|SCOFFING]] • [[topic UNBELIEF|UNBELIEF]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.78.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.78.18|<< Psalms 78:18]]</td><td align="center" style="border:none;">[[Ps.78|Psalms 78]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.78.20|Psalms 78:20 >>]]</td></tr></table>
 

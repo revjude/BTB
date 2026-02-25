@@ -1,10 +1,64 @@
+---
+title: Matthew 19:14
+type: Verse
+kjv: "But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven."
+bsb: "But Jesus said, “Let the little children come to Me, and do not hinder them! For the kingdom of heaven belongs to such as these.”"
+jesus_said: "Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven."
+greek: "ὁ δὲ Ἰησοῦς εἶπεν· ἄφετε τὰ παιδία καὶ μὴ κωλύετε αὐτὰ ἐλθεῖν πρός με· τῶν γὰρ τοιούτων ἐστὶν ἡ βασιλεία τῶν οὐρανῶν."
+pericope: "[[Matt.19.13 Jesus Blesses the Children|Jesus Blesses the Children]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 19
+book/chapter: "[[Matt.19|Matthew 19]]"
+chronological_order: 986
+era: Gospel
+period: "The Life of Christ: Later Ministry and Journey to Jerusalem"
+date: ~AD 29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHIDING|CHIDING]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic CHURCH|CHURCH]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2424G]]"
+- "[[G2036]]"
+- "[[G0863I]]"
+- "[[G3813]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G2967]]"
+- "[[G0846]]"
+- "[[G2064]]"
+- "[[G4314]]"
+- "[[G3165]]"
+- "[[G1063]]"
+- "[[G5108]]"
+- "[[G1510]]"
+- "[[G0932]]"
+- "[[G3772]]"
+texts:
+- NKO
+---
+
 **Matthew 19:14**<big><big>[[Matt.19.13 Jesus Blesses the Children|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.
 <small><sub>**BSB:**</sub></small>
 But Jesus said, “Let the little children come to Me, and do not hinder them! For the kingdom of heaven belongs to such as these.”
-<small><sub>**Literal:**</sub></small>
-<the> And Jesus said; do permit the little children and not do forbid them to come to Me; of the for of such kind is the kingdom of the heavens.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.13|<< Matthew 19:13]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.15|Matthew 19:15 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2424G\|Ἰησοῦς]]  [[G2036\|εἶπεν·]]  [[G0863I\|ἄφετε]]  [[G3588\|τὰ]]  [[G3813\|παιδία]]  [[G2532\|καὶ]]  [[G3361\|μὴ]]  [[G2967\|κωλύετε]]  [[G0846\|αὐτὰ]]  [[G2064\|ἐλθεῖν]]  [[G4314\|πρός]]  [[G3165\|με·]]  [[G3588\|τῶν]]  [[G1063\|γὰρ]]  [[G5108\|τοιούτων]]  [[G1510\|ἐστὶν]]  [[G3588\|ἡ]]  [[G0932\|βασιλεία]]  [[G3588\|τῶν]]  [[G3772\|οὐρανῶν.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHIDING|CHIDING]] • [[topic CHILDREN|CHILDREN]] • [[topic CHURCH|CHURCH]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic KINGDOM OF HEAVEN|KINGDOM OF HEAVEN]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.19.13|<< Matthew 19:13]]</td><td align="center" style="border:none;">[[Matt.19|Matthew 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.19.15|Matthew 19:15 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

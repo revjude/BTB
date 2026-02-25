@@ -1,8 +1,64 @@
+---
+title: Psalm 70:4
+type: Verse
+kjv: "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified."
+bsb: "May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “Let God be magnified!”"
+hebrew: "יָ֘שִׂ֤ישׂוּ וְיִשְׂמְח֨וּ׀ בְּךָ֗ כָּֽל־ מְבַ֫קְשֶׁ֥יךָ וְיֹאמְר֣וּ תָ֭מִיד יִגְדַּ֣ל אֱלֹהִ֑ים אֹ֝הֲבֵ֗י יְשׁוּעָתֶֽךָ׃"
+pericope: "[[Ps.70.1 Hurry, O LORD, to Help Me!|Hurry, O LORD, to Help Me!]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 70
+book/chapter: "[[Ps.70|Psalm 70]]"
+chronological_order: 378
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic DESIRE|DESIRE]]"
+- "[[topic JOY|JOY]]"
+- "[[topic PENITENT|PENITENT]]"
+- "[[topic PRAISE|PRAISE]]"
+- "[[topic SEEKERS|SEEKERS]]"
+strongs:
+- "[[H7797]]"
+- "[[H9002]]"
+- "[[H8055]]"
+- "[[H9015]]"
+- "[[H9003]]"
+- "[[H9031]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H1245]]"
+- "[[H0559]]"
+- "[[H8548]]"
+- "[[H1431]]"
+- "[[H0430G]]"
+- "[[H0157G]]"
+- "[[H3444]]"
+- "[[H9021]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 70:4**<big><big>[[Ps.70.1 Hurry, O LORD, to Help Me!|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.
 <small><sub>**BSB:**</sub></small>
 May all who seek You rejoice and be glad in You; may those who love Your salvation always say, “Let God be magnified!”
+<small><sub>**Hebrew:**</sub></small>
+[[H7797\|יָ֘שִׂ֤ישׂוּ]] [[H9002\|וְ]][[H8055\|יִשְׂמְח֨וּ]][[H9015\|׀]] [[H9003\|בְּ]][[H9031\|ךָ֗]] [[H3605\|כָּֽל]][[H9014\|־]] [[H1245\|מְבַ֫קְשֶׁ֥י]][[H9031\|ךָ]] [[H9002\|וְ]][[H0559\|יֹאמְר֣וּ]] [[H8548\|תָ֭מִיד]] [[H1431\|יִגְדַּ֣ל]] [[H0430G\|אֱלֹהִ֑ים]] [[H0157G\|אֹ֝הֲבֵ֗י]] [[H3444\|יְשׁוּעָתֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DESIRE|DESIRE]] • [[topic JOY|JOY]] • [[topic PENITENT|PENITENT]] • [[topic PRAISE|PRAISE]] • [[topic SEEKERS|SEEKERS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.70.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.70.3|<< Psalms 70:3]]</td><td align="center" style="border:none;">[[Ps.70|Psalms 70]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.70.5|Psalms 70:5 >>]]</td></tr></table>
 

@@ -1,8 +1,58 @@
+---
+title: Jeremiah 36:15
+type: Verse
+kjv: "And they said unto him, Sit down now, and read it in our ears. So Baruch read it in their ears."
+bsb: "“Please sit down,” they said, “and read it in our hearing.” So Baruch read it in their hearing."
+hebrew: "וַיֹּאמְר֣וּ אֵלָ֔יו שֵׁ֣ב נָ֔א וּקְרָאֶ֖נָּה בְּאָזְנֵ֑ינוּ וַיִּקְרָ֥א בָר֖וּךְ בְּאָזְנֵיהֶֽם׃"
+pericope: "[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|Jeremiah’s Scroll Read in the Palace]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 36
+book/chapter: "[[Jer.36|Jeremiah 36]]"
+chronological_order: 759
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+topics:
+- "[[topic BARUCH|BARUCH]]"
+- "[[topic JEREMIAH|JEREMIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9033]]"
+- "[[H3427]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H7121J]]"
+- "[[H9034]]"
+- "[[H9003]]"
+- "[[H0241I]]"
+- "[[H9025]]"
+- "[[H1263J]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 36:15**<big><big>[[Jer.36.11 Jeremiah’s Scroll Read in the Palace|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And they said unto him, Sit down now, and read it in our ears. So Baruch read [it] in their ears.
 <small><sub>**BSB:**</sub></small>
 “Please sit down,” they said, “and read it in our hearing.” So Baruch read it in their hearing.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמְר֣וּ]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H3427\|שֵׁ֣ב]] [[H4994\|נָ֔א]] [[H9002\|וּ]][[H7121J\|קְרָאֶ֖]][[H9034\|נָּה]] [[H9003\|בְּ]][[H0241I\|אָזְנֵ֑י]][[H9025\|נוּ]] [[H9001\|וַ]][[H7121J\|יִּקְרָ֥א]] [[H1263J\|בָר֖וּךְ]] [[H9003\|בְּ]][[H0241I\|אָזְנֵי]][[H9028\|הֶֽם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BARUCH|BARUCH]] • [[topic JEREMIAH|JEREMIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.36.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.36.14|<< Jeremiah 36:14]]</td><td align="center" style="border:none;">[[Jer.36|Jeremiah 36]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.36.16|Jeremiah 36:16 >>]]</td></tr></table>
 

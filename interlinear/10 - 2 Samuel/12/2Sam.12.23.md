@@ -1,8 +1,69 @@
+---
+title: 2 Samuel 12:23
+type: Verse
+kjv: "But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me."
+bsb: "But now that he is dead, why should I fast? Can I bring him back again? I will go to him, but he will not return to me.”"
+hebrew: "וְעַתָּ֣ה׀ מֵ֗ת לָ֤מָּה זֶּה֙ אֲנִ֣י צָ֔ם הַאוּכַ֥ל לַהֲשִׁיב֖וֹ ע֑וֹד אֲנִי֙ הֹלֵ֣ךְ אֵלָ֔יו וְה֖וּא לֹֽא־ יָשׁ֥וּב אֵלָֽי׃"
+pericope: "[[2Sam.12.13 David’s Loss and Repentance|David’s Loss and Repentance]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 12
+book/chapter: "[[2Sam.12|2 Samuel 12]]"
+chronological_order: 411
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic PARENTS|PARENTS]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+strongs:
+- "[[H9002]]"
+- "[[H6258]]"
+- "[[H9015]]"
+- "[[H4191]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H2088]]"
+- "[[H0589]]"
+- "[[H6684]]"
+- "[[H9008]]"
+- "[[H3201]]"
+- "[[H7725G]]"
+- "[[H9033]]"
+- "[[H5750]]"
+- "[[H1980G]]"
+- "[[H0413]]"
+- "[[H1931]]"
+- "[[H3808]]"
+- "[[H9014]]"
+- "[[H9030]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Samuel 12:23**<big><big>[[2Sam.12.13 David’s Loss and Repentance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me.
 <small><sub>**BSB:**</sub></small>
 But now that he is dead, why should I fast? Can I bring him back again? I will go to him, but he will not return to me.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H6258\|עַתָּ֣ה]][[H9015\|׀]] [[H4191\|מֵ֗ת]] [[H9005\|לָ֤]][[H4100\|מָּה]] [[H2088\|זֶּה֙]] [[H0589\|אֲנִ֣י]] [[H6684\|צָ֔ם]] [[H9008\|הַ]][[H3201\|אוּכַ֥ל]] [[H9005\|לַ]][[H7725G\|הֲשִׁיב֖]][[H9033\|וֹ]] [[H5750\|ע֑וֹד]] [[H0589\|אֲנִי֙]] [[H1980G\|הֹלֵ֣ךְ]] [[H0413\|אֵלָ֔י]][[H9033\|ו]] [[H9002\|וְ]][[H1931\|ה֖וּא]] [[H3808\|לֹֽא]][[H9014\|־]] [[H7725G\|יָשׁ֥וּב]] [[H0413\|אֵלָֽ]][[H9030\|י]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic DAVID|DAVID]] • [[topic DEATH|DEATH]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic PARENTS|PARENTS]] • [[topic PRAYER|PRAYER]] • [[topic RESIGNATION|RESIGNATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.12.23|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.12.22|<< 2 Samuel 12:22]]</td><td align="center" style="border:none;">[[2Sam.12|2 Samuel 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.12.24|2 Samuel 12:24 >>]]</td></tr></table>
 

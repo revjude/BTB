@@ -1,8 +1,58 @@
+---
+title: Joshua 19:14
+type: Verse
+kjv: "And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthahel:"
+bsb: "Then the border circled around the north side of Neah to Hannathon and ended at the Valley of Iphtah-el."
+hebrew: "וְנָסַ֤ב אֹתוֹ֙ הַגְּב֔וּל מִצְּפ֖וֹן חַנָּתֹ֑ן וְהָיוּ֙ תֹּֽצְאֹתָ֔יו גֵּ֖י יִפְתַּח־ אֵֽל׃"
+pericope: "[[Josh.19.10 Zebulun’s Inheritance|Zebulun’s Inheritance]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 19
+book/chapter: "[[Josh.19|Joshua 19]]"
+chronological_order: 249
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic HANNATHON|HANNATHON]]"
+- "[[topic JIPHTHAH-EL|JIPHTHAH-EL]]"
+- "[[topic ZEBULUN|ZEBULUN]]"
+strongs:
+- "[[H9001]]"
+- "[[H5437G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H9009]]"
+- "[[H1366G]]"
+- "[[H9006]]"
+- "[[H6828G]]"
+- "[[H2615]]"
+- "[[H1961]]"
+- "[[H8444]]"
+- "[[H9023]]"
+- "[[H1516H]]"
+- "[[H3317]]"
+- "[[H9014]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 19:14**<big><big>[[Josh.19.10 Zebulun’s Inheritance|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthahel:
 <small><sub>**BSB:**</sub></small>
 Then the border circled around the north side of Neah to Hannathon and ended at the Valley of Iphtah-el.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H5437G\|נָסַ֤ב]] [[H0853\|אֹת]][[H9033\|וֹ֙]] [[H9009\|הַ]][[H1366G\|גְּב֔וּל]] [[H9006\|מִ]][[H6828G\|צְּפ֖וֹן]] [[H2615\|חַנָּתֹ֑ן]] [[H9001\|וְ]][[H1961\|הָיוּ֙]] [[H8444\|תֹּֽצְאֹתָ֔י]][[H9023\|ו]] [[H1516H\|גֵּ֖י]] [[H3317\|יִפְתַּח]][[H9014\|־]] [[H3317\|אֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic HANNATHON|HANNATHON]] • [[topic JIPHTHAH-EL|JIPHTHAH-EL]] • [[topic ZEBULUN|ZEBULUN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.19.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.19.13|<< Joshua 19:13]]</td><td align="center" style="border:none;">[[Josh.19|Joshua 19]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.19.15|Joshua 19:15 >>]]</td></tr></table>
 

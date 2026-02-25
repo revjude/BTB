@@ -1,8 +1,56 @@
+---
+title: Joel 3:15
+type: Verse
+kjv: "The sun and the moon shall be darkened, and the stars shall withdraw their shining."
+bsb: "The sun and moon will grow dark, and the stars will no longer shine."
+hebrew: "שֶׁ֥מֶשׁ וְיָרֵ֖חַ קָדָ֑רוּ וְכוֹכָבִ֖ים אָסְפ֥וּ נָגְהָֽם׃"
+pericope: "[[Joel.3.1 The LORD Judges the Nations|The LORD Judges the Nations]]"
+original_language: Hebrew
+testament: Old
+book: Joel
+chapter: 3
+book/chapter: "[[Joel.3|Joel 3]]"
+chronological_order: 842
+era: Exile
+period: "Exile in Babylon: Joel's Prophecy"
+date: ~590–580 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- apocalyptic
+topics:
+- "[[topic COLORS|COLORS]]"
+- "[[topic ECLIPSE|ECLIPSE]]"
+- "[[topic JOEL|JOEL]]"
+- "[[topic MOON|MOON]]"
+- "[[topic STARS|STARS]]"
+- "[[topic SUN|SUN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H8121]]"
+- "[[H9002]]"
+- "[[H3394]]"
+- "[[H6937]]"
+- "[[H3556]]"
+- "[[H0622]]"
+- "[[H5051]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joel 3:15**<big><big>[[Joel.3.1 The LORD Judges the Nations|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 The sun and the moon shall be darkened, and the stars shall withdraw their shining.
 <small><sub>**BSB:**</sub></small>
 The sun and moon will grow dark, and the stars will no longer shine.
+<small><sub>**Hebrew:**</sub></small>
+[[H8121\|שֶׁ֥מֶשׁ]] [[H9002\|וְ]][[H3394\|יָרֵ֖חַ]] [[H6937\|קָדָ֑רוּ]] [[H9002\|וְ]][[H3556\|כוֹכָבִ֖ים]] [[H0622\|אָסְפ֥וּ]] [[H5051\|נָגְהָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COLORS|COLORS]] • [[topic ECLIPSE|ECLIPSE]] • [[topic JOEL|JOEL]] • [[topic MOON|MOON]] • [[topic STARS|STARS]] • [[topic SUN|SUN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Joel.3.15|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Joel.3.14|<< Joel 3:14]]</td><td align="center" style="border:none;">[[Joel.3|Joel 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Joel.3.16|Joel 3:16 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

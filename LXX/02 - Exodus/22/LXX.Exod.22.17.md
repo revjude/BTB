@@ -1,6 +1,71 @@
+---
+title: LXX Exodus 22:17
+type: Verse
+lxx: "But if in shaking he shakes his head in dissent, and her father should not be willing to give her to him as wife, he shall pay to the father silver, according to as much as is the dowry of the virgins."
+greek: "εάν δε ανανεύων ανανεύση και μη βούληται ο πατήρ αυτής δούναι αυτήν αυτώ γυναίκα αργύριον αποτίσει τω πατρί καθ΄ όσον εστίν η φερνή των παρθένων"
+original_language: Greek
+testament: Old
+book: Exodus
+chapter: 22
+book/chapter: "[[Exod.22|Exodus 22]]"
+chronological_order: 114
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ADULTERY|ADULTERY]]"
+- "[[topic DOWRY|DOWRY]]"
+- "[[topic MARRIAGE|MARRIAGE]]"
+- "[[topic MONEY|MONEY]]"
+- "[[topic SEDUCTION|SEDUCTION]]"
+- "[[topic VIRGIN|VIRGIN]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[G1437]]"
+- "[[G1161]]"
+- "[[G6296]]"
+- "[[G6296]]"
+- "[[G2532]]"
+- "[[G3361]]"
+- "[[G1014]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G1473]]"
+- "[[G1325]]"
+- "[[G1473]]"
+- "[[G1473]]"
+- "[[G1135]]"
+- "[[G0694]]"
+- "[[G0661]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G2596]]"
+- "[[G3745]]"
+- "[[G1510]]"
+- "[[G3588]]"
+- "[[G9631]]"
+- "[[G3588]]"
+- "[[G3933]]"
+---
+
 **LXX Exodus 22:17** 
 <small><sub>**LXX:**</sub></small>
 But if in shaking he shakes his head in dissent, and her father should not be willing to give her to him as wife, he shall pay to the father silver, according to as much as is the dowry of the virgins. 
+<small><sub>**Greek:**</sub></small>
+[[G1437\|εάν]] [[G1161\|δε]] [[G6296\|ανανεύων]] [[G6296\|ανανεύση]] [[G2532\|και]] [[G3361\|μη]] [[G1014\|βούληται]] [[G3588\|ο]] [[G3962\|πατήρ]] [[G1473\|αυτής]] [[G1325\|δούναι]] [[G1473\|αυτήν]] [[G1473\|αυτώ]] [[G1135\|γυναίκα]] [[G0694\|αργύριον]] [[G0661\|αποτίσει]] [[G3588\|τω]] [[G3962\|πατρί]] [[G2596\|καθ΄]] [[G3745\|όσον]] [[G1510\|εστίν]] [[G3588\|η]] [[G9631\|φερνή]] [[G3588\|των]] [[G3933\|παρθένων]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ADULTERY|ADULTERY]] • [[topic DOWRY|DOWRY]] • [[topic MARRIAGE|MARRIAGE]] • [[topic MONEY|MONEY]] • [[topic SEDUCTION|SEDUCTION]] • [[topic VIRGIN|VIRGIN]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**MT:**</sub></small>
 [[Exod.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.16|<< Exodus 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.18|Exodus 22:18 >>]]</td></tr></table>
 
@@ -29,6 +94,6 @@ But if in shaking he shakes his head in dissent, and her father should not be wi
 | dowry | **<big>[[G9631\|φερνή]]</big>** |
 | of the | **<big>[[G3588\|των]]</big>** |
 | virgins. | **<big>[[G3933\|παρθένων]]</big>** |
-[[Exod.22.17|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.16|<< Exodus 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.18|Exodus 22:18 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Exod.22.16|<< Exodus 22:16]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Exod.22.18|Exodus 22:18 >>]]</td></tr></table>
 
 

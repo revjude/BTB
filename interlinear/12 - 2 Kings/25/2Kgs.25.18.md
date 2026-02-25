@@ -1,8 +1,62 @@
+---
+title: 2 Kings 25:18
+type: Verse
+kjv: "And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:"
+bsb: "The captain of the guard also took away Seraiah the chief priest, Zephaniah the priest of second rank, and the three doorkeepers."
+hebrew: "וַיִּקַּ֣ח רַב־ טַבָּחִ֗ים אֶת־ שְׂרָיָה֙ כֹּהֵ֣ן הָרֹ֔אשׁ וְאֶת־ צְפַנְיָ֖הוּ כֹּהֵ֣ן מִשְׁנֶ֑ה וְאֶת־ שְׁלֹ֖שֶׁת שֹׁמְרֵ֥י הַסַּֽף׃"
+pericope: "[[2Kgs.25.18 Captives Carried to Babylon|Captives Carried to Babylon]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 25
+book/chapter: "[[2Kgs.25|2 Kings 25]]"
+chronological_order: 742
+era: Exile
+period: "The Fall of Jerusalem and Babylonian Exile Begins"
+date: ~605–586 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic DOORKEEPERS|DOORKEEPERS]]"
+- "[[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]]"
+- "[[topic PRIEST|PRIEST]]"
+- "[[topic PROPHECY|PROPHECY]]"
+- "[[topic SERAIAH|SERAIAH]]"
+- "[[topic ZEPHANIAH|ZEPHANIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H3947G]]"
+- "[[H7227B]]"
+- "[[H9014]]"
+- "[[H2876]]"
+- "[[H0853]]"
+- "[[H8304H]]"
+- "[[H3548]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H9002]]"
+- "[[H6846G]]"
+- "[[H4932H]]"
+- "[[H7969]]"
+- "[[H8104H]]"
+- "[[H5592B]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 25:18**<big><big>[[2Kgs.25.18 Captives Carried to Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:
 <small><sub>**BSB:**</sub></small>
 The captain of the guard also took away Seraiah the chief priest, Zephaniah the priest of second rank, and the three doorkeepers.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3947G\|יִּקַּ֣ח]] [[H7227B\|רַב]][[H9014\|־]] [[H2876\|טַבָּחִ֗ים]] [[H0853\|אֶת]][[H9014\|־]] [[H8304H\|שְׂרָיָה֙]] [[H3548\|כֹּהֵ֣ן]] [[H9009\|הָ]][[H7218H\|רֹ֔אשׁ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H6846G\|צְפַנְיָ֖הוּ]] [[H3548\|כֹּהֵ֣ן]] [[H4932H\|מִשְׁנֶ֑ה]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7969\|שְׁלֹ֖שֶׁת]] [[H8104H\|שֹׁמְרֵ֥י]] [[H9009\|הַ]][[H5592B\|סַּֽף]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DOORKEEPERS|DOORKEEPERS]] • [[topic NEBUZARADAN (NEBUZAR-ADAN)|NEBUZARADAN (NEBUZAR-ADAN)]] • [[topic PRIEST|PRIEST]] • [[topic PROPHECY|PROPHECY]] • [[topic SERAIAH|SERAIAH]] • [[topic ZEPHANIAH|ZEPHANIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.25.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.25.17|<< 2 Kings 25:17]]</td><td align="center" style="border:none;">[[2Kgs.25|2 Kings 25]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.25.19|2 Kings 25:19 >>]]</td></tr></table>
 

@@ -1,8 +1,64 @@
+---
+title: Amos 8:14
+type: Verse
+kjv: "They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beersheba liveth; even they shall fall, and never rise up again."
+bsb: "Those who swear by the guilt of Samaria and say, ‘As surely as your god lives, O Dan,’ or, ‘As surely as the way of Beersheba lives’—they will fall, never to rise again.”"
+hebrew: "הַנִּשְׁבָּעִים֙ בְּאַשְׁמַ֣ת שֹֽׁמְר֔וֹן וְאָמְר֗וּ חֵ֤י אֱלֹהֶ֙יךָ֙ דָּ֔ן וְחֵ֖י דֶּ֣רֶךְ בְּאֵֽר־ שָׁ֑בַע וְנָפְל֖וּ וְלֹא־ יָק֥וּמוּ עֽוֹד׃ ס"
+pericope: "[[Amos.8.1 The Basket of Summer Fruit|The Basket of Summer Fruit]]"
+original_language: Hebrew
+testament: Old
+book: Amos
+chapter: 8
+book/chapter: "[[Amos.8|Amos 8]]"
+chronological_order: 605
+era: Divided Kingdom
+period: "The Divided Kingdom: Amos to Israel"
+date: ~760–750 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- poetry
+- social justice
+topics:
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic DAN|DAN]]"
+- "[[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]"
+strongs:
+- "[[H9009]]"
+- "[[H7650]]"
+- "[[H9003]]"
+- "[[H0819]]"
+- "[[H8111]]"
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H2416A]]"
+- "[[H0430]]"
+- "[[H9021]]"
+- "[[H1835G]]"
+- "[[H9002]]"
+- "[[H1870K]]"
+- "[[H0884]]"
+- "[[H9014]]"
+- "[[H5307J]]"
+- "[[H3808]]"
+- "[[H6965B]]"
+- "[[H5750]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Amos 8:14**<big><big>[[Amos.8.1 The Basket of Summer Fruit|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beersheba liveth; even they shall fall, and never rise up again.
 <small><sub>**BSB:**</sub></small>
 Those who swear by the guilt of Samaria and say, ‘As surely as your god lives, O Dan,’ or, ‘As surely as the way of Beersheba lives’—they will fall, never to rise again.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9009\|הַ]][[H7650\|נִּשְׁבָּעִים֙]] [[H9003\|בְּ]][[H0819\|אַשְׁמַ֣ת]] [[H8111\|שֹֽׁמְר֔וֹן]] [[H9001\|וְ]][[H0559\|אָמְר֗וּ]] [[H2416A\|חֵ֤י]] [[H0430\|אֱלֹהֶ֙י]][[H9021\|ךָ֙]] [[H1835G\|דָּ֔ן]] [[H9002\|וְ]][[H2416A\|חֵ֖י]] [[H1870K\|דֶּ֣רֶךְ]] [[H0884\|בְּאֵֽר]][[H9014\|־]] [[H0884\|שָׁ֑בַע]] [[H9001\|וְ]][[H5307J\|נָפְל֖וּ]] [[H9002\|וְ]][[H3808\|לֹא]][[H9014\|־]] [[H6965B\|יָק֥וּמוּ]] [[H5750\|עֽוֹד]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-SHEBA|BEER-SHEBA]] • [[topic DAN|DAN]] • [[topic WICKED (PEOPLE)|WICKED (PEOPLE)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Amos.8.14|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.13|<< Amos 8:13]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.1|Amos 9:1 >>]]</td></tr></table>
 
@@ -22,7 +78,7 @@ Those who swear by the guilt of Samaria and say, ‘As surely as your god lives,
 | and they will fall  |**<big>&#8207;[[H9001\|וְ]]&#8207;&#8207;[[H5307J\|נָפְל֖וּ]]&#8207; </big>**| ve.<small><sup>[[Hc]]</sup></small> na.fe.Lu<small><sup>[[HVqq3cp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and not  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H3808\|לֹא]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> lo'-<small><sup>[[HTn]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | they will rise  |**<big>&#8207;[[H6965B\|יָק֥וּמוּ]]&#8207; </big>**| ya.Ku.mu<small><sup>[[HVqi3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| again  |**<big>&#8207;[[H5750\|עֽוֹד]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| od<small><sup>[[HAcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Amos.8.13|<< Amos 8:13]]</td><td align="center" style="border:none;">[[Amos.8|Amos 8]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Amos.9.1|Amos 9:1 >>]]</td></tr></table>
 
 

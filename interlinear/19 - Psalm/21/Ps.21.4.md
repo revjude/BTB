@@ -1,8 +1,63 @@
+---
+title: Psalm 21:4
+type: Verse
+kjv: "He asked life of thee, and thou gavest it him, even length of days for ever and ever."
+bsb: "He asked You for life, and You granted it—length of days, forever and ever."
+hebrew: "חַיִּ֤ים׀ שָׁאַ֣ל מִ֭מְּךָ נָתַ֣תָּה לּ֑וֹ אֹ֥רֶךְ יָ֝מִ֗ים עוֹלָ֥ם וָעֶֽד׃"
+pericope: "[[Ps.21.1 After the Battle|After the Battle]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 21
+book/chapter: "[[Ps.21|Psalm 21]]"
+chronological_order: 354
+era: United Kingdom
+period: "David as King: Early Reign and Psalms"
+date: ~1010–970 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic BLESSING|BLESSING]]"
+- "[[topic DISEASE|DISEASE]]"
+- "[[topic GOD|GOD]]"
+- "[[topic IMMORTALITY|IMMORTALITY]]"
+- "[[topic LIFE|LIFE]]"
+- "[[topic LONGEVITY|LONGEVITY]]"
+- "[[topic PRAYER|PRAYER]]"
+strongs:
+- "[[H2416E]]"
+- "[[H9015]]"
+- "[[H7592]]"
+- "[[H4480A]]"
+- "[[H9031]]"
+- "[[H5414G]]"
+- "[[H9005]]"
+- "[[H9033]]"
+- "[[H0753]]"
+- "[[H3117G]]"
+- "[[H5769G]]"
+- "[[H9002]]"
+- "[[H5703]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 21:4**<big><big>[[Ps.21.1 After the Battle|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 He asked life of thee, [and] thou gavest [it] him, [even] length of days for ever and ever.
 <small><sub>**BSB:**</sub></small>
 He asked You for life, and You granted it—length of days, forever and ever.
+<small><sub>**Hebrew:**</sub></small>
+[[H2416E\|חַיִּ֤ים]][[H9015\|׀]] [[H7592\|שָׁאַ֣ל]] [[H4480A\|מִ֭מְּ]][[H9031\|ךָ]] [[H5414G\|נָתַ֣תָּה]] [[H9005\|לּ֑]][[H9033\|וֹ]] [[H0753\|אֹ֥רֶךְ]] [[H3117G\|יָ֝מִ֗ים]] [[H5769G\|עוֹלָ֥ם]] [[H9002\|וָ]][[H5703\|עֶֽד]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLESSING|BLESSING]] • [[topic DISEASE|DISEASE]] • [[topic GOD|GOD]] • [[topic IMMORTALITY|IMMORTALITY]] • [[topic LIFE|LIFE]] • [[topic LONGEVITY|LONGEVITY]] • [[topic PRAYER|PRAYER]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.21.4|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.21.3|<< Psalms 21:3]]</td><td align="center" style="border:none;">[[Ps.21|Psalms 21]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.21.5|Psalms 21:5 >>]]</td></tr></table>
 

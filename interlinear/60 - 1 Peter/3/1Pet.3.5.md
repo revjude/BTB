@@ -1,10 +1,61 @@
+---
+title: 1 Peter 3:5
+type: Verse
+kjv: "For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:"
+bsb: "For this is how the holy women of the past adorned themselves. They put their hope in God and were submissive to their husbands,"
+greek: "οὕτως γάρ ποτε καὶ αἱ ἅγιαι γυναῖκες αἱ ἐλπίζουσαι εἰς τὸν θεὸν ἐκόσμουν ἑαυτάς ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν·"
+pericope: "[[1Pet.3.1 Wives and Husbands|Wives and Husbands]]"
+original_language: Greek
+testament: New
+book: 1 Peter
+chapter: 3
+book/chapter: "[[1Pet.3|1 Peter 3]]"
+chronological_order: 1137
+era: Church
+period: "Peter's First Epistle"
+date: ~AD 64
+book_genre:
+- epistle
+- general epistle
+- circular letter
+- persecution literature
+topics:
+- "[[topic EXAMPLE|EXAMPLE]]"
+- "[[topic FAITH|FAITH]]"
+- "[[topic RIGHTEOUSNESS|RIGHTEOUSNESS]]"
+- "[[topic SARAH|SARAH]]"
+- "[[topic WIFE|WIFE]]"
+strongs:
+- "[[G3779]]"
+- "[[G1063]]"
+- "[[G4218]]"
+- "[[G2532]]"
+- "[[G3588]]"
+- "[[G0040G]]"
+- "[[G1135G]]"
+- "[[G1679]]"
+- "[[G1519]]"
+- "[[G2316]]"
+- "[[G2885]]"
+- "[[G1438]]"
+- "[[G5293]]"
+- "[[G2398]]"
+- "[[G0435H]]"
+texts:
+- NKO
+- N(k)O
+- k
+---
+
 **1 Peter 3:5**<big><big>[[1Pet.3.1 Wives and Husbands|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:
 <small><sub>**BSB:**</sub></small>
 For this is how the holy women of the past adorned themselves. They put their hope in God and were submissive to their husbands,
-<small><sub>**Literal:**</sub></small>
-In this way for formerly also the holy women those hoping in <the> God were adorning themselves being subject <the> to [their] own husbands;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.4|<< 1 Peter 3:4]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.6|1 Peter 3:6 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3779\|οὕτως]]  [[G1063\|γάρ]]  [[G4218\|ποτε]]  [[G2532\|καὶ]]  [[G3588\|αἱ]]  [[G0040G\|ἅγιαι]]  [[G1135G\|γυναῖκες]]  [[G3588\|αἱ]]  [[G1679\|ἐλπίζουσαι]]  [[G1519\|εἰς]]  [[G3588\|τὸν]]  [[G2316\|θεὸν]]  [[G2885\|ἐκόσμουν]]  [[G1438\|ἑαυτάς]]  [[G5293\|ὑποτασσόμεναι]]  [[G3588\|τοῖς]]  [[G2398\|ἰδίοις]]  [[G0435H\|ἀνδράσιν·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic EXAMPLE|EXAMPLE]] • [[topic FAITH|FAITH]] • [[topic RIGHTEOUSNESS|RIGHTEOUSNESS]] • [[topic SARAH|SARAH]] • [[topic WIFE|WIFE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Pet.3.4|<< 1 Peter 3:4]]</td><td align="center" style="border:none;">[[1Pet.3|1 Peter 3]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Pet.3.6|1 Peter 3:6 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

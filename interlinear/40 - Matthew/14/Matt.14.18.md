@@ -1,10 +1,49 @@
+---
+title: Matthew 14:18
+type: Verse
+kjv: "He said, Bring them hither to me."
+bsb: "“Bring them here to Me,” Jesus said."
+jesus_said: "Bring them hither to me."
+greek: "ὁ δὲ εἶπεν· φέρετέ μοι ὧδε αὐτούς."
+pericope: "[[Matt.14.13 The Feeding of the Five Thousand|The Feeding of the Five Thousand]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 14
+book/chapter: "[[Matt.14|Matthew 14]]"
+chronological_order: 964
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic LOAVES|LOAVES]]"
+strongs:
+- "[[G3588]]"
+- "[[G1161]]"
+- "[[G2036]]"
+- "[[G5342]]"
+- "[[G3165]]"
+- "[[G5602]]"
+- "[[G0846]]"
+texts:
+- NKO
+---
+
 **Matthew 14:18**<big><big>[[Matt.14.13 The Feeding of the Five Thousand|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 He said, Bring them hither to me.
 <small><sub>**BSB:**</sub></small>
 “Bring them here to Me,” Jesus said.
-<small><sub>**Literal:**</sub></small>
-<the> And He said; do bring to Me here them.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.17|<< Matthew 14:17]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.19|Matthew 14:19 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3588\|ὁ]]  [[G1161\|δὲ]]  [[G2036\|εἶπεν·]]  [[G5342\|φέρετέ]]  [[G3165\|μοι]]  [[G5602\|ὧδε]]  [[G0846\|αὐτούς.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic LOAVES|LOAVES]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.14.17|<< Matthew 14:17]]</td><td align="center" style="border:none;">[[Matt.14|Matthew 14]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.14.19|Matthew 14:19 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

@@ -1,8 +1,81 @@
+---
+title: Deuteronomy 12:18
+type: Verse
+kjv: "But thou must eat them before the LORD thy God in the place which the LORD thy God shall choose, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates: and thou shalt rejoice before the LORD thy God in all that thou puttest thine hands unto."
+bsb: "Instead, you must eat them in the presence of the LORD your God at the place the LORD your God will choose—you, your sons and daughters, your menservants and maidservants, and the Levite within your gates. Rejoice before the LORD your God in all you do,"
+hebrew: "כִּ֡י אִם־ לִפְנֵי֩ יְהוָ֨ה אֱלֹהֶ֜יךָ תֹּאכְלֶ֗נּוּ בַּמָּקוֹם֙ אֲשֶׁ֨ר יִבְחַ֜ר יְהוָ֣ה אֱלֹהֶיךָ֮ בּוֹ֒ אַתָּ֨ה וּבִנְךָ֤ וּבִתֶּ֙ךָ֙ וְעַבְדְּךָ֣ וַאֲמָתֶ֔ךָ וְהַלֵּוִ֖י אֲשֶׁ֣ר בִּשְׁעָרֶ֑יךָ וְשָׂמַחְתָּ֗ לִפְנֵי֙ יְהוָ֣ה אֱלֹהֶ֔יךָ בְּכֹ֖ל מִשְׁלַ֥ח יָדֶֽךָ׃"
+pericope: "[[Deut.12.1 One Place for Worship|One Place for Worship]]"
+original_language: Hebrew
+testament: Old
+book: Deuteronomy
+chapter: 12
+book/chapter: "[[Deut.12|Deuteronomy 12]]"
+chronological_order: 208
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic JOY|JOY]]"
+- "[[topic LEVITES|LEVITES]]"
+- "[[topic LIBERALITY|LIBERALITY]]"
+- "[[topic OFFERINGS|OFFERINGS]]"
+- "[[topic SERVANT|SERVANT]]"
+- "[[topic THANKFULNESS|THANKFULNESS]]"
+- "[[topic TITHES|TITHES]]"
+- "[[topic VOWS|VOWS]]"
+strongs:
+- "[[H3588B]]"
+- "[[H0518B]]"
+- "[[H9014]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H0430G]]"
+- "[[H9021]]"
+- "[[H0398]]"
+- "[[H9033]]"
+- "[[H9003]]"
+- "[[H4725]]"
+- "[[H0834A]]"
+- "[[H0977]]"
+- "[[H0859A]]"
+- "[[H9002]]"
+- "[[H1121A]]"
+- "[[H1323G]]"
+- "[[H5650]]"
+- "[[H0519]]"
+- "[[H9009]]"
+- "[[H3881]]"
+- "[[H8179H]]"
+- "[[H9001]]"
+- "[[H8055]]"
+- "[[H3605]]"
+- "[[H4916A]]"
+- "[[H3027U]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Deuteronomy 12:18**<big><big>[[Deut.12.1 One Place for Worship|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But thou must eat them before the LORD thy God in the place which the LORD thy God shall choose, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that [is] within thy gates: and thou shalt rejoice before the LORD thy God in all that thou puttest thine hands unto.
 <small><sub>**BSB:**</sub></small>
 Instead, you must eat them in the presence of the LORD your God at the place the LORD your God will choose—you, your sons and daughters, your menservants and maidservants, and the Levite within your gates. Rejoice before the LORD your God in all you do,
+<small><sub>**Hebrew:**</sub></small>
+[[H3588B\|כִּ֡י]] [[H0518B\|אִם]][[H9014\|־]] [[H9005\|לִ]][[H6440G\|פְנֵי֩]] [[H3068G\|יְהוָ֨ה]] [[H0430G\|אֱלֹהֶ֜י]][[H9021\|ךָ]] [[H0398\|תֹּאכְלֶ֗]][[H9033\|נּוּ]] [[H9003\|בַּ]][[H4725\|מָּקוֹם֙]] [[H0834A\|אֲשֶׁ֨ר]] [[H0977\|יִבְחַ֜ר]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶי]][[H9021\|ךָ֮]] [[H9003\|בּ]][[H9033\|וֹ֒]] [[H0859A\|אַתָּ֨ה]] [[H9002\|וּ]][[H1121A\|בִנְ]][[H9021\|ךָ֤]] [[H9002\|וּ]][[H1323G\|בִתֶּ֙]][[H9021\|ךָ֙]] [[H9002\|וְ]][[H5650\|עַבְדְּ]][[H9021\|ךָ֣]] [[H9002\|וַ]][[H0519\|אֲמָתֶ֔]][[H9021\|ךָ]] [[H9002\|וְ]][[H9009\|הַ]][[H3881\|לֵּוִ֖י]] [[H0834A\|אֲשֶׁ֣ר]] [[H9003\|בִּ]][[H8179H\|שְׁעָרֶ֑י]][[H9021\|ךָ]] [[H9001\|וְ]][[H8055\|שָׂמַחְתָּ֗]] [[H9005\|לִ]][[H6440G\|פְנֵי֙]] [[H3068G\|יְהוָ֣ה]] [[H0430G\|אֱלֹהֶ֔י]][[H9021\|ךָ]] [[H9003\|בְּ]][[H3605\|כֹ֖ל]] [[H4916A\|מִשְׁלַ֥ח]] [[H3027U\|יָדֶֽ]][[H9021\|ךָ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JOY|JOY]] • [[topic LEVITES|LEVITES]] • [[topic LIBERALITY|LIBERALITY]] • [[topic OFFERINGS|OFFERINGS]] • [[topic SERVANT|SERVANT]] • [[topic THANKFULNESS|THANKFULNESS]] • [[topic TITHES|TITHES]] • [[topic VOWS|VOWS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Deut.12.18|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Deut.12.17|<< Deuteronomy 12:17]]</td><td align="center" style="border:none;">[[Deut.12|Deuteronomy 12]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Deut.12.19|Deuteronomy 12:19 >>]]</td></tr></table>
 

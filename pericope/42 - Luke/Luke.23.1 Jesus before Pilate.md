@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Jesus before Pilate
+type: Pericope
 pericope: "[[Luke.23.1 Jesus before Pilate|Jesus before Pilate]]"
-verse_count: 5
+original_language: Greek
 testament: New
 book: Luke
 chapter: 23
 book/chapter: "[[Luke.23|Luke 23]]"
-genre:
+chronological_order: 1012
+era: Gospel
+period: "The Life of Christ: Passion and Crucifixion"
+date: ~AD 30
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 5
 verses:
 - "[[Luke.23.1]]"
 - "[[Luke.23.2]]"
@@ -24,7 +31,7 @@ verses:
 - "[[Luke.23.5]]"
 ---
 
-[[Luke.23|Luke 23:1 - Luke 23:5]]
+<small>[[Luke.23|Luke 23:1-5]]</small>
 *Jesus before Pilate*
 
 [[Luke.23.1|1]] And the whole multitude of them arose, and led him unto Pilate.

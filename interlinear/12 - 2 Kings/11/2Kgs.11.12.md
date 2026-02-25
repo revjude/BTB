@@ -1,8 +1,76 @@
+---
+title: 2 Kings 11:12
+type: Verse
+kjv: "And he brought forth the king’s son, and put the crown upon him, and gave him the testimony; and they made him king, and anointed him; and they clapped their hands, and said, God save the king."
+bsb: "Then Jehoiada brought out the king’s son, put the crown on him, presented him with the Testimony, and proclaimed him king. They anointed him, and the people clapped their hands and declared, “Long live the king!”"
+hebrew: "וַיּוֹצִ֣א אֶת־ בֶּן־ הַמֶּ֗לֶךְ וַיִּתֵּ֤ן עָלָיו֙ אֶת־ הַנֵּ֙זֶר֙ וְאֶת־ הָ֣עֵד֔וּת וַיַּמְלִ֥כוּ אֹת֖וֹ וַיִּמְשָׁחֻ֑הוּ וַיַּכּוּ־ כָ֔ף וַיֹּאמְר֖וּ יְחִ֥י הַמֶּֽלֶךְ׃ ס"
+pericope: "[[2Kgs.11.4 Joash Anointed King of Judah|Joash Anointed King of Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 11
+book/chapter: "[[2Kgs.11|2 Kings 11]]"
+chronological_order: 584
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~835–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic ANOINTING|ANOINTING]]"
+- "[[topic ARMIES|ARMIES]]"
+- "[[topic ATHALIAH|ATHALIAH]]"
+- "[[topic CHURCH AND STATE|CHURCH AND STATE]]"
+- "[[topic CITIZENS|CITIZENS]]"
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic CROWN|CROWN]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic JOASH|JOASH]]"
+- "[[topic KING|KING]]"
+- "[[topic LAW|LAW]]"
+- "[[topic LOYALTY|LOYALTY]]"
+- "[[topic ORPHAN|ORPHAN]]"
+- "[[topic USURPATION|USURPATION]]"
+- "[[topic WOMEN|WOMEN]]"
+- "[[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]"
+strongs:
+- "[[H9001]]"
+- "[[H3318H]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H1121A]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H5414H]]"
+- "[[H5921A]]"
+- "[[H9033]]"
+- "[[H5145H]]"
+- "[[H9002]]"
+- "[[H5715]]"
+- "[[H4427A]]"
+- "[[H4886]]"
+- "[[H5221]]"
+- "[[H3709G]]"
+- "[[H0559]]"
+- "[[H2421]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Kings 11:12**<big><big>[[2Kgs.11.4 Joash Anointed King of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And he brought forth the king’s son, and put the crown upon him, and [gave him] the testimony; and they made him king, and anointed him; and they clapped their hands, and said, God save the king.
 <small><sub>**BSB:**</sub></small>
 Then Jehoiada brought out the king’s son, put the crown on him, presented him with the Testimony, and proclaimed him king. They anointed him, and the people clapped their hands and declared, “Long live the king!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3318H\|יּוֹצִ֣א]] [[H0853\|אֶת]][[H9014\|־]] [[H1121A\|בֶּן]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֗לֶךְ]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֤ן]] [[H5921A\|עָלָי]][[H9033\|ו֙]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H5145H\|נֵּ֙זֶר֙]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הָ֣]][[H5715\|עֵד֔וּת]] [[H9001\|וַ]][[H4427A\|יַּמְלִ֥כוּ]] [[H0853\|אֹת֖]][[H9033\|וֹ]] [[H9001\|וַ]][[H4886\|יִּמְשָׁחֻ֑]][[H9033\|הוּ]] [[H9001\|וַ]][[H5221\|יַּכּוּ]][[H9014\|־]] [[H3709G\|כָ֔ף]] [[H9001\|וַ]][[H0559\|יֹּאמְר֖וּ]] [[H2421\|יְחִ֥י]] [[H9009\|הַ]][[H4428G\|מֶּֽלֶךְ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANOINTING|ANOINTING]] • [[topic ARMIES|ARMIES]] • [[topic ATHALIAH|ATHALIAH]] • [[topic CHURCH AND STATE|CHURCH AND STATE]] • [[topic CITIZENS|CITIZENS]] • [[topic CONSPIRACY|CONSPIRACY]] • [[topic CROWN|CROWN]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic JOASH|JOASH]] • [[topic KING|KING]] • [[topic LAW|LAW]] • [[topic LOYALTY|LOYALTY]] • [[topic ORPHAN|ORPHAN]] • [[topic USURPATION|USURPATION]] • [[topic WOMEN|WOMEN]] • [[topic ZEAL, RELIGIOUS|ZEAL, RELIGIOUS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.11.12|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.11|<< 2 Kings 11:11]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.13|2 Kings 11:13 >>]]</td></tr></table>
 
@@ -25,7 +93,7 @@ Then Jehoiada brought out the king’s son, put the crown on him, presented him 
 | a palm  |**<big>&#8207;[[H3709G\|כָ֔ף]]&#8207; </big>**| Khaf<small><sup>[[HNcfsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and they said  |**<big>&#8207;[[H9001\|וַ]]&#8207;&#8207;[[H0559\|יֹּאמְר֖וּ]]&#8207; </big>**| va<small><sup>[[Hc]]</sup></small> i.yo.me.Ru<small><sup>[[HVqw3mp]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | may he live  |**<big>&#8207;[[H2421\|יְחִ֥י]]&#8207; </big>**| ye.Chi<small><sup>[[HVqj3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| the king  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H4428G\|מֶּֽלֶךְ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> Me.lekh<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.11.11|<< 2 Kings 11:11]]</td><td align="center" style="border:none;">[[2Kgs.11|2 Kings 11]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.11.13|2 Kings 11:13 >>]]</td></tr></table>
 
 

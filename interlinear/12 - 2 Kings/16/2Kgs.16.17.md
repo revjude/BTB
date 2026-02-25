@@ -1,8 +1,72 @@
+---
+title: 2 Kings 16:17
+type: Verse
+kjv: "And king Ahaz cut off the borders of the bases, and removed the laver from off them; and took down the sea from off the brasen oxen that were under it, and put it upon a pavement of stones."
+bsb: "King Ahaz also cut off the frames of the movable stands and removed the bronze basin from each of them. He took down the Sea from the bronze oxen that were under it and put it on a stone base."
+hebrew: "וַיְקַצֵּץ֩ הַמֶּ֨לֶךְ אָחָ֜ז אֶת־ הַמִּסְגְּר֣וֹת הַמְּכֹנ֗וֹת וַיָּ֤סַר מֵֽעֲלֵיהֶם֙ אֶת הַכִּיֹּ֔ר וְאֶת־ הַיָּ֣ם הוֹרִ֔ד מֵעַ֛ל הַבָּקָ֥ר הַנְּחֹ֖שֶׁת אֲשֶׁ֣ר תַּחְתֶּ֑יהָ וַיִּתֵּ֣ן אֹת֔וֹ עַ֖ל מַרְצֶ֥פֶת אֲבָנִֽים׃"
+pericope: "[[2Kgs.16.10 The Idolatry of Ahaz|The Idolatry of Ahaz]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 16
+book/chapter: "[[2Kgs.16|2 Kings 16]]"
+chronological_order: 615
+era: Divided Kingdom
+period: "The Divided Kingdom: Jotham and Ahaz"
+date: ~750–715 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic AHAZ|AHAZ]]"
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]]"
+- "[[topic LAVER|LAVER]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[H9001]]"
+- "[[H7112]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H0271G]]"
+- "[[H0853]]"
+- "[[H9014]]"
+- "[[H4526]]"
+- "[[H4350]]"
+- "[[H5493G]]"
+- "[[H9006]]"
+- "[[H5921A]]"
+- "[[H9038]]"
+- "[[H9002]]"
+- "[[H3595]]"
+- "[[H3220G]]"
+- "[[H3381]]"
+- "[[H1241]]"
+- "[[H5178A]]"
+- "[[H0834A]]"
+- "[[H8478G]]"
+- "[[H9034]]"
+- "[[H5414H]]"
+- "[[H9033]]"
+- "[[H4837]]"
+- "[[H0068G]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(K)
+---
+
 **2 Kings 16:17**<big><big>[[2Kgs.16.10 The Idolatry of Ahaz|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And king Ahaz cut off the borders of the bases, and removed the laver from off them; and took down the sea from off the brasen oxen that [were] under it, and put it upon a pavement of stones.
 <small><sub>**BSB:**</sub></small>
 King Ahaz also cut off the frames of the movable stands and removed the bronze basin from each of them. He took down the Sea from the bronze oxen that were under it and put it on a stone base.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7112\|יְקַצֵּץ֩]] [[H9009\|הַ]][[H4428G\|מֶּ֨לֶךְ]] [[H0271G\|אָחָ֜ז]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H4526\|מִּסְגְּר֣וֹת]] [[H9009\|הַ]][[H4350\|מְּכֹנ֗וֹת]] [[H9001\|וַ]][[H5493G\|יָּ֤סַר]] [[H9006\|מֵֽ]][[H5921A\|עֲלֵי]][[H9038\|הֶם֙]] [[H0853\|אֶת]] [[H9009\|הַ]][[H3595\|כִּיֹּ֔ר]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H3220G\|יָּ֣ם]] [[H3381\|הוֹרִ֔ד]] [[H9006\|מֵ]][[H5921A\|עַ֛ל]] [[H9009\|הַ]][[H1241\|בָּקָ֥ר]] [[H9009\|הַ]][[H5178A\|נְּחֹ֖שֶׁת]] [[H0834A\|אֲשֶׁ֣ר]] [[H8478G\|תַּחְתֶּ֑י]][[H9034\|הָ]] [[H9001\|וַ]][[H5414H\|יִּתֵּ֣ן]] [[H0853\|אֹת֔]][[H9033\|וֹ]] [[H5921A\|עַ֖ל]] [[H4837\|מַרְצֶ֥פֶת]] [[H0068G\|אֲבָנִֽים]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AHAZ|AHAZ]] • [[topic ALTAR|ALTAR]] • [[topic ISRAEL, PROPHECIES CONCERNING|ISRAEL, PROPHECIES CONCERNING]] • [[topic LAVER|LAVER]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.16.17|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.16|<< 2 Kings 16:16]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.18|2 Kings 16:18 >>]]</td></tr></table>
 
@@ -33,6 +97,6 @@ King Ahaz also cut off the frames of the movable stands and removed the bronze b
 | stone\<s>  |**<big>&#8207;[[H0068G\|אֲבָנִֽים]]&#8207;&#8207;[[H9016\|׃]]&#8207; </big>**| 'a.va.Nim<small><sup>[[HNcfpa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.16.16|<< 2 Kings 16:16]]</td><td align="center" style="border:none;">[[2Kgs.16|2 Kings 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.16.18|2 Kings 16:18 >>]]</td></tr></table>
 
-[^1]: and \<obj.>  | **<big>[[H0853|אֶת]]</big><big>[[H9002|וְ]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | K
+[^1]: and \<obj.>  | **<big>[[H9002|וְ]]</big><big>[[H0853|אֶת]]</big> ** | ve.<small><sup>[[HC]]</sup></small> 'Et<small><sup>[[HTo]]</sup></small> | K
 [^2]: L spelled: **<span class="ashebrew"><big>ואֶת\־</big></span>**
 

@@ -1,6 +1,91 @@
+---
+title: LXX Deuteronomy 4:34
+type: Verse
+lxx: "if God tested, entering to take to himself a nation from out of the midst of a nation, for a test; and in signs, and in miracles, and by war, and by a fortified hand, and with a high arm, and in great visions, according to all as much as the lord our God did in Egypt, in the presence of your seeing;"
+greek: "ει επείρασεν ο θεός εισελθών λαβείν εαυτώ έθνος εκ μέσου έθνους εν πειρασμώ και εν σημείοις και εν τέρασι και εν πολέμω και εν χειρί κραταιά και εν βραχίονι υψηλώ και εν οράμασι μεγάλοις κατά πάντα όσα εποίησε κύριος ο θεός ημών εν Αιγύπτω ενώπιόν σου βλέποντας"
+original_language: Greek
+testament: Old
+book: Deuteronomy
+chapter: 4
+book/chapter: "[[Deut.4|Deuteronomy 4]]"
+chronological_order: 200
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
+- septuagint
+- pentateuch
+- torah
+- law
+- legal codes
+- deuteronomic code
+- covenant renewal
+- blessings and curses
+- sermon
+- treaty form
+topics:
+- "[[topic ARM|ARM]]"
+- "[[topic GOD|GOD]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic OBLIGATION|OBLIGATION]]"
+strongs:
+- "[[G1487]]"
+- "[[G3985]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1525]]"
+- "[[G2983]]"
+- "[[G1438]]"
+- "[[G1484]]"
+- "[[G1537]]"
+- "[[G3319]]"
+- "[[G1484]]"
+- "[[G1722]]"
+- "[[G3986]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G4592]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G5059]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G4171]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G5495]]"
+- "[[G2900]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G1023]]"
+- "[[G5308]]"
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3705]]"
+- "[[G3173]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3745]]"
+- "[[G4160]]"
+- "[[G2962]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G0125]]"
+- "[[G1799]]"
+- "[[G1473]]"
+- "[[G0991]]"
+---
+
 **LXX Deuteronomy 4:34** 
 <small><sub>**LXX:**</sub></small>
 if God tested, entering to take to himself a nation from out of \[the\] midst of a nation, for a test; and in signs, and in miracles, and by war, and by a fortified hand, and with a high arm, and in great visions, according to all as much as \[the\] <span class="smallcaps">lord</span> our God did in Egypt, in the presence of your seeing; 
+<small><sub>**Greek:**</sub></small>
+[[G1487\|ει]] [[G3985\|επείρασεν]] [[G3588\|ο]] [[G2316\|θεός]] [[G1525\|εισελθών]] [[G2983\|λαβείν]] [[G1438\|εαυτώ]] [[G1484\|έθνος]] [[G1537\|εκ]] [[G3319\|μέσου]] [[G1484\|έθνους]] [[G1722\|εν]] [[G3986\|πειρασμώ]] [[G2532\|και]] [[G1722\|εν]] [[G4592\|σημείοις]] [[G2532\|και]] [[G1722\|εν]] [[G5059\|τέρασι]] [[G2532\|και]] [[G1722\|εν]] [[G4171\|πολέμω]] [[G2532\|και]] [[G1722\|εν]] [[G5495\|χειρί]] [[G2900\|κραταιά]] [[G2532\|και]] [[G1722\|εν]] [[G1023\|βραχίονι]] [[G5308\|υψηλώ]] [[G2532\|και]] [[G1722\|εν]] [[G3705\|οράμασι]] [[G3173\|μεγάλοις]] [[G2596\|κατά]] [[G3956\|πάντα]] [[G3745\|όσα]] [[G4160\|εποίησε]] [[G2962\|κύριος]] [[G3588\|ο]] [[G2316\|θεός]] [[G1473\|ημών]] [[G1722\|εν]] [[G0125\|Αιγύπτω]] [[G1799\|ενώπιόν]] [[G1473\|σου]] [[G0991\|βλέποντας]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARM|ARM]] • [[topic GOD|GOD]] • [[topic MIRACLES|MIRACLES]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic OBLIGATION|OBLIGATION]]</small>
 <small><sub>**MT:**</sub></small>
 [[Deut.4.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.33|<< Deuteronomy 4:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.35|Deuteronomy 4:35 >>]]</td></tr></table>
 
@@ -50,6 +135,6 @@ if God tested, entering to take to himself a nation from out of \[the\] midst of
 | in the presence of | **<big>[[G1799\|ενώπιόν]]</big>** |
 | your | **<big>[[G1473\|σου]]</big>** |
 | seeing; | **<big>[[G0991\|βλέποντας]]</big>** |
-[[Deut.4.34|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.33|<< Deuteronomy 4:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.35|Deuteronomy 4:35 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.Deut.4.33|<< Deuteronomy 4:33]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.Deut.4.35|Deuteronomy 4:35 >>]]</td></tr></table>
 
 

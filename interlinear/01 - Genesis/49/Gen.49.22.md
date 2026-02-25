@@ -1,8 +1,55 @@
+---
+title: Genesis 49:22
+type: Verse
+kjv: "Joseph is a fruitful bough, even a fruitful bough by a well; whose branches run over the wall:"
+bsb: "Joseph is a fruitful vine—a fruitful vine by a spring, whose branches scale the wall."
+hebrew: "בֵּ֤ן פֹּרָת֙ יוֹסֵ֔ף בֵּ֥ן פֹּרָ֖ת עֲלֵי־ עָ֑יִן בָּנ֕וֹת צָעֲדָ֖ה עֲלֵי־ שֽׁוּר׃"
+pericope: "[[Gen.49.1 Jacob Blesses His Sons|Jacob Blesses His Sons]]"
+original_language: Hebrew
+testament: Old
+book: Genesis
+chapter: 49
+book/chapter: "[[Gen.49|Genesis 49]]"
+chronological_order: 91
+era: Patriarchal Period
+period: "The Patriarchs: Joseph and the Sojourn in Egypt"
+date: ~1915–1805 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- primeval narrative
+- patriarchal narrative
+- origin story
+topics:
+- "[[topic DEATH|DEATH]]"
+- "[[topic JACOB|JACOB]]"
+- "[[topic PARENTS|PARENTS]]"
+strongs:
+- "[[H1121H]]"
+- "[[H6509]]"
+- "[[H3130G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H5869M]]"
+- "[[H1323G]]"
+- "[[H6805]]"
+- "[[H7791A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Genesis 49:22**<big><big>[[Gen.49.1 Jacob Blesses His Sons|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Joseph [is] a fruitful bough, [even] a fruitful bough by a well; [whose] branches run over the wall:
 <small><sub>**BSB:**</sub></small>
 Joseph is a fruitful vine—a fruitful vine by a spring, whose branches scale the wall.
+<small><sub>**Hebrew:**</sub></small>
+[[H1121H\|בֵּ֤ן]] [[H6509\|פֹּרָת֙]] [[H3130G\|יוֹסֵ֔ף]] [[H1121H\|בֵּ֥ן]] [[H6509\|פֹּרָ֖ת]] [[H5921A\|עֲלֵי]][[H9014\|־]] [[H5869M\|עָ֑יִן]] [[H1323G\|בָּנ֕וֹת]] [[H6805\|צָעֲדָ֖ה]] [[H5921A\|עֲלֵי]][[H9014\|־]] [[H7791A\|שֽׁוּר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEATH|DEATH]] • [[topic JACOB|JACOB]] • [[topic PARENTS|PARENTS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Gen.49.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Gen.49.21|<< Genesis 49:21]]</td><td align="center" style="border:none;">[[Gen.49|Genesis 49]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Gen.49.23|Genesis 49:23 >>]]</td></tr></table>
 

@@ -7,7 +7,7 @@
 
 → In John the weight was equivalent to about twelve ounces [[John.12.3|Joh 12:3]]
 
-→ In Luke the Greek word &#8220;mina&#8221; is translated &#8220;pound,&#8221; and worth  approximately one-hundred denarii (more than three months' wages) [[Luke.19.13|Lu 19:13]]-[[Luke.19.25|25]]
+→ In Luke the Greek word &#8220;mina&#8221; is translated &#8220;pound,&#8221; and worth  approximately one-hundred denarii (more than three months' wages) [[Luke.19.13|Lu 19:13-25]]
 
 → See [[topic MEASURE|MEASURE]]
 

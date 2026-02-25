@@ -1,8 +1,64 @@
+---
+title: Exodus 29:37
+type: Verse
+kjv: "Seven days thou shalt make an atonement for the altar, and sanctify it; and it shall be an altar most holy: whatsoever toucheth the altar shall be holy."
+bsb: "For seven days you shall make atonement for the altar and consecrate it. Then the altar will become most holy; whatever touches the altar will be holy."
+hebrew: "שִׁבְעַ֣ת יָמִ֗ים תְּכַפֵּר֙ עַל־ הַמִּזְבֵּ֔חַ וְקִדַּשְׁתָּ֖ אֹת֑וֹ וְהָיָ֤ה הַמִּזְבֵּ֙חַ֙ קֹ֣דֶשׁ קָֽדָשִׁ֔ים כָּל־ הַנֹּגֵ֥עַ בַּמִּזְבֵּ֖חַ יִקְדָּֽשׁ׃ ס"
+pericope: "[[Exod.29.31 Food for the Priests|Food for the Priests]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 29
+book/chapter: "[[Exod.29|Exodus 29]]"
+chronological_order: 121
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic SANCTIFICATION|SANCTIFICATION]]"
+strongs:
+- "[[H7651]]"
+- "[[H3117G]]"
+- "[[H3722A]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H9009]]"
+- "[[H4196]]"
+- "[[H9001]]"
+- "[[H6942G]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H1961]]"
+- "[[H6944G]]"
+- "[[H3605]]"
+- "[[H5060]]"
+- "[[H9003]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **Exodus 29:37**<big><big>[[Exod.29.31 Food for the Priests|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Seven days thou shalt make an atonement for the altar, and sanctify it; and it shall be an altar most holy: whatsoever toucheth the altar shall be holy.
 <small><sub>**BSB:**</sub></small>
 For seven days you shall make atonement for the altar and consecrate it. Then the altar will become most holy; whatever touches the altar will be holy.
+<small><sub>**Hebrew:**</sub></small>
+[[H7651\|שִׁבְעַ֣ת]] [[H3117G\|יָמִ֗ים]] [[H3722A\|תְּכַפֵּר֙]] [[H5921A\|עַל]][[H9014\|־]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֔חַ]] [[H9001\|וְ]][[H6942G\|קִדַּשְׁתָּ֖]] [[H0853\|אֹת֑]][[H9033\|וֹ]] [[H9001\|וְ]][[H1961\|הָיָ֤ה]] [[H9009\|הַ]][[H4196\|מִּזְבֵּ֙חַ֙]] [[H6944G\|קֹ֣דֶשׁ]] [[H6944G\|קָֽדָשִׁ֔ים]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H5060\|נֹּגֵ֥עַ]] [[H9003\|בַּ]][[H4196\|מִּזְבֵּ֖חַ]] [[H6942G\|יִקְדָּֽשׁ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic SANCTIFICATION|SANCTIFICATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.29.37|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.36|<< Exodus 29:36]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.38|Exodus 29:38 >>]]</td></tr></table>
 
@@ -22,7 +78,7 @@ For seven days you shall make atonement for the altar and consecrate it. Then th
 | every  |**<big>&#8207;[[H3605\|כָּל]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| kol-<small><sup>[[HNcmsc]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<the> [thing which] touches  |**<big>&#8207;[[H9009\|הַ]]&#8207;&#8207;[[H5060\|נֹּגֵ֥עַ]]&#8207; </big>**| ha.<small><sup>[[HTd]]</sup></small> no.Ge.a'<small><sup>[[HVqrmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<in> the altar  |**<big>&#8207;[[H9003\|בַּ]]&#8207;&#8207;[[H4196\|מִּזְבֵּ֖חַ]]&#8207; </big>**| ba.<small><sup>[[HRd]]</sup></small> miz.Be.ach<small><sup>[[HNcmsa]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| it will be holy  |**<big>&#8207;[[H6942G\|יִקְדָּֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yik.Dash<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| it will be holy  |**<big>&#8207;[[H6942G\|יִקְדָּֽשׁ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| yik.Dash<small><sup>[[HVqi3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.29.36|<< Exodus 29:36]]</td><td align="center" style="border:none;">[[Exod.29|Exodus 29]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.29.38|Exodus 29:38 >>]]</td></tr></table>
 
 

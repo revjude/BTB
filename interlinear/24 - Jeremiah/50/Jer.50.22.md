@@ -1,8 +1,46 @@
+---
+title: Jeremiah 50:22
+type: Verse
+kjv: "A sound of battle is in the land, and of great destruction."
+bsb: "“The noise of battle is in the land—the noise of great destruction."
+hebrew: "ק֥וֹל מִלְחָמָ֖ה בָּאָ֑רֶץ וְשֶׁ֖בֶר גָּדֽוֹל׃"
+pericope: "[[Jer.50.21 The Destruction of Babylon|The Destruction of Babylon]]"
+original_language: Hebrew
+testament: Old
+book: Jeremiah
+chapter: 50
+book/chapter: "[[Jer.50|Jeremiah 50]]"
+chronological_order: 773
+era: Exile
+period: "Exile in Babylon: Jeremiah's Final Words"
+date: ~586–580 BC
+book_genre:
+- latter prophets
+- major prophets
+- prophetic oracle
+- poetry
+- narrative
+- lament
+strongs:
+- "[[H6963H]]"
+- "[[H4421]]"
+- "[[H9003]]"
+- "[[H0776G]]"
+- "[[H9002]]"
+- "[[H7667]]"
+- "[[H1419A]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Jeremiah 50:22**<big><big>[[Jer.50.21 The Destruction of Babylon|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 A sound of battle [is] in the land, and of great destruction.
 <small><sub>**BSB:**</sub></small>
 “The noise of battle is in the land—the noise of great destruction.
+<small><sub>**Hebrew:**</sub></small>
+[[H6963H\|ק֥וֹל]] [[H4421\|מִלְחָמָ֖ה]] [[H9003\|בָּ]][[H0776G\|אָ֑רֶץ]] [[H9002\|וְ]][[H7667\|שֶׁ֖בֶר]] [[H1419A\|גָּדֽוֹל]][[H9016\|׃]]
 <small><sub>**LXX:**</sub></small>
 [[LXX.Jer.50.22|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Jer.50.21|<< Jeremiah 50:21]]</td><td align="center" style="border:none;">[[Jer.50|Jeremiah 50]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Jer.50.23|Jeremiah 50:23 >>]]</td></tr></table>
 

@@ -1,10 +1,57 @@
+---
+title: Luke 4:33
+type: Verse
+kjv: "And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice,"
+bsb: "In the synagogue there was a man possessed by the spirit of an unclean demon. He cried out in a loud voice,"
+greek: "καὶ ἐν τῇ συναγωγῇ ἦν ἄνθρωπος ἔχων πνεῦμα δαιμονίου ἀκαθάρτου, καὶ ἀνέκραξεν φωνῇ μεγάλῃ·"
+pericope: "[[Luke.4.31 Jesus Expels an Unclean Spirit|Jesus Expels an Unclean Spirit]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 4
+book/chapter: "[[Luke.4|Luke 4]]"
+chronological_order: 938
+era: Gospel
+period: "The Life of Christ: Early Ministry"
+date: ~AD 26–27
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic DEMONS|DEMONS]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MIRACLES|MIRACLES]]"
+- "[[topic SYNAGOGUE|SYNAGOGUE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G3588]]"
+- "[[G4864]]"
+- "[[G1510]]"
+- "[[G0444]]"
+- "[[G2192]]"
+- "[[G4151G]]"
+- "[[G1140]]"
+- "[[G0169]]"
+- "[[G0349]]"
+- "[[G5456G]]"
+- "[[G3173]]"
+texts:
+- NKO
+---
+
 **Luke 4:33**<big><big>[[Luke.4.31 Jesus Expels an Unclean Spirit|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice,
 <small><sub>**BSB:**</sub></small>
 In the synagogue there was a man possessed by the spirit of an unclean demon. He cried out in a loud voice,
-<small><sub>**Literal:**</sub></small>
-And in the synagogue was a man having a spirit of a demon unclean, and he cried out in a voice loud;<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.32|<< Luke 4:32]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.34|Luke 4:34 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G1722\|ἐν]]  [[G3588\|τῇ]]  [[G4864\|συναγωγῇ]]  [[G1510\|ἦν]]  [[G0444\|ἄνθρωπος]]  [[G2192\|ἔχων]]  [[G4151G\|πνεῦμα]]  [[G1140\|δαιμονίου]]  [[G0169\|ἀκαθάρτου,]]  [[G2532\|καὶ]]  [[G0349\|ἀνέκραξεν]]  [[G5456G\|φωνῇ]]  [[G3173\|μεγάλῃ·]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic DEMONS|DEMONS]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MIRACLES|MIRACLES]] • [[topic SYNAGOGUE|SYNAGOGUE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.4.32|<< Luke 4:32]]</td><td align="center" style="border:none;">[[Luke.4|Luke 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.4.34|Luke 4:34 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

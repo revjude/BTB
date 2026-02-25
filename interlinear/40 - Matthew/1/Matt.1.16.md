@@ -1,10 +1,55 @@
+---
+title: Matthew 1:16
+type: Verse
+kjv: "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ."
+bsb: "and Jacob the father of Joseph, the husband of Mary, of whom was born Jesus, who is called Christ."
+greek: "Ἰακὼβ δὲ ἐγέννησεν τὸν Ἰωσὴφ τὸν ἄνδρα Μαρίας ἐξ ἧς ἐγεννήθη Ἰησοῦς ὁ λεγόμενος Χριστός.¶"
+pericope: "[[Matt.1.1 The Genealogy of Jesus|The Genealogy of Jesus]]"
+original_language: Greek
+testament: New
+book: Matthew
+chapter: 1
+book/chapter: "[[Matt.1|Matthew 1]]"
+chronological_order: 931
+era: Gospel
+period: "The Life of Christ: Birth and Infancy"
+date: ~5–4 BC
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic GENEALOGY|GENEALOGY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic JOSEPH|JOSEPH]]"
+- "[[topic MARY|MARY]]"
+strongs:
+- "[[G2384G]]"
+- "[[G1161]]"
+- "[[G1080]]"
+- "[[G3588]]"
+- "[[G2501G]]"
+- "[[G0435H]]"
+- "[[G3137G]]"
+- "[[G1537]]"
+- "[[G3739]]"
+- "[[G2424G]]"
+- "[[G3004H]]"
+- "[[G5547]]"
+texts:
+- NKO
+---
+
 **Matthew 1:16**<big><big>[[Matt.1.1 The Genealogy of Jesus|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.
 <small><sub>**BSB:**</sub></small>
 and Jacob the father of Joseph, the husband of Mary, of whom was born Jesus, who is called Christ.
-<small><sub>**Literal:**</sub></small>
-Jacob then begat <the> Joseph the husband of Mary out of whom was born Jesus who is being named Christ.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.15|<< Matthew 1:15]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.17|Matthew 1:17 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2384G\|Ἰακὼβ]]  [[G1161\|δὲ]]  [[G1080\|ἐγέννησεν]]  [[G3588\|τὸν]]  [[G2501G\|Ἰωσὴφ]]  [[G3588\|τὸν]]  [[G0435H\|ἄνδρα]]  [[G3137G\|Μαρίας]]  [[G1537\|ἐξ]]  [[G3739\|ἧς]]  [[G1080\|ἐγεννήθη]]  [[G2424G\|Ἰησοῦς]]  [[G3588\|ὁ]]  [[G3004H\|λεγόμενος]]  [[G5547\|Χριστός.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GENEALOGY|GENEALOGY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic JOSEPH|JOSEPH]] • [[topic MARY|MARY]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Matt.1.15|<< Matthew 1:15]]</td><td align="center" style="border:none;">[[Matt.1|Matthew 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Matt.1.17|Matthew 1:17 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

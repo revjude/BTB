@@ -1,8 +1,70 @@
+---
+title: Job 1:21
+type: Verse
+kjv: "And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD."
+bsb: "saying: “Naked I came from my mother’s womb, and naked I will return. The LORD gave, and the LORD has taken away. Blessed be the name of the LORD.”"
+hebrew: "וַיֹּאמֶר֩ עָרֹ֨ם יָצָ֜אתִי מִבֶּ֣טֶן אִמִּ֗י וְעָרֹם֙ אָשׁ֣וּב שָׁ֔מָה יְהוָ֣ה נָתַ֔ן וַיהוָ֖ה לָקָ֑ח יְהִ֛י שֵׁ֥ם יְהוָ֖ה מְבֹרָֽךְ׃"
+pericope: "[[Job.1.13 Job Loses His Children and Possessions|Job Loses His Children and Possessions]]"
+original_language: Hebrew
+testament: Old
+book: Job
+chapter: 1
+book/chapter: "[[Job.1|Job 1]]"
+chronological_order: 12
+era: Patriarchal Period
+period: "The Patriarchs: Job"
+date: ~2100–1900 BC
+book_genre:
+- wisdom literature
+- poetry
+- dialogue
+- narrative frame
+- theodicy
+topics:
+- "[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]]"
+- "[[topic BEREAVEMENT|BEREAVEMENT]]"
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic DEATH|DEATH]]"
+- "[[topic FAITHFULNESS|FAITHFULNESS]]"
+- "[[topic JOB|JOB]]"
+- "[[topic PATIENCE|PATIENCE]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic RESIGNATION|RESIGNATION]]"
+- "[[topic TEMPTATION|TEMPTATION]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H6174]]"
+- "[[H3318M]]"
+- "[[H9006]]"
+- "[[H0990H]]"
+- "[[H0517]]"
+- "[[H9020]]"
+- "[[H9002]]"
+- "[[H7725G]]"
+- "[[H8033G]]"
+- "[[H9011]]"
+- "[[H3068G]]"
+- "[[H5414G]]"
+- "[[H3947G]]"
+- "[[H1961]]"
+- "[[H8034]]"
+- "[[H1288]]"
+- "[[H9016]]"
+texts:
+- L
+- Q(k)
+---
+
 **Job 1:21**<big><big>[[Job.1.13 Job Loses His Children and Possessions|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.
 <small><sub>**BSB:**</sub></small>
 saying: “Naked I came from my mother’s womb, and naked I will return. The LORD gave, and the LORD has taken away. Blessed be the name of the LORD.”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּאמֶר֩]] [[H6174\|עָרֹ֨ם]] [[H3318M\|יָצָ֜אתִי]] [[H9006\|מִ]][[H0990H\|בֶּ֣טֶן]] [[H0517\|אִמִּ֗]][[H9020\|י]] [[H9002\|וְ]][[H6174\|עָרֹם֙]] [[H7725G\|אָשׁ֣וּב]] [[H8033G\|שָׁ֔מָ]][[H9011\|ה]] [[H3068G\|יְהוָ֣ה]] [[H5414G\|נָתַ֔ן]] [[H9002\|וַ]][[H3068G\|יהוָ֖ה]] [[H3947G\|לָקָ֑ח]] [[H1961\|יְהִ֛י]] [[H8034\|שֵׁ֥ם]] [[H3068G\|יְהוָ֖ה]] [[H1288\|מְבֹרָֽךְ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic AFFLICTIONS AND ADVERSITIES|AFFLICTIONS AND ADVERSITIES]] • [[topic BEREAVEMENT|BEREAVEMENT]] • [[topic CHILDREN|CHILDREN]] • [[topic DEATH|DEATH]] • [[topic FAITHFULNESS|FAITHFULNESS]] • [[topic JOB|JOB]] • [[topic PATIENCE|PATIENCE]] • [[topic PRAYER|PRAYER]] • [[topic RESIGNATION|RESIGNATION]] • [[topic TEMPTATION|TEMPTATION]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Job.1.21|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Job.1.20|<< Job 1:20]]</td><td align="center" style="border:none;">[[Job.1|Job 1]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Job.1.22|Job 1:22 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture

@@ -1,8 +1,63 @@
+---
+title: Exodus 30:3
+type: Verse
+kjv: "And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about."
+bsb: "Overlay with pure gold the top and all the sides and horns, and make a molding of gold around it."
+hebrew: "וְצִפִּיתָ֨ אֹת֜וֹ זָהָ֣ב טָה֗וֹר אֶת־ גַּגּ֧וֹ וְאֶת־ קִירֹתָ֛יו סָבִ֖יב וְאֶת־ קַרְנֹתָ֑יו וְעָשִׂ֥יתָ לּ֛וֹ זֵ֥ר זָהָ֖ב סָבִֽיב׃"
+pericope: "[[Exod.30.1 The Altar of Incense|The Altar of Incense]]"
+original_language: Hebrew
+testament: Old
+book: Exodus
+chapter: 30
+book/chapter: "[[Exod.30|Exodus 30]]"
+chronological_order: 122
+era: Egypt and Exodus
+period: "The Covenant at Sinai"
+date: ~1446–1445 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- covenant code
+- ritual codes
+- building codes
+- liberation narrative
+topics:
+- "[[topic ALTAR|ALTAR]]"
+- "[[topic INCENSE|INCENSE]]"
+strongs:
+- "[[H9001]]"
+- "[[H6823]]"
+- "[[H0853]]"
+- "[[H9033]]"
+- "[[H2091]]"
+- "[[H2889]]"
+- "[[H9014]]"
+- "[[H1406]]"
+- "[[H9023]]"
+- "[[H9002]]"
+- "[[H7023]]"
+- "[[H5439G]]"
+- "[[H7161A]]"
+- "[[H6213H]]"
+- "[[H9005]]"
+- "[[H2213]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Exodus 30:3**<big><big>[[Exod.30.1 The Altar of Incense|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about.
 <small><sub>**BSB:**</sub></small>
 Overlay with pure gold the top and all the sides and horns, and make a molding of gold around it.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וְ]][[H6823\|צִפִּיתָ֨]] [[H0853\|אֹת֜]][[H9033\|וֹ]] [[H2091\|זָהָ֣ב]] [[H2889\|טָה֗וֹר]] [[H0853\|אֶת]][[H9014\|־]] [[H1406\|גַּגּ֧]][[H9023\|וֹ]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7023\|קִירֹתָ֛י]][[H9023\|ו]] [[H5439G\|סָבִ֖יב]] [[H9002\|וְ]][[H0853\|אֶת]][[H9014\|־]] [[H7161A\|קַרְנֹתָ֑י]][[H9023\|ו]] [[H9001\|וְ]][[H6213H\|עָשִׂ֥יתָ]] [[H9005\|לּ֛]][[H9033\|וֹ]] [[H2213\|זֵ֥ר]] [[H2091\|זָהָ֖ב]] [[H5439G\|סָבִֽיב]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ALTAR|ALTAR]] • [[topic INCENSE|INCENSE]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Exod.30.3|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Exod.30.2|<< Exodus 30:2]]</td><td align="center" style="border:none;">[[Exod.30|Exodus 30]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Exod.30.4|Exodus 30:4 >>]]</td></tr></table>
 

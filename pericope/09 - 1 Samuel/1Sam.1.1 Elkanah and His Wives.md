@@ -1,20 +1,27 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Elkanah and His Wives
+type: Pericope
 pericope: "[[1Sam.1.1 Elkanah and His Wives|Elkanah and His Wives]]"
-verse_count: 8
+original_language: Hebrew
 testament: Old
 book: 1 Samuel
 chapter: 1
 book/chapter: "[[1Sam.1|1 Samuel 1]]"
-genre:
+chronological_order: 280
+era: Conquest and Judges
+period: "Samuel and the Transition to Monarchy"
+date: ~1100–1050 BC
+book_genre:
 - former prophets
 - narrative
 - deuteronomistic history
 - monarchic narrative
+verse_count: 8
 verses:
 - "[[1Sam.1.1]]"
 - "[[1Sam.1.2]]"
@@ -26,7 +33,7 @@ verses:
 - "[[1Sam.1.8]]"
 ---
 
-[[1Sam.1|1 Samuel 1:1 - 1 Samuel 1:8]]
+<small>[[1Sam.1|1 Samuel 1:1-8]]</small>
 *Elkanah and His Wives*
 
 [[1Sam.1.1|1]] Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name \[was\] Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:

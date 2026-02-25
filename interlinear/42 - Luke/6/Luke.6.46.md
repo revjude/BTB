@@ -1,10 +1,56 @@
+---
+title: Luke 6:46
+type: Verse
+kjv: "And why call ye me, Lord, Lord, and do not the things which I say?"
+bsb: "Why do you call Me ‘Lord, Lord,’ but do not do what I say?"
+jesus_said: "And why call ye me, Lord, Lord, and do not the things which I say?"
+greek: "τί δέ με καλεῖτε· κύριε κύριε, καὶ οὐ ποιεῖτε ἃ λέγω;¶"
+pericope: "[[Luke.6.46 The House on the Rock|The House on the Rock]]"
+original_language: Greek
+testament: New
+book: Luke
+chapter: 6
+book/chapter: "[[Luke.6|Luke 6]]"
+chronological_order: 949
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+- historical narrative
+topics:
+- "[[topic FAITH|FAITH]]"
+- "[[topic HYPOCRISY|HYPOCRISY]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic OBEDIENCE|OBEDIENCE]]"
+- "[[topic SERMON|SERMON]]"
+strongs:
+- "[[G5101]]"
+- "[[G1161]]"
+- "[[G3165]]"
+- "[[G2564G]]"
+- "[[G2962G]]"
+- "[[G2532]]"
+- "[[G3756]]"
+- "[[G4160G]]"
+- "[[G3739]]"
+- "[[G3004G]]"
+texts:
+- NKO
+---
+
 **Luke 6:46**<big><big>[[Luke.6.46 The House on the Rock|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And why call ye me, Lord, Lord, and do not the things which I say?
 <small><sub>**BSB:**</sub></small>
 Why do you call Me ‘Lord, Lord,’ but do not do what I say?
-<small><sub>**Literal:**</sub></small>
-Why now Me do you call: Lord Lord, and not do what I say?<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.45|<< Luke 6:45]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.47|Luke 6:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G5101\|τί]]  [[G1161\|δέ]]  [[G3165\|με]]  [[G2564G\|καλεῖτε·]]  [[G2962G\|κύριε]]  [[G2962G\|κύριε,]]  [[G2532\|καὶ]]  [[G3756\|οὐ]]  [[G4160G\|ποιεῖτε]]  [[G3739\|ἃ]]  [[G3004G\|λέγω;¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FAITH|FAITH]] • [[topic HYPOCRISY|HYPOCRISY]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic OBEDIENCE|OBEDIENCE]] • [[topic SERMON|SERMON]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Luke.6.45|<< Luke 6:45]]</td><td align="center" style="border:none;">[[Luke.6|Luke 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Luke.6.47|Luke 6:47 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

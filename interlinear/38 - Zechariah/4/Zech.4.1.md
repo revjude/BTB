@@ -1,8 +1,59 @@
+---
+title: Zechariah 4:1
+type: Verse
+kjv: "And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,"
+bsb: "Then the angel who was speaking with me returned and woke me, as a man is awakened from his sleep."
+hebrew: "וַיָּ֕שָׁב הַמַּלְאָ֖ךְ הַדֹּבֵ֣ר בִּ֑י וַיְעִירֵ֕נִי כְּאִ֖ישׁ אֲשֶׁר־ יֵע֥וֹר מִשְּׁנָתֽוֹ׃"
+pericope: "[[Zech.4.1 The Vision of the Lampstand and Olive Trees|The Vision of the Lampstand and Olive Trees]]"
+original_language: Hebrew
+testament: Old
+book: Zechariah
+chapter: 4
+book/chapter: "[[Zech.4|Zechariah 4]]"
+chronological_order: 860
+era: Return
+period: "Return from Exile: Zechariah's Visions and Prophecies"
+date: ~520–480 BC
+book_genre:
+- latter prophets
+- minor prophets
+- prophetic oracle
+- visionary
+- apocalyptic
+- post exilic
+topics:
+- "[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]]"
+- "[[topic HOLY SPIRIT|HOLY SPIRIT]]"
+strongs:
+- "[[H9001]]"
+- "[[H7725G]]"
+- "[[H9009]]"
+- "[[H4397H]]"
+- "[[H1696G]]"
+- "[[H9003]]"
+- "[[H9030]]"
+- "[[H5782]]"
+- "[[H9004]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H9014]]"
+- "[[H9006]]"
+- "[[H8142]]"
+- "[[H9023]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Zechariah 4:1**<big><big>[[Zech.4.1 The Vision of the Lampstand and Olive Trees|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And the angel that talked with me came again, and waked me, as a man that is wakened out of his sleep,
 <small><sub>**BSB:**</sub></small>
 Then the angel who was speaking with me returned and woke me, as a man is awakened from his sleep.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H7725G\|יָּ֕שָׁב]] [[H9009\|הַ]][[H4397H\|מַּלְאָ֖ךְ]] [[H9009\|הַ]][[H1696G\|דֹּבֵ֣ר]] [[H9003\|בִּ֑]][[H9030\|י]] [[H9001\|וַ]][[H5782\|יְעִירֵ֕]][[H9030\|נִי]] [[H9004\|כְּ]][[H0376G\|אִ֖ישׁ]] [[H0834A\|אֲשֶׁר]][[H9014\|־]] [[H5782\|יֵע֥וֹר]] [[H9006\|מִ]][[H8142\|שְּׁנָתֽ]][[H9023\|וֹ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ANGEL (A SPIRIT)|ANGEL (A SPIRIT)]] • [[topic HOLY SPIRIT|HOLY SPIRIT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Zech.4.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Zech.3.10|<< Zechariah 3:10]]</td><td align="center" style="border:none;">[[Zech.4|Zechariah 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Zech.4.2|Zechariah 4:2 >>]]</td></tr></table>
 

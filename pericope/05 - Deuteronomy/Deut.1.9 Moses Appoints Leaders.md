@@ -1,16 +1,22 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Moses Appoints Leaders
+type: Pericope
 pericope: "[[Deut.1.9 Moses Appoints Leaders|Moses Appoints Leaders]]"
-verse_count: 10
+original_language: Hebrew
 testament: Old
 book: Deuteronomy
 chapter: 1
 book/chapter: "[[Deut.1|Deuteronomy 1]]"
-genre:
+chronological_order: 197
+era: Egypt and Exodus
+period: "Moses' Farewell Addresses"
+date: ~1406 BC
+book_genre:
 - pentateuch
 - torah
 - law
@@ -20,6 +26,7 @@ genre:
 - blessings and curses
 - sermon
 - treaty form
+verse_count: 10
 verses:
 - "[[Deut.1.9]]"
 - "[[Deut.1.10]]"
@@ -33,7 +40,7 @@ verses:
 - "[[Deut.1.18]]"
 ---
 
-[[Deut.1|Deuteronomy 1:9 - Deuteronomy 1:18]]
+<small>[[Deut.1|Deuteronomy 1:9-18]]</small>
 *Moses Appoints Leaders*
 
 [[Deut.1.9|9]] And I spake unto you at that time, saying, I am not able to bear you myself alone:

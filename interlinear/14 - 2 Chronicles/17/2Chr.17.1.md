@@ -1,8 +1,52 @@
+---
+title: 2 Chronicles 17:1
+type: Verse
+kjv: "And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel."
+bsb: "Asa’s son Jehoshaphat reigned in his place, and he strengthened himself against Israel."
+hebrew: "וַיִּמְלֹ֛ךְ יְהוֹשָׁפָ֥ט בְּנ֖וֹ תַּחְתָּ֑יו וַיִּתְחַזֵּ֖ק עַל־ יִשְׂרָאֵֽל׃"
+pericope: "[[2Chr.17.1 Jehoshaphat Reigns in Judah|Jehoshaphat Reigns in Judah]]"
+original_language: Hebrew
+testament: Old
+book: 2 Chronicles
+chapter: 17
+book/chapter: "[[2Chr.17|2 Chronicles 17]]"
+chronological_order: 569
+era: Divided Kingdom
+period: "The Divided Kingdom: Elijah and Ahab"
+date: ~874–853 BC
+book_genre:
+- narrative
+- monarchic narrative
+- temple focused
+- building codes
+topics:
+- "[[topic JEHOSHAPHAT|JEHOSHAPHAT]]"
+strongs:
+- "[[H9001]]"
+- "[[H4427A]]"
+- "[[H3092I]]"
+- "[[H1121A]]"
+- "[[H9023]]"
+- "[[H8478H]]"
+- "[[H9033]]"
+- "[[H2388G]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H3478]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Chronicles 17:1**<big><big>[[2Chr.17.1 Jehoshaphat Reigns in Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel.
 <small><sub>**BSB:**</sub></small>
 Asa’s son Jehoshaphat reigned in his place, and he strengthened himself against Israel.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H4427A\|יִּמְלֹ֛ךְ]] [[H3092I\|יְהוֹשָׁפָ֥ט]] [[H1121A\|בְּנ֖]][[H9023\|וֹ]] [[H8478H\|תַּחְתָּ֑י]][[H9033\|ו]] [[H9001\|וַ]][[H2388G\|יִּתְחַזֵּ֖ק]] [[H5921A\|עַל]][[H9014\|־]] [[H3478\|יִשְׂרָאֵֽל]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic JEHOSHAPHAT|JEHOSHAPHAT]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Chr.17.1|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Chr.16.14|<< 2 Chronicles 16:14]]</td><td align="center" style="border:none;">[[2Chr.17|2 Chronicles 17]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Chr.17.2|2 Chronicles 17:2 >>]]</td></tr></table>
 

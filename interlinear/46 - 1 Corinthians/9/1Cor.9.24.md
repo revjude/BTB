@@ -1,10 +1,58 @@
+---
+title: 1 Corinthians 9:24
+type: Verse
+kjv: "Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain."
+bsb: "Do you not know that in a race all the runners run, but only one receives the prize? Run in such a way as to take the prize."
+greek: "Οὐκ οἴδατε ὅτι οἱ ἐν σταδίῳ τρέχοντες πάντες μὲν τρέχουσιν, εἷς δὲ λαμβάνει τὸ βραβεῖον; οὕτως τρέχετε ἵνα καταλάβητε."
+pericope: "[[1Cor.9.24 Run Your Race to Win|Run Your Race to Win]]"
+original_language: Greek
+testament: New
+book: 1 Corinthians
+chapter: 9
+book/chapter: "[[1Cor.9|1 Corinthians 9]]"
+chronological_order: 1066
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
+- epistle
+- pauline epistle
+- pastoral letter
+topics:
+- "[[topic GAMES|GAMES]]"
+- "[[topic PRIZE|PRIZE]]"
+- "[[topic RACE|RACE]]"
+- "[[topic RIGHTEOUS|RIGHTEOUS]]"
+strongs:
+- "[[G3756]]"
+- "[[G6063]]"
+- "[[G3754G]]"
+- "[[G3588]]"
+- "[[G1722]]"
+- "[[G4712]]"
+- "[[G5143]]"
+- "[[G3956]]"
+- "[[G3303]]"
+- "[[G1520]]"
+- "[[G1161]]"
+- "[[G2983]]"
+- "[[G1017]]"
+- "[[G3779]]"
+- "[[G2443]]"
+- "[[G2638]]"
+texts:
+- NKO
+---
+
 **1 Corinthians 9:24**<big><big>[[1Cor.9.24 Run Your Race to Win|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain.
 <small><sub>**BSB:**</sub></small>
 Do you not know that in a race all the runners run, but only one receives the prize? Run in such a way as to take the prize.
-<small><sub>**Literal:**</sub></small>
-Surely you know that those in a race course running all indeed run, one however receives the prize? Thus do run that you may grasp [it].<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.23|<< 1 Corinthians 9:23]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.25|1 Corinthians 9:25 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3756\|Οὐκ]]  [[G6063\|οἴδατε]]  [[G3754G\|ὅτι]]  [[G3588\|οἱ]]  [[G1722\|ἐν]]  [[G4712\|σταδίῳ]]  [[G5143\|τρέχοντες]]  [[G3956\|πάντες]]  [[G3303\|μὲν]]  [[G5143\|τρέχουσιν,]]  [[G1520\|εἷς]]  [[G1161\|δὲ]]  [[G2983\|λαμβάνει]]  [[G3588\|τὸ]]  [[G1017\|βραβεῖον;]]  [[G3779\|οὕτως]]  [[G5143\|τρέχετε]]  [[G2443\|ἵνα]]  [[G2638\|καταλάβητε.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAMES|GAMES]] • [[topic PRIZE|PRIZE]] • [[topic RACE|RACE]] • [[topic RIGHTEOUS|RIGHTEOUS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Cor.9.23|<< 1 Corinthians 9:23]]</td><td align="center" style="border:none;">[[1Cor.9|1 Corinthians 9]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Cor.9.25|1 Corinthians 9:25 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

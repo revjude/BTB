@@ -1,10 +1,61 @@
+---
+title: Mark 7:10
+type: Verse
+kjv: "For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death:"
+bsb: "For Moses said, ‘Honor your father and your mother’ and ‘Anyone who curses his father or mother must be put to death.’"
+jesus_said: "For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death:"
+greek: "Μωϋσῆς γὰρ εἶπεν· τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου, καὶ ὁ κακολογῶν πατέρα ἢ μητέρα θανάτῳ τελευτάτω."
+pericope: "[[Mark.7.1 The Tradition of the Elders|The Tradition of the Elders]]"
+original_language: Greek
+testament: New
+book: Mark
+chapter: 7
+book/chapter: "[[Mark.7|Mark 7]]"
+chronological_order: 969
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
+- gospel
+- synoptic gospel
+- narrative
+- biographical
+topics:
+- "[[topic CHILDREN|CHILDREN]]"
+- "[[topic COMMANDMENTS|COMMANDMENTS]]"
+- "[[topic ECCLESIASTICISM|ECCLESIASTICISM]]"
+- "[[topic JESUS, THE CHRIST|JESUS, THE CHRIST]]"
+- "[[topic MOSES|MOSES]]"
+- "[[topic MOTHER|MOTHER]]"
+- "[[topic PHARISEES|PHARISEES]]"
+- "[[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]"
+strongs:
+- "[[G3475]]"
+- "[[G1063]]"
+- "[[G2036]]"
+- "[[G5091]]"
+- "[[G3588]]"
+- "[[G3962]]"
+- "[[G4771]]"
+- "[[G2532]]"
+- "[[G3384]]"
+- "[[G2551]]"
+- "[[G2228]]"
+- "[[G2288]]"
+- "[[G5053]]"
+texts:
+- NKO
+---
+
 **Mark 7:10**<big><big>[[Mark.7.1 The Tradition of the Elders|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 For Moses said, Honour thy father and thy mother; and, Whoso curseth father or mother, let him die the death:
 <small><sub>**BSB:**</sub></small>
 For Moses said, ‘Honor your father and your mother’ and ‘Anyone who curses his father or mother must be put to death.’
-<small><sub>**Literal:**</sub></small>
-Moses for said; do honor the Father of you and the mother of you,’ and The [one] speaking evil of father or mother in death should end.’<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.9|<< Mark 7:9]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.11|Mark 7:11 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3475\|Μωϋσῆς]]  [[G1063\|γὰρ]]  [[G2036\|εἶπεν·]]  [[G5091\|τίμα]]  [[G3588\|τὸν]]  [[G3962\|πατέρα]]  [[G4771\|σου]]  [[G2532\|καὶ]]  [[G3588\|τὴν]]  [[G3384\|μητέρα]]  [[G4771\|σου,]]  [[G2532\|καὶ]]  [[G3588\|ὁ]]  [[G2551\|κακολογῶν]]  [[G3962\|πατέρα]]  [[G2228\|ἢ]]  [[G3384\|μητέρα]]  [[G2288\|θανάτῳ]]  [[G5053\|τελευτάτω.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CHILDREN|CHILDREN]] • [[topic COMMANDMENTS|COMMANDMENTS]] • [[topic ECCLESIASTICISM|ECCLESIASTICISM]] • [[topic JESUS, THE CHRIST|JESUS, THE CHRIST]] • [[topic MOSES|MOSES]] • [[topic MOTHER|MOTHER]] • [[topic PHARISEES|PHARISEES]] • [[topic QUOTATIONS AND ALLUSIONS|QUOTATIONS AND ALLUSIONS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Mark.7.9|<< Mark 7:9]]</td><td align="center" style="border:none;">[[Mark.7|Mark 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Mark.7.11|Mark 7:11 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Mark 7:10** is...
 > $\quad$ referencing: [[LXX.Exod.20.12|Exod 20:12]] ☩ [[LXX.Exod.21.17|Exod 21:17]] ☩ [[LXX.Deut.5.16|Deut 5:16]] ☩ [[LXX.Lev.20.9|Lev 20:9]] ☩ [[LXX.Prov.20.20|Prov 20:20]]

@@ -1,8 +1,73 @@
+---
+title: 1 Chronicles 16:5
+type: Verse
+kjv: "Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obededom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;"
+bsb: "Asaph was the chief, Zechariah was second, then Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom, and Jeiel. They were to play the harps and lyres, while Asaph sounded the cymbals"
+hebrew: "אָסָ֥ף הָרֹ֖אשׁ וּמִשְׁנֵ֣הוּ זְכַרְיָ֑ה יְעִיאֵ֡ל וּשְׁמִֽירָמ֡וֹת וִֽיחִיאֵ֡ל וּמַתִּתְיָ֡ה וֶאֱלִיאָ֡ב וּבְנָיָהוּ֩ וְעֹבֵ֨ד אֱדֹ֜ם וִֽיעִיאֵ֗ל בִּכְלֵ֤י נְבָלִים֙ וּבְכִנֹּר֔וֹת וְאָסָ֖ף בַּֽמְצִלְתַּ֥יִם מַשְׁמִֽיעַ׃"
+pericope: "[[1Chr.16.1 A Tent for the Ark|A Tent for the Ark]]"
+original_language: Hebrew
+testament: Old
+book: 1 Chronicles
+chapter: 16
+book/chapter: "[[1Chr.16|1 Chronicles 16]]"
+chronological_order: 397
+era: United Kingdom
+period: "David as King: The Ark and the Covenant"
+date: ~1000–995 BC
+book_genre:
+- narrative
+- genealogy
+- monarchic narrative
+- temple focused
+topics:
+- "[[topic ASAPH|ASAPH]]"
+- "[[topic BENAIAH|BENAIAH]]"
+- "[[topic CYMBAL|CYMBAL]]"
+- "[[topic DAVID|DAVID]]"
+- "[[topic ELIAB|ELIAB]]"
+- "[[topic HARP|HARP]]"
+- "[[topic JEIEL|JEIEL]]"
+- "[[topic MATTITHIAH|MATTITHIAH]]"
+- "[[topic MUSIC|MUSIC]]"
+- "[[topic OBED-EDOM|OBED-EDOM]]"
+- "[[topic PSALTERY|PSALTERY]]"
+- "[[topic SHEMIRAMOTH|SHEMIRAMOTH]]"
+- "[[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]"
+strongs:
+- "[[H0623H]]"
+- "[[H9009]]"
+- "[[H7218H]]"
+- "[[H9002]]"
+- "[[H4932H]]"
+- "[[H9023]]"
+- "[[H2148A]]"
+- "[[H3273I]]"
+- "[[H8070G]]"
+- "[[H3171G]]"
+- "[[H4993H]]"
+- "[[H0446K]]"
+- "[[H1141J]]"
+- "[[H5654]]"
+- "[[H9003]]"
+- "[[H3627]]"
+- "[[H5035B]]"
+- "[[H3658]]"
+- "[[H4700]]"
+- "[[H8085I]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **1 Chronicles 16:5**<big><big>[[1Chr.16.1 A Tent for the Ark|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obededom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
 <small><sub>**BSB:**</sub></small>
 Asaph was the chief, Zechariah was second, then Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom, and Jeiel. They were to play the harps and lyres, while Asaph sounded the cymbals
+<small><sub>**Hebrew:**</sub></small>
+[[H0623H\|אָסָ֥ף]] [[H9009\|הָ]][[H7218H\|רֹ֖אשׁ]] [[H9002\|וּ]][[H4932H\|מִשְׁנֵ֣]][[H9023\|הוּ]] [[H2148A\|זְכַרְיָ֑ה]] [[H3273I\|יְעִיאֵ֡ל]] [[H9002\|וּ]][[H8070G\|שְׁמִֽירָמ֡וֹת]] [[H9002\|וִֽ]][[H3171G\|יחִיאֵ֡ל]] [[H9002\|וּ]][[H4993H\|מַתִּתְיָ֡ה]] [[H9002\|וֶ]][[H0446K\|אֱלִיאָ֡ב]] [[H9002\|וּ]][[H1141J\|בְנָיָהוּ֩]] [[H9002\|וְ]][[H5654\|עֹבֵ֨ד]] [[H5654\|אֱדֹ֜ם]] [[H9002\|וִֽ]][[H3273I\|יעִיאֵ֗ל]] [[H9003\|בִּ]][[H3627\|כְלֵ֤י]] [[H5035B\|נְבָלִים֙]] [[H9002\|וּ]][[H9003\|בְ]][[H3658\|כִנֹּר֔וֹת]] [[H9002\|וְ]][[H0623H\|אָסָ֖ף]] [[H9003\|בַּֽ]][[H4700\|מְצִלְתַּ֥יִם]] [[H8085I\|מַשְׁמִֽיעַ]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ASAPH|ASAPH]] • [[topic BENAIAH|BENAIAH]] • [[topic CYMBAL|CYMBAL]] • [[topic DAVID|DAVID]] • [[topic ELIAB|ELIAB]] • [[topic HARP|HARP]] • [[topic JEIEL|JEIEL]] • [[topic MATTITHIAH|MATTITHIAH]] • [[topic MUSIC|MUSIC]] • [[topic OBED-EDOM|OBED-EDOM]] • [[topic PSALTERY|PSALTERY]] • [[topic SHEMIRAMOTH|SHEMIRAMOTH]] • [[topic ZECHARIAH (ZECHARIAS)|ZECHARIAH (ZECHARIAS)]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.1Chr.16.5|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[1Chr.16.4|<< 1 Chronicles 16:4]]</td><td align="center" style="border:none;">[[1Chr.16|1 Chronicles 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[1Chr.16.6|1 Chronicles 16:6 >>]]</td></tr></table>
 

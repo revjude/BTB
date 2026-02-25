@@ -1,10 +1,55 @@
+---
+title: Colossians 4:17
+type: Verse
+kjv: "And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it."
+bsb: "Tell Archippus: “See to it that you complete the ministry you have received in the Lord.”"
+greek: "καὶ εἴπατε Ἀρχίππῳ· βλέπε τὴν διακονίαν ἣν παρέλαβες ἐν κυρίῳ, ἵνα αὐτὴν πληροῖς.¶"
+pericope: "[[Col.4.15 Signature and Final Instructions|Signature and Final Instructions]]"
+original_language: Greek
+testament: New
+book: Colossians
+chapter: 4
+book/chapter: "[[Col.4|Colossians 4]]"
+chronological_order: 1124
+era: Church
+period: "Paul's First Roman Imprisonment: Prison Epistles"
+date: ~AD 60–62
+book_genre:
+- epistle
+- pauline epistle
+- prison epistle
+- polemical
+topics:
+- "[[topic ARCHIPPUS|ARCHIPPUS]]"
+- "[[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]]"
+- "[[topic WATCHFULNESS|WATCHFULNESS]]"
+strongs:
+- "[[G2532]]"
+- "[[G2036]]"
+- "[[G0751]]"
+- "[[G0991]]"
+- "[[G3588]]"
+- "[[G1248]]"
+- "[[G3739]]"
+- "[[G3880]]"
+- "[[G1722]]"
+- "[[G2962G]]"
+- "[[G2443]]"
+- "[[G0846]]"
+- "[[G4137]]"
+texts:
+- NKO
+---
+
 **Colossians 4:17**<big><big>[[Col.4.15 Signature and Final Instructions|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it.
 <small><sub>**BSB:**</sub></small>
 Tell Archippus: “See to it that you complete the ministry you have received in the Lord.”
-<small><sub>**Literal:**</sub></small>
-And do say to Archippus; do take heed to the ministry that you have received in [the] Lord, that it you may fulfill.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.16|<< Colossians 4:16]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.18|Colossians 4:18 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G2532\|καὶ]]  [[G2036\|εἴπατε]]  [[G0751\|Ἀρχίππῳ·]]  [[G0991\|βλέπε]]  [[G3588\|τὴν]]  [[G1248\|διακονίαν]]  [[G3739\|ἣν]]  [[G3880\|παρέλαβες]]  [[G1722\|ἐν]]  [[G2962G\|κυρίῳ,]]  [[G2443\|ἵνα]]  [[G0846\|αὐτὴν]]  [[G4137\|πληροῖς.¶]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ARCHIPPUS|ARCHIPPUS]] • [[topic MINISTER, CHRISTIAN|MINISTER, CHRISTIAN]] • [[topic WATCHFULNESS|WATCHFULNESS]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Col.4.16|<< Colossians 4:16]]</td><td align="center" style="border:none;">[[Col.4|Colossians 4]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Col.4.18|Colossians 4:18 >>]]</td></tr></table>
 
 | Translation | Greek | Transliteration <small><sup>\[morphology\]</sup></small> | Texts |
 | - | - | - | - |

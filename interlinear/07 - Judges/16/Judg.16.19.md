@@ -1,8 +1,66 @@
+---
+title: Judges 16:19
+type: Verse
+kjv: "And she made him sleep upon her knees; and she called for a man, and she caused him to shave off the seven locks of his head; and she began to afflict him, and his strength went from him."
+bsb: "And having lulled him to sleep on her lap, she called a man to shave off the seven braids of his head. In this way she began to subdue him, and his strength left him."
+hebrew: "וַתְּיַשְּׁנֵ֙הוּ֙ עַל־ בִּרְכֶּ֔יהָ וַתִּקְרָ֣א לָאִ֔ישׁ וַתְּגַלַּ֕ח אֶת־ שֶׁ֖בַע מַחְלְפ֣וֹת רֹאשׁ֑וֹ וַתָּ֙חֶל֙ לְעַנּוֹת֔וֹ וַיָּ֥סַר כֹּח֖וֹ מֵעָלָֽיו׃"
+pericope: "[[Judg.16.15 Delilah Learns the Secret|Delilah Learns the Secret]]"
+original_language: Hebrew
+testament: Old
+book: Judges
+chapter: 16
+book/chapter: "[[Judg.16|Judges 16]]"
+chronological_order: 270
+era: Conquest and Judges
+period: "The Period of the Judges"
+date: ~1380–1052 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- cyclical narrative
+topics:
+- "[[topic CONSPIRACY|CONSPIRACY]]"
+- "[[topic DECEPTION|DECEPTION]]"
+- "[[topic FRIENDS|FRIENDS]]"
+- "[[topic SAMSON|SAMSON]]"
+- "[[topic WOMEN|WOMEN]]"
+strongs:
+- "[[H9001]]"
+- "[[H3462]]"
+- "[[H9033]]"
+- "[[H5921A]]"
+- "[[H9014]]"
+- "[[H1290]]"
+- "[[H9024]]"
+- "[[H7121G]]"
+- "[[H9005]]"
+- "[[H0376G]]"
+- "[[H1548]]"
+- "[[H0853]]"
+- "[[H7651]]"
+- "[[H4253]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H2490C]]"
+- "[[H6031B]]"
+- "[[H5493H]]"
+- "[[H3581B]]"
+- "[[H9006]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Judges 16:19**<big><big>[[Judg.16.15 Delilah Learns the Secret|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And she made him sleep upon her knees; and she called for a man, and she caused him to shave off the seven locks of his head; and she began to afflict him, and his strength went from him.
 <small><sub>**BSB:**</sub></small>
 And having lulled him to sleep on her lap, she called a man to shave off the seven braids of his head. In this way she began to subdue him, and his strength left him.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H3462\|תְּיַשְּׁנֵ֙]][[H9033\|הוּ֙]] [[H5921A\|עַל]][[H9014\|־]] [[H1290\|בִּרְכֶּ֔י]][[H9024\|הָ]] [[H9001\|וַ]][[H7121G\|תִּקְרָ֣א]] [[H9005\|לָ]][[H0376G\|אִ֔ישׁ]] [[H9001\|וַ]][[H1548\|תְּגַלַּ֕ח]] [[H0853\|אֶת]][[H9014\|־]] [[H7651\|שֶׁ֖בַע]] [[H4253\|מַחְלְפ֣וֹת]] [[H7218A\|רֹאשׁ֑]][[H9023\|וֹ]] [[H9001\|וַ]][[H2490C\|תָּ֙חֶל֙]] [[H9005\|לְ]][[H6031B\|עַנּוֹת֔]][[H9033\|וֹ]] [[H9001\|וַ]][[H5493H\|יָּ֥סַר]] [[H3581B\|כֹּח֖]][[H9023\|וֹ]] [[H9006\|מֵ]][[H5921A\|עָלָֽי]][[H9033\|ו]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic CONSPIRACY|CONSPIRACY]] • [[topic DECEPTION|DECEPTION]] • [[topic FRIENDS|FRIENDS]] • [[topic SAMSON|SAMSON]] • [[topic WOMEN|WOMEN]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Judg.16.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Judg.16.18|<< Judges 16:18]]</td><td align="center" style="border:none;">[[Judg.16|Judges 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Judg.16.20|Judges 16:20 >>]]</td></tr></table>
 

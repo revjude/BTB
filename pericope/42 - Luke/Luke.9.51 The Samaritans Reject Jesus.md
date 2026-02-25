@@ -1,21 +1,28 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: The Samaritans Reject Jesus
+type: Pericope
 pericope: "[[Luke.9.51 The Samaritans Reject Jesus|The Samaritans Reject Jesus]]"
-verse_count: 6
+original_language: Greek
 testament: New
 book: Luke
 chapter: 9
 book/chapter: "[[Luke.9|Luke 9]]"
-genre:
+chronological_order: 960
+era: Gospel
+period: "The Life of Christ: Galilean Ministry"
+date: ~AD 27–29
+book_genre:
 - gospel
 - synoptic gospel
 - narrative
 - biographical
 - historical narrative
+verse_count: 6
 verses:
 - "[[Luke.9.51]]"
 - "[[Luke.9.52]]"
@@ -25,7 +32,7 @@ verses:
 - "[[Luke.9.56]]"
 ---
 
-[[Luke.9|Luke 9:51 - Luke 9:56]]
+<small>[[Luke.9|Luke 9:51-56]]</small>
 *The Samaritans Reject Jesus*
 
 [[Luke.9.51|51]] And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,

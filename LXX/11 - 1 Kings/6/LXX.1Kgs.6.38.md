@@ -1,6 +1,70 @@
+---
+title: LXX 1 Kings 6:38
+type: Verse
+lxx: "And in the eleventh year, in the month of Bul, this is the eighth month, the house was completed according to all  his words, and according to all  his responsibilities. And he built it in seven years."
+greek: "και εν έτει ενδεκάτω εν μηνί Βούλ ούτος ο μην όγδοος συνετέλεσε τον οίκον κατά πάντας τους λόγους αυτού και κατά πάντα τα κρίματα αυτού και ωκοδόμησεν αυτόν εν επτά έτεσιν"
+original_language: Greek
+testament: Old
+book: 1 Kings
+chapter: 6
+book/chapter: "[[1Kgs.6|1 Kings 6]]"
+chronological_order: 488
+era: United Kingdom
+period: "Solomon: The Temple"
+date: ~966–959 BC
+book_genre:
+- septuagint
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+- building codes
+topics:
+- "[[topic BUL|BUL]]"
+- "[[topic MONTH|MONTH]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G2532]]"
+- "[[G1722]]"
+- "[[G2094]]"
+- "[[G1734]]"
+- "[[G1722]]"
+- "[[G3376]]"
+- "[[H0945]]"
+- "[[G3778]]"
+- "[[G3588]]"
+- "[[G3376]]"
+- "[[G3590]]"
+- "[[G4931]]"
+- "[[G3588]]"
+- "[[G3624]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G3056]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G2596]]"
+- "[[G3956]]"
+- "[[G3588]]"
+- "[[G2917]]"
+- "[[G1473]]"
+- "[[G2532]]"
+- "[[G3618]]"
+- "[[G1473]]"
+- "[[G1722]]"
+- "[[G2033]]"
+- "[[G2094]]"
+---
+
 **LXX 1 Kings 6:38** 
 <small><sub>**LXX:**</sub></small>
 And in \[the\] eleventh year, in \[the\] month of Bul, this \[is\] the eighth month, the house was completed according to all  his words, and according to all  his responsibilities. And he built it in seven years. 
+<small><sub>**Greek:**</sub></small>
+[[G2532\|και]] [[G1722\|εν]] [[G2094\|έτει]] [[G1734\|ενδεκάτω]] [[G1722\|εν]] [[G3376\|μηνί]] [[H0945\|Βούλ]] [[G3778\|ούτος]] [[G3588\|ο]] [[G3376\|μην]] [[G3590\|όγδοος]] [[G4931\|συνετέλεσε]] [[G3588\|τον]] [[G3624\|οίκον]] [[G2596\|κατά]] [[G3956\|πάντας]] [[G3588\|τους]] [[G3056\|λόγους]] [[G1473\|αυτού]] [[G2532\|και]] [[G2596\|κατά]] [[G3956\|πάντα]] [[G3588\|τα]] [[G2917\|κρίματα]] [[G1473\|αυτού]] [[G2532\|και]] [[G3618\|ωκοδόμησεν]] [[G1473\|αυτόν]] [[G1722\|εν]] [[G2033\|επτά]] [[G2094\|έτεσιν]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BUL|BUL]] • [[topic MONTH|MONTH]] • [[topic TEMPLE|TEMPLE]]</small>
 <small><sub>**MT:**</sub></small>
 [[1Kgs.6.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.37|<< 1 Kings 6:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.1|1 Kings 7:1 >>]]</td></tr></table>
 
@@ -35,6 +99,6 @@ And in \[the\] eleventh year, in \[the\] month of Bul, this \[is\] the eighth mo
 | in | **<big>[[G1722\|εν]]</big>** |
 | seven | **<big>[[G2033\|επτά]]</big>** |
 | years. | **<big>[[G2094\|έτεσιν]]</big>** |
-[[1Kgs.6.38|Masoretic Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.37|<< 1 Kings 6:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.1|1 Kings 7:1 >>]]</td></tr></table>
+<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[LXX.1Kgs.6.37|<< 1 Kings 6:37]]</td><td align="center" style="border:none;">&nbsp;</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[LXX.1Kgs.7.1|1 Kings 7:1 >>]]</td></tr></table>
 
 

@@ -1,8 +1,71 @@
+---
+title: 2 Kings 6:19
+type: Verse
+kjv: "And Elisha said unto them, This is not the way, neither is this the city: follow me, and I will bring you to the man whom ye seek. But he led them to Samaria."
+bsb: "And Elisha told them, “This is not the way, and this is not the city. Follow me, and I will take you to the man you are seeking.” And he led them to Samaria."
+hebrew: "וַיֹּ֨אמֶר אֲלֵהֶ֜ם אֱלִישָׁ֗ע לֹ֣א זֶ֣ה הַדֶּרֶךְ֮ וְלֹ֣א זֹ֣ה הָעִיר֒ לְכ֣וּ אַחֲרַ֔י וְאוֹלִ֣יכָה אֶתְכֶ֔ם אֶל־ הָאִ֖ישׁ אֲשֶׁ֣ר תְּבַקֵּשׁ֑וּן וַיֹּ֥לֶךְ אוֹתָ֖ם שֹׁמְרֽוֹנָה׃"
+pericope: "[[2Kgs.6.8 Elisha Captures the Blinded Arameans|Elisha Captures the Blinded Arameans]]"
+original_language: Hebrew
+testament: Old
+book: 2 Kings
+chapter: 6
+book/chapter: "[[2Kgs.6|2 Kings 6]]"
+chronological_order: 578
+era: Divided Kingdom
+period: "The Divided Kingdom: Jehoshaphat to Joash"
+date: ~852–796 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+topics:
+- "[[topic BLINDNESS|BLINDNESS]]"
+- "[[topic DOTHAN|DOTHAN]]"
+- "[[topic ISRAEL|ISRAEL]]"
+- "[[topic JORAM|JORAM]]"
+- "[[topic PRAYER|PRAYER]]"
+- "[[topic SAMARIA|SAMARIA]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H0477]]"
+- "[[H3808]]"
+- "[[H2088]]"
+- "[[H9009]]"
+- "[[H1870K]]"
+- "[[H9002]]"
+- "[[H2090]]"
+- "[[H5892B]]"
+- "[[H1980N]]"
+- "[[H0310A]]"
+- "[[H9030]]"
+- "[[H1980J]]"
+- "[[H0853]]"
+- "[[H9036]]"
+- "[[H9014]]"
+- "[[H0376G]]"
+- "[[H0834A]]"
+- "[[H1245]]"
+- "[[H9013]]"
+- "[[H8111]]"
+- "[[H9011]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **2 Kings 6:19**<big><big>[[2Kgs.6.8 Elisha Captures the Blinded Arameans|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Elisha said unto them, This [is] not the way, neither [is] this the city: follow me, and I will bring you to the man whom ye seek. But he led them to Samaria.
 <small><sub>**BSB:**</sub></small>
 And Elisha told them, “This is not the way, and this is not the city. Follow me, and I will take you to the man you are seeking.” And he led them to Samaria.
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0413\|אֲלֵ]][[H9038\|הֶ֜ם]] [[H0477\|אֱלִישָׁ֗ע]] [[H3808\|לֹ֣א]] [[H2088\|זֶ֣ה]] [[H9009\|הַ]][[H1870K\|דֶּרֶךְ֮]] [[H9002\|וְ]][[H3808\|לֹ֣א]] [[H2090\|זֹ֣ה]] [[H9009\|הָ]][[H5892B\|עִיר֒]] [[H1980N\|לְכ֣וּ]] [[H0310A\|אַחֲרַ֔]][[H9030\|י]] [[H9002\|וְ]][[H1980J\|אוֹלִ֣יכָה]] [[H0853\|אֶתְ]][[H9036\|כֶ֔ם]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הָ]][[H0376G\|אִ֖ישׁ]] [[H0834A\|אֲשֶׁ֣ר]] [[H1245\|תְּבַקֵּשׁ֑וּ]][[H9013\|ן]] [[H9001\|וַ]][[H1980J\|יֹּ֥לֶךְ]] [[H0853\|אוֹתָ֖]][[H9038\|ם]] [[H8111\|שֹׁמְרֽוֹנָ]][[H9011\|ה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BLINDNESS|BLINDNESS]] • [[topic DOTHAN|DOTHAN]] • [[topic ISRAEL|ISRAEL]] • [[topic JORAM|JORAM]] • [[topic PRAYER|PRAYER]] • [[topic SAMARIA|SAMARIA]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Kgs.6.19|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Kgs.6.18|<< 2 Kings 6:18]]</td><td align="center" style="border:none;">[[2Kgs.6|2 Kings 6]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Kgs.6.20|2 Kings 6:20 >>]]</td></tr></table>
 

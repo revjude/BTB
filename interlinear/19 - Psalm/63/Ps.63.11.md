@@ -1,8 +1,61 @@
+---
+title: Psalm 63:11
+type: Verse
+kjv: "But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped."
+bsb: "But the king will rejoice in God; all who swear by Him will exult, for the mouths of liars will be shut."
+hebrew: "וְהַמֶּלֶךְ֮ יִשְׂמַ֪ח בֵּאלֹ֫הִ֥ים יִ֭תְהַלֵּל כָּל־ הַנִּשְׁבָּ֣ע בּ֑וֹ כִּ֥י יִ֝סָּכֵ֗ר פִּ֣י דֽוֹבְרֵי־ שָֽׁקֶר׃"
+pericope: "[[Ps.63.1 Thirsting for God|Thirsting for God]]"
+original_language: Hebrew
+testament: Old
+book: Psalm
+chapter: 63
+book/chapter: "[[Ps.63|Psalm 63]]"
+chronological_order: 318
+era: United Kingdom
+period: "David's Rise and Saul's Decline"
+date: ~1020–1010 BC
+book_genre:
+- wisdom literature
+- poetry
+- hymns
+- prayers
+- liturgical
+- lament
+- praise
+topics:
+- "[[topic FALSEHOOD|FALSEHOOD]]"
+- "[[topic JOY|JOY]]"
+strongs:
+- "[[H9002]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H8055]]"
+- "[[H9003]]"
+- "[[H0430G]]"
+- "[[H1984H]]"
+- "[[H3605]]"
+- "[[H9014]]"
+- "[[H7650]]"
+- "[[H9033]]"
+- "[[H3588A]]"
+- "[[H5534]]"
+- "[[H6310G]]"
+- "[[H1696G]]"
+- "[[H8267]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Psalms 63:11**<big><big>[[Ps.63.1 Thirsting for God|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.
 <small><sub>**BSB:**</sub></small>
 But the king will rejoice in God; all who swear by Him will exult, for the mouths of liars will be shut.
+<small><sub>**Hebrew:**</sub></small>
+[[H9002\|וְ]][[H9009\|הַ]][[H4428G\|מֶּלֶךְ֮]] [[H8055\|יִשְׂמַ֪ח]] [[H9003\|בֵּ]][[H0430G\|אלֹ֫הִ֥ים]] [[H1984H\|יִ֭תְהַלֵּל]] [[H3605\|כָּל]][[H9014\|־]] [[H9009\|הַ]][[H7650\|נִּשְׁבָּ֣ע]] [[H9003\|בּ֑]][[H9033\|וֹ]] [[H3588A\|כִּ֥י]] [[H5534\|יִ֝סָּכֵ֗ר]] [[H6310G\|פִּ֣י]] [[H1696G\|דֽוֹבְרֵי]][[H9014\|־]] [[H8267\|שָֽׁקֶר]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic FALSEHOOD|FALSEHOOD]] • [[topic JOY|JOY]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Ps.63.11|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Ps.63.10|<< Psalms 63:10]]</td><td align="center" style="border:none;">[[Ps.63|Psalms 63]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Ps.64.0|Psalms 64:0 >>]]</td></tr></table>
 

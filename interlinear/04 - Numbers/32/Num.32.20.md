@@ -1,8 +1,67 @@
+---
+title: Numbers 32:20
+type: Verse
+kjv: "And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war,"
+bsb: "Moses replied, “If you will do this—if you will arm yourselves before the LORD for battle,"
+hebrew: "וַיֹּ֤אמֶר אֲלֵיהֶם֙ מֹשֶׁ֔ה אִֽם־ תַּעֲשׂ֖וּן אֶת־ הַדָּבָ֣ר הַזֶּ֑ה אִם־ תֵּחָֽלְצ֛וּ לִפְנֵ֥י יְהוָ֖ה לַמִּלְחָמָֽה׃"
+pericope: "[[Num.32.1 The Tribes East of the Jordan|The Tribes East of the Jordan]]"
+original_language: Hebrew
+testament: Old
+book: Numbers
+chapter: 32
+book/chapter: "[[Num.32|Numbers 32]]"
+chronological_order: 192
+era: Egypt and Exodus
+period: "Wilderness Wanderings: Final Preparations"
+date: ~1407–1406 BC
+book_genre:
+- pentateuch
+- torah
+- law
+- narrative
+- legal codes
+- wilderness narrative
+- census records
+- ritual codes
+topics:
+- "[[topic GAD|GAD]]"
+- "[[topic GILEAD|GILEAD]]"
+- "[[topic MISJUDGMENT|MISJUDGMENT]]"
+- "[[topic MOTIVE|MOTIVE]]"
+- "[[topic UNCHARITABLENESS|UNCHARITABLENESS]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0413]]"
+- "[[H9038]]"
+- "[[H4872]]"
+- "[[H0518A]]"
+- "[[H9014]]"
+- "[[H6213A]]"
+- "[[H9013]]"
+- "[[H0853]]"
+- "[[H9009]]"
+- "[[H1697I]]"
+- "[[H2088]]"
+- "[[H2502B]]"
+- "[[H9005]]"
+- "[[H6440G]]"
+- "[[H3068G]]"
+- "[[H4421]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Numbers 32:20**<big><big>[[Num.32.1 The Tribes East of the Jordan|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 And Moses said unto them, If ye will do this thing, if ye will go armed before the LORD to war,
 <small><sub>**BSB:**</sub></small>
 Moses replied, “If you will do this—if you will arm yourselves before the LORD for battle,
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֤אמֶר]] [[H0413\|אֲלֵי]][[H9038\|הֶם֙]] [[H4872\|מֹשֶׁ֔ה]] [[H0518A\|אִֽם]][[H9014\|־]] [[H6213A\|תַּעֲשׂ֖וּ]][[H9013\|ן]] [[H0853\|אֶת]][[H9014\|־]] [[H9009\|הַ]][[H1697I\|דָּבָ֣ר]] [[H9009\|הַ]][[H2088\|זֶּ֑ה]] [[H0518A\|אִם]][[H9014\|־]] [[H2502B\|תֵּחָֽלְצ֛וּ]] [[H9005\|לִ]][[H6440G\|פְנֵ֥י]] [[H3068G\|יְהוָ֖ה]] [[H9005\|לַ]][[H4421\|מִּלְחָמָֽה]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic GAD|GAD]] • [[topic GILEAD|GILEAD]] • [[topic MISJUDGMENT|MISJUDGMENT]] • [[topic MOTIVE|MOTIVE]] • [[topic UNCHARITABLENESS|UNCHARITABLENESS]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Num.32.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Num.32.19|<< Numbers 32:19]]</td><td align="center" style="border:none;">[[Num.32|Numbers 32]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Num.32.21|Numbers 32:21 >>]]</td></tr></table>
 

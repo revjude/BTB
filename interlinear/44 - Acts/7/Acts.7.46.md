@@ -1,10 +1,54 @@
+---
+title: Acts 7:46
+type: Verse
+kjv: "Who found favour before God, and desired to find a tabernacle for the God of Jacob."
+bsb: "who found favor in the sight of God and asked to provide a dwelling place for the God of Jacob."
+greek: "ὃς εὗρεν χάριν ἐνώπιον τοῦ θεοῦ καὶ ᾐτήσατο εὑρεῖν σκήνωμα τῷ οἴκῳ Ἰακώβ."
+pericope: "[[Acts.7.44 The Tabernacle of the Testimony|The Tabernacle of the Testimony]]"
+original_language: Greek
+testament: New
+book: Acts
+chapter: 7
+book/chapter: "[[Acts.7|Acts 7]]"
+chronological_order: 1025
+era: Church
+period: "The Early Church: Pentecost to Persecution"
+date: ~AD 30–35
+book_genre:
+- narrative
+- historical narrative
+- church history
+topics:
+- "[[topic COURT|COURT]]"
+- "[[topic GOVERNMENT|GOVERNMENT]]"
+- "[[topic READINGS, SELECT|READINGS, SELECT]]"
+- "[[topic TEMPLE|TEMPLE]]"
+strongs:
+- "[[G3739]]"
+- "[[G2147]]"
+- "[[G5485]]"
+- "[[G1799]]"
+- "[[G3588]]"
+- "[[G2316]]"
+- "[[G2532]]"
+- "[[G0154]]"
+- "[[G4638]]"
+- "[[G3624G]]"
+- "[[G2384G]]"
+texts:
+- NKO
+- N(K)O
+---
+
 **Acts 7:46**<big><big>[[Acts.7.44 The Tabernacle of the Testimony|⥂]]</big></big>
 <small><sub>**KJV:**</sub></small>
 Who found favour before God, and desired to find a tabernacle for the God of Jacob.
 <small><sub>**BSB:**</sub></small>
 who found favor in the sight of God and asked to provide a dwelling place for the God of Jacob.
-<small><sub>**Literal:**</sub></small>
-who found favor before <the> God and asked to find a dwelling place for the house of Jacob.<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.45|<< Acts 7:45]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.47|Acts 7:47 >>]]</td></tr></table>
+<small><sub>**Greek:**</sub></small>
+[[G3739\|ὃς]]  [[G2147\|εὗρεν]]  [[G5485\|χάριν]]  [[G1799\|ἐνώπιον]]  [[G3588\|τοῦ]]  [[G2316\|θεοῦ]]  [[G2532\|καὶ]]  [[G0154\|ᾐτήσατο]]  [[G2147\|εὑρεῖν]]  [[G4638\|σκήνωμα]]  [[G3588\|τῷ]]  [[G3624G\|οἴκῳ]]  [[G2384G\|Ἰακώβ.]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic COURT|COURT]] • [[topic GOVERNMENT|GOVERNMENT]] • [[topic READINGS, SELECT|READINGS, SELECT]] • [[topic TEMPLE|TEMPLE]]</small><br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Acts.7.45|<< Acts 7:45]]</td><td align="center" style="border:none;">[[Acts.7|Acts 7]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Acts.7.47|Acts 7:47 >>]]</td></tr></table>
 > [!quote]- Scripture Quoting Scripture
 > **Acts 7:46** is...
 > $\quad$ alluding to: [[LXX.2Sam.7.2|2Sam 7:2]] ☩ [[LXX.Ps.132.5|Ps 132:5]]

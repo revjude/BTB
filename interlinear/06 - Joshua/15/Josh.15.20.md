@@ -1,8 +1,51 @@
+---
+title: Joshua 15:20
+type: Verse
+kjv: "This is the inheritance of the tribe of the children of Judah according to their families."
+bsb: "This is the inheritance of the clans of the tribe of Judah."
+hebrew: "זֹ֗את נַחֲלַ֛ת מַטֵּ֥ה בְנֵי־ יְהוּדָ֖ה לְמִשְׁפְּחֹתָֽם׃"
+pericope: "[[Josh.15.20 The Cities of Judah|The Cities of Judah]]"
+original_language: Hebrew
+testament: Old
+book: Joshua
+chapter: 15
+book/chapter: "[[Josh.15|Joshua 15]]"
+chronological_order: 245
+era: Conquest and Judges
+period: "The Conquest of Canaan"
+date: ~1406–1380 BC
+book_genre:
+- former prophets
+- narrative
+- conquest narrative
+- deuteronomistic history
+topics:
+- "[[topic BEER-SHEBA|BEER-SHEBA]]"
+- "[[topic OTHNIEL|OTHNIEL]]"
+strongs:
+- "[[H2063]]"
+- "[[H5159]]"
+- "[[H4294H]]"
+- "[[H1121G]]"
+- "[[H9014]]"
+- "[[H3063G]]"
+- "[[H9005]]"
+- "[[H4940]]"
+- "[[H9028]]"
+- "[[H9016]]"
+texts:
+- L
+---
+
 **Joshua 15:20**<big><big>[[Josh.15.20 The Cities of Judah|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 This [is] the inheritance of the tribe of the children of Judah according to their families.
 <small><sub>**BSB:**</sub></small>
 This is the inheritance of the clans of the tribe of Judah.
+<small><sub>**Hebrew:**</sub></small>
+[[H2063\|זֹ֗את]] [[H5159\|נַחֲלַ֛ת]] [[H4294H\|מַטֵּ֥ה]] [[H1121G\|בְנֵי]][[H9014\|־]] [[H3063G\|יְהוּדָ֖ה]] [[H9005\|לְ]][[H4940\|מִשְׁפְּחֹתָֽ]][[H9028\|ם]][[H9016\|׃]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic BEER-SHEBA|BEER-SHEBA]] • [[topic OTHNIEL|OTHNIEL]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.Josh.15.20|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[Josh.15.19|<< Joshua 15:19]]</td><td align="center" style="border:none;">[[Josh.15|Joshua 15]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[Josh.15.21|Joshua 15:21 >>]]</td></tr></table>
 

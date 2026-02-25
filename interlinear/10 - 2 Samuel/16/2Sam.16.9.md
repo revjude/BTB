@@ -1,8 +1,73 @@
+---
+title: 2 Samuel 16:9
+type: Verse
+kjv: "Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head."
+bsb: "Then Abishai son of Zeruiah said to the king, “Why should this dead dog curse my lord the king? Let me go over and cut off his head!”"
+hebrew: "וַיֹּ֨אמֶר אֲבִישַׁ֤י בֶּן־ צְרוּיָה֙ אֶל־ הַמֶּ֔לֶךְ לָ֣מָּה יְקַלֵּ֞ל הַכֶּ֤לֶב הַמֵּת֙ הַזֶּ֔ה אֶת־ אֲדֹנִ֖י הַמֶּ֑לֶךְ אֶעְבְּרָה־ נָּ֖א וְאָסִ֥ירָה אֶת־ רֹאשֽׁוֹ׃ ס"
+pericope: "[[2Sam.16.5 Shimei Curses David|Shimei Curses David]]"
+original_language: Hebrew
+testament: Old
+book: 2 Samuel
+chapter: 16
+book/chapter: "[[2Sam.16|2 Samuel 16]]"
+chronological_order: 415
+era: United Kingdom
+period: "David's Sin, Consequences, and Later Psalms"
+date: ~980–975 BC
+book_genre:
+- former prophets
+- narrative
+- deuteronomistic history
+- monarchic narrative
+- succession narrative
+topics:
+- "[[topic ABISHAI|ABISHAI]]"
+- "[[topic CLEMENCY|CLEMENCY]]"
+- "[[topic DOG|DOG]]"
+- "[[topic FORGIVENESS|FORGIVENESS]]"
+- "[[topic MEEKNESS|MEEKNESS]]"
+- "[[topic SHIMEI|SHIMEI]]"
+- "[[topic ZERUIAH|ZERUIAH]]"
+strongs:
+- "[[H9001]]"
+- "[[H0559]]"
+- "[[H0052]]"
+- "[[H1121A]]"
+- "[[H9014]]"
+- "[[H6870]]"
+- "[[H0413]]"
+- "[[H9009]]"
+- "[[H4428G]]"
+- "[[H9005]]"
+- "[[H4100]]"
+- "[[H7043]]"
+- "[[H3611]]"
+- "[[H4191]]"
+- "[[H2088]]"
+- "[[H0853]]"
+- "[[H0113]]"
+- "[[H9020]]"
+- "[[H5674A]]"
+- "[[H4994]]"
+- "[[H9002]]"
+- "[[H5493G]]"
+- "[[H7218A]]"
+- "[[H9023]]"
+- "[[H9016]]"
+- "[[H9018]]"
+texts:
+- L
+---
+
 **2 Samuel 16:9**<big><big>[[2Sam.16.5 Shimei Curses David|⥂]]</big></big> 
 <small><sub>**KJV:**</sub></small>
 Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head.
 <small><sub>**BSB:**</sub></small>
 Then Abishai son of Zeruiah said to the king, “Why should this dead dog curse my lord the king? Let me go over and cut off his head!”
+<small><sub>**Hebrew:**</sub></small>
+[[H9001\|וַ]][[H0559\|יֹּ֨אמֶר]] [[H0052\|אֲבִישַׁ֤י]] [[H1121A\|בֶּן]][[H9014\|־]] [[H6870\|צְרוּיָה֙]] [[H0413\|אֶל]][[H9014\|־]] [[H9009\|הַ]][[H4428G\|מֶּ֔לֶךְ]] [[H9005\|לָ֣]][[H4100\|מָּה]] [[H7043\|יְקַלֵּ֞ל]] [[H9009\|הַ]][[H3611\|כֶּ֤לֶב]] [[H9009\|הַ]][[H4191\|מֵּת֙]] [[H9009\|הַ]][[H2088\|זֶּ֔ה]] [[H0853\|אֶת]][[H9014\|־]] [[H0113\|אֲדֹנִ֖]][[H9020\|י]] [[H9009\|הַ]][[H4428G\|מֶּ֑לֶךְ]] [[H5674A\|אֶעְבְּרָה]][[H9014\|־]] [[H4994\|נָּ֖א]] [[H9002\|וְ]][[H5493G\|אָסִ֥ירָה]] [[H0853\|אֶת]][[H9014\|־]] [[H7218A\|רֹאשֽׁ]][[H9023\|וֹ]][[H9016\|׃]] [[H9018\|ס]]
+<small><sub>**Topics:**</sub></small>
+<small>[[topic ABISHAI|ABISHAI]] • [[topic CLEMENCY|CLEMENCY]] • [[topic DOG|DOG]] • [[topic FORGIVENESS|FORGIVENESS]] • [[topic MEEKNESS|MEEKNESS]] • [[topic SHIMEI|SHIMEI]] • [[topic ZERUIAH|ZERUIAH]]</small>
 <small><sub>**LXX:**</sub></small>
 [[LXX.2Sam.16.9|Greek Text]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.8|<< 2 Samuel 16:8]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.10|2 Samuel 16:10 >>]]</td></tr></table>
 
@@ -26,7 +91,7 @@ Then Abishai son of Zeruiah said to the king, “Why should this dead dog curse 
 | please  |**<big>&#8207;[[H4994\|נָּ֖א]]&#8207; </big>**| na'<small><sup>[[HTj]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | and let me remove  |**<big>&#8207;[[H9002\|וְ]]&#8207;&#8207;[[H5493G\|אָסִ֥ירָה]]&#8207; </big>**| ve.<small><sup>[[HC]]</sup></small> 'a.Si.rah<small><sup>[[HVhc1cs]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 | \<obj.>  |**<big>&#8207;[[H0853\|אֶת]]&#8207;&#8207;[[H9014\|־]]&#8207; </big>**| 'et-<small><sup>[[HTo]]</sup></small> | <abbr title="Leningrad">L</abbr> |
-| head his  |**<big>&#8207;[[H7218A\|רֹאשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[ \| ]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
+| head his  |**<big>&#8207;[[H7218A\|רֹאשֽׁ]]&#8207;&#8207;[[H9023\|וֹ]]&#8207;&#8207;[[H9016\|׃]]&#8207;&#8207;[[H9018\|ס]]&#8207; </big>**| ro.Sh<small><sup>[[HNcmsc]]</sup></small> o<small><sup>[[HSp3ms]]</sup></small> | <abbr title="Leningrad">L</abbr> |
 [[TAHOT#Word Type Abbreviations and Editions|Word Types and Editions]]<br><table width="100%" border="0"><tr><td style="border:none;white-space: nowrap;" width="1%" align="left">[[2Sam.16.8|<< 2 Samuel 16:8]]</td><td align="center" style="border:none;">[[2Sam.16|2 Samuel 16]]</td><td width="1%" align="right" style="border:none;white-space: nowrap;">[[2Sam.16.10|2 Samuel 16:10 >>]]</td></tr></table>
 
 

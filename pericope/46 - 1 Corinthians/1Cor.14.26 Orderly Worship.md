@@ -1,19 +1,26 @@
 ---
-status: 
-difficulty: 
-priority: 
+translation_status: 
+translation_difficulty: 
+translation_priority: 
 translation_date: 
-needs_review: false
+translation_needs_review: false
+title: Orderly Worship
+type: Pericope
 pericope: "[[1Cor.14.26 Orderly Worship|Orderly Worship]]"
-verse_count: 15
+original_language: Greek
 testament: New
 book: 1 Corinthians
 chapter: 14
 book/chapter: "[[1Cor.14|1 Corinthians 14]]"
-genre:
+chronological_order: 1071
+era: Church
+period: "Paul's Letters to the Corinthians"
+date: ~AD 55
+book_genre:
 - epistle
 - pauline epistle
 - pastoral letter
+verse_count: 15
 verses:
 - "[[1Cor.14.26]]"
 - "[[1Cor.14.27]]"
@@ -32,7 +39,7 @@ verses:
 - "[[1Cor.14.40]]"
 ---
 
-[[1Cor.14|1 Corinthians 14:26 - 1 Corinthians 14:40]]
+<small>[[1Cor.14|1 Corinthians 14:26-40]]</small>
 *Orderly Worship*
 
 [[1Cor.14.26|26]] How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying.
